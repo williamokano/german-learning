@@ -31,7 +31,7 @@ Reference lessons (gold standard): `A1/01-erste-kontakte/`, `A1/03-essen-und-tri
 - [x] `A1/01-erste-kontakte` — Erste Kontakte
 - [x] `A1/02-familie-und-freunde` — Familie und Freunde
 - [x] `A1/03-essen-und-trinken` — Essen und Trinken
-- [ ] `A1/04-wohnen` — Wohnen
+- [x] `A1/04-wohnen` — Wohnen
 - [ ] `A1/05-mein-tag` — Mein Tag
 - [ ] `A1/06-freizeit-und-hobbys` — Freizeit und Hobbys
 - [ ] `A1/07-lernen-und-arbeiten` — Lernen und Arbeiten
