@@ -148,4 +148,4 @@ C1 in ~4 → roughly 20 months total at a steady hobby pace. Faster is fine.
 
 ## Progress
 
-Track progress in `tasks/todo.md`. Current status: **A1/01 written** — everything else pending.
+Track progress in `tasks/todo.md`. Current status: **A1/01–A1/03 written** — next up: A1/04 Wohnen.

@@ -24,8 +24,8 @@ never more than 1–2 topics per session, so quality stays high.
 ## Phase 1 — A1 (14 topics)
 
 - [x] A1/01 Erste Kontakte
-- [ ] A1/02 Familie und Freunde
-- [ ] A1/03 Essen und Trinken
+- [x] A1/02 Familie und Freunde
+- [x] A1/03 Essen und Trinken
 - [ ] A1/04 Wohnen
 - [ ] A1/05 Mein Tag
 - [ ] A1/06 Freizeit und Hobbys

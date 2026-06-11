@@ -17,4 +17,5 @@ Menschen / Schritte international neu (Hueber) and Sicher! / Aspekte neu.
 3. Check with `solutions.md`; ≥ 80% → next topic, otherwise review and redo.
 4. One topic per week is a solid pace.
 
-**Current status:** A1 Lektion 1 (Erste Kontakte) available.
+**Current status:** A1 Lektionen 1–3 available (Erste Kontakte · Familie und
+Freunde · Essen und Trinken).
