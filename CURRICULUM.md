@@ -18,16 +18,18 @@ Every topic is a folder `LEVEL/NN-slug/` with three files:
 - **`lesson.md`** — the class itself: dialogues/model texts, vocabulary with
   translations, grammar explained from scratch with tables and examples,
   pronunciation notes, and "Redemittel" (ready-made phrases).
-- **`exercises.md`** — a mixed test battery (telc-style) for that topic:
-  1. **Lückentext** — cloze text with gaps
-  2. **Sprachbausteine Teil 1** — multiple choice (3 options) embedded in a text
-  3. **Sprachbausteine Teil 2** — word bank: 15 words for 10 gaps
-  4. **Grammatik** — transformation and production drills on the topic's grammar
-  5. **Verben** — conjugation/form drills for the topic's verbs
-  6. **Wortschatz** — matching, categorizing, odd-one-out, word formation
-  7. **Satzbau** — word-order puzzles
-  8. **Lesen** — short reading with true/false or MC questions
-  9. **Schreiben** — guided writing task (length grows with level)
+- **`exercises.md`** — a four-block battery (~28–32 exercises, 180–220 items per
+  topic, matching the per-Lektion density of Schritte international neu +
+  Arbeitsbuch). The blocks:
+  - **A — Basistraining** (10–12 exercises): high-repetition single-form drills —
+    conjugation tables, substitution drills, pattern fills. Each grammar point is
+    drilled 4–6 times in different formats; repetitive on purpose.
+  - **B — Vertiefung** (8–10): mixed application — dialogue completion, error
+    correction ("Finde den Fehler"), matching, word order, categorizing, translation.
+  - **C — Prüfungstraining** (5–6): telc/Goethe formats — Lückentext,
+    Sprachbausteine Teil 1 (MC) & Teil 2 (word bank), Lesen, Schreiben.
+  - **D — Wiederholung & Selbsttest** (3–5): ≥20% recycled material from earlier
+    lessons (from Lektion 2 on) + a scored self-test with a pass threshold.
 - **`solutions.md`** — full answer key, with short explanations for the tricky ones.
 
 **Instruction language** is progressive: English at A1–A2, English/German mixed at B1,

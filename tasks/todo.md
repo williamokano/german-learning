@@ -9,15 +9,17 @@ never more than 1–2 topics per session, so quality stays high.
 
 - [x] Instruction language: progressive immersion — English at A1–A2, mixed at B1, German-only at B2–C1
 - [x] Answer keys: separate `solutions.md` per topic
-- [x] Exercise mix per topic: Lückentext, Sprachbausteine (telc Teil 1 & 2 style), grammar
-      transformations, verb drills, vocabulary work, word order, reading, guided writing
+- [x] Exercise volume: four-block architecture (Basistraining / Vertiefung /
+      Prüfungstraining / Wiederholung+Selbsttest), ~28–32 exercises and 180–220 items
+      per topic — see `tasks/lessons.md` (2026-06-11). Never ship below this.
 - [x] Folder layout: `<LEVEL>/<NN-topic-slug>/{lesson.md,exercises.md,solutions.md}`
 
 ## Phase 0 — Foundation
 
 - [x] Write `CURRICULUM.md` (full A1→C1 topic map with grammar/vocab/can-do per topic)
 - [x] Write A1/01 as the template lesson (validates format)
-- [ ] Get user feedback on A1/01 format; adjust template if needed
+- [x] Get user feedback on A1/01 format; adjust template if needed
+      (2026-06-11: volume tripled to four-block architecture after user feedback)
 
 ## Phase 1 — A1 (14 topics)
 
