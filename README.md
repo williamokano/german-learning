@@ -4,7 +4,8 @@ A complete, book-like German course built lesson by lesson, benchmarked against
 Menschen / Schritte international neu (Hueber) and Sicher! / Aspekte neu.
 
 - **[CURRICULUM.md](CURRICULUM.md)** — the full A1→C1 topic map (start here)
-- **[tasks/todo.md](tasks/todo.md)** — production progress
+- **[AUTHORING.md](AUTHORING.md)** — the lesson production spec (for writing/dispatching lessons)
+- **[tasks/todo.md](tasks/todo.md)** — dispatch board with one work item per lesson
 - **`A1/`, `A2/`, …** — one folder per topic:
   - `lesson.md` — the class (dialogues, vocabulary, grammar, phrases)
   - `exercises.md` — mixed telc-style test battery (Lückentext, Sprachbausteine, grammar, verbs, vocab, reading, writing)

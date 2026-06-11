@@ -18,19 +18,18 @@ Every topic is a folder `LEVEL/NN-slug/` with three files:
 - **`lesson.md`** — the class itself: dialogues/model texts, vocabulary with
   translations, grammar explained from scratch with tables and examples,
   pronunciation notes, and "Redemittel" (ready-made phrases).
-- **`exercises.md`** — a four-block battery (~28–32 exercises, 180–220 items per
-  topic, matching the per-Lektion density of Schritte international neu +
-  Arbeitsbuch). The blocks:
-  - **A — Basistraining** (10–12 exercises): high-repetition single-form drills —
-    conjugation tables, substitution drills, pattern fills. Each grammar point is
-    drilled 4–6 times in different formats; repetitive on purpose.
-  - **B — Vertiefung** (8–10): mixed application — dialogue completion, error
-    correction ("Finde den Fehler"), matching, word order, categorizing, translation.
-  - **C — Prüfungstraining** (5–6): telc/Goethe formats — Lückentext,
-    Sprachbausteine Teil 1 (MC) & Teil 2 (word bank), Lesen, Schreiben.
-  - **D — Wiederholung & Selbsttest** (3–5): ≥20% recycled material from earlier
-    lessons (from Lektion 2 on) + a scored self-test with a pass threshold.
+- **`exercises.md`** — a four-block battery (A Basistraining · B Vertiefung ·
+  C Prüfungstraining · D Wiederholung & Selbsttest; ~28–32 exercises, 180–220
+  items per topic, matching the per-Lektion density of Schritte international
+  neu + Arbeitsbuch).
 - **`solutions.md`** — full answer key, with short explanations for the tricky ones.
+
+> **Authoring:** the complete production spec for a lesson (structure, block
+> sizes, scope rules, definition of done, agent dispatch template) lives in
+> **`AUTHORING.md`** — that file is the single source of truth for writing
+> lessons. Production status: **`tasks/todo.md`** (the dispatch board).
+> The tables below define each topic's scope; a topic may use only its own row
+> and earlier rows.
 
 **Instruction language** is progressive: English at A1–A2, English/German mixed at B1,
 German only at B2–C1 (as in real Telc/Goethe exams and the benchmark books).
