@@ -28,6 +28,38 @@ git lfs pull           # download audio files after cloning
 
 If you cloned before installing LFS, run `git lfs pull` afterwards — no re-clone needed.
 
+## Regenerating audio
+
+Hören audio is pre-generated and committed. If you want to regenerate it (e.g. with
+different voices, or after writing a new mock exam), you need an
+[ElevenLabs](https://elevenlabs.io) API key — the Starter plan (~$5/month) covers all
+current audio. Free accounts cannot use the API for voice generation.
+
+```bash
+# 1. Set your key (add to ~/.bashrc to make it permanent)
+export ELEVEN_API_KEY=sk_...
+
+# 2. Install Python dependencies
+pip install -r scripts/requirements.txt
+
+# 3. Regenerate audio for one lesson (skips files that already exist)
+python scripts/generate_audio.py A1/14-pruefungstraining-a1/exercises.md
+
+# 4. Regenerate all lessons with Hören transcripts
+python scripts/generate_audio.py --all
+
+# 5. Force-regenerate (delete the audio/ folder first)
+rm -rf A1/14-pruefungstraining-a1/audio/
+python scripts/generate_audio.py A1/14-pruefungstraining-a1/exercises.md
+```
+
+Voice assignments and background-noise settings live in `scripts/audio_config.json`.
+To preview what would be generated without calling the API:
+
+```bash
+python scripts/generate_audio.py --dry-run A1/14-pruefungstraining-a1/exercises.md
+```
+
 ## How to study
 
 1. Read `lesson.md` actively (say the dialogues out loud).
