@@ -30,6 +30,8 @@ It covers all four exam skills: **Hören · Lesen · Schreiben · Sprechen**.
 
 ---
 
+🎧 **Audio:** [aufgabe1_gespraech1.mp3](audio/aufgabe1_gespraech1.mp3)
+
 **Gespräch 1 — Transcript** *(read aloud or record before attempting)*
 
 > **Frau:** Entschuldigung, wie komme ich zum Bahnhof?
@@ -43,6 +45,8 @@ b) rechts (immediately)
 c) geradeaus (straight ahead, no turn)
 
 ---
+
+🎧 **Audio:** [aufgabe1_gespraech2.mp3](audio/aufgabe1_gespraech2.mp3)
 
 **Gespräch 2 — Transcript**
 
@@ -59,6 +63,8 @@ c) Kaffee und Kuchen
 
 ---
 
+🎧 **Audio:** [aufgabe1_gespraech3.mp3](audio/aufgabe1_gespraech3.mp3)
+
 **Gespräch 3 — Transcript**
 
 > **Mutter:** Lena, wann stehst du morgen auf?
@@ -74,6 +80,8 @@ c) Um 16:15 Uhr
 
 ---
 
+🎧 **Audio:** [aufgabe1_gespraech4.mp3](audio/aufgabe1_gespraech4.mp3)
+
 **Gespräch 4 — Transcript**
 
 > **Thomas:** Hallo, Selin! Wie geht's?
@@ -88,6 +96,8 @@ b) Sie geht nach Hause und schläft.
 c) Sie geht in die Apotheke.
 
 ---
+
+🎧 **Audio:** [aufgabe1_gespraech5.mp3](audio/aufgabe1_gespraech5.mp3)
 
 **Gespräch 5 — Transcript**
 
@@ -109,6 +119,8 @@ c) Beim Arzt
 
 ---
 
+🎧 **Audio:** [aufgabe2.mp3](audio/aufgabe2.mp3)
+
 **Transcript:**
 
 > Hallo Maria, hier ist Petra. Ich rufe an wegen Samstag. Das Konzert beginnt um 20 Uhr, nicht um 19 Uhr — ich habe die Karten jetzt. Wir treffen uns am Bahnhof um Viertel vor acht, okay? Ich habe auch ein Ticket für deine Schwester gekauft. Bitte ruf mich zurück — meine Nummer ist 0173 456 789. Tschüss!
@@ -129,6 +141,8 @@ c) Beim Arzt
 
 ---
 
+🎧 **Audio:** [aufgabe3_ansage1.mp3](audio/aufgabe3_ansage1.mp3)
+
 **Ansage 1 — Transcript**
 
 > Achtung, eine Durchsage: Zug 412 nach Hamburg fährt heute von Gleis 7 ab — nicht von Gleis 5. Abfahrt: 14:32 Uhr.
@@ -140,6 +154,8 @@ b) Gleis 7
 c) Gleis 12
 
 ---
+
+🎧 **Audio:** [aufgabe3_ansage2.mp3](audio/aufgabe3_ansage2.mp3)
 
 **Ansage 2 — Transcript**
 
@@ -153,6 +169,8 @@ c) Es ist am Samstag geschlossen.
 
 ---
 
+🎧 **Audio:** [aufgabe3_ansage3.mp3](audio/aufgabe3_ansage3.mp3)
+
 **Ansage 3 — Transcript**
 
 > Im Supermarkt FRISCH haben wir heute im Angebot: Tomaten — ein Kilo für neunundneunzig Cent! Und frisches Brot — vier Brötchen für einen Euro zwanzig.
@@ -165,6 +183,8 @@ c) 1,99 €
 
 ---
 
+🎧 **Audio:** [aufgabe3_ansage4.mp3](audio/aufgabe3_ansage4.mp3)
+
 **Ansage 4 — Transcript**
 
 > Guten Morgen! Hier ist der Deutschkurs A1. Die Lehrerin, Frau Hoffmann, ist heute krank. Der Kurs findet heute nicht statt. Der nächste Kurs ist am Donnerstag um 10 Uhr.
@@ -176,6 +196,8 @@ b) Die Lehrerin ist krank.
 c) Der Raum ist besetzt.
 
 ---
+
+🎧 **Audio:** [aufgabe3_ansage5.mp3](audio/aufgabe3_ansage5.mp3)
 
 **Ansage 5 — Transcript**
 
