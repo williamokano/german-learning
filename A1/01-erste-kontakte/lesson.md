@@ -1,9 +1,9 @@
 # A1 · Lektion 1 — Erste Kontakte (First Contacts)
 
-> **You will learn to:** greet people, introduce yourself, say where you're from and
+> **You will learn to:** greet people, introduce yourself, say where you're from and  
 > where you live, ask others the same, spell your name, and count from 0 to 20.
 >
-> **Grammar:** personal pronouns · the verb `sein` · regular verbs in the present
+> **Grammar:** personal pronouns · the verb `sein` · regular verbs in the present  
 > (`heißen, kommen, wohnen, sprechen*`) · W-questions · word order in statements
 > and questions.
 
@@ -15,26 +15,26 @@
 
 ### Dialog A: Informell — du
 
-> **Anna:** Hallo! Ich heiße Anna. Und wie heißt du?
-> **Bruno:** Hallo, Anna. Ich bin Bruno.
-> **Anna:** Woher kommst du, Bruno?
-> **Bruno:** Ich komme aus Brasilien, aus São Paulo. Und du?
-> **Anna:** Ich komme aus Österreich, aber ich wohne jetzt in Berlin.
-> **Bruno:** Ah, interessant! Ich wohne auch in Berlin.
-> **Anna:** Welche Sprachen sprichst du?
-> **Bruno:** Ich spreche Portugiesisch, Englisch und ein bisschen Deutsch.
+> **Anna:** Hallo! Ich heiße Anna. Und wie heißt du?  
+> **Bruno:** Hallo, Anna. Ich bin Bruno.  
+> **Anna:** Woher kommst du, Bruno?  
+> **Bruno:** Ich komme aus Brasilien, aus Blumenau — das ist in Santa Catarina. Und du?  
+> **Anna:** Ich komme aus Russland, aus Jaroslawl, aber ich wohne jetzt in Berlin.  
+> **Bruno:** Ah, interessant! Ich wohne auch in Berlin.  
+> **Anna:** Welche Sprachen sprichst du?  
+> **Bruno:** Ich spreche Portugiesisch, Englisch und ein bisschen Deutsch.  
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Formell — Sie
 
-> **Frau Weber:** Guten Tag! Mein Name ist Weber. Wie heißen **Sie**?
-> **Herr Steinmeyer:** Guten Tag, Frau Weber. Ich heiße Friedrich Steinmeyer.
-> **Frau Weber:** Entschuldigung, wie bitte? Buchstabieren Sie bitte.
-> **Herr Steinmeyer:** S-T-E-I-N-M-E-Y-E-R.
-> **Frau Weber:** Danke. Woher kommen Sie, Herr Steinmeyer?
-> **Herr Steinmeyer:** Ich komme aus Brasilien.
-> **Frau Weber:** Willkommen in Deutschland!
+> **Frau Weber:** Guten Tag! Mein Name ist Weber. Wie heißen **Sie**?  
+> **Herr Steinmeyer:** Guten Tag, Frau Weber. Ich heiße Friedrich Steinmeyer.  
+> **Frau Weber:** Entschuldigung, wie bitte? Buchstabieren Sie bitte.  
+> **Herr Steinmeyer:** S-T-E-I-N-M-E-Y-E-R.  
+> **Frau Weber:** Danke. Woher kommen Sie, Herr Steinmeyer?  
+> **Herr Steinmeyer:** Ich komme aus Österreich, aus Salzburg.  
+> **Frau Weber:** Willkommen in Deutschland!  
 
 **Key cultural point — du vs. Sie:** German has two words for "you".
 `du` is informal (friends, family, children, fellow students). `Sie` (always

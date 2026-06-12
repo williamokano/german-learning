@@ -1,13 +1,13 @@
 # A1 · Lektion 11 — Über die Vergangenheit sprechen (Talking About the Past)
 
-> **You will learn to:** say what you did at the weekend, on holiday, or yesterday;
+> **You will learn to:** say what you did at the weekend, on holiday, or yesterday;  
 > ask others what they did; narrate a simple sequence of past events.
 >
-> **Grammar:** the **Perfekt** tense with `haben` and `sein` · participle formation
+> **Grammar:** the **Perfekt** tense with `haben` and `sein` · participle formation  
 > (ge-…-t for regular verbs, ge-…-en for irregular verbs) · simple past of
 > `sein` → `war` and `haben` → `hatte`.
 >
-> **Builds on:** verb conjugation (L1), `sein`/`haben` (L1/L2), separable verbs
+> **Builds on:** verb conjugation (L1), `sein`/`haben` (L1/L2), separable verbs  
 > (L5), modal verbs (L7), dative prepositions (L8), imperative (L10).
 
 ---
@@ -16,22 +16,22 @@
 
 ## 1. Dialog: Das Wochenende
 
-> **Anna:** Hallo Bruno! Wie war dein Wochenende?
-> **Bruno:** Super! Ich bin am Samstag ins Kino gegangen. Der Film war sehr gut.
-> **Anna:** Oh, interessant! Was hast du am Sonntag gemacht?
-> **Bruno:** Ich habe lange geschlafen, und dann habe ich Fußball gespielt.
-> **Anna:** Mit wem?
-> **Bruno:** Mit meinem Freund Carlos. Und du? Was hast du gemacht?
-> **Anna:** Ich habe eine Freundin besucht. Wir haben in einem Restaurant gegessen und Wein getrunken.
-> **Bruno:** Schön! Und wann bist du nach Hause gegangen?
-> **Anna:** Erst um Mitternacht! Ich war sehr müde.
+> **Anna:** Hallo Bruno! Wie war dein Wochenende?  
+> **Bruno:** Super! Ich bin am Samstag ins Kino gegangen. Der Film war sehr gut.  
+> **Anna:** Oh, interessant! Was hast du am Sonntag gemacht?  
+> **Bruno:** Ich habe lange geschlafen, und dann habe ich Fußball gespielt.  
+> **Anna:** Mit wem?  
+> **Bruno:** Mit meinem Freund Carlos. Und du? Was hast du gemacht?  
+> **Anna:** Ich habe eine Freundin besucht. Wir haben in einem Restaurant gegessen und Wein getrunken.  
+> **Bruno:** Schön! Und wann bist du nach Hause gegangen?  
+> **Anna:** Erst um Mitternacht! Ich war sehr müde.  
 
 > And the formal/office version:
 
-> **Herr Yilmaz:** Guten Morgen, Frau Weber. Wie war Ihr Wochenende?
-> **Frau Weber:** Danke, sehr schön. Ich habe viel gelesen und bin spazieren gegangen.
-> **Herr Yilmaz:** Wo sind Sie spazieren gegangen?
-> **Frau Weber:** Im Englischen Garten. Das Wetter war herrlich.
+> **Herr Yilmaz:** Guten Morgen, Frau Weber. Wie war Ihr Wochenende?  
+> **Frau Weber:** Danke, sehr schön. Ich habe viel gelesen und bin spazieren gegangen.  
+> **Herr Yilmaz:** Wo sind Sie spazieren gegangen?  
+> **Frau Weber:** Im Englischen Garten. Das Wetter war herrlich.  
 
 ---
 

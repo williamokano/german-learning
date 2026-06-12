@@ -226,7 +226,7 @@ Not needed: NICHT, SEID, SIND, WER, WOHNT.
 ## Übung C5 — Schreiben (model answer)
 
 > Meine Familie ist nicht sehr groß. Meine Eltern heißen Roberto und Lucia. Sie
-> wohnen in São Paulo. Ich habe eine Schwester. Sie heißt Julia und ist
+> wohnen in Blumenau. Ich habe eine Schwester. Sie heißt Julia und ist
 > achtundzwanzig Jahre alt. Julia ist verheiratet und hat ein Baby. Ich bin
 > ledig und wohne in Berlin. Meine Familie ist weit weg, aber wir telefonieren
 > viel!

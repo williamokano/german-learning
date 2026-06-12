@@ -1,14 +1,14 @@
 # A1 · Lektion 8 — Unterwegs in der Stadt (Out and About in Town)
 
-> **You will learn to:** name means of transport and places in town, say how you
+> **You will learn to:** name means of transport and places in town, say how you  
 > get somewhere, ask for directions politely, understand and give directions,
 > and buy a ticket.
 >
-> **Grammar:** **the dative case** after the prepositions `mit, zu, von, bei,
+> **Grammar:** **the dative case** after the prepositions `mit, zu, von, bei,  
 > nach` (+ `aus`, `seit` briefly) · the contractions `zum, zur, beim, vom` ·
 > `nach Hause` vs `zu Hause` · `fahren` vs `gehen` · the imperative (Sie-form).
 >
-> **Builds on:** separable verbs (L5), `fahren: du fährst` (L6), modal verbs +
+> **Builds on:** separable verbs (L5), `fahren: du fährst` (L6), modal verbs +  
 > Satzklammer (L6/L7), clock times (L5), `gefallen + mir/dir` (L4) — that was
 > the dative all along!
 
@@ -20,15 +20,15 @@
 
 *Bruno besucht Jonas in Köln. Er fragt eine Frau auf der Straße.*
 
-> **Bruno:** Entschuldigung, wo ist der Bahnhof, bitte?
-> **Frau:** Der Bahnhof? Das ist weit. Fahren Sie mit der U-Bahn!
-> **Bruno:** Und wo ist die Haltestelle?
-> **Frau:** Gehen Sie hier geradeaus, dann die erste Straße links.* Die
+> **Bruno:** Entschuldigung, wo ist der Bahnhof, bitte?  
+> **Frau:** Der Bahnhof? Das ist weit. Fahren Sie mit der U-Bahn!  
+> **Bruno:** Und wo ist die Haltestelle?  
+> **Frau:** Gehen Sie hier geradeaus, dann die erste Straße links.* Die  
 > Haltestelle ist an der Kirche.**
-> **Bruno:** Wie lange dauert das zu Fuß?
-> **Frau:** Fünf Minuten. Nehmen Sie die Linie 5 und steigen Sie am Bahnhof aus.
-> **Bruno:** Vielen Dank!
-> **Frau:** Gern geschehen!
+> **Bruno:** Wie lange dauert das zu Fuß?  
+> **Frau:** Fünf Minuten. Nehmen Sie die Linie 5 und steigen Sie am Bahnhof aus.  
+> **Bruno:** Vielen Dank!  
+> **Frau:** Gern geschehen!  
 
 \* **Chunk alert:** `die erste / zweite Straße` — learn as chunks; ordinal
 numbers come in Lektion 12.
@@ -39,16 +39,16 @@ chunks with `an`; the full preposition system for `an/in/auf` comes at A2.
 
 ## 2. Dialog: Wie komme ich zum Museum?
 
-> **Anna:** Jonas, ich möchte morgen zum Museum Ludwig. Wie komme ich zum
+> **Anna:** Jonas, ich möchte morgen zum Museum Ludwig. Wie komme ich zum  
 > Museum?
-> **Jonas:** Das ist einfach. Du nimmst die Linie 16 bis zum Dom. Die
+> **Jonas:** Das ist einfach. Du nimmst die Linie 16 bis zum Dom. Die  
 > Haltestelle ist hier bei der Post.
-> **Anna:** Muss ich umsteigen?
-> **Jonas:** Nein, du steigst am Dom aus und gehst zwei Minuten zu Fuß.
-> **Anna:** Und wie lange dauert die Fahrt?
-> **Jonas:** Eine Viertelstunde. Die Bahn fährt um zehn nach neun ab.
-> **Anna:** Super. Kommst du mit?
-> **Jonas:** Nein, ich kann nicht — ich muss zur Arbeit. Aber am Abend essen
+> **Anna:** Muss ich umsteigen?  
+> **Jonas:** Nein, du steigst am Dom aus und gehst zwei Minuten zu Fuß.  
+> **Anna:** Und wie lange dauert die Fahrt?  
+> **Jonas:** Eine Viertelstunde. Die Bahn fährt um zehn nach neun ab.  
+> **Anna:** Super. Kommst du mit?  
+> **Jonas:** Nein, ich kann nicht — ich muss zur Arbeit. Aber am Abend essen  
 > wir zusammen. Ich komme um sechs nach Hause.
 
 ---

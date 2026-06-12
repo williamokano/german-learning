@@ -14,7 +14,7 @@
 
 ## Übung H2 — Dialog: Im Deutschkurs
 
-1. **F** — Anna kommt aus **Österreich**, nicht aus Deutschland.
+1. **F** — Anna kommt aus **Russland** (Jaroslawl), nicht aus Deutschland.
 2. **R** — „Ich wohne auch in Berlin."
 3. **F** — Bruno spricht **Portugiesisch**, Englisch und ein bisschen Deutsch.
 4. **F** — Frau Weber fragt „Woher kommen Sie, Herr Steinmeyer?" — sie fragt nach

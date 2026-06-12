@@ -352,11 +352,11 @@ Richtig (R) oder falsch (F)?
 **Text 2 — Information:** choose a, b, or c.
 
 > **Information — Hauptbahnhof Köln**
-> **Zum Flughafen:** S-Bahn S19, alle 20 Minuten. Die Fahrt dauert
+> **Zum Flughafen:** S-Bahn S19, alle 20 Minuten. Die Fahrt dauert  
 > 15 Minuten. Fahrkarte: 3,50 €.
-> **Zum Dom:** zu Fuß nur 2 Minuten — geradeaus.
-> **Zum Museum Ludwig:** zu Fuß 5 Minuten oder Bus Linie 132 bis „Museum“.
-> **Taxis:** rechts vom Bahnhof.
+> **Zum Dom:** zu Fuß nur 2 Minuten — geradeaus.  
+> **Zum Museum Ludwig:** zu Fuß 5 Minuten oder Bus Linie 132 bis „Museum“.  
+> **Taxis:** rechts vom Bahnhof.  
 
 6. Die S-Bahn zum Flughafen fährt …
    a) alle 15 Minuten b) alle 20 Minuten c) alle 30 Minuten

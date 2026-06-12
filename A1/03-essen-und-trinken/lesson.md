@@ -1,13 +1,13 @@
 # A1 · Lektion 3 — Essen und Trinken (Food and Drink)
 
-> **You will learn to:** name food and drinks, order in a café, shop for groceries,
+> **You will learn to:** name food and drinks, order in a café, shop for groceries,  
 > ask for prices and pay, and talk about meals.
 >
-> **Grammar:** the article system der/die/das · ein/eine · the negative article
+> **Grammar:** the article system der/die/das · ein/eine · the negative article  
 > `kein` · **the accusative case** (finally explaining Lektion 2's chunks!) ·
 > `möchten` · irregular verbs `essen`, `nehmen`.
 >
-> **Builds on:** haben + object chunks (L2), nicht (L2), numbers & prices (L2),
+> **Builds on:** haben + object chunks (L2), nicht (L2), numbers & prices (L2),  
 > yes/no questions (L2).
 
 ---
@@ -16,33 +16,33 @@
 
 ## 1. Dialog: Im Café
 
-> **Kellner:** Guten Tag! Was möchten Sie, bitte?
-> **Anna:** Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte.
-> **Kellner:** Gern. Und Sie?
-> **Bruno:** Ich nehme einen Tee und ein Käsebrötchen. Haben Sie auch
+> **Kellner:** Guten Tag! Was möchten Sie, bitte?  
+> **Anna:** Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte.  
+> **Kellner:** Gern. Und Sie?  
+> **Bruno:** Ich nehme einen Tee und ein Käsebrötchen. Haben Sie auch  
 > Orangensaft?
-> **Kellner:** Ja, natürlich. Ein Glas Orangensaft?
-> **Bruno:** Ja, bitte.
+> **Kellner:** Ja, natürlich. Ein Glas Orangensaft?  
+> **Bruno:** Ja, bitte.  
 > *(später — later)*
-> **Bruno:** Entschuldigung, wir möchten zahlen, bitte!
-> **Kellner:** Gern. Zusammen oder getrennt?
-> **Anna:** Getrennt, bitte.
-> **Kellner:** Der Kaffee und der Kuchen … das macht sechs Euro zwanzig.
-> **Anna:** Hier bitte. Stimmt so!
-> **Kellner:** Vielen Dank!
+> **Bruno:** Entschuldigung, wir möchten zahlen, bitte!  
+> **Kellner:** Gern. Zusammen oder getrennt?  
+> **Anna:** Getrennt, bitte.  
+> **Kellner:** Der Kaffee und der Kuchen … das macht sechs Euro zwanzig.  
+> **Anna:** Hier bitte. Stimmt so!  
+> **Kellner:** Vielen Dank!  
 
 🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
 ## 2. Dialog: Im Supermarkt
 
-> **Bruno:** Entschuldigung, haben Sie Schwarzbrot?
-> **Verkäuferin:** Ja, da hinten links.
-> **Bruno:** Danke. Und was kostet der Käse hier?
-> **Verkäuferin:** Der Gouda? Zwei Euro neunundneunzig.
-> **Bruno:** Gut, dann nehme ich den Gouda, das Schwarzbrot und eine Flasche
+> **Bruno:** Entschuldigung, haben Sie Schwarzbrot?  
+> **Verkäuferin:** Ja, da hinten links.  
+> **Bruno:** Danke. Und was kostet der Käse hier?  
+> **Verkäuferin:** Der Gouda? Zwei Euro neunundneunzig.  
+> **Bruno:** Gut, dann nehme ich den Gouda, das Schwarzbrot und eine Flasche  
 > Wasser.
-> **Verkäuferin:** Sonst noch etwas?
-> **Bruno:** Nein, danke. Das ist alles.
+> **Verkäuferin:** Sonst noch etwas?  
+> **Bruno:** Nein, danke. Das ist alles.  
 
 ---
 

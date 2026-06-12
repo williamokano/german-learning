@@ -1,32 +1,34 @@
 # A1 · Lektion 2 — Familie und Freunde (Family and Friends)
 
-> **You will learn to:** talk about your family, say how old people are, talk about
+> **You will learn to:** talk about your family, say how old people are, talk about  
 > marital status, ask "how are you?", and count from 20 to 1000.
 >
-> **Grammar:** the verb `haben` · possessive articles (mein, dein, sein, ihr…) ·
+> **Grammar:** the verb `haben` · possessive articles (mein, dein, sein, ihr…) ·  
 > plural of nouns · yes/no questions · negation with `nicht`.
 >
-> **Builds on Lektion 1:** sein, regular verbs, W-Fragen, verb-second word order.
+> **Builds on Lektion 1:** sein, regular verbs, W-Fragen, verb-second word order.  
 
 ---
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
-
 ## 1. Dialog: Das Familienfoto
 
-> **Bruno:** Anna, ist das deine Familie auf dem Foto?
-> **Anna:** Ja! Das sind meine Eltern. Mein Vater heißt Georg und meine Mutter
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+### Dialog A: Informell — Schüler unter sich
+
+> **Bruno:** Anna, ist das deine Familie auf dem Foto?  
+> **Anna:** Ja! Das sind meine Eltern. Mein Vater heißt Georg und meine Mutter  
 > heißt Claudia.
-> **Bruno:** Hast du Geschwister?
-> **Anna:** Ja, ich habe einen Bruder und eine Schwester.*
-> **Bruno:** Wie heißen sie?
-> **Anna:** Mein Bruder heißt Felix, er ist zweiundzwanzig Jahre alt. Meine
+> **Bruno:** Hast du Geschwister?  
+> **Anna:** Ja, ich habe einen Bruder und eine Schwester.*  
+> **Bruno:** Wie heißen sie?  
+> **Anna:** Mein Bruder heißt Felix, er ist zweiundzwanzig Jahre alt. Meine  
 > Schwester Lena ist siebzehn.
-> **Bruno:** Und wer ist das?
-> **Anna:** Das ist meine Oma Erika. Sie ist dreiundachtzig und sehr fit!
-> **Bruno:** Toll! Bist du verheiratet, Anna?
-> **Anna:** Nein, ich bin nicht verheiratet. Ich bin ledig. Und du?
-> **Bruno:** Ich bin verheiratet. Meine Frau heißt Paula. Wir haben ein Kind,
+> **Bruno:** Und wer ist das?  
+> **Anna:** Das ist meine Oma Erika. Sie ist dreiundachtzig und sehr fit!  
+> **Bruno:** Toll! Bist du verheiratet, Anna?  
+> **Anna:** Nein, ich bin nicht verheiratet. Ich bin ledig. Und du?  
+> **Bruno:** Ich bin verheiratet. Meine Frau heißt Paula. Wir haben ein Kind,  
 > eine Tochter. Sie heißt Sofia und ist vier Jahre alt.
 
 \* **Chunk alert:** after `haben` you say `einen Bruder` (not *ein Bruder*) and
@@ -34,12 +36,14 @@
 For now, memorize as fixed chunks: *Ich habe einen Bruder / eine Schwester / ein
 Kind.*
 
-Formal variant:
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-> **Frau Weber:** Herr Steinmeyer, haben Sie Kinder?
-> **Herr Steinmeyer:** Ja, ich habe eine Tochter. Sie ist sechs Jahre alt.
+### Dialog B: Formell — Frau Weber und Herr Steinmeyer
+
+> **Frau Weber:** Herr Steinmeyer, haben Sie Kinder?  
+> **Herr Steinmeyer:** Ja, ich habe eine Tochter. Sie ist sechs Jahre alt.  
 > *(Some chunks below)*
-> **Herr Steinmeyer:** Meine Frau kommt auch aus Brasilien.
+> **Herr Steinmeyer:** Meine Frau kommt auch aus Österreich, aus Salzburg.  
 
 ---
 

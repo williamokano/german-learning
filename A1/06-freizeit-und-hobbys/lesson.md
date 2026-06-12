@@ -1,14 +1,14 @@
 # A1 · Lektion 6 — Freizeit und Hobbys (Free Time and Hobbies)
 
-> **You will learn to:** talk about hobbies and sports, say what you like, prefer
+> **You will learn to:** talk about hobbies and sports, say what you like, prefer  
 > and love doing, say what you can (and can't) do, talk about the weather and the
 > seasons, and make simple suggestions.
 >
-> **Grammar:** the modal verb `können` and the **modal bracket** · `gern / lieber /
+> **Grammar:** the modal verb `können` and the **modal bracket** · `gern / lieber /  
 > am liebsten` · new irregular presents `lesen, sehen (e→ie)`, `treffen (e→i)`,
 > `fahren (a→ä)` · `fernsehen` in full · weather sentences with `es`.
 >
-> **Builds on:** the Satzklammer of separable verbs (L5), schlafen/anfangen (a→ä, L5),
+> **Builds on:** the Satzklammer of separable verbs (L5), schlafen/anfangen (a→ä, L5),  
 > sprechen/essen/nehmen (e→i, L1/L3), `Was isst du gern?` (L3 — explained today!),
 > um/am/von…bis (L5), `Hast du am Samstag Zeit?` (L5), `ins Kino gehen` (L5).
 
@@ -18,17 +18,17 @@
 
 ## 1. Dialog: Was machst du gern?
 
-> **Anna:** Bruno, was machst du gern in deiner Freizeit?
-> **Bruno:** Ich spiele gern Fußball! Am Samstag spiele ich immer mit Freunden
+> **Anna:** Bruno, was machst du gern in deiner Freizeit?  
+> **Bruno:** Ich spiele gern Fußball! Am Samstag spiele ich immer mit Freunden  
 > im Park.* Und ich schwimme gern. Und du?
-> **Anna:** Ich lese sehr gern, am liebsten Krimis. Und ich fahre gern Rad.
-> **Bruno:** Kannst du auch schwimmen?
-> **Anna:** Ja, aber nicht sehr gut. Und ich gehe nur im Sommer schwimmen —
+> **Anna:** Ich lese sehr gern, am liebsten Krimis. Und ich fahre gern Rad.  
+> **Bruno:** Kannst du auch schwimmen?  
+> **Anna:** Ja, aber nicht sehr gut. Und ich gehe nur im Sommer schwimmen —  
 > im Winter ist das Wasser zu kalt!
-> **Bruno:** Spielst du ein Instrument?
-> **Anna:** Ja, ich spiele Gitarre. Und mein Bruder Felix kann sehr gut
+> **Bruno:** Spielst du ein Instrument?  
+> **Anna:** Ja, ich spiele Gitarre. Und mein Bruder Felix kann sehr gut  
 > Klavier spielen.
-> **Bruno:** Toll! Ich kann nicht singen und ich kann kein Instrument spielen.
+> **Bruno:** Toll! Ich kann nicht singen und ich kann kein Instrument spielen.  
 > Aber ich koche sehr gern — am liebsten brasilianisch!
 
 \* `mit Freunden`, `im Park` — preposition chunks for now; the preposition
@@ -38,19 +38,19 @@ system starts in Lektion 8.
 
 ## 2. Dialog: Das Wetter ist schlecht — was machen wir?
 
-> **Paula:** Bruno, wie ist das Wetter heute?
-> **Bruno:** Nicht gut. Es regnet und es ist windig — es sind nur zwölf Grad.
-> **Paula:** Schade! Dann können wir nicht schwimmen gehen.
-> **Bruno:** Nein. Aber wir können ins Kino gehen! Es gibt einen Film für Kinder.
-> **Paula:** Gute Idee! Sofia sieht gern Filme. Um wie viel Uhr fängt der Film an?
-> **Bruno:** Um halb drei.
-> **Paula:** Perfekt. Und morgen scheint die Sonne — da fahren wir Rad!
+> **Paula:** Bruno, wie ist das Wetter heute?  
+> **Bruno:** Nicht gut. Es regnet und es ist windig — es sind nur zwölf Grad.  
+> **Paula:** Schade! Dann können wir nicht schwimmen gehen.  
+> **Bruno:** Nein. Aber wir können ins Kino gehen! Es gibt einen Film für Kinder.  
+> **Paula:** Gute Idee! Sofia sieht gern Filme. Um wie viel Uhr fängt der Film an?  
+> **Bruno:** Um halb drei.  
+> **Paula:** Perfekt. Und morgen scheint die Sonne — da fahren wir Rad!  
 >
 > *(später, am Telefon)*
-> **Bruno:** Hallo Anna! Wir gehen heute ins Kino. Hast du Lust?* Kommst du mit?
-> **Anna:** Tut mir leid,** ich kann heute nicht. Ich treffe meine Schwester.
-> **Bruno:** Schade! Vielleicht am Sonntag?
-> **Anna:** Ja, gern! Bis Sonntag!
+> **Bruno:** Hallo Anna! Wir gehen heute ins Kino. Hast du Lust?* Kommst du mit?  
+> **Anna:** Tut mir leid,** ich kann heute nicht. Ich treffe meine Schwester.  
+> **Bruno:** Schade! Vielleicht am Sonntag?  
+> **Anna:** Ja, gern! Bis Sonntag!  
 
 \* `Hast du Lust?` (Do you feel like it?) — learn as a chunk. The full pattern
 (`Lust auf etwas haben`) comes at A2.

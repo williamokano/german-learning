@@ -373,7 +373,7 @@ Richtig (R) oder falsch (F)?
 > Dienstag–Freitag: 7:00–21:00 Uhr
 > Samstag und Sonntag: 9:00–18:00 Uhr
 >
-> **Kino am Markt:** Film „Berlin bei Nacht“ — Samstag, 20:30 Uhr
+> **Kino am Markt:** Film „Berlin bei Nacht“ — Samstag, 20:30 Uhr  
 
 6. Das Schwimmbad ist am Montag …
    a) von 7 bis 21 Uhr offen b) geschlossen c) von 9 bis 18 Uhr offen

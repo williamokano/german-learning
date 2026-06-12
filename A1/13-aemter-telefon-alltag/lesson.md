@@ -1,13 +1,13 @@
 # A1 · Lektion 13 — Ämter, Telefon und Alltag (Offices, Telephone and Daily Life)
 
-> **You will learn to:** make and respond to telephone calls, fill in an Anmeldung
+> **You will learn to:** make and respond to telephone calls, fill in an Anmeldung  
 > (registration form), write a simple e-mail, and handle routine admin interactions
 > at offices (Bürgeramt, Arztpraxis, etc.).
 >
-> **Grammar:** Recap of all three cases seen so far (Nominativ, Akkusativ, Dativ) ·
+> **Grammar:** Recap of all three cases seen so far (Nominativ, Akkusativ, Dativ) ·  
 > Polite request chunk `Könnten Sie …?` · Filling in official forms.
 >
-> **Builds on:** personal pronouns + `sein`/`haben` (L1, L2) · accusative article
+> **Builds on:** personal pronouns + `sein`/`haben` (L1, L2) · accusative article  
 > (L3) · dative prepositions mit/zu/von/bei/nach (L8) · dative personal pronouns
 > (L9) · imperative Sie-form (L8) · modal verbs (L7) · Perfekt (L11) · dates &
 > ordinal numbers (L12).
@@ -20,22 +20,22 @@
 
 ### Dialog A: Telefonat — Anna ruft das Bürgeramt an
 
-> **Sachbearbeiterin:** Bürgeramt Mitte, guten Tag.
-> **Anna:** Guten Tag. Mein Name ist Bergmann, Anna Bergmann. Ich habe eine
+> **Sachbearbeiterin:** Bürgeramt Mitte, guten Tag.  
+> **Anna:** Guten Tag. Mein Name ist Bergmann, Anna Bergmann. Ich habe eine  
 > Frage zur Anmeldung.
-> **Sachbearbeiterin:** Ja, gerne. Was kann ich für Sie tun?
-> **Anna:** Ich möchte mich anmelden. Welche Dokumente brauche ich?
-> **Sachbearbeiterin:** Sie brauchen Ihren Personalausweis oder Reisepass und
+> **Sachbearbeiterin:** Ja, gerne. Was kann ich für Sie tun?  
+> **Anna:** Ich möchte mich anmelden. Welche Dokumente brauche ich?  
+> **Sachbearbeiterin:** Sie brauchen Ihren Personalausweis oder Reisepass und  
 > einen aktuellen Wohnungsgebernachweis.
-> **Anna:** Und wie lange dauert der Termin?
-> **Sachbearbeiterin:** Etwa zwanzig Minuten. Möchten Sie online einen Termin
+> **Anna:** Und wie lange dauert der Termin?  
+> **Sachbearbeiterin:** Etwa zwanzig Minuten. Möchten Sie online einen Termin  
 > buchen?
-> **Anna:** Ja, gerne. Vielen Dank!
-> **Sachbearbeiterin:** Auf Wiederhören!
+> **Anna:** Ja, gerne. Vielen Dank!  
+> **Sachbearbeiterin:** Auf Wiederhören!  
 
 ### Dialog B: E-Mail an den Vermieter
 
-> **Betreff:** Frage zur Anmeldung
+> **Betreff:** Frage zur Anmeldung  
 >
 > Sehr geehrter Herr Keller,
 >
@@ -52,13 +52,13 @@
 
 ### Dialog C: Am Telefon — eine Verabredung ändern
 
-> **Bruno:** Hallo, Anna! Hier ist Bruno. Störe ich gerade?
-> **Anna:** Nein, nein. Was gibt es?
-> **Bruno:** Ich kann leider nicht um drei Uhr kommen. Ich habe einen Termin
+> **Bruno:** Hallo, Anna! Hier ist Bruno. Störe ich gerade?  
+> **Anna:** Nein, nein. Was gibt es?  
+> **Bruno:** Ich kann leider nicht um drei Uhr kommen. Ich habe einen Termin  
 > beim Arzt.
-> **Anna:** Kein Problem. Können wir uns um fünf Uhr treffen?
-> **Bruno:** Ja, das passt. Bis dann!
-> **Anna:** Tschüss, Bruno!
+> **Anna:** Kein Problem. Können wir uns um fünf Uhr treffen?  
+> **Bruno:** Ja, das passt. Bis dann!  
+> **Anna:** Tschüss, Bruno!  
 
 ---
 
@@ -300,7 +300,7 @@ In the Perfekt (L11):
 
 ## 5. Lesetext: Die Anmeldung
 
-> Bruno ist neu in Berlin. Er kommt aus São Paulo und wohnt jetzt in Friedrichshain.
+> Bruno ist neu in Berlin. Er kommt aus Blumenau (Santa Catarina) und wohnt jetzt in Friedrichshain.
 > Sein Vermieter heißt Herr Koch. Herr Koch hat ihm schon einen Wohnungsgebernachweis
 > gegeben.
 >

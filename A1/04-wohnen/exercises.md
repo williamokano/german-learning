@@ -360,10 +360,10 @@ Richtig (R) oder falsch (F)?
 
 **Text 2 — Wohnungsanzeigen:** choose a, b, or c.
 
-> **Anzeige 1:** 2-Zimmer-Wohnung in Berlin-Pankow, 55 m², Küche neu, Bad mit
+> **Anzeige 1:** 2-Zimmer-Wohnung in Berlin-Pankow, 55 m², Küche neu, Bad mit  
 > Fenster, Balkon. Ab sofort frei. Miete: 780 Euro. Telefon: 030 555 12 34
 >
-> **Anzeige 2:** 3-Zimmer-Wohnung in Berlin-Spandau, 78 m², Garten und Garage,
+> **Anzeige 2:** 3-Zimmer-Wohnung in Berlin-Spandau, 78 m², Garten und Garage,  
 > sehr ruhig. Miete: 950 Euro. Telefon: 030 555 98 76
 
 6. Anzeige 1: Die Wohnung hat … a) zwei Zimmer b) drei Zimmer c) einen Garten

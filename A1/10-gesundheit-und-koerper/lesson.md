@@ -1,12 +1,12 @@
 # A1 · Lektion 10 — Gesundheit und Körper (Health and Body)
 
-> **You will learn to:** name body parts, describe illnesses and symptoms, talk to
+> **You will learn to:** name body parts, describe illnesses and symptoms, talk to  
 > a doctor or pharmacist, give and follow simple health advice.
 >
-> **Grammar:** imperative (du-form and ihr-form) · modal verb `sollen` ·
+> **Grammar:** imperative (du-form and ihr-form) · modal verb `sollen` ·  
 > possessive articles in accusative and dative (mein/dein… in all cases seen so far).
 >
-> **Builds on:** möchten (L3) · modal verbs können/müssen/wollen/dürfen (L7) ·
+> **Builds on:** möchten (L3) · modal verbs können/müssen/wollen/dürfen (L7) ·  
 > dative prepositions mit/zu/von/bei/nach (L8) · accusative case (L3) ·
 > separable verbs (L5) · irregular presents (L6).
 
@@ -16,19 +16,19 @@
 
 ## 1. Dialog: Beim Arzt (At the Doctor's)
 
-> **Arzt:** Guten Tag! Was fehlt Ihnen?
-> **Patient:** Guten Tag, Doktor. Ich habe Halsschmerzen und Kopfschmerzen. Ich fühle mich sehr schlecht.
-> **Arzt:** Seit wann haben Sie die Schmerzen?
-> **Patient:** Seit zwei Tagen.
-> **Arzt:** Ich schaue mal. Machen Sie bitte den Mund auf. Sagen Sie „Ah".
-> **Patient:** Aaah.
-> **Arzt:** Ihr Hals ist rot. Haben Sie auch Fieber?
-> **Patient:** Ja, ich glaube, 38,5 Grad.
-> **Arzt:** Sie haben eine Erkältung. Bleiben Sie zu Hause und trinken Sie viel Wasser. Ich schreibe Ihnen ein Rezept.
-> **Patient:** Muss ich ins Krankenhaus?
-> **Arzt:** Nein, nein. Ruhen Sie sich aus und nehmen Sie diese Tabletten dreimal täglich.
-> **Patient:** Danke, Herr Doktor.
-> **Arzt:** Gute Besserung!
+> **Arzt:** Guten Tag! Was fehlt Ihnen?  
+> **Patient:** Guten Tag, Doktor. Ich habe Halsschmerzen und Kopfschmerzen. Ich fühle mich sehr schlecht.  
+> **Arzt:** Seit wann haben Sie die Schmerzen?  
+> **Patient:** Seit zwei Tagen.  
+> **Arzt:** Ich schaue mal. Machen Sie bitte den Mund auf. Sagen Sie „Ah".  
+> **Patient:** Aaah.  
+> **Arzt:** Ihr Hals ist rot. Haben Sie auch Fieber?  
+> **Patient:** Ja, ich glaube, 38,5 Grad.  
+> **Arzt:** Sie haben eine Erkältung. Bleiben Sie zu Hause und trinken Sie viel Wasser. Ich schreibe Ihnen ein Rezept.  
+> **Patient:** Muss ich ins Krankenhaus?  
+> **Arzt:** Nein, nein. Ruhen Sie sich aus und nehmen Sie diese Tabletten dreimal täglich.  
+> **Patient:** Danke, Herr Doktor.  
+> **Arzt:** Gute Besserung!  
 
 ---
 
@@ -36,17 +36,17 @@
 
 ## 2. Dialog: In der Apotheke (At the Pharmacy)
 
-> **Anna:** Entschuldigung, ich brauche etwas gegen Kopfschmerzen.
-> **Apothekerin:** Haben Sie ein Rezept?
-> **Anna:** Nein, ich suche etwas ohne Rezept.
-> **Apothekerin:** Diese Tabletten hier sind gut. Nehmen Sie zwei Tabletten, dreimal täglich.
-> **Anna:** Und darf ich sie auch nehmen, wenn ich Magenschmerzen habe?
-> **Apothekerin:** Ja, aber essen Sie vorher etwas. Trinken Sie viel Wasser dazu.
-> **Anna:** Gut, ich nehme die Tabletten. Was kosten sie?
-> **Apothekerin:** Sieben Euro neunzig.
-> **Anna:** Danke sehr!
-> **Apothekerin:** Gute Besserung, Frau …?
-> **Anna:** Bauer. Anna Bauer.
+> **Anna:** Entschuldigung, ich brauche etwas gegen Kopfschmerzen.  
+> **Apothekerin:** Haben Sie ein Rezept?  
+> **Anna:** Nein, ich suche etwas ohne Rezept.  
+> **Apothekerin:** Diese Tabletten hier sind gut. Nehmen Sie zwei Tabletten, dreimal täglich.  
+> **Anna:** Und darf ich sie auch nehmen, wenn ich Magenschmerzen habe?  
+> **Apothekerin:** Ja, aber essen Sie vorher etwas. Trinken Sie viel Wasser dazu.  
+> **Anna:** Gut, ich nehme die Tabletten. Was kosten sie?  
+> **Apothekerin:** Sieben Euro neunzig.  
+> **Anna:** Danke sehr!  
+> **Apothekerin:** Gute Besserung, Frau …?  
+> **Anna:** Bauer. Anna Bauer.  
 
 ---
 
@@ -167,7 +167,7 @@
 ⚠️ `weh tun`: Mein Kopf tut weh. · Meine Beine tun weh. (plural: tun)
 ⚠️ `schlafen` is irregular: du **schläfst**, er **schläft** (like `fahren`, L6).
 
-> **Chunk alert — `sich fühlen` / `sich ausruhen`:** These are reflexive verbs.
+> **Chunk alert — `sich fühlen` / `sich ausruhen`:** These are reflexive verbs.  
 > The full reflexive-verb system is taught at A2 (Lektion 5). For now treat
 > *Ich fühle mich nicht gut* and *Ruh dich aus!* as fixed chunks.
 

@@ -1,45 +1,47 @@
 # A1 · Lektion 12 — Termine und Feste (Appointments and Celebrations)
 
-> **You will learn to:** say and write dates, talk about months and holidays,
+> **You will learn to:** say and write dates, talk about months and holidays,  
 > make and decline appointments, write a short invitation, and wish someone a
 > happy birthday.
 >
-> **Grammar:** ordinal numbers and dates (`am ersten, am zweiten…`) ·
+> **Grammar:** ordinal numbers and dates (`am ersten, am zweiten…`) ·  
 > temporal prepositions `im`, `am`, `um`, `vor`, `nach` ·
 > making and declining appointments.
 >
-> **Builds on:** numbers (L1, L2), separable verbs (L5), time expressions `um`
+> **Builds on:** numbers (L1, L2), separable verbs (L5), time expressions `um`  
 > and `am` (L5), modal verbs `können`, `müssen`, `wollen` (L6, L7), Perfekt
 > (L11).
 
 ---
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
-
 ## 1. Dialog: Haben wir heute einen Termin?
 
-**Informal — Anna und Bruno planen eine Party**
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-> **Anna:** He, Bruno! Mein Geburtstag ist am dreizehnten Mai. Ich mache eine Party.
-> **Bruno:** Super! Wann denn?
-> **Anna:** Am Samstag, dem vierzehnten Mai, um sieben Uhr abends.
-> **Bruno:** Oh, Moment. Den vierzehnten — das geht leider nicht. Ich habe einen Termin.
-> **Anna:** Und am Fünfzehnten, am Sonntag?
-> **Bruno:** Ja, das passt! Ich komme gern.
-> **Anna:** Prima! Ich schicke dir eine Einladung.
-> **Bruno:** Vielen Dank — und herzlichen Glückwunsch zum Geburtstag!
-> **Anna:** Ha, der ist erst am Dreizehnten! Aber danke!
+### Dialog A: Informell — Anna und Bruno planen eine Party
 
-**Formal — Frau Weber macht einen Arzttermin**
+> **Anna:** He, Bruno! Mein Geburtstag ist am dreizehnten Mai. Ich mache eine Party.  
+> **Bruno:** Super! Wann denn?  
+> **Anna:** Am Samstag, dem vierzehnten Mai, um sieben Uhr abends.  
+> **Bruno:** Oh, Moment. Den vierzehnten — das geht leider nicht. Ich habe einen Termin.  
+> **Anna:** Und am Fünfzehnten, am Sonntag?  
+> **Bruno:** Ja, das passt! Ich komme gern.  
+> **Anna:** Prima! Ich schicke dir eine Einladung.  
+> **Bruno:** Vielen Dank — und herzlichen Glückwunsch zum Geburtstag!  
+> **Anna:** Ha, der ist erst am Dreizehnten! Aber danke!  
 
-> **Sprechstundenhilfe:** Guten Tag, Praxis Dr. Hoffmann. Was kann ich für Sie tun?
-> **Frau Weber:** Guten Tag. Ich möchte gern einen Termin beim Doktor.
-> **Sprechstundenhilfe:** Gern. Passt Ihnen Mittwoch, der achtzehnte Oktober?
-> **Frau Weber:** Um wie viel Uhr?
-> **Sprechstundenhilfe:** Um 10 Uhr 30.
-> **Frau Weber:** Ja, das passt gut. Ich komme am Mittwoch um halb elf.
-> **Sprechstundenhilfe:** Sehr gut. Auf Wiederhören, Frau Weber!
-> **Frau Weber:** Auf Wiederhören!
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+### Dialog B: Formell — Frau Weber macht einen Arzttermin
+
+> **Sprechstundenhilfe:** Guten Tag, Praxis Dr. Hoffmann. Was kann ich für Sie tun?  
+> **Frau Weber:** Guten Tag. Ich möchte gern einen Termin beim Doktor.  
+> **Sprechstundenhilfe:** Gern. Passt Ihnen Mittwoch, der achtzehnte Oktober?  
+> **Frau Weber:** Um wie viel Uhr?  
+> **Sprechstundenhilfe:** Um 10 Uhr 30.  
+> **Frau Weber:** Ja, das passt gut. Ich komme am Mittwoch um halb elf.  
+> **Sprechstundenhilfe:** Sehr gut. Auf Wiederhören, Frau Weber!  
+> **Frau Weber:** Auf Wiederhören!  
 
 ---
 

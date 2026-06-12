@@ -1,41 +1,45 @@
 # A1 · Lektion 7 — Lernen und Arbeiten (Learning and Working)
 
-> **You will learn to:** name professions, talk about your job and workplace,
+> **You will learn to:** name professions, talk about your job and workplace,  
 > name school subjects, say what you have to do, want to do, and are allowed
 > (or not allowed) to do.
 >
-> **Grammar:** modal verbs `müssen` (must/have to) · `wollen` (want to) ·
+> **Grammar:** modal verbs `müssen` (must/have to) · `wollen` (want to) ·  
 > `dürfen` (may/be allowed to) · the **Satzklammer** (verb bracket) with all
 > modals reviewed and extended.
 >
-> **Builds on:** `können` and the Satzklammer (L6), separable verbs in the
+> **Builds on:** `können` and the Satzklammer (L6), separable verbs in the  
 > bracket (L5), regular/irregular present tense (L1, L3, L6), `nicht` (L2),
 > `kein` (L3), telling the time (L5), accusative article (L3).
 
 ---
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
-
 ## 1. Dialog: Im Büro
 
-> **Anna:** Bruno, wann musst du heute arbeiten?
-> **Bruno:** Ich muss um acht Uhr im Büro sein. Und du?
-> **Anna:** Ich arbeite von neun bis fünf. Heute Abend will ich noch lernen —
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+### Dialog A: Informell — Anna und Bruno im Büro
+
+> **Anna:** Bruno, wann musst du heute arbeiten?  
+> **Bruno:** Ich muss um acht Uhr im Büro sein. Und du?  
+> **Anna:** Ich arbeite von neun bis fünf. Heute Abend will ich noch lernen —  
 > ich habe morgen einen Kurs.
-> **Bruno:** Was lernst du?
-> **Anna:** Ich mache einen Computerkurs. Ich will Programmieren lernen.
-> **Bruno:** Cool! Darf ich auch mitmachen?
-> **Anna:** Natürlich! Der Kurs ist offen für alle. Du musst aber schnell sein —
+> **Bruno:** Was lernst du?  
+> **Anna:** Ich mache einen Computerkurs. Ich will Programmieren lernen.  
+> **Bruno:** Cool! Darf ich auch mitmachen?  
+> **Anna:** Natürlich! Der Kurs ist offen für alle. Du musst aber schnell sein —  
 > die Plätze sind begrenzt.
-> **Bruno:** Dann will ich heute noch den Kurs buchen.
+> **Bruno:** Dann will ich heute noch den Kurs buchen.  
 
-And the formal version — Anna talks to her boss, Frau Yilmaz:
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-> **Frau Yilmaz:** Guten Morgen, Anna! Sie müssen heute das Meeting vorbereiten.
-> **Anna:** Ja, natürlich. Wann muss das Meeting anfangen?
-> **Frau Yilmaz:** Um zehn Uhr. Und Herr Brandt darf heute früher gehen —
+### Dialog B: Formell — Anna und ihre Chefin
+
+> **Frau Yilmaz:** Guten Morgen, Anna! Sie müssen heute das Meeting vorbereiten.  
+> **Anna:** Ja, natürlich. Wann muss das Meeting anfangen?  
+> **Frau Yilmaz:** Um zehn Uhr. Und Herr Brandt darf heute früher gehen —  
 > er hat einen Arzttermin.
-> **Anna:** Verstanden. Ich beginne sofort.
+> **Anna:** Verstanden. Ich beginne sofort.  
 
 **Key cultural point — Beruf und Arbeit:** In Germany Austria and Switzerland,
 punctuality at work is very important. The greeting `Mahlzeit!` (literally

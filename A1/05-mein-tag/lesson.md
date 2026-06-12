@@ -1,14 +1,14 @@
 # A1 · Lektion 5 — Mein Tag (My Day)
 
-> **You will learn to:** tell the time (official and colloquial), describe your
+> **You will learn to:** tell the time (official and colloquial), describe your  
 > daily routine, say when things start and end, talk about the days of the week,
 > and make simple plans.
 >
-> **Grammar:** separable verbs (auf|stehen, ein|kaufen…) · temporal prepositions
+> **Grammar:** separable verbs (auf|stehen, ein|kaufen…) · temporal prepositions  
 > `um, am, von … bis, in der` · verbs with -t/-d stems (arbeiten) · first a→ä
 > verbs (schlafen, anfangen) · frequency adverbs (immer, oft, manchmal, nie).
 >
-> **Builds on:** verb-second word order (L1), yes/no questions (L2), numbers (L2),
+> **Builds on:** verb-second word order (L1), yes/no questions (L2), numbers (L2),  
 > the `um 17 Uhr` chunk from L4 — explained today!
 
 ---
@@ -17,16 +17,16 @@
 
 ## 1. Dialog: Annas Tag
 
-> **Bruno:** Anna, wann stehst du auf?
-> **Anna:** Um halb sieben — also um 6:30 Uhr. Ich dusche, frühstücke, und um
+> **Bruno:** Anna, wann stehst du auf?  
+> **Anna:** Um halb sieben — also um 6:30 Uhr. Ich dusche, frühstücke, und um  
 > acht fängt meine Arbeit an.
-> **Bruno:** Und wann hast du Mittagspause?
-> **Anna:** Von halb eins bis halb zwei. Ich esse meistens ein Brötchen mit Käse.
-> **Bruno:** Wann kaufst du ein?
-> **Anna:** Am Nachmittag, nach der Arbeit.* Und am Abend koche ich oder ich
+> **Bruno:** Und wann hast du Mittagspause?  
+> **Anna:** Von halb eins bis halb zwei. Ich esse meistens ein Brötchen mit Käse.  
+> **Bruno:** Wann kaufst du ein?  
+> **Anna:** Am Nachmittag, nach der Arbeit.* Und am Abend koche ich oder ich  
 > sehe fern.
-> **Bruno:** Siehst du viel fern?
-> **Anna:** Nein, nicht viel. Manchmal rufe ich auch meine Eltern an. Um elf
+> **Bruno:** Siehst du viel fern?  
+> **Anna:** Nein, nicht viel. Manchmal rufe ich auch meine Eltern an. Um elf  
 > Uhr gehe ich schlafen.
 
 \* `nach der Arbeit` (after work) — a dative chunk; the preposition system comes
@@ -36,12 +36,12 @@ later. Same for `meistens` (= mostly).
 
 ## 2. Dialog: Pläne am Telefon
 
-> **Anna:** Hallo Bruno, hier ist Anna. Hast du am Samstag Zeit?
-> **Bruno:** Ja, am Samstag bin ich frei. Was machen wir?
-> **Anna:** Wir gehen ins Kino!* Der Film fängt um acht Uhr an.
-> **Bruno:** Super! Um wie viel Uhr gehen wir?
-> **Anna:** Um halb acht. Ich rufe dich** am Samstagmorgen noch einmal an.
-> **Bruno:** Okay, bis Samstag!
+> **Anna:** Hallo Bruno, hier ist Anna. Hast du am Samstag Zeit?  
+> **Bruno:** Ja, am Samstag bin ich frei. Was machen wir?  
+> **Anna:** Wir gehen ins Kino!* Der Film fängt um acht Uhr an.  
+> **Bruno:** Super! Um wie viel Uhr gehen wir?  
+> **Anna:** Um halb acht. Ich rufe dich** am Samstagmorgen noch einmal an.  
+> **Bruno:** Okay, bis Samstag!  
 
 \* `ins Kino gehen` (to go to the movies) — learn as a chunk.
 \** `dich` = you (accusative pronoun) — chunk for now, system in Lektion 6.

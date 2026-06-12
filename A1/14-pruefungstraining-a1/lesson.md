@@ -1,11 +1,11 @@
 # A1 · Lektion 14 — Wiederholung & Prüfungstraining A1 (Review & Exam Training A1)
 
-> **You will:** review all A1 grammar in one compact reference sheet and practise
+> **You will:** review all A1 grammar in one compact reference sheet and practise  
 > the full Start Deutsch 1 / telc A1 exam format.
 >
-> **Grammar:** complete A1 grammar review — everything from L1–L13 in one place.
+> **Grammar:** complete A1 grammar review — everything from L1–L13 in one place.  
 >
-> **Builds on:** all previous A1 lessons (L1–L13).
+> **Builds on:** all previous A1 lessons (L1–L13).  
 
 This lesson is a **reference sheet**, not a new lesson. Read it as a quick-revision
 guide before attempting the mock exam in `exercises.md`. For deeper explanations,

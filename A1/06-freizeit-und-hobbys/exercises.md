@@ -369,12 +369,12 @@ Richtig (R) oder falsch (F)?
 **Text 2 — Programm:** choose a, b, or c.
 
 > **Freizeitzentrum Köln-Süd — Programm**
-> **Schwimmbad:** Montag bis Freitag von 7 bis 22 Uhr, am Wochenende von
+> **Schwimmbad:** Montag bis Freitag von 7 bis 22 Uhr, am Wochenende von  
 > 9 bis 20 Uhr. Erwachsene* 4,50 €, Kinder 2,50 €.
-> **Tenniskurs für Anfänger:** am Mittwoch von 18 bis 20 Uhr. Eine Stunde
+> **Tenniskurs für Anfänger:** am Mittwoch von 18 bis 20 Uhr. Eine Stunde  
 > kostet 10 Euro.
-> **Gitarrenkurs:** am Montag um 19 Uhr.
-> **Im Sommer:** Kino im Park! Die Filme beginnen um 21 Uhr.
+> **Gitarrenkurs:** am Montag um 19 Uhr.  
+> **Im Sommer:** Kino im Park! Die Filme beginnen um 21 Uhr.  
 >
 > \* der Erwachsene = adult · der Anfänger = beginner
 

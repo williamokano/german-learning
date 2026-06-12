@@ -346,7 +346,7 @@ Sara
 
 **Text 2 — Steckbrief:** choose a, b, or c.
 
-> **Familie Yilmaz:** Akin Yilmaz (34) und Elif Yilmaz (31) kommen aus der
+> **Familie Yilmaz:** Akin Yilmaz (34) und Elif Yilmaz (31) kommen aus der  
 > Türkei, aus Izmir. Sie wohnen jetzt in Köln. Sie haben zwei Kinder: Deniz (6)
 > und Lale (3). Akins Eltern wohnen in Izmir. Elifs Mutter wohnt auch in Köln.
 > Sie ist verwitwet.

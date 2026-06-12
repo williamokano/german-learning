@@ -34,9 +34,9 @@ It covers all four exam skills: **Hören · Lesen · Schreiben · Sprechen**.
 
 **Gespräch 1 — Transcript** *(read aloud or record before attempting)*
 
-> **Frau:** Entschuldigung, wie komme ich zum Bahnhof?
-> **Mann:** Gehen Sie hier geradeaus, dann rechts — der Bahnhof ist dann links.
-> **Frau:** Vielen Dank!
+> **Frau:** Entschuldigung, wie komme ich zum Bahnhof?  
+> **Mann:** Gehen Sie hier geradeaus, dann rechts — der Bahnhof ist dann links.  
+> **Frau:** Vielen Dank!  
 
 **Question 1:** Wo ist der Bahnhof?
 
@@ -50,10 +50,10 @@ c) geradeaus (straight ahead, no turn)
 
 **Gespräch 2 — Transcript**
 
-> **Kellner:** Guten Tag! Was möchten Sie?
-> **Frau:** Ich möchte einen Orangensaft und ein Käsebrötchen, bitte.
-> **Kellner:** Gern. Zusammen oder getrennt?
-> **Frau:** Zusammen, bitte.
+> **Kellner:** Guten Tag! Was möchten Sie?  
+> **Frau:** Ich möchte einen Orangensaft und ein Käsebrötchen, bitte.  
+> **Kellner:** Gern. Zusammen oder getrennt?  
+> **Frau:** Zusammen, bitte.  
 
 **Question 2:** Was bestellt die Frau?
 
@@ -67,10 +67,10 @@ c) Kaffee und Kuchen
 
 **Gespräch 3 — Transcript**
 
-> **Mutter:** Lena, wann stehst du morgen auf?
-> **Lena:** Um halb sieben, Mama. Der Kurs beginnt um acht.
-> **Mutter:** Gut. Und wann kommst du nach Hause?
-> **Lena:** Um Viertel nach vier.
+> **Mutter:** Lena, wann stehst du morgen auf?  
+> **Lena:** Um halb sieben, Mama. Der Kurs beginnt um acht.  
+> **Mutter:** Gut. Und wann kommst du nach Hause?  
+> **Lena:** Um Viertel nach vier.  
 
 **Question 3:** Wann beginnt Lenas Kurs?
 
@@ -84,10 +84,10 @@ c) Um 16:15 Uhr
 
 **Gespräch 4 — Transcript**
 
-> **Thomas:** Hallo, Selin! Wie geht's?
-> **Selin:** Nicht so gut — ich habe Kopfschmerzen.
-> **Thomas:** Oh nein! Gehst du zum Arzt?
-> **Selin:** Nein, ich gehe heute nach Hause und schlafe.
+> **Thomas:** Hallo, Selin! Wie geht's?  
+> **Selin:** Nicht so gut — ich habe Kopfschmerzen.  
+> **Thomas:** Oh nein! Gehst du zum Arzt?  
+> **Selin:** Nein, ich gehe heute nach Hause und schlafe.  
 
 **Question 4:** Was macht Selin?
 
@@ -101,9 +101,9 @@ c) Sie geht in die Apotheke.
 
 **Gespräch 5 — Transcript**
 
-> **Herr Klein:** Guten Tag, mein Name ist Klein. Ich habe einen Termin um 14 Uhr.
-> **Sekretärin:** Guten Tag! Ja, Herr Klein — bitte nehmen Sie im Wartezimmer Platz. Doktor Berger kommt gleich.
-> **Herr Klein:** Danke.
+> **Herr Klein:** Guten Tag, mein Name ist Klein. Ich habe einen Termin um 14 Uhr.  
+> **Sekretärin:** Guten Tag! Ja, Herr Klein — bitte nehmen Sie im Wartezimmer Platz. Doktor Berger kommt gleich.  
+> **Herr Klein:** Danke.  
 
 **Question 5:** Wo ist Herr Klein?
 

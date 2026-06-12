@@ -1,14 +1,14 @@
 # A1 · Lektion 9 — Einkaufen und Kleidung (Shopping and Clothes)
 
-> **You will learn to:** name clothes and describe them, ask for sizes and
+> **You will learn to:** name clothes and describe them, ask for sizes and  
 > colors, say whether something fits or suits you, express an opinion about
 > clothing, and carry out a complete shop-assistant conversation.
 >
-> **Grammar:** dative personal pronouns (mir, dir, ihm, ihr, uns, euch, ihnen/Ihnen) ·
+> **Grammar:** dative personal pronouns (mir, dir, ihm, ihr, uns, euch, ihnen/Ihnen) ·  
 > verbs that take a dative object (`gefallen, passen, gehören, helfen, stehen`) ·
 > demonstrative pronoun `dieser/diese/dieses` · question word `welcher?/welche?/welches?`
 >
-> **Builds on:** accusative case (L3), articles der/die/das (L3), adjectives
+> **Builds on:** accusative case (L3), articles der/die/das (L3), adjectives  
 > predicative (L4), `es gibt` + accusative (L4), prepositions + dative (L8),
 > modal verb `können` (L6), imperative Sie-form (L8).
 
@@ -18,19 +18,19 @@
 
 ## 1. Dialog: Im Kaufhaus (In the department store)
 
-> **Verkäuferin:** Guten Tag! Kann ich Ihnen helfen?
-> **Anna:** Ja, gern. Ich suche eine Jacke. Diese hier — wie viel kostet die?
-> **Verkäuferin:** Die rote Jacke kostet neunundsiebzig Euro.
-> **Anna:** Hm. Das ist ein bisschen teuer. Welche Größe haben Sie noch?
-> **Verkäuferin:** Wir haben Größe 36 bis 44. Welche Größe haben Sie?
-> **Anna:** Ich glaube, Größe 38. Darf ich die Jacke anprobieren?
-> **Verkäuferin:** Natürlich! Die Umkleidekabine ist dort drüben.
+> **Verkäuferin:** Guten Tag! Kann ich Ihnen helfen?  
+> **Anna:** Ja, gern. Ich suche eine Jacke. Diese hier — wie viel kostet die?  
+> **Verkäuferin:** Die rote Jacke kostet neunundsiebzig Euro.  
+> **Anna:** Hm. Das ist ein bisschen teuer. Welche Größe haben Sie noch?  
+> **Verkäuferin:** Wir haben Größe 36 bis 44. Welche Größe haben Sie?  
+> **Anna:** Ich glaube, Größe 38. Darf ich die Jacke anprobieren?  
+> **Verkäuferin:** Natürlich! Die Umkleidekabine ist dort drüben.  
 > *(Anna probiert die Jacke an — Anna tries on the jacket)*
-> **Anna:** Wie steht mir die Jacke?
-> **Verkäuferin:** Die Jacke steht Ihnen sehr gut! Und sie passt Ihnen perfekt.
-> **Anna:** Ja, ich finde sie schön. Ich nehme sie!
-> **Verkäuferin:** Sehr gut. Soll ich sie einpacken?
-> **Anna:** Ja, bitte.
+> **Anna:** Wie steht mir die Jacke?  
+> **Verkäuferin:** Die Jacke steht Ihnen sehr gut! Und sie passt Ihnen perfekt.  
+> **Anna:** Ja, ich finde sie schön. Ich nehme sie!  
+> **Verkäuferin:** Sehr gut. Soll ich sie einpacken?  
+> **Anna:** Ja, bitte.  
 
 ---
 
@@ -38,17 +38,17 @@
 
 ## 2. Dialog: Mit Bruno im Sportgeschäft
 
-> **Bruno:** Entschuldigung, ich suche Sportschuhe. Haben Sie diese Schuhe in
+> **Bruno:** Entschuldigung, ich suche Sportschuhe. Haben Sie diese Schuhe in  
 > Größe 43?
-> **Verkäufer:** Einen Moment, ich schaue … ja, wir haben noch Größe 43.
-> **Bruno:** Super! Darf ich sie anprobieren?
-> **Verkäufer:** Natürlich. Wie sind die Schuhe? Passen sie Ihnen?
-> **Bruno:** Ja, sie passen gut. Aber diese Schuhe hier — die gefallen mir
+> **Verkäufer:** Einen Moment, ich schaue … ja, wir haben noch Größe 43.  
+> **Bruno:** Super! Darf ich sie anprobieren?  
+> **Verkäufer:** Natürlich. Wie sind die Schuhe? Passen sie Ihnen?  
+> **Bruno:** Ja, sie passen gut. Aber diese Schuhe hier — die gefallen mir  
 > besser. Was kosten die?
-> **Verkäufer:** Die kosten neunundneunzig Euro.
-> **Bruno:** Das ist zu teuer für mich. Haben Sie auch Schuhe für weniger?
-> **Verkäufer:** Ja, dieser Schuh hier kostet nur fünfundvierzig Euro.
-> **Bruno:** Den nehme ich!
+> **Verkäufer:** Die kosten neunundneunzig Euro.  
+> **Bruno:** Das ist zu teuer für mich. Haben Sie auch Schuhe für weniger?  
+> **Verkäufer:** Ja, dieser Schuh hier kostet nur fünfundvierzig Euro.  
+> **Bruno:** Den nehme ich!  
 
 ---
 
@@ -301,9 +301,9 @@ structures in this lesson.
 For dative verbs, make a **sentence card** for each verb rather than memorizing the
 word alone. Write the verb with its typical frame:
 
-> **gefallen:** Das _____ gefällt mir (nicht). / Die _____ gefallen mir (nicht).
-> **passen:** Die _____ passt mir (nicht). / _____ passt mir gut.
-> **stehen:** Das _____ steht dir (nicht). / Diese Farbe steht dir gut.
+> **gefallen:** Das _____ gefällt mir (nicht). / Die _____ gefallen mir (nicht).  
+> **passen:** Die _____ passt mir (nicht). / _____ passt mir gut.  
+> **stehen:** Das _____ steht dir (nicht). / Diese Farbe steht dir gut.  
 
 Then sub in vocabulary from this lesson daily (one item of clothing + one color).
 The frame gives you automatic dative usage without consciously thinking about case.

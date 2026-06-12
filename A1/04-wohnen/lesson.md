@@ -1,14 +1,14 @@
 # A1 · Lektion 4 — Wohnen (Living & Housing)
 
-> **You will learn to:** describe a flat and its rooms, talk about furniture and
+> **You will learn to:** describe a flat and its rooms, talk about furniture and  
 > colors, say what you like and what you think of things, understand flat ads,
 > and ask about a flat on the phone.
 >
-> **Grammar:** `es gibt` + accusative · `finden` + accusative + adjective ·
+> **Grammar:** `es gibt` + accusative · `finden` + accusative + adjective ·  
 > predicative adjectives (with `zu`) · `gefallen` + mir/dir (intro) ·
 > `Wie viele …?`
 >
-> **Builds on:** the accusative and kein (L3), haben & plural (L2), W-questions
+> **Builds on:** the accusative and kein (L3), haben & plural (L2), W-questions  
 > and verb-second order (L1).
 
 ---
@@ -17,32 +17,32 @@
 
 ## 1. Dialog: Die neue Wohnung
 
-> **Anna:** Hallo Bruno! Komm rein! Das ist meine neue Wohnung.
-> **Bruno:** Wow, sie ist groß! Wie viele Zimmer hat sie?
-> **Anna:** Drei Zimmer, eine Küche und ein Bad. Hier ist das Wohnzimmer.
-> **Bruno:** Sehr schön! Und hell. Das Sofa gefällt mir!
-> **Anna:** Danke, es ist neu. Aber die Lampe ist alt — sie ist von Oma.
-> **Bruno:** Gibt es auch einen Balkon?
-> **Anna:** Ja, da! Er ist klein, aber gemütlich.
-> **Bruno:** Und was kostet die Wohnung?
-> **Anna:** 850 Euro im Monat. Das ist nicht billig, aber okay für Berlin.
+> **Anna:** Hallo Bruno! Komm rein! Das ist meine neue Wohnung.  
+> **Bruno:** Wow, sie ist groß! Wie viele Zimmer hat sie?  
+> **Anna:** Drei Zimmer, eine Küche und ein Bad. Hier ist das Wohnzimmer.  
+> **Bruno:** Sehr schön! Und hell. Das Sofa gefällt mir!  
+> **Anna:** Danke, es ist neu. Aber die Lampe ist alt — sie ist von Oma.  
+> **Bruno:** Gibt es auch einen Balkon?  
+> **Anna:** Ja, da! Er ist klein, aber gemütlich.  
+> **Bruno:** Und was kostet die Wohnung?  
+> **Anna:** 850 Euro im Monat. Das ist nicht billig, aber okay für Berlin.  
 
 🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
 ## 2. Dialog: Am Telefon — die Wohnungsanzeige
 
-> **Herr Klein:** Klein.
-> **Bruno:** Guten Tag, mein Name ist Bruno Santos. Ich habe eine Frage:
+> **Herr Klein:** Klein.  
+> **Bruno:** Guten Tag, mein Name ist Bruno Santos. Ich habe eine Frage:  
 > Ist die Wohnung noch frei?
-> **Herr Klein:** Ja, die Wohnung ist noch frei.
-> **Bruno:** Super! Wie groß ist sie?
-> **Herr Klein:** 65 Quadratmeter — zwei Zimmer, Küche, Bad.
-> **Bruno:** Gibt es einen Balkon?
-> **Herr Klein:** Nein, aber es gibt einen Garten.
-> **Bruno:** Und was kostet die Miete?
-> **Herr Klein:** 700 Euro.
-> **Bruno:** Gut. Ich möchte die Wohnung gern sehen.*
-> **Herr Klein:** Gern! Morgen um 17 Uhr?**
+> **Herr Klein:** Ja, die Wohnung ist noch frei.  
+> **Bruno:** Super! Wie groß ist sie?  
+> **Herr Klein:** 65 Quadratmeter — zwei Zimmer, Küche, Bad.  
+> **Bruno:** Gibt es einen Balkon?  
+> **Herr Klein:** Nein, aber es gibt einen Garten.  
+> **Bruno:** Und was kostet die Miete?  
+> **Herr Klein:** 700 Euro.  
+> **Bruno:** Gut. Ich möchte die Wohnung gern sehen.*  
+> **Herr Klein:** Gern! Morgen um 17 Uhr?**  
 
 \* `sehen` (to see) appears here as an infinitive chunk; its (irregular) present
 tense comes in Lektion 6.
