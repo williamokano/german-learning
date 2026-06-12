@@ -1,0 +1,443 @@
+# A1 · Lektion 12 — Übungen (Exercises)
+
+Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+**D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+
+Spread the blocks over several days — A on day 1–2, B on day 3–4,
+C on day 5, D on day 6 after a pause.
+
+---
+
+# Block A — Basistraining
+
+## Übung A1 — Monate: Lücken füllen
+
+Fill in the missing months in the correct order.
+
+1. Januar · ______ · März · April · ______ · Juni
+2. ______ · August · ______ · Oktober · November · ______
+
+## Übung A2 — Ordinalzahlen: Tabelle
+
+Write the ordinal number stem and the full nominative form.
+
+| Zahl | Ordinalstamm | Der/Die/Das … (Nominativ) |
+|---|---|---|
+| 1 | erst- | der **erste** Mai |
+| 2 | ______ | der ______ März |
+| 3 | ______ | der ______ Oktober |
+| 4 | ______ | der ______ Juli |
+| 7 | ______ | der ______ Februar |
+| 8 | ______ | der ______ September |
+| 11 | ______ | der ______ November |
+| 20 | ______ | der ______ Dezember |
+| 31 | ______ | der ______ Januar |
+
+## Übung A3 — Datum lesen: „am + Dativ"
+
+Write out the dates using `am + ordinal (dative form)`.
+Example: 3. Mai → *am dritten Mai*
+
+1. 1. Januar → ______________________
+2. 2. März → ______________________
+3. 5. April → ______________________
+4. 7. August → ______________________
+5. 8. Juni → ______________________
+6. 10. Oktober → ______________________
+7. 11. November → ______________________
+8. 20. Dezember → ______________________
+9. 21. Februar → ______________________
+10. 31. Juli → ______________________
+
+## Übung A4 — Datum schreiben: Wörter → Ziffern
+
+Write the date in digits (e.g., *am dritten Mai → 3. Mai* or *3.5.*).
+
+1. am ersten Oktober → ______
+2. am zwölften März → ______
+3. am dreißigsten Juni → ______
+4. am achtzehnten November → ______
+5. am zweiundzwanzigsten Juli → ______
+
+## Übung A5 — Präposition: im, am, um, vor, nach?
+
+Fill in the correct temporal preposition.
+
+1. ______ Montag habe ich einen Termin.
+2. ______ Januar ist es kalt.
+3. Die Party beginnt ______ acht Uhr.
+4. Wir essen ______ dem Kurs. (= after)
+5. ______ Sommer fahren wir an den See.
+6. Ich dusche ______ dem Frühstück. (= before)
+7. ______ Abend gehen wir ins Kino.
+8. Er kommt ______ Freitag.
+9. Frohe Weihnachten! Das ist ______ Dezember.
+10. Das Konzert ist ______ halb neun.
+
+## Übung A6 — Präposition + Nomen: vor oder nach?
+
+Fill in `vor dem`, `vor der`, `nach dem`, or `nach der`.
+
+1. ______ Essen trinke ich einen Kaffee.
+2. Die Feier ist ______ Konzert.
+3. Ich rufe dich ______ Party an.
+4. ______ Arbeit gehe ich ins Fitnessstudio.
+5. Wir treffen uns ______ Vorlesung.
+6. Er kommt ______ Deutschkurs ins Café.
+
+## Übung A7 — `einladen`: konjugieren
+
+Fill in the correct form of `einladen` (separable!).
+
+1. Ich ______ meine Familie ______.
+2. ______ du auch Bruno ______?
+3. Frau Weber ______ alle Kollegen ______.
+4. Wir ______ euch herzlich ______.
+5. ______ ihr auch eure Nachbarn ______?
+6. Meine Eltern ______ mich ______.
+
+## Übung A8 — Verben im Satz: passen, feiern, schicken, planen, absagen
+
+Fill in the correct form of the verb in brackets.
+
+1. Das ______ (passen) mir gut. Der Termin ist okay.
+2. Wir ______ (feiern) heute Annas Geburtstag.
+3. Ich ______ (schicken) dir eine Einladung.
+4. Leider muss ich ______ (absagen). Ich habe schon einen Termin.
+5. ______ (passen) euch der dreizehnte Mai?
+6. Was ______ (planen) ihr für das Wochenende?
+7. Er ______ (feiern) gern. Er macht oft Partys.
+8. Wir ______ (schicken) Ihnen die Einladung per E-Mail.
+
+## Übung A9 — Termine ablehnen: Sätze ergänzen
+
+Fill in the appropriate word from the bracket.
+
+1. Das ______ leider nicht. (kommt / geht / macht)
+2. Ich ______ leider nicht kommen. (habe / kann / will) — *polite refusal*
+3. Ich habe ______ einen Termin. (schon / noch / auch)
+4. Das passt mir ______ nicht. (leider / gern / immer)
+5. ______ es auch am Samstag? (Geht / Passt / Kann)
+6. Ich muss den Termin leider ______. (einladen / absagen / stattfinden)
+
+## Übung A10 — Datum + Uhrzeit kombinieren
+
+Write full sentences with the date and time given.
+Example: (Party — 14. Juni — 20:00) → *Die Party findet am vierzehnten Juni um zwanzig Uhr statt.*
+
+1. Arzttermin — Mittwoch, 3. Oktober — 10:30 → ______________________
+2. Deutschkurs — Dienstag, 8. November — 18:00 → ______________________
+3. Geburtstagsfeier — Samstag, 21. Mai — 19:00 → ______________________
+4. Konzert — Freitag, 1. Dezember — 20:30 → ______________________
+
+## Übung A11 — Glückwünsche: Welcher Anlass?
+
+Match the phrase with the occasion.
+
+| Phrase | | Anlass |
+|---|---|---|
+| 1. Herzlichen Glückwunsch zum Geburtstag! | | a) 1. Januar |
+| 2. Frohe Weihnachten! | | b) Geburt eines Kindes |
+| 3. Frohes Neues Jahr! | | c) März/April |
+| 4. Frohe Ostern! | | d) Hochzeit |
+| 5. Herzlichen Glückwunsch zur Hochzeit! | | e) 25. Dezember |
+| 6. Herzlichen Glückwunsch zur Geburt! | | f) Geburtstag |
+
+---
+
+# Block B — Vertiefung
+
+## Übung B1 — Dialog ergänzen: Einladung zur Party
+
+Fill in the blanks.
+
+— He, Luisa! Ich mache eine (1) ______ am Samstag.
+— Oh, toll! Wann (2) ______?
+— Am (3) ______ Juli, um neun Uhr abends.
+— Hm, der Sechzehnte … das (4) ______ mir leider nicht. Ich habe (5) ______.
+— Schade! Und am (6) ______?
+— Ja, der Siebzehnte (7) ______! Ich komme (8) ______!
+— Super! Ich (9) ______ dir eine Einladung.
+— Danke! (10) ______ Glückwunsch schon mal!
+
+## Übung B2 — Dialog ergänzen: Arzttermin (formal)
+
+— Guten Tag, Praxis Dr. Bauer. Was kann ich für (1) ______ tun?
+— Ich möchte (2) ______ einen Termin.
+— Gern. Passt (3) ______ Donnerstag, der vierte März?
+— Um (4) ______ Uhr?
+— Um (5) ______. 
+— Ja, das (6) ______ gut.
+— Sehr gut. Darf ich Ihren (7) ______ bitte?
+— Weber, Frau Weber.
+— Danke. Auf (8) ______, Frau Weber!
+
+## Übung B3 — Finde den Fehler
+
+Each sentence has exactly **one** mistake. Find and correct it.
+
+1. Mein Geburtstag ist im dreizehnten Mai.
+2. Die Party findet am zwanzig Juni statt.
+3. Wir feiern in Sommer Geburtstag.
+4. Das Konzert beginnt um Abend.
+5. Ich lade meine Freunde ein, sie kommen am Freitag.
+6. Herzlichen Glückwunsch zum Geburtstag, ich wünsche dir alles gut!
+7. Er lädet alle Kollegen ein.
+8. Das passt mir nicht leider.
+9. Nach dem Essen wir machen Musik.
+10. Ich habe schon einen Termin — ich kann nicht kommen leider.
+
+## Übung B4 — Frage und Antwort verbinden
+
+| Frage | | Antwort |
+|---|---|---|
+| 1. Wann hast du Geburtstag? | | a) Ja, der Elfte passt mir gut. |
+| 2. Kannst du am Freitag kommen? | | b) Um halb acht. |
+| 3. Um wie viel Uhr beginnt die Party? | | c) Am zweiten August. |
+| 4. Passt dir der elfte Mai? | | d) Ich wünsche dir alles Gute! |
+| 5. Was sagst du zum Geburtstag? | | e) Nein, leider nicht — ich habe einen Termin. |
+| 6. Welcher Monat kommt nach Juni? | | f) Juli. |
+| 7. Im welchem Monat ist Weihnachten? | | g) Im Dezember. |
+| 8. Was machst du nach der Party? | | h) Ich gehe nach Hause und schlafe. |
+
+## Übung B5 — Satzbau
+
+Put the words in the correct order. Verb in position 2.
+
+1. am – habe – Montag – ich – einen Termin
+2. Juli – im – wir – feiern – Geburtstag
+3. um – neun – die – Uhr – Party – beginnt
+4. nicht – das – leider – geht
+5. euch – ein – herzlich – wir – laden
+6. nach – kommt – der – Arbeit – er – ins Café
+7. schicke – eine – ich – dir – Einladung
+8. am – passt – dritten – es – Ihnen – Mai – ?
+9. vor – essen – Fußball – wir – dem – spielen – Spiel
+10. Geburtstag – herzlichen – zum – Glückwunsch
+
+## Übung B6 — Jahreszeiten und Monate
+
+Fill in the season, then answer: Which German holiday falls in that season?
+
+| Monate | Jahreszeit | Deutsch-Feiertag (Beispiel) |
+|---|---|---|
+| Dezember – Februar | ______ | ______ |
+| März – Mai | ______ | ______ |
+| Juni – August | ______ | ______ |
+| September – November | ______ | ______ |
+
+## Übung B7 — Was passt nicht?
+
+1. Geburtstag – Party – Einladung – Supermarkt
+2. Weihnachten – Ostern – Silvester – Montag
+3. im – am – um – weil
+4. Januar – März – Sommer – Oktober
+5. feiern – einladen – gratulieren – kaufen
+6. vor – nach – herzlich – während
+
+## Übung B8 — Auf Einladungen antworten: mit Stichwörtern
+
+Respond to each invitation in a full sentence using the cue.
+
+1. „Kommst du am Samstag zur Party?" (yes — happy to) → ______________________
+2. „Hast du am Dienstag Zeit?" (no — already have appointment) → ______________________
+3. „Passt dir der fünfte Juni?" (no — but the 6th works) → ______________________
+4. „Können Sie am Montag kommen?" (yes — at 10) → ______________________
+5. „Ich habe am zehnten Geburtstag." (congratulate + wish all the best) → ______________________
+6. „Wann feiert ihr?" (Saturday, the 14th, at 8 pm) → ______________________
+
+## Übung B9 — Übersetzen (EN → DE)
+
+1. My birthday is on the third of July.
+2. Can you come on Saturday, the twenty-first of March?
+3. I'm afraid I can't come — I already have an appointment.
+4. The party starts at eight o'clock in the evening.
+5. Happy birthday! All the best!
+6. We are celebrating in the summer.
+7. Before the party I buy flowers. (die Blumen)
+8. I'll send you an invitation after the meeting. (das Meeting)
+
+---
+
+# Block C — Prüfungstraining
+
+## Übung C1 — Lückentext (10 Lücken)
+
+Fill each gap with **one** word.
+
+Hallo, ich (1) ______ Anna und ich mache eine Party! Mein Geburtstag
+(2) ______ am dreizehnten Mai. Die Feier ist (3) ______ Samstag, dem
+vierzehnten Mai, (4) ______ neunzehn Uhr. Sie findet (5) ______ mir zu
+Hause statt. Ich lade alle meine Freunde (6) ______. Kannst du (7) ______
+kommen? Ich (8) ______ dir eine Einladung. Bitte sag mir (9) ______
+Bescheid, ob du kommen kannst. Ich freue mich (10) ______ die Party!
+
+## Übung C2 — Sprachbausteine Teil 1 (6 Lücken, je 3 Optionen)
+
+Choose the correct option (a, b, or c).
+
+Lieber Tim,
+
+ich (1) ______ dich herzlich zu meiner Geburtstagsfeier ein. Die Party findet
+(2) ______ Samstag, (3) ______ achten März, statt. (4) ______ beginnt die
+Feier um 20 Uhr. Bitte sag mir (5) ______ Bescheid, ob du kommen (6) ______.
+
+1. a) laden   b) lädst   c) lade
+2. a) am      b) im      c) um
+3. a) dem     b) der     c) des
+4. a) Er      b) Sie     c) Es
+5. a) bitte   b) gern    c) schon
+6. a) kann    b) kannst  c) können
+
+## Übung C3 — Sprachbausteine Teil 2 (Wortkasten, 10 Lücken, 5 Distraktoren)
+
+Fill the 10 gaps using words from the box. **Five words are not needed.**
+Each word may be used once.
+
+> AM · BEGINNT · BESCHEID · EINLADUNG · FEIERT · FROHES · GEBURTSTAG ·
+> HERZLICHEN · IM · LEIDER · PASST · SCHICKE · STATT · UHR · UND
+
+— Wann (1) ______ Luisas Party eigentlich?
+— Die Feier findet (2) ______ Samstagabend (3) ______. Sie schreibt im Chat,
+  dass sie uns eine (4) ______ schickt.
+— (5) ______ das dir? Ich habe (6) ______ einen Termin — ich kann nicht kommen.
+— Oh schade! Ich gehe hin. Luisa (7) ______ immer so toll!
+— Dann sag ihr (8) ______ von mir: (9) ______ Glückwunsch zum (10) ______!
+— Mache ich!
+
+## Übung C4 — Lesen
+
+**Text 1:** Read the Lesetext in `lesson.md`, section 5. Richtig (R) oder falsch (F)?
+
+1. Anna hat am Samstag, dem siebzehnten Juni, Geburtstag. ( )
+2. Die Feier findet am achtzehnten Juni statt. ( )
+3. Die Party ist im Restaurant. ( )
+4. Die Feier beginnt um achtzehn Uhr. ( )
+5. Gäste sollen bis zum zehnten Juni antworten. ( )
+
+**Text 2 — Einladungskarte:**
+
+> **Einladung!**
+>
+> Liebe Freunde und Familie,
+>
+> wir feiern am Samstag, dem 5. August, unsere Hochzeit!
+> Die Feier beginnt um 15:00 Uhr im Restaurant „Zur Sonne",
+> Hauptstraße 12, München.
+>
+> Bitte gebt uns bis zum 20. Juli Bescheid.
+>
+> Herzliche Grüße,
+> Mia & Jonas
+
+Choose a, b, or c:
+
+6. Was wird am 5. August gefeiert?
+   a) Ein Geburtstag   b) Eine Hochzeit   c) Ostern
+
+7. Wo findet die Feier statt?
+   a) Zu Hause   b) Im Park   c) Im Restaurant
+
+8. Um wie viel Uhr beginnt die Veranstaltung?
+   a) Um 12 Uhr   b) Um 15 Uhr   c) Um 20 Uhr
+
+9. Bis wann muss man antworten?
+   a) Bis zum 5. August   b) Bis zum 20. Juli   c) Bis zum 12. August
+
+## Übung C5 — Schreiben: kurze Einladung
+
+Write a short invitation card (5–7 sentences). Include:
+- who you are / what you are celebrating
+- the date and time (ordinal number required)
+- the location
+- a request for a reply (Bitte sag mir Bescheid …)
+- a closing greeting
+
+A model answer is in `solutions.md` — write yours **first**.
+
+---
+
+# Block D — Wiederholung & Selbsttest
+
+## Übung D1 — Gemischter Schnelltest (15 Punkte, inkl. frühere Lektionen)
+
+One answer per item. No notes.
+
+1. „am" + Datum: „am dreizehnten ______" — which month comes after Mai?
+2. 3. Oktober spoken → ______________________
+3. (L5) Separable verb in a sentence: „Sie ______ um 7 Uhr ______ ." (aufstehen)
+4. Temporal preposition for months: ______ März
+5. „Das passt mir leider ______." (one word to complete)
+6. (L11) Perfekt: „Wir ______ gestern Geburtstag ______." (feiern)
+7. Ordinal from 20: der zwanzigste … dative → am ______
+8. (L6) „Ich ______ leider nicht kommen." (können — polite refusal)
+9. The German word for „invitation" (with article): ______________________
+10. (L7) „Ich ______ heute Abend arbeiten." (müssen)
+11. Temporal preposition for clock time: ______ acht Uhr
+12. (L2) „Er hat ______ Bruder." (older — possessive, masc. acc.)
+13. "Merry Christmas!" → ______________________
+14. Temporal preposition for seasons: ______ Sommer
+15. (L9) Demonstrative: „______ Rock gefällt mir nicht." (dieser, Nom.)
+
+## Übung D2 — Odd one out (6 Gruppen)
+
+Cross out the word that doesn't fit and say why.
+
+1. Januar – März – Sommer – Oktober
+2. Geburtstag – Weihnachten – Ostern – Kalender
+3. am – im – um – weil
+4. feiern – einladen – gratulieren – schlafen
+5. Einladung – Termin – Geschenk – regnen
+6. erst – zweit – dritt – siebzehn
+
+## Übung D3 — Wiederholung früherer Lektionen (10 Punkte)
+
+1. (L11) „Ich ______ gestern ins Kino ______." (gehen — Perfekt)
+2. (L5) „Der Zug ______ um 8:15 ______." (abfahren — Präsens)
+3. (L7) „Sie ______ jetzt lernen." (müssen)
+4. (L8) „Er fährt ______ Bus zur Arbeit." (preposition + article → mit + Dat.)
+5. (L6) „Was machst du ______?" (gern / lieber / am liebsten — for liking)
+6. (L10) „Ich habe ______." (say you have a headache — die Kopfschmerzen)
+7. (L4) „Es ______ in der Küche einen Tisch." (es gibt)
+8. (L3) „Was ______ der Apfelkuchen?" (kosten — er-form)
+9. (L2) „Hast du ______ Geschwister?" (any — ask yes/no)
+10. (L1) Formal: "Where are you from?" → ______________________
+
+## Übung D4 — Selbsttest (/20) — Termine und Feste
+
+Dates:
+
+1. 1. Mai → am ______________________
+2. 3. Oktober → am ______________________
+3. 7. März → am ______________________
+4. 20. November → am ______________________
+
+Prepositions:
+
+5. ______ Freitag 6. ______ Sommer 7. ______ 19 Uhr 8. ______ dem Essen (after)
+
+Verbs:
+
+9. einladen – er-form: er ______ … ______
+10. feiern – wir-form: wir ______
+
+Phrases:
+
+11. "Happy birthday!" (warm form) → ______________________
+12. "I'm afraid I can't come." → ______________________
+13. "That suits me well." → ______________________
+14. „Ich ______ dir eine Einladung." (schicken – ich-form)
+
+Months:
+
+15. Which month comes before August? → ______
+16. Which month comes after Oktober? → ______
+
+Sentences:
+
+17. am – findet – achtzehnten – die – Juni – Feier – statt → ______________________
+18. „Hast du ______ Zeit?" (Samstag — use preposition!)
+19. "Merry Christmas!" + "Happy New Year!" → ______________________ / ______________________
+20. What do you say when someone has a birthday? (one full sentence) → ______________________
+
+**Score: ____ / 20.** 16+ → Lektion 13. Below → redo Block A (especially A2–A5 and A10) tomorrow, then retest.

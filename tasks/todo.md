@@ -32,15 +32,15 @@ Reference lessons (gold standard): `A1/01-erste-kontakte/`, `A1/03-essen-und-tri
 - [x] `A1/02-familie-und-freunde` — Familie und Freunde
 - [x] `A1/03-essen-und-trinken` — Essen und Trinken
 - [x] `A1/04-wohnen` — Wohnen
-- [ ] `A1/05-mein-tag` — Mein Tag
-- [ ] `A1/06-freizeit-und-hobbys` — Freizeit und Hobbys
-- [ ] `A1/07-lernen-und-arbeiten` — Lernen und Arbeiten
-- [ ] `A1/08-unterwegs-in-der-stadt` — Unterwegs in der Stadt
-- [ ] `A1/09-einkaufen-und-kleidung` — Einkaufen und Kleidung
-- [ ] `A1/10-gesundheit-und-koerper` — Gesundheit und Körper
-- [ ] `A1/11-vergangenheit` — Über die Vergangenheit sprechen
-- [ ] `A1/12-termine-und-feste` — Termine und Feste
-- [ ] `A1/13-aemter-telefon-alltag` — Ämter, Telefon und Alltag
+- [x] `A1/05-mein-tag` — Mein Tag
+- [x] `A1/06-freizeit-und-hobbys` — Freizeit und Hobbys
+- [x] `A1/07-lernen-und-arbeiten` — Lernen und Arbeiten
+- [x] `A1/08-unterwegs-in-der-stadt` — Unterwegs in der Stadt
+- [x] `A1/09-einkaufen-und-kleidung` — Einkaufen und Kleidung
+- [x] `A1/10-gesundheit-und-koerper` — Gesundheit und Körper
+- [x] `A1/11-vergangenheit` — Über die Vergangenheit sprechen
+- [x] `A1/12-termine-und-feste` — Termine und Feste
+- [x] `A1/13-aemter-telefon-alltag` — Ämter, Telefon und Alltag
 - [ ] `A1/14-pruefungstraining-a1` — Wiederholung & Prüfungstraining A1 ⚠️ mock exam, do solo & last
 
 ## A2 (14 topics)
@@ -117,3 +117,4 @@ Reference lessons (gold standard): `A1/01-erste-kontakte/`, `A1/03-essen-und-tri
   shipped. Volume rule tripled after user feedback (see `tasks/lessons.md`).
 - 2026-06-11 · Restructured for fan-out: `AUTHORING.md` created as the
   self-contained per-lesson brief; this file became the dispatch board.
+- 2026-06-12 · A1/05 Mein Tag shipped (30 exercises, ~284 items).
