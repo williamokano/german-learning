@@ -41,7 +41,7 @@ Reference lessons (gold standard): `A1/01-erste-kontakte/`, `A1/03-essen-und-tri
 - [x] `A1/11-vergangenheit` — Über die Vergangenheit sprechen
 - [x] `A1/12-termine-und-feste` — Termine und Feste
 - [x] `A1/13-aemter-telefon-alltag` — Ämter, Telefon und Alltag
-- [ ] `A1/14-pruefungstraining-a1` — Wiederholung & Prüfungstraining A1 ⚠️ mock exam, do solo & last
+- [x] `A1/14-pruefungstraining-a1` — Wiederholung & Prüfungstraining A1 ⚠️ mock exam, do solo & last
 
 ## A2 (14 topics)
 

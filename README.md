@@ -18,4 +18,4 @@ Menschen / Schritte international neu (Hueber) and Sicher! / Aspekte neu.
 3. Check with `solutions.md`; ≥ 80% → next topic, otherwise review and redo.
 4. One topic per week is a solid pace.
 
-**Current status:** A1 Lektionen 1–13 available — mock exam (L14) in progress.
+**Current status:** A1 complete (14 Lektionen) — A2 next.

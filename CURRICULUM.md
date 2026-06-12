@@ -147,4 +147,4 @@ C1 in ~4 → roughly 20 months total at a steady hobby pace. Faster is fine.
 
 ## Progress
 
-Track progress in `tasks/todo.md`. Current status: **A1/01–A1/13 written** — next up: A1/14 Prüfungstraining A1 (mock exam, solo).
+Track progress in `tasks/todo.md`. Current status: **A1 complete (14/14)** — next up: A2/01 Erzähl mal!
