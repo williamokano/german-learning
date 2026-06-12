@@ -673,7 +673,8 @@ def find_lesson_files() -> list[Path]:
 
 
 def _process_blocks(source_path: Path, blocks: list[dict],
-                    client, dry_run: bool, patch_fn, verbose: bool = False):
+                    client, dry_run: bool, patch_fn, verbose: bool = False,
+                    section: str | None = None):
     if not blocks:
         print("  (no audio blocks found)")
         return
@@ -681,12 +682,13 @@ def _process_blocks(source_path: Path, blocks: list[dict],
     audio_dir.mkdir(exist_ok=True)
     speed = speed_for_path(source_path)
     for block in blocks:
-        out_path = audio_dir / f"{block['slug']}.mp3"
-        label = block.get("label", "")
+        slug = block['slug']
+        out_path = audio_dir / f"{slug}.mp3"
         context = block["context"]
-        desc = f"  [{label}] " if label else "  "
+        if section and slug != section:
+            continue
         if dry_run:
-            print(f"  [DRY] {block['slug']}.mp3  context={context}  turns={len(block['lines'])}  speed={speed}")
+            print(f"  [DRY] {slug}.mp3  context={context}  turns={len(block['lines'])}  speed={speed}")
             for i, t in enumerate(block['lines'], 1):
                 txt = t['text']
                 ends_ok = txt.rstrip().endswith(('.', '!', '?'))
@@ -703,30 +705,37 @@ def _process_blocks(source_path: Path, blocks: list[dict],
                     print(f"{prefix}{head}")
             continue
         if out_path.exists():
-            print(f"  skip {out_path.name} (exists)")
-            continue
+            if section:
+                out_path.unlink()  # force regeneration when section is specified
+            else:
+                print(f"  skip {slug}.mp3 (exists)")
+                continue
         generate_clip(client, block, out_path, speed=speed)
     if not dry_run:
         patch_fn(source_path, blocks)
 
 
-def process_lesson_file(lesson_path: Path, client, dry_run: bool = False, verbose: bool = False):
+def process_lesson_file(lesson_path: Path, client, dry_run: bool = False,
+                        verbose: bool = False, section: str | None = None):
     print(f"\n→ {lesson_path.relative_to(REPO_ROOT)}")
     text = lesson_path.read_text(encoding="utf-8")
     dialog_blocks = parse_lesson_dialogs(text)
     hoerzu_blocks = parse_lesson_hoerzu(text)
     hoertext_blocks = parse_lesson_hoertext(text)
     all_blocks = dialog_blocks + hoerzu_blocks + hoertext_blocks
-    _process_blocks(lesson_path, all_blocks, client, dry_run, patch_lesson, verbose=verbose)
+    _process_blocks(lesson_path, all_blocks, client, dry_run, patch_lesson,
+                    verbose=verbose, section=section)
     if not dry_run and all_blocks:
         print(f"  ✓  lesson.md patched")
 
 
-def process_exercises_file(exercises_path: Path, client, dry_run: bool = False, verbose: bool = False):
+def process_exercises_file(exercises_path: Path, client, dry_run: bool = False,
+                           verbose: bool = False, section: str | None = None):
     print(f"\n→ {exercises_path.relative_to(REPO_ROOT)}")
     text = exercises_path.read_text(encoding="utf-8")
     blocks = parse_transcripts(text)
-    _process_blocks(exercises_path, blocks, client, dry_run, patch_exercises, verbose=verbose)
+    _process_blocks(exercises_path, blocks, client, dry_run, patch_exercises,
+                    verbose=verbose, section=section)
     if not dry_run and blocks:
         print(f"  ✓  exercises.md patched")
 
@@ -746,6 +755,10 @@ def main():
                         help="Parse only — no API calls, no file writes")
     parser.add_argument("--verbose", "-v", action="store_true",
                         help="With --dry-run: print FULL text of every turn, not just the first 60 chars")
+    parser.add_argument("--section", metavar="SLUG",
+                        help="Regenerate only the block matching this slug, e.g. hoertext, "
+                             "dialog1, dialog1_a, dialog1_b, hoerzu2. Forces re-generation "
+                             "even if the MP3 already exists.")
     args = parser.parse_args()
 
     if args.list_voices:
@@ -774,9 +787,11 @@ def main():
         return
 
     for p in targets_lessons:
-        process_lesson_file(p, client, dry_run=args.dry_run, verbose=args.verbose)
+        process_lesson_file(p, client, dry_run=args.dry_run, verbose=args.verbose,
+                            section=args.section)
     for p in targets_exercises:
-        process_exercises_file(p, client, dry_run=args.dry_run, verbose=args.verbose)
+        process_exercises_file(p, client, dry_run=args.dry_run, verbose=args.verbose,
+                               section=args.section)
 
     print("\nDone.")
 
