@@ -4,6 +4,14 @@
   "default_language": "de",
   "default_speed": 0.85,
 
+  "level_speeds": {
+    "A1": 0.85,
+    "A2": 0.90,
+    "B1": 1.00,
+    "B2": 1.00,
+    "C1": 1.05
+  },
+
   "voice_descriptions": {
     "announcer":   "Helmut Clark — German Narration, e-learning, clear/neutral/trustworthy (narrator for Hör zu, Hörtext, transcripts)",
     "Anna":        "Ela — Cheerful and Happy, young female, playful",

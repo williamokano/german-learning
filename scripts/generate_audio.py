@@ -56,7 +56,21 @@ def list_voices():
         print(f"{v.voice_id}  {v.name}")
 
 
-def tts(client: ElevenLabs, text: str, voice_key: str) -> bytes:
+def speed_for_path(path: Path) -> float:
+    """Return the configured TTS speed for the level inferred from the file path.
+
+    Walks the path parts looking for a known level prefix (A1, A2, B1, …).
+    Falls back to default_speed if no match.
+    """
+    level_speeds = CFG.get("level_speeds", {})
+    for part in path.parts:
+        level = part[:2].upper()
+        if level in level_speeds:
+            return level_speeds[level]
+    return CFG.get("default_speed", 1.0)
+
+
+def tts(client: ElevenLabs, text: str, voice_key: str, speed: float = 1.0) -> bytes:
     """Generate TTS audio bytes for one text fragment.
 
     The `language` field is passed to the multilingual v2 model so it
@@ -74,6 +88,7 @@ def tts(client: ElevenLabs, text: str, voice_key: str) -> bytes:
         voice_settings={
             "stability": vcfg["stability"],
             "similarity_boost": vcfg["similarity_boost"],
+            "speed": speed,
         },
     )
     return b"".join(audio)
@@ -289,7 +304,7 @@ def _pause_for_mode(mode: str) -> int:
     return p.get(mode, p["between_turns"])
 
 
-def generate_clip(client: ElevenLabs, block: dict, out_path: Path):
+def generate_clip(client: ElevenLabs, block: dict, out_path: Path, speed: float = 1.0):
     """Generate one MP3 — cleaner version avoiding pydub temp-file issues."""
     reset_voice_cache()
     tmp_parts: list[str] = []
@@ -297,7 +312,7 @@ def generate_clip(client: ElevenLabs, block: dict, out_path: Path):
     for turn in block["lines"]:
         speaker = turn["speaker"]
         voice_key = "announcer" if speaker == "_mono" else voice_for_speaker(speaker)
-        audio_bytes = tts(client, turn["text"], voice_key)
+        audio_bytes = tts(client, turn["text"], voice_key, speed=speed)
         tmp = _write_tmp(audio_bytes, ".mp3")
         tmp_parts.append(tmp)
 
@@ -608,13 +623,14 @@ def _process_blocks(source_path: Path, blocks: list[dict],
         return
     audio_dir = source_path.parent / "audio"
     audio_dir.mkdir(exist_ok=True)
+    speed = speed_for_path(source_path)
     for block in blocks:
         out_path = audio_dir / f"{block['slug']}.mp3"
         label = block.get("label", "")
         context = block["context"]
         desc = f"  [{label}] " if label else "  "
         if dry_run:
-            print(f"  [DRY] {block['slug']}.mp3  context={context}  turns={len(block['lines'])}")
+            print(f"  [DRY] {block['slug']}.mp3  context={context}  turns={len(block['lines'])}  speed={speed}")
             for i, t in enumerate(block['lines'], 1):
                 txt = t['text']
                 ends_ok = txt.rstrip().endswith(('.', '!', '?'))
@@ -633,7 +649,7 @@ def _process_blocks(source_path: Path, blocks: list[dict],
         if out_path.exists():
             print(f"  skip {out_path.name} (exists)")
             continue
-        generate_clip(client, block, out_path)
+        generate_clip(client, block, out_path, speed=speed)
     if not dry_run:
         patch_fn(source_path, blocks)
 
