@@ -253,10 +253,11 @@ If something else takes position 1, the subject moves to position 3 ("inversion"
 
 ## 6. Hörtext
 
-> Hallo! Ich heiße Yuki Tanaka. Ich komme aus Japan, aus Osaka. Ich wohne
-> jetzt in Berlin und lerne Deutsch. Ich spreche Japanisch, Englisch und
-> ein bisschen Deutsch. Mein Deutschkurs ist super — wir sind zwanzig
-> Studenten im Kurs.
+> Hallo! Ich heiße Yuki Tanaka. Ich komme aus Japan, aus Osaka. Ich wohne jetzt in
+> Berlin und lerne Deutsch. Ich spreche Japanisch, Englisch und ein bisschen
+> Deutsch. Mein Deutschkurs ist super! Die Lehrerin heißt Frau Schmidt. Sie kommt
+> aus Hamburg. Im Kurs sind elf Frauen und neun Männer. Und du? Wer bist du,
+> woher kommst du und welche Sprachen sprichst du?
 
 *(You'll listen to this text in Block H, Übung H3.)*
 
