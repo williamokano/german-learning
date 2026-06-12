@@ -70,6 +70,22 @@ def speed_for_path(path: Path) -> float:
     return CFG.get("default_speed", 1.0)
 
 
+def strip_markdown(text: str) -> str:
+    """Remove inline markdown formatting before sending text to TTS.
+
+    Bold (**word** or __word__), italic (*word* or _word_), and stray
+    asterisks used as footnote markers all cause ElevenLabs artifacts.
+    """
+    # Remove paired bold/italic markers
+    text = re.sub(r'\*\*(.+?)\*\*', r'\1', text)
+    text = re.sub(r'__(.+?)__', r'\1', text)
+    text = re.sub(r'\*(.+?)\*', r'\1', text)
+    text = re.sub(r'_(.+?)_', r'\1', text)
+    # Strip any remaining unpaired asterisks (footnote markers, dangling **)
+    text = re.sub(r'\*+', '', text)
+    return text.strip()
+
+
 def tts(client: ElevenLabs, text: str, voice_key: str, speed: float = 1.0) -> bytes:
     """Generate TTS audio bytes for one text fragment.
 
@@ -82,7 +98,7 @@ def tts(client: ElevenLabs, text: str, voice_key: str, speed: float = 1.0) -> by
     language = vcfg.get("language", CFG.get("default_language"))
     audio = client.text_to_speech.convert(
         voice_id=vcfg["voice_id"],
-        text=text,
+        text=strip_markdown(text),
         model_id=CFG["model"],
         language_code=language,
         voice_settings={
