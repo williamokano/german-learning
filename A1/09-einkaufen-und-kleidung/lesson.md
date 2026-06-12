@@ -14,6 +14,8 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Im Kaufhaus (In the department store)
 
 > **Verkäuferin:** Guten Tag! Kann ich Ihnen helfen?
@@ -31,6 +33,8 @@
 > **Anna:** Ja, bitte.
 
 ---
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
 ## 2. Dialog: Mit Bruno im Sportgeschäft
 
@@ -279,7 +283,20 @@ structures in this lesson.
 
 ---
 
-## 7. Lernstrategie
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 7. Hörtext
+
+> Anna kauft eine neue Jacke. Sie geht in ein Kaufhaus in der Stadt und
+> sucht eine schwarze Jacke. Die Verkäuferin zeigt ihr eine Jacke in
+> Größe 38 — sie passt und steht Anna gut. Sie kostet achtzig Euro.
+> Anna nimmt die Jacke und bezahlt mit Karte.
+
+*(You'll listen to this text in Block H, Übung H2.)*
+
+---
+
+## 8. Lernstrategie
 
 For dative verbs, make a **sentence card** for each verb rather than memorizing the
 word alone. Write the verb with its typical frame:

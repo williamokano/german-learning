@@ -13,6 +13,8 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Die neue Wohnung
 
 > **Anna:** Hallo Bruno! Komm rein! Das ist meine neue Wohnung.
@@ -24,6 +26,8 @@
 > **Anna:** Ja, da! Er ist klein, aber gemütlich.
 > **Bruno:** Und was kostet die Wohnung?
 > **Anna:** 850 Euro im Monat. Das ist nicht billig, aber okay für Berlin.
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
 ## 2. Dialog: Am Telefon — die Wohnungsanzeige
 
@@ -122,6 +126,18 @@ die Miete, -n (rent) · der Quadratmeter, - (m²) · die Anzeige, -n (ad) ·
 suchen (to look for) · finden (to find / to think of) · der Monat, -e:
 **im Monat** (per month)
 
+### 🔊 Aussprache
+
+🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3)
+
+> **Hör zu 1 — Räume:** die Küche · das Bad · das Wohnzimmer · das Schlafzimmer · der Flur · der Balkon
+🎧 **Audio:** [hoerzu2.mp3](audio/hoerzu2.mp3)
+
+> **Hör zu 2 — Möbel:** der Tisch · der Stuhl · das Sofa · das Bett · der Schrank · der Schreibtisch
+🎧 **Audio:** [hoerzu3.mp3](audio/hoerzu3.mp3)
+
+> **Hör zu 3 — Farben:** rot · blau · grün · gelb · schwarz · weiß · braun · grau
+
 ---
 
 ## 5. Grammatik
@@ -207,7 +223,21 @@ Rules for now:
 
 ---
 
-## 7. Lernstrategie
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 7. Hörtext
+
+> Anna wohnt jetzt in einer neuen Wohnung in Berlin. Die Wohnung hat
+> drei Zimmer: ein Wohnzimmer, ein Schlafzimmer und eine kleine Küche.
+> Es gibt auch ein Bad mit einem Balkon. Im Wohnzimmer stehen ein
+> großes, braunes Sofa und ein Schreibtisch. Anna findet die Wohnung
+> schön — aber ein bisschen teuer!
+
+*(You'll listen to this text in Block H, Übung H3.)*
+
+---
+
+## 8. Lernstrategie
 
 The classic that works: **label your home**. Put sticky notes on 10–15 objects —
 always with the article, color-coded like in Lektion 3 (der = blue, die = red,

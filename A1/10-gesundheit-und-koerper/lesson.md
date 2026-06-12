@@ -12,6 +12,8 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Beim Arzt (At the Doctor's)
 
 > **Arzt:** Guten Tag! Was fehlt Ihnen?
@@ -29,6 +31,8 @@
 > **Arzt:** Gute Besserung!
 
 ---
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
 ## 2. Dialog: In der Apotheke (At the Pharmacy)
 
@@ -348,7 +352,20 @@ The full set (all persons) — nominative/accusative only (to keep scope clean):
 
 ---
 
-## 7. Lernstrategie
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 7. Hörtext
+
+> Anna hat Kopfschmerzen und Fieber. Sie geht zum Arzt. Der Arzt
+> untersucht sie und gibt ihr ein Rezept. Sie geht dann in die
+> Apotheke und kauft Tabletten. Die Apothekerin sagt: „Nehmen Sie
+> dreimal täglich eine Tablette." Anna geht nach Hause und schläft.
+
+*(You'll listen to this text in Block H, Übung H2.)*
+
+---
+
+## 8. Lernstrategie
 
 Body parts and illnesses are **high-frequency vocabulary** — you'll need them
 quickly in real life. Study technique: draw a blank body outline on paper and

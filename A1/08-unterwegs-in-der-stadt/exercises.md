@@ -1,7 +1,32 @@
 # A1 · Lektion 8 — Übungen
 
-Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
 **D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+
+---
+
+# Block H — Hören
+
+## Übung H1 — Dialog Hör-Check
+
+Listen and decide: richtig (R) oder falsch (F)?
+
+1. Bruno fragt eine Frau auf der Straße nach dem Bahnhof. ( )
+2. Die Frau sagt: Fahren Sie mit dem Bus! ( )
+3. Im zweiten Dialog fragt Anna: Wie komme ich zum Museum Ludwig? ( )
+4. Jonas kommt am Abend mit Anna ins Museum. ( )
+
+## Übung H2 — Hörtext-Lückentext
+
+Listen and fill the gaps with the words from the box.
+
+> (Sonntag · Stadtmitte · Bus · Bahnhof · geradeaus · Minuten)
+
+> Maria möchte am (1)______ zum Park gehen. Sie wohnt in der (2)______,
+> und der Park ist weit. Sie fährt mit dem (3)______ — sie nimmt die Linie 5
+> und steigt am (4)______ um. Von dort geht sie zu Fuß zum Park: (5)______
+> und dann die erste Straße links. Der Weg dauert zwanzig (6)______.
 
 ---
 

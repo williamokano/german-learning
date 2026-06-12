@@ -1,7 +1,48 @@
 # A1 · Lektion 5 — Übungen
 
-Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
 **D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+
+---
+
+# Block H — Hören
+
+## Übung H1 — Dialog: Annas Tag
+
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
+Listen and decide: richtig (R) oder falsch (F)?
+
+1. Anna steht um 6:30 Uhr auf. ( )
+2. Annas Arbeit fängt um neun Uhr an. ( )
+3. Die Mittagspause ist von halb eins bis halb zwei. ( )
+4. Am Abend sieht Anna immer fern. ( )
+
+## Übung H2 — Dialog: Pläne am Telefon
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
+
+Listen and decide: richtig (R) oder falsch (F)?
+
+1. Anna fragt Bruno: Hast du am Samstag Zeit? ( )
+2. Der Film fängt um halb acht an. ( )
+3. Anna ruft Bruno am Samstagmorgen noch einmal an. ( )
+4. Bruno und Anna gehen am Sonntag ins Kino. ( )
+
+## Übung H3 — Hörtext-Lückentext
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+Höre den Text und fülle die Lücken.
+
+> Tom ______ um Viertel vor sieben auf. Er duscht und frühstückt — ______
+> mit Käse und Kaffee. Um acht fängt seine Arbeit an. Er ______ von acht
+> bis halb fünf. Die Mittagspause ist von halb eins bis eins. Am
+> Nachmittag ______ er ein. Am Abend kocht er und ______ manchmal fern
+> — aber nicht immer. Um elf geht er ______.
+
+> (steht · Brötchen · arbeitet · kauft · sieht · schlafen)
 
 ---
 

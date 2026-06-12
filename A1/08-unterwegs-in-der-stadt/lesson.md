@@ -14,6 +14,8 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Nach dem Weg fragen
 
 *Bruno besucht Jonas in Köln. Er fragt eine Frau auf der Straße.*
@@ -32,6 +34,8 @@
 numbers come in Lektion 12.
 \** `an der Kirche`, `am Bahnhof` (at the church / at the station) — location
 chunks with `an`; the full preposition system for `an/in/auf` comes at A2.
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
 ## 2. Dialog: Wie komme ich zum Museum?
 
@@ -261,7 +265,20 @@ To tell someone (formally) what to do, put the **verb first**, then `Sie`:
 
 ---
 
-## 7. Lernstrategie
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 7. Hörtext
+
+> Maria möchte am Sonntag zum Park gehen. Sie wohnt in der Stadtmitte,
+> und der Park ist weit. Sie fährt mit dem Bus — sie nimmt die Linie 5 und
+> steigt am Bahnhof um. Von dort geht sie zu Fuß zum Park: geradeaus und
+> dann die erste Straße links. Der Weg dauert zwanzig Minuten.
+
+*(You'll listen to this text in Block H, Übung H2.)*
+
+---
+
+## 8. Lernstrategie
 
 Make your own city your textbook: every time you walk or ride somewhere this
 week, **narrate the route in German** — "Ich fahre mit der U-Bahn. Ich steige

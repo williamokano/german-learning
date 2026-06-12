@@ -2,6 +2,38 @@
 
 ---
 
+# Block H — Hören
+
+## Übung H1 — Aussprache-Check
+
+1. **b) der Großvater** — the father of your mother = your mother's father = der Großvater.
+2. **a) die Tante** — Mutter's sister = die Tante (not die Schwester, which is *your* sister).
+3. **b) sechzig** — fünfzig → **sechzig** → siebzig (the regular tens pattern; only dreißig/s sechzig/siebzig have spelling quirks).
+4. **b) 70** — siebzig = 70 (no "-en" ending, the ⚠️ spelling from §3).
+5. **a) mein** — ich → **mein** (the "I" form of the possessive).
+
+## Übung H2 — Dialog: Das Familienfoto
+
+1. **R** — Bruno fragt: „Anna, ist das deine Familie auf dem Foto?" — Anna zeigt ihm das Foto.
+2. **R** — Anna sagt: „ich habe einen Bruder" — der Bruder (Felix) ist auf dem Foto.
+3. **F** — Annas Schwester heißt **Lena**; Claudia ist die **Mutter**.
+4. **F** — Im Dialog steht nicht, wo Annas Eltern wohnen — Anna selbst wohnt in Berlin (L1), nicht die Eltern.
+
+## Übung H3 — Hörtext-Lückentext
+
+Complete Hörtext:
+
+> Das ist Familie **Bergmann**. Der Vater heißt **Thomas**. Er kommt aus
+> Deutschland, aus **München**. Die Mutter heißt Anna. Sie kommt aus
+> Österreich, aus Wien. Sie haben zwei Kinder: einen Sohn und eine
+> Tochter. Der Sohn heißt Max — er ist **zwanzig** Jahre alt und ledig.
+> Die Tochter heißt Lisa — sie ist **verheiratet** und hat ein Kind. Die
+> Großmutter heißt **Eva** und wohnt auch in München.
+
+Word bank in gap order: Bergmann · Thomas · München · zwanzig · verheiratet · Eva.
+
+---
+
 # Block A
 
 ## Übung A1 — `haben`

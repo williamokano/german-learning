@@ -9,6 +9,8 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Im Deutschkurs (In the German course)
 
 > **Anna:** Hallo! Ich heiße Anna. Und wie heißt du?
@@ -23,11 +25,11 @@
 And the formal version — note **Sie** instead of **du**:
 
 > **Frau Weber:** Guten Tag! Mein Name ist Weber. Wie heißen **Sie**?
-> **Herr Okano:** Guten Tag, Frau Weber. Ich heiße William Okano.
+> **Herr Steinmeyer:** Guten Tag, Frau Weber. Ich heiße Friedrich Steinmeyer.
 > **Frau Weber:** Entschuldigung, wie bitte? Buchstabieren Sie bitte.
-> **Herr Okano:** O-K-A-N-O.
-> **Frau Weber:** Danke. Woher kommen Sie, Herr Okano?
-> **Herr Okano:** Ich komme aus Brasilien.
+> **Herr Steinmeyer:** S-T-E-I-N-M-E-Y-E-R.
+> **Frau Weber:** Danke. Woher kommen Sie, Herr Steinmeyer?
+> **Herr Steinmeyer:** Ich komme aus Brasilien.
 > **Frau Weber:** Willkommen in Deutschland!
 
 **Key cultural point — du vs. Sie:** German has two words for "you".
@@ -121,6 +123,27 @@ Just memorize these as chunks for now — the case system comes later.
 Special letters: **ä** ("a-Umlaut"), **ö**, **ü**, **ß** ("Eszett" / "scharfes S").
 On the phone Germans often use the spelling alphabet: *A wie Anton, B wie Berta,
 M wie Martha…* — useful but not required yet.
+
+### 🔊 Aussprache
+
+🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3)
+
+> **Hör zu 1 — Begrüßungen:** Hallo · Guten Morgen · Guten Tag · Guten Abend · Grüß Gott · Servus · Moin
+🎧 **Audio:** [hoerzu2.mp3](audio/hoerzu2.mp3)
+
+> **Hör zu 2 — Verabschiedungen:** Auf Wiedersehen · Tschüss · Bis bald · Bis morgen · Gute Nacht
+🎧 **Audio:** [hoerzu3.mp3](audio/hoerzu3.mp3)
+
+> **Hör zu 3 — W-Fragewörter:** Wie · Wer · Wo · Woher · Was · Welche
+🎧 **Audio:** [hoerzu4.mp3](audio/hoerzu4.mp3)
+
+> **Hör zu 4 — Zahlen 0–10:** null · eins · zwei · drei · vier · fünf · sechs · sieben · acht · neun · zehn
+🎧 **Audio:** [hoerzu5.mp3](audio/hoerzu5.mp3)
+
+> **Hör zu 5 — Zahlen 11–20:** elf · zwölf · dreizehn · vierzehn · fünfzehn · sechzehn · siebzehn · achtzehn · neunzehn · zwanzig
+🎧 **Audio:** [hoerzu6.mp3](audio/hoerzu6.mp3)
+
+> **Hör zu 6 — Alphabet (Vokale & Sonderzeichen):** a · e · i · o · u · ä · ö · ü · ß
 
 ---
 
@@ -222,7 +245,20 @@ If something else takes position 1, the subject moves to position 3 ("inversion"
 
 ---
 
-## 6. Lernstrategie (study tip for this lesson)
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 6. Hörtext
+
+> Hallo! Ich heiße Yuki Tanaka. Ich komme aus Japan, aus Osaka. Ich wohne
+> jetzt in Berlin und lerne Deutsch. Ich spreche Japanisch, Englisch und
+> ein bisschen Deutsch. Mein Deutschkurs ist super — wir sind zwanzig
+> Studenten im Kurs.
+
+*(You'll listen to this text in Block H, Übung H3.)*
+
+---
+
+## 7. Lernstrategie (study tip for this lesson)
 
 Write your own introduction (5–6 sentences) and **say it out loud daily** until it's
 automatic — name, origin, city, languages. This "me-paragraph" is the foundation

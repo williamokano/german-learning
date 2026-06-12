@@ -16,6 +16,8 @@
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: Telefonat — Anna ruft das Bürgeramt an
 
 > **Sachbearbeiterin:** Bürgeramt Mitte, guten Tag.
@@ -45,6 +47,8 @@
 >
 > Mit freundlichen Grüßen
 > Anna Bergmann
+
+🎧 **Audio:** [dialog1_c.mp3](audio/dialog1_c.mp3)
 
 ### Dialog C: Am Telefon — eine Verabredung ändern
 
@@ -316,7 +320,21 @@ In the Perfekt (L11):
 
 ---
 
-## 6. Lernstrategie
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 6. Hörtext
+
+> Anna ist nach Berlin gezogen. Sie muss sich beim Bürgeramt anmelden.
+> Zuerst ruft sie das Bürgeramt an und macht einen Termin. Sie braucht
+> ihren Personalausweis und einen Wohnungsgebernachweis. Den
+> Wohnungsgebernachweis bekommt sie von ihrem Vermieter, Herrn Keller.
+> Der Termin ist am Montag um zehn Uhr.
+
+*(You'll listen to this text in Block H, Übung H2.)*
+
+---
+
+## 7. Lernstrategie
 
 **Learn office vocabulary as sentences, not words.** Instead of memorizing
 *Personalausweis* in isolation, learn the sentence you will actually say: *"Ich

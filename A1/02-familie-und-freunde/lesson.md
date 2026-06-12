@@ -10,6 +10,8 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Das Familienfoto
 
 > **Bruno:** Anna, ist das deine Familie auf dem Foto?
@@ -34,10 +36,10 @@ Kind.*
 
 Formal variant:
 
-> **Frau Weber:** Herr Okano, haben Sie Kinder?
-> **Herr Okano:** Ja, ich habe eine Tochter. Sie ist sechs Jahre alt.
-> **Frau Weber:** Schön! Und Ihre Frau — woher kommt sie?
-> **Herr Okano:** Meine Frau kommt auch aus Brasilien.
+> **Frau Weber:** Herr Steinmeyer, haben Sie Kinder?
+> **Herr Steinmeyer:** Ja, ich habe eine Tochter. Sie ist sechs Jahre alt.
+> *(Some chunks below)*
+> **Herr Steinmeyer:** Meine Frau kommt auch aus Brasilien.
 
 ---
 
@@ -115,6 +117,18 @@ And 21/31/41… use **ein**, not eins: einundzwanzig.
 
 groß (big/tall) · klein (small) · alt (old) · jung (young) · nett (nice) ·
 fit (fit) · süß (sweet/cute) · toll (great)
+
+### 🔊 Aussprache
+
+🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3)
+
+> **Hör zu 1 — Familie:** der Vater · die Mutter · der Bruder · die Schwester · der Sohn · die Tochter · der Großvater · die Großmutter
+🎧 **Audio:** [hoerzu2.mp3](audio/hoerzu2.mp3)
+
+> **Hör zu 2 — Zahlen 20–100:** zwanzig · dreißig · vierzig · fünfzig · sechzig · siebzig · achtzig · neunzig · hundert
+🎧 **Audio:** [hoerzu3.mp3](audio/hoerzu3.mp3)
+
+> **Hör zu 3 — Possessivpronomen & Adjektive:** mein · dein · sein · ihr · unser · euer · ledig · verheiratet
 
 ---
 
@@ -218,7 +232,22 @@ Answers: **Ja, …** / **Nein, …**
 
 ---
 
-## 6. Lernstrategie
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 6. Hörtext
+
+> Das ist Familie Bergmann. Der Vater heißt Thomas. Er kommt aus
+> Deutschland, aus München. Die Mutter heißt Anna. Sie kommt aus
+> Österreich, aus Wien. Sie haben zwei Kinder: einen Sohn und eine
+> Tochter. Der Sohn heißt Max — er ist zwanzig Jahre alt und ledig. Die
+> Tochter heißt Lisa — sie ist verheiratet und hat ein Kind. Die
+> Großmutter heißt Eva und wohnt auch in München.
+
+*(You'll listen to this text in Block H, Übung H3.)*
+
+---
+
+## 7. Lernstrategie
 
 Extend your "me-paragraph" from Lektion 1 with 3–4 family sentences (Ich habe…,
 Mein Bruder heißt…, Er ist … Jahre alt). Also: from today, **always note new nouns

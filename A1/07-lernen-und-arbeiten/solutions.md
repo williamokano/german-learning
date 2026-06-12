@@ -2,6 +2,27 @@
 
 ---
 
+# Block H — Hören
+
+## Übung H1 — Dialog: Im Büro
+
+1. **R** — Bruno says: „Ich muss um acht Uhr im Büro sein."
+2. **F** — Anna arbeitet **von neun bis fünf**, nicht um acht.
+3. **F** — Der Kurs ist **morgen** — heute Abend will Anna **lernen**, nicht den Kurs machen.
+4. **R** — Bruno: „Darf ich auch mitmachen?" / „Dann will ich heute noch den Kurs buchen."
+
+## Übung H2 — Hörtext-Lückentext: Marias Arbeitstag
+
+> Maria arbeitet als **(1) Verkäuferin** in einem **(2) Geschäft** in
+> München. Sie muss morgens um **(3) sechs** Uhr aufstehen. Die Arbeit
+> fängt um halb acht an und endet um **(4) achtzehn** Uhr. Am Nachmittag
+> muss sie noch **(5) einkaufen**. Sie will später gern **(6) Teilzeit**
+> arbeiten.
+
+Bank (in gap order): **Verkäuferin · Geschäft · sechs · achtzehn · einkaufen · Teilzeit**
+
+---
+
 # Block A
 
 ## Übung A1 — `müssen`

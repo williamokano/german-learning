@@ -2,6 +2,34 @@
 
 ---
 
+# Block H — Hören
+
+## Übung H1 — Aussprache-Check
+
+1. **b) Banane** (Banane is a fruit; Brot = bread, Käse = cheese)
+2. **a) Brötchen** (Brötchen = small bread roll, breakfast classic; Wurst = sausage, Tomate = tomato)
+3. **c) Bier** (Bier is alcoholic; Kaffee and Tee are hot drinks)
+4. **b) to cost** (kosten = to cost; kaufen = to buy, zahlen = to pay)
+5. **b) Tasse** (Tasse = cup, used for coffee/tea; Stück = piece, Kilo = kilogram)
+
+## Übung H2 — Dialog Hör-Check (Im Café + Im Supermarkt)
+
+1. **R** — Anna says: „Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte."
+2. **R** — Bruno asks for Orangensaft and confirms „Ja, bitte" to the offer of „Ein Glas Orangensaft".
+3. **R** — Bruno buys „den Gouda, das Schwarzbrot und eine Flasche Wasser" — Käse, Brot, Wasser.
+4. **F** — They pay **getrennt** (separately), not zusammen.
+
+## Übung H3 — Hörtext-Lückentext
+
+> Anna ist im Café Central. Sie hat **Hunger** und Durst. Sie möchte einen
+> **Kaffee** und ein Stück **Apfelkuchen**. Der Kaffee kostet zwei Euro fünfzig,
+> der Kuchen kostet drei Euro neunzig. Das macht **sechs** Euro **vierzig**.
+> Anna isst und trinkt gern im Café — der Kuchen **schmeckt** super!
+
+Bank in gap order: **Hunger · Kaffee · Apfelkuchen · sechs · vierzig · schmeckt**
+
+---
+
 # Block A
 
 ## Übung A1 — der/die/das

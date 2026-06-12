@@ -1,10 +1,32 @@
 # A1 · Lektion 7 — Übungen
 
-Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
 **D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
 
-Spread the blocks over several days — A on day 1–2, B on day 3–4,
-C on day 5, D on day 6 after a pause.
+---
+
+# Block H — Hören
+
+## Übung H1 — Dialog: Im Büro
+
+Listen to the dialog „Im Büro" in `lesson.md`, section 1. Richtig (R) oder falsch (F)?
+
+1. Bruno muss um acht Uhr im Büro sein. ( )
+2. Anna muss auch um acht Uhr arbeiten. ( )
+3. Anna will heute Abend einen Computerkurs machen. ( )
+4. Bruno will auch den Kurs machen. ( )
+
+## Übung H2 — Hörtext-Lückentext: Marias Arbeitstag
+
+Listen to the Hörtext in `lesson.md`, section 6, and fill the gaps from the bank.
+
+> Maria arbeitet als (1) ______ in einem (2) ______ in München. Sie muss
+> morgens um (3) ______ Uhr aufstehen. Die Arbeit fängt um halb acht an und
+> endet um (4) ______ Uhr. Am Nachmittag muss sie noch (5) ______. Sie
+> will später gern (6) ______ arbeiten.
+
+> (Verkäuferin · Geschäft · sechs · achtzehn · einkaufen · Teilzeit)
 
 ---
 

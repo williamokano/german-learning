@@ -14,6 +14,8 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Im Büro
 
 > **Anna:** Bruno, wann musst du heute arbeiten?
@@ -246,7 +248,20 @@ as one word (it re-combines there):
 
 ---
 
-## 6. Lernstrategie
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 6. Hörtext
+
+> Maria arbeitet als Verkäuferin in einem Geschäft in München. Sie muss
+> morgens um sechs Uhr aufstehen. Die Arbeit fängt um halb acht an und
+> endet um achtzehn Uhr. Am Nachmittag muss sie noch einkaufen. Sie
+> will später gern Teilzeit arbeiten.
+
+*(You'll listen to this text in Block H, Übung H2.)*
+
+---
+
+## 7. Lernstrategie
 
 **Genderize your professions now.** The `-in` suffix always makes a feminine
 form from a masculine one: *der Lehrer → die Lehrerin, der Koch → die Köchin*.

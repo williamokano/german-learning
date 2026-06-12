@@ -2,6 +2,36 @@
 
 ---
 
+# Block H — Hören
+
+## Übung H1 — Dialog Hör-Check
+
+1. **F** — Anna sagt „Ich suche eine Jacke" (ohne Farbe). Die Verkäuferin sagt, die Jacke ist rot.
+2. **R** — Die Verkäuferin sagt: „Die Jacke steht Ihnen sehr gut! Und sie passt Ihnen perfekt."
+3. **R** — Bruno sucht „Sportschuhe" und sagt am Ende „Den nehme ich!" (er kauft).
+4. **F** — Bruno probiert die Schuhe in Größe **43** an, nicht 42.
+
+## Übung H2 — Hörtext-Lückentext
+
+Complete Hörtext:
+
+> Anna kauft eine neue **Jacke**. Sie geht in ein **Kaufhaus** in der Stadt
+> und sucht eine **schwarze** Jacke. Die **Verkäuferin** zeigt ihr eine
+> Jacke in Größe 38 — sie **passt** und steht Anna gut. Sie kostet
+> **achtzig** Euro. Anna nimmt die Jacke und bezahlt mit Karte.
+
+Word bank in gap order: Jacke · Kaufhaus · schwarze · Verkäuferin · passt · achtzig.
+
+Trap notes:
+1. **Jacke** — feminine noun (die Jacke, -n). Main object of the Hörtext; also appears intact in sentences 2 and 4 and the closing line.
+2. **Kaufhaus** — neuter noun (das Kaufhaus, "Kaufhäuser"). „in ein Kaufhaus" = into a department store.
+3. **schwarze** — adjective ending -e on the accusative feminine „Jacke" (eine schwarze Jacke). Treat as a chunk — full adjective-declension rules come in A2/08.
+4. **Verkäuferin** — feminine noun (die Verkäuferin, -nen), the shop assistant. Matches „Dialog 1" topic.
+5. **passt** — third-person singular of *passen* (to fit). Both *passt* and *steht* in this sentence take dative.
+6. **achtzig** — the number 80.
+
+---
+
 # Block A
 
 ## Übung A1 — Dative pronouns

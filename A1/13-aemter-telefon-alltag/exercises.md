@@ -1,10 +1,37 @@
 # A1 · Lektion 13 — Übungen
 
-Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
 **D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
 
-Spread the blocks over several days — A on day 1–2, B on day 3–4, C on day 5,
-D on day 6 after a pause.
+---
+
+# Block H — Hören
+
+## Übung H1 — Dialog Hör-Check: Telefonat Bürgeramt + Verabredung ändern
+
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3) · [dialog1_c.mp3](audio/dialog1_c.mp3)
+
+Listen and decide: richtig (R) oder falsch (F)?
+
+1. Anna ruft das Bürgeramt an, um sich anzumelden. ( )
+2. Anna braucht einen Personalausweis und einen Reisepass. ( )
+3. Im zweiten Dialog ruft Bruno Anna an. ( )
+4. Bruno kann den Termin um drei Uhr nicht ändern. ( )
+
+## Übung H2 — Hörtext-Lückentext: Anmeldung in Berlin
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+Höre den Text und fülle die Lücken.
+
+> Anna ist nach (1) ______ gezogen. Sie muss sich beim (2) ______
+> (3) ______. Zuerst ruft sie das Bürgeramt an und macht einen Termin.
+> Sie braucht ihren (4) ______ und einen (5) ______. Den
+> Wohnungsgebernachweis bekommt sie von ihrem Vermieter, Herrn Keller.
+> Der Termin ist am (6) ______ um zehn Uhr.
+
+> (Berlin · Bürgeramt · anmelden · Personalausweis · Wohnungsgebernachweis · Montag)
 
 ---
 

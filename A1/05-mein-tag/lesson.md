@@ -13,6 +13,8 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Annas Tag
 
 > **Bruno:** Anna, wann stehst du auf?
@@ -29,6 +31,8 @@
 
 \* `nach der Arbeit` (after work) — a dative chunk; the preposition system comes
 later. Same for `meistens` (= mostly).
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
 ## 2. Dialog: Pläne am Telefon
 
@@ -208,7 +212,21 @@ ich sehe fern · du **siehst** fern · er **sieht** fern (full e→ie family in 
 
 ---
 
-## 7. Lernstrategie
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 7. Hörtext
+
+> Tom steht um Viertel vor sieben auf. Er duscht und frühstückt — Brötchen
+> mit Käse und Kaffee. Um acht fängt seine Arbeit an. Er arbeitet von acht
+> bis halb fünf. Die Mittagspause ist von halb eins bis eins. Am Nachmittag
+> kauft er ein. Am Abend kocht er und sieht manchmal fern — aber nicht
+> immer. Um elf geht er schlafen.
+
+*(You'll listen to this text in Block H, Übung H3.)*
+
+---
+
+## 8. Lernstrategie
 
 For one week, **narrate your day in German, at the moment you do things**:
 "Ich stehe auf. Ich dusche. Ich kaufe ein." Five words at a time, out loud or

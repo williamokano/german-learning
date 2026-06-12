@@ -1,10 +1,36 @@
 # A1 · Lektion 9 — Übungen
 
-Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
 **D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
 
-Spread the blocks over several days — A on day 1–2, B on day 3–4, C on day 5,
-D on day 6 after a pause.
+---
+
+# Block H — Hören
+
+## Übung H1 — Dialog Hör-Check
+
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3) · [dialog2.mp3](audio/dialog2.mp3)
+
+Listen and decide: richtig (R) oder falsch (F)?
+
+1. Anna sucht eine rote Jacke. ( )
+2. Die Jacke passt Anna gut. ( )
+3. Im zweiten Dialog kauft Bruno Sportschuhe. ( )
+4. Bruno probiert die Schuhe in Größe 42 an. ( )
+
+## Übung H2 — Hörtext-Lückentext
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+Höre den Text und fülle die Lücken.
+
+> Anna kauft eine neue ______. Sie geht in ein ______ in der Stadt und
+> sucht eine ______ Jacke. Die ______ zeigt ihr eine Jacke in
+> Größe 38 — sie ______ und steht Anna gut. Sie kostet ______ Euro.
+> Anna nimmt die Jacke und bezahlt mit Karte.
+
+> (Jacke · Kaufhaus · schwarze · Verkäuferin · passt · achtzig)
 
 ---
 

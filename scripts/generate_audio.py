@@ -57,12 +57,20 @@ def list_voices():
 
 
 def tts(client: ElevenLabs, text: str, voice_key: str) -> bytes:
-    """Generate TTS audio bytes for one text fragment."""
+    """Generate TTS audio bytes for one text fragment.
+
+    The `language` field is passed to the multilingual v2 model so it
+    pronounces the text with native phonology (e.g. "de" for German) even
+    when the chosen voice is an English-timbred default. Per-voice override
+    is supported via the `language` key in audio_config.json.
+    """
     vcfg = CFG["voices"][voice_key]
+    language = vcfg.get("language", CFG.get("default_language"))
     audio = client.text_to_speech.convert(
         voice_id=vcfg["voice_id"],
         text=text,
         model_id=CFG["model"],
+        language_code=language,
         voice_settings={
             "stability": vcfg["stability"],
             "similarity_boost": vcfg["similarity_boost"],
@@ -76,8 +84,8 @@ def tts(client: ElevenLabs, text: str, voice_key: str) -> bytes:
 # ---------------------------------------------------------------------------
 
 _voice_cache: dict[str, str] = {}  # speaker name → voice key
-_female_pool = ["Anna", "female_1", "female_2", "female_3"]
-_male_pool = ["Bruno", "male_1", "male_2", "male_3"]
+_female_pool = ["female_1", "female_2", "female_3"]
+_male_pool = ["male_1", "male_2", "male_3"]
 _female_idx = 0
 _male_idx = 0
 
@@ -200,28 +208,64 @@ def _detect_context_from_turns(turns: list[dict]) -> str:
     return "home"
 
 
-def _collect_turns(lines: list[str], start: int) -> tuple[list[dict], str]:
-    """Collect blockquote lines after a Transcript header."""
+def _collect_turns(lines: list[str], start: int, end: int | None = None) -> tuple[list[dict], str]:
+    """Collect blockquote lines after a Transcript header (or a dialog header).
+
+    A dialog block is contiguous blockquote lines. Stage directions, intro
+    notes, and similar non-blockquote, non-blank lines BEFORE the first
+    speaker line are skipped.
+
+    After the first speaker line, a non-blockquote, non-blank line ends the
+    block — UNLESS the next non-blank line is another blockquote (i.e. the
+    current line is a one-line stage direction like "And the formal
+    version…" that introduces a continuation of the same dialog).
+
+    Wrapped speaker lines (a blockquote with no speaker label that
+    immediately follows a DIALOG turn) are appended to the previous turn so
+    they keep the same voice.
+    """
     turns = []
     mode = "mono"
     i = start
     while i < len(lines):
+        if end is not None and i >= end:
+            break
         line = lines[i]
-        if line.strip() == "" and i > start:
-            # stop at first blank line after content started
-            if turns:
-                break
+        if line.strip() == "":
+            i += 1
+            continue
         m = DIALOG_LINE.match(line)
         if m:
             mode = "dialog"
             turns.append({"speaker": m.group(1).strip(), "text": m.group(2).strip()})
-        else:
-            m2 = MONO_LINE.match(line)
-            if m2:
-                turns.append({"speaker": "_mono", "text": m2.group(1).strip()})
-            elif turns:
-                break
-        i += 1
+            i += 1
+            continue
+        m2 = MONO_LINE.match(line)
+        if m2:
+            text = m2.group(1).strip()
+            if turns and turns[-1]["speaker"] != "_mono":
+                # Wrapped continuation of the previous speaker turn.
+                turns[-1]["text"] = (turns[-1]["text"] + " " + text).strip()
+            else:
+                turns.append({"speaker": "_mono", "text": text})
+            i += 1
+            continue
+        if not turns:
+            # Skip stage direction / intro before the first speaker line.
+            i += 1
+            continue
+        # Non-blockquote, non-blank line AFTER content started. Look ahead
+        # across blank lines: if the next non-blank line is a blockquote,
+        # treat this line as a one-line stage direction (e.g. "And the
+        # formal version…") and keep going. Otherwise, this is a real
+        # paragraph break and the block ends here.
+        j = i + 1
+        while j < len(lines) and (end is None or j < end) and lines[j].strip() == "":
+            j += 1
+        if (j < len(lines)) and (end is None or j < end) and lines[j].startswith(">"):
+            i += 1
+            continue
+        break
     return turns, mode
 
 
@@ -233,54 +277,19 @@ SILENCE_400 = AudioSegment.silent(duration=CFG["pause_ms"]["between_turns"])
 SILENCE_200 = AudioSegment.silent(duration=CFG["pause_ms"]["between_sentences"])
 
 
-def generate_clip(client: ElevenLabs, block: dict, out_path: Path):
-    """Generate one MP3 file for a transcript block."""
-    reset_voice_cache()
-    segments: list[AudioSegment] = []
-
-    for turn in block["lines"]:
-        speaker = turn["speaker"]
-        if speaker == "_mono":
-            voice_key = "announcer"
-        else:
-            voice_key = voice_for_speaker(speaker)
-
-        audio_bytes = tts(client, turn["text"], voice_key)
-        seg = AudioSegment.from_file(
-            tempfile.NamedTemporaryFile(suffix=".mp3", delete=False,
-                                        dir=tempfile.gettempdir()).name.__class__(
-                _write_tmp(audio_bytes, ".mp3")),
-            format="mp3",
-        )
-        segments.append(seg)
-        segments.append(SILENCE_400)
-
-    if not segments:
-        return
-
-    combined = segments[0]
-    for s in segments[1:]:
-        combined = combined + s
-
-    # Export combined speech to a temp file
-    with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as tmp_speech:
-        tmp_speech_path = tmp_speech.name
-    combined.export(tmp_speech_path, format="mp3")
-
-    # Apply post-effects + background mixing via ffmpeg
-    _apply_effects(tmp_speech_path, block["context"], str(out_path))
-    Path(tmp_speech_path).unlink(missing_ok=True)
-
-    print(f"  ✓  {out_path.name}  ({block['context']})")
-
-
 def _write_tmp(data: bytes, suffix: str) -> str:
     with tempfile.NamedTemporaryFile(suffix=suffix, delete=False) as f:
         f.write(data)
         return f.name
 
 
-def generate_clip_v2(client: ElevenLabs, block: dict, out_path: Path):
+def _pause_for_mode(mode: str) -> int:
+    """Return the inter-turn pause (ms) for a given block mode."""
+    p = CFG["pause_ms"]
+    return p.get(mode, p["between_turns"])
+
+
+def generate_clip(client: ElevenLabs, block: dict, out_path: Path):
     """Generate one MP3 — cleaner version avoiding pydub temp-file issues."""
     reset_voice_cache()
     tmp_parts: list[str] = []
@@ -295,29 +304,13 @@ def generate_clip_v2(client: ElevenLabs, block: dict, out_path: Path):
     if not tmp_parts:
         return
 
-    # Concatenate with ffmpeg (with 400ms silence between turns)
-    # Build concat filter
-    inputs = []
-    filter_parts = []
-    label_idx = 0
-    for i, part in enumerate(tmp_parts):
-        inputs += ["-i", part]
-        filter_parts.append(f"[{i}]")
-        label_idx = i + 1
-        if i < len(tmp_parts) - 1:
-            # add a silence segment
-            filter_parts.append(f"[silence{i}]")
-
-    # Build a simpler approach: concatenate with anull padding
-    # Use ffmpeg concat demuxer via a list file
+    # Concatenate parts with ffmpeg concat demuxer, inserting silence between turns.
     with tempfile.NamedTemporaryFile(mode="w", suffix=".txt", delete=False) as lst:
         lst_path = lst.name
-        # Write each part, adding silence between
-        silence_ms = CFG["pause_ms"]["between_turns"]
+        silence_ms = _pause_for_mode(block.get("mode", "dialog"))
         for i, part in enumerate(tmp_parts):
             lst.write(f"file '{part}'\n")
             if i < len(tmp_parts) - 1:
-                # Generate a silence file
                 sil_path = _generate_silence(silence_ms)
                 lst.write(f"file '{sil_path}'\n")
 
@@ -428,6 +421,164 @@ def patch_exercises(exercises_path: Path, blocks: list[dict]):
 
 
 # ---------------------------------------------------------------------------
+# lesson.md parsing — dialogs and Hör-zu pronunciation blocks
+# ---------------------------------------------------------------------------
+
+DIALOG_SECTION = re.compile(r"^##\s+(\d+)\.\s+Dialoge?\b", re.IGNORECASE)
+DIALOG_SUB = re.compile(r"^###\s+Dialog\s+([A-Za-z]):\s*(.+?)\s*$", re.IGNORECASE)
+HOERZU_LINE = re.compile(r"^>\s+\*\*Hör zu (\d+)\s*[—–-]\s*(.+?):\*\*\s*(.+)$")
+HOERTEXT_SECTION = re.compile(r"^##\s+(\d+)\.\s+Hörtext\b", re.IGNORECASE)
+
+
+def parse_lesson_dialogs(text: str) -> list[dict]:
+    """Extract numbered Dialog sections from lesson.md.
+
+    Supports two layouts:
+      - Flat:  `## N. Dialog` (or `Dialoge`) followed by speaker blockquotes.
+      - Nested: `## N. Dialoge` containing `### Dialog A:`, `### Dialog B:`, …
+        sub-headers; each sub-dialog is recorded as `dialog{n}_{letter}`.
+    """
+    results = []
+    lines = text.splitlines()
+    i = 0
+    while i < len(lines):
+        m = DIALOG_SECTION.match(lines[i])
+        if not m:
+            i += 1
+            continue
+        n = m.group(1)
+        # Look ahead within this H2 section for any `### Dialog X:` sub-headers.
+        sub_starts: list[tuple[int, str, str]] = []
+        j = i + 1
+        while j < len(lines):
+            line = lines[j]
+            if line.startswith("## "):  # next H2 — stop scanning
+                break
+            sm = DIALOG_SUB.match(line)
+            if sm:
+                sub_starts.append((j, sm.group(1), sm.group(2).strip()))
+            j += 1
+
+        if sub_starts:
+            for k, (h_line, letter, label) in enumerate(sub_starts):
+                next_h = sub_starts[k + 1][0] if k + 1 < len(sub_starts) else j
+                turns, mode = _collect_turns(lines, h_line + 1, end=next_h)
+                # A real spoken dialog needs at least 2 turns; skip written
+                # artefacts (emails, notices) that only have one speaker label.
+                if turns and mode == "dialog" and len(turns) >= 2:
+                    context = _detect_context_from_turns(turns)
+                    results.append({
+                        "header_line": h_line,
+                        "slug": f"dialog{n}_{letter.lower()}",
+                        "context": context,
+                        "mode": mode,
+                        "lines": turns,
+                        "label": label,
+                    })
+            i = j
+        else:
+            # Flat layout: collect turns until the next H2.
+            turns, mode = _collect_turns(lines, i + 1)
+            if turns and mode == "dialog" and len(turns) >= 2:
+                context = _detect_context_from_turns(turns)
+                results.append({
+                    "header_line": i,
+                    "slug": f"dialog{n}",
+                    "context": context,
+                    "mode": mode,
+                    "lines": turns,
+                })
+            i += 1
+    return results
+
+
+def parse_lesson_hoerzu(text: str) -> list[dict]:
+    """Extract Hör-zu pronunciation word-list lines from lesson.md."""
+    results = []
+    lines = text.splitlines()
+    for i, line in enumerate(lines):
+        m = HOERZU_LINE.match(line)
+        if m:
+            n, label, words_str = m.group(1), m.group(2).strip(), m.group(3)
+            words = [w.strip() for w in words_str.split("·") if w.strip()]
+            # Each word becomes a turn spoken by the announcer
+            turns = [{"speaker": "_mono", "text": w} for w in words]
+            results.append({
+                "header_line": i,
+                "slug": f"hoerzu{n}",
+                "context": "pronunciation",
+                "mode": "wordlist",
+                "lines": turns,
+                "label": label,
+            })
+    return results
+
+
+def parse_lesson_hoertext(text: str) -> list[dict]:
+    """Extract `## N. Hörtext` sections from lesson.md.
+
+    The Hörtext is rendered as a SINGLE TTS turn — the whole paragraph is
+    sent to ElevenLabs in one call and the model inserts its own natural
+    pauses at `.`, `,`, and paragraph breaks. Per-sentence splitting was
+    abandoned because it caused stitching artifacts (each call re-establishes
+    prosody) and the explicit 1.2 s inter-sentence pause broke the flow of
+    the narration. For Lückentext exercises the student reads the text
+    below the player while listening; model-natural pauses are sufficient.
+    """
+    results = []
+    lines = text.splitlines()
+    for i, line in enumerate(lines):
+        m = HOERTEXT_SECTION.match(line)
+        if not m:
+            continue
+        # Collect contiguous blockquote lines after the Hörtext header.
+        body: list[str] = []
+        j = i + 1
+        while j < len(lines):
+            row = lines[j]
+            if row.startswith(">"):
+                cleaned = row.lstrip(">").strip()
+                if cleaned:
+                    body.append(cleaned)
+                j += 1
+                continue
+            if row.strip() == "":
+                # Allow blank lines (before, between, after blockquotes).
+                j += 1
+                continue
+            break
+        if not body:
+            continue
+        # Join all body lines with a single space so wrapped-line text
+        # flows together as one utterance. The model handles pauses.
+        full_text = " ".join(body)
+        turns = [{"speaker": "_mono", "text": full_text}]
+        results.append({
+            "header_line": i,
+            "slug": "hoertext",
+            "context": "hoertext",
+            "mode": "hoertext",
+            "lines": turns,
+        })
+    return results
+
+
+def patch_lesson(lesson_path: Path, blocks: list[dict]):
+    """Insert 🎧 audio links into lesson.md above each dialog/hoerzu block."""
+    text = lesson_path.read_text(encoding="utf-8")
+    lines = text.splitlines(keepends=True)
+    for block in reversed(blocks):
+        hi = block["header_line"]
+        preceding = "".join(lines[max(0, hi - 3): hi])
+        if "🎧" in preceding:
+            continue
+        filename = f"{block['slug']}.mp3"
+        tag_line = AUDIO_TAG.format(filename=filename) + "\n\n"
+        lines.insert(hi, tag_line)
+    lesson_path.write_text("".join(lines), encoding="utf-8")
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -439,44 +590,90 @@ def find_exercises_files() -> list[Path]:
     ]
 
 
-def process_file(exercises_path: Path, client: ElevenLabs, dry_run: bool = False):
+def find_lesson_files() -> list[Path]:
+    """Find all lesson.md files that have Dialog sections, Hör-zu blocks, or Hörtext."""
+    results = []
+    for p in sorted(REPO_ROOT.rglob("lesson.md")):
+        t = p.read_text(encoding="utf-8")
+        if (DIALOG_SECTION.search(t) or HOERZU_LINE.search(t)
+                or HOERTEXT_SECTION.search(t)):
+            results.append(p)
+    return results
+
+
+def _process_blocks(source_path: Path, blocks: list[dict],
+                    client, dry_run: bool, patch_fn, verbose: bool = False):
+    if not blocks:
+        print("  (no audio blocks found)")
+        return
+    audio_dir = source_path.parent / "audio"
+    audio_dir.mkdir(exist_ok=True)
+    for block in blocks:
+        out_path = audio_dir / f"{block['slug']}.mp3"
+        label = block.get("label", "")
+        context = block["context"]
+        desc = f"  [{label}] " if label else "  "
+        if dry_run:
+            print(f"  [DRY] {block['slug']}.mp3  context={context}  turns={len(block['lines'])}")
+            for i, t in enumerate(block['lines'], 1):
+                txt = t['text']
+                ends_ok = txt.rstrip().endswith(('.', '!', '?'))
+                # Only flag fragments in hoertext mode — dialogs are speaker
+                # turns (always one sentence) and wordlist items are single
+                # words / digits (no punctuation by design).
+                is_frag = (block['mode'] == 'hoertext' and not ends_ok)
+                flag = '✗FRAG' if is_frag else '✓'
+                prefix = f"        {i:2d}. [{flag}] [{t['speaker']}] "
+                if verbose:
+                    print(f"{prefix}{txt}")
+                else:
+                    head = txt[:60] + ('…' if len(txt) > 60 else '')
+                    print(f"{prefix}{head}")
+            continue
+        if out_path.exists():
+            print(f"  skip {out_path.name} (exists)")
+            continue
+        generate_clip(client, block, out_path)
+    if not dry_run:
+        patch_fn(source_path, blocks)
+
+
+def process_lesson_file(lesson_path: Path, client, dry_run: bool = False, verbose: bool = False):
+    print(f"\n→ {lesson_path.relative_to(REPO_ROOT)}")
+    text = lesson_path.read_text(encoding="utf-8")
+    dialog_blocks = parse_lesson_dialogs(text)
+    hoerzu_blocks = parse_lesson_hoerzu(text)
+    hoertext_blocks = parse_lesson_hoertext(text)
+    all_blocks = dialog_blocks + hoerzu_blocks + hoertext_blocks
+    _process_blocks(lesson_path, all_blocks, client, dry_run, patch_lesson, verbose=verbose)
+    if not dry_run and all_blocks:
+        print(f"  ✓  lesson.md patched")
+
+
+def process_exercises_file(exercises_path: Path, client, dry_run: bool = False, verbose: bool = False):
     print(f"\n→ {exercises_path.relative_to(REPO_ROOT)}")
     text = exercises_path.read_text(encoding="utf-8")
     blocks = parse_transcripts(text)
-    if not blocks:
-        print("  (no transcripts found)")
-        return
-
-    audio_dir = exercises_path.parent / "audio"
-    audio_dir.mkdir(exist_ok=True)
-
-    for block in blocks:
-        out_path = audio_dir / f"{block['slug']}.mp3"
-        if dry_run:
-            turns_preview = " / ".join(
-                f"{t['speaker']}: {t['text'][:30]}…" for t in block["lines"][:2]
-            )
-            print(f"  [DRY] {block['slug']}.mp3  context={block['context']}  turns={len(block['lines'])}")
-            print(f"        {turns_preview}")
-            continue
-
-        if out_path.exists():
-            print(f"  skip {out_path.name} (already exists — delete to regenerate)")
-            continue
-
-        generate_clip_v2(client, block, out_path)
-
-    if not dry_run:
-        patch_exercises(exercises_path, blocks)
-        print(f"  ✓  exercises.md patched with audio references")
+    _process_blocks(exercises_path, blocks, client, dry_run, patch_exercises, verbose=verbose)
+    if not dry_run and blocks:
+        print(f"  ✓  exercises.md patched")
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate Hören audio for german-learning exercises.")
-    parser.add_argument("files", nargs="*", help="exercises.md file(s) to process")
-    parser.add_argument("--all", action="store_true", help="Process all exercises.md files that have transcripts")
-    parser.add_argument("--list-voices", action="store_true", help="List available ElevenLabs voices and exit")
-    parser.add_argument("--dry-run", action="store_true", help="Parse transcripts only, do not call API or write files")
+    parser = argparse.ArgumentParser(
+        description="Generate Hören/dialogue/pronunciation audio for german-learning.")
+    parser.add_argument("files", nargs="*",
+                        help="lesson.md or exercises.md file(s) to process")
+    parser.add_argument("--all", action="store_true",
+                        help="Process all exercises.md files that have Transcript blocks")
+    parser.add_argument("--all-lessons", action="store_true",
+                        help="Process all lesson.md files (dialogues + Hör-zu blocks)")
+    parser.add_argument("--list-voices", action="store_true",
+                        help="List available ElevenLabs voices and exit")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="Parse only — no API calls, no file writes")
+    parser.add_argument("--verbose", "-v", action="store_true",
+                        help="With --dry-run: print FULL text of every turn, not just the first 60 chars")
     args = parser.parse_args()
 
     if args.list_voices:
@@ -485,16 +682,29 @@ def main():
 
     client = None if args.dry_run else get_client()
 
+    targets_lessons: list[Path] = []
+    targets_exercises: list[Path] = []
+
+    if args.all_lessons:
+        targets_lessons = find_lesson_files()
     if args.all:
-        targets = find_exercises_files()
-    elif args.files:
-        targets = [Path(f).resolve() for f in args.files]
-    else:
+        targets_exercises = find_exercises_files()
+
+    for f in args.files:
+        p = Path(f).resolve()
+        if p.name == "lesson.md":
+            targets_lessons.append(p)
+        else:
+            targets_exercises.append(p)
+
+    if not targets_lessons and not targets_exercises:
         parser.print_help()
         return
 
-    for target in targets:
-        process_file(target, client, dry_run=args.dry_run)
+    for p in targets_lessons:
+        process_lesson_file(p, client, dry_run=args.dry_run, verbose=args.verbose)
+    for p in targets_exercises:
+        process_exercises_file(p, client, dry_run=args.dry_run, verbose=args.verbose)
 
     print("\nDone.")
 

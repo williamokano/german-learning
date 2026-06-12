@@ -1,7 +1,47 @@
 # A1 · Lektion 3 — Übungen
 
-Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
 **D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+
+---
+
+# Block H — Hören
+
+## Übung H1 — Aussprache-Check
+
+Listen and pick the word that matches each Hör zu group.
+
+1. **Hör zu 1 (Lebensmittel)** — which one is a fruit?
+   a) Brot  b) Banane  c) Käse
+2. **Hör zu 1 (Lebensmittel)** — which one is bread for breakfast?
+   a) Brötchen  b) Wurst  c) Tomate
+3. **Hör zu 2 (Getränke)** — which one is alcoholic?
+   a) Kaffee  b) Tee  c) Bier
+4. **Hör zu 3 (Verben)** — "kosten" means …
+   a) to buy  b) to cost  c) to pay
+5. **Hör zu 4 (Mengen)** — which one is for a drink?
+   a) Stück  b) Tasse  c) Kilo
+
+## Übung H2 — Dialog Hör-Check (Im Café + Im Supermarkt)
+
+Listen to both dialogs and decide: richtig (R) oder falsch (F)?
+
+1. Anna bestellt einen Kaffee und ein Stück Apfelkuchen. ( )
+2. Bruno möchte Orangensaft. ( )
+3. Im Supermarkt kauft Bruno Käse, Brot und Wasser. ( )
+4. Bruno bezahlt zusammen mit Anna. ( )
+
+## Übung H3 — Hörtext-Lückentext
+
+Listen to the Hörtext and fill in the 6 missing words from the box.
+
+> Anna ist im Café Central. Sie hat (1) ______ und Durst. Sie möchte einen
+> (2) ______ und ein Stück (3) ______. Der Kaffee kostet zwei Euro fünfzig,
+> der Kuchen kostet drei Euro neunzig. Das macht (4) ______ Euro (5) ______.
+> Anna isst und trinkt gern im Café — der Kuchen (6) ______ super!
+>
+> > (Hunger · Kaffee · Apfelkuchen · sechs · vierzig · schmeckt)
 
 ---
 

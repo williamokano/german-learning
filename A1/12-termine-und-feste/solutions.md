@@ -2,6 +2,36 @@
 
 ---
 
+# Block H — Hören
+
+## Übung H1 — Dialog Hör-Check: Haben wir heute einen Termin?
+
+1. **R** — Anna sagt: „Mein Geburtstag ist am dreizehnten Mai." *(informeller Dialog, erster Satz)*
+2. **F** — Die Party ist um **sieben** Uhr abends, nicht um neunzehn Uhr. *(Anna: „Am Samstag, dem vierzehnten Mai, um sieben Uhr abends.")*
+3. **R** — Bruno sagt: „Den vierzehnten — das geht leider nicht. Ich habe einen Termin." *(informeller Dialog)*
+4. **F** — Die Praxis ist „Praxis Dr. **Hoffmann**", nicht Dr. Bauer. *(formeller Dialog, erste Zeile)*
+
+## Übung H2 — Hörtext-Lückentext
+
+Complete Hörtext:
+
+> Anna plant eine **Geburtstagsparty**. Ihr Geburtstag ist am **fünfzehnten**
+> Mai. Sie lädt ihre Freunde ein. Am Sonntag, dem **sechzehnten** Mai, um
+> **achtzehn** Uhr ist die Party. Bruno kommt gern und bringt **Wein** mit.
+> Anna **freut** sich auf die Party.
+
+Word bank in gap order: Geburtstagsparty · fünfzehnten · sechzehnten · achtzehn · Wein · freut.
+
+Trap notes:
+1. **Geburtstagsparty** — compound noun, feminine (die Party), singular: „eine Geburtstagsparty".
+2. **fünfzehnten** — ordinal dative after `am`; written form ends in `-ten`, not `-zehn` (cf. cardinal fünfzehn).
+3. **sechzehnten** — second ordinal in the text; same `-ten` ending as fünfzehnten, **not** cardinal „sechzehn".
+4. **achtzehn** — cardinal for clock time, not the ordinal „achtzehnte". Time-of-day uses cardinals, not ordinals.
+5. **Wein** — masculine noun (der Wein); direct object of `bringen … mit`.
+6. **freut** — `sich freuen auf` + accusative; er/sie-form: er **freut** sich.
+
+---
+
 # Block A — Basistraining
 
 ## Übung A1 — Monate

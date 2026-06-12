@@ -12,24 +12,26 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Das Wochenende
 
-**Anna:** Hallo Bruno! Wie war dein Wochenende?
-**Bruno:** Super! Ich bin am Samstag ins Kino gegangen. Der Film war sehr gut.
-**Anna:** Oh, interessant! Was hast du am Sonntag gemacht?
-**Bruno:** Ich habe lange geschlafen, und dann habe ich Fußball gespielt.
-**Anna:** Mit wem?
-**Bruno:** Mit meinem Freund Carlos. Und du? Was hast du gemacht?
-**Anna:** Ich habe eine Freundin besucht. Wir haben in einem Restaurant gegessen und Wein getrunken.
-**Bruno:** Schön! Und wann bist du nach Hause gegangen?
-**Anna:** Erst um Mitternacht! Ich war sehr müde.
+> **Anna:** Hallo Bruno! Wie war dein Wochenende?
+> **Bruno:** Super! Ich bin am Samstag ins Kino gegangen. Der Film war sehr gut.
+> **Anna:** Oh, interessant! Was hast du am Sonntag gemacht?
+> **Bruno:** Ich habe lange geschlafen, und dann habe ich Fußball gespielt.
+> **Anna:** Mit wem?
+> **Bruno:** Mit meinem Freund Carlos. Und du? Was hast du gemacht?
+> **Anna:** Ich habe eine Freundin besucht. Wir haben in einem Restaurant gegessen und Wein getrunken.
+> **Bruno:** Schön! Und wann bist du nach Hause gegangen?
+> **Anna:** Erst um Mitternacht! Ich war sehr müde.
 
-And the formal/office version:
+> And the formal/office version:
 
-**Herr Yilmaz:** Guten Morgen, Frau Weber. Wie war Ihr Wochenende?
-**Frau Weber:** Danke, sehr schön. Ich habe viel gelesen und bin spazieren gegangen.
-**Herr Yilmaz:** Wo sind Sie spazieren gegangen?
-**Frau Weber:** Im Englischen Garten. Das Wetter war herrlich.
+> **Herr Yilmaz:** Guten Morgen, Frau Weber. Wie war Ihr Wochenende?
+> **Frau Weber:** Danke, sehr schön. Ich habe viel gelesen und bin spazieren gegangen.
+> **Herr Yilmaz:** Wo sind Sie spazieren gegangen?
+> **Frau Weber:** Im Englischen Garten. Das Wetter war herrlich.
 
 ---
 
@@ -312,7 +314,20 @@ You don't say *Ich bin müde gewesen* — you say **Ich war müde**.
 
 ---
 
-## 6. Lernstrategie
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 6. Hörtext
+
+> Am Samstag ist Anna mit ihrer Freundin Maria in die Stadt gefahren.
+> Sie haben ein neues Café gefunden und Kaffee getrunken. Am Nachmittag
+> ist Anna ins Kino gegangen. Der Film war gut. Am Sonntag hat sie
+> lange geschlafen und ein Buch gelesen.
+
+*(You'll listen to this text in Block H, Übung H2.)*
+
+---
+
+## 7. Lernstrategie
 
 Build a **Partizip-II card** for every new verb: write the infinitive on the front,
 and on the back write: `(hat/ist) + Partizip II` — for example: `(ist) gegangen`,

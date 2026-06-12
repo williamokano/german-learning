@@ -1,10 +1,36 @@
 # A1 · Lektion 12 — Übungen (Exercises)
 
-Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
 **D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
 
-Spread the blocks over several days — A on day 1–2, B on day 3–4,
-C on day 5, D on day 6 after a pause.
+---
+
+# Block H — Hören
+
+## Übung H1 — Dialog Hör-Check: Haben wir heute einen Termin?
+
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
+Listen to "Haben wir heute einen Termin?" (informal party planning + formal doctor's appointment). Decide: richtig (R) oder falsch (F)?
+
+1. Annas Geburtstag ist am dreizehnten Mai. ( )
+2. Die Party ist am Samstag, dem vierzehnten Mai, um neunzehn Uhr. ( )
+3. Bruno hat am Samstag schon einen Termin. ( )
+4. Im formalen Dialog ruft Frau Weber die Praxis Dr. Bauer an. ( )
+
+## Übung H2 — Hörtext-Lückentext
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+Höre den Text und fülle die Lücken.
+
+> Anna plant eine ______. Ihr Geburtstag ist am ______ Mai. Sie lädt
+> ihre Freunde ein. Am Sonntag, dem ______ Mai, um ______ Uhr ist die
+> Party. Bruno kommt gern und bringt ______ mit. Anna ______ sich auf die
+> Party.
+
+> (Geburtstagsparty · fünfzehnten · sechzehnten · achtzehn · Wein · freut)
 
 ---
 

@@ -2,6 +2,37 @@
 
 ---
 
+# Block H — Hören
+
+## Übung H1 — Dialog Hör-Check: Telefonat Bürgeramt + Verabredung ändern
+
+1. **R** — Anna says: „Ich möchte mich anmelden. Welche Dokumente brauche ich?"
+2. **F** — Anna braucht ihren Personalausweis **oder** Reisepass, nicht beides.
+3. **R** — Bruno ruft Anna an: „Hallo, Anna! Hier ist Bruno."
+4. **F** — Den Termin um drei Uhr **ändern** sie — Anna schlägt fünf Uhr vor, und Bruno sagt ja.
+
+## Übung H2 — Hörtext-Lückentext: Anmeldung in Berlin
+
+Complete Hörtext:
+
+> Anna ist nach **Berlin** gezogen. Sie muss sich beim **Bürgeramt**
+> **anmelden**. Zuerst ruft sie das Bürgeramt an und macht einen Termin.
+> Sie braucht ihren **Personalausweis** und einen **Wohnungsgebernachweis**.
+> Den Wohnungsgebernachweis bekommt sie von ihrem Vermieter, Herrn Keller.
+> Der Termin ist am **Montag** um zehn Uhr.
+
+Word bank in gap order: **Berlin** · **Bürgeramt** · **anmelden** · **Personalausweis** · **Wohnungsgebernachweis** · **Montag**.
+
+Trap notes:
+1. **Berlin** — proper noun; accusative direction with *nach* (no article change).
+2. **Bürgeramt** — *beim* = *bei dem* (contraction, dative).
+3. **anmelden** — chunk *sich anmelden beim*; **sich** stays near the verb, **an** flies to the end of the clause (separable).
+4. **Personalausweis** — masc. Akk. indef. → **ihren Personalausweis** (possessive *ihr* agrees with fem. *Ausweis*).
+5. **Wohnungsgebernachweis** — masc. Akk. indef. → **einen Wohnungsgebernachweis**.
+6. **Montag** — days of the week take **am** (am Montag).
+
+---
+
 # Block A
 
 ## Übung A1 — Nominativ or Akkusativ?

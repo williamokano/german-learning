@@ -14,6 +14,8 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Was machst du gern?
 
 > **Anna:** Bruno, was machst du gern in deiner Freizeit?
@@ -31,6 +33,8 @@
 
 \* `mit Freunden`, `im Park` — preposition chunks for now; the preposition
 system starts in Lektion 8.
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
 ## 2. Dialog: Das Wetter ist schlecht — was machen wir?
 
@@ -301,7 +305,21 @@ construction: "it **is** rain**ing**" is simply *es regnet*.
 
 ---
 
-## 7. Lernstrategie
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 7. Hörtext
+
+> Am Samstag spielt Bruno gern Fußball im Park. Manchmal spielt er
+> auch mit Anna Tennis. Am Sonntag geht er schwimmen — das Schwimmbad
+> ist im Park. Anna sieht lieber fern oder hört Musik. Am Abend
+> kochen sie zusammen und essen Pizza. Bruno kann gut kochen — Anna
+> nicht so gut.
+
+*(You'll listen to this text in Block H, Übung H2.)*
+
+---
+
+## 8. Lernstrategie
 
 Make the weather your free daily lesson: every morning, look out of the window
 and say **three sentences** — weather, consequence, preference: *„Es regnet.

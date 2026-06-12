@@ -1,11 +1,32 @@
 # A1 · Lektion 11 — Übungen
 
-Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
 **D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
 
-Spread the blocks over several days — A on day 1–2, B on day 3–4, C on day 5,
-D on day 6 after a short break. Don't look at the solutions until you're done
-with each block.
+---
+
+# Block H — Hören
+
+## Übung H1 — Dialog: Das Wochenende
+
+Listen and decide: richtig (R) oder falsch (F)?
+
+1. Bruno ist am Samstag ins Kino gegangen. ( )
+2. Am Sonntag hat Bruno Fußball gespielt. ( )
+3. Anna hat einen Freund besucht. ( )
+4. Frau Weber ist im Englischen Garten spazieren gegangen. ( )
+
+## Übung H2 — Hörtext-Lückentext
+
+Höre den Text und fülle die Lücken.
+
+> Am Samstag ist Anna mit ihrer Freundin Maria in die ______ gefahren.
+> Sie haben ein neues ______ gefunden und ______ getrunken. Am Nachmittag
+> ist Anna ins ______ gegangen. Der Film war gut. Am ______ hat sie
+> lange geschlafen und ein ______ gelesen.
+
+> (Stadt · Café · Kaffee · Kino · Sonntag · Buch)
 
 ---
 

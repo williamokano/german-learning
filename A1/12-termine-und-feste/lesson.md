@@ -14,6 +14,8 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Haben wir heute einen Termin?
 
 **Informal — Anna und Bruno planen eine Party**
@@ -260,7 +262,20 @@ declinations from sounding rude. Learn it as part of the phrase.
 
 ---
 
-## 6. Lernstrategie
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 6. Hörtext
+
+> Anna plant eine Geburtstagsparty. Ihr Geburtstag ist am fünfzehnten
+> Mai. Sie lädt ihre Freunde ein. Am Sonntag, dem sechzehnten Mai, um
+> achtzehn Uhr ist die Party. Bruno kommt gern und bringt Wein mit.
+> Anna freut sich auf die Party.
+
+*(You'll listen to this text in Block H, Übung H2.)*
+
+---
+
+## 7. Lernstrategie
 
 Dates and ordinals only become automatic through repetition in context. Every
 morning for the next two weeks, open your phone's calendar and say today's date

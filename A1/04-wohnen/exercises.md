@@ -1,7 +1,49 @@
 # A1 · Lektion 4 — Übungen
 
-Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
 **D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+
+---
+
+# Block H — Hören
+
+## Übung H1 — Pronunciation check (Hör zu 1–3)
+
+Listen to the three Aussprache clips and pick the matching word.
+
+1. Hör zu 1 (Räume) — wo kochst du?
+   a) das Bad  b) die Küche  c) der Flur
+2. Hör zu 1 (Räume) — wo schläfst du?
+   a) das Wohnzimmer  b) das Bad  c) das Schlafzimmer
+3. Hör zu 2 (Möbel) — worauf sitzt du am Tisch?
+   a) der Stuhl  b) das Sofa  c) der Schrank
+4. Hör zu 3 (Farben) — the sky is …
+   a) grün  b) blau  c) gelb
+5. Hör zu 3 (Farben) — opposite of *weiß* is …
+   a) grau  b) schwarz  c) braun
+
+## Übung H2 — Dialog Hör-Check
+
+Listen to both dialogs and decide: richtig (R) oder falsch (F)?
+
+1. Anna zeigt Bruno ihre neue Wohnung. ( )
+2. Die Wohnung hat vier Zimmer. ( )
+3. Im Telefondialog ruft jemand wegen einer Wohnungsanzeige an. ( )
+4. Die Wohnung im Telefondialog ist sehr teuer. ( )
+
+## Übung H3 — Hörtext-Lückentext
+
+Listen to the Hörtext (lesson.md, section 7) and fill the 6 gaps with the
+words from the bank.
+
+> Anna wohnt jetzt in einer neuen Wohnung in Berlin. Die Wohnung hat
+> drei Zimmer: ein (1) ______, ein Schlafzimmer und eine kleine (2) ______.
+> Es gibt auch ein Bad mit einem (3) ______. Im Wohnzimmer stehen ein
+> großes, braunes Sofa und ein (4) ______. Anna findet die Wohnung
+> (5) ______ — aber ein bisschen (6) ______!
+
+> (Wohnzimmer · Küche · Balkon · Schreibtisch · schön · teuer)
 
 ---
 

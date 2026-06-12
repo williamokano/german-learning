@@ -2,6 +2,37 @@
 
 ---
 
+# Block H — Hören
+
+## Übung H1 — Aussprache-Check
+
+1. **b) Guten Morgen** — until ~10–11.
+2. **b) Gute Nacht** — only before sleeping.
+3. **a) fünf** — vier → **fünf** → sechs.
+4. **b) 12** — zwölf = 12 (the irregular spelling, not *zwölfzehn*).
+5. **c) Woher** — `woher` (origin → `aus`), not `wo` (location → `in`).
+
+## Übung H2 — Dialog: Im Deutschkurs
+
+1. **F** — Anna kommt aus **Österreich**, nicht aus Deutschland.
+2. **R** — „Ich wohne auch in Berlin."
+3. **F** — Bruno spricht **Portugiesisch**, Englisch und ein bisschen Deutsch.
+4. **F** — Frau Weber fragt „Woher kommen Sie, Herr Steinmeyer?" — sie fragt nach
+   der **Herkunft**, nicht nach dem Beruf.
+
+## Übung H3 — Hörtext-Lückentext
+
+Complete Hörtext:
+
+> Hallo! Ich **heiße** Yuki Tanaka. Ich **komme** aus Japan, aus Osaka. Ich
+> wohne jetzt in Berlin und **lerne** Deutsch. Ich **spreche** Japanisch,
+> Englisch und ein bisschen Deutsch. Mein Deutschkurs ist **super** — wir
+> sind **zwanzig** Studenten im Kurs.
+
+Word bank in gap order: heiße · komme · lerne · spreche · super · zwanzig.
+
+---
+
 # Block A — Basistraining
 
 ## Übung A1 — `sein`
@@ -201,7 +232,7 @@ Not needed: BIS, BIST, IHR, NICHT, WER.
 
 ## Übung C5 — Schreiben (model answer)
 
-> Hallo! Ich heiße William und ich komme aus Brasilien, aus São Paulo. Jetzt wohne
+> Hallo! Ich heiße Friedrich und ich komme aus Deutschland, aus Berlin. Jetzt wohne
 > ich in Berlin. Ich spreche Portugiesisch, Englisch und ein bisschen Deutsch.
 > Mein Deutschkurs ist super. Mein Ziel: Deutsch auf C1!
 

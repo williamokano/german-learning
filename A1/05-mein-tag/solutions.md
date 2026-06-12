@@ -2,6 +2,44 @@
 
 ---
 
+# Block H — Hören
+
+## Übung H1 — Dialog: Annas Tag
+
+1. **R** — Anna steht um 6:30 Uhr auf. („Um halb sieben — also um 6:30 Uhr.")
+2. **F** — Annas Arbeit fängt um **acht** Uhr an, nicht um neun.
+3. **R** — Die Mittagspause ist von halb eins bis halb zwei.
+4. **F** — Am Abend **kocht** Anna oder **sieht** fern — „immer" ist zu stark.
+
+## Übung H2 — Dialog: Pläne am Telefon
+
+1. **R** — Anna fragt: „Hast du am Samstag Zeit?"
+2. **F** — Der Film fängt um **acht** Uhr an, nicht um halb acht.
+3. **R** — Anna sagt: „Ich rufe dich am Samstagmorgen noch einmal an."
+4. **F** — Sie gehen am **Samstag** ins Kino, nicht am Sonntag.
+
+## Übung H3 — Hörtext-Lückentext
+
+Complete Hörtext:
+
+> Tom **steht** um Viertel vor sieben auf. Er duscht und frühstückt —
+> **Brötchen** mit Käse und Kaffee. Um acht fängt seine Arbeit an. Er
+> **arbeitet** von acht bis halb fünf. Die Mittagspause ist von halb eins
+> bis eins. Am Nachmittag **kauft** er ein. Am Abend kocht er und **sieht**
+> manchmal fern — aber nicht immer. Um elf geht er **schlafen**.
+
+Word bank in gap order: steht · Brötchen · arbeitet · kauft · sieht · schlafen.
+
+Trap notes:
+1. **steht** — position 2 of the sentence; the prefix **auf** flies to the end (auf|stehen).
+2. **Brötchen** — neuter noun (das Brötchen). The phrase "Brötchen mit Käse" is a chunk from Dialog 1.
+3. **arbeitet** — -t-stem inserts -e- (arbeiten → er arbeit**et**). NOT "arbeit't".
+4. **kauft** — conjugated form of ein|kaufen in position 2; the prefix **ein** flies to the end ("Am Nachmittag kauft er **ein**").
+5. **sieht** — e → ie of fern|sehen (ich sehe · du siehst · er **sieht**); separable: the prefix **fern** flies to the end.
+6. **schlafen** — infinitive in the chunk "schlafen gehen". No umlaut here (umlaut is du/er only: schläfst / schläft).
+
+---
+
 # Block A
 
 ## Übung A1 — Trennbare Verben

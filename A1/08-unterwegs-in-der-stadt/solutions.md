@@ -2,6 +2,27 @@
 
 ---
 
+# Block H — Hören
+
+## Übung H1 — Dialog Hör-Check
+
+1. **R** — Bruno fragt: „Entschuldigung, wo ist der Bahnhof, bitte?"
+2. **F** — Die Frau sagt: „Fahren Sie mit **der U-Bahn**", nicht mit dem Bus.
+3. **R** — Anna fragt: „Jonas, ich möchte morgen zum Museum Ludwig. Wie komme ich zum Museum?"
+4. **F** — Jonas **muss zur Arbeit**; er kommt erst am Abend mit Anna zusammen (zum Essen), nicht ins Museum.
+
+## Übung H2 — Hörtext-Lückentext
+
+> Maria möchte am **Sonntag** zum Park gehen. Sie wohnt in der
+> **Stadtmitte**, und der Park ist weit. Sie fährt mit dem **Bus** — sie
+> nimmt die Linie 5 und steigt am **Bahnhof** um. Von dort geht sie zu Fuß
+> zum Park: **geradeaus** und dann die erste Straße links. Der Weg dauert
+> zwanzig **Minuten**.
+
+Word bank in gap order: **Sonntag** (1) · **Stadtmitte** (2) · **Bus** (3) · **Bahnhof** (4) · **geradeaus** (5) · **Minuten** (6).
+
+---
+
 # Block A
 
 ## Übung A1 — mit + Dativ

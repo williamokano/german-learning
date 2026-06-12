@@ -1,16 +1,53 @@
 # A1 · Lektion 1 — Übungen (Exercises)
 
-Four blocks, modeled on Schritte international neu / Menschen Arbeitsbuch density:
+Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+**D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+C on day 3, D on day 4 after a pause.
 
-| Block | Purpose | Rule |
-|---|---|---|
-| **A — Basistraining** | Drill single forms until automatic | Repetitive on purpose. Do all of it. |
-| **B — Vertiefung** | Mixed application | Without looking at the lesson |
-| **C — Prüfungstraining** | telc/Goethe exam formats | Simulate exam conditions |
-| **D — Wiederholung & Selbsttest** | Consolidate + scored self-test | ≥ 80% → Lektion 2 |
+---
 
-Answers in `solutions.md`. Spread the blocks over several days — A on day 1–2,
-B on day 3–4, C on day 5, D on day 6 after a pause.
+# Block H — Hören
+
+## Übung H1 — Aussprache-Check
+
+Listen to the **Hör zu** clips in `lesson.md` (Wortschatz → 🔊 Aussprache)
+and pick the matching answer.
+
+1. Hör zu 1 (Begrüßungen) — was sagst du am Morgen?
+   a) Guten Abend  b) Guten Morgen  c) Gute Nacht
+2. Hör zu 2 (Verabschiedungen) — was sagst du am Abend vor dem Schlafen?
+   a) Auf Wiedersehen  b) Gute Nacht  c) Bis morgen
+3. Hör zu 4 (Zahlen 0–10) — which number comes after vier?
+   a) fünf  b) sechs  c) sieben
+4. Hör zu 5 (Zahlen 11–20) — which number is **zwölf**?
+   a) 10  b) 12  c) 14
+5. Hör zu 3 (W-Fragewörter) — which question word asks for the origin?
+   a) Wo  b) Wer  c) Woher
+
+## Übung H2 — Dialog: Im Deutschkurs
+
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
+Listen and decide: richtig (R) oder falsch (F)?
+
+1. Anna kommt aus Deutschland. ( )
+2. Bruno wohnt in Berlin. ( )
+3. Bruno spricht nur Englisch. ( )
+4. Im formalen Dialog fragt Frau Weber nach Herrn Okonos Beruf. ( )
+
+## Übung H3 — Hörtext-Lückentext
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+Höre den Text und fülle die Lücken.
+
+> Hallo! Ich _______ Yuki Tanaka. Ich _______ aus Japan, aus Osaka. Ich
+> wohne jetzt in Berlin und _______ Deutsch. Ich _______ Japanisch,
+> Englisch und ein bisschen Deutsch. Mein Deutschkurs ist _______ — wir
+> sind _______ Studenten im Kurs.
+
+> (heiße · komme · lerne · spreche · super · zwanzig)
 
 ---
 
@@ -32,7 +69,7 @@ Fill the table from memory.
 4. Wir ______ im Deutschkurs.
 5. ______ ihr aus Spanien?
 6. Anna und Tom ______ aus der Schweiz.
-7. ______ Sie Herr Okano?
+7. ______ Sie Herr Steinmeyer?
 8. Anna und ich, wir ______ Freunde.
 9. Mein Name ______ Weber.
 10. ______ du aus Berlin?
@@ -216,7 +253,7 @@ Each sentence has exactly **one** mistake. Correct it.
 |---|---|---|
 | 1. Wie heißt du? | | a) In Hamburg. |
 | 2. Woher kommen Sie? | | b) Das ist mein Lehrer. |
-| 3. Wo wohnst du? | | c) O-K-A-N-O. |
+| 3. Wo wohnst du? | | c) S-T-E-I-N-M-E-Y-E-R. |
 | 4. Welche Sprachen sprichst du? | | d) Ich heiße Paula. |
 | 5. Wer ist das? | | e) Ja, das bin ich. |
 | 6. Bist du aus Österreich? | | f) Aus Brasilien. |

@@ -1,10 +1,32 @@
 # A1 · Lektion 10 — Übungen (Exercises)
 
-Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
 **D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
 
-Spread the blocks over several days — A on day 1–2, B on day 3–4, C on day 5,
-D on day 6 after a pause.
+---
+
+# Block H — Hören
+
+## Übung H1 — Dialog Hör-Check: Beim Arzt + In der Apotheke
+
+Listen and decide: richtig (R) oder falsch (F)?
+
+1. Der Patient hat Kopfschmerzen. ( )
+2. Der Arzt schreibt dem Patienten ein Rezept. ( )
+3. In der Apotheke kauft Anna Tabletten. ( )
+4. Die Tabletten kosten fünfzehn Euro. ( )
+
+## Übung H2 — Hörtext-Lückentext
+
+Höre den Text und fülle die Lücken.
+
+> Anna hat ______ und Fieber. Sie geht zum ______. Der Arzt
+> untersucht sie und gibt ihr ein ______. Sie geht dann in die
+> ______ und kauft ______. Die Apothekerin sagt: „Nehmen Sie
+> dreimal täglich eine Tablette." Anna geht nach Hause und ______.
+
+> (Kopfschmerzen · Arzt · Rezept · Apotheke · Tabletten · schläft)
 
 ---
 

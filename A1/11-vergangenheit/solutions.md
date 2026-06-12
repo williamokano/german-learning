@@ -2,6 +2,28 @@
 
 ---
 
+# Block H — Hören
+
+## Übung H1 — Dialog: Das Wochenende
+
+1. **R** — Bruno: „Ich bin am Samstag ins Kino gegangen."
+2. **R** — Bruno: „Ich habe lange geschlafen, und dann habe ich Fußball gespielt."
+3. **F** — Anna: „Ich habe eine **Freundin** besucht" (female friend — not „Freund").
+4. **R** — Frau Weber: „Im Englischen Garten" (and earlier: „bin spazieren gegangen").
+
+## Übung H2 — Hörtext-Lückentext
+
+Complete Hörtext:
+
+> Am Samstag ist Anna mit ihrer Freundin Maria in die **Stadt** gefahren.
+> Sie haben ein neues **Café** gefunden und **Kaffee** getrunken. Am Nachmittag
+> ist Anna ins **Kino** gegangen. Der Film war gut. Am **Sonntag** hat sie
+> lange geschlafen und ein **Buch** gelesen.
+
+Word bank in gap order: Stadt · Café · Kaffee · Kino · Sonntag · Buch.
+
+---
+
 # Block A
 
 ## Übung A1 — Partizip II: regular verbs

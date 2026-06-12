@@ -115,6 +115,15 @@ Reference lessons (gold standard): `A1/01-erste-kontakte/`, `A1/03-essen-und-tri
 
 - 2026-06-11 · Phase 0 done: curriculum, template validated by user, A1/01–03
   shipped. Volume rule tripled after user feedback (see `tasks/lessons.md`).
-- 2026-06-11 · Restructured for fan-out: `AUTHORING.md` created as the
-  self-contained per-lesson brief; this file became the dispatch board.
+- 2026-06-11 · Restructured for agent fan-out: `AUTHORING.md` spec + dispatch board in tasks/todo.md.
 - 2026-06-12 · A1/05 Mein Tag shipped (30 exercises, ~284 items).
+- 2026-06-12 · Audio pipeline shipped: `scripts/generate_audio.py` generates
+  ElevenLabs MP3s for `## 1./2. Dialog` blocks, `Hör zu` pronunciation clips,
+  and the mock-exam `Transcript:` blocks (already in A1/14). Patches lesson.md
+  / exercises.md with 🎧 links in-place. `A1/05` exercises gained Block H
+  (2 dialog Hör-Checks) and A1/01 / A1/03 lessons got Tier 1 pronunciation
+  clips. AUTHORING.md extended with Block H + Tier 1/2 audio spec.
+- 2026-06-12 · Audio pipeline v2: added Tier 3 Hörtext (`## 6. Hörtext` →
+  `hoertext.mp3` + Lückentext in Block H), widened dialog regex for A1/13
+  (`### Dialog A/B/C` sub-headers, `## N. Dialoge` plural, ≥2-turn guard
+  against emails), and added a longer 1.2 s pause for Hörtext.

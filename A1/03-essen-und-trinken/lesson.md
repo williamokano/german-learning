@@ -12,6 +12,8 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Im Café
 
 > **Kellner:** Guten Tag! Was möchten Sie, bitte?
@@ -28,6 +30,8 @@
 > **Kellner:** Der Kaffee und der Kuchen … das macht sechs Euro zwanzig.
 > **Anna:** Hier bitte. Stimmt so!
 > **Kellner:** Vielen Dank!
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
 ## 2. Dialog: Im Supermarkt
 
@@ -111,6 +115,21 @@ ein Becher Joghurt — *no "of" in German: ein Glas Saft = a glass __of__ juice.
 
 3,50 € = **drei Euro fünfzig** · 0,99 € = **neunundneunzig Cent** ·
 12,80 € = **zwölf Euro achtzig**. Comma, not point — and you say the comma as "Euro".
+
+### 🔊 Aussprache
+
+🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3)
+
+> **Hör zu 1 — Lebensmittel:** Apfel · Banane · Brot · Brötchen · Käse · Tomate · Wurst · Ei
+🎧 **Audio:** [hoerzu2.mp3](audio/hoerzu2.mp3)
+
+> **Hör zu 2 — Getränke:** Kaffee · Tee · Saft · Wasser · Bier · Milch
+🎧 **Audio:** [hoerzu3.mp3](audio/hoerzu3.mp3)
+
+> **Hör zu 3 — Verben:** essen · trinken · kaufen · brauchen · kosten · zahlen
+🎧 **Audio:** [hoerzu4.mp3](audio/hoerzu4.mp3)
+
+> **Hör zu 4 — Mengen und Verpackungen:** Flasche · Glas · Tasse · Stück · Kilo
 
 ---
 
@@ -214,7 +233,20 @@ Note: `du isst` and `er isst` sound exactly like `ist` — context disambiguates
 
 ---
 
-## 7. Lernstrategie
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+## 7. Hörtext
+
+> Anna ist im Café Central. Sie hat Hunger und Durst. Sie möchte einen
+> Kaffee und ein Stück Apfelkuchen. Der Kaffee kostet zwei Euro fünfzig,
+> der Kuchen kostet drei Euro neunzig. Das macht sechs Euro vierzig. Anna
+> isst und trinkt gern im Café — der Kuchen schmeckt super!
+
+*(You'll listen to this text in Block H, Übung H3.)*
+
+---
+
+## 8. Lernstrategie
 
 Gender is the boss fight of German — start strong: make three color-coded lists
 (or Anki decks) — **der = blue, die = red, das = green** — and add every noun

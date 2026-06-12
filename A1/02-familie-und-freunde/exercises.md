@@ -1,7 +1,54 @@
 # A1 · Lektion 2 — Übungen
 
-Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
-**D** Wiederholung & Selbsttest. Spread over several days. Answers in `solutions.md`.
+Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+**D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+
+---
+
+# Block H — Hören
+
+## Übung H1 — Aussprache-Check
+
+Listen to the **Hör zu** clips in `lesson.md` (Wortschatz → 🔊 Aussprache)
+and pick the matching answer.
+
+1. Hör zu 1 (Familie) — who is the father of your mother?
+   a) der Bruder  b) der Großvater  c) der Onkel
+2. Hör zu 1 (Familie) — your mother's sister is …
+   a) die Tante  b) die Schwester  c) die Großmutter
+3. Hör zu 2 (Zahlen 20–100) — what comes after **fünfzig**?
+   a) vierzig  b) sechzig  c) achtzig
+4. Hör zu 2 (Zahlen 20–100) — what's the number **siebzig**?
+   a) 60  b) 70  c) 80
+5. Hör zu 3 (Possessivpronomen) — which word means "my"?
+   a) mein  b) dein  c) sein
+
+## Übung H2 — Dialog: Das Familienfoto
+
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
+Listen and decide: richtig (R) oder falsch (F)?
+
+1. Anna zeigt Bruno ein Foto. ( )
+2. Auf dem Foto ist Annas Bruder. ( )
+3. Annas Schwester heißt Claudia. ( )
+4. Annas Eltern wohnen in Berlin. ( )
+
+## Übung H3 — Hörtext-Lückentext
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+Höre den Text und fülle die Lücken.
+
+> Das ist Familie _______. Der Vater heißt _______. Er kommt aus
+> Deutschland, aus _______. Die Mutter heißt Anna. Sie kommt aus
+> Österreich, aus Wien. Sie haben zwei Kinder: einen Sohn und eine
+> Tochter. Der Sohn heißt Max — er ist _______ Jahre alt und ledig. Die
+> Tochter heißt Lisa — sie ist _______ und hat ein Kind. Die
+> Großmutter heißt _______ und wohnt auch in München.
+
+> (Thomas · München · zwanzig · verheiratet · Eva · Bergmann)
 
 ---
 
@@ -38,7 +85,7 @@ Blocks: **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
 2. Das ist Anna. ______ Bruder heißt Felix.
 3. Das ist Felix. ______ Schwester ist siebzehn.
 4. Das ist Lena. ______ Eltern heißen Georg und Claudia.
-5. Das ist Herr Okano. ______ Tochter heißt Sofia.
+5. Das ist Herr Steinmeyer. ______ Tochter heißt Sofia.
 6. Das ist Frau Lang. ______ Mann kommt aus den USA.
 7. Das sind Georg und Claudia. ______ Kinder sind super. (their!)
 8. Das ist mein Bruder. ______ Baby ist süß.

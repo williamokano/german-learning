@@ -2,6 +2,28 @@
 
 ---
 
+# Block H — Hören
+
+## Übung H1 — Dialog Hör-Check
+
+1. **R** — Der Patient sagt: „Ich habe Halsschmerzen und Kopfschmerzen."
+2. **R** — Der Arzt sagt: „Ich schreibe Ihnen ein Rezept."
+3. **R** — Anna geht in die Apotheke und kauft Tabletten.
+4. **F** — Die Tabletten kosten sieben Euro neunzig, nicht fünfzehn Euro.
+
+## Übung H2 — Hörtext-Lückentext
+
+Complete Hörtext:
+
+> Anna hat **Kopfschmerzen** und Fieber. Sie geht zum **Arzt**. Der Arzt
+> untersucht sie und gibt ihr ein **Rezept**. Sie geht dann in die
+> **Apotheke** und kauft **Tabletten**. Die Apothekerin sagt: „Nehmen
+> Sie dreimal täglich eine Tablette." Anna geht nach Hause und **schläft**.
+
+Word bank in gap order: Kopfschmerzen · Arzt · Rezept · Apotheke · Tabletten · schläft.
+
+---
+
 # Block A
 
 ## Übung A1 — der/die/das: Körperteile
