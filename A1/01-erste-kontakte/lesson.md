@@ -9,9 +9,11 @@
 
 ---
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
-
 ## 1. Dialog: Im Deutschkurs (In the German course)
+
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+### Dialog A: Informell — du
 
 > **Anna:** Hallo! Ich heiße Anna. Und wie heißt du?
 > **Bruno:** Hallo, Anna. Ich bin Bruno.
@@ -22,7 +24,9 @@
 > **Anna:** Welche Sprachen sprichst du?
 > **Bruno:** Ich spreche Portugiesisch, Englisch und ein bisschen Deutsch.
 
-And the formal version — note **Sie** instead of **du**:
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+### Dialog B: Formell — Sie
 
 > **Frau Weber:** Guten Tag! Mein Name ist Weber. Wie heißen **Sie**?
 > **Herr Steinmeyer:** Guten Tag, Frau Weber. Ich heiße Friedrich Steinmeyer.
