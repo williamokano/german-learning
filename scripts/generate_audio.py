@@ -38,6 +38,9 @@ with open(CONFIG_PATH) as f:
 
 ELEVEN_API_KEY = os.environ.get("ELEVEN_API_KEY", "")
 
+# Matches spelling dictation turns like "S-T-E-I-N-M-E-Y-E-R." or "B-E-R-L-I-N"
+SPELL_RE = re.compile(r'^[A-Z](-[A-Z])+\.?$')
+
 
 # ---------------------------------------------------------------------------
 # ElevenLabs helpers
@@ -320,6 +323,39 @@ def _pause_for_mode(mode: str) -> int:
     return p.get(mode, p["between_turns"])
 
 
+def _generate_spelling_clip(client: ElevenLabs, text: str, voice_key: str, speed: float) -> str:
+    """Generate a letter-by-letter spelling clip with deliberate inter-letter pauses.
+
+    Each letter is synthesised individually at a reduced speed so ElevenLabs
+    can't rush through the sequence, then the letters are stitched together with
+    500 ms silences using ffmpeg.
+    """
+    letters = re.findall(r'[A-Z]', text)
+    letter_speed = max(speed * 0.65, 0.7)  # ElevenLabs minimum speed is 0.7
+    letter_parts: list[str] = []
+    for letter in letters:
+        audio_bytes = tts(client, letter, voice_key, speed=letter_speed)
+        letter_parts.append(_write_tmp(audio_bytes, ".mp3"))
+
+    # Stitch letters with 500 ms silence between each
+    with tempfile.NamedTemporaryFile(mode="w", suffix=".txt", delete=False) as lst:
+        lst_path = lst.name
+        for i, part in enumerate(letter_parts):
+            lst.write(f"file '{part}'\n")
+            if i < len(letter_parts) - 1:
+                lst.write(f"file '{_generate_silence(500)}'\n")
+
+    out = tempfile.mktemp(suffix=".mp3")
+    subprocess.run(
+        ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", lst_path, "-c", "copy", out],
+        check=True, capture_output=True,
+    )
+    for p in letter_parts:
+        Path(p).unlink(missing_ok=True)
+    Path(lst_path).unlink(missing_ok=True)
+    return out
+
+
 def generate_clip(client: ElevenLabs, block: dict, out_path: Path, speed: float = 1.0):
     """Generate one MP3 — cleaner version avoiding pydub temp-file issues."""
     reset_voice_cache()
@@ -328,8 +364,12 @@ def generate_clip(client: ElevenLabs, block: dict, out_path: Path, speed: float 
     for turn in block["lines"]:
         speaker = turn["speaker"]
         voice_key = "announcer" if speaker == "_mono" else voice_for_speaker(speaker)
-        audio_bytes = tts(client, turn["text"], voice_key, speed=speed)
-        tmp = _write_tmp(audio_bytes, ".mp3")
+        text = turn["text"]
+        if SPELL_RE.match(text.strip()):
+            tmp = _generate_spelling_clip(client, text, voice_key, speed)
+        else:
+            audio_bytes = tts(client, text, voice_key, speed=speed)
+            tmp = _write_tmp(audio_bytes, ".mp3")
         tmp_parts.append(tmp)
 
     if not tmp_parts:
