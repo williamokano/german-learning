@@ -27,6 +27,13 @@
 
 Not needed: Tennis, Freitag, Kino.
 
+## H4 — Kurze Ansage: Einladung zum Yoga-Kurs
+
+1. **b) Von Tom** — „Hallo Anna, hier ist Tom."
+2. **a) Um einen Yoga-Kurs** — „Ich rufe an wegen dem Yoga-Kurs am Samstag."
+3. **a) Eine Matte und bequeme Kleidung** — „Du brauchst nur bequeme Kleidung und eine Matte."
+4. **b) Fünfzehn Euro** — „Der Kurs kostet fünfzehn Euro pro Stunde."
+
 ---
 
 # Block A

@@ -37,6 +37,44 @@ Listen and fill each gap with **one** word from the bank. **Three words are not 
 >
 > *(Bank: Samstag · Fußball · Sonntag · Schwimmbad · Musik · Abend · Tennis · Freitag · Kino)*
 
+## Übung H4 — Kurze Ansage: Einladung zum Yoga-Kurs
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Wessen Nachricht ist das?  
+   a) Von Anna.  
+   b) Von Tom.  
+   c) Von Maria.
+
+2. Worum geht es?  
+   a) Um einen Yoga-Kurs.  
+   b) Um einen Computerkurs.  
+   c) Um einen Sprachkurs.
+
+3. Was soll Anna mitbringen?  
+   a) Eine Matte und bequeme Kleidung.  
+   b) Einen Laptop.  
+   c) Ein Buch.
+
+4. Was kostet der Kurs pro Stunde?  
+   a) Zehn Euro.  
+   b) Fünfzehn Euro.  
+   c) Zwanzig Euro.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Hallo Anna, hier ist Tom. Ich rufe an wegen dem Yoga-Kurs am Samstag. Der Kurs fängt um zehn Uhr morgens im Sportstudio „aktiv" an. Du brauchst nur bequeme Kleidung und eine Matte. Der Kurs kostet fünfzehn Euro pro Stunde. Du kannst auch ohne Anmeldung kommen. Bitte ruf mich zurück, wenn du mitmachen willst! Vielen Dank!
+
+</details>
+
 ---
 
 # Block A — Basistraining
