@@ -61,9 +61,45 @@ Listen and fill in the 7 missing words. **Three words in the box are not needed.
 > anzuziehen. Yuki (5) ______ sich, dass sie sich bald wieder besser fühlt —
 > sie (6) ______ sich schon auf ihren nächsten (7) ______.
 
----
+## Übung H4 — Kurze Ansage: Anrufbeantworter Arztpraxis
 
-# Block A — Basistraining
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the answerphone message. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Wo arbeitet Dr. Berger?  
+   a) In einer Apotheke.  
+   b) In einer Arztpraxis.  
+   c) In einem Krankenhaus.
+
+2. Wann ist der Termin?  
+   a) Am Donnerstag, dem zwölften Juni.  
+   b) Am Dienstag, dem zehnten Juni.  
+   c) Am Freitag, dem dreizehnten Juni.
+
+3. Was soll man mitbringen?  
+   a) Einen Ausweis und Bargeld.  
+   b) Die Versichertenkarte und den Impfpass.  
+   c) Nur den Personalausweis.
+
+4. Wie viele Stunden vorher muss man absagen?  
+   a) Zwölf Stunden.  
+   b) Vierundzwanzig Stunden.  
+   c) Achtundvierzig Stunden.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Guten Tag, Sie haben den Anrufbeantworter der Praxis Dr. Berger erreicht. Sie haben einen Termin für eine Vorsorgeuntersuchung am Donnerstag, dem zwölften Juni, um neun Uhr dreißig. Bitte bringen Sie Ihre Versichertenkarte und den Impfpass mit. Falls Sie den Termin nicht wahrnehmen können, sagen Sie bitte mindestens vierundzwanzig Stunden vorher ab. Bitte ruf mich zurück, wenn Sie den Termin verschieben möchten. Vielen Dank und bis Donnerstag!
+
+</details>
+
+---# Block A — Basistraining
 
 ## Übung A1 — Reflexivpronomen (Akkusativ): Tabelle
 

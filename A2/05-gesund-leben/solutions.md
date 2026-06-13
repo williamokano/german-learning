@@ -30,6 +30,13 @@
 
 Not needed: *kalt*, *anziehen*, *erholt*
 
+## H4 — Kurze Ansage: Anrufbeantworter Arztpraxis
+
+1. **b) In einer Arztpraxis** — „Sie haben den Anrufbeantworter der Praxis Dr. Berger erreicht."
+2. **a) Am Donnerstag, dem zwölften Juni** — „einen Termin für eine Vorsorgeuntersuchung am Donnerstag, dem zwölften Juni."
+3. **b) Die Versichertenkarte und den Impfpass** — „Bitte bringen Sie Ihre Versichertenkarte und den Impfpass mit."
+4. **b) Vierundzwanzig Stunden** — „sagen Sie bitte mindestens vierundzwanzig Stunden vorher ab."
+
 ---
 
 # Block A — Basistraining
