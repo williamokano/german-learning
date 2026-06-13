@@ -173,6 +173,8 @@ The Konjunktiv II forms `wäre`, `hätte`, `käme` have an Umlaut (ä). In spoke
 
 This Umlaut is what signals you are speaking hypothetically / politely — don't drop it!
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -220,6 +222,17 @@ and works like English "would". Combine it with any infinitive:
 > **Würdest** du bitte die Rechnung **bringen**?  
 > Was **würden** Sie empfehlen?
 
+> 📌 **Merkasten — `würde + Infinitiv`**
+> | Person | Form |
+> |---|---|
+> | ich / er / sie / es | **würde** |
+> | du | **würdest** |
+> | wir / sie / Sie | **würden** |
+> | ihr | **würdet** |
+> 
+> `Ich **würde** gern kommen.` · `Was **würdest** du machen?`  
+> ▶ Most common Konjunktiv II in everyday speech — use this as your default.
+
 ---
 
 ### 4.3 `könnte` — polite "could"
@@ -245,6 +258,17 @@ and works like English "would". Combine it with any infinitive:
 > **Könntest** du mir bitte helfen?  
 > **Könnten** Sie mir die Rechnung bringen?  
 > Ich **könnte** um sieben da sein.
+
+> 📌 **Merkasten — `könnte`**
+> | Person | Form |
+> |---|---|
+> | ich / er / sie / es | **könnte** |
+> | du | **könntest** |
+> | wir / sie / Sie | **könnten** |
+> | ihr | **könntet** |
+> 
+> `**Könnten** Sie mir helfen?` (polite request, formal)  
+> `**Könntest** du mir helfen?` (polite request, informal)
 
 ---
 
@@ -276,6 +300,17 @@ and works like English "would". Combine it with any infinitive:
 ordering. Think of it as "I would like…" in a restaurant or shop. You'll learn
 the full mechanics of `hätte` at B1/03, but this chunk is safe to use now.
 
+> 📌 **Merkasten — `hätte`**
+> | Person | Form |
+> |---|---|
+> | ich / er / sie / es | **hätte** |
+> | du | **hättest** |
+> | wir / sie / Sie | **hätten** |
+> | ihr | **hättet** |
+> 
+> `Ich **hätte** gern einen Kaffee.` (I'd like a coffee — polite)  
+> `**Hätten** Sie einen Moment Zeit?` (formal polite question)
+
 ---
 
 ### 4.5 `wäre` — polite "would be"
@@ -298,6 +333,17 @@ polite situation:
 > Freitag **wäre** mir besser.  
 > **Wäre** das in Ordnung für Sie?  
 > Es **wäre** schön, wenn wir Zeit hätten.
+
+> 📌 **Merkasten — `wäre`**
+> | Person | Form |
+> |---|---|
+> | ich / er / sie / es | **wäre** |
+> | du | **wärst** |
+> | wir / sie / Sie | **wären** |
+> | ihr | **wärt** |
+> 
+> `Das **wäre** sehr nett.` · `**Wäre** es möglich, …?`  
+> ▶ Konjunktiv II of **sein** — use for hypothetical states and polite suggestions.
 
 ---
 

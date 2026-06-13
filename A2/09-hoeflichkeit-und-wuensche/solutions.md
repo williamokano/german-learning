@@ -278,24 +278,20 @@
 
 ## C3 — Sprachbausteine Teil 2
 
-1. **KÖNNTEN** (Könnten Sie mir bitte die Speisekarte bringen?)
-2. **BRINGEN** (bringen)
-3. **EMPFEHLEN** (Was würden Sie empfehlen?)
-4. **WÜRDE** (Ich würde den Lachs empfehlen)
-5. **HÄTTE** (Ich hätte gern den Lachs)
-6. **WÄRE** (Wäre es möglich)
-7. **MÖGLICH** (möglich)
-8. **WÄRE** → wait — already used. Correct sequence: gap 8 = **NETT** from the phrase „Das wäre sehr nett"
+| Gap | Answer | Context / explanation |
+|---|---|---|
+| 1 | **KÖNNTEN** | `Könnten Sie mir bitte…` — polite formal request; 3rd pers. pl. (Sie-form) of `können` |
+| 2 | **BRINGEN** | `die Speisekarte bringen` — infinitive after modal `könnten` |
+| 3 | **EMPFEHLEN** | `Was würden Sie empfehlen?` — infinitive after `würden` |
+| 4 | **WÜRDE** | `Ich würde die Pasta empfehlen` — 1st pers. sg. Konjunktiv II of `werden` |
+| 5 | **HÄTTE** | `Ich hätte gern die Pasta` — standard polite ordering phrase |
+| 6 | **WÄRE** | `Wäre es möglich…` — 3rd pers. sg. Konjunktiv II of `sein` |
+| 7 | **MÖGLICH** | `wäre es möglich` — fixed polite phrase "would it be possible" |
+| 8 | **KÖNNTEST** | `Könntest du mir bitte…` — polite informal request; 2nd pers. sg. (du-form) of `können` |
+| 9 | **NETT** | `Das ist wirklich nett von dir` — fixed compliment expression |
+| 10 | **BESTELLEN** | `darf ich noch ein Wasser bestellen?` — infinitive after `darf` |
 
-*Revised correct answers for full sequence:*
-1. KÖNNTEN · 2. BRINGEN · 3. EMPFEHLEN · 4. WÜRDE · 5. HÄTTE · 6. WÄRE · 7. MÖGLICH · 8. NETT (from „sehr nett") · 9. HÄTTE → **MÖCHTEN** (ich möchte → also fine) → *correct: 9 = HÄTTE* — *Ich hätte auch gern noch ein Glas Wasser* · 10. HÄTTE
-
-*Full solution:*
-1. KÖNNTEN · 2. BRINGEN · 3. EMPFEHLEN · 4. WÜRDE · 5. HÄTTE · 6. WÄRE · 7. MÖGLICH · 8. NETT · 9. HÄTTE · 10. MÖCHTEN
-
-*Not used: KÖNNTEST · BESTELLEN · RICHTIG · WECHSELN · GERN*
-
-*(Note: gap 5 uses HÄTTE for "Ich hätte gern den Lachs"; gap 9 uses HÄTTE for "ich hätte auch gern"; gap 10 uses MÖCHTEN. "GERN" is a distractor — it's an adverb and doesn't fill any of these gaps as a standalone word.)*
+**Not needed:** DÜRFEN · GERN · HÄTTEN · KÖNNTE · LEIDER · MÖCHTEN · RICHTIG · SOLLEN · WÄREN · WECHSELN
 
 ## C4 — Lesen
 

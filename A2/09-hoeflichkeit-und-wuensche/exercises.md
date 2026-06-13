@@ -400,24 +400,25 @@ das (6) ______ doch schön, oder?"
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
+Fill the 10 gaps using words from the box. **Ten words are not needed.**
 Each word may be used once.
 
-> WÄRE · HÄTTE · WÜRDE · KÖNNTEN · KÖNNTEST · BESTELLEN · BRINGEN · MÖGLICH ·
-> GERN · LEIDER · RICHTIG · NETT · EMPFEHLEN · MÖCHTEN · WECHSELN
+> BESTELLEN · BRINGEN · DÜRFEN · EMPFEHLEN · GERN · HÄTTE · HÄTTEN · KÖNNTE · KÖNNTEN · KÖNNTEST ·
+> LEIDER · MÖGLICH · MÖCHTEN · NETT · RICHTIG · SOLLEN · WÄREN · WÄRE · WECHSELN · WÜRDE
 
 Im Restaurant:
 
-**Gast:** Entschuldigung! (1) ______ Sie mir bitte die Speisekarte
-(2) ______? Ich habe noch keine bekommen.
-**Kellner:** Natürlich, einen Moment! — Hier, bitte.
-**Gast:** Danke. Was würden Sie (3) ______?
-**Kellner:** Ich (4) ______ den Lachs empfehlen — er ist heute sehr frisch.
-**Gast:** Das klingt gut. Ich (5) ______ gern den Lachs, bitte. Und
-(6) ______ es (7) ______, die Soße separat zu bringen?
-**Kellner:** Selbstverständlich.
-**Gast:** Das (8) ______ sehr (9) ______ von Ihnen. Ach, und ich
-(10) ______ auch gern noch ein Glas Wasser.
+**Gast:** Entschuldigung! (1) ______ Sie mir bitte die Speisekarte (2) ______?  
+**Kellner:** Natürlich! — Hier, bitte.  
+**Gast:** Danke. Was würden Sie (3) ______?  
+**Kellner:** Ich (4) ______ die Pasta empfehlen — sie ist heute sehr frisch.  
+**Gast:** Das klingt gut. Ich (5) ______ gern die Pasta, bitte.  
+**Gast:** Und — (6) ______ es (7) ______, die Soße separat zu servieren?  
+**Kellner:** Selbstverständlich!  
+[Am Tisch, zu Bruno:]  
+**Gast:** Bruno, (8) ______ du mir bitte den Salzstreuer geben?  
+**Bruno:** Natürlich! Das ist wirklich (9) ______ von dir, dass du mich einlädst!  
+**Gast:** Und darf ich noch ein Wasser (10) ______?
 
 ## Übung C4 — Lesen
 
@@ -483,6 +484,11 @@ Use at least:
 - 1 × `hätte gern` OR `wäre`
 
 A model answer is in `solutions.md` — write yours **first**.
+
+**Self-check before moving on:**
+- [ ] Did you use at least 2 forms of Konjunktiv II from different verbs (`würde/könnte/hätte/wäre`)?
+- [ ] Did you maintain a consistently polite formal register throughout (formal `Sie`, no imperatives without `bitte`)?
+- [ ] Is each Konjunktiv II verb followed by an infinitive at the end of the clause (for `würde/könnte`) or used as a standalone form (for `hätte/wäre`)?
 
 ---
 
