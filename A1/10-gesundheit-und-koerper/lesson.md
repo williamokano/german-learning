@@ -171,6 +171,8 @@
 > The full reflexive-verb system is taught at A2 (Lektion 5). For now treat
 > *Ich fühle mich nicht gut* and *Ruh dich aus!* as fixed chunks.
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 5. Grammatik
@@ -236,6 +238,20 @@ Verb first, then `Sie`:
 | nehmen | **Nimm**! | Nehmt! | Nehmen Sie! |
 | schlafen | **Schlaf**! | Schlaft! | Schlafen Sie! |
 
+> 📌 **Merkasten — The imperative**
+>
+> | Form | How to build | Example |
+> |---|---|---|
+> | du | stem only, no `-st` | komm**en** → du komm**st** → **Komm**! |
+> | ihr | = Präsens ihr form | komm**en** → ihr komm**t** → **Kommt**! |
+> | Sie | infinitive + Sie | **Kommen** Sie! |
+>
+> ⚠️ Stem-vowel change (e→i/ie): **keep** the changed vowel in the du-form → Nimm! / Lies!
+> ⚠️ Umlaut (a→ä): **drop** the umlaut in the du-form → Fahr! / Schlaf!
+> ⚠️ Separable verbs split in the imperative too: **Mach** den Mund **auf**! · **Ruh** dich **aus**!
+>
+> ▶ The du-form = bare stem (with stem-vowel kept); ihr-form = identical to Präsens; Sie-form = infinitive first.
+
 ---
 
 ### 5.2 Modal verb `sollen` — should / is supposed to
@@ -263,6 +279,19 @@ The infinitive goes to the end (Satzklammer — see L7):
 
 **Negative: `sollen` + `nicht`** → you're told not to do something:
 > Du **sollst nicht** rauchen! · Sie **sollen nicht** arbeiten.
+
+> 📌 **Merkasten — Modal verb `sollen`**
+>
+> | ich | du | er·sie·es | wir | ihr | sie·Sie |
+> |---|---|---|---|---|---|
+> | soll | sollst | soll | sollen | sollt | sollen |
+>
+> **Meaning:** should / is supposed to / was told to.
+> ⚠️ Like all modals: no `-e` for ich, no `-t` for er/sie/es.
+> ⚠️ `sollen` expresses an **external obligation** — the instruction comes from someone else (a doctor, a parent, a rule). Compare: *müssen* = internal necessity; *sollen* = someone told you to.
+> Infinitive goes to the end: Du **sollst** viel **schlafen**. · Er **soll** die Tabletten **nehmen**.
+>
+> ▶ Use `sollen` when someone else is the source of the obligation: "The doctor said you should rest" → Du **sollst** dich ausruhen.
 
 ---
 
@@ -308,6 +337,15 @@ The full set (all persons) — nominative/accusative only (to keep scope clean):
 
 ⚠️ `euer` drops the second `e` before endings: **eu(e)r-** → eure, euren.
 
+> 📌 **Merkasten — Possessivartikel: Nom / Akk / Dat**
+> |  | Mask. | Fem. | Neut. | Pl. |
+> |---|---|---|---|---|
+> | Nom | mein | meine | mein | meine |
+> | Akk | mein**en** | meine | mein | meine |
+> | Dat | mein**em** | mein**er** | mein**em** | mein**en** |
+> 
+> ▶ Replace `mein-` with `dein- / sein- / ihr- / unser- / euer- / ihr-` — endings stay the same.
+
 ---
 
 ### 5.4 `weh tun` — to hurt
@@ -321,6 +359,14 @@ The full set (all persons) — nominative/accusative only (to keep scope clean):
 
 > Question: **Was tut weh?** — Mein Arm tut weh.
 > **Wo tut es weh?** — Hier, im Rücken. (also common)
+
+> 📌 **Merkasten — `weh tun`**
+> | Pattern | Example |
+> |---|---|
+> | [body part] tut mir weh | Der Kopf tut **mir** weh. |
+> | [body parts] tun mir weh | Die Augen tun **mir** weh. |
+> 
+> ▶ The body part is the SUBJECT (verb agrees with it). The person is DATIV: mir/dir/ihm/ihr/uns/euch/ihnen.
 
 ---
 
