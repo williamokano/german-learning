@@ -375,11 +375,11 @@ Wien verbracht."
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
+Fill the 10 gaps using words from the box. **Ten words are not needed.**
 Each word may be used once.
 
-> FUHR · WOHNTEN · BESUCHTE · Aß · GING · BESICHTIGTE · MACHTE · KAM ·
-> WUNDERBAR · ERLEBTE · GEFLOGEN · GEREIST · BESUCHT · GEGESSEN · GEBLIEBEN
+> FUHR · WOHNTE · BESUCHTE · Aß · GING · BESICHTIGTE · LACHTE · MACHTE · KAM · RIEF ·
+> SCHRIEB · TRANK · WANDERTE · WUNDERBAR · ERLEBTE · GEFLOGEN · GEREIST · BESUCHT · GEGESSEN · GEBLIEBEN
 
 „Letzten Sommer (1) ______ ich nach Wien. Ich (2) ______ in einem
 kleinen Hotel direkt am Donaukanal — sehr zentral! Am ersten Tag
@@ -440,6 +440,11 @@ or weekend. Include:
 - How the trip was (your opinion)
 
 A model answer is in `solutions.md` — write yours **first**.
+
+**Self-check before moving on:**
+- [ ] Did you use `Wohin?` prepositions with Akkusativ for movement and `Wo?` prepositions with Dativ for location?
+- [ ] Did you use the correct preposition for the place name (city → `in`/`nach`, neuter country → `nach`, feminine/plural country → `in die`)?
+- [ ] Does at least one sentence use a Wechselpräposition — with Dativ for where you stayed/were, and Akkusativ for where you went?
 
 ---
 

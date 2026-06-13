@@ -177,6 +177,8 @@
 | abbiegen ⚠️ | to turn (direction) | ist abgebogen |
 | weitergehen ⚠️ | to continue (on foot) | ist weitergegangen |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -208,6 +210,16 @@ You learned the nine Wechselpräpositionen in A2/L2 in the context of furniture 
 | def. article | den | die | das | die |
 | indef. article | einen | eine | ein | — |
 | Example | in den Park | an die Küste | ins Tal (= in das) | in die Berge |
+
+> 📌 **Merkasten — Wo? / Wohin? / Woher? System**
+>
+> | Question | Answer preposition(s) | Case | Meaning |
+> |---|---|---|---|
+> | **Wo?** | in, an, auf + Dativ | Dativ | location / state |
+> | **Wohin?** | in, an, auf + Akkusativ | Akkusativ | direction / movement |
+> | **Woher?** | aus, von + Dativ | Dativ | origin |
+>
+> Rule of thumb: **Wo? = Dativ** (already there, done) · **Wohin? = Akkusativ** (action, going there) · **Woher?** always Dativ with `aus` (permanent origin) or `von` (coming from event/person/direction).
 
 ---
 
@@ -266,6 +278,18 @@ This is where many learners make errors. The key distinction: **most country nam
 > *Ich komme vom Arzt.* (I'm coming from the doctor's.)  
 > *Von hier aus sieht man den Dom.* (From here you can see the cathedral.)
 
+> 📌 **Merkasten — Prepositions with countries and cities**
+>
+> | Destination type | Wohin? (going to) | Wo? (being at) | Woher? (coming from) |
+> |---|---|---|---|
+> | City (any) | **nach** Berlin | **in** Berlin | **aus** Berlin |
+> | Neuter country (no article) | **nach** Japan | **in** Japan | **aus** Japan |
+> | Feminine country (*die*) | **in die** Schweiz | **in der** Schweiz | **aus der** Schweiz |
+> | Plural country (*die* pl.) | **in die** USA | **in den** USA | **aus den** USA |
+> | Masculine country (*der*) | **in den** Irak | **im** Irak | **aus dem** Irak |
+>
+> Memory hook: cities and most countries → **nach / in / aus** (no article). Special countries with an article → **in + Akk** to go there, **in + Dat** to be there, **aus + Dat** to come from there.
+
 ---
 
 ### 4.3 The nine Wechselpräpositionen — quick-reference table
@@ -295,6 +319,22 @@ This is where many learners make errors. The key distinction: **most country nam
 | zu + dem | **zum** |
 | zu + der | **zur** |
 
+> 📌 **Merkasten — Die neun Wechselpräpositionen**
+>
+> | Preposition | Wo? → Dativ (location) | Wohin? → Akkusativ (direction) |
+> |---|---|---|
+> | **in** | im Bahnhof / in der Stadt | in den Bahnhof / in die Stadt |
+> | **an** | am Hafen / an der Küste | an den Hafen / an die Küste |
+> | **auf** | auf dem Marktplatz | auf den Marktplatz |
+> | **über** | über der Stadt | über die Stadt |
+> | **unter** | unter der Brücke | unter die Brücke |
+> | **vor** | vor dem Hotel | vor das Hotel |
+> | **hinter** | hinter dem Bahnhof | hinter den Bahnhof |
+> | **neben** | neben dem Museum | neben das Museum |
+> | **zwischen** | zwischen dem Park und dem See | zwischen den Park und den See |
+>
+> Key mnemonic: **wo? = Dativ** (location, already there) · **wohin? = Akkusativ** (direction, movement towards). Common contractions: *in + dem → im · in + das → ins · an + dem → am · an + das → ans*.
+
 ---
 
 ### 4.4 Giving directions — preposition patterns
@@ -311,6 +351,18 @@ Directions in German rely heavily on the prepositions you know. Key patterns:
 | in der Nähe von + Dat | Dat | Es ist in der Nähe vom Marktplatz. |
 | auf der linken / rechten Seite | Dat | Das Café ist auf der linken Seite. |
 | an der Ecke von … und … | Dat | Die Bank ist an der Ecke von der Hauptstraße und der Bahnhofstraße. |
+
+> 📌 **Merkasten — Directions (Wegbeschreibung)**
+>
+> | Expression | Notes | Example |
+> |---|---|---|
+> | **geradeaus / links / rechts** | no case needed | Gehen Sie geradeaus! Biegen Sie links ab! |
+> | **an … vorbei** | Dativ after *an* | Gehen Sie an der Post vorbei. |
+> | **bis zur / bis zum** | Dativ (*zur* = zu der, *zum* = zu dem) | Gehen Sie bis zur Ampel. |
+> | **gegenüber von + Dat** | always Dativ | Das Hotel liegt gegenüber vom Bahnhof. |
+> | **in der Nähe von + Dat** | always Dativ | Es ist in der Nähe vom Marktplatz. |
+>
+> Key pattern: direction words (*links, rechts, geradeaus*) need no case; preposition phrases (*bis zur, gegenüber von, an … vorbei*) use Dativ.
 
 ---
 

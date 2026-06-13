@@ -319,7 +319,7 @@ Complete text:
 
 Word bank in gap order: **fuhr · wohnte · besuchte · aß · ging · besichtigte · machte · kam · wunderbar · erlebte**.
 
-*Not needed: geflogen · gereist · besucht · gegessen · geblieben.*
+*Not needed: geflogen · gereist · besucht · gegessen · geblieben · lachte · rief · schrieb · trank · wanderte.*
 
 ⚠️ The text is in **Präteritum** (simple past) throughout — a common style for written narratives in German. A2 students can recognize these forms even if they don't yet produce them. The bank uses the same Präteritum stems the student will see in B1/01 (formal study of Präteritum).
 
