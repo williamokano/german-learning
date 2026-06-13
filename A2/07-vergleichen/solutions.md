@@ -306,7 +306,7 @@ The dialogue is about two friends comparing Berlin and Munich.
 | 9 | **WIE** | genauso gut **wie** in Wien |
 | 10 | **WÄRMER** | München ist **wärmer** als Berlin *(comparative of warm, umlaut)* |
 
-**Distractors not used:** BILLIGER · GÜNSTIGER · AM MEISTEN · TEURER · SO (5 distractors ✓)
+**Not needed:** BILLIGER · GÜNSTIGER · SO · TEURER · AM MEISTEN · KÄLTER · KLEINER · SCHNELLER · WENIGER · AM LIEBSTEN
 
 ## C4 — Lesen
 

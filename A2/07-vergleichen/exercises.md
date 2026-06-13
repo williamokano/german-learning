@@ -372,11 +372,11 @@ Ich nehme (6) ______ das rote, obwohl es mehr kostet."
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
+Fill the 10 gaps using words from the box. **Ten words are not needed.**
 Each word may be used once.
 
-> ALS · AM BESTEN · BESSER · BILLIGER · GENAUSO · GÜNSTIGER · LIEBER ·
-> MEHR · SCHÖNER · SO · TEURER · WIE · AM MEISTEN · GRÖSSER · WÄRMER
+> ALS · AM BESTEN · BESSER · BILLIGER · GENAUSO · GÜNSTIGER · KÄLTER · KLEINER · LIEBER · MEHR ·
+> SCHÖNER · SCHNELLER · SO · TEURER · WENIGER · WIE · AM MEISTEN · AM LIEBSTEN · GRÖSSER · WÄRMER
 
 Zwei Freundinnen vergleichen Städte:
 
@@ -434,14 +434,20 @@ Choose a, b, or c:
 
 ## Übung C5 — Schreiben
 
-Write a short text (8–10 sentences) comparing two things you know well
-(two cities, two jobs, two smartphones, two hobbies, etc.). Use:
-- At least **3 comparative forms** (e.g. `größer als`)
-- At least **1 superlative** (predicative or attributive)
-- The structure **`so … wie`** at least once
+**Situation:** Your language-exchange partner has asked you: *„Wo lebst du lieber — in deiner Heimatstadt oder in Berlin? Warum?"* Write a reply (70–90 words) comparing both places honestly.
+
+Include:
+- At least **3 comparative forms** (`größer als`, `billiger`, `mehr …`)
+- At least **1 superlative** (`am ruhigsten`, `die beste …`, etc.)
+- The structure **`so … wie`** or **`genauso … wie`** at least once
 - At least **one irregular** (`besser`, `mehr`, `lieber`)
 
 A model answer is in `solutions.md` — write yours **first**.
+
+**Self-check before moving on:**
+- [ ] Did you use `als` (not `wie`) after every comparative?
+- [ ] Did the superlative follow the pattern `am [Adj]-sten` (predicative) or `[article]+[Adj]-st-+ending` (attributive)?
+- [ ] Did you use `so/genauso … wie` (not `als`) for equality comparisons?
 
 ---
 

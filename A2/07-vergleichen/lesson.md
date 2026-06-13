@@ -140,6 +140,8 @@
 | sinken | to fall, decrease | ist gesunken ⚠️ |
 | es kommt darauf an | it depends | fixed phrase |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -168,6 +170,15 @@ Add **`-er`** to the adjective stem, then add any required adjective ending:
 
 ⚠️ Never use `wie` for unequal comparisons: *Berlin ist größer **wie** Wien* ✗
 
+> 📌 **Merkasten — Komparativ**
+> | Form | Pattern | Example |
+> |---|---|---|
+> | regular | Adj + **-er** | klein → kleiner |
+> | umlaut | Adj-umlaut + **-er** | groß → größer |
+> | irregular | must memorize | gut → **besser** · viel → **mehr** · gern → **lieber** |
+> 
+> ▶ Always use `als` after a comparative: `Berlin ist größer **als** München.`
+
 ---
 
 ### 4.2 Equality — `so … wie`
@@ -183,6 +194,13 @@ To negate: **`nicht so … wie`** = not as … as:
 > Paris ist **nicht so** groß **wie** London.
 
 ⚠️ `als` = unequal (more/less than) · `wie` = equal (as … as). This is a very common error — memorize the rule.
+
+> 📌 **Merkasten — Gleichheit**
+> | Structure | Meaning | Example |
+> |---|---|---|
+> | `so [Adj] wie` | as … as | so groß wie Berlin |
+> | `genauso [Adj] wie` | just as … as | genauso teuer wie München |
+> | `nicht so [Adj] wie` | not as … as | nicht so warm wie im Süden |
 
 ---
 
@@ -204,6 +222,13 @@ Add **`-sten`** to the stem: **`am ___sten`**
 > Dieses Hotel ist **am teuersten**.
 > Im Sommer ist es hier **am heißesten**.
 > Welche Stadt ist **am größten**?
+
+> 📌 **Merkasten — Superlativ prädikativ**
+> | Form | Pattern | Example |
+> |---|---|---|
+> | regular | `am` + Adj + **-sten** | am kleinsten |
+> | Adj ending in `-t`, `-d`, `-s`, `-ß` | add **-esten** | am größten · am lautesten |
+> | irregular | must memorize | gut → **am besten** · viel → **am meisten** · gern → **am liebsten** |
 
 ---
 
@@ -231,6 +256,13 @@ Examples:
 > Das Auto ist am schnellsten. ✓ (predicative — no noun follows)
 > Das ist das schnellste Auto. ✓ (attributive — ending -e because neuter Nom.)
 > Das ist das schnellst Auto. ✗
+
+> 📌 **Merkasten — Superlativ attributiv**
+> The attributive superlative = `[article] + [Adj]-st- + ending`:
+> - `der/die/das` + **größt-** + weak ending → `der größte Berg`
+> - Endings follow the same weak-declension table as regular adjectives.
+> 
+> ▶ Always has an article (no bare superlative adjective without `der/die/das`).
 
 ---
 
