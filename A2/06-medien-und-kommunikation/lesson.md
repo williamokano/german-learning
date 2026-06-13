@@ -155,6 +155,8 @@
 ⚠️ `anrufen`, `herunterladen`, `hochladen` are separable verbs: *Ich rufe an · Ich lade herunter · Ich lade hoch.*
 ⚠️ `empfehlen` has a stem-vowel change: `du empfiehlst`, `er empfiehlt`.
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -194,6 +196,21 @@ English often uses completely different prepositions — or none at all. **Never
 
 ⚠️ **`fragen nach` takes Dativ** — this is the only Dativ verb in the set. All others take Akkusativ. Learn this exception by heart.
 
+> 📌 **Merkasten — Verben + Präpositionen**
+> | Verb | Preposition | Case |
+> |---|---|---|
+> | warten | auf | Akk |
+> | denken | an | Akk |
+> | sprechen | über | Akk |
+> | sich freuen | über (present joy) / auf (anticipation) | Akk |
+> | sich interessieren | für | Akk |
+> | sich ärgern | über | Akk |
+> | schreiben | an | Akk |
+> | antworten | auf | Akk |
+> | fragen | nach | Dat |
+> 
+> ▶ These pairings are **fixed** — learn each verb + preposition as one unit.
+
 ---
 
 ### 4.3 `sich freuen über` vs. `sich freuen auf` — do NOT confuse these
@@ -211,6 +228,14 @@ Both use `sich freuen` but they mean different things and require different prep
 > ✗ Ich freue mich **über** das Konzert. ← only if the concert already happened
 
 **Memory hook:** `auf` points forward in time (like an arrow →); `über` looks back at what's already there (like an arc above something).
+
+> 📌 **Merkasten — `sich freuen über` vs. `sich freuen auf`**
+> | Expression | When to use | Example |
+> |---|---|---|
+> | `sich freuen über` | Present / existing fact | `Ich freue mich über deine Nachricht.` |
+> | `sich freuen auf` | Future / anticipated event | `Ich freue mich auf das Konzert.` |
+> 
+> ▶ Memory trick: **über** = looking back/down at what's there · **auf** = looking forward to what's coming.
 
 ---
 
@@ -237,6 +262,14 @@ The preposition determines the case of the noun that follows. Look at the table 
 | fragen nach | dem Weg (m, Dat) | Ich frage nach **dem** Weg. |
 | fragen nach | der Adresse (f, Dat) | Sie fragt nach **der** Adresse. |
 | fragen nach | dem Preis (n, Dat) | Er fragt nach **dem** Preis. |
+
+> 📌 **Merkasten — Fall nach Präposition**
+> | Preposition | Case | Example |
+> |---|---|---|
+> | auf, über, für, an | **Akkusativ** | warten auf **den** Bus |
+> | nach | **Dativ** | fragen nach **dem** Weg |
+> 
+> ▶ All prepositions in this lesson take Akkusativ **except** `nach` (always Dativ).
 
 ---
 

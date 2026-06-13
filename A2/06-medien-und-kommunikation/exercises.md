@@ -370,11 +370,11 @@ ______ unser Treffen nächste Woche. Bis dann!
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
+Fill the 10 gaps using words from the box. **Ten words are not needed.**
 Each word may be used only once.
 
 > AUF · AN · ÜBER · FÜR · NACH · WARTE · FREUE · SCHREIBE · ÄRGERE · DENKE ·
-> INTERESSIERE · ANTWORTE · MIT · VON · BEI
+> INTERESSIERE · ANTWORTE · MIT · VON · BEI · FRAGE · HÖRE · IN · SPRECHE · ZU
 
 Hallo! Ich heiße Minh und wohne seit einem Jahr in Berlin. Ich (1) ______
 mich sehr (2) ______ soziale Medien. Jeden Abend (3) ______ ich (4) ______
@@ -437,6 +437,11 @@ A friend has just moved to a new city and feels lonely. Write a message (50–70
 - say something you're annoyed about yourself (solidarity!)
 
 Use at least **four** verbs with fixed prepositions from this lesson.
+
+**Self-check before moving on:**
+- [ ] Did you use at least four verbs with fixed prepositions, each with the correct preposition (e.g. `warten auf`, `sich interessieren für`)?
+- [ ] After verbs with `Akkusativ` prepositions, did you use the correct Akkusativ article (e.g. `auf **den** Anruf`, `für **das** Konzert`)?
+- [ ] Did you write in an appropriate tone for a personal message to a friend (informal `du`)?
 
 ---
 

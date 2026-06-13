@@ -282,7 +282,7 @@ Model answers (also fine: any grammatically correct sentence using the cued verb
 
 > Hallo! Ich heiße Minh und wohne seit einem Jahr in Berlin. Ich (1)**INTERESSIERE** mich sehr (2)**FÜR** soziale Medien. Jeden Abend (3)**SCHREIBE** ich (4)**AN** meine Eltern in Vietnam — ich vermisse sie sehr. Ich (5)**FREUE** mich immer über ihre Nachrichten, weil sie zeigen, dass alles gut ist. Manchmal (6)**WARTE** ich (7)**AUF** eine Antwort, wenn mein Bruder nicht schreibt. Ich (8)**ANTWORTE** immer schnell auf alle Nachrichten von zu Hause. Manchmal (9)**ÄRGERE** ich mich (10)**ÜBER** das schlechte WLAN hier — aber das ist das einzige Problem!
 
-*Not needed (5 distractors):* **NACH · DENKE · MIT · VON · BEI**
+*Not needed (10 distractors):* **NACH · DENKE · MIT · VON · BEI · FRAGE · HÖRE · IN · SPRECHE · ZU**
 
 Explanations:
 - (1)+(2): `sich interessieren für` — verb then preposition, both gaps.
