@@ -144,6 +144,8 @@
 | toll / super | great |
 | schön | nice / beautiful |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -166,6 +168,20 @@ about the past. English uses "I did" or "I have done"; German uses one form for 
 
 ⚠️ The Partizip II always goes to the very end of the clause — this is the
 **Satzklammer** (verb bracket) you know from modal verbs (L7).
+
+> 📌 **Merkasten — The Perfekt Tense**
+>
+> | Slot | What goes there |
+> |---|---|
+> | Position 2 | conjugated `haben` or `sein` |
+> | End of clause | Partizip II |
+>
+> | Example | Translation |
+> |---|---|
+> | Ich **habe** Fußball **gespielt**. | I played football. (`haben`) |
+> | Er **ist** ins Kino **gegangen**. | He went to the cinema. (`sein`) |
+>
+> ▶ Pattern: **haben/sein (pos. 2) + … + Partizip II (end)** — the same bracket as modal verbs.
 
 ---
 
@@ -191,6 +207,15 @@ For regular (weak) verbs:
 ⚠️ **Verbs ending in `-ieren`** (mostly loanwords) do NOT get `ge-`: `fotografieren → fotografiert`,
 `studieren → studiert`, `telefonieren → telefoniert`. (They already have a stressed
 syllable, so no `ge-` is needed — just memorize this as a group.)
+
+> 📌 **Merkasten — Partizip II: regelmäßige Verben**
+> | Rule | Example |
+> |---|---|
+> | `ge-` + stem + `-t` | lernen → ge**lern**t |
+> | stem ends in `-t/-d`: insert `-e-` | arbeiten → gear**beit**et |
+> | `-ieren` verbs: **no** `ge-` | studieren → studiert |
+> 
+> ▶ If the verb has an inseparable prefix (be-, er-, ver-…), also no `ge-`: besuchen → besucht.
 
 ---
 
@@ -219,6 +244,21 @@ Strong (irregular) verbs change their stem vowel and use the ending **-en**:
 ⚠️ There is no complete system — you must memorize these. The good news: you
 already know most of these verbs. Every time you learn a new verb, add its
 Partizip II to your notes.
+
+> 📌 **Merkasten — Partizip II: unregelmäßige Verben (Auswahl)**
+> | Infinitiv | Partizip II |
+> |---|---|
+> | fahren | ge**fahr**en |
+> | gehen | ge**gang**en |
+> | kommen | ge**komm**en |
+> | essen | ge**gess**en |
+> | trinken | ge**trunk**en |
+> | schreiben | ge**schrieb**en |
+> | sehen | ge**seh**en |
+> | lesen | ge**les**en |
+> | nehmen | ge**nomm**en |
+> 
+> ▶ Strong verbs change their stem vowel. Learn them as chunks — there is no shortcut.
 
 ---
 
@@ -254,6 +294,16 @@ Use **`haben`** for everything else:
 geschwommen), but `haben` when it expresses activity without destination (Ich
 habe eine Stunde geschwommen). At A1 level, treat it as a `sein`-verb.
 
+> 📌 **Merkasten — `haben` oder `sein`?**
+> | Auxiliary | Use | Examples |
+> |---|---|---|
+> | **haben** | most verbs | lernen, kaufen, essen, arbeiten |
+> | **sein** | motion / change of place | fahren, gehen, kommen, fliegen, laufen |
+> | **sein** | change of state | aufwachen, einschlafen, werden |
+> | **sein** | `bleiben`, `sein` itself | geblieben, gewesen |
+> 
+> ▶ If in doubt: verbs of motion and change → `sein`. Everything else → `haben`.
+
 ---
 
 ### 4.5 Separable verbs in the Perfekt
@@ -269,6 +319,14 @@ Separable verbs (L5) put **ge-** between the prefix and the stem:
 | anrufen | an**ge**rufen | Hast du deine Mutter **angerufen**? |
 | fernsehen | fern**ge**sehen | Wir haben gestern **ferngesehen**. |
 | aufräumen | auf**ge**räumt | Er hat sein Zimmer **aufgeräumt**. |
+
+> 📌 **Merkasten — Trennbare Verben im Perfekt**
+> | Rule | Example |
+> |---|---|
+> | `ge-` goes BETWEEN prefix and stem | auf**ge**standen, an**ge**rufen |
+> | Partizip II = one word | einge**kauf**t (not *ge-eingekauft*) |
+> 
+> ▶ Formula: [prefix] + ge + [stem + t/en]. Example: aufstehen → **auf**ge**stand**en.
 
 ---
 
@@ -289,6 +347,16 @@ You don't say *Ich bin müde gewesen* — you say **Ich war müde**.
 
 > Das Wetter **war** herrlich. · Wir **waren** im Urlaub. · Ich **hatte** keine Zeit.
 > Der Film **war** langweilig. · Hattest du Hunger?
+
+> 📌 **Merkasten — `war` (sein) und `hatte` (haben) — Präteritum**
+> | Person | war (sein) | hatte (haben) |
+> |---|---|---|
+> | ich / er·sie·es | war | hatte |
+> | du | warst | hattest |
+> | wir / sie·Sie | waren | hatten |
+> | ihr | wart | hattet |
+> 
+> ▶ Use `war/hatte` for states and descriptions in the past — NOT for actions (use Perfekt for those at A1/A2).
 
 ---
 
