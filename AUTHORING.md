@@ -188,21 +188,45 @@ written artefacts like emails or notices from being mistaken for dialogs).
 
 **Tier 3 — Hörtext (all lessons, all levels)**
 
-Every lesson has a `## 6. Hörtext` section: a 4–6 sentence story on the lesson
-topic, using **only** known material. Write it as a flowing blockquote paragraph
-(no trailing double-spaces — it flows as one continuous text):
+Every lesson has a `## 6. Hörtext` section. The Hörtext **must be a different
+scene from the Lesetext** — same character universe, different situation, so
+exercises based on each text test genuinely different content.
+
+**Design rule — Lesetext vs. Hörtext:**
+- **Lesetext (§5):** longer reading text; students read and re-read at leisure.
+  Used in Block C exercises (Lesen).
+- **Hörtext (§6):** shorter 4–6 sentence story heard only (transcript hidden);
+  different situation, possibly different characters or location from Lesetext.
+  Used in Block H3 (Hörtext-Lückentext). Students listen, then open the spoiler
+  to check.
+
+**Character consistency check:** before writing, verify that any named
+characters' cities and facts match their persona files in `personas/`. Do not
+put Berlin-based Anna or Bruno in a München scene, or vice versa.
+
+Write the transcript as a flowing blockquote (no trailing double-spaces).
+Wrap it in a `<details>` spoiler so the student cannot read before listening:
 
 ```markdown
 ## 6. Hörtext
 
-> Anna kommt aus Russland, aus Jaroslawl. Sie wohnt jetzt in Berlin und
-> lernt Deutsch. Ihr Kurs hat zwanzig Studenten. Die Lehrerin heißt Frau
-> Schmidt. Anna findet den Kurs super.
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+> Sentence one. Sentence two. Sentence three.
+> Sentence four. Sentence five.
+
+</details>
 ```
 
-The generator reads it aloud as a single announcer voice with 1.2 s pauses
-between sentences, no background, producing `hoertext.mp3`. The audio is
-reused in Block H as a **Hörtext-Lückentext** (see exercises spec below).
+The generator finds the blockquote inside the `<details>` tag automatically.
+It reads it aloud as a single announcer voice with 1.2 s pauses between
+sentences, no background, producing `hoertext.mp3`. The audio is reused in
+Block H as a **Hörtext-Lückentext** (see exercises spec below).
 
 ---
 
@@ -309,7 +333,9 @@ scoring grid, and a detailed answer key. Do these solo, not in a parallel batch.
   - [ ] H3 Hörtext-Lückentext: 5–8 gaps, word bank with 2–3 distractors
   - [ ] H2 Aussprache-Check: A1/01–04 only
 - [ ] Tier 1 only (A1/01–04): `### 🔊 Aussprache` with `Hör zu` lines in Wortschatz
-- [ ] Tier 3 (all lessons): `## 6. Hörtext` with 4–6 sentence flowing blockquote
+- [ ] Tier 3 (all lessons): `## 6. Hörtext` with `<details>` spoiler, 4–6 sentences
+  - [ ] Hörtext scene is DIFFERENT from the Lesetext scene
+  - [ ] Named characters' cities/facts verified against `personas/`
 - [ ] All `> **Speaker:** Text` dialog lines end with two trailing spaces (`  `)
 - [ ] Multi-dialog sections use `### Dialog A:` / `### Dialog B:` sub-headers
 - [ ] Audio generated: run `python3 scripts/generate_audio.py lesson.md exercises.md`
