@@ -27,6 +27,7 @@ Complete Hörtext:
 > lange geschlafen und ein **Buch** gelesen.
 
 Word bank in gap order: Stadt · Café · Kaffee · Kino · Sonntag · Buch.
+Not needed (distractors): Museum · Samstag · Tee.
 
 ---
 

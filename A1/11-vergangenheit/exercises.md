@@ -40,7 +40,7 @@ Höre den Text und fülle die Lücken.
 > ist Anna ins ______ gegangen. Der Film war gut. Am ______ hat sie
 > lange geschlafen und ein ______ gelesen.
 
-> (Stadt · Café · Kaffee · Kino · Sonntag · Buch)
+> **Word bank:** Stadt · Café · Kaffee · Kino · Sonntag · Buch · Museum · Samstag · Tee
 
 ---
 
