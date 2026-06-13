@@ -74,27 +74,47 @@ add a new persona file unless the character recurs.
 
 ---
 
+## One-lesson-at-a-time rule
+
+Work on exactly **one lesson at a time**. Do not start the next lesson
+until the current one is fully done, committed, and pushed. After each
+step below, **tick the checklist** and update MEMORY.md before moving on.
+This makes every save a checkpoint for the next agent.
+
+---
+
 ## Current state (live — as of 2026-06-13)
 
 **Done & pushed (26 lessons):**
 - A1/01 through A1/14 (14 lessons)
 - A2/01 through A2/12 (12 lessons)
 
-**In flight (next session picks up here):**
-- A2/13 Menschen beschreiben — `lesson.md` is **complete and saved on
-  disk** (uncommitted, in `A2/13-menschen-beschreiben/`). The folder has
-  no `exercises.md` or `solutions.md` yet, and no audio has been
-  generated. Audio links already point to the expected MP3 slugs.
-- A2/14 Prüfungstraining A2 — not started. **Solo mock exam, do last.**
-  This replaces the four-block structure with a full-length mock in the
-  Goethe-Zertifikat A2 / telc Deutsch A2 format (Hören, Lesen, Schreiben,
-  Sprechen). Use `A1/14-pruefungstraining-a1` as the closest template.
+**In flight — A2/13 Menschen beschreiben:**
 
-**Files to check on resume:**
-- `A2/13-menschen-beschreiben/lesson.md` — already written
-- `tasks/todo.md` — has the unchecked A2/13 + A2/14 boxes
-- `CURRICULUM.md` and `README.md` — "Current status" already updated to
-  "A2/01-A2/12 complete"
+### Checklist — A2/13 Menschen beschreiben
+- [x] lesson.md written and saved (`A2/13-menschen-beschreiben/lesson.md`, 410 lines)
+- [x] exercises.md written and saved (30 exercises, ~191 items)
+- [x] solutions.md written and saved
+- [x] Audio generated (`python3 scripts/generate_audio.py A2/13-menschen-beschreiben/lesson.md`)
+- [x] todo.md checkbox ticked, README + CURRICULUM.md status updated
+- [ ] Committed and pushed ← **RESUME HERE next session if not yet done**
+
+**Up next (after A2/13 commit + push):**
+
+### Checklist — A2/14 Prüfungstraining A2
+- [ ] lesson.md written (full mock exam — Hören, Lesen, Schreiben, Sprechen)
+- [ ] exercises.md written (the mock exam IS the exercises — one combined file or two files)
+- [ ] solutions.md written (full answer key + scoring grid)
+- [ ] Audio generated for mock Hören section
+- [ ] Committed and pushed
+- [ ] todo.md checkbox ticked, README + CURRICULUM.md status updated
+
+**Notes for A2/14:**
+- Solo mock exam (do NOT parallel-batch this one).
+- Replaces the four-block A/B/C/D structure with a full-length Goethe-Zertifikat A2 / telc Deutsch A2 mock.
+- Skills: Hören (30 min), Lesen (30 min), Schreiben (30 min), Sprechen (partner task).
+- Reference template: `A1/14-pruefungstraining-a1` (read it first — has scoring grid, four skills, answer key).
+- After A2/14 is shipped, A2 is complete → start B1.
 
 ---
 

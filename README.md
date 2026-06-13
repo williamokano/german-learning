@@ -7,7 +7,7 @@ Menschen / Schritte international neu (Hueber) and Sicher! / Aspekte neu.
 
 - **[CURRICULUM.md](CURRICULUM.md)** — the full A1→C1 topic map (start here as a learner)
 - **[AUTHORING.md](AUTHORING.md)** — the lesson production spec (for writing/dispatching lessons)
-- **[MEMORY.md](MEMORY.md)** — the orchestrator's working memory: in-flight work, recent decisions, subagent quality notes
+- **[MEMORY.md](MEMORY.md)** — the orchestrator's working memory: in-flight work, recent decisions, subagent quality notes. **Always update this at the end of every session** — include what was done, what's next, and a per-lesson checklist so the next agent can resume without re-reading everything.
 - **[tasks/todo.md](tasks/todo.md)** — dispatch board with one work item per lesson
 - **[tasks/lessons.md](tasks/lessons.md)** — long-term conventions log (the "rules for ourselves" file)
 - **[personas/](personas/)** — character bible: name, nationality, voice, family for every recurring character
@@ -104,4 +104,4 @@ Voice assignments and background-noise settings live in `scripts/audio_config.js
 3. Check with `solutions.md`; ≥ 80% → next topic, otherwise review and redo.
 4. One topic per week is a solid pace.
 
-**Current status:** A1 (14/14) + A2/01–A2/12 (12/14) complete (26 lessons total) — A2/13 next. See `MEMORY.md` for the resume instructions on the in-flight lesson.
+**Current status:** A1 (14/14) + A2/01–A2/13 (13/14) complete (27 lessons total) — A2/14 (Prüfungstraining, solo mock exam) next. See `MEMORY.md` for the resume instructions.

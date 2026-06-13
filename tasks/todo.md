@@ -57,7 +57,7 @@ Reference lessons (gold standard): `A1/01-erste-kontakte/`, `A1/03-essen-und-tri
 - [x] `A2/10-stadt-land-reisen` — Stadt, Land, Reisen
 - [x] `A2/11-geben-und-schenken` — Geben und schenken
 - [x] `A2/12-plaene-und-zukunft` — Pläne und Zukunft
-- [ ] `A2/13-menschen-beschreiben` — Menschen beschreiben (lesson.md drafted, needs exercises + solutions + audio)
+- [x] `A2/13-menschen-beschreiben` — Menschen beschreiben
 - [ ] `A2/14-pruefungstraining-a2` — Wiederholung & Prüfungstraining A2 ⚠️ mock exam, do solo & last
 
 ## B1 (14 topics)
@@ -130,3 +130,6 @@ Reference lessons (gold standard): `A1/01-erste-kontakte/`, `A1/03-essen-und-tri
 - 2026-06-13 · A2/10, A2/11, A2/12 shipped. A2/13 lesson.md drafted (410
   lines, all 7 sections) but exercises.md + solutions.md + audio are still
   to be done in the next session. See `MEMORY.md` for the full handoff.
+- 2026-06-13 · A2/13 Menschen beschreiben completed (30 exercises, ~191 items,
+  audio generated). MEMORY.md updated with one-lesson-at-a-time rule and
+  per-lesson checklist system. A2/14 Prüfungstraining is next (solo mock exam).
