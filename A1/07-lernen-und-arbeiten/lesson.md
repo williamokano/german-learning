@@ -150,6 +150,8 @@ as a **chunk**.
 | verdienen | to earn | regular |
 | erklären | to explain | regular |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -189,6 +191,21 @@ English: "must not" vs. "don't have to"). **`musst nicht` = needn't; `darfst nic
 ⚠️ **`wollen`** looks like English "will" but means **want**, not future.
 *Ich will Arzt werden.* = I want to become a doctor. *(not: I will become…)*
 
+> 📌 **Merkasten — Modal verbs `müssen`, `wollen`, `dürfen`**
+>
+> | | müssen | wollen | dürfen |
+> |---|---|---|---|
+> | ich | muss | will | darf |
+> | du | musst | willst | darfst |
+> | er/sie/es | muss | will | darf |
+> | wir | müssen | wollen | dürfen |
+> | ihr | müsst | wollt | dürft |
+> | sie/Sie | müssen | wollen | dürfen |
+>
+> Key meanings: **müssen** = must/have to · **wollen** = want to · **dürfen** = may/be allowed to
+>
+> ▶ 1st and 3rd person singular are always identical for all modal verbs: `ich muss = er muss`, `ich will = sie will`, `ich darf = es darf`.
+
 ### 4.2 The Satzklammer (verb bracket) — full picture
 
 You saw the bracket with separable verbs (L5) and with `können` (L6). With modals the
@@ -220,6 +237,20 @@ as one word (it re-combines there):
 
 > Ich will mich heute noch **anmelden**. (melde an → anmelden)
 > Du musst das Meeting **vorbereiten**. (bereite vor → vorbereiten)
+
+> 📌 **Merkasten — The Satzklammer (verb bracket)**
+>
+> | Sentence type | Position 2 | … middle … | End |
+> |---|---|---|---|
+> | Modal verb | `[modal]` | (rest of sentence) | `[infinitive]` |
+> | Separable verb | `[verb stem]` | (rest of sentence) | `[prefix]` |
+>
+> Examples:
+>
+> - Modal: *Ich **muss** heute **arbeiten**.* — `muss` at position 2, `arbeiten` at the end.
+> - Separable: *Sie **fängt** um halb acht **an**.* — stem `fängt` at position 2, prefix `an` at the end.
+>
+> ▶ The two parts of the verb always form a bracket around the middle of the sentence — the main verb element is always at position 2, and its partner (infinitive or prefix) is always at the very end.
 
 ### 4.3 Pronunciation — new sounds in this lesson
 
