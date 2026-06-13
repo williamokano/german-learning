@@ -34,6 +34,15 @@ Gap answers in order: **Berlin · 27 · Medizin · blonde · freundlich · Zeit*
 
 *Not needed: mag · Physik · 30 · lustig.*
 
+## H4 — Kurze Ansage
+
+1. **b) Sie kommt ein bisschen später als geplant.** — Anna: „Ich komme leider ein bisschen später zum Bahnhof."
+2. **c) Annas Bruder Sergej.** — Anna: „Kannst du bitte meinen Bruder Sergej abholen?"
+3. **b) Groß, schlank, kurze dunkle Haare, rote Jacke.** — Anna: „Er ist … groß und schlank … kurze dunkle Haare … eine rote Jacke."
+4. **b) Er soll Anna anrufen.** — Anna: „Bitte ruf mich zurück, wenn du ihn gefunden hast!"
+
+⚠️ Q3 is a "complete picture" item — students must hold all four details simultaneously while listening. If they miss one, they may pick (c). Tip: make a quick mental note of build → hair → clothing as you listen.
+
 ---
 
 # Block A

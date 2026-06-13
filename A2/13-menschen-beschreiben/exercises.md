@@ -60,6 +60,44 @@ Listen and fill in the 6 missing words. **Three words in the box are not needed.
 > Augen, die sehr (5) ______ aussehen. Sie ist genau die Freundin, die
 > immer (6) ______ für mich hat.
 
+## Übung H4 — Kurze Ansage: Wer soll ich abholen?
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the voice message. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Warum ruft Anna an?
+   a) Sie kann Bruno nicht vom Bahnhof abholen.
+   b) Sie kommt ein bisschen später als geplant.
+   c) Sie hat Brunos Bruder am Bahnhof getroffen.
+
+2. Wen soll Bruno abholen?
+   a) Einen Kollegen von Anna.
+   b) Annas Freund Marko.
+   c) Annas Bruder Sergej.
+
+3. Welche Beschreibung passt zu Sergej?
+   a) Klein, kräftig, lange blonde Haare, blaue Jacke.
+   b) Groß, schlank, kurze dunkle Haare, rote Jacke.
+   c) Mittelgroß, braune Haare, schwarze Jacke.
+
+4. Was soll Bruno tun, wenn er Sergej gefunden hat?
+   a) Er soll Anna eine SMS schreiben.
+   b) Er soll Anna anrufen.
+   c) Er soll am Ausgang warten.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Hallo Bruno, hier ist Anna. Ich komme leider ein bisschen später zum Bahnhof. Kannst du bitte meinen Bruder Sergej abholen? Er ist 28 Jahre alt, groß und schlank und hat kurze dunkle Haare. Er trägt heute eine rote Jacke und eine schwarze Tasche. Bitte ruf mich zurück, wenn du ihn gefunden hast! Bis später!
+
+</details>
+
 ---
 
 # Block A — Basistraining

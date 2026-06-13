@@ -240,17 +240,17 @@ Open with the block overview table + advice to spread blocks over several days
 
 ### Block H — Hören (comes FIRST, before Block A; not counted in 28–32 target)
 
-Block H contains **up to three exercise types**, mixed as fits the lesson:
+Block H contains **four exercise types** (H1, H3, H4 every lesson; H2 A1/01–04 only):
 
 **H1 — Dialog Hör-Check** (every lesson)
 One exercise per dialog clip. If the lesson has `dialog1_a` + `dialog1_b`,
 write one H1a and one H1b exercise, or combine into one exercise with labeled
-sub-parts. Each exercise: 2–4 comprehension items (Richtig/Falsch or
+sub-parts. Each exercise: 3–5 comprehension items (Richtig/Falsch or
 single-choice). Students listen to the MP3, then answer.
 
 Example format:
 ```
-### H1 — Dialog Hör-Check
+## Übung H1a — Dialog Hör-Check: Dialog A (informell)
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
@@ -267,6 +267,63 @@ Match-the-sound or circle-the-word exercises anchored on the `Hör zu` clips.
 Students listen to `hoertext.mp3` and fill 5–8 gaps from a small word bank
 (correct words + 2–3 distractors). The gap text is the Hörtext with key
 content words blanked out.
+
+**H4 — Kurze Ansage** (every lesson from A1 onwards)
+A short audio clip (4–6 sentences) in a realistic context — voicemail,
+phone message, PA announcement, radio news snippet, recorded notice. Students
+listen and answer 3–4 single-choice or Richtig/Falsch comprehension questions.
+The format tests "extract specific information" — the skill the telc/Goethe
+Hören Teil 1 exams directly test.
+
+*Content rules:* the Ansage must be a different context from both Dialog and
+Hörtext. Good contexts: voicemail, phone message, answerphone, PA announcement,
+shop/store ad, radio programme clip. Keep it short — learners should be able to
+answer all questions after one listen (maximum two).
+
+*Audio production:* the transcript lives in exercises.md (not lesson.md) inside
+a `<details>` spoiler. Use the `**Ansage 1 — Transcript**` marker so the audio
+generator detects it and produces `transcript_ansage1.mp3`. Because the
+generator patches the file by inserting a `🎧` link above the `**Ansage N —
+Transcript**` header, you MUST pre-write a `🎧` link 2 lines before that header
+(inside the spoiler) AND a matching `🎧` link at the very top of H4 (before the
+questions) so the student can find the player. The two links must point to the
+same filename (`transcript_ansage1.mp3`). This also suppresses the generator
+from trying to patch again (it checks 3 lines back for an existing `🎧`).
+
+To trigger the correct audio post-effect (phone filter = highpass/lowpass
+telephone sound), include "Bitte ruf mich zurück" or "Anrufbeantworter" in the
+voicemail text. For PA announcements include "Achtung, eine Durchsage".
+
+Example H4 structure (copy exactly — whitespace matters for the generator):
+
+```markdown
+## Übung H4 — Kurze Ansage: [short title]
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the voice message. Then choose the correct answer (a, b, or c).
+
+1. Warum ruft [X] an?
+   a) ...   b) ...   c) ...
+
+2. ...
+
+3. ...
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> [The 4–6 sentence transcript. Include "Bitte ruf mich zurück" for phone filter.]
+
+</details>
+```
+
+After writing H4, run: `python3 scripts/generate_audio.py <lesson>/exercises.md`
+(separate from the lesson.md run — exercises.md audio is generated independently).
 
 ### Block A — Basistraining (10–12 exercises)
 
@@ -330,15 +387,18 @@ scoring grid, and a detailed answer key. Do these solo, not in a parallel batch.
 - [ ] Recurring characters match their persona files (origin, name, voice)
 - [ ] Block H present in exercises.md and solutions.md
   - [ ] H1 Dialog Hör-Check: one sub-exercise per dialog clip (1_a / 1_b if split)
-  - [ ] H3 Hörtext-Lückentext: 5–8 gaps, word bank with 2–3 distractors
   - [ ] H2 Aussprache-Check: A1/01–04 only
+  - [ ] H3 Hörtext-Lückentext: 5–8 gaps, word bank with 2–3 distractors
+  - [ ] H4 Kurze Ansage: 3–4 MC/R-F questions, `**Ansage 1 — Transcript**` in `<details>`,
+        pre-written `🎧` link both at exercise top AND 2 lines before transcript header
 - [ ] Tier 1 only (A1/01–04): `### 🔊 Aussprache` with `Hör zu` lines in Wortschatz
 - [ ] Tier 3 (all lessons): `## 6. Hörtext` with `<details>` spoiler, 4–6 sentences
   - [ ] Hörtext scene is DIFFERENT from the Lesetext scene
   - [ ] Named characters' cities/facts verified against `personas/`
 - [ ] All `> **Speaker:** Text` dialog lines end with two trailing spaces (`  `)
 - [ ] Multi-dialog sections use `### Dialog A:` / `### Dialog B:` sub-headers
-- [ ] Audio generated: run `python3 scripts/generate_audio.py lesson.md exercises.md`
+- [ ] Audio generated: run `python3 scripts/generate_audio.py lesson.md` THEN
+      `python3 scripts/generate_audio.py exercises.md` (H4 Ansage is in exercises.md)
 - [ ] Exercise count ≥28, item count ≥180 (Block H not counted)
 - [ ] Every exercise has a solution; numbering matches exactly
 - [ ] C3 word bank verified: each word fits exactly one gap; 5 distractors present
