@@ -27,24 +27,24 @@ Listen to Dialog A and decide: **Richtig (R)** oder **Falsch (F)**?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Wie lange wohnt Klaus schon im Haus?
-   a) Seit drei Wochen.
-   b) Seit einer Woche.
+1. Wie lange wohnt Klaus schon im Haus?  
+   a) Seit drei Wochen.  
+   b) Seit einer Woche.  
    c) Seit einem Monat.
 
-2. Was ist Klaus von Beruf?
-   a) Er ist Lehrer.
-   b) Er ist Arzt.
+2. Was ist Klaus von Beruf?  
+   a) Er ist Lehrer.  
+   b) Er ist Arzt.  
    c) Er ist Architekt.
 
-3. Woher kommt Klaus' Frau?
-   a) Aus Berlin.
-   b) Aus Wien.
+3. Woher kommt Klaus' Frau?  
+   a) Aus Berlin.  
+   b) Aus Wien.  
    c) Aus Hamburg.
 
-4. Was sagt Frau Weber am Ende des Gesprächs?
-   a) Sie möchte die Familie nicht kennenlernen.
-   b) Sie freut sich auf eine gute Nachbarschaft.
+4. Was sagt Frau Weber am Ende des Gesprächs?  
+   a) Sie möchte die Familie nicht kennenlernen.  
+   b) Sie freut sich auf eine gute Nachbarschaft.  
    c) Sie findet die Familie nicht sympathisch.
 
 ## Übung H3 — Hörtext-Lückentext
@@ -67,24 +67,24 @@ Listen and fill in the 6 missing words. **Three words in the box are not needed.
 Listen to the voice message. Then choose the correct answer (a, b, or c).
 Listen **once** before reading the transcript below.
 
-1. Warum ruft Anna an?
-   a) Sie kann Bruno nicht vom Bahnhof abholen.
-   b) Sie kommt ein bisschen später als geplant.
+1. Warum ruft Anna an?  
+   a) Sie kann Bruno nicht vom Bahnhof abholen.  
+   b) Sie kommt ein bisschen später als geplant.  
    c) Sie hat Brunos Bruder am Bahnhof getroffen.
 
-2. Wen soll Bruno abholen?
-   a) Einen Kollegen von Anna.
-   b) Annas Freund Marko.
+2. Wen soll Bruno abholen?  
+   a) Einen Kollegen von Anna.  
+   b) Annas Freund Marko.  
    c) Annas Bruder Sergej.
 
-3. Welche Beschreibung passt zu Sergej?
-   a) Klein, kräftig, lange blonde Haare, blaue Jacke.
-   b) Groß, schlank, kurze dunkle Haare, rote Jacke.
+3. Welche Beschreibung passt zu Sergej?  
+   a) Klein, kräftig, lange blonde Haare, blaue Jacke.  
+   b) Groß, schlank, kurze dunkle Haare, rote Jacke.  
    c) Mittelgroß, braune Haare, schwarze Jacke.
 
-4. Was soll Bruno tun, wenn er Sergej gefunden hat?
-   a) Er soll Anna eine SMS schreiben.
-   b) Er soll Anna anrufen.
+4. Was soll Bruno tun, wenn er Sergej gefunden hat?  
+   a) Er soll Anna eine SMS schreiben.  
+   b) Er soll Anna anrufen.  
    c) Er soll am Ausgang warten.
 
 <details>
@@ -447,17 +447,19 @@ Read the letter and choose the correct answer (a, b, or c).
 > kommt. Ich freue mich schon sehr darauf.
 > Viele Grüße, Anna
 
-6. Woher kommt Laura?
-   a) Aus Berlin.  b) Aus Stuttgart.  c) Aus Hamburg.
+6. Woher kommt Laura?  
+   a) Aus Berlin.  
+   b) Aus Stuttgart.  
+   c) Aus Hamburg.
 
-7. Was macht Laura in ihrer Freizeit?
-   a) Sie geht gern ins Kino.
-   b) Sie liest viele Bücher.
+7. Was macht Laura in ihrer Freizeit?  
+   a) Sie geht gern ins Kino.  
+   b) Sie liest viele Bücher.  
    c) Sie malt Bilder und macht Musik.
 
-8. Was wird nächsten Monat passieren?
-   a) Anna zieht in eine neue Wohnung.
-   b) Lauras Mutter kommt zu Besuch.
+8. Was wird nächsten Monat passieren?  
+   a) Anna zieht in eine neue Wohnung.  
+   b) Lauras Mutter kommt zu Besuch.  
    c) Laura fährt nach Stuttgart.
 
 ## Übung C5 — Schreiben

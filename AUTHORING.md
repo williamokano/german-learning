@@ -96,6 +96,26 @@ Additional characters: see `personas/` for Familie Yilmaz, Herr Wegner, etc.
 Include a short **pronunciation section** inside `## 4. Grammatik` for A1–A2
 lessons (new sounds/letters that appear in this lesson's vocabulary).
 
+### Multiple-choice option formatting
+
+In CommonMark, lines indented under a numbered list item merge into one
+paragraph unless each line ends with **two trailing spaces** (`  `). This
+affects every multiple-choice exercise (H1b, H4, C2, C4, D4):
+
+```markdown
+1. Warum ruft Anna an?  
+   a) Sie kann Bruno nicht abholen.  
+   b) Sie kommt ein bisschen später.  
+   c) Sie sucht einen Kollegen.
+```
+
+**Rule:** add `  ` (two trailing spaces) after the question line and after
+every option line **except the last one** (`c)` or the final option in the
+group), which is already followed by a blank line.
+
+This applies to **every** MC exercise in exercises.md. Without the trailing
+spaces, options `a)` and `b)` run on as a single paragraph.
+
 ### Dialog formatting rules
 
 Every `> **Speaker:** Text` line **must end with two trailing spaces** (`  `)
