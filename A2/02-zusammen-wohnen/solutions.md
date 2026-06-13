@@ -314,7 +314,7 @@ Mein Zimmer ist nicht groß, aber gemütlich. Das Bett steht an der Wand neben d
 9. **AN** — an die Wand (Wohin? + Akkusativ)
 10. **NEBEN** — neben dem Fenster (Wo? + Dativ)
 
-*Not needed: LIEGT · LEGT · STELLT · DER · ÜBER*
+*Not needed: LIEGT · LEGT · STELLT · DER · ÜBER · HINTER · STEHEN · DEM · AUS · LEGEN*
 
 ## C4 — Lesen
 

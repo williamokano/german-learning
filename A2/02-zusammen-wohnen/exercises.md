@@ -344,6 +344,8 @@ These sentences all have case errors with Wechselpräpositionen. Correct them.
 
 ## Übung B10 — Mini-Aufsatz: Mein Zimmer
 
+**Situation:** You are moving into a WG next week. Your new flatmate has asked you to describe your room so they know where to help you place the furniture. Write them a short message describing where everything will go and where it is currently standing/lying/hanging.
+
 Describe your own room (real or imaginary) in 5–6 sentences. Use `stehen`, `liegen`, `hängen` and at least four different Wechselpräpositionen with the correct case.
 
 ______________________
@@ -352,6 +354,11 @@ ______________________
 ______________________
 ______________________
 ______________________
+
+**Self-check before moving on:**
+- [ ] Did I use the correct Wechselpräposition case — **Dativ** after state verbs (stehen/liegen/hängen) and **Akkusativ** after action verbs (stellen/legen/hängen)?
+- [ ] Did I choose **stellen/stehen** for upright objects and **legen/liegen** for flat/horizontal objects?
+- [ ] Did I use contractions where required (ins, im, ans, am)?
 
 ---
 
@@ -391,11 +398,12 @@ zufrieden!"
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
+Fill the 10 gaps using words from the box. **Ten words are not needed.**
 Each word may be used once.
 
 > AN · AUF · LIEGT · STEHT · HÄNGT · INS · IM · VOR · NEBEN · ÜBER ·
-> STELLT · LEGT · ZWISCHEN · UNTER · DER
+> STELLT · LEGT · ZWISCHEN · UNTER · DER ·
+> HINTER · STEHEN · DEM · AUS · LEGEN
 
 — Wie sieht dein Zimmer aus?  
 — Also, das Bett (1) ______ an der Wand. (2) ______ dem Bett liegen zwei

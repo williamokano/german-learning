@@ -180,6 +180,8 @@
 | aufräumen | to tidy up | hat aufgeräumt |
 | hängen bleiben | to get stuck | ist hängen geblieben |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -248,6 +250,15 @@ Common contractions you must know:
 | neben | neben dem Fenster / neben der Lampe | neben das Fenster / neben die Lampe |
 | zwischen | zwischen dem Regal und dem Tisch | zwischen das Regal und den Tisch |
 
+> 📌 **Merkasten — Wechselpräpositionen**
+> | Frage | Kasus | Beispiel |
+> |---|---|---|
+> | Wo? (location) | **Dativ** | Das Buch liegt **auf dem** Tisch. |
+> | Wohin? (direction) | **Akkusativ** | Ich lege das Buch **auf den** Tisch. |
+>
+> Die neun Wechselpräpositionen: **in · an · auf · über · unter · vor · hinter · neben · zwischen**
+> Kontraktionen: in + das = **ins**, in + dem = **im**, an + das = **ans**, an + dem = **am**
+
 ### 4.6 stellen / stehen · legen / liegen · hängen
 
 These verbs come in pairs: one for **putting** (action, Wohin? + Akk) and one for **being** (state, Wo? + Dat).
@@ -279,6 +290,13 @@ These verbs come in pairs: one for **putting** (action, Wohin? + Akk) and one fo
 - *Das Bild hängt an **der** Wand.* (→ Dat = state)
 
 The participle also differs: **gehängt** (action, weak) vs. **gehangen** (state, strong).
+
+> 📌 **Merkasten — stellen/stehen · legen/liegen · hängen**
+> | Aktion (Wohin? + Akk) | Zustand (Wo? + Dat) | Orientierung |
+> |---|---|---|
+> | **stellen** | **stehen** | aufrecht (upright) |
+> | **legen** | **liegen** | flach (flat/horizontal) |
+> | **hängen** (schwach, gehängt) | **hängen** (stark, gehangen) | hängend (suspended) |
 
 ### 4.7 Pronunciation: ü, ö, and the -ch sound
 
