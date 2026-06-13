@@ -17,19 +17,16 @@
 ### Dialog A: Informell — Schüler unter sich
 
 > **Bruno:** Anna, ist das deine Familie auf dem Foto?  
-> **Anna:** Ja! Das sind meine Eltern. Mein Vater heißt Georg und meine Mutter  
-> heißt Claudia.
+> **Anna:** Ja! Das sind meine Eltern. Mein Vater heißt Georg und meine Mutter heißt Claudia.  
 > **Bruno:** Hast du Geschwister?  
 > **Anna:** Ja, ich habe einen Bruder und eine Schwester.*  
 > **Bruno:** Wie heißen sie?  
-> **Anna:** Mein Bruder heißt Felix, er ist zweiundzwanzig Jahre alt. Meine  
-> Schwester Lena ist siebzehn.
+> **Anna:** Mein Bruder heißt Felix, er ist zweiundzwanzig Jahre alt. Meine Schwester Lena ist siebzehn.  
 > **Bruno:** Und wer ist das?  
 > **Anna:** Das ist meine Oma Erika. Sie ist dreiundachtzig und sehr fit!  
 > **Bruno:** Toll! Bist du verheiratet, Anna?  
 > **Anna:** Nein, ich bin nicht verheiratet. Ich bin ledig. Und du?  
-> **Bruno:** Ich bin verheiratet. Meine Frau heißt Paula. Wir haben ein Kind,  
-> eine Tochter. Sie heißt Sofia und ist vier Jahre alt.
+> **Bruno:** Ich bin verheiratet. Meine Frau heißt Paula. Wir haben ein Kind, eine Tochter. Sie heißt Sofia und ist vier Jahre alt.  
 
 \* **Chunk alert:** after `haben` you say `einen Bruder` (not *ein Bruder*) and
 `eine Schwester`. This is the accusative case — fully explained in **Lektion 3**.
@@ -42,8 +39,12 @@ Kind.*
 
 > **Frau Weber:** Herr Steinmeyer, haben Sie Kinder?  
 > **Herr Steinmeyer:** Ja, ich habe eine Tochter. Sie ist sechs Jahre alt.  
-> *(Some chunks below)*
-> **Herr Steinmeyer:** Meine Frau kommt auch aus Österreich, aus Salzburg.  
+> **Frau Weber:** Wie heißt sie?  
+> **Herr Steinmeyer:** Sie heißt Sofia. Und Ihre Familie, Frau Weber — haben Sie auch Kinder?  
+> **Frau Weber:** Ja, ich habe zwei Söhne. Sie sind siebzehn und zwanzig.  
+> **Herr Steinmeyer:** Sind Sie verheiratet, Frau Weber?  
+> **Frau Weber:** Nein, ich bin geschieden. Und Sie?  
+> **Herr Steinmeyer:** Ich bin verheiratet. Meine Frau kommt auch aus Österreich, aus Salzburg.  
 
 ---
 
@@ -236,18 +237,18 @@ Answers: **Ja, …** / **Nein, …**
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
 ## 6. Hörtext
 
-> Das ist Familie Bergmann. Der Vater heißt Thomas. Er kommt aus
-> Deutschland, aus München. Die Mutter heißt Anna. Sie kommt aus
-> Österreich, aus Wien. Sie haben zwei Kinder: einen Sohn und eine
-> Tochter. Der Sohn heißt Max — er ist zwanzig Jahre alt und ledig. Die
-> Tochter heißt Lisa — sie ist verheiratet und hat ein Kind. Die
-> Großmutter heißt Eva und wohnt auch in München.
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
-*(You'll listen to this text in Block H, Übung H3.)*
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+> Das ist Familie Bergmann. Der Vater heißt Thomas. Er kommt aus Deutschland, aus München. Die Mutter heißt Maria. Sie kommt aus Österreich, aus Wien. Sie haben zwei Kinder: einen Sohn und eine Tochter. Der Sohn heißt Max — er ist zwanzig Jahre alt und ledig. Die Tochter heißt Lisa — sie ist verheiratet und hat ein Kind. Die Großmutter heißt Eva und wohnt auch in München.
+
+</details>
 
 ---
 

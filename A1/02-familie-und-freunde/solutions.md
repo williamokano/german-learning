@@ -4,33 +4,44 @@
 
 # Block H — Hören
 
-## Übung H1 — Aussprache-Check
+## Übung H1 — Dialog Hör-Check
+
+### H1a — Dialog A
+
+1. **R** — Bruno fragt: „Anna, ist das deine Familie auf dem Foto?" — Anna zeigt ihm das Foto.
+2. **R** — Anna sagt: „Das sind meine Eltern" — die Eltern sind auf dem Foto.
+3. **F** — Annas Schwester heißt **Lena**; Claudia ist die **Mutter**.
+4. **R** — Anna sagt: „Das ist meine Oma Erika. Sie ist dreiundachtzig."
+
+### H1b — Dialog B
+
+5. **F** — Herr Steinmeyer hat **eine** Tochter, nicht zwei Kinder.
+6. **R** — Herr Steinmeyer sagt: „Sie heißt Sofia."
+7. **F** — Frau Weber ist **geschieden**, nicht verheiratet.
+8. **R** — Herr Steinmeyer sagt: „Meine Frau kommt auch aus Österreich, aus Salzburg."
+
+## Übung H2 — Aussprache-Check
 
 1. **b) der Großvater** — the father of your mother = your mother's father = der Großvater.
 2. **a) die Tante** — Mutter's sister = die Tante (not die Schwester, which is *your* sister).
-3. **b) sechzig** — fünfzig → **sechzig** → siebzig (the regular tens pattern; only dreißig/s sechzig/siebzig have spelling quirks).
+3. **b) sechzig** — fünfzig → **sechzig** → siebzig (the regular tens pattern; only dreißig/sechzig/siebzig have spelling quirks).
 4. **b) 70** — siebzig = 70 (no "-en" ending, the ⚠️ spelling from §3).
 5. **a) mein** — ich → **mein** (the "I" form of the possessive).
 
-## Übung H2 — Dialog: Das Familienfoto
-
-1. **R** — Bruno fragt: „Anna, ist das deine Familie auf dem Foto?" — Anna zeigt ihm das Foto.
-2. **R** — Anna sagt: „ich habe einen Bruder" — der Bruder (Felix) ist auf dem Foto.
-3. **F** — Annas Schwester heißt **Lena**; Claudia ist die **Mutter**.
-4. **F** — Im Dialog steht nicht, wo Annas Eltern wohnen — Anna selbst wohnt in Berlin (L1), nicht die Eltern.
-
 ## Übung H3 — Hörtext-Lückentext
+
+Correct answers (in gap order): **Bergmann · Thomas · München · zwanzig · verheiratet · Eva**
 
 Complete Hörtext:
 
 > Das ist Familie **Bergmann**. Der Vater heißt **Thomas**. Er kommt aus
-> Deutschland, aus **München**. Die Mutter heißt Anna. Sie kommt aus
+> Deutschland, aus **München**. Die Mutter heißt Maria. Sie kommt aus
 > Österreich, aus Wien. Sie haben zwei Kinder: einen Sohn und eine
 > Tochter. Der Sohn heißt Max — er ist **zwanzig** Jahre alt und ledig.
 > Die Tochter heißt Lisa — sie ist **verheiratet** und hat ein Kind. Die
 > Großmutter heißt **Eva** und wohnt auch in München.
 
-Word bank in gap order: Bergmann · Thomas · München · zwanzig · verheiratet · Eva.
+Distractors not needed: Helmut · Leipzig · zwölf.
 
 ---
 

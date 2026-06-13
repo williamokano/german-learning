@@ -8,7 +8,31 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 # Block H — Hören
 
-## Übung H1 — Aussprache-Check
+## Übung H1 — Dialog Hör-Check
+
+### H1a — Dialog A (informell)
+
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+
+1. Anna zeigt Bruno ein Foto. ( )
+2. Auf dem Foto sind Annas Eltern. ( )
+3. Annas Schwester heißt Claudia. ( )
+4. Annas Oma ist dreiundachtzig Jahre alt. ( )
+
+### H1b — Dialog B (formell)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+
+5. Herr Steinmeyer hat zwei Kinder. ( )
+6. Seine Tochter heißt Sofia. ( )
+7. Frau Weber ist verheiratet. ( )
+8. Herr Steinmeyers Frau kommt aus Salzburg. ( )
+
+## Übung H2 — Aussprache-Check
 
 Listen to the **Hör zu** clips in `lesson.md` (Wortschatz → 🔊 Aussprache)
 and pick the matching answer.
@@ -24,31 +48,20 @@ and pick the matching answer.
 5. Hör zu 3 (Possessivpronomen) — which word means "my"?
    a) mein  b) dein  c) sein
 
-## Übung H2 — Dialog: Das Familienfoto
-
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
-
-Listen and decide: richtig (R) oder falsch (F)?
-
-1. Anna zeigt Bruno ein Foto. ( )
-2. Auf dem Foto ist Annas Bruder. ( )
-3. Annas Schwester heißt Claudia. ( )
-4. Annas Eltern wohnen in Berlin. ( )
-
 ## Übung H3 — Hörtext-Lückentext
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Höre den Text und fülle die Lücken.
+Höre den Text und fülle die Lücken. **Fünf Wörter passen nicht.**
 
 > Das ist Familie _______. Der Vater heißt _______. Er kommt aus
-> Deutschland, aus _______. Die Mutter heißt Anna. Sie kommt aus
+> Deutschland, aus _______. Die Mutter heißt Maria. Sie kommt aus
 > Österreich, aus Wien. Sie haben zwei Kinder: einen Sohn und eine
 > Tochter. Der Sohn heißt Max — er ist _______ Jahre alt und ledig. Die
 > Tochter heißt Lisa — sie ist _______ und hat ein Kind. Die
 > Großmutter heißt _______ und wohnt auch in München.
 
-> (Thomas · München · zwanzig · verheiratet · Eva · Bergmann)
+Wortbank: **Bergmann · Eva · Helmut · München · Thomas · verheiratet · Leipzig · zwanzig · zwölf**
 
 ---
 
