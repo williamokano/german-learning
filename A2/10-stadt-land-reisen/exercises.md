@@ -55,6 +55,44 @@ Listen and fill in the 6 missing words. **Three words in the box are not needed.
 > konnte man weit (6) ______ Tal sehen. Am Abend ist Yuki mit dem Zug
 > zurück nach München gefahren.
 
+## Übung H4 — Kurze Ansage: Durchsage am Flughafen
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the announcement. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Welcher Flug hat Verspätung?  
+   a) LH 401 von Berlin nach München.  
+   b) LH 401 von Berlin nach Lissabon.  
+   c) LH 410 von Berlin nach Wien.
+
+2. Wie viel Verspätung hat der Flug?  
+   a) Eine Stunde.  
+   b) Zwei Stunden.  
+   c) Drei Stunden.
+
+3. Wann ist der neue Abflug?  
+   a) Um vierzehn Uhr dreißig.  
+   b) Um fünfzehn Uhr dreißig.  
+   c) Um sechzehn Uhr dreißig.
+
+4. An welchem Gate sollen die Passagiere sein?  
+   a) Gate B 14.  
+   b) Gate B 17.  
+   c) Gate B 41.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage. Der Flug LH 401 von Berlin nach Lissabon hat eine Verspätung von zwei Stunden. Der neue Abflug ist um sechzehn Uhr dreißig, nicht wie geplant um vierzehn Uhr dreißig. Passagiere dieses Fluges finden Sie am Gate B 17. Wir bitten Sie, zum Gate zu gehen, sobald Sie die Boarding-Karten haben. Vielen Dank für Ihre Aufmerksamkeit.
+
+</details>
+
 ---
 
 # Block A — Basistraining

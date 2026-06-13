@@ -36,6 +36,13 @@ Complete Hörtext:
 Word bank in gap order: **nach · am · vom · auf · über · ins**.
 *Not needed: in · zu · aus.*
 
+## H4 — Kurze Ansage: Durchsage am Flughafen
+
+1. **b) LH 401 von Berlin nach Lissabon** — „Der Flug LH 401 von Berlin nach Lissabon hat eine Verspätung."
+2. **b) Zwei Stunden** — „hat eine Verspätung von zwei Stunden."
+3. **c) Um sechzehn Uhr dreißig** — „Der neue Abflug ist um sechzehn Uhr dreißig, nicht wie geplant um vierzehn Uhr dreißig."
+4. **b) Gate B 17** — „Passagiere dieses Fluges finden Sie am Gate B 17."
+
 ---
 
 # Block A
