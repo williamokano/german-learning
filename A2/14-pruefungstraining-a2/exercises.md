@@ -35,6 +35,17 @@ mark R (richtig) / F (falsch).
 
 🎧 **Audio:** [aufgabe1_gespraech1.mp3](audio/aufgabe1_gespraech1.mp3)
 
+**Frage 1:** Wann treffen sich Anna und Bruno?
+
+a) Um 19:00 Uhr  
+b) Um 19:30 Uhr  
+c) Um 20:00 Uhr  
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe1_gespraech1.mp3](audio/aufgabe1_gespraech1.mp3)
+
 **Gespräch 1 — Transcript**
 
 > **Bruno:** Hey Anna, wann treffen wir uns morgen für den Film?  
@@ -43,15 +54,22 @@ mark R (richtig) / F (falsch).
 > **Anna:** Ja, das ist gut. Also um halb acht vor dem Kino.  
 > **Bruno:** Perfekt!  
 
-**Frage 1:** Wann treffen sich Anna und Bruno?
-
-a) Um 19:00 Uhr  
-b) Um 19:30 Uhr  
-c) Um 20:00 Uhr  
+</details>
 
 ---
 
 🎧 **Audio:** [aufgabe1_gespraech2.mp3](audio/aufgabe1_gespraech2.mp3)
+
+**Frage 2:** Was kostet das Zimmer pro Nacht?
+
+a) 75 Euro  
+b) 85 Euro  
+c) 95 Euro  
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe1_gespraech2.mp3](audio/aufgabe1_gespraech2.mp3)
 
 **Gespräch 2 — Transcript**
 
@@ -62,15 +80,22 @@ c) Um 20:00 Uhr
 > **Rezeptionistin:** Ein Einzelzimmer kostet 85 Euro pro Nacht, mit Frühstück.  
 > **Gast:** Sehr gut, das nehme ich.  
 
-**Frage 2:** Was kostet das Zimmer pro Nacht?
-
-a) 75 Euro  
-b) 85 Euro  
-c) 95 Euro  
+</details>
 
 ---
 
 🎧 **Audio:** [aufgabe1_gespraech3.mp3](audio/aufgabe1_gespraech3.mp3)
+
+**Frage 3:** Wie oft soll Yuki die Tabletten nehmen?
+
+a) Einmal täglich  
+b) Dreimal täglich  
+c) Zweimal täglich  
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe1_gespraech3.mp3](audio/aufgabe1_gespraech3.mp3)
 
 **Gespräch 3 — Transcript**
 
@@ -81,15 +106,22 @@ c) 95 Euro
 > **Apothekerin:** Dann empfehle ich Ihnen diese Tabletten. Nehmen Sie zweimal täglich eine Tablette — morgens und abends.  
 > **Yuki:** Danke schön.  
 
-**Frage 3:** Wie oft soll Yuki die Tabletten nehmen?
-
-a) Einmal täglich  
-b) Dreimal täglich  
-c) Zweimal täglich  
+</details>
 
 ---
 
 🎧 **Audio:** [aufgabe1_gespraech4.mp3](audio/aufgabe1_gespraech4.mp3)
+
+**Frage 4:** Was denkt Herr Steinmeyer über München?
+
+a) München ist schöner als Hamburg.  
+b) München ist teurer als Hamburg.  
+c) München hat mehr Museen als Hamburg.  
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe1_gespraech4.mp3](audio/aufgabe1_gespraech4.mp3)
 
 **Gespräch 4 — Transcript**
 
@@ -99,15 +131,22 @@ c) Zweimal täglich
 > **Herr Steinmeyer:** Das stimmt. Allerdings ist München deutlich teurer als Hamburg — das merkt man sofort.  
 > **Frau Weber:** Das höre ich oft, ja.  
 
-**Frage 4:** Was denkt Herr Steinmeyer über München?
-
-a) München ist schöner als Hamburg.  
-b) München ist teurer als Hamburg.  
-c) München hat mehr Museen als Hamburg.  
+</details>
 
 ---
 
 🎧 **Audio:** [aufgabe1_gespraech5.mp3](audio/aufgabe1_gespraech5.mp3)
+
+**Frage 5:** Was schenken Anna und Bruno Yuki?
+
+a) Ein Buch und eine Flasche Weißwein  
+b) Nur ein Buch  
+c) Ein Buch und eine Flasche Rotwein  
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe1_gespraech5.mp3](audio/aufgabe1_gespraech5.mp3)
 
 **Gespräch 5 — Transcript**
 
@@ -117,11 +156,7 @@ c) München hat mehr Museen als Hamburg.
 > **Bruno:** Perfekte Idee! Also ein Buch und eine Flasche italienischen Rotwein.  
 > **Anna:** Genau. Das wird ihr sicher gefallen.  
 
-**Frage 5:** Was schenken Anna und Bruno Yuki?
-
-a) Ein Buch und eine Flasche Weißwein  
-b) Nur ein Buch  
-c) Ein Buch und eine Flasche Rotwein  
+</details>
 
 ---
 
@@ -133,6 +168,19 @@ c) Ein Buch und eine Flasche Rotwein
 
 🎧 **Audio:** [aufgabe2.mp3](audio/aufgabe2.mp3)
 
+**Statements:**
+
+1. Marta wohnt seit drei Jahren in Berlin.  ( )
+2. Sie arbeitet als Ärztin.  ( )
+3. In ihrer Freizeit kocht Marta gern polnische Gerichte.  ( )
+4. Marta hat Deutsch schon perfekt gelernt.  ( )
+5. Marta möchte ihre Eltern im Sommer besuchen.  ( )
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe2.mp3](audio/aufgabe2.mp3)
+
 **Transcript:**
 
 > Mein Name ist Marta Kowalska. Ich komme aus Krakau in Polen und wohne seit zwei Jahren hier in Berlin. Ich bin Krankenpflegerin und arbeite in einem großen Krankenhaus im Zentrum. Mein Arbeitsalltag ist anstrengend, aber ich liebe meinen Beruf.
@@ -141,13 +189,7 @@ c) Ein Buch und eine Flasche Rotwein
 >
 > Nächsten Sommer möchte ich meine Eltern besuchen. Sie wohnen noch in Krakau. Ich freue mich schon sehr darauf!
 
-**Statements:**
-
-1. Marta wohnt seit drei Jahren in Berlin.  ( )
-2. Sie arbeitet als Ärztin.  ( )
-3. In ihrer Freizeit kocht Marta gern polnische Gerichte.  ( )
-4. Marta hat Deutsch schon perfekt gelernt.  ( )
-5. Marta möchte ihre Eltern im Sommer besuchen.  ( )
+</details>
 
 ---
 
@@ -159,23 +201,26 @@ c) Ein Buch und eine Flasche Rotwein
 
 🎧 **Audio:** [aufgabe3_ansage1.mp3](audio/aufgabe3_ansage1.mp3)
 
-**Ansage 1 — Transcript**
-
-> Achtung, eine Durchsage für alle Reisenden: Der ICE 523 nach München hat heute circa zwanzig Minuten Verspätung. Der Zug fährt jetzt um 14:52 Uhr ab — nicht wie geplant um 14:32 Uhr. Wir bitten um Ihr Verständnis.
-
 **Frage 1:** Wie viel Verspätung hat der Zug?
 
 a) 10 Minuten  
 b) 20 Minuten  
 c) 30 Minuten  
 
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe3_ansage1.mp3](audio/aufgabe3_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage für alle Reisenden: Der ICE 523 nach München hat heute circa zwanzig Minuten Verspätung. Der Zug fährt jetzt um 14:52 Uhr ab — nicht wie geplant um 14:32 Uhr. Wir bitten um Ihr Verständnis.
+
+</details>
+
 ---
 
 🎧 **Audio:** [aufgabe3_ansage2.mp3](audio/aufgabe3_ansage2.mp3)
-
-**Ansage 2 — Transcript**
-
-> Das Stadtmuseum informiert: Ab nächster Woche ist das Museum auch montags geöffnet. Die neuen Öffnungszeiten sind montags bis samstags von 9 bis 18 Uhr. Sonntags bleibt das Museum wie bisher geschlossen. Der Eintritt für Erwachsene beträgt 8 Euro.
 
 **Frage 2:** Wann hat das Museum ab nächster Woche geöffnet?
 
@@ -183,13 +228,20 @@ a) Täglich von 9 bis 18 Uhr
 b) Montags bis samstags von 9 bis 18 Uhr  
 c) Montags bis freitags von 9 bis 18 Uhr  
 
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe3_ansage2.mp3](audio/aufgabe3_ansage2.mp3)
+
+**Ansage 2 — Transcript**
+
+> Das Stadtmuseum informiert: Ab nächster Woche ist das Museum auch montags geöffnet. Die neuen Öffnungszeiten sind montags bis samstags von 9 bis 18 Uhr. Sonntags bleibt das Museum wie bisher geschlossen. Der Eintritt für Erwachsene beträgt 8 Euro.
+
+</details>
+
 ---
 
 🎧 **Audio:** [aufgabe3_ansage3.mp3](audio/aufgabe3_ansage3.mp3)
-
-**Ansage 3 — Transcript**
-
-> Im Supermarkt Frisch & Gut haben wir diese Woche tolle Angebote: Frische Äpfel — 500 Gramm für nur 89 Cent! Und frischen Lachs aus Norwegen — 100 Gramm für einen Euro neunundneunzig. Wir freuen uns auf Ihren Besuch!
 
 **Frage 3:** Was ist diese Woche im Angebot?
 
@@ -197,13 +249,20 @@ a) Orangen und Lachs
 b) Äpfel und Lachs  
 c) Äpfel und Käse  
 
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe3_ansage3.mp3](audio/aufgabe3_ansage3.mp3)
+
+**Ansage 3 — Transcript**
+
+> Im Supermarkt Frisch & Gut haben wir diese Woche tolle Angebote: Frische Äpfel — 500 Gramm für nur 89 Cent! Und frischen Lachs aus Norwegen — 100 Gramm für einen Euro neunundneunzig. Wir freuen uns auf Ihren Besuch!
+
+</details>
+
 ---
 
 🎧 **Audio:** [aufgabe3_ansage4.mp3](audio/aufgabe3_ansage4.mp3)
-
-**Ansage 4 — Transcript**
-
-> Guten Morgen, hier ist der Wetterbericht für morgen, Samstag: In Berlin und Brandenburg wird es am Vormittag bewölkt sein. Am Nachmittag kommt dann die Sonne heraus. Die Temperaturen liegen zwischen 18 und 24 Grad. Ein schöner Tag für Ausflüge!
 
 **Frage 4:** Wie wird das Wetter morgen Nachmittag?
 
@@ -211,19 +270,37 @@ a) Bewölkt und kalt
 b) Regnerisch  
 c) Sonnig  
 
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe3_ansage4.mp3](audio/aufgabe3_ansage4.mp3)
+
+**Ansage 4 — Transcript**
+
+> Guten Morgen, hier ist der Wetterbericht für morgen, Samstag: In Berlin und Brandenburg wird es am Vormittag bewölkt sein. Am Nachmittag kommt dann die Sonne heraus. Die Temperaturen liegen zwischen 18 und 24 Grad. Ein schöner Tag für Ausflüge!
+
+</details>
+
 ---
 
 🎧 **Audio:** [aufgabe3_ansage5.mp3](audio/aufgabe3_ansage5.mp3)
-
-**Ansage 5 — Transcript**
-
-> Das Sprachinstitut Lingua informiert: Ein neuer Deutschkurs auf dem Niveau A2 beginnt am 3. März. Der Kurs findet dienstags und donnerstags von 18 bis 20 Uhr statt. Bitte melden Sie sich bis zum 25. Februar per E-Mail an. Die Kursgebühr beträgt 150 Euro pro Monat.
 
 **Frage 5:** Bis wann muss man sich für den Kurs anmelden?
 
 a) Bis zum 3. März  
 b) Bis zum 25. Februar  
 c) Bis zum 18. Februar  
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe3_ansage5.mp3](audio/aufgabe3_ansage5.mp3)
+
+**Ansage 5 — Transcript**
+
+> Das Sprachinstitut Lingua informiert: Ein neuer Deutschkurs auf dem Niveau A2 beginnt am 3. März. Der Kurs findet dienstags und donnerstags von 18 bis 20 Uhr statt. Bitte melden Sie sich bis zum 25. Februar per E-Mail an. Die Kursgebühr beträgt 150 Euro pro Monat.
+
+</details>
 
 ---
 
