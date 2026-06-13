@@ -85,9 +85,9 @@ This makes every save a checkpoint for the next agent.
 
 ## Current state (live — as of 2026-06-13)
 
-**Done & pushed (26 lessons):**
+**Done & pushed (27 lessons):**
 - A1/01 through A1/14 (14 lessons)
-- A2/01 through A2/12 (12 lessons)
+- A2/01 through A2/13 (13 lessons)
 
 **In flight — A2/13 Menschen beschreiben:**
 
@@ -97,7 +97,7 @@ This makes every save a checkpoint for the next agent.
 - [x] solutions.md written and saved
 - [x] Audio generated (`python3 scripts/generate_audio.py A2/13-menschen-beschreiben/lesson.md`)
 - [x] todo.md checkbox ticked, README + CURRICULUM.md status updated
-- [ ] Committed and pushed ← **RESUME HERE next session if not yet done**
+- [x] Committed and pushed (commit 745d8d8)
 
 **Up next (after A2/13 commit + push):**
 
