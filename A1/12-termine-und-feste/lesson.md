@@ -119,7 +119,7 @@ German and English (with minor spelling differences). Plural: **die Monate**.
 | das Ostern | Easter | März/April |
 | das Silvester | New Year's Eve | 31. Dezember |
 | das Neujahr | New Year's Day | 1. Januar |
-| der Karneval / die Fasching | carnival | Januar/Februar |
+| der Karneval / der Fasching | carnival | Januar/Februar |
 | der Termin, -e | appointment | — |
 | die Einladung, -en | invitation | — |
 | die Feier, -n | celebration | — |
@@ -264,16 +264,22 @@ declinations from sounding rude. Learn it as part of the phrase.
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
 ## 6. Hörtext
 
-> Anna plant eine Geburtstagsparty. Ihr Geburtstag ist am fünfzehnten
-> Mai. Sie lädt ihre Freunde ein. Am Sonntag, dem sechzehnten Mai, um
-> achtzehn Uhr ist die Party. Bruno kommt gern und bringt Wein mit.
-> Anna freut sich auf die Party.
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
-*(You'll listen to this text in Block H, Übung H2.)*
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+> Bruno ruft Yuki an. Er möchte sie zur Geburtstagsfeier einladen.
+> Yukis Geburtstag ist am dritten Juli. Bruno fragt: „Hast du am Samstag Zeit?"
+> Yuki sagt: „Der zweite Juli passt mir leider nicht. Ich habe einen Termin."
+> Bruno schlägt den vierten Juli vor. Yuki sagt: „Ja, der vierte passt gut!"
+> Bruno freut sich und schickt ihr eine Einladung.
+
+</details>
 
 ---
 

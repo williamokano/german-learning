@@ -8,29 +8,41 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check: Haben wir heute einen Termin?
+## Übung H1a — Dialog Hör-Check: Informell (Anna und Bruno)
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to "Haben wir heute einen Termin?" (informal party planning + formal doctor's appointment). Decide: richtig (R) oder falsch (F)?
+Listen and decide: **Richtig (R)** oder **Falsch (F)**?
 
 1. Annas Geburtstag ist am dreizehnten Mai. ( )
-2. Die Party ist am Samstag, dem vierzehnten Mai, um neunzehn Uhr. ( )
+2. Die Party findet am Sonntag, dem fünfzehnten Mai, statt. ( )
 3. Bruno hat am Samstag schon einen Termin. ( )
-4. Im formalen Dialog ruft Frau Weber die Praxis Dr. Bauer an. ( )
+4. Am Ende des Dialogs schickt Anna Bruno eine Einladung. ( )
 
-## Übung H2 — Hörtext-Lückentext
+## Übung H1b — Dialog Hör-Check: Formell (Frau Weber beim Arzt)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+
+1. Frau Weber ruft die Praxis Dr. Bauer an. ( )
+2. Der angebotene Termin ist am Mittwoch, dem achtzehnten Oktober. ( )
+3. Der Termin ist um zehn Uhr dreißig. ( )
+4. Frau Weber sagt „Auf Wiedersehen" am Ende. ( )
+
+## Übung H3 — Hörtext-Lückentext
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Höre den Text und fülle die Lücken.
+Höre den Text und fülle die Lücken. **Zwei Wörter sind zu viel.**
 
-> Anna plant eine ______. Ihr Geburtstag ist am ______ Mai. Sie lädt
-> ihre Freunde ein. Am Sonntag, dem ______ Mai, um ______ Uhr ist die
-> Party. Bruno kommt gern und bringt ______ mit. Anna ______ sich auf die
-> Party.
+> Bruno ruft Yuki ______. Er möchte sie zur Geburtstagsfeier ______.
+> Yukis Geburtstag ist am ______ Juli. Bruno fragt: „Hast du am ______ Zeit?"
+> Yuki sagt: „Der zweite Juli passt mir leider nicht. Ich habe einen ______."
+> Bruno schlägt den ______ Juli vor. Yuki sagt: „Ja, der vierte passt gut!"
+> Bruno freut sich und ______ ihr eine Einladung.
 
-> (Geburtstagsparty · fünfzehnten · sechzehnten · achtzehn · Wein · freut)
+**Wortkasten:** an · dritten · einladen · einzuladen · fünften · schickt · Samstag · Termin · vierten
 
 ---
 
@@ -206,7 +218,7 @@ Each sentence has exactly **one** mistake. Find and correct it.
 2. Die Party findet am zwanzig Juni statt.
 3. Wir feiern in Sommer Geburtstag.
 4. Das Konzert beginnt um Abend.
-5. Ich lade meine Freunde ein, sie kommen am Freitag.
+5. Ich lade meinen Freunden zur Party ein.
 6. Herzlichen Glückwunsch zum Geburtstag, ich wünsche dir alles gut!
 7. Er lädet alle Kollegen ein.
 8. Das passt mir nicht leider.
@@ -223,7 +235,7 @@ Each sentence has exactly **one** mistake. Find and correct it.
 | 4. Passt dir der elfte Mai? | | d) Ich wünsche dir alles Gute! |
 | 5. Was sagst du zum Geburtstag? | | e) Nein, leider nicht — ich habe einen Termin. |
 | 6. Welcher Monat kommt nach Juni? | | f) Juli. |
-| 7. Im welchem Monat ist Weihnachten? | | g) Im Dezember. |
+| 7. In welchem Monat ist Weihnachten? | | g) Im Dezember. |
 | 8. Was machst du nach der Party? | | h) Ich gehe nach Hause und schlafe. |
 
 ## Übung B5 — Satzbau
@@ -400,7 +412,7 @@ One answer per item. No notes.
 9. The German word for „invitation" (with article): ______________________
 10. (L7) „Ich ______ heute Abend arbeiten." (müssen)
 11. Temporal preposition for clock time: ______ acht Uhr
-12. (L2) „Er hat ______ Bruder." (older — possessive, masc. acc.)
+12. (L2) „Er hat ______ Bruder." (indefinite article, masc. acc.)
 13. "Merry Christmas!" → ______________________
 14. Temporal preposition for seasons: ______ Sommer
 15. (L9) Demonstrative: „______ Rock gefällt mir nicht." (dieser, Nom.)

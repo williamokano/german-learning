@@ -4,31 +4,42 @@
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check: Haben wir heute einen Termin?
+## Übung H1a — Dialog Hör-Check: Informell
 
-1. **R** — Anna sagt: „Mein Geburtstag ist am dreizehnten Mai." *(informeller Dialog, erster Satz)*
-2. **F** — Die Party ist um **sieben** Uhr abends, nicht um neunzehn Uhr. *(Anna: „Am Samstag, dem vierzehnten Mai, um sieben Uhr abends.")*
-3. **R** — Bruno sagt: „Den vierzehnten — das geht leider nicht. Ich habe einen Termin." *(informeller Dialog)*
-4. **F** — Die Praxis ist „Praxis Dr. **Hoffmann**", nicht Dr. Bauer. *(formeller Dialog, erste Zeile)*
+1. **R** — Anna sagt: „Mein Geburtstag ist am dreizehnten Mai."
+2. **F** — Die Party ist am **Samstag, dem vierzehnten Mai** — nicht am Sonntag dem fünfzehnten. *(Anna: „Am Samstag, dem vierzehnten Mai, um sieben Uhr abends.")*
+3. **R** — Bruno sagt: „Den vierzehnten — das geht leider nicht. Ich habe einen Termin."
+4. **R** — Anna sagt: „Ich schicke dir eine Einladung."
 
-## Übung H2 — Hörtext-Lückentext
+## Übung H1b — Dialog Hör-Check: Formell
+
+1. **F** — Die Praxis ist „Praxis Dr. **Hoffmann**", nicht Dr. Bauer.
+2. **R** — Die Sprechstundenhilfe sagt: „Passt Ihnen Mittwoch, der achtzehnte Oktober?"
+3. **R** — Die Sprechstundenhilfe sagt: „Um 10 Uhr 30."
+4. **F** — Am Telefon sagt man **„Auf Wiederhören"**, nicht „Auf Wiedersehen". Frau Weber sagt „Auf Wiederhören!" — so the farewell used is correct but the question asks about *Wiedersehen*: **F**.
+
+## Übung H3 — Hörtext-Lückentext
 
 Complete Hörtext:
 
-> Anna plant eine **Geburtstagsparty**. Ihr Geburtstag ist am **fünfzehnten**
-> Mai. Sie lädt ihre Freunde ein. Am Sonntag, dem **sechzehnten** Mai, um
-> **achtzehn** Uhr ist die Party. Bruno kommt gern und bringt **Wein** mit.
-> Anna **freut** sich auf die Party.
+> Bruno ruft Yuki **an**. Er möchte sie zur Geburtstagsfeier **einladen**.
+> Yukis Geburtstag ist am **dritten** Juli. Bruno fragt: „Hast du am **Samstag** Zeit?"
+> Yuki sagt: „Der zweite Juli passt mir leider nicht. Ich habe einen **Termin**."
+> Bruno schlägt den **vierten** Juli vor. Yuki sagt: „Ja, der vierte passt gut!"
+> Bruno freut sich und **schickt** ihr eine Einladung.
 
-Word bank in gap order: Geburtstagsparty · fünfzehnten · sechzehnten · achtzehn · Wein · freut.
+Gap answers in order: **an · einladen · dritten · Samstag · Termin · vierten · schickt**
+
+Not needed (distractors): **einzuladen · fünften**
 
 Trap notes:
-1. **Geburtstagsparty** — compound noun, feminine (die Party), singular: „eine Geburtstagsparty".
-2. **fünfzehnten** — ordinal dative after `am`; written form ends in `-ten`, not `-zehn` (cf. cardinal fünfzehn).
-3. **sechzehnten** — second ordinal in the text; same `-ten` ending as fünfzehnten, **not** cardinal „sechzehn".
-4. **achtzehn** — cardinal for clock time, not the ordinal „achtzehnte". Time-of-day uses cardinals, not ordinals.
-5. **Wein** — masculine noun (der Wein); direct object of `bringen … mit`.
-6. **freut** — `sich freuen auf` + accusative; er/sie-form: er **freut** sich.
+1. **an** — separable verb `anrufen`; in the sentence „ruft … an", the prefix goes to the end.
+2. **einladen** — infinitive after modal `möchte`; not the zu-infinitive form `einzuladen` (that requires `zu` which is not present here).
+3. **dritten** — ordinal dative after `am`; not cardinal „drei".
+4. **Samstag** — specific day of the week; note `am Samstag` requires `am`, not `im`.
+5. **Termin** — der Termin; direct object of `haben`.
+6. **vierten** — ordinal dative; not `fünften` (distractor).
+7. **schickt** — er/sie-form of `schicken`.
 
 ---
 
@@ -119,7 +130,7 @@ Pattern: nominative `erste` → dative `ersten` (-en ending for all ordinals aft
 3. **schicke** — Ich schicke dir eine Einladung.
 4. **absagen** — Ich muss leider absagen. *(modal + infinitive at end)*
 5. **Passt** — Passt euch der dreizehnte Mai?
-6. **plant** / **plant** — Was plant ihr für das Wochenende?
+6. **plant** — Was plant ihr für das Wochenende?
 7. **feiert** — Er feiert gern.
 8. **schicken** — Wir schicken Ihnen die Einladung per E-Mail.
 
@@ -177,8 +188,7 @@ Pattern: nominative `erste` → dative `ersten` (-en ending for all ordinals aft
 2. Die Party findet am **zwanzigsten** Juni statt. *(ordinal required, not cardinal)*
 3. Wir feiern **im** Sommer Geburtstag. *(season → im, not *in*)*
 4. Das Konzert beginnt **am** Abend. *(time of day → am, not *um*; *um* is for exact clock times)*
-5. Ich lade meine Freunde ein**,** sie kommen am Freitag. *(comma OK but: the sentence is grammatically fine as written — **actual error**: „ein" should attach to the sentence: „Ich lade meine Freunde ein. Sie kommen am Freitag." Also accepted: treating the comma splice as the error.)*
-   **Model correction:** Ich lade meine Freunde ein. Sie kommen am Freitag.
+5. Ich lade **meine Freunde** zur Party ein. *(einladen takes accusative: meine Freunde, not Dativ meinen Freunden)*
 6. Herzlichen Glückwunsch zum Geburtstag — ich wünsche dir alles **Gute**! *(capitalized: alles Gute)*
 7. Er **lädt** alle Kollegen ein. *(a → ä stem change!)*
 8. Das passt mir **leider** nicht. *(leider before nicht — standard position)*
@@ -218,9 +228,9 @@ Any culturally reasonable answer is accepted. The key target is the season names
 1. ~~Supermarkt~~ (not a celebration/event)
 2. ~~Montag~~ (a weekday, not a holiday/celebration)
 3. ~~weil~~ (conjunction, not a temporal preposition)
-4. ~~kaufen~~ (shopping, not celebrating/socializing)
-5. ~~regnen~~ (verb for weather, not an event/object)
-6. ~~siebzehn~~ (cardinal number, not an ordinal stem)
+4. ~~Sommer~~ (a season, not a month — the others are all months)
+5. ~~kaufen~~ (shopping verb, not a celebration/socializing verb — the others are feiern, einladen, gratulieren)
+6. ~~herzlich~~ (adjective/adverb, not a temporal preposition — the others are vor, nach, während)
 
 ## Übung B8 — Auf Einladungen antworten
 
@@ -248,10 +258,7 @@ Any culturally reasonable answer is accepted. The key target is the season names
 
 ## Übung C1 — Lückentext
 
-1. **bin** 2. **ist** 3. **am** 4. **um** 5. **bei** 6. **ein** *(lade … ein — separable!)*
-7. **auch** 8. **schicke** 9. **bitte** 10. **Ich freue mich auf** *(also fine as separate word: **auf** — check what fits in the blank)*
-
-1. **bin** · 2. **ist** · 3. **am** · 4. **um** · 5. **bei** · 6. **ein** · 7. **auch** · 8. **schicke** · 9. **bitte** · 10. **auf**
+1. **bin** · 2. **ist** · 3. **am** · 4. **um** · 5. **bei** · 6. **ein** *(lade … ein — separable!)* · 7. **auch** · 8. **schicke** · 9. **bitte** · 10. **auf** *(sich freuen auf + Akkusativ)*
 
 ## Übung C2 — Sprachbausteine Teil 1
 
@@ -282,14 +289,9 @@ Verification — each word fits exactly one gap; no word fits two gaps; 5 distra
 ## Übung C4 — Lesen
 
 **Text 1:**
-1. **F** — Annas Geburtstag ist am dreizehnten Juni (nicht am siebzehnten).
-   *(The text says: „ich habe am Samstag, dem siebzehnten Juni, Geburtstag — ich werde 30!
-   Die Feier findet am achtzehnten Juni … statt." — wait, re-read: „am siebzehnten Juni, Geburtstag" — so statement 1 says birthday is on the 17th. Correct answer: **R** — the text says Geburtstag ist am siebzehnten Juni.)*
-
-   Correction after self-review:
-   1. **R** — the text says „am siebzehnten Juni, Geburtstag". ✓
-2. **R** — „findet am achtzehnten Juni … statt". ✓
-3. **F** — „bei mir zu Hause", not in a restaurant.
+1. **R** — Der Lesetext sagt: „am Samstag, dem siebzehnten Juni, Geburtstag". ✓
+2. **R** — „Die Feier findet am achtzehnten Juni … statt". ✓
+3. **F** — „bei mir zu Hause", nicht im Restaurant.
 4. **R** — „um achtzehn Uhr". ✓
 5. **R** — „bis zum zehnten Juni Bescheid". ✓
 
