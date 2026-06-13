@@ -62,6 +62,44 @@ Listen and fill in the 6 missing words. **Three words in the box are not needed.
 > Freitag wird es Gewitter (4) ______. (5) ______ Sie Ausflüge
 > planen — am Wochenende wird das Wetter wieder (6) ______.
 
+## Übung H4 — Kurze Ansage: Ein Anruf aus Lissabon
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the voice message. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Wo ist Lisa gerade?  
+   a) Am Flughafen in Berlin.  
+   b) Am Flughafen in Lissabon.  
+   c) Am Flughafen in Wien.
+
+2. Warum wird Lisa erst am Dienstag zurückfliegen?  
+   a) Weil sie länger Urlaub machen will.  
+   b) Weil ihr Flug am Sonntag gestrichen wurde.  
+   c) Weil die Airline keine Plätze mehr hat.
+
+3. Was wird die Airline für Lisa tun?  
+   a) Sie wird ihr ein Hotel für zwei Nächte bezahlen.  
+   b) Sie wird ihr ein neues Flugticket schenken.  
+   c) Sie wird sie mit dem Bus nach Hause bringen.
+
+4. Wann wird Lisa in Berlin landen?  
+   a) Am Sonntag um achtzehn Uhr.  
+   b) Am Dienstag um achtzehn Uhr.  
+   c) Am Mittwoch um achtzehn Uhr.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Hallo Anna, hier ist Lisa. Ich bin gerade am Flughafen in Lissabon gelandet. Mein Flug nach Berlin am Sonntag wurde gestrichen — ich werde erst am Dienstag zurückfliegen. Die Airline wird mir ein Hotel für zwei Nächte bezahlen. Ich werde am Dienstag um achtzehn Uhr in Berlin landen. Bitte ruf mich zurück, wenn du mich am Flughafen abholen kannst! Tschüss!
+
+</details>
+
 ---
 
 # Block A — Basistraining

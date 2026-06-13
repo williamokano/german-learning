@@ -36,6 +36,13 @@ Word bank in gap order: **Morgen · bis · regnen · geben · Wenn · besser**.
 
 *Not needed: wird · werden · Gewitter.*
 
+## H4 — Kurze Ansage: Ein Anruf aus Lissabon
+
+1. **b) Am Flughafen in Lissabon** — „Ich bin gerade am Flughafen in Lissabon gelandet."
+2. **b) Weil ihr Flug am Sonntag gestrichen wurde** — „Mein Flug nach Berlin am Sonntag wurde gestrichen — ich werde erst am Dienstag zurückfliegen."
+3. **a) Sie wird ihr ein Hotel für zwei Nächte bezahlen** — „Die Airline wird mir ein Hotel für zwei Nächte bezahlen."
+4. **b) Am Dienstag um achtzehn Uhr** — „Ich werde am Dienstag um achtzehn Uhr in Berlin landen."
+
 ---
 
 # Block A

@@ -104,8 +104,8 @@ This makes every save a checkpoint for the next agent.
 | A2/09 Höflichkeit und Wünsche | ✅ retrofitted + C3 redesigned (commit 36531da) |
 | A2/10 Stadt, Land, Reisen | ✅ retrofitted + C3 fixed (commit 3000a7b) |
 | A2/11 Geben und schenken | ✅ retrofitted (commit b07e912) |
-| A2/12 Pläne und Zukunft | ✅ retrofitted (commit 985c599) |
-| A2/13 Menschen beschreiben | ✅ done (pilot, commit 36b111f) |
+| A2/12 Pläne und Zukunft | ✅ retrofitted (commit 985c599) + ✅ H4 pilot (issue #7, commit 4b8b3b4) |
+| A2/13 Menschen beschreiben | ✅ H4 pilot reference + retrofitted (commits a8b37b8, 36b111f) |
 | A2/14 Prüfungstraining A2 | — exam lesson, not retrofitted |
 
 ### Retrofit progress — A1 regular lessons (Merkasten + vocab recall)
@@ -139,7 +139,33 @@ Several original C3 exercises had critical integrity flaws (answer word used in 
 **A2 RETROFIT COMPLETE (A2/01–13 all done). ✅**
 **A1 RETROFIT COMPLETE (A1/01–13 all done). ✅**
 
-**Up next — start B1/01 Früher und heute.**
+## H4 retrofit (issue #7) — pilot in progress
+
+User plan: address issue #7 (Retrofit H4 Kurze Ansage to A1+A2 lessons) one
+lesson at a time, sequentially, no sub-agents (avoid token exhaustion). A2/13
+is the original H4 pilot (done, commit a8b37b8) — use it as the reference.
+
+**Pilot for the actual retrofit rollout: A2/12 Pläne und Zukunft** (commit 4b8b3b4).
+- Hörtext is already a weather forecast → H4 needs a *different* context.
+- Chosen context: **voicemail from Lisa at Lisbon airport** about her
+  cancelled flight back to Berlin (Futur I anchor). Includes
+  "Bitte ruf mich zurück" → triggers phone filter post-effect.
+- Plan: write H4 → run generate_audio.py → commit → user checks → continue.
+
+**Phased rollout (no sub-agents, one commit per lesson):**
+1. A2/12 pilot (DONE — commit 4b8b3b4) — user checking now
+2. A2 batch: A2/01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11 (skip 13, 14)
+3. A1 batch: A1/01–A1/13 (skip 14 exam)
+4. Issues #5, #2, #1 as separate waves (B9 rewrite, H5 table, H5 sprechen)
+
+**Other open issues (for later waves):**
+- #5 B9 writing task more structured (medium priority)
+- #2 H5 table completion / H6 sequencing (lower priority — H5 conflicts with
+  #1 Sprechen naming; will coordinate when one of them is done)
+- #1 Sprechen tasks (high priority per issue, but H4 retrofit is in flight)
+
+**After H4 done: continue with the Merkasten retrofit for A2/07–12 (was the
+"next batch" before this plan was reshuffled).**
 
 **Notes for B1 (for when we get there):**
 - B1 instruction language: English/German **mixed**
