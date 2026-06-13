@@ -264,15 +264,17 @@
 
 *Accept any grammatically correct house rules that use Wechselpräpositionen correctly.*
 
-## B9 — Kasuscheck: Fehler korrigieren
+## B9 — Problem im Bad: E-Mail an den Vermieter (model answer)
 
-1. ✗ "auf den Tisch" → **auf dem Tisch** (Wo? → Dativ: liegt is a state verb)
-2. ✗ "an der Wand" → **an die Wand** (Wohin? → Akkusativ: stelle is an action verb)
-3. ✗ "über den Schreibtisch" → **über dem Schreibtisch** (Wo? → Dativ: hängt is state)
-4. ✗ "neben das Glas — sie steht jetzt neben das Glas" → second occurrence: **neben dem Glas** (Wo? → Dativ: steht is state)
-5. ✗ "vor der Fenster" — two errors: `der` must be `dem` (Dativ, n: das Fenster → dem Fenster), and it's "vor **dem** Fenster": **Häng den Vorhang vor das Fenster.** (Wohin? → Akkusativ: vor **das** Fenster)
+> Sehr geehrter Herr Schmidt,
+> vielen Dank für Ihre schnelle Antwort. Das Problem ist im Bad: unter
+> dem Waschbecken steht ein Eimer, weil das Wasser aus dem Rohr in
+> den Eimer tropft. Vor der Badewanne liegt ein nasses Handtuch. Ich
+> habe das Problem seit drei Tagen. Ich bin am Samstagvormittag zu
+> Hause. Mit freundlichen Grüßen, [Name]
 
-*Note: item 5 has "vor der Fenster" — `das Fenster` is neuter, so Dativ = `dem`, Akkusativ = `das`. The sentence uses `häng` (action) → Wohin? → vor **das** Fenster.*
+*(A correct reply: ≥1 Wo? Dativ phrase, ≥1 Wohin? Akkusativ phrase, ≥1
+state verb, 1 time expression. Any equivalent is accepted.)*
 
 ## B10 — Mini-Aufsatz (model answer)
 

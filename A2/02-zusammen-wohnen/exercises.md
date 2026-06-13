@@ -370,15 +370,28 @@ Example: *Man stellt das schmutzige Geschirr nicht auf den Tisch — man spült 
 3. ______________________
 4. ______________________
 
-## Übung B9 — Finde den Fehler: Kasuscheck
+## Übung B9 — Problem im Bad: E-Mail an den Vermieter
 
-These sentences all have case errors with Wechselpräpositionen. Correct them.
+**E-Mail von Herrn Schmidt, dein Vermieter** *(Du hast diese Antwort gerade bekommen)*:
+> Sehr geehrte/r Mieter/in,
+> vielen Dank für Ihre Nachricht. Können Sie mir das Problem genauer
+> beschreiben? In welchem Raum ist es? Was passiert genau? Seit wann
+> haben Sie das Problem? Ich komme dann am Wochenende vorbei.
+> Mit freundlichen Grüßen, M. Schmidt
 
-1. Das Buch liegt auf den Tisch.
-2. Ich stelle das Regal an der Wand.
-3. Die Lampe hängt über den Schreibtisch.
-4. Stell die Tasse neben das Glas — sie steht jetzt neben das Glas.
-5. Häng den Vorhang vor der Fenster.
+**Your task:** Antworte Herrn Schmidt in **4–5 Sätzen**. Beschreib ihm das
+Problem in deiner Wohnung: Wo ist es, was passiert, und seit wann.
+
+Use:
+- [ ] at least **1** sentence with **Wo?** (*Dativ* — wo das Problem ist: *in, an, über, unter, hinter, vor, neben, zwischen, auf*)
+- [ ] at least **1** sentence with **Wohin?** (*Akkusativ* — wohin etwas fließt/fällt: same prepositions)
+- [ ] at least **1** state verb (*stehen / liegen / hängen*)
+- [ ] a time expression (*seit gestern / seit drei Tagen / seit einer Woche*)
+
+**Self-check before moving on:**
+- [ ] Did I use **Dativ** after state verbs (stehen/liegen/hängen) and **Akkusativ** after action verbs (stellen/legen/hängen)?
+- [ ] Did I choose `stellen/stehen` (upright), `legen/liegen` (flat), `hängen` correctly?
+- [ ] Did I use contractions where required (*im, am, in der, an der, neben dem*)?
 
 ## Übung B10 — Mini-Aufsatz: Mein Zimmer
 
