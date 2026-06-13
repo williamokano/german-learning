@@ -57,6 +57,44 @@ Listen and fill in the 8 missing words. **Three words in the box are not needed.
 > hat sie das Buch im Park (6) ______ und einen Kaffee (7) ______. Am Ende
 > war sie sehr (8) ______, aber glücklich.
 
+## Übung H4 — Kurze Ansage: Lisas Kurztrip nach Dresden
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the voice message. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Wohin ist Lisa gefahren?  
+   a) Nach Dresden.  
+   b) Nach Hamburg.  
+   c) Nach Leipzig.
+
+2. Wie lange ist Lisa geblieben?  
+   a) Einen Tag.  
+   b) Zwei Tage.  
+   c) Drei Tage.
+
+3. Was hat Lisa am Samstag besucht?  
+   a) Die Frauenkirche.  
+   b) Die Semperoper.  
+   c) Das Museum.
+
+4. Was hat Lisa am Samstagabend gemacht?  
+   a) Sie ist im Hotel geblieben.  
+   b) Sie hat in einem Restaurant gegessen.  
+   c) Sie hat ein Konzert besucht.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Hallo Anna, hier ist Lisa. Ich rufe an wegen meinem Kurztrip nach Dresden. Ich bin am Freitag mit dem Zug gefahren und habe dort zwei Tage verbracht. Am Samstag habe ich die Frauenkirche besucht und bin dann durch die Altstadt spaziert. Abends habe ich in einem kleinen Restaurant gegessen. Am Sonntag habe ich das Grüne Gewölbe besucht — das Museum war fantastisch! Bitte ruf mich zurück, damit ich dir alles genauer erzählen kann! Bis bald!
+
+</details>
+
 ---
 
 # Block A — Basistraining

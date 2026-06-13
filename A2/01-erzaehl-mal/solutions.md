@@ -34,6 +34,13 @@ Blocks in order: H → A → B → C → D.
 *Not needed: geschrieben · glücklich · schläfrig*
 *(Note: "glücklich" appears in the Hörtext but is not a gap word — it was left intact in the running text.)*
 
+## H4 — Kurze Ansage: Lisas Kurztrip nach Dresden
+
+1. **a) Nach Dresden** — „Ich rufe an wegen meinem Kurztrip nach Dresden."
+2. **b) Zwei Tage** — „Ich bin am Freitag mit dem Zug gefahren und habe dort zwei Tage verbracht."
+3. **a) Die Frauenkirche** — „Am Samstag habe ich die Frauenkirche besucht und bin dann durch die Altstadt spaziert."
+4. **b) Sie hat in einem Restaurant gegessen** — „Abends habe ich in einem kleinen Restaurant gegessen."
+
 ---
 
 # Block A
