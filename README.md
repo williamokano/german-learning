@@ -3,13 +3,19 @@
 A complete, book-like German course built lesson by lesson, benchmarked against
 Menschen / Schritte international neu (Hueber) and Sicher! / Aspekte neu.
 
-- **[CURRICULUM.md](CURRICULUM.md)** — the full A1→C1 topic map (start here)
+## Course files
+
+- **[CURRICULUM.md](CURRICULUM.md)** — the full A1→C1 topic map (start here as a learner)
 - **[AUTHORING.md](AUTHORING.md)** — the lesson production spec (for writing/dispatching lessons)
+- **[MEMORY.md](MEMORY.md)** — the orchestrator's working memory: in-flight work, recent decisions, subagent quality notes
 - **[tasks/todo.md](tasks/todo.md)** — dispatch board with one work item per lesson
+- **[tasks/lessons.md](tasks/lessons.md)** — long-term conventions log (the "rules for ourselves" file)
+- **[personas/](personas/)** — character bible: name, nationality, voice, family for every recurring character
 - **`A1/`, `A2/`, …** — one folder per topic:
   - `lesson.md` — the class (dialogues, vocabulary, grammar, phrases)
   - `exercises.md` — mixed telc-style test battery (Lückentext, Sprachbausteine, grammar, verbs, vocab, reading, writing)
   - `solutions.md` — answer key with explanations
+  - `audio/` — pre-generated MP3s (Hören exercises)
 
 ## Setup
 
