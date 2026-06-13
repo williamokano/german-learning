@@ -93,7 +93,7 @@ This makes every save a checkpoint for the next agent.
 **No worktrees.** opencode-created worktrees (if any) are left alone — do
 not use them for the H4 rollout.
 
-### Retrofit progress — A2 regular lessons (Merkasten + vocab recall + C3 expand + writing context)
+### Retrofit progress — A2 regular lessons (Merkasten + vocab recall + C3 expand + writing context) — ✅ ALL DONE
 
 | Lesson | Status |
 |---|---|
@@ -103,14 +103,18 @@ not use them for the H4 rollout.
 | A2/04 Arbeit und Beruf | ✅ retrofitted + C3 fixed (commit ce64301) |
 | A2/05 Gesund leben | ✅ retrofitted + C3 redesigned (commit 7eef3a3) |
 | A2/06 Medien und Kommunikation | ✅ retrofitted (commit 1187a51) |
-| A2/07 Vergleichen | ⏳ next batch (after H4 rollout) |
-| A2/08 Adjektive überall | ⏳ next batch |
-| A2/09 Höflichkeit und Wünsche | ⏳ next batch |
-| A2/10 Stadt, Land, Reisen | 🔲 |
-| A2/11 Geben und schenken | 🔲 |
-| A2/12 Pläne und Zukunft | ✅ retrofitted (985c599) + H4 done |
-| A2/13 Menschen beschreiben | ✅ retrofitted (36b111f) + H4 original pilot (a8b37b8) |
+| A2/07 Vergleichen | ✅ retrofitted (commit 73bb27c) |
+| A2/08 Adjektive überall | ✅ retrofitted + C3 redesigned (commit f86167e) |
+| A2/09 Höflichkeit und Wünsche | ✅ retrofitted + C3 redesigned (commit 36531da) |
+| A2/10 Stadt, Land, Reisen | ✅ retrofitted + C3 fixed (commit 3000a7b) |
+| A2/11 Geben und schenken | ✅ retrofitted (commit b07e912) |
+| A2/12 Pläne und Zukunft | ✅ retrofitted (commit 985c599) |
+| A2/13 Menschen beschreiben | ✅ retrofitted (commit 36b111f) |
 | A2/14 Prüfungstraining A2 | — exam lesson, not retrofitted |
+
+Verified 2026-06-14: every A2 regular lesson has `## Übung A10 — Wortschatz: …`
+(vocab recall) and a C5 self-check. Originally tracked as issues #3 (Merkasten)
+and #4 (vocab recall) — both closed in commit 90f89bd.
 
 ### H4 Kurze Ansage retrofit (issue #7) — all 24 lessons done
 
