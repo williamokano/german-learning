@@ -8,7 +8,19 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 # Block H — Hören
 
-## Übung H1 — Aussprache-Check
+## Übung H1 — Dialog Hör-Check
+
+🎧 **Dialog A:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+🎧 **Dialog B:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Listen to both dialogs and decide: richtig (R) oder falsch (F)?
+
+1. Anna bestellt einen Kaffee und ein Stück Apfelkuchen. ( )
+2. Bruno möchte Orangensaft. ( )
+3. Im Supermarkt kauft Bruno Käse, Brot und Wasser. ( )
+4. Bruno bezahlt zusammen mit Anna. ( )
+
+## Übung H2 — Aussprache-Check
 
 Listen and pick the word that matches each Hör zu group.
 
@@ -23,25 +35,18 @@ Listen and pick the word that matches each Hör zu group.
 5. **Hör zu 4 (Mengen)** — which one is for a drink?
    a) Stück  b) Tasse  c) Kilo
 
-## Übung H2 — Dialog Hör-Check (Im Café + Im Supermarkt)
-
-Listen to both dialogs and decide: richtig (R) oder falsch (F)?
-
-1. Anna bestellt einen Kaffee und ein Stück Apfelkuchen. ( )
-2. Bruno möchte Orangensaft. ( )
-3. Im Supermarkt kauft Bruno Käse, Brot und Wasser. ( )
-4. Bruno bezahlt zusammen mit Anna. ( )
-
 ## Übung H3 — Hörtext-Lückentext
 
-Listen to the Hörtext and fill in the 6 missing words from the box.
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+Listen and fill in the 6 missing words. **Three words in the box are not needed.**
+
+**Word bank:** Hunger · Kaffee · Apfelkuchen · sechs · vierzig · schmeckt · Durst · sieben · isst
 
 > Anna ist im Café Central. Sie hat (1) ______ und Durst. Sie möchte einen
 > (2) ______ und ein Stück (3) ______. Der Kaffee kostet zwei Euro fünfzig,
 > der Kuchen kostet drei Euro neunzig. Das macht (4) ______ Euro (5) ______.
 > Anna isst und trinkt gern im Café — der Kuchen (6) ______ super!
->
-> > (Hunger · Kaffee · Apfelkuchen · sechs · vierzig · schmeckt)
 
 ---
 
@@ -336,7 +341,7 @@ Käse da.
 
 ## Übung C4 — Lesen
 
-**Text 1:** Read „Frühstück in Deutschland“ in `lesson.md`, section 6.
+**Text 1:** Read „Frühstück in Deutschland” in `lesson.md`, section 5.
 Richtig (R) oder falsch (F)?
 
 1. Die Deutschen essen zum Frühstück oft Brot oder Brötchen. ( )
@@ -363,7 +368,7 @@ Richtig (R) oder falsch (F)?
 
 Write a café dialogue (8–10 lines): you and a friend order (one drink + one
 food item each), ask what something costs, then pay separately. Use the
-Redemittel from section 3. Model in `solutions.md` — write yours **first**.
+Redemittel from section 2. Model in `solutions.md` — write yours **first**.
 
 ---
 

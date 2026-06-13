@@ -4,20 +4,20 @@
 
 # Block H — Hören
 
-## Übung H1 — Aussprache-Check
+## Übung H1 — Dialog Hör-Check
+
+1. **R** — Anna says: „Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte."
+2. **R** — Bruno asks for Orangensaft and confirms „Ja, bitte" to the offer of „Ein Glas Orangensaft".
+3. **R** — Bruno buys „den Gouda, das Schwarzbrot und eine Flasche Wasser" — Käse, Brot, Wasser.
+4. **F** — They pay **getrennt** (separately), not zusammen.
+
+## Übung H2 — Aussprache-Check
 
 1. **b) Banane** (Banane is a fruit; Brot = bread, Käse = cheese)
 2. **a) Brötchen** (Brötchen = small bread roll, breakfast classic; Wurst = sausage, Tomate = tomato)
 3. **c) Bier** (Bier is alcoholic; Kaffee and Tee are hot drinks)
 4. **b) to cost** (kosten = to cost; kaufen = to buy, zahlen = to pay)
 5. **b) Tasse** (Tasse = cup, used for coffee/tea; Stück = piece, Kilo = kilogram)
-
-## Übung H2 — Dialog Hör-Check (Im Café + Im Supermarkt)
-
-1. **R** — Anna says: „Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte."
-2. **R** — Bruno asks for Orangensaft and confirms „Ja, bitte" to the offer of „Ein Glas Orangensaft".
-3. **R** — Bruno buys „den Gouda, das Schwarzbrot und eine Flasche Wasser" — Käse, Brot, Wasser.
-4. **F** — They pay **getrennt** (separately), not zusammen.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -26,7 +26,9 @@
 > der Kuchen kostet drei Euro neunzig. Das macht **sechs** Euro **vierzig**.
 > Anna isst und trinkt gern im Café — der Kuchen **schmeckt** super!
 
-Bank in gap order: **Hunger · Kaffee · Apfelkuchen · sechs · vierzig · schmeckt**
+Gap answers in order: **Hunger · Kaffee · Apfelkuchen · sechs · vierzig · schmeckt**
+
+Not needed: Durst · sieben · isst
 
 ---
 
@@ -167,7 +169,7 @@ vegetable) 4. ~~Cola~~ (not a dairy product) 5. ~~Supermarkt~~ (not a meal)
 3. Ich esse Müsli mit Joghurt.
 4. Ich trinke (morgens) Kaffee. / Morgens trinke ich Kaffee.
 5. Nein, wir haben kein Bier. / Nein, leider nicht.
-6. Sie kostet ein Euro neunundneunzig. / Ein Euro neunundneunzig.
+6. Sie kostet einen Euro neunundneunzig. / Ein Euro neunundneunzig. (short form without verb)
 7. Nein, ich esse kein Fleisch.
 8. Wir brauchen Eier, Milch und Brot.
 
@@ -213,16 +215,16 @@ Not needed: BIN, DANKE, ESSE, KEIN, TRINKT.
 
 ## Übung C5 — Schreiben (model answer)
 
-> **Kellnerin:** Guten Tag! Was möchten Sie?
-> **Ich:** Ich möchte einen Kaffee und ein Käsebrötchen, bitte.
-> **Freundin:** Und ich nehme einen Tee. Haben Sie Apfelkuchen?
-> **Kellnerin:** Ja, natürlich.
-> **Freundin:** Was kostet ein Stück?
-> **Kellnerin:** Drei Euro zwanzig.
-> **Freundin:** Gut, dann nehme ich ein Stück.
-> *(später)*
-> **Ich:** Wir möchten zahlen, bitte!
-> **Kellnerin:** Zusammen oder getrennt?
+> **Kellnerin:** Guten Tag! Was möchten Sie?  
+> **Ich:** Ich möchte einen Kaffee und ein Käsebrötchen, bitte.  
+> **Freundin:** Und ich nehme einen Tee. Haben Sie Apfelkuchen?  
+> **Kellnerin:** Ja, natürlich.  
+> **Freundin:** Was kostet ein Stück?  
+> **Kellnerin:** Drei Euro zwanzig.  
+> **Freundin:** Gut, dann nehme ich ein Stück.  
+> *(später)*  
+> **Ich:** Wir möchten zahlen, bitte!  
+> **Kellnerin:** Zusammen oder getrennt?  
 > **Ich:** Getrennt, bitte.
 
 Self-check: `einen` before masculine objects (Kaffee, Tee, Kuchen), verb in

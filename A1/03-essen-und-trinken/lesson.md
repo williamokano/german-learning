@@ -12,18 +12,19 @@
 
 ---
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+## 1. Dialoge
 
-## 1. Dialog: Im Café
+### Dialog A: Im Café
+
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
 > **Kellner:** Guten Tag! Was möchten Sie, bitte?  
 > **Anna:** Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte.  
 > **Kellner:** Gern. Und Sie?  
-> **Bruno:** Ich nehme einen Tee und ein Käsebrötchen. Haben Sie auch  
-> Orangensaft?
+> **Bruno:** Ich nehme einen Tee und ein Käsebrötchen. Haben Sie auch Orangensaft?  
 > **Kellner:** Ja, natürlich. Ein Glas Orangensaft?  
 > **Bruno:** Ja, bitte.  
-> *(später — later)*
+> *(später — later)*  
 > **Bruno:** Entschuldigung, wir möchten zahlen, bitte!  
 > **Kellner:** Gern. Zusammen oder getrennt?  
 > **Anna:** Getrennt, bitte.  
@@ -31,22 +32,21 @@
 > **Anna:** Hier bitte. Stimmt so!  
 > **Kellner:** Vielen Dank!  
 
-🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
+### Dialog B: Im Supermarkt
 
-## 2. Dialog: Im Supermarkt
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 > **Bruno:** Entschuldigung, haben Sie Schwarzbrot?  
 > **Verkäuferin:** Ja, da hinten links.  
 > **Bruno:** Danke. Und was kostet der Käse hier?  
 > **Verkäuferin:** Der Gouda? Zwei Euro neunundneunzig.  
-> **Bruno:** Gut, dann nehme ich den Gouda, das Schwarzbrot und eine Flasche  
-> Wasser.
+> **Bruno:** Gut, dann nehme ich den Gouda, das Schwarzbrot und eine Flasche Wasser.  
 > **Verkäuferin:** Sonst noch etwas?  
 > **Bruno:** Nein, danke. Das ist alles.  
 
 ---
 
-## 3. Redemittel
+## 2. Redemittel
 
 ### Bestellen und bezahlen (ordering and paying)
 
@@ -77,7 +77,7 @@
 
 ---
 
-## 4. Wortschatz
+## 3. Wortschatz
 
 ### Lebensmittel (groceries) — with article and plural, as always!
 
@@ -133,9 +133,9 @@ ein Becher Joghurt — *no "of" in German: ein Glas Saft = a glass __of__ juice.
 
 ---
 
-## 5. Grammatik
+## 4. Grammatik
 
-### 5.1 The article system — der, die, das
+### 4.1 The article system — der, die, das
 
 Every German noun has a gender. It is grammatical, not logical (das Mädchen =
 the girl, neuter!) — so **the article is part of the word**. Learn `der Apfel`,
@@ -150,7 +150,7 @@ never just `Apfel`.
 A few helpful tendencies (not rules!): -e nouns are usually feminine (die Banane,
 die Tomate); -chen is always neuter (das Brötchen, das Mädchen).
 
-### 5.2 `kein` — negating nouns
+### 4.2 `kein` — negating nouns
 
 You met `nicht` in Lektion 2. Division of labor:
 
@@ -162,7 +162,7 @@ You met `nicht` in Lektion 2. Division of labor:
 
 Rule of thumb: *could you say "ein" there (or nothing)? → kein. Otherwise → nicht.*
 
-### 5.3 The accusative case — the Lektion 2 mystery solved
+### 4.3 The accusative case — the Lektion 2 mystery solved
 
 A sentence has a subject (who does it — **Nominativ**) and often a direct object
 (what is affected — **Akkusativ**). In German, the article shows the role:
@@ -188,7 +188,7 @@ object, and Bruder is masculine.
 
 \* `es gibt` (there is/are) appears properly in Lektion 4.
 
-### 5.4 `möchten` — would like
+### 4.4 `möchten` — would like
 
 | ich | du | er/sie/es | wir | ihr | sie/Sie |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@ object, and Bruder is masculine.
 ⚠️ er/sie/es **möchte** — no -t! (It's historically a Konjunktiv form.)
 > Ich möchte einen Kaffee. · Was möchtet ihr? · Er möchte zahlen.
 
-### 5.5 `essen` and `nehmen` — new e→i verbs (like `sprechen`, L1)
+### 4.5 `essen` and `nehmen` — new e→i verbs (like `sprechen`, L1)
 
 | | essen | nehmen |
 |---|---|---|
@@ -211,7 +211,7 @@ object, and Bruder is masculine.
 Note: `du isst` and `er isst` sound exactly like `ist` — context disambiguates.
 `nehmen` also doubles the m: du **nimmst**.
 
-### 5.6 Pronunciation
+### 4.6 Pronunciation
 
 - **sch** = English "sh": **Sch**inken, **Sch**okolade, Fla**sch**e.
 - **st-/sp-** at the start of a word/stem = "scht/schp": **St**ück ≈ "schtück".
@@ -221,7 +221,7 @@ Note: `du isst` and `er isst` sound exactly like `ist` — context disambiguates
 
 ---
 
-## 6. Lesetext: Frühstück in Deutschland
+## 5. Lesetext: Frühstück in Deutschland
 
 > Was essen die Deutschen zum Frühstück? Viele essen Brot oder Brötchen mit
 > Butter, Käse oder Wurst. Auch Müsli mit Joghurt und Obst ist populär. Die
@@ -233,20 +233,22 @@ Note: `du isst` and `er isst` sound exactly like `ist` — context disambiguates
 
 ---
 
+## 6. Hörtext
+
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-## 7. Hörtext
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
-> Anna ist im Café Central. Sie hat Hunger und Durst. Sie möchte einen
-> Kaffee und ein Stück Apfelkuchen. Der Kaffee kostet zwei Euro fünfzig,
-> der Kuchen kostet drei Euro neunzig. Das macht sechs Euro vierzig. Anna
-> isst und trinkt gern im Café — der Kuchen schmeckt super!
+> Anna ist im Café Central. Sie hat Hunger und Durst. Sie möchte einen Kaffee und ein Stück Apfelkuchen. Der Kaffee kostet zwei Euro fünfzig, der Kuchen kostet drei Euro neunzig. Das macht sechs Euro vierzig. Anna isst und trinkt gern im Café — der Kuchen schmeckt super!
 
-*(You'll listen to this text in Block H, Übung H3.)*
+</details>
 
 ---
 
-## 8. Lernstrategie
+## 7. Lernstrategie
 
 Gender is the boss fight of German — start strong: make three color-coded lists
 (or Anki decks) — **der = blue, die = red, das = green** — and add every noun
