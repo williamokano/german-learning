@@ -33,6 +33,13 @@ Bold = the answer. One-line explanations for tricky items.
 
 *Unused words:* nervös, bunte, dunkel
 
+## H4 — Kurze Ansage: Modenschau im Modehaus
+
+1. **b) Zur neuen Frühjahrskollektion und einer Modenschau** — „unser Modehaus „Stilvoll" lädt Sie herzlich zur neuen Frühjahrskollektion ein. Ab fünfzehn Uhr gibt es eine exklusive Modenschau."
+2. **b) Um fünfzehn Uhr** — „Ab fünfzehn Uhr gibt es eine exklusive Modenschau."
+3. **c) Zwanzig Prozent** — „zwanzig Prozent Rabatt auf alle Sommermäntel und elegante Blusen."
+4. **a) Nur bis heute achtzehn Uhr** — „Die Aktion gilt nur bis achtzehn Uhr und nur heute."
+
 ---
 
 # Block A — Basistraining

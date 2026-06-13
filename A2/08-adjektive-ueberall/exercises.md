@@ -59,6 +59,44 @@ Listen and fill in the 7 missing words. **Three words in the box are not needed.
 > (6) ______. Schließlich nimmt sie noch eine (7) ______ schwarze Tasche
 > und verlässt die Wohnung.
 
+## Übung H4 — Kurze Ansage: Modenschau im Modehaus
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the announcement. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Wozu lädt das Modehaus „Stilvoll" ein?  
+   a) Zu einer Modenschau.  
+   b) Zur neuen Frühjahrskollektion und einer Modenschau.  
+   c) Zu einem großen Sale.
+
+2. Wann beginnt die Modenschau?  
+   a) Um vierzehn Uhr.  
+   b) Um fünfzehn Uhr.  
+   c) Um sechzehn Uhr.
+
+3. Wie viel Rabatt gibt es auf Sommermäntel?  
+   a) Zehn Prozent.  
+   b) Fünfzehn Prozent.  
+   c) Zwanzig Prozent.
+
+4. Bis wann gilt die Rabattaktion?  
+   a) Nur bis heute achtzehn Uhr.  
+   b) Bis morgen.  
+   c) Bis Ende der Woche.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage. Liebe Kundinnen und Kunden, unser Modehaus „Stilvoll" lädt Sie herzlich zur neuen Frühjahrskollektion ein. Ab fünfzehn Uhr gibt es eine exklusive Modenschau im ersten Stock. Außerdem bieten wir heute zwanzig Prozent Rabatt auf alle Sommermäntel und elegante Blusen. Die Aktion gilt nur bis achtzehn Uhr und nur heute. Wir freuen uns auf Ihren Besuch.
+
+</details>
+
 ---
 
 # Block A — Basistraining
