@@ -40,6 +40,13 @@ Gap order: (1) Wohnzimmer · (2) Küche · (3) Balkon · (4) Schreibtisch · (5)
 
 Not needed (distractors): Garten · hell
 
+## H4 — Kurze Ansage: Neue Wohnung im Haus
+
+1. **b) Eine neue Wohnung** — „in unserem Haus gibt es eine neue Wohnung."
+2. **b) Zwei Zimmer** — „Die Wohnung hat zwei Zimmer, eine Küche und ein Bad."
+3. **c) Einen Balkon** — „Es gibt auch einen kleinen Balkon."
+4. **a) Am Samstag um elf Uhr** — „Die Besichtigung ist am Samstag um elf Uhr."
+
 ---
 
 # Block A

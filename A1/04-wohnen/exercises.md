@@ -64,6 +64,44 @@ words from the bank. **Two words are not needed.**
 
 > Wohnzimmer · Küche · Balkon · Schreibtisch · schön · teuer · Garten · hell
 
+## Übung H4 — Kurze Ansage: Neue Wohnung im Haus
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Was gibt es im Haus?  
+   a) Ein neues Geschäft.  
+   b) Eine neue Wohnung.  
+   c) Einen Aufzug.
+
+2. Was hat die Wohnung?  
+   a) Drei Zimmer.  
+   b) Zwei Zimmer.  
+   c) Ein Zimmer.
+
+3. Was gibt es noch?  
+   a) Einen Garten.  
+   b) Eine Garage.  
+   c) Einen Balkon.
+
+4. Wann ist die Besichtigung?  
+   a) Am Samstag um elf Uhr.  
+   b) Am Sonntag um zehn Uhr.  
+   c) Am Freitag um vierzehn Uhr.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage. Liebe Mieterinnen und Mieter, in unserem Haus gibt es eine neue Wohnung. Die Wohnung hat zwei Zimmer, eine Küche und ein Bad. Es gibt auch einen kleinen Balkon. Die Miete ist sechshundert Euro im Monat. Die Besichtigung ist am Samstag um elf Uhr. Bitte rufen Sie uns an, wenn Sie die Wohnung sehen wollen. Vielen Dank.
+
+</details>
+
 ---
 
 # Block A — Basistraining
