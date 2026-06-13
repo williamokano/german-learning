@@ -6,13 +6,17 @@
 
 ## Übung H1 — Dialog Hör-Check
 
+**H1a — Dialog 1:**
+
 1. **R** — Bruno sagt: „Ich spiele gern Fußball!"
 2. **F** — Anna geht nur **im Sommer** schwimmen — sie sagt nie „gern".
-3. **R** — Bruno: „Es regnet und es ist windig."
-4. **F** — Anna **kann heute nicht** (sie trifft ihre Schwester) — nur
-   Bruno geht ins Kino.
 
-## Übung H2 — Hörtext-Lückentext
+**H1b — Dialog 2:**
+
+3. **R** — Bruno: „Es regnet und es ist windig."
+4. **F** — Anna **kann heute nicht** (sie trifft ihre Schwester) — nur Bruno geht ins Kino.
+
+## Übung H3 — Hörtext-Lückentext
 
 > Am **Samstag** spielt Bruno gern **Fußball** im Park. Manchmal spielt
 > er auch mit Anna Tennis. Am **Sonntag** geht er schwimmen — das
@@ -20,6 +24,8 @@
 > **Musik**. Am **Abend** kochen sie zusammen und essen Pizza.
 
 **Gap order:** (1) **Samstag** · (2) **Fußball** · (3) **Sonntag** · (4) **Schwimmbad** · (5) **Musik** · (6) **Abend**.
+
+Not needed: Tennis, Freitag, Kino.
 
 ---
 

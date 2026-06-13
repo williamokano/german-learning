@@ -20,14 +20,14 @@
 
 > **Anna:** Bruno, was machst du gern in deiner Freizeit?  
 > **Bruno:** Ich spiele gern Fußball! Am Samstag spiele ich immer mit Freunden  
-> im Park.* Und ich schwimme gern. Und du?
+> im Park.* Und ich schwimme gern. Und du?  
 > **Anna:** Ich lese sehr gern, am liebsten Krimis. Und ich fahre gern Rad.  
 > **Bruno:** Kannst du auch schwimmen?  
 > **Anna:** Ja, aber nicht sehr gut. Und ich gehe nur im Sommer schwimmen —  
-> im Winter ist das Wasser zu kalt!
+> im Winter ist das Wasser zu kalt!  
 > **Bruno:** Spielst du ein Instrument?  
 > **Anna:** Ja, ich spiele Gitarre. Und mein Bruder Felix kann sehr gut  
-> Klavier spielen.
+> Klavier spielen.  
 > **Bruno:** Toll! Ich kann nicht singen und ich kann kein Instrument spielen.  
 > Aber ich koche sehr gern — am liebsten brasilianisch!
 
@@ -305,9 +305,14 @@ construction: "it **is** rain**ing**" is simply *es regnet*.
 
 ---
 
+## 7. Hörtext
+
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-## 7. Hörtext
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
 > Am Samstag spielt Bruno gern Fußball im Park. Manchmal spielt er
 > auch mit Anna Tennis. Am Sonntag geht er schwimmen — das Schwimmbad
@@ -315,7 +320,7 @@ construction: "it **is** rain**ing**" is simply *es regnet*.
 > kochen sie zusammen und essen Pizza. Bruno kann gut kochen — Anna
 > nicht so gut.
 
-*(You'll listen to this text in Block H, Übung H2.)*
+</details>
 
 ---
 

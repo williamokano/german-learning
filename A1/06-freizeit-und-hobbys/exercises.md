@@ -10,27 +10,32 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 ## Übung H1 — Dialog Hör-Check
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3) · [dialog2.mp3](audio/dialog2.mp3)
+**H1a — Dialog 1:** 🎧 [dialog1.mp3](audio/dialog1.mp3)
 
 Listen and decide: richtig (R) oder falsch (F)?
 
 1. Bruno spielt gern Fußball. ( )
 2. Anna geht auch gern ins Schwimmbad. ( )
+
+**H1b — Dialog 2:** 🎧 [dialog2.mp3](audio/dialog2.mp3)
+
+Listen and decide: richtig (R) oder falsch (F)?
+
 3. Im zweiten Dialog regnet es. ( )
 4. Am Ende gehen Anna und Bruno ins Kino. ( )
 
-## Übung H2 — Hörtext-Lückentext
+## Übung H3 — Hörtext-Lückentext
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill each gap with **one** word from the bank.
+Listen and fill each gap with **one** word from the bank. **Three words are not needed.**
 
 > Am (1) ______ spielt Bruno gern (2) ______ im Park. Manchmal spielt
 > er auch mit Anna Tennis. Am (3) ______ geht er schwimmen — das
 > (4) ______ ist im Park. Anna sieht lieber fern oder hört (5) ______.
 > Am (6) ______ kochen sie zusammen und essen Pizza.
 >
-> *(Bank: Samstag · Fußball · Sonntag · Schwimmbad · Musik · Abend)*
+> *(Bank: Samstag · Fußball · Sonntag · Schwimmbad · Musik · Abend · Tennis · Freitag · Kino)*
 
 ---
 
