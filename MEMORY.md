@@ -83,11 +83,15 @@ This makes every save a checkpoint for the next agent.
 
 ---
 
-## Current state (live — as of 2026-06-13)
+## Current state (live — as of 2026-06-14)
 
-**Done & pushed (28 lessons — A1 + A2 COMPLETE + RETROFITTED):**
+**Done & pushed (28 lessons — A1 + A2 COMPLETE + H4 pilot done):**
 - A1/01 through A1/14 (14 lessons) — A1/01–13 all retrofitted ✅
-- A2/01 through A2/14 (14 lessons) — A2/01–13 all retrofitted ✅
+- A2/01 through A2/14 (14 lessons) — A2/01–13 all retrofitted ✅ + A2/12 H4 pilot ✅
+
+**Working dir: `~/Workspace/Personal/german-learning` on `main`.**
+**No worktrees.** opencode-created worktrees (if any) are left alone — do
+not use them for the H4 rollout.
 
 ### Retrofit progress — A2 regular lessons (Merkasten + vocab recall + C3 expand + writing context)
 
@@ -145,18 +149,21 @@ User plan: address issue #7 (Retrofit H4 Kurze Ansage to A1+A2 lessons) one
 lesson at a time, sequentially, no sub-agents (avoid token exhaustion). A2/13
 is the original H4 pilot (done, commit a8b37b8) — use it as the reference.
 
-**Pilot for the actual retrofit rollout: A2/12 Pläne und Zukunft** (commit 4b8b3b4).
+**Pilot for the actual retrofit rollout: A2/12 Pläne und Zukunft** (commit 4b8b3b4 / b54a2c9 on main).
 - Hörtext is already a weather forecast → H4 needs a *different* context.
 - Chosen context: **voicemail from Lisa at Lisbon airport** about her
   cancelled flight back to Berlin (Futur I anchor). Includes
   "Bitte ruf mich zurück" → triggers phone filter post-effect.
 - Plan: write H4 → run generate_audio.py → commit → user checks → continue.
+- **Status: ✅ user approved 2026-06-14.** Pilot complete; rollout approved.
 
 **Phased rollout (no sub-agents, one commit per lesson):**
-1. A2/12 pilot (DONE — commit 4b8b3b4) — user checking now
+1. A2/12 pilot (DONE — commit 4b8b3b4 / b54a2c9) — user approved 2026-06-14
 2. A2 batch: A2/01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11 (skip 13, 14)
 3. A1 batch: A1/01–A1/13 (skip 14 exam)
 4. Issues #5, #2, #1 as separate waves (B9 rewrite, H5 table, H5 sprechen)
+
+**Next-up lesson: A2/11 Geben und schenken.** Resume here next session.
 
 **Other open issues (for later waves):**
 - #5 B9 writing task more structured (medium priority)
