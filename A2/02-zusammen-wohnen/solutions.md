@@ -31,6 +31,13 @@
 
 *Not needed: geschrieben · groß · dunkel*
 
+## H4 — Kurze Ansage: Anruf vom Vermieter
+
+1. **b) Am Samstag um elf Uhr** — „Sie können am Samstag um elf Uhr zur Besichtigung kommen."
+2. **a) In der Lindenallee 14** — „Die Wohnung in der Lindenallee 14 ist noch frei."
+3. **a) Eine Mietschuldenfreiheitsbescheinigung und den Personalausweis** — „Bitte bringen Sie eine Mietschuldenfreiheitsbescheinigung und Ihren Personalausweis mit."
+4. **b) Bis morgen Abend** — „Bitte rufen Sie mich bis morgen Abend zurück, um den Termin zu bestätigen."
+
 ---
 
 # Block A — Lösungen

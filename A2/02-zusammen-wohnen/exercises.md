@@ -59,6 +59,44 @@ Listen and fill in the 8 missing words. **Three words in the box are not needed.
 > geschrieben.
 
 
+## Übung H4 — Kurze Ansage: Anruf vom Vermieter
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the phone message. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Wann ist die Besichtigung?  
+   a) Am Freitag um elf Uhr.  
+   b) Am Samstag um elf Uhr.  
+   c) Am Samstag um zehn Uhr.
+
+2. Wo ist die Wohnung?  
+   a) In der Lindenallee 14.  
+   b) In der Lindenstraße 14.  
+   c) In der Schillerstraße 14.
+
+3. Was soll man mitbringen?  
+   a) Eine Mietschuldenfreiheitsbescheinigung und den Personalausweis.  
+   b) Nur den Personalausweis.  
+   c) Eine Bürgschaft.
+
+4. Bis wann soll man den Termin bestätigen?  
+   a) Bis heute Abend.  
+   b) Bis morgen Abend.  
+   c) Bis nächste Woche.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Guten Tag, hier ist Herr Krause, der Vermieter. Ich rufe an wegen der Wohnungsbesichtigung am Samstag. Die Wohnung in der Lindenallee 14 ist noch frei. Sie können am Samstag um elf Uhr zur Besichtigung kommen. Die Wohnung hat zwei Zimmer, eine kleine Küche und ein Bad mit Badewanne. Bitte bringen Sie eine Mietschuldenfreiheitsbescheinigung und Ihren Personalausweis mit. Bitte rufen Sie mich bis morgen Abend zurück, um den Termin zu bestätigen. Vielen Dank!
+
+</details>
+
 ---
 
 # Block A — Basistraining
