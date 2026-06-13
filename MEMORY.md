@@ -85,9 +85,9 @@ This makes every save a checkpoint for the next agent.
 
 ## Current state (live — as of 2026-06-13)
 
-**Done & pushed (28 lessons — A2 COMPLETE + retrofit in progress):**
-- A1/01 through A1/14 (14 lessons) — retrofit pending
-- A2/01 through A2/14 (14 lessons) — A2/01–06 retrofitted ✅
+**Done & pushed (28 lessons — A1 + A2 COMPLETE + RETROFITTED):**
+- A1/01 through A1/14 (14 lessons) — A1/01–13 all retrofitted ✅
+- A2/01 through A2/14 (14 lessons) — A2/01–13 all retrofitted ✅
 
 ### Retrofit progress — A2 regular lessons (Merkasten + vocab recall + C3 expand + writing context)
 
@@ -99,14 +99,33 @@ This makes every save a checkpoint for the next agent.
 | A2/04 Arbeit und Beruf | ✅ retrofitted + C3 fixed (commit ce64301) |
 | A2/05 Gesund leben | ✅ retrofitted + C3 redesigned (commit 7eef3a3) |
 | A2/06 Medien und Kommunikation | ✅ retrofitted (commit 1187a51) |
-| A2/07 Vergleichen | ⏳ next batch |
-| A2/08 Adjektive überall | ⏳ next batch |
-| A2/09 Höflichkeit und Wünsche | ⏳ next batch |
-| A2/10 Stadt, Land, Reisen | 🔲 |
-| A2/11 Geben und schenken | 🔲 |
-| A2/12 Pläne und Zukunft | 🔲 |
+| A2/07 Vergleichen | ✅ retrofitted (commit 73bb27c) |
+| A2/08 Adjektive überall | ✅ retrofitted + C3 redesigned (commit f86167e) |
+| A2/09 Höflichkeit und Wünsche | ✅ retrofitted + C3 redesigned (commit 36531da) |
+| A2/10 Stadt, Land, Reisen | ✅ retrofitted + C3 fixed (commit 3000a7b) |
+| A2/11 Geben und schenken | ✅ retrofitted (commit b07e912) |
+| A2/12 Pläne und Zukunft | ✅ retrofitted (commit 985c599) |
 | A2/13 Menschen beschreiben | ✅ done (pilot, commit 36b111f) |
 | A2/14 Prüfungstraining A2 | — exam lesson, not retrofitted |
+
+### Retrofit progress — A1 regular lessons (Merkasten + vocab recall)
+
+| Lesson | Status |
+|---|---|
+| A1/01 Erste Kontakte | ✅ retrofitted (commit c6abe63) |
+| A1/02 Familie und Freunde | ✅ retrofitted (commit 1c1a8a4) |
+| A1/03 Essen und Trinken | ✅ retrofitted (commit 03e8a86) |
+| A1/04 Wohnen | ✅ retrofitted (commit 7e4c9c2) |
+| A1/05 Mein Tag | ✅ retrofitted (commit c8571f9) |
+| A1/06 Freizeit und Hobbys | ✅ retrofitted (commit 4f68adb) |
+| A1/07 Lernen und Arbeiten | ✅ retrofitted (commit 077be33) |
+| A1/08 Unterwegs in der Stadt | ✅ retrofitted (commit 182e909) |
+| A1/09 Einkaufen und Kleidung | ✅ retrofitted (commit 2d6e119) |
+| A1/10 Gesundheit und Körper | ✅ retrofitted (commit 9a4cc0c) |
+| A1/11 Vergangenheit | ✅ retrofitted (commit b8a16fe) |
+| A1/12 Termine und Feste | ✅ retrofitted (commit b3bab4f) |
+| A1/13 Ämter, Telefon, Alltag | ✅ retrofitted (commit 762cd74) |
+| A1/14 Prüfungstraining A1 | — exam lesson, not retrofitted |
 
 ### C3 integrity issues found during retrofit
 
@@ -117,9 +136,10 @@ Several original C3 exercises had critical integrity flaws (answer word used in 
 
 **Key lesson for future retrofits:** After subagent edits C3, always verify each answer appears exactly once. Run mental simulation of student solving each gap.
 
-**Up next — A2/07–09 retrofit batch.**
+**A2 RETROFIT COMPLETE (A2/01–13 all done). ✅**
+**A1 RETROFIT COMPLETE (A1/01–13 all done). ✅**
 
-**After all A2 done: retrofit A1/01–13, then start B1/01 Früher und heute.**
+**Up next — start B1/01 Früher und heute.**
 
 **Notes for B1 (for when we get there):**
 - B1 instruction language: English/German **mixed**
