@@ -6,11 +6,11 @@
 
 | Prüfungsteil | Items | Points | Pass threshold |
 |---|---|---|---|
-| Teil 1 · Hören | 15 items (A1–A3) | 15 | 8 |
-| Teil 2 · Lesen | 18 items (A4–A7) | 18 | 10 |
-| Teil 3 · Schreiben | 2 tasks (A8–A9) | 12 | 6 |
-| Teil 4 · Sprechen | 2 tasks (A10–A11) | 10 | 5 |
-| **TOTAL** | **45 scored items** | **55** | **29** |
+| Teil 1 · Hören | 15 items (Aufg. 1–3) | 15 | 8 |
+| Teil 2 · Lesen | 18 items (Aufg. 4–7) | 18 | 10 |
+| Teil 3 · Schreiben | 2 tasks (Aufg. 8–9) | 12 | 6 |
+| Teil 4 · Sprechen | 2 tasks (Aufg. 10–11) | 10 | 5 |
+| **TOTAL** | **4 Prüfungsteile** | **55** | **29** |
 
 **Overall pass threshold: 29 / 55 (≈ 53 %)** — and you must reach the sub-threshold in at least 3 of 4 skills.
 
@@ -208,12 +208,11 @@ Aufgaben 12–15 are bonus grammar practice, not part of the mock exam score.
 
 ## Aufgabe 13 — Finde den Fehler
 
-1. Ich bin gestern **ins** Kino **gegangen**. → **Ich bin** gestern ins Kino gegangen. (gehen → Perfekt with **sein**, not haben: *gegangen*)
-   — Error: `habe … gegangen` → correct: `bin … gegangen`
-2. Kannst du ~~Sie~~ morgen kommen? → **Kannst du morgen kommen?** (du-form — drop `Sie`)
-3. Er muss morgen früh aufstehen. → **Er muss morgen früh aufstehen.** Error: word order — `morgen` can be before `früh`, but `aufstehen` must stay at the **end**: *Er muss früh aufstehen morgen* → **Er muss morgen früh aufstehen.**
+1. Ich **bin** gestern ins Kino **gegangen**. → Error: `habe` → **bin** (gehen → Perfekt with **sein**, not haben: *bin gegangen*, not *habe gegangen*)
+2. Kannst du morgen kommen? → Error: drop `Sie` — mixing `du` and `Sie` forms is wrong. Correct: **Kannst du morgen kommen?**
+3. Er muss morgen früh aufstehen. → Error: `morgen` at the very end is wrong — with modal + separable verb the separable prefix (`auf`) must be last. Correct word order: **Er muss morgen früh aufstehen.** (morgen comes after muss, before früh; aufstehen stays as one word at the end)
 4. Sie hat ~~keinen~~ Kinder. → **keine Kinder** (plural → keine, not keinen)
-5. Er gefällt **mir** sehr. → Error: `ich` should be dative `mir`: *Er gefällt **mir** sehr.*
+5. Ich möchte den Mantel nehmen. Er gefällt **mir** sehr. → Error in second sentence: `ich` should be dative **mir** (gefallen takes Dativ: *er gefällt mir* = "I like it", not *er gefällt ich*)
 6. Am 5. Juli haben wir **einen** Termin. → Error: `ein` → `einen` (der Termin, masculine accusative)
 7. **Letzte** Woche bin ich zum Arzt gefahren. → Error: `letztes` (es) should be `letzte` (die Woche, feminine): *letzte Woche*. Also: `letztes Wochenende` ≠ `letztes Woche`. Also fine: *Ich bin **letzte Woche** zum Arzt gefahren.*
 8. Die Kinder spielen gern Fußball. Sie sind sehr **sportlich**. → Error: `sportliche` → **sportlich** (predicative adjective — no ending after sein)
