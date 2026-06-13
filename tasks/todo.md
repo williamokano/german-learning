@@ -52,12 +52,12 @@ Reference lessons (gold standard): `A1/01-erste-kontakte/`, `A1/03-essen-und-tri
 - [ ] `A2/05-gesund-leben` — Gesund leben
 - [ ] `A2/06-medien-und-kommunikation` — Medien und Kommunikation
 - [ ] `A2/07-vergleichen` — Vergleichen
-- [ ] `A2/08-adjektive-ueberall` — Adjektive überall
-- [ ] `A2/09-hoeflichkeit-und-wuensche` — Höflichkeit & Wünsche
-- [ ] `A2/10-stadt-land-reisen` — Stadt, Land, Reisen
-- [ ] `A2/11-geben-und-schenken` — Geben und schenken
-- [ ] `A2/12-plaene-und-zukunft` — Pläne und Zukunft
-- [ ] `A2/13-menschen-beschreiben` — Menschen beschreiben
+- [x] `A2/08-adjektive-ueberall` — Adjektive überall
+- [x] `A2/09-hoeflichkeit-und-wuensche` — Höflichkeit & Wünsche
+- [x] `A2/10-stadt-land-reisen` — Stadt, Land, Reisen
+- [x] `A2/11-geben-und-schenken` — Geben und schenken
+- [x] `A2/12-plaene-und-zukunft` — Pläne und Zukunft
+- [ ] `A2/13-menschen-beschreiben` — Menschen beschreiben (lesson.md drafted, needs exercises + solutions + audio)
 - [ ] `A2/14-pruefungstraining-a2` — Wiederholung & Prüfungstraining A2 ⚠️ mock exam, do solo & last
 
 ## B1 (14 topics)
@@ -127,3 +127,6 @@ Reference lessons (gold standard): `A1/01-erste-kontakte/`, `A1/03-essen-und-tri
   `hoertext.mp3` + Lückentext in Block H), widened dialog regex for A1/13
   (`### Dialog A/B/C` sub-headers, `## N. Dialoge` plural, ≥2-turn guard
   against emails), and added a longer 1.2 s pause for Hörtext.
+- 2026-06-13 · A2/10, A2/11, A2/12 shipped. A2/13 lesson.md drafted (410
+  lines, all 7 sections) but exercises.md + solutions.md + audio are still
+  to be done in the next session. See `MEMORY.md` for the full handoff.

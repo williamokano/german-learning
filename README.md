@@ -104,4 +104,4 @@ Voice assignments and background-noise settings live in `scripts/audio_config.js
 3. Check with `solutions.md`; ≥ 80% → next topic, otherwise review and redo.
 4. One topic per week is a solid pace.
 
-**Current status:** A1 complete (14 Lektionen) — A2 next.
+**Current status:** A1 (14/14) + A2/01–A2/12 (12/14) complete (26 lessons total) — A2/13 next. See `MEMORY.md` for the resume instructions on the in-flight lesson.
