@@ -103,14 +103,47 @@ not use them for the H4 rollout.
 | A2/04 Arbeit und Beruf | ✅ retrofitted + C3 fixed (commit ce64301) |
 | A2/05 Gesund leben | ✅ retrofitted + C3 redesigned (commit 7eef3a3) |
 | A2/06 Medien und Kommunikation | ✅ retrofitted (commit 1187a51) |
-| A2/07 Vergleichen | ✅ retrofitted (commit 73bb27c) |
-| A2/08 Adjektive überall | ✅ retrofitted + C3 redesigned (commit f86167e) |
-| A2/09 Höflichkeit und Wünsche | ✅ retrofitted + C3 redesigned (commit 36531da) |
-| A2/10 Stadt, Land, Reisen | ✅ retrofitted + C3 fixed (commit 3000a7b) |
-| A2/11 Geben und schenken | ✅ retrofitted (commit b07e912) |
-| A2/12 Pläne und Zukunft | ✅ retrofitted (commit 985c599) + ✅ H4 pilot (issue #7, commit 4b8b3b4) |
-| A2/13 Menschen beschreiben | ✅ H4 pilot reference + retrofitted (commits a8b37b8, 36b111f) |
+| A2/07 Vergleichen | ⏳ next batch (after H4 rollout) |
+| A2/08 Adjektive überall | ⏳ next batch |
+| A2/09 Höflichkeit und Wünsche | ⏳ next batch |
+| A2/10 Stadt, Land, Reisen | 🔲 |
+| A2/11 Geben und schenken | 🔲 |
+| A2/12 Pläne und Zukunft | ✅ retrofitted (985c599) + H4 done |
+| A2/13 Menschen beschreiben | ✅ retrofitted (36b111f) + H4 original pilot (a8b37b8) |
 | A2/14 Prüfungstraining A2 | — exam lesson, not retrofitted |
+
+### H4 Kurze Ansage retrofit (issue #7) — all 24 lessons done
+
+| Lesson | Status | Commit |
+|---|---|---|
+| A2/01 Erzähl mal | ✅ H4 done | 21135d1 |
+| A2/02 Zusammen wohnen | ✅ H4 done | 9e19283 |
+| A2/03 Begründen und erklären | ✅ H4 done | 07ea9f5 |
+| A2/04 Arbeit und Beruf | ✅ H4 done | 80763f5 |
+| A2/05 Gesund leben | ✅ H4 done | 2790620 |
+| A2/06 Medien und Kommunikation | ✅ H4 done | ecf7a75 |
+| A2/07 Vergleichen | ✅ H4 done | d57a3dc |
+| A2/08 Adjektive überall | ✅ H4 done | 7b35f27 |
+| A2/09 Höflichkeit und Wünsche | ✅ H4 done | c591b9f |
+| A2/10 Stadt, Land, Reisen | ✅ H4 done | 0781d37 |
+| A2/11 Geben und schenken | ✅ H4 done | 1f65a2f |
+| A2/12 Pläne und Zukunft | ✅ H4 done (rollout pilot) | b54a2c9 |
+| A2/13 Menschen beschreiben | ✅ H4 done (original pilot) | a8b37b8 |
+| A2/14 Prüfungstraining A2 | — exam lesson, not retrofitted | — |
+| A1/01 Erste Kontakte | ✅ H4 done | 7e46555 |
+| A1/02 Familie und Freunde | ✅ H4 done | 77cdaf1 |
+| A1/03 Essen und Trinken | ✅ H4 done | 23761f2 |
+| A1/04 Wohnen | ✅ H4 done | 61ae98b |
+| A1/05 Mein Tag | ✅ H4 done | 2066049 |
+| A1/06 Freizeit und Hobbys | ✅ H4 done | 03e39e5 |
+| A1/07 Lernen und Arbeiten | ✅ H4 done | 0e59750 |
+| A1/08 Unterwegs in der Stadt | ✅ H4 done | 1926d22 |
+| A1/09 Einkaufen und Kleidung | ✅ H4 done | 9d2d91a |
+| A1/10 Gesundheit und Körper | ✅ H4 done | f5367fb |
+| A1/11 Vergangenheit | ✅ H4 done | ad36778 |
+| A1/12 Termine und Feste | ✅ H4 done | f39ec9b |
+| A1/13 Ämter, Telefon und Alltag | ✅ H4 done | 4b228c9 |
+| A1/14 Prüfungstraining A1 | — exam lesson, not retrofitted | — |
 
 ### Retrofit progress — A1 regular lessons (Merkasten + vocab recall)
 
@@ -143,33 +176,78 @@ Several original C3 exercises had critical integrity flaws (answer word used in 
 **A2 RETROFIT COMPLETE (A2/01–13 all done). ✅**
 **A1 RETROFIT COMPLETE (A1/01–13 all done). ✅**
 
-## H4 retrofit (issue #7) — pilot in progress
+## H4 retrofit (issue #7) — ✅ COMPLETE 2026-06-14
 
-User plan: address issue #7 (Retrofit H4 Kurze Ansage to A1+A2 lessons) one
-lesson at a time, sequentially, no sub-agents (avoid token exhaustion). A2/13
-is the original H4 pilot (done, commit a8b37b8) — use it as the reference.
+Closed-loop retrofit of `## Übung H4 — Kurze Ansage: …` to all 24
+non-exam lessons (A1/01–13, A2/01–12). A2/13 was the original pilot
+(commit a8b37b8); A2/12 was the rollout pilot (commit 4b8b3b4 / b54a2c9,
+user-approved). One commit per lesson, sequentially, no sub-agents.
 
-**Pilot for the actual retrofit rollout: A2/12 Pläne und Zukunft** (commit 4b8b3b4 / b54a2c9 on main).
-- Hörtext is already a weather forecast → H4 needs a *different* context.
-- Chosen context: **voicemail from Lisa at Lisbon airport** about her
-  cancelled flight back to Berlin (Futur I anchor). Includes
-  "Bitte ruf mich zurück" → triggers phone filter post-effect.
-- Plan: write H4 → run generate_audio.py → commit → user checks → continue.
-- **Status: ✅ user approved 2026-06-14.** Pilot complete; rollout approved.
+**Commits (chronological, A2 first, then A1):**
+- A2/12 Pläne und Zukunft — b54a2c9 (pilot, approved)
+- A2/11 Geben und schenken — 1f65a2f
+- A2/10 Stadt, Land, Reisen — 0781d37
+- A2/09 Höflichkeit und Wünsche — c591b9f
+- A2/08 Adjektive überall — 7b35f27
+- A2/07 Vergleichen — d57a3dc
+- A2/06 Medien und Kommunikation — ecf7a75
+- A2/05 Gesund leben — 2790620
+- A2/04 Arbeit und Beruf — 80763f5
+- A2/03 Begründen und erklären — 07ea9f5
+- A2/02 Zusammen wohnen — 9e19283
+- A2/01 Erzähl mal — 21135d1
+- A1/13 Ämter, Telefon und Alltag — 4b228c9
+- A1/12 Termine und Feste — f39ec9b
+- A1/11 Vergangenheit — ad36778
+- A1/10 Gesundheit und Körper — f5367fb
+- A1/09 Einkaufen und Kleidung — 9d2d91a
+- A1/08 Unterwegs in der Stadt — 1926d22
+- A1/07 Lernen und Arbeiten — 0e59750
+- A1/06 Freizeit und Hobbys — 03e39e5
+- A1/05 Mein Tag — 2066049
+- A1/04 Wohnen — 61ae98b
+- A1/03 Essen und Trinken — 23761f2
+- A1/02 Familie und Freunde — 77cdaf1
+- A1/01 Erste Kontakte — 7e46555
 
-**Phased rollout (no sub-agents, one commit per lesson):**
-1. A2/12 pilot (DONE — commit 4b8b3b4 / b54a2c9) — user approved 2026-06-14
-2. A2 batch: A2/01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11 (skip 13, 14)
-3. A1 batch: A1/01–A1/13 (skip 14 exam)
-4. Issues #5, #2, #1 as separate waves (B9 rewrite, H5 table, H5 sprechen)
+**Context coverage used across the rollout (audio variety):**
+- `phone` filter (voicemail, "Bitte ruf mich zurück" / "Ich rufe an wegen"):
+  13 lessons — A2/01, 02, 03 (Durchsage is pa_system actually), 04, 05,
+  07, 09, 12, 13; A1/01, 02, 06, 07, 11, 12
+- `pa_system` filter ("Achtung, eine Durchsage"): 10 lessons — A2/03,
+  06, 08, 09, 10, 11; A1/03, 04, 08, 09, 10, 13
+- `home` context (no special keyword, clean radio voice): 1 lesson —
+  A1/05 (morning news snippet)
 
-**Next-up lesson: A2/11 Geben und schenken.** Resume here next session.
+**Generic H4 pattern that worked for every lesson:**
+1. Read the lesson's existing Dialog A/B topics + Hörtext topic to
+   pick an Ansage context that is *clearly different* from all three.
+2. Write 4–6 sentence transcript (typically 6 for A2, 5–6 for A1) in a
+   single blockquote, with the right trigger keyword for the desired
+   audio context (`Bitte ruf mich zurück` or `Ich rufe an wegen` for
+   phone, `Achtung, eine Durchsage` for pa_system, plain radio script
+   for home).
+3. Write 4 single-choice questions — distribute correct answers so
+   not all 4 are (a) or (b); shuffle positions per question.
+4. Generate `transcript_ansage1.mp3` via
+   `python3 scripts/generate_audio.py <lesson>/exercises.md`.
+5. Add `## Übung H4 — Kurze Ansage: [title]` + questions + `<details>`
+   spoiler block to `exercises.md`, mirror the solutions in
+   `solutions.md`. Always include pre-written `🎧` audio links 2 lines
+   before AND at the top of H4 so the generator's patching is a no-op.
+6. Commit with `Retrofit [level]/[nn] [Title] — H4 Kurze Ansage (issue #7)`
+   + 1-line content summary. Push to `main`.
 
-**Other open issues (for later waves):**
+**Skipped (intentionally):** A1/14, A2/14 — exam lessons, not retrofitted
+per the project's convention that exam lessons use a different format.
+
+**GitHub issue #7 closed.**
+
+**Other open issues (for next waves):**
 - #5 B9 writing task more structured (medium priority)
-- #2 H5 table completion / H6 sequencing (lower priority — H5 conflicts with
-  #1 Sprechen naming; will coordinate when one of them is done)
-- #1 Sprechen tasks (high priority per issue, but H4 retrofit is in flight)
+- #2 H5 table completion / H6 sequencing (lower priority — H5 conflicts
+  with #1 Sprechen naming; will coordinate)
+- #1 Sprechen tasks (high priority per issue, but #5/#2 first)
 
 **After H4 done: continue with the Merkasten retrofit for A2/07–12 (was the
 "next batch" before this plan was reshuffled).**
