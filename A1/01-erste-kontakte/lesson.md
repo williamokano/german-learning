@@ -149,6 +149,8 @@ M wie Martha…* — useful but not required yet.
 
 > **Hör zu 6 — Alphabet (Vokale & Sonderzeichen):** a · e · i · o · u · ä · ö · ü · ß
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -165,6 +167,18 @@ M wie Martha…* — useful but not required yet.
 `sie` does triple duty: *she*, *they*, and (capitalized) *formal you*. The verb
 ending and context tell you which one it is.
 
+> 📌 **Merkasten — Personal pronouns**
+> | German | English |
+> |---|---|
+> | ich | I |
+> | du | you (informal) |
+> | er / sie / es | he / she / it |
+> | wir | we |
+> | ihr | you all (informal) |
+> | sie / Sie | they / you (formal) |
+> 
+> ▶ The verb ending must agree with the subject pronoun — always match them.
+
 ### 4.2 The verb `sein` (to be) — completely irregular, memorize it
 
 | | sein |
@@ -177,6 +191,18 @@ ending and context tell you which one it is.
 | sie/Sie | **sind** |
 
 > Ich **bin** Anna. · Du **bist** nett. · Das **ist** Bruno. · Wir **sind** aus Berlin.
+
+> 📌 **Merkasten — sein**
+> | Pronoun | sein |
+> |---|---|
+> | ich | bin |
+> | du | bist |
+> | er · sie · es | ist |
+> | wir | sind |
+> | ihr | seid |
+> | sie · Sie | sind |
+> 
+> ▶ `sein` is completely irregular — no rules apply, you must memorize all six forms.
 
 ### 4.3 Regular verbs in the present tense
 
@@ -194,6 +220,18 @@ Take the infinitive (`kommen`), remove `-en` to get the stem (`komm-`), add endi
 \* Stems ending in `-ß/-s/-z` merge with the `-st` ending: `du heißt` (not *heißst*).
 ⚠️ `sprechen` changes its stem vowel `e → i` for `du` and `er/sie/es` — your first
 irregular ("strong") verb. More of these in Lektion 6.
+
+> 📌 **Merkasten — Regular verb endings (lernen)**
+> | Pronoun | Ending | lernen |
+> |---|---|---|
+> | ich | -e | lerne |
+> | du | -st | lernst |
+> | er / sie / es | -t | lernt |
+> | wir | -en | lernen |
+> | ihr | -t | lernt |
+> | sie / Sie | -en | lernen |
+> 
+> ▶ Stem + ending: strip `-en` from the infinitive, then attach the correct ending.
 
 ### 4.4 Word order — the most important rule in German
 
@@ -223,6 +261,14 @@ If something else takes position 1, the subject moves to position 3 ("inversion"
 **Yes/no questions**: verb FIRST, subject second (preview — drilled in Lektion 2):
 
 > **Kommst** du aus Brasilien? — Ja. / Nein, ich komme aus Portugal.
+
+> 📌 **Merkasten — Word order (V2 rule)**
+> | Position 1 | Position 2 (verb!) | Rest |
+> |---|---|---|
+> | Ich | wohne | in Berlin. |
+> | Jetzt | wohne | ich in Berlin. |
+> 
+> ▶ The conjugated verb is ALWAYS in position 2 — if something else leads, the subject shifts to position 3.
 
 ### 4.5 The pronunciation survival kit
 
