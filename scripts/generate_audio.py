@@ -588,13 +588,20 @@ def parse_lesson_hoerzu(text: str) -> list[dict]:
 def parse_lesson_hoertext(text: str) -> list[dict]:
     """Extract `## N. Hörtext` sections from lesson.md.
 
-    The Hörtext is rendered as a SINGLE TTS turn — the whole paragraph is
-    sent to ElevenLabs in one call and the model inserts its own natural
-    pauses at `.`, `,`, and paragraph breaks. Per-sentence splitting was
-    abandoned because it caused stitching artifacts (each call re-establishes
-    prosody) and the explicit 1.2 s inter-sentence pause broke the flow of
-    the narration. For Lückentext exercises the student reads the text
-    below the player while listening; model-natural pauses are sufficient.
+    The Hörtext is rendered as a SINGLE TTS turn. The transcript may be
+    placed directly as a blockquote or hidden inside a `<details>` spoiler
+    tag so students cannot read it before listening. Both layouts are
+    supported:
+
+      Direct (legacy):
+        ## 6. Hörtext
+        > Sentence one. Sentence two.
+
+      Spoiler (preferred):
+        ## 6. Hörtext
+        <details><summary>📄 Transkript …</summary>
+        > Sentence one. Sentence two.
+        </details>
     """
     results = []
     lines = text.splitlines()
@@ -602,26 +609,21 @@ def parse_lesson_hoertext(text: str) -> list[dict]:
         m = HOERTEXT_SECTION.match(line)
         if not m:
             continue
-        # Collect contiguous blockquote lines after the Hörtext header.
+        # Scan forward until the next ## heading, collecting blockquote lines.
+        # If the blockquotes are inside a <details> block we still find them.
         body: list[str] = []
         j = i + 1
         while j < len(lines):
             row = lines[j]
+            if re.match(r'^##\s', row):
+                break
             if row.startswith(">"):
                 cleaned = row.lstrip(">").strip()
                 if cleaned:
                     body.append(cleaned)
-                j += 1
-                continue
-            if row.strip() == "":
-                # Allow blank lines (before, between, after blockquotes).
-                j += 1
-                continue
-            break
+            j += 1
         if not body:
             continue
-        # Join all body lines with a single space so wrapped-line text
-        # flows together as one utterance. The model handles pauses.
         full_text = " ".join(body)
         turns = [{"speaker": "_mono", "text": full_text}]
         results.append({
@@ -640,8 +642,11 @@ def patch_lesson(lesson_path: Path, blocks: list[dict]):
     lines = text.splitlines(keepends=True)
     for block in reversed(blocks):
         hi = block["header_line"]
-        preceding = "".join(lines[max(0, hi - 3): hi])
-        if "🎧" in preceding:
+        # Check a window around the header: 3 lines before and 6 lines after,
+        # so we catch both the pre-header placement (dialog/hoerzu) and the
+        # post-header placement used in the Hörtext spoiler layout.
+        window = "".join(lines[max(0, hi - 3): min(len(lines), hi + 7)])
+        if "🎧" in window:
             continue
         filename = f"{block['slug']}.mp3"
         tag_line = AUDIO_TAG.format(filename=filename) + "\n\n"

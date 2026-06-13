@@ -249,16 +249,22 @@ If something else takes position 1, the subject moves to position 3 ("inversion"
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
 ## 6. Hörtext
 
-> Hallo! Ich heiße Yuki Tanaka. Ich komme aus Japan, aus Osaka. Ich wohne
-> jetzt in München und lerne Deutsch. Ich spreche Japanisch, Englisch und
-> ein bisschen Deutsch. Mein Deutschkurs ist super — wir sind zwanzig
-> Studenten im Kurs.
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
-*(You'll listen to this text in Block H, Übung H3.)*
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+> Ich bin im Deutschkurs in München. Der Kurs hat zwanzig Studenten.
+> Ein Student heißt Miguel — er kommt aus Spanien, aus Madrid.
+> Eine Studentin heißt Hana — sie kommt aus der Türkei, aus Istanbul.
+> Wir sprechen Deutsch, Englisch und Spanisch.
+> Der Kurs ist super!
+
+</details>
 
 ---
 
