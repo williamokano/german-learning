@@ -156,6 +156,8 @@
 | Das ist eine Überraschung! | That's a surprise! |
 | Was darf es kosten? | How much may it cost? / What's the budget? |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -192,6 +194,8 @@ Some German verbs take **two** objects: an **indirect object** (in the **Dativ**
 
 > Why? With `kaufen`, the recipient is not a true indirect object — the action is *buying*, not *giving*. So we use a prepositional phrase: `für + Akk`.
 
+> 📌 **Merkasten — Two-object verbs:** High-frequency verbs that take **Dativ + Akkusativ**: *geben, schenken, bringen, zeigen, erklären, empfehlen, schicken, schreiben, wünschen, leihen, sagen*. Pattern: **Who does WHAT to WHOM → verb + Dat (person) + Akk (thing)**. Exception: *kaufen* uses **für + Akk** for the recipient, not the dative.
+
 ---
 
 ### 4.2 Word order — three cases to remember
@@ -203,6 +207,8 @@ The most common mistake with two-object verbs is putting the objects in the wron
 | **Two nouns** | **Dativ noun before Akkusativ noun** | Ich schenke **meiner Schwester** **ein Buch**. |
 | **Pronoun + noun** | **Pronoun first, no matter the case** | Ich schenke **ihr** **ein Buch**. |
 | **Two pronouns** | **Akkusativ pronoun before Dativ pronoun** | Ich schenke **es** **ihr**. |
+
+> 📌 **Merkasten — Word order rules:** Three cases to remember: **(1)** Two nouns → **Dativ noun first**, then Akkusativ noun. **(2)** Pronoun + noun → **pronoun first**, regardless of its case. **(3)** Two pronouns → **Akkusativ pronoun first**, then Dativ pronoun.
 
 ---
 
@@ -224,6 +230,8 @@ When both objects are **nouns**, the dative (person) always comes **first**:
 
 > ⚠️ **L1 trap — English:** English doesn't have a fixed order for two objects ("I gave the book to my sister" / "I gave my sister the book"). German does. Memorize: *Dativ noun → Akkusativ noun.*
 
+> 📌 **Merkasten — Two nouns:** When both objects are nouns, **Dativ (person) comes before Akkusativ (thing)** — always. Example: "Ich gebe **meiner Mutter** **das Buch**."
+
 ---
 
 ### 4.4 Pronoun + noun: the pronoun comes first
@@ -236,6 +244,8 @@ When one of the objects is replaced by a **pronoun**, the pronoun always comes *
 > Ich schreibe **ihm** **eine Karte**.
 
 > ⚠️ **The pronoun rule beats the case rule.** Even if the pronoun is accusative and the noun is dative, the pronoun still goes first: *Ich schenke **es** **ihm**.* (NOT: *Ich schenke ihm es.*)
+
+> 📌 **Merkasten — Pronoun + noun:** When one object is a pronoun, the **pronoun always comes first** — regardless of whether it is Dativ or Akkusativ. Example: "Ich gebe **es** meiner Mutter." (Akk pronoun before Dat noun) / "Ich gebe **ihr** das Buch." (Dat pronoun before Akk noun).
 
 ---
 
@@ -250,6 +260,8 @@ When **both** objects are pronouns, the **Akkusativ pronoun comes first**, then 
 > Ich schreibe **es** **ihm** morgen.
 
 > ⚠️ **L1 trap — English again:** English would say "I give it to her." German puts both pronouns in the **Mittelfeld**, with **Akkusativ before Dativ** — no preposition needed.
+
+> 📌 **Merkasten — Two pronouns:** When both objects are pronouns, **Akkusativ comes before Dativ** — the reverse of the noun rule. Example: "Ich gebe **es** **ihr**." (es = Akk, ihr = Dat). No preposition between them.
 
 ---
 
@@ -266,6 +278,14 @@ When **both** objects are pronouns, the **Akkusativ pronoun comes first**, then 
 > 1. Is it two nouns? → Dativ noun first.
 > 2. Is one a pronoun? → The pronoun is first.
 > 3. Are both pronouns? → Akkusativ pronoun first, then Dativ pronoun.
+
+> 📌 **Merkasten — Full picture summary:**
+>
+> | Situation | Order | Example |
+> |---|---|---|
+> | Two nouns | Dat noun → Akk noun | Ich gebe **meiner Mutter** **das Buch**. |
+> | Pronoun + noun | Pronoun (any case) → Noun | Ich gebe **es** meiner Mutter. / Ich gebe **ihr** das Buch. |
+> | Two pronouns | Akk pronoun → Dat pronoun | Ich gebe **es** **ihr**. |
 
 ---
 
@@ -289,6 +309,14 @@ You need to recognize which pronoun is which case:
 > - **ihr** (Dat) = "her" — dative, indirect object (person)
 > - **ihnen** (Dat pl.) = "them" — dative plural
 > - **Sie** (formal) = "you" — same form in Nom and Akk
+
+> 📌 **Merkasten — Dativ pronouns at a glance:**
+>
+> | ich | du | er | sie | es | wir | ihr | sie/Sie |
+> |---|---|---|---|---|---|---|---|
+> | **mir** | **dir** | **ihm** | **ihr** | **ihm** | **uns** | **euch** | **ihnen/Ihnen** |
+>
+> Tip: *mir, dir* rhyme; *ihm* appears for both *er* and *es*; *ihr* (Dat sg.) ≠ *ihnen* (Dat pl.).
 
 ---
 

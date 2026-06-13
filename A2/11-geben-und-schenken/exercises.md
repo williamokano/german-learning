@@ -442,10 +442,11 @@ glücklich nach Hause (6) ______.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
+Fill the 10 gaps using words from the box. **Ten words are not needed.**
 Each word may be used once.
 
-> GING · KAUFEN · EMPFAHL · EMPFEHLE · BESTES · KAUFTE · PACKTE · SCHRIEB · WÜNSCHE · BRACHTE · GEHT · KAUFST · EMPFIEHLT · SCHENKTE · BRINGT
+> BRACHTE · BRINGT · DANKTE · EMPFAHL · EMPFEHLE · EMPFIEHLT · BESTES · GEHT · GING · HOLTE ·
+> KAUFEN · KAUFTE · KAUFST · LEGTE · ÖFFNETE · PACKTE · SCHENKTE · SCHRIEB · WÜNSCHE · ZAHLTE
 
 Letzten Samstag (1) ______ Anna in die Stadt. Sie wollte ein
 Geschenk für ihre Freundin Lisa (2) ______. Im Buchladen (3) ______
@@ -505,6 +506,11 @@ Bedanke dich für ein Geschenk, das du bekommen hast. Schreibe:
 - Ob du dich bald melden wirst
 
 A model answer is in `solutions.md` — write yours **first**.
+
+**Self-check before moving on:**
+- [ ] Did each two-object verb use Dativ (recipient/person) BEFORE Akkusativ (thing given) when both are nouns?
+- [ ] When you replaced a noun with a pronoun, did the pronoun come BEFORE the remaining noun?
+- [ ] If you used two pronouns, did Akkusativ come BEFORE Dativ (e.g., `Ich gebe es ihr`)?
 
 ---
 

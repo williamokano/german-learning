@@ -345,7 +345,7 @@ Complete text:
 
 Word bank in gap order: **ging · kaufen · empfahl · empfehle · bestes · kaufte · packte · schrieb · wünsche · brachte**.
 
-*Not needed: geht · kaufst · empfiehlt · schenkte · bringt.*
+*Not needed: geht · kaufst · empfiehlt · schenkte · bringt · dankte · holte · legte · öffnete · zahlte.*
 
 ⚠️ The text is largely in **Präteritum** (simple past), which you learned in
 A2/01 for modals and which A2 learners encounter frequently in written
