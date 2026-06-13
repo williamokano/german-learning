@@ -128,6 +128,8 @@ aus Polyester
 **stehen** (to suit — with dative!) · **passen** (to fit — with dative!) ·
 **gefallen** (to like — with dative!) · **gehören** (to belong to) · **helfen** (to help)
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 5. Grammatik
@@ -152,6 +154,20 @@ ihn…) from earlier lessons. Now add the **dative**:
 ⚠️ **Memory hook:** *Mir, dir* rhyme with "beer" — the two singular informal
 dative pronouns. `uns` and `euch` are the same as accusative — no change.
 `Ihnen` (formal dative) is capitalized like `Sie`.
+
+> 📌 **Merkasten — Dativ-Pronomen**
+> | Nominativ | Dativ |
+> |---|---|
+> | ich | **mir** |
+> | du | **dir** |
+> | er | **ihm** |
+> | sie (sg.) | **ihr** |
+> | es | **ihm** |
+> | wir | **uns** |
+> | ihr | **euch** |
+> | sie (pl.) / Sie | **ihnen / Ihnen** |
+> 
+> ▶ Memory hook: mir/dir rhyme · ihm/ihr match grammatical gender (m/f).
 
 ### 5.2 Verbs with dative objects
 
@@ -191,6 +207,27 @@ plural, the verb is plural: *Die Schuhe **gefallen** mir* (not *gefällt*).
 
 ⚠️ `helfen` is irregular: du **hilfst**, er/sie/es **hilft** (e → i, like `sprechen`).
 
+> 📌 **Merkasten — Verben mit Dativobjekt**
+>
+> These verbs take a **dative person** (+ accusative thing where applicable). Pattern: **verb + [Dat person] + [Akk thing]**
+>
+> | Verb | Meaning | Frame |
+> |---|---|---|
+> | geben | to give | [Dat] + [Akk] |
+> | schenken | to give as a gift | [Dat] + [Akk] |
+> | zeigen | to show | [Dat] + [Akk] |
+> | schicken | to send | [Dat] + [Akk] |
+> | erklären | to explain | [Dat] + [Akk] |
+> | empfehlen | to recommend | [Dat] + [Akk] |
+> | gehören | to belong to | [Dat] only |
+> | gefallen | to please / like | [Dat] only (thing is subject!) |
+> | helfen | to help | [Dat] only |
+> | passen | to fit / suit | [Dat] only |
+> | stehen | to suit (look) | [Dat] only |
+> | danken | to thank | [Dat] only |
+>
+> ▶ When you see these verbs, ask: "Who is the person affected?" — that person goes in the Dativ.
+
 ### 5.3 The demonstrative `dieser/diese/dieses` (this/that)
 
 `dieser` points to a specific thing (stronger than the article). It follows
@@ -207,6 +244,15 @@ the **same endings** as the definite article:
 > **Diese** Jacke gefällt mir. (f, Nom)
 > Ich kaufe **diese** Jacke. (f, Akk)
 > **Dieses** Hemd passt mir nicht. (n, Nom/Akk — no change)
+
+> 📌 **Merkasten — dieser/diese/dieses**
+>
+> | | Maskulin | Feminin | Neutrum | Plural |
+> |---|---|---|---|---|
+> | **Nominativ** | dieser | diese | dieses | diese |
+> | **Akkusativ** | **diesen** | diese | dieses | diese |
+>
+> ▶ Endings mirror the definite article (der → dieser, die → diese, das → dieses). Only Maskulin Akkusativ changes: **diesen**.
 
 ### 5.4 The question word `welcher?/welche?/welches?` (which?)
 
@@ -226,6 +272,15 @@ the **same endings** as the definite article:
 ⚠️ "Welche Größe" is accusative feminine (die Größe) but looks the same as nominative
 feminine — no problem, just know the noun's gender.
 
+> 📌 **Merkasten — welcher?/welche?/welches?**
+>
+> | | Maskulin | Feminin | Neutrum | Plural |
+> |---|---|---|---|---|
+> | **Nominativ** | welcher? | welche? | welches? | welche? |
+> | **Akkusativ** | **welchen?** | welche? | welches? | welche? |
+>
+> ▶ Same endings as `dieser` — `welcher` is the interrogative counterpart. Ask "which one?" among known options.
+
 ### 5.5 Sentence structure with dative objects
 
 When a sentence has both a dative and an accusative object:
@@ -243,6 +298,18 @@ When a sentence has both a dative and an accusative object:
 For this lesson focus on: **dative pronoun + verb** (the most frequent pattern):
 
 > Das steht **dir** gut. · Das passt **mir** nicht. · Kann ich **Ihnen** helfen?
+
+> 📌 **Merkasten — Satzstruktur mit Dativobjekten**
+>
+> **Word order when both Dativ and Akkusativ objects are present:**
+>
+> | Situation | Order | Example |
+> |---|---|---|
+> | Both are nouns | Dativ → Akkusativ | Ich gebe *der Verkäuferin* (Dat) *das Geld* (Akk). |
+> | Pronoun + noun | Pronoun first | Ich gebe *es* (Akk pron.) *der Verkäuferin* (Dat noun). |
+> | Both are pronouns | Akkusativ → Dativ | Ich gebe *es ihr*. |
+>
+> ▶ Key rule: **Dativ before Akkusativ** when both are nouns. Pronouns jump to the front.
 
 ### 5.6 Pronunciation — new sounds in this lesson
 
