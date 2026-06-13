@@ -333,7 +333,20 @@ Read each learner's sentence. Is it correct (✓) or wrong (✗)? If wrong, writ
 
 ## Übung B10 — Smalltalk bei der Arbeit: Dialog schreiben
 
-Write a 6–8 line small-talk dialogue between two colleagues (Anna and a new colleague named Tom) on their first day at the office. Use at least one `wenn`-clause and `als` + profession. Use the informal `du`.
+**Situation:** It is Bruno's first week at the IT firm. He meets a new colleague, Tom, at the coffee machine on Monday morning. They don't know each other yet.
+
+Write a 6–8 line small-talk dialogue between Bruno and Tom. Use the informal `du`. Include:
+- A greeting and introducing yourself
+- At least **one `wenn`-clause** (e.g. a daily routine or condition at the office)
+- `als` + a profession or role (e.g. "Ich arbeite als …")
+- At least one phrase from §2 Redemittel
+
+A model answer is in `solutions.md` — write yours **first**.
+
+**Self-check before moving on:**
+- [ ] After `wenn`, does the verb appear at the very end of the clause?
+- [ ] Did you use `als` without an article before the profession?
+- [ ] Is the comma in place between the `wenn`-clause and the main clause?
 
 ---
 
@@ -365,13 +378,13 @@ Bruno Ferreira
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**  
+Fill the 10 gaps using words from the box. **Ten words are not needed.**
 Each word may be used once only.
 
-> ALS · ARBEITE · BEGINN · BEI · BÜRO · CHEFIN · GEHALT · KANTINE · KOLLEGEN · LANGE ·
-> PAUSE · STELLE · TEILZEIT · WENN · ZUSAMMEN
+> ALS · ARBEITE · AUSBILDUNG · BEI · BEWERBUNG · BÜRO · BEGINNT · CHEF · CHEFIN · FEIERABEND ·
+> GEHALT · KANTINE · KOLLEGEN · LANGE · PAUSE · STELLE · TEILZEIT · VOLLZEIT · WENN · ZUSAMMEN
 
-Guten Tag! Ich heiße Petra Schmidt und ich (1) ______ als Buchhalterin (2) ______ einer mittelgroßen Firma in Frankfurt. Mein Arbeitstag (3) ______ um acht Uhr dreißig. Ich sitze im (4) ______ im dritten Stock. Meine (5) ______ sind sehr nett — wir arbeiten gut (6) ______. (7) ______ ich Hunger habe, gehe ich in die (8) ______. Das (9) ______ ist gut — ich bin zufrieden. (10) ______ man arbeitet, ist eine gute Umgebung sehr wichtig.
+Guten Tag! Ich heiße Petra Schmidt und ich (1) ______ als Buchhalterin (2) ______ einer mittelgroßen Firma in Frankfurt. Mein Arbeitstag (3) ______ um acht Uhr dreißig. Ich sitze im (4) ______ im dritten Stock. Meine (5) ______ sind sehr nett — wir arbeiten gut (6) ______. (7) ______ ich Hunger habe, gehe ich in die (8) ______. Ich mache eine kurze (9) ______ von zwölf bis dreizehn Uhr. Das (10) ______ ist gut — ich bin insgesamt sehr zufrieden.
 
 ## Übung C4 — Lesen
 

@@ -309,21 +309,18 @@ Accept any dialogue with: informal `du`, at least one `wenn`-clause (verb at end
 
 ## C3 — Sprachbausteine Teil 2
 
-1. **ARBEITE**
-2. **BEI**
-3. **BEGINN** *(also: BEGINNT — either is valid; BEGINN as noun would need "der Beginn ist…", but BEGINNT as verb fits better: "Mein Arbeitstag beginnt…")*
+1. **ARBEITE** — ich arbeite als Buchhalterin
+2. **BEI** — bei einer mittelgroßen Firma (`bei + Dativ`)
+3. **BEGINNT** — Mein Arbeitstag beginnt um acht Uhr dreißig (3rd sg. conjugated verb)
+4. **BÜRO** — im Büro im dritten Stock
+5. **KOLLEGEN** — Meine Kollegen sind sehr nett (plural → `meine … sind`)
+6. **ZUSAMMEN** — wir arbeiten gut zusammen
+7. **WENN** — Wenn ich Hunger habe, … (conditional `wenn`)
+8. **KANTINE** — gehe ich in die Kantine
+9. **PAUSE** — Ich mache eine kurze Pause von zwölf bis dreizehn Uhr
+10. **GEHALT** — Das Gehalt ist gut
 
-Correction: Gap 3 needs a verb form. The correct fill is **BEGINNT** if reading as a verb (*Mein Arbeitstag beginnt um acht Uhr dreißig*). Accept **BEGINNT**.
-
-4. **BÜRO**
-5. **KOLLEGEN**
-6. **ZUSAMMEN**
-7. **WENN**
-8. **KANTINE**
-9. **GEHALT**
-10. **WENN**
-
-Not needed: **ALS · CHEFIN · LANGE · PAUSE · TEILZEIT**
+*Not used: ALS · AUSBILDUNG · BEWERBUNG · CHEF · CHEFIN · FEIERABEND · LANGE · STELLE · TEILZEIT · VOLLZEIT*
 
 ## C4 — Lesen
 

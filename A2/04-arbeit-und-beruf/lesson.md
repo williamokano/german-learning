@@ -153,6 +153,8 @@
 | beschreiben | to describe | hat beschrieben ⚠️ |
 | vereinbaren | to arrange, agree on | hat vereinbart |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -190,6 +192,15 @@ This works the same way as in `weil`-clauses:
 
 > ⚠️ In Perfekt inside a `wenn`-clause: `hat`/`ist` goes **last**: `…wenn er fertig **gegessen hat**`.
 
+> 📌 **Merkasten — `wenn`-Satz**
+> | Position | Content |
+> |---|---|
+> | 1 | `Wenn` + rest of clause → **verb LAST** |
+> | 2 | Main clause → **verb FIRST** |
+> 
+> `Wenn ich Hunger habe, **gehe** ich in die Kantine.`  
+> ▶ The comma is mandatory. ▶ `wenn` can also come second: `Ich gehe in die Kantine, wenn ich Hunger habe.`
+
 ---
 
 ### 4.2 `wenn` vs. `weil` — side-by-side
@@ -202,6 +213,14 @@ This works the same way as in `weil`-clauses:
 | Example | Er ruft an, **wenn** er fertig **ist**. | Er ruft nicht an, **weil** er beschäftigt **ist**. |
 
 Both are subordinating conjunctions → verb at the end. The difference is **meaning**, not structure.
+
+> 📌 **Merkasten — `wenn` vs. `weil`**
+> | Word | Meaning | Use |
+> |---|---|---|
+> | `wenn` | when / if | condition or repeated event |
+> | `weil` | because | reason/cause |
+> 
+> Both send the verb to the END of the clause.
 
 ---
 
@@ -217,6 +236,15 @@ Both are subordinating conjunctions → verb at the end. The difference is **mea
 **No article, no adjective ending** — `als` + bare job noun (with capital letter).
 
 ⚠️ **Preview note:** `als` also appears in comparatives (`größer als` = bigger than) and in past-time clauses (`als ich jung war` = when I was young). Both uses will be fully taught in A2/L7 and A2/L12. For now, learn **`als` + profession** as a fixed chunk.
+
+> 📌 **Merkasten — `als` + Beruf**
+> | Pattern | Example |
+> |---|---|
+> | `arbeiten als [Beruf]` | Ich arbeite als Lehrerin. |
+> | `als [Beruf] tätig sein` | Sie ist als Ärztin tätig. |
+> | `Ich bin von Beruf …` | Ich bin von Beruf Ingenieur. |
+> 
+> ▶ No article after `als` when naming a role.
 
 ---
 
