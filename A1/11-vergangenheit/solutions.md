@@ -29,6 +29,13 @@ Complete Hörtext:
 Word bank in gap order: Stadt · Café · Kaffee · Kino · Sonntag · Buch.
 Not needed (distractors): Museum · Samstag · Tee.
 
+## H4 — Kurze Ansage: Marias Wochenende
+
+1. **a) Von Maria** — „Hallo Anna, hier ist Maria."
+2. **b) Ins Museum** — „Ich bin am Samstag ins Museum gegangen."
+3. **a) Sie hat Kaffee getrunken** — „Am Nachmittag habe ich im Café Kaffee getrunken."
+4. **b) Sie ist im Park spazieren gegangen** — „Am Sonntag bin ich mit meinem Freund spazieren gegangen. Wir haben den ganzen Tag im Park verbracht."
+
 ---
 
 # Block A

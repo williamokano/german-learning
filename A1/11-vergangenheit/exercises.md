@@ -42,6 +42,44 @@ Höre den Text und fülle die Lücken.
 
 > **Word bank:** Stadt · Café · Kaffee · Kino · Sonntag · Buch · Museum · Samstag · Tee
 
+## Übung H4 — Kurze Ansage: Marias Wochenende
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Wessen Nachricht ist das?  
+   a) Von Maria.  
+   b) Von Anna.  
+   c) Von Bruno.
+
+2. Wohin ist Maria am Samstag gegangen?  
+   a) Ins Kino.  
+   b) Ins Museum.  
+   c) Ins Café.
+
+3. Was hat Maria am Nachmittag im Café gemacht?  
+   a) Sie hat Kaffee getrunken.  
+   b) Sie hat Wein getrunken.  
+   c) Sie hat Kuchen gegessen.
+
+4. Was hat Maria am Sonntag gemacht?  
+   a) Sie hat ein Buch gelesen.  
+   b) Sie ist im Park spazieren gegangen.  
+   c) Sie hat Fußball gespielt.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Hallo Anna, hier ist Maria. Ich rufe an wegen meinem Wochenende. Ich bin am Samstag ins Museum gegangen und habe dort eine tolle Ausstellung gesehen. Am Nachmittag habe ich im Café Kaffee getrunken und ein Buch gelesen. Am Sonntag bin ich mit meinem Freund spazieren gegangen. Wir haben den ganzen Tag im Park verbracht. Bitte ruf mich zurück, damit ich dir mehr erzählen kann. Vielen Dank!
+
+</details>
+
 ---
 
 # Block A — Basistraining
