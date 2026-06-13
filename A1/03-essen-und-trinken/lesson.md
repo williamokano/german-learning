@@ -131,6 +131,8 @@ ein Becher Joghurt — *no "of" in German: ein Glas Saft = a glass __of__ juice.
 
 > **Hör zu 4 — Mengen und Verpackungen:** Flasche · Glas · Tasse · Stück · Kilo
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -150,6 +152,14 @@ never just `Apfel`.
 A few helpful tendencies (not rules!): -e nouns are usually feminine (die Banane,
 die Tomate); -chen is always neuter (das Brötchen, das Mädchen).
 
+> 📌 **Merkasten — The article system**
+>
+> | Case | Masculine | Feminine | Neuter |
+> |---|---|---|---|
+> | Nominativ | **der** | **die** | **das** |
+>
+> ▶ Gender is arbitrary — memorize the article together with every noun, always: not *Apfel* but *der Apfel*.
+
 ### 4.2 `kein` — negating nouns
 
 You met `nicht` in Lektion 2. Division of labor:
@@ -161,6 +171,16 @@ You met `nicht` in Lektion 2. Division of labor:
   names): > Der Kaffee ist **nicht** gut. · Ich heiße **nicht** Paul.
 
 Rule of thumb: *could you say "ein" there (or nothing)? → kein. Otherwise → nicht.*
+
+> 📌 **Merkasten — `kein`**
+>
+> | | Masculine | Feminine | Neuter | Plural |
+> |---|---|---|---|---|
+> | Nominativ | **kein** | **keine** | **kein** | **keine** |
+>
+> Mirrors the *ein/eine/ein* pattern exactly. Contrast: `ein Kaffee` → `kein Kaffee` · `eine Milch` → `keine Milch`.
+>
+> ▶ Use *kein* where you could use *ein* (or no article). Use *nicht* everywhere else.
 
 ### 4.3 The accusative case — the Lektion 2 mystery solved
 
@@ -188,6 +208,15 @@ object, and Bruder is masculine.
 
 \* `es gibt` (there is/are) appears properly in Lektion 4.
 
+> 📌 **Merkasten — The accusative case**
+>
+> | | Masculine | Feminine | Neuter | Plural |
+> |---|---|---|---|---|
+> | Nominativ | **der** / ein / kein | die / eine / keine | das / ein / kein | die / — / keine |
+> | Akkusativ | **den / einen / keinen** | die / eine / keine | das / ein / kein | die / — / keine |
+>
+> ▶ Only masculine singular changes (der → **den**, ein → **einen**, kein → **keinen**). Feminine, neuter, and plural are identical in Nom and Akk.
+
 ### 4.4 `möchten` — would like
 
 | ich | du | er/sie/es | wir | ihr | sie/Sie |
@@ -196,6 +225,14 @@ object, and Bruder is masculine.
 
 ⚠️ er/sie/es **möchte** — no -t! (It's historically a Konjunktiv form.)
 > Ich möchte einen Kaffee. · Was möchtet ihr? · Er möchte zahlen.
+
+> 📌 **Merkasten — `möchten`**
+>
+> | ich | du | er·sie·es | wir | ihr | sie·Sie |
+> |---|---|---|---|---|---|
+> | möchte | möchtest | **möchte** | möchten | möchtet | möchten |
+>
+> ▶ Konjunktiv II form — er·sie·es takes **möchte**, not *möchtet*. There is no *-t* ending in the 3rd person singular.
 
 ### 4.5 `essen` and `nehmen` — new e→i verbs (like `sprechen`, L1)
 
@@ -210,6 +247,16 @@ object, and Bruder is masculine.
 
 Note: `du isst` and `er isst` sound exactly like `ist` — context disambiguates.
 `nehmen` also doubles the m: du **nimmst**.
+
+> 📌 **Merkasten — `essen` and `nehmen` (e→i verbs)**
+>
+> | | essen | nehmen |
+> |---|---|---|
+> | ich | esse | nehme |
+> | du | **isst** | **nimmst** |
+> | er·sie·es | **isst** | **nimmt** |
+>
+> ▶ The e→i stem-vowel change applies only in the *du* and *er·sie·es* forms. All other forms keep the regular stem. Note: `nehmen` also doubles the *m* in those two forms.
 
 ### 4.6 Pronunciation
 
