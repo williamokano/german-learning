@@ -30,8 +30,8 @@ If you cloned before installing LFS, run `git lfs pull` afterwards — no re-clo
 
 ## Regenerating audio
 
-Hören audio is pre-generated and committed. If you want to regenerate it (e.g. with
-different voices, or after writing a new mock exam), you need an
+Hören audio is pre-generated and committed. If you want to regenerate it (e.g. after
+editing dialog text or adding a new lesson), you need an
 [ElevenLabs](https://elevenlabs.io) API key — the Starter plan (~$5/month) covers all
 current audio. Free accounts cannot use the API for voice generation.
 
@@ -41,24 +41,54 @@ export ELEVEN_API_KEY=sk_...
 
 # 2. Install Python dependencies
 pip install -r scripts/requirements.txt
+```
 
-# 3. Regenerate audio for one lesson (skips files that already exist)
-python scripts/generate_audio.py A1/14-pruefungstraining-a1/exercises.md
+### Regenerate everything
 
-# 4. Regenerate all lessons with Hören transcripts
-python scripts/generate_audio.py --all
+```bash
+# All lessons and exercises across the whole course
+python3 scripts/generate_audio.py --all
+```
 
-# 5. Force-regenerate (delete the audio/ folder first)
-rm -rf A1/14-pruefungstraining-a1/audio/
-python scripts/generate_audio.py A1/14-pruefungstraining-a1/exercises.md
+### Regenerate one lesson
+
+```bash
+# All audio blocks for a single lesson (skips files that already exist)
+python3 scripts/generate_audio.py A1/01-erste-kontakte/lesson.md
+python3 scripts/generate_audio.py A1/01-erste-kontakte/exercises.md
+```
+
+### Regenerate one section of a lesson
+
+Use `--section <slug>` to target a single audio block. The script force-deletes
+the existing MP3 and regenerates only that clip — no other files are touched.
+
+| Section slug | What it regenerates |
+|---|---|
+| `dialog1_a` | Dialog A (informal variant) |
+| `dialog1_b` | Dialog B (formal variant) |
+| `dialog2` | Second dialog in a lesson |
+| `hoertext` | §6 Hörtext listening passage |
+| `hoerzu1` … `hoerzu6` | Pronunciation clips (A1/01–04) |
+
+```bash
+# Re-record just the formal dialog in A1/01
+python3 scripts/generate_audio.py A1/01-erste-kontakte/lesson.md --section dialog1_b
+
+# Re-record just the Hörtext passage
+python3 scripts/generate_audio.py A1/01-erste-kontakte/lesson.md --section hoertext
+```
+
+### Dry-run (no API calls)
+
+Preview what would be generated without spending ElevenLabs credits:
+
+```bash
+python3 scripts/generate_audio.py --dry-run A1/01-erste-kontakte/lesson.md
+python3 scripts/generate_audio.py --dry-run --verbose A1/01-erste-kontakte/lesson.md
 ```
 
 Voice assignments and background-noise settings live in `scripts/audio_config.json`.
-To preview what would be generated without calling the API:
-
-```bash
-python scripts/generate_audio.py --dry-run A1/14-pruefungstraining-a1/exercises.md
-```
 
 ## How to study
 
