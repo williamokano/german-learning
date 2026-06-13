@@ -40,6 +40,13 @@ Trap notes:
 4. **kostet** — third-person singular. The bag costs money; don't confuse with *kauft* (buys — he buys at the end of the text).
 5. **gefällt** — „Die Tasche gefällt Bruno sehr" = Bruno likes the bag. Note: *die Tasche* is the SUBJECT (the thing liked) and Bruno is in the dative. Distractor *passt* (fits) would not apply to a bag for someone else.
 
+## H4 — Kurze Ansage: Sommerschlussverkauf im Kaufhaus
+
+1. **a) Ein Sommerschlussverkauf** — „unser Kaufhaus hat heute einen großen Sommerschlussverkauf."
+2. **c) Fünfzig Prozent** — „Alle Sommerkleider sind jetzt fünfzig Prozent günstiger."
+3. **b) Die Schuhe** — „Auch die Schuhe sind zwanzig Prozent billiger."
+4. **a) Bis heute achtzehn Uhr** — „Der Schlussverkauf gilt nur bis achtzehn Uhr und nur heute."
+
 ---
 
 # Block A

@@ -45,6 +45,44 @@ Listen and fill in the 5 missing words. **Three words in the box are not needed.
 > Die Tasche ist aus ______ und ______ fünfundsechzig Euro.
 > Die Tasche ______ Bruno sehr — er kauft sie und bezahlt mit Karte.
 
+## Übung H4 — Kurze Ansage: Sommerschlussverkauf im Kaufhaus
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Was ist heute im Kaufhaus?  
+   a) Ein Sommerschlussverkauf.  
+   b) Eine Modenschau.  
+   c) Eine Eröffnung.
+
+2. Wie viel Prozent billiger sind die Sommerkleider?  
+   a) Zwanzig Prozent.  
+   b) Dreißig Prozent.  
+   c) Fünfzig Prozent.
+
+3. Was ist auch günstiger?  
+   a) Die Mäntel.  
+   b) Die Schuhe.  
+   c) Die Hemden.
+
+4. Bis wann gilt der Schlussverkauf?  
+   a) Bis heute achtzehn Uhr.  
+   b) Bis morgen.  
+   c) Bis nächste Woche.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage. Liebe Kundinnen und Kunden, unser Kaufhaus hat heute einen großen Sommerschlussverkauf. Alle Sommerkleider sind jetzt fünfzig Prozent günstiger. Auch die Schuhe sind zwanzig Prozent billiger. Die neuen Winterjacken sind ab heute auch da. Der Schlussverkauf gilt nur bis achtzehn Uhr und nur heute. Kommen Sie bald und finden Sie Ihr Lieblingsstück. Vielen Dank für Ihren Besuch.
+
+</details>
+
 ---
 
 # Block A — Basistraining
