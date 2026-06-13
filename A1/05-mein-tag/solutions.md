@@ -4,14 +4,14 @@
 
 # Block H — Hören
 
-## Übung H1 — Dialog: Annas Tag
+## Übung H1a — Dialog A: Annas Tag
 
 1. **R** — Anna steht um 6:30 Uhr auf. („Um halb sieben — also um 6:30 Uhr.")
 2. **F** — Annas Arbeit fängt um **acht** Uhr an, nicht um neun.
 3. **R** — Die Mittagspause ist von halb eins bis halb zwei.
 4. **F** — Am Abend **kocht** Anna oder **sieht** fern — „immer" ist zu stark.
 
-## Übung H2 — Dialog: Pläne am Telefon
+## Übung H1b — Dialog B: Pläne am Telefon
 
 1. **R** — Anna fragt: „Hast du am Samstag Zeit?"
 2. **F** — Der Film fängt um **acht** Uhr an, nicht um halb acht.
@@ -22,21 +22,20 @@
 
 Complete Hörtext:
 
-> Tom **steht** um Viertel vor sieben auf. Er duscht und frühstückt —
-> **Brötchen** mit Käse und Kaffee. Um acht fängt seine Arbeit an. Er
-> **arbeitet** von acht bis halb fünf. Die Mittagspause ist von halb eins
-> bis eins. Am Nachmittag **kauft** er ein. Am Abend kocht er und **sieht**
-> manchmal fern — aber nicht immer. Um elf geht er **schlafen**.
+> Yuki steht um halb acht auf und frühstückt **schnell** — nur Kaffee und ein
+> Brötchen. Ihr Deutschkurs **fängt** um neun Uhr an. Von neun bis halb eins
+> lernt sie Deutsch. Die **Mittagspause** ist von halb eins bis zwei. Am
+> Nachmittag **kauft** Yuki ein oder ruft ihre Freunde an. Abends lernt sie oft
+> Vokabeln, und um **halb** elf geht sie schlafen.
 
-Word bank in gap order: steht · Brötchen · arbeitet · kauft · sieht · schlafen.
+Word bank in gap order: schnell · fängt · Mittagspause · kauft · halb (needed); distractors: arbeitet · früh.
 
 Trap notes:
-1. **steht** — position 2 of the sentence; the prefix **auf** flies to the end (auf|stehen).
-2. **Brötchen** — neuter noun (das Brötchen). The phrase "Brötchen mit Käse" is a chunk from Dialog 1.
-3. **arbeitet** — -t-stem inserts -e- (arbeiten → er arbeit**et**). NOT "arbeit't".
-4. **kauft** — conjugated form of ein|kaufen in position 2; the prefix **ein** flies to the end ("Am Nachmittag kauft er **ein**").
-5. **sieht** — e → ie of fern|sehen (ich sehe · du siehst · er **sieht**); separable: the prefix **fern** flies to the end.
-6. **schlafen** — infinitive in the chunk "schlafen gehen". No umlaut here (umlaut is du/er only: schläfst / schläft).
+1. **schnell** — adverb (quickly); distractor **früh** (early) doesn't fit "frühstückt schnell".
+2. **fängt** — a → ä change (an|fangen, er-form); prefix **an** flies to the end.
+3. **Mittagspause** — compound noun, always capitalized; "Pause" alone is wrong here.
+4. **kauft** — er/sie-form of ein|kaufen; distractor **arbeitet** doesn't fit since Yuki is a student.
+5. **halb** — colloquial time formula: "um halb elf" = 10:30.
 
 ---
 

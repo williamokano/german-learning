@@ -13,28 +13,30 @@
 
 ---
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+## 1. Dialoge
 
-## 1. Dialog: Annas Tag
+### Dialog A: Annas Tag
+
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
 > **Bruno:** Anna, wann stehst du auf?  
 > **Anna:** Um halb sieben — also um 6:30 Uhr. Ich dusche, frühstücke, und um  
-> acht fängt meine Arbeit an.
+> acht fängt meine Arbeit an.  
 > **Bruno:** Und wann hast du Mittagspause?  
 > **Anna:** Von halb eins bis halb zwei. Ich esse meistens ein Brötchen mit Käse.  
 > **Bruno:** Wann kaufst du ein?  
 > **Anna:** Am Nachmittag, nach der Arbeit.* Und am Abend koche ich oder ich  
-> sehe fern.
+> sehe fern.  
 > **Bruno:** Siehst du viel fern?  
 > **Anna:** Nein, nicht viel. Manchmal rufe ich auch meine Eltern an. Um elf  
-> Uhr gehe ich schlafen.
+> Uhr gehe ich schlafen.  
 
 \* `nach der Arbeit` (after work) — a dative chunk; the preposition system comes
 later. Same for `meistens` (= mostly).
 
-🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
+### Dialog B: Pläne am Telefon
 
-## 2. Dialog: Pläne am Telefon
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 > **Anna:** Hallo Bruno, hier ist Anna. Hast du am Samstag Zeit?  
 > **Bruno:** Ja, am Samstag bin ich frei. Was machen wir?  
@@ -48,7 +50,7 @@ later. Same for `meistens` (= mostly).
 
 ---
 
-## 3. Redemittel
+## 2. Redemittel
 
 ### Nach der Zeit fragen (asking the time)
 
@@ -74,7 +76,7 @@ later. Same for `meistens` (= mostly).
 
 ---
 
-## 4. Wortschatz
+## 3. Wortschatz
 
 ### Tagesablauf-Verben — separable verbs marked with |
 
@@ -117,9 +119,9 @@ der Samstag (in the north also: Sonnabend) · der Sonntag
 
 ---
 
-## 5. Grammatik
+## 4. Grammatik
 
-### 5.1 Separable verbs (trennbare Verben) — the German bracket
+### 4.1 Separable verbs (trennbare Verben) — the German bracket
 
 Many verbs are `prefix + verb`: **auf**stehen, **ein**kaufen, **an**rufen.
 In the present tense, the verb part goes to **position 2** as usual — and the
@@ -141,7 +143,7 @@ How do you know a verb is separable? The prefix carries the **stress**:
 **AUF**stehen, **EIN**kaufen (separable). You'll meet inseparable prefixes
 (be-, ver-…) later.
 
-### 5.2 Telling time — two systems
+### 4.2 Telling time — two systems
 
 **Official** (timetables, TV, announcements): hour + Uhr + minutes, 24h clock.
 > 13:30 → dreizehn Uhr dreißig · 8:15 → acht Uhr fünfzehn · 21:05 → einundzwanzig Uhr fünf
@@ -161,7 +163,7 @@ How do you know a verb is separable? The prefix carries the **stress**:
 "half *of the way to* eight". Portuguese/English speakers ("sete e meia",
 "half past seven") get this wrong for years — drill it until it hurts.
 
-### 5.3 Temporal prepositions
+### 4.3 Temporal prepositions
 
 | preposition | used with | example |
 |---|---|---|
@@ -170,12 +172,12 @@ How do you know a verb is separable? The prefix carries the **stress**:
 | **in der** | night ⚠️ | in der Nacht |
 | **von … bis** | start–end | von neun bis fünf, von Montag bis Freitag |
 
-### 5.4 `arbeiten` — verbs with -t/-d stems (recap from `finden`, L4)
+### 4.4 `arbeiten` — verbs with -t/-d stems (recap from `finden`, L4)
 
 Stems ending in -t or -d insert an **-e-**: du arbeit**est**, er arbeit**et**,
 ihr arbeit**et**. Same family: finden, kosten, and later antworten.
 
-### 5.5 `schlafen` and `anfangen` — your first a→ä verbs
+### 4.5 `schlafen` and `anfangen` — your first a→ä verbs
 
 Like e→i (sprechen, essen, nehmen), some a-verbs take an umlaut for du/er:
 
@@ -190,7 +192,7 @@ Like e→i (sprechen, essen, nehmen), some a-verbs take an umlaut for du/er:
 And `fernsehen` combines both features — separable AND e→ie:
 ich sehe fern · du **siehst** fern · er **sieht** fern (full e→ie family in L6).
 
-### 5.6 Pronunciation
+### 4.6 Pronunciation
 
 - Separable prefixes are **stressed**: **AUF**stehen, **EIN**kaufen,
   **FERN**sehen. Hit the prefix hard when speaking.
@@ -201,7 +203,7 @@ ich sehe fern · du **siehst** fern · er **sieht** fern (full e→ie family in 
 
 ---
 
-## 6. Lesetext: Der Tag von Tom Berger
+## 5. Lesetext: Der Tag von Tom Berger
 
 > Tom Berger ist Bäcker (= baker). Sein Tag beginnt früh: Er steht um drei Uhr
 > auf! Um Viertel nach drei fängt seine Arbeit an. Er macht Brot und Brötchen —
@@ -212,21 +214,26 @@ ich sehe fern · du **siehst** fern · er **sieht** fern (full e→ie family in 
 
 ---
 
+## 6. Hörtext
+
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-## 7. Hörtext
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
-> Tom steht um Viertel vor sieben auf. Er duscht und frühstückt — Brötchen
-> mit Käse und Kaffee. Um acht fängt seine Arbeit an. Er arbeitet von acht
-> bis halb fünf. Die Mittagspause ist von halb eins bis eins. Am Nachmittag
-> kauft er ein. Am Abend kocht er und sieht manchmal fern — aber nicht
-> immer. Um elf geht er schlafen.
+> Yuki steht um halb acht auf und frühstückt schnell — nur Kaffee und ein
+> Brötchen. Ihr Deutschkurs fängt um neun Uhr an. Von neun bis halb eins
+> lernt sie Deutsch. Die Mittagspause ist von halb eins bis zwei. Am
+> Nachmittag kauft Yuki ein oder ruft ihre Freunde an. Abends lernt sie oft
+> Vokabeln, und um halb elf geht sie schlafen.
 
-*(You'll listen to this text in Block H, Übung H3.)*
+</details>
 
 ---
 
-## 8. Lernstrategie
+## 7. Lernstrategie
 
 For one week, **narrate your day in German, at the moment you do things**:
 "Ich stehe auf. Ich dusche. Ich kaufe ein." Five words at a time, out loud or

@@ -8,9 +8,9 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 # Block H — Hören
 
-## Übung H1 — Dialog: Annas Tag
+## Übung H1a — Dialog A: Annas Tag
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
 Listen and decide: richtig (R) oder falsch (F)?
 
@@ -19,9 +19,9 @@ Listen and decide: richtig (R) oder falsch (F)?
 3. Die Mittagspause ist von halb eins bis halb zwei. ( )
 4. Am Abend sieht Anna immer fern. ( )
 
-## Übung H2 — Dialog: Pläne am Telefon
+## Übung H1b — Dialog B: Pläne am Telefon
 
-🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 Listen and decide: richtig (R) oder falsch (F)?
 
@@ -36,13 +36,13 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 Höre den Text und fülle die Lücken.
 
-> Tom ______ um Viertel vor sieben auf. Er duscht und frühstückt — ______
-> mit Käse und Kaffee. Um acht fängt seine Arbeit an. Er ______ von acht
-> bis halb fünf. Die Mittagspause ist von halb eins bis eins. Am
-> Nachmittag ______ er ein. Am Abend kocht er und ______ manchmal fern
-> — aber nicht immer. Um elf geht er ______.
+> Yuki steht um halb acht auf und frühstückt ______ — nur Kaffee und ein
+> Brötchen. Ihr Deutschkurs ______ um neun Uhr an. Von neun bis halb eins
+> lernt sie Deutsch. Die ______ ist von halb eins bis zwei. Am
+> Nachmittag ______ Yuki ein oder ruft ihre Freunde an. Abends lernt sie oft
+> Vokabeln, und um ______ elf geht sie schlafen.
 
-> (steht · Brötchen · arbeitet · kauft · sieht · schlafen)
+> (schnell · fängt · Mittagspause · kauft · halb · arbeitet · früh)
 
 ---
 
@@ -356,7 +356,7 @@ Fill the 10 gaps from the box. **Five words are not needed.** Each word once.
 
 ## Übung C4 — Lesen
 
-**Text 1:** Read „Der Tag von Tom Berger“ in `lesson.md`, section 6.
+**Text 1:** Read „Der Tag von Tom Berger” in `lesson.md`, section 5.
 Richtig (R) oder falsch (F)?
 
 1. Tom steht um drei Uhr auf. ( )
