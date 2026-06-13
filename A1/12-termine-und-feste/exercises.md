@@ -44,6 +44,44 @@ Höre den Text und fülle die Lücken. **Zwei Wörter sind zu viel.**
 
 **Wortkasten:** an · dritten · einladen · einzuladen · fünften · schickt · Samstag · Termin · vierten
 
+## Übung H4 — Kurze Ansage: Lisa sagt ein Treffen ab
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Wessen Nachricht ist das?  
+   a) Von Lisa.  
+   b) Von Anna.  
+   c) Von ihrer Schwester.
+
+2. Was muss Lisa absagen?  
+   a) Den Arzttermin.  
+   b) Das Konzert am Sonntag.  
+   c) Das Treffen am achtzehnten Oktober.
+
+3. Wann schlägt Lisa ein neues Treffen vor?  
+   a) Am Samstag um fünfzehn Uhr.  
+   b) Am Sonntag um fünfzehn Uhr.  
+   c) Am Montag um fünfzehn Uhr.
+
+4. Was soll Anna tun?  
+   a) Zurückrufen.  
+   b) Eine SMS schicken.  
+   c) Ins Krankenhaus gehen.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Hallo Anna, hier ist Lisa. Ich rufe an wegen unseres Treffens am Samstag. Leider muss ich unser Treffen am achtzehnten Oktober absagen — ich habe einen Arzttermin bekommen. Können wir uns vielleicht am Sonntag, dem neunzehnten Oktober, um fünfzehn Uhr treffen? Bitte ruf mich zurück, damit ich weiß, ob der neue Termin passt. Vielen Dank und bis bald!
+
+</details>
+
 ---
 
 # Block A — Basistraining

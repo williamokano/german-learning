@@ -41,6 +41,13 @@ Trap notes:
 6. **vierten** — ordinal dative; not `fünften` (distractor).
 7. **schickt** — er/sie-form of `schicken`.
 
+## H4 — Kurze Ansage: Lisa sagt ein Treffen ab
+
+1. **a) Von Lisa** — „Hallo Anna, hier ist Lisa."
+2. **c) Das Treffen am achtzehnten Oktober** — „Leider muss ich unser Treffen am achtzehnten Oktober absagen."
+3. **b) Am Sonntag um fünfzehn Uhr** — „Können wir uns vielleicht am Sonntag, dem neunzehnten Oktober, um fünfzehn Uhr treffen?"
+4. **a) Zurückrufen** — „Bitte ruf mich zurück, damit ich weiß, ob der neue Termin passt."
+
 ---
 
 # Block A — Basistraining
