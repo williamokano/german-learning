@@ -6,29 +6,39 @@
 
 ## Übung H1 — Dialog Hör-Check
 
+### H1a — Dialog 1: Im Kaufhaus
+
 1. **F** — Anna sagt „Ich suche eine Jacke" (ohne Farbe). Die Verkäuferin sagt, die Jacke ist rot.
 2. **R** — Die Verkäuferin sagt: „Die Jacke steht Ihnen sehr gut! Und sie passt Ihnen perfekt."
-3. **R** — Bruno sucht „Sportschuhe" und sagt am Ende „Den nehme ich!" (er kauft).
-4. **F** — Bruno probiert die Schuhe in Größe **43** an, nicht 42.
+3. **F** — Anna kauft die Jacke. Sie sagt: „Ja, ich finde sie schön. Ich nehme sie!"
+4. **R** — Die Verkäuferin sagt: „Die Jacke steht Ihnen sehr gut!"
 
-## Übung H2 — Hörtext-Lückentext
+### H1b — Dialog 2: Im Sportgeschäft
+
+1. **R** — Bruno sagt: „Ich suche Sportschuhe."
+2. **F** — Bruno probiert die Schuhe in Größe **43** an, nicht 42.
+3. **R** — Der Verkäufer sagt: „Die kosten neunundneunzig Euro."
+4. **F** — Bruno kauft die günstigeren Schuhe für fünfundvierzig Euro. Er sagt: „Den nehme ich!"
+
+## Übung H3 — Hörtext-Lückentext
 
 Complete Hörtext:
 
-> Anna kauft eine neue **Jacke**. Sie geht in ein **Kaufhaus** in der Stadt
-> und sucht eine **schwarze** Jacke. Die **Verkäuferin** zeigt ihr eine
-> Jacke in Größe 38 — sie **passt** und steht Anna gut. Sie kostet
-> **achtzig** Euro. Anna nimmt die Jacke und bezahlt mit Karte.
+> Bruno sucht ein **Geschenk** für seine Mutter.
+> Er geht in ein **Modegeschäft** und findet eine schöne Tasche.
+> Die Tasche ist aus **Leder** und **kostet** fünfundsechzig Euro.
+> Die Tasche **gefällt** Bruno sehr — er kauft sie und bezahlt mit Karte.
 
-Word bank in gap order: Jacke · Kaufhaus · schwarze · Verkäuferin · passt · achtzig.
+Gap answers in order: Geschenk · Modegeschäft · Leder · kostet · gefällt
+
+Not needed: Tasche · kauft · passt
 
 Trap notes:
-1. **Jacke** — feminine noun (die Jacke, -n). Main object of the Hörtext; also appears intact in sentences 2 and 4 and the closing line.
-2. **Kaufhaus** — neuter noun (das Kaufhaus, "Kaufhäuser"). „in ein Kaufhaus" = into a department store.
-3. **schwarze** — adjective ending -e on the accusative feminine „Jacke" (eine schwarze Jacke). Treat as a chunk — full adjective-declension rules come in A2/08.
-4. **Verkäuferin** — feminine noun (die Verkäuferin, -nen), the shop assistant. Matches „Dialog 1" topic.
-5. **passt** — third-person singular of *passen* (to fit). Both *passt* and *steht* in this sentence take dative.
-6. **achtzig** — the number 80.
+1. **Geschenk** — neuter noun (das Geschenk, -e). Bruno is buying a gift, not shopping for himself.
+2. **Modegeschäft** — neuter noun (das Modegeschäft). A fashion/clothing shop, distinct from the Kaufhaus in the Lesetext.
+3. **Leder** — neuter noun (das Leder). Material; „aus Leder" = made of leather. Distractor *Tasche* is tempting but it's the object found, not the material.
+4. **kostet** — third-person singular. The bag costs money; don't confuse with *kauft* (buys — he buys at the end of the text).
+5. **gefällt** — „Die Tasche gefällt Bruno sehr" = Bruno likes the bag. Note: *die Tasche* is the SUBJECT (the thing liked) and Bruno is in the dative. Distractor *passt* (fits) would not apply to a bag for someone else.
 
 ---
 
@@ -208,7 +218,7 @@ about appearance; item 8 **passt** refers to the fit (size).
 3. **Welche** Jacke nimmst du? (die Jacke = f → welche, not welcher)
 4. Die Hose gehört **meiner** Schwester. (dative required: meiner Schwester, not *mein Schwester*)
 5. Kann ich **dir** helfen? (`helfen` takes dative: du → dir)
-6. Das T-Shirt gefällt **ihr** nicht. (*sie* → *ihr* — dative pronoun!)
+6. Das Kleid steht **ihr** sehr gut. (*sie* → *ihr* — `stehen` takes dative pronoun!)
 7. **Diese** Schuhe sind zu groß. (plural subject → sind; dieser → diese for plural)
 8. Er **trägt** heute einen Anzug. (du/er-form is trägt, not *träg*)
 9. **Welcher** Mantel kostet weniger? (`welcher` because Mantel is the subject, Nominativ m)
@@ -341,8 +351,9 @@ Not needed: DIR, GEHÖRT, HELFEN, MIR, WELCHE.
 > *(nach dem Anprobieren)*
 > **Kunde:** Er passt mir perfekt und er steht mir gut. Was kostet er?
 > **Verkäufer:** Fünfundvierzig Euro.
-> **Kunde:** Super — ich nehme ihn! Soll ich ihn einpacken?
-> **Verkäufer:** Ja, bitte!
+> **Kunde:** Super — ich nehme ihn!
+> **Verkäufer:** Soll ich ihn einpacken?
+> **Kunde:** Ja, bitte!
 
 Self-check:
 - Did you use a dative verb correctly (gefallen/passen/stehen + dative pronoun)?

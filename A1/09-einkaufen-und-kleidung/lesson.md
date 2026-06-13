@@ -14,9 +14,9 @@
 
 ---
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
-
 ## 1. Dialog: Im Kaufhaus (In the department store)
+
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
 
 > **Verkäuferin:** Guten Tag! Kann ich Ihnen helfen?  
 > **Anna:** Ja, gern. Ich suche eine Jacke. Diese hier — wie viel kostet die?  
@@ -34,17 +34,15 @@
 
 ---
 
-🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
-
 ## 2. Dialog: Mit Bruno im Sportgeschäft
 
-> **Bruno:** Entschuldigung, ich suche Sportschuhe. Haben Sie diese Schuhe in  
-> Größe 43?
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
+
+> **Bruno:** Entschuldigung, ich suche Sportschuhe. Haben Sie diese Schuhe in Größe 43?  
 > **Verkäufer:** Einen Moment, ich schaue … ja, wir haben noch Größe 43.  
 > **Bruno:** Super! Darf ich sie anprobieren?  
 > **Verkäufer:** Natürlich. Wie sind die Schuhe? Passen sie Ihnen?  
-> **Bruno:** Ja, sie passen gut. Aber diese Schuhe hier — die gefallen mir  
-> besser. Was kosten die?
+> **Bruno:** Ja, sie passen gut. Aber diese Schuhe hier — die gefallen mir besser. Was kosten die?  
 > **Verkäufer:** Die kosten neunundneunzig Euro.  
 > **Bruno:** Das ist zu teuer für mich. Haben Sie auch Schuhe für weniger?  
 > **Verkäufer:** Ja, dieser Schuh hier kostet nur fünfundvierzig Euro.  
@@ -283,16 +281,22 @@ structures in this lesson.
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
 ## 7. Hörtext
 
-> Anna kauft eine neue Jacke. Sie geht in ein Kaufhaus in der Stadt und
-> sucht eine schwarze Jacke. Die Verkäuferin zeigt ihr eine Jacke in
-> Größe 38 — sie passt und steht Anna gut. Sie kostet achtzig Euro.
-> Anna nimmt die Jacke und bezahlt mit Karte.
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
-*(You'll listen to this text in Block H, Übung H2.)*
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+> Bruno sucht ein Geschenk für seine Mutter.
+> Er geht in ein Modegeschäft und findet eine schöne Tasche.
+> Die Tasche ist aus Leder und kostet fünfundsechzig Euro.
+> Der Verkäufer sagt: „Die Tasche steht Ihrer Mutter sicher gut!"
+> Die Tasche gefällt Bruno sehr — er kauft sie und bezahlt mit Karte.
+
+</details>
 
 ---
 

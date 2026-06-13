@@ -10,27 +10,40 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 ## Übung H1 — Dialog Hör-Check
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3) · [dialog2.mp3](audio/dialog2.mp3)
+### H1a — Dialog 1: Im Kaufhaus
+
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
 
 Listen and decide: richtig (R) oder falsch (F)?
 
 1. Anna sucht eine rote Jacke. ( )
 2. Die Jacke passt Anna gut. ( )
-3. Im zweiten Dialog kauft Bruno Sportschuhe. ( )
-4. Bruno probiert die Schuhe in Größe 42 an. ( )
+3. Anna findet die Jacke zu teuer und kauft sie nicht. ( )
+4. Die Verkäuferin sagt, die Jacke steht Anna sehr gut. ( )
 
-## Übung H2 — Hörtext-Lückentext
+### H1b — Dialog 2: Im Sportgeschäft
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
+
+Listen and decide: richtig (R) oder falsch (F)?
+
+1. Bruno sucht Sportschuhe. ( )
+2. Bruno probiert die Schuhe in Größe 42 an. ( )
+3. Die teuren Schuhe kosten neunundneunzig Euro. ( )
+4. Bruno kauft am Ende keine Schuhe. ( )
+
+## Übung H3 — Hörtext-Lückentext
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Höre den Text und fülle die Lücken.
+Listen and fill in the 5 missing words. **Three words in the box are not needed.**
 
-> Anna kauft eine neue ______. Sie geht in ein ______ in der Stadt und
-> sucht eine ______ Jacke. Die ______ zeigt ihr eine Jacke in
-> Größe 38 — sie ______ und steht Anna gut. Sie kostet ______ Euro.
-> Anna nimmt die Jacke und bezahlt mit Karte.
+**Word bank:** Geschenk · Leder · Modegeschäft · Tasche · kostet · gefällt · passt · kauft
 
-> (Jacke · Kaufhaus · schwarze · Verkäuferin · passt · achtzig)
+> Bruno sucht ein ______ für seine Mutter.
+> Er geht in ein ______ und findet eine schöne Tasche.
+> Die Tasche ist aus ______ und ______ fünfundsechzig Euro.
+> Die Tasche ______ Bruno sehr — er kauft sie und bezahlt mit Karte.
 
 ---
 
