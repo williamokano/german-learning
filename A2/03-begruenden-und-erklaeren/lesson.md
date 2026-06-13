@@ -142,6 +142,8 @@
 | interessant | interesting |
 | seltsam | strange, odd |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -181,6 +183,13 @@ A subordinate clause can come **before or after** the main clause. When it comes
 > **Weil ich krank bin, komme ich nicht.** ← subordinate clause first → main clause inverts
 > **Ich komme nicht, weil ich krank bin.** ← main clause first → normal order
 
+> 📌 **Merkasten — weil und dass: Grundregel**
+> | Konjunktion | Einleitung | Verbposition |
+> |---|---|---|
+> | weil | Grund (Warum?) | Verb am Ende |
+> | dass | eingebettete Aussage | Verb am Ende |
+> ▶ Beide sind Nebensätze. Immer Komma davor. Verb geht ans Ende — auch bei Perfekt und Modalverben.
+
 ---
 
 ### 4.2 `weil` — giving reasons (because)
@@ -198,6 +207,11 @@ A subordinate clause can come **before or after** the main clause. When it comes
 
 ❌ *Ich lerne Deutsch, weil ich **wohne** in Berlin.* — WRONG (verb not at end)  
 ✅ *Ich lerne Deutsch, weil ich in Berlin **wohne**.* — CORRECT
+
+> 📌 **Merkasten — weil**
+> ▶ `weil` = "because" → antwortet auf *Warum?*
+> ▶ Verb geht ans Ende: *…weil er krank **ist**.* / *…weil er viel gearbeitet **hat**.* / *…weil er lernen **muss**.*
+> ▶ Komma ist Pflicht: *Ich schlafe, weil ich müde bin.*
 
 ---
 
@@ -221,6 +235,11 @@ It commonly follows verbs like: **sagen, denken, glauben, wissen, finden, meinen
 
 > Das ist schön. (Das = that, demonstrative)  
 > Ich finde, dass das schön ist. (dass = conjunction; das = the/that)
+
+> 📌 **Merkasten — dass**
+> ▶ `dass` = "that" → leitet eingebettete Aussagen ein (sagen, glauben, finden, hoffen, wissen …)
+> ▶ Verb geht ans Ende: *Ich glaube, dass er krank **ist**.*
+> ▶ Nicht verwechseln: `das` (Artikel/Pronomen) ≠ `dass` (Konjunktion)
 
 ---
 
@@ -248,6 +267,13 @@ Notice the **inversion** with `deshalb/darum/deswegen`: when they take position 
 ❌ *Ich bin müde, deshalb ich viel gearbeitet habe.* — WRONG  
 ✅ *Ich bin müde, weil ich viel gearbeitet habe.* — OR:  
 ✅ *Ich habe viel gearbeitet. Deshalb bin ich müde.* — CORRECT
+
+> 📌 **Merkasten — deshalb / darum / deswegen**
+> | | Satztyp | Verbposition |
+> |---|---|---|
+> | weil | Nebensatz | Verb am Ende |
+> | deshalb / darum / deswegen | Hauptsatz | Verb Position 2 (Inversion!) |
+> ▶ Gleiche Bedeutung, andere Struktur. Nie `deshalb` + Verbendstellung verwenden.
 
 ---
 

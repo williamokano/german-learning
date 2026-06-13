@@ -405,26 +405,22 @@ ich nächstes Jahr die B1-Prüfung machen.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps. **Five words are not needed.**
+Fill the 10 gaps. **Ten words in the box are not needed.**
 
-> DARUM · DASS · DENKE · DESHALB · ERKLÄRT · FINDET · GLAUBE · HILFT · MEINT ·
-> NICHT · STIMMT · VERSTEHEN · WARUM · WEIL · WEISS
+> BRAUCHT · DARUM · DASS · DENKE · DESHALB · ERKLÄRT · FINDET · GLAUBE · HILFT · MEINT ·
+> NICHT · OBWOHL · SAGT · STIMMT · TROTZDEM · VERSTEHEN · VIELLEICHT · WARUM · WEIL · WEISS
 
-Anna und Bruno diskutieren über Pünktlichkeit.
+Anna und Bruno sprechen über ihre Gründe, Deutsch zu lernen.
 
-— Bruno, (1) ______ bist du immer so pünktlich?  
-— Ich komme pünktlich, (2) ______ ich finde, dass Respekt wichtig ist.  
-— Ich (3) ______, dass das stimmt. Aber manchmal komme auch ich zu spät.  
-— (4) ______ bist du dann unpünktlich?  
-— (5) ______ der Bus zu spät kommt! Was kann ich da machen?  
-— Das (6) ______ ich. Aber man kann auch früher losfahren.  
-— Du hast Recht. Ich (7) ______, dass ich das ändern muss.  
-— Anna, ich (8) ______ auch, dass Pünktlichkeit in Deutschland sehr wichtig ist.  
-— Ja, das ist kulturell so. Frau Weber hat (9) ______, dass es in anderen Ländern  
-  anders ist.  
-— (10) ______ finde ich es interessant, andere Kulturen zu (10b) ______. *(treat gaps 10a and 10b as one item: two words)*
-
-*(Note: item 10 uses two words from the bank: **DARUM** + **VERSTEHEN**. Write both.)*
+— Bruno, (1) ______ lernst du eigentlich so intensiv Deutsch?  
+— Ich lerne Deutsch, (2) ______ ich in einer deutschen Firma arbeiten möchte.  
+— Ich (3) ______, dass das ein guter Grund ist.  
+— Ja! Frau Weber hat uns (4) ______, dass man täglich üben soll.  
+— (5) ______! Ohne tägliches Üben lernt man kaum.  
+— Ich (6) ______ auch, dass Podcasts sehr nützlich sind.  
+— (7) ______ höre ich jeden Tag einen deutschen Podcast.  
+— Wirklich? Ich (8) ______ das noch nicht. Ich finde es gut, (9) ______ du mir das gesagt hast.  
+— Natürlich! (10) ______ teile ich auch gerne Tipps mit dir.
 
 ## Übung C4 — Lesen
 
@@ -462,7 +458,7 @@ Choose a, b, or c:
 
 ## Übung C5 — Schreiben
 
-You have received this message from a language learning partner:
+**Situation:** You are in an online language-exchange forum. A new member, Lena, has posted a message asking why people in your group are learning German and whether living in Germany is really necessary. You want to reply to her post, giving your reasons for learning German and sharing your opinion on her view — using the connectors and opinion phrases from this lesson.
 
 > "Warum lernst du Deutsch? Ich finde, dass man Deutsch nur lernt, wenn man in Deutschland lebt. Was denkst du? Ich glaube, dass Online-Kurse nicht so gut sind wie ein Kurs im Land. Stimmst du zu?"
 
@@ -470,6 +466,11 @@ Write a response (60–80 words). Include:
 - Why you are learning German (use `weil` or `deshalb`)
 - Your opinion on their statement (use `Ich finde/glaube/denke, dass…`)
 - Whether you agree or disagree (use Zustimmen/Widersprechen phrases)
+
+**Self-check before moving on:**
+- [ ] After `weil`, is the conjugated verb at the very end of the clause?
+- [ ] After `deshalb`/`darum`/`deswegen`, does the verb come before the subject (inversion — position 2)?
+- [ ] Is there a comma before every `weil` and `dass` clause?
 
 ---
 

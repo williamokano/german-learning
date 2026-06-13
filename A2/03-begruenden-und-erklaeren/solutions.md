@@ -305,25 +305,18 @@ Statement 2: "Weil man Englisch überall sprechen kann, muss man kein Deutsch le
 
 ## C3 — Sprachbausteine Teil 2
 
-1. **WARUM**
-2. **WEIL**
-3. **DENKE** (also fine: *GLAUBE* / *MEINE*)
-4. **WARUM** — wait, already used. The second "warum" item: re-check. *(Gap 4: "—(4) ______ bist du dann unpünktlich?" — answer: **WARUM**. Gap 1 was also WARUM. In C3 word bank each word used once — check: WARUM appears once in bank. So gap 1 = WARUM, gap 4 needs a different word. Gap 4: "Why are you then unpunctual?" — WARUM. But both can't use WARUM if it only appears once. Correction: Gap 1 = WARUM, Gap 4 = WARUM is the logical answer but conflicts. Alternative for gap 4: no good alternative. This is a word bank design issue — solution: gap 1 uses WARUM; for gap 4, the answer is also WARUM but since it's used, the exercise accepts any logical connector. In practice the gap 4 context "—(4) ______ bist du dann unpünktlich?" naturally calls for WARUM. The word bank has WARUM once — so only one WARUM gap should be present. Instructor note: Gap 4 should be treated as a second WARUM or the exercise swapped. Accept WARUM for gap 4 and note the issue. Also fine: leave blank and note the bank has only one WARUM.)*
+1. **WARUM** — Bruno, warum lernst du eigentlich so intensiv Deutsch?
+2. **WEIL** — Ich lerne Deutsch, weil ich in einer deutschen Firma arbeiten möchte.
+3. **DENKE** — Ich denke, dass das ein guter Grund ist.
+4. **ERKLÄRT** — Frau Weber hat uns erklärt, dass man täglich üben soll.
+5. **STIMMT** — Stimmt! Ohne tägliches Üben lernt man kaum.
+6. **GLAUBE** — Ich glaube auch, dass Podcasts sehr nützlich sind.
+7. **DESHALB** — Deshalb höre ich jeden Tag einen deutschen Podcast. *(Verbzweitstellung: verb before subject)*
+8. **WEISS** — Wirklich? Ich weiß das noch nicht.
+9. **DASS** — Ich finde es gut, dass du mir das gesagt hast.
+10. **DARUM** — Natürlich! Darum teile ich auch gerne Tipps mit dir.
 
-Corrected answer key for C3 (accepting the exercise as written):
-
-1. **WARUM**
-2. **WEIL**
-3. **DENKE** (or GLAUBE or MEINE)
-4. **WARUM** *(second use — also fine: no perfect alternative; accept)*
-5. **WEIL**
-6. **VERSTEHEN**
-7. **WEISS**
-8. **MEINT** (or DENKT / FINDET)
-9. **ERKLÄRT**
-10. **DARUM** + **VERSTEHEN** *(two words)*
-
-Not needed: DASS · HILFT · STIMMT · DESHALB · NICHT *(five remaining)*
+*Not used: BRAUCHT · FINDET · HILFT · MEINT · NICHT · OBWOHL · SAGT · TROTZDEM · VERSTEHEN · VIELLEICHT*
 
 ## C4 — Lesen
 
