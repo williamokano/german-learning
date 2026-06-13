@@ -306,7 +306,7 @@ Am Ende hat sie ihre Familie in Osaka angerufen.
 9. **DURFTE** (Leider durfte ich nicht fotografieren)
 10. **GEKAUFT** (ich habe einen Katalog gekauft)
 
-*Not used: DANN (used already) · HATTE · KONNTE · MUSSTE · STUDIERT*
+*Not used: BEZAHLT · ERLEBT · ERZÄHLT · FOTOGRAFIERT · GETROFFEN · HATTE · KONNTE · MUSSTE · STUDIERT · WOLLTE*
 
 ## C4 — Lesen
 

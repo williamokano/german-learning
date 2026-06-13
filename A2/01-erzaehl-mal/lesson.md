@@ -137,6 +137,8 @@
 | plötzlich | suddenly |
 | endlich | finally, at last |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -208,6 +210,14 @@ You know separable verbs split in the present tense (L5). In the Partizip II, th
 | -ieren verb | ✗ no ge- | studiert |
 | Separable (auf-, an-…) | ✓ ge- between prefix+stem | auf**ge**standen |
 
+> 📌 **Merkasten — Partizip II: ge- oder nicht?**
+> | Verb type | ge-? | Example |
+> |---|---|---|
+> | Regular / strong | ✓ | gemacht, gefahren |
+> | Inseparable (be-, ver-, ent-…) | ✗ | besucht, vergessen |
+> | -ieren verb | ✗ | studiert, reserviert |
+> | Separable (auf-, an-…) | ✓ between prefix+stem | auf**ge**standen |
+
 ---
 
 ### 4.2 Präteritum of modal verbs
@@ -235,6 +245,11 @@ In spoken German, modals are often used in **Präteritum** (simple past) rather 
 
 **Why Präteritum for modals?** Saying *Ich musste* is much more natural than *Ich habe gemusst* — Germans find the Perfekt form of modals awkward. In writing you may see *gemusst*, *gewollt*, etc., but in conversation always use the Präteritum forms.
 
+> 📌 **Merkasten — Präteritum der Modalverben**
+> Stem = infinitive **minus umlaut** + -te endings: `ich/er/sie/es musste · du musstest · wir/sie/Sie mussten · ihr musstet`
+> No umlaut: müssen → **musste**, können → **konnte**, dürfen → **durfte**.
+> `ich` and `er/sie/es` share the same form (no extra ending).
+
 ---
 
 ### 4.3 Time connectors — word order reminder
@@ -250,6 +265,12 @@ In spoken German, modals are often used in **Präteritum** (simple past) rather 
 | Am Ende | hat | es | noch geregnet! |
 
 ⚠️ Never put the finite verb in position 3: *Zuerst wir haben gegessen* ✗ — the verb must stay in position 2.
+
+> 📌 **Merkasten — Zeitkonnektoren + Verbzweitstellung**
+> | Position 1 | Position 2 (Verb) | Position 3 (Subj.) |
+> |---|---|---|
+> | Zuerst / Dann / Danach / Schließlich / Am Ende | **Verb** | Subjekt |
+> Connector in position 1 → verb moves to position 2, subject to position 3. Never: *Zuerst wir haben …* ✗
 
 ---
 

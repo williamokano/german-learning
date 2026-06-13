@@ -372,11 +372,12 @@ Ende (6) ______ wir alle zusammen gefeiert."
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
+Fill the 10 gaps using words from the box. **Ten words are not needed.**
 Each word may be used once.
 
-> BEKOMMEN · BIN · DANACH · DANN · DURFTE · FOTOGRAFIERT · GEGANGEN ·
-> GEKAUFT · GEMACHT · HATTE · KONNTE · MUSSTE · RESERVIERT · STUDIERT · ZUERST
+> BEKOMMEN · BEZAHLT · BIN · DANACH · DANN · DURFTE · ERLEBT · ERZÄHLT ·
+> FOTOGRAFIERT · GEGANGEN · GEKAUFT · GEMACHT · GETROFFEN · HATTE · KONNTE ·
+> MUSSTE · RESERVIERT · STUDIERT · WOLLTE · ZUERST
 
 — Was hast du am Wochenende (1) ______?  
 — Ich (2) ______ in die Ausstellung gegangen. (3) ______ habe ich eine E-Mail
@@ -424,10 +425,17 @@ Choose a, b, or c:
 
 ## Übung C5 — Schreiben
 
+**Your situation:** A friend from your home country has just messaged you asking what you got up to last weekend. Write them a short WhatsApp-style message in German, telling the story of a trip or memorable day step by step.
+
 Write a short story (8–10 sentences) about a trip or memorable day. Use:
 - At least **3 time connectors** (`zuerst`, `dann`, `danach`, `schließlich`, `am Ende`)
 - At least **2 inseparable or -ieren verbs** in Perfekt
 - At least **1 Präteritum modal verb**
+
+**Self-check before moving on:**
+- [ ] Every time connector (zuerst, dann, etc.) is followed immediately by the verb in position 2, then the subject — not *Zuerst ich habe …*
+- [ ] All inseparable and -ieren verbs appear without a *ge-* prefix in their Partizip II (e.g. besucht, studiert — not *gebesucht*, *gestudiert*)
+- [ ] At least one modal verb appears in Präteritum form (musste / wollte / konnte / durfte / sollte), not in Perfekt (habe … müssen)
 
 A model answer is in `solutions.md` — write yours **first**.
 
