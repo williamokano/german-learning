@@ -29,6 +29,13 @@
 
 *Not used: bestellt · wechselt · sagte*
 
+## H4 — Kurze Ansage: Eine Einladung zum Abendessen
+
+1. **b) Von Maria** — „Hallo Anna, hier ist Maria."
+2. **a) Für Samstag um neunzehn Uhr** — „Ich habe einen Tisch im Restaurant „Seeberg" für zwei Personen um neunzehn Uhr reserviert."
+3. **b) Für zwei Personen** — „einen Tisch im Restaurant „Seeberg" für zwei Personen."
+4. **b) Zurückrufen** — „Bitte ruf mich zurück, wenn du den Termin bestätigen kannst."
+
 ---
 
 # Block A — Basistraining

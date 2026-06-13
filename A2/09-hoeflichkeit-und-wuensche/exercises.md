@@ -53,6 +53,44 @@ Listen and fill in the 6 missing words. **Three words in the box are not needed.
 > „Entschuldigung, (3) ______ Sie bitte den Kuchen ohne Sahne (4) ______? Das
 > (5) ______ sehr nett." Die Kellnerin (6) ______ und wechselt den Teller sofort.
 
+## Übung H4 — Kurze Ansage: Eine Einladung zum Abendessen
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the voice message. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Von wem kommt die Nachricht?  
+   a) Von Anna.  
+   b) Von Maria.  
+   c) Vom Restaurant.
+
+2. Für wann ist der Tisch reserviert?  
+   a) Für Samstag um neunzehn Uhr.  
+   b) Für Freitag um neunzehn Uhr.  
+   c) Für Samstag um zwanzig Uhr.
+
+3. Für wie viele Personen ist der Tisch?  
+   a) Für eine Person.  
+   b) Für zwei Personen.  
+   c) Für vier Personen.
+
+4. Was soll Anna tun, wenn sie den Termin bestätigen kann?  
+   a) Eine E-Mail schreiben.  
+   b) Zurückrufen.  
+   c) Im Restaurant anrufen.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Hallo Anna, hier ist Maria. Ich rufe an wegen unseres Abendessens am Samstag. Ich habe einen Tisch im Restaurant „Seeberg" für zwei Personen um neunzehn Uhr reserviert. Wir würden uns freuen, wenn du kommen könntest. Das Restaurant bietet auch ein vegetarisches Menü an, falls du keinen Fisch essen möchtest. Bitte ruf mich zurück, wenn du den Termin bestätigen kannst. Vielen Dank!
+
+</details>
+
 ---
 
 # Block A — Basistraining
