@@ -55,6 +55,44 @@ Listen and fill in the 6 missing words. **Three words in the box are not needed.
 > ihr noch eine Karte (5) ______. Yuki schreibt ihren Eltern eine
 > Nachricht: „Ich (6) ______ euch die Geschenke nächste Woche."
 
+## Übung H4 — Kurze Ansage: Durchsage im Kaufhaus
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the announcement. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Wie spät schließt das Kaufhaus heute?  
+   a) Um achtzehn Uhr.  
+   b) Um neunzehn Uhr.  
+   c) Um zwanzig Uhr.
+
+2. Wo befindet sich die Geschenk-Werkstatt?  
+   a) Im ersten Stock.  
+   b) Im zweiten Stock.  
+   c) Im dritten Stock.
+
+3. Bis wann kann man Geschenke in die Werkstatt bringen?  
+   a) Bis siebzehn Uhr.  
+   b) Bis siebzehn Uhr dreißig.  
+   c) Bis achtzehn Uhr.
+
+4. Was macht die Geschenk-Werkstatt kostenlos?  
+   a) Sie verpackt Geschenke und schreibt eine Karte.  
+   b) Sie liefert Geschenke nach Hause.  
+   c) Sie repariert alte Geschenke.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage. Liebe Kundinnen und Kunden, unser Kaufhaus schließt heute um zwanzig Uhr. Wir möchten Sie daran erinnern, dass unsere Geschenk-Werkstatt im dritten Stock noch bis achtzehn Uhr geöffnet hat. Unsere Mitarbeiter packen Ihre Geschenke kostenlos in schönes Papier ein und schreiben eine Karte für Sie. Bitte bringen Sie Ihre Einkäufe bis spätestens siebzehn Uhr dreißig in die Geschenk-Werkstatt. Vielen Dank für Ihren Besuch.
+
+</details>
+
 ---
 
 # Block A — Basistraining

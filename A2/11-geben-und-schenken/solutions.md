@@ -41,6 +41,13 @@ Word bank in gap order: **schenken · empfiehlt · kauft · packt · dazu · sch
 Note also that gap 5 is the adverb `dazu` (= along with it / on top of that), not a
 verb — students often confuse it with a verb form.
 
+## H4 — Kurze Ansage: Durchsage im Kaufhaus
+
+1. **c) Um zwanzig Uhr** — „unser Kaufhaus schließt heute um zwanzig Uhr."
+2. **c) Im dritten Stock** — „unsere Geschenk-Werkstatt im dritten Stock."
+3. **b) Bis siebzehn Uhr dreißig** — „Bitte bringen Sie Ihre Einkäufe bis spätestens siebzehn Uhr dreißig in die Geschenk-Werkstatt."
+4. **a) Sie verpackt Geschenke und schreibt eine Karte** — „Unsere Mitarbeiter packen Ihre Geschenke kostenlos in schönes Papier ein und schreiben eine Karte für Sie."
+
 ---
 
 # Block A
