@@ -55,6 +55,44 @@ Listen and fill in the 7 missing words. **Two words in the box are not needed.**
 
 *(Note: the word bank has 9 words; 7 fit the gaps, 2 are distractors.)*
 
+## Übung H4 — Kurze Ansage: Tom braucht einen Rat
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the voice message. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Worüber ruft Tom an?  
+   a) Wegen seiner alten Wohnung.  
+   b) Wegen seinem neuen Auto.  
+   c) Wegen seinem neuen Job.
+
+2. Wie viel kostet der silberne Wagen?  
+   a) Neuntausend Euro.  
+   b) Zwölftausend Euro.  
+   c) Fünfzehntausend Euro.
+
+3. Welcher Wagen ist sparsamer?  
+   a) Der blaue.  
+   b) Der silberne.  
+   c) Beide gleich.
+
+4. Was soll Anna tun?  
+   a) Zurückrufen und ihre Meinung sagen.  
+   b) Eine E-Mail schicken.  
+   c) Den Wagen für Tom kaufen.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Hallo Anna, hier ist Tom. Ich rufe an wegen meinem neuen Auto. Ich habe zwei Modelle gefunden: einen blauen Kleinwagen für neuntausend Euro und einen größeren silbernen Wagen für zwölftausend Euro. Der blaue ist günstiger und sparsamer, aber der silberne ist schneller und bequemer. Er hat auch einen stärkeren Motor. Ich kann mich nicht entscheiden. Bitte ruf mich zurück und sag mir, was du denkst. Vielen Dank!
+
+</details>
+
 ---
 
 # Block A — Basistraining

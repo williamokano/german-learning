@@ -30,6 +30,13 @@
 
 **Distractors not used:** `billiger`, `neueres`
 
+## H4 — Kurze Ansage: Tom braucht einen Rat
+
+1. **b) Wegen seinem neuen Auto** — „Ich rufe an wegen meinem neuen Auto."
+2. **b) Zwölftausend Euro** — „einen größeren silbernen Wagen für zwölftausend Euro."
+3. **a) Der blaue** — „Der blaue ist günstiger und sparsamer."
+4. **a) Zurückrufen und ihre Meinung sagen** — „Bitte ruf mich zurück und sag mir, was du denkst."
+
 ---
 
 # Block A — Basistraining
