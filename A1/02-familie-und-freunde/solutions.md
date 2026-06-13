@@ -43,6 +43,13 @@ Complete Hörtext:
 
 Distractors not needed: Helmut · Leipzig · zwölf.
 
+## H4 — Kurze Ansage: Mama kommt am Wochenende
+
+1. **a) Von Mama** — „Hallo Anna, hier ist Mama."
+2. **b) Am Samstag** — „Wir möchten dich am Samstag besuchen."
+3. **b) Mit dem Zug** — „Wir kommen mit dem Zug um vierzehn Uhr an."
+4. **a) Der Bruder** — „Dein Bruder kommt auch mit."
+
 ---
 
 # Block A

@@ -63,6 +63,44 @@ Höre den Text und fülle die Lücken. **Fünf Wörter passen nicht.**
 
 Wortbank: **Bergmann · Eva · Helmut · München · Thomas · verheiratet · Leipzig · zwanzig · zwölf**
 
+## Übung H4 — Kurze Ansage: Mama kommt am Wochenende
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Wessen Nachricht ist das?  
+   a) Von Mama.  
+   b) Von Anna.  
+   c) Von Oma.
+
+2. Wann möchte die Familie kommen?  
+   a) Am Freitag.  
+   b) Am Samstag.  
+   c) Am Sonntag.
+
+3. Womit kommt die Familie?  
+   a) Mit dem Auto.  
+   b) Mit dem Zug.  
+   c) Mit dem Bus.
+
+4. Wer kommt mit?  
+   a) Der Bruder.  
+   b) Die Schwester.  
+   c) Der Opa.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Hallo Anna, hier ist Mama. Ich rufe an wegen dem Wochenende. Wir möchten dich am Samstag besuchen. Wir kommen mit dem Zug um vierzehn Uhr an. Dein Vater und ich haben eine Überraschung für dich. Dein Bruder kommt auch mit. Bitte ruf mich zurück, damit ich weiß, ob der Termin passt. Vielen Dank und bis Samstag!
+
+</details>
+
 ---
 
 # Block A — Basistraining
