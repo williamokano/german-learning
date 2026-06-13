@@ -12,9 +12,11 @@
 
 ---
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
-
 ## 1. Dialog: Das Wochenende
+
+### Dialog A: Informell — unter Freunden
+
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
 > **Anna:** Hallo Bruno! Wie war dein Wochenende?  
 > **Bruno:** Super! Ich bin am Samstag ins Kino gegangen. Der Film war sehr gut.  
@@ -26,7 +28,9 @@
 > **Bruno:** Schön! Und wann bist du nach Hause gegangen?  
 > **Anna:** Erst um Mitternacht! Ich war sehr müde.  
 
-> And the formal/office version:
+### Dialog B: Formell — im Büro
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 > **Herr Yilmaz:** Guten Morgen, Frau Weber. Wie war Ihr Wochenende?  
 > **Frau Weber:** Danke, sehr schön. Ich habe viel gelesen und bin spazieren gegangen.  
@@ -301,7 +305,7 @@ You don't say *Ich bin müde gewesen* — you say **Ich war müde**.
 ## 5. Lesetext: Mein letzter Urlaub
 
 > Letzten Sommer bin ich mit meiner Freundin nach Wien gefahren. Wir waren vier Tage
-> dort. Am ersten Tag haben wir das Zentrum besichtigt und viele Fotos fotografiert.
+> dort. Am ersten Tag haben wir das Zentrum besichtigt und viele Fotos gemacht.
 > Wir sind ins Museum gegangen und haben eine Ausstellung gesehen. Das war sehr
 > interessant! Am zweiten Tag sind wir den ganzen Tag spazieren gegangen. Das Wetter
 > war herrlich — warm und sonnig. Wir haben in einem kleinen Restaurant gegessen und
@@ -314,16 +318,21 @@ You don't say *Ich bin müde gewesen* — you say **Ich war müde**.
 
 ---
 
+## 6. Hörtext
+
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-## 6. Hörtext
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
 > Am Samstag ist Anna mit ihrer Freundin Maria in die Stadt gefahren.
 > Sie haben ein neues Café gefunden und Kaffee getrunken. Am Nachmittag
 > ist Anna ins Kino gegangen. Der Film war gut. Am Sonntag hat sie
 > lange geschlafen und ein Buch gelesen.
 
-*(You'll listen to this text in Block H, Übung H2.)*
+</details>
 
 ---
 

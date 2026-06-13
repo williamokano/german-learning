@@ -4,14 +4,20 @@
 
 # Block H — Hören
 
-## Übung H1 — Dialog: Das Wochenende
+## Übung H1 — Dialog Hör-Check: Das Wochenende
+
+### H1a — Dialog A (informell)
 
 1. **R** — Bruno: „Ich bin am Samstag ins Kino gegangen."
 2. **R** — Bruno: „Ich habe lange geschlafen, und dann habe ich Fußball gespielt."
 3. **F** — Anna: „Ich habe eine **Freundin** besucht" (female friend — not „Freund").
-4. **R** — Frau Weber: „Im Englischen Garten" (and earlier: „bin spazieren gegangen").
 
-## Übung H2 — Hörtext-Lückentext
+### H1b — Dialog B (formell)
+
+4. **R** — Frau Weber: „Im Englischen Garten" (and earlier: „bin spazieren gegangen").
+5. **F** — Frau Weber: „Das Wetter war **herrlich**" (not schlecht).
+
+## Übung H3 — Hörtext-Lückentext
 
 Complete Hörtext:
 

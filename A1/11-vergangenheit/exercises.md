@@ -8,16 +8,30 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 # Block H — Hören
 
-## Übung H1 — Dialog: Das Wochenende
+## Übung H1 — Dialog Hör-Check: Das Wochenende
+
+### H1a — Dialog A (informell)
+
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
 Listen and decide: richtig (R) oder falsch (F)?
 
 1. Bruno ist am Samstag ins Kino gegangen. ( )
 2. Am Sonntag hat Bruno Fußball gespielt. ( )
 3. Anna hat einen Freund besucht. ( )
-4. Frau Weber ist im Englischen Garten spazieren gegangen. ( )
 
-## Übung H2 — Hörtext-Lückentext
+### H1b — Dialog B (formell)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Listen and decide: richtig (R) oder falsch (F)?
+
+4. Frau Weber ist im Englischen Garten spazieren gegangen. ( )
+5. Das Wetter war schlecht. ( )
+
+## Übung H3 — Hörtext-Lückentext
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 Höre den Text und fülle die Lücken.
 
@@ -68,7 +82,7 @@ Write the Partizip II.
 
 ## Übung A3 — `haben` or `sein`?
 
-Write `hat` or `ist` in the gap (er/sie/es-form).
+Write the correct form of `haben` or `sein` in the gap. Match the subject.
 
 1. Er ______ ins Kino gegangen.
 2. Sie ______ Kaffee getrunken.
