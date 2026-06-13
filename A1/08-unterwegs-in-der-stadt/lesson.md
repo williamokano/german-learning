@@ -24,7 +24,7 @@
 > **Frau:** Der Bahnhof? Das ist weit. Fahren Sie mit der U-Bahn!  
 > **Bruno:** Und wo ist die Haltestelle?  
 > **Frau:** Gehen Sie hier geradeaus, dann die erste Straße links.* Die  
-> Haltestelle ist an der Kirche.**
+> Haltestelle ist an der Kirche.**  
 > **Bruno:** Wie lange dauert das zu Fuß?  
 > **Frau:** Fünf Minuten. Nehmen Sie die Linie 5 und steigen Sie am Bahnhof aus.  
 > **Bruno:** Vielen Dank!  
@@ -40,16 +40,16 @@ chunks with `an`; the full preposition system for `an/in/auf` comes at A2.
 ## 2. Dialog: Wie komme ich zum Museum?
 
 > **Anna:** Jonas, ich möchte morgen zum Museum Ludwig. Wie komme ich zum  
-> Museum?
+> Museum?  
 > **Jonas:** Das ist einfach. Du nimmst die Linie 16 bis zum Dom. Die  
-> Haltestelle ist hier bei der Post.
+> Haltestelle ist hier bei der Post.  
 > **Anna:** Muss ich umsteigen?  
 > **Jonas:** Nein, du steigst am Dom aus und gehst zwei Minuten zu Fuß.  
 > **Anna:** Und wie lange dauert die Fahrt?  
 > **Jonas:** Eine Viertelstunde. Die Bahn fährt um zehn nach neun ab.  
 > **Anna:** Super. Kommst du mit?  
 > **Jonas:** Nein, ich kann nicht — ich muss zur Arbeit. Aber am Abend essen  
-> wir zusammen. Ich komme um sechs nach Hause.
+> wir zusammen. Ich komme um sechs nach Hause.  
 
 ---
 
@@ -254,27 +254,32 @@ To tell someone (formally) what to do, put the **verb first**, then `Sie`:
 
 ## 6. Lesetext: Unterwegs mit Familie Yilmaz
 
-> Familie Yilmaz wohnt in Köln. Herr Yilmaz arbeitet im Krankenhaus. Er fährt
+> Familie Yilmaz wohnt in Berlin. Herr Yilmaz arbeitet im Krankenhaus. Er fährt
 > morgens mit der U-Bahn zur Arbeit — die Fahrt dauert zwanzig Minuten. Frau
 > Yilmaz arbeitet bei einer Bank. Sie nimmt die Straßenbahn, Linie 16, und
-> steigt am Dom um. Die Kinder gehen zu Fuß zur Schule. Die Schule ist nicht
-> weit — nur zehn Minuten. Am Samstag fährt die Familie mit dem Auto zum
-> Supermarkt. Und am Sonntag? Da fahren alle mit dem Fahrrad zum Park am
-> Rhein. Abends fahren sie nach Hause — und um acht Uhr sind alle wieder zu
+> steigt am Alexanderplatz um. Die Kinder gehen zu Fuß zur Schule. Die Schule
+> ist nicht weit — nur zehn Minuten. Am Samstag fährt die Familie mit dem Auto
+> zum Supermarkt. Und am Sonntag? Da fahren alle mit dem Fahrrad zum Park am
+> See. Abends fahren sie nach Hause — und um acht Uhr sind alle wieder zu
 > Hause.
 
 ---
 
+## 7. Hörtext
+
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-## 7. Hörtext
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
 > Maria möchte am Sonntag zum Park gehen. Sie wohnt in der Stadtmitte,
 > und der Park ist weit. Sie fährt mit dem Bus — sie nimmt die Linie 5 und
 > steigt am Bahnhof um. Von dort geht sie zu Fuß zum Park: geradeaus und
 > dann die erste Straße links. Der Weg dauert zwanzig Minuten.
 
-*(You'll listen to this text in Block H, Übung H2.)*
+</details>
 
 ---
 

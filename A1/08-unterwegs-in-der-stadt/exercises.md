@@ -10,18 +10,35 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 ## Übung H1 — Dialog Hör-Check
 
-Listen and decide: richtig (R) oder falsch (F)?
+### H1a — Dialog 1: Nach dem Weg fragen
+
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
+Listen and decide: **Richtig (R)** oder **Falsch (F)**?
 
 1. Bruno fragt eine Frau auf der Straße nach dem Bahnhof. ( )
 2. Die Frau sagt: Fahren Sie mit dem Bus! ( )
-3. Im zweiten Dialog fragt Anna: Wie komme ich zum Museum Ludwig? ( )
+3. Die Haltestelle ist geradeaus und dann die erste Straße links. ( )
+4. Bruno fährt mit der Linie 5 und steigt am Dom aus. ( )
+
+### H1b — Dialog 2: Wie komme ich zum Museum?
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
+
+Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+
+1. Anna möchte zum Museum Ludwig fahren. ( )
+2. Sie muss am Dom umsteigen. ( )
+3. Die Fahrt dauert eine halbe Stunde. ( )
 4. Jonas kommt am Abend mit Anna ins Museum. ( )
 
-## Übung H2 — Hörtext-Lückentext
+## Übung H3 — Hörtext-Lückentext
 
-Listen and fill the gaps with the words from the box.
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-> (Sonntag · Stadtmitte · Bus · Bahnhof · geradeaus · Minuten)
+Listen and fill the gaps with the words from the box. **Two words are not needed.**
+
+> (Sonntag · Stadtmitte · Bus · Bahnhof · geradeaus · Minuten · Fahrrad · rechts)
 
 > Maria möchte am (1)______ zum Park gehen. Sie wohnt in der (2)______,
 > und der Park ist weit. Sie fährt mit dem (3)______ — sie nimmt die Linie 5
@@ -345,7 +362,7 @@ Richtig (R) oder falsch (F)?
 
 1. Herr Yilmaz fährt mit dem Bus zur Arbeit. ( )
 2. Die Fahrt zur Arbeit dauert zwanzig Minuten. ( )
-3. Frau Yilmaz steigt am Dom um. ( )
+3. Frau Yilmaz steigt am Alexanderplatz um. ( )
 4. Die Kinder fahren mit der Straßenbahn zur Schule. ( )
 5. Am Sonntag fährt die Familie mit dem Auto zum Park. ( )
 

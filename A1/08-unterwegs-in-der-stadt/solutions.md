@@ -6,12 +6,21 @@
 
 ## Übung H1 — Dialog Hör-Check
 
+### H1a — Dialog 1
+
 1. **R** — Bruno fragt: „Entschuldigung, wo ist der Bahnhof, bitte?"
 2. **F** — Die Frau sagt: „Fahren Sie mit **der U-Bahn**", nicht mit dem Bus.
-3. **R** — Anna fragt: „Jonas, ich möchte morgen zum Museum Ludwig. Wie komme ich zum Museum?"
-4. **F** — Jonas **muss zur Arbeit**; er kommt erst am Abend mit Anna zusammen (zum Essen), nicht ins Museum.
+3. **R** — „Gehen Sie hier geradeaus, dann die erste Straße links."
+4. **F** — Bruno steigt **am Bahnhof** aus, nicht am Dom.
 
-## Übung H2 — Hörtext-Lückentext
+### H1b — Dialog 2
+
+1. **R** — Anna sagt: „Ich möchte morgen zum Museum Ludwig."
+2. **F** — Anna muss **nicht** umsteigen; sie steigt am Dom **aus** (nicht um).
+3. **F** — Die Fahrt dauert **eine Viertelstunde** (15 Minuten), nicht eine halbe Stunde.
+4. **F** — Jonas muss zur Arbeit; sie essen erst **am Abend** zusammen (nicht Museum).
+
+## Übung H3 — Hörtext-Lückentext
 
 > Maria möchte am **Sonntag** zum Park gehen. Sie wohnt in der
 > **Stadtmitte**, und der Park ist weit. Sie fährt mit dem **Bus** — sie
@@ -20,6 +29,7 @@
 > zwanzig **Minuten**.
 
 Word bank in gap order: **Sonntag** (1) · **Stadtmitte** (2) · **Bus** (3) · **Bahnhof** (4) · **geradeaus** (5) · **Minuten** (6).
+Not needed: **Fahrrad** · **rechts**.
 
 ---
 
@@ -212,8 +222,8 @@ Not needed: HABE, KOSTET, LINKS, WEIT, ZUR.
 
 ## Übung C4 — Lesen
 
-**Text 1:** 1. **F** (mit der U-Bahn) 2. **R** 3. **R** 4. **F** (zu Fuß)
-5. **F** (mit dem Fahrrad)
+**Text 1:** 1. **F** (mit der U-Bahn) 2. **R** 3. **R** (am Alexanderplatz) 4. **F** (zu Fuß)
+5. **F** (mit dem Fahrrad — nur samstags mit dem Auto, sonntags mit dem Fahrrad)
 
 **Text 2:** 6. **b** (alle 20 Minuten) 7. **a** 8. **b** (2 Minuten zu
 Fuß) 9. **c** (rechts vom Bahnhof)
@@ -249,14 +259,13 @@ U-Bahn! 7. das 8. einen 9. Wie komme ich zum Bahnhof? 10. muss
 
 1. ~~Ampel~~ (not a means of transport) 2. ~~Fahrkarte~~ (not a direction)
 3. ~~U-Bahn~~ (transport, not a building) 4. ~~kein~~ (not a contraction)
-5. ~~Fahrrad~~ (noun, not a verb form) 6. ~~frühstücken~~ (not separable /
-not about transport)
+5. ~~Fahrrad~~ (noun, not a verb form) 6. ~~frühstücken~~ (not a transport verb / does not describe movement)
 
 ## Übung D3 — Wiederholung L1–L7
 
 1. seid 2. ihr 3. keine 4. einen (es gibt + accusative, der Garten!)
 5. rufst … an 6. sechzehn Uhr fünfundvierzig 7. kann 8. lieber
-9. müsst 10. gefällt (e→ä — and `mir` is the dative you now know!)
+9. müsst 10. gefällt (a→ä — and `mir` is the dative you now know!)
 
 ## Übung D4 — Selbsttest
 
