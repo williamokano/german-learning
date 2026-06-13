@@ -139,6 +139,8 @@ suchen (to look for) · finden (to find / to think of) · der Monat, -e:
 
 > **Hör zu 3 — Farben:** rot · blau · grün · gelb · schwarz · weiß · braun · grau
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -153,6 +155,20 @@ object** — so masculine nouns take `einen/keinen` (Lektion 3!):
 
 `es gibt` never changes — singular or plural object, always `gibt`:
 > Es gibt zwei Bäder.
+
+> 📌 **Merkasten — es gibt + Akkusativ**
+>
+> Pattern: **Es gibt + Akk.**
+>
+> | Nominativ | Akkusativ |
+> |---|---|
+> | der Balkon | einen Balkon |
+> | die Küche | eine Küche |
+> | das Bad | ein Bad |
+>
+> Contrast: `Es gibt einen Tisch.` (existence) vs. `Der Tisch ist groß.` (description with `ist/sind`).
+>
+> ▶ `es gibt` never inflects — always `gibt`, regardless of singular or plural object.
 
 ### 4.2 `finden` + Akkusativ + adjective (saying what you think)
 
@@ -169,6 +185,24 @@ Conjugation note: the stem ends in **-d**, so du/er/ihr insert an **-e-**:
 du find**est**, er find**et**, ihr find**et** (same later for arbeiten, kosten:
 es kost**et**).
 
+> 📌 **Merkasten — finden + Akkusativ + Adjektiv**
+>
+> Pattern: **Ich finde [Akk] [adjective].**
+>
+> The noun after `finden` is accusative; the adjective is **predicative** — no ending added.
+>
+> Common opinion adjectives:
+>
+> | Deutsch | Englisch |
+> |---|---|
+> | schön | pretty / nice |
+> | toll | great |
+> | hässlich | ugly |
+> | praktisch | practical |
+> | unpraktisch | impractical |
+>
+> ▶ `zu` + adjective = "too": `zu teuer`, `zu klein`, `zu laut`.
+
 ### 4.3 Predicative adjectives — the easy life (for now)
 
 After `sein`, adjectives **never change**:
@@ -176,6 +210,17 @@ After `sein`, adjectives **never change**:
 > Das Zimmer ist **hell**. · Die Zimmer sind **hell**. · Der Flur ist **dunkel**.
 
 Enjoy it — adjective *endings* (die helle Küche…) only arrive at A2.
+
+> 📌 **Merkasten — Prädikative Adjektive**
+>
+> Rule: after `sein`, `finden`, or `werden`, adjectives have **no ending**.
+>
+> | Predicative (no ending) | Attributive (ending — A2!) |
+> |---|---|
+> | Das Zimmer ist **schön**. | das **schöne** Zimmer |
+> | Ich finde die Küche **hell**. | die **helle** Küche |
+>
+> ▶ After `sein` or `finden`, leave the adjective bare — no `-e`, `-en`, `-em` etc.
 
 ### 4.4 `gefallen` + mir/dir (to please → "I like") — intro
 
@@ -194,11 +239,41 @@ Rules for now:
 2. The person is `mir` (me) / `dir` (you). These are **dative pronouns** — the
    full dative system comes in Lektion 9; until then, mir/dir are chunks.
 
+> 📌 **Merkasten — gefallen + Dativ**
+>
+> Pattern: **[thing] gefällt/gefallen [Dat person].**
+>
+> The **thing liked is the subject** — the person is dative, not the subject.
+>
+> | Person | Dativ |
+> |---|---|
+> | ich | mir |
+> | du | dir |
+> | er/es | ihm |
+> | sie (she) | ihr |
+>
+> `gefällt` (singular subject) · `gefallen` (plural subject):
+> `Das Sofa gefällt mir.` · `Die Möbel gefallen mir.`
+>
+> ▶ Flip the English order: German says "The sofa pleases me", not "I like the sofa."
+
 ### 4.5 `Wie viele …?` (how many)
 
 > **Wie viele** Zimmer hat die Wohnung? · **Wie viele** Stühle habt ihr?
 
 `wie viele` + plural noun, then the usual question word order (verb position 2).
+
+> 📌 **Merkasten — Wie viele …?**
+>
+> Pattern: **Wie viele + [plural noun] + [verb] …?**
+>
+> `viele` triggers a **plural noun** — always.
+>
+> Examples:
+> - `Wie viele Zimmer hat die Wohnung?` — How many rooms does the flat have?
+> - `Wie viele Stühle habt ihr?` — How many chairs do you have?
+>
+> ▶ After `wie viele`, the noun is always plural; verb stays in position 2.
 
 ### 4.6 Pronunciation
 
