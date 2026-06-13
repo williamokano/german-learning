@@ -4,23 +4,31 @@
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check
+## Übung H1a — Dialog Hör-Check: Beim Arzt
 
 1. **R** — Der Patient sagt: „Ich habe Halsschmerzen und Kopfschmerzen."
-2. **R** — Der Arzt sagt: „Ich schreibe Ihnen ein Rezept."
-3. **R** — Anna geht in die Apotheke und kauft Tabletten.
-4. **F** — Die Tabletten kosten sieben Euro neunzig, nicht fünfzehn Euro.
+2. **F** — Der Arzt sagt: „Ruhen Sie sich aus" — kein Krankenhaus.
+3. **R** — Der Arzt sagt: „Ich schreibe Ihnen ein Rezept."
+4. **R** — Der Patient sagt: „38,5 Grad."
 
-## Übung H2 — Hörtext-Lückentext
+## Übung H1b — Dialog Hör-Check: In der Apotheke
+
+1. **R** — Anna hat kein Rezept und sucht etwas ohne Rezept.
+2. **R** — Die Apothekerin sagt: „Nehmen Sie zwei Tabletten, dreimal täglich."
+3. **F** — Die Tabletten kosten sieben Euro neunzig, nicht fünfzehn Euro.
+4. **F** — Die Apothekerin sagt: „Ja, aber essen Sie vorher etwas" — Anna darf sie nehmen.
+
+## Übung H3 — Hörtext-Lückentext
 
 Complete Hörtext:
 
-> Anna hat **Kopfschmerzen** und Fieber. Sie geht zum **Arzt**. Der Arzt
-> untersucht sie und gibt ihr ein **Rezept**. Sie geht dann in die
-> **Apotheke** und kauft **Tabletten**. Die Apothekerin sagt: „Nehmen
-> Sie dreimal täglich eine Tablette." Anna geht nach Hause und **schläft**.
+> Yuki fühlt sich heute nicht **gut**. Ihr **Hals** tut weh und sie hat **Husten**.
+> Sie ruft Bruno an und fragt: „Was soll ich **machen**?" Bruno sagt: „Trink viel Tee und
+> bleib zu **Hause**!" Yuki fragt: „Soll ich zum Arzt **gehen**?" Bruno antwortet: „Ja, geh morgen zum Arzt."
+> Yuki trinkt Tee und **schläft** den ganzen Tag.
 
-Word bank in gap order: Kopfschmerzen · Arzt · Rezept · Apotheke · Tabletten · schläft.
+Gap answers in order: gut · Hals · Husten · machen · Hause · gehen · schläft.
+Distractors not used: Arzt · Tabletten.
 
 ---
 
@@ -213,7 +221,7 @@ The conjugated modal (sollen) is in position 2; the infinitive goes to the **end
 6. **Schlaft** gut, Kinder! (ihr-imperative: *Schlaft*, not *Schläft*)
 7. Ich brauche etwas gegen **Kopfschmerzen**. (plural compound form is the standard)
 8. Er soll viel **schlafen**. (modal + infinitive — no conjugation of the second verb: *schlafen*, not *schläft*)
-9. The error: the exercise text says „auf" but the setup says „zu" — the ihr-imperative and "auf" are both correct but inconsistent with the framing. In context: **Macht den Mund auf!** = correct ihr-imperative of *aufmachen*.
+9. The error: "Macht den Mund **zu**!" → should be **"auf"** — the task says to repeat the original command "Machen Sie den Mund auf!" (not "zu"). The ihr-form of *aufmachen* is **Macht den Mund auf!** (not *zu*).
 10. **Ruh dich aus!** (reflexive: *dich* for du-form, not *sich* — *sich* is for er/sie/es/Sie)
 
 ## Übung B4 — Verbinden
@@ -239,12 +247,12 @@ The conjugated modal (sollen) is in position 2; the infinitive goes to the **end
 |---|---|---|
 | Auge | Finger | Knie |
 | Nase | Schulter | Fuß |
-| Ohr | Ellbogen | Zehe |
+| Ohr | Ellbogen | Rücken |
 | Zahn | | |
 | Mund | | |
 | Brust | | |
 
-Note: *Schulter* and *Brust* could reasonably go in multiple categories — marking either column as correct is fine.
+Note: *Schulter*, *Brust*, and *Rücken* could reasonably go in multiple categories — marking either column as correct is fine.
 
 ## Übung B7 — Was passt nicht?
 

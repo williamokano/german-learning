@@ -8,25 +8,40 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check: Beim Arzt + In der Apotheke
+## Übung H1a — Dialog Hör-Check: Beim Arzt
 
-Listen and decide: richtig (R) oder falsch (F)?
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
 
-1. Der Patient hat Kopfschmerzen. ( )
-2. Der Arzt schreibt dem Patienten ein Rezept. ( )
-3. In der Apotheke kauft Anna Tabletten. ( )
-4. Die Tabletten kosten fünfzehn Euro. ( )
+Listen and decide: **Richtig (R)** oder **Falsch (F)**?
 
-## Übung H2 — Hörtext-Lückentext
+1. Der Patient hat Halsschmerzen und Kopfschmerzen. ( )
+2. Der Arzt sagt, der Patient soll ins Krankenhaus. ( )
+3. Der Arzt schreibt dem Patienten ein Rezept. ( )
+4. Der Patient hat 38,5 Grad Fieber. ( )
 
-Höre den Text und fülle die Lücken.
+## Übung H1b — Dialog Hör-Check: In der Apotheke
 
-> Anna hat ______ und Fieber. Sie geht zum ______. Der Arzt
-> untersucht sie und gibt ihr ein ______. Sie geht dann in die
-> ______ und kauft ______. Die Apothekerin sagt: „Nehmen Sie
-> dreimal täglich eine Tablette." Anna geht nach Hause und ______.
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
-> (Kopfschmerzen · Arzt · Rezept · Apotheke · Tabletten · schläft)
+Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+
+1. Anna kauft Tabletten ohne Rezept. ( )
+2. Anna soll die Tabletten dreimal täglich nehmen. ( )
+3. Die Tabletten kosten fünfzehn Euro. ( )
+4. Anna darf die Tabletten nicht bei Magenschmerzen nehmen. ( )
+
+## Übung H3 — Hörtext-Lückentext
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+Hör zu und fülle die Lücken. **Zwei Wörter passen nicht.**
+
+> Yuki fühlt sich heute nicht ______. Ihr ______ tut weh und sie hat ______.
+> Sie ruft Bruno an und fragt: „Was soll ich ______?" Bruno sagt: „Trink viel Tee und
+> bleib zu ______!" Yuki fragt: „Soll ich zum Arzt ______?" Bruno antwortet: „Ja, geh morgen zum Arzt."
+> Yuki trinkt Tee und ______ den ganzen Tag.
+
+**Wortbank:** Arzt · gehen · gut · Hals · Husten · machen · schläft · Tabletten · Hause
 
 ---
 
@@ -240,7 +255,7 @@ Each sentence has exactly **one** mistake. Find and correct it.
 6. Schlafst gut, Kinder!
 7. Ich brauche etwas gegen Kopfschmerz.
 8. Er soll schläft viel.
-9. Machen Sie den Mund zu, bitte! → Say this to two friends: Macht den Mund auf, bitte! (spot the error)
+9. Machen Sie den Mund auf! → Now say the same to two friends (ihr): Macht den Mund zu!
 10. Ich fühle mich nicht gut. → Imperative to a friend: Ruh sich aus!
 
 ## Übung B4 — Frage und Antwort verbinden
@@ -276,7 +291,7 @@ Build correct sentences. Verb in position 2 for statements.
 Sort the 12 body parts into the three groups.
 
 > Auge · Nase · Finger · Knie · Schulter · Ohr · Fuß · Zahn · Ellbogen ·
-> Mund · Brust · Zehe
+> Mund · Brust · Rücken
 
 | Kopf (head area) | Arm/Hand area | Bein/Fuß area |
 |---|---|---|
@@ -393,7 +408,7 @@ Each word may be used once.
 > Fieber (39 Grad!), Halsschmerzen und starke Kopfschmerzen. Ich bin zur Ärztin
 > gegangen. Sie hat gesagt: „Bleib zu Hause, trink viel Tee und nimm diese
 > Tabletten." Ich habe auch eine Woche nicht gearbeitet. Meine Mutter hat mir
-> Suppe gebracht — das war super! Heute geht es mir wieder gut. Meine Tipp für
+> Suppe gebracht — das war super! Heute geht es mir wieder gut. Mein Tipp für
 > euch: Beim ersten Zeichen einer Erkältung sofort viel trinken und schlafen!
 
 Choose a, b, or c:

@@ -352,16 +352,21 @@ The full set (all persons) — nominative/accusative only (to keep scope clean):
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
 ## 7. Hörtext
 
-> Anna hat Kopfschmerzen und Fieber. Sie geht zum Arzt. Der Arzt
-> untersucht sie und gibt ihr ein Rezept. Sie geht dann in die
-> Apotheke und kauft Tabletten. Die Apothekerin sagt: „Nehmen Sie
-> dreimal täglich eine Tablette." Anna geht nach Hause und schläft.
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
-*(You'll listen to this text in Block H, Übung H2.)*
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+> Yuki fühlt sich heute nicht gut. Ihr Hals tut weh und sie hat Husten.
+> Sie ruft Bruno an und fragt: „Was soll ich machen?" Bruno sagt: „Trink viel Tee und bleib zu Hause!"
+> Yuki fragt: „Soll ich zum Arzt gehen?" Bruno antwortet: „Ja, geh morgen zum Arzt."
+> Yuki trinkt Tee und schläft den ganzen Tag.
+
+</details>
 
 ---
 
