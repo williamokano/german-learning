@@ -31,6 +31,13 @@ Mirrors every exercise number in order. Bold = key answer. Explanations given fo
 
 Not needed: *erklärt · bleiben · verstehen*
 
+## H4 — Kurze Ansage: Verspätung der U-Bahn
+
+1. **a) Die U 3** — „die U-Bahn-Linie U 3 hat heute zwischen Hauptbahnhof und Stadtmitte eine Verspätung."
+2. **c) Ungefähr fünfzehn Minuten** — „eine Verspätung von ungefähr fünfzehn Minuten."
+3. **b) Eine technische Störung am Gleis** — „Grund dafür ist eine technische Störung am Gleis."
+4. **c) Auf die U 6** — „Bitte weichen Sie, wenn möglich, auf die Linie U 6 aus."
+
 ---
 
 # Block A — Basistraining

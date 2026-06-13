@@ -59,6 +59,44 @@ Listen and fill in the 6 missing words. **Three words in the box are not needed.
 > in München sehr gut ist. Deswegen hat sie (5) ______, noch ein Jahr zu bleiben.
 > Ihre Mutter ist (6) ______, aber sie versteht es.
 
+## Übung H4 — Kurze Ansage: Verspätung der U-Bahn
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the announcement. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Welche U-Bahn-Linie hat Verspätung?  
+   a) Die U 3.  
+   b) Die U 6.  
+   c) Die U 9.
+
+2. Wie viel Verspätung gibt es?  
+   a) Ungefähr fünf Minuten.  
+   b) Ungefähr zehn Minuten.  
+   c) Ungefähr fünfzehn Minuten.
+
+3. Was ist der Grund für die Verspätung?  
+   a) Eine Demonstration.  
+   b) Eine technische Störung am Gleis.  
+   c) Ein Streik.
+
+4. Auf welche Linie soll man ausweichen?  
+   a) Auf die U 4.  
+   b) Auf die U 5.  
+   c) Auf die U 6.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage. Liebe Fahrgäste, die U-Bahn-Linie U 3 hat heute zwischen Hauptbahnhof und Stadtmitte eine Verspätung von ungefähr fünfzehn Minuten. Grund dafür ist eine technische Störung am Gleis. Wir bitten um Ihr Verständnis, weil unsere Techniker den Schaden jetzt reparieren. Bitte weichen Sie, wenn möglich, auf die Linie U 6 aus. Wir informieren Sie, sobald die Störung behoben ist. Vielen Dank für Ihre Geduld.
+
+</details>
+
 ---
 
 # Block A — Basistraining
