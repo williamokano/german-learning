@@ -139,6 +139,8 @@ langweilig (boring)
 
 Always with **im**: **im** Sommer, **im** Winter (like **am** Montag, L5).
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 5. Grammatik
@@ -167,6 +169,17 @@ Two things to notice:
 
 Bonus: with languages, German often drops the second verb:
 > Ich kann ein bisschen Deutsch. (= … Deutsch sprechen)
+
+> 📌 **Merkasten — Modal verb `können`**
+>
+> | ich | du | er·sie·es | wir | ihr | sie·Sie |
+> |---|---|---|---|---|---|
+> | kann | kannst | **kann** | können | könnt | können |
+>
+> - 1st and 3rd singular are **identical**: ich kann = er kann — no -t ending.
+> - Singular loses the umlaut (kann/kannst); plural keeps it (können/könnt).
+>
+> ▶ When you see `kann`, the context (or pronoun) tells you whether it's ich or er/sie/es.
 
 ### 5.2 The modal bracket — the Satzklammer returns
 
@@ -198,6 +211,18 @@ Three rules:
 by side — German rips them apart and parks everything in the middle. This
 bracket comes back with three more modals in Lektion 7, so automate it now.
 
+> 📌 **Merkasten — Modal bracket (Satzklammer)**
+>
+> Pattern: **[modal verb pos. 2] … [infinitive end]**
+>
+> > Ich **kann** gut Gitarre **spielen**.
+>
+> - The modal verb is conjugated at position 2.
+> - The infinitive always goes to the very end — unchanged.
+> - Everything else (adverbs, objects, negation) fills the middle.
+>
+> ▶ Two verb slots, two ends of the sentence — never side by side.
+
 ### 5.3 `gern, lieber, am liebsten` — the liking ladder
 
 German has no everyday verb for "to like doing": you use the normal verb plus
@@ -220,6 +245,19 @@ the little adverb **gern** — you met it in `Was isst du gern?` (L3).
 ⚠️ "I **like** reading" / "**gosto de** ler" use a verb — German `gern` is an
 **adverb**. Never try to conjugate it: ~~Ich gerne lesen~~ → Ich lese gern.
 (`gern` and `gerne` are both correct — same word.)
+
+> 📌 **Merkasten — `gern / lieber / am liebsten`**
+>
+> | Adverb | Meaning |
+> |---|---|
+> | gern | like (doing) |
+> | lieber | prefer (doing) |
+> | am liebsten | like (doing) best of all |
+>
+> - These are **adverbs** — no adjective endings, never conjugated.
+> - Usage: **verb + gern**: Ich lese gern. · Ich lese lieber. · Am liebsten lese ich.
+>
+> ▶ No verb "to like" in German — just stick gern after the action verb.
 
 ### 5.4 New irregular presents: treffen, lesen, sehen, fahren
 
@@ -248,6 +286,17 @@ And `fernsehen` combines everything — separable AND e→ie:
 > Ich sehe abends **fern**. · **Siehst** du viel **fern**? · Er **sieht** nie
 > **fern**. · Wir sehen zusammen fern.
 
+> 📌 **Merkasten — Irregular presents (stem-vowel changes)**
+>
+> Only `du` and `er/sie/es` change — all other forms are regular.
+>
+> | | e→i: treffen | e→ie: lesen | e→ie: sehen | a→ä: fahren |
+> |---|---|---|---|---|
+> | du | **triffst** | **liest** | **siehst** | **fährst** |
+> | er/sie/es | **trifft** | **liest** | **sieht** | **fährt** |
+>
+> ▶ Stem-vowel change = du/er only; memorise the du-form and er-form follows the same pattern.
+
 ### 5.5 Making suggestions
 
 The simplest suggestion is a yes/no question with **wir** — verb first:
@@ -266,6 +315,16 @@ leid, ich kann nicht. / Ich habe leider keine Zeit.* + a counter-suggestion:
 (One more pattern, `Wollen wir …?`, arrives with the modal `wollen` in
 Lektion 7.)
 
+> 📌 **Merkasten — Making suggestions**
+>
+> | Pattern | Example |
+> |---|---|
+> | `Wollen wir …?` | Wollen wir ins Kino gehen? |
+> | `Wie wäre es mit …?` | Wie wäre es mit einem Film? |
+> | `Hast du Lust, …?` | Hast du Lust, schwimmen zu gehen? |
+>
+> ▶ Three ready-made patterns — learn each as a chunk and slot in your activity.
+
 ### 5.6 Weather sentences with `es`
 
 Weather verbs have no "real" subject — German fills the gap with **es**, and
@@ -278,6 +337,21 @@ Only the sun gets to be a subject: > **Die Sonne** scheint.
 ⚠️ Portuguese drops the subject ("chove", "está frio") — in German a verb
 can't stand alone: ~~Regnet.~~ → **Es** regnet. And no English -ing
 construction: "it **is** rain**ing**" is simply *es regnet*.
+
+> 📌 **Merkasten — Weather with `es`**
+>
+> Pattern: **Es + [verb] / Es + ist + adjective**
+>
+> | Example | Notes |
+> |---|---|
+> | Es regnet. | verb only |
+> | Es ist sonnig. | ist + adjective |
+> | Es gibt Gewitter. | es gibt = there is/are |
+>
+> - `es` is a **dummy subject** — it has no real meaning, just fills the subject slot.
+> - Exception: die Sonne scheint — the sun is a real subject.
+>
+> ▶ Every German sentence needs a subject — `es` is your placeholder for weather.
 
 ### 5.7 Pronunciation
 
