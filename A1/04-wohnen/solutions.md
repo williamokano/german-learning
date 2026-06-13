@@ -4,20 +4,29 @@
 
 # Block H — Hören
 
-## Übung H1 — Pronunciation check
+## Übung H1 — Dialog Hör-Check
+
+### H1a — Dialog A
+
+1. **R** — Anna says „Komm rein! Das ist meine neue Wohnung."
+2. **F** — Die Wohnung hat **drei** Zimmer (not four).
+3. **F** — Der Balkon ist **klein** (not groß).
+4. **R** — Anna confirms „850 Euro im Monat."
+
+### H1b — Dialog B
+
+1. **R** — Bruno calls about a Wohnungsanzeige.
+2. **F** — Die Wohnung hat **zwei** Zimmer (not three).
+3. **R** — „Nein, aber es gibt einen Garten."
+4. **R** — „700 Euro."
+
+## Übung H2 — Aussprache-Check
 
 1. **b) die Küche** (you cook in the kitchen)
 2. **c) das Schlafzimmer** (you sleep in the bedroom)
 3. **a) der Stuhl** (the thing you sit on at a table is a chair)
 4. **b) blau** (the sky is blue)
 5. **b) schwarz** (the opposite of *weiß* is *schwarz*)
-
-## Übung H2 — Dialog Hör-Check
-
-1. **R** — Anna says „Komm rein! Das ist meine neue Wohnung."
-2. **F** — Dialog 1: the flat has **drei** Zimmer (not four).
-3. **R** — Dialog 2: Bruno calls because of the Wohnungsanzeige.
-4. **F** — Dialog 2: 700 Euro is not called „sehr teuer" in the dialog.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -27,7 +36,9 @@
 > großes, braunes Sofa und ein **Schreibtisch**. Anna findet die Wohnung
 > **schön** — aber ein bisschen **teuer**!
 
-Bank in gap order: (1) Wohnzimmer · (2) Küche · (3) Balkon · (4) Schreibtisch · (5) schön · (6) teuer
+Gap order: (1) Wohnzimmer · (2) Küche · (3) Balkon · (4) Schreibtisch · (5) schön · (6) teuer
+
+Not needed (distractors): Garten · hell
 
 ---
 

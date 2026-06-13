@@ -13,9 +13,11 @@
 
 ---
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+## 1. Dialog: Wohnen
 
-## 1. Dialog: Die neue Wohnung
+### Dialog A: Die neue Wohnung (informell)
+
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
 > **Anna:** Hallo Bruno! Komm rein! Das ist meine neue Wohnung.  
 > **Bruno:** Wow, sie ist groß! Wie viele Zimmer hat sie?  
@@ -27,13 +29,12 @@
 > **Bruno:** Und was kostet die Wohnung?  
 > **Anna:** 850 Euro im Monat. Das ist nicht billig, aber okay für Berlin.  
 
-🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
+### Dialog B: Am Telefon — die Wohnungsanzeige (formell)
 
-## 2. Dialog: Am Telefon — die Wohnungsanzeige
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 > **Herr Klein:** Klein.  
-> **Bruno:** Guten Tag, mein Name ist Bruno Santos. Ich habe eine Frage:  
-> Ist die Wohnung noch frei?
+> **Bruno:** Guten Tag, mein Name ist Bruno Santos. Ich habe eine Frage: Ist die Wohnung noch frei?  
 > **Herr Klein:** Ja, die Wohnung ist noch frei.  
 > **Bruno:** Super! Wie groß ist sie?  
 > **Herr Klein:** 65 Quadratmeter — zwei Zimmer, Küche, Bad.  
@@ -50,7 +51,7 @@ tense comes in Lektion 6.
 
 ---
 
-## 3. Redemittel
+## 2. Redemittel
 
 ### Eine Wohnung beschreiben (describing a flat)
 
@@ -84,7 +85,7 @@ tense comes in Lektion 6.
 
 ---
 
-## 4. Wortschatz
+## 3. Wortschatz
 
 ### Die Räume (rooms) — article + plural, as always
 
@@ -140,9 +141,9 @@ suchen (to look for) · finden (to find / to think of) · der Monat, -e:
 
 ---
 
-## 5. Grammatik
+## 4. Grammatik
 
-### 5.1 `es gibt` + Akkusativ (there is / there are)
+### 4.1 `es gibt` + Akkusativ (there is / there are)
 
 `es gibt` states that something exists. The thing that exists is an **accusative
 object** — so masculine nouns take `einen/keinen` (Lektion 3!):
@@ -153,7 +154,7 @@ object** — so masculine nouns take `einen/keinen` (Lektion 3!):
 `es gibt` never changes — singular or plural object, always `gibt`:
 > Es gibt zwei Bäder.
 
-### 5.2 `finden` + Akkusativ + adjective (saying what you think)
+### 4.2 `finden` + Akkusativ + adjective (saying what you think)
 
 `finden` literally means "to find", but Germans use it constantly for opinions:
 
@@ -168,7 +169,7 @@ Conjugation note: the stem ends in **-d**, so du/er/ihr insert an **-e-**:
 du find**est**, er find**et**, ihr find**et** (same later for arbeiten, kosten:
 es kost**et**).
 
-### 5.3 Predicative adjectives — the easy life (for now)
+### 4.3 Predicative adjectives — the easy life (for now)
 
 After `sein`, adjectives **never change**:
 
@@ -176,7 +177,7 @@ After `sein`, adjectives **never change**:
 
 Enjoy it — adjective *endings* (die helle Küche…) only arrive at A2.
 
-### 5.4 `gefallen` + mir/dir (to please → "I like") — intro
+### 4.4 `gefallen` + mir/dir (to please → "I like") — intro
 
 German says "X pleases me" instead of "I like X":
 
@@ -193,13 +194,13 @@ Rules for now:
 2. The person is `mir` (me) / `dir` (you). These are **dative pronouns** — the
    full dative system comes in Lektion 9; until then, mir/dir are chunks.
 
-### 5.5 `Wie viele …?` (how many)
+### 4.5 `Wie viele …?` (how many)
 
 > **Wie viele** Zimmer hat die Wohnung? · **Wie viele** Stühle habt ihr?
 
 `wie viele` + plural noun, then the usual question word order (verb position 2).
 
-### 5.6 Pronunciation
+### 4.6 Pronunciation
 
 - **eu** = English "oy": n**eu**, t**eu**er, D**eu**tsch (you've been saying it
   since Lektion 1!).
@@ -210,7 +211,7 @@ Rules for now:
 
 ---
 
-## 6. Lesetext: Meine Wohnung in Köln
+## 5. Lesetext: Meine Wohnung in Köln
 
 > Ich heiße Jonas und wohne in Köln. Meine Wohnung ist klein: ein Zimmer, eine
 > Küche, ein Bad — nur 35 Quadratmeter. Aber sie gefällt mir sehr! Mein Zimmer
@@ -223,9 +224,14 @@ Rules for now:
 
 ---
 
+## 6. Hörtext
+
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-## 7. Hörtext
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
 > Anna wohnt jetzt in einer neuen Wohnung in Berlin. Die Wohnung hat
 > drei Zimmer: ein Wohnzimmer, ein Schlafzimmer und eine kleine Küche.
@@ -233,11 +239,11 @@ Rules for now:
 > großes, braunes Sofa und ein Schreibtisch. Anna findet die Wohnung
 > schön — aber ein bisschen teuer!
 
-*(You'll listen to this text in Block H, Übung H3.)*
+</details>
 
 ---
 
-## 8. Lernstrategie
+## 7. Lernstrategie
 
 The classic that works: **label your home**. Put sticky notes on 10–15 objects —
 always with the article, color-coded like in Lektion 3 (der = blue, die = red,

@@ -8,9 +8,35 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 # Block H — Hören
 
-## Übung H1 — Pronunciation check (Hör zu 1–3)
+## Übung H1 — Dialog Hör-Check
+
+### H1a — Dialog A: Die neue Wohnung
+
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+
+1. Anna zeigt Bruno ihre neue Wohnung. ( )
+2. Die Wohnung hat vier Zimmer. ( )
+3. Es gibt einen Balkon — er ist groß. ( )
+4. Die Miete ist 850 Euro im Monat. ( )
+
+### H1b — Dialog B: Am Telefon
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+
+1. Bruno fragt wegen einer Wohnungsanzeige an. ( )
+2. Die Wohnung hat drei Zimmer. ( )
+3. Es gibt einen Garten, aber keinen Balkon. ( )
+4. Die Wohnung kostet 700 Euro. ( )
+
+## Übung H2 — Aussprache-Check (Hör zu 1–3)
 
 Listen to the three Aussprache clips and pick the matching word.
+
+🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3) · [hoerzu2.mp3](audio/hoerzu2.mp3) · [hoerzu3.mp3](audio/hoerzu3.mp3)
 
 1. Hör zu 1 (Räume) — wo kochst du?
    a) das Bad  b) die Küche  c) der Flur
@@ -23,19 +49,12 @@ Listen to the three Aussprache clips and pick the matching word.
 5. Hör zu 3 (Farben) — opposite of *weiß* is …
    a) grau  b) schwarz  c) braun
 
-## Übung H2 — Dialog Hör-Check
-
-Listen to both dialogs and decide: richtig (R) oder falsch (F)?
-
-1. Anna zeigt Bruno ihre neue Wohnung. ( )
-2. Die Wohnung hat vier Zimmer. ( )
-3. Im Telefondialog ruft jemand wegen einer Wohnungsanzeige an. ( )
-4. Die Wohnung im Telefondialog ist sehr teuer. ( )
-
 ## Übung H3 — Hörtext-Lückentext
 
-Listen to the Hörtext (lesson.md, section 7) and fill the 6 gaps with the
-words from the bank.
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+Listen to the Hörtext (lesson.md, section 6) and fill the 6 gaps with the
+words from the bank. **Two words are not needed.**
 
 > Anna wohnt jetzt in einer neuen Wohnung in Berlin. Die Wohnung hat
 > drei Zimmer: ein (1) ______, ein Schlafzimmer und eine kleine (2) ______.
@@ -43,7 +62,7 @@ words from the bank.
 > großes, braunes Sofa und ein (4) ______. Anna findet die Wohnung
 > (5) ______ — aber ein bisschen (6) ______!
 
-> (Wohnzimmer · Küche · Balkon · Schreibtisch · schön · teuer)
+> Wohnzimmer · Küche · Balkon · Schreibtisch · schön · teuer · Garten · hell
 
 ---
 
@@ -349,7 +368,7 @@ die Wohnung super — (10) ______ sie ist teuer: 1.200 Euro!
 
 ## Übung C4 — Lesen
 
-**Text 1:** Read „Meine Wohnung in Köln“ in `lesson.md`, section 6.
+**Text 1:** Read „Meine Wohnung in Köln” in `lesson.md`, section 5.
 Richtig (R) oder falsch (F)?
 
 1. Die Wohnung von Jonas hat zwei Zimmer. ( )
