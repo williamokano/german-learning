@@ -30,6 +30,13 @@ Complete Hörtext:
 Gap answers in order: gut · Hals · Husten · machen · Hause · gehen · schläft.
 Distractors not used: Arzt · Tabletten.
 
+## H4 — Kurze Ansage: Durchsage in der Apotheke
+
+1. **b) Im Hauptbahnhof** — „die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet."
+2. **c) Bis zwanzig Uhr** — „die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet."
+3. **b) Einen Blutdruckmess-Service** — „Wir bieten auch einen kostenlosen Blutdruckmess-Service an."
+4. **a) Einen Grippeimpf-Service** — „Ab nächster Woche haben wir auch einen Grippeimpf-Service."
+
 ---
 
 # Block A

@@ -43,6 +43,44 @@ Hör zu und fülle die Lücken. **Zwei Wörter passen nicht.**
 
 **Wortbank:** Arzt · gehen · gut · Hals · Husten · machen · schläft · Tabletten · Hause
 
+## Übung H4 — Kurze Ansage: Durchsage in der Apotheke
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Wo ist die Apotheke?  
+   a) Im Stadtzentrum.  
+   b) Im Hauptbahnhof.  
+   c) Im Einkaufszentrum.
+
+2. Bis wann hat die Apotheke heute geöffnet?  
+   a) Bis achtzehn Uhr.  
+   b) Bis neunzehn Uhr.  
+   c) Bis zwanzig Uhr.
+
+3. Welchen Service bietet die Apotheke jetzt schon an?  
+   a) Einen Zahnarzt-Service.  
+   b) Einen Blutdruckmess-Service.  
+   c) Einen Grippeimpf-Service.
+
+4. Welchen Service bietet die Apotheke ab nächster Woche an?  
+   a) Einen Grippeimpf-Service.  
+   b) Einen Blutdruckmess-Service.  
+   c) Einen Zahnarzt-Service.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage. Liebe Kundinnen und Kunden, die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet. Unsere Öffnungszeiten am Sonntag sind von zehn bis achtzehn Uhr. Wir bieten auch einen kostenlosen Blutdruckmess-Service an. Ab nächster Woche haben wir auch einen Grippeimpf-Service. Kommen Sie einfach vorbei — wir beraten Sie gern. Vielen Dank und bleiben Sie gesund.
+
+</details>
+
 ---
 
 # Block A — Basistraining
