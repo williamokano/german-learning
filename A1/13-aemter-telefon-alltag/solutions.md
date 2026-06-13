@@ -40,6 +40,13 @@ Trap notes:
 5. **Wohnungsgebernachweis** — masc. Akk. indef. → **einen Wohnungsgebernachweis**.
 6. **Montag** — days of the week take **am** (am Montag).
 
+## H4 — Kurze Ansage: Durchsage im Bürgeramt
+
+1. **b) Vom Bürgeramt** — „das Bürgeramt öffnet heute ausnahmsweise erst um zehn Uhr."
+2. **c) Um zehn Uhr** — „das Bürgeramt öffnet heute ausnahmsweise erst um zehn Uhr."
+3. **a) Wegen einer Fortbildung** — „Grund ist eine Fortbildung der Mitarbeiter."
+4. **b) Online** — „Termine können Sie weiterhin online buchen."
+
 ---
 
 # Block A

@@ -44,6 +44,44 @@ Höre den Text und fülle die Lücken. **Achtung:** Zwei Wörter passen nicht!
 
 > **Wortbank:** Berlin · Bürgeramt · anmelden · Personalausweis · Wohnungsgebernachweis · Montag · Reisepass · Dienstag
 
+## Übung H4 — Kurze Ansage: Durchsage im Bürgeramt
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Was ist das für eine Durchsage?  
+   a) Vom Supermarkt.  
+   b) Vom Bürgeramt.  
+   c) Vom Bahnhof.
+
+2. Wann öffnet das Bürgeramt heute?  
+   a) Um acht Uhr.  
+   b) Um neun Uhr.  
+   c) Um zehn Uhr.
+
+3. Warum öffnet das Bürgeramt später?  
+   a) Wegen einer Fortbildung.  
+   b) Wegen eines Feiertags.  
+   c) Wegen einer Reparatur.
+
+4. Wie kann man einen Termin buchen?  
+   a) Nur telefonisch.  
+   b) Online.  
+   c) Nur persönlich.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage. Liebe Bürgerinnen und Bürger, das Bürgeramt öffnet heute ausnahmsweise erst um zehn Uhr. Grund ist eine Fortbildung der Mitarbeiter. Wir bitten um Ihr Verständnis. Bitte informieren Sie sich über die neuen Öffnungszeiten auf unserer Webseite. Termine können Sie weiterhin online buchen. Vielen Dank für Ihre Geduld.
+
+</details>
+
 ---
 
 # Block A — Basistraining
