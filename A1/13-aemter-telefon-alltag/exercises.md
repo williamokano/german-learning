@@ -8,22 +8,33 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check: Telefonat Bürgeramt + Verabredung ändern
+## Übung H1a — Dialog Hör-Check: Telefonat Bürgeramt
 
-🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3) · [dialog1_c.mp3](audio/dialog1_c.mp3)
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
 Listen and decide: richtig (R) oder falsch (F)?
 
 1. Anna ruft das Bürgeramt an, um sich anzumelden. ( )
 2. Anna braucht einen Personalausweis und einen Reisepass. ( )
-3. Im zweiten Dialog ruft Bruno Anna an. ( )
-4. Bruno kann den Termin um drei Uhr nicht ändern. ( )
+3. Der Termin dauert ungefähr eine Stunde. ( )
+4. Anna möchte den Termin online buchen. ( )
 
-## Übung H2 — Hörtext-Lückentext: Anmeldung in Berlin
+## Übung H1b — Dialog Hör-Check: Eine Verabredung ändern
+
+🎧 **Audio:** [dialog1_c.mp3](audio/dialog1_c.mp3)
+
+Listen and decide: richtig (R) oder falsch (F)?
+
+1. Bruno ruft Anna an. ( )
+2. Bruno hat einen Arzttermin. ( )
+3. Anna und Bruno treffen sich um drei Uhr. ( )
+4. Bruno sagt, der neue Termin passt ihm gut. ( )
+
+## Übung H3 — Hörtext-Lückentext: Anmeldung in Berlin
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Höre den Text und fülle die Lücken.
+Höre den Text und fülle die Lücken. **Achtung:** Zwei Wörter passen nicht!
 
 > Anna ist nach (1) ______ gezogen. Sie muss sich beim (2) ______
 > (3) ______. Zuerst ruft sie das Bürgeramt an und macht einen Termin.
@@ -31,7 +42,7 @@ Höre den Text und fülle die Lücken.
 > Wohnungsgebernachweis bekommt sie von ihrem Vermieter, Herrn Keller.
 > Der Termin ist am (6) ______ um zehn Uhr.
 
-> (Berlin · Bürgeramt · anmelden · Personalausweis · Wohnungsgebernachweis · Montag)
+> **Wortbank:** Berlin · Bürgeramt · anmelden · Personalausweis · Wohnungsgebernachweis · Montag · Reisepass · Dienstag
 
 ---
 
@@ -356,13 +367,14 @@ Each word may be used once.
 > AN · AUSFÜLLEN · DABEI · DAUERT · DEM · EINEN · GERNE · HIER · IHREN ·
 > KOMMEN · KÖNNTEN · NACHRICHT · NICHT · REISEPASS · UNTERSCHREIBEN
 
-— Guten Morgen! Bitte füllen Sie dieses Formular (1) ______.
-— Ja, natürlich. (2) ______ Sie mir kurz helfen? Ich verstehe Frage 5 (3) ______.
-— Aber (4) ______! Das ist Ihr Einzugsdatum.
-— Ah, verstehe. Und wie lange (5) ______ das alles?
-— Etwa zehn Minuten. Haben Sie (6) ______ Reisepass (7) ______?
-— Ja, (8) ______. Und muss ich noch (9) ______?
-— Ja, bitte (10) ______ Sie hier unten.
+— Guten Morgen! (1) ______ Sie dieses Formular bitte ausfüllen?
+— Ja, natürlich. Aber ich verstehe Frage 5 (2) ______.
+— Aber (3) ______! Das ist Ihr Einzugsdatum.
+— Ah, verstehe. Und wie lange (4) ______ das alles?
+— Etwa zehn Minuten. Haben Sie (5) ______ Reisepass (6) ______?
+— Ja, (7) ______. Und muss ich noch (8) ______?
+— Ja, bitte unterschreiben Sie hier. Möchten Sie (9) ______ Termin für nächste Woche?
+— Ja, gerne. Kann ich (10) ______?
 
 ## Übung C4 — Lesen
 

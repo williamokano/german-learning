@@ -4,14 +4,21 @@
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check: Telefonat Bürgeramt + Verabredung ändern
+## Übung H1a — Dialog Hör-Check: Telefonat Bürgeramt
 
 1. **R** — Anna says: „Ich möchte mich anmelden. Welche Dokumente brauche ich?"
-2. **F** — Anna braucht ihren Personalausweis **oder** Reisepass, nicht beides.
-3. **R** — Bruno ruft Anna an: „Hallo, Anna! Hier ist Bruno."
-4. **F** — Den Termin um drei Uhr **ändern** sie — Anna schlägt fünf Uhr vor, und Bruno sagt ja.
+2. **F** — Anna braucht ihren Personalausweis **oder** Reisepass, nicht beides. The Sachbearbeiterin says "oder".
+3. **F** — Der Termin dauert etwa **zwanzig Minuten**, nicht eine Stunde.
+4. **R** — Anna says: „Ja, gerne." when asked about online booking.
 
-## Übung H2 — Hörtext-Lückentext: Anmeldung in Berlin
+## Übung H1b — Dialog Hör-Check: Eine Verabredung ändern
+
+1. **R** — Bruno ruft Anna an: „Hallo, Anna! Hier ist Bruno."
+2. **R** — Bruno says: „Ich habe einen Termin beim Arzt."
+3. **F** — Sie treffen sich um **fünf Uhr**, nicht um drei Uhr.
+4. **R** — Bruno says: „Ja, das passt. Bis dann!"
+
+## Übung H3 — Hörtext-Lückentext: Anmeldung in Berlin
 
 Complete Hörtext:
 
@@ -21,13 +28,15 @@ Complete Hörtext:
 > Den Wohnungsgebernachweis bekommt sie von ihrem Vermieter, Herrn Keller.
 > Der Termin ist am **Montag** um zehn Uhr.
 
-Word bank in gap order: **Berlin** · **Bürgeramt** · **anmelden** · **Personalausweis** · **Wohnungsgebernachweis** · **Montag**.
+Gap answers in order: **Berlin** · **Bürgeramt** · **anmelden** · **Personalausweis** · **Wohnungsgebernachweis** · **Montag**.
+
+Distractors (not needed): **Reisepass** (plausible but the text says *Personalausweis*) · **Dienstag** (plausible but the text says *Montag*).
 
 Trap notes:
 1. **Berlin** — proper noun; accusative direction with *nach* (no article change).
 2. **Bürgeramt** — *beim* = *bei dem* (contraction, dative).
 3. **anmelden** — chunk *sich anmelden beim*; **sich** stays near the verb, **an** flies to the end of the clause (separable).
-4. **Personalausweis** — masc. Akk. indef. → **ihren Personalausweis** (possessive *ihr* agrees with fem. *Ausweis*).
+4. **Personalausweis** — *ihren Personalausweis* (possessive *ihr-* takes accusative ending).
 5. **Wohnungsgebernachweis** — masc. Akk. indef. → **einen Wohnungsgebernachweis**.
 6. **Montag** — days of the week take **am** (am Montag).
 
@@ -292,36 +301,20 @@ Self-check: formal opening · *seit dem* (dative) · separable verb *anmelden* �
 
 ## Übung C3 — Sprachbausteine Teil 2
 
-Gap-by-gap analysis:
-
 | Gap | Answer | Reason |
 |---|---|---|
-| 1 | **AUSFÜLLEN** | *Bitte füllen Sie dieses Formular **ausfüllen*** — ⚠️ no: the sentence is "Bitte füllen Sie dieses Formular ___" → the prefix goes at the end: **AUS** |
-| 2 | **KÖNNTEN** | polite request opener |
-| 3 | **NICHT** | "Ich verstehe Frage 5 nicht." |
-| 4 | **GERNE** | "Aber gerne!" (of course!) |
-| 5 | **DAUERT** | "Wie lange dauert das?" |
-| 6 | **IHREN** | "Haben Sie Ihren Reisepass …?" (polite *Ihren* — formal possessive) |
-| 7 | **DABEI** | "Haben Sie Ihren Reisepass dabei?" (= with you) |
-| 8 | **HIER** | "Ja, hier." (= yes, here it is) |
-| 9 | **UNTERSCHREIBEN** | "Muss ich noch unterschreiben?" |
-| 10 | **UNTERSCHREIBEN** | — ⚠️ conflict: UNTERSCHREIBEN used for gap 9, then gap 10 says "bitte ___ Sie hier unten" → imperative form needed. The bank has no separate imperative form. |
+| 1 | **KÖNNTEN** | *Könnten Sie …?* — polite request (Konjunktiv II chunk) |
+| 2 | **NICHT** | "Ich verstehe Frage 5 nicht." |
+| 3 | **GERNE** | "Aber gerne!" (= of course!) |
+| 4 | **DAUERT** | "Wie lange dauert das?" (er/sie/es-form) |
+| 5 | **IHREN** | "Haben Sie **Ihren** Reisepass …?" (formal possessive, masc. Akk.) |
+| 6 | **DABEI** | "Haben Sie Ihren Reisepass **dabei**?" (= with you) |
+| 7 | **HIER** | "Ja, **hier**." (pointing to the document) |
+| 8 | **UNTERSCHREIBEN** | "Muss ich noch unterschreiben?" (infinitive) |
+| 9 | **EINEN** | "Möchten Sie **einen** Termin für nächste Woche?" (masc. Akk. indef.) |
+| 10 | **KOMMEN** | "Ja, gerne. Kann ich **kommen**?" |
 
-⚠️ **Word bank correction:** The bank as written has a word-use conflict at gaps 9–10. Correct interpretation:
-- Gap 1: **AUS** (suffix of *ausfüllen*)
-- Gap 2: **KÖNNTEN**
-- Gap 3: **NICHT**
-- Gap 4: **GERNE**
-- Gap 5: **DAUERT**
-- Gap 6: **IHREN**
-- Gap 7: **DABEI**
-- Gap 8: **HIER**
-- Gap 9: **UNTERSCHREIBEN**
-- Gap 10: **UNTERSCHREIBEN** is already used → the word needed is an imperative form. Since the bank lists UNTERSCHREIBEN only once, gap 10 must use a different word. Re-read gap 10: "Ja, bitte ______ Sie hier unten." The missing word is **UNTERSCHREIBEN** (infinitive serves as imperative base — the Sie-imperative of *unterschreiben* is *Unterschreiben Sie*). Accept **UNTERSCHREIBEN** for gap 10 and note that this word appears once only in the bank (i.e., the sentence must be restructured — one of the gaps should use a different word).
-
-**Intended clean answer key:** 1-AUS · 2-KÖNNTEN · 3-NICHT · 4-GERNE · 5-DAUERT · 6-IHREN · 7-DABEI · 8-HIER · 9-UNTERSCHREIBEN · 10-REISEPASS (re-reading: "Haben Sie ______ Reisepass ___ dabei?" → gaps 6-7 take IHREN+DABEI; gap 10 context: "Ja, bitte ______ Sie hier unten" = **UNTERSCHREIBEN**)
-
-**Not needed:** AN · EINEN · KOMMEN · NACHRICHT · DEM
+**Not needed (distractors):** AN · AUSFÜLLEN · DEM · NACHRICHT · REISEPASS
 
 ## Übung C4 — Lesen
 

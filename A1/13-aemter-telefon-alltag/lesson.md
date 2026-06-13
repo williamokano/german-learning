@@ -14,22 +14,19 @@
 
 ---
 
-## 1. Dialoge
+## 1. Dialog
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
 ### Dialog A: Telefonat — Anna ruft das Bürgeramt an
 
 > **Sachbearbeiterin:** Bürgeramt Mitte, guten Tag.  
-> **Anna:** Guten Tag. Mein Name ist Bergmann, Anna Bergmann. Ich habe eine  
-> Frage zur Anmeldung.
+> **Anna:** Guten Tag. Mein Name ist Bergmann, Anna Bergmann. Ich habe eine Frage zur Anmeldung.  
 > **Sachbearbeiterin:** Ja, gerne. Was kann ich für Sie tun?  
 > **Anna:** Ich möchte mich anmelden. Welche Dokumente brauche ich?  
-> **Sachbearbeiterin:** Sie brauchen Ihren Personalausweis oder Reisepass und  
-> einen aktuellen Wohnungsgebernachweis.
+> **Sachbearbeiterin:** Sie brauchen Ihren Personalausweis oder Reisepass und einen aktuellen Wohnungsgebernachweis.  
 > **Anna:** Und wie lange dauert der Termin?  
-> **Sachbearbeiterin:** Etwa zwanzig Minuten. Möchten Sie online einen Termin  
-> buchen?
+> **Sachbearbeiterin:** Etwa zwanzig Minuten. Möchten Sie online einen Termin buchen?  
 > **Anna:** Ja, gerne. Vielen Dank!  
 > **Sachbearbeiterin:** Auf Wiederhören!  
 
@@ -54,8 +51,7 @@
 
 > **Bruno:** Hallo, Anna! Hier ist Bruno. Störe ich gerade?  
 > **Anna:** Nein, nein. Was gibt es?  
-> **Bruno:** Ich kann leider nicht um drei Uhr kommen. Ich habe einen Termin  
-> beim Arzt.
+> **Bruno:** Ich kann leider nicht um drei Uhr kommen. Ich habe einen Termin beim Arzt.  
 > **Anna:** Kein Problem. Können wir uns um fünf Uhr treffen?  
 > **Bruno:** Ja, das passt. Bis dann!  
 > **Anna:** Tschüss, Bruno!  
@@ -320,9 +316,14 @@ In the Perfekt (L11):
 
 ---
 
+## 6. Hörtext
+
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-## 6. Hörtext
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
 > Anna ist nach Berlin gezogen. Sie muss sich beim Bürgeramt anmelden.
 > Zuerst ruft sie das Bürgeramt an und macht einen Termin. Sie braucht
@@ -330,7 +331,7 @@ In the Perfekt (L11):
 > Wohnungsgebernachweis bekommt sie von ihrem Vermieter, Herrn Keller.
 > Der Termin ist am Montag um zehn Uhr.
 
-*(You'll listen to this text in Block H, Übung H2.)*
+</details>
 
 ---
 
