@@ -4,14 +4,23 @@
 
 # Block H — Hören
 
-## Übung H1 — Dialog: Im Büro
+## Übung H1 — Dialog Hör-Check: Im Büro
+
+### H1a — Informell (Dialog A)
 
 1. **R** — Bruno says: „Ich muss um acht Uhr im Büro sein."
 2. **F** — Anna arbeitet **von neun bis fünf**, nicht um acht.
 3. **F** — Der Kurs ist **morgen** — heute Abend will Anna **lernen**, nicht den Kurs machen.
 4. **R** — Bruno: „Darf ich auch mitmachen?" / „Dann will ich heute noch den Kurs buchen."
 
-## Übung H2 — Hörtext-Lückentext: Marias Arbeitstag
+### H1b — Formell (Dialog B)
+
+1. **R** — Frau Yilmaz: „Sie müssen heute das Meeting vorbereiten."
+2. **F** — Das Meeting fängt um **zehn** Uhr an, nicht um neun.
+3. **R** — Frau Yilmaz: „Herr Brandt darf heute früher gehen — er hat einen Arzttermin."
+4. **F** — Anna sagt: „Ich beginne **sofort**." (not tomorrow)
+
+## Übung H3 — Hörtext-Lückentext: Marias Arbeitstag
 
 > Maria arbeitet als **(1) Verkäuferin** in einem **(2) Geschäft** in
 > München. Sie muss morgens um **(3) sechs** Uhr aufstehen. Die Arbeit
@@ -19,7 +28,7 @@
 > muss sie noch **(5) einkaufen**. Sie will später gern **(6) Teilzeit**
 > arbeiten.
 
-Bank (in gap order): **Verkäuferin · Geschäft · sechs · achtzehn · einkaufen · Teilzeit**
+Not needed: **Vollzeit · Lehrerin** (distractors)
 
 ---
 
@@ -71,7 +80,7 @@ Key rule: **dürfen nicht = must not** (prohibited); **müssen nicht = don't hav
 1. Ich will Deutsch lernen.
 2. Du musst die Hausaufgaben machen.
 3. Anna darf hier parken.
-4. Wir wollen einen Kurs anmelden.
+4. Wir wollen das Formular ausfüllen.
 5. Ihr müsst pünktlich sein.
 6. Bruno darf nicht rauchen.
 7. Sie will Programmiererin werden.
@@ -185,7 +194,7 @@ Note on #10: the sentence actually contains two errors — accept either fix; id
 1. Ich muss heute arbeiten.
 2. Sie will Ärztin werden.
 3. Du darfst hier nicht rauchen.
-4. Wir wollen den Kurs anmelden.
+4. Wir wollen das Formular ausfüllen.
 5. Was wollen Sie machen? (also fine: Was möchten Sie machen?)
 6. Er muss nicht kommen — es ist nicht obligatorisch. (also fine: …es ist freiwillig.)
 7. Darf ich eine Frage stellen? (also fine: Darf ich kurz fragen?)

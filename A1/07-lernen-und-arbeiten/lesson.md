@@ -23,12 +23,12 @@
 > **Anna:** Bruno, wann musst du heute arbeiten?  
 > **Bruno:** Ich muss um acht Uhr im Büro sein. Und du?  
 > **Anna:** Ich arbeite von neun bis fünf. Heute Abend will ich noch lernen —  
-> ich habe morgen einen Kurs.
+> ich habe morgen einen Kurs.  
 > **Bruno:** Was lernst du?  
 > **Anna:** Ich mache einen Computerkurs. Ich will Programmieren lernen.  
 > **Bruno:** Cool! Darf ich auch mitmachen?  
 > **Anna:** Natürlich! Der Kurs ist offen für alle. Du musst aber schnell sein —  
-> die Plätze sind begrenzt.
+> die Plätze sind begrenzt.  
 > **Bruno:** Dann will ich heute noch den Kurs buchen.  
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
@@ -38,10 +38,10 @@
 > **Frau Yilmaz:** Guten Morgen, Anna! Sie müssen heute das Meeting vorbereiten.  
 > **Anna:** Ja, natürlich. Wann muss das Meeting anfangen?  
 > **Frau Yilmaz:** Um zehn Uhr. Und Herr Brandt darf heute früher gehen —  
-> er hat einen Arzttermin.
+> er hat einen Arzttermin.  
 > **Anna:** Verstanden. Ich beginne sofort.  
 
-**Key cultural point — Beruf und Arbeit:** In Germany Austria and Switzerland,
+**Key cultural point — Beruf und Arbeit:** In Germany, Austria, and Switzerland,
 punctuality at work is very important. The greeting `Mahlzeit!` (literally
 "meal time") is said at lunchtime, like "enjoy your lunch!" — but it can also
 be a dry comment when something goes wrong (like English "great...").
@@ -252,16 +252,21 @@ as one word (it re-combines there):
 
 ---
 
+## 6. Hörtext
+
+*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-## 6. Hörtext
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
 > Maria arbeitet als Verkäuferin in einem Geschäft in München. Sie muss
 > morgens um sechs Uhr aufstehen. Die Arbeit fängt um halb acht an und
 > endet um achtzehn Uhr. Am Nachmittag muss sie noch einkaufen. Sie
 > will später gern Teilzeit arbeiten.
 
-*(You'll listen to this text in Block H, Übung H2.)*
+</details>
 
 ---
 

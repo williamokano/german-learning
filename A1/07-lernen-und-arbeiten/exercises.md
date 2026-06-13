@@ -8,25 +8,42 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 # Block H — Hören
 
-## Übung H1 — Dialog: Im Büro
+## Übung H1 — Dialog Hör-Check: Im Büro
 
-Listen to the dialog „Im Büro" in `lesson.md`, section 1. Richtig (R) oder falsch (F)?
+### H1a — Informell (Dialog A)
+
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+Listen and decide: **Richtig (R)** oder **Falsch (F)**?
 
 1. Bruno muss um acht Uhr im Büro sein. ( )
 2. Anna muss auch um acht Uhr arbeiten. ( )
 3. Anna will heute Abend einen Computerkurs machen. ( )
 4. Bruno will auch den Kurs machen. ( )
 
-## Übung H2 — Hörtext-Lückentext: Marias Arbeitstag
+### H1b — Formell (Dialog B)
 
-Listen to the Hörtext in `lesson.md`, section 6, and fill the gaps from the bank.
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+
+1. Frau Yilmaz sagt, Anna muss das Meeting vorbereiten. ( )
+2. Das Meeting fängt um neun Uhr an. ( )
+3. Herr Brandt darf heute früher gehen. ( )
+4. Anna will das Meeting morgen vorbereiten. ( )
+
+## Übung H3 — Hörtext-Lückentext: Marias Arbeitstag
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
+Listen to the Hörtext and fill the gaps from the word bank. **Two words are not needed.**
 
 > Maria arbeitet als (1) ______ in einem (2) ______ in München. Sie muss
 > morgens um (3) ______ Uhr aufstehen. Die Arbeit fängt um halb acht an und
 > endet um (4) ______ Uhr. Am Nachmittag muss sie noch (5) ______. Sie
 > will später gern (6) ______ arbeiten.
 
-> (Verkäuferin · Geschäft · sechs · achtzehn · einkaufen · Teilzeit)
+> (Verkäuferin · Geschäft · sechs · achtzehn · einkaufen · Teilzeit · Vollzeit · Lehrerin)
 
 ---
 
@@ -63,7 +80,7 @@ Fill the table from memory.
 3. Frau Yilmaz ______ das Meeting vorbereiten.
 4. Wir ______ früh aufstehen.
 5. ______ ihr morgen zur Schule?
-6. Bruno und Anna ______ den Kurs anmelden.
+6. Bruno und Anna ______ das Büro vorbereiten.
 7. ______ Sie heute im Büro sein, Herr Brandt?
 8. Er ______ die Prüfung wiederholen.
 
@@ -111,7 +128,7 @@ Example: *ich / müssen / heute / arbeiten* → *Ich muss heute arbeiten.*
 1. ich / wollen / Deutsch / lernen
 2. du / müssen / die Hausaufgaben / machen
 3. Anna / dürfen / hier / parken
-4. wir / wollen / einen Kurs / anmelden
+4. wir / wollen / das Formular / ausfüllen
 5. ihr / müssen / pünktlich / sein
 6. Bruno / dürfen / nicht / rauchen
 7. sie (she) / wollen / Programmiererin / werden
@@ -280,7 +297,7 @@ Match each subject to a description. Write the number next to the letter.
 1. I have to work today.
 2. She wants to become a doctor.
 3. You must not smoke here. (informal)
-4. We want to sign up for the course.
+4. We want to fill in the form.
 5. What do you want to do? (formal)
 6. He doesn't have to come — it's not obligatory.
 7. May I ask a question?
@@ -365,7 +382,7 @@ Each word may be used once.
 Choose a, b, or c:
 
 7. Die Sprachschule sucht …
-   a) einen Vollzeitkraft  b) eine Teilzeitkraft  c) einen Programmierer
+   a) eine Vollzeitkraft  b) eine Teilzeitkraft  c) einen Programmierer
 8. Bewerber müssen …
    a) Englisch sprechen  b) Deutsch sehr gut können  c) Informatik studiert haben
 9. Wie viele Stunden pro Woche muss man arbeiten?
@@ -447,7 +464,7 @@ Satzklammer (put in order):
 
 müssen nicht or dürfen nicht:
 
-7. „Du ______ nicht kommen — es ist kein Pflicht." (no obligation)
+7. „Du ______ nicht kommen — es ist keine Pflicht." (no obligation)
 8. „Hier ______ man nicht laut sein." (prohibition)
 
 Professions:
