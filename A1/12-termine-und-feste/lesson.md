@@ -141,6 +141,8 @@ German and English (with minor spelling differences). Plural: **die Monate**.
 | **statt|finden** ⚠️ | to take place | separable |
 | **wünschen** | to wish | Ich wünsche dir alles Gute! |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -176,6 +178,15 @@ the **dative** ending `-en` (after `am`) and the **nominative** ending `-e` (aft
 `Montag, der 3. Oktober` (spoken: *Montag, der dritte Oktober*)
 or in invitations: `am 3. Oktober` / `am dritten Oktober`.
 
+> 📌 **Merkasten — Ordinalzahlen**
+> | Range | Rule | Exceptions |
+> |---|---|---|
+> | 1–19 | stem + `-te` | **erst-**, **dritt-**, siebt-, acht- |
+> | 20+ | stem + `-ste` | zwanzigst-, einundzwanzigst- … |
+> 
+> Used with `am` + Dativ ending: `am **ersten** Mai`, `am **zwanzigsten** März`.  
+> ▶ Always add adjective endings after `am`: `am erst**en**`, `am zwanzigst**en**`.
+
 ### 4.2 Temporal prepositions: im, am, um, vor, nach
 
 These five prepositions cover almost all time expressions you need at A1.
@@ -195,6 +206,17 @@ Nacht` (exception!).
 
 ⚠️ Portuguese/Spanish interference: `em janeiro` = **im** Januar (not *in*);
 `na segunda-feira` / `el lunes` = **am** Montag (not *in*).
+
+> 📌 **Merkasten — Temporale Präpositionen**
+> | Präposition | Use | Example |
+> |---|---|---|
+> | `um` | clock time | um **9 Uhr** |
+> | `am` | day / date / part of day | am **Montag** · am **ersten Mai** · am **Abend** |
+> | `im` | month / season | im **Juli** · im **Sommer** |
+> | `vor` | before (time unit) | vor **zwei Wochen** |
+> | `nach` | after (time unit) | nach **dem Essen** |
+> 
+> ▶ `um/am/im` are the three core ones — drill them until automatic.
 
 ### 4.3 Making and declining appointments — sentence patterns
 
@@ -219,6 +241,16 @@ Nacht` (exception!).
 ⚠️ `leider` (unfortunately) is the politeness softener that saves these
 declinations from sounding rude. Learn it as part of the phrase.
 
+> 📌 **Merkasten — Verabredungen: Schlüsselsätze**
+> | Function | German |
+> |---|---|
+> | Accept | `Ja, das passt (mir) gut.` |
+> | Decline (polite) | `Tut mir leid, da kann ich leider nicht.` |
+> | Suggest alternative | `Wie wäre es mit Donnerstag um 15 Uhr?` |
+> | Confirm | `Dann bis Donnerstag!` |
+> 
+> ▶ Always give a reason or alternative when declining — it sounds more natural and polite.
+
 ### 4.4 `einladen` — separable verb recap (L5)
 
 `einladen` is separable: the prefix `ein-` detaches and goes to the end.
@@ -232,6 +264,15 @@ declinations from sounding rude. Learn it as part of the phrase.
 
 ⚠️ `einladen` also has a vowel change: `a → ä` for `du` (lädst) and `er/sie/es`
 (lädt). More a→ä verbs: `fahren`, `tragen`, `schlafen` (already known from L5–L6).
+
+> 📌 **Merkasten — `einladen` (trennbar)**
+> | Form | Example |
+> |---|---|
+> | Präsens | Ich **lade** dich **ein**. / Er **lädt** uns **ein**. (a→ä) |
+> | Perfekt | Ich habe dich **eingeladen**. (ge- between prefix+stem) |
+> | Imperativ (Sie) | **Laden** Sie mich **ein**! |
+> 
+> ▶ Partizip II of separable verbs: prefix + ge + stem → ein**ge**laden.
 
 ### 4.5 Pronunciation
 
