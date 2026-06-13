@@ -301,7 +301,7 @@ becomes **den**, not *der*. This is the key masculine trap of this lesson.
 9. **spielt** — "Fußball (9) spielt" *(schreibt/fotografiert don't collocate with Fußball)*
 10. **fotografiert** — "er (10) fotografiert gern Landschaften" *(schreibt Landschaften doesn't fit)*
 
-*Not used: groß · lange · schreibt · arbeitet · einen.*
+*Not used: groß · lange · schreibt · arbeitet · einen · tanzt · trinkt · reist · liest · singt.*
 
 ## C4 — Lesen
 

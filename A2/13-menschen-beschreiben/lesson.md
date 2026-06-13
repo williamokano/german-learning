@@ -125,7 +125,6 @@ Frau Weber trifft Herrn Steinmeyer im Treppenhaus. Sie sprechen über den neuen 
 | die Figur, -en | figure, build |
 | die Größe, -n | size; height |
 | die Brille, -n | (pair of) glasses |
-| der Bart, ⸚e (Bärte) | beard |
 
 ### Charaktereigenschaften (character traits)
 
@@ -196,6 +195,8 @@ Frau Weber trifft Herrn Steinmeyer im Treppenhaus. Sie sprechen über den neuen 
 > er sieht … aus, er hat … ausgesehen. Use the **Dativ** for what something
 > looks like: *Er sieht **seinem Bruder** ähnlich.* — He looks like his brother.
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -244,6 +245,12 @@ Examples:
 > "which" for things, "that" for both. In German, the relative pronoun is
 > **the same as the article** of the noun. Just look at the noun and pick the
 > matching article form — `der/die/das/die`.
+
+> 📌 **Merkasten — Relativpronomen Nom**
+> | | mask. | fem. | neut. | Pl. |
+> |---|---|---|---|---|
+> | Nom | **der** | **die** | **das** | **die** |
+> Same as the definite article. Gender = the antecedent noun's gender.
 
 ---
 
@@ -304,6 +311,13 @@ neuter and plural are **identical in both cases**.
 > **Memory key:** the relative pronoun in Akkusativ is the same form as the
 > **accusative article** you learned in A1/L3: *Ich kenne **den** Mann. → Ich
 > kenne den Mann, **den** ich meine.*
+
+> 📌 **Merkasten — Relativpronomen Nom + Akk**
+> | | mask. | fem. | neut. | Pl. |
+> |---|---|---|---|---|
+> | Nom | **der** | **die** | **das** | **die** |
+> | Akk | **den** | **die** | **das** | **die** |
+> ▶ Only masculine changes (der → den). ▶ Case = the pronoun's role **inside** the relative clause.
 
 ---
 

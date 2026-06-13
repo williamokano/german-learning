@@ -352,10 +352,19 @@ Rewrite each sentence so the relative clause has the verb in the **last** positi
 
 ## Übung B9 — Kurze Personenbeschreibung
 
-Write 4–5 sentences about a person you know (real or invented). Use:
+You are writing a message to a friend introducing someone new in your life — a colleague, a classmate, or a neighbour. Write **4–5 sentences** about this person.
+
+**Your situation:** You just met someone interesting. Tell your friend: what the person looks like, what they are like as a person, and what they mean to you.
+
+Use:
 - at least **2** sentences about appearance (Aussehen)
 - at least **1** sentence about character (Charakter)
 - at least **2** relative clauses (one Nominativ, one Akkusativ)
+
+**Self-check before moving on:**
+- [ ] Did I use a comma before each relative clause?
+- [ ] Is the verb at the end of each relative clause?
+- [ ] Did I use `der/die/das` (Nom) vs. `den/die/das` (Akk) correctly?
 
 ______________________________________________________
 ______________________________________________________
@@ -406,9 +415,9 @@ Read the text and choose the best option (a, b, or c) for each gap.
 ## Übung C3 — Sprachbausteine Teil 2
 
 Read the text and fill each gap (1–10) with a word from the box.
-**Five words in the box are not needed.**
+**Ten words in the box are not needed.**
 
-**Word bank:** schlank · dunkle · der · den · das · kocht · die · studiert · spielt · fotografiert · groß · lange · schreibt · arbeitet · einen
+**Word bank:** schlank · dunkle · der · den · das · kocht · die · studiert · spielt · fotografiert · groß · lange · schreibt · arbeitet · einen · tanzt · trinkt · reist · liest · singt
 
 > Mein Freund Noah ist 28 Jahre alt und kommt aus Hamburg.
 > Er ist groß und (1) ______, hat kurze (2) ______ Haare.
