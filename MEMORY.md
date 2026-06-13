@@ -85,41 +85,46 @@ This makes every save a checkpoint for the next agent.
 
 ## Current state (live — as of 2026-06-13)
 
-**Done & pushed (28 lessons — A2 COMPLETE):**
-- A1/01 through A1/14 (14 lessons)
-- A2/01 through A2/14 (14 lessons)
+**Done & pushed (28 lessons — A2 COMPLETE + retrofit in progress):**
+- A1/01 through A1/14 (14 lessons) — retrofit pending
+- A2/01 through A2/14 (14 lessons) — A2/01–06 retrofitted ✅
 
-### Checklist — A2/13 Menschen beschreiben (improvements, commit 36b111f)
-- [x] lesson.md: duplicate `der Bart` removed; vocab recall prompt added after §3; Merkasten added after §4.2 and §4.3.1
-- [x] exercises.md: B9 restructured with situation prompt + self-check; C3 expanded to 20 words (10 distractors)
-- [x] solutions.md: C3 "Not used" list updated (all 10 distractors named)
-- [x] Committed and pushed (commit 36b111f)
+### Retrofit progress — A2 regular lessons (Merkasten + vocab recall + C3 expand + writing context)
 
-### Checklist — A2/14 Prüfungstraining A2
-- [x] lesson.md written (A2 grammar reference: reflexives, Konjunktiv II, adjective declension, Komparativ, Nebensätze, Wechselpräpositionen, Dativ+Akk verbs, vocab snapshot, exam strategy)
-- [x] exercises.md written (full mock: Hören 3 Aufgaben / Lesen 4 Aufgaben / Schreiben 2 Aufgaben / Sprechen 3 Teile)
-- [x] solutions.md written (full answer key + scoring grid: 45 pts written, pass ≥ 27)
-- [x] Audio generated: 11 clips — `aufgabe1_gespraech1–5.mp3`, `aufgabe2.mp3`, `aufgabe3_ansage1–5.mp3`
-- [x] todo.md checkbox ticked, README + CURRICULUM.md status updated
-- [x] Committed and pushed
+| Lesson | Status |
+|---|---|
+| A2/01 Erzähl mal | ✅ retrofitted (commit 4e63e88) |
+| A2/02 Zusammen wohnen | ✅ retrofitted (commit fa885c8) |
+| A2/03 Begründen und erklären | ✅ retrofitted + C3 redesigned (commit 44a4c0c) |
+| A2/04 Arbeit und Beruf | ✅ retrofitted + C3 fixed (commit ce64301) |
+| A2/05 Gesund leben | ✅ retrofitted + C3 redesigned (commit 7eef3a3) |
+| A2/06 Medien und Kommunikation | ✅ retrofitted (commit 1187a51) |
+| A2/07 Vergleichen | ⏳ next batch |
+| A2/08 Adjektive überall | ⏳ next batch |
+| A2/09 Höflichkeit und Wünsche | ⏳ next batch |
+| A2/10 Stadt, Land, Reisen | 🔲 |
+| A2/11 Geben und schenken | 🔲 |
+| A2/12 Pläne und Zukunft | 🔲 |
+| A2/13 Menschen beschreiben | ✅ done (pilot, commit 36b111f) |
+| A2/14 Prüfungstraining A2 | — exam lesson, not retrofitted |
 
-**Up next — B1/01 Früher und heute:**
+### C3 integrity issues found during retrofit
 
-### Checklist — B1/01 Früher und heute
-- [ ] lesson.md written
-- [ ] exercises.md written
-- [ ] solutions.md written
-- [ ] Audio generated
-- [ ] Committed and pushed
-- [ ] todo.md + README + CURRICULUM.md updated
+Several original C3 exercises had critical integrity flaws (answer word used in multiple gaps). Fixed:
+- A2/03: WARUM+WEIL each needed twice → complete redesign
+- A2/04: BEGINN (noun) where verb BEGINNT needed; WENN used twice → fixed
+- A2/05: MICH needed in 4 gaps → complete redesign
 
-**Notes for B1:**
-- B1 instruction language: English/German **mixed** (per CURRICULUM.md note: "English at A1–A2, English/German mixed at B1")
-- Scope: Präteritum (regular + key irregular), Plusquamperfekt
-- Grammar from B1/L01: Präteritum of regular verbs (ending: -te/-test/-te/-ten/-tet/-ten), irregular strong verbs (war, hatte, ging, kam, fuhr, sah, las…), Plusquamperfekt (hatte/war + Partizip II)
-- First B1 lesson — set the tone for the level, use more complex sentences, wider vocabulary
-- Reference lesson structure: same 7-section lesson.md format + HBCD exercise architecture
-- TTS speed for B1: check `scripts/audio_config.json:level_speeds` — if not set, default is probably 1.0×
+**Key lesson for future retrofits:** After subagent edits C3, always verify each answer appears exactly once. Run mental simulation of student solving each gap.
+
+**Up next — A2/07–09 retrofit batch.**
+
+**After all A2 done: retrofit A1/01–13, then start B1/01 Früher und heute.**
+
+**Notes for B1 (for when we get there):**
+- B1 instruction language: English/German **mixed**
+- Scope B1/L01: Präteritum regular + irregular, Plusquamperfekt
+- TTS speed for B1: check `scripts/audio_config.json:level_speeds`
 
 ---
 
