@@ -333,7 +333,7 @@ Complete text:
 
 Word bank in gap order: **bin · habe · gemacht · werde · fliegen · plant · hoffen · ist · hat · geregnet**.
 
-*Not needed: werden · kaufen · verspricht · kann · waren.*
+*Not needed: werden · kaufen · verspricht · kann · waren · hatte · hast · wird · wirst · wollte.*
 
 ⚠️ The text mixes **Perfekt** (gap 1, 2, 3, 9, 10) and **Futur I** (gap 4, 5)
 and **Präsens** (gap 6, 7, 8) — a natural mix for a short personal message.

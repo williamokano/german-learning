@@ -164,6 +164,8 @@
 ⚠️ `vorhaben, sich vornehmen, beschließen, versprechen, gelingen` are all strong
 or mixed verbs — pay attention to the stem vowel and to the Partizip II form.
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -200,6 +202,19 @@ time word to express the future:
 Futur I is more common in **written German**, in **formal speech**, and when
 you want to make the future meaning extra clear.
 
+> 📌 **Merkasten — Futur I**
+>
+> | Person | `werden` | Pattern |
+> |---|---|---|
+> | ich | werde | `werden` (conjugated, position 2) + infinitive at END |
+> | du | wirst | |
+> | er/sie/es | wird | |
+> | wir | werden | |
+> | ihr | werdet | |
+> | sie/Sie | werden | |
+>
+> Key rule: **`werden` in position 2 · infinitive at the very end of the clause.**
+
 ---
 
 ### 4.2 Negation, word order and time markers in Futur I
@@ -234,6 +249,14 @@ goes to the end** too — and the infinitive comes **after it** at the very end:
 | Main clause | Ich **werde** morgen Deutsch **lernen**. |
 | `wenn`-clause (verb-final) | **…wenn** ich morgen Deutsch **lernen werde**. |
 | `dass`-clause (verb-final) | **…dass** ich morgen Deutsch **lernen werde**. |
+
+> 📌 **Merkasten — Negation & Wortstellung in Futur I**
+>
+> | Rule | Example |
+> |---|---|
+> | `nicht` before infinitive (not before `werden`) | Ich werde morgen **nicht** kommen. |
+> | Time markers: Satzanfang or after `werden` | **Morgen** werde ich lernen. / Ich werde **morgen** lernen. |
+> | Subordinate clause: `werde` moves to end, before infinitive | …dass ich morgen Deutsch lernen **werde**. |
 
 ---
 
@@ -299,6 +322,13 @@ Use `wenn` for:
 ⚠️ **Trap 3 — confusing `als` with `wenn` in repeated past:**
 ❌ *Als ich ein Kind war, hat meine Mutter mich immer getröstet, als ich traurig war.* — clumsy
 ✅ *Wenn ich als Kind traurig war, hat meine Mutter mich immer getröstet.* — natural
+
+> 📌 **Merkasten — `als` vs. `wenn`**
+>
+> | Word | Use | Verb position |
+> |---|---|---|
+> | `als` | ONE-TIME event in the PAST | verb-last in subordinate clause |
+> | `wenn` | REPEATED events (any time) OR future events | verb-last in subordinate clause |
 
 ---
 

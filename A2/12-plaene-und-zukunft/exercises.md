@@ -364,11 +364,11 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
+Fill the 10 gaps using words from the box. **Ten words are not needed.**
 Each word may be used once.
 
-> BIN · HABE · GEMACHT · WERDE · FLIEGEN · PLANT · HOFFEN · IST ·
-> HAT · GEREGNET · WERDEN · KAUFEN · VERSPRICHT · KANN · WAREN
+> BIN · FLIEGEN · GEMACHT · HATTE · HABE · HAST · HAT · HOFFEN · IST · KANN ·
+> KAUFEN · PLANT · VERSPRICHT · WAREN · WERDE · WERDEN · WIRST · WOLLTE · WIRD · GEREGNET
 
 > Letztes Jahr **(1)** ______ ich im Sommer nach Wien geflogen. Ich
 > **(2)** ______ dort auch einen Sprachkurs **(3)** ______. Nächstes
@@ -428,6 +428,11 @@ the next year**. Include:
 - What you will do **if** something happens
 
 A model answer is in `solutions.md` — write yours **first**.
+
+**Self-check before moving on:**
+- [ ] Does each Futur I sentence use `werden` (conjugated) + infinitive at the END of the clause?
+- [ ] Did you use `als` only for a one-time past event, and `wenn` for repeated or future events?
+- [ ] In every `als`/`wenn` subordinate clause, is the conjugated verb at the very END?
 
 ---
 
