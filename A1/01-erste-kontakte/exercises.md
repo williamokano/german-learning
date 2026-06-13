@@ -49,6 +49,44 @@ Höre den Text und fülle die Lücken.
 
 > (heiße · komme · lerne · spreche · super · zwanzig)
 
+## Übung H4 — Kurze Ansage: Anruf von Petra
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Wessen Nachricht ist das?  
+   a) Von Petra.  
+   b) Von Anna.  
+   c) Von Lisa.
+
+2. Woher kennt Petra Anna?  
+   a) Aus dem Büro.  
+   b) Aus dem Deutschkurs.  
+   c) Aus dem Café.
+
+3. Was möchte Petra mit Anna machen?  
+   a) Ins Kino gehen.  
+   b) Einen Kaffee trinken.  
+   c) Einen Spaziergang.
+
+4. Was ist Petras Telefonnummer?  
+   a) Eins-zwei-drei.  
+   b) Vier-fünf-sechs.  
+   c) Vier-sieben-eins-eins.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Hallo, hier ist Petra. Ich bin deine neue Kollegin aus dem Deutschkurs. Bitte ruf mich zurück, wenn du Zeit hast. Ich möchte mich gerne mit dir treffen. Wir können zusammen einen Kaffee trinken. Meine Nummer ist vier-sieben-eins-eins. Vielen Dank und bis bald!
+
+</details>
+
 ---
 
 # Block A — Basistraining

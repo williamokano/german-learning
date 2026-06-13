@@ -31,6 +31,13 @@ Complete Hörtext:
 
 Word bank in gap order: heiße · komme · lerne · spreche · super · zwanzig.
 
+## H4 — Kurze Ansage: Anruf von Petra
+
+1. **a) Von Petra** — „Hallo, hier ist Petra."
+2. **b) Aus dem Deutschkurs** — „Ich bin deine neue Kollegin aus dem Deutschkurs."
+3. **b) Einen Kaffee trinken** — „Wir können zusammen einen Kaffee trinken."
+4. **c) Vier-sieben-eins-eins** — „Meine Nummer ist vier-sieben-eins-eins."
+
 ---
 
 # Block A — Basistraining
