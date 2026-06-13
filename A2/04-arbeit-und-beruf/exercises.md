@@ -51,6 +51,44 @@ Listen and fill in the 6 missing words. **Three words in the box are not needed.
 > eine (5) ______, wenn es ruhig ist. Nach der Arbeit lernt sie Deutsch in einem
 > (6) ______. Wenn der Kurs endet, ist sie meistens sehr müde, aber glücklich.
 
+## Übung H4 — Kurze Ansage: Anruf von der Personalagentur
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the phone message. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Von welcher Firma ruft Frau Schäfer an?  
+   a) Von der Personalagentur „Jobwelt".  
+   b) Von der Firma „Jobfinder".  
+   c) Vom IT-Unternehmen „Future".
+
+2. Für welche Stelle hat sich der Bewerber beworben?  
+   a) Als Kellner.  
+   b) Als Projektleiter.  
+   c) Als IT-Assistent.
+
+3. Wann findet das Vorstellungsgespräch statt?  
+   a) Am Mittwoch, dem achtzehnten Juni, um zehn Uhr.  
+   b) Am Mittwoch, dem elften Juni, um zehn Uhr.  
+   c) Am Donnerstag, dem neunzehnten Juni, um vierzehn Uhr.
+
+4. Bis wann soll man anrufen, um den Termin zu bestätigen?  
+   a) Bis Donnerstag.  
+   b) Bis Freitag.  
+   c) Bis Samstag.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Guten Tag, hier ist Frau Schäfer von der Personalagentur „Jobwelt". Ich rufe an wegen Ihrer Bewerbung als IT-Assistent. Wir hätten nächste Woche einen freien Termin für ein Vorstellungsgespräch. Das Gespräch findet am Mittwoch, dem achtzehnten Juni, um zehn Uhr in unserem Büro in der Friedrichstraße statt. Bitte bringen Sie Ihren Lebenslauf und Ihre Zeugnisse mit. Bitte rufen Sie uns bis Freitag an, um den Termin zu bestätigen. Vielen Dank und bis bald!
+
+</details>
+
 ---
 
 # Block A — Basistraining

@@ -31,6 +31,13 @@ Mirror of every exercise. Bold = key answer. One-line explanation where learners
 
 Not needed: **versteht · schläfrig · müde** (müde appears at the end of the Hörtext but the gap for it is not included — the exercise targets the first part of the transcript).
 
+## H4 — Kurze Ansage: Anruf von der Personalagentur
+
+1. **a) Von der Personalagentur „Jobwelt"** — „hier ist Frau Schäfer von der Personalagentur „Jobwelt"."
+2. **c) Als IT-Assistent** — „Ich rufe an wegen Ihrer Bewerbung als IT-Assistent."
+3. **a) Am Mittwoch, dem achtzehnten Juni, um zehn Uhr** — „Das Gespräch findet am Mittwoch, dem achtzehnten Juni, um zehn Uhr in unserem Büro in der Friedrichstraße statt."
+4. **b) Bis Freitag** — „Bitte rufen Sie uns bis Freitag an, um den Termin zu bestätigen."
+
 ---
 
 # Block A — Basistraining
