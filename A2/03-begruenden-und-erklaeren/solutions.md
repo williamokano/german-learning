@@ -268,14 +268,16 @@ Statement 2: "Weil man Englisch überall sprechen kann, muss man kein Deutsch le
 7. Ich finde, dass die deutsche Grammatik interessant ist.
 8. Sie kommt nicht, weil sie arbeiten muss.
 
-## B9 — Warum? — Gründe erfinden
+## B9 — Warum ich später anfange: Forenbeitrag (model answer)
 
-*(Model answers — your own valid German sentences are also accepted)*
+> Hallo Lisa, ich finde deinen Plan super! Ich denke, dass ein
+> Praktikum vor dem Studium sehr wichtig ist, weil man dann weiß,
+> ob einem das Fach wirklich gefällt. Ich habe damals direkt
+> angefangen und das war ein Fehler. Deshalb würde ich dir raten,
+> mach das Praktikum zuerst! LG, [Name]
 
-1. Ich bin zu spät, weil mein Wecker nicht geklingelt hat. Mein Wecker hat nicht geklingelt. Deshalb bin ich zu spät.
-2. Ich gehe nicht in die Party, weil ich krank bin. Ich bin krank. Darum gehe ich nicht in die Party.
-3. Ich mag diesen Kurs, weil die Lehrerin sehr gut erklärt. Die Lehrerin erklärt sehr gut. Deswegen mag ich diesen Kurs.
-4. Ich trinke keinen Kaffee, weil ich Kaffee nicht mag. Ich mag Kaffee nicht. Deshalb trinke ich keinen Kaffee.
+*(A correct reply: ≥1 `weil` clause, ≥1 `dass` clause, ≥1 `deshalb`/`darum`/
+`deswegen` sentence, ≥1 opinion phrase. Any equivalent is accepted.)*
 
 ## B10 — `weil`-Satz: Modalverben im Nebensatz
 

@@ -379,16 +379,31 @@ Example: Anna: "Ich wohne in Berlin." → *Anna sagt, dass sie in Berlin wohnt.*
 7. I find that German grammar is interesting.
 8. She's not coming because she has to work.
 
-## Übung B9 — Warum? — Gründe erfinden
+## Übung B9 — Warum ich später anfange: Forenbeitrag
 
-Answer each question with a full `weil`-sentence. Then rewrite using `deshalb`.
+**Forenbeitrag von Lisa** *(Du hast diesen Beitrag gerade gelesen)*:
+> **Thema:** Später mit dem Studium anfangen — sinnvoll oder nicht?
+>
+> Hi zusammen! Ich überlege, ob ich erst im März mit dem Studium
+> anfangen soll, statt im Oktober. Ich möchte vorher noch ein
+> Praktikum machen, weil ich mehr Praxiserfahrung brauche. Was
+> denkt ihr? Hat jemand Erfahrung damit? Bin für alle Meinungen
+> dankbar! LG, Lisa
 
-Example: Warum lernst du Deutsch? → *Ich lerne Deutsch, weil ich in Berlin wohne. Ich wohne in Berlin. Deshalb lerne ich Deutsch.*
+**Your task:** Schreib einen Forenbeitrag als Antwort an Lisa in
+**4–5 Sätzen**. Erkläre ihr, warum du denkst, dass ihr Plan gut (oder
+nicht gut) ist — gib Gründe.
 
-1. Warum bist du heute zu spät?
-2. Warum gehst du nicht in die Party?
-3. Warum magst du diesen Kurs?
-4. Warum trinkst du keinen Kaffee?
+Use:
+- [ ] at least **1** sentence with `weil …` (verb at the end!)
+- [ ] at least **1** sentence with `dass …` (verb at the end!)
+- [ ] at least **1** sentence with a coordinating connector (*deshalb, darum, deswegen*) — verb stays in position 2
+- [ ] at least **1** opinion phrase (*Ich finde, … / Ich denke, … / Meiner Meinung nach …*)
+
+**Self-check before moving on:**
+- [ ] Did I put the **verb at the end** of each `weil` and `dass` clause?
+- [ ] Did I use a **comma** before `weil` and `dass`?
+- [ ] Did I keep the verb in **position 2** after `deshalb / darum / deswegen`?
 
 ## Übung B10 — `weil`-Satz: Modalverben im Nebensatz
 
@@ -404,7 +419,7 @@ Choose the correct option.
    a) wollen   b) ankommen wollen   c) wollen ankommen
 
 4. Sie bleibt zu Hause, weil sie sich ausruhen ___.  
-   a) soll ausruhen   b) ausruhen soll   c) ausruhen
+   a) soll ausruhen   b) ausruhen soll   c) soll ausruhen
 
 ---
 
