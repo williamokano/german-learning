@@ -117,6 +117,8 @@ der Samstag (in the north also: Sonnabend) · der Sonntag
 **immer** (always) → **oft** (often) → **manchmal** (sometimes) → **nie** (never)
 > Ich stehe **immer** um sechs auf. · Er kocht **nie**.
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -143,6 +145,20 @@ How do you know a verb is separable? The prefix carries the **stress**:
 **AUF**stehen, **EIN**kaufen (separable). You'll meet inseparable prefixes
 (be-, ver-…) later.
 
+> 📌 **Merkasten — Separable verbs (Satzklammer)**
+>
+> The prefix separates and goes to END.
+>
+> | Infinitive | Position-2 form | End particle |
+> |---|---|---|
+> | aufstehen | stehe | auf |
+> | einkaufen | kaufe | ein |
+> | anrufen | rufe | an |
+>
+> Example bracket: Ich **stehe** um 7 Uhr **auf**.
+>
+> ▶ The verb part holds position 2; the prefix waits at the very end of the sentence.
+
 ### 4.2 Telling time — two systems
 
 **Official** (timetables, TV, announcements): hour + Uhr + minutes, 24h clock.
@@ -163,6 +179,15 @@ How do you know a verb is separable? The prefix carries the **stress**:
 "half *of the way to* eight". Portuguese/English speakers ("sete e meia",
 "half past seven") get this wrong for years — drill it until it hurts.
 
+> 📌 **Merkasten — Telling time**
+>
+> | System | Example | When to use |
+> |---|---|---|
+> | Official (24h) | 13:30 = dreizehn Uhr dreißig | Written, transport, announcements |
+> | Colloquial (12h) | halb zwei, Viertel nach eins | Everyday speech |
+>
+> ▶ Use official for written/transport contexts; use colloquial in speech — and remember: halb zwei = 1:30, not 2:30!
+
 ### 4.3 Temporal prepositions
 
 | preposition | used with | example |
@@ -172,10 +197,31 @@ How do you know a verb is separable? The prefix carries the **stress**:
 | **in der** | night ⚠️ | in der Nacht |
 | **von … bis** | start–end | von neun bis fünf, von Montag bis Freitag |
 
+> 📌 **Merkasten — Temporal prepositions**
+>
+> | Preposition | Used with | Example |
+> |---|---|---|
+> | **um** | clock time | um acht Uhr |
+> | **am** | day or part of day | am Montag, am Abend |
+> | **im** | month or season | im Januar, im Sommer |
+>
+> ▶ um = o'clock; am = day/daytime period; im = month/season.
+
 ### 4.4 `arbeiten` — verbs with -t/-d stems (recap from `finden`, L4)
 
 Stems ending in -t or -d insert an **-e-**: du arbeit**est**, er arbeit**et**,
 ihr arbeit**et**. Same family: finden, kosten, and later antworten.
+
+> 📌 **Merkasten — arbeiten (-t/-d stems)**
+>
+> Stems ending in -t or -d insert -e- before -st/-t endings.
+>
+> | Form | arbeiten | lernen |
+> |---|---|---|
+> | du | arbeit**e**st | lernst |
+> | er/sie/es | arbeit**e**t | lernt |
+>
+> ▶ If the stem ends in -t or -d, add -e- before the ending — otherwise the consonants would be unpronounceable.
 
 ### 4.5 `schlafen` and `anfangen` — your first a→ä verbs
 
@@ -191,6 +237,19 @@ Like e→i (sprechen, essen, nehmen), some a-verbs take an umlaut for du/er:
 
 And `fernsehen` combines both features — separable AND e→ie:
 ich sehe fern · du **siehst** fern · er **sieht** fern (full e→ie family in L6).
+
+> 📌 **Merkasten — schlafen / anfangen (a→ä)**
+>
+> Only du and er/sie/es trigger the umlaut — all other forms keep a.
+>
+> | Form | schlafen | anfangen |
+> |---|---|---|
+> | ich | schlafe | fange … an |
+> | **du** | **schläfst** | **fängst** … an |
+> | **er/sie/es** | **schläft** | **fängt** … an |
+> | wir/sie/Sie | schlafen | fangen … an |
+>
+> ▶ Umlaut a→ä appears only in du and er/sie/es forms — exactly the same slots as e→i verbs.
 
 ### 4.6 Pronunciation
 
