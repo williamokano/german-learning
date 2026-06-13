@@ -32,21 +32,39 @@ It covers all four exam skills: **Hören · Lesen · Schreiben · Sprechen**.
 
 🎧 **Audio:** [aufgabe1_gespraech1.mp3](audio/aufgabe1_gespraech1.mp3)
 
-**Gespräch 1 — Transcript** *(read aloud or record before attempting)*
-
-> **Frau:** Entschuldigung, wie komme ich zum Bahnhof?  
-> **Mann:** Gehen Sie hier geradeaus, dann rechts — der Bahnhof ist dann links.  
-> **Frau:** Vielen Dank!  
-
 **Question 1:** Wo ist der Bahnhof?
 
 a) links (after going straight, then turning right)
 b) rechts (immediately)
 c) geradeaus (straight ahead, no turn)
 
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe1_gespraech1.mp3](audio/aufgabe1_gespraech1.mp3)
+
+**Gespräch 1 — Transcript**
+
+> **Frau:** Entschuldigung, wie komme ich zum Bahnhof?  
+> **Mann:** Gehen Sie hier geradeaus, dann rechts — der Bahnhof ist dann links.  
+> **Frau:** Vielen Dank!  
+
+</details>
+
 ---
 
 🎧 **Audio:** [aufgabe1_gespraech2.mp3](audio/aufgabe1_gespraech2.mp3)
+
+**Question 2:** Was bestellt die Frau?
+
+a) Tee und ein Brötchen
+b) Orangensaft und ein Käsebrötchen
+c) Kaffee und Kuchen
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe1_gespraech2.mp3](audio/aufgabe1_gespraech2.mp3)
 
 **Gespräch 2 — Transcript**
 
@@ -55,15 +73,22 @@ c) geradeaus (straight ahead, no turn)
 > **Kellner:** Gern. Zusammen oder getrennt?  
 > **Frau:** Zusammen, bitte.  
 
-**Question 2:** Was bestellt die Frau?
-
-a) Tee und ein Brötchen
-b) Orangensaft und ein Käsebrötchen
-c) Kaffee und Kuchen
+</details>
 
 ---
 
 🎧 **Audio:** [aufgabe1_gespraech3.mp3](audio/aufgabe1_gespraech3.mp3)
+
+**Question 3:** Wann beginnt Lenas Kurs?
+
+a) Um 6:30 Uhr
+b) Um 8:00 Uhr
+c) Um 16:15 Uhr
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe1_gespraech3.mp3](audio/aufgabe1_gespraech3.mp3)
 
 **Gespräch 3 — Transcript**
 
@@ -72,15 +97,22 @@ c) Kaffee und Kuchen
 > **Mutter:** Gut. Und wann kommst du nach Hause?  
 > **Lena:** Um Viertel nach vier.  
 
-**Question 3:** Wann beginnt Lenas Kurs?
-
-a) Um 6:30 Uhr
-b) Um 8:00 Uhr
-c) Um 16:15 Uhr
+</details>
 
 ---
 
 🎧 **Audio:** [aufgabe1_gespraech4.mp3](audio/aufgabe1_gespraech4.mp3)
+
+**Question 4:** Was macht Selin?
+
+a) Sie geht zum Arzt.
+b) Sie geht nach Hause und schläft.
+c) Sie geht in die Apotheke.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe1_gespraech4.mp3](audio/aufgabe1_gespraech4.mp3)
 
 **Gespräch 4 — Transcript**
 
@@ -89,15 +121,22 @@ c) Um 16:15 Uhr
 > **Thomas:** Oh nein! Gehst du zum Arzt?  
 > **Selin:** Nein, ich gehe heute nach Hause und schlafe.  
 
-**Question 4:** Was macht Selin?
-
-a) Sie geht zum Arzt.
-b) Sie geht nach Hause und schläft.
-c) Sie geht in die Apotheke.
+</details>
 
 ---
 
 🎧 **Audio:** [aufgabe1_gespraech5.mp3](audio/aufgabe1_gespraech5.mp3)
+
+**Question 5:** Wo ist Herr Klein?
+
+a) Im Supermarkt
+b) Im Deutschkurs
+c) Beim Arzt
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe1_gespraech5.mp3](audio/aufgabe1_gespraech5.mp3)
 
 **Gespräch 5 — Transcript**
 
@@ -105,11 +144,7 @@ c) Sie geht in die Apotheke.
 > **Sekretärin:** Guten Tag! Ja, Herr Klein — bitte nehmen Sie im Wartezimmer Platz. Doktor Berger kommt gleich.  
 > **Herr Klein:** Danke.  
 
-**Question 5:** Wo ist Herr Klein?
-
-a) Im Supermarkt
-b) Im Deutschkurs
-c) Beim Arzt
+</details>
 
 ---
 
@@ -121,10 +156,6 @@ c) Beim Arzt
 
 🎧 **Audio:** [aufgabe2.mp3](audio/aufgabe2.mp3)
 
-**Transcript:**
-
-> Hallo Maria, hier ist Petra. Ich rufe an wegen Samstag. Das Konzert beginnt um 20 Uhr, nicht um 19 Uhr — ich habe die Karten jetzt. Wir treffen uns am Bahnhof um Viertel vor acht, okay? Ich habe auch ein Ticket für deine Schwester gekauft. Bitte ruf mich zurück — meine Nummer ist 0173 456 789. Tschüss!
-
 **Statements:**
 
 1. Das Konzert beginnt um 19 Uhr. ( )
@@ -132,6 +163,17 @@ c) Beim Arzt
 3. Sie treffen sich am Bahnhof um 19:45 Uhr. ( )
 4. Petra hat ein Ticket für Marias Bruder gekauft. ( )
 5. Petras Telefonnummer ist 0173 456 789. ( )
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe2.mp3](audio/aufgabe2.mp3)
+
+**Transcript:**
+
+> Hallo Maria, hier ist Petra. Ich rufe an wegen Samstag. Das Konzert beginnt um 20 Uhr, nicht um 19 Uhr — ich habe die Karten jetzt. Wir treffen uns am Bahnhof um Viertel vor acht, okay? Ich habe auch ein Ticket für deine Schwester gekauft. Bitte ruf mich zurück — meine Nummer ist 0173 456 789. Tschüss!
+
+</details>
 
 ---
 
@@ -143,23 +185,26 @@ c) Beim Arzt
 
 🎧 **Audio:** [aufgabe3_ansage1.mp3](audio/aufgabe3_ansage1.mp3)
 
-**Ansage 1 — Transcript**
-
-> Achtung, eine Durchsage: Zug 412 nach Hamburg fährt heute von Gleis 7 ab — nicht von Gleis 5. Abfahrt: 14:32 Uhr.
-
 **Question 1:** Von welchem Gleis fährt der Zug?
 
 a) Gleis 5
 b) Gleis 7
 c) Gleis 12
 
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe3_ansage1.mp3](audio/aufgabe3_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage: Zug 412 nach Hamburg fährt heute von Gleis 7 ab — nicht von Gleis 5. Abfahrt: 14:32 Uhr.
+
+</details>
+
 ---
 
 🎧 **Audio:** [aufgabe3_ansage2.mp3](audio/aufgabe3_ansage2.mp3)
-
-**Ansage 2 — Transcript**
-
-> Das Kaufhaus Möller hat montags bis freitags von 9 bis 20 Uhr geöffnet. Samstags von 9 bis 18 Uhr. Sonntags bleibt das Kaufhaus geschlossen.
 
 **Question 2:** Wann hat das Kaufhaus am Samstag geöffnet?
 
@@ -167,13 +212,20 @@ a) Von 9 bis 20 Uhr
 b) Von 9 bis 18 Uhr
 c) Es ist am Samstag geschlossen.
 
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe3_ansage2.mp3](audio/aufgabe3_ansage2.mp3)
+
+**Ansage 2 — Transcript**
+
+> Das Kaufhaus Möller hat montags bis freitags von 9 bis 20 Uhr geöffnet. Samstags von 9 bis 18 Uhr. Sonntags bleibt das Kaufhaus geschlossen.
+
+</details>
+
 ---
 
 🎧 **Audio:** [aufgabe3_ansage3.mp3](audio/aufgabe3_ansage3.mp3)
-
-**Ansage 3 — Transcript**
-
-> Im Supermarkt FRISCH haben wir heute im Angebot: Tomaten — ein Kilo für neunundneunzig Cent! Und frisches Brot — vier Brötchen für einen Euro zwanzig.
 
 **Question 3:** Was kostet ein Kilo Tomaten?
 
@@ -181,13 +233,20 @@ a) 1,20 €
 b) 0,99 €
 c) 1,99 €
 
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe3_ansage3.mp3](audio/aufgabe3_ansage3.mp3)
+
+**Ansage 3 — Transcript**
+
+> Im Supermarkt FRISCH haben wir heute im Angebot: Tomaten — ein Kilo für neunundneunzig Cent! Und frisches Brot — vier Brötchen für einen Euro zwanzig.
+
+</details>
+
 ---
 
 🎧 **Audio:** [aufgabe3_ansage4.mp3](audio/aufgabe3_ansage4.mp3)
-
-**Ansage 4 — Transcript**
-
-> Guten Morgen! Hier ist der Deutschkurs A1. Die Lehrerin, Frau Hoffmann, ist heute krank. Der Kurs findet heute nicht statt. Der nächste Kurs ist am Donnerstag um 10 Uhr.
 
 **Question 4:** Warum findet der Kurs heute nicht statt?
 
@@ -195,19 +254,37 @@ a) Es ist ein Feiertag.
 b) Die Lehrerin ist krank.
 c) Der Raum ist besetzt.
 
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe3_ansage4.mp3](audio/aufgabe3_ansage4.mp3)
+
+**Ansage 4 — Transcript**
+
+> Guten Morgen! Hier ist der Deutschkurs A1. Die Lehrerin, Frau Hoffmann, ist heute krank. Der Kurs findet heute nicht statt. Der nächste Kurs ist am Donnerstag um 10 Uhr.
+
+</details>
+
 ---
 
 🎧 **Audio:** [aufgabe3_ansage5.mp3](audio/aufgabe3_ansage5.mp3)
-
-**Ansage 5 — Transcript**
-
-> Herzlich willkommen im Stadtmuseum! Die Öffnungszeiten sind dienstags bis sonntags von 10 bis 18 Uhr. Der Eintritt kostet sechs Euro. Kinder unter 12 Jahren zahlen nichts.
 
 **Question 5:** Wie viel kostet der Eintritt für Erwachsene?
 
 a) Nichts
 b) 10 Euro
 c) 6 Euro
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 [aufgabe3_ansage5.mp3](audio/aufgabe3_ansage5.mp3)
+
+**Ansage 5 — Transcript**
+
+> Herzlich willkommen im Stadtmuseum! Die Öffnungszeiten sind dienstags bis sonntags von 10 bis 18 Uhr. Der Eintritt kostet sechs Euro. Kinder unter 12 Jahren zahlen nichts.
+
+</details>
 
 ---
 
