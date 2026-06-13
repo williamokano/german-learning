@@ -354,17 +354,26 @@ Answer in a complete Futur-I sentence, using the cue in brackets.
 5. Was werden deine Eltern im Sommer machen? (nach Italien fahren)
 6. Was wirst du nächstes Jahr erreichen? (die B1-Prüfung / schaffen)
 
-## Übung B9 — Wettervorhersage schreiben
+## Übung B9 — Pläne fürs Wochenende
 
-Schreibe eine kurze Wettervorhersage (4–5 Sätze) für die nächsten Tage in
-deiner Stadt. Benutze mindestens 3 Futur-I-Sätze und 2 Wörter aus dem
-Wortschatz: *sonnig, regnen, Gewitter, Temperatur, Grad, Wind, warm, kühl*.
+**WhatsApp-Nachricht von Maria** *(Du hast diese Nachricht gerade bekommen)*:
+> Hey! Wie geht's? Was machst du am Wochenende? Ich plane eine kleine
+> Wanderung im Grunewald. Hast du Lust mitzukommen? Treffpunkt wäre
+> Samstag um zehn Uhr am Bahnhof. Liebe Grüße, Maria
 
-______________________
-______________________
-______________________
-______________________
-______________________
+**Your task:** Antworte Maria in **4–5 Sätzen** auf WhatsApp. Sag ihr, was
+du selbst am Wochenende vorhast, und ob du mitwandern kannst.
+
+Use:
+- [ ] at least **1** sentence with `werden` + Infinitiv (a future plan)
+- [ ] at least **1** sentence with a `wenn`-clause (a condition)
+- [ ] at least **1** time expression (*am Samstag / am Sonntag / am Wochenende / am Abend*)
+- [ ] a friendly closing phrase (*Bis dann! / Liebe Grüße / Tschüss!*)
+
+**Self-check before moving on:**
+- [ ] Did I put the verb at the **end** of the `wenn`-clause?
+- [ ] Did I use a **comma** before the `wenn`-clause?
+- [ ] Did I put `werden` in position 2 and the infinitive at the end?
 
 ---
 

@@ -282,17 +282,16 @@ and the verb**.
 5. Meine Eltern werden im Sommer nach Italien fahren.
 6. Nächstes Jahr werde ich die B1-Prüfung schaffen.
 
-## B9 — Wettervorhersage schreiben (model answer)
+## B9 — Pläne fürs Wochenende (model answer)
 
-> Hallo und herzlich willkommen zur Wettervorhersage! Morgen, am Dienstag,
-> wird es den ganzen Tag sonnig, die Temperatur wird 25 Grad sein. Am
-> Mittwoch wird es leider regnen, aber nur am Vormittag. Am Donnerstag
-> wird das Wetter wieder besser, und am Freitag wird es sogar Gewitter
-> geben. Am Wochenende wird es dann wieder schön — Sonne und warmer
-> Wind. Perfekt für einen Ausflug!
+> Hi Maria! Danke für die Einladung! Ich werde am Samstag leider nicht
+> mitkommen können — ich werde meine Eltern besuchen. Wenn ich am
+> Sonntag Zeit habe, werde ich vielleicht eine kleine Radtour machen.
+> Am Sonntagabend gehe ich mit meinem Bruder ins Kino. Wann
+> wandert ihr denn genau? Liebe Grüße, Anna
 
-*(Any 4–5 connected sentences using at least 3 Futur-I forms and at least
-2 of the listed weather words are accepted.)*
+*(A correct reply: 1 Futur-I form, 1 `wenn`-clause with verb at the end,
+1 time expression, a friendly closing. Any equivalent is accepted.)*
 
 ---
 
