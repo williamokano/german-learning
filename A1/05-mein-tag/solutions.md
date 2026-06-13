@@ -37,6 +37,13 @@ Trap notes:
 4. **kauft** — er/sie-form of ein|kaufen; distractor **arbeitet** doesn't fit since Yuki is a student.
 5. **halb** — colloquial time formula: "um halb elf" = 10:30.
 
+## H4 — Kurze Ansage: Nachrichten am Morgen
+
+1. **a) Dienstag, der fünfzehnte April** — „Heute ist Dienstag, der fünfzehnte April."
+2. **a) Kalt** — „am Morgen ist es kalt, vier Grad."
+3. **b) Keine größeren Probleme** — „Im Straßenverkehr gibt es heute keine größeren Probleme."
+4. **c) Der Feiertag morgen** — „Vergessen Sie nicht: morgen ist Feiertag."
+
 ---
 
 # Block A

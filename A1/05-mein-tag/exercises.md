@@ -44,6 +44,44 @@ Höre den Text und fülle die Lücken.
 
 > (schnell · fängt · Mittagspause · kauft · halb · arbeitet · früh)
 
+## Übung H4 — Kurze Ansage: Nachrichten am Morgen
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Nachrichten. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Welcher Tag ist heute?  
+   a) Dienstag, der fünfzehnte April.  
+   b) Mittwoch, der sechzehnte April.  
+   c) Montag, der vierzehnte April.
+
+2. Wie ist das Wetter am Morgen?  
+   a) Kalt.  
+   b) Sonnig.  
+   c) Warm.
+
+3. Was gibt es im Verkehr?  
+   a) Viele Staus.  
+   b) Keine größeren Probleme.  
+   c) Eine Sperrung.
+
+4. Was soll man nicht vergessen?  
+   a) Der Einkauf.  
+   b) Der Termin beim Arzt.  
+   c) Der Feiertag morgen.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Guten Morgen und herzlich willkommen zu den Nachrichten. Heute ist Dienstag, der fünfzehnte April. Das Wetter in Berlin: am Morgen ist es kalt, vier Grad. Am Nachmittag wird es wärmer, bis zu zwölf Grad. Am Abend regnet es vielleicht. Im Straßenverkehr gibt es heute keine größeren Probleme. Vergessen Sie nicht: morgen ist Feiertag. Genießen Sie Ihren Tag!
+
+</details>
+
 ---
 
 # Block A — Basistraining
