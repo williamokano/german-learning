@@ -367,23 +367,22 @@ Ich trage jetzt auch meinen (6) ______ Schal dazu — den hellen grauen."
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
+Fill the 10 gaps using words from the box. **Ten words are not needed.**
 Each word may be used once.
 
-> ALTEN · BLAUE · BLAUEN · ELEGANTE · ELEGANTEN · GRAUEN · GRÜNER · KLEINEN · NEUE · NEUEN · ROTEN · SCHWARZE · SCHWARZEN · WEISSES · WARMEN
+> ALTEN · BLAUE · BLAUEN · BRAUNEN · BUNTEN · ELEGANTE · ELEGANTEN · GRAUEN · GRÜNER · HELLEN ·
+> KLEINEN · LANGEN · MODERNEN · NEUE · NEUEN · ROTEN · SCHWARZE · SCHWARZEN · WARMEN · WEISSES
 
-— Ich suche ein Geschenk für meine Mutter. Sie mag (1) ______ Farben wie Blau
-  und Grün.  
-— Wie wäre es mit diesem (2) ______ Schal hier? Er ist aus Wolle und sehr warm.  
-— Hmm, der (3) ______ Schal ist schön, aber ich glaube, sie bevorzugt ein (4) ______
-  Accessoire — sie ist sehr klassisch.  
-— Dann empfehle ich diese (5) ______ Tasche. Sie ist aus Leder und sehr stilvoll.  
-— Oh ja! Und haben Sie auch ein (6) ______ Hemd für meinen Vater?  
-— Natürlich. Schauen Sie — dieses (7) ______ Hemd hier ist von sehr guter Qualität.  
-— Und diese (8) ______ Jacke — ist das ein (9) ______ Modell?  
-— Ja, das ist unsere (10) ______ Kollektion, gerade angekommen.  
-
-*(Distractors: GRÜNER, ROTEN, SCHWARZEN — one of these is a distractor; five total not used)*
+— Guten Tag! Ich suche eine (1) ______ Jacke — etwas Modernes.  
+— Ich empfehle Ihnen die (2) ______ Jacke aus unserer Kollektion.  
+— Schön! Und auch eine (3) ______ Hose dazu.  
+— Natürlich. Bevorzugen Sie (4) ______ Hemden oder eher neutrale Farben?  
+— Ich sehe den (5) ______ Schal dort — wie viel kostet er?  
+— Zwanzig Euro. Wir haben auch einen (6) ______ Schal aus Kaschmir, etwas günstiger.  
+— Gut. Und einen (7) ______ Pullover in Größe L — haben Sie einen?  
+— Ja, aus dem (8) ______ Bestand, gerade reduziert.  
+— Wunderbar! Ein (9) ______ Hemd für meinen Vater — hätten Sie eins?  
+— Natürlich. Frischer (10) ______ Tee ist auch gerade im Angebot!
 
 ## Übung C4 — Lesen
 
@@ -429,6 +428,11 @@ You are shopping for a friend's birthday present. Write a short email (6–8 sen
 - Your opinion of the item(s) and why you chose them
 
 A model answer is in `solutions.md` — write yours **first**.
+
+**Self-check before moving on:**
+- [ ] After `der/die/das` or `dieser`, are the endings mostly **-en** (with -**e** only for Nom sg. and Akk Fem/Neut)?
+- [ ] After `ein/eine` or a possessive, did you use **-er** (Nom Masc) or **-es** (Nom/Akk Neut) where needed?
+- [ ] Does each adjective agree with its noun in gender, number, and case?
 
 ---
 

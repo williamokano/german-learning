@@ -293,30 +293,20 @@ Full model:
 
 ## C3 — Sprachbausteine Teil 2
 
-1. **BLAUE** — Akk Pl no-article context ("sie mag blaue Farben") — strong pl. → -e; or after `mag` + no article → strong. **BLAUE** fits.
-2. **GRÜNEN** — Dat Mask def. (*mit diesem grünen Schal*: `diesem` → weak → -en)  
-   *(Rethink: "mit diesem grünen Schal" — `diesem` is def-equivalent, adjective -en)*
-3. **GRÜNE** — Nom Mask def. (*der grüne Schal*: already established → Nom Mask → -e) — but the gap says "der … Schal ist schön" → **GRÜNE**
-4. **ELEGANTE** — Nom Neut indef. (*ein elegantes Accessoire*) — wait: gap 4 is after "ein" in "ein elegantes Accessoire" → -es; but word bank has ELEGANTE not ELEGANTES. Rethink: The gap reads "sie bevorzugt ein (4) ______ Accessoire" → Nom Neut indef → -es → **ELEGANTES** — but that isn't in the bank. Closest: **ELEGANTE** is in the bank as a Fem Nom/Akk form.  
-   *Self-correction: "Accessoire" (das Accessoire) → Neut → "ein elegantes Accessoire." The bank has ELEGANTE and ELEGANTEN. Since ELEGANTES is not in the bank, the intended answer using available words is probably a different adjective. The bank has NEUE (Nom/Akk Fem or Neut def.). For Neut indef. Nom/Akk we need -es. NEUEN is in the bank (Akk Mask def. or Dat). This gap is genuinely best filled with a bank word that fits: ELEGANTE does not fit (wrong ending), so the model answer for gap 4 is from the available options. Checking the bank: NEUE fits Nom/Akk Neut def. (*das neue Accessoire*) but article here is *ein*. The safest model answer with the given bank:*  
-   
-**Model answers for C3:**
-1. **BLAUE** *(mag blaue Farben — strong pl. -e)*
-2. **GRÜNEN** *(mit diesem grünen Schal — `diesem` → weak → -en)*
-3. **GRÜNE** *(der grüne Schal — Nom Mask def. → -e)*
-4. **ELEGANTE** *(ein elegante Accessoire — note: strictly should be -es, but ELEGANTE is the closest available; also fine: instructor may accept this gap as imperfect; see note)*
-5. **SCHWARZE** *(diese schwarze Tasche — Akk Fem def. → -e)*
-6. **WEISSES** — not in bank; use **NEUE** *(ein neues/weißes Hemd — Akk Neut indef. → -es; NEUEN is in bank for Akk Mask)*  
-   *Model answer: WEISSES is in the bank as WEISSES — yes it is: check bank… the bank has WEISSES — **YES.** Answer: **WEISSES**)*
-7. **NEUE** *(dieses neue Hemd — Akk Neut def. → -e)*  
-   *(Revised: "dieses NEUE Hemd" — `dieses` → weak → -e. NEUE fits.)*
-8. **SCHWARZE** *(diese schwarze Jacke — `diese` → Nom Fem → -e)*
-9. **NEUEN** *(ein neues Modell — Akk Neut indef. should be -es; but "ein NEUEN" doesn't work. If article is `ein` and noun is Neut → NEUES. Check bank: NEUEN is there. If sentence is "dieses … Modell" → `dieses` → -e → NEUE. Context: "diese (8) schwarze Jacke — ist das ein (9) ______ Modell?" → Nom Neut indef → -es → **NEUES** not in bank. Closest: NEUE for "das neue Modell" or NEUEN. The intended answer is **NEUE** (after `ein neues` the bank would need NEUES; after `das neue` → NEUE → yes!)* → **NEUE**
-10. **NEUE** — "unsere neue Kollektion" → Nom Fem poss. → -e → **NEUE** ✓
+| Gap | Answer | Grammar note |
+|---|---|---|
+| 1 | **NEUE** | `eine neue Jacke` — Akk Fem after `eine` (indefinite) → mixed -e |
+| 2 | **ELEGANTE** | `die elegante Jacke` — Akk Fem after `die` (definite) → weak -e |
+| 3 | **SCHWARZE** | `eine schwarze Hose` — Akk Fem after `eine` → mixed -e |
+| 4 | **BLAUE** | `blaue Hemden` — no article, Akk Pl → strong -e |
+| 5 | **BLAUEN** | `den blauen Schal` — Akk Mask after `den` → weak -en |
+| 6 | **GRAUEN** | `einen grauen Schal` — Akk Mask after `einen` → mixed -en |
+| 7 | **NEUEN** | `einen neuen Pullover` — Akk Mask after `einen` → mixed -en |
+| 8 | **ALTEN** | `dem alten Bestand` — Dat Mask after `dem` → weak -en |
+| 9 | **WEISSES** | `Ein weißes Hemd` — Nom Neut after `Ein` → mixed -es |
+| 10 | **GRÜNER** | `Frischer grüner Tee` — second adjective after another strong adj., Nom Mask → strong -er |
 
-*Simplified model answers: 1-BLAUE · 2-GRÜNEN · 3-GRÜNE · 4-ELEGANTE · 5-SCHWARZE · 6-WEISSES · 7-NEUE · 8-SCHWARZE · 9-NEUE · 10-NEUE*
-
-*Unused words: ALTEN, BLAUEN, ELEGANTEN, ROTEN, WARMEN*
+**Not needed:** BRAUNEN · BUNTEN · ELEGANTEN · HELLEN · KLEINEN · LANGEN · MODERNEN · ROTEN · SCHWARZEN · WARMEN
 
 ## C4 — Lesen
 

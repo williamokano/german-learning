@@ -138,6 +138,8 @@
 | warm | warm |
 | dünn | thin |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -179,6 +181,16 @@ Use the **weak** endings after: `der / die / das / die (pl.)` — and after `die
 > Mit **der neuen** Jacke siehst du toll aus. *(Dativ Femininum → -en)*
 > **Die alten** Schuhe sind kaputt. *(Nominativ Plural → -en)*
 
+> 📌 **Merkasten — Schwache Deklination (nach der/die/das, dieser, jeder)**
+> |  | mask. | fem. | neut. | Pl. |
+> |---|---|---|---|---|
+> | Nom | -**e** | -**e** | -**e** | -**en** |
+> | Akk | -**en** | -**e** | -**e** | -**en** |
+> | Dat | -**en** | -**en** | -**en** | -**en** |
+> | Gen | -**en** | -**en** | -**en** | -**en** |
+> 
+> ▶ Rule of thumb: almost always **-en**, except Nom sg. all genders + Akk Fem/Neut = **-e**.
+
 ---
 
 ### 4.3 The Mixed Declension — after the indefinite article, kein, and possessives
@@ -210,6 +222,16 @@ Use the **mixed** endings after: `ein / eine / ein`, `kein / keine / kein`, and 
 > Ich helfe meinem **alten** Vater. *(Dat Mask → -en)*
 > Sie kommt mit ihrer **neuen** Tasche. *(Dat Fem → -en)*
 > Ich sehe keine **schwarzen** Schuhe. *(Akk Pl → -en)*
+
+> 📌 **Merkasten — Gemischte Deklination (nach ein/eine, kein, mein …)**
+> |  | mask. | fem. | neut. | Pl. |
+> |---|---|---|---|---|
+> | Nom | -**er** | -**e** | -**es** | -**en** |
+> | Akk | -**en** | -**e** | -**es** | -**en** |
+> | Dat | -**en** | -**en** | -**en** | -**en** |
+> | Gen | -**en** | -**en** | -**en** | -**en** |
+> 
+> ▶ Only Nom Masc (-**er**) and Nom/Akk Neut (-**es**) differ from weak. All else = -**en** or -**e** (Fem).
 
 ---
 
