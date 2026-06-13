@@ -30,6 +30,13 @@
 
 Not needed: **Vollzeit · Lehrerin** (distractors)
 
+## H4 — Kurze Ansage: Nachricht vom Computerkurs
+
+1. **b) Von Maria** — „Hallo Anna, hier ist Maria."
+2. **a) Um einen Computerkurs** — „Ich rufe an wegen dem Computerkurs am Montag."
+3. **b) Um neunzehn Uhr** — „Der Kurs fängt leider erst um neunzehn Uhr an, nicht um achtzehn Uhr."
+4. **a) Einen Laptop** — „Du musst deinen Laptop mitbringen."
+
 ---
 
 # Block A

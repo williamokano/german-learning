@@ -45,6 +45,44 @@ Listen to the Hörtext and fill the gaps from the word bank. **Two words are not
 
 > (Verkäuferin · Geschäft · sechs · achtzehn · einkaufen · Teilzeit · Vollzeit · Lehrerin)
 
+## Übung H4 — Kurze Ansage: Nachricht vom Computerkurs
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Wessen Nachricht ist das?  
+   a) Von Anna.  
+   b) Von Maria.  
+   c) Von Bruno.
+
+2. Worum geht es in der Nachricht?  
+   a) Um einen Computerkurs.  
+   b) Um einen Sprachkurs.  
+   c) Um einen Yogakurs.
+
+3. Wann fängt der Kurs an?  
+   a) Um achtzehn Uhr.  
+   b) Um neunzehn Uhr.  
+   c) Um zwanzig Uhr.
+
+4. Was soll Anna mitbringen?  
+   a) Einen Laptop.  
+   b) Ein Buch.  
+   c) Einen Ausweis.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Hallo Anna, hier ist Maria. Ich rufe an wegen dem Computerkurs am Montag. Der Kurs fängt leider erst um neunzehn Uhr an, nicht um achtzehn Uhr. Du musst deinen Laptop mitbringen. Du darfst auch eine Freundin mitbringen — der Kurs hat noch freie Plätze. Bitte ruf mich zurück, wenn du Fragen hast. Vielen Dank!
+
+</details>
+
 ---
 
 # Block A — Basistraining
