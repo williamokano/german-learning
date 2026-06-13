@@ -48,6 +48,44 @@ Listen and fill in the 6 missing words. **Three words in the box are not needed.
 > der Kuchen kostet drei Euro neunzig. Das macht (4) ______ Euro (5) ______.
 > Anna isst und trinkt gern im Café — der Kuchen (6) ______ super!
 
+## Übung H4 — Kurze Ansage: Angebote im Supermarkt
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Was gibt es heute im Angebot?  
+   a) Frische Brötchen.  
+   b) Frisches Brot.  
+   c) Frische Kuchen.
+
+2. Wie viel kosten sechs Brötchen?  
+   a) Einen Euro.  
+   b) Zwei Euro.  
+   c) Drei Euro.
+
+3. Was ist auch zwanzig Prozent billiger?  
+   a) Der Käse.  
+   b) Das Obst.  
+   c) Das Gemüse.
+
+4. Bis wann hat der Supermarkt heute geöffnet?  
+   a) Bis achtzehn Uhr.  
+   b) Bis neunzehn Uhr.  
+   c) Bis zwanzig Uhr.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage. Liebe Kundinnen und Kunden, heute gibt es frische Brötchen im Angebot — sechs Stück für nur zwei Euro. Auch der Käse ist heute zwanzig Prozent billiger. Obst und Gemüse sind auch heute besonders frisch. Unsere Öffnungszeiten heute: bis zwanzig Uhr. Kommen Sie bald und finden Sie unsere Angebote. Vielen Dank für Ihren Besuch.
+
+</details>
+
 ---
 
 # Block A — Basistraining

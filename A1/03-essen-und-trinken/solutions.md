@@ -30,6 +30,13 @@ Gap answers in order: **Hunger · Kaffee · Apfelkuchen · sechs · vierzig · s
 
 Not needed: Durst · sieben · isst
 
+## H4 — Kurze Ansage: Angebote im Supermarkt
+
+1. **a) Frische Brötchen** — „heute gibt es frische Brötchen im Angebot."
+2. **b) Zwei Euro** — „sechs Stück für nur zwei Euro."
+3. **a) Der Käse** — „Auch der Käse ist heute zwanzig Prozent billiger."
+4. **c) Bis zwanzig Uhr** — „Unsere Öffnungszeiten heute: bis zwanzig Uhr."
+
 ---
 
 # Block A
