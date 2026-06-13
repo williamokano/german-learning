@@ -135,6 +135,8 @@ fit (fit) · süß (sweet/cute) · toll (great)
 
 > **Hör zu 3 — Possessivpronomen & Adjektive:** mein · dein · sein · ihr · unser · euer · ledig · verheiratet
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -154,6 +156,21 @@ fit (fit) · süß (sweet/cute) · toll (great)
 
 ⚠️ German uses `sein` for age, not `haben` (unlike Portuguese/Spanish/French):
 **Ich bin 30 Jahre alt** — never ~~ich habe 30 Jahre~~.
+
+> 📌 **Merkasten — haben**
+>
+> | Pronomen | haben |
+> |---|---|
+> | ich | **habe** |
+> | du | **hast** |
+> | er · sie · es | **hat** |
+> | wir | **haben** |
+> | ihr | **habt** |
+> | sie · Sie | **haben** |
+>
+> Irregular: the stems shift (hab- / has- / hat-). Memorize du **hast** and er **hat** — they are the tricky ones.
+>
+> ▶ `haben` is one of the most-used verbs in German. Drill the full table until it's automatic.
 
 ### 4.2 Possessive articles (Nominativ)
 
@@ -176,6 +193,22 @@ Two rules:
 
 ⚠️ `euer` drops the inner -e- when it gets an ending: euer Vater, but **eure** Mutter.
 
+> 📌 **Merkasten — Possessive articles (Nominativ)**
+>
+> | owner | Mask. | Fem. | Neut. | Pl. |
+> |---|---|---|---|---|
+> | ich | mein | meine | mein | meine |
+> | du | dein | deine | dein | deine |
+> | er/es | sein | seine | sein | seine |
+> | sie (her) | ihr | ihre | ihr | ihre |
+> | wir | unser | unsere | unser | unsere |
+> | ihr | euer | eure | euer | eure |
+> | sie/Sie | ihr/Ihr | ihre/Ihre | ihr/Ihr | ihre/Ihre |
+>
+> Key: the endings mirror **ein/eine/ein** — add `-e` before feminine and plural nouns, no ending before masculine and neuter.
+>
+> ▶ The stem tells you **whose**; the ending tells you which gender/number noun follows.
+
 ### 4.3 Plural of nouns — the five patterns
 
 | Pattern | Examples |
@@ -189,6 +222,20 @@ Two rules:
 There is no reliable rule for which noun takes which — **always learn the plural
 with the noun** (that's why the vocabulary table shows them). In the plural, the
 article is always **die**.
+
+> 📌 **Merkasten — Plural of nouns**
+>
+> | Pattern | Example |
+> |---|---|
+> | **-(e)** (umlaut, no ending) | der Bruder → die Brüder |
+> | **-e** (often + umlaut) | der Sohn → die Söhne |
+> | **-er** (often + umlaut) | das Kind → die Kinder |
+> | **-(e)n** | die Schwester → die Schwestern |
+> | **-s** | das Baby → die Babys |
+>
+> Rule: no ending is predictable from the base form alone — always learn the plural together with the noun.
+>
+> ▶ Plural article is always **die**, regardless of the singular gender.
 
 ### 4.4 Yes/no questions — now for real
 
@@ -204,6 +251,16 @@ after it.** Compare:
 Answers: **Ja, …** / **Nein, …**
 > Bist du verheiratet? — **Nein**, ich bin ledig.
 
+> 📌 **Merkasten — Yes/no questions**
+>
+> Rule: verb moves to **position 1**, subject moves to **position 2**.
+>
+> | Statement (verb 2nd) | Yes/no question (verb 1st) |
+> |---|---|
+> | Du **hast** Geschwister. | **Hast** du Geschwister? |
+>
+> ▶ Invert verb and subject — no extra question word needed.
+
 ### 4.5 Negation with `nicht`
 
 `nicht` negates a verb, an adjective, or a whole sentence. For now, two safe positions:
@@ -214,6 +271,16 @@ Answers: **Ja, …** / **Nein, …**
   > Mein Bruder wohnt **nicht** in Hamburg. · Ich komme **nicht** aus Spanien.
 
 (To negate a noun with ein — "no/not a" — German uses `kein`: that's Lektion 3.)
+
+> 📌 **Merkasten — Negation with nicht**
+>
+> | Rule | Example |
+> |---|---|
+> | `nicht` before adjective or adverb | Ich bin **nicht** verheiratet. |
+> | `nicht` at end of clause (general negation) | Mein Bruder wohnt **nicht** in Hamburg. |
+> | `kein-` to negate a noun (replaces ein/eine/ein) | Ich habe **keine** Geschwister. |
+>
+> ▶ Use `nicht` to negate verbs, adjectives, and adverbs; use `kein-` to negate nouns that take an indefinite article.
 
 ### 4.6 Pronunciation
 
