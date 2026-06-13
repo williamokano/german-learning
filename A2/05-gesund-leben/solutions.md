@@ -278,20 +278,18 @@ Not needed: *kalt*, *anziehen*, *erholt*
 
 ## C3 — Sprachbausteine Teil 2
 
-1. **mich** (sich fühlen, ich → mich)
-2. **mich** (sich ausgeruht haben → mich, Akk)
-3. **ärgere** (verb form)
-4. **mich** (sich ärgern, ich → mich)
-5. **mich** / **einfach** — best fit: **mich** (sich entspannen: *möchte ich mich einfach nur entspannen*)
-6. **dich** (sich ausruhen, du-imperative → dich)
-7. **aus** (separable: ausruhen → ruh … aus)
-8. **wünsche** (verb)
-9. **mir** (sich wünschen, Dat: ich → mir)
-10. **euch** (sich ausruhen, ihr → euch)
+1. **DICH** — `sich fühlen`, du-form Akk: *wie fühlst du **dich**?*
+2. **MICH** — `sich fühlen`, ich-form Akk: *Ich fühle **mich** erschöpft.*
+3. **MIR** — `sich wünschen`, ich-form Dat: *Ich wünsche **mir** mehr Freizeit.*
+4. **RUHT** — conjugated 3rd sg. of `ausruhen`: *er **ruht** sich … aus*
+5. **SICH** — `sich ausruhen`, er-form: *er ruht **sich** … aus*
+6. **AUS** — separable particle of `ausruhen`: *er ruht sich … **aus***
+7. **UNS** — `sich Zeit nehmen`, wir-form Dat: *Wir müssen **uns** mehr Zeit nehmen.*
+8. **EUCH** — `sich hinlegen`, ihr-form Akk: *Könnt ihr **euch** heute früher hinlegen?*
+9. **ENTSPANNEN** — infinitive complement: *du solltest dich **entspannen***
+10. **ANZIEHEN** — infinitive complement: *ich werde mich … **anziehen** und joggen gehen*
 
-**Correct sequence: 1-MICH, 2-MICH, 3-ÄRGERN, 4-MICH, 5-MICH, 6-DICH, 7-AUS, 8-WÜNSCHE, 9-MIR, 10-EUCH**
-
-⚠️ Note: the word `ÄRGERN` needs to be conjugated as `ärgere` in the sentence. Gap 3 fills *ich ______ mich manchmal auch* → the word from the box is ÄRGERN, written as the correct form `ärgere`.
+*Not used: ÄRGERN · BESSER · DIR · FÜHLEN · FREUEN · GESUND · MORGEN · MÜDE · SPORT · WÜNSCHEN*
 
 ## C4 — Lesen
 

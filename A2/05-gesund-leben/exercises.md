@@ -368,21 +368,20 @@ ich mich schon viel besser!"
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
+Fill the 10 gaps using words from the box. **Ten words are not needed.**
 Each word may be used once.
 
-> ÄRGERN · ANZIEHEN · AUS · DICH · DIR · EUCH · ENTSPANNEN · FÜHLEN ·
-> FREUEN · MIR · MICH · RUHT · SICH · UNS · WÜNSCHEN
+> ÄRGERN · ANZIEHEN · AUS · BESSER · DICH · DIR · EUCH · ENTSPANNEN ·
+> FÜHLEN · FREUEN · GESUND · MIR · MICH · MORGEN · MÜDE · RUHT · SICH · SPORT · UNS · WÜNSCHEN
 
-— Wie geht es dir? Du siehst müde aus.
-— Ich fühle (1) ______ wirklich erschöpft. Ich habe (2) ______ die ganze Woche
-  nicht richtig ausgeruht.
-— Das kenne ich! Ich (3) ______ (4) ______ manchmal auch über den Stress.
-  Was machst du heute Abend?
-— Ich möchte (5) ______ einfach nur entspannen.
-— Gut! Ruh (6) ______ gut (7) ______! Ich (8) ______ (9) ______ einen ruhigen
-  Abend für dich.
-— Danke! Und ihr? Könnt ihr (10) ______ auch ausruhen?
+— Anna, wie fühlst du (1) ______ heute?
+— Ich fühle (2) ______ erschöpft. Ich habe diese Woche so viel gearbeitet!
+— Das kenne ich. Ich wünsche (3) ______ einfach mehr Freizeit.
+— Übrigens — Yuki erzählt mir, dass er (4) ______ (5) ______ am Wochenende immer (6) ______.
+— Stimmt! Wir müssen (7) ______ auch mehr Zeit nehmen.
+— Frau Weber hat auch gesagt: „Könnt ihr (8) ______ heute früher hinlegen?"
+— Ja! Anna, du bist zu gestresst — du solltest dich (9) ______. Ich kenne ein gutes Yoga-Studio!
+— Gute Idee! Morgen werde ich mich früh (10) ______ und joggen gehen!
 
 ## Übung C4 — Lesen
 
@@ -424,13 +423,19 @@ Choose a, b, or c:
 
 ## Übung C5 — Schreiben
 
-Write a short text (8–10 sentences) about your daily health routine.
-Use:
+**Situation:** Your language-exchange partner Lena has asked you in a forum post: *„Wie lebst du gesund? Hast du Routinen, die dir wirklich helfen?"* Write a reply (60–80 words) describing your real or imagined daily health routine and giving her a tip.
+
+Include:
 - At least **4 different reflexive verbs** (mix of Akkusativ and Dativ)
 - At least **one subordinate clause** (`weil`, `dass`, or `wenn`) containing a reflexive verb
 - At least **one `sich wünschen`** or **`sich vorstellen`** (Dativ reflexive)
 
 A model answer is in `solutions.md` — write yours **first**.
+
+**Self-check before moving on:**
+- [ ] Did you use `mich` (Akk) when there is no separate direct object, and `mir` (Dat) when there is a direct object (e.g. `mir die Zähne putzen`)?
+- [ ] After `weil`/`dass`/`wenn`, does the reflexive verb appear at the very end of the clause?
+- [ ] Did you address Lena directly (e.g. "Hallo Lena, …")?
 
 ---
 

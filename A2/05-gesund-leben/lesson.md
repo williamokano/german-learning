@@ -173,6 +173,8 @@
 | sich etwas kaufen | to buy something (for oneself) | Ich kaufe mir ein Fahrrad. |
 | sich etwas merken | to remember something | Merk dir das! |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -203,6 +205,18 @@ Most reflexive verbs use the **Akkusativ** form of the reflexive pronoun. Compar
 
 ⚠️ Only `ich` and `du` have unique forms (`mich`, `dich`). All third-person forms — including formal `Sie` — use **`sich`**.
 
+> 📌 **Merkasten — Reflexivpronomen Akkusativ**
+> | Person | Pronoun |
+> |---|---|
+> | ich | **mich** |
+> | du | **dich** |
+> | er/sie/es | **sich** |
+> | wir | **uns** |
+> | ihr | **euch** |
+> | Sie/sie | **sich** |
+> 
+> `Ich fühle **mich** müde.` · `Er ruht **sich** aus.`
+
 ---
 
 ### 4.3 Reflexive pronouns — Dativ
@@ -223,6 +237,19 @@ Some reflexive verbs use the **Dativ** form. This happens when the verb already 
 
 ⚠️ The Dativ forms differ from Akkusativ only in the first and second person singular: **mir** (not *mich*) and **dir** (not *dich*). All other forms are identical (`uns`, `euch`, `sich`).
 
+> 📌 **Merkasten — Reflexivpronomen Dativ**
+> | Person | Pronoun |
+> |---|---|
+> | ich | **mir** |
+> | du | **dir** |
+> | er/sie/es | **sich** |
+> | wir | **uns** |
+> | ihr | **euch** |
+> | Sie/sie | **sich** |
+> 
+> `Ich wünsche **mir** mehr Freizeit.` · `Ich putze **mir** die Zähne.`  
+> ▶ Use Dativ when there is a direct object: `sich [Dat] etwas [Akk] wünschen`.
+
 ---
 
 ### 4.4 How to tell Akkusativ from Dativ `sich`
@@ -237,6 +264,14 @@ Ask yourself: **Is there a direct object (Akkusativ) in the sentence?**
 | Ich putze **mir** die Zähne. | `die Zähne` = Akk object | **Dativ** |
 
 > **Rule:** If the sentence has a separate direct object (thing being acted on), the reflexive pronoun is in the **Dativ**. If the whole body/person is the direct object, it is **Akkusativ**.
+
+> 📌 **Merkasten — Akk oder Dat?**
+> | Rule | Example |
+> |---|---|
+> | No object → Akk | `Ich wasche **mich**.` |
+> | With object → Dat | `Ich wasche **mir** die Hände.` |
+> 
+> ▶ If you can ask "what?" after the verb → there IS a direct object → use Dativ reflexive.
 
 ---
 
