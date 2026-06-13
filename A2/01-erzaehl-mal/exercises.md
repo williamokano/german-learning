@@ -364,17 +364,27 @@ Answer each question with a complete sentence, using the given connector.
 3. Was habt ihr danach gemacht? (essen) → [Danach] ______________________
 4. Wie war das Ende? (sehr müde sein) → [Am Ende] ______________________
 
-## Übung B9 — Erzähl eine Geschichte
+## Übung B9 — Was hast du am Wochenende gemacht?
 
-Look at the cues and write 5 connected sentences in the Perfekt, using a time connector in each sentence.
+**WhatsApp-Nachricht von Anna** *(Du hast diese Nachricht gerade bekommen)*:
+> Hey! Lange nichts gehört. Wie war dein Wochenende? Ich war mit Carlos
+> auf dem Flohmarkt am Mauerpark und wir haben super günstig eine alte
+> Lampe gefunden. Sonntag war ich dann krank und habe den ganzen Tag
+> im Bett verbracht. Und du? Erzähl mal! Liebe Grüße, Anna
 
-**Cues:** Yuki — gestern — Zug nehmen / nach München fahren / das Deutsches Museum besuchen / ein Souvenir kaufen / nach Osaka anrufen
+**Your task:** Antworte Anna in **4–5 Sätzen** auf WhatsApp. Erzähle ihr,
+was du am Wochenende gemacht hast — benutze dabei Zeit-Konnektoren und
+das Perfekt.
 
-______________________
-______________________
-______________________
-______________________
-______________________
+Use:
+- [ ] at least **2** sentences in **Perfekt** (`habe … gemacht` / `bin … gegangen`)
+- [ ] at least **2** different time connectors (*zuerst, dann, danach, am Ende, schließlich*)
+- [ ] at least **1** sentence with a modal verb in Präteritum (*konnte, wollte, musste, durfte, sollte*)
+
+**Self-check before moving on:**
+- [ ] Did I use `bin` (movement/change) vs. `habe` (other verbs) correctly?
+- [ ] Did I put the participle at the **end** of each Perfekt sentence?
+- [ ] Did I use a comma after the time connector at the start of the sentence?
 
 ---
 

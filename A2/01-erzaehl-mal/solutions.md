@@ -259,15 +259,17 @@ fahren · gehen · ankommen · umziehen · aufstehen · passieren · ausgehen ·
 3. Danach haben wir gegessen.
 4. Am Ende war ich sehr müde.
 
-## B9 — Erzähl eine Geschichte (model answer)
+## B9 — Was hast du am Wochenende gemacht? (model answer)
 
-Zuerst hat Yuki gestern den Zug nach München genommen.
-Dann ist sie nach München gefahren.
-Danach hat sie das Deutsche Museum besucht.
-Schließlich hat sie ein Souvenir gekauft.
-Am Ende hat sie ihre Familie in Osaka angerufen.
+> Hallo Anna! Danke der Nachfrage. Zuerst habe ich am Samstag lange
+> geschlafen. Dann bin ich mit meinem Bruder ins Kino gegangen —
+> wir wollten schon lange den neuen Film sehen. Am Abend haben wir
+> dann zusammen Pizza gegessen. Am Sonntag musste ich leider lernen
+> für meine Deutschprüfung. Danach habe ich noch meine Oma angerufen.
+> Es war ein schönes Wochenende! Liebe Grüße, [Name]
 
-*(Any grammatically correct Perfekt sentences with the given verbs and connectors are acceptable.)*
+*(A correct reply: ≥2 Perfekt sentences, ≥2 time connectors, ≥1 modal in
+Präteritum. Any equivalent is accepted.)*
 
 ---
 
