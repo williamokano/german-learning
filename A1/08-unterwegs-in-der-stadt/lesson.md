@@ -131,6 +131,8 @@ separable, like L5! · ab|fahren ⚠️ (depart, a→ä) · an|kommen (arrive) �
 **nehmen** ⚠️ (take, L3) · **fahren** ⚠️ (go by vehicle, L6) · **gehen** (go
 on foot) · **suchen** (to look for)
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 5. Grammatik
@@ -163,6 +165,17 @@ mit mein**em** Bruder · bei mein**en** Eltern.
 pronouns — you have been using the dative for weeks! The full pronoun set
 (mir, dir, ihm, ihr…) comes in Lektion 9.
 
+> 📌 **Merkasten — The dative case**
+>
+> | | Mask | Fem | Neut | Pl |
+> |---|---|---|---|---|
+> | Nominativ | der / ein | die / eine | das / ein | die / — |
+> | Dativ | **dem / einem** | **der / einer** | **dem / einem** | **den + -n** |
+>
+> Rule: Dativ = the "to/for whom" case. The plural article is **den** and the noun gains **-n** (unless it already ends in -n or -s).
+>
+> ▶ Spot check: mit ___ Bus (m) → mit **dem** Bus; mit ___ U-Bahn (f) → mit **der** U-Bahn; mit ___ Auto (n) → mit **dem** Auto.
+
 ### 5.2 The seven prepositions — meaning and use
 
 | preposition | meaning | examples |
@@ -180,6 +193,16 @@ pronouns — you have been using the dative for weeks! The full pronoun set
 - City or country → **nach**: Ich fahre **nach** Berlin (not *zu Berlin*).
   Place with an article → **zu**: Ich gehe **zur** Post.
 
+> 📌 **Merkasten — The seven dative prepositions**
+>
+> `aus · bei · mit · nach · seit · von · zu`
+>
+> ALL take Dativ always — no choice, no exceptions.
+>
+> Memory hook: **"aus-bei-mit-nach-seit-von-zu"** — say it as a rhythm until it is automatic.
+>
+> ▶ If you see one of these seven prepositions, reach for **dem / der / dem / den** immediately.
+
 ### 5.3 Contractions: zum, zur, beim, vom
 
 Germans squeeze preposition + article together. Learn these four — you will
@@ -194,6 +217,19 @@ hear them constantly:
 
 > Wie komme ich **zum** Bahnhof? · Wie komme ich **zur** Kirche?
 
+> 📌 **Merkasten — Contractions**
+>
+> | Long form | Contraction | Example |
+> |---|---|---|
+> | zu dem | **zum** | zum Bahnhof, zum Museum |
+> | zu der | **zur** | zur Post, zur Apotheke |
+> | bei dem | **beim** | beim Bäcker, beim Supermarkt |
+> | von dem | **vom** | vom Bahnhof, vom Krankenhaus |
+>
+> Rule: always contract — never say `zu dem` in normal speech. These four are the most common; learn them as fixed chunks.
+>
+> ▶ Hear `zu dem`? Say **zum**. Hear `zu der`? Say **zur**. No exceptions in everyday speech.
+
 ### 5.4 `nach Hause` vs `zu Hause` — the classic pair ⚠️⚠️
 
 | | | |
@@ -204,6 +240,17 @@ hear them constantly:
 Rule of thumb: *moving? → nach Hause. Staying? → zu Hause.* English "home/at
 home" and Portuguese "para casa / em casa" map exactly — but learners still
 mix them up for years. Drill it now.
+
+> 📌 **Merkasten — `nach Hause` vs `zu Hause`**
+>
+> | Phrase | Question | Meaning | Example |
+> |---|---|---|---|
+> | **nach Hause** | Wohin? (direction) | going home | Ich fahre **nach Hause**. |
+> | **zu Hause** | Wo? (location) | being at home | Ich bin **zu Hause**. |
+>
+> These are fixed chunks — no article is used with either.
+>
+> ▶ Moving = **nach Hause**. Staying = **zu Hause**. Tattoo this pair.
 
 ### 5.5 `fahren` vs `gehen` — German has two "go"s ⚠️
 
@@ -224,6 +271,14 @@ Recap from Lektion 6 — `fahren` is an a→ä verb:
 For "how do I get there?" German uses **kommen**: Wie **komme** ich zum
 Bahnhof? (literally: how do I *come* to the station?)
 
+> 📌 **Merkasten — `fahren` vs `gehen`**
+> | Verb | Use | du-form | er-form |
+> |---|---|---|---|
+> | `gehen` | on foot | gehst | geht |
+> | `fahren` | by vehicle | **fährst** | **fährt** |
+> 
+> ▶ Always say `fahren` with Rad, Auto, Bus, Zug, Straßenbahn — `gehen` is feet only.
+
 ### 5.6 The imperative (Sie-form) — giving directions
 
 To tell someone (formally) what to do, put the **verb first**, then `Sie`:
@@ -240,6 +295,15 @@ To tell someone (formally) what to do, put the **verb first**, then `Sie`:
 - It looks exactly like a yes/no question — only the intonation (and the `!`)
   differs: *Fahren Sie mit dem Bus?* ↗ vs *Fahren Sie mit dem Bus!* ↘
 - The informal imperatives (du/ihr: Geh! Geht!) come in Lektion 10.
+
+> 📌 **Merkasten — Imperativ (Sie-form)**
+> | Type | Rule | Example |
+> |---|---|---|
+> | regular | infinitive + `Sie` | `Gehen Sie geradeaus!` |
+> | separable | prefix splits to end | `Biegen Sie links **ab**!` |
+> | modal phrase | `Könnten Sie bitte …?` | `Könnten Sie mir helfen?` |
+> 
+> ▶ The Sie-form imperative = infinitive moved to position 1. Subject `Sie` follows.
 
 ### 5.7 Pronunciation
 
