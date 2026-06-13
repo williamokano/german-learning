@@ -147,4 +147,4 @@ C1 in ~4 → roughly 20 months total at a steady hobby pace. Faster is fine.
 
 ## Progress
 
-Track progress in `tasks/todo.md`. Current status: **A1 + A2/01–A2/13 complete (27 lessons)** — next up: A2/14 Prüfungstraining A2 (solo mock exam). See `MEMORY.md` for the resume instructions.
+Track progress in `tasks/todo.md`. Current status: **A1 (14/14) + A2 (14/14) complete — 28 lessons total, A2 level done!** Next up: B1/01. See `MEMORY.md` for the resume instructions.

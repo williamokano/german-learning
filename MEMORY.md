@@ -85,82 +85,41 @@ This makes every save a checkpoint for the next agent.
 
 ## Current state (live — as of 2026-06-13)
 
-**Done & pushed (27 lessons):**
+**Done & pushed (28 lessons — A2 COMPLETE):**
 - A1/01 through A1/14 (14 lessons)
-- A2/01 through A2/13 (13 lessons)
+- A2/01 through A2/14 (14 lessons)
 
-**In flight — A2/13 Menschen beschreiben:**
-
-### Checklist — A2/13 Menschen beschreiben
-- [x] lesson.md written and saved (`A2/13-menschen-beschreiben/lesson.md`, 410 lines)
-- [x] exercises.md written and saved (30 exercises, ~191 items)
-- [x] solutions.md written and saved
-- [x] Audio generated (`python3 scripts/generate_audio.py A2/13-menschen-beschreiben/lesson.md`)
-- [x] todo.md checkbox ticked, README + CURRICULUM.md status updated
-- [x] Committed and pushed (commit 745d8d8)
-
-**Up next (after A2/13 commit + push):**
+### Checklist — A2/13 Menschen beschreiben (improvements, commit 36b111f)
+- [x] lesson.md: duplicate `der Bart` removed; vocab recall prompt added after §3; Merkasten added after §4.2 and §4.3.1
+- [x] exercises.md: B9 restructured with situation prompt + self-check; C3 expanded to 20 words (10 distractors)
+- [x] solutions.md: C3 "Not used" list updated (all 10 distractors named)
+- [x] Committed and pushed (commit 36b111f)
 
 ### Checklist — A2/14 Prüfungstraining A2
-- [ ] lesson.md written (full mock exam — Hören, Lesen, Schreiben, Sprechen)
-- [ ] exercises.md written (the mock exam IS the exercises — one combined file or two files)
-- [ ] solutions.md written (full answer key + scoring grid)
-- [ ] Audio generated for mock Hören section
+- [x] lesson.md written (A2 grammar reference: reflexives, Konjunktiv II, adjective declension, Komparativ, Nebensätze, Wechselpräpositionen, Dativ+Akk verbs, vocab snapshot, exam strategy)
+- [x] exercises.md written (full mock: Hören 3 Aufgaben / Lesen 4 Aufgaben / Schreiben 2 Aufgaben / Sprechen 3 Teile)
+- [x] solutions.md written (full answer key + scoring grid: 45 pts written, pass ≥ 27)
+- [x] Audio generated: 11 clips — `aufgabe1_gespraech1–5.mp3`, `aufgabe2.mp3`, `aufgabe3_ansage1–5.mp3`
+- [x] todo.md checkbox ticked, README + CURRICULUM.md status updated
+- [x] Committed and pushed
+
+**Up next — B1/01 Früher und heute:**
+
+### Checklist — B1/01 Früher und heute
+- [ ] lesson.md written
+- [ ] exercises.md written
+- [ ] solutions.md written
+- [ ] Audio generated
 - [ ] Committed and pushed
-- [ ] todo.md checkbox ticked, README + CURRICULUM.md status updated
+- [ ] todo.md + README + CURRICULUM.md updated
 
-**Notes for A2/14:**
-- Solo mock exam (do NOT parallel-batch this one).
-- Replaces the four-block A/B/C/D structure with a full-length Goethe-Zertifikat A2 / telc Deutsch A2 mock.
-- Skills: Hören (30 min), Lesen (30 min), Schreiben (30 min), Sprechen (partner task).
-- Reference template: `A1/14-pruefungstraining-a1` (read it first — has scoring grid, four skills, answer key).
-- After A2/14 is shipped, A2 is complete → start B1.
-
----
-
-## Detailed handoff for A2/13
-
-**Lesson already on disk:** `A2/13-menschen-beschreiben/lesson.md` (410
-lines, 7 sections complete). Read it before writing the exercises.
-
-**What the lesson covers:**
-- Topic: describing people (appearance, character, family/relationships)
-- Grammar: relative clauses with Nominativ and Akkusativ relative
-  pronouns (`der/die/das/die` Nom; `den/die/das/die` Akk — only masc
-  changes between cases). Verb at the end of the relative clause,
-  comma before the relative clause.
-- Dialog A: Anna tells Bruno about her new colleague Marko (Nom + Akk
-  relatives on a single person)
-- Dialog B: Frau Weber and Herr Steinmeyer discuss the new neighbour
-  Klaus (Nom + Akk relatives, family member description)
-- Lesetext: Mein Kollege Marko (reused in Block C, Lesen)
-- Hörtext: Meine Freundin Lena (reused in Block H3 — different person
-  from Lesetext, ✓ scene-different requirement)
-- Audio slugs: `dialog1_a`, `dialog1_b`, `hoertext`
-
-**What still needs to be written:**
-1. `A2/13-menschen-beschreiben/exercises.md` — Block H (H1a, H1b, H3)
-   + Block A (10-12 ex drilling relative pronouns in Nom/Akk) + Block
-   B (8-10 ex with mixed application + Finde den Fehler) + Block C
-   (Lückentext, Sprachbausteine 1+2, Lesen, Schreiben) + Block D
-   (Schnelltest, Odd-one-out, Rückblick, Selbsttest).
-2. `A2/13-menschen-beschreiben/solutions.md` — mirror numbering, accept
-   alternates ("also fine: …"), ⚠️ notes on traps (e.g., confusing
-   `der/den` based on the noun's role in the relative clause, not its
-   role in the main clause).
-3. Generate audio: `python3 scripts/generate_audio.py
-   A2/13-menschen-beschreiben/lesson.md`.
-4. Commit and push.
-
-**Block D review sources to recycle from** (for ≥20% review content):
-- A1/L2 (family vocabulary, possessive articles)
-- A1/L3 (Akkusativ case, der → den change)
-- A1/L9 (dative pronouns, gefallen)
-- A2/L8 (adjective declension — appears inside relative clauses here)
-- A2/L9 (Konjunktiv II polite)
-- A2/L10 (Wechselpräpositionen — Kleidung/Aussehen sometimes uses these)
-- A2/L11 (two-object verbs — useful for "den Mann, den ich kenne")
-- A2/L12 (als vs. wenn — useful in the Lesetext or Hörtext)
+**Notes for B1:**
+- B1 instruction language: English/German **mixed** (per CURRICULUM.md note: "English at A1–A2, English/German mixed at B1")
+- Scope: Präteritum (regular + key irregular), Plusquamperfekt
+- Grammar from B1/L01: Präteritum of regular verbs (ending: -te/-test/-te/-ten/-tet/-ten), irregular strong verbs (war, hatte, ging, kam, fuhr, sah, las…), Plusquamperfekt (hatte/war + Partizip II)
+- First B1 lesson — set the tone for the level, use more complex sentences, wider vocabulary
+- Reference lesson structure: same 7-section lesson.md format + HBCD exercise architecture
+- TTS speed for B1: check `scripts/audio_config.json:level_speeds` — if not set, default is probably 1.0×
 
 ---
 

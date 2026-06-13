@@ -58,7 +58,7 @@ Reference lessons (gold standard): `A1/01-erste-kontakte/`, `A1/03-essen-und-tri
 - [x] `A2/11-geben-und-schenken` — Geben und schenken
 - [x] `A2/12-plaene-und-zukunft` — Pläne und Zukunft
 - [x] `A2/13-menschen-beschreiben` — Menschen beschreiben
-- [ ] `A2/14-pruefungstraining-a2` — Wiederholung & Prüfungstraining A2 ⚠️ mock exam, do solo & last
+- [x] `A2/14-pruefungstraining-a2` — Wiederholung & Prüfungstraining A2 ⚠️ mock exam, do solo & last
 
 ## B1 (14 topics)
 
