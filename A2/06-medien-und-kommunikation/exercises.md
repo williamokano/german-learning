@@ -60,6 +60,44 @@ Listen and fill in the 6 missing words. **Three words in the box are not needed.
 > (5) ______ auf eine schnelle Antwort. Während sie wartet, (6) ______ sie an
 > ihre Freundin in Osaka und erzählt ihr von ihrem Alltag in Deutschland.
 
+## Übung H4 — Kurze Ansage: Neue Audio-App im Stadtmuseum
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Listen to the announcement. Then choose the correct answer (a, b, or c).
+Listen **once** before reading the transcript below.
+
+1. Was bietet das Stadtmuseum ab heute an?  
+   a) Eine neue Audio-App.  
+   b) Eine Sonderausstellung.  
+   c) Eine Rabattaktion.
+
+2. Wo kann man die App herunterladen?  
+   a) Im Museumsshop.  
+   b) Im Eingangsbereich.  
+   c) Im ersten Stock.
+
+3. In wie vielen Sprachen funktioniert die App?  
+   a) In zwei Sprachen.  
+   b) In drei Sprachen.  
+   c) In vier Sprachen.
+
+4. Was soll man mitbringen?  
+   a) Eine Kamera.  
+   b) Einen Reiseführer.  
+   c) Kopfhörer.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage. Liebe Besucherinnen und Besucher, das Stadtmuseum bietet ab heute eine neue Audio-App an. Sie können die App kostenlos in unserem Eingangsbereich herunterladen. Mit der App hören Sie spannende Geschichten zu über fünfzig Exponaten. Die App funktioniert in vier Sprachen: Deutsch, Englisch, Französisch und Spanisch. Bitte bringen Sie Ihre eigenen Kopfhörer mit. Wir wünschen Ihnen einen angenehmen Besuch.
+
+</details>
+
 ---
 
 # Block A — Basistraining

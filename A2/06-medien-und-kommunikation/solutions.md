@@ -32,6 +32,13 @@ Bold = key answer. Explanations given where learners typically err.
 
 *Not needed:* Antwort, freut, gefragt, Energie
 
+## H4 — Kurze Ansage: Neue Audio-App im Stadtmuseum
+
+1. **a) Eine neue Audio-App** — „das Stadtmuseum bietet ab heute eine neue Audio-App an."
+2. **b) Im Eingangsbereich** — „Sie können die App kostenlos in unserem Eingangsbereich herunterladen."
+3. **c) In vier Sprachen** — „Die App funktioniert in vier Sprachen: Deutsch, Englisch, Französisch und Spanisch."
+4. **c) Kopfhörer** — „Bitte bringen Sie Ihre eigenen Kopfhörer mit."
+
 ---
 
 # Block A — Basistraining
