@@ -181,6 +181,8 @@
 | schicken | to send | regular |
 | warten (auf + Akk) | to wait (for) | regular |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
 ## 4. Grammatik
@@ -215,6 +217,15 @@ Plural (all cases): Nominativ/Akkusativ **die/keine** · Dativ **den/keinen** (+
 > Ich sehe **den** Mann. (Akkusativ — sehen takes accusative)
 > **Der** Mann hilft mir. (Nominativ — subject)
 
+> 📌 **Merkasten — Die drei Fälle: Übersicht**
+> |  | Mask. | Fem. | Neut. | Pl. |
+> |---|---|---|---|---|
+> | **Nom** (subject) | der / ein | die / eine | das / ein | die / — |
+> | **Akk** (direct obj.) | **den / einen** | die / eine | das / ein | die / — |
+> | **Dat** (indirect obj.) | **dem / einem** | **der / einer** | **dem / einem** | **den / —** (+n) |
+> 
+> ▶ Only masculine changes in Akk (der→den). Dativ changes all genders.
+
 ### 4.2 Dative personal pronouns — recap
 
 | Nominativ | Dativ |
@@ -231,6 +242,19 @@ Plural (all cases): Nominativ/Akkusativ **die/keine** · Dativ **den/keinen** (+
 > Könnten Sie **mir** bitte helfen? · Ich schicke **Ihnen** das Formular.
 > Das passt **mir** nicht. · Kannst du **mir** die Adresse geben?
 
+> 📌 **Merkasten — Dativ-Pronomen (Wiederholung)**
+> | Nom | Dat |
+> |---|---|
+> | ich | **mir** |
+> | du | **dir** |
+> | er / es | **ihm** |
+> | sie (sg.) | **ihr** |
+> | wir | **uns** |
+> | ihr | **euch** |
+> | sie (pl.) / Sie | **ihnen / Ihnen** |
+> 
+> ▶ mir and dir rhyme — easiest pair to memorize first.
+
 ### 4.3 Polite request chunk: `Könnten Sie …?`
 
 ⚠️ **Chunk alert:** `könnten` is Konjunktiv II of `können`. The full explanation of
@@ -246,6 +270,14 @@ speaker would actually ask a favour in a formal setting.
 | Könnten Sie mir bitte helfen? | Könnten Sie mir bitte helfen? |
 
 `könnten` + person + bitte + infinitive at the end = instant polite request.
+
+> 📌 **Merkasten — Höfliche Bitten: `Könnten Sie …?`**
+> | Register | Pattern | Example |
+> |---|---|---|
+> | Polite (formal) | `Könnten Sie bitte + infinitive?` | Könnten Sie mir das Formular geben? |
+> | Direct (formal) | `Können Sie bitte + infinitive?` | Können Sie mir helfen? |
+> 
+> ▶ `Könnten` (Konjunktiv II) sounds softer than `Können` — always prefer it in offices and with strangers.
 
 ### 4.4 Official forms: what you will be asked to fill in
 
@@ -268,6 +300,19 @@ German dates: **day.month.year** — 15.03.1995 = the 15th of March 1995. Spoken
 fünfzehnten März neunzehnhundertfünfundneunzig*. (Ordinal numbers were covered in
 L12.)
 
+> 📌 **Merkasten — Wichtige Formular-Felder**
+> | German | English |
+> |---|---|
+> | Vorname | first name |
+> | Nachname / Familienname | surname |
+> | Geburtsdatum | date of birth |
+> | Geburtsort | place of birth |
+> | Staatsangehörigkeit | nationality |
+> | Adresse / Anschrift | address |
+> | Unterschrift | signature |
+> 
+> ▶ `Anschrift` = formal word for address (common on German official forms).
+
 ### 4.5 Separable verbs recap + new ones
 
 You know separable verbs from L5 (aufstehen, einkaufen). The new verbs in this
@@ -281,6 +326,16 @@ lesson all follow the same rule. The bracket rule: prefix goes to the end of the
 In the Perfekt (L11):
 > Ich habe das Bürgeramt **angerufen**. (ge- goes between prefix and stem)
 > Hast du das Formular schon **ausgefüllt**?
+
+> 📌 **Merkasten — Trennbare Verben: Wiederholung**
+> | Infinitiv | Präsens (er/sie) | Perfekt |
+> |---|---|---|
+> | anrufen | ruft … an | hat angerufen |
+> | ausfüllen | füllt … aus | hat ausgefüllt |
+> | mitbringen | bringt … mit | hat mitgebracht |
+> | vorzeigen | zeigt … vor | hat vorgezeigt |
+> 
+> ▶ In Perfekt: prefix + ge + stem (e.g. aus**ge**füllt). In Präsens: bracket — prefix goes to end.
 
 ### 4.6 Pronunciation: new sounds in this lesson
 
