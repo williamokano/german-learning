@@ -31,6 +31,13 @@
 Word bank in gap order: **Sonntag** (1) · **Stadtmitte** (2) · **Bus** (3) · **Bahnhof** (4) · **geradeaus** (5) · **Minuten** (6).
 Not needed: **Fahrrad** · **rechts**.
 
+## H4 — Kurze Ansage: Zugfahrt von Gleis 7 auf Gleis 9
+
+1. **c) Der ICE 502** — „der ICE 502 von Berlin nach München fährt heute nicht von Gleis 7, sondern von Gleis 9."
+2. **b) Von Gleis 9** — „sondern von Gleis 9."
+3. **a) Um vierzehn Uhr dreißig** — „Die Abfahrt ist um vierzehn Uhr dreißig."
+4. **a) Zehn Minuten** — „Der Zug hat eine Verspätung von zehn Minuten."
+
 ---
 
 # Block A

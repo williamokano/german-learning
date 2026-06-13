@@ -45,6 +45,44 @@ Listen and fill the gaps with the words from the box. **Two words are not needed
 > und steigt am (4)______ um. Von dort geht sie zu Fuß zum Park: (5)______
 > und dann die erste Straße links. Der Weg dauert zwanzig (6)______.
 
+## Übung H4 — Kurze Ansage: Zugfahrt von Gleis 7 auf Gleis 9
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c).
+Höre **einmal**, bevor du das Transkript liest.
+
+1. Welcher Zug hat eine Verspätung?  
+   a) Der ICE 205.  
+   b) Der RE 502.  
+   c) Der ICE 502.
+
+2. Von welchem Gleis fährt der Zug heute ab?  
+   a) Von Gleis 8.  
+   b) Von Gleis 9.  
+   c) Von Gleis 7.
+
+3. Wann fährt der Zug ab?  
+   a) Um vierzehn Uhr dreißig.  
+   b) Um dreizehn Uhr dreißig.  
+   c) Um fünfzehn Uhr dreißig.
+
+4. Wie viel Verspätung hat der Zug?  
+   a) Zehn Minuten.  
+   b) Fünf Minuten.  
+   c) Fünfzehn Minuten.
+
+<details>
+<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
+
+**Ansage 1 — Transcript**
+
+> Achtung, eine Durchsage. Liebe Fahrgäste, der ICE 502 von Berlin nach München fährt heute nicht von Gleis 7, sondern von Gleis 9. Die Abfahrt ist um vierzehn Uhr dreißig. Wir bitten Sie, zum neuen Gleis zu gehen. Der Zug hat eine Verspätung von zehn Minuten. Fahrgäste mit Reservierung finden ihre Plätze wie üblich. Vielen Dank für Ihr Verständnis.
+
+</details>
+
 ---
 
 # Block A — Basistraining
