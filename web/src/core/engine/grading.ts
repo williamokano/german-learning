@@ -1,5 +1,5 @@
 // GradingEngine — pure TypeScript, no UI/DOM imports
-// Full implementation in P2. See docs/web/SCORING.md §2.
+// See docs/web/SCORING.md §2.
 
 export interface GradingFlags {
   caseSensitive?: boolean;
@@ -7,11 +7,8 @@ export interface GradingFlags {
   keepPunctuation?: boolean;
 }
 
-export interface ItemResult {
-  correct: boolean;
-  expected: string | string[];
-  given: unknown;
-}
+// Re-export for convenience — canonical definition is in content/types.ts
+export type { ItemResult } from '@core/content/types';
 
 function foldUmlautAndEszett(s: string): string {
   return s

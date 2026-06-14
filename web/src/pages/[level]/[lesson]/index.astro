@@ -3,29 +3,57 @@ import { getCollection, render } from 'astro:content';
 import LessonLayout from '../../../layouts/LessonLayout.astro';
 
 export async function getStaticPaths() {
-  const all = await getCollection('lessons');
-  return all.map(entry => {
-    // entry.id: "A1/01-erste-kontakte/lesson.md" (or .mdx)
+  const [allLessons, allExercises] = await Promise.all([
+    getCollection('lessons'),
+    getCollection('exercises'),
+  ]);
+  const exerciseIds = new Set(allExercises.map(e => e.id.split('/').slice(0, 2).join('/')));
+
+  return allLessons.map(entry => {
     const parts = entry.id.split('/');
+    const lessonKey = `${parts[0]}/${parts[1]}`;
     return {
       params: { level: parts[0], lesson: parts[1] },
-      props:  { entry },
+      props:  { entry, hasExercises: exerciseIds.has(lessonKey) },
     };
   });
 }
 
-const { entry } = Astro.props;
+const { entry, hasExercises } = Astro.props;
 const { level, lesson } = Astro.params;
 
-// Derive human title from frontmatter or folder name.
 const title =
   entry.data.title ??
   lesson.replace(/^\d+-/, '').replace(/-/g, ' ')
         .replace(/\b\w/g, c => c.toUpperCase());
 
 const { Content } = await render(entry);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
 <LessonLayout {title} level={level}>
   <Content />
+  {hasExercises && (
+    <nav class="exercises-cta">
+      <a href={`${base}/${level}/${lesson}/uebungen/`} class="btn-uebungen">
+        Übungen →
+      </a>
+    </nav>
+  )}
 </LessonLayout>
+
+<style>
+  .exercises-cta { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid #e5e7eb; }
+  .btn-uebungen {
+    display: inline-block;
+    padding: 0.55rem 1.4rem;
+    background: #2563eb;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: background 0.12s;
+  }
+  .btn-uebungen:hover { background: #1d4ed8; }
+</style>

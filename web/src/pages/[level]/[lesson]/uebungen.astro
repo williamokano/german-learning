@@ -1,0 +1,48 @@
+---
+import { getCollection } from 'astro:content';
+import LessonLayout from '../../../layouts/LessonLayout.astro';
+import BlockRunner from '../../../components/BlockRunner.svelte';
+
+export async function getStaticPaths() {
+  const all = await getCollection('exercises');
+  return all.map(entry => {
+    const parts = entry.id.split('/');
+    return {
+      params: { level: parts[0], lesson: parts[1] },
+      props: { entry },
+    };
+  });
+}
+
+const { level, lesson } = Astro.params;
+const { entry } = Astro.props;
+const data = entry.data;
+
+// Build the audio directory path matching web/public/audio/<LEVEL>/<slug>/
+const audioDir = `audio/${level.toUpperCase()}/${lesson}/`;
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<LessonLayout title={data.title} level={level}>
+  <h1>{data.title}</h1>
+  {data.intro && <p class="intro">{data.intro}</p>}
+
+  <nav class="exercise-nav">
+    <a href={`${base}/${level}/${lesson}/`}>← Zur Lektion</a>
+  </nav>
+
+  <BlockRunner
+    exercises={data.exercises}
+    lessonId={data.lesson}
+    audioDir={audioDir}
+    client:load
+  />
+</LessonLayout>
+
+<style>
+  .intro { color: #374151; font-size: 0.925rem; border-left: 3px solid #e5e7eb; padding-left: 0.75rem; }
+  .exercise-nav { margin: 1rem 0 1.5rem; font-size: 0.875rem; }
+  .exercise-nav a { color: #2563eb; text-decoration: none; }
+  .exercise-nav a:hover { text-decoration: underline; }
+</style>

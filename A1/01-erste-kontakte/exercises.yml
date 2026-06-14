@@ -1,0 +1,169 @@
+lesson: A1/01
+title: "A1 · Lektion 1 — Übungen"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest.
+  Tipp: Verteile die Blocks auf mehrere Tage — H und A an Tag 1, B an Tag 2,
+  C an Tag 3, D an Tag 4 nach einer Pause.
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1
+    block: H
+    type: single-choice
+    title: "Aussprache-Check"
+    instructions: >
+      Höre die Hör-zu-Clips in lesson.md (Wortschatz → 🔊 Aussprache)
+      und wähle die passende Antwort.
+    items:
+      - q: "Hör zu 1 (Begrüßungen) — was sagst du am Morgen?"
+        options:
+          - { key: a, text: "Guten Abend" }
+          - { key: b, text: "Guten Morgen" }
+          - { key: c, text: "Gute Nacht" }
+        answer: b
+        why: "Guten Morgen sagt man bis ca. 10–11 Uhr."
+      - q: "Hör zu 2 (Verabschiedungen) — was sagst du am Abend vor dem Schlafen?"
+        options:
+          - { key: a, text: "Auf Wiedersehen" }
+          - { key: b, text: "Gute Nacht" }
+          - { key: c, text: "Bis morgen" }
+        answer: b
+        why: "Gute Nacht sagt man nur vor dem Schlafen."
+      - q: "Hör zu 4 (Zahlen 0–10) — welche Zahl kommt nach vier?"
+        options:
+          - { key: a, text: "fünf" }
+          - { key: b, text: "sechs" }
+          - { key: c, text: "sieben" }
+        answer: a
+        why: "vier → fünf → sechs."
+      - q: "Hör zu 5 (Zahlen 11–20) — welche Zahl ist zwölf?"
+        options:
+          - { key: a, text: "10" }
+          - { key: b, text: "12" }
+          - { key: c, text: "14" }
+        answer: b
+        why: "zwölf = 12 (unregelmäßige Schreibweise)."
+      - q: "Hör zu 3 (W-Fragewörter) — welches Fragewort fragt nach der Herkunft?"
+        options:
+          - { key: a, text: "Wo" }
+          - { key: b, text: "Wer" }
+          - { key: c, text: "Woher" }
+        answer: c
+        why: "woher (Herkunft → aus), wo (Ort → in)."
+
+  - id: H2
+    block: H
+    type: true-false
+    title: "Dialog: Im Deutschkurs"
+    instructions: "Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?"
+    audio: dialog1_a.mp3
+    items:
+      - q: "Anna kommt aus Deutschland."
+        answer: false
+        why: "Anna kommt aus Russland (Jaroslawl), nicht aus Deutschland."
+      - q: "Bruno wohnt in Berlin."
+        answer: true
+        why: 'Im Dialog sagt Bruno: "Ich wohne auch in Berlin."'
+      - q: "Bruno spricht nur Englisch."
+        answer: false
+        why: "Bruno spricht Portugiesisch, Englisch und ein bisschen Deutsch."
+      - q: "Frau Weber fragt nach Herrn Steinmeyers Beruf."
+        answer: false
+        why: 'Frau Weber fragt "Woher kommen Sie?" — nach der Herkunft, nicht nach dem Beruf.'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    instructions: "Höre den Text und fülle die Lücken mit Wörtern aus dem Kasten."
+    audio: hoertext.mp3
+    text: |
+      Hallo! Ich {1} Yuki Tanaka. Ich {2} aus Japan, aus Osaka. Ich
+      wohne jetzt in Berlin und {3} Deutsch. Ich {4} Japanisch,
+      Englisch und ein bisschen Deutsch. Mein Deutschkurs ist {5} — wir
+      sind {6} Studenten im Kurs.
+    bank: [heiße, komme, lerne, spreche, super, zwanzig]
+    answers:
+      "1": heiße
+      "2": komme
+      "3": lerne
+      "4": spreche
+      "5": super
+      "6": zwanzig
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    title: "Lückentext"
+    instructions: "Fülle jede Lücke mit genau einem Wort."
+    text: |
+      Hallo! Ich {1} Carlos und ich {2} aus Spanien, aus Madrid.
+      Jetzt {3} ich in Frankfurt. Ich {4} Spanisch, Englisch und ein
+      {5} Deutsch. Meine Freundin heißt Marie. {6} kommt aus Frankreich.
+      Wir {7} zusammen im Deutschkurs. Der Lehrer {8} Herr Braun.
+      Und {9}? Woher {10} du?
+    answers:
+      "1": heiße
+      "2": komme
+      "3": wohne
+      "4": spreche
+      "5": bisschen
+      "6": Sie
+      "7": sind
+      "8": [heißt, ist]
+      "9": du
+      "10": kommst
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 (multiple choice)"
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    items:
+      - q: "Guten Tag! (1) ____ Name ist Petra Lang."
+        options:
+          - { key: a, text: "Mein" }
+          - { key: b, text: "Ich" }
+          - { key: c, text: "Meine" }
+        answer: a
+        why: "Name ist maskulin → Mein (kein Endung im Nominativ)."
+      - q: "Ich komme (2) ____ Österreich"
+        options:
+          - { key: a, text: "in" }
+          - { key: b, text: "aus" }
+          - { key: c, text: "von" }
+        answer: b
+        why: "Herkunft = aus."
+      - q: "…und wohne (3) ____ Wien."
+        options:
+          - { key: a, text: "in" }
+          - { key: b, text: "aus" }
+          - { key: c, text: "nach" }
+        answer: a
+        why: "Wohnort = in."
+      - q: "Ich (4) ____ Deutsch und Englisch."
+        options:
+          - { key: a, text: "spreche" }
+          - { key: b, text: "sprichst" }
+          - { key: c, text: "sprechen" }
+        answer: a
+        why: "ich-Form: ich spreche."
+      - q: 'Im Büro sagen alle Frau Lang und (5) ______, aber meine Freunde sagen du.'
+        options:
+          - { key: a, text: "du" }
+          - { key: b, text: "Sie" }
+          - { key: c, text: "ihr" }
+        answer: b
+        why: "Formelle Anrede im Büro = Sie."
+      - q: "Mein Kollege Tom (6) ____ aus den USA."
+        options:
+          - { key: a, text: "kommen" }
+          - { key: b, text: "kommst" }
+          - { key: c, text: "kommt" }
+        answer: c
+        why: "er/sie/es-Form: kommt."
