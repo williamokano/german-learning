@@ -16,11 +16,13 @@ If it exits 0, commit+push. Then move to the next lesson. **Do not fan out in pa
 |--------|--------------|-----------|-----------|
 | A1/01 | partial (stub only, `partial: true`) | — | ✅ |
 | A1/02 | ✅ DONE | ✅ | ✅ |
-| A1/03 | ❌ NOT STARTED | — | — |
-| A1/04–A1/14 | ❌ | — | — |
+| A1/03 | ✅ DONE | ✅ | ✅ |
+| A1/14 | ✅ DONE (P3 hand-authored) | ✅ | ✅ |
+| A1/04–A1/13 | ❌ | — | — |
 | A2/01–A2/13 | ❌ | — | — |
+| A2/14 | ✅ DONE (P3 hand-authored) | ✅ | ✅ |
 
-**Next lesson:** A1/03-essen-und-trinken
+**Next lesson:** A1/04-wohnen
 
 ---
 
