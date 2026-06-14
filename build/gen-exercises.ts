@@ -67,10 +67,11 @@ function main() {
     process.exit(1);
   }
 
+  const explicit = !allMode; // named dirs are explicit; --all is not
   let failures = 0;
   for (const dir of dirs) {
     try {
-      const ok = processLesson(dir, checkMode);
+      const ok = processLesson(dir, checkMode, explicit);
       if (!ok) failures++;
     } catch (e) {
       console.error(`[gen-exercises] ERROR: ${dir}: ${(e as Error).message}`);
@@ -95,7 +96,7 @@ function findAllLessonDirs(): string[] {
   return dirs.sort();
 }
 
-function processLesson(dir: string, check: boolean): boolean {
+function processLesson(dir: string, check: boolean, explicit = false): boolean {
   const ymlPath = join(dir, 'exercises.yml');
   if (!existsSync(ymlPath)) {
     console.error(`[gen-exercises] No exercises.yml in ${dir}`);
@@ -112,6 +113,16 @@ function processLesson(dir: string, check: boolean): boolean {
     return false;
   }
   const data = result.data;
+
+  // partial: true marks a fixture-only yml (not the complete source yet).
+  // --all skips it silently; direct invocation warns but continues.
+  if (data.partial) {
+    if (!explicit) {
+      console.log(`[gen-exercises] SKIP (partial): ${dir}`);
+      return true;
+    }
+    console.warn(`[gen-exercises] WARNING: ${dir} is marked partial — exercises.md may be incomplete.`);
+  }
 
   const exMd = renderExercisesMd(data);
   const solMd = renderSolutionsMd(data);

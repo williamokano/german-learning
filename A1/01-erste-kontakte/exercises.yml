@@ -1,5 +1,6 @@
 lesson: A1/01
 title: "A1 · Lektion 1 — Übungen"
+partial: true  # P2 web fixture only — full migration in P5; gen-exercises skips this file
 intro: >
   Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
   D Wiederholung & Selbsttest.

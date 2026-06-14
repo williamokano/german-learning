@@ -162,6 +162,7 @@ export const ExerciseSet = z.object({
   lesson: z.string().regex(/^[A-C][12]\/\d{2}$/),
   title: z.string(),
   intro: z.string().optional(),
+  partial: z.boolean().default(false), // true = fixture only; gen-exercises skips writing md files
   exam: ExamGrid.nullable().default(null),
   exercises: z.array(Exercise),
 }).superRefine((set, ctx) => {
