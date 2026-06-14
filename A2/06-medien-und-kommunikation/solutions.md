@@ -259,6 +259,20 @@ Model answers (also fine: any grammatically correct sentence using the cued verb
 5. Das ist **keine** Empfehlung — das ist Werbung! (kein- + noun)
 6. Ich schreibe **nicht** so oft an meine Familie, wie ich möchte. (`nicht` negates the adverb `so oft`)
 
+## B9 — Probleme mit dem Internet: WhatsApp an den Vermieter (model answer)
+
+> Sehr geehrter Herr Schmidt,
+> ich schreibe Ihnen, weil das WLAN in unserer Wohnung seit drei
+> Tagen ausgefallen ist. Mein Mitbewohner und ich warten auf eine
+> Lösung, weil wir das Internet für unsere Arbeit brauchen. Ich
+> ärgere mich sehr darüber und kann ohne Internet meine Aufgaben
+> nicht erledigen. Könnten Sie bitte so schnell wie möglich einen
+> Techniker schicken? Mit freundlichen Grüßen, [Name]
+
+*(A correct reply: ≥1 verb+preposition chunk with correct case, ≥1 `seit`-
+phrase, ≥1 explanation of what is impossible, a polite request. Any
+equivalent is accepted.)*
+
 ---
 
 # Block C — Prüfungstraining

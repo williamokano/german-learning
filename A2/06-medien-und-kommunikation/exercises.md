@@ -368,6 +368,30 @@ Choose the correct negation and rewrite the sentence.
 5. Das ist ______ Empfehlung — das ist Werbung!
 6. Ich schreibe ______ so oft an meine Familie, wie ich möchte.
 
+## Übung B9 — Probleme mit dem Internet: WhatsApp an den Vermieter
+
+**WhatsApp von deinem Mitbewohner Max** *(Du hast diese Nachricht gerade bekommen)*:
+> Hey, das WLAN ist schon den ganzen Tag ausgefallen. Ich habe
+> schon dreimal den Router neu gestartet, aber es funktioniert
+> einfach nicht. Ich ärgere mich total darüber — ich brauche das
+> Internet für meine Arbeit! Hast du eine Idee? Kannst du dich
+> vielleicht beim Vermieter beschweren?
+
+**Your task:** Schreib eine WhatsApp-Nachricht an deinen Vermieter in
+**4–5 Sätzen**. Beschwer dich über das WLAN und frag, wann das Problem
+behoben wird.
+
+Use:
+- [ ] at least **1** sentence with a **verb + preposition** chunk from the lesson — *sich ärgern über / sich freuen auf / warten auf / denken an / schreiben an / sprechen über / sich interessieren für / fragen nach / antworten auf* — with the right case
+- [ ] at least **1** sentence with `seit` (how long the problem has been going on)
+- [ ] at least **1** sentence explaining what you cannot do without the internet
+- [ ] a polite request (*Könnten Sie …? / Wann …? / Ich bitte Sie …*)
+
+**Self-check before moving on:**
+- [ ] Did I use the **correct case** after each preposition (Dativ or Akkusativ, as in §4.2 of the lesson)?
+- [ ] Did I use `sich ärgern über` (Akк) correctly — the thing I'm annoyed **about** is in Akkusativ?
+- [ ] Is the verb+preposition chunk written as one memorised phrase, not pieced together?
+
 ---
 
 # Block C — Prüfungstraining
