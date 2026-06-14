@@ -1,282 +1,213 @@
-# A1 · Lektion 7 — Lösungen (Answer key)
+# A1 · Lektion 7 — Lösungen
 
 ---
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check: Im Büro
+## Übung H1a — Dialog A (informell) — Im Büro
 
-### H1a — Informell (Dialog A)
+1. **R** — Bruno sagt: „Ich muss um acht Uhr im Büro sein."
+2. **F** — Anna arbeitet von neun bis fünf, nicht um acht.
+3. **F** — Der Kurs ist morgen — heute Abend will Anna lernen.
+4. **R** — Bruno sagt: „Darf ich auch mitmachen? Dann will ich heute noch den Kurs buchen."
 
-1. **R** — Bruno says: „Ich muss um acht Uhr im Büro sein."
-2. **F** — Anna arbeitet **von neun bis fünf**, nicht um acht.
-3. **F** — Der Kurs ist **morgen** — heute Abend will Anna **lernen**, nicht den Kurs machen.
-4. **R** — Bruno: „Darf ich auch mitmachen?" / „Dann will ich heute noch den Kurs buchen."
+## Übung H1b — Dialog B (formell) — Im Büro
 
-### H1b — Formell (Dialog B)
-
-1. **R** — Frau Yilmaz: „Sie müssen heute das Meeting vorbereiten."
-2. **F** — Das Meeting fängt um **zehn** Uhr an, nicht um neun.
-3. **R** — Frau Yilmaz: „Herr Brandt darf heute früher gehen — er hat einen Arzttermin."
-4. **F** — Anna sagt: „Ich beginne **sofort**." (not tomorrow)
+1. **R** — Frau Yilmaz sagt: „Sie müssen heute das Meeting vorbereiten."
+2. **F** — Das Meeting fängt um zehn Uhr an, nicht um neun.
+3. **R** — Frau Yilmaz sagt: „Herr Brandt darf heute früher gehen — er hat einen Arzttermin."
+4. **F** — Anna sagt: „Ich beginne sofort." (nicht morgen)
 
 ## Übung H3 — Hörtext-Lückentext: Marias Arbeitstag
 
-> Maria arbeitet als **(1) Verkäuferin** in einem **(2) Geschäft** in
-> München. Sie muss morgens um **(3) sechs** Uhr aufstehen. Die Arbeit
-> fängt um halb acht an und endet um **(4) achtzehn** Uhr. Am Nachmittag
-> muss sie noch **(5) einkaufen**. Sie will später gern **(6) Teilzeit**
-> arbeiten.
+1. **Verkäuferin**  2. **Geschäft**  3. **sechs**  4. **achtzehn**  5. **einkaufen**  6. **Teilzeit**
 
-Not needed: **Vollzeit · Lehrerin** (distractors)
+## Übung H4 — Kurze Ansage: Nachricht vom Computerkurs
 
-## H4 — Kurze Ansage: Nachricht vom Computerkurs
-
-1. **b) Von Maria** — „Hallo Anna, hier ist Maria."
-2. **a) Um einen Computerkurs** — „Ich rufe an wegen dem Computerkurs am Montag."
-3. **b) Um neunzehn Uhr** — „Der Kurs fängt leider erst um neunzehn Uhr an, nicht um achtzehn Uhr."
-4. **a) Einen Laptop** — „Du musst deinen Laptop mitbringen."
+1. **b) Von Maria.** — „Hallo Anna, hier ist Maria."
+2. **a) Um einen Computerkurs.** — „Ich rufe an wegen dem Computerkurs am Montag."
+3. **b) Um neunzehn Uhr.** — „Der Kurs fängt leider erst um neunzehn Uhr an, nicht um achtzehn Uhr."
+4. **a) Einen Laptop.** — „Du musst deinen Laptop mitbringen."
 
 ---
 
-# Block A
+# Block A — Basistraining
 
-## Übung A1 — `müssen`
+## Übung A1 — `müssen`: Konjugationstabelle
 
-ich **muss** · du **musst** · er/sie/es **muss** · wir **müssen** · ihr **müsst** · sie/Sie **müssen**
+1. **muss**  2. **musst**  3. **muss**  4. **müssen**  5. **müsst**  6. **müssen**
 
-⚠️ `ich muss` and `er/sie/es muss` are identical — no ending on either.
+## Übung A2 — `wollen`: Konjugationstabelle
 
-## Übung A2 — `wollen`
+1. **will**  2. **willst**  3. **will**  4. **wollen**  5. **wollt**  6. **wollen**
 
-ich **will** · du **willst** · er/sie/es **will** · wir **wollen** · ihr **wollt** · sie/Sie **wollen**
+## Übung A3 — `dürfen`: Konjugationstabelle
 
-⚠️ `ich will` ≠ English "I will" — it means "I want to".
+1. **darf**  2. **darfst**  3. **darf**  4. **dürfen**  5. **dürft**  6. **dürfen**
 
-## Übung A3 — `dürfen`
+## Übung A4 — `müssen` in Sätzen
 
-ich **darf** · du **darfst** · er/sie/es **darf** · wir **dürfen** · ihr **dürft** · sie/Sie **dürfen**
+1. **muss**  2. **musst**  3. **muss**  4. **müssen**  5. **Müsst**  6. **müssen**  7. **Müssen**  8. **muss**
 
-## Übung A4 — `müssen` in sentences
+## Übung A5 — `wollen` in Sätzen
 
-1. muss 2. musst 3. muss 4. müssen 5. Müsst 6. müssen 7. Müssen 8. muss
+1. **will**  2. **Willst**  3. **will**  4. **wollen**  5. **wollt**  6. **will**  7. **Wollen**  8. **wollen**
 
-## Übung A5 — `wollen` in sentences
+## Übung A6 — `dürfen` in Sätzen
 
-1. will 2. Willst 3. will 4. wollen 5. wollt 6. will 7. Wollen 8. wollen
-
-## Übung A6 — `dürfen` in sentences
-
-1. darf 2. Darf 3. darf 4. dürft 5. dürfen 6. Darfst 7. dürfen 8. Dürfen
+1. **darf**  2. **Darf**  3. **darf**  4. **dürft**  5. **dürfen**  6. **Darfst**  7. **dürfen**  8. **Dürfen**
 
 ## Übung A7 — `müssen nicht` oder `dürfen nicht`?
 
-1. **darfst** nicht lügen (prohibition — it is not allowed)
-2. **muss** nicht arbeiten (no obligation — today is a holiday)
-3. **darf** man nicht parken (prohibition)
-4. **musst** nicht früh aufstehen (no obligation)
-5. **darf** man nicht laut sein (prohibition)
-6. **dürfen** Sie das nicht machen (prohibition — the boss forbade it)
-7. **müssen** nicht in die Schule (no obligation — no class)
-8. **musst** nicht alles wissen (no obligation — it's fine not to know)
+1. **darfst**  2. **muss**  3. **darf**  4. **musst**  5. **darf**  6. **dürfen**  7. **müssen**  8. **musst**
 
-Key rule: **dürfen nicht = must not** (prohibited); **müssen nicht = don't have to** (not required).
+## Übung A8 — Satzklammer: put the sentence together
 
-## Übung A8 — Satzklammer
+1. **Ich will Deutsch lernen.**  2. **Du musst die Hausaufgaben machen.**  3. **Anna darf hier parken.**  4. **Wir wollen das Formular ausfüllen.**  5. **Ihr müsst pünktlich sein.**  6. **Bruno darf nicht rauchen.**  7. **Sie will Programmiererin werden.**  8. **Sie müssen das Formular ausfüllen.**
 
-1. Ich will Deutsch lernen.
-2. Du musst die Hausaufgaben machen.
-3. Anna darf hier parken.
-4. Wir wollen das Formular ausfüllen.
-5. Ihr müsst pünktlich sein.
-6. Bruno darf nicht rauchen.
-7. Sie will Programmiererin werden.
-8. Sie müssen das Formular ausfüllen.
+## Übung A9 — Yes/no questions (Ja/Nein-Fragen)
 
-## Übung A9 — Yes/no questions
-
-1. Musst du früh aufstehen?
-2. Will Anna den Kurs machen?
-3. Dürfen wir das Büro benutzen?
-4. Wollt ihr Informatik studieren?
-5. Muss er die Prüfung wiederholen?
-6. Wollen sie früher aufhören?
+1. **Musst du früh aufstehen?**  2. **Will Anna den Kurs machen?**  3. **Dürfen wir das Büro benutzen?**  4. **Wollt ihr Informatik studieren?**  5. **Muss er die Prüfung wiederholen?**  6. **Wollen sie früher aufhören?**
 
 ## Übung A10 — W-Fragen mit Modalverben
 
-1. **Wie lange** (also fine: **Wann**, if asking for the start time) 2. **Was** 3. **Warum** 4. **Wo** 5. **Wer** 6. **Wie lange**
+1. **Wie lange**  2. **Was**  3. **Warum**  4. **Wo**  5. **Wer**  6. **Wie lange**
 
-## Übung A11 — Berufe: masculine and feminine
+## Übung A11 — Berufe: masculine ↔ feminine
 
-1. die Lehrerin 2. der Arzt 3. die Ingenieurin 4. der Koch 5. die Journalistin
-6. der Programmierer 7. die Verkäuferin 8. der Student 9. die Kellnerin 10. der Kollege
+1. **Lehrerin**  2. **Arzt**  3. **Ingenieurin**  4. **Koch**  5. **Journalistin**  6. **Programmierer**  7. **Verkäuferin**  8. **Student**  9. **Kellnerin**  10. **Kollege**
 
-Note the pattern: masculine ends in -er → feminine adds -in; masculine ending -e → feminine changes to -in (der Kollege → die Kollegin).
+## Übung A12 — Beruf nach `sein` — Artikel oder kein Artikel?
 
-## Übung A12 — Beruf nach `sein`
-
-1. *(no article)* Ich bin Lehrerin.
-2. **ein** guter Lehrer (adjective → indefinite article required)
-3. *(no article)* Bist du Arzt?
-4. *(no article)* Anna ist Programmiererin.
-5. **ein** sehr erfahrener Ingenieur (adjective → article required)
-6. *(no article)* Wir sind Studenten.
-7. *(no article)* Sie ist Kellnerin.
-8. *(no article)* Er arbeitet als Koch. (after `als` also no article)
+1. **—**  2. **ein**  3. **—**  4. **—**  5. **ein**  6. **—**  7. **—**  8. **—**
 
 ---
 
-# Block B
+# Block B — Vertiefung
 
-## Übung B1 — Am Telefon
+## Übung B1 — Dialog ergänzen: Am Telefon
 
-1. willst 2. muss (also fine: will) 3. Musst 4. muss 5. kann (L6 — also fine: will)
-6. darfst (also fine: kannst) 7. auch 8. müsst
+1. **willst**  2. **muss** (auch richtig: **will**)  3. **Musst**  4. **muss**  5. **kann**  6. **darfst**  7. **auch**  8. **müsst**
 
-## Übung B2 — Im Büro (formal)
+## Übung B2 — Dialog ergänzen: Im Büro (formell)
 
-1. muss (also fine: soll) 2. müssen 3. muss 4. müssen 5. fragen 6. dürfen
-7. Muss 8. muss/darf (also fine: kann)
+1. **muss**  2. **müssen**  3. **muss**  4. **müssen**  5. **fragen**  6. **dürfen**  7. **Muss**  8. **muss** (auch richtig: **darf**)
 
 ## Übung B3 — Finde den Fehler
 
-1. Ich muss heute **arbeiten**. (infinitive, not conjugated!)
-2. **Willst** du Arzt werden? (du-form of wollen)
-3. Du darfst hier **nicht** rauchen. (remove the second "du" — subject not repeated)
-4. Er muss das Formular nicht **ausfüllen**. (infinitive missing)
-5. Ich bin Lehrer. (no article after sein — drop "ein")
-6. Wir wollen den Kurs **anmelden**. (infinitive, not "anmelde")
-7. Sie muss früher **aufhören**. (infinitive, not "aufgehst" — wrong verb entirely; also wrong person ending)
-8. **Darf** ich kurz fragen? (no "Sie" needed — "ich" is the subject; the question goes to the front)
-9. Bruno will Programmierer **werden**. (infinitive at the end)
-10. Ihr **dürft** nicht laut sein — hier **muss** man leise arbeiten. (two errors: dürft = ihr-form; musst/muss: subject is "man" → er/sie/es-form "muss")
+1. **arbeiten**  2. **Willst**  3. **nicht**  4. **ausfüllen**  5. **—**  6. **anmelden**  7. **aufhören**  8. **fragen**  9. **werden**  10. **muss**
 
-Note on #10: the sentence actually contains two errors — accept either fix; ideally both.
-
-## Übung B4 — Frage und Antwort
+## Übung B4 — Frage und Antwort verbinden
 
 1 → c · 2 → e · 3 → a · 4 → b · 5 → f · 6 → d · 7 → g · 8 → h
 
-## Übung B5 — Satzbau
+## Übung B5 — Satzbau mit Modalverben
 
-1. Ich will Deutsch lernen.
-2. Bruno muss heute nicht arbeiten.
-3. Wir müssen das Formular ausfüllen.
-4. Darf man hier nicht telefonieren?
-5. Was wollen Sie werden?
-6. Ihr müsst pünktlich sein.
-7. Anna will um fünf Uhr aufhören.
-8. Die Schüler dürfen während der Prüfung nicht sprechen.
-9. Er darf heute früher gehen.
-10. Wir wollen den Kurs nächste Woche machen.
+1. ich will Deutsch lernen
+   _Ich will Deutsch lernen._
+2. Bruno muss heute nicht arbeiten
+   _Bruno muss heute nicht arbeiten._
+3. wir müssen das Formular ausfüllen
+   _Wir müssen das Formular ausfüllen._
+4. darf man hier nicht telefonieren ?
+   _Darf man hier nicht telefonieren?_
+5. was wollen Sie werden ?
+   _Was wollen Sie werden?_
+6. ihr müsst pünktlich sein
+   _Ihr müsst pünktlich sein._
+7. Anna will um fünf Uhr aufhören
+   _Anna will um fünf Uhr aufhören._
+8. die Schüler dürfen während der Prüfung nicht sprechen
+   _Die Schüler dürfen während der Prüfung nicht sprechen._
+9. er darf heute früher gehen
+   _Er darf heute früher gehen._
+10. wir wollen den Kurs nächste Woche machen
+   _Wir wollen den Kurs nächste Woche machen._
 
-## Übung B6 — Kategorien
+## Übung B6 — Kategorien: Beruf oder Arbeitsplatz
 
-| Beruf | Arbeitsplatz |
-|---|---|
-| Lehrer | Büro |
-| Koch | Krankenhaus |
-| Arzt | Universität |
-| Ingenieur | Restaurant |
-| Programmierer | Schule |
-| Kellner | Firma |
+**Beruf:** **Lehrer**, **Koch**, **Arzt**, **Ingenieur**, **Programmierer**, **Kellner**
+**Arbeitsplatz:** **Büro**, **Krankenhaus**, **Universität**, **Restaurant**, **Schule**, **Firma**
 
-## Übung B7 — Schulfächer
+## Übung B7 — Schulfächer: was magst du?
 
 1 → d · 2 → c · 3 → f · 4 → e · 5 → a · 6 → b
 
-## Übung B8 — Answer with cues
+## Übung B8 — Antworten mit Modalverben
 
-1. Ich muss das Meeting vorbereiten.
-2. Anna will Ärztin werden.
-3. Nein, du darfst hier nicht rauchen. / Nein, hier darf man nicht rauchen.
-4. Ja, du musst um sieben Uhr aufstehen.
-5. Bruno will Programmieren lernen.
-6. Nein, die Schüler dürfen ihr Handy im Unterricht nicht benutzen.
-7. Wir wollen nächstes Jahr einen Sprachkurs in Deutschland machen.
-8. Nein, Herr Brandt muss heute nicht kommen — er hat einen Arzttermin.
+Modellantwort:
 
-## Übung B9 — Übersetzen
+> 1. Ich muss das Meeting vorbereiten.
+> 2. Anna will Ärztin werden.
+> 3. Nein, du darfst hier nicht rauchen. / Nein, hier darf man nicht rauchen.
+> 4. Ja, du musst um sieben Uhr aufstehen.
+> 5. Bruno will Programmieren lernen.
+> 6. Nein, die Schüler dürfen ihr Handy im Unterricht nicht benutzen.
+> 7. Wir wollen nächstes Jahr einen Sprachkurs in Deutschland machen.
+> 8. Nein, Herr Brandt muss heute nicht kommen — er hat einen Arzttermin.
 
-1. Ich muss heute arbeiten.
-2. Sie will Ärztin werden.
-3. Du darfst hier nicht rauchen.
-4. Wir wollen das Formular ausfüllen.
-5. Was wollen Sie machen? (also fine: Was möchten Sie machen?)
-6. Er muss nicht kommen — es ist nicht obligatorisch. (also fine: …es ist freiwillig.)
-7. Darf ich eine Frage stellen? (also fine: Darf ich kurz fragen?)
-8. Die Schüler dürfen während der Prüfung nicht sprechen.
+## Übung B9 — Mein Traumjob
 
-## B9 — Mein Traumjob (model answer)
+Modellantwort:
 
-> Ich möchte Programmiererin werden. Ich muss dafür viel lernen
-> und Mathematik und Informatik studieren. Ich will auch ein
-> Praktikum in einer Firma machen, damit ich Erfahrung bekomme.
-> Später möchte ich in einem kleinen Team arbeiten und neue
-> Apps programmieren. Das wäre mein Traumjob!
+> Ich möchte Programmiererin werden. Ich muss dafür viel lernen und
+> Mathematik und Informatik studieren. Ich will auch ein Praktikum
+> in einer Firma machen, damit ich Erfahrung bekomme. Später möchte
+> ich in einem kleinen Team arbeiten und neue Apps programmieren.
+> Das wäre mein Traumjob!
 
-*(A correct answer: ≥1 profession with möchte/will werden, ≥1 müssen
-sentence, ≥1 wollen or dürfen sentence, ≥1 workplace. Any equivalent
-is accepted.)*
+Selbstkorrektur:
+- [ ] Did I use the Satzklammer correctly — the modal in position 2 and the infinitive at the end?
+- [ ] Did I remember the umlaut in `müssen` (ich muss, du musst, er muss, wir müssen, ihr müsst, sie müssen)?
 
 ---
 
-# Block C
+# Block C — Prüfungstraining
 
 ## Übung C1 — Lückentext
 
-1. **bin** 2. **muss** 3. **beginnt** 4. **liebe** (also fine: **mag**) 5. **will**
-6. **studiert** 7. **muss** 8. **muss** (no obligation: muss nicht = doesn't have to)
-9. **darf** (permission: manchmal darf sie ausruhen — she is allowed to rest)
-10. **sage** (also fine: **erkläre**)
-
-⚠️ Gap 8 and 9: "muss nicht" (no obligation) vs. "darf" (permission) — classic contrast! She doesn't *have to* work at weekends (gap 8), but she *is allowed to* rest (gap 9).
+1. **bin**  2. **muss**  3. **beginnt**  4. **liebe**  5. **will**  6. **studiert**  7. **muss**  8. **muss**  9. **darf**  10. **sage**
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-1. **b) arbeite** — "ich arbeite als Ingenieurin" (profession after "als" — no article)
-2. **a) muss** — obligation (every day, set hours)
-3. **b) dürfen** — permission (allowed to work on Saturdays, but not obliged to)
-4. **a) darf** — permission (allowed to ride bike to work)
-5. **c) müssen** — obligation (everyone has to do it)
-6. **b) will** — want to (the boss wants to participate)
+1. **b) arbeite** — ich arbeite als Ingenieurin — profession follows als without article.
+2. **a) muss** — obligation (every day, set hours) → muss.
+3. **b) dürfen** — permission (allowed to work Saturdays, but not obliged) → dürfen.
+4. **a) darf** — permission (allowed to bike to work) → darf.
+5. **c) müssen** — obligation (everyone has to do it) → müssen.
+6. **b) will** — want to (the boss wants to participate) → will.
 
-## Übung C3 — Sprachbausteine Teil 2
+## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-1. **BERUF** · 2. **BIN** · 3. **STUDIERE** · 4. **WERDEN** · 5. **WILL** ·
-6. **MUSST** · 7. **GERN** · 8. **DARFST** · 9. **NICHT** · 10. **MUSS**
+1. **BERUF**  2. **BIN**  3. **STUDIERE**  4. **WERDEN**  5. **WILL**  6. **MUSST**  7. **GERN**  8. **DARFST**  9. **NICHT**  10. **MUSS**
 
-Not needed: ARBEITE · DARF · LERNEN · SEIN · WOLLEN
+## Übung C4a — Lesen Text 1 — Drei Berufe
 
-Notes: gap 6 = MUSST (subject du, obligation); gap 10 = MUSS (subject man = er/sie/es-form).
-The distinction between MUSST (du) and MUSS (er/sie/es/man/ich) is exactly the
-conjugation point drilled in A1–A4.
+1. **F** — Sofia arbeitet im Krankenhaus, nicht im Büro.
+2. **R** — Sofia will Kinderärztin werden.
+3. **F** — Felix unterrichtet Deutsch und Geschichte.
+4. **R** — Felix darf kreativ sein.
+5. **R** — Paula arbeitet bei einer Softwarefirma.
+6. **F** — Paula darf oft von zu Hause arbeiten.
 
-## Übung C4 — Lesen
+## Übung C4b — Lesen Text 2 — Stellenanzeige
 
-**Text 1:**
-1. **F** (Sofia arbeitet im Krankenhaus, nicht im Büro)
-2. **R**
-3. **F** (Felix unterrichtet Deutsch und Geschichte)
-4. **R**
-5. **R**
-6. **F** (Paula darf oft von zu Hause arbeiten)
+1. **b) eine Teilzeitkraft** — Die Stelle ist Teilzeit: 15 Stunden pro Woche.
+2. **b) Deutsch sehr gut können** — Muttersprache oder C2-Zertifikat = Deutsch sehr gut.
+3. **c) 15** — 15 Stunden pro Woche.
+4. **b) per E-Mail** — Bitte bewerben Sie sich per E-Mail: jobs@lingua-schule.de.
 
-**Text 2:**
-7. **b)** eine Teilzeitkraft
-8. **b)** Deutsch sehr gut können (Muttersprache oder C2-Zertifikat)
-9. **c)** 15
-10. **b)** per E-Mail
+## Übung C5 — Schreiben: Mein Beruf / mein Traumjob
 
-## Übung C5 — Schreiben (model answer)
+Modellantwort:
 
-> Ich heiße Bruno und ich bin Programmierer. Ich arbeite bei einer Softwarefirma in
-> Berlin. Ich muss jeden Tag viel Code schreiben und Probleme lösen. Ich will in
-> Zukunft einen Kurs in Künstlicher Intelligenz machen. Im Büro darf ich Musik hören
-> — das hilft mir beim Arbeiten! Ich muss nicht jeden Tag ins Büro — ich darf auch
-> von zu Hause arbeiten. Das finde ich super.
+> Ich heiße Bruno und ich bin Programmierer. Ich arbeite bei einer Softwarefirma
+> in Berlin. Ich muss jeden Tag viel Code schreiben und Probleme lösen. Ich
+> will in Zukunft einen Kurs in Künstlicher Intelligenz machen. Im Büro darf
+> ich Musik hören — das hilft mir beim Arbeiten! Ich muss nicht jeden Tag ins
+> Büro — ich darf auch von zu Hause arbeiten. Das finde ich super.
 
-Self-check list:
+Selbstkorrektur:
 - [ ] Modal verb in position 2, infinitive at the end of the clause?
 - [ ] No article after `sein` + profession (unless adjective present)?
 - [ ] `müssen nicht` (no obligation) vs. `dürfen nicht` (prohibition) used correctly?
@@ -286,57 +217,29 @@ Self-check list:
 
 ---
 
-# Block D
+# Block D — Wiederholung & Selbsttest
 
-## Übung D1 — Schnelltest
+## Übung D1 — Gemischter Schnelltest (incl. L1–L6)
 
-1. **muss** 2. **will** 3. **darfst** 4. **Du darfst nicht lügen.** (dürfen nicht = prohibition)
-5. **können** 6. die **Köchin** 7. **arbeitest … arbeite** (du arbeitest / ich arbeite)
-8. **acht** 9. **einen** (masc. accusative) 10. **muss … ausfüllen** (Satzklammer)
-11. **steht … auf** (er steht um sieben Uhr auf) 12. **kannst** 13. das **Krankenhaus**
-14. **willst … werden** (Was willst du werden?) 15. **haben**
+1. **muss**  2. **will**  3. **darfst**  4. **Du darfst nicht lügen.**  5. **können**  6. **Köchin**  7. **arbeitest**  8. **arbeite**  9. **acht**  10. **einen**  11. **muss**  12. **ausfüllen**  13. **steht**  14. **auf**  15. **kannst**  16. **Krankenhaus**  17. **willst**  18. **werden**  19. **haben**
 
 ## Übung D2 — Odd one out
 
-1. ~~Büro~~ (not a profession — it's a workplace)
-2. ~~fahren~~ (not a modal verb)
-3. ~~Mittag~~ (not a place of work)
-4. ~~Stuhl~~ (not a school subject — it's furniture)
-5. ~~müde~~ (adjective, not a verb)
-6. ~~Firma~~ (not a person — it's an institution)
+1. ~~Büro~~ — Büro is a workplace, not a profession.
+2. ~~fahren~~ — fahren is not a modal verb.
+3. ~~Mittag~~ — Mittag is not a workplace.
+4. ~~Stuhl~~ — Stuhl is furniture, not a school subject.
+5. ~~müde~~ — müde is an adjective, not a verb.
+6. ~~Firma~~ — Firma is an institution, not a person.
 
-## Übung D3 — Wiederholung früherer Lektionen
+## Übung D3 — Wiederholung Lektion 1–6
 
-1. (L6) **kann**
-2. (L6) Ich **kann** Gitarre spielen.
-3. (L5) Sie **steht** jeden Tag um sieben **auf**.
-4. (L5) Der Kurs **fängt** um neun Uhr **an**.
-5. (L4) Es **gibt** eine Küche und ein Bad.
-6. (L3) Ich **esse** kein Fleisch.
-7. (L3) Wir kaufen **ein** Brot.
-8. (L2) Das ist **ihre** Schwester.
-9. (L1) Welche Sprachen **sprichst** du?
-10. (L5) Ich stehe **um** sieben Uhr auf.
+1. **kann**  2. **kann**  3. **steht**  4. **auf**  5. **fängt**  6. **an**  7. **gibt**  8. **esse**  9. **ein**  10. **ihre**  11. **sprichst**  12. **um**
 
-## Übung D4 — Selbsttest
+## Übung D4 — Selbsttest (score yourself /20)
 
-1. **muss** 2. **will** 3. **dürft**
-4. Ich will Arzt werden.
-5. Du musst früh aufstehen.
-6. Wir dürfen hier nicht rauchen.
-7. **musst** nicht (no obligation → müssen nicht)
-8. **darf** man nicht (prohibition → dürfen nicht)
-9. die **Ingenieurin**
-10. der **Arzt**
-11. **no** — Ich bin Kellner. (no article after sein + profession without adjective)
-12. **ein** guter Koch (adjective present → indefinite article)
-13. das **Büro**
-14. **vorbereiten** (separable: ich muss das Meeting vorbereiten)
-15. **Informatik**
-16. Sie will Programmiererin werden.
-17. Darfst du hier parken?
-18. Wir müssen um acht Uhr anfangen.
-19. Er muss heute nicht arbeiten.
-20. Was wollen Sie studieren?
+1. **muss**  2. **will**  3. **dürft**  4. **Ich will Arzt werden.**  5. **Du musst früh aufstehen.**  6. **Wir dürfen hier nicht rauchen.**  7. **musst**  8. **darf**  9. **Ingenieurin**  10. **Arzt**  11. **—**  12. **ein**  13. **Büro**  14. **vorbereiten**  15. **Informatik**  16. **Sie will Programmiererin werden.**  17. **Darfst du hier parken?**  18. **Wir müssen um acht Uhr anfangen.**  19. **Er muss heute nicht arbeiten.**  20. **Was wollen Sie studieren?**
 
-**16+ / 20 → Lektion 8.** Below: redo A1–A9 tomorrow (modal conjugation + Satzklammer), then retest.
+---
+
+**16+ / 20 → go to the next Lektion.**
