@@ -331,16 +331,22 @@ Sort the 12 words: **Sport · Musik · Wetter · Jahreszeiten**
 5. — ______________________? — Nein, ich spiele kein Instrument.
 6. — ______________________? — Ich treffe meine Freunde am Samstag.
 
-## Übung B9 — Übersetzen (EN → DE)
+## Übung B9 — Meine Hobbys
 
-1. I can swim very well.
-2. Can you play the guitar? (du)
-3. He likes reading books.
-4. I prefer playing football.
-5. The sun is shining and it is warm.
-6. In winter it often snows.
-7. Shall we go to the movies? Do you feel like it?
-8. I can't come along today.
+**Situation:** Ein neuer Freund / eine neue Freundin fragt dich, was du
+gern in deiner Freizeit machst. Schreib **3–4 Sätze** und antworte:
+was du gern machst, was du kannst, und was du nicht kannst.
+
+Use:
+- [ ] at least **2** hobbies with `gern` / `lieber` / `am liebsten` — *Ich spiele gern Fußball. / Ich koche am liebsten.*
+- [ ] at least **1** sentence with `können` — *Ich kann gut Gitarre spielen.*
+- [ ] at least **1** sentence with `nicht` + `können` (negation) — *Ich kann nicht gut singen.*
+- [ ] at least **1** weather expression — *bei schönem Wetter / im Winter / im Sommer*
+
+**Self-check before moving on:**
+- [ ] Did I use the **Satzklammer** (verb bracket) correctly — `kann` in position 2 and the infinitive at the **end** (*Ich kann gut Gitarre spielen*)?
+- [ ] Did I use `gern` after the verb (*Ich spiele gern Fußball* — not *Ich gern spiele*)?
+- [ ] For weather: did I use `im` for seasons (*im Winter, im Sommer*) and `bei` for conditions (*bei schönem Wetter*)?
 
 ---
 

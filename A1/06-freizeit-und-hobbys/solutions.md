@@ -197,6 +197,18 @@ wir **können** · ihr **könnt** · sie/Sie **können**
 7. Gehen wir ins Kino? Hast du Lust?
 8. Ich kann heute nicht mitkommen. (mitkommen stays in one piece at the end!)
 
+## B9 — Meine Hobbys (model answer)
+
+> In meiner Freizeit spiele ich gern Fußball mit meinen Freunden —
+> im Sommer und im Winter, wenn das Wetter schön ist. Ich kann
+> auch gut Gitarre spielen, aber ich kann nicht singen. Am
+> liebsten koche ich am Wochenende — ich koche gern italienisch.
+> Bei schlechtem Wetter sehe ich gern Filme im Wohnzimmer.
+
+*(A correct answer: ≥2 hobbies with gern/lieber/am liebsten, ≥1
+können sentence, ≥1 nicht können, ≥1 weather expression. Any
+equivalent is accepted.)*
+
 ---
 
 # Block C
