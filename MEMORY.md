@@ -247,13 +247,66 @@ per the project's convention that exam lessons use a different format.
 
 **GitHub issue #7 closed.**
 
+## B9 retrofit (issue #5) — ✅ COMPLETE 2026-06-14
+
+Replaced the free-form B9 (often translation drills in A1) with a
+**contextualized writing task** that mirrors telc formats: a concrete
+stimulus (WhatsApp/E-Mail/Chatnachricht/Forum/photo description), a
+task, a 3–4 bullet "Use" checklist, and a 3–4 bullet "Self-check".
+A2 uses the full spec (4–5 sentences); A1 uses the lighter form (3–4
+sentences, no stimulus, simpler checklist + self-check).
+
+**Spec added to `AUTHORING.md` (commit 20107d6):** new "B9 —
+Contextualized writing task" section with the format, content rules,
+and the A1-lighter exception.
+
+**Pilot:** A2/12 Pläne und Zukunft — 20107d6 (user-approved inline).
+
+**A2 batch (12 lessons, A2/01–11 + A2/13):**
+- A2/12 Pläne und Zukunft — 20107d6 (WhatsApp: Maria Wochenende)
+- A2/01 Erzähl mal — 516e0b8 (WhatsApp: Anna Wochenende)
+- A2/02 Zusammen wohnen — c254606 (E-Mail: Vermieter Problem)
+- A2/03 Begründen und erklären — 3da1a51 (Forum: Studienstart)
+- A2/04 Arbeit und Beruf — 1da39cd (E-Mail: Bewerbungsantwort)
+- A2/05 Gesund leben — 6741663 (Chatnachricht: Krankheit an Anna)
+- A2/06 Medien und Kommunikation — 43a20c1 (WhatsApp: WLAN-Beschwerde)
+- A2/07 Vergleichen — 8127f06 (E-Mail: Handytarife)
+- A2/08 Adjektive überall — de44079 (Photo description: Party-Outfit)
+- A2/09 Höflichkeit und Wünsche — 7d9349b (E-Mail: Restaurant-Reservierung)
+- A2/10 Stadt, Land, Reisen — 3b86a9c (Forum: Lieblingsreiseziel)
+- A2/11 Geben und schenken — 0c7f8d5 (WhatsApp: Dank an Tante)
+- A2/13 Menschen beschreiben — 945cd1a (WhatsApp: Praktikant-Beschreibung)
+
+**A1 batch (13 lessons, lighter format):**
+- A1/13 Ämter, Telefon und Alltag — 450f565 (Bürgeramt Anruf)
+- A1/12 Termine und Feste — 9bf815d (Party-Einladung)
+- A1/11 Vergangenheit — 115b3d0 (gestern recap)
+- A1/10 Gesundheit und Körper — d8b0295 (beim Arzt)
+- A1/09 Einkaufen und Kleidung — d6121b7 (im Kaufhaus)
+- A1/08 Unterwegs in der Stadt — 6e9670b (nach dem Weg fragen)
+- A1/07 Lernen und Arbeiten — 8ac67c2 (Traumjob)
+- A1/06 Freizeit und Hobbys — 670282e (Hobbys)
+- A1/05 Mein Tag — d043146 (Tagesablauf)
+- A1/04 Wohnen — ad517aa (Wohnung beschreiben)
+- A1/03 Essen und Trinken — 3e2151f (im Café bestellen)
+- A1/02 Familie und Freunde — a6f67c2 (Familie)
+- A1/01 Erste Kontakte — 5df9426 (sich vorstellen)
+
+**Genre variety used:** WhatsApp, E-Mail, Forenbeitrag,
+Chatnachricht, Photo description. No two A2 lessons use the same
+genre-stem combination.
+
+**Skipped (intentionally):** A1/14, A2/14 — exam lessons, not retrofitted
+per the project's convention.
+
+**GitHub issue #5 closed.**
+
 **Other open issues (for next waves):**
-- #5 B9 writing task more structured (medium priority)
 - #2 H5 table completion / H6 sequencing (lower priority — H5 conflicts
   with #1 Sprechen naming; will coordinate)
-- #1 Sprechen tasks (high priority per issue, but #5/#2 first)
+- #1 Sprechen tasks (high priority per issue, but #2 first)
 
-**After H4 done: continue with the Merkasten retrofit for A2/07–12 (was the
+**After B9 done: continue with the Merkasten retrofit for A2/07–12 (was the
 "next batch" before this plan was reshuffled).**
 
 **Notes for B1 (for when we get there):**
