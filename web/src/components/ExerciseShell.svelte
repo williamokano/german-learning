@@ -46,9 +46,9 @@
   {#if exercise.type === 'gap-text'}
     <GapText bind:this={widgetRef} {exercise} {graded} {results} {lessonId} />
   {:else if exercise.type === 'single-choice'}
-    <SingleChoice bind:this={widgetRef} {exercise} {graded} {results} {lessonId} />
+    <SingleChoice bind:this={widgetRef} {exercise} {graded} {results} {lessonId} {audioDir} />
   {:else if exercise.type === 'true-false'}
-    <TrueFalse bind:this={widgetRef} {exercise} {graded} {results} {lessonId} />
+    <TrueFalse bind:this={widgetRef} {exercise} {graded} {results} {lessonId} {audioDir} />
   {:else}
     <p class="not-yet"><em>Widget für „{exercise.type}" kommt in P3.</em></p>
   {/if}

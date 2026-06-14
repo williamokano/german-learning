@@ -54,6 +54,7 @@ export const SingleChoice = Base.extend({
   type: z.literal('single-choice'),
   items: z.array(z.object({
     q: z.string(),
+    audio: z.string().optional(), // per-item clip (e.g. hoerzu1.mp3)
     options: z.array(Option).min(2),
     answer: z.string(),
     why: z.string().optional(),
@@ -66,6 +67,7 @@ export const TrueFalse = Base.extend({
   negativeLabel: z.string().default('Falsch'),
   items: z.array(z.object({
     q: z.string(),
+    audio: z.string().optional(), // per-item clip
     answer: z.boolean(),
     why: z.string().optional(),
   })),

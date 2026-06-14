@@ -46,7 +46,7 @@ exercises:                        # ordered; the generator and the page preserve
 | `type` | enum (§4) | selects the widget + the generator renderer + the engine checker. |
 | `title` | string | the human title after the em-dash in the heading. |
 | `instructions` | string? | rendered above the widget and in print under the heading. |
-| `audio` | string? | lesson-relative mp3 (e.g. `hoertext.mp3`); adds an `AudioPlay` to the exercise header. |
+| `audio` | string? | lesson-relative mp3 (e.g. `hoertext.mp3`); adds an `AudioPlay` to the exercise header. Use this when all items in the exercise depend on the same clip. If different items need different clips, put `audio` on each item instead (supported by `single-choice` and `true-false`). |
 | `recycledFrom` | string? | e.g. `"L2"`; printed as a `(L2)` tag (Block D recycling, see AUTHORING §Recycling). |
 | `notes` | string? | author note; printed only in `solutions.md`, never in the widget. |
 
@@ -127,6 +127,7 @@ const SingleChoice = Base.extend({
   type: z.literal('single-choice'),
   items: z.array(z.object({
     q: z.string(),
+    audio: z.string().optional(), // per-item clip (use when items reference different clips)
     options: z.array(Option).min(2),
     answer: z.string(),           // the correct option key
     why: z.string().optional(),   // printed in solutions.md
@@ -139,6 +140,7 @@ const TrueFalse = Base.extend({
   negativeLabel: z.string().default('Falsch'),
   items: z.array(z.object({
     q: z.string(),
+    audio: z.string().optional(), // per-item clip (same semantics as SingleChoice)
     answer: z.boolean(),
     why: z.string().optional(),
   })),

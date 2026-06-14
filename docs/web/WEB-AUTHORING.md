@@ -71,6 +71,12 @@ Full field reference: `CONTENT-MODEL.md §3`. Keep ids aligned with AUTHORING's 
 architecture (H1–H4, A1–A12, B1–B10, C1–C5, D1–D4). Answers may be a string or a
 list of accepted alternatives.
 
+> **Standalone rule:** the exercises page must work entirely on its own — it cannot
+> direct the learner to `lesson.md` for audio, context, or anything else. Every audio
+> clip that a question depends on must be embedded directly in the exercise via the
+> `audio` field (exercise-level or per-item). The learner may optionally revisit the
+> lesson page for deeper study, but that is never a requirement for answering.
+
 ### `gap-text` — free-fill (default `layout: inline`)
 ```yaml
 - id: C1
@@ -127,42 +133,88 @@ alternatives list for "also fine" and `notes`/`why` for the explanation.
 ```
 
 ### `single-choice` — MCQ (`optionLayout: inline` default; `block` for listening)
+
+**Exercise-level audio** (one shared clip, e.g. a dialog or Ansage):
 ```yaml
-- id: C2
-  block: C
-  type: single-choice
-  title: "Sprachbausteine Teil 1"
-  items:
-    - q: "(1) ______ Name ist Petra Lang."
-      options: [ {key: a, text: "Mein"}, {key: b, text: "Ich"}, {key: c, text: "Meine"} ]
-      answer: a
-      why: "„Mein Name“ — Name is masculine."
 - id: H4
   block: H
   type: single-choice
   optionLayout: block
-  title: "Kurze Ansage: Anruf von Petra"
-  audio: transcript_ansage1.mp3
-  transcript: "Hallo, hier ist Petra. … Bitte ruf mich zurück. … Meine Nummer ist vier-sieben-eins-eins."
+  title: “Kurze Ansage: Anruf von Petra”
+  audio: transcript_ansage1.mp3        # one clip for the whole exercise
+  transcript: “Hallo, hier ist Petra. … Bitte ruf mich zurück. … Meine Nummer ist vier-sieben-eins-eins.”
   items:
-    - q: "Wessen Nachricht ist das?"
-      options: [ {key: a, text: "Von Petra."}, {key: b, text: "Von Anna."}, {key: c, text: "Von Lisa."} ]
+    - q: “Wessen Nachricht ist das?”
+      options: [ {key: a, text: “Von Petra.”}, {key: b, text: “Von Anna.”}, {key: c, text: “Von Lisa.”} ]
       answer: a
 ```
 (`transcript` makes `gen-exercises` emit the `<details>` + `**Ansage 1 — Transcript**`
 block that `generate_audio.py` needs — `BUILD-PIPELINE.md §1.1`.)
 
-### `true-false` — Richtig/Falsch
+**Per-item audio** (each question depends on its own clip — e.g. Hör-zu Aussprache-Check):
 ```yaml
-- id: H1a
+- id: H1
+  block: H
+  type: single-choice
+  title: “Aussprache-Check”
+  instructions: “Höre den Clip und wähle die passende Antwort.”
+  # No exercise-level audio — each item brings its own clip
+  items:
+    - q: “Begrüßungen — was sagst du am Morgen?”
+      audio: hoerzu1.mp3               # per-item: rendered above the question
+      options: [ {key: a, text: “Guten Abend”}, {key: b, text: “Guten Morgen”}, {key: c, text: “Gute Nacht”} ]
+      answer: b
+    - q: “Zahlen 0–10 — welche Zahl kommt nach vier?”
+      audio: hoerzu4.mp3
+      options: [ {key: a, text: “fünf”}, {key: b, text: “sechs”}, {key: c, text: “sieben”} ]
+      answer: a
+```
+Use per-item audio whenever the items reference **different** audio clips. Never send the
+learner back to `lesson.md` for audio they need to answer a question.
+
+**Reading / no audio** (Sprachbausteine, grammar fill):
+```yaml
+- id: C2
+  block: C
+  type: single-choice
+  title: “Sprachbausteine Teil 1”
+  items:
+    - q: “(1) ______ Name ist Petra Lang.”
+      options: [ {key: a, text: “Mein”}, {key: b, text: “Ich”}, {key: c, text: “Meine”} ]
+      answer: a
+      why: “„Mein Name” — Name is masculine.”
+```
+
+### `true-false` — Richtig/Falsch
+
+**Shared clip** (all items about the same dialog):
+```yaml
+- id: H2
   block: H
   type: true-false
-  title: "Dialog Hör-Check: Dialog A (informell)"
-  audio: dialog1_a.mp3
+  title: "Dialog: Im Deutschkurs"
+  audio: dialog1_a.mp3          # one player above all items
   instructions: "Richtig (R) oder Falsch (F)?"
   items:
     - { q: "Anna kommt aus Russland.", answer: true,  why: "aus Jaroslawl." }
     - { q: "Bruno wohnt in München.",  answer: false, why: "Bruno wohnt in Berlin." }
+```
+
+**Per-item clip** (each statement refers to a different clip — same `audio` key as SingleChoice):
+```yaml
+- id: H2
+  block: H
+  type: true-false
+  title: "Hör-Check"
+  instructions: "Höre den Clip und entscheide."
+  items:
+    - audio: dialog1_a.mp3
+      q: "Anna kommt aus Russland."
+      answer: true
+    - audio: dialog1_b.mp3
+      q: "Frau Weber fragt nach dem Beruf."
+      answer: false
+      why: "Frau Weber fragt nach der Herkunft."
 ```
 
 ### `matching` — connect columns (extra rights = distractors)
@@ -260,6 +312,9 @@ table and the web `TestRunner` (`SCORING.md §6`).
       old printable style).
 - [ ] ran `generate_audio.py` on `lesson.md` then `exercises.md`.
 - [ ] inline `<AudioPlay>` only where there's no existing audio convention.
+- [ ] **exercises are standalone**: no exercise instruction says "listen in lesson.md"
+      or otherwise sends the learner to another page; every needed audio clip is
+      embedded via `audio` (exercise-level or per-item).
 - [ ] previewed the page; "Auswerten" reveals correctness only at the end.
 - [ ] committed all generated files alongside the source.
 

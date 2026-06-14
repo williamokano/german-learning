@@ -9,11 +9,13 @@
     graded,
     results,
     lessonId,
+    audioDir = '',
   }: {
     exercise: TrueFalseExercise;
     graded: boolean;
     results: ItemResult[];
     lessonId: string;
+    audioDir?: string;
   } = $props();
 
   // answers: { [itemIndex]: true | false | null }
@@ -72,7 +74,12 @@
 <div class="true-false">
   {#each exercise.items as item, i}
     {@const r = resultFor(i)}
-    <div class="item">
+    <div class="item" class:has-audio={!!item.audio}>
+      {#if item.audio}
+        <div class="item-audio">
+          <audio-play data-src="{audioDir}{item.audio}"></audio-play>
+        </div>
+      {/if}
       <span class="statement">{i + 1}. {item.q}</span>
       <span class="toggle">
         <button
@@ -109,6 +116,8 @@
     padding: 0.4rem 0;
     border-bottom: 1px solid #f3f4f6;
   }
+  .item.has-audio { flex-direction: column; align-items: flex-start; }
+  .item-audio { margin-bottom: 0.2rem; }
   .item:last-child { border-bottom: none; }
   .statement { flex: 1 1 14rem; }
   .toggle { display: inline-flex; border-radius: 6px; overflow: hidden; border: 1.5px solid #e5e7eb; }

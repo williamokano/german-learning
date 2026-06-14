@@ -9,11 +9,13 @@
     graded,
     results,
     lessonId,
+    audioDir = '',
   }: {
     exercise: SingleChoiceExercise;
     graded: boolean;
     results: ItemResult[];
     lessonId: string;
+    audioDir?: string;
   } = $props();
 
   // answers: { [itemIndex]: selectedKey | null }
@@ -70,6 +72,11 @@
   {#each exercise.items as item, i}
     {@const r = resultFor(i)}
     <div class="item" class:graded-item={graded}>
+      {#if item.audio}
+        <div class="item-audio">
+          <audio-play data-src="{audioDir}{item.audio}"></audio-play>
+        </div>
+      {/if}
       <p class="question"><strong>{i + 1}.</strong> {item.q}</p>
       <div class="options">
         {#each item.options as opt}
@@ -97,6 +104,7 @@
   .single-choice { display: flex; flex-direction: column; gap: 1.25rem; }
   .item { padding: 0.5rem 0; border-bottom: 1px solid #f3f4f6; }
   .item:last-child { border-bottom: none; }
+  .item-audio { margin-bottom: 0.4rem; }
   .question { margin: 0 0 0.5rem; }
   .options { display: flex; flex-wrap: wrap; gap: 0.4rem 1rem; }
   .option {

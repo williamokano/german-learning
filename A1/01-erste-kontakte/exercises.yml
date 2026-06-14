@@ -14,39 +14,42 @@ exercises:
     block: H
     type: single-choice
     title: "Aussprache-Check"
-    instructions: >
-      Höre die Hör-zu-Clips in lesson.md (Wortschatz → 🔊 Aussprache)
-      und wähle die passende Antwort.
+    instructions: "Höre den Clip und wähle die passende Antwort."
     items:
-      - q: "Hör zu 1 (Begrüßungen) — was sagst du am Morgen?"
+      - q: "Begrüßungen — was sagst du am Morgen?"
+        audio: hoerzu1.mp3
         options:
           - { key: a, text: "Guten Abend" }
           - { key: b, text: "Guten Morgen" }
           - { key: c, text: "Gute Nacht" }
         answer: b
         why: "Guten Morgen sagt man bis ca. 10–11 Uhr."
-      - q: "Hör zu 2 (Verabschiedungen) — was sagst du am Abend vor dem Schlafen?"
+      - q: "Verabschiedungen — was sagst du am Abend vor dem Schlafen?"
+        audio: hoerzu2.mp3
         options:
           - { key: a, text: "Auf Wiedersehen" }
           - { key: b, text: "Gute Nacht" }
           - { key: c, text: "Bis morgen" }
         answer: b
         why: "Gute Nacht sagt man nur vor dem Schlafen."
-      - q: "Hör zu 4 (Zahlen 0–10) — welche Zahl kommt nach vier?"
+      - q: "Zahlen 0–10 — welche Zahl kommt nach vier?"
+        audio: hoerzu4.mp3
         options:
           - { key: a, text: "fünf" }
           - { key: b, text: "sechs" }
           - { key: c, text: "sieben" }
         answer: a
         why: "vier → fünf → sechs."
-      - q: "Hör zu 5 (Zahlen 11–20) — welche Zahl ist zwölf?"
+      - q: "Zahlen 11–20 — welche Zahl ist zwölf?"
+        audio: hoerzu5.mp3
         options:
           - { key: a, text: "10" }
           - { key: b, text: "12" }
           - { key: c, text: "14" }
         answer: b
         why: "zwölf = 12 (unregelmäßige Schreibweise)."
-      - q: "Hör zu 3 (W-Fragewörter) — welches Fragewort fragt nach der Herkunft?"
+      - q: "W-Fragewörter — welches Fragewort fragt nach der Herkunft?"
+        audio: hoerzu3.mp3
         options:
           - { key: a, text: "Wo" }
           - { key: b, text: "Wer" }
