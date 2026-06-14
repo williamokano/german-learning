@@ -207,6 +207,18 @@ Note on #10: the sentence actually contains two errors — accept either fix; id
 7. Darf ich eine Frage stellen? (also fine: Darf ich kurz fragen?)
 8. Die Schüler dürfen während der Prüfung nicht sprechen.
 
+## B9 — Mein Traumjob (model answer)
+
+> Ich möchte Programmiererin werden. Ich muss dafür viel lernen
+> und Mathematik und Informatik studieren. Ich will auch ein
+> Praktikum in einer Firma machen, damit ich Erfahrung bekomme.
+> Später möchte ich in einem kleinen Team arbeiten und neue
+> Apps programmieren. Das wäre mein Traumjob!
+
+*(A correct answer: ≥1 profession with möchte/will werden, ≥1 müssen
+sentence, ≥1 wollen or dürfen sentence, ≥1 workplace. Any equivalent
+is accepted.)*
+
 ---
 
 # Block C

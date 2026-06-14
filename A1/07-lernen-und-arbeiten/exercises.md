@@ -330,16 +330,21 @@ Match each subject to a description. Write the number next to the letter.
 7. Was wollen wir nächstes Jahr machen? (einen Sprachkurs in Deutschland) → ______________________
 8. Muss Herr Brandt heute kommen? (nein — Arzttermin) → ______________________
 
-## Übung B9 — Übersetzen (EN → DE)
+## Übung B9 — Mein Traumjob
 
-1. I have to work today.
-2. She wants to become a doctor.
-3. You must not smoke here. (informal)
-4. We want to fill in the form.
-5. What do you want to do? (formal)
-6. He doesn't have to come — it's not obligatory.
-7. May I ask a question?
-8. The pupils must not talk during the exam.
+**Situation:** Du überlegst, welchen Beruf du später willst. Schreib
+**3–4 Sätze** über deinen Traumjob: was du werden willst, was du
+dafür tun musst, und was du darfst (z.B. im Praktikum).
+
+Use:
+- [ ] a profession with `Ich möchte … werden` or `Ich will … werden` — *Ich möchte Programmiererin werden.*
+- [ ] at least **1** sentence with `müssen` (*Ich muss … lernen / machen / arbeiten*)
+- [ ] at least **1** sentence with `wollen` or `dürfen` — *Ich will … / Ich darf …*
+- [ ] a workplace — *in einer Firma, in einem Krankenhaus, an der Universität*
+
+**Self-check before moving on:**
+- [ ] Did I use the **Satzklammer** (verb bracket) correctly — the modal in position 2 and the infinitive at the **end**?
+- [ ] Did I remember the **umlaut** in `müssen` (ich muss, du musst, er muss, wir müssen, ihr müsst, sie müssen)?
 
 ---
 
