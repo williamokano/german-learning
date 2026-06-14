@@ -431,17 +431,30 @@ Answer the questions in German.
 5. Wie findet Lisa das Buch? ______________________
 6. Wofür bedankt sich Lisa? ______________________
 
-## Übung B9 — `kaufen für + Akkusativ`
+## Übung B9 — Dank für ein Geschenk: WhatsApp an deine Tante
 
-Fill in **für** where needed. For each sentence, decide whether `kaufen` takes a true
-dative object or a `für + Akkusativ` phrase.
+**WhatsApp von deiner Tante Maria** *(Du hast diese Nachricht gerade bekommen)*:
+> Hallo mein Schatz! Ich habe dir ein kleines Geschenk geschickt —
+> ein Buch und eine Karte. Ich hoffe, es gefällt dir! Dein
+> Onkel Hans und ich haben dir auch noch Schokolade mitgebracht.
+> Wir sehen uns nächste Woche, oder? Liebe Grüße und bis bald!
+> Tante Maria
 
-1. Ich kaufe ein Buch ______ meinen Bruder.
-2. Er kauft Blumen ______ seine Frau.
-3. Sie kauft ein Geschenk ______ ihre Mutter.
-4. Wir kaufen Karten ______ unsere Freunde.
-5. Kaufst du etwas ______ deine Schwester?
-6. Sie kauft Schokolade ______ ihre Kinder.
+**Your task:** Antworte deiner Tante in **4–5 Sätzen** auf WhatsApp.
+Bedank dich herzlich für die Geschenke und erzähl, was du damit
+vorhast.
+
+Use:
+- [ ] at least **1** sentence with a **Dativ + Akkusativ** construction (two nouns) — *Ich schenke meiner Freundin … / Ich schicke meinem Bruder …*
+- [ ] at least **1** sentence with **Dativ pronoun + Akkusativ noun** (or vice versa) — *Ich schicke dir das Buch morgen.*
+- [ ] at least **1** sentence with **Akkusativ before Dativ** (when both are pronouns) — *Ich schicke es dir morgen.*
+- [ ] a thank-you phrase (*Vielen Dank für … / Das ist sehr nett von dir …*)
+
+**Self-check before moving on:**
+- [ ] Did I put the **Dativ** noun/pronoun **before** the Akkusativ noun (two nouns)?
+- [ ] Did I put the **pronoun before the noun** (when pronoun + noun)?
+- [ ] Did I put **Akkusativ before Dativ** when both are pronouns (e.g. *es dir, sie ihm*)?
+- [ ] Did I thank my aunt sincerely (not just "Danke")?
 
 ---
 

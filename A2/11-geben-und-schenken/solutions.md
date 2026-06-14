@@ -311,6 +311,19 @@ which take a true **dative object**: *Ich schenke **meinem Bruder** ein Buch* �
 *für meinen Bruder*. Both sentences have the same meaning, but the grammatical
 construction is different.
 
+## B9 — Dank für ein Geschenk: WhatsApp an deine Tante (model answer)
+
+> Liebe Tante Maria, vielen Dank für das Geschenk! Das Buch und die
+> Karte sind wirklich wunderschön — ich schenke meiner Schwester
+> das Buch, weil sie es schon lange wollte. Die Schokolade schicke
+> ich meinem Bruder morgen in die Arbeit. Ich freue mich sehr auf
+> nächste Woche! Vielen Dank nochmal und liebe Grüße zurück an
+> Onkel Hans. Bis bald! [Name]
+
+*(A correct reply: ≥1 Dat+Akk two-noun sentence, ≥1 pronoun+noun
+sentence, ≥1 pronoun+pronoun sentence (Akk before Dat), a thank-you
+phrase. Any equivalent is accepted.)*
+
 ---
 
 # Block C
