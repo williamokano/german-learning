@@ -53,9 +53,11 @@
 
   function chipClass(gi: number, ii: number): string {
     const group = exercise.groups[gi];
-    if (!graded) return answers[String(gi)] === ii ? 'selected' : '';
-    if (ii === group.odd) return 'graded-correct';
-    if (answers[String(gi)] === ii) return 'graded-wrong';
+    const sel = answers[String(gi)] ?? null;
+    if (!graded) return sel === ii ? 'selected' : '';
+    if (sel === ii && ii === group.odd) return 'graded-correct'; // picked + right
+    if (sel === ii && ii !== group.odd) return 'graded-wrong';   // picked + wrong
+    if (ii === group.odd) return 'graded-reveal';                // right but not picked
     return '';
   }
 </script>
@@ -109,6 +111,7 @@
   .chip.selected { border-color: #2563eb; background: #eff6ff; font-weight: 600; }
   .chip.graded-correct { border-color: #16a34a; background: #dcfce7; font-weight: 700; }
   .chip.graded-wrong   { border-color: #dc2626; background: #fee2e2; }
+  .chip.graded-reveal  { border: 2px dashed #16a34a; background: #f0fdf4; }
   .feedback { width: 100%; padding-left: 1.5rem; font-size: 0.875rem; }
   .ok  { color: #16a34a; font-weight: 700; }
   .err { color: #dc2626; font-weight: 600; }

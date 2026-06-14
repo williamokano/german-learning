@@ -61,12 +61,12 @@
   }
 
   function btnClass(index: number, value: boolean): string {
-    const sel = answers[String(index)];
+    const sel = answers[String(index)] ?? null;
     if (!graded) return sel === value ? 'active' : '';
-    const r = resultFor(index);
     const item = exercise.items[index];
-    if (value === item.answer) return 'graded-correct';
-    if (sel === value && !r?.correct) return 'graded-wrong';
+    if (sel === value && value === item.answer) return 'graded-correct'; // picked + right
+    if (sel === value && value !== item.answer) return 'graded-wrong';   // picked + wrong
+    if (value === item.answer) return 'graded-reveal';                   // right but not picked
     return '';
   }
 </script>
@@ -136,6 +136,7 @@
   .btn:disabled { cursor: default; }
   .btn.graded-correct { background: #dcfce7; color: #15803d; font-weight: 700; }
   .btn.graded-wrong   { background: #fee2e2; color: #dc2626; font-weight: 700; }
+  .btn.graded-reveal  { background: #f0fdf4; color: #15803d; }
   .verdict { font-size: 0.85rem; color: #374151; font-style: italic; flex-basis: 100%; padding-left: 0.25rem; }
   .verdict.ok { color: #16a34a; font-style: normal; font-weight: 700; }
 </style>

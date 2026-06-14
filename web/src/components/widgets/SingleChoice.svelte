@@ -59,11 +59,12 @@
   }
 
   function optionClass(index: number, optionKey: string): string {
-    if (!graded) return answers[String(index)] === optionKey ? 'selected' : '';
-    const r = resultFor(index);
+    const sel = answers[String(index)] ?? null;
+    if (!graded) return sel === optionKey ? 'selected' : '';
     const item = exercise.items[index];
-    if (optionKey === item.answer) return 'graded-correct';
-    if (answers[String(index)] === optionKey && !r?.correct) return 'graded-wrong';
+    if (sel === optionKey && optionKey === item.answer) return 'graded-correct'; // picked + right
+    if (sel === optionKey && optionKey !== item.answer) return 'graded-wrong';   // picked + wrong
+    if (optionKey === item.answer) return 'graded-reveal';                       // right but not picked
     return '';
   }
 </script>
@@ -123,6 +124,7 @@
   .option.selected { border-color: #2563eb; background: #eff6ff; font-weight: 500; }
   .option.graded-correct { border-color: #16a34a; background: #dcfce7; font-weight: 600; }
   .option.graded-wrong   { border-color: #dc2626; background: #fee2e2; }
+  .option.graded-reveal  { border: 2px dashed #16a34a; background: #f0fdf4; }
   .opt-key { color: #6b7280; font-size: 0.85em; }
   .why { margin: 0.4rem 0 0; font-size: 0.875rem; color: #374151; font-style: italic; }
   .why::before { content: "💡 "; }
