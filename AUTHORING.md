@@ -357,6 +357,63 @@ Mixed application: dialogue completion, **Finde den Fehler** (built from real
 L1-interference mistakes), question–answer matching, Satzbau (word order),
 categorizing, answering with cues, writing questions, EN→DE translation (A1–A2).
 
+**B9 — Contextualized writing task** (last exercise in Block B; replaces
+the older free-form "write 4–5 sentences" prompt). B9 is the low-stakes
+rehearsal for C5 Schreiben: same communicative goal, less structure,
+no model answer.
+
+*Format (copy exactly):*
+
+```markdown
+## Übung B9 — [short situation title]
+
+**[Genre]** *(one of: WhatsApp-Nachricht / E-Mail / Chatnachricht / Forenbeitrag / Kurze Notiz)*:
+> [2–4 sentence stimulus — a message you received, a photo description,
+> a forum post, a news snippet, a colleague's email. Sets up the writing
+> task by giving concrete content the student reacts to.]
+
+**Your task:** Write **[N]** sentences in German in reply. [One-sentence
+description of what the reply should accomplish — e.g. "Tell them about
+your own plans", "Describe the new colleague", "Recommend what to do".]
+
+Use:
+- [ ] [Structure 1 — e.g. "2 sentences with `werden` + Infinitiv"]
+- [ ] [Structure 2 — e.g. "1 sentence with a `wenn`-clause"]
+- [ ] [Structure 3 — e.g. "1 polite closing phrase"]
+
+**Self-check before moving on:**
+- [ ] [Form check 1 — e.g. "Did I put the verb at the end of each
+      subordinate clause?"]
+- [ ] [Form check 2 — e.g. "Did I use a comma before each subordinate
+      clause?"]
+```
+
+*Content rules:*
+
+- **Length:** A1 = 3–4 sentences. A2 = 4–5 sentences. B1+ = 5–6 sentences.
+- **Genre** should fit the lesson topic (WhatsApp for personal topics,
+  E-Mail for workplace topics, etc.) and the level (A1 = very informal
+  chat; A2 = WhatsApp or short email; B1+ = fuller email or forum post).
+- **The stimulus** is the key element: it must be a *different* voice
+  than the lesson's Dialog A/B speakers (so students don't just
+  paraphrase). Reuse lesson personas as the writer of the stimulus if
+  it fits (e.g. a classmate sending a WhatsApp about plans).
+- **Required structures** in the "Use" list pull from the lesson's
+  grammar/vocab — at least 2 structures from the current lesson, 1
+  from an earlier lesson. The list is the self-imposed constraint
+  that turns "write sentences" into a targeted production task.
+- **Self-check** checks *form* (did you do the grammar right?), not
+  *content* (did you say something sensible?). Form checks should be
+  specific to the structures the lesson taught.
+- **A1 lessons** drop the stimulus and use a simpler prompt: "Write
+  [N] sentences about [topic]. Use: [list]. Self-check: [form checks]."
+  A1 students aren't ready for full email/chat conventions yet.
+
+*Why this format:* students who only get "write 4 sentences" produce
+vague, low-retention output. A concrete stimulus + a structure checklist
++ a self-check convert B9 into a *targeted* production task that
+rehearses lesson grammar in a real communicative context.
+
 ### Block C — Prüfungstraining (5–6 exercises)
 
 Strictly telc/Goethe exam formats:
