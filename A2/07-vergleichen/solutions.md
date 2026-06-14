@@ -270,6 +270,18 @@
 1. Die Jacke ist teurer als das T-Shirt. Der Mantel ist am teuersten.
 2. Bruno ist älter als Anna. Herr Steinmeyer ist am ältesten.
 
+## B9 — Zwei Handytarife: E-Mail an einen Freund (model answer)
+
+> Hallo Tom, also ich finde Tarif B besser als Tarif A — er ist zwar
+> teurer, aber das Datenvolumen ist fünfmal so groß. Wenn du
+> viel streamst oder Videos schaust, ist Tarif B besser für dich.
+> Tarif A ist nur dann günstiger, wenn du wirklich selten das
+> Internet brauchst. Ich würde dir Tarif B empfehlen — er ist am
+> besten für deinen Alltag. LG, [Name]
+
+*(A correct reply: ≥2 Komparativ sentences, ≥1 `so … wie` equality,
+≥1 Superlativ, ≥1 irregular comparative. Any equivalent is accepted.)*
+
 ---
 
 # Block C — Prüfungstraining

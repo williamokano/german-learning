@@ -372,7 +372,31 @@ Look at the three items and write two comparison sentences (A > B and B > C).
    → ______________________
    → ______________________
 
----
+## Übung B9 — Zwei Handytarife: E-Mail an einen Freund
+
+**E-Mail von deinem Freund Tom** *(Du hast diese E-Mail gerade bekommen)*:
+> Hi! Ich überlege, ob ich den Handytarif wechseln soll. Tarif A
+> kostet 15 Euro im Monat mit 10 GB Datenvolumen. Tarif B kostet
+> 25 Euro im Monat mit 50 GB. Tarif A ist günstiger, aber Tarif B
+> ist schneller und hat mehr Datenvolumen. Ich kann mich nicht
+> entscheiden. Was meinst du? LG, Tom
+
+**Your task:** Antworte Tom in einer E-Mail in **4–5 Sätzen**. Vergleich
+die zwei Tarife und gib ihm deine Empfehlung.
+
+Use:
+- [ ] at least **2** Komparativ sentences (*X ist …er als Y.*) — using different adjectives
+- [ ] at least **1** sentence with `so … wie` (equality comparison)
+- [ ] at least **1** Superlativ sentence (*X ist am …sten.*) — your final recommendation
+- [ ] at least **1** of the irregular comparatives (*besser / lieber / mehr*)
+
+**Self-check before moving on:**
+- [ ] Did I form the Komparativ correctly — *-er* on most adjectives, with **umlaut** where required (*größer, teurer, schneller*)?
+- [ ] Did I use `als` (not `wann` or `wie`) for inequality?
+- [ ] Did I use `so … wie` (not `so … als`) for equality?
+- [ ] Did I form the Superlativ with `am …sten` (predicate)?
+
+------
 
 # Block C — Prüfungstraining
 
