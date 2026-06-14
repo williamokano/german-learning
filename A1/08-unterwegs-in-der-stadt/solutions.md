@@ -204,6 +204,17 @@ ihr **fahrt** (no umlaut!) · sie/Sie **fahren**
 7. Er kommt um sechs nach Hause.
 8. Ich bin heute zu Hause.
 
+## B9 — Nach dem Weg fragen (model answer)
+
+> Entschuldigung, können Sie mir bitte helfen? Ich suche den
+> Bahnhof. Gehen Sie hier geradeaus, dann nehmen Sie die zweite
+> Straße links. Mit der Straßenbahn dauert es ungefähr fünf
+> Minuten. Sie können auch zu Fuß gehen — dann sind es etwa
+> fünfzehn Minuten. Vielen Dank!
+
+*(A correct answer: polite opening, formal Sie, ≥1 transport phrase
+with mit+Dat, ≥1 direction chunk, ≥1 time. Any equivalent is accepted.)*
+
 ---
 
 # Block C

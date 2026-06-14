@@ -325,16 +325,22 @@ Write a question for each answer.
 5. — ______________________? — Der Zug fährt um acht Uhr ab.
 6. — ______________________? — Eine Fahrkarte kostet drei Euro.
 
-## Übung B9 — Übersetzen (EN → DE)
+## Übung B9 — Nach dem Weg fragen
 
-1. Excuse me, where is the station?
-2. Go straight ahead, then take the first street on the left. (Sie-form)
-3. I go to work by bike.
-4. How do I get to the airport?
-5. Take the S-Bahn and get off at the airport. (Sie-form)
-6. How long does the trip take? — Twenty minutes.
-7. He is coming home at six.
-8. I am at home today.
+**Situation:** Du bist Tourist in einer deutschen Stadt und suchst den
+Bahnhof. Frag eine Passantin nach dem Weg. Schreib in **3–4 Sätzen**,
+was du sie fragst und was sie antwortet.
+
+Use:
+- [ ] a polite opening — *Entschuldigung, … / Hallo, können Sie mir …?*
+- [ ] at least **1** way to get there — *mit dem Bus, mit der U-Bahn, mit der Straßenbahn, zu Fuß*
+- [ ] a direction chunk — *geradeaus, dann links/rechts, die erste/zweite Straße …*
+- [ ] at least **1** time — *fünf Minuten, zehn Minuten zu Fuß*
+
+**Self-check before moving on:**
+- [ ] Did I use the **formal `Sie`** (not `du`)? (Asking a stranger — formal.)
+- [ ] Did I use the right **vehicle preposition**: `mit dem` for buses/trains/etc., `mit der` for feminine ones (Straßenbahn, U-Bahn)?
+- [ ] Did I put the **verb in position 2** in every sentence?
 
 ---
 
