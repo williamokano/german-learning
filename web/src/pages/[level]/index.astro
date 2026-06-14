@@ -1,0 +1,51 @@
+---
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const all = await getCollection('lessons');
+  const levels = [...new Set(all.map(e => e.id.split('/')[0]))];
+  return levels.map(level => ({
+    params: { level },
+    props:  { lessons: all.filter(e => e.id.startsWith(level + '/')) },
+  }));
+}
+
+const { level }   = Astro.params;
+const { lessons } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const sorted = lessons
+  .map(e => ({ entry: e, slug: e.id.split('/')[1] }))
+  .sort((a, b) => a.slug.localeCompare(b.slug));
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{level} — Deutsch lernen</title>
+    <style>
+      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1rem; }
+      nav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
+      ul { list-style: none; padding: 0; margin-top: 1.5rem; }
+      li a { display: block; padding: 0.5rem 0.75rem; border-radius: 6px; color: #1a1a1a; text-decoration: none; }
+      li a:hover { background: #eff6ff; }
+      .slug { color: #6b7280; font-size: 0.85rem; margin-left: 0.5rem; }
+    </style>
+  </head>
+  <body>
+    <nav><a href={`${base}/`}>← Startseite</a></nav>
+    <h1>{level.toUpperCase()}</h1>
+    <ul>
+      {sorted.map(({ slug }) => (
+        <li>
+          <a href={`${base}/${level}/${slug}/`}>
+            {slug.replace(/^\d+-/, '').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}
+            <span class="slug">{slug}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </body>
+</html>

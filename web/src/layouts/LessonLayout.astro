@@ -1,0 +1,129 @@
+---
+interface Props {
+  title: string;
+  level: string;
+}
+const { title, level } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const displayLevel = level.toUpperCase();
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{title}</title>
+    <!-- is:global so slot/markdown content is styled (Astro doesn't add cid to slot HTML) -->
+    <style is:global>
+      *, *::before, *::after { box-sizing: border-box; }
+      body {
+        font-family: system-ui, sans-serif;
+        line-height: 1.7;
+        max-width: 52rem;
+        margin: 0 auto;
+        padding: 1rem 1.25rem 4rem;
+        color: #1a1a1a;
+      }
+      a { color: #2563eb; }
+
+      .lesson-nav {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        font-size: 0.875rem;
+        margin-bottom: 2rem;
+        flex-wrap: wrap;
+        color: #6b7280;
+      }
+      .lesson-nav a { color: #2563eb; text-decoration: none; }
+      .lesson-nav a:hover { text-decoration: underline; }
+
+      table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: 0.95rem; }
+      th, td { border: 1px solid #d1d5db; padding: 0.4rem 0.75rem; text-align: left; }
+      th { background: #f3f4f6; font-weight: 600; }
+
+      blockquote {
+        margin: 1rem 0;
+        padding: 0.4rem 1rem;
+        border-left: 3px solid #d1d5db;
+        color: #374151;
+      }
+      blockquote p { margin: 0.2rem 0; }
+
+      blockquote.merkasten {
+        border-left: 4px solid #2563eb;
+        background: #eff6ff;
+        padding: 1rem 1.25rem;
+        border-radius: 0 8px 8px 0;
+        margin: 1.5rem 0;
+      }
+      blockquote.merkasten > p:first-child { font-weight: 700; margin-bottom: 0.5rem; }
+      blockquote.merkasten table { margin: 0.5rem 0; }
+
+      details { margin: 1rem 0; }
+      details summary { cursor: pointer; font-weight: 600; padding: 0.4rem 0; color: #374151; }
+      details[open] summary { margin-bottom: 0.5rem; }
+
+      .hoerzu-words {
+        margin: 0.25rem 0 1rem;
+        padding: 0.5rem 1rem;
+        background: #f9fafb;
+        border-radius: 6px;
+        font-size: 0.95rem;
+      }
+      .hoerzu-label { font-weight: 600; margin-right: 0.4rem; }
+
+      audio-play {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        vertical-align: middle;
+        margin: 0.15rem 0;
+      }
+      .audio-label { font-size: 0.9rem; color: #374151; }
+      .audio-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 1.9rem;
+        height: 1.9rem;
+        border-radius: 50%;
+        border: 1.5px solid #2563eb;
+        background: #fff;
+        color: #2563eb;
+        cursor: pointer;
+        font-size: 0.7rem;
+        flex-shrink: 0;
+        transition: background 0.12s, color 0.12s;
+      }
+      .audio-btn:hover, .audio-btn[data-playing="1"] { background: #2563eb; color: #fff; }
+
+      code { background: #f3f4f6; padding: 0.1em 0.35em; border-radius: 3px; font-size: 0.9em; }
+      pre { background: #f3f4f6; padding: 1rem; border-radius: 6px; overflow-x: auto; }
+      pre code { background: none; padding: 0; }
+
+      h1 { font-size: 1.6rem; line-height: 1.25; }
+      h2 { font-size: 1.25rem; margin-top: 2.5rem; border-bottom: 1px solid #e5e7eb; padding-bottom: 0.25rem; }
+      h3 { font-size: 1.05rem; margin-top: 1.5rem; }
+      hr { border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0; }
+    </style>
+  </head>
+  <body>
+    <nav class="lesson-nav">
+      <a href={`${base}/`}>Startseite</a>
+      <span>›</span>
+      <a href={`${base}/${level}/`}>{displayLevel}</a>
+      <span>›</span>
+      <span>{title}</span>
+    </nav>
+    <article>
+      <slot />
+    </article>
+
+    <!-- audio-play web component — Vite inlines import.meta.env.BASE_URL at build time -->
+    <script>
+      import '../scripts/audio-play.js';
+    </script>
+  </body>
+</html>

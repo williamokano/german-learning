@@ -1,0 +1,31 @@
+---
+import { getCollection, render } from 'astro:content';
+import LessonLayout from '../../../layouts/LessonLayout.astro';
+
+export async function getStaticPaths() {
+  const all = await getCollection('lessons');
+  return all.map(entry => {
+    // entry.id: "A1/01-erste-kontakte/lesson.md" (or .mdx)
+    const parts = entry.id.split('/');
+    return {
+      params: { level: parts[0], lesson: parts[1] },
+      props:  { entry },
+    };
+  });
+}
+
+const { entry } = Astro.props;
+const { level, lesson } = Astro.params;
+
+// Derive human title from frontmatter or folder name.
+const title =
+  entry.data.title ??
+  lesson.replace(/^\d+-/, '').replace(/-/g, ' ')
+        .replace(/\b\w/g, c => c.toUpperCase());
+
+const { Content } = await render(entry);
+---
+
+<LessonLayout {title} level={level}>
+  <Content />
+</LessonLayout>
