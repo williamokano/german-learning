@@ -240,19 +240,19 @@ demands Akkusativ → `den`.
 3. Wir kennen die Dame, **die wir gestern getroffen haben**.
 4. Das ist das Kind, **das im Park spielt**.
 
-## B9 — Kurze Personenbeschreibung
+## B9 — Beschreib den neuen Praktikanten: WhatsApp an deine Kollegin
 
 *Model answer (70 words):*
 
-Meine Freundin Sofia ist 26 Jahre alt und kommt aus Spanien. Sie ist
-groß und schlank, hat lange dunkle Haare und braune Augen. Sofia ist
-eine Frau, die immer lächelt und sehr hilfsbereit ist. Sie ist genau
-die Person, die ich in schwierigen Momenten anrufe. Alle Leute, die sie
-kennen, mögen sie sofort. Ich finde sie sehr sympathisch.
+> Hi Sara, klar, mache ich! Der Praktikant heißt Marko und ist circa
+> 25 Jahre alt. Er ist groß und schlank, hat kurze dunkle Haare und
+> trägt eine schwarze Brille. Er ist ein netter Mann, der immer
+> freundlich lächelt. Du erkennst ihn bestimmt an dem schwarzen
+> Pullover, den er heute im Büro getragen hat. Bis später!
 
 *Self-check:* ✓ appearance (2 sentences) · ✓ character (1 sentence)
-· ✓ Nom relative clause (*die immer lächelt*) · ✓ Akk relative clause
-(*die ich anrufe* / *die sie kennen*).
+· ✓ Nom relative clause (*der immer freundlich lächelt*) · ✓ Akk
+relative clause (*den er heute getragen hat*).
 
 ---
 

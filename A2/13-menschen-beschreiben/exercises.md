@@ -350,27 +350,28 @@ Rewrite each sentence so the relative clause has the verb in the **last** positi
 3. Wir kennen die Dame, [die / wir / gestern / getroffen haben].
 4. Das ist das Kind, [das / im / spielt / Park].
 
-## Übung B9 — Kurze Personenbeschreibung
+## Übung B9 — Beschreib den neuen Praktikanten: WhatsApp an deine Kollegin
 
-You are writing a message to a friend introducing someone new in your life — a colleague, a classmate, or a neighbour. Write **4–5 sentences** about this person.
+**WhatsApp von deiner Kollegin Sara** *(Du hast diese Nachricht gerade bekommen)*:
+> Hey! Der neue Praktikant kommt heute Nachmittag am Flughafen an.
+> Ich kann ihn leider nicht abholen — schaffst du das? Wenn ja,
+> schick mir bitte eine kurze Beschreibung von ihm, damit ich
+> weiß, wie er aussieht. Ich habe ihn nämlich noch nie getroffen.
+> Danke dir! Sara
 
-**Your situation:** You just met someone interesting. Tell your friend: what the person looks like, what they are like as a person, and what they mean to you.
+**Your task:** Schreib Sara eine WhatsApp in **4–5 Sätzen**. Beschreib
+den Praktikanten (den du heute Morgen kurz im Büro gesehen hast) so,
+dass sie ihn am Flughafen wiedererkennen würde.
 
 Use:
-- at least **2** sentences about appearance (Aussehen)
-- at least **1** sentence about character (Charakter)
-- at least **2** relative clauses (one Nominativ, one Akkusativ)
+- [ ] at least **2** sentences about **appearance** (Aussehen) — with adjective+noun
+- [ ] at least **1** sentence about **character** (Charakter) — with `sein` + adjective
+- [ ] at least **2** relative clauses (one Nominativ: `der/die/das …`, one Akkusativ: `den/die/das …`)
 
 **Self-check before moving on:**
-- [ ] Did I use a comma before each relative clause?
-- [ ] Is the verb at the end of each relative clause?
-- [ ] Did I use `der/die/das` (Nom) vs. `den/die/das` (Akk) correctly?
-
-______________________________________________________
-______________________________________________________
-______________________________________________________
-______________________________________________________
-______________________________________________________
+- [ ] Did I use a **comma before** each relative clause?
+- [ ] Is the **verb at the end** of each relative clause?
+- [ ] Did I use `der/die/das` (Nom) vs. `den/die/das` (Akk) correctly for the relative pronouns?
 
 ---
 
