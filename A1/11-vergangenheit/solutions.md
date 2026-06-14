@@ -1,280 +1,173 @@
-# A1 · Lektion 11 — Lösungen (Answer key)
+# A1 · Lektion 11 — Lösungen
 
 ---
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check: Das Wochenende
+## Übung H1a — Dialog A (informell)
 
-### H1a — Dialog A (informell)
+1. **R** — Bruno sagt: „Ich bin am Samstag ins Kino gegangen."
+2. **R** — Bruno sagt: „Ich habe lange geschlafen, und dann habe ich Fußball gespielt."
+3. **F** — Anna hat eine Freundin besucht (weiblich) — nicht einen Freund.
 
-1. **R** — Bruno: „Ich bin am Samstag ins Kino gegangen."
-2. **R** — Bruno: „Ich habe lange geschlafen, und dann habe ich Fußball gespielt."
-3. **F** — Anna: „Ich habe eine **Freundin** besucht" (female friend — not „Freund").
+## Übung H1b — Dialog B (formell)
 
-### H1b — Dialog B (formell)
-
-4. **R** — Frau Weber: „Im Englischen Garten" (and earlier: „bin spazieren gegangen").
-5. **F** — Frau Weber: „Das Wetter war **herrlich**" (not schlecht).
+1. **R** — Frau Weber sagt: „bin spazieren gegangen" im Englischen Garten.
+2. **F** — Frau Weber sagt: „Das Wetter war herrlich" — nicht schlecht.
 
 ## Übung H3 — Hörtext-Lückentext
 
-Complete Hörtext:
+1. **Stadt**  2. **Café**  3. **Kaffee**  4. **Kino**  5. **Sonntag**  6. **Buch**
 
-> Am Samstag ist Anna mit ihrer Freundin Maria in die **Stadt** gefahren.
-> Sie haben ein neues **Café** gefunden und **Kaffee** getrunken. Am Nachmittag
-> ist Anna ins **Kino** gegangen. Der Film war gut. Am **Sonntag** hat sie
-> lange geschlafen und ein **Buch** gelesen.
+## Übung H4 — Kurze Ansage: Marias Wochenende
 
-Word bank in gap order: Stadt · Café · Kaffee · Kino · Sonntag · Buch.
-Not needed (distractors): Museum · Samstag · Tee.
-
-## H4 — Kurze Ansage: Marias Wochenende
-
-1. **a) Von Maria** — „Hallo Anna, hier ist Maria."
-2. **b) Ins Museum** — „Ich bin am Samstag ins Museum gegangen."
-3. **a) Sie hat Kaffee getrunken** — „Am Nachmittag habe ich im Café Kaffee getrunken."
-4. **b) Sie ist im Park spazieren gegangen** — „Am Sonntag bin ich mit meinem Freund spazieren gegangen. Wir haben den ganzen Tag im Park verbracht."
+1. **a) Von Maria.** — „Hallo Anna, hier ist Maria."
+2. **b) Ins Museum.** — „Ich bin am Samstag ins Museum gegangen."
+3. **a) Sie hat Kaffee getrunken.** — „Am Nachmittag habe ich im Café Kaffee getrunken."
+4. **b) Sie ist im Park spazieren gegangen.** — „Am Sonntag bin ich mit meinem Freund spazieren gegangen. Wir haben den ganzen Tag im Park verbracht."
 
 ---
 
-# Block A
+# Block A — Basistraining
 
-## Übung A1 — Partizip II: regular verbs
+## Übung A1 — Partizip II: regular verbs (ge-…-t)
 
-1. gemacht  2. gespielt  3. gekauft  4. gekocht  5. gehört  6. getanzt
-7. gelernt  8. besucht  9. gewohnt  10. gesagt  11. gearbeitet  12. fotografiert
+1. **gemacht**  2. **gespielt**  3. **gekauft**  4. **gekocht**  5. **gehört**  6. **getanzt**  7. **gelernt**  8. **besucht**  9. **gewohnt**  10. **gesagt**  11. **gearbeitet**  12. **fotografiert**
 
-⚠️ Item 11: `arbeiten` → `gearbeitet` (extra -e- because stem ends in -t).
-⚠️ Item 12: `fotografieren` → `fotografiert` (no ge- — `-ieren` verbs never take ge-).
+## Übung A2 — Partizip II: irregular verbs (ge-…-en)
 
-## Übung A2 — Partizip II: irregular verbs
+1. **gegessen**  2. **getrunken**  3. **geschlafen**  4. **gelesen**  5. **geschrieben**  6. **gesehen**  7. **genommen**  8. **gegangen**  9. **gefahren**  10. **gekommen**  11. **geblieben**  12. **gelaufen**
 
-1. gegessen  2. getrunken  3. geschlafen  4. gelesen  5. geschrieben  6. gesehen
-7. genommen  8. gegangen  9. gefahren  10. gekommen  11. geblieben  12. gelaufen
+## Übung A3 — `haben` or `sein`?
 
-⚠️ Item 7: `nehmen` → `genommen` (stem vowel e → o, double m).
-⚠️ Item 8: `gehen` → `gegangen` (completely new stem — memorize it!).
+1. **ist**  2. **hat**  3. **ist**  4. **haben**  5. **ist**  6. **hat**  7. **ist**  8. **hat**  9. **ist**  10. **ist**
 
-## Übung A3 — `hat` or `ist`?
+## Übung A4 — Perfekt: full conjugation table (machen)
 
-1. **ist** (gehen — motion to a place)
-2. **hat** (trinken — transitive)
-3. **ist** (aufstehen — change of state)
-4. **haben** — also correct: Wir **haben** Pizza gegessen. (transitive)
-5. **ist** (fahren — motion to a place)
-6. **hat** (schlafen — activity, no destination)
-7. **ist** (bleiben — special case, always sein)
-8. **hat** (lesen — transitive)
-9. **ist** (kommen — motion)
-10. **ist** (spazieren gehen — motion)
+1. **habe**  2. **gemacht**  3. **hast**  4. **gemacht**  5. **hat**  6. **gemacht**  7. **haben**  8. **gemacht**  9. **habt**  10. **gemacht**  11. **haben**  12. **gemacht**
 
-Note for item 4: in the table format the expected form is **hat** for the singular,
-but the sentence uses **wir** — so the answer is **haben**.
+## Übung A5 — Perfekt: full conjugation table (gehen)
 
-## Übung A4 — Perfekt of `machen`
+1. **bin**  2. **gegangen**  3. **bist**  4. **gegangen**  5. **ist**  6. **gegangen**  7. **sind**  8. **gegangen**  9. **seid**  10. **gegangen**  11. **sind**  12. **gegangen**
 
-| | Perfekt |
-|---|---|
-| ich | habe gemacht |
-| du | hast gemacht |
-| er/sie/es | hat gemacht |
-| wir | haben gemacht |
-| ihr | habt gemacht |
-| sie/Sie | haben gemacht |
+## Übung A6 — `war` and `hatte`: conjugation tables
 
-## Übung A5 — Perfekt of `gehen`
-
-| | Perfekt |
-|---|---|
-| ich | bin gegangen |
-| du | bist gegangen |
-| er/sie/es | ist gegangen |
-| wir | sind gegangen |
-| ihr | seid gegangen |
-| sie/Sie | sind gegangen |
-
-## Übung A6 — `war` and `hatte`
-
-| | war | | hatte |
-|---|---|---|---|
-| ich | war | ich | hatte |
-| du | warst | du | hattest |
-| er/sie/es | war | er/sie/es | hatte |
-| wir | waren | wir | hatten |
-| ihr | wart | ihr | hattet |
-| sie/Sie | waren | sie/Sie | hatten |
+1. **war**  2. **hatte**  3. **warst**  4. **hattest**  5. **war**  6. **hatte**  7. **waren**  8. **hatten**  9. **wart**  10. **hattet**  11. **waren**  12. **hatten**
 
 ## Übung A7 — `war` or `hatte`?
 
-1. **war** (weather = state of being)
-2. **hatte** (have = possession/state)
-3. **waren** (wir = plural of `war`)
-4. **war** (film = state)
-5. **Hattest** (du-form of `hatte`)
-6. **war** (friend = state)
-7. **hatten** (wir — wir hatten ein tolles Hotel)
-8. **war** (concert = state)
-9. **Hattet** (ihr-form of `hatte`)
-10. **war** (I was sick = state)
+1. **war**  2. **hatte**  3. **waren**  4. **war**  5. **Hattest**  6. **war**  7. **hatten**  8. **war**  9. **Hattet**  10. **war**
 
-## Übung A8 — Separable verbs: Partizip II
+## Übung A8 — Separable verbs in the Perfekt
 
-1. aufgestanden  2. eingekauft  3. angerufen  4. ferngesehen
-5. aufgeräumt  6. aufgemacht  7. eingeschlafen  8. angekommen
+1. **aufgestanden**  2. **eingekauft**  3. **angerufen**  4. **ferngesehen**  5. **aufgeräumt**  6. **aufgemacht**  7. **eingeschlafen**  8. **angekommen**
 
-Pattern: prefix + ge- + stem + t/en. The ge- goes between the prefix and the stem.
+## Übung A9 — Build the Perfekt sentence
 
-## Übung A9 — Build the sentence
+1. **Ich habe Hausaufgaben gemacht.**  2. **Wir haben Pizza gegessen.**  3. **Du bist ins Kino gegangen.**  4. **Er hat ein Buch gelesen.**  5. **Anna hat neue Schuhe gekauft.**  6. **Wir sind nach Berlin gefahren.**  7. **Ihr habt Musik gehört.**  8. **Ich bin um 8 Uhr aufgestanden.**
 
-1. Ich habe Hausaufgaben gemacht.
-2. Wir haben Pizza gegessen.
-3. Du bist ins Kino gegangen.
-4. Er hat ein Buch gelesen.
-5. Anna hat neue Schuhe gekauft.
-6. Wir sind nach Berlin gefahren.
-7. Ihr habt Musik gehört.
-8. Ich bin um 8 Uhr aufgestanden.
+## Übung A10 — Transformation drill: present → Perfekt
 
-## Übung A10 — Present → Perfekt
+1. **Ich habe Tennis gespielt.**  2. **Bruno hat Bier getrunken.**  3. **Wir sind ins Restaurant gegangen.**  4. **Anna hat Schuhe gekauft.**  5. **Er hat lange geschlafen.**  6. **Ihr seid nach München gefahren.**  7. **Ich habe eine Zeitung gelesen.**  8. **Sie hat die ganze Nacht getanzt.**  9. **Wir sind um 10 Uhr angekommen.**  10. **Er hat seine Mutter angerufen.**
 
-1. Ich habe Tennis gespielt.
-2. Bruno hat Bier getrunken.
-3. Wir sind ins Restaurant gegangen.
-4. Anna hat Schuhe gekauft.
-5. Er hat lange geschlafen.
-6. Ihr seid nach München gefahren.
-7. Ich habe eine Zeitung gelesen.
-8. Sie hat die ganze Nacht getanzt.
-9. Wir sind um 10 Uhr angekommen. (separable — ankomm- → angekommen)
-10. Er hat seine Mutter angerufen. (separable — anruf- → angerufen)
+## Übung A11 — Zeitausdrücke: choose the correct one
 
-## Übung A11 — Zeitausdrücke
+1. **letzte Woche**  2. **Zuerst**  3. **dann**  4. **gestern**  5. **im Urlaub**  6. **Danach**  7. **am Samstag**
 
-1. **letzte Woche** bin ich nach Wien gefahren.
-2. **Zuerst** habe ich gefrühstückt, **dann** bin ich ins Zentrum gegangen.
-3. Was hast du **gestern** gemacht?
-4. Wir haben **im Urlaub** in einem Hotel geschlafen.
-5. **Danach** haben wir ein Museum besucht.
-6. Er hat **am Samstag** Fußball gespielt.
+## Übung A12 — Mixed drill: Perfekt with sein and haben
 
-## Übung A12 — Mixed Perfekt drill
-
-1. Ich **habe** gestern lange **geschlafen**.
-2. Wir **haben** in einem Restaurant **gegessen**.
-3. Anna **ist** ins Konzert **gegangen**.
-4. **Hast** du ein Buch **gelesen**?
-5. Er **hat** viele Fotos **fotografiert**. (no ge- — `-ieren` verb)
-6. Wir **sind** nach München **gefahren**.
-7. Ich **habe** Musik **gehört**.
-8. Sie **ist** zu Hause **geblieben**. (`bleiben` always takes `sein`)
+1. **habe**  2. **geschlafen**  3. **haben**  4. **gegessen**  5. **ist**  6. **gegangen**  7. **Hast**  8. **gelesen**  9. **hat**  10. **fotografiert**  11. **sind**  12. **gefahren**  13. **habe**  14. **gehört**  15. **ist**  16. **geblieben**
 
 ---
 
-# Block B
+# Block B — Vertiefung
 
-## Übung B1 — Dialog: Nach dem Wochenende
+## Übung B1 — Dialog ergänzen: Nach dem Wochenende
 
-1. **war** (Wie war dein Wochenende?)
-2. **bin** (Ich bin ... gegangen)
-3. **gegangen** (ins Konzert gegangen)
-4. **war** (Wie war das Konzert?)
-5. **haben** (Wir haben ... gegessen)
-6. **gegessen** (gegessen)
-7. **habe** (Ich habe ... geschlafen)
-8. **geschlafen** (lange geschlafen)
-9. **habe** (habe ... besucht)
-10. **besucht** (meine Eltern besucht)
+1. **war**  2. **bin**  3. **gegangen**  4. **war**  5. **haben**  6. **gegessen**  7. **habe**  8. **geschlafen**  9. **habe**  10. **besucht**
 
-## Übung B2 — Dialog: Urlaub erzählen
+## Übung B2 — Dialog ergänzen: Urlaub erzählen
 
-1. **war** (Wie war Ihr Urlaub?)
-2. **sind** (Wir sind ... gefahren)
-3. **gefahren** (nach Spanien gefahren)
-4. **waren** (Wie lange waren Sie dort? — also fine: **blieben Sie**)
-5. **war** (Das Wetter war herrlich.)
-6. **sind** (Wir sind ... geschwommen)
-7. **geschwommen** (jeden Tag geschwommen)
-8. **Haben** (Haben Sie ... besucht?)
-9. **besucht** (Sehenswürdigkeiten besucht)
-10. **haben** (Wir haben ... besucht)
-11. **besucht** (ein Museum besucht)
-12. **fotografiert** (viele Fotos fotografiert — no ge-)
+1. **war**  2. **sind**  3. **gefahren**  4. **waren**  5. **war**  6. **sind**  7. **geschwommen**  8. **Haben**  9. **besucht**  10. **haben**  11. **besucht**  12. **fotografiert**
 
 ## Übung B3 — Finde den Fehler
 
-1. Ich **bin** ins Kino gegangen. → Auxiliary must be `sein` (not `habe`) for `gehen`.
-2. Wir **sind** nach Berlin gefahren. → `fahren` takes `sein`, not `haben`.
-3. Er hat ein Buch gelesen. → Delete the second `hat` — Partizip II at the end, no second auxiliary.
-4. Was hast **du** gemacht? → Subject must come after the auxiliary in a W-question (verb = 2nd, subject = 3rd).
-5. Ich **habe** Fußball gespielt. → `spielen` takes `haben`, not `bin`.
-6. Das Konzert **war** toll. → Correct form is just `war` — drop `hat … gewesen`.
-7. Wir **haben** Pizza gegessen. → `essen` takes `haben`, not `sein`.
-8. Ich bin um 7 Uhr **aufgestanden**. → Partizip II of `aufstehen` is `aufgestanden` (not `aufgestehen`).
-9. Er hat gestern seine Mutter **angerufen**. → Partizip II at the very end; also `angeruft` → **angerufen**.
-10. Das Wetter **war** herrlich. → `war` stands alone — drop `gewesen` (double past is not used with `war`).
+Modellantwort:
 
-## Übung B4 — Verbinden
+> 1. Ich bin ins Kino gegangen. — Auxiliary must be `sein` (not `habe`) for `gehen`.
+> 2. Wir sind nach Berlin gefahren. — `fahren` takes `sein`, not `haben`.
+> 3. Er hat ein Buch gelesen. — Delete the second `hat`; Partizip II at the end, no second auxiliary.
+> 4. Was hast du gemacht? — In a W-question, the subject comes after the auxiliary.
+> 5. Ich habe Fußball gespielt. — `spielen` takes `haben`, not `bin`.
+> 6. Das Konzert war toll. — Use `war` alone; drop `hat … gewesen`.
+> 7. Wir haben Pizza gegessen. — `essen` takes `haben`, not `sein`.
+> 8. Ich bin um 7 Uhr aufgestanden. — Partizip II of `aufstehen` is `aufgestanden`.
+> 9. Er hat seine Mutter angerufen. — Partizip II at the end + `angeruft` → `angerufen`.
+> 10. Das Wetter war herrlich. — Drop `gewesen`; no double past with `war`.
+
+## Übung B4 — Frage und Antwort verbinden
 
 1 → d · 2 → c · 3 → b · 4 → a · 5 → f · 6 → e · 7 → g · 8 → h
 
 ## Übung B5 — Satzbau
 
-1. Ich habe gestern Fußball gespielt.
-2. Bist du ins Kino gegangen?
-3. Wir haben im Restaurant Pizza gegessen. (also fine: Im Restaurant haben wir Pizza gegessen.)
-4. Er hat lange geschlafen.
-5. Wir sind letzten Samstag nach Berlin gefahren. (also fine: Letzten Samstag sind wir nach Berlin gefahren.)
-6. Ich habe die ganze Nacht Musik gehört. (also fine: Die ganze Nacht habe ich Musik gehört.)
-7. Um wie viel Uhr bist du aufgestanden?
-8. Anna hat am Sonntag ihre Eltern besucht. (also fine: Am Sonntag hat Anna ihre Eltern besucht.)
-9. War das Konzert toll?
-10. Wir hatten leider keine Zeit.
+1. ich habe gestern Fußball gespielt
+   _Ich habe gestern Fußball gespielt._
+2. bist du ins Kino gegangen ?
+   _Bist du ins Kino gegangen?_
+3. wir haben im Restaurant Pizza gegessen
+   _Wir haben im Restaurant Pizza gegessen._
+4. er hat lange geschlafen
+   _Er hat lange geschlafen._
+5. wir sind letzten Samstag nach Berlin gefahren
+   (auch richtig: letzten Samstag sind wir nach Berlin gefahren)
+   _Wir sind letzten Samstag nach Berlin gefahren._
+6. ich habe die ganze Nacht Musik gehört
+   (auch richtig: ich habe Musik die ganze Nacht gehört)
+   _Ich habe die ganze Nacht Musik gehört._
+7. um wie viel Uhr bist du aufgestanden ?
+   _Um wie viel Uhr bist du aufgestanden?_
+8. Anna hat am Sonntag ihre Eltern besucht
+   (auch richtig: Anna hat ihre Eltern am Sonntag besucht)
+   _Anna hat am Sonntag ihre Eltern besucht._
+9. war das Konzert toll ?
+   _War das Konzert toll?_
+10. wir hatten leider keine Zeit
+   _Wir hatten leider keine Zeit._
 
-## Übung B6 — Kategorien
+## Übung B6 — Kategorien: `haben` oder `sein`?
 
-| Perfekt mit `haben` | Perfekt mit `sein` |
-|---|---|
-| schlafen | gehen |
-| trinken | fahren |
-| essen | bleiben |
-| kaufen | kommen |
-| spielen | aufstehen |
-| lesen | laufen |
+**Perfekt mit `haben`:** **schlafen**, **trinken**, **essen**, **kaufen**, **spielen**, **lesen**
+**Perfekt mit `sein`:** **gehen**, **fahren**, **bleiben**, **kommen**, **aufstehen**, **laufen**
 
 ## Übung B7 — Fragen schreiben
 
-1. Was hast du gemacht? / Was hast du gestern gemacht?
-2. Bist du ins Kino gegangen? / Wohin bist du gegangen?
-3. Wie war das Wetter?
-4. Wohin sind Sie gefahren? / Wohin sind Sie letzten Woche gefahren?
-5. Wo habt ihr geschlafen?
-6. Wann bist du aufgestanden?
-7. Wie war das Konzert?
+Modellantwort:
 
-## Übung B8 — Antworten
+> 1. Was hast du gemacht? / Was hast du gestern gemacht?
+> 2. Bist du ins Kino gegangen? / Wohin bist du gegangen?
+> 3. Wie war das Wetter?
+> 4. Wohin sind Sie gefahren? / Wohin sind Sie letzten Woche gefahren?
+> 5. Wo habt ihr geschlafen?
+> 6. Wann bist du aufgestanden?
+> 7. Wie war das Konzert?
 
-1. Ich habe Fußball gespielt.
-2. Nein, ich bin zu Hause geblieben.
-3. Ich bin viel geschwommen und habe Museen besucht. (also fine in either order)
-4. Ich bin um 9 Uhr aufgestanden.
-5. Ja, wir haben sehr gut geschlafen.
-6. Sie hat neue Schuhe gekauft.
-7. Das Wetter war herrlich und warm.
-8. Ja, er hat seine Mutter angerufen.
+## Übung B8 — Answer with the cues
 
-## Übung B9 — Übersetzen
+Modellantwort:
 
-1. Ich habe gestern Fußball gespielt.
-2. Wir sind am Samstag ins Kino gegangen.
-3. Das Wetter war wunderbar.
-4. Sie hat lange geschlafen.
-5. Bist du ins Konzert gegangen?
-6. Wir haben im Restaurant gegessen und Wein getrunken.
-7. Er hat seine Eltern am Wochenende besucht.
-8. Ich bin um 7 Uhr aufgestanden.
+> 1. Ich habe Fußball gespielt.
+> 2. Nein, ich bin zu Hause geblieben.
+> 3. Ich bin viel geschwommen und habe Museen besucht.
+> 4. Ich bin um 9 Uhr aufgestanden.
+> 5. Ja, wir haben sehr gut geschlafen.
+> 6. Sie hat neue Schuhe gekauft.
+> 7. Das Wetter war herrlich und warm.
+> 8. Ja, er hat seine Mutter angerufen.
 
-## B9 — Was hast du gestern gemacht? (model answer)
+## Übung B9 — Was hast du gestern gemacht?
+
+Modellantwort:
 
 > Hallo Maria! Gestern war ein schöner Tag. Ich bin um acht Uhr
 > aufgestanden und habe gefrühstückt. Am Nachmittag habe ich
@@ -282,160 +175,103 @@ Pattern: prefix + ge- + stem + t/en. The ge- goes between the prefix and the ste
 > mit Freunden ferngesehen. Ich war sehr müde und bin um elf
 > Uhr schlafen gegangen. Bis bald!
 
-*(A correct answer: ≥2 Perfekt sentences, ≥1 time expression,
-≥1 separable verb in Perfekt form. Any equivalent is accepted.)*
+Selbstkorrektur:
+- [ ] Did I use the correct auxiliary: **bin** for movement/change (*gehen, fahren, fliegen, kommen*) and **habe** for everything else?
+- [ ] Did I put the **participle at the end** of the sentence?
+- [ ] For separable verbs: did I put the **prefix at the very end** (*Ich habe eingekauft* — not *Ich habe gekauft ein*)?
 
-## Übung B10 — Urlaub beschreiben (model answer)
+## Übung B10 — Urlaub beschreiben
+
+Modellantwort:
 
 > Letzten Sommer bin ich nach Wien gefahren. Ich war fünf Tage dort. Ich habe ein
 > Museum besucht und viele Fotos fotografiert. Ich bin viel spazieren gegangen und
 > habe gut gegessen. Abends habe ich Wein getrunken. Das Wetter war schön.
 
-Also fine: any order of events; varied connectors (zuerst / dann / danach);
-sentences with `war` instead of Perfekt for descriptions.
-
 ---
 
-# Block C
+# Block C — Prüfungstraining
 
 ## Übung C1 — Lückentext
 
-1. **habe** (habe ... gemacht — ich-form of haben)
-2. **habe** (habe ... eingekauft — transitive activity)
-3. **eingekauft** (separable: ein+ge+kauf+t)
-4. **habe** (habe ... besucht)
-5. **besucht** (besuchen → besucht)
-6. **haben** (wir-form)
-7. **getrunken** (trinken → getrunken)
-8. **gegessen** (essen → gegessen)
-9. **sind** (gehen takes sein)
-10. **gegangen** (gehen → gegangen)
+1. **habe**  2. **habe**  3. **eingekauft**  4. **habe**  5. **besucht**  6. **haben**  7. **getrunken**  8. **gegessen**  9. **sind**  10. **gegangen**
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-1. **a) möchte** — modal verb expressing desire/intention (`kann` and `muss` are possible logically, but `möchte` is the natural fit for "I want to tell you")
-2. **c) bin** — `gehen` takes `sein`
-3. **b) war** — simple past description of state; `wurde` means "became" (different meaning); `hat` needs a Partizip II after it
-4. **b) haben** — `essen` takes `haben` (wir-form)
-5. **a) habe gegessen** — ich-form; `essen` takes `haben`; option c) `geessen` is not a word (wrong participle form)
-6. **b) habe** — `schlafen` takes `haben` (it is an activity with no change of location); option a) `bin` is the classic learner error here — review section 4.4!
+1. **a) möchte** — "Ich möchte dir … erzählen" — the natural fit for "I want to tell you".
+2. **c) bin** — `gehen` takes `sein`.
+3. **b) war** — Simple past description of state: „war". `hat` needs a Partizip II after it.
+4. **b) haben** — `essen` takes `haben` (wir-form).
+5. **a) habe gegessen** — ich-form + `haben` + correct Partizip II `gegessen`.
+6. **b) habe** — `schlafen` takes `haben`; `bin` is the classic learner error here.
 
-## Übung C3 — Sprachbausteine Teil 2
+## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-1. **BIN** — Ich **bin** ins Konzert gegangen. (`gehen` takes `sein`)
-2. **GEGANGEN** — ins Konzert **gegangen** (Partizip II of `gehen`)
-3. **TOLL** — Das klingt **toll**!
-4. **WAR** — Die Musik **war** wunderbar.
-5. **WUNDERBAR** — Die Musik war **wunderbar**.
-6. **HABEN** — Danach **haben** wir gegessen. (wir-form; `essen` takes `haben`)
-7. **HAT** — Das Essen **hat** gut geschmeckt. (er/sie/es-form; `schmecken` takes `haben`)
-8. **HABE** — Ich **habe** lange geschlafen. (ich-form; `schlafen` takes `haben`)
-9. **GESCHLAFEN** — lange **geschlafen** (Partizip II of `schlafen`)
-10. **HABT** — **Habt** ihr etwas Schönes gemacht? (ihr-form of `haben`)
+1. **BIN**  2. **GEGANGEN**  3. **TOLL**  4. **WAR**  5. **WUNDERBAR**  6. **HABEN**  7. **HAT**  8. **HABE**  9. **GESCHLAFEN**  10. **HABT**
 
-Not needed: GEFAHREN · GEMACHT · IST · LANG · WAREN
+## Übung C4a — Lesen Text 1 — Mein letzter Urlaub
 
-## Übung C4 — Lesen
-
-**Text 1:**
-1. **F** — Die Person ist mit ihrer **Freundin** gefahren (not `Freund`, male).
+1. **F** — Die Person ist mit ihrer Freundin gefahren (weiblich) — nicht einem Freund.
 2. **R** — „Wir waren vier Tage dort."
 3. **F** — Sie haben das Zentrum besichtigt UND viele Fotos fotografiert UND sind ins Museum gegangen.
-4. **R** — „warm und sonnig"
+4. **R** — „warm und sonnig" — direct description.
 5. **R** — „Am letzten Tag haben wir im Supermarkt eingekauft — Schokolade und Kaffee als Souvenirs."
 
-**Text 2:**
-6. **b** — „mit meiner Schwester"
-7. **c** — „Am ersten Tag sind wir ins Museum gegangen"
-8. **a** — „Abends sind wir in ein Konzert gegangen" (am zweiten Tag)
-9. **b** — „Kaffee und Schokolade"
+## Übung C4b — Lesen Text 2 — Forum-Post: Hamburg
 
-## Übung C5 — Schreiben (model answer)
+1. **b) mit der Schwester gefahren** — „drei Tage mit meiner Schwester" — die Reise war nicht alleine.
+2. **c) ein Museum besucht** — „Am ersten Tag sind wir ins Museum gegangen".
+3. **a) sind sie ins Konzert gegangen** — „Abends sind wir in ein Konzert gegangen" (am zweiten Tag).
+4. **b) Kaffee und Schokolade** — „Dann haben wir eingekauft: Kaffee und Schokolade."
+
+## Übung C5 — Schreiben: Mein Wochenende / meine Reise
+
+Modellantwort:
 
 > Hallo Carlos!
->
+> 
 > Wie geht es dir? Ich möchte dir von meinem Wochenende erzählen. Am Samstag bin ich
 > mit Anna ins Konzert gegangen. Das Konzert war wunderbar! Danach haben wir in einem
 > kleinen Restaurant gegessen und Wein getrunken. Das Essen war sehr lecker.
 > Am Sonntag habe ich lange geschlafen — bis 10 Uhr! Dann habe ich meine Eltern
 > besucht. Das Wetter war herrlich. Es war ein tolles Wochenende!
->
+> 
 > Bis bald,
 > Bruno
 
-Self-check list:
-- Partizip II at the very end of the clause ✓
-- Correct auxiliary: `sein` for `gehen/fahren`, `haben` for `essen/schlafen/trinken/besuchen` ✓
-- `war` (not `ist gewesen`) for descriptions ✓
-- Time connectors used (danach, dann) ✓
-- Nouns capitalized ✓
-- Verb in position 2 in all statements ✓
+Selbstkorrektur:
+- [ ] Partizip II at the very end of the clause?
+- [ ] Correct auxiliary: `sein` for `gehen/fahren`, `haben` for `essen/schlafen/trinken/besuchen`?
+- [ ] `war` (not `ist gewesen`) for descriptions?
+- [ ] Time connectors used (danach, dann)?
+- [ ] Nouns capitalized?
+- [ ] Verb in position 2 in all statements?
 
 ---
 
-# Block D
+# Block D — Wiederholung & Selbsttest
 
-## Übung D1 — Schnelltest
+## Übung D1 — Gemischter Schnelltest (incl. earlier lessons)
 
-1. **gemacht**
-2. **gegangen**
-3. **ist** (gehen → sein)
-4. **war**
-5. **eingekauft** (ein+ge+kauf+t)
-6. **sprichst** (e → i — L1)
-7. **habe** (schlafen → haben)
-8. **geschrieben** (ei → ie)
-9. **habt** (ihr-form of haben — L2)
-10. **gestern**
-11. **fotografiert** (no ge-!)
-12. **Ich möchte einen Kaffee(, bitte).** (L3)
-13. **sind** (fahren → sein)
-14. **hatte**
-15. **müssen** (L7)
+1. **gemacht**  2. **gegangen**  3. **ist**  4. **war**  5. **eingekauft**  6. **sprichst**  7. **habe**  8. **geschrieben**  9. **habt**  10. **gestern**  11. **fotografiert**  12. **Ich möchte einen Kaffee.**  13. **sind**  14. **hatte**  15. **müssen**
 
 ## Übung D2 — Odd one out
 
-1. ~~gegangen~~ — takes `sein`; the others all take `haben`
-2. ~~ist~~ — present tense form of `sein`; the others are all past tense forms (`war`, `hatte`, `waren`)
-3. ~~schön~~ — adjective; the others are all time expressions
-4. ~~gefahren~~ — takes `sein`; the others (`gegessen`, `getrunken`, `geschlafen`) all take `haben`
-5. ~~gespielt~~ — Partizip II (verb form); the others are all nouns
-6. ~~kochen~~ — does not take `sein` in the Perfekt; the others (`gehen`, `fahren`, `bleiben`) all do
+1. ~~gegangen~~ — `gegangen` takes `sein`; the others all take `haben`.
+2. ~~ist~~ — `ist` is present tense of `sein`; the others are all past-tense forms.
+3. ~~schön~~ — `schön` is an adjective; the others are all time expressions.
+4. ~~gefahren~~ — `gefahren` takes `sein`; the others all take `haben`.
+5. ~~gespielt~~ — `gespielt` is a Partizip II (verb form); the others are all nouns.
+6. ~~kochen~~ — `kochen` does not take `sein` in the Perfekt; the others (`gehen`, `fahren`, `bleiben`) all do.
 
-## Übung D3 — Wiederholung
+## Übung D3 — Wiederholung früherer Lektionen
 
-1. (L1) **bin**
-2. (L2) **habt**
-3. (L3) **kein** Fleisch (noun → kein)
-4. (L5) **aufgestanden**
-5. (L7) **darfst** nicht schlafen
-6. (L8) **mit dem** Bus (mit + Dativ; der Bus → dem)
-7. (L1) Woher **kommst** du?
-8. (L3) **einen** Apfel (masculine accusative)
-9. (L2) **die Schwestern**
-10. (L6) gern (Ich spiele **gern** Fußball.)
+1. **bin**  2. **habt**  3. **kein**  4. **aufgestanden**  5. **darfst**  6. **mit dem**  7. **kommst**  8. **einen**  9. **die Schwestern**  10. **gern**
 
-## Übung D4 — Selbsttest
+## Übung D4 — Selbsttest (score yourself /20)
 
-1. **gespielt**
-2. **gegessen**
-3. **gegangen**
-4. **gefahren**
-5. **geschlafen**
-6. **eingekauft**
-7. **hat** (essen → haben)
-8. **ist** (gehen → sein)
-9. **haben** (schlafen → haben)
-10. **ist** (fahren → sein)
-11. **war**
-12. **hatte**
-13. Ich habe Kaffee getrunken.
-14. Wir sind ins Restaurant gegangen.
-15. **gestern**
-16. **anstrengend**
-17. **Es war super!** (also fine: Es war toll! / Es war wunderbar!)
-18. **wart** (ihr-form of `war`)
-19. **hatten** (sie/Sie-form of `hatten`)
-20. **Wie war dein Wochenende?**
+1. **gespielt**  2. **gegessen**  3. **gegangen**  4. **gefahren**  5. **geschlafen**  6. **eingekauft**  7. **hat**  8. **ist**  9. **haben**  10. **ist**  11. **war**  12. **hatte**  13. **Ich habe Kaffee getrunken.**  14. **Wir sind ins Restaurant gegangen.**  15. **gestern**  16. **anstrengend**  17. **Es war super!**  18. **wart**  19. **hatten**  20. **Wie war dein Wochenende?**
 
-**16+ / 20 → Lektion 12.** Below: redo Block A (especially A1–A6) and Block A9–A10 tomorrow, then retake the Selbsttest.
+---
+
+**16+ / 20 → go to the next Lektion.**

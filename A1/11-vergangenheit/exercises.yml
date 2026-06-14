@@ -1,0 +1,1002 @@
+lesson: A1/11
+title: "A1 · Lektion 11 — Übungen"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    items:
+      - q: "Bruno ist am Samstag ins Kino gegangen."
+        answer: true
+        why: 'Bruno sagt: „Ich bin am Samstag ins Kino gegangen."'
+      - q: "Am Sonntag hat Bruno Fußball gespielt."
+        answer: true
+        why: 'Bruno sagt: „Ich habe lange geschlafen, und dann habe ich Fußball gespielt."'
+      - q: "Anna hat einen Freund besucht."
+        answer: false
+        why: "Anna hat eine Freundin besucht (weiblich) — nicht einen Freund."
+
+  - id: H1b
+    block: H
+    type: true-false
+    title: "Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    items:
+      - q: "Frau Weber ist im Englischen Garten spazieren gegangen."
+        answer: true
+        why: 'Frau Weber sagt: „bin spazieren gegangen" im Englischen Garten.'
+      - q: "Das Wetter war schlecht."
+        answer: false
+        why: 'Frau Weber sagt: „Das Wetter war herrlich" — nicht schlecht.'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Höre den Text und fülle die 6 Lücken mit Wörtern aus der Box. Drei Wörter werden nicht gebraucht."
+    text: |
+      Am Samstag ist Anna mit ihrer Freundin Maria in die {1} gefahren.
+      Sie haben ein neues {2} gefunden und {3} getrunken. Am Nachmittag
+      ist Anna ins {4} gegangen. Der Film war gut. Am {5} hat sie
+      lange geschlafen und ein {6} gelesen.
+    bank: [Stadt, Café, Kaffee, Kino, Sonntag, Buch, Museum, Samstag, Tee]
+    answers:
+      "1": Stadt
+      "2": Café
+      "3": Kaffee
+      "4": Kino
+      "5": Sonntag
+      "6": Buch
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Marias Wochenende"
+    audio: transcript_ansage1.mp3
+    instructions: "Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    transcript: "Hallo Anna, hier ist Maria. Ich rufe an wegen meinem Wochenende. Ich bin am Samstag ins Museum gegangen und habe dort eine tolle Ausstellung gesehen. Am Nachmittag habe ich im Café Kaffee getrunken und ein Buch gelesen. Am Sonntag bin ich mit meinem Freund spazieren gegangen. Wir haben den ganzen Tag im Park verbracht. Bitte ruf mich zurück, damit ich dir mehr erzählen kann. Vielen Dank!"
+    items:
+      - q: "Wessen Nachricht ist das?"
+        options:
+          - { key: a, text: "Von Maria." }
+          - { key: b, text: "Von Anna." }
+          - { key: c, text: "Von Bruno." }
+        answer: a
+        why: '„Hallo Anna, hier ist Maria."'
+      - q: "Wohin ist Maria am Samstag gegangen?"
+        options:
+          - { key: a, text: "Ins Kino." }
+          - { key: b, text: "Ins Museum." }
+          - { key: c, text: "Ins Café." }
+        answer: b
+        why: '„Ich bin am Samstag ins Museum gegangen."'
+      - q: "Was hat Maria am Nachmittag im Café gemacht?"
+        options:
+          - { key: a, text: "Sie hat Kaffee getrunken." }
+          - { key: b, text: "Sie hat Wein getrunken." }
+          - { key: c, text: "Sie hat Kuchen gegessen." }
+        answer: a
+        why: '„Am Nachmittag habe ich im Café Kaffee getrunken."'
+      - q: "Was hat Maria am Sonntag gemacht?"
+        options:
+          - { key: a, text: "Sie hat ein Buch gelesen." }
+          - { key: b, text: "Sie ist im Park spazieren gegangen." }
+          - { key: c, text: "Sie hat Fußball gespielt." }
+        answer: b
+        why: '„Am Sonntag bin ich mit meinem Freund spazieren gegangen. Wir haben den ganzen Tag im Park verbracht."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Partizip II: regular verbs (ge-…-t)"
+    text: |
+      1. machen → {1}  2. spielen → {2}  3. kaufen → {3}  4. kochen → {4}
+      5. hören → {5}  6. tanzen → {6}  7. lernen → {7}  8. besuchen → {8}
+      9. wohnen → {9}  10. sagen → {10}  11. arbeiten → {11}  12. fotografieren → {12}
+    answers:
+      "1": gemacht
+      "2": gespielt
+      "3": gekauft
+      "4": gekocht
+      "5": gehört
+      "6": getanzt
+      "7": gelernt
+      "8": besucht
+      "9": gewohnt
+      "10": gesagt
+      "11": gearbeitet
+      "12": fotografiert
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Partizip II: irregular verbs (ge-…-en)"
+    text: |
+      1. essen → {1}  2. trinken → {2}  3. schlafen → {3}  4. lesen → {4}
+      5. schreiben → {5}  6. sehen → {6}  7. nehmen → {7}  8. gehen → {8}
+      9. fahren → {9}  10. kommen → {10}  11. bleiben → {11}  12. laufen → {12}
+    answers:
+      "1": gegessen
+      "2": getrunken
+      "3": geschlafen
+      "4": gelesen
+      "5": geschrieben
+      "6": gesehen
+      "7": genommen
+      "8": gegangen
+      "9": gefahren
+      "10": gekommen
+      "11": geblieben
+      "12": gelaufen
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`haben` or `sein`?"
+    instructions: "Write the correct form of `haben` or `sein` in the gap. Match the subject."
+    text: |
+      1. Er {1} ins Kino gegangen.
+      2. Sie {2} Kaffee getrunken.
+      3. Das Kind {3} um 7 Uhr aufgestanden.
+      4. Wir {4} Pizza gegessen.
+      5. Mein Freund {5} nach Berlin gefahren.
+      6. Anna {6} drei Stunden geschlafen.
+      7. Er {7} zu Hause geblieben.
+      8. Sie {8} ein Buch gelesen.
+      9. Bruno {9} um Mitternacht nach Hause gekommen.
+      10. Frau Weber {10} im Park spazieren gegangen.
+    answers:
+      "1": ist
+      "2": hat
+      "3": ist
+      "4": haben
+      "5": ist
+      "6": hat
+      "7": ist
+      "8": hat
+      "9": ist
+      "10": ist
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Perfekt: full conjugation table (machen)"
+    text: |
+      1. ich {1} {2}  2. du {3} {4}  3. er/sie/es {5} {6}
+      4. wir {7} {8}  5. ihr {9} {10}  6. sie/Sie {11} {12}
+    answers:
+      "1": habe
+      "2": gemacht
+      "3": hast
+      "4": gemacht
+      "5": hat
+      "6": gemacht
+      "7": haben
+      "8": gemacht
+      "9": habt
+      "10": gemacht
+      "11": haben
+      "12": gemacht
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Perfekt: full conjugation table (gehen)"
+    text: |
+      1. ich {1} {2}  2. du {3} {4}  3. er/sie/es {5} {6}
+      4. wir {7} {8}  5. ihr {9} {10}  6. sie/Sie {11} {12}
+    answers:
+      "1": bin
+      "2": gegangen
+      "3": bist
+      "4": gegangen
+      "5": ist
+      "6": gegangen
+      "7": sind
+      "8": gegangen
+      "9": seid
+      "10": gegangen
+      "11": sind
+      "12": gegangen
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`war` and `hatte`: conjugation tables"
+    text: |
+      1. ich (war) {1} · ich (hatte) {2}
+      2. du (war) {3} · du (hatte) {4}
+      3. er/sie/es (war) {5} · er/sie/es (hatte) {6}
+      4. wir (war) {7} · wir (hatte) {8}
+      5. ihr (war) {9} · ihr (hatte) {10}
+      6. sie/Sie (war) {11} · sie/Sie (hatte) {12}
+    answers:
+      "1": war
+      "2": hatte
+      "3": warst
+      "4": hattest
+      "5": war
+      "6": hatte
+      "7": waren
+      "8": hatten
+      "9": wart
+      "10": hattet
+      "11": waren
+      "12": hatten
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`war` or `hatte`?"
+    text: |
+      1. Das Wetter {1} sehr schön.
+      2. Ich {2} keine Zeit.
+      3. Wir {3} im Urlaub in Wien.
+      4. Der Film {4} langweilig.
+      5. {5} du Hunger?
+      6. Meine Freundin {6} sehr müde.
+      7. Wir {7} ein tolles Hotel.
+      8. Das Konzert {8} wunderbar.
+      9. {9} ihr viel Spaß?
+      10. Ich {10} letzte Woche krank.
+    answers:
+      "1": war
+      "2": hatte
+      "3": waren
+      "4": war
+      "5": Hattest
+      "6": war
+      "7": hatten
+      "8": war
+      "9": Hattet
+      "10": war
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Separable verbs in the Perfekt"
+    instructions: "Write the Partizip II of each separable verb. The ge- goes between the prefix and the stem."
+    text: |
+      1. aufstehen → {1}  2. einkaufen → {2}  3. anrufen → {3}  4. fernsehen → {4}
+      5. aufräumen → {5}  6. aufmachen → {6}  7. einschlafen → {7}  8. ankommen → {8}
+    answers:
+      "1": aufgestanden
+      "2": eingekauft
+      "3": angerufen
+      "4": ferngesehen
+      "5": aufgeräumt
+      "6": aufgemacht
+      "7": eingeschlafen
+      "8": angekommen
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Build the Perfekt sentence"
+    instructions: "Combine the elements into a complete Perfekt sentence."
+    text: |
+      1. ich / machen / Hausaufgaben → {1}
+      2. wir / essen / Pizza → {2}
+      3. du / gehen / ins Kino → {3}
+      4. er / lesen / ein Buch → {4}
+      5. Anna / kaufen / neue Schuhe → {5}
+      6. wir / fahren / nach Berlin → {6}
+      7. ihr / hören / Musik → {7}
+      8. ich / aufstehen / um 8 Uhr → {8}
+    answers:
+      "1": "Ich habe Hausaufgaben gemacht."
+      "2": "Wir haben Pizza gegessen."
+      "3": "Du bist ins Kino gegangen."
+      "4": "Er hat ein Buch gelesen."
+      "5": "Anna hat neue Schuhe gekauft."
+      "6": "Wir sind nach Berlin gefahren."
+      "7": "Ihr habt Musik gehört."
+      "8": "Ich bin um 8 Uhr aufgestanden."
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Transformation drill: present → Perfekt"
+    instructions: "Rewrite the sentence in the Perfekt."
+    text: |
+      1. Ich spiele Tennis. → {1}
+      2. Bruno trinkt Bier. → {2}
+      3. Wir gehen ins Restaurant. → {3}
+      4. Anna kauft Schuhe. → {4}
+      5. Er schläft lange. → {5}
+      6. Ihr fahrt nach München. → {6}
+      7. Ich lese eine Zeitung. → {7}
+      8. Sie tanzt die ganze Nacht. → {8}
+      9. Wir kommen um 10 Uhr an. → {9}
+      10. Er ruft seine Mutter an. → {10}
+    answers:
+      "1": "Ich habe Tennis gespielt."
+      "2": "Bruno hat Bier getrunken."
+      "3": "Wir sind ins Restaurant gegangen."
+      "4": "Anna hat Schuhe gekauft."
+      "5": "Er hat lange geschlafen."
+      "6": "Ihr seid nach München gefahren."
+      "7": "Ich habe eine Zeitung gelesen."
+      "8": "Sie hat die ganze Nacht getanzt."
+      "9": "Wir sind um 10 Uhr angekommen."
+      "10": "Er hat seine Mutter angerufen."
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Zeitausdrücke: choose the correct one"
+    instructions: "Fill in: gestern, letzte Woche, am Samstag, im Urlaub, zuerst, dann, danach."
+    text: |
+      1. Ich bin {1} nach Wien gefahren. (last week)
+      2. {2} habe ich gefrühstückt, {3} bin ich ins Zentrum gegangen.
+      3. Was hast du {4} gemacht? (yesterday)
+      4. Wir haben {5} in einem Hotel geschlafen. (on holiday)
+      5. {6} haben wir ein Museum besucht. (after that)
+      6. Er hat {7} Fußball gespielt. (on Saturday)
+    answers:
+      "1": "letzte Woche"
+      "2": Zuerst
+      "3": dann
+      "4": gestern
+      "5": "im Urlaub"
+      "6": Danach
+      "7": "am Samstag"
+
+  - id: A12
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Mixed drill: Perfekt with sein and haben"
+    instructions: "Fill in the correct auxiliary (habe/hat/haben/bin/ist/sind) and the Partizip II."
+    text: |
+      1. Ich {1} gestern lange {2} (schlafen).
+      2. Wir {3} in einem Restaurant {4} (essen).
+      3. Anna {5} ins Konzert {6} (gehen).
+      4. {7} du ein Buch {8} (lesen)?
+      5. Er {9} viele Fotos {10} (fotografieren).
+      6. Wir {11} nach München {12} (fahren).
+      7. Ich {13} Musik {14} (hören).
+      8. Sie {15} zu Hause {16} (bleiben).
+    answers:
+      "1": habe
+      "2": geschlafen
+      "3": haben
+      "4": gegessen
+      "5": ist
+      "6": gegangen
+      "7": Hast
+      "8": gelesen
+      "9": hat
+      "10": fotografiert
+      "11": sind
+      "12": gefahren
+      "13": habe
+      "14": gehört
+      "15": ist
+      "16": geblieben
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen: Nach dem Wochenende"
+    text: |
+      — Hallo Anna! Wie {1} dein Wochenende?
+      — Super! Ich {2} am Samstag ins Konzert {3}.
+      — Wirklich? Und wie {4} das Konzert?
+      — Wunderbar! Wir {5} danach auch noch in einem Restaurant {6}.
+      — Und am Sonntag?
+      — Ich {7} lange {8} und dann {9} ich meine Eltern {10}.
+    answers:
+      "1": war
+      "2": bin
+      "3": gegangen
+      "4": war
+      "5": haben
+      "6": gegessen
+      "7": habe
+      "8": geschlafen
+      "9": habe
+      "10": besucht
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen: Urlaub erzählen"
+    text: |
+      — Wie {1} Ihr Urlaub, Herr Yilmaz?
+      — Sehr schön! Wir {2} nach Spanien {3}.
+      — Toll! Wie lange {4} Sie dort?
+      — Eine Woche. Das Wetter {5} herrlich. Wir {6} jeden Tag {7} (schwimmen).
+      — {8} Sie auch Sehenswürdigkeiten {9}? (besuchen)
+      — Ja! Wir {10} ein Museum {11} und viele Fotos {12}.
+    answers:
+      "1": war
+      "2": sind
+      "3": gefahren
+      "4": waren
+      "5": war
+      "6": sind
+      "7": geschwommen
+      "8": Haben
+      "9": besucht
+      "10": haben
+      "11": besucht
+      "12": fotografiert
+
+  - id: B3
+    block: B
+    type: free-write
+    title: "Finde den Fehler"
+    instructions: "Each sentence has exactly one mistake. Find the error and write the full corrected sentence."
+    prompt: "For each sentence: find the single mistake and write the corrected version of the whole sentence."
+    stimulus: |
+      1. Ich habe ins Kino gegangen.
+      2. Wir haben nach Berlin gefahren.
+      3. Er hat ein Buch gelesen hat.
+      4. Was du hast gemacht?
+      5. Ich bin Fußball gespielt.
+      6. Sie hat das Konzert gewesen toll.
+      7. Wir sind Pizza gegessen.
+      8. Ich habe um 7 Uhr aufgestehen.
+      9. Er hat gestern angeruft seine Mutter.
+      10. Das Wetter war herrlich gewesen.
+    model: |
+      1. Ich bin ins Kino gegangen. — Auxiliary must be `sein` (not `habe`) for `gehen`.
+      2. Wir sind nach Berlin gefahren. — `fahren` takes `sein`, not `haben`.
+      3. Er hat ein Buch gelesen. — Delete the second `hat`; Partizip II at the end, no second auxiliary.
+      4. Was hast du gemacht? — In a W-question, the subject comes after the auxiliary.
+      5. Ich habe Fußball gespielt. — `spielen` takes `haben`, not `bin`.
+      6. Das Konzert war toll. — Use `war` alone; drop `hat … gewesen`.
+      7. Wir haben Pizza gegessen. — `essen` takes `haben`, not `sein`.
+      8. Ich bin um 7 Uhr aufgestanden. — Partizip II of `aufstehen` is `aufgestanden`.
+      9. Er hat seine Mutter angerufen. — Partizip II at the end + `angeruft` → `angerufen`.
+      10. Das Wetter war herrlich. — Drop `gewesen`; no double past with `war`.
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    left:
+      - { key: "1", text: "Was hast du gestern gemacht?" }
+      - { key: "2", text: "Wie war das Konzert?" }
+      - { key: "3", text: "Bist du ins Kino gegangen?" }
+      - { key: "4", text: "Wie lange wart ihr im Urlaub?" }
+      - { key: "5", text: "Hattest du Hunger?" }
+      - { key: "6", text: "Mit wem bist du gefahren?" }
+      - { key: "7", text: "Wo habt ihr geschlafen?" }
+      - { key: "8", text: "Wie war das Wetter?" }
+    right:
+      - { key: a, text: "Eine Woche." }
+      - { key: b, text: "Nein, ich bin zu Hause geblieben." }
+      - { key: c, text: "Es war wunderbar!" }
+      - { key: d, text: "Ich habe Fußball gespielt." }
+      - { key: e, text: "Mit meiner Freundin." }
+      - { key: f, text: "Ja, ich habe ein Sandwich gegessen." }
+      - { key: g, text: "In einem kleinen Hotel." }
+      - { key: h, text: "Es war super — warm und sonnig!" }
+    answers:
+      "1": d
+      "2": c
+      "3": b
+      "4": a
+      "5": f
+      "6": e
+      "7": g
+      "8": h
+
+  - id: B5
+    block: B
+    type: order
+    title: "Satzbau"
+    instructions: "Build correct Perfekt sentences. Pay attention to verb position and Partizip II at the end."
+    items:
+      - tiles: [habe, ich, gespielt, gestern, Fußball]
+        answer: [1, 0, 3, 4, 2]
+        note: "Ich habe gestern Fußball gespielt."
+      - tiles: [bist, "ins Kino", du, gegangen, "?"]
+        answer: [0, 2, 1, 3, 4]
+        note: "Bist du ins Kino gegangen?"
+      - tiles: [gegessen, haben, "im Restaurant", wir, Pizza]
+        answer: [3, 1, 2, 4, 0]
+        note: "Wir haben im Restaurant Pizza gegessen."
+      - tiles: [geschlafen, lange, er, hat]
+        answer: [2, 3, 1, 0]
+        note: "Er hat lange geschlafen."
+      - tiles: ["nach Berlin", gefahren, wir, sind, "letzten Samstag"]
+        answer: [2, 3, 4, 0, 1]
+        alt: [[4, 3, 2, 0, 1]]
+        note: "Wir sind letzten Samstag nach Berlin gefahren."
+      - tiles: [Musik, ich, habe, "die ganze Nacht", gehört]
+        answer: [1, 2, 3, 0, 4]
+        alt: [[1, 2, 0, 3, 4]]
+        note: "Ich habe die ganze Nacht Musik gehört."
+      - tiles: [aufgestanden, du, "um wie viel Uhr", bist, "?"]
+        answer: [2, 3, 1, 0, 4]
+        note: "Um wie viel Uhr bist du aufgestanden?"
+      - tiles: [Anna, hat, besucht, "ihre Eltern", "am Sonntag"]
+        answer: [0, 1, 4, 3, 2]
+        alt: [[0, 1, 3, 4, 2]]
+        note: "Anna hat am Sonntag ihre Eltern besucht."
+      - tiles: ["das Konzert", war, toll, "?"]
+        answer: [1, 0, 2, 3]
+        note: "War das Konzert toll?"
+      - tiles: [wir, hatten, "keine Zeit", leider]
+        answer: [0, 1, 3, 2]
+        note: "Wir hatten leider keine Zeit."
+
+  - id: B6
+    block: B
+    type: categorize
+    title: "Kategorien: `haben` oder `sein`?"
+    instructions: "Sort these 12 verbs into the two columns."
+    buckets:
+      - { key: haben, label: "Perfekt mit `haben`" }
+      - { key: sein, label: "Perfekt mit `sein`" }
+    tokens:
+      - { text: "gehen", bucket: sein }
+      - { text: "schlafen", bucket: haben }
+      - { text: "trinken", bucket: haben }
+      - { text: "fahren", bucket: sein }
+      - { text: "essen", bucket: haben }
+      - { text: "bleiben", bucket: sein }
+      - { text: "kaufen", bucket: haben }
+      - { text: "kommen", bucket: sein }
+      - { text: "spielen", bucket: haben }
+      - { text: "aufstehen", bucket: sein }
+      - { text: "lesen", bucket: haben }
+      - { text: "laufen", bucket: sein }
+
+  - id: B7
+    block: B
+    type: free-write
+    title: "Fragen schreiben"
+    instructions: "Write the question that fits each answer. Use the du-form unless marked (Sie)."
+    prompt: "For each item, write the matching question."
+    stimulus: |
+      1. ______________________? — Ich habe Fußball gespielt.
+      2. ______________________? — Ich bin ins Kino gegangen.
+      3. ______________________? — Das Wetter war super.
+      4. ______________________? (Sie) — Ich bin letzte Woche nach Wien gefahren.
+      5. ______________________? — Wir haben in einem Hotel geschlafen.
+      6. ______________________? — Ich bin um 7 Uhr aufgestanden.
+      7. ______________________? — Das Konzert war wunderbar.
+    model: |
+      1. Was hast du gemacht? / Was hast du gestern gemacht?
+      2. Bist du ins Kino gegangen? / Wohin bist du gegangen?
+      3. Wie war das Wetter?
+      4. Wohin sind Sie gefahren? / Wohin sind Sie letzten Woche gefahren?
+      5. Wo habt ihr geschlafen?
+      6. Wann bist du aufgestanden?
+      7. Wie war das Konzert?
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Answer with the cues"
+    instructions: "Answer in a full Perfekt sentence using the cue in brackets."
+    prompt: "For each question, write a complete Perfekt sentence that uses the cue."
+    stimulus: |
+      1. Was hast du gestern gemacht? (Fußball spielen)
+      2. Bist du ins Kino gegangen? (Nein — zu Hause bleiben)
+      3. Was haben Sie im Urlaub gemacht? (viel schwimmen + Museen besuchen)
+      4. Wann bist du aufgestanden? (um 9 Uhr)
+      5. Habt ihr gut geschlafen? (Ja — sehr gut)
+      6. Was hat Anna gekauft? (neue Schuhe)
+      7. Wie war das Wetter? (herrlich und warm)
+      8. Hat er seine Mutter angerufen? (Ja)
+    model: |
+      1. Ich habe Fußball gespielt.
+      2. Nein, ich bin zu Hause geblieben.
+      3. Ich bin viel geschwommen und habe Museen besucht.
+      4. Ich bin um 9 Uhr aufgestanden.
+      5. Ja, wir haben sehr gut geschlafen.
+      6. Sie hat neue Schuhe gekauft.
+      7. Das Wetter war herrlich und warm.
+      8. Ja, er hat seine Mutter angerufen.
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Was hast du gestern gemacht?"
+    instructions: "Du telefonierst mit deinem Bruder/deiner Schwester, der/die dich nach deinem Tag fragt. Schreib 3–4 Sätze und erzähl, was du gestern alles gemacht hast."
+    prompt: "Write 3–4 Perfekt sentences about your day yesterday. Include at least one time expression and at least one separable verb."
+    use:
+      - "at least 2 sentences in Perfekt (*habe … gemacht* / *bin … gegangen*)"
+      - "at least 1 time expression (*gestern, gestern Abend, am Nachmittag, am Morgen*)"
+      - "at least 1 separable verb in Perfekt form — *aufgestanden, eingekauft, ferngesehen, angefangen* (prefix flies to the end!)"
+    selfCheck:
+      - "Did I use the correct auxiliary: **bin** for movement/change (*gehen, fahren, fliegen, kommen*) and **habe** for everything else?"
+      - "Did I put the **participle at the end** of the sentence?"
+      - "For separable verbs: did I put the **prefix at the very end** (*Ich habe eingekauft* — not *Ich habe gekauft ein*)?"
+    model: |
+      Hallo Maria! Gestern war ein schöner Tag. Ich bin um acht Uhr
+      aufgestanden und habe gefrühstückt. Am Nachmittag habe ich
+      eingekauft und bin dann ins Café gegangen. Abends habe ich
+      mit Freunden ferngesehen. Ich war sehr müde und bin um elf
+      Uhr schlafen gegangen. Bis bald!
+
+  - id: B10
+    block: B
+    type: free-write
+    title: "Urlaub beschreiben"
+    instructions: "Read the cues and write 4–5 Perfekt sentences about this imaginary holiday."
+    prompt: "Write 4–5 connected sentences about an imaginary trip to Wien using the cues below."
+    stimulus: |
+      Wien · 5 Tage · Museum besuchen · viel spazieren gehen · gut essen ·
+      Wein trinken · viele Fotos fotografieren · schönes Wetter
+    model: |
+      Letzten Sommer bin ich nach Wien gefahren. Ich war fünf Tage dort. Ich habe ein
+      Museum besucht und viele Fotos fotografiert. Ich bin viel spazieren gegangen und
+      habe gut gegessen. Abends habe ich Wein getrunken. Das Wetter war schön.
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-bank
+    title: "Lückentext"
+    instructions: "Fill each gap with one word from the box. Five words are not needed."
+    text: |
+      Am Wochenende {1} ich viel gemacht. Am Samstag {2} ich zuerst im Supermarkt {3}. Dann {4} ich meine Freundin {5}. Wir {6} zusammen Kaffee {7} und einen Kuchen {8}. Am Abend {9} wir ins Kino {10}.
+    bank: [habe, eingekauft, besucht, haben, getrunken, gegessen, sind, gegangen, bin, gemacht, gekommen, gefahren, war]
+    answers:
+      "1": habe
+      "2": habe
+      "3": eingekauft
+      "4": habe
+      "5": besucht
+      "6": haben
+      "7": getrunken
+      "8": gegessen
+      "9": sind
+      "10": gegangen
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Ich (1) ____ dir von meinem Wochenende erzählen."
+        options:
+          - { key: a, text: "möchte" }
+          - { key: b, text: "muss" }
+          - { key: c, text: "kann" }
+        answer: a
+        why: '"Ich möchte dir … erzählen" — the natural fit for "I want to tell you".'
+      - q: "Am Samstag (2) ____ ich mit Anna ins Konzert gegangen."
+        options:
+          - { key: a, text: "habe" }
+          - { key: b, text: "hat" }
+          - { key: c, text: "bin" }
+        answer: c
+        why: "`gehen` takes `sein`."
+      - q: "Das Konzert (3) ____ super!"
+        options:
+          - { key: a, text: "wurde" }
+          - { key: b, text: "war" }
+          - { key: c, text: "hat" }
+        answer: b
+        why: 'Simple past description of state: „war". `hat` needs a Partizip II after it.'
+      - q: "Danach (4) ____ wir in einem Restaurant gegessen."
+        options:
+          - { key: a, text: "sind" }
+          - { key: b, text: "haben" }
+          - { key: c, text: "hatten" }
+        answer: b
+        why: "`essen` takes `haben` (wir-form)."
+      - q: "Ich (5) ____ Pasta und Anna hat Fisch genommen."
+        options:
+          - { key: a, text: "habe gegessen" }
+          - { key: b, text: "bin gegessen" }
+          - { key: c, text: "habe geessen" }
+        answer: a
+        why: "ich-form + `haben` + correct Partizip II `gegessen`."
+      - q: "Am Sonntag (6) ____ ich lange geschlafen — bis 11 Uhr!"
+        options:
+          - { key: a, text: "bin" }
+          - { key: b, text: "habe" }
+          - { key: c, text: "hatte" }
+        answer: b
+        why: "`schlafen` takes `haben`; `bin` is the classic learner error here."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once."
+    text: |
+      — Hallo Anna! Ich {1} am Samstag ins Konzert {2}.
+      — Oh, wirklich? Das klingt {3}!
+      — Ja! Die Musik {4} wirklich {5}. Danach {6} wir in
+      einem Restaurant gegessen. Das Essen {7} auch sehr gut geschmeckt.
+      — Und am Sonntag?
+      — Ich {8} lange {9} — bis Mittag! Und ihr? {10} ihr
+      etwas Schönes gemacht?
+      — Wir sind nach Köln gefahren. Es war schön!
+    bank: [BIN, GEFAHREN, GEGANGEN, GEMACHT, GESCHLAFEN, HABT, HABE, HABEN, HAT, IST, LANG, TOLL, WAR, WAREN, WUNDERBAR]
+    answers:
+      "1": BIN
+      "2": GEGANGEN
+      "3": TOLL
+      "4": WAR
+      "5": WUNDERBAR
+      "6": HABEN
+      "7": HAT
+      "8": HABE
+      "9": GESCHLAFEN
+      "10": HABT
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 — Mein letzter Urlaub"
+    instructions: 'Read „Mein letzter Urlaub" in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    items:
+      - q: "Die Person ist mit einem Freund nach Wien gefahren."
+        answer: false
+        why: "Die Person ist mit ihrer Freundin gefahren (weiblich) — nicht einem Freund."
+      - q: "Sie waren vier Tage in Wien."
+        answer: true
+        why: '„Wir waren vier Tage dort."'
+      - q: "Am ersten Tag haben sie nur Fotos fotografiert."
+        answer: false
+        why: "Sie haben das Zentrum besichtigt UND viele Fotos fotografiert UND sind ins Museum gegangen."
+      - q: "Das Wetter war warm und sonnig."
+        answer: true
+        why: '„warm und sonnig" — direct description.'
+      - q: "Am letzten Tag haben sie Souvenirs eingekauft."
+        answer: true
+        why: '„Am letzten Tag haben wir im Supermarkt eingekauft — Schokolade und Kaffee als Souvenirs."'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 — Forum-Post: Hamburg"
+    instructions: |
+      > Hallo zusammen! Letzten Sommer hatte ich endlich Zeit für einen richtigen Urlaub.
+      > Ich bin nach Hamburg gefahren — drei Tage mit meiner Schwester. Am ersten Tag sind
+      > wir ins Museum gegangen und haben viel gesehen. Das war super interessant! Am
+      > zweiten Tag haben wir eine Stadtführung gemacht und viel fotografiert. Abends sind
+      > wir in ein Konzert gegangen. Die Musik war toll! Am letzten Tag haben wir im Hafen
+      > Fisch gegessen — sehr lecker! Dann haben wir eingekauft: Kaffee und Schokolade.
+      > Ich war sehr müde nach der Reise, aber auch sehr glücklich. Hamburg ist wirklich
+      > toll!
+
+      Choose a, b, or c.
+    items:
+      - q: "Die Person ist …"
+        options:
+          - { key: a, text: "alleine gefahren" }
+          - { key: b, text: "mit der Schwester gefahren" }
+          - { key: c, text: "mit dem Bruder gefahren" }
+        answer: b
+        why: '„drei Tage mit meiner Schwester" — die Reise war nicht alleine.'
+      - q: "Am ersten Tag haben sie …"
+        options:
+          - { key: a, text: "ein Konzert besucht" }
+          - { key: b, text: "Fisch gegessen" }
+          - { key: c, text: "ein Museum besucht" }
+        answer: c
+        why: '„Am ersten Tag sind wir ins Museum gegangen".'
+      - q: "Am zweiten Abend …"
+        options:
+          - { key: a, text: "sind sie ins Konzert gegangen" }
+          - { key: b, text: "haben sie eingekauft" }
+          - { key: c, text: "sind sie ins Museum gegangen" }
+        answer: a
+        why: '„Abends sind wir in ein Konzert gegangen" (am zweiten Tag).'
+      - q: "Was haben sie als Souvenirs gekauft?"
+        options:
+          - { key: a, text: "Fisch und Brot" }
+          - { key: b, text: "Kaffee und Schokolade" }
+          - { key: c, text: "Bücher und Musik" }
+        answer: b
+        why: '„Dann haben wir eingekauft: Kaffee und Schokolade."'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Mein Wochenende / meine Reise"
+    instructions: "Write a short message (6–8 sentences) to a friend about your last weekend or a recent trip. Include: where you went, what you did, how the weather was, one thing you ate or drank, and how you felt."
+    prompt: "Write 6–8 sentences to a friend about a recent weekend or trip. Include where you went, what you did, the weather, something you ate or drank, and how you felt."
+    selfCheck:
+      - "Partizip II at the very end of the clause?"
+      - "Correct auxiliary: `sein` for `gehen/fahren`, `haben` for `essen/schlafen/trinken/besuchen`?"
+      - "`war` (not `ist gewesen`) for descriptions?"
+      - "Time connectors used (danach, dann)?"
+      - "Nouns capitalized?"
+      - "Verb in position 2 in all statements?"
+    model: |
+      Hallo Carlos!
+
+      Wie geht es dir? Ich möchte dir von meinem Wochenende erzählen. Am Samstag bin ich
+      mit Anna ins Konzert gegangen. Das Konzert war wunderbar! Danach haben wir in einem
+      kleinen Restaurant gegessen und Wein getrunken. Das Essen war sehr lecker.
+      Am Sonntag habe ich lange geschlafen — bis 10 Uhr! Dann habe ich meine Eltern
+      besucht. Das Wetter war herrlich. Es war ein tolles Wochenende!
+
+      Bis bald,
+      Bruno
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest (incl. earlier lessons)"
+    instructions: "One minute per item. No notes."
+    text: |
+      1. Partizip II of `machen`: {1}
+      2. Partizip II of `gehen`: {2}
+      3. `sein` or `haben`? „Er {3} ins Kino gegangen."
+      4. `war` or `hatte`? „Das Wetter {4} schön."
+      5. (L5) Partizip II of `einkaufen`: {5}
+      6. (L1) du-form of `sprechen`: {6}
+      7. `sein` or `haben`? „Ich {7} lange geschlafen."
+      8. Partizip II of `schreiben`: {8}
+      9. (L2) ihr-form of `haben`: {9}
+      10. "Yesterday" auf Deutsch: {10}
+      11. Partizip II of `fotografieren`: {11}
+      12. (L3) "I'd like a coffee" → {12}
+      13. `sein` or `haben`? „Wir {13} nach Berlin gefahren."
+      14. `war` or `hatte`? „Ich {14} keine Zeit."
+      15. (L7) Modal verb for obligation: {15}
+    answers:
+      "1": gemacht
+      "2": gegangen
+      "3": ist
+      "4": war
+      "5": eingekauft
+      "6": sprichst
+      "7": habe
+      "8": geschrieben
+      "9": habt
+      "10": gestern
+      "11": fotografiert
+      "12": "Ich möchte einen Kaffee."
+      "13": sind
+      "14": hatte
+      "15": müssen
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Cross out the word that doesn't fit and say why."
+    groups:
+      - items: [gespielt, gemacht, gegangen, gearbeitet]
+        odd: 2
+        why: "`gegangen` takes `sein`; the others all take `haben`."
+      - items: [war, hatte, ist, waren]
+        odd: 2
+        why: "`ist` is present tense of `sein`; the others are all past-tense forms."
+      - items: [gestern, "letzten Montag", "am Wochenende", schön]
+        odd: 3
+        why: "`schön` is an adjective; the others are all time expressions."
+      - items: [gegessen, getrunken, gefahren, geschlafen]
+        odd: 2
+        why: "`gefahren` takes `sein`; the others all take `haben`."
+      - items: [Urlaub, Reise, Wochenende, gespielt]
+        odd: 3
+        why: "`gespielt` is a Partizip II (verb form); the others are all nouns."
+      - items: [gehen, fahren, bleiben, kochen]
+        odd: 3
+        why: "`kochen` does not take `sein` in the Perfekt; the others (`gehen`, `fahren`, `bleiben`) all do."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Wiederholung früherer Lektionen"
+    text: |
+      1. (L1) ich-form of `sein`: {1}
+      2. (L2) ihr-form of `haben`: {2}
+      3. (L3) „Ich esse {3} Fleisch." (negative article)
+      4. (L5) Partizip II of `aufstehen`: {4}
+      5. (L7) Modal: „Du {5} nicht schlafen." (dürfen)
+      6. (L8) „Ich fahre {6} Bus." (preposition for transport)
+      7. (L1) „Woher {7} du?" (kommen)
+      8. (L3) Masculine accusative: „Ich nehme {8} Apfel." (ein)
+      9. (L2) Plural of `die Schwester`: {9}
+      10. (L6) „Ich spiele {10} Fußball." (gern)
+    answers:
+      "1": bin
+      "2": habt
+      "3": kein
+      "4": aufgestanden
+      "5": darfst
+      "6": "mit dem"
+      "7": kommst
+      "8": einen
+      "9": "die Schwestern"
+      "10": gern
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion 12. Below: redo Block A (especially A1–A6) and Block A9–A10 tomorrow, then retake the Selbsttest."
+    text: |
+      Partizip II:
+      1. spielen → {1}  2. essen → {2}  3. gehen → {3}
+      4. fahren → {4}  5. schlafen → {5}  6. einkaufen → {6}
+
+      Auxiliary (`hat` or `ist`):
+      7. Er {7} Pizza gegessen.
+      8. Sie {8} nach Hause gegangen.
+      9. Wir {9} lange geschlafen.
+      10. Er {10} nach Wien gefahren.
+
+      `war` or `hatte`:
+      11. Das Konzert {11} toll.
+      12. Ich {12} keine Zeit.
+
+      Complete Perfekt sentences (write the full sentence):
+      13. ich / trinken / Kaffee → {13}
+      14. wir / gehen / ins Restaurant → {14}
+
+      Vocabulary:
+      15. "yesterday" → {15}
+      16. "exhausting" → {16}
+      17. "It was great!" → {17}
+
+      `war`-conjugation:
+      18. ihr-form of `war`: {18}
+      19. sie/Sie-form of `hatten`: {19}
+
+      Phrase:
+      20. "How was your weekend?" (informal) → {20}
+    answers:
+      "1": gespielt
+      "2": gegessen
+      "3": gegangen
+      "4": gefahren
+      "5": geschlafen
+      "6": eingekauft
+      "7": hat
+      "8": ist
+      "9": haben
+      "10": ist
+      "11": war
+      "12": hatte
+      "13": "Ich habe Kaffee getrunken."
+      "14": "Wir sind ins Restaurant gegangen."
+      "15": gestern
+      "16": anstrengend
+      "17": "Es war super!"
+      "18": wart
+      "19": hatten
+      "20": "Wie war dein Wochenende?"
