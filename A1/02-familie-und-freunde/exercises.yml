@@ -1,0 +1,974 @@
+lesson: A1/02
+title: "A1 · Lektion 2 — Übungen"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Anna zeigt Bruno ein Foto."
+        answer: true
+        why: 'Bruno fragt: „Anna, ist das deine Familie auf dem Foto?" — Anna zeigt ihm das Foto.'
+      - q: "Auf dem Foto sind Annas Eltern."
+        answer: true
+        why: 'Anna sagt: „Das sind meine Eltern" — die Eltern sind auf dem Foto.'
+      - q: "Annas Schwester heißt Claudia."
+        answer: false
+        why: "Annas Schwester heißt Lena; Claudia ist die Mutter."
+      - q: "Annas Oma ist dreiundachtzig Jahre alt."
+        answer: true
+        why: 'Anna sagt: „Das ist meine Oma Erika. Sie ist dreiundachtzig."'
+
+  - id: H1b
+    block: H
+    type: true-false
+    title: "Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - { q: "Herr Steinmeyer hat zwei Kinder.", answer: false, why: "Herr Steinmeyer hat eine Tochter, nicht zwei Kinder." }
+      - q: "Seine Tochter heißt Sofia."
+        answer: true
+        why: 'Herr Steinmeyer sagt: „Sie heißt Sofia."'
+      - { q: "Frau Weber ist verheiratet.", answer: false, why: "Frau Weber ist geschieden, nicht verheiratet." }
+      - q: "Herr Steinmeyers Frau kommt aus Salzburg."
+        answer: true
+        why: 'Herr Steinmeyer sagt: „Meine Frau kommt auch aus Österreich, aus Salzburg."'
+
+  - id: H2
+    block: H
+    type: single-choice
+    title: "Aussprache-Check"
+    instructions: "Listen to the Hör zu clips in lesson.md (Wortschatz → 🔊 Aussprache) and pick the matching answer."
+    items:
+      - q: "Hör zu 1 (Familie) — who is the father of your mother?"
+        audio: hoerzu1.mp3
+        options:
+          - { key: a, text: "der Bruder" }
+          - { key: b, text: "der Großvater" }
+          - { key: c, text: "der Onkel" }
+        answer: b
+        why: "the father of your mother = your mother's father = der Großvater."
+      - q: "Hör zu 1 (Familie) — your mother's sister is …"
+        audio: hoerzu1.mp3
+        options:
+          - { key: a, text: "die Tante" }
+          - { key: b, text: "die Schwester" }
+          - { key: c, text: "die Großmutter" }
+        answer: a
+        why: "Mutter's sister = die Tante (not die Schwester, which is your sister)."
+      - q: "Hör zu 2 (Zahlen 20–100) — what comes after fünfzig?"
+        audio: hoerzu2.mp3
+        options:
+          - { key: a, text: "vierzig" }
+          - { key: b, text: "sechzig" }
+          - { key: c, text: "achtzig" }
+        answer: b
+        why: "fünfzig → sechzig → siebzig (the regular tens pattern)."
+      - q: "Hör zu 2 (Zahlen 20–100) — what's the number siebzig?"
+        audio: hoerzu2.mp3
+        options:
+          - { key: a, text: "60" }
+          - { key: b, text: "70" }
+          - { key: c, text: "80" }
+        answer: b
+        why: "siebzig = 70."
+      - q: "Hör zu 3 (Possessivpronomen) — which word means \"my\"?"
+        audio: hoerzu3.mp3
+        options:
+          - { key: a, text: "mein" }
+          - { key: b, text: "dein" }
+          - { key: c, text: "sein" }
+        answer: a
+        why: "ich → mein (the \"I\" form of the possessive)."
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Höre den Text und fülle die Lücken. Fünf Wörter passen nicht."
+    text: |
+      Das ist Familie {1}. Der Vater heißt {2}. Er kommt aus
+      Deutschland, aus {3}. Die Mutter heißt Maria. Sie kommt aus
+      Österreich, aus Wien. Sie haben zwei Kinder: einen Sohn und eine
+      Tochter. Der Sohn heißt Max — er ist {4} Jahre alt und ledig. Die
+      Tochter heißt Lisa — sie ist {5} und hat ein Kind. Die
+      Großmutter heißt {6} und wohnt auch in München.
+    bank: [Bergmann, Eva, Helmut, München, Thomas, verheiratet, Leipzig, zwanzig, zwölf]
+    answers:
+      "1": Bergmann
+      "2": Thomas
+      "3": München
+      "4": zwanzig
+      "5": verheiratet
+      "6": Eva
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Mama kommt am Wochenende"
+    audio: transcript_ansage1.mp3
+    instructions: "Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    transcript: "Hallo Anna, hier ist Mama. Ich rufe an wegen dem Wochenende. Wir möchten dich am Samstag besuchen. Wir kommen mit dem Zug um vierzehn Uhr an. Dein Vater und ich haben eine Überraschung für dich. Dein Bruder kommt auch mit. Bitte ruf mich zurück, damit ich weiß, ob der Termin passt. Vielen Dank und bis Samstag!"
+    items:
+      - q: "Wessen Nachricht ist das?"
+        options:
+          - { key: a, text: "Von Mama." }
+          - { key: b, text: "Von Anna." }
+          - { key: c, text: "Von Oma." }
+        answer: a
+        why: 'Hallo Anna, hier ist Mama.'
+      - q: "Wann möchte die Familie kommen?"
+        options:
+          - { key: a, text: "Am Freitag." }
+          - { key: b, text: "Am Samstag." }
+          - { key: c, text: "Am Sonntag." }
+        answer: b
+        why: 'Wir möchten dich am Samstag besuchen.'
+      - q: "Womit kommt die Familie?"
+        options:
+          - { key: a, text: "Mit dem Auto." }
+          - { key: b, text: "Mit dem Zug." }
+          - { key: c, text: "Mit dem Bus." }
+        answer: b
+        why: 'Wir kommen mit dem Zug um vierzehn Uhr an.'
+      - q: "Wer kommt mit?"
+        options:
+          - { key: a, text: "Der Bruder." }
+          - { key: b, text: "Die Schwester." }
+          - { key: c, text: "Der Opa." }
+        answer: a
+        why: 'Dein Bruder kommt auch mit.'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`haben`: Konjugationstabelle"
+    text: "ich {1} · du {2} · er/sie/es {3} · wir {4} · ihr {5} · sie/Sie {6}"
+    answers:
+      "1": habe
+      "2": hast
+      "3": hat
+      "4": haben
+      "5": habt
+      "6": haben
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`haben` in Sätzen"
+    text: |
+      1. Ich {1} eine Schwester.
+      2. {2} du Geschwister?
+      3. Anna {3} einen Bruder.
+      4. Wir {4} zwei Kinder.
+      5. {5} ihr Fotos?
+      6. Meine Eltern {6} ein Haus.
+      7. {7} Sie Kinder, Frau Lang?
+      8. Mein Bruder {8} ein Baby.
+      9. Du {9} eine große Familie.
+      10. Ich {10} zwei Brüder.
+    answers:
+      "1": habe
+      "2": Hast
+      "3": hat
+      "4": haben
+      "5": Habt
+      "6": haben
+      "7": Haben
+      "8": hat
+      "9": hast
+      "10": habe
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "mein oder meine?"
+    text: |
+      1. {1} Vater  2. {2} Mutter  3. {3} Eltern  4. {4} Bruder
+      5. {5} Schwester  6. {6} Kind  7. {7} Großeltern  8. {8} Onkel
+      9. {9} Tante  10. {10} Baby
+    answers:
+      "1": Mein
+      "2": Meine
+      "3": Meine
+      "4": Mein
+      "5": Meine
+      "6": Mein
+      "7": Meine
+      "8": Mein
+      "9": Meine
+      "10": Mein
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "sein (his) oder ihr (her)? Add -e where needed."
+    text: |
+      1. Das ist Bruno. {1} Frau heißt Paula.
+      2. Das ist Anna. {2} Bruder heißt Felix.
+      3. Das ist Felix. {3} Schwester ist siebzehn.
+      4. Das ist Lena. {4} Eltern heißen Georg und Claudia.
+      5. Das ist Herr Steinmeyer. {5} Tochter heißt Sofia.
+      6. Das ist Frau Lang. {6} Mann kommt aus den USA.
+      7. Das sind Georg und Claudia. {7} Kinder sind super. (their!)
+      8. Das ist mein Bruder. {8} Baby ist süß.
+      9. Das ist meine Oma. {9} Name ist Erika.
+      10. Das sind Anna und Lena. {10} Vater heißt Georg. (their!)
+    answers:
+      "1": Seine
+      "2": Ihr
+      "3": Seine
+      "4": Ihre
+      "5": Seine
+      "6": Ihr
+      "7": Ihre
+      "8": Sein
+      "9": Ihr
+      "10": Ihr
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "unser, euer, Ihr"
+    instructions: "The owner is in brackets. Watch out for euer → eure!"
+    text: |
+      1. {1} Familie ist groß. (wir)
+      2. {2} Vater heißt Georg. (wir)
+      3. Ist das {3} Mutter? (ihr = you all)
+      4. {4} Kinder sind nett. (ihr)
+      5. Wie heißt {5} Bruder? (ihr)
+      6. Frau Weber, ist das {6} Sohn? (Sie)
+      7. Herr Lang, wie heißt {7} Frau? (Sie)
+      8. {8} Oma ist dreiundachtzig. (wir)
+    answers:
+      "1": Unsere
+      "2": Unser
+      "3": eure
+      "4": Eure
+      "5": euer
+      "6": Ihr
+      "7": Ihre
+      "8": Unsere
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Plural"
+    text: |
+      der Bruder → die {1} · die Schwester → die {2} · das Kind → die {3} ·
+      der Mann → die {4} · die Frau → die {5} · der Sohn → die {6} ·
+      die Tochter → die {7} · das Baby → die {8} · der Vater → die {9} ·
+      die Mutter → die {10} · der Opa → die {11} · der Freund → die {12}
+    answers:
+      "1": Brüder
+      "2": Schwestern
+      "3": Kinder
+      "4": Männer
+      "5": Frauen
+      "6": Söhne
+      "7": Töchter
+      "8": Babys
+      "9": Väter
+      "10": Mütter
+      "11": Opas
+      "12": Freunde
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Zahlen: write as words"
+    text: |
+      21 = {1} · 30 = {2} · 36 = {3} · 44 = {4} · 57 = {5} ·
+      60 = {6} · 68 = {7} · 75 = {8} · 99 = {9} · 100 = {10}
+    answers:
+      "1": einundzwanzig
+      "2": dreißig
+      "3": sechsunddreißig
+      "4": vierundvierzig
+      "5": siebenundfünfzig
+      "6": sechzig
+      "7": achtundsechzig
+      "8": fünfundsiebzig
+      "9": neunundneunzig
+      "10": "(ein)hundert"
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Zahlen: write as digits"
+    text: |
+      zweiunddreißig = {1} · einundsechzig = {2} · dreiundachtzig = {3} ·
+      vierhundert = {4} · achthundertfünfzig = {5} · tausend = {6} ·
+      siebzehn = {7} · fünfundneunzig = {8}
+    answers:
+      "1": "32"
+      "2": "61"
+      "3": "83"
+      "4": "400"
+      "5": "850"
+      "6": "1000"
+      "7": "17"
+      "8": "95"
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Make yes/no questions"
+    instructions: "Example: Du hast Geschwister. → Hast du Geschwister?"
+    text: |
+      1. Du hast Geschwister. → {1}
+      2. Anna ist verheiratet. → {2}
+      3. Ihr habt Kinder. → {3}
+      4. Sie kommen aus Brasilien. (formal) → {4}
+      5. Dein Bruder wohnt in Berlin. → {5}
+      6. Du bist ledig. → {6}
+      7. Deine Schwester spricht Englisch. → {7}
+      8. Wir sind im Deutschkurs. → {8}
+    answers:
+      "1": Hast du Geschwister?
+      "2": Ist Anna verheiratet?
+      "3": Habt ihr Kinder?
+      "4": Kommen Sie aus Brasilien?
+      "5": Wohnt dein Bruder in Berlin?
+      "6": Bist du ledig?
+      "7": Spricht deine Schwester Englisch?
+      "8": Sind wir im Deutschkurs?
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Negate with `nicht`"
+    text: |
+      1. Ich bin verheiratet. → {1}
+      2. Mein Bruder wohnt in Hamburg. → {2}
+      3. Das ist meine Schwester. → {3}
+      4. Wir kommen aus Spanien. → {4}
+      5. Anna ist ledig. → {5}
+      6. Ich heiße Paul. → {6}
+      7. Meine Oma ist alt. → {7}
+      8. Das Baby heißt Emma. → {8}
+    answers:
+      "1": Ich bin nicht verheiratet.
+      "2": Mein Bruder wohnt nicht in Hamburg.
+      "3": Das ist nicht meine Schwester.
+      "4": Wir kommen nicht aus Spanien.
+      "5": Anna ist nicht ledig.
+      "6": Ich heiße nicht Paul.
+      "7": Meine Oma ist nicht alt.
+      "8": Das Baby heißt nicht Emma.
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "haben oder sein?"
+    text: |
+      1. Ich {1} fünfundzwanzig Jahre alt.
+      2. Ich {2} zwei Schwestern.
+      3. {3} du verheiratet?
+      4. {4} du Kinder?
+      5. Meine Eltern {5} ein Haus in Spanien.
+      6. Mein Opa {6} siebzig Jahre alt.
+      7. Wir {7} eine große Familie.
+      8. Ihr {8} sehr nett.
+      9. {9} Sie Geschwister, Herr Braun?
+      10. Das {10} meine Cousine.
+    answers:
+      "1": bin
+      "2": habe
+      "3": Bist
+      "4": Hast
+      "5": haben
+      "6": ist
+      "7": haben
+      "8": seid
+      "9": Haben
+      "10": ist
+
+  - id: A12
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Paare: write the female counterpart with article"
+    text: |
+      1. der Vater ↔ {1}  2. der Bruder ↔ {2}  3. der Sohn ↔ {3}
+      4. der Opa ↔ {4}  5. der Onkel ↔ {5}  6. der Mann ↔ {6}
+      7. der Cousin ↔ {7}  8. der Enkel ↔ {8}
+    answers:
+      "1": die Mutter
+      "2": die Schwester
+      "3": die Tochter
+      "4": die Oma
+      "5": die Tante
+      "6": die Frau
+      "7": die Cousine
+      "8": die Enkelin
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen"
+    text: |
+      — Ist das {1} Familie auf dem Foto, Maria?
+      — Ja! Das sind {2} Eltern und das ist mein Bruder.
+      — Wie {3} dein Bruder?
+      — Er heißt Diego. Er {4} achtundzwanzig Jahre alt.
+      — {5} du auch Schwestern?
+      — Nein, ich habe nur einen Bruder. Und du? Hast du {6}?
+      — Ja, zwei Schwestern. Sie {7} in Portugal.
+      — Bist du {8}?
+      — Nein, ich bin ledig.
+    answers:
+      "1": deine
+      "2": meine
+      "3": heißt
+      "4": ist
+      "5": Hast
+      "6": Geschwister
+      "7": wohnen
+      "8": verheiratet
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler"
+    instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
+    text: |
+      1. {1} Schwester heißt Lena. (Mein → ?)
+      2. Ich {2} zwei Brüder. (habt → ?)
+      3. {3} du verheiratet? (Hast → ?)
+      4. Das sind {4} Vater und meine Mutter. (meine → ?)
+      5. {5} Kinder sind nett. (Euer → ?)
+      6. Mein Bruder {6} zweiundzwanzig Jahre alt. (hat → ?)
+      7. Wir haben zwei {7}. (Kindern → ?)
+      8. Ihr Mann {8} Tom. (heißen → ?)
+      9. Wie alt {9} du? (hast → ?)
+      10. Das ist {10} Frau. (sein → ?)
+    answers:
+      "1": Meine
+      "2": habe
+      "3": Bist
+      "4": mein
+      "5": Eure
+      "6": ist
+      "7": Kinder
+      "8": heißt
+      "9": bist
+      "10": seine
+
+  - id: B3
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    left:
+      - { key: "1", text: "Hast du Geschwister?" }
+      - { key: "2", text: "Wie alt ist deine Schwester?" }
+      - { key: "3", text: "Sind Sie verheiratet?" }
+      - { key: "4", text: "Wer ist das auf dem Foto?" }
+      - { key: "5", text: "Wie heißt euer Vater?" }
+      - { key: "6", text: "Habt ihr Kinder?" }
+      - { key: "7", text: "Wo wohnen deine Eltern?" }
+      - { key: "8", text: "Ist das dein Baby?" }
+    right:
+      - { key: a, text: "Er heißt Georg." }
+      - { key: b, text: "In München." }
+      - { key: c, text: "Ja, das ist Emma!" }
+      - { key: d, text: "Ja, einen Bruder." }
+      - { key: e, text: "Ja, eine Tochter." }
+      - { key: f, text: "Sie ist siebzehn." }
+      - { key: g, text: "Nein, ich bin geschieden." }
+      - { key: h, text: "Das ist meine Oma." }
+    answers:
+      "1": d
+      "2": f
+      "3": g
+      "4": h
+      "5": a
+      "6": e
+      "7": b
+      "8": c
+
+  - id: B4
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Familie Krause: who is who?"
+    instructions: |
+      Text: Georg und Claudia Krause sind verheiratet. Sie haben drei Kinder: Anna, Felix und Lena. Erika ist die Mutter von Claudia.
+      Complete with the family word (with article where marked).
+    text: |
+      1. Felix ist der {1} von Anna.
+      2. Claudia ist die {2} von Lena.
+      3. Anna, Felix und Lena sind die {3} von Georg und Claudia.
+      4. Georg ist der {4} von Claudia.
+      5. Lena ist die {5} von Georg.
+      6. Erika ist die {6} von Anna.
+      7. Anna ist die {7} von Erika.
+      8. Claudia ist die {8} von Erika.
+    answers:
+      "1": Bruder
+      "2": Mutter
+      "3": Kinder
+      "4": Mann
+      "5": Tochter
+      "6": Oma
+      "7": Enkelin
+      "8": Tochter
+
+  - id: B5
+    block: B
+    type: order
+    title: "Satzbau"
+    items:
+      - tiles: [habe, einen, ich, Bruder]
+        answer: [2, 0, 1, 3]
+        note: "Ich habe einen Bruder."
+      - tiles: [du, hast, Geschwister, "?"]
+        answer: [1, 0, 2, 3]
+        note: "Hast du Geschwister?"
+      - tiles: [heißt, Vater, mein, Georg]
+        answer: [2, 1, 0, 3]
+        note: "Mein Vater heißt Georg."
+      - tiles: [ist, Jahre, alt, meine, siebzehn, Schwester]
+        answer: [3, 5, 0, 4, 1, 2]
+        note: "Meine Schwester ist siebzehn Jahre alt."
+      - tiles: [verheiratet, du, bist, "?"]
+        answer: [2, 1, 0, 3]
+        note: "Bist du verheiratet?"
+      - tiles: [nicht, ich, ledig, bin]
+        answer: [1, 3, 0, 2]
+        note: "Ich bin nicht ledig."
+      - tiles: [wohnen, Eltern, in, meine, Hamburg]
+        answer: [3, 1, 0, 2, 4]
+        note: "Meine Eltern wohnen in Hamburg."
+      - tiles: [Kinder, Sie, haben, "?"]
+        answer: [2, 1, 0, 3]
+        note: "Haben Sie Kinder?"
+      - tiles: [Oma, ist, fit, sehr, meine]
+        answer: [4, 0, 1, 3, 2]
+        note: "Meine Oma ist sehr fit."
+      - tiles: [alt, wie, du, bist, "?"]
+        answer: [1, 0, 3, 2, 4]
+        note: "Wie alt bist du?"
+
+  - id: B6
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Familienstand"
+    text: |
+      1. single → {1}  2. married → {2}  3. divorced → {3}  4. widowed → {4}
+      5. Herr und Frau Braun sind seit 1990 ein Paar. Sie sind {5}.
+      6. Herrn Kleins Frau ist tot. Er ist {6}.
+    answers:
+      "1": ledig
+      "2": verheiratet
+      "3": geschieden
+      "4": verwitwet
+      "5": verheiratet
+      "6": verwitwet
+
+  - id: B7
+    block: B
+    type: free-write
+    title: "Answer with the cues"
+    prompt: "Answer each question using the cue given in brackets."
+    stimulus: |
+      1. Hast du Geschwister? (ja, 2 Brüder)
+      2. Bist du verheiratet? (nein, ledig)
+      3. Wie alt bist du? (31)
+      4. Wie heißt deine Mutter? (Claudia)
+      5. Wo wohnen deine Großeltern? (Hamburg)
+      6. Haben Sie Kinder? (ja, 1 Tochter)
+      7. Wie alt ist dein Opa? (88)
+      8. Ist das deine Schwester? (nein, Cousine)
+    model: |
+      1. Ja, ich habe zwei Brüder.
+      2. Nein, ich bin ledig.
+      3. Ich bin einunddreißig (Jahre alt).
+      4. Sie heißt Claudia.
+      5. Sie wohnen in Hamburg.
+      6. Ja, ich habe eine Tochter.
+      7. Er ist achtundachtzig (Jahre alt).
+      8. Nein, das ist meine Cousine.
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Write the questions"
+    prompt: "Write a question for each answer."
+    stimulus: |
+      1. _____? — Ja, ich habe einen Bruder.
+      2. _____? — Mein Bruder ist sechsundzwanzig.
+      3. _____? — Nein, ich bin nicht verheiratet.
+      4. _____? — Meine Eltern wohnen in Porto.
+      5. _____? — Sie heißt Erika. (your grandma)
+      6. _____? (Sie) — Ja, wir haben zwei Kinder.
+      7. _____? — Ich bin dreißig Jahre alt.
+    model: |
+      1. Hast du Geschwister?
+      2. Wie alt ist dein Bruder?
+      3. Bist du verheiratet?
+      4. Wo wohnen deine Eltern?
+      5. Wie heißt deine Oma?
+      6. Haben Sie Kinder?
+      7. Wie alt bist du?
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Meine Familie"
+    prompt: "Ein neuer Freund / eine neue Freundin fragt dich nach deiner Familie. Schreib 3–4 Sätze: wer in deiner Familie lebt, wie alt sie sind, und woher sie kommen."
+    use:
+      - "at least 2 family members — mein Bruder, meine Schwester, mein Vater, meine Mutter, meine Oma, mein Opa"
+      - "at least 1 age expression — ist … Jahre alt / ist … Jahre"
+      - "at least 1 origin phrase — kommt aus … / ist aus …"
+      - "a possessive — mein / meine, dein / deine, sein / seine, ihr / ihre"
+    selfCheck:
+      - "Did I use the correct possessive form: mein Bruder (m), meine Schwester (f), mein Kind (n), meine Eltern (pl)?"
+      - "Did I use Akkusativ for ich habe … (Ich habe einen Bruder — not Ich habe ein Bruder)?"
+      - "Did I use present tense for ages (ist … Jahre alt — no -t ending)?"
+    model: |
+      Ich habe eine Schwester und einen Bruder. Meine Schwester
+      heißt Lena und ist 22 Jahre alt. Sie kommt aus Berlin und
+      studiert Medizin. Mein Bruder heißt Felix — er ist erst 12
+      und geht noch zur Schule. Mein Vater kommt aus Italien und
+      meine Mutter kommt aus Polen.
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    title: "Lückentext"
+    instructions: "Fill each gap with one word."
+    text: |
+      Hallo! Ich heiße Martina und ich {1} aus Österreich. Ich bin dreißig
+      Jahre {2} und verheiratet. {3} Mann heißt Stefan. Wir {4}
+      zwei Kinder: einen Sohn und {5} Tochter. Unser Sohn heißt Max, er ist
+      acht. {6} Tochter Mia ist fünf. Meine Eltern {7} in Salzburg.
+      Mein Bruder ist nicht verheiratet, er ist {8}. {9} alt ist er?
+      Er ist achtundzwanzig. Und du? Hast du {10}?
+    answers:
+      "1": komme
+      "2": alt
+      "3": Mein
+      "4": haben
+      "5": eine
+      "6": Unsere
+      "7": wohnen
+      "8": ledig
+      "9": Wie
+      "10": Geschwister
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    items:
+      - q: "Das ist meine Freundin Carla. (1) ____ kommt aus Italien."
+        options:
+          - { key: a, text: "Er" }
+          - { key: b, text: "Sie" }
+          - { key: c, text: "Du" }
+        answer: b
+        why: "Freundin = she → Sie."
+      - q: "Carla (2) ____ einen Bruder und eine Schwester."
+        options:
+          - { key: a, text: "hat" }
+          - { key: b, text: "habe" }
+          - { key: c, text: "hast" }
+        answer: a
+        why: "er/sie/es-Form: hat."
+      - q: "(3) ____ Bruder wohnt in Rom."
+        options:
+          - { key: a, text: "Ihre" }
+          - { key: b, text: "Sein" }
+          - { key: c, text: "Ihr" }
+        answer: c
+        why: "her brother: owner Carla (sie) → ihr, Bruder masc. → no -e."
+      - q: "Carlas Eltern (4) ____ sehr nett."
+        options:
+          - { key: a, text: "ist" }
+          - { key: b, text: "sind" }
+          - { key: c, text: "seid" }
+        answer: b
+        why: "Eltern = plural → sind."
+      - q: "Carla ist (5) ____ verheiratet, sie ist ledig."
+        options:
+          - { key: a, text: "nicht" }
+          - { key: b, text: "nein" }
+          - { key: c, text: "kein" }
+        answer: a
+        why: "negating an adjective/verb → nicht."
+      - q: "Sie ist dreißig Jahre (6) ______."
+        options:
+          - { key: a, text: "alt" }
+          - { key: b, text: "Jahre" }
+          - { key: c, text: "jung" }
+        answer: a
+        why: "dreißig Jahre alt — standard age expression."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
+    text: |
+      Hallo Tim,
+
+      das ist {1} Familie: Mein Vater {2} Werner und ist sechzig Jahre
+      {3}. Meine Mutter Karin ist achtundfünfzig. Ich {4} auch
+      Geschwister: Meine Schwester Julia {5} fünfundzwanzig und mein
+      {6} Jonas ist neunzehn. Julia ist verheiratet. {7} Mann heißt
+      Ben. Sie {8} ein Baby. Es heißt Finn. Wir wohnen alle {9}
+      Stuttgart. Und {10} Familie? Schreib mal!
+
+      Viele Grüße
+      Sara
+    bank: [ALT, BRUDER, DEINE, HABE, HABEN, HEISST, IHR, IN, IST, MEINE, NICHT, SEID, SIND, WER, WOHNT]
+    answers:
+      "1": MEINE
+      "2": HEISST
+      "3": ALT
+      "4": HABE
+      "5": IST
+      "6": BRUDER
+      "7": IHR
+      "8": HABEN
+      "9": IN
+      "10": DEINE
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1"
+    instructions: |
+      Text: Ich heiße Daniel Brandt und wohne in Leipzig. Meine Familie ist groß: Ich habe drei Geschwister — zwei Schwestern und einen Bruder. Meine Schwestern heißen Nina und Paula. Nina ist verheiratet und hat eine Tochter. Mein Bruder Jan ist ledig und wohnt in Dresden. Unsere Eltern heißen Rolf und Heike. Mein Vater ist dreiundsechzig, meine Mutter ist einundsechzig. Und ich? Ich bin dreißig und nicht verheiratet.
+
+      Richtig (R) oder falsch (F)?
+    items:
+      - { q: "Daniel hat zwei Brüder.", answer: false, why: "Er hat einen Bruder (Jan) und zwei Schwestern (Nina und Paula)." }
+      - { q: "Nina hat ein Kind.", answer: true, why: "Nina ist verheiratet und hat eine Tochter." }
+      - { q: "Jan ist verheiratet.", answer: false, why: "Jan ist ledig." }
+      - { q: "Der Vater ist 63 Jahre alt.", answer: true, why: "Mein Vater ist dreiundsechzig." }
+      - { q: "Daniel ist verheiratet.", answer: false, why: "Ich bin dreißig und nicht verheiratet." }
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 — Steckbrief"
+    instructions: |
+      Text: Familie Yilmaz: Akin Yilmaz (34) und Elif Yilmaz (31) kommen aus der Türkei, aus Izmir. Sie wohnen jetzt in Köln. Sie haben zwei Kinder: Deniz (6) und Lale (3). Akins Eltern wohnen in Izmir. Elifs Mutter wohnt auch in Köln. Sie ist verwitwet.
+
+      Choose a, b, or c.
+    items:
+      - q: "Familie Yilmaz wohnt in …"
+        options:
+          - { key: a, text: "Izmir" }
+          - { key: b, text: "Köln" }
+          - { key: c, text: "Berlin" }
+        answer: b
+        why: "Sie wohnen jetzt in Köln."
+      - q: "Deniz ist …"
+        options:
+          - { key: a, text: "drei" }
+          - { key: b, text: "sechs" }
+          - { key: c, text: "sechzehn" }
+        answer: b
+        why: "Deniz (6)."
+      - q: "Wer wohnt auch in Köln?"
+        options:
+          - { key: a, text: "Akins Eltern" }
+          - { key: b, text: "Elifs Mutter" }
+          - { key: c, text: "Elifs Vater" }
+        answer: b
+        why: "Elifs Mutter wohnt auch in Köln."
+      - q: "Elifs Mutter ist …"
+        options:
+          - { key: a, text: "verheiratet" }
+          - { key: b, text: "geschieden" }
+          - { key: c, text: "verwitwet" }
+        answer: c
+        why: "Sie ist verwitwet."
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Meine Familie"
+    prompt: "Write about your family (6–8 sentences): how big it is, names, ages, where they live, marital status — yours and one family member's. Reuse Lektion 1 material (origin, languages). Model answer in solutions.md — write yours first."
+    selfCheck:
+      - "possessive endings before feminine/plural nouns (-e!)?"
+      - "sein for age?"
+      - "verb in position 2?"
+      - "plural forms correct?"
+    model: |
+      Meine Familie ist nicht sehr groß. Meine Eltern heißen Roberto und Lucia. Sie
+      wohnen in Blumenau. Ich habe eine Schwester. Sie heißt Julia und ist
+      achtundzwanzig Jahre alt. Julia ist verheiratet und hat ein Baby. Ich bin
+      ledig und wohne in Berlin. Meine Familie ist weit weg, aber wir telefonieren
+      viel!
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest (incl. Lektion 1)"
+    text: |
+      1. haben, du-form: du {1}
+      2. „{2} alt bist du?"
+      3. 47 in words: {3}
+      4. her brother = {4} Bruder
+      5. his sister = {5} Schwester
+      6. Plural: das Kind → die {6}
+      7. "married" auf Deutsch: {7}
+      8. (L1) sprechen, er-form: er {8}
+      9. (L1) „{9} kommst du?" — Aus Brasilien.
+      10. Yes/no question from „Du bist ledig.": {10}
+      11. Plural: der Mann → die {11}
+      12. (L1) 16 in words: {12}
+      13. Negate: „Ich bin verheiratet." → {13}
+      14. eure oder euer: „{14} Mutter"
+      15. (L1) Formal greeting at 9:00: {15}
+    answers:
+      "1": hast
+      "2": Wie
+      "3": siebenundvierzig
+      "4": ihr
+      "5": seine
+      "6": Kinder
+      "7": verheiratet
+      "8": spricht
+      "9": Woher
+      "10": Bist du ledig?
+      "11": Männer
+      "12": sechzehn
+      "13": Ich bin nicht verheiratet.
+      "14": eure
+      "15": Guten Morgen!
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    groups:
+      - items: [Vater, Mutter, Tante, Foto]
+        odd: 3
+        why: "not a person"
+      - items: [zwanzig, dreißig, Bruder, vierzig]
+        odd: 2
+        why: "not a number"
+      - items: [ledig, verheiratet, geschieden, Familie]
+        odd: 3
+        why: "not a marital status"
+      - items: [mein, dein, sein, nicht]
+        odd: 3
+        why: "not a possessive"
+      - items: [Oma, Opa, Baby, Großeltern]
+        odd: 2
+        why: "not a grandparent"
+      - items: [habe, hast, hat, heißt]
+        odd: 3
+        why: "not a form of haben"
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Wiederholung Lektion 1"
+    text: |
+      1. ich (sein) → {1}
+      2. du (heißen) → {2}
+      3. er (sprechen) → {3}
+      4. „{4} wohnen Sie?" — In Berlin.
+      5. Brasilien → language: {5}
+      6. 12 in words: {6}
+      7. Informal goodbye: {7}
+      8. „Ich komme {8} der Türkei."
+      9. Question for: „Das ist meine Lehrerin." → {9}
+      10. Verb position in a statement: position {10}
+    answers:
+      "1": bin
+      "2": heißt
+      "3": spricht
+      "4": Wo
+      "5": Portugiesisch
+      "6": zwölf
+      "7": Tschüss
+      "8": aus
+      "9": Wer ist das?
+      "10": "2"
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion 3. Below: redo A1–A6 + A12 tomorrow, then retest."
+    text: |
+      1. ich (haben) → {1}  2. ihr (haben) → {2}  3. er (haben) → {3}
+      4. wir (sein) → {4}
+      5. (du, fem.) {5} Schwester  6. (wir, masc.) {6} Vater
+      7. (Sie formal, masc.) {7} Mann
+      8. Plural: der Bruder → {8}  9. die Frau → {9}  10. der Sohn → {10}
+      11. 21 → {11}  12. 60 → {12}  13. 100 → {13}
+      14. neunzig = {14} (digit)
+      15. "divorced" → {15}
+      16. Geschwister – du – hast – ? → {16}
+      17. Bruder – heißt – mein – Tom → {17}
+      18. Negate: „Ich bin ledig." → {18}
+      19. „Wie alt {19} du?"
+      20. female cousin (with article) → {20}
+    answers:
+      "1": habe
+      "2": habt
+      "3": hat
+      "4": sind
+      "5": deine
+      "6": unser
+      "7": Ihr
+      "8": die Brüder
+      "9": die Frauen
+      "10": die Söhne
+      "11": einundzwanzig
+      "12": sechzig
+      "13": "(ein)hundert"
+      "14": "90"
+      "15": geschieden
+      "16": Hast du Geschwister?
+      "17": Mein Bruder heißt Tom.
+      "18": Ich bin nicht ledig.
+      "19": bist
+      "20": die Cousine

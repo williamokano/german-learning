@@ -1,94 +1,73 @@
 # A1 · Lektion 2 — Übungen
 
-Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
-**D** Wiederholung & Selbsttest. Answers in `solutions.md`.
-Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Answers in solutions.md. Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
 
 ---
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check
-
-### H1a — Dialog A (informell)
+## Übung H1a — Dialog A (informell)
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+Listen and decide: Richtig (R) oder Falsch (F)?
 
 1. Anna zeigt Bruno ein Foto. ( )
 2. Auf dem Foto sind Annas Eltern. ( )
 3. Annas Schwester heißt Claudia. ( )
 4. Annas Oma ist dreiundachtzig Jahre alt. ( )
 
-### H1b — Dialog B (formell)
+## Übung H1b — Dialog B (formell)
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+Listen and decide: Richtig (R) oder Falsch (F)?
 
-5. Herr Steinmeyer hat zwei Kinder. ( )
-6. Seine Tochter heißt Sofia. ( )
-7. Frau Weber ist verheiratet. ( )
-8. Herr Steinmeyers Frau kommt aus Salzburg. ( )
+1. Herr Steinmeyer hat zwei Kinder. ( )
+2. Seine Tochter heißt Sofia. ( )
+3. Frau Weber ist verheiratet. ( )
+4. Herr Steinmeyers Frau kommt aus Salzburg. ( )
 
 ## Übung H2 — Aussprache-Check
 
-Listen to the **Hör zu** clips in `lesson.md` (Wortschatz → 🔊 Aussprache)
-and pick the matching answer.
+Listen to the Hör zu clips in lesson.md (Wortschatz → 🔊 Aussprache) and pick the matching answer.
 
-1. Hör zu 1 (Familie) — who is the father of your mother?
+1. Hör zu 1 (Familie) — who is the father of your mother?  
    a) der Bruder  b) der Großvater  c) der Onkel
-2. Hör zu 1 (Familie) — your mother's sister is …
+2. Hör zu 1 (Familie) — your mother's sister is …  
    a) die Tante  b) die Schwester  c) die Großmutter
-3. Hör zu 2 (Zahlen 20–100) — what comes after **fünfzig**?
+3. Hör zu 2 (Zahlen 20–100) — what comes after fünfzig?  
    a) vierzig  b) sechzig  c) achtzig
-4. Hör zu 2 (Zahlen 20–100) — what's the number **siebzig**?
+4. Hör zu 2 (Zahlen 20–100) — what's the number siebzig?  
    a) 60  b) 70  c) 80
-5. Hör zu 3 (Possessivpronomen) — which word means "my"?
+5. Hör zu 3 (Possessivpronomen) — which word means "my"?  
    a) mein  b) dein  c) sein
 
 ## Übung H3 — Hörtext-Lückentext
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Höre den Text und fülle die Lücken. **Fünf Wörter passen nicht.**
+Höre den Text und fülle die Lücken. Fünf Wörter passen nicht.
 
-> Das ist Familie _______. Der Vater heißt _______. Er kommt aus
-> Deutschland, aus _______. Die Mutter heißt Maria. Sie kommt aus
+> Das ist Familie (1) ______. Der Vater heißt (2) ______. Er kommt aus
+> Deutschland, aus (3) ______. Die Mutter heißt Maria. Sie kommt aus
 > Österreich, aus Wien. Sie haben zwei Kinder: einen Sohn und eine
-> Tochter. Der Sohn heißt Max — er ist _______ Jahre alt und ledig. Die
-> Tochter heißt Lisa — sie ist _______ und hat ein Kind. Die
-> Großmutter heißt _______ und wohnt auch in München.
+> Tochter. Der Sohn heißt Max — er ist (4) ______ Jahre alt und ledig. Die
+> Tochter heißt Lisa — sie ist (5) ______ und hat ein Kind. Die
+> Großmutter heißt (6) ______ und wohnt auch in München.
 
-Wortbank: **Bergmann · Eva · Helmut · München · Thomas · verheiratet · Leipzig · zwanzig · zwölf**
+> (Bergmann · Eva · Helmut · München · Thomas · verheiratet · Leipzig · zwanzig · zwölf)
 
 ## Übung H4 — Kurze Ansage: Mama kommt am Wochenende
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c).
-Höre **einmal**, bevor du das Transkript liest.
+Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Wessen Nachricht ist das?  
-   a) Von Mama.  
-   b) Von Anna.  
-   c) Von Oma.
-
-2. Wann möchte die Familie kommen?  
-   a) Am Freitag.  
-   b) Am Samstag.  
-   c) Am Sonntag.
-
-3. Womit kommt die Familie?  
-   a) Mit dem Auto.  
-   b) Mit dem Zug.  
-   c) Mit dem Bus.
-
-4. Wer kommt mit?  
-   a) Der Bruder.  
-   b) Die Schwester.  
-   c) Der Opa.
+1. Wessen Nachricht ist das?  a) Von Mama.  b) Von Anna.  c) Von Oma.
+2. Wann möchte die Familie kommen?  a) Am Freitag.  b) Am Samstag.  c) Am Sonntag.
+3. Womit kommt die Familie?  a) Mit dem Auto.  b) Mit dem Zug.  c) Mit dem Bus.
+4. Wer kommt mit?  a) Der Bruder.  b) Die Schwester.  c) Der Opa.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -105,13 +84,11 @@ Höre **einmal**, bevor du das Transkript liest.
 
 # Block A — Basistraining
 
-## Übung A1 — `haben`: conjugation table
+## Übung A1 — `haben`: Konjugationstabelle
 
-| ich | du | er/sie/es | wir | ihr | sie/Sie |
-|---|---|---|---|---|---|
-| ______ | ______ | ______ | ______ | ______ | ______ |
+ich ______ · du ______ · er/sie/es ______ · wir ______ · ihr ______ · sie/Sie ______
 
-## Übung A2 — `haben` in sentences
+## Übung A2 — `haben` in Sätzen
 
 1. Ich ______ eine Schwester.
 2. ______ du Geschwister?
@@ -126,9 +103,9 @@ Höre **einmal**, bevor du das Transkript liest.
 
 ## Übung A3 — mein oder meine?
 
-1. ______ Vater 2. ______ Mutter 3. ______ Eltern 4. ______ Bruder
-5. ______ Schwester 6. ______ Kind 7. ______ Großeltern 8. ______ Onkel
-9. ______ Tante 10. ______ Baby
+1. ______ Vater  2. ______ Mutter  3. ______ Eltern  4. ______ Bruder
+5. ______ Schwester  6. ______ Kind  7. ______ Großeltern  8. ______ Onkel
+9. ______ Tante  10. ______ Baby
 
 ## Übung A4 — sein (his) oder ihr (her)? Add -e where needed.
 
@@ -145,7 +122,7 @@ Höre **einmal**, bevor du das Transkript liest.
 
 ## Übung A5 — unser, euer, Ihr
 
-The owner is in brackets. Watch out for `euer → eure`!
+The owner is in brackets. Watch out for euer → eure!
 
 1. ______ Familie ist groß. (wir)
 2. ______ Vater heißt Georg. (wir)
@@ -170,33 +147,33 @@ die Mutter → die ______ · der Opa → die ______ · der Freund → die ______
 
 ## Übung A8 — Zahlen: write as digits
 
-zweiunddreißig = ____ · einundsechzig = ____ · dreiundachtzig = ____ ·
-vierhundert = ____ · achthundertfünfzig = ____ · tausend = ____ ·
-siebzehn = ____ · fünfundneunzig = ____
+zweiunddreißig = ______ · einundsechzig = ______ · dreiundachtzig = ______ ·
+vierhundert = ______ · achthundertfünfzig = ______ · tausend = ______ ·
+siebzehn = ______ · fünfundneunzig = ______
 
 ## Übung A9 — Make yes/no questions
 
-Example: *Du hast Geschwister. → Hast du Geschwister?*
+Example: Du hast Geschwister. → Hast du Geschwister?
 
-1. Du hast Geschwister.
-2. Anna ist verheiratet.
-3. Ihr habt Kinder.
-4. Sie kommen aus Brasilien. (formal)
-5. Dein Bruder wohnt in Berlin.
-6. Du bist ledig.
-7. Deine Schwester spricht Englisch.
-8. Wir sind im Deutschkurs.
+1. Du hast Geschwister. → ______
+2. Anna ist verheiratet. → ______
+3. Ihr habt Kinder. → ______
+4. Sie kommen aus Brasilien. (formal) → ______
+5. Dein Bruder wohnt in Berlin. → ______
+6. Du bist ledig. → ______
+7. Deine Schwester spricht Englisch. → ______
+8. Wir sind im Deutschkurs. → ______
 
 ## Übung A10 — Negate with `nicht`
 
-1. Ich bin verheiratet. → ______________________
-2. Mein Bruder wohnt in Hamburg. → ______________________
-3. Das ist meine Schwester. → ______________________
-4. Wir kommen aus Spanien. → ______________________
-5. Anna ist ledig. → ______________________
-6. Ich heiße Paul. → ______________________
-7. Meine Oma ist alt. → ______________________
-8. Das Baby heißt Emma. → ______________________
+1. Ich bin verheiratet. → ______
+2. Mein Bruder wohnt in Hamburg. → ______
+3. Das ist meine Schwester. → ______
+4. Wir kommen aus Spanien. → ______
+5. Anna ist ledig. → ______
+6. Ich heiße Paul. → ______
+7. Meine Oma ist alt. → ______
+8. Das Baby heißt Emma. → ______
 
 ## Übung A11 — haben oder sein?
 
@@ -213,9 +190,9 @@ Example: *Du hast Geschwister. → Hast du Geschwister?*
 
 ## Übung A12 — Paare: write the female counterpart with article
 
-1. der Vater ↔ ______ 2. der Bruder ↔ ______ 3. der Sohn ↔ ______
-4. der Opa ↔ ______ 5. der Onkel ↔ ______ 6. der Mann ↔ ______
-7. der Cousin ↔ ______ 8. der Enkel ↔ ______
+1. der Vater ↔ ______  2. der Bruder ↔ ______  3. der Sohn ↔ ______
+4. der Opa ↔ ______  5. der Onkel ↔ ______  6. der Mann ↔ ______
+7. der Cousin ↔ ______  8. der Enkel ↔ ______
 
 ---
 
@@ -223,34 +200,34 @@ Example: *Du hast Geschwister. → Hast du Geschwister?*
 
 ## Übung B1 — Dialog ergänzen
 
-— Ist das (1) ______ Familie auf dem Foto, Maria?
-— Ja! Das sind (2) ______ Eltern und das ist mein Bruder.
-— Wie (3) ______ dein Bruder?
-— Er heißt Diego. Er (4) ______ achtundzwanzig Jahre alt.
-— (5) ______ du auch Schwestern?
-— Nein, ich habe nur einen Bruder. Und du? Hast du (6) ______?
-— Ja, zwei Schwestern. Sie (7) ______ in Portugal.
-— Bist du (8) ______?
+— Ist das ______ Familie auf dem Foto, Maria?
+— Ja! Das sind ______ Eltern und das ist mein Bruder.
+— Wie ______ dein Bruder?
+— Er heißt Diego. Er ______ achtundzwanzig Jahre alt.
+— ______ du auch Schwestern?
+— Nein, ich habe nur einen Bruder. Und du? Hast du ______?
+— Ja, zwei Schwestern. Sie ______ in Portugal.
+— Bist du ______?
 — Nein, ich bin ledig.
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly **one** mistake. Correct it.
+Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
 
-1. Mein Schwester heißt Lena.
-2. Ich habt zwei Brüder.
-3. Hast du verheiratet?
-4. Das sind meine Vater und meine Mutter.
-5. Euer Kinder sind nett.
-6. Mein Bruder hat zweiundzwanzig Jahre alt.
-7. Wir haben zwei Kindern.
-8. Ihr Mann heißen Tom.
-9. Wie alt hast du?
-10. Das ist sein Frau.
+1. ______ Schwester heißt Lena. (Mein → ?)
+2. Ich ______ zwei Brüder. (habt → ?)
+3. ______ du verheiratet? (Hast → ?)
+4. Das sind ______ Vater und meine Mutter. (meine → ?)
+5. ______ Kinder sind nett. (Euer → ?)
+6. Mein Bruder ______ zweiundzwanzig Jahre alt. (hat → ?)
+7. Wir haben zwei ______. (Kindern → ?)
+8. Ihr Mann ______ Tom. (heißen → ?)
+9. Wie alt ______ du? (hast → ?)
+10. Das ist ______ Frau. (sein → ?)
 
 ## Übung B3 — Frage und Antwort verbinden
 
-| Frage | | Antwort |
+| Links | | Rechts |
 |---|---|---|
 | 1. Hast du Geschwister? | | a) Er heißt Georg. |
 | 2. Wie alt ist deine Schwester? | | b) In München. |
@@ -263,10 +240,9 @@ Each sentence has exactly **one** mistake. Correct it.
 
 ## Übung B4 — Familie Krause: who is who?
 
-> Georg und Claudia Krause sind verheiratet. Sie haben drei Kinder: Anna, Felix
-> und Lena. Erika ist die Mutter von Claudia.
-
+Text: Georg und Claudia Krause sind verheiratet. Sie haben drei Kinder: Anna, Felix und Lena. Erika ist die Mutter von Claudia.
 Complete with the family word (with article where marked).
+
 
 1. Felix ist der ______ von Anna.
 2. Claudia ist die ______ von Lena.
@@ -279,62 +255,64 @@ Complete with the family word (with article where marked).
 
 ## Übung B5 — Satzbau
 
-1. habe – einen – ich – Bruder
-2. du – hast – Geschwister – ?
-3. heißt – Vater – mein – Georg
-4. ist – Jahre – alt – meine – siebzehn – Schwester
-5. verheiratet – du – bist – ?
-6. nicht – ich – ledig – bin
-7. wohnen – Eltern – in – meine – Hamburg
-8. Kinder – Sie – haben – ?
-9. Oma – ist – fit – sehr – meine
-10. alt – wie – du – bist – ?
+1. habe – ich – einen – Bruder
+2. ? – du – hast – Geschwister
+3. heißt – Georg – mein – Vater
+4. siebzehn – meine – Schwester – alt – Jahre – ist
+5. bist – du – verheiratet – ?
+6. bin – nicht – ich – ledig
+7. Eltern – meine – Hamburg – wohnen – in
+8. Sie – haben – ? – Kinder
+9. sehr – Oma – ist – fit – meine
+10. alt – ? – bist – wie – du
 
 ## Übung B6 — Familienstand
 
-Match, then fill.
-
-1. single → ______ 2. married → ______ 3. divorced → ______ 4. widowed → ______
+1. single → ______  2. married → ______  3. divorced → ______  4. widowed → ______
 5. Herr und Frau Braun sind seit 1990 ein Paar. Sie sind ______.
 6. Herrn Kleins Frau ist tot. Er ist ______.
 
 ## Übung B7 — Answer with the cues
 
-1. Hast du Geschwister? (ja, 2 Brüder) → ______________________
-2. Bist du verheiratet? (nein, ledig) → ______________________
-3. Wie alt bist du? (31) → ______________________
-4. Wie heißt deine Mutter? (Claudia) → ______________________
-5. Wo wohnen deine Großeltern? (Hamburg) → ______________________
-6. Haben Sie Kinder? (ja, 1 Tochter) → ______________________
-7. Wie alt ist dein Opa? (88) → ______________________
-8. Ist das deine Schwester? (nein, Cousine) → ______________________
+> 1. Hast du Geschwister? (ja, 2 Brüder)
+2. Bist du verheiratet? (nein, ledig)
+3. Wie alt bist du? (31)
+4. Wie heißt deine Mutter? (Claudia)
+5. Wo wohnen deine Großeltern? (Hamburg)
+6. Haben Sie Kinder? (ja, 1 Tochter)
+7. Wie alt ist dein Opa? (88)
+8. Ist das deine Schwester? (nein, Cousine)
+
+
+**Your task:** Answer each question using the cue given in brackets.
 
 ## Übung B8 — Write the questions
 
-1. ______________________? — Ja, ich habe einen Bruder.
-2. ______________________? — Mein Bruder ist sechsundzwanzig.
-3. ______________________? — Nein, ich bin nicht verheiratet.
-4. ______________________? — Meine Eltern wohnen in Porto.
-5. ______________________? — Sie heißt Erika. (your grandma)
-6. ______________________? (Sie) — Ja, wir haben zwei Kinder.
-7. ______________________? — Ich bin dreißig Jahre alt.
+> 1. _____? — Ja, ich habe einen Bruder.
+2. _____? — Mein Bruder ist sechsundzwanzig.
+3. _____? — Nein, ich bin nicht verheiratet.
+4. _____? — Meine Eltern wohnen in Porto.
+5. _____? — Sie heißt Erika. (your grandma)
+6. _____? (Sie) — Ja, wir haben zwei Kinder.
+7. _____? — Ich bin dreißig Jahre alt.
+
+
+**Your task:** Write a question for each answer.
 
 ## Übung B9 — Meine Familie
 
-**Situation:** Ein neuer Freund / eine neue Freundin fragt dich nach
-deiner Familie. Schreib **3–4 Sätze**: wer in deiner Familie lebt,
-wie alt sie sind, und woher sie kommen.
+**Your task:** Ein neuer Freund / eine neue Freundin fragt dich nach deiner Familie. Schreib 3–4 Sätze: wer in deiner Familie lebt, wie alt sie sind, und woher sie kommen.
 
 Use:
-- [ ] at least **2** family members — *mein Bruder, meine Schwester, mein Vater, meine Mutter, meine Oma, mein Opa*
-- [ ] at least **1** age expression — *ist … Jahre alt / ist … Jahre*
-- [ ] at least **1** origin phrase — *kommt aus … / ist aus …*
-- [ ] a possessive — *mein / meine, dein / deine, sein / seine, ihr / ihre*
+- [ ] at least 2 family members — mein Bruder, meine Schwester, mein Vater, meine Mutter, meine Oma, mein Opa
+- [ ] at least 1 age expression — ist … Jahre alt / ist … Jahre
+- [ ] at least 1 origin phrase — kommt aus … / ist aus …
+- [ ] a possessive — mein / meine, dein / deine, sein / seine, ihr / ihre
 
-**Self-check before moving on:**
-- [ ] Did I use the correct **possessive form**: *mein Bruder* (m), *meine Schwester* (f), *mein Kind* (n), *meine Eltern* (pl)?
-- [ ] Did I use **Akkusativ** for `ich habe …` (*Ich habe **einen** Bruder* — not *Ich habe **ein** Bruder*)?
-- [ ] Did I use **present tense** for ages (*ist … Jahre alt* — no -t ending)?
+Self-check:
+- [ ] Did I use the correct possessive form: mein Bruder (m), meine Schwester (f), mein Kind (n), meine Eltern (pl)?
+- [ ] Did I use Akkusativ for ich habe … (Ich habe einen Bruder — not Ich habe ein Bruder)?
+- [ ] Did I use present tense for ages (ist … Jahre alt — no -t ending)?
 
 ---
 
@@ -342,7 +320,7 @@ Use:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with **one** word.
+Fill each gap with one word.
 
 Hallo! Ich heiße Martina und ich (1) ______ aus Österreich. Ich bin dreißig
 Jahre (2) ______ und verheiratet. (3) ______ Mann heißt Stefan. Wir (4) ______
@@ -353,47 +331,41 @@ Er ist achtundzwanzig. Und du? Hast du (10) ______?
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Das ist meine Freundin Carla. (1) ______ kommt aus Italien. Carla (2) ______
-einen Bruder und eine Schwester. (3) ______ Bruder wohnt in Rom. Carlas Eltern
-(4) ______ sehr nett. Carla ist (5) ______ verheiratet, sie ist ledig. Sie ist
-dreißig Jahre (6) ______.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. a) Er b) Sie c) Du
-2. a) hat b) habe c) hast
-3. a) Ihre b) Sein c) Ihr
-4. a) ist b) sind c) seid
-5. a) nicht b) nein c) kein
-6. a) alt b) Jahre c) jung
+1. Das ist meine Freundin Carla. (1) ____ kommt aus Italien.  a) Er  b) Sie  c) Du
+2. Carla (2) ____ einen Bruder und eine Schwester.  a) hat  b) habe  c) hast
+3. (3) ____ Bruder wohnt in Rom.  a) Ihre  b) Sein  c) Ihr
+4. Carlas Eltern (4) ____ sehr nett.  a) ist  b) sind  c) seid
+5. Carla ist (5) ____ verheiratet, sie ist ledig.  a) nicht  b) nein  c) kein
+6. Sie ist dreißig Jahre (6) ______.  a) alt  b) Jahre  c) jung
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. **Five words are not needed.** Each word once.
+Fill the 10 gaps from the box. Five words are not needed. Each word once.
 
-> ALT · BRUDER · DEINE · HABE · HABEN · HEISST · IHR · IN · IST · MEINE ·
-> NICHT · SEID · SIND · WER · WOHNT
+> Hallo Tim,
+> 
+> das ist (1) ______ Familie: Mein Vater (2) ______ Werner und ist sechzig Jahre
+> (3) ______. Meine Mutter Karin ist achtundfünfzig. Ich (4) ______ auch
+> Geschwister: Meine Schwester Julia (5) ______ fünfundzwanzig und mein
+> (6) ______ Jonas ist neunzehn. Julia ist verheiratet. (7) ______ Mann heißt
+> Ben. Sie (8) ______ ein Baby. Es heißt Finn. Wir wohnen alle (9) ______
+> Stuttgart. Und (10) ______ Familie? Schreib mal!
+> 
+> Viele Grüße
+> Sara
 
-Hallo Tim,
+> ALT · BRUDER · DEINE · HABE · HABEN · HEISST · IHR · IN · IST · MEINE · NICHT · SEID · SIND · WER · WOHNT
 
-das ist (1) ______ Familie: Mein Vater (2) ______ Werner und ist sechzig Jahre
-(3) ______. Meine Mutter Karin ist achtundfünfzig. Ich (4) ______ auch
-Geschwister: Meine Schwester Julia (5) ______ fünfundzwanzig und mein
-(6) ______ Jonas ist neunzehn. Julia ist verheiratet. (7) ______ Mann heißt
-Ben. Sie (8) ______ ein Baby. Es heißt Finn. Wir wohnen alle (9) ______
-Stuttgart. Und (10) ______ Familie? Schreib mal!
+Five words are not needed.
 
-Viele Grüße
-Sara
+## Übung C4a — Lesen Text 1
 
-## Übung C4 — Lesen
+Text: Ich heiße Daniel Brandt und wohne in Leipzig. Meine Familie ist groß: Ich habe drei Geschwister — zwei Schwestern und einen Bruder. Meine Schwestern heißen Nina und Paula. Nina ist verheiratet und hat eine Tochter. Mein Bruder Jan ist ledig und wohnt in Dresden. Unsere Eltern heißen Rolf und Heike. Mein Vater ist dreiundsechzig, meine Mutter ist einundsechzig. Und ich? Ich bin dreißig und nicht verheiratet.
 
-**Text 1:** Richtig (R) oder falsch (F)?
+Richtig (R) oder falsch (F)?
 
-> Ich heiße Daniel Brandt und wohne in Leipzig. Meine Familie ist groß: Ich habe
-> drei Geschwister — zwei Schwestern und einen Bruder. Meine Schwestern heißen
-> Nina und Paula. Nina ist verheiratet und hat eine Tochter. Mein Bruder Jan ist
-> ledig und wohnt in Dresden. Unsere Eltern heißen Rolf und Heike. Mein Vater
-> ist dreiundsechzig, meine Mutter ist einundsechzig. Und ich? Ich bin dreißig
-> und nicht verheiratet.
 
 1. Daniel hat zwei Brüder. ( )
 2. Nina hat ein Kind. ( )
@@ -401,23 +373,27 @@ Sara
 4. Der Vater ist 63 Jahre alt. ( )
 5. Daniel ist verheiratet. ( )
 
-**Text 2 — Steckbrief:** choose a, b, or c.
+## Übung C4b — Lesen Text 2 — Steckbrief
 
-> **Familie Yilmaz:** Akin Yilmaz (34) und Elif Yilmaz (31) kommen aus der  
-> Türkei, aus Izmir. Sie wohnen jetzt in Köln. Sie haben zwei Kinder: Deniz (6)
-> und Lale (3). Akins Eltern wohnen in Izmir. Elifs Mutter wohnt auch in Köln.
-> Sie ist verwitwet.
+Text: Familie Yilmaz: Akin Yilmaz (34) und Elif Yilmaz (31) kommen aus der Türkei, aus Izmir. Sie wohnen jetzt in Köln. Sie haben zwei Kinder: Deniz (6) und Lale (3). Akins Eltern wohnen in Izmir. Elifs Mutter wohnt auch in Köln. Sie ist verwitwet.
 
-6. Familie Yilmaz wohnt in … a) Izmir b) Köln c) Berlin
-7. Deniz ist … a) drei b) sechs c) sechzehn
-8. Wer wohnt auch in Köln? a) Akins Eltern b) Elifs Mutter c) Elifs Vater
-9. Elifs Mutter ist … a) verheiratet b) geschieden c) verwitwet
+Choose a, b, or c.
 
-## Übung C5 — Schreiben
 
-Write about your family (6–8 sentences): how big it is, names, ages, where they
-live, marital status — yours and one family member's. Reuse Lektion 1 material
-(origin, languages). Model answer in `solutions.md` — write yours **first**.
+1. Familie Yilmaz wohnt in …  a) Izmir  b) Köln  c) Berlin
+2. Deniz ist …  a) drei  b) sechs  c) sechzehn
+3. Wer wohnt auch in Köln?  a) Akins Eltern  b) Elifs Mutter  c) Elifs Vater
+4. Elifs Mutter ist …  a) verheiratet  b) geschieden  c) verwitwet
+
+## Übung C5 — Schreiben: Meine Familie
+
+**Your task:** Write about your family (6–8 sentences): how big it is, names, ages, where they live, marital status — yours and one family member's. Reuse Lektion 1 material (origin, languages). Model answer in solutions.md — write yours first.
+
+Self-check:
+- [ ] possessive endings before feminine/plural nouns (-e!)?
+- [ ] sein for age?
+- [ ] verb in position 2?
+- [ ] plural forms correct?
 
 ---
 
@@ -434,12 +410,12 @@ live, marital status — yours and one family member's. Reuse Lektion 1 material
 7. "married" auf Deutsch: ______
 8. (L1) sprechen, er-form: er ______
 9. (L1) „______ kommst du?" — Aus Brasilien.
-10. Yes/no question from „Du bist ledig.": ______________________
+10. Yes/no question from „Du bist ledig.": ______
 11. Plural: der Mann → die ______
 12. (L1) 16 in words: ______
-13. Negate: „Ich bin verheiratet." → ______________________
+13. Negate: „Ich bin verheiratet." → ______
 14. eure oder euer: „______ Mutter"
-15. (L1) Formal greeting at 9:00: ______________________
+15. (L1) Formal greeting at 9:00: ______
 
 ## Übung D2 — Odd one out
 
@@ -460,23 +436,23 @@ live, marital status — yours and one family member's. Reuse Lektion 1 material
 6. 12 in words: ______
 7. Informal goodbye: ______
 8. „Ich komme ______ der Türkei."
-9. Question for: „Das ist meine Lehrerin." → ______________________
+9. Question for: „Das ist meine Lehrerin." → ______
 10. Verb position in a statement: position ______
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-1. ich (haben) → ______ 2. ihr (haben) → ______ 3. er (haben) → ______
+1. ich (haben) → ______  2. ihr (haben) → ______  3. er (haben) → ______
 4. wir (sein) → ______
-5. (du, fem.) ______ Schwester 6. (wir, masc.) ______ Vater
+5. (du, fem.) ______ Schwester  6. (wir, masc.) ______ Vater
 7. (Sie formal, masc.) ______ Mann
-8. Plural: der Bruder → ______ 9. die Frau → ______ 10. der Sohn → ______
-11. 21 → ______ 12. 60 → ______ 13. 100 → ______
+8. Plural: der Bruder → ______  9. die Frau → ______  10. der Sohn → ______
+11. 21 → ______  12. 60 → ______  13. 100 → ______
 14. neunzig = ______ (digit)
 15. "divorced" → ______
-16. Geschwister – du – hast – ? → ______________________
-17. Bruder – heißt – mein – Tom → ______________________
-18. Negate: „Ich bin ledig." → ______________________
+16. Geschwister – du – hast – ? → ______
+17. Bruder – heißt – mein – Tom → ______
+18. Negate: „Ich bin ledig." → ______
 19. „Wie alt ______ du?"
 20. female cousin (with article) → ______
 
-**Score: ____ / 20.** 16+ → Lektion 3. Below → redo A1–A6 and A12 tomorrow, retest.
+_16+ / 20 → Lektion 3. Below: redo A1–A6 + A12 tomorrow, then retest._
