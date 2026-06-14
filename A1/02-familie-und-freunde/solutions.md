@@ -209,6 +209,17 @@ sechzig · achtundsechzig · fünfundsiebzig · neunundneunzig · (ein)hundert
 7. Seine Frau kommt aus Spanien.
 8. Wie alt bist du?
 
+## B9 — Meine Familie (model answer)
+
+> Ich habe eine Schwester und einen Bruder. Meine Schwester
+> heißt Lena und ist 22 Jahre alt. Sie kommt aus Berlin und
+> studiert Medizin. Mein Bruder heißt Felix — er ist erst 12
+> und geht noch zur Schule. Mein Vater kommt aus Italien und
+> meine Mutter kommt aus Polen.
+
+*(A correct answer: ≥2 family members, ≥1 age expression, ≥1 origin
+phrase, possessives used correctly. Any equivalent is accepted.)*
+
 ---
 
 # Block C

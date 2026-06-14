@@ -319,16 +319,22 @@ Match, then fill.
 6. ______________________? (Sie) — Ja, wir haben zwei Kinder.
 7. ______________________? — Ich bin dreißig Jahre alt.
 
-## Übung B9 — Übersetzen (EN → DE)
+## Übung B9 — Meine Familie
 
-1. Do you have siblings? (informal)
-2. I have a brother and a sister.
-3. My sister is 17 years old.
-4. Are you married, Mr. Lang? (formal)
-5. No, I am divorced.
-6. Our grandma is 83 and very fit.
-7. His wife comes from Spain.
-8. How old are you? (informal)
+**Situation:** Ein neuer Freund / eine neue Freundin fragt dich nach
+deiner Familie. Schreib **3–4 Sätze**: wer in deiner Familie lebt,
+wie alt sie sind, und woher sie kommen.
+
+Use:
+- [ ] at least **2** family members — *mein Bruder, meine Schwester, mein Vater, meine Mutter, meine Oma, mein Opa*
+- [ ] at least **1** age expression — *ist … Jahre alt / ist … Jahre*
+- [ ] at least **1** origin phrase — *kommt aus … / ist aus …*
+- [ ] a possessive — *mein / meine, dein / deine, sein / seine, ihr / ihre*
+
+**Self-check before moving on:**
+- [ ] Did I use the correct **possessive form**: *mein Bruder* (m), *meine Schwester* (f), *mein Kind* (n), *meine Eltern* (pl)?
+- [ ] Did I use **Akkusativ** for `ich habe …` (*Ich habe **einen** Bruder* — not *Ich habe **ein** Bruder*)?
+- [ ] Did I use **present tense** for ages (*ist … Jahre alt* — no -t ending)?
 
 ---
 
