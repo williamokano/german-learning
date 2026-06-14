@@ -354,16 +354,22 @@ Accessoires · Schuhe · Farben**
 7. Welcher Schuh gefällt dir besser — der schwarze oder der braune? (the brown one) → ______________________
 8. Warum kaufst du den Mantel nicht? (too expensive) → ______________________
 
-## Übung B9 — Übersetzen (EN → DE)
+## Übung B9 — Im Kaufhaus
 
-1. I'm looking for a jacket in size 38.
-2. Can I try on these trousers?
-3. Does this color suit me?
-4. I like this pullover. (use `gefallen`)
-5. The shoes don't fit me — they're too tight.
-6. Which coat do you like better? (informal)
-7. I'll take this one! (the jacket — feminine)
-8. Shall I wrap it up?
+**Situation:** Du bist gerade im Kaufhaus und suchst ein Kleidungsstück.
+Schreib in **3–4 Sätzen** an eine Verkäuferin, was du suchst und welche
+Größe du brauchst.
+
+Use:
+- [ ] at least **1** Kleidungsstück — *die Jacke, der Pullover, die Hose, der Mantel, das Kleid, die Schuhe …*
+- [ ] at least **1** color + Größe — *in Größe 38, in Blau, in Schwarz, in 42*
+- [ ] a polite request — *Könnten Sie mir … zeigen? / Haben Sie … in …? / Darf ich … anprobieren?*
+- [ ] at least **1** dative verb — *passen, gefallen, stehen* — used correctly
+
+**Self-check before moving on:**
+- [ ] Did I use the **formal `Sie`** (not `du`)? (Shopping with a Verkäuferin — formal.)
+- [ ] Did I use **gefallen** with the **thing I like as subject** (*die Jacke gefällt mir*, not *mir gefällt die Jacke*)?
+- [ ] Did I put the **color and size in the right case** (Akkusativ, because the thing is the direct object)?
 
 ---
 

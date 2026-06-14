@@ -291,6 +291,17 @@ items in this word list.
 7. Ich nehme diese (hier)! (also fine: Ich nehme sie!)
 8. Soll ich es einpacken?
 
+## B9 — Im Kaufhaus (model answer)
+
+> Guten Tag! Ich suche einen Mantel in Größe 40, am liebsten in
+> Schwarz oder Dunkelblau. Dieser Mantel hier gefällt mir sehr —
+> darf ich ihn anprobieren? Die Schuhe dort drüben passen mir
+> leider nicht, sie sind zu eng. Könnten Sie mir noch andere
+> Jacken in Größe 38 zeigen?
+
+*(A correct reply: ≥1 Kleidungsstück, ≥1 color/Größe phrase, polite
+request, ≥1 dative verb used correctly. Any equivalent is accepted.)*
+
 ---
 
 # Block C
