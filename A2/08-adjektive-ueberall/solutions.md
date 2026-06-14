@@ -276,6 +276,19 @@ Possessives follow the mixed declension (same as indefinite article).
 4. **Dieser** schwarz**en** Tasche — Dat Fem: `dieser`, adjective → -en
 5. **Welche** neu**e** Jacke — Nom Fem: `welche`, adjective → -e
 
+## B9 — Foto-Beschreibung: Outfit auf der Party (model answer)
+
+> Auf dem Foto sieht man eine junge Frau auf einer Gartenparty. Sie
+> trägt eine helle Bluse und eine enge dunkle Hose. Diese lederne
+> Jacke passt perfekt zu den braunen Schuhen. In der linken Hand
+> hält sie eine kleine schwarze Tasche. Im Hintergrund sieht man
+> bunte Lichterketten und einen großen weißen Tisch mit Getränken.
+> Dieser Abend sieht wirklich gemütlich aus!
+
+*(A correct description: ≥2 Nom adjective+noun, ≥1 Akk adjective+noun,
+≥1 `dieser`+adjective+noun, ≥2 different declension patterns. Any
+equivalent is accepted.)*
+
 ---
 
 # Block C — Prüfungstraining

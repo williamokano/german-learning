@@ -369,9 +369,30 @@ Fill in the correct form of `dieser` and the adjective ending.
 4. Mit ______ (dieser) schwarz_____ Tasche siehst du schick aus.
 5. ______ (welcher) neu_____ Jacke gehört dir?
 
----
+## Übung B9 — Foto-Beschreibung: Outfit auf der Party
 
-# Block C — Prüfungstraining
+**Beschreibung eines Fotos, das dir dein Freund Leo geschickt hat** *(Du sollst das Outfit für seinen Online-Fashion-Blog beschreiben)*:
+> Foto: Eine Person auf einer Gartenparty. Sie trägt eine helle
+> Bluse, eine enge dunkle Hose, eine lederne Jacke und braune
+> Schuhe. In der Hand hält sie eine kleine schwarze Tasche. Im
+> Hintergrund: bunte Lichterketten und ein großer weißer Tisch
+> mit Getränken.
+
+**Your task:** Schreib eine kurze Bildbeschreibung für Leos Blog in
+**4–5 Sätzen**. Beschreib das Outfit und die Atmosphäre der Party.
+
+Use:
+- [ ] at least **2** sentences with an **adjective + noun** phrase in **Nominativ** (describing the scene: *die … Jacke, der … Tisch*)
+- [ ] at least **1** sentence with an adjective + noun in **Akkusativ** (what the person is wearing/holding: *Sie trägt … / Er hält …*)
+- [ ] at least **1** sentence with `dieser` + adjective + noun (*dieser …, dieses …, diese …*)
+- [ ] at least **2 different adjective declension patterns** (e.g. one after `die`/definite article, one after `ein`/indefinite — or one with no article)
+
+**Self-check before moving on:**
+- [ ] Did I use the correct adjective ending: **-e / -en / -er / -es** — for each gender and case?
+- [ ] Did I remember **-en** in plural and in Dativ (after `der`, `dieser`, `jener`, `welcher`)?
+- [ ] Did I use `dieser` correctly — `dieser schöne Abend` (Nom m), `diese schöne Party` (Nom f), `dieses schöne Fest` (Nom n)?
+
+---
 
 ## Übung C1 — Lückentext
 
