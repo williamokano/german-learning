@@ -1,162 +1,29 @@
 # A1 · Lektion 14 — Prüfungstraining A1 (Mock Exam)
 
-**Format:** Start Deutsch 1 / telc A1
-
-This file is a **full mock exam** in the official Start Deutsch 1 / telc A1 format.
-It covers all four exam skills: **Hören · Lesen · Schreiben · Sprechen**.
+Vollständiger Probeexamen im Format Start Deutsch 1 / telc A1. Führen Sie den ganzen Test in einer Sitzung durch: Hören 20 Min. · Lesen 25 Min. · Schreiben 20 Min. · Sprechen 15 Min. Schauen Sie erst nach dem Abschluss aller Teile in solutions.md.
 
 ---
 
-## How to use this mock exam
+## Übung exam-H1 — Aufgabe 1 — Kurze Gespräche
 
-- Do the whole exam **in one sitting** under timed conditions.
-- **Total time:** approximately 60 minutes (Hören 20 min · Lesen 25 min · Schreiben 20 min · Sprechen 15 min).
-- Do **not** look at `solutions.md` until you have finished all four parts.
-- The Sprechen part (Part 4) can be done with a partner or self-recorded.
+Hören Sie die Gespräche (zweimal) und wählen Sie die richtige Antwort (a, b oder c).
 
-**Scoring:** each item is worth 1 point unless otherwise stated. See `solutions.md` for the full scoring grid and pass threshold.
+1. Wo ist der Bahnhof?  
+   a) Links (nach geradeaus und rechts abbiegen)  b) Rechts (sofort nach der Ecke)  c) Geradeaus (ohne abzubiegen)
+2. Was bestellt die Frau?  
+   a) Tee und ein Brötchen  b) Orangensaft und ein Käsebrötchen  c) Kaffee und Kuchen
+3. Wann beginnt Lenas Kurs?  
+   a) Um 6:30 Uhr  b) Um 8:00 Uhr  c) Um 16:15 Uhr
+4. Was macht Selin?  
+   a) Sie geht zum Arzt.  b) Sie geht nach Hause und schläft.  c) Sie geht in die Apotheke.
+5. Wo ist Herr Klein?  
+   a) Im Supermarkt  b) Im Deutschkurs  c) Beim Arzt
 
----
-
-# Teil 1 — Hören (Listening)
-
-**Instructions:** You will hear short texts and conversations. Each recording plays **twice**. Read the tasks before you listen. Circle the correct answer or mark T (richtig) / F (falsch).
-
----
-
-## Aufgabe 1 — Kurze Gespräche (Short conversations)
-
-*For each conversation (1–5) choose the correct picture: a, b, or c.*
-
----
-
-🎧 **Audio:** [aufgabe1_gespraech1.mp3](audio/aufgabe1_gespraech1.mp3)
-
-**Question 1:** Wo ist der Bahnhof?
-
-a) links (after going straight, then turning right)
-b) rechts (immediately)
-c) geradeaus (straight ahead, no turn)
-
-<details>
-<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
-
-🎧 [aufgabe1_gespraech1.mp3](audio/aufgabe1_gespraech1.mp3)
-
-**Gespräch 1 — Transcript**
-
-> **Frau:** Entschuldigung, wie komme ich zum Bahnhof?  
-> **Mann:** Gehen Sie hier geradeaus, dann rechts — der Bahnhof ist dann links.  
-> **Frau:** Vielen Dank!  
-
-</details>
-
----
-
-🎧 **Audio:** [aufgabe1_gespraech2.mp3](audio/aufgabe1_gespraech2.mp3)
-
-**Question 2:** Was bestellt die Frau?
-
-a) Tee und ein Brötchen
-b) Orangensaft und ein Käsebrötchen
-c) Kaffee und Kuchen
-
-<details>
-<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
-
-🎧 [aufgabe1_gespraech2.mp3](audio/aufgabe1_gespraech2.mp3)
-
-**Gespräch 2 — Transcript**
-
-> **Kellner:** Guten Tag! Was möchten Sie?  
-> **Frau:** Ich möchte einen Orangensaft und ein Käsebrötchen, bitte.  
-> **Kellner:** Gern. Zusammen oder getrennt?  
-> **Frau:** Zusammen, bitte.  
-
-</details>
-
----
-
-🎧 **Audio:** [aufgabe1_gespraech3.mp3](audio/aufgabe1_gespraech3.mp3)
-
-**Question 3:** Wann beginnt Lenas Kurs?
-
-a) Um 6:30 Uhr
-b) Um 8:00 Uhr
-c) Um 16:15 Uhr
-
-<details>
-<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
-
-🎧 [aufgabe1_gespraech3.mp3](audio/aufgabe1_gespraech3.mp3)
-
-**Gespräch 3 — Transcript**
-
-> **Mutter:** Lena, wann stehst du morgen auf?  
-> **Lena:** Um halb sieben, Mama. Der Kurs beginnt um acht.  
-> **Mutter:** Gut. Und wann kommst du nach Hause?  
-> **Lena:** Um Viertel nach vier.  
-
-</details>
-
----
-
-🎧 **Audio:** [aufgabe1_gespraech4.mp3](audio/aufgabe1_gespraech4.mp3)
-
-**Question 4:** Was macht Selin?
-
-a) Sie geht zum Arzt.
-b) Sie geht nach Hause und schläft.
-c) Sie geht in die Apotheke.
-
-<details>
-<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
-
-🎧 [aufgabe1_gespraech4.mp3](audio/aufgabe1_gespraech4.mp3)
-
-**Gespräch 4 — Transcript**
-
-> **Thomas:** Hallo, Selin! Wie geht's?  
-> **Selin:** Nicht so gut — ich habe Kopfschmerzen.  
-> **Thomas:** Oh nein! Gehst du zum Arzt?  
-> **Selin:** Nein, ich gehe heute nach Hause und schlafe.  
-
-</details>
-
----
-
-🎧 **Audio:** [aufgabe1_gespraech5.mp3](audio/aufgabe1_gespraech5.mp3)
-
-**Question 5:** Wo ist Herr Klein?
-
-a) Im Supermarkt
-b) Im Deutschkurs
-c) Beim Arzt
-
-<details>
-<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
-
-🎧 [aufgabe1_gespraech5.mp3](audio/aufgabe1_gespraech5.mp3)
-
-**Gespräch 5 — Transcript**
-
-> **Herr Klein:** Guten Tag, mein Name ist Klein. Ich habe einen Termin um 14 Uhr.  
-> **Sekretärin:** Guten Tag! Ja, Herr Klein — bitte nehmen Sie im Wartezimmer Platz. Doktor Berger kommt gleich.  
-> **Herr Klein:** Danke.  
-
-</details>
-
----
-
-## Aufgabe 2 — Richtig oder falsch?
-
-*Listen to the message on the telephone answering machine and decide: is each statement richtig (R) or falsch (F)?*
-
----
+## Übung exam-H2 — Aufgabe 2 — Richtig oder falsch?
 
 🎧 **Audio:** [aufgabe2.mp3](audio/aufgabe2.mp3)
 
-**Statements:**
+Hören Sie die Nachricht auf dem Anrufbeantworter (zweimal) und entscheiden Sie: richtig (R) oder falsch (F)?
 
 1. Das Konzert beginnt um 19 Uhr. ( )
 2. Petra hat die Karten. ( )
@@ -164,242 +31,46 @@ c) Beim Arzt
 4. Petra hat ein Ticket für Marias Bruder gekauft. ( )
 5. Petras Telefonnummer ist 0173 456 789. ( )
 
-<details>
-<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+## Übung exam-H3 — Aufgabe 3 — Kurze Ansagen
 
-🎧 [aufgabe2.mp3](audio/aufgabe2.mp3)
+Hören Sie die Ansagen (zweimal) und wählen Sie die richtige Antwort (a, b oder c).
 
-**Transcript:**
+1. Von welchem Gleis fährt der Zug?  
+   a) Gleis 5  b) Gleis 7  c) Gleis 12
+2. Wann hat das Kaufhaus am Samstag geöffnet?  
+   a) Von 9 bis 20 Uhr  b) Von 9 bis 18 Uhr  c) Es ist am Samstag geschlossen.
+3. Was kostet ein Kilo Tomaten?  
+   a) 1,20 €  b) 0,99 €  c) 1,99 €
+4. Warum findet der Kurs heute nicht statt?  
+   a) Es ist ein Feiertag.  b) Die Lehrerin ist krank.  c) Der Raum ist besetzt.
+5. Wie viel kostet der Eintritt für Erwachsene?  
+   a) Nichts  b) 10 Euro  c) 6 Euro
 
-> Hallo Maria, hier ist Petra. Ich rufe an wegen Samstag. Das Konzert beginnt um 20 Uhr, nicht um 19 Uhr — ich habe die Karten jetzt. Wir treffen uns am Bahnhof um Viertel vor acht, okay? Ich habe auch ein Ticket für deine Schwester gekauft. Bitte ruf mich zurück — meine Nummer ist 0173 456 789. Tschüss!
+## Übung exam-L4 — Aufgabe 4 — Anzeigen und Aushänge
 
-</details>
+Welche Anzeige (A–E) passt zu welcher Situation (1–5)? Ordnen Sie zu.
 
----
+| Links | | Rechts |
+|---|---|---|
+| 1. Sie möchten informell Deutsch sprechen und neue Leute kennenlernen — kostenlos. | | A) A — ZIMMER ZU VERMIETEN: 18 m², ruhig, hell — 380 € warm |
+| 2. Sie suchen eine Wohnung oder ein Zimmer zur Miete. | | B) B — DEUTSCHKURS A1: Mo/Mi 18–20 Uhr, VHS Mitte — 120 € |
+| 3. Sie müssen am nächsten Montagnachmittag zum Arzt. | | C) C — ARZTPRAXIS DR. WEBER: Mo/Di/Do 8–12 & 14–18 Uhr |
+| 4. Sie möchten abends an einem offiziellen Deutschkurs teilnehmen. | | D) D — FAHRRAD ZU VERKAUFEN: Damenfahrrad blau — 80 € |
+| 5. Sie möchten ein gebrauchtes Fahrrad kaufen. | | E) E — SPRACHCAFÉ: Do 16 Uhr, Café Central — kostenlos |
 
-## Aufgabe 3 — Kurze Ansagen (Short announcements)
+## Übung exam-L5 — Aufgabe 5 — Kurze Texte: Carlos Fernández
 
-*You hear five short announcements. For each one, choose the correct answer.*
+Lesen Sie den Text und wählen Sie die richtige Antwort (a, b oder c).
 
----
+1. Woher kommt Carlos?  a) Aus Hamburg  b) Aus Mexiko  c) Aus Spanien
+2. Was ist Carlos von Beruf?  a) Lehrer  b) Arzt  c) Koch
+3. Wann hat Carlos frei?  a) Am Montag und Dienstag  b) Am Mittwoch und Donnerstag  c) Am Samstag und Sonntag
+4. Wann beginnt sein Deutschkurs?  a) Montags um 11 Uhr  b) Montags um 9 Uhr  c) Dienstags um 9 Uhr
+5. Wo sind Carlos' Frau und Kinder jetzt?  a) In Hamburg  b) In Deutschland  c) In Mexiko
 
-🎧 **Audio:** [aufgabe3_ansage1.mp3](audio/aufgabe3_ansage1.mp3)
+## Übung exam-L6 — Aufgabe 6 — Formular lesen: Yuki Tanaka
 
-**Question 1:** Von welchem Gleis fährt der Zug?
-
-a) Gleis 5
-b) Gleis 7
-c) Gleis 12
-
-<details>
-<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
-
-🎧 [aufgabe3_ansage1.mp3](audio/aufgabe3_ansage1.mp3)
-
-**Ansage 1 — Transcript**
-
-> Achtung, eine Durchsage: Zug 412 nach Hamburg fährt heute von Gleis 7 ab — nicht von Gleis 5. Abfahrt: 14:32 Uhr.
-
-</details>
-
----
-
-🎧 **Audio:** [aufgabe3_ansage2.mp3](audio/aufgabe3_ansage2.mp3)
-
-**Question 2:** Wann hat das Kaufhaus am Samstag geöffnet?
-
-a) Von 9 bis 20 Uhr
-b) Von 9 bis 18 Uhr
-c) Es ist am Samstag geschlossen.
-
-<details>
-<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
-
-🎧 [aufgabe3_ansage2.mp3](audio/aufgabe3_ansage2.mp3)
-
-**Ansage 2 — Transcript**
-
-> Das Kaufhaus Möller hat montags bis freitags von 9 bis 20 Uhr geöffnet. Samstags von 9 bis 18 Uhr. Sonntags bleibt das Kaufhaus geschlossen.
-
-</details>
-
----
-
-🎧 **Audio:** [aufgabe3_ansage3.mp3](audio/aufgabe3_ansage3.mp3)
-
-**Question 3:** Was kostet ein Kilo Tomaten?
-
-a) 1,20 €
-b) 0,99 €
-c) 1,99 €
-
-<details>
-<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
-
-🎧 [aufgabe3_ansage3.mp3](audio/aufgabe3_ansage3.mp3)
-
-**Ansage 3 — Transcript**
-
-> Im Supermarkt FRISCH haben wir heute im Angebot: Tomaten — ein Kilo für neunundneunzig Cent! Und frisches Brot — vier Brötchen für einen Euro zwanzig.
-
-</details>
-
----
-
-🎧 **Audio:** [aufgabe3_ansage4.mp3](audio/aufgabe3_ansage4.mp3)
-
-**Question 4:** Warum findet der Kurs heute nicht statt?
-
-a) Es ist ein Feiertag.
-b) Die Lehrerin ist krank.
-c) Der Raum ist besetzt.
-
-<details>
-<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
-
-🎧 [aufgabe3_ansage4.mp3](audio/aufgabe3_ansage4.mp3)
-
-**Ansage 4 — Transcript**
-
-> Guten Morgen! Hier ist der Deutschkurs A1. Die Lehrerin, Frau Hoffmann, ist heute krank. Der Kurs findet heute nicht statt. Der nächste Kurs ist am Donnerstag um 10 Uhr.
-
-</details>
-
----
-
-🎧 **Audio:** [aufgabe3_ansage5.mp3](audio/aufgabe3_ansage5.mp3)
-
-**Question 5:** Wie viel kostet der Eintritt für Erwachsene?
-
-a) Nichts
-b) 10 Euro
-c) 6 Euro
-
-<details>
-<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
-
-🎧 [aufgabe3_ansage5.mp3](audio/aufgabe3_ansage5.mp3)
-
-**Ansage 5 — Transcript**
-
-> Herzlich willkommen im Stadtmuseum! Die Öffnungszeiten sind dienstags bis sonntags von 10 bis 18 Uhr. Der Eintritt kostet sechs Euro. Kinder unter 12 Jahren zahlen nichts.
-
-</details>
-
----
-
-# Teil 2 — Lesen (Reading)
-
-**Instructions:** Read the texts and answer the questions. You have 25 minutes.
-
----
-
-## Aufgabe 4 — Anzeigen und Aushänge (Notices)
-
-*Read the five notices (A–E) and match them to the situations (1–5). Which notice fits which situation? Write the letter.*
-
-**Notice A:**
-> **ZIMMER ZU VERMIETEN**
-> 18 m², ruhig, hell, Küche und Bad gemeinsam.
-> 380 € warm. Kein Haustier.
-> Tel. 030 / 78 90 12 34
-
-**Notice B:**
-> **DEUTSCHKURS A1**
-> Montag und Mittwoch, 18–20 Uhr
-> VHS Mitte · Kursgebühr: 120 €
-> Anmeldung: vhs-mitte.de
-
-**Notice C:**
-> **ARZTPRAXIS DR. WEBER**
-> Sprechzeiten: Mo/Di/Do 8–12 Uhr und 14–18 Uhr
-> Mittwoch und Freitag: 8–12 Uhr
-> Notfalltermin: Tel. 040 / 55 66 77
-
-**Notice D:**
-> **FAHRRAD ZU VERKAUFEN**
-> Damenfahrrad, blau, guter Zustand, 3 Jahre alt.
-> Preis: 80 €.
-> E-Mail: anna.mayer@mail.de
-
-**Notice E:**
-> **SPRACHCAFÉ**
-> Jeden Donnerstag 16 Uhr, Café Central.
-> Deutsch sprechen, Leute kennenlernen — kostenlos!
-
-**Situations:**
-
-1. You want to improve your German by talking with people informally.
-2. You are looking for a place to live.
-3. You need to see a doctor next Monday afternoon.
-4. You want to take an official German course in the evening.
-5. You want to buy a second-hand bicycle.
-
----
-
-## Aufgabe 5 — Kurze Texte (Short texts)
-
-*Read the text and answer the questions. Choose a, b, or c.*
-
----
-
-**Text:**
-
-> Hallo! Mein Name ist Carlos Fernández. Ich komme aus Mexiko, aber ich wohne jetzt seit sechs Monaten in Hamburg. Ich arbeite als Koch in einem Restaurant. Mein Arbeitstag beginnt um elf Uhr vormittags und endet um elf Uhr abends — das ist lang! Am Montag und Dienstag habe ich frei. Dann mache ich Sport oder treffe Freunde. Ich lerne auch Deutsch — mein Kurs ist montags um 9 Uhr. Meine Frau und meine zwei Kinder sind noch in Mexiko, aber sie kommen im August nach Deutschland. Ich freue mich sehr!
-
-**Questions:**
-
-1. Woher kommt Carlos?
-   a) Aus Hamburg
-   b) Aus Mexiko
-   c) Aus Spanien
-
-2. Was ist Carlos von Beruf?
-   a) Lehrer
-   b) Arzt
-   c) Koch
-
-3. Wann hat Carlos frei?
-   a) Am Montag und Dienstag
-   b) Am Mittwoch und Donnerstag
-   c) Am Samstag und Sonntag
-
-4. Wann beginnt sein Deutschkurs?
-   a) Montags um 11 Uhr
-   b) Montags um 9 Uhr
-   c) Dienstags um 9 Uhr
-
-5. Wo sind Carlos' Frau und Kinder jetzt?
-   a) In Hamburg
-   b) In Deutschland
-   c) In Mexiko
-
----
-
-## Aufgabe 6 — Formular lesen (Reading a form)
-
-*Read the completed registration form and answer the questions with richtig (R) or falsch (F).*
-
----
-
-**Anmeldeformular — Deutschkurs**
-
-| Feld | Angabe |
-|---|---|
-| Vorname | Yuki |
-| Nachname | Tanaka |
-| Geburtsdatum | 14. März 1995 |
-| Geburtsort | Osaka, Japan |
-| Staatsangehörigkeit | japanisch |
-| Wohnort | Berlin |
-| Straße und Hausnummer | Berliner Straße 22 |
-| Postleitzahl | 10115 |
-| Telefonnummer | 0176 / 33 44 55 66 |
-| E-Mail | yuki.tanaka@mail.de |
-| Kurs | Deutsch A1 |
-| Kursbeginn | 5. September 2026 |
-
-**Statements:**
+Lesen Sie das Anmeldeformular und entscheiden Sie: richtig (R) oder falsch (F)?
 
 1. Yuki Tanaka kommt aus Korea. ( )
 2. Sie wohnt in Berlin. ( )
@@ -407,147 +78,127 @@ c) 6 Euro
 4. Ihr Kurs beginnt im Oktober. ( )
 5. Ihre E-Mail-Adresse ist yuki.tanaka@mail.de. ( )
 
----
+## Übung exam-L7 — Aufgabe 7 — Nachrichten lesen
 
-## Aufgabe 7 — Nachrichten lesen (Reading messages)
+Wer hat welche Nachricht geschrieben? Ordnen Sie zu (Lisa · Marco · Selin).
 
-*Read the three messages and decide: who writes what? Write the correct name.*
+| Links | | Rechts |
+|---|---|---|
+| 1. Wer hat gerade ein Baby bekommen? | | Lisa) Lisa |
+| 2. Wer kann heute nicht zum Sport kommen? | | Marco) Marco |
+| 3. Wer möchte am Samstag einkaufen gehen? | | Selin) Selin |
 
-**Names:** Lisa · Marco · Selin
+## Übung exam-S8 — Aufgabe 8 — Formular ausfüllen
 
----
+Füllen Sie das Anmeldeformular der Stadtbibliothek Hamburg mit Ihren eigenen Daten aus (oder erfinden Sie eine Person).
 
-**Message 1:**
-> Hallo! Ich kann heute leider nicht zum Sport kommen — mein Sohn ist krank. Kann jemand meine Tasche mitnehmen? Sie ist im Spind Nummer 5. Danke!
+**Your task:** Bibliothek der Stadt Hamburg — Anmeldeformular: Vorname / Nachname / Geburtsdatum / Straße und Hausnummer / Postleitzahl und Wohnort / Telefonnummer / E-Mail / Unterschrift
 
-**Message 2:**
-> Hey! Habt ihr Lust, am Samstag in die Stadt zu fahren? Ich möchte neue Schuhe kaufen. Wir können auch Mittagessen gehen. Schreibt mir bitte bis Donnerstag.
+Use:
+- [ ] Füllen Sie alle 8 Felder aus.
+- [ ] Datumsformat: TT.MM.JJJJ
+- [ ] PLZ: 5 Ziffern
 
-**Message 3:**
-> Liebe alle, ich bin jetzt offiziell Mutter! Unser Sohn Leon ist am 3. Juni um 4:20 Uhr morgens geboren. Er wiegt 3,2 kg und ist 51 cm groß. Wir sind alle glücklich!
+Self-check:
+- [ ] Alle 8 Felder ausgefüllt? (0,75 Pkt. × 8 = 6 Pkt.)
+- [ ] Datumsformat korrekt (z.B. 12.04.1990)?
+- [ ] PLZ = 5 Ziffern?
+- [ ] E-Mail-Format korrekt (name@domain.de)?
 
-**Questions:**
+## Übung exam-S9 — Aufgabe 9 — Kurze Mitteilung schreiben
 
-1. Wer hat gerade ein Baby bekommen? ______
-2. Wer kann heute nicht zum Sport kommen? ______
-3. Wer möchte am Samstag einkaufen gehen? ______
+Schreiben Sie eine kurze Mitteilung (30–40 Wörter) an Ihre Kursfreundin Anna.
 
----
+**Your task:** Sie können am Dienstag nicht in den Deutschkurs kommen. Schreiben Sie: warum / wann Sie wieder kommen / bitten Sie Anna, Ihnen die Hausaufgaben zu schicken / Gruß am Anfang und Ende.
 
-# Teil 3 — Schreiben (Writing)
+Use:
+- [ ] Gruß am Anfang und Ende
+- [ ] Grund nennen (z.B. krank / Arzttermin)
+- [ ] Rückkehrdatum angeben
+- [ ] Um Hausaufgaben bitten
 
-**Instructions:** Complete **both** writing tasks. You have 20 minutes.
+Self-check:
+- [ ] Gruß am Anfang und Ende vorhanden? (0,75 Pkt.)
+- [ ] Grund für Abwesenheit angegeben? (0,75 Pkt.)
+- [ ] Rückkehrdatum erwähnt? (0,75 Pkt.)
+- [ ] Um Hausaufgaben gebeten? (0,75 Pkt.)
+- [ ] Verständliches Deutsch / Verb in Position 2? (1,5 Pkt.)
+- [ ] Ca. 30–40 Wörter? (0,75 Pkt.)
 
----
+## Übung exam-Sp10 — Aufgabe 10 — Sich vorstellen
 
-## Aufgabe 8 — Formular ausfüllen (Fill in a form)
+Stellen Sie sich Ihrem Prüfungspartner vor. Verwenden Sie die Impulse. Jede Antwort: 1–2 Sätze.
 
-*Fill in the registration form below with your own details (or invent a person).*
+**Sich vorstellen**
 
-**Anmeldeformular — Bibliothek der Stadt Hamburg**
+Sprechen Sie über: Name · Herkunft · Wohnort · Beruf/Beschäftigung · Sprachen · Hobby
 
-| Feld | Ihre Angabe |
-|---|---|
-| Vorname | |
-| Nachname | |
-| Geburtsdatum | |
-| Straße und Hausnummer | |
-| Postleitzahl und Wohnort | |
-| Telefonnummer | |
-| E-Mail | |
-| Unterschrift | |
+- Name?
+- Herkunft? (Woher kommen Sie?)
+- Wohnort? (Wo wohnen Sie jetzt?)
+- Beruf oder Beschäftigung?
+- Welche Sprachen sprechen Sie?
+- Was machen Sie in der Freizeit?
 
----
+**Bewertungskriterien:**
+- Alle 6 Impulse mit grammatisch akzeptablen Sätzen beantwortet — 2 Pkt.
+- Aussprache und Verständlichkeit — 1 Pkt.
+- Folgefragen (W-Fragen) flüssig beantwortet — 1 Pkt.
+- Interaktion: Partner begrüßt, Blickkontakt — 1 Pkt.
 
-## Aufgabe 9 — Kurze Mitteilung schreiben (Write a short message)
+## Übung exam-Sp11 — Aufgabe 11 — Alltagssituationen
 
-*Write a short message (30–40 words) to your German course friend, Anna. Include all four points below.*
+Ziehen Sie eine Karte und reagieren Sie angemessen. Ihr Partner spielt die andere Person.
 
-**Your situation:** You cannot come to the German course on Tuesday.
+**Karten A/B — Am Bahnhof: nach dem Weg fragen**
 
-**Write about:**
-- Why you cannot come (you are ill / you have a doctor's appointment)
-- When you will come again
-- Ask Anna to send you the homework
-- A greeting at the beginning and end
+A: Am Bahnhof — fragen Sie nach dem Weg zur Innenstadt. B: Auskunft geben — Bus Nr. 7 bis Rathausplatz, dann 5 Min. geradeaus.
 
----
+- Entschuldigung sagen + nach dem Weg fragen
+- Auskunft geben: Bus 7 / Rathausplatz / geradeaus
+- Danke sagen
 
-# Teil 4 — Sprechen (Speaking)
+**Karten C/D — Im Café bestellen**
 
-**Instructions:** This part has two tasks. Practise with a partner, or record yourself. In the real exam, you work with another candidate.
+C: Im Café — Kaffee und Kuchen bestellen, Preis erfragen, bezahlen. D: Bestellung aufnehmen; Kaffee 2,80 €, Kuchen 3,20 €, gesamt 6,00 €.
 
----
+- Kaffee und Kuchen bestellen
+- Preis erfragen: "Was macht das?"
+- Bezahlen: "Stimmt so!"
 
-## Aufgabe 10 — Sich vorstellen (Introduce yourself)
+**Karten E/F — Treffen vereinbaren**
 
-*Introduce yourself to your exam partner. Use the prompts below. Each answer should be 1–2 sentences.*
+E: Freund/in anrufen — Treffen am Samstag vorschlagen. F: Samstagmorgen geht nicht (Arbeit). Gegenvorschlag: Samstagnachmittag 15 Uhr, Stadtbibliothek.
 
-| Prompt | Your answer |
-|---|---|
-| Name? | |
-| Herkunft? | |
-| Wohnort? | |
-| Beruf / Beschäftigung? | |
-| Sprachen? | |
-| Hobby? | |
+- Treffen am Samstag vorschlagen (Zeit + Ort)
+- Ablehnung + Gegenvorschlag
+- Einigung
 
-*Your partner then asks you two follow-up questions using W-Fragen (Wann? Wie lange? Wie viele…?). Answer in full sentences.*
+**Bewertungskriterien:**
+- Kommunikative Aufgabe erfüllt (Gesprächspartner reagiert korrekt) — 2 Pkt.
+- Grammatisch akzeptabel (Verben konjugiert, Artikel weitgehend korrekt) — 2 Pkt.
+- Interaktionsqualität (Sprecherwechsel, Höflichkeit) — 1 Pkt.
 
----
+## Übung exam-B12 — Aufgabe 12 — Lückentext: Grammatik gemischt
 
-## Aufgabe 11 — Alltagssituationen (Everyday situations)
+Ergänzen Sie jede Lücke mit dem richtigen Wort. Lücken 4/5 und 11/12 brauchen je zwei Wörter (Perfekt).
 
-*You will receive a card with a situation. React appropriately. Your partner plays the other person.*
+1. Ich (1) ______ aus Brasilien.
+2. Wir (2) ______ zwei Kinder.
+3. Was möchtest du (3) ______ Mittagessen essen?
+4. Er (4) ______ ein neues Fahrrad (5) ______.
+5. (6) ______ Programm läuft jetzt?
+6. Ich gehe (7) ______ dem Bus zur Arbeit.
+7. Kannst du mir (8) ______ helfen?
+8. Die Schuhe passen (9) ______ nicht.
+9. Wann (10) ______ du morgens auf?
+10. Ich (11) ______ gestern sehr müde (12) ______.
 
-**Card A (Student 1):**
-You are at the train station. You want to know how to get to the city centre (Innenstadt). Ask a passerby (your partner).
+## Übung exam-B13 — Aufgabe 13 — Finde den Fehler
 
-**Card B (Student 2 / passerby):**
-You are at the train station. Give directions: take bus number 7, stop at Rathausplatz, then walk 5 minutes straight ahead.
+Jeder Satz enthält genau einen Fehler. Finden und korrigieren Sie ihn.
 
----
-
-**Card C (Student 1):**
-You are in a café. Order a coffee and a piece of cake. Ask how much it costs. Pay and say "Keep the change."
-
-**Card D (Student 2 / waiter/waitress):**
-You work in a café. Take the order. The coffee costs €2.80, the cake costs €3.20. The total is €6.00.
-
----
-
-**Card E (Student 1):**
-You call a friend. You want to arrange a meeting (Treffen) on Saturday. Suggest a time and a place.
-
-**Card F (Student 2 / friend):**
-You cannot come on Saturday morning — you have to work. Suggest Saturday afternoon at 3 pm at the city library.
-
----
-
-# Zusatzübung — Grammatik-Schnelltest (Grammar Quick-Check)
-
-*This section is NOT part of the official exam format. Use it for a final grammar check before or after the mock exam.*
-
-## Aufgabe 12 — Lückentext: Grammatik gemischt
-
-Fill each gap with the correct word. (One word per gap, except item 4 and 10 which need two words.)
-
-1. Ich ______ (sein, ich) aus Brasilien.
-2. Wir ______ (haben) zwei Kinder.
-3. Was möchtest du ______ Mittagessen essen? (temporal preposition)
-4. Er ______ ein neues Fahrrad ______. (kaufen — Perfekt: two words)
-5. ______ Programm läuft jetzt? (which — neuter)
-6. Ich gehe ______ dem Bus zur Arbeit. (preposition + transport)
-7. Kannst du mir ______ (bitte) helfen?
-8. Die Schuhe passen ______ nicht. (dative: me)
-9. Wann ______ (aufstehen, du) morgens auf?
-10. Ich ______ gestern sehr müde ______. (sein — Perfekt: two words)
-
-## Aufgabe 13 — Finde den Fehler
-
-Each sentence has exactly **one** mistake. Find and correct it.
-
-1. Ich habe gestern ins Kino gegangen.
+**Your task:** 1. Ich habe gestern ins Kino gegangen.
 2. Kannst du kommen Sie morgen?
 3. Er muss früh aufstehen morgen.
 4. Sie hat keinen Kinder.
@@ -556,21 +207,43 @@ Each sentence has exactly **one** mistake. Find and correct it.
 7. Ich bin letztes Woche zum Arzt gefahren.
 8. Die Kinder spielen gern Fußball. Sie sind sehr sportliche.
 
-## Aufgabe 14 — Übersetzen (EN → DE)
 
-1. When does the train leave?
+Self-check:
+- [ ] 1. habe → bin (gehen = Perfekt mit sein)
+- [ ] 2. Sie → (entfernen) — kein Sie nach du-Form: Kannst du morgen kommen?
+- [ ] 3. aufstehen morgen → morgen früh aufstehen (Zeitangabe vor Partikel)
+- [ ] 4. keinen → keine (Kinder = Plural → keine)
+- [ ] 5. ich → mir (gefallen + Dativ: Er gefällt mir)
+- [ ] 6. ein → einen (der Termin, mask. Akkusativ → einen)
+- [ ] 7. letztes → letzte (die Woche, fem. → letzte)
+- [ ] 8. sportliche → sportlich (prädikatives Adjektiv nach sein: keine Endung)
+
+## Übung exam-B14 — Aufgabe 14 — Übersetzen (EN → DE)
+
+Übersetzen Sie die Sätze ins Deutsche.
+
+**Your task:** 1. When does the train leave?
 2. I'd like a glass of water, please.
 3. She can't come today — she has a headache.
 4. We bought a new table yesterday.
 5. Do you (Sie) have a doctor's appointment?
 6. He works as a cook in a restaurant.
 
-## Aufgabe 15 — Satzbau
 
-Rearrange the words into a correct German sentence.
+Self-check:
+- [ ] 1. Wann fährt der Zug ab? (Trennverb abfahren; Verb in Pos. 2)
+- [ ] 2. Ich möchte ein Glas Wasser, bitte.
+- [ ] 3. Sie kann heute nicht kommen — sie hat Kopfschmerzen.
+- [ ] 4. Wir haben gestern einen neuen Tisch gekauft. (neuen = Akk. mask.)
+- [ ] 5. Haben Sie einen Arzttermin? (einen = Akk. mask.)
+- [ ] 6. Er arbeitet als Koch in einem Restaurant. (als + Nom.; in einem = Dat.)
 
-1. um – ich – stehe – sieben – auf – Uhr
-2. können – Sie – buchstabieren – Ihren – bitte – Namen – ?
-3. hat – meine – Mutter – gestern – gekauft – Obst
-4. ist – der – Zug – Uhr – um – 14:32 – abgefahren
-5. freue – ich – auf – mich – den – Sommer – sehr
+## Übung exam-B15 — Aufgabe 15 — Satzbau
+
+Bringen Sie die Wörter in die richtige Reihenfolge.
+
+1. Ich – um – Uhr – auf – sieben – stehe
+2. bitte – ? – Können – buchstabieren – Namen – Ihren – Sie
+3. hat – Obst – Meine – gestern – gekauft – Mutter
+4. Der – ist – um – 14:32 – abgefahren – Uhr – Zug
+5. auf – sehr – mich – Sommer – freue – Ich – den

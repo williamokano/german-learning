@@ -89,7 +89,7 @@ P5-migrated yml) produce the correct per-skill and total scores and pass verdict
 
 ---
 
-## P4 — Generators (`gen-exercises`, `strip-lesson`)
+## ✅ P4 — Generators (`gen-exercises`, `strip-lesson`)
 
 **Deliverable:** print artifacts generated from source; CI drift check.
 - `build/gen-exercises.ts` with **all render rules** (`BUILD-PIPELINE.md §1.1–1.2`):

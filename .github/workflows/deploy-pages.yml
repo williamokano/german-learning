@@ -42,8 +42,8 @@ jobs:
 
       - run: pnpm -C web install --frozen-lockfile
 
-      # P4+: uncomment once gen-exercises exists to assert no drift
-      # - run: pnpm -C web exec tsx ../build/gen-exercises.ts --all --check
+      - name: Assert exercises.md/solutions.md are in sync with exercises.yml
+        run: npx --yes tsx build/gen-exercises.ts --all --check
 
       - run: pnpm -C web build
 
