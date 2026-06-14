@@ -387,18 +387,32 @@ Fill in the gaps with the correct Konjunktiv II form (`würde`, `könnte`, `hät
 7. „Das ______ so praktisch — ich nehme das!" (exclamation about something nice)
 8. „Ich ______ lieber einen Fensterplatz, wenn möglich." (preference)
 
-## Übung B9 — Antworten mit Konjunktiv II
+## Übung B9 — Restaurant-Reservierung: E-Mail an das Restaurant
 
-Answer each question with a full sentence using Konjunktiv II.
+**E-Mail von Restaurant „Zum goldenen Löwen"** *(Du hast diese Antwort gerade bekommen)*:
+> Sehr geehrte/r Gast,
+> vielen Dank für Ihre Reservierungsanfrage. Am Samstag um 19 Uhr
+> haben wir leider keinen Tisch mehr frei. Wir könnten Ihnen
+> einen Tisch um 20 Uhr 30 anbieten, oder einen ruhigen Tisch am
+> Fenster am Freitag um 19 Uhr. Bitte geben Sie uns bald
+> Bescheid, welcher Termin Ihnen passt.
+> Mit freundlichen Grüßen, M. Becker
 
-1. Was würdest du gern heute Abend machen? (go to the cinema)
-   → ______________________
-2. Wann könntest du uns besuchen? (Saturday evening)
-   → ______________________
-3. Was hättest du gern zum Essen? (the daily special)
-   → ______________________
-4. Wäre Montag okay für das Treffen? (yes, that would be perfect)
-   → ______________________
+**Your task:** Schreib eine höfliche E-Mail als Antwort in **4–5 Sätzen**.
+Wähle einen der vorgeschlagenen Termine und frag nach etwas
+(die Speisekarte, ein Kindersitz, …). Benutze Konjunktiv II für
+höfliche Bitten.
+
+Use:
+- [ ] at least **1** sentence with `würde + Infinitiv` (*Ich würde gern … / Würden Sie …?*)
+- [ ] at least **1** sentence with `könnte` / `Könnten Sie` (a polite request)
+- [ ] at least **1** sentence with `hätte gern` / `Ich hätte lieber …` (a wish)
+- [ ] a polite closing (*Vielen Dank im Voraus. / Ich freue mich auf …*)
+
+**Self-check before moving on:**
+- [ ] Did I keep the **verb at the end** of subordinate clauses (*weil, dass, wenn*)?
+- [ ] Did I use `würde` + **infinitive** (not *wird + infinitive*) for Konjunktiv II?
+- [ ] Did I use `Könnten Sie …?` (not *Können Sie …?*) for a polite request?
 
 ---
 

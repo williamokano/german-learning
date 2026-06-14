@@ -257,6 +257,19 @@
 3. Ich hätte gern das Tagesgericht.
 4. Ja, Montag wäre perfekt! *(also fine: Ja, das wäre ideal!)*
 
+## B9 — Restaurant-Reservierung: E-Mail an das Restaurant (model answer)
+
+> Sehr geehrte Frau Becker,
+> vielen Dank für Ihre schnelle Antwort. Ich würde gern den Tisch am
+> Freitag um 19 Uhr nehmen — der ruhige Tisch am Fenster klingt
+> wunderbar. Könnten Sie mir bitte einen Kindersitz für meine Tochter
+> reservieren? Sie ist drei Jahre alt. Ich hätte auch gern vorher die
+> Speisekarte per E-Mail, falls das möglich ist. Vielen Dank im
+> Voraus. Mit freundlichen Grüßen, [Name]
+
+*(A correct reply: ≥1 `würde`+Infinitiv, ≥1 `könnte`/`Könnten Sie`,
+≥1 `hätte gern`, polite closing. Any equivalent is accepted.)*
+
 ---
 
 # Block C — Prüfungstraining
