@@ -1,0 +1,1014 @@
+lesson: A1/06
+title: "A1 · Lektion 6 — Übungen"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog 1: Was machst du gern?"
+    audio: dialog1.mp3
+    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    items:
+      - q: "Bruno spielt gern Fußball."
+        answer: true
+        why: 'Bruno sagt: „Ich spiele gern Fußball!"'
+      - q: "Anna geht auch gern ins Schwimmbad."
+        answer: false
+        why: 'Anna geht nur „im Sommer" schwimmen — sie sagt nie „gern".'
+
+  - id: H1b
+    block: H
+    type: true-false
+    title: "Dialog 2: Das Wetter ist schlecht"
+    audio: dialog2.mp3
+    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    items:
+      - q: "Im zweiten Dialog regnet es."
+        answer: true
+        why: 'Bruno: „Es regnet und es ist windig."'
+      - q: "Am Ende gehen Anna und Bruno ins Kino."
+        answer: false
+        why: 'Anna „kann heute nicht" (sie trifft ihre Schwester) — nur Bruno geht ins Kino.'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill each gap with one word from the bank. Three words are not needed."
+    text: |
+      Am {1} spielt Bruno gern {2} im Park. Manchmal spielt er auch mit
+      Anna Tennis. Am {3} geht er schwimmen — das {4} ist im Park.
+      Anna sieht lieber fern oder hört {5}. Am {6} kochen sie zusammen
+      und essen Pizza.
+    bank: [Samstag, Fußball, Sonntag, Schwimmbad, Musik, Abend, Tennis, Freitag, Kino]
+    answers:
+      "1": Samstag
+      "2": Fußball
+      "3": Sonntag
+      "4": Schwimmbad
+      "5": Musik
+      "6": Abend
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Einladung zum Yoga-Kurs"
+    audio: transcript_ansage1.mp3
+    instructions: "Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    transcript: 'Hallo Anna, hier ist Tom. Ich rufe an wegen dem Yoga-Kurs am Samstag. Der Kurs fängt um zehn Uhr morgens im Sportstudio „aktiv" an. Du brauchst nur bequeme Kleidung und eine Matte. Der Kurs kostet fünfzehn Euro pro Stunde. Du kannst auch ohne Anmeldung kommen. Bitte ruf mich zurück, wenn du mitmachen willst! Vielen Dank!'
+    items:
+      - q: "Wessen Nachricht ist das?"
+        options:
+          - { key: a, text: "Von Anna." }
+          - { key: b, text: "Von Tom." }
+          - { key: c, text: "Von Maria." }
+        answer: b
+        why: 'Hallo Anna, hier ist Tom.'
+      - q: "Worum geht es?"
+        options:
+          - { key: a, text: "Um einen Yoga-Kurs." }
+          - { key: b, text: "Um einen Computerkurs." }
+          - { key: c, text: "Um einen Sprachkurs." }
+        answer: a
+        why: '„Ich rufe an wegen dem Yoga-Kurs am Samstag."'
+      - q: "Was soll Anna mitbringen?"
+        options:
+          - { key: a, text: "Eine Matte und bequeme Kleidung." }
+          - { key: b, text: "Einen Laptop." }
+          - { key: c, text: "Ein Buch." }
+        answer: a
+        why: '„Du brauchst nur bequeme Kleidung und eine Matte."'
+      - q: "Was kostet der Kurs pro Stunde?"
+        options:
+          - { key: a, text: "Zehn Euro." }
+          - { key: b, text: "Fünfzehn Euro." }
+          - { key: c, text: "Zwanzig Euro." }
+        answer: b
+        why: '„Der Kurs kostet fünfzehn Euro pro Stunde."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`können`: Konjugation und Sätze"
+    text: |
+      1. ich {1} · du {2} · er/sie/es {3} · wir {4} · ihr {5} · sie/Sie {6}
+      2. Ich {7} schwimmen.
+      3. {8} du Gitarre spielen?
+      4. Er {9} sehr gut kochen.
+      5. Wir {10} heute nicht kommen.
+      6. {11} ihr Ski fahren?
+      7. Anna und Lena {12} sehr gut tanzen.
+    answers:
+      "1": kann
+      "2": kannst
+      "3": kann
+      "4": können
+      "5": könnt
+      "6": können
+      "7": kann
+      "8": Kannst
+      "9": kann
+      "10": können
+      "11": Könnt
+      "12": können
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Build the bracket"
+    instructions: "Rewrite with `können`. The second verb goes to the END as an infinitive! Example: Ich schwimme gut. → Ich kann gut schwimmen."
+    text: |
+      1. Ich schwimme gut. → {1}
+      2. Er kocht sehr gut. → {2}
+      3. Wir spielen Tennis. → {3}
+      4. Anna fährt Rad. → {4}
+      5. Du singst gut. → {5}
+      6. Lena tanzt sehr gut. → {6}
+      7. Ihr spielt Gitarre. → {7}
+      8. Ich stehe nicht früh auf. → {8} ⚠️ (separable!)
+    answers:
+      "1": "Ich kann gut schwimmen."
+      "2": "Er kann sehr gut kochen."
+      "3": "Wir können Tennis spielen."
+      "4": "Anna kann Rad fahren."
+      "5": "Du kannst gut singen."
+      "6": "Lena kann sehr gut tanzen."
+      "7": "Ihr könnt Gitarre spielen."
+      "8": "Ich kann nicht früh aufstehen."
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`können` in mini-dialogues"
+    text: |
+      1. {1} du heute mitkommen?
+      2. — Nein, ich {2} leider nicht.
+      3. {3} ihr Ski fahren?
+      4. — Ja, wir {4} sehr gut Ski fahren.
+      5. {5} Sie bitte buchstabieren?
+      6. Sofia ist vier Jahre alt, aber sie {6} schon schwimmen!
+      7. {7} du bitte Brot kaufen?
+      8. Es regnet. Wir {8} heute nicht Rad fahren.
+    answers:
+      "1": Kannst
+      "2": kann
+      "3": Könnt
+      "4": können
+      "5": Können
+      "6": kann
+      "7": Kannst
+      "8": können
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`lesen` und `sehen` (e → ie!)"
+    text: |
+      1. Ich {1} (lesen) gern Krimis.
+      2. Was {2} (lesen) du gern?
+      3. Er {3} (lesen) ein Buch.
+      4. {4} (lesen) ihr gern?
+      5. Wir {5} (lesen) die Anzeige.
+      6. Ich {6} (sehen) gern Filme.
+      7. {7} (sehen) du das Kino da?
+      8. Sie {8} (sehen) am liebsten Filme für Kinder. (= she)
+      9. Was {9} (sehen) ihr im Kino?
+      10. {10} (sehen) Sie den Park?
+    answers:
+      "1": lese
+      "2": liest
+      "3": liest
+      "4": Lest
+      "5": lesen
+      "6": sehe
+      "7": Siehst
+      "8": sieht
+      "9": seht
+      "10": Sehen
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`fahren` (a → ä) und `treffen` (e → i)"
+    text: |
+      1. Ich {1} (fahren) gern Rad.
+      2. {2} (fahren) du Ski?
+      3. Er {3} (fahren) am Sonntag Rad.
+      4. Wir {4} (fahren) im Winter Ski.
+      5. {5} (fahren) ihr auch Rad?
+      6. Ich {6} (treffen) heute Anna.
+      7. {7} (treffen) du oft deine Freunde?
+      8. Sie {8} (treffen) ihre Freundin im Café. (= she)
+      9. Wir {9} (treffen) Bruno um acht.
+      10. {10} (treffen) ihr Tom am Samstag?
+    answers:
+      "1": fahre
+      "2": Fährst
+      "3": fährt
+      "4": fahren
+      "5": Fahrt
+      "6": treffe
+      "7": Triffst
+      "8": trifft
+      "9": treffen
+      "10": Trefft
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`fernsehen`: separable AND e → ie"
+    instructions: "Two gaps per sentence!"
+    text: |
+      1. Ich {1} abends gern {2}.
+      2. {3} du viel {4}?
+      3. Er {5} nicht gern {6}.
+      4. Wir {7} am Abend {8}.
+      5. {9} ihr oft {10}?
+      6. Oma Erika {11} nie {12}.
+    answers:
+      "1": sehe
+      "2": fern
+      "3": Siehst
+      "4": fern
+      "5": sieht
+      "6": fern
+      "7": sehen
+      "8": fern
+      "9": Seht
+      "10": fern
+      "11": sieht
+      "12": fern
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Stem changes mixed (incl. earlier lessons)"
+    instructions: "Write the correct form."
+    text: |
+      1. du (lesen) → du {1}
+      2. er (sehen) → er {2}
+      3. du (fahren) → du {3}
+      4. er (treffen) → er {4}
+      5. du (essen) (L3) → du {5}
+      6. er (schlafen) (L5) → er {6}
+      7. du (sprechen) (L1) → du {7}
+      8. er (nehmen) (L3) → er {8}
+      9. du (können) → du {9}
+      10. er (anfangen) (L5) → er {10} … {11} an ⚠️ (separable!)
+    answers:
+      "1": liest
+      "2": sieht
+      "3": fährst
+      "4": trifft
+      "5": isst
+      "6": schläft
+      "7": sprichst
+      "8": nimmt
+      "9": kannst
+      "10": fängt
+      "11": an
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "gern, lieber, am liebsten"
+    instructions: "(+) = gern · (++) = lieber · (+++) = am liebsten"
+    text: |
+      1. Ich spiele {1} Fußball. (+)
+      2. Ich schwimme {2}. (++)
+      3. {3} {4} fahre ich Rad. (+++)
+      4. Trinkst du Kaffee oder {5} Tee? (++)
+      5. Anna liest {6} Krimis. (+)
+      6. Felix spielt am {7} Klavier. (+++)
+      7. Ich sehe nicht {8} fern. (+)
+      8. Was machst du {9}: tanzen oder singen? (++)
+    answers:
+      "1": gern
+      "2": lieber
+      "3": Am
+      "4": liebsten
+      "5": lieber
+      "6": gern
+      "7": liebsten
+      "8": gern
+      "9": lieber
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Das Wetter"
+    text: |
+      1. Es {1}. (rain)
+      2. Es {2}. (snow)
+      3. Die Sonne {3}.
+      4. Es ist {4}. (cold)
+      5. Es ist {5}. (hot)
+      6. Es ist {6}. (windy)
+      7. Es sind 25 {7}.
+      8. Wie ist das {8} heute?
+    answers:
+      "1": regnet
+      "2": schneit
+      "3": scheint
+      "4": kalt
+      "5": heiß
+      "6": windig
+      "7": Grad
+      "8": Wetter
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die Jahreszeiten"
+    instructions: "Which season is it? Fill in `im` + season for the second part."
+    text: |
+      1. Es schneit und es ist sehr kalt: der {1}
+      2. Die Sonne scheint und es ist heiß: der {2}
+      3. Es ist oft windig und es regnet viel: der {3}
+      4. Es ist warm, aber nicht heiß — alles ist grün: der {4}
+      5. {5} {6} gehe ich oft schwimmen. (summer)
+      6. Wir fahren {7} {8} Ski. (winter)
+      7. {9} {10} regnet es oft. (autumn)
+      8. {11} {12} ist alles grün. (spring)
+    answers:
+      "1": Winter
+      "2": Sommer
+      "3": Herbst
+      "4": Frühling
+      "5": Im
+      "6": Sommer
+      "7": im
+      "8": Winter
+      "9": Im
+      "10": Herbst
+      "11": Im
+      "12": Frühling
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Which verb fits?"
+    instructions: "Verbs can be used more than once: spielen · hören · fahren · sehen · treffen · lesen · gehen"
+    text: |
+      1. Fußball {1}
+      2. Musik {2}
+      3. Rad {3}
+      4. einen Film {4}
+      5. Freunde {5}
+      6. ein Buch {6}
+      7. Ski {7}
+      8. Gitarre {8}
+      9. schwimmen {9}
+      10. ins Kino {10}
+    answers:
+      "1": spielen
+      "2": hören
+      "3": fahren
+      "4": sehen
+      "5": treffen
+      "6": lesen
+      "7": fahren
+      "8": spielen
+      "9": gehen
+      "10": gehen
+
+  - id: A12
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Build sentences with gern"
+    instructions: "Example: ich / gern / Musik hören → Ich höre gern Musik."
+    text: |
+      1. ich / gern / Musik hören → {1}
+      2. Anna / lieber / Rad fahren → {2}
+      3. wir / am liebsten / schwimmen → {3}
+      4. Felix / gern / Klavier spielen → {4}
+      5. ich / nicht gern / fernsehen → {5}
+      6. du / gern / lesen / ? → {6}
+    answers:
+      "1": "Ich höre gern Musik."
+      "2": "Anna fährt lieber Rad."
+      "3": "Wir schwimmen am liebsten."
+      "4": "Felix spielt gern Klavier."
+      "5": "Ich sehe nicht gern fern."
+      "6": "Liest du gern?"
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog: Gehen wir schwimmen?"
+    text: |
+      — Hallo Anna! (1) {1} du am Samstag Zeit?
+      — Ja, am Samstag bin ich (2) {2}.
+      — Super! Die Sonne (3) {3} und es ist warm. Gehen wir schwimmen?
+      — Gute (4) {4}! Wo?
+      — Im Schwimmbad im Park.
+      — Und Felix? Kommt er (5) {5}?
+      — Nein, er (6) {6} nicht kommen. Er spielt Fußball.
+      — Schade! Um (7) {7} viel Uhr gehen wir?
+      — Um zwei. Bis (8) {8}!
+    answers:
+      "1": Hast
+      "2": frei
+      "3": scheint
+      "4": Idee
+      "5": mit
+      "6": kann
+      "7": wie
+      "8": Samstag
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog: Hobbys"
+    text: |
+      — Was machst du gern in deiner (1) {1}?
+      — Ich (2) {2} gern Bücher und ich höre Musik.
+      — (3) {3} du ein Instrument?
+      — Ja, ich spiele Klavier. Und du?
+      — Ich (4) {4} gern Sport: Ich jogge und ich (5) {5} Rad.
+      — (6) {6} du auch schwimmen?
+      — Ja, aber nicht gut. Ich fahre (7) {7} Rad.
+      — Und am Wochenende?
+      — Da (8) {8} ich meine Freunde.
+    answers:
+      "1": Freizeit
+      "2": lese
+      "3": Spielst
+      "4": mache
+      "5": fahre
+      "6": Kannst
+      "7": lieber
+      "8": treffe
+
+  - id: B3
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler"
+    instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
+    text: |
+      1. Ich kann gut {1}. (schwimme → ?)
+      2. Er {2} sehr gut kochen. (kannt → ?)
+      3. Kannst du {3}? (spielen Klavier → ?)
+      4. Ich {4} am Abend gern. (fernsehe → ?)
+      5. Du {5} gern Bücher. (lest → ?)
+      6. Er {6} am Sonntag Rad. (fahrt → ?)
+      7. Am liebsten {7} Krimis. (ich lese → ?)
+      8. {8} regnet. (Es ist → ?)
+      9. Du {9} deine Freunde im Park. (treffst → ?)
+      10. {10} Winter schneit es oft. (In → ?)
+    answers:
+      "1": schwimmen
+      "2": kann
+      "3": "Klavier spielen"
+      "4": sehe
+      "5": liest
+      "6": fährt
+      "7": "lese ich"
+      "8": Es
+      "9": triffst
+      "10": Im
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    left:
+      - { key: "1", text: "Was machst du gern in deiner Freizeit?" }
+      - { key: "2", text: "Kannst du schwimmen?" }
+      - { key: "3", text: "Wie ist das Wetter?" }
+      - { key: "4", text: "Gehen wir ins Kino?" }
+      - { key: "5", text: "Kommst du mit?" }
+      - { key: "6", text: "Was machst du lieber: schwimmen oder Rad fahren?" }
+      - { key: "7", text: "Spielst du ein Instrument?" }
+      - { key: "8", text: "Hast du am Samstag Zeit?" }
+    right:
+      - { key: a, text: "Gute Idee! Der Film fängt um acht an." }
+      - { key: b, text: "Es regnet und es ist kalt." }
+      - { key: c, text: "Ich lese gern und höre Musik." }
+      - { key: d, text: "Ja, am Samstag bin ich frei." }
+      - { key: e, text: "Ja, aber nicht sehr gut." }
+      - { key: f, text: "Ja, Klavier." }
+      - { key: g, text: "Nein, ich habe leider keine Zeit." }
+      - { key: h, text: "Ich fahre lieber Rad." }
+    answers:
+      "1": c
+      "2": e
+      "3": b
+      "4": a
+      "5": g
+      "6": h
+      "7": f
+      "8": d
+
+  - id: B5
+    block: B
+    type: order
+    title: "Satzbau"
+    items:
+      - tiles: [kann, gut, ich, kochen]
+        answer: [2, 0, 1, 3]
+        note: "Ich kann gut kochen."
+      - tiles: [du, Gitarre, kannst, spielen, "?"]
+        answer: [2, 0, 1, 3, 4]
+        note: "Kannst du Gitarre spielen?"
+      - tiles: [liest, am, liebsten, Krimis, Anna]
+        answer: [4, 0, 1, 2, 3]
+        note: "Anna liest am liebsten Krimis."
+      - tiles: [wir, ins, Kino, am, Samstag, gehen, können]
+        answer: [0, 6, 3, 4, 1, 2, 5]
+        note: "Wir können am Samstag ins Kino gehen."
+      - tiles: [fern, abends, sieht, er]
+        answer: [3, 2, 1, 0]
+        note: "Er sieht abends fern."
+      - tiles: [das, Wetter, wie, ist, heute, "?"]
+        answer: [2, 3, 0, 1, 4, 5]
+        note: "Wie ist das Wetter heute?"
+      - tiles: [scheint, die, Sonne, im, Sommer]
+        answer: [3, 4, 0, 1, 2]
+        note: "Im Sommer scheint die Sonne."
+      - tiles: [du, Lust, hast, "?"]
+        answer: [2, 0, 1, 3]
+        note: "Hast du Lust?"
+      - tiles: [ich, schwimmen, im, Winter, nicht, kann]
+        answer: [2, 3, 5, 0, 4, 1]
+        note: "Im Winter kann ich nicht schwimmen."
+      - tiles: [trifft, ihre, Freunde, am, Wochenende, sie]
+        answer: [5, 0, 3, 4, 1, 2]
+        note: "Sie trifft am Wochenende ihre Freunde."
+
+  - id: B6
+    block: B
+    type: categorize
+    title: "Kategorien"
+    instructions: "Sort the 12 words: Sport · Musik · Wetter · Jahreszeiten"
+    buckets:
+      - { key: sport, label: "Sport" }
+      - { key: musik, label: "Musik" }
+      - { key: wetter, label: "Wetter" }
+      - { key: jahreszeiten, label: "Jahreszeiten" }
+    tokens:
+      - { text: "Fußball", bucket: sport }
+      - { text: "schwimmen", bucket: sport }
+      - { text: "joggen", bucket: sport }
+      - { text: "Gitarre", bucket: musik }
+      - { text: "singen", bucket: musik }
+      - { text: "Musik", bucket: musik }
+      - { text: "Regen", bucket: wetter }
+      - { text: "Schnee", bucket: wetter }
+      - { text: "Wind", bucket: wetter }
+      - { text: "Frühling", bucket: jahreszeiten }
+      - { text: "Herbst", bucket: jahreszeiten }
+      - { text: "Winter", bucket: jahreszeiten }
+
+  - id: B7
+    block: B
+    type: free-write
+    title: "Answer with the cues"
+    prompt: "Answer each question using the cue given in brackets. Write a full sentence."
+    stimulus: |
+      1. Was machst du gern in deiner Freizeit? (lesen + Musik hören)
+      2. Kannst du Ski fahren? (no)
+      3. Wie ist das Wetter heute? (sun + warm)
+      4. Was liest du am liebsten? (Krimis)
+      5. Gehen wir am Samstag schwimmen? (yes — good idea!)
+      6. Kommst du mit ins Kino? (no — no time)
+      7. Was spielt dein Bruder? (Gitarre)
+      8. Wann triffst du deine Freunde? (am Wochenende)
+    model: |
+      1. Ich lese gern und (ich) höre Musik.
+      2. Nein, ich kann nicht Ski fahren. / Nein, leider nicht.
+      3. Die Sonne scheint und es ist warm.
+      4. Am liebsten lese ich Krimis. / Ich lese am liebsten Krimis.
+      5. Ja, gute Idee! / Ja, gern!
+      6. Nein, ich habe leider keine Zeit. / Tut mir leid, ich habe keine Zeit.
+      7. Er spielt Gitarre.
+      8. Ich treffe meine Freunde am Wochenende. / Am Wochenende.
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Write the question"
+    prompt: "Write a question for each answer."
+    stimulus: |
+      1. _____? — Ich spiele gern Fußball.
+      2. _____? — Ja, ich kann sehr gut kochen.
+      3. _____? — Es schneit und es ist kalt.
+      4. _____? — Am liebsten lese ich Krimis.
+      5. _____? — Nein, ich spiele kein Instrument.
+      6. _____? — Ich treffe meine Freunde am Samstag.
+    model: |
+      1. Was machst du gern (in deiner Freizeit)? (also fine: Was spielst du gern?)
+      2. Kannst du (gut) kochen?
+      3. Wie ist das Wetter (heute)?
+      4. Was liest du am liebsten?
+      5. Spielst du ein Instrument?
+      6. Wann triffst du deine Freunde?
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Meine Hobbys"
+    prompt: "Ein neuer Freund / eine neue Freundin fragt dich, was du gern in deiner Freizeit machst. Schreib 3–4 Sätze und antworte: was du gern machst, was du kannst, und was du nicht kannst."
+    use:
+      - "at least 2 hobbies with `gern` / `lieber` / `am liebsten` — Ich spiele gern Fußball. / Ich koche am liebsten."
+      - "at least 1 sentence with `können` — Ich kann gut Gitarre spielen."
+      - "at least 1 sentence with `nicht` + `können` (negation) — Ich kann nicht gut singen."
+      - "at least 1 weather expression — bei schönem Wetter / im Winter / im Sommer"
+    selfCheck:
+      - "Did I use the **Satzklammer** (verb bracket) correctly — `kann` in position 2 and the infinitive at the **end** (Ich kann gut Gitarre spielen)?"
+      - "Did I use `gern` after the verb (Ich spiele gern Fußball — not Ich gern spiele)?"
+      - "For weather: did I use `im` for seasons (im Winter, im Sommer) and `bei` for conditions (bei schönem Wetter)?"
+    model: |
+      In meiner Freizeit spiele ich gern Fußball mit meinen Freunden —
+      im Sommer und im Winter, wenn das Wetter schön ist. Ich kann
+      auch gut Gitarre spielen, aber ich kann nicht singen. Am
+      liebsten koche ich am Wochenende — ich koche gern italienisch.
+      Bei schlechtem Wetter sehe ich gern Filme im Wohnzimmer.
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    title: "Lückentext"
+    instructions: "Fill each gap with one word."
+    text: |
+      Jonas wohnt in Köln. Er hat viele Hobbys: Er {1} sehr gern
+      Bücher, am liebsten Krimis. Er hört auch gern {2} und
+      spielt Gitarre. Am Samstag {3} er Freunde, und sie spielen
+      Fußball im Park. Am Sonntag {4} er gern Rad. Im Winter ist
+      das nicht gut: Es ist {5} kalt. Dann bleibt Jonas zu Hause:
+      Er {6} fern oder liest. Heute regnet {7}. Jonas ruft
+      einen Freund {8}: „Wir {9} ins Kino gehen! Hast du
+      {10}?"
+    answers:
+      "1": liest
+      "2": Musik
+      "3": trifft
+      "4": fährt
+      "5": zu
+      "6": sieht
+      "7": es
+      "8": an
+      "9": können
+      "10": Lust
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    items:
+      - q: "Am Samstag (1) ____ ich Freunde — wir spielen Fußball im Park."
+        options:
+          - { key: a, text: "treffe" }
+          - { key: b, text: "triffst" }
+          - { key: c, text: "trifft" }
+        answer: a
+        why: "ich-Form: treffe."
+      - q: "Das Wetter ist schön: Die Sonne (2) ____ und es ist warm."
+        options:
+          - { key: a, text: "regnet" }
+          - { key: b, text: "scheint" }
+          - { key: c, text: "schneit" }
+        answer: b
+        why: 'the sun shines — it doesn''t rain in a „schön" weather report.'
+      - q: "Am Sonntag (3) ____ Bruno und ich Rad fahren."
+        options:
+          - { key: a, text: "kann" }
+          - { key: b, text: "können" }
+          - { key: c, text: "könnt" }
+        answer: b
+        why: "Bruno und ich = wir → können."
+      - q: "Ich schwimme gern, aber ich fahre (4) ____ Rad."
+        options:
+          - { key: a, text: "lieber" }
+          - { key: b, text: "liebsten" }
+          - { key: c, text: "am" }
+        answer: a
+        why: 'preference after „aber" — lieber.'
+      - q: "Hast du (5) ____? Wir können zusammen Fußball spielen."
+        options:
+          - { key: a, text: "Lust" }
+          - { key: b, text: "Durst" }
+          - { key: c, text: "Wetter" }
+        answer: a
+        why: "Hast du Lust? = the suggestion chunk."
+      - q: "Bis (6) ____!"
+        options:
+          - { key: a, text: "bald" }
+          - { key: b, text: "gern" }
+          - { key: c, text: "warm" }
+        answer: a
+        why: "Bis bald! = See you soon!"
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
+    text: |
+      — Hallo Anna! Wie ist das Wetter in Berlin?
+      — Es {1} und es ist kalt — nur zehn {2}.
+      — Oh! Hier scheint die {3}. Was machst du heute?
+      — Ich {4} meine Freunde. Wir spielen Karten. Und du?
+      — Ich gehe heute ins Kino.
+      — Schön! Und Lena? Kommt sie {5}?
+      — Nein, sie {6} heute Rad.
+      — Und was macht Oma Erika?
+      — Sie {7} ein Buch. Sie liest sehr {8}.
+      — Was {9} du im Kino?
+      — Einen Film mit Bruno und Paula. Kommst du am Sonntag? Wir {10}
+      zusammen Rad fahren.
+      — Ja, gern!
+    bank: [BUCH, FÄHRT, GERN, GRAD, KÖNNEN, LIEBER, LIEST, MIT, REGNET, SCHWIMMT, SIEHST, SONNE, TREFFE, WARM, WINTER]
+    answers:
+      "1": REGNET
+      "2": GRAD
+      "3": SONNE
+      "4": TREFFE
+      "5": MIT
+      "6": FÄHRT
+      "7": LIEST
+      "8": GERN
+      "9": SIEHST
+      "10": KÖNNEN
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 — Annas Familie und ihre Hobbys"
+    instructions: 'Read „Annas Familie und ihre Hobbys" in lesson.md, section 6. Richtig (R) oder falsch (F)?'
+    items:
+      - q: "Anna liest am liebsten Krimis."
+        answer: true
+        why: "Anna liest sehr gern — am liebsten Krimis."
+      - q: "Felix macht gern Sport."
+        answer: false
+        why: "Felix findet Sport langweilig."
+      - q: "Lena fährt im Winter Ski."
+        answer: true
+        why: "Lena fährt im Winter Ski."
+      - q: "Oma Erika wandert auch im Herbst."
+        answer: false
+        why: "Oma Erika wandert nur im Frühling und im Sommer."
+      - q: "Im Winter liest Oma Erika oder sieht fern."
+        answer: true
+        why: "Im Winter liest Oma Erika oder sieht fern."
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 — Freizeitzentrum Köln-Süd"
+    instructions: |
+      Text:
+      > **Freizeitzentrum Köln-Süd — Programm**
+      > **Schwimmbad:** Montag bis Freitag von 7 bis 22 Uhr, am Wochenende von
+      > 9 bis 20 Uhr. Erwachsene* 4,50 €, Kinder 2,50 €.
+      > **Tenniskurs für Anfänger:** am Mittwoch von 18 bis 20 Uhr. Eine Stunde
+      > kostet 10 Euro.
+      > **Gitarrenkurs:** am Montag um 19 Uhr.
+      > **Im Sommer:** Kino im Park! Die Filme beginnen um 21 Uhr.
+      >
+      > * der Erwachsene = adult · der Anfänger = beginner
+
+      Wähle a, b oder c.
+    items:
+      - q: "Das Schwimmbad ist am Samstag …"
+        options:
+          - { key: a, text: "von 7 bis 22 Uhr" }
+          - { key: b, text: "von 9 bis 20 Uhr" }
+          - { key: c, text: "von 18 bis 20 Uhr" }
+        answer: b
+        why: "am Wochenende (Samstag) von 9 bis 20 Uhr."
+      - q: "Ein Kind zahlt im Schwimmbad …"
+        options:
+          - { key: a, text: "4,50 €" }
+          - { key: b, text: "10 €" }
+          - { key: c, text: "2,50 €" }
+        answer: c
+        why: "Kinder 2,50 €."
+      - q: "Der Tenniskurs ist …"
+        options:
+          - { key: a, text: "am Montag" }
+          - { key: b, text: "am Mittwoch" }
+          - { key: c, text: "am Sonntag" }
+        answer: b
+        why: "Tenniskurs am Mittwoch."
+      - q: "Das Kino im Park gibt es …"
+        options:
+          - { key: a, text: "im Winter" }
+          - { key: b, text: "am Morgen" }
+          - { key: c, text: "im Sommer" }
+        answer: c
+        why: "Im Sommer: Kino im Park."
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Meine Freizeit"
+    prompt: 'Write 6–8 sentences about your free time: what you like / prefer / love doing (gern, lieber, am liebsten), what you can do well, what you can''t do, and what you do in summer and in winter. Then your friend asks: „Gehen wir am Samstag schwimmen?" — write a short answer (2–3 sentences): say no politely and make a counter-suggestion. Model in solutions.md — write yours first.'
+    use:
+      - "the gern-ladder (gern, lieber, am liebsten) — Ich spiele gern Fußball. / Ich koche am liebsten."
+      - "at least 1 sentence with `können` — Ich kann gut Gitarre spielen."
+      - "at least 1 sentence with `nicht` + `können` — Ich kann nicht gut singen."
+      - "weather expressions — im Sommer, im Winter, bei schönem Wetter"
+      - "a polite refusal + counter-suggestion — Tut mir leid, ich kann nicht. Hast du am Sonntag Zeit?"
+    selfCheck:
+      - "Did I use the Satzklammer correctly — `kann` in position 2 and the infinitive at the end?"
+      - "Did I use `gern` right after the verb (Ich spiele gern Fußball)?"
+      - "Did I use `im` for seasons (im Winter, im Sommer)?"
+      - "Did I capitalize all nouns?"
+    model: |
+      Ich habe viele Hobbys. Am liebsten lese ich — ich lese sehr gern
+      Krimis. Ich höre auch gern Musik und ich kann ein bisschen Gitarre
+      spielen. Aber ich kann nicht gut singen! Im Sommer gehe ich oft
+      schwimmen und ich fahre gern Rad. Im Winter bleibe ich lieber zu
+      Hause: Ich koche oder ich sehe fern. Sport finde ich gut, aber ich
+      jogge nicht gern.
+
+      **Antwort:** Tut mir leid, am Samstag kann ich nicht — ich habe
+      keine Zeit. Ich treffe meine Familie. Hast du am Sonntag Zeit?
+      Wir können am Sonntag schwimmen gehen!
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest (incl. L1–L5)"
+    text: |
+      1. können, er-form: er {1}
+      2. lesen, du-form: du {2}
+      3. fahren, er-form: er {3}
+      4. „Ich {4} gut schwimmen." (können)
+      5. (L5) „Ich {5} um sieben Uhr {6}." (aufstehen)
+      6. (+++): „{7} {8} lese ich Krimis."
+      7. (L3) essen, du-form: du {9}
+      8. "It's raining." → {10}
+      9. "in (the) summer" → {11}
+      10. (L1) „Woher {12} Sie?"
+      11. treffen, er-form: er {13}
+      12. (L5) 7:30 colloquial: {14}
+      13. "Do you feel like it?" → {15}
+      14. (L2) Plural: der Bruder → die {16}
+      15. (L4) „Es gibt ______ Balkon." (kein) → {17}
+    answers:
+      "1": kann
+      "2": liest
+      "3": fährt
+      "4": kann
+      "5": stehe
+      "6": auf
+      "7": Am
+      "8": liebsten
+      "9": isst
+      "10": "Es regnet."
+      "11": "im Sommer"
+      "12": kommen
+      "13": trifft
+      "14": "halb acht"
+      "15": "Hast du Lust?"
+      "16": Brüder
+      "17": keinen
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    groups:
+      - items: [schwimmen, joggen, tanzen, regnen]
+        odd: 3
+        why: "weather verb, not a hobby (regnen)."
+      - items: [Regen, Schnee, Wind, Sommer]
+        odd: 3
+        why: "season, not weather (Sommer)."
+      - items: [Frühling, Herbst, Wetter, Winter]
+        odd: 2
+        why: "not a season (Wetter = weather)."
+      - items: [liest, sieht, fährt, lese]
+        odd: 3
+        why: "ich-form among er-forms (lese)."
+      - items: [gern, lieber, am liebsten, langweilig]
+        odd: 3
+        why: "adjective, not the gern-ladder (langweilig)."
+      - items: [Gitarre, Klavier, Musik, Fahrrad]
+        odd: 3
+        why: "not music (Fahrrad = bicycle)."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Wiederholung Lektion 1–5"
+    text: |
+      1. (L1) sein, ihr-form: ihr {1}
+      2. (L1) „{2} Sprachen sprichst du?"
+      3. (L2) 365 in words: {3}
+      4. (L2) her brother = {4} Bruder
+      5. (L3) nicht oder kein: „Ich trinke {5} Bier."
+      6. (L3) nehmen, du-form: du {6}
+      7. (L4) „Wie {7} dir die Wohnung?"
+      8. (L4) opposite: hell ↔ {8}
+      9. (L5) „Der Film {9} um acht Uhr {10}." (anfangen)
+      10. (L5) 6:45 colloquial: {11}
+    answers:
+      "1": seid
+      "2": Welche
+      "3": dreihundertfünfundsechzig
+      "4": ihr
+      "5": kein
+      "6": nimmst
+      "7": gefällt
+      "8": dunkel
+      "9": fängt
+      "10": an
+      "11": "Viertel vor sieben"
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion 7. Below: redo A1–A3 + A7 + A8 tomorrow, then retest."
+    text: |
+      können:
+      1. ich {1}  2. du {2}  3. ihr {3}
+
+      The bracket:
+      4. Satzbau: gut – kann – kochen – er → {4}
+      5. "Can you swim?" (du) → {5}
+
+      Verbs:
+      6. lesen: er {6}  7. sehen: du {7}  8. fahren: du {8}
+      9. treffen: er {9}
+
+      gern-ladder:
+      10. (+) Ich tanze {10}.  11. (++) Ich singe {11}.
+      12. (+++) {12} {13} spiele ich Gitarre.
+
+      Weather & seasons:
+      13. "It is snowing." → {14}
+      14. "The sun is shining." → {15}
+      15. The coldest season: der {16}
+      16. "in autumn" → {17}
+
+      Suggestions:
+      17. "Shall we go to the movies?" → {18}
+      18. "Are you coming along?" → {19}
+
+      Mixed:
+      19. fernsehen: „Er {20} abends {21}."
+      20. "I can't come today." → {22}
+    answers:
+      "1": kann
+      "2": kannst
+      "3": könnt
+      "4": "Er kann gut kochen."
+      "5": "Kannst du schwimmen?"
+      "6": liest
+      "7": siehst
+      "8": fährst
+      "9": trifft
+      "10": gern
+      "11": lieber
+      "12": Am
+      "13": liebsten
+      "14": "Es schneit."
+      "15": "Die Sonne scheint."
+      "16": Winter
+      "17": "im Herbst"
+      "18": "Gehen wir ins Kino?"
+      "19": "Kommst du mit?"
+      "20": sieht
+      "21": fern
+      "22": "Ich kann heute nicht kommen."
