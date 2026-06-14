@@ -1,0 +1,492 @@
+lesson: A1/14
+title: "A1 · Lektion 14 — Prüfungstraining A1 (Mock Exam)"
+intro: >
+  Vollständiger Probeexamen im Format Start Deutsch 1 / telc A1.
+  Führen Sie den ganzen Test in einer Sitzung durch:
+  Hören 20 Min. · Lesen 25 Min. · Schreiben 20 Min. · Sprechen 15 Min.
+  Schauen Sie erst nach dem Abschluss aller Teile in solutions.md.
+
+exam:
+  skills:
+    - key: hoeren
+      label: "Teil 1 · Hören"
+      maxPoints: 15
+      passPoints: 8
+      exerciseIds: [exam-H1, exam-H2, exam-H3]
+    - key: lesen
+      label: "Teil 2 · Lesen"
+      maxPoints: 18
+      passPoints: 10
+      exerciseIds: [exam-L4, exam-L5, exam-L6, exam-L7]
+    - key: schreiben
+      label: "Teil 3 · Schreiben"
+      maxPoints: 12
+      passPoints: 6
+      exerciseIds: [exam-S8, exam-S9]
+      selfAssessed: true
+    - key: sprechen
+      label: "Teil 4 · Sprechen"
+      maxPoints: 10
+      passPoints: 5
+      exerciseIds: [exam-Sp10, exam-Sp11]
+      selfAssessed: true
+  totalPass: 29
+  rule: "Gesamt ≥ 29/55 UND Teilschwelle in mindestens 3 von 4 Prüfungsteilen erreicht"
+
+exercises:
+
+  # ── Teil 1 — Hören ────────────────────────────────────────────────────────
+
+  - id: exam-H1
+    block: exam
+    type: single-choice
+    title: "Aufgabe 1 — Kurze Gespräche"
+    instructions: "Hören Sie die Gespräche (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Wo ist der Bahnhof?"
+        audio: aufgabe1_gespraech1.mp3
+        options:
+          - { key: a, text: "Links (nach geradeaus und rechts abbiegen)" }
+          - { key: b, text: "Rechts (sofort nach der Ecke)" }
+          - { key: c, text: "Geradeaus (ohne abzubiegen)" }
+        answer: a
+        why: "Geradeaus gehen, dann rechts abbiegen — der Bahnhof ist dann links."
+      - q: "Was bestellt die Frau?"
+        audio: aufgabe1_gespraech2.mp3
+        options:
+          - { key: a, text: "Tee und ein Brötchen" }
+          - { key: b, text: "Orangensaft und ein Käsebrötchen" }
+          - { key: c, text: "Kaffee und Kuchen" }
+        answer: b
+        why: 'Die Frau sagt: "Ich möchte einen Orangensaft und ein Käsebrötchen."'
+
+      - q: "Wann beginnt Lenas Kurs?"
+        audio: aufgabe1_gespraech3.mp3
+        options:
+          - { key: a, text: "Um 6:30 Uhr" }
+          - { key: b, text: "Um 8:00 Uhr" }
+          - { key: c, text: "Um 16:15 Uhr" }
+        answer: b
+        why: "Lena steht um halb sieben auf, aber der Kurs beginnt um acht."
+      - q: "Was macht Selin?"
+        audio: aufgabe1_gespraech4.mp3
+        options:
+          - { key: a, text: "Sie geht zum Arzt." }
+          - { key: b, text: "Sie geht nach Hause und schläft." }
+          - { key: c, text: "Sie geht in die Apotheke." }
+        answer: b
+        why: 'Selin sagt explizit "Nein" auf die Frage nach dem Arzt.'
+
+      - q: "Wo ist Herr Klein?"
+        audio: aufgabe1_gespraech5.mp3
+        options:
+          - { key: a, text: "Im Supermarkt" }
+          - { key: b, text: "Im Deutschkurs" }
+          - { key: c, text: "Beim Arzt" }
+        answer: c
+        why: "Wartezimmer + Doktor Berger = Arztpraxis."
+
+  - id: exam-H2
+    block: exam
+    type: true-false
+    title: "Aufgabe 2 — Richtig oder falsch?"
+    instructions: "Hören Sie die Nachricht auf dem Anrufbeantworter (zweimal) und entscheiden Sie: richtig (R) oder falsch (F)?"
+    audio: aufgabe2.mp3
+    items:
+      - q: "Das Konzert beginnt um 19 Uhr."
+        answer: false
+        why: "Das Konzert beginnt um 20 Uhr, nicht um 19 Uhr."
+      - q: "Petra hat die Karten."
+        answer: true
+        why: 'Petra sagt: "ich habe die Karten jetzt."'
+
+      - q: "Sie treffen sich am Bahnhof um 19:45 Uhr."
+        answer: true
+        why: "Viertel vor acht = 19:45 Uhr. Am Bahnhof."
+      - q: "Petra hat ein Ticket für Marias Bruder gekauft."
+        answer: false
+        why: "Petra kaufte ein Ticket für Marias Schwester, nicht den Bruder."
+      - q: "Petras Telefonnummer ist 0173 456 789."
+        answer: true
+        why: 'Petra sagt: "meine Nummer ist 0173 456 789."'
+
+
+  - id: exam-H3
+    block: exam
+    type: single-choice
+    title: "Aufgabe 3 — Kurze Ansagen"
+    instructions: "Hören Sie die Ansagen (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Von welchem Gleis fährt der Zug?"
+        audio: aufgabe3_ansage1.mp3
+        options:
+          - { key: a, text: "Gleis 5" }
+          - { key: b, text: "Gleis 7" }
+          - { key: c, text: "Gleis 12" }
+        answer: b
+        why: "Der Zug fährt von Gleis 7 ab — nicht Gleis 5 (das alte Gleis)."
+      - q: "Wann hat das Kaufhaus am Samstag geöffnet?"
+        audio: aufgabe3_ansage2.mp3
+        options:
+          - { key: a, text: "Von 9 bis 20 Uhr" }
+          - { key: b, text: "Von 9 bis 18 Uhr" }
+          - { key: c, text: "Es ist am Samstag geschlossen." }
+        answer: b
+        why: "Samstags von 9 bis 18 Uhr (Mo–Fr 9–20, So geschlossen)."
+      - q: "Was kostet ein Kilo Tomaten?"
+        audio: aufgabe3_ansage3.mp3
+        options:
+          - { key: a, text: "1,20 €" }
+          - { key: b, text: "0,99 €" }
+          - { key: c, text: "1,99 €" }
+        answer: b
+        why: "Neunundneunzig Cent = 0,99 €."
+      - q: "Warum findet der Kurs heute nicht statt?"
+        audio: aufgabe3_ansage4.mp3
+        options:
+          - { key: a, text: "Es ist ein Feiertag." }
+          - { key: b, text: "Die Lehrerin ist krank." }
+          - { key: c, text: "Der Raum ist besetzt." }
+        answer: b
+        why: "Frau Hoffmann ist krank — deshalb kein Kurs heute."
+      - q: "Wie viel kostet der Eintritt für Erwachsene?"
+        audio: aufgabe3_ansage5.mp3
+        options:
+          - { key: a, text: "Nichts" }
+          - { key: b, text: "10 Euro" }
+          - { key: c, text: "6 Euro" }
+        answer: c
+        why: "Eintritt: sechs Euro. Kinder unter 12 Jahren zahlen nichts."
+
+  # ── Teil 2 — Lesen ────────────────────────────────────────────────────────
+
+  - id: exam-L4
+    block: exam
+    type: matching
+    title: "Aufgabe 4 — Anzeigen und Aushänge"
+    instructions: "Welche Anzeige (A–E) passt zu welcher Situation (1–5)? Ordnen Sie zu."
+    left:
+      - key: "1"
+        text: "Sie möchten informell Deutsch sprechen und neue Leute kennenlernen — kostenlos."
+      - key: "2"
+        text: "Sie suchen eine Wohnung oder ein Zimmer zur Miete."
+      - key: "3"
+        text: "Sie müssen am nächsten Montagnachmittag zum Arzt."
+      - key: "4"
+        text: "Sie möchten abends an einem offiziellen Deutschkurs teilnehmen."
+      - key: "5"
+        text: "Sie möchten ein gebrauchtes Fahrrad kaufen."
+    right:
+      - key: A
+        text: "A — ZIMMER ZU VERMIETEN: 18 m², ruhig, hell — 380 € warm"
+      - key: B
+        text: "B — DEUTSCHKURS A1: Mo/Mi 18–20 Uhr, VHS Mitte — 120 €"
+      - key: C
+        text: "C — ARZTPRAXIS DR. WEBER: Mo/Di/Do 8–12 & 14–18 Uhr"
+      - key: D
+        text: "D — FAHRRAD ZU VERKAUFEN: Damenfahrrad blau — 80 €"
+      - key: E
+        text: "E — SPRACHCAFÉ: Do 16 Uhr, Café Central — kostenlos"
+    answers:
+      "1": E
+      "2": A
+      "3": C
+      "4": B
+      "5": D
+
+  - id: exam-L5
+    block: exam
+    type: single-choice
+    title: "Aufgabe 5 — Kurze Texte: Carlos Fernández"
+    instructions: "Lesen Sie den Text und wählen Sie die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Woher kommt Carlos?"
+        options:
+          - { key: a, text: "Aus Hamburg" }
+          - { key: b, text: "Aus Mexiko" }
+          - { key: c, text: "Aus Spanien" }
+        answer: b
+        why: "Carlos kommt aus Mexiko."
+      - q: "Was ist Carlos von Beruf?"
+        options:
+          - { key: a, text: "Lehrer" }
+          - { key: b, text: "Arzt" }
+          - { key: c, text: "Koch" }
+        answer: c
+        why: "Carlos arbeitet als Koch in einem Restaurant."
+      - q: "Wann hat Carlos frei?"
+        options:
+          - { key: a, text: "Am Montag und Dienstag" }
+          - { key: b, text: "Am Mittwoch und Donnerstag" }
+          - { key: c, text: "Am Samstag und Sonntag" }
+        answer: a
+        why: "Am Montag und Dienstag hat Carlos frei."
+      - q: "Wann beginnt sein Deutschkurs?"
+        options:
+          - { key: a, text: "Montags um 11 Uhr" }
+          - { key: b, text: "Montags um 9 Uhr" }
+          - { key: c, text: "Dienstags um 9 Uhr" }
+        answer: b
+        why: "Sein Kurs ist montags um 9 Uhr."
+      - q: "Wo sind Carlos' Frau und Kinder jetzt?"
+        options:
+          - { key: a, text: "In Hamburg" }
+          - { key: b, text: "In Deutschland" }
+          - { key: c, text: "In Mexiko" }
+        answer: c
+        why: "Carlos' Frau und Kinder sind noch in Mexiko."
+
+  - id: exam-L6
+    block: exam
+    type: true-false
+    title: "Aufgabe 6 — Formular lesen: Yuki Tanaka"
+    instructions: "Lesen Sie das Anmeldeformular und entscheiden Sie: richtig (R) oder falsch (F)?"
+    items:
+      - q: "Yuki Tanaka kommt aus Korea."
+        answer: false
+        why: "Yuki kommt aus Japan (Geburtsort: Osaka, Japan)."
+      - q: "Sie wohnt in Berlin."
+        answer: true
+        why: "Wohnort: Berlin. ✓"
+      - q: "Sie ist am 14. März 1995 geboren."
+        answer: true
+        why: "Geburtsdatum: 14. März 1995. ✓"
+      - q: "Ihr Kurs beginnt im Oktober."
+        answer: false
+        why: "Der Kurs beginnt am 5. September — nicht im Oktober."
+      - q: "Ihre E-Mail-Adresse ist yuki.tanaka@mail.de."
+        answer: true
+        why: "E-Mail: yuki.tanaka@mail.de. ✓"
+
+  - id: exam-L7
+    block: exam
+    type: matching
+    title: "Aufgabe 7 — Nachrichten lesen"
+    instructions: "Wer hat welche Nachricht geschrieben? Ordnen Sie zu (Lisa · Marco · Selin)."
+    left:
+      - key: "1"
+        text: "Wer hat gerade ein Baby bekommen?"
+      - key: "2"
+        text: "Wer kann heute nicht zum Sport kommen?"
+      - key: "3"
+        text: "Wer möchte am Samstag einkaufen gehen?"
+    right:
+      - key: Lisa
+        text: "Lisa"
+      - key: Marco
+        text: "Marco"
+      - key: Selin
+        text: "Selin"
+    answers:
+      "1": Selin
+      "2": Lisa
+      "3": Marco
+
+  # ── Teil 3 — Schreiben ────────────────────────────────────────────────────
+
+  - id: exam-S8
+    block: exam
+    type: free-write
+    title: "Aufgabe 8 — Formular ausfüllen"
+    instructions: "Füllen Sie das Anmeldeformular der Stadtbibliothek Hamburg mit Ihren eigenen Daten aus (oder erfinden Sie eine Person)."
+    prompt: "Bibliothek der Stadt Hamburg — Anmeldeformular: Vorname / Nachname / Geburtsdatum / Straße und Hausnummer / Postleitzahl und Wohnort / Telefonnummer / E-Mail / Unterschrift"
+    use:
+      - "Füllen Sie alle 8 Felder aus."
+      - "Datumsformat: TT.MM.JJJJ"
+      - "PLZ: 5 Ziffern"
+    selfCheck:
+      - "Alle 8 Felder ausgefüllt? (0,75 Pkt. × 8 = 6 Pkt.)"
+      - "Datumsformat korrekt (z.B. 12.04.1990)?"
+      - "PLZ = 5 Ziffern?"
+      - "E-Mail-Format korrekt (name@domain.de)?"
+    model: |
+      Vorname: Anna
+      Nachname: Berger
+      Geburtsdatum: 12.04.1990
+      Straße und Hausnummer: Hauptstraße 5
+      Postleitzahl und Wohnort: 20095 Hamburg
+      Telefonnummer: 0176 12 34 56 78
+      E-Mail: anna.berger@mail.de
+      Unterschrift: Anna Berger
+    maxScore: 6
+
+  - id: exam-S9
+    block: exam
+    type: free-write
+    title: "Aufgabe 9 — Kurze Mitteilung schreiben"
+    instructions: "Schreiben Sie eine kurze Mitteilung (30–40 Wörter) an Ihre Kursfreundin Anna."
+    prompt: "Sie können am Dienstag nicht in den Deutschkurs kommen. Schreiben Sie: warum / wann Sie wieder kommen / bitten Sie Anna, Ihnen die Hausaufgaben zu schicken / Gruß am Anfang und Ende."
+    use:
+      - "Gruß am Anfang und Ende"
+      - "Grund nennen (z.B. krank / Arzttermin)"
+      - "Rückkehrdatum angeben"
+      - "Um Hausaufgaben bitten"
+    selfCheck:
+      - "Gruß am Anfang und Ende vorhanden? (0,75 Pkt.)"
+      - "Grund für Abwesenheit angegeben? (0,75 Pkt.)"
+      - "Rückkehrdatum erwähnt? (0,75 Pkt.)"
+      - "Um Hausaufgaben gebeten? (0,75 Pkt.)"
+      - "Verständliches Deutsch / Verb in Position 2? (1,5 Pkt.)"
+      - "Ca. 30–40 Wörter? (0,75 Pkt.)"
+    model: |
+      Liebe Anna,
+      ich kann leider am Dienstag nicht in den Kurs kommen — ich habe einen Arzttermin.
+      Ich komme wieder am nächsten Dienstag. Kannst du mir bitte die Hausaufgaben schicken?
+      Viele Grüße,
+      [Name]
+    maxScore: 6
+
+  # ── Teil 4 — Sprechen ─────────────────────────────────────────────────────
+
+  - id: exam-Sp10
+    block: exam
+    type: speaking-prompt
+    title: "Aufgabe 10 — Sich vorstellen"
+    instructions: "Stellen Sie sich Ihrem Prüfungspartner vor. Verwenden Sie die Impulse. Jede Antwort: 1–2 Sätze."
+    parts:
+      - label: "Sich vorstellen"
+        prompt: "Sprechen Sie über: Name · Herkunft · Wohnort · Beruf/Beschäftigung · Sprachen · Hobby"
+        bullets:
+          - "Name?"
+          - "Herkunft? (Woher kommen Sie?)"
+          - "Wohnort? (Wo wohnen Sie jetzt?)"
+          - "Beruf oder Beschäftigung?"
+          - "Welche Sprachen sprechen Sie?"
+          - "Was machen Sie in der Freizeit?"
+    criteria:
+      - "Alle 6 Impulse mit grammatisch akzeptablen Sätzen beantwortet — 2 Pkt."
+      - "Aussprache und Verständlichkeit — 1 Pkt."
+      - "Folgefragen (W-Fragen) flüssig beantwortet — 1 Pkt."
+      - "Interaktion: Partner begrüßt, Blickkontakt — 1 Pkt."
+    maxScore: 5
+
+  - id: exam-Sp11
+    block: exam
+    type: speaking-prompt
+    title: "Aufgabe 11 — Alltagssituationen"
+    instructions: "Ziehen Sie eine Karte und reagieren Sie angemessen. Ihr Partner spielt die andere Person."
+    parts:
+      - label: "Karten A/B — Am Bahnhof: nach dem Weg fragen"
+        prompt: "A: Am Bahnhof — fragen Sie nach dem Weg zur Innenstadt. B: Auskunft geben — Bus Nr. 7 bis Rathausplatz, dann 5 Min. geradeaus."
+        bullets:
+          - "Entschuldigung sagen + nach dem Weg fragen"
+          - "Auskunft geben: Bus 7 / Rathausplatz / geradeaus"
+          - "Danke sagen"
+      - label: "Karten C/D — Im Café bestellen"
+        prompt: "C: Im Café — Kaffee und Kuchen bestellen, Preis erfragen, bezahlen. D: Bestellung aufnehmen; Kaffee 2,80 €, Kuchen 3,20 €, gesamt 6,00 €."
+        bullets:
+          - "Kaffee und Kuchen bestellen"
+          - 'Preis erfragen: "Was macht das?"'
+
+          - 'Bezahlen: "Stimmt so!"'
+
+      - label: "Karten E/F — Treffen vereinbaren"
+        prompt: "E: Freund/in anrufen — Treffen am Samstag vorschlagen. F: Samstagmorgen geht nicht (Arbeit). Gegenvorschlag: Samstagnachmittag 15 Uhr, Stadtbibliothek."
+        bullets:
+          - "Treffen am Samstag vorschlagen (Zeit + Ort)"
+          - "Ablehnung + Gegenvorschlag"
+          - "Einigung"
+    criteria:
+      - "Kommunikative Aufgabe erfüllt (Gesprächspartner reagiert korrekt) — 2 Pkt."
+      - "Grammatisch akzeptabel (Verben konjugiert, Artikel weitgehend korrekt) — 2 Pkt."
+      - "Interaktionsqualität (Sprecherwechsel, Höflichkeit) — 1 Pkt."
+    maxScore: 5
+
+  # ── Zusatzübung — Grammatik-Schnelltest (KEIN Teil der Prüfungsbewertung) ─
+
+  - id: exam-B12
+    block: exam
+    type: gap-text
+    title: "Aufgabe 12 — Lückentext: Grammatik gemischt"
+    instructions: "Ergänzen Sie jede Lücke mit dem richtigen Wort. Lücken 4/5 und 11/12 brauchen je zwei Wörter (Perfekt)."
+    text: |
+      1. Ich {1} aus Brasilien.
+      2. Wir {2} zwei Kinder.
+      3. Was möchtest du {3} Mittagessen essen?
+      4. Er {4} ein neues Fahrrad {5}.
+      5. {6} Programm läuft jetzt?
+      6. Ich gehe {7} dem Bus zur Arbeit.
+      7. Kannst du mir {8} helfen?
+      8. Die Schuhe passen {9} nicht.
+      9. Wann {10} du morgens auf?
+      10. Ich {11} gestern sehr müde {12}.
+    answers:
+      "1": bin
+      "2": haben
+      "3": zum
+      "4": hat
+      "5": gekauft
+      "6": Welches
+      "7": mit
+      "8": bitte
+      "9": mir
+      "10": stehst
+      "11": [bin, war]
+      "12": gewesen
+
+  - id: exam-B13
+    block: exam
+    type: free-write
+    title: "Aufgabe 13 — Finde den Fehler"
+    instructions: "Jeder Satz enthält genau einen Fehler. Finden und korrigieren Sie ihn."
+    prompt: |
+      1. Ich habe gestern ins Kino gegangen.
+      2. Kannst du kommen Sie morgen?
+      3. Er muss früh aufstehen morgen.
+      4. Sie hat keinen Kinder.
+      5. Ich möchte den Mantel nehmen. Er gefällt ich sehr.
+      6. Am 5. Juli haben wir ein Termin.
+      7. Ich bin letztes Woche zum Arzt gefahren.
+      8. Die Kinder spielen gern Fußball. Sie sind sehr sportliche.
+    selfCheck:
+      - "1. habe → bin (gehen = Perfekt mit sein)"
+      - "2. Sie → (entfernen) — kein Sie nach du-Form: Kannst du morgen kommen?"
+      - "3. aufstehen morgen → morgen früh aufstehen (Zeitangabe vor Partikel)"
+      - "4. keinen → keine (Kinder = Plural → keine)"
+      - "5. ich → mir (gefallen + Dativ: Er gefällt mir)"
+      - "6. ein → einen (der Termin, mask. Akkusativ → einen)"
+      - "7. letztes → letzte (die Woche, fem. → letzte)"
+      - "8. sportliche → sportlich (prädikatives Adjektiv nach sein: keine Endung)"
+
+  - id: exam-B14
+    block: exam
+    type: free-write
+    title: "Aufgabe 14 — Übersetzen (EN → DE)"
+    instructions: "Übersetzen Sie die Sätze ins Deutsche."
+    prompt: |
+      1. When does the train leave?
+      2. I'd like a glass of water, please.
+      3. She can't come today — she has a headache.
+      4. We bought a new table yesterday.
+      5. Do you (Sie) have a doctor's appointment?
+      6. He works as a cook in a restaurant.
+    selfCheck:
+      - "1. Wann fährt der Zug ab? (Trennverb abfahren; Verb in Pos. 2)"
+      - "2. Ich möchte ein Glas Wasser, bitte."
+      - "3. Sie kann heute nicht kommen — sie hat Kopfschmerzen."
+      - "4. Wir haben gestern einen neuen Tisch gekauft. (neuen = Akk. mask.)"
+      - "5. Haben Sie einen Arzttermin? (einen = Akk. mask.)"
+      - "6. Er arbeitet als Koch in einem Restaurant. (als + Nom.; in einem = Dat.)"
+
+  - id: exam-B15
+    block: exam
+    type: order
+    title: "Aufgabe 15 — Satzbau"
+    instructions: "Bringen Sie die Wörter in die richtige Reihenfolge."
+    items:
+      - tiles: ["Ich", "stehe", "um", "sieben", "Uhr", "auf"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Trennverb auf·stehen: auf an letzter Stelle"
+      - tiles: ["Können", "Sie", "bitte", "Ihren", "Namen", "buchstabieren", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        alt: [[0, 1, 3, 4, 2, 5, 6]]
+        note: "Modalverbsatz: Infinitiv am Ende; bitte auch nach Namen möglich"
+      - tiles: ["Meine", "Mutter", "hat", "gestern", "Obst", "gekauft"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Perfekt: hat … gekauft"
+      - tiles: ["Der", "Zug", "ist", "um", "14:32", "Uhr", "abgefahren"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Perfekt mit sein; abgefahren am Ende"
+      - tiles: ["Ich", "freue", "mich", "sehr", "auf", "den", "Sommer"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Reflexiv: freue mich; Akkusativ: auf den Sommer"

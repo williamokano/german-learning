@@ -1,0 +1,406 @@
+lesson: A2/14
+title: "A2 · Lektion 14 — Prüfungstraining A2 (Mock Exam)"
+intro: >
+  Vollständiger Probeexamen im Format Goethe-Zertifikat A2 / telc Deutsch A2.
+  Führen Sie den ganzen Test in einer Sitzung durch:
+  Hören 25 Min. · Lesen 30 Min. · Schreiben 20 Min. · Sprechen 10 Min.
+  Schauen Sie erst nach dem Abschluss aller Teile in solutions.md.
+
+exam:
+  skills:
+    - key: hoeren
+      label: "Teil 1 · Hören"
+      maxPoints: 15
+      passPoints: 9
+      exerciseIds: [exam-H1, exam-H2, exam-H3]
+    - key: lesen
+      label: "Teil 2 · Lesen"
+      maxPoints: 20
+      passPoints: 12
+      exerciseIds: [exam-L4, exam-L5, exam-L6, exam-L7]
+    - key: schreiben
+      label: "Teil 3 · Schreiben"
+      maxPoints: 10
+      passPoints: 6
+      exerciseIds: [exam-S8, exam-S9]
+      selfAssessed: true
+    - key: sprechen
+      label: "Teil 4 · Sprechen"
+      maxPoints: 0
+      passPoints: 0
+      exerciseIds: [exam-Sp4]
+      selfAssessed: true
+  totalPass: 27
+  rule: "Gesamt ≥ 27/45 (schriftl.) UND Sprechen: in mind. 2 von 3 Teilen ausreichend"
+
+exercises:
+
+  # ── Teil 1 — Hören ────────────────────────────────────────────────────────
+
+  - id: exam-H1
+    block: exam
+    type: single-choice
+    title: "Aufgabe 1 — Kurze Gespräche"
+    instructions: "Hören Sie die Gespräche (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Wann treffen sich Anna und Bruno?"
+        audio: aufgabe1_gespraech1.mp3
+        options:
+          - { key: a, text: "Um 19:00 Uhr" }
+          - { key: b, text: "Um 19:30 Uhr" }
+          - { key: c, text: "Um 20:00 Uhr" }
+        answer: b
+        why: 'Bruno schlägt 19:30 vor, Anna stimmt zu: "Ja, das ist gut."'
+
+      - q: "Was kostet das Zimmer pro Nacht?"
+        audio: aufgabe1_gespraech2.mp3
+        options:
+          - { key: a, text: "75 Euro" }
+          - { key: b, text: "85 Euro" }
+          - { key: c, text: "95 Euro" }
+        answer: b
+        why: 'Die Rezeptionistin sagt: "Ein Einzelzimmer kostet 85 Euro pro Nacht."'
+
+      - q: "Wie oft soll Yuki die Tabletten nehmen?"
+        audio: aufgabe1_gespraech3.mp3
+        options:
+          - { key: a, text: "Einmal täglich" }
+          - { key: b, text: "Dreimal täglich" }
+          - { key: c, text: "Zweimal täglich" }
+        answer: c
+        why: 'Die Apothekerin sagt: "zweimal täglich — morgens und abends."'
+
+      - q: "Was denkt Herr Steinmeyer über München?"
+        audio: aufgabe1_gespraech4.mp3
+        options:
+          - { key: a, text: "München ist schöner als Hamburg." }
+          - { key: b, text: "München ist teurer als Hamburg." }
+          - { key: c, text: "München hat mehr Museen als Hamburg." }
+        answer: b
+        why: 'Herr Steinmeyer sagt: "München ist deutlich teurer als Hamburg."'
+
+      - q: "Was schenken Anna und Bruno Yuki?"
+        audio: aufgabe1_gespraech5.mp3
+        options:
+          - { key: a, text: "Ein Buch und eine Flasche Weißwein" }
+          - { key: b, text: "Nur ein Buch" }
+          - { key: c, text: "Ein Buch und eine Flasche Rotwein" }
+        answer: c
+        why: '"Also ein Buch und eine Flasche italienischen Rotwein."'
+
+
+  - id: exam-H2
+    block: exam
+    type: true-false
+    title: "Aufgabe 2 — Radiobeitrag"
+    instructions: "Hören Sie den Radiobeitrag (zweimal) und entscheiden Sie: richtig (R) oder falsch (F)?"
+    audio: aufgabe2.mp3
+    items:
+      - q: "Marta wohnt seit drei Jahren in Berlin."
+        answer: false
+        why: "Marta wohnt seit zwei Jahren in Berlin, nicht seit drei."
+      - q: "Sie arbeitet als Ärztin."
+        answer: false
+        why: "Marta ist Krankenpflegerin, nicht Ärztin."
+      - q: "In ihrer Freizeit kocht Marta gern polnische Gerichte."
+        answer: true
+        why: "Sie kocht am liebsten traditionelle polnische Gerichte."
+      - q: "Marta hat Deutsch schon perfekt gelernt."
+        answer: false
+        why: 'Marta sagt: "Deutsch lerne ich immer noch … Es ist nicht immer leicht."'
+
+      - q: "Marta möchte ihre Eltern im Sommer besuchen."
+        answer: true
+        why: '"Nächsten Sommer möchte ich meine Eltern besuchen."'
+
+
+  - id: exam-H3
+    block: exam
+    type: single-choice
+    title: "Aufgabe 3 — Kurze Ansagen"
+    instructions: "Hören Sie die Ansagen (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Wie viel Verspätung hat der Zug?"
+        audio: aufgabe3_ansage1.mp3
+        options:
+          - { key: a, text: "10 Minuten" }
+          - { key: b, text: "20 Minuten" }
+          - { key: c, text: "30 Minuten" }
+        answer: b
+        why: '"circa zwanzig Minuten Verspätung"'
+
+      - q: "Wann hat das Museum ab nächster Woche geöffnet?"
+        audio: aufgabe3_ansage2.mp3
+        options:
+          - { key: a, text: "Täglich von 9 bis 18 Uhr" }
+          - { key: b, text: "Montags bis samstags von 9 bis 18 Uhr" }
+          - { key: c, text: "Montags bis freitags von 9 bis 18 Uhr" }
+        answer: b
+        why: "Mo–Sa geöffnet, Sonntags geschlossen — nicht täglich."
+      - q: "Was ist diese Woche im Angebot?"
+        audio: aufgabe3_ansage3.mp3
+        options:
+          - { key: a, text: "Orangen und Lachs" }
+          - { key: b, text: "Äpfel und Lachs" }
+          - { key: c, text: "Äpfel und Käse" }
+        answer: b
+        why: '"Frische Äpfel … frischen Lachs aus Norwegen"'
+
+      - q: "Wie wird das Wetter morgen Nachmittag?"
+        audio: aufgabe3_ansage4.mp3
+        options:
+          - { key: a, text: "Bewölkt und kalt" }
+          - { key: b, text: "Regnerisch" }
+          - { key: c, text: "Sonnig" }
+        answer: c
+        why: '"Am Nachmittag kommt dann die Sonne heraus."'
+
+      - q: "Bis wann muss man sich für den Kurs anmelden?"
+        audio: aufgabe3_ansage5.mp3
+        options:
+          - { key: a, text: "Bis zum 3. März" }
+          - { key: b, text: "Bis zum 25. Februar" }
+          - { key: c, text: "Bis zum 18. Februar" }
+        answer: b
+        why: '"Bitte melden Sie sich bis zum 25. Februar an." (3. März = Kursbeginn)'
+
+
+  # ── Teil 2 — Lesen ────────────────────────────────────────────────────────
+
+  - id: exam-L4
+    block: exam
+    type: matching
+    title: "Aufgabe 4 — Anzeigen zuordnen"
+    instructions: "Welche Anzeige (A–H) passt zu welcher Situation (1–5)? Ordnen Sie zu. Drei Anzeigen passen nicht."
+    left:
+      - key: "1"
+        text: "Sie möchten fit werden und einen neuen Sport zusammen mit anderen ausprobieren."
+      - key: "2"
+        text: "Sie möchten nach Ihrem A2-Kurs mit Deutschlernen weitermachen."
+      - key: "3"
+        text: "Sie brauchen Hilfe bei der Kinderbetreuung an Nachmittagen unter der Woche."
+      - key: "4"
+        text: "Sie möchten lernen, ein ausländisches Gericht zu kochen."
+      - key: "5"
+        text: "Sie suchen ein möbliertes WG-Zimmer zur Miete in Berlin."
+    right:
+      - key: A
+        text: "A — BABYSITTER GESUCHT: 2 Kinder (4+7 J.), Mo–Do 15–18 Uhr"
+      - key: B
+        text: "B — DEUTSCHKURS B1: ab 10. April, Mo/Mi 18–20 Uhr — 140 €"
+      - key: C
+        text: "C — ITALIENISCH KOCHEN: echte Pasta & Risotto, Sa 11–14 Uhr — 60 €"
+      - key: D
+        text: "D — ZIMMER ZU VERMIETEN: möbliert, 18 m², Kaltmiete 420 €"
+      - key: E
+        text: "E — SPORTVEREIN BLAU-WEISS: Fußball/Tennis/Schwimmen, kostenloses Probetraining Mo 18 Uhr"
+      - key: F
+        text: "F — FAHRRAD ZU VERKAUFEN: Damenfahrrad rot — 90 €"
+      - key: G
+        text: "G — NACHHILFE: Mathe & Physik, Klasse 5–10 — 20 €/Std."
+      - key: H
+        text: "H — NACHBARSCHAFTSCAFÉ: Do 16 Uhr, Café Central — Sprachen üben, kostenlos"
+    answers:
+      "1": E
+      "2": B
+      "3": A
+      "4": C
+      "5": D
+
+  - id: exam-L5
+    block: exam
+    type: true-false
+    title: "Aufgabe 5 — Text lesen: Anna Petrow"
+    instructions: "Lesen Sie den Text und entscheiden Sie: richtig (R) oder falsch (F)?"
+    items:
+      - q: "Anna wohnt seit einem Jahr in Berlin."
+        answer: true
+        why: '"Vor einem Jahr bin ich … nach Berlin gezogen."'
+
+      - q: "Sie arbeitet als Lehrerin."
+        answer: false
+        why: "Anna arbeitet als Übersetzerin, nicht als Lehrerin."
+      - q: "Anna wohnt allein in einer Wohnung."
+        answer: false
+        why: "Anna wohnt in einer WG mit zwei Mitbewohnern (Yuki und Bruno)."
+      - q: "In ihrer Freizeit macht Anna gern Sport."
+        answer: false
+        why: "Anna macht einen Kochkurs — kein Sport wird erwähnt."
+      - q: "Anna möchte ihre Familie im Sommer besuchen."
+        answer: true
+        why: '"Nächsten Sommer fahre ich nach Russland, um meine Familie zu besuchen."'
+
+
+  - id: exam-L6
+    block: exam
+    type: matching
+    title: "Aufgabe 6 — Kurze Texte zuordnen"
+    instructions: "Welches Thema (A–G) passt zu welchem Forumsbeitrag (1–5)? Zwei Themen passen nicht."
+    left:
+      - key: "1"
+        text: "Ich trainiere seit drei Monaten für einen Halbmarathon. Am Anfang konnte ich kaum fünf Kilometer laufen, aber jetzt schaffe ich schon 15!"
+      - key: "2"
+        text: "Meine Reise nach Italien war wunderschön! Ich war zwei Wochen in Toskana und habe so viel erlebt: Museen in Florenz, die Küste in Cinque Terre …"
+      - key: "3"
+        text: "Seit einem Monat wohne ich in einer neuen Wohnung. Die Nachbarn sind super nett — wir haben uns schon beim Nachbarschaftscafé kennengelernt."
+      - key: "4"
+        text: "Ich lerne jetzt seit sechs Monaten Deutsch. Mein Tipp: Jeden Tag mindestens 30 Minuten üben — Podcasts, Serien oder Gespräche mit Muttersprachlern."
+      - key: "5"
+        text: "Ich habe letztes Wochenende zum ersten Mal Sushi gemacht — zu Hause! Das Rezept ist gar nicht so schwer. Nächstes Mal versuche ich Ramen."
+    right:
+      - key: A
+        text: "A — Sport und Fitness"
+      - key: B
+        text: "B — Reisen und Urlaub"
+      - key: C
+        text: "C — Kochen und Essen"
+      - key: D
+        text: "D — Sprachen lernen"
+      - key: E
+        text: "E — Neue Nachbarschaft"
+      - key: F
+        text: "F — Haustiere"
+      - key: G
+        text: "G — Musik"
+    answers:
+      "1": A
+      "2": B
+      "3": E
+      "4": D
+      "5": C
+
+  - id: exam-L7
+    block: exam
+    type: single-choice
+    title: "Aufgabe 7 — E-Mail ergänzen"
+    instructions: "Lesen Sie die E-Mail und wählen Sie für jede Lücke (1–5) die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Wie geht es (1) ___?"
+        options:
+          - { key: a, text: "dir" }
+          - { key: b, text: "dich" }
+          - { key: c, text: "ihm" }
+        answer: a
+        why: 'gehen + Dativ: "Wie geht es dir?" — fester Ausdruck.'
+
+      - q: "Ich weiß noch nicht genau, (2) ___ ich wirklich Zeit haben werde."
+        options:
+          - { key: a, text: "ob" }
+          - { key: b, text: "weil" }
+          - { key: c, text: "dass" }
+        answer: a
+        why: "Indirekte Ja/Nein-Frage → ob (Verb am Ende)."
+      - q: "ein paar gute Hotels, (3) ___ nicht zu teuer sind"
+        options:
+          - { key: a, text: "die" }
+          - { key: b, text: "das" }
+          - { key: c, text: "den" }
+        answer: a
+        why: "Hotels = Plural, Nom. Relativpronomen → die."
+      - q: "für Museen und Ausstellungen, (4) ___ ich Kunst sehr liebe"
+        options:
+          - { key: a, text: "weil" }
+          - { key: b, text: "deshalb" }
+          - { key: c, text: "aber" }
+        answer: a
+        why: 'Grund → weil (Verb ans Ende: "weil ich Kunst … liebe").'
+
+      - q: "Schreib mir, was du (5) ___!"
+        options:
+          - { key: a, text: "denkt" }
+          - { key: b, text: "denkst" }
+          - { key: c, text: "denken" }
+        answer: b
+        why: "Subjekt du (2. Pers. Sg.) → denkst."
+
+  # ── Teil 3 — Schreiben ────────────────────────────────────────────────────
+
+  - id: exam-S8
+    block: exam
+    type: free-write
+    title: "Aufgabe 8 — Kurze Nachricht schreiben"
+    instructions: "Schreiben Sie eine kurze Nachricht (ca. 40 Wörter) an Ihre Freundin Nina."
+    prompt: "Nina hat Sie zu ihrer Geburtstagsparty nächsten Samstag eingeladen. Leider können Sie nicht kommen. Schreiben Sie: Danke für die Einladung / Entschuldigung + Grund / Vorschlag für ein anderes Treffen / Geburtstagswunsch."
+    use:
+      - "Danke für die Einladung"
+      - "Entschuldigung + Grund (warum Sie nicht kommen können)"
+      - "Vorschlag für ein anderes Treffen"
+      - "Geburtstagswunsch"
+    selfCheck:
+      - "Alle 4 Punkte angesprochen? (3 Pkt., je 0,75)"
+      - "Verständliches Deutsch / Verb in Position 2 / weil-Satz korrekt? (2 Pkt.)"
+      - "Ca. 40 Wörter?"
+    model: |
+      Liebe Nina,
+      vielen Dank für deine Einladung! Leider kann ich am Samstag nicht kommen,
+      weil ich schon einen anderen Termin habe. Könnten wir uns nächste Woche treffen?
+      Ich wünsche dir alles Gute zum Geburtstag!
+      Herzliche Grüße,
+      [Name]
+    maxScore: 5
+
+  - id: exam-S9
+    block: exam
+    type: free-write
+    title: "Aufgabe 9 — Forumsbeitrag schreiben"
+    instructions: 'Schreiben Sie einen Forumsbeitrag (ca. 60 Wörter) zum Thema: "Was sind deine Pläne für den nächsten Urlaub?"'
+
+    prompt: "Schreiben Sie über: Reiseziel / Wann und wie lange / Mit wem / Was Sie dort machen oder sehen möchten."
+    use:
+      - "Reiseziel nennen"
+      - "Zeitraum und Dauer angeben"
+      - "Reisebegleitung erwähnen"
+      - "Aktivitäten oder Sehenswürdigkeiten nennen"
+    selfCheck:
+      - "Alle 4 Punkte angesprochen? (3 Pkt., je 0,75)"
+      - "Grammatik korrekt (Futur I / Präsens + Zeitangabe / Konjunktiv II)? (2 Pkt.)"
+      - "Ca. 60 Wörter?"
+    model: |
+      Hallo zusammen!
+      Nächsten Sommer möchte ich nach Japan reisen. Ich werde wahrscheinlich drei Wochen
+      dort bleiben. Ich fahre mit meiner Freundin — sie interessiert sich auch sehr für
+      japanische Kultur. Wir möchten Tokyo, Kyoto und Osaka besuchen. Ich würde auch gern
+      traditionelles japanisches Essen probieren. Ich freue mich schon sehr darauf!
+      Viele Grüße
+    maxScore: 5
+
+  # ── Teil 4 — Sprechen ─────────────────────────────────────────────────────
+
+  - id: exam-Sp4
+    block: exam
+    type: speaking-prompt
+    title: "Aufgabe 4 — Sprechen (3 Teile)"
+    instructions: "Führen Sie alle drei Sprechaufgaben durch — mit einem Partner oder als Monolog (Aufnahme). Bewerten Sie sich anschließend selbst anhand der Kriterien."
+    parts:
+      - label: "Teil 4a — Sich vorstellen (ca. 2 Minuten)"
+        prompt: "Stellen Sie sich vor und sprechen Sie über die sechs Punkte."
+        bullets:
+          - "1. Name"
+          - "2. Herkunft (Wo kommen Sie her?)"
+          - "3. Wohnort (Wo wohnen Sie jetzt?)"
+          - "4. Beruf oder Studium"
+          - "5. Sprachen"
+          - "6. Freizeit"
+      - label: "Teil 4b — Informationen erfragen"
+        prompt: "Student A fragt nach einem Deutschkurs; Student B gibt Auskunft."
+        bullets:
+          - "A fragt nach: Kursniveau & Kurszeiten / Kosten / Anmeldung / Kursbeginn"
+          - "B gibt Auskunft: A2, Di & Do 18–20 Uhr / 150 €/Monat / online oder persönlich / 1. September"
+          - "Dann Rollentausch"
+      - label: "Teil 4c — Gemeinsam planen"
+        prompt: "Planen Sie gemeinsam eine Überraschungsparty für Ihren Freund Bruno (30. Geburtstag). Verwenden Sie Konjunktiv II: Wir könnten … / Ich würde gern …"
+        bullets:
+          - "Wo? (Restaurant / zu Hause / Park)"
+          - "Wann? (welcher Tag, Uhrzeit)"
+          - "Wie viele Gäste?"
+          - "Was essen und trinken?"
+          - "Was schenken wir ihm?"
+    criteria:
+      - "4a — Inhalt (alle 6 Punkte): stark 2 Pkt. / ausreichend 1 Pkt. / schwach 0 Pkt."
+      - "4a — Flüssigkeit: stark 2 Pkt. / ausreichend 1 Pkt. / schwach 0 Pkt."
+      - "4a — Grammatik: stark 2 Pkt. / ausreichend 1 Pkt. / schwach 0 Pkt."
+      - "4b — Alle 4 Fragen gestellt und beantwortet: stark / ausreichend / schwach"
+      - "4b — Reaktion auf Partner / Höflichkeit: stark / ausreichend / schwach"
+      - "4c — Konjunktiv II korrekt verwendet: stark / ausreichend / schwach"
+      - "4c — Alle 5 Planungspunkte besprochen: stark / ausreichend / schwach"
+      - "Gesamt Sprechen: BESTANDEN = in mind. 2 von 3 Teilen ausreichend oder stark"

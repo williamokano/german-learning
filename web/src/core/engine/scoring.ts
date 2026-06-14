@@ -1,7 +1,6 @@
 // ScoringService — pure TypeScript, no UI/DOM imports
-// Full implementation in P2. See docs/web/SCORING.md §3–6.
 
-import type { Block, ExamGrid } from '@core/content/types';
+import type { Block, ExamGridType } from '@core/content/types';
 
 export interface ExerciseScore {
   id: string;
@@ -73,10 +72,26 @@ export function aggregateLesson(lesson: string, scores: ExerciseScore[]): Lesson
 }
 
 export function scoreExam(
-  _grid: ExamGrid,
-  _scores: ExerciseScore[],
-  _selfScores: Record<string, number>,
+  grid: ExamGridType,
+  scores: ExerciseScore[],
+  selfScores: Record<string, number>,
 ): ExamResult {
-  // Stub — implemented in P3
-  throw new Error('scoreExam not yet implemented');
+  const scoreMap = new Map(scores.map(s => [s.id, s.correct]));
+  const skills: ExamSkillResult[] = grid.skills.map(skill => {
+    const points = skill.selfAssessed
+      ? (selfScores[skill.key] ?? 0)
+      : skill.exerciseIds.reduce((sum, id) => sum + (scoreMap.get(id) ?? 0), 0);
+    return {
+      name: skill.label,
+      points,
+      maxPoints: skill.maxPoints,
+      passPoints: skill.passPoints,
+      passed: points >= skill.passPoints,
+    };
+  });
+  const total = skills.reduce((s, sk) => s + sk.points, 0);
+  const totalMax = grid.skills.reduce((s, sk) => s + sk.maxPoints, 0);
+  const passedCount = skills.filter(sk => sk.passed).length;
+  const passed = total >= grid.totalPass && passedCount >= grid.skills.length - 1;
+  return { lesson: '', skills, total, totalMax, totalPass: grid.totalPass, passed };
 }

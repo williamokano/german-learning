@@ -11,7 +11,7 @@ working site for hand-authored lessons, then P4→P5 to generate/migrate at scal
 
 ---
 
-## P0 — Scaffold & deploy skeleton
+## ✅ P0 — Scaffold & deploy skeleton
 
 **Deliverable:** an empty but deployable Astro app.
 - `web/` Astro project (`pnpm create astro`), add `@astrojs/mdx`, `@astrojs/svelte`,
@@ -28,7 +28,7 @@ builds and publishes it to GitHub Pages at the `base` path; links resolve under
 
 ---
 
-## P1 — Lesson rendering
+## ✅ P1 — Lesson rendering
 
 **Deliverable:** real lesson pages with working audio.
 - `lessons` content collection + `LessonFrontmatter` schema (`BUILD-PIPELINE.md §4`).
@@ -48,7 +48,7 @@ and plays. Reading pages ship ~no JS except audio islands.
 
 ---
 
-## P2 — Grading core + first widgets + content schema
+## ✅ P2 — Grading core + first widgets + content schema
 
 **Deliverable:** a graded exercises page for the simplest types.
 - `core/content/schema.ts` (full Zod union + `superRefine` invariants) and inferred
@@ -71,7 +71,7 @@ score panel shows the % + 80 % verdict; refresh restores in-progress answers; al
 
 ---
 
-## P3 — Remaining widgets, drag/drop, scoring panel, exams
+## ✅ P3 — Remaining widgets, drag/drop, scoring panel, exams
 
 **Deliverable:** all 11 exercise types + full scoring incl. mock exams.
 - Shared `makeDraggable` dnd helper (Pointer Events, click-to-place, click-to-return,
