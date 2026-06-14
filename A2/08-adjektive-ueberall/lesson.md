@@ -80,15 +80,15 @@
 | Noun (with article + plural) | English |
 |---|---|
 | die Jacke, -n | jacket |
-| der Mantel, ⸚ (Mäntel) | coat |
+| der Mantel, – (Mäntel) | coat |
 | das Hemd, -en | shirt |
 | die Bluse, -n | blouse |
 | der Pullover, - | sweater, pullover |
 | der Schal, -s / -e | scarf |
 | die Hose, -n | trousers, pants |
-| der Rock, ⸚e (Röcke) | skirt |
+| der Rock, –e (Röcke) | skirt |
 | das Kleid, -er | dress |
-| der Anzug, ⸚e (Anzüge) | suit |
+| der Anzug, –e (Anzüge) | suit |
 | die Krawatte, -n | tie |
 | der Schuh, -e | shoe |
 | die Stiefel (pl.) / der Stiefel, - | boots |

@@ -84,9 +84,9 @@ be a dry comment when something goes wrong (like English "great...").
 | Beruf (m) | Beruf (f) | English |
 |---|---|---|
 | der Lehrer, - | die Lehrerin, -nen | teacher |
-| der Arzt, ⸚e (Ärzte) | die Ärztin, -nen | doctor |
+| der Arzt, –e (Ärzte) | die Ärztin, -nen | doctor |
 | der Ingenieur, -e | die Ingenieurin, -nen | engineer |
-| der Koch, ⸚e (Köche) | die Köchin, -nen | cook / chef |
+| der Koch, –e (Köche) | die Köchin, -nen | cook / chef |
 | der Verkäufer, - | die Verkäuferin, -nen | sales assistant |
 | der Kellner, - | die Kellnerin, -nen | waiter / waitress |
 | der Programmierer, - | die Programmiererin, -nen | programmer |
@@ -114,7 +114,7 @@ as a **chunk**.
 | das Büro, -s | office |
 | die Schule, -n | school |
 | die Universität, -en (die Uni, -s) | university |
-| das Krankenhaus, ⸚er (Krankenhäuser) | hospital |
+| das Krankenhaus, –er (Krankenhäuser) | hospital |
 | das Restaurant, -s | restaurant |
 | die Firma, Firmen | company / firm |
 | der Betrieb, -e | business / plant |

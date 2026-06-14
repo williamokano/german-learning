@@ -91,15 +91,15 @@
 | die Kindheit, -en | childhood |
 | die Jugend (no pl.) | youth, adolescence |
 | das Studium, Studien | (university) studies |
-| der Abschluss, ⸚e (Abschlüsse) | graduation, qualification |
+| der Abschluss, –e (Abschlüsse) | graduation, qualification |
 | der Job, -s | job |
 | die Stelle, -n | position, post |
-| der Umzug, ⸚e (Umzüge) | move, relocation |
+| der Umzug, –e (Umzüge) | move, relocation |
 | die Reise, -n | trip, journey |
 | das Erlebnis, -se | experience, event |
 | die Erinnerung, -en | memory, recollection |
 | das Abenteuer, - | adventure |
-| der Traum, ⸚e (Träume) | dream |
+| der Traum, –e (Träume) | dream |
 
 ### Verben für Geschichten (story verbs)
 

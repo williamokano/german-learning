@@ -120,7 +120,7 @@
 | die Tablette, -n | tablet, pill |
 | die Apotheke, -n | pharmacy |
 | die Apothekerin, -nen / der Apotheker, - | pharmacist (f/m) |
-| der Arzt, ⸚e (Ärzte) / die Ärztin, -nen | doctor (m/f) |
+| der Arzt, –e (Ärzte) / die Ärztin, -nen | doctor (m/f) |
 | das Rezept, -e | prescription; also: recipe |
 | die Allergie, -n | allergy |
 | der Schlaf (no pl.) | sleep |

@@ -89,10 +89,10 @@ Kind.*
 
 | Maskulin | Feminin | Plural / group |
 |---|---|---|
-| der Vater, ⸚er (Väter) | die Mutter, ⸚ (Mütter) | die Eltern (only pl.) |
-| der Bruder, ⸚ (Brüder) | die Schwester, -n | die Geschwister (siblings) |
-| der Sohn, ⸚e (Söhne) | die Tochter, ⸚ (Töchter) | die Kinder |
-| der Mann, ⸚er (husband/man) | die Frau, -en (wife/woman) | das Ehepaar (married couple) |
+| der Vater, –er (Väter) | die Mutter, – (Mütter) | die Eltern (only pl.) |
+| der Bruder, – (Brüder) | die Schwester, -n | die Geschwister (siblings) |
+| der Sohn, –e (Söhne) | die Tochter, – (Töchter) | die Kinder |
+| der Mann, –er (husband/man) | die Frau, -en (wife/woman) | das Ehepaar (married couple) |
 | der Opa, -s / der Großvater | die Oma, -s / die Großmutter | die Großeltern |
 | der Onkel, - | die Tante, -n | |
 | der Cousin, -s | die Cousine, -n | |
@@ -100,7 +100,7 @@ Kind.*
 | der Freund, -e (friend/boyfriend) | die Freundin, -nen | die Freunde |
 | das Kind, -er · das Baby, -s · die Familie, -n · das Foto, -s | | |
 
-⸚ means umlaut in the plural: der Vater → die V**ä**ter.
+– means umlaut in the plural: der Vater → die V**ä**ter.
 
 ### Die Zahlen 20–1000
 

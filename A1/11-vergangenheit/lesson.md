@@ -113,7 +113,7 @@
 |---|---|---|
 | der Urlaub, -e | die Reise, -n | das Wochenende, -n |
 | der Film, -e | die Party, -s | das Konzert, -e |
-| der Strand, ⸚e (Strände) | die Stadt, ⸚e (Städte) | das Museum, Museen |
+| der Strand, –e (Strände) | die Stadt, –e (Städte) | das Museum, Museen |
 | der Park, -s | die Natur (no pl.) | das Kino, -s |
 | der Berg, -e | die Ausstellung, -en | das Restaurant, -s |
 

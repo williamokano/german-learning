@@ -99,7 +99,7 @@
 |---|---|
 | das Geschenk, -e | present, gift |
 | die Überraschung, -en | surprise |
-| der Wunsch, ⸚e (Wünsche) | wish |
+| der Wunsch, –e (Wünsche) | wish |
 | die Feier, -n | celebration, party |
 | das Fest, -e | festival, celebration |
 | der Geburtstag, -e | birthday |
@@ -107,7 +107,7 @@
 | der Jahrestag, -e | anniversary |
 | die Party, -s | party |
 | die Einladung, -en | invitation |
-| der Gast, ⸚e (Gäste) | guest |
+| der Gast, –e (Gäste) | guest |
 | der Kuchen, - | cake |
 | die Kerze, -n | candle |
 | die Karte, -n | card; map; menu |

@@ -112,7 +112,7 @@
 | das WLAN (no pl.) | Wi-Fi |
 | die App, -s | app |
 | der Chat, -s | chat |
-| das Passwort, ⸚er (Passwörter) | password |
+| das Passwort, –er (Passwörter) | password |
 | die Plattform, -en | platform |
 
 ### Medien (media)

@@ -118,42 +118,42 @@
 |---|---|
 | die Reise, -n | trip, journey |
 | der Urlaub, -e | holiday, vacation |
-| der Ausflug, ⸚e (Ausflüge) | day trip, excursion |
+| der Ausflug, –e (Ausflüge) | day trip, excursion |
 | das Ziel, -e | destination, goal |
-| die Unterkunft, ⸚e (Unterkünfte) | accommodation |
+| die Unterkunft, –e (Unterkünfte) | accommodation |
 | das Hotel, -s | hotel |
 | die Pension, -en | guesthouse, B&B |
 | das Hostel, -s | hostel |
 | die Buchung, -en | booking, reservation |
-| der Flug, ⸚e (Flüge) | flight |
-| der Zug, ⸚e (Züge) | train |
+| der Flug, –e (Flüge) | flight |
+| der Zug, –e (Züge) | train |
 | der Bus, -se | bus |
 | die Straßenbahn, -en | tram |
 | die U-Bahn, -en | underground, metro |
 | das Ticket, -s | ticket |
-| der Bahnhof, ⸚e (Bahnhöfe) | train station |
-| der Flughafen, ⸚ (Flughäfen) | airport |
+| der Bahnhof, –e (Bahnhöfe) | train station |
+| der Flughafen, – (Flughäfen) | airport |
 | die Haltestelle, -n | (bus/tram) stop |
 | das Gepäck (no pl.) | luggage, baggage |
 | der Koffer, - | suitcase |
-| der Rucksack, ⸚e (Rucksäcke) | backpack |
+| der Rucksack, –e (Rucksäcke) | backpack |
 
 ### Stadtleben und Orientierung (city life and orientation)
 
 | Noun (article + plural) | English |
 |---|---|
-| die Stadt, ⸚e (Städte) | city, town |
-| das Land, ⸚er (Länder) | country; countryside |
-| die Altstadt, ⸚e (Altstädte) | old town |
-| der Marktplatz, ⸚e (Marktplätze) | market square |
+| die Stadt, –e (Städte) | city, town |
+| das Land, –er (Länder) | country; countryside |
+| die Altstadt, –e (Altstädte) | old town |
+| der Marktplatz, –e (Marktplätze) | market square |
 | die Kirche, -n | church |
 | das Museum, Museen | museum |
-| das Schloss, ⸚er (Schlösser) | castle, palace |
-| der Hafen, ⸚ (Häfen) | harbour, port |
-| der Strand, ⸚e (Strände) | beach |
+| das Schloss, –er (Schlösser) | castle, palace |
+| der Hafen, – (Häfen) | harbour, port |
+| der Strand, –e (Strände) | beach |
 | das Meer, -e | sea, ocean |
 | die Berge (pl.) | mountains |
-| das Tal, ⸚er (Täler) | valley |
+| das Tal, –er (Täler) | valley |
 | die Sehenswürdigkeit, -en | sight, tourist attraction |
 | die Stadtmitte, -n | city centre |
 | die Richtung, -en | direction |

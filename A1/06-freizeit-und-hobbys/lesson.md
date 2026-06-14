@@ -106,11 +106,11 @@ system starts in Lektion 8.
 | der (m) | die (f) | das (n) |
 |---|---|---|
 | der Sport (no pl.) | die Freizeit (no pl.) | das Hobby, -s (die Hobbys!) |
-| der Fußball, ⸚e (Fußbälle) | die Musik (no pl.) | das Buch, ⸚er (Bücher) |
+| der Fußball, –e (Fußbälle) | die Musik (no pl.) | das Buch, –er (Bücher) |
 | der Krimi, -s (crime novel) | die Gitarre, -n | das Klavier, -e (piano) |
 | der Park, -s | die Karte, -n (card) | das Instrument, -e |
-| der See, -n (lake) | die Idee, -n | das Schwimmbad, ⸚er (pool) |
-| der Berg, -e (mountain) | | das Fahrrad, ⸚er (bicycle) |
+| der See, -n (lake) | die Idee, -n | das Schwimmbad, –er (pool) |
+| der Berg, -e (mountain) | | das Fahrrad, –er (bicycle) |
 
 Also: der Freund, -e / die Freundin, -nen (L2) · das Kino, -s und der Film, -e (L5)
 

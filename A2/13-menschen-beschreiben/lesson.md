@@ -118,8 +118,8 @@ Frau Weber trifft Herrn Steinmeyer im Treppenhaus. Sie sprechen über den neuen 
 | das Auge, -n (AUG-en) | eye |
 | das Haar, -e (usually pl.: die Haare) | hair |
 | die Nase, -n | nose |
-| der Mund, ⸚er (Münder) | mouth |
-| der Bart, ⸚e (Bärte) | beard |
+| der Mund, –er (Münder) | mouth |
+| der Bart, –e (Bärte) | beard |
 | das Kinn, -e | chin |
 | die Stirn, -en | forehead |
 | die Figur, -en | figure, build |
@@ -158,23 +158,23 @@ Frau Weber trifft Herrn Steinmeyer im Treppenhaus. Sie sprechen über den neuen 
 | Noun (article + plural) | English |
 |---|---|
 | die Familie, -n | family |
-| der Vater, ⸚ (Väter) | father |
-| die Mutter, ⸚ (Mütter) | mother |
-| der Bruder, ⸚ (Brüder) | brother |
+| der Vater, – (Väter) | father |
+| die Mutter, – (Mütter) | mother |
+| der Bruder, – (Brüder) | brother |
 | die Schwester, -n | sister |
 | der Onkel, - | uncle |
 | die Tante, -n | aunt |
 | der Cousin, -s | (male) cousin |
 | die Cousine, -n | (female) cousin |
-| der Ehemann, ⸚er (Ehemänner) | husband |
+| der Ehemann, –er (Ehemänner) | husband |
 | die Ehefrau, -en | wife |
 | der Freund, -e | (boy)friend; friend (m) |
 | die Freundin, -nen | (girl)friend; friend (f) |
 | das Kind, -er | child |
-| der Sohn, ⸚e (Söhne) | son |
-| die Tochter, ⸚ (Töchter) | daughter |
-| der Großvater, ⸚ (Großväter) | grandfather |
-| die Großmutter, ⸚ (Großmütter) | grandmother |
+| der Sohn, –e (Söhne) | son |
+| die Tochter, – (Töchter) | daughter |
+| der Großvater, – (Großväter) | grandfather |
+| die Großmutter, – (Großmütter) | grandmother |
 | die Verwandten (pl.) | relatives |
 
 ### Verben (verbs)

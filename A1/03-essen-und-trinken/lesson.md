@@ -83,10 +83,10 @@
 
 | der (m) | die (f) | das (n) |
 |---|---|---|
-| der Apfel, ⸚ (Äpfel) | die Banane, -n | das Brot, -e |
+| der Apfel, – (Äpfel) | die Banane, -n | das Brot, -e |
 | der Käse (no pl.) | die Tomate, -n | das Brötchen, - |
 | der Schinken, - | die Kartoffel, -n | das Ei, -er |
-| der Fisch, -e | die Wurst, ⸚e (Würste) | das Fleisch (no pl.) |
+| der Fisch, -e | die Wurst, –e (Würste) | das Fleisch (no pl.) |
 | der Reis (no pl.) | die Butter (no pl.) | das Obst (no pl.) |
 | der Salat, -e | die Milch (no pl.) | das Gemüse (no pl.) |
 | der Kuchen, - | die Schokolade, -n | das Müsli, -s |
@@ -94,8 +94,8 @@
 
 ### Getränke (drinks)
 
-der Kaffee · der Tee · der Saft, ⸚e (Säfte) · der Wein, -e · die Cola, -s ·
-das Wasser · das Bier, -e · das Glas, ⸚er (Gläser) · die Flasche, -n · die Tasse, -n
+der Kaffee · der Tee · der Saft, –e (Säfte) · der Wein, -e · die Cola, -s ·
+das Wasser · das Bier, -e · das Glas, –er (Gläser) · die Flasche, -n · die Tasse, -n
 
 ### Mahlzeiten und Verben
 

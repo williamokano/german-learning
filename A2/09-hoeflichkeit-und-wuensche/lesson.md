@@ -120,8 +120,8 @@
 | die Rechnung, -en | bill |
 | das Trinkgeld, -er | tip |
 | der Kellner, - / die Kellnerin, -nen | waiter / waitress |
-| der Platz, ⸚e (Plätze) | seat, place |
-| der Fensterplatz, ⸚e (Fensterplätze) | window seat |
+| der Platz, –e (Plätze) | seat, place |
+| der Fensterplatz, –e (Fensterplätze) | window seat |
 | die Reservierung, -en | reservation |
 | die Bestellung, -en | order |
 | die Soße, -n | sauce |
@@ -145,7 +145,7 @@
 |---|---|
 | die Einladung, -en | invitation |
 | die Verabredung, -en | date, appointment (social) |
-| der Vorschlag, ⸚e (Vorschläge) | suggestion, proposal |
+| der Vorschlag, –e (Vorschläge) | suggestion, proposal |
 | die Absage, -n | cancellation, decline |
 | die Zusage, -n | acceptance, confirmation |
 

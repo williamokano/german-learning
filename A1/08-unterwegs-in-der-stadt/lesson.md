@@ -96,20 +96,20 @@ chunks with `an`; the full preposition system for `an/in/auf` comes at A2.
 | der (m) | die (f) | das (n) |
 |---|---|---|
 | der Bus, -se | die U-Bahn, -en | das Auto, -s |
-| der Zug, ⸚e (Züge) | die S-Bahn, -en | das Fahrrad, ⸚er (Fahrräder) |
+| der Zug, –e (Züge) | die S-Bahn, -en | das Fahrrad, –er (Fahrräder) |
 | | die Straßenbahn, -en | das Taxi, -s |
 
 …and without a vehicle: **zu Fuß** (on foot).
 
-der Bahnhof, ⸚e (Bahnhöfe) · die Haltestelle, -n · der Flughafen, ⸚ (Flughäfen) ·
+der Bahnhof, –e (Bahnhöfe) · die Haltestelle, -n · der Flughafen, – (Flughäfen) ·
 die Fahrkarte, -n · die Fahrt, -en (trip/ride) · die Linie, -n (line, e.g. bus line)
 
 ### In der Stadt
 
 | der (m) | die (f) | das (n) |
 |---|---|---|
-| der Platz, ⸚e (Plätze) | die Stadt, ⸚e (Städte) | das Krankenhaus, ⸚er (Krankenhäuser) |
-| der Supermarkt, ⸚e (Supermärkte) | die Straße, -n | das Hotel, -s |
+| der Platz, –e (Plätze) | die Stadt, –e (Städte) | das Krankenhaus, –er (Krankenhäuser) |
+| der Supermarkt, –e (Supermärkte) | die Straße, -n | das Hotel, -s |
 | der Park, -s | die Ampel, -n (traffic light) | das Restaurant, -s |
 | der Weg, -e (way) | die Kreuzung, -en (crossroads) | das Museum, Museen ⚠️ |
 | | die Brücke, -n (bridge) | |

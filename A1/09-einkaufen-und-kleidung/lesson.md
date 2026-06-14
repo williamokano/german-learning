@@ -89,12 +89,12 @@
 
 | der (m) | die (f) | das (n) |
 |---|---|---|
-| der Anzug, ⸚e (Anzüge) | die Bluse, -n | das Hemd, -en |
+| der Anzug, –e (Anzüge) | die Bluse, -n | das Hemd, -en |
 | der Gürtel, - | die Hose, -n | das Jackett, -s |
-| der Hut, ⸚e (Hüte) | die Jacke, -n | das Kleid, -er |
-| der Mantel, ⸚ (Mäntel) | die Jeans (pl. usually) | das Kostüm, -e |
+| der Hut, –e (Hüte) | die Jacke, -n | das Kleid, -er |
+| der Mantel, – (Mäntel) | die Jeans (pl. usually) | das Kostüm, -e |
 | der Pullover, - | die Krawatte, -n | das Sweatshirt, -s |
-| der Rock, ⸚e (Röcke) | die Mütze, -n | das T-Shirt, -s |
+| der Rock, –e (Röcke) | die Mütze, -n | das T-Shirt, -s |
 | der Schuh, -e | die Socke, -n | — |
 | der Stiefel, - | — | — |
 
@@ -110,7 +110,7 @@ nouns: *das Rot*, *das Blau*.
 
 ### Accessoires und Materialien
 
-die Tasche, -n (bag/pocket) · das Tuch, ⸚er (Tücher) (scarf/cloth) ·
+die Tasche, -n (bag/pocket) · das Tuch, –er (Tücher) (scarf/cloth) ·
 der Schal, -s (scarf) · der Ring, -e · die Uhr, -en (watch/clock)
 
 aus Baumwolle (cotton) · aus Wolle (wool) · aus Leder (leather) · aus Seide (silk) ·

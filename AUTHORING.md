@@ -13,6 +13,25 @@ work item in `tasks/todo.md`):
 2. `exercises.md` — the five-block exercise battery (H + A + B + C + D)
 3. `solutions.md` — the full answer key
 
+## Authoring for the website
+
+Exercises are authored as structured **`exercises.yml`** (single source of truth);
+`exercises.md` and `solutions.md` are **generated** from it via `gen-exercises` —
+do not hand-edit them once `exercises.yml` exists. Lessons may embed inline
+`<AudioPlay>` components. See **`docs/web/WEB-AUTHORING.md`** for the schema,
+per-type examples, and the generate/audio command order.
+
+> **Interim note (before P4 gen-exercises is built):** For lessons that already
+> have an `exercises.yml` (currently only A1/01), you must keep `exercises.md`
+> and `solutions.md` in manual sync with the YAML until the generator exists.
+> For all new lessons authored from B1 onward, author `exercises.yml` natively
+> and leave `exercises.md`/`solutions.md` as generated artifacts.
+
+The five-block architecture, scope discipline, and German-correctness rules below
+still apply unchanged.
+
+---
+
 ## Required reading, in this order
 
 1. **This file**, fully.

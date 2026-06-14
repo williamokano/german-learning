@@ -120,16 +120,16 @@
 
 | Noun | English |
 |---|---|
-| das Bürgeramt, ⸚er | residents' registration office |
-| das Einwohnermeldeamt, ⸚er | registration office (same as above, older name) |
-| das Rathaus, ⸚er | town hall |
+| das Bürgeramt, –er | residents' registration office |
+| das Einwohnermeldeamt, –er | registration office (same as above, older name) |
+| das Rathaus, –er | town hall |
 | die Arztpraxis, -praxen | doctor's practice |
-| das Krankenhaus, ⸚er | hospital |
+| das Krankenhaus, –er | hospital |
 | die Botschaft, -en | embassy |
-| das Finanzamt, ⸚er | tax office |
+| das Finanzamt, –er | tax office |
 | die Ausländerbehörde, -n | foreigners' registration authority |
 | der Schalter, - | counter, window |
-| der Warteraum, ⸚e | waiting room |
+| der Warteraum, –e | waiting room |
 | der Termin, -e | appointment |
 | die Warteschlange, -n | queue |
 
@@ -138,10 +138,10 @@
 | Noun | English |
 |---|---|
 | der Personalausweis, -e | identity card |
-| der Reisepass, ⸚e | passport |
+| der Reisepass, –e | passport |
 | die Anmeldung, -en | registration |
 | das Formular, -e | form |
-| der Antrag, ⸚e | application |
+| der Antrag, –e | application |
 | die Unterschrift, -en | signature |
 | der Wohnungsgebernachweis, -e | landlord's confirmation of tenancy |
 | die Gebühr, -en | fee |
@@ -162,7 +162,7 @@
 | der Rückruf, -e | callback |
 | die E-Mail, -s | e-mail |
 | der Betreff (no pl.) | subject (of e-mail) |
-| der Anhang, ⸚e | attachment |
+| der Anhang, –e | attachment |
 
 ### Nützliche Verben (useful verbs)
 

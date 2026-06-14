@@ -104,10 +104,10 @@
 |---|---|---|
 | der Lehrer, - | die Lehrerin, -nen | teacher |
 | der Ingenieur, -e | die Ingenieurin, -nen | engineer |
-| der Arzt, ⸚e (Ärzte) | die Ärztin, -nen | doctor |
+| der Arzt, –e (Ärzte) | die Ärztin, -nen | doctor |
 | der Krankenpfleger, - | die Krankenpflegerin, -nen | nurse |
 | der Verkäufer, - | die Verkäuferin, -nen | sales assistant |
-| der Koch, ⸚e (Köche) | die Köchin, -nen | cook, chef |
+| der Koch, –e (Köche) | die Köchin, -nen | cook, chef |
 | der Mechaniker, - | die Mechanikerin, -nen | mechanic |
 | der Programmierer, - | die Programmiererin, -nen | programmer |
 | der Buchhalter, - | die Buchhalterin, -nen | accountant |
@@ -123,13 +123,13 @@
 |---|---|
 | die Stelle, -n | position, job post |
 | die Bewerbung, -en | application |
-| der Lebenslauf, ⸚e (Lebensläufe) | CV, résumé |
+| der Lebenslauf, –e (Lebensläufe) | CV, résumé |
 | das Vorstellungsgespräch, -e | job interview |
 | der Arbeitgeber, - | employer |
 | der Arbeitnehmer, - | employee |
 | die Berufserfahrung (no pl.) | professional experience |
 | die Arbeitszeit, -en | working hours |
-| das Gehalt, ⸚er (Gehälter) | salary |
+| das Gehalt, –er (Gehälter) | salary |
 | die Pause, -n | break |
 | das Büro, -s | office |
 | die Firma, Firmen | company, firm |

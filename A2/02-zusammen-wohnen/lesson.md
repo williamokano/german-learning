@@ -108,11 +108,11 @@
 | Noun (article + plural) | English |
 |---|---|
 | das Bett, -en | bed |
-| der Schrank, ⸚e (Schränke) | wardrobe, cupboard |
-| der Kleiderschrank, ⸚e | wardrobe |
+| der Schrank, –e (Schränke) | wardrobe, cupboard |
+| der Kleiderschrank, –e | wardrobe |
 | das Regal, -e | shelf, bookcase |
 | der Tisch, -e | table |
-| der Stuhl, ⸚e (Stühle) | chair |
+| der Stuhl, –e (Stühle) | chair |
 | das Sofa, -s | sofa |
 | der Sessel, - | armchair |
 | die Lampe, -n | lamp |
@@ -125,7 +125,7 @@
 | der Teppich, -e | rug, carpet |
 | das Kissen, - | cushion, pillow |
 | die Decke, -n | blanket; also: ceiling |
-| der Vorhang, ⸚e (Vorhänge) | curtain |
+| der Vorhang, –e (Vorhänge) | curtain |
 
 ### Räume und Teile der Wohnung (rooms and parts of the flat)
 
@@ -139,8 +139,8 @@
 | das Schlafzimmer, - | bedroom |
 | das Kinderzimmer, - | children's room |
 | der Flur, -e | hallway, corridor |
-| die Wand, ⸚e (Wände) | wall |
-| der Boden, ⸚ (Böden) | floor |
+| die Wand, –e (Wände) | wall |
+| der Boden, – (Böden) | floor |
 | die Decke, -n | ceiling |
 | das Fenster, - | window |
 | die Tür, -en | door |
@@ -157,7 +157,7 @@
 | der Haushalt, -e | household |
 | die Miete, -n | rent |
 | der Vermieter, - / die Vermieterin, -nen | landlord / landlady |
-| der Mietvertrag, ⸚e (Mietverträge) | rental contract |
+| der Mietvertrag, –e (Mietverträge) | rental contract |
 | die Kiste, -n | box, crate |
 | der Karton, -s | cardboard box |
 | der Einzug (no pl.) | move-in |

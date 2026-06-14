@@ -96,25 +96,25 @@
 
 | German | English |
 |---|---|
-| der Kopf, ⸚e (Köpfe) | head |
+| der Kopf, –e (Köpfe) | head |
 | das Gesicht, -er | face |
 | das Auge, -n | eye |
 | das Ohr, -en | ear |
 | die Nase, -n | nose |
-| der Mund, ⸚er (Münder) | mouth |
-| der Zahn, ⸚e (Zähne) | tooth |
-| der Hals, ⸚e (Hälse) | throat / neck |
+| der Mund, –er (Münder) | mouth |
+| der Zahn, –e (Zähne) | tooth |
+| der Hals, –e (Hälse) | throat / neck |
 | die Schulter, -n | shoulder |
 | der Arm, -e | arm |
 | der Ellbogen, - | elbow |
-| die Hand, ⸚e (Hände) | hand |
+| die Hand, –e (Hände) | hand |
 | der Finger, - | finger |
 | der Rücken, - | back |
-| der Bauch, ⸚e (Bäuche) | stomach / belly |
+| der Bauch, –e (Bäuche) | stomach / belly |
 | das Bein, -e | leg |
 | das Knie, - | knee |
-| der Fuß, ⸚e (Füße) | foot |
-| die Brust, ⸚e (Brüste) | chest |
+| der Fuß, –e (Füße) | foot |
+| die Brust, –e (Brüste) | chest |
 | das Herz, -en | heart |
 
 ### Krankheiten und Symptome (illnesses and symptoms)
@@ -140,8 +140,8 @@
 
 | German | English |
 |---|---|
-| der Arzt, ⸚e (Ärzte) / die Ärztin, -nen | doctor (m/f) |
-| das Krankenhaus, ⸚er (Krankenhäuser) | hospital |
+| der Arzt, –e (Ärzte) / die Ärztin, -nen | doctor (m/f) |
+| das Krankenhaus, –er (Krankenhäuser) | hospital |
 | die Apotheke, -n | pharmacy |
 | das Rezept, -e | prescription / recipe |
 | die Tablette, -n | tablet / pill |

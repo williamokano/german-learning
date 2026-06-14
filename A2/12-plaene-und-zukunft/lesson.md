@@ -113,13 +113,13 @@
 | Noun (article + plural) | English |
 |---|---|
 | die Zukunft (no pl.) | future |
-| der Plan, ⸚e (Pläne) | plan |
-| der Vorsatz, ⸚e (Vorsätze) | resolution |
+| der Plan, –e (Pläne) | plan |
+| der Vorsatz, –e (Vorsätze) | resolution |
 | das Ziel, -e | goal |
 | die Absicht, -en | intention |
 | die Hoffnung, -en | hope |
-| der Wunsch, ⸚e (Wünsche) | wish |
-| der Traum, ⸚e (Träume) | dream |
+| der Wunsch, –e (Wünsche) | wish |
+| der Traum, –e (Träume) | dream |
 | die Gelegenheit, -en | opportunity |
 | die Entscheidung, -en | decision |
 | die Verabredung, -en | appointment, date |
@@ -133,7 +133,7 @@
 | die Sonne, -n | sun |
 | der Regen (no pl.) | rain |
 | der Schnee (no pl.) | snow |
-| der Sturm, ⸚e (Stürme) | storm |
+| der Sturm, –e (Stürme) | storm |
 | das Gewitter, - | thunderstorm |
 | der Schauer, - | shower (rain) |
 | der Nebel (no pl.) | fog |

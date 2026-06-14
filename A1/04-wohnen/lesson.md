@@ -91,23 +91,23 @@ tense comes in Lektion 6.
 
 | | | |
 |---|---|---|
-| die Wohnung, -en (flat) | das Haus, ⸚er (Häuser) | das Zimmer, - (room) |
+| die Wohnung, -en (flat) | das Haus, –er (Häuser) | das Zimmer, - (room) |
 | das Wohnzimmer, - | das Schlafzimmer, - | das Kinderzimmer, - |
-| die Küche, -n | das Bad, ⸚er (Bäder) | die Toilette, -n |
-| der Flur, -e (hallway) | der Balkon, -e | der Garten, ⸚ (Gärten) |
-| die Garage, -n | der Keller, - (basement) | der Aufzug, ⸚e (elevator) |
+| die Küche, -n | das Bad, –er (Bäder) | die Toilette, -n |
+| der Flur, -e (hallway) | der Balkon, -e | der Garten, – (Gärten) |
+| die Garage, -n | der Keller, - (basement) | der Aufzug, –e (elevator) |
 
 ### Die Möbel (furniture) & Co.
 
 | der (m) | die (f) | das (n) |
 |---|---|---|
 | der Tisch, -e | die Lampe, -n | das Sofa, -s |
-| der Stuhl, ⸚e (Stühle) | die Tür, -en | das Bett, -en |
-| der Schrank, ⸚e (wardrobe) | die Waschmaschine, -n | das Regal, -e (shelf) |
+| der Stuhl, –e (Stühle) | die Tür, -en | das Bett, -en |
+| der Schrank, –e (wardrobe) | die Waschmaschine, -n | das Regal, -e (shelf) |
 | der Sessel, - (armchair) | | das Bild, -er (picture) |
 | der Teppich, -e (carpet) | | das Fenster, - |
 | der Fernseher, - (TV) | | |
-| der Kühlschrank, ⸚e (fridge) | | |
+| der Kühlschrank, –e (fridge) | | |
 | der Herd, -e (stove) | | |
 
 ### Adjektive — learn them in opposite pairs

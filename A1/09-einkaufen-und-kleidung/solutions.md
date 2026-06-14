@@ -154,8 +154,8 @@ Full table:
 4. **der** Schuh, **-e** (die Schuhe)
 5. **die** Hose, **-n** (die Hosen)
 6. **das** Hemd, **-en** (die Hemden)
-7. **der** Mantel, **⸚** (die Mäntel)
-8. **der** Rock, **⸚e** (die Röcke)
+7. **der** Mantel, **–** (die Mäntel)
+8. **der** Rock, **–e** (die Röcke)
 9. **die** Bluse, **-n** (die Blusen)
 10. **der** Stiefel, **-** (die Stiefel)
 

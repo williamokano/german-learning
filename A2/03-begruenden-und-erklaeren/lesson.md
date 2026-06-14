@@ -100,7 +100,7 @@
 | Noun (article + plural) | English |
 |---|---|
 | die Meinung, -en | opinion |
-| der Grund, ⸚e (Gründe) | reason |
+| der Grund, –e (Gründe) | reason |
 | die Entscheidung, -en | decision |
 | die Erklärung, -en | explanation |
 | die Diskussion, -en | discussion |
