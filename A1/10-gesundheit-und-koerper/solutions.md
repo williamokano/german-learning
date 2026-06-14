@@ -1,4 +1,4 @@
-# A1 · Lektion 10 — Lösungen (Answer key)
+# A1 · Lektion 10 — Lösungen
 
 ---
 
@@ -20,279 +20,142 @@
 
 ## Übung H3 — Hörtext-Lückentext
 
-Complete Hörtext:
+1. **gut**  2. **Hals**  3. **Husten**  4. **machen**  5. **Hause**  6. **gehen**  7. **schläft**
 
-> Yuki fühlt sich heute nicht **gut**. Ihr **Hals** tut weh und sie hat **Husten**.
-> Sie ruft Bruno an und fragt: „Was soll ich **machen**?" Bruno sagt: „Trink viel Tee und
-> bleib zu **Hause**!" Yuki fragt: „Soll ich zum Arzt **gehen**?" Bruno antwortet: „Ja, geh morgen zum Arzt."
-> Yuki trinkt Tee und **schläft** den ganzen Tag.
+## Übung H4 — Kurze Ansage: Durchsage in der Apotheke
 
-Gap answers in order: gut · Hals · Husten · machen · Hause · gehen · schläft.
-Distractors not used: Arzt · Tabletten.
-
-## H4 — Kurze Ansage: Durchsage in der Apotheke
-
-1. **b) Im Hauptbahnhof** — „die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet."
-2. **c) Bis zwanzig Uhr** — „die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet."
-3. **b) Einen Blutdruckmess-Service** — „Wir bieten auch einen kostenlosen Blutdruckmess-Service an."
-4. **a) Einen Grippeimpf-Service** — „Ab nächster Woche haben wir auch einen Grippeimpf-Service."
+1. **b) Im Hauptbahnhof.** — „die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet."
+2. **c) Bis zwanzig Uhr.** — „die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet."
+3. **b) Einen Blutdruckmess-Service.** — „Wir bieten auch einen kostenlosen Blutdruckmess-Service an."
+4. **a) Einen Grippeimpf-Service.** — „Ab nächster Woche haben wir auch einen Grippeimpf-Service."
 
 ---
 
-# Block A
+# Block A — Basistraining
 
-## Übung A1 — der/die/das: Körperteile
+## Übung A1 — Körperteile: der, die oder das?
 
-1. **der** Kopf
-2. **die** Nase
-3. **das** Auge
-4. **das** Ohr
-5. **der** Mund
-6. **der** Hals
-7. **der** Arm
-8. **die** Hand
-9. **der** Finger
-10. **das** Bein
-11. **der** Fuß
-12. **der** Bauch
-13. **der** Rücken
-14. **der** Zahn
-15. **das** Herz
+1. **der**  2. **die**  3. **das**  4. **das**  5. **der**  6. **der**  7. **der**  8. **die**  9. **der**  10. **das**  11. **der**  12. **der**  13. **der**  14. **der**  15. **das**
 
-## Übung A2 — Plural
+## Übung A2 — Plural der Körperteile
 
-1. die **Köpfe** (umlaut + -e)
-2. die **Augen** (-n)
-3. die **Ohren** (-en)
-4. die **Hände** (umlaut + -e)
-5. die **Zähne** (umlaut + -e)
-6. die **Arme** (-e)
-7. die **Füße** (umlaut + -e)
-8. die **Beine** (-e)
-9. die **Schultern** (-n)
-10. die **Finger** (unchanged — zero plural)
+1. **Köpfe**  2. **Augen**  3. **Ohren**  4. **Hände**  5. **Zähne**  6. **Arme**  7. **Füße**  8. **Beine**  9. **Schultern**  10. **Finger**
 
-## Übung A3 — `weh tun`
+## Übung A3 — `weh tun`: fill in `tut` or `tun`
 
-1. tut (singular subject: mein Kopf)
-2. **tun** (plural: meine Beine)
-3. tut
-4. **tun** (plural: meine Füße)
-5. tut
-6. **tun** (plural: meine Zähne)
-7. tut
-8. **tun** (plural: meine Augen)
+1. **tut**  2. **tun**  3. **tut**  4. **tun**  5. **tut**  6. **tun**  7. **tut**  8. **tun**
 
-Key rule: singular subject → **tut**, plural subject → **tun**.
+## Übung A4 — `sollen`: Konjugationstabelle und Sätze
 
-## Übung A4 — `sollen`
+1. **soll**  2. **sollst**  3. **soll**  4. **sollen**  5. **sollt**  6. **sollen**  7. **sollst**  8. **soll**  9. **sollen**  10. **sollt**  11. **soll**  12. **soll**  13. **Sollst**  14. **sollen**
 
-| ich | du | er/sie/es | wir | ihr | sie/Sie |
-|---|---|---|---|---|---|
-| **soll** | **sollst** | **soll** | **sollen** | **sollt** | **sollen** |
+## Übung A5 — Imperativ du-Form: bilden
 
-1. **sollst** 2. **soll** 3. **sollen** 4. **sollt** 5. **soll**
-6. **soll** 7. **Sollst** 8. **sollen**
+1. **Trink**  2. **Komm**  3. **Bleib**  4. **Mach**  5. **Schlaf**  6. **Nimm**  7. **Lies**  8. **Fahr**  9. **Iss**  10. **Ruf**
 
-⚠️ No -e on ich, no -t on er/sie/es — same pattern as all modals.
+## Übung A6 — Imperativ ihr-Form
 
-## Übung A5 — du-Imperativ
+1. **Trinkt**  2. **Kommt**  3. **Bleibt**  4. **Macht**  5. **Schlaft**  6. **Nehmt**
 
-1. **Trink** (viel Wasser)!
-2. **Komm** (her)!
-3. **Bleib** (zu Hause)!
-4. **Mach** (den Mund) **auf**! (separable verb — `auf` goes to the end!)
-5. **Schlaf** (gut)! ⚠️ Drop the umlaut: *schläfst* → **Schlaf!** (NOT *Schläf!*)
-6. **Nimm** (die Tabletten)! ⚠️ Keep the e→i change: *nimmst* → **Nimm!**
-7. **Lies** (das)! ⚠️ Keep the e→i change: *liest* → **Lies!**
-8. **Fahr** (schnell)! ⚠️ Drop the umlaut: *fährst* → **Fahr!** (NOT *Fähr!*)
-9. **Iss** (etwas)! ⚠️ Keep the e→i change: *isst* → **Iss!**
-10. **Ruf** (die Ärztin **an**)! (separable: `an` goes to the end)
+## Übung A7 — Imperativ: du, ihr oder Sie?
 
-**Umlaut rule summary:** a→ä verbs (fahren, schlafen): **DROP the umlaut** in the du-imperative. e→i verbs (nehmen, essen, lesen): **KEEP the change**.
+1. **Trink deinen Tee!**  2. **Kommt her!**  3. **Öffnen Sie bitte die Tür!**  4. **Nimm die Tabletten!**  5. **Schlaft gut, Kinder!**  6. **Bleiben Sie zu Hause!**  7. **Ruh dich aus!**  8. **Ruft den Arzt!**
 
-## Übung A6 — ihr-Imperativ
+## Übung A8 — Possessive articles im Akkusativ
 
-1. **Trinkt** (viel Tee)!
-2. **Kommt** (her)!
-3. **Bleibt** (zu Hause)!
-4. **Macht** auf! (same as ihr-present; separable: auf at end)
-5. **Schlaft** gut! (ihr schlaft — no umlaut change in ihr-form; do NOT write *Schläft*)
-6. **Nehmt** (die Tabletten)! ⚠️ ihr-form does NOT take the stem-vowel change — *ihr nehmt*, not *ihr nimmt*. So the ihr-imperative is **Nehmt!** (not *Nimmt!*)
+1. **meinen**  2. **seinen**  3. **deine**  4. **ihre**  5. **meinen**  6. **seine**  7. **deine**  8. **ihre**
 
-## Übung A7 — du/ihr/Sie
+## Übung A9 — Possessive articles im Dativ
 
-1. **Trink** deinen Tee! (du)
-2. **Kommt** her! (ihr)
-3. **Öffnen Sie** bitte die Tür! / **Machen Sie** bitte die Tür auf! (Sie)
-4. **Nimm** die Tabletten! (du — keep e→i)
-5. **Schlaft** gut, Kinder! (ihr)
-6. **Bleiben Sie** zu Hause! (Sie)
-7. **Ruh dich** aus! (du — reflexive chunk from lesson)
-8. **Ruft** den Arzt! (ihr)
+1. **meiner**  2. **seinem**  3. **ihren**  4. **meinem**  5. **deinem**  6. **unseren**  7. **seinem**  8. **ihrer**
 
-## Übung A8 — Possessive Akkusativ
+## Übung A10 — Gesundheitsvokabular: Lücken füllen
 
-1. **meinen** Arm (mein, masc. → accusative → **meinen**)
-2. **seinen** Mund (sein, masc. → **seinen**)
-3. **deine** Hand (dein, fem. → **deine** — unchanged!)
-4. **ihre** Beine (ihr, pl. → **ihre** — unchanged!)
-5. **meinen** Arzt (mein, masc. → **meinen**)
-6. **seine** Tabletten (sein, pl. → **seine** — unchanged!)
-7. **deine** Mutter (dein, fem. → **deine**)
-8. **ihre** Freundin (ihr, fem. → **ihre**)
-
-**Key rule:** only masculine changes in accusative: mein → **meinen** / ein → **einen**.
-
-## Übung A9 — Possessive Dativ
-
-1. mit **meiner** Mutter (mein + Dat. fem. → **meiner**)
-2. in **seinem** Rücken (sein + Dat. masc./neut. → **seinem**)
-3. mit **ihren** Kindern (ihr + Dat. pl. → **ihren**)
-4. mit **meinem** Auto (mein + Dat. neut. → **meinem**)
-5. bei **deinem** Vater (dein + Dat. masc./neut. → **deinem**)
-6. bei **unseren** Großeltern (unser + Dat. pl. → **unseren**)
-7. von **seinem** Arzt (sein + Dat. masc./neut. → **seinem**)
-8. von **ihrer** Apotheke (ihr + Dat. fem. → **ihrer**)
-
-Dative endings: masc./neut. → **-em**, fem. → **-er**, pl. → **-en**.
-
-## Übung A10 — Gesundheitsvokabular
-
-1. **Fieber** (38,8° = fever)
-2. **Halsschmerzen** (sore throat)
-3. **Husten** (cough)
-4. **Schnupfen** (runny nose)
-5. **Grippe** (the flu — more severe than Erkältung)
-6. **Rezept** (prescription)
-7. **Apotheke** (pharmacy)
-8. **Termin** (appointment)
+1. **Fieber**  2. **Halsschmerzen**  3. **Husten**  4. **Schnupfen**  5. **Grippe**  6. **Rezept**  7. **Apotheke**  8. **Termin**
 
 ## Übung A11 — `müssen` vs. `sollen`
 
-1. **sollst** (doctor's advice → sollen is most natural; müssen is also acceptable)
-2. **muss** (internal feeling of tiredness — internal necessity = müssen)
-3. **soll** (boss told him → external instruction = sollen)
-4. **sollen** (doctor prescribed them → external instruction)
-5. **Sollst** (someone told you not to — external)
-6. **muss** (urgent internal / objective necessity = müssen)
+1. **sollst** (auch richtig: **musst**)  2. **muss**  3. **soll**  4. **sollen** (auch richtig: **müssen**)  5. **Sollst**  6. **muss**
 
-The distinction: **müssen** = objective necessity or internal drive; **sollen** = someone told you to.
+## Übung A12 — Satzklammer mit `sollen`: Sätze bauen
 
-## Übung A12 — Satzklammer mit `sollen`
-
-1. Du sollst viel **schlafen**.
-2. Er soll zu Hause **bleiben**.
-3. Ihr sollt die Tabletten **nehmen**.
-4. Ich soll zum Arzt **gehen**.
-5. Wir sollen viel Tee **trinken**.
-6. Sie sollen nicht **arbeiten**.
-
-The conjugated modal (sollen) is in position 2; the infinitive goes to the **end** of the clause (Satzklammer).
+1. **Du sollst viel schlafen.**  2. **Er soll zu Hause bleiben.**  3. **Ihr sollt die Tabletten nehmen.**  4. **Ich soll zum Arzt gehen.**  5. **Wir sollen viel Tee trinken.**  6. **Sie sollen nicht arbeiten.**
 
 ---
 
-# Block B
+# Block B — Vertiefung
 
-## Übung B1 — Beim Arzt
+## Übung B1 — Dialog ergänzen: Beim Arzt
 
-1. **fehlt** (Was fehlt Ihnen? = standard medical question)
-2. **Husten** (also fine: Halsschmerzen, Kopfschmerzen)
-3. **wann** (Seit wann?)
-4. **Fieber**
-5. **Erkältung**
-6. **Bleiben** (imperative Sie: Bleiben Sie…)
-7. **Rezept**
-8. **Krankenhaus**
-9. **Besserung** (Gute Besserung!)
+1. **fehlt**  2. **Husten**  3. **wann**  4. **Fieber**  5. **Erkältung**  6. **Bleiben**  7. **Rezept**  8. **Krankenhaus**  9. **Besserung**
 
-## Übung B2 — In der Apotheke
+## Übung B2 — Dialog ergänzen: In der Apotheke
 
-1. **brauche** (Ich brauche…)
-2. **Rezept**
-3. **Rezept** (ohne Rezept = over the counter)
-4. **Tabletten**
-5. **sie** (= the tablets)
-6. **nehmen**
-7. **vorher** (eat something beforehand)
-8. **kosten** (Was kosten sie? — plural subject: kosten, not kostet)
-9. **neunzig** (6,90 €)
+1. **brauche**  2. **Rezept**  3. **Rezept**  4. **Tabletten**  5. **sie**  6. **nehmen**  7. **vorher**  8. **kosten**  9. **neunzig**
 
 ## Übung B3 — Finde den Fehler
 
-1. Meine Füße **tun** weh. (*Füße* is plural → *tun*, not *tut*)
-2. **Trink** viel Wasser, Anna! (one person, du → *Trink*, not *Trinkt*)
-3. Du sollst **nicht** rauchen. (only one *nicht* — remove the second one)
-4. Ich habe Kopfschmerzen seit zwei **Tagen**. (*Tag* → dative plural: *Tagen*)
-5. **Nimm** deine Tabletten! (du-imperative of *nehmen* → *Nimm*, not *Nehme*)
-6. **Schlaft** gut, Kinder! (ihr-imperative: *Schlaft*, not *Schläft*)
-7. Ich brauche etwas gegen **Kopfschmerzen**. (plural compound form is the standard)
-8. Er soll viel **schlafen**. (modal + infinitive — no conjugation of the second verb: *schlafen*, not *schläft*)
-9. The error: "Macht den Mund **zu**!" → should be **"auf"** — the task says to repeat the original command "Machen Sie den Mund auf!" (not "zu"). The ihr-form of *aufmachen* is **Macht den Mund auf!** (not *zu*).
-10. **Ruh dich aus!** (reflexive: *dich* for du-form, not *sich* — *sich* is for er/sie/es/Sie)
+1. **tun**  2. **Trink**  3. ****  4. **Tagen**  5. **Nimm**  6. **Schlaft**  7. **Kopfschmerzen**  8. **schlafen**  9. **auf**  10. **dich**
 
-## Übung B4 — Verbinden
+## Übung B4 — Frage und Antwort verbinden
 
-1 → **f** · 2 → **d** · 3 → **a** · 4 → **b** · 5 → **c** · 6 → **e** · 7 → **h** · 8 → **g**
+1 → f · 2 → d · 3 → a · 4 → b · 5 → c · 6 → e · 7 → h · 8 → g
 
 ## Übung B5 — Satzbau
 
-1. Mein Rücken tut weh.
-2. Du sollst viel trinken.
-3. Nimm die Tabletten zweimal täglich!
-4. Ich gehe morgen zum Arzt. / Morgen gehe ich zum Arzt.
-5. Bruno ist heute krank.
-6. Haben Sie ein Rezept?
-7. Er hat Halsschmerzen und Fieber.
-8. Ruh dich aus!
-9. Wir suchen die Apotheke.
-10. Du sollst nicht rauchen.
+1. mein Rücken tut weh
+   _Mein Rücken tut weh._
+2. du sollst viel trinken
+   _Du sollst viel trinken._
+3. Nimm die Tabletten zweimal täglich !
+   _Nimm die Tabletten zweimal täglich!_
+4. ich gehe morgen zum Arzt
+   (auch richtig: morgen gehe ich zum Arzt)
+   _Ich gehe morgen zum Arzt. / Morgen gehe ich zum Arzt._
+5. Bruno ist heute krank
+   _Bruno ist heute krank._
+6. Haben Sie ein Rezept ?
+   _Haben Sie ein Rezept?_
+7. er hat Halsschmerzen und Fieber
+   _Er hat Halsschmerzen und Fieber._
+8. Ruh dich aus !
+   _Ruh dich aus!_
+9. wir suchen die Apotheke
+   _Wir suchen die Apotheke._
+10. du sollst nicht rauchen
+   _Du sollst nicht rauchen._
 
 ## Übung B6 — Körperteil-Kategorien
 
-| Kopf (head area) | Arm/Hand area | Bein/Fuß area |
-|---|---|---|
-| Auge | Finger | Knie |
-| Nase | Schulter | Fuß |
-| Ohr | Ellbogen | Rücken |
-| Zahn | | |
-| Mund | | |
-| Brust | | |
-
-Note: *Schulter*, *Brust*, and *Rücken* could reasonably go in multiple categories — marking either column as correct is fine.
+**Kopf (head area):** **Auge**, **Nase**, **Ohr**, **Zahn**, **Mund**
+**Arm/Hand area:** **Finger**, **Schulter**, **Ellbogen**
+**Bein/Fuß area:** **Knie**, **Fuß**, **Brust**, **Rücken**
 
 ## Übung B7 — Was passt nicht?
 
-1. ~~Apotheke~~ (place, not a type of pain)
-2. ~~Termin~~ (appointment, not a medicine/item)
-3. ~~Krankenhaus~~ (place, not an adjective/state)
-4. ~~Zahn~~ (body part, not a verb/action)
-5. ~~Fieber~~ (symptom, not a person or place)
-6. ~~Schnupfen~~ (illness, not an activity)
+1. ~~Apotheke~~ — Apotheke is a place, not a type of pain.
+2. ~~Termin~~ — Termin is an appointment, not a medicine/item.
+3. ~~Krankenhaus~~ — Krankenhaus is a place, not an adjective/state.
+4. ~~Zahn~~ — Zahn is a body part, not a verb/action.
+5. ~~Fieber~~ — Fieber is a symptom, not a person or place.
+6. ~~Schnupfen~~ — Schnupfen is an illness, not an activity.
 
-## Übung B8 — Antworten
+## Übung B8 — Antworten mit Stichwörtern
 
-1. Ich habe Kopfschmerzen und Husten.
-2. Seit drei Tagen.
-3. Ich soll viel schlafen und viel trinken. / Sie sollen viel schlafen und viel trinken.
-4. Nein, ich suche etwas ohne Rezept.
-5. Mein Rücken tut weh.
-6. Nein, ich bleibe zu Hause.
-7. Sie soll die Tabletten zweimal täglich nach dem Essen nehmen.
-8. Ich brauche einen Termin heute.
+Modellantwort:
 
-## Übung B9 — Übersetzen
+> 1. Ich habe Kopfschmerzen und Husten.
+> 2. Seit drei Tagen.
+> 3. Ich soll viel schlafen und viel trinken. / Sie sollen viel schlafen und viel trinken.
+> 4. Nein, ich suche etwas ohne Rezept.
+> 5. Mein Rücken tut weh.
+> 6. Nein, ich bleibe zu Hause.
+> 7. Sie soll die Tabletten zweimal täglich nach dem Essen nehmen.
+> 8. Ich brauche einen Termin heute.
 
-1. Mein Kopf tut weh.
-2. Bleib zu Hause! (also fine: Bleib bitte zu Hause!)
-3. Du sollst viel Wasser trinken.
-4. Er hat Fieber und Halsschmerzen.
-5. Nehmen Sie diese Tabletten dreimal täglich!
-6. Ich brauche etwas gegen Bauchschmerzen.
-7. Haben Sie ein Rezept?
-8. Sie soll sich ausruhen und viel schlafen. (also fine without reflexive: Sie soll ruhen und viel schlafen.)
+## Übung B9 — Beim Arzt
 
-## B9 — Beim Arzt (model answer)
+Modellantwort:
 
 > Guten Tag, Herr Doktor. Mein Kopf tut weh und ich habe Halsschmerzen
 > und Schnupfen. Ich habe diese Beschwerden seit drei Tagen. Ich
@@ -300,177 +163,96 @@ Note: *Schulter*, *Brust*, and *Rücken* could reasonably go in multiple categor
 > Trinken Sie viel Tee, schlafen Sie viel, und essen Sie kein Eis!
 > Ich brauche vielleicht ein Rezept.
 
-*(A correct reply: ≥2 body parts, ≥1 symptom, ≥1 imperative, a `seit`
--phrase. Any equivalent is accepted.)*
+Selbstkorrektur:
+- [ ] Did I use the correct der/die/das for each body part?
+- [ ] Did I use the correct imperative form — du (Trink!, Schlaf!, Iss!); Sie (Trinken Sie!, Schlafen Sie!)?
+- [ ] Did I put the verb at position 1 in the imperative (no subject)?
 
 ## Übung B10 — Imperativ-Transformation
 
-1. (trinken, Tee)
-   - du: **Trink** Tee!
-   - ihr: **Trinkt** Tee!
-   - Sie: **Trinken Sie** Tee!
-
-2. (nehmen, die Tabletten)
-   - du: **Nimm** die Tabletten! (e→i kept)
-   - ihr: **Nehmt** die Tabletten! (no change in ihr!)
-   - Sie: **Nehmen Sie** die Tabletten!
-
-3. (bleiben, zu Hause)
-   - du: **Bleib** zu Hause!
-   - ihr: **Bleibt** zu Hause!
-   - Sie: **Bleiben Sie** zu Hause!
-
-4. (kommen, her)
-   - du: **Komm** her!
-   - ihr: **Kommt** her!
-   - Sie: **Kommen Sie** her!
+1. **Trink**  2. **Trinkt**  3. **Trinken Sie**  4. **Nimm**  5. **Nehmt**  6. **Nehmen Sie**  7. **Bleib**  8. **Bleibt**  9. **Bleiben Sie**  10. **Komm**  11. **Kommt**  12. **Kommen Sie**
 
 ---
 
-# Block C
+# Block C — Prüfungstraining
 
 ## Übung C1 — Lückentext
 
-1. **fühlt** (sich fühlen — chunk: er fühlt sich)
-2. **tut** (weh tun — singular)
-3. **Husten** (also fine: Schnupfen — but only one word fits naturally before "und Schnupfen" if Husten comes first)
-4. **an** (anrufen is separable: ruft … an)
-5. **Termin**
-6. **Erkältung**
-7. **sollen** (also fine: **müssen**)
-8. **trinken** (Satzklammer: sollen … trinken)
-9. **dreimal**
-10. **Tabletten** (also fine: Medizin)
+1. **fühlt**  2. **tut**  3. **Husten** (auch richtig: **Schnupfen**)  4. **an**  5. **Termin**  6. **Erkältung**  7. **sollen** (auch richtig: **müssen**)  8. **trinken**  9. **dreimal**  10. **Tabletten** (auch richtig: **Medizin**)
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-1. **a) habe** — ich-form; *bin* (b) would need a predicative noun; *nehme* (c) doesn't fit with *Schmerzen*
-2. **a) sagt** — standard 3rd-person present; also fine: *b) meint* — both are grammatically correct and natural. Accept either.
-3. **a) schlafen** — infinitive after modal *soll*; the other forms are conjugated (b) or wrong (c)
-4. **a) gegeben** — past participle for Perfekt (*hat … gegeben*); b) and c) are other forms but only *gegeben* fits with *hat* omitted in the gap
-5. **b) Apotheke** — you go to the pharmacy to pick up the Rezept
-6. **b) habe** — *habe ich eine Krankenversicherung?* (do I have insurance? — checking eligibility); *soll* (a) and *darf* (c) also grammatically possible but less natural in context. Accept **a) soll** as alternative.
+1. **a) habe** — ich-Form von haben: habe.
+2. **a) sagt** — sagt = says (3rd-person present of sagen); both sagt and meint are natural.
+3. **a) schlafen** — Infinitiv nach Modal `soll`: schlafen.
+4. **a) gegeben** — Partizip II für Perfekt: gegeben (hat … gegeben).
+5. **b) Apotheke** — In die Apotheke = to the pharmacy (to pick up the Rezept).
+6. **b) habe** — habe ich eine Krankenversicherung? = do I have insurance? (checking eligibility).
 
-## Übung C3 — Sprachbausteine Teil 2
+## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-1. **HABE** (Ich habe Kopfschmerzen…)
-2. **FEHLT** (Was fehlt mir? — standard medical phrase)
-3. **TERMIN**
-4. **KRANKENHAUS**
-5. **NICHT** (Das weiß ich noch nicht.)
-6. **SOLL** (Sie sollen zu Hause bleiben — doctor's instruction)
-7. **TABLETTEN**
-8. **DREIMAL** (dreimal täglich)
-9. **REZEPT**
-10. **BESSERUNG** (Gute Besserung!)
+1. **HABE**  2. **FEHLT**  3. **TERMIN**  4. **KRANKENHAUS**  5. **NICHT**  6. **SOLL**  7. **TABLETTEN**  8. **DREIMAL**  9. **REZEPT**  10. **BESSERUNG**
 
-Not needed: AN, DARF, GUT, NEHMEN, SCHLAFEN.
+## Übung C4a — Lesen Text 1 — Bruno ist krank
 
-**Word-bank verification:** HABE fills gap 1 (1×); FEHLT fills gap 2 (1×); TERMIN fills gap 3 (1×); KRANKENHAUS fills gap 4 (1×); NICHT fills gap 5 (1×); SOLL fills gap 6 (1×); TABLETTEN fills gap 7 (1×); DREIMAL fills gap 8 (1×); REZEPT fills gap 9 (1×); BESSERUNG fills gap 10 (1×). Each word fits exactly one gap. ✓ Distractors: AN, DARF, GUT, NEHMEN, SCHLAFEN. ✓
+1. **F** — Bruno hat Kopfschmerzen, aber Fieber wird im Text nicht erwähnt (nur sein Hals ist rot).
+2. **R** — Anna sagt: „Du siehst schlecht aus! Geh zum Arzt!"
+3. **F** — Der Termin ist um 15 Uhr, nicht 14 Uhr.
+4. **F** — Der Arzt sagt: „Bleiben Sie zu Hause" — kein Krankenhaus.
+5. **R** — Bruno trinkt zu Hause Tee mit Honig.
 
-## Übung C4 — Lesen
+## Übung C4b — Lesen Text 2 — Forumspost
 
-**Text 1:**
-1. **F** (Er hat Halsschmerzen, keinen Fieber explizit — aber: der Text sagt *sein Hals ist rot* und Anna sagt *siehst schlecht aus*; Fieber wird nicht direkt erwähnt, Kopfschmerzen schon — F)
+1. **c) 39 Grad Fieber und Halsschmerzen** — 39 Grad Fieber und Halsschmerzen — beides wird erwähnt.
+2. **b) zu Hause bleiben** — Die Ärztin: „Bleib zu Hause, trink viel Tee und nimm diese Tabletten."
+3. **b) nicht gearbeitet** — Ich habe auch eine Woche nicht gearbeitet.
+4. **b) Beim ersten Zeichen viel trinken und schlafen** — „Beim ersten Zeichen einer Erkältung sofort viel trinken und schlafen!"
 
-   Actually re-reading: "Sein Kopf tut weh und sein Hals ist rot." → He has a headache (not a *fever* specifically mentioned in the first sentence). The statement says "Kopfschmerzen und Fieber" → **F**: Bruno has *Kopfschmerzen*, not *Fieber* (fever is not mentioned in the Lesetext).
-2. **R** (Anna sagt: „Du siehst schlecht aus! Geh zum Arzt!")
-3. **F** (der Termin ist um 15 Uhr, nicht 14 Uhr)
-4. **F** (der Arzt sagt: „Bleiben Sie zu Hause" — kein Krankenhaus)
-5. **R** (Bruno trinkt zu Hause Tee mit Honig)
+## Übung C5 — Schreiben: Entschuldigung an die Lehrerin
 
-**Text 2:**
-6. **c** (39 Grad Fieber und Halsschmerzen — both mentioned)
-7. **b** (Die Ärztin: „Bleib zu Hause…")
-8. **b** (eine Woche nicht gearbeitet)
-9. **b** (Beim ersten Zeichen viel trinken und schlafen)
-
-## Übung C5 — Schreiben (model answer)
+Modellantwort:
 
 > Liebe Frau Braun,
->
+> 
 > leider kann ich heute nicht in den Kurs kommen. Ich fühle mich nicht gut. Ich
 > habe Kopfschmerzen und Halsschmerzen — seit gestern. Heute Morgen gehe ich zum
 > Arzt. Er sagt, ich soll zu Hause bleiben und viel schlafen. Ich nehme
 > Tabletten, dreimal täglich. Ich hoffe, ich bin am Montag wieder da.
->
+> 
 > Entschuldigung und viele Grüße,
 > [Ihr Name]
 
-**Self-check list:**
-- [ ] Greeting (Liebe / Lieber / Guten Tag)
-- [ ] Symptom(s) mentioned with since-when
-- [ ] Doctor's advice with `sollen` + infinitive at end
-- [ ] When you'll be back
-- [ ] Closing phrase + name
-- [ ] Verb in position 2 in each statement
-- [ ] `sollen` + infinitive (Satzklammer) used correctly
+Selbstkorrektur:
+- [ ] Did I use correct der/die/das for body parts?
+- [ ] Did I use `sollen` + infinitive (Satzklammer) correctly?
+- [ ] Is the verb in position 2 in each statement?
+- [ ] Did I include a polite greeting and closing?
 
 ---
 
-# Block D
+# Block D — Wiederholung & Selbsttest
 
-## Übung D1 — Schnelltest
+## Übung D1 — Gemischter Schnelltest (incl. L7 + L8)
 
-1. du **sollst**
-2. **Nimm**! (e→i kept)
-3. **Trinkt**!
-4. **tun** (plural subject: Beine)
-5. (L7) er **muss**
-6. **der** Hals (masculine)
-7. die **Zähne** (umlaut + -e)
-8. **Gute Besserung!**
-9. (L8) mit **meiner** Mutter (dative fem.)
-10. (L3) Ich möchte einen Tee.
-11. **Schlaf**! (umlaut dropped: *schläfst* → *Schlaf*)
-12. (L7) ich **darf**
-13. **soll** (er/sie/es-form — no -t!)
-14. (L6) du **liest** (e→i)
-15. Ich habe Kopfschmerzen.
+1. **sollst**  2. **Nimm**  3. **Trinkt**  4. **tun**  5. **muss**  6. **der**  7. **Zähne**  8. **Gute Besserung!**  9. **meiner**  10. **Ich möchte einen Tee.**  11. **Schlaf**  12. **darf**  13. **soll**  14. **liest**  15. **Ich habe Kopfschmerzen.**
 
 ## Übung D2 — Odd one out
 
-1. ~~Apotheke~~ (place, not a type of pain)
-2. ~~Tablette~~ (medicine, not a person or building; also fine: ~~Krankenhaus~~ if categorizing as non-person)
-3. ~~Fieber~~ (noun/symptom, not a verb/activity)
-4. ~~Rücken~~ (body part, not a modal verb)
-5. ~~Lesen!~~ (infinitive form — the others are correct du-imperatives; *Lies!* would be correct)
-6. ~~Rezept~~ (document/object, not a drink or food)
+1. ~~Apotheke~~ — Apotheke is a place, not a type of pain.
+2. ~~Tablette~~ — Tablette is a medicine, not a person or building.
+3. ~~Fieber~~ — Fieber is a noun/symptom, not a verb/activity.
+4. ~~Rücken~~ — Rücken is a body part, not a modal verb.
+5. ~~Lesen!~~ — Lesen! is the infinitive — the others are correct du-imperatives (Lies! would be correct).
+6. ~~Rezept~~ — Rezept is a document/object, not a drink or food.
 
-## Übung D3 — Wiederholung L7 + L8
+## Übung D3 — Wiederholung Lektion 7 und 8
 
-1. (L7) du **willst**
-2. (L7) **darf** (Ich darf heute nicht arbeiten.)
-3. (L7) Ich muss jetzt **schlafen**. (Satzklammer: schlafen at end)
-4. (L7) Sie muss ins Krankenhaus (gehen).
-5. (L8) mit dem Bus (mit + Dativ: der Bus → dem Bus)
-6. (L8) zum Arzt (zu + dem = zum)
-7. (L8) **Kommen Sie** her! / **Kommen Sie** bitte!
-8. (L8) **die** Apotheke (definite article, feminine)
-9. (L7) **Darf** ich hier rauchen?
-10. (L7) **soll** (doctor's external instruction → sollen)
+1. **willst**  2. **darf**  3. **Ich muss jetzt schlafen.**  4. **Sie muss ins Krankenhaus (gehen).**  5. **mit dem**  6. **zum**  7. **Kommen Sie her!**  8. **die**  9. **Darf**  10. **soll**
 
-## Übung D4 — Selbsttest
+## Übung D4 — Selbsttest (score yourself /20)
 
-1. die **Augen**
-2. **der** Rücken
-3. **Fieber**
-4. **Machen Sie** … **auf**! (separable; *auf* at end)
-5. Mein Hals tut weh.
-6. **Iss**! (e→i: *du isst* → *Iss!*)
-7. **Nehmt**! (ihr-form: no stem change!)
-8. **Trinken Sie**!
-9. **Fahr**! (umlaut dropped: *fährst* → *Fahr!*, NOT *Fähr!*)
-10. **Schlaft**! (ihr-form: no umlaut)
-11. Du sollst zu Hause **bleiben**.
-12. Ihr sollt viel Wasser **trinken**.
-13. Er soll **nicht** rauchen.
-14. **meinen** Arzt (masc. accusative)
-15. mit **seiner** Mutter (*sein-* because the possessor is *er*; *Mutter* is feminine, so dative feminine ending → **-er**: **seiner**)
-16. **Apotheke**
-17. (L7) **Musst** du heute arbeiten? (du-form of *müssen* = *musst*; ich/er/sie/es have no ending, but *du* adds **-st**)
-18. (L3) ein **Stück** Apfelkuchen
-19. **tun** (plural: Augen)
-20. (L8) mit (mit dem Bus — *mit* + dative)
+1. **Augen**  2. **der**  3. **Fieber**  4. **Machen**  5. **Mein Hals tut weh.**  6. **Iss**  7. **Nehmt**  8. **Trinken Sie**  9. **Fahr**  10. **Schlaft**  11. **Du sollst zu Hause bleiben.**  12. **Ihr sollt viel Wasser trinken.**  13. **Er soll nicht rauchen.**  14. **meinen**  15. **seiner**  16. **Apotheke**  17. **Musst**  18. **Stück**  19. **tun**  20. **mit**
 
-**16+ / 20 → Lektion 11.** Below 16: redo Block A exercises A4–A7 (imperatives and *sollen*), then retest.
+---
+
+**16+ / 20 → go to the next Lektion.**

@@ -1,8 +1,6 @@
-# A1 · Lektion 10 — Übungen (Exercises)
+# A1 · Lektion 10 — Übungen
 
-Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
-**D** Wiederholung & Selbsttest. Answers in `solutions.md`.
-Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Answers in solutions.md. Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
 
 ---
 
@@ -12,7 +10,7 @@ Tip: spread the blocks over several days — H and A today, B tomorrow, C and D 
 
 🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
 
-Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+Listen and decide: Richtig (R) oder Falsch (F)?
 
 1. Der Patient hat Halsschmerzen und Kopfschmerzen. ( )
 2. Der Arzt sagt, der Patient soll ins Krankenhaus. ( )
@@ -23,7 +21,7 @@ Listen and decide: **Richtig (R)** oder **Falsch (F)**?
 
 🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
-Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+Listen and decide: Richtig (R) oder Falsch (F)?
 
 1. Anna kauft Tabletten ohne Rezept. ( )
 2. Anna soll die Tabletten dreimal täglich nehmen. ( )
@@ -34,41 +32,25 @@ Listen and decide: **Richtig (R)** oder **Falsch (F)**?
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Hör zu und fülle die Lücken. **Zwei Wörter passen nicht.**
+Hör zu und fülle die Lücken. Zwei Wörter passen nicht.
 
-> Yuki fühlt sich heute nicht ______. Ihr ______ tut weh und sie hat ______.
-> Sie ruft Bruno an und fragt: „Was soll ich ______?" Bruno sagt: „Trink viel Tee und
-> bleib zu ______!" Yuki fragt: „Soll ich zum Arzt ______?" Bruno antwortet: „Ja, geh morgen zum Arzt."
-> Yuki trinkt Tee und ______ den ganzen Tag.
+> Yuki fühlt sich heute nicht (1) ______. Ihr (2) ______ tut weh und sie hat (3) ______.
+> Sie ruft Bruno an und fragt: „Was soll ich (4) ______?" Bruno sagt: „Trink viel Tee und
+> bleib zu (5) ______!" Yuki fragt: „Soll ich zum Arzt (6) ______?" Bruno antwortet: „Ja, geh morgen zum Arzt."
+> Yuki trinkt Tee und (7) ______ den ganzen Tag.
 
-**Wortbank:** Arzt · gehen · gut · Hals · Husten · machen · schläft · Tabletten · Hause
+> (Arzt · gehen · gut · Hals · Husten · machen · schläft · Tabletten · Hause)
 
 ## Übung H4 — Kurze Ansage: Durchsage in der Apotheke
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c).
-Höre **einmal**, bevor du das Transkript liest.
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Wo ist die Apotheke?  
-   a) Im Stadtzentrum.  
-   b) Im Hauptbahnhof.  
-   c) Im Einkaufszentrum.
-
-2. Bis wann hat die Apotheke heute geöffnet?  
-   a) Bis achtzehn Uhr.  
-   b) Bis neunzehn Uhr.  
-   c) Bis zwanzig Uhr.
-
-3. Welchen Service bietet die Apotheke jetzt schon an?  
-   a) Einen Zahnarzt-Service.  
-   b) Einen Blutdruckmess-Service.  
-   c) Einen Grippeimpf-Service.
-
-4. Welchen Service bietet die Apotheke ab nächster Woche an?  
-   a) Einen Grippeimpf-Service.  
-   b) Einen Blutdruckmess-Service.  
-   c) Einen Zahnarzt-Service.
+1. Wo ist die Apotheke?  a) Im Stadtzentrum.  b) Im Hauptbahnhof.  c) Im Einkaufszentrum.
+2. Bis wann hat die Apotheke heute geöffnet?  a) Bis achtzehn Uhr.  b) Bis neunzehn Uhr.  c) Bis zwanzig Uhr.
+3. Welchen Service bietet die Apotheke jetzt schon an?  a) Einen Zahnarzt-Service.  b) Einen Blutdruckmess-Service.  c) Einen Grippeimpf-Service.
+4. Welchen Service bietet die Apotheke ab nächster Woche an?  a) Einen Grippeimpf-Service.  b) Einen Blutdruckmess-Service.  c) Einen Zahnarzt-Service.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -89,38 +71,22 @@ Höre **einmal**, bevor du das Transkript liest.
 
 Write the correct definite article.
 
-1. ______ Kopf
-2. ______ Nase
-3. ______ Auge
-4. ______ Ohr
-5. ______ Mund
-6. ______ Hals
-7. ______ Arm
-8. ______ Hand
-9. ______ Finger
-10. ______ Bein
-11. ______ Fuß
-12. ______ Bauch
-13. ______ Rücken
-14. ______ Zahn
-15. ______ Herz
+1. ______ Kopf  2. ______ Nase  3. ______ Auge  4. ______ Ohr  5. ______ Mund
+6. ______ Hals  7. ______ Arm  8. ______ Hand  9. ______ Finger  10. ______ Bein
+11. ______ Fuß  12. ______ Bauch  13. ______ Rücken  14. ______ Zahn  15. ______ Herz
 
 ## Übung A2 — Plural der Körperteile
 
 Write the plural form (include article).
 
-1. der Kopf → die ______
-2. das Auge → die ______
-3. das Ohr → die ______
-4. die Hand → die ______
-5. der Zahn → die ______
-6. der Arm → die ______
-7. der Fuß → die ______
-8. das Bein → die ______
-9. die Schulter → die ______
+1. der Kopf → die ______  2. das Auge → die ______  3. das Ohr → die ______
+4. die Hand → die ______  5. der Zahn → die ______  6. der Arm → die ______
+7. der Fuß → die ______  8. das Bein → die ______  9. die Schulter → die ______
 10. der Finger → die ______
 
 ## Übung A3 — `weh tun`: fill in `tut` or `tun`
+
+Singular subject → `tut`, plural subject → `tun`.
 
 1. Mein Kopf ______ weh.
 2. Meine Beine ______ weh.
@@ -131,39 +97,35 @@ Write the plural form (include article).
 7. Mein Arm ______ weh.
 8. Meine Augen ______ weh.
 
-## Übung A4 — `sollen`: conjugation table
+## Übung A4 — `sollen`: Konjugationstabelle und Sätze
 
-Fill the table from memory.
+Fill the table from memory, then complete each sentence with the correct form of `sollen`.
 
-| ich | du | er/sie/es | wir | ihr | sie/Sie |
-|---|---|---|---|---|---|
-| ______ | ______ | ______ | ______ | ______ | ______ |
+ich ______ · du ______ · er/sie/es ______ · wir ______ · ihr ______ · sie/Sie ______
 
-Then fill in the correct form of `sollen` in each sentence:
-
-1. Du ______ viel Wasser trinken. (The doctor told you.)
+1. Du ______ viel Wasser trinken.
 2. Er ______ zu Hause bleiben.
 3. Wir ______ die Tabletten nehmen.
 4. Ihr ______ nicht rauchen.
 5. Sie (= she) ______ schlafen.
 6. Ich ______ zum Arzt gehen.
-7. ______ du wirklich arbeiten heute? (Are you really supposed to work today?)
+7. ______ du wirklich arbeiten heute?
 8. Sie (formal) ______ morgen wiederkommen.
 
-## Übung A5 — Imperativ du-Form: bilden (form the imperative)
+## Übung A5 — Imperativ du-Form: bilden
 
-Example: trinken → *Trink viel Wasser!*
+Example: trinken → Trink viel Wasser!
 
 1. trinken → ______
 2. kommen → ______
 3. bleiben → ______
-4. machen (den Mund auf|machen) → ______
-5. schlafen → ______
-6. nehmen → ______ (⚠️ stem change!)
-7. lesen → ______ (⚠️ stem change!)
-8. fahren → ______ (⚠️ watch the umlaut rule!)
-9. essen → ______ (⚠️ stem change!)
-10. rufen → ______
+4. machen (den Mund auf|machen) → ______ (separable: `auf` at the end)
+5. schlafen → ______ (drop the umlaut!)
+6. nehmen → ______ (e→i kept!)
+7. lesen → ______ (e→i kept!)
+8. fahren → ______ (drop the umlaut!)
+9. essen → ______ (e→i kept!)
+10. rufen → ______ (separable: `an` at the end)
 
 ## Übung A6 — Imperativ ihr-Form
 
@@ -173,25 +135,25 @@ Rewrite the du-imperatives from A5, items 1–6, as ihr-imperatives.
 2. (kommen) → ______
 3. (bleiben) → ______
 4. (auf|machen) → ______
-5. (schlafen) → ______
-6. (nehmen) → ______ (⚠️ no stem change here!)
+5. (schlafen) → ______ (ihr-form: no umlaut change!)
+6. (nehmen) → ______ (ihr-form: no e→i change!)
 
 ## Übung A7 — Imperativ: du, ihr oder Sie?
 
 Write the correct imperative for each situation.
 
-1. Tell your little sister (du) to drink her tea: ______________________
-2. Tell two friends (ihr) to come here: ______________________
-3. Tell your doctor (Sie) to please open the door: ______________________
-4. Tell a friend (du) to take the tablets: ______________________
-5. Tell your kids (ihr) to sleep well: ______________________
-6. Tell a patient (Sie) to stay at home: ______________________
-7. Tell your friend (du) to rest: ______________________ (use: dich ausruhen)
-8. Tell your friends (ihr) to call the doctor: ______________________ (rufen)
+1. Tell your little sister (du) to drink her tea: ______
+2. Tell two friends (ihr) to come here: ______
+3. Tell your doctor (Sie) to please open the door: ______
+4. Tell a friend (du) to take the tablets: ______
+5. Tell your kids (ihr) to sleep well: ______
+6. Tell a patient (Sie) to stay at home: ______
+7. Tell a friend (du) to rest: ______ (use: dich ausruhen)
+8. Tell your friends (ihr) to call the doctor: ______ (rufen)
 
-## Übung A8 — Possessive articles im Akkusativ: mein/dein/sein/ihr
+## Übung A8 — Possessive articles im Akkusativ
 
-All gaps are **accusative** objects. Fill in the correct form.
+All gaps are accusative objects. Fill in the correct form.
 
 1. Ich bewege ______ Arm. (mein)
 2. Er öffnet ______ Mund. (sein)
@@ -202,9 +164,9 @@ All gaps are **accusative** objects. Fill in the correct form.
 7. Du rufst ______ Mutter an. (dein)
 8. Sie (she) besucht ______ Freundin. (ihr)
 
-## Übung A9 — Possessive articles im Dativ: nach L8-Präpositionen
+## Übung A9 — Possessive articles im Dativ
 
-Fill in the dative possessive article.
+Fill in the dative possessive article (L8-Präpositionen).
 
 1. Ich gehe mit ______ Mutter zum Arzt. (mein)
 2. Er hat Schmerzen in ______ Rücken. (sein)
@@ -230,8 +192,7 @@ Fill each gap with one word from the lesson vocabulary.
 
 ## Übung A11 — `müssen` vs. `sollen`
 
-Choose `müssen` or `sollen`. (More than one answer can be correct — explain why
-in your head.)
+Choose `müssen` or `sollen`. (More than one answer can be correct — explain why in your head.)
 
 1. Du ______ viel trinken. (the doctor's advice)
 2. Ich ______ jetzt schlafen — ich bin so müde.
@@ -244,12 +205,12 @@ in your head.)
 
 Build sentences with `sollen` + infinitive at the end.
 
-1. du / viel schlafen / sollen → ______________________
-2. er / zu Hause bleiben / sollen → ______________________
-3. ihr / die Tabletten nehmen / sollen → ______________________
-4. ich / zum Arzt gehen / sollen → ______________________
-5. wir / viel Tee trinken / sollen → ______________________
-6. Sie (formal) / nicht arbeiten / sollen → ______________________
+1. du / viel schlafen / sollen → ______
+2. er / zu Hause bleiben / sollen → ______
+3. ihr / die Tabletten nehmen / sollen → ______
+4. ich / zum Arzt gehen / sollen → ______
+5. wir / viel Tee trinken / sollen → ______
+6. Sie (formal) / nicht arbeiten / sollen → ______
 
 ---
 
@@ -257,48 +218,46 @@ Build sentences with `sollen` + infinitive at the end.
 
 ## Übung B1 — Dialog ergänzen: Beim Arzt
 
-Fill in the gaps.
-
-— Guten Tag! Was (1) ______ Ihnen?
-— Guten Tag, Doktor. Ich habe (2) ______ und Schnupfen.
-— Seit (3) ______?
+— Guten Tag! Was ______ Ihnen?
+— Guten Tag, Doktor. Ich habe ______ und Schnupfen.
+— Seit ______?
 — Seit gestern.
-— Haben Sie auch (4) ______?
+— Haben Sie auch ______?
 — Ja, 38 Grad.
-— Sie haben eine (5) ______. (6) ______ Sie zu Hause und trinken Sie viel
-  Wasser. Ich schreibe Ihnen ein (7) ______.
-— Muss ich ins (8) ______?
-— Nein. Gute (9) ______!
+— Sie haben eine ______. ______ Sie zu Hause und trinken Sie viel
+  Wasser. Ich schreibe Ihnen ein ______.
+— Muss ich ins ______?
+— Nein. Gute ______!
 
 ## Übung B2 — Dialog ergänzen: In der Apotheke
 
-— Guten Tag! Ich (1) ______ etwas gegen Kopfschmerzen.
-— Haben Sie ein (2) ______?
-— Nein, ich suche etwas ohne (3) ______.
-— Diese (4) ______ hier sind gut. Nehmen Sie (5) ______ zweimal täglich.
-— Darf ich sie auch bei Magenschmerzen (6) ______?
-— Ja, aber essen Sie (7) ______ etwas.
-— Was (8) ______ sie?
-— Sechs Euro (9) ______.
+— Guten Tag! Ich ______ etwas gegen Kopfschmerzen.
+— Haben Sie ein ______?
+— Nein, ich suche etwas ohne ______.
+— Diese ______ hier sind gut. Nehmen Sie ______ zweimal täglich.
+— Darf ich sie auch bei Magenschmerzen ______?
+— Ja, aber essen Sie ______ etwas.
+— Was ______ sie?
+— Sechs Euro ______.
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly **one** mistake. Find and correct it.
+Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
 
-1. Mein Füße tut weh.
-2. Trinkt viel Wasser, Anna! (talking to one friend)
-3. Du sollst nicht rauchen nicht.
-4. Ich habe Kopfschmerzen seit zwei Tag.
-5. Nehme deine Tabletten!
-6. Schlafst gut, Kinder!
-7. Ich brauche etwas gegen Kopfschmerz.
-8. Er soll schläft viel.
-9. Machen Sie den Mund auf! → Now say the same to two friends (ihr): Macht den Mund zu!
-10. Ich fühle mich nicht gut. → Imperative to a friend: Ruh sich aus!
+1. Mein Füße ______ weh. (tut → ?)
+2. ______ viel Wasser, Anna! (talking to one friend) (Trinkt → ?)
+3. Du sollst nicht rauchen______. (nicht → ?)
+4. Ich habe Kopfschmerzen seit zwei ______. (Tag → ?)
+5. ______ deine Tabletten! (du-Imperativ) (Nehme → ?)
+6. ______ gut, Kinder! (ihr-Imperativ) (Schlafst → ?)
+7. Ich brauche etwas gegen ______. (Kopfschmerz → ?)
+8. Er soll ______ viel. (schläft → ?)
+9. Machen Sie den Mund auf! → Macht den Mund ______! (ihr-form) (zu → ?)
+10. Ich fühle mich nicht gut. → Ruh ______ aus! (to a friend) (sich → ?)
 
 ## Übung B4 — Frage und Antwort verbinden
 
-| Frage | | Antwort |
+| Links | | Rechts |
 |---|---|---|
 | 1. Was fehlt Ihnen? | | a) Dreimal täglich. |
 | 2. Haben Sie Fieber? | | b) Nein, nur eine Erkältung. |
@@ -313,27 +272,26 @@ Each sentence has exactly **one** mistake. Find and correct it.
 
 Build correct sentences. Verb in position 2 for statements.
 
-1. weh – tut – mein Rücken
-2. du – sollst – viel – trinken
-3. die Tabletten – Nimm – täglich – zweimal –, !
-4. zum Arzt – ich – gehe – morgen
-5. krank – ist – Bruno – heute
-6. Sie – Haben – ein Rezept – ?
-7. Halsschmerzen – hat – er – und – Fieber
-8. Ruh dich – ! – aus
-9. wir – die Apotheke – suchen
-10. sollst – du – nicht – rauchen
+1. weh – mein – tut – Rücken
+2. trinken – du – sollst – viel
+3. täglich – ! – Nimm – die Tabletten – zweimal
+4. ich – gehe – morgen – zum Arzt
+5. Bruno – ist – krank – heute
+6. ? – Sie – Haben – ein Rezept
+7. hat – und – Fieber – Halsschmerzen – er
+8. dich – ! – aus – Ruh
+9. suchen – wir – die Apotheke
+10. du – sollst – rauchen – nicht
 
 ## Übung B6 — Körperteil-Kategorien
 
-Sort the 12 body parts into the three groups.
+Sort the 12 body parts into the three groups. (Schulter, Brust, and Rücken could fit multiple categories — any reasonable column is fine.)
 
-> Auge · Nase · Finger · Knie · Schulter · Ohr · Fuß · Zahn · Ellbogen ·
-> Mund · Brust · Rücken
+> Auge · Nase · Finger · Knie · Schulter · Ohr · Fuß · Zahn · Ellbogen · Mund · Brust · Rücken
 
 | Kopf (head area) | Arm/Hand area | Bein/Fuß area |
 |---|---|---|
-| | | |
+|  |  |  |
 
 ## Übung B7 — Was passt nicht?
 
@@ -346,43 +304,41 @@ Sort the 12 body parts into the three groups.
 
 ## Übung B8 — Antworten mit Stichwörtern
 
-Answer each question with the cues given.
+> 1. Was fehlt Ihnen? (Kopfschmerzen + Husten) → ________
+2. Seit wann? (drei Tage) → ________
+3. Was soll ich machen? (viel schlafen + viel trinken) → ________
+4. Haben Sie ein Rezept? (no, looking for something without prescription) → ________
+5. Was tut weh? (my back) → ________
+6. Müssen Sie ins Krankenhaus? (no, staying home) → ________
+7. Wie oft soll sie die Tabletten nehmen? (twice daily, after eating) → ________
+8. Was brauchen Sie? (an appointment today) → ________
 
-1. Was fehlt Ihnen? (Kopfschmerzen + Husten) → ______________________
-2. Seit wann? (drei Tage) → ______________________
-3. Was soll ich machen? (viel schlafen + viel trinken) → ______________________
-4. Haben Sie ein Rezept? (no, looking for something without prescription) → ______________________
-5. Was tut weh? (my back) → ______________________
-6. Müssen Sie ins Krankenhaus? (no, staying home) → ______________________
-7. Wie oft soll sie die Tabletten nehmen? (twice daily, after eating) → ______________________
-8. Was brauchen Sie? (an appointment today) → ______________________
+
+**Your task:** Answer each question with the cues given. Write a full sentence.
 
 ## Übung B9 — Beim Arzt
 
-**Situation:** Du bist erkältet und gehst zum Arzt. Beschreib in
-**3–4 Sätzen**, was dir wehtut, wie lange schon, und was du dagegen
-nimmst.
+**Your task:** Du bist erkältet und gehst zum Arzt. Beschreib in 3–4 Sätzen, was dir wehtut, wie lange schon, und was du dagegen nimmst.
 
 Use:
-- [ ] at least **2** body parts — *der Kopf, der Hals, der Bauch, der Rücken, der Fuß* …
-- [ ] at least **1** symptom — *Schmerzen, Fieber, Husten, Schnupfen*
-- [ ] at least **1** imperative (giving yourself advice) — *Trink viel Tee! / Schlaf viel! / Iss kein Eis!*
-- [ ] a sentence with `seit` (*seit gestern / seit zwei Tagen*)
+- [ ] at least 2 body parts — der Kopf, der Hals, der Bauch, der Rücken, der Fuß …
+- [ ] at least 1 symptom — Schmerzen, Fieber, Husten, Schnupfen
+- [ ] at least 1 imperative (giving yourself advice) — Trink viel Tee! / Schlaf viel! / Iss kein Eis!
+- [ ] a sentence with `seit` (seit gestern / seit zwei Tagen)
 
-**Self-check before moving on:**
-- [ ] Did I use the correct **der/die/das** for each body part?
-- [ ] Did I use the correct **imperative form** — *du* (stems: `Trink!`, `Schlaf!`, `Iss!`); `Sie` (`Trinken Sie!`, `Schlafen Sie!`)?
+Self-check:
+- [ ] Did I use the correct der/die/das for each body part?
+- [ ] Did I use the correct imperative form — du (Trink!, Schlaf!, Iss!); Sie (Trinken Sie!, Schlafen Sie!)?
 - [ ] Did I put the verb at position 1 in the imperative (no subject)?
 
 ## Übung B10 — Imperativ-Transformation
 
-Rewrite each sentence three ways: as a du-imperative, an ihr-imperative, and a
-Sie-imperative.
+Rewrite each sentence three ways: as a du-imperative, an ihr-imperative, and a Sie-imperative.
 
-1. (trinken, Tee) → du: ______ · ihr: ______ · Sie: ______________________
-2. (nehmen, die Tabletten) → du: ______ · ihr: ______ · Sie: ______________________
-3. (bleiben, zu Hause) → du: ______ · ihr: ______ · Sie: ______________________
-4. (kommen, her) → du: ______ · ihr: ______ · Sie: ______________________
+1. (trinken, Tee) → du: ______ · ihr: ______ · Sie: ______
+2. (nehmen, die Tabletten) → du: ______ · ihr: ______ · Sie: ______
+3. (bleiben, zu Hause) → du: ______ · ihr: ______ · Sie: ______
+4. (kommen, her) → du: ______ · ihr: ______ · Sie: ______
 
 ---
 
@@ -390,55 +346,52 @@ Sie-imperative.
 
 ## Übung C1 — Lückentext
 
-Fill each gap with **one** word.
+Fill each gap with one word.
 
-Bruno (1) ______ sich heute nicht gut. Sein Hals (2) ______ weh und er hat
-(3) ______ und Schnupfen. Er ruft die Arztpraxis (4) ______. „Ich brauche
-einen (5) ______", sagt er. Der Arzt sagt: „Sie haben eine (6) ______. Sie
-(7) ______ zu Hause bleiben und viel Wasser (8) ______. Nehmen Sie diese
-Tabletten (9) ______ täglich." Bruno kauft die (10) ______ in der Apotheke.
+Bruno ______ sich heute nicht gut. Sein Hals ______ weh und er hat
+______ und Schnupfen. Er ruft die Arztpraxis ______. „Ich brauche
+einen ______", sagt er. Der Arzt sagt: „Sie haben eine ______. Sie
+______ zu Hause bleiben und viel Wasser ______. Nehmen Sie diese
+Tabletten ______ täglich." Bruno kauft die ______ in der Apotheke.
 
-## Übung C2 — Sprachbausteine Teil 1 (multiple choice, 3 options each)
+## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c).
+Choose the correct option (a, b, or c) for each gap.
 
-Guten Tag! Ich (1) ______ Schmerzen in meinem Rücken. Mein Arzt (2) ______ ,
-ich soll viel (3) ______ und nicht arbeiten. Er hat mir ein Rezept (4) ______.
-Ich gehe jetzt in die (5) ______. Was kostet das — (6) ______ ich eine
-Krankenversicherung?
-
-1. a) habe b) bin c) nehme
-2. a) sagt b) meint c) sollen (= says / thinks / ?)
-3. a) schlafen b) Schlaf c) schläfst
-4. a) gegeben b) schreiben c) geschrieben (use: gegeben for past; or: schreiben → present)
-5. a) Krankenhaus b) Apotheke c) Rezept
-6. a) soll b) habe c) darf (= should I have / do I have / may I have?)
+1. Guten Tag! Ich (1) ______ Schmerzen in meinem Rücken.  a) habe  b) bin  c) nehme
+2. Mein Arzt (2) ______ , ich soll viel (3) ______ und nicht arbeiten.  a) sagt  b) meint  c) sollen
+3. (see above) — infinitive after modal `soll`: (3) ______  a) schlafen  b) Schlaf  c) schläfst
+4. Er hat mir ein Rezept (4) ______.  a) gegeben  b) schreiben  c) geschrieben
+5. Ich gehe jetzt in die (5) ______.  a) Krankenhaus  b) Apotheke  c) Rezept
+6. Was kostet das — (6) ______ ich eine Krankenversicherung?  a) soll  b) habe  c) darf
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
-Each word may be used once.
+Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once.
 
-> AN · BESSERUNG · DARF · DREIMAL · FEHLT · GUT · HABE · KRANKENHAUS ·
-> NEHMEN · NICHT · REZEPT · SCHLAFEN · SOLL · TABLETTEN · TERMIN
+> — Guten Tag, Arztpraxis Müller.
+> — Guten Tag! Ich (1) ______ Kopfschmerzen und Husten. Was (2) ______ mir?
+>   Ich brauche einen (3) ______.
+> — Können Sie heute um 16 Uhr kommen?
+> — Ja, gerne. Muss ich ins (4) ______?
+> — Das weiß ich noch (5) ______. Kommen Sie erst zum Arzt.
+> 
+> *(beim Arzt)*
+> 
+> — Sie haben eine Erkältung. Sie (6) ______ zu Hause bleiben.
+> — Soll ich diese (7) ______ nehmen?
+> — Ja, (8) ______ täglich, nach dem Essen. Hier ist Ihr (9) ______.
+> — (10) ______!
 
-— Guten Tag, Arztpraxis Müller.
-— Guten Tag! Ich (1) ______ Kopfschmerzen und Husten. Was (2) ______ mir?
-  Ich brauche einen (3) ______.
-— Können Sie heute um 16 Uhr kommen?
-— Ja, gerne. Muss ich ins (4) ______?
-— Das weiß ich noch (5) ______. Kommen Sie erst zum Arzt.
+> AN · BESSERUNG · DARF · DREIMAL · FEHLT · GUT · HABE · KRANKENHAUS · NEHMEN · NICHT · REZEPT · SCHLAFEN · SOLL · TABLETTEN · TERMIN
 
-*(beim Arzt)*
+Five words are not needed.
 
-— Sie haben eine Erkältung. Sie (6) ______ zu Hause bleiben.
-— Soll ich diese (7) ______ nehmen?
-— Ja, (8) ______ täglich, nach dem Essen. Hier ist Ihr (9) ______.
-— (10) ______!
+## Übung C4a — Lesen Text 1 — Bruno ist krank
 
-## Übung C4 — Lesen
+Text 1: „Bruno ist krank" in lesson.md, section 6. Bruno hat Kopfschmerzen und sein Hals ist rot. Anna sagt: „Du siehst schlecht aus! Geh zum Arzt!" Bruno hat einen Termin um 15 Uhr. Der Arzt sagt: „Bleiben Sie zu Hause, trinken Sie viel Tee, und nehmen Sie diese Tabletten." Bruno trinkt zu Hause Tee mit Honig.
 
-**Text 1:** Read "Bruno ist krank" in `lesson.md`, section 6. Richtig (R) oder falsch (F)?
+Richtig (R) oder falsch (F)?
 
 1. Bruno hat Kopfschmerzen und Fieber. ( )
 2. Anna sagt: „Geh zum Arzt!" ( )
@@ -446,41 +399,41 @@ Each word may be used once.
 4. Der Arzt sagt, Bruno soll ins Krankenhaus. ( )
 5. Bruno trinkt zu Hause Tee mit Honig. ( )
 
-**Text 2 — Forumspost:**
+## Übung C4b — Lesen Text 2 — Forumspost
 
-> Hallo! Ich bin Lisa, 28 Jahre alt, aus Wien. Letzte Woche war ich sehr krank —
-> Fieber (39 Grad!), Halsschmerzen und starke Kopfschmerzen. Ich bin zur Ärztin
-> gegangen. Sie hat gesagt: „Bleib zu Hause, trink viel Tee und nimm diese
-> Tabletten." Ich habe auch eine Woche nicht gearbeitet. Meine Mutter hat mir
-> Suppe gebracht — das war super! Heute geht es mir wieder gut. Mein Tipp für
-> euch: Beim ersten Zeichen einer Erkältung sofort viel trinken und schlafen!
+Text 2 (Forumspost):
 
-Choose a, b, or c:
+> Hallo! Ich bin Lisa, 28 Jahre alt, aus Wien. Letzte Woche war ich sehr krank — Fieber (39 Grad!), Halsschmerzen und starke Kopfschmerzen. Ich bin zur Ärztin gegangen. Sie hat gesagt: „Bleib zu Hause, trink viel Tee und nimm diese Tabletten." Ich habe auch eine Woche nicht gearbeitet. Meine Mutter hat mir Suppe gebracht — das war super! Heute geht es mir wieder gut. Mein Tipp für euch: Beim ersten Zeichen einer Erkältung sofort viel trinken und schlafen!
 
-6. Lisa hatte … a) eine Erkältung b) nur Husten c) 39 Grad Fieber und Halsschmerzen
-7. Die Ärztin hat gesagt, Lisa soll … a) ins Krankenhaus b) zu Hause bleiben c) sofort zur Apotheke
-8. Lisa hat … a) eine Woche gearbeitet b) nicht gearbeitet c) im Krankenhaus geschlafen
-9. Was empfiehlt Lisa?
-   a) Sofort zum Arzt gehen
-   b) Beim ersten Zeichen viel trinken und schlafen
-   c) Tabletten kaufen ohne Rezept
+Wähle a, b oder c.
 
-## Übung C5 — Schreiben
+1. Lisa hatte …  a) eine Erkältung  b) nur Husten  c) 39 Grad Fieber und Halsschmerzen
+2. Die Ärztin hat gesagt, Lisa soll …  a) ins Krankenhaus  b) zu Hause bleiben  c) sofort zur Apotheke
+3. Lisa hat …  a) eine Woche gearbeitet  b) nicht gearbeitet  c) im Krankenhaus geschlafen
+4. Was empfiehlt Lisa?  a) Sofort zum Arzt gehen  b) Beim ersten Zeichen viel trinken und schlafen  c) Tabletten kaufen ohne Rezept
 
-You are feeling ill. Write a short message (6–8 sentences) to your German
-course teacher explaining that you cannot come to class today. Include:
-- what's wrong (symptoms, since when)
-- what the doctor said you should do
-- when you hope to be back
-- a polite greeting and closing
+## Übung C5 — Schreiben: Entschuldigung an die Lehrerin
 
-Model answer in `solutions.md` — write yours **first**.
+**Your task:** You are feeling ill. Write a short message (6–8 sentences) to your German course teacher explaining that you cannot come to class today. Include: what's wrong (symptoms, since when), what the doctor said you should do, when you hope to be back, a polite greeting and closing.
+
+Use:
+- [ ] a polite greeting (Liebe Frau / Lieber Herr / Guten Tag)
+- [ ] symptom(s) with `seit` phrase (seit gestern / seit zwei Tagen)
+- [ ] doctor's advice with `sollen` + infinitive at end
+- [ ] when you'll be back
+- [ ] polite closing (Viele Grüße / Entschuldigung) + name
+
+Self-check:
+- [ ] Did I use correct der/die/das for body parts?
+- [ ] Did I use `sollen` + infinitive (Satzklammer) correctly?
+- [ ] Is the verb in position 2 in each statement?
+- [ ] Did I include a polite greeting and closing?
 
 ---
 
 # Block D — Wiederholung & Selbsttest
 
-## Übung D1 — Gemischter Schnelltest (incl. earlier lessons)
+## Übung D1 — Gemischter Schnelltest (incl. L7 + L8)
 
 One minute per item. No notes.
 
@@ -491,74 +444,58 @@ One minute per item. No notes.
 5. (L7) `müssen`, er-form: er ______
 6. der/die/das: ______ Hals
 7. Plural: der Zahn → die ______
-8. "Get well soon!" → ______________________
+8. "Get well soon!" → ______
 9. (L8) dative of `mit` + meine Mutter: mit ______ Mutter
-10. (L3) "I'd like a tea." → ______________________
+10. (L3) "I'd like a tea." → ______
 11. du-imperative of `schlafen`: ______ (watch: umlaut rule!)
 12. (L7) `dürfen`, ich-form: ich ______
 13. „Sie ______ zu Hause bleiben." (sollen, 3rd sg.)
 14. (L6) `lesen`, du-form: du ______
-15. "I have a headache." → ______________________
+15. "I have a headache." → ______
 
-## Übung D2 — Odd one out (6 items)
-
-Cross out the word that doesn't fit.
+## Übung D2 — Odd one out
 
 1. Kopfschmerzen – Halsschmerzen – Bauchschmerzen – Apotheke
 2. Arzt – Ärztin – Krankenhaus – Tablette
 3. schlafen – trinken – ruhen – Fieber
 4. soll – muss – kann – Rücken
-5. Nimm! – Trink! – Schlaf! – Lesen! (think: which form is wrong?)
+5. Nimm! – Trink! – Schlaf! – Lesen!
 6. Tee – Wasser – Suppe – Rezept
 
-## Übung D3 — Wiederholung Lektion 7 und 8 (10 items)
+## Übung D3 — Wiederholung Lektion 7 und 8
 
 1. (L7) `wollen`, du-form: du ______
 2. (L7) „Ich ______ heute nicht arbeiten." (dürfen — permission not to)
-3. (L7) Satzklammer: Ich / müssen / jetzt / schlafen → ______________________
-4. (L7) Translate: "She has to go to the hospital." → ______________________
+3. (L7) Satzklammer: Ich / müssen / jetzt / schlafen → ______
+4. (L7) Translate: "She has to go to the hospital." → ______
 5. (L8) Dative prep: „Ich fahre ______ Bus." (= by bus)
 6. (L8) „Ich gehe ______ Arzt." (= to the doctor's; use: zum)
-7. (L8) Sie-imperative of `kommen`: ______________________ (L8)
+7. (L8) Sie-imperative of `kommen`: ______
 8. (L8) „Das ist ______ Apotheke da drüben." (pointing: definite article, f)
 9. (L7) „______ ich hier rauchen?" (= May I smoke here?)
 10. (L7) `müssen` vs. `sollen`: „Der Arzt sagt, ich ______ viel schlafen." (doctor's order)
 
-## Übung D4 — Selbsttest (/20)
-
-**Körper und Vokabular:**
+## Übung D4 — Selbsttest (score yourself /20)
 
 1. das Auge → Plural: die ______
 2. der/die/das: ______ Rücken
 3. „Ich habe ______." (a fever — one word)
 4. „______ Sie bitte den Mund auf!" (imperative Sie-form of aufmachen)
-5. Translate: "My throat hurts." → ______________________
-
-**Imperativ:**
-
+5. Translate: "My throat hurts." → ______
 6. du-imperative, `essen` (e→i!): ______
 7. ihr-imperative, `nehmen`: ______
-8. Sie-imperative, `trinken`: ______________________
-9. du-imperative, `fahren` (⚠️ no umlaut!): ______
+8. Sie-imperative, `trinken`: ______
+9. du-imperative, `fahren` (no umlaut!): ______
 10. ihr-imperative, `schlafen`: ______
-
-**`sollen` + Satzklammer:**
-
-11. du / sollen / zu Hause bleiben → ______________________
-12. ihr / sollen / viel Wasser trinken → ______________________
-13. Negative: er / sollen / nicht rauchen → ______________________
-
-**Possessive Akkusativ/Dativ:**
-
+11. du / sollen / zu Hause bleiben → ______
+12. ihr / sollen / viel Wasser trinken → ______
+13. Negative: er / sollen / nicht rauchen → ______
 14. Ich sehe ______ Arzt. (mein, Akkusativ)
 15. Er kommt mit ______ Mutter. (sein, Dativ)
-
-**Mixed:**
-
 16. „Wir kaufen die Medizin in der ______." (= pharmacy)
 17. (L7) „______ du heute arbeiten?" (müssen — does she have to?)
 18. (L3) „Was kostet ein ______ Apfelkuchen?" (= a piece of)
 19. „Meine Augen ______ weh." (`weh tun`, plural)
 20. (L8) „Ich fahre ______ dem Bus zur Apotheke." (preposition)
 
-**Score: ____ / 20.** 16+ → Lektion 11. Below → redo Block A (especially A4–A7), then retest.
+_16+ / 20 → Lektion 11. Below: redo Block A (especially A4–A7), then retest._

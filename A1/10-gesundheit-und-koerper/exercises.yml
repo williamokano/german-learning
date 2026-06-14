@@ -1,0 +1,1033 @@
+lesson: A1/10
+title: "A1 · Lektion 10 — Übungen"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Beim Arzt"
+    audio: dialog1.mp3
+    instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Der Patient hat Halsschmerzen und Kopfschmerzen."
+        answer: true
+        why: 'Der Patient sagt: „Ich habe Halsschmerzen und Kopfschmerzen."'
+      - q: "Der Arzt sagt, der Patient soll ins Krankenhaus."
+        answer: false
+        why: 'Der Arzt sagt: „Ruhen Sie sich aus" — kein Krankenhaus.'
+      - q: "Der Arzt schreibt dem Patienten ein Rezept."
+        answer: true
+        why: 'Der Arzt sagt: „Ich schreibe Ihnen ein Rezept."'
+      - q: "Der Patient hat 38,5 Grad Fieber."
+        answer: true
+        why: 'Der Patient sagt: „38,5 Grad."'
+
+  - id: H1b
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: In der Apotheke"
+    audio: dialog2.mp3
+    instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Anna kauft Tabletten ohne Rezept."
+        answer: true
+        why: "Anna hat kein Rezept und sucht etwas ohne Rezept."
+      - q: "Anna soll die Tabletten dreimal täglich nehmen."
+        answer: true
+        why: 'Die Apothekerin sagt: „Nehmen Sie zwei Tabletten, dreimal täglich."'
+      - q: "Die Tabletten kosten fünfzehn Euro."
+        answer: false
+        why: "Die Tabletten kosten sieben Euro neunzig, nicht fünfzehn Euro."
+      - q: "Anna darf die Tabletten nicht bei Magenschmerzen nehmen."
+        answer: false
+        why: 'Die Apothekerin sagt: „Ja, aber essen Sie vorher etwas" — Anna darf sie nehmen.'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Hör zu und fülle die Lücken. Zwei Wörter passen nicht."
+    text: |-
+      Yuki fühlt sich heute nicht {1}. Ihr {2} tut weh und sie hat {3}.
+      Sie ruft Bruno an und fragt: „Was soll ich {4}?" Bruno sagt: „Trink viel Tee und
+      bleib zu {5}!" Yuki fragt: „Soll ich zum Arzt {6}?" Bruno antwortet: „Ja, geh morgen zum Arzt."
+      Yuki trinkt Tee und {7} den ganzen Tag.
+    bank: [Arzt, gehen, gut, Hals, Husten, machen, schläft, Tabletten, Hause]
+    answers:
+      "1": gut
+      "2": Hals
+      "3": Husten
+      "4": machen
+      "5": Hause
+      "6": gehen
+      "7": schläft
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Durchsage in der Apotheke"
+    audio: transcript_ansage1.mp3
+    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    transcript: "Achtung, eine Durchsage. Liebe Kundinnen und Kunden, die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet. Unsere Öffnungszeiten am Sonntag sind von zehn bis achtzehn Uhr. Wir bieten auch einen kostenlosen Blutdruckmess-Service an. Ab nächster Woche haben wir auch einen Grippeimpf-Service. Kommen Sie einfach vorbei — wir beraten Sie gern. Vielen Dank und bleiben Sie gesund."
+    items:
+      - q: "Wo ist die Apotheke?"
+        options:
+          - { key: a, text: "Im Stadtzentrum." }
+          - { key: b, text: "Im Hauptbahnhof." }
+          - { key: c, text: "Im Einkaufszentrum." }
+        answer: b
+        why: '„die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet."'
+      - q: "Bis wann hat die Apotheke heute geöffnet?"
+        options:
+          - { key: a, text: "Bis achtzehn Uhr." }
+          - { key: b, text: "Bis neunzehn Uhr." }
+          - { key: c, text: "Bis zwanzig Uhr." }
+        answer: c
+        why: '„die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet."'
+      - q: "Welchen Service bietet die Apotheke jetzt schon an?"
+        options:
+          - { key: a, text: "Einen Zahnarzt-Service." }
+          - { key: b, text: "Einen Blutdruckmess-Service." }
+          - { key: c, text: "Einen Grippeimpf-Service." }
+        answer: b
+        why: '„Wir bieten auch einen kostenlosen Blutdruckmess-Service an."'
+      - q: "Welchen Service bietet die Apotheke ab nächster Woche an?"
+        options:
+          - { key: a, text: "Einen Grippeimpf-Service." }
+          - { key: b, text: "Einen Blutdruckmess-Service." }
+          - { key: c, text: "Einen Zahnarzt-Service." }
+        answer: a
+        why: '„Ab nächster Woche haben wir auch einen Grippeimpf-Service."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Körperteile: der, die oder das?"
+    instructions: "Write the correct definite article."
+    text: |
+      1. {1} Kopf  2. {2} Nase  3. {3} Auge  4. {4} Ohr  5. {5} Mund
+      6. {6} Hals  7. {7} Arm  8. {8} Hand  9. {9} Finger  10. {10} Bein
+      11. {11} Fuß  12. {12} Bauch  13. {13} Rücken  14. {14} Zahn  15. {15} Herz
+    answers:
+      "1": der
+      "2": die
+      "3": das
+      "4": das
+      "5": der
+      "6": der
+      "7": der
+      "8": die
+      "9": der
+      "10": das
+      "11": der
+      "12": der
+      "13": der
+      "14": der
+      "15": das
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Plural der Körperteile"
+    instructions: "Write the plural form (include article)."
+    text: |
+      1. der Kopf → die {1}  2. das Auge → die {2}  3. das Ohr → die {3}
+      4. die Hand → die {4}  5. der Zahn → die {5}  6. der Arm → die {6}
+      7. der Fuß → die {7}  8. das Bein → die {8}  9. die Schulter → die {9}
+      10. der Finger → die {10}
+    answers:
+      "1": Köpfe
+      "2": Augen
+      "3": Ohren
+      "4": Hände
+      "5": Zähne
+      "6": Arme
+      "7": Füße
+      "8": Beine
+      "9": Schultern
+      "10": Finger
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`weh tun`: fill in `tut` or `tun`"
+    instructions: "Singular subject → `tut`, plural subject → `tun`."
+    text: |
+      1. Mein Kopf {1} weh.
+      2. Meine Beine {2} weh.
+      3. Mein Hals {3} weh.
+      4. Meine Füße {4} weh.
+      5. Mein Rücken {5} weh.
+      6. Meine Zähne {6} weh.
+      7. Mein Arm {7} weh.
+      8. Meine Augen {8} weh.
+    answers:
+      "1": tut
+      "2": tun
+      "3": tut
+      "4": tun
+      "5": tut
+      "6": tun
+      "7": tut
+      "8": tun
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`sollen`: Konjugationstabelle und Sätze"
+    instructions: "Fill the table from memory, then complete each sentence with the correct form of `sollen`."
+    text: |
+      ich {1} · du {2} · er/sie/es {3} · wir {4} · ihr {5} · sie/Sie {6}
+
+      1. Du {7} viel Wasser trinken.
+      2. Er {8} zu Hause bleiben.
+      3. Wir {9} die Tabletten nehmen.
+      4. Ihr {10} nicht rauchen.
+      5. Sie (= she) {11} schlafen.
+      6. Ich {12} zum Arzt gehen.
+      7. {13} du wirklich arbeiten heute?
+      8. Sie (formal) {14} morgen wiederkommen.
+    answers:
+      "1": soll
+      "2": sollst
+      "3": soll
+      "4": sollen
+      "5": sollt
+      "6": sollen
+      "7": sollst
+      "8": soll
+      "9": sollen
+      "10": sollt
+      "11": soll
+      "12": soll
+      "13": Sollst
+      "14": sollen
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Imperativ du-Form: bilden"
+    instructions: "Example: trinken → Trink viel Wasser!"
+    text: |
+      1. trinken → {1}
+      2. kommen → {2}
+      3. bleiben → {3}
+      4. machen (den Mund auf|machen) → {4} (separable: `auf` at the end)
+      5. schlafen → {5} (drop the umlaut!)
+      6. nehmen → {6} (e→i kept!)
+      7. lesen → {7} (e→i kept!)
+      8. fahren → {8} (drop the umlaut!)
+      9. essen → {9} (e→i kept!)
+      10. rufen → {10} (separable: `an` at the end)
+    answers:
+      "1": Trink
+      "2": Komm
+      "3": Bleib
+      "4": Mach
+      "5": Schlaf
+      "6": Nimm
+      "7": Lies
+      "8": Fahr
+      "9": Iss
+      "10": Ruf
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Imperativ ihr-Form"
+    instructions: "Rewrite the du-imperatives from A5, items 1–6, as ihr-imperatives."
+    text: |
+      1. (trinken) → {1}
+      2. (kommen) → {2}
+      3. (bleiben) → {3}
+      4. (auf|machen) → {4}
+      5. (schlafen) → {5} (ihr-form: no umlaut change!)
+      6. (nehmen) → {6} (ihr-form: no e→i change!)
+    answers:
+      "1": Trinkt
+      "2": Kommt
+      "3": Bleibt
+      "4": Macht
+      "5": Schlaft
+      "6": Nehmt
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Imperativ: du, ihr oder Sie?"
+    instructions: "Write the correct imperative for each situation."
+    text: |
+      1. Tell your little sister (du) to drink her tea: {1}
+      2. Tell two friends (ihr) to come here: {2}
+      3. Tell your doctor (Sie) to please open the door: {3}
+      4. Tell a friend (du) to take the tablets: {4}
+      5. Tell your kids (ihr) to sleep well: {5}
+      6. Tell a patient (Sie) to stay at home: {6}
+      7. Tell a friend (du) to rest: {7} (use: dich ausruhen)
+      8. Tell your friends (ihr) to call the doctor: {8} (rufen)
+    answers:
+      "1": Trink deinen Tee!
+      "2": Kommt her!
+      "3": "Öffnen Sie bitte die Tür!"
+      "4": Nimm die Tabletten!
+      "5": Schlaft gut, Kinder!
+      "6": Bleiben Sie zu Hause!
+      "7": Ruh dich aus!
+      "8": Ruft den Arzt!
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Possessive articles im Akkusativ"
+    instructions: "All gaps are accusative objects. Fill in the correct form."
+    text: |
+      1. Ich bewege {1} Arm. (mein)
+      2. Er öffnet {2} Mund. (sein)
+      3. Du zeigst {3} Hand. (dein)
+      4. Sie (she) bewegt {4} Beine. (ihr)
+      5. Ich sehe {5} Arzt. (mein)
+      6. Er nimmt {6} Tabletten. (sein)
+      7. Du rufst {7} Mutter an. (dein)
+      8. Sie (she) besucht {8} Freundin. (ihr)
+    answers:
+      "1": meinen
+      "2": seinen
+      "3": deine
+      "4": ihre
+      "5": meinen
+      "6": seine
+      "7": deine
+      "8": ihre
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Possessive articles im Dativ"
+    instructions: "Fill in the dative possessive article (L8-Präpositionen)."
+    text: |
+      1. Ich gehe mit {1} Mutter zum Arzt. (mein)
+      2. Er hat Schmerzen in {2} Rücken. (sein)
+      3. Sie kommt mit {3} Kindern. (ihr — she)
+      4. Ich fahre mit {4} Auto. (mein)
+      5. Du arbeitest bei {5} Vater. (dein)
+      6. Wir wohnen bei {6} Großeltern. (unser)
+      7. Er spricht von {7} Arzt. (sein)
+      8. Sie kommt von {8} Apotheke. (ihr — she)
+    answers:
+      "1": meiner
+      "2": seinem
+      "3": ihren
+      "4": meinem
+      "5": deinem
+      "6": unseren
+      "7": seinem
+      "8": ihrer
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Gesundheitsvokabular: Lücken füllen"
+    instructions: "Fill each gap with one word from the lesson vocabulary."
+    text: |
+      1. Ich habe 38,8 Grad. Ich habe {1}.
+      2. Mein Hals ist rot. Ich habe {2}.
+      3. Ich muss husten. Ich habe {3}.
+      4. Meine Nase läuft. Ich habe {4}.
+      5. Ich habe eine Erkältung, aber keine {5}. (not the flu — just a cold)
+      6. Der Arzt gibt mir ein {6}. (for the pharmacy)
+      7. Ich kaufe die Medizin in der {7}.
+      8. Ich brauche einen {8} beim Arzt.
+    answers:
+      "1": Fieber
+      "2": Halsschmerzen
+      "3": Husten
+      "4": Schnupfen
+      "5": Grippe
+      "6": Rezept
+      "7": Apotheke
+      "8": Termin
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`müssen` vs. `sollen`"
+    instructions: "Choose `müssen` or `sollen`. (More than one answer can be correct — explain why in your head.)"
+    text: |
+      1. Du {1} viel trinken. (the doctor's advice)
+      2. Ich {2} jetzt schlafen — ich bin so müde.
+      3. Er {3} morgen früh aufstehen. (his boss told him)
+      4. Wir {4} die Tabletten nehmen. (the doctor prescribed them)
+      5. {5} du wirklich nicht schlafen? (someone told you not to?)
+      6. Sie {6} sofort ins Krankenhaus! (it's urgent — internal necessity)
+    answers:
+      "1":
+        - sollst
+        - musst
+      "2": muss
+      "3": soll
+      "4":
+        - sollen
+        - müssen
+      "5": Sollst
+      "6": muss
+
+  - id: A12
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Satzklammer mit `sollen`: Sätze bauen"
+    instructions: "Build sentences with `sollen` + infinitive at the end."
+    text: |
+      1. du / viel schlafen / sollen → {1}
+      2. er / zu Hause bleiben / sollen → {2}
+      3. ihr / die Tabletten nehmen / sollen → {3}
+      4. ich / zum Arzt gehen / sollen → {4}
+      5. wir / viel Tee trinken / sollen → {5}
+      6. Sie (formal) / nicht arbeiten / sollen → {6}
+    answers:
+      "1": Du sollst viel schlafen.
+      "2": Er soll zu Hause bleiben.
+      "3": Ihr sollt die Tabletten nehmen.
+      "4": Ich soll zum Arzt gehen.
+      "5": Wir sollen viel Tee trinken.
+      "6": Sie sollen nicht arbeiten.
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen: Beim Arzt"
+    text: |
+      — Guten Tag! Was {1} Ihnen?
+      — Guten Tag, Doktor. Ich habe {2} und Schnupfen.
+      — Seit {3}?
+      — Seit gestern.
+      — Haben Sie auch {4}?
+      — Ja, 38 Grad.
+      — Sie haben eine {5}. {6} Sie zu Hause und trinken Sie viel
+        Wasser. Ich schreibe Ihnen ein {7}.
+      — Muss ich ins {8}?
+      — Nein. Gute {9}!
+    answers:
+      "1": fehlt
+      "2": Husten
+      "3": wann
+      "4": Fieber
+      "5": Erkältung
+      "6": Bleiben
+      "7": Rezept
+      "8": Krankenhaus
+      "9": Besserung
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen: In der Apotheke"
+    text: |
+      — Guten Tag! Ich {1} etwas gegen Kopfschmerzen.
+      — Haben Sie ein {2}?
+      — Nein, ich suche etwas ohne {3}.
+      — Diese {4} hier sind gut. Nehmen Sie {5} zweimal täglich.
+      — Darf ich sie auch bei Magenschmerzen {6}?
+      — Ja, aber essen Sie {7} etwas.
+      — Was {8} sie?
+      — Sechs Euro {9}.
+    answers:
+      "1": brauche
+      "2": Rezept
+      "3": Rezept
+      "4": Tabletten
+      "5": sie
+      "6": nehmen
+      "7": vorher
+      "8": kosten
+      "9": neunzig
+
+  - id: B3
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler"
+    instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
+    text: |
+      1. Mein Füße {1} weh. (tut → ?)
+      2. {2} viel Wasser, Anna! (talking to one friend) (Trinkt → ?)
+      3. Du sollst nicht rauchen{3}. (nicht → ?)
+      4. Ich habe Kopfschmerzen seit zwei {4}. (Tag → ?)
+      5. {5} deine Tabletten! (du-Imperativ) (Nehme → ?)
+      6. {6} gut, Kinder! (ihr-Imperativ) (Schlafst → ?)
+      7. Ich brauche etwas gegen {7}. (Kopfschmerz → ?)
+      8. Er soll {8} viel. (schläft → ?)
+      9. Machen Sie den Mund auf! → Macht den Mund {9}! (ihr-form) (zu → ?)
+      10. Ich fühle mich nicht gut. → Ruh {10} aus! (to a friend) (sich → ?)
+    answers:
+      "1": tun
+      "2": Trink
+      "3": ""
+      "4": Tagen
+      "5": Nimm
+      "6": Schlaft
+      "7": Kopfschmerzen
+      "8": schlafen
+      "9": auf
+      "10": dich
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    left:
+      - { key: "1", text: "Was fehlt Ihnen?" }
+      - { key: "2", text: "Haben Sie Fieber?" }
+      - { key: "3", text: "Wie oft soll ich die Tabletten nehmen?" }
+      - { key: "4", text: "Haben Sie die Grippe?" }
+      - { key: "5", text: "Was kann ich für Sie tun?" }
+      - { key: "6", text: "Wo kaufe ich das Rezept ein?" }
+      - { key: "7", text: "Soll ich ins Krankenhaus?" }
+      - { key: "8", text: "Danke, Herr Doktor!" }
+    right:
+      - { key: a, text: "Dreimal täglich." }
+      - { key: b, text: "Nein, nur eine Erkältung." }
+      - { key: c, text: "Ich brauche einen Termin." }
+      - { key: d, text: "Ja, 38,5 Grad." }
+      - { key: e, text: "In der Apotheke da drüben." }
+      - { key: f, text: "Ich habe Halsschmerzen und Husten." }
+      - { key: g, text: "Gute Besserung!" }
+      - { key: h, text: "Nein, bleiben Sie zu Hause." }
+    answers:
+      "1": f
+      "2": d
+      "3": a
+      "4": b
+      "5": c
+      "6": e
+      "7": h
+      "8": g
+
+  - id: B5
+    block: B
+    type: order
+    title: "Satzbau"
+    instructions: "Build correct sentences. Verb in position 2 for statements."
+    items:
+      - tiles: [weh, tut, mein, Rücken]
+        answer: [2, 3, 1, 0]
+        note: "Mein Rücken tut weh."
+      - tiles: [du, sollst, viel, trinken]
+        answer: [0, 1, 2, 3]
+        note: "Du sollst viel trinken."
+      - tiles: [die Tabletten, Nimm, täglich, zweimal, "!"]
+        answer: [1, 0, 3, 2, 4]
+        note: "Nimm die Tabletten zweimal täglich!"
+      - tiles: [zum Arzt, ich, gehe, morgen]
+        answer: [1, 2, 3, 0]
+        alt:
+          - [3, 2, 1, 0]
+        note: "Ich gehe morgen zum Arzt. / Morgen gehe ich zum Arzt."
+      - tiles: [krank, ist, Bruno, heute]
+        answer: [2, 1, 3, 0]
+        note: "Bruno ist heute krank."
+      - tiles: [Sie, Haben, ein Rezept, "?"]
+        answer: [1, 0, 2, 3]
+        note: "Haben Sie ein Rezept?"
+      - tiles: [Halsschmerzen, hat, er, und, Fieber]
+        answer: [2, 1, 0, 3, 4]
+        note: "Er hat Halsschmerzen und Fieber."
+      - tiles: [Ruh, dich, "!", aus]
+        answer: [0, 1, 3, 2]
+        note: "Ruh dich aus!"
+      - tiles: [wir, die Apotheke, suchen]
+        answer: [0, 2, 1]
+        note: "Wir suchen die Apotheke."
+      - tiles: [sollst, du, nicht, rauchen]
+        answer: [1, 0, 2, 3]
+        note: "Du sollst nicht rauchen."
+
+  - id: B6
+    block: B
+    type: categorize
+    title: "Körperteil-Kategorien"
+    instructions: "Sort the 12 body parts into the three groups. (Schulter, Brust, and Rücken could fit multiple categories — any reasonable column is fine.)"
+    buckets:
+      - { key: kopf, label: "Kopf (head area)" }
+      - { key: arm, label: "Arm/Hand area" }
+      - { key: bein, label: "Bein/Fuß area" }
+    tokens:
+      - { text: "Auge", bucket: kopf }
+      - { text: "Nase", bucket: kopf }
+      - { text: "Finger", bucket: arm }
+      - { text: "Knie", bucket: bein }
+      - { text: "Schulter", bucket: arm }
+      - { text: "Ohr", bucket: kopf }
+      - { text: "Fuß", bucket: bein }
+      - { text: "Zahn", bucket: kopf }
+      - { text: "Ellbogen", bucket: arm }
+      - { text: "Mund", bucket: kopf }
+      - { text: "Brust", bucket: bein }
+      - { text: "Rücken", bucket: bein }
+
+  - id: B7
+    block: B
+    type: odd-one-out
+    title: "Was passt nicht?"
+    groups:
+      - items: [Kopfschmerzen, Halsschmerzen, Rückenschmerzen, Apotheke]
+        odd: 3
+        why: "Apotheke is a place, not a type of pain."
+      - items: [Tablette, Rezept, Medizin, Termin]
+        odd: 3
+        why: "Termin is an appointment, not a medicine/item."
+      - items: [krank, müde, gesund, Krankenhaus]
+        odd: 3
+        why: "Krankenhaus is a place, not an adjective/state."
+      - items: [husten, schlafen, rauchen, Zahn]
+        odd: 3
+        why: "Zahn is a body part, not a verb/action."
+      - items: [Arzt, Ärztin, Krankenhaus, Fieber]
+        odd: 3
+        why: "Fieber is a symptom, not a person or place."
+      - items: [trinken, essen, ruhen, Schnupfen]
+        odd: 3
+        why: "Schnupfen is an illness, not an activity."
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Antworten mit Stichwörtern"
+    prompt: "Answer each question with the cues given. Write a full sentence."
+    stimulus: |
+      1. Was fehlt Ihnen? (Kopfschmerzen + Husten) → ________
+      2. Seit wann? (drei Tage) → ________
+      3. Was soll ich machen? (viel schlafen + viel trinken) → ________
+      4. Haben Sie ein Rezept? (no, looking for something without prescription) → ________
+      5. Was tut weh? (my back) → ________
+      6. Müssen Sie ins Krankenhaus? (no, staying home) → ________
+      7. Wie oft soll sie die Tabletten nehmen? (twice daily, after eating) → ________
+      8. Was brauchen Sie? (an appointment today) → ________
+    model: |
+      1. Ich habe Kopfschmerzen und Husten.
+      2. Seit drei Tagen.
+      3. Ich soll viel schlafen und viel trinken. / Sie sollen viel schlafen und viel trinken.
+      4. Nein, ich suche etwas ohne Rezept.
+      5. Mein Rücken tut weh.
+      6. Nein, ich bleibe zu Hause.
+      7. Sie soll die Tabletten zweimal täglich nach dem Essen nehmen.
+      8. Ich brauche einen Termin heute.
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Beim Arzt"
+    prompt: "Du bist erkältet und gehst zum Arzt. Beschreib in 3–4 Sätzen, was dir wehtut, wie lange schon, und was du dagegen nimmst."
+    use:
+      - "at least 2 body parts — der Kopf, der Hals, der Bauch, der Rücken, der Fuß …"
+      - "at least 1 symptom — Schmerzen, Fieber, Husten, Schnupfen"
+      - "at least 1 imperative (giving yourself advice) — Trink viel Tee! / Schlaf viel! / Iss kein Eis!"
+      - "a sentence with `seit` (seit gestern / seit zwei Tagen)"
+    selfCheck:
+      - "Did I use the correct der/die/das for each body part?"
+      - "Did I use the correct imperative form — du (Trink!, Schlaf!, Iss!); Sie (Trinken Sie!, Schlafen Sie!)?"
+      - "Did I put the verb at position 1 in the imperative (no subject)?"
+    model: |
+      Guten Tag, Herr Doktor. Mein Kopf tut weh und ich habe Halsschmerzen
+      und Schnupfen. Ich habe diese Beschwerden seit drei Tagen. Ich
+      nehme Tabletten gegen die Schmerzen, aber sie helfen nicht gut.
+      Trinken Sie viel Tee, schlafen Sie viel, und essen Sie kein Eis!
+      Ich brauche vielleicht ein Rezept.
+
+  - id: B10
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Imperativ-Transformation"
+    instructions: "Rewrite each sentence three ways: as a du-imperative, an ihr-imperative, and a Sie-imperative."
+    text: |
+      1. (trinken, Tee) → du: {1} · ihr: {2} · Sie: {3}
+      2. (nehmen, die Tabletten) → du: {4} · ihr: {5} · Sie: {6}
+      3. (bleiben, zu Hause) → du: {7} · ihr: {8} · Sie: {9}
+      4. (kommen, her) → du: {10} · ihr: {11} · Sie: {12}
+    answers:
+      "1": Trink
+      "2": Trinkt
+      "3": Trinken Sie
+      "4": Nimm
+      "5": Nehmt
+      "6": Nehmen Sie
+      "7": Bleib
+      "8": Bleibt
+      "9": Bleiben Sie
+      "10": Komm
+      "11": Kommt
+      "12": Kommen Sie
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext"
+    instructions: "Fill each gap with one word."
+    text: |-
+      Bruno {1} sich heute nicht gut. Sein Hals {2} weh und er hat
+      {3} und Schnupfen. Er ruft die Arztpraxis {4}. „Ich brauche
+      einen {5}", sagt er. Der Arzt sagt: „Sie haben eine {6}. Sie
+      {7} zu Hause bleiben und viel Wasser {8}. Nehmen Sie diese
+      Tabletten {9} täglich." Bruno kauft die {10} in der Apotheke.
+    answers:
+      "1": fühlt
+      "2": tut
+      "3":
+        - Husten
+        - Schnupfen
+      "4": an
+      "5": Termin
+      "6": Erkältung
+      "7":
+        - sollen
+        - müssen
+      "8": trinken
+      "9": dreimal
+      "10":
+        - Tabletten
+        - Medizin
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Guten Tag! Ich (1) ______ Schmerzen in meinem Rücken."
+        options:
+          - { key: a, text: "habe" }
+          - { key: b, text: "bin" }
+          - { key: c, text: "nehme" }
+        answer: a
+        why: "ich-Form von haben: habe."
+      - q: "Mein Arzt (2) ______ , ich soll viel (3) ______ und nicht arbeiten."
+        options:
+          - { key: a, text: "sagt" }
+          - { key: b, text: "meint" }
+          - { key: c, text: "sollen" }
+        answer: a
+        why: "sagt = says (3rd-person present of sagen); both sagt and meint are natural."
+      - q: "(see above) — infinitive after modal `soll`: (3) ______"
+        options:
+          - { key: a, text: "schlafen" }
+          - { key: b, text: "Schlaf" }
+          - { key: c, text: "schläfst" }
+        answer: a
+        why: "Infinitiv nach Modal `soll`: schlafen."
+      - q: "Er hat mir ein Rezept (4) ______."
+        options:
+          - { key: a, text: "gegeben" }
+          - { key: b, text: "schreiben" }
+          - { key: c, text: "geschrieben" }
+        answer: a
+        why: "Partizip II für Perfekt: gegeben (hat … gegeben)."
+      - q: "Ich gehe jetzt in die (5) ______."
+        options:
+          - { key: a, text: "Krankenhaus" }
+          - { key: b, text: "Apotheke" }
+          - { key: c, text: "Rezept" }
+        answer: b
+        why: "In die Apotheke = to the pharmacy (to pick up the Rezept)."
+      - q: "Was kostet das — (6) ______ ich eine Krankenversicherung?"
+        options:
+          - { key: a, text: "soll" }
+          - { key: b, text: "habe" }
+          - { key: c, text: "darf" }
+        answer: b
+        why: "habe ich eine Krankenversicherung? = do I have insurance? (checking eligibility)."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once."
+    text: |-
+      — Guten Tag, Arztpraxis Müller.
+      — Guten Tag! Ich {1} Kopfschmerzen und Husten. Was {2} mir?
+        Ich brauche einen {3}.
+      — Können Sie heute um 16 Uhr kommen?
+      — Ja, gerne. Muss ich ins {4}?
+      — Das weiß ich noch {5}. Kommen Sie erst zum Arzt.
+
+      *(beim Arzt)*
+
+      — Sie haben eine Erkältung. Sie {6} zu Hause bleiben.
+      — Soll ich diese {7} nehmen?
+      — Ja, {8} täglich, nach dem Essen. Hier ist Ihr {9}.
+      — {10}!
+    bank: [AN, BESSERUNG, DARF, DREIMAL, FEHLT, GUT, HABE, KRANKENHAUS, NEHMEN, NICHT, REZEPT, SCHLAFEN, SOLL, TABLETTEN, TERMIN]
+    answers:
+      "1": HABE
+      "2": FEHLT
+      "3": TERMIN
+      "4": KRANKENHAUS
+      "5": NICHT
+      "6": SOLL
+      "7": TABLETTEN
+      "8": DREIMAL
+      "9": REZEPT
+      "10": BESSERUNG
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 — Bruno ist krank"
+    instructions: |-
+      Text 1: „Bruno ist krank" in lesson.md, section 6. Bruno hat Kopfschmerzen und sein Hals ist rot. Anna sagt: „Du siehst schlecht aus! Geh zum Arzt!" Bruno hat einen Termin um 15 Uhr. Der Arzt sagt: „Bleiben Sie zu Hause, trinken Sie viel Tee, und nehmen Sie diese Tabletten." Bruno trinkt zu Hause Tee mit Honig.
+
+      Richtig (R) oder falsch (F)?
+    items:
+      - q: "Bruno hat Kopfschmerzen und Fieber."
+        answer: false
+        why: "Bruno hat Kopfschmerzen, aber Fieber wird im Text nicht erwähnt (nur sein Hals ist rot)."
+      - q: 'Anna sagt: „Geh zum Arzt!"'
+        answer: true
+        why: 'Anna sagt: „Du siehst schlecht aus! Geh zum Arzt!"'
+      - q: "Bruno hat einen Termin um 14 Uhr."
+        answer: false
+        why: "Der Termin ist um 15 Uhr, nicht 14 Uhr."
+      - q: "Der Arzt sagt, Bruno soll ins Krankenhaus."
+        answer: false
+        why: 'Der Arzt sagt: „Bleiben Sie zu Hause" — kein Krankenhaus.'
+      - q: "Bruno trinkt zu Hause Tee mit Honig."
+        answer: true
+        why: "Bruno trinkt zu Hause Tee mit Honig."
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 — Forumspost"
+    instructions: |-
+      Text 2 (Forumspost):
+
+      > Hallo! Ich bin Lisa, 28 Jahre alt, aus Wien. Letzte Woche war ich sehr krank — Fieber (39 Grad!), Halsschmerzen und starke Kopfschmerzen. Ich bin zur Ärztin gegangen. Sie hat gesagt: „Bleib zu Hause, trink viel Tee und nimm diese Tabletten." Ich habe auch eine Woche nicht gearbeitet. Meine Mutter hat mir Suppe gebracht — das war super! Heute geht es mir wieder gut. Mein Tipp für euch: Beim ersten Zeichen einer Erkältung sofort viel trinken und schlafen!
+
+      Wähle a, b oder c.
+    items:
+      - q: "Lisa hatte …"
+        options:
+          - { key: a, text: "eine Erkältung" }
+          - { key: b, text: "nur Husten" }
+          - { key: c, text: "39 Grad Fieber und Halsschmerzen" }
+        answer: c
+        why: "39 Grad Fieber und Halsschmerzen — beides wird erwähnt."
+      - q: "Die Ärztin hat gesagt, Lisa soll …"
+        options:
+          - { key: a, text: "ins Krankenhaus" }
+          - { key: b, text: "zu Hause bleiben" }
+          - { key: c, text: "sofort zur Apotheke" }
+        answer: b
+        why: 'Die Ärztin: „Bleib zu Hause, trink viel Tee und nimm diese Tabletten."'
+      - q: "Lisa hat …"
+        options:
+          - { key: a, text: "eine Woche gearbeitet" }
+          - { key: b, text: "nicht gearbeitet" }
+          - { key: c, text: "im Krankenhaus geschlafen" }
+        answer: b
+        why: "Ich habe auch eine Woche nicht gearbeitet."
+      - q: "Was empfiehlt Lisa?"
+        options:
+          - { key: a, text: "Sofort zum Arzt gehen" }
+          - { key: b, text: "Beim ersten Zeichen viel trinken und schlafen" }
+          - { key: c, text: "Tabletten kaufen ohne Rezept" }
+        answer: b
+        why: '„Beim ersten Zeichen einer Erkältung sofort viel trinken und schlafen!"'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Entschuldigung an die Lehrerin"
+    prompt: "You are feeling ill. Write a short message (6–8 sentences) to your German course teacher explaining that you cannot come to class today. Include: what's wrong (symptoms, since when), what the doctor said you should do, when you hope to be back, a polite greeting and closing."
+    use:
+      - "a polite greeting (Liebe Frau / Lieber Herr / Guten Tag)"
+      - "symptom(s) with `seit` phrase (seit gestern / seit zwei Tagen)"
+      - "doctor's advice with `sollen` + infinitive at end"
+      - "when you'll be back"
+      - "polite closing (Viele Grüße / Entschuldigung) + name"
+    selfCheck:
+      - "Did I use correct der/die/das for body parts?"
+      - "Did I use `sollen` + infinitive (Satzklammer) correctly?"
+      - "Is the verb in position 2 in each statement?"
+      - "Did I include a polite greeting and closing?"
+    model: |
+      Liebe Frau Braun,
+
+      leider kann ich heute nicht in den Kurs kommen. Ich fühle mich nicht gut. Ich
+      habe Kopfschmerzen und Halsschmerzen — seit gestern. Heute Morgen gehe ich zum
+      Arzt. Er sagt, ich soll zu Hause bleiben und viel schlafen. Ich nehme
+      Tabletten, dreimal täglich. Ich hoffe, ich bin am Montag wieder da.
+
+      Entschuldigung und viele Grüße,
+      [Ihr Name]
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest (incl. L7 + L8)"
+    instructions: "One minute per item. No notes."
+    text: |
+      1. `sollen`, du-form: du {1}
+      2. du-imperative of `nehmen`: {2}
+      3. ihr-imperative of `trinken`: {3}
+      4. „Meine Beine {4} weh." (`weh tun`)
+      5. (L7) `müssen`, er-form: er {5}
+      6. der/die/das: {6} Hals
+      7. Plural: der Zahn → die {7}
+      8. "Get well soon!" → {8}
+      9. (L8) dative of `mit` + meine Mutter: mit {9} Mutter
+      10. (L3) "I'd like a tea." → {10}
+      11. du-imperative of `schlafen`: {11} (watch: umlaut rule!)
+      12. (L7) `dürfen`, ich-form: ich {12}
+      13. „Sie {13} zu Hause bleiben." (sollen, 3rd sg.)
+      14. (L6) `lesen`, du-form: du {14}
+      15. "I have a headache." → {15}
+    answers:
+      "1": sollst
+      "2": Nimm
+      "3": Trinkt
+      "4": tun
+      "5": muss
+      "6": der
+      "7": Zähne
+      "8": "Gute Besserung!"
+      "9": meiner
+      "10": "Ich möchte einen Tee."
+      "11": Schlaf
+      "12": darf
+      "13": soll
+      "14": liest
+      "15": "Ich habe Kopfschmerzen."
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    groups:
+      - items: [Kopfschmerzen, Halsschmerzen, Bauchschmerzen, Apotheke]
+        odd: 3
+        why: "Apotheke is a place, not a type of pain."
+      - items: [Arzt, Ärztin, Krankenhaus, Tablette]
+        odd: 3
+        why: "Tablette is a medicine, not a person or building."
+      - items: [schlafen, trinken, ruhen, Fieber]
+        odd: 3
+        why: "Fieber is a noun/symptom, not a verb/activity."
+      - items: [soll, muss, kann, Rücken]
+        odd: 3
+        why: "Rücken is a body part, not a modal verb."
+      - items: [Nimm!, Trink!, Schlaf!, Lesen!]
+        odd: 3
+        why: 'Lesen! is the infinitive — the others are correct du-imperatives (Lies! would be correct).'
+      - items: [Tee, Wasser, Suppe, Rezept]
+        odd: 3
+        why: "Rezept is a document/object, not a drink or food."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Wiederholung Lektion 7 und 8"
+    text: |
+      1. (L7) `wollen`, du-form: du {1}
+      2. (L7) „Ich {2} heute nicht arbeiten." (dürfen — permission not to)
+      3. (L7) Satzklammer: Ich / müssen / jetzt / schlafen → {3}
+      4. (L7) Translate: "She has to go to the hospital." → {4}
+      5. (L8) Dative prep: „Ich fahre {5} Bus." (= by bus)
+      6. (L8) „Ich gehe {6} Arzt." (= to the doctor's; use: zum)
+      7. (L8) Sie-imperative of `kommen`: {7}
+      8. (L8) „Das ist {8} Apotheke da drüben." (pointing: definite article, f)
+      9. (L7) „{9} ich hier rauchen?" (= May I smoke here?)
+      10. (L7) `müssen` vs. `sollen`: „Der Arzt sagt, ich {10} viel schlafen." (doctor's order)
+    answers:
+      "1": willst
+      "2": darf
+      "3": "Ich muss jetzt schlafen."
+      "4": "Sie muss ins Krankenhaus (gehen)."
+      "5": mit dem
+      "6": zum
+      "7": "Kommen Sie her!"
+      "8": die
+      "9": Darf
+      "10": soll
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion 11. Below: redo Block A (especially A4–A7), then retest."
+    text: |
+      1. das Auge → Plural: die {1}
+      2. der/die/das: {2} Rücken
+      3. „Ich habe {3}." (a fever — one word)
+      4. „{4} Sie bitte den Mund auf!" (imperative Sie-form of aufmachen)
+      5. Translate: "My throat hurts." → {5}
+      6. du-imperative, `essen` (e→i!): {6}
+      7. ihr-imperative, `nehmen`: {7}
+      8. Sie-imperative, `trinken`: {8}
+      9. du-imperative, `fahren` (no umlaut!): {9}
+      10. ihr-imperative, `schlafen`: {10}
+      11. du / sollen / zu Hause bleiben → {11}
+      12. ihr / sollen / viel Wasser trinken → {12}
+      13. Negative: er / sollen / nicht rauchen → {13}
+      14. Ich sehe {14} Arzt. (mein, Akkusativ)
+      15. Er kommt mit {15} Mutter. (sein, Dativ)
+      16. „Wir kaufen die Medizin in der {16}." (= pharmacy)
+      17. (L7) „{17} du heute arbeiten?" (müssen — does she have to?)
+      18. (L3) „Was kostet ein {18} Apfelkuchen?" (= a piece of)
+      19. „Meine Augen {19} weh." (`weh tun`, plural)
+      20. (L8) „Ich fahre {20} dem Bus zur Apotheke." (preposition)
+    answers:
+      "1": Augen
+      "2": der
+      "3": Fieber
+      "4": Machen
+      "5": "Mein Hals tut weh."
+      "6": Iss
+      "7": Nehmt
+      "8": "Trinken Sie"
+      "9": Fahr
+      "10": Schlaft
+      "11": "Du sollst zu Hause bleiben."
+      "12": "Ihr sollt viel Wasser trinken."
+      "13": "Er soll nicht rauchen."
+      "14": meinen
+      "15": seiner
+      "16": Apotheke
+      "17": Musst
+      "18": Stück
+      "19": tun
+      "20": mit
