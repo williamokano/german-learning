@@ -340,16 +340,21 @@ Answer each question in a full sentence using the cue in brackets.
 5. Kann ich eine Nachricht hinterlassen? (Ja, natürlich)
 6. Wann haben Sie einen Termin? (Dienstag, 8. November, 9 Uhr)
 
-## Übung B9 — Übersetzen (EN → DE)
+## Übung B9 — Anruf beim Bürgeramt
 
-1. I'd like to register at the residents' registration office.
-2. Could you please send me the form?
-3. I'm calling about my appointment.
-4. Do you have an identity card?
-5. The appointment takes about twenty minutes.
-6. Am I disturbing you?
-7. Please fill in this form and sign here.
-8. She is unfortunately not available at the moment.
+**Situation:** Du hast heute das Bürgeramt angerufen, um einen Termin
+zu machen. Schreib in **3–4 Sätzen** auf, was du gesagt hast und
+welche Informationen du bekommen hast.
+
+Use:
+- [ ] a polite opening (*Guten Tag, mein Name ist …*)
+- [ ] a polite request (*Könnten Sie …? / Ich möchte … / Ich hätte gern …*)
+- [ ] at least **1** form-related word — *Anmeldung, Termin, Dokument, Personalausweis, Formular, Wohnungsgebernachweis*
+
+**Self-check before moving on:**
+- [ ] Did I use the **formal `Sie`** (not `du`)? (This is a Bürgeramt call — formal.)
+- [ ] Did I put the **verb in position 2** in each sentence?
+- [ ] Did I use `Könnten Sie` (not *Können Sie*) for a polite request?
 
 ## Übung B10 — E-mail schreiben (guided)
 

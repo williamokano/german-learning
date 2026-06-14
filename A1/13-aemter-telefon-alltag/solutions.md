@@ -264,6 +264,18 @@ Revised correct key: 1 → e · 2 → c · 3 → h · 4 → b · 5 → f · 6 �
 7. Bitte füllen Sie dieses Formular aus und unterschreiben Sie hier.
 8. Sie ist leider gerade nicht erreichbar.
 
+## B9 — Anruf beim Bürgeramt (model answer)
+
+> Guten Tag, mein Name ist [Name]. Ich rufe an, weil ich mich
+> beim Bürgeramt anmelden möchte. Könnten Sie mir bitte sagen,
+> welche Dokumente ich für den Termin brauche? Ich habe gehört,
+> dass ich einen Personalausweis und einen Wohnungsgebernachweis
+> mitbringen muss. Vielen Dank für Ihre Hilfe!
+
+*(A correct reply: polite opening, polite request with Könnten Sie,
+form-related vocabulary, formal `Sie` throughout. Any equivalent is
+accepted.)*
+
 ## Übung B10 — E-mail (model answer)
 
 > Sehr geehrter Herr Hofmann,
