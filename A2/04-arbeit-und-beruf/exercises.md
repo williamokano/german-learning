@@ -358,16 +358,31 @@ f) Vollzeit oder Teilzeit möglich.
 g) Wir suchen einen qualifizierten Ingenieur.  
 h) Bitte melden Sie sich telefonisch.
 
-## Übung B9 — Fehler aus der Praxis: `wenn`-Fallen
+## Übung B9 — Vorstellungsgespräch: E-Mail an die Personalabteilung
 
-Read each learner's sentence. Is it correct (✓) or wrong (✗)? If wrong, write the correction.
+**E-Mail von Frau Schäfer, Personalabteilung** *(Du hast diese E-Mail gerade bekommen)*:
+> Sehr geehrte/r Bewerber/in,
+> vielen Dank für Ihre Bewerbung als IT-Assistent. Wir möchten Sie
+> gerne zu einem Vorstellungsgespräch einladen. Wir können den
+> Termin am Mittwoch, dem neunzehnten Juni, um zehn Uhr anbieten —
+> passt Ihnen das? Falls Sie lieber einen anderen Tag hätten, rufen
+> Sie mich gerne an.
+> Mit freundlichen Grüßen, M. Schäfer
 
-1. „Wenn ich Zeit habe, ich lerne Deutsch."
-2. „Ich rufe an, wenn ich fertig bin."
-3. „Wenn man einen Job sucht, muss man viel schreiben."
-4. „Er kommt, wenn er hat Zeit."
-5. „Wenn die Unterlagen eingereicht haben, rufen wir an."
-6. „Wenn es möglich ist, arbeite ich Vollzeit."
+**Your task:** Schreib eine formelle E-Mail als Antwort an Frau Schäfer
+in **4–5 Sätzen**. Bestätige den Termin oder schlage einen anderen vor,
+und nenne deine aktuelle Position mit `als …`.
+
+Use:
+- [ ] a formal greeting + closing (*Sehr geehrte Frau Schäfer, … / Mit freundlichen Grüßen, …*)
+- [ ] at least **1** sentence with `wenn` (a condition: *wenn es passt / wenn nichts dazwischenkommt*)
+- [ ] a sentence with `als` + profession (*Ich arbeite zurzeit als …*)
+- [ ] at least **1** future / conditional verb form (*werde … kommen / könnte … teilnehmen*)
+
+**Self-check before moving on:**
+- [ ] Did I put the **verb at the end** of the `wenn`-clause?
+- [ ] Did I use `als` (job role) — **without article** — correctly? (*als IT-Assistent*, not *als ein IT-Assistent*)
+- [ ] Did I use a **comma** before `wenn` and the `wenn`-clause?
 
 ## Übung B10 — Smalltalk bei der Arbeit: Dialog schreiben
 

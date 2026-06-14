@@ -264,14 +264,20 @@ Accept any 4 grammatically correct sentences that use the given information. Che
 7. → **e)** Wir freuen uns auf Ihre Bewerbung.
 8. → **h)** Bitte melden Sie sich telefonisch.
 
-## B9 — Fehler aus der Praxis: `wenn`-Fallen
+## B9 — Vorstellungsgespräch: E-Mail an die Personalabteilung (model answer)
 
-1. ✗ → **„Wenn ich Zeit habe, lerne ich Deutsch."** (inversion: verb before subject after `wenn`-clause)
-2. ✓ — correct.
-3. ✓ — correct.
-4. ✗ → **„Er kommt, wenn er Zeit hat."** (`hat` must go to the end)
-5. ✗ → **„Wenn die Unterlagen eingereicht worden sind, …"** or more naturally: **„Wenn die Unterlagen eingereicht sind, rufen wir an."** (Perfekt passive or Zustandspassiv; simplest fix: *wenn die Unterlagen da sind*)
-6. ✓ — correct.
+> Sehr geehrte Frau Schäfer,
+> vielen Dank für Ihre Einladung. Ich arbeite zurzeit als
+> IT-Assistent in einer kleinen Firma, deshalb freue ich mich sehr
+> über die Chance. Der Termin am Mittwoch, dem neunzehnten Juni,
+> passt mir gut. Wenn nichts dazwischenkommt, werde ich pünktlich
+> um zehn Uhr bei Ihnen sein. Ich freue mich auf das Gespräch.
+> Mit freundlichen Grüßen, [Name]
+
+*(A correct reply: formal greeting + closing, ≥1 `wenn`-clause (verb at
+end), `als` + profession (no article), ≥1 future/conditional form. Any
+equivalent is accepted.)*
+
 
 ## B10 — Smalltalk bei der Arbeit: Dialog schreiben
 
