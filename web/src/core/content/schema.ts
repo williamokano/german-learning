@@ -10,6 +10,8 @@ const Base = z.object({
   title: z.string(),
   instructions: z.string().optional(),
   audio: z.string().optional(),
+  transcript: z.string().optional(),    // H4 Kurze Ansage transcript text
+  audioContext: z.string().optional(),  // hint for audio generation (e.g. "phone-filter")
   recycledFrom: z.string().optional(),
   notes: z.string().optional(),
   caseSensitive: z.boolean().optional(),
@@ -23,6 +25,7 @@ export const GapText = Base.extend({
   text: z.string(),
   answers: GapMap,
   cues: z.record(z.string(), z.string()).optional(),
+  listLayout: z.boolean().optional(), // true → gaps render as ______ (no "(n)" prefix)
 });
 
 export const TableFill = Base.extend({

@@ -229,19 +229,49 @@ function renderExerciseMd(ex: ExerciseUnion): string[] {
     case 'speaking-prompt':lines.push(...renderSpeakingPromptMd(ex));break;
   }
 
+  // H4 Kurze Ansage transcript block
+  if (ex.transcript && ex.audio) {
+    lines.push(...renderTranscriptBlock(ex.audio, ex.transcript));
+  }
+
+  // notes appear at the end of the exercise (e.g. D4 score tracker)
+  if (ex.notes) {
+    lines.push(`_${ex.notes}_`);
+    lines.push('');
+  }
+
   return lines;
+}
+
+function renderTranscriptBlock(audio: string, transcript: string): string[] {
+  // Extract ansage number from filename (e.g. transcript_ansage1.mp3 → 1)
+  const m = audio.match(/ansage(\d+)/i);
+  const n = m ? m[1] : '1';
+  return [
+    '<details>',
+    '<summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>',
+    '',
+    `🎧 **Audio:** [${audio}](audio/${audio})`,
+    '',
+    `**Ansage ${n} — Transcript**`,
+    '',
+    `> ${transcript.trim().split('\n').join('\n> ')}`,
+    '',
+    '</details>',
+    '',
+  ];
 }
 
 // ── per-type exercises.md renderers ──────────────────────────────────────────
 
-function gapify(text: string): string {
+function gapify(text: string, listLayout = false): string {
+  if (listLayout) return text.replace(/\{(\d+)\}/g, '______');
   return text.replace(/\{(\d+)\}/g, '($1) ______');
 }
 
 function renderGapTextMd(ex: GapTextExercise): string[] {
   const lines: string[] = [];
-  const rendered = gapify(ex.text.trim());
-  // If text is a numbered list, render as-is; otherwise as paragraph
+  const rendered = gapify(ex.text.trim(), ex.listLayout);
   lines.push(rendered);
   lines.push('');
   return lines;
