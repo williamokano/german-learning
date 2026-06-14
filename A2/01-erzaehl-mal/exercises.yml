@@ -1,0 +1,1031 @@
+lesson: A2/01
+title: "A2 · Lektion 1 — Übungen"
+intro: >
+  Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
+  **D** Wiederholung & Selbsttest. Answers in `solutions.md`.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: **Richtig (R)** oder **Falsch (F)**?"
+    items:
+      - q: "Bruno hat sein Wochenende in Hamburg verbracht."
+        answer: true
+        why: 'Bruno erzählt von seinem Wochenende in Hamburg.'
+      - q: "Er ist mit dem Flugzeug nach Hamburg gefahren."
+        answer: false
+        why: 'Er ist mit dem Zug gefahren, nicht mit dem Flugzeug.'
+      - q: "Bruno und sein Cousin haben den Hafen besichtigt."
+        answer: true
+        why: 'Sie haben am Samstag den Hafen besichtigt.'
+      - q: "Am Ende hat Bruno im Restaurant übernachtet."
+        answer: false
+        why: "Am Ende ist Bruno nach Berlin zurückgefahren; er hat nicht im Restaurant übernachtet."
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Herr Steinmeyer war im Urlaub in …"
+        options:
+          - { key: a, text: "Salzburg" }
+          - { key: b, text: "Wien" }
+          - { key: c, text: "Berlin" }
+        answer: b
+        why: "Herr Steinmeyer war im Urlaub in Wien."
+      - q: "Was haben Herr und Frau Steinmeyer zuerst gemacht?"
+        options:
+          - { key: a, text: "Sie sind in die Oper gegangen." }
+          - { key: b, text: "Sie haben das Kunsthistorische Museum besucht." }
+          - { key: c, text: "Sie haben im Café gefrühstückt." }
+        answer: b
+        why: "Zuerst haben sie das Kunsthistorische Museum besucht."
+      - q: "Was hat die Tochter gemacht, während die Eltern in der Oper waren?"
+        options:
+          - { key: a, text: "Sie ist ins Hotel gegangen und hat einen Film geschaut." }
+          - { key: b, text: "Sie hat im Café gewartet." }
+          - { key: c, text: "Sie hat auch die Oper besucht." }
+        answer: a
+        why: "Die Tochter ist ins Hotel gegangen und hat einen Film geschaut."
+      - q: "Wie lange waren sie in Wien?"
+        options:
+          - { key: a, text: "drei Tage" }
+          - { key: b, text: "eine Woche" }
+          - { key: c, text: "zwei Wochen" }
+        answer: b
+        why: "Sie waren eine Woche in Wien."
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill in the 8 missing words. **Three words in the box are not needed.**"
+    text: |-
+      Anna hat gestern einen interessanten Tag {1}. Zuerst hat sie eine
+      E-Mail von ihrer Freundin in Russland {2}. Dann hat sie zwei Stunden
+      lang {3} — das hat sehr gut getan. Danach ist sie in die Stadt
+      {4} und hat ein Buch über deutsche Geschichte {5}. Schließlich
+      hat sie das Buch im Park {6} und einen Kaffee {7}. Am Ende
+      war sie sehr {8}, aber glücklich.
+    bank: [bekommen, gelesen, gekauft, telefoniert, getrunken, geschrieben, gegangen, erlebt, müde, glücklich, schläfrig]
+    answers:
+      "1": erlebt
+      "2": bekommen
+      "3": telefoniert
+      "4": gegangen
+      "5": gekauft
+      "6": gelesen
+      "7": getrunken
+      "8": müde
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Lisas Kurztrip nach Dresden"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen **once** before reading the transcript below."
+    transcript: "Hallo Anna, hier ist Lisa. Ich rufe an wegen meinem Kurztrip nach Dresden. Ich bin am Freitag mit dem Zug gefahren und habe dort zwei Tage verbracht. Am Samstag habe ich die Frauenkirche besucht und bin dann durch die Altstadt spaziert. Abends habe ich in einem kleinen Restaurant gegessen. Am Sonntag habe ich das Grüne Gewölbe besucht — das Museum war fantastisch! Bitte ruf mich zurück, damit ich dir alles genauer erzählen kann! Bis bald!"
+    items:
+      - q: "Wohin ist Lisa gefahren?"
+        options:
+          - { key: a, text: "Nach Dresden." }
+          - { key: b, text: "Nach Hamburg." }
+          - { key: c, text: "Nach Leipzig." }
+        answer: a
+        why: '„Ich rufe an wegen meinem Kurztrip nach Dresden."'
+      - q: "Wie lange ist Lisa geblieben?"
+        options:
+          - { key: a, text: "Einen Tag." }
+          - { key: b, text: "Zwei Tage." }
+          - { key: c, text: "Drei Tage." }
+        answer: b
+        why: '„Ich bin am Freitag mit dem Zug gefahren und habe dort zwei Tage verbracht."'
+      - q: "Was hat Lisa am Samstag besucht?"
+        options:
+          - { key: a, text: "Die Frauenkirche." }
+          - { key: b, text: "Die Semperoper." }
+          - { key: c, text: "Das Museum." }
+        answer: a
+        why: '„Am Samstag habe ich die Frauenkirche besucht."'
+      - q: "Was hat Lisa am Samstagabend gemacht?"
+        options:
+          - { key: a, text: "Sie ist im Hotel geblieben." }
+          - { key: b, text: "Sie hat in einem Restaurant gegessen." }
+          - { key: c, text: "Sie hat ein Konzert besucht." }
+        answer: b
+        why: '„Abends habe ich in einem kleinen Restaurant gegessen."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Partizip II: ge- oder nicht?"
+    instructions: "Write the Partizip II for each verb. Mark ✓ (has ge-) or ✗ (no ge-) in the brackets."
+    text: |-
+      1. machen → {1} ( )  2. besuchen → {2} ( )  3. studieren → {3} ( )
+      4. fahren → {4} ( )  5. vergessen → {5} ( )  6. kaufen → {6} ( )
+      7. telefonieren → {7} ( )  8. aufstehen → {8} ( )  9. bekommen → {9} ( )
+      10. reservieren → {10} ( )  11. gehen → {11} ( )  12. erklären → {12} ( )
+    answers:
+      "1": gemacht
+      "2": besucht
+      "3": studiert
+      "4": gefahren
+      "5": vergessen
+      "6": gekauft
+      "7": telefoniert
+      "8": aufgestanden
+      "9": bekommen
+      "10": reserviert
+      "11": gegangen
+      "12": erklärt
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Inseparable verbs: Partizip II"
+    instructions: "Fill in the correct Partizip II. All verbs here are inseparable."
+    text: |-
+      1. Ich habe alles {1} (verstehen).
+      2. Wann hast du das {2} (entscheiden)?
+      3. Sie hat den Brief {3} (bekommen).
+      4. Er hat den Termin {4} (vergessen).
+      5. Wir haben die Tour {5} (beginnen).
+      6. Hast du die Frage {6} (beantworten)?
+      7. Das Glas ist {7} (zerbrechen).
+      8. Der Lehrer hat die Regel {8} (erklären).
+      9. Ich habe eine neue Stelle {9} (bekommen).
+      10. Das Konzert hat um acht Uhr {10} (beginnen).
+    answers:
+      "1": verstanden
+      "2": entschieden
+      "3": bekommen
+      "4": vergessen
+      "5": begonnen
+      "6": beantwortet
+      "7": zerbrochen
+      "8": erklärt
+      "9": bekommen
+      "10": begonnen
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "-ieren verbs: Perfekt sentence"
+    instructions: "Form the Perfekt sentence."
+    text: |-
+      1. ich / studieren / in Berlin → {1}
+      2. er / telefonieren / eine Stunde / lang → {2}
+      3. wir / reservieren / ein Tisch → {3}
+      4. sie (she) / fotografieren / die Stadt → {4}
+      5. ihr / passieren / was? → {5}
+      6. ich / reservieren / zwei Karten → {6}
+    answers:
+      "1": "Ich habe in Berlin studiert."
+      "2": "Er hat eine Stunde lang telefoniert."
+      "3": "Wir haben einen Tisch reserviert."
+      "4": "Sie hat die Stadt fotografiert."
+      "5": "Was ist euch passiert?"
+      "6": "Ich habe zwei Karten reserviert."
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Separable verbs: Partizip II"
+    instructions: "Form the Partizip II, then use it in a sentence."
+    text: |-
+      1. aufstehen → {1}  Ich bin früh {2}.
+      2. anrufen → {3}  Hast du deine Mutter {4}?
+      3. einkaufen → {5}  Wir haben im Supermarkt {6}.
+      4. ausgehen → {7}  Seid ihr gestern {8}?
+      5. umziehen → {9}  Er ist nach Berlin {10}.
+      6. einladen → {11}  Ich habe alle {12}.
+      7. abholen → {13}  Sie hat mich vom Bahnhof {14}.
+      8. anfangen → {15}  Wann hat der Kurs {16}?
+    answers:
+      "1": aufgestanden
+      "2": aufgestanden
+      "3": angerufen
+      "4": angerufen
+      "5": eingekauft
+      "6": eingekauft
+      "7": ausgegangen
+      "8": ausgegangen
+      "9": umgezogen
+      "10": umgezogen
+      "11": eingeladen
+      "12": eingeladen
+      "13": abgeholt
+      "14": abgeholt
+      "15": angefangen
+      "16": angefangen
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Präteritum der Modalverben: Tabelle"
+    instructions: "Fill in the complete Präteritum table."
+    text: |-
+      ich: müssen {1} · wollen {2} · können {3} · dürfen {4} · sollen {5}
+      du: {6} · {7} · {8} · {9} · {10}
+      er/sie/es: {11} · {12} · {13} · {14} · {15}
+      wir: {16} · {17} · {18} · {19} · {20}
+      ihr: {21} · {22} · {23} · {24} · {25}
+      sie/Sie: {26} · {27} · {28} · {29} · {30}
+    answers:
+      "1": musste
+      "2": wollte
+      "3": konnte
+      "4": durfte
+      "5": sollte
+      "6": musstest
+      "7": wolltest
+      "8": konntest
+      "9": durftest
+      "10": solltest
+      "11": musste
+      "12": wollte
+      "13": konnte
+      "14": durfte
+      "15": sollte
+      "16": mussten
+      "17": wollten
+      "18": konnten
+      "19": durften
+      "20": sollten
+      "21": musstet
+      "22": wolltet
+      "23": konntet
+      "24": durftet
+      "25": solltet
+      "26": mussten
+      "27": wollten
+      "28": konnten
+      "29": durften
+      "30": sollten
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Präteritum der Modalverben: Sätze"
+    instructions: "Fill in the correct Präteritum form."
+    text: |-
+      1. Ich {1} (müssen) gestern früh aufstehen.
+      2. Er {2} (wollen) nach Hamburg fahren.
+      3. Wir {3} (können) kein Taxi finden.
+      4. Du {4} (dürfen) nicht fotografieren.
+      5. Sie (she) {5} (sollen) um acht ankommen.
+      6. Ihr {6} (müssen) lange warten.
+      7. Ich {7} (wollen) schon immer nach Wien reisen.
+      8. Er {8} (können) das nicht verstehen.
+      9. Wir {9} (dürfen) das Museum nicht betreten.
+      10. {10} (sollen) sie heute arbeiten?
+    answers:
+      "1": musste
+      "2": wollte
+      "3": konnten
+      "4": durftest
+      "5": sollte
+      "6": musstet
+      "7": wollte
+      "8": konnte
+      "9": durften
+      "10": Sollten
+
+  - id: A7
+    block: A
+    type: order
+    title: "Zeitkonnektoren: Sätze ordnen"
+    instructions: "Reorder the words to make a correct sentence. The time connector starts each sentence."
+    items:
+      - tiles: [zuerst, haben, wir, "das Museum", besucht]
+        answer: [0, 1, 2, 3, 4]
+        note: "Zuerst haben wir das Museum besucht."
+      - tiles: [dann, sind, "in die Oper", wir, gegangen]
+        answer: [0, 1, 2, 3, 4]
+        note: "Dann sind wir in die Oper gegangen."
+      - tiles: [danach, hat, "ein Stück Kuchen", Anna, gegessen]
+        answer: [0, 1, 2, 3, 4]
+        note: "Danach hat Anna ein Stück Kuchen gegessen."
+      - tiles: [schließlich, sind, wir, "nach Hause", gefahren]
+        answer: [0, 1, 2, 3, 4]
+        note: "Schließlich sind wir nach Hause gefahren."
+      - tiles: ["am Ende", war, er, "sehr müde"]
+        answer: [0, 1, 2, 3]
+        note: "Am Ende war er sehr müde."
+      - tiles: [dann, habe, ich, "meine Mutter", angerufen]
+        answer: [0, 1, 2, 3, 4]
+        note: "Dann habe ich meine Mutter angerufen."
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "haben oder sein? (Perfekt)"
+    instructions: "Choose the correct auxiliary."
+    text: |-
+      1. Bruno {1} nach Hamburg gefahren.
+      2. Anna {2} ein Buch gelesen.
+      3. Wir {3} ins Restaurant gegangen.
+      4. Ich {4} meinen Cousin besucht.
+      5. Er {5} um acht aufgestanden.
+      6. Sie (they) {6} die Stadt besichtigt.
+      7. Das Konzert {7} um acht begonnen.
+      8. Ich {8} nach Berlin umgezogen.
+      9. Du {9} die Karten reserviert.
+      10. Wann {10} du angekommen?
+    answers:
+      "1": ist
+      "2": hat
+      "3": sind
+      "4": habe
+      "5": ist
+      "6": haben
+      "7": hat
+      "8": bin
+      "9": hast
+      "10": bist
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Perfekt-Formen"
+    instructions: "Write the complete Perfekt form (subject + auxiliary + Partizip II)."
+    text: |-
+      1. ich / fotografieren → {1}
+      2. du / vergessen / den Termin → {2}
+      3. er / besuchen / die Stadt → {3}
+      4. wir / aussteigen → {4}
+      5. ihr / studieren / in Wien → {5}
+      6. sie (she) / umziehen → {6}
+      7. Sie / bekommen / den Brief → {7}
+      8. ich / anrufen / meine Freundin → {8}
+    answers:
+      "1": "Ich habe fotografiert."
+      "2": "Du hast den Termin vergessen."
+      "3": "Er hat die Stadt besucht."
+      "4": "Wir sind ausgestiegen."
+      "5": "Ihr habt in Wien studiert."
+      "6": "Sie ist umgezogen."
+      "7": "Sie haben den Brief bekommen."
+      "8": "Ich habe meine Freundin angerufen."
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Zeitkonnektoren: Lücken füllen"
+    instructions: "Fill in: `zuerst`, `dann`, `danach`, `schließlich`, `am Ende`."
+    text: |-
+      Gestern war ein langer Tag! {1} habe ich um sechs Uhr gefrühstückt.
+      {2} bin ich mit dem Zug nach Hamburg gefahren — das hat drei Stunden
+      gedauert. {3} habe ich meinen Freund am Bahnhof getroffen und wir
+      haben die Stadt besichtigt. {4} sind wir in ein Restaurant gegangen
+      und haben Fisch gegessen. {5} war ich sehr satt und müde, aber es
+      hat mir sehr gut gefallen!
+    answers:
+      "1": Zuerst
+      "2": Dann
+      "3": Danach
+      "4": Schließlich
+      "5": "Am Ende"
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Präteritum statt Perfekt (Modalverben)"
+    instructions: "Rewrite these Perfekt modal forms as natural Präteritum forms."
+    text: |-
+      1. Ich habe kommen müssen. → {1}
+      2. Er hat nicht gehen wollen. → {2}
+      3. Wir haben nicht bleiben dürfen. → {3}
+      4. Sie hat früher aufstehen müssen. → {4}
+      5. Habt ihr wirklich warten müssen? → {5}
+    answers:
+      "1": "Ich musste kommen."
+      "2": "Er wollte nicht gehen."
+      "3": "Wir durften nicht bleiben."
+      "4": "Sie musste früher aufstehen."
+      "5": "Musstet ihr wirklich warten?"
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen"
+    instructions: "Fill in the blanks with the correct form (Perfekt or Präteritum modal)."
+    text: |-
+      — Hey Anna! Wie war dein Wochenende?
+      — Super! Ich {1} (besuchen) eine Ausstellung im Museum.
+      — Echt? Was für eine Ausstellung?
+      — Über russische Kunst. Zuerst {2} ich lange in der Schlange (warten) —
+        das {3} (sein) ein bisschen langweilig. Dann {4} wir endlich
+        (reinkommen / hineinkommen).
+      — Und wie war es?
+      — Wirklich toll! Ich {5} alles (fotografieren) — oder {6} du, dass
+        man da nicht fotografieren (dürfen — Präteritum)?
+      — Stimmt! Man {7} nicht fotografieren (dürfen — Präteritum).
+        {8} du trotzdem Fotos (machen)?
+      — Nein natürlich nicht! Am Ende {9} ich ein Buch über die Ausstellung
+        (kaufen). Es war wirklich schön!
+    answers:
+      "1": habe
+      "2": musste
+      "3": war
+      "4":
+        - konnten
+        - sind
+      "5": habe
+      "6": wusstest
+      "7": durfte
+      "8": Hast
+      "9": habe
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler"
+    instructions: "Each sentence has exactly **one** mistake. Write the corrected sentence."
+    text: |-
+      1. Ich habe meine Freundin begesucht. → {1}
+      2. Wir haben in Paris gestudiert. → {2}
+      3. Er ist nach Berlin geumgezogen. → {3}
+      4. Ich musste früh aufstanden. → {4}
+      5. Zuerst wir sind in die Stadt gegangen. → {5}
+      6. Sie hat das Restaurant reservert. → {6}
+      7. Ich habe kein Taxi gefunden können. → {7}
+      8. Das Glas hat zergebrochen. → {8}
+      9. Wolltest du nach Wien gefahren? → {9}
+      10. Er hat alles vergessen — er hat einen schlechten Tag gehabt. (Hint: *vergessen* is fine; find the error in the other clause.) → {10}
+    answers:
+      "1": "Ich habe meine Freundin besucht."
+      "2": "Wir haben in Paris studiert."
+      "3": "Er ist nach Berlin umgezogen."
+      "4": "Ich musste früh aufstehen."
+      "5": "Zuerst sind wir in die Stadt gegangen."
+      "6": "Sie hat das Restaurant reserviert."
+      "7": "Ich konnte kein Taxi finden."
+      "8": "Das Glas ist zerbrochen."
+      "9": "Wolltest du nach Wien fahren?"
+      "10": "Er hat alles vergessen — er hat einen schlechten Tag gehabt."
+
+  - id: B3
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    left:
+      - { key: "1", text: "Was hast du gestern gemacht?" }
+      - { key: "2", text: "Wie war dein Urlaub?" }
+      - { key: "3", text: "Was habt ihr in Wien unternommen?" }
+      - { key: "4", text: "Bist du gestern ausgegangen?" }
+      - { key: "5", text: "Ich habe meinen Schlüssel vergessen!" }
+      - { key: "6", text: "Konntest du schlafen?" }
+      - { key: "7", text: "Wann bist du umgezogen?" }
+      - { key: "8", text: "Hat es dir in Hamburg gefallen?" }
+    right:
+      - { key: a, text: "Wir sind in die Oper gegangen." }
+      - { key: b, text: "Nein, ich musste arbeiten." }
+      - { key: c, text: "Ich habe meine Eltern besucht." }
+      - { key: d, text: "Was ist passiert?" }
+      - { key: e, text: "Sehr schön — es hat mir gut gefallen!" }
+      - { key: f, text: "Nein, leider nicht — ich musste früh aufstehen." }
+      - { key: g, text: "Vor zwei Jahren, im Oktober." }
+      - { key: h, text: "Ja, wirklich sehr! Ich wollte schon lange dahin." }
+    answers:
+      "1": c
+      "2": e
+      "3": a
+      "4": b
+      "5": d
+      "6": f
+      "7": g
+      "8": h
+
+  - id: B4
+    block: B
+    type: order
+    title: "Satzbau: Zeitkonnektoren"
+    instructions: "Build the sentence. The time connector is given first; the verb (already conjugated) comes next, in position 2."
+    items:
+      - tiles: [Zuerst, besuchen, wir, "das Stadtmuseum"]
+        answer: [0, 1, 2, 3]
+        note: "Zuerst besuchen wir das Stadtmuseum."
+      - tiles: [Dann, ruft, er, "seine Mutter", an]
+        answer: [0, 1, 2, 3, 4]
+        note: "Dann ruft er seine Mutter an."
+      - tiles: [Danach, essen, wir, "in einem kleinen Restaurant"]
+        answer: [0, 1, 2, 3]
+        note: "Danach essen wir in einem kleinen Restaurant."
+      - tiles: [Schließlich, kauft, Anna, "ein Souvenir"]
+        answer: [0, 1, 2, 3]
+        note: "Schließlich kauft Anna ein Souvenir."
+      - tiles: ["Am Ende", sind, alle, "sehr müde"]
+        answer: [0, 1, 2, 3]
+        note: "Am Ende sind alle sehr müde."
+      - tiles: [Plötzlich, fängt, es, an, "zu regnen"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Plötzlich fängt es an zu regnen."
+
+  - id: B5
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Partizip II: correct and incorrect"
+    instructions: "Mark each Partizip II as correct (✓) or incorrect (✗) and write the correct form."
+    text: |-
+      1. gestudiert → {1}  {2}
+      2. besucht → {3}  {4}
+      3. gebekommen → {5}  {6}
+      4. fotografiert → {7}  {8}
+      5. angerufen → {9}  {10}
+      6. vergesst → {11}  {12}
+      7. ausgegangen → {13}  {14}
+      8. reserviert → {15}  {16}
+      9. aufgestanden → {17}  {18}
+      10. geentschieden → {19}  {20}
+    answers:
+      "1": "✗"
+      "2": "studiert"
+      "3": "✓"
+      "4": "besucht"
+      "5": "✗"
+      "6": "bekommen"
+      "7": "✓"
+      "8": "fotografiert"
+      "9": "✓"
+      "10": "angerufen"
+      "11": "✗"
+      "12": "vergessen"
+      "13": "✓"
+      "14": "ausgegangen"
+      "15": "✓"
+      "16": "reserviert"
+      "17": "✓"
+      "18": "aufgestanden"
+      "19": "✗"
+      "20": "entschieden"
+
+  - id: B6
+    block: B
+    type: categorize
+    title: "Kategorien: welche Verben brauchen sein?"
+    instructions: "Sort the verbs into two groups: **Perfekt mit `haben`** or **Perfekt mit `sein`**."
+    buckets:
+      - { key: haben, label: "Perfekt mit haben" }
+      - { key: sein, label: "Perfekt mit sein" }
+    tokens:
+      - { text: "besuchen", bucket: haben }
+      - { text: "fahren", bucket: sein }
+      - { text: "essen", bucket: haben }
+      - { text: "gehen", bucket: sein }
+      - { text: "kaufen", bucket: haben }
+      - { text: "ankommen", bucket: sein }
+      - { text: "studieren", bucket: haben }
+      - { text: "umziehen", bucket: sein }
+      - { text: "reservieren", bucket: haben }
+      - { text: "aufstehen", bucket: sein }
+      - { text: "telefonieren", bucket: haben }
+      - { text: "passieren", bucket: sein }
+      - { text: "ausgehen", bucket: sein }
+      - { text: "vergessen", bucket: haben }
+      - { text: "einziehen", bucket: sein }
+
+  - id: B7
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Übersetzen (EN → DE)"
+    text: |-
+      1. I had to get up early yesterday. → {1}
+      2. She wanted to visit the museum. → {2}
+      3. We couldn't find the restaurant. → {3}
+      4. First I bought a ticket, then I went in. → {4}
+      5. He visited his parents last week. → {5}
+      6. What happened? (Use passieren.) → {6}
+      7. Did you (informal) reserve a table? → {7}
+      8. Finally, we understood everything. → {8}
+    answers:
+      "1": "Ich musste gestern früh aufstehen."
+      "2": "Sie wollte das Museum besuchen."
+      "3": "Wir konnten das Restaurant nicht finden."
+      "4": "Zuerst habe ich eine Karte gekauft, dann bin ich hineingegangen."
+      "5": "Er hat letzte Woche seine Eltern besucht."
+      "6": "Was ist passiert?"
+      "7": "Hast du einen Tisch reserviert?"
+      "8": "Schließlich haben wir alles verstanden."
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Antworten mit Konnektoren"
+    instructions: "Answer each question with a complete sentence, using the given connector."
+    prompt: "Answer each question with a complete sentence, using the given connector."
+    stimulus: |-
+      1. Was hast du zuerst gemacht? (das Museum besuchen) → [Zuerst] ____
+      2. Und dann? (in die Stadt gehen) → [Dann] ____
+      3. Was habt ihr danach gemacht? (essen) → [Danach] ____
+      4. Wie war das Ende? (sehr müde sein) → [Am Ende] ____
+    model: |-
+      1. Zuerst habe ich das Museum besucht.
+      2. Dann bin ich in die Stadt gegangen.
+      3. Danach haben wir gegessen.
+      4. Am Ende war ich sehr müde.
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Was hast du am Wochenende gemacht?"
+    genre: "WhatsApp-Nachricht"
+    prompt: "Antworte Anna in **4–5 Sätzen** auf WhatsApp. Erzähle ihr, was du am Wochenende gemacht hast — benutze dabei Zeit-Konnektoren und das Perfekt."
+    stimulus: |-
+      Hey! Lange nichts gehört. Wie war dein Wochenende? Ich war mit Carlos
+      auf dem Flohmarkt am Mauerpark und wir haben super günstig eine alte
+      Lampe gefunden. Sonntag war ich dann krank und habe den ganzen Tag
+      im Bett verbracht. Und du? Erzähl mal! Liebe Grüße, Anna
+    use:
+      - "at least **2** sentences in **Perfekt** (`habe … gemacht` / `bin … gegangen`)"
+      - "at least **2** different time connectors (*zuerst, dann, danach, am Ende, schließlich*)"
+      - "at least **1** sentence with a modal verb in Präteritum (*konnte, wollte, musste, durfte, sollte*)"
+    selfCheck:
+      - "Did I use `bin` (movement/change) vs. `habe` (other verbs) correctly?"
+      - "Did I put the participle at the **end** of each Perfekt sentence?"
+      - "Did I use a comma after the time connector at the start of the sentence?"
+    model: |-
+      Hallo Anna! Danke der Nachfrage. Zuerst habe ich am Samstag lange
+      geschlafen. Dann bin ich mit meinem Bruder ins Kino gegangen —
+      wir wollten schon lange den neuen Film sehen. Am Abend haben wir
+      dann zusammen Pizza gegessen. Am Sonntag musste ich leider lernen
+      für meine Deutschprüfung. Danach habe ich noch meine Oma angerufen.
+      Es war ein schönes Wochenende! Liebe Grüße, [Name]
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    title: "Lückentext"
+    instructions: "Fill each gap with **one** word. (Some gaps admit multiple solutions — any grammatically correct and contextually fitting answer is accepted.)"
+    text: |-
+      Letzten Sommer {1} Anna drei Wochen in Russland. Sie hat ihre Familie
+      {2} und viele alte Freunde {3}. Zuerst ist sie mit dem Zug
+      nach Jaroslawl {4}. Dann {5} sie eine Woche bei ihren Eltern
+      (wohnen). Ihre Mutter {6} jeden Tag ein großes Abendessen (kochen).
+      Das hat Anna sehr {7}. Am Ende {8} sie, dass sie öfter nach
+      Hause fahren {9}. Sie {10} es leider nicht oft genug.
+    answers:
+      "1":
+        - war
+        - hat
+      "2": besucht
+      "3":
+        - getroffen
+        - wiedergesehen
+      "4": gefahren
+      "5": hat
+      "6": hat
+      "7": gefallen
+      "8": hat
+      "9":
+        - muss
+        - müsste
+        - sollte
+      "10":
+        - schafft
+        - kann
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: |-
+      Bruno erzählt: „Letzte Woche (1) ______ ich meine Großeltern in Blumenau
+      besucht. Das war wirklich schön! Zuerst (2) ______ ich mit dem Flugzeug bis
+      São Paulo (3) ______. Dann (4) ______ ich mit dem Bus weiter. Meine Großeltern
+      (5) ______ mich am Busbahnhof abgeholt — das war eine große Überraschung! Am
+      Ende (6) ______ wir alle zusammen gefeiert."
+
+      Choose the correct option (a, b, or c) for each gap.
+    items:
+      - q: "Letzte Woche (1) ______ ich meine Großeltern in Blumenau besucht."
+        options:
+          - { key: a, text: "bin" }
+          - { key: b, text: "habe" }
+          - { key: c, text: "hat" }
+        answer: b
+        why: "Bruno erzählt in Perfekt: habe … besucht."
+      - q: "Zuerst (2) ______ ich mit dem Flugzeug …"
+        options:
+          - { key: a, text: "bin" }
+          - { key: b, text: "war" }
+          - { key: c, text: "habe" }
+        answer: a
+        why: "Perfekt with sein: bin … geflogen."
+      - q: "… bis São Paulo (3) ______."
+        options:
+          - { key: a, text: "geflogen" }
+          - { key: b, text: "gefliegt" }
+          - { key: c, text: "fliegen" }
+        answer: a
+        why: "Partizip II of fliegen."
+      - q: "Dann (4) ______ ich mit dem Bus weiter."
+        options:
+          - { key: a, text: "bin" }
+          - { key: b, text: "habe" }
+          - { key: c, text: "hatte" }
+        answer: a
+        why: "Perfekt with sein for bus travel: bin … weitergefahren."
+      - q: "Meine Großeltern (5) ______ mich am Busbahnhof abgeholt —"
+        options:
+          - { key: a, text: "hatten" }
+          - { key: b, text: "haben" }
+          - { key: c, text: "sind" }
+        answer: b
+        why: "meine Großeltern haben mich abgeholt."
+      - q: "Am Ende (6) ______ wir alle zusammen gefeiert."
+        options:
+          - { key: a, text: "hatten" }
+          - { key: b, text: "sind" }
+          - { key: c, text: "haben" }
+        answer: c
+        why: "wir haben alle zusammen gefeiert."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps using words from the box. **Ten words are not needed.** Each word may be used once."
+    text: |-
+      — Was hast du am Wochenende {1}?
+      — Ich {2} in die Ausstellung gegangen. {3} habe ich eine E-Mail
+        von der Galerie {4} und dann habe ich online einen Platz {5}.
+      — Und wie war es?
+      — Toll! {6} habe ich die Gemälde angeschaut, {7} bin ich in
+        das Café im Museum {8}. Leider {9} ich nicht fotografieren —
+        das war schade. Aber ich habe einen Katalog {10}.
+      — Klingt super!
+    bank: [BEKOMMEN, BEZAHLT, BIN, DANACH, DANN, DURFTE, ERLEBT, ERZÄHLT, FOTOGRAFIERT, GEGANGEN, GEKAUFT, GEMACHT, GETROFFEN, HATTE, KONNTE, MUSSTE, RESERVIERT, STUDIERT, WOLLTE, ZUERST]
+    answers:
+      "1": GEMACHT
+      "2": BIN
+      "3": DANN
+      "4": BEKOMMEN
+      "5": RESERVIERT
+      "6": ZUERST
+      "7": DANACH
+      "8": GEGANGEN
+      "9": DURFTE
+      "10": GEKAUFT
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 — Brunos Abenteuer in Blumenau"
+    instructions: 'Read „Brunos Abenteuer in Blumenau" in `lesson.md`, section 5. Richtig (R) oder Falsch (F)?'
+    items:
+      - q: "Bruno ist in Berlin geboren."
+        answer: false
+        why: "Bruno kommt aus Blumenau, Brasilien — nicht Berlin."
+      - q: "Mit siebzehn hat er begonnen, Englisch zu lernen."
+        answer: true
+        why: "Mit siebzehn hat er angefangen, Englisch zu lernen."
+      - q: "Er hat in Blumenau Deutsch studiert."
+        answer: false
+        why: "Er hat in Blumenau Englisch gelernt, nicht Deutsch studiert."
+      - q: "Der Umzug nach Deutschland war einfach für Bruno."
+        answer: false
+        why: "Er musste viel Papierkram erledigen; es war nicht einfach."
+      - q: "In Berlin hat er Anna kennengelernt."
+        answer: true
+        why: "In Berlin hat er Anna kennengelernt."
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 — Forumspost: Mia in Wien"
+    instructions: |-
+      > Hallo! Ich bin Mia, 26 Jahre alt, und ich lebe seit einem Jahr in Wien. Ich
+      > komme aus Südkorea, aus Seoul. Zuerst war es sehr schwer — ich musste viel
+      > Deutsch lernen und kannte niemanden. Dann habe ich einen Sprachkurs besucht
+      > und Leute kennengelernt. Danach wurde es viel besser. Ich habe sogar einen
+      > Job als Grafikdesignerin bekommen — das hatte ich gar nicht erwartet!
+      > Schließlich habe ich eine schöne Wohnung in der Innenstadt gefunden.
+      > Am Ende bin ich wirklich froh, dass ich nach Wien gezogen bin. Habt ihr auch
+      > ähnliche Erfahrungen gemacht?
+
+      Choose a, b, or c.
+    items:
+      - q: "Mia kommt aus …"
+        options:
+          - { key: a, text: "Japan" }
+          - { key: b, text: "Südkorea" }
+          - { key: c, text: "China" }
+        answer: b
+        why: "Ich komme aus Südkorea, aus Seoul."
+      - q: "Was war zuerst schwer für Mia?"
+        options:
+          - { key: a, text: "Die Wohnung finden" }
+          - { key: b, text: "Einen Job bekommen" }
+          - { key: c, text: "Deutsch lernen und Leute kennenlernen" }
+        answer: c
+        why: "Zuerst war es sehr schwer — ich musste viel Deutsch lernen und kannte niemanden."
+      - q: "Wie hat Mia Leute kennengelernt?"
+        options:
+          - { key: a, text: "Durch die Arbeit" }
+          - { key: b, text: "Im Sprachkurs" }
+          - { key: c, text: "Im Internet" }
+        answer: b
+        why: "Dann habe ich einen Sprachkurs besucht und Leute kennengelernt."
+      - q: "Was hat Mia nicht erwartet?"
+        options:
+          - { key: a, text: "Den Sprachkurs" }
+          - { key: b, text: "Den Job" }
+          - { key: c, text: "Die Wohnung" }
+        answer: b
+        why: "Ich habe sogar einen Job … bekommen — das hatte ich gar nicht erwartet!"
+      - q: "Wie findet Mia Wien am Ende?"
+        options:
+          - { key: a, text: "Sie bereut den Umzug." }
+          - { key: b, text: "Es ist okay, aber sie vermisst Seoul." }
+          - { key: c, text: "Sie ist froh, nach Wien gezogen zu sein." }
+        answer: c
+        why: "Am Ende bin ich wirklich froh, dass ich nach Wien gezogen bin."
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Eine tolle Reise / Ein toller Tag"
+    prompt: "Write a short story (8–10 sentences) about a trip or memorable day. Use at least **3 time connectors** (`zuerst`, `dann`, `danach`, `schließlich`, `am Ende`), at least **2 inseparable or -ieren verbs in Perfekt**, and at least **1 Präteritum modal verb**."
+    selfCheck:
+      - "Every time connector (zuerst, dann, etc.) is followed immediately by the verb in position 2, then the subject — not *Zuerst ich habe …*"
+      - "All inseparable and -ieren verbs appear without a *ge-* prefix in their Partizip II (e.g. besucht, studiert — not *gebesucht*, *gestudiert*)"
+      - "At least one modal verb appears in Präteritum form (musste / wollte / konnte / durfte / sollte), not in Perfekt (habe … müssen)"
+    model: |-
+      Letzten Samstag habe ich einen tollen Tag erlebt. Zuerst musste ich früh aufstehen — mein Freund hatte einen Ausflug geplant. Dann sind wir mit dem Zug in die Innenstadt gefahren und haben ein Stadtmuseum besucht. Es war wirklich interessant! Danach haben wir in einem kleinen Café Mittagessen gegessen und alles fotografiert. Schließlich haben wir noch einen langen Spaziergang im Park gemacht. Am Ende sind wir müde, aber sehr glücklich nach Hause gegangen. Ich wollte schon lange so einen Tag haben!
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per item. No notes."
+    text: |-
+      1. Partizip II of `besuchen`: {1}
+      2. Partizip II of `studieren`: {2}
+      3. Partizip II of `aufstehen`: {3}
+      4. Partizip II of `vergessen`: {4}
+      5. `wollen`, er-form Präteritum: er {5}
+      6. `müssen`, wir-form Präteritum: wir {6}
+      7. `können`, ich-form Präteritum: ich {7}
+      8. `dürfen`, du-form Präteritum: du {8}
+      9. Time connector meaning "finally": {9}
+      10. Time connector meaning "after that": {10}
+      11. (L11) `fahren`: Perfekt auxiliary — haben oder sein? {11}
+      12. (L11) `essen`: Partizip II? {12}
+      13. (L7) `müssen`, er-form Präsens: er {13}
+      14. (L5) `aufmachen`: Präsens, er-form: er {14}
+      15. (L11) `sein` in Präteritum: ich {15}
+    answers:
+      "1": besucht
+      "2": studiert
+      "3": aufgestanden
+      "4": vergessen
+      "5": wollte
+      "6": mussten
+      "7": konnte
+      "8": durftest
+      "9": schließlich
+      "10": danach
+      "11": sein
+      "12": gegessen
+      "13": muss
+      "14": "macht auf"
+      "15": war
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Cross out the word that doesn't fit."
+    groups:
+      - items: [zuerst, dann, danach, trotzdem]
+        odd: 3
+        why: "not a time sequencing connector — trotzdem = nevertheless (adversative connector introduced in A2/03+)"
+      - items: [studiert, reserviert, fotografiert, gefahren]
+        odd: 3
+        why: "the only Partizip II with `ge-`; the others are *-ieren* verbs with no `ge-` prefix"
+      - items: [musste, wollte, hatte, konnte]
+        odd: 2
+        why: "Präteritum of *haben*, not a modal verb; the others are all Präteritum modal forms"
+      - items: [studiert, fotografiert, telefoniert, gereist]
+        odd: 3
+        why: "the only one *without* a -iert ending; the others are all *-ieren* verbs"
+      - items: [besucht, bekommen, vergessen, aufgemacht]
+        odd: 3
+        why: "the only Partizip II of a *separable* verb (aufmachen → aufgemacht); the others are inseparable verbs"
+      - items: [aufgestanden, eingekauft, umgezogen, verstanden]
+        odd: 3
+        why: "the only inseparable verb (ver-); the others are all separable verbs"
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: Lektion 11 + Lektion 7"
+    text: |-
+      1. (L11) Perfekt mit `sein` oder `haben`: `gehen` → {1}
+      2. (L11) Partizip II: `schreiben` → {2}
+      3. (L11) Partizip II: `kommen` → {3}
+      4. (L11) war oder hatte: „Wir {4} gestern im Kino."
+      5. (L11) Perfekt: „Ich {5} nach Berlin {6} (fliegen)."
+      6. (L7) `müssen`, du-Präsens: du {7}
+      7. (L7) `wollen`, wir-Präsens: wir {8}
+      8. (L7) `dürfen`, ihr-Präsens: ihr {9}
+      9. (L7) Satzklammer: „Ich muss morgen früh {10}." (aufstehen)
+      10. (L7) Translate: "She wants to learn German." → {11}
+    answers:
+      "1": sein
+      "2": geschrieben
+      "3": gekommen
+      "4": waren
+      "5": bin
+      "6": geflogen
+      "7": musst
+      "8": wollen
+      "9": dürft
+      "10": aufstehen
+      "11": "Sie will Deutsch lernen."
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion A2/02. Below 16 → redo Block A (exercises A1–A6) and Block B2 tomorrow, then retest with D4."
+    text: |-
+      Partizip II:
+      1. besuchen → {1}   2. reservieren → {2}   3. aufstehen → {3}
+      4. vergessen → {4}   5. ankommen → {5}
+
+      Auxiliary (haben or sein):
+      6. gehen → {6}   7. essen → {7}   8. umziehen → {8}
+
+      Präteritum modals:
+      9. müssen, ich: {9}   10. wollen, er: {10}   11. können, wir: {11}
+      12. dürfen, du: {12}   13. sollen, sie (they): {13}
+
+      Time connectors — translate:
+      14. first of all → {14}   15. after that → {15}   16. finally → {16}
+
+      Sentences:
+      17. Build: [Zuerst] — wir / besuchen / das Museum → {17}
+      18. Translate: "I had to get up early." → {18}
+      19. Partizip II of `fotografieren`: {19}
+      20. Translate: "She visited her cousin." → {20}
+    answers:
+      "1": besucht
+      "2": reserviert
+      "3": aufgestanden
+      "4": vergessen
+      "5": angekommen
+      "6": sein
+      "7": haben
+      "8": sein
+      "9": musste
+      "10": wollte
+      "11": konnten
+      "12": durftest
+      "13": sollten
+      "14": zuerst
+      "15": danach
+      "16": schließlich
+      "17": "Zuerst haben wir das Museum besucht."
+      "18": "Ich musste früh aufstehen."
+      "19": fotografiert
+      "20": "Sie hat ihren Cousin besucht."
