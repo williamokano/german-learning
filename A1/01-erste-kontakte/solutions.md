@@ -12,13 +12,18 @@
 4. **b) 12** — zwölf = 12 (the irregular spelling, not *zwölfzehn*).
 5. **c) Woher** — `woher` (origin → `aus`), not `wo` (location → `in`).
 
-## Übung H2 — Dialog: Im Deutschkurs
+## Übung H2a — Dialog A (informell): Im Deutschkurs
 
 1. **F** — Anna kommt aus **Russland** (Jaroslawl), nicht aus Deutschland.
 2. **R** — „Ich wohne auch in Berlin."
 3. **F** — Bruno spricht **Portugiesisch**, Englisch und ein bisschen Deutsch.
-4. **F** — Frau Weber fragt „Woher kommen Sie, Herr Steinmeyer?" — sie fragt nach
-   der **Herkunft**, nicht nach dem Beruf.
+
+## Übung H2b — Dialog B (formell): Frau Weber und Herr Steinmeyer
+
+1. **R** — „Ich heiße Friedrich Steinmeyer."
+2. **F** — Herr Steinmeyer kommt aus **Österreich**, aus Salzburg.
+3. **F** — Frau Weber bittet Herrn Steinmeyer zu buchstabieren; er buchstabiert S-T-E-I-N-M-E-Y-E-R.
+4. **R** — „Woher kommen Sie, Herr Steinmeyer?"
 
 ## Übung H3 — Hörtext-Lückentext
 

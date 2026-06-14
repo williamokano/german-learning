@@ -151,7 +151,7 @@ alternatives list for "also fine" and `notes`/`why` for the explanation.
 (`transcript` makes `gen-exercises` emit the `<details>` + `**Ansage 1 — Transcript**`
 block that `generate_audio.py` needs — `BUILD-PIPELINE.md §1.1`.)
 
-**Per-item audio** (each question depends on its own clip — e.g. Hör-zu Aussprache-Check):
+**Per-item audio** (each question depends on a *different* clip — e.g. Hör-zu Aussprache-Check where each item is its own pronunciation exercise):
 ```yaml
 - id: H1
   block: H
@@ -187,18 +187,29 @@ learner back to `lesson.md` for audio they need to answer a question.
 
 ### `true-false` — Richtig/Falsch
 
-**Shared clip** (all items about the same dialog):
+**One exercise per audio clip** (all items about the same dialog — split by clip if a block has multiple dialogs):
 ```yaml
-- id: H2
+- id: H2a
   block: H
   type: true-false
-  title: "Dialog: Im Deutschkurs"
+  title: "Dialog A (informell): Im Deutschkurs"
   audio: dialog1_a.mp3          # one player above all items
   instructions: "Richtig (R) oder Falsch (F)?"
   items:
     - { q: "Anna kommt aus Russland.", answer: true,  why: "aus Jaroslawl." }
-    - { q: "Bruno wohnt in München.",  answer: false, why: "Bruno wohnt in Berlin." }
+    - { q: "Bruno wohnt in Berlin.",   answer: true,  why: '"Ich wohne auch in Berlin."' }
+
+- id: H2b
+  block: H
+  type: true-false
+  title: "Dialog B (formell): Frau Weber und Herr Steinmeyer"
+  audio: dialog1_b.mp3
+  instructions: "Richtig (R) oder Falsch (F)?"
+  items:
+    - { q: "Herr Steinmeyer kommt aus Österreich.", answer: true, why: "aus Salzburg." }
+    - { q: "Frau Weber buchstabiert ihren Namen.",  answer: false, why: "Herr Steinmeyer buchstabiert." }
 ```
+**Rule: one exercise per audio clip.** Never mix questions from different clips into one exercise — the learner needs to know exactly what to play for each set of questions.
 
 **Per-item clip** (each statement refers to a different clip — same `audio` key as SingleChoice):
 ```yaml

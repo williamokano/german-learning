@@ -25,16 +25,26 @@ and pick the matching answer.
 5. Hör zu 3 (W-Fragewörter) — which question word asks for the origin?
    a) Wo  b) Wer  c) Woher
 
-## Übung H2 — Dialog: Im Deutschkurs
+## Übung H2a — Dialog A (informell): Im Deutschkurs
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Anna kommt aus Deutschland. ( )
 2. Bruno wohnt in Berlin. ( )
 3. Bruno spricht nur Englisch. ( )
-4. Im formalen Dialog fragt Frau Weber nach Herrn Okonos Beruf. ( )
+
+## Übung H2b — Dialog B (formell): Frau Weber und Herr Steinmeyer
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?
+
+1. Herr Steinmeyer heißt Friedrich. ( )
+2. Herr Steinmeyer kommt aus Deutschland. ( )
+3. Frau Weber buchstabiert ihren eigenen Namen. ( )
+4. Frau Weber fragt nach Herrn Steinmeyers Herkunft. ( )
 
 ## Übung H3 — Hörtext-Lückentext
 

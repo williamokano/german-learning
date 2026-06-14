@@ -57,10 +57,10 @@ exercises:
         answer: c
         why: "woher (Herkunft → aus), wo (Ort → in)."
 
-  - id: H2
+  - id: H2a
     block: H
     type: true-false
-    title: "Dialog: Im Deutschkurs"
+    title: "Dialog A (informell) — Im Deutschkurs"
     instructions: "Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?"
     audio: dialog1_a.mp3
     items:
@@ -69,13 +69,30 @@ exercises:
         why: "Anna kommt aus Russland (Jaroslawl), nicht aus Deutschland."
       - q: "Bruno wohnt in Berlin."
         answer: true
-        why: 'Im Dialog sagt Bruno: "Ich wohne auch in Berlin."'
+        why: 'Bruno sagt: "Ich wohne auch in Berlin."'
       - q: "Bruno spricht nur Englisch."
         answer: false
         why: "Bruno spricht Portugiesisch, Englisch und ein bisschen Deutsch."
-      - q: "Frau Weber fragt nach Herrn Steinmeyers Beruf."
+
+  - id: H2b
+    block: H
+    type: true-false
+    title: "Dialog B (formell) — Frau Weber und Herr Steinmeyer"
+    instructions: "Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?"
+    audio: dialog1_b.mp3
+    items:
+      - q: "Herr Steinmeyer heißt Friedrich."
+        answer: true
+        why: 'Er sagt: "Ich heiße Friedrich Steinmeyer."'
+      - q: "Herr Steinmeyer kommt aus Deutschland."
         answer: false
-        why: 'Frau Weber fragt "Woher kommen Sie?" — nach der Herkunft, nicht nach dem Beruf.'
+        why: "Er kommt aus Österreich, aus Salzburg."
+      - q: "Frau Weber buchstabiert ihren eigenen Namen."
+        answer: false
+        why: 'Frau Weber bittet Herrn Steinmeyer: "Buchstabieren Sie bitte." Er buchstabiert S-T-E-I-N-M-E-Y-E-R.'
+      - q: "Frau Weber fragt nach Herrn Steinmeyers Herkunft."
+        answer: true
+        why: 'Frau Weber fragt: "Woher kommen Sie, Herr Steinmeyer?"'
 
   - id: H3
     block: H
