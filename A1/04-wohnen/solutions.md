@@ -206,6 +206,18 @@ but it's not expected yet.
 7. Wie findest du die Lampe? — Ich finde sie hässlich.
 8. Ist die Wohnung noch frei?
 
+## B9 — Meine Wohnung (model answer)
+
+> Meine Wohnung hat drei Zimmer: ein Wohnzimmer, ein Schlafzimmer
+> und eine kleine Küche. Das Wohnzimmer gefällt mir sehr — es ist
+> hell und gemütlich. Es gibt auch einen kleinen Balkon und einen
+> Aufzug im Haus. Die Wohnung ist 65 Quadratmeter groß und die
+> Miete ist 750 Euro.
+
+*(A correct answer: ≥2 rooms, ≥1 es gibt sentence, ≥1 opinion
+(finden or gefallen), ≥1 size or rent phrase. Any equivalent is
+accepted.)*
+
 ---
 
 # Block C

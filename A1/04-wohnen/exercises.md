@@ -347,16 +347,22 @@ Sort the 12 words: **Möbel · Räume · Farben · Adjektive**
 7. Ist das Bad groß? (nein, klein) → ______________________
 8. Wie ist deine Wohnung? (gemütlich + ruhig) → ______________________
 
-## Übung B9 — Übersetzen (EN → DE)
+## Übung B9 — Meine Wohnung
 
-1. My flat has three rooms.
-2. There is a balcony, but no garden.
-3. The living room is big and bright.
-4. I find the kitchen too small.
-5. Do you like the sofa? (use *gefallen*)
-6. The rent is 700 euros.
-7. How do you find the lamp? — I find it ugly.
-8. Is the flat still free?
+**Situation:** Ein neuer Freund / eine neue Freundin kommt zu Besuch
+und du beschreibst deine Wohnung. Schreib **3–4 Sätze**: wie viele
+Zimmer, was du am Wohnzimmer magst, und was es noch gibt.
+
+Use:
+- [ ] at least **2** rooms — *das Wohnzimmer, die Küche, das Schlafzimmer, das Bad, der Flur, der Balkon*
+- [ ] at least **1** `es gibt` sentence — *Es gibt einen Garten / einen Aufzug / eine Waschmaschine.*
+- [ ] at least **1** opinion with `finden` or `gefallen` — *Ich finde die Wohnung schön. / Das Wohnzimmer gefällt mir.*
+- [ ] at least **1** size or rent phrase — *… Quadratmeter, … Euro Miete*
+
+**Self-check before moving on:**
+- [ ] Did I use the correct **der/die/das** for each room?
+- [ ] Did I use `gibt es` (not `gibt`) — `es gibt …` always needs `es`?
+- [ ] For `gefallen`: is the **thing I like the subject** (*Die Wohnung gefällt mir* — not *Mir gefällt die Wohnung*)?
 
 ---
 
