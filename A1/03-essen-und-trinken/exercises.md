@@ -315,16 +315,22 @@ Sort the 12 words: **Obst · Gemüse · Getränke · Milchprodukte**
 7. Isst du Fleisch? (no — use kein!) → ______________________
 8. Was brauchen wir? (Eier, Milch, Brot) → ______________________
 
-## Übung B9 — Übersetzen (EN → DE)
+## Übung B9 — Im Café
 
-1. I'd like a coffee, please.
-2. What does the cheese cost?
-3. I'll take the salad and a glass of juice.
-4. Do you have eggs?
-5. I don't eat meat.
-6. The cake tastes very good.
-7. We'd like to pay, please — together.
-8. He is eating a roll and drinking a tea.
+**Situation:** Du sitzt im Café und der Kellner fragt, was du möchtest.
+Bestell in **3–4 Sätzen**: ein Getränk, etwas zu essen, und frag nach
+der Rechnung.
+
+Use:
+- [ ] a polite order with `Ich möchte …` / `Ich hätte gern …` — *Ich möchte einen Kaffee.*
+- [ ] a food item + a drink — *ein Stück Kuchen und ein Glas Saft*
+- [ ] a question about the price — *Was kostet …?*
+- [ ] a polite closing — *Stimmt so. / Vielen Dank!*
+
+**Self-check before moving on:**
+- [ ] Did I use the correct **measure word** (*ein Glas, eine Tasse, ein Stück, eine Flasche*) for drinks/food?
+- [ ] Did I use **Akkusativ** for what I order (*Ich möchte **einen** Kaffee* — not *Ich möchte **ein** Kaffee*)?
+- [ ] Did I use the correct **definite article** for *der Kaffee / die Milch / das Wasser* (m/f/n)?
 
 ---
 

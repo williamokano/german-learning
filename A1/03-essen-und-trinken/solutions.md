@@ -191,6 +191,15 @@ vegetable) 4. ~~Cola~~ (not a dairy product) 5. ~~Supermarkt~~ (not a meal)
 7. Wir möchten zahlen, bitte — zusammen.
 8. Er isst ein Brötchen und trinkt einen Tee.
 
+## B9 — Im Café (model answer)
+
+> Guten Tag! Ich möchte einen Kaffee und ein Stück Apfelkuchen,
+> bitte. Was kostet der Kuchen? Und bringen Sie mir bitte auch
+> ein Glas Wasser dazu. Vielen Dank! Stimmt so.
+
+*(A correct answer: polite order with Ich möchte/hätte gern, food +
+drink, price question, polite closing. Any equivalent is accepted.)*
+
 ---
 
 # Block C
