@@ -369,6 +369,27 @@ Answer each question in a full sentence using a reflexive verb.
 4. Was wünschst du dir für deine Gesundheit? (sich wünschen)
    → ______________________
 
+## Übung B9 — Ich fühle mich nicht gut: Chatnachricht an Anna
+
+**Chatnachricht von Anna** *(Du hast diese Nachricht gerade bekommen)*:
+> Hey! Wie geht's dir? Du warst heute nicht im Kurs. Ich mache mir
+> ein bisschen Sorgen. Melde dich mal, wenn du Zeit hast!
+> Liebe Grüße, Anna
+
+**Your task:** Antworte Anna in **4–5 Sätzen**. Erkläre ihr, wie du dich
+fühlst, was du hast, und was du dagegen machst.
+
+Use:
+- [ ] at least **1** sentence with `sich fühlen` (Akк reflexiv) — *Ich fühle mich …*
+- [ ] at least **1** sentence with a **Dativ reflexive** verb — *sich wünschen / sich vorstellen / sich die Zähne putzen / sich etwas kochen* (Dativ object!)
+- [ ] at least **1** sentence with a body part — *der Kopf, der Bauch, der Hals, der Rücken*
+- [ ] a polite closing phrase — *Gute Besserung wünsche ich dir auch! / Tschüss!*
+
+**Self-check before moving on:**
+- [ ] Did I use **Akк reflexiv** (*mich, dich, sich …*) for *sich fühlen, sich ärgern, sich freuen*?
+- [ ] Did I use **Dativ reflexiv** (*mir, dir, sich …*) for *sich wünschen, sich vorstellen* — and put a Dativ object after it?
+- [ ] Did I put the reflexive pronoun right next to the conjugated verb (or after the subject)?
+
 ---
 
 # Block C — Prüfungstraining

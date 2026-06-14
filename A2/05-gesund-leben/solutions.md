@@ -252,6 +252,17 @@ Not needed: *kalt*, *anziehen*, *erholt*
 3. Ich ärgere mich manchmal über den Lärm / über den Stress / über … (personal)
 4. Ich wünsche mir mehr Energie / mehr Schlaf / bessere Gesundheit. (personal)
 
+## B9 — Ich fühle mich nicht gut: Chatnachricht an Anna (model answer)
+
+> Hi Anna, danke der Nachfrage. Ich fühle mich heute richtig schlecht —
+> mein Kopf tut weh und ich habe Halsschmerzen. Ich habe mich heute
+> Morgen erkältet und wollte mich deshalb zu Hause ausruhen. Ich
+> wünsche mir jetzt nur eine Tasse Tee und ein bisschen Schlaf. Ich
+> hoffe, es geht dir gut! Tschüss!
+
+*(A correct reply: ≥1 `sich fühlen` (Akk reflexiv), ≥1 Dativ reflexive
+with object, ≥1 body part, polite closing. Any equivalent is accepted.)*
+
 ---
 
 # Block C — Prüfungstraining
