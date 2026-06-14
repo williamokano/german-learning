@@ -17,12 +17,17 @@ If it exits 0, commit+push. Then move to the next lesson. **Do not fan out in pa
 | A1/01 | partial (stub only, `partial: true`) | — | ✅ |
 | A1/02 | ✅ DONE | ✅ | ✅ |
 | A1/03 | ✅ DONE | ✅ | ✅ |
+| A1/04 | ✅ DONE | ✅ | ✅ |
+| A1/05 | ✅ DONE | ✅ | ✅ |
+| A1/06 | ✅ DONE | ✅ | ✅ |
+| A1/07 | ✅ DONE | ✅ | ✅ |
+| A1/08 | ✅ DONE | ✅ | ✅ |
 | A1/14 | ✅ DONE (P3 hand-authored) | ✅ | ✅ |
-| A1/04–A1/13 | ❌ | — | — |
+| A1/09–A1/13 | ❌ | — | — |
 | A2/01–A2/13 | ❌ | — | — |
 | A2/14 | ✅ DONE (P3 hand-authored) | ✅ | ✅ |
 
-**Next lesson:** A1/04-wohnen
+**Next lesson:** A1/09-einkaufen-und-kleidung
 
 ---
 
