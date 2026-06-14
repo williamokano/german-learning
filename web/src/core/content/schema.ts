@@ -204,10 +204,17 @@ export const ExerciseSet = z.object({
 });
 
 // Inferred types — used by widgets and grading engine
-export type ExerciseUnion     = z.infer<typeof Exercise>;
-export type GapTextExercise   = z.infer<typeof GapText>;
+export type ExerciseUnion        = z.infer<typeof Exercise>;
+export type GapTextExercise      = z.infer<typeof GapText>;
+export type TableFillExercise    = z.infer<typeof TableFill>;
+export type GapBankExercise      = z.infer<typeof GapBank>;
 export type SingleChoiceExercise = z.infer<typeof SingleChoice>;
-export type TrueFalseExercise = z.infer<typeof TrueFalse>;
-export type GapBankExercise   = z.infer<typeof GapBank>;
-export type ExerciseSetType   = z.infer<typeof ExerciseSet>;
-export type ExamGridType      = z.infer<typeof ExamGrid>;
+export type TrueFalseExercise    = z.infer<typeof TrueFalse>;
+export type MatchingExercise     = z.infer<typeof Matching>;
+export type CategorizeExercise   = z.infer<typeof Categorize>;
+export type OddOneOutExercise    = z.infer<typeof OddOneOut>;
+export type OrderExercise        = z.infer<typeof Order>;
+export type FreeWriteExercise    = z.infer<typeof FreeWrite>;
+export type SpeakingPromptExercise = z.infer<typeof SpeakingPrompt>;
+export type ExerciseSetType      = z.infer<typeof ExerciseSet>;
+export type ExamGridType         = z.infer<typeof ExamGrid>;

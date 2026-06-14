@@ -2,8 +2,16 @@
   import type { ItemResult } from '@core/content/types';
   import type { ExerciseUnion } from '@core/content/types';
   import GapText from './widgets/GapText.svelte';
+  import TableFill from './widgets/TableFill.svelte';
+  import GapBank from './widgets/GapBank.svelte';
   import SingleChoice from './widgets/SingleChoice.svelte';
   import TrueFalse from './widgets/TrueFalse.svelte';
+  import Matching from './widgets/Matching.svelte';
+  import Categorize from './widgets/Categorize.svelte';
+  import OddOneOut from './widgets/OddOneOut.svelte';
+  import Order from './widgets/Order.svelte';
+  import FreeWrite from './widgets/FreeWrite.svelte';
+  import SpeakingPrompt from './widgets/SpeakingPrompt.svelte';
 
   let {
     exercise,
@@ -45,12 +53,26 @@
 
   {#if exercise.type === 'gap-text'}
     <GapText bind:this={widgetRef} {exercise} {graded} {results} {lessonId} />
+  {:else if exercise.type === 'table-fill'}
+    <TableFill bind:this={widgetRef} {exercise} {graded} {results} {lessonId} />
+  {:else if exercise.type === 'gap-bank'}
+    <GapBank bind:this={widgetRef} {exercise} {graded} {results} {lessonId} />
   {:else if exercise.type === 'single-choice'}
     <SingleChoice bind:this={widgetRef} {exercise} {graded} {results} {lessonId} {audioDir} />
   {:else if exercise.type === 'true-false'}
     <TrueFalse bind:this={widgetRef} {exercise} {graded} {results} {lessonId} {audioDir} />
-  {:else}
-    <p class="not-yet"><em>Widget für „{exercise.type}" kommt in P3.</em></p>
+  {:else if exercise.type === 'matching'}
+    <Matching bind:this={widgetRef} {exercise} {graded} {results} {lessonId} />
+  {:else if exercise.type === 'categorize'}
+    <Categorize bind:this={widgetRef} {exercise} {graded} {results} {lessonId} />
+  {:else if exercise.type === 'odd-one-out'}
+    <OddOneOut bind:this={widgetRef} {exercise} {graded} {results} {lessonId} />
+  {:else if exercise.type === 'order'}
+    <Order bind:this={widgetRef} {exercise} {graded} {results} {lessonId} />
+  {:else if exercise.type === 'free-write'}
+    <FreeWrite bind:this={widgetRef} {exercise} {graded} {lessonId} />
+  {:else if exercise.type === 'speaking-prompt'}
+    <SpeakingPrompt bind:this={widgetRef} {exercise} {graded} />
   {/if}
 </section>
 
@@ -76,5 +98,4 @@
     color: #374151;
   }
   .exercise-audio { margin-bottom: 0.75rem; }
-  .not-yet { color: #6b7280; font-style: italic; }
 </style>

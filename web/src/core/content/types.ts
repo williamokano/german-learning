@@ -2,9 +2,16 @@
 export type {
   ExerciseUnion,
   GapTextExercise,
+  TableFillExercise,
+  GapBankExercise,
   SingleChoiceExercise,
   TrueFalseExercise,
-  GapBankExercise,
+  MatchingExercise,
+  CategorizeExercise,
+  OddOneOutExercise,
+  OrderExercise,
+  FreeWriteExercise,
+  SpeakingPromptExercise,
   ExerciseSetType,
   ExamGridType,
 } from './schema';
