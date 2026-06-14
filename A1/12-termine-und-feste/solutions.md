@@ -259,6 +259,16 @@ Any culturally reasonable answer is accepted. The key target is the season names
 7. Vor der Party kaufe ich Blumen. (also: Ich kaufe vor der Party Blumen.)
 8. Ich schicke dir nach dem Meeting eine Einladung. (also: Nach dem Meeting schicke ich dir eine Einladung.)
 
+## B9 — Einladung zu meiner Party (model answer)
+
+> Hallo Anna! Ich möchte dich zu meiner Geburtstagsparty einladen.
+> Sie ist am Samstag, dem siebzehnten Mai, um achtzehn Uhr bei mir
+> zu Hause in der Goethestraße 12. Ich freue mich sehr auf dich!
+> Bitte antworte mir bis Mittwoch. Liebe Grüße, [Name]
+
+*(A correct reply: ≥1 ordinal date, ≥1 time, ≥1 location phrase, friendly
+closing. Any equivalent is accepted.)*
+
 ---
 
 # Block C — Prüfungstraining

@@ -322,16 +322,22 @@ Respond to each invitation in a full sentence using the cue.
 5. „Ich habe am zehnten Geburtstag." (congratulate + wish all the best) → ______________________
 6. „Wann feiert ihr?" (Saturday, the 14th, at 8 pm) → ______________________
 
-## Übung B9 — Übersetzen (EN → DE)
+## Übung B9 — Einladung zu meiner Party
 
-1. My birthday is on the third of July.
-2. Can you come on Saturday, the twenty-first of March?
-3. I'm afraid I can't come — I already have an appointment.
-4. The party starts at eight o'clock in the evening.
-5. Happy birthday! All the best!
-6. We are celebrating in the summer.
-7. Before the party I buy flowers. (die Blumen)
-8. I'll send you an invitation after the meeting. (das Meeting)
+**Situation:** Du planst eine Geburtstagsparty. Schreib **3–4 Sätze** an
+einen Freund / eine Freundin und lade sie ein. Sag, wann die Party
+ist, wo sie stattfindet, und was du vorhast.
+
+Use:
+- [ ] at least **1** date with **ordinal number** (*am siebzehnten Mai / am dritten Juni*)
+- [ ] at least **1** time (*um sieben Uhr / um halb acht*)
+- [ ] at least **1** location phrase (*bei mir zu Hause / im Restaurant … / in der Goethestraße …*)
+- [ ] a friendly closing (*Ich freue mich auf dich! / Bis bald!*)
+
+**Self-check before moving on:**
+- [ ] Did I use the correct ordinal ending: *-ten* for most dates, *-te* only for *der erste*?
+- [ ] Did I use `am` (not `in`) for days of the week and specific dates?
+- [ ] Did I put the **verb in position 2** in every sentence?
 
 ---
 
