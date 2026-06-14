@@ -1,0 +1,994 @@
+lesson: A1/03
+title: "A1 · Lektion 3 — Übungen"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check"
+    instructions: |-
+      🎧 **Dialog A:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+      🎧 **Dialog B:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+      Listen to both dialogs and decide: richtig (R) oder falsch (F)?
+    items:
+      - { q: "Anna bestellt einen Kaffee und ein Stück Apfelkuchen.", answer: true, why: 'Anna sagt: „Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte."' }
+      - { q: "Bruno möchte Orangensaft.", answer: true, why: 'Bruno fragt nach Orangensaft und bestätigt „Ja, bitte" zum Angebot „Ein Glas Orangensaft".' }
+      - { q: "Im Supermarkt kauft Bruno Käse, Brot und Wasser.", answer: true, why: 'Bruno kauft „den Gouda, das Schwarzbrot und eine Flasche Wasser" — Käse, Brot, Wasser.' }
+      - { q: "Bruno bezahlt zusammen mit Anna.", answer: false, why: "Sie bezahlen getrennt (separately), not zusammen." }
+
+  - id: H2
+    block: H
+    type: single-choice
+    title: "Aussprache-Check"
+    instructions: "Listen to the Hör zu clips in lesson.md (Wortschatz → 🔊 Aussprache) and pick the matching answer."
+    items:
+      - q: "Hör zu 1 (Lebensmittel) — which one is a fruit?"
+        audio: hoerzu1.mp3
+        options:
+          - { key: a, text: "Brot" }
+          - { key: b, text: "Banane" }
+          - { key: c, text: "Käse" }
+        answer: b
+        why: "Banane is a fruit; Brot = bread, Käse = cheese."
+      - q: "Hör zu 1 (Lebensmittel) — which one is bread for breakfast?"
+        audio: hoerzu1.mp3
+        options:
+          - { key: a, text: "Brötchen" }
+          - { key: b, text: "Wurst" }
+          - { key: c, text: "Tomate" }
+        answer: a
+        why: "Brötchen = small bread roll, breakfast classic; Wurst = sausage, Tomate = tomato."
+      - q: "Hör zu 2 (Getränke) — which one is alcoholic?"
+        audio: hoerzu2.mp3
+        options:
+          - { key: a, text: "Kaffee" }
+          - { key: b, text: "Tee" }
+          - { key: c, text: "Bier" }
+        answer: c
+        why: "Bier is alcoholic; Kaffee and Tee are hot drinks."
+      - q: "Hör zu 3 (Verben) — 'kosten' means …"
+        audio: hoerzu3.mp3
+        options:
+          - { key: a, text: "to buy" }
+          - { key: b, text: "to cost" }
+          - { key: c, text: "to pay" }
+        answer: b
+        why: "kosten = to cost; kaufen = to buy, zahlen = to pay."
+      - q: "Hör zu 4 (Mengen) — which one is for a drink?"
+        audio: hoerzu4.mp3
+        options:
+          - { key: a, text: "Stück" }
+          - { key: b, text: "Tasse" }
+          - { key: c, text: "Kilo" }
+        answer: b
+        why: "Tasse = cup, used for coffee/tea; Stück = piece, Kilo = kilogram."
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Anna ist im Café Central. Sie hat {1} und Durst. Sie möchte einen {2} und ein Stück {3}. Der Kaffee kostet zwei Euro fünfzig, der Kuchen kostet drei Euro neunzig. Das macht {4} Euro {5}. Anna isst und trinkt gern im Café — der Kuchen {6} super!
+    bank: [Hunger, Kaffee, Apfelkuchen, sechs, vierzig, schmeckt, Durst, sieben, isst]
+    answers:
+      "1": Hunger
+      "2": Kaffee
+      "3": Apfelkuchen
+      "4": sechs
+      "5": vierzig
+      "6": schmeckt
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Angebote im Supermarkt"
+    audio: transcript_ansage1.mp3
+    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    transcript: "Achtung, eine Durchsage. Liebe Kundinnen und Kunden, heute gibt es frische Brötchen im Angebot — sechs Stück für nur zwei Euro. Auch der Käse ist heute zwanzig Prozent billiger. Obst und Gemüse sind auch heute besonders frisch. Unsere Öffnungszeiten heute: bis zwanzig Uhr. Kommen Sie bald und finden Sie unsere Angebote. Vielen Dank für Ihren Besuch."
+    items:
+      - q: "Was gibt es heute im Angebot?"
+        options:
+          - { key: a, text: "Frische Brötchen." }
+          - { key: b, text: "Frisches Brot." }
+          - { key: c, text: "Frische Kuchen." }
+        answer: a
+        why: '„heute gibt es frische Brötchen im Angebot."'
+      - q: "Wie viel kosten sechs Brötchen?"
+        options:
+          - { key: a, text: "Einen Euro." }
+          - { key: b, text: "Zwei Euro." }
+          - { key: c, text: "Drei Euro." }
+        answer: b
+        why: '„sechs Stück für nur zwei Euro."'
+      - q: "Was ist auch zwanzig Prozent billiger?"
+        options:
+          - { key: a, text: "Der Käse." }
+          - { key: b, text: "Das Obst." }
+          - { key: c, text: "Das Gemüse." }
+        answer: a
+        why: '„Auch der Käse ist heute zwanzig Prozent billiger."'
+      - q: "Bis wann hat der Supermarkt heute geöffnet?"
+        options:
+          - { key: a, text: "Bis achtzehn Uhr." }
+          - { key: b, text: "Bis neunzehn Uhr." }
+          - { key: c, text: "Bis zwanzig Uhr." }
+        answer: c
+        why: '„Unsere Öffnungszeiten heute: bis zwanzig Uhr."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "der, die oder das?"
+    text: |
+      1. {1} Apfel  2. {2} Milch  3. {3} Brot  4. {4} Käse
+      5. {5} Tomate  6. {6} Ei  7. {7} Wurst  8. {8} Saft
+      9. {9} Wasser  10. {10} Flasche  11. {11} Kuchen  12. {12} Brötchen
+    answers:
+      "1": der
+      "2": die
+      "3": das
+      "4": der
+      "5": die
+      "6": das
+      "7": die
+      "8": der
+      "9": das
+      "10": die
+      "11": der
+      "12": das
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "ein oder eine?"
+    text: |
+      1. {1} Banane  2. {2} Brötchen  3. {3} Apfel  4. {4} Flasche Wasser
+      5. {5} Ei  6. {6} Salat  7. {7} Tasse Kaffee  8. {8} Stück Kuchen
+      9. {9} Tomate  10. {10} Glas Saft
+    answers:
+      "1": eine
+      "2": ein
+      "3": ein
+      "4": eine
+      "5": ein
+      "6": ein
+      "7": eine
+      "8": ein
+      "9": eine
+      "10": ein
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "kein, keine?"
+    text: |
+      1. Das ist {1} Wein, das ist Saft.
+      2. Das ist {2} Milch, das ist Joghurt.
+      3. Das sind {3} Äpfel, das sind Tomaten.
+      4. Das ist {4} Brötchen, das ist Brot.
+      5. Das ist {5} Tee, das ist Kaffee.
+      6. Das ist {6} Wurst, das ist Schinken.
+      7. Das ist {7} Butter, das ist Käse.
+      8. Das ist {8} Wasser, das ist Cola.
+      9. Das sind {9} Nudeln, das ist Reis.
+      10. Das ist {10} Ei.
+    answers:
+      "1": kein
+      "2": keine
+      "3": keine
+      "4": kein
+      "5": kein
+      "6": keine
+      "7": keine
+      "8": kein
+      "9": keine
+      "10": kein
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "nicht oder kein/keine/keinen?"
+    instructions: "Decide: nicht negates adjectives/verbs/possessives, kein negates nouns without article."
+    text: |
+      1. Ich esse {1} Fleisch.
+      2. Der Kaffee ist {2} gut.
+      3. Ich habe {3} Durst. (der Durst!)
+      4. Das ist {4} mein Brot.
+      5. Wir haben {5} Milch.
+      6. Ich trinke {6} Bier.
+      7. Das Brötchen ist {7} frisch. (frisch = fresh)
+      8. Ich heiße {8} Anna.
+      9. Er isst {9} Brot.
+      10. Der Salat schmeckt {10} gut.
+    answers:
+      "1": kein
+      "2": nicht
+      "3": keinen
+      "4": nicht
+      "5": keine
+      "6": kein
+      "7": nicht
+      "8": nicht
+      "9": kein
+      "10": nicht
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Akkusativ maskulin: den, einen, keinen"
+    instructions: "All nouns here are masculine. The base article is in brackets."
+    text: |
+      1. Ich nehme {1} Apfel. (ein)
+      2. Wir kaufen {2} Gouda. (der)
+      3. Ich brauche {3} Zucker. (kein)
+      4. Möchtest du {4} Tee? (ein)
+      5. Sie trinkt {5} Orangensaft. (ein)
+      6. Ich esse {6} Salat. (der)
+      7. Er möchte {7} Kuchen. (ein)
+      8. Wir haben {8} Wein. (kein)
+      9. Ich kaufe {9} Fisch. (der)
+      10. Brauchst du {10} Joghurt? (ein)
+    answers:
+      "1": einen
+      "2": den
+      "3": keinen
+      "4": einen
+      "5": einen
+      "6": den
+      "7": einen
+      "8": keinen
+      "9": den
+      "10": einen
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`möchten`: Konjugation und Sätze"
+    text: |
+      1. ich {1} · du {2} · er/sie/es {3} · wir {4} · ihr {5} · sie/Sie {6}
+      2. Ich {7} einen Tee.
+      3. {8} du ein Brötchen?
+      4. Er {9} zahlen.
+      5. Was {10} ihr?
+    answers:
+      "1": möchte
+      "2": möchtest
+      "3": möchte
+      "4": möchten
+      "5": möchtet
+      "6": möchten
+      "7": möchte
+      "8": Möchtest
+      "9": möchte
+      "10": möchtet
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`essen` und `nehmen` (e → i!)"
+    text: |
+      1. Ich {1} (essen) ein Müsli.
+      2. Du {2} (essen) kein Fleisch, richtig?
+      3. Was {3} (essen) ihr zum Frühstück?
+      4. Er {4} (essen) gern Pizza.
+      5. Wir {5} (essen) heute Fisch.
+      6. Ich {6} (nehmen) den Salat.
+      7. {7} (nehmen) du auch einen Kaffee?
+      8. Sie {8} (nehmen) ein Stück Kuchen. (= she)
+      9. {9} (nehmen) Sie auch eine Flasche Wasser?
+      10. Was {10} (nehmen) ihr?
+    answers:
+      "1": esse
+      "2": isst
+      "3": esst
+      "4": isst
+      "5": essen
+      "6": nehme
+      "7": Nimmst
+      "8": nimmt
+      "9": Nehmen
+      "10": nehmt
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "trinken, kaufen, brauchen, kosten"
+    text: |
+      1. Was {1} (kosten) der Käse?
+      2. Die Äpfel {2} (kosten) drei Euro.
+      3. Ich {3} (trinken) morgens Kaffee.
+      4. {4} (trinken) du Bier?
+      5. Wir {5} (kaufen) Brot und Milch.
+      6. Meine Mutter {6} (kaufen) im Supermarkt.
+      7. Ich {7} (brauchen) Zucker und Eier.
+      8. {8} (brauchen) ihr noch etwas?
+    answers:
+      "1": kostet
+      "2": kosten
+      "3": trinke
+      "4": Trinkst
+      "5": kaufen
+      "6": kauft
+      "7": brauche
+      "8": Braucht
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Plural"
+    text: |
+      der Apfel → die {1} · das Ei → die {2} · die Tomate → die {3} ·
+      das Brötchen → die {4} · die Flasche → die {5} · der Saft → die {6} ·
+      das Glas → die {7} · die Wurst → die {8} · der Kuchen → die {9} ·
+      die Kartoffel → die {10}
+    answers:
+      "1": Äpfel
+      "2": Eier
+      "3": Tomaten
+      "4": Brötchen
+      "5": Flaschen
+      "6": Säfte
+      "7": Gläser
+      "8": Würste
+      "9": Kuchen
+      "10": Kartoffeln
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Preise: write as words"
+    text: |
+      2,50 € = {1} · 0,99 € = {2} · 13,80 € = {3} · 7,20 € = {4} ·
+      1,05 € = {5} · 20,90 € = {6}
+    answers:
+      "1": zwei Euro fünfzig
+      "2": neunundneunzig Cent
+      "3": dreizehn Euro achtzig
+      "4": sieben Euro zwanzig
+      "5": ein Euro fünf
+      "6": zwanzig Euro neunzig
+
+  - id: A11
+    block: A
+    type: matching
+    title: "Mengen: match container and product"
+    left:
+      - { key: "1", text: "eine Tasse" }
+      - { key: "2", text: "ein Glas" }
+      - { key: "3", text: "eine Flasche" }
+      - { key: "4", text: "ein Stück" }
+      - { key: "5", text: "ein Kilo" }
+      - { key: "6", text: "ein Liter" }
+      - { key: "7", text: "eine Dose" }
+      - { key: "8", text: "eine Packung" }
+    right:
+      - { key: a, text: "Cola" }
+      - { key: b, text: "Kuchen" }
+      - { key: c, text: "Äpfel" }
+      - { key: d, text: "Kaffee" }
+      - { key: e, text: "Reis" }
+      - { key: f, text: "Saft" }
+      - { key: g, text: "Wasser" }
+      - { key: h, text: "Milch" }
+    answers:
+      "1": d
+      "2": f
+      "3": g
+      "4": b
+      "5": c
+      "6": h
+      "7": a
+      "8": e
+
+  - id: A12
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Akkusativ gemischt: ein/eine/einen, kein/keine/keinen"
+    text: |
+      1. Ich esse {1} Banane.
+      2. Er trinkt {2} Kaffee.
+      3. Wir kaufen {3} Brot.
+      4. Ich esse {4} Fleisch. (no meat!)
+      5. Möchtest du {5} Apfel?
+      6. Sie isst {6} Ei.
+      7. Ich habe {7} Hunger. (der Hunger!)
+      8. Wir brauchen {8} Tomaten. (no tomatoes!)
+    answers:
+      "1": eine
+      "2": einen
+      "3": ein
+      "4": kein
+      "5": einen
+      "6": ein
+      "7": keinen
+      "8": keine
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog: Im Café"
+    text: |
+      — Guten Tag! Was {1} Sie, bitte?
+      — Ich {2} einen Kaffee und {3} Stück Kuchen, bitte.
+      — Gern. Und Sie?
+      — Ich nehme {4} Tee.
+      — {5} Sie auch Orangensaft?
+      — Ja, natürlich.
+      — Dann ein {6} Orangensaft, bitte.
+      *(später)*
+      — Wir möchten {7}, bitte!
+      — Zusammen oder {8}?
+    answers:
+      "1": möchten
+      "2":
+        - möchte
+        - nehme
+      "3": ein
+      "4": einen
+      "5": Haben
+      "6": Glas
+      "7": zahlen
+      "8": getrennt
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog: Im Supermarkt"
+    text: |
+      — Entschuldigung, {1} Sie Schwarzbrot?
+      — Ja, da hinten links.
+      — Danke. Was {2} der Käse?
+      — Zwei Euro neunundneunzig.
+      — Gut, dann {3} ich den Käse.
+      — Sonst noch {4}?
+      — Ja, ich brauche noch {5} Liter Milch und eine {6} Wasser.
+      — Gern. Das {7} sechs Euro zwanzig.
+      — Hier bitte.
+      — Danke, auf {8}!
+    answers:
+      "1": haben
+      "2": kostet
+      "3":
+        - nehme
+        - kaufe
+      "4": etwas
+      "5": einen
+      "6": Flasche
+      "7": macht
+      "8": Wiedersehen
+
+  - id: B3
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler"
+    instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
+    text: |
+      1. Ich möchte {1} Kaffee. (ein → ?)
+      2. Er {2} zahlen. (möchtet → ?)
+      3. Du {3} kein Fleisch. (esst → ?)
+      4. Was {4} die Äpfel? (kostet → ?)
+      5. Ich trinke {5} Bier. (nicht → ?)
+      6. Das ist {6} Brot. (keine → ?)
+      7. Ich nehme {7} Salat. (der → ?)
+      8. Haben Sie {8} Äpfel? (ein → ?)
+      9. Er {9} ein Stück Kuchen. (nehmt → ?)
+      10. Ich habe {10} Durst. (kein → ?)
+    answers:
+      "1": einen
+      "2": möchte
+      "3": isst
+      "4": kosten
+      "5": kein
+      "6": kein
+      "7": den
+      "8": Äpfel
+      "9": nimmt
+      "10": keinen
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    left:
+      - { key: "1", text: "Was möchten Sie?" }
+      - { key: "2", text: "Zusammen oder getrennt?" }
+      - { key: "3", text: "Was kostet der Kuchen?" }
+      - { key: "4", text: "Haben Sie Eier?" }
+      - { key: "5", text: "Sonst noch etwas?" }
+      - { key: "6", text: "Schmeckt der Fisch?" }
+      - { key: "7", text: "Was isst du zum Frühstück?" }
+      - { key: "8", text: "Möchtest du Wasser?" }
+    right:
+      - { key: a, text: "Getrennt, bitte." }
+      - { key: b, text: "Ja, da vorne rechts." }
+      - { key: c, text: "Einen Tee, bitte." }
+      - { key: d, text: "Drei Euro fünfzig." }
+      - { key: e, text: "Ja, sehr gut!" }
+      - { key: f, text: "Nein, danke, das ist alles." }
+      - { key: g, text: "Ja, gern — ich habe Durst!" }
+      - { key: h, text: "Müsli mit Joghurt." }
+    answers:
+      "1": c
+      "2": a
+      "3": d
+      "4": b
+      "5": f
+      "6": e
+      "7": h
+      "8": g
+
+  - id: B5
+    block: B
+    type: order
+    title: "Satzbau"
+    items:
+      - tiles: [möchte, einen, ich, Kaffee]
+        answer: [2, 0, 1, 3]
+        note: "Ich möchte einen Kaffee."
+      - tiles: [du, was, isst, zum, Frühstück, "?"]
+        answer: [1, 2, 0, 3, 4, 5]
+        note: "Was isst du zum Frühstück?"
+      - tiles: [kein, esse, Fleisch, ich]
+        answer: [3, 1, 0, 2]
+        note: "Ich esse kein Fleisch."
+      - tiles: [der, was, kostet, Käse, "?"]
+        answer: [1, 2, 0, 3, 4]
+        note: "Was kostet der Käse?"
+      - tiles: [nehmen, "ein Stück", wir, Kuchen]
+        answer: [2, 0, 1, 3]
+        note: "Wir nehmen ein Stück Kuchen."
+      - tiles: [Sie, haben, Orangensaft, "?"]
+        answer: [1, 0, 2, 3]
+        note: "Haben Sie Orangensaft?"
+      - tiles: [trinkt, morgens, Tee, er]
+        answer: [3, 0, 1, 2]
+        note: "Er trinkt morgens Tee."
+      - tiles: [brauchen, noch, wir, Milch]
+        answer: [2, 0, 1, 3]
+        note: "Wir brauchen noch Milch."
+      - tiles: [gut, sehr, schmeckt, "der Kuchen"]
+        answer: [3, 2, 1, 0]
+        note: "Der Kuchen schmeckt sehr gut."
+      - tiles: [möchten, zahlen, wir, bitte]
+        answer: [2, 0, 1, 3]
+        note: "Wir möchten zahlen, bitte."
+
+  - id: B6
+    block: B
+    type: categorize
+    title: "Kategorien"
+    instructions: "Sort the 12 words: Obst · Gemüse · Getränke · Milchprodukte"
+    buckets:
+      - { key: obst, label: "Obst" }
+      - { key: gemuese, label: "Gemüse" }
+      - { key: getraenke, label: "Getränke" }
+      - { key: milchprodukte, label: "Milchprodukte" }
+    tokens:
+      - { text: "Apfel", bucket: obst }
+      - { text: "Banane", bucket: obst }
+      - { text: "Orange", bucket: obst }
+      - { text: "Tomate", bucket: gemuese }
+      - { text: "Kartoffel", bucket: gemuese }
+      - { text: "Salat", bucket: gemuese }
+      - { text: "Saft", bucket: getraenke }
+      - { text: "Tee", bucket: getraenke }
+      - { text: "Wasser", bucket: getraenke }
+      - { text: "Milch", bucket: milchprodukte }
+      - { text: "Joghurt", bucket: milchprodukte }
+      - { text: "Käse", bucket: milchprodukte }
+
+  - id: B7
+    block: B
+    type: odd-one-out
+    title: "Was passt nicht?"
+    groups:
+      - items: [Apfel, Banane, Orange, Schinken]
+        odd: 3
+        why: "not fruit (Schinken = ham)"
+      - items: [Kaffee, Tee, Saft, Brot]
+        odd: 3
+        why: "not a drink (Brot = bread)"
+      - items: [Kartoffel, Tomate, Kuchen, Salat]
+        odd: 2
+        why: "not a vegetable (Kuchen = cake)"
+      - items: [Milch, Joghurt, Käse, Cola]
+        odd: 3
+        why: "not a dairy product (Cola = soda)"
+      - items: [Frühstück, Mittagessen, Abendessen, Supermarkt]
+        odd: 3
+        why: "not a meal (Supermarkt = supermarket)"
+      - items: [Flasche, Glas, Tasse, Ei]
+        odd: 3
+        why: "not a container (Ei = egg)"
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Answer with the cues"
+    prompt: "Answer each question using the cue given in brackets. Write a full sentence."
+    stimulus: |
+      1. Was möchten Sie? (Kaffee + 1 Stück Apfelkuchen)
+      2. Zusammen oder getrennt? (together)
+      3. Was isst du zum Frühstück? (Müsli + Joghurt)
+      4. Was trinkst du morgens? (Kaffee)
+      5. Haben Sie Bier? (no)
+      6. Was kostet die Schokolade? (1,99 €)
+      7. Isst du Fleisch? (no — use kein!)
+      8. Was brauchen wir? (Eier, Milch, Brot)
+    model: |
+      1. Ich möchte einen Kaffee und ein Stück Apfelkuchen(, bitte).
+      2. Zusammen, bitte.
+      3. Ich esse Müsli mit Joghurt.
+      4. Ich trinke (morgens) Kaffee.
+      5. Nein, wir haben kein Bier. / Nein, leider nicht.
+      6. Sie kostet einen Euro neunundneunzig. / Ein Euro neunundneunzig.
+      7. Nein, ich esse kein Fleisch.
+      8. Wir brauchen Eier, Milch und Brot.
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Im Café"
+    prompt: "Du sitzt im Café und der Kellner fragt, was du möchtest. Bestell in 3–4 Sätzen: ein Getränk, etwas zu essen, und frag nach der Rechnung."
+    use:
+      - "a polite order with `Ich möchte …` / `Ich hätte gern …` — *Ich möchte einen Kaffee.*"
+      - "a food item + a drink — *ein Stück Kuchen und ein Glas Saft*"
+      - "a question about the price — *Was kostet …?*"
+      - "a polite closing — *Stimmt so. / Vielen Dank!*"
+    selfCheck:
+      - "Did I use the correct measure word (*ein Glas, eine Tasse, ein Stück, eine Flasche*) for drinks/food?"
+      - "Did I use Akkusativ for what I order (*Ich möchte **einen** Kaffee* — not *Ich möchte **ein** Kaffee*)?"
+      - "Did I use the correct definite article for *der Kaffee / die Milch / das Wasser* (m/f/n)?"
+    model: |
+      Guten Tag! Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte.
+      Was kostet der Kuchen? Und bringen Sie mir bitte auch ein Glas
+      Wasser dazu. Vielen Dank! Stimmt so.
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-bank
+    title: "Lückentext"
+    instructions: "Fill each gap with one word from the box. Five words are not needed."
+    text: |
+      Zum Frühstück {1} ich Brot mit Käse und {2} eine Tasse Kaffee. Mein Mann isst {3} Fleisch — er isst {4} Müsli mit Joghurt und Obst. Unsere Tochter trinkt morgens {5} Glas Milch. Zum Mittagessen {6} wir oft Nudeln oder Reis mit Gemüse. Und abends? Da essen wir „Abendbrot": Brot {7} Wurst oder Käse. Am Samstag kaufe ich im Supermarkt ein: Ich {8} Kartoffeln, Eier und {9} Flasche Wein. Das {10} zusammen zwanzig Euro.
+    bank: [esse, trinke, kein, gern, ein, essen, mit, kaufe, eine, macht, trinken, Frühstück, Samstag, Flasche, Suppe]
+    answers:
+      "1": esse
+      "2": trinke
+      "3": kein
+      "4": gern
+      "5": ein
+      "6": essen
+      "7": mit
+      "8":
+        - kaufe
+        - brauche
+        - nehme
+      "9": eine
+      "10":
+        - macht
+        - kostet
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    items:
+      - q: "Ich trinke (1) ____ Kaffee."
+        options:
+          - { key: a, text: "ein" }
+          - { key: b, text: "einen" }
+          - { key: c, text: "eine" }
+        answer: b
+        why: "der Kaffee, accusative masculine → einen."
+      - q: "… und esse ein (2) ____ Apfelkuchen."
+        options:
+          - { key: a, text: "Stück" }
+          - { key: b, text: "Glas" }
+          - { key: c, text: "Tasse" }
+        answer: a
+        why: "ein Stück Apfelkuchen = a piece of apple cake."
+      - q: "Der Kuchen (3) ____ sehr gut!"
+        options:
+          - { key: a, text: "schmeckt" }
+          - { key: b, text: "isst" }
+          - { key: c, text: "kostet" }
+        answer: a
+        why: "schmeckt = tastes (good)."
+      - q: "Er kostet (4) ____ drei Euro."
+        options:
+          - { key: a, text: "nicht" }
+          - { key: b, text: "nur" }
+          - { key: c, text: "kein" }
+        answer: b
+        why: "kostet nur = costs only."
+      - q: "Das Café hat auch Frühstück: Brötchen (5) ____ Käse, Eier und Saft."
+        options:
+          - { key: a, text: "mit" }
+          - { key: b, text: "aus" }
+          - { key: c, text: "in" }
+        answer: a
+        why: "Brötchen mit Käse = rolls with cheese."
+      - q: "… — alles (6) ____ acht Euro."
+        options:
+          - { key: a, text: "zusammen" }
+          - { key: b, text: "getrennt" }
+          - { key: c, text: "macht" }
+        answer: a
+        why: "alles zusammen = all together (for 8 euros)."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
+    text: |
+      — Guten Tag! Ich {1} Äpfel und Tomaten. Was {2} ein Kilo Äpfel?
+      — Zwei Euro fünfzig.
+      — Gut, dann {3} ich zwei Kilo. Und {4} Sie auch Eier?
+      — Nein, Eier haben wir heute leider {5}. (leider = unfortunately)
+      — Schade! Dann nehme ich noch {6} Flasche Orangensaft und {7} Käse da.
+      — Gern. Sonst noch etwas?
+      — Nein, danke. Das {8} alles.
+      — Das {9} acht Euro zwanzig.
+      — Hier, {10}.
+      — Danke schön!
+    bank: [BIN, BITTE, BRAUCHE, DANKE, DEN, EINE, ESSE, HABEN, IST, KEIN, KOSTET, MACHT, NEHME, NICHT, TRINKT]
+    answers:
+      "1": BRAUCHE
+      "2": KOSTET
+      "3": NEHME
+      "4": HABEN
+      "5": NICHT
+      "6": EINE
+      "7": DEN
+      "8": IST
+      "9": MACHT
+      "10": BITTE
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 — Frühstück in Deutschland"
+    instructions: 'Read „Frühstück in Deutschland" in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    items:
+      - { q: "Die Deutschen essen zum Frühstück oft Brot oder Brötchen.", answer: true, why: "Brot und Brötchen sind klassisches deutsches Frühstück." }
+      - { q: "Müsli ist nicht populär.", answer: false, why: "Müsli ist populär." }
+      - { q: "Am Wochenende ist das Frühstück klein.", answer: false, why: "Am Wochenende ist das Frühstück groß und lang." }
+      - { q: "Das Mittagessen ist oft warm.", answer: true, why: "Mittagessen ist in Deutschland oft warm." }
+      - { q: 'Das Abendessen heißt „Abendbrot" und ist oft kalt.', answer: true, why: "Abendbrot = kaltes Abendessen." }
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 — Speisekarte"
+    instructions: |
+      Speisekarte:
+      > Frühstück „Berlin": 2 Brötchen, Butter, Käse, Marmelade, 1 Ei — 6,90 €
+      > Frühstück „Fit": Müsli mit Joghurt und Obst — 5,50 €
+      > Apfelkuchen (1 Stück) — 3,20 €
+      > Getränke: Kaffee 2,80 € · Tee 2,50 € · Orangensaft (Glas) 3,00 €
+
+      Wähle a, b oder c.
+    items:
+      - q: 'Das Frühstück „Fit" kostet …'
+        options:
+          - { key: a, text: "6,90 €" }
+          - { key: b, text: "5,50 €" }
+          - { key: c, text: "3,20 €" }
+        answer: b
+        why: "5,50 €."
+      - q: 'Im Frühstück „Berlin" ist …'
+        options:
+          - { key: a, text: "Müsli" }
+          - { key: b, text: "ein Ei" }
+          - { key: c, text: "Kuchen" }
+        answer: b
+        why: "1 Ei."
+      - q: "Ein Kaffee und ein Stück Apfelkuchen kosten zusammen …"
+        options:
+          - { key: a, text: "6,00 €" }
+          - { key: b, text: "5,70 €" }
+          - { key: c, text: "6,20 €" }
+        answer: a
+        why: "2,80 + 3,20 = 6,00."
+      - q: "Was kostet ein Glas Orangensaft?"
+        options:
+          - { key: a, text: "2,50 €" }
+          - { key: b, text: "2,80 €" }
+          - { key: c, text: "3,00 €" }
+        answer: c
+        why: "3,00 €."
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Café-Dialog"
+    prompt: "Write a café dialogue (8–10 lines): you and a friend order (one drink + one food item each), ask what something costs, then pay separately. Use the Redemittel from section 2. Model in solutions.md — write yours first."
+    use:
+      - "two people ordering — *Ich möchte … / Ich nehme …*"
+      - "ask about price — *Was kostet …?*"
+      - "pay separately — *Getrennt, bitte.*"
+    selfCheck:
+      - "einen before masculine objects (Kaffee, Tee, Kuchen)?"
+      - "verb in position 2?"
+      - "polite bitte?"
+    model: |
+      **Kellnerin:** Guten Tag! Was möchten Sie?
+      **Ich:** Ich möchte einen Kaffee und ein Käsebrötchen, bitte.
+      **Freundin:** Und ich nehme einen Tee. Haben Sie Apfelkuchen?
+      **Kellnerin:** Ja, natürlich.
+      **Freundin:** Was kostet ein Stück?
+      **Kellnerin:** Drei Euro zwanzig.
+      **Freundin:** Gut, dann nehme ich ein Stück.
+      *(später)*
+      **Ich:** Wir möchten zahlen, bitte!
+      **Kellnerin:** Zusammen oder getrennt?
+      **Ich:** Getrennt, bitte.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest (incl. L1 + L2)"
+    text: |
+      1. möchten, er-form: er {1}
+      2. essen, du-form: du {2}
+      3. „Ich nehme {3} Apfel." (ein)
+      4. nicht oder kein: „Ich trinke {4} Bier."
+      5. (L2) haben, ihr-form: ihr {5}
+      6. der/die/das: {6} Brötchen
+      7. "The bill, please!" → {7}
+      8. 0,99 € in words: {8}
+      9. (L1) „{9} Sprachen sprichst du?"
+      10. Plural: das Glas → die {10}
+      11. nehmen, er-form: er {11}
+      12. (L2) 47 in words: {12}
+      13. "Keep the change!" → {13}
+      14. „Das ist {14} Wein, das ist Saft."
+      15. (L2) her husband = {15} Mann
+    answers:
+      "1": möchte
+      "2": isst
+      "3": einen
+      "4": kein
+      "5": habt
+      "6": das
+      "7": "Die Rechnung, bitte!"
+      "8": neunundneunzig Cent
+      "9": Welche
+      "10": Gläser
+      "11": nimmt
+      "12": siebenundvierzig
+      "13": "Stimmt so!"
+      "14": kein
+      "15": ihr
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    groups:
+      - items: [Apfel, Banane, Kartoffel, Orange]
+        odd: 2
+        why: "vegetable among fruit (Kartoffel)"
+      - items: [Kaffee, Tee, Saft, Käse]
+        odd: 3
+        why: "not a drink (Käse = cheese)"
+      - items: [einen, eine, ein, nicht]
+        odd: 3
+        why: "not an article (nicht = not)"
+      - items: [esse, isst, essen, ist]
+        odd: 3
+        why: "form of sein, not essen (ist)"
+      - items: [Flasche, Dose, Packung, Frühstück]
+        odd: 3
+        why: "not packaging (Frühstück = breakfast)"
+      - items: [kaufen, kosten, zahlen, wohnen]
+        odd: 3
+        why: "not about shopping/money (wohnen = to live)"
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Wiederholung Lektion 1 + 2"
+    text: |
+      1. (L1) ich (sein) → {1}
+      2. (L2) du (haben) → {2}
+      3. (L1) „Woher {3} Sie?"
+      4. (L2) Plural: die Tochter → die {4}
+      5. (L2) his parents = {5} Eltern
+      6. (L1) 13 in words: {6}
+      7. (L2) 88 in words: {7}
+      8. (L2) Negate: „Das ist meine Cousine." → {8}
+      9. (L1) Formal: "Where do you live?" → {9}
+      10. (L2) „Wie alt {10} deine Oma?"
+    answers:
+      "1": bin
+      "2": hast
+      "3": kommen
+      "4": Töchter
+      "5": seine
+      "6": dreizehn
+      "7": achtundachtzig
+      "8": "Das ist nicht meine Cousine."
+      "9": "Wo wohnen Sie?"
+      "10": ist
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion 4. Below: redo A1–A5 + A12 tomorrow, then retest."
+    text: |
+      1. {1} Milch  2. {2} Ei  3. {3} Saft
+      4. Ich trinke {4} Saft. (ein)  5. Er isst {5} Banane. (ein)  6. Wir kaufen {6} Brot. (ein)
+      7. essen: er {7}  8. nehmen: du {8}  9. möchten: ihr {9}
+      10. „Ich esse {10} Fisch." (der Fisch!)  11. „Der Tee ist {11} heiß."
+      12. der Apfel → {12}  13. das Ei → {13}
+      14. 3,50 € in words: {14}
+      15. "a glass of juice" → {15}
+      16. möchten – wir – zahlen → {16}
+      17. du – was – isst – gern – ? → {17}
+      18. "Together or separately?" → {18}
+      19. „Haben Sie Äpfel?" — answer "no" in a full sentence: {19}
+      20. "breakfast" (with article) → {20}
+    answers:
+      "1": die
+      "2": das
+      "3": der
+      "4": einen
+      "5": eine
+      "6": ein
+      "7": isst
+      "8": nimmst
+      "9": möchtet
+      "10": keinen
+      "11": nicht
+      "12": "die Äpfel"
+      "13": "die Eier"
+      "14": "drei Euro fünfzig"
+      "15": "ein Glas Saft"
+      "16": "Wir möchten zahlen."
+      "17": "Was isst du gern?"
+      "18": "Zusammen oder getrennt?"
+      "19":
+        - "Nein, wir haben keine Äpfel."
+        - "Nein, leider nicht."
+      "20": "das Frühstück"
