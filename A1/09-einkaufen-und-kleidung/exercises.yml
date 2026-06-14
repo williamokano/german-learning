@@ -1,0 +1,1019 @@
+lesson: A1/09
+title: "A1 · Lektion 9 — Übungen"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog 1: Im Kaufhaus"
+    audio: dialog1.mp3
+    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    items:
+      - q: "Anna sucht eine rote Jacke."
+        answer: false
+        why: 'Anna sagt „Ich suche eine Jacke" (ohne Farbe). Die Verkäuferin sagt, die Jacke ist rot.'
+      - q: "Die Jacke passt Anna gut."
+        answer: true
+        why: 'Die Verkäuferin sagt: „Die Jacke steht Ihnen sehr gut! Und sie passt Ihnen perfekt."'
+      - q: "Anna findet die Jacke zu teuer und kauft sie nicht."
+        answer: false
+        why: 'Anna kauft die Jacke. Sie sagt: „Ja, ich finde sie schön. Ich nehme sie!"'
+      - q: "Die Verkäuferin sagt, die Jacke steht Anna sehr gut."
+        answer: true
+        why: 'Die Verkäuferin sagt: „Die Jacke steht Ihnen sehr gut!"'
+
+  - id: H1b
+    block: H
+    type: true-false
+    title: "Dialog 2: Im Sportgeschäft"
+    audio: dialog2.mp3
+    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    items:
+      - q: "Bruno sucht Sportschuhe."
+        answer: true
+        why: 'Bruno sagt: „Ich suche Sportschuhe."'
+      - q: "Bruno probiert die Schuhe in Größe 42 an."
+        answer: false
+        why: "Bruno probiert die Schuhe in Größe 43 an, nicht 42."
+      - q: "Die teuren Schuhe kosten neunundneunzig Euro."
+        answer: true
+        why: 'Der Verkäufer sagt: „Die kosten neunundneunzig Euro."'
+      - q: "Bruno kauft am Ende keine Schuhe."
+        answer: false
+        why: 'Bruno kauft die günstigeren Schuhe für fünfundvierzig Euro. Er sagt: „Den nehme ich!"'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill in the 5 missing words. Three words in the box are not needed."
+    text: |-
+      Bruno sucht ein {1} für seine Mutter.
+      Er geht in ein {2} und findet eine schöne Tasche.
+      Die Tasche ist aus {3} und {4} fünfundsechzig Euro.
+      Die Tasche {5} Bruno sehr — er kauft sie und bezahlt mit Karte.
+    bank: [Geschenk, Leder, Modegeschäft, Tasche, kostet, gefällt, passt, kauft]
+    answers:
+      "1": Geschenk
+      "2": Modegeschäft
+      "3": Leder
+      "4": kostet
+      "5": gefällt
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Sommerschlussverkauf im Kaufhaus"
+    audio: transcript_ansage1.mp3
+    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    transcript: "Achtung, eine Durchsage. Liebe Kundinnen und Kunden, unser Kaufhaus hat heute einen großen Sommerschlussverkauf. Alle Sommerkleider sind jetzt fünfzig Prozent günstiger. Auch die Schuhe sind zwanzig Prozent billiger. Die neuen Winterjacken sind ab heute auch da. Der Schlussverkauf gilt nur bis achtzehn Uhr und nur heute. Kommen Sie bald und finden Sie Ihr Lieblingsstück. Vielen Dank für Ihren Besuch."
+    items:
+      - q: "Was ist heute im Kaufhaus?"
+        options:
+          - { key: a, text: "Ein Sommerschlussverkauf." }
+          - { key: b, text: "Eine Modenschau." }
+          - { key: c, text: "Eine Eröffnung." }
+        answer: a
+        why: '„unser Kaufhaus hat heute einen großen Sommerschlussverkauf."'
+      - q: "Wie viel Prozent billiger sind die Sommerkleider?"
+        options:
+          - { key: a, text: "Zwanzig Prozent." }
+          - { key: b, text: "Dreißig Prozent." }
+          - { key: c, text: "Fünfzig Prozent." }
+        answer: c
+        why: '„Alle Sommerkleider sind jetzt fünfzig Prozent günstiger."'
+      - q: "Was ist auch günstiger?"
+        options:
+          - { key: a, text: "Die Mäntel." }
+          - { key: b, text: "Die Schuhe." }
+          - { key: c, text: "Die Hemden." }
+        answer: b
+        why: '„Auch die Schuhe sind zwanzig Prozent billiger."'
+      - q: "Bis wann gilt der Schlussverkauf?"
+        options:
+          - { key: a, text: "Bis heute achtzehn Uhr." }
+          - { key: b, text: "Bis morgen." }
+          - { key: c, text: "Bis nächste Woche." }
+        answer: a
+        why: '„Der Schlussverkauf gilt nur bis achtzehn Uhr und nur heute."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Dative pronouns"
+    text: |-
+      1. ich — mich — {1}  2. du — dich — {2}  3. er — ihn — {3}
+      4. sie (sg.) — sie — {4}  5. es — es — {5}  6. wir — uns — {6}
+      7. ihr — euch — {7}  8. sie (pl.) — sie — {8}  9. Sie (formal) — Sie — {9}
+    answers:
+      "1": mir
+      "2": dir
+      "3": ihm
+      "4": ihr
+      "5": ihm
+      "6": uns
+      "7": euch
+      "8": ihnen
+      "9": Ihnen
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`gefallen`: complete the sentences"
+    instructions: "Use the correct form of `gefallen` and the correct dative pronoun."
+    text: |-
+      1. Es {1} {2} (I like it).
+      2. Wir {3} {4} gut. (We like them.)
+      3. {5} dir dieser Pullover?
+      4. Die Jacke {6} ihr nicht.
+      5. {7} Ihnen diese Farbe?
+      6. Der Mantel {8} mir sehr gut.
+      7. Welche Hose {9} dir besser — die blaue oder die schwarze?
+      8. Die Stiefel {10} ihm nicht — sie sind zu teuer.
+    answers:
+      "1": gefällt
+      "2": mir
+      "3": gefallen
+      "4": uns
+      "5": Gefällt
+      "6": gefällt
+      "7": Gefällt
+      "8": gefällt
+      "9": gefällt
+      "10": gefallen
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`passen` und `stehen`: dative drill"
+    instructions: "Fill in `passt` or `steht` AND the correct dative pronoun."
+    text: |-
+      1. Die Hose {1} {2} gut. (it fits me)
+      2. Der Hut {3} {4} sehr gut! (it suits you — informal)
+      3. Die Schuhe {5} {6} nicht — sie sind zu klein. (they don't fit him)
+      4. Das Kleid {7} {8} toll. (it suits her)
+      5. Der Mantel {9} {10} nicht — er ist zu groß. (it doesn't fit us)
+      6. Diese Farbe {11} {12} gut. (this color suits you — formal)
+      7. Die Jacke {13} {14} perfekt. (it fits you — informal)
+      8. Das T-Shirt {15} {16} nicht. (it doesn't suit them)
+    answers:
+      "1": passt
+      "2": mir
+      "3": steht
+      "4": dir
+      "5": passen
+      "6": ihm
+      "7": steht
+      "8": ihr
+      "9": passt
+      "10": uns
+      "11": steht
+      "12": Ihnen
+      "13": passt
+      "14": dir
+      "15": steht
+      "16": ihnen
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`gehören` und `helfen`: dative"
+    instructions: "Fill in the correct form of the verb and the correct dative pronoun."
+    text: |-
+      1. Wem {1} diese Tasche? — Sie {2} {3} (to me).
+      2. Kann ich {4} helfen? (you — formal)
+      3. Die Krawatte {5} meinem Vater. (belongs to)
+      4. Er {6} {7} beim Einkaufen. (helps her)
+      5. {8} du {9} bitte? (help me — informal)
+      6. Dieser Schuh {10} Bruno. (belongs to)
+      7. Die Verkäuferin {11} uns gerne.
+      8. Wem {12} diese Schuhe? — Die {13} {14} (to him).
+    answers:
+      "1": gehört
+      "2": gehört
+      "3": mir
+      "4": Ihnen
+      "5": gehört
+      "6": hilft
+      "7": ihr
+      "8": Hilfst
+      "9": mir
+      "10": gehört
+      "11": hilft
+      "12": gehören
+      "13": gehören
+      "14": ihm
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`dieser/diese/dieses`: nominative and accusative"
+    instructions: "Choose the correct form of `dieser`."
+    text: |-
+      1. {1} Pullover (m) ist sehr schön. (Nom)
+      2. Ich nehme {2} Jacke (f). (Akk)
+      3. {3} Kleid (n) gefällt mir. (Nom)
+      4. Haben Sie {4} Schuhe (pl) auch in Schwarz? (Akk)
+      5. {5} Mantel (m) ist zu teuer. (Nom)
+      6. Ich kaufe {6} Hut (m). (Akk)
+      7. {7} Bluse (f) passt mir nicht. (Nom)
+      8. Er trägt {8} Hemd (n). (Akk)
+    answers:
+      "1": Dieser
+      "2": diese
+      "3": Dieses
+      "4": diese
+      "5": Dieser
+      "6": diesen
+      "7": Diese
+      "8": dieses
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`welcher?/welche?/welches?`"
+    instructions: "Fill in the correct form of `welcher`."
+    text: |-
+      1. {1} Pullover gefällt dir? (m)
+      2. {2} Jacke nimmst du? (f)
+      3. {3} Hemd passt Ihnen? (n)
+      4. {4} Schuhe suchen Sie? (pl)
+      5. {5} Größe haben Sie? (f)
+      6. {6} Mantel ist günstiger? (m)
+      7. {7} Farbe gefällt dir besser? (f)
+      8. {8} Kleid kostet weniger? (n)
+    answers:
+      "1": Welcher
+      "2": Welche
+      "3": Welches
+      "4": Welche
+      "5": Welche
+      "6": Welcher
+      "7": Welche
+      "8": Welches
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`tragen` (e → ä irregular): conjugation table"
+    instructions: "`tragen` (to wear) is irregular: the vowel changes **a → ä** for `du` and `er/sie/es`."
+    text: |-
+      ich trage · du {1} · er/sie/es {2} · wir tragen · ihr tragt · sie/Sie tragen
+      3. Ich {3} heute ein neues T-Shirt.
+      4. Du {4} immer Schwarz.
+      5. Er {5} gern Jeans.
+      6. Was {6} ihr zur Party?
+      7. Die Verkäuferin {7} eine elegante Bluse.
+      8. Wir {8} heute Sportkleidung.
+    answers:
+      "1": trägst
+      "2": trägt
+      "3": trage
+      "4": trägst
+      "5": trägt
+      "6": tragt
+      "7": trägt
+      "8": tragen
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Kleidung + Artikel: der, die oder das?"
+    instructions: "Write the article and the plural."
+    text: |-
+      1. {1} Jacke, {2}  2. {3} Pullover, {4}  3. {5} Kleid, {6}  4. {7} Schuh, {8}  5. {9} Hose, {10}
+      6. {11} Hemd, {12}  7. {13} Mantel, {14}  8. {15} Rock, {16}  9. {17} Bluse, {18}  10. {19} Stiefel, {20}
+    answers:
+      "1": die
+      "2": "-n"
+      "3": der
+      "4": "-"
+      "5": das
+      "6": "-er"
+      "7": der
+      "8": "-e"
+      "9": die
+      "10": "-n"
+      "11": das
+      "12": "-en"
+      "13": der
+      "14": "–"
+      "15": der
+      "16": "-e"
+      "17": die
+      "18": "-n"
+      "19": der
+      "20": "-"
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Separable verbs: `anprobieren` und `einpacken`"
+    instructions: "Rewrite with the correct verb position. Remember: the prefix goes to the END."
+    text: |-
+      1. Ich möchte diese Jacke {1}. (anprobieren)
+      2. Darf ich den Mantel {2}? (anprobieren)
+      3. Soll ich es {3}? (einpacken)
+      4. Er {4} die Schuhe {5}. (anprobieren)
+      5. Wir {6} verschiedene Kleider {7}. (anprobieren)
+      6. Die Verkäuferin {8} das Hemd {9}. (einpacken)
+    answers:
+      "1": anprobieren
+      "2": anprobieren
+      "3": einpacken
+      "4": probiert
+      "5": an
+      "6": probieren
+      "7": an
+      "8": packt
+      "9": ein
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Dative pronoun substitution"
+    instructions: "Replace the underlined phrase with the correct dative pronoun."
+    text: |-
+      1. Das Kleid gefällt {1}. (meiner Mutter)
+      2. Die Jacke passt {2} nicht. (meinem Bruder)
+      3. Der Mantel steht {3} gut. (dir und mir)
+      4. Kann ich {4} helfen? (Frau Lang)
+      5. Der Schuh gehört {5}. (dem Kind)
+      6. Das T-Shirt gefällt {6} nicht. (den Kindern)
+    answers:
+      "1": ihr
+      "2": ihm
+      "3": uns
+      "4": ihr
+      "5": ihm
+      "6": ihnen
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Translation drill: dative verbs (EN → DE)"
+    text: |-
+      1. The jacket suits me. → {1}
+      2. Do the shoes fit you? (informal) → {2}
+      3. I like this pullover. (gefallen) → {3}
+      4. The coat doesn't fit him. → {4}
+      5. Does this color suit you? (formal) → {5}
+      6. The bag belongs to her. → {6}
+      7. Can I help you? (formal) → {7}
+      8. I don't like these boots. (gefallen) → {8}
+    answers:
+      "1": "Die Jacke steht mir."
+      "2": "Passen dir die Schuhe?"
+      "3": "Dieser Pullover gefällt mir."
+      "4": "Der Mantel passt ihm nicht."
+      "5": "Steht Ihnen diese Farbe?"
+      "6": "Die Tasche gehört ihr."
+      "7": "Kann ich Ihnen helfen?"
+      "8": "Diese Stiefel gefallen mir nicht."
+
+  - id: A12
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Farben: match or fill in"
+    instructions: "Write the color in German. Then make sentences using the color as a predicative adjective."
+    text: |-
+      1. red → {1}  2. blue → {2}  3. green → {3}  4. black → {4}
+      5. white → {5}  6. yellow → {6}  7. grey → {7}  8. brown → {8}
+      9. Das Hemd ist {9} (black).
+      10. Die Hose ist {10} (blue).
+      11. Der Mantel ist {11} (grey).
+      12. Die Schuhe sind {12} (brown).
+    answers:
+      "1": rot
+      "2": blau
+      "3": grün
+      "4": schwarz
+      "5": weiß
+      "6": gelb
+      "7": grau
+      "8": braun
+      "9": schwarz
+      "10": blau
+      "11": grau
+      "12": braun
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen: Im Kaufhaus"
+    instructions: "Fill in the gaps with one word each."
+    text: |-
+      — Guten Tag! (1) {1} ich Ihnen helfen?
+      — Ja, gern. Ich (2) {2} eine Hose für die Arbeit.
+      — Welche (3) {3} haben Sie?
+      — Ich glaube, Größe 40. Darf ich (4) {4} anprobieren?
+      — Natürlich! Die (5) {5} ist dort drüben.
+      *(nach dem Anprobieren)*
+      — Wie (6) {6} mir die Hose?
+      — Sie (7) {7} Ihnen sehr gut und sie (8) {8} Ihnen perfekt.
+      — Super! Und was (9) {9} die Hose?
+      — Neunundvierzig Euro.
+      — Ich (10) {10} sie!
+    answers:
+      "1": Kann
+      "2": suche
+      "3": Größe
+      "4": sie
+      "5": Umkleidekabine
+      "6": steht
+      "7": steht
+      "8": passt
+      "9": kostet
+      "10": nehme
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen: Im Schuhgeschäft"
+    text: |-
+      — Entschuldigung, ich (1) {1} Sportschuhe in Größe 39.
+      — (2) {2} Sie diese hier oder diese schwarzen?
+      — Die schwarzen, bitte. (3) {3} Sie die auch in Größe 39?
+      — Einen Moment … Ja, wir haben (4) {4} 39 noch.
+      — Super! (5) {5} ich sie anprobieren?
+      — Natürlich. Die Umkleidekabine ist dort.
+      *(nach dem Anprobieren)*
+      — Wie (6) {6} Ihnen die Schuhe? (7) {7} sie Ihnen?
+      — Ja, sie (8) {8} mir gut. Aber diese Schuhe hier (9) {9} mir besser.
+      — Das sind die braunen. Die (10) {10} zweiundsiebzig Euro.
+    answers:
+      "1": suche
+      "2": Möchten
+      "3": Haben
+      "4": Größe
+      "5": Darf
+      "6": gefallen
+      "7": Passen
+      "8": passen
+      "9": gefallen
+      "10": kosten
+
+  - id: B3
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler"
+    instructions: "Each sentence has exactly one mistake. Find and correct it."
+    text: |-
+      1. Das Kleid gefällt {1} sehr. (ich → ?)
+      2. Die Schuhe {2} mir nicht. (passt → ?)
+      3. {3} Jacke nimmst du? (Welcher → ?)
+      4. Die Hose gehört {4} Schwester. (mein → ?)
+      5. Kann ich {5} helfen? (du → ?)
+      6. Das Kleid steht {6} sehr gut. (sie → ?)
+      7. {7} Schuhe ist zu groß. (Diese → ?)
+      8. Er {8} heute einen Anzug. (träg → ?)
+      9. {9} Mantel kostet weniger? (Welchen → ?)
+      10. Diese Hose gehört {10}. (mich → ?)
+    answers:
+      "1": mir
+      "2": passen
+      "3": Welche
+      "4": meiner
+      "5": dir
+      "6": ihr
+      "7": Diese
+      "8": trägt
+      "9": Welcher
+      "10": mir
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    left:
+      - { key: "1", text: "Kann ich Ihnen helfen?" }
+      - { key: "2", text: "Welche Größe haben Sie?" }
+      - { key: "3", text: "Passt Ihnen die Jacke?" }
+      - { key: "4", text: "Welche Farbe gefällt Ihnen?" }
+      - { key: "5", text: "Darf ich das anprobieren?" }
+      - { key: "6", text: "Was kostet der Pullover?" }
+      - { key: "7", text: "Soll ich es einpacken?" }
+      - { key: "8", text: "Welche Schuhe nehmen Sie?" }
+    right:
+      - { key: a, text: "Blau — das steht mir gut." }
+      - { key: b, text: "Ja, bitte — die Umkleidekabine ist dort." }
+      - { key: c, text: "Nein, danke — ich schaue nur." }
+      - { key: d, text: "Neunundvierzig Euro." }
+      - { key: e, text: "Größe 42." }
+      - { key: f, text: "Ja, sie passt perfekt!" }
+      - { key: g, text: "Diese hier — die schwarzen." }
+      - { key: h, text: "Ja, bitte!" }
+    answers:
+      "1": c
+      "2": e
+      "3": f
+      "4": a
+      "5": b
+      "6": d
+      "7": h
+      "8": g
+
+  - id: B5
+    block: B
+    type: order
+    title: "Satzbau (word order)"
+    instructions: "Build correct sentences. Watch verb position and dative pronoun placement."
+    items:
+      - tiles: [mir, gefällt, diese, Jacke, sehr]
+        answer: [2, 3, 1, 0, 4]
+        note: "Diese Jacke gefällt mir sehr."
+      - tiles: [du, welchen, nimmst, Mantel, "?"]
+        answer: [1, 3, 2, 0, 4]
+        note: "Welchen Mantel nimmst du?"
+      - tiles: [nicht, die, passt, mir, Hose]
+        answer: [1, 4, 2, 3, 0]
+        alt:
+          - [3, 2, 1, 4, 0]
+        note: '„Die Hose passt mir nicht." — alt: „Mir passt die Hose nicht."'
+      - tiles: [steht, gut, sehr, Ihnen, die, Bluse]
+        answer: [4, 5, 0, 3, 2, 1]
+        note: "Die Bluse steht Ihnen sehr gut."
+      - tiles: [helfen, kann, Ihnen, ich, "?"]
+        answer: [1, 3, 2, 0, 4]
+        note: "Kann ich Ihnen helfen?"
+      - tiles: [Schuhe, ihm, die, gefallen, nicht]
+        answer: [2, 0, 3, 1, 4]
+        note: "Die Schuhe gefallen ihm nicht."
+      - tiles: [anprobieren, ich, den, möchte, Pullover]
+        answer: [1, 3, 2, 4, 0]
+        note: "Ich möchte den Pullover anprobieren."
+      - tiles: [dieser, Hut, steht, dir, nicht]
+        answer: [0, 1, 2, 3, 4]
+        note: "Dieser Hut steht dir nicht."
+      - tiles: [kostet, was, diese, Jacke, "?"]
+        answer: [1, 0, 2, 3, 4]
+        note: "Was kostet diese Jacke?"
+      - tiles: [ihr, gehört, die, Tasche, nicht]
+        answer: [2, 3, 1, 0, 4]
+        note: "Die Tasche gehört ihr nicht."
+
+  - id: B6
+    block: B
+    type: categorize
+    title: "Kategorien: Kleidung sortieren"
+    instructions: "Sort the 12 words into four categories: Oberbekleidung · Unterbekleidung & Accessoires · Schuhe · Farben"
+    buckets:
+      - { key: ober, label: "Oberbekleidung" }
+      - { key: unter, label: "Unterbekleidung & Accessoires" }
+      - { key: schuhe, label: "Schuhe" }
+      - { key: farben, label: "Farben" }
+    tokens:
+      - { text: "Jacke", bucket: ober }
+      - { text: "Socke", bucket: unter }
+      - { text: "rot", bucket: farben }
+      - { text: "Stiefel", bucket: schuhe }
+      - { text: "Bluse", bucket: ober }
+      - { text: "Krawatte", bucket: unter }
+      - { text: "schwarz", bucket: farben }
+      - { text: "Schuh", bucket: schuhe }
+      - { text: "Pullover", bucket: ober }
+      - { text: "Hemd", bucket: ober }
+      - { text: "blau", bucket: farben }
+      - { text: "Gürtel", bucket: unter }
+
+  - id: B7
+    block: B
+    type: odd-one-out
+    title: "Was passt nicht?"
+    groups:
+      - items: [Jacke, Mantel, Pullover, Hose]
+        odd: 3
+        why: "Hose is for the legs, the other three are Oberbekleidung (upper body)."
+      - items: [rot, blau, grün, teuer]
+        odd: 3
+        why: "teuer is an adjective/price, not a color."
+      - items: [passen, stehen, gefallen, kaufen]
+        odd: 3
+        why: "kaufen is a shopping action, not a dative verb of feeling/state."
+      - items: [Größe 38, Größe 40, Größe 3, Größe 44]
+        odd: 2
+        why: "Größe 3 is not a normal adult clothing/shoe size."
+      - items: [mir, dir, ihm, welcher]
+        odd: 3
+        why: "welcher is a question word, not a dative pronoun."
+      - items: [Seide, Wolle, Baumwolle, Hemd]
+        odd: 3
+        why: "Hemd is a garment, the others are fabrics/materials."
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Answer with the cues"
+    prompt: "Answer each question using the cue given in brackets. Write a full sentence."
+    stimulus: |-
+      1. Gefällt Ihnen die rote Jacke? (yes, very much)
+      2. Passt Ihnen die Hose? (no, too small)
+      3. Welche Größe haben Sie? (size 40)
+      4. Was kostet der Pullover? (€59,00)
+      5. Haben Sie diese Bluse auch in Blau? (yes, and also in green)
+      6. Soll ich das einpacken? (yes, please)
+      7. Welcher Schuh gefällt dir besser — der schwarze oder der braune? (the brown one)
+      8. Warum kaufst du den Mantel nicht? (too expensive)
+    model: |-
+      1. Ja, sie gefällt mir sehr (gut)! / Ja, die rote Jacke gefällt mir sehr.
+      2. Nein, sie passt mir nicht — sie ist zu klein.
+      3. Ich habe Größe 40.
+      4. Der Pullover kostet neunundfünfzig Euro.
+      5. Ja, wir haben diese Bluse auch in Blau — und auch in Grün.
+      6. Ja, bitte!
+      7. Der braune gefällt mir besser. / Ich nehme den braunen.
+      8. Er ist zu teuer. / Der Mantel ist zu teuer.
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Im Kaufhaus"
+    prompt: "Du bist gerade im Kaufhaus und suchst ein Kleidungsstück. Schreib in 3–4 Sätzen an eine Verkäuferin, was du suchst und welche Größe du brauchst."
+    use:
+      - "at least 1 Kleidungsstück — *die Jacke, der Pullover, die Hose, der Mantel, das Kleid, die Schuhe …*"
+      - "at least 1 color + Größe — *in Größe 38, in Blau, in Schwarz, in 42*"
+      - "a polite request — *Könnten Sie mir … zeigen? / Haben Sie … in …? / Darf ich … anprobieren?*"
+      - "at least 1 dative verb — *passen, gefallen, stehen* — used correctly"
+    selfCheck:
+      - "Did I use the **formal `Sie`** (not `du`)? (Shopping with a Verkäuferin — formal.)"
+      - "Did I use **gefallen** with the **thing I like as subject** (*die Jacke gefällt mir*, not *mir gefällt die Jacke*)?"
+      - "Did I put the **color and size in the right case** (Akkusativ, because the thing is the direct object)?"
+    model: |-
+      Guten Tag! Ich suche einen Mantel in Größe 40, am liebsten in
+      Schwarz oder Dunkelblau. Dieser Mantel hier gefällt mir sehr —
+      darf ich ihn anprobieren? Die Schuhe dort drüben passen mir
+      leider nicht, sie sind zu eng. Könnten Sie mir noch andere
+      Jacken in Größe 38 zeigen?
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    title: "Lückentext"
+    instructions: "Fill each gap with one word."
+    text: |-
+      Anna ist im Kaufhaus. Sie sucht eine Hose für die Arbeit. Die Verkäuferin
+      fragt: „Kann ich {1} helfen?" Anna sagt: „Ja, gern. Ich {2} eine
+      Hose in Größe 40." Die Verkäuferin zeigt ihr drei Hosen. „{3} Hose
+      gefällt Ihnen?" Anna probiert die Hosen an. Eine Hose {4} ihr sehr gut
+      — sie ist nicht zu groß und nicht zu klein. Sie {5} ihr auch gut — die
+      Farbe ist perfekt. Aber die Hose kostet neunzig Euro. Anna findet das zu {6}
+      — das ist {7} viel Geld. Die Verkäuferin sagt: „Diese Hose hier {8}
+      nur fünfzig Euro." Das ist {9}! Anna ist glücklich: „Die {10} ich!"
+    answers:
+      "1": Ihnen
+      "2": suche
+      "3": Welche
+      "4": passt
+      "5": steht
+      "6": teuer
+      "7": zu
+      "8": kostet
+      "9": "preiswert"
+      "10": nehme
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    items:
+      - q: "Ich (1) ____ gern Kleidung kaufen, aber es ist nicht immer einfach."
+        options:
+          - { key: a, text: "kaufe" }
+          - { key: b, text: "kaufen" }
+          - { key: c, text: "kaufst" }
+        answer: a
+        why: "ich-Form of kaufen → kaufe."
+      - q: "Ich suche immer zuerst (2) ____ Farbe, die mir gut steht."
+        options:
+          - { key: a, text: "eine" }
+          - { key: b, text: "einen" }
+          - { key: c, text: "ein" }
+        answer: a
+        why: "die Farbe = feminine → eine."
+      - q: "Schwarz (3) ____ mir sehr gut."
+        options:
+          - { key: a, text: "stehen" }
+          - { key: b, text: "steht" }
+          - { key: c, text: "passen" }
+        answer: b
+        why: "Schwarz = singular subject → steht; the standard phrase is Schwarz steht mir."
+      - q: "Im Geschäft probiere ich viele Sachen an — das (4) ____ mir Spaß!"
+        options:
+          - { key: a, text: "macht" }
+          - { key: b, text: "mache" }
+          - { key: c, text: "machen" }
+        answer: a
+        why: "das macht mir Spaß = that's fun for me; er/es-Form → macht."
+      - q: "Manchmal (5) ____ mir der Verkäufer oder die Verkäuferin."
+        options:
+          - { key: a, text: "hilft" }
+          - { key: b, text: "helfen" }
+          - { key: c, text: "helfe" }
+        answer: a
+        why: "helfen is irregular: er/sie/es hilft (e → i)."
+      - q: 'Sie sagen: „Das (6) ____ Ihnen sehr gut!"'
+        options:
+          - { key: a, text: "steht" }
+          - { key: b, text: "stehen" }
+          - { key: c, text: "passt" }
+        answer: a
+        why: 'subject is „das" → steht (3rd person singular).'
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
+    text: |-
+      — Guten Tag! Kann ich {1} helfen?
+      — Ja, danke. Ich {2} ein Geschenk für meinen Bruder.
+      — Was {3} Ihnen besser — eine Krawatte oder ein Hemd?
+      — Ich denke, {4} Krawatte. Welche Farben gefallen {5}?
+      — Er trägt gern Blau. Hier, diese blaue Krawatte {6} nur zwanzig Euro.
+      — Schön. {7} diese Krawatte meinem Bruder? Er hat ein weißes Hemd.
+      — Ja, das Blau {8} ihm sehr gut.
+      — Gut, dann {9} ich diese Krawatte.
+      — Soll ich sie {10}?
+      — Ja, bitte!
+    bank: [DIR, EINE, EINPACKEN, GEFÄLLT, GEHÖRT, HELFEN, IHM, IHNEN, KOSTET, MIR, NEHME, PASST, SUCHE, STEHT, WELCHE]
+    answers:
+      "1": IHNEN
+      "2": SUCHE
+      "3": GEFÄLLT
+      "4": EINE
+      "5": IHM
+      "6": KOSTET
+      "7": PASST
+      "8": STEHT
+      "9": NEHME
+      "10": EINPACKEN
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 — Ein neues Outfit"
+    instructions: 'Read „Ein neues Outfit" in lesson.md, section 6. Richtig (R) oder falsch (F)?'
+    items:
+      - q: "Anna sucht ein Outfit für eine Hochzeit."
+        answer: false
+        why: "für eine Party, not a wedding."
+      - q: "Das schwarze Kleid gefällt Anna nicht."
+        answer: true
+        why: "es passt ihr gut, aber es gefällt ihr nicht."
+      - q: "Bruno sagt, Blau steht Anna gut."
+        answer: true
+        why: 'Bruno sagt: „Blau steht dir sehr gut!"'
+      - q: "Die Bluse ist sehr teuer."
+        answer: false
+        why: "neununddreißig Euro — preiswert."
+      - q: "Bruno kauft auch neue Kleidung."
+        answer: false
+        why: "Bruno kauft nichts."
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 — Anzeige Modehaus Schmidt"
+    instructions: |-
+      Anzeige:
+
+      > **MODEHAUS SCHMIDT — Sommer-Sale!**
+      > Damen-Blusen ab 19,90 € · Herren-Hemden ab 24,90 €
+      > Jeans für Damen und Herren: nur 39,90 €
+      > Sommerkleider in allen Farben: 49,90 €
+      > Kinder-T-Shirts: 9,90 €
+      > Größen: XS – XXL
+      > Geöffnet: Mo–Sa 9:00–20:00 Uhr
+
+      Wähle a, b oder c.
+    items:
+      - q: "Eine Damen-Bluse kostet mindestens …"
+        options:
+          - { key: a, text: "9,90 €" }
+          - { key: b, text: "19,90 €" }
+          - { key: c, text: "24,90 €" }
+        answer: b
+        why: '„ab" = starting from, so minimum price is 19,90 €.'
+      - q: "Jeans gibt es …"
+        options:
+          - { key: a, text: "nur für Damen" }
+          - { key: b, text: "nur für Herren" }
+          - { key: c, text: "für Damen und Herren" }
+        answer: c
+        why: "Jeans für Damen und Herren."
+      - q: "Ein Sommerkleid kostet …"
+        options:
+          - { key: a, text: "39,90 €" }
+          - { key: b, text: "49,90 €" }
+          - { key: c, text: "19,90 €" }
+        answer: b
+        why: "49,90 €."
+      - q: "Das Modehaus ist am Samstag geöffnet …"
+        options:
+          - { key: a, text: "nicht" }
+          - { key: b, text: "bis 18:00 Uhr" }
+          - { key: c, text: "bis 20:00 Uhr" }
+        answer: c
+        why: "Mo–Sa 9:00–20:00 Uhr — until 20:00 on Saturday."
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Kaufhaus-Dialog"
+    prompt: "Write a shopping dialogue (8–10 lines) between a customer and a shop assistant. Include: greeting · what you are looking for · asking to try something on · saying whether it fits/suits you · asking the price · buying or not buying. Use Redemittel from section 3. Model answer in solutions.md — write yours first."
+    selfCheck:
+      - "Did I use a dative verb correctly (gefallen/passen/stehen + dative pronoun)?"
+      - "Did I ask the price with `was kostet`?"
+      - "Did I use `dieser/diese/dieses` or a pronoun correctly?"
+      - "Verb in position 2 in every statement?"
+      - "Nouns capitalized throughout?"
+    model: |-
+      **Verkäufer:** Guten Tag! Kann ich Ihnen helfen?
+      **Kunde:** Ja, gern. Ich suche einen Pullover. Haben Sie diese Pullover in
+      Größe M?
+      **Verkäufer:** Ja, natürlich. Welche Farbe gefällt Ihnen?
+      **Kunde:** Der blaue gefällt mir sehr gut. Darf ich ihn anprobieren?
+      **Verkäufer:** Natürlich — die Umkleidekabine ist dort drüben.
+      *(nach dem Anprobieren)*
+      **Kunde:** Er passt mir perfekt und er steht mir gut. Was kostet er?
+      **Verkäufer:** Fünfundvierzig Euro.
+      **Kunde:** Super — ich nehme ihn!
+      **Verkäufer:** Soll ich ihn einpacken?
+      **Kunde:** Ja, bitte!
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest (incl. earlier lessons)"
+    text: |-
+      1. `gefallen`, er/sie/es-form: es {1}
+      2. Dative pronoun for "ich": {2}
+      3. Dative pronoun for "Sie" (formal): {3}
+      4. "Which jacket do you like?" (Nom, f): {4}
+      5. `helfen`, du-form: du {5}
+      6. (L3) Article: {6} Jacke (die Jacke → f!)
+      7. `passen`, sie/es-form: es {7}
+      8. "The bag belongs to me." → {8}
+      9. (L8) Preposition + dative: "Ich fahre {9} dem Bus." (`mit`)
+      10. `dieser`, masculine accusative: {10}
+      11. (L4) "Es {11} viele Geschäfte in der Stadt." (es gibt)
+      12. (L6) `können`, ich-form: ich {12}
+      13. "I don't like these shoes." (gefallen): {13}
+      14. (L3) Akkusativ, m: der Pullover → ich kaufe {14} Pullover
+      15. "Does the coat suit her?" → {15}
+    answers:
+      "1": gefällt
+      "2": mir
+      "3": Ihnen
+      "4": "Welche Jacke gefällt dir?"
+      "5": hilfst
+      "6": die
+      "7": passt
+      "8": "Die Tasche gehört mir."
+      "9": mit
+      "10": diesen
+      "11": gibt
+      "12": kann
+      "13": "Diese Schuhe gefallen mir nicht."
+      "14": den
+      "15": "Steht ihr der Mantel?"
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    groups:
+      - items: [Jacke, Mantel, Pullover, Socke]
+        odd: 3
+        why: "Socke is not Oberbekleidung — it's a Unterbekleidung/accessory."
+      - items: [gefallen, passen, stehen, kaufen]
+        odd: 3
+        why: "kaufen is a shopping action, not a dative verb of feeling/state."
+      - items: [mir, dir, ihm, mich]
+        odd: 3
+        why: "mich is accusative, the others are dative."
+      - items: [rot, grün, teuer, blau]
+        odd: 2
+        why: "teuer is a price adjective, not a color."
+      - items: [dieser, welcher, welche, sein]
+        odd: 3
+        why: "sein is a possessive, not a demonstrative or question word."
+      - items: [Größe 36, Größe 40, Größe 3, Größe 44]
+        odd: 2
+        why: "Größe 3 is not a normal adult clothing/shoe size."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Wiederholung Lektionen 1–8"
+    text: |-
+      1. (L1) sein, er/sie/es-form: {1}
+      2. (L2) haben, du-form: {2}
+      3. (L3) Article: {3} Brötchen (das → neuter)
+      4. (L4) Predicative adjective: „Das Zimmer ist {4}." (big)
+      5. (L5) Separable verb: „Er {5} um 7 Uhr {6}." (aufstehen)
+      6. (L6) Modal: „Ich {7} gut Deutsch sprechen." (können)
+      7. (L7) Modal: „Du {8} das machen." (müssen)
+      8. (L8) Dative preposition: „Ich gehe {9} Fuß." (zu)
+      9. (L3) kein or nicht: „Ich trinke {10} Kaffee."
+      10. (L2) Plural: die Schwester → die {11}
+    answers:
+      "1": ist
+      "2": hast
+      "3": das
+      "4": groß
+      "5": steht
+      "6": auf
+      "7": kann
+      "8": musst
+      "9": zu
+      "10": keinen
+      "11": Schwestern
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion 10. Below: redo A1–A4 + A11 tomorrow, then retest."
+    text: |-
+      Dative pronouns (write the dative form):
+      1. du → {1}  2. er → {2}  3. sie (pl.) → {3}
+      `gefallen`, `passen`, `stehen` (write the correct form):
+      4. Das Kleid {4} mir gut. (passen)
+      5. Die Schuhe {5} ihr nicht. (gefallen)
+      6. Das Blau {6} dir gut. (stehen)
+      `dieser` (correct form for the context):
+      7. {7} Pullover (m, Nom)
+      8. {8} Jacke (f, Akk)
+      9. {9} Kleid (n, Nom/Akk)
+      `welcher` (correct question form):
+      10. {10} Größe haben Sie? (f)
+      11. {11} Mantel nimmst du? (m, Akk)
+      Vocabulary:
+      12. "jacket" (with article): {12}
+      13. "to try on" (infinitive): {13}
+      14. "to belong to" (infinitive): {14}
+      Sentences (write the German):
+      15. "I like this jacket." (gefallen) → {15}
+      16. "Does the coat suit you?" (informal) → {16}
+      17. "The shoes fit me perfectly." → {17}
+      18. "Can I help you?" (formal) → {18}
+      19. `tragen`, du-form: du {19}
+      20. „Soll ich es {20}?" (einpacken)
+    answers:
+      "1": dir
+      "2": ihm
+      "3": ihnen
+      "4": passt
+      "5": gefallen
+      "6": steht
+      "7": Dieser
+      "8": Diese
+      "9": Dieses
+      "10": Welche
+      "11": Welchen
+      "12": "die Jacke"
+      "13": anprobieren
+      "14": gehören
+      "15": "Diese Jacke gefällt mir."
+      "16": "Steht dir der Mantel?"
+      "17": "Die Schuhe passen mir perfekt."
+      "18": "Kann ich Ihnen helfen?"
+      "19": trägst
+      "20": einpacken
