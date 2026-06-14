@@ -352,16 +352,24 @@ Write the question that fits the answer. Use du-form unless marked (Sie).
 6. ______________________? — Das ist meine Lehrerin, Frau Schmidt.
 7. ______________________? (Sie) — Ich komme aus Japan.
 
-## Übung B9 — Übersetzen (EN → DE)
+## Übung B9 — Stell dich vor!
 
-1. What's your name? (informal)
-2. My name is Weber. (formal)
-3. Where are you from, Mr. Lang? (formal)
-4. I live in Berlin now.
-5. She speaks French and a little German.
-6. Who is that? — That is my teacher.
-7. Are you from Brazil? (informal)
-8. We are in German course A1.
+**Situation:** Du bist im Deutschkurs und stellst dich einem neuen
+Kursmitglied vor. Schreib **3–4 Sätze** über dich selbst: dein
+Name, woher du kommst, wo du wohnst, und welche Sprachen du
+sprichst.
+
+Use:
+- [ ] a greeting + name — *Hallo! Ich heiße …*
+- [ ] at least **1** sentence with `sein` — *Ich bin … Jahre alt. / Ich bin Student.*
+- [ ] at least **1** sentence with `kommen aus` — *Ich komme aus …*
+- [ ] at least **1** sentence with `wohnen in` — *Ich wohne in … / Ich wohne jetzt in …*
+- [ ] a closing — *Freut mich! / Schön, dich kennenzulernen!*
+
+**Self-check before moving on:**
+- [ ] Did I use the correct **sein-form** for `ich` and `du`? — *ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind*
+- [ ] Did I use `aus` (not `in`) for origin (*Ich komme **aus** Berlin*) and `in` (not `aus`) for current residence (*Ich wohne **in** Berlin*)?
+- [ ] Did I keep the **verb in position 2** in every sentence?
 
 ---
 

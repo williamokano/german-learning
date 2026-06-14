@@ -203,6 +203,17 @@ is correct if marked (I).
 7. Kommst du aus Brasilien? / Bist du aus Brasilien?
 8. Wir sind im Deutschkurs A1.
 
+## B9 — Stell dich vor! (model answer)
+
+> Hallo! Ich heiße Anna. Ich komme aus Russland, aus Jaroslawl,
+> aber ich wohne jetzt in Berlin. Ich bin 24 Jahre alt und
+> studiere Medizin. Ich spreche Russisch, Englisch und ein
+> bisschen Deutsch. Schön, dich kennenzulernen!
+
+*(A correct answer: greeting + name, ≥1 sein-sentence, ≥1 kommen aus
+sentence, ≥1 wohnen in sentence, friendly closing. Any equivalent is
+accepted.)*
+
 ---
 
 # Block C — Prüfungstraining
