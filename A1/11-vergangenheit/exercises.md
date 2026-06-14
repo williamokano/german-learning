@@ -355,16 +355,21 @@ Answer in a full Perfekt sentence using the cue in brackets.
 7. Wie war das Wetter? (herrlich und warm)
 8. Hat er seine Mutter angerufen? (Ja)
 
-## Übung B9 — Übersetzen (EN → DE)
+## Übung B9 — Was hast du gestern gemacht?
 
-1. I played football yesterday.
-2. We went to the cinema on Saturday.
-3. The weather was wonderful.
-4. She slept in (for a long time).
-5. Did you (informal) go to the concert?
-6. We ate in a restaurant and drank wine.
-7. He visited his parents at the weekend.
-8. I got up at 7 o'clock.
+**Situation:** Du telefonierst mit deinem Bruder/deiner Schwester, der/die
+dich nach deinem Tag fragt. Schreib **3–4 Sätze** und erzähl, was du
+gestern alles gemacht hast.
+
+Use:
+- [ ] at least **2** sentences in **Perfekt** (*habe … gemacht* / *bin … gegangen*)
+- [ ] at least **1** time expression (*gestern, gestern Abend, am Nachmittag, am Morgen*)
+- [ ] at least **1** separable verb in Perfekt form — *aufgestanden, eingekauft, ferngesehen, angefangen …* (prefix flies to the end!)
+
+**Self-check before moving on:**
+- [ ] Did I use the correct auxiliary: **bin** for movement/change (*gehen, fahren, fliegen, kommen*) and **habe** for everything else?
+- [ ] Did I put the **participle at the end** of the sentence?
+- [ ] For separable verbs: did I put the **prefix at the very end** (*Ich habe eingekauft* — not *Ich habe gekauft ein*)?
 
 ## Übung B10 — Urlaub beschreiben
 

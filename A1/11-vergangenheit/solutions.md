@@ -274,6 +274,17 @@ Pattern: prefix + ge- + stem + t/en. The ge- goes between the prefix and the ste
 7. Er hat seine Eltern am Wochenende besucht.
 8. Ich bin um 7 Uhr aufgestanden.
 
+## B9 — Was hast du gestern gemacht? (model answer)
+
+> Hallo Maria! Gestern war ein schöner Tag. Ich bin um acht Uhr
+> aufgestanden und habe gefrühstückt. Am Nachmittag habe ich
+> eingekauft und bin dann ins Café gegangen. Abends habe ich
+> mit Freunden ferngesehen. Ich war sehr müde und bin um elf
+> Uhr schlafen gegangen. Bis bald!
+
+*(A correct answer: ≥2 Perfekt sentences, ≥1 time expression,
+≥1 separable verb in Perfekt form. Any equivalent is accepted.)*
+
 ## Übung B10 — Urlaub beschreiben (model answer)
 
 > Letzten Sommer bin ich nach Wien gefahren. Ich war fünf Tage dort. Ich habe ein
