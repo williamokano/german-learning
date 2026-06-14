@@ -1,31 +1,27 @@
 # A1 · Lektion 4 — Übungen
 
-Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
-**D** Wiederholung & Selbsttest. Answers in `solutions.md`.
-Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Answers in solutions.md. Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
 
 ---
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check
-
-### H1a — Dialog A: Die neue Wohnung
+## Übung H1a — Dialog A: Die neue Wohnung
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+Listen and decide: Richtig (R) oder Falsch (F)?
 
 1. Anna zeigt Bruno ihre neue Wohnung. ( )
 2. Die Wohnung hat vier Zimmer. ( )
 3. Es gibt einen Balkon — er ist groß. ( )
 4. Die Miete ist 850 Euro im Monat. ( )
 
-### H1b — Dialog B: Am Telefon
+## Übung H1b — Dialog B: Am Telefon
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen and decide: **Richtig (R)** oder **Falsch (F)**?
+Listen and decide: Richtig (R) oder Falsch (F)?
 
 1. Bruno fragt wegen einer Wohnungsanzeige an. ( )
 2. Die Wohnung hat drei Zimmer. ( )
@@ -36,25 +32,22 @@ Listen and decide: **Richtig (R)** oder **Falsch (F)**?
 
 Listen to the three Aussprache clips and pick the matching word.
 
-🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3) · [hoerzu2.mp3](audio/hoerzu2.mp3) · [hoerzu3.mp3](audio/hoerzu3.mp3)
-
-1. Hör zu 1 (Räume) — wo kochst du?
+1. Hör zu 1 (Räume) — wo kochst du?  
    a) das Bad  b) die Küche  c) der Flur
-2. Hör zu 1 (Räume) — wo schläfst du?
+2. Hör zu 1 (Räume) — wo schläfst du?  
    a) das Wohnzimmer  b) das Bad  c) das Schlafzimmer
-3. Hör zu 2 (Möbel) — worauf sitzt du am Tisch?
+3. Hör zu 2 (Möbel) — worauf sitzt du am Tisch?  
    a) der Stuhl  b) das Sofa  c) der Schrank
-4. Hör zu 3 (Farben) — the sky is …
+4. Hör zu 3 (Farben) — the sky is …  
    a) grün  b) blau  c) gelb
-5. Hör zu 3 (Farben) — opposite of *weiß* is …
+5. Hör zu 3 (Farben) — opposite of *weiß* is …  
    a) grau  b) schwarz  c) braun
 
 ## Übung H3 — Hörtext-Lückentext
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext (lesson.md, section 6) and fill the 6 gaps with the
-words from the bank. **Two words are not needed.**
+Listen to the Hörtext (lesson.md, section 6) and fill the 6 gaps with the words from the bank. Two words are not needed.
 
 > Anna wohnt jetzt in einer neuen Wohnung in Berlin. Die Wohnung hat
 > drei Zimmer: ein (1) ______, ein Schlafzimmer und eine kleine (2) ______.
@@ -62,34 +55,18 @@ words from the bank. **Two words are not needed.**
 > großes, braunes Sofa und ein (4) ______. Anna findet die Wohnung
 > (5) ______ — aber ein bisschen (6) ______!
 
-> Wohnzimmer · Küche · Balkon · Schreibtisch · schön · teuer · Garten · hell
+> (Wohnzimmer · Küche · Balkon · Schreibtisch · schön · teuer · Garten · hell)
 
 ## Übung H4 — Kurze Ansage: Neue Wohnung im Haus
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c).
-Höre **einmal**, bevor du das Transkript liest.
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Was gibt es im Haus?  
-   a) Ein neues Geschäft.  
-   b) Eine neue Wohnung.  
-   c) Einen Aufzug.
-
-2. Was hat die Wohnung?  
-   a) Drei Zimmer.  
-   b) Zwei Zimmer.  
-   c) Ein Zimmer.
-
-3. Was gibt es noch?  
-   a) Einen Garten.  
-   b) Eine Garage.  
-   c) Einen Balkon.
-
-4. Wann ist die Besichtigung?  
-   a) Am Samstag um elf Uhr.  
-   b) Am Sonntag um zehn Uhr.  
-   c) Am Freitag um vierzehn Uhr.
+1. Was gibt es im Haus?  a) Ein neues Geschäft.  b) Eine neue Wohnung.  c) Einen Aufzug.
+2. Was hat die Wohnung?  a) Drei Zimmer.  b) Zwei Zimmer.  c) Ein Zimmer.
+3. Was gibt es noch?  a) Einen Garten.  b) Eine Garage.  c) Einen Balkon.
+4. Wann ist die Besichtigung?  a) Am Samstag um elf Uhr.  b) Am Sonntag um zehn Uhr.  c) Am Freitag um vierzehn Uhr.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -108,9 +85,9 @@ Höre **einmal**, bevor du das Transkript liest.
 
 ## Übung A1 — der, die oder das?
 
-1. ______ Küche 2. ______ Sofa 3. ______ Balkon 4. ______ Bett
-5. ______ Lampe 6. ______ Schrank 7. ______ Bad 8. ______ Teppich
-9. ______ Tür 10. ______ Fenster 11. ______ Kühlschrank 12. ______ Regal
+1. ______ Küche  2. ______ Sofa  3. ______ Balkon  4. ______ Bett
+5. ______ Lampe  6. ______ Schrank  7. ______ Bad  8. ______ Teppich
+9. ______ Tür  10. ______ Fenster  11. ______ Kühlschrank  12. ______ Regal
 
 ## Übung A2 — Plural
 
@@ -121,7 +98,7 @@ der Teppich → die ______
 
 ## Übung A3 — `es gibt` + Akkusativ
 
-Fill in: einen, eine, ein, keinen, keine, kein.
+Fill in: einen, eine, ein, keinen, keine, kein. (✓) = the noun has an article, (✗) = no article.
 
 1. Es gibt ______ Balkon. (✓)
 2. Es gibt ______ Küche. (✓)
@@ -149,21 +126,16 @@ Fill in: einen, eine, ein, keinen, keine, kein.
 
 ## Übung A5 — Gegensätze (opposites)
 
-Match:
+Match 1–6 with their opposites (a–f), then fill in 7–10.
 
-1. groß · 2. hell · 3. neu · 4. teuer · 5. schön · 6. laut
-a) billig · b) ruhig · c) klein · d) hässlich · e) dunkel · f) alt
-
-Fill in the opposite:
-
+1. groß → ______  2. hell → ______  3. neu → ______  4. teuer → ______
+5. schön → ______  6. laut → ______
 7. Das Zimmer ist nicht hell, es ist ______.
 8. Die Wohnung ist nicht teuer, sie ist ______.
 9. Das Sofa ist nicht neu, es ist ______.
 10. Hier ist es nicht laut, es ist ______.
 
 ## Übung A6 — Which adjective fits?
-
-> gemütlich · hell · teuer · klein · neu · ruhig · groß · dunkel
 
 1. Die Wohnung kostet 1500 Euro — sie ist sehr ______.
 2. Das Wohnzimmer hat drei Fenster — es ist ______.
@@ -187,14 +159,7 @@ Fill in the opposite:
 
 ## Übung A8 — `finden`: forms
 
-Table:
-
-| ich | du | er/sie/es | wir | ihr | sie/Sie |
-|---|---|---|---|---|---|
-| ______ | ______ | ______ | ______ | ______ | ______ |
-
-Sentences:
-
+ich ______ · du ______ · er/sie/es ______ · wir ______ · ihr ______ · sie/Sie ______
 1. Wie ______ du die Wohnung?
 2. Er ______ das Sofa zu alt.
 3. Wie ______ ihr die Küche?
@@ -224,30 +189,29 @@ Sentences:
 
 ## Übung A11 — Substitution drill
 
-Rewrite with the new subject. Example: *Das Sofa ist neu. (die Stühle) →
-Die Stühle sind neu.*
+Example: Das Sofa ist neu. (die Stühle) → Die Stühle sind neu.
 
-1. Das Sofa ist neu. (die Stühle)
-2. Der Tisch ist groß. (das Bett)
-3. Die Lampe ist alt. (der Teppich)
-4. Das Zimmer ist hell. (die Zimmer)
-5. Die Küche ist klein. (das Bad)
-6. Der Schrank ist teuer. (die Möbel)
-7. Die Wohnung ist gemütlich. (das Haus)
-8. Das Fenster ist groß. (die Fenster)
+1. Das Sofa ist neu. (die Stühle) → ______
+2. Der Tisch ist groß. (das Bett) → ______
+3. Die Lampe ist alt. (der Teppich) → ______
+4. Das Zimmer ist hell. (die Zimmer) → ______
+5. Die Küche ist klein. (das Bad) → ______
+6. Der Schrank ist teuer. (die Möbel) → ______
+7. Die Wohnung ist gemütlich. (das Haus) → ______
+8. Das Fenster ist groß. (die Fenster) → ______
 
 ## Übung A12 — Build the questions
 
-Example: *du / das Sofa / finden → Wie findest du das Sofa?*
+Example: du / das Sofa / finden → Wie findest du das Sofa?
 
-1. du / die Wohnung / finden → ______________________
-2. dir / der Balkon / gefallen (yes/no) → ______________________
-3. die Wohnung / Zimmer / wie viele → ______________________
-4. es / ein Garten / geben (yes/no) → ______________________
-5. die Wohnung / was / kosten → ______________________
-6. ihr / das Bad / finden → ______________________
-7. die Wohnung / noch frei / sein (yes/no) → ______________________
-8. dir / die Möbel / gefallen (yes/no) → ______________________
+1. du / die Wohnung / finden → ______
+2. dir / der Balkon / gefallen (yes/no) → ______
+3. die Wohnung / Zimmer / wie viele → ______
+4. es / ein Garten / geben (yes/no) → ______
+5. die Wohnung / was / kosten → ______
+6. ihr / das Bad / finden → ______
+7. die Wohnung / noch frei / sein (yes/no) → ______
+8. dir / die Möbel / gefallen (yes/no) → ______
 
 ---
 
@@ -255,48 +219,47 @@ Example: *du / das Sofa / finden → Wie findest du das Sofa?*
 
 ## Übung B1 — Dialog: Die Wohnungstour
 
-— Komm rein! Das ist meine neue (1) ______.
-— Wie viele (2) ______ hat sie?
-— Drei Zimmer, eine (3) ______ und ein Bad.
-— Sehr schön! Das Sofa (4) ______ mir!
-— Danke, es ist (5) ______.
-— (6) ______ es auch einen Balkon?
-— Ja! Er ist klein, aber (7) ______.
-— Und was (8) ______ die Wohnung?
+— Komm rein! Das ist meine neue ______.
+— Wie viele ______ hat sie?
+— Drei Zimmer, eine ______ und ein Bad.
+— Sehr schön! Das Sofa ______ mir!
+— Danke, es ist ______.
+— ______ es auch einen Balkon?
+— Ja! Er ist klein, aber ______.
+— Und was ______ die Wohnung?
 — 850 Euro im Monat.
 
 ## Übung B2 — Dialog: Am Telefon
 
 — Klein.
-— Guten Tag, mein (1) ______ ist Bruno Santos. Ist die Wohnung noch
-(2) ______?
+— Guten Tag, mein ______ ist Bruno Santos. Ist die Wohnung noch ______?
 — Ja, sie ist noch frei.
-— Wie (3) ______ ist sie?
-— 65 (4) ______ — zwei Zimmer, Küche, Bad.
-— (5) ______ es einen Balkon?
-— Nein, aber es gibt (6) ______ Garten.
-— Was kostet die (7) ______?
+— Wie ______ ist sie?
+— 65 ______ — zwei Zimmer, Küche, Bad.
+— ______ es einen Balkon?
+— Nein, aber es gibt ______ Garten.
+— Was kostet die ______?
 — 700 Euro.
-— Gut. Ich möchte die Wohnung gern (8) ______.
+— Gut. Ich möchte die Wohnung gern ______.
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly **one** mistake.
+Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
 
-1. Es gibt ein Balkon.
-2. Die Wohnung gefällt ich.
-3. Ich finde der Tisch schön.
-4. Das Zimmer sind hell.
-5. Wie findest du die Sofa?
-6. Die Stühle ist neu.
-7. Gefallen dir das Bild?
-8. Die Wohnung hat nicht Balkon.
-9. Ich habe eine Tisch und vier Stühle.
-10. Du findst die Lampe schön?
+1. Es gibt ______ Balkon. (ein → ?)
+2. Die Wohnung gefällt ______. (ich → ?)
+3. Ich finde ______ Tisch schön. (der → ?)
+4. Das Zimmer ______ hell. (sind → ?)
+5. Wie findest du ______ Sofa? (die → ?)
+6. Die Stühle ______ neu. (ist → ?)
+7. ______ dir das Bild? (Gefallen → ?)
+8. Die Wohnung hat ______ Balkon. (nicht → ?)
+9. Ich habe ______ Tisch und vier Stühle. (eine → ?)
+10. Du ______ die Lampe schön? (findst → ?)
 
 ## Übung B4 — Frage und Antwort verbinden
 
-| Frage | | Antwort |
+| Links | | Rechts |
 |---|---|---|
 | 1. Wie viele Zimmer hat die Wohnung? | | a) Nein, aber einen Garten. |
 | 2. Was kostet die Miete? | | b) Ja, sie ist noch frei. |
@@ -309,23 +272,26 @@ Each sentence has exactly **one** mistake.
 
 ## Übung B5 — Satzbau
 
-1. gibt – einen – es – Balkon
-2. gefällt – die Wohnung – mir – sehr
-3. Zimmer – wie viele – die Wohnung – hat – ?
-4. finde – ich – die Küche – schön
-5. ist – hell – das Wohnzimmer – und – groß
-6. du – das Sofa – findest – wie – ?
-7. keine – es – Garage – gibt
-8. kostet – Euro – die Wohnung – 700
-9. noch – die Wohnung – frei – ist – ?
-10. mir – die Stühle – nicht – gefallen
+1. gibt – es – einen – Balkon
+2. sehr – gefällt – die Wohnung – mir
+3. Zimmer – viele – wie – ? – hat – die Wohnung
+4. ich – die Küche – schön – finde
+5. und – ist – groß – das Wohnzimmer – hell
+6. du – findest – wie – das Sofa – ?
+7. keine – gibt – Garage – es
+8. Euro – die Wohnung – 700 – kostet
+9. ist – noch – die Wohnung – frei – ?
+10. die Stühle – mir – gefallen – nicht
 
 ## Übung B6 — Kategorien
 
-Sort the 12 words: **Möbel · Räume · Farben · Adjektive**
+Sort the 12 words: Möbel · Räume · Farben · Adjektive
 
-> Sofa · Schrank · Bett · Küche · Flur · Bad · rot · grau · gelb · hell ·
-> billig · gemütlich
+> Sofa · Schrank · Bett · Küche · Flur · Bad · rot · grau · gelb · hell · billig · gemütlich
+
+| Möbel | Räume | Farben | Adjektive |
+|---|---|---|---|
+|  |  |  |  |
 
 ## Übung B7 — Was passt nicht?
 
@@ -338,31 +304,32 @@ Sort the 12 words: **Möbel · Räume · Farben · Adjektive**
 
 ## Übung B8 — Answer with the cues
 
-1. Wie viele Zimmer hat deine Wohnung? (2) → ______________________
-2. Gibt es einen Balkon? (ja, klein) → ______________________
-3. Was kostet die Wohnung? (650 €) → ______________________
-4. Wie findest du die Küche? (hell + modern) → ______________________
-5. Gefällt dir das Sofa? (ja, sehr) → ______________________
-6. Welche Farbe hat dein Bett? (weiß) → ______________________
-7. Ist das Bad groß? (nein, klein) → ______________________
-8. Wie ist deine Wohnung? (gemütlich + ruhig) → ______________________
+> 1. Wie viele Zimmer hat deine Wohnung? (2)
+2. Gibt es einen Balkon? (ja, klein)
+3. Was kostet die Wohnung? (650 €)
+4. Wie findest du die Küche? (hell + modern)
+5. Gefällt dir das Sofa? (ja, sehr)
+6. Welche Farbe hat dein Bett? (weiß)
+7. Ist das Bad groß? (nein, klein)
+8. Wie ist deine Wohnung? (gemütlich + ruhig)
+
+
+**Your task:** Answer each question using the cue given in brackets. Write a full sentence.
 
 ## Übung B9 — Meine Wohnung
 
-**Situation:** Ein neuer Freund / eine neue Freundin kommt zu Besuch
-und du beschreibst deine Wohnung. Schreib **3–4 Sätze**: wie viele
-Zimmer, was du am Wohnzimmer magst, und was es noch gibt.
+**Your task:** Ein neuer Freund / eine neue Freundin kommt zu Besuch und du beschreibst deine Wohnung. Schreib 3–4 Sätze: wie viele Zimmer, was du am Wohnzimmer magst, und was es noch gibt.
 
 Use:
-- [ ] at least **2** rooms — *das Wohnzimmer, die Küche, das Schlafzimmer, das Bad, der Flur, der Balkon*
-- [ ] at least **1** `es gibt` sentence — *Es gibt einen Garten / einen Aufzug / eine Waschmaschine.*
-- [ ] at least **1** opinion with `finden` or `gefallen` — *Ich finde die Wohnung schön. / Das Wohnzimmer gefällt mir.*
-- [ ] at least **1** size or rent phrase — *… Quadratmeter, … Euro Miete*
+- [ ] at least 2 rooms — das Wohnzimmer, die Küche, das Schlafzimmer, das Bad, der Flur, der Balkon
+- [ ] at least 1 `es gibt` sentence — Es gibt einen Garten / einen Aufzug / eine Waschmaschine.
+- [ ] at least 1 opinion with `finden` or `gefallen` — Ich finde die Wohnung schön. / Das Wohnzimmer gefällt mir.
+- [ ] at least 1 size or rent phrase — … Quadratmeter, … Euro Miete
 
-**Self-check before moving on:**
-- [ ] Did I use the correct **der/die/das** for each room?
+Self-check:
+- [ ] Did I use the correct der/die/das for each room?
 - [ ] Did I use `gibt es` (not `gibt`) — `es gibt …` always needs `es`?
-- [ ] For `gefallen`: is the **thing I like the subject** (*Die Wohnung gefällt mir* — not *Mir gefällt die Wohnung*)?
+- [ ] For `gefallen`: is the thing I like the subject (Die Wohnung gefällt mir — not Mir gefällt die Wohnung)?
 
 ---
 
@@ -370,50 +337,48 @@ Use:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with **one** word.
+Fill each gap with one word from the box. Five words are not needed.
 
-Hallo Lisa! Ich habe eine neue Wohnung! Sie (1) ______ zwei Zimmer, eine Küche
-und ein Bad. Das Wohnzimmer ist groß (2) ______ hell. Es (3) ______ auch einen
-Balkon — er ist klein, (4) ______ gemütlich. Die Küche gefällt (5) ______
-sehr: Sie ist modern und (6) ______ Kühlschrank ist neu. Das Bad ist leider
-klein und (7) ______. Die Möbel? Ich habe ein Bett, einen Tisch und vier
-(8) ______. Ich brauche noch ein Sofa und (9) ______ Lampe. Die Miete?
-600 Euro — das ist nicht (10) ______!
+> Hallo Lisa! Ich habe eine neue Wohnung! Sie (1) ______ zwei Zimmer, eine Küche
+> und ein Bad. Das Wohnzimmer ist groß (2) ______ hell. Es (3) ______ auch einen
+> Balkon — er ist klein, (4) ______ gemütlich. Die Küche gefällt (5) ______
+> sehr: Sie ist modern und (6) ______ Kühlschrank ist neu. Das Bad ist leider
+> klein und (7) ______. Die Möbel? Ich habe ein Bett, einen Tisch und vier
+> (8) ______. Ich brauche noch ein Sofa und (9) ______ Lampe. Die Miete?
+> 600 Euro — das ist nicht (10) ______!
+
+> ABER · AUCH · DER · DUNKEL · EINE · GIBT · HAT · HELL · MIR · MÖBEL · MODERN · SCHÖN · STÜHLE · TEUER · UND
+
+Five words are not needed.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Lieber Tom,
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-ich habe jetzt eine Wohnung in Hamburg! Sie ist 70 (1) ______ groß und hat
-drei Zimmer. Mein Schlafzimmer ist klein, (2) ______ das Wohnzimmer ist super:
-hell, groß, und (3) ______ Balkon ist direkt da. Die Möbel (4) ______ neu —
-nur das Sofa ist alt. Es ist grau und sehr (5) ______. Die Wohnung kostet
-900 Euro. Das ist (6) ______, aber Hamburg ist nicht billig!
-
-1. a) Euro b) Quadratmeter c) Zimmer
-2. a) aber b) und c) oder
-3. a) der b) das c) die
-4. a) ist b) sind c) seid
-5. a) gemütlich b) dunkel c) frei
-6. a) billig b) hell c) teuer
+1. Sie ist 70 (1) ______ groß und hat drei Zimmer.  a) Euro  b) Quadratmeter  c) Zimmer
+2. Mein Schlafzimmer ist klein, (2) ______ das Wohnzimmer ist super.  a) aber  b) und  c) oder
+3. hell, groß, und (3) ______ Balkon ist direkt da.  a) der  b) das  c) die
+4. Die Möbel (4) ______ neu — nur das Sofa ist alt.  a) ist  b) sind  c) seid
+5. Es ist grau und sehr (5) ______.  a) gemütlich  b) dunkel  c) frei
+6. Das ist (6) ______, aber Hamburg ist nicht billig!  a) billig  b) hell  c) teuer
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. **Five words are not needed.** Each word once.
+Fill the 10 gaps from the box. Five words are not needed. Each word once.
 
-> ABER · BAD · EINE · EINEN · ES · FINDE · GEFÄLLT · GIBT · GROSS · HAT ·
-> IST · KEINE · MIR · NEU · UND
+> Unsere Wohnung (1) ______ vier Zimmer, eine Küche und ein (2) ______. Sie ist
+> 95 Quadratmeter (3) ______. Es (4) ______ auch (5) ______ Balkon und eine
+> Garage. Das Wohnzimmer (6) ______ hell und die Küche ist ganz (7) ______.
+> Mir (8) ______ das Schlafzimmer: Es ist ruhig und gemütlich. Ich (9) ______
+> die Wohnung super — (10) ______ sie ist teuer: 1.200 Euro!
 
-Unsere Wohnung (1) ______ vier Zimmer, eine Küche und ein (2) ______. Sie ist
-95 Quadratmeter (3) ______. Es (4) ______ auch (5) ______ Balkon und eine
-Garage. Das Wohnzimmer (6) ______ hell und die Küche ist ganz (7) ______.
-Mir (8) ______ das Schlafzimmer: Es ist ruhig und gemütlich. Ich (9) ______
-die Wohnung super — (10) ______ sie ist teuer: 1.200 Euro!
+> ABER · BAD · EINE · EINEN · ES · FINDE · GEFÄLLT · GIBT · GROSS · HAT · IST · KEINE · MIR · NEU · UND
 
-## Übung C4 — Lesen
+Five words are not needed.
 
-**Text 1:** Read „Meine Wohnung in Köln” in `lesson.md`, section 5.
-Richtig (R) oder falsch (F)?
+## Übung C4a — Lesen Text 1 — Meine Wohnung in Köln
+
+Read „Meine Wohnung in Köln" in lesson.md, section 5. Richtig (R) oder falsch (F)?
 
 1. Die Wohnung von Jonas hat zwei Zimmer. ( )
 2. Jonas findet die Möbel schön. ( )
@@ -421,25 +386,38 @@ Richtig (R) oder falsch (F)?
 4. Das Bad ist hell. ( )
 5. Die Miete ist für Köln billig. ( )
 
-**Text 2 — Wohnungsanzeigen:** choose a, b, or c.
+## Übung C4b — Lesen Text 2 — Wohnungsanzeigen
 
-> **Anzeige 1:** 2-Zimmer-Wohnung in Berlin-Pankow, 55 m², Küche neu, Bad mit  
-> Fenster, Balkon. Ab sofort frei. Miete: 780 Euro. Telefon: 030 555 12 34
->
-> **Anzeige 2:** 3-Zimmer-Wohnung in Berlin-Spandau, 78 m², Garten und Garage,  
-> sehr ruhig. Miete: 950 Euro. Telefon: 030 555 98 76
+Anzeige 1: 2-Zimmer-Wohnung in Berlin-Pankow, 55 m², Küche neu, Bad mit
+Fenster, Balkon. Ab sofort frei. Miete: 780 Euro. Telefon: 030 555 12 34
 
-6. Anzeige 1: Die Wohnung hat … a) zwei Zimmer b) drei Zimmer c) einen Garten
-7. Was kostet die Wohnung in Spandau? a) 780 € b) 950 € c) 78 €
-8. Welche Wohnung hat einen Balkon? a) Anzeige 1 b) Anzeige 2 c) beide
-9. Die Wohnung in Spandau hat … a) eine Garage b) einen Balkon c) 55 m²
+Anzeige 2: 3-Zimmer-Wohnung in Berlin-Spandau, 78 m², Garten und Garage,
+sehr ruhig. Miete: 950 Euro. Telefon: 030 555 98 76
 
-## Übung C5 — Schreiben
+Wähle a, b oder c.
 
-Describe your home (6–8 sentences): how many rooms, what furniture you have
-(watch the accusative!), one or two colors, what you like (`gefällt mir`) and
-what you don't, and the rent or what you think of it (`zu teuer`?). Model in
-`solutions.md` — write yours **first**.
+
+1. Anzeige 1: Die Wohnung hat …  a) zwei Zimmer  b) drei Zimmer  c) einen Garten
+2. Was kostet die Wohnung in Spandau?  a) 780 €  b) 950 €  c) 78 €
+3. Welche Wohnung hat einen Balkon?  a) Anzeige 1  b) Anzeige 2  c) beide
+4. Die Wohnung in Spandau hat …  a) eine Garage  b) einen Balkon  c) 55 m²
+
+## Übung C5 — Schreiben: Dein Zuhause
+
+**Your task:** Describe your home (6–8 sentences): how many rooms, what furniture you have (watch the accusative!), one or two colors, what you like (gefällt mir) and what you don't, and the rent or what you think of it (zu teuer?). Model in solutions.md — write yours first.
+
+Use:
+- [ ] at least 2 rooms with correct article — das Wohnzimmer, die Küche, das Schlafzimmer, das Bad
+- [ ] at least 1 `es gibt` sentence — Es gibt einen Garten / einen Aufzug / eine Waschmaschine.
+- [ ] 1 or 2 colors — das Sofa ist grau, die Tür ist weiß
+- [ ] an opinion with `finden` or `gefallen` — Ich finde die Wohnung schön. / Das Sofa gefällt mir.
+- [ ] the rent or your opinion of it — Die Miete ist 720 Euro. / Das ist zu teuer.
+
+Self-check:
+- [ ] einen / eine / ein for accusative masculine / feminine / neuter (Es gibt einen Garten — not ein Garten)?
+- [ ] Die Wohnung gefällt mir (not Mir gefällt die Wohnung) — thing you like is subject?
+- [ ] Adjectives unchanged after `sein` (das Sofa ist grau — no ending)?
+- [ ] Verb in position 2?
 
 ---
 
@@ -456,12 +434,12 @@ what you don't, and the rent or what you think of it (`zu teuer`?). Model in
 7. (L2) Plural: das Zimmer → die ______
 8. Welche Farbe hat eine Tomate? Sie ist ______.
 9. (L1) wo oder woher: „______ wohnst du?"
-10. "the rent" → ______________________
+10. "the rent" → ______
 11. Opposite of *teuer*: ______
 12. (L3) nicht oder kein: „Es gibt ______ Garage."
 13. (L2) sein oder haben: „Die Wohnung ______ drei Zimmer."
 14. (L2) 95 in words: ______
-15. "Do you like the kitchen?" (gefallen) → ______________________
+15. "Do you like the kitchen?" (gefallen) → ______
 
 ## Übung D2 — Odd one out
 
@@ -481,34 +459,26 @@ what you don't, and the rent or what you think of it (`zu teuer`?). Model in
 5. (L2) euer oder eure: „______ Wohnung"
 6. (L1) 17 in words: ______
 7. (L3) der/die/das Brötchen: ______
-8. (L2) Negate: „Ich bin verheiratet." → ______________________
-9. (L3) "Together or separately?" → ______________________
+8. (L2) Negate: „Ich bin verheiratet." → ______
+9. (L3) "Together or separately?" → ______
 10. (L1) „______ ist das?" — Das ist Frau Weber.
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-Articles & plural:
+1. ______ Küche  2. ______ Bett  3. ______ Teppich
+4. Plural: der Stuhl → ______  5. Plural: das Bild → ______
 
-1. ______ Küche 2. ______ Bett 3. ______ Teppich
-4. Plural: der Stuhl → ______ 5. Plural: das Bild → ______
-
-es gibt & finden & gefallen:
-
-6. „Es gibt ______ Garten." (ein) 7. „Es gibt ______ Bad." (ein)
-8. finden: er ______ 9. „Wie ______ dir die Wohnung?"
+6. „Es gibt ______ Garten." (ein)  7. „Es gibt ______ Bad." (ein)
+8. finden: er ______  9. „Wie ______ dir die Wohnung?"
 10. „Die Lampen ______ mir."
 
-Adjectives & colors:
+11. neu ↔ ______  12. laut ↔ ______  13. yellow = ______  14. black = ______
 
-11. neu ↔ ______ 12. laut ↔ ______ 13. yellow = ______ 14. black = ______
-
-Sentences:
-
-15. "How many rooms does the flat have?" → ______________________
-16. gibt – einen – es – Balkon → ______________________
-17. mir – die Küche – gefällt – sehr → ______________________
+15. "How many rooms does the flat have?" → ______
+16. gibt – einen – es – Balkon → ______
+17. mir – die Küche – gefällt – sehr → ______
 18. „Ich finde ______ Sofa gemütlich."
 19. "the rent" (with article) → ______
-20. 850 in words: ______________________
+20. 850 in words: ______
 
-**Score: ____ / 20.** 16+ → Lektion 5. Below → redo A3, A4, A9 tomorrow, retest.
+_16+ / 20 → Lektion 5. Below: redo A3, A4 and A9 tomorrow, then retest._
