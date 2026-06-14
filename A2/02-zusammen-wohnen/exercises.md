@@ -1,9 +1,6 @@
-# A2 · Lektion 2 — Übungen (Exercises)
+# A2 · Lektion 2 — Übungen
 
-Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
-**D** Wiederholung & Selbsttest. Answers in `solutions.md`.
-Tip: spread the blocks over several days — H and A on day 1, B on day 2,
-C on day 3, D on day 4 after a pause.
+Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Answers in solutions.md. Tip: spread the blocks over several days — H and A on day 1, B on day 2, C on day 3, D on day 4 after a pause.
 
 ---
 
@@ -13,12 +10,12 @@ C on day 3, D on day 4 after a pause.
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: **Richtig (R)** oder **Falsch (F)**?
+Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
-1. Anna hat eine neue WG gefunden. ___
-2. Die neue WG hat drei Zimmer. ___
-3. Anna stellt den Tisch ans Fenster. ___
-4. Das Bücherregal steht zwischen dem Fenster und der Tür. ___
+1. Anna hat eine neue WG gefunden. ( )
+2. Die neue WG hat drei Zimmer. ( )
+3. Anna stellt den Tisch ans Fenster. ( )
+4. Das Bücherregal steht zwischen dem Fenster und der Tür. ( )
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
@@ -26,29 +23,16 @@ Listen to Dialog A and decide: **Richtig (R)** oder **Falsch (F)**?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Die neue Wohnung der Familie Steinmeyer befindet sich …
-   a) im Erdgeschoss   b) im dritten Stock   c) im zweiten Stock
-
-2. Wo steht das Sofa jetzt?
-   a) Neben dem Fernseher   b) Hinter dem Fernseher   c) Vor dem Fernseher
-
-3. Wo schläft die Tochter?
-   a) Das Bett steht unter dem Fenster.
-   b) Das Bett steht neben der Tür.
-   c) Das Bett steht vor dem Schrank.
-
-4. Was hat Frau Steinmeyer gemacht?
-   a) Sie hat Möbel gekauft.
-   b) Sie hat die Bilder an die Wand gehängt.
-   c) Sie hat die Kisten ausgepackt.
+1. Die neue Wohnung der Familie Steinmeyer befindet sich …  a) im Erdgeschoss  b) im dritten Stock  c) im zweiten Stock
+2. Wo steht das Sofa jetzt?  a) Neben dem Fernseher  b) Hinter dem Fernseher  c) Vor dem Fernseher
+3. Wo schläft die Tochter?  a) Das Bett steht unter dem Fenster.  b) Das Bett steht neben der Tür.  c) Das Bett steht vor dem Schrank.
+4. Was hat Frau Steinmeyer gemacht?  a) Sie hat Möbel gekauft.  b) Sie hat die Bilder an die Wand gehängt.  c) Sie hat die Kisten ausgepackt.
 
 ## Übung H3 — Hörtext-Lückentext
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 8 missing words. **Three words in the box are not needed.**
-
-**Word bank:** besichtigt · geschrieben · stand · lag · groß · hell · klein · dunkel · Schreibtisch · Möbel · Vermieter
+Listen and fill in the 8 missing words. Three words in the box are not needed.
 
 > Bruno sucht eine neue Wohnung in Berlin. Er hat heute drei Wohnungen (1) ______.
 > Die erste Wohnung war sehr (2) ______ — das Bett (3) ______ fast vor der Tür.
@@ -58,33 +42,18 @@ Listen and fill in the 8 missing words. **Three words in the box are not needed.
 > ist direkt neben dem Wohnzimmer. Bruno hat dem (8) ______ sofort eine Nachricht
 > geschrieben.
 
+> (besichtigt · geschrieben · stand · lag · groß · hell · klein · dunkel · Schreibtisch · Möbel · Vermieter)
 
 ## Übung H4 — Kurze Ansage: Anruf vom Vermieter
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the phone message. Then choose the correct answer (a, b, or c).
-Listen **once** before reading the transcript below.
+Listen to the phone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
 
-1. Wann ist die Besichtigung?  
-   a) Am Freitag um elf Uhr.  
-   b) Am Samstag um elf Uhr.  
-   c) Am Samstag um zehn Uhr.
-
-2. Wo ist die Wohnung?  
-   a) In der Lindenallee 14.  
-   b) In der Lindenstraße 14.  
-   c) In der Schillerstraße 14.
-
-3. Was soll man mitbringen?  
-   a) Eine Mietschuldenfreiheitsbescheinigung und den Personalausweis.  
-   b) Nur den Personalausweis.  
-   c) Eine Bürgschaft.
-
-4. Bis wann soll man den Termin bestätigen?  
-   a) Bis heute Abend.  
-   b) Bis morgen Abend.  
-   c) Bis nächste Woche.
+1. Wann ist die Besichtigung?  a) Am Freitag um elf Uhr.  b) Am Samstag um elf Uhr.  c) Am Samstag um zehn Uhr.
+2. Wo ist die Wohnung?  a) In der Lindenallee 14.  b) In der Lindenstraße 14.  c) In der Schillerstraße 14.
+3. Was soll man mitbringen?  a) Eine Mietschuldenfreiheitsbescheinigung und den Personalausweis.  b) Nur den Personalausweis.  c) Eine Bürgschaft.
+4. Bis wann soll man den Termin bestätigen?  a) Bis heute Abend.  b) Bis morgen Abend.  c) Bis nächste Woche.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -103,7 +72,7 @@ Listen **once** before reading the transcript below.
 
 ## Übung A1 — Wo? oder Wohin? (Dativ oder Akkusativ?)
 
-For each sentence, write **Wo?** or **Wohin?** and the correct case (**Dativ** or **Akkusativ**).
+For each sentence, write Wo? or Wohin? and the correct case (Dativ or Akkusativ).
 
 1. Das Buch liegt auf dem Tisch. → ______ / ______
 2. Ich lege das Buch auf den Tisch. → ______ / ______
@@ -146,7 +115,7 @@ Fill in the correct accusative article (den / die / das / die).
 
 ## Übung A4 — Kontraktionen (in/an + Artikel)
 
-Write the contracted form where possible, or "no contraction" if none exists.
+Write the contracted form where possible, or the unchanged form if no contraction exists.
 
 1. in + das → ______
 2. in + dem → ______
@@ -191,7 +160,7 @@ Choose `legen` (action) or `liegen` (state). Write the correct present-tense for
 
 ## Übung A7 — hängen: action or state?
 
-Write the correct present-tense form of `hängen`. Then write whether it is **action** (Wohin? + Akk) or **state** (Wo? + Dat).
+Write the correct present-tense form of `hängen`. Then write whether it is action (Wohin? + Akk) or state (Wo? + Dat).
 
 1. Das Bild ______ an der Wand. → ______
 2. Ich ______ das Bild an die Wand. → ______
@@ -218,51 +187,47 @@ Fill in the correct preposition from the box. Each is used once.
 
 ## Übung A9 — Vollständige Sätze: stellen + Akkusativ
 
-Build a complete sentence using `stellen` + the correct accusative article.
-Example: *Buch / auf / Tisch (m)* → *Ich stelle das Buch auf den Tisch.*
+Build a complete sentence using `stellen` + the correct accusative article. Example: Buch / auf / Tisch (m) → Ich stelle das Buch auf den Tisch.
 
-1. Lampe (f) / über / Tisch (m) →
-2. Stuhl (m) / neben / Fenster (n) →
-3. Tassen (pl) / in / Schrank (m) →
-4. Regal (n) / an / Wand (f) →
-5. Sessel (m) / zwischen / Sofa (n) / und Fenster (n) →
-6. Schuhe (pl) / vor / Tür (f) →
+1. Lampe (f) / über / Tisch (m) → ______
+2. Stuhl (m) / neben / Fenster (n) → ______
+3. Tassen (pl) / in / Schrank (m) → ______
+4. Regal (n) / an / Wand (f) → ______
+5. Sessel (m) / zwischen / Sofa (n) / und Fenster (n) → ______
+6. Schuhe (pl) / vor / Tür (f) → ______
 
 ## Übung A10 — stehen / liegen / hängen: wo ist was?
 
-Describe the location using the correct verb and dative article.
-Example: *Buch / auf / Regal (n)* → *Das Buch steht im Regal.*
+Describe the location using the correct verb and dative article. Example: Buch / auf / Regal (n) → Das Buch steht im Regal.
 
-1. Kissen (pl) / auf / Sofa (n) →
-2. Bild (n) / an / Wand (f) →
-3. Teppich (m) / unter / Tisch (m) →
-4. Lampe (f) / über / Schreibtisch (m) →
-5. Vorhang (m) / vor / Fenster (n) →
-6. Spiegel (m) / an / Wand (f) →
+1. Kissen (pl) / auf / Sofa (n) → ______
+2. Bild (n) / an / Wand (f) → ______
+3. Teppich (m) / unter / Tisch (m) → ______
+4. Lampe (f) / über / Schreibtisch (m) → ______
+5. Vorhang (m) / vor / Fenster (n) → ______
+6. Spiegel (m) / an / Wand (f) → ______
 
 ## Übung A11 — Transformation: Wohin? → Wo?
 
-Change the action sentence into a state sentence.
-Example: *Ich stelle den Stuhl neben die Tür.* → *Der Stuhl steht neben der Tür.*
+Change the action sentence into a state sentence. Example: Ich stelle den Stuhl neben die Tür. → Der Stuhl steht neben der Tür.
 
-1. Ich lege das Buch auf den Tisch. →
-2. Er hängt die Lampe über den Schreibtisch. →
-3. Wir stellen das Regal an die Wand. →
-4. Sie legt den Teppich unter den Tisch. →
-5. Ich hänge den Spiegel an die Wand. →
-6. Er stellt den Sessel vor das Fenster. →
+1. Ich lege das Buch auf den Tisch. → ______
+2. Er hängt die Lampe über den Schreibtisch. → ______
+3. Wir stellen das Regal an die Wand. → ______
+4. Sie legt den Teppich unter den Tisch. → ______
+5. Ich hänge den Spiegel an die Wand. → ______
+6. Er stellt den Sessel vor das Fenster. → ______
 
 ## Übung A12 — Transformation: Wo? → Wohin?
 
-Change the state sentence into a command (imperative du-form) using the action verb.
-Example: *Der Stuhl steht neben der Tür.* → *Stell den Stuhl neben die Tür!*
+Change the state sentence into a command (imperative du-form) using the action verb. Example: Der Stuhl steht neben der Tür. → Stell den Stuhl neben die Tür!
 
-1. Das Buch liegt auf dem Tisch. →
-2. Das Bild hängt an der Wand. →
-3. Der Teppich liegt unter dem Sofa. →
-4. Die Lampe hängt über dem Bett. →
-5. Die Schuhe stehen vor der Tür. →
-6. Das Kissen liegt auf dem Sessel. →
+1. Das Buch liegt auf dem Tisch. → ______
+2. Das Bild hängt an der Wand. → ______
+3. Der Teppich liegt unter dem Sofa. → ______
+4. Die Lampe hängt über dem Bett. → ______
+5. Die Schuhe stehen vor der Tür. → ______
+6. Das Kissen liegt auf dem Sessel. → ______
 
 ---
 
@@ -270,37 +235,36 @@ Example: *Der Stuhl steht neben der Tür.* → *Stell den Stuhl neben die Tür!*
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the gaps with the correct form. Choose from: `stell / steht / liegen / stellt / hängt / hänge / Stell / sieht`.
+Fill in the gaps with the correct form. Choose from: stell / steht / liegen / stellt / hängt / hänge / Stell / sieht.
 
-— Wo soll das Sofa hin?  
-— (1) ______ es vor den Fernseher.  
-— Und der Tisch?  
-— Der Tisch (2) ______ in der Mitte des Zimmers. Nein, warte — (3) ______ ihn
-  lieber ans Fenster.  
-— Okay. Und die Bücher? Die (4) ______ hier auf dem Boden.  
-— (5) ______ sie ins Regal!  
-— Gut. Und das Bild? Es (6) ______ noch nicht an der Wand.  
-— Ich (7) ______ es gleich auf. Es kommt über das Sofa.  
-— Super! Das Zimmer (8) ______ jetzt sehr gemütlich aus.  
+— Wo soll das Sofa hin?
+— ______ es vor den Fernseher.
+— Und der Tisch?
+— Der Tisch ______ in der Mitte des Zimmers. Nein, warte — ______ ihn lieber ans Fenster.
+— Okay. Und die Bücher? Die ______ hier auf dem Boden.
+— ______ sie ins Regal!
+— Gut. Und das Bild? Es ______ noch nicht an der Wand.
+— Ich ______ es gleich auf. Es kommt über das Sofa.
+— Super! Das Zimmer ______ jetzt sehr gemütlich aus.
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly **one** mistake. Find it and write the corrected sentence.
+Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
 
-1. Ich stelle das Buch auf dem Tisch.
-2. Die Lampe hängt über den Schreibtisch.
-3. Stell den Stuhl neben der Tür!
-4. Das Kissen legt auf dem Sofa.
-5. Wir legen den Teppich unter das Sofa — richtig, er liegt jetzt unter das Sofa.
-6. Sie hängt das Bild an die Wand — das Bild hängen jetzt an der Wand.
-7. Der Schlüssel liegt im Tisch.
-8. Ich stelle die Schuhe vor die Tür. Sie stehen jetzt vor der Tür. — Genau! Er steht vor der Tür.
-9. Wo liegt der Spiegel? — Er hängt an die Wand.
-10. Das Regal steht zwischen dem Fenster und die Tür.
+1. Ich stelle das Buch auf ______ Tisch. (dem → ?)
+2. Die Lampe hängt über ______ Schreibtisch. (den → ?)
+3. Stell den Stuhl neben ______ Tür! (der → ?)
+4. Das Kissen ______ auf dem Sofa. (legt → ?)
+5. Wir legen den Teppich unter das Sofa — richtig, er liegt jetzt unter ______ Sofa. (das → ?)
+6. Sie hängt das Bild an die Wand — das Bild ______ jetzt an der Wand. (hängen → ?)
+7. Der Schlüssel liegt ______ Tisch. (im → ?)
+8. Ich stelle die Schuhe vor die Tür. Sie stehen jetzt vor der Tür. — Genau! ______ steht vor der Tür. (Er → ?)
+9. Wo liegt der Spiegel? — Er hängt an ______ Wand. (die → ?)
+10. Das Regal steht zwischen dem Fenster und ______ Tür. (die → ?)
 
 ## Übung B3 — Frage und Antwort verbinden
 
-| Frage | | Antwort |
+| Links | | Rechts |
 |---|---|---|
 | 1. Wo hängt das Bild? | | a) Nein, aber ich stelle es gleich hin. |
 | 2. Wohin soll ich die Bücher legen? | | b) Sie liegt auf dem Sofa. |
@@ -315,42 +279,45 @@ Each sentence has exactly **one** mistake. Find it and write the corrected sente
 
 Build a correct German sentence from the cues.
 
-1. die Lampe / hängen (state) / über / Tisch (m) →
-2. ich / stellen / Stuhl (m) / vor / Fenster (n) →
-3. Bücher (pl) / liegen / auf / Boden (m) →
-4. wir / hängen (action) / Spiegel (m) / an / Wand (f) →
-5. das Sofa / stehen / zwischen / Tisch (m) und Regal (n) →
-6. sie (she) / legen / Teppich (m) / unter / Tisch (m) →
-7. der Schreibtisch / stehen / neben / Fenster (n) →
-8. ich / stellen / Regal (n) / in / Schlafzimmer (n) →
+1. die – über – dem – Tisch – Lampe – hängt
+2. Ich – den – das – Fenster – vor – stelle – Stuhl
+3. liegen – Bücher – Die – Boden – dem – auf
+4. Wir – die – den – an – hängen – Wand – Spiegel
+5. dem – Das – dem – Tisch – Sofa – steht – Regal – und – zwischen
+6. Sie – den – den – unter – Tisch – legt – Teppich
+7. Der – steht – dem – neben – Schreibtisch – Fenster
+8. ins – Ich – stelle – Schlafzimmer – Regal – das
 
 ## Übung B5 — Beschreibe das Zimmer
 
-Look at the description and answer the questions in complete sentences.
-
 *Anna's room:* Bett — an der linken Wand · Schreibtisch — am Fenster · Bücherregal — neben der Tür · Lampe — über dem Schreibtisch · Kissen (2 Stück) — auf dem Bett · Bücher — im Regal
 
-1. Wo steht das Bett? →
-2. Wo steht der Schreibtisch? →
-3. Wo steht das Bücherregal? →
-4. Wo hängt die Lampe? →
-5. Wo liegen die Kissen? →
-6. Wo stehen die Bücher? →
+Look at the description and answer the questions in complete sentences.
+
+
+> 1. Wo steht das Bett?
+2. Wo steht der Schreibtisch?
+3. Wo steht das Bücherregal?
+4. Wo hängt die Lampe?
+5. Wo liegen die Kissen?
+6. Wo stehen die Bücher?
+
+
+**Your task:** Answer each question about Anna's room in a complete sentence.
 
 ## Übung B6 — Kategorien: Möbel sortieren
 
 Sort these words into the correct room. Some words fit more than one room — put them in the most natural room and be ready to explain.
 
-> Bett · Sofa · Herd · Kühlschrank · Schreibtisch · Badewanne · Kleiderschrank ·
-> Esstisch · Fernseher · Bücherregal · Dusche · Waschbecken · Sessel · Kissen · Teppich
+> Bett · Kleiderschrank · Schreibtisch · Sofa · Fernseher · Sessel · Kissen · Teppich · Bücherregal · Herd · Kühlschrank · Esstisch · Badewanne · Dusche · Waschbecken
 
 | Schlafzimmer | Wohnzimmer | Küche | Badezimmer |
 |---|---|---|---|
-| | | | |
+|  |  |  |  |
 
 ## Übung B7 — Übersetzen (EN → DE)
 
-1. The lamp is hanging above the desk.
+> 1. The lamp is hanging above the desk.
 2. Put the chair next to the door!
 3. Where is my book? — It's lying on the floor.
 4. I'm putting the mirror on the wall.
@@ -359,56 +326,60 @@ Sort these words into the correct room. Some words fit more than one room — pu
 7. Are you (informal) hanging the picture above the sofa?
 8. The shoes are in front of the door — please put them behind the door!
 
+
+**Your task:** Translate each sentence into German.
+
 ## Übung B8 — Hausregeln schreiben
 
-Write 4 house rules for a shared flat, using `man` + modal verb or imperative. Use Wechselpräpositionen in at least two rules.
+Example: Man stellt das schmutzige Geschirr nicht auf den Tisch — man spült es sofort.
 
-Example: *Man stellt das schmutzige Geschirr nicht auf den Tisch — man spült es sofort.*
+**Your task:** Write 4 house rules for a shared flat, using man + modal verb or imperative. Use Wechselpräpositionen in at least two rules.
 
-1. ______________________
-2. ______________________
-3. ______________________
-4. ______________________
+Use:
+- [ ] use man + modal verb or imperative (du-form)
+- [ ] Wechselpräpositionen in at least 2 rules
+
+Self-check:
+- [ ] Dativ after state verbs? Akkusativ after action verbs?
+- [ ] Did I use stellen/stehen (upright) and legen/liegen (flat) correctly?
+- [ ] Did I use contractions where required (ins, im, ans, am)?
 
 ## Übung B9 — Problem im Bad: E-Mail an den Vermieter
 
-**E-Mail von Herrn Schmidt, dein Vermieter** *(Du hast diese Antwort gerade bekommen)*:
-> Sehr geehrte/r Mieter/in,
-> vielen Dank für Ihre Nachricht. Können Sie mir das Problem genauer
-> beschreiben? In welchem Raum ist es? Was passiert genau? Seit wann
-> haben Sie das Problem? Ich komme dann am Wochenende vorbei.
-> Mit freundlichen Grüßen, M. Schmidt
+> **E-Mail von Herrn Schmidt, dein Vermieter** *(Du hast diese Antwort gerade bekommen):*
 
-**Your task:** Antworte Herrn Schmidt in **4–5 Sätzen**. Beschreib ihm das
-Problem in deiner Wohnung: Wo ist es, was passiert, und seit wann.
+Sehr geehrte/r Mieter/in,
+vielen Dank für Ihre Nachricht. Können Sie mir das Problem genauer beschreiben? In welchem Raum ist es? Was passiert genau? Seit wann haben Sie das Problem? Ich komme dann am Wochenende vorbei.
+Mit freundlichen Grüßen, M. Schmidt
+
+
+**Your task:** Antworte Herrn Schmidt in 4–5 Sätzen. Beschreib ihm das Problem in deiner Wohnung: Wo ist es, was passiert, und seit wann.
 
 Use:
-- [ ] at least **1** sentence with **Wo?** (*Dativ* — wo das Problem ist: *in, an, über, unter, hinter, vor, neben, zwischen, auf*)
-- [ ] at least **1** sentence with **Wohin?** (*Akkusativ* — wohin etwas fließt/fällt: same prepositions)
-- [ ] at least **1** state verb (*stehen / liegen / hängen*)
-- [ ] a time expression (*seit gestern / seit drei Tagen / seit einer Woche*)
+- [ ] at least 1 sentence with Wo? (Dativ)
+- [ ] at least 1 sentence with Wohin? (Akkusativ)
+- [ ] at least 1 state verb (stehen / liegen / hängen)
+- [ ] a time expression (seit gestern / seit drei Tagen / seit einer Woche)
 
-**Self-check before moving on:**
-- [ ] Did I use **Dativ** after state verbs (stehen/liegen/hängen) and **Akkusativ** after action verbs (stellen/legen/hängen)?
-- [ ] Did I choose `stellen/stehen` (upright), `legen/liegen` (flat), `hängen` correctly?
-- [ ] Did I use contractions where required (*im, am, in der, an der, neben dem*)?
+Self-check:
+- [ ] Did I use Dativ after state verbs (stehen/liegen/hängen) and Akkusativ after action verbs (stellen/legen/hängen)?
+- [ ] Did I choose stellen/stehen (upright), legen/liegen (flat), hängen correctly?
+- [ ] Did I use contractions where required (im, am, in der, an der, neben dem)?
 
 ## Übung B10 — Mini-Aufsatz: Mein Zimmer
 
-**Situation:** You are moving into a WG next week. Your new flatmate has asked you to describe your room so they know where to help you place the furniture. Write them a short message describing where everything will go and where it is currently standing/lying/hanging.
+**Situation:** You are moving into a WG next week. Your new flatmate has asked you to describe your room so they know where to help you place the furniture.
 
-Describe your own room (real or imaginary) in 5–6 sentences. Use `stehen`, `liegen`, `hängen` and at least four different Wechselpräpositionen with the correct case.
+**Your task:** Describe your own room (real or imaginary) in 5–6 sentences. Use stehen, liegen, hängen and at least four different Wechselpräpositionen with the correct case.
 
-______________________
-______________________
-______________________
-______________________
-______________________
-______________________
+Use:
+- [ ] use stehen, liegen, hängen with the correct case
+- [ ] at least 4 different Wechselpräpositionen
+- [ ] 5–6 sentences
 
-**Self-check before moving on:**
-- [ ] Did I use the correct Wechselpräposition case — **Dativ** after state verbs (stehen/liegen/hängen) and **Akkusativ** after action verbs (stellen/legen/hängen)?
-- [ ] Did I choose **stellen/stehen** for upright objects and **legen/liegen** for flat/horizontal objects?
+Self-check:
+- [ ] Did I use the correct Wechselpräposition case — Dativ after state verbs and Akkusativ after action verbs?
+- [ ] Did I choose stellen/stehen for upright objects and legen/liegen for flat/horizontal objects?
 - [ ] Did I use contractions where required (ins, im, ans, am)?
 
 ---
@@ -417,7 +388,7 @@ ______________________
 
 ## Übung C1 — Lückentext
 
-Fill each gap with **one** word.
+Fill each gap with one word.
 
 Anna ist letzte Woche (1) ______ ihre neue Wohngemeinschaft eingezogen. Die WG
 (2) ______ vier Zimmer und eine große Küche. Ihr Zimmer ist klein, aber (3) ______.
@@ -431,47 +402,37 @@ Die Hausregeln (9) ______ einfach: Man spült das Geschirr sofort, und jeder
 
 Choose the correct option (a, b, or c) for each gap.
 
-Bruno schreibt eine E-Mail an seinen Freund:
-
-„Hallo! Ich habe eine neue Wohnung gefunden. Sie (1) ______ im zweiten Stock.
-Das Wohnzimmer ist groß — das Sofa (2) ______ jetzt vor dem Fernseher. Ich
-habe den Schreibtisch (3) ______ Fenster gestellt. Die Bücher (4) ______ schon
-im Regal. Meine Jacken hänge ich (5) ______ den Haken im Flur. Es ist noch
-nicht alles fertig, aber ich bin schon (6) ______ der neuen Wohnung sehr
-zufrieden!"
-
-1. a) liegt  b) steht  c) hängt
-2. a) liegt  b) steht  c) hängt
-3. a) am   b) ans   c) in
-4. a) liegen  b) stehen  c) hängen
-5. a) an   b) auf   c) über
-6. a) in   b) mit   c) über
+1. Sie (1) ______ im zweiten Stock.  a) liegt  b) steht  c) hängt
+2. Das Sofa (2) ______ jetzt vor dem Fernseher.  a) liegt  b) steht  c) hängt
+3. Ich habe den Schreibtisch (3) ______ Fenster gestellt.  a) am  b) ans  c) in
+4. Die Bücher (4) ______ schon im Regal.  a) liegen  b) stehen  c) hängen
+5. Meine Jacken hänge ich (5) ______ den Haken im Flur.  a) an  b) auf  c) über
+6. Es ist noch nicht alles fertig, aber ich bin schon (6) ______ der neuen Wohnung sehr zufrieden.  a) in  b) mit  c) über
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Ten words are not needed.**
-Each word may be used once.
+Fill the 10 gaps using words from the box. Ten words are not needed. Each word may be used once.
 
-> AN · AUF · LIEGT · STEHT · HÄNGT · INS · IM · VOR · NEBEN · ÜBER ·
-> STELLT · LEGT · ZWISCHEN · UNTER · DER ·
-> HINTER · STEHEN · DEM · AUS · LEGEN
+> — Wie sieht dein Zimmer aus?
+> — Also, das Bett (1) ______ an der Wand. (2) ______ dem Bett liegen zwei
+> Kissen. Der Schreibtisch steht (3) ______ Fenster. Die Lampe (4) ______ über
+> dem Schreibtisch.
+> — Und das Regal?
+> — Das Regal steht (5) ______ dem Fenster und der Tür. Meine Bücher stehen
+> (6) ______ Regal.
+> — Hast du auch einen Teppich?
+> — Ja, er liegt (7) ______ dem Bett — also (8) ______ dem Bett. Der Teppich
+> ist blau.
+> — Schön! Und wohin hängst du das Bild?
+> — Ich hänge es (9) ______ die Wand, (10) ______ dem Fenster.
 
-— Wie sieht dein Zimmer aus?  
-— Also, das Bett (1) ______ an der Wand. (2) ______ dem Bett liegen zwei
-  Kissen. Der Schreibtisch steht (3) ______ Fenster. Die Lampe (4) ______ über
-  dem Schreibtisch.  
-— Und das Regal?  
-— Das Regal steht (5) ______ dem Fenster und der Tür. Meine Bücher stehen
-  (6) ______ Regal.  
-— Hast du auch einen Teppich?  
-— Ja, er liegt (7) ______ dem Bett — also (8) ______ dem Bett. Der Teppich
-  ist blau.  
-— Schön! Und wohin hängst du das Bild?  
-— Ich hänge es (9) ______ die Wand, (10) ______ dem Fenster.
+> AM · AN · AUF · AUS · DEM · DER · HÄNGT · HINTER · IM · INS · LEGEN · LEGT · LIEGT · NEBEN · STEHEN · STEHT · STELLT · ÜBER · UNTER · VOR · ZWISCHEN
 
-## Übung C4 — Lesen
+Five words are not needed.
 
-**Text 1:** Read „Annas neue WG" in `lesson.md`, section 5. **Richtig (R) oder Falsch (F)?**
+## Übung C4a — Lesen Text 1 — Annas neue WG
+
+Read „Annas neue WG" in `lesson.md`, section 5. Richtig (R) oder Falsch (F)?
 
 1. Anna wohnt jetzt mit vier anderen Studenten zusammen. ( )
 2. Das Bett steht neben dem Fenster. ( )
@@ -479,7 +440,7 @@ Each word may be used once.
 4. Das Bücherregal hängt an der Wand über dem Schreibtisch. ( )
 5. Jeder muss die Küche einmal pro Woche putzen. ( )
 
-**Text 2 — Wohnungsanzeige:**
+## Übung C4b — Lesen Text 2 — Wohnungsanzeige
 
 > **Zimmer in 3er-WG — Berlin-Mitte, 450 € warm**
 >
@@ -493,27 +454,26 @@ Each word may be used once.
 
 Choose a, b, or c:
 
-6. Die WG hat … a) zwei Zimmer  b) drei Zimmer  c) vier Zimmer
-7. Das freie Zimmer hat …
-   a) einen Kleiderschrank, aber keinen Schreibtisch
-   b) einen Schreibtisch und einen eingebauten Kleiderschrank
-   c) nur einen Tisch und einen Stuhl
-8. Welche Hausregel gibt es NOT in der Anzeige?
-   a) Kein Rauchen  b) Keine Musik nach 22 Uhr  c) Kein Kochen nach 21 Uhr
-9. Was ist in dieser WG nicht erlaubt?
-   a) Musik hören  b) Haustiere  c) Rauchen im Hof
-10. Wer wohnt schon in der WG?
-    a) Zwei Studenten (männlich)  b) Ein Student und eine Studentin
-    c) Zwei Studentinnen
 
-## Übung C5 — Schreiben
+1. Die WG hat …  a) zwei Zimmer  b) drei Zimmer  c) vier Zimmer
+2. Das freie Zimmer hat …  a) einen Kleiderschrank, aber keinen Schreibtisch  b) einen Schreibtisch und einen eingebauten Kleiderschrank  c) nur einen Tisch und einen Stuhl
+3. Welche Hausregel gibt es NOT in der Anzeige?  a) Kein Rauchen  b) Keine Musik nach 22 Uhr  c) Kein Kochen nach 21 Uhr
+4. Was ist in dieser WG nicht erlaubt?  a) Musik hören  b) Haustiere  c) Rauchen im Hof
+5. Wer wohnt schon in der WG?  a) Zwei Studenten (männlich)  b) Ein Student und eine Studentin  c) Zwei Studentinnen
 
-Write a short description of a room (real or imaginary) for a WG advertisement (8–10 sentences). Include:
-- Where the furniture is (`stehen`, `liegen`, `hängen` + correct Wo?/Wohin? case)
-- At least **five different Wechselpräpositionen**
-- One or two house rules
+## Übung C5 — Schreiben: WG-Anzeige
 
-A model answer is in `solutions.md` — write yours **first**.
+**Your task:** Write a short description of a room (real or imaginary) for a WG advertisement (8–10 sentences).
+
+Use:
+- [ ] use stehen, liegen, hängen with the correct case
+- [ ] use at least 5 different Wechselpräpositionen
+- [ ] include 1–2 house rules
+
+Self-check:
+- [ ] Dativ after state verbs (stehen, liegen, hängen)?
+- [ ] Akkusativ after action verbs (stellen, legen, hängen)?
+- [ ] Contractions where possible (ins, im, ans, am)?
 
 ---
 
@@ -525,8 +485,8 @@ One minute per item. No notes.
 
 1. `stellen` oder `stehen`? For placing an upright object: ______
 2. `legen` oder `liegen`? For an object that is flat/horizontal: ______
-3. Das Buch liegt ______ dem Tisch. (auf + Dativ article for m) — auf ______
-4. Ich lege das Buch ______ den Tisch. (auf + Akkusativ article for m) — auf ______
+3. Das Buch liegt ______ ______ Tisch. (auf + Dativ article for m) — auf
+4. Ich lege das Buch ______ ______ Tisch. (auf + Akkusativ article for m) — auf
 5. in + das = ______ (contraction)
 6. an + dem = ______ (contraction)
 7. Name all 9 Wechselpräpositionen: ______
@@ -557,7 +517,7 @@ Cross out the word that doesn't fit.
 3. (L4) Predicative adjective: Das Zimmer ist ______ (schön — no change needed here).
 4. (L8) Dative preposition: Ich gehe ______ Fuß zur Schule. (zu)
 5. (L8) Dative preposition: Sie wohnt ______ ihrer Freundin. (bei)
-6. (L8) Translate: "I travel by bus." → ______________________
+6. (L8) Translate: "I travel by bus." → ______
 7. (L9) Which case does `gefallen` take: Akk or Dat? Das Zimmer gefällt ______ (mir/mich).
 8. (L9) Dative pronoun for `du`: ______
 9. (L9) Complete: „Wie ______ Ihnen die neue Wohnung?" (gefallen, Sie-form)
@@ -566,7 +526,6 @@ Cross out the word that doesn't fit.
 ## Übung D4 — Selbsttest (score yourself /20)
 
 Dativ or Akkusativ:
-
 1. Wo liegt das Buch? — auf ______ Tisch (m) → ______
 2. Ich lege das Buch auf ______ Tisch (m) → ______
 3. Die Lampe hängt über ______ Bett (n) → ______
@@ -574,13 +533,11 @@ Dativ or Akkusativ:
 5. Der Stuhl steht neben ______ Tür (f) → ______
 
 Contractions:
-
 6. in + dem = ______
 7. an + das = ______
 8. in + das = ______
 
 stellen / stehen / legen / liegen / hängen:
-
 9. Ich ______ das Buch ins Regal. (place upright)
 10. Das Buch ______ im Regal. (be upright)
 11. Sie ______ das Kissen auf das Sofa. (place flat)
@@ -589,19 +546,13 @@ stellen / stehen / legen / liegen / hängen:
 14. Das Bild ______ an der Wand. (hang — state)
 
 Vocabulary:
-
 15. German for "flat share": ______
 16. German for "flatmate" (m): ______
 17. German for "landlord": ______
 18. German for "move in" (verb): ______
 
 Sentences:
+19. Translate: "The carpet is lying under the table." → ______
+20. Translate: "Put the chair next to the window!" (du-form imperative) → ______
 
-19. Translate: "The carpet is lying under the table." →
-    ______________________
-
-20. Translate: "Put the chair next to the window!" (du-form imperative) →
-    ______________________
-
-**Score: ____ / 20.** 16+ → Lektion A2/03. Below 16 → redo Block A (A1–A7)
-and Block B2 tomorrow, then retest D4.
+_16+ / 20 → Lektion A2/03. Below 16 → redo Block A (A1–A7) and Block B2 tomorrow, then retest D4._

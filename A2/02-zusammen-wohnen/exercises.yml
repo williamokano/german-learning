@@ -1,0 +1,1055 @@
+lesson: A2/02
+title: "A2 · Lektion 2 — Übungen"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - { q: "Anna hat eine neue WG gefunden.", answer: true, why: 'Anna sagt: „Ich habe endlich eine neue Wohngemeinschaft gefunden!"' }
+      - q: "Die neue WG hat drei Zimmer."
+        answer: false
+        why: "Die WG hat vier Zimmer, nicht drei (Anna und drei andere Studenten)."
+      - { q: "Anna stellt den Tisch ans Fenster.", answer: true, why: 'Anna sagt: „Den Tisch … stelle ich ihn ans Fenster."' }
+      - { q: "Das Bücherregal steht zwischen dem Fenster und der Tür.", answer: true, why: '„Es steht zwischen dem Fenster und der Tür."' }
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Die neue Wohnung der Familie Steinmeyer befindet sich …"
+        options:
+          - { key: a, text: "im Erdgeschoss" }
+          - { key: b, text: "im dritten Stock" }
+          - { key: c, text: "im zweiten Stock" }
+        answer: b
+        why: '„Die Wohnung ist im dritten Stock."'
+      - q: "Wo steht das Sofa jetzt?"
+        options:
+          - { key: a, text: "Neben dem Fernseher" }
+          - { key: b, text: "Hinter dem Fernseher" }
+          - { key: c, text: "Vor dem Fernseher" }
+        answer: c
+        why: '„Das Sofa steht jetzt vor dem Fernseher."'
+      - q: "Wo schläft die Tochter?"
+        options:
+          - { key: a, text: "Das Bett steht unter dem Fenster." }
+          - { key: b, text: "Das Bett steht neben der Tür." }
+          - { key: c, text: "Das Bett steht vor dem Schrank." }
+        answer: a
+        why: '„Das Bett steht unter dem Fenster."'
+      - q: "Was hat Frau Steinmeyer gemacht?"
+        options:
+          - { key: a, text: "Sie hat Möbel gekauft." }
+          - { key: b, text: "Sie hat die Bilder an die Wand gehängt." }
+          - { key: c, text: "Sie hat die Kisten ausgepackt." }
+        answer: b
+        why: '„Meine Frau hat die Bilder an die Wand gehängt."'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill in the 8 missing words. Three words in the box are not needed."
+    text: |
+      Bruno sucht eine neue Wohnung in Berlin. Er hat heute drei Wohnungen {1}.
+      Die erste Wohnung war sehr {2} — das Bett {3} fast vor der Tür.
+      In der zweiten Wohnung {4} ein riesiger Teppich mitten im Zimmer, und
+      die {5} standen überall. Die dritte Wohnung hat ihm am besten gefallen:
+      Das Schlafzimmer ist {6}, der {7} steht am Fenster, und die Küche
+      ist direkt neben dem Wohnzimmer. Bruno hat dem {8} sofort eine Nachricht
+      geschrieben.
+    bank: [besichtigt, geschrieben, stand, lag, groß, hell, klein, dunkel, Schreibtisch, Möbel, Vermieter]
+    answers:
+      "1": besichtigt
+      "2": klein
+      "3": stand
+      "4": lag
+      "5": Möbel
+      "6": hell
+      "7": Schreibtisch
+      "8": Vermieter
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Anruf vom Vermieter"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the phone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    transcript: "Guten Tag, hier ist Herr Krause, der Vermieter. Ich rufe an wegen der Wohnungsbesichtigung am Samstag. Die Wohnung in der Lindenallee 14 ist noch frei. Sie können am Samstag um elf Uhr zur Besichtigung kommen. Die Wohnung hat zwei Zimmer, eine kleine Küche und ein Bad mit Badewanne. Bitte bringen Sie eine Mietschuldenfreiheitsbescheinigung und Ihren Personalausweis mit. Bitte rufen Sie mich bis morgen Abend zurück, um den Termin zu bestätigen. Vielen Dank!"
+    items:
+      - q: "Wann ist die Besichtigung?"
+        options:
+          - { key: a, text: "Am Freitag um elf Uhr." }
+          - { key: b, text: "Am Samstag um elf Uhr." }
+          - { key: c, text: "Am Samstag um zehn Uhr." }
+        answer: b
+        why: '„Sie können am Samstag um elf Uhr zur Besichtigung kommen."'
+      - q: "Wo ist die Wohnung?"
+        options:
+          - { key: a, text: "In der Lindenallee 14." }
+          - { key: b, text: "In der Lindenstraße 14." }
+          - { key: c, text: "In der Schillerstraße 14." }
+        answer: a
+        why: '„Die Wohnung in der Lindenallee 14 ist noch frei."'
+      - q: "Was soll man mitbringen?"
+        options:
+          - { key: a, text: "Eine Mietschuldenfreiheitsbescheinigung und den Personalausweis." }
+          - { key: b, text: "Nur den Personalausweis." }
+          - { key: c, text: "Eine Bürgschaft." }
+        answer: a
+        why: '„Bitte bringen Sie eine Mietschuldenfreiheitsbescheinigung und Ihren Personalausweis mit."'
+      - q: "Bis wann soll man den Termin bestätigen?"
+        options:
+          - { key: a, text: "Bis heute Abend." }
+          - { key: b, text: "Bis morgen Abend." }
+          - { key: c, text: "Bis nächste Woche." }
+        answer: b
+        why: '„Bitte rufen Sie mich bis morgen Abend zurück, um den Termin zu bestätigen."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Wo? oder Wohin? (Dativ oder Akkusativ?)"
+    instructions: "For each sentence, write Wo? or Wohin? and the correct case (Dativ or Akkusativ)."
+    text: |
+      1. Das Buch liegt auf dem Tisch. → {1} / {2}
+      2. Ich lege das Buch auf den Tisch. → {3} / {4}
+      3. Die Lampe hängt über dem Bett. → {5} / {6}
+      4. Häng die Lampe über das Bett! → {7} / {8}
+      5. Der Stuhl steht neben der Tür. → {9} / {10}
+      6. Stell den Stuhl neben die Tür! → {11} / {12}
+      7. Wir gehen in das Zimmer. → {13} / {14}
+      8. Wir sind im Zimmer. → {15} / {16}
+    answers:
+      "1": "Wo?"
+      "2": Dativ
+      "3": "Wohin?"
+      "4": Akkusativ
+      "5": "Wo?"
+      "6": Dativ
+      "7": "Wohin?"
+      "8": Akkusativ
+      "9": "Wo?"
+      "10": Dativ
+      "11": "Wohin?"
+      "12": Akkusativ
+      "13": "Wohin?"
+      "14": Akkusativ
+      "15": "Wo?"
+      "16": Dativ
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Artikel im Dativ (Wo?)"
+    instructions: "Fill in the correct dative article (dem / der / dem / den)."
+    text: |
+      1. Die Lampe hängt über {1} Tisch (m).
+      2. Das Buch liegt auf {2} Kommode (f).
+      3. Der Stuhl steht neben {3} Fenster (n).
+      4. Die Kissen liegen auf {4} Sofa (n).
+      5. Der Hund liegt unter {5} Bett (n).
+      6. Das Bild hängt an {6} Wand (f).
+      7. Die Schuhe stehen vor {7} Tür (f).
+      8. Das Regal steht hinter {8} Tür (f).
+      9. Der Sessel steht zwischen {9} Sofa (n) und {10} Fenster (n).
+      10. Die Bücher liegen auf {11} Boden (m).
+    answers:
+      "1": dem
+      "2": der
+      "3": dem
+      "4": dem
+      "5": dem
+      "6": der
+      "7": der
+      "8": der
+      "9": dem
+      "10": dem
+      "11": dem
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Artikel im Akkusativ (Wohin?)"
+    instructions: "Fill in the correct accusative article (den / die / das / die)."
+    text: |
+      1. Ich hänge die Lampe über {1} Tisch (m).
+      2. Stell den Stuhl neben {2} Tür (f).
+      3. Wir legen die Kissen auf {3} Sofa (n).
+      4. Häng das Bild an {4} Wand (f).
+      5. Er stellt die Schuhe vor {5} Tür (f).
+      6. Ich lege das Buch auf {6} Boden (m).
+      7. Stell das Regal hinter {7} Tür (f).
+      8. Sie legt die Zeitung auf {8} Tisch (m).
+      9. Ich stelle den Sessel zwischen {9} Sofa (n) und {10} Fenster (n).
+      10. Häng den Vorhang vor {11} Fenster (n).
+    answers:
+      "1": den
+      "2": die
+      "3": das
+      "4": die
+      "5": die
+      "6": den
+      "7": die
+      "8": den
+      "9": das
+      "10": das
+      "11": das
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Kontraktionen (in/an + Artikel)"
+    instructions: "Write the contracted form where possible, or the unchanged form if no contraction exists."
+    text: |
+      1. in + das → {1}
+      2. in + dem → {2}
+      3. an + das → {3}
+      4. an + dem → {4}
+      5. in + die → {5}
+      6. an + die → {6}
+      7. in + den → {7}
+      8. an + der → {8}
+
+      Now use the contractions in sentences:
+      9. Ich stelle das Buch {9} (in + das) Regal.
+      10. Das Buch steht {10} (in + dem) Regal.
+      11. Ich hänge den Kalender {11} (an + die) Wand.
+      12. Der Kalender hängt {12} (an + der) Wand — nein, {13} (an + dem) Fenster.
+    answers:
+      "1": ins
+      "2": im
+      "3": ans
+      "4": am
+      "5": "in die"
+      "6": "an die"
+      "7": "in den"
+      "8": "an der"
+      "9": ins
+      "10": im
+      "11": "an die"
+      "12": "an der"
+      "13": am
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "stellen oder stehen?"
+    instructions: "Choose `stellen` (action) or `stehen` (state). Write the correct present-tense form."
+    text: |
+      1. Wo {1} der Schreibtisch? — Er {2} am Fenster.
+      2. Ich {3} den Stuhl neben den Tisch.
+      3. Die Tassen {4} im Schrank.
+      4. {5} du die Flasche in den Kühlschrank?
+      5. Der Fernseher {6} vor dem Sofa.
+      6. Wir {7} das Regal an die Wand.
+      7. Wo {8} die Schuhe? — Sie {9} vor der Tür.
+      8. {10} Sie bitte den Karton hier.
+    answers:
+      "1": steht
+      "2": steht
+      "3": stelle
+      "4": stehen
+      "5": Stellst
+      "6": steht
+      "7": stellen
+      "8": stehen
+      "9": stehen
+      "10": Stellen
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "legen oder liegen?"
+    instructions: "Choose `legen` (action) or `liegen` (state). Write the correct present-tense form."
+    text: |
+      1. Das Kissen {1} auf dem Sofa.
+      2. Ich {2} die Bücher auf den Tisch.
+      3. Wo {3} mein Schlüssel? — Er {4} auf dem Boden.
+      4. {5} du die Zeitung auf den Tisch?
+      5. Die Spielsachen {6} in der Kiste.
+      6. Wir {7} den Teppich vor das Sofa.
+      7. Wo {8} die Hausregeln? — Sie {9} auf dem Küchentisch.
+      8. {10} Sie bitte das Formular hier ab.
+    answers:
+      "1": liegt
+      "2": lege
+      "3": liegt
+      "4": liegt
+      "5": Legst
+      "6": liegen
+      "7": legen
+      "8": liegen
+      "9": liegen
+      "10": Legen
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "hängen: action or state?"
+    instructions: "Write the correct present-tense form of `hängen`. Then write whether it is action (Wohin? + Akk) or state (Wo? + Dat)."
+    text: |
+      1. Das Bild {1} an der Wand. → {2}
+      2. Ich {3} das Bild an die Wand. → {4}
+      3. Wo {5} der Kalender? — Er {6} über dem Schreibtisch. → {7}
+      4. {8} den Vorhang vor das Fenster! → {9}
+      5. Die Jacken {10} im Flur neben der Tür. → {11}
+      6. Wir {12} die Lampe über den Tisch. → {13}
+    answers:
+      "1": hängt
+      "2": state
+      "3": hänge
+      "4": action
+      "5": hängt
+      "6": hängt
+      "7": state
+      "8": Häng
+      "9": action
+      "10": hängen
+      "11": state
+      "12": hängen
+      "13": action
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Wechselpräpositionen: alle neun"
+    instructions: "Fill in the correct preposition from the box. Each is used once."
+    text: |
+      > in · an · auf · über · unter · vor · hinter · neben · zwischen
+
+      1. Der Teppich liegt {1} dem Sofa und dem Sessel.
+      2. Die Lampe hängt {2} dem Tisch.
+      3. Der Hund schläft {3} dem Bett.
+      4. Die Schuhe stehen {4} der Tür.
+      5. Das Regal steht {5} der Wand.
+      6. Der Schlüssel liegt {6} dem Tisch.
+      7. Das Buch steht {7} dem Regal.
+      8. Die Kiste steht {8} dem Schrank.
+      9. Der Stuhl steht {9} dem Fenster.
+    answers:
+      "1": zwischen
+      "2": über
+      "3": unter
+      "4": vor
+      "5": an
+      "6": auf
+      "7": in
+      "8": hinter
+      "9": neben
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Vollständige Sätze: stellen + Akkusativ"
+    instructions: "Build a complete sentence using `stellen` + the correct accusative article. Example: Buch / auf / Tisch (m) → Ich stelle das Buch auf den Tisch."
+    text: |
+      1. Lampe (f) / über / Tisch (m) → {1}
+      2. Stuhl (m) / neben / Fenster (n) → {2}
+      3. Tassen (pl) / in / Schrank (m) → {3}
+      4. Regal (n) / an / Wand (f) → {4}
+      5. Sessel (m) / zwischen / Sofa (n) / und Fenster (n) → {5}
+      6. Schuhe (pl) / vor / Tür (f) → {6}
+    answers:
+      "1": "Ich stelle die Lampe über den Tisch."
+      "2": "Ich stelle den Stuhl neben das Fenster."
+      "3": "Ich stelle die Tassen in den Schrank."
+      "4": "Ich stelle das Regal an die Wand."
+      "5": "Ich stelle den Sessel zwischen das Sofa und das Fenster."
+      "6": "Ich stelle die Schuhe vor die Tür."
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "stehen / liegen / hängen: wo ist was?"
+    instructions: "Describe the location using the correct verb and dative article. Example: Buch / auf / Regal (n) → Das Buch steht im Regal."
+    text: |
+      1. Kissen (pl) / auf / Sofa (n) → {1}
+      2. Bild (n) / an / Wand (f) → {2}
+      3. Teppich (m) / unter / Tisch (m) → {3}
+      4. Lampe (f) / über / Schreibtisch (m) → {4}
+      5. Vorhang (m) / vor / Fenster (n) → {5}
+      6. Spiegel (m) / an / Wand (f) → {6}
+    answers:
+      "1": "Die Kissen liegen auf dem Sofa."
+      "2": "Das Bild hängt an der Wand."
+      "3": "Der Teppich liegt unter dem Tisch."
+      "4": "Die Lampe hängt über dem Schreibtisch."
+      "5": "Der Vorhang hängt vor dem Fenster."
+      "6": "Der Spiegel hängt an der Wand."
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Transformation: Wohin? → Wo?"
+    instructions: "Change the action sentence into a state sentence. Example: Ich stelle den Stuhl neben die Tür. → Der Stuhl steht neben der Tür."
+    text: |
+      1. Ich lege das Buch auf den Tisch. → {1}
+      2. Er hängt die Lampe über den Schreibtisch. → {2}
+      3. Wir stellen das Regal an die Wand. → {3}
+      4. Sie legt den Teppich unter den Tisch. → {4}
+      5. Ich hänge den Spiegel an die Wand. → {5}
+      6. Er stellt den Sessel vor das Fenster. → {6}
+    answers:
+      "1": "Das Buch liegt auf dem Tisch."
+      "2": "Die Lampe hängt über dem Schreibtisch."
+      "3": "Das Regal steht an der Wand."
+      "4": "Der Teppich liegt unter dem Tisch."
+      "5": "Der Spiegel hängt an der Wand."
+      "6": "Der Sessel steht vor dem Fenster."
+
+  - id: A12
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Transformation: Wo? → Wohin?"
+    instructions: "Change the state sentence into a command (imperative du-form) using the action verb. Example: Der Stuhl steht neben der Tür. → Stell den Stuhl neben die Tür!"
+    text: |
+      1. Das Buch liegt auf dem Tisch. → {1}
+      2. Das Bild hängt an der Wand. → {2}
+      3. Der Teppich liegt unter dem Sofa. → {3}
+      4. Die Lampe hängt über dem Bett. → {4}
+      5. Die Schuhe stehen vor der Tür. → {5}
+      6. Das Kissen liegt auf dem Sessel. → {6}
+    answers:
+      "1": "Leg das Buch auf den Tisch!"
+      "2": "Häng das Bild an die Wand!"
+      "3": "Leg den Teppich unter das Sofa!"
+      "4": "Häng die Lampe über das Bett!"
+      "5": "Stell die Schuhe vor die Tür!"
+      "6": "Leg das Kissen auf den Sessel!"
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen"
+    instructions: "Fill in the gaps with the correct form. Choose from: stell / steht / liegen / stellt / hängt / hänge / Stell / sieht."
+    text: |
+      — Wo soll das Sofa hin?
+      — {1} es vor den Fernseher.
+      — Und der Tisch?
+      — Der Tisch {2} in der Mitte des Zimmers. Nein, warte — {3} ihn lieber ans Fenster.
+      — Okay. Und die Bücher? Die {4} hier auf dem Boden.
+      — {5} sie ins Regal!
+      — Gut. Und das Bild? Es {6} noch nicht an der Wand.
+      — Ich {7} es gleich auf. Es kommt über das Sofa.
+      — Super! Das Zimmer {8} jetzt sehr gemütlich aus.
+    answers:
+      "1": Stell
+      "2": steht
+      "3": Stell
+      "4": liegen
+      "5": Stell
+      "6": hängt
+      "7": hänge
+      "8": sieht
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler"
+    instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
+    text: |
+      1. Ich stelle das Buch auf {1} Tisch. (dem → ?)
+      2. Die Lampe hängt über {2} Schreibtisch. (den → ?)
+      3. Stell den Stuhl neben {3} Tür! (der → ?)
+      4. Das Kissen {4} auf dem Sofa. (legt → ?)
+      5. Wir legen den Teppich unter das Sofa — richtig, er liegt jetzt unter {5} Sofa. (das → ?)
+      6. Sie hängt das Bild an die Wand — das Bild {6} jetzt an der Wand. (hängen → ?)
+      7. Der Schlüssel liegt {7} Tisch. (im → ?)
+      8. Ich stelle die Schuhe vor die Tür. Sie stehen jetzt vor der Tür. — Genau! {8} steht vor der Tür. (Er → ?)
+      9. Wo liegt der Spiegel? — Er hängt an {9} Wand. (die → ?)
+      10. Das Regal steht zwischen dem Fenster und {10} Tür. (die → ?)
+    answers:
+      "1": den
+      "2": dem
+      "3": die
+      "4": liegt
+      "5": dem
+      "6": hängt
+      "7": "auf dem"
+      "8": Sie
+      "9": der
+      "10": der
+
+  - id: B3
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    left:
+      - { key: "1", text: "Wo hängt das Bild?" }
+      - { key: "2", text: "Wohin soll ich die Bücher legen?" }
+      - { key: "3", text: "Steht der Tisch schon am Fenster?" }
+      - { key: "4", text: "Wo liegt die Fernbedienung?" }
+      - { key: "5", text: "Hängst du die Lampe über den Tisch?" }
+      - { key: "6", text: "Wohin stellen wir den Sessel?" }
+      - { key: "7", text: "Wo liegt der Teppich?" }
+      - { key: "8", text: "Stell die Kiste hinter die Tür!" }
+    right:
+      - { key: a, text: "Nein, aber ich stelle es gleich hin." }
+      - { key: b, text: "Sie liegt auf dem Sofa." }
+      - { key: c, text: "Es hängt an der Wand über dem Sofa." }
+      - { key: d, text: "Ins Regal, bitte." }
+      - { key: e, text: "Nein, er steht noch in der Mitte." }
+      - { key: f, text: "Zwischen das Fenster und die Tür." }
+      - { key: g, text: "Er liegt unter dem Sofa." }
+      - { key: h, text: "Okay, sie steht jetzt dahinter." }
+    answers:
+      "1": c
+      "2": d
+      "3": e
+      "4": b
+      "5": a
+      "6": f
+      "7": g
+      "8": h
+
+  - id: B4
+    block: B
+    type: order
+    title: "Satzbau: Wechselpräpositionen"
+    instructions: "Build a correct German sentence from the cues."
+    items:
+      - tiles: [Lampe, hängt, über, dem, die, Tisch]
+        answer: [4, 0, 1, 2, 3, 5]
+        note: "Die Lampe hängt über dem Tisch. (state → Dativ)"
+      - tiles: [Ich, stelle, den, Stuhl, vor, das, Fenster]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Ich stelle den Stuhl vor das Fenster. (action → Akkusativ)"
+      - tiles: [Die, Bücher, liegen, auf, dem, Boden]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Die Bücher liegen auf dem Boden. (state → Dativ)"
+      - tiles: [Wir, hängen, den, Spiegel, an, die, Wand]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Wir hängen den Spiegel an die Wand. (action → Akkusativ)"
+      - tiles: [Das, Sofa, steht, zwischen, dem, Tisch, und, dem, Regal]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Das Sofa steht zwischen dem Tisch und dem Regal. (state → Dativ, both nouns)"
+      - tiles: [Sie, legt, den, Teppich, unter, den, Tisch]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Sie legt den Teppich unter den Tisch. (action → Akkusativ)"
+      - tiles: [Der, Schreibtisch, steht, neben, dem, Fenster]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Der Schreibtisch steht neben dem Fenster. (state → Dativ)"
+      - tiles: [Ich, stelle, das, Regal, ins, Schlafzimmer]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Ich stelle das Regal ins Schlafzimmer. (action → Akkusativ; ins = in + das)"
+
+  - id: B5
+    block: B
+    type: free-write
+    title: "Beschreibe das Zimmer"
+    instructions: |
+      *Anna's room:* Bett — an der linken Wand · Schreibtisch — am Fenster · Bücherregal — neben der Tür · Lampe — über dem Schreibtisch · Kissen (2 Stück) — auf dem Bett · Bücher — im Regal
+      
+      Look at the description and answer the questions in complete sentences.
+    prompt: "Answer each question about Anna's room in a complete sentence."
+    stimulus: |
+      1. Wo steht das Bett?
+      2. Wo steht der Schreibtisch?
+      3. Wo steht das Bücherregal?
+      4. Wo hängt die Lampe?
+      5. Wo liegen die Kissen?
+      6. Wo stehen die Bücher?
+    model: |
+      1. Das Bett steht an der linken Wand.
+      2. Der Schreibtisch steht am Fenster.
+      3. Das Bücherregal steht neben der Tür.
+      4. Die Lampe hängt über dem Schreibtisch.
+      5. Die Kissen liegen auf dem Bett.
+      6. Die Bücher stehen im Regal.
+
+  - id: B6
+    block: B
+    type: categorize
+    title: "Kategorien: Möbel sortieren"
+    instructions: "Sort these words into the correct room. Some words fit more than one room — put them in the most natural room and be ready to explain."
+    buckets:
+      - { key: schlafzimmer, label: "Schlafzimmer" }
+      - { key: wohnzimmer, label: "Wohnzimmer" }
+      - { key: kueche, label: "Küche" }
+      - { key: badezimmer, label: "Badezimmer" }
+    tokens:
+      - { text: "Bett", bucket: schlafzimmer }
+      - { text: "Kleiderschrank", bucket: schlafzimmer }
+      - { text: "Schreibtisch", bucket: schlafzimmer }
+      - { text: "Sofa", bucket: wohnzimmer }
+      - { text: "Fernseher", bucket: wohnzimmer }
+      - { text: "Sessel", bucket: wohnzimmer }
+      - { text: "Kissen", bucket: wohnzimmer }
+      - { text: "Teppich", bucket: wohnzimmer }
+      - { text: "Bücherregal", bucket: wohnzimmer }
+      - { text: "Herd", bucket: kueche }
+      - { text: "Kühlschrank", bucket: kueche }
+      - { text: "Esstisch", bucket: kueche }
+      - { text: "Badewanne", bucket: badezimmer }
+      - { text: "Dusche", bucket: badezimmer }
+      - { text: "Waschbecken", bucket: badezimmer }
+
+  - id: B7
+    block: B
+    type: free-write
+    title: "Übersetzen (EN → DE)"
+    prompt: "Translate each sentence into German."
+    stimulus: |
+      1. The lamp is hanging above the desk.
+      2. Put the chair next to the door!
+      3. Where is my book? — It's lying on the floor.
+      4. I'm putting the mirror on the wall.
+      5. The shelf is standing between the window and the door.
+      6. She's laying the carpet under the table.
+      7. Are you (informal) hanging the picture above the sofa?
+      8. The shoes are in front of the door — please put them behind the door!
+    model: |
+      1. Die Lampe hängt über dem Schreibtisch.
+      2. Stell den Stuhl neben die Tür!
+      3. Wo ist mein Buch? — Es liegt auf dem Boden.
+      4. Ich hänge den Spiegel an die Wand.
+      5. Das Regal steht zwischen dem Fenster und der Tür.
+      6. Sie legt den Teppich unter den Tisch.
+      7. Hängst du das Bild über das Sofa?
+      8. Die Schuhe stehen vor der Tür — stell sie bitte hinter die Tür!
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Hausregeln schreiben"
+    instructions: "Example: Man stellt das schmutzige Geschirr nicht auf den Tisch — man spült es sofort."
+    prompt: "Write 4 house rules for a shared flat, using man + modal verb or imperative. Use Wechselpräpositionen in at least two rules."
+    use:
+      - "use man + modal verb or imperative (du-form)"
+      - "Wechselpräpositionen in at least 2 rules"
+    selfCheck:
+      - "Dativ after state verbs? Akkusativ after action verbs?"
+      - "Did I use stellen/stehen (upright) and legen/liegen (flat) correctly?"
+      - "Did I use contractions where required (ins, im, ans, am)?"
+    model: |
+      1. Man stellt die Schuhe hinter die Tür, nicht vor die Tür.
+      2. Bitte leg das schmutzige Geschirr nicht auf den Tisch — spül es sofort.
+      3. Keine Musik nach 22 Uhr — das ist die wichtigste Regel!
+      4. Man hängt nasse Handtücher in das Badezimmer, nicht in den Flur.
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Problem im Bad: E-Mail an den Vermieter"
+    prompt: "Antworte Herrn Schmidt in 4–5 Sätzen. Beschreib ihm das Problem in deiner Wohnung: Wo ist es, was passiert, und seit wann."
+    stimulus: |
+      **E-Mail von Herrn Schmidt, dein Vermieter** *(Du hast diese Antwort gerade bekommen):*
+      
+      Sehr geehrte/r Mieter/in,
+      vielen Dank für Ihre Nachricht. Können Sie mir das Problem genauer beschreiben? In welchem Raum ist es? Was passiert genau? Seit wann haben Sie das Problem? Ich komme dann am Wochenende vorbei.
+      Mit freundlichen Grüßen, M. Schmidt
+    use:
+      - "at least 1 sentence with Wo? (Dativ)"
+      - "at least 1 sentence with Wohin? (Akkusativ)"
+      - "at least 1 state verb (stehen / liegen / hängen)"
+      - "a time expression (seit gestern / seit drei Tagen / seit einer Woche)"
+    selfCheck:
+      - "Did I use Dativ after state verbs (stehen/liegen/hängen) and Akkusativ after action verbs (stellen/legen/hängen)?"
+      - "Did I choose stellen/stehen (upright), legen/liegen (flat), hängen correctly?"
+      - "Did I use contractions where required (im, am, in der, an der, neben dem)?"
+    model: |
+      Sehr geehrter Herr Schmidt,
+      vielen Dank für Ihre schnelle Antwort. Das Problem ist im Bad: unter dem Waschbecken steht ein Eimer, weil das Wasser aus dem Rohr in den Eimer tropft. Vor der Badewanne liegt ein nasses Handtuch. Ich habe das Problem seit drei Tagen. Ich bin am Samstagvormittag zu Hause. Mit freundlichen Grüßen, [Name]
+
+  - id: B10
+    block: B
+    type: free-write
+    title: "Mini-Aufsatz: Mein Zimmer"
+    instructions: "**Situation:** You are moving into a WG next week. Your new flatmate has asked you to describe your room so they know where to help you place the furniture."
+    prompt: "Describe your own room (real or imaginary) in 5–6 sentences. Use stehen, liegen, hängen and at least four different Wechselpräpositionen with the correct case."
+    use:
+      - "use stehen, liegen, hängen with the correct case"
+      - "at least 4 different Wechselpräpositionen"
+      - "5–6 sentences"
+    selfCheck:
+      - "Did I use the correct Wechselpräposition case — Dativ after state verbs and Akkusativ after action verbs?"
+      - "Did I choose stellen/stehen for upright objects and legen/liegen for flat/horizontal objects?"
+      - "Did I use contractions where required (ins, im, ans, am)?"
+    model: |
+      Mein Zimmer ist nicht groß, aber gemütlich. Das Bett steht an der Wand neben dem Fenster. Auf dem Bett liegen zwei Kissen. Der Schreibtisch steht am Fenster, und die Lampe hängt über dem Schreibtisch. Das Regal steht zwischen der Tür und dem Schrank. Meine Bücher stehen im Regal. Ein kleiner Teppich liegt vor dem Bett.
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext"
+    instructions: "Fill each gap with one word."
+    text: |
+      Anna ist letzte Woche (1) {1} ihre neue Wohngemeinschaft eingezogen. Die WG
+      (2) {2} vier Zimmer und eine große Küche. Ihr Zimmer ist klein, aber (3) {3}.
+      Das Bett (4) {4} an der linken Wand, direkt unter dem Fenster. (5) {5} dem
+      Bett liegen zwei bunte Kissen. Der Schreibtisch (6) {6} am Fenster, und das
+      Bücherregal (7) {7} neben der Tür. Die Lampe (8) {8} über dem Tisch.
+      Die Hausregeln (9) {9} einfach: Man spült das Geschirr sofort, und jeder
+      (10) {10} die Küche einmal pro Woche.
+    answers:
+      "1": in
+      "2": hat
+      "3": gemütlich
+      "4": steht
+      "5": Auf
+      "6": steht
+      "7": steht
+      "8": hängt
+      "9": sind
+      "10": putzt
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 (multiple choice)"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Sie (1) ______ im zweiten Stock."
+        options:
+          - { key: a, text: "liegt" }
+          - { key: b, text: "steht" }
+          - { key: c, text: "hängt" }
+        answer: b
+        why: 'Wohnungen stehen; „Die Wohnung steht im zweiten Stock" ✓'
+      - q: "Das Sofa (2) ______ jetzt vor dem Fernseher."
+        options:
+          - { key: a, text: "liegt" }
+          - { key: b, text: "steht" }
+          - { key: c, text: "hängt" }
+        answer: b
+        why: "Sofa is upright furniture → steht."
+      - q: "Ich habe den Schreibtisch (3) ______ Fenster gestellt."
+        options:
+          - { key: a, text: "am" }
+          - { key: b, text: "ans" }
+          - { key: c, text: "in" }
+        answer: b
+        why: "an + das → ans (Wohin? → Akkusativ: ans Fenster)."
+      - q: "Die Bücher (4) ______ schon im Regal."
+        options:
+          - { key: a, text: "liegen" }
+          - { key: b, text: "stehen" }
+          - { key: c, text: "hängen" }
+        answer: b
+        why: "Bücher im Regal → stehen (upright)."
+      - q: "Meine Jacken hänge ich (5) ______ den Haken im Flur."
+        options:
+          - { key: a, text: "an" }
+          - { key: b, text: "auf" }
+          - { key: c, text: "über" }
+        answer: a
+        why: "an den Haken (Wohin? + Akk)."
+      - q: "Es ist noch nicht alles fertig, aber ich bin schon (6) ______ der neuen Wohnung sehr zufrieden."
+        options:
+          - { key: a, text: "in" }
+          - { key: b, text: "mit" }
+          - { key: c, text: "über" }
+        answer: a
+        why: 'in der neuen Wohnung zufrieden — accepted as natural here; the most idiomatic phrase is „zufrieden mit der neuen Wohnung", but mit was not offered.'
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word may be used once."
+    text: |
+      — Wie sieht dein Zimmer aus?
+      — Also, das Bett {1} an der Wand. {2} dem Bett liegen zwei
+      Kissen. Der Schreibtisch steht {3} Fenster. Die Lampe {4} über
+      dem Schreibtisch.
+      — Und das Regal?
+      — Das Regal steht {5} dem Fenster und der Tür. Meine Bücher stehen
+      {6} Regal.
+      — Hast du auch einen Teppich?
+      — Ja, er liegt {7} dem Bett — also {8} dem Bett. Der Teppich
+      ist blau.
+      — Schön! Und wohin hängst du das Bild?
+      — Ich hänge es {9} die Wand, {10} dem Fenster.
+    bank: [AN, AM, AUF, LIEGT, STEHT, HÄNGT, INS, IM, VOR, NEBEN, ÜBER, STELLT, LEGT, ZWISCHEN, UNTER, DER, HINTER, STEHEN, DEM, AUS, LEGEN]
+    answers:
+      "1": STEHT
+      "2": AUF
+      "3": AM
+      "4": HÄNGT
+      "5": ZWISCHEN
+      "6": IM
+      "7": VOR
+      "8": UNTER
+      "9": AN
+      "10": NEBEN
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 — Annas neue WG"
+    instructions: 'Read „Annas neue WG" in `lesson.md`, section 5. Richtig (R) oder Falsch (F)?'
+    items:
+      - { q: "Anna wohnt jetzt mit vier anderen Studenten zusammen.", answer: false, why: '„Ich und drei andere Studenten" = 4 total; mit vier anderen would be 5.' }
+      - { q: "Das Bett steht neben dem Fenster.", answer: false, why: 'The text says „direkt unter dem Fenster" (under), not next to it.' }
+      - { q: "Der Schreibtisch steht am Fenster.", answer: true, why: "Der Schreibtisch steht am Fenster ✓" }
+      - { q: "Das Bücherregal hängt an der Wand über dem Schreibtisch.", answer: false, why: "Das Bücherregal steht neben der Tür (not hangs on the wall)." }
+      - { q: "Jeder muss die Küche einmal pro Woche putzen.", answer: true, why: "jeder putzt die Küche einmal pro Woche ✓" }
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 — Wohnungsanzeige"
+    instructions: |
+      > **Zimmer in 3er-WG — Berlin-Mitte, 450 € warm**
+      >
+      > Wir suchen eine/n Mitbewohner/in für unser schönes Zimmer (14 m²) in einer
+      > ruhigen 3er-WG in Berlin-Mitte. Das Zimmer liegt im dritten Stock mit Blick
+      > auf den Hinterhof. Es gibt einen eingebauten Kleiderschrank und einen
+      > Schreibtisch. Küche und Bad teilen wir uns. Wir haben ein paar einfache
+      > Hausregeln: kein Rauchen in der Wohnung, Musik nur bis 22 Uhr, und wir
+      > putzen reihum. Haustiere leider nicht möglich. Wir sind zwei Studentinnen
+      > (23 und 25 Jahre alt). Melde dich gerne!
+      
+      Choose a, b, or c:
+    items:
+      - q: "Die WG hat …"
+        options:
+          - { key: a, text: "zwei Zimmer" }
+          - { key: b, text: "drei Zimmer" }
+          - { key: c, text: "vier Zimmer" }
+        answer: b
+        why: "3er-WG = 3 rooms total."
+      - q: "Das freie Zimmer hat …"
+        options:
+          - { key: a, text: "einen Kleiderschrank, aber keinen Schreibtisch" }
+          - { key: b, text: "einen Schreibtisch und einen eingebauten Kleiderschrank" }
+          - { key: c, text: "nur einen Tisch und einen Stuhl" }
+        answer: b
+        why: "einen eingebauten Kleiderschrank und einen Schreibtisch ✓"
+      - q: "Welche Hausregel gibt es NOT in der Anzeige?"
+        options:
+          - { key: a, text: "Kein Rauchen" }
+          - { key: b, text: "Keine Musik nach 22 Uhr" }
+          - { key: c, text: "Kein Kochen nach 21 Uhr" }
+        answer: c
+        why: "Not mentioned — rules are no smoking, music only until 22 Uhr, cleaning rotation."
+      - q: "Was ist in dieser WG nicht erlaubt?"
+        options:
+          - { key: a, text: "Musik hören" }
+          - { key: b, text: "Haustiere" }
+          - { key: c, text: "Rauchen im Hof" }
+        answer: b
+        why: "Haustiere leider nicht möglich ✓"
+      - q: "Wer wohnt schon in der WG?"
+        options:
+          - { key: a, text: "Zwei Studenten (männlich)" }
+          - { key: b, text: "Ein Student und eine Studentin" }
+          - { key: c, text: "Zwei Studentinnen" }
+        answer: c
+        why: "Wir sind zwei Studentinnen (23 und 25 Jahre alt) ✓"
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: WG-Anzeige"
+    prompt: "Write a short description of a room (real or imaginary) for a WG advertisement (8–10 sentences)."
+    use:
+      - "use stehen, liegen, hängen with the correct case"
+      - "use at least 5 different Wechselpräpositionen"
+      - "include 1–2 house rules"
+    selfCheck:
+      - "Dativ after state verbs (stehen, liegen, hängen)?"
+      - "Akkusativ after action verbs (stellen, legen, hängen)?"
+      - "Contractions where possible (ins, im, ans, am)?"
+    model: |
+      Ich suche eine/n Mitbewohner/in für mein schönes Zimmer in Berlin-Mitte. Das Zimmer ist 16 m² groß und sehr hell. Das Bett steht an der Wand neben dem Fenster. Der Schreibtisch steht am Fenster — von dort hat man einen schönen Blick auf den Garten. Die Lampe hängt über dem Schreibtisch. Das Bücherregal steht zwischen der Tür und dem Schrank. Auf dem Boden liegt ein großer Teppich vor dem Bett. Wir haben zwei Hausregeln: keine Musik nach 22 Uhr, und man spült das Geschirr sofort nach dem Essen.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per item. No notes."
+    text: |
+      1. `stellen` oder `stehen`? For placing an upright object: {1}
+      2. `legen` oder `liegen`? For an object that is flat/horizontal: {2}
+      3. Das Buch liegt {3} {4} Tisch. (auf + Dativ article for m) — auf
+      4. Ich lege das Buch {5} {6} Tisch. (auf + Akkusativ article for m) — auf
+      5. in + das = {7} (contraction)
+      6. an + dem = {8} (contraction)
+      7. Name all 9 Wechselpräpositionen: {9}
+      8. Wo? → which case: {10}
+      9. Wohin? → which case: {11}
+      10. (L8) Dative preposition for transportation: Ich fahre {12} dem Bus.
+      11. (L4) es gibt + which case: Akkusativ or Dativ? {13}
+      12. (L9) Which verb takes Dativ: `helfen` or `sehen`? {14}
+      13. (L4) German for "bedroom": {15}
+      14. Partizip II of `einziehen`: {16}
+      15. (L3) kein + which case for object: In „Ich habe kein Buch" — Akkusativ or Dativ? {17}
+    answers:
+      "1": stellen
+      "2": liegen
+      "3": auf
+      "4": dem
+      "5": auf
+      "6": den
+      "7": ins
+      "8": am
+      "9": "in, an, auf, über, unter, vor, hinter, neben, zwischen"
+      "10": Dativ
+      "11": Akkusativ
+      "12": mit
+      "13": Akkusativ
+      "14": helfen
+      "15": "das Schlafzimmer"
+      "16": eingezogen
+      "17": Akkusativ
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Cross out the word that doesn't fit."
+    groups:
+      - items: [stellen, legen, hängen, liegen]
+        odd: 3
+        why: "state verb; stellen, legen, hängen are action/placement verbs"
+      - items: [in, an, auf, mit]
+        odd: 3
+        why: "always Dative preposition; in, an, auf are Wechselpräpositionen"
+      - items: [Bett, Sofa, Herd, Sessel]
+        odd: 2
+        why: "kitchen appliance among seating/sleeping furniture"
+      - items: [Küche, Badezimmer, Flur, Vorhang]
+        odd: 3
+        why: "furnishing/textile among rooms"
+      - items: [über, unter, neben, weil]
+        odd: 3
+        why: "conjunction among prepositions"
+      - items: [Miete, Vermieter, Mietvertrag, Schreibtisch]
+        odd: 3
+        why: "piece of furniture among renting-related words"
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: Lektionen 4, 8, 9"
+    text: |
+      1. (L4) `es gibt` — fill in: Es {1} eine Küche im ersten Stock.
+      2. (L4) Name three rooms of a house (German + article): {2}, {3}, {4}
+      3. (L4) Predicative adjective: Das Zimmer ist {5} (schön — no change needed here).
+      4. (L8) Dative preposition: Ich gehe {6} Fuß zur Schule. (zu)
+      5. (L8) Dative preposition: Sie wohnt {7} ihrer Freundin. (bei)
+      6. (L8) Translate: "I travel by bus." → {8}
+      7. (L9) Which case does `gefallen` take: Akk or Dat? Das Zimmer gefällt {9} (mir/mich).
+      8. (L9) Dative pronoun for `du`: {10}
+      9. (L9) Complete: „Wie {11} Ihnen die neue Wohnung?" (gefallen, Sie-form)
+      10. (L4) German for "wardrobe": {12}
+    answers:
+      "1": gibt
+      "2": "das Schlafzimmer"
+      "3": "das Wohnzimmer"
+      "4": "die Küche"
+      "5": schön
+      "6": zu
+      "7": bei
+      "8": "Ich fahre mit dem Bus."
+      "9": mir
+      "10": dir
+      "11": gefällt
+      "12": "der Kleiderschrank"
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion A2/03. Below 16 → redo Block A (A1–A7) and Block B2 tomorrow, then retest D4."
+    text: |
+      Dativ or Akkusativ:
+      1. Wo liegt das Buch? — auf {1} Tisch (m) → {2}
+      2. Ich lege das Buch auf {3} Tisch (m) → {4}
+      3. Die Lampe hängt über {5} Bett (n) → {6}
+      4. Häng die Lampe über {7} Bett (n) → {8}
+      5. Der Stuhl steht neben {9} Tür (f) → {10}
+
+      Contractions:
+      6. in + dem = {11}
+      7. an + das = {12}
+      8. in + das = {13}
+
+      stellen / stehen / legen / liegen / hängen:
+      9. Ich {14} das Buch ins Regal. (place upright)
+      10. Das Buch {15} im Regal. (be upright)
+      11. Sie {16} das Kissen auf das Sofa. (place flat)
+      12. Das Kissen {17} auf dem Sofa. (be flat)
+      13. Er {18} das Bild an die Wand. (hang — action)
+      14. Das Bild {19} an der Wand. (hang — state)
+
+      Vocabulary:
+      15. German for "flat share": {20}
+      16. German for "flatmate" (m): {21}
+      17. German for "landlord": {22}
+      18. German for "move in" (verb): {23}
+
+      Sentences:
+      19. Translate: "The carpet is lying under the table." → {24}
+      20. Translate: "Put the chair next to the window!" (du-form imperative) → {25}
+    answers:
+      "1": dem
+      "2": Dativ
+      "3": den
+      "4": Akkusativ
+      "5": dem
+      "6": Dativ
+      "7": das
+      "8": Akkusativ
+      "9": der
+      "10": Dativ
+      "11": im
+      "12": ans
+      "13": ins
+      "14": stelle
+      "15": steht
+      "16": legt
+      "17": liegt
+      "18": hängt
+      "19": hängt
+      "20": "die Wohngemeinschaft / WG"
+      "21": "der Mitbewohner"
+      "22": "der Vermieter"
+      "23": einziehen
+      "24": "Der Teppich liegt unter dem Tisch."
+      "25": "Stell den Stuhl neben das Fenster!"

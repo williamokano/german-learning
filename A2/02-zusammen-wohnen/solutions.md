@@ -1,424 +1,262 @@
-# A2 · Lektion 2 — Lösungen (Solutions)
+# A2 · Lektion 2 — Lösungen
 
 ---
 
-# Block H — Lösungen
+# Block H — Hören
 
-## H1a — Dialog A Hör-Check
+## Übung H1a — Dialog Hör-Check: Dialog A (informell)
 
-1. **R** — Anna says "Ich habe endlich eine neue Wohngemeinschaft gefunden!"
-2. **F** — The WG has four rooms, not three ("vier — ich und drei andere Studenten").
-3. **R** — "Den Tisch … stelle ich ihn ans Fenster."
-4. **R** — "Es steht zwischen dem Fenster und der Tür."
+1. **R** — Anna sagt: „Ich habe endlich eine neue Wohngemeinschaft gefunden!"
+2. **F** — Die WG hat vier Zimmer, nicht drei (Anna und drei andere Studenten).
+3. **R** — Anna sagt: „Den Tisch … stelle ich ihn ans Fenster."
+4. **R** — „Es steht zwischen dem Fenster und der Tür."
 
-## H1b — Dialog B Hör-Check
+## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) im dritten Stock** — "Die Wohnung ist im dritten Stock."
-2. **c) Vor dem Fernseher** — "Das Sofa steht jetzt vor dem Fernseher."
-3. **a) Das Bett steht unter dem Fenster.** — "Das Bett steht unter dem Fenster."
-4. **b) Sie hat die Bilder an die Wand gehängt.** — "Meine Frau hat die Bilder an die Wand gehängt."
+1. **b) im dritten Stock** — „Die Wohnung ist im dritten Stock."
+2. **c) Vor dem Fernseher** — „Das Sofa steht jetzt vor dem Fernseher."
+3. **a) Das Bett steht unter dem Fenster.** — „Das Bett steht unter dem Fenster."
+4. **b) Sie hat die Bilder an die Wand gehängt.** — „Meine Frau hat die Bilder an die Wand gehängt."
 
-## H3 — Hörtext-Lückentext
+## Übung H3 — Hörtext-Lückentext
 
-1. **besichtigt**
-2. **klein**
-3. **stand**
-4. **lag**
-5. **Möbel**
-6. **hell**
-7. **Schreibtisch**
-8. **Vermieter**
+1. **besichtigt**  2. **klein**  3. **stand**  4. **lag**  5. **Möbel**  6. **hell**  7. **Schreibtisch**  8. **Vermieter**
 
-*Not needed: geschrieben · groß · dunkel*
+## Übung H4 — Kurze Ansage: Anruf vom Vermieter
 
-## H4 — Kurze Ansage: Anruf vom Vermieter
-
-1. **b) Am Samstag um elf Uhr** — „Sie können am Samstag um elf Uhr zur Besichtigung kommen."
-2. **a) In der Lindenallee 14** — „Die Wohnung in der Lindenallee 14 ist noch frei."
-3. **a) Eine Mietschuldenfreiheitsbescheinigung und den Personalausweis** — „Bitte bringen Sie eine Mietschuldenfreiheitsbescheinigung und Ihren Personalausweis mit."
-4. **b) Bis morgen Abend** — „Bitte rufen Sie mich bis morgen Abend zurück, um den Termin zu bestätigen."
+1. **b) Am Samstag um elf Uhr.** — „Sie können am Samstag um elf Uhr zur Besichtigung kommen."
+2. **a) In der Lindenallee 14.** — „Die Wohnung in der Lindenallee 14 ist noch frei."
+3. **a) Eine Mietschuldenfreiheitsbescheinigung und den Personalausweis.** — „Bitte bringen Sie eine Mietschuldenfreiheitsbescheinigung und Ihren Personalausweis mit."
+4. **b) Bis morgen Abend.** — „Bitte rufen Sie mich bis morgen Abend zurück, um den Termin zu bestätigen."
 
 ---
 
-# Block A — Lösungen
+# Block A — Basistraining
 
-## A1 — Wo? oder Wohin?
+## Übung A1 — Wo? oder Wohin? (Dativ oder Akkusativ?)
 
-1. **Wo?** / **Dativ** — "liegt auf dem Tisch" = location
-2. **Wohin?** / **Akkusativ** — "lege auf den Tisch" = placement
-3. **Wo?** / **Dativ** — "hängt über dem Bett" = location
-4. **Wohin?** / **Akkusativ** — "Häng über das Bett" = placement
-5. **Wo?** / **Dativ** — "steht neben der Tür" = location
-6. **Wohin?** / **Akkusativ** — "Stell neben die Tür" = placement
-7. **Wohin?** / **Akkusativ** — "gehen in das Zimmer" = movement
-8. **Wo?** / **Dativ** — "sind im Zimmer" = location
+1. **Wo?**  2. **Dativ**  3. **Wohin?**  4. **Akkusativ**  5. **Wo?**  6. **Dativ**  7. **Wohin?**  8. **Akkusativ**  9. **Wo?**  10. **Dativ**  11. **Wohin?**  12. **Akkusativ**  13. **Wohin?**  14. **Akkusativ**  15. **Wo?**  16. **Dativ**
 
-## A2 — Dativ-Artikel (Wo?)
+## Übung A2 — Artikel im Dativ (Wo?)
 
-1. über **dem** Tisch (m → dem)
-2. auf **der** Kommode (f → der)
-3. neben **dem** Fenster (n → dem)
-4. auf **dem** Sofa (n → dem)
-5. unter **dem** Bett (n → dem)
-6. an **der** Wand (f → der)
-7. vor **der** Tür (f → der)
-8. hinter **der** Tür (f → der)
-9. zwischen **dem** Sofa und **dem** Fenster (both n → dem)
-10. auf **dem** Boden (m → dem)
+1. **dem**  2. **der**  3. **dem**  4. **dem**  5. **dem**  6. **der**  7. **der**  8. **der**  9. **dem**  10. **dem**  11. **dem**
 
-## A3 — Akkusativ-Artikel (Wohin?)
+## Übung A3 — Artikel im Akkusativ (Wohin?)
 
-1. über **den** Tisch (m → den)
-2. neben **die** Tür (f → die)
-3. auf **das** Sofa (n → das)
-4. an **die** Wand (f → die)
-5. vor **die** Tür (f → die)
-6. auf **den** Boden (m → den)
-7. hinter **die** Tür (f → die)
-8. auf **den** Tisch (m → den)
-9. zwischen **das** Sofa und **das** Fenster (both n → das)
-10. vor **das** Fenster (n → das)
+1. **den**  2. **die**  3. **das**  4. **die**  5. **die**  6. **den**  7. **die**  8. **den**  9. **das**  10. **das**  11. **das**
 
-## A4 — Kontraktionen
+## Übung A4 — Kontraktionen (in/an + Artikel)
 
-1. in + das → **ins**
-2. in + dem → **im**
-3. an + das → **ans**
-4. an + dem → **am**
-5. in + die → **no contraction** (in die)
-6. an + die → **no contraction** (an die)
-7. in + den → **no contraction** (in den)
-8. an + der → **no contraction** (an der)
+1. **ins**  2. **im**  3. **ans**  4. **am**  5. **in die**  6. **an die**  7. **in den**  8. **an der**  9. **ins**  10. **im**  11. **an die**  12. **an der**  13. **am**
 
-9. **ins** Regal
-10. **im** Regal
-11. **an die** Wand (no contraction for f accusative)
-12. **an der** Wand; **am** Fenster
+## Übung A5 — stellen oder stehen?
 
-## A5 — stellen oder stehen?
+1. **steht**  2. **steht**  3. **stelle**  4. **stehen**  5. **Stellst**  6. **steht**  7. **stellen**  8. **stehen**  9. **stehen**  10. **Stellen**
 
-1. **steht** / **steht** — Wo steht der Schreibtisch? — Er steht am Fenster.
-2. **stelle** — Ich stelle den Stuhl neben den Tisch.
-3. **stehen** — Die Tassen stehen im Schrank.
-4. **Stellst** — Stellst du die Flasche in den Kühlschrank?
-5. **steht** — Der Fernseher steht vor dem Sofa.
-6. **stellen** — Wir stellen das Regal an die Wand.
-7. **stehen** / **stehen** — Wo stehen die Schuhe? — Sie stehen vor der Tür.
-8. **Stellen** — Stellen Sie bitte den Karton hier.
+## Übung A6 — legen oder liegen?
 
-## A6 — legen oder liegen?
+1. **liegt**  2. **lege**  3. **liegt**  4. **liegt**  5. **Legst**  6. **liegen**  7. **legen**  8. **liegen**  9. **liegen**  10. **Legen**
 
-1. **liegt** — Das Kissen liegt auf dem Sofa.
-2. **lege** — Ich lege die Bücher auf den Tisch.
-3. **liegt** / **liegt** — Wo liegt mein Schlüssel? — Er liegt auf dem Boden.
-4. **Legst** — Legst du die Zeitung auf den Tisch?
-5. **liegen** — Die Spielsachen liegen in der Kiste.
-6. **legen** — Wir legen den Teppich vor das Sofa.
-7. **liegen** / **liegen** — Wo liegen die Hausregeln? — Sie liegen auf dem Küchentisch.
-8. **Legen** — Legen Sie bitte das Formular hier ab.
+## Übung A7 — hängen: action or state?
 
-## A7 — hängen: action or state?
+1. **hängt**  2. **state**  3. **hänge**  4. **action**  5. **hängt**  6. **hängt**  7. **state**  8. **Häng**  9. **action**  10. **hängen**  11. **state**  12. **hängen**  13. **action**
 
-1. **hängt** → **state** (Wo? + Dativ: "an der Wand")
-2. **hänge** → **action** (Wohin? + Akkusativ: "an die Wand")
-3. **hängt** / **hängt** → **state** (Wo? + Dativ: "über dem Schreibtisch")
-4. **Häng** → **action** (Wohin? + Akkusativ: "vor das Fenster")
-5. **hängen** → **state** (Wo? + Dativ: "im Flur neben der Tür")
-6. **hängen** → **action** (Wohin? + Akkusativ: "über den Tisch")
+## Übung A8 — Wechselpräpositionen: alle neun
 
-## A8 — Alle neun Wechselpräpositionen
+1. **zwischen**  2. **über**  3. **unter**  4. **vor**  5. **an**  6. **auf**  7. **in**  8. **hinter**  9. **neben**
 
-1. **zwischen** — zwischen dem Sofa und dem Sessel
-2. **über** — über dem Tisch
-3. **unter** — unter dem Bett
-4. **vor** — vor der Tür
-5. **an** — an der Wand
-6. **auf** — auf dem Tisch
-7. **in** — in dem / im Regal
-8. **hinter** — hinter dem Schrank
-9. **neben** — neben dem Fenster
+## Übung A9 — Vollständige Sätze: stellen + Akkusativ
 
-## A9 — stellen + Akkusativ
+1. **Ich stelle die Lampe über den Tisch.**  2. **Ich stelle den Stuhl neben das Fenster.**  3. **Ich stelle die Tassen in den Schrank.**  4. **Ich stelle das Regal an die Wand.**  5. **Ich stelle den Sessel zwischen das Sofa und das Fenster.**  6. **Ich stelle die Schuhe vor die Tür.**
 
-1. Ich stelle die Lampe über den Tisch.
-2. Ich stelle den Stuhl neben das Fenster.
-3. Ich stelle die Tassen in den Schrank.
-4. Ich stelle das Regal an die Wand.
-5. Ich stelle den Sessel zwischen das Sofa und das Fenster.
-6. Ich stelle die Schuhe vor die Tür.
+## Übung A10 — stehen / liegen / hängen: wo ist was?
 
-## A10 — stehen/liegen/hängen + Dativ
+1. **Die Kissen liegen auf dem Sofa.**  2. **Das Bild hängt an der Wand.**  3. **Der Teppich liegt unter dem Tisch.**  4. **Die Lampe hängt über dem Schreibtisch.**  5. **Der Vorhang hängt vor dem Fenster.**  6. **Der Spiegel hängt an der Wand.**
 
-1. Die Kissen liegen auf dem Sofa.
-2. Das Bild hängt an der Wand.
-3. Der Teppich liegt unter dem Tisch.
-4. Die Lampe hängt über dem Schreibtisch.
-5. Der Vorhang hängt vor dem Fenster.
-6. Der Spiegel hängt an der Wand.
+## Übung A11 — Transformation: Wohin? → Wo?
 
-## A11 — Transformation: Wohin? → Wo?
+1. **Das Buch liegt auf dem Tisch.**  2. **Die Lampe hängt über dem Schreibtisch.**  3. **Das Regal steht an der Wand.**  4. **Der Teppich liegt unter dem Tisch.**  5. **Der Spiegel hängt an der Wand.**  6. **Der Sessel steht vor dem Fenster.**
 
-1. Das Buch liegt auf dem Tisch.
-2. Die Lampe hängt über dem Schreibtisch.
-3. Das Regal steht an der Wand.
-4. Der Teppich liegt unter dem Tisch.
-5. Der Spiegel hängt an der Wand.
-6. Der Sessel steht vor dem Fenster.
+## Übung A12 — Transformation: Wo? → Wohin?
 
-## A12 — Transformation: Wo? → Wohin? (imperative du-form)
-
-1. Leg das Buch auf den Tisch!
-2. Häng das Bild an die Wand!
-3. Leg den Teppich unter das Sofa!
-4. Häng die Lampe über das Bett!
-5. Stell die Schuhe vor die Tür!
-6. Leg das Kissen auf den Sessel!
+1. **Leg das Buch auf den Tisch!**  2. **Häng das Bild an die Wand!**  3. **Leg den Teppich unter das Sofa!**  4. **Häng die Lampe über das Bett!**  5. **Stell die Schuhe vor die Tür!**  6. **Leg das Kissen auf den Sessel!**
 
 ---
 
-# Block B — Lösungen
+# Block B — Vertiefung
 
-## B1 — Dialog ergänzen
+## Übung B1 — Dialog ergänzen
 
-1. **Stell** (imperative of stellen — action, Wohin? → vor den Fernseher)
-2. **steht** (state, Wo?)
-3. **Stell** (imperative of stellen — action, Wohin? → ans Fenster)
-4. **liegen** (state, Wo? → auf dem Boden)
-5. **Stell** (imperative, action — Wohin? → ins Regal)
-6. **hängt** (state — it's not yet hanging: "Es hängt noch nicht an der Wand")
-7. **hänge** (ich hänge es auf — action; *aufhängen* = to hang up)
-8. **sieht** (aussehen — "Das Zimmer sieht jetzt sehr gemütlich aus") — separable verb: `sieht … aus`
+1. **Stell**  2. **steht**  3. **Stell**  4. **liegen**  5. **Stell**  6. **hängt**  7. **hänge**  8. **sieht**
 
-*Note: item 8 uses `aussehen` (to look/appear), a separable verb from A1/05.*
+## Übung B2 — Finde den Fehler
 
-## B2 — Finde den Fehler
+1. **den**  2. **dem**  3. **die**  4. **liegt**  5. **dem**  6. **hängt**  7. **auf dem**  8. **Sie**  9. **der**  10. **der**
 
-1. ✗ "auf dem Tisch" → **auf den Tisch** (Wohin? = action verb stellen → Akkusativ)
-2. ✗ "über den Schreibtisch" → **über dem Schreibtisch** (Wo? = state verb hängt → Dativ)
-3. ✗ "neben der Tür" → **neben die Tür** (Wohin? = action verb stell → Akkusativ)
-4. ✗ "legt" → **liegt** (legen = action; the correct state verb is liegen: „Das Kissen liegt auf dem Sofa.")
-5. ✗ "unter das Sofa" (second occurrence) → **unter dem Sofa** (Wo? = state → Dativ: „er liegt jetzt unter dem Sofa")
-6. ✗ "hängen" → **hängt** (subject "das Bild" is singular: „das Bild hängt jetzt an der Wand")
-7. ✗ "im Tisch" → **auf dem Tisch** (keys lie ON the table, not in it)
-8. ✗ "Er steht" → **Sie stehen** (die Schuhe is plural → Sie stehen)
-9. ✗ "an die Wand" → **an der Wand** (Wo? = state verb hängt → Dativ)
-10. ✗ "die Tür" → **der Tür** (zwischen + Dativ for state: „zwischen dem Fenster und der Tür")
+## Übung B3 — Frage und Antwort verbinden
 
-## B3 — Frage und Antwort
+1 → c · 2 → d · 3 → e · 4 → b · 5 → a · 6 → f · 7 → g · 8 → h
 
-1 → **c** — Es hängt an der Wand über dem Sofa.
-2 → **d** — Ins Regal, bitte.
-3 → **e** — Nein, er steht noch in der Mitte.
-4 → **b** — Sie liegt auf dem Sofa.
-5 → **a** — Nein, aber ich stelle es gleich hin.
-6 → **f** — Zwischen das Fenster und die Tür.
-7 → **g** — Er liegt unter dem Sofa.
-8 → **h** — Okay, sie steht jetzt dahinter.
+## Übung B4 — Satzbau: Wechselpräpositionen
 
-## B4 — Satzbau
+1. die Lampe hängt über dem Tisch
+   _Die Lampe hängt über dem Tisch. (state → Dativ)_
+2. Ich stelle den Stuhl vor das Fenster
+   _Ich stelle den Stuhl vor das Fenster. (action → Akkusativ)_
+3. Die Bücher liegen auf dem Boden
+   _Die Bücher liegen auf dem Boden. (state → Dativ)_
+4. Wir hängen den Spiegel an die Wand
+   _Wir hängen den Spiegel an die Wand. (action → Akkusativ)_
+5. Das Sofa steht zwischen dem Tisch und dem Regal
+   _Das Sofa steht zwischen dem Tisch und dem Regal. (state → Dativ, both nouns)_
+6. Sie legt den Teppich unter den Tisch
+   _Sie legt den Teppich unter den Tisch. (action → Akkusativ)_
+7. Der Schreibtisch steht neben dem Fenster
+   _Der Schreibtisch steht neben dem Fenster. (state → Dativ)_
+8. Ich stelle das Regal ins Schlafzimmer
+   _Ich stelle das Regal ins Schlafzimmer. (action → Akkusativ; ins = in + das)_
 
-1. Die Lampe hängt über dem Tisch. (state → Dativ)
-2. Ich stelle den Stuhl vor das Fenster. (action → Akkusativ)
-3. Die Bücher liegen auf dem Boden. (state → Dativ)
-4. Wir hängen den Spiegel an die Wand. (action → Akkusativ)
-5. Das Sofa steht zwischen dem Tisch und dem Regal. (state → Dativ, both nouns)
-6. Sie legt den Teppich unter den Tisch. (action → Akkusativ)
-7. Der Schreibtisch steht neben dem Fenster. (state → Dativ)
-8. Ich stelle das Regal ins Schlafzimmer. (action → Akkusativ; ins = in + das)
+## Übung B5 — Beschreibe das Zimmer
 
-## B5 — Beschreibe das Zimmer
+Modellantwort:
 
-1. Das Bett steht an der linken Wand.
-2. Der Schreibtisch steht am Fenster.
-3. Das Bücherregal steht neben der Tür.
-4. Die Lampe hängt über dem Schreibtisch.
-5. Die Kissen liegen auf dem Bett.
-6. Die Bücher stehen im Regal.
+> 1. Das Bett steht an der linken Wand.
+> 2. Der Schreibtisch steht am Fenster.
+> 3. Das Bücherregal steht neben der Tür.
+> 4. Die Lampe hängt über dem Schreibtisch.
+> 5. Die Kissen liegen auf dem Bett.
+> 6. Die Bücher stehen im Regal.
 
-## B6 — Möbel sortieren
+## Übung B6 — Kategorien: Möbel sortieren
 
-| Schlafzimmer | Wohnzimmer | Küche | Badezimmer |
-|---|---|---|---|
-| Bett, Kleiderschrank | Sofa, Fernseher, Sessel, Kissen, Teppich, Bücherregal | Herd, Kühlschrank, Esstisch | Badewanne, Dusche, Waschbecken |
-| (also: Schreibtisch, Teppich) | (also: Esstisch) | | |
+**Schlafzimmer:** **Bett**, **Kleiderschrank**, **Schreibtisch**
+**Wohnzimmer:** **Sofa**, **Fernseher**, **Sessel**, **Kissen**, **Teppich**, **Bücherregal**
+**Küche:** **Herd**, **Kühlschrank**, **Esstisch**
+**Badezimmer:** **Badewanne**, **Dusche**, **Waschbecken**
 
-*Teppich and Schreibtisch can go in multiple rooms — accept reasonable alternatives.*
+## Übung B7 — Übersetzen (EN → DE)
 
-## B7 — Übersetzen
+Modellantwort:
 
-1. Die Lampe hängt über dem Schreibtisch.
-2. Stell den Stuhl neben die Tür!
-3. Wo ist mein Buch? — Es liegt auf dem Boden.
-4. Ich hänge den Spiegel an die Wand. (also fine: Ich hänge den Spiegel an der Wand auf — but "an die Wand" is the natural choice here)
-5. Das Regal steht zwischen dem Fenster und der Tür.
-6. Sie legt den Teppich unter den Tisch.
-7. Hängst du das Bild über das Sofa?
-8. Die Schuhe stehen vor der Tür — stell sie bitte hinter die Tür!
+> 1. Die Lampe hängt über dem Schreibtisch.
+> 2. Stell den Stuhl neben die Tür!
+> 3. Wo ist mein Buch? — Es liegt auf dem Boden.
+> 4. Ich hänge den Spiegel an die Wand.
+> 5. Das Regal steht zwischen dem Fenster und der Tür.
+> 6. Sie legt den Teppich unter den Tisch.
+> 7. Hängst du das Bild über das Sofa?
+> 8. Die Schuhe stehen vor der Tür — stell sie bitte hinter die Tür!
 
-## B8 — Hausregeln (model answers)
+## Übung B8 — Hausregeln schreiben
 
-1. Man stellt die Schuhe hinter die Tür, nicht vor die Tür.
-2. Bitte leg das schmutzige Geschirr nicht auf den Tisch — spül es sofort.
-3. Keine Musik nach 22 Uhr — das ist die wichtigste Regel!
-4. Man hängt nasse Handtücher in das Badezimmer, nicht in den Flur.
+Modellantwort:
 
-*Accept any grammatically correct house rules that use Wechselpräpositionen correctly.*
+> 1. Man stellt die Schuhe hinter die Tür, nicht vor die Tür.
+> 2. Bitte leg das schmutzige Geschirr nicht auf den Tisch — spül es sofort.
+> 3. Keine Musik nach 22 Uhr — das ist die wichtigste Regel!
+> 4. Man hängt nasse Handtücher in das Badezimmer, nicht in den Flur.
 
-## B9 — Problem im Bad: E-Mail an den Vermieter (model answer)
+Selbstkorrektur:
+- [ ] Dativ after state verbs? Akkusativ after action verbs?
+- [ ] Did I use stellen/stehen (upright) and legen/liegen (flat) correctly?
+- [ ] Did I use contractions where required (ins, im, ans, am)?
+
+## Übung B9 — Problem im Bad: E-Mail an den Vermieter
+
+Modellantwort:
 
 > Sehr geehrter Herr Schmidt,
-> vielen Dank für Ihre schnelle Antwort. Das Problem ist im Bad: unter
-> dem Waschbecken steht ein Eimer, weil das Wasser aus dem Rohr in
-> den Eimer tropft. Vor der Badewanne liegt ein nasses Handtuch. Ich
-> habe das Problem seit drei Tagen. Ich bin am Samstagvormittag zu
-> Hause. Mit freundlichen Grüßen, [Name]
+> vielen Dank für Ihre schnelle Antwort. Das Problem ist im Bad: unter dem Waschbecken steht ein Eimer, weil das Wasser aus dem Rohr in den Eimer tropft. Vor der Badewanne liegt ein nasses Handtuch. Ich habe das Problem seit drei Tagen. Ich bin am Samstagvormittag zu Hause. Mit freundlichen Grüßen, [Name]
 
-*(A correct reply: ≥1 Wo? Dativ phrase, ≥1 Wohin? Akkusativ phrase, ≥1
-state verb, 1 time expression. Any equivalent is accepted.)*
+Selbstkorrektur:
+- [ ] Did I use Dativ after state verbs (stehen/liegen/hängen) and Akkusativ after action verbs (stellen/legen/hängen)?
+- [ ] Did I choose stellen/stehen (upright), legen/liegen (flat), hängen correctly?
+- [ ] Did I use contractions where required (im, am, in der, an der, neben dem)?
 
-## B10 — Mini-Aufsatz (model answer)
+## Übung B10 — Mini-Aufsatz: Mein Zimmer
 
-Mein Zimmer ist nicht groß, aber gemütlich. Das Bett steht an der Wand neben dem Fenster. Auf dem Bett liegen zwei Kissen. Der Schreibtisch steht am Fenster, und die Lampe hängt über dem Schreibtisch. Das Regal steht zwischen der Tür und dem Schrank. Meine Bücher stehen im Regal. Ein kleiner Teppich liegt vor dem Bett.
+Modellantwort:
 
-*Accept any correct description. Check: state verbs (stehen, liegen, hängen) must use Dativ; action verbs must use Akkusativ.*
+> Mein Zimmer ist nicht groß, aber gemütlich. Das Bett steht an der Wand neben dem Fenster. Auf dem Bett liegen zwei Kissen. Der Schreibtisch steht am Fenster, und die Lampe hängt über dem Schreibtisch. Das Regal steht zwischen der Tür und dem Schrank. Meine Bücher stehen im Regal. Ein kleiner Teppich liegt vor dem Bett.
+
+Selbstkorrektur:
+- [ ] Did I use the correct Wechselpräposition case — Dativ after state verbs and Akkusativ after action verbs?
+- [ ] Did I choose stellen/stehen for upright objects and legen/liegen for flat/horizontal objects?
+- [ ] Did I use contractions where required (ins, im, ans, am)?
 
 ---
 
-# Block C — Lösungen
+# Block C — Prüfungstraining
 
-## C1 — Lückentext
+## Übung C1 — Lückentext
 
-1. **in** — *eingezogen in ihre neue WG* (Wohin? → Akkusativ, but "eingezogen" is a fixed phrase: *in … einziehen*)
-2. **hat** — *Die WG hat vier Zimmer* (haben)
-3. **gemütlich** — from the Lesetext
-4. **steht** — *Das Bett steht an der linken Wand* (state verb)
-5. **Auf** — *Auf dem Bett liegen zwei Kissen* (Wo? → Dativ)
-6. **steht** — *Der Schreibtisch steht am Fenster*
-7. **steht** — *das Bücherregal steht neben der Tür*
-8. **hängt** — *Die Lampe hängt über dem Tisch*
-9. **sind** — *Die Hausregeln sind einfach*
-10. **putzt** — *jeder putzt die Küche einmal pro Woche*
+1. **in**  2. **hat**  3. **gemütlich**  4. **steht**  5. **Auf**  6. **steht**  7. **steht**  8. **hängt**  9. **sind**  10. **putzt**
 
-## C2 — Sprachbausteine Teil 1
+## Übung C2 — Sprachbausteine Teil 1 (multiple choice)
 
 1. **b) steht** — Wohnungen stehen; „Die Wohnung steht im zweiten Stock" ✓
-2. **b) steht** — Sofa is upright furniture → steht
-3. **b) ans** — an + das → ans (Wohin? → Akkusativ: ans Fenster)
-4. **b) stehen** — Bücher im Regal → stehen (upright)
-5. **a) an** — an den Haken (Wohin? + Akk; "an den Haken" = on the hook)
-6. **a) in** — "zufrieden in/mit" — here: *mit der neuen Wohnung*
+2. **b) steht** — Sofa is upright furniture → steht.
+3. **b) ans** — an + das → ans (Wohin? → Akkusativ: ans Fenster).
+4. **b) stehen** — Bücher im Regal → stehen (upright).
+5. **a) an** — an den Haken (Wohin? + Akk).
+6. **a) in** — in der neuen Wohnung zufrieden — accepted as natural here; the most idiomatic phrase is „zufrieden mit der neuen Wohnung", but mit was not offered.
 
-⚠️ Item 6: The most natural phrase is *zufrieden **mit** der neuen Wohnung*. Accept **a) in** if the student reads it as "in der neuen Wohnung zufrieden" but note the idiomatic expression is *zufrieden **mit***. If this gap causes confusion: the intended answer is **a) in** based on the sentence structure "bin schon in der neuen Wohnung sehr zufrieden" (= already very happy [living] in the new flat). Also fine: **c) über** is incorrect; **b) mit** would be the most idiomatic but the word "mit" was not offered. Accept **a) in**.
+## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-## C3 — Sprachbausteine Teil 2
+1. **STEHT**  2. **AUF**  3. **AM**  4. **HÄNGT**  5. **ZWISCHEN**  6. **IM**  7. **VOR**  8. **UNTER**  9. **AN**  10. **NEBEN**
 
-1. **STEHT** — Das Bett steht an der Wand.
-2. **AUF** — Auf dem Bett liegen zwei Kissen.
-3. **AM** — am Fenster (an + dem → am; Wo? + Dativ)
-4. **HÄNGT** — Die Lampe hängt über dem Schreibtisch.
-5. **ZWISCHEN** — Das Regal steht zwischen dem Fenster und der Tür.
-6. **IM** — im Regal (in + dem → im)
-7. **VOR** — vor dem Bett
-8. **UNTER** — also unter dem Bett (restating)
-9. **AN** — an die Wand (Wohin? + Akkusativ)
-10. **NEBEN** — neben dem Fenster (Wo? + Dativ)
+## Übung C4a — Lesen Text 1 — Annas neue WG
 
-*Not needed: LIEGT · LEGT · STELLT · DER · ÜBER · HINTER · STEHEN · DEM · AUS · LEGEN*
+1. **F** — „Ich und drei andere Studenten" = 4 total; mit vier anderen would be 5.
+2. **F** — The text says „direkt unter dem Fenster" (under), not next to it.
+3. **R** — Der Schreibtisch steht am Fenster ✓
+4. **F** — Das Bücherregal steht neben der Tür (not hangs on the wall).
+5. **R** — jeder putzt die Küche einmal pro Woche ✓
 
-## C4 — Lesen
+## Übung C4b — Lesen Text 2 — Wohnungsanzeige
 
-**Text 1 (Annas neue WG):**
-1. **F** — Anna wohnt mit drei anderen Studenten, also vier Personen gesamt; but the sentence says "vier anderen" — recheck: "Ich und drei andere Studenten" = 4 total; the statement says "vier andere Studenten" = wrong. Actually: "vier — ich und drei andere Studenten" → Anna + 3 others = 4 total. The question says "mit vier anderen" — that would be 5 total. → **F**
-2. **F** — The text says "direkt unter dem Fenster" (under the window), not next to it.
-3. **R** — "Der Schreibtisch steht am Fenster" ✓
-4. **F** — The text says the Bücherregal **steht** neben der Tür (it stands next to the door — the reading corrects itself in the text: "nein, eigentlich steht es neben der Tür").
-5. **R** — "jeder putzt die Küche einmal pro Woche" ✓
+1. **b) drei Zimmer** — 3er-WG = 3 rooms total.
+2. **b) einen Schreibtisch und einen eingebauten Kleiderschrank** — einen eingebauten Kleiderschrank und einen Schreibtisch ✓
+3. **c) Kein Kochen nach 21 Uhr** — Not mentioned — rules are no smoking, music only until 22 Uhr, cleaning rotation.
+4. **b) Haustiere** — Haustiere leider nicht möglich ✓
+5. **c) Zwei Studentinnen** — Wir sind zwei Studentinnen (23 und 25 Jahre alt) ✓
 
-**Text 2 (Wohnungsanzeige):**
-6. **b) drei Zimmer** — "3er-WG" = flat share with 3 rooms
-7. **b) einen Schreibtisch und einen eingebauten Kleiderschrank** — "einen eingebauten Kleiderschrank und einen Schreibtisch"
-8. **c) Kein Kochen nach 21 Uhr** — not mentioned; the rules are: no smoking, music only until 22:00, cleaning rotation
-9. **b) Haustiere** — "Haustiere leider nicht möglich"
-10. **c) Zwei Studentinnen** — "Wir sind zwei Studentinnen (23 und 25 Jahre alt)"
+## Übung C5 — Schreiben: WG-Anzeige
 
-## C5 — Schreiben (model answer)
+Modellantwort:
 
-Ich suche eine/n Mitbewohner/in für mein schönes Zimmer in Berlin-Mitte. Das Zimmer ist 16 m² groß und sehr hell. Das Bett steht an der Wand neben dem Fenster. Der Schreibtisch steht am Fenster — von dort hat man einen schönen Blick auf den Garten. Die Lampe hängt über dem Schreibtisch. Das Bücherregal steht zwischen der Tür und dem Schrank. Auf dem Boden liegt ein großer Teppich vor dem Bett. Wir haben zwei Hausregeln: keine Musik nach 22 Uhr, und man spült das Geschirr sofort nach dem Essen.
+> Ich suche eine/n Mitbewohner/in für mein schönes Zimmer in Berlin-Mitte. Das Zimmer ist 16 m² groß und sehr hell. Das Bett steht an der Wand neben dem Fenster. Der Schreibtisch steht am Fenster — von dort hat man einen schönen Blick auf den Garten. Die Lampe hängt über dem Schreibtisch. Das Bücherregal steht zwischen der Tür und dem Schrank. Auf dem Boden liegt ein großer Teppich vor dem Bett. Wir haben zwei Hausregeln: keine Musik nach 22 Uhr, und man spült das Geschirr sofort nach dem Essen.
 
-**Self-check list:**
-- [ ] At least 8 sentences?
-- [ ] At least 5 different Wechselpräpositionen used?
-- [ ] State verbs (stehen, liegen, hängen) followed by Dativ?
-- [ ] Action verbs (stellen, legen, hängen) followed by Akkusativ?
-- [ ] Contractions used where possible (ins, im, ans, am)?
-- [ ] At least one or two house rules?
+Selbstkorrektur:
+- [ ] Dativ after state verbs (stehen, liegen, hängen)?
+- [ ] Akkusativ after action verbs (stellen, legen, hängen)?
+- [ ] Contractions where possible (ins, im, ans, am)?
 
 ---
 
-# Block D — Lösungen
+# Block D — Wiederholung & Selbsttest
 
-## D1 — Schnelltest
+## Übung D1 — Gemischter Schnelltest
 
-1. **stellen** (placement of upright object)
-2. **liegen** (state of flat/horizontal object)
-3. auf **dem** Tisch (Wo? + Dativ, m → dem)
-4. auf **den** Tisch (Wohin? + Akkusativ, m → den)
-5. **ins** (in + das)
-6. **am** (an + dem)
-7. **in, an, auf, über, unter, vor, hinter, neben, zwischen**
-8. **Dativ**
-9. **Akkusativ**
-10. (L8) mit **dem** Bus
-11. (L4) **Akkusativ** — *es gibt* + Akkusativ
-12. (L9) **helfen** takes Dativ
-13. (L4) **das Schlafzimmer**
-14. **eingezogen** (ein + ge + zogen)
-15. (L3) **Akkusativ** — *kein Buch* = Akkusativ (object of haben)
+1. **stellen**  2. **liegen**  3. **auf**  4. **dem**  5. **auf**  6. **den**  7. **ins**  8. **am**  9. **in, an, auf, über, unter, vor, hinter, neben, zwischen**  10. **Dativ**  11. **Akkusativ**  12. **mit**  13. **Akkusativ**  14. **helfen**  15. **das Schlafzimmer**  16. **eingezogen**  17. **Akkusativ**
 
-## D2 — Odd one out
+## Übung D2 — Odd one out
 
-1. **liegen** — it is a state verb; stellen, legen, hängen are all action/placement verbs
-2. **mit** — it is always Dative; in, an, auf are Wechselpräpositionen
-3. **Herd** — it is a kitchen appliance; Bett, Sofa, Sessel are seating/sleeping furniture
-4. **Vorhang** — it is a furnishing/textile; Küche, Badezimmer, Flur are rooms
-5. **weil** — it is a conjunction; über, unter, neben are prepositions
-6. **Schreibtisch** — it is a piece of furniture; Miete, Vermieter, Mietvertrag relate to renting
+1. ~~liegen~~ — state verb; stellen, legen, hängen are action/placement verbs
+2. ~~mit~~ — always Dative preposition; in, an, auf are Wechselpräpositionen
+3. ~~Herd~~ — kitchen appliance among seating/sleeping furniture
+4. ~~Vorhang~~ — furnishing/textile among rooms
+5. ~~weil~~ — conjunction among prepositions
+6. ~~Schreibtisch~~ — piece of furniture among renting-related words
 
-## D3 — Rückblick
+## Übung D3 — Rückblick: Lektionen 4, 8, 9
 
-1. (L4) **gibt** — Es gibt eine Küche im ersten Stock.
-2. (L4) Any three of: das Schlafzimmer / das Wohnzimmer / die Küche / das Badezimmer / das Kinderzimmer / der Flur
-3. (L4) Das Zimmer ist **schön**. (predicative adjective — no ending change)
-4. (L8) **zu** Fuß — *zu* is a dative preposition, but "zu Fuß" is a fixed expression
-5. (L8) **bei** ihrer Freundin — *bei* + Dativ
-6. (L8) Ich fahre mit dem Bus.
-7. (L9) Dativ — Das Zimmer gefällt **mir** (not "mich")
-8. (L9) **dir**
-9. (L9) Wie **gefällt** Ihnen die neue Wohnung?
-10. (L4) **der Kleiderschrank**
+1. **gibt**  2. **das Schlafzimmer**  3. **das Wohnzimmer**  4. **die Küche**  5. **schön**  6. **zu**  7. **bei**  8. **Ich fahre mit dem Bus.**  9. **mir**  10. **dir**  11. **gefällt**  12. **der Kleiderschrank**
 
-## D4 — Selbsttest
+## Übung D4 — Selbsttest (score yourself /20)
 
-1. auf **dem** Tisch (Wo? → Dativ, m)
-2. auf **den** Tisch (Wohin? → Akkusativ, m)
-3. über **dem** Bett (Wo? → Dativ, n)
-4. über **das** Bett (Wohin? → Akkusativ, n)
-5. neben **der** Tür (Wo? → Dativ, f)
-6. **im** (in + dem)
-7. **ans** (an + das)
-8. **ins** (in + das)
-9. **stelle** (stellen — action, upright)
-10. **steht** (stehen — state, upright)
-11. **legt** (legen — action, flat)
-12. **liegt** (liegen — state, flat)
-13. **hängt** (hängen — action → + Akkusativ)
-14. **hängt** (hängen — state → + Dativ)
-15. die Wohngemeinschaft / **WG**
-16. der **Mitbewohner**
-17. der **Vermieter**
-18. **einziehen**
-19. Der Teppich liegt unter dem Tisch.
-20. Stell den Stuhl neben das Fenster!
+1. **dem**  2. **Dativ**  3. **den**  4. **Akkusativ**  5. **dem**  6. **Dativ**  7. **das**  8. **Akkusativ**  9. **der**  10. **Dativ**  11. **im**  12. **ans**  13. **ins**  14. **stelle**  15. **steht**  16. **legt**  17. **liegt**  18. **hängt**  19. **hängt**  20. **die Wohngemeinschaft / WG**  21. **der Mitbewohner**  22. **der Vermieter**  23. **einziehen**  24. **Der Teppich liegt unter dem Tisch.**  25. **Stell den Stuhl neben das Fenster!**
 
-**Score: ____ / 20.** 16+ → Lektion A2/03. Below 16 → redo Block A (A1–A7)
-and Block B2 + B9 tomorrow, then retest D4.
+---
+
+**16+ / 20 → go to the next Lektion.**
