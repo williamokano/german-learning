@@ -1,0 +1,31 @@
+---
+const levels = ['A1', 'A2'];
+---
+
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Deutsch lernen</title>
+    <style>
+      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 4rem auto; padding: 0 1rem; }
+      h1 { font-size: 2rem; }
+      nav ul { list-style: none; padding: 0; display: flex; gap: 1rem; }
+      nav a { text-decoration: none; font-weight: 600; }
+      .placeholder { border: 2px dashed #ccc; border-radius: 8px; padding: 2rem; color: #666; margin-top: 2rem; }
+    </style>
+  </head>
+  <body>
+    <h1>Deutsch lernen</h1>
+    <nav>
+      <ul>
+        {levels.map(l => <li><a href={`${import.meta.env.BASE_URL}/${l}`}>{l}</a></li>)}
+      </ul>
+    </nav>
+    <div class="placeholder">
+      <p><strong>P0 scaffold — placeholder.</strong> Lesson pages land in P1.</p>
+    </div>
+  </body>
+</html>
