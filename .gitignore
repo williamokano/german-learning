@@ -1,0 +1,3 @@
+# Python bytecode (audio pipeline tooling in scripts/)
+__pycache__/
+*.py[cod]
