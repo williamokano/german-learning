@@ -239,6 +239,17 @@ the sentence; then verb in position 2: Abends **sehe** ich fern)
 7. Sie sieht abends nie fern. / Sie sieht am Abend nie fern.
 8. Wir kaufen am Samstagmorgen ein.
 
+## B9 — Mein Tagesablauf (model answer)
+
+> Ich stehe um sieben Uhr auf und frühstücke mit meiner Familie.
+> Von neun bis fünf arbeite ich im Büro. Am Abend koche ich
+> manchmal und sehe gern fern. Ich rufe oft meine Schwester an,
+> bevor ich um elf schlafen gehe. Am Wochenende schlafe ich
+> länger!
+
+*(A correct answer: ≥2 time-of-day phrases, ≥1 frequency adverb,
+≥1 separable verb, ≥1 von … bis … phrase. Any equivalent is accepted.)*
+
 ---
 
 # Block C

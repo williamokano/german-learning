@@ -339,6 +339,23 @@ Sort the 12 time expressions: **um · am · von … bis · in der**
 7. She never watches TV in the evening.
 8. We go shopping on Saturday morning.
 
+## Übung B9 — Mein Tagesablauf
+
+**Situation:** Ein Freund / eine Freundin fragt dich nach deinem
+typischen Tag. Schreib **3–4 Sätze**: wann du aufstehst, was du
+vormittags machst, und was du abends machst.
+
+Use:
+- [ ] at least **2** time-of-day phrases — *um sieben Uhr, am Morgen, am Nachmittag, am Abend*
+- [ ] at least **1** frequency adverb — *immer, oft, manchmal, nie*
+- [ ] at least **1** **separable verb** — *aufstehen, einkaufen, fernsehen, anrufen, mitkommen*
+- [ ] at least **1** activity you do **from … to …** — *von … bis …*
+
+**Self-check before moving on:**
+- [ ] Did I put the **prefix at the end** of each separable-verb sentence (*Ich stehe um sieben auf* — not *Ich aufstehe um sieben*)?
+- [ ] Did I use `am` for parts of the day (*am Morgen, am Abend* — not `in der Morgen`)?
+- [ ] Did I put the **verb in position 2** in every sentence?
+
 ---
 
 # Block C — Prüfungstraining
