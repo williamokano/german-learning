@@ -292,6 +292,17 @@ Note: *Schulter*, *Brust*, and *Rücken* could reasonably go in multiple categor
 7. Haben Sie ein Rezept?
 8. Sie soll sich ausruhen und viel schlafen. (also fine without reflexive: Sie soll ruhen und viel schlafen.)
 
+## B9 — Beim Arzt (model answer)
+
+> Guten Tag, Herr Doktor. Mein Kopf tut weh und ich habe Halsschmerzen
+> und Schnupfen. Ich habe diese Beschwerden seit drei Tagen. Ich
+> nehme Tabletten gegen die Schmerzen, aber sie helfen nicht gut.
+> Trinken Sie viel Tee, schlafen Sie viel, und essen Sie kein Eis!
+> Ich brauche vielleicht ein Rezept.
+
+*(A correct reply: ≥2 body parts, ≥1 symptom, ≥1 imperative, a `seit`
+-phrase. Any equivalent is accepted.)*
+
 ## Übung B10 — Imperativ-Transformation
 
 1. (trinken, Tee)

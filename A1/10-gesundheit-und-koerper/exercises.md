@@ -357,16 +357,22 @@ Answer each question with the cues given.
 7. Wie oft soll sie die Tabletten nehmen? (twice daily, after eating) → ______________________
 8. Was brauchen Sie? (an appointment today) → ______________________
 
-## Übung B9 — Übersetzen (EN → DE)
+## Übung B9 — Beim Arzt
 
-1. My head hurts.
-2. Stay home! (talking to a friend — du)
-3. You should drink a lot of water. (doctor's advice, informal)
-4. He has a fever and a sore throat.
-5. Take these tablets three times daily. (formal)
-6. I need something for a stomachache.
-7. Do you have a prescription?
-8. She should rest and sleep a lot.
+**Situation:** Du bist erkältet und gehst zum Arzt. Beschreib in
+**3–4 Sätzen**, was dir wehtut, wie lange schon, und was du dagegen
+nimmst.
+
+Use:
+- [ ] at least **2** body parts — *der Kopf, der Hals, der Bauch, der Rücken, der Fuß* …
+- [ ] at least **1** symptom — *Schmerzen, Fieber, Husten, Schnupfen*
+- [ ] at least **1** imperative (giving yourself advice) — *Trink viel Tee! / Schlaf viel! / Iss kein Eis!*
+- [ ] a sentence with `seit` (*seit gestern / seit zwei Tagen*)
+
+**Self-check before moving on:**
+- [ ] Did I use the correct **der/die/das** for each body part?
+- [ ] Did I use the correct **imperative form** — *du* (stems: `Trink!`, `Schlaf!`, `Iss!`); `Sie` (`Trinken Sie!`, `Schlafen Sie!`)?
+- [ ] Did I put the verb at position 1 in the imperative (no subject)?
 
 ## Übung B10 — Imperativ-Transformation
 
