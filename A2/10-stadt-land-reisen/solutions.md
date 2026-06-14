@@ -287,6 +287,19 @@ Word bank in gap order: **nach · am · vom · auf · über · ins**.
 
 *(Any 5–6 connected sentences about a day trip with at least 3 different location/direction prepositions are accepted.)*
 
+## B9 — Mein Lieblingsort: Forenkommentar (model answer)
+
+> Hallo Maria! Mein Lieblingsort ist Kopenhagen. Die Stadt liegt
+> im Norden, direkt am Meer. Ich fahre jedes Jahr im Herbst
+> dorthin — von Berlin aus fahre ich mit dem Zug nach Hamburg und
+> dann weiter nach Dänemark. In Kopenhagen wohne ich meistens
+> in einem kleinen Hotel in der Altstadt. Ich gehe gern auf den
+> Markt und in die Museen. LG, [Name]
+
+*(A correct reply: ≥1 Wo? (Dativ) sentence, ≥1 Wohin? (Akkusativ)
+sentence, ≥1 Woher? (aus + Dativ) sentence, ≥1 country name with
+correct preposition. Any equivalent is accepted.)*
+
 ---
 
 # Block C

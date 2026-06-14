@@ -371,12 +371,31 @@ Use at least 3 different prepositions for location/direction.
 **Cues:** Hamburg · Hauptbahnhof · Hafen · Fischmarkt · Elbphilharmonie ·
 Restaurant · Spanien
 
-______________________
-______________________
-______________________
-______________________
-______________________
-______________________
+## Übung B9 — Mein Lieblingsort: Forenkommentar
+
+**Forenbeitrag von Maria** *(Du hast diesen Beitrag gerade gelesen)*:
+> **Thema:** Was ist dein Lieblingsort zum Reisen?
+>
+> Hallo zusammen! Mein Lieblingsort ist Lissabon. Ich fliege
+> jedes Jahr im Sommer dorthin. Die Stadt liegt am Meer und hat
+> viele schöne alte Straßen. Letztes Jahr war ich auch in
+> Barcelona — auch toll, aber kleiner als Lissabon. Was ist
+> euer Lieblingsort? Schreibt mir! LG, Maria
+
+**Your task:** Schreib einen Forenkommentar als Antwort in **4–5 Sätzen**.
+Erzähl von deinem Lieblingsort zum Reisen — wo er liegt, wie du hinkommst,
+und was man dort machen kann.
+
+Use:
+- [ ] at least **1** sentence with **Wo?** (Dativ) — *in / an / auf + Dat* — where the place is
+- [ ] at least **1** sentence with **Wohin?** (Akkusativ) — *in / an / auf + Akk / nach* — how you get there
+- [ ] at least **1** sentence with **Woher?** (*aus + Dativ*) — where the place is on the way from
+- [ ] at least **1** sentence with a country name (use `in` for most countries, `nach` for countries without article)
+
+**Self-check before moving on:**
+- [ ] Did I use the **right case** for Wo? (Dat) vs. Wohin? (Akk)?
+- [ ] Did I use **contractions** correctly (*im, am, in die Schweiz, in den USA*)?
+- [ ] Did I use `nach` (not `in`) for countries without article (*nach Frankreich, in die Schweiz*)?
 
 ---
 
