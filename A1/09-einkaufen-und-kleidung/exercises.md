@@ -1,16 +1,12 @@
 # A1 · Lektion 9 — Übungen
 
-Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
-**D** Wiederholung & Selbsttest. Answers in `solutions.md`.
-Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
+Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Answers in solutions.md. Tip: spread the blocks over several days — H and A today, B tomorrow, C and D after that.
 
 ---
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check
-
-### H1a — Dialog 1: Im Kaufhaus
+## Übung H1a — Dialog 1: Im Kaufhaus
 
 🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
 
@@ -21,7 +17,7 @@ Listen and decide: richtig (R) oder falsch (F)?
 3. Anna findet die Jacke zu teuer und kauft sie nicht. ( )
 4. Die Verkäuferin sagt, die Jacke steht Anna sehr gut. ( )
 
-### H1b — Dialog 2: Im Sportgeschäft
+## Übung H1b — Dialog 2: Im Sportgeschäft
 
 🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
@@ -36,41 +32,25 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 5 missing words. **Three words in the box are not needed.**
+Listen and fill in the 5 missing words. Three words in the box are not needed.
 
-**Word bank:** Geschenk · Leder · Modegeschäft · Tasche · kostet · gefällt · passt · kauft
+> Bruno sucht ein (1) ______ für seine Mutter.
+> Er geht in ein (2) ______ und findet eine schöne Tasche.
+> Die Tasche ist aus (3) ______ und (4) ______ fünfundsechzig Euro.
+> Die Tasche (5) ______ Bruno sehr — er kauft sie und bezahlt mit Karte.
 
-> Bruno sucht ein ______ für seine Mutter.
-> Er geht in ein ______ und findet eine schöne Tasche.
-> Die Tasche ist aus ______ und ______ fünfundsechzig Euro.
-> Die Tasche ______ Bruno sehr — er kauft sie und bezahlt mit Karte.
+> (Geschenk · Leder · Modegeschäft · Tasche · kostet · gefällt · passt · kauft)
 
 ## Übung H4 — Kurze Ansage: Sommerschlussverkauf im Kaufhaus
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c).
-Höre **einmal**, bevor du das Transkript liest.
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Was ist heute im Kaufhaus?  
-   a) Ein Sommerschlussverkauf.  
-   b) Eine Modenschau.  
-   c) Eine Eröffnung.
-
-2. Wie viel Prozent billiger sind die Sommerkleider?  
-   a) Zwanzig Prozent.  
-   b) Dreißig Prozent.  
-   c) Fünfzig Prozent.
-
-3. Was ist auch günstiger?  
-   a) Die Mäntel.  
-   b) Die Schuhe.  
-   c) Die Hemden.
-
-4. Bis wann gilt der Schlussverkauf?  
-   a) Bis heute achtzehn Uhr.  
-   b) Bis morgen.  
-   c) Bis nächste Woche.
+1. Was ist heute im Kaufhaus?  a) Ein Sommerschlussverkauf.  b) Eine Modenschau.  c) Eine Eröffnung.
+2. Wie viel Prozent billiger sind die Sommerkleider?  a) Zwanzig Prozent.  b) Dreißig Prozent.  c) Fünfzig Prozent.
+3. Was ist auch günstiger?  a) Die Mäntel.  b) Die Schuhe.  c) Die Hemden.
+4. Bis wann gilt der Schlussverkauf?  a) Bis heute achtzehn Uhr.  b) Bis morgen.  c) Bis nächste Woche.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -87,31 +67,21 @@ Höre **einmal**, bevor du das Transkript liest.
 
 # Block A — Basistraining
 
-## Übung A1 — Dative pronouns: fill the table
+## Übung A1 — Dative pronouns
 
-Fill in the dative form from memory.
-
-| Nominativ | Akkusativ | Dativ |
-|---|---|---|
-| ich | mich | ______ |
-| du | dich | ______ |
-| er | ihn | ______ |
-| sie (sg.) | sie | ______ |
-| es | es | ______ |
-| wir | uns | ______ |
-| ihr | euch | ______ |
-| sie (pl.) | sie | ______ |
-| Sie (formal) | Sie | ______ |
+1. ich — mich — ______  2. du — dich — ______  3. er — ihn — ______
+4. sie (sg.) — sie — ______  5. es — es — ______  6. wir — uns — ______
+7. ihr — euch — ______  8. sie (pl.) — sie — ______  9. Sie (formal) — Sie — ______
 
 ## Übung A2 — `gefallen`: complete the sentences
 
 Use the correct form of `gefallen` and the correct dative pronoun.
 
-1. Das Kleid ist schön. Es ______ ______ (I like it). → Es ______ ______.
-2. Die Schuhe sind toll. Wir ______ ______ gut. (We like them.)
-3. ______ dir dieser Pullover? (Do you like this pullover?)
-4. Die Jacke ______ ihr nicht. (She doesn't like the jacket.)
-5. ______ Ihnen diese Farbe? (Do you like this color? — formal)
+1. Es ______ ______ (I like it).
+2. Wir ______ ______ gut. (We like them.)
+3. ______ dir dieser Pullover?
+4. Die Jacke ______ ihr nicht.
+5. ______ Ihnen diese Farbe?
 6. Der Mantel ______ mir sehr gut.
 7. Welche Hose ______ dir besser — die blaue oder die schwarze?
 8. Die Stiefel ______ ihm nicht — sie sind zu teuer.
@@ -172,79 +142,60 @@ Fill in the correct form of `welcher`.
 
 `tragen` (to wear) is irregular: the vowel changes **a → ä** for `du` and `er/sie/es`.
 
-Fill the table:
-
-| ich | du | er/sie/es | wir | ihr | sie/Sie |
-|---|---|---|---|---|---|
-| trage | ______ | ______ | tragen | tragt | tragen |
-
-Now fill in the correct form:
-
-1. Ich ______ heute ein neues T-Shirt.
-2. Du ______ immer Schwarz.
-3. Er ______ gern Jeans.
-4. Was ______ ihr zur Party?
-5. Die Verkäuferin ______ eine elegante Bluse.
-6. Wir ______ heute Sportkleidung.
+ich trage · du ______ · er/sie/es ______ · wir tragen · ihr tragt · sie/Sie tragen
+3. Ich ______ heute ein neues T-Shirt.
+4. Du ______ immer Schwarz.
+5. Er ______ gern Jeans.
+6. Was ______ ihr zur Party?
+7. Die Verkäuferin ______ eine elegante Bluse.
+8. Wir ______ heute Sportkleidung.
 
 ## Übung A8 — Kleidung + Artikel: der, die oder das?
 
 Write the article and the plural.
 
-1. ______ Jacke, ______  
-2. ______ Pullover, ______  
-3. ______ Kleid, ______  
-4. ______ Schuh, ______  
-5. ______ Hose, ______  
-6. ______ Hemd, ______  
-7. ______ Mantel, ______  
-8. ______ Rock, ______  
-9. ______ Bluse, ______  
-10. ______ Stiefel, ______  
+1. ______ Jacke, ______  2. ______ Pullover, ______  3. ______ Kleid, ______  4. ______ Schuh, ______  5. ______ Hose, ______
+6. ______ Hemd, ______  7. ______ Mantel, ______  8. ______ Rock, ______  9. ______ Bluse, ______  10. ______ Stiefel, ______
 
 ## Übung A9 — Separable verbs: `anprobieren` und `einpacken`
 
 Rewrite with the correct verb position. Remember: the prefix goes to the END.
 
-1. Ich möchte (anprobieren) diese Jacke. → ______________________
-2. Darf ich (anprobieren) den Mantel? → ______________________
-3. Soll ich (einpacken) es? → ______________________
-4. Er (anprobieren) die Schuhe. → ______________________
-5. Wir (anprobieren) verschiedene Kleider. → ______________________
-6. Die Verkäuferin (einpacken) das Hemd. → ______________________
+1. Ich möchte diese Jacke ______. (anprobieren)
+2. Darf ich den Mantel ______? (anprobieren)
+3. Soll ich es ______? (einpacken)
+4. Er ______ die Schuhe ______. (anprobieren)
+5. Wir ______ verschiedene Kleider ______. (anprobieren)
+6. Die Verkäuferin ______ das Hemd ______. (einpacken)
 
 ## Übung A10 — Dative pronoun substitution
 
 Replace the underlined phrase with the correct dative pronoun.
 
-1. Das Kleid gefällt **meiner Mutter**. → Das Kleid gefällt ______.
-2. Die Jacke passt **meinem Bruder** nicht. → Die Jacke passt ______ nicht.
-3. Der Mantel steht **dir und mir** gut. → Der Mantel steht ______ gut.
-4. Kann ich **Frau Lang** helfen? → Kann ich ______ helfen?
-5. Der Schuh gehört **dem Kind**. → Der Schuh gehört ______.
-6. Das T-Shirt gefällt **den Kindern** nicht. → Das T-Shirt gefällt ______ nicht.
+1. Das Kleid gefällt ______. (meiner Mutter)
+2. Die Jacke passt ______ nicht. (meinem Bruder)
+3. Der Mantel steht ______ gut. (dir und mir)
+4. Kann ich ______ helfen? (Frau Lang)
+5. Der Schuh gehört ______. (dem Kind)
+6. Das T-Shirt gefällt ______ nicht. (den Kindern)
 
 ## Übung A11 — Translation drill: dative verbs (EN → DE)
 
-1. The jacket suits me. → ______________________
-2. Do the shoes fit you? (informal) → ______________________
-3. I like this pullover. (gefallen) → ______________________
-4. The coat doesn't fit him. → ______________________
-5. Does this color suit you? (formal) → ______________________
-6. The bag belongs to her. → ______________________
-7. Can I help you? (formal) → ______________________
-8. I don't like these boots. (gefallen) → ______________________
+1. The jacket suits me. → ______
+2. Do the shoes fit you? (informal) → ______
+3. I like this pullover. (gefallen) → ______
+4. The coat doesn't fit him. → ______
+5. Does this color suit you? (formal) → ______
+6. The bag belongs to her. → ______
+7. Can I help you? (formal) → ______
+8. I don't like these boots. (gefallen) → ______
 
 ## Übung A12 — Farben: match or fill in
 
-Write the color in German:
+Write the color in German. Then make sentences using the color as a predicative adjective.
 
 1. red → ______  2. blue → ______  3. green → ______  4. black → ______
 5. white → ______  6. yellow → ______  7. grey → ______  8. brown → ______
-
-Now make sentences. Use the color as a predicative adjective:
-*Das Hemd ist ______.*
-
 9. Das Hemd ist ______ (black).
 10. Die Hose ist ______ (blue).
 11. Der Mantel ist ______ (grey).
@@ -285,22 +236,22 @@ Fill in the gaps with one word each.
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly **one** mistake. Find and correct it.
+Each sentence has exactly one mistake. Find and correct it.
 
-1. Das Kleid gefällt ich sehr.
-2. Die Schuhe passt mir nicht.
-3. Welcher Jacke nimmst du?
-4. Die Hose gehört mein Schwester.
-5. Kann ich du helfen?
-6. Das Kleid steht sie sehr gut.
-7. Diese Schuhe ist zu groß.
-8. Er träg heute einen Anzug.
-9. Welchen Mantel kostet weniger?
-10. Diese Hose gehört mich.
+1. Das Kleid gefällt ______ sehr. (ich → ?)
+2. Die Schuhe ______ mir nicht. (passt → ?)
+3. ______ Jacke nimmst du? (Welcher → ?)
+4. Die Hose gehört ______ Schwester. (mein → ?)
+5. Kann ich ______ helfen? (du → ?)
+6. Das Kleid steht ______ sehr gut. (sie → ?)
+7. ______ Schuhe ist zu groß. (Diese → ?)
+8. Er ______ heute einen Anzug. (träg → ?)
+9. ______ Mantel kostet weniger? (Welchen → ?)
+10. Diese Hose gehört ______. (mich → ?)
 
 ## Übung B4 — Frage und Antwort verbinden
 
-| Frage | | Antwort |
+| Links | | Rechts |
 |---|---|---|
 | 1. Kann ich Ihnen helfen? | | a) Blau — das steht mir gut. |
 | 2. Welche Größe haben Sie? | | b) Ja, bitte — die Umkleidekabine ist dort. |
@@ -315,24 +266,26 @@ Each sentence has exactly **one** mistake. Find and correct it.
 
 Build correct sentences. Watch verb position and dative pronoun placement.
 
-1. mir – gefällt – diese – Jacke – sehr
-2. du – welchen – nimmst – Mantel – ?
-3. nicht – die – passt – mir – Hose
-4. steht – gut – sehr – Ihnen – die – Bluse
-5. helfen – kann – Ihnen – ich – ?
-6. Schuhe – ihm – die – gefallen – nicht
-7. anprobieren – ich – den – möchte – Pullover
+1. gefällt – Jacke – mir – sehr – diese
+2. nimmst – Mantel – ? – welchen – du
+3. passt – Hose – die – nicht – mir
+4. die – Ihnen – Bluse – sehr – gut – steht
+5. ich – helfen – ? – Ihnen – kann
+6. Schuhe – die – gefallen – ihm – nicht
+7. ich – möchte – Pullover – anprobieren – den
 8. dieser – Hut – steht – dir – nicht
-9. kostet – was – diese – Jacke – ?
-10. ihr – gehört – die – Tasche – nicht
+9. Jacke – kostet – was – diese – ?
+10. ihr – nicht – Tasche – gehört – die
 
 ## Übung B6 — Kategorien: Kleidung sortieren
 
-Sort the 12 words into four categories: **Oberbekleidung · Unterbekleidung &
-Accessoires · Schuhe · Farben**
+Sort the 12 words into four categories: Oberbekleidung · Unterbekleidung & Accessoires · Schuhe · Farben
 
-> Jacke · Socke · rot · Stiefel · Bluse · Krawatte · schwarz · Schuh · Pullover ·
-> Hemd · blau · Gürtel
+> Jacke · Socke · rot · Stiefel · Bluse · Krawatte · schwarz · Schuh · Pullover · Hemd · blau · Gürtel
+
+| Oberbekleidung | Unterbekleidung & Accessoires | Schuhe | Farben |
+|---|---|---|---|
+|  |  |  |  |
 
 ## Übung B7 — Was passt nicht?
 
@@ -345,28 +298,28 @@ Accessoires · Schuhe · Farben**
 
 ## Übung B8 — Answer with the cues
 
-1. Gefällt Ihnen die rote Jacke? (yes, very much) → ______________________
-2. Passt Ihnen die Hose? (no, too small) → ______________________
-3. Welche Größe haben Sie? (size 40) → ______________________
-4. Was kostet der Pullover? (€59,00) → ______________________
-5. Haben Sie diese Bluse auch in Blau? (yes, and also in green) → ______________________
-6. Soll ich das einpacken? (yes, please) → ______________________
-7. Welcher Schuh gefällt dir besser — der schwarze oder der braune? (the brown one) → ______________________
-8. Warum kaufst du den Mantel nicht? (too expensive) → ______________________
+> 1. Gefällt Ihnen die rote Jacke? (yes, very much)
+2. Passt Ihnen die Hose? (no, too small)
+3. Welche Größe haben Sie? (size 40)
+4. Was kostet der Pullover? (€59,00)
+5. Haben Sie diese Bluse auch in Blau? (yes, and also in green)
+6. Soll ich das einpacken? (yes, please)
+7. Welcher Schuh gefällt dir besser — der schwarze oder der braune? (the brown one)
+8. Warum kaufst du den Mantel nicht? (too expensive)
+
+**Your task:** Answer each question using the cue given in brackets. Write a full sentence.
 
 ## Übung B9 — Im Kaufhaus
 
-**Situation:** Du bist gerade im Kaufhaus und suchst ein Kleidungsstück.
-Schreib in **3–4 Sätzen** an eine Verkäuferin, was du suchst und welche
-Größe du brauchst.
+**Your task:** Du bist gerade im Kaufhaus und suchst ein Kleidungsstück. Schreib in 3–4 Sätzen an eine Verkäuferin, was du suchst und welche Größe du brauchst.
 
 Use:
-- [ ] at least **1** Kleidungsstück — *die Jacke, der Pullover, die Hose, der Mantel, das Kleid, die Schuhe …*
-- [ ] at least **1** color + Größe — *in Größe 38, in Blau, in Schwarz, in 42*
+- [ ] at least 1 Kleidungsstück — *die Jacke, der Pullover, die Hose, der Mantel, das Kleid, die Schuhe …*
+- [ ] at least 1 color + Größe — *in Größe 38, in Blau, in Schwarz, in 42*
 - [ ] a polite request — *Könnten Sie mir … zeigen? / Haben Sie … in …? / Darf ich … anprobieren?*
-- [ ] at least **1** dative verb — *passen, gefallen, stehen* — used correctly
+- [ ] at least 1 dative verb — *passen, gefallen, stehen* — used correctly
 
-**Self-check before moving on:**
+Self-check:
 - [ ] Did I use the **formal `Sie`** (not `du`)? (Shopping with a Verkäuferin — formal.)
 - [ ] Did I use **gefallen** with the **thing I like as subject** (*die Jacke gefällt mir*, not *mir gefällt die Jacke*)?
 - [ ] Did I put the **color and size in the right case** (Akkusativ, because the thing is the direct object)?
@@ -375,11 +328,9 @@ Use:
 
 # Block C — Prüfungstraining
 
-## Übung C1 — Lückentext (10 gaps)
+## Übung C1 — Lückentext
 
-Fill each gap with **one** word. *(Note: you will see adjective–noun
-combinations like* eine schwarze Hose *in the text — treat them as chunks
-for now; the rule comes in A2/08.)*
+Fill each gap with one word.
 
 Anna ist im Kaufhaus. Sie sucht eine Hose für die Arbeit. Die Verkäuferin
 fragt: „Kann ich (1) ______ helfen?" Anna sagt: „Ja, gern. Ich (2) ______ eine
@@ -390,46 +341,39 @@ Farbe ist perfekt. Aber die Hose kostet neunzig Euro. Anna findet das zu (6) ___
 — das ist (7) ______ viel Geld. Die Verkäuferin sagt: „Diese Hose hier (8) ______
 nur fünfzig Euro." Das ist (9) ______! Anna ist glücklich: „Die (10) ______ ich!"
 
-## Übung C2 — Sprachbausteine Teil 1 (6 gaps, 3 options each)
+## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c).
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-Hallo! Ich (1) ______ gern Kleidung kaufen, aber es ist nicht immer einfach.
-Ich suche immer zuerst (2) ______ Farbe, die mir gut steht. Schwarz (3) ______
-mir sehr gut. Im Geschäft probiere ich viele Sachen an — das (4) ______ mir
-Spaß! Manchmal (5) ______ mir der Verkäufer oder die Verkäuferin. Sie sagen:
-„Das (6) ______ Ihnen sehr gut!" Das höre ich gern.
+1. Ich (1) ____ gern Kleidung kaufen, aber es ist nicht immer einfach.  a) kaufe  b) kaufen  c) kaufst
+2. Ich suche immer zuerst (2) ____ Farbe, die mir gut steht.  a) eine  b) einen  c) ein
+3. Schwarz (3) ____ mir sehr gut.  a) stehen  b) steht  c) passen
+4. Im Geschäft probiere ich viele Sachen an — das (4) ____ mir Spaß!  a) macht  b) mache  c) machen
+5. Manchmal (5) ____ mir der Verkäufer oder die Verkäuferin.  a) hilft  b) helfen  c) helfe
+6. Sie sagen: „Das (6) ____ Ihnen sehr gut!"  a) steht  b) stehen  c) passt
 
-1. a) kaufe b) kaufen c) kaufst
-2. a) eine b) einen c) ein
-3. a) stehen b) steht c) passen
-4. a) macht b) mache c) machen
-5. a) hilft b) helfen c) helfe
-6. a) steht b) stehen c) passt
+## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-## Übung C3 — Sprachbausteine Teil 2 (word bank, 10 gaps + 5 distractors)
+Fill the 10 gaps from the box. Five words are not needed. Each word once.
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
-Each word may be used only once.
+> — Guten Tag! Kann ich (1) ______ helfen?
+> — Ja, danke. Ich (2) ______ ein Geschenk für meinen Bruder.
+> — Was (3) ______ Ihnen besser — eine Krawatte oder ein Hemd?
+> — Ich denke, (4) ______ Krawatte. Welche Farben gefallen (5) ______?
+> — Er trägt gern Blau. Hier, diese blaue Krawatte (6) ______ nur zwanzig Euro.
+> — Schön. (7) ______ diese Krawatte meinem Bruder? Er hat ein weißes Hemd.
+> — Ja, das Blau (8) ______ ihm sehr gut.
+> — Gut, dann (9) ______ ich diese Krawatte.
+> — Soll ich sie (10) ______?
+> — Ja, bitte!
 
-> DIR · EINE · EINPACKEN · GEFÄLLT · GEHÖRT · HELFEN · IHM · IHNEN · KOSTET ·
-> MIR · NEHME · PASST · SUCHE · STEHT · WELCHE
+> DIR · EINE · EINPACKEN · GEFÄLLT · GEHÖRT · HELFEN · IHM · IHNEN · KOSTET · MIR · NEHME · PASST · STEHT · SUCHE · WELCHE
 
-— Guten Tag! Kann ich (1) ______ helfen?
-— Ja, danke. Ich (2) ______ ein Geschenk für meinen Bruder.
-— Was (3) ______ Ihnen besser — eine Krawatte oder ein Hemd?
-— Ich denke, (4) ______ Krawatte. Welche Farben gefallen (5) ______?
-— Er trägt gern Blau. Hier, diese blaue Krawatte (6) ______ nur zwanzig Euro.
-— Schön. (7) ______ diese Krawatte meinem Bruder? Er hat ein weißes Hemd.
-— Ja, das Blau (8) ______ ihm sehr gut.
-— Gut, dann (9) ______ ich diese Krawatte.
-— Soll ich sie (10) ______?
-— Ja, bitte!
+Five words are not needed.
 
-## Übung C4 — Lesen
+## Übung C4a — Lesen Text 1 — Ein neues Outfit
 
-**Text 1:** Read „Ein neues Outfit" in `lesson.md`, section 6.
-Richtig (R) oder falsch (F)?
+Read „Ein neues Outfit" in lesson.md, section 6. Richtig (R) oder falsch (F)?
 
 1. Anna sucht ein Outfit für eine Hochzeit. ( )
 2. Das schwarze Kleid gefällt Anna nicht. ( )
@@ -437,7 +381,9 @@ Richtig (R) oder falsch (F)?
 4. Die Bluse ist sehr teuer. ( )
 5. Bruno kauft auch neue Kleidung. ( )
 
-**Text 2 — Anzeige / Advertisement:**
+## Übung C4b — Lesen Text 2 — Anzeige Modehaus Schmidt
+
+Anzeige:
 
 > **MODEHAUS SCHMIDT — Sommer-Sale!**
 > Damen-Blusen ab 19,90 € · Herren-Hemden ab 24,90 €
@@ -447,23 +393,23 @@ Richtig (R) oder falsch (F)?
 > Größen: XS – XXL
 > Geöffnet: Mo–Sa 9:00–20:00 Uhr
 
-Choose a, b, or c:
+Wähle a, b oder c.
 
-6. Eine Damen-Bluse kostet mindestens …
-   a) 9,90 € b) 19,90 € c) 24,90 €
-7. Jeans gibt es …
-   a) nur für Damen b) nur für Herren c) für Damen und Herren
-8. Ein Sommerkleid kostet …
-   a) 39,90 € b) 49,90 € c) 19,90 €
-9. Das Modehaus ist am Samstag geöffnet …
-   a) nicht b) bis 18:00 Uhr c) bis 20:00 Uhr
+1. Eine Damen-Bluse kostet mindestens …  a) 9,90 €  b) 19,90 €  c) 24,90 €
+2. Jeans gibt es …  a) nur für Damen  b) nur für Herren  c) für Damen und Herren
+3. Ein Sommerkleid kostet …  a) 39,90 €  b) 49,90 €  c) 19,90 €
+4. Das Modehaus ist am Samstag geöffnet …  a) nicht  b) bis 18:00 Uhr  c) bis 20:00 Uhr
 
-## Übung C5 — Schreiben
+## Übung C5 — Schreiben: Kaufhaus-Dialog
 
-Write a shopping dialogue (8–10 lines) between a customer and a shop assistant.
-Include: greeting · what you are looking for · asking to try something on ·
-saying whether it fits/suits you · asking the price · buying or not buying.
-Use Redemittel from section 3. Model answer in `solutions.md` — write yours **first**.
+**Your task:** Write a shopping dialogue (8–10 lines) between a customer and a shop assistant. Include: greeting · what you are looking for · asking to try something on · saying whether it fits/suits you · asking the price · buying or not buying. Use Redemittel from section 3. Model answer in solutions.md — write yours first.
+
+Self-check:
+- [ ] Did I use a dative verb correctly (gefallen/passen/stehen + dative pronoun)?
+- [ ] Did I ask the price with `was kostet`?
+- [ ] Did I use `dieser/diese/dieses` or a pronoun correctly?
+- [ ] Verb in position 2 in every statement?
+- [ ] Nouns capitalized throughout?
 
 ---
 
@@ -471,23 +417,21 @@ Use Redemittel from section 3. Model answer in `solutions.md` — write yours **
 
 ## Übung D1 — Gemischter Schnelltest (incl. earlier lessons)
 
-One minute per item. No notes.
-
 1. `gefallen`, er/sie/es-form: es ______
 2. Dative pronoun for "ich": ______
 3. Dative pronoun for "Sie" (formal): ______
-4. "Which jacket do you like?" (Nom, f): ______________________
+4. "Which jacket do you like?" (Nom, f): ______
 5. `helfen`, du-form: du ______
 6. (L3) Article: ______ Jacke (die Jacke → f!)
 7. `passen`, sie/es-form: es ______
-8. "The bag belongs to me." → ______________________
-9. (L8) Preposition + dative: "Ich fahre **___** dem Bus." (`mit`)
+8. "The bag belongs to me." → ______
+9. (L8) Preposition + dative: "Ich fahre ______ dem Bus." (`mit`)
 10. `dieser`, masculine accusative: ______
 11. (L4) "Es ______ viele Geschäfte in der Stadt." (es gibt)
 12. (L6) `können`, ich-form: ich ______
-13. "I don't like these shoes." (gefallen): ______________________
+13. "I don't like these shoes." (gefallen): ______
 14. (L3) Akkusativ, m: der Pullover → ich kaufe ______ Pullover
-15. "Does the coat suit her?" → ______________________
+15. "Does the coat suit her?" → ______
 
 ## Übung D2 — Odd one out
 
@@ -514,39 +458,28 @@ One minute per item. No notes.
 ## Übung D4 — Selbsttest (score yourself /20)
 
 Dative pronouns (write the dative form):
-
 1. du → ______  2. er → ______  3. sie (pl.) → ______
-
 `gefallen`, `passen`, `stehen` (write the correct form):
-
 4. Das Kleid ______ mir gut. (passen)
 5. Die Schuhe ______ ihr nicht. (gefallen)
 6. Das Blau ______ dir gut. (stehen)
-
 `dieser` (correct form for the context):
-
 7. ______ Pullover (m, Nom)
 8. ______ Jacke (f, Akk)
 9. ______ Kleid (n, Nom/Akk)
-
 `welcher` (correct question form):
-
 10. ______ Größe haben Sie? (f)
 11. ______ Mantel nimmst du? (m, Akk)
-
 Vocabulary:
-
 12. "jacket" (with article): ______
 13. "to try on" (infinitive): ______
 14. "to belong to" (infinitive): ______
-
 Sentences (write the German):
-
-15. "I like this jacket." (gefallen) → ______________________
-16. "Does the coat suit you?" (informal) → ______________________
-17. "The shoes fit me perfectly." → ______________________
-18. "Can I help you?" (formal) → ______________________
+15. "I like this jacket." (gefallen) → ______
+16. "Does the coat suit you?" (informal) → ______
+17. "The shoes fit me perfectly." → ______
+18. "Can I help you?" (formal) → ______
 19. `tragen`, du-form: du ______
 20. „Soll ich es ______?" (einpacken)
 
-**Score: ____ / 20.** 16+ → Lektion 10. Below → redo A1–A4 + A11 tomorrow, then retest.
+_16+ / 20 → Lektion 10. Below: redo A1–A4 + A11 tomorrow, then retest._
