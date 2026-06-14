@@ -1,163 +1,89 @@
-# A1 · Lektion 12 — Lösungen (Answer key)
+# A1 · Lektion 12 — Lösungen
 
 ---
 
 # Block H — Hören
 
-## Übung H1a — Dialog Hör-Check: Informell
+## Übung H1a — Dialog A (informell): Anna und Bruno
 
 1. **R** — Anna sagt: „Mein Geburtstag ist am dreizehnten Mai."
-2. **F** — Die Party ist am **Samstag, dem vierzehnten Mai** — nicht am Sonntag dem fünfzehnten. *(Anna: „Am Samstag, dem vierzehnten Mai, um sieben Uhr abends.")*
+2. **F** — Die Party ist am Samstag, dem vierzehnten Mai — nicht am Sonntag dem fünfzehnten.
 3. **R** — Bruno sagt: „Den vierzehnten — das geht leider nicht. Ich habe einen Termin."
 4. **R** — Anna sagt: „Ich schicke dir eine Einladung."
 
-## Übung H1b — Dialog Hör-Check: Formell
+## Übung H1b — Dialog B (formell): Frau Weber beim Arzt
 
-1. **F** — Die Praxis ist „Praxis Dr. **Hoffmann**", nicht Dr. Bauer.
+1. **F** — Die Praxis ist „Praxis Dr. Hoffmann", nicht Dr. Bauer.
 2. **R** — Die Sprechstundenhilfe sagt: „Passt Ihnen Mittwoch, der achtzehnte Oktober?"
 3. **R** — Die Sprechstundenhilfe sagt: „Um 10 Uhr 30."
-4. **F** — Am Telefon sagt man **„Auf Wiederhören"**, nicht „Auf Wiedersehen". Frau Weber sagt „Auf Wiederhören!" — so the farewell used is correct but the question asks about *Wiedersehen*: **F**.
+4. **F** — Am Telefon sagt man „Auf Wiederhören", nicht „Auf Wiedersehen".
 
 ## Übung H3 — Hörtext-Lückentext
 
-Complete Hörtext:
+1. **an**  2. **einladen**  3. **dritten**  4. **Samstag**  5. **Termin**  6. **vierten**  7. **schickt**
 
-> Bruno ruft Yuki **an**. Er möchte sie zur Geburtstagsfeier **einladen**.
-> Yukis Geburtstag ist am **dritten** Juli. Bruno fragt: „Hast du am **Samstag** Zeit?"
-> Yuki sagt: „Der zweite Juli passt mir leider nicht. Ich habe einen **Termin**."
-> Bruno schlägt den **vierten** Juli vor. Yuki sagt: „Ja, der vierte passt gut!"
-> Bruno freut sich und **schickt** ihr eine Einladung.
+## Übung H4 — Kurze Ansage: Lisa sagt ein Treffen ab
 
-Gap answers in order: **an · einladen · dritten · Samstag · Termin · vierten · schickt**
-
-Not needed (distractors): **einzuladen · fünften**
-
-Trap notes:
-1. **an** — separable verb `anrufen`; in the sentence „ruft … an", the prefix goes to the end.
-2. **einladen** — infinitive after modal `möchte`; not the zu-infinitive form `einzuladen` (that requires `zu` which is not present here).
-3. **dritten** — ordinal dative after `am`; not cardinal „drei".
-4. **Samstag** — specific day of the week; note `am Samstag` requires `am`, not `im`.
-5. **Termin** — der Termin; direct object of `haben`.
-6. **vierten** — ordinal dative; not `fünften` (distractor).
-7. **schickt** — er/sie-form of `schicken`.
-
-## H4 — Kurze Ansage: Lisa sagt ein Treffen ab
-
-1. **a) Von Lisa** — „Hallo Anna, hier ist Lisa."
-2. **c) Das Treffen am achtzehnten Oktober** — „Leider muss ich unser Treffen am achtzehnten Oktober absagen."
-3. **b) Am Sonntag um fünfzehn Uhr** — „Können wir uns vielleicht am Sonntag, dem neunzehnten Oktober, um fünfzehn Uhr treffen?"
-4. **a) Zurückrufen** — „Bitte ruf mich zurück, damit ich weiß, ob der neue Termin passt."
+1. **a) Von Lisa.** — Hallo Anna, hier ist Lisa.
+2. **c) Das Treffen am achtzehnten Oktober.** — „Leider muss ich unser Treffen am achtzehnten Oktober absagen."
+3. **b) Am Sonntag um fünfzehn Uhr.** — „Können wir uns vielleicht am Sonntag, dem neunzehnten Oktober, um fünfzehn Uhr treffen?"
+4. **a) Zurückrufen.** — „Bitte ruf mich zurück, damit ich weiß, ob der neue Termin passt."
 
 ---
 
 # Block A — Basistraining
 
-## Übung A1 — Monate
+## Übung A1 — Monate: Lücken füllen
 
-1. Januar · **Februar** · März · April · **Mai** · Juni
-2. **Juli** · August · **September** · Oktober · November · **Dezember**
+1. **Februar**  2. **Mai**  3. **Juli**  4. **September**  5. **Dezember**
 
-## Übung A2 — Ordinalzahlen: Tabelle
+## Übung A2 — Ordinalzahlen: Stamm + Nominativform
 
-| Zahl | Ordinalstamm | Der/Die/Das … (Nominativ) |
-|---|---|---|
-| 1 | erst- | der **erste** Mai |
-| 2 | **zweit-** | der **zweite** März |
-| 3 | **dritt-** ⚠️ | der **dritte** Oktober |
-| 4 | **viert-** | der **vierte** Juli |
-| 7 | **siebt-** ⚠️ | der **siebte** Februar |
-| 8 | **acht-** ⚠️ | der **achte** September |
-| 11 | **elft-** | der **elfte** November |
-| 20 | **zwanzigst-** | der **zwanzigste** Dezember |
-| 31 | **einunddreißigst-** | der **einunddreißigste** Januar |
+| Ordinalstamm | Der/Die/Das … (Nominativ) |
+|---|---|
+| 1 | erst- | erste |
+| 2 | **zweit-** | **zweite** |
+| 3 | **dritt-** | **dritte** |
+| 4 | **viert-** | **vierte** |
+| 7 | **siebt-** | **siebte** |
+| 8 | **acht-** | **achte** |
+| 11 | **elft-** | **elfte** |
+| 20 | **zwanzigst-** | **zwanzigste** |
+| 31 | **einunddreißigst-** | **einunddreißigste** |
 
-⚠️ Traps: 3 → **dritt-** (not *dreit-*); 7 → **siebt-** (not *sievent-*);
-8 → **acht-** (not *achtt-* — no extra t).
+## Übung A3 — Datum lesen: „am + Dativ"
 
-## Übung A3 — Datum: am + Dativ
+1. **ersten**  2. **zweiten**  3. **fünften**  4. **siebten**  5. **achten**  6. **zehnten**  7. **elften**  8. **zwanzigsten**  9. **einundzwanzigsten**  10. **einunddreißigsten**
 
-1. am **ersten** Januar
-2. am **zweiten** März
-3. am **fünften** April
-4. am **siebten** August
-5. am **achten** Juni
-6. am **zehnten** Oktober
-7. am **elften** November
-8. am **zwanzigsten** Dezember
-9. am **einundzwanzigsten** Februar
-10. am **einunddreißigsten** Juli
+## Übung A4 — Datum schreiben: Wörter → Ziffern
 
-Pattern: nominative `erste` → dative `ersten` (-en ending for all ordinals after `am`).
+1. **1. Oktober**  2. **12. März**  3. **30. Juni**  4. **18. November**  5. **22. Juli**
 
-## Übung A4 — Datum: Wörter → Ziffern
+## Übung A5 — Präposition: im, am, um, vor, nach?
 
-1. 1. Oktober (also: 1.10.)
-2. 12. März (also: 12.3.)
-3. 30. Juni (also: 30.6.)
-4. 18. November (also: 18.11.)
-5. 22. Juli (also: 22.7.)
+1. **Am**  2. **Im**  3. **um**  4. **nach**  5. **Im**  6. **vor**  7. **Am**  8. **am**  9. **im**  10. **um**
 
-## Übung A5 — Temporale Präpositionen
+## Übung A6 — Präposition + Nomen: vor oder nach?
 
-1. **Am** Montag habe ich einen Termin.
-2. **Im** Januar ist es kalt.
-3. Die Party beginnt **um** acht Uhr.
-4. Wir essen **nach** dem Kurs.
-5. **Im** Sommer fahren wir an den See.
-6. Ich dusche **vor** dem Frühstück.
-7. **Am** Abend gehen wir ins Kino.
-8. Er kommt **am** Freitag.
-9. Das ist **im** Dezember.
-10. Das Konzert ist **um** halb neun.
+1. **Nach dem**  2. **nach dem**  3. **nach der**  4. **Nach der**  5. **nach der**  6. **nach dem**
 
-## Übung A6 — vor dem / vor der / nach dem / nach der
+## Übung A7 — `einladen`: konjugieren
 
-1. **Nach dem** Essen trinke ich einen Kaffee. *(das Essen → dem)*
-2. Die Feier ist **nach dem** Konzert. *(das Konzert → dem)*
-3. Ich rufe dich **nach der** Party an. *(die Party → der)*
-4. **Nach der** Arbeit gehe ich ins Fitnessstudio. *(die Arbeit → der)*
-5. Wir treffen uns **nach der** Vorlesung. *(die Vorlesung → der)*
-6. Er kommt **nach dem** Deutschkurs ins Café. *(der Deutschkurs → dem)*
+1. **lade**  2. **ein**  3. **Lädst**  4. **ein**  5. **lädt**  6. **ein**  7. **laden**  8. **ein**  9. **Ladet**  10. **ein**  11. **laden**  12. **ein**
 
-⚠️ `vor/nach` take the **dative**: der → dem, die → der, das → dem.
+## Übung A8 — Verben im Satz: passen, feiern, schicken, planen, absagen
 
-## Übung A7 — `einladen` konjugiert
+1. **passt**  2. **feiern**  3. **schicke**  4. **absagen**  5. **Passt**  6. **plant**  7. **feiert**  8. **schicken**
 
-1. Ich **lade** … meine Familie **ein**.
-2. **Lädst** du … auch Bruno **ein**? ⚠️ (a → ä for du)
-3. Frau Weber **lädt** … alle Kollegen **ein**. ⚠️ (a → ä for er/sie/es)
-4. Wir **laden** … euch herzlich **ein**.
-5. **Ladet** ihr … auch eure Nachbarn **ein**?
-6. Meine Eltern **laden** … mich **ein**.
+## Übung A9 — Termine ablehnen: Sätze ergänzen
 
-## Übung A8 — Verben im Satz
+1. **geht**  2. **kann**  3. **schon**  4. **leider**  5. **Geht**  6. **absagen**
 
-1. **passt** — Das passt mir gut. *(passen + Dativ)*
-2. **feiern** — Wir feiern heute Annas Geburtstag.
-3. **schicke** — Ich schicke dir eine Einladung.
-4. **absagen** — Ich muss leider absagen. *(modal + infinitive at end)*
-5. **Passt** — Passt euch der dreizehnte Mai?
-6. **plant** — Was plant ihr für das Wochenende?
-7. **feiert** — Er feiert gern.
-8. **schicken** — Wir schicken Ihnen die Einladung per E-Mail.
+## Übung A10 — Datum + Uhrzeit kombinieren
 
-## Übung A9 — Termine ablehnen
+1. **Der Arzttermin ist am Mittwoch, dem dritten Oktober, um zehn Uhr dreißig.** (auch richtig: **Der Arzttermin ist am Mittwoch, dem dritten Oktober, um halb elf.**)  2. **Der Deutschkurs ist am Dienstag, dem achten November, um achtzehn Uhr.**  3. **Die Geburtstagsfeier ist am Samstag, dem einundzwanzigsten Mai, um neunzehn Uhr.**  4. **Das Konzert ist am Freitag, dem ersten Dezember, um zwanzig Uhr dreißig.** (auch richtig: **Das Konzert ist am Freitag, dem ersten Dezember, um halb neun.**)
 
-1. Das **geht** leider nicht. *(das geht nicht = standard phrase)*
-2. Ich **kann** leider nicht kommen.
-3. Ich habe **schon** einen Termin.
-4. Das passt mir **leider** nicht.
-5. **Geht** es auch am Samstag?
-6. Ich muss den Termin leider **absagen**.
-
-## Übung A10 — Datum + Uhrzeit
-
-1. Der Arzttermin ist am Mittwoch, dem dritten Oktober, um zehn Uhr dreißig. (also: um halb elf)
-2. Der Deutschkurs ist am Dienstag, dem achten November, um achtzehn Uhr.
-3. Die Geburtstagsfeier ist am Samstag, dem einundzwanzigsten Mai, um neunzehn Uhr.
-4. Das Konzert ist am Freitag, dem ersten Dezember, um zwanzig Uhr dreißig. (also: um halb neun)
-
-## Übung A11 — Glückwünsche
+## Übung A11 — Glückwünsche: Welcher Anlass?
 
 1 → f · 2 → e · 3 → a · 4 → c · 5 → d · 6 → b
 
@@ -165,248 +91,175 @@ Pattern: nominative `erste` → dative `ersten` (-en ending for all ordinals aft
 
 # Block B — Vertiefung
 
-## Übung B1 — Einladung zur Party
+## Übung B1 — Dialog ergänzen: Einladung zur Party
 
-1. **Party** (also fine: Feier)
-2. **denn** (also fine: genau / das)
-3. **sechzehnten** *(am sechzehnten Juli)*
-4. **passt**
-5. **schon einen Termin** (also fine: leider keine Zeit)
-6. **Siebzehnten** *(am Siebzehnten)*
-7. **passt** (also fine: geht)
-8. **gern**
-9. **schicke**
-10. **Herzlichen**
+1. **Party** (auch richtig: **Feier**)  2. **denn** (auch richtig: **genau**, **das**)  3. **sechzehnten**  4. **passt**  5. **schon einen Termin** (auch richtig: **leider keine Zeit**)  6. **Siebzehnten**  7. **passt** (auch richtig: **geht**)  8. **gern**  9. **schicke**  10. **Herzlichen**
 
-## Übung B2 — Arzttermin (formal)
+## Übung B2 — Dialog ergänzen: Arzttermin (formal)
 
-1. **Sie** *(formal)*
-2. **gern** (also fine: bitte)
-3. **Ihnen** *(formal dative)*
-4. **wie viel** *(um wie viel Uhr?)*
-5. **zehn Uhr dreißig** / **halb elf** *(any sensible time works in context)*
-6. **passt**
-7. **Namen** *(Darf ich Ihren Namen bitte?)*
-8. **Wiederhören** *(Auf Wiederhören — telephone farewell)*
+1. **Sie**  2. **gern** (auch richtig: **bitte**)  3. **Ihnen**  4. **wie viel**  5. **zehn Uhr dreißig** (auch richtig: **halb elf**)  6. **passt**  7. **Namen**  8. **Wiederhören**
 
 ## Übung B3 — Finde den Fehler
 
-1. Mein Geburtstag ist **am** dreizehnten Mai. *(not *im* — specific date → am)*
-2. Die Party findet am **zwanzigsten** Juni statt. *(ordinal required, not cardinal)*
-3. Wir feiern **im** Sommer Geburtstag. *(season → im, not *in*)*
-4. Das Konzert beginnt **am** Abend. *(time of day → am, not *um*; *um* is for exact clock times)*
-5. Ich lade **meine Freunde** zur Party ein. *(einladen takes accusative: meine Freunde, not Dativ meinen Freunden)*
-6. Herzlichen Glückwunsch zum Geburtstag — ich wünsche dir alles **Gute**! *(capitalized: alles Gute)*
-7. Er **lädt** alle Kollegen ein. *(a → ä stem change!)*
-8. Das passt mir **leider** nicht. *(leider before nicht — standard position)*
-9. Nach dem Essen **machen wir** Musik. *(verb in position 2!)*
-10. Ich habe schon einen Termin — ich kann **leider** nicht kommen. *(leider before nicht)*
+1. **am**  2. **zwanzigsten**  3. **im**  4. **am**  5. **meine Freunde**  6. **Gute**  7. **lädt**  8. **leider nicht**  9. **machen wir**  10. **leider**
 
-## Übung B4 — Frage und Antwort
+## Übung B4 — Frage und Antwort verbinden
 
 1 → c · 2 → e · 3 → b · 4 → a · 5 → d · 6 → f · 7 → g · 8 → h
 
 ## Übung B5 — Satzbau
 
-1. Am Montag habe ich einen Termin. *(also fine: Ich habe am Montag einen Termin.)*
-2. Im Juli feiern wir Geburtstag. *(also fine: Wir feiern im Juli Geburtstag.)*
-3. Die Party beginnt um neun Uhr.
-4. Das geht leider nicht.
-5. Wir laden euch herzlich ein.
-6. Nach der Arbeit kommt er ins Café. *(also: Er kommt nach der Arbeit ins Café.)*
-7. Ich schicke dir eine Einladung.
-8. Passt es Ihnen am dritten Mai?
-9. Vor dem Spiel spielen wir Fußball. *(also: Wir spielen Fußball vor dem Spiel.)*
-10. Herzlichen Glückwunsch zum Geburtstag! *(fixed phrase — no reordering)*
+1. am Montag habe ich einen Termin
+   _Am Montag habe ich einen Termin._
+2. im Juli feiern wir Geburtstag
+   _Im Juli feiern wir Geburtstag._
+3. die Party beginnt um neun Uhr
+   _Die Party beginnt um neun Uhr._
+4. das geht leider nicht
+   _Das geht leider nicht._
+5. wir laden euch herzlich ein
+   _Wir laden euch herzlich ein._
+6. nach der Arbeit kommt er ins Café
+   _Nach der Arbeit kommt er ins Café._
+7. ich schicke dir eine Einladung
+   _Ich schicke dir eine Einladung._
+8. passt es Ihnen am dritten Mai ?
+   _Passt es Ihnen am dritten Mai?_
+9. vor dem Spiel spielen wir Fußball
+   _Vor dem Spiel spielen wir Fußball._
+10. herzlichen Glückwunsch zum Geburtstag
+   _Herzlichen Glückwunsch zum Geburtstag!_
 
 ## Übung B6 — Jahreszeiten und Monate
 
-| Monate | Jahreszeit | Deutsch-Feiertag (Beispiel) |
-|---|---|---|
-| Dezember – Februar | **Winter** | **Weihnachten (25. Dezember)** / Silvester / Neujahr |
-| März – Mai | **Frühling** | **Ostern** (März/April) |
-| Juni – August | **Sommer** | *(kein großer nationaler Feiertag — Tag der Deutschen Einheit is in autumn)* |
+| Jahreszeit | Deutsch-Feiertag (Beispiel) |
+|---|---|
+| Dezember – Februar | **Winter** | **Weihnachten (25. Dezember)** (auch richtig: **Silvester**, **Neujahr**) |
+| März – Mai | **Frühling** | **Ostern** (auch richtig: **Ostern (März/April)**) |
+| Juni – August | **Sommer** | **(kein großer nationaler Feiertag)** (auch richtig: **Sommerfest**) |
 | September – November | **Herbst** | **Tag der Deutschen Einheit (3. Oktober)** |
-
-Any culturally reasonable answer is accepted. The key target is the season names.
 
 ## Übung B7 — Was passt nicht?
 
-1. ~~Supermarkt~~ (not a celebration/event)
-2. ~~Montag~~ (a weekday, not a holiday/celebration)
-3. ~~weil~~ (conjunction, not a temporal preposition)
-4. ~~Sommer~~ (a season, not a month — the others are all months)
-5. ~~kaufen~~ (shopping verb, not a celebration/socializing verb — the others are feiern, einladen, gratulieren)
-6. ~~herzlich~~ (adjective/adverb, not a temporal preposition — the others are vor, nach, während)
+1. ~~Supermarkt~~ — not a celebration or event (Supermarkt = supermarket)
+2. ~~Montag~~ — not a holiday (Montag = a weekday)
+3. ~~weil~~ — not a temporal preposition (weil = subordinating conjunction)
+4. ~~Sommer~~ — not a month (Sommer = a season)
+5. ~~kaufen~~ — not a celebration/socializing verb (kaufen = to buy)
+6. ~~herzlich~~ — not a temporal preposition (herzlich = an adjective/adverb)
 
-## Übung B8 — Auf Einladungen antworten
+## Übung B8 — Auf Einladungen antworten: mit Stichwörtern
 
-1. Ja, ich komme gern (zur Party am Samstag)!
-2. Nein, das geht leider nicht — ich habe schon einen Termin.
-3. Der fünfte Juni passt mir leider nicht, aber der Sechste geht (gut)!
-4. Ja, ich kann am Montag kommen — um zehn Uhr.
-5. Herzlichen Glückwunsch! / Alles Gute zum Geburtstag! Ich wünsche dir alles Gute!
-6. Wir feiern am Samstag, dem vierzehnten, um zwanzig Uhr.
+Modellantwort:
 
-## Übung B9 — Übersetzen
+> 1. Ja, ich komme gern (zur Party am Samstag)!
+> 2. Nein, das geht leider nicht — ich habe schon einen Termin.
+> 3. Der fünfte Juni passt mir leider nicht, aber der Sechste geht (gut)!
+> 4. Ja, ich kann am Montag kommen — um zehn Uhr.
+> 5. Herzlichen Glückwunsch! / Alles Gute zum Geburtstag! Ich wünsche dir alles Gute!
+> 6. Wir feiern am Samstag, dem vierzehnten, um zwanzig Uhr.
 
-1. Mein Geburtstag ist am dritten Juli.
-2. Kannst du am Samstag, dem einundzwanzigsten März, kommen?
-3. Ich kann leider nicht kommen — ich habe schon einen Termin.
-4. Die Party beginnt um acht Uhr abends. (also: um zwanzig Uhr)
-5. Herzlichen Glückwunsch zum Geburtstag! Alles Gute!
-6. Wir feiern im Sommer.
-7. Vor der Party kaufe ich Blumen. (also: Ich kaufe vor der Party Blumen.)
-8. Ich schicke dir nach dem Meeting eine Einladung. (also: Nach dem Meeting schicke ich dir eine Einladung.)
+## Übung B9 — Einladung zu meiner Party
 
-## B9 — Einladung zu meiner Party (model answer)
+Modellantwort:
 
 > Hallo Anna! Ich möchte dich zu meiner Geburtstagsparty einladen.
 > Sie ist am Samstag, dem siebzehnten Mai, um achtzehn Uhr bei mir
 > zu Hause in der Goethestraße 12. Ich freue mich sehr auf dich!
 > Bitte antworte mir bis Mittwoch. Liebe Grüße, [Name]
 
-*(A correct reply: ≥1 ordinal date, ≥1 time, ≥1 location phrase, friendly
-closing. Any equivalent is accepted.)*
+Selbstkorrektur:
+- [ ] Did I use the correct ordinal ending: -ten for most dates, -te only for der erste?
+- [ ] Did I use `am` (not `in`) for days of the week and specific dates?
+- [ ] Did I put the verb in position 2 in every sentence?
 
 ---
 
 # Block C — Prüfungstraining
 
-## Übung C1 — Lückentext
+## Übung C1 — Lückentext (10 Lücken)
 
-1. **bin** · 2. **ist** · 3. **am** · 4. **um** · 5. **bei** · 6. **ein** *(lade … ein — separable!)* · 7. **auch** · 8. **schicke** · 9. **bitte** · 10. **auf** *(sich freuen auf + Akkusativ)*
+1. **bin**  2. **ist**  3. **am**  4. **um**  5. **bei**  6. **ein**  7. **auch**  8. **schicke**  9. **bitte**  10. **auf**
 
-## Übung C2 — Sprachbausteine Teil 1
+## Übung C2 — Sprachbausteine Teil 1 (6 Lücken, je 3 Optionen)
 
-1. **c) lade** — ich-form of `einladen`; the prefix `ein` appears later in the sentence, so the stem form is *lade*.
-2. **a) am** — specific day (Saturday) → `am`.
-3. **a) dem** — `am Samstag, dem achten März` — the date after a day name takes dative → `dem`.
-4. **c) Es** — impersonal subject: `Es beginnt um 20 Uhr`.
-5. **a) bitte** — polite request: `sag mir bitte Bescheid`.
-6. **b) kannst** — du-form of `können`.
+1. **c) lade** — ich-form of einladen; the separable prefix ein appears later, so the stem is lade.
+2. **a) am** — specific day of the week → am.
+3. **a) dem** — am Samstag, dem achten März — the date after a day name takes dative → dem.
+4. **c) Es** — impersonal subject: Es beginnt um 20 Uhr.
+5. **a) bitte** — polite request: sag mir bitte Bescheid.
+6. **b) kannst** — du-form of können: kannst.
 
-## Übung C3 — Sprachbausteine Teil 2
+## Übung C3 — Sprachbausteine Teil 2 (Wortkasten, 10 Lücken, 5 Distraktoren)
 
-1. **BEGINNT** *(Wann beginnt …)*
-2. **AM** *(findet am Samstagabend …)*
-3. **STATT** *(findet … statt — separable: stattfinden)*
-4. **EINLADUNG**
-5. **PASST** *(Passt das dir?)*
-6. **LEIDER** *(leider einen Termin)*
-7. **FEIERT** *(Luisa feiert immer so toll)*
-8. **BESCHEID** *(sag ihr Bescheid)*
-9. **HERZLICHEN** *(Herzlichen Glückwunsch)*
-10. **GEBURTSTAG**
+1. **BEGINNT**  2. **AM**  3. **STATT**  4. **EINLADUNG**  5. **PASST**  6. **LEIDER**  7. **FEIERT**  8. **BESCHEID**  9. **HERZLICHEN**  10. **GEBURTSTAG**
 
-Not needed: **FROHES · IM · SCHICKE · UHR · UND**
+## Übung C4a — Lesen Text 1
 
-Verification — each word fits exactly one gap; no word fits two gaps; 5 distractors confirmed.
-
-## Übung C4 — Lesen
-
-**Text 1:**
-1. **R** — Der Lesetext sagt: „am Samstag, dem siebzehnten Juni, Geburtstag". ✓
-2. **R** — „Die Feier findet am achtzehnten Juni … statt". ✓
+1. **R** — Der Lesetext sagt: „am Samstag, dem siebzehnten Juni, Geburtstag".
+2. **R** — „Die Feier findet am achtzehnten Juni … statt".
 3. **F** — „bei mir zu Hause", nicht im Restaurant.
-4. **R** — „um achtzehn Uhr". ✓
-5. **R** — „bis zum zehnten Juni Bescheid". ✓
+4. **R** — „um achtzehn Uhr".
+5. **R** — „bis zum zehnten Juni Bescheid".
 
-**Text 2:**
-6. **b)** Eine Hochzeit
-7. **c)** Im Restaurant
-8. **b)** Um 15 Uhr
-9. **b)** Bis zum 20. Juli
+## Übung C4b — Lesen Text 2 — Einladungskarte
 
-## Übung C5 — Schreiben (model answer)
+1. **b) Eine Hochzeit** — „wir feiern … unsere Hochzeit".
+2. **c) Im Restaurant** — „im Restaurant „Zur Sonne"".
+3. **b) Um 15 Uhr** — 15:00 Uhr.
+4. **b) Bis zum 20. Juli** — „bis zum 20. Juli Bescheid".
+
+## Übung C5 — Schreiben: kurze Einladung
+
+Modellantwort:
 
 > Liebe Freunde!
->
+> 
 > Ich lade euch herzlich zu meiner Geburtstagsfeier ein!
 > Mein Geburtstag ist am fünfzehnten Juli.
 > Die Party findet am Samstag, dem sechzehnten Juli, um neunzehn Uhr statt.
 > Sie ist bei mir zu Hause: Berliner Str. 8, Hamburg.
->
+> 
 > Bitte sagt mir bis zum zehnten Juli Bescheid, ob ihr kommen könnt.
->
+> 
 > Ich freue mich auf euch!
->
+> 
 > Viele Grüße,
 > [Ihr Name]
 
-Self-check list:
-- [ ] Ordinal number written correctly (am + -en ending)?
+Selbstkorrektur:
+- [ ] ordinal number written correctly (am + -en ending)?
 - [ ] `einladen` split correctly (lade … ein)?
-- [ ] Date in format: `am [ordinal] [month]`?
+- [ ] date in format: `am [ordinal] [month]`?
 - [ ] `stattfinden` split if used (`findet … statt`)?
 - [ ] `bitte sagt mir Bescheid` or similar request?
-- [ ] Polite closing greeting?
+- [ ] polite closing greeting?
 
 ---
 
 # Block D — Wiederholung & Selbsttest
 
-## Übung D1 — Schnelltest
+## Übung D1 — Gemischter Schnelltest (15 Punkte)
 
-1. **Juni** *(der Monat nach Mai)*
-2. **am dritten Oktober**
-3. (L5) Sie **steht** um 7 Uhr **auf**.
-4. **im** März
-5. **nicht** *(Das passt mir leider nicht.)*
-6. (L11) Wir **haben** gestern Geburtstag **gefeiert**. *(feiern → hat gefeiert)*
-7. **zwanzigsten** *(am zwanzigsten …)*
-8. (L6) Ich **kann** leider nicht kommen.
-9. **die Einladung, -en**
-10. (L7) Ich **muss** heute Abend arbeiten.
-11. **um** acht Uhr
-12. (L2) einen Bruder *(possessive not involved here — „er hat **einen** Bruder", masc. acc.)*
-13. **Frohe Weihnachten!**
-14. **im** Sommer
-15. (L9) **Dieser** Rock gefällt mir nicht.
+1. **Juni**  2. **am dritten Oktober**  3. **steht**  4. **auf**  5. **im**  6. **nicht**  7. **haben**  8. **gefeiert**  9. **zwanzigsten**  10. **kann**  11. **die Einladung**  12. **muss**  13. **um**  14. **einen**  15. **Frohe Weihnachten!**  16. **im**  17. **Dieser**
 
-## Übung D2 — Odd one out
+## Übung D2 — Odd one out (6 Gruppen)
 
-1. ~~Sommer~~ (season, not a month)
-2. ~~Kalender~~ (an object, not a celebration/holiday)
-3. ~~weil~~ (subordinating conjunction, not a preposition)
-4. ~~schlafen~~ (sleeping, unrelated to celebrating or inviting)
-5. ~~regnen~~ (weather verb, not an event/object)
-6. ~~siebzehn~~ (cardinal number, not an ordinal stem; the others are ordinal stems)
+1. ~~Sommer~~ — Sommer is a season, not a month
+2. ~~Kalender~~ — Kalender is an object, not a celebration/holiday
+3. ~~weil~~ — weil is a subordinating conjunction, not a preposition
+4. ~~schlafen~~ — schlafen (to sleep) is unrelated to celebrating or inviting
+5. ~~regnen~~ — regnen (to rain) is a weather verb, not an event/object
+6. ~~siebzehn~~ — siebzehn is a cardinal number; the others are ordinal stems
 
-## Übung D3 — Wiederholung
+## Übung D3 — Wiederholung früherer Lektionen (10 Punkte)
 
-1. (L11) Ich **bin** gestern ins Kino **gegangen**. *(gehen → ist gegangen)*
-2. (L5) Der Zug **fährt** um 8:15 **ab**. *(abfahren, er-form: fährt ab)*
-3. (L7) Sie **muss** jetzt lernen.
-4. (L8) Er fährt **mit dem** Bus zur Arbeit. *(mit + Dativ: der Bus → dem Bus)*
-5. (L6) Was machst du **gern**? *(gern = like to)*
-6. (L10) Ich habe **Kopfschmerzen**. *(die Kopfschmerzen — typically used without article)*
-7. (L4) Es **gibt** in der Küche einen Tisch.
-8. (L3) Was **kostet** der Apfelkuchen?
-9. (L2) Hast du **Geschwister**? *(yes/no question — verb first)*
-10. (L1) Woher kommen Sie?
+1. **bin**  2. **gegangen**  3. **fährt**  4. **ab**  5. **muss**  6. **mit dem**  7. **gern**  8. **Kopfschmerzen**  9. **gibt**  10. **kostet**  11. **—**  12. **Woher kommen Sie?**
 
-## Übung D4 — Selbsttest (/20)
+## Übung D4 — Selbsttest (/20) — Termine und Feste
 
-1. am **ersten** Mai
-2. am **dritten** Oktober
-3. am **siebten** März
-4. am **zwanzigsten** November
-5. **am** Freitag
-6. **im** Sommer
-7. **um** 19 Uhr
-8. **nach** dem Essen
-9. er **lädt** … **ein** *(a → ä!)*
-10. wir **feiern**
-11. **Herzlichen Glückwunsch zum Geburtstag!** (also fine: Alles Gute zum Geburtstag!)
-12. **Ich kann leider nicht kommen.**
-13. **Das passt mir gut.**
-14. **schicke** *(Ich schicke dir eine Einladung.)*
-15. **Juli**
-16. **November**
-17. **Die Feier findet am achtzehnten Juni statt.**
-18. Hast du **am** Samstag Zeit?
-19. **Frohe Weihnachten!** / **Frohes Neues Jahr!** (also fine: Guten Rutsch!)
-20. Herzlichen Glückwunsch zum Geburtstag! / Alles Gute zum Geburtstag!
+1. **ersten**  2. **dritten**  3. **siebten**  4. **zwanzigsten**  5. **am**  6. **im**  7. **um**  8. **nach**  9. **lädt**  10. **ein**  11. **feiern**  12. **Herzlichen Glückwunsch zum Geburtstag!**  13. **Ich kann leider nicht kommen.**  14. **Das passt mir gut.**  15. **schicke**  16. **Juli**  17. **November**  18. **Die Feier findet am achtzehnten Juni statt.**  19. **am**  20. **Frohe Weihnachten!**  21. **Frohes Neues Jahr!**  22. **Herzlichen Glückwunsch zum Geburtstag!**
 
-**16+/20 → Lektion 13.** Below 16: redo Block A (especially A2–A5 and A10) tomorrow, then retake the Selbsttest before continuing.
+---
+
+**16+ / 20 → go to the next Lektion.**
