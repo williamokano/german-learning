@@ -17,6 +17,8 @@
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: Was wäre, wenn … — Brunch bei Mia in Kreuzberg (informal, 3 Personen)
 
 > **Mia:** Okay, ich habe eine Frage für euch. Wenn ihr morgen kündigen und
@@ -46,6 +48,8 @@
 > nächsten Monat nicht so viel arbeiten müsste, würde ich sofort mit einem
 > Fotokurs beginnen.  
 > **Anna:** Das wäre wunderbar. Ich drücke dir die Daumen!  
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Das Mentoringgespräch — Karriereberatung (formal, 2 Personen)
 
@@ -455,6 +459,8 @@ ist. Denn wenn man immer auf den richtigen Moment wartet, würde man am Ende
 nie etwas machen.
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Bruno ruft Yuki in Japan an
 

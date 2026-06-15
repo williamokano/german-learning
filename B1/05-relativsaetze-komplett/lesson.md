@@ -17,6 +17,8 @@
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: Die Produktbeschreibung — Text für die Website (informell, 3 Personen)
 
 *Pavel hilft Tomáš dabei, eine Produktbeschreibung für die neue Startup-Website zu
@@ -34,6 +36,8 @@ schreiben. Mia schaut mit und gibt Ratschläge.*
 > **Tomáš:** Das gefällt mir! Und am Ende — irgendetwas Motivierendes. Alles, was du für deinen Alltag brauchst.  
 > **Mia:** Perfekt. Oder: „Das ist das Einzige, was du brauchst, um durch die Stadt zu kommen."  
 > **Pavel:** Das ist ein bisschen viel versprochen, oder? Aber der Rhythmus stimmt!  
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Das Empfehlungsschreiben — Besprechung beim Chef (formell, 2 Personen)
 
@@ -353,6 +357,8 @@ Das Beste, was unsere Nutzer über uns sagen, ist: „Endlich eine Lösung, die
 wirklich zu meinem Alltag passt." Das ist alles, was wir hören wollen.
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Mia beschreibt ihre Traumwohnung
 

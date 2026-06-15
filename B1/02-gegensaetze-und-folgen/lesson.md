@@ -16,6 +16,8 @@
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: Warum Berlin? — Kaffee bei Mia (informal, 3 Personen)
 
 > **Mia:** So, Tomáš, du bist mal wieder in Berlin. Wie lange bleibst du diesmal?  
@@ -30,6 +32,8 @@
 > **Mia:** Ich finde das faszinierend. Ihr habt beide dieselbe Ausgangssituation — Tschechien, Prag — aber komplett andere Entscheidungen getroffen. Tomáš, warum bist du am Ende in Prag geblieben, obwohl du Berlin so schätzt?  
 > **Tomáš:** Weil Prag meine Heimat ist. Ich liebe diese Stadt. Dennoch wäre ich ohne den Berliner Markt nicht so weit gekommen. Berlin hat mir das Netzwerk gegeben, das ich brauchte.  
 > **Pavel:** Und ich bin nach Berlin gegangen, weil ich neu anfangen wollte. Darum bin ich geblieben — es fühlt sich wie mein Ort an.  
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Das Investorengespräch — Startup-Pitch (formal, 2 Personen)
 
@@ -329,6 +333,8 @@ nicht aus. Deswegen investiert er weiter — auch wenn er jeden Donnerstag wiede
 nach Prag fliegt.
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Pavel ruft seine Mutter in Brünn an
 

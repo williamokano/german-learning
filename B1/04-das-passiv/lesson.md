@@ -18,6 +18,8 @@
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: KI und Arbeit — Kaffee im Prenzlauer Berg (informell, 3 Personen)
 
 > **Anna:** Lukas, du arbeitest in der IT. Ich lese immer mehr Artikel darüber, was von Computern übernommen wird. Macht euch das Angst?  
@@ -30,6 +32,8 @@
 > **Lukas:** Deshalb muss mehr in Schulungen investiert werden. Das ist meine Meinung. Automatisierung kann nur funktionieren, wenn sie gut begleitet wird.  
 > **Bruno:** Stimmt. Und man darf nicht vergessen — viele der Tools, die jetzt verwendet werden, wurden von kleinen Teams entwickelt. KI wird oft als riesiges, anonymes Ding gesehen, aber dahinter stecken echte Menschen.  
 > **Anna:** Das ist ein guter Punkt. Vielleicht sollte das öfter kommuniziert werden.  
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Der neue Büroprozess — Besprechung mit Frau Weber (formell, 2 Personen)
 
@@ -405,6 +409,8 @@ verlassen. Das fertige Auto wird dann in Händlernetzwerke ausgeliefert und
 kann vom Kunden gekauft werden.
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Berliner Nachrichten: eine Meldung im Radio
 
