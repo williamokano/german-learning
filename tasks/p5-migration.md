@@ -37,9 +37,10 @@ If it exits 0, commit+push. Then move to the next lesson. **Do not fan out in pa
 | A2/06 | ✅ DONE | ✅ | ✅ |
 | A2/07 | ✅ DONE | ✅ | ✅ |
 | A2/08 | ✅ DONE | ✅ | ✅ |
-| A2/09–A2/13 | ❌ | — | — |
+| A2/09 | ✅ DONE | ✅ | ✅ |
+| A2/10–A2/13 | ❌ | — | — |
 
-**Next lesson:** A2/09-hoeflichkeit-und-wuensche
+**Next lesson:** A2/10-stadt-land-reisen
 
 ---
 
