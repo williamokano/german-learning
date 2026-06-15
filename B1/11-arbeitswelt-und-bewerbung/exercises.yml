@@ -1,0 +1,1052 @@
+lesson: B1/11
+title: "B1 · Lektion 11 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: H+A on day 1, B on day 2, C on day 3, D on day 4.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Bruno bewirbt sich um eine Stelle als IT-Consultant."
+        answer: true
+        why: "The dialog simulates a job interview for Bruno, who works as IT-Consultant."
+      - q: "Pavel hat sich nie für einen Job beworben."
+        answer: false
+        why: 'Pavel says: "Das dachte ich auch, als ich mich für meinen Barista-Job beworben habe."'
+      - q: 'Mia empfiehlt Bruno, seine Ausbildung als „Bachelor of Science" zu nennen.'
+        answer: true
+        why: 'Mia: sag „Bachelor of Science in Informatik" — klingt professioneller.'
+      - q: "Bruno nennt als Schwäche, dass er zu schnell arbeitet."
+        answer: false
+        why: "Bruno says he spends too much time perfecting things — too slow, not too fast."
+      - q: "Für die Gehaltsvorstellung empfiehlt Mia den Konjunktiv II."
+        answer: true
+        why: 'Mia: "Meiner Vorstellung nach läge das Gehalt … — Konjunktiv II klingt höflich und professionell."'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Wofür bewirbt sich Anna?"
+        options:
+          - { key: a, text: "Für eine Stelle als Marketing-Managerin." }
+          - { key: b, text: "Für eine Stelle als Projektkoordinatorin." }
+          - { key: c, text: "Für eine Stelle als IT-Consultant." }
+        answer: b
+        why: 'Frau Weber: "Sie möchten sich als Projektkoordinatorin vorstellen."'
+      - q: "Was war Annas letzte Stelle?"
+        options:
+          - { key: a, text: "Projektkoordinatorin." }
+          - { key: b, text: "Junior Marketing-Managerin." }
+          - { key: c, text: "Abteilungsleiterin." }
+        answer: b
+        why: 'Anna: "Zuletzt war ich als Junior Marketing-Managerin tätig."'
+      - q: "Welche Gehaltsvorstellung nennt Anna?"
+        options:
+          - { key: a, text: "45.000 bis 50.000 Euro brutto." }
+          - { key: b, text: "60.000 bis 65.000 Euro brutto." }
+          - { key: c, text: "52.000 bis 58.000 Euro brutto." }
+        answer: c
+        why: 'Anna: "Meiner Vorstellung nach läge das Gehalt bei etwa 52.000 bis 58.000 Euro brutto jährlich."'
+      - q: "Welche Frage stellt Anna am Ende des Gesprächs?"
+        options:
+          - { key: a, text: "Wie hoch ist das Gehalt genau?" }
+          - { key: b, text: "Wie ist die Einarbeitung bei Ihnen strukturiert?" }
+          - { key: c, text: "Kann ich sofort anfangen?" }
+        answer: b
+        why: 'Anna: "wie die Einarbeitung neuer Projektkoordinatorinnen bei Ihnen strukturiert ist."'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen to the Hörtext (Bruno prepares his CV) and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Bruno sitzt am Schreibtisch und bereitet seinen {1} vor. Er hat seinen
+      Bachelor-Abschluss in Informatik an der Universidade Federal de Santa Catarina
+      gemacht. Danach hat er zwei Jahre als Junior-{2} bei einer IT-Firma in
+      Blumenau gearbeitet. Seit 2024 ist er als IT-Consultant in Berlin {3}.
+      Unter Kenntnisse trägt er ein: Python, JavaScript und Englisch auf {4}-Niveau.
+      Als Interesse nennt er {5} und Open-Source-Projekte. Er ist ziemlich {6}
+      auf seinen Lebenslauf.
+    bank: [Lebenslauf, Entwickler, tätig, C1, Fotografie, stolz, Anschreiben, Barista, B2]
+    answers:
+      "1": Lebenslauf
+      "2": Entwickler
+      "3": tätig
+      "4": C1
+      "5": Fotografie
+      "6": stolz
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Anruf von Frau Weber bei einer Agentur"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the voicemail left by Frau Weber. Then choose the correct answer (a, b, or c)."
+    transcript: "Guten Tag, hier ist Sabine Weber von TechVentures GmbH. Ich rufe an, weil wir gerade eine Stelle als Projektkoordinatorin ausgeschrieben haben. Wir suchen eine Person, die Erfahrung in der Teamkoordination mitbringt. Die Stelle ist ab dem 1. Oktober zu besetzen. Die Bewerbungsfrist endet am 30. Juni. Bitte ruf mich zurück, wenn Sie Kandidatinnen empfehlen können. Sie erreichen mich unter 030 456 78 90. Vielen Dank!"
+    items:
+      - q: "Welche Stelle wird gesucht?"
+        options:
+          - { key: a, text: "Eine IT-Consultant-Stelle." }
+          - { key: b, text: "Eine Projektkoordinatorin." }
+          - { key: c, text: "Eine Abteilungsleiterin." }
+        answer: b
+        why: '"wir gerade eine Stelle als Projektkoordinatorin ausgeschrieben haben."'
+      - q: "Ab wann ist die Stelle zu besetzen?"
+        options:
+          - { key: a, text: "Ab dem 1. August." }
+          - { key: b, text: "Ab dem 1. November." }
+          - { key: c, text: "Ab dem 1. Oktober." }
+        answer: c
+        why: '"Die Stelle ist ab dem 1. Oktober zu besetzen."'
+      - q: "Wann endet die Bewerbungsfrist?"
+        options:
+          - { key: a, text: "Am 30. Juli." }
+          - { key: b, text: "Am 30. Juni." }
+          - { key: c, text: "Am 15. Juni." }
+        answer: b
+        why: '"Die Bewerbungsfrist endet am 30. Juni."'
+      - q: "Warum ruft Frau Weber an?"
+        options:
+          - { key: a, text: "Um eine Bewerberin einzuladen." }
+          - { key: b, text: "Um Kandidatinnen-Empfehlungen zu erbitten." }
+          - { key: c, text: "Um eine Absage zu erteilen." }
+        answer: b
+        why: '"Bitte ruf mich zurück, wenn Sie Kandidatinnen empfehlen können."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    layout: list
+    title: "Anschreiben-Phrasen: Lückentext"
+    instructions: "Complete each formal phrase from the cover letter with the missing word. 8 items."
+    text: |
+      1. {1} bewerbe ich mich um die Stelle als Projektkoordinatorin.
+      2. Ihr Stellenangebot hat mich sehr {2}, weil Ihr Unternehmen innovativ ist.
+      3. Ich {3} über drei Jahre Berufserfahrung im Projektmanagement.
+      4. Während meiner {4} als Junior Marketing-Managerin koordinierte ich drei Projekte.
+      5. Die Qualität meiner Arbeit {5} sich in den positiven Kundenbewertungen wider.
+      6. Ich würde mich sehr {6}, Sie in einem persönlichen Gespräch zu überzeugen.
+      7. Ich bitte Sie um eine Einladung zum {7}.
+      8. Mit freundlichen {8},
+    answers:
+      "1": Hiermit
+      "2": angesprochen
+      "3": verfüge
+      "4": Tätigkeit
+      "5": spiegelt
+      "6": freuen
+      "7": Vorstellungsgespräch
+      "8": Grüßen
+
+  - id: A2
+    block: A
+    type: gap-text
+    layout: list
+    title: "Passiv im Stellenangebot (B1/04 — Wiederholung)"
+    instructions: "Rewrite each active sentence in the Passiv Präsens. 6 items."
+    text: |
+      1. Das Unternehmen sucht eine Projektkoordinatorin.
+         → Eine Projektkoordinatorin {1}.
+      2. Das Team koordiniert alle Projekte.
+         → Alle Projekte {2}.
+      3. Die Firma bietet flexible Arbeitszeiten an.
+         → Flexible Arbeitszeiten {3}.
+      4. Die Abteilung setzt moderne Technologien ein.
+         → Moderne Technologien {4}.
+      5. Das HR-Team prüft alle Bewerbungen sorgfältig.
+         → Alle Bewerbungen {5}.
+      6. Das Unternehmen erwartet Erfahrung in der Teamleitung.
+         → Erfahrung in der Teamleitung {6}.
+    answers:
+      "1": wird gesucht
+      "2": werden koordiniert
+      "3": werden angeboten
+      "4": werden eingesetzt
+      "5": werden sorgfältig geprüft
+      "6": wird erwartet
+
+  - id: A3
+    block: A
+    type: gap-text
+    layout: list
+    title: "Relativsätze im Stellenangebot (B1/05 — Wiederholung)"
+    instructions: "Fill in the correct Relativpronomen (der/die/das/den/dem/denen + Präposition if needed). 8 items."
+    text: |
+      1. Wir suchen eine Person, {1} motiviert und teamfähig ist.
+      2. Das ist ein Job, {2} gut bezahlt ist.
+      3. Wir bieten eine Stelle, {3} viele Entwicklungsmöglichkeiten bietet.
+      4. Wir suchen jemanden, {4} wir sofort einarbeiten können.
+      5. Das Unternehmen, {5} ich mich bewerbe, ist sehr bekannt.
+      6. Die Projekte, {6} ich gearbeitet habe, waren sehr komplex.
+      7. Die Kolleginnen, {7} ich zusammenarbeite, sind sehr nett.
+      8. Das Team, {8} Arbeit ich schätze, ist sehr professionell.
+    answers:
+      "1": die
+      "2": der
+      "3": die
+      "4": den
+      "5": bei dem
+      "6": an denen
+      "7": mit denen
+      "8": dessen
+
+  - id: A4
+    block: A
+    type: gap-text
+    layout: list
+    title: "Konjunktiv II im Vorstellungsgespräch (B1/03 — Wiederholung)"
+    instructions: "Rewrite each blunt statement as a polite Konjunktiv II phrase. 6 items."
+    text: |
+      1. Ich will 60.000 Euro.
+         → Meiner Vorstellung nach {1} das Gehalt bei 60.000 Euro.
+      2. Ich fange am 1. Oktober an.
+         → Ich {2} frühestens am 1. Oktober anfangen.
+      3. Ich brauche flexible Arbeitszeiten.
+         → Es {3} mir wichtig, flexible Arbeitszeiten zu haben.
+      4. Ich will mehr Verantwortung.
+         → Ich {4} gerne mehr Verantwortung übernehmen.
+      5. Wann treffen wir uns noch mal?
+         → {5} Sie nächste Woche noch einen Termin haben?
+      6. Das ist zu wenig Geld.
+         → Das {6} für mich etwas wenig.
+    answers:
+      "1": läge
+      "2": könnte
+      "3": wäre
+      "4": würde
+      "5": Würden
+      "6": wäre
+
+  - id: A5
+    block: A
+    type: gap-text
+    layout: list
+    title: "Genitiv im Anschreiben (B1/07 — Wiederholung)"
+    instructions: "Fill in the correct Genitiv form (article + noun OR Genitivpräposition phrase). 8 items."
+    text: |
+      1. Der Schlüssel _____ Erfolgs liegt in der Kommunikation.
+         → Der Schlüssel {1} Erfolgs liegt in der Kommunikation.
+      2. Die Qualität _____ Arbeit war sehr hoch.
+         → Die Qualität {2} Arbeit war sehr hoch.
+      3. Während _____ Tätigkeit habe ich viel gelernt.
+         → Während {3} Tätigkeit habe ich viel gelernt.
+      4. Trotz _____ kurzen Einarbeitungszeit war ich schnell produktiv.
+         → Trotz {4} kurzen Einarbeitungszeit war ich schnell produktiv.
+      5. Aufgrund _____ Kenntnisse in Python bin ich gut geeignet.
+         → Aufgrund {5} Kenntnisse in Python bin ich gut geeignet.
+      6. Die Stärke _____ Bewerbung liegt in der internationalen Erfahrung.
+         → Die Stärke {6} Bewerbung liegt in der internationalen Erfahrung.
+      7. Wegen _____ Kündigungsfrist kann ich erst im Oktober beginnen.
+         → Wegen {7} Kündigungsfrist kann ich erst im Oktober beginnen.
+      8. Die Meinung _____ Teams ist sehr wichtig.
+         → Die Meinung {8} Teams ist sehr wichtig.
+    answers:
+      "1": des
+      "2": meiner
+      "3": meiner
+      "4": der
+      "5": meiner
+      "6": meiner
+      "7": meiner
+      "8": des
+
+  - id: A6
+    block: A
+    type: gap-text
+    layout: list
+    title: "`um … zu` im Anschreiben (B1/06 — Wiederholung)"
+    instructions: "Complete each cover-letter sentence with `um … zu + Infinitiv`. 6 items."
+    text: |
+      1. Ich bewerbe mich, um meine Erfahrungen {1}. (einsetzen)
+      2. Ich habe Projektmanagement studiert, um Teams besser {2}. (koordinieren)
+      3. Ich schreibe Ihnen, um mich für die Stelle {3}. (bewerben)
+      4. Ich möchte die Gelegenheit nutzen, um mich beruflich {4}. (weiterentwickeln)
+      5. Ich sende Ihnen meine Unterlagen, um mein Profil {5}. (vorstellen)
+      6. Ich bitte Sie um ein Gespräch, um mehr über die Stelle {6}. (erfahren)
+    answers:
+      "1": einzusetzen
+      "2": koordinieren zu können
+      "3": zu bewerben
+      "4": weiterzuentwickeln
+      "5": vorzustellen
+      "6": zu erfahren
+
+  - id: A7
+    block: A
+    type: categorize
+    title: "Lebenslauf-Abschnitte zuordnen"
+    instructions: "Sort each item into the correct CV section."
+    buckets:
+      - { key: pd, label: "Persönliche Daten" }
+      - { key: be, label: "Berufserfahrung" }
+      - { key: au, label: "Ausbildung" }
+      - { key: kf, label: "Kenntnisse & Fähigkeiten" }
+    tokens:
+      - { text: "Geburtsdatum: 3. März 1998", bucket: pd }
+      - { text: "Junior Marketing-Managerin bei StartUpX, 2023–2025", bucket: be }
+      - { text: "Bachelor of Science in Informatik, TU Berlin, 2020", bucket: au }
+      - { text: "Python (Fortgeschritten)", bucket: kf }
+      - { text: "Adresse: Musterstraße 12, Berlin", bucket: pd }
+      - { text: "IT-Consultant bei ConsultCo, seit 2024", bucket: be }
+      - { text: "Englisch: C1", bucket: kf }
+      - { text: "Masterstudium Betriebswirtschaft, HU Berlin, 2022", bucket: au }
+      - { text: "Telefon: 0176 123 456", bucket: pd }
+      - { text: "Führerschein Klasse B", bucket: kf }
+
+  - id: A8
+    block: A
+    type: matching
+    title: "Vorstellungsgespräch-Fragen und Antworten verbinden"
+    instructions: "Match each interview question (1–6) with the correct answer (a–g). One answer is not needed."
+    left:
+      - { key: "1", text: "Erzählen Sie uns etwas über sich." }
+      - { key: "2", text: "Was sind Ihre Stärken?" }
+      - { key: "3", text: "Was sind Ihre Schwächen?" }
+      - { key: "4", text: "Warum möchten Sie bei uns arbeiten?" }
+      - { key: "5", text: "Welche Gehaltsvorstellungen haben Sie?" }
+      - { key: "6", text: "Wann könnten Sie anfangen?" }
+    right:
+      - { key: a, text: "Meiner Vorstellung nach läge das Gehalt bei 55.000 Euro brutto jährlich." }
+      - { key: b, text: "Ihr Stellenangebot hat mich angesprochen, weil Ihr Unternehmen innovativ ist." }
+      - { key: c, text: "Ich tendiere dazu, sehr detailorientiert zu sein. Ich arbeite daran." }
+      - { key: d, text: "Ich könnte frühestens zum 1. Oktober einsteigen." }
+      - { key: e, text: "Mein Name ist Anna Kowalski. Ich verfüge über drei Jahre Erfahrung." }
+      - { key: f, text: "Meine größte Stärke ist die Fähigkeit, Teams zu koordinieren." }
+      - { key: g, text: "Ich kündige sofort, wenn das Gehalt nicht stimmt." }
+    answers:
+      "1": e
+      "2": f
+      "3": c
+      "4": b
+      "5": a
+      "6": d
+
+  - id: A9
+    block: A
+    type: true-false
+    title: "Formell oder informell? — Register erkennen"
+    instructions: "Is each phrase suitable for a formal cover letter or job interview? Answer F (formell/geeignet) oder I (informell/nicht geeignet)."
+    items:
+      - q: "Hiermit bewerbe ich mich um die ausgeschriebene Stelle."
+        answer: true
+        why: "Correct formal opening phrase for an Anschreiben."
+      - q: "Hey, ich find den Job voll cool und will unbedingt dabei sein!"
+        answer: false
+        why: "Too informal — completely unsuitable for a cover letter or interview."
+      - q: "Ich verfüge über drei Jahre Berufserfahrung im Projektmanagement."
+        answer: true
+        why: "Correct formal phrasing: verfügen über is standard in formal applications."
+      - q: "Meiner Vorstellung nach läge das Gehalt bei 55.000 Euro brutto."
+        answer: true
+        why: "Correct — Konjunktiv II makes the salary request sound polished and professional."
+      - q: "Ich will mindestens 60.000 Euro, sonst mache ich das nicht."
+        answer: false
+        why: "Way too blunt. Use Konjunktiv II: Meiner Vorstellung nach läge das Gehalt bei …"
+      - q: "Mit freundlichen Grüßen"
+        answer: true
+        why: "Correct standard closing for a formal letter."
+
+  - id: A10
+    block: A
+    type: single-choice
+    title: "Stellenanzeige lesen: Wähle die richtige Antwort"
+    instructions: "Read the job posting text below and choose the correct answer (a, b, or c). 5 items."
+    text: |
+      **Stellenanzeige — TechVentures GmbH, Berlin**
+
+      Wir suchen eine Projektkoordinatorin / einen Projektkoordinator (m/w/d),
+      die/der Erfahrung in der Teamleitung mitbringt. Von den Bewerberinnen und
+      Bewerbern werden mindestens zwei Jahre Berufserfahrung erwartet. Englisch-
+      kenntnisse auf B2-Niveau werden vorausgesetzt. Die Stelle wird ab dem
+      1. Oktober besetzt. Überstunden werden nach Vereinbarung bezahlt.
+      Bewerbungen werden bis zum 30. Juni entgegengenommen.
+    items:
+      - q: "Welche Erfahrung wird erwartet?"
+        options:
+          - { key: a, text: "Mindestens fünf Jahre." }
+          - { key: b, text: "Mindestens zwei Jahre." }
+          - { key: c, text: "Keine Erfahrung nötig." }
+        answer: b
+        why: '"Von den Bewerberinnen und Bewerbern werden mindestens zwei Jahre Berufserfahrung erwartet."'
+      - q: "Welches Englischniveau wird vorausgesetzt?"
+        options:
+          - { key: a, text: "C1." }
+          - { key: b, text: "A2." }
+          - { key: c, text: "B2." }
+        answer: c
+        why: '"Englischkenntnisse auf B2-Niveau werden vorausgesetzt."'
+      - q: "Ab wann ist die Stelle zu besetzen?"
+        options:
+          - { key: a, text: "Ab sofort." }
+          - { key: b, text: "Ab dem 1. Oktober." }
+          - { key: c, text: "Ab dem 1. Januar." }
+        answer: b
+        why: '"Die Stelle wird ab dem 1. Oktober besetzt."'
+      - q: 'Was ist mit dem Verb „werden" in den kursiven Sätzen der Anzeige?'
+        options:
+          - { key: a, text: "Es ist ein Futur I." }
+          - { key: b, text: "Es ist das Passiv-Hilfsverb." }
+          - { key: c, text: "Es ist das Modalverb wollen." }
+        answer: b
+        why: "In job ads, werden + Partizip II = Passiv (e.g. werden erwartet, werden vorausgesetzt)."
+      - q: "Bis wann muss man sich bewerben?"
+        options:
+          - { key: a, text: "Bis zum 15. Juli." }
+          - { key: b, text: "Bis zum 30. Juni." }
+          - { key: c, text: "Bis zum 1. Oktober." }
+        answer: b
+        why: '"Bewerbungen werden bis zum 30. Juni entgegengenommen."'
+
+  - id: A11
+    block: A
+    type: gap-text
+    layout: list
+    title: "Arbeitswelt-Wortschatz: Definitionen ergänzen"
+    instructions: "Complete each definition with the correct word from the list. 6 items. (der Lebenslauf, die Kündigung, die Überstunden, die Einarbeitung, die Gehaltserhöhung, das Stellenangebot)"
+    text: |
+      1. Ein Dokument, das die Ausbildung und Berufserfahrung einer Person zeigt, heißt {1}.
+      2. Wenn ein Arbeitnehmer oder eine Arbeitgeberin das Arbeitsverhältnis beendet, spricht man von einer {2}.
+      3. Wenn man mehr arbeitet als vertraglich vereinbart, macht man {3}.
+      4. Ein Text, der eine freie Stelle und die Anforderungen beschreibt, ist ein {4}.
+      5. Wenn ein neuer Mitarbeiter im Unternehmen eingeführt wird, nennt man das die {5}.
+      6. Wenn man nach einer Verhandlung mehr Geld bekommt, hat man eine {6} bekommen.
+    answers:
+      "1": der Lebenslauf
+      "2": Kündigung
+      "3": Überstunden
+      "4": Stellenangebot
+      "5": Einarbeitung
+      "6": Gehaltserhöhung
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    layout: list
+    title: "Dialog B ergänzen: Vorstellungsgespräch"
+    instructions: "Fill in the 8 blanks in this job interview extract with the correct word or phrase."
+    text: |
+      Frau Weber: Guten Morgen, Frau Kowalski. Erzählen Sie uns etwas über {1}.
+      Anna: Sehr gerne. Ich {2} über drei Jahre Berufserfahrung im Projektmanagement.
+      Frau Weber: Was {3} Sie als Ihre größte Stärke bezeichnen?
+      Anna: Meine größte Stärke ist die {4}, komplexe Projekte zu strukturieren.
+      Frau Weber: Warum {5} Sie sich bei uns?
+      Anna: Ihr Stellenangebot hat mich sehr {6}, weil TechVentures für innovative Projekte bekannt ist.
+      Frau Weber: Welche {7} haben Sie?
+      Anna: Meiner Vorstellung nach {8} das Gehalt bei etwa 55.000 Euro brutto jährlich.
+    answers:
+      "1": sich
+      "2": verfüge
+      "3": würden
+      "4": Fähigkeit
+      "5": bewerben
+      "6": angesprochen
+      "7": Gehaltsvorstellungen
+      "8": läge
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Finde den Fehler — Anschreiben und Interview"
+    instructions: "Each sentence contains one error. Choose the correct version (a, b, or c)."
+    items:
+      - q: 'Fehler: „Hiermit bewerbe mich ich um die Stelle als Koordinatorin."'
+        options:
+          - { key: a, text: "Hiermit bewerbe ich mich um die Stelle als Koordinatorin." }
+          - { key: b, text: "Hiermit ich bewerbe mich um die Stelle als Koordinatorin." }
+          - { key: c, text: "Hiermit bewerbe mich ich um die Stelle." }
+        answer: a
+        why: "Correct word order: Hiermit (position 1) → bewerbe (verb, position 2) → ich (subject)."
+      - q: 'Fehler: „Ich verfüge über drei Jahre Erfahrungen im Projektmanagement."'
+        options:
+          - { key: a, text: "Ich verfüge über drei Jahre Erfahrungen im Projektmanagement." }
+          - { key: b, text: "Ich verfüge über drei Jahre Erfahrung im Projektmanagement." }
+          - { key: c, text: "Ich verfüge drei Jahre Erfahrung über im Projektmanagement." }
+        answer: b
+        why: "die Erfahrung used with a number of years stays singular: drei Jahre Erfahrung (not Erfahrungen)."
+      - q: 'Fehler: „Während meine Tätigkeit habe ich viel gelernt."'
+        options:
+          - { key: a, text: "Während meine Tätigkeit habe ich viel gelernt." }
+          - { key: b, text: "Während meiner Tätigkeit habe ich viel gelernt." }
+          - { key: c, text: "Während meinen Tätigkeit habe ich viel gelernt." }
+        answer: b
+        why: "während takes Genitiv: während meiner Tätigkeit (not meine/meinen)."
+      - q: 'Fehler: „Mit freundliche Grüßen,"'
+        options:
+          - { key: a, text: "Mit freundliche Grüßen," }
+          - { key: b, text: "Mit freundlichen Grüßen," }
+          - { key: c, text: "Mit freundlich Grüßen," }
+        answer: b
+        why: "Dative plural after mit: freundlichen Grüßen. This formula is fixed — memorise it."
+      - q: 'Fehler: „Ich würde mich freuen, Sie in einem persönlichen Gespräch zu überzeugen von mir."'
+        options:
+          - { key: a, text: "Ich würde mich freuen, Sie in einem persönlichen Gespräch von mir zu überzeugen." }
+          - { key: b, text: "Ich würde mich freuen, von mir Sie in einem Gespräch zu überzeugen." }
+          - { key: c, text: "Ich freue mich, Sie in einem persönlichen Gespräch von mir überzeugen." }
+        answer: a
+        why: "The infinitive phrase ends with zu überzeugen; von mir belongs before, not after."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Anschreiben-Absätze in die richtige Reihenfolge bringen"
+    instructions: "A cover letter has been jumbled. Put the five sections in the correct order (1 = first, 5 = last)."
+    items:
+      - tiles:
+          - "Mit freundlichen Grüßen, Anna Kowalski"
+          - "Sehr geehrte Frau Weber,"
+          - "Ich verfüge über drei Jahre Berufserfahrung und würde meine Kenntnisse gerne einbringen."
+          - "Betreff: Bewerbung als Projektkoordinatorin"
+          - "Hiermit bewerbe ich mich um die ausgeschriebene Stelle als Projektkoordinatorin."
+        answer: [3, 1, 4, 2, 0]
+        note: "Correct order: Betreff → Anrede → Einleitung (Hiermit…) → Hauptteil → Grußformel."
+
+  - id: B4
+    block: B
+    type: gap-bank
+    title: "Lückentext: Annas Anschreiben ergänzen"
+    instructions: "Fill the 8 gaps in Anna's cover letter. Three words in the box are not needed."
+    bankCase: upper
+    bankSort: true
+    text: |
+      Sehr geehrte Frau Weber,
+
+      {1} bewerbe ich mich um die ausgeschriebene Stelle als Projektkoordinatorin.
+      Ihr {2} hat mich sehr angesprochen, weil TechVentures GmbH für Projekte
+      {3} ist, die wirklich einen Unterschied machen.
+
+      Ich {4} über drei Jahre Berufserfahrung im Bereich Projektmanagement. Während
+      meiner {5} als Junior Marketing-Managerin wurden mehrere Projekte von mir
+      {6}.
+
+      Ich würde mich sehr {7}, Sie in einem persönlichen Gespräch von mir zu
+      überzeugen. Ich bitte Sie um eine Einladung zum {8}.
+    bank: [HIERMIT, STELLENANGEBOT, BEKANNT, VERFÜGE, TÄTIGKEIT, KOORDINIERT, FREUEN, VORSTELLUNGSGESPRÄCH, STELLE, BESCHÄFTIGT, BEWERBUNG]
+    answers:
+      "1": HIERMIT
+      "2": STELLENANGEBOT
+      "3": BEKANNT
+      "4": VERFÜGE
+      "5": TÄTIGKEIT
+      "6": KOORDINIERT
+      "7": FREUEN
+      "8": VORSTELLUNGSGESPRÄCH
+
+  - id: B5
+    block: B
+    type: matching
+    title: "Arbeitswelt-Vokabular: Definitionen zuordnen"
+    instructions: "Match each word (1–7) with its correct definition (a–h). One definition is not needed."
+    left:
+      - { key: "1", text: "die Bewerbung" }
+      - { key: "2", text: "das Anschreiben" }
+      - { key: "3", text: "der Abteilungsleiter" }
+      - { key: "4", text: "die Kündigungsfrist" }
+      - { key: "5", text: "die Gehaltserhöhung" }
+      - { key: "6", text: "das Vorstellungsgespräch" }
+      - { key: "7", text: "die Überstunden" }
+    right:
+      - { key: a, text: "Eine Erhöhung des monatlichen Lohns." }
+      - { key: b, text: "Die Person, die eine Abteilung im Unternehmen leitet." }
+      - { key: c, text: "Der Brief, den man mit dem Lebenslauf einschickt." }
+      - { key: d, text: "Arbeitsstunden, die über die normale Arbeitszeit hinausgehen." }
+      - { key: e, text: "Das Gespräch, zu dem man eingeladen wird, bevor man den Job bekommt." }
+      - { key: f, text: "Die Zeit, die man einhalten muss, bevor man kündigen kann." }
+      - { key: g, text: "Das formelle Dokument, mit dem man sich für eine Stelle bewirbt." }
+      - { key: h, text: "Ein Kurs, der auf eine Zertifizierung vorbereitet." }
+    answers:
+      "1": g
+      "2": c
+      "3": b
+      "4": f
+      "5": a
+      "6": e
+      "7": d
+
+  - id: B6
+    block: B
+    type: gap-text
+    layout: list
+    title: "Passiv-Sätze in Stellenanzeigen: Aktiv oder Passiv? (B1/04)"
+    instructions: "Decide whether the missing construction is Aktiv or Passiv, then fill in the correct form. 6 items."
+    text: |
+      1. (Passiv) Bewerberinnen mit Erfahrung {1}. (bevorzugen)
+      2. (Passiv) Alle Bewerbungen {2} bis zum 30. Juni. (entgegennehmen)
+      3. (Aktiv) Die Stelle {3} einen Abschluss in Betriebswirtschaft. (erfordern)
+      4. (Passiv) Das Gehalt {4} nach Qualifikation. (bestimmen)
+      5. (Aktiv) Wir {5} uns auf Ihre Bewerbung. (freuen — reflexiv)
+      6. (Passiv) Überstunden {6} nach Vereinbarung bezahlt. (werden)
+    answers:
+      "1": werden bevorzugt
+      "2": werden entgegengenommen
+      "3": erfordert
+      "4": wird bestimmt
+      "5": freuen
+      "6": werden
+
+  - id: B7
+    block: B
+    type: true-false
+    title: "Interview-Phrasen: Richtig oder Falsch?"
+    instructions: "Is each statement about German interview conventions correct? Answer R (richtig) oder F (falsch)."
+    items:
+      - q: 'Man sagt „Sehr geehrte Damen und Herren" wenn man den Namen der Ansprechperson nicht kennt.'
+        answer: true
+        why: "Correct — this is the standard greeting when no specific person is named."
+      - q: "Im deutschen Vorstellungsgespräch sollte man die Gehaltsvorstellung sehr direkt und fordernd nennen."
+        answer: false
+        why: "In Germany, polite indirectness (Konjunktiv II) is expected for salary negotiations."
+      - q: 'Die Grußformel „Mit freundlichen Grüßen" steht am Ende eines formellen Briefes.'
+        answer: true
+        why: "Correct — this is the standard formal closing formula."
+      - q: 'Wenn man auf die Frage „Haben Sie noch Fragen?" Nein sagt, hinterlässt das immer einen guten Eindruck.'
+        answer: false
+        why: "It is expected to have at least one prepared question — having no questions can seem disinterested."
+      - q: "Der Betreff eines Anschreibens nennt die Stelle, um die man sich bewirbt."
+        answer: true
+        why: "Correct — e.g.: Bewerbung als Projektkoordinatorin — Ihre Ausschreibung vom 1. Juni 2026."
+
+  - id: B8
+    block: B
+    type: single-choice
+    title: "Leseverstehen: Annas Bewerbungsschreiben (Lesetext Abschnitt 5)"
+    instructions: "Read Annas Bewerbungsschreiben in lesson.md section 5. Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Für welche Stelle bewirbt sich Anna?"
+        options:
+          - { key: a, text: "Als Marketing-Managerin." }
+          - { key: b, text: "Als Projektkoordinatorin." }
+          - { key: c, text: "Als IT-Consultant." }
+        answer: b
+        why: '"Betreff: Bewerbung als Projektkoordinatorin."'
+      - q: "Was wurde von Anna in ihrer letzten Stelle koordiniert?"
+        options:
+          - { key: a, text: "Ein neues IT-System." }
+          - { key: b, text: "Kundenbewertungen." }
+          - { key: c, text: "Mehrere Projekte gleichzeitig." }
+        answer: c
+        why: '"wurden mehrere Projekte gleichzeitig von mir koordiniert."'
+      - q: "Welches Projekt nennt Anna als Beispiel?"
+        options:
+          - { key: a, text: "Eine Social-Media-Kampagne." }
+          - { key: b, text: "Die Einführung eines CRM-Systems." }
+          - { key: c, text: "Ein Onboarding-Programm." }
+        answer: b
+        why: '"darunter die Einführung eines neuen CRM-Systems."'
+      - q: "Welche Genitiv-Phrase benutzt Anna im Hauptteil?"
+        options:
+          - { key: a, text: "die Stärke meiner Bewerbung" }
+          - { key: b, text: "die Qualität meiner Arbeit" }
+          - { key: c, text: "Beide Varianten erscheinen im Text." }
+        answer: c
+        why: 'Both "Die Qualität meiner Arbeit" and "die Stärke einer guten Koordinatorin" appear in the letter.'
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Anschreiben-Abschnitt schreiben"
+    prompt: "Du hast diese Stellenanzeige gelesen. Schreib den Einleitungsabsatz (4–5 Sätze) deines Anschreibens auf Deutsch."
+    stimulus: |
+      **Stellenanzeige — InnovaMedia GmbH, Berlin**
+      Wir suchen eine Projektmanagerin / einen Projektmanager (m/w/d) mit Erfahrung
+      in der digitalen Kommunikation. Englischkenntnisse auf C1-Niveau werden
+      vorausgesetzt. Die Stelle ist ab sofort zu besetzen. Wir bieten 55.000–65.000
+      Euro brutto, flexible Arbeitszeiten und ein dynamisches Team.
+    use:
+      - "Eröffnungssatz mit 'Hiermit bewerbe ich mich um die Stelle als …'"
+      - "ein Satz mit 'Ihr Stellenangebot hat mich angesprochen, weil …' + Relativsatz"
+      - "ein Satz mit 'Ich verfüge über … Jahre Erfahrung in …'"
+      - "ein Schlusssatz mit 'Ich würde mich freuen, … zu überzeugen.'"
+    selfCheck:
+      - "Ist die Anrede formell (Sehr geehrte …)?"
+      - "Steht das Verb an Position 2 nach 'Hiermit'?"
+      - "'verfügen über' richtig? → Ich verfüge über … (nicht: Ich habe über …)"
+      - "Genitiv korrekt? (meiner Tätigkeit / des Projekts / meiner Erfahrung)"
+    model: |
+      Sehr geehrte Damen und Herren,
+
+      hiermit bewerbe ich mich um die ausgeschriebene Stelle als Projektmanagerin.
+      Ihr Stellenangebot hat mich sehr angesprochen, weil InnovaMedia GmbH für
+      dynamische digitale Projekte bekannt ist, die mich fachlich begeistern.
+      Ich verfüge über vier Jahre Berufserfahrung im Bereich Projektmanagement
+      und digitale Kommunikation.
+      Ich würde mich sehr freuen, Sie in einem persönlichen Gespräch von meinen
+      Fähigkeiten zu überzeugen.
+
+      Mit freundlichen Grüßen,
+      [Ihr Name]
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    title: "Lückentext: Annas Bewerbungsschreiben"
+    instructions: "Fill each gap with one word. 10 gaps."
+    text: |
+      Anna Kowalski {1} sich um die Stelle als Projektkoordinatorin bei
+      TechVentures GmbH. Sie schreibt, dass das Stellenangebot sie sehr {2}
+      hat, weil TechVentures für Projekte {3} ist, die wirklich einen Unterschied
+      machen. Anna {4} über drei Jahre Berufserfahrung im Projektmanagement.
+
+      Während ihrer Tätigkeit als Junior Marketing-Managerin {5} mehrere Projekte
+      gleichzeitig von ihr koordiniert. Die Qualität ihrer Arbeit {6} sich in der
+      positiven Resonanz der Kunden wider.
+
+      Sie ist der Meinung, dass die Stärke einer guten Koordinatorin in der klaren
+      {7} liegt. Sie bewerbe sich, um ihre Kenntnisse in einem dynamischen Umfeld
+      {8}. Sie würde sich sehr {9}, die Personalchefin in einem persönlichen
+      Gespräch zu überzeugen, und bittet um eine Einladung zum {10}.
+    answers:
+      "1": bewirbt
+      "2": angesprochen
+      "3": bekannt
+      "4": verfügt
+      "5": wurden
+      "6": spiegelt
+      "7": Kommunikation
+      "8": weiterzuentwickeln
+      "9": freuen
+      "10": Vorstellungsgespräch
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Ich ______ mich sehr, Sie in einem Gespräch zu überzeugen."
+        options:
+          - { key: a, text: "würde freuen" }
+          - { key: b, text: "würde mich freuen" }
+          - { key: c, text: "freue würde mich" }
+        answer: b
+        why: "freuen is reflexive: sich freuen. With Konjunktiv II: Ich würde mich freuen."
+      - q: "Ich ______ über fünf Jahre Erfahrung in der Projektleitung."
+        options:
+          - { key: a, text: "habe" }
+          - { key: b, text: "verfüge" }
+          - { key: c, text: "besitze" }
+        answer: b
+        why: "verfügen über is the formal application phrase. habe is too informal; besitze is for things."
+      - q: "Während ______ Tätigkeit koordinierte ich drei Projekte."
+        options:
+          - { key: a, text: "meiner" }
+          - { key: b, text: "meine" }
+          - { key: c, text: "meinen" }
+        answer: a
+        why: "während + Genitiv: während meiner Tätigkeit (feminine Genitiv)."
+      - q: "Die Stelle ______ ab Oktober besetzt."
+        options:
+          - { key: a, text: "ist" }
+          - { key: b, text: "wird" }
+          - { key: c, text: "hat" }
+        answer: b
+        why: "Passiv Präsens requires werden as auxiliary: Die Stelle wird besetzt. Not ist (Zustandspassiv) — the context is a future event."
+      - q: "Meiner Vorstellung nach ______ das Gehalt bei 56.000 Euro brutto."
+        options:
+          - { key: a, text: "liegt" }
+          - { key: b, text: "läge" }
+          - { key: c, text: "liegen" }
+        answer: b
+        why: "Konjunktiv II of liegen = läge. Used here for a polite, indirect salary statement."
+      - q: "Mit ______ Grüßen,"
+        options:
+          - { key: a, text: "freundliche" }
+          - { key: b, text: "freundlichen" }
+          - { key: c, text: "freundlichem" }
+        answer: b
+        why: "mit + Dativ Plural: freundlichen Grüßen. This formula is fixed."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (Wortbank)"
+    instructions: "Fill the 10 gaps. Five words are not needed."
+    bankCase: upper
+    bankSort: true
+    text: |
+      Anna {1} sich um die Stelle als Projektkoordinatorin. Sie hat das
+      Stellenangebot {2}, weil das Unternehmen für innovative Projekte bekannt
+      ist. Sie {3} über drei Jahre Berufserfahrung im Projektmanagement. Während
+      ihrer Tätigkeit {4} mehrere Projekte von ihr koordiniert. Sie bewerbe sich,
+      {5} ihre Kenntnisse weiterzuentwickeln. Außerdem ist sie der {6}, dass eine
+      gute Koordinatorin vor allem kommunikationsstark sein muss. Sie {7} sich sehr
+      freuen, die Personalchefin in einem Gespräch zu {8}. Sie bittet um eine
+      Einladung zum {9}. Den Brief schließt sie mit {10} Grüßen.
+    bank: [BEWIRBT, ANGESPROCHEN, VERFÜGT, WURDEN, UM, MEINUNG, WÜRDE, ÜBERZEUGEN, VORSTELLUNGSGESPRÄCH, FREUNDLICHEN, WEIL, HATTE, LEITUNG, BEKANNT, SCHREIBT]
+    answers:
+      "1": BEWIRBT
+      "2": ANGESPROCHEN
+      "3": VERFÜGT
+      "4": WURDEN
+      "5": UM
+      "6": MEINUNG
+      "7": WÜRDE
+      "8": ÜBERZEUGEN
+      "9": VORSTELLUNGSGESPRÄCH
+      "10": FREUNDLICHEN
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Leseverstehen: Annas Anschreiben (Richtig / Falsch)"
+    instructions: "Read Annas Bewerbungsschreiben in lesson.md section 5. Decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Anna bewirbt sich für eine Stelle als IT-Consultant."
+        answer: false
+        why: "She applies as Projektkoordinatorin, not IT-Consultant."
+      - q: "TechVentures GmbH befindet sich in Berlin."
+        answer: true
+        why: 'The address in the letter reads: "Potsdamer Straße 44, 10785 Berlin."'
+      - q: "Anna hat ihr Masterstudium in Betriebswirtschaft abgeschlossen."
+        answer: true
+        why: '"Ich habe einen Masterabschluss in Betriebswirtschaft."'
+      - q: "Das CRM-System wurde in drei Wochen implementiert."
+        answer: false
+        why: '"das von unserem Team in nur acht Wochen implementiert wurde" — not three.'
+      - q: "Anna bittet um eine Einladung zum Vorstellungsgespräch."
+        answer: true
+        why: '"bitte Sie um eine Einladung zum Vorstellungsgespräch."'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Leseverstehen: Stellenanzeige (neuer Text)"
+    instructions: "Read the job ad below. Choose the correct answer (a, b, or c)."
+    text: |
+      **InnovaMedia GmbH — Projektmanager/in (m/w/d) — Berlin**
+
+      Zur Verstärkung unseres Teams suchen wir eine engagierte Persönlichkeit,
+      die Erfahrung in der digitalen Projektkommunikation mitbringt. Von den
+      Bewerberinnen und Bewerbern wird ein abgeschlossenes Hochschulstudium
+      erwartet. Sehr gute Deutschkenntnisse (mindestens C1) werden vorausgesetzt.
+      Englischkenntnisse auf B2-Niveau sind von Vorteil. Die Stelle wird zum
+      nächstmöglichen Zeitpunkt besetzt. Wir bieten flexible Arbeitszeiten,
+      30 Urlaubstage und ein Gehalt zwischen 55.000 und 65.000 Euro brutto
+      jährlich. Überstunden werden auf Wunsch als Freizeit ausgeglichen.
+      Bewerbungen werden bis zum 15. Juli entgegengenommen.
+    items:
+      - q: "Was wird von Bewerberinnen und Bewerbern erwartet?"
+        options:
+          - { key: a, text: "Mindestens fünf Jahre Berufserfahrung." }
+          - { key: b, text: "Ein abgeschlossenes Hochschulstudium." }
+          - { key: c, text: "Kenntnisse in Python." }
+        answer: b
+        why: '"Von den Bewerberinnen und Bewerbern wird ein abgeschlossenes Hochschulstudium erwartet."'
+      - q: "Welches Deutschniveau ist Mindestanforderung?"
+        options:
+          - { key: a, text: "B2." }
+          - { key: b, text: "C1." }
+          - { key: c, text: "B1." }
+        answer: b
+        why: '"Sehr gute Deutschkenntnisse (mindestens C1) werden vorausgesetzt."'
+      - q: "Was passiert mit Überstunden?"
+        options:
+          - { key: a, text: "Sie werden extra bezahlt." }
+          - { key: b, text: "Sie werden als Freizeit ausgeglichen." }
+          - { key: c, text: "Sie sind nicht erlaubt." }
+        answer: b
+        why: '"Überstunden werden auf Wunsch als Freizeit ausgeglichen."'
+      - q: "Bis wann muss man sich bewerben?"
+        options:
+          - { key: a, text: "Bis zum 30. Juni." }
+          - { key: b, text: "Bis zum 31. Juli." }
+          - { key: c, text: "Bis zum 15. Juli." }
+        answer: c
+        why: '"Bewerbungen werden bis zum 15. Juli entgegengenommen."'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Vorstellungsgespräch-Antworten"
+    prompt: "Du wirst zu einem Vorstellungsgespräch für die Stelle als Projektmanager/in bei InnovaMedia GmbH eingeladen. Schreib deine Antworten auf drei typische Interview-Fragen (5–6 Sätze insgesamt) in formellem Deutsch."
+    minSentences: 5
+    use:
+      - "Antwort auf 'Erzählen Sie etwas über sich' mit Ihrem Studium und Berufserfahrung"
+      - "Antwort auf 'Was sind Ihre Stärken?' — mindestens einen Relativsatz (B1/05)"
+      - "Gehaltsvorstellung mit Konjunktiv II: 'Meiner Vorstellung nach läge …' (B1/03)"
+      - "mindestens einen Satz mit 'um … zu' (B1/06) oder Genitiv (B1/07)"
+    selfCheck:
+      - "Ist die Sprache formell? (Sie-Form, kein Slang)"
+      - "Steht das Verb in Relativsätzen am Ende?"
+      - "Ist 'läge' korrekt gebildet (nicht 'liege' oder 'liegt')?"
+      - "Steht der Infinitiv am Ende der um…zu-Phrase?"
+    model: |
+      Mein Name ist [Name]. Ich habe einen Masterabschluss in Betriebswirtschaft
+      und verfüge über vier Jahre Berufserfahrung im Projektmanagement.
+      Meine größte Stärke ist die Fähigkeit, Teams zu koordinieren, die aus
+      verschiedenen Abteilungen bestehen.
+      Meiner Vorstellung nach läge das Gehalt bei etwa 58.000 Euro brutto
+      jährlich, je nach Aufgabenbereich.
+      Ich bewerbe mich bei InnovaMedia, um meine Kenntnisse in der digitalen
+      Kommunikation weiterzuentwickeln.
+
+  # ── Block D — Wiederholung & Selbsttest ──────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    layout: list
+    title: "Schnelltest: Arbeitswelt & Grammatik-Wiederholung"
+    instructions: "Fill in the correct word or form. Items 12–15 review grammar from B1/03–B1/07. 15 items."
+    text: |
+      1. Ich {1} mich um die Stelle als Projektmanager. (sich bewerben — ich-Form)
+      2. Das Stellenangebot {2} mich sehr angesprochen. (Perfekt von ansprechen)
+      3. Ich {3} über drei Jahre Berufserfahrung. (verfügen — ich-Form)
+      4. Mehrere Projekte {4} von mir koordiniert. (Passiv Präteritum — wurden)
+      5. „Mit freundlichen {5}," ist die Standardgrußformel. (Grüße — Dativ Plural)
+      6. Wir suchen jemanden, {6} sofort anfangen kann. (Relativpronomen Akk: den)
+      7. Die Stelle {7} ab Oktober besetzt. (Passiv Präsens: wird)
+      8. Bewerben Sie sich {8} zum 30. Juni. (bis)
+      9. Die Kündigung {9} eine Frist von vier Wochen. (erfordern — hat)
+      10. Während {10} Tätigkeit habe ich viele Projekte geleitet. (Genitiv: meiner)
+      11. Ich hätte gerne ein Gespräch über meine {11}. (die Gehaltserhöhung — Akk)
+      12. (B1/03) Meiner Vorstellung nach {12} das Gehalt bei 55.000 Euro. (Konj. II: läge)
+      13. (B1/05) Das ist eine Stelle, {13} gut zu meinem Profil passt. (Relat. Nom. f.: die)
+      14. (B1/06) Ich bewerbe mich, um meine Erfahrungen {14}. (einsetzen — um…zu)
+      15. (B1/07) Die Stärke {15} Bewerbung liegt in der Praxiserfahrung. (Genitiv f.: meiner)
+    answers:
+      "1": bewerbe
+      "2": hat
+      "3": verfüge
+      "4": wurden
+      "5": Grüßen
+      "6": den
+      "7": wird
+      "8": bis
+      "9": erfordert
+      "10": meiner
+      "11": Gehaltserhöhung
+      "12": läge
+      "13": die
+      "14": einzusetzen
+      "15": meiner
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Wortschatz-Check: Das passt nicht!"
+    instructions: "Circle the word that does not belong. 6 groups."
+    groups:
+      - items: ["die Bewerbung", "das Anschreiben", "der Lebenslauf", "die Überstunden"]
+        odd: 3
+        why: "die Überstunden (overtime) is a workplace situation; the others are application documents."
+      - items: ["Hiermit bewerbe ich mich", "Mit freundlichen Grüßen", "Hey, schreib mir mal!", "Sehr geehrte Damen und Herren"]
+        odd: 2
+        why: "'Hey, schreib mir mal!' is informal — completely unsuitable for a formal cover letter."
+      - items: ["einstellen", "koordinieren", "kündigen", "spazieren"]
+        odd: 3
+        why: "spazieren (to walk/stroll) is not a workplace verb. The others are all verbs from Arbeitswelt."
+      - items: ["der Abteilungsleiter", "die Personalchefin", "die Kollegin", "das Stellenangebot"]
+        odd: 3
+        why: "das Stellenangebot (job posting) is a document; the others are people/roles in a company."
+      - items: ["läge", "wäre", "könnte", "liegt"]
+        odd: 3
+        why: "liegt is Indikativ Präsens; the others (läge, wäre, könnte) are Konjunktiv II forms."
+      - items: ["wird gesucht", "werden koordiniert", "wird besetzt", "suchen"]
+        odd: 3
+        why: "suchen is Aktiv; the others (wird gesucht, werden koordiniert, wird besetzt) are Passiv forms."
+
+  - id: D3
+    block: D
+    type: gap-text
+    layout: list
+    title: "Rückblick: B1/04–B1/09 — Grammatik im Kontext"
+    instructions: "Fill in the correct form. Items 1–4 = B1/04 Passiv; items 5–7 = B1/05 Relativsätze; items 8–10 = B1/09 Höflichkeit (indirekte Fragen). 10 items."
+    text: |
+      B1/04 — Passiv:
+      1. Die Bewerbung {1} gestern eingereicht. (Präteritum Passiv)
+      2. Das Onboarding {2} von der HR-Abteilung organisiert. (Präsens Passiv)
+      3. Die Stelle musste vor dem 1. Juli {3}. (Passiv + Modal: besetzt werden)
+      4. Alle Unterlagen {4} geprüft worden. (Perfekt Passiv: sind)
+
+      B1/05 — Relativsätze:
+      5. Wir suchen eine Person, {5} gut kommunizieren kann. (Nom. f.)
+      6. Das Unternehmen, bei {6} ich mich bewerbe, heißt TechVentures. (Dativ n.)
+      7. Die Projekte, an {7} ich gearbeitet habe, waren sehr komplex. (Dativ Pl.)
+
+      B1/09 — Indirekte Fragen / Höflichkeit:
+      8. Direkt: „Wann fangen Sie an?" → Höflich: Könnten Sie mir sagen, wann Sie {8}?
+      9. Direkt: „Was ist das Gehalt?" → Höflich: Ich würde gerne wissen, wie hoch das Gehalt {9}.
+      10. Direkt: „Haben Sie Erfahrung?" → Höflich: Dürfte ich fragen, ob Sie Erfahrung {10}?
+    answers:
+      "1": wurde
+      "2": wird
+      "3": besetzt werden
+      "4": sind
+      "5": die
+      "6": dem
+      "7": denen
+      "8": anfangen
+      "9": ist
+      "10": haben
+
+  - id: D4
+    block: D
+    type: gap-text
+    layout: list
+    title: "Selbsttest: Arbeitswelt & Bewerbung (20 Punkte)"
+    instructions: "Fill in the correct word or form. 1 point per gap. 20 items."
+    notes: "16+ / 20 → proceed to B1/12. Below 16: redo Block A1–A6 tomorrow, then retest D4."
+    text: |
+      1. Ich {1} mich um die Stelle als Projektkoordinatorin. (sich bewerben)
+      2. {2} bewerbe ich mich um die ausgeschriebene Stelle. (Eröffnungswort Anschreiben)
+      3. Ich {3} über vier Jahre Berufserfahrung im Management. (verfügen)
+      4. Während meiner {4} koordinierte ich drei große Projekte. (die Tätigkeit — Genitiv)
+      5. Die Stelle {5} ab Oktober besetzt. (Passiv Präsens)
+      6. Alle Bewerbungen {6} bis zum 30. Juni entgegengenommen. (Passiv Präsens)
+      7. Wir suchen eine Person, {7} Erfahrung in der Teamleitung hat. (Relativ. Nom. f.)
+      8. Meiner Vorstellung nach {8} das Gehalt bei 58.000 Euro. (Konj. II von liegen)
+      9. Es {9} mir wichtig, flexible Arbeitszeiten zu haben. (Konj. II von sein)
+      10. Ich {10} gerne mehr Verantwortung übernehmen. (Konj. II von wollen: würde)
+      11. Ich bewerbe mich, um meine Erfahrungen {11}. (einsetzen — um…zu, trennbar)
+      12. Mit {12} Grüßen, (die Grußformel — Dativ Plural)
+      13. Der Schlüssel {13} Erfolgs liegt in der Teamarbeit. (Genitiv m./n.: des)
+      14. Trotz {14} kurzen Einarbeitungszeit war ich schnell produktiv. (Genitiv f.: der)
+      15. Die Stelle {15} von der Firma ausgeschrieben. (Präteritum Passiv)
+      16. Ein Dokument, das Ausbildung und Berufserfahrung zeigt: der {16}.
+      17. Das Gespräch vor dem Einstieg heißt das {17}.
+      18. Das Schreiben, das man mit dem Lebenslauf einschickt: das {18}.
+      19. Wenn die Arbeitgeberin eine Mitarbeiterin entlässt, nennt man das: die {19}.
+      20. „Haben Sie noch Fragen?" → Immer {20} sagen — eine vorbereitete Frage zeigt Interesse.
+    answers:
+      "1": bewerbe
+      "2": Hiermit
+      "3": verfüge
+      "4": Tätigkeit
+      "5": wird
+      "6": werden
+      "7": die
+      "8": läge
+      "9": wäre
+      "10": würde
+      "11": einzusetzen
+      "12": freundlichen
+      "13": des
+      "14": der
+      "15": wurde
+      "16": Lebenslauf
+      "17": Vorstellungsgespräch
+      "18": Anschreiben
+      "19": Kündigung
+      "20": ja
