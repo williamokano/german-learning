@@ -32,9 +32,10 @@ If it exits 0, commit+push. Then move to the next lesson. **Do not fan out in pa
 | A2/14 | ✅ DONE (P3 hand-authored) | ✅ | ✅ |
 | A1/13 | ✅ DONE | ✅ | ✅ |
 | A2/03 | ✅ DONE | ✅ | ✅ |
-| A2/04–A2/13 | ❌ | — | — |
+| A2/04 | ✅ DONE | ✅ | ✅ |
+| A2/05–A2/13 | ❌ | — | — |
 
-**Next lesson:** A2/04-arbeit-und-beruf
+**Next lesson:** A2/05-gesund-leben
 
 ---
 
