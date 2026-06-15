@@ -10,11 +10,11 @@ If it exits 0, commit+push. Then move to the next lesson. **Do not fan out in pa
 
 ---
 
-## Status as of 2026-06-14
+## Status as of 2026-06-15
 
 | Lesson | exercises.yml | Validated | Committed |
 |--------|--------------|-----------|-----------|
-| A1/01 | partial (stub only, `partial: true`) | — | ✅ |
+| A1/01 | ✅ DONE | ✅ | ✅ |
 | A1/02 | ✅ DONE | ✅ | ✅ |
 | A1/03 | ✅ DONE | ✅ | ✅ |
 | A1/04 | ✅ DONE | ✅ | ✅ |
@@ -26,11 +26,10 @@ If it exits 0, commit+push. Then move to the next lesson. **Do not fan out in pa
 | A1/10 | ✅ DONE | ✅ | ✅ |
 | A1/11 | ✅ DONE | ✅ | ✅ |
 | A1/12 | ✅ DONE | ✅ | ✅ |
+| A1/13 | ✅ DONE | ✅ | ✅ |
 | A1/14 | ✅ DONE (P3 hand-authored) | ✅ | ✅ |
 | A2/01 | ✅ DONE | ✅ | ✅ |
 | A2/02 | ✅ DONE | ✅ | ✅ |
-| A2/14 | ✅ DONE (P3 hand-authored) | ✅ | ✅ |
-| A1/13 | ✅ DONE | ✅ | ✅ |
 | A2/03 | ✅ DONE | ✅ | ✅ |
 | A2/04 | ✅ DONE | ✅ | ✅ |
 | A2/05 | ✅ DONE | ✅ | ✅ |
@@ -44,7 +43,7 @@ If it exits 0, commit+push. Then move to the next lesson. **Do not fan out in pa
 | A2/13 | ✅ DONE | ✅ | ✅ |
 | A2/14 | ✅ DONE (P3 hand-authored) | ✅ | ✅ |
 
-**All lessons complete!** ✅ P5 migration finished.
+**All 28 lessons complete!** ✅ P5 migration finished.
 
 ---
 

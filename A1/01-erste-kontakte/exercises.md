@@ -1,9 +1,6 @@
 # A1 · Lektion 1 — Übungen (Exercises)
 
-Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
-**D** Wiederholung & Selbsttest. Answers in `solutions.md`.
-Tip: spread the blocks over several days — H and A on day 1, B on day 2,
-C on day 3, D on day 4 after a pause.
+Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Answers in solutions.md. Tip: spread the blocks over several days — H and A on day 1, B on day 2, C on day 3, D on day 4 after a pause.
 
 ---
 
@@ -11,21 +8,20 @@ C on day 3, D on day 4 after a pause.
 
 ## Übung H1 — Aussprache-Check
 
-Listen to the **Hör zu** clips in `lesson.md` (Wortschatz → 🔊 Aussprache)
-and pick the matching answer.
+Höre den Clip und wähle die passende Antwort.
 
-1. Hör zu 1 (Begrüßungen) — was sagst du am Morgen?
+1. Begrüßungen — was sagst du am Morgen?  
    a) Guten Abend  b) Guten Morgen  c) Gute Nacht
-2. Hör zu 2 (Verabschiedungen) — was sagst du am Abend vor dem Schlafen?
+2. Verabschiedungen — was sagst du am Abend vor dem Schlafen?  
    a) Auf Wiedersehen  b) Gute Nacht  c) Bis morgen
-3. Hör zu 4 (Zahlen 0–10) — which number comes after vier?
+3. Zahlen 0–10 — welche Zahl kommt nach vier?  
    a) fünf  b) sechs  c) sieben
-4. Hör zu 5 (Zahlen 11–20) — which number is **zwölf**?
+4. Zahlen 11–20 — welche Zahl ist zwölf?  
    a) 10  b) 12  c) 14
-5. Hör zu 3 (W-Fragewörter) — which question word asks for the origin?
+5. W-Fragewörter — welches Fragewort fragt nach der Herkunft?  
    a) Wo  b) Wer  c) Woher
 
-## Übung H2a — Dialog A (informell): Im Deutschkurs
+## Übung H2a — Dialog A (informell) — Im Deutschkurs
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
@@ -35,7 +31,7 @@ Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?
 2. Bruno wohnt in Berlin. ( )
 3. Bruno spricht nur Englisch. ( )
 
-## Übung H2b — Dialog B (formell): Frau Weber und Herr Steinmeyer
+## Übung H2b — Dialog B (formell) — Frau Weber und Herr Steinmeyer
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
@@ -50,12 +46,12 @@ Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Höre den Text und fülle die Lücken.
+Höre den Text und fülle die Lücken mit Wörtern aus dem Kasten.
 
-> Hallo! Ich _______ Yuki Tanaka. Ich _______ aus Japan, aus Osaka. Ich
-> wohne jetzt in Berlin und _______ Deutsch. Ich _______ Japanisch,
-> Englisch und ein bisschen Deutsch. Mein Deutschkurs ist _______ — wir
-> sind _______ Studenten im Kurs.
+> Hallo! Ich (1) ______ Yuki Tanaka. Ich (2) ______ aus Japan, aus Osaka. Ich
+> wohne jetzt in Berlin und (3) ______ Deutsch. Ich (4) ______ Japanisch,
+> Englisch und ein bisschen Deutsch. Mein Deutschkurs ist (5) ______ — wir
+> sind (6) ______ Studenten im Kurs.
 
 > (heiße · komme · lerne · spreche · super · zwanzig)
 
@@ -63,28 +59,12 @@ Höre den Text und fülle die Lücken.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c).
-Höre **einmal**, bevor du das Transkript liest.
+Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
 
-1. Wessen Nachricht ist das?  
-   a) Von Petra.  
-   b) Von Anna.  
-   c) Von Lisa.
-
-2. Woher kennt Petra Anna?  
-   a) Aus dem Büro.  
-   b) Aus dem Deutschkurs.  
-   c) Aus dem Café.
-
-3. Was möchte Petra mit Anna machen?  
-   a) Ins Kino gehen.  
-   b) Einen Kaffee trinken.  
-   c) Einen Spaziergang.
-
-4. Was ist Petras Telefonnummer?  
-   a) Eins-zwei-drei.  
-   b) Vier-fünf-sechs.  
-   c) Vier-sieben-eins-eins.
+1. Warum ruft Petra an?  a) Sie hat ein neues Buch.  b) Sie möchte sich mit der Person treffen.  c) Sie hat eine Prüfung.
+2. Wo lernt Petra die Person kennen?  a) Im Büro.  b) Im Deutschkurs.  c) Im Park.
+3. Was möchten sie zusammen machen?  a) Ins Kino gehen.  b) Einen Kaffee trinken.  c) Einen Spaziergang.
+4. Was ist Petras Telefonnummer?  a) Eins-zwei-drei.  b) Vier-fünf-sechs.  c) Vier-sieben-eins-eins.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -101,15 +81,20 @@ Höre **einmal**, bevor du das Transkript liest.
 
 # Block A — Basistraining
 
-## Übung A1 — `sein`: conjugation table
+## Übung A1 — sein: conjugation table
 
 Fill the table from memory.
 
-| ich | du | er/sie/es | wir | ihr | sie/Sie |
-|---|---|---|---|---|---|
-| ______ | ______ | ______ | ______ | ______ | ______ |
+1. ich: ______
+2. du: ______
+3. er/sie/es: ______
+4. wir: ______
+5. ihr: ______
+6. sie/Sie: ______
 
-## Übung A2 — `sein`: in sentences
+## Übung A2 — sein: in sentences
+
+Fill in the correct form of sein. 10 items.
 
 1. Ich ______ aus Brasilien.
 2. Du ______ sehr nett.
@@ -126,16 +111,14 @@ Fill the table from memory.
 
 Fill in all 24 cells.
 
-| | kommen | wohnen | heißen | sprechen ⚠️ |
-|---|---|---|---|---|
-| ich | ______ | ______ | ______ | ______ |
-| du | ______ | ______ | ______ | ______ |
-| er/sie/es | ______ | ______ | ______ | ______ |
-| wir | ______ | ______ | ______ | ______ |
-| ihr | ______ | ______ | ______ | ______ |
-| sie/Sie | ______ | ______ | ______ | ______ |
+**kommen:** ich: ______ · du: ______ · er/sie/es: ______ · wir: ______ · ihr: ______ · sie/Sie: ______
+**wohnen:** ich: ______ · du: ______ · er/sie/es: ______ · wir: ______ · ihr: ______ · sie/Sie: ______
+**heißen:** ich: ______ · du: ______ · er/sie/es: ______ · wir: ______ · ihr: ______ · sie/Sie: ______
+**sprechen ⚠️ (e → i):** ich: ______ · du: ______ · er/sie/es: ______ · wir: ______ · ihr: ______ · sie/Sie: ______
 
-## Übung A4 — `kommen`
+## Übung A4 — kommen
+
+Fill in the correct form of kommen. 8 items.
 
 1. Woher ______ du?
 2. Ich ______ aus Italien.
@@ -146,7 +129,9 @@ Fill in all 24 cells.
 7. Woher ______ Sie?
 8. Mein Freund ______ aus der Türkei.
 
-## Übung A5 — `wohnen` und `heißen` (mixed)
+## Übung A5 — wohnen und heißen (mixed)
+
+Fill in the correct form of the verb in brackets. 10 items.
 
 1. Ich ______ (wohnen) in Köln.
 2. Wie ______ (heißen) du?
@@ -159,7 +144,9 @@ Fill in all 24 cells.
 9. Ich ______ (heißen) Carlos.
 10. Anna und Lisa ______ (wohnen) in Hamburg.
 
-## Übung A6 — `sprechen` (watch the e → i!)
+## Übung A6 — sprechen (watch the e → i!)
+
+Fill in the correct form of sprechen. 8 items.
 
 1. Ich ______ Englisch.
 2. ______ du Deutsch?
@@ -172,7 +159,7 @@ Fill in all 24 cells.
 
 ## Übung A7 — Pronouns: which one fits?
 
-Fill in: ich, du, er, sie, wir, ihr, sie, Sie.
+Fill in: ich, du, er, sie, wir, ihr, sie, Sie. 10 items.
 
 1. Das ist Bruno. ______ kommt aus Brasilien.
 2. Das ist Anna. ______ wohnt in Berlin.
@@ -187,8 +174,7 @@ Fill in: ich, du, er, sie, wir, ihr, sie, Sie.
 
 ## Übung A8 — Substitution drill
 
-Rewrite the sentence with the new subject. Example:
-*Ich wohne in Berlin. (du) → Du wohnst in Berlin.*
+> Example: Ich wohne in Berlin. (du) → Du wohnst in Berlin.
 
 1. Ich wohne in Berlin. (du)
 2. Du kommst aus Italien. (er)
@@ -199,23 +185,29 @@ Rewrite the sentence with the new subject. Example:
 7. Ich spreche ein bisschen Deutsch. (Frau Lang)
 8. Du bist sehr nett. (ihr)
 
+
+**Your task:** Rewrite the sentence with the new subject.
+
 ## Übung A9 — du oder Sie?
 
-Decide du or Sie, then write the question.
-
-Ask the **name** of:
-1. a child → ______________________
-2. your boss → ______________________
-3. a fellow student in your course → ______________________
-4. an official at the Bürgeramt → ______________________
-5. your friend's brother → ______________________
-6. an elderly stranger → ______________________
+> Ask the name of:
+1. a child →
+2. your boss →
+3. a fellow student in your course →
+4. an official at the Bürgeramt →
+5. your friend's brother →
+6. an elderly stranger →
 
 And:
-7. Ask your boss where he is from. → ______________________
-8. Ask a classmate which languages she speaks. → ______________________
+7. Ask your boss where he is from. →
+8. Ask a classmate which languages she speaks. →
+
+
+**Your task:** Decide du or Sie, then write the question.
 
 ## Übung A10 — W-Wörter: wo, woher, wie, wer, was, welche
+
+Fill in the correct W-Wort. 10 items.
 
 1. ______ heißt du?
 2. ______ kommst du?
@@ -230,28 +222,38 @@ And:
 
 ## Übung A11 — Zahlen
 
-Write as words:
+Write as words (0, 2, 5, 8, 13, 14, 15, 18, 19), then as digits (sechzehn, zwölf, siebzehn). 12 items.
 
-0 = ______ · 2 = ______ · 5 = ______ · 8 = ______ · 13 = ______ ·
-14 = ______ · 15 = ______ · 18 = ______ · 19 = ______
+Write as words:
+1. 0 = ______
+2. 2 = ______
+3. 5 = ______
+4. 8 = ______
+5. 13 = ______
+6. 14 = ______
+7. 15 = ______
+8. 18 = ______
+9. 19 = ______
 
 Write as digits:
-
-sechzehn = ______ · zwölf = ______ · siebzehn = ______
+10. sechzehn = ______
+11. zwölf = ______
+12. siebzehn = ______
 
 ## Übung A12 — Buchstabieren
 
-Decode the spelled names:
+> Decode:
+1. em – a – er – i – e →
+2. jot – o – en – a – es →
+3. el – u – ka – a – es →
 
-1. em – a – er – i – e → ______________
-2. jot – o – en – a – es → ______________
-3. el – u – ka – a – es → ______________
+Spell out loud:
+4. BERLIN →
+5. WIEN →
+6. your own surname →
 
-Now spell these out loud, letter by letter, and write the letter names:
 
-4. BERLIN → ______________
-5. WIEN → ______________
-6. your own surname → ______________
+**Your task:** Decode the spelled names (1–3) and spell the words out loud (4–6).
 
 ---
 
@@ -259,32 +261,38 @@ Now spell these out loud, letter by letter, and write the letter names:
 
 ## Übung B1 — Dialog ergänzen (informal)
 
-— Hallo! Ich heiße Lena. Und wie (1) ______ du?
-— (2) ______, Lena! Ich bin Marco.
-— Woher (3) ______ du, Marco?
-— Ich (4) ______ aus Italien. Und du?
-— Ich komme aus Deutschland, aus Köln. Aber ich (5) ______ jetzt in Bonn.
-— Welche Sprachen (6) ______ du?
-— Italienisch, Englisch und ein (7) ______ Deutsch.
-— Super! (8) ______ bald!
+Fill in the 8 blanks with the correct form.
+
+> — Hallo! Ich heiße Lena. Und wie (1) ______ du?
+> — (2) ______, Lena! Ich bin Marco.
+> — Woher (3) ______ du, Marco?
+> — Ich (4) ______ aus Italien. Und du?
+> — Ich komme aus Deutschland, aus Köln. Aber ich (5) ______ jetzt in Bonn.
+> — Welche Sprachen (6) ______ du?
+> — Italienisch, Englisch und ein (7) ______ Deutsch.
+> — Super! (8) ______ bald!
+
+> (heißt · Hallo · kommst · komme · wohne · sprichst · bisschen · Bis)
 
 ## Übung B2 — Dialog ergänzen (formal)
 
-— Guten Tag! Mein (1) ______ ist Schneider. Wie heißen (2) ______?
-— Guten Tag, Frau Schneider. (3) ______ heiße Pavel Novak.
-— Entschuldigung, wie (4) ______? Buchstabieren Sie bitte.
-— N-O-V-A-K.
-— Danke. (5) ______ kommen Sie, Herr Novak?
-— Ich komme (6) ______ Tschechien.
-— Und wo (7) ______ Sie jetzt?
-— In Dresden.
-— (8) ______ in Deutschland, Herr Novak!
+Fill in the 8 blanks with the correct form.
+
+> — Guten Tag! Mein (1) ______ ist Schneider. Wie heißen (2) ______?
+> — Guten Tag, Frau Schneider. (3) ______ heiße Pavel Novak.
+> — Entschuldigung, wie (4) ______? Buchstabieren Sie bitte.
+> — N-O-V-A-K.
+> — Danke. (5) ______ kommen Sie, Herr Novak?
+> — Ich komme (6) ______ Tschechien.
+> — Und wo (7) ______ Sie jetzt?
+> — In Dresden.
+> — (8) ______ in Deutschland, Herr Novak!
+
+> (Name · Sie · Ich · bitte · Woher · aus · wohnen · Willkommen)
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly **one** mistake. Correct it.
-
-1. Ich heißt Anna.
+> 1. Ich heißt Anna.
 2. Woher wohnst du?
 3. Du sprechst Deutsch.
 4. Ich komme in Brasilien.
@@ -295,9 +303,14 @@ Each sentence has exactly **one** mistake. Correct it.
 9. Ich spreche ein bisschen deutsch.
 10. Kommst aus Italien du?
 
+
+**Your task:** Each sentence has exactly one mistake. Correct it.
+
 ## Übung B4 — Frage und Antwort verbinden
 
-| Frage | | Antwort |
+Match each question (1–8) with the correct answer (a–h).
+
+| Links | | Rechts |
 |---|---|---|
 | 1. Wie heißt du? | | a) In Hamburg. |
 | 2. Woher kommen Sie? | | b) Das ist mein Lehrer. |
@@ -310,10 +323,7 @@ Each sentence has exactly **one** mistake. Correct it.
 
 ## Übung B5 — Satzbau (word order)
 
-Build correct sentences. Verb in position 2 (statements) or position 1
-(yes/no questions).
-
-1. heiße – ich – Anna
+> 1. heiße – ich – Anna
 2. du – woher – kommst – ?
 3. in – Berlin – wohne – ich – jetzt
 4. Sie – Frau Weber – sind – ? (yes/no question!)
@@ -324,62 +334,60 @@ Build correct sentences. Verb in position 2 (statements) or position 1
 9. sehr gut – spricht – Deutsch – Frau Lang
 10. Sie – woher – kommen – ?
 
+
+**Your task:** Build correct sentences. Verb in position 2 (statements) or position 1 (yes/no questions).
+
 ## Übung B6 — Länder, Sprachen, Personen
 
-Complete the table.
+Complete the table. 8 items.
 
-| Land | Sprache | Person (m) |
-|---|---|---|
-| Brasilien | (1) ______ | der Brasilianer |
-| (2) ______ | Französisch | der Franzose |
-| Italien | Italienisch | (3) ______ |
-| (4) ______ | Türkisch | der Türke |
-| Spanien | (5) ______ | der Spanier |
-| Japan | Japanisch | (6) ______ |
-| (7) ______ | Englisch | der Engländer |
-| Österreich | (8) ______ | der Österreicher |
+1. Brasilien — Sprache: ______
+2. ______ — Sprache: Französisch
+3. Italien — Sprache: Italienisch — Person (m): ______
+4. ______ — Sprache: Türkisch — Person (m): der Türke
+5. Spanien — Sprache: ______ — Person (m): der Spanier
+6. Japan — Sprache: Japanisch — Person (m): ______
+7. ______ — Sprache: Englisch — Person (m): der Engländer
+8. Österreich — Sprache: ______ — Person (m): der Österreicher
 
 ## Übung B7 — Begrüßung oder Abschied?
 
-Sort into the two columns and mark each as formal (F), informal (I) or both (F/I):
+Sort the 10 expressions into the two columns. Mark each as formal (F), informal (I) or both (F/I).
 
-> Hallo · Tschüss · Guten Morgen · Auf Wiedersehen · Grüß Gott · Bis morgen ·
-> Servus · Gute Nacht · Guten Abend · Bis bald
+> Hallo (I) · Tschüss (I) · Guten Morgen (F/I) · Auf Wiedersehen (F) · Grüß Gott (F/I, Süden) · Bis morgen (F/I) · Servus (I, Süden) — works as both, either column if (I) · Gute Nacht (F/I, before sleep) · Guten Abend (F/I) · Bis bald (F/I)
 
 | Begrüßung (greeting) | Abschied (farewell) |
 |---|---|
-| | |
+|  |  |
 
 ## Übung B8 — W-Fragen schreiben
 
-Write the question that fits the answer. Use du-form unless marked (Sie).
+> 1. ? — Ich heiße Sandra.
+2. ? — Ich komme aus Brasilien.
+3. ? — Ich wohne in Leipzig.
+4. ? — Ich spreche Portugiesisch und Deutsch.
+5. ? (Sie) — Mein Name ist Hoffmann.
+6. ? — Das ist meine Lehrerin, Frau Schmidt.
+7. ? (Sie) — Ich komme aus Japan.
 
-1. ______________________? — Ich heiße Sandra.
-2. ______________________? — Ich komme aus Brasilien.
-3. ______________________? — Ich wohne in Leipzig.
-4. ______________________? — Ich spreche Portugiesisch und Deutsch.
-5. ______________________? (Sie) — Mein Name ist Hoffmann.
-6. ______________________? — Das ist meine Lehrerin, Frau Schmidt.
-7. ______________________? (Sie) — Ich komme aus Japan.
+
+**Your task:** Write the question that fits the answer. Use du-form unless marked (Sie).
 
 ## Übung B9 — Stell dich vor!
 
-**Situation:** Du bist im Deutschkurs und stellst dich einem neuen
-Kursmitglied vor. Schreib **3–4 Sätze** über dich selbst: dein
-Name, woher du kommst, wo du wohnst, und welche Sprachen du
-sprichst.
+**Your task:** Du bist im Deutschkurs und stellst dich einem neuen Kursmitglied vor. Schreib 3–4 Sätze über dich selbst: dein Name, woher du kommst, wo du wohnst, und welche Sprachen du sprichst.
 
 Use:
-- [ ] a greeting + name — *Hallo! Ich heiße …*
-- [ ] at least **1** sentence with `sein` — *Ich bin … Jahre alt. / Ich bin Student.*
-- [ ] at least **1** sentence with `kommen aus` — *Ich komme aus …*
-- [ ] at least **1** sentence with `wohnen in` — *Ich wohne in … / Ich wohne jetzt in …*
-- [ ] a closing — *Freut mich! / Schön, dich kennenzulernen!*
+- [ ] a greeting + name (Hallo! Ich heiße …)
+- [ ] at least 1 sentence with sein (Ich bin … Jahre alt. / Ich bin Student.)
+- [ ] at least 1 sentence with kommen aus (Ich komme aus …)
+- [ ] at least 1 sentence with wohnen in (Ich wohne in … / Ich wohne jetzt in …)
+- [ ] a closing (Freut mich! / Schön, dich kennenzulernen!)
 
-**Self-check before moving on:**
-- [ ] Did I use the correct **sein-form** for `ich` and `du`? — *ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind*
-- [ ] Did I use `aus` (not `in`) for origin (*Ich komme **aus** Berlin*) and `in` (not `aus`) for current residence (*Ich wohne **in** Berlin*)?
-- [ ] Did I keep the **verb in position 2** in every sentence?
+Self-check:
+- [ ] Did I use the correct sein-form for ich and du? (ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind)
+- [ ] Did I use aus (not in) for origin and in (not aus) for current residence?
+- [ ] Did I keep the verb in position 2 in every sentence?
 
 ---
 
@@ -387,7 +395,7 @@ Use:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with **one** word.
+Fülle jede Lücke mit genau einem Wort.
 
 Hallo! Ich (1) ______ Carlos und ich (2) ______ aus Spanien, aus Madrid.
 Jetzt (3) ______ ich in Frankfurt. Ich (4) ______ Spanisch, Englisch und ein
@@ -397,43 +405,38 @@ Und (9) ______? Woher (10) ______ du?
 
 ## Übung C2 — Sprachbausteine Teil 1 (multiple choice)
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-Guten Tag! (1) ______ Name ist Petra Lang. Ich komme (2) ______ Österreich und
-wohne (3) ______ Wien. Ich (4) ______ Deutsch und Englisch. Im Büro sagen alle
-„Frau Lang“ und „(5) ______“, aber meine Freunde sagen „du“. Mein Kollege Tom
-(6) ______ aus den USA. Er spricht sehr gut Deutsch!
-
-1. a) Mein b) Ich c) Meine
-2. a) in b) aus c) von
-3. a) in b) aus c) nach
-4. a) spreche b) sprichst c) sprechen
-5. a) du b) Sie c) ihr
-6. a) kommen b) kommst c) kommt
+1. Guten Tag! (1) ____ Name ist Petra Lang.  a) Mein  b) Ich  c) Meine
+2. Ich komme (2) ____ Österreich  a) in  b) aus  c) von
+3. …und wohne (3) ____ Wien.  a) in  b) aus  c) nach
+4. Ich (4) ____ Deutsch und Englisch.  a) spreche  b) sprichst  c) sprechen
+5. Im Büro sagen alle Frau Lang und (5) ______, aber meine Freunde sagen du.  a) du  b) Sie  c) ihr
+6. Mein Kollege Tom (6) ____ aus den USA.  a) kommen  b) kommst  c) kommt
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Five words are not needed.**
-Each word may be used once.
+Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once.
 
-> AUS · BIN · BIS · BIST · DANKE · HEISST · IHR · IN · IST · NICHT ·
-> SIND · SPRECHEN · WER · WIE · WOHER
+> — Guten Morgen! Ich (1) ______ Frau Müller von der Sprachschule. (2) ______
+> heißen Sie?
+> — Guten Morgen! Mein Name (3) ______ Akin Yilmaz.
+> — (4) ______ kommen Sie, Herr Yilmaz?
+> — Ich komme (5) ______ der Türkei. Ich wohne jetzt (6) ______ Köln.
+> — Welche Sprachen (7) ______ Sie?
+> — Türkisch, Englisch und ein bisschen Deutsch. Meine Frau und ich, wir
+> (8) ______ im Kurs A1.
+> — Sehr gut! Und wie (9) ______ Ihre Frau?
+> — Sie heißt Elif.
+> — (10) ______ schön, Herr Yilmaz. Bis Montag!
 
-— Guten Morgen! Ich (1) ______ Frau Müller von der Sprachschule. (2) ______
-heißen Sie?
-— Guten Morgen! Mein Name (3) ______ Akin Yilmaz.
-— (4) ______ kommen Sie, Herr Yilmaz?
-— Ich komme (5) ______ der Türkei. Ich wohne jetzt (6) ______ Köln.
-— Welche Sprachen (7) ______ Sie?
-— Türkisch, Englisch und ein bisschen Deutsch. Meine Frau und ich, wir
-(8) ______ im Kurs A1.
-— Sehr gut! Und wie (9) ______ Ihre Frau?
-— Sie heißt Elif.
-— (10) ______ schön, Herr Yilmaz. Bis Montag!
+> AUS · BIN · BIS · BIST · DANKE · HEISST · IHR · IN · IST · NICHT · SIND · SPRECHEN · WER · WIE · WOHER
 
-## Übung C4 — Lesen
+Five words are not needed.
 
-**Text 1:** Read the Yuki text in `lesson.md`, section 5. **Richtig (R) oder falsch (F)?**
+## Übung C4a — Lesen Text 1 (Yuki-Lesetext)
+
+Read the Yuki text in lesson.md, section 5. Richtig (R) oder falsch (F)?
 
 1. Yuki kommt aus China. ( )
 2. Sie wohnt in München. ( )
@@ -441,25 +444,38 @@ heißen Sie?
 4. Die Lehrerin kommt aus Hamburg. ( )
 5. Im Kurs sind zwanzig Personen. ( )
 
-**Text 2 — Forumspost:**
+## Übung C4b — Lesen Text 2 (Forumspost)
 
 > Hallo zusammen! Ich bin neu hier im Forum. Ich heiße Lukas Meier und komme aus
 > der Schweiz, aus Zürich. Ich spreche Deutsch und Französisch. Meine Frau kommt
 > aus Spanien. Sie heißt Carmen und spricht Spanisch, Englisch und Deutsch.
 > Wir wohnen jetzt in Basel. Carmen lernt Deutsch. Der Deutschkurs ist gut!
 
-Choose a, b, or c:
+Wähle a, b oder c.
 
-6. Lukas kommt aus … a) Österreich b) der Schweiz c) Spanien
-7. Carmen spricht … a) drei Sprachen b) zwei Sprachen c) nur Spanisch
-8. Lukas und Carmen wohnen in … a) Zürich b) Madrid c) Basel
-9. Wer lernt Deutsch? a) Lukas b) Carmen c) Lukas und Carmen
+
+1. Lukas kommt aus …  a) Österreich  b) der Schweiz  c) Spanien
+2. Carmen spricht …  a) drei Sprachen  b) zwei Sprachen  c) nur Spanisch
+3. Lukas und Carmen wohnen in …  a) Zürich  b) Madrid  c) Basel
+4. Wer lernt Deutsch?  a) Lukas  b) Carmen  c) Lukas und Carmen
 
 ## Übung C5 — Schreiben
 
-Write your own introduction (5–7 sentences). Include: greeting · name · origin
-(country + city) · where you live now · languages · one sentence about your German
-course or your goal. A model answer is in `solutions.md` — write yours **first**.
+**Your task:** Write your own introduction (5–7 sentences). Include: greeting · name · origin (country + city) · where you live now · languages · one sentence about your German course or your goal.
+
+Use:
+- [ ] greeting
+- [ ] name
+- [ ] origin (country + city)
+- [ ] where you live now
+- [ ] languages
+- [ ] one sentence about the German course or your goal
+
+Self-check:
+- [ ] Did I keep the verb in position 2 in every sentence?
+- [ ] Did I use aus (not in) for origin and in (not aus) for current city?
+- [ ] Are language names capitalized?
+- [ ] Did I use the right form of sprechen (e → i) when talking about someone else?
 
 ---
 
@@ -467,22 +483,22 @@ course or your goal. A model answer is in `solutions.md` — write yours **first
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes.
+One minute per item. No notes. 15 items.
 
-1. Formal "What is your name?" → ______________________
+1. Formal "What is your name?" → ______
 2. „Ich komme ______ der Schweiz." (preposition + article)
 3. sein, ihr-form: ihr ______
 4. *Where do you live?* uses (wo / woher): ______
 5. 16 in words: ______
 6. „______ bitte?" (= Pardon?)
 7. sprechen, du-form: du ______
-8. Goodbye, formal: ______________________
+8. Goodbye, formal: ______
 9. Verb position in a W-question: position ______
 10. „Das ist Maria. ______ kommt aus Italien." (pronoun)
 11. Verb position in a yes/no question: position ______
 12. „Wir kommen ______ den USA." (preposition)
 13. kommen, ihr-form: ihr ______
-14. „Servus!" sagt man in: a) Norddeutschland b) Bayern und Österreich
+14. „Servus!" sagt man in: a) Norddeutschland b) Bayern und Österreich → ______
 15. „______ ihr aus Italien?" (sein)
 
 ## Übung D2 — Wortschatz-Check: odd one out
@@ -498,30 +514,34 @@ Cross out the word that doesn't fit.
 
 ## Übung D3 — Selbsttest (score yourself /20)
 
-Verb forms (write the form):
+**Verb forms (write the form):**
+1. ich (sein) → ______
+2. du (heißen) → ______
+3. er (sprechen) → ______
+4. wir (kommen) → ______
+5. ihr (sein) → ______
+6. Sie (wohnen) → ______
 
-1. ich (sein) → ______ 2. du (heißen) → ______ 3. er (sprechen) → ______
-4. wir (kommen) → ______ 5. ihr (sein) → ______ 6. Sie (wohnen) → ______
+**Questions:**
+7. „______ kommst du?"
+8. „______ wohnst du?"
+9. „______ Sprachen sprechen Sie?"
+10. Formal "What's your name?": ______
 
-Questions:
+**Numbers:**
+11. 14 → ______
+12. 16 → ______
+13. zwölf → ______ (digit)
 
-7. „______ kommst du?" 8. „______ wohnst du?" 9. „______ Sprachen sprechen Sie?"
-10. Formal "What's your name?": ______________________
+**Vocabulary:**
+14. Frankreich → language: ______
+15. die Türkei → language: ______
 
-Numbers:
-
-11. 14 → ______ 12. 16 → ______ 13. zwölf → ______ (digit)
-
-Vocabulary:
-
-14. Frankreich → language: ______ 15. die Türkei → language: ______
-
-Sentences:
-
-16. heiße – Lukas – ich → ______________________
-17. kommst – woher – du → ______________________?
-18. Greeting at 19:00: ______________________
+**Sentences:**
+16. heiße – Lukas – ich → ______
+17. kommst – woher – du → ______?
+18. Greeting at 19:00: ______
 19. „Ich komme aus ______ Schweiz."
-20. Informal goodbye: ______________________
+20. Informal goodbye: ______
 
-**Score: ____ / 20.** 16+ → Lektion 2. Below → redo Block A tomorrow, then retest.
+_16+ / 20 → Lektion 2. Below that: redo Block A tomorrow (especially the verb tables A1–A6), then retake this Selbsttest before moving on._

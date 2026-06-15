@@ -1,11 +1,10 @@
 lesson: A1/01
-title: "A1 · Lektion 1 — Übungen"
-partial: true  # P2 web fixture only — full migration in P5; gen-exercises skips this file
+title: "A1 · Lektion 1 — Übungen (Exercises)"
 intro: >
   Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
-  D Wiederholung & Selbsttest.
-  Tipp: Verteile die Blocks auf mehrere Tage — H und A an Tag 1, B an Tag 2,
-  C an Tag 3, D an Tag 4 nach einer Pause.
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
 
 exercises:
 
@@ -115,6 +114,611 @@ exercises:
       "5": super
       "6": zwanzig
 
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Anruf von Petra"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    transcript: 'Hallo, hier ist Petra. Ich bin deine neue Kollegin aus dem Deutschkurs. Bitte ruf mich zurück, wenn du Zeit hast. Ich möchte mich gerne mit dir treffen. Wir können zusammen einen Kaffee trinken. Meine Nummer ist vier-sieben-eins-eins. Vielen Dank und bis bald!'
+    items:
+      - q: "Warum ruft Petra an?"
+        options:
+          - { key: a, text: "Sie hat ein neues Buch." }
+          - { key: b, text: "Sie möchte sich mit der Person treffen." }
+          - { key: c, text: "Sie hat eine Prüfung." }
+        answer: b
+        why: '„Ich möchte mich gerne mit dir treffen".'
+      - q: "Wo lernt Petra die Person kennen?"
+        options:
+          - { key: a, text: "Im Büro." }
+          - { key: b, text: "Im Deutschkurs." }
+          - { key: c, text: "Im Park." }
+        answer: b
+        why: '„Ich bin deine neue Kollegin aus dem Deutschkurs".'
+      - q: "Was möchten sie zusammen machen?"
+        options:
+          - { key: a, text: "Ins Kino gehen." }
+          - { key: b, text: "Einen Kaffee trinken." }
+          - { key: c, text: "Einen Spaziergang." }
+        answer: b
+        why: '„Wir können zusammen einen Kaffee trinken".'
+      - q: "Was ist Petras Telefonnummer?"
+        options:
+          - { key: a, text: "Eins-zwei-drei." }
+          - { key: b, text: "Vier-fünf-sechs." }
+          - { key: c, text: "Vier-sieben-eins-eins." }
+        answer: c
+        why: '„Meine Nummer ist vier-sieben-eins-eins".'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "sein: conjugation table"
+    instructions: "Fill the table from memory."
+    text: |
+      1. ich: {1}
+      2. du: {2}
+      3. er/sie/es: {3}
+      4. wir: {4}
+      5. ihr: {5}
+      6. sie/Sie: {6}
+    answers:
+      "1": bin
+      "2": bist
+      "3": ist
+      "4": sind
+      "5": seid
+      "6": sind
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "sein: in sentences"
+    instructions: "Fill in the correct form of sein. 10 items."
+    text: |
+      1. Ich {1} aus Brasilien.
+      2. Du {2} sehr nett.
+      3. Das {3} Frau Schmidt.
+      4. Wir {4} im Deutschkurs.
+      5. {5} ihr aus Spanien?
+      6. Anna und Tom {6} aus der Schweiz.
+      7. {7} Sie Herr Steinmeyer?
+      8. Anna und ich, wir {8} Freunde.
+      9. Mein Name {9} Weber.
+      10. {10} du aus Berlin?
+    answers:
+      "1": bin
+      "2": bist
+      "3": ist
+      "4": sind
+      "5": Seid
+      "6": sind
+      "7": Sind
+      "8": sind
+      "9": ist
+      "10": Bist
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Regular verbs: full conjugation table"
+    instructions: "Fill in all 24 cells."
+    text: |
+      **kommen:** ich: {1} · du: {2} · er/sie/es: {3} · wir: {4} · ihr: {5} · sie/Sie: {6}
+      **wohnen:** ich: {7} · du: {8} · er/sie/es: {9} · wir: {10} · ihr: {11} · sie/Sie: {12}
+      **heißen:** ich: {13} · du: {14} · er/sie/es: {15} · wir: {16} · ihr: {17} · sie/Sie: {18}
+      **sprechen ⚠️ (e → i):** ich: {19} · du: {20} · er/sie/es: {21} · wir: {22} · ihr: {23} · sie/Sie: {24}
+    answers:
+      "1": komme
+      "2": kommst
+      "3": kommt
+      "4": kommen
+      "5": kommt
+      "6": kommen
+      "7": wohne
+      "8": wohnst
+      "9": wohnt
+      "10": wohnen
+      "11": wohnt
+      "12": wohnen
+      "13": heiße
+      "14": heißt
+      "15": heißt
+      "16": heißen
+      "17": heißt
+      "18": heißen
+      "19": spreche
+      "20": sprichst
+      "21": spricht
+      "22": sprechen
+      "23": sprecht
+      "24": sprechen
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "kommen"
+    instructions: "Fill in the correct form of kommen. 8 items."
+    text: |
+      1. Woher {1} du?
+      2. Ich {2} aus Italien.
+      3. Frau Sato {3} aus Japan.
+      4. Wir {4} aus Berlin.
+      5. Woher {5} ihr?
+      6. Herr und Frau Lang {6} aus Wien.
+      7. Woher {7} Sie?
+      8. Mein Freund {8} aus der Türkei.
+    answers:
+      "1": kommst
+      "2": komme
+      "3": kommt
+      "4": kommen
+      "5": kommt
+      "6": kommen
+      "7": kommen
+      "8": kommt
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "wohnen und heißen (mixed)"
+    instructions: "Fill in the correct form of the verb in brackets. 10 items."
+    text: |
+      1. Ich {1} (wohnen) in Köln.
+      2. Wie {2} (heißen) du?
+      3. Er {3} (heißen) Tom.
+      4. Wo {4} (wohnen) ihr?
+      5. Wir {5} (wohnen) in Frankfurt.
+      6. Wie {6} (heißen) Sie?
+      7. Die Lehrerin {7} (heißen) Frau Braun.
+      8. Du {8} (wohnen) in München, richtig?
+      9. Ich {9} (heißen) Carlos.
+      10. Anna und Lisa {10} (wohnen) in Hamburg.
+    answers:
+      "1": wohne
+      "2": heißt
+      "3": heißt
+      "4": wohnt
+      "5": wohnen
+      "6": heißen
+      "7": heißt
+      "8": wohnst
+      "9": heiße
+      "10": wohnen
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "sprechen (watch the e → i!)"
+    instructions: "Fill in the correct form of sprechen. 8 items."
+    text: |
+      1. Ich {1} Englisch.
+      2. {2} du Deutsch?
+      3. Er {3} drei Sprachen.
+      4. Wir {4} Portugiesisch.
+      5. {5} ihr Spanisch?
+      6. Frau Lang {6} sehr gut Englisch.
+      7. {7} Sie Französisch?
+      8. Meine Freundin {8} ein bisschen Deutsch.
+    answers:
+      "1": spreche
+      "2": Sprichst
+      "3": spricht
+      "4": sprechen
+      "5": Sprecht
+      "6": spricht
+      "7": Sprechen
+      "8": spricht
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Pronouns: which one fits?"
+    instructions: "Fill in: ich, du, er, sie, wir, ihr, sie, Sie. 10 items."
+    text: |
+      1. Das ist Bruno. {1} kommt aus Brasilien.
+      2. Das ist Anna. {2} wohnt in Berlin.
+      3. Herr Weber, woher kommen {3}?
+      4. Anna und Tom? {4} sind im Deutschkurs.
+      5. Du und Maria — woher kommt {5}?
+      6. Tom und ich, {6} sprechen Englisch.
+      7. Hallo Lisa! Wo wohnst {7} jetzt?
+      8. Das ist Herr Tanaka. {8} spricht Japanisch.
+      9. Das sind Frau und Herr Lang. {9} kommen aus Wien.
+      10. {10} heiße Marie.
+    answers:
+      "1": Er
+      "2": Sie
+      "3": Sie
+      "4": Sie
+      "5": ihr
+      "6": wir
+      "7": du
+      "8": Er
+      "9": Sie
+      "10": Ich
+
+  - id: A8
+    block: A
+    type: free-write
+    title: "Substitution drill"
+    prompt: "Rewrite the sentence with the new subject."
+    stimulus: |
+      Example: Ich wohne in Berlin. (du) → Du wohnst in Berlin.
+
+      1. Ich wohne in Berlin. (du)
+      2. Du kommst aus Italien. (er)
+      3. Er spricht Englisch. (wir)
+      4. Wir heißen Müller. (ihr)
+      5. Ihr seid im Kurs A1. (ich)
+      6. Sie sind aus der Schweiz. (du)
+      7. Ich spreche ein bisschen Deutsch. (Frau Lang)
+      8. Du bist sehr nett. (ihr)
+    model: |
+      1. Du wohnst in Berlin.
+      2. Er kommt aus Italien.
+      3. Wir sprechen Englisch.
+      4. Ihr heißt Müller.
+      5. Ich bin im Kurs A1.
+      6. Du bist aus der Schweiz.
+      7. Frau Lang spricht ein bisschen Deutsch.
+      8. Ihr seid sehr nett.
+
+  - id: A9
+    block: A
+    type: free-write
+    title: "du oder Sie?"
+    prompt: "Decide du or Sie, then write the question."
+    stimulus: |
+      Ask the name of:
+      1. a child →
+      2. your boss →
+      3. a fellow student in your course →
+      4. an official at the Bürgeramt →
+      5. your friend's brother →
+      6. an elderly stranger →
+
+      And:
+      7. Ask your boss where he is from. →
+      8. Ask a classmate which languages she speaks. →
+    model: |
+      1. Wie heißt du? (du)
+      2. Wie heißen Sie? (Sie)
+      3. Wie heißt du? *(fellow students use du)*
+      4. Wie heißen Sie? (Sie)
+      5. Wie heißt du? (du)
+      6. Wie heißen Sie? (Sie)
+      7. Woher kommen Sie?
+      8. Welche Sprachen sprichst du?
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "W-Wörter: wo, woher, wie, wer, was, welche"
+    instructions: "Fill in the correct W-Wort. 10 items."
+    text: |
+      1. {1} heißt du?
+      2. {2} kommst du?
+      3. {3} wohnen Sie?
+      4. {4} ist das? — Das ist mein Lehrer.
+      5. {5} Sprachen sprichst du?
+      6. {6} bitte? (= Pardon?)
+      7. {7} ist Ihr Name?
+      8. {8} kommt Frau Sato?
+      9. {9} wohnt Bruno?
+      10. {10} sprichst du — Englisch oder Deutsch?
+    answers:
+      "1": Wie
+      "2": Woher
+      "3": Wo
+      "4": Wer
+      "5": Welche
+      "6": Wie
+      "7": Wie
+      "8": Woher
+      "9": Wo
+      "10": Was
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Zahlen"
+    instructions: "Write as words (0, 2, 5, 8, 13, 14, 15, 18, 19), then as digits (sechzehn, zwölf, siebzehn). 12 items."
+    text: |
+      Write as words:
+      1. 0 = {1}
+      2. 2 = {2}
+      3. 5 = {3}
+      4. 8 = {4}
+      5. 13 = {5}
+      6. 14 = {6}
+      7. 15 = {7}
+      8. 18 = {8}
+      9. 19 = {9}
+
+      Write as digits:
+      10. sechzehn = {10}
+      11. zwölf = {11}
+      12. siebzehn = {12}
+    answers:
+      "1": "null"
+      "2": zwei
+      "3": fünf
+      "4": acht
+      "5": dreizehn
+      "6": vierzehn
+      "7": fünfzehn
+      "8": achtzehn
+      "9": neunzehn
+      "10": "16"
+      "11": "12"
+      "12": "17"
+
+  - id: A12
+    block: A
+    type: free-write
+    title: "Buchstabieren"
+    prompt: "Decode the spelled names (1–3) and spell the words out loud (4–6)."
+    stimulus: |
+      Decode:
+      1. em – a – er – i – e →
+      2. jot – o – en – a – es →
+      3. el – u – ka – a – es →
+
+      Spell out loud:
+      4. BERLIN →
+      5. WIEN →
+      6. your own surname →
+    model: |
+      1. MARIE
+      2. JONAS
+      3. LUKAS
+      4. be – e – er – el – i – en
+      5. we – i – e – en
+      6. (your own — say it out loud until fluent; you'll need it at every Amt)
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Dialog ergänzen (informal)"
+    instructions: "Fill in the 8 blanks with the correct form."
+    text: |
+      — Hallo! Ich heiße Lena. Und wie {1} du?
+      — {2}, Lena! Ich bin Marco.
+      — Woher {3} du, Marco?
+      — Ich {4} aus Italien. Und du?
+      — Ich komme aus Deutschland, aus Köln. Aber ich {5} jetzt in Bonn.
+      — Welche Sprachen {6} du?
+      — Italienisch, Englisch und ein {7} Deutsch.
+      — Super! {8} bald!
+    bank: [heißt, Hallo, kommst, komme, wohne, sprichst, bisschen, Bis]
+    answers:
+      "1": heißt
+      "2": Hallo
+      "3": kommst
+      "4": komme
+      "5": wohne
+      "6": sprichst
+      "7": bisschen
+      "8": Bis
+
+  - id: B2
+    block: B
+    type: gap-bank
+    title: "Dialog ergänzen (formal)"
+    instructions: "Fill in the 8 blanks with the correct form."
+    text: |
+      — Guten Tag! Mein {1} ist Schneider. Wie heißen {2}?
+      — Guten Tag, Frau Schneider. {3} heiße Pavel Novak.
+      — Entschuldigung, wie {4}? Buchstabieren Sie bitte.
+      — N-O-V-A-K.
+      — Danke. {5} kommen Sie, Herr Novak?
+      — Ich komme {6} Tschechien.
+      — Und wo {7} Sie jetzt?
+      — In Dresden.
+      — {8} in Deutschland, Herr Novak!
+    bank: [Name, Sie, Ich, bitte, Woher, aus, wohnen, Willkommen]
+    answers:
+      "1": Name
+      "2": Sie
+      "3": Ich
+      "4": bitte
+      "5": Woher
+      "6": aus
+      "7": wohnen
+      "8": Willkommen
+
+  - id: B3
+    block: B
+    type: free-write
+    title: "Finde den Fehler"
+    prompt: "Each sentence has exactly one mistake. Correct it."
+    stimulus: |
+      1. Ich heißt Anna.
+      2. Woher wohnst du?
+      3. Du sprechst Deutsch.
+      4. Ich komme in Brasilien.
+      5. Wir bin im Deutschkurs.
+      6. Wie heißen du?
+      7. Er wohne in Berlin.
+      8. Ihr sind aus Spanien.
+      9. Ich spreche ein bisschen deutsch.
+      10. Kommst aus Italien du?
+    model: |
+      1. Ich heiße Anna. (ich-form)
+      2. Wo wohnst du? (or: Woher kommst du? — woher pairs with kommen, wo with wohnen)
+      3. Du sprichst Deutsch. (e → i)
+      4. Ich komme aus Brasilien. (origin = aus)
+      5. Wir sind im Deutschkurs.
+      6. Wie heißt du?
+      7. Er wohnt in Berlin.
+      8. Ihr seid aus Spanien.
+      9. Ich spreche ein bisschen Deutsch. (language names are capitalized)
+      10. Kommst du aus Italien? (yes/no question: verb first, subject second)
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    instructions: "Match each question (1–8) with the correct answer (a–h)."
+    left:
+      - { key: "1", text: "Wie heißt du?" }
+      - { key: "2", text: "Woher kommen Sie?" }
+      - { key: "3", text: "Wo wohnst du?" }
+      - { key: "4", text: "Welche Sprachen sprichst du?" }
+      - { key: "5", text: "Wer ist das?" }
+      - { key: "6", text: "Bist du aus Österreich?" }
+      - { key: "7", text: "Wie bitte? Buchstabieren Sie." }
+      - { key: "8", text: "Sind Sie Frau Weber?" }
+    right:
+      - { key: a, text: "In Hamburg." }
+      - { key: b, text: "Das ist mein Lehrer." }
+      - { key: c, text: "S-T-E-I-N-M-E-Y-E-R." }
+      - { key: d, text: "Ich heiße Paula." }
+      - { key: e, text: "Ja, das bin ich." }
+      - { key: f, text: "Aus Brasilien." }
+      - { key: g, text: "Spanisch und Deutsch." }
+      - { key: h, text: "Nein, aus der Schweiz." }
+    answers:
+      "1": d
+      "2": f
+      "3": a
+      "4": g
+      "5": b
+      "6": h
+      "7": c
+      "8": e
+
+  - id: B5
+    block: B
+    type: free-write
+    title: "Satzbau (word order)"
+    prompt: "Build correct sentences. Verb in position 2 (statements) or position 1 (yes/no questions)."
+    stimulus: |
+      1. heiße – ich – Anna
+      2. du – woher – kommst – ?
+      3. in – Berlin – wohne – ich – jetzt
+      4. Sie – Frau Weber – sind – ? (yes/no question!)
+      5. ein bisschen – spreche – Deutsch – ich
+      6. kommt – Brasilien – Bruno – aus
+      7. Sprachen – welche – du – sprichst – ?
+      8. ist – das – wer – ?
+      9. sehr gut – spricht – Deutsch – Frau Lang
+      10. Sie – woher – kommen – ?
+    model: |
+      1. Ich heiße Anna.
+      2. Woher kommst du?
+      3. Ich wohne jetzt in Berlin.
+      4. Sind Sie Frau Weber?
+      5. Ich spreche ein bisschen Deutsch.
+      6. Bruno kommt aus Brasilien.
+      7. Welche Sprachen sprichst du?
+      8. Wer ist das?
+      9. Frau Lang spricht sehr gut Deutsch.
+      10. Woher kommen Sie?
+
+  - id: B6
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Länder, Sprachen, Personen"
+    instructions: "Complete the table. 8 items."
+    text: |
+      1. Brasilien — Sprache: {1}
+      2. {2} — Sprache: Französisch
+      3. Italien — Sprache: Italienisch — Person (m): {3}
+      4. {4} — Sprache: Türkisch — Person (m): der Türke
+      5. Spanien — Sprache: {5} — Person (m): der Spanier
+      6. Japan — Sprache: Japanisch — Person (m): {6}
+      7. {7} — Sprache: Englisch — Person (m): der Engländer
+      8. Österreich — Sprache: {8} — Person (m): der Österreicher
+    answers:
+      "1": Portugiesisch
+      "2": Frankreich
+      "3": "der Italiener"
+      "4": "die Türkei"
+      "5": Spanisch
+      "6": "der Japaner"
+      "7": England
+      "8": Deutsch
+
+  - id: B7
+    block: B
+    type: categorize
+    title: "Begrüßung oder Abschied?"
+    instructions: 'Sort the 10 expressions into the two columns. Mark each as formal (F), informal (I) or both (F/I).'
+    buckets:
+      - { key: begruessung, label: "Begrüßung (greeting)" }
+      - { key: abschied, label: "Abschied (farewell)" }
+    tokens:
+      - { text: "Hallo (I)", bucket: begruessung }
+      - { text: "Tschüss (I)", bucket: abschied }
+      - { text: "Guten Morgen (F/I)", bucket: begruessung }
+      - { text: "Auf Wiedersehen (F)", bucket: abschied }
+      - { text: "Grüß Gott (F/I, Süden)", bucket: begruessung }
+      - { text: "Bis morgen (F/I)", bucket: abschied }
+      - { text: "Servus (I, Süden) — works as both, either column if (I)", bucket: begruessung }
+      - { text: "Gute Nacht (F/I, before sleep)", bucket: abschied }
+      - { text: "Guten Abend (F/I)", bucket: begruessung }
+      - { text: "Bis bald (F/I)", bucket: abschied }
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "W-Fragen schreiben"
+    prompt: "Write the question that fits the answer. Use du-form unless marked (Sie)."
+    stimulus: |
+      1. ? — Ich heiße Sandra.
+      2. ? — Ich komme aus Brasilien.
+      3. ? — Ich wohne in Leipzig.
+      4. ? — Ich spreche Portugiesisch und Deutsch.
+      5. ? (Sie) — Mein Name ist Hoffmann.
+      6. ? — Das ist meine Lehrerin, Frau Schmidt.
+      7. ? (Sie) — Ich komme aus Japan.
+    model: |
+      1. Wie heißt du? (or: Wer bist du?)
+      2. Woher kommst du?
+      3. Wo wohnst du?
+      4. Welche Sprachen sprichst du? (or: Was sprichst du?)
+      5. Wie heißen Sie? (or: Wie ist Ihr Name?)
+      6. Wer ist das?
+      7. Woher kommen Sie?
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Stell dich vor!"
+    prompt: "Du bist im Deutschkurs und stellst dich einem neuen Kursmitglied vor. Schreib 3–4 Sätze über dich selbst: dein Name, woher du kommst, wo du wohnst, und welche Sprachen du sprichst."
+    use:
+      - "a greeting + name (Hallo! Ich heiße …)"
+      - "at least 1 sentence with sein (Ich bin … Jahre alt. / Ich bin Student.)"
+      - "at least 1 sentence with kommen aus (Ich komme aus …)"
+      - "at least 1 sentence with wohnen in (Ich wohne in … / Ich wohne jetzt in …)"
+      - "a closing (Freut mich! / Schön, dich kennenzulernen!)"
+    selfCheck:
+      - "Did I use the correct sein-form for ich and du? (ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind)"
+      - "Did I use aus (not in) for origin and in (not aus) for current residence?"
+      - "Did I keep the verb in position 2 in every sentence?"
+    model: |
+      Hallo! Ich heiße Anna. Ich komme aus Russland, aus Jaroslawl,
+      aber ich wohne jetzt in Berlin. Ich bin 24 Jahre alt und
+      studiere Medizin. Ich spreche Russisch, Englisch und ein
+      bisschen Deutsch. Schön, dich kennenzulernen!
+
   # ── Block C — Prüfungstraining ───────────────────────────────────────────
 
   - id: C1
@@ -188,3 +792,242 @@ exercises:
           - { key: c, text: "kommt" }
         answer: c
         why: "er/sie/es-Form: kommt."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once."
+    text: |
+      — Guten Morgen! Ich {1} Frau Müller von der Sprachschule. {2}
+      heißen Sie?
+      — Guten Morgen! Mein Name {3} Akin Yilmaz.
+      — {4} kommen Sie, Herr Yilmaz?
+      — Ich komme {5} der Türkei. Ich wohne jetzt {6} Köln.
+      — Welche Sprachen {7} Sie?
+      — Türkisch, Englisch und ein bisschen Deutsch. Meine Frau und ich, wir
+      {8} im Kurs A1.
+      — Sehr gut! Und wie {9} Ihre Frau?
+      — Sie heißt Elif.
+      — {10} schön, Herr Yilmaz. Bis Montag!
+    bank: [AUS, BIN, BIS, BIST, DANKE, HEISST, IHR, IN, IST, NICHT, SIND, SPRECHEN, WER, WIE, WOHER]
+    answers:
+      "1": BIN
+      "2": WIE
+      "3": IST
+      "4": WOHER
+      "5": AUS
+      "6": IN
+      "7": SPRECHEN
+      "8": SIND
+      "9": HEISST
+      "10": DANKE
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Yuki-Lesetext)"
+    instructions: 'Read the Yuki text in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    items:
+      - q: "Yuki kommt aus China."
+        answer: false
+        why: "Yuki kommt aus Japan (Osaka), nicht aus China."
+      - q: "Sie wohnt in München."
+        answer: false
+        why: "Sie wohnt in Berlin, nicht in München."
+      - q: "Yuki spricht sehr gut Deutsch."
+        answer: false
+        why: "Sie spricht ein bisschen Deutsch (and not very well yet)."
+      - q: "Die Lehrerin kommt aus Hamburg."
+        answer: true
+        why: "Die Lehrerin kommt aus Hamburg."
+      - q: "Im Kurs sind zwanzig Personen."
+        answer: true
+        why: "elf Frauen + neun Männer = zwanzig."
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Forumspost)"
+    instructions: |
+      > Hallo zusammen! Ich bin neu hier im Forum. Ich heiße Lukas Meier und komme aus
+      > der Schweiz, aus Zürich. Ich spreche Deutsch und Französisch. Meine Frau kommt
+      > aus Spanien. Sie heißt Carmen und spricht Spanisch, Englisch und Deutsch.
+      > Wir wohnen jetzt in Basel. Carmen lernt Deutsch. Der Deutschkurs ist gut!
+
+      Wähle a, b oder c.
+    items:
+      - q: "Lukas kommt aus …"
+        options:
+          - { key: a, text: "Österreich" }
+          - { key: b, text: "der Schweiz" }
+          - { key: c, text: "Spanien" }
+        answer: b
+        why: '„Ich heiße Lukas Meier und komme aus der Schweiz, aus Zürich".'
+      - q: "Carmen spricht …"
+        options:
+          - { key: a, text: "drei Sprachen" }
+          - { key: b, text: "zwei Sprachen" }
+          - { key: c, text: "nur Spanisch" }
+        answer: a
+        why: '„Sie … spricht Spanisch, Englisch und Deutsch" (3 Sprachen).'
+      - q: "Lukas und Carmen wohnen in …"
+        options:
+          - { key: a, text: "Zürich" }
+          - { key: b, text: "Madrid" }
+          - { key: c, text: "Basel" }
+        answer: c
+        why: '„Wir wohnen jetzt in Basel".'
+      - q: "Wer lernt Deutsch?"
+        options:
+          - { key: a, text: "Lukas" }
+          - { key: b, text: "Carmen" }
+          - { key: c, text: "Lukas und Carmen" }
+        answer: b
+        why: '„Carmen lernt Deutsch".'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben"
+    prompt: "Write your own introduction (5–7 sentences). Include: greeting · name · origin (country + city) · where you live now · languages · one sentence about your German course or your goal."
+    use:
+      - "greeting"
+      - "name"
+      - "origin (country + city)"
+      - "where you live now"
+      - "languages"
+      - "one sentence about the German course or your goal"
+    selfCheck:
+      - "Did I keep the verb in position 2 in every sentence?"
+      - "Did I use aus (not in) for origin and in (not aus) for current city?"
+      - "Are language names capitalized?"
+      - "Did I use the right form of sprechen (e → i) when talking about someone else?"
+    model: |
+      Hallo! Ich heiße Friedrich und ich komme aus Deutschland, aus Berlin. Jetzt wohne
+      ich in Berlin. Ich spreche Portugiesisch, Englisch und ein bisschen Deutsch.
+      Mein Deutschkurs ist super. Mein Ziel: Deutsch auf C1!
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per item. No notes. 15 items."
+    text: |
+      1. Formal "What is your name?" → {1}
+      2. „Ich komme {2} der Schweiz." (preposition + article)
+      3. sein, ihr-form: ihr {3}
+      4. *Where do you live?* uses (wo / woher): {4}
+      5. 16 in words: {5}
+      6. „{6} bitte?" (= Pardon?)
+      7. sprechen, du-form: du {7}
+      8. Goodbye, formal: {8}
+      9. Verb position in a W-question: position {9}
+      10. „Das ist Maria. {10} kommt aus Italien." (pronoun)
+      11. Verb position in a yes/no question: position {11}
+      12. „Wir kommen {12} den USA." (preposition)
+      13. kommen, ihr-form: ihr {13}
+      14. „Servus!" sagt man in: a) Norddeutschland b) Bayern und Österreich → {14}
+      15. „{15} ihr aus Italien?" (sein)
+    answers:
+      "1": "Wie heißen Sie? / Wie ist Ihr Name?"
+      "2": "aus"
+      "3": seid
+      "4": wo
+      "5": sechzehn
+      "6": Wie
+      "7": sprichst
+      "8": "Auf Wiedersehen!"
+      "9": "2"
+      "10": Sie
+      "11": "1"
+      "12": "aus"
+      "13": kommt
+      "14": b
+      "15": Seid
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Wortschatz-Check: odd one out"
+    instructions: "Cross out the word that doesn't fit."
+    groups:
+      - items: [Hallo, "Guten Tag", Tschüss, "Guten Morgen"]
+        odd: 2
+        why: "Tschüss is a farewell, not a greeting."
+      - items: [Deutsch, Spanien, Englisch, Türkisch]
+        odd: 1
+        why: "Spanien is a country, not a language."
+      - items: [wohnen, kommen, heißen, Land]
+        odd: 3
+        why: "Land is a noun, not a verb."
+      - items: [du, Sie, ich, und]
+        odd: 3
+        why: "und is a conjunction, not a pronoun."
+      - items: [elf, zwölf, nett, sieben]
+        odd: 2
+        why: "nett is an adjective, not a number."
+      - items: [wer, wo, gut, woher]
+        odd: 2
+        why: "gut is an adjective, not a W-word."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion 2. Below that: redo Block A tomorrow (especially the verb tables A1–A6), then retake this Selbsttest before moving on."
+    text: |
+      **Verb forms (write the form):**
+      1. ich (sein) → {1}
+      2. du (heißen) → {2}
+      3. er (sprechen) → {3}
+      4. wir (kommen) → {4}
+      5. ihr (sein) → {5}
+      6. Sie (wohnen) → {6}
+
+      **Questions:**
+      7. „{7} kommst du?"
+      8. „{8} wohnst du?"
+      9. „{9} Sprachen sprechen Sie?"
+      10. Formal "What's your name?": {10}
+
+      **Numbers:**
+      11. 14 → {11}
+      12. 16 → {12}
+      13. zwölf → {13} (digit)
+
+      **Vocabulary:**
+      14. Frankreich → language: {14}
+      15. die Türkei → language: {15}
+
+      **Sentences:**
+      16. heiße – Lukas – ich → {16}
+      17. kommst – woher – du → {17}?
+      18. Greeting at 19:00: {18}
+      19. „Ich komme aus {19} Schweiz."
+      20. Informal goodbye: {20}
+    answers:
+      "1": bin
+      "2": heißt
+      "3": spricht
+      "4": kommen
+      "5": seid
+      "6": wohnen
+      "7": Woher
+      "8": Wo
+      "9": Welche
+      "10": "Wie heißen Sie? / Wie ist Ihr Name?"
+      "11": vierzehn
+      "12": sechzehn
+      "13": "12"
+      "14": Französisch
+      "15": Türkisch
+      "16": "Ich heiße Lukas."
+      "17": "Woher kommst du?"
+      "18": "Guten Abend!"
+      "19": "der"
+      "20": "Tschüss! (also: Bis bald!)"
