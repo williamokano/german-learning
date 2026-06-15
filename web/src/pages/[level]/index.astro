@@ -29,9 +29,12 @@ const sorted = lessons
       body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1rem; }
       nav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
       ul { list-style: none; padding: 0; margin-top: 1.5rem; }
-      li a { display: block; padding: 0.5rem 0.75rem; border-radius: 6px; color: #1a1a1a; text-decoration: none; }
+      li { display: flex; align-items: center; gap: 0.5rem; }
+      li a { flex: 1; display: block; padding: 0.5rem 0.75rem; border-radius: 6px; color: #1a1a1a; text-decoration: none; }
       li a:hover { background: #eff6ff; }
       .slug { color: #6b7280; font-size: 0.85rem; margin-left: 0.5rem; }
+      .btn-uebungen { padding: 0.3rem 0.75rem; border: 1.5px solid #2563eb; border-radius: 6px; color: #2563eb; text-decoration: none; font-size: 0.8rem; white-space: nowrap; }
+      .btn-uebungen:hover { background: #eff6ff; }
     </style>
   </head>
   <body>
@@ -44,6 +47,7 @@ const sorted = lessons
             {slug.replace(/^\d+-/, '').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}
             <span class="slug">{slug}</span>
           </a>
+          <a class="btn-uebungen" href={`${base}/${level}/${slug}/uebungen/`}>Übungen →</a>
         </li>
       ))}
     </ul>
