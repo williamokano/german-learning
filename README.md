@@ -8,9 +8,12 @@ Menschen / Schritte international neu (Hueber) and Sicher! / Aspekte neu.
 - **[CURRICULUM.md](CURRICULUM.md)** — the full A1→C1 topic map (start here as a learner)
 - **[AUTHORING.md](AUTHORING.md)** — the lesson production spec (for writing/dispatching lessons)
 - **[MEMORY.md](MEMORY.md)** — the orchestrator's working memory: in-flight work, recent decisions, subagent quality notes. **Always update this at the end of every session** — include what was done, what's next, and a per-lesson checklist so the next agent can resume without re-reading everything.
-- **[tasks/todo.md](tasks/todo.md)** — dispatch board with one work item per lesson
+- **[GitHub issues](https://github.com/williamokano/german-learning/issues)** — the dispatch board (replaced `tasks/todo.md` on 2026-06-15):
+  - **B1 master:** issue #47 (14 sub-issues #50–#63)
+  - **B2 master:** issue #48 (14 sub-issues #64–#77)
+  - **C1 master:** issue #49 (12 sub-issues #78–#89)
 - **[tasks/lessons.md](tasks/lessons.md)** — long-term conventions log (the "rules for ourselves" file)
-- **[personas/](personas/)** — character bible: name, nationality, voice, family for every recurring character
+- **`personas/`** — character bible: name, nationality, voice, family for every recurring character
 - **`A1/`, `A2/`, …** — one folder per topic:
   - `lesson.md` — the class (dialogues, vocabulary, grammar, phrases)
   - `exercises.yml` — single source of truth for the H/A/B/C/D exercise
