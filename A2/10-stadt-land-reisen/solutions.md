@@ -1,281 +1,169 @@
-# A2 · Lektion 10 — Lösungen (Solutions)
-
-Blocks in order: H → A → B → C → D.
+# A2 · Lektion 10 — Lösungen (Lösungen (Answer key))
 
 ---
 
-# Block H
+# Block H — Hören
 
-## H1a — Dialog Hör-Check: Dialog A
+## Übung H1a — Dialog Hör-Check: Dialog A (informell)
 
-1. **F** — Anna und Bruno planen einen **Kurztrip nach Hamburg**, nicht nach Berlin.
-2. **R** — Bruno: „ich wäre gerne am Meer."
-3. **R** — Bruno: „Ich habe ein günstiges Hotel gefunden."
-4. **R** — Bruno: „direkt am Hafen, neben dem Fischmarkt."
-5. **R** — Bruno: „Mit dem Zug von Berlin nach Hamburg."
+1. **F** — Sie planen einen Kurztrip nach Hamburg, nicht nach Berlin.
+2. **R** — Bruno: „ich wäre gerne am Meer".
+3. **R** — Bruno: „Ich habe ein günstiges Hotel gefunden".
+4. **R** — Bruno: „direkt am Hafen, neben dem Fischmarkt".
+5. **R** — Bruno: „Mit dem Zug von Berlin nach Hamburg".
 
-## H1b — Dialog Hör-Check: Dialog B
+## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) ein Einzelzimmer reservieren** — Frau Weber: „Für eine Person."
-2. **b) dritten Stock** — Rezeptionistin: „im dritten Stock, über dem Restaurant."
-3. **a) gegenüber dem Bahnhof** — Rezeptionistin: „Wir liegen direkt gegenüber vom Bahnhof."
-4. **c) mit dem Zug** — Frau Weber: „Ich komme mit dem Zug an."
+1. **b) ein Einzelzimmer reservieren** — Frau Weber: „Für eine Person".
+2. **b) dritten Stock** — Rezeptionistin: „im dritten Stock, über dem Restaurant".
+3. **a) gegenüber dem Bahnhof** — Rezeptionistin: „Wir liegen direkt gegenüber vom Bahnhof".
+4. **c) mit dem Zug** — Frau Weber: „Ich komme mit dem Zug an".
 
-## H3 — Hörtext-Lückentext
+## Übung H3 — Hörtext-Lückentext
 
-Complete Hörtext:
+1. **nach**  2. **am**  3. **vom**  4. **auf**  5. **über**  6. **ins**
 
-> Yuki ist heute von München **nach** Salzburg gefahren. Sie ist mit
-> dem Zug gefahren und **am** Hauptbahnhof angekommen. **Vom** Bahnhof
-> aus ist sie zu Fuß in die Altstadt gegangen. Dort hat sie den
-> Marktplatz besucht und ist **auf** die Festung Hohensalzburg
-> gestiegen. Die Festung liegt hoch oben **über** der Stadt. Von oben
-> konnte man weit **ins** Tal sehen. Am Abend ist Yuki mit dem Zug
-> zurück nach München gefahren.
+## Übung H4 — Kurze Ansage: Durchsage am Flughafen
 
-Word bank in gap order: **nach · am · vom · auf · über · ins**.
-*Not needed: in · zu · aus.*
-
-## H4 — Kurze Ansage: Durchsage am Flughafen
-
-1. **b) LH 401 von Berlin nach Lissabon** — „Der Flug LH 401 von Berlin nach Lissabon hat eine Verspätung."
-2. **b) Zwei Stunden** — „hat eine Verspätung von zwei Stunden."
-3. **c) Um sechzehn Uhr dreißig** — „Der neue Abflug ist um sechzehn Uhr dreißig, nicht wie geplant um vierzehn Uhr dreißig."
-4. **b) Gate B 17** — „Passagiere dieses Fluges finden Sie am Gate B 17."
+1. **b) LH 401 von Berlin nach Lissabon.** — „Der Flug LH 401 von Berlin nach Lissabon hat eine Verspätung".
+2. **b) Zwei Stunden.** — „hat eine Verspätung von zwei Stunden".
+3. **c) Um sechzehn Uhr dreißig.** — „Der neue Abflug ist um sechzehn Uhr dreißig".
+4. **b) Gate B 17.** — „Passagiere dieses Fluges finden Sie am Gate B 17".
 
 ---
 
-# Block A
+# Block A — Basistraining
 
-## A1 — Wo? / Wohin?
+## Übung A1 — Wo? oder Wohin? (Dativ oder Akkusativ)
 
-| Preposition | Wo? (Dativ) | Wohin? (Akkusativ) |
-|---|---|---|
-| in | **im** (in dem) | **ins** (in das) |
-| an | **am** (an dem) | **ans** (an das) |
-| auf | **auf dem** (no contraction) | **auf das** (no contraction) |
-| in (Stadt) | **in** (+ Dat) | **in** (+ Akk) |
-| an (Fluss) | **an** (+ Dat) | **an** (+ Akk) |
+1. **im**  2. **ins**  3. **am**  4. **ans**  5. **auf dem**  6. **auf das**  7. **in**  8. **in**  9. **an**  10. **an**
 
-⚠️ Only **in** and **an** contract: in + dem = im, in + das = ins, an + dem = am, an + das = ans. **auf** does NOT contract with dem/das.
+## Übung A2 — Lückentest: Wo? / Wohin? / Woher?
 
-## A2 — Wo? / Wohin? / Woher?
+1. **Wohin**  2. **Wo**  3. **Woher**  4. **Wo**  5. **Wohin**  6. **Wo**  7. **Wohin**  8. **Wo**
 
-1. **Wohin** — fährst du…? (direction to a place)
-2. **Wo** — wohnst du…? (location)
-3. **Woher** — kommst du…? (origin)
-4. **Wo** — liegt das Hotel? (location)
-5. **Wohin** — gehst du…? (direction)
-6. **Wo** — ist Anna? (location)
-7. **Wohin** — fliegt ihr…? (direction)
-8. **Wo** — lernst du…? (location)
+## Übung A3 — Städte und Länder: nach / in + Akk / aus + Dat
 
-## A3 — Städte und Länder
+1. **nach**  2. **aus**  3. **nach**  4. **in**  5. **aus**  6. **in die**  7. **aus**  8. **zum**  9. **in**  10. **in den**
 
-1. **nach** (cities: nach + city name)
-2. **aus** (origin from a city: aus + city)
-3. **nach** (countries without article: nach)
-4. **in** (location in a city: in + city)
-5. **aus** (origin from a country: aus)
-6. **in die** (countries with article: in + Akk)
-7. **aus** (origin from plural country: aus)
-8. **zu** (motion to a place: zu + Dat, "zum Bahnhof" with contraction)
-9. **in** (location in a country with article: in + Dat)
-10. **in den** (direction to a country with article: in + Akk)
+## Übung A4 — Länder mit Artikel: in / aus + den / die / das
 
-⚠️ #8: „Ich gehe **zum** Bahnhof" (zu dem Bahnhof). The text shows "den Bahnhof" because the article in "zu dem" can be replaced by the contracted form; the test is the preposition **zu** (motion to a place, takes Dativ).
+1. **in die**  2. **aus den**  3. **in der**  4. **aus dem**  5. **in die**  6. **im**  7. **aus der**  8. **in der**
 
-## A4 — Länder mit Artikel
+## Übung A5 — Reiseverben: Partizip II
 
-1. **in die** (Schweiz — feminine, in + Akk for direction)
-2. **aus den** (USA — plural, aus + Dat for origin)
-3. **in der** (Türkei — feminine, in + Dat for location)
-4. **aus dem** (Irak — masculine, aus + Dat for origin)
-5. **in die** (Niederlande — plural, in + Akk for direction)
-6. **im** (Iran — masculine, im = in dem, in + Dat for location)
-7. **aus der** (Ukraine — feminine, aus + Dat for origin)
-8. **in der** (Schweiz — feminine, in + Dat for location)
+1. **gereist**  2. **gebucht**  3. **reserviert**  4. **angekommen**  5. **abgefahren**  6. **umgestiegen**  7. **besichtigt**  8. **empfohlen**  9. **übernachtet**  10. **abgebogen**
 
-## A5 — Reiseverben: Partizip II
+## Übung A6 — Perfekt mit sein oder haben?
 
-| Verb | Partizip II | ge-? |
-|---|---|---|
-| reisen | gereist | ✓ |
-| buchen | gebucht | ✓ |
-| reservieren | reserviert | ✗ (-ieren) |
-| ankommen | angekommen | ✓ (separable) |
-| abfahren | abgefahren | ✓ (separable) |
-| umsteigen | umgestiegen | ✓ (separable) |
-| besichtigen | besichtigt | ✓ |
-| empfehlen | empfohlen | ✗ (inseparable emp-) |
-| übernachten | übernachtet | ✓ |
-| abbiegen | abgebogen | ✓ (separable, strong: ie → o) |
+1. **sind**  2. **hat**  3. **ist**  4. **habe**  5. **hat**  6. **sind**  7. **hat**  8. **ist**  9. **bin**  10. **haben**
 
-⚠️ `empfehlen` is a strong verb (e → o): empfehlen → empfohlen. It is also an inseparable verb (emp- prefix), so no ge-.
+## Übung A7 — Konjugations-Tabelle: reisen (Präsens)
 
-## A6 — Perfekt: sein oder haben?
+1. **reise**  2. **reist**  3. **reist**  4. **reisen**  5. **reist**  6. **reisen**
 
-1. **sind** (fahren → sein, motion)
-2. **hat** (buchen → haben, transitive)
-3. **ist** (ankommen → sein, motion/arrival)
-4. **habe** (übernachten → haben, no motion/change of state)
-5. **hat** (besichtigen → haben, transitive)
-6. **sind** (umsteigen → sein, motion)
-7. **hat** (empfehlen → haben, transitive)
-8. **ist** (abfahren → sein, motion/departure)
-9. **bin** (abbiegen → sein, motion/turning)
-10. **haben** (reservieren → haben, transitive)
+## Übung A8 — Die neun Wechselpräpositionen: Lückentest
 
-## A7 — Konjugation: reisen (Präsens)
+1. **am**  2. **auf den**  3. **in**  4. **gegenüber**  5. **über**  6. **unter**  7. **hinter**  8. **zur**
 
-| ich | du | er/sie/es | wir | ihr | sie/Sie |
-|---|---|---|---|---|---|
-| reise | reist | reist | reisen | reist | reisen |
+## Übung A9 — aus oder von?
 
-## A8 — Wechselpräpositionen
+1. **aus dem**  2. **aus**  3. **von**  4. **aus dem**  5. **aus**  6. **von**  7. **von**  8. **vom**
 
-1. **am** (an dem Hafen → am Hafen)
-2. **auf den** (Wohin? + masculine Akkusativ: auf den Tisch)
-3. **in** (Wo? + Dat: in einer kleinen Pension)
-4. **gegenüber** (gegenüber dem Hotel — auf der anderen Straßenseite specifies "opposite")
-5. **über** (über der Tür = above the door)
-6. **unter** (unter dem Bett = under the bed)
-7. **hinter** (hinter dem Sofa = behind the sofa)
-8. **zur** (zu der Post → zur Post)
+## Übung A10 — Reise-Sätze bilden
 
-⚠️ Only **in** and **an** contract with the article. **auf, über, unter, hinter, vor, neben, zwischen, gegenüber** do NOT contract.
+Modellantwort:
 
-## A9 — aus oder von?
+> 1. Wir fliegen morgen nach Italien.
+> 2. Anna hat ein Hotel in Berlin gebucht.
+> 3. Der Zug fährt um 10 Uhr von Gleis 3 ab.
+> 4. Ich möchte ein Zimmer reservieren.
+> 5. Wir kommen am Abend in Salzburg an.
+> 6. Er wohnt jetzt in der Schweiz.
 
-1. **aus** (origin from a place: aus dem Supermarkt)
-2. **aus** (origin from a country: aus Brasilien)
-3. **von** (origin from a person: von ihrer Schwester)
-4. **aus** (origin from an event/place: aus dem Konzert)
-5. **aus** (origin from a city: aus Osaka)
-6. **von** (origin from a person: von meiner Freundin)
-7. **von** (direction from a starting point: von hier aus)
-8. **vom** (origin from a place; "vom Arzt" = from the doctor's; contraction von + dem)
+## Übung A11 — Wegbeschreibung: Imperativ (Sie)
 
-⚠️ Use **aus** for permanent places/where you were located. Use **von** when coming from a person, an event, or a direction.
+1. **Gehen Sie geradeaus.**  2. **Biegen Sie links ab.**  3. **Nehmen Sie die zweite Straße rechts.**  4. **Gehen Sie bis zur Ampel.**  5. **Nehmen Sie den Bus.**  6. **Gehen Sie über die Brücke.**
 
-## A10 — Reise-Sätze bilden
+## Übung A12 — Gemischte Übung: Wo? / Wohin? / Woher?
 
-1. Wir fliegen morgen nach Italien.
-2. Anna hat ein Hotel in Berlin gebucht.
-3. Der Zug fährt um 10 Uhr von Gleis 3 ab. (also: fährt um 10 Uhr von Gleis 3)
-4. Ich möchte ein Zimmer reservieren.
-5. Wir kommen am Abend in Salzburg an.
-6. Er wohnt jetzt in der Schweiz.
-
-## A11 — Wegbeschreibung: Imperativ (Sie)
-
-1. **Gehen Sie geradeaus.**
-2. **Biegen Sie links ab.**
-3. **Nehmen Sie die zweite Straße rechts.**
-4. **Gehen Sie bis zur Ampel.**
-5. **Nehmen Sie den Bus.**
-6. **Gehen Sie über die Brücke.**
-
-⚠️ In imperative Sie-form, the verb is conjugated normally and the pronoun **Sie** stays. The verb is in position 1 (after the comma in the polite form): **Gehen Sie**…, **Biegen Sie**…, **Nehmen Sie**…
-
-## A12 — Gemischte Übung: Wo? / Wohin? / Woher?
-
-1. **gegenüber** (or **neben**) dem Bahnhof — Wo? (location)
-2. **in die** Alpen — Wohin? (direction)
-3. **bei** seiner Tante — Wo? (location; bei + Dat)
-4. **vom** Arzt — Woher? (origin; von + dem)
-5. **auf** den Stuhl — Wohin? (direction)
-6. **am** Meer — Wo? (location; an dem = am)
-7. **nach** Hause — Wohin? (direction; "nach Hause" = to home)
-8. **aus** Salzburg — Woher? (origin)
+1. **gegenüber**  2. **in die**  3. **bei**  4. **vom**  5. **auf den**  6. **am**  7. **nach**  8. **aus**
 
 ---
 
-# Block B
+# Block B — Vertiefung
 
-## B1 — Dialog: Im Hotel anrufen
+## Übung B1 — Dialog ergänzen: Im Hotel anrufen
 
-1. **reservieren** (Ich möchte ein Zimmer reservieren)
-2. **wann** (für wann? — asking about dates)
-3. **vom** (vom fünften — von + dem, contraction)
-4. **zum** (zum achten — zu + dem, contraction)
-5. **frei** (ein Einzelzimmer frei = available)
-6. **Wäre** (Wäre das recht? — Konjunktiv II from A2/09)
-7. **wo** (wo liegt das Hotel? — location question)
-8. **gegenüber** (gegenüber vom Bahnhof — opposite)
-9. **Vom** (Vom Bahnhof aus — from the station)
-10. **wie** (wie komme ich…? — how do I get)
-11. **vor** (vor dem Hotel — in front of the hotel)
-12. **ab** (fährt … ab — departs; separable verb, prefix at end)
+1. **reservieren**  2. **wann**  3. **vom**  4. **zum**  5. **frei**  6. **Wäre**  7. **wo**  8. **gegenüber**  9. **Vom**  10. **wie**  11. **vor**  12. **ab**
 
-## B2 — Finde den Fehler
+## Übung B2 — Finde den Fehler
 
-1. „Ich **wohne** in **der** Schweiz seit zwei Jahren." — Original uses "in die" (direction) but "seit" indicates duration of being there (location).
-2. „Wir fliegen **in den** Irak nächste Woche." — `Irak` has a definite article, so it's "in + Akk", not "nach".
-3. „Sie kommt aus **der** Türkei." — `Türkei` is feminine, takes "aus + Dat" → "aus der Türkei".
-4. „Ich gehe in **den** Bahnhof." — `gehen` is motion (Wohin? = Akkusativ), not location.
-5. „Er wohnt in **einer** kleinen Wohnung." — `wohnen` is location (Wo? = Dativ), not direction.
-6. „Das Hotel liegt zwischen **dem** Park und **dem** Museum." — `zwischen` is a Wechselpräposition; here it indicates location (Dativ for both objects).
-7. „Wir fahren ans Meer **im** Sommer." — Seasons as time expressions take `im` (= in dem), not `in den`.
-8. „Anna kommt **aus** Osaka." — Cities take `aus`, not `von`.
+Modellantwort:
 
-## B3 — Frage und Antwort verbinden
+> 1. Ich wohne in der Schweiz seit zwei Jahren. (seit = location = Wo? = in + Dat)
+> 2. Wir fliegen in den Irak nächste Woche. (Irak has article → in + Akk, not nach)
+> 3. Sie kommt aus der Türkei. (Türkei is feminine → aus + Dat)
+> 4. Ich gehe in den Bahnhof. (gehen = motion = Wohin? = Akkusativ)
+> 5. Er wohnt in einer kleinen Wohnung. (wohnen = location = Wo? = Dativ)
+> 6. Das Hotel liegt zwischen dem Park und dem Museum. (zwischen = location = Dativ on both)
+> 7. Wir fahren ans Meer im Sommer. (seasons take im = in dem)
+> 8. Anna kommt aus Osaka. (cities take aus, not von)
 
-1 → **b** (Wohin → Nach Spanien)
-2 → **c** (Wo wohnst du → Im Hotel)
-3 → **a** (Wo liegt → Direkt am Hafen)
-4 → **d** (Wie komme ich → Mit dem Zug)
-5 → **f** (Wann fährt → Um 14:30)
-6 → **e** (Wie war → Es war wunderschön)
+## Übung B3 — Frage und Antwort verbinden
 
-## B4 — Satzbau: Wegbeschreibung
+1 → b · 2 → c · 3 → a · 4 → d · 5 → f · 6 → e
 
-1. **Gehen Sie bitte geradeaus.**
-2. **Nehmen Sie die erste Straße links.** (also: **Nehmen Sie die erste links.**)
-3. **Das Hotel ist gegenüber vom Bahnhof.**
-4. **Nehmen Sie bitte die Straßenbahn.**
+## Übung B4 — Satzbau: Wegbeschreibung
 
-## B5 — Länder mit und ohne Artikel
+Modellantwort:
 
-| Länder ohne Artikel (mit „nach") | Länder mit Artikel (mit „in + Akk") |
-|---|---|
-| Brasilien | die Schweiz |
-| Japan | die Türkei |
-| Russland | die USA |
-| Deutschland | der Irak |
-| | die Niederlande |
-| | der Iran |
+> 1. Gehen Sie bitte geradeaus.
+> 2. Nehmen Sie die erste Straße links.
+> 3. Das Hotel ist gegenüber vom Bahnhof.
+> 4. Nehmen Sie bitte die Straßenbahn.
 
-## B6 — Übersetzen (EN → DE)
+## Übung B5 — Kategorien: Länder mit und ohne Artikel
 
-1. **Ich fahre in die Schweiz.** (also: Ich reise in die Schweiz.)
-2. **Sie kommt aus Berlin.**
-3. **Das Hotel liegt neben dem Bahnhof.** (also: Das Hotel ist neben dem Bahnhof.)
-4. **Wir fliegen morgen nach Japan.**
-5. **Wo ist der Marktplatz?**
-6. **Der Zug fährt um 9:30 ab.** (separable verb, prefix at end)
-7. **Ich möchte ein Zimmer reservieren.** (also: Ich würde gern ein Zimmer reservieren. — A2/09 polite)
-8. **Er wohnt in Wien.**
+**Länder ohne Artikel (mit „nach"):** **Brasilien**, **Japan**, **Russland**, **Deutschland**
+**Länder mit Artikel (mit „in + Akk"):** **Schweiz**, **Türkei**, **USA**, **Irak**, **Niederlande**, **Iran**
 
-## B7 — Den Weg beschreiben (model answer)
+## Übung B6 — Übersetzen (EN → DE)
+
+Modellantwort:
+
+> 1. Ich fahre in die Schweiz.
+> 2. Sie kommt aus Berlin.
+> 3. Das Hotel liegt neben dem Bahnhof.
+> 4. Wir fliegen morgen nach Japan.
+> 5. Wo ist der Marktplatz?
+> 6. Der Zug fährt um 9:30 ab.
+> 7. Ich möchte ein Zimmer reservieren.
+> 8. Er wohnt in Wien.
+
+## Übung B7 — Den Weg beschreiben
+
+Modellantwort:
 
 > Vom Bahnhof gehen Sie geradeaus bis zur ersten Ampel. Dann biegen Sie
 > links ab und gehen geradeaus weiter bis zur zweiten Ampel. Dort ist
-> der Marktplatz — biegen Sie rechts ab. Das Hotel "Zur Post" ist dann
+> der Marktplatz — biegen Sie rechts ab. Das Hotel „Zur Post" ist dann
 > gleich links, neben dem Museum.
 
-*(Any 5 of the listed expressions used in a coherent description are accepted.)*
+## Übung B8 — Antworten mit Hinweisen
 
-## B8 — Antworten mit Hinweisen
+Modellantwort:
 
-1. Ich fahre nach Spanien, ans Meer.
-2. Ich wohne in einer kleinen Wohnung in Kreuzberg.
-3. Das Hotel liegt direkt am Hafen, neben dem Fischmarkt.
-4. Sie können mit dem Bus, Linie 4, zum Bahnhof fahren.
-5. Der Zug fährt um 14:30 Uhr von Gleis 3 ab.
-6. Die Reise war wunderschön — das Wetter war toll!
+> 1. Ich fahre nach Spanien, ans Meer.
+> 2. Ich wohne in einer kleinen Wohnung in Kreuzberg.
+> 3. Das Hotel liegt direkt am Hafen, neben dem Fischmarkt.
+> 4. Sie können mit dem Bus, Linie 4, zum Bahnhof fahren.
+> 5. Der Zug fährt um 14:30 Uhr von Gleis 3 ab.
+> 6. Die Reise war wunderschön — das Wetter war toll!
 
-## B9 — Einen Ausflug beschreiben (model answer)
+## Übung B9a — Einen Ausflug beschreiben
+
+Modellantwort:
 
 > Letzten Sonntag habe ich einen Ausflug nach Hamburg gemacht. Ich bin
 > am frühen Morgen mit dem Zug gefahren und am Hauptbahnhof angekommen.
@@ -285,9 +173,9 @@ Word bank in gap order: **nach · am · vom · auf · über · ins**.
 > Am Abend bin ich müde, aber glücklich, zurück nach Berlin gefahren.
 > Hamburg ist wirklich eine tolle Stadt!
 
-*(Any 5–6 connected sentences about a day trip with at least 3 different location/direction prepositions are accepted.)*
+## Übung B9b — Mein Lieblingsort: Forenkommentar
 
-## B9 — Mein Lieblingsort: Forenkommentar (model answer)
+Modellantwort:
 
 > Hallo Maria! Mein Lieblingsort ist Kopenhagen. Die Stadt liegt
 > im Norden, direkt am Meer. Ich fahre jedes Jahr im Herbst
@@ -296,72 +184,51 @@ Word bank in gap order: **nach · am · vom · auf · über · ins**.
 > in einem kleinen Hotel in der Altstadt. Ich gehe gern auf den
 > Markt und in die Museen. LG, [Name]
 
-*(A correct reply: ≥1 Wo? (Dativ) sentence, ≥1 Wohin? (Akkusativ)
-sentence, ≥1 Woher? (aus + Dativ) sentence, ≥1 country name with
-correct preposition. Any equivalent is accepted.)*
+Selbstkorrektur:
+- [ ] Did I use the right case for Wo? (Dat) vs. Wohin? (Akk)?
+- [ ] Did I use contractions correctly (im, am, in die Schweiz, in den USA)?
+- [ ] Did I use nach (not in) for countries without article?
 
 ---
 
-# Block C
+# Block C — Prüfungstraining
 
-## C1 — Lückentext
+## Übung C1 — Lückentext
 
-1. **ist** (Letzten Sommer ist Anna nach Wien gefahren)
-2. **am** (am Hauptbahnhof angekommen)
-3. **zu** (zu Fuß in die Altstadt)
-4. **neben** (neben dem Stephansdom)
-5. **hat** (hat sie den Prater)
-6. **besucht** (besucht)
-7. **ist** (ist sie in ein Konzert gegangen)
-8. **Am** (Am Ende hat sie gesagt)
-9. **schöne** (eine schöne Stadt)
-10. **würde** (Sie würde gerne wiederkommen — Konjunktiv II from A2/09)
+1. **ist**  2. **am**  3. **zu**  4. **neben**  5. **hat**  6. **besucht**  7. **ist**  8. **Am**  9. **schöne**  10. **würde**
 
-## C2 — Sprachbausteine Teil 1
+## Übung C2 — Sprachbausteine Teil 1
 
-1. **a) nach** — cities use `nach`; "nach Wien"
-2. **c) Vom** — origin from a place: `von + dem` = `vom`; "Vom Flughafen"
-3. **a) zum** — `zu + dem` = `zum`; "zum Hotel"
-4. **a) am** — `an + dem` = `am`; "am Donaukanal" (masculine)
-5. **a) ins** — `in + das` = `ins`; "ins Museum"
-6. **a) Am** — `an + dem` = `am`; "Am Ende"
+1. **a) nach** — Cities without article → nach.
+2. **c) Vom** — Vom Flughafen (von + dem = vom, origin from place).
+3. **a) zum** — zum Hotel (zu + dem = zum, motion to a place).
+4. **a) am** — am Donaukanal (an + dem = am, location at the side of a waterway).
+5. **a) ins** — ins Museum (in + das = ins, motion into a neuter noun).
+6. **a) Am** — Am Ende (an + dem = am, time expression).
 
-## C3 — Sprachbausteine Teil 2
+## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Complete text:
+1. **FUHR**  2. **WOHNTE**  3. **BESUCHTE**  4. **Aß**  5. **GING**  6. **BESICHTIGTE**  7. **MACHTE**  8. **KAM**  9. **WUNDERBAR**  10. **ERLEBTE**
 
-> Letzten Sommer **fuhr** ich nach Wien. Ich **wohnte** in einem kleinen
-> Hotel direkt am Donaukanal — sehr zentral! Am ersten Tag **besuchte**
-> ich den Prater und **aß** ein Eis am Stand. Am zweiten Tag **ging** ich
-> in die Oper. Am dritten Tag **besichtigte** ich ein Museum und
-> **machte** viele Fotos. Am letzten Tag **kam** ich müde zu Hause an.
-> Die Reise war **wunderbar** — ich **erlebte** eine tolle Woche!
+## Übung C4a — Lesen Text 1 (Brunos Reisebericht)
 
-Word bank in gap order: **fuhr · wohnte · besuchte · aß · ging · besichtigte · machte · kam · wunderbar · erlebte**.
+1. **F** — Er ist mit dem Zug gefahren.
+2. **R** — „Das Hotel lag am Hafen, zwischen dem Fischmarkt und einem kleinen Park".
+3. **R** — „Am ersten Tag sind sie zuerst auf den Fischmarkt gegangen".
+4. **F** — Sie liegt auf einer kleinen Halbinsel im Hafen, nicht im Stadtzentrum.
+5. **R** — „Bruno würde Hamburg sofort wieder besuchen".
 
-*Not needed: geflogen · gereist · besucht · gegessen · geblieben · lachte · rief · schrieb · trank · wanderte.*
+## Übung C4b — Lesen Text 2 (Hotelbewertung)
 
-⚠️ The text is in **Präteritum** (simple past) throughout — a common style for written narratives in German. A2 students can recognize these forms even if they don't yet produce them. The bank uses the same Präteritum stems the student will see in B1/01 (formal study of Präteritum).
+1. **b) direkt am Bodensee** — „Das Hotel liegt direkt am Bodensee".
+2. **b) Zu Fuß vom Bahnhof** — „Wir sind mit dem Zug angereist und vom Bahnhof aus zu Fuß gegangen".
+3. **c) Im dritten Stock** — „Das Zimmer war im dritten Stock".
+4. **a) Eine Bootstour** — „am zweiten Tag eine Bootstour auf dem See gemacht".
+5. **b) Regnerisch** — „Leider hat es am letzten Tag geregnet".
 
-## C4 — Lesen
+## Übung C5 — Schreiben: Reisebericht
 
-**Text 1 — Brunos Reisebericht:**
-
-1. **F** — Er ist mit dem **Zug** gefahren.
-2. **R** — „Das Hotel lag am Hafen, zwischen dem Fischmarkt und einem kleinen Park."
-3. **R** — „Am ersten Tag sind sie zuerst auf den Fischmarkt gegangen."
-4. **F** — Die Elbphilharmonie liegt „auf einer kleinen Halbinsel **im Hafen**", nicht im Stadtzentrum.
-5. **R** — „Bruno würde Hamburg sofort wieder besuchen."
-
-**Text 2 — Hotelbewertung:**
-
-6. **b) direkt am Bodensee**
-7. **b) Zu Fuß vom Bahnhof**
-8. **c) Im dritten Stock**
-9. **a) Eine Bootstour**
-10. **b) Regnerisch** — „Leider hat es am letzten Tag geregnet"
-
-## C5 — Schreiben (Model Answer)
+Modellantwort:
 
 > Letzten Monat bin ich nach Wien gefahren. Ich bin mit dem Zug gefahren
 > und am Hauptbahnhof angekommen. Das Hotel lag direkt am Donaukanal,
@@ -372,78 +239,36 @@ Word bank in gap order: **fuhr · wohnte · besuchte · aß · ging · besichtig
 > Am letzten Tag bin ich mit dem Zug zurück nach Berlin gefahren. Die
 > Reise war wunderschön! Ich würde Wien gern noch einmal besuchen.
 
-**Self-check list:**
-- [ ] At least one **Wo?** preposition used (in + Dat, an + Dat, etc.)
-- [ ] At least one **Wohin?** preposition used (in + Akk, an + Akk, nach, etc.)
-- [ ] At least one country/city name with correct article (or none if no article)
-- [ ] Travel verbs in correct form (reiste, fuhr, bin … gefahren, etc.)
-- [ ] At least one Perfekt sentence and/or Präteritum form
+Selbstkorrektur:
+- [ ] Did I use Wohin? prepositions with Akkusativ for movement and Wo? prepositions with Dativ for location?
+- [ ] Did I use the correct preposition for the place name (city → in/nach, country)?
+- [ ] Does at least one sentence use a Wechselpräposition — with Dativ for where you stayed/were, and Akkusativ for where you went?
 
 ---
 
-# Block D
+# Block D — Wiederholung & Selbsttest
 
-## D1 — Schnelltest
+## Übung D1 — Gemischter Schnelltest
 
-1. **besucht** (A1/L11)
-2. **bekommen** (A2/L01 — inseparable `be-`, no ge-)
-3. **musste** (A2/L01 — Präteritum of müssen)
-4. **Wohin** (motion to a place)
-5. **Wo** (location: am Hafen)
-6. **angefangen** (A2/L02 — separable: an + ge + fangen)
-7. **dürfen** (A1/L07)
-8. **in die** (Schweiz — feminine country, direction)
-9. **aus** (origin from a city)
-10. **waren** (A1/L11 — `war` in plural: wir)
-11. **sind** (fahren → sein)
-12. **in den** (Iran — masculine country, direction)
-13. **danach** (A2/L01)
-14. **Könnten** (A2/L09 — Konjunktiv II polite)
-15. **Wie komme ich zum Bahnhof?**
+1. **besucht**  2. **bekommen**  3. **musste**  4. **Wohin**  5. **Wo**  6. **angefangen**  7. **dürfen**  8. **in die**  9. **aus**  10. **waren**  11. **sind**  12. **in den**  13. **danach**  14. **Könnten**  15. **Wie komme ich zum Bahnhof?**
 
-## D2 — Odd one out
+## Übung D2 — Odd one out
 
-1. **wohnen** — the only verb that does NOT describe traveling; the others are all travel verbs (fahren, fliegen, reisen).
-2. **der Marktplatz** — the only non-transport location; the others (Bahnhof, Flughafen, Haltestelle) are all transport hubs.
-3. **zwischen** — the only Wechselpräposition for "between"; the others (`nach`, `in die`, `aus`) are country/city prepositions.
-4. **angekommen** — the only Partizip II with `ge-` in the middle (separable verb ankommen → angekommen); the others (`reserviert`, `fotografiert`, `besichtigt`) are all `-ieren` verbs with no `ge-`.
-5. **auf den Tisch** — the only non-travel destination expression; the others (`am Hafen`, `in die Berge`, `ans Meer`) are all places you travel to.
-6. **übernachten** — the only verb that takes `haben` in the Perfekt; the others (ankommen, abfahren, umsteigen) are all motion verbs that take `sein`.
+1. ~~wohnen~~ — wohnen is the only verb that does not describe traveling.
+2. ~~der Marktplatz~~ — der Marktplatz is the only non-transport location; the others are all transport hubs.
+3. ~~zwischen~~ — zwischen is the only Wechselpräposition for 'between'; the others are country/city prepositions.
+4. ~~angekommen~~ — angekommen is the only Partizip II with ge- in the middle (separable verb); the others are -ieren verbs with no ge-.
+5. ~~auf den Tisch~~ — auf den Tisch is the only non-travel destination; the others are all travel destinations.
+6. ~~umsteigen~~ — übernachten is the only verb that takes haben in the Perfekt; the others are motion verbs that take sein.
 
-## D3 — Rückblick
+## Übung D3 — Rückblick: Lektionen 11, A2/01, A2/02, A2/09
 
-1. **(A1/L11) sein** — gehen takes sein in Perfekt (motion).
-2. **(A1/L11) hatte** — `hatte` for possession/state: "Ich hatte keine Zeit."
-3. **(A2/L01) verstanden** — strong verb: verstehen → verstanden.
-4. **(A2/L01) wollte** — Präteritum of wollen, er-form.
-5. **(A2/L02) an** — `Die Lampe hängt an der Decke` (Wo? = Dativ).
-6. **(A2/L02) auf** — `Ich stelle das Buch auf den Tisch` (Wohin? = Akkusativ).
-7. **(A2/L09) hätte** — Konjunktiv II: `Ich hätte gern einen Kaffee`.
-8. **(A2/L09) Könnten** — polite request: `Könnten Sie mir das Salz geben?`
-9. **(A1/L11) gefahren**
-10. **(A1/L11) Sie ist ins Kino gegangen.** (also fine: „Sie ging ins Kino.")
+1. **sein**  2. **hatte**  3. **verstanden**  4. **wollte**  5. **an**  6. **auf**  7. **hätte**  8. **Könnten**  9. **gefahren**  10. **Sie ist ins Kino gegangen.**
 
-## D4 — Selbsttest
+## Übung D4 — Selbsttest (score yourself /20)
 
-1. **nach** (Spain: kein Artikel → nach Spanien)
-2. **am** (am Meer = an dem Meer, location)
-3. **vom** (origin from Bahnhof: von + dem = vom)
-4. **in** (Wohin?: in die Stadt)
-5. **die** (USA is plural, "in die USA")
-6. **der** (Schweiz is feminine, "aus der Schweiz")
-7. **correct** (Irak is masculine, "im Irak" = in dem Irak)
-8. **angekommen** (separable: an + ge + kommen)
-9. **abgefahren** (separable: ab + ge + fahren)
-10. **reserviert** (-ieren verb, no ge-)
-11. **Wir fliegen nach Italien.**
-12. **Das Hotel liegt zwischen dem Bahnhof und der Post.** (also: „Das Hotel ist zwischen dem Bahnhof und der Post.")
-13. **reservieren** (infinitive after `möchte`)
-14. **sind … angekommen** (Perfekt of ankommen: sein + angekommen)
-15. **„Could you please help me?"** (polite Konjunktiv II request)
-16. **biegen** (`Biegen Sie links ab` — imperative Sie, separable verb)
-17. **zu** (`zu Fuß` = on foot)
-18. **musste** (Präteritum of müssen, ich-form)
-19. **wrong** (Iran has an article → "in den Iran", not "nach den Iran")
-20. *(Free choice — example:)* **Ich fahre nach Brasilien.** (any country without article + complete sentence is accepted)
+1. **nach**  2. **am**  3. **vom**  4. **in**  5. **die**  6. **der**  7. **correct**  8. **angekommen**  9. **abgefahren**  10. **reserviert**  11. **Wir fliegen nach Italien.**  12. **Das Hotel liegt zwischen dem Bahnhof und der Post.**  13. **reservieren**  14. **sind**  15. **angekommen**  16. **Wir sind gestern in Berlin angekommen.**  17. **Could you please help me?**  18. **biegen**  19. **zu**  20. **musste**  21. **musste**  22. **wrong**  23. **nach**  24. **Brasilien**  25. **Ich fahre nach Brasilien.**
 
-**Score: ____ / 20.** 16+/20 → Lektion A2/11. Below 16 → redo Block A (A1–A6) and Block B2 (Finde den Fehler) tomorrow, then retest D4.
+---
+
+**16+ / 20 → go to the next Lektion.**

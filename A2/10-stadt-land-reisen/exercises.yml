@@ -1,0 +1,1021 @@
+lesson: A2/10
+title: "A2 · Lektion 10 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Anna und Bruno planen einen Ausflug nach Berlin."
+        answer: false
+        why: 'Sie planen einen Kurztrip nach Hamburg, nicht nach Berlin.'
+      - q: "Bruno möchte ans Meer fahren."
+        answer: true
+        why: 'Bruno: „ich wäre gerne am Meer".'
+      - q: "Bruno hat ein Hotel über das Internet gefunden."
+        answer: true
+        why: 'Bruno: „Ich habe ein günstiges Hotel gefunden".'
+      - q: "Das Hotel liegt direkt am Hafen."
+        answer: true
+        why: 'Bruno: „direkt am Hafen, neben dem Fischmarkt".'
+      - q: "Sie fahren mit dem Zug nach Hamburg."
+        answer: true
+        why: 'Bruno: „Mit dem Zug von Berlin nach Hamburg".'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Frau Weber möchte …"
+        options:
+          - { key: a, text: "ein Doppelzimmer reservieren" }
+          - { key: b, text: "ein Einzelzimmer reservieren" }
+          - { key: c, text: "ein Restaurant reservieren" }
+        answer: b
+        why: 'Frau Weber: „Für eine Person".'
+      - q: "Das Zimmer liegt im …"
+        options:
+          - { key: a, text: "zweiten Stock" }
+          - { key: b, text: "dritten Stock" }
+          - { key: c, text: "vierten Stock" }
+        answer: b
+        why: 'Rezeptionistin: „im dritten Stock, über dem Restaurant".'
+      - q: "Das Hotel liegt …"
+        options:
+          - { key: a, text: "gegenüber dem Bahnhof" }
+          - { key: b, text: "direkt am Hafen" }
+          - { key: c, text: "im Stadtzentrum" }
+        answer: a
+        why: 'Rezeptionistin: „Wir liegen direkt gegenüber vom Bahnhof".'
+      - q: "Frau Weber kommt …"
+        options:
+          - { key: a, text: "mit dem Auto" }
+          - { key: b, text: "mit dem Flugzeug" }
+          - { key: c, text: "mit dem Zug" }
+        answer: c
+        why: 'Frau Weber: „Ich komme mit dem Zug an".'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Yuki ist heute von München {1} Salzburg gefahren. Sie ist mit
+      dem Zug gefahren und {2} Hauptbahnhof angekommen. {3} Bahnhof
+      aus ist sie zu Fuß in die Altstadt gegangen. Dort hat sie den
+      Marktplatz besucht und ist {4} die Festung Hohensalzburg
+      gestiegen. Die Festung liegt hoch oben {5} der Stadt. Von oben
+      konnte man weit {6} Tal sehen. Am Abend ist Yuki mit dem Zug
+      zurück nach München gefahren.
+    bank: [nach, am, vom, auf, über, ins, in, zu, aus]
+    answers:
+      "1": nach
+      "2": am
+      "3": vom
+      "4": auf
+      "5": über
+      "6": ins
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Durchsage am Flughafen"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    transcript: 'Achtung, eine Durchsage. Der Flug LH 401 von Berlin nach Lissabon hat eine Verspätung von zwei Stunden. Der neue Abflug ist um sechzehn Uhr dreißig, nicht wie geplant um vierzehn Uhr dreißig. Passagiere dieses Fluges finden Sie am Gate B 17. Wir bitten Sie, zum Gate zu gehen, sobald Sie die Boarding-Karten haben. Vielen Dank für Ihre Aufmerksamkeit.'
+    items:
+      - q: "Welcher Flug hat Verspätung?"
+        options:
+          - { key: a, text: "LH 401 von Berlin nach München." }
+          - { key: b, text: "LH 401 von Berlin nach Lissabon." }
+          - { key: c, text: "LH 410 von Berlin nach Wien." }
+        answer: b
+        why: '„Der Flug LH 401 von Berlin nach Lissabon hat eine Verspätung".'
+      - q: "Wie viel Verspätung hat der Flug?"
+        options:
+          - { key: a, text: "Eine Stunde." }
+          - { key: b, text: "Zwei Stunden." }
+          - { key: c, text: "Drei Stunden." }
+        answer: b
+        why: '„hat eine Verspätung von zwei Stunden".'
+      - q: "Wann ist der neue Abflug?"
+        options:
+          - { key: a, text: "Um vierzehn Uhr dreißig." }
+          - { key: b, text: "Um fünfzehn Uhr dreißig." }
+          - { key: c, text: "Um sechzehn Uhr dreißig." }
+        answer: c
+        why: '„Der neue Abflug ist um sechzehn Uhr dreißig".'
+      - q: "An welchem Gate sollen die Passagiere sein?"
+        options:
+          - { key: a, text: "Gate B 14." }
+          - { key: b, text: "Gate B 17." }
+          - { key: c, text: "Gate B 41." }
+        answer: b
+        why: '„Passagiere dieses Fluges finden Sie am Gate B 17".'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Wo? oder Wohin? (Dativ oder Akkusativ)"
+    instructions: "For each preposition, write the correct article form for Wo? (location) and Wohin? (direction). 10 gaps."
+    text: |
+      1. in — Wo?: {1} · Wohin?: {2}
+      2. an — Wo?: {3} · Wohin?: {4}
+      3. auf — Wo?: {5} · Wohin?: {6}
+      4. in (Stadt) — Wo?: {7} · Wohin?: {8}
+      5. an (Fluss) — Wo?: {9} · Wohin?: {10}
+    answers:
+      "1": im
+      "2": ins
+      "3": am
+      "4": ans
+      "5": "auf dem"
+      "6": "auf das"
+      "7": in
+      "8": in
+      "9": an
+      "10": an
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Lückentest: Wo? / Wohin? / Woher?"
+    instructions: "Fill in Wo?, Wohin?, or Woher? for each sentence. 8 items."
+    text: |
+      1. „{1} fährst du im Urlaub?" — „Nach Spanien."
+      2. „{2} wohnst du in Berlin?" — „In einer kleinen Wohnung in Kreuzberg."
+      3. „{3} kommst du gerade?" — „Aus dem Supermarkt."
+      4. „{4} liegt das Hotel?" — „Direkt am Hafen."
+      5. „{5} gehst du am Samstag?" — „In die Stadt."
+      6. „{6} ist Anna?" — „Sie ist in der Bibliothek."
+      7. „{7} fliegt ihr im August?" — „Nach Griechenland."
+      8. „{8} lernst du Deutsch?" — „In der Volkshochschule."
+    answers:
+      "1": Wohin
+      "2": Wo
+      "3": Woher
+      "4": Wo
+      "5": Wohin
+      "6": Wo
+      "7": Wohin
+      "8": Wo
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Städte und Länder: nach / in + Akk / aus + Dat"
+    instructions: "Fill in nach, in, or aus. 10 items."
+    text: |
+      1. Ich fahre {1} Berlin.
+      2. Sie kommt {2} Wien.
+      3. Wir fliegen {3} Japan.
+      4. Er wohnt {4} Paris.
+      5. Anna ist {5} Russland gekommen.
+      6. Fährst du {6} die Schweiz in den Urlaub?
+      7. Die Touristen kommen {7} den USA.
+      8. Ich gehe {8} den Bahnhof.
+      9. Sie wohnt jetzt {9} der Türkei.
+      10. Wir fliegen morgen {10} den Iran.
+    answers:
+      "1": nach
+      "2": aus
+      "3": nach
+      "4": in
+      "5": aus
+      "6": "in die"
+      "7": aus
+      "8": "zum"
+      "9": "in"
+      "10": "in den"
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Länder mit Artikel: in / aus + den / die / das"
+    instructions: "Fill in the correct preposition + article. Choose from in die / in der / in den / im / aus der / aus den / aus dem. 8 items."
+    text: |
+      1. Ich fahre {1} Schweiz.
+      2. Sie kommt {2} USA.
+      3. Wir wohnen {3} Türkei.
+      4. Er kommt {4} Irak.
+      5. Fliegt ihr bald {5} Niederlande?
+      6. Anna war letztes Jahr {6} Iran.
+      7. Ich komme {7} Ukraine.
+      8. Sie wohnt seit drei Jahren {8} Schweiz.
+    answers:
+      "1": "in die"
+      "2": "aus den"
+      "3": "in der"
+      "4": "aus dem"
+      "5": "in die"
+      "6": "im"
+      "7": "aus der"
+      "8": "in der"
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Reiseverben: Partizip II"
+    instructions: "Write the Partizip II for each verb. Mark ✓ (with ge-) or ✗ (no ge-). 10 items."
+    text: |
+      1. reisen → {1} ( )
+      2. buchen → {2} ( )
+      3. reservieren → {3} ( )
+      4. ankommen → {4} ( )
+      5. abfahren → {5} ( )
+      6. umsteigen → {6} ( )
+      7. besichtigen → {7} ( )
+      8. empfehlen → {8} ( )
+      9. übernachten → {9} ( )
+      10. abbiegen → {10} ( )
+    answers:
+      "1": gereist
+      "2": gebucht
+      "3": reserviert
+      "4": angekommen
+      "5": abgefahren
+      "6": umgestiegen
+      "7": besichtigt
+      "8": empfohlen
+      "9": übernachtet
+      "10": abgebogen
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Perfekt mit sein oder haben?"
+    instructions: "Choose the correct auxiliary. 10 items."
+    text: |
+      1. Wir {1} nach Hamburg gefahren.
+      2. Anna {2} ein Hotel gebucht.
+      3. Der Zug {3} um 9 Uhr angekommen.
+      4. Ich {4} im Hotel übernachtet.
+      5. Sie {5} den Dom besichtigt.
+      6. Wir {6} in Wien umgestiegen.
+      7. Er {7} das Museum empfohlen.
+      8. Die Straßenbahn {8} um 10 Uhr abgefahren.
+      9. Ich {9} nach links abgebogen.
+      10. Wir {10} ein Zimmer reserviert.
+    answers:
+      "1": sind
+      "2": hat
+      "3": ist
+      "4": habe
+      "5": hat
+      "6": sind
+      "7": hat
+      "8": ist
+      "9": bin
+      "10": haben
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Konjugations-Tabelle: reisen (Präsens)"
+    instructions: "Fill in the complete Präsens table for reisen."
+    text: |
+      1. ich: {1}
+      2. du: {2}
+      3. er/sie/es: {3}
+      4. wir: {4}
+      5. ihr: {5}
+      6. sie/Sie: {6}
+    answers:
+      "1": reise
+      "2": reist
+      "3": reist
+      "4": reisen
+      "5": reist
+      "6": reisen
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die neun Wechselpräpositionen: Lückentest"
+    instructions: "Fill in the correct preposition. Use the contracted form when possible. 8 items."
+    text: |
+      1. Das Hotel liegt direkt {1} Hafen. (location: an dem = ?)
+      2. Ich stelle den Koffer {2} Tisch. (direction: Wohin? = Akkusativ)
+      3. Wir wohnen {3} einer kleinen Pension. (location)
+      4. Das Restaurant ist direkt {4} dem Hotel, auf der anderen Straßenseite.
+      5. Das Bild hängt {5} der Tür. (location: above the door)
+      6. Die Katze sitzt {6} dem Bett. (location: under the bed)
+      7. Der Schlüssel liegt {7} dem Sofa. (location: behind the sofa)
+      8. Sie geht {8} Post und bleibt dort. (direction: to the post office)
+    answers:
+      "1": am
+      "2": "auf den"
+      "3": in
+      "4": gegenüber
+      "5": über
+      "6": unter
+      "7": hinter
+      "8": zur
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "aus oder von?"
+    instructions: "Choose aus or von. 8 items."
+    text: |
+      1. Ich komme {1} dem Supermarkt.
+      2. Er kommt {2} Brasilien.
+      3. Sie kommt {3} ihrer Schwester.
+      4. Wir kommen {4} dem Konzert.
+      5. Anna kommt {5} Osaka.
+      6. Der Brief kommt {6} meiner Freundin.
+      7. Wir fahren {7} hier aus morgen los.
+      8. Er kommt gerade {8} Arzt.
+    answers:
+      "1": "aus dem"
+      "2": "aus"
+      "3": "von"
+      "4": "aus dem"
+      "5": "aus"
+      "6": "von"
+      "7": "von"
+      "8": "vom"
+
+  - id: A10
+    block: A
+    type: free-write
+    title: "Reise-Sätze bilden"
+    prompt: "Build a sentence from the cues."
+    stimulus: |
+      Example: ich / fahren / nach Wien → Ich fahre nach Wien.
+
+      1. wir / fliegen / morgen / nach Italien →
+      2. Anna / buchen / ein Hotel / in Berlin →
+      3. der Zug / abfahren / um 10 Uhr / von Gleis 3 →
+      4. ich / möchten / reservieren / ein Zimmer →
+      5. wir / ankommen / in Salzburg / am Abend →
+      6. er / wohnen / jetzt / in der Schweiz →
+    model: |
+      1. Wir fliegen morgen nach Italien.
+      2. Anna hat ein Hotel in Berlin gebucht.
+      3. Der Zug fährt um 10 Uhr von Gleis 3 ab.
+      4. Ich möchte ein Zimmer reservieren.
+      5. Wir kommen am Abend in Salzburg an.
+      6. Er wohnt jetzt in der Schweiz.
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Wegbeschreibung: Imperativ (Sie)"
+    instructions: "Write the Sie-form imperative for each direction. 6 items."
+    text: |
+      1. (geradeaus gehen) {1}
+      2. (links abbiegen) {2}
+      3. (die zweite Straße rechts nehmen) {3}
+      4. (bis zur Ampel gehen) {4}
+      5. (den Bus nehmen) {5}
+      6. (über die Brücke gehen) {6}
+    answers:
+      "1": "Gehen Sie geradeaus."
+      "2": "Biegen Sie links ab."
+      "3": "Nehmen Sie die zweite Straße rechts."
+      "4": "Gehen Sie bis zur Ampel."
+      "5": "Nehmen Sie den Bus."
+      "6": "Gehen Sie über die Brücke."
+
+  - id: A12
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Übung: Wo? / Wohin? / Woher?"
+    instructions: "Fill in the correct preposition. Use the contracted form when possible. 8 items."
+    text: |
+      1. Das Restaurant liegt {1} dem Bahnhof. (location: Wo?)
+      2. Wir fahren morgen {2} die Alpen. (direction: Wohin?)
+      3. Er wohnt {3} seiner Tante in Hamburg. (location: Wo?)
+      4. Sie kommt gerade {4} dem Arzt. (origin: Woher?)
+      5. Ich stelle die Tasche {5} den Stuhl. (direction: Wohin?)
+      6. Das Hotel liegt direkt {6} Meer. (location: Wo?)
+      7. Wir fahren {7} Hause. (direction: Wohin? — Wohin from where you are)
+      8. Er kommt {8} Salzburg. (origin: Woher?)
+    answers:
+      "1": gegenüber
+      "2": "in die"
+      "3": bei
+      "4": "vom"
+      "5": "auf den"
+      "6": "am"
+      "7": "nach"
+      "8": "aus"
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Dialog ergänzen: Im Hotel anrufen"
+    instructions: "Fill in the 12 blanks with the correct form (Perfekt or Präteritum modal where appropriate)."
+    text: |
+      — Guten Tag! Ich möchte bitte ein Zimmer {1}.
+      — Für wie viele Personen und {2} (für wann)?
+      — Für eine Person, {3} fünften bis {4} achten Juli.
+      — Wir haben noch ein Einzelzimmer {5}. {6} das recht?
+      — Ja, sehr gut. Und {7} liegt das Hotel genau?
+      — Wir liegen direkt {8} vom Bahnhof. {9} Bahnhof aus gehen Sie
+      einfach geradeaus.
+      — Ausgezeichnet. Und {10} komme ich vom Hotel aus in die Altstadt?
+      — Nehmen Sie die Linie 4 bis zur Haltestelle „Marktplatz". Die Straßenbahn
+      fährt direkt {11} dem Hotel {12}.
+      — Vielen Dank!
+      — Auf Wiederhören!
+    bank: [reservieren, wann, vom, zum, frei, Wäre, wo, gegenüber, Vom, wie, vor, ab, Wann, frei, vom]
+    answers:
+      "1": reservieren
+      "2": wann
+      "3": vom
+      "4": zum
+      "5": frei
+      "6": Wäre
+      "7": wo
+      "8": gegenüber
+      "9": Vom
+      "10": wie
+      "11": vor
+      "12": ab
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Finde den Fehler"
+    prompt: 'Each sentence has exactly one mistake. Find it and write the corrected sentence.'
+    stimulus: |
+      1. Ich fahre in die Schweiz seit zwei Jahren.
+      2. Wir fliegen nach den Irak nächste Woche.
+      3. Sie kommt aus die Türkei.
+      4. Ich gehe in dem Bahnhof.
+      5. Er wohnt in eine kleine Wohnung.
+      6. Das Hotel liegt zwischen der Park und das Museum.
+      7. Wir fahren ans Meer in den Sommer.
+      8. Anna kommt von Osaka.
+    model: |
+      1. Ich wohne in der Schweiz seit zwei Jahren. (seit = location = Wo? = in + Dat)
+      2. Wir fliegen in den Irak nächste Woche. (Irak has article → in + Akk, not nach)
+      3. Sie kommt aus der Türkei. (Türkei is feminine → aus + Dat)
+      4. Ich gehe in den Bahnhof. (gehen = motion = Wohin? = Akkusativ)
+      5. Er wohnt in einer kleinen Wohnung. (wohnen = location = Wo? = Dativ)
+      6. Das Hotel liegt zwischen dem Park und dem Museum. (zwischen = location = Dativ on both)
+      7. Wir fahren ans Meer im Sommer. (seasons take im = in dem)
+      8. Anna kommt aus Osaka. (cities take aus, not von)
+
+  - id: B3
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    instructions: "Match each question (1–6) with the correct answer (a–f)."
+    left:
+      - { key: "1", text: "Wohin fährst du im Urlaub?" }
+      - { key: "2", text: "Wo wohnst du in Wien?" }
+      - { key: "3", text: "Wo liegt das Hotel?" }
+      - { key: "4", text: "Wie komme ich zum Bahnhof?" }
+      - { key: "5", text: "Wann fährt der Zug ab?" }
+      - { key: "6", text: "Wie war der Urlaub?" }
+    right:
+      - { key: a, text: "Direkt am Hafen, neben dem Fischmarkt." }
+      - { key: b, text: "Nach Spanien, ans Meer!" }
+      - { key: c, text: 'Im Hotel „Zum goldenen Hirsch".' }
+      - { key: d, text: "Mit dem Zug, dann zu Fuß." }
+      - { key: e, text: "Es war wunderschön!" }
+      - { key: f, text: "Um 14:30 Uhr, von Gleis 3." }
+    answers:
+      "1": b
+      "2": c
+      "3": a
+      "4": d
+      "5": f
+      "6": e
+
+  - id: B4
+    block: B
+    type: free-write
+    title: "Satzbau: Wegbeschreibung"
+    prompt: "Reorder the words to make a correct imperative sentence. Write the full sentence."
+    stimulus: |
+      1. geradeaus / gehen / bitte / Sie →
+      2. die erste Straße / nehmen / links / Sie →
+      3. gegenüber / ist / der Bahnhof / das Hotel / vom →
+      4. die Straßenbahn / bitte / nehmen / Sie →
+    model: |
+      1. Gehen Sie bitte geradeaus.
+      2. Nehmen Sie die erste Straße links.
+      3. Das Hotel ist gegenüber vom Bahnhof.
+      4. Nehmen Sie bitte die Straßenbahn.
+
+  - id: B5
+    block: B
+    type: categorize
+    title: "Kategorien: Länder mit und ohne Artikel"
+    instructions: "Sort these 10 countries into two groups. Each token is labeled (a–j) and the bucket is the category."
+    buckets:
+      - { key: ohne_artikel, label: 'Länder ohne Artikel (mit „nach")' }
+      - { key: mit_artikel, label: 'Länder mit Artikel (mit „in + Akk")' }
+    tokens:
+      - { text: "Brasilien", bucket: ohne_artikel }
+      - { text: "Schweiz", bucket: mit_artikel }
+      - { text: "Japan", bucket: ohne_artikel }
+      - { text: "Türkei", bucket: mit_artikel }
+      - { text: "USA", bucket: mit_artikel }
+      - { text: "Irak", bucket: mit_artikel }
+      - { text: "Russland", bucket: ohne_artikel }
+      - { text: "Niederlande", bucket: mit_artikel }
+      - { text: "Deutschland", bucket: ohne_artikel }
+      - { text: "Iran", bucket: mit_artikel }
+
+  - id: B6
+    block: B
+    type: free-write
+    title: "Übersetzen (EN → DE)"
+    prompt: "Translate into German."
+    stimulus: |
+      1. I'm going to Switzerland.
+      2. She's coming from Berlin.
+      3. The hotel is next to the train station.
+      4. We're flying to Japan tomorrow.
+      5. Where is the market square?
+      6. The train departs at 9:30.
+      7. I would like to book a room.
+      8. He lives in Vienna.
+    model: |
+      1. Ich fahre in die Schweiz.
+      2. Sie kommt aus Berlin.
+      3. Das Hotel liegt neben dem Bahnhof.
+      4. Wir fliegen morgen nach Japan.
+      5. Wo ist der Marktplatz?
+      6. Der Zug fährt um 9:30 ab.
+      7. Ich möchte ein Zimmer reservieren.
+      8. Er wohnt in Wien.
+
+  - id: B7
+    block: B
+    type: free-write
+    title: "Den Weg beschreiben"
+    prompt: "Beschreibe den Weg vom Bahnhof zum Hotel. Benutze mindestens 5 der folgenden Ausdrücke: geradeaus, links, rechts, gegenüber, zwischen, neben, bis zur, abbiegen."
+    use:
+      - "at least 5 of: geradeaus, links, rechts, gegenüber, zwischen, neben, bis zur, abbiegen"
+    stimulus: |
+      Bahnhof → Straße → erste Ampel (links) → geradeaus → zweite Ampel →
+      Marktplatz (rechts) → geradeaus → Hotel „Zur Post" (links, neben dem Museum)
+    model: |
+      Vom Bahnhof gehen Sie geradeaus bis zur ersten Ampel. Dann biegen Sie
+      links ab und gehen geradeaus weiter bis zur zweiten Ampel. Dort ist
+      der Marktplatz — biegen Sie rechts ab. Das Hotel „Zur Post" ist dann
+      gleich links, neben dem Museum.
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Antworten mit Hinweisen"
+    prompt: "Answer in a complete sentence, using the cue in brackets."
+    stimulus: |
+      1. Wohin fährst du im Urlaub? (nach Spanien, ans Meer)
+      2. Wo wohnst du in Berlin? (in einer kleinen Wohnung in Kreuzberg)
+      3. Wo liegt das Hotel? (direkt am Hafen, neben dem Fischmarkt)
+      4. Wie komme ich zum Bahnhof? (mit dem Bus, Linie 4)
+      5. Wann fährt der Zug ab? (um 14:30 Uhr, von Gleis 3)
+      6. Wie war die Reise? (wunderschön, das Wetter war toll)
+    model: |
+      1. Ich fahre nach Spanien, ans Meer.
+      2. Ich wohne in einer kleinen Wohnung in Kreuzberg.
+      3. Das Hotel liegt direkt am Hafen, neben dem Fischmarkt.
+      4. Sie können mit dem Bus, Linie 4, zum Bahnhof fahren.
+      5. Der Zug fährt um 14:30 Uhr von Gleis 3 ab.
+      6. Die Reise war wunderschön — das Wetter war toll!
+
+  - id: B9a
+    block: B
+    type: free-write
+    title: "Einen Ausflug beschreiben"
+    prompt: "Write 5–6 connected sentences about an imaginary day trip. Use at least 3 different prepositions for location/direction."
+    use:
+      - "5–6 connected sentences"
+      - "at least 3 different prepositions for location/direction (in / an / auf / nach / aus …)"
+    stimulus: |
+      Cues: Hamburg · Hauptbahnhof · Hafen · Fischmarkt · Elbphilharmonie ·
+      Restaurant · Spanien
+    model: |
+      Letzten Sonntag habe ich einen Ausflug nach Hamburg gemacht. Ich bin
+      am frühen Morgen mit dem Zug gefahren und am Hauptbahnhof angekommen.
+      Zuerst bin ich zum Hafen gefahren und habe den Fischmarkt besucht.
+      Danach habe ich die Elbphilharmonie besichtigt. Am Nachmittag bin ich
+      in ein kleines Restaurant am Wasser gegangen und habe Fisch gegessen.
+      Am Abend bin ich müde, aber glücklich, zurück nach Berlin gefahren.
+      Hamburg ist wirklich eine tolle Stadt!
+
+  - id: B9b
+    block: B
+    type: free-write
+    title: "Mein Lieblingsort: Forenkommentar"
+    prompt: 'Schreib einen Forenkommentar als Antwort in 4–5 Sätzen. Erzähl von deinem Lieblingsort zum Reisen — wo er liegt, wie du hinkommst, und was man dort machen kann.'
+    use:
+      - "at least 1 sentence with Wo? (Dativ) — in / an / auf + Dat"
+      - "at least 1 sentence with Wohin? (Akkusativ) — in / an / auf + Akk / nach"
+      - "at least 1 sentence with Woher? — aus + Dativ"
+      - "at least 1 sentence with a country name (in or nach)"
+    selfCheck:
+      - "Did I use the right case for Wo? (Dat) vs. Wohin? (Akk)?"
+      - "Did I use contractions correctly (im, am, in die Schweiz, in den USA)?"
+      - "Did I use nach (not in) for countries without article?"
+    model: |
+      Hallo Maria! Mein Lieblingsort ist Kopenhagen. Die Stadt liegt
+      im Norden, direkt am Meer. Ich fahre jedes Jahr im Herbst
+      dorthin — von Berlin aus fahre ich mit dem Zug nach Hamburg und
+      dann weiter nach Dänemark. In Kopenhagen wohne ich meistens
+      in einem kleinen Hotel in der Altstadt. Ich gehe gern auf den
+      Markt und in die Museen. LG, [Name]
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext"
+    instructions: "Fill each gap with one word. 10 items."
+    text: |
+      Letzten Sommer {1} Anna nach Wien gefahren. Sie ist mit dem
+      Zug gefahren und {2} Hauptbahnhof angekommen. Vom Bahnhof aus
+      ist sie {3} Fuß in die Altstadt gegangen. Das Hotel lag direkt
+      {4} dem Stephansdom — sehr zentral! Am ersten Tag {5}
+      sie den Prater {6}. Am zweiten Tag {7} sie in ein
+      Konzert gegangen. {8} Ende hat sie gesagt: „Wien ist wirklich
+      eine {9} Stadt!" Sie {10} gerne wiederkommen.
+    answers:
+      "1": ist
+      "2": am
+      "3": zu
+      "4": neben
+      "5": hat
+      "6": besucht
+      "7": ist
+      "8": Am
+      "9": schöne
+      "10": würde
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: 'Choose the correct option (a, b, or c) for each gap.'
+    items:
+      - q: "„Letzten Sommer bin ich {1} Wien geflogen."
+        options:
+          - { key: a, text: "nach" }
+          - { key: b, text: "zu" }
+          - { key: c, text: "in" }
+        answer: a
+        why: "Cities without article → nach."
+      - q: "{2} Flughafen habe ich ein Taxi {3} Hotel genommen."
+        options:
+          - { key: a, text: "Am" }
+          - { key: b, text: "Im" }
+          - { key: c, text: "Vom" }
+        answer: c
+        why: "Vom Flughafen (von + dem = vom, origin from place)."
+      - q: "(continuation) Taxi {3} Hotel genommen."
+        options:
+          - { key: a, text: "zum" }
+          - { key: b, text: "ins" }
+          - { key: c, text: "ans" }
+        answer: a
+        why: "zum Hotel (zu + dem = zum, motion to a place)."
+      - q: "Das Hotel lag {4} Donaukanal."
+        options:
+          - { key: a, text: "am" }
+          - { key: b, text: "in" }
+          - { key: c, text: "an" }
+        answer: a
+        why: "am Donaukanal (an + dem = am, location at the side of a waterway)."
+      - q: "Am ersten Tag bin ich {5} das Kunsthistorische Museum gegangen."
+        options:
+          - { key: a, text: "ins" }
+          - { key: b, text: "ans" }
+          - { key: c, text: "zum" }
+        answer: a
+        why: "ins Museum (in + das = ins, motion into a neuter noun)."
+      - q: "{6} Ende habe ich eine wunderbare Woche in Wien verbracht."
+        options:
+          - { key: a, text: "Am" }
+          - { key: b, text: "Im" }
+          - { key: c, text: "Beim" }
+        answer: a
+        why: "Am Ende (an + dem = am, time expression)."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word once."
+    text: |
+      „Letzten Sommer {1} ich nach Wien. Ich {2} in einem
+      kleinen Hotel direkt am Donaukanal — sehr zentral! Am ersten Tag
+      {3} ich den Prater und {4} ein Eis am Stand. Am
+      zweiten Tag {5} ich in die Oper. Am dritten Tag {6}
+      ich ein Museum und {7} viele Fotos. Am letzten Tag {8}
+      ich müde zu Hause an. Die Reise war {9} — ich {10}
+      eine tolle Woche!"
+    bank: [FUHR, WOHNTE, BESUCHTE, Aß, GING, BESICHTIGTE, LACHTE, MACHTE, KAM, RIEF, SCHRIEB, TRANK, WANDERTE, WUNDERBAR, ERLEBTE, GEFLOGEN, GEREIST, BESUCHT, GEGESSEN, GEBLIEBEN]
+    answers:
+      "1": FUHR
+      "2": WOHNTE
+      "3": BESUCHTE
+      "4": Aß
+      "5": GING
+      "6": BESICHTIGTE
+      "7": MACHTE
+      "8": KAM
+      "9": WUNDERBAR
+      "10": ERLEBTE
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Brunos Reisebericht)"
+    instructions: 'Read „Brunos Reisebericht" in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    items:
+      - { q: "Bruno ist mit dem Auto nach Hamburg gefahren.", answer: false, why: "Er ist mit dem Zug gefahren." }
+      - q: "Das Hotel lag am Hafen, zwischen dem Fischmarkt und einem Park."
+        answer: true
+        why: '„Das Hotel lag am Hafen, zwischen dem Fischmarkt und einem kleinen Park".'
+      - q: "Am ersten Tag sind sie zuerst auf den Fischmarkt gegangen."
+        answer: true
+        why: '„Am ersten Tag sind sie zuerst auf den Fischmarkt gegangen".'
+      - q: "Die Elbphilharmonie liegt im Stadtzentrum."
+        answer: false
+        why: "Sie liegt auf einer kleinen Halbinsel im Hafen, nicht im Stadtzentrum."
+      - q: "Bruno würde Hamburg gern noch einmal besuchen."
+        answer: true
+        why: '„Bruno würde Hamburg sofort wieder besuchen".'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Hotelbewertung)"
+    instructions: |
+      > Meine Freundin und ich waren letzte Woche im „Hotel Seeperle" in
+      > Konstanz. Das Hotel liegt direkt am Bodensee, zwischen dem Hafen und
+      > der Altstadt. Wir sind mit dem Zug angereist und vom Bahnhof aus zu
+      > Fuß gegangen — etwa 15 Minuten. Das Zimmer war im dritten Stock, mit
+      > Blick auf den See. Das Frühstück war lecker und das Personal sehr
+      > freundlich. Wir haben am ersten Tag die Altstadt besichtigt und am
+      > zweiten Tag eine Bootstour auf dem See gemacht. Leider hat es am
+      > letzten Tag geregnet, aber das war nicht schlimm. Wir kommen gerne
+      > wieder!
+
+      Wähle a, b oder c.
+    items:
+      - q: "Das Hotel liegt …"
+        options:
+          - { key: a, text: "im Stadtzentrum" }
+          - { key: b, text: "direkt am Bodensee" }
+          - { key: c, text: "neben dem Bahnhof" }
+        answer: b
+        why: '„Das Hotel liegt direkt am Bodensee".'
+      - q: "Wie sind die Person zum Hotel gekommen?"
+        options:
+          - { key: a, text: "Mit dem Auto" }
+          - { key: b, text: "Zu Fuß vom Bahnhof" }
+          - { key: c, text: "Mit dem Bus" }
+        answer: b
+        why: '„Wir sind mit dem Zug angereist und vom Bahnhof aus zu Fuß gegangen".'
+      - q: "Wo war das Zimmer?"
+        options:
+          - { key: a, text: "Im Erdgeschoss" }
+          - { key: b, text: "Im zweiten Stock" }
+          - { key: c, text: "Im dritten Stock" }
+        answer: c
+        why: '„Das Zimmer war im dritten Stock".'
+      - q: "Was haben sie am zweiten Tag gemacht?"
+        options:
+          - { key: a, text: "Eine Bootstour" }
+          - { key: b, text: "Die Altstadt besichtigt" }
+          - { key: c, text: "Eingekauft" }
+        answer: a
+        why: '„am zweiten Tag eine Bootstour auf dem See gemacht".'
+      - q: "Wie war das Wetter am letzten Tag?"
+        options:
+          - { key: a, text: "Sonnig" }
+          - { key: b, text: "Regnerisch" }
+          - { key: c, text: "Schnee" }
+        answer: b
+        why: '„Leider hat es am letzten Tag geregnet".'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Reisebericht"
+    prompt: "Write a short post (8–10 sentences) for a travel forum about a recent trip or weekend. Include where you went, how you traveled, where you stayed, at least 2 things you did, and how the trip was."
+    use:
+      - "Wo? prepositions (Dativ) for where you stayed/were"
+      - "Wohin? prepositions (Akkusativ) for where you went"
+      - "Correct preposition for the place name (city vs. country)"
+      - "At least one Wechselpräposition with both Dativ and Akkusativ"
+    selfCheck:
+      - "Did I use Wohin? prepositions with Akkusativ for movement and Wo? prepositions with Dativ for location?"
+      - "Did I use the correct preposition for the place name (city → in/nach, country)?"
+      - "Does at least one sentence use a Wechselpräposition — with Dativ for where you stayed/were, and Akkusativ for where you went?"
+    model: |
+      Letzten Monat bin ich nach Wien gefahren. Ich bin mit dem Zug gefahren
+      und am Hauptbahnhof angekommen. Das Hotel lag direkt am Donaukanal,
+      neben dem Stephansdom — sehr zentral! Am ersten Tag habe ich den
+      Prater besucht und bin durch die Altstadt spazieren gegangen. Am
+      zweiten Tag bin ich in die Oper gegangen — es war wirklich toll!
+      Am dritten Tag habe ich viele Fotos gemacht und Wiener Kaffee getrunken.
+      Am letzten Tag bin ich mit dem Zug zurück nach Berlin gefahren. Die
+      Reise war wunderschön! Ich würde Wien gern noch einmal besuchen.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per item. No notes. 15 items."
+    text: |
+      1. Partizip II of besuchen: {1}
+      2. (A2/L01) Partizip II of bekommen: {2}
+      3. (A2/L01) Präteritum of müssen, ich-form: {3}
+      4. Wo? or Wohin?: „Ich gehe in den Park." → {4}
+      5. Wo? or Wohin?: „Das Hotel liegt direkt am Hafen." → {5}
+      6. (A2/L02) Partizip II of anfangen: {6}
+      7. (A1/L07) Modal verb for permission: {7}
+      8. „Ich fahre {8} Schweiz." (nach / in die / in der)
+      9. „Sie kommt {9} Berlin." (aus / von / vom)
+      10. (A1/L11) „Wir {10} gestern in Wien." (war / hatten)
+      11. „Wir {11} nach Hamburg gefahren." (haben / sind)
+      12. „Ich fliege {12} Iran." (in den / nach / im)
+      13. Time connector meaning „after that" (A2/L01): {13}
+      14. (A2/L09) „{14} Sie mir bitte helfen?" (Könnten / Können / Kann)
+      15. „How do I get to the station?" → {15}
+    answers:
+      "1": besucht
+      "2": bekommen
+      "3": musste
+      "4": Wohin
+      "5": Wo
+      "6": angefangen
+      "7": dürfen
+      "8": "in die"
+      "9": aus
+      "10": waren
+      "11": sind
+      "12": "in den"
+      "13": danach
+      "14": Könnten
+      "15": "Wie komme ich zum Bahnhof?"
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Cross out the word that doesn't fit and say why."
+    groups:
+      - items: [fahren, fliegen, reisen, wohnen]
+        odd: 3
+        why: "wohnen is the only verb that does not describe traveling."
+      - items: ["der Bahnhof", "der Flughafen", "die Haltestelle", "der Marktplatz"]
+        odd: 3
+        why: "der Marktplatz is the only non-transport location; the others are all transport hubs."
+      - items: [nach, "in die", aus, zwischen]
+        odd: 3
+        why: "zwischen is the only Wechselpräposition for 'between'; the others are country/city prepositions."
+      - items: [reserviert, fotografiert, besichtigt, angekommen]
+        odd: 3
+        why: "angekommen is the only Partizip II with ge- in the middle (separable verb); the others are -ieren verbs with no ge-."
+      - items: ["am Hafen", "in die Berge", "ans Meer", "auf den Tisch"]
+        odd: 3
+        why: "auf den Tisch is the only non-travel destination; the others are all travel destinations."
+      - items: [übernachten, ankommen, abfahren, umsteigen]
+        odd: 3
+        why: "übernachten is the only verb that takes haben in the Perfekt; the others are motion verbs that take sein."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: Lektionen 11, A2/01, A2/02, A2/09"
+    instructions: "Review items. 10 gaps."
+    text: |
+      1. (A1/L11) Perfekt auxiliary for gehen: {1}
+      2. (A1/L11) „Ich {2} keine Zeit." (war / hatte)
+      3. (A2/L01) Partizip II of verstehen: {3}
+      4. (A2/L01) Präteritum of wollen, er-form: {4}
+      5. (A2/L02) „Die Lampe hängt {5} der Decke." (Dativ — Wo?)
+      6. (A2/L02) „Ich stelle das Buch {6} den Tisch." (Akkusativ — Wohin?)
+      7. (A2/L09) „Ich {7} gern einen Kaffee." (hätte / habe / bin)
+      8. (A2/L09) „{8} Sie mir das Salz geben?" (Könnten / Können / Kann)
+      9. (A1/L11) Partizip II of fahren: {9}
+      10. (A1/L11) Translation: „She went to the cinema" → {10}
+    answers:
+      "1": sein
+      "2": hatte
+      "3": verstanden
+      "4": wollte
+      "5": an
+      "6": auf
+      "7": hätte
+      "8": Könnten
+      "9": gefahren
+      "10": "Sie ist ins Kino gegangen."
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion A2/11. Below 16 → redo Block A (A1–A6) and Block B2 (Finde den Fehler) tomorrow, then retest D4."
+    text: |
+      **Wo? / Wohin? / Woher? — fill the preposition:**
+      1. „Ich fahre morgen {1} Spanien."
+      2. „Das Hotel liegt direkt {2} Meer."
+      3. „Er kommt gerade {3} dem Bahnhof."
+      4. „Wir gehen {4} die Stadt."
+
+      **Countries with article:**
+      5. „Sie fliegt in {5} USA." (Plural article)
+      6. „Er kommt aus {6} Schweiz." (Feminine article)
+      7. „Wir wohnen im Irak." — correct or wrong? {7}
+
+      **Travel verbs — Partizip II:**
+      8. ankommen → {8}
+      9. abfahren → {9}
+      10. reservieren → {10}
+
+      **Translation:**
+      11. „We are flying to Italy." → {11}
+      12. „The hotel is between the station and the post office." → {12}
+
+      **Mixed:**
+      13. „Ich möchte ein Zimmer {13}." (reservieren)
+      14. „Wir {14} gestern in Berlin {15} (ankommen)." → {16}
+      15. (A2/L09) Polite: „Könnten Sie mir bitte helfen?" — what does this mean? → {17}
+
+      **Time / place / direction:**
+      16. „Gehen Sie geradeaus, dann {18} Sie links ab." (biegen / gehen / fahren)
+      17. „Das Hotel ist fünf Minuten {19} Fuß." (zu / mit / in)
+
+      **Modal Präteritum (A2/L01):**
+      18. „Ich {20} gestern nicht kommen." (musste / musste / muss) — correct form? {21}
+
+      **Final:**
+      19. „nach den Iran" — correct or wrong? {22}
+      20. Free choice: name a country without article and write a sentence: „Ich fahre {23} {24}." → {25}
+    answers:
+      "1": nach
+      "2": am
+      "3": "vom"
+      "4": "in"
+      "5": "die"
+      "6": "der"
+      "7": correct
+      "8": angekommen
+      "9": abgefahren
+      "10": reserviert
+      "11": "Wir fliegen nach Italien."
+      "12": "Das Hotel liegt zwischen dem Bahnhof und der Post."
+      "13": reservieren
+      "14": sind
+      "15": angekommen
+      "16": "Wir sind gestern in Berlin angekommen."
+      "17": "Could you please help me?"
+      "18": biegen
+      "19": zu
+      "20": musste
+      "21": musste
+      "22": wrong
+      "23": nach
+      "24": Brasilien
+      "25": "Ich fahre nach Brasilien."
