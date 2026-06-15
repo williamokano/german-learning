@@ -133,18 +133,23 @@ M wie Martha…* — useful but not required yet.
 🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3)
 
 > **Hör zu 1 — Begrüßungen:** Hallo · Guten Morgen · Guten Tag · Guten Abend · Grüß Gott · Servus · Moin
+
 🎧 **Audio:** [hoerzu2.mp3](audio/hoerzu2.mp3)
 
 > **Hör zu 2 — Verabschiedungen:** Auf Wiedersehen · Tschüss · Bis bald · Bis morgen · Gute Nacht
+
 🎧 **Audio:** [hoerzu3.mp3](audio/hoerzu3.mp3)
 
 > **Hör zu 3 — W-Fragewörter:** Wie · Wer · Wo · Woher · Was · Welche
+
 🎧 **Audio:** [hoerzu4.mp3](audio/hoerzu4.mp3)
 
 > **Hör zu 4 — Zahlen 0–10:** null · eins · zwei · drei · vier · fünf · sechs · sieben · acht · neun · zehn
+
 🎧 **Audio:** [hoerzu5.mp3](audio/hoerzu5.mp3)
 
 > **Hör zu 5 — Zahlen 11–20:** elf · zwölf · dreizehn · vierzehn · fünfzehn · sechzehn · siebzehn · achtzehn · neunzehn · zwanzig
+
 🎧 **Audio:** [hoerzu6.mp3](audio/hoerzu6.mp3)
 
 > **Hör zu 6 — Alphabet (Vokale & Sonderzeichen):** a · e · i · o · u · ä · ö · ü · ß
