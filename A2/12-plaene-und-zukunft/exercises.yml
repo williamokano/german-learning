@@ -1,0 +1,1024 @@
+lesson: A2/12
+title: "A2 · Lektion 12 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on the day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Anna und Bruno sprechen über Pläne für das neue Jahr."
+        answer: true
+        why: 'Anna: „Bruno, hast du schon Pläne für dieses Jahr?".'
+      - q: "Bruno wird dreimal pro Woche joggen."
+        answer: true
+        why: 'Bruno: „Ich werde mehr Sport machen — dreimal pro Woche joggen".'
+      - q: "Bruno wird sofort mit dem Sport anfangen."
+        answer: false
+        why: 'Bruno: „Wenn das Wetter besser wird" — he will start later, not immediately.'
+      - q: "Anna wird im Juli nach Brasilien fliegen."
+        answer: true
+        why: 'Anna: „Ich werde im Sommer nach Brasilien fliegen … Im Juli".'
+      - q: "Anna und Bruno werden sich im Februar zum Lernen treffen."
+        answer: true
+        why: 'Anna: „Wir werden uns im Februar das erste Mal treffen".'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Worüber möchte Frau Yilmaz mit Herrn Steinmeyer sprechen?"
+        options:
+          - { key: a, text: "Über das Projekt im März" }
+          - { key: b, text: "Über den Urlaub im Sommer" }
+          - { key: c, text: "Über das Catering" }
+        answer: a
+        why: 'Frau Yilmaz: „Ich möchte mit Ihnen über das Projekt im März sprechen".'
+      - q: "Wann wird Frau Yilmaz das Konzept fertig haben?"
+        options:
+          - { key: a, text: "Bis Ende dieser Woche" }
+          - { key: b, text: "Bis Ende nächster Woche" }
+          - { key: c, text: "Bis Ende März" }
+        answer: b
+        why: 'Frau Yilmaz: „Ich werde es bis Ende nächster Woche fertig haben".'
+      - q: "Wann wird die Präsentation stattfinden?"
+        options:
+          - { key: a, text: "Am ersten März" }
+          - { key: b, text: "Am zehnten März" }
+          - { key: c, text: "Am fünfzehnten März" }
+        answer: c
+        why: 'Frau Yilmaz: „Ich werde sie am fünfzehnten März halten".'
+      - q: "Was werden sie tun, wenn das Wetter schlecht ist?"
+        options:
+          - { key: a, text: "Die Veranstaltung absagen" }
+          - { key: b, text: "Die Veranstaltung in den Konferenzraum verlegen" }
+          - { key: c, text: "Einen anderen Tag wählen" }
+        answer: b
+        why: 'Frau Yilmaz: „Wenn es regnet, werden wir die Veranstaltung in den Konferenzraum verlegen".'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Guten Abend und willkommen zur Wettervorhersage für Berlin und Umgebung.
+      {1}, am Dienstag, wird es den ganzen Tag sonnig, die
+      Temperatur wird 24 Grad sein. Am Mittwoch wird es wärmer — {2}
+      zu 28 Grad. Am Donnerstag wird es leider {3}, und am
+      Freitag wird es Gewitter {4}. {5} Sie Ausflüge
+      planen — am Wochenende wird das Wetter wieder {6}.
+    bank: [Morgen, bis, regnen, geben, Wenn, besser, wird, werden, Gewitter]
+    answers:
+      "1": Morgen
+      "2": bis
+      "3": regnen
+      "4": geben
+      "5": Wenn
+      "6": besser
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Ein Anruf aus Lissabon"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    transcript: 'Hallo Anna, hier ist Lisa. Ich bin gerade am Flughafen in Lissabon gelandet. Mein Flug nach Berlin am Sonntag wurde gestrichen — ich werde erst am Dienstag zurückfliegen. Die Airline wird mir ein Hotel für zwei Nächte bezahlen. Ich werde am Dienstag um achtzehn Uhr in Berlin landen. Bitte ruf mich zurück, wenn du mich am Flughafen abholen kannst! Tschüss!'
+    items:
+      - q: "Wo ist Lisa gerade?"
+        options:
+          - { key: a, text: "Am Flughafen in Berlin." }
+          - { key: b, text: "Am Flughafen in Lissabon." }
+          - { key: c, text: "Am Flughafen in Wien." }
+        answer: b
+        why: '„Ich bin gerade am Flughafen in Lissabon gelandet".'
+      - q: "Warum wird Lisa erst am Dienstag zurückfliegen?"
+        options:
+          - { key: a, text: "Weil sie länger Urlaub machen will." }
+          - { key: b, text: "Weil ihr Flug am Sonntag gestrichen wurde." }
+          - { key: c, text: "Weil die Airline keine Plätze mehr hat." }
+        answer: b
+        why: '„Mein Flug nach Berlin am Sonntag wurde gestrichen".'
+      - q: "Was wird die Airline für Lisa tun?"
+        options:
+          - { key: a, text: "Sie wird ihr ein Hotel für zwei Nächte bezahlen." }
+          - { key: b, text: "Sie wird ihr ein neues Flugticket schenken." }
+          - { key: c, text: "Sie wird sie mit dem Bus nach Hause bringen." }
+        answer: a
+        why: '„Die Airline wird mir ein Hotel für zwei Nächte bezahlen".'
+      - q: "Wann wird Lisa in Berlin landen?"
+        options:
+          - { key: a, text: "Am Sonntag um achtzehn Uhr." }
+          - { key: b, text: "Am Dienstag um achtzehn Uhr." }
+          - { key: c, text: "Am Mittwoch um achtzehn Uhr." }
+        answer: b
+        why: '„Ich werde am Dienstag um achtzehn Uhr in Berlin landen".'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Konjugation: werden (Präsens)"
+    instructions: "Fill in the present-tense form of werden."
+    text: |
+      1. ich: {1}
+      2. du: {2}
+      3. er/sie/es: {3}
+      4. wir: {4}
+      5. ihr: {5}
+      6. sie/Sie: {6}
+    answers:
+      "1": werde
+      "2": wirst
+      "3": wird
+      "4": werden
+      "5": werdet
+      "6": werden
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Futur I: Satzklammer üben"
+    instructions: "Complete each sentence with the correct form of werden + the infinitive in brackets. Watch the verb position: werden in position 2, infinitive at the end. 10 items."
+    text: |
+      1. Ich {1} morgen Deutsch {2}. (lernen)
+      2. Anna {3} im Juli nach Brasilien {4}. (fliegen)
+      3. Wir {5} uns bald {6}. (treffen)
+      4. {7} du nächstes Jahr nach Wien {8}? (fahren)
+      5. Er {9} wahrscheinlich zu Hause {10}. (bleiben)
+    answers:
+      "1": werde
+      "2": lernen
+      "3": wird
+      "4": fliegen
+      "5": werden
+      "6": treffen
+      "7": Wirst
+      "8": fahren
+      "9": wird
+      "10": bleiben
+
+  - id: A3
+    block: A
+    type: free-write
+    title: "Futur I: Sätze bilden"
+    prompt: "Build a Futur-I sentence from the cues."
+    stimulus: |
+      1. ich / morgen / Deutsch lernen →
+      2. Anna / im Juli / nach Brasilien fliegen →
+      3. wir / uns / im Februar / treffen →
+      4. er / wahrscheinlich / zu Hause bleiben →
+      5. sie (sg.) / nächstes Jahr / ein Haus kaufen →
+      6. wann / du / anfangen? →
+      7. das Wetter / morgen / besser werden →
+      8. ich / mein Bestes / geben →
+    model: |
+      1. Ich werde morgen Deutsch lernen.
+      2. Anna wird im Juli nach Brasilien fliegen.
+      3. Wir werden uns im Februar treffen.
+      4. Er wird wahrscheinlich zu Hause bleiben.
+      5. Sie wird nächstes Jahr ein Haus kaufen.
+      6. Wann wirst du anfangen?
+      7. Das Wetter wird morgen besser werden.
+      8. Ich werde mein Bestes geben.
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Futur I verneinen"
+    instructions: 'Rewrite the sentence in the negative. The infinitive stays at the end. 6 items. (Fill in: conjugated form of werden, „nicht", and the infinitive.)'
+    text: |
+      1. Ich werde morgen kommen. → Ich {1} morgen {2} {3}.
+      2. Wir werden das Buch lesen. → Wir {4} das Buch {5} {6}.
+      3. Anna wird nach Berlin fahren. → Anna {7} nach Berlin {8} {9}.
+      4. Du wirst das schaffen. → Du {10} das {11} {12}.
+      5. Sie werden das Projekt abschließen. → Sie {13} das Projekt {14} {15}.
+      6. Ich werde das Buch kaufen. → Ich {16} das Buch {17} {18}.
+    answers:
+      "1": werde
+      "2": nicht
+      "3": kommen
+      "4": werden
+      "5": nicht
+      "6": lesen
+      "7": wird
+      "8": nicht
+      "9": fahren
+      "10": wirst
+      "11": nicht
+      "12": schaffen
+      "13": werden
+      "14": nicht
+      "15": abschließen
+      "16": werde
+      "17": nicht
+      "18": kaufen
+
+  - id: A5
+    block: A
+    type: free-write
+    title: "Präsens → Futur I"
+    prompt: "Rewrite each sentence in Futur I. The time word stays the same."
+    stimulus: |
+      1. Ich lerne morgen Deutsch. →
+      2. Anna fliegt im Juli nach Brasilien. →
+      3. Wir treffen uns im Februar. →
+      4. Er bleibt morgen zu Hause. →
+      5. Sie (sg.) kauft nächstes Jahr ein Haus. →
+      6. Wann fängst du an? →
+      7. Das Wetter wird morgen besser. →
+      8. Wir lernen jede Woche zusammen. →
+    model: |
+      1. Ich werde morgen Deutsch lernen.
+      2. Anna wird im Juli nach Brasilien fliegen.
+      3. Wir werden uns im Februar treffen.
+      4. Er wird morgen zu Hause bleiben.
+      5. Sie wird nächstes Jahr ein Haus kaufen.
+      6. Wann wirst du anfangen?
+      7. Das Wetter wird morgen besser werden.
+      8. Wir werden jede Woche zusammen lernen.
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "wenn-Klausel: Verb am Ende"
+    instructions: "Complete each wenn-sentence. Put the conjugated verb at the end. 6 items."
+    text: |
+      1. Wenn ich morgen Zeit {1} (haben), gehe ich ins Kino.
+      2. Wenn das Wetter besser {2} (werden), fangen wir an.
+      3. Wenn du kommst, {3} (werden) wir uns freuen.
+      4. Wenn ich das Buch {4} (lesen), schreibe ich dir.
+      5. Wenn er morgen {5} (ankommen), rufe ich an.
+      6. Wenn sie Zeit {6} (haben), kommt sie mit.
+    answers:
+      "1": habe
+      "2": wird
+      "3": werden
+      "4": lese
+      "5": ankommt
+      "6": hat
+
+  - id: A7
+    block: A
+    type: free-write
+    title: "wenn-Klausel zuerst: Hauptsatz invertiert"
+    prompt: "Rewrite the sentence so that the wenn-clause comes first. Remember: the main-clause verb goes immediately after the comma (no subject before the verb)."
+    stimulus: |
+      1. Ich gehe ins Kino, wenn ich morgen Zeit habe. →
+      2. Wir fangen an, wenn das Wetter besser wird. →
+      3. Er ruft an, wenn er in Berlin ankommt. →
+      4. Sie kommt mit, wenn sie Zeit hat. →
+      5. Ich esse ein Eis, wenn es warm ist. →
+      6. Wir bleiben zu Hause, wenn es regnet. →
+    model: |
+      1. Wenn ich morgen Zeit habe, gehe ich ins Kino.
+      2. Wenn das Wetter besser wird, fangen wir an.
+      3. Wenn er in Berlin ankommt, ruft er an.
+      4. Wenn sie Zeit hat, kommt sie mit.
+      5. Wenn es warm ist, esse ich ein Eis.
+      6. Wenn es regnet, bleiben wir zu Hause.
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "als oder wenn?"
+    instructions: "For each sentence, choose als (one single past event) or wenn (repeated past / present / future). 6 items."
+    text: |
+      1. {1} ich ein Kind war, habe ich in Russland gelebt. (single past period)
+      2. {2} ich traurig war, hat meine Mutter mich getröstet. (every time, repeated)
+      3. {3} ich morgen Zeit habe, gehe ich ins Kino. (future)
+      4. {4} Anna gestern in Berlin ankam, hat es geregnet. (one past event)
+      5. {5} es im Sommer warm ist, gehen wir schwimmen. (general, present)
+      6. {6} ich das letzte Mal in Wien war, habe ich den Stephansdom besucht. (one past visit)
+    answers:
+      "1": als
+      "2": wenn
+      "3": wenn
+      "4": als
+      "5": wenn
+      "6": als
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "als oder wenn? Lückentext"
+    instructions: "Fill the gap with als or wenn. 8 items."
+    text: |
+      1. {1} ich gestern aufgestanden bin, war es noch dunkel.
+      2. {2} ich als Kind krank war, hat meine Oma mir Suppe gebracht.
+      3. {3} ich morgen frei habe, werde ich ins Kino gehen.
+      4. {4} wir 2018 nach Berlin gezogen sind, hat es geschneit.
+      5. {5} ich jeden Morgen aufstehe, trinke ich erst einen Kaffee.
+      6. {6} Anna letzten Sommer nach Brasilien geflogen ist, hat sie ihre Eltern besucht.
+      7. {7} du Zeit hast, ruf mich bitte an.
+      8. {8} ich ein Student war, habe ich wenig Geld gehabt.
+    answers:
+      "1": als
+      "2": Wenn
+      "3": Wenn
+      "4": als
+      "5": Wenn
+      "6": als
+      "7": Wenn
+      "8": als
+
+  - id: A10
+    block: A
+    type: free-write
+    title: "Übersetzen (EN → DE) mit Futur I"
+    prompt: "Translate into German using Futur I."
+    stimulus: |
+      1. I will learn German tomorrow. →
+      2. She will fly to Brazil in July. →
+      3. We will meet in February. →
+      4. He will probably stay at home. →
+      5. When I have time, I will go to the cinema. →
+      6. If it rains, we will stay at home. →
+    model: |
+      1. Ich werde morgen Deutsch lernen.
+      2. Sie wird im Juli nach Brasilien fliegen.
+      3. Wir werden uns im Februar treffen.
+      4. Er wird wahrscheinlich zu Hause bleiben.
+      5. Wenn ich Zeit habe, werde ich ins Kino gehen.
+      6. Wenn es regnet, werden wir zu Hause bleiben.
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Gemischt: Futur I + wenn"
+    instructions: 'Complete the sentence. Use Futur I in the main clause and a wenn-clause (verb at the end) for the condition. 8 items × 3 gaps each = 24 gaps. Sample: „Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen)." Use the infinitive given in brackets.'
+    text: |
+      1. Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen).
+      2. Wenn es morgen regnet, {4} (werden) wir zu Hause {5} (bleiben).
+      3. Wenn du kommst, {6} (werden) ich mich {7} (freuen).
+      4. Wenn das Wetter besser {8} (werden), {9} (werden) ich joggen {10} (gehen).
+      5. Wenn ich genug Geld {11} (haben), {12} (werden) ich nach Italien {13} (fahren).
+      6. Wenn Anna die Prüfung {14} (schaffen), {15} (werden) sie sehr glücklich {16} (sein).
+      7. Wenn du Hilfe {17} (brauchen), {18} (werden) ich dir {19} (helfen).
+      8. Wenn es kalt {20} (sein), {21} (werden) wir Tee {22} (trinken).
+    answers:
+      "1": habe
+      "2": werde
+      "3": gehen
+      "4": werden
+      "5": bleiben
+      "6": werde
+      "7": freuen
+      "8": wird
+      "9": werde
+      "10": gehen
+      "11": habe
+      "12": werde
+      "13": fahren
+      "14": schafft
+      "15": wird
+      "16": sein
+      "17": brauchst
+      "18": werde
+      "19": helfen
+      "20": ist
+      "21": werden
+      "22": trinken
+
+  - id: A12
+    block: A
+    type: free-write
+    title: "Satzbau: Futur I im Hauptsatz"
+    prompt: "Reorder the words to make a correct Futur-I sentence."
+    stimulus: |
+      1. morgen / ich / werden / lernen / Deutsch →
+      2. im Juli / fliegen / sie / nach Brasilien / wird →
+      3. sich / wir / im Februar / treffen / werden →
+      4. werden / ihr / Sport / mehr / machen →
+      5. das Wetter / besser / morgen / wird / werden →
+      6. mein Bestes / geben / werde / ich →
+    model: |
+      1. Ich werde morgen Deutsch lernen.
+      2. Im Juli wird sie nach Brasilien fliegen.
+      3. Wir werden uns im Februar treffen.
+      4. Ihr werdet mehr Sport machen.
+      5. Das Wetter wird morgen besser werden.
+      6. Ich werde mein Bestes geben.
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen: Pläne für den Sommer"
+    instructions: "Fill in the blanks with the correct word. Use Futur I in the main clause and wenn / als in the subordinate clauses. 10 items."
+    text: |
+      — Hallo Bruno! Was {1} du in den Sommerferien machen?
+      — Ich {2} nach Spanien fahren, {3} ich genug Geld
+      habe. Und du?
+      — Ich {4} wahrscheinlich in Berlin bleiben. {5} ich
+      Zeit habe, {6} ich meine Eltern in Russland besuchen.
+      — {7} warst du das letzte Mal dort?
+      — {8} ich 2022 nach Jaroslawl geflogen bin, {9} es
+      sehr heiß. Aber diesmal {10} ich im Juli fliegen — da ist es
+      kühler.
+      — Viel Spaß!
+    answers:
+      "1": wirst
+      "2": werde
+      "3": wenn
+      "4": werde
+      "5": Wenn
+      "6": werde
+      "7": Wann
+      "8": Als
+      "9": war
+      "10": werde
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Finde den Fehler"
+    prompt: 'Each sentence has exactly one mistake. Find it and write the corrected sentence.'
+    stimulus: |
+      1. Ich werde morgen nach Berlin fliegen werde.
+      2. Wir werden nicht das Buch lesen.
+      3. Wenn ich werde Zeit haben, gehe ich ins Kino.
+      4. Anna wird im Juli nach Brasilien geflogen.
+      5. Wann wirst du anfangen mit dem Sport?
+      6. Als ich morgen Zeit habe, gehe ich ins Kino.
+      7. Du wirst das Buch lesen nicht.
+      8. Wenn ich ein Kind war, hat meine Oma mir Suppe gebracht.
+    model: |
+      1. Ich werde morgen nach Berlin fliegen. (Doubled werde — only the infinitive goes to the end; werde stays in position 2.)
+      2. Wir werden das Buch nicht lesen. (nicht must come before the infinitive, not after werden.)
+      3. Wenn ich Zeit haben werde, gehe ich ins Kino. (In a wenn-clause, the conjugated verb (werde) goes to the end, not position 2.)
+      4. Anna wird im Juli nach Brasilien fliegen. (After wird we need the infinitive, not the Partizip II geflogen.)
+      5. Wann wirst du mit dem Sport anfangen? (Separable verb anfangen: prefix an- goes to the end as anfangen.)
+      6. Wenn ich morgen Zeit habe, gehe ich ins Kino. (als cannot be used for the future; only wenn.)
+      7. Du wirst das Buch nicht lesen. (nicht comes before the infinitive, not at the very end.)
+      8. Wenn ich ein Kind war, hat meine Oma mir Suppe gebracht. (Repeated/habitual past needs wenn. If the sense was a single past period, als would be correct — but the habitual reading here is wenn.)
+
+  - id: B3
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Wettervorhersage: Lückentext"
+    instructions: "Fill the gaps with the correct form of werden and the word in brackets. 8 items."
+    text: |
+      Guten Morgen und willkommen zur Wettervorhersage! Heute {1}
+      es sonnig, die Temperatur {2} 22 Grad {3}. Morgen
+      {4} es leider regnen, aber am Donnerstag {5} das
+      Wetter wieder besser. Am Freitag {6} es sogar bis zu 30
+      Grad. Am Wochenende {7} es dann Gewitter geben, und am
+      Sonntag {8} es kühler — nur noch 20 Grad.
+    answers:
+      "1": wird
+      "2": wird
+      "3": sein
+      "4": wird
+      "5": wird
+      "6": wird
+      "7": wird
+      "8": wird
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    instructions: "Match each question (1–6) with the correct answer (a–f)."
+    left:
+      - { key: "1", text: "Was wirst du morgen machen?" }
+      - { key: "2", text: "Wann wirst du nach Brasilien fliegen?" }
+      - { key: "3", text: "Was wirst du tun, wenn es regnet?" }
+      - { key: "4", text: "Wird das Wetter morgen besser?" }
+      - { key: "5", text: "Was hast du dir vorgenommen?" }
+      - { key: "6", text: "Was wird das Catering liefern?" }
+    right:
+      - { key: a, text: "Ich werde wahrscheinlich zu Hause bleiben." }
+      - { key: b, text: "Im Juli." }
+      - { key: c, text: "Ich werde Deutsch lernen." }
+      - { key: d, text: "Ja, es wird sonnig und warm." }
+      - { key: e, text: "Mehr Sport zu machen." }
+      - { key: f, text: "Das Restaurant wird das Catering liefern." }
+    answers:
+      "1": c
+      "2": b
+      "3": a
+      "4": d
+      "5": e
+      "6": f
+
+  - id: B5
+    block: B
+    type: free-write
+    title: "Übersetzen (EN → DE)"
+    prompt: "Translate into German."
+    stimulus: |
+      1. I will call you tomorrow. →
+      2. If I have time, I will go to the cinema. →
+      3. When I was a child, I lived in Russia. →
+      4. Whenever she was sad, her mother comforted her. →
+      5. The weather will be better tomorrow. →
+      6. We will not buy a house next year. →
+    model: |
+      1. Ich werde dich morgen anrufen.
+      2. Wenn ich Zeit habe, werde ich ins Kino gehen.
+      3. Als ich ein Kind war, habe ich in Russland gelebt.
+      4. Wenn sie als Kind traurig war, hat ihre Mutter sie getröstet.
+      5. Das Wetter wird morgen besser sein.
+      6. Wir werden nächstes Jahr kein Haus kaufen.
+
+  - id: B6
+    block: B
+    type: free-write
+    title: "Satzbau: Futur I und wenn"
+    prompt: "Reorder the words to make a correct sentence."
+    stimulus: |
+      1. ich / werde / Zeit / haben / morgen / wenn / gehen / ins Kino →
+      2. wenn / regnet / es / wir / bleiben / werden / zu Hause →
+      3. morgen / wird / 25 Grad / die Temperatur / sein →
+      4. ich / werde / nach Italien / fahren / wenn / Geld / ich / genug / habe →
+      5. mein Bestes / ich / geben / werde →
+      6. Anna / wird / die B1-Prüfung / schaffen / wenn / sie / übt / regelmäßig →
+    model: |
+      1. Ich werde ins Kino gehen, wenn ich morgen Zeit habe.
+      2. Wenn es regnet, werden wir zu Hause bleiben.
+      3. Morgen wird die Temperatur 25 Grad sein.
+      4. Ich werde nach Italien fahren, wenn ich genug Geld habe.
+      5. Ich werde mein Bestes geben.
+      6. Anna wird die B1-Prüfung schaffen, wenn sie regelmäßig übt.
+
+  - id: B7
+    block: B
+    type: categorize
+    title: "Kategorien: Vorsätze, Pläne, Vermutungen"
+    instructions: "Sort the 6 sentences into the two categories. 4 are plans/intentions, 2 are assumptions/predictions."
+    buckets:
+      - { key: plaene, label: "Vorsätze / Pläne (intentions, resolutions)" }
+      - { key: vermutungen, label: "Vermutungen (assumptions / predictions)" }
+    tokens:
+      - { text: "Ich werde morgen Deutsch lernen.", bucket: plaene }
+      - { text: "Sie wird wahrscheinlich müde sein.", bucket: vermutungen }
+      - { text: "Nächstes Jahr werden wir ein Haus kaufen.", bucket: plaene }
+      - { text: "Er wird das Buch bestimmt mögen.", bucket: vermutungen }
+      - { text: "Ich habe mir vorgenommen, mehr Sport zu machen.", bucket: plaene }
+      - { text: "Im Sommer werden wir nach Spanien fliegen.", bucket: plaene }
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Sätze mit Hinweisen"
+    prompt: "Answer in a complete Futur-I sentence, using the cue in brackets."
+    stimulus: |
+      1. Was wirst du am Wochenende machen? (mit Freunden / ins Kino gehen)
+      2. Was wirst du im Sommer machen? (nach Spanien fahren)
+      3. Wann wirst du mit dem Joggen anfangen? (wenn das Wetter besser wird)
+      4. Was wirst du tun, wenn es regnet? (zu Hause bleiben / ein Buch lesen)
+      5. Was werden deine Eltern im Sommer machen? (nach Italien fahren)
+      6. Was wirst du nächstes Jahr erreichen? (die B1-Prüfung / schaffen)
+    model: |
+      1. Ich werde am Wochenende mit Freunden ins Kino gehen.
+      2. Ich werde im Sommer nach Spanien fahren.
+      3. Ich werde mit dem Joggen anfangen, wenn das Wetter besser wird.
+      4. Wenn es regnet, werde ich zu Hause bleiben und ein Buch lesen.
+      5. Meine Eltern werden im Sommer nach Italien fahren.
+      6. Nächstes Jahr werde ich die B1-Prüfung schaffen.
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Pläne fürs Wochenende: WhatsApp an Maria"
+    prompt: "Antworte Maria in 4–5 Sätzen auf WhatsApp. Sag ihr, was du selbst am Wochenende vorhast, und ob du mitwandern kannst."
+    use:
+      - "at least 1 sentence with werden + Infinitiv (a future plan)"
+      - "at least 1 sentence with a wenn-clause (a condition)"
+      - "at least 1 time expression (am Samstag / am Sonntag / am Wochenende / am Abend)"
+      - "a friendly closing phrase (Bis dann! / Liebe Grüße / Tschüss!)"
+    selfCheck:
+      - "Did I put the verb at the end of the wenn-clause?"
+      - "Did I use a comma before the wenn-clause?"
+      - "Did I put werden in position 2 and the infinitive at the end?"
+    model: |
+      Hi Maria! Danke für die Einladung! Ich werde am Samstag leider nicht
+      mitkommen können — ich werde meine Eltern besuchen. Wenn ich am
+      Sonntag Zeit habe, werde ich vielleicht eine kleine Radtour machen.
+      Am Sonntagabend gehe ich mit meinem Bruder ins Kino. Wann
+      wandert ihr denn genau? Liebe Grüße, Anna
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext"
+    instructions: "Fill each gap with one word. 10 items."
+    text: |
+      Liebe Anna, wie geht es dir? Ich {1} dir von meinen Plänen
+      {2}. Nächstes Jahr {3} ich nach Wien fahren und
+      dort zwei Monate {4}. Ich {5} einen Sprachkurs
+      machen und im Theater arbeiten. {6} ich genug Geld habe,
+      {7} ich auch nach Prag fahren. {8} ich das letzte
+      Mal in Wien war, {9} es im Sommer sehr heiß. Diesmal
+      {10} ich im Frühling fahren. Liebe Grüße, Yuki.
+    answers:
+      "1": werde
+      "2": erzählen
+      "3": werde
+      "4": arbeiten
+      "5": werde
+      "6": Wenn
+      "7": werde
+      "8": Als
+      "9": war
+      "10": werde
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Ich {1} dir von meinen Plänen erzählen."
+        options:
+          - { key: a, text: "werde" }
+          - { key: b, text: "wirst" }
+          - { key: c, text: "werden" }
+        answer: a
+        why: "ich-form of werden in Futur I."
+      - q: "Mein Bruder {2} nächstes Jahr auch nach Wien fahren."
+        options:
+          - { key: a, text: "werdet" }
+          - { key: b, text: "wird" }
+          - { key: c, text: "wirst" }
+        answer: b
+        why: "3rd person singular (Mein Bruder = er)."
+      - q: "Wir {3} dort einen Sprachkurs machen."
+        options:
+          - { key: a, text: "werdet" }
+          - { key: b, text: "werde" }
+          - { key: c, text: "werden" }
+        answer: c
+        why: "1st person plural (wir)."
+      - q: "{4} wir genug Geld haben, fahren wir auch nach Salzburg."
+        options:
+          - { key: a, text: "Wenn" }
+          - { key: b, text: "Als" }
+          - { key: c, text: "Weil" }
+        answer: a
+        why: "Future condition."
+      - q: "{5} ich das letzte Mal in Wien war, hat es geregnet."
+        options:
+          - { key: a, text: "Wenn" }
+          - { key: b, text: "Als" }
+          - { key: c, text: "Wann" }
+        answer: b
+        why: "Single past event."
+      - q: "Diesmal {6} das Wetter hoffentlich besser."
+        options:
+          - { key: a, text: "werdet" }
+          - { key: b, text: "werde" }
+          - { key: c, text: "wird" }
+        answer: c
+        why: "3rd person singular (das Wetter)."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word once."
+    text: |
+      Letztes Jahr {1} ich im Sommer nach Wien geflogen. Ich
+      {2} dort auch einen Sprachkurs {3}. Nächstes
+      Jahr {4} ich wieder {5}. Mein Bruder
+      {6} auch eine Reise nach Italien. Wir {7},
+      dass das Wetter schön {8}. Letztes Jahr {9}
+      es leider oft {10}.
+    bank: [BIN, FLIEGEN, GEMACHT, HATTE, HABE, HAST, HAT, HOFFEN, IST, KANN, KAUFEN, PLANT, VERSPRICHT, WAREN, WERDE, WERDEN, WIRST, WOLLTE, WIRD, GEREGNET]
+    answers:
+      "1": BIN
+      "2": HABE
+      "3": GEMACHT
+      "4": WERDE
+      "5": FLIEGEN
+      "6": PLANT
+      "7": HOFFEN
+      "8": IST
+      "9": HAT
+      "10": GEREGNET
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Annas Pläne für das neue Jahr)"
+    instructions: 'Read „Annas Pläne für das neue Jahr" in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    items:
+      - q: "Anna lebt seit einem Jahr in Berlin."
+        answer: false
+        why: '„Anna ist Studentin und lebt seit zwei Jahren in Berlin".'
+      - q: "Anna hat drei Vorsätze für das neue Jahr."
+        answer: true
+        why: '„Sie hat drei wichtige Vorsätze".'
+      - q: "Im Februar wird sie einen Sportkurs anfangen."
+        answer: false
+        why: '„Im Februar wird sie einen Sprachkurs an der Volkshochschule anfangen" — no Sportkurs.'
+      - q: "Sie wird im Oktober die B1-Prüfung schreiben."
+        answer: false
+        why: '„Wenn sie regelmäßig übt, wird sie im Juni die B1-Prüfung schreiben" — not in October.'
+      - q: "Im Sommer wird sie nach Russland fliegen."
+        answer: true
+        why: '„Im Sommer wird sie nach Jaroslawl fliegen".'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Wettervorhersage für die Alpen)"
+    instructions: |
+      > Liebe Zuhörerinnen und Zuhörer, hier ist die Wettervorhersage für die
+      > Alpenregion. Am Montag wird es den ganzen Tag regnen, die Temperatur
+      > wird nur 12 Grad sein. Am Dienstag und Mittwoch wird das Wetter
+      > besser — Sonne und 18 Grad. Am Donnerstag wird es leider wieder
+      > schlechter: Wind, Wolken und vielleicht sogar Schnee in den Bergen.
+      > Wenn Sie wandern wollen, planen Sie Ihre Tour am besten für Dienstag
+      > oder Mittwoch. Am Wochenende wird das Wetter dann wieder schön, mit
+      > Temperaturen bis zu 22 Grad.
+
+      Wähle a, b oder c.
+    items:
+      - q: "Wie wird das Wetter am Montag?"
+        options:
+          - { key: a, text: "Sonnig und warm" }
+          - { key: b, text: "Regnerisch und kalt" }
+          - { key: c, text: "Schnee und stürmisch" }
+        answer: b
+        why: '„Am Montag wird es den ganzen Tag regnen, die Temperatur wird nur 12 Grad sein".'
+      - q: "Was ist die beste Temperatur in der Vorhersage?"
+        options:
+          - { key: a, text: "12 Grad" }
+          - { key: b, text: "18 Grad" }
+          - { key: c, text: "22 Grad" }
+        answer: c
+        why: '„Temperaturen bis zu 22 Grad" am Wochenende.'
+      - q: "Wann soll man am besten wandern?"
+        options:
+          - { key: a, text: "Am Montag" }
+          - { key: b, text: "Am Dienstag oder Mittwoch" }
+          - { key: c, text: "Am Donnerstag" }
+        answer: b
+        why: '„planen Sie Ihre Tour am besten für Dienstag oder Mittwoch".'
+      - q: "Was wird am Donnerstag passieren?"
+        options:
+          - { key: a, text: "Sonne und Wärme" }
+          - { key: b, text: "Wind, Wolken, vielleicht Schnee" }
+          - { key: c, text: "Gewitter" }
+        answer: b
+        why: '„Am Donnerstag wird es leider wieder schlechter: Wind, Wolken und vielleicht sogar Schnee".'
+      - q: "Wie wird das Wetter am Wochenende?"
+        options:
+          - { key: a, text: "Regen" }
+          - { key: b, text: "Schnee" }
+          - { key: c, text: "Wieder schön und warm" }
+        answer: c
+        why: '„Am Wochenende wird das Wetter dann wieder schön".'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Pläne für das nächste Jahr"
+    prompt: "Write a short message (8–10 sentences) to a friend about your plans for the next year. Include 3 resolutions or plans, 1 wenn-clause about a future event, 1 sentence about the past using als, 1 sentence about the past using wenn (repeated), and what you will do if something happens."
+    use:
+      - "3 × Futur I sentences (werden + Infinitiv)"
+      - "1 × wenn-clause about a future event (verb at end)"
+      - "1 × als-sentence (one-time past event)"
+      - "1 × wenn-sentence (repeated past)"
+      - "1 full condition sentence (wenn + main clause)"
+    selfCheck:
+      - "Does each Futur I sentence use werden (conjugated) + infinitive at the END of the clause?"
+      - "Did I use als only for a one-time past event, and wenn for repeated or future events?"
+      - "In every als/wenn subordinate clause, is the conjugated verb at the very END?"
+    model: |
+      Hallo Maria! Ich möchte dir von meinen Plänen für das nächste Jahr
+      erzählen. Erstens: Ich werde mehr Sport machen — dreimal pro Woche
+      joggen. Zweitens: Ich werde im Sommer nach Italien fahren. Drittens:
+      Ich werde eine neue Sprache lernen, vielleicht Spanisch. Wenn ich
+      genug Geld habe, werde ich auch einen Kochkurs machen. Als ich
+      letztes Jahr in Wien war, habe ich beschlossen, dass ich dieses Jahr
+      mehr reisen möchte. Und wenn ich müde war, hat mir meine Mutter
+      immer gesagt: „Mach, was dich glücklich macht!" Also werde ich
+      genau das tun.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per item. No notes. 15 items."
+    text: |
+      1. (A2/L04) In wenn-clauses, where does the conjugated verb go? → {1}
+      2. Present of werden, ich-form: {2}
+      3. als or wenn? „{3} ich ein Kind war, habe ich in Russland gelebt." → {4}
+      4. (A2/L10) die Schweiz, die Türkei — what kind of noun is die Schweiz? → {5}
+      5. Futur I: ich + lernen → „Ich {6} morgen Deutsch {7}." → {8} {9}
+      6. als or wenn? „{10} es morgen regnet, {11} wir zu Hause {12}." (werden + bleiben) → {13} {14}
+      7. (A2/L09) Polite form: „{15} Sie mir bitte helfen?" (Könnten / Können / Kann) → {16}
+      8. (A1/L11) Partizip II of fliegen → {17}
+      9. Negation: „Ich werde morgen nicht {18}." (kommen) → {19}
+      10. (A2/L04) als with a profession: „Ich arbeite {20} Lehrerin." (als / wie / als ob) → {21}
+      11. Time connector meaning after that (A2/L01): {22}
+      12. (A2/L03) weil-clause: verb position? → {23}
+      13. Word order in Futur I: position of the infinitive → {24}
+      14. als or wenn? „{25} ich in Berlin ankam, hat es geregnet." → {26}
+      15. (A2/L10) Country with article: „Wir fahren {27} Iran." (nach / in den / im) → {28}
+    answers:
+      "1": "At the end (of the subordinate clause)"
+      "2": werde
+      "3": als
+      "4": als
+      "5": "Feminine country name"
+      "6": werde
+      "7": lernen
+      "8": werde
+      "9": lernen
+      "10": Wenn
+      "11": werden
+      "12": bleiben
+      "13": werden
+      "14": bleiben
+      "15": Könnten
+      "16": Könnten
+      "17": geflogen
+      "18": kommen
+      "19": kommen
+      "20": als
+      "21": als
+      "22": danach
+      "23": "At the end"
+      "24": "At the end of the clause"
+      "25": als
+      "26": als
+      "27": "in den"
+      "28": "in den"
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Cross out the word that doesn't fit and say why."
+    groups:
+      - items: [planen, wohnen, hoffen, erwarten]
+        odd: 1
+        why: "wohnen is the only verb that does not deal with future / expectation; the others (planen, hoffen, erwarten) are all future-oriented."
+      - items: ["der Regen", "der Schnee", "die Wolke", "die Tasche"]
+        odd: 3
+        why: "die Tasche is the only non-weather noun; the others (Regen, Schnee, Wolke) are all weather phenomena."
+      - items: ["der Plan", "der Traum", "der Wunsch", "der Bahnhof"]
+        odd: 3
+        why: "der Bahnhof is the only place; the others (Plan, Traum, Wunsch) are all abstract ideas about the future."
+      - items: [werden, haben, sein, gehen]
+        odd: 0
+        why: "werden is the only auxiliary verb (Futur I); the others (haben, sein, gehen) are full verbs / Perfekt auxiliaries."
+      - items: ["die Wettervorhersage", "die Präsentation", "das Konzept", "der Hafen"]
+        odd: 3
+        why: "der Hafen is the only travel/place noun; the others are all project/future terms."
+      - items: [als, wenn, weil, wann]
+        odd: 2
+        why: "weil is the only causal conjunction (because); the others (als, wenn, wann) are all temporal (time-related)."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: A2/01, A2/03, A2/04, A2/09, A2/10"
+    instructions: "Review of Partizip II, weil/dass, wenn/als, Konjunktiv II, and prepositions. 10 items."
+    text: |
+      1. (A2/L01) Partizip II of verstehen: {1}
+      2. (A2/L01) Präteritum of müssen, ich-form: {2}
+      3. (A2/L03) weil or dass? „Ich weiß, {3} er krank ist." → {4}
+      4. (A2/L04) wenn-clause: „Wenn er kommt, {5} ich mich freue." (werden / freuen) → {6}
+      5. (A2/L04) als + profession: „Sie arbeitet {7} Ärztin." → {8}
+      6. (A2/L09) Konjunktiv II polite: „Ich {9} gern einen Kaffee." (hätte / habe / bin) → {10}
+      7. (A2/L09) Wäre + infinitive: „{11} Sie so freundlich, das Fenster zu öffnen?" → {12}
+      8. (A2/L10) Wo? / Wohin? / Woher? — „Ich fahre {13} Spanien." → {14}
+      9. (A2/L10) „Das Hotel liegt direkt {15} Hafen." (am / ans / auf) → {16}
+      10. (A2/L10) Perfekt: „Wir {17} gestern in Wien {18} (ankommen)." → {19} {20}
+    answers:
+      "1": verstanden
+      "2": musste
+      "3": dass
+      "4": dass
+      "5": werde
+      "6": werde
+      "7": als
+      "8": als
+      "9": hätte
+      "10": hätte
+      "11": Wären
+      "12": Wären
+      "13": nach
+      "14": nach
+      "15": am
+      "16": am
+      "17": sind
+      "18": angekommen
+      "19": sind
+      "20": angekommen
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion A2/13. Below 16 → redo Block A (A1–A6) and Block B2 (Finde den Fehler) tomorrow, then retest D4."
+    text: |
+      **Futur I — fill the form of werden + infinitive:**
+      1. „Ich {1} morgen Deutsch {2} (lernen)."
+      2. „Anna {3} im Juli nach Brasilien {4} (fliegen)."
+      3. „Wir {5} uns im Februar {6} (treffen)."
+      4. „{7} du nächste Woche nach Wien {8} (fahren)?"
+      5. „Das Wetter {9} morgen besser {10} (werden)."
+
+      **als or wenn?**
+      6. „{11} ich ein Kind war, habe ich in Russland gelebt." → {12}
+      7. „{13} ich morgen Zeit habe, gehe ich ins Kino." → {14}
+      8. „{15} ich traurig war, hat meine Mutter mich getröstet." → {16}
+      9. „Als ich gestern in Berlin ankam, hat es {17}." (regnen / regnet / geregnet) → {18}
+
+      **Wetter:**
+      10. „Morgen {19} es sonnig und 25 Grad." (ist / wird / hat) → {20}
+      11. „Am Wochenende wird es {21}." (regnen / regnet / geregnet) → {22}
+
+      **Mixed:**
+      12. Negation: „Ich werde morgen nicht {23}." (kommen) → {24}
+      13. Verb position in a wenn-clause with Futur I: „Wenn ich Zeit habe, {25} ich ins Kino {26} (gehen)." → {27} {28}
+      14. (A2/L04) als + profession: „Er arbeitet {29} Programmierer." → {30}
+      15. (A2/L10) „Ich fahre {31} Schweiz." (in die / in der / nach) → {32}
+
+      **Translation:**
+      16. „We will fly to Italy next summer." → {33}
+      17. „Whenever I was tired, my father read me a story." → {34}
+
+      **Final:**
+      18. (A2/L09) Polite: „{35} Sie mir bitte das Salz geben?" (Könnten / Können / Kann) → {36}
+      19. (A2/L01) Partizip II of bekommen (inseparable): {37}
+      20. Free: write one Futur-I sentence about a plan for the next month. → {38}
+    answers:
+      "1": werde
+      "2": lernen
+      "3": wird
+      "4": fliegen
+      "5": werden
+      "6": treffen
+      "7": Wirst
+      "8": fahren
+      "9": wird
+      "10": werden
+      "11": als
+      "12": als
+      "13": wenn
+      "14": wenn
+      "15": wenn
+      "16": wenn
+      "17": geregnet
+      "18": geregnet
+      "19": wird
+      "20": wird
+      "21": regnen
+      "22": regnen
+      "23": kommen
+      "24": kommen
+      "25": werde
+      "26": gehen
+      "27": werde
+      "28": gehen
+      "29": als
+      "30": als
+      "31": "in die"
+      "32": "in die"
+      "33": "Wir werden nächsten Sommer nach Italien fliegen."
+      "34": "Wenn ich müde war, hat mein Vater mir eine Geschichte vorgelesen."
+      "35": Könnten
+      "36": Könnten
+      "37": bekommen
+      "38": "Ich werde nächsten Monat mit dem Rauchen aufhören."
