@@ -1,9 +1,6 @@
 # A2 · Lektion 4 — Übungen (Exercises)
 
-Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
-**D** Wiederholung & Selbsttest. Answers in `solutions.md`.
-Tip: spread the blocks over several days — H and A on day 1, B on day 2,
-C on day 3, D on day 4 after a pause.
+Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Answers in solutions.md. Tip: spread the blocks over several days — H and A on day 1, B on day 2, C on day 3, D on day 4 after a pause.
 
 ---
 
@@ -13,12 +10,12 @@ C on day 3, D on day 4 after a pause.
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: **Richtig (R)** oder **Falsch (F)**?
+Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
-1. Bruno sucht einen neuen Job. ___
-2. Bruno hat noch keine Bewerbungen geschickt. ___
-3. Bruno möchte als IT-Assistent arbeiten. ___
-4. Bruno wartet bis Montag auf eine Antwort. ___
+1. Bruno sucht einen neuen Job. ( )
+2. Bruno hat noch keine Bewerbungen geschickt. ( )
+3. Bruno möchte als IT-Assistent arbeiten. ( )
+4. Bruno wartet bis Montag auf eine Antwort. ( )
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
@@ -26,57 +23,31 @@ Listen to Dialog A and decide: **Richtig (R)** oder **Falsch (F)**?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Frau Weber möchte sich für welche Stelle bewerben?
-   a) als Koordinatorin  b) als Projektleiterin  c) als Managerin
-
-2. Wie lange hat Frau Weber als Koordinatorin gearbeitet?
-   a) zwei Jahre  b) drei Jahre  c) fünf Jahre
-
-3. Was soll Frau Weber tun, um einen Termin zu bekommen?
-   a) anrufen  b) Unterlagen einreichen  c) eine E-Mail schreiben
-
-4. Bis wann soll Frau Weber die Unterlagen schicken?
-   a) bis Freitag  b) bis Samstag  c) bis Montag
+1. Frau Weber möchte sich für welche Stelle bewerben?  a) als Koordinatorin  b) als Projektleiterin  c) als Managerin
+2. Wie lange hat Frau Weber als Koordinatorin gearbeitet?  a) zwei Jahre  b) drei Jahre  c) fünf Jahre
+3. Was soll Frau Weber tun, um einen Termin zu bekommen?  a) anrufen  b) Unterlagen einreichen  c) eine E-Mail schreiben
+4. Bis wann soll Frau Weber die Unterlagen schicken?  a) bis Freitag  b) bis Samstag  c) bis Montag
 
 ## Übung H3 — Hörtext-Lückentext
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. **Three words in the box are not needed.**
+Listen and fill in the 6 missing words. Three words in the box are not needed.
 
-**Word bank:** anfängt · Kellnerin · Abendkurs · müde · Pause · versteht · schläfrig · Café · morgens
+> Yuki arbeitet seit drei Monaten als (1) ______ in einem (2) ______ in München. Wenn sie früh (3) ______, beginnt ihr Tag um sechs Uhr (4) ______. Sie macht eine (5) ______, wenn es ruhig ist. Nach der Arbeit lernt sie Deutsch in einem (6) ______.
 
-> Yuki arbeitet seit drei Monaten als (1) ______ in einem (2) ______ in München.
-> Wenn sie früh (3) ______, beginnt ihr Tag um sechs Uhr (4) ______. Sie macht
-> eine (5) ______, wenn es ruhig ist. Nach der Arbeit lernt sie Deutsch in einem
-> (6) ______. Wenn der Kurs endet, ist sie meistens sehr müde, aber glücklich.
+> (anfängt · Kellnerin · Abendkurs · müde · Pause · versteht · schläfrig · Café · morgens)
 
 ## Übung H4 — Kurze Ansage: Anruf von der Personalagentur
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the phone message. Then choose the correct answer (a, b, or c).
-Listen **once** before reading the transcript below.
+Listen to the phone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
 
-1. Von welcher Firma ruft Frau Schäfer an?  
-   a) Von der Personalagentur „Jobwelt".  
-   b) Von der Firma „Jobfinder".  
-   c) Vom IT-Unternehmen „Future".
-
-2. Für welche Stelle hat sich der Bewerber beworben?  
-   a) Als Kellner.  
-   b) Als Projektleiter.  
-   c) Als IT-Assistent.
-
-3. Wann findet das Vorstellungsgespräch statt?  
-   a) Am Mittwoch, dem achtzehnten Juni, um zehn Uhr.  
-   b) Am Mittwoch, dem elften Juni, um zehn Uhr.  
-   c) Am Donnerstag, dem neunzehnten Juni, um vierzehn Uhr.
-
-4. Bis wann soll man anrufen, um den Termin zu bestätigen?  
-   a) Bis Donnerstag.  
-   b) Bis Freitag.  
-   c) Bis Samstag.
+1. Von welcher Firma ruft Frau Schäfer an?  a) Von der Personalagentur „Jobwelt".  b) Von der Firma „Jobfinder".  c) Vom IT-Unternehmen „Future".
+2. Für welche Stelle hat sich der Bewerber beworben?  a) Als Kellner.  b) Als Projektleiter.  c) Als IT-Assistent.
+3. Wann findet das Vorstellungsgespräch statt?  a) Am Mittwoch, dem achtzehnten Juni, um zehn Uhr.  b) Am Mittwoch, dem elften Juni, um zehn Uhr.  c) Am Donnerstag, dem neunzehnten Juni, um vierzehn Uhr.
+4. Bis wann soll man anrufen, um den Termin zu bestätigen?  a) Bis Donnerstag.  b) Bis Freitag.  c) Bis Samstag.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -95,35 +66,31 @@ Listen **once** before reading the transcript below.
 
 ## Übung A1 — `wenn`-Sätze: Verben ans Ende
 
-Move the verb to the correct position in the `wenn`-clause. Write the full sentence.
+Move the verb to the correct position in the `wenn`-clause. Write the final verb.
 
-Example: *Ich komme. (wenn / es / möglich / ist)* → *Ich komme, wenn es möglich ist.*
-
-1. Er ruft an. (wenn / er / fertig / ist)
-2. Wir fangen an. (wenn / alle / da / sind)
-3. Ich schreibe noch mal. (wenn / ich / keine Antwort / bekomme)
-4. Sie ist glücklich. (wenn / die Arbeit / interessant / ist)
-5. Herr Keller hilft. (wenn / man / Fragen / hat)
-6. Bruno geht in die Kantine. (wenn / er / Hunger / hat)
+1. Er ruft an. → Er ruft an, wenn er fertig ______.
+2. Wir fangen an. → Wir fangen an, wenn alle da ______.
+3. Ich schreibe noch mal. → Ich schreibe noch mal, wenn ich keine Antwort ______.
+4. Sie ist glücklich. → Sie ist glücklich, wenn die Arbeit interessant ______.
+5. Herr Keller hilft. → Herr Keller hilft, wenn man Fragen ______.
+6. Bruno geht in die Kantine. → Bruno geht in die Kantine, wenn er Hunger ______.
 
 ## Übung A2 — `wenn`-Satz vorne: Inversion
 
-Rewrite each sentence with the `wenn`-clause first. Remember: the main clause verb comes immediately after the comma.
+Rewrite each sentence with the `wenn`-clause first. The gap is the main-clause verb (which comes immediately after the comma).
 
-Example: *Er ist glücklich, wenn er einen Job findet.* → *Wenn er einen Job findet, ist er glücklich.*
-
-1. Bruno ist pünktlich, wenn der Zug kommt.
-2. Sie lernt schnell, wenn sie jeden Tag übt.
-3. Herr Steinmeyer vereinbart einen Termin, wenn die Unterlagen da sind.
-4. Anna hilft Bruno, wenn er Probleme hat.
-5. Ich verdiene mehr, wenn ich Vollzeit arbeite.
-6. Man versteht viel, wenn man aufmerksam zuhört.
+1. Bruno ist pünktlich, wenn der Zug kommt. → Wenn der Zug kommt, ______ Bruno pünktlich.
+2. Sie lernt schnell, wenn sie jeden Tag übt. → Wenn sie jeden Tag übt, ______ sie schnell.
+3. Herr Steinmeyer vereinbart einen Termin, wenn die Unterlagen da sind. → Wenn die Unterlagen da sind, ______ Herr Steinmeyer einen Termin.
+4. Anna hilft Bruno, wenn er Probleme hat. → Wenn er Probleme hat, ______ Anna Bruno.
+5. Ich verdiene mehr, wenn ich Vollzeit arbeite. → Wenn ich Vollzeit arbeite, ______ ich mehr.
+6. Man versteht viel, wenn man aufmerksam zuhört. → Wenn man aufmerksam zuhört, ______ man viel.
 
 ## Übung A3 — `wenn`-Satz mit Modalverb
 
-Complete the `wenn`-clause with the correct form of the modal verb. Verb goes to the end.
+Complete the `wenn`-clause with the correct form of the modal verb (infinitive before modal, both at the end).
 
-1. Wenn ich früher ______ (aufhören können), komme ich pünktlich.
+1. Wenn ich früher aufhören ______ (aufhören können), komme ich pünktlich.
 2. Wenn man einen Termin ______ (vereinbaren wollen), muss man anrufen.
 3. Wenn er die Stelle ______ (bekommen wollen), muss er sich bewerben.
 4. Wenn wir morgen nicht ______ (arbeiten müssen), gehen wir ins Café.
@@ -131,9 +98,7 @@ Complete the `wenn`-clause with the correct form of the modal verb. Verb goes to
 
 ## Übung A4 — `wenn`-Satz mit Perfekt
 
-Complete the `wenn`-clause using the Perfekt. Choose from the verbs below.
-
-Verbs: schicken · einreichen · anfangen · bewerben (sich) · lesen
+Complete the `wenn`-clause using the Perfekt. Each item has two gaps (Partizip II + auxiliary).
 
 1. Wenn Bruno die E-Mail ______ ______, wartet er auf eine Antwort.
 2. Wenn Frau Weber die Unterlagen ______ ______, vereinbaren wir einen Termin.
@@ -145,8 +110,6 @@ Verbs: schicken · einreichen · anfangen · bewerben (sich) · lesen
 
 Fill in the correct profession noun (no article!) after `als`.
 
-Professions: Lehrerin · Mechaniker · Programmiererin · Koch · Koordinatorin · Student
-
 1. Er hat fünf Jahre als ______ in einem Restaurant gearbeitet.
 2. Sie ist als ______ bei einer Softwarefirma tätig.
 3. Ich bin als ______ eingeschrieben — ich studiere Informatik.
@@ -156,18 +119,18 @@ Professions: Lehrerin · Mechaniker · Programmiererin · Koch · Koordinatorin 
 
 ## Übung A6 — `als` mit Verb: richtig oder falsch?
 
-Correct the wrong sentences. Write C (correct) or X (wrong) + the corrected sentence.
+Mark each sentence R (richtig) or F (falsch).
 
-1. Ich arbeite als eine Ärztin.
-2. Er hat als Journalist gearbeitet.
-3. Sie ist als die Managerin angestellt.
-4. Wir arbeiten als Kollegen zusammen.
-5. Er war als ein Koch tätig.
-6. Anna möchte als Lehrerin arbeiten.
+1. Ich arbeite als eine Ärztin. ( )
+2. Er hat als Journalist gearbeitet. ( )
+3. Sie ist als die Managerin angestellt. ( )
+4. Wir arbeiten als Kollegen zusammen. ( )
+5. Er war als ein Koch tätig. ( )
+6. Anna möchte als Lehrerin arbeiten. ( )
 
 ## Übung A7 — Berufe: welche Form?
 
-Give the feminine and masculine form of each profession noun.
+Give the opposite-gender form of each profession.
 
 1. der Lehrer → die ______
 2. die Ärztin → der ______
@@ -182,17 +145,16 @@ Give the feminine and masculine form of each profession noun.
 
 Match each definition (1–8) to the correct noun (a–h).
 
-1. Das schreibe ich und schicke es an die Firma, wenn ich mich bewerbe.
-2. Dort arbeiten viele Leute an Schreibtischen.
-3. Hier treffen sich Kollegen, um Dinge zu besprechen.
-4. Das bekomme ich jeden Monat für meine Arbeit.
-5. Er bezahlt mich — ich arbeite für ihn.
-6. Mit ihm oder ihr arbeite ich jeden Tag zusammen.
-7. Hier kann ich eine Pause machen und etwas essen.
-8. Das ist das Gespräch, das ich vor dem ersten Arbeitstag habe.
-
-a) die Besprechung  b) das Büro  c) die Bewerbung  d) der Arbeitgeber  
-e) der Kollege  f) das Vorstellungsgespräch  g) das Gehalt  h) die Kantine
+| Links | | Rechts |
+|---|---|---|
+| 1. Das schreibe ich und schicke es an die Firma, wenn ich mich bewerbe. | | a) die Besprechung |
+| 2. Dort arbeiten viele Leute an Schreibtischen. | | b) das Büro |
+| 3. Hier treffen sich Kollegen, um Dinge zu besprechen. | | c) die Bewerbung |
+| 4. Das bekomme ich jeden Monat für meine Arbeit. | | d) der Arbeitgeber |
+| 5. Er bezahlt mich — ich arbeite für ihn. | | e) der Kollege / die Kollegin |
+| 6. Mit ihm oder ihr arbeite ich jeden Tag zusammen. | | f) das Vorstellungsgespräch |
+| 7. Hier kann ich eine Pause machen und etwas essen. | | g) das Gehalt |
+| 8. Das ist das Gespräch, das ich vor dem ersten Arbeitstag habe. | | h) die Kantine |
 
 ## Übung A9 — Konjugation: Verben zur Arbeit
 
@@ -208,38 +170,37 @@ Write the correct verb form.
 
 ## Übung A10 — `wenn` oder `weil`?
 
-Choose `wenn` or `weil` and complete the sentence. Verb at the end!
+Choose `wenn` or `weil` and complete the gap with the verb (infinitive + modal or finite verb, at the end of the clause).
 
-1. Er lernt viel, ______ er die Prüfung ______ (bestehen wollen).
+1. Er lernt viel, ______ er die Prüfung bestehen ______ (bestehen wollen).
 2. Ich bin glücklich, ______ meine Arbeit interessant ______ (sein).
 3. Bruno sucht einen Job, ______ er Geld ______ (brauchen).
 4. ______ du Zeit ______ (haben), können wir einen Kaffee trinken.
 5. Sie kommt zu spät, ______ der Bus Verspätung ______ (haben).
 6. Er schreibt eine E-Mail, ______ er keine Antwort ______ (bekommen).
 7. Wir bleiben im Büro, ______ die Besprechung so lange ______ (dauern).
-8. ______ man viel übt, ______ man schnell.
+8. ______ man viel übt, lernt man schnell.
 
 ## Übung A11 — Satzklammer recap: Trennbare Verben (L5 review)
 
-Rewrite with the correct position for the separable verb prefix. Mark the Satzklammer with [ ].
+Each item has two gaps: the conjugated verb (position 2) and the separable prefix (end of clause).
 
-Example: *Ich stehe um sieben auf.* → *Ich [stehe] um sieben [auf].*
-
-1. Bruno fängt um neun Uhr an.
-2. Hörst du nach der Arbeit auf?
-3. Wir rufen morgen an.
-4. Sie kauft jeden Tag im Supermarkt ein.
-5. Wann stehst du auf?
+1. Bruno ______ um neun Uhr ______ (anfangen).
+2. ______ du nach der Arbeit ______? (aufhören)
+3. Wir ______ morgen ______. (anrufen)
+4. Sie ______ jeden Tag im Supermarkt ______. (einkaufen)
+5. Wann ______ du ______? (aufstehen)
 
 ## Übung A12 — Berufsbezeichnungen + `als`: Sätze bauen
 
-Build complete sentences using the cues. Use `als` + the profession given.
-
-1. Anna / arbeiten / Lehrerin / in Berlin
+> 1. Anna / arbeiten / Lehrerin / in Berlin
 2. Er / haben / gearbeitet / drei Jahre / Mechaniker
 3. Wir / suchen / jemanden / als / Buchhalter
 4. Möchtest du / als / Programmierer / arbeiten?
 5. Sie / sein / seit zwei Jahren / tätig / als / Managerin
+
+
+**Your task:** Build complete sentences using the cues. Use `als` + the profession given (no article after `als`).
 
 ---
 
@@ -247,87 +208,85 @@ Build complete sentences using the cues. Use `als` + the profession given.
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the gaps with words from the box. One word is used once only; two are not needed.
+Fill in the 7 gaps with words from the box. Two words are not needed.
 
-**Box:** wenn · als · weil · Stelle · Bewerbung · Unterlagen · Erfahrung · ob · Gehalt
+> — Entschuldigung, ich interessiere mich für die (1) ______ als Buchhalter.
+> — Ja, bitte. Haben Sie schon (2) ______ in diesem Bereich?
+> — Ja, ich habe zwei Jahre (3) ______ Buchhalter bei einer kleinen Firma gearbeitet.
+> — Sehr gut. Wann können Sie Ihre (4) ______ schicken?
+> — (5) ______ es Ihnen recht ist, schicke ich alles bis morgen.
+> — Das wäre ideal. (6) ______ die (7) ______ da sind, melden wir uns.
 
-— Entschuldigung, ich interessiere mich für die (1) ______ als Buchhalter.
-— Ja, bitte. Haben Sie schon (2) ______ in diesem Bereich?
-— Ja, ich habe zwei Jahre (3) ______ Buchhalter bei einer kleinen Firma gearbeitet.
-— Sehr gut. Wann können Sie Ihre (4) ______ schicken?
-— (5) ______ es Ihnen recht ist, schicke ich alles bis morgen.
-— Das wäre ideal. (6) ______ die (7) ______ da sind, melden wir uns.
+> (wenn · als · weil · Stelle · Bewerbung · Unterlagen · Erfahrung · ob · Gehalt · wenn · Unterlagen)
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly **one** mistake. Find and correct it.
+Each sentence has exactly one mistake. The wrong word/position is shown as a gap — write the correct form.
 
-1. Wenn er fertig ist, er kommt sofort.
-2. Ich arbeite als eine Ärztin in Hamburg.
-3. Wenn ich keine Arbeit finde, kann ich nicht zahlen die Miete.
-4. Sie hat beworben sich für die neue Stelle.
-5. Er arbeitet als Koch, weil er gern kocht — deshalb macht er Überstunden, wenn er viele Gäste hat. *(Check the underlined `wenn`-clause structure.)*  
-   Full sentence: *Er macht Überstunden, wenn viele Gäste da sein.*
-6. Wir vereinbaren einen Termin, wenn die Unterlagen sind da.
-7. Ich habe drei Jahr als Lehrer gearbeitet.
-8. Als Student bin ich kein Geld verdienen.
+1. Wenn er fertig ist, ______ sofort. (er kommt → ?)
+2. Ich arbeite als ______ Ärztin in Hamburg. (eine → ?)
+3. Wenn ich keine Arbeit finde, kann ich nicht ______ die Miete. (zahlen → ?)
+4. Sie hat ______ sich für die neue Stelle. (beworben → ?)
+5. Er macht Überstunden, wenn viele Gäste ______ (da sein → ?).
+6. Wir vereinbaren einen Termin, wenn die Unterlagen ______ da. (sind → ?)
+7. Ich habe drei ______ als Lehrer gearbeitet. (Jahr → ?)
+8. Als Student ______ ich kein Geld verdienen. (bin → ?)
 
 ## Übung B3 — Sätze verbinden: `wenn`, `weil`, `deshalb`
 
-Combine the two sentences using the connector given. Watch verb position!
+Combine using the connector given. The gap is the connector (and any required verb at the end of the wenn-clause).
 
-1. Ich habe viel Erfahrung. Ich bekomme die Stelle. → (wenn)
-2. Er braucht Geld. Er arbeitet viel. → (weil)
-3. Sie hat eine gute Bewerbung geschrieben. Sie bekommt das Vorstellungsgespräch. → (deshalb)
-4. Du lernst viel. Du sprichst bald gut Deutsch. → (wenn)
-5. Der Bus kommt zu spät. Ich bin nicht pünktlich. → (weil)
-6. Herr Steinmeyer bekommt die Unterlagen bis Montag. Er vereinbart einen Termin. → (wenn)
+1. Ich habe viel Erfahrung. → ______ ich viel Erfahrung habe, bekomme ich die Stelle.
+2. Er braucht Geld. → Er arbeitet viel, ______ er Geld braucht.
+3. Sie hat eine gute Bewerbung geschrieben. → ______ bekommt sie das Vorstellungsgespräch.
+4. Du lernst viel. → ______ du viel lernst, sprichst du bald gut Deutsch.
+5. Der Bus kommt zu spät. → Ich bin nicht pünktlich, ______ der Bus zu spät kommt.
+6. Herr Steinmeyer bekommt die Unterlagen bis Montag. → ______ er die Unterlagen bis Montag bekommt, vereinbart er einen Termin.
 
 ## Übung B4 — Fragen und Antworten zuordnen
 
 Match each question (1–8) to the correct answer (a–h).
 
-1. Was machen Sie von Beruf?
-2. Wo arbeiten Sie?
-3. Wann beginnt Ihr Arbeitstag?
-4. Haben Sie Berufserfahrung?
-5. Warum bewerben Sie sich bei uns?
-6. Was sind Ihre Stärken?
-7. Wann sind Sie verfügbar?
-8. Wie lange machen Sie Pause?
-
-a) Ich arbeite in einem Büro in Berlin-Mitte.  
-b) Ab dem ersten März.  
-c) Ich bin von Beruf Ingenieurin.  
-d) Ja, ich habe drei Jahre als Koordinatorin gearbeitet.  
-e) Weil ich die Firma sehr interessant finde.  
-f) Um neun Uhr.  
-g) Eine Stunde, von zwölf bis dreizehn Uhr.  
-h) Ich bin sehr organisiert und arbeite gut im Team.
+| Links | | Rechts |
+|---|---|---|
+| 1. Was machen Sie von Beruf? | | a) Ich arbeite in einem Büro in Berlin-Mitte. |
+| 2. Wo arbeiten Sie? | | b) Ab dem ersten März. |
+| 3. Wann beginnt Ihr Arbeitstag? | | c) Ich bin von Beruf Ingenieurin. |
+| 4. Haben Sie Berufserfahrung? | | d) Ja, ich habe drei Jahre als Koordinatorin gearbeitet. |
+| 5. Warum bewerben Sie sich bei uns? | | e) Weil ich die Firma sehr interessant finde. |
+| 6. Was sind Ihre Stärken? | | f) Um neun Uhr. |
+| 7. Wann sind Sie verfügbar? | | g) Eine Stunde, von zwölf bis dreizehn Uhr. |
+| 8. Wie lange machen Sie Pause? | | h) Ich bin sehr organisiert und arbeite gut im Team. |
 
 ## Übung B5 — Satzbau: `wenn`-Sätze
 
-Put the words in the right order. Watch the verb position.
+Put the words in the right order.
 
-1. wenn / ist / er / kommt / er / fertig / sofort
-2. habe / keinen / Hunger / esse / wenn / nichts / ich / ich
-3. finde / ich / einen / Job / wenn / glücklich / ich / Glück / habe / bin
-4. sie / Fragen / hat / hilft / wenn / ihr / Laura
-5. Unterlagen / bis / Montag / wir / anrufen / Sie / einreichen / wenn / die
+1. er – fertig – ist – wenn – sofort – er – kommt
+2. ich – nichts – keinen – ich – esse – habe – wenn – Hunger
+3. finde – ich – wenn – Glück – habe – ich – glücklich – bin – einen – Job
+4. sie – hat – wenn – Fragen – ihr – Laura – hilft
+5. bis – wir – Sie – die – Unterlagen – anrufen – einreichen – Montag – wenn
 
 ## Übung B6 — Beruf beschreiben: Sätze schreiben
 
-Use the prompts to write 4–5 complete sentences about the person.
+> Person: Maria, 32 Jahre, Programmiererin, Softwarefirma in München, Vollzeit, Arbeitsbeginn 8:30 Uhr, gern im Team.
 
-**Person:** Maria, 32 Jahre, Programmiererin, Softwarefirma in München, Vollzeit, Arbeitsbeginn 8:30 Uhr, gern im Team
+Beispiel: Maria arbeitet als Programmiererin bei einer Softwarefirma in München.
 
-Beispiel: *Maria arbeitet als Programmiererin bei einer Softwarefirma in München.*
+Write 4 more sentences.
 
-Write 4 more sentences. Use `wenn` in at least one.
+
+**Your task:** Write 4–5 complete sentences about Maria. Use `wenn` in at least one sentence. The first sentence is given as an example.
+
+Use:
+- [ ] `als` + profession (no article) — *als Programmiererin*
+- [ ] a `wenn`-clause (verb at end)
+- [ ] at least one detail about Maria's working day
 
 ## Übung B7 — Übersetzen (EN → DE)
 
-1. I work as a teacher in Berlin.
+> 1. I work as a teacher in Berlin.
 2. If I have time, I write the application.
 3. She has worked as a manager for two years.
 4. When does your working day start?
@@ -336,67 +295,50 @@ Write 4 more sentences. Use `wenn` in at least one.
 7. If you have questions, please contact us.
 8. We arrange a meeting when the documents arrive.
 
+
+**Your task:** Translate each English sentence into German. Use `wenn`, `weil`, or `deshalb` as appropriate.
+
 ## Übung B8 — Wie heißt das auf Deutsch?
 
 Match the English job ad phrases (1–8) to the German equivalents (a–h).
 
-1. We are looking for a qualified engineer.
-2. Please send your CV and cover letter.
-3. We offer a competitive salary.
-4. You have at least two years of experience.
-5. The position starts on 1 March.
-6. Full-time or part-time possible.
-7. We look forward to your application.
-8. Please contact us by telephone.
-
-a) Bitte schicken Sie Ihren Lebenslauf und Ihr Anschreiben.  
-b) Wir bieten ein gutes Gehalt.  
-c) Die Stelle beginnt am 1. März.  
-d) Sie haben mindestens zwei Jahre Berufserfahrung.  
-e) Wir freuen uns auf Ihre Bewerbung.  
-f) Vollzeit oder Teilzeit möglich.  
-g) Wir suchen einen qualifizierten Ingenieur.  
-h) Bitte melden Sie sich telefonisch.
+| Links | | Rechts |
+|---|---|---|
+| 1. We are looking for a qualified engineer. | | a) Bitte schicken Sie Ihren Lebenslauf und Ihr Anschreiben. |
+| 2. Please send your CV and cover letter. | | b) Wir bieten ein gutes Gehalt. |
+| 3. We offer a competitive salary. | | c) Die Stelle beginnt am 1. März. |
+| 4. You have at least two years of experience. | | d) Sie haben mindestens zwei Jahre Berufserfahrung. |
+| 5. The position starts on 1 March. | | e) Wir freuen uns auf Ihre Bewerbung. |
+| 6. Full-time or part-time possible. | | f) Vollzeit oder Teilzeit möglich. |
+| 7. We look forward to your application. | | g) Wir suchen einen qualifizierten Ingenieur. |
+| 8. Please contact us by telephone. | | h) Bitte melden Sie sich telefonisch. |
 
 ## Übung B9 — Vorstellungsgespräch: E-Mail an die Personalabteilung
 
-**E-Mail von Frau Schäfer, Personalabteilung** *(Du hast diese E-Mail gerade bekommen)*:
-> Sehr geehrte/r Bewerber/in,
-> vielen Dank für Ihre Bewerbung als IT-Assistent. Wir möchten Sie
-> gerne zu einem Vorstellungsgespräch einladen. Wir können den
-> Termin am Mittwoch, dem neunzehnten Juni, um zehn Uhr anbieten —
-> passt Ihnen das? Falls Sie lieber einen anderen Tag hätten, rufen
-> Sie mich gerne an.
-> Mit freundlichen Grüßen, M. Schäfer
-
-**Your task:** Schreib eine formelle E-Mail als Antwort an Frau Schäfer
-in **4–5 Sätzen**. Bestätige den Termin oder schlage einen anderen vor,
-und nenne deine aktuelle Position mit `als …`.
+**Your task:** Schreib eine formelle E-Mail als Antwort an Frau Schäfer in 4–5 Sätzen. Bestätige den Termin oder schlage einen anderen vor, und nenne deine aktuelle Position mit `als …`.
 
 Use:
 - [ ] a formal greeting + closing (*Sehr geehrte Frau Schäfer, … / Mit freundlichen Grüßen, …*)
-- [ ] at least **1** sentence with `wenn` (a condition: *wenn es passt / wenn nichts dazwischenkommt*)
+- [ ] at least 1 sentence with `wenn` (a condition: *wenn es passt / wenn nichts dazwischenkommt*)
 - [ ] a sentence with `als` + profession (*Ich arbeite zurzeit als …*)
-- [ ] at least **1** future / conditional verb form (*werde … kommen / könnte … teilnehmen*)
+- [ ] at least 1 future / conditional verb form (*werde … kommen / könnte … teilnehmen*)
 
-**Self-check before moving on:**
-- [ ] Did I put the **verb at the end** of the `wenn`-clause?
-- [ ] Did I use `als` (job role) — **without article** — correctly? (*als IT-Assistent*, not *als ein IT-Assistent*)
-- [ ] Did I use a **comma** before `wenn` and the `wenn`-clause?
+Self-check:
+- [ ] Did I put the verb at the end of the `wenn`-clause?
+- [ ] Did I use `als` (job role) — without article — correctly?
+- [ ] Did I use a comma before `wenn` and the `wenn`-clause?
 
 ## Übung B10 — Smalltalk bei der Arbeit: Dialog schreiben
 
-**Situation:** It is Bruno's first week at the IT firm. He meets a new colleague, Tom, at the coffee machine on Monday morning. They don't know each other yet.
+**Your task:** Write a 6–8 line small-talk dialogue between Bruno and Tom (informal `du`). Include: a greeting and introducing yourself, at least one `wenn`-clause, `als` + a profession or role, at least one phrase from §2 Redemittel.
 
-Write a 6–8 line small-talk dialogue between Bruno and Tom. Use the informal `du`. Include:
-- A greeting and introducing yourself
-- At least **one `wenn`-clause** (e.g. a daily routine or condition at the office)
-- `als` + a profession or role (e.g. "Ich arbeite als …")
-- At least one phrase from §2 Redemittel
+Use:
+- [ ] informal `du` throughout
+- [ ] at least one `wenn`-clause (verb at end)
+- [ ] `als` + profession (no article)
+- [ ] at least one small-talk phrase from §2
 
-A model answer is in `solutions.md` — write yours **first**.
-
-**Self-check before moving on:**
+Self-check:
 - [ ] After `wenn`, does the verb appear at the very end of the clause?
 - [ ] Did you use `als` without an article before the profession?
 - [ ] Is the comma in place between the `wenn`-clause and the main clause?
@@ -405,103 +347,76 @@ A model answer is in `solutions.md` — write yours **first**.
 
 # Block C — Prüfungstraining
 
-## Übung C1 — Lückentext (free fill)
+## Übung C1 — Lückentext
 
-Fill each gap with **one** word.
+Fill each gap with one word.
 
-Bruno hat eine Stelle (1) ______ IT-Assistent bei einer Softwarefirma gefunden. Heute ist sein erster Arbeitstag. Er steht um sieben Uhr (2) ______ und fährt mit der U-Bahn ins Büro. Sein Chef, Herr Keller, stellt ihm die (3) ______ vor. Brunos Kollegin Laura (4) ______ als Programmiererin. Der Arbeitstag (5) ______ um neun Uhr. Wenn Bruno (6) ______ hat, geht er in die Kantine. Am Nachmittag hat er an einer (7) ______ teilgenommen. Er hat nicht alles (8) ______, aber das macht (9) ______. Wenn die ersten Wochen gut (10) ______, möchte er langfristig bei der Firma bleiben.
+Bruno hat eine Stelle ______ IT-Assistent bei einer Softwarefirma gefunden. Heute ist sein erster Arbeitstag. Er steht um sieben Uhr ______ und fährt mit der U-Bahn ins Büro. Sein Chef, Herr Keller, stellt ihm die ______ vor. Brunos Kollegin Laura ______ als Programmiererin. Der Arbeitstag ______ um neun Uhr. Wenn Bruno ______ hat, geht er in die Kantine. Am Nachmittag hat er an einer ______ teilgenommen. Er hat nicht alles ______, aber das macht ______. Wenn die ersten Wochen gut ______, möchte er langfristig bei der Firma bleiben.
 
-## Übung C2 — Sprachbausteine Teil 1 (multiple choice)
+## Übung C2 — Sprachbausteine Teil 1
 
 Choose the correct option (a, b, or c) for each gap.
 
-Sehr geehrter Herr Keller,
-
-ich (1) ______ mich für die Stelle als IT-Assistent in Ihrer Firma. Ich habe zwei Jahre (2) ______ Programmierer bei einer kleinen Firma (3) ______. Wenn die Stelle (4) ______ frei ist, würde ich sehr gern ein Vorstellungsgespräch vereinbaren. Ich (5) ______ meine Unterlagen bis Ende der Woche ein. Wenn Sie Fragen (6) ______, melden Sie sich bitte telefonisch.
-
-Mit freundlichen Grüßen  
-Bruno Ferreira
-
-1. a) bewerbe  b) bewerbst  c) bewirbt
-2. a) wie  b) als  c) ob
-3. a) gearbeitet  b) arbeite  c) arbeitete
-4. a) noch  b) schon  c) nie
-5. a) reiche  b) reichen  c) reichst
-6. a) habt  b) haben  c) hat
+1. ich (1) ____ mich für die Stelle als IT-Assistent in Ihrer Firma.  a) bewerbe  b) bewirbst  c) bewirbt
+2. Ich habe zwei Jahre (2) ____ Programmierer bei einer kleinen Firma (3) ____.  a) wie  b) als  c) ob
+3. Welche Form passt: gearbeitet / arbeite / arbeitete?  a) gearbeitet  b) arbeite  c) arbeitete
+4. Wenn die Stelle (4) ____ frei ist, würde ich sehr gern ein Vorstellungsgespräch vereinbaren.  a) noch  b) schon  c) nie
+5. Ich (5) ____ meine Unterlagen bis Ende der Woche ein.  a) reiche  b) reichen  c) reichst
+6. Wenn Sie Fragen (6) ____, melden Sie sich bitte telefonisch.  a) habt  b) haben  c) hat
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Ten words are not needed.**
-Each word may be used once only.
+Fill the 10 gaps from the box. Ten words are not needed. Each word once.
 
-> ALS · ARBEITE · AUSBILDUNG · BEI · BEWERBUNG · BÜRO · BEGINNT · CHEF · CHEFIN · FEIERABEND ·
-> GEHALT · KANTINE · KOLLEGEN · LANGE · PAUSE · STELLE · TEILZEIT · VOLLZEIT · WENN · ZUSAMMEN
+> Guten Tag! Ich heiße Petra Schmidt und ich (1) ______ als Buchhalterin (2) ______ einer mittelgroßen Firma in Frankfurt. Mein Arbeitstag (3) ______ um acht Uhr dreißig. Ich sitze im (4) ______ im dritten Stock. Meine (5) ______ sind sehr nett — wir arbeiten gut (6) ______. (7) ______ ich Hunger habe, gehe ich in die (8) ______. Ich mache eine kurze (9) ______ von zwölf bis dreizehn Uhr. Das (10) ______ ist gut — ich bin insgesamt sehr zufrieden.
 
-Guten Tag! Ich heiße Petra Schmidt und ich (1) ______ als Buchhalterin (2) ______ einer mittelgroßen Firma in Frankfurt. Mein Arbeitstag (3) ______ um acht Uhr dreißig. Ich sitze im (4) ______ im dritten Stock. Meine (5) ______ sind sehr nett — wir arbeiten gut (6) ______. (7) ______ ich Hunger habe, gehe ich in die (8) ______. Ich mache eine kurze (9) ______ von zwölf bis dreizehn Uhr. Das (10) ______ ist gut — ich bin insgesamt sehr zufrieden.
+> ALS · ARBEITE · AUSBILDUNG · BEGINNT · BEI · BEWERBUNG · BÜRO · CHEF · CHEFIN · FEIERABEND · GEHALT · KANTINE · KOLLEGEN · LANGE · PAUSE · STELLE · TEILZEIT · VOLLZEIT · WENN · ZUSAMMEN
 
-## Übung C4 — Lesen
+Five words are not needed.
 
-**Text 1:** Read the Lesetext in `lesson.md`, section 5 (Brunos erster Arbeitstag). **Richtig (R) oder falsch (F)?**
+## Übung C4a — Lesen Text 1 (Brunos erster Arbeitstag)
 
-1. Bruno fährt mit dem Bus zur Arbeit. ___
-2. Brunos Kollegin Laura ist Programmiererin. ___
-3. Bruno arbeitet von neun bis vierzehn Uhr ohne Pause. ___
-4. Bruno hat an einer Besprechung teilgenommen. ___
-5. Bruno möchte nicht lange bei der Firma bleiben. ___
+Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?
 
-**Text 2 — Stellenanzeige:**
+1. Bruno fährt mit dem Bus zur Arbeit. ( )
+2. Brunos Kollegin Laura ist Programmiererin. ( )
+3. Bruno arbeitet von neun bis vierzehn Uhr ohne Pause. ( )
+4. Bruno hat an einer Besprechung teilgenommen. ( )
+5. Bruno möchte nicht lange bei der Firma bleiben. ( )
+
+## Übung C4b — Lesen Text 2 (Stellenanzeige)
 
 > **Wir suchen: Bürokauffrau / Bürokaufmann (Vollzeit)**
->
-> Sie arbeiten gern mit Menschen und organisieren gut? Dann bewerben Sie sich bei uns!
->
-> **Ihre Aufgaben:**
-> - Kundenkontakt per Telefon und E-Mail
-> - Terminplanung und Büroorganisation
-> - Bearbeitung von Rechnungen
->
-> **Ihr Profil:**
-> - Abgeschlossene Ausbildung als Bürokauffrau/-mann oder ähnlich
-> - Mindestens 1 Jahr Berufserfahrung
-> - Gute Deutschkenntnisse (mindestens B1)
-> - Teamfähig und pünktlich
->
-> **Wir bieten:**
-> - Vollzeitstelle (40 Stunden/Woche)
-> - Gutes Gehalt und 28 Tage Urlaub
-> - Nettes Team und modernes Büro
->
+> **Ihre Aufgaben:** Kundenkontakt per Telefon und E-Mail; Terminplanung und Büroorganisation; Bearbeitung von Rechnungen.
+> **Ihr Profil:** Abgeschlossene Ausbildung als Bürokauffrau/-mann; mindestens 1 Jahr Berufserfahrung; gute Deutschkenntnisse (mindestens B1); teamfähig und pünktlich.
+> **Wir bieten:** Vollzeitstelle (40 Stunden/Woche); gutes Gehalt; 28 Tage Urlaub.
 > **Bewerbungen bitte per E-Mail bis 30. Juni.**
 
-Choose a, b, or c:
+Wähle a, b oder c.
 
-6. Was ist die Stelle?
-   a) Programmiererin  b) Bürokauffrau/-mann  c) Buchhalterin
 
-7. Wie viele Stunden pro Woche ist die Stelle?
-   a) 20 Stunden  b) 30 Stunden  c) 40 Stunden
+1. Was ist die Stelle?  a) Programmiererin  b) Bürokauffrau/-mann  c) Buchhalterin
+2. Wie viele Stunden pro Woche ist die Stelle?  a) 20 Stunden  b) 30 Stunden  c) 40 Stunden
+3. Was braucht man für diese Stelle?  a) fünf Jahre Erfahrung  b) mindestens ein Jahr Erfahrung  c) keine Erfahrung
+4. Bis wann muss man sich bewerben?  a) bis 20. Juni  b) bis 30. Juni  c) bis 1. Juli
+5. Wie schickt man die Bewerbung?  a) per Post  b) persönlich  c) per E-Mail
 
-8. Was braucht man für diese Stelle?
-   a) fünf Jahre Erfahrung  b) mindestens ein Jahr Erfahrung  c) keine Erfahrung
+## Übung C5 — Schreiben: Anschreiben (cover letter)
 
-9. Bis wann muss man sich bewerben?
-   a) bis 20. Juni  b) bis 30. Juni  c) bis 1. Juli
+**Your task:** Write a short cover letter (Anschreiben) of 60–80 words for the Bürokauffrau/-mann position in Text 2 above. Include: a formal greeting, why you're writing, your relevant experience, a `wenn`-clause, a formal closing.
 
-10. Wie schickt man die Bewerbung?
-    a) per Post  b) persönlich  c) per E-Mail
+Use:
+- [ ] Sehr geehrte Damen und Herren, (formal greeting)
+- [ ] ich bewerbe mich für … (purpose)
+- [ ] `als` + profession (no article)
+- [ ] Wenn Sie Fragen haben, … (`wenn`-clause, verb at end)
+- [ ] Mit freundlichen Grüßen, (formal closing)
 
-## Übung C5 — Schreiben
-
-You saw this job advertisement (Text 2 above). Write a short **cover letter** (Anschreiben) of 60–80 words.
-
-Include:
-- A formal greeting (Sehr geehrte Damen und Herren,)
-- Why you're writing (ich bewerbe mich für …)
-- Your relevant experience (ich habe … gearbeitet / ich bin als … tätig gewesen)
-- A `wenn`-clause (Wenn Sie Fragen haben, …)
-- A formal closing (Mit freundlichen Grüßen, + your name)
-
-A model answer is in `solutions.md` — write yours **first**.
+Self-check:
+- [ ] Did I use the formal `Sie`?
+- [ ] Did I use `als` without an article before the profession?
+- [ ] Is the verb at the very end of the `wenn`-clause?
+- [ ] Is the letter 60–80 words?
 
 ---
 
@@ -512,35 +427,35 @@ A model answer is in `solutions.md` — write yours **first**.
 One minute per item. No notes.
 
 1. „Ich arbeite ______ Lehrerin." (which particle?)
-2. Verb position in a `wenn`-clause: position ______ (first or last?)
-3. Wenn-clause first → the main clause verb comes ______ (before/after) the subject.
-4. (L3) „Ich komme zu spät, ______ der Bus gestreikt hat." (weil / wenn / deshalb?)
-5. (L3) „Er ist müde. ______ geht er früh schlafen." (deshalb / weil / wenn?)
-6. Give the feminine form: der Lehrer → ______
-7. Give the masculine form: die Ärztin → ______
+2. Verb position in a `wenn`-clause: position ______.
+3. Wenn-clause first → main clause verb comes ______ (before/after) the subject.
+4. (L3) „Ich komme zu spät, ______ der Bus gestreikt hat."
+5. (L3) „Er ist müde. ______ geht er früh schlafen."
+6. Feminine form: der Lehrer → ______
+7. Masculine form: die Ärztin → ______
 8. das Vorstellungsgespräch → English: ______
 9. der Lebenslauf → English: ______
-10. (L7) „Ich ______ als Kind oft Fußball spielen." (modal Präteritum of `wollen`)
-11. (L11) Partizip II of `einreichen`: ______
-12. „Wenn er die Stelle ______, ruft er an." (Perfekt of `bekommen`)
+10. (L7) „Ich ______ als Kind oft Fußball spielen." (modal Präteritum of wollen)
+11. (L11) Partizip II of einreichen: ______
+12. „Wenn er die Stelle ______, ruft er an." (Perfekt of bekommen)
 13. (L5) aufstehen → Partizip II: ______
-14. (L1) Verb position in a W-question: verb is in position ______
-15. (L3) „Ich finde, ______ Deutsch interessant ______ (sein)." (`dass`-clause)
+14. (L1) Verb position in a W-question: position ______
+15. (L3) „Ich finde, ______ Deutsch interessant ______ (sein)." (dass-clause)
 
-## Übung D2 — Odd-one-out
+## Übung D2 — Odd one out
 
-Circle the word that doesn't belong and say why (one word of explanation).
+Circle the word that doesn't belong and say why.
 
-1. der Lehrer · die Ärztin · das Büro · der Koch
-2. die Bewerbung · der Lebenslauf · die Pause · das Anschreiben
-3. wenn · weil · deshalb · nach
-4. das Gehalt · die Kantine · verdienen · bezahlen
-5. Vollzeit · Teilzeit · Überstunden · Vorstellungsgespräch
-6. einreichen · kündigen · einstellen · sprechen
+1. Lehrer – Ärztin – Büro – Koch
+2. Bewerbung – Lebenslauf – Pause – Anschreiben
+3. wenn – weil – deshalb – nach
+4. Gehalt – Kantine – verdienen – bezahlen
+5. Vollzeit – Teilzeit – Überstunden – Vorstellungsgespräch
+6. einreichen – kündigen – einstellen – sprechen
 
-## Übung D3 — Rückblick: Subordinate clauses (A2/L3 + L4)
+## Übung D3 — Rückblick: Subordinate clauses
 
-Complete each sentence with the correct subordinating conjunction (`wenn`, `weil`, `dass`) and put the verb at the end.
+Complete each sentence with the correct connector (`wenn`, `weil`, `dass`, `ob`) and put the verb at the end. Each item has two gaps.
 
 1. Ich glaube, ______ Bruno bald einen Job ______ (finden).
 2. Er ist nervös, ______ das Vorstellungsgespräch morgen ______ (sein).
@@ -556,7 +471,6 @@ Complete each sentence with the correct subordinating conjunction (`wenn`, `weil
 ## Übung D4 — Selbsttest (score yourself /20)
 
 **Vocabulary (5 points):**
-
 1. the application → ______
 2. the CV → ______
 3. the job interview → ______
@@ -564,28 +478,24 @@ Complete each sentence with the correct subordinating conjunction (`wenn`, `weil
 5. the colleague (f) → ______
 
 **`als` + profession (3 points):**
-
 6. She works as a nurse. → ______
 7. He studied as a student in Berlin. → ______
 8. I have worked as a manager. → ______
 
 **`wenn`-clauses (6 points):**
-
-9. Write a `wenn`-clause (verb at end): „Er schreibt, ______ er eine Antwort ______ (nicht bekommen haben)."
-10. Write a sentence with `wenn` at the front: (wenn / die Stelle / frei / sein) → „______, bewerbe ich mich sofort."
-11. Correct the error: „Wenn ich Zeit habe, ich komme sofort." → ______
-12. Choose: „Ich bin nervös, (wenn/weil) das Gespräch morgen ist." → ______
-13. Choose: „Ich lerne viel, (wenn/weil) ich die Prüfung bestehen will." → ______
-14. Verb position in: „Er ruft an, wenn er fertig ist." — verb `ist` is in position ______ of the `wenn`-clause.
+9. „Er schreibt, ______ er keine Antwort ______ (nicht bekommen haben)." (wenn-clause)
+10. „______, bewerbe ich mich sofort." (wenn at front)
+11. Correct: „Wenn ich Zeit habe, ______." (inversion)
+12. „Ich bin nervös, (wenn/weil) das Gespräch morgen ist." → ______
+13. „Ich lerne viel, (wenn/weil) ich die Prüfung bestehen will." → ______
+14. Verb `ist` is in position ______ of the `wenn`-clause.
 
 **Review (6 points):**
-
 15. (L3) Connect with `weil`: „Er ist müde. / Er hat viel gearbeitet." → ______
 16. (L3) Connect with `deshalb`: „Ich habe keine Erfahrung. / Ich lerne viel." → ______
 17. (L1) „______ (sein) ihr aus Brasilien?" (yes/no question)
 18. (L11) Perfekt of `bewerben (sich)`: Ich habe mich ______.
 19. (L7) Modal Präteritum: „Sie ______ (müssen) früh aufstehen."
-20. (L5) „Bruno ______ (aufhören) um 17 Uhr mit der Arbeit." (present tense)
+20. (L5) „Bruno hört um 17 Uhr auf." (present tense) — verb form: ______
 
-**Score: ____ / 20.**  
-**16+ → Lektion 5.** Below 16: redo Block A exercises (A1–A4 for `wenn`, A5–A6 for `als`), then retest with D4.
+_16+ / 20 → Lektion 5. Below 16: redo Block A exercises (A1–A4 for `wenn`, A5–A6 for `als`), then retest._

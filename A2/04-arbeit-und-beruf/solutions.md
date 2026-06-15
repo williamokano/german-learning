@@ -1,270 +1,159 @@
-# A2 · Lektion 4 — Lösungen (Solutions)
-
-Mirror of every exercise. Bold = key answer. One-line explanation where learners typically err.
+# A2 · Lektion 4 — Lösungen (Lösungen (Answer key))
 
 ---
 
 # Block H — Hören
 
-## H1a — Dialog Hör-Check: Dialog A
+## Übung H1a — Dialog Hör-Check: Dialog A (informell)
 
-1. **R** — Bruno says he is looking for a job right now.
+1. **R** — Bruno sucht einen neuen Job.
 2. **F** — He says he has already sent three applications.
 3. **R** — He mentions working as an IT-Assistent.
-4. **F** — He says he will write again if he hears nothing by **Friday** (Freitag), not Monday.
+4. **F** — He will write again if he hears nothing by Freitag, not Monday.
 
-## H1b — Dialog Hör-Check: Dialog B
+## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) als Projektleiterin**
-2. **b) drei Jahre** — She says "drei Jahre als Koordinatorin".
-3. **b) Unterlagen einreichen** — Herr Steinmeyer says to submit the documents.
-4. **c) bis Montag** — Herr Steinmeyer says "Wenn Sie das bis Montag schaffen…"
+1. **b) als Projektleiterin** — Frau Weber möchte sich als Projektleiterin bewerben.
+2. **b) drei Jahre** — drei Jahre als Koordinatorin.
+3. **b) Unterlagen einreichen** — Unterlagen einreichen.
+4. **c) bis Montag** — Bis Montag.
 
-## H3 — Hörtext-Lückentext
+## Übung H3 — Hörtext-Lückentext
 
-1. **Kellnerin**
-2. **Café**
-3. **anfängt**
-4. **morgens**
-5. **Pause**
-6. **Abendkurs**
+1. **Kellnerin**  2. **Café**  3. **anfängt**  4. **morgens**  5. **Pause**  6. **Abendkurs**
 
-Not needed: **versteht · schläfrig · müde** (müde appears at the end of the Hörtext but the gap for it is not included — the exercise targets the first part of the transcript).
+## Übung H4 — Kurze Ansage: Anruf von der Personalagentur
 
-## H4 — Kurze Ansage: Anruf von der Personalagentur
-
-1. **a) Von der Personalagentur „Jobwelt"** — „hier ist Frau Schäfer von der Personalagentur „Jobwelt"."
-2. **c) Als IT-Assistent** — „Ich rufe an wegen Ihrer Bewerbung als IT-Assistent."
-3. **a) Am Mittwoch, dem achtzehnten Juni, um zehn Uhr** — „Das Gespräch findet am Mittwoch, dem achtzehnten Juni, um zehn Uhr in unserem Büro in der Friedrichstraße statt."
-4. **b) Bis Freitag** — „Bitte rufen Sie uns bis Freitag an, um den Termin zu bestätigen."
+1. **a) Von der Personalagentur „Jobwelt".** — „hier ist Frau Schäfer von der Personalagentur „Jobwelt"."
+2. **c) Als IT-Assistent.** — Bewerbung als IT-Assistent.
+3. **a) Am Mittwoch, dem achtzehnten Juni, um zehn Uhr.** — Mittwoch, dem achtzehnten Juni, um zehn Uhr.
+4. **b) Bis Freitag.** — Bis Freitag.
 
 ---
 
 # Block A — Basistraining
 
-## A1 — `wenn`-Sätze: Verben ans Ende
+## Übung A1 — `wenn`-Sätze: Verben ans Ende
 
-1. Er ruft an, **wenn er fertig ist**.
-2. Wir fangen an, **wenn alle da sind**.
-3. Ich schreibe noch mal, **wenn ich keine Antwort bekomme**.
-4. Sie ist glücklich, **wenn die Arbeit interessant ist**.
-5. Herr Keller hilft, **wenn man Fragen hat**.
-6. Bruno geht in die Kantine, **wenn er Hunger hat**.
+1. **ist**  2. **sind**  3. **bekomme**  4. **ist**  5. **hat**  6. **hat**
 
-⚠️ The finite verb always goes last in the `wenn`-clause; nothing can come after it.
+## Übung A2 — `wenn`-Satz vorne: Inversion
 
-## A2 — `wenn`-Satz vorne: Inversion
+1. **ist**  2. **lernt**  3. **vereinbart**  4. **hilft**  5. **verdiene**  6. **versteht**
 
-1. **Wenn der Zug kommt, ist Bruno pünktlich.**
-2. **Wenn sie jeden Tag übt, lernt sie schnell.**
-3. **Wenn die Unterlagen da sind, vereinbart Herr Steinmeyer einen Termin.**
-4. **Wenn Bruno Probleme hat, hilft Anna ihm.**
-5. **Wenn ich Vollzeit arbeite, verdiene ich mehr.**
-6. **Wenn man aufmerksam zuhört, versteht man viel.**
+## Übung A3 — `wenn`-Satz mit Modalverb
 
-⚠️ After the comma, the finite verb of the main clause comes IMMEDIATELY — the subject follows it (inversion).
+1. **kann**  2. **will**  3. **will**  4. **müssen**  5. **kannst**
 
-## A3 — `wenn`-Satz mit Modalverb
+## Übung A4 — `wenn`-Satz mit Perfekt
 
-1. **aufhören kann** — verb (modal `kann`) goes last; infinitive before modal.
-2. **vereinbaren will** — infinitive + modal, both at the end; modal is the finite verb.
-3. **bekommen will** — same pattern.
-4. **arbeiten müssen** — infinitive before modal.
-5. **helfen können** — infinitive before modal.
+1. **geschickt**  2. **hat**  3. **eingereicht**  4. **hat**  5. **gelesen**  6. **habe**  7. **sich**  8. **beworben**  9. **angefangen**  10. **hat**
 
-Full sentences:
-1. Wenn ich früher aufhören **kann**, komme ich pünktlich.
-2. Wenn man einen Termin vereinbaren **will**, muss man anrufen.
-3. Wenn er die Stelle bekommen **will**, muss er sich bewerben.
-4. Wenn wir morgen nicht arbeiten **müssen**, gehen wir ins Café.
-5. Wenn du mir helfen **können**, wäre das super. *(also fine: kannst — the cue asks for `können`; the speaker uses informal `du` form here)*
+## Übung A5 — `als` + Berufsbezeichnung
 
-⚠️ Correction for item 5: the finite modal agrees with `du` → **kannst**: *Wenn du mir helfen **kannst**, wäre das super.*
+1. **Koch**  2. **Programmiererin**  3. **Student**  4. **Koordinatorin**  5. **Mechaniker**  6. **Lehrerin**
 
-## A4 — `wenn`-Satz mit Perfekt
+## Übung A6 — `als` mit Verb: richtig oder falsch?
 
-1. Wenn Bruno die E-Mail **geschickt hat**, wartet er auf eine Antwort.
-2. Wenn Frau Weber die Unterlagen **eingereicht hat**, vereinbaren wir einen Termin.
-3. Wenn ich den Lebenslauf **gelesen habe**, rufe ich an.
-4. Wenn er **sich beworben hat**, braucht er Informationen über die Firma.
-5. Wenn der Kurs **angefangen hat**, kaufe ich ein neues Buch.
+1. **F** — Ich arbeite als **Ärztin** (no article after `als` with profession).
+2. **R** — Correct.
+3. **F** — Sie ist als **Managerin** angestellt (no definite article after `als`).
+4. **R** — `als Kollegen` = as colleagues (plural noun, no article needed).
+5. **F** — Er war als **Koch** tätig (no article after `als`).
+6. **R** — Correct.
 
-⚠️ In Perfekt inside a `wenn`-clause: Partizip II comes second-to-last, auxiliary (`hat`/`bin`) comes **last**.
+## Übung A7 — Berufe: welche Form?
 
-## A5 — `als` + Berufsbezeichnung
+1. **Lehrerin**  2. **Arzt**  3. **Köchin**  4. **Programmierer**  5. **Verkäuferin**  6. **Buchhalter**  7. **Krankenpflegerin**  8. **Journalist**
 
-1. **Koch**
-2. **Programmiererin**
-3. **Student**
-4. **Koordinatorin** (Frau Weber says she worked as Koordinatorin)
-5. **Mechaniker**
-6. **Lehrerin**
+## Übung A8 — Wortschatz Arbeitswelt: was passt?
 
-## A6 — `als` mit Verb: richtig oder falsch?
+1 → c · 2 → b · 3 → a · 4 → g · 5 → d · 6 → e · 7 → h · 8 → f
 
-1. **X** → *Ich arbeite als **Ärztin**.* — no article after `als` with profession.
-2. **C** — correct.
-3. **X** → *Sie ist als **Managerin** angestellt.* — no definite article after `als`.
-4. **C** — "als Kollegen" here means "as colleagues" (plural noun, no article needed) — correct.
-5. **X** → *Er war als **Koch** tätig.* — no article after `als`.
-6. **C** — correct.
+## Übung A9 — Konjugation: Verben zur Arbeit
 
-## A7 — Berufe: welche Form?
+1. **arbeitet**  2. **fängt**  3. **bewerbe mich**  4. **verdient**  5. **vereinbaren**  6. **stellt**  7. **reicht**
 
-1. die **Lehrerin**
-2. der **Arzt**
-3. die **Köchin**
-4. der **Programmierer**
-5. die **Verkäuferin**
-6. der **Buchhalter**
-7. die **Krankenpflegerin**
-8. der **Journalist**
+## Übung A10 — `wenn` oder `weil`?
 
-## A8 — Wortschatz Arbeitswelt: was passt?
+1. **wenn**  2. **will**  3. **wenn** (auch richtig: **weil**)  4. **ist**  5. **weil**  6. **braucht**  7. **Wenn**  8. **hast**  9. **weil**  10. **hat**  11. **wenn**  12. **bekommt**  13. **weil**  14. **dauert**  15. **Wenn**
 
-1. → **c) die Bewerbung**
-2. → **b) das Büro**
-3. → **a) die Besprechung**
-4. → **g) das Gehalt**
-5. → **d) der Arbeitgeber**
-6. → **e) der Kollege**
-7. → **h) die Kantine**
-8. → **f) das Vorstellungsgespräch**
+## Übung A11 — Satzklammer recap: Trennbare Verben (L5 review)
 
-## A9 — Konjugation: Verben zur Arbeit
+1. **fängt**  2. **an**  3. **Hörst**  4. **auf**  5. **rufen**  6. **an**  7. **kauft**  8. **ein**  9. **stehst**  10. **auf**
 
-1. **arbeitet**
-2. **fängt … an** (separable verb — Satzklammer: *Wann fängt dein Arbeitstag an?*)
-3. **bewerbe mich** — reflexive verb; `ich`-form.
-4. **verdient**
-5. **vereinbaren**
-6. **stellt … ein** (separable verb: einstellen)
-7. **reicht … ein** (separable verb: einreichen)
+## Übung A12 — Berufsbezeichnungen + `als`: Sätze bauen
 
-## A10 — `wenn` oder `weil`?
+Modellantwort:
 
-1. **wenn** … **bestehen will** — condition (if he wants to pass)
-2. **wenn** … **ist** — condition/repeated situation (when/if her work is interesting) *Also fine: `weil` if meaning "because"* — context allows both; `wenn` preferred here for habitual condition.
-3. **weil** … **braucht** — reason (because he needs money)
-4. **Wenn** … **hast** — condition; inversion in main clause: *können wir*
-5. **weil** … **hat** — reason
-6. **wenn** … **bekommt** — condition (if he gets no answer)
-7. **weil** … **dauert** — reason
-8. **Wenn** … **lernt man schnell** — (general truth/condition; `wenn`-clause first → inversion)
-
-Full sentence 8: *Wenn man viel übt, lernt man schnell.*
-
-## A11 — Satzklammer recap (L5 review)
-
-1. Bruno [fängt] um neun Uhr [an].
-2. [Hörst] du nach der Arbeit [auf]?
-3. Wir [rufen] morgen [an].
-4. Sie [kauft] jeden Tag im Supermarkt [ein].
-5. Wann [stehst] du [auf]?
-
-## A12 — Berufsbezeichnungen + `als`: Sätze bauen
-
-1. **Anna arbeitet als Lehrerin in Berlin.**
-2. **Er hat drei Jahre als Mechaniker gearbeitet.**
-3. **Wir suchen jemanden als Buchhalter.** (also fine: *…als Buchhalter*) 
-4. **Möchtest du als Programmierer arbeiten?**
-5. **Sie ist seit zwei Jahren als Managerin tätig.**
+> 1. Anna arbeitet als Lehrerin in Berlin.
+> 2. Er hat drei Jahre als Mechaniker gearbeitet.
+> 3. Wir suchen jemanden als Buchhalter.
+> 4. Möchtest du als Programmierer arbeiten?
+> 5. Sie ist seit zwei Jahren als Managerin tätig.
 
 ---
 
 # Block B — Vertiefung
 
-## B1 — Dialog ergänzen
+## Übung B1 — Dialog ergänzen
 
-1. **Stelle**
-2. **Erfahrung**
-3. **als**
-4. **Unterlagen**
-5. **Wenn**
-6. **Wenn** (second use)
-7. **Unterlagen** *(the second occurrence — see: "Wenn die Unterlagen da sind…")*
+1. **Stelle**  2. **Erfahrung**  3. **als**  4. **Unterlagen**  5. **wenn**  6. **wenn**  7. **Unterlagen**
 
-Wait — let me clarify the full filled-in dialogue:
+## Übung B2 — Finde den Fehler
 
-> — Entschuldigung, ich interessiere mich für die **(1) Stelle** als Buchhalter.  
-> — Ja, bitte. Haben Sie schon **(2) Erfahrung** in diesem Bereich?  
-> — Ja, ich habe zwei Jahre **(3) als** Buchhalter bei einer kleinen Firma gearbeitet.  
-> — Sehr gut. Wann können Sie Ihre **(4) Unterlagen** schicken?  
-> — **(5) Wenn** es Ihnen recht ist, schicke ich alles bis morgen.  
-> — Das wäre ideal. **(6) Wenn** die **(7) Unterlagen** da sind, melden wir uns.
+1. **kommt er**  2. **Ärztin**  3. **zahlen**  4. **sich beworben**  5. **sind**  6. **da**  7. **Jahre**  8. **verdiene**
 
-Not needed: **Bewerbung · ob · Gehalt · weil**
+## Übung B3 — Sätze verbinden: `wenn`, `weil`, `deshalb`
 
-## B2 — Finde den Fehler
+1. **Wenn**  2. **weil**  3. **Deshalb**  4. **Wenn**  5. **weil**  6. **Wenn**
 
-1. ❌ *Wenn er fertig ist, **er kommt** sofort.* → ✅ *Wenn er fertig ist, **kommt er** sofort.* (inversion after `wenn`-clause)
-2. ❌ *Ich arbeite als **eine** Ärztin.* → ✅ *Ich arbeite als **Ärztin**.* (no article after `als` with profession)
-3. ❌ *kann ich nicht zahlen die Miete* → ✅ *kann ich die Miete **nicht zahlen**.* (Satzklammer: infinitive/particle at end)
-4. ❌ *hat beworben sich* → ✅ *hat **sich** beworben.* (reflexive pronoun comes early in Perfekt, before Partizip II)
-5. ❌ *wenn viele Gäste da **sein*** → ✅ *wenn viele Gäste da **sind**.* (finite verb must be conjugated)
-6. ❌ *wenn die Unterlagen **sind da*** → ✅ *wenn die Unterlagen **da sind**.* (verb at end of `wenn`-clause)
-7. ❌ *drei **Jahr*** → ✅ *drei **Jahre**.* (plural of das Jahr = die Jahre)
-8. ❌ *bin ich kein Geld verdienen* → ✅ ***verdiene ich kein Geld**.* (completely wrong structure; `als Student verdiene ich kein Geld` is the natural German)
+## Übung B4 — Fragen und Antworten zuordnen
 
-## B3 — Sätze verbinden
+1 → c · 2 → a · 3 → f · 4 → d · 5 → e · 6 → h · 7 → b · 8 → g
 
-1. **Wenn ich viel Erfahrung habe, bekomme ich die Stelle.** *(also fine: Ich bekomme die Stelle, wenn ich viel Erfahrung habe.)*
-2. **Er arbeitet viel, weil er Geld braucht.**
-3. **Sie hat eine gute Bewerbung geschrieben. Deshalb bekommt sie das Vorstellungsgespräch.**
-4. **Wenn du viel lernst, sprichst du bald gut Deutsch.** *(also fine: Du sprichst bald gut Deutsch, wenn du viel lernst.)*
-5. **Ich bin nicht pünktlich, weil der Bus zu spät kommt.**
-6. **Wenn Herr Steinmeyer die Unterlagen bis Montag bekommt, vereinbart er einen Termin.**
+## Übung B5 — Satzbau: `wenn`-Sätze
 
-## B4 — Fragen und Antworten zuordnen
+1. wenn kommt ist sofort er er fertig
+   _Wenn er fertig ist, kommt er sofort._
+2. esse keinen Hunger ich habe wenn nichts ich
+   _Wenn ich keinen Hunger habe, esse ich nichts._
+3. bin finde einen Job finde glücklich ich wenn Glück habe
+   _Wenn ich Glück habe, finde ich einen Job. (Also: Ich bin glücklich, wenn ich einen Job finde.)_
+4. wenn hat hilft Laura sie Fragen ihr
+   _Wenn sie Fragen hat, hilft ihr Laura._
+5. wenn Unterlagen bis die anrufen wir Sie Montag einreichen
+   _Wenn Sie die Unterlagen bis Montag einreichen, rufen wir an._
 
-1. → **c)** Ich bin von Beruf Ingenieurin.
-2. → **a)** Ich arbeite in einem Büro in Berlin-Mitte.
-3. → **f)** Um neun Uhr.
-4. → **d)** Ja, ich habe drei Jahre als Koordinatorin gearbeitet.
-5. → **e)** Weil ich die Firma sehr interessant finde.
-6. → **h)** Ich bin sehr organisiert und arbeite gut im Team.
-7. → **b)** Ab dem ersten März.
-8. → **g)** Eine Stunde, von zwölf bis dreizehn Uhr.
+## Übung B6 — Beruf beschreiben: Sätze schreiben
 
-## B5 — Satzbau: `wenn`-Sätze
+Modellantwort:
 
-1. **Wenn er fertig ist, kommt er sofort.**
-2. **Wenn ich keinen Hunger habe, esse ich nichts.**
-3. **Wenn ich Glück habe, finde ich einen Job.** *(also: Ich bin glücklich, wenn ich einen Job finde.)*
-4. **Wenn sie Fragen hat, hilft ihr Laura.**
-5. **Wenn Sie die Unterlagen bis Montag einreichen, rufen wir an.**
+> Maria arbeitet als Programmiererin bei einer Softwarefirma in München.
+> Sie arbeitet Vollzeit. Ihr Arbeitstag beginnt um acht Uhr dreißig.
+> Sie arbeitet gern im Team mit ihren Kollegen. Wenn sie Fragen
+> hat, bespricht sie diese mit ihren Kolleginnen und Kollegen.
 
-## B6 — Beruf beschreiben: Sätze schreiben
+## Übung B7 — Übersetzen (EN → DE)
 
-Model answer:
+Modellantwort:
 
-> Maria arbeitet als Programmiererin bei einer Softwarefirma in München. Sie arbeitet Vollzeit. Ihr Arbeitstag beginnt um acht Uhr dreißig. Sie arbeitet gern im Team mit ihren Kollegen. Wenn sie Fragen hat, bespricht sie diese mit ihren Kolleginnen und Kollegen.
+> 1. Ich arbeite als Lehrerin in Berlin.
+> 2. Wenn ich Zeit habe, schreibe ich die Bewerbung.
+> 3. Sie hat zwei Jahre als Managerin gearbeitet.
+> 4. Wann beginnt dein Arbeitstag?
+> 5. Ich bewerbe mich für die Stelle als Buchhalter.
+> 6. Er ist glücklich, weil der Job interessant ist.
+> 7. Wenn Sie Fragen haben, melden Sie sich bitte.
+> 8. Wir vereinbaren einen Termin, wenn die Unterlagen ankommen.
 
-Accept any 4 grammatically correct sentences that use the given information. Check for: `als` + no article, correct verb endings, `wenn` with verb at end (if used).
+## Übung B8 — Wie heißt das auf Deutsch?
 
-## B7 — Übersetzen (EN → DE)
+1 → g · 2 → a · 3 → b · 4 → d · 5 → c · 6 → f · 7 → e · 8 → h
 
-1. **Ich arbeite als Lehrerin in Berlin.**
-2. **Wenn ich Zeit habe, schreibe ich die Bewerbung.**
-3. **Sie hat zwei Jahre als Managerin gearbeitet.**
-4. **Wann beginnt dein Arbeitstag?**
-5. **Ich bewerbe mich für die Stelle als Buchhalter.**
-6. **Er ist glücklich, weil der Job interessant ist.**
-7. **Wenn Sie Fragen haben, melden Sie sich bitte.** *(also fine: Wenn Sie Fragen haben, kontaktieren Sie uns bitte.)*
-8. **Wir vereinbaren einen Termin, wenn die Unterlagen ankommen.** *(also fine: …wenn die Dokumente da sind.)*
+## Übung B9 — Vorstellungsgespräch: E-Mail an die Personalabteilung
 
-## B8 — Wie heißt das auf Deutsch?
-
-1. → **g)** Wir suchen einen qualifizierten Ingenieur.
-2. → **a)** Bitte schicken Sie Ihren Lebenslauf und Ihr Anschreiben.
-3. → **b)** Wir bieten ein gutes Gehalt.
-4. → **d)** Sie haben mindestens zwei Jahre Berufserfahrung.
-5. → **c)** Die Stelle beginnt am 1. März.
-6. → **f)** Vollzeit oder Teilzeit möglich.
-7. → **e)** Wir freuen uns auf Ihre Bewerbung.
-8. → **h)** Bitte melden Sie sich telefonisch.
-
-## B9 — Vorstellungsgespräch: E-Mail an die Personalabteilung (model answer)
+Modellantwort:
 
 > Sehr geehrte Frau Schäfer,
 > vielen Dank für Ihre Einladung. Ich arbeite zurzeit als
@@ -274,171 +163,112 @@ Accept any 4 grammatically correct sentences that use the given information. Che
 > um zehn Uhr bei Ihnen sein. Ich freue mich auf das Gespräch.
 > Mit freundlichen Grüßen, [Name]
 
-*(A correct reply: formal greeting + closing, ≥1 `wenn`-clause (verb at
-end), `als` + profession (no article), ≥1 future/conditional form. Any
-equivalent is accepted.)*
+Selbstkorrektur:
+- [ ] Did I put the verb at the end of the `wenn`-clause?
+- [ ] Did I use `als` (job role) — without article — correctly?
+- [ ] Did I use a comma before `wenn` and the `wenn`-clause?
 
+## Übung B10 — Smalltalk bei der Arbeit: Dialog schreiben
 
-## B10 — Smalltalk bei der Arbeit: Dialog schreiben
+Modellantwort:
 
-Model answer:
+> Anna: Hallo! Ich bin Anna. Bist du auch neu hier?
+> Tom: Ja, heute ist mein erster Tag! Ich heiße Tom. Ich arbeite als Grafiker.
+> Anna: Schön! Ich bin als Lehrerin hier — im Bildungsbereich.
+> Tom: Interessant. Wie findest du das Büro?
+> Anna: Sehr nett. Wenn man nette Kollegen hat, macht die Arbeit mehr Spaß.
+> Tom: Das stimmt! Hast du schon die Kantine gesehen?
+> Anna: Noch nicht. Wenn du willst, gehen wir zusammen in der Pause.
+> Tom: Super! Drück mir die Daumen für heute!
 
-> **Anna:** Hallo! Ich bin Anna. Bist du auch neu hier?  
-> **Tom:** Ja, heute ist mein erster Tag! Ich heiße Tom. Ich arbeite als Grafiker.  
-> **Anna:** Schön! Ich bin als Lehrerin hier — im Bildungsbereich.  
-> **Tom:** Interessant. Wie findest du das Büro?  
-> **Anna:** Sehr nett. Wenn man nette Kollegen hat, macht die Arbeit mehr Spaß.  
-> **Tom:** Das stimmt! Hast du schon die Kantine gesehen?  
-> **Anna:** Noch nicht. Wenn du willst, gehen wir zusammen in der Pause.  
-> **Tom:** Super! Drück mir die Daumen für heute!  
-
-Accept any dialogue with: informal `du`, at least one `wenn`-clause (verb at end), `als` + profession (no article), natural small-talk flow.
+Selbstkorrektur:
+- [ ] After `wenn`, does the verb appear at the very end of the clause?
+- [ ] Did you use `als` without an article before the profession?
+- [ ] Is the comma in place between the `wenn`-clause and the main clause?
 
 ---
 
 # Block C — Prüfungstraining
 
-## C1 — Lückentext
+## Übung C1 — Lückentext
 
-1. **als**
-2. **auf** (aufstehen — separable verb)
-3. **Kollegen** (also fine: **Kolleginnen und Kollegen**)
-4. **arbeitet**
-5. **beginnt**
-6. **Hunger**
-7. **Besprechung**
-8. **verstanden**
-9. **nichts**
-10. **laufen**
+1. **als**  2. **auf**  3. **Kollegen**  4. **arbeitet**  5. **beginnt**  6. **Hunger**  7. **Besprechung**  8. **verstanden**  9. **nichts**  10. **laufen**
 
-## C2 — Sprachbausteine Teil 1
+## Übung C2 — Sprachbausteine Teil 1
 
-1. **a) bewerbe** — `ich`-form of `sich bewerben`
-2. **b) als** — naming a role/profession: `als Programmierer`
-3. **a) gearbeitet** — Perfekt: `habe … gearbeitet`
-4. **a) noch** — "if the position is still available"
-5. **a) reiche** — `ich`-form of `einreichen` (separable); full: *Ich reiche … ein*
-6. **b) haben** — `Sie`-form (formal plural)
+1. **a) bewerbe** — ich-Form von sich bewerben.
+2. **b) als** — als + Berufsbezeichnung.
+3. **a) gearbeitet** — Perfekt: habe … gearbeitet.
+4. **a) noch** — noch = still.
+5. **a) reiche** — ich-Form von einreichen.
+6. **b) haben** — Sie-Form von haben (formal plural).
 
-## C3 — Sprachbausteine Teil 2
+## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-1. **ARBEITE** — ich arbeite als Buchhalterin
-2. **BEI** — bei einer mittelgroßen Firma (`bei + Dativ`)
-3. **BEGINNT** — Mein Arbeitstag beginnt um acht Uhr dreißig (3rd sg. conjugated verb)
-4. **BÜRO** — im Büro im dritten Stock
-5. **KOLLEGEN** — Meine Kollegen sind sehr nett (plural → `meine … sind`)
-6. **ZUSAMMEN** — wir arbeiten gut zusammen
-7. **WENN** — Wenn ich Hunger habe, … (conditional `wenn`)
-8. **KANTINE** — gehe ich in die Kantine
-9. **PAUSE** — Ich mache eine kurze Pause von zwölf bis dreizehn Uhr
-10. **GEHALT** — Das Gehalt ist gut
+1. **ARBEITE**  2. **BEI**  3. **BEGINNT**  4. **BÜRO**  5. **KOLLEGEN**  6. **ZUSAMMEN**  7. **WENN**  8. **KANTINE**  9. **PAUSE**  10. **GEHALT**
 
-*Not used: ALS · AUSBILDUNG · BEWERBUNG · CHEF · CHEFIN · FEIERABEND · LANGE · STELLE · TEILZEIT · VOLLZEIT*
-
-## C4 — Lesen
-
-**Text 1 (Brunos erster Arbeitstag):**
+## Übung C4a — Lesen Text 1 (Brunos erster Arbeitstag)
 
 1. **F** — He travels by U-Bahn (metro), not bus.
 2. **R** — Laura arbeitet als Programmiererin.
-3. **F** — He works from 9:00 to 13:00 then takes a one-hour break — there IS a Pause.
-4. **R** — He has participated in a Besprechung.
-5. **F** — He wants to stay long-term (*langfristig bleiben*) if the first weeks go well.
+3. **F** — He works from 9:00 to 13:00 with a one-hour break.
+4. **R** — He participated in a Besprechung.
+5. **F** — He wants to stay long-term (langfristig) if the first weeks go well.
 
-**Text 2 (Stellenanzeige):**
+## Übung C4b — Lesen Text 2 (Stellenanzeige)
 
-6. **b) Bürokauffrau/-mann**
-7. **c) 40 Stunden**
-8. **b) mindestens ein Jahr Erfahrung**
-9. **b) bis 30. Juni**
-10. **c) per E-Mail**
+1. **b) Bürokauffrau/-mann** — Bürokauffrau/-mann.
+2. **c) 40 Stunden** — 40 Stunden.
+3. **b) mindestens ein Jahr Erfahrung** — mindestens 1 Jahr.
+4. **b) bis 30. Juni** — bis 30. Juni.
+5. **c) per E-Mail** — per E-Mail.
 
-## C5 — Schreiben: Model answer
+## Übung C5 — Schreiben: Anschreiben (cover letter)
+
+Modellantwort:
 
 > Sehr geehrte Damen und Herren,
->
-> ich bewerbe mich für die Stelle als Bürokauffrau in Ihrer Firma. Ich habe zwei Jahre als Büroassistentin gearbeitet und bin sehr organisiert und teamfähig. Meine Deutschkenntnisse sind auf B2-Niveau. Wenn Sie Fragen haben, melden Sie sich bitte telefonisch oder per E-Mail. Ich freue mich auf ein Vorstellungsgespräch.
->
-> Mit freundlichen Grüßen,  
+> 
+> ich bewerbe mich für die Stelle als Bürokauffrau in Ihrer Firma. Ich habe
+> zwei Jahre als Büroassistentin gearbeitet und bin sehr organisiert und
+> teamfähig. Meine Deutschkenntnisse sind auf B2-Niveau. Wenn Sie Fragen
+> haben, melden Sie sich bitte telefonisch oder per E-Mail. Ich freue mich
+> auf ein Vorstellungsgespräch.
+> 
+> Mit freundlichen Grüßen,
 > [Name]
 
-**Self-check list:**
-- [ ] Formal opening: *Sehr geehrte Damen und Herren,*
-- [ ] Stated the position with `als` + no article
-- [ ] Mentioned experience with `als` + profession or Perfekt
-- [ ] One `wenn`-clause with verb at the end
-- [ ] Formal closing: *Mit freundlichen Grüßen,*
-- [ ] Length: 60–80 words
+Selbstkorrektur:
+- [ ] Did I use the formal `Sie`?
+- [ ] Did I use `als` without an article before the profession?
+- [ ] Is the verb at the very end of the `wenn`-clause?
+- [ ] Is the letter 60–80 words?
 
 ---
 
 # Block D — Wiederholung & Selbsttest
 
-## D1 — Gemischter Schnelltest
+## Übung D1 — Gemischter Schnelltest
 
-1. **als** — `als` + profession (no article)
-2. **last (final)** — verb goes to the END of the `wenn`-clause
-3. **before** — in an inverted main clause, verb comes BEFORE the subject
-4. (L3) **weil** — giving a reason
-5. (L3) **Deshalb** — coordinating adverb, verb in position 2: *Deshalb geht er früh schlafen.*
-6. **die Lehrerin**
-7. **der Arzt**
-8. **the job interview**
-9. **CV / résumé**
-10. (L7) **wollte** — modal Präteritum of `wollen`: `er/ich wollte`
-11. (L11) **eingereicht** — inseparable? No — `einreichen` is separable: prefix `ein-` + `reichen` → Partizip II: **eingereicht**
-12. **bekommen hat** — Perfekt of `bekommen` (inseparable prefix `be-`, takes `haben`): *wenn er die Stelle bekommen hat*
-13. (L5) **aufgestanden** — separable: *auf + ge + standen*
-14. (L1) position **2**
-15. (L3) **dass** … **ist**: *Ich finde, dass Deutsch interessant ist.*
+1. **als**  2. **last**  3. **before**  4. **weil**  5. **Deshalb** (auch richtig: **Darum**, **Deswegen**)  6. **Lehrerin**  7. **Arzt**  8. **the job interview**  9. **CV / résumé**  10. **wollte**  11. **eingereicht**  12. **bekommen hat**  13. **aufgestanden**  14. **2**  15. **dass**  16. **ist**
 
-## D2 — Odd-one-out
+## Übung D2 — Odd one out
 
-1. **das Büro** — it's a place, the others are professions (Berufe)
-2. **die Pause** — it's a break/rest; the others are all application documents
-3. **nach** — it's a preposition; the others are subordinating/coordinating connectors
-4. **die Kantine** — it's a place; the others relate to money/payment
-5. **Vorstellungsgespräch** — it's an event; the others are types of working hours
-6. **sprechen** — general verb; the others are all specifically work-related verbs (submit, resign, hire)
+1. ~~Büro~~ — das Büro is a place; the others are professions (Berufe).
+2. ~~Pause~~ — die Pause is a break; the others are application documents.
+3. ~~nach~~ — nach is a preposition; the others are connectors.
+4. ~~Kantine~~ — die Kantine is a place; the others relate to money/payment.
+5. ~~Vorstellungsgespräch~~ — Vorstellungsgespräch is an event; the others are types of working hours.
+6. ~~sprechen~~ — sprechen is a general verb; the others are work-specific verbs.
 
-## D3 — Rückblick: Subordinate clauses
+## Übung D3 — Rückblick: Subordinate clauses
 
-1. **dass** … **findet**: *Ich glaube, dass Bruno bald einen Job findet.*
-2. **weil** … **ist**: *Er ist nervös, weil das Vorstellungsgespräch morgen ist.*
-3. **Wenn** … **hat**: *Wenn man viel Erfahrung hat, ist es leichter, eine Stelle zu finden.*
-4. **dass** … **gearbeitet hat**: *Sie erklärt, dass sie als Koordinatorin drei Jahre gearbeitet hat.*
-5. **wenn** … **bekommt**: *Ich schreibe noch mal, wenn ich keine Antwort bekomme.*
-6. **dass** … **wollen**: *Wir freuen uns, dass Sie sich bewerben wollen.*
-7. **Wenn** … **eingereicht sind**: *Wenn die Unterlagen eingereicht sind, melden wir uns.*
-8. **weil** … **wohnt**: *Er lernt Deutsch, weil er in Berlin wohnt.*
-9. **ob** … **ist**: *Frau Weber fragt, ob die Stelle noch frei ist.* — ⚠️ `ob` (whether) is needed for indirect yes/no questions (preview of B1/L9; accept `dass` but note `ob` is more precise here)
-10. **Wenn** … **zusammenarbeiten kann**: *Wenn man gut zusammenarbeiten kann, ist die Arbeit leichter.*
+1. **dass**  2. **findet**  3. **weil**  4. **ist**  5. **Wenn**  6. **hat**  7. **dass**  8. **gearbeitet hat**  9. **wenn**  10. **bekomme**  11. **dass**  12. **wollen**  13. **Wenn**  14. **eingereicht sind**  15. **weil**  16. **wohnt**  17. **ob** (auch richtig: **dass**)  18. **ist**  19. **Wenn**  20. **zusammenarbeiten kann**
 
-## D4 — Selbsttest
+## Übung D4 — Selbsttest (score yourself /20)
 
-1. **die Bewerbung**
-2. **der Lebenslauf**
-3. **das Vorstellungsgespräch**
-4. **das Gehalt**
-5. **die Kollegin**
-6. **Sie arbeitet als Krankenpflegerin.**
-7. **Er hat als Student in Berlin studiert.**
-8. **Ich habe als Manager gearbeitet.**
-9. **Er schreibt, wenn er keine Antwort bekommen hat.** (`bekommen hat` at the end)
-10. **Wenn die Stelle frei ist, bewerbe ich mich sofort.**
-11. **Wenn ich Zeit habe, komme ich sofort.** (inversion: `komme ich`, not `ich komme`)
-12. **weil** — it's giving a reason (because the interview is tomorrow)
-13. **weil** — it's giving a reason (because I want to pass the exam)
-14. **last / final position** — `ist` is the last word in the `wenn`-clause
-15. **Er ist müde, weil er viel gearbeitet hat.**
-16. **Ich habe keine Erfahrung. Deshalb lerne ich viel.**
-17. **Seid** ihr aus Brasilien?
-18. **beworben** — *Ich habe mich beworben.*
-19. **musste** — modal Präteritum of `müssen`
-20. **hört … auf** — separable verb: *Bruno hört um 17 Uhr auf.*
+1. **die Bewerbung**  2. **der Lebenslauf**  3. **das Vorstellungsgespräch**  4. **das Gehalt**  5. **die Kollegin**  6. **Sie arbeitet als Krankenpflegerin.**  7. **Er hat als Student in Berlin studiert.**  8. **Ich habe als Manager gearbeitet.**  9. **wenn**  10. **bekommen hat**  11. **Wenn die Stelle frei ist**  12. **komme ich sofort**  13. **weil**  14. **weil**  15. **last / final**  16. **Er ist müde, weil er viel gearbeitet hat.**  17. **Ich habe keine Erfahrung. Deshalb lerne ich viel.**  18. **Seid**  19. **beworben**  20. **musste**  21. **hört**
 
 ---
 
-**16+ / 20 → move on to Lektion 5.**  
-**Below 16:** redo Block A (A1–A4 for `wenn`-clauses, A5–A6 for `als`), then redo D4.  
-**Struggling with verb position?** Write 10 `wenn`-sentences about your own day — that's the fastest fix.
+**16+ / 20 → go to the next Lektion.**

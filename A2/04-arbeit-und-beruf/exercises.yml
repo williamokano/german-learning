@@ -1,0 +1,990 @@
+lesson: A2/04
+title: "A2 · Lektion 4 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - { q: "Bruno sucht einen neuen Job.", answer: true, why: "Bruno sucht einen neuen Job." }
+      - { q: "Bruno hat noch keine Bewerbungen geschickt.", answer: false, why: "He says he has already sent three applications." }
+      - { q: "Bruno möchte als IT-Assistent arbeiten.", answer: true, why: "He mentions working as an IT-Assistent." }
+      - { q: "Bruno wartet bis Montag auf eine Antwort.", answer: false, why: "He will write again if he hears nothing by Freitag, not Monday." }
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Frau Weber möchte sich für welche Stelle bewerben?"
+        options:
+          - { key: a, text: "als Koordinatorin" }
+          - { key: b, text: "als Projektleiterin" }
+          - { key: c, text: "als Managerin" }
+        answer: b
+        why: "Frau Weber möchte sich als Projektleiterin bewerben."
+      - q: "Wie lange hat Frau Weber als Koordinatorin gearbeitet?"
+        options:
+          - { key: a, text: "zwei Jahre" }
+          - { key: b, text: "drei Jahre" }
+          - { key: c, text: "fünf Jahre" }
+        answer: b
+        why: "drei Jahre als Koordinatorin."
+      - q: "Was soll Frau Weber tun, um einen Termin zu bekommen?"
+        options:
+          - { key: a, text: "anrufen" }
+          - { key: b, text: "Unterlagen einreichen" }
+          - { key: c, text: "eine E-Mail schreiben" }
+        answer: b
+        why: "Unterlagen einreichen."
+      - q: "Bis wann soll Frau Weber die Unterlagen schicken?"
+        options:
+          - { key: a, text: "bis Freitag" }
+          - { key: b, text: "bis Samstag" }
+          - { key: c, text: "bis Montag" }
+        answer: c
+        why: "Bis Montag."
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Yuki arbeitet seit drei Monaten als {1} in einem {2} in München. Wenn sie früh {3}, beginnt ihr Tag um sechs Uhr {4}. Sie macht eine {5}, wenn es ruhig ist. Nach der Arbeit lernt sie Deutsch in einem {6}.
+    bank: [anfängt, Kellnerin, Abendkurs, müde, Pause, versteht, schläfrig, Café, morgens]
+    answers:
+      "1": Kellnerin
+      "2": Café
+      "3": anfängt
+      "4": morgens
+      "5": Pause
+      "6": Abendkurs
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Anruf von der Personalagentur"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the phone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    transcript: 'Guten Tag, hier ist Frau Schäfer von der Personalagentur „Jobwelt". Ich rufe an wegen Ihrer Bewerbung als IT-Assistent. Wir hätten nächste Woche einen freien Termin für ein Vorstellungsgespräch. Das Gespräch findet am Mittwoch, dem achtzehnten Juni, um zehn Uhr in unserem Büro in der Friedrichstraße statt. Bitte bringen Sie Ihren Lebenslauf und Ihre Zeugnisse mit. Bitte rufen Sie uns bis Freitag an, um den Termin zu bestätigen. Vielen Dank und bis bald!'
+    items:
+      - q: "Von welcher Firma ruft Frau Schäfer an?"
+        options:
+          - { key: a, text: 'Von der Personalagentur „Jobwelt".' }
+          - { key: b, text: 'Von der Firma „Jobfinder".' }
+          - { key: c, text: 'Vom IT-Unternehmen „Future".' }
+        answer: a
+        why: '„hier ist Frau Schäfer von der Personalagentur „Jobwelt"."'
+      - q: "Für welche Stelle hat sich der Bewerber beworben?"
+        options:
+          - { key: a, text: "Als Kellner." }
+          - { key: b, text: "Als Projektleiter." }
+          - { key: c, text: "Als IT-Assistent." }
+        answer: c
+        why: "Bewerbung als IT-Assistent."
+      - q: "Wann findet das Vorstellungsgespräch statt?"
+        options:
+          - { key: a, text: "Am Mittwoch, dem achtzehnten Juni, um zehn Uhr." }
+          - { key: b, text: "Am Mittwoch, dem elften Juni, um zehn Uhr." }
+          - { key: c, text: "Am Donnerstag, dem neunzehnten Juni, um vierzehn Uhr." }
+        answer: a
+        why: "Mittwoch, dem achtzehnten Juni, um zehn Uhr."
+      - q: "Bis wann soll man anrufen, um den Termin zu bestätigen?"
+        options:
+          - { key: a, text: "Bis Donnerstag." }
+          - { key: b, text: "Bis Freitag." }
+          - { key: c, text: "Bis Samstag." }
+        answer: b
+        why: "Bis Freitag."
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`wenn`-Sätze: Verben ans Ende"
+    instructions: "Move the verb to the correct position in the `wenn`-clause. Write the final verb."
+    text: |
+      1. Er ruft an. → Er ruft an, wenn er fertig {1}.
+      2. Wir fangen an. → Wir fangen an, wenn alle da {2}.
+      3. Ich schreibe noch mal. → Ich schreibe noch mal, wenn ich keine Antwort {3}.
+      4. Sie ist glücklich. → Sie ist glücklich, wenn die Arbeit interessant {4}.
+      5. Herr Keller hilft. → Herr Keller hilft, wenn man Fragen {5}.
+      6. Bruno geht in die Kantine. → Bruno geht in die Kantine, wenn er Hunger {6}.
+    answers:
+      "1": ist
+      "2": sind
+      "3": bekomme
+      "4": ist
+      "5": hat
+      "6": hat
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`wenn`-Satz vorne: Inversion"
+    instructions: "Rewrite each sentence with the `wenn`-clause first. The gap is the main-clause verb (which comes immediately after the comma)."
+    text: |
+      1. Bruno ist pünktlich, wenn der Zug kommt. → Wenn der Zug kommt, {1} Bruno pünktlich.
+      2. Sie lernt schnell, wenn sie jeden Tag übt. → Wenn sie jeden Tag übt, {2} sie schnell.
+      3. Herr Steinmeyer vereinbart einen Termin, wenn die Unterlagen da sind. → Wenn die Unterlagen da sind, {3} Herr Steinmeyer einen Termin.
+      4. Anna hilft Bruno, wenn er Probleme hat. → Wenn er Probleme hat, {4} Anna Bruno.
+      5. Ich verdiene mehr, wenn ich Vollzeit arbeite. → Wenn ich Vollzeit arbeite, {5} ich mehr.
+      6. Man versteht viel, wenn man aufmerksam zuhört. → Wenn man aufmerksam zuhört, {6} man viel.
+    answers:
+      "1": ist
+      "2": lernt
+      "3": vereinbart
+      "4": hilft
+      "5": verdiene
+      "6": versteht
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`wenn`-Satz mit Modalverb"
+    instructions: "Complete the `wenn`-clause with the correct form of the modal verb (infinitive before modal, both at the end)."
+    text: |
+      1. Wenn ich früher aufhören {1} (aufhören können), komme ich pünktlich.
+      2. Wenn man einen Termin {2} (vereinbaren wollen), muss man anrufen.
+      3. Wenn er die Stelle {3} (bekommen wollen), muss er sich bewerben.
+      4. Wenn wir morgen nicht {4} (arbeiten müssen), gehen wir ins Café.
+      5. Wenn du mir {5} (helfen können), wäre das super.
+    answers:
+      "1": kann
+      "2": will
+      "3": will
+      "4": müssen
+      "5": kannst
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`wenn`-Satz mit Perfekt"
+    instructions: "Complete the `wenn`-clause using the Perfekt. Each item has two gaps (Partizip II + auxiliary)."
+    text: |
+      1. Wenn Bruno die E-Mail {1} {2}, wartet er auf eine Antwort.
+      2. Wenn Frau Weber die Unterlagen {3} {4}, vereinbaren wir einen Termin.
+      3. Wenn ich den Lebenslauf {5} {6}, rufe ich an.
+      4. Wenn er {7} {8}, braucht er Informationen über die Firma.
+      5. Wenn der Kurs {9} {10}, kaufe ich ein neues Buch.
+    answers:
+      "1": geschickt
+      "2": hat
+      "3": eingereicht
+      "4": hat
+      "5": gelesen
+      "6": habe
+      "7": sich
+      "8": beworben
+      "9": angefangen
+      "10": hat
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`als` + Berufsbezeichnung"
+    instructions: "Fill in the correct profession noun (no article!) after `als`."
+    text: |
+      1. Er hat fünf Jahre als {1} in einem Restaurant gearbeitet.
+      2. Sie ist als {2} bei einer Softwarefirma tätig.
+      3. Ich bin als {3} eingeschrieben — ich studiere Informatik.
+      4. Bruno möchte als IT-Assistent arbeiten. Frau Weber arbeitet als {4}.
+      5. Er fährt Autos und arbeitet als {5}.
+      6. Sie unterrichtet Deutsch und arbeitet als {6}.
+    answers:
+      "1": Koch
+      "2": Programmiererin
+      "3": Student
+      "4": Koordinatorin
+      "5": Mechaniker
+      "6": Lehrerin
+
+  - id: A6
+    block: A
+    type: true-false
+    title: "`als` mit Verb: richtig oder falsch?"
+    instructions: "Mark each sentence R (richtig) or F (falsch)."
+    items:
+      - { q: "Ich arbeite als eine Ärztin.", answer: false, why: 'Ich arbeite als **Ärztin** (no article after `als` with profession).' }
+      - { q: "Er hat als Journalist gearbeitet.", answer: true, why: "Correct." }
+      - { q: "Sie ist als die Managerin angestellt.", answer: false, why: 'Sie ist als **Managerin** angestellt (no definite article after `als`).' }
+      - { q: "Wir arbeiten als Kollegen zusammen.", answer: true, why: '`als Kollegen` = as colleagues (plural noun, no article needed).' }
+      - { q: "Er war als ein Koch tätig.", answer: false, why: 'Er war als **Koch** tätig (no article after `als`).' }
+      - { q: "Anna möchte als Lehrerin arbeiten.", answer: true, why: "Correct." }
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Berufe: welche Form?"
+    instructions: "Give the opposite-gender form of each profession."
+    text: |
+      1. der Lehrer → die {1}
+      2. die Ärztin → der {2}
+      3. der Koch → die {3}
+      4. die Programmiererin → der {4}
+      5. der Verkäufer → die {5}
+      6. die Buchhalterin → der {6}
+      7. der Krankenpfleger → die {7}
+      8. die Journalistin → der {8}
+    answers:
+      "1": Lehrerin
+      "2": Arzt
+      "3": Köchin
+      "4": Programmierer
+      "5": Verkäuferin
+      "6": Buchhalter
+      "7": Krankenpflegerin
+      "8": Journalist
+
+  - id: A8
+    block: A
+    type: matching
+    title: "Wortschatz Arbeitswelt: was passt?"
+    instructions: "Match each definition (1–8) to the correct noun (a–h)."
+    left:
+      - { key: "1", text: "Das schreibe ich und schicke es an die Firma, wenn ich mich bewerbe." }
+      - { key: "2", text: "Dort arbeiten viele Leute an Schreibtischen." }
+      - { key: "3", text: "Hier treffen sich Kollegen, um Dinge zu besprechen." }
+      - { key: "4", text: "Das bekomme ich jeden Monat für meine Arbeit." }
+      - { key: "5", text: "Er bezahlt mich — ich arbeite für ihn." }
+      - { key: "6", text: "Mit ihm oder ihr arbeite ich jeden Tag zusammen." }
+      - { key: "7", text: "Hier kann ich eine Pause machen und etwas essen." }
+      - { key: "8", text: "Das ist das Gespräch, das ich vor dem ersten Arbeitstag habe." }
+    right:
+      - { key: a, text: "die Besprechung" }
+      - { key: b, text: "das Büro" }
+      - { key: c, text: "die Bewerbung" }
+      - { key: d, text: "der Arbeitgeber" }
+      - { key: e, text: "der Kollege / die Kollegin" }
+      - { key: f, text: "das Vorstellungsgespräch" }
+      - { key: g, text: "das Gehalt" }
+      - { key: h, text: "die Kantine" }
+    answers:
+      "1": c
+      "2": b
+      "3": a
+      "4": g
+      "5": d
+      "6": e
+      "7": h
+      "8": f
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Konjugation: Verben zur Arbeit"
+    instructions: "Write the correct verb form."
+    text: |
+      1. Er {1} (arbeiten) seit drei Jahren als Ingenieur.
+      2. Wann {2} (anfangen) dein Arbeitstag?
+      3. Ich {3} (sich bewerben) für die Stelle als Buchhalter.
+      4. Sie {4} (verdienen) sehr gut in ihrer neuen Stelle.
+      5. Wir {5} (vereinbaren) einen Termin für Montag.
+      6. Der Chef {6} (einstellen) zwei neue Mitarbeiter.
+      7. Bruno {7} (einreichen) seine Unterlagen bis Freitag.
+    answers:
+      "1": arbeitet
+      "2": fängt
+      "3": "bewerbe mich"
+      "4": verdient
+      "5": vereinbaren
+      "6": stellt
+      "7": reicht
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`wenn` oder `weil`?"
+    instructions: "Choose `wenn` or `weil` and complete the gap with the verb (infinitive + modal or finite verb, at the end of the clause)."
+    text: |
+      1. Er lernt viel, {1} er die Prüfung bestehen {2} (bestehen wollen).
+      2. Ich bin glücklich, {3} meine Arbeit interessant {4} (sein).
+      3. Bruno sucht einen Job, {5} er Geld {6} (brauchen).
+      4. {7} du Zeit {8} (haben), können wir einen Kaffee trinken.
+      5. Sie kommt zu spät, {9} der Bus Verspätung {10} (haben).
+      6. Er schreibt eine E-Mail, {11} er keine Antwort {12} (bekommen).
+      7. Wir bleiben im Büro, {13} die Besprechung so lange {14} (dauern).
+      8. {15} man viel übt, lernt man schnell.
+    answers:
+      "1": wenn
+      "2": will
+      "3":
+        - wenn
+        - weil
+      "4": ist
+      "5": weil
+      "6": braucht
+      "7": Wenn
+      "8": hast
+      "9": weil
+      "10": hat
+      "11": wenn
+      "12": bekommt
+      "13": weil
+      "14": dauert
+      "15": Wenn
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Satzklammer recap: Trennbare Verben (L5 review)"
+    instructions: "Each item has two gaps: the conjugated verb (position 2) and the separable prefix (end of clause)."
+    text: |
+      1. Bruno {1} um neun Uhr {2} (anfangen).
+      2. {3} du nach der Arbeit {4}? (aufhören)
+      3. Wir {5} morgen {6}. (anrufen)
+      4. Sie {7} jeden Tag im Supermarkt {8}. (einkaufen)
+      5. Wann {9} du {10}? (aufstehen)
+    answers:
+      "1": fängt
+      "2": an
+      "3": Hörst
+      "4": auf
+      "5": rufen
+      "6": an
+      "7": kauft
+      "8": ein
+      "9": stehst
+      "10": auf
+
+  - id: A12
+    block: A
+    type: free-write
+    title: "Berufsbezeichnungen + `als`: Sätze bauen"
+    prompt: "Build complete sentences using the cues. Use `als` + the profession given (no article after `als`)."
+    stimulus: |
+      1. Anna / arbeiten / Lehrerin / in Berlin
+      2. Er / haben / gearbeitet / drei Jahre / Mechaniker
+      3. Wir / suchen / jemanden / als / Buchhalter
+      4. Möchtest du / als / Programmierer / arbeiten?
+      5. Sie / sein / seit zwei Jahren / tätig / als / Managerin
+    model: |
+      1. Anna arbeitet als Lehrerin in Berlin.
+      2. Er hat drei Jahre als Mechaniker gearbeitet.
+      3. Wir suchen jemanden als Buchhalter.
+      4. Möchtest du als Programmierer arbeiten?
+      5. Sie ist seit zwei Jahren als Managerin tätig.
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Dialog ergänzen"
+    instructions: "Fill in the 7 gaps with words from the box. Two words are not needed."
+    text: |
+      — Entschuldigung, ich interessiere mich für die {1} als Buchhalter.
+      — Ja, bitte. Haben Sie schon {2} in diesem Bereich?
+      — Ja, ich habe zwei Jahre {3} Buchhalter bei einer kleinen Firma gearbeitet.
+      — Sehr gut. Wann können Sie Ihre {4} schicken?
+      — {5} es Ihnen recht ist, schicke ich alles bis morgen.
+      — Das wäre ideal. {6} die {7} da sind, melden wir uns.
+    bank: [wenn, als, weil, Stelle, Bewerbung, Unterlagen, Erfahrung, ob, Gehalt, wenn, Unterlagen]
+    answers:
+      "1": Stelle
+      "2": Erfahrung
+      "3": als
+      "4": Unterlagen
+      "5": wenn
+      "6": wenn
+      "7": Unterlagen
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler"
+    instructions: "Each sentence has exactly one mistake. The wrong word/position is shown as a gap — write the correct form."
+    text: |
+      1. Wenn er fertig ist, {1} sofort. (er kommt → ?)
+      2. Ich arbeite als {2} Ärztin in Hamburg. (eine → ?)
+      3. Wenn ich keine Arbeit finde, kann ich nicht {3} die Miete. (zahlen → ?)
+      4. Sie hat {4} sich für die neue Stelle. (beworben → ?)
+      5. Er macht Überstunden, wenn viele Gäste {5} (da sein → ?).
+      6. Wir vereinbaren einen Termin, wenn die Unterlagen {6} da. (sind → ?)
+      7. Ich habe drei {7} als Lehrer gearbeitet. (Jahr → ?)
+      8. Als Student {8} ich kein Geld verdienen. (bin → ?)
+    answers:
+      "1": "kommt er"
+      "2": "Ärztin"
+      "3": "zahlen"
+      "4": "sich beworben"
+      "5": sind
+      "6": da
+      "7": Jahre
+      "8": verdiene
+
+  - id: B3
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Sätze verbinden: `wenn`, `weil`, `deshalb`"
+    instructions: "Combine using the connector given. The gap is the connector (and any required verb at the end of the wenn-clause)."
+    text: |
+      1. Ich habe viel Erfahrung. → {1} ich viel Erfahrung habe, bekomme ich die Stelle.
+      2. Er braucht Geld. → Er arbeitet viel, {2} er Geld braucht.
+      3. Sie hat eine gute Bewerbung geschrieben. → {3} bekommt sie das Vorstellungsgespräch.
+      4. Du lernst viel. → {4} du viel lernst, sprichst du bald gut Deutsch.
+      5. Der Bus kommt zu spät. → Ich bin nicht pünktlich, {5} der Bus zu spät kommt.
+      6. Herr Steinmeyer bekommt die Unterlagen bis Montag. → {6} er die Unterlagen bis Montag bekommt, vereinbart er einen Termin.
+    answers:
+      "1": Wenn
+      "2": weil
+      "3": Deshalb
+      "4": Wenn
+      "5": weil
+      "6": Wenn
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Fragen und Antworten zuordnen"
+    instructions: "Match each question (1–8) to the correct answer (a–h)."
+    left:
+      - { key: "1", text: "Was machen Sie von Beruf?" }
+      - { key: "2", text: "Wo arbeiten Sie?" }
+      - { key: "3", text: "Wann beginnt Ihr Arbeitstag?" }
+      - { key: "4", text: "Haben Sie Berufserfahrung?" }
+      - { key: "5", text: "Warum bewerben Sie sich bei uns?" }
+      - { key: "6", text: "Was sind Ihre Stärken?" }
+      - { key: "7", text: "Wann sind Sie verfügbar?" }
+      - { key: "8", text: "Wie lange machen Sie Pause?" }
+    right:
+      - { key: a, text: "Ich arbeite in einem Büro in Berlin-Mitte." }
+      - { key: b, text: "Ab dem ersten März." }
+      - { key: c, text: "Ich bin von Beruf Ingenieurin." }
+      - { key: d, text: "Ja, ich habe drei Jahre als Koordinatorin gearbeitet." }
+      - { key: e, text: "Weil ich die Firma sehr interessant finde." }
+      - { key: f, text: "Um neun Uhr." }
+      - { key: g, text: "Eine Stunde, von zwölf bis dreizehn Uhr." }
+      - { key: h, text: "Ich bin sehr organisiert und arbeite gut im Team." }
+    answers:
+      "1": c
+      "2": a
+      "3": f
+      "4": d
+      "5": e
+      "6": h
+      "7": b
+      "8": g
+
+  - id: B5
+    block: B
+    type: order
+    title: "Satzbau: `wenn`-Sätze"
+    instructions: "Put the words in the right order."
+    items:
+      - tiles: [wenn, ist, er, kommt, er, fertig, sofort]
+        answer: [0, 3, 1, 6, 4, 2, 5]
+        note: "Wenn er fertig ist, kommt er sofort."
+      - tiles: [habe, keinen, Hunger, esse, wenn, nichts, ich, ich]
+        answer: [3, 1, 2, 6, 0, 4, 5, 7]
+        note: "Wenn ich keinen Hunger habe, esse ich nichts."
+      - tiles: [finde, ich, einen, Job, wenn, glücklich, ich, Glück, habe, bin]
+        answer: [9, 0, 2, 3, 0, 5, 6, 4, 7, 8]
+        note: "Wenn ich Glück habe, finde ich einen Job. (Also: Ich bin glücklich, wenn ich einen Job finde.)"
+      - tiles: [sie, Fragen, hat, hilft, wenn, ihr, Laura]
+        answer: [4, 2, 3, 6, 0, 1, 5]
+        note: "Wenn sie Fragen hat, hilft ihr Laura."
+      - tiles: [Unterlagen, bis, Montag, wir, anrufen, Sie, einreichen, wenn, die]
+        answer: [7, 0, 1, 8, 4, 3, 5, 2, 6]
+        note: "Wenn Sie die Unterlagen bis Montag einreichen, rufen wir an."
+
+  - id: B6
+    block: B
+    type: free-write
+    title: "Beruf beschreiben: Sätze schreiben"
+    prompt: "Write 4–5 complete sentences about Maria. Use `wenn` in at least one sentence. The first sentence is given as an example."
+    stimulus: |
+      Person: Maria, 32 Jahre, Programmiererin, Softwarefirma in München, Vollzeit, Arbeitsbeginn 8:30 Uhr, gern im Team.
+
+      Beispiel: Maria arbeitet als Programmiererin bei einer Softwarefirma in München.
+
+      Write 4 more sentences.
+    use:
+      - "`als` + profession (no article) — *als Programmiererin*"
+      - "a `wenn`-clause (verb at end)"
+      - "at least one detail about Maria's working day"
+    model: |
+      Maria arbeitet als Programmiererin bei einer Softwarefirma in München.
+      Sie arbeitet Vollzeit. Ihr Arbeitstag beginnt um acht Uhr dreißig.
+      Sie arbeitet gern im Team mit ihren Kollegen. Wenn sie Fragen
+      hat, bespricht sie diese mit ihren Kolleginnen und Kollegen.
+
+  - id: B7
+    block: B
+    type: free-write
+    title: "Übersetzen (EN → DE)"
+    prompt: "Translate each English sentence into German. Use `wenn`, `weil`, or `deshalb` as appropriate."
+    stimulus: |
+      1. I work as a teacher in Berlin.
+      2. If I have time, I write the application.
+      3. She has worked as a manager for two years.
+      4. When does your working day start?
+      5. I'm applying for the position as accountant.
+      6. He's happy because the job is interesting.
+      7. If you have questions, please contact us.
+      8. We arrange a meeting when the documents arrive.
+    model: |
+      1. Ich arbeite als Lehrerin in Berlin.
+      2. Wenn ich Zeit habe, schreibe ich die Bewerbung.
+      3. Sie hat zwei Jahre als Managerin gearbeitet.
+      4. Wann beginnt dein Arbeitstag?
+      5. Ich bewerbe mich für die Stelle als Buchhalter.
+      6. Er ist glücklich, weil der Job interessant ist.
+      7. Wenn Sie Fragen haben, melden Sie sich bitte.
+      8. Wir vereinbaren einen Termin, wenn die Unterlagen ankommen.
+
+  - id: B8
+    block: B
+    type: matching
+    title: "Wie heißt das auf Deutsch?"
+    instructions: "Match the English job ad phrases (1–8) to the German equivalents (a–h)."
+    left:
+      - { key: "1", text: "We are looking for a qualified engineer." }
+      - { key: "2", text: "Please send your CV and cover letter." }
+      - { key: "3", text: "We offer a competitive salary." }
+      - { key: "4", text: "You have at least two years of experience." }
+      - { key: "5", text: "The position starts on 1 March." }
+      - { key: "6", text: "Full-time or part-time possible." }
+      - { key: "7", text: "We look forward to your application." }
+      - { key: "8", text: "Please contact us by telephone." }
+    right:
+      - { key: a, text: "Bitte schicken Sie Ihren Lebenslauf und Ihr Anschreiben." }
+      - { key: b, text: "Wir bieten ein gutes Gehalt." }
+      - { key: c, text: "Die Stelle beginnt am 1. März." }
+      - { key: d, text: "Sie haben mindestens zwei Jahre Berufserfahrung." }
+      - { key: e, text: "Wir freuen uns auf Ihre Bewerbung." }
+      - { key: f, text: "Vollzeit oder Teilzeit möglich." }
+      - { key: g, text: "Wir suchen einen qualifizierten Ingenieur." }
+      - { key: h, text: "Bitte melden Sie sich telefonisch." }
+    answers:
+      "1": g
+      "2": a
+      "3": b
+      "4": d
+      "5": c
+      "6": f
+      "7": e
+      "8": h
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Vorstellungsgespräch: E-Mail an die Personalabteilung"
+    prompt: "Schreib eine formelle E-Mail als Antwort an Frau Schäfer in 4–5 Sätzen. Bestätige den Termin oder schlage einen anderen vor, und nenne deine aktuelle Position mit `als …`."
+    use:
+      - "a formal greeting + closing (*Sehr geehrte Frau Schäfer, … / Mit freundlichen Grüßen, …*)"
+      - "at least 1 sentence with `wenn` (a condition: *wenn es passt / wenn nichts dazwischenkommt*)"
+      - "a sentence with `als` + profession (*Ich arbeite zurzeit als …*)"
+      - "at least 1 future / conditional verb form (*werde … kommen / könnte … teilnehmen*)"
+    selfCheck:
+      - "Did I put the verb at the end of the `wenn`-clause?"
+      - "Did I use `als` (job role) — without article — correctly?"
+      - "Did I use a comma before `wenn` and the `wenn`-clause?"
+    model: |
+      Sehr geehrte Frau Schäfer,
+      vielen Dank für Ihre Einladung. Ich arbeite zurzeit als
+      IT-Assistent in einer kleinen Firma, deshalb freue ich mich sehr
+      über die Chance. Der Termin am Mittwoch, dem neunzehnten Juni,
+      passt mir gut. Wenn nichts dazwischenkommt, werde ich pünktlich
+      um zehn Uhr bei Ihnen sein. Ich freue mich auf das Gespräch.
+      Mit freundlichen Grüßen, [Name]
+
+  - id: B10
+    block: B
+    type: free-write
+    title: "Smalltalk bei der Arbeit: Dialog schreiben"
+    prompt: "Write a 6–8 line small-talk dialogue between Bruno and Tom (informal `du`). Include: a greeting and introducing yourself, at least one `wenn`-clause, `als` + a profession or role, at least one phrase from §2 Redemittel."
+    use:
+      - "informal `du` throughout"
+      - "at least one `wenn`-clause (verb at end)"
+      - "`als` + profession (no article)"
+      - "at least one small-talk phrase from §2"
+    selfCheck:
+      - "After `wenn`, does the verb appear at the very end of the clause?"
+      - "Did you use `als` without an article before the profession?"
+      - "Is the comma in place between the `wenn`-clause and the main clause?"
+    model: |
+      Anna: Hallo! Ich bin Anna. Bist du auch neu hier?
+      Tom: Ja, heute ist mein erster Tag! Ich heiße Tom. Ich arbeite als Grafiker.
+      Anna: Schön! Ich bin als Lehrerin hier — im Bildungsbereich.
+      Tom: Interessant. Wie findest du das Büro?
+      Anna: Sehr nett. Wenn man nette Kollegen hat, macht die Arbeit mehr Spaß.
+      Tom: Das stimmt! Hast du schon die Kantine gesehen?
+      Anna: Noch nicht. Wenn du willst, gehen wir zusammen in der Pause.
+      Tom: Super! Drück mir die Daumen für heute!
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext"
+    instructions: "Fill each gap with one word."
+    text: |
+      Bruno hat eine Stelle {1} IT-Assistent bei einer Softwarefirma gefunden. Heute ist sein erster Arbeitstag. Er steht um sieben Uhr {2} und fährt mit der U-Bahn ins Büro. Sein Chef, Herr Keller, stellt ihm die {3} vor. Brunos Kollegin Laura {4} als Programmiererin. Der Arbeitstag {5} um neun Uhr. Wenn Bruno {6} hat, geht er in die Kantine. Am Nachmittag hat er an einer {7} teilgenommen. Er hat nicht alles {8}, aber das macht {9}. Wenn die ersten Wochen gut {10}, möchte er langfristig bei der Firma bleiben.
+    answers:
+      "1": als
+      "2": auf
+      "3": Kollegen
+      "4": arbeitet
+      "5": beginnt
+      "6": Hunger
+      "7": Besprechung
+      "8": verstanden
+      "9": nichts
+      "10": "laufen"
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "ich (1) ____ mich für die Stelle als IT-Assistent in Ihrer Firma."
+        options:
+          - { key: a, text: "bewerbe" }
+          - { key: b, text: "bewirbst" }
+          - { key: c, text: "bewirbt" }
+        answer: a
+        why: "ich-Form von sich bewerben."
+      - q: "Ich habe zwei Jahre (2) ____ Programmierer bei einer kleinen Firma (3) ____."
+        options:
+          - { key: a, text: "wie" }
+          - { key: b, text: "als" }
+          - { key: c, text: "ob" }
+        answer: b
+        why: "als + Berufsbezeichnung."
+      - q: "Welche Form passt: gearbeitet / arbeite / arbeitete?"
+        options:
+          - { key: a, text: "gearbeitet" }
+          - { key: b, text: "arbeite" }
+          - { key: c, text: "arbeitete" }
+        answer: a
+        why: "Perfekt: habe … gearbeitet."
+      - q: "Wenn die Stelle (4) ____ frei ist, würde ich sehr gern ein Vorstellungsgespräch vereinbaren."
+        options:
+          - { key: a, text: "noch" }
+          - { key: b, text: "schon" }
+          - { key: c, text: "nie" }
+        answer: a
+        why: "noch = still."
+      - q: "Ich (5) ____ meine Unterlagen bis Ende der Woche ein."
+        options:
+          - { key: a, text: "reiche" }
+          - { key: b, text: "reichen" }
+          - { key: c, text: "reichst" }
+        answer: a
+        why: "ich-Form von einreichen."
+      - q: "Wenn Sie Fragen (6) ____, melden Sie sich bitte telefonisch."
+        options:
+          - { key: a, text: "habt" }
+          - { key: b, text: "haben" }
+          - { key: c, text: "hat" }
+        answer: b
+        why: "Sie-Form von haben (formal plural)."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
+    text: |
+      Guten Tag! Ich heiße Petra Schmidt und ich {1} als Buchhalterin {2} einer mittelgroßen Firma in Frankfurt. Mein Arbeitstag {3} um acht Uhr dreißig. Ich sitze im {4} im dritten Stock. Meine {5} sind sehr nett — wir arbeiten gut {6}. {7} ich Hunger habe, gehe ich in die {8}. Ich mache eine kurze {9} von zwölf bis dreizehn Uhr. Das {10} ist gut — ich bin insgesamt sehr zufrieden.
+    bank: [ALS, ARBEITE, AUSBILDUNG, BEI, BEWERBUNG, BÜRO, BEGINNT, CHEF, CHEFIN, FEIERABEND, GEHALT, KANTINE, KOLLEGEN, LANGE, PAUSE, STELLE, TEILZEIT, VOLLZEIT, WENN, ZUSAMMEN]
+    answers:
+      "1": ARBEITE
+      "2": BEI
+      "3": BEGINNT
+      "4": BÜRO
+      "5": KOLLEGEN
+      "6": ZUSAMMEN
+      "7": WENN
+      "8": KANTINE
+      "9": PAUSE
+      "10": GEHALT
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Brunos erster Arbeitstag)"
+    instructions: "Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?"
+    items:
+      - { q: "Bruno fährt mit dem Bus zur Arbeit.", answer: false, why: "He travels by U-Bahn (metro), not bus." }
+      - { q: "Brunos Kollegin Laura ist Programmiererin.", answer: true, why: "Laura arbeitet als Programmiererin." }
+      - { q: "Bruno arbeitet von neun bis vierzehn Uhr ohne Pause.", answer: false, why: "He works from 9:00 to 13:00 with a one-hour break." }
+      - { q: "Bruno hat an einer Besprechung teilgenommen.", answer: true, why: "He participated in a Besprechung." }
+      - { q: "Bruno möchte nicht lange bei der Firma bleiben.", answer: false, why: "He wants to stay long-term (langfristig) if the first weeks go well." }
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Stellenanzeige)"
+    instructions: |
+      > **Wir suchen: Bürokauffrau / Bürokaufmann (Vollzeit)**
+      > **Ihre Aufgaben:** Kundenkontakt per Telefon und E-Mail; Terminplanung und Büroorganisation; Bearbeitung von Rechnungen.
+      > **Ihr Profil:** Abgeschlossene Ausbildung als Bürokauffrau/-mann; mindestens 1 Jahr Berufserfahrung; gute Deutschkenntnisse (mindestens B1); teamfähig und pünktlich.
+      > **Wir bieten:** Vollzeitstelle (40 Stunden/Woche); gutes Gehalt; 28 Tage Urlaub.
+      > **Bewerbungen bitte per E-Mail bis 30. Juni.**
+
+      Wähle a, b oder c.
+    items:
+      - q: "Was ist die Stelle?"
+        options:
+          - { key: a, text: "Programmiererin" }
+          - { key: b, text: "Bürokauffrau/-mann" }
+          - { key: c, text: "Buchhalterin" }
+        answer: b
+        why: "Bürokauffrau/-mann."
+      - q: "Wie viele Stunden pro Woche ist die Stelle?"
+        options:
+          - { key: a, text: "20 Stunden" }
+          - { key: b, text: "30 Stunden" }
+          - { key: c, text: "40 Stunden" }
+        answer: c
+        why: "40 Stunden."
+      - q: "Was braucht man für diese Stelle?"
+        options:
+          - { key: a, text: "fünf Jahre Erfahrung" }
+          - { key: b, text: "mindestens ein Jahr Erfahrung" }
+          - { key: c, text: "keine Erfahrung" }
+        answer: b
+        why: "mindestens 1 Jahr."
+      - q: "Bis wann muss man sich bewerben?"
+        options:
+          - { key: a, text: "bis 20. Juni" }
+          - { key: b, text: "bis 30. Juni" }
+          - { key: c, text: "bis 1. Juli" }
+        answer: b
+        why: "bis 30. Juni."
+      - q: "Wie schickt man die Bewerbung?"
+        options:
+          - { key: a, text: "per Post" }
+          - { key: b, text: "persönlich" }
+          - { key: c, text: "per E-Mail" }
+        answer: c
+        why: "per E-Mail."
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Anschreiben (cover letter)"
+    prompt: "Write a short cover letter (Anschreiben) of 60–80 words for the Bürokauffrau/-mann position in Text 2 above. Include: a formal greeting, why you're writing, your relevant experience, a `wenn`-clause, a formal closing."
+    use:
+      - "Sehr geehrte Damen und Herren, (formal greeting)"
+      - "ich bewerbe mich für … (purpose)"
+      - "`als` + profession (no article)"
+      - "Wenn Sie Fragen haben, … (`wenn`-clause, verb at end)"
+      - "Mit freundlichen Grüßen, (formal closing)"
+    selfCheck:
+      - "Did I use the formal `Sie`?"
+      - "Did I use `als` without an article before the profession?"
+      - "Is the verb at the very end of the `wenn`-clause?"
+      - "Is the letter 60–80 words?"
+    model: |
+      Sehr geehrte Damen und Herren,
+
+      ich bewerbe mich für die Stelle als Bürokauffrau in Ihrer Firma. Ich habe
+      zwei Jahre als Büroassistentin gearbeitet und bin sehr organisiert und
+      teamfähig. Meine Deutschkenntnisse sind auf B2-Niveau. Wenn Sie Fragen
+      haben, melden Sie sich bitte telefonisch oder per E-Mail. Ich freue mich
+      auf ein Vorstellungsgespräch.
+
+      Mit freundlichen Grüßen,
+      [Name]
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per item. No notes."
+    text: |
+      1. „Ich arbeite {1} Lehrerin." (which particle?)
+      2. Verb position in a `wenn`-clause: position {2}.
+      3. Wenn-clause first → main clause verb comes {3} (before/after) the subject.
+      4. (L3) „Ich komme zu spät, {4} der Bus gestreikt hat."
+      5. (L3) „Er ist müde. {5} geht er früh schlafen."
+      6. Feminine form: der Lehrer → {6}
+      7. Masculine form: die Ärztin → {7}
+      8. das Vorstellungsgespräch → English: {8}
+      9. der Lebenslauf → English: {9}
+      10. (L7) „Ich {10} als Kind oft Fußball spielen." (modal Präteritum of wollen)
+      11. (L11) Partizip II of einreichen: {11}
+      12. „Wenn er die Stelle {12}, ruft er an." (Perfekt of bekommen)
+      13. (L5) aufstehen → Partizip II: {13}
+      14. (L1) Verb position in a W-question: position {14}
+      15. (L3) „Ich finde, {15} Deutsch interessant {16} (sein)." (dass-clause)
+    answers:
+      "1": als
+      "2": last
+      "3": before
+      "4": weil
+      "5":
+        - Deshalb
+        - Darum
+        - Deswegen
+      "6": Lehrerin
+      "7": Arzt
+      "8": "the job interview"
+      "9": "CV / résumé"
+      "10": wollte
+      "11": eingereicht
+      "12": "bekommen hat"
+      "13": aufgestanden
+      "14": "2"
+      "15": dass
+      "16": ist
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Circle the word that doesn't belong and say why."
+    groups:
+      - items: [Lehrer, Ärztin, Büro, Koch]
+        odd: 2
+        why: "das Büro is a place; the others are professions (Berufe)."
+      - items: [Bewerbung, Lebenslauf, Pause, Anschreiben]
+        odd: 2
+        why: "die Pause is a break; the others are application documents."
+      - items: [wenn, weil, deshalb, nach]
+        odd: 3
+        why: "nach is a preposition; the others are connectors."
+      - items: [Gehalt, Kantine, verdienen, bezahlen]
+        odd: 1
+        why: "die Kantine is a place; the others relate to money/payment."
+      - items: [Vollzeit, Teilzeit, Überstunden, Vorstellungsgespräch]
+        odd: 3
+        why: "Vorstellungsgespräch is an event; the others are types of working hours."
+      - items: [einreichen, kündigen, einstellen, sprechen]
+        odd: 3
+        why: "sprechen is a general verb; the others are work-specific verbs."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: Subordinate clauses"
+    instructions: "Complete each sentence with the correct connector (`wenn`, `weil`, `dass`, `ob`) and put the verb at the end. Each item has two gaps."
+    text: |
+      1. Ich glaube, {1} Bruno bald einen Job {2} (finden).
+      2. Er ist nervös, {3} das Vorstellungsgespräch morgen {4} (sein).
+      3. {5} man viel Erfahrung {6} (haben), ist es leichter, eine Stelle zu finden.
+      4. Sie erklärt, {7} sie als Koordinatorin drei Jahre {8} (gearbeitet haben).
+      5. Ich schreibe noch mal, {9} ich keine Antwort {10} (bekommen).
+      6. Wir freuen uns, {11} Sie sich bewerben {12} (wollen).
+      7. {13} die Unterlagen {14} (eingereicht sein), melden wir uns.
+      8. Er lernt Deutsch, {15} er in Berlin {16} (wohnen).
+      9. Frau Weber fragt, {17} die Stelle noch frei {18} (sein).
+      10. {19} man gut {20} (zusammenarbeiten können), ist die Arbeit leichter.
+    answers:
+      "1": dass
+      "2": findet
+      "3": weil
+      "4": ist
+      "5": Wenn
+      "6": hat
+      "7": dass
+      "8": "gearbeitet hat"
+      "9": wenn
+      "10": bekomme
+      "11": dass
+      "12": wollen
+      "13": Wenn
+      "14": "eingereicht sind"
+      "15": weil
+      "16": wohnt
+      "17":
+        - ob
+        - dass
+      "18": ist
+      "19": Wenn
+      "20": "zusammenarbeiten kann"
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion 5. Below 16: redo Block A exercises (A1–A4 for `wenn`, A5–A6 for `als`), then retest."
+    text: |
+      **Vocabulary (5 points):**
+      1. the application → {1}
+      2. the CV → {2}
+      3. the job interview → {3}
+      4. the salary → {4}
+      5. the colleague (f) → {5}
+
+      **`als` + profession (3 points):**
+      6. She works as a nurse. → {6}
+      7. He studied as a student in Berlin. → {7}
+      8. I have worked as a manager. → {8}
+
+      **`wenn`-clauses (6 points):**
+      9. „Er schreibt, {9} er keine Antwort {10} (nicht bekommen haben)." (wenn-clause)
+      10. „{11}, bewerbe ich mich sofort." (wenn at front)
+      11. Correct: „Wenn ich Zeit habe, {12}." (inversion)
+      12. „Ich bin nervös, (wenn/weil) das Gespräch morgen ist." → {13}
+      13. „Ich lerne viel, (wenn/weil) ich die Prüfung bestehen will." → {14}
+      14. Verb `ist` is in position {15} of the `wenn`-clause.
+
+      **Review (6 points):**
+      15. (L3) Connect with `weil`: „Er ist müde. / Er hat viel gearbeitet." → {16}
+      16. (L3) Connect with `deshalb`: „Ich habe keine Erfahrung. / Ich lerne viel." → {17}
+      17. (L1) „{18} (sein) ihr aus Brasilien?" (yes/no question)
+      18. (L11) Perfekt of `bewerben (sich)`: Ich habe mich {19}.
+      19. (L7) Modal Präteritum: „Sie {20} (müssen) früh aufstehen."
+      20. (L5) „Bruno hört um 17 Uhr auf." (present tense) — verb form: {21}
+    answers:
+      "1": "die Bewerbung"
+      "2": "der Lebenslauf"
+      "3": "das Vorstellungsgespräch"
+      "4": "das Gehalt"
+      "5": "die Kollegin"
+      "6": "Sie arbeitet als Krankenpflegerin."
+      "7": "Er hat als Student in Berlin studiert."
+      "8": "Ich habe als Manager gearbeitet."
+      "9": wenn
+      "10": "bekommen hat"
+      "11": "Wenn die Stelle frei ist"
+      "12": "komme ich sofort"
+      "13": weil
+      "14": weil
+      "15": "last / final"
+      "16": "Er ist müde, weil er viel gearbeitet hat."
+      "17": "Ich habe keine Erfahrung. Deshalb lerne ich viel."
+      "18": Seid
+      "19": beworben
+      "20": musste
+      "21": hört
