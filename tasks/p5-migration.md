@@ -41,9 +41,10 @@ If it exits 0, commit+push. Then move to the next lesson. **Do not fan out in pa
 | A2/10 | ✅ DONE | ✅ | ✅ |
 | A2/11 | ✅ DONE | ✅ | ✅ |
 | A2/12 | ✅ DONE | ✅ | ✅ |
-| A2/13 | ❌ | — | — |
+| A2/13 | ✅ DONE | ✅ | ✅ |
+| A2/14 | ✅ DONE (P3 hand-authored) | ✅ | ✅ |
 
-**Next lesson:** A2/13-menschen-beschreiben
+**All lessons complete!** ✅ P5 migration finished.
 
 ---
 
