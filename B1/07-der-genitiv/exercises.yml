@@ -1,0 +1,947 @@
+lesson: B1/07
+title: "B1 · Lektion 7 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: H+A on day 1, B on day 2, C on day 3, D on day 4.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Layla hat das Fahrrad bei einem Berliner Laden gefunden."
+        answer: false
+        why: 'Sie hat es auf eBay Kleinanzeigen gefunden.'
+      - q: "Der Name des Verkäufers ist Björn Koch."
+        answer: true
+        why: 'Layla liest: „Der Name des Verkäufers ist Björn Koch."'
+      - q: "Das Fahrrad kostet dreihundert Euro."
+        answer: false
+        why: 'Layla sagt: „Zweihundert Euro."'
+      - q: "Der Verkäufer verkauft das Fahrrad wegen seines Umzugs nach München."
+        answer: true
+        why: 'Layla liest die Anzeige vor: „Ich verkaufe es wegen meines Umzugs nach München."'
+      - q: "Hannah möchte den Zustand des Fahrrads prüfen, bevor sie kaufen."
+        answer: true
+        why: 'Hannah: „nur, wenn wir den Zustand des Fahrrads vorher prüfen."'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Warum kritisiert Herr Steinmeyer die Formulierung 'wegen dem globalen Wandel'?"
+        options:
+          - { key: a, text: "Weil das Wort 'Wandel' falsch geschrieben ist." }
+          - { key: b, text: "Weil 'wegen' im Schriftdeutschen den Genitiv regiert." }
+          - { key: c, text: "Weil der Satz keinen Sinn ergibt." }
+        answer: b
+        why: 'Herr Steinmeyer: „Im Schriftdeutschen regiert wegen den Genitiv."'
+      - q: "Welche der folgenden Korrekturen nennt Herr Steinmeyer?"
+        options:
+          - { key: a, text: "'trotz dem Druck' → 'trotz des Drucks'" }
+          - { key: b, text: "'trotz des Drucks' → 'trotz dem Druck'" }
+          - { key: c, text: "'wegen des Wandels' → 'wegen dem Wandel'" }
+        answer: a
+        why: 'Herr Steinmeyer korrigiert „trotz dem wachsenden Druck" zu „trotz des wachsenden Drucks".'
+      - q: "Was sagt Herr Steinmeyer über 'die Theorie von einem Kollegen'?"
+        options:
+          - { key: a, text: "Diese Form ist im Akademischen verboten." }
+          - { key: b, text: "Beide Formen sind korrekt, aber Genitiv ist im akademischen Journal besser." }
+          - { key: c, text: "Die Form ist nur im Mündlichen akzeptabel." }
+        answer: b
+        why: 'Herr Steinmeyer: „Beides ist korrekt, aber für ein akademisches Journal empfehle ich eindeutig den Genitiv."'
+      - q: "Was macht Yusuf am Ende des Gesprächs?"
+        options:
+          - { key: a, text: "Er schickt das Abstract sofort ab." }
+          - { key: b, text: "Er bittet Herr Steinmeyer um eine weitere Prüfung." }
+          - { key: c, text: "Er verspricht, das Abstract noch heute zu überarbeiten." }
+        answer: c
+        why: 'Yusuf: „Ich überarbeite das Abstract noch heute."'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen to Hannah's phone message and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Guten Morgen, mein Name ist Hannah El-Sayed, ich bin die Mutter Layla El-Sayeds,
+      Schülerin der Klasse 10b. Ich rufe an, um Ihnen mitzuteilen, dass Layla heute
+      wegen einer starken {1} nicht am Unterricht teilnehmen kann. Trotz ihres {2},
+      dennoch in die Schule zu gehen, habe ich ihr geraten, zu Hause zu bleiben.
+      {3} des heutigen Schultages wird sie die verpassten Aufgaben zu Hause bearbeiten.
+      {4} der persönlichen Abgabe werde ich die Hausaufgaben meiner Tochter morgen
+      früh beim Sekretariat abgeben. Bitte entschuldigen Sie das {5} meiner Tochter.
+      Auf {6}.
+    bank: [Erkältung, Wunsches, Während, Statt, Fehlen, Wiederhören, Trotz, Urlaubs, Hoffnung]
+    answers:
+      "1": Erkältung
+      "2": Wunsches
+      "3": Während
+      "4": Statt
+      "5": Fehlen
+      "6": Wiederhören
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Universitätsdurchsage"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the PA announcement. Then choose the correct answer (a, b, or c)."
+    transcript: 'Achtung, eine Durchsage. Wegen der Wartungsarbeiten des Aufzugs ist das Hauptgebäude der Universität morgen, Dienstag, nur über den Seiteneingang zugänglich. Trotz des laufenden Vorlesungsbetriebs bitten wir alle Studierenden und Mitarbeitenden um Verständnis. Während der Wartungszeit stehen die Bibliothek des zweiten Stocks sowie die Seminarräume des Erdgeschosses wie gewohnt zur Verfügung. Statt des Haupteingangs nutzen Sie bitte den Eingang der Lindenstraße. Wir danken für Ihr Verständnis.'
+    items:
+      - q: "Warum ist der Haupteingang morgen geschlossen?"
+        options:
+          - { key: a, text: "Wegen einer Veranstaltung im Hauptgebäude." }
+          - { key: b, text: "Wegen der Wartungsarbeiten des Aufzugs." }
+          - { key: c, text: "Wegen einer Sicherheitskontrolle." }
+        answer: b
+        why: '"Wegen der Wartungsarbeiten des Aufzugs ist das Hauptgebäude … nur über den Seiteneingang zugänglich."'
+      - q: "Was steht während der Wartungszeit zur Verfügung?"
+        options:
+          - { key: a, text: "Nur das Erdgeschoss ist geöffnet." }
+          - { key: b, text: "Die Bibliothek und die Seminarräume sind zugänglich." }
+          - { key: c, text: "Das gesamte Gebäude ist gesperrt." }
+        answer: b
+        why: '"die Bibliothek des zweiten Stocks sowie die Seminarräume des Erdgeschosses stehen wie gewohnt zur Verfügung."'
+      - q: "Welchen Eingang sollen die Studierenden benutzen?"
+        options:
+          - { key: a, text: "Den Eingang am Parkplatz." }
+          - { key: b, text: "Den Haupteingang wie immer." }
+          - { key: c, text: "Den Eingang der Lindenstraße." }
+        answer: c
+        why: '"Statt des Haupteingangs nutzen Sie bitte den Eingang der Lindenstraße."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Die vier Fälle — vollständige Artikeltabelle (Genitiv ergänzen)"
+    instructions: "Complete the full 4-case table. The Nominativ/Akkusativ/Dativ rows are given; fill in all Genitiv cells and the noun endings."
+    columns: ["", "maskulin", "feminin", "neutral", "Plural"]
+    rows:
+      - label: "Nom."
+        cells:
+          - { gap: 1, answer: "der/ein Mann" }
+          - { gap: 2, answer: "die/eine Frau" }
+          - { gap: 3, answer: "das/ein Kind" }
+          - { gap: 4, answer: "die/– Leute" }
+      - label: "Akk."
+        cells:
+          - { gap: 5, answer: "den/einen Mann" }
+          - { gap: 6, answer: "die/eine Frau" }
+          - { gap: 7, answer: "das/ein Kind" }
+          - { gap: 8, answer: "die/– Leute" }
+      - label: "Dat."
+        cells:
+          - { gap: 9, answer: "dem/einem Mann" }
+          - { gap: 10, answer: "der/einer Frau" }
+          - { gap: 11, answer: "dem/einem Kind" }
+          - { gap: 12, answer: "den/– Leuten" }
+      - label: "Gen."
+        cells:
+          - { gap: 13, answer: "des/eines Mannes" }
+          - { gap: 14, answer: "der/einer Frau" }
+          - { gap: 15, answer: "des/eines Kindes" }
+          - { gap: 16, answer: "der/– Leute" }
+
+  - id: A2
+    block: A
+    type: gap-text
+    layout: list
+    title: "Genitivartikel einsetzen (des/der/eines/einer/keines/keiner)"
+    instructions: "Fill each gap with the correct Genitiv article. Pay attention to gender."
+    text: |
+      1. Das ist das Büro {1} Professors. (maskulin)
+      2. Der Titel {2} Studie ist sehr lang. (feminin)
+      3. Ich kenne den Namen {3} Kollegen nicht. (maskulin, n-Dekl.)
+      4. Das ist das Auto {4} Direktors. (maskulin)
+      5. Hast du die Ergebnisse {5} Experiments gesehen? (neutral)
+      6. Die Meinung {6} Mehrheit ist wichtig. (feminin)
+      7. Ich habe das Fahrrad {7} Studenten repariert. (maskulin, n-Dekl.)
+      8. Wegen {8} schlechten Wetters bleiben wir drinnen. (neutral)
+    answers:
+      "1": des
+      "2": der
+      "3": des
+      "4": des
+      "5": des
+      "6": der
+      "7": des
+      "8": des
+
+  - id: A3
+    block: A
+    type: gap-text
+    layout: list
+    title: "Nominalendung im Genitiv: -es oder -s?"
+    instructions: "Add the correct Genitiv ending to each noun in bold. Write the complete Genitiv form."
+    text: |
+      1. der Name des **Vater**{1}
+      2. der Preis des **Haus**{2}
+      3. das Büro des **Kollege**{3} (n-Deklination!)
+      4. die Farbe des **Kind**{4}
+      5. die Meinung des **Mensch**{5} (n-Deklination!)
+      6. der Autor des **Artikel**{6}
+      7. die Pflicht des **Mieter**{7}
+      8. die Größe des **Gebäude**{8}
+    answers:
+      "1": "Vaters"
+      "2": "Hauses"
+      "3": "Kollegen"
+      "4": "Kindes"
+      "5": "Menschen"
+      "6": "Artikels"
+      "7": "Mieters"
+      "8": "Gebäudes"
+
+  - id: A4
+    block: A
+    type: gap-text
+    layout: list
+    title: "Genitivpräpositionen: wegen / trotz / während / statt"
+    instructions: "Fill each gap with the correct preposition and Genitiv article."
+    text: |
+      1. _______ {1} Regens blieben wir zu Hause. (because of — der Regen)
+      2. _______ {2} starken Lärms konnte ich nicht schlafen. (despite — der Lärm)
+      3. _______ {3} Vorlesung darf man nicht telefonieren. (during — die Vorlesung)
+      4. _______ {4} Tees trank er Kaffee. (instead of — der Tee)
+      5. _______ {5} Umbaus ist die Mensa geschlossen. (because of — der Umbau)
+      6. _______ {6} Erkältung ging er trotzdem ins Büro. (despite — die Erkältung)
+    answers:
+      "1": "Wegen des"
+      "2": "Trotz des"
+      "3": "Während der"
+      "4": "Statt des"
+      "5": "Wegen des"
+      "6": "Trotz der"
+
+  - id: A5
+    block: A
+    type: gap-text
+    layout: list
+    title: "n-Deklination im Genitiv"
+    instructions: "Fill each gap with the correct Genitiv form of the n-Deklination noun in parentheses."
+    text: |
+      1. Die Arbeit {1} ist sehr interessant. (der Journalist)
+      2. Das Büro {2} liegt im zweiten Stock. (der Kollege)
+      3. Ich kenne den Namen {3} nicht. (der Student)
+      4. Die Rede {4} war überzeugend. (der Präsident)
+      5. Das ist die Theorie {5}. (der Philosoph)
+      6. Wegen {6} müssen wir eine Lösung finden. (der Mensch, Plural)
+    answers:
+      "1": "des Journalisten"
+      "2": "des Kollegen"
+      "3": "des Studenten"
+      "4": "des Präsidenten"
+      "5": "des Philosophen"
+      "6": "der Menschen"
+
+  - id: A6
+    block: A
+    type: gap-text
+    layout: list
+    title: "Eigennamen im Genitiv"
+    instructions: "Write the correct Genitive form of the name in parentheses."
+    text: |
+      1. Das ist {1} Buch. (Anna)
+      2. Wir haben {2} Auto gesehen. (Paul)
+      3. Ich lese {3} Artikel. (Yusuf)
+      4. Das ist {4} Buch. (Hans — name ending in s!)
+      5. Das ist {5} Idee. (Max — name ending in x!)
+      6. {6} Fahrrad ist neu. (Layla)
+    answers:
+      "1": "Annas"
+      "2": "Pauls"
+      "3": "Yusufs"
+      "4": "Hans'"
+      "5": "Max'"
+      "6": "Laylas"
+
+  - id: A7
+    block: A
+    type: gap-text
+    layout: list
+    title: "von + Dativ ↔ Genitiv: beide Formen"
+    instructions: "Transform each sentence into both forms: (a) Genitiv, (b) von + Dativ."
+    text: |
+      1a. Das ist das Auto _____ (mein Vater — Genitiv). {1}
+      1b. Das ist das Auto _____ (mein Vater — von + Dativ). {2}
+      2a. Wir kennen die Meinung _____ (der Professor — Genitiv). {3}
+      2b. Wir kennen die Meinung _____ (der Professor — von + Dativ). {4}
+      3a. Das ist die Theorie _____ (ein Kollege — Genitiv). {5}
+      3b. Das ist die Theorie _____ (ein Kollege — von + Dativ). {6}
+    answers:
+      "1": "meines Vaters"
+      "2": "von meinem Vater"
+      "3": "des Professors"
+      "4": "vom Professor"
+      "5": "eines Kollegen"
+      "6": "von einem Kollegen"
+
+  - id: A8
+    block: A
+    type: order
+    title: "Genitivphrasen zusammensetzen"
+    instructions: "Reconstruct each Genitiv noun phrase from the scrambled words."
+    items:
+      - { tiles: ["des", "der", "Name", "Verkäufers"], answer: [2, 0, 3, 1] }
+      - { tiles: ["Zustand", "Fahrrads", "des", "Der"], answer: [3, 0, 2, 1] }
+      - { tiles: ["Umzugs", "seines", "wegen"], answer: [2, 1, 0] }
+      - { tiles: ["Symposiums", "des", "Während"], answer: [2, 1, 0] }
+
+  - id: A9
+    block: A
+    type: true-false
+    title: "Ist die Genitivform richtig? (Richtig / Falsch)"
+    instructions: "Decide whether the underlined Genitiv form is correct (R) or wrong (F). If wrong, the correct form is in the solution."
+    items:
+      - q: "wegen **des Regens** blieben wir zu Hause"
+        answer: true
+        why: "Korrekt: wegen + Genitiv; der Regen → des Regens."
+      - q: "die Meinung **dem Professor**"
+        answer: false
+        why: "Falsch: Dativ statt Genitiv. Korrekt: die Meinung des Professors."
+      - q: "das Büro **des Kollegen**"
+        answer: true
+        why: "Korrekt: n-Deklination, der Kollege → des Kollegen."
+      - q: "trotz **der Müdigkeit**"
+        answer: true
+        why: "Korrekt: trotz + Genitiv; die Müdigkeit → der Müdigkeit."
+      - q: "während **dem Unterricht**"
+        answer: false
+        why: "Falsch: Dativ statt Genitiv. Korrekt: während des Unterrichts."
+
+  - id: A10
+    block: A
+    type: gap-text
+    layout: list
+    title: "Gemischte Genitivübung — formelle Sätze"
+    instructions: "Fill each gap with the correct Genitiv form (article + noun ending where needed)."
+    text: |
+      1. Der Autor {1} ist ein bekannter Philosoph. (das Buch)
+      2. Wegen {2} konnte die Veranstaltung nicht stattfinden. (der Streik)
+      3. Die Ergebnisse {3} werden morgen veröffentlicht. (die Studie)
+      4. Trotz {4} hat er das Referat gehalten. (die Grippe)
+      5. Das ist die Aufgabe {5}. (der Mieter)
+      6. Während {6} sind alle Fenster geschlossen. (die Heizperiode)
+    answers:
+      "1": "des Buches"
+      "2": "des Streiks"
+      "3": "der Studie"
+      "4": "der Grippe"
+      "5": "des Mieters"
+      "6": "der Heizperiode"
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    title: "Lückendialog — akademisches Gespräch"
+    instructions: "Fill in the gaps in this formal academic exchange. Choose from the options in brackets."
+    text: |
+      Herr Steinmeyer: Haben Sie die Ergebnisse {1} (der Studie / dem Studie / des Studie) bereits ausgewertet?
+      Yusuf: Ja, die Daten {2} (des Experiments / dem Experiment / der Experiments) sind sehr aufschlussreich.
+      Herr Steinmeyer: Und die Meinung {3} (des Kollegen / dem Kollegen / der Kollegen) aus Wien — kennen Sie sie?
+      Yusuf: Ja, wegen {4} (des Symposiums / dem Symposium / der Symposium) im April habe ich ihn kennengelernt.
+      Herr Steinmeyer: Trotz {5} (der kurzen Zeit / dem kurzen Zeit / des kurzen Zeit) haben Sie viel erreicht.
+      Yusuf: Danke. Statt {6} (einer langen Einleitung / einer langen Einführung / einem langen) möchte ich direkt mit den Ergebnissen beginnen.
+    answers:
+      "1": "der Studie"
+      "2": "des Experiments"
+      "3": "des Kollegen"
+      "4": "des Symposiums"
+      "5": "der kurzen Zeit"
+      "6": "einer langen Einleitung"
+
+  - id: B2
+    block: B
+    type: gap-text
+    layout: list
+    title: "Finde den Fehler — Dativ statt Genitiv"
+    instructions: "Each sentence contains a Genitiv error (Dativ used instead of Genitiv, or wrong noun ending). Write the corrected sentence."
+    text: |
+      1. Das ist das Auto von dem Professor. (formal → Genitiv) {1}
+      2. wegen dem schlechten Wetter blieben wir zu Hause {2}
+      3. die Meinung dem Studenten ist interessant {3}
+      4. trotz dem Lärm hat er geschlafen {4}
+      5. das Büro von dem Kollegen liegt im dritten Stock {5}
+      6. während dem Unterricht darf man nicht essen {6}
+    answers:
+      "1": "Das ist das Auto des Professors."
+      "2": "Wegen des schlechten Wetters blieben wir zu Hause."
+      "3": "Die Meinung des Studenten ist interessant."
+      "4": "Trotz des Lärms hat er geschlafen."
+      "5": "Das Büro des Kollegen liegt im dritten Stock."
+      "6": "Während des Unterrichts darf man nicht essen."
+
+  - id: B3
+    block: B
+    type: single-choice
+    title: "Die richtige Genitivform wählen"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Das ist die Theorie ______."
+        options:
+          - { key: a, text: "des Philosophen" }
+          - { key: b, text: "dem Philosophen" }
+          - { key: c, text: "der Philosophen" }
+        answer: a
+        why: "Genitiv maskulin n-Deklination: des Philosophen."
+      - q: "Wegen ______ kommt er nicht."
+        options:
+          - { key: a, text: "der Grippe" }
+          - { key: b, text: "die Grippe" }
+          - { key: c, text: "dem Grippe" }
+        answer: a
+        why: "wegen + Genitiv; die Grippe → der Grippe."
+      - q: "Statt ______ nehmen wir den Bus."
+        options:
+          - { key: a, text: "des Zuges" }
+          - { key: b, text: "dem Zug" }
+          - { key: c, text: "den Zug" }
+        answer: a
+        why: "statt + Genitiv; der Zug → des Zuges."
+      - q: "Die Ergebnisse ______ werden veröffentlicht."
+        options:
+          - { key: a, text: "der Forschung" }
+          - { key: b, text: "die Forschung" }
+          - { key: c, text: "dem Forschung" }
+        answer: a
+        why: "Genitiv feminin: die Forschung → der Forschung."
+      - q: "Während ______ ist Ruhe Pflicht."
+        options:
+          - { key: a, text: "des Konzerts" }
+          - { key: b, text: "dem Konzert" }
+          - { key: c, text: "das Konzert" }
+        answer: a
+        why: "während + Genitiv; das Konzert → des Konzerts."
+      - q: "Das ist ______ Buch. (Hans)"
+        options:
+          - { key: a, text: "Hansens" }
+          - { key: b, text: "Hans'" }
+          - { key: c, text: "Hans's" }
+        answer: b
+        why: "Namen auf -s: Apostrophe, kein zusätzliches -s."
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Genitivpräposition zum richtigen Kontext"
+    instructions: "Match each preposition (left) to the sentence that uses it correctly (right)."
+    left:
+      - { key: "1", text: "wegen" }
+      - { key: "2", text: "trotz" }
+      - { key: "3", text: "während" }
+      - { key: "4", text: "statt" }
+    right:
+      - { key: a, text: "_______ der langen Reise war er noch fit." }
+      - { key: b, text: "_______ des starken Regens gingen sie spazieren." }
+      - { key: c, text: "_______ des Seminars sollte man das Handy ausschalten." }
+      - { key: d, text: "_______ des Originals gab er eine Kopie ab." }
+      - { key: e, text: "_______ eines Fehlers musste er die Aufgabe wiederholen." }
+    answers:
+      "1": e
+      "2": b
+      "3": c
+      "4": d
+
+  - id: B5
+    block: B
+    type: order
+    title: "Formelle Sätze rekonstruieren"
+    instructions: "Reconstruct these formal sentences by arranging the tiles in the correct order."
+    items:
+      - tiles: ["Wegen", "des", "Umbaus", "ist", "geschlossen", "die", "Mensa"]
+        answer: [0, 1, 2, 3, 6, 5, 4]
+      - tiles: ["Trotz", "der", "Schwierigkeiten", "hat", "er", "bestanden"]
+        answer: [0, 1, 2, 3, 4, 5]
+      - tiles: ["Während", "des", "Experiments", "notierten", "die", "Studenten", "alles"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+      - tiles: ["Statt", "des", "Kaffees", "bestellte", "sie", "Tee"]
+        answer: [0, 1, 2, 3, 4, 5]
+
+  - id: B6
+    block: B
+    type: gap-text
+    layout: list
+    title: "n-Deklination im Kontext"
+    instructions: "Fill each gap with the correct form of the n-Deklination noun in parentheses."
+    text: |
+      1. Das Buch {1} ist sehr bekannt. (der Philosoph — Genitiv)
+      2. Wir haben den {2} nach dem Weg gefragt. (der Student — Akkusativ)
+      3. Die Rede {3} dauerte zwei Stunden. (der Präsident — Genitiv)
+      4. Ich habe dem {4} geholfen. (der Journalist — Dativ)
+      5. Die Theorie {5} ist revolutionär. (der Mensch, Plural — Genitiv)
+      6. Das Büro {6} liegt im vierten Stock. (der Kollege — Genitiv)
+    answers:
+      "1": "des Philosophen"
+      "2": "Studenten"
+      "3": "des Präsidenten"
+      "4": "Journalisten"
+      "5": "der Menschen"
+      "6": "des Kollegen"
+
+  - id: B7
+    block: B
+    type: gap-text
+    layout: list
+    title: "von + Dativ → Genitiv (formelle Schreibweise)"
+    instructions: "Transform each informal phrase into formal Genitiv."
+    text: |
+      1. das Buch von meinem Vater → das Buch _____ {1}
+      2. die Meinung von der Lehrerin → die Meinung _____ {2}
+      3. das Auto von einem Studenten → das Auto _____ {3}
+      4. die Idee von dem Kollegen → die Idee _____ {4}
+      5. die Theorie von einem Philosophen → die Theorie _____ {5}
+      6. die Ergebnisse von der Forschungsgruppe → die Ergebnisse _____ {6}
+    answers:
+      "1": "meines Vaters"
+      "2": "der Lehrerin"
+      "3": "eines Studenten"
+      "4": "des Kollegen"
+      "5": "eines Philosophen"
+      "6": "der Forschungsgruppe"
+
+  - id: B8
+    block: B
+    type: single-choice
+    title: "Leseverständnis: Mietvertrag (Lesetext)"
+    instructions: "Based on the Lesetext (Mietvertrag), choose the correct answer."
+    items:
+      - q: "Was muss der Mieter wegen etwaiger Mängel tun?"
+        options:
+          - { key: a, text: "Er muss den Vermieter persönlich aufsuchen." }
+          - { key: b, text: "Er muss die Hausverwaltung unverzüglich informieren." }
+          - { key: c, text: "Er muss selbst reparieren." }
+        answer: b
+        why: '"Wegen etwaiger Mängel des Gebäudes ist die Hausverwaltung unverzüglich zu informieren."'
+      - q: "Welche Form der Mitteilung wird bevorzugt?"
+        options:
+          - { key: a, text: "Die mündliche Mitteilung." }
+          - { key: b, text: "Die schriftliche Form." }
+          - { key: c, text: "Eine E-Mail an den Vermieter." }
+        answer: b
+        why: '"Statt einer mündlichen Mitteilung ist grundsätzlich die schriftliche Form zu bevorzugen."'
+      - q: "Wer trägt die Kosten für Reparaturen des Daches?"
+        options:
+          - { key: a, text: "Der Mieter." }
+          - { key: b, text: "Die Hausverwaltung." }
+          - { key: c, text: "Der Vermieter." }
+        answer: c
+        why: '"trägt der Vermieter die Kosten notwendiger Reparaturen des Daches."'
+      - q: "Unter welcher Bedingung darf der Mieter untervermieten?"
+        options:
+          - { key: a, text: "Ohne Bedingungen." }
+          - { key: b, text: "Mit schriftlicher Genehmigung des Vermieters." }
+          - { key: c, text: "Nur während der Kündigungsfrist." }
+        answer: b
+        why: '"mit schriftlicher Genehmigung des Vermieters Untervermietungen vorzunehmen."'
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Formelle Beschreibung eines Kollegen"
+    prompt: |
+      **E-Mail-Stimulus** *(von Herr Steinmeyer an Yusuf)*:
+      > Sehr geehrter Herr Dr. El-Sayed,
+      > für das Programm unseres Berliner Philosophie-Symposiums suchen wir kurze
+      > Beschreibungen der teilnehmenden Wissenschaftler. Dürfte ich Sie bitten,
+      > 5–6 Sätze über Ihren Kollegen Dr. Mehdi Farrokhzad (Universität Wien)
+      > zu verfassen? Bitte beschreiben Sie sein Forschungsgebiet, seine wichtigsten
+      > Veröffentlichungen und die Bedeutung seiner Arbeit.
+      > Mit freundlichen Grüßen, Friedrich Steinmeyer
+
+      **Your task:** Write **5–6 formal sentences** describing Dr. Farrokhzad for
+      the conference programme. Use formal written German with ≥4 Genitiv
+      constructions (articles, prepositions, proper name possessives).
+    minSentences: 5
+    use:
+      - "≥2 Genitiv noun phrases with des/der/eines/einer"
+      - "≥1 Genitivpräposition (wegen/trotz/während/statt)"
+      - "1 n-Deklination Genitiv (des Kollegen / des Philosophen …)"
+      - "Formal register: kein 'von + Dativ' in dieser Aufgabe"
+    selfCheck:
+      - "Did every maskulin/neutral noun add -(e)s in the Genitiv?"
+      - "Did I use wegen/trotz/während/statt with Genitiv (not Dativ)?"
+      - "Are n-Deklination nouns correct (des Kollegen, not des Kolleges)?"
+    model: |
+      Dr. Mehdi Farrokhzad ist Privatdozent für Politische Philosophie an der
+      Universität Wien. Das Forschungsgebiet des Kollegen umfasst die Theorie
+      des politischen Denkens im 20. Jahrhundert. Trotz der Komplexität seiner
+      Themen schreibt Dr. Farrokhzad klar und zugänglich. Während des letzten
+      Jahres veröffentlichte er eine vielbeachtete Monografie über die Grundlagen
+      des liberalen Denkens. Statt einer rein theoretischen Perspektive verbindet
+      er Philosophie und politische Praxis. Die Bedeutung seiner Arbeit für das
+      Fach ist unbestritten.
+
+  # ── Block C — Prüfungstraining ────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    title: "Lückentext — Mietvertrag (Lesetext)"
+    instructions: "Fill each gap with ONE word. The text is from the Lesetext (§ 3 Mietvertrag)."
+    text: |
+      Während {1} Mietdauer ist der Mieter zur ordnungsgemäßen Pflege des Mietobjekts
+      verpflichtet. Der Zustand {2} Wohnung ist bei Übergabe schriftlich festzuhalten.
+      Wegen etwaiger Mängel {3} Gebäudes ist die Hausverwaltung unverzüglich zu
+      informieren. Statt {4} mündlichen Mitteilung ist grundsätzlich die schriftliche
+      Form zu bevorzugen.
+      Die Nutzung {5} Kellers sowie {6} gemeinschaftlichen Einrichtungen des Hauses
+      erfolgt auf eigene Verantwortung {7} Mieters. Trotz {8} Pflicht zur Instandhaltung
+      trägt der Vermieter die Kosten notwendiger Reparaturen {9} Daches und {10}
+      Außenwände.
+    answers:
+      "1": der
+      "2": der
+      "3": des
+      "4": einer
+      "5": des
+      "6": der
+      "7": des
+      "8": der
+      "9": des
+      "10": der
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Genitiv in Kontext"
+    instructions: "Wähle für jede Lücke die richtige Antwort (a, b oder c)."
+    items:
+      - q: "(1) Das ist das Ergebnis ______ langen Forschung."
+        options:
+          - { key: a, text: "der" }
+          - { key: b, text: "die" }
+          - { key: c, text: "dem" }
+        answer: a
+        why: "Genitiv feminin: die Forschung → der Forschung."
+      - q: "(2) Wegen ______ Umzugs haben wir uns lange nicht gesehen."
+        options:
+          - { key: a, text: "dem" }
+          - { key: b, text: "des" }
+          - { key: c, text: "den" }
+        answer: b
+        why: "wegen + Genitiv maskulin: der Umzug → des Umzugs."
+      - q: "(3) Das ist die Meinung ______ Kollegen."
+        options:
+          - { key: a, text: "dem" }
+          - { key: b, text: "den" }
+          - { key: c, text: "des" }
+        answer: c
+        why: "Genitiv n-Deklination: der Kollege → des Kollegen."
+      - q: "(4) Trotz ______ Regens kam er pünktlich."
+        options:
+          - { key: a, text: "des" }
+          - { key: b, text: "dem" }
+          - { key: c, text: "den" }
+        answer: a
+        why: "trotz + Genitiv maskulin: der Regen → des Regens."
+      - q: "(5) Während ______ Prüfung ist Stille Pflicht."
+        options:
+          - { key: a, text: "die" }
+          - { key: b, text: "der" }
+          - { key: c, text: "dem" }
+        answer: b
+        why: "während + Genitiv feminin: die Prüfung → der Prüfung."
+      - q: "(6) Das ist ______ Buch. (Karl — name ending in l)"
+        options:
+          - { key: a, text: "Karls" }
+          - { key: b, text: "Karl's" }
+          - { key: c, text: "Karlen" }
+        answer: a
+        why: "Eigenname + -s (kein Apostroph, da kein Sibilant am Ende)."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Wortbank"
+    instructions: "Fill the 10 gaps. **Five words are not needed.**"
+    bankCase: upper
+    bankSort: true
+    text: |
+      Sehr geehrter Herr Steinmeyer,
+      anbei übersende ich Ihnen die überarbeitete Fassung {1} Artikels. Wegen
+      {2} Hinweise habe ich alle Genitivformen korrigiert. Trotz {3}
+      zeitlichen Drucks konnte ich auch den Stil {4} Einleitung verbessern.
+      Während {5} Überarbeitung habe ich festgestellt, dass die Theorie {6}
+      Kollegen aus Wien sehr gut zur Argumentation passt. Statt {7}
+      mündlichen Zusammenfassung füge ich ein schriftliches Abstract bei.
+      Die Ergebnisse {8} Studie werden in einem separaten Abschnitt dargestellt.
+      {9} freundlichen Grüßen
+      Dr. Yusuf El-Sayed, Privatdozent {10} Philosophie
+    bank: [DES, IHRER, DES, DER, DER, DES, EINER, DER, MIT, FÜR, BEIM, EINES, DURCH, DEN, MEINES]
+    answers:
+      "1": DES
+      "2": IHRER
+      "3": DES
+      "4": DER
+      "5": DER
+      "6": DES
+      "7": EINER
+      "8": DER
+      "9": MIT
+      "10": DER
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Leseverstehen — Mietvertrag (Richtig/Falsch)"
+    instructions: "Lies den Lesetext (Mietvertrag) noch einmal und entscheide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Der Mieter muss den Zustand der Wohnung bei der Übergabe schriftlich dokumentieren."
+        answer: true
+        why: '"Der Zustand der Wohnung ist bei Übergabe schriftlich festzuhalten."'
+      - q: "Bei Gebäudemängeln ist zuerst eine mündliche Mitteilung zu machen."
+        answer: false
+        why: '"Statt einer mündlichen Mitteilung ist grundsätzlich die schriftliche Form zu bevorzugen."'
+      - q: "Die Kosten für die Reparatur des Daches trägt der Mieter."
+        answer: false
+        why: '"trägt der Vermieter die Kosten notwendiger Reparaturen des Daches."'
+      - q: "Der Mieter darf ohne Genehmigung untervermieten."
+        answer: false
+        why: '"mit schriftlicher Genehmigung des Vermieters" — also nicht ohne Genehmigung.'
+      - q: "Während der Kündigungsfrist gelten die Regelungen des Vertrags weiter."
+        answer: true
+        why: '"gelten die Regelungen des vorliegenden Vertrags unverändert fort."'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Leseverstehen — Offizielles Schreiben (zweiter Text)"
+    instructions: |
+      Lies den folgenden offiziellen Brief und wähle die richtige Antwort.
+
+      ---
+      **Bezirksamt Charlottenburg-Wilmersdorf**
+      **Betreff: Sperrung des Parkplatzes des Bürgeramts**
+
+      Sehr geehrte Damen und Herren,
+
+      wegen der Sanierungsarbeiten des Bürgersteigs vor dem Bürgeramt werden
+      die Parkplätze des Hauses in der Zeit vom 1. bis 15. Juli gesperrt.
+      Trotz der Unannehmlichkeiten bitten wir um Ihr Verständnis. Während
+      der Sperrung stehen die Parkplätze des benachbarten Einkaufszentrums
+      kostenfrei zur Verfügung. Statt des gewohnten Eingangs nutzen Sie
+      bitte den Seiteneingang der Goethestraße. Die Erreichbarkeit des Amtes
+      bleibt während der gesamten Bauzeit gewährleistet.
+
+      Mit freundlichen Grüßen
+      Das Bezirksamt
+    items:
+      - q: "Warum werden die Parkplätze gesperrt?"
+        options:
+          - { key: a, text: "Wegen eines Stadtfestes." }
+          - { key: b, text: "Wegen der Sanierungsarbeiten des Bürgersteigs." }
+          - { key: c, text: "Wegen Sicherheitsproblemen." }
+        answer: b
+        why: '"wegen der Sanierungsarbeiten des Bürgersteigs vor dem Bürgeramt"'
+      - q: "Wo kann man während der Sperrung parken?"
+        options:
+          - { key: a, text: "Auf der Straße vor dem Bürgeramt." }
+          - { key: b, text: "Auf den Parkplätzen des benachbarten Einkaufszentrums." }
+          - { key: c, text: "Parken ist nicht möglich." }
+        answer: b
+        why: '"stehen die Parkplätze des benachbarten Einkaufszentrums kostenfrei zur Verfügung."'
+      - q: "Welcher Eingang soll benutzt werden?"
+        options:
+          - { key: a, text: "Der Haupteingang wie gewohnt." }
+          - { key: b, text: "Ein provisorischer Eingang." }
+          - { key: c, text: "Der Seiteneingang der Goethestraße." }
+        answer: c
+        why: '"Statt des gewohnten Eingangs nutzen Sie bitte den Seiteneingang der Goethestraße."'
+      - q: "Wie lange dauert die Sperrung?"
+        options:
+          - { key: a, text: "Vom 1. bis 31. Juli." }
+          - { key: b, text: "Vom 1. bis 15. Juli." }
+          - { key: c, text: "Nur eine Woche." }
+        answer: b
+        why: '"in der Zeit vom 1. bis 15. Juli gesperrt."'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben — Formeller Absatz mit Genitiv"
+    prompt: |
+      **Aufgabe:** Write a formal paragraph of **5–6 sentences** describing the
+      current state and ownership of a community centre (Gemeinschaftszentrum)
+      that is undergoing renovation. Imagine you are writing an official notice
+      for residents. Use ≥5 Genitiv constructions (at least 2 Genitivpräpositionen
+      and 2 Genitiv noun phrases).
+    minSentences: 5
+    use:
+      - "≥2 Genitivpräpositionen (wegen/trotz/während/statt)"
+      - "≥2 Genitiv noun phrases (des .../der ...)"
+      - "Formal register (kein von + Dativ)"
+      - "1 proper name in Genitiv (optional)"
+    selfCheck:
+      - "Sind alle maskulinen/neutralen Nomen im Genitiv mit -(e)s?"
+      - "Stehen wegen/trotz/während/statt mit Genitiv (nicht Dativ)?"
+      - "Ist der Text im formellen Register (keine Umgangssprache)?"
+    model: |
+      Wegen der umfangreichen Sanierungsarbeiten des Gemeinschaftszentrums in
+      der Hauptstraße bleibt das Gebäude vom 1. bis 28. Juli geschlossen.
+      Trotz der Einschränkungen der Nutzungsmöglichkeiten bleibt die Leitung
+      des Zentrums telefonisch erreichbar. Während der Bauzeit stehen die Räume
+      des Nachbargebäudes als Ausweichmöglichkeit zur Verfügung. Statt des
+      Hauptsaals werden die Veranstaltungen im kleineren Saal des Vereinshauses
+      stattfinden. Die Adresse des Vereinshauses ist Gartenstraße 12. Wir bitten
+      um das Verständnis der Anwohner und danken für Ihre Geduld.
+
+  # ── Block D — Wiederholung & Selbsttest ──────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    layout: list
+    title: "Schnelltest — Genitiv + Wiederholung"
+    instructions: "Fill each gap quickly. Labels show the source lesson where relevant."
+    text: |
+      1. Das ist das Büro _____ Direktors. [Genitiv maskulin] {1}
+      2. wegen _____ Regens blieben wir drinnen [Genitiv maskulin] {2}
+      3. die Meinung _____ Mehrheit [Genitiv feminin] {3}
+      4. das Buch _____ Philosophen [n-Deklination Genitiv] {4}
+      5. Trotz _____ Müdigkeit arbeitete er weiter. [Genitiv feminin] {5}
+      6. Das ist _____ Fahrrad. (Anna) [Eigenname] {6}
+      7. während _____ Semesters [Genitiv neutral] {7}
+      8. statt _____ Originals [Genitiv neutral] {8}
+      9. Die Theorie _____ Kollegen ist bekannt. [n-Dekl.] {9}
+      10. Das Auto _____ Studenten ist alt. [n-Dekl.] {10}
+      11. Obwohl er müde war, ging er zur Arbeit. — Rewrite with 'trotz'. [B1/02] {11}
+      12. Er blieb in Berlin, weil er Arbeit hatte. — Rewrite with 'deshalb'. [B1/02] {12}
+      13. um etwas zu beschreiben — infinitive construction [B1/06] {13}
+      14. Er hat das Buch gelesen. — Passiv Präsens [B1/04] {14}
+      15. das Fahrrad, das er gekauft hat — Relativsatz [B1/05] {15}
+    answers:
+      "1": "des"
+      "2": "des"
+      "3": "der"
+      "4": "des"
+      "5": "der"
+      "6": "Annas"
+      "7": "des"
+      "8": "des"
+      "9": "des"
+      "10": "des"
+      "11": "Trotz der Müdigkeit ging er zur Arbeit."
+      "12": "Er hatte Arbeit. Deshalb blieb er in Berlin."
+      "13": "um etwas zu beschreiben"
+      "14": "Das Buch wird gelesen."
+      "15": "das Fahrrad, das er gekauft hat"
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out — Wortschatz & Grammatik"
+    groups:
+      - items: ["des Mannes", "der Frau", "dem Kind", "des Kindes"]
+        odd: 2
+        why: "dem Kind is Dativ, not Genitiv"
+      - items: ["wegen", "trotz", "während", "obwohl"]
+        odd: 3
+        why: "obwohl is a conjunction (Nebensatz), not a Genitivpräposition"
+      - items: ["der Kollege", "der Student", "der Mensch", "der Mann"]
+        odd: 3
+        why: "der Mann is strong declension; the others are n-Deklination (schwache Maskulina)"
+      - items: ["des Regens", "des Lärms", "des Hauses", "der Nacht"]
+        odd: 3
+        why: "der Nacht is Genitiv feminin (no -s on noun); the others are maskulin/neutral"
+      - items: ["Annas Buch", "Marias Auto", "Hans' Idee", "Karls Haus"]
+        odd: 2
+        why: "Hans' uses apostrophe (name ends in s); the others add -s normally"
+      - items: ["des Professors", "des Kollegen", "des Journalisten", "des Herren"]
+        odd: 0
+        why: "des Professors is strong declension; des Kollegen, des Journalisten, des Herrn are n-Deklination (note: des Herren is incorrect — it should be des Herrn)"
+
+  - id: D3
+    block: D
+    type: gap-text
+    layout: list
+    title: "Rückblick — B1/05 (Relativsätze) + B1/04 (Passiv)"
+    instructions: "Fill each gap. Labels show the source lesson."
+    text: |
+      1. Das ist das Buch, _____ ich dir empfohlen habe. [B1/05 — Relativpronomen Akk.] {1}
+      2. Das ist die Frau, _____ Tochter Medizin studiert. [B1/05 — Genitiv Relativpronomen = deren] {2}
+      3. Wir suchen einen Kollegen, _____ wir vertrauen können. [B1/05 — Relativpronomen Dat.] {3}
+      4. Das Paket _____ heute Morgen geliefert. [B1/04 — Passiv Präteritum] {4}
+      5. Die Ergebnisse _____ schon veröffentlicht worden. [B1/04 — Passiv Perfekt] {5}
+      6. Der Antrag _____ bis Freitag _____ werden. [B1/04 — Passiv + Modal] {6}
+      7. Wir suchen etwas, _____ wirklich hilft. [B1/05 — Relativpronomen was] {7}
+      8. Das ist der Artikel, _____ Yusuf letzte Woche eingereicht hat. [B1/05 — Relativpronomen Nom.] {8}
+      9. Die Tür _____ immer um 18 Uhr geschlossen. [B1/04 — Passiv Präsens] {9}
+      10. Sie beschreibt alles, _____ sie sieht. [B1/05 — Relativpronomen was] {10}
+    answers:
+      "1": das
+      "2": deren
+      "3": dem
+      "4": wurde
+      "5": sind
+      "6": "muss / eingereicht"
+      "7": was
+      "8": den
+      "9": wird
+      "10": was
+
+  - id: D4
+    block: D
+    type: gap-text
+    layout: list
+    title: "Selbsttest — 20 Punkte"
+    instructions: "Fülle die Lücken aus. Ziel: 16+/20 Punkte."
+    notes: "16+ / 20 → proceed to B1/08. Below 16: redo A2–A5 tomorrow, then retest D4."
+    text: |
+      1. Die Arbeit _____ Studenten ist fertig. [Genitiv n-Dekl.] {1}
+      2. Wegen _____ Erkältung kommt sie nicht. [Genitiv feminin] {2}
+      3. Das Büro _____ Direktors liegt im fünften Stock. [Genitiv mask.] {3}
+      4. Trotz _____ Regens gingen sie spazieren. [Genitiv mask.] {4}
+      5. Das ist _____ Auto. (Paul) [Eigenname] {5}
+      6. Während _____ Prüfung ist Stille gefordert. [Genitiv feminin] {6}
+      7. Die Meinung _____ Mehrheit ist bekannt. [Genitiv feminin] {7}
+      8. Statt _____ Kaffees trank er Tee. [Genitiv mask.] {8}
+      9. Das ist die Theorie _____ Philosophen. [n-Dekl. Genitiv] {9}
+      10. Die Ergebnisse _____ Studie sind überzeugend. [Genitiv feminin] {10}
+      11. Das Buch _____ Professors kostet 30 Euro. [Genitiv mask.] {11}
+      12. _____ Buch ist das? — Das ist _____. (Hans / Hans) {12}
+      13. Die Nutzung _____ Kellers erfolgt auf eigene Verantwortung. [Genitiv mask.] {13}
+      14. Wegen _____ Umbaus ist die Mensa geschlossen. [Genitiv mask.] {14}
+      15. Das ist die Rede _____ Präsidenten. [n-Dekl. Genitiv] {15}
+      16. Während _____ Semesters hat er viel gelernt. [Genitiv neutral] {16}
+      17. Trotz _____ Schwierigkeiten hat sie bestanden. [Genitiv Plural] {17}
+      18. Statt _____ Originals gab er eine Kopie. [Genitiv neutral] {18}
+      19. Das ist die Idee _____ Kollegen. [n-Dekl. Genitiv] {19}
+      20. _____ Buch ist das? — Das ist _____. (Max / Max — name ends in x!) {20}
+    answers:
+      "1": "des"
+      "2": "der"
+      "3": "des"
+      "4": "des"
+      "5": "Pauls"
+      "6": "der"
+      "7": "der"
+      "8": "des"
+      "9": "des"
+      "10": "der"
+      "11": "des"
+      "12": "Wessen / Hans'"
+      "13": "des"
+      "14": "des"
+      "15": "des"
+      "16": "des"
+      "17": "der"
+      "18": "des"
+      "19": "des"
+      "20": "Wessen / Max'"

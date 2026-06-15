@@ -1,0 +1,977 @@
+lesson: B1/06
+title: "B1 · Lektion 6 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: H+A on day 1, B on day 2, C on day 3, D on day 4.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Pavel arbeitet in einem Spezialcafé in Prenzlauer Berg."
+        answer: true
+        why: "Pavel says he learns German to communicate with customers there."
+      - q: "Tomáš hat nie vergessen, sein Tagebuch auf Deutsch zu schreiben."
+        answer: false
+        why: 'Tomáš says: "Manchmal vergesse ich das natürlich."'
+      - q: "Bruno versucht, auf Deutsch zu denken."
+        answer: true
+        why: 'Bruno: "Ich habe auch angefangen, auf Deutsch zu denken."'
+      - q: "Pavel plant, im Herbst eine Röst-Meisterschaft zu besuchen."
+        answer: true
+        why: 'Pavel: "Ich habe auch vor, im Herbst eine Röst-Meisterschaft zu besuchen."'
+      - q: "Bruno hofft, die C1-Prüfung nächstes Jahr zu bestehen."
+        answer: false
+        why: 'Bruno says he hopes to pass the B2-Prüfung, not C1.'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Was ist das Ziel von Annas Projekt?"
+        options:
+          - { key: a, text: "Einen neuen Mitarbeiter einzustellen." }
+          - { key: b, text: "Das Social-Media-Konzept zu überarbeiten." }
+          - { key: c, text: "Das Budget zu kürzen." }
+        answer: b
+        why: 'Anna: "Das Ziel des Projekts ist es, unser Social-Media-Konzept zu überarbeiten."'
+      - q: "Warum möchte Anna eine Umfrage starten?"
+        options:
+          - { key: a, text: "Um mehr Follower zu gewinnen." }
+          - { key: b, text: "Damit das Team die Inhalte besser versteht." }
+          - { key: c, text: "Damit sie versteht, welche Inhalte die Zielgruppe möchte." }
+        answer: c
+        why: 'Anna: "damit wir besser verstehen, welche Inhalte unsere Zielgruppe wirklich möchte."'
+      - q: "Worum bittet Anna das Team?"
+        options:
+          - { key: a, text: "Um mehr Geld." }
+          - { key: b, text: "Um zwei Stunden pro Woche." }
+          - { key: c, text: "Um einen neuen Computer." }
+        answer: b
+        why: 'Anna: "Ich bitte das Team darum, mir zwei Stunden pro Woche zu geben."'
+      - q: "Was empfiehlt Frau Weber Anna?"
+        options:
+          - { key: a, text: "Die IT-Abteilung nicht einzubinden." }
+          - { key: b, text: "Das Budget zu erhöhen." }
+          - { key: c, text: "Auch die Rechtslage zu prüfen." }
+        answer: c
+        why: 'Frau Weber: "Ich empfehle Ihnen, auch die Rechtslage zu prüfen."'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen to the Hörtext (Tomáš's voice message) and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Hallo Herr König, hier ist Tomáš Novák von GreenMove Prag. Ich rufe an, um Ihnen
+      meinen {1} für die nächsten Berliner Besuche zu erklären. Ich plane, zweimal im
+      Monat herzukommen, damit wir die Partnerschaft effizienter {2} können. Bei meinem
+      nächsten Besuch habe ich vor, das neue {3} in Lichtenberg zu besichtigen, um die
+      Standorte persönlich zu bewerten. Ich hoffe außerdem, einen gemeinsamen {4} mit
+      dem Stadtbezirksamt zu vereinbaren, damit wir die {5} früher bekommen. Könnten
+      Sie bitte bis {6} antworten? Vielen Dank.
+    bank: [Zeitplan, voranbringen, Pilotgebiet, Termin, Genehmigungen, Freitag, erreichen, Montag, Konzept]
+    answers:
+      "1": Zeitplan
+      "2": voranbringen
+      "3": Pilotgebiet
+      "4": Termin
+      "5": Genehmigungen
+      "6": Freitag
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Voicemail von Pavel an seine Mutter"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to Pavel's voice message to his mother. Then choose the correct answer (a, b, or c)."
+    transcript: "Hallo Mama, hier ist Pavel. Ich wollte dir kurz erklären, warum ich mich jetzt für einen Rösterkurs anmelde. Ich habe vor, meine Ausbildung zu erweitern, um eines Tages einen eigenen Röstbetrieb zu gründen. Der Kurs beginnt im September, damit ich noch in diesem Jahr anfangen kann. Ich versuche auch, mein Deutsch zu verbessern, weil der Kurs komplett auf Deutsch ist. Ich hoffe natürlich, die Aufnahmeprüfung zu bestehen. Bitte ruf mich zurück, wenn du Zeit hast. Ich liebe euch!"
+    items:
+      - q: "Warum meldet Pavel sich für den Rösterkurs an?"
+        options:
+          - { key: a, text: "Weil sein Chef es verlangt." }
+          - { key: b, text: "Um seinen eigenen Röstbetrieb zu gründen." }
+          - { key: c, text: "Um mehr Geld zu verdienen." }
+        answer: b
+        why: '"Ich habe vor, meine Ausbildung zu erweitern, um eines Tages einen eigenen Röstbetrieb zu gründen."'
+      - q: "Wann beginnt der Kurs?"
+        options:
+          - { key: a, text: "Im Oktober." }
+          - { key: b, text: "Im August." }
+          - { key: c, text: "Im September." }
+        answer: c
+        why: '"Der Kurs beginnt im September."'
+      - q: "Warum versucht Pavel, sein Deutsch zu verbessern?"
+        options:
+          - { key: a, text: "Weil er eine Prüfung ablegen muss." }
+          - { key: b, text: "Weil der Kurs komplett auf Deutsch ist." }
+          - { key: c, text: "Weil seine Mutter kein Tschechisch spricht." }
+        answer: b
+        why: '"Ich versuche auch, mein Deutsch zu verbessern, weil der Kurs komplett auf Deutsch ist."'
+      - q: "Was hofft Pavel noch?"
+        options:
+          - { key: a, text: "Einen neuen Job zu finden." }
+          - { key: b, text: "Die Aufnahmeprüfung zu bestehen." }
+          - { key: c, text: "Nach Brünn zurückzukehren." }
+        answer: b
+        why: '"Ich hoffe natürlich, die Aufnahmeprüfung zu bestehen."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`um … zu + Infinitiv` — Grundübung (reguläre Verben)"
+    instructions: "Complete each sentence with `um … zu` + the verb in brackets. 8 items."
+    text: |
+      1. Ich lerne Deutsch, um in Berlin {1}. (arbeiten)
+      2. Sie macht Sport, um fit {2}. (bleiben)
+      3. Er spart Geld, um eine Wohnung {3}. (kaufen)
+      4. Wir machen eine Pause, um Kaffee {4}. (trinken)
+      5. Anna schreibt eine E-Mail, um den Termin {5}. (bestätigen)
+      6. Pavel besucht die Meisterschaft, um neue Kontakte {6}. (knüpfen)
+      7. Tomáš fährt nach Berlin, um das Pilotgebiet {7}. (besichtigen)
+      8. Bruno liest jeden Tag, um seinen Wortschatz {8}. (erweitern)
+    answers:
+      "1": zu arbeiten
+      "2": zu bleiben
+      "3": zu kaufen
+      "4": zu trinken
+      "5": zu bestätigen
+      "6": zu knüpfen
+      "7": zu besichtigen
+      "8": zu erweitern
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`um … zu` mit trennbaren Verben"
+    instructions: "Complete with `um … zu` + separable verb. Remember: prefix + zu + stem = one word! 6 items."
+    text: |
+      1. Er geht früh ins Bett, um früh {1}. (aufstehen)
+      2. Ich mache eine Pause, um Pavel {2}. (anrufen)
+      3. Sie geht in die Stadt, um Lebensmittel {3}. (einkaufen)
+      4. Bruno schreibt eine Liste, um richtig {4}. (anfangen)
+      5. Er hält inne, um die Situation besser {5}. (einschätzen)
+      6. Anna setzt sich hin, um die E-Mails {6}. (auswerten)
+    answers:
+      "1": aufzustehen
+      "2": anzurufen
+      "3": einzukaufen
+      "4": anzufangen
+      "5": einzuschätzen
+      "6": auszuwerten
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`damit` — Zwecksatz mit anderem Subjekt"
+    instructions: "Complete each sentence with `damit` and the correct verb form. The subject changes! 8 items."
+    text: |
+      1. Ich erkläre es langsam, damit du es {1}. (verstehen)
+      2. Anna schickt die Unterlagen, damit Frau Weber sie {2}. (lesen)
+      3. Pavel erklärt den Prozess, damit die Kunden ihn {3}. (verstehen)
+      4. Tomáš schreibt eine E-Mail, damit sein Team informiert {4}. (sein)
+      5. Wir machen eine Präsentation, damit alle Kollegen zustimmen {5}. (können)
+      6. Ich spreche laut, damit alle mich {6}. (hören)
+      7. Bruno schickt die Aufgabe ab, damit der Chef sie {7}. (prüfen)
+      8. Sie macht eine Umfrage, damit das Team die Daten {8}. (auswerten können)
+    answers:
+      "1": verstehst
+      "2": lesen kann
+      "3": versteht
+      "4": ist
+      "5": können
+      "6": hören
+      "7": prüfen kann
+      "8": auswerten kann
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`um … zu` oder `damit`? — richtig wählen"
+    instructions: "Fill in the blank with either `um … zu + Infinitiv` or `damit + Satz`. Watch for the subject! 6 items."
+    text: |
+      1. Ich lerne Deutsch, {1} (arbeiten — same subject: ich)
+      2. Ich erkläre die Regel, {2} (du / verstehen — different subject)
+      3. Pavel macht den Kurs, {3} (er / mehr wissen — same subject: Pavel)
+      4. Frau Weber schickt den Bericht, {4} (das Team / vorbereitet sein — different subject)
+      5. Bruno spart, {5} (reisen — same subject: Bruno)
+      6. Tomáš schreibt auf, {6} (Pavel / es nicht vergessen — different subject)
+    answers:
+      "1": um zu arbeiten
+      "2": damit du verstehst
+      "3": um mehr zu wissen
+      "4": damit das Team vorbereitet ist
+      "5": um zu reisen
+      "6": damit Pavel es nicht vergisst
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Infinitiv mit zu — Schlüsselverben"
+    instructions: "Complete each sentence with the correct `zu`-Infinitive form of the verb in brackets. 8 items."
+    text: |
+      1. Ich versuche, jeden Tag Deutsch {1}. (üben)
+      2. Bruno hat angefangen, auf Deutsch {2}. (denken)
+      3. Tomáš hofft, die B2-Prüfung {3}. (bestehen)
+      4. Sie hat vergessen, den Termin {4}. (bestätigen)
+      5. Wir planen, nächstes Jahr nach München {5}. (fahren)
+      6. Frau Weber empfiehlt, die Rechtslage {6}. (prüfen)
+      7. Er beschließt, mehr Sport {7}. (machen)
+      8. Anna bittet das Team, ihr zu {8}. (helfen)
+    answers:
+      "1": zu üben
+      "2": zu denken
+      "3": zu bestehen
+      "4": zu bestätigen
+      "5": zu fahren
+      "6": zu prüfen
+      "7": zu machen
+      "8": helfen
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`vorhaben` — Satzklammer ausfüllen"
+    instructions: "Complete each sentence with the correct form of `vorhaben`. Remember the Satzklammer! 6 items."
+    text: |
+      1. Ich {1} vor, morgen früh aufzustehen.
+      2. Du {2} vor, den Kurs zu belegen?
+      3. Pavel {3} vor, die Rösterausbildung zu machen.
+      4. Wir {4} vor, das Projekt nächste Woche zu starten.
+      5. Ihr {5} vor, nach München zu ziehen?
+      6. Sie (Plural) {6} vor, die Prüfung abzulegen.
+    answers:
+      "1": habe
+      "2": hast
+      "3": hat
+      "4": haben
+      "5": habt
+      "6": haben
+
+  - id: A7
+    block: A
+    type: order
+    title: "Satzbau: Wörter in die richtige Reihenfolge bringen"
+    instructions: "Put the words in the correct order to form a sentence with `um … zu` or `damit`."
+    items:
+      - tiles: ["Ich", "lerne", "Deutsch", ",", "um", "in", "Berlin", "zu", "arbeiten"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Ich lerne Deutsch, um in Berlin zu arbeiten."
+      - tiles: ["Sie", "macht", "eine", "Pause", ",", "um", "Kaffee", "zu", "trinken"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Sie macht eine Pause, um Kaffee zu trinken."
+      - tiles: ["Pavel", "erklärt", "es", ",", "damit", "die", "Kunden", "es", "verstehen"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Pavel erklärt es, damit die Kunden es verstehen."
+      - tiles: ["Er", "geht", "früh", "schlafen", ",", "um", "früh", "aufzustehen"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Er geht früh schlafen, um früh aufzustehen. (aufzustehen = prefix+zu+stem)"
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Antworten mit `um … zu` — Warum-Kette"
+    instructions: 'Answer each question with `um … zu`. Example: "Warum lernst du Deutsch?" → "Ich lerne Deutsch, um in Berlin zu arbeiten." 6 items.'
+    text: |
+      1. Warum geht Pavel in die Akademie? (die Ausbildung machen)
+         → Pavel geht in die Akademie, um {1}.
+      2. Warum macht Anna eine Umfrage? (die Zielgruppe kennenlernen)
+         → Anna macht eine Umfrage, um {2}.
+      3. Warum spart Tomáš? (das Startup finanzieren)
+         → Tomáš spart, um {3}.
+      4. Warum liest Bruno jeden Tag? (seinen Wortschatz verbessern)
+         → Bruno liest jeden Tag, um {4}.
+      5. Warum schreibt Anna einen Projektantrag? (das Projekt genehmigen lassen)
+         → Anna schreibt einen Projektantrag, um das Projekt {5}.
+      6. Warum besucht Pavel die Meisterschaft? (neue Kontakte knüpfen)
+         → Pavel besucht die Meisterschaft, um {6}.
+    answers:
+      "1": die Ausbildung zu machen
+      "2": die Zielgruppe kennenzulernen
+      "3": das Startup zu finanzieren
+      "4": seinen Wortschatz zu verbessern
+      "5": genehmigen zu lassen
+      "6": neue Kontakte zu knüpfen
+
+  - id: A9
+    block: A
+    type: true-false
+    title: "Grammatik-Check: `zu`-Infinitiv richtig gebildet?"
+    instructions: "Is the zu-Infinitive formed correctly? Answer R (richtig) oder F (falsch). If F, explain the error."
+    items:
+      - q: "Ich versuche, pünktlich zu kommen."
+        answer: true
+        why: "Correct: zu + Infinitive of a regular verb."
+      - q: "Er fängt an, zu anfangen."
+        answer: false
+        why: "Error: anfangen is separable. The Infinitiv mit zu form is anzufangen, not zu anfangen."
+      - q: "Ich kann zu kommen."
+        answer: false
+        why: "Error: modal verbs NEVER take zu. Correct: Ich kann kommen."
+      - q: "Sie hofft, bald fertig zu sein."
+        answer: true
+        why: "Correct: hoffen + zu + Infinitive of sein."
+      - q: "Bruno versucht, pünktlich aufzustehen."
+        answer: true
+        why: "Correct: aufstehen is separable → auf + zu + stehen = aufzustehen."
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Gemischt: Zweckstruktur aus dem Kontext wählen"
+    instructions: "Fill in the correct purpose structure (`um … zu` or `damit + Satz`). 6 items."
+    text: |
+      1. Tomáš schreibt E-Mails auf Deutsch, {1}. (sein Team / lesen können)
+      2. Pavel liest Fachbücher, {2}. (mehr über Kaffee lernen — same subj.)
+      3. Frau Weber schickt den Plan, {3}. (Anna / vorbereiten können)
+      4. Bruno stellt Fragen, {4}. (besser verstehen — same subj.)
+      5. Anna macht eine Liste, {5}. (nichts vergessen — same subj.)
+      6. Wir erklären den Prozess langsam, {6}. (alle / folgen können)
+    answers:
+      "1": damit sein Team sie lesen kann
+      "2": um mehr über Kaffee zu lernen
+      "3": damit Anna sich vorbereiten kann
+      "4": um besser zu verstehen
+      "5": um nichts zu vergessen
+      "6": damit alle folgen können
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: false
+    title: "Dialog ergänzen: Bewerbungsgespräch"
+    instructions: "Fill in the 8 blanks with the correct structures (`um … zu`, `damit`, or Infinitiv mit `zu`). Context: a job interview."
+    text: |
+      — Warum möchten Sie bei uns arbeiten?
+      — Ich bewerbe mich, {1} (meine Fähigkeiten einsetzen — same subj.).
+      — Was planen Sie in den ersten drei Monaten?
+      — Ich plane, das Team {2} (kennenlernen). Außerdem möchte ich eine
+        Strategie entwickeln, {3} (wir / effektiver arbeiten können).
+      — Welche Fähigkeiten bringen Sie mit?
+      — Ich habe angefangen, {4} (Data-Analyse-Kurse belegen). Ich versuche immer,
+        aktuelle Trends {5} (verfolgen — same subj.).
+      — Was erwarten Sie von uns?
+      — Ich hoffe, {6} (regelmäßiges Feedback bekommen). Es wäre wichtig, dass Sie
+        mir Projekte geben, {7} (ich / selbstständig arbeiten können).
+      — Haben Sie noch Fragen?
+      — Ja — ich bitte Sie, mir {8} (den Einarbeitungsplan erklären).
+    answers:
+      "1": um meine Fähigkeiten einzusetzen
+      "2": kennenzulernen
+      "3": damit wir effektiver arbeiten können
+      "4": Data-Analyse-Kurse zu belegen
+      "5": zu verfolgen
+      "6": regelmäßiges Feedback zu bekommen
+      "7": damit ich selbstständig arbeiten kann
+      "8": den Einarbeitungsplan zu erklären
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Finde den Fehler — `um … zu`, `damit`, Infinitiv mit `zu`"
+    prompt: "Each sentence contains exactly one error. Find it and write the corrected sentence. 6 items."
+    stimulus: |
+      1. Er versucht, pünktlich zu anfangen.
+      2. Ich lerne Deutsch, damit ich besser arbeite. (same subject)
+      3. Sie plant, neue Kontakte zu knüpfen damit.
+      4. Ich kann zu kommen morgen früh.
+      5. Pavel fängt an, anzufangen die Ausbildung.
+      6. Ich habe vor morgen früh aufzustehen.
+    model: |
+      1. Er versucht, pünktlich anzufangen. (separable: an+zu+fangen = anzufangen, not zu anfangen)
+      2. Ich lerne Deutsch, um besser zu arbeiten. (same subject → um … zu, not damit)
+      3. Sie plant, neue Kontakte zu knüpfen. (damit is misplaced; remove it)
+      4. Ich kann morgen früh kommen. (modal verbs never take zu)
+      5. Pavel fängt an, die Ausbildung zu machen. (correct infinitive phrase after anfangen)
+      6. Ich habe vor, morgen früh aufzustehen. (comma required before the zu-Infinitive phrase)
+
+  - id: B3
+    block: B
+    type: single-choice
+    title: "Richtigen Ausdruck wählen"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Ich lerne Deutsch, ______ in Berlin arbeiten zu können."
+        options:
+          - { key: a, text: "damit" }
+          - { key: b, text: "um" }
+          - { key: c, text: "weil" }
+        answer: b
+        why: "um … zu with same subject (ich). damit would require a full subordinate clause with different subject."
+      - q: "Anna schickt den Plan, ______ das Team ihn lesen kann."
+        options:
+          - { key: a, text: "um" }
+          - { key: b, text: "damit" }
+          - { key: c, text: "obwohl" }
+        answer: b
+        why: "damit: different subjects (Anna sends; the team reads). um … zu only works with same subject."
+      - q: "Er ______ vergessen, den Termin zu bestätigen."
+        options:
+          - { key: a, text: "hat" }
+          - { key: b, text: "ist" }
+          - { key: c, text: "wird" }
+        answer: a
+        why: "vergessen takes haben in the Perfekt: Er hat vergessen."
+      - q: "Ich ______ vor, nächste Woche die Prüfung abzulegen."
+        options:
+          - { key: a, text: "bin" }
+          - { key: b, text: "mache" }
+          - { key: c, text: "habe" }
+        answer: c
+        why: "vorhaben conjugates with haben: ich habe vor. The prefix vor goes to the end."
+      - q: "Sie fängt an, Deutsch ______."
+        options:
+          - { key: a, text: "lernen" }
+          - { key: b, text: "zu lernen" }
+          - { key: c, text: "zu lernend" }
+        answer: b
+        why: "anfangen takes zu + Infinitive: zu lernen."
+      - q: "Er geht früh schlafen, um früh ______."
+        options:
+          - { key: a, text: "zu aufstehen" }
+          - { key: b, text: "aufzustehen" }
+          - { key: c, text: "aufstehen" }
+        answer: b
+        why: "Separable verb aufstehen: prefix + zu + stem = aufzustehen (one word)."
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Satzhälften verbinden: Ziel und Zweck"
+    instructions: "Match each sentence beginning (1–6) with the correct ending (a–g). One ending is not needed."
+    left:
+      - { key: "1", text: "Pavel macht den Kurs," }
+      - { key: "2", text: "Ich lerne Vokabeln," }
+      - { key: "3", text: "Tomáš fährt nach Berlin," }
+      - { key: "4", text: "Anna schickt die Umfrage," }
+      - { key: "5", text: "Bruno stellt Fragen," }
+      - { key: "6", text: "Wir machen eine Pause," }
+    right:
+      - { key: a, text: "damit das Team die Daten auswerten kann." }
+      - { key: b, text: "um die Partnerschaft voranzubringen." }
+      - { key: c, text: "um Barista-Meister zu werden." }
+      - { key: d, text: "um Energie zu tanken." }
+      - { key: e, text: "um die Prüfung zu bestehen." }
+      - { key: f, text: "damit der Lehrer ihn versteht." }
+      - { key: g, text: "obwohl er müde ist." }
+    answers:
+      "1": c
+      "2": e
+      "3": b
+      "4": a
+      "5": f
+      "6": d
+
+  - id: B5
+    block: B
+    type: order
+    title: "Satzbau: `damit`-Satz richtig ordnen"
+    instructions: "Put the words in the correct order. Note: in damit-clauses the verb goes to the END."
+    items:
+      - tiles: ["Ich", "erkläre", "es", "langsam", ",", "damit", "du", "es", "verstehst"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Ich erkläre es langsam, damit du es verstehst. (verb to end in damit-clause)"
+      - tiles: ["Pavel", "schreibt", "auf", ",", "damit", "er", "nichts", "vergisst"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Pavel schreibt auf, damit er nichts vergisst."
+      - tiles: ["Wir", "machen", "eine", "Pause", ",", "damit", "alle", "folgen", "können"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Wir machen eine Pause, damit alle folgen können. (modal at end)"
+      - tiles: ["Sie", "schickt", "den", "Plan", ",", "damit", "das", "Team", "vorbereitet", "ist"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        note: "Sie schickt den Plan, damit das Team vorbereitet ist."
+
+  - id: B6
+    block: B
+    type: gap-text
+    listLayout: false
+    title: "Bewerbungstext: formelle `um … zu`- und `damit`-Sprache"
+    instructions: "Fill in the 6 gaps with the correct purpose structure. Context: Anna's cover letter."
+    text: |
+      Sehr geehrte Damen und Herren,
+
+      ich bewerbe mich für die ausgeschriebene Stelle als Marketing-Managerin,
+      {1} meine Erfahrungen in einem innovativen Unternehmen {2}. (einsetzen — same subj.)
+
+      In meiner bisherigen Tätigkeit habe ich gelernt, Kampagnen gezielt zu planen,
+      {3} unsere Zielgruppen besser {4}. (erreichen können — das Unternehmen)
+
+      Ich hoffe, in Ihrem Team {5}, und ich bitte Sie, meine
+      Bewerbungsunterlagen {6}. (sorgfältig prüfen)
+    answers:
+      "1": um
+      "2": einzusetzen
+      "3": damit
+      "4": erreichen kann
+      "5": viel zu lernen
+      "6": sorgfältig zu prüfen
+
+  - id: B7
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Umformung: `damit` → `um … zu` (wenn möglich)"
+    instructions: "Rewrite with `um … zu` where the subjects are the same. If subjects differ, keep `damit`. 6 items."
+    text: |
+      1. Ich lerne, damit ich die Prüfung bestehe.
+         → Ich lerne, {1}.
+      2. Er erklärt es langsam, damit du es verstehst.
+         → {2}. (subjects differ — keep damit!)
+      3. Sie macht einen Kurs, damit sie mehr Möglichkeiten hat.
+         → Sie macht einen Kurs, {3}.
+      4. Wir schreiben den Bericht, damit Frau Weber ihn lesen kann.
+         → {4}. (subjects differ — keep damit!)
+      5. Bruno liest jeden Tag, damit er seinen Wortschatz verbessert.
+         → Bruno liest jeden Tag, {5}.
+      6. Pavel macht eine Liste, damit er nichts vergisst.
+         → Pavel macht eine Liste, {6}.
+    answers:
+      "1": um die Prüfung zu bestehen
+      "2": Er erklärt es langsam, damit du es verstehst.
+      "3": um mehr Möglichkeiten zu haben
+      "4": Wir schreiben den Bericht, damit Frau Weber ihn lesen kann.
+      "5": um seinen Wortschatz zu verbessern
+      "6": um nichts zu vergessen
+
+  - id: B8
+    block: B
+    type: single-choice
+    title: "Leseverstehen: Pavels Bewerbungsschreiben"
+    instructions: "Read the Lesetext in lesson.md, section 5. Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Wofür bewirbt sich Pavel?"
+        options:
+          - { key: a, text: "Für eine Stelle als Barista." }
+          - { key: b, text: "Für einen Kaffeeroaster-Kurs." }
+          - { key: c, text: "Für ein Praktikum in einer Bäckerei." }
+        answer: b
+        why: '"Pavel Novák bewirbt sich um einen Platz in einem Kaffeeroaster-Kurs."'
+      - q: "Was ist Pavels langfristiges Ziel?"
+        options:
+          - { key: a, text: "In einem Café in Prenzlauer Berg zu arbeiten." }
+          - { key: b, text: "Eine offizielle Zertifizierung zu bekommen." }
+          - { key: c, text: "Seinen eigenen Röstbetrieb zu gründen." }
+        answer: c
+        why: '"Mein langfristiges Ziel ist es, meinen eigenen Röstbetrieb zu gründen."'
+      - q: "Warum möchte Pavel die Zertifizierung?"
+        options:
+          - { key: a, text: "Um mehr Geld zu verdienen." }
+          - { key: b, text: "Damit seine Kunden wissen, dass seine Arbeit Standards entspricht." }
+          - { key: c, text: "Um die Ausbildung schneller abzuschließen." }
+        answer: b
+        why: '"damit meine Kunden wissen, dass meine Arbeit geprüften Standards entspricht."'
+      - q: "Was hat Pavel vor, außer dem Kurs zu machen?"
+        options:
+          - { key: a, text: "Einen neuen Job zu suchen." }
+          - { key: b, text: "Regelmäßig an Branchenevents teilzunehmen." }
+          - { key: c, text: "Nach Brünn zurückzukehren." }
+        answer: b
+        why: '"Ich habe außerdem vor, regelmäßig an Branchenevents teilzunehmen."'
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Forenbeitrag: Deutsch lernen — Warum und Wie?"
+    prompt: "Schreib 5–6 Sätze als Antwort auf Brunos Frage im Sprachlern-Forum."
+    stimulus: |
+      Bruno schreibt im Forum: Hey Leute! Ich habe gerade angefangen, intensiver
+      Deutsch zu lernen. Was macht ihr, um euer Deutsch zu verbessern? Welche
+      Methoden nutzt ihr? Ich freue mich auf eure Tipps!
+    use:
+      - "at least 2 sentences with `um … zu` (same subject)"
+      - "at least 1 sentence with `damit` (different subject)"
+      - "at least 2 verbs from the Infinitiv-mit-zu list (versuchen, hoffen, anfangen, aufhören, planen…)"
+    selfCheck:
+      - "Is the infinitive at the very END of each `um … zu` phrase?"
+      - "In the `damit`-clause, is the verb at the END?"
+      - "Did I use a comma before `um` and before `damit`?"
+      - "For separable verbs: is `zu` between prefix and stem (e.g. `aufzuhören`, not `zu aufhören`)?"
+    model: |
+      Hallo Bruno! Ich versuche, jeden Abend mindestens 30 Minuten Deutsch zu lernen,
+      um meinen Wortschatz systematisch zu erweitern. Ich habe angefangen, ein
+      Tagebuch auf Deutsch zu schreiben — damit mein Deutschlehrer meine Fehler
+      korrigieren kann. Außerdem höre ich Podcasts, um das Hörverständnis zu
+      trainieren. Ich hoffe, nächstes Jahr die B2-Prüfung zu bestehen. Was ich
+      aufgehört habe zu tun: Wörter auswendig lernen, ohne Kontext. Das hilft wirklich
+      nicht! Viel Erfolg!
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: false
+    title: "Lückentext: Pavels Bewerbungsschreiben"
+    instructions: "Fill each gap with one word. 10 gaps."
+    text: |
+      Pavel Novák {1} sich um einen Platz in einem Kaffeeroaster-Kurs der
+      Berliner Akademie für Handwerk. Er schreibt, um sich für den Kurs
+      „Specialty Coffee Roasting — Level 2" zu {2}. Sein langfristiges
+      Ziel ist es, einen eigenen Röstbetrieb zu {3}.
+
+      Er hat {4}, diese Ausbildung zu machen, um das theoretische Wissen zu
+      ergänzen, das er in der Praxis bereits gesammelt hat. Er hofft, durch den
+      Kurs eine offizielle Zertifizierung zu {5}, damit seine Kunden {6},
+      dass seine Arbeit geprüften Standards entspricht.
+
+      Er {7} außerdem vor, regelmäßig an Branchenevents teilzunehmen, um
+      neue Kontakte zu {8} und auf dem neuesten Stand zu {9}. Er bittet
+      die Akademie, seine Bewerbung sorgfältig zu {10}.
+    answers:
+      "1": bewirbt
+      "2": bewerben
+      "3": gründen
+      "4": beschlossen
+      "5": erhalten
+      "6": wissen
+      "7": hat
+      "8": knüpfen
+      "9": bleiben
+      "10": prüfen
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Ich lerne Deutsch, ______ in Berlin besser arbeiten zu können."
+        options:
+          - { key: a, text: "damit" }
+          - { key: b, text: "um" }
+          - { key: c, text: "weil" }
+        answer: b
+        why: "um … zu: same subject in both clauses."
+      - q: "Sie schickt die Unterlagen, ______ das Team sie lesen kann."
+        options:
+          - { key: a, text: "um" }
+          - { key: b, text: "damit" }
+          - { key: c, text: "deshalb" }
+        answer: b
+        why: "damit: different subjects (sie schickt; das Team liest)."
+      - q: "Er ______ an, täglich Deutsch zu üben."
+        options:
+          - { key: a, text: "fängt" }
+          - { key: b, text: "hört" }
+          - { key: c, text: "macht" }
+        answer: a
+        why: "anfangen: er fängt an, zu üben."
+      - q: "Frau Weber empfiehlt ______, die DSGVO-Richtlinien zu prüfen."
+        options:
+          - { key: a, text: "ihm" }
+          - { key: b, text: "ihr" }
+          - { key: c, text: "Ihnen" }
+        answer: c
+        why: "empfehlen + Dativ of the polite Sie-form: Ihnen (formal address)."
+      - q: "Pavel hat ______, die Rösterausbildung zu machen."
+        options:
+          - { key: a, text: "vor" }
+          - { key: b, text: "Plan" }
+          - { key: c, text: "Absicht" }
+        answer: a
+        why: "vorhaben: Pavel hat vor, … zu … The separable prefix vor belongs here."
+      - q: "Ich höre ______, so viele Fehler zu machen."
+        options:
+          - { key: a, text: "auf" }
+          - { key: b, text: "an" }
+          - { key: c, text: "zu" }
+        answer: a
+        why: "aufhören: ich höre auf, Fehler zu machen."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (Wortbank)"
+    instructions: "Fill the 10 gaps. Five words are not needed."
+    bankCase: upper
+    bankSort: true
+    text: |
+      Pavel schreibt ein Motivationsschreiben, {1} sich für den Kurs zu
+      bewerben. Sein Ziel {2} es, einen eigenen Röstbetrieb zu gründen.
+      Er hat {3}, diese Ausbildung zu absolvieren. Er hofft, eine Zertifizierung
+      zu {4}, {5} seine Kunden von seiner Qualität {6} können. Außerdem
+      {7} er vor, regelmäßig an Branchenevents teilzunehmen. Er {8},
+      immer auf dem neuesten Stand zu bleiben. Er {9} das Team, ihm
+      Feedback zu geben, {10} er sich verbessern kann.
+    bank: [UM, IST, BESCHLOSSEN, ERHALTEN, DAMIT, ÜBERZEUGT, HAT, VERSUCHT, BITTET, DAMIT, WEIL, WURDE, HATTE, OBWOHL, SEIN]
+    answers:
+      "1": UM
+      "2": IST
+      "3": BESCHLOSSEN
+      "4": ERHALTEN
+      "5": DAMIT
+      "6": ÜBERZEUGT
+      "7": HAT
+      "8": VERSUCHT
+      "9": BITTET
+      "10": DAMIT
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Leseverstehen: Pavels Bewerbungsschreiben (Richtig / Falsch)"
+    instructions: "Read the Lesetext (lesson.md section 5). Decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Pavel bewirbt sich für einen Barista-Kurs."
+        answer: false
+        why: "He applies for a Kaffeeroaster-Kurs (specialty coffee roasting course)."
+      - q: "Pavel arbeitet seit zwei Jahren als Barista."
+        answer: true
+        why: '"Ich arbeite seit zwei Jahren als Barista."'
+      - q: "Er will die Ausbildung machen, um Theorie und Praxis zu kombinieren."
+        answer: true
+        why: '"um das theoretische Wissen zu ergänzen, das ich in der Praxis bereits gesammelt habe."'
+      - q: "Pavel hat vergessen, die DSGVO-Richtlinien zu lesen."
+        answer: false
+        why: "This is from Dialog B (Anna), not the Lesetext. In the Lesetext, this detail does not appear."
+      - q: "Pavel möchte regelmäßig an Branchenevents teilnehmen."
+        answer: true
+        why: '"Ich habe außerdem vor, regelmäßig an Branchenevents teilzunehmen."'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Leseverstehen: Kursbroschüre (neuer Text)"
+    instructions: "Read the course brochure text below. Choose the correct answer (a, b, or c)."
+    text: |
+      **Berliner Akademie für Handwerk — Kursbroschüre**
+
+      Der Kurs „Specialty Coffee Roasting — Level 2" richtet sich an erfahrene
+      Baristas, um ihr handwerkliches Wissen auf professionellem Niveau zu
+      erweitern. Die Teilnehmer lernen, Röstprofile zu entwickeln, damit ihre
+      Produkte höchsten Qualitätsstandards entsprechen. Der Kurs findet in kleinen
+      Gruppen statt, damit die Dozenten individuell auf jeden Teilnehmer eingehen
+      können. Um den Kurs erfolgreich abzuschließen, ist eine Abschlussprüfung
+      abzulegen. Wir empfehlen Ihnen, sich mindestens drei Monate im Voraus zu
+      bewerben, da die Plätze begrenzt sind.
+    items:
+      - q: "Für wen ist der Kurs geeignet?"
+        options:
+          - { key: a, text: "Für Anfänger ohne Erfahrung." }
+          - { key: b, text: "Für erfahrene Baristas." }
+          - { key: c, text: "Für Studenten der Lebensmitteltechnologie." }
+        answer: b
+        why: '"Der Kurs richtet sich an erfahrene Baristas."'
+      - q: "Warum findet der Kurs in kleinen Gruppen statt?"
+        options:
+          - { key: a, text: "Um Kosten zu sparen." }
+          - { key: b, text: "Damit die Dozenten individuell auf jeden eingehen können." }
+          - { key: c, text: "Weil die Räume klein sind." }
+        answer: b
+        why: '"damit die Dozenten individuell auf jeden Teilnehmer eingehen können."'
+      - q: "Was empfiehlt die Akademie bezüglich der Bewerbung?"
+        options:
+          - { key: a, text: "Sich direkt am ersten Tag des Kurses anzumelden." }
+          - { key: b, text: "Sich mindestens drei Monate im Voraus zu bewerben." }
+          - { key: c, text: "Eine Warteliste zu kontaktieren." }
+        answer: b
+        why: '"Wir empfehlen Ihnen, sich mindestens drei Monate im Voraus zu bewerben."'
+      - q: "Was müssen Teilnehmer tun, um den Kurs erfolgreich abzuschließen?"
+        options:
+          - { key: a, text: "Einen Lebenslauf einreichen." }
+          - { key: b, text: "Fünf Röstprofile entwickeln." }
+          - { key: c, text: "Eine Abschlussprüfung ablegen." }
+        answer: c
+        why: '"ist eine Abschlussprüfung abzulegen."'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Kurzes Motivationsschreiben"
+    prompt: "Write a short motivation letter (Motivationsschreiben) of 5–6 sentences for a language course or job. Use `um … zu` and `damit` naturally."
+    minSentences: 5
+    use:
+      - "at least 2 `um … zu` constructions"
+      - "at least 1 `damit` construction with a different subject"
+      - "at least 2 verbs from the Infinitiv-mit-zu list (hoffen, planen, vorhaben, versuchen…)"
+      - "formal register: `Sehr geehrte … / Ich bewerbe mich … / Ich hoffe … / Mit freundlichen Grüßen`"
+    selfCheck:
+      - "Is the infinitive at the END of each `um … zu` phrase?"
+      - "In the `damit`-clause: is the verb at the END?"
+      - "Have you used a comma before `um` and before `damit`?"
+      - "Is the register consistently formal (Sie, Sehr geehrte, keine Umgangssprache)?"
+    model: |
+      Sehr geehrte Damen und Herren,
+
+      ich bewerbe mich für den Intensivkurs Deutsch B2, um meine beruflichen
+      Chancen in Deutschland zu verbessern. Ich plane, den Kurs im Oktober zu
+      beginnen, damit ich noch in diesem Jahr das Sprachniveau B2 erreiche.
+      Ich hoffe, durch den Kurs meine Schreibkompetenz zu stärken. Außerdem
+      habe ich vor, täglich die im Kurs gelernten Strukturen zu üben,
+      damit mein Arbeitgeber meine Fortschritte erkennt.
+
+      Mit freundlichen Grüßen,
+      [Ihr Name]
+
+  # ── Block D — Wiederholung & Selbsttest ──────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Schnelltest: `um … zu`, `damit`, Infinitiv mit `zu` + Wiederholung"
+    instructions: "Fill in the correct word or structure. Items 13–15 review B1/05 (Relativsätze). 15 items."
+    text: |
+      1. Ich lerne Deutsch, um in Berlin {1}. (arbeiten)
+      2. Er fängt an, Deutsch {2}. (lernen — Infinitiv mit zu)
+      3. Sie schickt den Plan, damit das Team {3}. (vorbereitet sein)
+      4. Ich habe {4}, die Prüfung abzulegen. (vorhaben — ich-Form Satzklammer!)
+      5. Pavel versucht, pünktlich {5}. (anfangen — separable!)
+      6. Tomáš plant, öfter nach Berlin {6}. (kommen)
+      7. Wir machen eine Liste, {7} wir nichts vergessen. (damit)
+      8. Sie hofft, eine Zertifizierung {8}. (erhalten)
+      9. Er bittet Anna, den Bericht {9}. (schreiben)
+      10. Ich habe vor, morgen früh {10}. (aufstehen — separable!)
+      11. Modal verbs: Ich {11} kommen. (können — no zu!)
+      12. Frau Weber empfiehlt {12}, die Richtlinien zu prüfen. (Dativ pronoun: Ihnen)
+      13. (B1/05) Das ist der Kurs, {13} ich mich bewerbe. (Relativpronomen + Präp: für den)
+      14. (B1/05) Die Kollegin, {14} Pavel kennt, heißt Mia. (Relativpronomen Akk: die)
+      15. (B1/05) Er sucht eine Stelle, {15} gut bezahlt ist. (Relativpronomen Nom: die)
+    answers:
+      "1": zu arbeiten
+      "2": zu lernen
+      "3": vorbereitet ist
+      "4": vor
+      "5": anzufangen
+      "6": zu kommen
+      "7": damit
+      "8": zu erhalten
+      "9": zu schreiben
+      "10": aufzustehen
+      "11": kann
+      "12": Ihnen
+      "13": für den
+      "14": die
+      "15": die
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Wortschatz-Check: Das passt nicht!"
+    instructions: "Circle the word that does not belong. 6 groups."
+    groups:
+      - items: ["versuchen", "hoffen", "planen", "obwohl"]
+        odd: 3
+        why: "obwohl is a connector (Konjunktion), not a verb that takes zu-Infinitive."
+      - items: ["das Ziel", "die Absicht", "der Vorsatz", "das Angebot"]
+        odd: 3
+        why: "das Angebot (supply/offer) is not a goal/intention word."
+      - items: ["anfangen", "aufhören", "vorhaben", "können"]
+        odd: 3
+        why: "können is a modal verb and never takes zu. The others take Infinitiv mit zu."
+      - items: ["um … zu", "damit", "weil", "um … zu"]
+        odd: 2
+        why: "weil expresses reason (Grund), not purpose (Zweck). um … zu and damit express purpose."
+      - items: ["die Bewerbung", "der Antrag", "der Lebenslauf", "die Meisterschaft"]
+        odd: 3
+        why: "die Meisterschaft (championship) is not an application/job-search document."
+      - items: ["aufzustehen", "einzukaufen", "anzufangen", "zu lernen"]
+        odd: 3
+        why: "zu lernen is a regular verb form (nicht trennbar). The others are separable verbs with zu between prefix and stem."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: B1/04 (Passiv) und B1/03 (Konjunktiv II)"
+    instructions: "Fill in the correct form. Items 1–5 review B1/04 (Passiv); items 6–10 review B1/03 (Konjunktiv II). 10 items."
+    text: |
+      B1/04 — Passiv:
+      1. Der Kurs {1} von der Akademie angeboten. (Präsens Passiv: werden)
+      2. Die Bewerbung {2} gestern eingereicht. (Präteritum Passiv: werden)
+      3. Das Projekt {3} von Anna geleitet. (Präsens Passiv)
+      4. Die Richtlinien {4} sorgfältig geprüft worden. (Perfekt Passiv: sein)
+      5. Der Plan muss noch {5}. (Passiv mit Modal: genehmigt werden)
+
+      B1/03 — Konjunktiv II:
+      6. Wenn ich mehr Zeit hätte, {6} ich mehr Deutsch lernen. (würde)
+      7. Er {7} gerne eine Ausbildung machen, aber er hat kein Geld. (würde)
+      8. Wenn Pavel den Kurs {8}, würde er eine Zertifizierung bekommen. (belegen — Konj. II)
+      9. Ich {9} an deiner Stelle öfter üben. (würde)
+      10. Wenn wir ein größeres Budget {10}, könnten wir mehr investieren. (haben — Konj. II)
+    answers:
+      "1": wird
+      "2": wurde
+      "3": wird
+      "4": sind
+      "5": genehmigt werden
+      "6": würde
+      "7": würde
+      "8": belegte
+      "9": würde
+      "10": hätten
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest: `um … zu`, `damit`, Infinitiv mit `zu` (20 Punkte)"
+    instructions: "Fill in the correct form. 1 point per gap. 20 items."
+    notes: "16+ / 20 → proceed to B1/07. Below 16: redo Block A1–A6 tomorrow, then retest D4."
+    text: |
+      1. Ich lerne Vokabeln, um die Prüfung {1}. (bestehen)
+      2. Er geht früh ins Bett, um früh {2}. (aufstehen — separable)
+      3. Sie macht eine Umfrage, {3} das Team informiert ist. (damit)
+      4. Ich fange an, täglich zu {4}. (üben)
+      5. Pavel hat vor, den Kurs {5}. (belegen)
+      6. Wir versuchen, pünktlich {6}. (anfangen — separable)
+      7. Bruno hofft, die B2-Prüfung {7}. (bestehen)
+      8. Sie empfiehlt {8}, mehr zu lesen. (uns — Dativ)
+      9. Er hat {9}, früh aufzustehen. (vorhaben — er-Form)
+      10. Ich lerne Deutsch, {10} mein Chef mich besser versteht. (damit)
+      11. Tomáš plant, im Herbst nach Berlin {11}. (kommen)
+      12. Sie hat {12}, das Formular auszufüllen. (vergessen)
+      13. Er {13} auf, so viel zu arbeiten. (aufhören)
+      14. Ich möchte {14} Möglichkeit nutzen, zu lernen. (die — Akkusativ)
+      15. Wir {15} vor, das Projekt nächste Woche zu starten. (vorhaben — wir-Form)
+      16. Sie bittet ihn, den Bericht {16}. (schreiben)
+      17. Ich habe beschlossen, mehr Sport {17}. (machen)
+      18. Modal: Ich {18} morgen kommen. (können — present tense)
+      19. Separable in um…zu: um früh {19}. (aufstehen)
+      20. Formal: Ich bewerbe mich, um meine Fähigkeiten {20}. (einsetzen — separable)
+    answers:
+      "1": zu bestehen
+      "2": aufzustehen
+      "3": damit
+      "4": üben
+      "5": zu belegen
+      "6": anzufangen
+      "7": zu bestehen
+      "8": uns
+      "9": vor
+      "10": damit
+      "11": zu kommen
+      "12": vergessen
+      "13": hört
+      "14": die
+      "15": haben
+      "16": zu schreiben
+      "17": zu machen
+      "18": kann
+      "19": aufzustehen
+      "20": einzusetzen

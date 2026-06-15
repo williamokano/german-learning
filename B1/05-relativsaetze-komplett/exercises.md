@@ -42,7 +42,7 @@ Listen to the Hörtext (Mia describes her ideal apartment) and fill in the 6 mis
 > Der Bezirk, (5) ______ die Wohnung liegt, ist mir fast egal — Hauptsache, es gibt gute
 > Fahrradwege, auf (6) ______ ich sicher zur Arbeit fahren kann.
 
-> (der · dem · was · wo · die · denen · welche · das · deren)
+> (der · der · dem · was · wo · die · denen · welche · das)
 
 ## Übung H4 — Kurze Ansage: Voicemail von Pavel an Anna
 
@@ -336,20 +336,18 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Fülle die 10 Lücken mit Wörtern aus der Box. Fünf Wörter sind nicht nötig.
+Fülle die 11 Lücken mit Wörtern aus der Box. Fünf Wörter sind nicht nötig.
 
-> Herr Steinmeyer liest Annas Empfehlungsschreiben. Er findet die Formulierungen,
-> (1) ______ Anna gewählt hat, größtenteils sehr gut. Die erste Formulierung, (2) ______ er
-> ändern würde, ist zu allgemein. Er schlägt vor: „Sie ist eine Mitarbeiterin,
-> auf (3) ______ Zuverlässigkeit man sich stets verlassen kann." Das ist genau (4) ______,
-> (5) ______ man in formellen Briefen erwartet. Dann zeigt Anna einen Satz, über (6) ______
-> sie unsicher ist. Herr Steinmeyer erklärt, dass `worüber` zu einer anderen
-> Kategorie gehört — auf diesem Niveau schreibt man `über das`. Das ist das
-> Einzige, (7) ______ Anna noch korrigieren muss. Das Projekt, (8) ______ Anna mitgearbeitet
-> hat, ist auch gut beschrieben. Das Schreiben, (9) ______ Anna dann einreichen wird,
-> (10) ______ sicher einen guten Eindruck machen.
+> Das Empfehlungsschreiben, (1) ______ Herr Steinmeyer für Anna verfasst, ist sehr
+> formell. Es gibt Formulierungen, (2) ______ man in solchen Briefen oft findet.
+> Anna arbeitet für eine Chefin, (3) ______ man wirklich vertrauen kann. Das ist der
+> Kollege, (4) ______ Herr Steinmeyer gestern getroffen hat. Das Projekt, (5) ______ (6) ______
+> Anna beteiligt war, war sehr erfolgreich. Die Kunden, (7) ______ das Team täglich
+> hilft, sind sehr dankbar. Mia wohnt in Kreuzberg, einem Bezirk, (8) ______ viele
+> junge Leute leben. Etwas, (9) ______ Pavel wirklich liebt, ist guter Kaffee. Die
+> App ist ein Werkzeug, (10) ______ (11) ______ man Scooter schnell finden kann.
 
-> AN · DAS · DEM · DEN · DENEN · DEREN · DIE · ETWAS · IN · SOLL · WAS · WIRD · WIRD · WO · WORÜBER
+> AN · DAS · DASS · DEM · DEM · DEN · DENEN · DER · DIE · ETWAS · FÜR · MIT · SOLL · WAS · WELCHE · WO
 
 Five words are not needed.
 

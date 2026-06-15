@@ -39,6 +39,7 @@
     "Hannah":      "Sarah — Mature, Reassuring, Confident",
     "Tomáš":      "Mark — Interesting and Fun (crisp, engaging)",
     "Pavel":       "Eric — Smooth, Trustworthy (calm, mid-register)",
+    "Layla":       "Anny — Soft and Girly (teenage female, Berlin-native, B1+)",
     "female_1":    "Anny — Soft and Girly",
     "female_2":    "Anna Journalistic — Excited & Journalistic",
     "female_3":    "Irene Reflective — Reflective thinking, serious",
@@ -72,6 +73,7 @@
     "Hannah":  { "voice_id": "EXAVITQu4vr4xnSDxMaL", "stability": 0.50, "similarity_boost": 0.75, "language": "de", "speed": 1.00 },
     "Tomáš":  { "voice_id": "fzqS9sNPYJhLlhsfDm0l", "stability": 0.50, "similarity_boost": 0.75, "language": "de", "speed": 1.00 },
     "Pavel":   { "voice_id": "cjVigY5qzO86Huf0OWal", "stability": 0.50, "similarity_boost": 0.75, "language": "de", "speed": 1.00 },
+    "Layla":   { "voice_id": "ZgahlWh5FVSG7MFjZwPE", "stability": 0.50, "similarity_boost": 0.75, "language": "de", "speed": 1.00 },
 
     "female_1":      { "voice_id": "ZgahlWh5FVSG7MFjZwPE", "stability": 0.50, "similarity_boost": 0.75, "language": "de", "speed": 0.85 },
     "female_2":      { "voice_id": "DEZHhPbmb8LVZmWufkCh", "stability": 0.50, "similarity_boost": 0.75, "language": "de", "speed": 0.85 },
@@ -124,6 +126,7 @@
     "Hannah":            "female",
     "Tomáš":            "male",
     "Pavel":             "male",
+    "Layla":             "female",
     "Salma":             "female",
     "Klára":             "female"
   },

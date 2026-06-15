@@ -83,7 +83,7 @@ exercises:
       kann — keine Mini-Küche, in der man kaum einen Topf abstellen kann.
       Der Bezirk, {5} die Wohnung liegt, ist mir fast egal — Hauptsache, es gibt gute
       Fahrradwege, auf {6} ich sicher zur Arbeit fahren kann.
-    bank: [der, dem, was, wo, die, denen, welche, das, deren]
+    bank: [der, der, dem, was, wo, die, denen, welche, das]
     answers:
       "1": der
       "2": was
@@ -698,32 +698,31 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (Wortbank)"
-    instructions: "Fülle die 10 Lücken mit Wörtern aus der Box. Fünf Wörter sind nicht nötig."
+    instructions: "Fülle die 11 Lücken mit Wörtern aus der Box. Fünf Wörter sind nicht nötig."
     bankCase: upper
     bankSort: true
     text: |
-      Herr Steinmeyer liest Annas Empfehlungsschreiben. Er findet die Formulierungen,
-      {1} Anna gewählt hat, größtenteils sehr gut. Die erste Formulierung, {2} er
-      ändern würde, ist zu allgemein. Er schlägt vor: „Sie ist eine Mitarbeiterin,
-      auf {3} Zuverlässigkeit man sich stets verlassen kann." Das ist genau {4},
-      {5} man in formellen Briefen erwartet. Dann zeigt Anna einen Satz, über {6}
-      sie unsicher ist. Herr Steinmeyer erklärt, dass `worüber` zu einer anderen
-      Kategorie gehört — auf diesem Niveau schreibt man `über das`. Das ist das
-      Einzige, {7} Anna noch korrigieren muss. Das Projekt, {8} Anna mitgearbeitet
-      hat, ist auch gut beschrieben. Das Schreiben, {9} Anna dann einreichen wird,
-      {10} sicher einen guten Eindruck machen.
-    bank: [DIE, DEN, DEREN, DAS, WAS, DEM, AN, WIRD, DENEN, IN, WO, WIRD, ETWAS, WORÜBER, SOLL]
+      Das Empfehlungsschreiben, {1} Herr Steinmeyer für Anna verfasst, ist sehr
+      formell. Es gibt Formulierungen, {2} man in solchen Briefen oft findet.
+      Anna arbeitet für eine Chefin, {3} man wirklich vertrauen kann. Das ist der
+      Kollege, {4} Herr Steinmeyer gestern getroffen hat. Das Projekt, {5} {6}
+      Anna beteiligt war, war sehr erfolgreich. Die Kunden, {7} das Team täglich
+      hilft, sind sehr dankbar. Mia wohnt in Kreuzberg, einem Bezirk, {8} viele
+      junge Leute leben. Etwas, {9} Pavel wirklich liebt, ist guter Kaffee. Die
+      App ist ein Werkzeug, {10} {11} man Scooter schnell finden kann.
+    bank: [DAS, DIE, DER, DEN, DEM, DEM, DENEN, WO, WAS, AN, MIT, FÜR, DASS, ETWAS, SOLL, WELCHE]
     answers:
-      "1": DIE
+      "1": DAS
       "2": DIE
-      "3": DEREN
-      "4": DAS
-      "5": WAS
-      "6": DEN
-      "7": WAS
-      "8": AN
-      "9": DAS
-      "10": WIRD
+      "3": DER
+      "4": DEN
+      "5": AN
+      "6": DEM
+      "7": DENEN
+      "8": WO
+      "9": WAS
+      "10": MIT
+      "11": DEM
 
   - id: C4a
     block: C

@@ -175,7 +175,7 @@ Selbstkorrektur:
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-1. **DIE**  2. **DIE**  3. **DEREN**  4. **DAS**  5. **WAS**  6. **DEN**  7. **WAS**  8. **AN**  9. **DAS**  10. **WIRD**
+1. **DAS**  2. **DIE**  3. **DER**  4. **DEN**  5. **AN**  6. **DEM**  7. **DENEN**  8. **WO**  9. **WAS**  10. **MIT**  11. **DEM**
 
 ## Übung C4a — Lesen Text 1: Über uns — die Website des Startups
 
