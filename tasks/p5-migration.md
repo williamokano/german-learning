@@ -40,9 +40,10 @@ If it exits 0, commit+push. Then move to the next lesson. **Do not fan out in pa
 | A2/09 | ✅ DONE | ✅ | ✅ |
 | A2/10 | ✅ DONE | ✅ | ✅ |
 | A2/11 | ✅ DONE | ✅ | ✅ |
-| A2/12–A2/13 | ❌ | — | — |
+| A2/12 | ✅ DONE | ✅ | ✅ |
+| A2/13 | ❌ | — | — |
 
-**Next lesson:** A2/12-plaene-und-zukunft
+**Next lesson:** A2/13-menschen-beschreiben
 
 ---
 
