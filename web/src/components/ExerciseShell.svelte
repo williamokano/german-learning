@@ -43,7 +43,12 @@
 <section class="exercise-shell">
   <h2 class="exercise-title">Übung {exercise.id} — {exercise.title}</h2>
   {#if exercise.instructions}
-    <p class="exercise-instructions">{exercise.instructions}</p>
+    <p class="exercise-instructions">
+      {exercise.instructions}
+      {#if exercise.instructionsEn}
+        <span class="exercise-instructions-en">{exercise.instructionsEn}</span>
+      {/if}
+    </p>
   {/if}
   {#if exercise.audio}
     <div class="exercise-audio">
@@ -96,6 +101,12 @@
     margin: 0.4rem 0 0.75rem;
     font-size: 0.925rem;
     color: #374151;
+  }
+  .exercise-instructions-en {
+    display: block;
+    font-size: 0.8rem;
+    color: #9ca3af;
+    margin-top: 0.15rem;
   }
   .exercise-audio { margin-bottom: 0.75rem; }
 </style>

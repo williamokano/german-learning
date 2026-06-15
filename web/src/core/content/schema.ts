@@ -9,6 +9,7 @@ const Base = z.object({
   block: z.enum(['H', 'A', 'B', 'C', 'D', 'exam']),
   title: z.string(),
   instructions: z.string().optional(),
+  instructionsEn: z.string().optional(),
   audio: z.string().optional(),
   transcript: z.string().optional(),    // H4 Kurze Ansage transcript text
   audioContext: z.string().optional(),  // hint for audio generation (e.g. "phone-filter")
