@@ -349,6 +349,72 @@ The build fails on these reliably. Pre-empt them when you write the yml:
    A1/03-style lessons that have both dialogs under a single H1 heading.
 9. **D4 always gets `notes:`** for the retry advice + threshold.
 
+### B1 dialog conventions (added 2026-06-15)
+
+B1 is where the dialogs **shift from "about the speaker" to "about ideas
+and topics"**. The reader is now expressing opinions on politics, technology,
+household, work, the environment — not just introducing themselves.
+Three conventions apply to B1/01–B1/13.
+
+1. **3-person dialogs.** At least 6 B1 lessons use 3-person Dialog A
+   (and 1–2 use 3-person Dialog B). Examples in the plan:
+   - B1/01 — Mia + Lukas + Anna + Bruno (4-person, dinner party)
+   - B1/02 — Tomáš + Pavel + Mia (brothers' mini-debate with moderator)
+   - B1/04 — Anna + Lukas + Bruno (KI debate at a café)
+   - B1/06 — Pavel + Tomáš + Bruno (language-learning strategies)
+   - B1/07 — Hannah + Yusuf + Salma (El-Sayed family at home)
+   - B1/08 — Anna + Mia + Bruno (workplace values)
+   - B1/10 — Yusuf + Hannah + Anna (political debate over dinner)
+   - B1/11 — Anna + Frau Yilmaz + Herr Steinmeyer (3-person formal
+     interview panel — the canonical B1 Prüfung Sprechen Teil 3 setup)
+   - B1/12 — Mia + Lukas + Bruno (climate roundtable)
+   - B1/13 — Yusuf + Hannah + Anna (3-person Vortrag mentoring)
+
+   **Authoring rule for 3-person:** keep total turns to **8–12** (vs 4–6 in
+   2-person). Give each speaker roughly equal airtime. A moderator figure
+   (Mia in dinner-party scenes, Yusuf in academic scenes) is recommended
+   to balance the conversation.
+
+2. **Topic-first, not person-first.** Every B1 Dialog A states a **topic**
+   in its title or first turn, not just a relationship. Compare:
+   - A2 dialog: "Anna and Bruno chat about the weather."
+   - B1 dialog: "Mia fragt die Runde: 'Wie hat sich Berlin seit 2015
+     verändert?' — eine Diskussion über Mieten, Mobilität, Sprache."
+
+3. **New characters only via persona files.** Before any new B1 character
+   appears in a dialog, create the persona file in `personas/` (per
+   `personas/README.md` schema) and add the speaker entry to
+   `scripts/audio_config.json` under `voices`, `voice_descriptions`, and
+   `speaker_gender`. The voice for that character is then stable across
+   all B1 lessons.
+
+### B1 voice conventions
+
+- **Speed:** `level_speeds.B1 = 1.00` (already set in `audio_config.json`).
+  Don't override per-character.
+- **Voice pool for B1 (8 named + 3 round-robin male + 3 round-robin
+  female = 14 distinct voices):** Anna, Bruno, Mia, Lukas, Yusuf, Hannah,
+  Tomáš, Pavel, plus female_1/2/3 and male_1/2/3 (round-robin for any
+  walk-on speaker).
+- **Pavel's voice (`Eric`) is distinct from Bruno's (`Ben`)** so the two
+  can co-appear in the same 3-person scene.
+- **Yusuf's voice (`Markus`)** is the first academic voice — deeper than
+  the Lennard "warm & trustworthy" pattern reused by Herr Wegner / Herr
+  Yilmaz / Herr Klein.
+
+### B1 instruction language
+
+English/German mixed (per `tasks/lessons.md` rule introduced for B1):
+- **English** for new-grammar explanation (e.g. "Konjunktiv II expresses
+  wishes and hypotheticals — what would happen if…").
+- **German** for instructions the learner has already seen in A2 (e.g.
+  "Fülle die Lücken", "Wähle die richtige Antwort").
+
+In the yml, this means `intro:` and `instructions:` on each exercise may
+be a mix of the two languages. In `lesson.md` grammar sections, the
+explanation paragraph is in English; the example sentences are in German
+with literal English glosses for tricky structures.
+
 ### Block H — Hören (comes FIRST, before Block A; not counted in 28–32 target)
 
 Block H contains **four exercise types** (H1, H3, H4 every lesson; H2 A1/01–04 only):
