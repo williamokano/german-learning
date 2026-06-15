@@ -1,0 +1,1021 @@
+lesson: A2/08
+title: "A2 · Lektion 8 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - { q: "Anna möchte eine schwarze Jacke kaufen.", answer: true, why: "Anna möchte eine schwarze Jacke kaufen." }
+      - { q: "Die Jacke, die Anna sieht, hat einen blauen Kragen.", answer: false, why: "Die Jacke hat einen roten Kragen, nicht einen blauen." }
+      - { q: "Bruno findet den grünen Schal passend zur Jacke.", answer: true, why: "Bruno findet den grünen Schal passend." }
+      - { q: "Am Ende kauft Anna nur die Jacke, aber nicht den Schal.", answer: false, why: "Anna kauft sowohl die Jacke als auch den Schal." }
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Frau Weber sucht ein Geschenk für …"
+        options:
+          - { key: a, text: "ihre Tochter" }
+          - { key: b, text: "ihren Mann" }
+          - { key: c, text: "ihren Sohn" }
+        answer: b
+        why: "ihren Mann."
+      - q: "Welche Farbe bevorzugt Frau Webers Mann?"
+        options:
+          - { key: a, text: "Helle Farben wie Weiß und Gelb" }
+          - { key: b, text: "Dunkle Farben wie Marineblau und Schwarz" }
+          - { key: c, text: "Bunte Farben wie Rot und Grün" }
+        answer: b
+        why: "Dunkle Farben wie Marineblau und Schwarz."
+      - q: "Was empfiehlt Herr Steinmeyer zuerst?"
+        options:
+          - { key: a, text: "Ein weißes Hemd" }
+          - { key: b, text: "Einen marineblauen Anzug" }
+          - { key: c, text: "Einen marineblauen Pullover" }
+        answer: c
+        why: "Einen marineblauen Pullover."
+      - q: "Was nimmt Frau Weber am Ende?"
+        options:
+          - { key: a, text: "Nur den Pullover" }
+          - { key: b, text: "Den Pullover und das Hemd" }
+          - { key: c, text: "Den Pullover und eine Krawatte" }
+        answer: b
+        why: "Den Pullover und das Hemd."
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill in the 7 missing words. Three words in the box are not needed."
+    text: |
+      Yuki wohnt in München und hat heute einen {1} Termin. Sie zieht sich sorgfältig an. Zuerst wählt sie ein {2} Hemd und eine {3} Hose. Dann sucht sie eine passende Jacke — sie findet eine {4} {5} Jacke im Schrank. Mit dem neuen Outfit fühlt sie sich {6}. Schließlich nimmt sie noch eine {7} schwarze Tasche und verlässt die Wohnung.
+    bank: [wichtigen, weißes, dunkle, elegante, graue, selbstbewusst, kleine, nervös, bunte, schwarze]
+    answers:
+      "1": wichtigen
+      "2": weißes
+      "3": dunkle
+      "4": elegante
+      "5": graue
+      "6": selbstbewusst
+      "7": kleine
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Modenschau im Modehaus"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    transcript: 'Achtung, eine Durchsage. Liebe Kundinnen und Kunden, unser Modehaus „Stilvoll" lädt Sie herzlich zur neuen Frühjahrskollektion ein. Ab fünfzehn Uhr gibt es eine exklusive Modenschau im ersten Stock. Außerdem bieten wir heute zwanzig Prozent Rabatt auf alle Sommermäntel und elegante Blusen. Die Aktion gilt nur bis achtzehn Uhr und nur heute. Wir freuen uns auf Ihren Besuch.'
+    items:
+      - q: 'Wozu lädt das Modehaus „Stilvoll" ein?'
+        options:
+          - { key: a, text: "Zu einer Modenschau." }
+          - { key: b, text: "Zur neuen Frühjahrskollektion und einer Modenschau." }
+          - { key: c, text: "Zu einem großen Sale." }
+        answer: b
+        why: "Zur neuen Frühjahrskollektion und einer Modenschau."
+      - q: "Wann beginnt die Modenschau?"
+        options:
+          - { key: a, text: "Um vierzehn Uhr." }
+          - { key: b, text: "Um fünfzehn Uhr." }
+          - { key: c, text: "Um sechzehn Uhr." }
+        answer: b
+        why: "Ab fünfzehn Uhr."
+      - q: "Wie viel Rabatt gibt es auf Sommermäntel?"
+        options:
+          - { key: a, text: "Zehn Prozent." }
+          - { key: b, text: "Fünfzehn Prozent." }
+          - { key: c, text: "Zwanzig Prozent." }
+        answer: c
+        why: "Zwanzig Prozent."
+      - q: "Bis wann gilt die Rabattaktion?"
+        options:
+          - { key: a, text: "Nur bis heute achtzehn Uhr." }
+          - { key: b, text: "Bis morgen." }
+          - { key: c, text: "Bis Ende der Woche." }
+        answer: a
+        why: "Nur bis achtzehn Uhr und nur heute."
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Schwache Deklination: Tabelle ausfüllen (groß, def. art.)"
+    instructions: "Fill in the weak ending after the definite article. The gap is the ending letter(s)."
+    text: |
+      Nom. M: der groß{1} Mann
+      Nom. F: die groß{2} Frau
+      Nom. N: das groß{3} Haus
+      Nom. Pl: die groß{4} Häuser
+      Akk. M: den groß{5} Mann
+      Akk. F: die groß{6} Frau
+      Akk. N: das groß{7} Haus
+      Akk. Pl: die groß{8} Häuser
+      Dat. M: dem groß{9} Mann
+      Dat. F: der groß{10} Frau
+      Dat. N: dem groß{11} Haus
+      Dat. Pl: den groß{12} Häusern
+    answers:
+      "1": e
+      "2": e
+      "3": e
+      "4": en
+      "5": en
+      "6": e
+      "7": e
+      "8": en
+      "9": en
+      "10": en
+      "11": en
+      "12": en
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Deklination: Tabelle ausfüllen (alt, indef. art.)"
+    instructions: "Fill in the mixed ending after the indefinite article."
+    text: |
+      Nom. M: ein alt{1} Mann
+      Nom. F: eine alt{2} Frau
+      Nom. N: ein alt{3} Haus
+      Nom. Pl: keine alt{4} Häuser
+      Akk. M: einen alt{5} Mann
+      Akk. F: eine alt{6} Frau
+      Akk. N: ein alt{7} Haus
+      Akk. Pl: keine alt{8} Häuser
+      Dat. M: einem alt{9} Mann
+      Dat. F: einer alt{10} Frau
+      Dat. N: einem alt{11} Haus
+      Dat. Pl: keinen alt{12} Häusern
+    answers:
+      "1": er
+      "2": e
+      "3": es
+      "4": en
+      "5": en
+      "6": e
+      "7": es
+      "8": en
+      "9": en
+      "10": en
+      "11": en
+      "12": en
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Adjektivendungen nach dem bestimmten Artikel (Nominativ)"
+    instructions: "Add the correct ending. 8 items."
+    text: |
+      1. der rot{1} Schal
+      2. die schwarz{2} Jacke
+      3. das weiß{3} Hemd
+      4. die alt{4} Schuhe (pl.)
+      5. der modern{5} Laptop
+      6. die groß{6} Tasche
+      7. das neu{7} Kleid
+      8. die bequem{8} Stiefel (pl.)
+    answers:
+      "1": e
+      "2": e
+      "3": e
+      "4": en
+      "5": e
+      "6": e
+      "7": e
+      "8": en
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Adjektivendungen nach dem bestimmten Artikel (Akkusativ)"
+    instructions: "Add the correct ending. 8 items."
+    text: |
+      1. Ich kaufe den blau{1} Schal.
+      2. Sie trägt die elegant{2} Bluse.
+      3. Er sucht das grün{3} Hemd.
+      4. Wir sehen die alt{4} Häuser.
+      5. Ich nehme den schwarz{5} Mantel.
+      6. Sie mag das rot{6} Kleid.
+      7. Er trägt die neu{7} Schuhe.
+      8. Ich kaufe den klein{8} Rucksack.
+    answers:
+      "1": en
+      "2": e
+      "3": e
+      "4": en
+      "5": en
+      "6": e
+      "7": en
+      "8": en
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Adjektivendungen nach dem bestimmten Artikel (Dativ)"
+    instructions: "Add the correct ending. 8 items."
+    text: |
+      1. Mit dem grün{1} Schal siehst du toll aus.
+      2. Sie hilft dem alt{2} Mann.
+      3. Er kommt mit der neu{3} Kollegin.
+      4. Ich spreche mit dem freundlich{4} Verkäufer.
+      5. Sie fährt mit dem schnell{5} Zug.
+      6. Er wohnt in dem groß{6} Haus.
+      7. Wir helfen den klein{7} Kindern.
+      8. Mit der schwarz{8} Jacke sieht sie sehr schick aus.
+    answers:
+      "1": en
+      "2": en
+      "3": en
+      "4": en
+      "5": en
+      "6": en
+      "7": en
+      "8": en
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Adjektivendungen nach dem unbestimmten Artikel (Nominativ)"
+    instructions: "Add the correct ending. 10 items."
+    text: |
+      1. ein rot{1} Schal (m)
+      2. eine groß{2} Tasche (f)
+      3. ein neu{3} Hemd (n)
+      4. kein alt{4} Computer (m)
+      5. eine elegant{5} Bluse (f)
+      6. ein klein{6} Kind (n)
+      7. kein teuer{7} Anzug (m)
+      8. eine bunt{8} Mütze (f)
+      9. ein warm{9} Mantel (m)
+      10. keine schwarz{10} Schuhe (pl.)
+    answers:
+      "1": er
+      "2": e
+      "3": es
+      "4": er
+      "5": e
+      "6": es
+      "7": er
+      "8": e
+      "9": er
+      "10": en
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Adjektivendungen nach dem unbestimmten Artikel (Akkusativ)"
+    instructions: "Add the correct ending. 8 items."
+    text: |
+      1. Ich kaufe einen blau{1} Schal.
+      2. Er sucht eine modern{2} Jacke.
+      3. Sie trägt ein weiß{3} Hemd.
+      4. Ich habe keinen rot{4} Pullover.
+      5. Er kauft eine elegant{5} Krawatte.
+      6. Wir suchen ein groß{6} Zimmer.
+      7. Ich brauche einen warm{7} Mantel.
+      8. Sie hat keine alt{8} Möbel.
+    answers:
+      "1": en
+      "2": e
+      "3": es
+      "4": en
+      "5": e
+      "6": es
+      "7": en
+      "8": en
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Adjektivendungen nach dem unbestimmten Artikel (Dativ)"
+    instructions: "Add the correct ending. 8 items."
+    text: |
+      1. Er kommt mit einem alt{1} Freund.
+      2. Sie hilft einer klein{2} Frau.
+      3. Ich arbeite in einem groß{3} Büro.
+      4. Er fährt mit einem neu{4} Auto.
+      5. Sie spricht mit einer nett{5} Kollegin.
+      6. Ich wohne bei einer freundlich{6} Familie.
+      7. Er lernt von einem gut{7} Lehrer.
+      8. Sie kommt aus einem warm{8} Land.
+    answers:
+      "1": en
+      "2": en
+      "3": en
+      "4": en
+      "5": en
+      "6": en
+      "7": en
+      "8": en
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Gemischt: Adjektivendungen"
+    instructions: "Add the correct ending. 10 items."
+    text: |
+      1. Wo ist der neu{1} Schal?
+      2. Ich brauche eine groß{2} Tasche.
+      3. Das ist ein schön{3} Tag!
+      4. Ich nehme den schwarz{4} Mantel.
+      5. Sie trägt die elegant{5} Bluse.
+      6. Er hat einen alt{6} Hund.
+      7. Das ist das rot{7} Kleid.
+      8. Ich sehe die klein{8} Kinder.
+      9. Ich kaufe ein weiß{9} Hemd.
+      10. Hast du den marineblau{10} Pullover gesehen?
+    answers:
+      "1": e
+      "2": e
+      "3": er
+      "4": en
+      "5": e
+      "6": en
+      "7": e
+      "8": en
+      "9": es
+      "10": en
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Possessiva: mein/dein/sein/ihr + Adjektiv"
+    instructions: "Add the correct possessive ending AND the adjective ending. Each item has two gaps."
+    text: |
+      1. Ich suche mein{1} rot{2} Schal. (m, Akk)
+      2. Das ist sein{3} neu{4} Jacke. (f, Nom)
+      3. Sie mag ihr{5} alt{6} Hut nicht. (m, Akk)
+      4. Ich helfe mein{7} klein{8} Bruder. (m, Dat)
+      5. Er trägt sein{9} elegant{10} Anzug. (m, Akk)
+      6. Das ist ihr{11} schön{12} Kleid. (n, Nom)
+      7. Wir besuchen unser{13} alt{14} Freunde. (pl., Akk)
+      8. Sie fährt mit ihr{15} neu{16} Auto. (n, Dat)
+    answers:
+      "1": en
+      "2": en
+      "3": e
+      "4": e
+      "5": en
+      "6": en
+      "7": em
+      "8": en
+      "9": en
+      "10": en
+      "11": ""
+      "12": es
+      "13": e
+      "14": en
+      "15": em
+      "16": en
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Substitutionsübung"
+    instructions: "Rewrite the sentence changing the noun + adjective to the new gender or case shown. Write the correct adjective ending in the gap."
+    text: |
+      1. Das ist ein alt{1} Kind. (Neut, Nom)
+      2. Ich sehe die rot{2} Jacke. (Fem, Akk)
+      3. Sie trägt einen elegant{3} Schal. (Mask, Akk)
+      4. Er kommt mit der neu{4} Freundin. (Fem, Dat)
+      5. Das ist mein neu{5} Wagen. (Mask, Nom)
+      6. Ich kaufe den alt{6} Roman. (Sg., Mask, Akk)
+    answers:
+      "1": es
+      "2": e
+      "3": en
+      "4": en
+      "5": er
+      "6": en
+
+  - id: A12
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Schnelldrill: nur die Endung"
+    instructions: "Write only the missing ending (e, en, er, or es). 10 items."
+    text: |
+      1. ein schön{1} Kleid (n, Nom)
+      2. der alt{2} Mann (m, Nom)
+      3. mit der schwarz{3} Tasche (f, Dat)
+      4. keine bunt{4} Schuhe (pl., Akk)
+      5. ein elegant{5} Schal (m, Nom)
+      6. den grün{6} Pullover (m, Akk)
+      7. einer freundlich{7} Frau (f, Dat)
+      8. das neu{8} Hemd (n, Nom)
+      9. meinen alt{9} Vater (m, Akk)
+      10. die klein{10} Kinder (pl., Nom)
+    answers:
+      "1": es
+      "2": e
+      "3": en
+      "4": en
+      "5": er
+      "6": en
+      "7": en
+      "8": e
+      "9": en
+      "10": en
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen"
+    instructions: "Fill in the blanks with the adjective in the correct form. 12 gaps."
+    text: |
+      — Entschuldigung, ich suche eine Jacke für meinen Bruder. Er mag {1} (dunkel) Farben.
+      — Sehr gut. Wir haben diesen {2} (schwarz) Mantel hier — er ist sehr {3} (elegant).
+      — Hm, der {4} (schwarz) Mantel ist sehr schön, aber etwas zu groß. Haben Sie einen {5} (klein) ?
+      — Ja, hier ist ein {6} (ähnlich) Modell in einer {7} (klein) Größe. Und dieser {8} (grau) Mantel ist auch eine gute Alternative.
+      — Ich finde den {9} (grau) Mantel besser. Haben Sie auch ein {10} (passend) Hemd dazu?
+      — Natürlich! Dieses {11} (weiß) Hemd passt sehr gut zum {12} (grau) Mantel.
+      — Perfekt, ich nehme beides.
+    answers:
+      "1": dunkle
+      "2": schwarzen
+      "3": elegant
+      "4": schwarze
+      "5": kleineren
+      "6": ähnliches
+      "7": kleineren
+      "8": graue
+      "9": grauen
+      "10": passendes
+      "11": weiße
+      "12": grauen
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler"
+    instructions: "Each sentence has exactly one mistake in the adjective ending. Write the corrected ending in the gap."
+    text: |
+      1. Das ist ein alt{1} Mantel. (Nom Mask indef. → ?)
+      2. Ich kaufe den rot{2} Schal. (Akk Mask def. → ?)
+      3. Sie trägt eine elegant{3} Bluse. (Akk Fem indef. → ?)
+      4. Er sucht ein neu{4} Hemd. (Akk Neut indef. → ?)
+      5. Das ist der schön{5} Abend! *(indefinite article intended)* (Nom Mask indef. → ?)
+      6. Er kommt mit dem neu{6} Freund. (Dat Mask def. → ?)
+      7. Das sind keine alt{7} Schuhe. (Pl → ?)
+      8. Sie mag das schwarz{8} Kleid. (Akk Neut def. → ?)
+      9. Er trägt ein elegant{9} Anzug. (m → article + ending)
+      10. Mit der blau{10} Jacke siehst du toll aus. (Dat Fem def. → ?)
+    answers:
+      "1": er
+      "2": en
+      "3": e
+      "4": es
+      "5": er
+      "6": en
+      "7": en
+      "8": e
+      "9": "en (and article should be einen)"
+      "10": en
+
+  - id: B3
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    left:
+      - { key: "1", text: "Wie findest du das rote Kleid?" }
+      - { key: "2", text: "Kaufst du den schwarzen Pullover?" }
+      - { key: "3", text: "Womit fährst du zur Party?" }
+      - { key: "4", text: "Hast du einen roten Schal?" }
+      - { key: "5", text: "Passt die weiße Bluse zur Hose?" }
+      - { key: "6", text: "Wem hilfst du?" }
+      - { key: "7", text: "Welches Hemd trägst du?" }
+      - { key: "8", text: "Welchen Mantel empfiehlst du?" }
+    right:
+      - { key: a, text: "Ja, der schwarze ist sehr schick." }
+      - { key: b, text: "Mit der neuen Jacke." }
+      - { key: c, text: "Nein, einen grünen." }
+      - { key: d, text: "Ich finde das blaue schöner." }
+      - { key: e, text: "Meinem alten Onkel." }
+      - { key: f, text: "Ja, perfekt!" }
+      - { key: g, text: "Das weiße — es ist am bequemsten." }
+      - { key: h, text: "Den dunklen hier." }
+    answers:
+      "1": d
+      "2": a
+      "3": b
+      "4": c
+      "5": f
+      "6": e
+      "7": g
+      "8": h
+
+  - id: B4
+    block: B
+    type: order
+    title: "Satzbau: Adjektiv + Nomen"
+    instructions: "Build correct sentences. Use the adjective in the correct form."
+    items:
+      - tiles: [Ich, kaufen, ein, rotes, Kleid]
+        answer: [0, 1, 2, 3, 4]
+        note: "Ich kaufe ein rotes Kleid."
+      - tiles: [Das ist, meine, neue, Kollegin]
+        answer: [0, 1, 2, 3]
+        note: "Das ist meine neue Kollegin."
+      - tiles: [Er, tragen, den, schwarzen, Mantel]
+        answer: [0, 1, 2, 3, 4]
+        note: "Er trägt den schwarzen Mantel."
+      - tiles: [Wir, helfen, dem, alten, Mann]
+        answer: [0, 1, 2, 3, 4]
+        note: "Wir helfen dem alten Mann."
+      - tiles: [Sie, suchen, eine, moderne, Wohnung]
+        answer: [0, 1, 2, 3, 4]
+        note: "Sie suchen eine moderne Wohnung."
+      - tiles: [Das Kind, spielen, mit, einem, kleinen, Ball]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Das Kind spielt mit einem kleinen Ball."
+      - tiles: [Ich, sehen, die, bunten, Bilder]
+        answer: [0, 1, 2, 3, 4]
+        note: "Ich sehe die bunten Bilder."
+      - tiles: [Er, fahren, mit, seinem, neuen, Auto]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Er fährt mit seinem neuen Auto."
+
+  - id: B5
+    block: B
+    type: free-write
+    title: "Kleidung beschreiben"
+    prompt: "Describe the following outfits using the correct adjective + noun form. Write one sentence per item."
+    stimulus: |
+      Example: (der Mantel / schwarz, Akk) → Ich kaufe den schwarzen Mantel.
+
+      1. (die Jacke / rot, Nom) — Das ist eine ____ Jacke.
+      2. (der Schal / grün, Akk) — Ich nehme den ____ Schal.
+      3. (das Hemd / weiß, Nom, indef.) — Er trägt ein ____ Hemd.
+      4. (die Schuhe / alt, Dat pl.) — Sie läuft mit den ____ Schuhen.
+      5. (der Anzug / elegant, Nom, indef.) — Das ist ein ____ Anzug.
+      6. (die Mütze / bunt, Akk) — Ich kaufe die ____ Mütze.
+    model: |
+      1. Das ist eine rote Jacke. (Nom Fem indef. → -e)
+      2. Ich nehme den grünen Schal. (Akk Mask def. → -en)
+      3. Er trägt ein weißes Hemd. (Nom/Akk Neut indef. → -es)
+      4. Sie läuft mit den alten Schuhen. (Dat Pl def. → -en)
+      5. Das ist ein eleganter Anzug. (Nom Mask indef. → -er)
+      6. Ich kaufe die bunte Mütze. (Akk Fem def. → -e)
+
+  - id: B6
+    block: B
+    type: free-write
+    title: "Übersetzen (EN → DE)"
+    prompt: "Translate each English sentence into German with the correct adjective ending."
+    stimulus: |
+      1. I'm looking for a red jacket.
+      2. That is a beautiful new dress.
+      3. She's wearing the elegant blouse.
+      4. He comes with his old friend (m).
+      5. We need a large bag.
+      6. Do you like the dark blue pullover? (informal)
+      7. I'm buying the grey scarf and the white shirt.
+      8. That old coat is not warm enough.
+    model: |
+      1. Ich suche eine rote Jacke.
+      2. Das ist ein schönes neues Kleid.
+      3. Sie trägt die elegante Bluse.
+      4. Er kommt mit seinem alten Freund.
+      5. Wir brauchen eine große Tasche.
+      6. Magst du den dunkelblauen Pullover?
+      7. Ich kaufe den grauen Schal und das weiße Hemd.
+      8. Der alte Mantel ist nicht warm genug.
+
+  - id: B7
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Adjektive vor und nach dem Nomen"
+    instructions: "Decide: predicative (no ending) or attributive (with ending). Write the ending where needed."
+    text: |
+      1. Die Jacke ist schön (no change).
+      2. Das ist eine schön{1} Jacke.
+      3. Der Schal ist rot (no change).
+      4. Ich kaufe den rot{2} Schal.
+      5. Die Schuhe sind bequem (no change).
+      6. Ich suche bequeme alt{3} Schuhe. (no preceding article)
+      7. Das Hemd ist neu (no change).
+      8. Er trägt ein neu{4} Hemd.
+    answers:
+      "1": e
+      "2": en
+      "3": e
+      "4": es
+
+  - id: B8
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "dieser / welcher + Adjektiv"
+    instructions: "Fill in `dieser` (or `welcher`) AND the adjective ending. Each item has 2 gaps."
+    text: |
+      1. {1} groß{2} Mantel kostet 200 Euro.
+      2. Wie findest du {3} rot{4} Kleid?
+      3. Ich mag {5} alt{6} Schuhe nicht.
+      4. Mit {7} schwarz{8} Tasche siehst du schick aus.
+      5. {9} neu{10} Jacke gehört dir? (welcher)
+    answers:
+      "1": Dieser
+      "2": e
+      "3": dieses
+      "4": e
+      "5": diese
+      "6": en
+      "7": dieser
+      "8": en
+      "9": Welche
+      "10": e
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Foto-Beschreibung: Outfit auf der Party"
+    prompt: "Schreib eine kurze Bildbeschreibung für Leos Blog in 4–5 Sätzen. Beschreib das Outfit und die Atmosphäre der Party."
+    use:
+      - "at least 2 sentences with an adjective + noun phrase in Nominativ (describing the scene)"
+      - "at least 1 sentence with an adjective + noun in Akkusativ (what the person is wearing/holding)"
+      - "at least 1 sentence with `dieser` + adjective + noun"
+      - "at least 2 different adjective declension patterns (def. vs. indef. vs. no article)"
+    selfCheck:
+      - "Did I use the correct adjective ending: -e / -en / -er / -es — for each gender and case?"
+      - "Did I remember -en in plural and in Dativ (after der, dieser, jener, welcher)?"
+      - "Did I use `dieser` correctly?"
+    model: |
+      Auf dem Foto sieht man eine junge Frau auf einer Gartenparty. Sie
+      trägt eine helle Bluse und eine enge dunkle Hose. Diese lederne
+      Jacke passt perfekt zu den braunen Schuhen. In der linken Hand
+      hält sie eine kleine schwarze Tasche. Im Hintergrund sieht man
+      bunte Lichterketten und einen großen weißen Tisch mit Getränken.
+      Dieser Abend sieht wirklich gemütlich aus!
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext"
+    instructions: "Fill each gap with one word (usually the adjective ending or the full adjective+ending form)."
+    text: |
+      Anna ist in einem {1} Modegeschäft in Berlin. Die Verkäuferin zeigt ihr ein
+      {2} Kleid — es ist rot und sehr elegant. Anna probiert das {3}
+      Kleid an, aber es ist zu eng. Die Verkäuferin bringt dann ein {4} Modell in
+      einer {5} Größe. Das {6} Kleid sitzt perfekt. Anna fragt nach einem
+      {7} Schal dazu. Die Verkäuferin empfiehlt einen {8} Schal — er
+      ist aus {9} Seide und passt gut zum {10} Kleid.
+    answers:
+      "1": kleinen
+      "2": elegantes
+      "3": rote
+      "4": neues
+      "5": größeren
+      "6": neue
+      "7": passenden
+      "8": schwarzen
+      "9": weicher
+      "10": roten
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Ich habe gestern einen (1) ____ Mantel gekauft."
+        options:
+          - { key: a, text: "neuen" }
+          - { key: b, text: "neue" }
+          - { key: c, text: "neuer" }
+        answer: a
+        why: "Akk Mask def.: einen neuen Mantel → -en."
+      - q: "Er ist dunkelblau — das ist meine (2) ____ Lieblingsfarbe."
+        options:
+          - { key: a, text: "absolute" }
+          - { key: b, text: "absoluter" }
+          - { key: c, text: "absolute" }
+        answer: c
+        why: "Nom Fem indef. (meine = poss): meine absolute → -e."
+      - q: "Im Laden hat mir eine (3) ____ Verkäuferin geholfen."
+        options:
+          - { key: a, text: "freundlichen" }
+          - { key: b, text: "freundliche" }
+          - { key: c, text: "freundlicher" }
+        answer: b
+        why: "Nom Fem indef.: eine freundliche → -e."
+      - q: "Sie hat mir auch ein (4) ____ weißes Hemd gezeigt."
+        options:
+          - { key: a, text: "schönes" }
+          - { key: b, text: "schöne" }
+          - { key: c, text: "schöner" }
+        answer: a
+        why: "Nom/Akk Neut indef.: ein schönes → -es."
+      - q: "Mit dem (5) ____ Outfit sehe ich wirklich gut aus."
+        options:
+          - { key: a, text: "neuen" }
+          - { key: b, text: "neue" }
+          - { key: c, text: "neues" }
+        answer: a
+        why: "Dat Neut def. (mit dem): dem neuen Outfit → -en."
+      - q: "Ich trage jetzt auch meinen (6) ____ Schal dazu — den hellen grauen."
+        options:
+          - { key: a, text: "langen" }
+          - { key: b, text: "langer" }
+          - { key: c, text: "lange" }
+        answer: a
+        why: "Akk Mask poss.: meinen langen → -en."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
+    text: |
+      — Guten Tag! Ich suche eine {1} Jacke — etwas Modernes.
+      — Ich empfehle Ihnen die {2} Jacke aus unserer Kollektion.
+      — Schön! Und auch eine {3} Hose dazu.
+      — Natürlich. Bevorzugen Sie {4} Hemden oder eher neutrale Farben?
+      — Ich sehe den {5} Schal dort — wie viel kostet er?
+      — Zwanzig Euro. Wir haben auch einen {6} Schal aus Kaschmir, etwas günstiger.
+      — Gut. Und einen {7} Pullover in Größe L — haben Sie einen?
+      — Ja, aus dem {8} Bestand, gerade reduziert.
+      — Wunderbar! Ein {9} Hemd für meinen Vater — hätten Sie eins?
+      — Natürlich. Frischer {10} Tee ist auch gerade im Angebot!
+    bank: [ALTEN, BLAUE, BLAUEN, BRAUNEN, BUNTEN, ELEGANTE, ELEGANTEN, GRAUEN, GRÜNER, HELLEN, KLEINEN, LANGEN, MODERNEN, NEUE, NEUEN, ROTEN, SCHWARZE, SCHWARZEN, WARMEN, WEISSES]
+    answers:
+      "1": NEUE
+      "2": ELEGANTE
+      "3": SCHWARZE
+      "4": BLAUE
+      "5": BLAUEN
+      "6": GRAUEN
+      "7": NEUEN
+      "8": ALTEN
+      "9": WEISSES
+      "10": GRÜNER
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: 'Lesen Text 1 — „Annas neuer Stil"'
+    instructions: "Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?"
+    items:
+      - { q: "Anna hat früher immer elegante Kleidung getragen.", answer: false, why: "Anna hat früher sportliche, bequeme Kleidung getragen, nicht elegante." }
+      - { q: "Sie hat einen Artikel in einer Modezeitschrift gelesen.", answer: true, why: "Sie hat einen Artikel in einer Modezeitschrift gelesen." }
+      - { q: "Anna hat das Modegeschäft in München besucht.", answer: false, why: "Das Modegeschäft ist in Berlin, nicht München." }
+      - { q: "Die Verkäuferin hat Anna mit der Wahl geholfen.", answer: true, why: "Die Verkäuferin hat Anna mit der Wahl geholfen." }
+      - { q: "Bruno hat Annas neuen Stil sofort wiedererkannt.", answer: false, why: "Bruno hat Annas neuen Stil nicht wiedererkannt." }
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Forumspost — Lea)"
+    instructions: |
+      > Hallo! Ich bin Lea, 29 Jahre alt, und ich interessiere mich sehr für Mode. Letzte Woche habe ich einen tollen Wintermantel gefunden — dunkelgrün, lang, mit einem schwarzen Kragen. Er war teuer, aber ich finde, ein guter Mantel ist eine wichtige Investition. Meine beste Freundin hat denselben Mantel in Braun gekauft. Ihr brauner Mantel sieht auch sehr schick aus, aber ich finde meinen dunkelgrünen einfach schöner. Was meint ihr — Grün oder Braun?
+
+      Wähle a, b oder c.
+    items:
+      - q: "Was hat Lea letzte Woche gekauft?"
+        options:
+          - { key: a, text: "Eine grüne Jacke" }
+          - { key: b, text: "Einen Wintermantel" }
+          - { key: c, text: "Einen Schal" }
+        answer: b
+        why: "Einen Wintermantel."
+      - q: "Wie ist der Kragen von Leas Mantel?"
+        options:
+          - { key: a, text: "Dunkelgrün" }
+          - { key: b, text: "Braun" }
+          - { key: c, text: "Schwarz" }
+        answer: c
+        why: "Schwarz."
+      - q: "Was denkt Lea über teure Kleidung?"
+        options:
+          - { key: a, text: "Sie ist immer zu teuer." }
+          - { key: b, text: "Ein guter Mantel ist es wert." }
+          - { key: c, text: "Sie kauft nie teure Kleidung." }
+        answer: b
+        why: "Ein guter Mantel ist es wert."
+      - q: "Was hat Leas Freundin gekauft?"
+        options:
+          - { key: a, text: "Denselben Mantel in Grün" }
+          - { key: b, text: "Denselben Mantel in Braun" }
+          - { key: c, text: "Eine andere Jacke" }
+        answer: b
+        why: "Denselben Mantel in Braun."
+      - q: "Welchen Mantel findet Lea schöner?"
+        options:
+          - { key: a, text: "Den braunen ihrer Freundin" }
+          - { key: b, text: "Beide gleich" }
+          - { key: c, text: "Ihren eigenen dunkelgrünen" }
+        answer: c
+        why: "Ihren eigenen dunkelgrünen."
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Geburtstagsgeschenk-E-Mail an eine Freundin"
+    prompt: "You are shopping for a friend's birthday present. Write a short email (6–8 sentences) describing what you found. Include at least 4 adjective + noun combinations (attributive, with correct endings) and at least 2 different cases."
+    use:
+      - "at least 4 adjective + noun combinations (attributive, with correct endings)"
+      - "at least 2 different cases (Nom, Akk, Dat)"
+      - "your opinion of the item and why you chose it"
+    selfCheck:
+      - "After der/die/das or dieser, are the endings mostly -en (with -e only for Nom sg. and Akk Fem/Neut)?"
+      - "After ein/eine or a possessive, did I use -er (Nom Masc) or -es (Nom/Akk Neut) where needed?"
+      - "Does each adjective agree with its noun in gender, number, and case?"
+    model: |
+      Hallo Mia! Ich war heute in einem kleinen Modegeschäft und habe ein
+      perfektes Geburtstagsgeschenk für dich gefunden. Das Geschenk ist
+      eine elegante schwarze Tasche aus Leder — sie ist nicht zu groß und
+      nicht zu klein. Ich habe auch einen bunten Seidenschal gesehen, der
+      gut zur Tasche passt. Der Schal ist rot und gelb — sehr lebhaft!
+      Ich finde, das schwarze Accessoire passt gut zu deinem Stil. Mit der
+      neuen Tasche siehst du garantiert schick aus. Ich hoffe, dir gefällt
+      das Geschenk! Bis bald, Anna.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per item. No notes. 15 items."
+    text: |
+      1. der alt{1} Mann (Nom Mask def.)
+      2. ein alt{2} Mann (Nom Mask indef.)
+      3. ein alt{3} Haus (Nom Neut indef.)
+      4. den blau{4} Schal (Akk Mask def.)
+      5. einen blau{5} Schal (Akk Mask indef.)
+      6. mit der neu{6} Jacke (Dat Fem def.)
+      7. die alt{7} Schuhe (Pl)
+      8. keine alt{8} Schuhe (Pl)
+      9. (L9) `gefallen`: Die Jacke {9} mir. (3rd sg. present)
+      10. (L3) „Ich kaufe {10} Pullover." (Akk Mask indef. — article)
+      11. (L4) „Die Hose ist {11}." (use: eng) — predicative, no ending
+      12. ein schön{12} Kleid (Akk Neut indef.)
+      13. (L9) `passen`: Diese Jacke {13} dir gut. (3rd sg. present)
+      14. mit dem alt{14} Hemd (Dat Neut def.)
+      15. (L7) Comparative of `gut`: {15}
+    answers:
+      "1": e
+      "2": er
+      "3": es
+      "4": en
+      "5": en
+      "6": en
+      "7": en
+      "8": en
+      "9": gefällt
+      "10": einen
+      "11": eng
+      "12": es
+      "13": passt
+      "14": en
+      "15": besser
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Cross out the word that doesn't fit."
+    groups:
+      - items: [Jacke, Schal, Hemd, Fenster]
+        odd: 3
+        why: "das Fenster is not a clothing item; the others are."
+      - items: [schwarz, elegant, gestreift, kariert]
+        odd: 1
+        why: "elegant is the only non-visual-pattern/color adjective."
+      - items: [-e, -en, -er, -iert]
+        odd: 3
+        why: "-iert is not an adjective declension ending."
+      - items: [bequem, eng, warm, gestern]
+        odd: 3
+        why: "gestern is a time adverb; the others are physical-quality adjectives."
+      - items: [einen alten, ein altes, ein alter, ein alte]
+        odd: 3
+        why: "ein alte is grammatically wrong (should be eine alte Fem or ein alter Mask)."
+      - items: [Kragen, Mütze, Anzug, Wetter]
+        odd: 3
+        why: "das Wetter is not a clothing item."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: A1/L4 + A1/L9 + A2/L7"
+    text: |
+      1. (L4, A1) Predicative: „Das Zimmer ist {1} (groß)." — adjective form?
+      2. (L4, A1) „Es gibt {2} Sofa im Wohnzimmer." — Which article form?
+      3. (L9, A1) Translate: "The trousers fit me well." → {3}
+      4. (L9, A1) `dieser` — Akk Mask form: {4}
+      5. (L9, A1) Verb with Dative: „Die Schuhe {5} mir nicht." (gefallen)
+      6. (L7, A2) Comparative of `teuer`: {6}
+      7. (L7, A2) „Das blaue Kleid ist das {7} (superlative of schön) im ganzen Laden."
+      8. (L7, A2) Superlative attributive, Nom: „Das ist das {8} (gut) Modell."
+      9. (L7, A2) `als` oder `wie`: „Das rote Kleid ist teurer {9} das blaue."
+      10. (L7, A2) `als` oder `wie`: „Das rote Kleid ist so teuer {10} das blaue."
+    answers:
+      "1": groß
+      "2": "ein"
+      "3": "Die Hose passt mir gut."
+      "4": diesen
+      "5": gefallen
+      "6": teurer
+      "7": schönste
+      "8": beste
+      "9": als
+      "10": wie
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion A2/09. Below 16 → redo Block A (A1–A8) and B2 tomorrow, then retest D4."
+    text: |
+      **Nominativ endings:**
+      1. der alt{1} Mantel (Nom, m, def.)
+      2. ein neu{2} Mantel (Nom, m, indef.)
+      3. ein groß{3} Haus (Nom, n, indef.)
+      4. die schwarz{4} Tasche (Nom, f, def.)
+
+      **Akkusativ endings:**
+      5. den rot{5} Schal (Akk, m, def.)
+      6. einen rot{6} Schal (Akk, m, indef.)
+      7. ein weiß{7} Hemd (Akk, n, indef.)
+      8. die alt{8} Schuhe (Akk, pl, def.)
+
+      **Dativ endings:**
+      9. mit dem klein{9} Kind (Dat, n, def.)
+      10. mit einer neu{10} Kollegin (Dat, f, indef.)
+      11. mit meinem alt{11} Vater (Dat, m, poss.)
+
+      **Sentences (complete):**
+      12. „Das ist {12} (eine / schwarz / Jacke)." → complete the sentence
+      13. Translate: "I'm looking for a new bag." → {13}
+      14. Translate: "He wears the elegant suit." → {14}
+      15. Translate: "She comes with her old friend (f)." → {15}
+      16. Translate: "These are beautiful old shoes." → {16}
+
+      **Review:**
+      17. (L7) `als` or `wie`: Berlin ist größer {17} Wien.
+      18. (L5) Dativ reflexivpronomen, sie: {18}
+      19. (L6) `warten auf` — case: {19}
+      20. (L7) Superlative of `gut` (predicative): {20}
+    answers:
+      "1": e
+      "2": er
+      "3": es
+      "4": e
+      "5": en
+      "6": en
+      "7": es
+      "8": en
+      "9": en
+      "10": en
+      "11": en
+      "12": "eine schwarze Jacke"
+      "13": "Ich suche eine neue Tasche."
+      "14": "Er trägt den eleganten Anzug."
+      "15": "Sie kommt mit ihrer alten Freundin."
+      "16": "Das sind schöne alte Schuhe."
+      "17": als
+      "18": ihr
+      "19": accusative
+      "20": "am besten"

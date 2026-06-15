@@ -1,282 +1,156 @@
-# A2 · Lektion 8 — Lösungen (Solutions)
-
-Mirrors every exercise in order: Block H → A → B → C → D.
-Bold = the answer. One-line explanations for tricky items.
+# A2 · Lektion 8 — Lösungen (Lösungen (Answer key))
 
 ---
 
 # Block H — Hören
 
-## H1a — Dialog Hör-Check: Dialog A
+## Übung H1a — Dialog Hör-Check: Dialog A (informell)
 
 1. **R** — Anna möchte eine schwarze Jacke kaufen.
-2. **F** — Die Jacke hat einen *roten* Kragen, nicht einen blauen.
+2. **F** — Die Jacke hat einen roten Kragen, nicht einen blauen.
 3. **R** — Bruno findet den grünen Schal passend.
 4. **F** — Anna kauft sowohl die Jacke als auch den Schal.
 
-## H1b — Dialog Hör-Check: Dialog B
+## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b)** ihren Mann
-2. **b)** Dunkle Farben wie Marineblau und Schwarz
-3. **c)** Einen marineblauen Pullover
-4. **b)** Den Pullover und das Hemd
+1. **b) ihren Mann** — ihren Mann.
+2. **b) Dunkle Farben wie Marineblau und Schwarz** — Dunkle Farben wie Marineblau und Schwarz.
+3. **c) Einen marineblauen Pullover** — Einen marineblauen Pullover.
+4. **b) Den Pullover und das Hemd** — Den Pullover und das Hemd.
 
-## H3 — Hörtext-Lückentext
+## Übung H3 — Hörtext-Lückentext
 
-1. **wichtigen** — Dativ or Akkusativ modifier; here Akk Mask after `einen`: *einen wichtigen Termin* → `-en`
-2. **weißes** — Akk Neut indef.: `ein weißes Hemd` → -es ⚠️
-3. **dunkle** — Akk Fem indef.: `eine dunkle Hose` → -e
-4. **elegante** — `eine elegante … Jacke` (Akk Fem indef.) → -e
-5. **graue** — `eine elegante graue Jacke` — second adjective, same noun, same rule → -e *(when two adjectives precede a noun they both take the same ending)*
-6. **selbstbewusst** — predicative after `fühlt sie sich`, no ending
-7. **kleine** — `eine kleine schwarze Tasche` (Akk Fem indef.) → -e
+1. **wichtigen**  2. **weißes**  3. **dunkle**  4. **elegante**  5. **graue**  6. **selbstbewusst**  7. **kleine**
 
-*Unused words:* nervös, bunte, dunkel
+## Übung H4 — Kurze Ansage: Modenschau im Modehaus
 
-## H4 — Kurze Ansage: Modenschau im Modehaus
-
-1. **b) Zur neuen Frühjahrskollektion und einer Modenschau** — „unser Modehaus „Stilvoll" lädt Sie herzlich zur neuen Frühjahrskollektion ein. Ab fünfzehn Uhr gibt es eine exklusive Modenschau."
-2. **b) Um fünfzehn Uhr** — „Ab fünfzehn Uhr gibt es eine exklusive Modenschau."
-3. **c) Zwanzig Prozent** — „zwanzig Prozent Rabatt auf alle Sommermäntel und elegante Blusen."
-4. **a) Nur bis heute achtzehn Uhr** — „Die Aktion gilt nur bis achtzehn Uhr und nur heute."
+1. **b) Zur neuen Frühjahrskollektion und einer Modenschau.** — Zur neuen Frühjahrskollektion und einer Modenschau.
+2. **b) Um fünfzehn Uhr.** — Ab fünfzehn Uhr.
+3. **c) Zwanzig Prozent.** — Zwanzig Prozent.
+4. **a) Nur bis heute achtzehn Uhr.** — Nur bis achtzehn Uhr und nur heute.
 
 ---
 
 # Block A — Basistraining
 
-## A1 — Schwache Deklination: groß
+## Übung A1 — Schwache Deklination: Tabelle ausfüllen (groß, def. art.)
 
-| | Maskulinum | Femininum | Neutrum | Plural |
-|---|---|---|---|---|
-| **Nominativ** | der groß**e** Mann | die groß**e** Frau | das groß**e** Haus | die groß**en** Häuser |
-| **Akkusativ** | den groß**en** Mann | die groß**e** Frau | das groß**e** Haus | die groß**en** Häuser |
-| **Dativ** | dem groß**en** Mann | der groß**en** Frau | dem groß**en** Haus | den groß**en** Häusern |
+1. **e**  2. **e**  3. **e**  4. **en**  5. **en**  6. **e**  7. **e**  8. **en**  9. **en**  10. **en**  11. **en**  12. **en**
 
-Rule: `-e` in 5 cells (Nom m/f/n sg + Akk f/n sg); `-en` everywhere else.
+## Übung A2 — Gemischte Deklination: Tabelle ausfüllen (alt, indef. art.)
 
-## A2 — Gemischte Deklination: alt
+1. **er**  2. **e**  3. **es**  4. **en**  5. **en**  6. **e**  7. **es**  8. **en**  9. **en**  10. **en**  11. **en**  12. **en**
 
-| | Maskulinum | Femininum | Neutrum | Plural (kein) |
-|---|---|---|---|---|
-| **Nominativ** | ein alt**er** Mann | eine alt**e** Frau | ein alt**es** Haus | keine alt**en** Häuser |
-| **Akkusativ** | einen alt**en** Mann | eine alt**e** Frau | ein alt**es** Haus | keine alt**en** Häuser |
-| **Dativ** | einem alt**en** Mann | einer alt**en** Frau | einem alt**en** Haus | keinen alt**en** Häusern |
+## Übung A3 — Adjektivendungen nach dem bestimmten Artikel (Nominativ)
 
-Key: The three "strong" cells are Nom Mask (-**er**), Nom Neut (-**es**), Akk Neut (-**es**). All others: -**en**.
+1. **e**  2. **e**  3. **e**  4. **en**  5. **e**  6. **e**  7. **e**  8. **en**
 
-## A3 — Adjektivendungen nach dem bestimmten Artikel (Nominativ)
+## Übung A4 — Adjektivendungen nach dem bestimmten Artikel (Akkusativ)
 
-1. der rot**e** Schal — Nom Mask → -e
-2. die schwarz**e** Jacke — Nom Fem → -e
-3. das weiß**e** Hemd — Nom Neut → -e
-4. die alt**en** Schuhe (pl.) — Nom Pl → -en
-5. der modern**e** Laptop — Nom Mask → -e
-6. die groß**e** Tasche — Nom Fem → -e
-7. das neu**e** Kleid — Nom Neut → -e
-8. die bequem**en** Stiefel (pl.) — Nom Pl → -en
+1. **en**  2. **e**  3. **e**  4. **en**  5. **en**  6. **e**  7. **en**  8. **en**
 
-## A4 — Adjektivendungen nach dem bestimmten Artikel (Akkusativ)
+## Übung A5 — Adjektivendungen nach dem bestimmten Artikel (Dativ)
 
-1. den blau**en** Schal — Akk Mask → -en
-2. die elegant**e** Bluse — Akk Fem → -e
-3. das grün**e** Hemd — Akk Neut → -e
-4. die alt**en** Häuser — Akk Pl → -en
-5. den schwarz**en** Mantel — Akk Mask → -en
-6. das rot**e** Kleid — Akk Neut → -e
-7. die neu**en** Schuhe — Akk Pl → -en
-8. den klein**en** Rucksack — Akk Mask → -en
+1. **en**  2. **en**  3. **en**  4. **en**  5. **en**  6. **en**  7. **en**  8. **en**
 
-## A5 — Adjektivendungen nach dem bestimmten Artikel (Dativ)
+## Übung A6 — Adjektivendungen nach dem unbestimmten Artikel (Nominativ)
 
-1. Mit dem grün**en** Schal — Dat Neut → -en
-2. dem alt**en** Mann — Dat Mask → -en
-3. mit der neu**en** Kollegin — Dat Fem → -en
-4. dem freundlich**en** Verkäufer — Dat Mask → -en
-5. dem schnell**en** Zug — Dat Mask → -en
-6. dem groß**en** Haus — Dat Neut → -en
-7. den klein**en** Kindern — Dat Pl → -en
-8. der schwarz**en** Jacke — Dat Fem → -en
+1. **er**  2. **e**  3. **es**  4. **er**  5. **e**  6. **es**  7. **er**  8. **e**  9. **er**  10. **en**
 
-## A6 — Adjektivendungen nach dem unbestimmten Artikel (Nominativ)
+## Übung A7 — Adjektivendungen nach dem unbestimmten Artikel (Akkusativ)
 
-1. ein rot**er** Schal — Nom Mask → -er ⚠️ (article `ein` gives no gender signal for m → adjective must)
-2. eine groß**e** Tasche — Nom Fem → -e (eine already marks fem)
-3. ein neu**es** Hemd — Nom Neut → -es ⚠️ (article `ein` also used for n → adjective must carry -es)
-4. kein alt**er** Computer — Nom Mask → -er (kein same as ein here)
-5. eine elegant**e** Bluse — Nom Fem → -e
-6. ein klein**es** Kind — Nom Neut → -es
-7. kein teuer**er** Anzug — Nom Mask → -er *(note: teuer drops one e → teurer)*
-8. eine bunt**e** Mütze — Nom Fem → -e
-9. ein warm**er** Mantel — Nom Mask → -er
-10. keine schwarz**en** Schuhe (pl.) — Pl Nom → -en
+1. **en**  2. **e**  3. **es**  4. **en**  5. **e**  6. **es**  7. **en**  8. **en**
 
-## A7 — Adjektivendungen nach dem unbestimmten Artikel (Akkusativ)
+## Übung A8 — Adjektivendungen nach dem unbestimmten Artikel (Dativ)
 
-1. einen blau**en** Schal — Akk Mask → -en
-2. eine modern**e** Jacke — Akk Fem → -e
-3. ein weiß**es** Hemd — Akk Neut → -es ⚠️
-4. keinen rot**en** Pullover — Akk Mask → -en
-5. eine elegant**e** Krawatte — Akk Fem → -e
-6. ein groß**es** Zimmer — Akk Neut → -es
-7. einen warm**en** Mantel — Akk Mask → -en
-8. keine alt**en** Möbel — Akk Pl → -en
+1. **en**  2. **en**  3. **en**  4. **en**  5. **en**  6. **en**  7. **en**  8. **en**
 
-## A8 — Adjektivendungen nach dem unbestimmten Artikel (Dativ)
+## Übung A9 — Gemischt: Adjektivendungen
 
-1. einem alt**en** Freund — Dat Mask → -en
-2. einer klein**en** Frau — Dat Fem → -en
-3. einem groß**en** Büro — Dat Neut → -en
-4. einem neu**en** Auto — Dat Neut → -en
-5. einer nett**en** Kollegin — Dat Fem → -en
-6. einer freundlich**en** Familie — Dat Fem → -en *(Familie is feminine)*
-7. einem gut**en** Lehrer — Dat Mask → -en
-8. einem warm**en** Land — Dat Neut → -en
+1. **e**  2. **e**  3. **er**  4. **en**  5. **e**  6. **en**  7. **e**  8. **en**  9. **es**  10. **en**
 
-## A9 — Gemischt: bestimmter oder unbestimmter Artikel?
+## Übung A10 — Possessiva: mein/dein/sein/ihr + Adjektiv
 
-1. der neu**e** Schal — def. art. Nom Mask → -e
-2. eine groß**e** Tasche — indef. art. Nom Fem → -e
-3. ein schön**er** Tag — indef. art. Nom Mask → -er ⚠️
-4. den schwarz**en** Mantel — def. art. Akk Mask → -en
-5. die elegant**e** Bluse — def. art. Akk Fem → -e
-6. einen alt**en** Hund — indef. art. Akk Mask → -en
-7. das rot**e** Kleid — def. art. Akk Neut → -e
-8. die klein**en** Kinder — def. art. Akk Pl → -en
-9. ein weiß**es** Hemd — indef. art. Akk Neut → -es ⚠️
-10. den marineblauen Pullover — def. art. Akk Mask → already fully written
+1. **en**  2. **en**  3. **e**  4. **e**  5. **en**  6. **en**  7. **em**  8. **en**  9. **en**  10. **en**  11. ****  12. **es**  13. **e**  14. **en**  15. **em**  16. **en**
 
-## A10 — Possessiva: mein/dein/sein/ihr + Adjektiv
+## Übung A11 — Substitutionsübung
 
-Possessives follow the mixed declension (same as indefinite article).
+1. **es**  2. **e**  3. **en**  4. **en**  5. **er**  6. **en**
 
-1. meinen rot**en** Schal — (m, Akk) → mein + Akk Mask = meinen; adjective -en
-2. seine neu**e** Jacke — (f, Nom) → seine; adjective -e
-3. ihren alt**en** Hut — (m, Akk) → ihren; adjective -en
-4. meinem klein**en** Bruder — (m, Dat) → meinem; adjective -en
-5. seinen elegant**en** Anzug — (m, Akk) → seinen; adjective -en
-6. ihr schön**es** Kleid — (n, Nom) → ihr; adjective -es ⚠️ (Nom Neut poss. = ihr, adjective carries -es)
-7. unsere alt**en** Freunde — (pl., Akk) → unsere; adjective -en
-8. ihrem neu**en** Auto — (n, Dat) → ihrem; adjective -en
+## Übung A12 — Schnelldrill: nur die Endung
 
-## A11 — Substitutionsübung
-
-1. ein alt**es** Kind — Nom Neut indef. → -es
-2. die rot**e** Jacke — Akk Fem def. → -e
-3. einen elegant**en** Schal — Akk Mask indef. → -en
-4. der neu**en** Freundin — Dat Fem def. → -en
-5. mein neu**er** Wagen — Nom Mask poss. → -er (possessive same as indef. → mixed → Nom Mask -er)
-6. den alt**en** Roman — Akk Mask def. → -en
-
-## A12 — Schnelldrill
-
-1. ein schön**es** Kleid — Nom/Akk Neut indef. → **es**
-2. der alt**e** Mann — Nom Mask def. → **e**
-3. der schwarz**en** Tasche — Dat Fem def. → **en**
-4. keine bunt**en** Schuhe — Pl Akk → **en**
-5. ein elegant**er** Schal — Nom Mask indef. → **er** ⚠️
-6. den grün**en** Pullover — Akk Mask def. → **en**
-7. einer freundlich**en** Frau — Dat Fem indef. → **en**
-8. das neu**e** Hemd — Nom Neut def. → **e**
-9. meinen alt**en** Vater — Akk Mask poss. → **en**
-10. die klein**en** Kinder — Nom Pl def. → **en**
+1. **es**  2. **e**  3. **en**  4. **en**  5. **er**  6. **en**  7. **en**  8. **e**  9. **en**  10. **en**
 
 ---
 
 # Block B — Vertiefung
 
-## B1 — Dialog ergänzen
+## Übung B1 — Dialog ergänzen
 
-1. **dunkle** — Akk Pl (after kein article here: "mag dunkle Farben" — no article → strong/standalone declension; at A2 level this is treated as already-handled via "predicative" feel — also fine: *dunkle Farben* uses strong endings, which students may not have drilled; accept *dunkle*)
-   *(Note: "dunkle Farben" here has no article at all — this is the strong declension, not in scope this lesson. Accept as a chunk: **dunkle Farben**.)*
-2. **schwarzen** — Akk Mask def. (`diesen schwarzen Mantel`)
-3. **elegant** — predicative after `ist` → no ending
-4. **schwarze** — Nom Mask def. (`der schwarze Mantel`)
-5. **kleineren** — comparative + Akk Mask indef. *(also fine: einen kleineren)* — or simply **kleineren** standing alone after `einen`
-6. **ähnliches** — Nom Neut indef. (`ein ähnliches Modell`) → -es ⚠️
-7. **kleineren** — Dat Fem indef. (*in einer kleineren Größe*) → -en
-8. **graue** — Nom Mask def. (*dieser graue Mantel*) → -e
-9. **grauen** — Akk Mask def. (*den grauen Mantel*) → -en
-10. **passendes** — Nom Neut indef. (*ein passendes Hemd*) → -es ⚠️
-11. **weiße** — Nom Neut def. (*Das weiße Hemd*) → -e
-12. **grauen** — Dat Mask def. (*zum grauen Mantel* = zu + dem → -en)
+1. **dunkle**  2. **schwarzen**  3. **elegant**  4. **schwarze**  5. **kleineren**  6. **ähnliches**  7. **kleineren**  8. **graue**  9. **grauen**  10. **passendes**  11. **weiße**  12. **grauen**
 
-## B2 — Finde den Fehler
+## Übung B2 — Finde den Fehler
 
-1. Das ist ein alt**er** Mantel. — *alte* ✗ → Nom Mask indef. must be **-er**
-2. Ich kaufe den rot**en** Schal. — *rote* ✗ → Akk Mask def. must be **-en**
-3. Sie trägt eine elegant**e** Bluse. — *eleganten* ✗ → Akk Fem indef. must be **-e**
-4. Er sucht ein neu**es** Hemd. — *neuen* ✗ → Akk Neut indef. must be **-es**
-5. Das ist ein schön**er** Abend! — *schöne* ✗ → Nom Mask indef. must be **-er**
-6. Er kommt mit dem neu**en** Freund. — *neuer* ✗ → Dat Mask def. must be **-en**
-7. Das sind keine alt**en** Schuhe. — *altes* ✗ → Pl must always be **-en**
-8. Sie mag das schwarz**e** Kleid. — *schwarzen* ✗ → Akk Neut def. must be **-e** *(das → Neut)*
-9. Er trägt ein**en** elegant**en** Anzug. — *ein elegantes* ✗ → Akk Mask indef.: article **einen**, adjective **-en**
-10. Mit der blau**en** Jacke siehst du toll aus. — *blaues* ✗ → Dat Fem def. must be **-en**
+1. **er**  2. **en**  3. **e**  4. **es**  5. **er**  6. **en**  7. **en**  8. **e**  9. **en (and article should be einen)**  10. **en**
 
-## B3 — Frage und Antwort verbinden
+## Übung B3 — Frage und Antwort verbinden
 
-1 → **d** (Ich finde das blaue schöner.)
-2 → **a** (Ja, der schwarze ist sehr schick.)
-3 → **b** (Mit der neuen Jacke.)
-4 → **c** (Nein, einen grünen.)
-5 → **f** (Ja, perfekt!)
-6 → **e** (Meinem alten Onkel.)
-7 → **g** (Das weiße — es ist am bequemsten.)
-8 → **h** (Den dunklen hier.)
+1 → d · 2 → a · 3 → b · 4 → c · 5 → f · 6 → e · 7 → g · 8 → h
 
-## B4 — Satzbau
+## Übung B4 — Satzbau: Adjektiv + Nomen
 
-1. Ich kaufe ein rot**es** Kleid. — Akk Neut indef. → -es
-2. Das ist meine neu**e** Kollegin. — Nom Fem poss. → -e
-3. Er trägt den schwarz**en** Mantel. — Akk Mask def. → -en
-4. Wir helfen dem alt**en** Mann. — Dat Mask def. → -en
-5. Sie suchen eine modern**e** Wohnung. — Akk Fem indef. → -e
-6. Das Kind spielt mit einem klein**en** Ball. — Dat Mask indef. → -en
-7. Ich sehe die bunt**en** Bilder. — Akk Pl def. → -en
-8. Er fährt mit seinem neu**en** Auto. — Dat Neut poss. → -en
+1. Ich kaufen ein rotes Kleid
+   _Ich kaufe ein rotes Kleid._
+2. Das ist meine neue Kollegin
+   _Das ist meine neue Kollegin._
+3. Er tragen den schwarzen Mantel
+   _Er trägt den schwarzen Mantel._
+4. Wir helfen dem alten Mann
+   _Wir helfen dem alten Mann._
+5. Sie suchen eine moderne Wohnung
+   _Sie suchen eine moderne Wohnung._
+6. Das Kind spielen mit einem kleinen Ball
+   _Das Kind spielt mit einem kleinen Ball._
+7. Ich sehen die bunten Bilder
+   _Ich sehe die bunten Bilder._
+8. Er fahren mit seinem neuen Auto
+   _Er fährt mit seinem neuen Auto._
 
-## B5 — Kleidung beschreiben
+## Übung B5 — Kleidung beschreiben
 
-1. Das ist eine rot**e** Jacke. — Nom Fem indef. → -e
-2. Ich nehme den grün**en** Schal. — Akk Mask def. → -en
-3. Er trägt ein weiß**es** Hemd. — Nom/Akk Neut indef. → -es (⚠️ trap!)
-4. Sie läuft mit den alt**en** Schuhen. — Dat Pl def. → -en
-5. Das ist ein elegant**er** Anzug. — Nom Mask indef. → -er ⚠️
-6. Ich kaufe die bunt**e** Mütze. — Akk Fem def. → -e
+Modellantwort:
 
-## B6 — Übersetzen (EN → DE)
+> 1. Das ist eine rote Jacke. (Nom Fem indef. → -e)
+> 2. Ich nehme den grünen Schal. (Akk Mask def. → -en)
+> 3. Er trägt ein weißes Hemd. (Nom/Akk Neut indef. → -es)
+> 4. Sie läuft mit den alten Schuhen. (Dat Pl def. → -en)
+> 5. Das ist ein eleganter Anzug. (Nom Mask indef. → -er)
+> 6. Ich kaufe die bunte Mütze. (Akk Fem def. → -e)
 
-1. Ich suche eine rot**e** Jacke.
-2. Das ist ein schön**es** neu**es** Kleid. *(also fine: ein wunderschönes neues Kleid)*
-3. Sie trägt die elegant**e** Bluse.
-4. Er kommt mit seinem alt**en** Freund.
-5. Wir brauchen eine groß**e** Tasche.
-6. Magst du den dunkelblau**en** Pullover? *(also fine: Gefällt dir der dunkelblaue Pullover?)*
-7. Ich kaufe den grau**en** Schal und das weiß**e** Hemd.
-8. Der alt**e** Mantel ist nicht warm genug.
+## Übung B6 — Übersetzen (EN → DE)
 
-## B7 — Adjektive vor und nach dem Nomen
+Modellantwort:
 
-1. Die Jacke ist **schön**. — predicative, no ending (already given)
-2. Das ist eine **schöne** Jacke. — Nom Fem indef. → -e
-3. Der Schal ist **rot**. — predicative, no ending
-4. Ich kaufe den **roten** Schal. — Akk Mask def. → -en
-5. Die Schuhe sind **bequem**. — predicative, no ending
-6. Ich suche bequeme **alte** Schuhe. — no preceding article → strong endings; Akk Pl strong → -e (Learner note: strong/standalone declension is beyond this lesson's core scope — accept this as a challenge item; -e is correct for Akk Pl strong)
-7. Das Hemd ist **neu**. — predicative, no ending
-8. Er trägt ein **neues** Hemd. — Akk Neut indef. → -es
+> 1. Ich suche eine rote Jacke.
+> 2. Das ist ein schönes neues Kleid.
+> 3. Sie trägt die elegante Bluse.
+> 4. Er kommt mit seinem alten Freund.
+> 5. Wir brauchen eine große Tasche.
+> 6. Magst du den dunkelblauen Pullover?
+> 7. Ich kaufe den grauen Schal und das weiße Hemd.
+> 8. Der alte Mantel ist nicht warm genug.
 
-## B8 — dieser / welcher + Adjektiv
+## Übung B7 — Adjektive vor und nach dem Nomen
 
-`dieser` follows the same endings as `der` (definite article pattern — weak declension).
+1. **e**  2. **en**  3. **e**  4. **es**
 
-1. **Dieser** groß**e** Mantel — Nom Mask: `dieser` → `er`, adjective → -e
-2. **Dieses** rot**e** Kleid — Nom/Akk Neut: `dieses` → `es`, adjective → -e
-3. **Diese** alt**en** Schuhe — Pl: `diese` → `e`, adjective → -en
-4. **Dieser** schwarz**en** Tasche — Dat Fem: `dieser`, adjective → -en
-5. **Welche** neu**e** Jacke — Nom Fem: `welche`, adjective → -e
+## Übung B8 — dieser / welcher + Adjektiv
 
-## B9 — Foto-Beschreibung: Outfit auf der Party (model answer)
+1. **Dieser**  2. **e**  3. **dieses**  4. **e**  5. **diese**  6. **en**  7. **dieser**  8. **en**  9. **Welche**  10. **e**
+
+## Übung B9 — Foto-Beschreibung: Outfit auf der Party
+
+Modellantwort:
 
 > Auf dem Foto sieht man eine junge Frau auf einer Gartenparty. Sie
 > trägt eine helle Bluse und eine enge dunkle Hose. Diese lederne
@@ -285,146 +159,91 @@ Possessives follow the mixed declension (same as indefinite article).
 > bunte Lichterketten und einen großen weißen Tisch mit Getränken.
 > Dieser Abend sieht wirklich gemütlich aus!
 
-*(A correct description: ≥2 Nom adjective+noun, ≥1 Akk adjective+noun,
-≥1 `dieser`+adjective+noun, ≥2 different declension patterns. Any
-equivalent is accepted.)*
+Selbstkorrektur:
+- [ ] Did I use the correct adjective ending: -e / -en / -er / -es — for each gender and case?
+- [ ] Did I remember -en in plural and in Dativ (after der, dieser, jener, welcher)?
+- [ ] Did I use `dieser` correctly?
 
 ---
 
 # Block C — Prüfungstraining
 
-## C1 — Lückentext
+## Übung C1 — Lückentext
 
-1. **kleinen** — Dat Mask def. (*in einem kleinen Geschäft* — actually: in *einem* → indef. Dat Mask → -en; but "einem kleinen" fits perfectly)
-2. **elegantes** — Nom Neut indef. (*ein elegantes Kleid* — gap needs adjective alone or full phrase; accept **elegantes**)
-   *(Model key:)* 1. **kleinen**, 2. **elegantes**, 3. **rote**, 4. **neues**, 5. **größeren** *(also: größeren/größeren)*, 6. **neue**, 7. **passenden**, 8. **schwarzen**, 9. **weicher**, 10. **roten**
+1. **kleinen**  2. **elegantes**  3. **rote**  4. **neues**  5. **größeren**  6. **neue**  7. **passenden**  8. **schwarzen**  9. **weicher**  10. **roten**
 
-Full model:
-> Anna ist in einem **(1) kleinen** Modegeschäft in Berlin. Die Verkäuferin zeigt ihr ein **(2) elegantes** Kleid — es ist rot und sehr elegant. Anna probiert das **(3) rote** Kleid an, aber es ist zu eng. Die Verkäuferin bringt dann ein **(4) neues** Modell in einer **(5) größeren** Größe. Das **(6) neue** Kleid sitzt perfekt. Anna fragt nach einem **(7) passenden** Schal dazu. Die Verkäuferin empfiehlt einen **(8) schwarzen** Schal — er ist aus **(9) weicher** Seide und passt gut zum **(10) roten** Kleid.
+## Übung C2 — Sprachbausteine Teil 1
 
-## C2 — Sprachbausteine Teil 1
+1. **a) neuen** — Akk Mask def.: einen neuen Mantel → -en.
+2. **c) absolute** — Nom Fem indef. (meine = poss): meine absolute → -e.
+3. **b) freundliche** — Nom Fem indef.: eine freundliche → -e.
+4. **a) schönes** — Nom/Akk Neut indef.: ein schönes → -es.
+5. **a) neuen** — Dat Neut def. (mit dem): dem neuen Outfit → -en.
+6. **a) langen** — Akk Mask poss.: meinen langen → -en.
 
-1. **a) neuen** — Akk Mask def. (`einen neuen Mantel`) → -en
-2. **c) absolute** — Nom Fem indef. (*eine absolute Lieblingsfarbe*) → -e *(also fine: "meine absolute" — Nom Fem poss. → -e)*
-3. **b) freundliche** — Nom Fem indef. (*eine freundliche Verkäuferin*) → -e
-4. **a) schönes** — Nom Neut indef. (*ein schönes weißes Hemd*) → -es ⚠️
-5. **a) neuen** — Dat Mask def. (*mit dem neuen Outfit*) → -en
-6. **a) langen** — Akk Mask poss. (*meinen langen Schal*) → -en
+## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-## C3 — Sprachbausteine Teil 2
+1. **NEUE**  2. **ELEGANTE**  3. **SCHWARZE**  4. **BLAUE**  5. **BLAUEN**  6. **GRAUEN**  7. **NEUEN**  8. **ALTEN**  9. **WEISSES**  10. **GRÜNER**
 
-| Gap | Answer | Grammar note |
-|---|---|---|
-| 1 | **NEUE** | `eine neue Jacke` — Akk Fem after `eine` (indefinite) → mixed -e |
-| 2 | **ELEGANTE** | `die elegante Jacke` — Akk Fem after `die` (definite) → weak -e |
-| 3 | **SCHWARZE** | `eine schwarze Hose` — Akk Fem after `eine` → mixed -e |
-| 4 | **BLAUE** | `blaue Hemden` — no article, Akk Pl → strong -e |
-| 5 | **BLAUEN** | `den blauen Schal` — Akk Mask after `den` → weak -en |
-| 6 | **GRAUEN** | `einen grauen Schal` — Akk Mask after `einen` → mixed -en |
-| 7 | **NEUEN** | `einen neuen Pullover` — Akk Mask after `einen` → mixed -en |
-| 8 | **ALTEN** | `dem alten Bestand` — Dat Mask after `dem` → weak -en |
-| 9 | **WEISSES** | `Ein weißes Hemd` — Nom Neut after `Ein` → mixed -es |
-| 10 | **GRÜNER** | `Frischer grüner Tee` — second adjective after another strong adj., Nom Mask → strong -er |
+## Übung C4a — Lesen Text 1 — „Annas neuer Stil"
 
-**Not needed:** BRAUNEN · BUNTEN · ELEGANTEN · HELLEN · KLEINEN · LANGEN · MODERNEN · ROTEN · SCHWARZEN · WARMEN
+1. **F** — Anna hat früher sportliche, bequeme Kleidung getragen, nicht elegante.
+2. **R** — Sie hat einen Artikel in einer Modezeitschrift gelesen.
+3. **F** — Das Modegeschäft ist in Berlin, nicht München.
+4. **R** — Die Verkäuferin hat Anna mit der Wahl geholfen.
+5. **F** — Bruno hat Annas neuen Stil nicht wiedererkannt.
 
-## C4 — Lesen
+## Übung C4b — Lesen Text 2 (Forumspost — Lea)
 
-**Text 1 — Annas neuer Stil:**
-1. **F** — Anna hat früher *sportliche, bequeme* Kleidung getragen, nicht elegante.
-2. **R**
-3. **F** — Das Modegeschäft ist in *Berlin*, nicht München.
-4. **R**
-5. **F** — Bruno hat Annas neuen Stil sofort *nicht* wiedererkannt — er fragte: „Wer bist du?"
+1. **b) Einen Wintermantel** — Einen Wintermantel.
+2. **c) Schwarz** — Schwarz.
+3. **b) Ein guter Mantel ist es wert.** — Ein guter Mantel ist es wert.
+4. **b) Denselben Mantel in Braun** — Denselben Mantel in Braun.
+5. **c) Ihren eigenen dunkelgrünen** — Ihren eigenen dunkelgrünen.
 
-**Text 2:**
-6. **b)** Einen Wintermantel
-7. **c)** Schwarz
-8. **b)** Ein guter Mantel ist es wert.
-9. **b)** Denselben Mantel in Braun
-10. **c)** Ihren eigenen dunkelgrünen
+## Übung C5 — Schreiben: Geburtstagsgeschenk-E-Mail an eine Freundin
 
-## C5 — Schreiben
+Modellantwort:
 
-**Model answer:**
-> Hallo Mia! Ich war heute in einem kleinen Modegeschäft und habe ein perfektes Geburtstagsgeschenk für dich gefunden. Das Geschenk ist eine elegante schwarze Tasche aus Leder — sie ist nicht zu groß und nicht zu klein. Ich habe auch einen bunten Seidenschal gesehen, der gut zur Tasche passt. Der Schal ist rot und gelb — sehr lebhaft! Ich finde, das schwarze Accessoire passt gut zu deinem Stil. Mit der neuen Tasche siehst du garantiert schick aus. Ich hoffe, dir gefällt das Geschenk! Bis bald, Anna.
+> Hallo Mia! Ich war heute in einem kleinen Modegeschäft und habe ein
+> perfektes Geburtstagsgeschenk für dich gefunden. Das Geschenk ist
+> eine elegante schwarze Tasche aus Leder — sie ist nicht zu groß und
+> nicht zu klein. Ich habe auch einen bunten Seidenschal gesehen, der
+> gut zur Tasche passt. Der Schal ist rot und gelb — sehr lebhaft!
+> Ich finde, das schwarze Accessoire passt gut zu deinem Stil. Mit der
+> neuen Tasche siehst du garantiert schick aus. Ich hoffe, dir gefällt
+> das Geschenk! Bis bald, Anna.
 
-**Self-check list:**
-- [ ] At least 4 adjective + noun combinations with correct endings
-- [ ] At least 2 different cases represented
-- [ ] Clear opinion and reason for the choice
-- [ ] Correct article-adjective agreement throughout
+Selbstkorrektur:
+- [ ] After der/die/das or dieser, are the endings mostly -en (with -e only for Nom sg. and Akk Fem/Neut)?
+- [ ] After ein/eine or a possessive, did I use -er (Nom Masc) or -es (Nom/Akk Neut) where needed?
+- [ ] Does each adjective agree with its noun in gender, number, and case?
 
 ---
 
 # Block D — Wiederholung & Selbsttest
 
-## D1 — Gemischter Schnelltest
+## Übung D1 — Gemischter Schnelltest
 
-1. **alte** — Nom Mask def. → -e
-2. **alter** — Nom Mask indef. → -er ⚠️
-3. **altes** — Nom Neut indef. → -es ⚠️
-4. **blauen** — Akk Mask def. → -en
-5. **blauen** — Akk Mask indef. → -en
-6. **neuen** — Dat Fem (def. or indef.) → -en
-7. **alten** — Pl def. → -en
-8. **alten** — Pl indef. → -en
-9. (L9) **gefällt** — verb `gefallen`, 3rd sg. present: *Die Jacke gefällt mir.*
-10. (L3) **einen** Pullover — Akk Mask indef. article
-11. (L4) **eng** — predicative, no ending
-12. **schönes** — Akk Neut indef. → -es ⚠️
-13. (L9) **passt** — verb `passen`, 3rd sg.: *Diese Jacke passt dir gut.*
-14. **alten** — Dat Neut def. → -en
-15. (L7) **besser** — comparative of `gut`
+1. **e**  2. **er**  3. **es**  4. **en**  5. **en**  6. **en**  7. **en**  8. **en**  9. **gefällt**  10. **einen**  11. **eng**  12. **es**  13. **passt**  14. **en**  15. **besser**
 
-## D2 — Odd one out
+## Übung D2 — Odd one out
 
-1. das **Fenster** — doesn't fit; the others are clothing items
-2. **elegant** — doesn't fit the pattern/color pattern; others are color-related patterns (schwarz = color, gestreift = pattern, kariert = pattern) — actually all could be descriptions, but *elegant* is the only non-visual-pattern/color adjective. *(also acceptable: schwarz, as the only color rather than pattern)*
-3. **-iert** — not an adjective ending for declension; -e, -en, -er are all adjective declension endings
-4. **gestern** — time adverb; the others are all adjectives describing physical qualities
-5. **ein alte** — grammatically wrong (should be *eine alte* Fem or *ein alter* Mask); the other three are all correct forms
-6. das **Wetter** — doesn't fit; the others are clothing items
+1. ~~Fenster~~ — das Fenster is not a clothing item; the others are.
+2. ~~elegant~~ — elegant is the only non-visual-pattern/color adjective.
+3. ~~-iert~~ — -iert is not an adjective declension ending.
+4. ~~gestern~~ — gestern is a time adverb; the others are physical-quality adjectives.
+5. ~~ein alte~~ — ein alte is grammatically wrong (should be eine alte Fem or ein alter Mask).
+6. ~~Wetter~~ — das Wetter is not a clothing item.
 
-## D3 — Rückblick
+## Übung D3 — Rückblick: A1/L4 + A1/L9 + A2/L7
 
-1. (L4, A1) **groß** — predicative adjective has no ending: *Das Zimmer ist groß.*
-2. (L4, A1) **ein** — *Es gibt ein Sofa* — indef. art. Akk Neut: `ein` (no ending change for Neut Akk)
-3. (L9, A1) Die Hose passt mir gut. *(also: Die Hose sitzt mir gut.)*
-4. (L9, A1) `diesen` — Akk Mask form of `dieser`
-5. (L9, A1) **gefallen**: Die Schuhe **gefallen** mir nicht.
-6. (L7, A2) **teurer** — comparative of `teuer` (double-e collapses: teuer → teurer)
-7. (L7, A2) Das blaue Kleid ist das **schönste** im ganzen Laden.
-8. (L7, A2) Das ist das **beste** Modell. — superlative attributive of `gut`; after `das` → Nom Neut def. → -e (das best**e**)
-9. (L7, A2) **als** — inequality comparison
-10. (L7, A2) **wie** — equality comparison (`so … wie`)
+1. **groß**  2. **ein**  3. **Die Hose passt mir gut.**  4. **diesen**  5. **gefallen**  6. **teurer**  7. **schönste**  8. **beste**  9. **als**  10. **wie**
 
-## D4 — Selbsttest (score yourself /20)
+## Übung D4 — Selbsttest (score yourself /20)
 
-1. der alt**e** Mantel — Nom Mask def. → **-e**
-2. ein alt**er** Mantel — Nom Mask indef. → **-er** ⚠️
-3. ein groß**es** Haus — Nom Neut indef. → **-es** ⚠️
-4. die schwarz**e** Tasche — Nom Fem def. → **-e**
-5. eine schwarz**e** Tasche — Nom Fem indef. → **-e**
-6. den rot**en** Schal — Akk Mask def. → **-en**
-7. einen rot**en** Schal — Akk Mask indef. → **-en**
-8. ein weiß**es** Hemd — Akk Neut indef. → **-es** ⚠️
-9. die alt**en** Schuhe — Akk Pl def. → **-en**
-10. keine alt**en** Schuhe — Akk Pl indef. → **-en**
-11. mit dem klein**en** Kind — Dat Neut def. → **-en**
-12. mit einem klein**en** Kind — Dat Neut indef. → **-en**
-13. mit der neu**en** Kollegin — Dat Fem def. → **-en**
-14. mit einer neu**en** Kollegin — Dat Fem indef. → **-en**
-15. mit meinem alt**en** Vater — Dat Mask poss. → **-en**
-16. Das ist eine schwarz**e** Jacke. — Nom Fem indef. → -e
-17. Ich suche eine neu**e** Tasche. — Akk Fem indef. → -e
-18. Er trägt den elegant**en** Anzug. — Akk Mask def. → -en
-19. Sie kommt mit ihrer alt**en** Freundin. — Dat Fem poss. → -en
-20. Das sind schön**e** alt**e** Schuhe. — Nom Pl (no article → strong pl. → -e; also fine: *Das sind die schönen alten Schuhe.*)
+1. **e**  2. **er**  3. **es**  4. **e**  5. **en**  6. **en**  7. **es**  8. **en**  9. **en**  10. **en**  11. **en**  12. **eine schwarze Jacke**  13. **Ich suche eine neue Tasche.**  14. **Er trägt den eleganten Anzug.**  15. **Sie kommt mit ihrer alten Freundin.**  16. **Das sind schöne alte Schuhe.**  17. **als**  18. **ihr**  19. **accusative**  20. **am besten**
 
-**Score: ____ / 20.**
-**16+ → Lektion A2/09.** Below 16 → redo Block A (A1–A8) and B2 tomorrow, then retest D4.
+---
 
-Key mistakes to watch:
-- Items 2, 3, 8: the Nom Mask/Neut and Akk Neut after indef. article → the adjective carries the strong ending (-er/-es). This is the most common trap.
-- Items 16–20: sentences require combining article choice + case + correct ending.
+**16+ / 20 → go to the next Lektion.**

@@ -1,9 +1,6 @@
 # A2 · Lektion 8 — Übungen (Exercises)
 
-Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
-**D** Wiederholung & Selbsttest. Answers in `solutions.md`.
-Tip: spread the blocks over several days — H and A on day 1, B on day 2,
-C on day 3, D on day 4 after a pause.
+Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Answers in solutions.md. Tip: spread the blocks over several days — H and A on day 1, B on day 2, C on day 3, D on day 4 after a pause.
 
 ---
 
@@ -13,12 +10,12 @@ C on day 3, D on day 4 after a pause.
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: **Richtig (R)** oder **Falsch (F)**?
+Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
-1. Anna möchte eine schwarze Jacke kaufen. ___
-2. Die Jacke, die Anna sieht, hat einen blauen Kragen. ___
-3. Bruno findet den grünen Schal passend zur Jacke. ___
-4. Am Ende kauft Anna nur die Jacke, aber nicht den Schal. ___
+1. Anna möchte eine schwarze Jacke kaufen. ( )
+2. Die Jacke, die Anna sieht, hat einen blauen Kragen. ( )
+3. Bruno findet den grünen Schal passend zur Jacke. ( )
+4. Am Ende kauft Anna nur die Jacke, aber nicht den Schal. ( )
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
@@ -26,65 +23,31 @@ Listen to Dialog A and decide: **Richtig (R)** oder **Falsch (F)**?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Frau Weber sucht ein Geschenk für …
-   a) ihre Tochter   b) ihren Mann   c) ihren Sohn
-
-2. Welche Farbe bevorzugt Frau Webers Mann?
-   a) Helle Farben wie Weiß und Gelb
-   b) Dunkle Farben wie Marineblau und Schwarz
-   c) Bunte Farben wie Rot und Grün
-
-3. Was empfiehlt Herr Steinmeyer zuerst?
-   a) Ein weißes Hemd
-   b) Einen marineblauen Anzug
-   c) Einen marineblauen Pullover
-
-4. Was nimmt Frau Weber am Ende?
-   a) Nur den Pullover
-   b) Den Pullover und das Hemd
-   c) Den Pullover und eine Krawatte
+1. Frau Weber sucht ein Geschenk für …  a) ihre Tochter  b) ihren Mann  c) ihren Sohn
+2. Welche Farbe bevorzugt Frau Webers Mann?  a) Helle Farben wie Weiß und Gelb  b) Dunkle Farben wie Marineblau und Schwarz  c) Bunte Farben wie Rot und Grün
+3. Was empfiehlt Herr Steinmeyer zuerst?  a) Ein weißes Hemd  b) Einen marineblauen Anzug  c) Einen marineblauen Pullover
+4. Was nimmt Frau Weber am Ende?  a) Nur den Pullover  b) Den Pullover und das Hemd  c) Den Pullover und eine Krawatte
 
 ## Übung H3 — Hörtext-Lückentext
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 7 missing words. **Three words in the box are not needed.**
+Listen and fill in the 7 missing words. Three words in the box are not needed.
 
-**Word bank:** elegante · graue · kleine · schwarze · weißes · wichtigen · selbstbewusst · nervös · bunte · dunkel
+> Yuki wohnt in München und hat heute einen (1) ______ Termin. Sie zieht sich sorgfältig an. Zuerst wählt sie ein (2) ______ Hemd und eine (3) ______ Hose. Dann sucht sie eine passende Jacke — sie findet eine (4) ______ (5) ______ Jacke im Schrank. Mit dem neuen Outfit fühlt sie sich (6) ______. Schließlich nimmt sie noch eine (7) ______ schwarze Tasche und verlässt die Wohnung.
 
-> Yuki wohnt in München und hat heute einen (1) ______ Termin. Sie zieht
-> sich sorgfältig an. Zuerst wählt sie ein (2) ______ Hemd und eine (3) ______
-> Hose. Dann sucht sie eine passende Jacke — sie findet eine (4) ______
-> (5) ______ Jacke im Schrank. Mit dem neuen Outfit fühlt sie sich
-> (6) ______. Schließlich nimmt sie noch eine (7) ______ schwarze Tasche
-> und verlässt die Wohnung.
+> (wichtigen · weißes · dunkle · elegante · graue · selbstbewusst · kleine · nervös · bunte · schwarze)
 
 ## Übung H4 — Kurze Ansage: Modenschau im Modehaus
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the announcement. Then choose the correct answer (a, b, or c).
-Listen **once** before reading the transcript below.
+Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
 
-1. Wozu lädt das Modehaus „Stilvoll" ein?  
-   a) Zu einer Modenschau.  
-   b) Zur neuen Frühjahrskollektion und einer Modenschau.  
-   c) Zu einem großen Sale.
-
-2. Wann beginnt die Modenschau?  
-   a) Um vierzehn Uhr.  
-   b) Um fünfzehn Uhr.  
-   c) Um sechzehn Uhr.
-
-3. Wie viel Rabatt gibt es auf Sommermäntel?  
-   a) Zehn Prozent.  
-   b) Fünfzehn Prozent.  
-   c) Zwanzig Prozent.
-
-4. Bis wann gilt die Rabattaktion?  
-   a) Nur bis heute achtzehn Uhr.  
-   b) Bis morgen.  
-   c) Bis Ende der Woche.
+1. Wozu lädt das Modehaus „Stilvoll" ein?  a) Zu einer Modenschau.  b) Zur neuen Frühjahrskollektion und einer Modenschau.  c) Zu einem großen Sale.
+2. Wann beginnt die Modenschau?  a) Um vierzehn Uhr.  b) Um fünfzehn Uhr.  c) Um sechzehn Uhr.
+3. Wie viel Rabatt gibt es auf Sommermäntel?  a) Zehn Prozent.  b) Fünfzehn Prozent.  c) Zwanzig Prozent.
+4. Bis wann gilt die Rabattaktion?  a) Nur bis heute achtzehn Uhr.  b) Bis morgen.  c) Bis Ende der Woche.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -101,161 +64,173 @@ Listen **once** before reading the transcript below.
 
 # Block A — Basistraining
 
-## Übung A1 — Schwache Deklination: Tabelle ausfüllen
+## Übung A1 — Schwache Deklination: Tabelle ausfüllen (groß, def. art.)
 
-Fill in the weak endings after the definite article. Use the adjective **groß**.
+Fill in the weak ending after the definite article. The gap is the ending letter(s).
 
-| | Maskulinum | Femininum | Neutrum | Plural |
-|---|---|---|---|---|
-| **Nominativ** | der groß_____ Mann | die groß_____ Frau | das groß_____ Haus | die groß_____ Häuser |
-| **Akkusativ** | den groß_____ Mann | die groß_____ Frau | das groß_____ Haus | die groß_____ Häuser |
-| **Dativ** | dem groß_____ Mann | der groß_____ Frau | dem groß_____ Haus | den groß_____ Häusern |
+Nom. M: der groß______ Mann
+Nom. F: die groß______ Frau
+Nom. N: das groß______ Haus
+Nom. Pl: die groß______ Häuser
+Akk. M: den groß______ Mann
+Akk. F: die groß______ Frau
+Akk. N: das groß______ Haus
+Akk. Pl: die groß______ Häuser
+Dat. M: dem groß______ Mann
+Dat. F: der groß______ Frau
+Dat. N: dem groß______ Haus
+Dat. Pl: den groß______ Häusern
 
-## Übung A2 — Gemischte Deklination: Tabelle ausfüllen
+## Übung A2 — Gemischte Deklination: Tabelle ausfüllen (alt, indef. art.)
 
-Fill in the mixed endings after the indefinite article. Use the adjective **alt**.
+Fill in the mixed ending after the indefinite article.
 
-| | Maskulinum | Femininum | Neutrum | Plural (kein) |
-|---|---|---|---|---|
-| **Nominativ** | ein alt_____ Mann | eine alt_____ Frau | ein alt_____ Haus | keine alt_____ Häuser |
-| **Akkusativ** | einen alt_____ Mann | eine alt_____ Frau | ein alt_____ Haus | keine alt_____ Häuser |
-| **Dativ** | einem alt_____ Mann | einer alt_____ Frau | einem alt_____ Haus | keinen alt_____ Häusern |
+Nom. M: ein alt______ Mann
+Nom. F: eine alt______ Frau
+Nom. N: ein alt______ Haus
+Nom. Pl: keine alt______ Häuser
+Akk. M: einen alt______ Mann
+Akk. F: eine alt______ Frau
+Akk. N: ein alt______ Haus
+Akk. Pl: keine alt______ Häuser
+Dat. M: einem alt______ Mann
+Dat. F: einer alt______ Frau
+Dat. N: einem alt______ Haus
+Dat. Pl: keinen alt______ Häusern
 
 ## Übung A3 — Adjektivendungen nach dem bestimmten Artikel (Nominativ)
 
-Add the correct ending.
+Add the correct ending. 8 items.
 
-1. der rot_____ Schal
-2. die schwarz_____ Jacke
-3. das weiß_____ Hemd
-4. die alt_____ Schuhe (pl.)
-5. der modern_____ Laptop
-6. die groß_____ Tasche
-7. das neu_____ Kleid
-8. die bequem_____ Stiefel (pl.)
+1. der rot______ Schal
+2. die schwarz______ Jacke
+3. das weiß______ Hemd
+4. die alt______ Schuhe (pl.)
+5. der modern______ Laptop
+6. die groß______ Tasche
+7. das neu______ Kleid
+8. die bequem______ Stiefel (pl.)
 
 ## Übung A4 — Adjektivendungen nach dem bestimmten Artikel (Akkusativ)
 
-Add the correct ending.
+Add the correct ending. 8 items.
 
-1. Ich kaufe den blau_____ Schal.
-2. Sie trägt die elegant_____ Bluse.
-3. Er sucht das grün_____ Hemd.
-4. Wir sehen die alt_____ Häuser.
-5. Ich nehme den schwarz_____ Mantel.
-6. Sie mag das rot_____ Kleid.
-7. Er trägt die neu_____ Schuhe.
-8. Ich kaufe den klein_____ Rucksack.
+1. Ich kaufe den blau______ Schal.
+2. Sie trägt die elegant______ Bluse.
+3. Er sucht das grün______ Hemd.
+4. Wir sehen die alt______ Häuser.
+5. Ich nehme den schwarz______ Mantel.
+6. Sie mag das rot______ Kleid.
+7. Er trägt die neu______ Schuhe.
+8. Ich kaufe den klein______ Rucksack.
 
 ## Übung A5 — Adjektivendungen nach dem bestimmten Artikel (Dativ)
 
-Add the correct ending.
+Add the correct ending. 8 items.
 
-1. Mit dem grün_____ Schal siehst du toll aus.
-2. Sie hilft dem alt_____ Mann.
-3. Er kommt mit der neu_____ Kollegin.
-4. Ich spreche mit dem freundlich_____ Verkäufer.
-5. Sie fährt mit dem schnell_____ Zug.
-6. Er wohnt in dem groß_____ Haus.
-7. Wir helfen den klein_____ Kindern.
-8. Mit der schwarz_____ Jacke sieht sie sehr schick aus.
+1. Mit dem grün______ Schal siehst du toll aus.
+2. Sie hilft dem alt______ Mann.
+3. Er kommt mit der neu______ Kollegin.
+4. Ich spreche mit dem freundlich______ Verkäufer.
+5. Sie fährt mit dem schnell______ Zug.
+6. Er wohnt in dem groß______ Haus.
+7. Wir helfen den klein______ Kindern.
+8. Mit der schwarz______ Jacke sieht sie sehr schick aus.
 
 ## Übung A6 — Adjektivendungen nach dem unbestimmten Artikel (Nominativ)
 
-Add the correct ending. Pay attention to the Nom Mask -er trap!
+Add the correct ending. 10 items.
 
-1. ein rot_____ Schal (m)
-2. eine groß_____ Tasche (f)
-3. ein neu_____ Hemd (n)
-4. kein alt_____ Computer (m)
-5. eine elegant_____ Bluse (f)
-6. ein klein_____ Kind (n)
-7. kein teuer_____ Anzug (m)
-8. eine bunt_____ Mütze (f)
-9. ein warm_____ Mantel (m)
-10. keine schwarz_____ Schuhe (pl.)
+1. ein rot______ Schal (m)
+2. eine groß______ Tasche (f)
+3. ein neu______ Hemd (n)
+4. kein alt______ Computer (m)
+5. eine elegant______ Bluse (f)
+6. ein klein______ Kind (n)
+7. kein teuer______ Anzug (m)
+8. eine bunt______ Mütze (f)
+9. ein warm______ Mantel (m)
+10. keine schwarz______ Schuhe (pl.)
 
 ## Übung A7 — Adjektivendungen nach dem unbestimmten Artikel (Akkusativ)
 
-Add the correct ending.
+Add the correct ending. 8 items.
 
-1. Ich kaufe einen blau_____ Schal.
-2. Er sucht eine modern_____ Jacke.
-3. Sie trägt ein weiß_____ Hemd.
-4. Ich habe keinen rot_____ Pullover.
-5. Er kauft eine elegant_____ Krawatte.
-6. Wir suchen ein groß_____ Zimmer.
-7. Ich brauche einen warm_____ Mantel.
-8. Sie hat keine alt_____ Möbel.
+1. Ich kaufe einen blau______ Schal.
+2. Er sucht eine modern______ Jacke.
+3. Sie trägt ein weiß______ Hemd.
+4. Ich habe keinen rot______ Pullover.
+5. Er kauft eine elegant______ Krawatte.
+6. Wir suchen ein groß______ Zimmer.
+7. Ich brauche einen warm______ Mantel.
+8. Sie hat keine alt______ Möbel.
 
 ## Übung A8 — Adjektivendungen nach dem unbestimmten Artikel (Dativ)
 
-Add the correct ending.
+Add the correct ending. 8 items.
 
-1. Er kommt mit einem alt_____ Freund.
-2. Sie hilft einer klein_____ Frau.
-3. Ich arbeite in einem groß_____ Büro.
-4. Er fährt mit einem neu_____ Auto.
-5. Sie spricht mit einer nett_____ Kollegin.
-6. Ich wohne bei einem freundlich_____ Familie. *(f)*
-7. Er lernt von einem gut_____ Lehrer.
-8. Sie kommt aus einem warm_____ Land.
+1. Er kommt mit einem alt______ Freund.
+2. Sie hilft einer klein______ Frau.
+3. Ich arbeite in einem groß______ Büro.
+4. Er fährt mit einem neu______ Auto.
+5. Sie spricht mit einer nett______ Kollegin.
+6. Ich wohne bei einer freundlich______ Familie.
+7. Er lernt von einem gut______ Lehrer.
+8. Sie kommt aus einem warm______ Land.
 
-## Übung A9 — Gemischt: bestimmter oder unbestimmter Artikel?
+## Übung A9 — Gemischt: Adjektivendungen
 
-Choose the correct ending. The article is given.
+Add the correct ending. 10 items.
 
-1. Wo ist **der** neu_____ Schal?
-2. Ich brauche **eine** groß_____ Tasche.
-3. Das ist **ein** schön_____ Tag!
-4. Ich nehme **den** schwarz_____ Mantel.
-5. Sie trägt **die** elegant_____ Bluse.
-6. Er hat **einen** alt_____ Hund.
-7. Das ist **das** rot_____ Kleid.
-8. Ich sehe **die** klein_____ Kinder.
-9. Ich kaufe **ein** weiß_____ Hemd.
-10. Hast du **den** marineblauen Pullover gesehen?
+1. Wo ist der neu______ Schal?
+2. Ich brauche eine groß______ Tasche.
+3. Das ist ein schön______ Tag!
+4. Ich nehme den schwarz______ Mantel.
+5. Sie trägt die elegant______ Bluse.
+6. Er hat einen alt______ Hund.
+7. Das ist das rot______ Kleid.
+8. Ich sehe die klein______ Kinder.
+9. Ich kaufe ein weiß______ Hemd.
+10. Hast du den marineblau______ Pullover gesehen?
 
 ## Übung A10 — Possessiva: mein/dein/sein/ihr + Adjektiv
 
-Add the correct ending. The possessive replaces the indefinite article — use mixed endings.
+Add the correct possessive ending AND the adjective ending. Each item has two gaps.
 
-1. Ich suche mein_____ rot_____ Schal. (m, Akk)
-2. Das ist sein_____ neu_____ Jacke. (f, Nom)
-3. Sie mag ihr_____ alt_____ Hut nicht. (m, Akk)
-4. Ich helfe mein_____ klein_____ Bruder. (m, Dat)
-5. Er trägt sein_____ elegant_____ Anzug. (m, Akk)
-6. Das ist ihr_____ schön_____ Kleid. (n, Nom)
-7. Wir besuchen unser_____ alt_____ Freunde. (pl., Akk)
-8. Sie fährt mit ihr_____ neu_____ Auto. (n, Dat)
+1. Ich suche mein______ rot______ Schal. (m, Akk)
+2. Das ist sein______ neu______ Jacke. (f, Nom)
+3. Sie mag ihr______ alt______ Hut nicht. (m, Akk)
+4. Ich helfe mein______ klein______ Bruder. (m, Dat)
+5. Er trägt sein______ elegant______ Anzug. (m, Akk)
+6. Das ist ihr______ schön______ Kleid. (n, Nom)
+7. Wir besuchen unser______ alt______ Freunde. (pl., Akk)
+8. Sie fährt mit ihr______ neu______ Auto. (n, Dat)
 
 ## Übung A11 — Substitutionsübung
 
-Rewrite the sentence changing the noun + adjective to the new gender or case shown. Keep the same adjective and meaning.
+Rewrite the sentence changing the noun + adjective to the new gender or case shown. Write the correct adjective ending in the gap.
 
-Example: *Das ist ein alter Mann.* → (Fem, Nom) → *Das ist eine alte Frau.*
-
-1. Das ist ein alter Mann. → (Neut, Nom) → Das ist ein alt_____ Kind.
-2. Ich sehe den roten Schal. → (Fem, Akk) → Ich sehe die rot_____ Jacke.
-3. Sie trägt eine elegante Bluse. → (Mask, Akk) → Sie trägt einen elegant_____ Schal.
-4. Er kommt mit dem neuen Freund. → (Fem, Dat) → Er kommt mit der neu_____ Freundin.
-5. Das ist mein neues Auto. → (Mask, Nom) → Das ist mein neu_____ Wagen.
-6. Ich kaufe die alten Bücher. → (Sg., Mask, Akk) → Ich kaufe den alt_____ Roman.
+1. Das ist ein alt______ Kind. (Neut, Nom)
+2. Ich sehe die rot______ Jacke. (Fem, Akk)
+3. Sie trägt einen elegant______ Schal. (Mask, Akk)
+4. Er kommt mit der neu______ Freundin. (Fem, Dat)
+5. Das ist mein neu______ Wagen. (Mask, Nom)
+6. Ich kaufe den alt______ Roman. (Sg., Mask, Akk)
 
 ## Übung A12 — Schnelldrill: nur die Endung
 
-Write only the missing ending (e, en, er, or es).
+Write only the missing ending (e, en, er, or es). 10 items.
 
-1. ein schön___ Kleid (n, Nom)
-2. der alt___ Mann (m, Nom)
-3. mit der schwarz___ Tasche (f, Dat)
-4. keine bunt___ Schuhe (pl., Akk)
-5. ein elegant___ Schal (m, Nom)
-6. den grün___ Pullover (m, Akk)
-7. einer freundlich___ Frau (f, Dat)
-8. das neu___ Hemd (n, Nom)
-9. meinen alt___ Vater (m, Akk)
-10. die klein___ Kinder (pl., Nom)
+1. ein schön______ Kleid (n, Nom)
+2. der alt______ Mann (m, Nom)
+3. mit der schwarz______ Tasche (f, Dat)
+4. keine bunt______ Schuhe (pl., Akk)
+5. ein elegant______ Schal (m, Nom)
+6. den grün______ Pullover (m, Akk)
+7. einer freundlich______ Frau (f, Dat)
+8. das neu______ Hemd (n, Nom)
+9. meinen alt______ Vater (m, Akk)
+10. die klein______ Kinder (pl., Nom)
 
 ---
 
@@ -263,34 +238,34 @@ Write only the missing ending (e, en, er, or es).
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the blanks with the adjective in the correct form.
+Fill in the blanks with the adjective in the correct form. 12 gaps.
 
-— Entschuldigung, ich suche eine Jacke für meinen Bruder. Er mag (1) ______ (dunkel) Farben.
-— Sehr gut. Wir haben diesen (2) ______ (schwarz) Mantel hier — er ist sehr (3) ______ (elegant).
-— Hm, der (4) ______ (schwarz) Mantel ist sehr schön, aber etwas zu groß. Haben Sie einen (5) ______ (klein) ?
-— Ja, hier ist ein (6) ______ (ähnlich) Modell in einer (7) ______ (klein) Größe. Und dieser (8) ______ (grau) Mantel ist auch eine gute Alternative.
-— Ich finde den (9) ______ (grau) Mantel besser. Haben Sie auch ein (10) ______ (passend) Hemd dazu?
-— Natürlich! Dieses (11) ______ (weiß) Hemd passt sehr gut zum (12) ______ (grau) Mantel.
+— Entschuldigung, ich suche eine Jacke für meinen Bruder. Er mag ______ (dunkel) Farben.
+— Sehr gut. Wir haben diesen ______ (schwarz) Mantel hier — er ist sehr ______ (elegant).
+— Hm, der ______ (schwarz) Mantel ist sehr schön, aber etwas zu groß. Haben Sie einen ______ (klein) ?
+— Ja, hier ist ein ______ (ähnlich) Modell in einer ______ (klein) Größe. Und dieser ______ (grau) Mantel ist auch eine gute Alternative.
+— Ich finde den ______ (grau) Mantel besser. Haben Sie auch ein ______ (passend) Hemd dazu?
+— Natürlich! Dieses ______ (weiß) Hemd passt sehr gut zum ______ (grau) Mantel.
 — Perfekt, ich nehme beides.
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly **one** mistake in the adjective ending. Write the corrected sentence.
+Each sentence has exactly one mistake in the adjective ending. Write the corrected ending in the gap.
 
-1. Das ist ein alte Mantel.
-2. Ich kaufe den rote Schal.
-3. Sie trägt eine eleganten Bluse.
-4. Er sucht ein neuen Hemd.
-5. Das ist der schöne Abend! *(indefinite article intended: ein)*
-6. Ich komme mit dem neuer Freund.
-7. Das sind keine altes Schuhe.
-8. Sie mag den schwarzen Kleid.
-9. Er trägt ein elegantes Anzug. *(m)*
-10. Mit der blaues Jacke siehst du toll aus.
+1. Das ist ein alt______ Mantel. (Nom Mask indef. → ?)
+2. Ich kaufe den rot______ Schal. (Akk Mask def. → ?)
+3. Sie trägt eine elegant______ Bluse. (Akk Fem indef. → ?)
+4. Er sucht ein neu______ Hemd. (Akk Neut indef. → ?)
+5. Das ist der schön______ Abend! *(indefinite article intended)* (Nom Mask indef. → ?)
+6. Er kommt mit dem neu______ Freund. (Dat Mask def. → ?)
+7. Das sind keine alt______ Schuhe. (Pl → ?)
+8. Sie mag das schwarz______ Kleid. (Akk Neut def. → ?)
+9. Er trägt ein elegant______ Anzug. (m → article + ending)
+10. Mit der blau______ Jacke siehst du toll aus. (Dat Fem def. → ?)
 
 ## Übung B3 — Frage und Antwort verbinden
 
-| Frage | | Antwort |
+| Links | | Rechts |
 |---|---|---|
 | 1. Wie findest du das rote Kleid? | | a) Ja, der schwarze ist sehr schick. |
 | 2. Kaufst du den schwarzen Pullover? | | b) Mit der neuen Jacke. |
@@ -305,39 +280,32 @@ Each sentence has exactly **one** mistake in the adjective ending. Write the cor
 
 Build correct sentences. Use the adjective in the correct form.
 
-1. Ich / kaufen / ein / rot / Kleid →
-   ______________________
-2. Das ist / mein / neu / Kollegin (f) →
-   ______________________
-3. Er / tragen / den / schwarz / Mantel →
-   ______________________
-4. Wir / helfen / dem / alt / Mann →
-   ______________________
-5. Sie / suchen / eine / modern / Wohnung →
-   ______________________
-6. Das Kind / spielen / mit / ein / klein / Ball (m) →
-   ______________________
-7. Ich / sehen / die / bunt / Bilder (pl.) →
-   ______________________
-8. Er / fahren / mit / sein / neu / Auto (n) →
-   ______________________
+1. kaufen – rotes – Kleid – ein – Ich
+2. Kollegin – Das ist – meine – neue
+3. den – schwarzen – tragen – Mantel – Er
+4. Wir – dem – helfen – Mann – alten
+5. moderne – Sie – Wohnung – eine – suchen
+6. spielen – einem – mit – Ball – kleinen – Das Kind
+7. Bilder – bunten – die – Ich – sehen
+8. neuen – Er – fahren – Auto – seinem – mit
 
 ## Übung B5 — Kleidung beschreiben
 
-Describe the following outfits using the correct adjective + noun form. Write one sentence per item.
+> Example: (der Mantel / schwarz, Akk) → Ich kaufe den schwarzen Mantel.
 
-Example: (der Mantel / schwarz, Akk) → *Ich kaufe den schwarzen Mantel.*
+1. (die Jacke / rot, Nom) — Das ist eine ____ Jacke.
+2. (der Schal / grün, Akk) — Ich nehme den ____ Schal.
+3. (das Hemd / weiß, Nom, indef.) — Er trägt ein ____ Hemd.
+4. (die Schuhe / alt, Dat pl.) — Sie läuft mit den ____ Schuhen.
+5. (der Anzug / elegant, Nom, indef.) — Das ist ein ____ Anzug.
+6. (die Mütze / bunt, Akk) — Ich kaufe die ____ Mütze.
 
-1. (die Jacke / rot, Nom) — Das ist eine ______________________
-2. (der Schal / grün, Akk) — Ich nehme den ______________________
-3. (das Hemd / weiß, Nom, indef.) — Er trägt ein ______________________
-4. (die Schuhe / alt, Dat pl.) — Sie läuft mit den ______________________
-5. (der Anzug / elegant, Nom, indef.) — Das ist ein ______________________
-6. (die Mütze / bunt, Akk) — Ich kaufe die ______________________
+
+**Your task:** Describe the following outfits using the correct adjective + noun form. Write one sentence per item.
 
 ## Übung B6 — Übersetzen (EN → DE)
 
-1. I'm looking for a red jacket.
+> 1. I'm looking for a red jacket.
 2. That is a beautiful new dress.
 3. She's wearing the elegant blouse.
 4. He comes with his old friend (m).
@@ -346,106 +314,95 @@ Example: (der Mantel / schwarz, Akk) → *Ich kaufe den schwarzen Mantel.*
 7. I'm buying the grey scarf and the white shirt.
 8. That old coat is not warm enough.
 
+
+**Your task:** Translate each English sentence into German with the correct adjective ending.
+
 ## Übung B7 — Adjektive vor und nach dem Nomen
 
-Some adjectives here are predicative (no ending needed), some are attributive (need ending). Decide which, then add the ending where necessary.
+Decide: predicative (no ending) or attributive (with ending). Write the ending where needed.
 
-1. Die Jacke ist _____ (schön). → predicative — no change: *Die Jacke ist schön.*
-2. Das ist eine _____ (schön) Jacke. → ______________________
-3. Der Schal ist _____ (rot). → ______________________
-4. Ich kaufe den _____ (rot) Schal. → ______________________
-5. Die Schuhe sind _____ (bequem). → ______________________
-6. Ich suche bequeme _____ (alt) Schuhe. *(after kein article — just to think about!)*
-7. Das Hemd ist _____ (neu). → ______________________
-8. Er trägt ein _____ (neu) Hemd. → ______________________
+1. Die Jacke ist schön (no change).
+2. Das ist eine schön______ Jacke.
+3. Der Schal ist rot (no change).
+4. Ich kaufe den rot______ Schal.
+5. Die Schuhe sind bequem (no change).
+6. Ich suche bequeme alt______ Schuhe. (no preceding article)
+7. Das Hemd ist neu (no change).
+8. Er trägt ein neu______ Hemd.
 
-## Übung B8 — dieser / welcher + Adjektiv (weak, same pattern as def. art.)
+## Übung B8 — dieser / welcher + Adjektiv
 
-Fill in the correct form of `dieser` and the adjective ending.
+Fill in `dieser` (or `welcher`) AND the adjective ending. Each item has 2 gaps.
 
-1. ______ (dieser) groß_____ Mantel kostet 200 Euro.
-2. Wie findest du ______ (dieser) rot_____ Kleid?
-3. Ich mag ______ (dieser) alt_____ Schuhe nicht.
-4. Mit ______ (dieser) schwarz_____ Tasche siehst du schick aus.
-5. ______ (welcher) neu_____ Jacke gehört dir?
+1. ______ groß______ Mantel kostet 200 Euro.
+2. Wie findest du ______ rot______ Kleid?
+3. Ich mag ______ alt______ Schuhe nicht.
+4. Mit ______ schwarz______ Tasche siehst du schick aus.
+5. ______ neu______ Jacke gehört dir? (welcher)
 
 ## Übung B9 — Foto-Beschreibung: Outfit auf der Party
 
-**Beschreibung eines Fotos, das dir dein Freund Leo geschickt hat** *(Du sollst das Outfit für seinen Online-Fashion-Blog beschreiben)*:
-> Foto: Eine Person auf einer Gartenparty. Sie trägt eine helle
-> Bluse, eine enge dunkle Hose, eine lederne Jacke und braune
-> Schuhe. In der Hand hält sie eine kleine schwarze Tasche. Im
-> Hintergrund: bunte Lichterketten und ein großer weißer Tisch
-> mit Getränken.
-
-**Your task:** Schreib eine kurze Bildbeschreibung für Leos Blog in
-**4–5 Sätzen**. Beschreib das Outfit und die Atmosphäre der Party.
+**Your task:** Schreib eine kurze Bildbeschreibung für Leos Blog in 4–5 Sätzen. Beschreib das Outfit und die Atmosphäre der Party.
 
 Use:
-- [ ] at least **2** sentences with an **adjective + noun** phrase in **Nominativ** (describing the scene: *die … Jacke, der … Tisch*)
-- [ ] at least **1** sentence with an adjective + noun in **Akkusativ** (what the person is wearing/holding: *Sie trägt … / Er hält …*)
-- [ ] at least **1** sentence with `dieser` + adjective + noun (*dieser …, dieses …, diese …*)
-- [ ] at least **2 different adjective declension patterns** (e.g. one after `die`/definite article, one after `ein`/indefinite — or one with no article)
+- [ ] at least 2 sentences with an adjective + noun phrase in Nominativ (describing the scene)
+- [ ] at least 1 sentence with an adjective + noun in Akkusativ (what the person is wearing/holding)
+- [ ] at least 1 sentence with `dieser` + adjective + noun
+- [ ] at least 2 different adjective declension patterns (def. vs. indef. vs. no article)
 
-**Self-check before moving on:**
-- [ ] Did I use the correct adjective ending: **-e / -en / -er / -es** — for each gender and case?
-- [ ] Did I remember **-en** in plural and in Dativ (after `der`, `dieser`, `jener`, `welcher`)?
-- [ ] Did I use `dieser` correctly — `dieser schöne Abend` (Nom m), `diese schöne Party` (Nom f), `dieses schöne Fest` (Nom n)?
+Self-check:
+- [ ] Did I use the correct adjective ending: -e / -en / -er / -es — for each gender and case?
+- [ ] Did I remember -en in plural and in Dativ (after der, dieser, jener, welcher)?
+- [ ] Did I use `dieser` correctly?
 
 ---
 
+# Block C — Prüfungstraining
+
 ## Übung C1 — Lückentext
 
-Fill each gap with **one** word (usually an adjective ending or a complete adjective+ending form).
+Fill each gap with one word (usually the adjective ending or the full adjective+ending form).
 
-Anna ist in einem (1) ______ Modegeschäft in Berlin. Die Verkäuferin zeigt ihr ein
-(2) ______ Kleid — es ist rot und sehr elegant. Anna probiert das (3) ______
-Kleid an, aber es ist zu eng. Die Verkäuferin bringt dann ein (4) ______ Modell in
-einer (5) ______ Größe. Das (6) ______ Kleid sitzt perfekt. Anna fragt nach einem
-(7) ______ Schal dazu. Die Verkäuferin empfiehlt einen (8) ______ Schal — er
-ist aus (9) ______ Seide und passt gut zum (10) ______ Kleid.
+Anna ist in einem ______ Modegeschäft in Berlin. Die Verkäuferin zeigt ihr ein
+______ Kleid — es ist rot und sehr elegant. Anna probiert das ______
+Kleid an, aber es ist zu eng. Die Verkäuferin bringt dann ein ______ Modell in
+einer ______ Größe. Das ______ Kleid sitzt perfekt. Anna fragt nach einem
+______ Schal dazu. Die Verkäuferin empfiehlt einen ______ Schal — er
+ist aus ______ Seide und passt gut zum ______ Kleid.
 
-*(Possible adjectives: kleinen / neuen / roten / schwarzen / schwarzer / schönen / eleganten / weicher / großen / roten)*
-
-## Übung C2 — Sprachbausteine Teil 1 (multiple choice)
+## Übung C2 — Sprachbausteine Teil 1
 
 Choose the correct option (a, b, or c) for each gap.
 
-Bruno schreibt an seine Freundin: „Ich habe gestern einen (1) ______ Mantel
-gekauft. Er ist dunkelblau — das ist meine (2) ______ Lieblingsfarbe. Im Laden
-hat mir eine (3) ______ Verkäuferin geholfen. Sie hat mir auch ein (4) ______
-weißes Hemd gezeigt. Mit dem (5) ______ Outfit sehe ich wirklich gut aus.
-Ich trage jetzt auch meinen (6) ______ Schal dazu — den hellen grauen."
-
-1. a) neuen  b) neue  c) neuer
-2. a) absolute  b) absoluter  c) absolute
-3. a) freundlichen  b) freundliche  c) freundlicher
-4. a) schönes  b) schöne  c) schöner
-5. a) neuen  b) neue  c) neues
-6. a) langen  b) langer  c) lange
+1. Ich habe gestern einen (1) ____ Mantel gekauft.  a) neuen  b) neue  c) neuer
+2. Er ist dunkelblau — das ist meine (2) ____ Lieblingsfarbe.  a) absolute  b) absoluter  c) absolute
+3. Im Laden hat mir eine (3) ____ Verkäuferin geholfen.  a) freundlichen  b) freundliche  c) freundlicher
+4. Sie hat mir auch ein (4) ____ weißes Hemd gezeigt.  a) schönes  b) schöne  c) schöner
+5. Mit dem (5) ____ Outfit sehe ich wirklich gut aus.  a) neuen  b) neue  c) neues
+6. Ich trage jetzt auch meinen (6) ____ Schal dazu — den hellen grauen.  a) langen  b) langer  c) lange
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Ten words are not needed.**
-Each word may be used once.
+Fill the 10 gaps from the box. Ten words are not needed. Each word once.
 
-> ALTEN · BLAUE · BLAUEN · BRAUNEN · BUNTEN · ELEGANTE · ELEGANTEN · GRAUEN · GRÜNER · HELLEN ·
-> KLEINEN · LANGEN · MODERNEN · NEUE · NEUEN · ROTEN · SCHWARZE · SCHWARZEN · WARMEN · WEISSES
+> — Guten Tag! Ich suche eine (1) ______ Jacke — etwas Modernes.
+> — Ich empfehle Ihnen die (2) ______ Jacke aus unserer Kollektion.
+> — Schön! Und auch eine (3) ______ Hose dazu.
+> — Natürlich. Bevorzugen Sie (4) ______ Hemden oder eher neutrale Farben?
+> — Ich sehe den (5) ______ Schal dort — wie viel kostet er?
+> — Zwanzig Euro. Wir haben auch einen (6) ______ Schal aus Kaschmir, etwas günstiger.
+> — Gut. Und einen (7) ______ Pullover in Größe L — haben Sie einen?
+> — Ja, aus dem (8) ______ Bestand, gerade reduziert.
+> — Wunderbar! Ein (9) ______ Hemd für meinen Vater — hätten Sie eins?
+> — Natürlich. Frischer (10) ______ Tee ist auch gerade im Angebot!
 
-— Guten Tag! Ich suche eine (1) ______ Jacke — etwas Modernes.  
-— Ich empfehle Ihnen die (2) ______ Jacke aus unserer Kollektion.  
-— Schön! Und auch eine (3) ______ Hose dazu.  
-— Natürlich. Bevorzugen Sie (4) ______ Hemden oder eher neutrale Farben?  
-— Ich sehe den (5) ______ Schal dort — wie viel kostet er?  
-— Zwanzig Euro. Wir haben auch einen (6) ______ Schal aus Kaschmir, etwas günstiger.  
-— Gut. Und einen (7) ______ Pullover in Größe L — haben Sie einen?  
-— Ja, aus dem (8) ______ Bestand, gerade reduziert.  
-— Wunderbar! Ein (9) ______ Hemd für meinen Vater — hätten Sie eins?  
-— Natürlich. Frischer (10) ______ Tee ist auch gerade im Angebot!
+> ALTEN · BLAUE · BLAUEN · BRAUNEN · BUNTEN · ELEGANTE · ELEGANTEN · GRAUEN · GRÜNER · HELLEN · KLEINEN · LANGEN · MODERNEN · NEUE · NEUEN · ROTEN · SCHWARZE · SCHWARZEN · WARMEN · WEISSES
 
-## Übung C4 — Lesen
+Five words are not needed.
 
-**Text 1:** Read „Annas neuer Stil" in `lesson.md`, section 5. **Richtig (R) oder Falsch (F)?**
+## Übung C4a — Lesen Text 1 — „Annas neuer Stil"
+
+Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?
 
 1. Anna hat früher immer elegante Kleidung getragen. ( )
 2. Sie hat einen Artikel in einer Modezeitschrift gelesen. ( )
@@ -453,44 +410,31 @@ Each word may be used once.
 4. Die Verkäuferin hat Anna mit der Wahl geholfen. ( )
 5. Bruno hat Annas neuen Stil sofort wiedererkannt. ( )
 
-**Text 2 — Forumspost:**
+## Übung C4b — Lesen Text 2 (Forumspost — Lea)
 
-> Hallo! Ich bin Lea, 29 Jahre alt, und ich interessiere mich sehr für Mode. Letzte
-> Woche habe ich einen tollen Wintermantel gefunden — dunkelgrün, lang, mit einem
-> schwarzen Kragen. Er war teuer, aber ich finde, ein guter Mantel ist eine wichtige
-> Investition. Meine beste Freundin hat denselben Mantel in Braun gekauft. Ihr
-> brauner Mantel sieht auch sehr schick aus, aber ich finde meinen dunkelgrünen
-> einfach schöner. Was meint ihr — Grün oder Braun?
+> Hallo! Ich bin Lea, 29 Jahre alt, und ich interessiere mich sehr für Mode. Letzte Woche habe ich einen tollen Wintermantel gefunden — dunkelgrün, lang, mit einem schwarzen Kragen. Er war teuer, aber ich finde, ein guter Mantel ist eine wichtige Investition. Meine beste Freundin hat denselben Mantel in Braun gekauft. Ihr brauner Mantel sieht auch sehr schick aus, aber ich finde meinen dunkelgrünen einfach schöner. Was meint ihr — Grün oder Braun?
 
-Choose a, b, or c:
+Wähle a, b oder c.
 
-6. Was hat Lea letzte Woche gekauft?
-   a) Eine grüne Jacke   b) Einen Wintermantel   c) Einen Schal
 
-7. Wie ist der Kragen von Leas Mantel?
-   a) Dunkelgrün   b) Braun   c) Schwarz
+1. Was hat Lea letzte Woche gekauft?  a) Eine grüne Jacke  b) Einen Wintermantel  c) Einen Schal
+2. Wie ist der Kragen von Leas Mantel?  a) Dunkelgrün  b) Braun  c) Schwarz
+3. Was denkt Lea über teure Kleidung?  a) Sie ist immer zu teuer.  b) Ein guter Mantel ist es wert.  c) Sie kauft nie teure Kleidung.
+4. Was hat Leas Freundin gekauft?  a) Denselben Mantel in Grün  b) Denselben Mantel in Braun  c) Eine andere Jacke
+5. Welchen Mantel findet Lea schöner?  a) Den braunen ihrer Freundin  b) Beide gleich  c) Ihren eigenen dunkelgrünen
 
-8. Was denkt Lea über teure Kleidung?
-   a) Sie ist immer zu teuer.   b) Ein guter Mantel ist es wert.   c) Sie kauft nie teure Kleidung.
+## Übung C5 — Schreiben: Geburtstagsgeschenk-E-Mail an eine Freundin
 
-9. Was hat Leas Freundin gekauft?
-   a) Denselben Mantel in Grün   b) Denselben Mantel in Braun   c) Eine andere Jacke
+**Your task:** You are shopping for a friend's birthday present. Write a short email (6–8 sentences) describing what you found. Include at least 4 adjective + noun combinations (attributive, with correct endings) and at least 2 different cases.
 
-10. Welchen Mantel findet Lea schöner?
-    a) Den braunen ihrer Freundin   b) Beide gleich   c) Ihren eigenen dunkelgrünen
+Use:
+- [ ] at least 4 adjective + noun combinations (attributive, with correct endings)
+- [ ] at least 2 different cases (Nom, Akk, Dat)
+- [ ] your opinion of the item and why you chose it
 
-## Übung C5 — Schreiben
-
-You are shopping for a friend's birthday present. Write a short email (6–8 sentences) to another friend describing what you found. Include:
-- At least **4 adjective + noun combinations** (attributive, with correct endings)
-- At least **2 different cases** (Nom, Akk, and/or Dat)
-- Your opinion of the item(s) and why you chose them
-
-A model answer is in `solutions.md` — write yours **first**.
-
-**Self-check before moving on:**
-- [ ] After `der/die/das` or `dieser`, are the endings mostly **-en** (with -**e** only for Nom sg. and Akk Fem/Neut)?
-- [ ] After `ein/eine` or a possessive, did you use **-er** (Nom Masc) or **-es** (Nom/Akk Neut) where needed?
+Self-check:
+- [ ] After der/die/das or dieser, are the endings mostly -en (with -e only for Nom sg. and Akk Fem/Neut)?
+- [ ] After ein/eine or a possessive, did I use -er (Nom Masc) or -es (Nom/Akk Neut) where needed?
 - [ ] Does each adjective agree with its noun in gender, number, and case?
 
 ---
@@ -499,77 +443,78 @@ A model answer is in `solutions.md` — write yours **first**.
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes.
+One minute per item. No notes. 15 items.
 
-1. Weak ending, Nom Mask after `der`: der alt_____ Mann
-2. Mixed ending, Nom Mask after `ein`: ein alt_____ Mann
-3. Mixed ending, Nom Neut after `ein`: ein alt_____ Haus
-4. Weak ending, Akk Mask after `den`: den blau_____ Schal
-5. Mixed ending, Akk Mask after `einen`: einen blau_____ Schal
-6. Weak/mixed, Dat Fem: mit der/einer neu_____ Jacke
-7. Plural after `die`: die alt_____ Schuhe
-8. Plural after `keine`: keine alt_____ Schuhe
-9. (L9) `gefallen`: "Die Jacke ______ mir." (present, 3rd sg.)
-10. (L3) Indefinite article, Akk Mask: „Ich kaufe ______ Pullover." (m)
-11. (L4) Adjective predicative: „Die Hose ist ______." (use: eng) — no ending!
-12. Mixed ending, Akk Neut after `ein`: ein schön_____ Kleid (n, Akk)
-13. (L9) `passen`: „Diese Jacke ______ dir gut." (present, 3rd sg.)
-14. Weak ending, Dat Neut after `dem`: mit dem alt_____ Hemd
-15. (L7) Comparative: gut → ______
+1. der alt______ Mann (Nom Mask def.)
+2. ein alt______ Mann (Nom Mask indef.)
+3. ein alt______ Haus (Nom Neut indef.)
+4. den blau______ Schal (Akk Mask def.)
+5. einen blau______ Schal (Akk Mask indef.)
+6. mit der neu______ Jacke (Dat Fem def.)
+7. die alt______ Schuhe (Pl)
+8. keine alt______ Schuhe (Pl)
+9. (L9) `gefallen`: Die Jacke ______ mir. (3rd sg. present)
+10. (L3) „Ich kaufe ______ Pullover." (Akk Mask indef. — article)
+11. (L4) „Die Hose ist ______." (use: eng) — predicative, no ending
+12. ein schön______ Kleid (Akk Neut indef.)
+13. (L9) `passen`: Diese Jacke ______ dir gut. (3rd sg. present)
+14. mit dem alt______ Hemd (Dat Neut def.)
+15. (L7) Comparative of `gut`: ______
 
 ## Übung D2 — Odd one out
 
 Cross out the word that doesn't fit.
 
-1. die Jacke – der Schal – das Hemd – das Fenster
+1. Jacke – Schal – Hemd – Fenster
 2. schwarz – elegant – gestreift – kariert
 3. -e – -en – -er – -iert
 4. bequem – eng – warm – gestern
 5. einen alten – ein altes – ein alter – ein alte
-6. der Kragen – die Mütze – der Anzug – das Wetter
+6. Kragen – Mütze – Anzug – Wetter
 
 ## Übung D3 — Rückblick: A1/L4 + A1/L9 + A2/L7
 
 1. (L4, A1) Predicative: „Das Zimmer ist ______ (groß)." — adjective form?
-2. (L4, A1) „Es gibt ______ (ein) Sofa im Wohnzimmer." — Which article form?
-3. (L9, A1) Translate: "The trousers fit me well." →  ______________________
-4. (L9, A1) `dieser` — Akk Mask form: ______________________
+2. (L4, A1) „Es gibt ______ Sofa im Wohnzimmer." — Which article form?
+3. (L9, A1) Translate: "The trousers fit me well." → ______
+4. (L9, A1) `dieser` — Akk Mask form: ______
 5. (L9, A1) Verb with Dative: „Die Schuhe ______ mir nicht." (gefallen)
 6. (L7, A2) Comparative of `teuer`: ______
-7. (L7, A2) „Das blaue Kleid ist ______ (superlative of schön) im ganzen Laden."
+7. (L7, A2) „Das blaue Kleid ist das ______ (superlative of schön) im ganzen Laden."
 8. (L7, A2) Superlative attributive, Nom: „Das ist das ______ (gut) Modell."
 9. (L7, A2) `als` oder `wie`: „Das rote Kleid ist teurer ______ das blaue."
 10. (L7, A2) `als` oder `wie`: „Das rote Kleid ist so teuer ______ das blaue."
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-Adjective endings — add the correct ending:
+**Nominativ endings:**
+1. der alt______ Mantel (Nom, m, def.)
+2. ein neu______ Mantel (Nom, m, indef.)
+3. ein groß______ Haus (Nom, n, indef.)
+4. die schwarz______ Tasche (Nom, f, def.)
 
-1. der alt_____ Mantel (Nom, m, def.)
-2. ein neu_____ Mantel (Nom, m, indef.)
-3. ein groß_____ Haus (Nom, n, indef.)
-4. die schwarz_____ Tasche (Nom, f, def.)
-5. eine schwarz_____ Tasche (Nom, f, indef.)
-6. den rot_____ Schal (Akk, m, def.)
-7. einen rot_____ Schal (Akk, m, indef.)
-8. ein weiß_____ Hemd (Akk, n, indef.)
-9. die alt_____ Schuhe (Akk, pl., def.)
-10. keine alt_____ Schuhe (Akk, pl., indef.)
+**Akkusativ endings:**
+5. den rot______ Schal (Akk, m, def.)
+6. einen rot______ Schal (Akk, m, indef.)
+7. ein weiß______ Hemd (Akk, n, indef.)
+8. die alt______ Schuhe (Akk, pl, def.)
 
-Dative:
+**Dativ endings:**
+9. mit dem klein______ Kind (Dat, n, def.)
+10. mit einer neu______ Kollegin (Dat, f, indef.)
+11. mit meinem alt______ Vater (Dat, m, poss.)
 
-11. mit dem klein_____ Kind (Dat, n, def.)
-12. mit einem klein_____ Kind (Dat, n, indef.)
-13. mit der neu_____ Kollegin (Dat, f, def.)
-14. mit einer neu_____ Kollegin (Dat, f, indef.)
-15. mit meinem alt_____ Vater (Dat, m, poss.)
+**Sentences (complete):**
+12. „Das ist ______ (eine / schwarz / Jacke)." → complete the sentence
+13. Translate: "I'm looking for a new bag." → ______
+14. Translate: "He wears the elegant suit." → ______
+15. Translate: "She comes with her old friend (f)." → ______
+16. Translate: "These are beautiful old shoes." → ______
 
-Sentences:
+**Review:**
+17. (L7) `als` or `wie`: Berlin ist größer ______ Wien.
+18. (L5) Dativ reflexivpronomen, sie: ______
+19. (L6) `warten auf` — case: ______
+20. (L7) Superlative of `gut` (predicative): ______
 
-16. Write: „Das ist ______ (ein / schwarz / Jacke)." → ______________________
-17. Translate: "I'm looking for a new bag." → ______________________
-18. Translate: "He wears the elegant suit." → ______________________
-19. Translate: "She comes with her old friend (f)." → ______________________
-20. Translate: "These are beautiful old shoes." → ______________________
-
-**Score: ____ / 20.** 16+ → Lektion A2/09. Below 16 → redo Block A (A1–A8) and B2 tomorrow, then retest D4.
+_16+ / 20 → Lektion A2/09. Below 16 → redo Block A (A1–A8) and B2 tomorrow, then retest D4._
