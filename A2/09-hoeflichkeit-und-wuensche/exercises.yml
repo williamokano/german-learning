@@ -1,0 +1,949 @@
+lesson: A2/09
+title: "A2 · Lektion 9 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - { q: "Anna und Bruno planen, heute Abend ins Restaurant zu gehen.", answer: true, why: "Anna schlägt vor, heute Abend essen zu gehen." }
+      - { q: "Bruno schlägt das italienische Restaurant vor.", answer: false, why: "Anna schlägt das Restaurant vor, nicht Bruno." }
+      - { q: "Anna will einen Fensterplatz reservieren.", answer: true, why: "Anna sagt, sie würde einen Fensterplatz anfragen." }
+      - { q: "Sie fahren mit dem Bus zum Restaurant.", answer: false, why: "U-Bahn, nicht Bus." }
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Herr Steinmeyer und Frau Weber möchten …"
+        options:
+          - { key: a, text: "einen Tisch in der Mitte" }
+          - { key: b, text: "einen ruhigen Tisch" }
+          - { key: c, text: "einen Tisch am Fenster" }
+        answer: b
+        why: "Einen ruhigen Tisch."
+      - q: "Das Tagesgericht ist …"
+        options:
+          - { key: a, text: "Hähnchen mit Salat" }
+          - { key: b, text: "gegrillter Lachs mit Gemüse" }
+          - { key: c, text: "vegetarische Pasta" }
+        answer: b
+        why: "Gegrillter Lachs mit Gemüse."
+      - q: "Was möchte Frau Weber nicht in ihrer Soße?"
+        options:
+          - { key: a, text: "Zwiebeln" }
+          - { key: b, text: "Pfeffer" }
+          - { key: c, text: "Knoblauch" }
+        answer: c
+        why: "Knoblauch."
+      - q: "Herr Steinmeyer bestellt als Getränk …"
+        options:
+          - { key: a, text: "ein Glas Weißwein" }
+          - { key: b, text: "eine Flasche Mineralwasser" }
+          - { key: c, text: "einen Kaffee" }
+        answer: b
+        why: "Eine Flasche Mineralwasser."
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Yuki ist in München und geht heute in ein Café. Die Kellnerin kommt und
+      {1}: „Was darf es sein?" Yuki antwortet: „Ich {2} gern einen
+      Cappuccino und ein Stück Apfelkuchen, bitte." Die Kellnerin bringt die
+      Bestellung, aber Yuki bemerkt, dass der Kuchen Sahne hat. Yuki sagt höflich:
+      „Entschuldigung, {3} Sie bitte den Kuchen ohne Sahne {4}? Das
+      {5} sehr nett." Die Kellnerin {6} und wechselt den Teller sofort.
+    bank: [hätte, könnten, wäre, bestellt, bringen, wechselt, zufrieden, fragt, lächelt, sagte]
+    answers:
+      "1": fragt
+      "2": hätte
+      "3": könnten
+      "4": bringen
+      "5": wäre
+      "6": lächelt
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Eine Einladung zum Abendessen"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    transcript: 'Hallo Anna, hier ist Maria. Ich rufe an wegen unseres Abendessens am Samstag. Ich habe einen Tisch im Restaurant „Seeberg" für zwei Personen um neunzehn Uhr reserviert. Wir würden uns freuen, wenn du kommen könntest. Das Restaurant bietet auch ein vegetarisches Menü an, falls du keinen Fisch essen möchtest. Bitte ruf mich zurück, wenn du den Termin bestätigen kannst. Vielen Dank!'
+    items:
+      - q: "Von wem kommt die Nachricht?"
+        options:
+          - { key: a, text: "Von Anna." }
+          - { key: b, text: "Von Maria." }
+          - { key: c, text: "Vom Restaurant." }
+        answer: b
+        why: "Von Maria."
+      - q: "Für wann ist der Tisch reserviert?"
+        options:
+          - { key: a, text: "Für Samstag um neunzehn Uhr." }
+          - { key: b, text: "Für Freitag um neunzehn Uhr." }
+          - { key: c, text: "Für Samstag um zwanzig Uhr." }
+        answer: a
+        why: "Samstag um neunzehn Uhr."
+      - q: "Für wie viele Personen ist der Tisch?"
+        options:
+          - { key: a, text: "Für eine Person." }
+          - { key: b, text: "Für zwei Personen." }
+          - { key: c, text: "Für vier Personen." }
+        answer: b
+        why: "Für zwei Personen."
+      - q: "Was soll Anna tun, wenn sie den Termin bestätigen kann?"
+        options:
+          - { key: a, text: "Eine E-Mail schreiben." }
+          - { key: b, text: "Zurückrufen." }
+          - { key: c, text: "Im Restaurant anrufen." }
+        answer: b
+        why: "Bitte ruf mich zurück."
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`würde`: Konjugationstabelle"
+    instructions: "Fill in the complete conjugation table of `würde`."
+    text: |
+      1. ich: {1}
+      2. du: {2}
+      3. er/sie/es: {3}
+      4. wir: {4}
+      5. ihr: {5}
+      6. sie/Sie: {6}
+    answers:
+      "1": würde
+      "2": würdest
+      "3": würde
+      "4": würden
+      "5": würdet
+      "6": würden
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`könnte`: Konjugationstabelle"
+    instructions: "Fill in the complete conjugation table of `könnte`."
+    text: |
+      1. ich: {1}
+      2. du: {2}
+      3. er/sie/es: {3}
+      4. wir: {4}
+      5. ihr: {5}
+      6. sie/Sie: {6}
+    answers:
+      "1": könnte
+      "2": könntest
+      "3": könnte
+      "4": könnten
+      "5": könntet
+      "6": könnten
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`hätte` und `wäre`: Konjugationstabellen"
+    instructions: "Fill in both tables. 12 gaps total."
+    text: |
+      **`hätte`:**
+      1. ich: {1}
+      2. du: {2}
+      3. er/sie/es: {3}
+      4. wir: {4}
+      5. ihr: {5}
+      6. sie/Sie: {6}
+
+      **`wäre`:**
+      7. ich: {7}
+      8. du: {8}
+      9. er/sie/es: {9}
+      10. wir: {10}
+      11. ihr: {11}
+      12. sie/Sie: {12}
+    answers:
+      "1": hätte
+      "2": hättest
+      "3": hätte
+      "4": hätten
+      "5": hättet
+      "6": hätten
+      "7": wäre
+      "8": wärst
+      "9": wäre
+      "10": wären
+      "11": wäret
+      "12": wären
+
+  - id: A4
+    block: A
+    type: free-write
+    title: "`würde + Infinitiv`: Sätze bilden"
+    prompt: "Build a sentence with `würde + Infinitiv`. Use the subject and verb given."
+    stimulus: |
+      1. ich / gern / ins Restaurant / gehen
+      2. du / bitte / helfen?
+      3. er / gern / einen Tisch / reservieren
+      4. wir / lieber / zu Hause / essen
+      5. ihr / gern / mitkommen?
+      6. sie (she) / bitte / die Rechnung / bringen?
+      7. Sie / gern / etwas / trinken?
+      8. ich / das / nicht / machen
+    model: |
+      1. Ich würde gern ins Restaurant gehen.
+      2. Würdest du bitte helfen?
+      3. Er würde gern einen Tisch reservieren.
+      4. Wir würden lieber zu Hause essen.
+      5. Würdet ihr gern mitkommen?
+      6. Würde sie bitte die Rechnung bringen?
+      7. Würden Sie gern etwas trinken?
+      8. Ich würde das nicht machen.
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`könnte`: Sätze ergänzen"
+    instructions: "Fill in the correct form of `könnte`. 8 items."
+    text: |
+      1. {1} du mir bitte das Salz geben?
+      2. {2} Sie mir bitte die Speisekarte bringen?
+      3. Ich {3} morgen um zehn Uhr kommen.
+      4. Wir {4} den Tisch auch draußen nehmen.
+      5. {5} ihr bitte leiser sein?
+      6. Er {6} um acht da sein, wenn er früh aufsteht.
+      7. {7} Sie das bitte noch einmal erklären?
+      8. Ich {8} leider nicht kommen — ich habe einen Termin.
+    answers:
+      "1": Könntest
+      "2": Könnten
+      "3": könnte
+      "4": könnten
+      "5": Könntet
+      "6": könnte
+      "7": Könnten
+      "8": könnte
+
+  - id: A6
+    block: A
+    type: free-write
+    title: "`hätte gern`: Bestellungen"
+    prompt: "Transform the direct order into a polite `hätte gern` order."
+    stimulus: |
+      1. Ich will ein Glas Weißwein.
+      2. Ich will das Tagesgericht.
+      3. Wir wollen eine Flasche Mineralwasser.
+      4. Er will die Gemüsesuppe als Vorspeise.
+      5. Ich will noch ein Stück Kuchen.
+      6. Sie (she) will einen Tisch für drei Personen.
+    model: |
+      1. Ich hätte gern ein Glas Weißwein.
+      2. Ich hätte gern das Tagesgericht.
+      3. Wir hätten gern eine Flasche Mineralwasser.
+      4. Er hätte gern die Gemüsesuppe als Vorspeise.
+      5. Ich hätte gern noch ein Stück Kuchen.
+      6. Sie hätte gern einen Tisch für drei Personen.
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`wäre`: Lücken füllen"
+    instructions: "Fill in the correct form of `wäre`. 8 items."
+    text: |
+      1. Das {1} sehr nett von Ihnen.
+      2. Freitag {2} mir besser.
+      3. {3} das in Ordnung für Sie?
+      4. Es {4} schön, wenn wir mehr Zeit hätten.
+      5. Das {5} mein Traum!
+      6. {6} ihr dabei?
+      7. Ich {7} froh, wenn du kommen könntest.
+      8. Wann {8} es Ihnen recht?
+    answers:
+      "1": wäre
+      "2": wäre
+      "3": Wäre
+      "4": wäre
+      "5": wäre
+      "6": Wäret
+      "7": wäre
+      "8": wäre
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Welche Form? `würde`, `könnte`, `hätte` oder `wäre`?"
+    instructions: "Choose the best form for each gap. The gap is the full conjugated form (e.g. `Könnten`, `hätte`, `würde`)."
+    text: |
+      1. „{1} Sie mir bitte die Rechnung bringen?" (polite request to waiter)
+      2. „Ich {2} gern einen Fensterplatz, wenn möglich." (ordering/preference)
+      3. „Das {3} sehr praktisch!" (describing a hypothetical)
+      4. „{4} du das für mich machen?" (polite request to a friend)
+      5. „Ich {5} am Samstag Zeit haben." (saying you could come)
+      6. „Was {6} Sie empfehlen?" (asking for recommendation)
+      7. „{7} es okay, wenn ich zu spät komme?" (asking permission politely)
+      8. „Ich {8} gern eine Tasse Tee, bitte." (ordering in a café)
+    answers:
+      "1": Könnten
+      "2": hätte
+      "3": wäre
+      "4": Würdest
+      "5": könnte
+      "6": würden
+      "7": Wäre
+      "8": hätte
+
+  - id: A9
+    block: A
+    type: free-write
+    title: "Wortstellung: `würde + Infinitiv`"
+    prompt: "Reorder the words to make a correct sentence. The first word is given. Write the full sentence."
+    stimulus: |
+      1. [Ich] würde – gern – kommen – morgen
+      2. [Würdest] bitte – du – reservieren – einen Tisch – ?
+      3. [Wir] lieber – essen – zu Hause – würden
+      4. [Könnten] bringen – die Karte – Sie – mir – bitte – ?
+      5. [Anna] das – würde – gern – sehen
+      6. [Würden] etwas – Sie – trinken – möchten – ?
+    model: |
+      1. Ich würde gern morgen kommen.
+      2. Würdest du bitte einen Tisch reservieren?
+      3. Wir würden lieber zu Hause essen.
+      4. Könnten Sie mir bitte die Karte bringen?
+      5. Anna würde das gern sehen.
+      6. Würden Sie gern etwas trinken möchten?
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`konnte` vs. `könnte`: präteritum oder Konjunktiv II?"
+    instructions: "Decide which form is needed and fill in the gap. 8 items."
+    text: |
+      1. Gestern {1} ich nicht schlafen. (past fact — Präteritum of können: konnte)
+      2. {2} du mir bitte helfen? (polite present request — Konjunktiv II: könntest)
+      3. Er {3} gestern leider nicht kommen — er war krank. (past fact)
+      4. {4} Sie mir bitte die Adresse geben? (polite request)
+      5. Wir {5} das Taxi nicht finden. (past fact)
+      6. {6} ihr bitte etwas leiser sein? (polite request)
+      7. Sie (she) {7} früher tanzen — jetzt nicht mehr. (past ability)
+      8. Ich {8} dir morgen dabei helfen. (polite offer)
+    answers:
+      "1": konnte
+      "2": Könntest
+      "3": konnte
+      "4": Könnten
+      "5": konnten
+      "6": Könntet
+      "7": konnte
+      "8": könnte
+
+  - id: A11
+    block: A
+    type: free-write
+    title: "Höfliche Anfragen: formal oder informal?"
+    prompt: "Transform the request to the register given. Keep the meaning the same."
+    stimulus: |
+      1. „Hilf mir bitte!" → formal Sie-form with `könnten`
+      2. „Könnten Sie bitte die Rechnung bringen?" → informal du-form with `könntest`
+      3. „Ich will einen Tisch reservieren." → polite with `würde`
+      4. „Bring mir das Salz!" → polite informal with `könntest`
+      5. „Was ist das Tagesgericht?" → polite formal with `könnten Sie … sagen`
+    model: |
+      1. Könnten Sie mir bitte helfen?
+      2. Könntest du mir bitte die Rechnung bringen?
+      3. Ich würde gern einen Tisch reservieren.
+      4. Könntest du mir bitte das Salz geben?
+      5. Könnten Sie mir sagen, was das Tagesgericht ist?
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen: Im Restaurant"
+    instructions: "Fill in the blanks with the correct Konjunktiv II form. 8 gaps."
+    text: |
+      Kellner: Guten Abend! Was darf es sein?
+      Gast: Ich {1} gern die Speisekarte, bitte.
+      Kellner: Natürlich, einen Moment. — Hier, bitte!
+      Gast: Danke. {2} Sie mir sagen, was das Tagesgericht ist?
+      Kellner: Heute haben wir gegrillten Lachs.
+      Gast: Das {3} sehr lecker! Ich nehme das.
+      Kellner: Sehr gerne. Und was {4} Sie gern trinken?
+      Gast: Ich {5} gern ein Glas Weißwein, bitte.
+      Kellner: {6} es auch Mineralwasser sein?
+      Gast: Nein danke — lieber Wein. Ach, und {7} Sie bitte einen Fenstertisch für morgen reservieren? Ich {8} es sehr gerne.
+    answers:
+      "1": hätte
+      "2": Könnten
+      "3": wäre
+      "4": würden
+      "5": hätte
+      "6": Könnte
+      "7": könnten
+      "8": würde
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Einladungen annehmen und ablehnen"
+    prompt: "Read each situation. Write a polite acceptance OR refusal using Konjunktiv II. Use the form indicated."
+    stimulus: |
+      1. Anna fragt Bruno: „Würdest du am Samstag gern ins Kino kommen?" — Bruno accepts.
+      2. Frau Weber fragt Herrn Steinmeyer: „Würden Sie am Dienstag zum Mittagessen kommen?" — Herr Steinmeyer declines.
+      3. Bruno fragt Anna: „Könntest du mir beim Umzug helfen?" — Anna accepts.
+      4. Eine Kollegin fragt: „Würdest du am Freitag für uns kochen?" — You decline.
+    model: |
+      1. Ja, das wäre toll! Ich käme sehr gerne mit!
+      2. Das wäre leider nicht möglich — ich hätte an dem Tag schon einen Termin.
+      3. Ja, ich könnte kommen und würde gern helfen!
+      4. Das wäre leider nicht möglich — ich hätte leider keine Zeit, ich habe andere Pläne.
+
+  - id: B3
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler"
+    instructions: "Each sentence has exactly one mistake. Write the corrected form in the gap. Items 3 and 9 are correct (write C)."
+    text: |
+      1. Ich würde gern ein{1} Kaffee haben. (article wrong)
+      2. Könnte{2} du mir bitte helfen? (du-form wrong)
+      3. Das wäre sehr nett von ihr — danke! → {3} (correct? — yes/no)
+      4. Wir hätten gern ein{4} Tisch für vier Personen. (article wrong)
+      5. Würdest{5} Sie bitte die Rechnung bringen? (Sie-form wrong)
+      6. Ich würde gern ins Kino gehen{6} morgen. (word order — infinitive position)
+      7. Das wären{7} sehr praktisch. (singular subject needs wäre)
+      8. Hätten{8} Sie die Soße ohne Knoblauch machen? (needs könnten)
+      9. Könnten Sie mir bitte sagen, wo das Tagesgericht ist? → {9} (correct? — yes/no)
+      10. Ich würde gerne ein Stück Kuchen nehmen bitte{10}. (word order — bitte placement)
+    answers:
+      "1": "en (einen)"
+      "2": "st (könntest)"
+      "3": "C"
+      "4": "en (einen)"
+      "5": "n (würden)"
+      "6": "morgen"
+      "7": "wäre"
+      "8": "Könnten"
+      "9": "C"
+      "10": "umbenennen (bitte nicht am Ende)"
+
+  - id: B4
+    block: B
+    type: order
+    title: "Satzbau: Konjunktiv II Sätze"
+    instructions: "Build a correct German sentence from the cues. All Konjunktiv II."
+    items:
+      - tiles: [Anna, würde, gern, ins Konzert, gehen]
+        answer: [0, 1, 2, 3, 4]
+        note: "Anna würde gern ins Konzert gehen."
+      - tiles: [Könntest, du, bitte, einen Tisch, reservieren, "?"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Könntest du bitte einen Tisch reservieren?"
+      - tiles: [Das, wäre, wirklich, schön]
+        answer: [0, 1, 2, 3]
+        note: "Das wäre wirklich schön."
+      - tiles: [Ich, hätte, gern, ein Glas Wasser, bitte]
+        answer: [0, 1, 2, 3, 4]
+        note: "Ich hätte gern ein Glas Wasser, bitte."
+      - tiles: [Würden, Sie, gern, etwas, Nachtisch, nehmen, "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Würden Sie gern etwas Nachtisch nehmen?"
+      - tiles: [Wir, könnten, auch, morgen, kommen]
+        answer: [0, 1, 2, 3, 4]
+        note: "Wir könnten auch morgen kommen."
+      - tiles: [Er, hätte, lieber, den Lachs]
+        answer: [0, 1, 2, 3]
+        note: "Er hätte lieber den Lachs."
+      - tiles: [Wäre, es, für Sie, in Ordnung, "?"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Wäre es für Sie in Ordnung?"
+
+  - id: B5
+    block: B
+    type: free-write
+    title: "Höfliche Beschwerden: Reaktionen formulieren"
+    prompt: "Match the problem with the most appropriate polite complaint (a–e), then write one sentence each for problem 1 and problem 3 using Konjunktiv II. Redemittel: a) Könnten Sie das bitte noch einmal prüfen? b) Ich hätte eigentlich … bestellt, nicht … c) Wäre es möglich, das Zimmer zu wechseln? d) Könnten Sie das bitte aufwärmen? e) Ich würde das gern umtauschen."
+    stimulus: |
+      Probleme:
+      1. Das Essen ist kalt.
+      2. Der Kellner hat eine falsche Bestellung gebracht.
+      3. Die Rechnung ist falsch (zu hoch).
+      4. Das Zimmer im Hotel ist nicht sauber.
+      5. Der bestellte Artikel im Geschäft ist defekt.
+
+      Matching: 1-d · 2-b · 3-a · 4-c · 5-e
+
+      Now write one polite sentence for problem 1 and problem 3.
+    model: |
+      1. Entschuldigung, das Essen ist kalt — könnten Sie das bitte aufwärmen?
+      3. Könnten Sie die Rechnung bitte noch einmal prüfen? Ich glaube, es wäre ein Fehler.
+
+  - id: B6
+    block: B
+    type: categorize
+    title: "Kategorisieren: Situation und Form"
+    instructions: "Sort these 8 sentences into the correct category. Each token is labeled (a-h) and the bucket is the category."
+    buckets:
+      - { key: bestellung, label: "Bestellung / Wunsch" }
+      - { key: bitte, label: "Höfliche Bitte" }
+      - { key: hypothetisch, label: "Hypothetische Aussage" }
+    tokens:
+      - { text: "Ich hätte gern einen Espresso.", bucket: bestellung }
+      - { text: "Würdest du das bitte für mich machen?", bucket: bitte }
+      - { text: "Das wäre sehr nett von dir.", bucket: hypothetisch }
+      - { text: "Könnten Sie mir die Speisekarte bringen?", bucket: bitte }
+      - { text: "Ich würde gern einen Tisch reservieren.", bucket: bestellung }
+      - { text: "Freitag wäre mir besser als Montag.", bucket: hypothetisch }
+      - { text: "Ich hätte leider keine Zeit am Samstag.", bucket: bestellung }
+      - { text: "Könntest du bitte leiser sein?", bucket: bitte }
+
+  - id: B7
+    block: B
+    type: free-write
+    title: "Übersetzen (EN → DE)"
+    prompt: "Translate into polite German using Konjunktiv II."
+    stimulus: |
+      1. Could you please bring me the bill?
+      2. I would like a table for two, please.
+      3. Would you like something to drink?
+      4. That would be very nice.
+      5. Could you please check that again?
+      6. I would prefer the vegetarian dish.
+      7. Might Friday work for you? (formal)
+      8. We would gladly come.
+      9. Could you please speak a little slower? (formal)
+      10. I unfortunately wouldn't have time on Saturday.
+    model: |
+      1. Könnten Sie mir bitte die Rechnung bringen?
+      2. Ich hätte gern einen Tisch für zwei Personen, bitte.
+      3. Würden Sie gern etwas trinken?
+      4. Das wäre sehr nett.
+      5. Könnten Sie das bitte noch einmal prüfen?
+      6. Ich würde lieber das vegetarische Gericht nehmen.
+      7. Wäre Freitag für Sie möglich?
+      8. Wir würden gern kommen.
+      9. Könnten Sie bitte etwas langsamer sprechen?
+      10. Ich hätte leider keine Zeit am Samstag.
+
+  - id: B8
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Wünsche und Angebote"
+    instructions: "Fill in the correct Konjunktiv II form (`würde`, `könnte`, `hätte`, or `wäre`). 8 items."
+    text: |
+      1. „Ich {1} gern mal nach Japan reisen." (wish)
+      2. „Das {2} mein absoluter Traum!" (hypothetical)
+      3. „{3} du mir deinen Reiseführer leihen?" (polite request)
+      4. „Wir {4} sehr froh, wenn ihr kommen könntet." (hypothetical)
+      5. „Ich {5} gern mehr Sport machen." (wish)
+      6. „{6} es okay, wenn ich morgen zu spät komme?" (asking permission)
+      7. „Das {7} so praktisch — ich nehme das!" (exclamation)
+      8. „Ich {8} lieber einen Fensterplatz, wenn möglich." (preference)
+    answers:
+      "1": würde
+      "2": wäre
+      "3": Könntest
+      "4": wären
+      "5": würde
+      "6": Wäre
+      "7": wäre
+      "8": hätte
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Restaurant-Reservierung: E-Mail an das Restaurant"
+    prompt: 'Schreib eine höfliche E-Mail als Antwort in 4–5 Sätzen. Wähle einen der vorgeschlagenen Termine und frag nach etwas (die Speisekarte, ein Kindersitz, …). Benutze Konjunktiv II für höfliche Bitten.'
+    use:
+      - "at least 1 sentence with `würde + Infinitiv` (Ich würde gern … / Würden Sie …?)"
+      - "at least 1 sentence with `könnte` / `Könnten Sie` (a polite request)"
+      - "at least 1 sentence with `hätte gern` / `Ich hätte lieber …` (a wish)"
+      - "a polite closing (*Vielen Dank im Voraus.* / *Ich freue mich auf …*)"
+    selfCheck:
+      - "Did I keep the verb at the end of subordinate clauses (weil, dass, wenn)?"
+      - "Did I use `würde` + infinitive (not *wird + infinitive*) for Konjunktiv II?"
+      - "Did I use `Könnten Sie …?` (not *Können Sie …?*) for a polite request?"
+    model: |
+      Sehr geehrte Frau Becker,
+      vielen Dank für Ihre schnelle Antwort. Ich würde gern den Tisch am
+      Freitag um 19 Uhr nehmen — der ruhige Tisch am Fenster klingt
+      wunderbar. Könnten Sie mir bitte einen Kindersitz für meine Tochter
+      reservieren? Sie ist drei Jahre alt. Ich hätte auch gern vorher die
+      Speisekarte per E-Mail, falls das möglich ist. Vielen Dank im
+      Voraus. Mit freundlichen Grüßen, [Name]
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext"
+    instructions: "Fill each gap with one word."
+    text: |
+      Anna und Bruno sitzen im Restaurant. Der Kellner kommt und fragt: „Haben
+      {1} reserviert?" Anna sagt: „Ja — ich hätte {2} einen ruhigen
+      Tisch, wenn {3} wäre." Der Kellner führt sie zu einem schönen Tisch am
+      Fenster. Anna lächelt: „Das {4} perfekt!"
+      Der Kellner bringt die Speisekarte. Anna {5} nicht, was sie nehmen soll.
+      „Was {6} Sie empfehlen?", fragt sie. „Das {7} heute sehr frisch
+      — gegrillter Lachs", antwortet der Kellner. „Dann {8} ich gern den
+      Lachs, bitte", sagt Anna. Bruno sagt: „Ich {9} lieber das
+      vegetarische Gericht." Nach dem Essen fragt Anna: „{10} Sie uns bitte
+      die Rechnung bringen?"
+    answers:
+      "1": Sie
+      "2": gern
+      "3": möglich
+      "4": wäre
+      "5": weiß
+      "6": würden
+      "7": wäre
+      "8": hätte
+      "9": hätte
+      "10": Könnten
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Hey Bruno! (1) ____ du am Freitagabend Zeit?"
+        options:
+          - { key: a, text: "Hast" }
+          - { key: b, text: "Wärst" }
+          - { key: c, text: "Hättest" }
+        answer: a
+        why: "Hast (du Zeit? — normal present question)."
+      - q: "Ich (2) ____ gern ins Konzert gehen."
+        options:
+          - { key: a, text: "würde" }
+          - { key: b, text: "könnte" }
+          - { key: c, text: "hätte" }
+        answer: a
+        why: "würde gern (würde + Infinitiv)."
+      - q: "(3) ____ wirklich toll sein!"
+        options:
+          - { key: a, text: "Wäre" }
+          - { key: b, text: "Würde" }
+          - { key: c, text: "Hätte" }
+        answer: a
+        why: "Wäre (hypothetical)."
+      - q: "Wenn du mitkommen (4) ____, wäre ich sehr froh."
+        options:
+          - { key: a, text: "würdest" }
+          - { key: b, text: "könntest" }
+          - { key: c, text: "hättest" }
+        answer: b
+        why: "könntest (polite conditional)."
+      - q: "Wir (5) ____ danach auch noch essen gehen."
+        options:
+          - { key: a, text: "könnten" }
+          - { key: b, text: "wären" }
+          - { key: c, text: "hätten" }
+        answer: a
+        why: "könnten (polite suggestion)."
+      - q: "das (6) ____ doch schön, oder?"
+        options:
+          - { key: a, text: "wäre" }
+          - { key: b, text: "würde" }
+          - { key: c, text: "hätte" }
+        answer: a
+        why: "wäre (hypothetical)."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
+    text: |
+      Im Restaurant:
+
+      Gast: Entschuldigung! {1} Sie mir bitte die Speisekarte {2}?
+      Kellner: Natürlich! — Hier, bitte.
+      Gast: Danke. Was würden Sie {3}?
+      Kellner: Ich {4} die Pasta empfehlen — sie ist heute sehr frisch.
+      Gast: Das klingt gut. Ich {5} gern die Pasta, bitte.
+      Gast: Und — {6} es {7}, die Soße separat zu servieren?
+      Kellner: Selbstverständlich!
+      [Am Tisch, zu Bruno:]
+      Gast: Bruno, {8} du mir bitte den Salzstreuer geben?
+      Bruno: Natürlich! Das ist wirklich {9} von dir, dass du mich einlädst!
+      Gast: Und darf ich noch ein Wasser {10}?
+    bank: [BESTELLEN, BRINGEN, DÜRFEN, EMPFEHLEN, GERN, HÄTTE, HÄTTEN, KÖNNTE, KÖNNTEN, KÖNNTEST, LEIDER, MÖGLICH, MÖCHTEN, NETT, RICHTIG, SOLLEN, WÄREN, WÄRE, WECHSELN, WÜRDE]
+    answers:
+      "1": KÖNNTEN
+      "2": BRINGEN
+      "3": EMPFEHLEN
+      "4": WÜRDE
+      "5": HÄTTE
+      "6": WÄRE
+      "7": MÖGLICH
+      "8": KÖNNTEST
+      "9": NETT
+      "10": BESTELLEN
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Anna lädt Bruno ein)"
+    instructions: "Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?"
+    items:
+      - { q: "Anna möchte Bruno zu einem Konzert einladen.", answer: true, why: "Anna möchte Bruno zu einem Konzert einladen." }
+      - { q: "Die Karten sind für ein deutsches Orchester.", answer: false, why: "Es ist ein russisches Kammerorchester (nicht ein deutsches)." }
+      - { q: "Brunos Schwester hat die Karten nicht benutzt.", answer: false, why: "Es ist Annas Schwester, nicht Brunos, die abgesagt hat." }
+      - { q: "Bruno soll ein Restaurant für nach dem Konzert suchen.", answer: true, why: "Anna fragt Bruno, ob er ein Restaurant aussuchen könnte." }
+      - { q: "Bruno reserviert einen Tisch für halb zehn.", answer: true, why: "Bruno reserviert einen Tisch für halb zehn." }
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Beschwerde-E-Mail)"
+    instructions: |
+      > Liebe Frau Weber,
+      > ich schreibe Ihnen, weil ich eine kleine Beschwerde hätte. Ich habe letzte Woche in Ihrem Restaurant das Tagesgericht bestellt — gegrillter Lachs mit Gemüse. Leider war der Lachs nicht frisch, und die Gemüsebeilage war kalt. Ich hätte das eigentlich sofort reklamiert, aber der Kellner war sehr beschäftigt.
+      > Wäre es möglich, uns beim nächsten Besuch einen Gutschein anzubieten? Das wäre sehr nett. Ich würde gern wieder in Ihr Restaurant kommen — normalerweise ist die Qualität wirklich gut.
+      > Mit freundlichen Grüßen, Herr Steinmeyer
+
+      Wähle a, b oder c.
+    items:
+      - q: "Herr Steinmeyer schreibt, weil …"
+        options:
+          - { key: a, text: "er das Restaurant empfehlen möchte." }
+          - { key: b, text: "er eine Beschwerde hat." }
+          - { key: c, text: "er einen Tisch reservieren möchte." }
+        answer: b
+        why: "Er hat eine Beschwerde."
+      - q: "Was war das Problem mit dem Essen?"
+        options:
+          - { key: a, text: "Der Lachs war zu teuer." }
+          - { key: b, text: "Der Lachs war nicht frisch und das Gemüse war kalt." }
+          - { key: c, text: "Er hatte das falsche Gericht bekommen." }
+        answer: b
+        why: "Nicht frisch und Gemüse war kalt."
+      - q: "Warum hat Herr Steinmeyer im Restaurant nicht sofort reklamiert?"
+        options:
+          - { key: a, text: "Er wollte nicht unhöflich sein." }
+          - { key: b, text: "Das Restaurant war geschlossen." }
+          - { key: c, text: "Der Kellner hatte keine Zeit." }
+        answer: c
+        why: "Der Kellner hatte keine Zeit."
+      - q: "Was möchte Herr Steinmeyer als Lösung?"
+        options:
+          - { key: a, text: "Sein Geld zurück." }
+          - { key: b, text: "Einen kostenlosen Wein." }
+          - { key: c, text: "Einen Gutschein für den nächsten Besuch." }
+        answer: c
+        why: "Einen Gutschein."
+      - q: "Wie findet Herr Steinmeyer das Restaurant normalerweise?"
+        options:
+          - { key: a, text: "Schlecht." }
+          - { key: b, text: "Gut." }
+          - { key: c, text: "Zu teuer." }
+        answer: b
+        why: "Gut (normalerweise ist die Qualität wirklich gut)."
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Reservierung oder Beschwerde"
+    prompt: "Write a short, polite e-mail (7–9 sentences) to a restaurant or shop, either making a reservation with special requests OR making a polite complaint."
+    use:
+      - "2 × `könnten/könntest`"
+      - "2 × `würde/würden`"
+      - "1 × `hätte gern` OR `wäre`"
+    selfCheck:
+      - "Did you use at least 2 forms of Konjunktiv II from different verbs?"
+      - "Did you maintain a consistently polite formal register (formal `Sie`)?"
+      - "Is each Konjunktiv II verb followed by an infinitive at the end of the clause (for `würde/könnte`) or used as a standalone form (for `hätte/wäre`)?"
+    model: |
+      Sehr geehrte Damen und Herren,
+      ich würde gern einen Tisch für zwei Personen für Freitag, den 20. Juni, um
+      20 Uhr reservieren. Könnten Sie mir bitte einen ruhigen Tisch geben —
+      am liebsten am Fenster? Ich hätte auch eine kleine Bitte: Meine Begleiterin
+      ist Vegetarierin. Könnten Sie mir sagen, ob es vegetarische Hauptgerichte
+      auf der Karte gibt? Das wäre sehr nett. Ich würde mich über eine kurze
+      Bestätigung freuen.
+      Mit freundlichen Grüßen, Anna
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per item. No notes. 15 items."
+    text: |
+      1. `würde`, du-form: du {1}
+      2. `könnte`, wir-form: wir {2}
+      3. `hätte`, ich-form: ich {3}
+      4. `wäre`, er-form: er {4}
+      5. "I would like a coffee" (ordering): {5}
+      6. `wäre` is the Konjunktiv II of which verb? {6}
+      7. `könnte` is the Konjunktiv II of which verb? {7}
+      8. Polite "Could you bring the bill?" → {8}
+      9. (L8) „Das ist ein{9} Jacke." (schön, f. Nom.) — adjective ending
+      10. (L7) Satzklammer: „Ich muss heute Abend {10}." (arbeiten)
+      11. `wäre`, ihr-form: ihr {11}
+      12. `würde`, Sie-form: Sie {12}
+      13. (L3) Polite order: „Ich {13} gern..." (hätte/wäre/würde)
+      14. (L6) `Ich freue mich {14} das Konzert.` (preposition)
+      15. Translate: "That would be very nice." → {15}
+    answers:
+      "1": würdest
+      "2": könnten
+      "3": hätte
+      "4": wäre
+      "5": "Ich hätte gern einen Kaffee, bitte."
+      "6": sein
+      "7": können
+      "8": "Könnten Sie bitte die Rechnung bringen?"
+      "9": "e (schöne)"
+      "10": arbeiten
+      "11": wäret
+      "12": würden
+      "13": hätte
+      "14": auf
+      "15": "Das wäre sehr nett."
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Cross out the word that doesn't fit."
+    groups:
+      - items: [würde, könnte, hätte, wollte]
+        odd: 3
+        why: "wollte is Präteritum of wollen; the others are Konjunktiv II."
+      - items: [Speisekarte, Tagesgericht, Fensterplatz, Kellner]
+        odd: 2
+        why: "Fensterplatz is the only noun that describes a seat, not food/service role."
+      - items: [wäre, wäre, wären, wäret]
+        odd: 3
+        why: "wäret is an archaic/rare form of `wäre`; standard forms are wäre, wären, wärt."
+      - items: [bestellen, reservieren, reklamieren, wünschen]
+        odd: 3
+        why: "wünschen is more general; the others are specific restaurant actions."
+      - items: [Einladung, Absage, Zusage, Bestellung]
+        odd: 3
+        why: "Bestellung is the only one not about invitations; the others are."
+      - items: [könntest, würdest, hättest, wolltest]
+        odd: 3
+        why: "wolltest is Präteritum of wollen; the others are Konjunktiv II."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: Lektion A2/03 + A2/04"
+    instructions: "Review of subordinate clauses (weil, wenn) and word order. 10 items."
+    text: |
+      1. (L3) „Ich bleibe zu Hause, {1} ich müde bin." (weil/dass/wenn)
+      2. (L3) „Er sagt, {2} er keine Zeit hat." (weil/dass/wenn)
+      3. (L3) Corrected: „Ich komme nicht, weil ich {3}." (keine Zeit — verb at end)
+      4. (L4) „{4} du Zeit hast, könnten wir ins Kino gehen." (Wenn/Weil/Dass)
+      5. (L4) „Wenn sie früh {5} (aufstehen), kann sie den Zug noch schaffen."
+      6. (L4) Translate: „I would come if I had time." → {6}
+      7. (L3) „Ich habe Hunger. {7} gehe ich ins Restaurant."
+      8. (L4) „{8} wir Kinder waren, haben wir immer im Park gespielt." (`wenn` or `als`?)
+      9. (L1) „{9} haben wir das Museum besucht." (time connector: zuerst)
+      10. (L2) „Das Buch liegt {10} dem Tisch." (auf + Dativ)
+    answers:
+      "1": weil
+      "2": dass
+      "3": "keine Zeit habe"
+      "4": Wenn
+      "5": aufsteht
+      "6": "Ich würde kommen, wenn ich Zeit hätte."
+      "7": Deshalb
+      "8": Als
+      "9": Zuerst
+      "10": auf
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion A2/10. Below 16 → redo Block A (A1–A8) and Block B exercises, then retest D4."
+    text: |
+      **Konjunktiv II — forms:**
+      1. `würde`, ich: {1}
+      2. `könnte`, du: {2}
+      3. `hätte`, er: {3}
+      4. `wäre`, wir: {4}
+      5. `würde`, Sie: {5}
+
+      **Fill in the correct Konjunktiv II form:**
+      6. „{6} du bitte die Rechnung bringen?" (`könntest/hättest/wärst`)
+      7. „Ich {7} gern einen Cappuccino, bitte." (`hätte/wäre/würde`)
+      8. „Das {8} sehr schön!" (`wäre/hätte/würde`)
+      9. „{9} Sie mir die Speisekarte bringen?" (`Würden/Hätten/Könnten`)
+      10. „Wir {10} lieber draußen sitzen." (`würden/hätten/wären`)
+
+      **Vocabulary:**
+      11. „Menu" auf Deutsch: {11}
+      12. Was ist `die Vorspeise`? {12}
+      13. `bestellen` = ? {13}
+      14. Opposite of `die Zusage`: {14}
+
+      **Translate to polite German:**
+      15. I would like the daily special, please. → {15}
+      16. Could you please check the bill? (formal) → {16}
+      17. That would be ideal! → {17}
+      18. Would you like something to drink? (formal) → {18}
+
+      **Open:**
+      19. Polite invitation with `würdest du`: → {19}
+      20. Polite decline with `könnte`: → {20}
+    answers:
+      "1": würde
+      "2": könntest
+      "3": hätte
+      "4": wären
+      "5": würden
+      "6": Könntest
+      "7": hätte
+      "8": wäre
+      "9": Könnten
+      "10": würden
+      "11": "die Speisekarte"
+      "12": "starter / first course"
+      "13": "to order"
+      "14": "die Absage"
+      "15": "Ich hätte gern das Tagesgericht, bitte."
+      "16": "Könnten Sie bitte die Rechnung prüfen?"
+      "17": "Das wäre ideal!"
+      "18": "Würden Sie gern etwas trinken?"
+      "19": "Würdest du am Freitag gern ins Konzert kommen?"
+      "20": "Ich könnte leider nicht kommen — ich hätte keine Zeit."
