@@ -55,11 +55,14 @@
   function clickRight(key: string) {
     if (graded || activeLeft === null) return;
     const newPairs = { ...pairs };
-    // Free this right key from any other left that holds it
-    for (const lk of Object.keys(newPairs)) {
-      if (newPairs[lk] === key) newPairs[lk] = null;
+    if (newPairs[activeLeft] === key) {
+      newPairs[activeLeft] = null;
+    } else {
+      for (const lk of Object.keys(newPairs)) {
+        if (newPairs[lk] === key) newPairs[lk] = null;
+      }
+      newPairs[activeLeft] = key;
     }
-    newPairs[activeLeft] = key;
     pairs = newPairs;
     activeLeft = null;
   }
