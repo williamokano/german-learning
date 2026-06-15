@@ -32,7 +32,7 @@ const sorted = lessons
       li { display: flex; align-items: center; }
       li a { display: block; padding: 0.5rem 0.75rem; border-radius: 6px; color: #1a1a1a; text-decoration: none; }
       li a:hover { background: #eff6ff; }
-      .slug { color: #6b7280; font-size: 0.85rem; margin-left: 0.5rem; }
+
       .btn-uebungen { margin-left: auto; flex-shrink: 0; padding: 0.25rem 0.6rem; border: 1.5px solid #2563eb; border-radius: 6px; color: #2563eb; text-decoration: none; font-size: 0.8rem; white-space: nowrap; }
       .btn-uebungen:hover { background: #eff6ff; }
     </style>
@@ -44,8 +44,7 @@ const sorted = lessons
       {sorted.map(({ slug }) => (
         <li>
           <a href={`${base}/${level}/${slug}/`}>
-            {slug.replace(/^\d+-/, '').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}
-            <span class="slug">{slug}</span>
+            {(([num, ...rest]) => `${num} — ${rest.join('-').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}`)(slug.split('-'))}
           </a>
           <a class="btn-uebungen" href={`${base}/${level}/${slug}/uebungen/`}>Übungen →</a>
         </li>
