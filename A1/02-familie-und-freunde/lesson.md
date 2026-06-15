@@ -128,9 +128,11 @@ fit (fit) · süß (sweet/cute) · toll (great)
 🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3)
 
 > **Hör zu 1 — Familie:** der Vater · die Mutter · der Bruder · die Schwester · der Sohn · die Tochter · der Großvater · die Großmutter
+
 🎧 **Audio:** [hoerzu2.mp3](audio/hoerzu2.mp3)
 
 > **Hör zu 2 — Zahlen 20–100:** zwanzig · dreißig · vierzig · fünfzig · sechzig · siebzig · achtzig · neunzig · hundert
+
 🎧 **Audio:** [hoerzu3.mp3](audio/hoerzu3.mp3)
 
 > **Hör zu 3 — Possessivpronomen & Adjektive:** mein · dein · sein · ihr · unser · euer · ledig · verheiratet

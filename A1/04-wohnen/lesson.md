@@ -132,9 +132,11 @@ suchen (to look for) · finden (to find / to think of) · der Monat, -e:
 🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3)
 
 > **Hör zu 1 — Räume:** die Küche · das Bad · das Wohnzimmer · das Schlafzimmer · der Flur · der Balkon
+
 🎧 **Audio:** [hoerzu2.mp3](audio/hoerzu2.mp3)
 
 > **Hör zu 2 — Möbel:** der Tisch · der Stuhl · das Sofa · das Bett · der Schrank · der Schreibtisch
+
 🎧 **Audio:** [hoerzu3.mp3](audio/hoerzu3.mp3)
 
 > **Hör zu 3 — Farben:** rot · blau · grün · gelb · schwarz · weiß · braun · grau

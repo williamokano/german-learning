@@ -121,12 +121,15 @@ ein Becher Joghurt — *no "of" in German: ein Glas Saft = a glass __of__ juice.
 🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3)
 
 > **Hör zu 1 — Lebensmittel:** Apfel · Banane · Brot · Brötchen · Käse · Tomate · Wurst · Ei
+
 🎧 **Audio:** [hoerzu2.mp3](audio/hoerzu2.mp3)
 
 > **Hör zu 2 — Getränke:** Kaffee · Tee · Saft · Wasser · Bier · Milch
+
 🎧 **Audio:** [hoerzu3.mp3](audio/hoerzu3.mp3)
 
 > **Hör zu 3 — Verben:** essen · trinken · kaufen · brauchen · kosten · zahlen
+
 🎧 **Audio:** [hoerzu4.mp3](audio/hoerzu4.mp3)
 
 > **Hör zu 4 — Mengen und Verpackungen:** Flasche · Glas · Tasse · Stück · Kilo
