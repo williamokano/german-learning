@@ -351,7 +351,7 @@ Minuten.
 Bis bald!
 Bruno
 
-Wähle die richtige Option (a, b oder c) für jede Lücke.
+Choose the correct option (a, b, or c) for each gap.
 
 1. {1} Bahnhof  a) zum  b) beim  c) vom
 2. {2} Museum Ludwig  a) zur  b) zum  c) nach

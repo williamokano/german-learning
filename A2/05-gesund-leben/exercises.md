@@ -337,7 +337,7 @@ Menschen ______ Zeit zum Entspannen haben.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Letzte Woche habe ich (1) ____ nicht gut gefühlt.  a) mir  b) mich  c) sich
 2. Deshalb bin ich in die Apotheke (2) ____.  a) gegangen  b) gefahren  c) gekommen

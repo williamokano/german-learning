@@ -363,7 +363,7 @@ die zum eigenen Lebensstil passt.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Das rote Fahrrad ist (1) ____ teurer als das blaue.  a) so  b) ein bisschen  c) als
 2. Aber das blaue ist (2) ____ leicht wie das rote.  a) genauso  b) mehr  c) besser

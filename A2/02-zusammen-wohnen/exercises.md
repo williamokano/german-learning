@@ -400,7 +400,7 @@ Die Hausregeln (9) ______ einfach: Man spült das Geschirr sofort, und jeder
 
 ## Übung C2 — Sprachbausteine Teil 1 (multiple choice)
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Sie (1) ______ im zweiten Stock.  a) liegt  b) steht  c) hängt
 2. Das Sofa (2) ______ jetzt vor dem Fernseher.  a) liegt  b) steht  c) hängt

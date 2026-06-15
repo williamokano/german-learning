@@ -351,7 +351,7 @@ weil er keine verpassen ______.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Ich warte schon eine Woche (1) ____ deine Antwort!  a) für  b) auf  c) über
 2. Ich interessiere mich gerade sehr (2) ____ einen neuen Podcast.  a) auf  b) für  c) an

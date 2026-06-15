@@ -404,7 +404,7 @@ Sonntag hat Lisa das Geschenk ______ und sich sehr ______.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Letzten Sonntag {1} Anna ihrer Freundin Lisa ein Buch {2}.  a) hat — zum Geburtstag geschenkt  b) ist — zum Geburtstag schenkt  c) wird — zum Geburtstag schenken
 2. Die Verkäuferin {3} ihr ein schönes Buch.  a) empfiehlt  b) empfahl  c) empfohlen

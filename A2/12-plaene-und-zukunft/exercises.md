@@ -350,7 +350,7 @@ ______ ich im Frühling fahren. Liebe Grüße, Yuki.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Ich {1} dir von meinen Plänen erzählen.  a) werde  b) wirst  c) werden
 2. Mein Bruder {2} nächstes Jahr auch nach Wien fahren.  a) werdet  b) wird  c) wirst

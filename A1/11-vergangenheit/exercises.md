@@ -333,7 +333,7 @@ Five words are not needed.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Ich (1) ____ dir von meinem Wochenende erzählen.  a) möchte  b) muss  c) kann
 2. Am Samstag (2) ____ ich mit Anna ins Konzert gegangen.  a) habe  b) hat  c) bin

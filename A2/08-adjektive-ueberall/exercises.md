@@ -372,7 +372,7 @@ ist aus ______ Seide und passt gut zum ______ Kleid.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Ich habe gestern einen (1) ____ Mantel gekauft.  a) neuen  b) neue  c) neuer
 2. Er ist dunkelblau — das ist meine (2) ____ Lieblingsfarbe.  a) absolute  b) absoluter  c) absolute

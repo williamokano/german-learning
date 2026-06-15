@@ -355,7 +355,7 @@ Bruno hat eine Stelle ______ IT-Assistent bei einer Softwarefirma gefunden. Heut
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. ich (1) ____ mich für die Stelle als IT-Assistent in Ihrer Firma.  a) bewerbe  b) bewirbst  c) bewirbt
 2. Ich habe zwei Jahre (2) ____ Programmierer bei einer kleinen Firma (3) ____.  a) wie  b) als  c) ob

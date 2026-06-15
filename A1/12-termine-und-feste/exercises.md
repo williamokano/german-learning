@@ -330,7 +330,7 @@ Hallo, ich (1) ______ Anna und ich mache eine Party! Mein Geburtstag (2) ______ 
 
 ## Übung C2 — Sprachbausteine Teil 1 (6 Lücken, je 3 Optionen)
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. ich (1) ______ dich herzlich zu meiner Geburtstagsfeier ein.  a) laden  b) lädst  c) lade
 2. Die Party findet (2) ______ Samstag, (3) ______ achten März, statt.  a) am  b) im  c) um

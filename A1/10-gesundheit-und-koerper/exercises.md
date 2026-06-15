@@ -356,7 +356,7 @@ Tabletten ______ täglich." Bruno kauft die ______ in der Apotheke.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Guten Tag! Ich (1) ______ Schmerzen in meinem Rücken.  a) habe  b) bin  c) nehme
 2. Mein Arzt (2) ______ , ich soll viel (3) ______ und nicht arbeiten.  a) sagt  b) meint  c) sollen

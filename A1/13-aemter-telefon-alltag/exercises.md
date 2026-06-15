@@ -369,7 +369,7 @@ unterschreibe. Die Beamtin prüft alles und sagt: „Alles in ______!"
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Ich rufe (1) ____ meiner Anmeldung an.  a) seit  b) wegen  c) nach
 2. Haben Sie (2) ____ Termin?  a) einen  b) ein  c) eine

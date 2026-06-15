@@ -236,7 +236,7 @@ Fill in the gaps with one word each.
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly one mistake. Find and correct it.
+Jeder Satz enthält genau einen Fehler. Finden und korrigieren Sie ihn.
 
 1. Das Kleid gefällt ______ sehr. (ich → ?)
 2. Die Schuhe ______ mir nicht. (passt → ?)

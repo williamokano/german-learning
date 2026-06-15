@@ -259,7 +259,7 @@ Write each pair connected using BOTH `weil` AND `deshalb` (two separate answers 
 
 ## Übung B4 — Satzbau: Sätze ordnen
 
-Put the words in the correct order.
+Bringen Sie die Wörter in die richtige Reihenfolge.
 
 1. weil – müde – er – arbeitet – hat – ist – viel – er
 2. sie – auf – um sechs – geht – früh – deshalb – steht – sie
@@ -359,7 +359,7 @@ man im richtigen Kurs ist. ______ bitte um deine Ehrlichkeit!
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Ich lerne Deutsch, (1) ____ ich in München arbeite.  a) dass  b) weil  c) deshalb
 2. Ich finde, (2) ____ Deutsch eine interessante Sprache ist.  a) weil  b) dass  c) darum

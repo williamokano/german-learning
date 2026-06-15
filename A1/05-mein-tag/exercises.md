@@ -380,7 +380,7 @@ acht Uhr (6) ____.
 
 Deine Anna
 
-Wähle die richtige Option (a, b oder c) für jede Lücke.
+Choose the correct option (a, b, or c) for each gap.
 
 
 1. Ich arbeite (1) ____ Montag bis Freitag  a) von  b) am  c) um
