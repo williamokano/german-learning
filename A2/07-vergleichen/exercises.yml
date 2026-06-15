@@ -1,0 +1,982 @@
+lesson: A2/07
+title: "A2 · Lektion 7 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - { q: "Anna und Bruno sind in einem Kaufhaus.", answer: true, why: "Anna and Bruno are in a shop / department store." }
+      - { q: "Das rote Kleid ist teurer als das blaue.", answer: false, why: "The blue dress is more expensive than the red one." }
+      - { q: "Bruno findet das blaue Kleid schöner.", answer: true, why: "Bruno says the blue one is schöner." }
+      - { q: "Am Ende kauft Anna das rote Kleid.", answer: false, why: "Anna buys the blue dress in the end." }
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Was sucht Frau Weber?"
+        options:
+          - { key: a, text: "Ein Kleid" }
+          - { key: b, text: "Einen Laptop" }
+          - { key: c, text: "Ein Smartphone" }
+        answer: b
+        why: "Einen Laptop."
+      - q: "Welcher Laptop ist am günstigsten?"
+        options:
+          - { key: a, text: "Der schwarze" }
+          - { key: b, text: "Der graue" }
+          - { key: c, text: "Der mit 449 Euro" }
+        answer: c
+        why: "Der mit 449 Euro."
+      - q: "Was ist besser beim schwarzen Laptop?"
+        options:
+          - { key: a, text: "Das Design" }
+          - { key: b, text: "Der Akku" }
+          - { key: c, text: "Der Preis" }
+        answer: b
+        why: "Der Akku (sechs Stunden länger)."
+      - q: "Was kauft Frau Weber am Ende?"
+        options:
+          - { key: a, text: "Den günstigsten Laptop" }
+          - { key: b, text: "Den schwarzen Laptop" }
+          - { key: c, text: "Keinen Laptop" }
+        answer: b
+        why: "Den schwarzen Laptop."
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill in the 7 missing words. Two words in the box are not needed."
+    text: |
+      Yuki wohnt in München und macht gerade einen Deutschkurs. Gestern hat sie mit
+      ihrer Freundin Hana über Smartphones {1}. Yukis Handy ist {2} als
+      Hanas Handy, aber es {3} noch gut. Hanas neues Modell ist {4} und
+      hat einen {5} Akku. Es kostet aber fast {6} so viel wie Yukis Handy.
+      Am Ende hat Yuki {7}: Sie kauft vorerst kein neues Handy — ihr altes ist gut genug!
+    bank: [älter, besseren, billiger, dreimal, entschieden, funktioniert, gesprochen, neueres, schneller]
+    answers:
+      "1": gesprochen
+      "2": älter
+      "3": funktioniert
+      "4": schneller
+      "5": besseren
+      "6": dreimal
+      "7": entschieden
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Tom braucht einen Rat"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    transcript: "Hallo Anna, hier ist Tom. Ich rufe an wegen meinem neuen Auto. Ich habe zwei Modelle gefunden: einen blauen Kleinwagen für neuntausend Euro und einen größeren silbernen Wagen für zwölftausend Euro. Der blaue ist günstiger und sparsamer, aber der silberne ist schneller und bequemer. Er hat auch einen stärkeren Motor. Ich kann mich nicht entscheiden. Bitte ruf mich zurück und sag mir, was du denkst. Vielen Dank!"
+    items:
+      - q: "Worüber ruft Tom an?"
+        options:
+          - { key: a, text: "Wegen seiner alten Wohnung." }
+          - { key: b, text: "Wegen seinem neuen Auto." }
+          - { key: c, text: "Wegen seinem neuen Job." }
+        answer: b
+        why: "Wegen meinem neuen Auto."
+      - q: "Wie viel kostet der silberne Wagen?"
+        options:
+          - { key: a, text: "Neuntausend Euro." }
+          - { key: b, text: "Zwölftausend Euro." }
+          - { key: c, text: "Fünfzehntausend Euro." }
+        answer: b
+        why: "Zwölftausend Euro."
+      - q: "Welcher Wagen ist sparsamer?"
+        options:
+          - { key: a, text: "Der blaue." }
+          - { key: b, text: "Der silberne." }
+          - { key: c, text: "Beide gleich." }
+        answer: a
+        why: "Der blaue ist günstiger und sparsamer."
+      - q: "Was soll Anna tun?"
+        options:
+          - { key: a, text: "Zurückrufen und ihre Meinung sagen." }
+          - { key: b, text: "Eine E-Mail schicken." }
+          - { key: c, text: "Den Wagen für Tom kaufen." }
+        answer: a
+        why: "Bitte ruf mich zurück und sag mir, was du denkst."
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Komparativ bilden"
+    instructions: "Write the comparative form of each adjective."
+    text: |
+      1. schnell → {1}
+      2. teuer → {2}
+      3. modern → {3}
+      4. groß → {4}
+      5. alt → {5}
+      6. jung → {6}
+      7. warm → {7}
+      8. kalt → {8}
+      9. leicht → {9}
+      10. gut → {10}
+      11. viel → {11}
+      12. gern → {12}
+    answers:
+      "1": schneller
+      "2": teurer
+      "3": moderner
+      "4": größer
+      "5": älter
+      "6": jünger
+      "7": wärmer
+      "8": kälter
+      "9": leichter
+      "10": besser
+      "11": mehr
+      "12": lieber
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Superlativ predicative: `am ___sten`"
+    instructions: "Write the predicative superlative."
+    text: |
+      1. schnell → {1}
+      2. modern → {2}
+      3. groß → {3}
+      4. alt → {4}
+      5. gut → {5}
+      6. viel → {6}
+      7. laut → {7}
+      8. neu → {8}
+      9. gern → {9}
+      10. hoch → {10}
+    answers:
+      "1": "am schnellsten"
+      "2": "am modernsten"
+      "3": "am größten"
+      "4": "am ältesten"
+      "5": "am besten"
+      "6": "am meisten"
+      "7": "am lautesten"
+      "8": "am neuesten"
+      "9": "am liebsten"
+      "10": "am höchsten"
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`als` oder `wie`?"
+    instructions: "Fill in `als` (unequal) or `wie` (equal)."
+    text: |
+      1. Berlin ist größer {1} Wien.
+      2. München ist so schön {2} Berlin.
+      3. Das rote Kleid ist nicht so teuer {3} das blaue.
+      4. Er läuft schneller {4} ich.
+      5. Dieser Laptop ist genauso gut {5} der andere.
+      6. Die Miete in München ist höher {6} in Hamburg.
+      7. Sie singt so gut {7} ihre Mutter.
+      8. Das neue Modell ist besser {8} das alte.
+      9. Im Sommer ist es hier so warm {9} in Spanien.
+      10. Österreich hat weniger Einwohner {10} Deutschland.
+    answers:
+      "1": als
+      "2": wie
+      "3": wie
+      "4": als
+      "5": wie
+      "6": als
+      "7": wie
+      "8": als
+      "9": wie
+      "10": als
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Komparativ in Sätzen (predicative)"
+    instructions: "Fill in the comparative form of the adjective in brackets."
+    text: |
+      1. Das Hotel ist {1} (teuer) als das Hostel.
+      2. Der Zug ist {2} (schnell) als der Bus.
+      3. Diese Wohnung ist {3} (groß) als unsere alte.
+      4. Im Januar ist es {4} (kalt) als im Oktober.
+      5. München ist {5} (warm) als Berlin im Winter.
+      6. Das neue Handy ist {6} (leicht) als das alte.
+      7. Er spricht {7} (gut) Deutsch als ich.
+      8. Diese Aufgabe ist {8} (schwer) als die letzte.
+    answers:
+      "1": teurer
+      "2": schneller
+      "3": größer
+      "4": kälter
+      "5": wärmer
+      "6": leichter
+      "7": besser
+      "8": schwerer
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Superlativ predicative: Sätze"
+    instructions: "Fill in the predicative superlative form."
+    text: |
+      1. Dieses Restaurant ist {1} (teuer) in der Stadt.
+      2. Im Dezember ist es {2} (kalt) in Berlin.
+      3. Russisch ist {3} (schwer) für mich.
+      4. Diese Jacke gefällt mir {4} (gut).
+      5. Das Flugzeug ist {5} (schnell).
+      6. Im Sommer essen wir {6} (gern) draußen.
+      7. Das Matterhorn ist {7} (hoch) in der Schweiz.
+      8. Welche Stadt ist {8} (groß) in Österreich?
+    answers:
+      "1": "am teuersten"
+      "2": "am kältesten"
+      "3": "am schwersten"
+      "4": "am besten"
+      "5": "am schnellsten"
+      "6": "am liebsten"
+      "7": "am höchsten"
+      "8": "am größten"
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Superlativ attributiv: Tabelle ergänzen"
+    instructions: "Fill in the attributive superlative form with the correct ending. Definite article: Nom m/f/n → -e, others → -en."
+    text: |
+      1. der Zug (m, Nom.) + schnell → der {1} Zug
+      2. die Stadt (f, Nom.) + groß → die {2} Stadt
+      3. das Modell (n, Nom.) + günstig → das {3} Modell
+      4. den Laptop (m, Akk.) + modern → den {4} Laptop
+      5. die Straße (f, Dat.) + ruhig → in der {5} Straße
+      6. die Städte (pl, Nom.) + bekannt → die {6} Städte
+    answers:
+      "1": schnellste
+      "2": größte
+      "3": günstigste
+      "4": modernsten
+      "5": ruhigsten
+      "6": bekanntesten
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Superlativ attributiv: Sätze"
+    instructions: "Fill in the attributive superlative with the correct ending."
+    text: |
+      1. Das ist der {1} (schnell) Zug in Deutschland.
+      2. Wir suchen die {2} (günstig) Wohnung in der Stadt.
+      3. Er hat das {3} (gut) Ergebnis in der Klasse.
+      4. Welches ist das {4} (teuer) Modell hier?
+      5. Berlin hat die {5} (groß) Einwohnerzahl in Deutschland.
+      6. Ich kaufe immer das {6} (billig) Produkt.
+      7. Das ist die {7} (alt) Kirche in Wien.
+      8. Sie hat den {8} (gut) Akku aller Laptops.
+    answers:
+      "1": schnellste
+      "2": günstigste
+      "3": beste
+      "4": teuerste
+      "5": größte
+      "6": billigste
+      "7": älteste
+      "8": besten
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Irregulär: gut / viel / gern"
+    instructions: "Fill in the correct form (comparative or superlative as indicated)."
+    text: |
+      1. Dieses Hotel ist {1} (gut, Komp.) als das andere.
+      2. Er hat {2} (viel, Komp.) Geld als ich.
+      3. Sie isst {3} (gern, Komp.) Pizza als Pasta.
+      4. Das ist die {4} (gut, Superl. attr. f) Lösung.
+      5. Ich trinke Kaffee {5} (gern, Superl. pred.).
+      6. Welcher Laden hat das {6} (viel, Superl. attr. n) Angebot?
+      7. Das Konzert war {7} (gut, Superl. pred.) in diesem Jahr.
+      8. Sie hat {8} (viel, Superl. pred.) gelernt.
+    answers:
+      "1": besser
+      "2": mehr
+      "3": lieber
+      "4": beste
+      "5": "am liebsten"
+      "6": meiste
+      "7": "am besten"
+      "8": "am meisten"
+
+  - id: A9
+    block: A
+    type: free-write
+    title: "So … wie: Sätze bauen"
+    prompt: "Rewrite each comparison using `so … wie` (equal) or `nicht so … wie` (unequal, as indicated)."
+    stimulus: |
+      1. Berlin 3,7 Mio. / München 1,5 Mio. (groß, unequal) → München ist nicht so groß wie Berlin.
+      2. Mein Fahrrad / dein Fahrrad — same speed (schnell, equal) → Mein Fahrrad ist so schnell wie dein Fahrrad.
+      3. Der Zug / das Auto — same comfort today (bequem, equal) → Der Zug ist so bequem wie das Auto.
+      4. Dieser Wein / jener Wein — not the same quality, this one worse (gut, unequal) → Dieser Wein ist nicht so gut wie jener.
+      5. Das Zimmer / unser altes Zimmer — same size (groß, equal) → Das Zimmer ist so groß wie unser altes.
+    model: |
+      1. München ist nicht so groß wie Berlin.
+      2. Mein Fahrrad ist so schnell wie dein Fahrrad.
+      3. Der Zug ist so bequem wie das Auto.
+      4. Dieser Wein ist nicht so gut wie jener.
+      5. Das Zimmer ist so groß wie unser altes.
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Umlaut check"
+    instructions: "Write the comparative form. Note which adjectives take an umlaut."
+    text: |
+      1. alt → {1}
+      2. modern → {2}
+      3. groß → {3}
+      4. schnell → {4}
+      5. warm → {5}
+      6. teuer → {6}
+      7. jung → {7}
+      8. kalt → {8}
+      9. hoch → {9}
+      10. leicht → {10}
+    answers:
+      "1": älter
+      "2": moderner
+      "3": größer
+      "4": schneller
+      "5": wärmer
+      "6": teurer
+      "7": jünger
+      "8": kälter
+      "9": höher
+      "10": leichter
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Komparativ + Superlativ: fill the row"
+    instructions: "Complete the three-column table. Each row has two gaps (Komparativ + Superlativ pred.)."
+    text: |
+      1. groß → {1} · {2}
+      2. gut → {3} · {4}
+      3. viel → {5} · {6}
+      4. gern → {7} · {8}
+      5. hoch → {9} · {10}
+      6. nah → {11} · {12}
+      7. teuer → {13} · {14}
+      8. alt → {15} · {16}
+    answers:
+      "1": größer
+      "2": "am größten"
+      "3": besser
+      "4": "am besten"
+      "5": mehr
+      "6": "am meisten"
+      "7": lieber
+      "8": "am liebsten"
+      "9": höher
+      "10": "am höchsten"
+      "11": näher
+      "12": "am nächsten"
+      "13": teurer
+      "14": "am teuersten"
+      "15": älter
+      "16": "am ältesten"
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen"
+    instructions: "Fill in the blanks with the correct comparative or superlative form. 8 gaps."
+    text: |
+      — Anna, welches Café gefällt dir {1} (gut)?
+      — Das hier ist das {2} (gemütlich, attr. n) Café in der Straße, finde ich.
+      — Stimmt! Und der Kaffee hier ist {3} (gut) als im Café Stern.
+      — Ja, aber Café Stern ist {4} (billig). Der Kaffee dort kostet fast
+        doppelt so viel {5} hier.
+      — Hm, Qualität ist mir {6} (wichtig) als der Preis. Ich zahle gerne
+        ein bisschen {7} (viel).
+      — Du hast recht. Und die Stühle hier sind viel {8} (bequem) als dort!
+    answers:
+      "1": "am besten"
+      "2": gemütlichste
+      "3": besser
+      "4": billiger
+      "5": wie
+      "6": wichtiger
+      "7": mehr
+      "8": bequemer
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler"
+    instructions: "Each sentence has exactly one mistake. Write the corrected word/phrase in the gap."
+    text: |
+      1. Berlin ist größer {1} Wien. (wie → ?)
+      2. Das ist der schnellst{2} Zug in Deutschland. (missing ending)
+      3. München ist so groß {3} Berlin. (als → ?)
+      4. Das blaue Kleid ist eleganter{4} als das rote. (extra ending)
+      5. Er ist älter {5} ich. (wie → ?)
+      6. Das ist {6} besten Ergebnis in der Klasse. (wrong article form)
+      7. Sie singt {7} als ihr Bruder. (gern → comparative needed)
+      8. Hoch → Superlativ: der hochst{8} Berg. (missing umlaut)
+      9. Dieses Modell kostet mehr {9} das andere. (wie → ?)
+      10. Am kältest{10} Monat ist der Januar. (article wrong / missing -e-)
+    answers:
+      "1": als
+      "2": "schnellste (-e ending for m Nom.)"
+      "3": wie
+      "4": "eleganter (-er only, no extra -e)"
+      "5": als
+      "6": "das beste"
+      "7": lieber
+      "8": "höchste (umlaut)"
+      "9": als
+      "10": "Der kälteste"
+
+  - id: B3
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    instructions: "Match each question (1–8) with the correct answer (a–h)."
+    left:
+      - { key: "1", text: "Welche Stadt ist am größten in Deutschland?" }
+      - { key: "2", text: "Ist München teurer als Berlin?" }
+      - { key: "3", text: "Was isst du am liebsten?" }
+      - { key: "4", text: "Welches Kleid findest du schöner?" }
+      - { key: "5", text: "Ist der Zug schneller als das Auto?" }
+      - { key: "6", text: "Ist das neue Handy besser als das alte?" }
+      - { key: "7", text: "Welches Modell ist am günstigsten?" }
+      - { key: "8", text: "Hat er mehr Erfahrung als du?" }
+    right:
+      - { key: a, text: "Am liebsten Pizza." }
+      - { key: b, text: "Das blaue — es ist eleganter." }
+      - { key: c, text: "Berlin, mit etwa 3,7 Millionen." }
+      - { key: d, text: "Ja, viel teurer!" }
+      - { key: e, text: "Nein, das neue ist genauso gut." }
+      - { key: f, text: "Meistens schon, besonders auf der Autobahn." }
+      - { key: g, text: "Das graue hier — es kostet 449 Euro." }
+      - { key: h, text: "Ja, er arbeitet schon viel länger als ich." }
+    answers:
+      "1": c
+      "2": d
+      "3": a
+      "4": b
+      "5": f
+      "6": e
+      "7": g
+      "8": h
+
+  - id: B4
+    block: B
+    type: order
+    title: "Satzbau: Vergleichssätze bauen"
+    instructions: "Build a comparison sentence from the cues. Use the correct form."
+    items:
+      - tiles: [Berlin, ist, größer, als, München]
+        answer: [0, 1, 2, 3, 4]
+        note: "Berlin ist größer als München."
+      - tiles: [Der Zug, ist, so schnell, wie, das Auto]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Der Zug ist so schnell wie das Auto."
+      - tiles: [Das rote Kleid, ist, teurer, als, das blaue]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Das rote Kleid ist teurer als das blaue."
+      - tiles: [München, ist, im Winter, wärmer, als, Berlin]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "München ist im Winter wärmer als Berlin."
+      - tiles: [Dieses Hotel, ist, am günstigsten]
+        answer: [0, 1, 3, 2]
+        note: "Dieses Hotel ist am günstigsten."
+      - tiles: [der schnellste Zug, ist, das]
+        answer: [2, 1, 0]
+        note: "Das ist der schnellste Zug."
+
+  - id: B5
+    block: B
+    type: categorize
+    title: "Kategorisieren: Komparativ oder Superlativ?"
+    instructions: "Sort the 10 forms into two groups: Komparativ (comparative) or Superlativ (superlative)."
+    buckets:
+      - { key: komparativ, label: "Komparativ" }
+      - { key: superlativ, label: "Superlativ" }
+    tokens:
+      - { text: "am schönsten", bucket: superlativ }
+      - { text: "größer", bucket: komparativ }
+      - { text: "am besten", bucket: superlativ }
+      - { text: "kälter", bucket: komparativ }
+      - { text: "am meisten", bucket: superlativ }
+      - { text: "besser", bucket: komparativ }
+      - { text: "am lautesten", bucket: superlativ }
+      - { text: "länger", bucket: komparativ }
+      - { text: "am günstigsten", bucket: superlativ }
+      - { text: "mehr", bucket: komparativ }
+
+  - id: B6
+    block: B
+    type: free-write
+    title: "Übersetzen (EN → DE)"
+    prompt: "Translate each English sentence into German. Use the correct comparative or superlative form."
+    stimulus: |
+      1. Berlin is bigger than Vienna.
+      2. Munich is as expensive as Zurich.
+      3. This laptop is the cheapest in the shop.
+      4. She speaks German better than I do.
+      5. I prefer (like best) pizza.
+      6. Which hotel is the quietest?
+      7. The new model is not as fast as the old one.
+      8. Germany has more inhabitants than Austria.
+    model: |
+      1. Berlin ist größer als Wien.
+      2. München ist genauso teuer wie Zürich.
+      3. Dieser Laptop ist der günstigste im Laden.
+      4. Sie spricht Deutsch besser als ich.
+      5. Ich esse am liebsten Pizza.
+      6. Welches Hotel ist am ruhigsten?
+      7. Das neue Modell ist nicht so schnell wie das alte.
+      8. Deutschland hat mehr Einwohner als Österreich.
+
+  - id: B7
+    block: B
+    type: free-write
+    title: "Vergleiche mit Zahlen"
+    prompt: "Read the data and write a comparison sentence for each pair. Use the comparative form."
+    stimulus: |
+      Daten:
+      - Berlin: 3,7 Mio. Einwohner · München: 1,5 Mio.
+      - Berliner Durchschnittswohnung: 1.200 € · Münchner: 2.100 €
+      - Höchste Temperatur München letzten Sommer: 36 °C · Berlin: 34 °C
+      - Distanz Berlin–Hamburg: 289 km · Berlin–München: 585 km
+
+      1. (Einwohner) → Berlin ist größer als München.
+      2. (Miete) → Eine Münchner Wohnung ist teurer als eine in Berlin.
+      3. (Sommer) → Der Sommer in München war wärmer als in Berlin.
+      4. (Distanz) → Die Strecke Berlin–München ist länger als die Strecke Berlin–Hamburg.
+    model: |
+      1. Berlin hat mehr Einwohner als München.
+      2. Eine Wohnung in München ist teurer als in Berlin.
+      3. Der Sommer in München war wärmer als in Berlin.
+      4. Die Strecke Berlin–München ist länger als die Strecke Berlin–Hamburg.
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Antworten mit Superlativ"
+    prompt: "Answer each question using the superlative and the cue in brackets."
+    stimulus: |
+      1. Was isst du am liebsten? [Pizza]
+      2. Welche Jahreszeit ist am kältesten? [Winter]
+      3. Welcher Zug ist am schnellsten? [ICE]
+      4. Welche Stadt hat die meisten Einwohner in Deutschland? [Berlin]
+      5. Was findest du am schwersten auf Deutsch? [Adjektivendungen]
+    model: |
+      1. Ich esse am liebsten Pizza.
+      2. Der Winter ist am kältesten.
+      3. Der ICE ist am schnellsten.
+      4. Berlin hat die meisten Einwohner in Deutschland.
+      5. Ich finde Adjektivendungen am schwersten auf Deutsch.
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Zwei Handytarife: E-Mail an einen Freund"
+    prompt: "Antworte Tom in einer E-Mail in 4–5 Sätzen. Vergleiche die zwei Tarife und gib ihm deine Empfehlung."
+    use:
+      - "at least 2 Komparativ sentences (*X ist …er als Y.*) — using different adjectives"
+      - "at least 1 sentence with `so … wie` (equality comparison)"
+      - "at least 1 Superlativ sentence (*X ist am …sten.*) — your final recommendation"
+      - "at least 1 of the irregular comparatives (*besser / lieber / mehr*)"
+    selfCheck:
+      - "Did I form the Komparativ correctly — *-er* on most adjectives, with umlaut where required?"
+      - "Did I use `als` (not `wann` or `wie`) for inequality?"
+      - "Did I use `so … wie` (not `so … als`) for equality?"
+      - "Did I form the Superlativ with `am …sten` (predicate)?"
+    model: |
+      Hallo Tom, also ich finde Tarif B besser als Tarif A — er ist zwar
+      teurer, aber das Datenvolumen ist fünfmal so groß. Wenn du
+      viel streamst oder Videos schaust, ist Tarif B besser für dich.
+      Tarif A ist nur dann günstiger, wenn du wirklich selten das
+      Internet brauchst. Ich würde dir Tarif B empfehlen — er ist am
+      besten für deinen Alltag. LG, [Name]
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext"
+    instructions: "Fill each gap with one word."
+    text: |
+      Anna und Bruno diskutieren über ihre Lieblingsstädte. Anna findet Berlin
+      {1} interessant als München, weil es {2} Museen und
+      Kulturangebote gibt. Bruno ist anderer Meinung — für ihn ist München
+      die {3} Stadt in Deutschland. „München ist zwar {4} als
+      Berlin", gibt Bruno zu, „aber die Luft ist klarer und das Wetter ist
+      im Sommer {5} als in Berlin." Anna lacht: „Aber Berlin ist nicht
+      {6} teuer {7} München!" Das stimmt: Eine Berliner Wohnung
+      kostet viel {8} als eine in München. Am Ende sind sich beide einig:
+      Beide Städte haben ihre {9}. Die {10} Entscheidung ist die,
+      die zum eigenen Lebensstil passt.
+    answers:
+      "1": interessanter
+      "2": mehr
+      "3": schönste
+      "4": teurer
+      "5": wärmer
+      "6": so
+      "7": wie
+      "8": weniger
+      "9": Vorteile
+      "10": beste
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Das rote Fahrrad ist (1) ____ teurer als das blaue."
+        options:
+          - { key: a, text: "so" }
+          - { key: b, text: "ein bisschen" }
+          - { key: c, text: "als" }
+        answer: b
+        why: "ein bisschen teurer als (degree modifier before comparative)."
+      - q: "Aber das blaue ist (2) ____ leicht wie das rote."
+        options:
+          - { key: a, text: "genauso" }
+          - { key: b, text: "mehr" }
+          - { key: c, text: "besser" }
+        answer: a
+        why: "genauso … wie (equal comparison)."
+      - q: "…ich finde, es fährt sich (3) ____."
+        options:
+          - { key: a, text: "am bequemsten" }
+          - { key: b, text: "bequemsten" }
+          - { key: c, text: "am bequemste" }
+        answer: a
+        why: "am bequemsten (predicative superlative)."
+      - q: "Welches ist (4) ____ für lange Strecken?"
+        options:
+          - { key: a, text: "am besten" }
+          - { key: b, text: "besser" }
+          - { key: c, text: "am bestes" }
+        answer: a
+        why: "am besten (predicative superlative)."
+      - q: "Der Verkäufer sagt, das rote hat den (5) ____ Sattel."
+        options:
+          - { key: a, text: "bequemste" }
+          - { key: b, text: "bequemsten" }
+          - { key: c, text: "bequemer" }
+        answer: b
+        why: "den bequemsten Sattel (attributive, m Akk. after def article → -en)."
+      - q: "Ich nehme (6) ____ das rote, obwohl es mehr kostet."
+        options:
+          - { key: a, text: "lieber" }
+          - { key: b, text: "liebsten" }
+          - { key: c, text: "gern" }
+        answer: a
+        why: "Ich nehme lieber = I'd rather take (comparative of gern)."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
+    text: |
+      Zwei Freundinnen vergleichen Städte:
+
+      — Ich überlege, nach Berlin oder München zu ziehen. Was meinst du?
+      — Berlin ist definitiv {1} als München — günstiger und kulturell spannender.
+      — Aber München soll {2} sein — zumindest finden das viele.
+      — Das stimmt schon. Aber ich lebe {3} in Berlin {4} in München. Berlin passt mir {5}.
+      — Welche Stadt ist {6}?
+      — München, flächenmäßig. Aber in Berlin wohnen {7} Menschen.
+      — Stimmt. Und die U-Bahn in Berlin ist fast {8} gut {9} in Wien — sehr zuverlässig.
+      — Und das Wetter?
+      — München ist {10} als Berlin. Aber für mich ist Berlin trotzdem die beste Wahl!
+      — Okay, ich glaube, Berlin gewinnt!
+    bank: [ALS, AM BESTEN, BESSER, BILLIGER, GENAUSO, GÜNSTIGER, KÄLTER, KLEINER, LIEBER, MEHR, SCHÖNER, SCHNELLER, SO, TEURER, WENIGER, WIE, AM MEISTEN, AM LIEBSTEN, GRÖSSER, WÄRMER]
+    answers:
+      "1": BESSER
+      "2": SCHÖNER
+      "3": LIEBER
+      "4": ALS
+      "5": "AM BESTEN"
+      "6": GRÖSSER
+      "7": MEHR
+      "8": GENAUSO
+      "9": WIE
+      "10": WÄRMER
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: 'Lesen Text 1 — „Berlin und München — ein Vergleich"'
+    instructions: "Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?"
+    items:
+      - { q: "Berlin hat mehr Einwohner als München.", answer: true, why: "Berlin ~3,7 Mio. > München ~1,5 Mio." }
+      - { q: "Die Gehälter sind in Berlin am höchsten.", answer: false, why: "Die Gehälter sind in München am höchsten." }
+      - { q: "Eine Wohnung in München kostet fast doppelt so viel wie in Berlin.", answer: true, why: "Eine Wohnung kostet in München fast doppelt so viel wie in Berlin." }
+      - { q: "Viele junge Menschen finden München cooler als Berlin.", answer: false, why: "Viele junge Menschen finden Berlin cooler als München." }
+      - { q: "Das Wetter ist in beiden Städten genau gleich.", answer: false, why: "München ist im Winter etwas kälter als Berlin." }
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Zeitungsartikel — Wien)"
+    instructions: |
+      > Laut einer neuen Studie ist der öffentliche Nahverkehr in Wien besser als in den meisten anderen europäischen Städten. Die Wiener U-Bahn fährt alle zwei Minuten und ist günstiger als die U-Bahnen in London oder Paris. London hat zwar das älteste U-Bahn-Netz Europas (seit 1863!), aber Wien hat das modernste und sauberste System. Interessant: In Wien nutzen mehr Menschen öffentliche Verkehrsmittel als in Berlin, obwohl Berlin größer ist. Die Zufriedenheit der Wiener mit ihrem Nahverkehr ist am höchsten in Europa.
+
+      Wähle a, b oder c.
+    items:
+      - q: "Wie oft fährt die Wiener U-Bahn?"
+        options:
+          - { key: a, text: "Alle fünf Minuten" }
+          - { key: b, text: "Alle zwei Minuten" }
+          - { key: c, text: "Alle zehn Minuten" }
+        answer: b
+        why: "Alle zwei Minuten."
+      - q: "Im Vergleich zu London und Paris ist die Wiener U-Bahn …"
+        options:
+          - { key: a, text: "teurer" }
+          - { key: b, text: "langsamer" }
+          - { key: c, text: "günstiger" }
+        answer: c
+        why: "Günstiger als London oder Paris."
+      - q: "Welche Stadt hat das älteste U-Bahn-Netz in Europa?"
+        options:
+          - { key: a, text: "Wien" }
+          - { key: b, text: "Paris" }
+          - { key: c, text: "London" }
+        answer: c
+        why: "London (seit 1863)."
+      - q: "Warum ist die Wiener U-Bahn bemerkenswert?"
+        options:
+          - { key: a, text: "Sie ist am schnellsten." }
+          - { key: b, text: "Sie ist am modernsten und saubersten." }
+          - { key: c, text: "Sie ist am größten." }
+        answer: b
+        why: "Am modernsten und saubersten."
+      - q: "Was ist in Wien höher als anderswo in Europa?"
+        options:
+          - { key: a, text: "Die Preise" }
+          - { key: b, text: "Die Zufriedenheit mit dem Nahverkehr" }
+          - { key: c, text: "Die Anzahl der Linien" }
+        answer: b
+        why: "Die Zufriedenheit mit dem Nahverkehr."
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Vergleich deiner Heimatstadt mit Berlin"
+    prompt: 'Your language-exchange partner has asked: „Wo lebst du lieber — in deiner Heimatstadt oder in Berlin? Warum?" Write a reply (70–90 words) comparing both places honestly.'
+    use:
+      - "at least 3 comparative forms (`größer als`, `billiger`, `mehr …`)"
+      - "at least 1 superlative (`am ruhigsten`, `die beste …`, etc.)"
+      - "the structure `so … wie` or `genauso … wie` at least once"
+      - "at least one irregular (`besser`, `mehr`, `lieber`)"
+    selfCheck:
+      - "Did you use `als` (not `wie`) after every comparative?"
+      - "Did the superlative follow the pattern `am [Adj]-sten` (predicative) or `[article]+[Adj]-st-+ending` (attributive)?"
+      - "Did you use `so/genauso … wie` (not `als`) for equality comparisons?"
+    model: |
+      Berlin und Wien sind beide wunderschöne Städte, aber sie sind sehr
+      verschieden. Berlin ist viel größer als Wien — es hat fast viermal
+      so viele Einwohner. Wien ist jedoch teurer als Berlin, besonders
+      die Wohnungen in der Innenstadt. Ich finde, Wien ist so romantisch
+      wie Paris, aber viel günstiger. Das öffentliche Verkehrsnetz ist
+      in Wien besser als in den meisten anderen Städten. Berlin hat
+      mehr Clubs und Kulturangebote — das Nachtleben ist am
+      vielfältigsten. Für mich ist Wien die schönste Stadt in Europa.
+      Berlin gefällt mir aber auch sehr gut — ich fahre am liebsten im
+      Sommer dorthin.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per item. No notes."
+    text: |
+      1. Comparative of `groß`: {1}
+      2. Predicative superlative of `gut`: {2}
+      3. `als` or `wie`? Berlin ist größer {3} Wien.
+      4. Predicative superlative of `gern`: {4}
+      5. Attributive superlative, m Nom., `schnell`: der {5} Zug
+      6. (L6/A2) `warten auf` — accusative or dative? {6}
+      7. (L5/A2) Reflexivpronomen: ich freue mich, er freut {7}
+      8. `viel` comparative: {8}
+      9. Equality: München ist {9} schön {10} Berlin.
+      10. (L4/A2) `wenn`-Satz position of verb: position {11}
+      11. Superlative of `teuer` (predicative): {12}
+      12. (L3/A2) Connector meaning "because" (subordinate clause): {13}
+      13. Comparative of `hoch`: {14}
+      14. (L11/A1) Perfekt of `fahren`: {15} + gefahren
+      15. Attributive superlative, f Dat., `ruhig`: in der {16} Straße
+    answers:
+      "1": größer
+      "2": "am besten"
+      "3": als
+      "4": "am liebsten"
+      "5": schnellste
+      "6": accusative
+      "7": sich
+      "8": mehr
+      "9": so
+      "10": wie
+      "11": end
+      "12": "am teuersten"
+      "13": weil
+      "14": höher
+      "15": "bin"
+      "16": ruhigsten
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Cross out the word that doesn't fit."
+    groups:
+      - items: [größer, besser, mehr, schneller, neueren]
+        odd: 4
+        why: "neueren is an attributive adjective form — doesn't belong with the predicative comparative group."
+      - items: [am besten, am liebsten, am meisten, am schöneren]
+        odd: 3
+        why: "am schöneren is an invalid form — superlatives use -sten, not -eren."
+      - items: [als, wie, genauso, obwohl]
+        odd: 3
+        why: "obwohl is a concessive conjunction — not a comparison word."
+      - items: [teuer, günstig, billig, modern, mehr]
+        odd: 4
+        why: "mehr is a quantity word — not a quality adjective describing a property."
+      - items: [Preis, Einwohner, Vergleich, Unterschied, lieber]
+        odd: 4
+        why: "lieber is an adverb/comparative — not a noun; all others are nouns."
+      - items: [steigen, sinken, vergleichen, schnellste]
+        odd: 3
+        why: "schnellste is an adjective form — all others are verbs."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: A2/Lektionen 4–6"
+    text: |
+      1. (L4/A2) Translate: "If I have time, I'll call you." → {1}
+      2. (L4/A2) `als` in job context: "Sie arbeitet {2} Ärztin." (fill in)
+      3. (L5/A2) Reflexivverb: `sich ausruhen`, er-form: er {3} sich aus.
+      4. (L5/A2) `sich fühlen`, ich-form: ich {4} mich gut.
+      5. (L6/A2) `warten auf` — Was wartest du {5}? (use `es`)
+      6. (L6/A2) `sich freuen über` — translate: "She is happy about the result." → {6}
+      7. (L4/A2) `wenn`-clause word order: „{7} ich Zeit habe, komme ich." (position of verb?)
+      8. (L5/A2) `sich setzen` vs. `sitzen` — which is an action? {8}
+      9. (L3/A2) `weil`-clause: "Ich lerne Deutsch, {9} ich in Berlin wohne." (connector)
+      10. (L6/A2) `denken an` — case: accusative or dative? {10}
+    answers:
+      "1": "Wenn ich Zeit habe, rufe ich dich an."
+      "2": als
+      "3": ruht
+      "4": fühle
+      "5": darauf
+      "6": "Sie freut sich über das Ergebnis."
+      "7": "Wenn"
+      "8": "sich setzen"
+      "9": weil
+      "10": accusative
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion A2/08. Below 16 → redo Block A (A1–A8) and Block B2–B4 tomorrow, then retest D4."
+    text: |
+      **Comparative forms:**
+      1. groß → {1}   2. gut → {2}   3. viel → {3}
+      4. gern → {4}   5. hoch → {5}
+
+      **Superlative (predicative):**
+      6. schnell → {6}   7. gut → {7}   8. alt → {8}
+
+      **`als` or `wie`:**
+      9. Er ist größer {9} sein Bruder.
+      10. Sie ist so alt {10} ich.
+
+      **Attributive superlative (add the ending):**
+      11. der schnellst{11} Zug (m, Nom.) → {12}
+      12. die günstigst{13} Wohnung (f, Nom.) → {14}
+      13. das best{15} Modell (n, Nom.) → {16}
+      14. den modernst{17} Laptop (m, Akk.) → {18}
+
+      **Sentences (translate):**
+      15. "Munich is more expensive than Berlin." → {19}
+      16. "This is the best hotel in the city." → {20}
+      17. "I like pizza best." → {21}
+      18. Build: [so … wie] — Das rote Kleid / teuer / das blaue → {22}
+
+      **Vocabulary:**
+      19. German for "advantage": {23}
+      20. German for "to compare": {24}
+    answers:
+      "1": größer
+      "2": besser
+      "3": mehr
+      "4": lieber
+      "5": höher
+      "6": "am schnellsten"
+      "7": "am besten"
+      "8": "am ältesten"
+      "9": als
+      "10": wie
+      "11": "e (m Nom. after def article)"
+      "12": "der schnellste Zug"
+      "13": "e (f Nom. after def article)"
+      "14": "die günstigste Wohnung"
+      "15": "e (n Nom. after def article)"
+      "16": "das beste Modell"
+      "17": "en (m Akk. after def article)"
+      "18": "den modernsten Laptop"
+      "19": "München ist teurer als Berlin."
+      "20": "Das ist das beste Hotel in der Stadt."
+      "21": "Ich esse am liebsten Pizza."
+      "22": "Das rote Kleid ist genauso teuer wie das blaue."
+      "23": "der Vorteil"
+      "24": vergleichen

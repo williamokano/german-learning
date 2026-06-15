@@ -1,9 +1,6 @@
 # A2 · Lektion 7 — Übungen (Exercises)
 
-Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prüfungstraining →
-**D** Wiederholung & Selbsttest. Answers in `solutions.md`.
-Tip: spread the blocks over several days — H and A on day 1, B on day 2,
-C on day 3, D on day 4 after a pause.
+Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Answers in solutions.md. Tip: spread the blocks over several days — H and A on day 1, B on day 2, C on day 3, D on day 4 after a pause.
 
 ---
 
@@ -13,12 +10,12 @@ C on day 3, D on day 4 after a pause.
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: **Richtig (R)** oder **Falsch (F)**?
+Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
-1. Anna und Bruno sind in einem Kaufhaus. ___
-2. Das rote Kleid ist teurer als das blaue. ___
-3. Bruno findet das blaue Kleid schöner. ___
-4. Am Ende kauft Anna das rote Kleid. ___
+1. Anna und Bruno sind in einem Kaufhaus. ( )
+2. Das rote Kleid ist teurer als das blaue. ( )
+3. Bruno findet das blaue Kleid schöner. ( )
+4. Am Ende kauft Anna das rote Kleid. ( )
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
@@ -26,61 +23,35 @@ Listen to Dialog A and decide: **Richtig (R)** oder **Falsch (F)**?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Was sucht Frau Weber?
-   a) Ein Kleid   b) Einen Laptop   c) Ein Smartphone
-
-2. Welcher Laptop ist am günstigsten?
-   a) Der schwarze   b) Der graue   c) Der mit 449 Euro
-
-3. Was ist besser beim schwarzen Laptop?
-   a) Das Design   b) Der Akku   c) Der Preis
-
-4. Was kauft Frau Weber am Ende?
-   a) Den günstigsten Laptop   b) Den schwarzen Laptop   c) Keinen Laptop
+1. Was sucht Frau Weber?  a) Ein Kleid  b) Einen Laptop  c) Ein Smartphone
+2. Welcher Laptop ist am günstigsten?  a) Der schwarze  b) Der graue  c) Der mit 449 Euro
+3. Was ist besser beim schwarzen Laptop?  a) Das Design  b) Der Akku  c) Der Preis
+4. Was kauft Frau Weber am Ende?  a) Den günstigsten Laptop  b) Den schwarzen Laptop  c) Keinen Laptop
 
 ## Übung H3 — Hörtext-Lückentext
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 7 missing words. **Two words in the box are not needed.**
-
-**Word bank:** älter · besseren · billiger · dreimal · entschieden · funktioniert · gesprochen · neueres · schneller
+Listen and fill in the 7 missing words. Two words in the box are not needed.
 
 > Yuki wohnt in München und macht gerade einen Deutschkurs. Gestern hat sie mit
 > ihrer Freundin Hana über Smartphones (1) ______. Yukis Handy ist (2) ______ als
 > Hanas Handy, aber es (3) ______ noch gut. Hanas neues Modell ist (4) ______ und
 > hat einen (5) ______ Akku. Es kostet aber fast (6) ______ so viel wie Yukis Handy.
-> Am Ende hat Yuki (7) ______: Sie kauft vorerst kein neues Handy — ihr altes ist
-> gut genug!
+> Am Ende hat Yuki (7) ______: Sie kauft vorerst kein neues Handy — ihr altes ist gut genug!
 
-*(Note: the word bank has 9 words; 7 fit the gaps, 2 are distractors.)*
+> (älter · besseren · billiger · dreimal · entschieden · funktioniert · gesprochen · neueres · schneller)
 
 ## Übung H4 — Kurze Ansage: Tom braucht einen Rat
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the voice message. Then choose the correct answer (a, b, or c).
-Listen **once** before reading the transcript below.
+Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
 
-1. Worüber ruft Tom an?  
-   a) Wegen seiner alten Wohnung.  
-   b) Wegen seinem neuen Auto.  
-   c) Wegen seinem neuen Job.
-
-2. Wie viel kostet der silberne Wagen?  
-   a) Neuntausend Euro.  
-   b) Zwölftausend Euro.  
-   c) Fünfzehntausend Euro.
-
-3. Welcher Wagen ist sparsamer?  
-   a) Der blaue.  
-   b) Der silberne.  
-   c) Beide gleich.
-
-4. Was soll Anna tun?  
-   a) Zurückrufen und ihre Meinung sagen.  
-   b) Eine E-Mail schicken.  
-   c) Den Wagen für Tom kaufen.
+1. Worüber ruft Tom an?  a) Wegen seiner alten Wohnung.  b) Wegen seinem neuen Auto.  c) Wegen seinem neuen Job.
+2. Wie viel kostet der silberne Wagen?  a) Neuntausend Euro.  b) Zwölftausend Euro.  c) Fünfzehntausend Euro.
+3. Welcher Wagen ist sparsamer?  a) Der blaue.  b) Der silberne.  c) Beide gleich.
+4. Was soll Anna tun?  a) Zurückrufen und ihre Meinung sagen.  b) Eine E-Mail schicken.  c) Den Wagen für Tom kaufen.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -97,7 +68,7 @@ Listen **once** before reading the transcript below.
 
 # Block A — Basistraining
 
-## Übung A1 — Komparativ bilden (forming the comparative)
+## Übung A1 — Komparativ bilden
 
 Write the comparative form of each adjective.
 
@@ -131,7 +102,7 @@ Write the predicative superlative.
 
 ## Übung A3 — `als` oder `wie`?
 
-Fill in `als` or `wie`.
+Fill in `als` (unequal) or `wie` (equal).
 
 1. Berlin ist größer ______ Wien.
 2. München ist so schön ______ Berlin.
@@ -172,16 +143,14 @@ Fill in the predicative superlative form.
 
 ## Übung A6 — Superlativ attributiv: Tabelle ergänzen
 
-Fill in the attributive superlative form with the correct ending.
+Fill in the attributive superlative form with the correct ending. Definite article: Nom m/f/n → -e, others → -en.
 
-| Artikel + Nomen | Adjektiv | Attributiver Superlativ |
-|---|---|---|
-| der Zug (m, Nom.) | schnell | der ______ Zug |
-| die Stadt (f, Nom.) | groß | die ______ Stadt |
-| das Modell (n, Nom.) | günstig | das ______ Modell |
-| den Laptop (m, Akk.) | modern | den ______ Laptop |
-| der Straße (f, Dat.) | ruhig | in der ______ Straße |
-| die Städte (pl, Nom.) | bekannt | die ______ Städte |
+1. der Zug (m, Nom.) + schnell → der ______ Zug
+2. die Stadt (f, Nom.) + groß → die ______ Stadt
+3. das Modell (n, Nom.) + günstig → das ______ Modell
+4. den Laptop (m, Akk.) + modern → den ______ Laptop
+5. die Straße (f, Dat.) + ruhig → in der ______ Straße
+6. die Städte (pl, Nom.) + bekannt → die ______ Städte
 
 ## Übung A7 — Superlativ attributiv: Sätze
 
@@ -211,22 +180,18 @@ Fill in the correct form (comparative or superlative as indicated).
 
 ## Übung A9 — So … wie: Sätze bauen
 
-Rewrite using `so … wie` (equal) or `nicht so … wie` (unequal, as indicated).
+> 1. Berlin 3,7 Mio. / München 1,5 Mio. (groß, unequal) → München ist nicht so groß wie Berlin.
+2. Mein Fahrrad / dein Fahrrad — same speed (schnell, equal) → Mein Fahrrad ist so schnell wie dein Fahrrad.
+3. Der Zug / das Auto — same comfort today (bequem, equal) → Der Zug ist so bequem wie das Auto.
+4. Dieser Wein / jener Wein — not the same quality, this one worse (gut, unequal) → Dieser Wein ist nicht so gut wie jener.
+5. Das Zimmer / unser altes Zimmer — same size (groß, equal) → Das Zimmer ist so groß wie unser altes.
 
-1. Berlin 3,7 Mio. / München 1,5 Mio. (groß, unequal):
-   München ist ______________________ Berlin.
-2. Mein Fahrrad / dein Fahrrad — same speed (schnell, equal):
-   Mein Fahrrad ______________________ dein Fahrrad.
-3. Der Zug / das Auto — same comfort today (bequem, equal):
-   Der Zug ist ______________________ das Auto.
-4. Dieser Wein / jener Wein — not the same quality, this one worse (gut, unequal):
-   Dieser Wein ______________________ jener.
-5. Das Zimmer / unser altes Zimmer — same size (groß, equal):
-   Das Zimmer ist ______________________ unser altes.
+
+**Your task:** Rewrite each comparison using `so … wie` (equal) or `nicht so … wie` (unequal, as indicated).
 
 ## Übung A10 — Umlaut check
 
-Which adjectives take an umlaut in the comparative? Write the comparative.
+Write the comparative form. Note which adjectives take an umlaut.
 
 1. alt → ______
 2. modern → ______
@@ -241,18 +206,16 @@ Which adjectives take an umlaut in the comparative? Write the comparative.
 
 ## Übung A11 — Komparativ + Superlativ: fill the row
 
-Complete the three-column table.
+Complete the three-column table. Each row has two gaps (Komparativ + Superlativ pred.).
 
-| Grundform | Komparativ | Superlativ (pred.) |
-|---|---|---|
-| groß | ______ | ______ |
-| gut | ______ | ______ |
-| viel | ______ | ______ |
-| gern | ______ | ______ |
-| hoch | ______ | ______ |
-| nah | ______ | ______ |
-| teuer | ______ | ______ |
-| alt | ______ | ______ |
+1. groß → ______ · ______
+2. gut → ______ · ______
+3. viel → ______ · ______
+4. gern → ______ · ______
+5. hoch → ______ · ______
+6. nah → ______ · ______
+7. teuer → ______ · ______
+8. alt → ______ · ______
 
 ---
 
@@ -260,35 +223,37 @@ Complete the three-column table.
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the blanks with the correct comparative or superlative form.
+Fill in the blanks with the correct comparative or superlative form. 8 gaps.
 
-— Anna, welches Café gefällt dir (1) ______ (gut)?
-— Das hier ist das (2) ______ (gemütlich, attr. n) Café in der Straße, finde ich.
-— Stimmt! Und der Kaffee hier ist (3) ______ (gut) als im Café Stern.
-— Ja, aber Café Stern ist (4) ______ (billig). Der Kaffee dort kostet fast
-  doppelt so viel (5) ______ hier.
-— Hm, Qualität ist mir (6) ______ (wichtig) als der Preis. Ich zahle gerne
-  ein bisschen (7) ______ (viel).
-— Du hast recht. Und die Stühle hier sind viel (8) ______ (bequem) als dort!
+— Anna, welches Café gefällt dir ______ (gut)?
+— Das hier ist das ______ (gemütlich, attr. n) Café in der Straße, finde ich.
+— Stimmt! Und der Kaffee hier ist ______ (gut) als im Café Stern.
+— Ja, aber Café Stern ist ______ (billig). Der Kaffee dort kostet fast
+  doppelt so viel ______ hier.
+— Hm, Qualität ist mir ______ (wichtig) als der Preis. Ich zahle gerne
+  ein bisschen ______ (viel).
+— Du hast recht. Und die Stühle hier sind viel ______ (bequem) als dort!
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly **one** mistake. Find it and write the corrected sentence.
+Each sentence has exactly one mistake. Write the corrected word/phrase in the gap.
 
-1. Berlin ist größer wie Wien.
-2. Das ist der schnellst Zug in Deutschland.
-3. München ist so groß als Berlin.
-4. Das blaue Kleid ist elegantere als das rote.
-5. Er ist älter wie ich.
-6. Das ist am besten Ergebnis in der Klasse.
-7. Sie singt gern als ihr Bruder.
-8. Hoch → Superlativ attributiv: der hochste Berg.
-9. Dieses Modell kostet mehr wie das andere.
-10. Am kälteste Monat ist der Januar.
+1. Berlin ist größer ______ Wien. (wie → ?)
+2. Das ist der schnellst______ Zug in Deutschland. (missing ending)
+3. München ist so groß ______ Berlin. (als → ?)
+4. Das blaue Kleid ist eleganter______ als das rote. (extra ending)
+5. Er ist älter ______ ich. (wie → ?)
+6. Das ist ______ besten Ergebnis in der Klasse. (wrong article form)
+7. Sie singt ______ als ihr Bruder. (gern → comparative needed)
+8. Hoch → Superlativ: der hochst______ Berg. (missing umlaut)
+9. Dieses Modell kostet mehr ______ das andere. (wie → ?)
+10. Am kältest______ Monat ist der Januar. (article wrong / missing -e-)
 
 ## Übung B3 — Frage und Antwort verbinden
 
-| Frage | | Antwort |
+Match each question (1–8) with the correct answer (a–h).
+
+| Links | | Rechts |
 |---|---|---|
 | 1. Welche Stadt ist am größten in Deutschland? | | a) Am liebsten Pizza. |
 | 2. Ist München teurer als Berlin? | | b) Das blaue — es ist eleganter. |
@@ -303,27 +268,26 @@ Each sentence has exactly **one** mistake. Find it and write the corrected sente
 
 Build a comparison sentence from the cues. Use the correct form.
 
-1. [Berlin / groß / München / unequal] → ______________________
-2. [Der Zug / schnell / das Auto / equal] → ______________________
-3. [Das rote Kleid / teuer / das blaue / unequal, comparative] → ______________________
-4. [München / warm / Berlin / im Winter, unequal] → ______________________
-5. [dieses Hotel / günstig / Superlativ pred.] → Dieses Hotel ist ______________________.
-6. [der schnell / Zug / Superlativ attr. m Nom.] → Das ist ______________________.
+1. ist – als – München – größer – Berlin
+2. das Auto – wie – Der Zug – ist – so schnell
+3. teurer – als – ist – das blaue – Das rote Kleid
+4. als – wärmer – Berlin – im Winter – ist – München
+5. ist – am günstigsten – Dieses Hotel
+6. das – ist – der schnellste Zug
 
 ## Übung B5 — Kategorisieren: Komparativ oder Superlativ?
 
-Sort the forms into two groups.
+Sort the 10 forms into two groups: Komparativ (comparative) or Superlativ (superlative).
 
-> am schönsten · größer · am besten · kälter · am meisten · besser ·
-> am lautesten · länger · am günstigsten · mehr
+> am schönsten · größer · am besten · kälter · am meisten · besser · am lautesten · länger · am günstigsten · mehr
 
 | Komparativ | Superlativ |
 |---|---|
-| | |
+|  |  |
 
 ## Übung B6 — Übersetzen (EN → DE)
 
-1. Berlin is bigger than Vienna.
+> 1. Berlin is bigger than Vienna.
 2. Munich is as expensive as Zurich.
 3. This laptop is the cheapest in the shop.
 4. She speaks German better than I do.
@@ -332,134 +296,106 @@ Sort the forms into two groups.
 7. The new model is not as fast as the old one.
 8. Germany has more inhabitants than Austria.
 
-## Übung B7 — Vergleiche mit Zahlen (comparing with numbers)
 
-Read the data and write a comparison sentence for each pair.
+**Your task:** Translate each English sentence into German. Use the correct comparative or superlative form.
 
-**Daten:**
-- Berlin: 3,7 Millionen Einwohner · München: 1,5 Millionen
-- Berliner Durchschnittswohnung: 1.200 € / Monat · Münchner: 2.100 € / Monat
-- Höchste Temperatur in München letzten Sommer: 36 °C · in Berlin: 34 °C
+## Übung B7 — Vergleiche mit Zahlen
+
+> Daten:
+- Berlin: 3,7 Mio. Einwohner · München: 1,5 Mio.
+- Berliner Durchschnittswohnung: 1.200 € · Münchner: 2.100 €
+- Höchste Temperatur München letzten Sommer: 36 °C · Berlin: 34 °C
 - Distanz Berlin–Hamburg: 289 km · Berlin–München: 585 km
 
-1. (Einwohner, größer) → ______________________
-2. (Miete, teurer) → ______________________
-3. (Sommer, wärmer) → ______________________
-4. (Distanz, weiter) → ______________________
+1. (Einwohner) → Berlin ist größer als München.
+2. (Miete) → Eine Münchner Wohnung ist teurer als eine in Berlin.
+3. (Sommer) → Der Sommer in München war wärmer als in Berlin.
+4. (Distanz) → Die Strecke Berlin–München ist länger als die Strecke Berlin–Hamburg.
+
+
+**Your task:** Read the data and write a comparison sentence for each pair. Use the comparative form.
 
 ## Übung B8 — Antworten mit Superlativ
 
-Answer each question using the superlative and the cue in brackets.
+> 1. Was isst du am liebsten? [Pizza]
+2. Welche Jahreszeit ist am kältesten? [Winter]
+3. Welcher Zug ist am schnellsten? [ICE]
+4. Welche Stadt hat die meisten Einwohner in Deutschland? [Berlin]
+5. Was findest du am schwersten auf Deutsch? [Adjektivendungen]
 
-1. Was isst du am liebsten? [Pizza] → ______________________
-2. Welche Jahreszeit ist am kältesten? [Winter] → ______________________
-3. Welcher Zug ist am schnellsten? [ICE] → ______________________
-4. Welche Stadt hat die meisten Einwohner in Deutschland? [Berlin] → ______________________
-5. Was findest du am schwersten auf Deutsch? [Adjektivendungen] → ______________________
 
-## Übung B9 — Eigenschaften: Komparativ-Ketten
-
-Look at the three items and write two comparison sentences (A > B and B > C).
-
-**Model:** Fahrrad (20 km/h) · Auto (100 km/h) · Zug (250 km/h)
-→ Das Auto ist schneller als das Fahrrad. Der Zug ist am schnellsten.
-
-1. **Preise:** T-Shirt (15 €) · Jacke (80 €) · Mantel (250 €)
-   → ______________________
-   → ______________________
-
-2. **Alter:** Anna (25 Jahre) · Bruno (28 Jahre) · Herr Steinmeyer (45 Jahre)
-   → ______________________
-   → ______________________
+**Your task:** Answer each question using the superlative and the cue in brackets.
 
 ## Übung B9 — Zwei Handytarife: E-Mail an einen Freund
 
-**E-Mail von deinem Freund Tom** *(Du hast diese E-Mail gerade bekommen)*:
-> Hi! Ich überlege, ob ich den Handytarif wechseln soll. Tarif A
-> kostet 15 Euro im Monat mit 10 GB Datenvolumen. Tarif B kostet
-> 25 Euro im Monat mit 50 GB. Tarif A ist günstiger, aber Tarif B
-> ist schneller und hat mehr Datenvolumen. Ich kann mich nicht
-> entscheiden. Was meinst du? LG, Tom
-
-**Your task:** Antworte Tom in einer E-Mail in **4–5 Sätzen**. Vergleich
-die zwei Tarife und gib ihm deine Empfehlung.
+**Your task:** Antworte Tom in einer E-Mail in 4–5 Sätzen. Vergleiche die zwei Tarife und gib ihm deine Empfehlung.
 
 Use:
-- [ ] at least **2** Komparativ sentences (*X ist …er als Y.*) — using different adjectives
-- [ ] at least **1** sentence with `so … wie` (equality comparison)
-- [ ] at least **1** Superlativ sentence (*X ist am …sten.*) — your final recommendation
-- [ ] at least **1** of the irregular comparatives (*besser / lieber / mehr*)
+- [ ] at least 2 Komparativ sentences (*X ist …er als Y.*) — using different adjectives
+- [ ] at least 1 sentence with `so … wie` (equality comparison)
+- [ ] at least 1 Superlativ sentence (*X ist am …sten.*) — your final recommendation
+- [ ] at least 1 of the irregular comparatives (*besser / lieber / mehr*)
 
-**Self-check before moving on:**
-- [ ] Did I form the Komparativ correctly — *-er* on most adjectives, with **umlaut** where required (*größer, teurer, schneller*)?
+Self-check:
+- [ ] Did I form the Komparativ correctly — *-er* on most adjectives, with umlaut where required?
 - [ ] Did I use `als` (not `wann` or `wie`) for inequality?
 - [ ] Did I use `so … wie` (not `so … als`) for equality?
 - [ ] Did I form the Superlativ with `am …sten` (predicate)?
 
-------
+---
 
 # Block C — Prüfungstraining
 
 ## Übung C1 — Lückentext
 
-Fill each gap with **one** word.
+Fill each gap with one word.
 
 Anna und Bruno diskutieren über ihre Lieblingsstädte. Anna findet Berlin
-(1) ______ interessant als München, weil es (2) ______ Museen und
+______ interessant als München, weil es ______ Museen und
 Kulturangebote gibt. Bruno ist anderer Meinung — für ihn ist München
-die (3) ______ Stadt in Deutschland. „München ist zwar (4) ______ als
+die ______ Stadt in Deutschland. „München ist zwar ______ als
 Berlin", gibt Bruno zu, „aber die Luft ist klarer und das Wetter ist
-im Sommer (5) ______ als in Berlin." Anna lacht: „Aber Berlin ist nicht
-(6) ______ teuer (7) ______ München!" Das stimmt: Eine Berliner Wohnung
-kostet viel (8) ______ als eine in München. Am Ende sind sich beide einig:
-Beide Städte haben ihre (9) ______. Die (10) ______ Entscheidung ist die,
+im Sommer ______ als in Berlin." Anna lacht: „Aber Berlin ist nicht
+______ teuer ______ München!" Das stimmt: Eine Berliner Wohnung
+kostet viel ______ als eine in München. Am Ende sind sich beide einig:
+Beide Städte haben ihre ______. Die ______ Entscheidung ist die,
 die zum eigenen Lebensstil passt.
 
-## Übung C2 — Sprachbausteine Teil 1 (multiple choice)
+## Übung C2 — Sprachbausteine Teil 1
 
 Choose the correct option (a, b, or c) for each gap.
 
-Bruno vergleicht zwei Fahrräder in einem Geschäft: „Das rote Fahrrad ist
-(1) ______ teurer als das blaue. Aber das blaue ist (2) ______ leicht wie
-das rote — ich finde, es fährt sich (3) ______. Welches ist (4) ______ für
-lange Strecken? Der Verkäufer sagt, das rote hat den (5) ______ Sattel.
-Ich nehme (6) ______ das rote, obwohl es mehr kostet."
-
-1. a) so    b) ein bisschen   c) als
-2. a) genauso   b) mehr   c) besser
-3. a) am bequemsten   b) bequemsten   c) am bequemste
-4. a) am besten   b) besser   c) am bestes
-5. a) bequemste   b) bequemsten   c) bequemer
-6. a) lieber   b) liebsten   c) gern
+1. Das rote Fahrrad ist (1) ____ teurer als das blaue.  a) so  b) ein bisschen  c) als
+2. Aber das blaue ist (2) ____ leicht wie das rote.  a) genauso  b) mehr  c) besser
+3. …ich finde, es fährt sich (3) ____.  a) am bequemsten  b) bequemsten  c) am bequemste
+4. Welches ist (4) ____ für lange Strecken?  a) am besten  b) besser  c) am bestes
+5. Der Verkäufer sagt, das rote hat den (5) ____ Sattel.  a) bequemste  b) bequemsten  c) bequemer
+6. Ich nehme (6) ____ das rote, obwohl es mehr kostet.  a) lieber  b) liebsten  c) gern
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Ten words are not needed.**
-Each word may be used once.
+Fill the 10 gaps from the box. Ten words are not needed. Each word once.
 
-> ALS · AM BESTEN · BESSER · BILLIGER · GENAUSO · GÜNSTIGER · KÄLTER · KLEINER · LIEBER · MEHR ·
-> SCHÖNER · SCHNELLER · SO · TEURER · WENIGER · WIE · AM MEISTEN · AM LIEBSTEN · GRÖSSER · WÄRMER
+> Zwei Freundinnen vergleichen Städte:
+> 
+> — Ich überlege, nach Berlin oder München zu ziehen. Was meinst du?
+> — Berlin ist definitiv (1) ______ als München — günstiger und kulturell spannender.
+> — Aber München soll (2) ______ sein — zumindest finden das viele.
+> — Das stimmt schon. Aber ich lebe (3) ______ in Berlin (4) ______ in München. Berlin passt mir (5) ______.
+> — Welche Stadt ist (6) ______?
+> — München, flächenmäßig. Aber in Berlin wohnen (7) ______ Menschen.
+> — Stimmt. Und die U-Bahn in Berlin ist fast (8) ______ gut (9) ______ in Wien — sehr zuverlässig.
+> — Und das Wetter?
+> — München ist (10) ______ als Berlin. Aber für mich ist Berlin trotzdem die beste Wahl!
+> — Okay, ich glaube, Berlin gewinnt!
 
-Zwei Freundinnen vergleichen Städte:
+> ALS · AM BESTEN · AM LIEBSTEN · AM MEISTEN · BESSER · BILLIGER · GENAUSO · GRÖSSER · GÜNSTIGER · KÄLTER · KLEINER · LIEBER · MEHR · SCHNELLER · SCHÖNER · SO · TEURER · WÄRMER · WENIGER · WIE
 
-— Ich überlege, nach Berlin oder München zu ziehen. Was meinst du?
-— Berlin ist definitiv (1) ______ als München — günstiger und
-  kulturell spannender.
-— Aber München soll (2) ______ sein — zumindest finden das viele.
-— Das stimmt schon. Aber ich lebe (3) ______ in Berlin (4) ______ in
-  München. Berlin passt mir (5) ______.
-— Welche Stadt ist (6) ______?
-— München, flächenmäßig. Aber in Berlin wohnen (7) ______ Menschen.
-— Stimmt. Und die U-Bahn in Berlin ist fast (8) ______ gut
-  (9) ______ in Wien — sehr zuverlässig.
-— Und das Wetter?
-— München ist (10) ______ als Berlin. Aber für mich ist Berlin trotzdem die beste Wahl!
-— Okay, ich glaube, Berlin gewinnt!
+Five words are not needed.
 
-## Übung C4 — Lesen
+## Übung C4a — Lesen Text 1 — „Berlin und München — ein Vergleich"
 
-**Text 1:** Read „Berlin und München — ein Vergleich" in `lesson.md`, section 5.
-**Richtig (R) oder Falsch (F)?**
+Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?
 
 1. Berlin hat mehr Einwohner als München. ( )
 2. Die Gehälter sind in Berlin am höchsten. ( )
@@ -467,46 +403,30 @@ Zwei Freundinnen vergleichen Städte:
 4. Viele junge Menschen finden München cooler als Berlin. ( )
 5. Das Wetter ist in beiden Städten genau gleich. ( )
 
-**Text 2 — Zeitungsartikel:**
+## Übung C4b — Lesen Text 2 (Zeitungsartikel — Wien)
 
-> Laut einer neuen Studie ist der öffentliche Nahverkehr in Wien besser als
-> in den meisten anderen europäischen Städten. Die Wiener U-Bahn fährt alle
-> zwei Minuten und ist günstiger als die U-Bahnen in London oder Paris. London
-> hat zwar das älteste U-Bahn-Netz Europas (seit 1863!), aber Wien hat das
-> modernste und sauberste System. Interessant: In Wien nutzen mehr Menschen
-> öffentliche Verkehrsmittel als in Berlin, obwohl Berlin größer ist. Die
-> Zufriedenheit der Wiener mit ihrem Nahverkehr ist am höchsten in Europa.
+> Laut einer neuen Studie ist der öffentliche Nahverkehr in Wien besser als in den meisten anderen europäischen Städten. Die Wiener U-Bahn fährt alle zwei Minuten und ist günstiger als die U-Bahnen in London oder Paris. London hat zwar das älteste U-Bahn-Netz Europas (seit 1863!), aber Wien hat das modernste und sauberste System. Interessant: In Wien nutzen mehr Menschen öffentliche Verkehrsmittel als in Berlin, obwohl Berlin größer ist. Die Zufriedenheit der Wiener mit ihrem Nahverkehr ist am höchsten in Europa.
 
-Choose a, b, or c:
+Wähle a, b oder c.
 
-6. Wie oft fährt die Wiener U-Bahn?
-   a) Alle fünf Minuten   b) Alle zwei Minuten   c) Alle zehn Minuten
 
-7. Im Vergleich zu London und Paris ist die Wiener U-Bahn …
-   a) teurer   b) langsamer   c) günstiger
+1. Wie oft fährt die Wiener U-Bahn?  a) Alle fünf Minuten  b) Alle zwei Minuten  c) Alle zehn Minuten
+2. Im Vergleich zu London und Paris ist die Wiener U-Bahn …  a) teurer  b) langsamer  c) günstiger
+3. Welche Stadt hat das älteste U-Bahn-Netz in Europa?  a) Wien  b) Paris  c) London
+4. Warum ist die Wiener U-Bahn bemerkenswert?  a) Sie ist am schnellsten.  b) Sie ist am modernsten und saubersten.  c) Sie ist am größten.
+5. Was ist in Wien höher als anderswo in Europa?  a) Die Preise  b) Die Zufriedenheit mit dem Nahverkehr  c) Die Anzahl der Linien
 
-8. Welche Stadt hat das älteste U-Bahn-Netz in Europa?
-   a) Wien   b) Paris   c) London
+## Übung C5 — Schreiben: Vergleich deiner Heimatstadt mit Berlin
 
-9. Warum ist die Wiener U-Bahn bemerkenswert?
-   a) Sie ist am schnellsten.   b) Sie ist am modernsten und saubersten.   c) Sie ist am größten.
+**Your task:** Your language-exchange partner has asked: „Wo lebst du lieber — in deiner Heimatstadt oder in Berlin? Warum?" Write a reply (70–90 words) comparing both places honestly.
 
-10. Was ist in Wien höher als anderswo in Europa?
-    a) Die Preise   b) Die Zufriedenheit mit dem Nahverkehr   c) Die Anzahl der Linien
+Use:
+- [ ] at least 3 comparative forms (`größer als`, `billiger`, `mehr …`)
+- [ ] at least 1 superlative (`am ruhigsten`, `die beste …`, etc.)
+- [ ] the structure `so … wie` or `genauso … wie` at least once
+- [ ] at least one irregular (`besser`, `mehr`, `lieber`)
 
-## Übung C5 — Schreiben
-
-**Situation:** Your language-exchange partner has asked you: *„Wo lebst du lieber — in deiner Heimatstadt oder in Berlin? Warum?"* Write a reply (70–90 words) comparing both places honestly.
-
-Include:
-- At least **3 comparative forms** (`größer als`, `billiger`, `mehr …`)
-- At least **1 superlative** (`am ruhigsten`, `die beste …`, etc.)
-- The structure **`so … wie`** or **`genauso … wie`** at least once
-- At least **one irregular** (`besser`, `mehr`, `lieber`)
-
-A model answer is in `solutions.md` — write yours **first**.
-
-**Self-check before moving on:**
+Self-check:
 - [ ] Did you use `als` (not `wie`) after every comparative?
 - [ ] Did the superlative follow the pattern `am [Adj]-sten` (predicative) or `[article]+[Adj]-st-+ending` (attributive)?
 - [ ] Did you use `so/genauso … wie` (not `als`) for equality comparisons?
@@ -523,7 +443,7 @@ One minute per item. No notes.
 2. Predicative superlative of `gut`: ______
 3. `als` or `wie`? Berlin ist größer ______ Wien.
 4. Predicative superlative of `gern`: ______
-5. Attributive superlative, m Nom., `schnell`: der ______  Zug
+5. Attributive superlative, m Nom., `schnell`: der ______ Zug
 6. (L6/A2) `warten auf` — accusative or dative? ______
 7. (L5/A2) Reflexivpronomen: ich freue mich, er freut ______
 8. `viel` comparative: ______
@@ -532,7 +452,7 @@ One minute per item. No notes.
 11. Superlative of `teuer` (predicative): ______
 12. (L3/A2) Connector meaning "because" (subordinate clause): ______
 13. Comparative of `hoch`: ______
-14. (L11/A1) Perfekt of `fahren`: bin / haben + ______
+14. (L11/A1) Perfekt of `fahren`: ______ + gefahren
 15. Attributive superlative, f Dat., `ruhig`: in der ______ Straße
 
 ## Übung D2 — Odd one out
@@ -548,11 +468,11 @@ Cross out the word that doesn't fit.
 
 ## Übung D3 — Rückblick: A2/Lektionen 4–6
 
-1. (L4/A2) Translate: "If I have time, I'll call you." → ______________________
+1. (L4/A2) Translate: "If I have time, I'll call you." → ______
 2. (L4/A2) `als` in job context: "Sie arbeitet ______ Ärztin." (fill in)
 3. (L5/A2) Reflexivverb: `sich ausruhen`, er-form: er ______ sich aus.
 4. (L5/A2) `sich fühlen`, ich-form: ich ______ mich gut.
-5. (L6/A2) Verb with preposition: `warten auf` — Was wartest du ______? (use `es`)
+5. (L6/A2) `warten auf` — Was wartest du ______? (use `es`)
 6. (L6/A2) `sich freuen über` — translate: "She is happy about the result." → ______
 7. (L4/A2) `wenn`-clause word order: „______ ich Zeit habe, komme ich." (position of verb?)
 8. (L5/A2) `sich setzen` vs. `sitzen` — which is an action? ______
@@ -561,38 +481,31 @@ Cross out the word that doesn't fit.
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-Comparative forms:
-
+**Comparative forms:**
 1. groß → ______   2. gut → ______   3. viel → ______
 4. gern → ______   5. hoch → ______
 
-Superlative (predicative):
-
+**Superlative (predicative):**
 6. schnell → ______   7. gut → ______   8. alt → ______
 
-`als` or `wie`:
-
+**`als` or `wie`:**
 9. Er ist größer ______ sein Bruder.
 10. Sie ist so alt ______ ich.
 
-Attributive superlative (add the ending):
+**Attributive superlative (add the ending):**
+11. der schnellst______ Zug (m, Nom.) → ______
+12. die günstigst______ Wohnung (f, Nom.) → ______
+13. das best______ Modell (n, Nom.) → ______
+14. den modernst______ Laptop (m, Akk.) → ______
 
-11. der schnellst___ Zug (m, Nom.) → ______
-12. die günstigst___ Wohnung (f, Nom.) → ______
-13. das best___ Modell (n, Nom.) → ______
-14. den modernst___ Laptop (m, Akk.) → ______
+**Sentences (translate):**
+15. "Munich is more expensive than Berlin." → ______
+16. "This is the best hotel in the city." → ______
+17. "I like pizza best." → ______
+18. Build: [so … wie] — Das rote Kleid / teuer / das blaue → ______
 
-Sentences:
-
-15. Translate: "Munich is more expensive than Berlin." → ______________________
-16. Translate: "This is the best hotel in the city." → ______________________
-17. Translate: "I like pizza best." → ______________________
-18. Build: [so … wie] — Das rote Kleid / teuer / das blaue → ______________________
-
-Vocabulary:
-
+**Vocabulary:**
 19. German for "advantage": ______
 20. German for "to compare": ______
 
-**Score: ____ / 20.** 16+ → Lektion A2/08. Below 16 → redo Block A (A1–A8)
-and Block B2–B4 tomorrow, then retest D4.
+_16+ / 20 → Lektion A2/08. Below 16 → redo Block A (A1–A8) and Block B2–B4 tomorrow, then retest D4._
