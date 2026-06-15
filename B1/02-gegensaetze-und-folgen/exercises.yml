@@ -1,0 +1,1003 @@
+lesson: B1/02
+title: "B1 · Lektion 2 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Tomáš bleibt nur bis Donnerstag in Berlin."
+        answer: true
+        why: 'Tomáš sagt: "Nur bis Donnerstag."'
+      - q: "Pavel bereut seinen Umzug nach Berlin."
+        answer: false
+        why: 'Pavel sagt: "Nein, überhaupt nicht."'
+      - q: "Die Miete in Berlin ist günstiger als in Brünn."
+        answer: false
+        why: 'Pavel: "Die Miete ist zwar teurer als in Brünn."'
+      - q: "Tomáš findet, dass es in Prag jetzt auch eine Kaffeeszene gibt."
+        answer: true
+        why: 'Tomáš: "Prag hat sich total verändert. Es gibt jetzt auch eine echte Kaffeeszene dort."'
+      - q: "Pavel ist nach Berlin gegangen, weil er einen neuen Anfang wollte."
+        answer: true
+        why: 'Pavel: "Ich bin nach Berlin gegangen, weil ich neu anfangen wollte."'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Worauf konzentriert sich Tomáš' Startup in Berlin?"
+        options:
+          - { key: a, text: "Auf das Stadtzentrum." }
+          - { key: b, text: "Auf die Randbezirke." }
+          - { key: c, text: "Auf ganz Berlin." }
+        answer: b
+        why: 'Tomáš: "Wir konzentrieren uns ausschließlich auf Randbezirke."'
+      - q: "Wie viel Prozent der Mittel hat das Startup bereits gesichert?"
+        options:
+          - { key: a, text: "20 %." }
+          - { key: b, text: "40 %." }
+          - { key: c, text: "60 %." }
+        answer: b
+        why: 'Tomáš: "Wir haben bereits 40 % der benötigten Mittel durch EU-Förderprogramme gesichert."'
+      - q: "Was will Frau Weber am Ende des Gesprächs sehen?"
+        options:
+          - { key: a, text: "Eine Kundenliste." }
+          - { key: b, text: "Eine detaillierte Finanzprognose." }
+          - { key: c, text: "Eine Karte der Randbezirke." }
+        answer: b
+        why: 'Frau Weber: "Ich würde gern eine detaillierte Finanzprognose sehen."'
+      - q: "Wie reagiert Frau Weber auf die Präsentation?"
+        options:
+          - { key: a, text: "Sie lehnt die Investition sofort ab." }
+          - { key: b, text: "Sie ist grundsätzlich überzeugt, hat aber noch Fragen." }
+          - { key: c, text: "Sie sagt sofort zu." }
+        answer: b
+        why: 'Frau Weber: "Zwar habe ich noch einige Fragen zur Skalierbarkeit, aber der Ansatz überzeugt mich grundsätzlich."'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen to the Hörtext (Pavel's phone call) and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Hallo Mama, ich bin's, Pavel. Ich wollte kurz anrufen und erklären, warum ich
+      auch dieses Jahr nicht zurückkomme. Ich weiß, Brünn ist meine Heimat, und ich
+      vermisse euch sehr. {1} fühle ich mich in Berlin inzwischen sehr wohl.
+      {2} die Stadt manchmal hektisch ist, gibt es hier einfach Möglichkeiten, die
+      ich in Brünn nicht hätte. Der Kaffeebetrieb, wo ich arbeite, bietet mir wirklich
+      etwas Besonderes. {3} habe ich beschlossen, noch mindestens ein Jahr zu
+      bleiben. Mama, ich komme {4} nicht zu Weihnachten, aber ich buche dieses Mal
+      {5} Ostern. Das {6} ich dir. Bis dann, ich liebe euch!
+    bank: [Trotzdem, Obwohl, Deshalb, zwar, definitiv, verspreche, Darum, wünsche, Jedoch]
+    answers:
+      "1": Trotzdem
+      "2": Obwohl
+      "3": Deshalb
+      "4": zwar
+      "5": definitiv
+      "6": verspreche
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Voicemail von Tomáš"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to Tomáš's voice message to Pavel. Then choose the correct answer (a, b, or c)."
+    transcript: 'Hallo Pavel, hier ist Tomáš. Ich rufe an, weil wir heute ein Problem mit der Berliner Genehmigung haben. Obwohl wir alle Dokumente rechtzeitig eingereicht haben, hat das Amt unsere Anfrage abgelehnt. Deshalb brauchen wir dringend einen Termin mit dem zuständigen Sachbearbeiter. Trotzdem bin ich noch optimistisch — unser Anwalt sagt, wir haben gute Chancen. Kannst du morgen früh ins Büro kommen? Ich erkläre dann alles. Bitte ruf mich zurück.'
+    items:
+      - q: "Warum ruft Tomáš an?"
+        options:
+          - { key: a, text: "Weil die Berliner Präsentation sehr gut gelaufen ist." }
+          - { key: b, text: "Weil es ein Problem mit der Genehmigung gibt." }
+          - { key: c, text: "Weil er mehr Investoren gefunden hat." }
+        answer: b
+        why: '"Weil wir heute ein Problem mit der Berliner Genehmigung haben."'
+      - q: "Was ist mit den eingereichten Dokumenten passiert?"
+        options:
+          - { key: a, text: "Das Amt hat sie angenommen." }
+          - { key: b, text: "Das Amt hat die Anfrage abgelehnt." }
+          - { key: c, text: "Die Dokumente wurden verloren." }
+        answer: b
+        why: '"Obwohl wir alle Dokumente rechtzeitig eingereicht haben, hat das Amt unsere Anfrage abgelehnt."'
+      - q: "Wie ist Tomáš' Stimmung trotz des Problems?"
+        options:
+          - { key: a, text: "Er ist sehr pessimistisch." }
+          - { key: b, text: "Er ist noch optimistisch." }
+          - { key: c, text: "Er will aufgeben." }
+        answer: b
+        why: '"Trotzdem bin ich noch optimistisch."'
+      - q: "Was soll Pavel morgen früh tun?"
+        options:
+          - { key: a, text: "Zum Amt fahren." }
+          - { key: b, text: "Den Anwalt anrufen." }
+          - { key: c, text: "Ins Büro kommen." }
+        answer: c
+        why: '"Kannst du morgen früh ins Büro kommen?"'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Konnektoren — Übersicht: Position und Wortstellung"
+    instructions: "Fill in the table. For each connector, mark: (a) type (Konj. = Konjunktion / Adv. = Adverb), (b) verb position in the clause it introduces."
+    columns: ["Konnektor", "Typ", "Verbstellung", "Beispiel"]
+    rows:
+      - label: "obwohl"
+        cells:
+          - { gap: 1, answer: "Konj." }
+          - { gap: 2, answer: "Verb-Ende (Nebensatz)" }
+          - { gap: 3, answer: "Er bleibt, obwohl er Berlin liebt." }
+      - label: "trotzdem"
+        cells:
+          - { gap: 4, answer: "Adv." }
+          - { gap: 5, answer: "V2 (Hauptsatz, Inversion)" }
+          - { gap: 6, answer: "Er liebt Berlin. Trotzdem bleibt er." }
+      - label: "deshalb"
+        cells:
+          - { gap: 7, answer: "Adv." }
+          - { gap: 8, answer: "V2 (Hauptsatz, Inversion)" }
+          - { gap: 9, answer: "Er liebt Prag. Deshalb bleibt er." }
+      - label: "zwar … aber"
+        cells:
+          - { gap: 10, answer: "zweiteilig (Adv. + Konj.)" }
+          - { gap: 11, answer: "V2 in beiden Teilen" }
+          - { gap: 12, answer: "Er ist zwar müde, aber er kommt." }
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`obwohl` — Verb ans Ende"
+    instructions: "Complete each sentence with `obwohl`. Put the verb at the end of the obwohl-clause. 8 items."
+    text: |
+      1. Er geht ins Büro, obwohl er krank {1}. (sein)
+      2. Obwohl das Wetter schlecht {2}, fahren wir in den Park. (sein)
+      3. Sie kauft das Buch, obwohl es sehr teuer {3}. (sein)
+      4. Obwohl Berlin viele Anbieter {4}, expandiert Tomáš dorthin. (haben)
+      5. Wir bleiben hier, obwohl wir eigentlich nach Hause {5}. (wollen)
+      6. Obwohl die Bürokratie kompliziert {6}, gibt er nicht auf. (sein)
+      7. Pavel genießt Berlin, obwohl er seine Familie {7}. (vermissen)
+      8. Obwohl Frau Weber noch Fragen {8}, ist sie grundsätzlich überzeugt. (haben)
+    answers:
+      "1": ist
+      "2": ist
+      "3": ist
+      "4": hat
+      "5": wollen
+      "6": ist
+      "7": vermisst
+      "8": hat
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`trotzdem` — Inversion (V2)"
+    instructions: "Rewrite the second sentence using `trotzdem` in position 1. Watch the word order! 8 items."
+    text: |
+      1. Es regnet. Ich gehe spazieren. → Es regnet. Trotzdem {1} ich spazieren.
+      2. Das Startup ist jung. Es hat viele Kunden. → Das Startup ist jung. Trotzdem {2} es viele Kunden.
+      3. Berlin ist teuer. Pavel bleibt dort. → Berlin ist teuer. Trotzdem {3} Pavel dort.
+      4. Ich bin müde. Ich gehe ins Büro. → Ich bin müde. Trotzdem {4} ich ins Büro.
+      5. Der Markt ist besetzt. Tomáš expandiert. → Der Markt ist besetzt. Trotzdem {5} Tomáš.
+      6. Die Bürokratie ist schwierig. Wir machen weiter. → Die Bürokratie ist schwierig. Trotzdem {6} wir weiter.
+      7. Sie hat keine Zeit. Sie hilft uns. → Sie hat keine Zeit. Trotzdem {7} sie uns.
+      8. Das Risiko ist hoch. Er investiert. → Das Risiko ist hoch. Trotzdem {8} er.
+    answers:
+      "1": gehe
+      "2": hat
+      "3": bleibt
+      "4": gehe
+      "5": expandiert
+      "6": machen
+      "7": hilft
+      "8": investiert
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`deshalb` / `darum` / `deswegen` — Folgen"
+    instructions: "Fill in `deshalb` (or `darum` / `deswegen` — all three accepted). V2 inversion! 8 items."
+    text: |
+      1. Er liebt Berlin. {1} kommt er oft hierher.
+      2. Das Angebot in Randbezirken ist gering. {2} expandiert das Startup dorthin.
+      3. Pavel will neu anfangen. {3} ist er nach Berlin gezogen.
+      4. Wir haben alle Dokumente eingereicht. {4} sind wir optimistisch.
+      5. Die Kaffeeszene in Berlin ist großartig. {5} arbeitet Pavel dort.
+      6. Das Netzwerk in Berlin ist stark. {6} ist Berlin strategisch wichtig.
+      7. Ich habe keine Zeit mehr. {7} komme ich nicht mit.
+      8. Die Förderung ist gesichert. {8} suchen wir nur noch privates Kapital.
+    answers:
+      "1": Deshalb
+      "2": Deshalb
+      "3": Deshalb
+      "4": Deshalb
+      "5": Deshalb
+      "6": Deshalb
+      "7": Deshalb
+      "8": Deshalb
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Gemischt: `obwohl` / `trotzdem` / `deshalb` — richtig wählen"
+    instructions: "Choose the correct connector for each gap (obwohl / trotzdem / deshalb). Pay attention to word order! 8 items."
+    text: |
+      1. Pavel vermisst Brünn. {1} fühlt er sich in Berlin wohl.
+      2. Tomáš bleibt in Prag, {2} er oft in Berlin arbeitet.
+      3. Die Miete ist hoch. {3} wohnt Pavel in Wedding.
+      4. {4} der Markt besetzt ist, sieht Tomáš eine Chance.
+      5. Das Startup ist jung. {5} hat es schon 200 Scooter.
+      6. Frau Weber hat Fragen. {6} ist sie grundsätzlich überzeugt.
+      7. Tomáš hat gute Kontakte in Berlin. {7} bleibt er in Prag.
+      8. Pavel will Kaffeeroaster werden. {8} arbeitet er in einem Spezialcafé.
+    answers:
+      "1": Trotzdem
+      "2": obwohl
+      "3": Trotzdem
+      "4": Obwohl
+      "5": Trotzdem
+      "6": Trotzdem
+      "7": Trotzdem
+      "8": Deshalb
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`zwar … aber` — zweiteilige Konstruktion"
+    instructions: "Complete each sentence with `zwar` and `aber`. 6 items."
+    text: |
+      1. Berlin ist {1} teuer, {2} es hat viele Möglichkeiten.
+      2. Das Startup ist {3} jung, {4} die Idee ist überzeugend.
+      3. Ich bin {5} müde, {6} ich mache trotzdem weiter.
+      4. Die Miete ist {7} hoch, {8} dafür ist die Lage super.
+      5. Prag ist {9} kleiner als Berlin, {10} die Lebensqualität ist sehr gut.
+      6. Das Risiko ist {11} vorhanden, {12} der Nutzen überwiegt.
+    answers:
+      "1": zwar
+      "2": aber
+      "3": zwar
+      "4": aber
+      "5": zwar
+      "6": aber
+      "7": zwar
+      "8": aber
+      "9": zwar
+      "10": aber
+      "11": zwar
+      "12": aber
+
+  - id: A7
+    block: A
+    type: order
+    title: "Satzbau: Wörter in die richtige Reihenfolge bringen"
+    instructions: "Put the words in the correct order. Watch out: trotzdem in position 1 triggers inversion!"
+    items:
+      - tiles: ["trotzdem", "bleibt", "er", "in", "Prag"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Trotzdem bleibt er in Prag. (trotzdem → position 1, verb 2nd)"
+      - tiles: ["obwohl", "er", "müde", "ist", ",", "kommt", "er"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Obwohl er müde ist, kommt er. (verb to end in obwohl-clause, then inversion in main clause)"
+      - tiles: ["deshalb", "suchen", "wir", "Investoren"]
+        answer: [0, 1, 2, 3]
+        note: "Deshalb suchen wir Investoren. (deshalb → position 1, verb 2nd)"
+      - tiles: ["er", "ist", "zwar", "müde", ",", "aber", "er", "kommt"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Er ist zwar müde, aber er kommt. (zwar after verb, aber starts 2nd clause)"
+      - tiles: ["Berlin", "hat", "er", "trotzdem", "gewählt"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Berlin hat er trotzdem gewählt. (Berlin in pos 1, verb 2nd; trotzdem in middle)"
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Umformung: zwei Sätze verbinden"
+    instructions: "Combine the two sentences using the connector in brackets. Rewrite as one sentence or two connected sentences. 6 items."
+    text: |
+      1. Berlin ist teuer. Pavel wohnt dort. [trotzdem] → Berlin ist teuer. Trotzdem {1} Pavel dort.
+      2. Tomáš liebt Prag. Er verbringt viel Zeit in Berlin. [obwohl] → Tomáš verbringt viel Zeit in Berlin, obwohl er Prag {2}.
+      3. Pavel will Roaster werden. Er macht eine Ausbildung. [deshalb] → Pavel will Roaster werden. Deshalb {3} er eine Ausbildung.
+      4. Das Startup ist jung. Es ist schon erfolgreich. [zwar … aber] → Das Startup ist {4} jung, {5} es ist schon erfolgreich.
+      5. Die Bürokratie ist kompliziert. Tomáš gibt nicht auf. [dennoch] → Die Bürokratie ist kompliziert. Dennoch {6} Tomáš nicht auf.
+      6. Die Nachfrage ist hoch. Das Angebot ist minimal. [jedoch] → Die Nachfrage ist hoch, das Angebot {7} minimal.
+    answers:
+      "1": wohnt
+      "2": liebt
+      "3": macht
+      "4": zwar
+      "5": aber
+      "6": gibt
+      "7": jedoch
+
+  - id: A9
+    block: A
+    type: true-false
+    title: "Grammatik-Check: Richtig oder falsch?"
+    instructions: "Is the German sentence grammatically correct? Answer R (richtig) or F (falsch). If F, identify the error."
+    items:
+      - q: "Er bleibt in Berlin, obwohl er Prag liebt."
+        answer: true
+        why: "Correct: obwohl + verb-final (liebt)."
+      - q: "Obwohl er müde ist, kommt trotzdem er."
+        answer: false
+        why: "Error: after the obwohl-clause (inversion trigger), the verb must come before the subject. Correct: Obwohl er müde ist, kommt er trotzdem."
+      - q: "Deshalb er kommt nicht."
+        answer: false
+        why: "Error: deshalb in position 1 requires V2 inversion. Correct: Deshalb kommt er nicht."
+      - q: "Das Startup ist zwar jung, aber es hat schon viele Kunden."
+        answer: true
+        why: "Correct: zwar after verb, aber starts second clause."
+      - q: "Trotzdem bleibt er in Prag."
+        answer: true
+        why: "Correct: trotzdem in position 1, verb (bleibt) in position 2."
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Konnektor aus dem Kontext wählen"
+    instructions: "Fill in the missing connector (obwohl / trotzdem / deshalb / darum / zwar / dennoch / jedoch). 8 items."
+    text: |
+      1. Pavel vermisst seine Eltern in Brünn. {1} ruft er sie jeden Sonntag an.
+      2. Das Cafe in Prenzlauer Berg ist sehr beliebt. {2} muss Pavel oft Überstunden machen.
+      3. Tomáš wohnt in Prag, {3} er fast jede Woche nach Berlin fährt.
+      4. Die Finanzierung ist {4} noch nicht vollständig, {5} die Chancen sind gut.
+      5. Frau Weber hat noch Fragen. {6} findet sie den Ansatz überzeugend.
+      6. Das Amt hat die Anfrage abgelehnt. {7} geben sie nicht auf.
+      7. Berlin hat ein starkes Startup-Netzwerk. {8} ist die Stadt für Tomáš so wichtig.
+      8. Die Kosten sind hoch, die Nachfrage {9} steigt stetig.
+    answers:
+      "1": Deshalb
+      "2": Deshalb
+      "3": obwohl
+      "4": zwar
+      "5": aber
+      "6": Trotzdem
+      "7": Trotzdem
+      "8": Deshalb
+      "9": jedoch
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: false
+    title: "Dialog ergänzen: Diskussion über Wohnorte"
+    instructions: "Fill in the blanks with the correct connector (obwohl / trotzdem / deshalb / zwar / aber / dennoch). 8 gaps."
+    text: |
+      — Warum bist du nach Köln gezogen?
+      — Mein Job ist hier. {1} bin ich umgezogen, {2} mir Berlin eigentlich besser gefällt.
+      — Vermisst du Berlin?
+      — Ja, sehr. Berlin ist {3} chaotisch, {4} es hat eine Energie, die ich vermisse.
+      — Hast du schon überlegt zurückzugehen?
+      — Manchmal. {5} ich gute Freunde in Berlin habe, ist mein Leben jetzt in Köln.
+      — {6} könntest du ja pendeln.
+      — Das wäre teuer. {7} überlege ich, ob ich das wirklich will. Ich weiß es noch nicht genau.
+      — Verstehe. Das ist eine schwierige Entscheidung. {8} musst du irgendwann wählen.
+    answers:
+      "1": Deshalb
+      "2": obwohl
+      "3": zwar
+      "4": aber
+      "5": Obwohl
+      "6": Trotzdem
+      "7": Trotzdem
+      "8": Trotzdem
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Finde den Fehler — Wortstellung"
+    prompt: "Each sentence has exactly one word-order error. Find it and write the corrected sentence. 6 items."
+    stimulus: |
+      1. Obwohl er kennt Berlin gut, bleibt er in Prag.
+      2. Er ist müde. Trotzdem er geht ins Büro.
+      3. Die Kosten sind hoch. Deshalb er investiert nicht mehr.
+      4. Das Startup ist zwar jung aber, es ist schon erfolgreich.
+      5. Obwohl der Markt besetzt ist, trotzdem expandiert er.
+      6. Die Nachfrage ist groß. Darum wächst das Startup sehr schnell.
+    model: |
+      1. Obwohl er Berlin gut kennt, bleibt er in Prag. (verb to end in obwohl-clause: kennt)
+      2. Er ist müde. Trotzdem geht er ins Büro. (trotzdem pos. 1 → V2 inversion)
+      3. Die Kosten sind hoch. Deshalb investiert er nicht mehr. (deshalb pos. 1 → V2)
+      4. Das Startup ist zwar jung, aber es ist schon erfolgreich. (comma before aber)
+      5. Obwohl der Markt besetzt ist, expandiert er. (trotzdem is redundant after obwohl-clause)
+      6. Die Nachfrage ist groß. Darum wächst das Startup sehr schnell. (correct — no error)
+
+  - id: B3
+    block: B
+    type: single-choice
+    title: "Richtigen Konnektor wählen"
+    instructions: "Choose the correct connector (a, b, or c) for each gap."
+    items:
+      - q: "Er bleibt in Prag, ______ er Berlin liebt."
+        options:
+          - { key: a, text: "trotzdem" }
+          - { key: b, text: "obwohl" }
+          - { key: c, text: "deshalb" }
+        answer: b
+        why: "obwohl introduces a subordinate clause (verb-final). trotzdem would need a new main clause."
+      - q: "Das Startup ist jung. ______ hat es schon viele Kunden."
+        options:
+          - { key: a, text: "Obwohl" }
+          - { key: b, text: "Weil" }
+          - { key: c, text: "Trotzdem" }
+        answer: c
+        why: "trotzdem (adverb) connects two main clauses expressing contrast. obwohl would need a Nebensatz."
+      - q: "Pavel liebt Berlin. ______ ist er geblieben."
+        options:
+          - { key: a, text: "Deshalb" }
+          - { key: b, text: "Obwohl" }
+          - { key: c, text: "Zwar" }
+        answer: a
+        why: "deshalb introduces a consequence. The previous sentence gives the reason."
+      - q: "Die Kosten sind ______ hoch, ______ die Qualität ist ausgezeichnet."
+        options:
+          - { key: a, text: "zwar … aber" }
+          - { key: b, text: "obwohl … trotzdem" }
+          - { key: c, text: "deshalb … weil" }
+        answer: a
+        why: "zwar ... aber is the two-part concession structure."
+      - q: "Er hat keine Genehmigung. ______ gibt er nicht auf."
+        options:
+          - { key: a, text: "Weil" }
+          - { key: b, text: "Dennoch" }
+          - { key: c, text: "Obwohl" }
+        answer: b
+        why: "dennoch (= trotzdem, more formal) contrasts the obstacle with the determined action."
+      - q: "Die Nachfrage in Randbezirken ist groß. ______ expandiert das Startup dorthin."
+        options:
+          - { key: a, text: "Obwohl" }
+          - { key: b, text: "Trotzdem" }
+          - { key: c, text: "Deswegen" }
+        answer: c
+        why: "deswegen states the consequence of the high demand."
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Satzhälften verbinden"
+    instructions: "Match each sentence beginning (1–6) with the correct ending (a–g). One ending is not needed."
+    left:
+      - { key: "1", text: "Er bleibt in Prag, obwohl" }
+      - { key: "2", text: "Das Startup ist zwar jung," }
+      - { key: "3", text: "Tomáš fliegt oft nach Berlin." }
+      - { key: "4", text: "Obwohl die Bürokratie schwierig ist," }
+      - { key: "5", text: "Die Miete ist hoch." }
+      - { key: "6", text: "Pavel vermisst seine Familie. Dennoch" }
+    right:
+      - { key: a, text: "aber es hat schon gute Bewertungen." }
+      - { key: b, text: "er Berlin sehr mag." }
+      - { key: c, text: "bleibt er in Berlin." }
+      - { key: d, text: "Deshalb muss Pavel mehr verdienen." }
+      - { key: e, text: "Deshalb ist Berlin für ihn strategisch wichtig." }
+      - { key: f, text: "gibt Tomáš nicht auf." }
+      - { key: g, text: "obwohl er eigentlich müde ist." }
+    answers:
+      "1": b
+      "2": a
+      "3": e
+      "4": f
+      "5": d
+      "6": c
+
+  - id: B5
+    block: B
+    type: order
+    title: "Zwei Sätze zu einem verbinden"
+    instructions: "Connect the two sentences using the given connector. Reorder words if needed."
+    items:
+      - tiles: ["Er", "ist", "müde", ".", "Trotzdem", "kommt", "er", "zum", "Meeting"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Er ist müde. Trotzdem kommt er zum Meeting."
+      - tiles: ["Obwohl", "die", "Kosten", "hoch", "sind", ",", "investiert", "er"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Obwohl die Kosten hoch sind, investiert er."
+      - tiles: ["Das", "Startup", "hat", "Probleme", ".", "Dennoch", "wächst", "es"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Das Startup hat Probleme. Dennoch wächst es."
+      - tiles: ["Pavel", "liebt", "Berlin", ".", "Deshalb", "bleibt", "er", "dort"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Pavel liebt Berlin. Deshalb bleibt er dort."
+
+  - id: B6
+    block: B
+    type: gap-text
+    listLayout: false
+    title: "C1-Stil Lückentext — Nachhaltige Mobilität"
+    instructions: "Fill in the 6 gaps with the correct connector or word."
+    text: |
+      Nachhaltige Mobilität ist in Großstädten ein wichtiges Thema. {1} viele
+      Städte bereits auf E-Mobilität setzen, fehlt es oft an der nötigen
+      Infrastruktur. {2} investieren Städte wie Berlin und Hamburg massiv in
+      den Ausbau von Ladestationen und Radwegen. Das Ergebnis ist zwar noch
+      nicht perfekt, {3} die Tendenz ist eindeutig positiv. Viele Bürger
+      nutzen {4} ihr Auto immer noch, weil öffentliche Verkehrsmittel nicht
+      überall verlässlich sind. {5} suchen Startups wie das von Tomáš nach
+      Lösungen für die Randbezirke, wo der ÖPNV besonders schwach ist.
+      Nachhaltigkeit und Wirtschaftlichkeit schließen sich {6} nicht aus —
+      im Gegenteil: Sie ergänzen sich.
+    answers:
+      "1": Obwohl
+      "2": Deshalb
+      "3": aber
+      "4": zwar
+      "5": Deswegen
+      "6": dennoch
+
+  - id: B7
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Umformung: `zwar … aber` verwenden"
+    instructions: "Rewrite each pair of sentences using `zwar … aber`. 4 items."
+    text: |
+      1. Das Café ist klein. Es hat aber viele Stammkunden.
+         → Das Café ist {1} klein, {2} es hat viele Stammkunden.
+      2. Berlin ist hektisch. Ich liebe es trotzdem.
+         → Berlin ist {3} hektisch, {4} ich liebe es trotzdem.
+      3. Die Präsentation war kurz. Sie war aber sehr überzeugend.
+         → Die Präsentation war {5} kurz, {6} sie war sehr überzeugend.
+      4. Prag ist günstig. Berlin bietet aber mehr Netzwerk.
+         → Prag ist {7} günstiger, {8} Berlin bietet mehr Netzwerk.
+    answers:
+      "1": zwar
+      "2": aber
+      "3": zwar
+      "4": aber
+      "5": zwar
+      "6": aber
+      "7": zwar
+      "8": aber
+
+  - id: B8
+    block: B
+    type: single-choice
+    title: "Leseverstehen: Lesetext (Tomáš und das Berlin-Experiment)"
+    instructions: "Read the Lesetext in lesson.md, section 5. Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Wo hat Tomáš sein Startup gegründet?"
+        options:
+          - { key: a, text: "In Berlin." }
+          - { key: b, text: "In Prag." }
+          - { key: c, text: "In Wien." }
+        answer: b
+        why: '"Tomáš Novák gründete sein E-Scooter-Startup vor drei Jahren in Prag."'
+      - q: "Was unterscheidet Tomáš' Berliner Strategie von anderen Anbietern?"
+        options:
+          - { key: a, text: "Er konzentriert sich auf das Stadtzentrum." }
+          - { key: b, text: "Er hat nur sehr wenige Scooter." }
+          - { key: c, text: "Er fokussiert auf Randbezirke mit minimalem Angebot." }
+        answer: c
+        why: '"Er konzentrierte sich auf die Randbezirke, wo das Angebot minimal war."'
+      - q: "Was war der entscheidende Schritt für das Startup in Berlin?"
+        options:
+          - { key: a, text: "Eine Partnerschaft mit einem lokalen Unternehmen." }
+          - { key: b, text: "EU-Förderung beantragen." }
+          - { key: c, text: "Mehr Scooter kaufen." }
+        answer: a
+        why: '"Deshalb schloss er eine Partnerschaft mit einem lokalen Berliner Unternehmen ab — das war der entscheidende Schritt."'
+      - q: "Welcher Satz beschreibt Tomáš' Haltung am besten?"
+        options:
+          - { key: a, text: "Er glaubt, Nachhaltigkeit und Erfolg passen nicht zusammen." }
+          - { key: b, text: "Er ist überzeugt, dass Nachhaltigkeit und Erfolg sich ergänzen." }
+          - { key: c, text: "Er will das Startup bald verkaufen." }
+        answer: b
+        why: '"Tomáš ist überzeugt: Nachhaltigkeit und wirtschaftlicher Erfolg schließen sich nicht aus."'
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "WhatsApp-Dilemma: Berlin oder Heimat?"
+    prompt: "Dein Freund Pavel schreibt dir. Antworte in 5–6 Sätzen auf Deutsch."
+    use:
+      - "at least 1 sentence with `obwohl` (verb to end!)"
+      - "at least 1 sentence with `trotzdem` or `dennoch` (V2 inversion)"
+      - "at least 1 sentence with `deshalb` or `darum` (V2 inversion)"
+      - "1 sentence with `zwar … aber`"
+    selfCheck:
+      - "Did I put the verb at the END of the obwohl-clause?"
+      - "After trotzdem/dennoch/deshalb in position 1, does the verb come BEFORE the subject?"
+      - "In the zwar … aber sentence, is zwar after the verb and aber at the start of the second clause?"
+    stimulus: |
+      Pavel schreibt: Hey! Ich überlege gerade, ob ich zurück nach Brünn gehen
+      soll. Meine Eltern brauchen mich, und die Miete hier ist einfach zu hoch.
+      Aber mein Job hier ist toll und ich habe endlich echte Freunde in Berlin.
+      Was würdest du machen?
+    model: |
+      Hey Pavel! Das ist wirklich schwierig. Obwohl deine Eltern dich brauchen,
+      hast du in Berlin etwas aufgebaut, das wertvoll ist. Trotzdem verstehe ich
+      deinen Wunsch, nach Hause zu gehen. Du liebst deinen Job zwar, aber deine
+      Familie ist auch wichtig. Vielleicht könntest du öfter nach Brünn fahren?
+      Deshalb wäre ein Kompromiss vielleicht die beste Lösung.
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: false
+    title: "Lückentext: Tomáš und das Berlin-Experiment"
+    instructions: "Fill each gap with one word. 10 gaps."
+    text: |
+      Tomáš Novák gründete sein E-Scooter-Startup vor drei Jahren in Prag. Zwar
+      war der Prager Markt bekannt und (1) {1}, aber Tomáš erkannte schnell, dass
+      Berlin eine wichtige strategische (2) {2} war. Obwohl Berlin bereits viele
+      Mobilitätsanbieter (3) {3}, entschied er sich, trotzdem in die Stadt zu
+      expandieren — mit einem wichtigen Unterschied: Er konzentrierte sich auf die
+      Randbezirke, wo das Angebot (4) {4} war.
+
+      Die ersten Monate waren nicht einfach. Tomáš reiste fast jede Woche von Prag
+      nach Berlin. Das Netzwerk wuchs (5) {5} langsam, obwohl die bürokratischen
+      Hürden enorm waren. (6) {6} schloss er eine Partnerschaft mit einem lokalen
+      Berliner Unternehmen ab — das war der (7) {7} Schritt.
+
+      Heute hat das Startup 200 Scooter in Marzahn, Spandau und Lichtenberg. Die
+      Nutzerzahlen sind zwar noch (8) {8}, aber die Tendenz ist klar positiv.
+      Tomáš ist (9) {9}: Nachhaltigkeit und wirtschaftlicher Erfolg schließen sich
+      nicht aus. (10) {10} investiert er weiter.
+    answers:
+      "1": vertraut
+      "2": Erweiterung
+      "3": hatte
+      "4": minimal
+      "5": jedoch
+      "6": Deshalb
+      "7": entscheidende
+      "8": überschaubar
+      "9": überzeugt
+      "10": Deswegen
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Er bleibt in Prag, ______ er Berlin sehr mag."
+        options:
+          - { key: a, text: "trotzdem" }
+          - { key: b, text: "obwohl" }
+          - { key: c, text: "deshalb" }
+        answer: b
+        why: "obwohl introduces a subordinate clause — verb goes to the end."
+      - q: "Das Startup hat Probleme. ______ gibt Tomáš nicht auf."
+        options:
+          - { key: a, text: "Obwohl" }
+          - { key: b, text: "Weil" }
+          - { key: c, text: "Dennoch" }
+        answer: c
+        why: "dennoch (adverb) connects two main clauses, expressing that the action continues despite the obstacle."
+      - q: "Pavel liebt die Kaffeeszene in Berlin. ______ bleibt er dort."
+        options:
+          - { key: a, text: "Deswegen" }
+          - { key: b, text: "Obwohl" }
+          - { key: c, text: "Zwar" }
+        answer: a
+        why: "deswegen states a consequence (he stays because of his love for the scene)."
+      - q: "Die Miete ist ______ hoch, ______ die Wohnung ist sehr gut."
+        options:
+          - { key: a, text: "zwar … aber" }
+          - { key: b, text: "weil … deshalb" }
+          - { key: c, text: "obwohl … trotzdem" }
+        answer: a
+        why: "zwar … aber is the two-part concession: 'admittedly high, but the apartment is very good'."
+      - q: "Obwohl die Bürokratie schwierig ______, gibt Tomáš nicht auf."
+        options:
+          - { key: a, text: "ist" }
+          - { key: b, text: "wird" }
+          - { key: c, text: "war" }
+        answer: a
+        why: "Present tense context. obwohl-clause: verb-final (ist)."
+      - q: "Das Risiko ist groß. ______ sind die Chancen ausgezeichnet."
+        options:
+          - { key: a, text: "Trotzdem" }
+          - { key: b, text: "Weil" }
+          - { key: c, text: "Obwohl" }
+        answer: a
+        why: "trotzdem (position 1, V2) contrasts the high risk with the good prospects."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (Wortbank)"
+    instructions: "Fill the 10 gaps using words from the box. Five words are not needed."
+    bankCase: upper
+    bankSort: true
+    text: |
+      Pavel erklärt seiner Mutter, warum er in Berlin bleibt: Liebe Mama, ich
+      weiß, du machst dir Sorgen. {1} ich Brünn vermisse, fühle ich mich hier
+      sehr wohl. Die Arbeit im Café bietet mir echte Möglichkeiten. {2} habe ich
+      beschlossen, noch ein Jahr zu bleiben. Mein Chef ist {3} manchmal streng,
+      {4} er ist auch fair. Das Café ist {5} klein, {6} die Atmosphäre ist
+      einzigartig. Berlin ist teuer — {7} plane ich, in eine günstigere Wohnung
+      umzuziehen. Das Startup meines Bruders wächst hier {8}. {9} bin ich froh,
+      dass Tomáš auch öfter in der Stadt ist. Ich komme {10} zu Ostern — das
+      verspreche ich dir!
+    bank: [OBWOHL, DESHALB, ZWAR, ABER, ZWAR, ABER, DESWEGEN, SCHNELL, DARUM, TROTZDEM, WEIL, DENNOCH, JEDOCH, JEDENFALLS, ALLERDINGS]
+    answers:
+      "1": OBWOHL
+      "2": DESHALB
+      "3": ZWAR
+      "4": ABER
+      "5": ZWAR
+      "6": ABER
+      "7": DESWEGEN
+      "8": SCHNELL
+      "9": DARUM
+      "10": TROTZDEM
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1: Tomáš und das Berlin-Experiment"
+    instructions: "Read the Lesetext (lesson.md, section 5). Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Tomáš hat sein Startup in Berlin gegründet."
+        answer: false
+        why: '"Tomáš Novák gründete sein E-Scooter-Startup vor drei Jahren in Prag."'
+      - q: "Tomáš entschied sich, auf die Randbezirke zu konzentrieren."
+        answer: true
+        why: '"Er konzentrierte sich auf die Randbezirke, wo das Angebot minimal war."'
+      - q: "Das Netzwerk in Berlin wuchs sofort sehr schnell."
+        answer: false
+        why: '"Das Netzwerk wuchs jedoch langsam, obwohl die bürokratischen Hürden enorm waren."'
+      - q: "Die Partnerschaft mit einem lokalen Unternehmen war der entscheidende Schritt."
+        answer: true
+        why: '"das war der entscheidende Schritt".'
+      - q: "Tomáš glaubt, dass Nachhaltigkeit und Erfolg sich nicht vereinbaren lassen."
+        answer: false
+        why: '"Nachhaltigkeit und wirtschaftlicher Erfolg schließen sich nicht aus."'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2: Grüne Mobilität in Europa (Zeitungsartikel)"
+    instructions: |
+      Lies den Text und wähle a, b oder c.
+
+      **Europas Städte auf dem Weg zur grünen Mobilität**
+
+      Immer mehr europäische Städte investieren in nachhaltige Verkehrskonzepte.
+      Wien hat zwar bereits ein hervorragendes U-Bahn-Netz, aber die Stadt
+      fördert trotzdem zusätzlich E-Bike-Sharing-Programme in den Außenbezirken.
+      Obwohl Amsterdam als Vorbild für Fahrradkultur gilt, kämpft auch diese
+      Stadt mit wachsendem Autoverkehr. Deshalb hat die Stadt strenge Parkgebühren
+      eingeführt. In Berlin hingegen sind die Verhältnisse komplizierter: Das
+      öffentliche Verkehrsnetz ist zwar gut ausgebaut, jedoch sind die Randbezirke
+      oft schlecht angebunden. Deswegen entstehen dort neue Sharing-Modelle.
+      Dennoch bleibt die Frage offen, ob private Startups allein die Lücken
+      schließen können — oder ob die Politik handeln muss.
+
+      Wähle a, b oder c.
+    items:
+      - q: "Was macht Wien trotz seines guten U-Bahn-Netzes?"
+        options:
+          - { key: a, text: "Wien baut das U-Bahn-Netz nicht weiter aus." }
+          - { key: b, text: "Wien fördert E-Bike-Sharing in den Außenbezirken." }
+          - { key: c, text: "Wien verbietet Autos im Stadtzentrum." }
+        answer: b
+        why: '"Wien hat zwar bereits ein hervorragendes U-Bahn-Netz, aber die Stadt fördert trotzdem zusätzlich E-Bike-Sharing-Programme in den Außenbezirken."'
+      - q: "Warum hat Amsterdam strenge Parkgebühren eingeführt?"
+        options:
+          - { key: a, text: "Weil es zu viele Fahrräder gibt." }
+          - { key: b, text: "Weil das öffentliche Netz zu gut ist." }
+          - { key: c, text: "Wegen des wachsenden Autoverkehrs." }
+        answer: c
+        why: '"Obwohl Amsterdam als Vorbild für Fahrradkultur gilt, kämpft auch diese Stadt mit wachsendem Autoverkehr. Deshalb hat die Stadt strenge Parkgebühren eingeführt."'
+      - q: "Was ist das Problem in Berlins Randbezirken?"
+        options:
+          - { key: a, text: "Es gibt zu viele Sharing-Angebote." }
+          - { key: b, text: "Sie sind oft schlecht angebunden." }
+          - { key: c, text: "Die Parkgebühren sind zu hoch." }
+        answer: b
+        why: '"die Randbezirke oft schlecht angebunden [sind]".'
+      - q: "Welche Frage bleibt am Ende des Textes offen?"
+        options:
+          - { key: a, text: "Ob Wien das beste Verkehrsnetz hat." }
+          - { key: b, text: "Ob private Startups allein die Lücken schließen können." }
+          - { key: c, text: "Ob Amsterdam Fahrräder verbieten wird." }
+        answer: b
+        why: '"ob private Startups allein die Lücken schließen können — oder ob die Politik handeln muss".'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben B1: Forumsbeitrag"
+    prompt: >
+      Schreib einen Forumsbeitrag (5–6 Sätze) als Antwort auf diesen Kommentar:
+      "Man kann die Umwelt nicht retten, obwohl so viele Leute versuchen, es zu tun.
+      Sharing-Startups und E-Scooter sind doch nur ein Tropfen auf den heißen Stein."
+      Verwende mindestens 3 der 4 Konnektoren aus dieser Lektion (obwohl / trotzdem / deshalb / zwar…aber).
+    use:
+      - "at least 1 `obwohl`-clause (verb to end)"
+      - "at least 1 `trotzdem` or `dennoch` sentence (V2 inversion)"
+      - "at least 1 `deshalb` or `darum` sentence (V2 inversion)"
+      - "optionally: 1 `zwar … aber` construction"
+    selfCheck:
+      - "Does every obwohl-clause have the verb at the end?"
+      - "After trotzdem/dennoch/deshalb in position 1, does the verb come directly?"
+      - "Are there commas before obwohl and between zwar and aber clauses?"
+    model: |
+      Ich sehe das anders. Obwohl die Herausforderungen enorm sind, gibt es
+      echte Fortschritte. Sharing-Startups bieten zwar keine perfekte Lösung,
+      aber sie reduzieren immerhin den Autoverkehr in Städten. Trotzdem gebe
+      ich zu: Ohne politische Maßnahmen reicht das nicht. Die Nachfrage nach
+      nachhaltigen Alternativen wächst. Deshalb sollten wir auf Startups und
+      Politik gleichzeitig setzen — beide zusammen können etwas bewegen.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per gap. Items marked (B1/01) or (A2/03) review earlier lessons. 16 gaps across 15 items."
+    text: |
+      1. Fill in: Er bleibt, {1} er müde ist. (obwohl)
+      2. Fill in: Das Wetter ist schlecht. {2} gehe ich spazieren. (trotzdem — V2)
+      3. Fill in: Sie liebt Berlin. {3} ist sie geblieben. (deshalb — V2)
+      4. Fill in: Das Startup ist {4} jung, {5} es hat viele Kunden. (zwar … aber)
+      5. Fill in: Er hat keine Zeit. {6} kommt er nicht. (deswegen)
+      6. Fill in: {7} die Kosten hoch sind, macht er weiter. (obwohl — position 1)
+      7. Fill in: formal version of trotzdem (one word): {8}
+      8. Fill in: formal/written version of deshalb (one word, often in press texts): {9} (hint: D…)
+      9. (A2/03) Fill in: Ich komme nicht, {10} ich krank bin. (weil)
+      10. (A2/03) Rewrite with deshalb: Ich bin krank. {11} komme ich nicht.
+      11. (A2/03) Fill in: Ich glaube, {12} er recht hat. (dass)
+      12. (B1/01) Präteritum of sein, ich-form: {13}
+      13. (B1/01) Präteritum of haben, wir-form: {14}
+      14. Fill in: Die Nachfrage ist groß. {15} expandiert das Startup. (darum)
+      15. Fill in — register: In formal writing, use {16} instead of trotzdem.
+    answers:
+      "1": obwohl
+      "2": Trotzdem
+      "3": Deshalb
+      "4": zwar
+      "5": aber
+      "6": Deswegen
+      "7": Obwohl
+      "8": dennoch
+      "9": demnach
+      "10": weil
+      "11": Deshalb
+      "12": dass
+      "13": war
+      "14": hatten
+      "15": Darum
+      "16": dennoch
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Welches Wort passt nicht?"
+    instructions: "Cross out the word that does not fit and explain why."
+    groups:
+      - items: [obwohl, trotzdem, dennoch, jedoch]
+        odd: 0
+        why: "obwohl is a Konjunktion (subordinating, verb-final); the others are adverbs (main clause, V2)."
+      - items: [deshalb, darum, deswegen, obwohl]
+        odd: 3
+        why: "obwohl expresses concession; the others are all consequence adverbs (therefore/that's why)."
+      - items: [der Gegensatz, die Folge, das Argument, der Konjunktiv]
+        odd: 3
+        why: "der Konjunktiv is a grammar term (mood); the others are all debate/logic nouns."
+      - items: [widersprechen, zustimmen, scheitern, argumentieren]
+        odd: 2
+        why: "scheitern means to fail; the others are all verbs about communicating arguments."
+      - items: [die Nachfrage, das Angebot, der Markt, die Einschränkung]
+        odd: 3
+        why: "die Einschränkung is a restriction/qualification; the others are all economic/market terms."
+      - items: [zwar, aber, dennoch, dafür]
+        odd: 2
+        why: "dennoch is a standalone adverb (nevertheless); the others often appear in the zwar…aber or dafür constructions as paired elements."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: A2/03 und B1/01"
+    instructions: "Review of earlier lessons. 10 items."
+    text: |
+      **Aus A2/03 (weil, dass, deshalb):**
+      1. (A2/03) Ich komme nicht, {1} ich keine Zeit habe. (weil)
+      2. (A2/03) Er sagt, {2} er morgen kommt. (dass)
+      3. (A2/03) Sie hat Hunger. {3} geht sie in die Küche. (deshalb)
+      4. (A2/03) Ich bleibe zu Hause, {4} das Wetter schlecht ist. (weil)
+      5. (A2/03) Wir glauben, {5} die Lösung einfach ist. (dass)
+
+      **Aus B1/01 (Präteritum, Plusquamperfekt, Zeitkonnektoren):**
+      6. (B1/01) Präteritum of müssen, ich-form: {6}
+      7. (B1/01) Präteritum of können, sie (they)-form: {7}
+      8. (B1/01) Plusquamperfekt: Bevor er kam, hatte sie schon {8} (anrufen — Partizip II).
+      9. (B1/01) Time connector for "first": {9}
+      10. (B1/01) Time connector for "in the end / finally": {10}
+    answers:
+      "1": weil
+      "2": dass
+      "3": Deshalb
+      "4": weil
+      "5": dass
+      "6": musste
+      "7": konnten
+      "8": angerufen
+      "9": zuerst
+      "10": schließlich
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (bewerte dich selbst: /20)"
+    notes: "16+ / 20 → Lektion B1/03. Below 16: redo Block A2–A5 and B2 (Finde den Fehler) tomorrow, then retest D4."
+    text: |
+      **`obwohl` — Verb ans Ende:**
+      1. Er geht spazieren, obwohl es {1}. (regnen — Präsens)
+      2. {2} die Arbeit schwer ist, macht sie weiter. (obwohl in position 1)
+      3. Obwohl wir keine Zeit {3}, helfen wir. (haben)
+
+      **`trotzdem` — V2 Inversion:**
+      4. Es ist kalt. {4} {5} er schwimmen. (trotzdem + verb)
+      5. Der Markt ist besetzt. {6} {7} das Startup. (trotzdem + expandiert)
+
+      **`deshalb` — V2 Inversion:**
+      6. Pavel liebt Berlin. {8} {9} er geblieben. (deshalb + ist)
+      7. Die Förderung ist gesichert. {10} {11} das Risiko {12}. (deshalb + ist + gering)
+
+      **`zwar … aber`:**
+      8. Das Café ist {13} klein, {14} es hat viele Kunden.
+      9. Ich bin {15} müde, {16} ich mache weiter.
+
+      **Gemischt — richtigen Konnektor wählen:**
+      10. Er bleibt in Berlin, ______ er Prag liebt: {17}
+      11. Sie hat keine Zeit. ______ kommt sie: {18}
+      12. Das Startup hat Probleme. ______ gibt es nicht auf: {19}
+
+      **Übersetzen:**
+      13. "Although the market is competitive, the startup has good prospects." → {20}
+    answers:
+      "1": regnet
+      "2": Obwohl
+      "3": haben
+      "4": Trotzdem
+      "5": geht
+      "6": Trotzdem
+      "7": expandiert
+      "8": Deshalb
+      "9": ist
+      "10": Deshalb
+      "11": ist
+      "12": gering
+      "13": zwar
+      "14": aber
+      "15": zwar
+      "16": aber
+      "17": obwohl
+      "18": Trotzdem
+      "19": Dennoch
+      "20": "Obwohl der Markt umkämpft ist, hat das Startup gute Chancen."
