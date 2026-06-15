@@ -1,8 +1,19 @@
 ---
-const levels = [
-  { id: 'a1', label: 'A1 — Anfänger' },
-  { id: 'a2', label: 'A2 — Grundlegende Kenntnisse' },
-];
+import { getCollection } from 'astro:content';
+
+const all = await getCollection('lessons');
+const levelIds = [...new Set(all.map(e => e.id.split('/')[0]))].sort();
+
+const LABELS: Record<string, string> = {
+  a1: 'A1 — Anfänger',
+  a2: 'A2 — Grundlegende Kenntnisse',
+  b1: 'B1 — Fortgeschrittene Grundkenntnisse',
+  b2: 'B2 — Selbstständige Sprachverwendung',
+  c1: 'C1 — Fachkundige Sprachkenntnisse',
+  c2: 'C2 — Mastery',
+};
+
+const levels = levelIds.map(id => ({ id, label: LABELS[id] ?? id.toUpperCase() }));
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
