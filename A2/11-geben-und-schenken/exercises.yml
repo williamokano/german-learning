@@ -1,0 +1,1047 @@
+lesson: A2/11
+title: "A2 · Lektion 11 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Bruno sucht ein Geschenk für seinen Bruder."
+        answer: false
+        why: 'Bruno sucht ein Geschenk für seine Mutter, nicht seinen Bruder.'
+      - q: "Annas Tante liest gern Krimis."
+        answer: true
+        why: 'Anna: „Ich schenke meiner Tante immer Krimis".'
+      - q: 'Anna empfiehlt Bruno den Roman „Der stille Patient".'
+        answer: true
+        why: 'Anna: „habe ich ihr den Roman „Der stille Patient" geschenkt".'
+      - q: "Bruno schenkt seiner Mutter eine CD mit Mozart."
+        answer: true
+        why: 'Bruno: „Und eine CD mit Mozart schenke ich ihr auch".'
+      - q: "Bruno bringt das Geschenk am Samstag zu seiner Mutter."
+        answer: false
+        why: 'Bruno bringt alles am Sonntag zu ihr, nicht am Samstag.'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Was schenkt Frau Weber Herrn Steinmeyer?"
+        options:
+          - { key: a, text: "Eine CD" }
+          - { key: b, text: "Ein Buch" }
+          - { key: c, text: "Eine Karte" }
+        answer: b
+        why: 'Frau Weber: „Darf ich Ihnen dieses Buch geben?".'
+      - q: "Wie heißt das Buch?"
+        options:
+          - { key: a, text: '„Schachnovelle"' }
+          - { key: b, text: '„Der stille Patient"' }
+          - { key: c, text: '„Die Verwandlung"' }
+        answer: a
+        why: 'Herr Steinmeyer: „Das ist ja „Schachnovelle" von Stefan Zweig".'
+      - q: "Wohin fährt Herr Steinmeyer?"
+        options:
+          - { key: a, text: "Nach Salzburg" }
+          - { key: b, text: "Nach Berlin" }
+          - { key: c, text: "Nach Wien" }
+        answer: c
+        why: 'Frau Weber: „Es passt gut zu Ihrem neuen Job in Wien".'
+      - q: "Was will Herr Steinmeyer aus Wien schicken?"
+        options:
+          - { key: a, text: "Ein Paket" }
+          - { key: b, text: "Eine Karte" }
+          - { key: c, text: "Ein Foto" }
+        answer: b
+        why: 'Herr Steinmeyer: „Ich schreibe Ihnen aus Wien eine Karte".'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Heute ist Yuki auf dem Weihnachtsmarkt am Alexanderplatz. Sie möchte
+      ihrer Familie in Japan etwas {1}. Ein freundlicher Verkäufer
+      {2} ihr ein schönes Buch und einen warmen Schal. Yuki {3}
+      das Buch für ihre Schwester und den Schal für ihren Bruder. Der
+      Verkäufer {4} alles schön in Geschenkpapier ein und schenkt
+      ihr noch eine Karte {5}. Yuki schreibt ihren Eltern eine
+      Nachricht: „Ich {6} euch die Geschenke nächste Woche."
+    bank: [schenken, empfiehlt, kauft, packt, dazu, schicke, gibt, bringe, empfehle]
+    answers:
+      "1": schenken
+      "2": empfiehlt
+      "3": kauft
+      "4": packt
+      "5": dazu
+      "6": schicke
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Durchsage im Kaufhaus"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    transcript: 'Achtung, eine Durchsage. Liebe Kundinnen und Kunden, unser Kaufhaus schließt heute um zwanzig Uhr. Wir möchten Sie daran erinnern, dass unsere Geschenk-Werkstatt im dritten Stock noch bis achtzehn Uhr geöffnet hat. Unsere Mitarbeiter packen Ihre Geschenke kostenlos in schönes Papier ein und schreiben eine Karte für Sie. Bitte bringen Sie Ihre Einkäufe bis spätestens siebzehn Uhr dreißig in die Geschenk-Werkstatt. Vielen Dank für Ihren Besuch.'
+    items:
+      - q: "Wie spät schließt das Kaufhaus heute?"
+        options:
+          - { key: a, text: "Um achtzehn Uhr." }
+          - { key: b, text: "Um neunzehn Uhr." }
+          - { key: c, text: "Um zwanzig Uhr." }
+        answer: c
+        why: '„unser Kaufhaus schließt heute um zwanzig Uhr".'
+      - q: "Wo befindet sich die Geschenk-Werkstatt?"
+        options:
+          - { key: a, text: "Im ersten Stock." }
+          - { key: b, text: "Im zweiten Stock." }
+          - { key: c, text: "Im dritten Stock." }
+        answer: c
+        why: '„unsere Geschenk-Werkstatt im dritten Stock".'
+      - q: "Bis wann kann man Geschenke in die Werkstatt bringen?"
+        options:
+          - { key: a, text: "Bis siebzehn Uhr." }
+          - { key: b, text: "Bis siebzehn Uhr dreißig." }
+          - { key: c, text: "Bis achtzehn Uhr." }
+        answer: b
+        why: '„Bitte bringen Sie Ihre Einkäufe bis spätestens siebzehn Uhr dreißig".'
+      - q: "Was macht die Geschenk-Werkstatt kostenlos?"
+        options:
+          - { key: a, text: "Sie verpackt Geschenke und schreibt eine Karte." }
+          - { key: b, text: "Sie liefert Geschenke nach Hause." }
+          - { key: c, text: "Sie repariert alte Geschenke." }
+        answer: a
+        why: '„Unsere Mitarbeiter packen Ihre Geschenke kostenlos in schönes Papier ein und schreiben eine Karte".'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: free-write
+    title: "Two nouns: Dativ before Akkusativ"
+    prompt: "Build a sentence from the cues. Put the Dativ noun (recipient) before the Akkusativ noun (thing)."
+    stimulus: |
+      Example: ich / schenken / meine Schwester / ein Buch → Ich schenke meiner Schwester ein Buch.
+
+      1. ich / schenken / mein Bruder / ein Buch →
+      2. er / geben / der Mann / der Schlüssel →
+      3. Anna / schicken / ihre Freundin / eine Karte →
+      4. wir / erklären / die Schüler / die Regel →
+      5. du / schreiben / dein Vater / ein Brief →
+      6. ich / empfehlen / meine Kollegen / ein Restaurant →
+      7. sie / zeigen / der Lehrer / das Buch →
+      8. wir / wünschen / unsere Freunde / alles Gute →
+      9. ich / bringen / meine Gäste / Getränke →
+      10. du / leihen / dein Bruder / das Auto →
+    model: |
+      1. Ich schenke meinem Bruder ein Buch.
+      2. Er gibt dem Mann den Schlüssel.
+      3. Anna schickt ihrer Freundin eine Karte.
+      4. Wir erklären den Schülern die Regel.
+      5. Du schreibst deinem Vater einen Brief.
+      6. Ich empfehle meinen Kollegen ein Restaurant.
+      7. Sie zeigt dem Lehrer das Buch.
+      8. Wir wünschen unseren Freunden alles Gute.
+      9. Ich bringe meinen Gästen Getränke.
+      10. Du leihst deinem Bruder das Auto.
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Fill in the correct dative ending"
+    instructions: "Complete the dative noun phrase (the indirect object — the person). 10 items."
+    text: |
+      1. Ich schenke mein{1} Schwester ein Buch.
+      2. Er gibt dem{2} Kind einen Apfel.
+      3. Anna schickt ihr{3} Freundin eine Karte.
+      4. Wir erklären d{4} Schülern die Regel.
+      5. Du schreibst dein{5} Vater einen Brief.
+      6. Ich empfehle mein{6} Kollegen ein Restaurant.
+      7. Sie zeigt d{7} Lehrer das Buch.
+      8. Wir wünschen unser{8} Freunden alles Gute.
+      9. Ich bringe mein{9} Gästen Getränke.
+      10. Du leihst dein{10} Bruder das Auto.
+    answers:
+      "1": er
+      "2": ""
+      "3": er
+      "4": en
+      "5": em
+      "6": en
+      "7": em
+      "8": en
+      "9": en
+      "10": em
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Substitution: replace the dative noun with a dative pronoun"
+    instructions: "Replace the dative noun with the correct dative pronoun. Keep the accusative noun where it is. 10 items."
+    text: |
+      1. Ich schenke meiner Schwester ein Buch. → Ich schenke {1} ein Buch.
+      2. Er gibt dem Kind einen Apfel. → Er gibt {2} einen Apfel.
+      3. Anna schickt ihrer Freundin eine Karte. → Anna schickt {3} eine Karte.
+      4. Wir erklären den Schülern die Regel. → Wir erklären {4} die Regel.
+      5. Du schreibst deinem Vater einen Brief. → Du schreibst {5} einen Brief.
+      6. Ich empfehle meinen Kollegen ein Restaurant. → Ich empfehle {6} ein Restaurant.
+      7. Sie zeigt dem Lehrer das Buch. → Sie zeigt {7} das Buch.
+      8. Wir wünschen unseren Freunden alles Gute. → Wir wünschen {8} alles Gute.
+      9. Ich bringe meinen Gästen Getränke. → Ich bringe {9} Getränke.
+      10. Du leihst deinem Bruder das Auto. → Du leihst {10} das Auto.
+    answers:
+      "1": ihr
+      "2": ihm
+      "3": ihr
+      "4": ihnen
+      "5": ihm
+      "6": ihnen
+      "7": ihm
+      "8": ihnen
+      "9": ihnen
+      "10": ihm
+
+  - id: A4
+    block: A
+    type: free-write
+    title: "Two pronouns: write out the full sentence"
+    prompt: "Put the cues in the right order. Akkusativ pronoun comes before Dativ pronoun."
+    stimulus: |
+      Example: schenken / ich / es / ihr → Ich schenke es ihr.
+
+      1. schenken / ich / es / ihr →
+      2. geben / er / es / ihm →
+      3. schicken / Anna / sie / ihr →
+      4. erklären / wir / es / ihnen →
+      5. schreiben / du / es / ihm →
+      6. empfehlen / ich / sie / ihnen →
+      7. zeigen / sie / es / ihm →
+      8. bringen / wir / sie / dir →
+      9. leihen / du / es / mir →
+      10. geben / ich / es / Ihnen →
+    model: |
+      1. Ich schenke es ihr.
+      2. Er gibt es ihm.
+      3. Anna schickt sie ihr.
+      4. Wir erklären es ihnen.
+      5. Du schreibst es ihm.
+      6. Ich empfehle sie ihnen.
+      7. Sie zeigt es ihm.
+      8. Wir bringen sie dir.
+      9. Du leihst es mir.
+      10. Ich gebe es Ihnen.
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Konjugation: schenken (Präsens)"
+    instructions: "Fill in the complete Präsens table for schenken."
+    text: |
+      1. ich: {1}
+      2. du: {2}
+      3. er/sie/es: {3}
+      4. wir: {4}
+      5. ihr: {5}
+      6. sie/Sie: {6}
+    answers:
+      "1": schenke
+      "2": schenkst
+      "3": schenkt
+      "4": schenken
+      "5": schenkt
+      "6": schenken
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Konjugation: geben (Präsens) ⚠️"
+    instructions: "Fill in the complete Präsens table for geben. Watch out for the e → i stem change!"
+    text: |
+      1. ich: {1}
+      2. du: {2}
+      3. er/sie/es: {3}
+      4. wir: {4}
+      5. ihr: {5}
+      6. sie/Sie: {6}
+    answers:
+      "1": gebe
+      "2": gibst
+      "3": gibt
+      "4": geben
+      "5": gebt
+      "6": geben
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Konjugation: empfehlen (Präsens) ⚠️"
+    instructions: "Fill in the complete Präsens table for empfehlen. Watch out for the e → ie stem change!"
+    text: |
+      1. ich: {1}
+      2. du: {2}
+      3. er/sie/es: {3}
+      4. wir: {4}
+      5. ihr: {5}
+      6. sie/Sie: {6}
+    answers:
+      "1": empfehle
+      "2": empfiehlst
+      "3": empfiehlt
+      "4": empfehlen
+      "5": empfehlt
+      "6": empfehlen
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Dativ or Akkusativ pronoun? Fill the gap."
+    instructions: "Choose the correct pronoun form (Dativ = person, Akkusativ = thing). 10 items."
+    text: |
+      1. Ich schenke {1} (her, Dat) ein Buch.
+      2. Ich schenke {2} (it, Akk) meiner Schwester.
+      3. Er gibt {3} (him, Dat) den Schlüssel.
+      4. Wir erklären {4} (them, Dat) die Regel.
+      5. Ich schreibe {5} (my father, Dat) einen Brief.
+      6. Ich empfehle {6} (her, Dat) ein Restaurant.
+      7. Sie zeigt {7} (him, Dat) das Foto.
+      8. Ich bringe {8} (you, du, Dat) das Buch.
+      9. Ich leihe {9} (her, Dat) mein Auto.
+      10. Ich schicke {10} (you, Sie, Dat) eine Karte.
+    answers:
+      "1": ihr
+      "2": es
+      "3": ihm
+      "4": ihnen
+      "5": ihm
+      "6": ihr
+      "7": ihm
+      "8": dir
+      "9": ihr
+      "10": Ihnen
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Identify the dative (indirect) object"
+    instructions: "Write down the dative (indirect) object in each sentence. 8 items."
+    text: |
+      1. Ich schenke {1} ein Buch.
+      2. Anna gibt {2} einen Apfel.
+      3. Er schickt {3} eine Karte.
+      4. Wir erklären {4} die Regel.
+      5. Ich schreibe {5} einen Brief.
+      6. Sie empfiehlt {6} ein Restaurant.
+      7. Du zeigst {7} das Buch.
+      8. Ich bringe {8} Getränke.
+    answers:
+      "1": "meiner Schwester"
+      "2": "dem Kind"
+      "3": "seiner Freundin"
+      "4": "den Schülern"
+      "5": "meinem Vater"
+      "6": "ihren Kollegen"
+      "7": "dem Lehrer"
+      "8": "meinen Gästen"
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Choose the correct two-object verb"
+    instructions: "Pick the right two-object verb and conjugate it to fit the subject. 10 items."
+    text: |
+      1. Ich {1} meiner Schwester ein Buch. (schenken / gehen / wohnen)
+      2. Anna {2} dem Kind einen Apfel. (geben / kommen / heißen)
+      3. Wir {3} unseren Freunden alles Gute. (wünschen / arbeiten / heißen)
+      4. Er {4} mir das Buch. (zeigen / fahren / heißen)
+      5. Ich {5} meinen Kollegen ein Restaurant. (empfehlen / wohnen / wünschen)
+      6. Du {6} deinem Bruder einen Brief. (schreiben / kommen / essen)
+      7. Wir {7} den Gästen Getränke. (bringen / fahren / wünschen)
+      8. Ich {8} dir mein Auto. (leihen / wohnen / fahren)
+      9. Anna {9} ihrer Freundin eine Karte. (schicken / wünschen / fahren)
+      10. Sie {10} ihm die Wahrheit. (sagen / heißen / kommen)
+    answers:
+      "1": schenke
+      "2": gibt
+      "3": wünschen
+      "4": zeigt
+      "5": empfehle
+      "6": schreibst
+      "7": bringen
+      "8": leihe
+      "9": schickt
+      "10": sagt
+
+  - id: A11
+    block: A
+    type: free-write
+    title: "Translation (EN → DE)"
+    prompt: "Translate each sentence into German. Watch the two objects!"
+    stimulus: |
+      1. I'm giving my mother a book.
+      2. He's sending his sister a card.
+      3. We're explaining the rule to the students.
+      4. She writes her father a letter.
+      5. Can you recommend a restaurant to me?
+      6. I wish you all the best.
+      7. We show the teacher the photos.
+      8. I'm buying a book for my brother.
+    model: |
+      1. Ich schenke meiner Mutter ein Buch.
+      2. Er schickt seiner Schwester eine Karte.
+      3. Wir erklären den Schülern die Regel.
+      4. Sie schreibt ihrem Vater einen Brief.
+      5. Kannst du mir ein Restaurant empfehlen?
+      6. Ich wünsche dir alles Gute.
+      7. Wir zeigen dem Lehrer die Fotos.
+      8. Ich kaufe ein Buch für meinen Bruder.
+
+  - id: A12
+    block: A
+    type: free-write
+    title: "Mixed word-order transformations"
+    prompt: "Build a sentence from the cues. Look carefully: are you putting two nouns, a pronoun + a noun, or two pronouns in the right order?"
+    stimulus: |
+      1. schenken / ich / ein Buch / meine Schwester →
+      2. schenken / ich / ihr / ein Buch →
+      3. schenken / ich / es / ihr →
+      4. schreiben / Anna / eine Karte / ihr →
+      5. schenken / ich / meine Tante / immer Bücher →
+      6. geben / der Lehrer / uns / die Hausaufgaben →
+      7. zeigen / ich / das Foto / ihr →
+      8. empfehlen / ich / ihnen / ein Restaurant →
+      9. geben / er / es / ihm →
+      10. erklären / wir / die Regel / ihnen →
+    model: |
+      1. Ich schenke meiner Schwester ein Buch. (two nouns: Dat before Akk)
+      2. Ich schenke ihr ein Buch. (pronoun + noun: pronoun first)
+      3. Ich schenke es ihr. (two pronouns: Akk before Dat)
+      4. Anna schreibt ihr eine Karte. (pronoun + noun)
+      5. Ich schenke meiner Tante immer Bücher. (two nouns: Dat before Akk)
+      6. Der Lehrer gibt uns die Hausaufgaben. (pronoun + noun)
+      7. Ich zeige ihr das Foto. (pronoun + noun)
+      8. Ich empfehle ihnen ein Restaurant. (pronoun + noun)
+      9. Er gibt es ihm. (two pronouns: Akk before Dat)
+      10. Wir erklären ihnen die Regel. (pronoun + noun)
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Dialog ergänzen: Im Geschenkeladen"
+    instructions: "Fill in the 12 blanks with the correct form."
+    text: |
+      — Guten Tag! Ich {1} ein Geschenk für meinen Bruder.
+      — Was {2} er gern?
+      — Er hört gern Musik. Ich {3} ihm eine CD.
+      — Sehr gut. Ich {4} Ihnen diese CD mit klassischer Musik.
+      — Wunderbar! Ich {5} auch gern ein Buch für ihn {6}. Können Sie mir ein Buch {7}?
+      — Ja, gern. Ich {8} Ihnen diesen spannenden Roman.
+      — Danke! Ich {9} ihm die CD und das Buch zum Geburtstag.
+      — Wunderbar. Soll ich alles {10}?
+      — Ja, bitte. Ich {11} es Ihnen gern ein.
+      — Kein Problem. Ich {12} Ihnen einen schönen Tag!
+    bank: [suche, mag, schenke, empfehle, möchte, kaufen, empfehlen, empfehle, schenke, einpacken, packe, wünsche, suche, mag, schenke]
+    answers:
+      "1": suche
+      "2": mag
+      "3": schenke
+      "4": empfehle
+      "5": möchte
+      "6": kaufen
+      "7": empfehlen
+      "8": empfehle
+      "9": schenke
+      "10": einpacken
+      "11": packe
+      "12": wünsche
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Finde den Fehler"
+    prompt: 'Each sentence has exactly one mistake (sometimes two). Find it and write the corrected sentence.'
+    stimulus: |
+      1. Ich schenke ein Buch meiner Schwester.
+      2. Ich schenke ihr es.
+      3. Er schickt eine Karte seinem Bruder.
+      4. Ich leihst dein Bruder das Auto.
+      5. Er schenkt mir das Buch. (Richtig oder Fehler?)
+      6. Sie gibt ihn das Buch.
+      7. Ich schenke meinen Bruder ein Buch.
+      8. Ich empfehle dir das Restaurant. (Richtig oder Fehler?)
+    model: |
+      1. Ich schenke meiner Schwester ein Buch. (Word order with two nouns: Dat before Akk)
+      2. Ich schenke es ihr. (Two pronouns: Akk before Dat)
+      3. Er schickt seinem Bruder eine Karte. (Word order: Dat noun before Akk noun)
+      4. Ich leihe deinem Bruder das Auto. (Two errors: ich leihe — not leihst; deinem — not dein, masculine dative)
+      5. Richtig. (mir = Dat, das Buch = Akk — correct)
+      6. Sie gibt ihm das Buch. (Person is dative: ihm, not accusative ihn)
+      7. Ich schenke meinem Bruder ein Buch. (Masculine dative of mein: meinem, not meinen)
+      8. Richtig. (dir = Dat, das Restaurant = Akk — correct)
+
+  - id: B3
+    block: B
+    type: free-write
+    title: "Satzbau: reorder the words"
+    prompt: "Make a correct German sentence from the scrambled cues."
+    stimulus: |
+      1. schenke / ich / ein Buch / meiner Schwester →
+      2. gebe / er / es / ihm →
+      3. schreibe / Anna / eine Karte / ihrer Freundin →
+      4. schenken / wir / unseren Freunden / Bücher →
+      5. empfehle / ich / dir / ein Restaurant →
+      6. bringe / ich / ihnen / das Geschenk →
+    model: |
+      1. Ich schenke meiner Schwester ein Buch.
+      2. Er gibt es ihm.
+      3. Anna schreibt ihrer Freundin eine Karte.
+      4. Wir schenken unseren Freunden Bücher.
+      5. Ich empfehle dir ein Restaurant.
+      6. Ich bringe ihnen das Geschenk.
+
+  - id: B4
+    block: B
+    type: free-write
+    title: "Markiere Dativ- und Akkusativobjekt"
+    prompt: 'Mark the Dativ (indirect) object with „← D" and the Akkusativ (direct) object with „← A". Write out both objects in a short list.'
+    stimulus: |
+      1. Ich schenke meiner Schwester ein Buch.
+      2. Anna schickt ihrer Freundin eine Karte.
+      3. Wir erklären den Schülern die Regel.
+      4. Du schreibst deinem Vater einen Brief.
+      5. Er zeigt dem Lehrer das Buch.
+      6. Ich bringe meinen Gästen Getränke.
+      7. Sie wünscht ihm alles Gute.
+      8. Wir empfehlen unseren Kollegen ein Restaurant.
+    model: |
+      1. Dat: meiner Schwester · Akk: ein Buch
+      2. Dat: ihrer Freundin · Akk: eine Karte
+      3. Dat: den Schülern · Akk: die Regel
+      4. Dat: deinem Vater · Akk: einen Brief
+      5. Dat: dem Lehrer · Akk: das Buch
+      6. Dat: meinen Gästen · Akk: Getränke
+      7. Dat: ihm · Akk: alles Gute
+      8. Dat: unseren Kollegen · Akk: ein Restaurant
+
+  - id: B5
+    block: B
+    type: free-write
+    title: "Pronoun substitution: one or two pronouns"
+    prompt: "Replace the underlined noun with the correct pronoun. If both objects are nouns, replace the dative one. If the cue has two underlined nouns, replace both."
+    stimulus: |
+      1. Ich schenke meiner Schwester ein Buch. → Ich schenke ___ ein Buch.
+      2. Ich schenke meiner Schwester das Buch. → Ich schenke ___ ___.
+      3. Anna schickt ihrer Freundin eine Karte. → Anna schickt ___ eine Karte.
+      4. Wir erklären den Schülern die Regel. → Wir erklären ___ die Regel.
+      5. Ich schreibe meinem Vater einen Brief. → Ich schreibe ___ ___.
+      6. Sie zeigt dem Lehrer das Buch. → Sie zeigt ___ das Buch.
+      7. Ich bringe meinen Gästen Getränke. → Ich bringe ___ ___.
+      8. Wir empfehlen unseren Kollegen ein Restaurant. → Wir empfehlen ___ ein Restaurant.
+    model: |
+      1. Ich schenke ihr ein Buch. (one pronoun, dative)
+      2. Ich schenke es ihr. (two pronouns: Akk *es* + Dat *ihr*)
+      3. Anna schickt ihr eine Karte. (one pronoun, dative)
+      4. Wir erklären ihnen die Regel. (one pronoun, dative plural)
+      5. Ich schreibe ihn ihm. (two pronouns: Akk *ihn* + Dat *ihm*)
+      6. Sie zeigt ihm das Buch. (one pronoun, dative)
+      7. Ich bringe sie ihnen. (two pronouns: Akk *sie* + Dat *ihnen*)
+      8. Wir empfehlen ihnen ein Restaurant. (one pronoun, dative plural)
+
+  - id: B6
+    block: B
+    type: free-write
+    title: "Translation (EN → DE)"
+    prompt: "Translate into German."
+    stimulus: |
+      1. I'm giving my mother a book.
+      2. He's sending his sister a card.
+      3. We're explaining the rule to the students.
+      4. She writes her father a letter.
+      5. Can you recommend a restaurant to me?
+      6. I wish you all the best.
+      7. We show the teacher the photos.
+      8. I'm buying a gift for my brother.
+    model: |
+      1. Ich schenke meiner Mutter ein Buch.
+      2. Er schickt seiner Schwester eine Karte.
+      3. Wir erklären den Schülern die Regel.
+      4. Sie schreibt ihrem Vater einen Brief.
+      5. Kannst du mir ein Restaurant empfehlen?
+      6. Ich wünsche dir alles Gute.
+      7. Wir zeigen dem Lehrer die Fotos.
+      8. Ich kaufe ein Geschenk für meinen Bruder.
+
+  - id: B7
+    block: B
+    type: free-write
+    title: "Antworten mit Hinweisen"
+    prompt: "Answer each question in a complete sentence, using the cue in brackets."
+    stimulus: |
+      1. Was schenkst du deiner Mutter zum Geburtstag? (ein Buch und eine CD)
+      2. Wem schreibst du eine Karte? (meine Schwester)
+      3. Was empfiehlst du deinen Kollegen? (ein gutes Restaurant)
+      4. Was bringst du deinen Gästen mit? (Getränke)
+      5. Was kaufst du für deinen Bruder? (ein Geschenk)
+      6. Was zeigst du deinem Lehrer? (mein neues Buch)
+    model: |
+      1. Ich schenke meiner Mutter ein Buch und eine CD.
+      2. Ich schreibe meiner Schwester eine Karte.
+      3. Ich empfehle meinen Kollegen ein gutes Restaurant.
+      4. Ich bringe meinen Gästen Getränke mit. (separable verb: mit at the end)
+      5. Ich kaufe ein Geschenk für meinen Bruder. (kaufen + für + Akk)
+      6. Ich zeige meinem Lehrer mein neues Buch.
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Leseverstehen: Eine Dankesnachricht"
+    prompt: "Read the thank-you message and answer the questions in German."
+    stimulus: |
+      > Subject: Danke für das Geschenk!
+      >
+      > Liebe Anna,
+      >
+      > vielen herzlichen Dank für das wunderschöne Buch! Du hast genau das
+      > richtige Geschenk für mich ausgesucht. Ich habe es gestern Abend
+      > angefangen zu lesen — es ist wirklich spannend! Auch die Karte hat
+      > mich sehr gefreut. Nächstes Wochenende lade ich dich zum Essen ein,
+      > um mich zu bedanken.
+      >
+      > Liebe Grüße
+      > Lisa
+
+      1. Von wem ist die Nachricht?
+      2. Was hat Anna Lisa geschenkt?
+      3. Wann hat Lisa angefangen, das Buch zu lesen?
+      4. Was möchte Lisa am nächsten Wochenende machen?
+      5. Wie findet Lisa das Buch?
+      6. Wofür bedankt sich Lisa?
+    model: |
+      1. Lisa.
+      2. Ein wunderschönes Buch.
+      3. Gestern Abend.
+      4. Sie lädt Anna zum Essen ein.
+      5. Spannend (sie sagt: „es ist wirklich spannend").
+      6. Für das wunderschöne Buch (und die Karte).
+
+  - id: B9a
+    block: B
+    type: free-write
+    title: "Dank für ein Geschenk: WhatsApp an deine Tante"
+    prompt: "Antworte deiner Tante in 4–5 Sätzen auf WhatsApp. Bedank dich herzlich für die Geschenke und erzähl, was du damit vorhast."
+    use:
+      - "at least 1 sentence with a Dativ + Akkusativ construction (two nouns)"
+      - "at least 1 sentence with Dativ pronoun + Akkusativ noun (or vice versa)"
+      - "at least 1 sentence with Akkusativ before Dativ (when both are pronouns)"
+      - "a thank-you phrase"
+    selfCheck:
+      - "Did I put the Dativ noun/pronoun before the Akkusativ noun (two nouns)?"
+      - "Did I put the pronoun before the noun (when pronoun + noun)?"
+      - "Did I put Akkusativ before Dativ when both are pronouns (e.g. es dir, sie ihm)?"
+      - "Did I thank my aunt sincerely?"
+    model: |
+      Liebe Tante Maria, vielen Dank für das Geschenk! Das Buch und die
+      Karte sind wirklich wunderschön — ich schenke meiner Schwester
+      das Buch, weil sie es schon lange wollte. Die Schokolade schicke
+      ich meinem Bruder morgen in die Arbeit. Ich freue mich sehr auf
+      nächste Woche! Vielen Dank nochmal und liebe Grüße zurück an
+      Onkel Hans. Bis bald! [Name]
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext"
+    instructions: "Fill each gap with one word. 10 items."
+    text: |
+      Letzten Sonntag {1} Anna ihrer Freundin Lisa ein Buch
+      {2}. Sie hat lange überlegt, was sie Lisa {3} könnte.
+      Schließlich ist sie in einen Buchladen gegangen. Die Verkäuferin
+      {4} ihr das Buch sehr. „Das ist wirklich unser {5} Buch
+      in diesem Monat", hat sie gesagt. Anna hat das Buch {6} — es
+      war ein bisschen teuer, aber es {7} ihr wirklich sehr. Am
+      Sonntag hat Lisa das Geschenk {8} und sich sehr {9}.
+      „Vielen Dank!", {10} sie.
+    answers:
+      "1": hat
+      "2": geschenkt
+      "3": schenken
+      "4": empfahl
+      "5": bestes
+      "6": gekauft
+      "7": gefiel
+      "8": bekommen
+      "9": gefreut
+      "10": sagte
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Letzten Sonntag {1} Anna ihrer Freundin Lisa ein Buch {2}."
+        options:
+          - { key: a, text: "hat — zum Geburtstag geschenkt" }
+          - { key: b, text: "ist — zum Geburtstag schenkt" }
+          - { key: c, text: "wird — zum Geburtstag schenken" }
+        answer: a
+        why: "Perfekt of schenken: hat + geschenkt."
+      - q: "Die Verkäuferin {3} ihr ein schönes Buch."
+        options:
+          - { key: a, text: "empfiehlt" }
+          - { key: b, text: "empfahl" }
+          - { key: c, text: "empfohlen" }
+        answer: a
+        why: "Präsens 3rd person of empfehlen (e→ie stem change)."
+      - q: '„Das ist unser {4} Buch in diesem Monat".'
+        options:
+          - { key: a, text: "beste" }
+          - { key: b, text: "bestes" }
+          - { key: c, text: "besten" }
+        answer: b
+        why: "unser + neuter Nominativ → bestes (mixed adjective declension)."
+      - q: "Anna hat das Buch {5}."
+        options:
+          - { key: a, text: "gekauft" }
+          - { key: b, text: "kauft" }
+          - { key: c, text: "kaufte" }
+        answer: a
+        why: "Partizip II of kaufen: gekauft."
+      - q: "…und ist glücklich nach Hause {6}."
+        options:
+          - { key: a, text: "gekommen" }
+          - { key: b, text: "gefahren" }
+          - { key: c, text: "gegangen" }
+        answer: c
+        why: "Partizip II of gehen: gegangen (motion verb → ist gegangen)."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word once."
+    text: |
+      Letzten Samstag {1} Anna in die Stadt. Sie wollte ein
+      Geschenk für ihre Freundin Lisa {2}. Im Buchladen {3}
+      ihr die Verkäuferin einen Krimi. „Ich {4} Ihnen dieses Buch
+      sehr", sagte sie. „Es ist unser {5} Buch in diesem Monat."
+      Anna {6} das Buch und {7} es schön ein. Dann
+      {8} sie eine Karte: „Liebe Lisa, {9} ich dir alles Gute
+      zum Geburtstag! Deine Anna." Am Sonntag {10} sie das Geschenk
+      zu Lisa.
+    bank: [BRACHTE, BRINGT, DANKTE, EMPFAHL, EMPFEHLE, EMPFIEHLT, BESTES, GEHT, GING, HOLTE, KAUFEN, KAUFTE, KAUFST, LEGTE, ÖFFNETE, PACKTE, SCHENKTE, SCHRIEB, WÜNSCHE, ZAHLTE]
+    answers:
+      "1": GING
+      "2": KAUFEN
+      "3": EMPFAHL
+      "4": EMPFEHLE
+      "5": BESTES
+      "6": KAUFTE
+      "7": PACKTE
+      "8": SCHRIEB
+      "9": WÜNSCHE
+      "10": BRACHTE
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Annas Geschenk für Lisa)"
+    instructions: 'Read „Annas Geschenk für Lisa" in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    items:
+      - q: "Anna möchte ihrer Schwester ein Geschenk kaufen."
+        answer: false
+        why: "Anna möchte ihrer Freundin Lisa ein Geschenk kaufen, nicht ihrer Schwester."
+      - q: "Lisa hat nächste Woche Geburtstag."
+        answer: true
+        why: '„Lisa hat nächste Woche Geburtstag".'
+      - q: "Anna kauft einen Roman im Buchladen."
+        answer: true
+        why: '„empfiehlt ihr die Verkäuferin einen neuen Krimi".'
+      - q: "Die Verkäuferin schenkt Anna eine Karte."
+        answer: true
+        why: '„Die Verkäuferin schenkt ihr auch eine kleine Karte dazu".'
+      - q: "Lisa öffnet das Paket am Samstag."
+        answer: false
+        why: '„Am Sonntag bringt Anna das Geschenk zu Lisa", nicht am Samstag.'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Brunos Familientreffen)"
+    instructions: |
+      > Letztes Wochenende war der Geburtstag von Brunos Mutter. Bruno hat
+      > ihr ein Buch und eine CD geschenkt. Seine Freundin Anna hat der
+      > Mutter Blumen und eine Karte gebracht. Die ganze Familie war bei
+      > der Feier: Brunos Vater, seine Schwester Maria, und seine Tante
+      > aus Wien. Am Abend hat Brunos Mutter gesagt: „Das sind die
+      > schönsten Geschenke, die ich je bekommen habe! Ich danke euch
+      > allen von Herzen."
+
+      Wähle a, b oder c.
+    items:
+      - q: "Wessen Geburtstag war letztes Wochenende?"
+        options:
+          - { key: a, text: "Brunos Schwester" }
+          - { key: b, text: "Brunos Mutter" }
+          - { key: c, text: "Brunos Tante" }
+        answer: b
+        why: '„Letztes Wochenende war der Geburtstag von Brunos Mutter".'
+      - q: "Was hat Bruno seiner Mutter geschenkt?"
+        options:
+          - { key: a, text: "Blumen und eine Karte" }
+          - { key: b, text: "Ein Buch und eine CD" }
+          - { key: c, text: "Ein Bild und Blumen" }
+        answer: b
+        why: '„Bruno hat ihr ein Buch und eine CD geschenkt".'
+      - q: "Wer hat der Mutter Blumen und eine Karte gebracht?"
+        options:
+          - { key: a, text: "Brunos Vater" }
+          - { key: b, text: "Bruno" }
+          - { key: c, text: "Anna" }
+        answer: c
+        why: '„Seine Freundin Anna hat der Mutter Blumen und eine Karte gebracht".'
+      - q: "Woher kommt Brunos Tante?"
+        options:
+          - { key: a, text: "Aus Berlin" }
+          - { key: b, text: "Aus München" }
+          - { key: c, text: "Aus Wien" }
+        answer: c
+        why: '„seine Tante aus Wien".'
+      - q: "Was hat Brunos Mutter am Abend gesagt?"
+        options:
+          - { key: a, text: "Sie möchte mehr Geschenke." }
+          - { key: b, text: "Sie dankt allen." }
+          - { key: c, text: "Sie geht nach Wien." }
+        answer: b
+        why: '„Ich danke euch allen von Herzen".'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Dankesnachricht"
+    prompt: "Schreibe eine kurze Dankesnachricht (5–6 Sätze) an deine Freundin / deinen Freund. Bedanke dich für ein Geschenk, das du bekommen hast."
+    use:
+      - "at least one two-object verb (schenken, geben, schicken, …)"
+      - "at least one dative pronoun (mir, dir, ihm, ihr, …)"
+      - "at least one accusative pronoun (mich, dich, es, sie, …)"
+      - "If two pronouns: Akkusativ before Dativ"
+      - "If two nouns: Dativ before Akkusativ"
+      - "a thank-you phrase (danken, sich bedanken)"
+    selfCheck:
+      - "Did I use the right case for the recipient (Dativ) and the thing (Akkusativ)?"
+      - "Did I keep the correct pronoun order (Akk before Dat when both are pronouns)?"
+      - "Did I express thanks?"
+    model: |
+      Subject: Vielen Dank für das Geschenk!
+
+      Liebe Anna,
+
+      vielen herzlichen Dank für das wunderschöne Buch! Du hast genau
+      das richtige Geschenk für mich ausgesucht. Ich habe es gestern
+      Abend angefangen zu lesen — es ist wirklich spannend! Ich freue
+      mich sehr darüber und kann es dir kaum zurückgeben. Nächstes
+      Wochenende schreibe ich dir eine Karte und erzähle dir, wie mir
+      das Buch gefällt.
+
+      Liebe Grüße
+      Lisa
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per item. No notes. 15 items."
+    text: |
+      1. Partizip II of schenken: {1}
+      2. Partizip II of empfehlen (e→o): {2}
+      3. (A1/L9) Dative pronoun for she: {3}
+      4. Word order with two nouns: Dativ comes {4} (before / after) Akkusativ.
+      5. (A2/L9) „Ich {5} gern einen Kaffee." (hätte / habe / bin)
+      6. Two pronouns: „Ich schenke {6} {7}." — fill in: Akk first, then Dat.
+      7. (A2/L10) „Ich fahre morgen {8} Spanien." (nach / in die / in der)
+      8. Konjugation geben, er/sie-form: {9}
+      9. Konjugation empfehlen, du-form: {10}
+      10. (A2/L8) Adjective ending: „Das ist unser {11} Buch." (best-)
+      11. Two pronouns: „Ich schenke {12} (it) {13} (her)." → {14} {15}
+      12. kaufen + recipient: preposition {16} (für / mit / von) + Akkusativ
+      13. „Ich schenke mein{17} Schwester ein Buch."
+      14. (A1/L11) Perfekt auxiliary for schenken: {18} (hat / ist)
+      15. (A2/L9) „{19} Sie mir ein Restaurant empfehlen?" (Könnten / Können / Kann)
+    answers:
+      "1": geschenkt
+      "2": empfohlen
+      "3": ihr
+      "4": before
+      "5": hätte
+      "6": es
+      "7": ihr
+      "8": nach
+      "9": gibt
+      "10": empfiehlst
+      "11": bestes
+      "12": es
+      "13": ihr
+      "14": es
+      "15": ihr
+      "16": für
+      "17": er
+      "18": hat
+      "19": Könnten
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Cross out the word that doesn't fit and say why."
+    groups:
+      - items: [schenken, empfehlen, zeigen, wohnen]
+        odd: 3
+        why: "wohnen is the only verb that does NOT take two objects. The others (schenken, empfehlen, zeigen) all take dative + accusative."
+      - items: [Bruder, Schwester, Geschenk, Tante]
+        odd: 2
+        why: "Geschenk is the only inanimate noun. The others (Bruder, Schwester, Tante) are all people."
+      - items: [ihr, ihm, ihnen, mich]
+        odd: 3
+        why: "mich is the only Akkusativ pronoun. The others (ihr, ihm, ihnen) are all Dativ."
+      - items: [Krimi, Roman, CD, Kuchen]
+        odd: 3
+        why: "Kuchen is the only food. The others (Krimi, Roman, CD) are all typical gift items."
+      - items: ["zum Geburtstag", "zu Weihnachten", "zur Hochzeit", "am Montag"]
+        odd: 3
+        why: "am Montag is the only regular weekday. The others are gift-giving occasions."
+      - items: ["ich schenke", "du gibst", "er bringt", "sie wohnt"]
+        odd: 3
+        why: "sie wohnt is the only verb that does NOT take two objects. The others all take dative + accusative."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: A2/06, A2/09, A2/10"
+    instructions: "Review of reflexive verbs, prepositions, Konjunktiv II, and countries. 10 items."
+    text: |
+      1. (A2/L6) Partizip II of sich interessieren: {1}
+      2. (A2/L6) warten auf takes which case? → {2}
+      3. (A2/L9) „Könnten Sie mir bitte helfen?" → {3}
+      4. (A2/L9) „Ich {4} gern einen Kaffee." (Konjunktiv II)
+      5. (A2/L10) „Ich fahre morgen {5} Schweiz." (nach / in die / in der)
+      6. (A2/L10) „Das Hotel liegt am Hafen." → {6}
+      7. (A2/L6) schreiben an takes which case? → {7}
+      8. (A2/L9) „Würden Sie gern mitkommen?" → {8}
+      9. (A2/L10) „Wir kommen aus den USA." → {9}
+      10. (A2/L6) sich freuen auf + Akk: for the {10}?
+    answers:
+      "1": interessiert
+      "2": Akkusativ
+      "3": "Could you please help me?"
+      "4": hätte
+      "5": "in die"
+      "6": Wo
+      "7": Akkusativ
+      "8": "Would you like to come along?"
+      "9": richtig
+      "10": "Zukunft (future)"
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion A2/12. Below 16 → redo Block A (A1–A4) and Block B2 (Finde den Fehler) tomorrow, then retest D4."
+    text: |
+      **Two-object verbs — fill the case:**
+      1. schenken takes {1} + Akkusativ. (Dativ / Nominativ / Genitiv)
+      2. Dative pronoun for you (formal): „Ich schenke {2} ein Buch." → {3}
+      3. Two pronouns: „Ich schenke es ihr." — es = {4}, ihr = {5}
+      4. Konjugation empfehlen, er/sie-form: {6}
+      5. Konjugation geben, du-form: {7}
+      6. (A2/L10) „Das Hotel liegt am Hafen." — Wo? oder Wohin? → {8}
+
+      **Translation:**
+      7. „I'm giving my brother a book." → {9}
+      8. „She recommends a restaurant to him." → {10}
+
+      **Word order:**
+      9. Two nouns, correct order: „ein Buch / meiner Schwester" → Ich schenke {11} {12}.
+      10. Two pronouns, correct order: „ihr / es" → Ich schenke {13} {14}.
+
+      **Identifying the case:**
+      11. „Ich leihe meinem Bruder das Auto." — dative object: {15}
+      12. (A2/L9) „Ich {16} gern einen Kaffee." (hätte / habe / bin) → {17}
+
+      **Pronoun position:**
+      13. „Ich schenke {18} (her) ein Buch." → {19}
+      14. „Ich schenke {20} (it) meiner Schwester." → {21}
+
+      **Special kaufen case:**
+      15. „Ich kaufe ein Buch {22} meinen Bruder." (für / mit / zu) → {23}
+
+      **Dative pronouns (A1/L9 review):**
+      16. Dative pronoun for I → {24}
+      17. Dative plural pronoun for they → {25}
+
+      **Mixed:**
+      18. Konjugation schenken, wir-form: {26}
+      19. (A2/L8) Adjective ending: „Das ist unser bestes Buch." — why bestes? {27}
+      20. Direct object in „Schreibt ihr eurer Oma auch eine Karte?" — {28}
+    answers:
+      "1": Dativ
+      "2": Ihnen
+      "3": Ihnen
+      "4": Akkusativ
+      "5": Dativ
+      "6": empfiehlt
+      "7": gibst
+      "8": Wo
+      "9": "Ich schenke meinem Bruder ein Buch."
+      "10": "Sie empfiehlt ihm ein Restaurant."
+      "11": "meiner Schwester"
+      "12": "ein Buch"
+      "13": es
+      "14": ihr
+      "15": "meinem Bruder"
+      "16": hätte
+      "17": hätte
+      "18": ihr
+      "19": ihr
+      "20": es
+      "21": es
+      "22": für
+      "23": für
+      "24": mir
+      "25": ihnen
+      "26": schenken
+      "27": "unser is a possessive (mixed declension) — bestes for Nominativ/Akkusativ neuter singular"
+      "28": "eine Karte"
