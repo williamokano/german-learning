@@ -46,7 +46,7 @@
         correct: selected != null && correct,
         given: selected == null ? '' : (selected ? pos : neg),
         expected: item.answer ? pos : neg,
-        scoreable: true,
+        scoreable: selected != null,
       };
     });
   }
@@ -86,13 +86,13 @@
           type="button"
           class="btn {btnClass(i, true)}"
           disabled={graded}
-          onclick={() => { if (!graded) answers[String(i)] = true; }}
+          onclick={() => { if (!graded) answers[String(i)] = answers[String(i)] === true ? null : true; }}
         >{pos}</button>
         <button
           type="button"
           class="btn {btnClass(i, false)}"
           disabled={graded}
-          onclick={() => { if (!graded) answers[String(i)] = false; }}
+          onclick={() => { if (!graded) answers[String(i)] = answers[String(i)] === false ? null : false; }}
         >{neg}</button>
       </span>
       {#if graded && r != null && !r.correct}
@@ -136,7 +136,7 @@
   .btn:disabled { cursor: default; }
   .btn.graded-correct { background: #dcfce7; color: #15803d; font-weight: 700; }
   .btn.graded-wrong   { background: #fee2e2; color: #dc2626; font-weight: 700; }
-  .btn.graded-reveal  { background: #f0fdf4; color: #15803d; }
+  .btn.graded-reveal  { background: #f0fdf4; color: #15803d; outline: 2px dashed #16a34a; outline-offset: -2px; }
   .verdict { font-size: 0.85rem; color: #374151; font-style: italic; flex-basis: 100%; padding-left: 0.25rem; }
   .verdict.ok { color: #16a34a; font-style: normal; font-weight: 700; }
 </style>
