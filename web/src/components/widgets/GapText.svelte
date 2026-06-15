@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import { checkText } from '@core/engine/grading';
+  import { checkTextDetail } from '@core/engine/grading';
   import type { ItemResult } from '@core/content/types';
   import type { GapTextExercise } from '@core/content/types';
   import { progress } from '@core/index';
@@ -41,9 +41,9 @@
     return Object.keys(exercise.answers).map(key => {
       const expected = exercise.answers[key];
       const given = answers[key] ?? '';
-      const correct = checkText(expected, given, flags);
+      const { correct, note } = checkTextDetail(expected, given, exercise.alts?.[key], flags);
       const expectedStr = Array.isArray(expected) ? expected[0] : expected;
-      return { ref: key, correct, given, expected: expectedStr, scoreable: true };
+      return { ref: key, correct, given, expected: expectedStr, scoreable: true, note };
     });
   }
 
@@ -105,6 +105,9 @@
           {#if graded && r != null}
             {#if r.correct}
               <span class="mark ok">✓</span>
+              {#if r.note}
+                <span class="alt-note">💡 {r.note}</span>
+              {/if}
             {:else}
               <span class="mark err">✗</span>
               <span class="expected">{r.expected}</span>
@@ -133,6 +136,15 @@
   .gap-input.correct { border-color: #16a34a; background: #dcfce7; }
   .gap-input.wrong   { border-color: #dc2626; background: #fee2e2; }
   .cue { font-size: 0.85em; color: #6b7280; margin-left: 2px; }
+  .alt-note {
+    font-size: 0.78em;
+    color: #92400e;
+    background: #fef3c7;
+    border: 1px solid #fcd34d;
+    border-radius: 3px;
+    padding: 0 4px;
+    margin-left: 4px;
+  }
   .mark { font-size: 0.9em; font-weight: 700; margin-left: 2px; }
   .mark.ok  { color: #16a34a; }
   .mark.err { color: #dc2626; }

@@ -25,4 +25,5 @@ export interface ItemResult {
   given: string;     // what the learner entered/selected
   expected: string;  // the correct answer (revealed after Auswerten)
   scoreable: boolean; // false for free-write / speaking-prompt
+  note?: string;     // set when answer is correct but not the preferred form
 }

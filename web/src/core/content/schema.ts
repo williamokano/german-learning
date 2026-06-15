@@ -21,10 +21,13 @@ const Base = z.object({
 });
 
 // ---- per type ----
+const AltAnswer = z.object({ word: z.string(), note: z.string().optional() });
+
 export const GapText = Base.extend({
   type: z.literal('gap-text'),
   text: z.string(),
   answers: GapMap,
+  alts: z.record(z.string(), z.array(AltAnswer)).optional(),
   cues: z.record(z.string(), z.string()).optional(),
   listLayout: z.boolean().optional(), // true → gaps render as ______ (no "(n)" prefix)
 });

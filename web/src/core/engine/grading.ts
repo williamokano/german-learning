@@ -34,6 +34,20 @@ export function checkText(
   return alts.includes(normalize(given, f));
 }
 
+export function checkTextDetail(
+  expected: string | string[],
+  given: string,
+  alts: Array<{ word: string; note?: string }> | undefined,
+  f: GradingFlags = {},
+): { correct: boolean; note?: string } {
+  if (checkText(expected, given, f)) return { correct: true };
+  const n = normalize(given, f);
+  for (const alt of alts ?? []) {
+    if (normalize(alt.word, f) === n) return { correct: true, note: alt.note };
+  }
+  return { correct: false };
+}
+
 export function checkBank(expectedWord: string, placedWord: string | null): boolean {
   return placedWord != null && placedWord === expectedWord;
 }

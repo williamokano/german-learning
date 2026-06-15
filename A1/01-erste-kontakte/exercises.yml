@@ -297,6 +297,10 @@ exercises:
       "8": wohnst
       "9": heiße
       "10": wohnen
+    alts:
+      "9":
+        - word: bin
+          note: "Correct, but 'heiße' is the target verb here — 'Ich heiße Carlos' is the natural German for introducing your name."
 
   - id: A6
     block: A
@@ -748,6 +752,10 @@ exercises:
       "8": [heißt, ist]
       "9": du
       "10": kommst
+    alts:
+      "1":
+        - word: bin
+          note: "'Ich bin Carlos' is natural in colloquial self-introductions, but 'heiße' is the standard form and what you'd use in most German contexts."
 
   - id: C2
     block: C
