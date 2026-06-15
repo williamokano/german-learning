@@ -1,0 +1,1006 @@
+lesson: A2/03
+title: "A2 · Lektion 3 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - { q: "Bruno kommt zu spät zum Kurs.", answer: true, why: "Bruno kommt zu spät zum Kurs." }
+      - { q: "Er ist zu spät aufgestanden, weil er krank war.", answer: false, why: "Er ist zu spät aufgestanden, weil sein Wecker nicht geklingelt hat (nicht weil er krank war)." }
+      - { q: "Die U-Bahn hat heute Morgen gestreikt.", answer: true, why: "Die U-Bahn hat heute Morgen gestreikt." }
+      - { q: "Anna erklärt Bruno, was sie im Kurs gemacht haben.", answer: true, why: "Anna erklärt Bruno, was sie im Kurs gemacht haben." }
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Warum verlässt Herr Steinmeyer den Kurs?"
+        options:
+          - { key: a, text: "Weil er krank ist." }
+          - { key: b, text: "Weil er eine neue Stelle in Wien angenommen hat." }
+          - { key: c, text: "Weil der Kurs zu schwierig ist." }
+        answer: b
+        why: "Weil er eine neue Stelle in Wien angenommen hat."
+      - q: "Warum geht Herr Steinmeyer nach Wien?"
+        options:
+          - { key: a, text: "Weil die Stadt schöner ist als Berlin." }
+          - { key: b, text: "Weil seine Familie dort lebt und das Angebot gut ist." }
+          - { key: c, text: "Weil Frau Weber das empfohlen hat." }
+        answer: b
+        why: "Weil seine Familie dort lebt und das Angebot sehr gut ist."
+      - q: "Was sagt Herr Steinmeyer über den Kurs?"
+        options:
+          - { key: a, text: "Er findet, dass der Kurs ihm sehr geholfen hat." }
+          - { key: b, text: "Er glaubt, dass der Kurs zu lang war." }
+          - { key: c, text: "Er meint, dass Frau Weber streng ist." }
+        answer: a
+        why: "Er findet, dass der Kurs ihm sehr geholfen hat."
+      - q: "Mit welchem Wort drückt Herr Steinmeyer seinen Dank aus?"
+        options:
+          - { key: a, text: "deshalb" }
+          - { key: b, text: "obwohl" }
+          - { key: c, text: "darum" }
+        answer: c
+        why: 'Herr Steinmeyer says: „Darum bin ich sehr dankbar."'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Yuki wohnt in München und lernt dort Deutsch. Sie hat heute einen Brief von ihrer Mutter aus Osaka {1}. Ihre Mutter fragt, warum Yuki nicht nach Japan {2}. Yuki {3} zurück, dass sie in München bleiben möchte, weil sie hier viele Freunde {4} hat. Sie erklärt auch, dass ihr Job in München sehr gut ist. Deswegen hat sie {5}, noch ein Jahr zu bleiben. Ihre Mutter ist {6}, aber sie versteht es.
+    bank: [bekommen, bleiben, entschieden, erklärt, gefunden, schreibt, traurig, verstehen, zurückkommt]
+    answers:
+      "1": bekommen
+      "2": zurückkommt
+      "3": schreibt
+      "4": gefunden
+      "5": entschieden
+      "6": traurig
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Verspätung der U-Bahn"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    transcript: "Achtung, eine Durchsage. Liebe Fahrgäste, die U-Bahn-Linie U 3 hat heute zwischen Hauptbahnhof und Stadtmitte eine Verspätung von ungefähr fünfzehn Minuten. Grund dafür ist eine technische Störung am Gleis. Wir bitten um Ihr Verständnis, weil unsere Techniker den Schaden jetzt reparieren. Bitte weichen Sie, wenn möglich, auf die Linie U 6 aus. Wir informieren Sie, sobald die Störung behoben ist. Vielen Dank für Ihre Geduld."
+    items:
+      - q: "Welche U-Bahn-Linie hat Verspätung?"
+        options:
+          - { key: a, text: "Die U 3." }
+          - { key: b, text: "Die U 6." }
+          - { key: c, text: "Die U 9." }
+        answer: a
+        why: '„die U-Bahn-Linie U 3 hat heute zwischen Hauptbahnhof und Stadtmitte eine Verspätung."'
+      - q: "Wie viel Verspätung gibt es?"
+        options:
+          - { key: a, text: "Ungefähr fünf Minuten." }
+          - { key: b, text: "Ungefähr zehn Minuten." }
+          - { key: c, text: "Ungefähr fünfzehn Minuten." }
+        answer: c
+        why: '„eine Verspätung von ungefähr fünfzehn Minuten."'
+      - q: "Was ist der Grund für die Verspätung?"
+        options:
+          - { key: a, text: "Eine Demonstration." }
+          - { key: b, text: "Eine technische Störung am Gleis." }
+          - { key: c, text: "Ein Streik." }
+        answer: b
+        why: '„Grund dafür ist eine technische Störung am Gleis."'
+      - q: "Auf welche Linie soll man ausweichen?"
+        options:
+          - { key: a, text: "Auf die U 4." }
+          - { key: b, text: "Auf die U 5." }
+          - { key: c, text: "Auf die U 6." }
+        answer: c
+        why: '„Bitte weichen Sie, wenn möglich, auf die Linie U 6 aus."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Verb-Endstellung mit `weil`: Regel verstehen"
+    instructions: "Look at the pattern. Then complete the rule."
+    text: |
+      1. Er kommt nicht, weil er krank {1}.
+      2. Sie lernt viel, weil sie eine Prüfung {2}.
+      3. Wir fahren mit dem Bus, weil das Auto kaputt {3}.
+      4. Rule: In a `weil`-clause, the conjugated verb goes to the {4} of the clause.
+    answers:
+      "1": ist
+      "2": hat
+      "3": ist
+      "4": end
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`weil`-Sätze: Verb ans Ende"
+    instructions: "Join the two sentences using `weil`. Put the verb at the end of the second clause. Each item has a single gap for the final verb."
+    text: |
+      1. Anna kommt zu spät. → Anna kommt zu spät, weil sie den Bus {1}.
+      2. Bruno lernt Deutsch. → Bruno lernt Deutsch, weil er in Berlin {2}.
+      3. Wir bleiben zu Hause. → Wir bleiben zu Hause, weil es {3}.
+      4. Er kauft ein neues Buch. → Er kauft ein neues Buch, weil er sich für Geschichte {4}.
+      5. Ich trinke keinen Kaffee. → Ich trinke keinen Kaffee, weil ich Kaffee nicht {5}.
+      6. Sie geht früh schlafen. → Sie geht früh schlafen, weil sie sehr müde {6}.
+      7. Herr Steinmeyer verlässt den Kurs. → Herr Steinmeyer verlässt den Kurs, weil er nach Wien {7}.
+      8. Wir nehmen den Zug. → Wir nehmen den Zug, weil das Auto zu teuer {8}.
+      9. Ich esse kein Fleisch. → Ich esse kein Fleisch, weil ich Vegetarier {9}.
+      10. Der Kurs macht Spaß. → Der Kurs macht Spaß, weil Frau Weber alles gut {10}.
+    answers:
+      "1": "verpasst hat"
+      "2": wohnt
+      "3": regnet
+      "4": interessiert
+      "5": mag
+      "6": ist
+      "7": zieht
+      "8": ist
+      "9": bin
+      "10": erklärt
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`weil` mit Perfekt (Verb ans Ende!)"
+    instructions: "Join using `weil`. Watch the Perfekt verb order (Partizip II + auxiliary)."
+    text: |
+      1. Bruno ist zu spät. → Bruno ist zu spät, weil der Wecker nicht {1}.
+      2. Anna ist froh. → Anna ist froh, weil sie einen netten Mitbewohner {2}.
+      3. Er ist erschöpft. → Er ist erschöpft, weil er früh {3}.
+      4. Sie kennt Berlin gut. → Sie kennt Berlin gut, weil sie dort zwei Jahre {4}.
+      5. Wir sind glücklich. → Wir sind glücklich, weil wir die Prüfung {5}.
+      6. Ich verstehe den Text. → Ich verstehe den Text, weil ich ihn zweimal {6}.
+      7. Er hat kein Geld. → Er hat kein Geld, weil er zu viel {7}.
+      8. Sie bleibt in München. → Sie bleibt in München, weil sie dort Arbeit {8}.
+    answers:
+      "1": "geklingelt hat"
+      "2": "gefunden hat"
+      "3": "aufgestanden ist"
+      "4": "gelebt hat"
+      "5": "bestanden haben"
+      "6": "gelesen habe"
+      "7": "ausgegeben hat"
+      "8": "gefunden hat"
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`weil` mit Modalverb (Infinitiv + Modal ans Ende!)"
+    instructions: "Join using `weil`. Watch the order: Infinitiv + Modalverb at the end."
+    text: |
+      1. Er lernt jeden Tag. → Er lernt jeden Tag, weil er die Prüfung bestehen {1}.
+      2. Sie geht nicht aus. → Sie geht nicht aus, weil sie zu Hause bleiben {2}.
+      3. Wir fahren mit dem Zug. → Wir fahren mit dem Zug, weil wir kein Auto fahren {3}.
+      4. Anna ist zu Hause. → Anna ist zu Hause, weil sie kochen {4}.
+      5. Ich rufe an. → Ich rufe an, weil ich etwas fragen {5}.
+      6. Er nimmt das Taxi. → Er nimmt das Taxi, weil er schnell ankommen {6}.
+    answers:
+      "1": will
+      "2": muss
+      "3": dürfen
+      "4": soll
+      "5": möchte
+      "6": muss
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`dass`-Sätze bilden"
+    instructions: "Complete using `dass`. Put the verb at the end."
+    text: |
+      1. Ich denke, dass Deutsch schwierig {1}.
+      2. Sie sagt, dass sie um drei Uhr {2}.
+      3. Wir finden, dass der Kurs sehr gut {3}.
+      4. Er weiß, dass Anna in Berlin {4}.
+      5. Ich hoffe, dass du bald gesund {5}.
+      6. Bruno meint, dass Pünktlichkeit wichtig {6}.
+      7. Frau Weber sagt, dass wir morgen eine Prüfung {7}.
+      8. Ich bin sicher, dass wir das {8}.
+      9. Sie glaubt, dass er Recht {9}.
+      10. Ich verstehe, dass du müde {10}.
+    answers:
+      "1": ist
+      "2": kommt
+      "3": ist
+      "4": wohnt
+      "5": bist
+      "6": ist
+      "7": haben
+      "8": schaffen
+      "9": hat
+      "10": bist
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`dass` mit Perfekt und Modalverb"
+    instructions: "Form the `dass`-clause. The gap is the verb phrase at the end."
+    text: |
+      1. Ich weiß, dass er das vergessen {1}.
+      2. Sie sagt, dass sie das Buch schon gelesen {2}.
+      3. Er meint, dass wir mehr üben {3}.
+      4. Ich glaube, dass sie nach Hause gegangen {4}.
+      5. Wir hoffen, dass es aufgehört zu regnen {5}.
+      6. Ich finde, dass du mehr schlafen {6}.
+    answers:
+      "1": hat
+      "2": hat
+      "3": müssen
+      "4": ist
+      "5": hat
+      "6": sollst
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`deshalb` / `darum` / `deswegen`: Inversion!"
+    instructions: "Combine the sentences using the given connector. The gap is the verb (it comes before the subject after the connector)."
+    text: |
+      1. Ich bin müde. (deshalb) → Deshalb {1} ich früh schlafen.
+      2. Anna hat eine Prüfung. (darum) → Darum {2} sie heute Abend.
+      3. Der Bus kommt nicht. (deswegen) → Deswegen {3} wir ein Taxi.
+      4. Er mag keinen Fisch. (deshalb) → Deshalb {4} er das Hähnchen.
+      5. Die WG-Miete ist günstig. (darum) → Darum {5} wir dort ein.
+      6. Ich spreche Deutsch. (deswegen) → Deswegen {6} ich die Arbeit leichter.
+      7. Frau Weber ist eine gute Lehrerin. (deshalb) → Deshalb {7} die Studenten den Kurs.
+      8. Es hat geschneit. (darum) → Darum {8} der Zug zu spät.
+    answers:
+      "1": gehe
+      "2": lernt
+      "3": nehmen
+      "4": bestellt
+      "5": ziehen
+      "6": finde
+      "7": mögen
+      "8": kommt
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`weil` vs. `deshalb`: Der große Kontrast"
+    instructions: "These sentence pairs express the same idea. Fill in the verb at the end of the `weil`-clause, then the verb in position 2 of the `deshalb`-clause."
+    text: |
+      1. a) Ich lerne Deutsch, weil ich in Berlin {1} (wohnen).
+         b) Ich wohne in Berlin. Deshalb {2} ich Deutsch (lernen).
+      2. a) Er bleibt zu Hause, weil er krank {3} (sein).
+         b) Er ist krank. Darum {4} er zu Hause (bleiben).
+      3. a) Wir nehmen den Zug, weil das Auto kaputt {5} (sein).
+         b) Das Auto ist kaputt. Deswegen {6} wir den Zug (nehmen).
+      4. a) Sie geht früh schlafen, weil sie morgen früh aufstehen {7} (müssen).
+         b) Sie muss morgen früh aufstehen. Deshalb {8} sie früh (schlafen gehen).
+    answers:
+      "1": wohne
+      "2": lerne
+      "3": ist
+      "4": bleibt
+      "5": ist
+      "6": nehmen
+      "7": muss
+      "8": geht
+
+  - id: A9
+    block: A
+    type: true-false
+    title: "Wortstellung im `weil`-Satz: Richtig oder falsch?"
+    instructions: "Mark each sentence R (richtig) or F (falsch)."
+    items:
+      - { q: "Ich komme nicht, weil ich habe keine Zeit.", answer: false, why: 'Ich komme nicht, weil ich keine Zeit **habe**. (verb must go to end)' }
+      - { q: "Er ist müde, weil er viel gearbeitet hat.", answer: true, why: "Correct word order." }
+      - { q: "Wir bleiben hier, weil es regnet.", answer: true, why: "Correct word order." }
+      - { q: "Sie lernt Deutsch, weil sie mag die Sprache.", answer: false, why: 'Sie lernt Deutsch, weil sie die Sprache **mag**. (verb must go to end)' }
+      - { q: "Ich kaufe das Buch, weil es interessant ist.", answer: true, why: "Correct word order." }
+      - { q: "Er kommt zu spät, weil er muss früh aufstehen.", answer: false, why: 'Er kommt zu spät, weil er früh aufstehen **muss**. (infinitive before modal, both at end)' }
+      - { q: "Anna freut sich, weil sie hat eine gute Note bekommen.", answer: false, why: 'Anna freut sich, weil sie eine gute Note bekommen **hat**. (Partizip II before auxiliary)' }
+      - { q: "Wir fahren mit dem Bus, weil das Auto ist kaputt.", answer: false, why: 'Wir fahren mit dem Bus, weil das Auto kaputt **ist**. (verb must go to end)' }
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Satzanfang: Nebensatz zuerst (inversion im Hauptsatz)"
+    instructions: "Rewrite the sentence so the `weil`-clause comes FIRST. The gap is the main-clause verb (which comes immediately after the comma, before the subject)."
+    text: |
+      1. Anna kommt zu spät, weil sie den Bus verpasst hat. → Weil sie den Bus verpasst hat, {1} Anna zu spät.
+      2. Wir bleiben zu Hause, weil es regnet. → Weil es regnet, {2} wir zu Hause.
+      3. Er lernt viel, weil er die Prüfung bestehen will. → Weil er die Prüfung bestehen will, {3} er viel.
+      4. Sie ruft an, weil sie eine Frage hat. → Weil sie eine Frage hat, {4} sie an.
+      5. Ich trinke keinen Alkohol, weil ich Auto fahren muss. → Weil ich Auto fahren muss, {5} ich keinen Alkohol.
+    answers:
+      "1": kommt
+      "2": bleiben
+      "3": lernt
+      "4": ruft
+      "5": trinke
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Tabelle vervollständigen: `weil` / `deshalb`"
+    instructions: "Complete the table — two expressions of the same idea. Each row has two gaps."
+    text: |
+      1. weil: Ich trinke Wasser, weil ich Durst {1}.  |  deshalb: Ich habe Durst. Deshalb {2} ich Wasser.
+      2. weil: Er kauft das Auto, weil er ein Auto {3}.  |  darum: Er braucht ein Auto. Darum {4} er es.
+      3. weil: Wir kommen nicht, weil wir eine Veranstaltung {5}.  |  deswegen: Wir haben eine Veranstaltung. Deswegen {6} wir nicht.
+      4. weil: Sie lernt, weil sie morgen eine Prüfung {7}.  |  deshalb: Sie hat morgen eine Prüfung. Deshalb {8} sie.
+    answers:
+      "1": habe
+      "2": trinke
+      "3": braucht
+      "4": kauft
+      "5": haben
+      "6": kommen
+      "7": hat
+      "8": lernt
+
+  - id: A12
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Meinung ausdrücken: `ich finde / glaube / denke, dass…`"
+    instructions: "Turn each statement into an opinion sentence using the verb in brackets. The gap is the final verb in the `dass`-clause."
+    text: |
+      1. Der Kurs ist interessant. (finden) → Ich finde, dass der Kurs interessant {1}.
+      2. Anna hat Recht. (glauben) → Ich glaube, dass Anna Recht {2}.
+      3. Pünktlichkeit ist wichtig. (denken) → Ich denke, dass Pünktlichkeit wichtig {3}.
+      4. Das Essen ist lecker. (finden) → Ich finde, dass das Essen lecker {4}.
+      5. Er kommt morgen. (hoffen) → Ich hoffe, dass er morgen {5}.
+      6. Wir müssen mehr üben. (meinen) → Ich meine, dass wir mehr üben {6}.
+      7. Die Prüfung ist nicht schwer. (glauben) → Ich glaube, dass die Prüfung nicht schwer {7}.
+      8. Der Film war gut. (finden) → Ich finde, dass der Film gut {8}.
+    answers:
+      "1": ist
+      "2": hat
+      "3": ist
+      "4": ist
+      "5": kommt
+      "6": müssen
+      "7": ist
+      "8": war
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Dialog ergänzen"
+    instructions: "Fill in the blanks with the appropriate form. Choose from: `weil`, `dass`, `deshalb`, `darum`, `deswegen`, or a verb form."
+    text: |
+      — Warum lernst du Deutsch, Sofia?
+      — Ich lerne Deutsch, {1} ich in Deutschland arbeiten möchte.
+      — Ah, interessant! Und findest du, {2} Deutsch schwierig ist?
+      — Ja, die Grammatik ist manchmal kompliziert. {3} übe ich jeden Tag.
+      — Das verstehe ich. Ich lerne auch, {4} mir das für meinen Job hilft.
+      — Ich denke, {5} man eine Sprache nur lernen kann, wenn man sie benutzt.
+      — Du hast völlig Recht. {6} spreche ich auch außerhalb des Kurses Deutsch!
+    answers:
+      "1": weil
+      "2": dass
+      "3":
+        - Deshalb
+        - Darum
+        - Deswegen
+      "4": weil
+      "5": dass
+      "6":
+        - Deshalb
+        - Darum
+        - Deswegen
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler"
+    instructions: 'Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form. Item 3 is correct (write C).'
+    text: |
+      1. Ich bin müde, weil ich {1} viel gearbeitet. (habe → ?)
+      2. Er kommt nicht. Deshalb {2} er ist krank. (es → ?)
+      3. Ich glaube, dass sie morgen {3}. (correct? — yes/no)
+      4. Weil es regnet, {4} bleiben zu Hause. (wir → ?)
+      5. Sie lernt Deutsch, weil sie {5} in Berlin leben. (will → word order)
+      6. Ich finde, {6} Deutsch sehr interessant ist. (das → ?)
+      7. Darum kommt er nicht, {7} er krank ist. (weil → ?)
+      8. Wir nehmen den Zug. {8} das Auto ist kaputt. (Deswegen → ?)
+      9. Ich bin sicher, dass er {9} Recht. (hat → ?)
+      10. Weil sie müde {10}. Sie geht schlafen. (ist → ?)
+    answers:
+      "1": habe
+      "2": ist
+      "3": "C"
+      "4": bleiben
+      "5": "in Berlin leben will"
+      "6": dass
+      "7": weil
+      "8": Deswegen
+      "9": hat
+      "10": ist
+
+  - id: B3
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Sätze verbinden: `weil` oder `deshalb`?"
+    instructions: "Write each pair connected using BOTH `weil` AND `deshalb` (two separate answers each time)."
+    text: |
+      1. Anna übt viel. Sie macht schnell Fortschritte.
+         a) Anna übt viel, weil sie schnell Fortschritte {1}.
+         b) Anna macht schnell Fortschritte. Deshalb {2} sie viel.
+      2. Bruno mag die WG. Er zieht nicht aus.
+         a) Bruno mag die WG, weil {3} (alternative wording).
+         b) Bruno mag die WG. {4} zieht er nicht aus.
+      3. Es hat geregnet. Wir sind nicht in den Park gegangen.
+         a) Wir sind nicht in den Park gegangen, weil es {5}.
+         b) Es hat geregnet. Deswegen {6} wir nicht in den Park gegangen.
+      4. Herr Steinmeyer hat eine neue Stelle. Er verlässt den Kurs.
+         a) Herr Steinmeyer verlässt den Kurs, weil er eine neue Stelle {7}.
+         b) Herr Steinmeyer hat eine neue Stelle. Deshalb {8} er den Kurs.
+    answers:
+      "1": macht
+      "2": übt
+      "3": "sie ihm gefällt"
+      "4": Darum
+      "5": "geregnet hat"
+      "6": sind
+      "7": hat
+      "8": verlässt
+
+  - id: B4
+    block: B
+    type: order
+    title: "Satzbau: Sätze ordnen"
+    instructions: "Put the words in the correct order."
+    items:
+      - tiles: [weil, er, müde, ist, arbeitet, viel, hat, er]
+        answer: [7, 5, 2, 6, 0, 3, 4, 1]
+        note: "Er ist müde, weil er viel gearbeitet hat."
+      - tiles: [deshalb, früh, geht, auf, sie, steht, sie, "um sechs"]
+        answer: [3, 0, 1, 2, 4, 5, 6, 7]
+        note: "Sie steht um sechs auf. Deshalb geht sie früh schlafen."
+      - tiles: [dass, denke, ich, gut, der Kurs, ist]
+        answer: [5, 0, 2, 3, 4, 1]
+        note: "Ich denke, dass der Kurs gut ist."
+      - tiles: [weil, die Prüfung, sie, schlafen, früh, morgen, geht, hat]
+        answer: [7, 2, 5, 4, 1, 3, 0, 6]
+        note: "Sie geht früh schlafen, weil sie morgen die Prüfung hat."
+      - tiles: [darum, kommt, er, nicht, krank, ist, er]
+        answer: [5, 0, 1, 2, 3, 4, 6]
+        note: "Er ist krank. Darum kommt er nicht."
+
+  - id: B5
+    block: B
+    type: matching
+    title: "Fragen und Antworten verbinden"
+    left:
+      - { key: "1", text: "Warum lernst du Deutsch?" }
+      - { key: "2", text: "Glaubst du, dass er kommt?" }
+      - { key: "3", text: "Warum fährt er mit dem Bus?" }
+      - { key: "4", text: "Findest du, dass Deutsch schwierig ist?" }
+      - { key: "5", text: "Der Kurs ist langweilig." }
+      - { key: "6", text: "Darum kommt sie zu spät." }
+    right:
+      - { key: a, text: "Weil er kein Auto hat." }
+      - { key: b, text: "Weil ich in Berlin wohne." }
+      - { key: c, text: "Das stimmt nicht ganz." }
+      - { key: d, text: "Ja, ich bin sicher, dass er kommt." }
+      - { key: e, text: "Ich finde, dass es interessant ist." }
+      - { key: f, text: "Ja, ich finde, dass es manchmal schwierig ist." }
+    answers:
+      "1": b
+      "2": d
+      "3": a
+      "4": f
+      "5": c
+      "6": e
+
+  - id: B6
+    block: B
+    type: free-write
+    title: "Meinungen ausdrücken und diskutieren"
+    prompt: "Read each statement. Write an agreeing AND a disagreeing response using the phrases from lesson.md §2 (Zustimmen / Widersprechen)."
+    stimulus: |
+      Statement 1: "In Deutschland muss man immer sehr pünktlich sein."
+        Agree (2 sentences): ____________
+        Disagree (2 sentences): ____________
+
+      Statement 2: "Weil man Englisch überall sprechen kann, muss man kein Deutsch lernen."
+        Agree (2 sentences): ____________
+        Disagree (2 sentences): ____________
+    model: |
+      Statement 1:
+      - Agree: Das stimmt völlig! Ich finde auch, dass Pünktlichkeit in Deutschland sehr wichtig ist. Ich stimme dir zu.
+      - Disagree: Da bin ich anderer Meinung. Ich glaube, dass es manchmal Ausnahmen gibt. Das stimmt nicht ganz — manchmal kommt man auch zu spät.
+
+      Statement 2:
+      - Agree: Das sehe ich auch so. Ich denke, dass Englisch international sehr wichtig ist.
+      - Disagree: Da bin ich anderer Meinung! Ich finde, dass man Deutsch lernen muss, weil es die Kultur zeigt. Das stimmt nicht — man lernt mehr, wenn man die Landessprache spricht.
+
+  - id: B7
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "`dass`-Kette: Was sagen sie?"
+    instructions: "Report what each person says. Use `Er/Sie sagt, dass…` — the gap is the final verb in the dass-clause."
+    text: |
+      1. Bruno: "Ich lerne Deutsch für meinen Job." → Bruno sagt, dass er Deutsch für seinen Job {1}.
+      2. Frau Weber: "Die Prüfung ist nächste Woche." → Frau Weber sagt, dass die Prüfung nächste Woche {2}.
+      3. Herr Steinmeyer: "Ich gehe nach Wien." → Herr Steinmeyer sagt, dass er nach Wien {3}.
+      4. Anna: "Ich finde die WG sehr schön." → Anna sagt, dass sie die WG sehr schön {4}.
+      5. Bruno: "Wir haben heute viel gemacht." → Bruno sagt, dass wir heute viel {5}.
+      6. Yuki: "München gefällt mir sehr gut." → Yuki sagt, dass München ihr sehr gut {6}.
+    answers:
+      "1": lernt
+      "2": ist
+      "3": geht
+      "4": findet
+      "5":
+        - "gemacht haben"
+        - "gemacht"
+      "6": gefällt
+
+  - id: B8
+    block: B
+    type: free-write
+    title: "Übersetzen (EN → DE)"
+    prompt: "Translate each English sentence into German. Use weil/dass/deshalb as appropriate."
+    stimulus: |
+      1. I'm learning German because I live in Berlin.
+      2. She says that the course is very good.
+      3. He's staying home. That's why he's not coming.
+      4. I believe that punctuality is important.
+      5. We don't go out because it's raining.
+      6. He's tired. Therefore he goes to sleep early.
+      7. I find that German grammar is interesting.
+      8. She's not coming because she has to work.
+    model: |
+      1. Ich lerne Deutsch, weil ich in Berlin wohne.
+      2. Sie sagt, dass der Kurs sehr gut ist.
+      3. Er bleibt zu Hause. Deshalb kommt er nicht. (Or: Er kommt nicht, weil er zu Hause bleibt.)
+      4. Ich glaube, dass Pünktlichkeit wichtig ist.
+      5. Wir gehen nicht aus, weil es regnet.
+      6. Er ist müde. Deshalb geht er früh schlafen.
+      7. Ich finde, dass die deutsche Grammatik interessant ist.
+      8. Sie kommt nicht, weil sie arbeiten muss.
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Warum ich später anfange: Forenbeitrag"
+    prompt: "Schreib einen Forenbeitrag als Antwort an Lisa in 4–5 Sätzen. Erkläre ihr, warum du denkst, dass ihr Plan gut (oder nicht gut) ist — gib Gründe."
+    use:
+      - "at least 1 sentence with `weil …` (verb at the end!)"
+      - "at least 1 sentence with `dass …` (verb at the end!)"
+      - "at least 1 sentence with a coordinating connector (*deshalb, darum, deswegen*) — verb stays in position 2"
+      - "at least 1 opinion phrase (*Ich finde, … / Ich denke, … / Meiner Meinung nach …*)"
+    selfCheck:
+      - "Did I put the verb at the end of each `weil` and `dass` clause?"
+      - "Did I use a comma before `weil` and `dass`?"
+      - "Did I keep the verb in position 2 after `deshalb` / `darum` / `deswegen`?"
+    model: |
+      Hallo Lisa, ich finde deinen Plan super! Ich denke, dass ein
+      Praktikum vor dem Studium sehr wichtig ist, weil man dann weiß,
+      ob einem das Fach wirklich gefällt. Ich habe damals direkt
+      angefangen und das war ein Fehler. Deshalb würde ich dir raten,
+      mach das Praktikum zuerst! LG, [Name]
+
+  - id: B10
+    block: B
+    type: single-choice
+    title: "`weil`-Satz: Modalverben im Nebensatz"
+    instructions: "Choose the correct option. The infinitive must come before the modal verb, both at the end of the `weil`-clause."
+    items:
+      - q: "Ich gehe früh schlafen, weil ich morgen früh aufstehen ___."
+        options:
+          - { key: a, text: "muss aufstehen" }
+          - { key: b, text: "aufstehen muss" }
+          - { key: c, text: "muss" }
+        answer: b
+        why: "Infinitive before modal, both at end."
+      - q: "Er kommt nicht, weil er arbeiten ___."
+        options:
+          - { key: a, text: "muss" }
+          - { key: b, text: "arbeiten muss" }
+          - { key: c, text: "muss arbeiten" }
+        answer: b
+        why: "Infinitive before modal."
+      - q: "Wir nehmen das Taxi, weil wir schnell ankommen ___."
+        options:
+          - { key: a, text: "wollen" }
+          - { key: b, text: "ankommen wollen" }
+          - { key: c, text: "wollen ankommen" }
+        answer: b
+        why: "Infinitive before modal."
+      - q: "Sie bleibt zu Hause, weil sie sich ausruhen ___."
+        options:
+          - { key: a, text: "soll ausruhen" }
+          - { key: b, text: "ausruhen soll" }
+          - { key: c, text: "soll ausruhen" }
+        answer: b
+        why: "Infinitive before modal."
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext"
+    instructions: "Fill each gap with one word."
+    text: |
+      Liebe Anna,
+      ich schreibe dir, {1} ich ein Problem habe und deine Meinung brauche.
+      Ich überlege, ob ich den Deutschkurs wechseln soll, {2} der Kurs für mich
+      zu schwierig ist. Ich {3} nicht, dass ich die richtige Gruppe bin.
+      {4} lerne ich jeden Abend zwei Stunden. Aber es reicht {5}  nicht.
+      Ich glaube, {6} ich einen Kurs für Anfänger brauche. Was {7} du?
+      Ich bin {8} sicher, was ich machen soll. Ich finde es wichtig, {9}
+      man im richtigen Kurs ist. {10} bitte um deine Ehrlichkeit!
+    answers:
+      "1": weil
+      "2": weil
+      "3":
+        - glaube
+        - denke
+      "4":
+        - Deshalb
+        - Darum
+        - Deswegen
+      "5":
+        - noch
+        - immer
+      "6": dass
+      "7":
+        - denkst
+        - meinst
+        - glaubst
+      "8": nicht
+      "9": dass
+      "10":
+        - "Ich bitte"
+        - "Deshalb bitte ich"
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Ich lerne Deutsch, (1) ____ ich in München arbeite."
+        options:
+          - { key: a, text: "dass" }
+          - { key: b, text: "weil" }
+          - { key: c, text: "deshalb" }
+        answer: b
+        why: "weil introduces reason clause with verb at end."
+      - q: "Ich finde, (2) ____ Deutsch eine interessante Sprache ist."
+        options:
+          - { key: a, text: "weil" }
+          - { key: b, text: "dass" }
+          - { key: c, text: "darum" }
+        answer: b
+        why: "dass after finden."
+      - q: "Die Grammatik ist manchmal schwierig, (3) ____ übe ich jeden Tag."
+        options:
+          - { key: a, text: "darum" }
+          - { key: b, text: "weil" }
+          - { key: c, text: "dass" }
+        answer: a
+        why: "darum (coordinating, verb position 2). Also fine: deshalb / deswegen."
+      - q: "Ich glaube, (4) ____ man eine Sprache nur lernen kann, wenn man sie benutzt."
+        options:
+          - { key: a, text: "deshalb" }
+          - { key: b, text: "dass" }
+          - { key: c, text: "weil" }
+        answer: b
+        why: "dass after glauben."
+      - q: "Meine Kollegin sagt, (5) ____ mein Deutsch schon sehr gut ist."
+        options:
+          - { key: a, text: "weil" }
+          - { key: b, text: "darum" }
+          - { key: c, text: "dass" }
+        answer: c
+        why: "dass after sagt."
+      - q: "(6) ____ möchte ich nächstes Jahr die B1-Prüfung machen."
+        options:
+          - { key: a, text: "Weil" }
+          - { key: b, text: "Deshalb" }
+          - { key: c, text: "Dass" }
+        answer: b
+        why: "Deshalb (coordinating, position 1, verb follows)."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
+    text: |
+      Anna und Bruno sprechen über ihre Gründe, Deutsch zu lernen.
+
+      — Bruno, {1} lernst du eigentlich so intensiv Deutsch?
+      — Ich lerne Deutsch, {2} ich in einer deutschen Firma arbeiten möchte.
+      — Ich {3}, dass das ein guter Grund ist.
+      — Ja! Frau Weber hat uns {4}, dass man täglich üben soll.
+      — {5}! Ohne tägliches Üben lernt man kaum.
+      — Ich {6} auch, dass Podcasts sehr nützlich sind.
+      — {7} höre ich jeden Tag einen deutschen Podcast.
+      — Wirklich? Ich {8} das noch nicht. Ich finde es gut, {9} du mir das gesagt hast.
+      — Natürlich! {10} teile ich auch gerne Tipps mit dir.
+    bank: [BRAUCHT, DARUM, DASS, DENKE, DESHALB, ERKLÄRT, FINDET, GLAUBE, HILFT, MEINT, NICHT, OBWOHL, SAGT, STIMMT, TROTZDEM, VERSTEHEN, VIELLEICHT, WARUM, WEIL, WEISS]
+    answers:
+      "1": WARUM
+      "2": WEIL
+      "3": DENKE
+      "4": ERKLÄRT
+      "5": STIMMT
+      "6": GLAUBE
+      "7": DESHALB
+      "8": WEISS
+      "9": DASS
+      "10": DARUM
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Lesetext)"
+    instructions: "Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?"
+    items:
+      - { q: "Anna lernt Deutsch, weil sie in Berlin studieren möchte.", answer: true, why: "Anna lernt Deutsch, weil sie in Berlin studieren möchte." }
+      - { q: "Anna übt nur im Kurs, nicht zu Hause.", answer: false, why: "Anna übt auch zu Hause — mit Apps, Podcasts und im Kurs." }
+      - { q: "Bruno kommt aus einer Stadt mit deutscher Tradition.", answer: true, why: "Blumenau hat eine starke deutsche Tradition." }
+      - { q: "Bruno braucht kein Deutsch für seinen Job.", answer: false, why: "Bruno braucht Deutsch für seinen Job." }
+      - { q: "Beide Studenten sind zufrieden mit dem Kurs bei Frau Weber.", answer: true, why: "Beide sind sich einig, dass der Kurs bei Frau Weber sehr gut ist." }
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Forumspost)"
+    instructions: |
+      > Hallo, ich heiße Tomas und komme aus Polen. Ich lebe seit zwei Jahren in Hamburg, weil ich hier einen Job als Ingenieur gefunden habe. Am Anfang war es schwierig, weil ich kaum Deutsch gesprochen habe. Darum habe ich sofort einen Kurs belegt. Ich glaube, dass ein Sprachkurs der schnellste Weg ist. Meine Kolleginnen und Kollegen sind sehr nett — deswegen fühle ich mich schon wie zu Hause. Ich denke, dass ich in zwei Jahren die B2-Prüfung machen möchte.
+
+      Wähle a, b oder c.
+    items:
+      - q: "Warum lebt Tomas in Hamburg?"
+        options:
+          - { key: a, text: "Weil er Familie dort hat." }
+          - { key: b, text: "Weil er dort Arbeit als Ingenieur gefunden hat." }
+          - { key: c, text: "Weil Hamburg schöner als Warschau ist." }
+        answer: b
+        why: "Weil er dort Arbeit als Ingenieur gefunden hat."
+      - q: "Was hat Tomas sofort gemacht, als er in Hamburg war?"
+        options:
+          - { key: a, text: "Er hat einen Job gesucht." }
+          - { key: b, text: "Er hat einen Sprachkurs belegt." }
+          - { key: c, text: "Er hat Freunde eingeladen." }
+        answer: b
+        why: "Er hat einen Sprachkurs belegt."
+      - q: "Warum fühlt sich Tomas wie zu Hause?"
+        options:
+          - { key: a, text: "Weil er in Polen aufgewachsen ist." }
+          - { key: b, text: "Weil er eine große Wohnung hat." }
+          - { key: c, text: "Weil seine Kolleginnen und Kollegen sehr nett sind." }
+        answer: c
+        why: "Weil seine Kolleginnen und Kollegen sehr nett sind."
+      - q: "Welches Sprachniveau möchte Tomas erreichen?"
+        options:
+          - { key: a, text: "A2" }
+          - { key: b, text: "B1" }
+          - { key: c, text: "B2" }
+        answer: c
+        why: "B2."
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Foren-Antwort an Lena"
+    prompt: 'You are in an online language-exchange forum. Lena has posted a message asking why people in your group are learning German and whether living in Germany is really necessary. Write a response (60–80 words). Include: why you are learning German (use `weil` or `deshalb`), your opinion on her statement (use `Ich finde/glaube/denke, dass…`), whether you agree or disagree (use Zustimmen/Widersprechen phrases).'
+    stimulus: |
+      > "Warum lernst du Deutsch? Ich finde, dass man Deutsch nur lernt, wenn man in Deutschland lebt. Was denkst du? Ich glaube, dass Online-Kurse nicht so gut sind wie ein Kurs im Land. Stimmst du zu?"
+    use:
+      - "`weil` or `deshalb` for your reason"
+      - "`Ich finde/glaube/denke, dass…` for your opinion"
+      - "Zustimmen / Widersprechen phrases"
+    selfCheck:
+      - "After `weil`, is the conjugated verb at the very end of the clause?"
+      - "After `deshalb` / `darum` / `deswegen`, does the verb come before the subject (position 2)?"
+      - "Is there a comma before every `weil` and `dass` clause?"
+    model: |
+      Hallo! Ich lerne Deutsch, weil ich in Deutschland wohne und weil ich hier
+      arbeiten möchte. Deshalb finde ich es sehr wichtig, die Sprache gut zu
+      sprechen. Ich finde, dass man Deutsch auch ohne Deutschland lernen kann
+      — zum Beispiel mit guten Online-Kursen. Aber ich stimme dir zu, dass
+      man im Land schneller lernt, weil man die Sprache jeden Tag hört und
+      benutzt. Ich glaube, dass beides möglich ist!
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per item. No notes."
+    text: |
+      1. „Ich lerne Deutsch, {1} ich in Berlin wohne." (connector)
+      2. „Das Auto ist kaputt. {2} nehmen wir den Bus." (connector + inversion)
+      3. `weil`-clause: verb goes to position {3}.
+      4. `deshalb`-sentence: verb goes to position {4}.
+      5. (L1) sein, du-form: du {5}
+      6. (L1) Formal "Where are you from?": {6}
+      7. „Ich glaube, {7} er Recht hat." (dass)
+      8. Translate: "She's tired. That's why she's going to sleep." → {8}
+      9. Correct: „Er kommt nicht, weil er ist krank." → {9}
+      10. (L2) Wohin? → {10} fall.
+      11. „Wir bleiben zu Hause, {11} das Wetter schlecht ist."
+      12. (L1) kommen, ihr-form: ihr {12}
+      13. Rewrite with `weil`-clause first: „Er schläft, weil er müde ist." → {13}
+      14. (A2/L1) Modal Präteritum: müssen, ich-form: ich {14}
+      15. `dass` or `das`? „Ich glaube, {15} das schön ist."
+    answers:
+      "1": weil
+      "2":
+        - Deshalb
+        - Darum
+        - Deswegen
+      "3": end
+      "4": "2"
+      "5": bist
+      "6": "Woher kommen Sie?"
+      "7": dass
+      "8": "Sie ist müde. Deshalb geht sie schlafen."
+      "9": "Er kommt nicht, weil er krank ist."
+      "10": Akkusativ
+      "11": weil
+      "12": kommt
+      "13": "Weil er müde ist, schläft er."
+      "14": musste
+      "15": dass
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Cross out the word that doesn't fit. Say why."
+    groups:
+      - items: [weil, deshalb, darum, deswegen]
+        odd: 0
+        why: "weil is a subordinating conjunction (verb-final); the others are coordinating adverbs (verb position 2)."
+      - items: [glauben, meinen, denken, streiken]
+        odd: 3
+        why: "streiken = to strike; the others are opinion verbs."
+      - items: [Grund, Meinung, Argument, Wecker]
+        odd: 3
+        why: "Wecker = alarm clock; the others are abstract reasoning nouns."
+      - items: [zustimmen, widersprechen, diskutieren, stellen]
+        odd: 3
+        why: "stellen = to place; the others are opinion/discussion verbs."
+      - items: [dass, weil, wann, obwohl]
+        odd: 3
+        why: "obwohl = although (B1); the others are A2 connectors."
+      - items: [wichtig, richtig, falsch, weil]
+        odd: 3
+        why: "weil is a conjunction; the others are adjectives."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: Frühere Themen"
+    text: |
+      (L1) A1 Lektion 1 — Erste Kontakte:
+      1. (L1) Write the question: formal, "Where are you from?" → {1}
+      2. (L1) Conjugate `sprechen`: du {2}, er {3}
+      3. (L1) sein, 6 forms: ich {4}, du {5}, er {6}, wir {7}, ihr {8}, sie {9}
+
+      (A2/L1) A2 Lektion 1 — Erzähl mal:
+      4. (A2/L1) Partizip II: studieren → {10}; besuchen → {11}
+      5. (A2/L1) Modal Präteritum: wollen, er-form → {12}
+
+      (A2/L2) A2 Lektion 2 — Zusammen wohnen:
+      6. (A2/L2) Das Buch liegt ____ dem Tisch. → Wo oder Wohin? → {13}
+      7. (A2/L2) Wohin → Akkusativ. Complete: „Stell den Stuhl ans {14} (das Fenster)."
+      8. (A2/L2) stellen or stehen? „Ich {15} die Lampe auf den Tisch." / „Die Lampe {16} auf dem Tisch."
+      9. (A2/L2) Dativ: „Das Bild hängt an {17} Wand."
+    answers:
+      "1": "Woher kommen Sie?"
+      "2": sprichst
+      "3": spricht
+      "4": bin
+      "5": bist
+      "6": ist
+      "7": sind
+      "8": seid
+      "9": sind
+      "10": studiert
+      "11": besucht
+      "12": wollte
+      "13": Wo
+      "14": Fenster
+      "15": stelle
+      "16": steht
+      "17": der
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score /20)"
+    notes: "16+ / 20 → Lektion 4. Below 16 → redo Block A (exercises A2, A3, A7, A8), then retest."
+    text: |
+      **Weil-Sätze (5 Punkte):**
+      1. Er kommt nicht, weil er müde {1} (sein).
+      2. Ich lerne Deutsch, weil ich in Berlin {2} (wohnen).
+      3. Wir nehmen den Bus, weil das Auto kaputt {3} (sein).
+      4. Sie lernt viel, weil sie die Prüfung bestehen {4} (wollen).
+      5. Ich bleibe zu Hause, weil ich viel gearbeitet {5} (haben).
+
+      **Deshalb / Darum / Deswegen — Inversion (5 Punkte):**
+      6. Ich habe Hunger. Deshalb {6} ich jetzt. (essen)
+      7. Das Auto ist kaputt. Darum {7} wir den Zug. (nehmen)
+      8. Er ist krank. Deswegen {8} er nicht. (kommen)
+      9. Anna hat eine Prüfung. Deshalb {9} sie früh. (schlafen gehen)
+      10. Wir mögen den Kurs. Darum {10} wir jeden Tag. (kommen)
+
+      **Dass-Sätze (5 Punkte):**
+      11. Ich glaube, dass er morgen {11}.
+      12. Sie sagt, dass der Kurs gut {12}.
+      13. Ich finde, dass Deutsch interessant {13}.
+      14. Wir wissen, dass sie in Berlin {14}.
+      15. Er hofft, dass wir die Prüfung {15}.
+
+      **Übersetzung und Korrektur (5 Punkte):**
+      16. "I'm not coming because I'm sick." → {16}
+      17. "She says that she lives in Munich." → {17}
+      18. Correct: „Ich bin müde, weil ich habe viel gearbeitet." → {18}
+      19. Correct: „Er ist krank. Darum er kommt nicht." → {19}
+      20. Correct: „Ich glaube, das er Recht hat." → {20}
+    answers:
+      "1": ist
+      "2": wohne
+      "3": ist
+      "4": will
+      "5": habe
+      "6": esse
+      "7": nehmen
+      "8": kommt
+      "9": geht
+      "10": kommen
+      "11": kommt
+      "12": ist
+      "13": ist
+      "14": wohnt
+      "15": bestehen
+      "16": "Ich komme nicht, weil ich krank bin."
+      "17": "Sie sagt, dass sie in München wohnt."
+      "18": "Ich bin müde, weil ich viel gearbeitet habe."
+      "19": "Er ist krank. Darum kommt er nicht."
+      "20": "Ich glaube, dass er Recht hat."
