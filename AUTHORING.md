@@ -6,29 +6,21 @@ lessons must be able to produce a correct lesson without any other context.
 
 ## Your task
 
-Produce exactly three files in `<LEVEL>/<NN-slug>/` (folder name comes from the
-work item in `tasks/todo.md`):
+Produce exactly **two files** in `<LEVEL>/<NN-slug>/` (folder name comes from
+the work item in `tasks/todo.md`):
 
-1. `lesson.md` — the class
-2. `exercises.md` — the five-block exercise battery (H + A + B + C + D)
-3. `solutions.md` — the full answer key
+1. `lesson.md` — the class (prose, dialogs, grammar tables, Lesetext, Hörtext)
+2. `exercises.yml` — the five-block exercise battery (H + A + B + C + D) as
+   structured YAML with answers
 
-## Authoring for the website
-
-Exercises are authored as structured **`exercises.yml`** (single source of truth);
-`exercises.md` and `solutions.md` are **generated** from it via `gen-exercises` —
-do not hand-edit them once `exercises.yml` exists. Lessons may embed inline
-`<AudioPlay>` components. See **`docs/web/WEB-AUTHORING.md`** for the schema,
-per-type examples, and the generate/audio command order.
-
-> **Interim note (before P4 gen-exercises is built):** For lessons that already
-> have an `exercises.yml` (currently only A1/01), you must keep `exercises.md`
-> and `solutions.md` in manual sync with the YAML until the generator exists.
-> For all new lessons authored from B1 onward, author `exercises.yml` natively
-> and leave `exercises.md`/`solutions.md` as generated artifacts.
+The two print artifacts — `exercises.md` and `solutions.md` — are
+**generated** from `exercises.yml` by `build/gen-exercises.ts`. **Do not
+hand-edit them.** The web app reads `exercises.yml` directly via Astro's
+content collections and renders it as interactive widgets.
 
 The five-block architecture, scope discipline, and German-correctness rules below
-still apply unchanged.
+still apply unchanged. For the yml schema and per-type examples see
+**`docs/web/WEB-AUTHORING.md`**.
 
 ---
 
@@ -269,13 +261,93 @@ Block H as a **Hörtext-Lückentext** (see exercises spec below).
 
 ---
 
-## File 2 — `exercises.md` — the five-block architecture
+## File 2 — `exercises.yml` — the five-block architecture (canonical source)
+
+**This is the single source of truth for the exercise battery.** `exercises.md`
+and `solutions.md` are generated from it — do not hand-edit them.
 
 Target: **28–32 exercises, 180–220+ scoreable items** across Blocks A–D.
 Block H is additional and not counted toward that target.
 
-Open with the block overview table + advice to spread blocks over several days
-(copy the pattern from `A1/03-essen-und-trinken/exercises.md`).
+The intro text at the top of the yml (rendered as the page intro) should set
+expectations and the day-by-day plan, e.g.:
+
+```yaml
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+```
+
+Per-type schema, worked examples, and authoring checklist for the yml:
+**`docs/web/WEB-AUTHORING.md`**. Five-block architecture, scope discipline,
+and the per-block content rules (volume targets, character consistency,
+Sprachbausteine word-bank rules, B9 contextualized writing task, etc.) below
+still apply.
+
+### Generating `exercises.md` and `solutions.md` from the yml
+
+After writing/updating `exercises.yml`, run the generator:
+
+```bash
+npx tsx build/gen-exercises.ts A1/NN-slug          # writes exercises.md + solutions.md
+```
+
+The generator is the canonical renderer — what it produces is what gets
+committed, what gets printed, and what the web reads at build time. The yml
+is the only file the agent hand-writes; the .md files are mechanical
+outputs.
+
+**Always run it before committing** so `exercises.md`/`solutions.md` reflect
+the latest yml. The CI workflow runs `npx tsx build/gen-exercises.ts --all
+--check` to catch drift between yml and committed md files; a failed check
+blocks deploy.
+
+`--check` is a dry-run that exits non-zero if any yml would produce different
+md than what's committed. Run it locally before pushing to be sure:
+
+```bash
+npx tsx build/gen-exercises.ts --all --check
+```
+
+To skip the check on a single lesson while iterating, run without `--check`
+and commit both yml + regenerated md together.
+
+### Recurring yml authoring gotchas
+
+The build fails on these reliably. Pre-empt them when you write the yml:
+
+1. **German `„…"` close-quote collides with YAML double-quotes.** Any
+   `why:`, `q:`, `text:`, `note:`, or `instructions:` containing `„....".`
+   (German low-9 quote + content + high-9 close + period + double-quote)
+   closes the YAML string prematurely. Symptom: `Unexpected scalar at node
+   end at line N, column M` or `Unexpected flow-map-end token`. **Fix:**
+   single-quote the whole field.
+2. **Flow-style items with single-quoted `."` at end also fail.** Symptom:
+   `Unexpected flow-map-end token: "}"`. **Fix:** convert the affected item
+   to block style:
+   ```yaml
+   - q: "…"
+     why: '…".'
+   ```
+3. **Matching `left[]` / `right[]` need objects, not bare strings.** Schema:
+   `{ key: z.string(), text: z.string() }`. Common when porting a printed
+   table: use `{ key: "1", text: "…" }` (or `{ key: a, text: "…" }`).
+4. **`gap-bank` bank must contain every answer value** (Zod-validated). If
+   a source word is used twice across gaps, add it to the bank twice.
+5. **Audio files must exist on disk** before `pnpm -C web build` will work.
+   `ls <lesson>/audio/` before declaring done.
+6. **D1 mixed list:** number every gap distinctly (1, 2, 3, …) in both
+   `text:` and `answers:`. Don't reuse gap numbers for compound questions
+   that have two parts.
+7. **C4 always splits into C4a (true-false, Text 1) and C4b (single-choice,
+   Text 2).** Committed `exercises.md` may have a single `## Übung C4` —
+   the yml must have C4a and C4b as separate exercises.
+8. **H1 with two dialog clips** splits into H1a + H1b (separate exercises,
+   each resetting item numbering). The combined H1 form is reserved for
+   A1/03-style lessons that have both dialogs under a single H1 heading.
+9. **D4 always gets `notes:`** for the retry advice + threshold.
 
 ### Block H — Hören (comes FIRST, before Block A; not counted in 28–32 target)
 
@@ -465,28 +537,48 @@ scoring grid, and a detailed answer key. Do these solo, not in a parallel batch.
 
 ---
 
-## File 3 — `solutions.md`
+## File 3 — `solutions.md` (generated)
 
-- Mirrors every exercise number and block, in order — Block H first, then A–D.
-- Bold the answer where helpful; add a one-line explanation for every item that
-  involves a trap or where learners typically err.
-- Accept alternatives explicitly ("also fine: …").
-- For C5 Schreiben: provide a model answer + a short self-check list.
-- End with the Selbsttest threshold: **16+/20 → next Lektion**, otherwise which
-  Block-A exercises to redo.
+`solutions.md` is **generated** from `exercises.yml` by `gen-exercises`. You do
+not write it. The yml's `answer:` field (string or list of alternatives) and
+`why:` field (one-line explanation for trap items) flow straight through to
+the rendered `solutions.md`.
+
+What the yml needs to provide for the generated solutions to be useful:
+
+- `answer:` on every scorable item (single-choice, true-false, gap-text,
+  gap-bank, matching, order, table-fill, odd-one-out, categorize).
+- `why:` on items where learners typically err or where there's a trap
+  (stem-vowel change, case ending, gender, etc.). The generator bolds the
+  answer and appends the why.
+- Alternative answers as a list: `answer: [heißt, ist]` for "heißt" or "ist"
+  both accepted.
+- C5 Schreiben: a `model:` field (the model answer) and a `selfCheck:`
+  list (3–4 form checks). These flow into a "Self-check" subsection in
+  `solutions.md`.
+- D4 Selbsttest: a `notes:` field with the pass threshold and retry advice
+  (e.g. `"16+ / 20 → Lektion N+1. Below: redo Block A1–A4 tomorrow, then
+  retest D4."`).
 
 ---
 
 ## Definition of done (check before finishing)
 
-- [ ] All three files exist; structure matches the reference lessons
+- [ ] `lesson.md` and `exercises.yml` exist; structure matches the reference lessons
+- [ ] `npx tsx build/gen-exercises.ts <dir>` runs cleanly and writes
+      `exercises.md` + `solutions.md`; `npx tsx build/gen-exercises.ts --all
+      --check` passes
 - [ ] Recurring characters match their persona files (origin, name, voice)
-- [ ] Block H present in exercises.md and solutions.md
-  - [ ] H1 Dialog Hör-Check: one sub-exercise per dialog clip (1_a / 1_b if split)
+- [ ] Block H present in `exercises.yml` (and therefore in the generated
+      `exercises.md` and `solutions.md`)
+  - [ ] H1 Dialog Hör-Check: one sub-exercise per dialog clip (H1a / H1b
+        if two clips)
   - [ ] H2 Aussprache-Check: A1/01–04 only
-  - [ ] H3 Hörtext-Lückentext: 5–8 gaps, word bank with 2–3 distractors
-  - [ ] H4 Kurze Ansage: 3–4 MC/R-F questions, `**Ansage 1 — Transcript**` in `<details>`,
-        pre-written `🎧` link both at exercise top AND 2 lines before transcript header
+  - [ ] H3 Hörtext-Lückentext: 5–8 gaps, word bank with 2–3 distractors,
+        `audio: hoertext.mp3`
+  - [ ] H4 Kurze Ansage: 3–4 MC/R-F questions, `transcript:` field set so
+        the generator emits the `<details>` + `**Ansage 1 — Transcript**`
+        block, `audio: transcript_ansage1.mp3`
 - [ ] Tier 1 only (A1/01–04): `### 🔊 Aussprache` with `Hör zu` lines in Wortschatz
 - [ ] Tier 3 (all lessons): `## 6. Hörtext` with `<details>` spoiler, 4–6 sentences
   - [ ] Hörtext scene is DIFFERENT from the Lesetext scene
@@ -495,8 +587,9 @@ scoring grid, and a detailed answer key. Do these solo, not in a parallel batch.
 - [ ] Multi-dialog sections use `### Dialog A:` / `### Dialog B:` sub-headers
 - [ ] Audio generated: run `python3 scripts/generate_audio.py lesson.md` THEN
       `python3 scripts/generate_audio.py exercises.md` (H4 Ansage is in exercises.md)
-- [ ] Exercise count ≥28, item count ≥180 (Block H not counted)
-- [ ] Every exercise has a solution; numbering matches exactly
+- [ ] Exercise count ≥28, item count ≥180 (Block H not counted) — measured
+      from the yml
+- [ ] Every exercise has an `answer:`; gap-bank bank contains every answer
 - [ ] C3 word bank verified: each word fits exactly one gap; 5 distractors present
 - [ ] No grammar/vocab from future topics except marked chunks
 - [ ] Block D labels recycled items with source lesson numbers (`(L<n>)`)
@@ -510,21 +603,28 @@ scoring grid, and a detailed answer key. Do these solo, not in a parallel batch.
 
 When fanning out, give each agent a prompt like:
 
-> Read `/…/german-learning/AUTHORING.md` fully before writing anything. Your
-> assigned topic is **<LEVEL>/<NN-slug> — <title>** (see its row in
-> `CURRICULUM.md`). Also read `personas/README.md` and the persona files for
-> any characters you will use. Produce the three files in that folder. Do not
-> modify any other files, do not run `generate_audio.py`, do not commit.
-> Report back: exercise count, item count, and any scope conflicts with
-> neighboring topics.
+> Read `/…/german-learning/AUTHORING.md` and
+> `/…/german-learning/docs/web/WEB-AUTHORING.md` fully before writing
+> anything. Your assigned topic is **<LEVEL>/<NN-slug> — <title>** (see its
+> row in `CURRICULUM.md`). Also read `personas/README.md` and the persona
+> files for any characters you will use. Produce the two hand-authored files
+> in that folder: `lesson.md` (prose + dialogs + audio markers) and
+> `exercises.yml` (the H/A/B/C/D battery as structured YAML with answers).
+> Do not hand-write `exercises.md` or `solutions.md` — they are generated
+> from the yml by `npx tsx build/gen-exercises.ts <dir>`. Do not run
+> `generate_audio.py`. Do not commit. Report back: exercise count, item
+> count, and any scope conflicts with neighboring topics.
 
 Lessons within one level build on each other, but writing them **in parallel is
 safe** as long as each agent respects scope discipline via the curriculum rows.
 After a parallel batch, the orchestrator must:
 1. Do a consistency pass (no cross-batch scope leaks, recurring characters
    consistent across all new lessons, exercise numbering/solutions match).
-2. Run `python3 scripts/generate_audio.py` on each new `lesson.md` and
-   `exercises.md` to generate all audio clips.
-3. Tick checkboxes in `tasks/todo.md`, update status lines in `CURRICULUM.md`
+2. For each lesson: `npx tsx build/gen-exercises.ts <dir>` to regenerate
+   `exercises.md` + `solutions.md`, then `python3 scripts/generate_audio.py
+   <dir>/lesson.md` and `python3 scripts/generate_audio.py
+   <dir>/exercises.md` to generate all audio clips.
+3. Run `npx tsx build/gen-exercises.ts --all --check` to confirm no drift.
+4. Tick checkboxes in `tasks/todo.md`, update status lines in `CURRICULUM.md`
    and `README.md`.
-4. Commit the batch (one commit per lesson or one per batch) and push.
+5. Commit the batch (one commit per lesson or one per batch) and push.

@@ -13,8 +13,11 @@ Menschen / Schritte international neu (Hueber) and Sicher! / Aspekte neu.
 - **[personas/](personas/)** — character bible: name, nationality, voice, family for every recurring character
 - **`A1/`, `A2/`, …** — one folder per topic:
   - `lesson.md` — the class (dialogues, vocabulary, grammar, phrases)
-  - `exercises.md` — mixed telc-style test battery (Lückentext, Sprachbausteine, grammar, verbs, vocab, reading, writing)
-  - `solutions.md` — answer key with explanations
+  - `exercises.yml` — single source of truth for the H/A/B/C/D exercise
+    battery (structured YAML with answers)
+  - `exercises.md` — *generated* from `exercises.yml` via
+    `npx tsx build/gen-exercises.ts <dir>`. Do not hand-edit.
+  - `solutions.md` — *generated* answer key with explanations
   - `audio/` — pre-generated MP3s (Hören exercises)
 
 ## Setup

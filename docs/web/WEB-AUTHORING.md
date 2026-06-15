@@ -3,11 +3,20 @@
 The companion to the existing `AUTHORING.md`. That file still governs **what** a
 lesson contains (the H/A/B/C/D battery, scope discipline, German correctness). This
 file governs **how** you encode exercises as `exercises.yml` and how you embed
-interactive bits in `lesson.md`. From B1 onward, author this way natively.
+interactive bits in `lesson.md`. Every lesson in the repo (A1/01–A2/14) is now
+authored this way — yml is the single source of truth, no exceptions.
 
 > **Golden rule:** `exercises.yml` is the single source of truth. You never
 > hand-edit `exercises.md` or `solutions.md` — they are generated. Run the
-> generator, then commit all three.
+> generator, then commit all three. The web app reads `exercises.yml` directly
+> via Astro's content collection; the .md files exist for the printable
+> course-book.
+
+> **YAML is the agent-facing spec.** When AUTHORING.md says "File 2 — the
+> five-block battery", this file is what teaches you how to encode that
+> battery as YAML. The two docs are paired: AUTHORING.md for the **what**
+> (content, scope, German correctness), this file for the **how** (schema,
+> per-type examples, validation gates).
 
 ---
 
@@ -17,11 +26,12 @@ interactive bits in `lesson.md`. From B1 onward, author this way natively.
 1. write/​update  <dir>/lesson.md       (prose + inline <AudioPlay>)
 2. write/​update  <dir>/exercises.yml    (the battery, with answers)
 3. generate:
-     tsx build/gen-exercises.ts <dir>                    # → exercises.md + solutions.md
+     npx tsx build/gen-exercises.ts <dir>                 # → exercises.md + solutions.md
      python3 scripts/generate_audio.py <dir>/lesson.md   # dialog/hoerzu/hoertext mp3s
-     python3 scripts/generate_audio.py <dir>/exercises.md# H4 Ansage mp3
-4. preview locally (pnpm -C web dev), check the widgets
-5. commit lesson.md, exercises.yml, exercises.md, solutions.md, audio/*.mp3
+     python3 scripts/generate_audio.py <dir>/exercises.md # H4 Ansage mp3
+4. validate: npx tsx build/gen-exercises.ts <dir>          # exits 0 on success
+5. preview locally (pnpm -C web dev), check the widgets
+6. commit lesson.md, exercises.yml, exercises.md, solutions.md, audio/*.mp3
 ```
 
 Order matters: `gen-exercises` **before** `generate_audio.py` on exercises (the
@@ -331,14 +341,34 @@ table and the web `TestRunner` (`SCORING.md §6`).
 
 ---
 
-## 5. Stub to add to `AUTHORING.md`
+## 5. Cross-references and CI gates
 
-Add this pointer near the top of `AUTHORING.md` (under "Required reading"):
+**`AUTHORING.md` is updated** to reflect the yml-first workflow — it no longer
+treats `exercises.md` as a hand-authored file, and the "Interim note" about
+keeping yml in sync with md is removed. Both docs cross-reference each other.
 
-> **Authoring for the website.** Exercises are now authored as structured
-> `exercises.yml` (single source of truth); `exercises.md` and `solutions.md` are
-> **generated** from it — do not hand-edit them. Lessons may embed inline
-> `<AudioPlay>` components. See **`docs/web/WEB-AUTHORING.md`** for the schema,
-> per-type examples, and the generate/audio command order. The five-block
-> architecture, scope discipline, and German-correctness rules in this file still
-> apply unchanged.
+**CI gate:** `.github/workflows/deploy-pages.yml` runs
+`npx tsx build/gen-exercises.ts --all --check` on every push. A non-zero exit
+blocks the deploy. Run it locally before pushing to be sure your yml is
+canonical.
+
+**Local validation shortcut:**
+
+```bash
+# Single lesson
+npx tsx build/gen-exercises.ts A1/01-erste-kontakte
+
+# All lessons (CI gate)
+npx tsx build/gen-exercises.ts --all --check
+```
+
+If `--all --check` fails, a yml is out of sync with its committed md. Run
+without `--check` to regenerate the md, then re-run `--check` to confirm green.
+
+**Per-lesson manual sync (when iterating without regenerating everything):**
+
+```bash
+npx tsx build/gen-exercises.ts A2/10-stadt-land-reisen    # writes the .md
+git add A2/10-stadt-land-reisen/{exercises.yml,exercises.md,solutions.md}
+git commit -m "P5: A2/10 — exercises.yml + regenerated md"
+```
