@@ -20,6 +20,14 @@ board — master issues per level, sub-issues per lesson) and `tasks/lessons.md`
 > `gh issue list --label master-issue` output).
 > `scripts/create_issues.py` and `scripts/update_master_issues.py` are
 > idempotent — re-run to re-create missing issues.
+>
+> **2026-06-15 — B1/01 (Früher und heute) shipped in commit `9692fb5`.**
+> First B1 lesson, exercising the new conventions:
+> - 4-person Dialog A (Mia + Lukas + Anna + Bruno at a dinner party)
+> - 33 exercises across 5 blocks; `gen-exercises --all --check` green
+> - All 4 audio files generated
+> - Issue #50 closed; master #47 checklist ticked
+> - Next: B1/02 (Gegensätze und Folgen) — issue #51
 
 ## How to resume a session
 
