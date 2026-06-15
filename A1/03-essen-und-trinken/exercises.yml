@@ -94,7 +94,7 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Angebote im Supermarkt"
     audio: transcript_ansage1.mp3
-    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Achtung, eine Durchsage. Liebe Kundinnen und Kunden, heute gibt es frische Brötchen im Angebot — sechs Stück für nur zwei Euro. Auch der Käse ist heute zwanzig Prozent billiger. Obst und Gemüse sind auch heute besonders frisch. Unsere Öffnungszeiten heute: bis zwanzig Uhr. Kommen Sie bald und finden Sie unsere Angebote. Vielen Dank für Ihren Besuch."
     items:
       - q: "Was gibt es heute im Angebot?"
@@ -704,7 +704,7 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructions: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Ich trinke (1) ____ Kaffee."
         options:

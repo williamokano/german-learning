@@ -14,7 +14,7 @@ exercises:
     block: H
     type: single-choice
     title: "Aussprache-Check"
-    instructions: "Höre den Clip und wähle die passende Antwort."
+    instructions: "Listen to the clip and choose the correct answer."
     items:
       - q: "Begrüßungen — was sagst du am Morgen?"
         audio: hoerzu1.mp3
@@ -61,7 +61,7 @@ exercises:
     block: H
     type: true-false
     title: "Dialog A (informell) — Im Deutschkurs"
-    instructions: "Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?"
+    instructions: "Listen to the dialogue and decide: True (R) or False (F)?"
     audio: dialog1_a.mp3
     items:
       - q: "Anna kommt aus Deutschland."
@@ -78,7 +78,7 @@ exercises:
     block: H
     type: true-false
     title: "Dialog B (formell) — Frau Weber und Herr Steinmeyer"
-    instructions: "Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?"
+    instructions: "Listen to the dialogue and decide: True (R) or False (F)?"
     audio: dialog1_b.mp3
     items:
       - q: "Herr Steinmeyer heißt Friedrich."
@@ -98,7 +98,7 @@ exercises:
     block: H
     type: gap-bank
     title: "Hörtext-Lückentext"
-    instructions: "Höre den Text und fülle die Lücken mit Wörtern aus dem Kasten."
+    instructions: "Listen to the text and fill in the gaps.mit Wörtern aus dem Kasten."
     audio: hoertext.mp3
     text: |
       Hallo! Ich {1} Yuki Tanaka. Ich {2} aus Japan, aus Osaka. Ich
@@ -725,7 +725,7 @@ exercises:
     block: C
     type: gap-text
     title: "Lückentext"
-    instructions: "Fülle jede Lücke mit genau einem Wort."
+    instructions: "Fill each gap with exactly one word."
     text: |
       Hallo! Ich {1} Carlos und ich {2} aus Spanien, aus Madrid.
       Jetzt {3} ich in Frankfurt. Ich {4} Spanisch, Englisch und ein
@@ -748,7 +748,7 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1 (multiple choice)"
-    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructions: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Guten Tag! (1) ____ Name ist Petra Lang."
         options:

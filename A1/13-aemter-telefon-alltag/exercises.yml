@@ -39,7 +39,7 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext: Anmeldung in Berlin"
     audio: hoertext.mp3
-    instructions: "Höre den Text und fülle die Lücken. Achtung: Zwei Wörter passen nicht!"
+    instructions: "Listen to the text and fill in the gaps. Achtung: Zwei Wörter passen nicht!"
     text: |
       Anna ist nach {1} gezogen. Sie muss sich beim {2} {3}. Zuerst ruft sie das Bürgeramt an und macht einen Termin. Sie braucht ihren {4} und einen {5}. Den Wohnungsgebernachweis bekommt sie von ihrem Vermieter, Herrn Keller. Der Termin ist am {6} um zehn Uhr.
     bank: [Berlin, Bürgeramt, anmelden, Personalausweis, Wohnungsgebernachweis, Montag, Reisepass, Dienstag]
@@ -56,7 +56,7 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Durchsage im Bürgeramt"
     audio: transcript_ansage1.mp3
-    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Achtung, eine Durchsage. Liebe Bürgerinnen und Bürger, das Bürgeramt öffnet heute ausnahmsweise erst um zehn Uhr. Grund ist eine Fortbildung der Mitarbeiter. Wir bitten um Ihr Verständnis. Bitte informieren Sie sich über die neuen Öffnungszeiten auf unserer Webseite. Termine können Sie weiterhin online buchen. Vielen Dank für Ihre Geduld."
     items:
       - q: "Was ist das für eine Durchsage?"

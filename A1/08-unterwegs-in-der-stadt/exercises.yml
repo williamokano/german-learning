@@ -76,7 +76,7 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Zugfahrt von Gleis 7 auf Gleis 9"
     audio: transcript_ansage1.mp3
-    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Achtung, eine Durchsage. Liebe Fahrgäste, der ICE 502 von Berlin nach München fährt heute nicht von Gleis 7, sondern von Gleis 9. Die Abfahrt ist um vierzehn Uhr dreißig. Wir bitten Sie, zum neuen Gleis zu gehen. Der Zug hat eine Verspätung von zehn Minuten. Fahrgäste mit Reservierung finden ihre Plätze wie üblich. Vielen Dank für Ihr Verständnis."
     items:
       - q: "Welcher Zug hat eine Verspätung?"
@@ -711,7 +711,7 @@ exercises:
       Bis bald!
       Bruno
 
-      Wähle die richtige Option (a, b oder c) für jede Lücke.
+      Choose the correct option (a, b, or c) for each gap.
     items:
       - q: "{1} Bahnhof"
         options:

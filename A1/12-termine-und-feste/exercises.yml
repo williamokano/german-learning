@@ -55,7 +55,7 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Höre den Text und fülle die Lücken. Zwei Wörter sind zu viel."
+    instructions: "Listen to the text and fill in the gaps. Zwei Wörter sind zu viel."
     text: |
       Bruno ruft Yuki {1}. Er möchte sie zur Geburtstagsfeier {2}.
       Yukis Geburtstag ist am {3} Juli. Bruno fragt: „Hast du am {4} Zeit?"
@@ -77,7 +77,7 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Lisa sagt ein Treffen ab"
     audio: transcript_ansage1.mp3
-    instructions: "Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    instructions: "Listen to the message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Hallo Anna, hier ist Lisa. Ich rufe an wegen unseres Treffens am Samstag. Leider muss ich unser Treffen am achtzehnten Oktober absagen — ich habe einen Arzttermin bekommen. Können wir uns vielleicht am Sonntag, dem neunzehnten Oktober, um fünfzehn Uhr treffen? Bitte ruf mich zurück, damit ich weiß, ob der neue Termin passt. Vielen Dank und bis bald!"
     items:
       - q: "Wessen Nachricht ist das?"
