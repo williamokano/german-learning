@@ -1,0 +1,909 @@
+lesson: B1/01
+title: "B1 · Lektion 1 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informal)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Mia und Lukas geben eine Dinnerparty."
+        answer: true
+        why: 'Mia sagt: „Schön, dass ihr da seid!" — sie sind die Gastgeber.'
+      - q: "Anna bestellt Wein."
+        answer: true
+        why: 'Anna sagt: „für mich bitte Wein, wenn du hast".'
+      - q: "Mia ist 2014 nach Berlin gekommen."
+        answer: true
+        why: 'Mia: „Als ich 2014 hierherkam".'
+      - q: "Lukas fährt heute noch mit dem Auto zur Arbeit."
+        answer: false
+        why: 'Lukas: „Heute fahre ich fast überall mit dem Fahrrad".'
+      - q: "Bruno sagt, er habe heute noch ein eigenes Büro."
+        answer: false
+        why: 'Bruno: „Heute arbeite ich komplett remote".'
+
+  - id: H2
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formal)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Wo war Bruno von 2018 bis 2023?"
+        options:
+          - { key: a, text: "Bei der Firma Schmidt AG." }
+          - { key: b, text: "Bei der Firma Yilmaz." }
+          - { key: c, text: "An der Universität." }
+        answer: a
+        why: 'Frau Yilmaz: „Sie waren von 2018 bis 2023 bei der Firma Schmidt AG, richtig?" — und Bruno bestätigt.'
+      - q: "Was hat sich laut Bruno in der Branche verändert?"
+        options:
+          - { key: a, text: "Weniger Kundenbesuche vor Ort." }
+          - { key: b, text: "Mehr Kundenbesuche vor Ort." }
+          - { key: c, text: "KI ist verschwunden." }
+        answer: a
+        why: 'Bruno: „Heute machen wir fast alles remote" — also weniger vor-Ort-Besuche.'
+      - q: "Welche Fähigkeit war früher wichtig, ist es heute weniger?"
+        options:
+          - { key: a, text: "Kommunikation mit dem Kunden." }
+          - { key: b, text: "Schnelle Lösung technischer Probleme." }
+          - { key: c, text: "KI-Kenntnisse." }
+        answer: b
+        why: 'Bruno: „Früher war es wichtig, dass man technische Probleme schnell lösen konnte."'
+      - q: "Was ist heute laut Bruno in der Branche wichtig?"
+        options:
+          - { key: a, text: "Schnell tippen." }
+          - { key: b, text: "Remote arbeiten können." }
+          - { key: c, text: "Dem Kunden erklären können, was man macht." }
+        answer: c
+        why: 'Bruno: „Heute ist die Kommunikation mit dem Kunden viel wichtiger. Man muss auch erklären können, was man macht".'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext"
+    audio: hoertext.mp3
+    instructions: "Listen to the Hörtext and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Hallo Lukas, ich bin's, Mutti. Ich wollte dir kurz erzählen, wie es bei uns im
+      Dorf aussieht. Du weißt ja, dass unser Hof am Dorfrand liegt. {1} hatten
+      wir viele Nachbarn, aber in den letzten zehn Jahren sind viele Familien
+      weggezogen. {2} gab es hier noch zwei kleine Läden und eine Schule. Heute
+      ist alles geschlossen. Die Kinder müssen jetzt mit dem Bus in die nächste Stadt
+      fahren. Wir {3} die alten Zeiten.
+
+      Aber es hat sich auch Positives verändert. {4} sie vor zwei Jahren das
+      schnelle Internet bekommen hatten, konnten die jüngeren Leute endlich von
+      zu Hause aus arbeiten. {5} das Internet kam, {6} viele gezwungen, in
+      die Stadt zu ziehen. Jetzt bleiben sie hier. Das ist schön.
+    bank: [Früher, Damals, vermissen, Nachdem, Bevor, waren, Heute, Später, wollte]
+    answers:
+      "1": Früher
+      "2": Damals
+      "3": vermissen
+      "4": Nachdem
+      "5": Bevor
+      "6": waren
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Lukas' Erinnerungen"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to Lukas's voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    transcript: 'Hallo Mia, hier ist Lukas. Ich bin gerade auf dem Weg nach Hause und habe im Auto mein altes Fotoalbum gefunden. Erinnerst du dich noch an unseren ersten Abend bei dir, als wir uns kennengelernt haben? Das war 2019, im Mai. Ich hatte damals gerade meine alte Stelle in Moabit aufgegeben und du hast mir zum ersten Mal von Barcelona erzählt. Ich glaube, das war der Moment, in dem ich wusste: Diese Frau ist etwas Besonderes. Bis gleich, Schatz. Ich freue mich auf dich.'
+    items:
+      - q: "Wann haben Mia und Lukas sich kennengelernt?"
+        options:
+          - { key: a, text: "Im Mai 2018." }
+          - { key: b, text: "Im Mai 2019." }
+          - { key: c, text: "Im Mai 2020." }
+        answer: b
+        why: '„Das war 2019, im Mai".'
+      - q: "Was hat Lukas gerade gefunden?"
+        options:
+          - { key: a, text: "Sein altes Handy." }
+          - { key: b, text: "Sein altes Fotoalbum." }
+          - { key: c, text: "Seinen alten Wohnungsschlüssel." }
+        answer: b
+        why: '„Ich habe im Auto mein altes Fotoalbum gefunden".'
+      - q: "Was hatte Lukas kurz vor dem Kennenlernen gemacht?"
+        options:
+          - { key: a, text: "Er war nach Barcelona gezogen." }
+          - { key: b, text: "Er hatte seine Stelle in Moabit aufgegeben." }
+          - { key: c, text: "Er hatte geheiratet." }
+        answer: b
+        why: '„Ich hatte damals gerade meine alte Stelle in Moabit aufgegeben".'
+      - q: "Was hat Lukas bei ihrem ersten Treffen sofort gewusst?"
+        options:
+          - { key: a, text: "Dass Mia nach Berlin zurückkommen würde." }
+          - { key: b, text: "Dass Mia in Barcelona bleiben würde." }
+          - { key: c, text: "Dass Mia etwas Besonderes ist." }
+        answer: c
+        why: '„Das war der Moment, in dem ich wusste: Diese Frau ist etwas Besonderes".'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Präteritum: regular verbs"
+    instructions: "Fill in the correct Präteritum form. 8 items."
+    text: |
+      1. Ich {1} in einer kleinen Wohnung in Neukölln. (wohnen)
+      2. Wir {2} damals in Lissabon. (leben)
+      3. Anna {3} als Kind in Jaroslawl. (leben)
+      4. Bruno {4} jeden Tag mit dem Bus zur Arbeit. (fahren — ⚠️ a → ä in present, but in Präteritum no change)
+      5. Lukas und Mia {5} in einer Wohnung in Kreuzberg. (wohnen)
+      6. Ihr {6} im letzten Jahr in Barcelona. (leben)
+      7. Du {7} 2018 nach Berlin. (kommen)
+      8. Sie {8} 500 Euro Miete pro Monat. (zahlen)
+    answers:
+      "1": wohnte
+      "2": lebten
+      "3": lebte
+      "4": fuhr
+      "5": wohnten
+      "6": lebtet
+      "7": kamst
+      "8": zahlte
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Präteritum: sein, haben, werden"
+    instructions: "Fill in the correct Präteritum form of the verb in brackets. 8 items."
+    text: |
+      1. Ich {1} (sein) 22, als ich nach Berlin kam.
+      2. Er {2} (haben) keine Wohnung.
+      3. Wir {3} (sein) gestern im Kino.
+      4. Sie {4} (haben) ein eigenes Büro.
+      5. Das Wetter {5} (werden) schlechter.
+      6. Ihr {6} (sein) 2018 in Brasilien.
+      7. Du {7} (haben) damals keine Ahnung.
+      8. Die Stadt {8} (werden) immer teurer.
+    answers:
+      "1": war
+      "2": hatte
+      "3": waren
+      "4": hatte
+      "5": wurde
+      "6": wart
+      "7": hattest
+      "8": wurde
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Präteritum: Modalverben"
+    instructions: "Fill in the correct Präteritum form. ⚠️ no umlaut. 6 items."
+    text: |
+      1. Ich {1} nicht kommen, weil ich krank war. (können)
+      2. Er {2} jeden Tag 10 Stunden arbeiten. (müssen)
+      3. Wir {3} das nicht. (wissen)
+      4. Du {4} das auch nicht. (wissen)
+      5. Sie {5} das leider nicht. (können)
+      6. Ihr {6} jeden Morgen früh aufstehen. (müssen)
+    answers:
+      "1": konnte
+      "2": musste
+      "3": wussten
+      "4": wusstest
+      "5": konnte
+      "6": musstet
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Präteritum in Fragen"
+    instructions: "Put the verb in brackets into Präteritum. 6 items."
+    text: |
+      1. {1} (sein) du schon einmal in Barcelona? (yes/no question — Verb first)
+      2. {2} (wohnen) ihr damals in Berlin?
+      3. {3} (haben) er ein Auto?
+      4. {4} (müssen) Sie am Wochenende arbeiten?
+      5. {5} (wissen) er, dass du kommst?
+      6. {6} (können) du gestern nicht kommen?
+    answers:
+      "1": Warst
+      "2": Wohntet
+      "3": Hatte
+      "4": Mussten
+      "5": Wusste
+      "6": Konntest
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Plusquamperfekt: 'had done'"
+    instructions: "Fill in the correct Plusquamperfekt form. 6 items."
+    text: |
+      1. Bevor ich nach Berlin kam, {1} (ich) schon einen Job {2} (finden). (finden)
+      2. Nachdem sie das Studium {3} (beenden), {4} (sein) sie nach München {5} (ziehen). (beenden, ziehen)
+      3. Er {6} (sich verlieben) in sie, nachdem er sie zum ersten Mal gesehen hatte. (verlieben)
+    answers:
+      "1": hatte
+      "2": gefunden
+      "3": beendet hatte
+      "4": war
+      "5": gezogen
+      "6": hatte sich verliebt
+
+  - id: A6
+    block: A
+    type: free-write
+    title: "Mini-Story: 5 Sätze im Präteritum"
+    prompt: "Write a short 5-sentence story about something that happened to you in the past. Use Präteritum throughout."
+    stimulus: |
+      Example: Als ich 18 war, wohnte ich noch in meiner Heimatstadt. Ich ging jeden Tag zur Schule. Nach dem Abschluss arbeitete ich ein Jahr in einem Café. Dann zog ich nach Berlin. Heute bin ich sehr glücklich hier.
+
+      Now write your own 5-sentence story. Use at least 3 of: war, hatte, ging, machte, kam, wurde, wusste, konnte, musste.
+    model: |
+      (sample) Als ich 16 war, lebte ich noch bei meinen Eltern. Ich ging auf
+      ein Gymnasium und hatte viele Freunde. Nach dem Schulabschluss
+      wusste ich nicht, was ich studieren sollte. Dann machte ich ein
+      Praktikum in einer Firma. Heute arbeite ich dort und bin sehr froh.
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Time connectors: zuerst, dann, danach, schließlich"
+    instructions: "Choose the correct time connector for each gap. 5 items."
+    text: |
+      Anna erzählt: „{1} lebte ich in Russland. {2} bin ich nach Berlin
+      gekommen. {3} habe ich einen Deutschkurs gemacht. {4} habe ich einen
+      Job gefunden. {5} bin ich geblieben."
+    answers:
+      "1": Zuerst
+      "2": Dann
+      "3": Danach
+      "4": Später
+      "5": Schließlich
+
+  - id: A8
+    block: A
+    type: free-write
+    title: "Plusquamperfekt-Sätze"
+    prompt: "Complete each sentence with a Plusquamperfekt clause (had + past participle)."
+    stimulus: |
+      1. Nachdem ich nach Berlin gekommen war, ______________________.
+      2. Bevor ich den Job gefunden hatte, ______________________.
+      3. Als ich meine Freundin kennenlernte, ______________________.
+      4. Nachdem sie das Studium beendet hatte, ______________________.
+    model: |
+      1. Nachdem ich nach Berlin gekommen war, hatte ich keine Wohnung.
+      2. Bevor ich den Job gefunden hatte, hatte ich drei Jahre als
+         Barista gearbeitet.
+      3. Als ich meine Freundin kennenlernte, hatte ich gerade meine
+         alte Stelle aufgegeben.
+      4. Nachdem sie das Studium beendet hatte, war sie sofort nach
+         München gezogen.
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Früher vs. heute — Vergleich"
+    instructions: "Choose the correct form (Präteritum or Präsens). 6 items."
+    text: |
+      1. Damals {1} (wohnen — Prät.) ich noch in Russland.
+      2. Heute {2} (wohnen — Präs.) ich in Berlin.
+      3. Früher {3} (fahren — Prät.) ich mit dem Auto. Heute {4} (fahren — Präs.) ich Rad.
+      4. Damals {5} (sein — Prät.) das Leben ruhiger. Heute {6} (sein — Präs.) es schneller.
+    answers:
+      "1": wohnte
+      "2": wohne
+      "3": fuhr
+      "4": fahre
+      "5": war
+      "6": ist
+
+  - id: A10
+    block: A
+    type: free-write
+    title: "Mini-Biografie: 6 Sätze"
+    prompt: "Write a 6-sentence mini-biography of a person you know (real or invented). Use Präteritum throughout."
+    stimulus: |
+      Structure:
+      - Sentence 1: Wo und wann wurde sie/er geboren?
+      - Sentence 2: Wo lebte sie/er als Kind?
+      - Sentence 3: Was machte sie/er nach der Schule?
+      - Sentence 4: Wann und warum zog sie/er um?
+      - Sentence 5: Was machte sie/er in der neuen Stadt?
+      - Sentence 6: Wie lebt sie/er heute?
+    model: |
+      Mein Bruder wurde 1992 in München geboren. Er lebte dort bis zu seinem
+      18. Lebensjahr. Nach dem Abitur machte er eine Ausbildung zum
+      Krankenpfleger. 2014 zog er nach Berlin, weil er dort eine Stelle
+      gefunden hatte. Er arbeitete fünf Jahre im Krankenhaus. Heute
+      lebt er mit seiner Frau und zwei Kindern in Prenzlauer Berg.
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Dialog ergänzen: Erinnerungen an das Studium"
+    instructions: "Fill in the 10 blanks with the correct Präteritum form."
+    text: |
+      — Weißt du noch, wie das {1} (sein) damals im Studium?
+      — Ja, wir {2} (haben) kaum Geld und {3} (müssen) jeden Tag
+        in der Mensa essen.
+      — Ich {4} (wohnen) in einer WG mit drei anderen Leuten.
+      — Und wir {5} (können) uns nie ein Auto {6} (leisten).
+      — Stimmt. Aber wir {7} (sein) trotzdem glücklich.
+      — Damals {8} (wissen) wir nicht, wie gut wir es {9} (haben).
+      — Heute {10} (verstehen) ich das.
+    bank: [war, hatten, mussten, wohnte, konnten, leisten, waren, wussten, hatten, verstehe]
+    answers:
+      "1": war
+      "2": hatten
+      "3": mussten
+      "4": wohnte
+      "5": konnten
+      "6": leisten
+      "7": waren
+      "8": wussten
+      "9": hatten
+      "10": verstehe
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Finde den Fehler"
+    prompt: 'Each sentence has exactly one mistake. Find it and write the corrected sentence.'
+    stimulus: |
+      1. Ich war gestern in Berlin gewesen.
+      2. Wir haben dort eine schöne Wohnung gehabt.
+      3. Er hatte kein Geld, weil er arbeitslos war.
+      4. Sie ist 2018 nach Barcelona gegangen.
+      5. Ich bin in Berlin geboren, weil meine Familie dort lebte.
+      6. Wir konnten am Wochenende nicht kommen, weil wir arbeiten mussten.
+      7. Bevor ich den Job gefundet hatte, war ich Student.
+      8. Nachdem sie angekommen war, hat sie mich angerufen.
+    model: |
+      1. Ich war gestern in Berlin. (Perfekt + Präteritum mischen: in einer Erzählung Präteritum, nicht Perfekt+aux)
+      2. Wir hatten dort eine schöne Wohnung. (same — Präteritum statt Plusquamperfekt; narrative tense, not past-perfect-of-past)
+      3. Er hatte kein Geld, weil er arbeitslos war. (correct as is!)
+      4. Sie ist 2018 nach Barcelona gegangen. (correct as is!)
+      5. Ich bin in Berlin geboren, weil meine Familie dort lebte. (correct as is!)
+      6. Wir konnten am Wochenende nicht kommen, weil wir arbeiten mussten. (Präteritum statt Präsens: arbeiten → mussten/arbeiten mussten)
+      7. Bevor ich den Job gefunden hatte, war ich Student. (Partizip II Fehler: gefundet → gefunden)
+      8. Nachdem sie angekommen war, hat sie mich angerufen. (Präteritum in der Hauptsatz-Hauptaussage: hat → rief/war → ... rief)
+
+  - id: B3
+    block: B
+    type: matching
+    title: "Frage und Antwort verbinden"
+    instructions: "Match each question (1–6) with the correct answer (a–f)."
+    left:
+      - { key: "1", text: "Wo wohntest du als Kind?" }
+      - { key: "2", text: "Was hast du nach dem Abitur gemacht?" }
+      - { key: "3", text: "Wann bist du nach Berlin gekommen?" }
+      - { key: "4", text: "Wie war dein erstes Jahr in Berlin?" }
+      - { key: "5", text: "Was hat sich in deiner Stadt verändert?" }
+      - { key: "6", text: "Woran erinnerst du dich besonders?" }
+    right:
+      - { key: a, text: "Ich bin 2019 nach Berlin gekommen." }
+      - { key: b, text: "Es war schwer, aber auch spannend." }
+      - { key: c, text: "Ich habe zuerst ein Praktikum gemacht." }
+      - { key: d, text: "Ich erinnere mich an meine erste Wohnung." }
+      - { key: e, text: "Ich wohnte in einem kleinen Dorf in Bayern." }
+      - { key: f, text: "Die Mieten sind viel höher geworden." }
+    answers:
+      "1": e
+      "2": c
+      "3": a
+      "4": b
+      "5": f
+      "6": d
+
+  - id: B4
+    block: B
+    type: free-write
+    title: "Satzbau: Plusquamperfekt im Nebensatz"
+    prompt: "Build a correct German sentence from the cues. Use Nachdem or Bevor as the conjunction."
+    stimulus: |
+      1. nach dem Studium / arbeiten / 5 Jahre / als Beraterin — Nachdem …
+      2. bevor / 2019 / nach Berlin / kommen / arbeiten / als Kellnerin — Bevor …
+      3. nachdem / den Job / wechseln / verdienen / mehr Geld — Nachdem …
+      4. bevor / das Studium / abschließen / zwei Jahre / reisen — Bevor …
+    model: |
+      1. Nachdem sie ihr Studium beendet hatte, arbeitete sie fünf Jahre als Beraterin.
+      2. Bevor sie 2019 nach Berlin kam, arbeitete sie als Kellnerin.
+      3. Nachdem er den Job gewechselt hatte, verdiente er mehr Geld.
+      4. Bevor sie das Studium abschloss, reiste sie zwei Jahre um die Welt.
+
+  - id: B5
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "sich erinnern an"
+    instructions: "Fill in the correct form. ⚠️ Akkusativ! 6 items."
+    text: |
+      1. Ich erinnere mich {1} (an + Akk.) meine erste Wohnung in Berlin.
+      2. Erinnerst du dich {2} (an + Akk.) deinen ersten Arbeitstag?
+      3. Wir erinnern uns {3} (an + Akk.) die guten Zeiten.
+      4. Er erinnert sich {4} (an + Akk.) den Moment, als er sie kennenlernte.
+      5. Erinnerst du dich {5} (an + Akk.) den Film, den wir gestern gesehen haben?
+      6. Anna erinnert sich {6} (an + Akk.) ihre Kindheit in Russland.
+    answers:
+      "1": "an"
+      "2": "an"
+      "3": "an"
+      "4": "an den Moment"
+      "5": "an den Film"
+      "6": "an"
+
+  - id: B6
+    block: B
+    type: free-write
+    title: "Übersetzen (EN → DE) — Präteritum"
+    prompt: "Translate into German using Präteritum."
+    stimulus: |
+      1. I lived in Moscow when I was a child.
+      2. She worked in a café for two years.
+      3. We couldn't come because we had to work.
+      4. He knew the answer immediately.
+      5. I had a car, but I didn't use it often.
+      6. They moved to Vienna in 2015.
+    model: |
+      1. Ich lebte in Moskau, als ich ein Kind war.
+      2. Sie arbeitete zwei Jahre in einem Café.
+      3. Wir konnten nicht kommen, weil wir arbeiten mussten.
+      4. Er wusste die Antwort sofort.
+      5. Ich hatte ein Auto, aber ich benutzte es nicht oft.
+      6. Sie zogen 2015 nach Wien.
+
+  - id: B7
+    block: B
+    type: order
+    title: "Satzbau: Wörter ordnen"
+    prompt: "Reorder the words to make a correct German sentence using Präteritum."
+    stimulus: |
+      1. ich / wusste / nicht / dass / er / kommen / wollte
+      2. wir / konnten / nicht / bleiben / weil / wir / arbeiten / mussten
+      3. sie / war / 18 / als / sie / nach / Berlin / zog
+      4. er / hatte / das / Buch / schon / gelesen / bevor / der / Film / begann
+    items:
+      - tiles: [ich, wusste, nicht, dass, er, kommen, wollte]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Ich wusste nicht, dass er kommen wollte."
+      - tiles: [wir, konnten, nicht, bleiben, weil, wir, arbeiten, mussten]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Wir konnten nicht bleiben, weil wir arbeiten mussten."
+      - tiles: [sie, war, "18", als, sie, nach, Berlin, zog]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Sie war 18, als sie nach Berlin zog."
+      - tiles: [er, hatte, das, Buch, schon, gelesen, bevor, der, Film, begann]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        note: "Er hatte das Buch schon gelesen, bevor der Film begann."
+
+  - id: B8
+    block: B
+    type: odd-one-out
+    title: "Wortschatz: Was passt nicht?"
+    instructions: "Cross out the word that does not fit and explain why."
+    groups:
+      - items: [Kindheit, Jugend, Alter, Studium]
+        odd: 2
+        why: "Alter is a neutral noun for age; the others are all life stages/phases."
+      - items: [Beruf, Arbeit, Stelle, Ferien]
+        odd: 3
+        why: "Ferien is holidays; the others are all work-related."
+      - items: [Miete, Lohn, Gehalt, Verdienst]
+        odd: 0
+        why: "Miete is rent (cost); the others are all forms of income."
+      - items: [Umzug, Reise, Wanderung, Veränderung]
+        odd: 3
+        why: "Veränderung is a generic abstract noun; the others are all types of moving/journeying."
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Früher und heute: WhatsApp an deine Schwester"
+    prompt: 'Schreib eine WhatsApp an deine Schwester (oder einen guten Freund) in 4–5 Sätzen. Erzähl ihr, wie sich dein Leben in den letzten 10 Jahren verändert hat. Verwende Präteritum und Plusquamperfekt.'
+    use:
+      - "at least 2 sentences with Präteritum (war, hatte, wohnte, arbeitete …)"
+      - "at least 1 sentence with Plusquamperfekt (hatte + Partizip II or war + Partizip II)"
+      - "at least 1 time connector (zuerst, dann, danach, später, schließlich, vor 10 Jahren, damals)"
+      - "a friendly closing phrase (Liebe Grüße! / Bis bald!)"
+    selfCheck:
+      - "Did I keep the verb in position 2 in statements?"
+      - "Did I put the conjugated verb at the end of subordinate clauses (weil, als, nachdem, bevor)?"
+      - "Did I use Präteritum for the main narrative (not Perfekt)?"
+    model: |
+      Hey Lena! Du hast mich gefragt, wie sich mein Leben verändert hat.
+      Also: Vor zehn Jahren wohnte ich noch bei unseren Eltern und arbeitete
+      in einem Café. Damals hatte ich kein Geld und wusste nicht, was ich
+      studieren sollte. Nachdem ich das Studium beendet hatte, bin ich nach
+      Berlin gezogen. Heute habe ich eine eigene Wohnung und einen guten Job.
+      Ich vermisse dich! Bis bald, Liebes. 💛
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext: Lukas' Fotoalbum"
+    instructions: "Fill each gap with one word. 10 items."
+    text: |
+      Ich habe das Album auf dem Dachboden gefunden. Damals (1) {1} ich 26 und
+      (2) {2} gerade meine erste Festanstellung als Entwickler angefangen.
+      Ich (3) {3} so stolz! Auf dem ersten Foto sehe ich mein altes Auto —
+      einen kaputten Polo, den ich 2016 für 800 Euro gekauft (4) {4}. Ich (5) {5}
+      damit jeden Tag zur Arbeit gefahren, eine Stunde pro Strecke. Heute
+      (6) {6} ich Rad, das ist viel besser.
+
+      Auf dem nächsten Foto sehe ich meine alte Wohnung in Moabit. Sie
+      (7) {7} klein, 45 Quadratmeter, und ich (8) {8} 540 Euro Miete. Damals
+      (9) {9} ich das teuer. Heute, 2026, (10) {10} ich für die gleiche
+      Wohnungsgröße das Doppelte — aber ich wohne mit meiner Partnerin Mia
+      zusammen, also teilen wir die Miete.
+    answers:
+      "1": war
+      "2": hatte
+      "3": war
+      "4": hatte
+      "5": fuhr
+      "6": fahre
+      "7": war
+      "8": zahlte
+      "9": fand
+      "10": zahle
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Choose the correct option (a, b, or c) for each gap."
+    items:
+      - q: "Ich (1) ____ gestern in Berlin."
+        options:
+          - { key: a, text: "war" }
+          - { key: b, text: "bin gewesen" }
+          - { key: c, text: "wurde" }
+        answer: a
+        why: "In a narrative context, use Präteritum (war) instead of Perfekt (bin gewesen)."
+      - q: "Er (2) ____ 2018 nach Berlin, weil er dort eine Stelle gefunden hatte."
+        options:
+          - { key: a, text: "zieht" }
+          - { key: b, text: "zog" }
+          - { key: c, text: "ist gezogen" }
+        answer: b
+        why: "Präteritum (zog) is the natural narrative past tense here."
+      - q: "Wir (3) ____ damals in einer kleinen Wohnung."
+        options:
+          - { key: a, text: "wohnen" }
+          - { key: b, text: "wohnen oft" }
+          - { key: c, text: "wohnten" }
+        answer: c
+        why: "Präteritum (wohnten)."
+      - q: "Bevor sie nach Barcelona (4) ____, hatte sie in München studiert."
+        options:
+          - { key: a, text: "gezogen war" }
+          - { key: b, text: "zog" }
+          - { key: c, text: "zieht" }
+        answer: a
+        why: "Bevor + Plusquamperfekt: 'Bevor sie nach Barcelona gezogen war, hatte sie in München studiert'."
+      - q: "Ich (5) ____ als Kind in einem kleinen Dorf."
+        options:
+          - { key: a, text: "lebe" }
+          - { key: b, text: "lebte" }
+          - { key: c, text: "habe gelebt" }
+        answer: b
+        why: "Präteritum (lebte)."
+      - q: "Damals (6) ____ wir kein Auto."
+        options:
+          - { key: a, text: "haben" }
+          - { key: b, text: "hatten" }
+          - { key: c, text: "hatten gehabt" }
+        answer: b
+        why: "Präteritum of haben (hatten)."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (word bank)"
+    instructions: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word may be used once."
+    text: |
+      Lukas erzählt von seinem alten Fotoalbum: „Damals (1) {1} ich 26
+      und (2) {2} gerade meinen ersten Job (3) {3}. Ich (4) {4} ein
+      altes Auto — einen kaputten Polo. Ich (5) {5} damit jeden Tag zur
+      Arbeit. Die Wohnung (6) {6} klein, aber ich (7) {7} das nicht
+      schlimm. Nachdem ich (8) {8} nach Berlin (9) {9}, (10) {10} ich
+      drei Jahre lang jeden Tag mit dem Bus."
+    bank: [WAR, HATTE, BEGONNEN, WAR, FUHR, WAR, FAND, BIN, GEZOGEN, MUSSTE, KONNTE, WOLLTE, WURDE, HÄTTE, WISSEN, ARBEITEN, WOHNTEN, LEBTE, GING, KAM]
+    answers:
+      "1": WAR
+      "2": HATTE
+      "3": BEGONNEN
+      "4": HATTE
+      "5": FUHR
+      "6": WAR
+      "7": FAND
+      "8": BIN
+      "9": GEZOGEN
+      "10": MUSSTE
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Lukas' Fotoalbum)"
+    instructions: "Read the Lesetext in lesson.md, section 5. Richtig (R) oder falsch (F)?"
+    items:
+      - q: "Lukas hat das Fotoalbum auf dem Dachboden gefunden."
+        answer: true
+        why: '„Ich habe das Album auf dem Dachboden gefunden".'
+      - q: "Lukas war 28, als er seine erste Festanstellung anfing."
+        answer: false
+        why: '„Damals war ich 26" — nicht 28.'
+      - q: "Lukas ist mit dem Polo zur Arbeit gefahren."
+        answer: true
+        why: '„Ich bin damit jeden Tag zur Arbeit gefahren".'
+      - q: "Lukas' alte Wohnung war 50 Quadratmeter groß."
+        answer: false
+        why: '„Sie war klein, 45 Quadratmeter" — nicht 50.'
+      - q: "Heute zahlt Lukas für die gleiche Wohnungsgröße das Doppelte."
+        answer: true
+        why: '„zahle ich für die gleiche Wohnungsgröße das Doppelte".'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Hörtext)"
+    instructions: |
+      > Hallo Lukas, ich bin's, Mutti. Ich wollte dir kurz erzählen, wie es bei uns im
+      > Dorf aussieht. Du weißt ja, dass unser Hof am Dorfrand liegt. Früher hatten
+      > wir viele Nachbarn, aber in den letzten zehn Jahren sind viele Familien
+      > weggezogen. Damals gab es hier noch zwei kleine Läden und eine Schule. Heute
+      > ist alles geschlossen.
+      >
+      > Aber es hat sich auch Positives verändert. Nachdem sie vor zwei Jahren das
+      > schnelle Internet bekommen hatten, konnten die jüngeren Leute endlich von
+      > zu Hause aus arbeiten. Bevor das Internet kam, waren viele gezwungen, in
+      > die Stadt zu ziehen.
+
+      Wähle a, b oder c.
+    items:
+      - q: "Was ist mit den Nachbarn passiert?"
+        options:
+          - { key: a, text: "Es gibt jetzt mehr Nachbarn als früher." }
+          - { key: b, text: "Viele Familien sind weggezogen." }
+          - { key: c, text: "Alle Nachbarn haben ein neues Haus gebaut." }
+        answer: b
+        why: '„In den letzten zehn Jahren sind viele Familien weggezogen".'
+      - q: "Was gibt es im Dorf heute nicht mehr?"
+        options:
+          - { key: a, text: "Den Hof." }
+          - { key: b, text: "Die kleinen Läden und die Schule." }
+          - { key: c, text: "Das Internet." }
+        answer: b
+        why: '„Damals gab es hier noch zwei kleine Läden und eine Schule. Heute ist alles geschlossen".'
+      - q: "Was hat sich positiv verändert?"
+        options:
+          - { key: a, text: "Die Mieten sind gesunken." }
+          - { key: b, text: "Es gibt mehr Läden." }
+          - { key: c, text: "Die Leute können von zu Hause aus arbeiten." }
+        answer: c
+        why: '„Die jüngeren Leute [können] endlich von zu Hause aus arbeiten".'
+      - q: "Wovor mussten die Leute früher in die Stadt ziehen?"
+        options:
+          - { key: a, text: "Wegen der hohen Mieten." }
+          - { key: b, text: "Wegen des schnellen Internets." }
+          - { key: c, text: "Weil sie kein Internet hatten." }
+        answer: c
+        why: '„Bevor das Internet kam, waren viele gezwungen, in die Stadt zu ziehen".'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Eine kurze Geschichte aus der Vergangenheit"
+    prompt: "Write a short story (8–10 sentences) about an important moment in your life. Use Präteritum and at least 2 sentences with Plusquamperfekt."
+    use:
+      - "Präteritum (war, hatte, ging, machte, kam, wusste, konnte, musste …)"
+      - "Plusquamperfekt (hatte + Partizip II or war + Partizip II)"
+      - "at least 2 time connectors (zuerst, dann, danach, später, schließlich, damals, vor … Jahren)"
+      - "at least 1 Bevor or Nachdem subordinate clause"
+    selfCheck:
+      - "Did I put the conjugated verb at the end of subordinate clauses (weil, als, nachdem, bevor)?"
+      - "Did I use Präteritum for the main narrative (not Perfekt)?"
+      - "Did I include at least 2 Plusquamperfekt sentences?"
+      - "Is the word count at least 8–10 sentences?"
+    model: |
+      Als ich 18 war, lebte ich noch bei meinen Eltern in München. Ich
+      ging zur Schule und wusste nicht, was ich nach dem Abitur machen
+      sollte. Nachdem ich ein Praktikum in einer Marketingfirma gemacht
+      hatte, wusste ich: Das will ich machen. Bevor ich mein Studium
+      begann, reiste ich drei Monate durch Südamerika. Danach zog ich
+      nach Berlin und fing an der FU an. Heute, sechs Jahre später,
+      arbeite ich in einer Werbeagentur und bin sehr glücklich. Meine
+      Eltern sagten damals: „Das schaffst du nicht." Aber ich habe es
+      geschafft. Ich bin stolz auf mich.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per item. No notes. Items marked (L<n>) review an earlier lesson. 15 items."
+    text: |
+      1. Präteritum of sein, ich-form: {1}
+      2. Präteritum of haben, du-form: {2}
+      3. Präteritum of können, er/sie/es: {3}
+      4. Präteritum of wissen, ich-form: {4}
+      5. Plusquamperfekt of machen: {5} {6}
+      6. Plusquamperfekt of gehen: {7} {8}
+      7. (A2/01) Präteritum of modal dürfen, ich-form: {9}
+      8. (A2/01) Präteritum of modal wollen, er/sie/es: {10}
+      9. (A2/11) Two pronouns: „Ich schenke {11} {12}." (Akks. before Dat.)
+      10. (A1/11) Perfekt of fahren: {13}
+      11. Translate: „I was 22 when I moved to Berlin." → {14}
+      12. Translate: „We had a small apartment." → {15}
+      13. (A2/06) {16} (sich interessieren an + Dat. — A2/06) du dich für Politik?
+      14. (A2/10) „Ich fahre {17} Spanien." (nach / in die)
+      15. (A2/09) Konjunktiv II of haben, ich-form: {18}
+    answers:
+      "1": war
+      "2": hattest
+      "3": konnte
+      "4": wusste
+      "5": hatte
+      "6": gemacht
+      "7": war
+      "8": gegangen
+      "9": durfte
+      "10": wollte
+      "11": es
+      "12": ihr
+      "13": gefahren
+      "14": "Ich war 22, als ich nach Berlin zog."
+      "15": "Wir hatten eine kleine Wohnung."
+      "16": Interessierst
+      "17": nach
+      "18": hätte
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Cross out the word that does not fit and explain why."
+    groups:
+      - items: [Kindheit, Jugend, Alter, Studium]
+        odd: 2
+        why: "Alter is a neutral noun for age; the others are all life stages/phases."
+      - items: [Miete, Lohn, Gehalt, Verdienst]
+        odd: 0
+        why: "Miete is rent (cost); the others are all forms of income."
+      - items: [wohnen, leben, arbeiten, sich erinnern]
+        odd: 3
+        why: "sich erinnern takes a reflexive prepositional object (an + Akk); the others don't take an object."
+      - items: [zuerst, dann, danach, immer]
+        odd: 3
+        why: "immer means 'always'; the others are all time connectors for sequencing past events."
+      - items: [war, hatte, ging, schön]
+        odd: 3
+        why: "schön is an adjective; the others are all Präteritum forms of verbs."
+      - items: [vergangen, früher, damals, heutzutage]
+        odd: 0
+        why: "vergangen is an adjective form; the others are all time adverbs."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: A2/01, A2/06, A2/11"
+    instructions: "Review of earlier lessons. 10 items."
+    text: |
+      **Aus A2/01 (Präteritum of modals + time connectors):**
+      1. Damals {1} (müssen) ich jeden Tag arbeiten.
+      2. {2} (zuerst / dann / danach) bin ich nach Berlin gekommen.
+      3. Präteritum of wollen, er/sie-form: {3}
+
+      **Aus A2/06 (Verben mit Präpositionen):**
+      4. Ich interessiere mich {4} (für / an + Akk.) Politik.
+      5. Erinnerst du dich {5} (an + Akk.) unsere Reise?
+      6. (A2/06) „Woran {6} (denken) du?" (correct: denkst du)
+
+      **Aus A2/11 (Two-object verbs):**
+      7. „Ich schenke meiner Schwester {7} (ein Buch)." (dat + akk)
+      8. „Ich schenke {8} (sie)." (replace meine Schwester)
+      9. „Ich schenke {9} (es ihr)." (replace both nouns)
+      10. (A2/11) „Er {10} (erklären) den Schülern die Regel." (conjugated form)
+    answers:
+      "1": musste
+      "2": Zuerst
+      "3": wollte
+      "4": "für"
+      "5": "an"
+      "6": denkst
+      "7": "ein Buch"
+      "8": "ihr"
+      "9": "es ihr"
+      "10": erklärte
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion B1/02. Below 16 → redo Block A (A1–A4) and Block B2 (Finde den Fehler) tomorrow, then retest D4."
+    text: |
+      **Präteritum — fill the form:**
+      1. „Ich {1} (sein) 22, als ich nach Berlin kam."
+      2. „Er {2} (müssen) jeden Tag 10 Stunden arbeiten."
+      3. „Sie {3} (wissen) nicht, was er meinte."
+
+      **Plusquamperfekt:**
+      4. „Nachdem ich angekommen {4} (sein), rief ich meine Mutter an."
+      5. „Bevor er den Job gefunden {5} (haben), war er Student."
+
+      **Time connectors:**
+      6. „{6} lebte ich noch in Russland. {7} bin ich nach Berlin gekommen." (zuerst / dann)
+
+      **Vergleiche:**
+      7. „{8} war alles billiger, heute ist alles teurer." (Damals / Früher)
+      8. „Heute fahre ich Rad. {9} bin ich immer mit dem Auto gefahren." (Früher / Damals)
+
+      **sich erinnern:**
+      9. „Ich erinnere mich {10} meine Kindheit." (an + Akk.)
+
+      **Übersetzen:**
+      10. „I had a small apartment." → {11}
+      11. „We moved to Vienna in 2015." → {12}
+      12. „Before I came to Berlin, I had studied in Munich." → {13}
+
+      **Mini-Story (3 Sätze):**
+      13. {14}
+      14. {15}
+      15. {16}
+
+      **Gemischtes:**
+      16. „Gestern {17} (Präsens or Prät. of arbeiten) ich 8 Stunden." (arbeitete — Prät.)
+      17. (A2/11) Akkusativ + Dativ Pronomen: „Ich gebe es {18}." (ihm / ihr / ihnen)
+      18. (A2/09) Konjunktiv II: „Ich {19} gern einen Kaffee." (hätte / wäre / würde)
+      19. (A2/10) „Ich fahre {20} Schweiz." (nach / in die)
+      20. {21}
+    answers:
+      "1": war
+      "2": musste
+      "3": wusste
+      "4": war
+      "5": hatte
+      "6": Zuerst
+      "7": Dann
+      "8": Damals
+      "9": Früher
+      "10": "an"
+      "11": "Ich hatte eine kleine Wohnung."
+      "12": "Wir zogen 2015 nach Wien."
+      "13": "Bevor ich nach Berlin kam, hatte ich in München studiert."
+      "14": "(any 3-sentence mini-story in Präteritum)"
+      "15": "—"
+      "16": "—"
+      "17": arbeitete
+      "18": "ihm"
+      "19": hätte
+      "20": "in die"
+      "21": "—"
