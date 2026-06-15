@@ -33,9 +33,10 @@ If it exits 0, commit+push. Then move to the next lesson. **Do not fan out in pa
 | A1/13 | ✅ DONE | ✅ | ✅ |
 | A2/03 | ✅ DONE | ✅ | ✅ |
 | A2/04 | ✅ DONE | ✅ | ✅ |
-| A2/05–A2/13 | ❌ | — | — |
+| A2/05 | ✅ DONE | ✅ | ✅ |
+| A2/06–A2/13 | ❌ | — | — |
 
-**Next lesson:** A2/05-gesund-leben
+**Next lesson:** A2/06-medien-und-kommunikation
 
 ---
 
