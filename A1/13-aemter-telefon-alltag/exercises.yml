@@ -39,7 +39,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext: Anmeldung in Berlin"
     audio: hoertext.mp3
-    instructions: "Listen to the text and fill in the gaps. Achtung: Zwei Wörter passen nicht!"
+    instructions: "Höre den Text und fülle die Lücken. Achtung: Zwei Wörter passen nicht!"
+    instructionsEn: "Listen to the text and fill in the gaps. Note: two words do not fit!"
     text: |
       Anna ist nach {1} gezogen. Sie muss sich beim {2} {3}. Zuerst ruft sie das Bürgeramt an und macht einen Termin. Sie braucht ihren {4} und einen {5}. Den Wohnungsgebernachweis bekommt sie von ihrem Vermieter, Herrn Keller. Der Termin ist am {6} um zehn Uhr.
     bank: [Berlin, Bürgeramt, anmelden, Personalausweis, Wohnungsgebernachweis, Montag, Reisepass, Dienstag]
@@ -56,7 +57,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Durchsage im Bürgeramt"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
+    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Achtung, eine Durchsage. Liebe Bürgerinnen und Bürger, das Bürgeramt öffnet heute ausnahmsweise erst um zehn Uhr. Grund ist eine Fortbildung der Mitarbeiter. Wir bitten um Ihr Verständnis. Bitte informieren Sie sich über die neuen Öffnungszeiten auf unserer Webseite. Termine können Sie weiterhin online buchen. Vielen Dank für Ihre Geduld."
     items:
       - q: "Was ist das für eine Durchsage?"
@@ -696,7 +698,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Ich rufe (1) ____ meiner Anmeldung an."
         options:

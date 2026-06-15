@@ -75,7 +75,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Nachricht vom Computerkurs"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
+    instructions: "Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    instructionsEn: "Listen to the message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Hallo Anna, hier ist Maria. Ich rufe an wegen dem Computerkurs am Montag. Der Kurs fängt leider erst um neunzehn Uhr an, nicht um achtzehn Uhr. Du musst deinen Laptop mitbringen. Du darfst auch eine Freundin mitbringen — der Kurs hat noch freie Plätze. Bitte ruf mich zurück, wenn du Fragen hast. Vielen Dank!"
     items:
       - q: "Wessen Nachricht ist das?"
@@ -644,7 +645,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Ich habe jetzt eine neue Stelle. Ich (1) ______ als Ingenieurin bei einer großen Firma."
         options:

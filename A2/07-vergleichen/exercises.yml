@@ -668,7 +668,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Das rote Fahrrad ist (1) ____ teurer als das blaue."
         options:

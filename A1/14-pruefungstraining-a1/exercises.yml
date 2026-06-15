@@ -41,7 +41,8 @@ exercises:
     block: exam
     type: single-choice
     title: "Aufgabe 1 — Kurze Gespräche"
-    instructions: "Listen to the conversations (twice) and choose the correct answer (a, b, or c)."
+    instructions: "Hören Sie die Gespräche (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the conversations (twice) and choose the correct answer (a, b, or c)."
     items:
       - q: "Wo ist der Bahnhof?"
         audio: aufgabe1_gespraech1.mp3
@@ -90,7 +91,8 @@ exercises:
     block: exam
     type: true-false
     title: "Aufgabe 2 — Richtig oder falsch?"
-    instructions: "Listen to the answering machine message (twice) and decide: true (R) or false (F)?"
+    instructions: "Hören Sie die Nachricht auf dem Anrufbeantworter (zweimal) und entscheiden Sie: richtig (R) oder falsch (F)?"
+    instructionsEn: "Listen to the answering machine message (twice) and decide: true (R) or false (F)?"
     audio: aufgabe2.mp3
     items:
       - q: "Das Konzert beginnt um 19 Uhr."
@@ -115,7 +117,8 @@ exercises:
     block: exam
     type: single-choice
     title: "Aufgabe 3 — Kurze Ansagen"
-    instructions: "Listen to the announcements (twice) and choose the correct answer (a, b, or c)."
+    instructions: "Hören Sie die Ansagen (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the announcements (twice) and choose the correct answer (a, b, or c)."
     items:
       - q: "Von welchem Gleis fährt der Zug?"
         audio: aufgabe3_ansage1.mp3
@@ -164,7 +167,8 @@ exercises:
     block: exam
     type: matching
     title: "Aufgabe 4 — Anzeigen und Aushänge"
-    instructions: "Which notice (A–E) matches which situation (1–5)? Match them."
+    instructions: "Welche Anzeige (A–E) passt zu welcher Situation (1–5)? Ordnen Sie zu."
+    instructionsEn: "Which notice (A–E) matches which situation (1–5)? Match them."
     left:
       - key: "1"
         text: "Sie möchten informell Deutsch sprechen und neue Leute kennenlernen — kostenlos."
@@ -198,7 +202,8 @@ exercises:
     block: exam
     type: single-choice
     title: "Aufgabe 5 — Kurze Texte: Carlos Fernández"
-    instructions: "Read the text and choose the correct answer (a, b, or c)."
+    instructions: "Lesen Sie den Text und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Read the text and choose the correct answer (a, b, or c)."
     items:
       - q: "Woher kommt Carlos?"
         options:
@@ -240,7 +245,8 @@ exercises:
     block: exam
     type: true-false
     title: "Aufgabe 6 — Formular lesen: Yuki Tanaka"
-    instructions: "Read the registration form and decide: true (R) or false (F)?"
+    instructions: "Lesen Sie das Anmeldeformular und entscheiden Sie: richtig (R) oder falsch (F)?"
+    instructionsEn: "Read the registration form and decide: true (R) or false (F)?"
     items:
       - q: "Yuki Tanaka kommt aus Korea."
         answer: false
@@ -262,7 +268,8 @@ exercises:
     block: exam
     type: matching
     title: "Aufgabe 7 — Nachrichten lesen"
-    instructions: "Who wrote which message? Match them (Lisa · Marco · Selin)."
+    instructions: "Wer hat welche Nachricht geschrieben? Ordnen Sie zu (Lisa · Marco · Selin)."
+    instructionsEn: "Who wrote which message? Match them (Lisa · Marco · Selin)."
     left:
       - key: "1"
         text: "Wer hat gerade ein Baby bekommen?"
@@ -288,7 +295,8 @@ exercises:
     block: exam
     type: free-write
     title: "Aufgabe 8 — Formular ausfüllen"
-    instructions: "Fill in the Hamburg City Library registration form with your own details (or invent a person)."
+    instructions: "Füllen Sie das Anmeldeformular der Stadtbibliothek Hamburg mit Ihren eigenen Daten aus (oder erfinden Sie eine Person)."
+    instructionsEn: "Fill in the Hamburg City Library registration form with your own details (or invent a person)."
     prompt: "Bibliothek der Stadt Hamburg — Anmeldeformular: Vorname / Nachname / Geburtsdatum / Straße und Hausnummer / Postleitzahl und Wohnort / Telefonnummer / E-Mail / Unterschrift"
     use:
       - "Füllen Sie alle 8 Felder aus."
@@ -314,7 +322,8 @@ exercises:
     block: exam
     type: free-write
     title: "Aufgabe 9 — Kurze Mitteilung schreiben"
-    instructions: "Write a short message (30–40 words) to your course friend Anna."
+    instructions: "Schreiben Sie eine kurze Mitteilung (30–40 Wörter) an Ihre Kursfreundin Anna."
+    instructionsEn: "Write a short message (30–40 words) to your course friend Anna."
     prompt: "Sie können am Dienstag nicht in den Deutschkurs kommen. Schreiben Sie: warum / wann Sie wieder kommen / bitten Sie Anna, Ihnen die Hausaufgaben zu schicken / Gruß am Anfang und Ende."
     use:
       - "Gruß am Anfang und Ende"
@@ -342,7 +351,8 @@ exercises:
     block: exam
     type: speaking-prompt
     title: "Aufgabe 10 — Sich vorstellen"
-    instructions: "Introduce yourself to your exam partner. Use the prompts. Each answer: 1–2 sentences."
+    instructions: "Stellen Sie sich Ihrem Prüfungspartner vor. Verwenden Sie die Impulse. Jede Antwort: 1–2 Sätze."
+    instructionsEn: "Introduce yourself to your exam partner. Use the prompts. Each answer: 1–2 sentences."
     parts:
       - label: "Sich vorstellen"
         prompt: "Sprechen Sie über: Name · Herkunft · Wohnort · Beruf/Beschäftigung · Sprachen · Hobby"
@@ -364,7 +374,8 @@ exercises:
     block: exam
     type: speaking-prompt
     title: "Aufgabe 11 — Alltagssituationen"
-    instructions: "Draw a card and respond appropriately. Your partner plays the other person."
+    instructions: "Ziehen Sie eine Karte und reagieren Sie angemessen. Ihr Partner spielt die andere Person."
+    instructionsEn: "Draw a card and respond appropriately. Your partner plays the other person."
     parts:
       - label: "Karten A/B — Am Bahnhof: nach dem Weg fragen"
         prompt: "A: Am Bahnhof — fragen Sie nach dem Weg zur Innenstadt. B: Auskunft geben — Bus Nr. 7 bis Rathausplatz, dann 5 Min. geradeaus."
@@ -398,7 +409,8 @@ exercises:
     block: exam
     type: gap-text
     title: "Aufgabe 12 — Lückentext: Grammatik gemischt"
-    instructions: "Fill each gap with the correct word. Gaps 4/5 and 11/12 each need two words (Perfekt)."
+    instructions: "Ergänzen Sie jede Lücke mit dem richtigen Wort. Lücken 4/5 und 11/12 brauchen je zwei Wörter (Perfekt)."
+    instructionsEn: "Fill each gap with the correct word. Gaps 4/5 and 11/12 each need two words (Perfekt)."
     text: |
       1. Ich {1} aus Brasilien.
       2. Wir {2} zwei Kinder.
@@ -428,7 +440,8 @@ exercises:
     block: exam
     type: free-write
     title: "Aufgabe 13 — Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. Find and correct it."
+    instructions: "Jeder Satz enthält genau einen Fehler. Finden und korrigieren Sie ihn."
+    instructionsEn: "Each sentence has exactly one mistake. Find and correct it."
     prompt: |
       1. Ich habe gestern ins Kino gegangen.
       2. Kannst du kommen Sie morgen?
@@ -452,7 +465,8 @@ exercises:
     block: exam
     type: free-write
     title: "Aufgabe 14 — Übersetzen (EN → DE)"
-    instructions: "Translate the sentences into German."
+    instructions: "Übersetzen Sie die Sätze ins Deutsche."
+    instructionsEn: "Translate the sentences into German."
     prompt: |
       1. When does the train leave?
       2. I'd like a glass of water, please.
@@ -472,7 +486,8 @@ exercises:
     block: exam
     type: order
     title: "Aufgabe 15 — Satzbau"
-    instructions: "Put the words in the correct order."
+    instructions: "Bringen Sie die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: ["Ich", "stehe", "um", "sieben", "Uhr", "auf"]
         answer: [0, 1, 2, 3, 4, 5]

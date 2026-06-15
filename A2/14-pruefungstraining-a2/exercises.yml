@@ -41,7 +41,8 @@ exercises:
     block: exam
     type: single-choice
     title: "Aufgabe 1 — Kurze Gespräche"
-    instructions: "Listen to the conversations (twice) and choose the correct answer (a, b, or c)."
+    instructions: "Hören Sie die Gespräche (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the conversations (twice) and choose the correct answer (a, b, or c)."
     items:
       - q: "Wann treffen sich Anna und Bruno?"
         audio: aufgabe1_gespraech1.mp3
@@ -93,7 +94,8 @@ exercises:
     block: exam
     type: true-false
     title: "Aufgabe 2 — Radiobeitrag"
-    instructions: "Listen to the radio report (twice) and decide: true (R) or false (F)?"
+    instructions: "Hören Sie den Radiobeitrag (zweimal) und entscheiden Sie: richtig (R) oder falsch (F)?"
+    instructionsEn: "Listen to the radio report (twice) and decide: true (R) or false (F)?"
     audio: aufgabe2.mp3
     items:
       - q: "Marta wohnt seit drei Jahren in Berlin."
@@ -118,7 +120,8 @@ exercises:
     block: exam
     type: single-choice
     title: "Aufgabe 3 — Kurze Ansagen"
-    instructions: "Listen to the announcements (twice) and choose the correct answer (a, b, or c)."
+    instructions: "Hören Sie die Ansagen (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the announcements (twice) and choose the correct answer (a, b, or c)."
     items:
       - q: "Wie viel Verspätung hat der Zug?"
         audio: aufgabe3_ansage1.mp3
@@ -171,7 +174,8 @@ exercises:
     block: exam
     type: matching
     title: "Aufgabe 4 — Anzeigen zuordnen"
-    instructions: "Which notice (A–H) matches which situation (1–5)? Match them. Three notices do not fit."
+    instructions: "Welche Anzeige (A–H) passt zu welcher Situation (1–5)? Ordnen Sie zu. Drei Anzeigen passen nicht."
+    instructionsEn: "Which notice (A–H) matches which situation (1–5)? Match them. Three notices do not fit."
     left:
       - key: "1"
         text: "Sie möchten fit werden und einen neuen Sport zusammen mit anderen ausprobieren."
@@ -211,7 +215,8 @@ exercises:
     block: exam
     type: true-false
     title: "Aufgabe 5 — Text lesen: Anna Petrow"
-    instructions: "Read the text and decide: true (R) or false (F)?"
+    instructions: "Lesen Sie den Text und entscheiden Sie: richtig (R) oder falsch (F)?"
+    instructionsEn: "Read the text and decide: true (R) or false (F)?"
     items:
       - q: "Anna wohnt seit einem Jahr in Berlin."
         answer: true
@@ -273,7 +278,8 @@ exercises:
     block: exam
     type: single-choice
     title: "Aufgabe 7 — E-Mail ergänzen"
-    instructions: "Read the email and choose the correct answer (a, b, or c) for each gap (1–5)."
+    instructions: "Lesen Sie die E-Mail und wählen Sie für jede Lücke (1–5) die richtige Antwort (a, b oder c)."
+    instructionsEn: "Read the email and choose the correct answer (a, b, or c) for each gap (1–5)."
     items:
       - q: "Wie geht es (1) ___?"
         options:
@@ -319,7 +325,8 @@ exercises:
     block: exam
     type: free-write
     title: "Aufgabe 8 — Kurze Nachricht schreiben"
-    instructions: "Write a short message (approx. 40 words) to your friend Nina."
+    instructions: "Schreiben Sie eine kurze Nachricht (ca. 40 Wörter) an Ihre Freundin Nina."
+    instructionsEn: "Write a short message (approx. 40 words) to your friend Nina."
     prompt: "Nina hat Sie zu ihrer Geburtstagsparty nächsten Samstag eingeladen. Leider können Sie nicht kommen. Schreiben Sie: Danke für die Einladung / Entschuldigung + Grund / Vorschlag für ein anderes Treffen / Geburtstagswunsch."
     use:
       - "Danke für die Einladung"
@@ -343,7 +350,8 @@ exercises:
     block: exam
     type: free-write
     title: "Aufgabe 9 — Forumsbeitrag schreiben"
-    instructions: 'Write a forum post (approx. 60 words) on the topic: "What are your plans for your next holiday?"'
+    instructions: 'Schreiben Sie einen Forumsbeitrag (ca. 60 Wörter) zum Thema: "Was sind deine Pläne für den nächsten Urlaub?"'
+    instructionsEn: 'Write a forum post (approx. 60 words) on the topic: "What are your plans for your next holiday?"'
 
     prompt: "Schreiben Sie über: Reiseziel / Wann und wie lange / Mit wem / Was Sie dort machen oder sehen möchten."
     use:

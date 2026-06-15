@@ -479,7 +479,8 @@ exercises:
     block: B
     type: order
     title: "Satzbau: Sätze ordnen"
-    instructions: "Put the words in the correct order."
+    instructions: "Bringen Sie die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: [weil, er, müde, ist, arbeitet, viel, hat, er]
         answer: [7, 5, 2, 6, 0, 3, 4, 1]
@@ -693,7 +694,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Ich lerne Deutsch, (1) ____ ich in München arbeite."
         options:

@@ -46,7 +46,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen to the text and fill in the 6 gaps with words from the box. Three words are not needed."
+    instructions: "Höre den Text und fülle die 6 Lücken mit Wörtern aus der Box. Drei Wörter werden nicht gebraucht."
+    instructionsEn: "Listen to the text and fill in the 6 gaps with words from the box. Three words are not needed."
     text: |
       Am Samstag ist Anna mit ihrer Freundin Maria in die {1} gefahren.
       Sie haben ein neues {2} gefunden und {3} getrunken. Am Nachmittag
@@ -66,7 +67,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Marias Wochenende"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
+    instructions: "Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    instructionsEn: "Listen to the message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Hallo Anna, hier ist Maria. Ich rufe an wegen meinem Wochenende. Ich bin am Samstag ins Museum gegangen und habe dort eine tolle Ausstellung gesehen. Am Nachmittag habe ich im Café Kaffee getrunken und ein Buch gelesen. Am Sonntag bin ich mit meinem Freund spazieren gegangen. Wir haben den ganzen Tag im Park verbracht. Bitte ruf mich zurück, damit ich dir mehr erzählen kann. Vielen Dank!"
     items:
       - q: "Wessen Nachricht ist das?"
@@ -628,7 +630,8 @@ exercises:
     block: B
     type: free-write
     title: "Was hast du gestern gemacht?"
-    instructions: "You are on the phone with your brother/sister, who is asking about your day. Write 3–4 sentences telling them what you did yesterday."
+    instructions: "Du telefonierst mit deinem Bruder/deiner Schwester, der/die dich nach deinem Tag fragt. Schreib 3–4 Sätze und erzähl, was du gestern alles gemacht hast."
+    instructionsEn: "You are on the phone with your brother/sister, who is asking about your day. Write 3–4 sentences telling them what you did yesterday."
     prompt: "Write 3–4 Perfekt sentences about your day yesterday. Include at least one time expression and at least one separable verb."
     use:
       - "at least 2 sentences in Perfekt (*habe … gemacht* / *bin … gegangen*)"
@@ -685,7 +688,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Ich (1) ____ dir von meinem Wochenende erzählen."
         options:

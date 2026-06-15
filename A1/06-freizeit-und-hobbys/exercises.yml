@@ -63,7 +63,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Einladung zum Yoga-Kurs"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
+    instructions: "Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    instructionsEn: "Listen to the message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: 'Hallo Anna, hier ist Tom. Ich rufe an wegen dem Yoga-Kurs am Samstag. Der Kurs fängt um zehn Uhr morgens im Sportstudio „aktiv" an. Du brauchst nur bequeme Kleidung und eine Matte. Der Kurs kostet fünfzehn Euro pro Stunde. Du kannst auch ohne Anmeldung kommen. Bitte ruf mich zurück, wenn du mitmachen willst! Vielen Dank!'
     items:
       - q: "Wessen Nachricht ist das?"
@@ -685,7 +686,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Am Samstag (1) ____ ich Freunde — wir spielen Fußball im Park."
         options:

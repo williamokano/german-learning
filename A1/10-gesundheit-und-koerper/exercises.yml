@@ -55,7 +55,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the gaps. Two words do not fit."
+    instructions: "Hör zu und fülle die Lücken. Zwei Wörter passen nicht."
+    instructionsEn: "Listen and fill in the gaps. Two words do not fit."
     text: |-
       Yuki fühlt sich heute nicht {1}. Ihr {2} tut weh und sie hat {3}.
       Sie ruft Bruno an und fragt: „Was soll ich {4}?" Bruno sagt: „Trink viel Tee und
@@ -76,7 +77,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Durchsage in der Apotheke"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
+    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Achtung, eine Durchsage. Liebe Kundinnen und Kunden, die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet. Unsere Öffnungszeiten am Sonntag sind von zehn bis achtzehn Uhr. Wir bieten auch einen kostenlosen Blutdruckmess-Service an. Ab nächster Woche haben wir auch einen Grippeimpf-Service. Kommen Sie einfach vorbei — wir beraten Sie gern. Vielen Dank und bleiben Sie gesund."
     items:
       - q: "Wo ist die Apotheke?"
@@ -721,7 +723,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Guten Tag! Ich (1) ______ Schmerzen in meinem Rücken."
         options:
