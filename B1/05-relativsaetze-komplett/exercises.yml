@@ -1,0 +1,980 @@
+lesson: B1/05
+title: "B1 · Lektion 5 — Übungen (Exercises)"
+intro: >
+  Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Answers in solutions.md.
+  Tip: spread the blocks over several days — H and A on day 1, B on day 2,
+  C on day 3, D on day 4 after a pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Tomáš braucht einen Text für die Startseite seiner Website."
+        answer: true
+        why: 'Tomáš sagt: "Ich brauche dringend einen guten Text für die Startseite."'
+      - q: "Mia schlägt vor, mit einem Superlativ anzufangen."
+        answer: false
+        why: 'Mia schlägt eine Definition vor: "Fang doch einfach mit einer Definition an."'
+      - q: "Pavel schlägt vor zu schreiben, dass man mit der App Scooter finden kann."
+        answer: true
+        why: '"Das ist eine App, mit der man in Randbezirken E-Scooter finden und mieten kann."'
+      - q: "Mia formuliert einen Satz über das Stadtgebiet mit einem Relativsatz im Dativ."
+        answer: true
+        why: '"Das ist das Stadtgebiet, in dem die Nachfrage am größten ist." — in dem = Dativ.'
+      - q: "Pavel findet den letzten Vorschlag von Mia zu bescheiden."
+        answer: false
+        why: 'Pavel sagt, es sei "ein bisschen viel versprochen" — zu viel, nicht zu wenig.'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Was hat Herr Steinmeyer bereits gelesen?"
+        options:
+          - { key: a, text: "Annas Bewerbung für eine neue Stelle." }
+          - { key: b, text: "Das Empfehlungsschreiben, das Anna ihm geschickt hat." }
+          - { key: c, text: "Annas Lebenslauf." }
+        answer: b
+        why: '"Ich habe das Schreiben gelesen, das Sie mir gestern geschickt haben."'
+      - q: "Was kritisiert Herr Steinmeyer an Annas erster Formulierung?"
+        options:
+          - { key: a, text: "Sie ist zu formell." }
+          - { key: b, text: "Sie ist zu allgemein." }
+          - { key: c, text: "Sie enthält einen Grammatikfehler." }
+        answer: b
+        why: '"Das ist zu allgemein."'
+      - q: "Was sagt Herr Steinmeyer über das Wort `worüber`?"
+        options:
+          - { key: a, text: "Es ist hier korrekt und passt gut." }
+          - { key: b, text: "Es gehört zu einer anderen Kategorie — man schreibt stattdessen `über das`." }
+          - { key: c, text: "Es ist zu informell für ein Empfehlungsschreiben." }
+        answer: b
+        why: '"worüber gehört zu einer anderen Kategorie. Auf diesem Niveau schreibt man: über das wir sehr stolz sind."'
+      - q: "Wie bewertet Herr Steinmeyer am Ende das überarbeitete Schreiben?"
+        options:
+          - { key: a, text: "Er findet es noch zu informell." }
+          - { key: b, text: "Er ist sicher, dass es einen sehr guten Eindruck machen wird." }
+          - { key: c, text: "Er will noch mehr Änderungen besprechen." }
+        answer: b
+        why: '"Das Schreiben, das Sie dann einreichen, wird sicher einen sehr guten Eindruck machen."'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext: Mias Traumwohnung"
+    audio: hoertext.mp3
+    instructions: "Listen to the Hörtext (Mia describes her ideal apartment) and fill in the 6 missing words. Three words in the box are not needed."
+    text: |
+      Ich suche seit Monaten eine Wohnung, in {1} ich wirklich zur Ruhe kommen kann.
+      Das Wichtigste, {2} ich mir wünsche, ist ein ruhiges Zimmer, in {3} ich abends
+      lesen und arbeiten kann. Ich brauche auch eine Küche, mit {4} ich richtig kochen
+      kann — keine Mini-Küche, in der man kaum einen Topf abstellen kann.
+      Der Bezirk, {5} die Wohnung liegt, ist mir fast egal — Hauptsache, es gibt gute
+      Fahrradwege, auf {6} ich sicher zur Arbeit fahren kann.
+    bank: [der, dem, was, wo, die, denen, welche, das, deren]
+    answers:
+      "1": der
+      "2": was
+      "3": dem
+      "4": der
+      "5": wo
+      "6": denen
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Voicemail von Pavel an Anna"
+    audio: transcript_ansage1.mp3
+    instructions: "Listen to Pavel's voice message. Then choose the correct answer (a, b, or c)."
+    transcript: 'Hallo Anna, hier ist Pavel. Ich wollte dir kurz einen Tipp geben. In unserem Kiez gibt es jetzt ein neues Café, das du unbedingt kennen musst. Es heißt Kaffeewerkstatt und liegt in der Müllerstraße — das ist eine Straße, in der es früher kaum gute Cafés gab. Die Barista, die dort arbeitet, ist unglaublich gut — sie kennt jede Methode, über die man in der Specialty-Kaffeewelt spricht. Das Beste, was sie macht, ist ein Filterkaffee aus Äthiopien. Das ist genau das, was du nach einem langen Arbeitstag brauchst. Bitte ruf mich zurück, wenn du hingehst — ich komme gern mit!'
+    items:
+      - q: "Warum ruft Pavel an?"
+        options:
+          - { key: a, text: "Um Anna zu einer Konferenz einzuladen." }
+          - { key: b, text: "Um Anna ein neues Café zu empfehlen." }
+          - { key: c, text: "Um Anna nach einem Rezept zu fragen." }
+        answer: b
+        why: '"Ich wollte dir kurz einen Tipp geben. In unserem Kiez gibt es jetzt ein neues Café, das du unbedingt kennen musst."'
+      - q: "Was sagt Pavel über die Barista?"
+        options:
+          - { key: a, text: "Sie arbeitet schon seit Jahren dort." }
+          - { key: b, text: "Sie ist unglaublich gut und kennt viele Methoden." }
+          - { key: c, text: "Sie kommt aus Äthiopien." }
+        answer: b
+        why: '"Die Barista, die dort arbeitet, ist unglaublich gut — sie kennt jede Methode, über die man in der Specialty-Kaffeewelt spricht."'
+      - q: "Was ist laut Pavel das Beste, was die Barista macht?"
+        options:
+          - { key: a, text: "Ein Espresso aus Brasilien." }
+          - { key: b, text: "Ein Filterkaffee aus Äthiopien." }
+          - { key: c, text: "Ein Cappuccino aus Berlin." }
+        answer: b
+        why: '"Das Beste, was sie macht, ist ein Filterkaffee aus Äthiopien."'
+      - q: "Was soll Anna tun?"
+        options:
+          - { key: a, text: "Eine Reservierung machen." }
+          - { key: b, text: "Pavel zurückrufen, wenn sie hingeht." }
+          - { key: c, text: "Das Café alleine besuchen." }
+        answer: b
+        why: '"Bitte ruf mich zurück, wenn du hingehst — ich komme gern mit!"'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Relativpronomen — vollständige Tabelle (Nom / Akk / Dat)"
+    instructions: "Fill in the complete relative pronoun table. 12 gaps."
+    columns: ["", "maskulin", "feminin", "neutral", "Plural"]
+    rows:
+      - label: "Nominativ"
+        cells:
+          - { gap: 1, answer: der }
+          - { gap: 2, answer: die }
+          - { gap: 3, answer: das }
+          - { gap: 4, answer: die }
+      - label: "Akkusativ"
+        cells:
+          - { gap: 5, answer: den }
+          - { gap: 6, answer: die }
+          - { gap: 7, answer: das }
+          - { gap: 8, answer: die }
+      - label: "Dativ"
+        cells:
+          - { gap: 9, answer: dem }
+          - { gap: 10, answer: der }
+          - { gap: 11, answer: dem }
+          - { gap: 12, answer: denen }
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Relativpronomen Nominativ — Wiederholung (A2/13)"
+    instructions: "Fülle die Lücken mit dem richtigen Relativpronomen im Nominativ. 8 Sätze."
+    text: |
+      1. Das ist die App, {1} Pendlern hilft. (die App — Nom.)
+      2. Das ist ein Kollege, {2} sehr zuverlässig ist. (der Kollege — Nom.)
+      3. Das ist das Team, {3} jeden Tag hart arbeitet. (das Team — Nom.)
+      4. Das sind die Nutzer, {4} früh aufstehen. (die Nutzer — Nom.)
+      5. Das ist eine Stadt, {5} viele Möglichkeiten bietet. (die Stadt — Nom.)
+      6. Das ist ein Ergebnis, {6} uns alle überrascht hat. (das Ergebnis — Nom.)
+      7. Das sind Leute, {7} immer pünktlich sind. (die Leute — Nom.)
+      8. Das ist der Barista, {8} den besten Kaffee macht. (der Barista — Nom.)
+    answers:
+      "1": die
+      "2": der
+      "3": das
+      "4": die
+      "5": die
+      "6": das
+      "7": die
+      "8": der
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Relativpronomen Akkusativ — Wiederholung (A2/13)"
+    instructions: "Fülle die Lücken mit dem richtigen Relativpronomen im Akkusativ. 8 Sätze."
+    text: |
+      1. Das ist die App, {1} ich empfehle. (die App — Akk.)
+      2. Das ist der Kollege, {2} ich gut kenne. (der Kollege — Akk.)
+      3. Das ist das Ziel, {3} wir erreichen wollen. (das Ziel — Akk.)
+      4. Das sind die Dokumente, {4} er einreichen muss. (die Dokumente — Akk.)
+      5. Das ist der Kaffee, {5} Pavel jeden Morgen trinkt. (der Kaffee — Akk.)
+      6. Das ist die Stelle, {6} Anna anstrebt. (die Stelle — Akk.)
+      7. Das ist das Empfehlungsschreiben, {7} Herr Steinmeyer geschrieben hat. (das Schreiben — Akk.)
+      8. Das sind die Angebote, {8} das Startup macht. (die Angebote — Akk.)
+    answers:
+      "1": die
+      "2": den
+      "3": das
+      "4": die
+      "5": den
+      "6": die
+      "7": das
+      "8": die
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Relativpronomen Dativ — NEU"
+    instructions: "Fülle die Lücken mit dem richtigen Relativpronomen im Dativ. 8 Sätze."
+    text: |
+      1. Das ist der Kollege, {1} ich vertraue. (der Kollege — Dat.: dem)
+      2. Das ist die Mitarbeiterin, {2} ich danke. (die Mitarbeiterin — Dat.: der)
+      3. Das ist das Team, {3} alles zu verdanken ist. (das Team — Dat.: dem)
+      4. Das sind die Kunden, {4} wir helfen. (die Kunden — Dat.: denen)
+      5. Das ist ein Ort, {5} man gut arbeiten kann. (ein Ort — Dat.: dem, after an dem)
+      6. Das ist die Person, {6} ich am meisten vertraue. (die Person — Dat.: der)
+      7. Das sind Freunde, {7} ich alles erzählen kann. (Freunde — Dat.: denen)
+      8. Das ist das Projekt, {8} wir viel Zeit gewidmet haben. (das Projekt — Dat.: dem)
+    answers:
+      "1": dem
+      "2": der
+      "3": dem
+      "4": denen
+      "5": dem
+      "6": der
+      "7": denen
+      "8": dem
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Präposition + Relativpronomen"
+    instructions: "Fülle die Lücken mit der richtigen Kombination aus Präposition + Relativpronomen. 6 Sätze."
+    text: |
+      1. Das ist eine App, {1} man Scooter mieten kann. (mit + die App → mit der)
+      2. Das ist das Stadtgebiet, {2} die Nachfrage am größten ist. (in + das Gebiet → in dem)
+      3. Das sind die Bezirke, {3} das Angebot minimal war. (in + die Bezirke → in denen)
+      4. Das ist der Grund, {4} wir expandieren. (für + der Grund → für den)
+      5. Das ist das Ziel, {5} wir jeden Tag arbeiten. (für + das Ziel → für das)
+      6. Das sind die Ressourcen, {6} das Team verfügt. (über + die Ressourcen → über die)
+    answers:
+      "1": mit der
+      "2": in dem
+      "3": in denen
+      "4": für den
+      "5": für das
+      "6": über die
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`was` als Relativpronomen"
+    instructions: "Fülle die Lücken mit `was` oder dem richtigen Relativpronomen (das/die/der/den). 6 Sätze."
+    text: |
+      1. Alles, {1} du brauchst, ist hier. (alles → was)
+      2. Das ist das Problem, {2} wir lösen müssen. (das Problem → das)
+      3. Etwas, {3} mich wirklich überrascht hat, war die Reaktion. (etwas → was)
+      4. Das Beste, {4} er je gemacht hat, ist dieses Produkt. (das Beste → was)
+      5. Nichts, {5} er gesagt hat, war falsch. (nichts → was)
+      6. Das ist das Einzige, {6} wir noch brauchen. (das Einzige → was)
+    answers:
+      "1": was
+      "2": das
+      "3": was
+      "4": was
+      "5": was
+      "6": was
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "`wo` als Relativpronomen für Orte"
+    instructions: "Fülle die Lücken mit `wo` oder der passenden Kombination aus Präposition + Relativpronomen. 6 Sätze."
+    text: |
+      1. Das ist der Ort, {1} wir uns kennengelernt haben. (wo)
+      2. Berlin ist die Stadt, {2} Pavel seit drei Jahren lebt. (wo / in der — beide korrekt)
+      3. Das sind die Bezirke, {3} kaum öffentliche Verkehrsmittel fahren. (wo)
+      4. Das ist die Gegend, {4} die Nachfrage am größten ist. (wo)
+      5. Das ist das Land, {5} alles möglich scheint. (wo)
+      6. Ich suche einen Ort, {6} ich in Ruhe arbeiten kann. (wo)
+    answers:
+      "1": wo
+      "2": [wo, in der]
+      "3": wo
+      "4": wo
+      "5": wo
+      "6": wo
+
+  - id: A8
+    block: A
+    type: order
+    title: "Satzbau — Relativsatz rekonstruieren"
+    instructions: "Bring die Wörter in die richtige Reihenfolge. Das Verb im Relativsatz steht am Ende!"
+    items:
+      - tiles: ["Die", "App", ",", "mit", "der", "man", "Scooter", "mieten", "kann", ",", "ist", "kostenlos"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        note: "Die App, mit der man Scooter mieten kann, ist kostenlos."
+      - tiles: ["Das", "ist", "das", "Einzige", ",", "was", "wir", "noch", "brauchen"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Das ist das Einzige, was wir noch brauchen."
+      - tiles: ["Das", "sind", "Kunden", ",", "denen", "wir", "helfen", "können"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Das sind Kunden, denen wir helfen können."
+      - tiles: ["Berlin", "ist", "die", "Stadt", ",", "wo", "Pavel", "wohnt"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Berlin ist die Stadt, wo Pavel wohnt."
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Zwei Sätze verbinden — Relativsatz bilden"
+    instructions: "Verbinde die zwei Sätze zu einem Satz mit Relativsatz. Schreib das Ergebnis in die Lücke. 6 Sätze."
+    text: |
+      1. Das ist eine App. Mit der App kann man Scooter finden.
+         → Das ist eine App, {1} man Scooter finden kann.
+      2. Das ist ein Kollege. Ich vertraue dem Kollegen sehr.
+         → Das ist ein Kollege, {2} ich sehr vertraue.
+      3. Das sind Leute. Auf die Leute kann man sich verlassen.
+         → Das sind Leute, {3} man sich verlassen kann.
+      4. Das ist das Stadtgebiet. In dem Stadtgebiet ist die Nachfrage hoch.
+         → Das ist das Stadtgebiet, {4} die Nachfrage hoch ist.
+      5. Das ist alles. Wir brauchen alles für den Start.
+         → Das ist alles, {5} wir für den Start brauchen.
+      6. Das ist Berlin. Pavel lebt seit drei Jahren in Berlin.
+         → Das ist Berlin, {6} Pavel seit drei Jahren lebt.
+    answers:
+      "1": mit der
+      "2": dem
+      "3": auf die
+      "4": in dem
+      "5": was
+      "6": wo
+
+  - id: A10
+    block: A
+    type: true-false
+    title: "Grammatik-Check — ist das Relativpronomen korrekt?"
+    instructions: "Ist das Relativpronomen korrekt? Richtig (R) oder Falsch (F)? Bei F: erkläre den Fehler."
+    items:
+      - q: "Das ist die App, die ich empfehle."
+        answer: true
+        why: "Correct: die App (f.) as direct object → Akkusativ → die."
+      - q: "Alles, das wir brauchen, ist hier."
+        answer: false
+        why: 'Error: after `alles` use `was`, not `das`. Correct: Alles, was wir brauchen, ist hier.'
+      - q: "Das sind Kunden, denen wir helfen."
+        answer: true
+        why: "Correct: Kunden (pl.) with dative verb `helfen` → denen."
+      - q: "Die Stadt, wo Pavel wohnt, ist Berlin."
+        answer: true
+        why: "Correct: `wo` as relative pronoun after place noun `Stadt`."
+      - q: "Das ist der Kollege, der ich vertraue."
+        answer: false
+        why: 'Error: `vertrauen` takes Dativ, so the pronoun must be `dem` (not `der`). Correct: der Kollege, dem ich vertraue.'
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: false
+    title: "Dialog ergänzen — Produktbeschreibung mit Relativsätzen"
+    instructions: "Fill in the blanks with the correct relative pronoun or preposition + pronoun combination. 8 gaps."
+    text: |
+      — Ich schreibe gerade den Text für unsere neue Website. Kannst du helfen?
+      — Natürlich! Fang mit einer Definition an. „Das ist ein Service, {1} du in Minuten buchen kannst." (mit + dem)
+      — Gut. Und dann: „Das sind die Stadtteile, {2} unsere Kunden am meisten wohnen." (in + denen)
+      — Genau. Und für das Team: „Das sind Menschen, {3} du wirklich vertrauen kannst." (denen)
+      — Toll. Was sagst du zu: „Das Beste, {4} unsere App bietet, ist Zuverlässigkeit."? (was)
+      — Super! Noch ein Satz: „Das ist das Ziel, {5} wir jeden Tag arbeiten." (für + das)
+      — Und am Ende: „Das ist alles, {6} du brauchst." (was)
+      — Perfekt. Der Text, {7} wir jetzt haben, klingt wirklich professionell. (den)
+      — Ja! Und das ist genau die Art von Sprache, {8} man auf guten Websites findet. (die)
+    answers:
+      "1": mit dem
+      "2": in denen
+      "3": denen
+      "4": was
+      "5": für das
+      "6": was
+      "7": den
+      "8": die
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Finde den Fehler — falsche Relativpronomen"
+    instructions: "Jeder Satz enthält einen Fehler mit dem Relativpronomen. Schreib den korrekten Satz. 6 Sätze."
+    text: |
+      1. Alles, das ich brauche, ist hier. → Alles, {1} ich brauche, ist hier.
+      2. Das ist der Kollege, der ich vertraue. → Das ist der Kollege, {2} ich vertraue.
+      3. Das sind Kunden, die wir helfen. → Das sind Kunden, {3} wir helfen.
+      4. Das ist die App, womit man Scooter mietet. → Das ist die App, {4} man Scooter mietet.
+      5. Das ist das Stadtgebiet, in der die Nachfrage hoch ist. → Das ist das Stadtgebiet, {5} die Nachfrage hoch ist.
+      6. Das Beste, das sie macht, ist ihr Filterkaffee. → Das Beste, {6} sie macht, ist ihr Filterkaffee.
+    answers:
+      "1": was
+      "2": dem
+      "3": denen
+      "4": mit der
+      "5": in dem
+      "6": was
+    why: '1: alles → was; 2: vertrauen + Dat. → dem; 3: helfen + Dat. → denen; 4: womit = B1/08 topic — use mit der; 5: in + das Stadtgebiet (n.) → in dem; 6: das Beste → was.'
+
+  - id: B3
+    block: B
+    type: single-choice
+    title: "Richtiges Relativpronomen wählen"
+    instructions: "Wähle das richtige Relativpronomen (a, b oder c)."
+    items:
+      - q: "Das ist die App, ______ ich täglich nutze."
+        options:
+          - { key: a, text: "die" }
+          - { key: b, text: "das" }
+          - { key: c, text: "den" }
+        answer: a
+        why: "die App (f.) as direct object → Akkusativ feminine → die."
+      - q: "Das sind Leute, ______ wir wirklich helfen können."
+        options:
+          - { key: a, text: "die" }
+          - { key: b, text: "denen" }
+          - { key: c, text: "dem" }
+        answer: b
+        why: "Leute (pl.) with dative verb helfen → Dativ plural → denen."
+      - q: "Das ist das Stadtgebiet, ______ die Nachfrage am größten ist."
+        options:
+          - { key: a, text: "in der" }
+          - { key: b, text: "in dem" }
+          - { key: c, text: "in den" }
+        answer: b
+        why: "das Stadtgebiet (n.) + preposition in → Dativ → in dem."
+      - q: "Das Wichtigste, ______ wir brauchen, ist Ausdauer."
+        options:
+          - { key: a, text: "das" }
+          - { key: b, text: "was" }
+          - { key: c, text: "die" }
+        answer: b
+        why: "das Wichtigste is a neuter superlative → relative pronoun is was."
+      - q: "Das ist die Stadt, ______ Pavel seit drei Jahren lebt."
+        options:
+          - { key: a, text: "die" }
+          - { key: b, text: "wo" }
+          - { key: c, text: "dem" }
+        answer: b
+        why: "wo is the standard relative pronoun after place nouns (Stadt, Ort, Land…)."
+      - q: "Das ist der Grund, ______ wir expandieren."
+        options:
+          - { key: a, text: "für dem" }
+          - { key: b, text: "für den" }
+          - { key: c, text: "für die" }
+        answer: b
+        why: "der Grund (m.) + für (Akkusativ) → für den."
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Satzhälften verbinden — Relativsätze"
+    instructions: "Verbinde jede Satzhälfte (1–6) mit der richtigen Fortsetzung (a–g). Eine Fortsetzung wird nicht gebraucht."
+    left:
+      - { key: "1", text: "Das ist eine App," }
+      - { key: "2", text: "Das sind die Stadtteile," }
+      - { key: "3", text: "Das ist alles," }
+      - { key: "4", text: "Das ist ein Team," }
+      - { key: "5", text: "Das ist Berlin," }
+      - { key: "6", text: "Das Beste," }
+    right:
+      - { key: a, text: "mit der man Scooter mieten kann." }
+      - { key: b, text: "in denen das Angebot minimal ist." }
+      - { key: c, text: "was wir für den Start brauchen." }
+      - { key: d, text: "dem man wirklich vertrauen kann." }
+      - { key: e, text: "wo Pavel seit Jahren lebt." }
+      - { key: f, text: "was die Barista macht, ist ihr Filterkaffee." }
+      - { key: g, text: "der ich täglich danke." }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+
+  - id: B5
+    block: B
+    type: order
+    title: "Wortstellung im Relativsatz — Verb ans Ende"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge. Das Verb im Relativsatz steht am Ende!"
+    items:
+      - tiles: ["Das", "ist", "ein", "Kollege", ",", "dem", "ich", "sehr", "vertraue"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Das ist ein Kollege, dem ich sehr vertraue. (verb: vertraue → end)"
+      - tiles: ["Das", "sind", "Leute", ",", "auf", "die", "man", "sich", "verlassen", "kann"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        note: "Das sind Leute, auf die man sich verlassen kann. (verb: kann → end)"
+      - tiles: ["Das", "ist", "das", "Einzige", ",", "was", "uns", "von", "anderen", "unterscheidet"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        note: "Das ist das Einzige, was uns von anderen unterscheidet."
+      - tiles: ["Er", "kam", "pünktlich", ",", "was", "mich", "sehr", "gefreut", "hat"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Er kam pünktlich, was mich sehr gefreut hat. (was refers to the whole clause)"
+
+  - id: B6
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Formelle Sätze mit Präposition + Relativpronomen"
+    instructions: "Formelle Sprache: Fülle die Lücken mit Präposition + Relativpronomen. 6 Sätze."
+    text: |
+      1. Das ist eine Stelle, {1} sich viele bewerben. (um + die → um die)
+      2. Das ist ein Ergebnis, {2} wir sehr stolz sind. (über + das → über das)
+      3. Das ist ein Projekt, {3} alle Mitarbeiter beigetragen haben. (zu + dem → zu dem)
+      4. Das ist die Abteilung, {4} Anna wechseln möchte. (in + die → in die)
+      5. Das ist der Kollege, {5} dieser Erfolg hauptsächlich abhängt. (von + dem → von dem)
+      6. Das ist eine Aufgabe, {6} man sich wirklich kümmern muss. (um + die → um die)
+    answers:
+      "1": um die
+      "2": über das
+      "3": zu dem
+      "4": in die
+      "5": von dem
+      "6": um die
+
+  - id: B7
+    block: B
+    type: gap-text
+    listLayout: true
+    title: 'Definitionen schreiben — "Ein … ist jemand/etwas, der/die/das/was …"'
+    instructions: "Schreib eine Definition mit einem Relativsatz. 6 Sätze."
+    text: |
+      1. Ein Barista ist jemand, {1} Kaffee professionell zubereitet. (der — Nom.)
+      2. Ein Empfehlungsschreiben ist etwas, {2} man für eine Bewerbung braucht. (was)
+      3. Ein Randbezirk ist ein Stadtgebiet, {3} wenig öffentliche Verkehrsmittel fahren. (in dem / wo)
+      4. Eine App ist ein Programm, {4} man auf dem Smartphone nutzt. (das — Akk.)
+      5. Ein Netzwerk ist etwas, {5} dem Startup sehr geholfen hat. (was)
+      6. Eine Barista ist jemand, {6} man in einem Spezialcafé begegnet. (dem — Dat.)
+    answers:
+      "1": der
+      "2": was
+      "3": [in dem, wo]
+      "4": das
+      "5": was
+      "6": dem
+
+  - id: B8
+    block: B
+    type: single-choice
+    title: "Leseverstehen: Lesetext (Über uns — die Website des Startups)"
+    instructions: "Read the Lesetext in lesson.md, section 5. Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Worauf konzentriert sich das Startup?"
+        options:
+          - { key: a, text: "Auf das Stadtzentrum, das gut erschlossen ist." }
+          - { key: b, text: "Auf Stadtgebiete, in denen der öffentliche Nahverkehr unzureichend ist." }
+          - { key: c, text: "Auf Stadtgebiete, wo viele Autos fahren." }
+        answer: b
+        why: '"Wir konzentrieren uns auf die Stadtgebiete, in denen der öffentliche Nahverkehr bisher unzureichend ist."'
+      - q: "Was unterscheidet das Startup von anderen Anbietern?"
+        options:
+          - { key: a, text: "Der günstige Preis." }
+          - { key: b, text: "Die schnelle Lieferung." }
+          - { key: c, text: "Der Fokus auf Randbezirke." }
+        answer: c
+        why: '"Das Einzige, was uns von anderen Anbietern unterscheidet, ist unser Fokus."'
+      - q: "Was sagt das Startup über sein Team?"
+        options:
+          - { key: a, text: "Das Team besteht aus internationalen Experten." }
+          - { key: b, text: "Das Team besteht aus Leuten, auf die man sich verlassen kann." }
+          - { key: c, text: "Das Team arbeitet nur in Berlin." }
+        answer: b
+        why: '"Unser Team besteht aus Leuten, auf die du dich wirklich verlassen kannst."'
+      - q: "Was ist das Beste, was die Nutzer über das Startup sagen?"
+        options:
+          - { key: a, text: "Die App ist die günstigste auf dem Markt." }
+          - { key: b, text: "Endlich eine Lösung, die wirklich zum Alltag passt." }
+          - { key: c, text: "Das Startup kümmert sich um die Umwelt." }
+        answer: b
+        why: '"Das Beste, was unsere Nutzer über uns sagen, ist: Endlich eine Lösung, die wirklich zu meinem Alltag passt."'
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "WhatsApp-Nachricht: Mein idealer Job"
+    prompt: "Mia schreibt dir eine WhatsApp. Antworte in 5–6 Sätzen auf Deutsch und beschreib deinen idealen Job."
+    stimulus: |
+      Mia schreibt: Hey! Ich habe gerade eine Jobanzeige gesehen, die perfekt für
+      mich klingt. Das hat mich auf eine Idee gebracht — was ist eigentlich dein
+      idealer Job? Beschreib ihn mal! Was soll das für eine Stelle sein? Was für
+      ein Team? Was für eine Firma? Ich bin neugierig!
+    use:
+      - "at least 1 Dativ relative clause (e.g. 'ein Team, dem ich vertrauen kann')"
+      - "at least 1 preposition + relative pronoun (e.g. 'eine Aufgabe, für die ich brenne')"
+      - "at least 1 sentence with `was` (e.g. 'Das Wichtigste, was ich brauche, ist…')"
+      - "optionally: 1 `wo`-clause for a place"
+    selfCheck:
+      - "Does the verb in every relative clause go to the END?"
+      - "Did I check the gender and case of each relative pronoun?"
+      - "After `alles / etwas / nichts / das Beste` — did I use `was` (not `das`)?"
+    model: |
+      Hey Mia! Gute Frage. Mein idealer Job ist eine Stelle, für die ich wirklich
+      brenne — etwas, was mich jeden Morgen motiviert aufzustehen. Ich möchte in
+      einem Team arbeiten, dem Qualität und Zusammenarbeit wichtig sind. Das
+      Wichtigste, was ich brauche, ist Flexibilität — also ein Unternehmen, bei
+      dem Homeoffice möglich ist. Am liebsten würde ich in Berlin bleiben, wo ich
+      schon ein gutes Netzwerk habe. Das ist alles, was ich mir wünsche!
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: false
+    title: "Lückentext: Über uns — die Website des Startups"
+    instructions: "Fülle jede Lücke mit einem Wort. 10 Lücken."
+    text: |
+      Wir sind ein Team, {1} sich leidenschaftlich für nachhaltige Mobilität
+      einsetzt. Unser Produkt ist eine App, {2} {3} in wenigen Sekunden einen
+      E-Scooter in deiner Nähe findest und mietest. Wir konzentrieren uns auf
+      die Stadtgebiete, {4} {5} der öffentliche Nahverkehr bisher unzureichend
+      ist — also genau dort, {6} die Menschen ihn am meisten brauchen.
+
+      Das Einzige, {7} uns von anderen Anbietern unterscheidet, ist unser Fokus.
+      Wir bieten einen Service für die Randbezirke — für die Menschen, {8} ein
+      zuverlässiges und bezahlbares Transportmittel fehlt.
+
+      Unser Team besteht aus Leuten, {9} {10} dich wirklich verlassen kannst.
+    answers:
+      "1": das
+      "2": mit
+      "3": der
+      "4": in
+      "5": denen
+      "6": wo
+      "7": was
+      "8": denen
+      "9": auf
+      "10": die
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    items:
+      - q: "Das ist die Formulierung, ______ man in formellen Briefen oft findet."
+        options:
+          - { key: a, text: "die" }
+          - { key: b, text: "das" }
+          - { key: c, text: "den" }
+        answer: a
+        why: "die Formulierung (f.) as direct object → Akkusativ feminine → die."
+      - q: "Das sind Kollegen, ______ ich wirklich vertraue."
+        options:
+          - { key: a, text: "die" }
+          - { key: b, text: "denen" }
+          - { key: c, text: "dem" }
+        answer: b
+        why: "Kollegen (pl.) + vertrauen (Dativ) → Dativ plural → denen."
+      - q: "Das ist ein Ergebnis, ______ wir sehr stolz sind."
+        options:
+          - { key: a, text: "worüber" }
+          - { key: b, text: "über die" }
+          - { key: c, text: "über das" }
+        answer: c
+        why: "das Ergebnis (n.) + über (Akkusativ) → über das. worüber = B1/08 topic."
+      - q: "Alles, ______ du für den Start brauchst, liegt bereit."
+        options:
+          - { key: a, text: "das" }
+          - { key: b, text: "was" }
+          - { key: c, text: "die" }
+        answer: b
+        why: "alles → was (not das). This is the was-trigger rule."
+      - q: "Das ist die Stadt, ______ Pavel seit drei Jahren lebt."
+        options:
+          - { key: a, text: "die" }
+          - { key: b, text: "wo" }
+          - { key: c, text: "der" }
+        answer: b
+        why: "wo is the relative pronoun after place nouns like Stadt, Ort, Land."
+      - q: "Das ist das Stadtgebiet, ______ die Nachfrage am größten ist."
+        options:
+          - { key: a, text: "in der" }
+          - { key: b, text: "in dem" }
+          - { key: c, text: "in denen" }
+        answer: b
+        why: "das Stadtgebiet (n.) + in (Dativ) → in dem."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (Wortbank)"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus der Box. Fünf Wörter sind nicht nötig."
+    bankCase: upper
+    bankSort: true
+    text: |
+      Herr Steinmeyer liest Annas Empfehlungsschreiben. Er findet die Formulierungen,
+      {1} Anna gewählt hat, größtenteils sehr gut. Die erste Formulierung, {2} er
+      ändern würde, ist zu allgemein. Er schlägt vor: „Sie ist eine Mitarbeiterin,
+      auf {3} Zuverlässigkeit man sich stets verlassen kann." Das ist genau {4},
+      {5} man in formellen Briefen erwartet. Dann zeigt Anna einen Satz, über {6}
+      sie unsicher ist. Herr Steinmeyer erklärt, dass `worüber` zu einer anderen
+      Kategorie gehört — auf diesem Niveau schreibt man `über das`. Das ist das
+      Einzige, {7} Anna noch korrigieren muss. Das Projekt, {8} Anna mitgearbeitet
+      hat, ist auch gut beschrieben. Das Schreiben, {9} Anna dann einreichen wird,
+      {10} sicher einen guten Eindruck machen.
+    bank: [DIE, DEN, DEREN, DAS, WAS, DEM, AN, WIRD, DENEN, IN, WO, WIRD, ETWAS, WORÜBER, SOLL]
+    answers:
+      "1": DIE
+      "2": DIE
+      "3": DEREN
+      "4": DAS
+      "5": WAS
+      "6": DEN
+      "7": WAS
+      "8": AN
+      "9": DAS
+      "10": WIRD
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1: Über uns — die Website des Startups"
+    instructions: "Read the Lesetext (lesson.md, section 5). Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Das Startup konzentriert sich auf die gut erschlossenen Stadtteile im Zentrum."
+        answer: false
+        why: '"Wir bieten keinen Service für das Zentrum, das sowieso gut erschlossen ist."'
+      - q: "Die App hilft Nutzern, E-Scooter in Randbezirken zu finden."
+        answer: true
+        why: '"Unser Produkt ist eine App, mit der du in wenigen Sekunden einen E-Scooter in deiner Nähe findest und mietest."'
+      - q: "Das Startup sagt, das Team besteht aus Leuten, auf die man sich verlassen kann."
+        answer: true
+        why: '"Unser Team besteht aus Leuten, auf die du dich wirklich verlassen kannst."'
+      - q: "Das Wichtigste, was das Startup bietet, ist niedrige Preise."
+        answer: false
+        why: '"Das Einzige, was uns von anderen Anbietern unterscheidet, ist unser Fokus" (on Randbezirke, not low prices).'
+      - q: "Das Beste, was Nutzer über das Startup sagen, ist: Endlich eine Lösung, die zum Alltag passt."
+        answer: true
+        why: '"Das Beste, was unsere Nutzer über uns sagen, ist: Endlich eine Lösung, die wirklich zu meinem Alltag passt."'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2: Stellenausschreibung — Sprachschule Berlin"
+    instructions: |
+      Lies die Stellenausschreibung und wähle a, b oder c.
+
+      **Stellenausschreibung: Lehrkraft für Deutsch als Fremdsprache (m/w/d)**
+
+      Wir suchen eine engagierte Person, die Freude am Unterrichten hat und über
+      nachgewiesene Erfahrung im DaF-Bereich verfügt. Die Stelle, um die wir Sie
+      bitten sich zu bewerben, umfasst 20–30 Unterrichtsstunden pro Woche.
+      Wir sind eine Sprachschule, in der Lernende aus über 40 Nationen zusammenkommen.
+      Das ist ein Umfeld, aus dem unsere Lehrenden viel Motivation schöpfen.
+      Alles, was wir von Ihnen erwarten, ist Engagement, Kreativität und Verlässlichkeit.
+      Das Einzige, was wir nicht bieten können, ist Vollzeitbeschäftigung.
+      Bewerben Sie sich bei uns — in einem Team, dem Ihre Entwicklung am Herzen liegt.
+
+      Wähle a, b oder c.
+    items:
+      - q: "Was sucht die Sprachschule?"
+        options:
+          - { key: a, text: "Eine Verwaltungskraft mit DaF-Erfahrung." }
+          - { key: b, text: "Eine Lehrkraft, die Freude am Unterrichten hat und DaF-Erfahrung mitbringt." }
+          - { key: c, text: "Einen Schulleiter mit internationalem Hintergrund." }
+        answer: b
+        why: '"Wir suchen eine engagierte Person, die Freude am Unterrichten hat und über nachgewiesene Erfahrung im DaF-Bereich verfügt."'
+      - q: "Was ist an dieser Schule besonders?"
+        options:
+          - { key: a, text: "Die Schule hat nur deutschsprachige Lernende." }
+          - { key: b, text: "Die Schule liegt im Stadtzentrum." }
+          - { key: c, text: "Lernende aus über 40 Nationen lernen dort zusammen." }
+        answer: c
+        why: '"Wir sind eine Sprachschule, in der Lernende aus über 40 Nationen zusammenkommen."'
+      - q: "Was kann die Schule nicht bieten?"
+        options:
+          - { key: a, text: "Fortbildungen für Lehrkräfte." }
+          - { key: b, text: "Vollzeitbeschäftigung." }
+          - { key: c, text: "Unterrichtsmaterialien." }
+        answer: b
+        why: '"Das Einzige, was wir nicht bieten können, ist Vollzeitbeschäftigung."'
+      - q: "Welcher Relativsatz im Text steht im Dativ?"
+        options:
+          - { key: a, text: "eine engagierte Person, die Freude am Unterrichten hat" }
+          - { key: b, text: "in einem Team, dem Ihre Entwicklung am Herzen liegt" }
+          - { key: c, text: "Alles, was wir von Ihnen erwarten" }
+        answer: b
+        why: '"einem Team, dem Ihre Entwicklung am Herzen liegt" — dem = Dativ (n.) with the dative expression am Herzen liegen.'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben B1: Produktbeschreibung"
+    prompt: >
+      Schreib eine kurze „Über uns"-Beschreibung (5–6 Sätze) für ein echtes oder
+      erfundenes Produkt, einen Ort oder eine Person. Verwende mindestens 4
+      Relativsätze von verschiedenen Typen (Dativ, Präp.+Pronomen, was, wo).
+    use:
+      - "at least 1 Dativ relative clause (e.g. 'Menschen, denen … wichtig ist')"
+      - "at least 1 preposition + relative pronoun (e.g. 'ein Ort, in dem …' / 'eine App, mit der …')"
+      - "at least 1 `was`-clause (after alles/etwas/das Beste/das Einzige…)"
+      - "at least 1 `wo`-clause after a place noun"
+    selfCheck:
+      - "Does the verb in every relative clause go to the end of the clause?"
+      - "After `alles / etwas / nichts / das Einzige / das Beste` — did I write `was` (not `das`)?"
+      - "Are my Dativ forms correct? (dem for m./n., der for f., denen for pl.)"
+      - "Is there a comma before every relative clause?"
+    model: |
+      Das ist ein Café, das sich leidenschaftlich dem Specialty Coffee widmet.
+      Es liegt in einem Kiez, wo man noch echte Handwerkskunst findet. Die Baristas,
+      denen der Geschmack über alles geht, rösten jede Woche frische Bohnen.
+      Das Beste, was du hier bestellen kannst, ist unser Filterkaffee aus Äthiopien.
+      Das ist alles, was du für einen perfekten Morgen brauchst.
+      Das ist ein Ort, auf den man sich wirklich freuen kann — jeden Tag aufs Neue.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "One minute per gap. Items marked (B1/03) or (B1/04) review earlier lessons. 15 items."
+    text: |
+      1. Fill in the relative pronoun (Nom., f.): die App, {1} kostenlos ist.
+      2. Fill in the relative pronoun (Akk., m.): der Kollege, {2} ich gut kenne.
+      3. Fill in the relative pronoun (Dat., pl.): die Kunden, {3} wir helfen.
+      4. Fill in the relative pronoun (Dat., n.): das Team, {4} ich vertraue.
+      5. Fill in preposition + pronoun: die App, ______ man Scooter mietet. (mit + f. Dat.) → {5}
+      6. Fill in preposition + pronoun: das Ziel, ______ wir arbeiten. (für + n. Akk.) → {6}
+      7. Fill in `was` or `das`: Alles, {7} du brauchst, ist hier.
+      8. Fill in `was` or `das`: Das Problem, {8} wir lösen müssen, ist komplex.
+      9. Fill in: Das Beste, {9} sie je gemacht hat, ist ihr Filterkaffee.
+      10. Fill in: Berlin ist die Stadt, {10} Pavel wohnt.
+      11. (B1/03) Konjunktiv II of `können`, ich-form: {11}
+      12. (B1/03) Fill in Konjunktiv II: Wenn ich Zeit hätte, {12} ich dir helfen. (würde)
+      13. (B1/04) Passiv Präsens: Die App ______ täglich ______ . (nutzen → wird genutzt) → {13} täglich {14}.
+      14. Fill in: Das ist die Gegend, {15} die Nachfrage am größten ist. (in + f. Dat. → in der)
+      15. Fill in the Dativ relative pronoun (f.): die Mitarbeiterin, {16} ich danke.
+    answers:
+      "1": die
+      "2": den
+      "3": denen
+      "4": dem
+      "5": mit der
+      "6": für das
+      "7": was
+      "8": das
+      "9": was
+      "10": wo
+      "11": könnte
+      "12": würde
+      "13": wird
+      "14": genutzt
+      "15": in der
+      "16": der
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Welches Wort passt nicht?"
+    instructions: "Streiche das Wort durch, das nicht passt, und erkläre warum."
+    groups:
+      - items: [der, die, das, denen]
+        odd: 3
+        why: "denen is the Dativ plural form; der/die/das are Nominativ/Akkusativ forms (denen does not appear in Nom. or Akk.)."
+      - items: [alles, etwas, nichts, das Auto]
+        odd: 3
+        why: "das Auto is a specific neuter noun (→ relative pronoun das); alles/etwas/nichts all trigger was."
+      - items: [mit der, in dem, über das, worüber]
+        odd: 3
+        why: "worüber is a Pronominaladverb (B1/08 topic); the others are preposition + relative pronoun (the B1/05 form)."
+      - items: [der Ort, die Stadt, das Land, die Nachfrage]
+        odd: 3
+        why: "die Nachfrage is not a place noun; der Ort / die Stadt / das Land all take `wo` as a relative pronoun."
+      - items: [sich kümmern um, abhängen von, bestehen aus, gefallen]
+        odd: 3
+        why: "gefallen takes Dativ but no preposition; the other three verbs all take a preposition that appears in relative clauses."
+      - items: [die Formulierung, der Hinweis, das Merkmal, denen]
+        odd: 3
+        why: "denen is a relative pronoun; die Formulierung / der Hinweis / das Merkmal are nouns (Wortschatz from this lesson)."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: A2/13 und B1/02"
+    instructions: "Review of earlier lessons. 10 items."
+    text: |
+      **Aus A2/13 (Relativsätze Nom. & Akk.):**
+      1. (A2/13) Fill in: Das ist ein Mann, {1} aus Berlin kommt. (Nom., m.)
+      2. (A2/13) Fill in: Das ist die Frau, {2} ich gut kenne. (Akk., f.)
+      3. (A2/13) Fill in: Das ist das Buch, {3} mir sehr gefällt. (Nom., n.)
+      4. (A2/13) Fill in: Das sind Freunde, {4} ich oft besuche. (Akk., pl.)
+      5. (A2/13) Fill in: Der Film, {5} ich gestern gesehen habe, war fantastisch. (Akk., m.)
+
+      **Aus B1/02 (Konnektoren obwohl/trotzdem/deshalb):**
+      6. (B1/02) Fill in: Er bleibt in Berlin, {6} er Prag liebt. (obwohl)
+      7. (B1/02) Fill in: Die Miete ist hoch. {7} wohnt Pavel in Wedding. (trotzdem — V2)
+      8. (B1/02) Fill in: Tomáš liebt das Berliner Netzwerk. {8} ist er oft hier. (deshalb — V2)
+      9. (B1/02) Fill in: Das Startup ist {9} jung, {10} es hat schon viele Kunden. (zwar … aber)
+    answers:
+      "1": der
+      "2": die
+      "3": das
+      "4": die
+      "5": den
+      "6": obwohl
+      "7": Trotzdem
+      "8": Deshalb
+      "9": zwar
+      "10": aber
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (bewerte dich selbst: /20)"
+    notes: "16+ / 20 → Lektion B1/06. Below 16: redo Block A1–A6 and B2 (Finde den Fehler) tomorrow, then retest D4."
+    text: |
+      **Nom. Relativsätze (A2/13 — Wiederholung):**
+      1. Die App, {1} kostenlos ist, hat viele Nutzer. (Nom., f.)
+      2. Der Barista, {2} dort arbeitet, ist sehr gut. (Nom., m.)
+
+      **Akk. Relativsätze (A2/13 — Wiederholung):**
+      3. Das ist die Stelle, {3} Anna anstrebt. (Akk., f.)
+      4. Das ist der Kollege, {4} wir heute treffen. (Akk., m.)
+
+      **Dativ-Relativsätze — NEU:**
+      5. Das ist der Kollege, {5} ich sehr vertraue. (Dat., m.)
+      6. Das sind Kunden, {6} wir täglich helfen. (Dat., pl.)
+      7. Das ist die Mitarbeiterin, {7} ich danke. (Dat., f.)
+
+      **Präposition + Relativpronomen — NEU:**
+      8. Die App, {8} {9} man Scooter mietet, ist praktisch. (mit + f. Dat.)
+      9. Das Ziel, {10} {11} wir arbeiten, ist klar. (für + n. Akk.)
+      10. Die Ressourcen, {12} {13} das Startup verfügt, sind begrenzt. (über + pl. Akk.)
+
+      **`was` als Relativpronomen — NEU:**
+      11. Alles, {14} du brauchst, ist hier.
+      12. Das Beste, {15} er je gemacht hat, ist dieses Produkt.
+      13. Das ist das Einzige, {16} wir noch tun können.
+
+      **`wo` als Relativpronomen — NEU:**
+      14. Das ist die Stadt, {17} Pavel lebt.
+      15. Das ist der Bezirk, {18} die Nachfrage am größten ist.
+
+      **Gemischt — richtige Form wählen:**
+      16. Das ist etwas, ______ mich überrascht hat: {19} (was oder das?)
+      17. Das Problem, ______ wir lösen müssen, ist groß: {20} (was oder das?)
+    answers:
+      "1": die
+      "2": der
+      "3": die
+      "4": den
+      "5": dem
+      "6": denen
+      "7": der
+      "8": mit
+      "9": der
+      "10": für
+      "11": das
+      "12": über
+      "13": die
+      "14": was
+      "15": was
+      "16": was
+      "17": wo
+      "18": wo
+      "19": was
+      "20": das
