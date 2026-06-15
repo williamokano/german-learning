@@ -30,10 +30,10 @@ If it exits 0, commit+push. Then move to the next lesson. **Do not fan out in pa
 | A2/01 | ✅ DONE | ✅ | ✅ |
 | A2/02 | ✅ DONE | ✅ | ✅ |
 | A2/14 | ✅ DONE (P3 hand-authored) | ✅ | ✅ |
-| A1/13 | ❌ NOT STARTED | — | — |
+| A1/13 | ✅ DONE | ✅ | ✅ |
 | A2/03–A2/13 | ❌ | — | — |
 
-**Next lesson:** A1/13-aemter-telefon-alltag
+**Next lesson:** A2/03-begruenden-und-erklaeren
 
 ---
 
