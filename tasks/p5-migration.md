@@ -22,12 +22,18 @@ If it exits 0, commit+push. Then move to the next lesson. **Do not fan out in pa
 | A1/06 | ✅ DONE | ✅ | ✅ |
 | A1/07 | ✅ DONE | ✅ | ✅ |
 | A1/08 | ✅ DONE | ✅ | ✅ |
+| A1/09 | ✅ DONE | ✅ | ✅ |
+| A1/10 | ✅ DONE | ✅ | ✅ |
+| A1/11 | ✅ DONE | ✅ | ✅ |
+| A1/12 | ✅ DONE | ✅ | ✅ |
 | A1/14 | ✅ DONE (P3 hand-authored) | ✅ | ✅ |
-| A1/09–A1/13 | ❌ | — | — |
-| A2/01–A2/13 | ❌ | — | — |
+| A2/01 | ✅ DONE | ✅ | ✅ |
+| A2/02 | ✅ DONE | ✅ | ✅ |
 | A2/14 | ✅ DONE (P3 hand-authored) | ✅ | ✅ |
+| A1/13 | ❌ NOT STARTED | — | — |
+| A2/03–A2/13 | ❌ | — | — |
 
-**Next lesson:** A1/09-einkaufen-und-kleidung
+**Next lesson:** A1/13-aemter-telefon-alltag
 
 ---
 
