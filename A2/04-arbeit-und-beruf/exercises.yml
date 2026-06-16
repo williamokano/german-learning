@@ -397,7 +397,7 @@ exercises:
     block: B
     type: gap-bank
     title: "Dialog ergänzen"
-    instructions: "Fill in the 7 gaps with words from the box. Two words are not needed."
+    instructions: "Fill in the 7 gaps with words from the box. Four words are not needed."
     text: |
       — Entschuldigung, ich interessiere mich für die {1} als Buchhalter.
       — Ja, bitte. Haben Sie schon {2} in diesem Bereich?
@@ -501,19 +501,19 @@ exercises:
     instructions: "Put the words in the right order."
     items:
       - tiles: [wenn, ist, er, kommt, er, fertig, sofort]
-        answer: [0, 3, 1, 6, 4, 2, 5]
+        answer: [0, 2, 5, 1, 3, 4, 6]
         note: "Wenn er fertig ist, kommt er sofort."
       - tiles: [habe, keinen, Hunger, esse, wenn, nichts, ich, ich]
-        answer: [3, 1, 2, 6, 0, 4, 5, 7]
+        answer: [4, 6, 1, 2, 0, 3, 7, 5]
         note: "Wenn ich keinen Hunger habe, esse ich nichts."
       - tiles: [finde, ich, einen, Job, wenn, glücklich, ich, Glück, habe, bin]
-        answer: [9, 0, 2, 3, 0, 5, 6, 4, 7, 8]
+        answer: [4, 6, 7, 8, 0, 1, 2, 3]
         note: "Wenn ich Glück habe, finde ich einen Job. (Also: Ich bin glücklich, wenn ich einen Job finde.)"
       - tiles: [sie, Fragen, hat, hilft, wenn, ihr, Laura]
-        answer: [4, 2, 3, 6, 0, 1, 5]
+        answer: [4, 0, 1, 2, 3, 5, 6]
         note: "Wenn sie Fragen hat, hilft ihr Laura."
-      - tiles: [Unterlagen, bis, Montag, wir, anrufen, Sie, einreichen, wenn, die]
-        answer: [7, 0, 1, 8, 4, 3, 5, 2, 6]
+      - tiles: [Unterlagen, bis, Montag, wir, rufen, Sie, einreichen, wenn, die, an]
+        answer: [7, 5, 8, 0, 1, 2, 6, 4, 3, 9]
         note: "Wenn Sie die Unterlagen bis Montag einreichen, rufen wir an."
 
   - id: B6

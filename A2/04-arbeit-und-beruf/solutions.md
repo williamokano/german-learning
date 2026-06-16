@@ -114,15 +114,15 @@ Modellantwort:
 
 ## Übung B5 — Satzbau: `wenn`-Sätze
 
-1. wenn kommt ist sofort er er fertig
+1. wenn er fertig ist kommt er sofort
    _Wenn er fertig ist, kommt er sofort._
-2. esse keinen Hunger ich habe wenn nichts ich
+2. wenn ich keinen Hunger habe esse ich nichts
    _Wenn ich keinen Hunger habe, esse ich nichts._
-3. bin finde einen Job finde glücklich ich wenn Glück habe
+3. wenn ich Glück habe finde ich einen Job
    _Wenn ich Glück habe, finde ich einen Job. (Also: Ich bin glücklich, wenn ich einen Job finde.)_
-4. wenn hat hilft Laura sie Fragen ihr
+4. wenn sie Fragen hat hilft ihr Laura
    _Wenn sie Fragen hat, hilft ihr Laura._
-5. wenn Unterlagen bis die anrufen wir Sie Montag einreichen
+5. wenn Sie die Unterlagen bis Montag einreichen rufen wir an
    _Wenn Sie die Unterlagen bis Montag einreichen, rufen wir an._
 
 ## Übung B6 — Beruf beschreiben: Sätze schreiben

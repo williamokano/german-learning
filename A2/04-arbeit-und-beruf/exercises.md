@@ -208,7 +208,7 @@ Each item has two gaps: the conjugated verb (position 2) and the separable prefi
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the 7 gaps with words from the box. Two words are not needed.
+Fill in the 7 gaps with words from the box. Four words are not needed.
 
 > — Entschuldigung, ich interessiere mich für die (1) ______ als Buchhalter.
 > — Ja, bitte. Haben Sie schon (2) ______ in diesem Bereich?
@@ -266,7 +266,7 @@ Put the words in the right order.
 2. ich – nichts – keinen – ich – esse – habe – wenn – Hunger
 3. finde – ich – wenn – Glück – habe – ich – glücklich – bin – einen – Job
 4. sie – hat – wenn – Fragen – ihr – Laura – hilft
-5. bis – wir – Sie – die – Unterlagen – anrufen – einreichen – Montag – wenn
+5. die – Montag – wir – rufen – wenn – Sie – einreichen – an – Unterlagen – bis
 
 ## Übung B6 — Beruf beschreiben: Sätze schreiben
 
