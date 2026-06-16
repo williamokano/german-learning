@@ -372,7 +372,7 @@ Fill the 10 gaps using words from the box. Ten words are not needed. Each word o
 
 > BIN · FLIEGEN · GEMACHT · GEREGNET · HABE · HAST · HAT · HATTE · HOFFEN · IST · KANN · KAUFEN · PLANT · VERSPRICHT · WAREN · WERDE · WERDEN · WIRD · WIRST · WOLLTE
 
-Five words are not needed.
+Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Annas Pläne für das neue Jahr)
 

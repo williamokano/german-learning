@@ -398,7 +398,7 @@ Fill the 10 gaps from the box. Ten words are not needed. Each word once.
 
 > ALTEN · BLAUE · BLAUEN · BRAUNEN · BUNTEN · ELEGANTE · ELEGANTEN · GRAUEN · GRÜNER · HELLEN · KLEINEN · LANGEN · MODERNEN · NEUE · NEUEN · ROTEN · SCHWARZE · SCHWARZEN · WARMEN · WEISSES
 
-Five words are not needed.
+Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 — „Annas neuer Stil"
 

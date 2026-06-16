@@ -379,7 +379,7 @@ Fill the 10 gaps using words from the box. **Ten words are not needed.** Each wo
 
 > BEKOMMEN · BEZAHLT · BIN · DANACH · DANN · DURFTE · ERLEBT · ERZÄHLT · FOTOGRAFIERT · GEGANGEN · GEKAUFT · GEMACHT · GETROFFEN · HATTE · KONNTE · MUSSTE · RESERVIERT · STUDIERT · WOLLTE · ZUERST
 
-Five words are not needed.
+Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Brunos Abenteuer in Blumenau
 

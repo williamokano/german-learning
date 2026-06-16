@@ -361,7 +361,7 @@ Fill the 10 gaps from the box. Ten words are not needed. Each word once.
 
 > ANZIEHEN · ÄRGERN · AUS · BESSER · DICH · DIR · ENTSPANNEN · EUCH · FREUEN · FÜHLEN · GESUND · MICH · MIR · MORGEN · MÜDE · RUHT · SICH · SPORT · UNS · WÜNSCHEN
 
-Five words are not needed.
+Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext)
 

@@ -55,8 +55,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Höre den Text und fülle die Lücken."
-    instructionsEn: "Listen to the text and fill in the gaps."
+    instructions: "Höre den Text und fülle die Lücken. Zwei Wörter passen nicht."
+    instructionsEn: "Listen to the text and fill in the gaps. Two words are not needed."
     text: |
       Yuki steht um halb acht auf und frühstückt {1} — nur Kaffee und ein
       Brötchen. Ihr Deutschkurs {2} um neun Uhr an. Von neun bis halb eins
@@ -721,7 +721,7 @@ exercises:
       ich manchmal ein. Am Abend koche ich, oder ich {7} fern. Manchmal
       rufe ich meine Eltern {8}. Um elf Uhr {9} ich schlafen. Am
       Wochenende arbeite ich {10} — da schlafe ich lange!
-    bank: [stehe, gehe, um, von, bis, Am, sehe, an, nicht, immer, gern, hier, dann]
+    bank: [stehe, gehe, gehe, um, von, bis, Am, sehe, an, nicht, immer, gern, hier, dann]
     answers:
       "1":
         - stehe

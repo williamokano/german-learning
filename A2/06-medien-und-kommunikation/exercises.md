@@ -373,7 +373,7 @@ Fill the 10 gaps from the box. Ten words are not needed. Each word once.
 
 > AN · ANTWORTE · ÄRGERE · AUF · BEI · DENKE · FRAGE · FREUE · FÜR · HÖRE · IN · INTERESSIERE · MIT · NACH · SCHREIBE · SPRECHE · ÜBER · VON · WARTE · ZU
 
-Five words are not needed.
+Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext)
 

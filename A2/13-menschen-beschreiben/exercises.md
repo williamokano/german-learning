@@ -349,7 +349,7 @@ Fill the 10 gaps using words from the box. Ten words are not needed. Each word o
 
 > ARBEITET · DAS · DEN · DER · DIE · DUNKLE · EINEN · FOTOGRAFIERT · GROSS · KOCHT · LANGE · LIEST · REIST · SCHLANK · SCHREIBT · SINGT · SPIELT · STUDIERT · TANZT · TRINKT
 
-Five words are not needed.
+Ten words are not needed.
 
 ## Übung C4a — Lesen Teil 1 (Mein Kollege Marko)
 

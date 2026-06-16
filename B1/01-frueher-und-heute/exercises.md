@@ -335,7 +335,7 @@ Fill the 10 gaps using words from the box. Eleven words are not needed. Each wor
 
 > ARBEITEN · BEGONNEN · BIN · FAND · FUHR · GEZOGEN · GING · HATTE · HATTE · HÄTTE · KAM · KONNTE · LEBTE · MUSSTE · WAR · WAR · WAR · WISSEN · WOHNTEN · WOLLTE · WURDE
 
-Five words are not needed.
+Eleven words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lukas' Fotoalbum)
 

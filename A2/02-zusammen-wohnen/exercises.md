@@ -428,7 +428,7 @@ Fill the 10 gaps using words from the box. Eleven words are not needed. Each wor
 
 > AM · AN · AUF · AUS · DEM · DER · HÄNGT · HINTER · IM · INS · LEGEN · LEGT · LIEGT · NEBEN · STEHEN · STEHT · STELLT · ÜBER · UNTER · VOR · ZWISCHEN
 
-Five words are not needed.
+Eleven words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Annas neue WG
 

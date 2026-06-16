@@ -310,9 +310,12 @@ function renderGapBankMd(ex: GapBankExercise): string[] {
   if (ex.block === 'C' || ex.block === 'exam') {
     const sorted = [...ex.bank].sort((a, b) => a.localeCompare(b, 'de'));
     lines.push(`> ${sorted.map(w => w.toUpperCase()).join(' · ')}`);
-    if (ex.bank.length > Object.keys(ex.answers).length) {
+    const extra = ex.bank.length - Object.keys(ex.answers).length;
+    if (extra > 0) {
+      const words = ['', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Eleven', 'Twelve', 'Thirteen', 'Fourteen', 'Fifteen'];
+      const label = extra < words.length ? words[extra] : String(extra);
       lines.push('');
-      lines.push('Five words are not needed.');
+      lines.push(`${label} word${extra === 1 ? '' : 's'} are not needed.`);
     }
   } else {
     lines.push(`> (${ex.bank.join(' · ')})`);

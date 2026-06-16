@@ -32,7 +32,7 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Höre den Text und fülle die Lücken.
+Höre den Text und fülle die Lücken. Zwei Wörter passen nicht.
 
 > Yuki steht um halb acht auf und frühstückt (1) ______ — nur Kaffee und ein
 > Brötchen. Ihr Deutschkurs (2) ______ um neun Uhr an. Von neun bis halb eins
@@ -364,9 +364,9 @@ Fill each gap with one word from the box. Four words are not needed.
 > rufe ich meine Eltern (8) ______. Um elf Uhr (9) ______ ich schlafen. Am
 > Wochenende arbeite ich (10) ______ — da schlafe ich lange!
 
-> AM · AN · BIS · DANN · GEHE · GERN · HIER · IMMER · NICHT · SEHE · STEHE · UM · VON
+> AM · AN · BIS · DANN · GEHE · GEHE · GERN · HIER · IMMER · NICHT · SEHE · STEHE · UM · VON
 
-Five words are not needed.
+Four words are not needed.
 
 ## Übung C2 — Sprachbausteine Teil 1
 

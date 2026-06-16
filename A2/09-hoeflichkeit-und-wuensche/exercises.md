@@ -389,7 +389,7 @@ Fill the 10 gaps from the box. Ten words are not needed. Each word once.
 
 > BESTELLEN · BRINGEN · DÜRFEN · EMPFEHLEN · GERN · HÄTTE · HÄTTEN · KÖNNTE · KÖNNTEN · KÖNNTEST · LEIDER · MÖCHTEN · MÖGLICH · NETT · RICHTIG · SOLLEN · WÄRE · WÄREN · WECHSELN · WÜRDE
 
-Five words are not needed.
+Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Anna lädt Bruno ein)
 

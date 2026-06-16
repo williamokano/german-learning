@@ -386,7 +386,7 @@ Fill the 10 gaps from the box. Ten words are not needed. Each word once.
 
 > BRAUCHT · DARUM · DASS · DENKE · DESHALB · ERKLÄRT · FINDET · GLAUBE · HILFT · MEINT · NICHT · OBWOHL · SAGT · STIMMT · TROTZDEM · VERSTEHEN · VIELLEICHT · WARUM · WEIL · WEISS
 
-Five words are not needed.
+Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext)
 

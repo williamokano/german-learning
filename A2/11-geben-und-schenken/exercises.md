@@ -427,7 +427,7 @@ Fill the 10 gaps using words from the box. Ten words are not needed. Each word o
 
 > BESTES · BRACHTE · BRINGT · DANKTE · EMPFAHL · EMPFEHLE · EMPFIEHLT · GEHT · GING · HOLTE · KAUFEN · KAUFST · KAUFTE · LEGTE · ÖFFNETE · PACKTE · SCHENKTE · SCHRIEB · WÜNSCHE · ZAHLTE
 
-Five words are not needed.
+Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Annas Geschenk für Lisa)
 

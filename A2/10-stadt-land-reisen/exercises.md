@@ -402,7 +402,7 @@ Fill the 10 gaps using words from the box. Ten words are not needed. Each word o
 
 > ASS · BESICHTIGTE · BESUCHT · BESUCHTE · ERLEBTE · FUHR · GEBLIEBEN · GEFLOGEN · GEGESSEN · GEREIST · GING · KAM · LACHTE · MACHTE · RIEF · SCHRIEB · TRANK · WANDERTE · WOHNTE · WUNDERBAR
 
-Five words are not needed.
+Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Brunos Reisebericht)
 
