@@ -137,7 +137,7 @@ exercises:
     instructions: "Use the correct form of `gefallen` and the correct dative pronoun."
     text: |-
       1. Es {1} {2} (I like it).
-      2. Wir {3} {4} gut. (We like them.)
+      2. Sie {3} {4} gut. (We like them.)
       3. {5} dir dieser Pullover?
       4. Die Jacke {6} ihr nicht.
       5. {7} Ihnen diese Farbe?
@@ -791,7 +791,7 @@ exercises:
       - q: "Anna sucht ein Outfit für eine Hochzeit."
         answer: false
         why: "für eine Party, not a wedding."
-      - q: "Das schwarze Kleid gefällt Anna nicht."
+      - q: "Das Kleid gefällt Anna nicht."
         answer: true
         why: "es passt ihr gut, aber es gefällt ihr nicht."
       - q: "Bruno sagt, Blau steht Anna gut."

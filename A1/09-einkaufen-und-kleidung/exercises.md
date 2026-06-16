@@ -78,7 +78,7 @@ Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einma
 Use the correct form of `gefallen` and the correct dative pronoun.
 
 1. Es ______ ______ (I like it).
-2. Wir ______ ______ gut. (We like them.)
+2. Sie ______ ______ gut. (We like them.)
 3. ______ dir dieser Pullover?
 4. Die Jacke ______ ihr nicht.
 5. ______ Ihnen diese Farbe?
@@ -376,7 +376,7 @@ Five words are not needed.
 Read „Ein neues Outfit" in lesson.md, section 6. Richtig (R) oder falsch (F)?
 
 1. Anna sucht ein Outfit für eine Hochzeit. ( )
-2. Das schwarze Kleid gefällt Anna nicht. ( )
+2. Das Kleid gefällt Anna nicht. ( )
 3. Bruno sagt, Blau steht Anna gut. ( )
 4. Die Bluse ist sehr teuer. ( )
 5. Bruno kauft auch neue Kleidung. ( )
