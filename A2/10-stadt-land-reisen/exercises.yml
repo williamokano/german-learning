@@ -186,7 +186,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Städte und Länder: nach / in + Akk / aus + Dat"
-    instructions: "Fill in nach, in, or aus. 10 items."
+    instructions: "Fill in the correct preposition (nach / in / in die / in den / in der / aus / zum). 10 items."
     text: |
       1. Ich fahre {1} Berlin.
       2. Sie kommt {2} Wien.
@@ -438,7 +438,7 @@ exercises:
     block: B
     type: gap-bank
     title: "Dialog ergänzen: Im Hotel anrufen"
-    instructions: "Fill in the 12 blanks with the correct form (Perfekt or Präteritum modal where appropriate)."
+    instructions: "Fill in the 12 blanks with the correct form. Three words in the box are not needed."
     text: |
       — Guten Tag! Ich möchte bitte ein Zimmer {1}.
       — Für wie viele Personen und {2} (für wann)?
@@ -915,12 +915,12 @@ exercises:
         why: "zwischen is the only Wechselpräposition for 'between'; the others are country/city prepositions."
       - items: [reserviert, fotografiert, besichtigt, angekommen]
         odd: 3
-        why: "angekommen is the only Partizip II with ge- in the middle (separable verb); the others are -ieren verbs with no ge-."
+        why: "angekommen is the only Partizip II with ge- in the middle (separable verb); the others take no ge- prefix (inseparable prefix be- or -ieren ending)."
       - items: ["am Hafen", "in die Berge", "ans Meer", "auf den Tisch"]
         odd: 3
         why: "auf den Tisch is the only non-travel destination; the others are all travel destinations."
       - items: [übernachten, ankommen, abfahren, umsteigen]
-        odd: 3
+        odd: 0
         why: "übernachten is the only verb that takes haben in the Perfekt; the others are motion verbs that take sein."
 
   - id: D3

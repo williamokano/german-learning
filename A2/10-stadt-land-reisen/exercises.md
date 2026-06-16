@@ -96,7 +96,7 @@ Fill in Wo?, Wohin?, or Woher? for each sentence. 8 items.
 
 ## Übung A3 — Städte und Länder: nach / in + Akk / aus + Dat
 
-Fill in nach, in, or aus. 10 items.
+Fill in the correct preposition (nach / in / in die / in den / in der / aus / zum). 10 items.
 
 1. Ich fahre ______ Berlin.
 2. Sie kommt ______ Wien.
@@ -233,7 +233,7 @@ Fill in the correct preposition. Use the contracted form when possible. 8 items.
 
 ## Übung B1 — Dialog ergänzen: Im Hotel anrufen
 
-Fill in the 12 blanks with the correct form (Perfekt or Präteritum modal where appropriate).
+Fill in the 12 blanks with the correct form. Three words in the box are not needed.
 
 > — Guten Tag! Ich möchte bitte ein Zimmer (1) ______.
 > — Für wie viele Personen und (2) ______ (für wann)?

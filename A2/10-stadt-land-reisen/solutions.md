@@ -257,9 +257,9 @@ Selbstkorrektur:
 1. ~~wohnen~~ — wohnen is the only verb that does not describe traveling.
 2. ~~der Marktplatz~~ — der Marktplatz is the only non-transport location; the others are all transport hubs.
 3. ~~zwischen~~ — zwischen is the only Wechselpräposition for 'between'; the others are country/city prepositions.
-4. ~~angekommen~~ — angekommen is the only Partizip II with ge- in the middle (separable verb); the others are -ieren verbs with no ge-.
+4. ~~angekommen~~ — angekommen is the only Partizip II with ge- in the middle (separable verb); the others take no ge- prefix (inseparable prefix be- or -ieren ending).
 5. ~~auf den Tisch~~ — auf den Tisch is the only non-travel destination; the others are all travel destinations.
-6. ~~umsteigen~~ — übernachten is the only verb that takes haben in the Perfekt; the others are motion verbs that take sein.
+6. ~~übernachten~~ — übernachten is the only verb that takes haben in the Perfekt; the others are motion verbs that take sein.
 
 ## Übung D3 — Rückblick: Lektionen 11, A2/01, A2/02, A2/09
 
