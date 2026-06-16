@@ -19,9 +19,7 @@ exercises:
     instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - { q: "Anna hat eine neue WG gefunden.", answer: true, why: 'Anna sagt: „Ich habe endlich eine neue Wohngemeinschaft gefunden!"' }
-      - q: "Die neue WG hat drei Zimmer."
-        answer: false
-        why: "Die WG hat vier Zimmer, nicht drei (Anna und drei andere Studenten)."
+      - { q: "Vier Leute wohnen in der neuen WG.", answer: true, why: 'Anna sagt: „Vier — ich und drei andere Studenten."' }
       - { q: "Anna stellt den Tisch ans Fenster.", answer: true, why: 'Anna sagt: „Den Tisch … stelle ich ihn ans Fenster."' }
       - { q: "Das Bücherregal steht zwischen dem Fenster und der Tür.", answer: true, why: '„Es steht zwischen dem Fenster und der Tür."' }
 
@@ -520,7 +518,7 @@ exercises:
       - { key: "7", text: "Wo liegt der Teppich?" }
       - { key: "8", text: "Stell die Kiste hinter die Tür!" }
     right:
-      - { key: a, text: "Nein, aber ich stelle es gleich hin." }
+      - { key: a, text: "Nein, aber ich hänge sie gleich auf." }
       - { key: b, text: "Sie liegt auf dem Sofa." }
       - { key: c, text: "Es hängt an der Wand über dem Sofa." }
       - { key: d, text: "Ins Regal, bitte." }

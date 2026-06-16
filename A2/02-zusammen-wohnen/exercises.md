@@ -13,7 +13,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 1. Anna hat eine neue WG gefunden. ( )
-2. Die neue WG hat drei Zimmer. ( )
+2. Vier Leute wohnen in der neuen WG. ( )
 3. Anna stellt den Tisch ans Fenster. ( )
 4. Das Bücherregal steht zwischen dem Fenster und der Tür. ( )
 
@@ -266,7 +266,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 | Links | | Rechts |
 |---|---|---|
-| 1. Wo hängt das Bild? | | a) Nein, aber ich stelle es gleich hin. |
+| 1. Wo hängt das Bild? | | a) Nein, aber ich hänge sie gleich auf. |
 | 2. Wohin soll ich die Bücher legen? | | b) Sie liegt auf dem Sofa. |
 | 3. Steht der Tisch schon am Fenster? | | c) Es hängt an der Wand über dem Sofa. |
 | 4. Wo liegt die Fernbedienung? | | d) Ins Regal, bitte. |

@@ -7,7 +7,7 @@
 ## Übung H1a — Dialog Hör-Check: Dialog A (informell)
 
 1. **R** — Anna sagt: „Ich habe endlich eine neue Wohngemeinschaft gefunden!"
-2. **F** — Die WG hat vier Zimmer, nicht drei (Anna und drei andere Studenten).
+2. **R** — Anna sagt: „Vier — ich und drei andere Studenten."
 3. **R** — Anna sagt: „Den Tisch … stelle ich ihn ans Fenster."
 4. **R** — „Es steht zwischen dem Fenster und der Tür."
 
