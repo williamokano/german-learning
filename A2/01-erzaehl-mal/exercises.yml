@@ -322,10 +322,10 @@ exercises:
         answer: [0, 1, 2, 3, 4]
         note: "Zuerst haben wir das Museum besucht."
       - tiles: [dann, sind, "in die Oper", wir, gegangen]
-        answer: [0, 1, 2, 3, 4]
+        answer: [0, 1, 3, 2, 4]
         note: "Dann sind wir in die Oper gegangen."
       - tiles: [danach, hat, "ein Stück Kuchen", Anna, gegessen]
-        answer: [0, 1, 2, 3, 4]
+        answer: [0, 1, 3, 2, 4]
         note: "Danach hat Anna ein Stück Kuchen gegessen."
       - tiles: [schließlich, sind, wir, "nach Hause", gefahren]
         answer: [0, 1, 2, 3, 4]
@@ -698,9 +698,7 @@ exercises:
       Das hat Anna sehr {7}. Am Ende {8} sie, dass sie öfter nach
       Hause fahren {9}. Sie {10} es leider nicht oft genug.
     answers:
-      "1":
-        - war
-        - hat
+      "1": war
       "2": besucht
       "3":
         - getroffen

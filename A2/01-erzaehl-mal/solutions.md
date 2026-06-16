@@ -61,9 +61,9 @@
 
 1. zuerst haben wir das Museum besucht
    _Zuerst haben wir das Museum besucht._
-2. dann sind in die Oper wir gegangen
+2. dann sind wir in die Oper gegangen
    _Dann sind wir in die Oper gegangen._
-3. danach hat ein Stück Kuchen Anna gegessen
+3. danach hat Anna ein Stück Kuchen gegessen
    _Danach hat Anna ein Stück Kuchen gegessen._
 4. schließlich sind wir nach Hause gefahren
    _Schließlich sind wir nach Hause gefahren._
@@ -163,7 +163,7 @@ Selbstkorrektur:
 
 ## Übung C1 — Lückentext
 
-1. **war** (auch richtig: **hat**)  2. **besucht**  3. **getroffen** (auch richtig: **wiedergesehen**)  4. **gefahren**  5. **hat**  6. **hat**  7. **gefallen**  8. **hat**  9. **muss** (auch richtig: **müsste**, **sollte**)  10. **schafft** (auch richtig: **kann**)
+1. **war**  2. **besucht**  3. **getroffen** (auch richtig: **wiedergesehen**)  4. **gefahren**  5. **hat**  6. **hat**  7. **gefallen**  8. **hat**  9. **muss** (auch richtig: **müsste**, **sollte**)  10. **schafft** (auch richtig: **kann**)
 
 ## Übung C2 — Sprachbausteine Teil 1
 
