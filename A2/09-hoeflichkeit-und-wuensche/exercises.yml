@@ -64,7 +64,7 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Listen and fill in the 6 missing words. Four words in the box are not needed."
     text: |
       Yuki ist in München und geht heute in ein Café. Die Kellnerin kommt und
       {1}: „Was darf es sein?" Yuki antwortet: „Ich {2} gern einen
@@ -328,14 +328,14 @@ exercises:
       3. [Wir] lieber – essen – zu Hause – würden
       4. [Könnten] bringen – die Karte – Sie – mir – bitte – ?
       5. [Anna] das – würde – gern – sehen
-      6. [Würden] etwas – Sie – trinken – möchten – ?
+      6. [Würden] – Sie – gern – etwas – trinken – ?
     model: |
       1. Ich würde gern morgen kommen.
       2. Würdest du bitte einen Tisch reservieren?
       3. Wir würden lieber zu Hause essen.
       4. Könnten Sie mir bitte die Karte bringen?
       5. Anna würde das gern sehen.
-      6. Würden Sie gern etwas trinken möchten?
+      6. Würden Sie gern etwas trinken?
 
   - id: A10
     block: A
@@ -452,7 +452,7 @@ exercises:
       "7": "wäre"
       "8": "Könnten"
       "9": "C"
-      "10": "umbenennen (bitte nicht am Ende)"
+      "10": "umstellen: Ich würde gerne bitte ein Stück Kuchen nehmen."
 
   - id: B4
     block: B
@@ -521,7 +521,7 @@ exercises:
       - { text: "Könnten Sie mir die Speisekarte bringen?", bucket: bitte }
       - { text: "Ich würde gern einen Tisch reservieren.", bucket: bestellung }
       - { text: "Freitag wäre mir besser als Montag.", bucket: hypothetisch }
-      - { text: "Ich hätte leider keine Zeit am Samstag.", bucket: bestellung }
+      - { text: "Ich hätte leider keine Zeit am Samstag.", bucket: hypothetisch }
       - { text: "Könntest du bitte leiser sein?", bucket: bitte }
 
   - id: B7
@@ -849,9 +849,9 @@ exercises:
       - items: [Speisekarte, Tagesgericht, Fensterplatz, Kellner]
         odd: 2
         why: "Fensterplatz is the only noun that describes a seat, not food/service role."
-      - items: [wäre, wäre, wären, wäret]
+      - items: [wäre, wärst, wären, war]
         odd: 3
-        why: "wäret is an archaic/rare form of `wäre`; standard forms are wäre, wären, wärt."
+        why: "war is Präteritum of sein; the others are Konjunktiv II forms of sein."
       - items: [bestellen, reservieren, reklamieren, wünschen]
         odd: 3
         why: "wünschen is more general; the others are specific restaurant actions."

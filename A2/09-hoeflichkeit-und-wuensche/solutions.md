@@ -90,7 +90,7 @@ Modellantwort:
 > 3. Wir würden lieber zu Hause essen.
 > 4. Könnten Sie mir bitte die Karte bringen?
 > 5. Anna würde das gern sehen.
-> 6. Würden Sie gern etwas trinken möchten?
+> 6. Würden Sie gern etwas trinken?
 
 ## Übung A10 — `konnte` vs. `könnte`: präteritum oder Konjunktiv II?
 
@@ -125,7 +125,7 @@ Modellantwort:
 
 ## Übung B3 — Finde den Fehler
 
-1. **en (einen)**  2. **st (könntest)**  3. **C**  4. **en (einen)**  5. **n (würden)**  6. **morgen**  7. **wäre**  8. **Könnten**  9. **C**  10. **umbenennen (bitte nicht am Ende)**
+1. **en (einen)**  2. **st (könntest)**  3. **C**  4. **en (einen)**  5. **n (würden)**  6. **morgen**  7. **wäre**  8. **Könnten**  9. **C**  10. **umstellen: Ich würde gerne bitte ein Stück Kuchen nehmen.**
 
 ## Übung B4 — Satzbau: Konjunktiv II Sätze
 
@@ -155,9 +155,9 @@ Modellantwort:
 
 ## Übung B6 — Kategorisieren: Situation und Form
 
-**Bestellung / Wunsch:** **Ich hätte gern einen Espresso.**, **Ich würde gern einen Tisch reservieren.**, **Ich hätte leider keine Zeit am Samstag.**
+**Bestellung / Wunsch:** **Ich hätte gern einen Espresso.**, **Ich würde gern einen Tisch reservieren.**
 **Höfliche Bitte:** **Würdest du das bitte für mich machen?**, **Könnten Sie mir die Speisekarte bringen?**, **Könntest du bitte leiser sein?**
-**Hypothetische Aussage:** **Das wäre sehr nett von dir.**, **Freitag wäre mir besser als Montag.**
+**Hypothetische Aussage:** **Das wäre sehr nett von dir.**, **Freitag wäre mir besser als Montag.**, **Ich hätte leider keine Zeit am Samstag.**
 
 ## Übung B7 — Übersetzen (EN → DE)
 
@@ -262,7 +262,7 @@ Selbstkorrektur:
 
 1. ~~wollte~~ — wollte is Präteritum of wollen; the others are Konjunktiv II.
 2. ~~Fensterplatz~~ — Fensterplatz is the only noun that describes a seat, not food/service role.
-3. ~~wäret~~ — wäret is an archaic/rare form of `wäre`; standard forms are wäre, wären, wärt.
+3. ~~war~~ — war is Präteritum of sein; the others are Konjunktiv II forms of sein.
 4. ~~wünschen~~ — wünschen is more general; the others are specific restaurant actions.
 5. ~~Bestellung~~ — Bestellung is the only one not about invitations; the others are.
 6. ~~wolltest~~ — wolltest is Präteritum of wollen; the others are Konjunktiv II.

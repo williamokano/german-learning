@@ -32,7 +32,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Three words in the box are not needed.
+Listen and fill in the 6 missing words. Four words in the box are not needed.
 
 > Yuki ist in München und geht heute in ein Café. Die Kellnerin kommt und
 > (1) ______: „Was darf es sein?" Yuki antwortet: „Ich (2) ______ gern einen
@@ -183,7 +183,7 @@ Choose the best form for each gap. The gap is the full conjugated form (e.g. `K�
 3. [Wir] lieber – essen – zu Hause – würden
 4. [Könnten] bringen – die Karte – Sie – mir – bitte – ?
 5. [Anna] das – würde – gern – sehen
-6. [Würden] etwas – Sie – trinken – möchten – ?
+6. [Würden] – Sie – gern – etwas – trinken – ?
 
 
 **Your task:** Reorder the words to make a correct sentence. The first word is given. Write the full sentence.
@@ -461,7 +461,7 @@ Cross out the word that doesn't fit.
 
 1. würde – könnte – hätte – wollte
 2. Speisekarte – Tagesgericht – Fensterplatz – Kellner
-3. wäre – wäre – wären – wäret
+3. wäre – wärst – wären – war
 4. bestellen – reservieren – reklamieren – wünschen
 5. Einladung – Absage – Zusage – Bestellung
 6. könntest – würdest – hättest – wolltest
