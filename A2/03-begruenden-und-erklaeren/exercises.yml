@@ -482,20 +482,20 @@ exercises:
     instructions: "Bringen Sie die Wörter in die richtige Reihenfolge."
     instructionsEn: "Put the words in the correct order."
     items:
-      - tiles: [weil, er, müde, ist, arbeitet, viel, hat, er]
-        answer: [7, 5, 2, 6, 0, 3, 4, 1]
+      - tiles: [weil, er, müde, ist, gearbeitet, viel, hat, er]
+        answer: [7, 3, 2, 0, 1, 5, 4, 6]
         note: "Er ist müde, weil er viel gearbeitet hat."
-      - tiles: [deshalb, früh, geht, auf, sie, steht, sie, "um sechs"]
-        answer: [3, 0, 1, 2, 4, 5, 6, 7]
+      - tiles: [deshalb, früh, geht, auf, sie, steht, sie, "um sechs", schlafen]
+        answer: [6, 5, 7, 3, 0, 2, 4, 1, 8]
         note: "Sie steht um sechs auf. Deshalb geht sie früh schlafen."
       - tiles: [dass, denke, ich, gut, der Kurs, ist]
-        answer: [5, 0, 2, 3, 4, 1]
+        answer: [2, 1, 0, 4, 3, 5]
         note: "Ich denke, dass der Kurs gut ist."
-      - tiles: [weil, die Prüfung, sie, schlafen, früh, morgen, geht, hat]
-        answer: [7, 2, 5, 4, 1, 3, 0, 6]
+      - tiles: [weil, die Prüfung, sie, schlafen, früh, morgen, geht, hat, sie]
+        answer: [2, 6, 4, 3, 0, 8, 5, 1, 7]
         note: "Sie geht früh schlafen, weil sie morgen die Prüfung hat."
       - tiles: [darum, kommt, er, nicht, krank, ist, er]
-        answer: [5, 0, 1, 2, 3, 4, 6]
+        answer: [2, 5, 4, 0, 1, 6, 3]
         note: "Er ist krank. Darum kommt er nicht."
 
   - id: B5

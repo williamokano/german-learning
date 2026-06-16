@@ -106,15 +106,15 @@
 
 ## Übung B4 — Satzbau: Sätze ordnen
 
-1. er viel müde hat weil ist arbeitet er
+1. er ist müde weil er viel gearbeitet hat
    _Er ist müde, weil er viel gearbeitet hat._
-2. auf deshalb früh geht sie steht sie um sechs
+2. sie steht um sechs auf deshalb geht sie früh schlafen
    _Sie steht um sechs auf. Deshalb geht sie früh schlafen._
-3. ist dass ich gut der Kurs denke
+3. ich denke dass der Kurs gut ist
    _Ich denke, dass der Kurs gut ist._
-4. hat sie morgen früh die Prüfung schlafen weil geht
+4. sie geht früh schlafen weil sie morgen die Prüfung hat
    _Sie geht früh schlafen, weil sie morgen die Prüfung hat._
-5. ist darum kommt er nicht krank er
+5. er ist krank darum kommt er nicht
    _Er ist krank. Darum kommt er nicht._
 
 ## Übung B5 — Fragen und Antworten verbinden

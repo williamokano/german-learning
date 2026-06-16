@@ -261,10 +261,10 @@ Write each pair connected using BOTH `weil` AND `deshalb` (two separate answers 
 
 Bringen Sie die Wörter in die richtige Reihenfolge.
 
-1. weil – müde – er – arbeitet – hat – ist – viel – er
-2. sie – auf – um sechs – geht – früh – deshalb – steht – sie
+1. weil – müde – er – gearbeitet – hat – ist – viel – er
+2. deshalb – schlafen – geht – um sechs – sie – früh – sie – steht – auf
 3. ich – denke – dass – ist – der Kurs – gut
-4. geht – sie – schlafen – weil – die Prüfung – hat – morgen – früh
+4. geht – die Prüfung – sie – früh – morgen – hat – weil – sie – schlafen
 5. kommt – er – er – ist – krank – darum – nicht
 
 ## Übung B5 — Fragen und Antworten verbinden
