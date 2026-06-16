@@ -168,7 +168,7 @@ Selbstkorrektur:
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-1. **OB**  2. **SIND**  3. **WISSEN**  4. **ERKLÄRT**  5. **HÄTTE**  6. **OB**  7. **INBEGRIFFEN**  8. **OB**  9. **KÖNNTE**  10. **WÄRE**
+1. **OB**  2. **SIND**  3. **WISSEN**  4. **ERKLÄRT**  5. **WÜRDE**  6. **OB**  7. **INBEGRIFFEN**  8. **OB**  9. **KÖNNTE**  10. **WÄRE**
 
 ## Übung C4a — Leseverstehen: Annas Brief ans Hotel (Richtig / Falsch)
 
