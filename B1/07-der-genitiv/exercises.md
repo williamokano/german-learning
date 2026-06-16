@@ -342,7 +342,7 @@ Fill the 10 gaps. **Five words are not needed.**
 > (9) ______ freundlichen Grüßen
 > Dr. Yusuf El-Sayed, Privatdozent (10) ______ Philosophie
 
-> BEIM · DEN · DER · DER · DER · DES · DES · DES · DURCH · EINER · EINES · FÜR · IHRER · MEINES · MIT
+> DEN · DER · DER · DER · DER · DES · DES · DES · DURCH · EINER · EINES · FÜR · IHRER · MEINES · MIT
 
 Five words are not needed.
 

@@ -684,7 +684,7 @@ exercises:
       Die Ergebnisse {8} Studie werden in einem separaten Abschnitt dargestellt.
       {9} freundlichen Grüßen
       Dr. Yusuf El-Sayed, Privatdozent {10} Philosophie
-    bank: [DES, IHRER, DES, DER, DER, DES, EINER, DER, MIT, FÜR, BEIM, EINES, DURCH, DEN, MEINES]
+    bank: [DES, IHRER, DES, DER, DER, DES, EINER, DER, DER, MIT, FÜR, EINES, DURCH, DEN, MEINES]
     answers:
       "1": DES
       "2": IHRER
