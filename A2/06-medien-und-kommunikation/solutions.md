@@ -102,21 +102,21 @@
 
 ## Übung B4 — Satzbau (word order)
 
-1. ich auf warte Antwort deine
+1. ich warte auf deine Antwort
    _Ich warte auf deine Antwort._
-2. sich über ärgert Bruno langsame die Verbindung
+2. Bruno ärgert sich über die langsame Verbindung
    _Bruno ärgert sich über die langsame Verbindung._
-3. dich für interessierst du Podcasts ?
+3. interessierst du dich für Podcasts ?
    _Interessierst du dich für Podcasts?_
-4. sprechen über wir Medien oft
+4. wir sprechen oft über Medien
    _Wir sprechen oft über Medien._
-5. denkt an Eltern Anna ihre
+5. Anna denkt an ihre Eltern
    _Anna denkt an ihre Eltern._
-6. Ihre auf E-Mail antworte ich gerne
+6. ich antworte gerne auf Ihre E-Mail
    _Ich antworte gerne auf Ihre E-Mail._
-7. fragt nach Steinmeyer die Apothekerin Herr dem Rezept
+7. Die Apothekerin fragt Herrn Steinmeyer nach dem Rezept
    _Die Apothekerin fragt Herrn Steinmeyer nach dem Rezept._
-8. sie sich über freut Nachricht die neue
+8. sie freut sich über die neue Nachricht
    _Sie freut sich über die neue Nachricht._
 
 ## Übung B5 — Fragen schreiben

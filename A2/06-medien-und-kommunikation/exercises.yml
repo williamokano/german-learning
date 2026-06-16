@@ -64,7 +64,7 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Listen and fill in the 6 missing words. Four words in the box are not needed."
     text: |
       Yuki wohnt in München und {1} sich sehr für japanische und deutsche Podcasts. Heute {2} sie auf eine wichtige {3} von ihrer Universität. Sie hat gestern nach dem Termin für ihre {4} gefragt und {5} auf eine schnelle Antwort. Während sie wartet, {6} sie an ihre Freundin in Osaka und erzählt ihr von ihrem Alltag in Deutschland.
     bank: [interessiert, wartet, Prüfung, Antwort, schreibt, freut, E-Mail, gefragt, Energie, hofft]
@@ -541,28 +541,28 @@ exercises:
     instructions: "Build a correct sentence from the scrambled words."
     items:
       - tiles: [auf, ich, warte, Antwort, deine]
-        answer: [1, 0, 2, 3, 4]
+        answer: [1, 2, 0, 4, 3]
         note: "Ich warte auf deine Antwort."
       - tiles: [über, ärgert, sich, Bruno, langsame, die, Verbindung]
-        answer: [2, 0, 1, 3, 4, 5, 6]
+        answer: [3, 1, 2, 0, 5, 4, 6]
         note: "Bruno ärgert sich über die langsame Verbindung."
       - tiles: [für, interessierst, du, dich, Podcasts, "?"]
-        answer: [3, 0, 1, 2, 4, 5]
+        answer: [1, 2, 3, 0, 4, 5]
         note: "Interessierst du dich für Podcasts?"
       - tiles: [über, wir, Medien, sprechen, oft]
-        answer: [3, 0, 1, 2, 4]
+        answer: [1, 3, 4, 0, 2]
         note: "Wir sprechen oft über Medien."
       - tiles: [an, Anna, denkt, Eltern, ihre]
-        answer: [2, 0, 3, 1, 4]
+        answer: [1, 2, 0, 4, 3]
         note: "Anna denkt an ihre Eltern."
       - tiles: [auf, ich, E-Mail, Ihre, antworte, gerne]
-        answer: [3, 0, 2, 4, 1, 5]
+        answer: [1, 4, 5, 0, 3, 2]
         note: "Ich antworte gerne auf Ihre E-Mail."
-      - tiles: [nach, die Apothekerin, Steinmeyer, Herr, fragt, dem, Rezept]
-        answer: [4, 0, 2, 1, 3, 5, 6]
+      - tiles: [nach, Herrn, dem, Rezept, fragt, Steinmeyer, "Die Apothekerin"]
+        answer: [6, 4, 1, 5, 0, 2, 3]
         note: "Die Apothekerin fragt Herrn Steinmeyer nach dem Rezept."
       - tiles: [sich, freut, über, sie, Nachricht, die, neue]
-        answer: [3, 0, 2, 1, 4, 5, 6]
+        answer: [3, 1, 0, 2, 5, 6, 4]
         note: "Sie freut sich über die neue Nachricht."
 
   - id: B5

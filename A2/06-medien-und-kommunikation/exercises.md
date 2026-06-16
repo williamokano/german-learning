@@ -32,7 +32,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Three words in the box are not needed.
+Listen and fill in the 6 missing words. Four words in the box are not needed.
 
 > Yuki wohnt in München und (1) ______ sich sehr für japanische und deutsche Podcasts. Heute (2) ______ sie auf eine wichtige (3) ______ von ihrer Universität. Sie hat gestern nach dem Termin für ihre (4) ______ gefragt und (5) ______ auf eine schnelle Antwort. Während sie wartet, (6) ______ sie an ihre Freundin in Osaka und erzählt ihr von ihrem Alltag in Deutschland.
 
@@ -262,7 +262,7 @@ Build a correct sentence from the scrambled words.
 4. über – Medien – wir – oft – sprechen
 5. Eltern – an – ihre – denkt – Anna
 6. ich – Ihre – E-Mail – gerne – antworte – auf
-7. fragt – Herr – nach – dem – die Apothekerin – Steinmeyer – Rezept
+7. fragt – Rezept – nach – Steinmeyer – Herrn – dem – Die Apothekerin
 8. Nachricht – die – über – freut – sich – sie – neue
 
 ## Übung B5 — Fragen schreiben
