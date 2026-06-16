@@ -377,7 +377,7 @@ exercises:
       3. Sie mag ihr{5} alt{6} Hut nicht. (m, Akk)
       4. Ich helfe mein{7} klein{8} Bruder. (m, Dat)
       5. Er trägt sein{9} elegant{10} Anzug. (m, Akk)
-      6. Das ist ihr{11} schön{12} Kleid. (n, Nom)
+      6. Das ist ihr{11} schön{12} Jacke. (f, Nom)
       7. Wir besuchen unser{13} alt{14} Freunde. (pl., Akk)
       8. Sie fährt mit ihr{15} neu{16} Auto. (n, Dat)
     answers:
@@ -391,8 +391,8 @@ exercises:
       "8": en
       "9": en
       "10": en
-      "11": ""
-      "12": es
+      "11": e
+      "12": e
       "13": e
       "14": en
       "15": em
@@ -514,7 +514,7 @@ exercises:
     left:
       - { key: "1", text: "Wie findest du das rote Kleid?" }
       - { key: "2", text: "Kaufst du den schwarzen Pullover?" }
-      - { key: "3", text: "Womit fährst du zur Party?" }
+      - { key: "3", text: "Womit kombinierst du das Hemd?" }
       - { key: "4", text: "Hast du einen roten Schal?" }
       - { key: "5", text: "Passt die weiße Bluse zur Hose?" }
       - { key: "6", text: "Wem hilfst du?" }
@@ -728,8 +728,8 @@ exercises:
         options:
           - { key: a, text: "absolute" }
           - { key: b, text: "absoluter" }
-          - { key: c, text: "absolute" }
-        answer: c
+          - { key: c, text: "absolutes" }
+        answer: a
         why: "Nom Fem indef. (meine = poss): meine absolute → -e."
       - q: "Im Laden hat mir eine (3) ____ Verkäuferin geholfen."
         options:

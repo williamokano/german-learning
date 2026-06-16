@@ -71,7 +71,7 @@
 
 ## Übung A10 — Possessiva: mein/dein/sein/ihr + Adjektiv
 
-1. **en**  2. **en**  3. **e**  4. **e**  5. **en**  6. **en**  7. **em**  8. **en**  9. **en**  10. **en**  11. ****  12. **es**  13. **e**  14. **en**  15. **em**  16. **en**
+1. **en**  2. **en**  3. **e**  4. **e**  5. **en**  6. **en**  7. **em**  8. **en**  9. **en**  10. **en**  11. **e**  12. **e**  13. **e**  14. **en**  15. **em**  16. **en**
 
 ## Übung A11 — Substitutionsübung
 
@@ -175,7 +175,7 @@ Selbstkorrektur:
 ## Übung C2 — Sprachbausteine Teil 1
 
 1. **a) neuen** — Akk Mask def.: einen neuen Mantel → -en.
-2. **c) absolute** — Nom Fem indef. (meine = poss): meine absolute → -e.
+2. **a) absolute** — Nom Fem indef. (meine = poss): meine absolute → -e.
 3. **b) freundliche** — Nom Fem indef.: eine freundliche → -e.
 4. **a) schönes** — Nom/Akk Neut indef.: ein schönes → -es.
 5. **a) neuen** — Dat Neut def. (mit dem): dem neuen Outfit → -en.

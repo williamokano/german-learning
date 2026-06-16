@@ -202,7 +202,7 @@ Add the correct possessive ending AND the adjective ending. Each item has two ga
 3. Sie mag ihr______ alt______ Hut nicht. (m, Akk)
 4. Ich helfe mein______ klein______ Bruder. (m, Dat)
 5. Er trägt sein______ elegant______ Anzug. (m, Akk)
-6. Das ist ihr______ schön______ Kleid. (n, Nom)
+6. Das ist ihr______ schön______ Jacke. (f, Nom)
 7. Wir besuchen unser______ alt______ Freunde. (pl., Akk)
 8. Sie fährt mit ihr______ neu______ Auto. (n, Dat)
 
@@ -269,7 +269,7 @@ Each sentence has exactly one mistake in the adjective ending. Write the correct
 |---|---|---|
 | 1. Wie findest du das rote Kleid? | | a) Ja, der schwarze ist sehr schick. |
 | 2. Kaufst du den schwarzen Pullover? | | b) Mit der neuen Jacke. |
-| 3. Womit fährst du zur Party? | | c) Nein, einen grünen. |
+| 3. Womit kombinierst du das Hemd? | | c) Nein, einen grünen. |
 | 4. Hast du einen roten Schal? | | d) Ich finde das blaue schöner. |
 | 5. Passt die weiße Bluse zur Hose? | | e) Meinem alten Onkel. |
 | 6. Wem hilfst du? | | f) Ja, perfekt! |
@@ -375,7 +375,7 @@ ist aus ______ Seide und passt gut zum ______ Kleid.
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Ich habe gestern einen (1) ____ Mantel gekauft.  a) neuen  b) neue  c) neuer
-2. Er ist dunkelblau — das ist meine (2) ____ Lieblingsfarbe.  a) absolute  b) absoluter  c) absolute
+2. Er ist dunkelblau — das ist meine (2) ____ Lieblingsfarbe.  a) absolute  b) absoluter  c) absolutes
 3. Im Laden hat mir eine (3) ____ Verkäuferin geholfen.  a) freundlichen  b) freundliche  c) freundlicher
 4. Sie hat mir auch ein (4) ____ weißes Hemd gezeigt.  a) schönes  b) schöne  c) schöner
 5. Mit dem (5) ____ Outfit sehe ich wirklich gut aus.  a) neuen  b) neue  c) neues
