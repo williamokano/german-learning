@@ -198,7 +198,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Schnelltest: Eine Lücke pro B1-Grammatikthema (15 Punkte)
 
-1. **war**  2. **wartete**  3. **trotzdem**  4. **obwohl**  5. **hätte**  6. **wurde**  7. **vorgelesen**  8. **für das**  9. **der**  10. **darauf**  11. **darauf**  12. **wann**  13. **sowohl**  14. **als auch**  15. **bewerbe**
+1. **war**  2. **wartete**  3. **trotzdem**  4. **obwohl**  5. **hätte**  6. **wurde**  7. **vorgelesen**  8. **für das**  9. **um**  10. **der**  11. **darauf**  12. **wann**  13. **sowohl**  14. **als auch**  15. **bewerbe**
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht! (B1-Wiederholung)
 
