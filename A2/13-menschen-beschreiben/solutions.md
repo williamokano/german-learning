@@ -250,7 +250,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Schnelltest
 
-1. **der**  2. **die**  3. **das**  4. **die**  5. **der**  6. **die**  7. **den**  8. **den**  9. ****  10. **er**  11. **Neffen**  12. **wird**  13. **Könnten**  14. **e**  15. **der**
+1. **der**  2. **die**  3. **das**  4. **die**  5. **der**  6. **die**  7. **den**  8. **den**  9. ****  10. **er**  11. **Neffen**  12. **wird**  13. **Könnten**  14. **e**  15. **der**  16. **die**
 
 ## Übung D2 — Odd-one-out
 
@@ -263,7 +263,7 @@ Selbstkorrektur:
 
 ## Übung D3 — Rückblick: frühere Lektionen
 
-1. **den**  2. **ein**  3. **freundlicher**  4. **kluge**  5. **wirst**  6. **machen**  7. **werden**  8. **Könnten**  9. **hätte**  10. **Großvater**
+1. **den**  2. **ein**  3. **freundlicher**  4. **kluge**  5. **wirst**  6. **machen**  7. **werden**  8. **Könnten**  9. **hätte**  10. **Großvater**  11. **Kinder**
 
 ## Übung D4 — Selbsttest (/20)
 

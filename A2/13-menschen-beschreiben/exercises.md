@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Three words in the box are not needed.
+Listen and fill in the 6 missing words. Four words in the box are not needed.
 
 > Meine Freundin Lena wohnt in (1) ______. Sie ist (2) ______ Jahre alt
 > und studiert (3) ______. Sie hat lange (4) ______ Haare und blaue
@@ -417,7 +417,7 @@ Fill each gap with the correct word. Items marked (L…) review an earlier lesso
 12. ______ Sie mir bitte helfen? (Konjunktiv II, können) (L9)
 13. Er hat kurze, grau______ Haare und blaue Augen. (L13)
 14. Das ist die Person, ______ ich am meisten vertraue. (Dativ — tricky! Skip if unsure.)
-15. Das ist die Freundin, ___ ich gestern angerufen habe.
+15. Das ist die Freundin, ______ ich gestern angerufen habe.
 
 ## Übung D2 — Odd-one-out
 
@@ -452,7 +452,7 @@ Review of earlier lessons. 10 items.
 
 **Aus Lektion A1/L2 (Familie):**
 9. Der Vater meines Vaters ist mein ______.
-10. Die ___ meiner Schwester sind meine Neffen und Nichten.
+10. Die ______ meiner Schwester sind meine Neffen und Nichten.
 
 ## Übung D4 — Selbsttest (/20)
 

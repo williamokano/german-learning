@@ -75,7 +75,7 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Listen and fill in the 6 missing words. Four words in the box are not needed."
     text: |
       Meine Freundin Lena wohnt in {1}. Sie ist {2} Jahre alt
       und studiert {3}. Sie hat lange {4} Haare und blaue
@@ -749,7 +749,7 @@ exercises:
       12. {13} Sie mir bitte helfen? (Konjunktiv II, können) (L9)
       13. Er hat kurze, grau{14} Haare und blaue Augen. (L13)
       14. Das ist die Person, {15} ich am meisten vertraue. (Dativ — tricky! Skip if unsure.)
-      15. Das ist die Freundin, ___ ich gestern angerufen habe.
+      15. Das ist die Freundin, {16} ich gestern angerufen habe.
     answers:
       "1": der
       "2": die
@@ -766,6 +766,7 @@ exercises:
       "13": Könnten
       "14": e
       "15": der
+      "16": die
 
   - id: D2
     block: D
@@ -817,7 +818,7 @@ exercises:
 
       **Aus Lektion A1/L2 (Familie):**
       9. Der Vater meines Vaters ist mein {10}.
-      10. Die ___ meiner Schwester sind meine Neffen und Nichten.
+      10. Die {11} meiner Schwester sind meine Neffen und Nichten.
     answers:
       "1": den
       "2": ein
@@ -829,6 +830,7 @@ exercises:
       "8": Könnten
       "9": hätte
       "10": Großvater
+      "11": Kinder
 
   - id: D4
     block: D
