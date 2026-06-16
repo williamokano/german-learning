@@ -52,7 +52,7 @@
 
 ## Übung A5 — Plusquamperfekt: 'had done'
 
-1. **hatte**  2. **gefunden**  3. **beendet hatte**  4. **war**  5. **gezogen**  6. **hatte sich verliebt**
+1. **hatte**  2. **gefunden**  3. **beendet hatte**  4. **zog**  5. **verliebte sich**
 
 ## Übung A6 — Mini-Story: 5 Sätze im Präteritum
 
@@ -255,7 +255,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-1. **war**  2. **musste**  3. **wusste**  4. **war**  5. **hatte**  6. **Zuerst**  7. **Dann**  8. **Damals**  9. **Früher**  10. **an**  11. **Ich hatte eine kleine Wohnung.**  12. **Wir zogen 2015 nach Wien.**  13. **Bevor ich nach Berlin kam, hatte ich in München studiert.**  14. **(any 3-sentence mini-story in Präteritum)**  15. **—**  16. **—**  17. **arbeitete**  18. **ihm**  19. **hätte**  20. **in die**  21. **—**
+1. **war**  2. **musste**  3. **wusste**  4. **war**  5. **hatte**  6. **Zuerst**  7. **Dann**  8. **Damals**  9. **Früher**  10. **an**  11. **Ich hatte eine kleine Wohnung.**  12. **Wir zogen 2015 nach Wien.**  13. **Bevor ich nach Berlin kam, hatte ich in München studiert.**  14. **(any 3-sentence mini-story in Präteritum)**  15. **—**  16. **—**  17. **arbeitete**  18. **ihm**  19. **hätte**  20. **in die**  21. **Bevor ich nach Berlin kam, hatte ich nie Deutsch gesprochen.**
 
 ---
 

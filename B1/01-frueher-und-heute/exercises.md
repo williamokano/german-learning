@@ -128,7 +128,7 @@ Put the verb in brackets into Präteritum. 6 items.
 Fill in the correct Plusquamperfekt form. 6 items.
 
 1. Bevor ich nach Berlin kam, ______ (ich) schon einen Job ______ (finden). (finden)
-2. Nachdem sie das Studium ______ (beenden), ______ (sein) sie nach München ______ (ziehen). (beenden, ziehen)
+2. Nachdem sie das Studium ______ (beenden), ______ (ziehen) sie nach München. (beenden, ziehen)
 3. Er ______ (sich verlieben) in sie, nachdem er sie zum ersten Mal gesehen hatte. (verlieben)
 
 ## Übung A6 — Mini-Story: 5 Sätze im Präteritum
@@ -186,7 +186,7 @@ Choose the correct form (Präteritum or Präsens). 6 items.
 
 ## Übung B1 — Dialog ergänzen: Erinnerungen an das Studium
 
-Fill in the 10 blanks with the correct Präteritum form.
+Fill in the 10 blanks with the correct verb form (Präteritum or Präsens as context requires).
 
 > — Weißt du noch, wie das (1) ______ (sein) damals im Studium?
 > — Ja, wir (2) ______ (haben) kaum Geld und (3) ______ (müssen) jeden Tag
@@ -324,7 +324,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. Ten words are not needed. Each word may be used once.
+Fill the 10 gaps using words from the box. Eleven words are not needed. Each word may be used once.
 
 > Lukas erzählt von seinem alten Fotoalbum: „Damals (1) (1) ______ ich 26
 > und (2) (2) ______ gerade meinen ersten Job (3) (3) ______. Ich (4) (4) ______ ein
@@ -333,7 +333,7 @@ Fill the 10 gaps using words from the box. Ten words are not needed. Each word m
 > schlimm. Nachdem ich (8) (8) ______ nach Berlin (9) (9) ______, (10) (10) ______ ich
 > drei Jahre lang jeden Tag mit dem Bus."
 
-> ARBEITEN · BEGONNEN · BIN · FAND · FUHR · GEZOGEN · GING · HATTE · HÄTTE · KAM · KONNTE · LEBTE · MUSSTE · WAR · WAR · WAR · WISSEN · WOHNTEN · WOLLTE · WURDE
+> ARBEITEN · BEGONNEN · BIN · FAND · FUHR · GEZOGEN · GING · HATTE · HATTE · HÄTTE · KAM · KONNTE · LEBTE · MUSSTE · WAR · WAR · WAR · WISSEN · WOHNTEN · WOLLTE · WURDE
 
 Five words are not needed.
 
@@ -404,7 +404,7 @@ One minute per item. No notes. Items marked (L<n>) review an earlier lesson. 15 
 10. (A1/11) Perfekt of fahren: ______
 11. Translate: „I was 22 when I moved to Berlin." → ______
 12. Translate: „We had a small apartment." → ______
-13. (A2/06) ______ (sich interessieren an + Dat. — A2/06) du dich für Politik?
+13. (A2/06) ______ (sich interessieren für + Akk. — A2/06) du dich für Politik?
 14. (A2/10) „Ich fahre ______ Spanien." (nach / in die)
 15. (A2/09) Konjunktiv II of haben, ich-form: ______
 
@@ -475,6 +475,6 @@ Review of earlier lessons. 10 items.
 17. (A2/11) Akkusativ + Dativ Pronomen: „Ich gebe es ______." (ihm / ihr / ihnen)
 18. (A2/09) Konjunktiv II: „Ich ______ gern einen Kaffee." (hätte / wäre / würde)
 19. (A2/10) „Ich fahre ______ Schweiz." (nach / in die)
-20. ______
+20. Translate: 'Before I came to Berlin, I had never spoken German.' → ______
 
 _16+ / 20 → Lektion B1/02. Below 16 → redo Block A (A1–A4) and Block B2 (Finde den Fehler) tomorrow, then retest D4._

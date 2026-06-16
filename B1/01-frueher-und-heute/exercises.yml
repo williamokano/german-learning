@@ -236,15 +236,14 @@ exercises:
     instructions: "Fill in the correct Plusquamperfekt form. 6 items."
     text: |
       1. Bevor ich nach Berlin kam, {1} (ich) schon einen Job {2} (finden). (finden)
-      2. Nachdem sie das Studium {3} (beenden), {4} (sein) sie nach München {5} (ziehen). (beenden, ziehen)
-      3. Er {6} (sich verlieben) in sie, nachdem er sie zum ersten Mal gesehen hatte. (verlieben)
+      2. Nachdem sie das Studium {3} (beenden), {4} (ziehen) sie nach München. (beenden, ziehen)
+      3. Er {5} (sich verlieben) in sie, nachdem er sie zum ersten Mal gesehen hatte. (verlieben)
     answers:
       "1": hatte
       "2": gefunden
       "3": beendet hatte
-      "4": war
-      "5": gezogen
-      "6": hatte sich verliebt
+      "4": zog
+      "5": verliebte sich
 
   - id: A6
     block: A
@@ -342,7 +341,7 @@ exercises:
     block: B
     type: gap-bank
     title: "Dialog ergänzen: Erinnerungen an das Studium"
-    instructions: "Fill in the 10 blanks with the correct Präteritum form."
+    instructions: "Fill in the 10 blanks with the correct verb form (Präteritum or Präsens as context requires)."
     text: |
       — Weißt du noch, wie das {1} (sein) damals im Studium?
       — Ja, wir {2} (haben) kaum Geld und {3} (müssen) jeden Tag
@@ -624,7 +623,7 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word may be used once."
+    instructions: "Fill the 10 gaps using words from the box. Eleven words are not needed. Each word may be used once."
     text: |
       Lukas erzählt von seinem alten Fotoalbum: „Damals (1) {1} ich 26
       und (2) {2} gerade meinen ersten Job (3) {3}. Ich (4) {4} ein
@@ -632,7 +631,7 @@ exercises:
       Arbeit. Die Wohnung (6) {6} klein, aber ich (7) {7} das nicht
       schlimm. Nachdem ich (8) {8} nach Berlin (9) {9}, (10) {10} ich
       drei Jahre lang jeden Tag mit dem Bus."
-    bank: [WAR, HATTE, BEGONNEN, WAR, FUHR, WAR, FAND, BIN, GEZOGEN, MUSSTE, KONNTE, WOLLTE, WURDE, HÄTTE, WISSEN, ARBEITEN, WOHNTEN, LEBTE, GING, KAM]
+    bank: [WAR, HATTE, HATTE, BEGONNEN, WAR, FUHR, WAR, FAND, BIN, GEZOGEN, MUSSTE, KONNTE, WOLLTE, WURDE, HÄTTE, WISSEN, ARBEITEN, WOHNTEN, LEBTE, GING, KAM]
     answers:
       "1": WAR
       "2": HATTE
@@ -761,7 +760,7 @@ exercises:
       10. (A1/11) Perfekt of fahren: {13}
       11. Translate: „I was 22 when I moved to Berlin." → {14}
       12. Translate: „We had a small apartment." → {15}
-      13. (A2/06) {16} (sich interessieren an + Dat. — A2/06) du dich für Politik?
+      13. (A2/06) {16} (sich interessieren für + Akk. — A2/06) du dich für Politik?
       14. (A2/10) „Ich fahre {17} Spanien." (nach / in die)
       15. (A2/09) Konjunktiv II of haben, ich-form: {18}
     answers:
@@ -884,7 +883,7 @@ exercises:
       17. (A2/11) Akkusativ + Dativ Pronomen: „Ich gebe es {18}." (ihm / ihr / ihnen)
       18. (A2/09) Konjunktiv II: „Ich {19} gern einen Kaffee." (hätte / wäre / würde)
       19. (A2/10) „Ich fahre {20} Schweiz." (nach / in die)
-      20. {21}
+      20. Translate: 'Before I came to Berlin, I had never spoken German.' → {21}
     answers:
       "1": war
       "2": musste
@@ -906,4 +905,4 @@ exercises:
       "18": "ihm"
       "19": hätte
       "20": "in die"
-      "21": "—"
+      "21": "Bevor ich nach Berlin kam, hatte ich nie Deutsch gesprochen."
