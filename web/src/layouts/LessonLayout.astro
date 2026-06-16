@@ -2,8 +2,10 @@
 interface Props {
   title: string;
   level: string;
+  hasShort?: boolean;
+  shortTitle?: string;
 }
-const { title, level } = Astro.props;
+const { title, level, hasShort = false, shortTitle = '' } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const displayLevel = level.toUpperCase();
 ---
@@ -14,7 +16,6 @@ const displayLevel = level.toUpperCase();
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <title>{title}</title>
-    <!-- is:global so slot/markdown content is styled (Astro doesn't add cid to slot HTML) -->
     <style is:global>
       *, *::before, *::after { box-sizing: border-box; }
       body {
@@ -32,12 +33,41 @@ const displayLevel = level.toUpperCase();
         align-items: center;
         gap: 0.5rem;
         font-size: 0.875rem;
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
         flex-wrap: wrap;
         color: #6b7280;
       }
       .lesson-nav a { color: #2563eb; text-decoration: none; }
       .lesson-nav a:hover { text-decoration: underline; }
+
+      .view-toggle {
+        display: inline-flex;
+        margin-left: auto;
+        border: 1px solid #d1d5db;
+        border-radius: 999px;
+        padding: 2px;
+        background: #f9fafb;
+        font-size: 0.8rem;
+      }
+      .view-toggle button {
+        border: none;
+        background: transparent;
+        padding: 0.3rem 0.85rem;
+        border-radius: 999px;
+        cursor: pointer;
+        color: #4b5563;
+        font-weight: 500;
+        font-size: 0.8rem;
+        transition: background 0.12s, color 0.12s;
+      }
+      .view-toggle button[aria-pressed="true"] {
+        background: #2563eb;
+        color: #fff;
+      }
+      .view-toggle button:hover:not([aria-pressed="true"]) {
+        background: #e5e7eb;
+        color: #1a1a1a;
+      }
 
       table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: 0.95rem; }
       th, td { border: 1px solid #d1d5db; padding: 0.4rem 0.75rem; text-align: left; }
@@ -60,6 +90,24 @@ const displayLevel = level.toUpperCase();
       }
       blockquote.merkasten > p:first-child { font-weight: 700; margin-bottom: 0.5rem; }
       blockquote.merkasten table { margin: 0.5rem 0; }
+
+      blockquote.lerntipp {
+        border-left: 4px solid #f59e0b;
+        background: #fffbeb;
+        padding: 0.8rem 1.25rem;
+        border-radius: 0 8px 8px 0;
+        margin: 1.5rem 0;
+      }
+      blockquote.lerntipp > p:first-child { font-weight: 700; margin-bottom: 0.4rem; color: #92400e; }
+
+      blockquote.haeufige-fehler {
+        border-left: 4px solid #dc2626;
+        background: #fef2f2;
+        padding: 0.8rem 1.25rem;
+        border-radius: 0 8px 8px 0;
+        margin: 1.5rem 0;
+      }
+      blockquote.haeufige-fehler > p:first-child { font-weight: 700; margin-bottom: 0.4rem; color: #991b1b; }
 
       details { margin: 1rem 0; }
       details summary { cursor: pointer; font-weight: 600; padding: 0.4rem 0; color: #374151; }
@@ -109,21 +157,67 @@ const displayLevel = level.toUpperCase();
       hr { border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0; }
     </style>
   </head>
-  <body>
+  <body data-has-short={hasShort ? 'true' : 'false'}>
     <nav class="lesson-nav">
       <a href={`${base}/`}>Startseite</a>
       <span>›</span>
       <a href={`${base}/${level}/`}>{displayLevel}</a>
       <span>›</span>
       <span>{title}</span>
+      {hasShort && (
+        <div class="view-toggle" role="group" aria-label="Lektionsansicht wechseln">
+          <button type="button" data-view-btn="full" aria-pressed="true">Ausführlich</button>
+          <button type="button" data-view-btn="short" aria-pressed="false">Kurzfassung</button>
+        </div>
+      )}
     </nav>
     <article>
       <slot />
     </article>
 
-    <!-- audio-play web component — Vite inlines import.meta.env.BASE_URL at build time -->
     <script>
       import '../scripts/audio-play.js';
     </script>
+    {hasShort && (
+      <script is:inline>
+        (function () {
+          var STORAGE_KEY = 'germanLessonView';
+          var fullSection = document.querySelector('section[data-view="full"]');
+          var shortSection = document.querySelector('section[data-view="short"]');
+          var fullBtn = document.querySelector('[data-view-btn="full"]');
+          var shortBtn = document.querySelector('[data-view-btn="short"]');
+          if (!fullSection || !shortSection || !fullBtn || !shortBtn) return;
+
+          function readView() {
+            var fromUrl = null;
+            try {
+              var params = new URLSearchParams(window.location.search);
+              var v = params.get('view');
+              if (v === 'full' || v === 'short') fromUrl = v;
+            } catch (e) { /* SSR: window may be unavailable in inline scripts, but this runs client-side */ }
+            var fromStorage = null;
+            try { fromStorage = localStorage.getItem(STORAGE_KEY); } catch (e) {}
+            return fromUrl || fromStorage || 'full';
+          }
+
+          function applyView(view) {
+            var isFull = view !== 'short';
+            fullSection.hidden = !isFull;
+            shortSection.hidden = isFull;
+            fullBtn.setAttribute('aria-pressed', isFull ? 'true' : 'false');
+            shortBtn.setAttribute('aria-pressed', isFull ? 'false' : 'true');
+          }
+
+          function persistView(view) {
+            try { localStorage.setItem(STORAGE_KEY, view); } catch (e) {}
+          }
+
+          applyView(readView());
+
+          fullBtn.addEventListener('click', function () { applyView('full'); persistView('full'); });
+          shortBtn.addEventListener('click', function () { applyView('short'); persistView('short'); });
+        })();
+      </script>
+    )}
   </body>
 </html>

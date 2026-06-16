@@ -15,7 +15,12 @@ Menschen / Schritte international neu (Hueber) and Sicher! / Aspekte neu.
 - **[tasks/lessons.md](tasks/lessons.md)** — long-term conventions log (the "rules for ourselves" file)
 - **`personas/`** — character bible: name, nationality, voice, family for every recurring character
 - **`A1/`, `A2/`, …** — one folder per topic:
-  - `lesson.md` — the class (dialogues, vocabulary, grammar, phrases)
+  - `lesson.md` — the **Full** v2 prose lesson (dialogues, continuous prose,
+    reasoning, examples, tips, traps, Landeskunde, mini-stories). Default
+    view on the web. See `docs/lesson-v2-spec.md` and `AUTHORING-V2.md`.
+  - `lesson-short.md` — the **Short** analytical reference (current format:
+    tables, Merkasten, Redemittel, rule + 1 example). Appears as a toggle
+    on the web when present. See `AUTHORING.md`.
   - `exercises.yml` — single source of truth for the H/A/B/C/D exercise
     battery (structured YAML with answers)
   - `exercises.md` — *generated* from `exercises.yml` via
@@ -105,9 +110,37 @@ Voice assignments and background-noise settings live in `scripts/audio_config.js
 ## How to study
 
 1. Read `lesson.md` actively (say the dialogues out loud).
+   - If you prefer a quick-reference style, click the **Kurzfassung** toggle
+     in the page header to switch to the Short view.
+   - The choice persists across lessons in `localStorage`. Use
+     `?view=short` / `?view=full` URL params to deep-link either view.
 2. Do `exercises.md` without peeking at the lesson.
    - For Hören sections: play the MP3 linked above each transcript (`audio/` folder).
 3. Check with `solutions.md`; ≥ 80% → next topic, otherwise review and redo.
 4. One topic per week is a solid pace.
+
+### Dual-mode lessons (v2)
+
+A1/01 is the **reference implementation** of the v2 dual-mode design. Each
+lesson directory may now contain:
+
+- `lesson.md` — the **Full** prose version (~700 lines for A1/01). The
+  default view. Has 11 sections including a *Mini-Geschichte* (continuous
+  prose story), *Warum?* (reasoning) paragraphs for every grammar point,
+  *Häufige Fehler* (L1 interference) boxes, *Lerntipps* (mnemonics),
+  *Versuch es selbst* mid-lesson micro-prompts, and *Magazin — Landeskunde*
+  (cultural aside).
+- `lesson-short.md` — the **Short** analytical reference (~330 lines for
+  A1/01). The v1 format unchanged. Tables, Merkasten, Redemittel, rule + 1
+  example.
+
+The web page shows a small `Ausführlich ⇄ Kurzfassung` toggle in the header
+when both files exist. When only one exists, the page is single-view.
+
+The design rationale and section-by-section spec are in
+[`docs/lesson-v2-spec.md`](docs/lesson-v2-spec.md). The "how to write one"
+guide is in [`AUTHORING-V2.md`](AUTHORING-V2.md). Migration of the existing
+A1/A2 lessons is in progress; new B1+ lessons will be authored in v2 from
+day one.
 
 **Current status:** A1 (14/14) + A2 (14/14) complete — **28 lessons total, A2 level done!** B1 is next. See `MEMORY.md` for the resume instructions.

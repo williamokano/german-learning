@@ -5,6 +5,9 @@ description: >
   compliance, and answer accuracy — then regenerate, validate, commit, and push.
   Auto-invoke whenever the user says "review lesson", "check lesson", or names
   a specific lesson directory for review.
+  When the lesson ships both `lesson.md` (v2 Full) and `lesson-short.md`
+  (v1 Short), also verify the two files agree on dialogs, Hörtext, and
+  Wortschatz — see the "Dual-mode drift checks" section below.
 triggers:
   - "review lesson"
   - "review B1/"
@@ -328,6 +331,46 @@ npx tsx build/gen-exercises.ts --all --check
 ```
 
 After fixing, always run the lesson-level check before committing. Run `--all --check` before pushing if touching multiple lessons.
+
+---
+
+## Dual-mode drift checks (v2)
+
+When a lesson directory contains **both** `lesson.md` (v2 Full) and
+`lesson-short.md` (v1 Short), the two files must agree on three things —
+otherwise the audio pipeline (which reads `lesson.md`) and the Short view
+(which a learner may switch to) will be out of sync. Drift between them is a
+silent bug.
+
+1. **Dialog text.** For each `## 1. Dialog` and `### Dialog A/B` block, the
+   speaker turns must be **word-for-word identical** between the two files.
+   Extract every `> **Speaker:** Text  ` line from each file (after stripping
+   the trailing double-spaces) and `diff` them. Any divergence is a bug.
+2. **Hörtext transcript.** The blockquote inside the `<details>` spoiler of
+   `## 6. Hörtext` (Short) / `## 8. Hörtext` (Full) must match. Same diff.
+3. **Wortschatz nouns.** Every noun in the Short view's Wortschatz tables
+   must appear (with the same article and plural form) in the Full view's
+   Wortschatz. A noun in Short that is missing from Full is acceptable (Short
+   is a subset of Full is not required); a noun in Full that is missing from
+   Short is **also** acceptable (Full adds vocab). The forbidden case is
+   **divergent form** — *die Schweiz* in Short and *das Schweiz* in Full is
+   a bug.
+
+A small helper:
+
+```bash
+# Compare dialog turns between Full and Short (A1/01 example)
+diff \
+  <(grep -E '^> \*\*[A-Z][a-z]+(\s\([a-zäöü]+\))?:\*\*' A1/01-erste-kontakte/lesson.md \
+    | sed -E 's/  $//') \
+  <(grep -E '^> \*\*[A-Z][a-z]+(\s\([a-zäöü]+\))?:\*\*' A1/01-erste-kontakte/lesson-short.md \
+    | sed -E 's/  $//')
+```
+
+Empty output = dialogs agree. Any line = divergence, fix both files.
+
+The drift checks are **advisory** (the skill does not block on them) but
+should be run before every commit that touches a lesson directory.
 
 ---
 

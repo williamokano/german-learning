@@ -3,23 +3,32 @@ import { getCollection, render } from 'astro:content';
 import LessonLayout from '../../../layouts/LessonLayout.astro';
 
 export async function getStaticPaths() {
-  const [allLessons, allExercises] = await Promise.all([
+  const [allLessons, allShort, allExercises] = await Promise.all([
     getCollection('lessons'),
+    getCollection('lessons-short'),
     getCollection('exercises'),
   ]);
-  const exerciseIds = new Set(allExercises.map(e => e.id.split('/').slice(0, 2).join('/')));
 
   return allLessons.map(entry => {
     const parts = entry.id.split('/');
-    const lessonKey = `${parts[0]}/${parts[1]}`;
+    const level = parts[0] ?? 'a1';
+    const slug = parts[1] ?? entry.id;
+    const lessonKey = `${level}/${slug}`;
+    const shortId = `${level}/${slug}/lesson-short`;
+    const shortEntry = allShort.find(e => e.id === shortId) ?? null;
     return {
-      params: { level: parts[0], lesson: parts[1] },
-      props:  { entry, hasExercises: exerciseIds.has(lessonKey) },
+      params: { level, lesson: slug },
+      props: {
+        entry,
+        hasExercises: allExercises.some(e => e.id.startsWith(lessonKey + '/')),
+        hasShort: shortEntry !== null,
+        shortEntry,
+      },
     };
   });
 }
 
-const { entry, hasExercises } = Astro.props;
+const { entry, hasExercises, hasShort, shortEntry } = Astro.props;
 const { level, lesson } = Astro.params;
 
 const title =
@@ -28,11 +37,29 @@ const title =
         .replace(/\b\w/g, c => c.toUpperCase());
 
 const { Content } = await render(entry);
+const { Content: ShortContent } = shortEntry
+  ? await render(shortEntry)
+  : { Content: null };
+
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
-<LessonLayout {title} level={level}>
-  <Content />
+<LessonLayout
+  {title}
+  {level}
+  {hasShort}
+  shortTitle={`${title} — Kurzfassung`}
+>
+  <section data-view="full">
+    <Content />
+  </section>
+
+  {hasShort && ShortContent && (
+    <section data-view="short" hidden>
+      <ShortContent />
+    </section>
+  )}
+
   {hasExercises && (
     <nav class="exercises-cta">
       <a href={`${base}/${level}/${lesson}/uebungen/`} class="btn-uebungen">

@@ -18,9 +18,14 @@ const lessons = defineCollection({
   schema: lessonSchema,
 });
 
+const lessonsShort = defineCollection({
+  loader: glob({ pattern: '*/*/lesson-short.{md,mdx}', base: '../' }),
+  schema: lessonSchema,
+});
+
 const exercises = defineCollection({
   loader: glob({ pattern: '*/*/exercises.yml', base: '../' }),
   schema: ExerciseSet,
 });
 
-export const collections = { lessons, exercises };
+export const collections = { lessons, 'lessons-short': lessonsShort, exercises };
