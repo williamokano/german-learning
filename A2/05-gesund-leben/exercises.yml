@@ -385,20 +385,20 @@ exercises:
       1. Ich wasche {1}. (mich / das Auto)
       2. Ich wasche {2}. (mich / das Auto) — second variant
       3. Er zieht {3} an. (sich / die Jacke)
-      4. Er zieht {5} an. (sich / die Jacke)
-      5. Anna freut {6} über das Geschenk. (sich / die Jacke)
-      6. Anna kauft {7} ein neues Fahrrad. (sich / die Tasche)
-      7. Wir sehen {8} morgen. (uns / den Film)
-      8. Wir sehen {9} morgen. (uns / den Film) — variant
+      4. Er zieht {4} an. (sich / die Jacke)
+      5. Anna freut {5} über das Geschenk. (sich / die Jacke)
+      6. Anna kauft {6} ein neues Fahrrad. (sich / die Tasche)
+      7. Wir sehen {7} morgen. (uns / den Film)
+      8. Wir sehen {8} morgen. (uns / den Film) — variant
     answers:
       "1": R
       "2": N
       "3": R
-      "5": N
+      "4": N
+      "5": R
       "6": R
       "7": R
-      "8": R
-      "9": N
+      "8": N
 
   # ── Block B — Vertiefung ──────────────────────────────────────────────────
 
@@ -644,8 +644,6 @@ exercises:
       "6": ärgert
       "7":
         - setzt
-        - nimmt
-        - steckt
       "8": sich
       "9": sich
       "10": mehr
@@ -873,8 +871,8 @@ exercises:
       - items: [waschen, anziehen, ausziehen, vorstellen]
         odd: 3
         why: "sich vorstellen = to imagine; the others are body-care routines."
-      - items: [Kopfschmerzen, Bauchschmerzen, Rückenschmerzen, Erkältung, Schlaf]
-        odd: 4
+      - items: [Kopfschmerzen, Bauchschmerzen, Rückenschmerzen, Schlaf]
+        odd: 3
         why: "Schlaf is a general concept; the others are health complaints."
 
   - id: D3

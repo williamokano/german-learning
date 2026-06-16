@@ -97,7 +97,7 @@ Modellantwort:
 
 ## Übung A11 — Reflexiv oder nicht? Entscheiden
 
-1. **R**  2. **N**  3. **R**  5. **N**  6. **R**  7. **R**  8. **R**  9. **N**
+1. **R**  2. **N**  3. **R**  4. **N**  5. **R**  6. **R**  7. **R**  8. **N**
 
 ---
 
@@ -188,7 +188,7 @@ Selbstkorrektur:
 
 ## Übung C1 — Lückentext
 
-1. **auf**  2. **wäscht**  3. **sich**  4. **fühlt**  5. **bewegt**  6. **ärgert**  7. **setzt** (auch richtig: **nimmt**, **steckt**)  8. **sich**  9. **sich**  10. **mehr**
+1. **auf**  2. **wäscht**  3. **sich**  4. **fühlt**  5. **bewegt**  6. **ärgert**  7. **setzt**  8. **sich**  9. **sich**  10. **mehr**
 
 ## Übung C2 — Sprachbausteine Teil 1
 

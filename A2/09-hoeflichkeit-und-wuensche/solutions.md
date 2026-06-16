@@ -43,7 +43,7 @@
 
 ## Übung A3 — `hätte` und `wäre`: Konjugationstabellen
 
-1. **hätte**  2. **hättest**  3. **hätte**  4. **hätten**  5. **hättet**  6. **hätten**  7. **wäre**  8. **wärst**  9. **wäre**  10. **wären**  11. **wäret**  12. **wären**
+1. **hätte**  2. **hättest**  3. **hätte**  4. **hätten**  5. **hättet**  6. **hätten**  7. **wäre**  8. **wärst**  9. **wäre**  10. **wären**  11. **wärt**  12. **wären**
 
 ## Übung A4 — `würde + Infinitiv`: Sätze bilden
 
@@ -75,7 +75,7 @@ Modellantwort:
 
 ## Übung A7 — `wäre`: Lücken füllen
 
-1. **wäre**  2. **wäre**  3. **Wäre**  4. **wäre**  5. **wäre**  6. **Wäret**  7. **wäre**  8. **wäre**
+1. **wäre**  2. **wäre**  3. **Wäre**  4. **wäre**  5. **wäre**  6. **Wärt**  7. **wäre**  8. **wäre**
 
 ## Übung A8 — Welche Form? `würde`, `könnte`, `hätte` oder `wäre`?
 
@@ -256,7 +256,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Gemischter Schnelltest
 
-1. **würdest**  2. **könnten**  3. **hätte**  4. **wäre**  5. **Ich hätte gern einen Kaffee, bitte.**  6. **sein**  7. **können**  8. **Könnten Sie bitte die Rechnung bringen?**  9. **e (schöne)**  10. **arbeiten**  11. **wäret**  12. **würden**  13. **hätte**  14. **auf**  15. **Das wäre sehr nett.**
+1. **würdest**  2. **könnten**  3. **hätte**  4. **wäre**  5. **Ich hätte gern einen Kaffee, bitte.**  6. **sein**  7. **können**  8. **Könnten Sie bitte die Rechnung bringen?**  9. **e (schöne)**  10. **arbeiten**  11. **wärt**  12. **würden**  13. **hätte**  14. **auf**  15. **Das wäre sehr nett.**
 
 ## Übung D2 — Odd one out
 

@@ -434,7 +434,7 @@ Cross out the word that doesn't fit.
 3. mir – dir – sich – ist
 4. Tablette – Apotheke – Rezept – Wecker
 5. waschen – anziehen – ausziehen – vorstellen
-6. Kopfschmerzen – Bauchschmerzen – Rückenschmerzen – Erkältung – Schlaf
+6. Kopfschmerzen – Bauchschmerzen – Rückenschmerzen – Schlaf
 
 ## Übung D3 — Rückblick: Lektionen A1/L9, A1/L10, A2/L3
 

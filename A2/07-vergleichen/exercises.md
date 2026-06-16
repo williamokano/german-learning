@@ -229,7 +229,7 @@ Fill in the blanks with the correct comparative or superlative form. 8 gaps.
 — Das hier ist das ______ (gemütlich, attr. n) Café in der Straße, finde ich.
 — Stimmt! Und der Kaffee hier ist ______ (gut) als im Café Stern.
 — Ja, aber Café Stern ist ______ (billig). Der Kaffee dort kostet fast
-  doppelt so viel ______ hier.
+  halb so viel ______ hier.
 — Hm, Qualität ist mir ______ (wichtig) als der Preis. Ich zahle gerne
   ein bisschen ______ (viel).
 — Du hast recht. Und die Stühle hier sind viel ______ (bequem) als dort!
