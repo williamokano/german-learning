@@ -238,7 +238,7 @@ Each sentence has exactly **one** mistake. Write the corrected sentence.
 7. Ich habe kein Taxi gefunden können. → ______
 8. Das Glas hat zergebrochen. → ______
 9. Wolltest du nach Wien gefahren? → ______
-10. Er hat alles vergessen — er hat einen schlechten Tag gehabt. (Hint: *vergessen* is fine; find the error in the other clause.) → ______
+10. Er hat alles vergessen — er ist einen schlechten Tag gehabt. (Hint: *vergessen* is fine; find the error in the other clause.) → ______
 
 ## Übung B3 — Frage und Antwort verbinden
 
@@ -344,7 +344,7 @@ Letzten Sommer (1) ______ Anna drei Wochen in Russland. Sie hat ihre Familie
 (2) ______ und viele alte Freunde (3) ______. Zuerst ist sie mit dem Zug
 nach Jaroslawl (4) ______. Dann (5) ______ sie eine Woche bei ihren Eltern
 (wohnen). Ihre Mutter (6) ______ jeden Tag ein großes Abendessen (kochen).
-Das hat Anna sehr (7) ______. Am Ende (8) ______ sie, dass sie öfter nach
+Das hat Anna sehr (7) ______. Am Ende (8) ______ sie bemerkt, dass sie öfter nach
 Hause fahren (9) ______. Sie (10) ______ es leider nicht oft genug.
 
 ## Übung C2 — Sprachbausteine Teil 1

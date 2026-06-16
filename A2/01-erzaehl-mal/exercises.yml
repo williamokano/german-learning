@@ -481,7 +481,7 @@ exercises:
       7. Ich habe kein Taxi gefunden können. → {7}
       8. Das Glas hat zergebrochen. → {8}
       9. Wolltest du nach Wien gefahren? → {9}
-      10. Er hat alles vergessen — er hat einen schlechten Tag gehabt. (Hint: *vergessen* is fine; find the error in the other clause.) → {10}
+      10. Er hat alles vergessen — er ist einen schlechten Tag gehabt. (Hint: *vergessen* is fine; find the error in the other clause.) → {10}
     answers:
       "1": "Ich habe meine Freundin besucht."
       "2": "Wir haben in Paris studiert."
@@ -695,7 +695,7 @@ exercises:
       {2} und viele alte Freunde {3}. Zuerst ist sie mit dem Zug
       nach Jaroslawl {4}. Dann {5} sie eine Woche bei ihren Eltern
       (wohnen). Ihre Mutter {6} jeden Tag ein großes Abendessen (kochen).
-      Das hat Anna sehr {7}. Am Ende {8} sie, dass sie öfter nach
+      Das hat Anna sehr {7}. Am Ende {8} sie bemerkt, dass sie öfter nach
       Hause fahren {9}. Sie {10} es leider nicht oft genug.
     answers:
       "1": war
