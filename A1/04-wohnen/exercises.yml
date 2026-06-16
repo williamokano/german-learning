@@ -577,13 +577,13 @@ exercises:
     title: "Satzbau"
     items:
       - tiles: [gibt, einen, es, Balkon]
-        answer: [2, 1, 0, 3]
+        answer: [2, 0, 1, 3]
         note: "Es gibt einen Balkon."
       - tiles: [gefällt, die Wohnung, mir, sehr]
         answer: [1, 0, 2, 3]
         note: "Die Wohnung gefällt mir sehr."
       - tiles: [Zimmer, wie, viele, die Wohnung, hat, "?"]
-        answer: [1, 2, 0, 3, 4, 5]
+        answer: [1, 2, 0, 4, 3, 5]
         note: "Wie viele Zimmer hat die Wohnung?"
       - tiles: [finde, ich, die Küche, schön]
         answer: [1, 0, 2, 3]
@@ -595,16 +595,16 @@ exercises:
         answer: [3, 2, 0, 1, 4]
         note: "Wie findest du das Sofa?"
       - tiles: [keine, es, Garage, gibt]
-        answer: [1, 0, 2, 3]
+        answer: [1, 3, 0, 2]
         note: "Es gibt keine Garage."
       - tiles: [kostet, Euro, die Wohnung, "700"]
-        answer: [2, 3, 0, 1]
+        answer: [2, 0, 3, 1]
         note: "Die Wohnung kostet 700 Euro."
       - tiles: [noch, die Wohnung, frei, ist, "?"]
-        answer: [3, 1, 2, 0, 4]
+        answer: [3, 1, 0, 2, 4]
         note: "Ist die Wohnung noch frei?"
       - tiles: [mir, die Stühle, nicht, gefallen]
-        answer: [1, 3, 2, 0]
+        answer: [1, 3, 0, 2]
         note: "Die Stühle gefallen mir nicht."
 
   - id: B6
@@ -822,7 +822,7 @@ exercises:
         why: "Das Bad hat kein Fenster und ist dunkel (nicht hell)."
       - q: "Die Miete ist für Köln billig."
         answer: true
-        why: "Köln ist teuer, also ist 600 € für Köln billig."
+        why: "Köln ist teuer — laut Text kostet die Miete nur 450 €, also billig."
 
   - id: C4b
     block: C

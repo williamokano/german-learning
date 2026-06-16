@@ -111,11 +111,11 @@
 
 ## Übung B5 — Satzbau
 
-1. es einen gibt Balkon
+1. es gibt einen Balkon
    _Es gibt einen Balkon._
 2. die Wohnung gefällt mir sehr
    _Die Wohnung gefällt mir sehr._
-3. wie viele Zimmer die Wohnung hat ?
+3. wie viele Zimmer hat die Wohnung ?
    _Wie viele Zimmer hat die Wohnung?_
 4. ich finde die Küche schön
    _Ich finde die Küche schön._
@@ -123,13 +123,13 @@
    _Das Wohnzimmer ist hell und groß._
 6. wie findest du das Sofa ?
    _Wie findest du das Sofa?_
-7. es keine Garage gibt
+7. es gibt keine Garage
    _Es gibt keine Garage._
-8. die Wohnung 700 kostet Euro
+8. die Wohnung kostet 700 Euro
    _Die Wohnung kostet 700 Euro._
-9. ist die Wohnung frei noch ?
+9. ist die Wohnung noch frei ?
    _Ist die Wohnung noch frei?_
-10. die Stühle gefallen nicht mir
+10. die Stühle gefallen mir nicht
    _Die Stühle gefallen mir nicht._
 
 ## Übung B6 — Kategorien
@@ -203,7 +203,7 @@ Selbstkorrektur:
 2. **R** — Er findet die Möbel schön.
 3. **R** — Der Text sagt, es gibt keinen Herd in der Küche.
 4. **F** — Das Bad hat kein Fenster und ist dunkel (nicht hell).
-5. **R** — Köln ist teuer, also ist 600 € für Köln billig.
+5. **R** — Köln ist teuer — laut Text kostet die Miete nur 450 €, also billig.
 
 ## Übung C4b — Lesen Text 2 — Wohnungsanzeigen
 
