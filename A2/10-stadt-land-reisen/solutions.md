@@ -36,7 +36,7 @@
 
 ## Übung A1 — Wo? oder Wohin? (Dativ oder Akkusativ)
 
-1. **im**  2. **ins**  3. **am**  4. **ans**  5. **auf dem**  6. **auf das**  7. **in**  8. **in**  9. **an**  10. **an**
+1. **im**  2. **ins**  3. **am**  4. **ans**  5. **auf dem**  6. **auf das**  7. **in**  8. **in**  9. **an der**  10. **an die**
 
 ## Übung A2 — Lückentest: Wo? / Wohin? / Woher?
 
