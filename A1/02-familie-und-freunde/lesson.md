@@ -89,7 +89,7 @@ Kind.*
 
 | Maskulin | Feminin | Plural / group |
 |---|---|---|
-| der Vater, –er (Väter) | die Mutter, – (Mütter) | die Eltern (only pl.) |
+| der Vater, – (Väter) | die Mutter, – (Mütter) | die Eltern (only pl.) |
 | der Bruder, – (Brüder) | die Schwester, -n | die Geschwister (siblings) |
 | der Sohn, –e (Söhne) | die Tochter, – (Töchter) | die Kinder |
 | der Mann, –er (husband/man) | die Frau, -en (wife/woman) | das Ehepaar (married couple) |
@@ -229,7 +229,7 @@ article is always **die**.
 >
 > | Pattern | Example |
 > |---|---|
-> | **-(e)** (umlaut, no ending) | der Bruder → die Brüder |
+> | **–** (umlaut, no ending) | der Bruder → die Brüder |
 > | **-e** (often + umlaut) | der Sohn → die Söhne |
 > | **-er** (often + umlaut) | das Kind → die Kinder |
 > | **-(e)n** | die Schwester → die Schwestern |

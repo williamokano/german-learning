@@ -105,18 +105,19 @@ exercises:
     instructionsEn: "Listen to the text and fill in the gaps with words from the box."
     audio: hoertext.mp3
     text: |
-      Hallo! Ich {1} Yuki Tanaka. Ich {2} aus Japan, aus Osaka. Ich
-      wohne jetzt in Berlin und {3} Deutsch. Ich {4} Japanisch,
-      Englisch und ein bisschen Deutsch. Mein Deutschkurs ist {5} — wir
-      sind {6} Studenten im Kurs.
-    bank: [heiße, komme, lerne, spreche, super, zwanzig]
+      Ich bin im Deutschkurs in {1}. Der Kurs hat {2} Studenten.
+      Ein Student heißt Miguel — er kommt aus {3}, aus Madrid.
+      Eine Studentin heißt Hana — sie kommt aus der {4}, aus Istanbul.
+      Wir {5} Deutsch, Englisch und Spanisch.
+      Der Kurs ist {6}!
+    bank: [München, zwanzig, Spanien, Türkei, sprechen, super]
     answers:
-      "1": heiße
-      "2": komme
-      "3": lerne
-      "4": spreche
-      "5": super
-      "6": zwanzig
+      "1": München
+      "2": zwanzig
+      "3": Spanien
+      "4": Türkei
+      "5": sprechen
+      "6": super
 
   - id: H4
     block: H
@@ -847,8 +848,8 @@ exercises:
         answer: false
         why: "Yuki kommt aus Japan (Osaka), nicht aus China."
       - q: "Sie wohnt in München."
-        answer: false
-        why: "Sie wohnt in Berlin, nicht in München."
+        answer: true
+        why: "Im Text: 'Ich wohne jetzt in München und lerne Deutsch.'"
       - q: "Yuki spricht sehr gut Deutsch."
         answer: false
         why: "Sie spricht ein bisschen Deutsch (and not very well yet)."

@@ -27,7 +27,7 @@
 
 ## Übung H3 — Hörtext-Lückentext
 
-1. **heiße**  2. **komme**  3. **lerne**  4. **spreche**  5. **super**  6. **zwanzig**
+1. **München**  2. **zwanzig**  3. **Spanien**  4. **Türkei**  5. **sprechen**  6. **super**
 
 ## Übung H4 — Kurze Ansage: Anruf von Petra
 
@@ -218,7 +218,7 @@ Selbstkorrektur:
 ## Übung C4a — Lesen Text 1 (Yuki-Lesetext)
 
 1. **F** — Yuki kommt aus Japan (Osaka), nicht aus China.
-2. **F** — Sie wohnt in Berlin, nicht in München.
+2. **R** — Im Text: 'Ich wohne jetzt in München und lerne Deutsch.'
 3. **F** — Sie spricht ein bisschen Deutsch (and not very well yet).
 4. **R** — Die Lehrerin kommt aus Hamburg.
 5. **R** — elf Frauen + neun Männer = zwanzig.

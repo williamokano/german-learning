@@ -48,12 +48,13 @@ Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?
 
 Höre den Text und fülle die Lücken mit Wörtern aus dem Kasten.
 
-> Hallo! Ich (1) ______ Yuki Tanaka. Ich (2) ______ aus Japan, aus Osaka. Ich
-> wohne jetzt in Berlin und (3) ______ Deutsch. Ich (4) ______ Japanisch,
-> Englisch und ein bisschen Deutsch. Mein Deutschkurs ist (5) ______ — wir
-> sind (6) ______ Studenten im Kurs.
+> Ich bin im Deutschkurs in (1) ______. Der Kurs hat (2) ______ Studenten.
+> Ein Student heißt Miguel — er kommt aus (3) ______, aus Madrid.
+> Eine Studentin heißt Hana — sie kommt aus der (4) ______, aus Istanbul.
+> Wir (5) ______ Deutsch, Englisch und Spanisch.
+> Der Kurs ist (6) ______!
 
-> (heiße · komme · lerne · spreche · super · zwanzig)
+> (München · zwanzig · Spanien · Türkei · sprechen · super)
 
 ## Übung H4 — Kurze Ansage: Anruf von Petra
 
