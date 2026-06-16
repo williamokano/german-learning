@@ -116,21 +116,21 @@ Modellantwort:
 
 ## Übung B5 — Satzbau (word order)
 
-1. ich anrufe das Bürgeramt morgen an
+1. ich rufe das Bürgeramt morgen an
    _Ich rufe das Bürgeramt morgen an._
-2. bitte füllen Formular Sie das aus
+2. bitte füllen Sie das Formular aus
    _Bitte füllen Sie das Formular aus!_
-3. Bruno Termin einen bucht online
+3. Bruno bucht einen Termin online
    _Bruno bucht einen Termin online._
-4. Könnten mir das schicken Sie Formular ?
+4. Könnten Sie mir das Formular schicken ?
    _Könnten Sie mir das Formular schicken?_
-5. hat die Beamtin ausgefüllt das Formular
+5. die Beamtin hat das Formular ausgefüllt
    _Die Beamtin hat das Formular ausgefüllt._
-6. anrufe wegen der Anmeldung ich Sie
+6. ich rufe Sie wegen der Anmeldung an
    _Ich rufe Sie wegen der Anmeldung an._
-7. fertig Wohnungsgebernachweis der ist
+7. der Wohnungsgebernachweis ist fertig
    _Der Wohnungsgebernachweis ist fertig._
-8. möchte hinterlassen eine ich Nachricht
+8. ich möchte eine Nachricht hinterlassen
    _Ich möchte eine Nachricht hinterlassen._
 
 ## Übung B6 — Categorizing: Amt, Telefon, or E-Mail?

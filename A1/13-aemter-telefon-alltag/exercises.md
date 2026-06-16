@@ -273,12 +273,12 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 Build correct German sentences. Remember: separable prefix goes to the end; verb in position 2.
 
-1. ich – morgen – anrufe – an – das Bürgeramt
+1. ich – morgen – rufe – an – das Bürgeramt
 2. das – Sie – füllen – aus – bitte – Formular
 3. Bruno – online – Termin – einen – bucht
 4. mir – das – Sie – Könnten – Formular – ? – schicken
 5. das Formular – die Beamtin – hat – ausgefüllt
-6. wegen – ich – anrufe – der Anmeldung – Sie
+6. der Anmeldung – ich – rufe – an – wegen – Sie
 7. Wohnungsgebernachweis – ist – fertig – der
 8. hinterlassen – ich – eine – möchte – Nachricht
 

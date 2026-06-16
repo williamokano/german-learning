@@ -525,29 +525,29 @@ exercises:
     title: "Satzbau (word order)"
     instructions: "Build correct German sentences. Remember: separable prefix goes to the end; verb in position 2."
     items:
-      - tiles: [anrufe, ich, das Bürgeramt, morgen, an]
+      - tiles: [rufe, ich, das Bürgeramt, morgen, an]
         answer: [1, 0, 2, 3, 4]
         note: "Ich rufe das Bürgeramt morgen an."
       - tiles: [Formular, füllen, bitte, Sie, das, aus]
-        answer: [2, 1, 0, 3, 4, 5]
+        answer: [2, 1, 3, 4, 0, 5]
         note: "Bitte füllen Sie das Formular aus!"
       - tiles: [einen, Termin, Bruno, bucht, online]
-        answer: [2, 1, 0, 3, 4]
+        answer: [2, 3, 0, 1, 4]
         note: "Bruno bucht einen Termin online."
       - tiles: [mir, Könnten, das, schicken, Sie, Formular, "?"]
-        answer: [1, 0, 2, 3, 4, 5, 6]
+        answer: [1, 4, 0, 2, 5, 3, 6]
         note: "Könnten Sie mir das Formular schicken?"
       - tiles: [hat, die Beamtin, das Formular, ausgefüllt]
-        answer: [0, 1, 3, 2]
+        answer: [1, 0, 2, 3]
         note: "Die Beamtin hat das Formular ausgefüllt."
-      - tiles: [wegen, der Anmeldung, ich, anrufe, Sie]
-        answer: [3, 0, 1, 2, 4]
+      - tiles: [wegen, der Anmeldung, ich, rufe, Sie, an]
+        answer: [2, 3, 4, 0, 1, 5]
         note: "Ich rufe Sie wegen der Anmeldung an."
       - tiles: [Wohnungsgebernachweis, der, fertig, ist]
-        answer: [2, 0, 1, 3]
+        answer: [1, 0, 3, 2]
         note: "Der Wohnungsgebernachweis ist fertig."
       - tiles: [hinterlassen, ich, eine, möchte, Nachricht]
-        answer: [3, 0, 2, 1, 4]
+        answer: [1, 3, 2, 4, 0]
         note: "Ich möchte eine Nachricht hinterlassen."
 
   - id: B6
