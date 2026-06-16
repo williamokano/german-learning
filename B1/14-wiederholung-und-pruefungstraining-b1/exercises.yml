@@ -17,7 +17,7 @@ exercises:
     block: H
     type: true-false
     title: 'Dialog Hör-Check: Wiedersehen im Café (Cast Reunion)'
-    audio: b1_14_dialog_a.mp3
+    audio: dialog1.mp3
     instructions: 'Lies den Dialog in lesson.md §1, dann höre ihn. Decide: Richtig (R) oder Falsch (F)?'
     items:
       - q: "Pavel sagt, der Hörteil war am Anfang etwas schwierig."
@@ -43,7 +43,7 @@ exercises:
     block: H
     type: gap-bank
     title: 'Hörtext-Lückentext: Durchsage im Goethe-Institut'
-    audio: b1_14_hoertext.mp3
+    audio: hoertext.mp3
     instructions: 'Listen to the announcement (Durchsage) and fill in the 6 missing words. Three words in the box are not needed.'
     text: |
       Achtung, eine {1} für alle Prüfungsteilnehmerinnen und
@@ -74,7 +74,7 @@ exercises:
     block: H
     type: single-choice
     title: 'Kurze Ansage: Anmeldung Goethe B1 — Prüfungsinformation'
-    audio: b1_14_ansage1.mp3
+    audio: transcript_ansage1.mp3
     instructions: 'Listen to the telephone message from the Goethe-Institut. Then choose the correct answer (a, b, or c).'
     transcript: "Guten Tag, hier ist das Goethe-Institut Berlin, Abteilung Prüfungen. Ich rufe an, um Sie über Ihren Prüfungstermin zu informieren. Ihre Goethe B1-Prüfung findet am Samstag, dem 28. Juni 2026, um 9 Uhr statt. Bitte erscheinen Sie mindestens 15 Minuten vorher. Bringen Sie bitte Ihren Personalausweis oder Reisepass mit — andere Dokumente werden nicht akzeptiert. Elektronische Geräte müssen ausgeschaltet bleiben. Bei Fragen erreichen Sie uns unter 030 25906-500. Bitte rufen Sie uns zurück, wenn Sie Ihre Anmeldebestätigung noch nicht erhalten haben. Wir wünschen Ihnen viel Erfolg!"
     items:

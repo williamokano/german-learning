@@ -8,7 +8,7 @@ Willkommen zum Abschluss des B1-Kurses! This is a full mock exam sitting. Blocks
 
 ## Übung H1a — Dialog Hör-Check: Wiedersehen im Café (Cast Reunion)
 
-🎧 **Audio:** [b1_14_dialog_a.mp3](audio/b1_14_dialog_a.mp3)
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
 
 Lies den Dialog in lesson.md §1, dann höre ihn. Decide: Richtig (R) oder Falsch (F)?
 
@@ -21,7 +21,7 @@ Lies den Dialog in lesson.md §1, dann höre ihn. Decide: Richtig (R) oder Falsc
 
 ## Übung H3 — Hörtext-Lückentext: Durchsage im Goethe-Institut
 
-🎧 **Audio:** [b1_14_hoertext.mp3](audio/b1_14_hoertext.mp3)
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 Listen to the announcement (Durchsage) and fill in the 6 missing words. Three words in the box are not needed.
 
@@ -36,7 +36,7 @@ Listen to the announcement (Durchsage) and fill in the 6 missing words. Three wo
 
 ## Übung H4 — Kurze Ansage: Anmeldung Goethe B1 — Prüfungsinformation
 
-🎧 **Audio:** [b1_14_ansage1.mp3](audio/b1_14_ansage1.mp3)
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
 Listen to the telephone message from the Goethe-Institut. Then choose the correct answer (a, b, or c).
 
@@ -48,7 +48,7 @@ Listen to the telephone message from the Goethe-Institut. Then choose the correc
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
-🎧 **Audio:** [b1_14_ansage1.mp3](audio/b1_14_ansage1.mp3)
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
 **Ansage 1 — Transcript**
 
