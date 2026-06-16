@@ -347,7 +347,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Identify the dative (indirect) object"
-    instructions: "Write down the dative (indirect) object in each sentence. 8 items."
+    instructions: "Fill in the correct dative (indirect) object for each sentence. 8 items."
     text: |
       1. Ich schenke {1} ein Buch.
       2. Anna gibt {2} einen Apfel.
@@ -454,7 +454,7 @@ exercises:
     block: B
     type: gap-bank
     title: "Dialog ergänzen: Im Geschenkeladen"
-    instructions: "Fill in the 12 blanks with the correct form."
+    instructions: "Fill in the 12 blanks with the correct form. Three words in the box are not needed."
     text: |
       — Guten Tag! Ich {1} ein Geschenk für meinen Bruder.
       — Was {2} er gern?

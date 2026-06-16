@@ -187,7 +187,7 @@ Choose the correct pronoun form (Dativ = person, Akkusativ = thing). 10 items.
 
 ## Übung A9 — Identify the dative (indirect) object
 
-Write down the dative (indirect) object in each sentence. 8 items.
+Fill in the correct dative (indirect) object for each sentence. 8 items.
 
 1. Ich schenke ______ ein Buch.
 2. Anna gibt ______ einen Apfel.
@@ -249,7 +249,7 @@ Pick the right two-object verb and conjugate it to fit the subject. 10 items.
 
 ## Übung B1 — Dialog ergänzen: Im Geschenkeladen
 
-Fill in the 12 blanks with the correct form.
+Fill in the 12 blanks with the correct form. Three words in the box are not needed.
 
 > — Guten Tag! Ich (1) ______ ein Geschenk für meinen Bruder.
 > — Was (2) ______ er gern?
