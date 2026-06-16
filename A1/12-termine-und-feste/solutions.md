@@ -7,7 +7,7 @@
 ## Übung H1a — Dialog A (informell): Anna und Bruno
 
 1. **R** — Anna sagt: „Mein Geburtstag ist am dreizehnten Mai."
-2. **F** — Die Party ist am Samstag, dem vierzehnten Mai — nicht am Sonntag dem fünfzehnten.
+2. **R** — Bruno kann am Samstag (14.) nicht kommen. Anna schlägt den Fünfzehnten vor; Bruno sagt „Ja, das passt! Ich komme gern." → Die Party findet am Sonntag, dem fünfzehnten Mai, statt.
 3. **R** — Bruno sagt: „Den vierzehnten — das geht leider nicht. Ich habe einen Termin."
 4. **R** — Anna sagt: „Ich schicke dir eine Einladung."
 
