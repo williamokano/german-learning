@@ -104,7 +104,7 @@ Bewertungskriterien:
 
 ## Übung exam-B12 — Aufgabe 12 — Lückentext: Grammatik gemischt
 
-1. **bin**  2. **haben**  3. **zum**  4. **hat**  5. **gekauft**  6. **Welches**  7. **mit**  8. **bitte**  9. **mir**  10. **stehst**  11. **bin** (auch richtig: **war**)  12. **gewesen**
+1. **bin**  2. **haben**  3. **zum**  4. **hat**  5. **gekauft**  6. **Welches**  7. **mit**  8. **bitte**  9. **mir**  10. **stehst**  11. **bin**  12. **gewesen**
 
 ## Übung exam-B13 — Aufgabe 13 — Finde den Fehler
 
