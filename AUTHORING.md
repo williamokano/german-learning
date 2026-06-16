@@ -6,17 +6,29 @@ lessons must be able to produce a correct lesson without any other context.
 
 ## Your task
 
-Produce exactly **two files** in `<LEVEL>/<NN-slug>/` (folder name comes from
-the work item in `tasks/todo.md`):
+Produce **two source files** in `<LEVEL>/<NN-slug>/`, then run two generators:
 
 1. `lesson.md` — the class (prose, dialogs, grammar tables, Lesetext, Hörtext)
 2. `exercises.yml` — the five-block exercise battery (H + A + B + C + D) as
    structured YAML with answers
 
-The two print artifacts — `exercises.md` and `solutions.md` — are
-**generated** from `exercises.yml` by `build/gen-exercises.ts`. **Do not
-hand-edit them.** The web app reads `exercises.yml` directly via Astro's
-content collections and renders it as interactive widgets.
+Then **after writing both files**, run these commands in order:
+
+```bash
+# 1. Generate exercises.md + solutions.md from the yml:
+npx tsx build/gen-exercises.ts <LEVEL>/NN-slug
+
+# 2. Generate all lesson audio (dialogs, Hörtext, Ansagen):
+python3 scripts/generate_audio.py <LEVEL>/NN-slug/lesson.md
+python3 scripts/generate_audio.py <LEVEL>/NN-slug/exercises.md
+
+# 3. Verify no drift:
+npx tsx build/gen-exercises.ts --all --check
+```
+
+A lesson is **not complete** until all three commands succeed and audio MP3s
+exist in `<LEVEL>/NN-slug/audio/`. The CI check catches yml↔md drift; missing
+audio will cause the web build to fail.
 
 The five-block architecture, scope discipline, and German-correctness rules below
 still apply unchanged. For the yml schema and per-type examples see
