@@ -126,7 +126,7 @@ Fill each gap with the correct Passiv Präteritum form (wurde/wurden + Partizip 
 Fill each gap with the correct Passiv Perfekt form (sein + Partizip II + worden). Write the complete verb group. 6 items.
 
 1. Das neue Kulturzentrum (1) ______ heute eröffnet worden.
-2. Alle Teamsmitglieder (2) ______ bereits benachrichtigt worden.
+2. Alle Teammitglieder (2) ______ bereits benachrichtigt worden.
 3. Die Batteriekapazität (3) ______ erheblich gesteigert worden.
 4. Der Fehler (4) ______ sofort gemeldet worden.
 5. Die Schulungen (5) ______ letzte Woche durchgeführt worden.

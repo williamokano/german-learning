@@ -521,7 +521,7 @@ Fill in the correct form. 1 point per gap. 20 items.
 12. Ich verlasse mich ___, klare Strukturen zu haben. (Pronominaladverb: auf) → (12) ______
 13. Ich freue mich ___, dich wiederzusehen. (auf — Zukunft) → (13) ______
 14. Ich freue mich ___, dass du da bist. (über — aktuell) → (14) ______
-15. Er warne mich ___, das zu tun. (Pronominaladverb: vor) → (15) ______
+15. Er warnte mich ___, das zu tun. (Pronominaladverb: vor) → (15) ______
 16. Sie kümmert sich ___ (Pronominaladverb für: um das Kind) → (16) ______
 17. Ich bedanke mich ___ (Pronominaladverb für: für das Geschenk) → (17) ______
 18. Der Erfolg hängt ___ ab, wie alle zusammenarbeiten. (Pronominaladverb: von) → (18) ______

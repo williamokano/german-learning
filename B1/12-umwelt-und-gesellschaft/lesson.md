@@ -17,6 +17,8 @@
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: Die Citymaut — Mia, Lukas und Pavel diskutieren (informal, 3 Personen)
 
 *Scene: Mia and Lukas's kitchen in Kreuzberg. Saturday morning. Mia has been
@@ -35,6 +37,8 @@ plan. Pavel has come over for coffee. The three debate the pros and cons.*
 > **Mia:** Ich bin Radfahrerin, ja. Aber ich versuche, fair zu denken. Die Verdrängung von Kleinunternehmern aus der Innenstadt wäre ein echter Schaden. Was wir brauchen, ist nicht nur das Verbot des Autofahrens, sondern die Förderung wirklicher Alternativen.  
 > **Lukas:** Einverstanden. Der Rückgang der Emissionen ist das Ziel — der Weg dorthin muss sozial gerecht sein.  
 
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
 ### Dialog B: Das Op-Ed — Yusuf und Hannah (formell/akademisch)
 
 *Scene: The El-Sayed family's living room in Charlottenburg. Evening. Yusuf
@@ -51,7 +55,7 @@ academic register.*
 > **Hannah:** Das ist Verbalstil. Auf Nominalstil: „Der Anstieg der Mietpreise führt bei vielen Menschen zur Wohnungsnot."  
 > **Yusuf:** Der Anstieg statt „werden teurer" — ich sehe das Prinzip. Was ist mit: „Wenn man Energie spart, sinkt der CO₂-Ausstoß."?  
 > **Hannah:** Durch das Energiesparen sinkt der CO₂-Ausstoß. Siehst du? Durch + Nomen ersetzt den wenn-Satz. Außerdem: „das Recyceln", „das Heizen", „das Autofahren" — Verben werden durch Großschreibung zu Nomen.  
-> **Yusuf:** Wie beim Englischen Gerundium — aber im Deutschen ist es Neutrum, richtig?  
+> **Yusuf:** Das erinnert mich ans englische Gerundium — aber im Deutschen nennt man das „substantivierter Infinitiv", und es ist immer Neutrum, richtig?  
 > **Hannah:** Richtig — alle nominalisierten Verben sind Neutrum: das Recyceln, das Heizen, das Fliegen, das Autofahren. Die mit -ung sind Femininum: die Nutzung, die Verwendung, die Verbesserung.  
 > **Yusuf:** Und Adjektive? „Es ist wichtig, dass wir handeln."  
 > **Hannah:** Die Wichtigkeit des Handelns ist unbestreitbar. Wichtig → die Wichtigkeit; möglich → die Möglichkeit; notwendig → die Notwendigkeit.  
@@ -188,12 +192,12 @@ Many verbs form nouns by adding **-ung** to the verb stem. These are always
 
 ---
 
-**Pattern 2: Verb → Nomen as Gerundium (Neutrum)**
+**Pattern 2: Verb → Nomen as substantivierter Infinitiv (Neutrum)**
 
 Any German verb can be nominalized simply by capitalizing it. The resulting
 noun is **always neuter** (das …).
 
-| Verb | Gerundium | Example sentence |
+| Verb | Substantivierter Infinitiv | Example sentence |
 |---|---|---|
 | recyceln | das Recyceln | Das Recyceln von Plastik spart Ressourcen. |
 | heizen | das Heizen | Das Heizen mit Gas ist teuer. |
@@ -201,7 +205,7 @@ noun is **always neuter** (das …).
 | fliegen | das Fliegen | Das Fliegen erzeugt viel CO₂. |
 | sparen | das Energiesparen | Durch das Energiesparen sinkt der Ausstoß. |
 
-> 📌 **Merkasten — Gerundium (nominalized infinitive)**
+> 📌 **Merkasten — Substantivierter Infinitiv (nominalized infinitive)**
 >
 > | Rule | Detail |
 > |---|---|
@@ -251,7 +255,7 @@ formal/written).
 
 1. **Verb → -ung noun:** `verbessern → die Verbesserung` (then add Genitiv
    for the object: *die Verbesserung der Luft*)
-2. **`wenn`-clause → `durch` + Gerundium:** `wenn man spart → durch das Sparen`
+2. **`wenn`-clause → `durch` + substantivierter Infinitiv:** `wenn man spart → durch das Sparen`
 3. **`weil`-clause → `wegen` + Genitiv:** `weil die Preise steigen →
    wegen des Anstiegs der Preise` (very formal — see B1/07 for `wegen`)
 4. **Predicate adjective → abstract noun:** `Das ist wichtig → Die Wichtigkeit`
@@ -341,6 +345,8 @@ richtiger Schritt. Aber die Entwicklung eines sozial gerechten Gesamtpakets
 ist ebenso wichtig — wenn nicht wichtiger.
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Anna und Bruno diskutieren: Plastikverbot im Supermarkt
 

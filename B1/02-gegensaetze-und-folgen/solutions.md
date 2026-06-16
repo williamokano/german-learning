@@ -223,7 +223,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Gemischter Schnelltest
 
-1. **obwohl**  2. **Trotzdem**  3. **Deshalb**  4. **zwar**  5. **aber**  6. **Deswegen**  7. **Obwohl**  8. **dennoch**  9. **demnach**  10. **weil**  11. **Deshalb**  12. **dass**  13. **war**  14. **hatten**  15. **Darum**  16. **dennoch**
+1. **obwohl**  2. **Trotzdem**  3. **Deshalb**  4. **zwar**  5. **aber**  6. **Deswegen**  7. **Obwohl**  8. **dennoch**  9. **daher**  10. **weil**  11. **Deshalb**  12. **dass**  13. **war**  14. **hatten**  15. **Darum**  16. **dennoch**
 
 ## Übung D2 — Welches Wort passt nicht?
 

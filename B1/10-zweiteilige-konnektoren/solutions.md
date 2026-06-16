@@ -80,7 +80,7 @@
 2. **F** — The fixed form is `als auch`, not `wie auch`. Correct: Sowohl Anna als auch Bruno …
 3. **R** — Correct: `zwar` mid-sentence (no inversion needed), `aber` introduces the contrast.
 4. **R** — Correct: `nicht nur` sentence-initial triggers inversion (spricht er), `sondern … auch` in the second clause.
-5. **R** — Correct: `entweder` mid-sentence here (no inversion), `oder` introduces the alternative.
+5. **F** — `Entweder` is sentence-initial, so inversion is required. Correct: Entweder bleiben wir hier, oder wir ziehen um.
 6. **F** — `aber` does not belong here. `sowohl … als auch` is the complete connector. Remove `aber`.
 
 ## Übung A9 — Gemischt: den richtigen Konnektor einsetzen

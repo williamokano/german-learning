@@ -18,6 +18,8 @@
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: Sprechen-Training — Pavels Präsentation (informell, 3 Personen)
 
 *Scene: a café in Prenzlauer Berg, Tuesday evening after a language-exchange
@@ -39,6 +41,8 @@ loud. Tomáš and Bruno listen and give feedback. The topic Pavel has drawn:
 > **Tomáš:** Nur eine Kleinigkeit: Am Ende sagst du besser „Vielen Dank für Ihre Aufmerksamkeit" — das klingt formeller in der Prüfung.  
 > **Pavel:** Stimmt. „Vielen Dank für Ihre Aufmerksamkeit." So?  
 > **Bruno:** Genau so!  
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Schreiben-Training — Annas Beschwerdemail (formell, 2 Personen)
 
@@ -213,7 +217,7 @@ blocks**, swapping only the content words. Memorise this skeleton:
 | Tschüss | Mit freundlichen Grüßen |
 | kein Betreff | Betreff: [immer angeben!] |
 
-**Infomeller Schreib-Baukasten:**
+**Informeller Schreib-Baukasten:**
 
 ```
 [Anrede]    Liebe/r [Vorname],
@@ -303,6 +307,8 @@ allerdings finanziell gut vorbereitet sein.
 Was meinen Sie? Haben Sie ähnliche Erfahrungen gemacht?
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Mia gibt Ratschläge fürs Schreiben
 

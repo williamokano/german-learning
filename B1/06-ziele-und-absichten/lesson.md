@@ -18,6 +18,8 @@
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: Sprachstrategien und Lebenspläne — nach der Schicht bei Pavel (informal, 3 Personen)
 
 *Scene: Pavel's café in Prenzlauer Berg, after closing time. Pavel, his brother Tomáš,
@@ -36,6 +38,8 @@ of the day.*
 > **Pavel:** Das ist ein guter Plan. Ich habe auch vor, im Herbst eine Röst-Meisterschaft zu besuchen — um zu sehen, wie die Profis arbeiten. Und vielleicht um neue Kontakte zu knüpfen.  
 > **Tomáš:** Dann sehen wir uns vielleicht dort! Ich plane, im Herbst öfter in Berlin zu sein, damit das Startup endlich richtig Fahrt aufnimmt.  
 > **Bruno:** Ich drücke euch beiden die Daumen. Prost — auf die Ziele!  
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Projektantrag bei der Arbeit — formell (formal, 2 Personen)
 
@@ -278,9 +282,9 @@ directly before the infinitive.
 | versuchen | Ich **versuche**, pünktlich **zu sein**. | I try to be punctual. |
 | anfangen ⚠️ sep. | Ich **fange an**, Deutsch **zu lernen**. | I begin learning German. |
 | aufhören ⚠️ sep. | Sie **hört auf**, Fehler **zu machen**. | She stops making mistakes. |
-| vergessen ⚠️ irreg. | Er **vergisst**, den Termin **anzurufen**. | He forgets to call about the appointment. |
+| vergessen ⚠️ irreg. | Er **vergisst**, den Termin **zu bestätigen**. | He forgets to confirm the appointment. |
 | hoffen | Wir **hoffen**, bald fertig **zu sein**. | We hope to be done soon. |
-| planen | Sie **plant**, eine Stelle **zu bewerben**. | She plans to apply for a position. |
+| planen | Sie **plant**, sich um eine Stelle **zu bewerben**. | She plans to apply for a position. |
 | vorhaben ⚠️ sep. | Ich **habe vor**, morgen früh **aufzustehen**. | I intend to get up early tomorrow. |
 | empfehlen ⚠️ irreg. | Frau Weber **empfiehlt**, den Kurs **zu belegen**. | Frau Weber recommends taking the course. |
 | bitten | Er **bittet** sie, den Bericht **zu schreiben**. | He asks her to write the report. |
@@ -397,6 +401,8 @@ Mit freundlichen Grüßen,
 Pavel Novák
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Tomáš hinterlässt eine Nachricht für einen Geschäftskontakt
 

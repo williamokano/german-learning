@@ -16,6 +16,8 @@
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: Brunos Bürgeramt-Vorbereitung — informell (2 Personen)
 
 *Scene: Bruno calls Lukas on a Sunday afternoon. Bruno has just received a confusing
@@ -40,6 +42,8 @@ indirect ones.*
 > **Lukas:** Siehst du? Du kannst das. Noch eine Frage: Weißt du, ob du einen Dolmetscher mitbringen darfst?  
 > **Bruno:** Nein, keine Ahnung. Das frage ich dann auch: „Dürfte ich fragen, ob ich jemanden mitbringen darf?"  
 > **Lukas:** Genau! Ich drücke dir die Daumen.  
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Anna klärt Anweisungen mit Frau Weber — formell (2 Personen)
 
@@ -401,7 +405,7 @@ Falls ja, würde ich gerne ein Einzelzimmer buchen. Außerdem wollte ich fragen,
 ob das Frühstück im Preis inbegriffen ist, oder ob man es separat dazubuchen muss.
 
 Des Weiteren dürfte ich kurz fragen, wie weit das Hotel vom Stadtzentrum entfernt
-ist? Ich bin mir nicht sicher, ob es sinnvoll wäre, ein Fahrrad zu mieten — ich
+ist. Ich bin mir nicht sicher, ob es sinnvoll wäre, ein Fahrrad zu mieten — ich
 wollte wissen, ob das Hotel Fahrräder verleiht oder ob Sie empfehlen könnten,
 wo man in der Nähe eines mieten kann.
 
@@ -416,6 +420,8 @@ Mit freundlichen Grüßen,
 Anna Kowalski
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Bruno am Telefon mit dem Bürgeramt
 

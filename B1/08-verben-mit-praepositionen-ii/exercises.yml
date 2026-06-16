@@ -273,8 +273,8 @@ exercises:
     instructions: "Is the pronoun/Pronominaladverb used correctly? Answer Richtig (R) oder Falsch (F)."
     items:
       - q: "Ich denke daran, dass Pavel kommt. (Pavel = person → daran)"
-        answer: false
-        why: "Pavel is a person. For persons use: Ich denke an ihn. 'Daran' is for things/ideas."
+        answer: true
+        why: "Correct: 'daran' here is an anticipatory Korrelat before the dass-clause. The clause refers to an event/idea — not Pavel directly as a person."
       - q: "Ich denke daran, den Film zu sehen. (den Film = thing → daran)"
         answer: true
         why: "Den Film is a thing/idea — daran is correct."
@@ -1021,7 +1021,7 @@ exercises:
       12. Ich verlasse mich ___, klare Strukturen zu haben. (Pronominaladverb: auf) → {12}
       13. Ich freue mich ___, dich wiederzusehen. (auf — Zukunft) → {13}
       14. Ich freue mich ___, dass du da bist. (über — aktuell) → {14}
-      15. Er warne mich ___, das zu tun. (Pronominaladverb: vor) → {15}
+      15. Er warnte mich ___, das zu tun. (Pronominaladverb: vor) → {15}
       16. Sie kümmert sich ___ (Pronominaladverb für: um das Kind) → {16}
       17. Ich bedanke mich ___ (Pronominaladverb für: für das Geschenk) → {17}
       18. Der Erfolg hängt ___ ab, wie alle zusammenarbeiten. (Pronominaladverb: von) → {18}

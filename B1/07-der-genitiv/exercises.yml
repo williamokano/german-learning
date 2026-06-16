@@ -297,7 +297,7 @@ exercises:
     title: "Genitivphrasen zusammensetzen"
     instructions: "Reconstruct each Genitiv noun phrase from the scrambled words."
     items:
-      - { tiles: ["des", "der", "Name", "Verkäufers"], answer: [2, 0, 3, 1] }
+      - { tiles: ["des", "der", "Name", "Verkäufers"], answer: [1, 2, 0, 3] }
       - { tiles: ["Zustand", "Fahrrads", "des", "Der"], answer: [3, 0, 2, 1] }
       - { tiles: ["Umzugs", "seines", "wegen"], answer: [2, 1, 0] }
       - { tiles: ["Symposiums", "des", "Während"], answer: [2, 1, 0] }
@@ -466,7 +466,7 @@ exercises:
     instructions: "Reconstruct these formal sentences by arranging the tiles in the correct order."
     items:
       - tiles: ["Wegen", "des", "Umbaus", "ist", "geschlossen", "die", "Mensa"]
-        answer: [0, 1, 2, 3, 6, 5, 4]
+        answer: [0, 1, 2, 3, 5, 6, 4]
       - tiles: ["Trotz", "der", "Schwierigkeiten", "hat", "er", "bestanden"]
         answer: [0, 1, 2, 3, 4, 5]
       - tiles: ["Während", "des", "Experiments", "notierten", "die", "Studenten", "alles"]

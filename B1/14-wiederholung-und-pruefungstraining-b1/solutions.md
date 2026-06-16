@@ -22,7 +22,7 @@
 1. **b) Am Samstag, dem 28. Juni um 9 Uhr.** — "Ihre Goethe B1-Prüfung findet am Samstag, dem 28. Juni 2026, um 9 Uhr statt."
 2. **c) Mindestens 15 Minuten vorher.** — "Bitte erscheinen Sie mindestens 15 Minuten vorher."
 3. **b) Einen Personalausweis oder Reisepass.** — "Bringen Sie bitte Ihren Personalausweis oder Reisepass mit — andere Dokumente werden nicht akzeptiert."
-4. **b) Wenn man die Anmeldebestätigung noch nicht erhalten hat.** — "Bitte ruf mich zurück, wenn Sie Ihre Anmeldebestätigung noch nicht erhalten haben."
+4. **b) Wenn man die Anmeldebestätigung noch nicht erhalten hat.** — "Bitte rufen Sie uns zurück, wenn Sie Ihre Anmeldebestätigung noch nicht erhalten haben."
 
 ---
 

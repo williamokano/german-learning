@@ -60,7 +60,7 @@
 
 ## Übung A6 — Person oder Sache? Richtig oder Falsch?
 
-1. **F** — Pavel is a person. For persons use: Ich denke an ihn. 'Daran' is for things/ideas.
+1. **R** — Correct: 'daran' here is an anticipatory Korrelat before the dass-clause. The clause refers to an event/idea — not Pavel directly as a person.
 2. **R** — Den Film is a thing/idea — daran is correct.
 3. **R** — Correct: for persons, use Präp + wen/wem, not wo(r)-.
 4. **F** — Pavel is a person, not a thing. Correct: Auf wen wartest du? → Auf Pavel.

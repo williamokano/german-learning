@@ -369,8 +369,8 @@ exercises:
         answer: true
         why: "Correct: `nicht nur` sentence-initial triggers inversion (spricht er), `sondern … auch` in the second clause."
       - q: "Entweder wir bleiben hier, oder wir ziehen um."
-        answer: true
-        why: "Correct: `entweder` mid-sentence here (no inversion), `oder` introduces the alternative."
+        answer: false
+        why: "`Entweder` is sentence-initial, so inversion is required. Correct: Entweder bleiben wir hier, oder wir ziehen um."
       - q: "Er hat sowohl die Vorteile als auch aber die Nachteile gesehen."
         answer: false
         why: '`aber` does not belong here. `sowohl … als auch` is the complete connector. Remove `aber`.'

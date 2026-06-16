@@ -27,7 +27,7 @@
 
 1. **b) Bis Freitag, den 20. Juni.** — "die Anmeldung … noch bis Freitag, den 20. Juni möglich ist."
 2. **b) Dienstags und donnerstags.** — "findet jeweils dienstags und donnerstags … statt."
-3. **b) Einen Ausweis und einen Stift.** — "Bitte bringen Sie beim ersten Termin Ihren Ausweis und einen Stift mit."
+3. **b) Einen Ausweis und einen Stift.** — "Bitte bring beim ersten Termin deinen Ausweis und einen Stift mit."
 4. **c) 180 Euro.** — "Die Kursgebühr beträgt 180 Euro."
 
 ---

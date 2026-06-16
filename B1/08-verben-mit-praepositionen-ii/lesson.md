@@ -21,6 +21,8 @@
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: Nach dem Film — Mias Wohnung (informal, 3 Personen)
 
 *Scene: Mia's apartment in Kreuzberg, late evening. Mia, Pavel, and Tomáš have just
@@ -37,6 +39,8 @@ discussing their reactions over wine.*
 > **Tomáš:** Ich denke daran, wie anders das Leben in Prag sein könnte. Der Film handelt ja davon, wie man sich von einer Stadt löst. Ich kann mich gut darauf einlassen.  
 > **Pavel:** Ich denke vor allem an die letzte Szene. Ich warne euch: Ich verlasse mich darauf, dass es eine Fortsetzung gibt!  
 > **Mia:** Ich freue mich schon darauf! Aber jetzt: Wein nach? Ich bestehe darauf!  
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Vorstellungsgespräch — formell (formal, 2 Personen)
 
@@ -323,7 +327,7 @@ the Pronominaladverb appears **before the clause** as an **anticipatory marker**
 >
 > ⚠️ Note: some verbs optionally include or omit the Korrelat. With `sich freuen
 > über` + `dass`, the `darüber` is strongly preferred. With `hoffen`, the Korrelat
-> is usually omitted: *Ich hoffe, dass du kommst.* (no `dafür`).
+> is usually omitted: *Ich hoffe, dass du kommst.* (no `darauf`).
 
 ---
 
@@ -366,6 +370,8 @@ Ich interessiere mich sehr für offene Lernkulturen in Unternehmen, und ich bin
 davon überzeugt, dass sie den Unterschied machen.
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Pavel spricht mit Mia über seine Arbeit
 

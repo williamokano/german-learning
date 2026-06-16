@@ -51,8 +51,8 @@ für eine Bewerbung braucht.*
 > **Herr Steinmeyer:** Man könnte schreiben: „Sie ist eine Mitarbeiterin, auf deren Zuverlässigkeit man sich stets verlassen kann." Das ist eine Formulierung, die man in formellen Briefen oft findet.  
 > **Anna:** Verstehe. Und der zweite Satz — „das Projekt, an dem sie mitgearbeitet hat"?  
 > **Herr Steinmeyer:** Das ist schon sehr gut. Das ist die Art von Sprache, der man in Bewerbungsunterlagen der gehobenen Ebene begegnet.  
-> **Anna:** Ich habe noch einen Satz, über den ich unsicher bin: „Dies ist ein Ergebnis, worüber wir sehr stolz sind."  
-> **Herr Steinmeyer:** Ah — hier muss ich Sie korrigieren. `worüber` gehört zu einer anderen Kategorie. Auf diesem Niveau schreibt man: „Dies ist ein Ergebnis, über das wir sehr stolz sind." — Präposition plus Relativpronomen, nicht `worüber`.  
+> **Anna:** Ich habe noch einen Satz, über den ich unsicher bin: „Dies ist ein Ergebnis, worauf wir sehr stolz sind."  
+> **Herr Steinmeyer:** Ah — hier muss ich Sie korrigieren. `worauf` gehört zu einer anderen Kategorie. Auf diesem Niveau schreibt man: „Dies ist ein Ergebnis, auf das wir stolz sind." — Präposition plus Relativpronomen, nicht `worauf`.  
 > **Anna:** Danke — das ist genau das, was mir gefehlt hat.  
 > **Herr Steinmeyer:** Sehr gerne. Das Schreiben, das Sie dann einreichen, wird sicher einen sehr guten Eindruck machen.  
 
@@ -80,7 +80,7 @@ für eine Bewerbung braucht.*
 | Das ist genau das, was mir gefehlt hat. | That's exactly what I was missing. |
 | Das ist der Bezirk, in dem die Nachfrage am größten ist. | That's the district where demand is highest. |
 | Das sind Leute, auf die man sich verlassen kann. | Those are people you can rely on. |
-| Das ist ein Ergebnis, über das wir stolz sind. | That's a result we are proud of. |
+| Das ist ein Ergebnis, auf das wir stolz sind. | That's a result we are proud of. |
 
 ---
 

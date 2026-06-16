@@ -657,8 +657,8 @@ exercises:
           - { key: a, text: "die Stärke meiner Bewerbung" }
           - { key: b, text: "die Qualität meiner Arbeit" }
           - { key: c, text: "Beide Varianten erscheinen im Text." }
-        answer: c
-        why: 'Both "Die Qualität meiner Arbeit" and "die Stärke einer guten Koordinatorin" appear in the letter.'
+        answer: b
+        why: '"Die Qualität meiner Arbeit" appears in the letter. "die Stärke meiner Bewerbung" (option a) does not appear.'
 
   - id: B9
     block: B

@@ -52,7 +52,7 @@ Listen to the telephone message from the Goethe-Institut. Then choose the correc
 
 **Ansage 1 — Transcript**
 
-> Guten Tag, hier ist das Goethe-Institut Berlin, Abteilung Prüfungen. Ich rufe an, um Sie über Ihren Prüfungstermin zu informieren. Ihre Goethe B1-Prüfung findet am Samstag, dem 28. Juni 2026, um 9 Uhr statt. Bitte erscheinen Sie mindestens 15 Minuten vorher. Bringen Sie bitte Ihren Personalausweis oder Reisepass mit — andere Dokumente werden nicht akzeptiert. Elektronische Geräte müssen ausgeschaltet bleiben. Bei Fragen erreichen Sie uns unter 030 25906-500. Bitte ruf mich zurück, wenn Sie Ihre Anmeldebestätigung noch nicht erhalten haben. Wir wünschen Ihnen viel Erfolg!
+> Guten Tag, hier ist das Goethe-Institut Berlin, Abteilung Prüfungen. Ich rufe an, um Sie über Ihren Prüfungstermin zu informieren. Ihre Goethe B1-Prüfung findet am Samstag, dem 28. Juni 2026, um 9 Uhr statt. Bitte erscheinen Sie mindestens 15 Minuten vorher. Bringen Sie bitte Ihren Personalausweis oder Reisepass mit — andere Dokumente werden nicht akzeptiert. Elektronische Geräte müssen ausgeschaltet bleiben. Bei Fragen erreichen Sie uns unter 030 25906-500. Bitte rufen Sie uns zurück, wenn Sie Ihre Anmeldebestätigung noch nicht erhalten haben. Wir wünschen Ihnen viel Erfolg!
 
 </details>
 

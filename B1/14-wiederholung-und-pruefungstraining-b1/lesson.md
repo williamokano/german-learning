@@ -14,6 +14,8 @@
 
 ---
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ## 1. Dialog: Wiedersehen im Café — Pavels Prüfungstag
 
 *Scene: a café in Prenzlauer Berg, Friday afternoon. Pavel has just walked out
@@ -33,7 +35,7 @@ exercise. Read it now to prime yourself; then close it and listen.*
 > **Bruno:** Das stimmt. Man muss nicht jedes Wort verstehen, sondern nach dem Kontext suchen. Das ist die Technik, mit der ich bei meiner Prüfung bestanden habe.  
 > **Mia:** Und der Schreibteil, Pavel? Hast du die formelle E-Mail gemacht?  
 > **Pavel:** Ja. Ich habe zuerst eine Gliederung geschrieben — Betreff, Anrede, Bezugssatz, Hauptteil, Schlusssatz. Das hat mich beruhigt.  
-> **Tomáš:** Gut. Und der Sprechteil? Das ist der Teil, wegen dessen ich am nervösesten war, als ich in Prag meinen B1-Kurs gemacht habe.  
+> **Tomáš:** Gut. Und der Sprechteil? Das ist der Teil, vor dem ich am meisten Angst hatte, als ich in Prag meinen B1-Kurs machte.  
 > **Pavel:** Ich auch! Aber Herr Steinmeyer war als Prüfer sehr freundlich — er hat gefragt, ob mir das Thema bekannt sei. Ich konnte fragen, ob er die Aufgabe wiederholen könnte.  
 > **Anna:** Perfekt! Das ist genau das, was wir in B1/09 gelernt haben — höflich nachfragen, wenn man etwas nicht versteht.  
 > **Bruno:** Und weißt du was? Das Wichtigste war nicht die Grammatik — es war das Vertrauen. Wenn ich früher Angst vor dem Sprechen hatte, dachte ich: „Wäre ich schon flüssiger, würde ich selbstsicherer klingen." Aber dann habe ich einfach angefangen zu sprechen.  
@@ -160,8 +162,8 @@ Focus on the process, not the actor.
 | Tempus | Bildung | Beispiel |
 |---|---|---|
 | Präsens | wird + Partizip II | Die Texte **werden** gelesen. |
-| Präteritum | wurde + Partizip II | Das Ergebnis **wurde** bekannt gegeben. |
-| Perfekt | ist + Partizip II + worden | Die Prüfung **ist** gut **verlaufen** worden. |
+| Präteritum | wurde + Partizip II | Das Ergebnis **wurde** bekanntgegeben. |
+| Perfekt | ist/sind + Partizip II + worden | Die Ergebnisse **sind** bekanntgegeben **worden**. |
 
 > *Der Hörteil **wurde** zweimal **abgespielt**.*
 
@@ -351,6 +353,8 @@ Viele Grüße,
 Anna
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Durchsage im Goethe-Institut
 

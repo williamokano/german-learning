@@ -64,7 +64,7 @@ Listen to the radio news clip. Then choose the correct answer (a, b, or c).
 
 **Ansage 1 — Transcript**
 
-> Hier ist der Deutschlandfunk mit einer Kurzmeldung. Das Berliner Abgeordnetenhaus hat heute ein neues Klimapaket verabschiedet. Darin werden mehrere Maßnahmen festgelegt: Erstens soll der öffentliche Nahverkehr bis 2028 vollständig elektrifiziert werden. Zweitens wird eine Citymaut für Pkw ab dem S-Bahn-Ring eingeführt. Drittens sollen Solaranlagen auf allen öffentlichen Gebäuden installiert werden. Umweltsenatorin Müller erklärte, die Reduzierung der Emissionen sei das oberste Ziel. Kritiker warnen jedoch vor einer zusätzlichen Belastung für Geringverdiener. Bitte ruf mich zurück — das war die Kurzmeldung des Tages.
+> Hier ist der Deutschlandfunk mit einer Kurzmeldung. Das Berliner Abgeordnetenhaus hat heute ein neues Klimapaket verabschiedet. Darin werden mehrere Maßnahmen festgelegt: Erstens soll der öffentliche Nahverkehr bis 2028 vollständig elektrifiziert werden. Zweitens wird eine Citymaut für Pkw ab dem S-Bahn-Ring eingeführt. Drittens sollen Solaranlagen auf allen öffentlichen Gebäuden installiert werden. Umweltsenatorin Müller erklärte, die Reduzierung der Emissionen sei das oberste Ziel. Kritiker warnen jedoch vor einer zusätzlichen Belastung für Geringverdiener. Das war die Kurzmeldung des Tages.
 
 </details>
 

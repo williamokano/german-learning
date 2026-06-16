@@ -136,7 +136,7 @@
 1. **b) Als Projektkoordinatorin.** — "Betreff: Bewerbung als Projektkoordinatorin."
 2. **c) Mehrere Projekte gleichzeitig.** — "wurden mehrere Projekte gleichzeitig von mir koordiniert."
 3. **b) Die Einführung eines CRM-Systems.** — "darunter die Einführung eines neuen CRM-Systems."
-4. **c) Beide Varianten erscheinen im Text.** — Both "Die Qualität meiner Arbeit" and "die Stärke einer guten Koordinatorin" appear in the letter.
+4. **b) die Qualität meiner Arbeit** — "Die Qualität meiner Arbeit" appears in the letter. "die Stärke meiner Bewerbung" (option a) does not appear.
 
 ## Übung B9 — Anschreiben-Abschnitt schreiben
 

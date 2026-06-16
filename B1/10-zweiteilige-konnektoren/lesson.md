@@ -18,6 +18,8 @@
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: Bleiben oder wegziehen? — Sonntagmorgen bei Mia und Lukas (informell, 3 Personen)
 
 *Scene: Mia and Lukas's flat in Kreuzberg, Sunday morning. Yusuf (their
@@ -36,6 +38,8 @@ for weeks.*
 > **Lukas:** Das stimmt. Wir sollten sowohl die rationalen als auch die emotionalen Argumente aufschreiben. Nicht nur reden, sondern auch handeln.  
 > **Mia:** Okay, abgemacht. Yusuf, du bist nicht nur unser Nachbar, sondern auch unser inoffizieller Lebensberater. Was würdest du an unserer Stelle machen?  
 > **Yusuf:** Ich bin zwar kein Experte für Lebensplanung, aber ich würde sagen: Bleibt, solange ihr sowohl persönlich als auch beruflich wachst. Wenn das nicht mehr stimmt — dann ist der Zeitpunkt für eine Veränderung gekommen.  
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Gymnasiallehrpläne — Hannah präsentiert vor Herrn Steinmeyer (formell, 2 Personen)
 
@@ -194,7 +198,7 @@ adjectives, verbs, or whole clauses. Note: `als` (not `wie`) in this constructio
 | Two nouns | **Sowohl** Anna **als auch** Bruno sprechen Portugiesisch. |
 | Two adjectives | Das Angebot ist **sowohl** günstig **als auch** hochwertig. |
 | Two noun phrases | **Sowohl** das Frühstück **als auch** das Mittagessen ist inklusive. |
-| Two verb phrases | Er **sowohl** lernt **als auch** arbeitet täglich. |
+| Two full clauses | **Sowohl** lernt er täglich Deutsch **als auch** spricht er mit Muttersprachlern. |
 
 > *Ich berücksichtige **sowohl** die rationalen **als auch** die emotionalen Argumente.*
 > (I consider both the rational and the emotional arguments.)
@@ -359,6 +363,8 @@ richtige Antwort, irrt sich — zwar vielleicht gut gemeint, aber grundlegend
 falsch.
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Yusuf auf einer Akademikerkonferenz
 

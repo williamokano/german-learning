@@ -61,7 +61,7 @@
 | Das wird automatisch erledigt. | That is done automatically. |
 | Die Daten werden verarbeitet. | The data is processed. |
 | Der Bericht wird erstellt. | The report is compiled. |
-| Das Produkt wird hergestellt in … | The product is manufactured in … |
+| Das Produkt wird in … hergestellt. | The product is manufactured in … |
 | Der Antrag muss ausgefüllt werden. | The application must be filled out. |
 | Die Ergebnisse werden gespeichert. | The results are saved. |
 | Das Material wird geprüft. | The material is checked. |

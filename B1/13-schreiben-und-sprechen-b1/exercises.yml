@@ -119,7 +119,7 @@ exercises:
           - { key: b, text: "Einen Ausweis und einen Stift." }
           - { key: c, text: "Ein Wörterbuch und Papier." }
         answer: b
-        why: '"Bitte bringen Sie beim ersten Termin Ihren Ausweis und einen Stift mit."'
+        why: '"Bitte bring beim ersten Termin deinen Ausweis und einen Stift mit."'
       - q: "Wie hoch ist die Kursgebühr?"
         options:
           - { key: a, text: "150 Euro." }

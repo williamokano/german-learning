@@ -18,6 +18,8 @@
 
 ## 1. Dialog: Der Genitiv im Alltag und im Büro
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: Das Fahrrad des Verkäufers — zu Hause bei den El-Sayeds (informell, 3 Personen)
 
 > **Layla:** Mama, Papa — schaut mal! Ich hab auf eBay Kleinanzeigen ein Fahrrad gefunden. Das ist genau das Modell, das ich haben wollte.  
@@ -31,6 +33,8 @@
 > **Yusuf:** Statt des Fahrrads hätte ich dir lieber ein gutes Schloss dazu empfohlen. Weißt du, Layla — in Berlin verschwindet schnell mal das Fahrrad eines Studenten.  
 > **Layla:** Papa! Du hast doch selbst gesagt, dass ich mehr Sport machen soll. Trotz des Preises ist das ein echtes Schnäppchen. Bitte!  
 > **Hannah:** Einverstanden, aber nur, wenn wir den Zustand des Fahrrads vorher prüfen. Ruf den Verkäufer an und frag, ob wir es heute Nachmittag anschauen können.  
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Das Abstract des Artikels — Yusuf + Herr Steinmeyer (formell)
 
@@ -334,6 +338,8 @@ gelten die Regelungen des vorliegenden Vertrags unverändert fort.
 *(~160 Wörter)*
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Hannah hinterlässt eine Nachricht für Laylas Lehrerin
 

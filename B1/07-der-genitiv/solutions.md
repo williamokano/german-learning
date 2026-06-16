@@ -68,7 +68,7 @@
 
 ## Übung A8 — Genitivphrasen zusammensetzen
 
-1. Name des Verkäufers der
+1. der Name des Verkäufers
 2. Der Zustand des Fahrrads
 3. wegen seines Umzugs
 4. Während des Symposiums
@@ -112,7 +112,7 @@
 
 ## Übung B5 — Formelle Sätze rekonstruieren
 
-1. Wegen des Umbaus ist Mensa die geschlossen
+1. Wegen des Umbaus ist die Mensa geschlossen
 2. Trotz der Schwierigkeiten hat er bestanden
 3. Während des Experiments notierten die Studenten alles
 4. Statt des Kaffees bestellte sie Tee

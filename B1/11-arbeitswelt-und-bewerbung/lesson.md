@@ -18,6 +18,8 @@
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
 ### Dialog A: Bewerbungsvorbereitung — bei Mia zu Hause (informal, 3 Personen)
 
 *Scene: Mia's flat in Kreuzberg, Sunday afternoon. Bruno is preparing for a
@@ -46,6 +48,8 @@ switch between informal advice and the polished German Bruno will need.*
 > **Pavel:** Und am Ende: „Haben Sie noch Fragen an uns?" — sag immer ja.  
 > **Bruno:** Ich habe bereits eine Frage vorbereitet: „Wie sieht die Einarbeitung für neue Mitarbeiter aus?"  
 > **Mia:** Ausgezeichnet. Du bist bereit!  
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Vorstellungsgespräch — Anna bei einer Projektkoordinatorin-Stelle (formal, 2 Personen)
 
@@ -138,7 +142,6 @@ interview with Anna, who is applying for a Projektkoordinatorin role.*
 | der Kollege, -n / die Kollegin, -nen | (male/female) colleague |
 | der Abteilungsleiter, – / die Abteilungsleiterin, -nen | department head |
 | die Überstunden (Pl.) | overtime |
-| das Vorstellungsgespräch, -e | job interview |
 | die Einarbeitung, -en | onboarding, induction |
 | die Personalchefin, -nen / der Personalchef, -s | HR manager / head of HR |
 
@@ -164,7 +167,7 @@ interview with Anna, who is applying for a Projektkoordinatorin role.*
 | koordinieren | to coordinate |
 | leiten | to lead / to manage |
 | einarbeiten | to onboard / to induct |
-| überstunden machen | to do overtime |
+| Überstunden machen | to do overtime |
 | eine Stelle antreten | to start a job |
 
 ---
@@ -348,6 +351,8 @@ Mit freundlichen Grüßen,
 Anna Kowalski
 
 ---
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 ## 6. Hörtext — Bruno bereitet seinen Lebenslauf vor
 
