@@ -786,7 +786,7 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word may be used once."
+    instructions: "Fill the 10 gaps using words from the box. Eleven words are not needed. Each word may be used once."
     text: |
       — Wie sieht dein Zimmer aus?
       — Also, das Bett {1} an der Wand. {2} dem Bett liegen zwei

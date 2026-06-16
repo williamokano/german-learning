@@ -411,7 +411,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. Ten words are not needed. Each word may be used once.
+Fill the 10 gaps using words from the box. Eleven words are not needed. Each word may be used once.
 
 > — Wie sieht dein Zimmer aus?
 > — Also, das Bett (1) ______ an der Wand. (2) ______ dem Bett liegen zwei
