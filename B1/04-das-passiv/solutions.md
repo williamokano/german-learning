@@ -73,11 +73,11 @@
 
 1. das Auto wird von Robotern gebaut
    _Das Auto wird von Robotern gebaut._
-2. wurden die Mitarbeiter nicht informiert
+2. die Mitarbeiter wurden nicht informiert
    _Die Mitarbeiter wurden nicht informiert._
-3. muss der Fehler sofort gemeldet werden
+3. der Fehler muss sofort gemeldet werden
    _Der Fehler muss sofort gemeldet werden._
-4. ist das Gesetz bereits geändert worden
+4. das Gesetz ist bereits geändert worden
    _Das Gesetz ist bereits geändert worden._
 
 ## Übung A9 — Passivformen überprüfen — richtig oder falsch?
@@ -213,7 +213,7 @@ Selbstkorrektur:
 ## Übung D2 — Wortschatz-Check: Welches Wort passt nicht?
 
 1. ~~ankündigen~~ — ankündigen = to announce (news language); the others are production verbs.
-2. ~~worden~~ — worden is the special Passiv-Partizip; geworden is the Partizip II of werden (to become) as a full verb — it does NOT appear in passive constructions.
+2. ~~geworden~~ — geworden is the Partizip II of werden as a full verb (to become — er ist Arzt geworden) — it does NOT appear in passive constructions. The others (wurde, wird, worden) are all auxiliary forms of werden used in Passiv.
 3. ~~die Meldung~~ — die Meldung = news item (news language); the others are production/manufacturing vocabulary.
 4. ~~werden~~ — werden is not a modal verb — it is the auxiliary for Passiv and Futur. The others are modal verbs.
 5. ~~beschließen~~ — beschließen = to decide; the others all mean to check/inspect.

@@ -327,13 +327,13 @@ exercises:
         answer: [1, 2, 0, 3, 4, 5]
         note: "Das Auto wird von Robotern gebaut."
       - tiles: ["wurden", "die", "Mitarbeiter", "nicht", "informiert"]
-        answer: [0, 1, 2, 3, 4]
+        answer: [1, 2, 0, 3, 4]
         note: "Die Mitarbeiter wurden nicht informiert."
       - tiles: ["muss", "der", "Fehler", "sofort", "gemeldet", "werden"]
-        answer: [0, 1, 2, 3, 4, 5]
+        answer: [1, 2, 0, 3, 4, 5]
         note: "Der Fehler muss sofort gemeldet werden."
       - tiles: ["ist", "das", "Gesetz", "bereits", "geändert", "worden"]
-        answer: [0, 1, 2, 3, 4, 5]
+        answer: [1, 2, 0, 3, 4, 5]
         note: "Das Gesetz ist bereits geändert worden."
 
   - id: A9
@@ -863,7 +863,7 @@ exercises:
     title: "Wortschatz-Check: Welches Wort passt nicht?"
     groups:
       - { items: ["herstellen", "produzieren", "verarbeiten", "ankündigen"], odd: 3, why: "ankündigen = to announce (news language); the others are production verbs." }
-      - { items: ["wurde", "wird", "worden", "geworden"], odd: 2, why: "worden is the special Passiv-Partizip; geworden is the Partizip II of werden (to become) as a full verb — it does NOT appear in passive constructions." }
+      - { items: ["wurde", "wird", "worden", "geworden"], odd: 3, why: "geworden is the Partizip II of werden as a full verb (to become — er ist Arzt geworden) — it does NOT appear in passive constructions. The others (wurde, wird, worden) are all auxiliary forms of werden used in Passiv." }
       - { items: ["der Rohstoff", "die Fabrik", "die Anlage", "die Meldung"], odd: 3, why: "die Meldung = news item (news language); the others are production/manufacturing vocabulary." }
       - { items: ["müssen", "können", "sollen", "werden"], odd: 3, why: "werden is not a modal verb — it is the auxiliary for Passiv and Futur. The others are modal verbs." }
       - { items: ["prüfen", "überprüfen", "kontrollieren", "beschließen"], odd: 3, why: "beschließen = to decide; the others all mean to check/inspect." }

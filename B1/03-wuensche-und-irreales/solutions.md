@@ -75,7 +75,7 @@
 
 ## Übung A8 — Satzbau: Konjunktiv II-Sätze in die richtige Reihenfolge
 
-1. wenn ich könnte ich würde nach Tokio gehen
+1. wenn ich könnte würde ich nach Tokio gehen
    _Wenn ich könnte, würde ich nach Tokio gehen. (wenn-clause first → inversion in main clause)_
 2. Du solltest dich sofort anmelden
    _Du solltest dich sofort anmelden. (advice with solltest)_

@@ -361,7 +361,7 @@ exercises:
     instructions: "Put the words in the correct order to form a Konjunktiv II sentence."
     items:
       - tiles: ["würde", "ich", "nach", "Tokio", "gehen", "wenn", "ich", "könnte"]
-        answer: [5, 6, 7, 1, 0, 2, 3, 4]
+        answer: [5, 6, 7, 0, 1, 2, 3, 4]
         note: "Wenn ich könnte, würde ich nach Tokio gehen. (wenn-clause first → inversion in main clause)"
       - tiles: ["Du", "solltest", "dich", "sofort", "anmelden"]
         answer: [0, 1, 2, 3, 4]
