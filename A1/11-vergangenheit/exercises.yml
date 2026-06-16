@@ -671,7 +671,7 @@ exercises:
     instructions: "Fill each gap with one word from the box. Five words are not needed."
     text: |
       Am Wochenende {1} ich viel gemacht. Am Samstag {2} ich zuerst im Supermarkt {3}. Dann {4} ich meine Freundin {5}. Wir {6} zusammen Kaffee {7} und einen Kuchen {8}. Am Abend {9} wir ins Kino {10}.
-    bank: [habe, eingekauft, besucht, haben, getrunken, gegessen, sind, gegangen, bin, gemacht, gekommen, gefahren, war]
+    bank: [habe, habe, habe, eingekauft, besucht, haben, getrunken, gegessen, sind, gegangen, bin, gemacht, gekommen, gefahren, war]
     answers:
       "1": habe
       "2": habe

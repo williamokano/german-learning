@@ -327,7 +327,7 @@ Fill each gap with one word from the box. Five words are not needed.
 
 > Am Wochenende (1) ______ ich viel gemacht. Am Samstag (2) ______ ich zuerst im Supermarkt (3) ______. Dann (4) ______ ich meine Freundin (5) ______. Wir (6) ______ zusammen Kaffee (7) ______ und einen Kuchen (8) ______. Am Abend (9) ______ wir ins Kino (10) ______.
 
-> BESUCHT · BIN · EINGEKAUFT · GEFAHREN · GEGANGEN · GEGESSEN · GEKOMMEN · GEMACHT · GETRUNKEN · HABE · HABEN · SIND · WAR
+> BESUCHT · BIN · EINGEKAUFT · GEFAHREN · GEGANGEN · GEGESSEN · GEKOMMEN · GEMACHT · GETRUNKEN · HABE · HABE · HABE · HABEN · SIND · WAR
 
 Five words are not needed.
 
