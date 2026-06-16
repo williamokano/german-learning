@@ -103,13 +103,13 @@ Modellantwort:
 
 1. Berlin ist größer als München
    _Berlin ist größer als München._
-2. Der Zug ist so schnell wie das Auto 
+2. Der Zug ist so schnell wie das Auto
    _Der Zug ist so schnell wie das Auto._
-3. Das rote Kleid ist teurer als das blaue 
+3. Das rote Kleid ist teurer als das blaue
    _Das rote Kleid ist teurer als das blaue._
 4. München ist im Winter wärmer als Berlin
    _München ist im Winter wärmer als Berlin._
-5. Dieses Hotel ist  am günstigsten
+5. Dieses Hotel ist am günstigsten
    _Dieses Hotel ist am günstigsten._
 6. das ist der schnellste Zug
    _Das ist der schnellste Zug._

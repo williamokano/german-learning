@@ -511,16 +511,16 @@ exercises:
         answer: [0, 1, 2, 3, 4]
         note: "Berlin ist größer als München."
       - tiles: [Der Zug, ist, so schnell, wie, das Auto]
-        answer: [0, 1, 2, 3, 4, 5]
+        answer: [0, 1, 2, 3, 4]
         note: "Der Zug ist so schnell wie das Auto."
       - tiles: [Das rote Kleid, ist, teurer, als, das blaue]
-        answer: [0, 1, 2, 3, 4, 5]
+        answer: [0, 1, 2, 3, 4]
         note: "Das rote Kleid ist teurer als das blaue."
       - tiles: [München, ist, im Winter, wärmer, als, Berlin]
         answer: [0, 1, 2, 3, 4, 5]
         note: "München ist im Winter wärmer als Berlin."
       - tiles: [Dieses Hotel, ist, am günstigsten]
-        answer: [0, 1, 3, 2]
+        answer: [0, 1, 2]
         note: "Dieses Hotel ist am günstigsten."
       - tiles: [der schnellste Zug, ist, das]
         answer: [2, 1, 0]
