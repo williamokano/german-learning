@@ -119,8 +119,8 @@ Fill in the correct form of the reflexive verb.
 1. Anna ______ nach der langen Arbeitswoche. (sich ausruhen)
 2. Bruno ______ oft über den vollen Terminkalender. (sich ärgern)
 3. Ich ______ auf den Yogakurs am Dienstag. (sich freuen — auf)
-4. ______ du ______ nach der Schicht? (sich ausruhen, du-form)
-5. Wir ______ immer ______, wenn wir keine Zeit für Sport haben. (sich ärgern)
+4. ______ du dich nach der Schicht ______? (sich ausruhen, du-form)
+5. Wir ______ ______ immer, wenn wir keine Zeit für Sport haben. (sich ärgern)
 6. ______ ihr ______ auf das Wochenende? (sich freuen — auf, ihr-form)
 7. Er ______ über die Warteschlange in der Apotheke. (sich ärgern)
 8. Sie (she) ______ endlich richtig ______ — sie schläft lange. (sich ausruhen)
@@ -244,18 +244,18 @@ Each item has exactly one mistake. The wrong word is shown as a gap — write th
 | 5. Zieht ihr euch warm an? | | e) Ich ärgere mich über den langen Weg zur Arbeit. |
 | 6. Warum erkälten Sie sich so oft? | | f) Ja, es ist kalt draußen — wir ziehen uns Mäntel an. |
 | 7. Wann entspannt er sich? | | g) Weil er zu viel Stress hat und sich nicht freimachen kann. |
-| 8. Kannst du dir das vorstellen? | | h) Er entspannt sich am Abend mit einem Buch. |
+| 8. Warum ärgert er sich so oft? | | h) Er entspannt sich am Abend mit einem Buch. |
 
 ## Übung B4 — Satzbau: Reflexivverben
 
-Build the correct sentence with the given elements.
+Put the words in the right order.
 
-1. heute – wir – sich fühlen – sehr
-2. der Stress – über – sich ärgern – Anna – oft
-3. sich ausruhen – mehr – müssen – ihr
-4. sich vorstellen – kann – Bruno – kaum – das
-5. warm – die Kinder – sich anziehen – sollen
-6. das Wochenende – sich freuen – wir – auf
+1. fühlen – sehr – wir – gut – uns – Heute
+2. sich – Anna – oft – Stress – den – über – ärgert
+3. ausruhen – Ihr – euch – müsst – mehr
+4. das – vorstellen – kann – Bruno – kaum – sich
+5. sich – anziehen – Kinder – sollen – warm – Die
+6. uns – das – freuen – Wochenende – Wir – auf
 
 ## Übung B5 — Reflexiv oder reziprok?
 
@@ -353,7 +353,7 @@ Fill the 10 gaps from the box. Ten words are not needed. Each word once.
 > — Anna, wie fühlst du (1) ______ heute?
 > — Ich fühle (2) ______ erschöpft. Ich habe diese Woche so viel gearbeitet!
 > — Das kenne ich. Ich wünsche (3) ______ einfach mehr Freizeit.
-> — Übrigens — Yuki erzählt mir, dass er (4) ______ (5) ______ am Wochenende immer (6) ______.
+> — Übrigens — Yuki sagt, sie (4) ______ (5) ______ am Wochenende immer (6) ______.
 > — Stimmt! Wir müssen (7) ______ auch mehr Zeit nehmen.
 > — Frau Weber hat auch gesagt: „Könnt ihr (8) ______ heute früher hinlegen?"
 > — Ja! Anna, du bist zu gestresst — du solltest dich (9) ______. Ich kenne ein gutes Yoga-Studio!

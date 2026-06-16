@@ -240,8 +240,8 @@ exercises:
       1. Anna {1} nach der langen Arbeitswoche. (sich ausruhen)
       2. Bruno {2} oft über den vollen Terminkalender. (sich ärgern)
       3. Ich {3} auf den Yogakurs am Dienstag. (sich freuen — auf)
-      4. {4} du {5} nach der Schicht? (sich ausruhen, du-form)
-      5. Wir {6} immer {7}, wenn wir keine Zeit für Sport haben. (sich ärgern)
+      4. {4} du dich nach der Schicht {5}? (sich ausruhen, du-form)
+      5. Wir {6} {7} immer, wenn wir keine Zeit für Sport haben. (sich ärgern)
       6. {8} ihr {9} auf das Wochenende? (sich freuen — auf, ihr-form)
       7. Er {10} über die Warteschlange in der Apotheke. (sich ärgern)
       8. Sie (she) {11} endlich richtig {12} — sie schläft lange. (sich ausruhen)
@@ -249,12 +249,12 @@ exercises:
       "1": "ruht sich aus"
       "2": "ärgert sich"
       "3": "freue mich"
-      "4": "Ruhst du dich"
-      "5": "aus"
-      "6": "ärgern uns"
-      "7": "ärgern"
-      "8": "Freut ihr euch"
-      "9": "auf das Wochenende"
+      "4": "Ruhst"
+      "5": aus
+      "6": "ärgern"
+      "7": uns
+      "8": Freut
+      "9": euch
       "10": "ärgert sich"
       "11": "ruht sich"
       "12": "aus"
@@ -397,7 +397,7 @@ exercises:
       "5": N
       "6": R
       "7": R
-      "8": C
+      "8": R
       "9": N
 
   # ── Block B — Vertiefung ──────────────────────────────────────────────────
@@ -472,7 +472,7 @@ exercises:
       - { key: "5", text: "Zieht ihr euch warm an?" }
       - { key: "6", text: "Warum erkälten Sie sich so oft?" }
       - { key: "7", text: "Wann entspannt er sich?" }
-      - { key: "8", text: "Kannst du dir das vorstellen?" }
+      - { key: "8", text: "Warum ärgert er sich so oft?" }
     right:
       - { key: a, text: "Ich erkälte mich leider leicht im Winter." }
       - { key: b, text: "Ich wünsche mir mehr Schlaf und weniger Stress." }
@@ -496,25 +496,25 @@ exercises:
     block: B
     type: order
     title: "Satzbau: Reflexivverben"
-    instructions: "Build the correct sentence with the given elements."
+    instructions: "Put the words in the right order."
     items:
-      - tiles: [sich fühlen, wir, heute, sehr]
-        answer: [2, 0, 1, 3, 4]
-        note: "Heute fühlen wir uns sehr gut. (Or: Wir fühlen uns heute sehr gut.)"
-      - tiles: [sich ärgern, Anna, oft, über, der Stress]
-        answer: [3, 0, 1, 2, 4, 5]
+      - tiles: [uns, Heute, sehr, wir, fühlen, gut]
+        answer: [1, 4, 3, 0, 2, 5]
+        note: "Heute fühlen wir uns sehr gut."
+      - tiles: [sich, über, Anna, ärgert, den, oft, Stress]
+        answer: [2, 3, 0, 5, 1, 4, 6]
         note: "Anna ärgert sich oft über den Stress."
-      - tiles: [sich ausruhen, ihr, müssen, mehr]
-        answer: [2, 0, 1, 3, 4]
+      - tiles: [mehr, euch, ausruhen, Ihr, müsst]
+        answer: [3, 4, 1, 0, 2]
         note: "Ihr müsst euch mehr ausruhen."
-      - tiles: [sich vorstellen, Bruno, kann, das, kaum]
-        answer: [3, 0, 4, 1, 2]
+      - tiles: [sich, kaum, Bruno, vorstellen, das, kann]
+        answer: [2, 5, 0, 4, 1, 3]
         note: "Bruno kann sich das kaum vorstellen."
-      - tiles: [sich anziehen, die Kinder, warm, sollen]
-        answer: [3, 0, 1, 2, 4]
+      - tiles: [sich, sollen, warm, Die, Kinder, anziehen]
+        answer: [3, 4, 1, 0, 2, 5]
         note: "Die Kinder sollen sich warm anziehen."
-      - tiles: [sich freuen, wir, auf, das Wochenende]
-        answer: [3, 0, 1, 2, 4]
+      - tiles: [auf, uns, freuen, das, Wir, Wochenende]
+        answer: [4, 2, 1, 0, 3, 5]
         note: "Wir freuen uns auf das Wochenende."
 
   - id: B5
@@ -709,7 +709,7 @@ exercises:
       — Anna, wie fühlst du {1} heute?
       — Ich fühle {2} erschöpft. Ich habe diese Woche so viel gearbeitet!
       — Das kenne ich. Ich wünsche {3} einfach mehr Freizeit.
-      — Übrigens — Yuki erzählt mir, dass er {4} {5} am Wochenende immer {6}.
+      — Übrigens — Yuki sagt, sie {4} {5} am Wochenende immer {6}.
       — Stimmt! Wir müssen {7} auch mehr Zeit nehmen.
       — Frau Weber hat auch gesagt: „Könnt ihr {8} heute früher hinlegen?"
       — Ja! Anna, du bist zu gestresst — du solltest dich {9}. Ich kenne ein gutes Yoga-Studio!

@@ -51,7 +51,7 @@
 
 ## Übung A5 — `sich ausruhen`, `sich ärgern`, `sich freuen`: Einsetzen
 
-1. **ruht sich aus**  2. **ärgert sich**  3. **freue mich**  4. **Ruhst du dich**  5. **aus**  6. **ärgern uns**  7. **ärgern**  8. **Freut ihr euch**  9. **auf das Wochenende**  10. **ärgert sich**  11. **ruht sich**  12. **aus**
+1. **ruht sich aus**  2. **ärgert sich**  3. **freue mich**  4. **Ruhst**  5. **aus**  6. **ärgern**  7. **uns**  8. **Freut**  9. **euch**  10. **ärgert sich**  11. **ruht sich**  12. **aus**
 
 ## Übung A6 — `sich waschen`, `sich anziehen`, `sich ausziehen`: Morgenroutine
 
@@ -97,7 +97,7 @@ Modellantwort:
 
 ## Übung A11 — Reflexiv oder nicht? Entscheiden
 
-1. **R**  2. **N**  3. **R**  5. **N**  6. **R**  7. **R**  8. **C**  9. **N**
+1. **R**  2. **N**  3. **R**  5. **N**  6. **R**  7. **R**  8. **R**  9. **N**
 
 ---
 
@@ -117,17 +117,17 @@ Modellantwort:
 
 ## Übung B4 — Satzbau: Reflexivverben
 
-1. heute sich fühlen wir sehr 
-   _Heute fühlen wir uns sehr gut. (Or: Wir fühlen uns heute sehr gut.)_
-2. über sich ärgern Anna oft der Stress 
+1. Heute fühlen wir uns sehr gut
+   _Heute fühlen wir uns sehr gut._
+2. Anna ärgert sich oft über den Stress
    _Anna ärgert sich oft über den Stress._
-3. müssen sich ausruhen ihr mehr 
+3. Ihr müsst euch mehr ausruhen
    _Ihr müsst euch mehr ausruhen._
-4. das sich vorstellen kaum Bruno kann
+4. Bruno kann sich das kaum vorstellen
    _Bruno kann sich das kaum vorstellen._
-5. sollen sich anziehen die Kinder warm 
+5. Die Kinder sollen sich warm anziehen
    _Die Kinder sollen sich warm anziehen._
-6. das Wochenende sich freuen wir auf 
+6. Wir freuen uns auf das Wochenende
    _Wir freuen uns auf das Wochenende._
 
 ## Übung B5 — Reflexiv oder reziprok?
