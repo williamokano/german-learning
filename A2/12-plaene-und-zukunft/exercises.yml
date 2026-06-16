@@ -369,7 +369,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischt: Futur I + wenn"
-    instructions: 'Complete the sentence. Use Futur I in the main clause and a wenn-clause (verb at the end) for the condition. 8 items × 3 gaps each = 24 gaps. Sample: „Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen)." Use the infinitive given in brackets.'
+    instructions: 'Complete the sentence. Use Futur I in the main clause and a wenn-clause (verb at the end) for the condition. 22 gaps total. Sample: „Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen)." Use the infinitive given in brackets.'
     text: |
       1. Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen).
       2. Wenn es morgen regnet, {4} (werden) wir zu Hause {5} (bleiben).
@@ -512,7 +512,7 @@ exercises:
       - { key: "3", text: "Was wirst du tun, wenn es regnet?" }
       - { key: "4", text: "Wird das Wetter morgen besser?" }
       - { key: "5", text: "Was hast du dir vorgenommen?" }
-      - { key: "6", text: "Was wird das Catering liefern?" }
+      - { key: "6", text: "Wer wird das Catering liefern?" }
     right:
       - { key: a, text: "Ich werde wahrscheinlich zu Hause bleiben." }
       - { key: b, text: "Im Juli." }
@@ -917,7 +917,7 @@ exercises:
       1. (A2/L01) Partizip II of verstehen: {1}
       2. (A2/L01) Präteritum of müssen, ich-form: {2}
       3. (A2/L03) weil or dass? „Ich weiß, {3} er krank ist." → {4}
-      4. (A2/L04) wenn-clause: „Wenn er kommt, {5} ich mich freue." (werden / freuen) → {6}
+      4. (A2/L04) wenn-clause: „Wenn er kommt, {5} ich mich freuen." (werden) → {6}
       5. (A2/L04) als + profession: „Sie arbeitet {7} Ärztin." → {8}
       6. (A2/L09) Konjunktiv II polite: „Ich {9} gern einen Kaffee." (hätte / habe / bin) → {10}
       7. (A2/L09) Wäre + infinitive: „{11} Sie so freundlich, das Fenster zu öffnen?" → {12}

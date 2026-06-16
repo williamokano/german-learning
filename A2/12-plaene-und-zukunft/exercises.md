@@ -191,7 +191,7 @@ Fill the gap with als or wenn. 8 items.
 
 ## Übung A11 — Gemischt: Futur I + wenn
 
-Complete the sentence. Use Futur I in the main clause and a wenn-clause (verb at the end) for the condition. 8 items × 3 gaps each = 24 gaps. Sample: „Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen)." Use the infinitive given in brackets.
+Complete the sentence. Use Futur I in the main clause and a wenn-clause (verb at the end) for the condition. 22 gaps total. Sample: „Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen)." Use the infinitive given in brackets.
 
 1. Wenn ich morgen Zeit ______ (haben), ______ (werden) ich ins Kino ______ (gehen).
 2. Wenn es morgen regnet, ______ (werden) wir zu Hause ______ (bleiben).
@@ -269,7 +269,7 @@ Match each question (1–6) with the correct answer (a–f).
 | 3. Was wirst du tun, wenn es regnet? | | c) Ich werde Deutsch lernen. |
 | 4. Wird das Wetter morgen besser? | | d) Ja, es wird sonnig und warm. |
 | 5. Was hast du dir vorgenommen? | | e) Mehr Sport zu machen. |
-| 6. Was wird das Catering liefern? | | f) Das Restaurant wird das Catering liefern. |
+| 6. Wer wird das Catering liefern? | | f) Das Restaurant wird das Catering liefern. |
 
 ## Übung B5 — Übersetzen (EN → DE)
 
@@ -462,7 +462,7 @@ Review of Partizip II, weil/dass, wenn/als, Konjunktiv II, and prepositions. 10 
 1. (A2/L01) Partizip II of verstehen: ______
 2. (A2/L01) Präteritum of müssen, ich-form: ______
 3. (A2/L03) weil or dass? „Ich weiß, ______ er krank ist." → ______
-4. (A2/L04) wenn-clause: „Wenn er kommt, ______ ich mich freue." (werden / freuen) → ______
+4. (A2/L04) wenn-clause: „Wenn er kommt, ______ ich mich freuen." (werden) → ______
 5. (A2/L04) als + profession: „Sie arbeitet ______ Ärztin." → ______
 6. (A2/L09) Konjunktiv II polite: „Ich ______ gern einen Kaffee." (hätte / habe / bin) → ______
 7. (A2/L09) Wäre + infinitive: „______ Sie so freundlich, das Fenster zu öffnen?" → ______
