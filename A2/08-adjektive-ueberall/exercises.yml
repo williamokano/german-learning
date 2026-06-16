@@ -545,13 +545,13 @@ exercises:
     title: "Satzbau: Adjektiv + Nomen"
     instructions: "Build correct sentences. Use the adjective in the correct form."
     items:
-      - tiles: [Ich, kaufen, ein, rotes, Kleid]
+      - tiles: [Ich, kaufe, ein, rotes, Kleid]
         answer: [0, 1, 2, 3, 4]
         note: "Ich kaufe ein rotes Kleid."
       - tiles: [Das ist, meine, neue, Kollegin]
         answer: [0, 1, 2, 3]
         note: "Das ist meine neue Kollegin."
-      - tiles: [Er, tragen, den, schwarzen, Mantel]
+      - tiles: [Er, trägt, den, schwarzen, Mantel]
         answer: [0, 1, 2, 3, 4]
         note: "Er trägt den schwarzen Mantel."
       - tiles: [Wir, helfen, dem, alten, Mann]
@@ -560,13 +560,13 @@ exercises:
       - tiles: [Sie, suchen, eine, moderne, Wohnung]
         answer: [0, 1, 2, 3, 4]
         note: "Sie suchen eine moderne Wohnung."
-      - tiles: [Das Kind, spielen, mit, einem, kleinen, Ball]
+      - tiles: [Das Kind, spielt, mit, einem, kleinen, Ball]
         answer: [0, 1, 2, 3, 4, 5]
         note: "Das Kind spielt mit einem kleinen Ball."
-      - tiles: [Ich, sehen, die, bunten, Bilder]
+      - tiles: [Ich, sehe, die, bunten, Bilder]
         answer: [0, 1, 2, 3, 4]
         note: "Ich sehe die bunten Bilder."
-      - tiles: [Er, fahren, mit, seinem, neuen, Auto]
+      - tiles: [Er, fährt, mit, seinem, neuen, Auto]
         answer: [0, 1, 2, 3, 4, 5]
         note: "Er fährt mit seinem neuen Auto."
 
@@ -1017,6 +1017,6 @@ exercises:
       "15": "Sie kommt mit ihrer alten Freundin."
       "16": "Das sind schöne alte Schuhe."
       "17": als
-      "18": ihr
+      "18": sich
       "19": accusative
       "20": "am besten"

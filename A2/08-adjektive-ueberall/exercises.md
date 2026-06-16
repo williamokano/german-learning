@@ -280,14 +280,14 @@ Each sentence has exactly one mistake in the adjective ending. Write the correct
 
 Build correct sentences. Use the adjective in the correct form.
 
-1. kaufen – rotes – Kleid – ein – Ich
+1. kaufe – rotes – Kleid – ein – Ich
 2. Kollegin – Das ist – meine – neue
-3. den – schwarzen – tragen – Mantel – Er
+3. den – schwarzen – trägt – Mantel – Er
 4. Wir – dem – helfen – Mann – alten
 5. moderne – Sie – Wohnung – eine – suchen
-6. spielen – einem – mit – Ball – kleinen – Das Kind
-7. Bilder – bunten – die – Ich – sehen
-8. neuen – Er – fahren – Auto – seinem – mit
+6. spielt – einem – mit – Ball – kleinen – Das Kind
+7. Bilder – bunten – die – Ich – sehe
+8. neuen – Er – fährt – Auto – seinem – mit
 
 ## Übung B5 — Kleidung beschreiben
 

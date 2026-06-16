@@ -99,21 +99,21 @@
 
 ## Übung B4 — Satzbau: Adjektiv + Nomen
 
-1. Ich kaufen ein rotes Kleid
+1. Ich kaufe ein rotes Kleid
    _Ich kaufe ein rotes Kleid._
 2. Das ist meine neue Kollegin
    _Das ist meine neue Kollegin._
-3. Er tragen den schwarzen Mantel
+3. Er trägt den schwarzen Mantel
    _Er trägt den schwarzen Mantel._
 4. Wir helfen dem alten Mann
    _Wir helfen dem alten Mann._
 5. Sie suchen eine moderne Wohnung
    _Sie suchen eine moderne Wohnung._
-6. Das Kind spielen mit einem kleinen Ball
+6. Das Kind spielt mit einem kleinen Ball
    _Das Kind spielt mit einem kleinen Ball._
-7. Ich sehen die bunten Bilder
+7. Ich sehe die bunten Bilder
    _Ich sehe die bunten Bilder._
-8. Er fahren mit seinem neuen Auto
+8. Er fährt mit seinem neuen Auto
    _Er fährt mit seinem neuen Auto._
 
 ## Übung B5 — Kleidung beschreiben
@@ -242,7 +242,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-1. **e**  2. **er**  3. **es**  4. **e**  5. **en**  6. **en**  7. **es**  8. **en**  9. **en**  10. **en**  11. **en**  12. **eine schwarze Jacke**  13. **Ich suche eine neue Tasche.**  14. **Er trägt den eleganten Anzug.**  15. **Sie kommt mit ihrer alten Freundin.**  16. **Das sind schöne alte Schuhe.**  17. **als**  18. **ihr**  19. **accusative**  20. **am besten**
+1. **e**  2. **er**  3. **es**  4. **e**  5. **en**  6. **en**  7. **es**  8. **en**  9. **en**  10. **en**  11. **en**  12. **eine schwarze Jacke**  13. **Ich suche eine neue Tasche.**  14. **Er trägt den eleganten Anzug.**  15. **Sie kommt mit ihrer alten Freundin.**  16. **Das sind schöne alte Schuhe.**  17. **als**  18. **sich**  19. **accusative**  20. **am besten**
 
 ---
 
