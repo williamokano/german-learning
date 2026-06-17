@@ -112,7 +112,7 @@ When done, report:
 | A1/13 | aemter-telefon-alltag | ✅ | 5,587w lesson.md · 2,929w lesson-short.md |
 | A1/14 | pruefungstraining-a1 | ✅ | 3,211w lesson.md · 2,090w lesson-short.md |
 | A2/01 | erzaehl-mal | ✅ | 4,903w lesson.md · 2,596w lesson-short.md |
-| A2/02 | zusammen-wohnen | ⬜ | |
+| A2/02 | zusammen-wohnen | ✅ | 5,580w lesson.md · 2,921w lesson-short.md |
 | A2/03 | begruenden-und-erklaeren | ⬜ | |
 | A2/04 | arbeit-und-beruf | ⬜ | |
 | A2/05 | gesund-leben | ⬜ | |
