@@ -43,7 +43,7 @@
 
 ## Übung A3 — -ieren verbs: Perfekt sentence
 
-1. **Ich habe in Berlin studiert.**  2. **Er hat eine Stunde lang telefoniert.**  3. **Wir haben einen Tisch reserviert.**  4. **Sie hat die Stadt fotografiert.**  5. **Was ist euch passiert?**  6. **Ich habe zwei Karten reserviert.**
+1. **Ich habe in Berlin studiert.**  2. **Er hat eine Stunde lang telefoniert.**  3. **Wir haben einen Tisch reserviert.**  4. **Sie hat die Stadt fotografiert.**  5. **Was ist dir passiert?**  6. **Ich habe zwei Karten reserviert.**
 
 ## Übung A4 — Separable verbs: Partizip II
 

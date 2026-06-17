@@ -111,7 +111,20 @@ When done, report:
 | A1/12 | termine-und-feste | ✅ | 5,659w lesson.md · 2,539w lesson-short.md |
 | A1/13 | aemter-telefon-alltag | ✅ | 5,587w lesson.md · 2,929w lesson-short.md |
 | A1/14 | pruefungstraining-a1 | ✅ | 3,211w lesson.md · 2,090w lesson-short.md |
-| A2/01–14 | — | ⬜ | After A1 complete |
+| A2/01 | erzaehl-mal | ✅ | 4,903w lesson.md · 2,596w lesson-short.md |
+| A2/02 | zusammen-wohnen | ⬜ | |
+| A2/03 | begruenden-und-erklaeren | ⬜ | |
+| A2/04 | arbeit-und-beruf | ⬜ | |
+| A2/05 | gesund-leben | ⬜ | |
+| A2/06 | medien-und-kommunikation | ⬜ | |
+| A2/07 | vergleichen | ⬜ | |
+| A2/08 | adjektive-ueberall | ⬜ | |
+| A2/09 | hoeflichkeit-und-wuensche | ⬜ | |
+| A2/10 | stadt-land-reisen | ⬜ | |
+| A2/11 | geben-und-schenken | ⬜ | |
+| A2/12 | plaene-und-zukunft | ⬜ | |
+| A2/13 | menschen-beschreiben | ⬜ | |
+| A2/14 | pruefungstraining-a2 | ⬜ | Review lesson — use adapted §6 (see review-lesson section above) |
 | B1/01–14 | — | ⬜ | After A2 complete; instruction language shifts to mixed EN/DE |
 
 ---

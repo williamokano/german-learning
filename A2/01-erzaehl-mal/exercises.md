@@ -101,7 +101,7 @@ Form the Perfekt sentence.
 2. er / telefonieren / eine Stunde / lang → ______
 3. wir / reservieren / ein Tisch → ______
 4. sie (she) / fotografieren / die Stadt → ______
-5. ihr / passieren / was? → ______
+5. was / passieren / mit dir? → ______
 6. ich / reservieren / zwei Karten → ______
 
 ## Übung A4 — Separable verbs: Partizip II

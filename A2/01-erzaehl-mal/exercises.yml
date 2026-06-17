@@ -195,14 +195,14 @@ exercises:
       2. er / telefonieren / eine Stunde / lang → {2}
       3. wir / reservieren / ein Tisch → {3}
       4. sie (she) / fotografieren / die Stadt → {4}
-      5. ihr / passieren / was? → {5}
+      5. was / passieren / mit dir? → {5}
       6. ich / reservieren / zwei Karten → {6}
     answers:
       "1": "Ich habe in Berlin studiert."
       "2": "Er hat eine Stunde lang telefoniert."
       "3": "Wir haben einen Tisch reserviert."
       "4": "Sie hat die Stadt fotografiert."
-      "5": "Was ist euch passiert?"
+      "5": "Was ist dir passiert?"
       "6": "Ich habe zwei Karten reserviert."
 
   - id: A4
