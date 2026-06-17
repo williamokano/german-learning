@@ -13,13 +13,19 @@ const lessonSchema = z.object({
   buildsOn: z.array(z.string()).optional(),
 });
 
+// Always use the filepath as the entry id, even when frontmatter has a `slug:` field.
+// Astro's default generateId returns data.slug when present, which loses the level/number
+// prefix and breaks the [level]/[lesson] routing. We strip only the extension.
+const byFilepath = ({ entry }: { entry: string }) =>
+  entry.replace(/\.(md|mdx)$/, '').toLowerCase();
+
 const lessons = defineCollection({
-  loader: glob({ pattern: '*/*/lesson.{md,mdx}', base: '../' }),
+  loader: glob({ pattern: '*/*/lesson.{md,mdx}', base: '../', generateId: byFilepath }),
   schema: lessonSchema,
 });
 
 const lessonsShort = defineCollection({
-  loader: glob({ pattern: '*/*/lesson-short.{md,mdx}', base: '../' }),
+  loader: glob({ pattern: '*/*/lesson-short.{md,mdx}', base: '../', generateId: byFilepath }),
   schema: lessonSchema,
 });
 
