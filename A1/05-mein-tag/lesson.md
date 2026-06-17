@@ -41,6 +41,9 @@ buildsOn:
 
 ### Dialog A: Annas Tag
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+
 > **Bruno:** Anna, wann stehst du auf?  
 > **Anna:** Um halb sieben — also um 6:30 Uhr. Ich dusche, frühstücke, und um  
 > acht fängt meine Arbeit an.  
@@ -57,6 +60,9 @@ buildsOn:
 later. Same for `meistens` (= mostly).
 
 ### Dialog B: Pläne am Telefon
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
 
 > **Anna:** Hallo Bruno, hier ist Anna. Hast du am Samstag Zeit?  
 > **Bruno:** Ja, am Samstag bin ich frei. Was machen wir?  

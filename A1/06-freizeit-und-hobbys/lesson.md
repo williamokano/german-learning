@@ -40,6 +40,8 @@ buildsOn:
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ### Dialog A: Was machst du gern?
 
 > **Anna:** Bruno, was machst du gern in deiner Freizeit?  
@@ -57,6 +59,8 @@ buildsOn:
 
 \* `mit Freunden`, `im Park` — preposition chunks for now; the preposition
 system starts in Lektion 8.
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
 ### Dialog B: Das Wetter ist schlecht — was machen wir?
 
@@ -564,6 +568,9 @@ an — für Oma Erika ist das auch ein Hobby!
 ## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

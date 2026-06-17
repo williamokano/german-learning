@@ -38,6 +38,9 @@ buildsOn:
 
 ### Dialog A: Im Kaufhaus
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
+
 > **Verkäuferin:** Guten Tag! Kann ich Ihnen helfen?  
 > **Anna:** Ja, gern. Ich suche eine Jacke. Diese hier — wie viel kostet die?  
 > **Verkäuferin:** Die rote Jacke kostet neunundsiebzig Euro.  
@@ -53,6 +56,9 @@ buildsOn:
 > **Anna:** Ja, bitte.  
 
 ### Dialog B: Mit Bruno im Sportgeschäft
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
+
 
 > **Bruno:** Entschuldigung, ich suche Sportschuhe. Haben Sie diese Schuhe in Größe 43?  
 > **Verkäufer:** Einen Moment, ich schaue … ja, wir haben noch Größe 43.  
@@ -526,6 +532,9 @@ structures in this lesson.
 ## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

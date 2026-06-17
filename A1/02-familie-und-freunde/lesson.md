@@ -34,6 +34,9 @@ buildsOn:
 
 ## 1. Dialog: Das Familienfoto
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+
 ### Dialog A: Informell — Schüler unter sich
 
 > **Bruno:** Anna, ist das deine Familie auf dem Foto?  
@@ -52,6 +55,9 @@ buildsOn:
 `eine Schwester`. This is the accusative case — fully explained in **Lektion 3**.
 For now, memorize as fixed chunks: *Ich habe einen Bruder / eine Schwester / ein
 Kind.*
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
 
 ### Dialog B: Formell — Frau Weber und Herr Steinmeyer
 
@@ -155,9 +161,18 @@ fit (fit) · süß (sweet/cute) · toll (great)
 
 ### 🔊 Aussprache
 
+🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3)
+
+
 > **Hör zu 1 — Familie:** der Vater · die Mutter · der Bruder · die Schwester · der Sohn · die Tochter · der Großvater · die Großmutter
 
+🎧 **Audio:** [hoerzu2.mp3](audio/hoerzu2.mp3)
+
+
 > **Hör zu 2 — Zahlen 20–100:** zwanzig · dreißig · vierzig · fünfzig · sechzig · siebzig · achtzig · neunzig · hundert
+
+🎧 **Audio:** [hoerzu3.mp3](audio/hoerzu3.mp3)
+
 
 > **Hör zu 3 — Possessivpronomen & Adjektive:** mein · dein · sein · ihr · unser · euer · ledig · verheiratet
 
@@ -525,6 +540,9 @@ Und ich? Ich bin sechsundzwanzig, ledig, und ich wohne in Frankfurt. Ich lerne D
 ## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

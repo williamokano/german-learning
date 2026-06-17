@@ -41,6 +41,9 @@ buildsOn:
 
 ## 1. Dialog
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+
 ### Dialog A: Telefonat — Anna ruft das Bürgeramt an
 
 > **Sachbearbeiterin:** Bürgeramt Mitte, guten Tag.  
@@ -67,6 +70,9 @@ buildsOn:
 >
 > Mit freundlichen Grüßen
 > Anna Bergmann
+
+🎧 **Audio:** [dialog1_c.mp3](audio/dialog1_c.mp3)
+
 
 ### Dialog C: Am Telefon — eine Verabredung ändern
 
@@ -563,6 +569,9 @@ angemeldet.
 ## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

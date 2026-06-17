@@ -36,6 +36,9 @@ buildsOn:
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+
 ### Dialog A: Informell — Anna und Bruno im Büro
 
 > **Anna:** Bruno, wann musst du heute arbeiten?  
@@ -48,6 +51,9 @@ buildsOn:
 > **Anna:** Natürlich! Der Kurs ist offen für alle. Du musst aber schnell sein —  
 > die Plätze sind begrenzt.  
 > **Bruno:** Dann will ich heute noch den Kurs buchen.  
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
 
 ### Dialog B: Formell — Anna und ihre Chefin
 

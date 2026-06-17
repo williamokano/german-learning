@@ -39,6 +39,9 @@ buildsOn:
 
 ### Dialog A: Im Café
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+
 > **Kellner:** Guten Tag! Was möchten Sie, bitte?  
 > **Anna:** Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte.  
 > **Kellner:** Gern. Und Sie?  
@@ -56,6 +59,9 @@ buildsOn:
 \* Chunk alert: *wir möchten zahlen* — `möchten` is fully explained in §6.4. For now treat it as a ready-made polite chunk.
 
 ### Dialog B: Im Supermarkt
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
 
 > **Bruno:** Entschuldigung, haben Sie Schwarzbrot?  
 > **Verkäuferin:** Ja, da hinten links.  
@@ -153,11 +159,23 @@ ein Becher Joghurt
 
 ### 🔊 Aussprache
 
+🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3)
+
+
 > **Hör zu 1 — Lebensmittel:** Apfel · Banane · Brot · Brötchen · Käse · Tomate · Wurst · Ei
+
+🎧 **Audio:** [hoerzu2.mp3](audio/hoerzu2.mp3)
+
 
 > **Hör zu 2 — Getränke:** Kaffee · Tee · Saft · Wasser · Bier · Milch
 
+🎧 **Audio:** [hoerzu3.mp3](audio/hoerzu3.mp3)
+
+
 > **Hör zu 3 — Verben:** essen · trinken · kaufen · brauchen · kosten · zahlen
+
+🎧 **Audio:** [hoerzu4.mp3](audio/hoerzu4.mp3)
+
 
 > **Hör zu 4 — Mengen und Verpackungen:** Flasche · Glas · Tasse · Stück · Kilo
 
@@ -491,6 +509,9 @@ Das Abendessen heißt „Abendbrot" — das Wort sagt es schon: es ist oft Brot 
 ## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

@@ -40,6 +40,8 @@ buildsOn:
 
 *Bruno besucht Jonas in Köln. Er fragt eine Frau auf der Straße.*
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ### Dialog A: Nach dem Weg fragen
 
 > **Bruno:** Entschuldigung, wo ist der Bahnhof, bitte?  
@@ -54,6 +56,8 @@ buildsOn:
 
 \* **Chunk alert:** `die erste / zweite Straße` — learn as chunks; ordinal numbers come in Lektion 12.  
 \*\* `an der Kirche`, `am Bahnhof` (at the church / at the station) — location chunks with `an`; the full `an/in/auf` preposition system comes at A2.
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
 ### Dialog B: Wie komme ich zum Museum?
 
@@ -605,6 +609,9 @@ Am Sonntag fahren alle mit dem Fahrrad zum See am Stadtrand. Der Weg dauert eine
 ## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

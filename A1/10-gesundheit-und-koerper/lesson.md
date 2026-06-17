@@ -35,6 +35,8 @@ buildsOn:
 
 ## 1. Dialoge
 
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+
 ### Dialog A: Beim Arzt (At the Doctor's)
 
 > **Arzt:** Guten Tag! Was fehlt Ihnen?  
@@ -54,6 +56,8 @@ buildsOn:
 \* **Chunk alert:** *Ich fühle mich schlecht* and *Ruhen Sie sich aus* use reflexive verbs. The full reflexive-verb system is explained in A2/Lektion 5 — for now, treat these as fixed phrases.
 
 ---
+
+🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
 ### Dialog B: In der Apotheke (At the Pharmacy)
 
@@ -559,6 +563,9 @@ Zu Hause trinkt Bruno Tee mit Honig und legt sich ins Bett. Sein Rücken tut auc
 ## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

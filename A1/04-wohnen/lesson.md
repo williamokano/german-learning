@@ -41,6 +41,9 @@ buildsOn:
 
 ### Dialog A: Die neue Wohnung (informell)
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+
 > **Anna:** Hallo Bruno! Komm rein! Das ist meine neue Wohnung.  
 > **Bruno:** Wow, sie ist groß! Wie viele Zimmer hat sie?  
 > **Anna:** Drei Zimmer, eine Küche und ein Bad. Hier ist das Wohnzimmer.  
@@ -52,6 +55,9 @@ buildsOn:
 > **Anna:** 850 Euro im Monat. Das ist nicht billig, aber okay für Berlin.  
 
 ### Dialog B: Am Telefon — die Wohnungsanzeige (formell)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
 
 > **Herr Klein:** Klein.  
 > **Bruno:** Guten Tag, mein Name ist Bruno Santos. Ich habe eine Frage: Ist die Wohnung noch frei?  
@@ -164,9 +170,18 @@ suchen (to look for) · finden (to find / to think of) · der Monat, -e:
 
 ### 🔊 Aussprache
 
+🎧 **Audio:** [hoerzu1.mp3](audio/hoerzu1.mp3)
+
+
 > **Hör zu 1 — Räume:** die Küche · das Bad · das Wohnzimmer · das Schlafzimmer · der Flur · der Balkon
 
+🎧 **Audio:** [hoerzu2.mp3](audio/hoerzu2.mp3)
+
+
 > **Hör zu 2 — Möbel:** der Tisch · der Stuhl · das Sofa · das Bett · der Schrank · der Schreibtisch
+
+🎧 **Audio:** [hoerzu3.mp3](audio/hoerzu3.mp3)
+
 
 > **Hör zu 3 — Farben:** rot · blau · grün · gelb · schwarz · weiß · braun · grau
 
@@ -440,6 +455,9 @@ Wohnung? Klein und laut — aber für mich ist sie perfekt. Sie ist mein Zuhause
 ## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

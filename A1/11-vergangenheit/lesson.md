@@ -37,6 +37,9 @@ buildsOn:
 
 ### Dialog A: Informell — unter Freunden
 
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
+
+
 > **Anna:** Hallo Bruno! Wie war dein Wochenende?  
 > **Bruno:** Super! Ich bin am Samstag ins Kino gegangen. Der Film war sehr gut.  
 > **Anna:** Oh, interessant! Was hast du am Sonntag gemacht?  
@@ -48,6 +51,9 @@ buildsOn:
 > **Anna:** Erst um Mitternacht! Ich war sehr müde.  
 
 ### Dialog B: Formell — im Büro
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
 
 > **Herr Yilmaz:** Guten Morgen, Frau Weber. Wie war Ihr Wochenende?  
 > **Frau Weber:** Danke, sehr schön. Ich habe viel gelesen und bin spazieren gegangen.  
@@ -618,6 +624,9 @@ Wien war toll!
 ## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
+
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
