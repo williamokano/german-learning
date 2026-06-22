@@ -1,3 +1,24 @@
+---
+level: A2
+number: 8
+slug: adjektive-ueberall
+title: Adjektive überall
+titleEn: Adjectives Everywhere
+canDo:
+  - describe people, things, and clothing in detail
+  - use adjectives before nouns with the correct ending
+  - distinguish the weak and mixed declension patterns
+  - talk about fashion and personal style
+grammar:
+  - "adjective declension after the definite article (weak: -e / -en)"
+  - "adjective declension after ein/kein/possessives (mixed: -er/-e/-es, else -en)"
+  - "all three genders + plural in Nominativ, Akkusativ, Dativ"
+buildsOn:
+  - A1/04 (predicative adjectives, colors)
+  - A1/09 (clothing vocabulary, cases)
+  - A2/07 (superlative attributive endings)
+---
+
 # A2 · Lektion 8 — Adjektive überall (Adjectives Everywhere)
 
 > **You will learn to:** describe people, things, and clothing in detail; use
@@ -46,7 +67,13 @@
 
 ---
 
-## 2. Redemittel (ready-made phrases)
+## 2. Einstieg — Was lernst du heute?
+
+Bis jetzt hast du Adjektive nur *nach* dem Verb benutzt: *Die Jacke ist schön.* Das ist einfach — da ändert sich nichts. Aber sobald das Adjektiv **vor** das Nomen rutscht (*die schön**e** Jacke*), bekommt es eine Endung. Und welche Endung? Das hängt vom Artikel, vom Genus und vom Fall ab. Klingt kompliziert? Keine Sorge: Es gibt nur zwei Hauptmuster, und die meisten Endungen sind einfach **-en**. In dieser Lektion lernst du, Kleidung, Farben und Menschen genau zu beschreiben — und das kleine Endungs-System, das Deutsch so präzise macht.
+
+---
+
+## 3. Redemittel (ready-made phrases)
 
 ### Kleidung und Aussehen beschreiben (describing clothing and appearance)
 
@@ -73,9 +100,11 @@
 
 ---
 
-## 3. Wortschatz (vocabulary)
+## 4. Wortschatz (vocabulary)
 
 ### Kleidungsstücke (clothing items)
+
+> 💡 **Lerntipp:** Lern jedes Kleidungsstück **mit Artikel und Plural** — denn genau die brauchst du gleich für die Adjektivendungen. Tipp: Sortier sie nach Genus in drei Schubladen (der Mantel, die Jacke, das Hemd), dann verwechselst du sie seltener.
 
 | Noun (with article + plural) | English |
 |---|---|
@@ -98,6 +127,8 @@
 
 ### Farben und Muster (colors and patterns)
 
+> 💡 **Lerntipp:** Farben sind auch Adjektive — also bekommen sie vor dem Nomen Endungen: *der **rote** Schal*, *ein **rotes** Kleid*. Die Muster (*gestreift, kariert, gepunktet*) funktionieren genauso. Üb sie gleich mit einem Kleidungsstück zusammen.
+
 | German | English |
 |---|---|
 | schwarz | black |
@@ -118,6 +149,8 @@
 | einfarbig | plain, single-color |
 
 ### Beschreibende Adjektive (descriptive adjectives)
+
+> 💡 **Lerntipp:** Lern diese Adjektive in Gegensatzpaaren: *eng ↔ weit*, *dunkel ↔ hell*, *dünn ↔ warm/dick*. Achtung bei *dunkel* und *teuer*: Wenn eine Endung kommt, fällt das innere -e- weg — *ein **dunk**les Hemd*, nicht *dunkeles*.
 
 | German | English |
 |---|---|
@@ -142,44 +175,78 @@
 
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Bruno braucht ein Outfit
 
-### 4.1 Why do adjectives change their endings?
+Lies den Text einmal für den Inhalt. Beim zweiten Lesen unterstreiche jedes Adjektiv vor einem Nomen und prüfe: Steht ein *der/die/das* davor (schwach) oder ein *ein/kein/mein* (gemischt)?
 
-In English, adjectives never change: *a big house*, *the big house*, *with a big house*. In German, adjectives that come **before** a noun must agree with the noun's gender, case, and whether there is already an article "carrying" the gender signal.
+Bruno ist eingeladen: Anna feiert am Samstag eine kleine Party. „Zieh etwas Schickes an!", hat sie gesagt. Aber Bruno hat nur alte T-Shirts und eine kaputte Jeans. Also geht er ins Modegeschäft.
 
-**Predicative adjectives** (after `sein`, `werden`, `bleiben`) — you already know these. They never change:
-> Das Kleid ist **schön**. · Der Schal ist **grün**. · Die Jacke ist **elegant**.
+Im Laden sieht er einen dunkelblauen Pullover. „Der dunkelblaue Pullover ist elegant", denkt er, „aber er ist sehr warm." Daneben hängt ein weißes Hemd. Das weiße Hemd gefällt ihm besser — es ist leicht und klassisch. Eine freundliche Verkäuferin kommt und sagt: „Das helle Hemd passt gut zu einer dunklen Hose."
 
-**Attributive adjectives** (directly before a noun) — these take endings. This lesson covers the two main systems.
+Bruno probiert das weiße Hemd und eine schwarze Hose an. Im Spiegel sieht er einen ganz neuen Bruno. „Du brauchst noch einen schönen Schal", meint die Verkäuferin und zeigt ihm einen roten. Der rote Schal macht das ganze Outfit lebendig.
+
+Am Ende kauft Bruno das weiße Hemd, die schwarze Hose und den roten Schal. „Das ist ein gutes Outfit für eine coole Party", sagt er zufrieden. Auf der Party fragt Anna sofort: „Ein neues Hemd? Du siehst richtig schick aus!" Bruno lacht: „Mit dem neuen Look fühle ich mich wie ein anderer Mensch."
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Warum geht Bruno ins Modegeschäft?**
+> *Weil er für Annas Party etwas Schickes braucht.*
+>
+> **2. Was gefällt Bruno besser — der Pullover oder das Hemd?**
+> *Das weiße Hemd gefällt ihm besser, weil es leicht und klassisch ist.*
+>
+> **3. Was kauft Bruno am Ende?**
+> *Er kauft das weiße Hemd, die schwarze Hose und den roten Schal.*
+
+</details>
 
 ---
 
-### 4.2 The Weak Declension — after the definite article
+## 6. Grammatik
 
-Use the **weak** endings after: `der / die / das / die (pl.)` — and after `dieser, jener, jeder, welcher, solcher` (they all work the same way).
+### 6.1 Why endings change — and the weak declension (after `der/die/das`)
 
-**Why "weak"?** The definite article already shows all the gender/case information (der → Masc Nom, den → Masc Akk, etc.). The adjective only needs a **minimal** marker: mostly `-e` or `-en`.
+**Warum?** In English an adjective is frozen: *a big house, the big house, with the big house* — "big" never changes. German is different: once an adjective stands **before** a noun, it agrees with the noun's gender, case, and number. The logic is "signal economy": German wants the gender/case shown *exactly once* in the noun phrase. After the definite article (*der, die, das*), the article already carries that signal loud and clear (*der* = masc., *dem* = dative, etc.), so the adjective can relax and take a **minimal "weak" ending** — almost always just **-e** or **-en**. This is the easy pattern: learn it first, because "-en" covers most cells.
 
-#### Weak endings table
-
-| Case | Maskulinum | Femininum | Neutrum | Plural |
+| Case | Mask. | Fem. | Neut. | Plural |
 |---|---|---|---|---|
-| **Nominativ** | der alt**e** Mann | die alt**e** Frau | das alt**e** Haus | die alt**en** Häuser |
-| **Akkusativ** | den alt**en** Mann | die alt**e** Frau | das alt**e** Haus | die alt**en** Häuser |
-| **Dativ** | dem alt**en** Mann | der alt**en** Frau | dem alt**en** Haus | den alt**en** Häusern |
+| **Nom** | der alt**e** Mann | die alt**e** Frau | das alt**e** Haus | die alt**en** Häuser |
+| **Akk** | den alt**en** Mann | die alt**e** Frau | das alt**e** Haus | die alt**en** Häuser |
+| **Dat** | dem alt**en** Mann | der alt**en** Frau | dem alt**en** Haus | den alt**en** Häusern |
 
-> **Memory rule — weak endings:**
-> - `-e` in: Nom m/f/n sg. AND Akk f + n sg. (5 cells)
-> - `-en` everywhere else (all Dativ, all Plural, Akk Maskulinum)
+**Examples:**
 
-#### Examples in context
+1. Ich kaufe **den roten** Schal. *(Akk Mask → -en)*
+2. Sie trägt **die elegante** Bluse. *(Akk Fem → -e)*
+3. **Das weiße** Hemd ist schön. *(Nom Neut → -e)*
+4. Er schenkt **dem kleinen** Kind ein Buch. *(Dat Neut → -en)*
+5. Mit **der neuen** Jacke siehst du toll aus. *(Dat Fem → -en)*
+6. **Die alten** Schuhe sind kaputt. *(Nom Pl → -en)*
+7. Der **grüne** Schal passt gut. *(Nom Mask → -e)*
+8. Ich nehme **die schwarze** Jacke. *(Akk Fem → -e)*
 
-> Ich kaufe **den roten** Schal. *(Akkusativ Maskulinum → -en)*
-> Sie trägt **die elegante** Bluse. *(Akkusativ Femininum → -e)*
-> Er schenkt **dem kleinen** Kind ein Buch. *(Dativ Neutrum → -en)*
-> Mit **der neuen** Jacke siehst du toll aus. *(Dativ Femininum → -en)*
-> **Die alten** Schuhe sind kaputt. *(Nominativ Plural → -en)*
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich kaufe den **rote** Schal.* | *Ich kaufe den **roten** Schal.* (Akk Mask → -en) |
+> | *Mit der **neue** Jacke…* | *Mit der **neuen** Jacke…* (Dativ → -en) |
+> | *Die **alte** Schuhe…* | *Die **alten** Schuhe…* (Plural → always -en) |
+> | *Das **weißes** Hemd ist schön.* | *Das **weiße** Hemd ist schön.* (after *das* → weak -e) |
+
+> 💡 **Lerntipp:** The weak pattern is "-en unless." Picture the table as mostly **-en**, with a small island of **-e** in the top-left corner: the whole Nominativ-singular row plus the two Feminine/Neuter cells of Akkusativ. Everything Dative, everything Plural, and Akkusativ-masculine → **-en**. When in doubt after *der/die/das*, **-en** is the safer bet.
+
+**Versuch es selbst.** Add the weak ending: (1) Ich nehme die schwarz__ Jacke. (2) mit dem grün__ Schal. (3) der rot__ Kragen.
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *(1)* die schwarz**e** Jacke *(Akk Fem → -e)*
+> *(2)* mit dem grün**en** Schal *(Dat Mask → -en)*
+> *(3)* der rot**e** Kragen *(Nom Mask → -e)*
+
+</details>
 
 > 📌 **Merkasten — Schwache Deklination (nach der/die/das, dieser, jeder)**
 > |  | mask. | fem. | neut. | Pl. |
@@ -187,41 +254,53 @@ Use the **weak** endings after: `der / die / das / die (pl.)` — and after `die
 > | Nom | -**e** | -**e** | -**e** | -**en** |
 > | Akk | -**en** | -**e** | -**e** | -**en** |
 > | Dat | -**en** | -**en** | -**en** | -**en** |
-> | Gen | -**en** | -**en** | -**en** | -**en** |
-> 
-> ▶ Rule of thumb: almost always **-en**, except Nom sg. all genders + Akk Fem/Neut = **-e**.
+>
+> ▶ Almost always **-en**, except Nom sg. (all genders) + Akk Fem/Neut = **-e**.
 
 ---
 
-### 4.3 The Mixed Declension — after the indefinite article, kein, and possessives
+### 6.2 The mixed declension — after `ein`, `kein`, and possessives
 
-Use the **mixed** endings after: `ein / eine / ein`, `kein / keine / kein`, and all possessives (`mein, dein, sein, ihr, unser, euer, Ihr`).
+**Warum?** After *ein, kein, mein, dein…* something changes. The problem is that *ein* is **ambiguous**: the same form *ein* is used for masculine Nominativ (*ein Mann*) *and* neuter (*ein Haus*) — it doesn't tell you the gender. So the adjective has to **step in** and carry the missing signal, taking a "strong" ending in exactly three cells: **Nom Mask → -er**, **Nom Neut → -es**, **Akk Neut → -es**. Everywhere else it behaves just like the weak pattern (mostly -en, plus -e for feminine). That's why it's called "mixed": three strong cells, the rest weak.
 
-**Why "mixed"?** The indefinite article is sometimes *weak* in its gender signal — for example, `ein` is used for both Maskulinum Nominativ AND Neutrum Nominativ/Akkusativ, so the adjective must **step in** and show the missing signal itself. This produces the "strong" endings `-er / -e / -es` in three cells; everywhere else it's `-en` (same as weak).
-
-#### Mixed endings table
-
-| Case | Maskulinum | Femininum | Neutrum | Plural (kein/mein…) |
+| Case | Mask. | Fem. | Neut. | Plural (kein/mein…) |
 |---|---|---|---|---|
-| **Nominativ** | ein alt**er** Mann | eine alt**e** Frau | ein alt**es** Haus | keine alt**en** Häuser |
-| **Akkusativ** | einen alt**en** Mann | eine alt**e** Frau | ein alt**es** Haus | keine alt**en** Häuser |
-| **Dativ** | einem alt**en** Mann | einer alt**en** Frau | einem alt**en** Haus | keinen alt**en** Häusern |
+| **Nom** | ein alt**er** Mann | eine alt**e** Frau | ein alt**es** Haus | keine alt**en** Häuser |
+| **Akk** | einen alt**en** Mann | eine alt**e** Frau | ein alt**es** Haus | keine alt**en** Häuser |
+| **Dat** | einem alt**en** Mann | einer alt**en** Frau | einem alt**en** Haus | keinen alt**en** Häusern |
 
-> **Memory rule — mixed endings:**
-> - The three "strong" cells where the article gives NO clear gender signal:
->   **Nom Mask → -er**, **Nom Neut → -es**, **Akk Neut → -es**
-> - **Nom + Akk Fem → -e** (ein**e** already marks Femininum, so adjective is -e)
-> - All Dativ and all Plural → **-en** (same as weak)
+**Examples:**
 
-#### Examples in context
+1. Das ist ein **alter** Mann. *(Nom Mask → -er, the adjective shows the gender!)*
+2. Ich trage einen **roten** Schal. *(Akk Mask → -en)*
+3. Sie trägt eine **elegante** Bluse. *(Akk Fem → -e)*
+4. Er kauft ein **neues** Hemd. *(Akk Neut → -es)*
+5. Ein **weißes** Hemd ist klassisch. *(Nom Neut → -es)*
+6. Ich helfe meinem **alten** Vater. *(Dat Mask → -en)*
+7. Sie kommt mit ihrer **neuen** Tasche. *(Dat Fem → -en)*
+8. Ich sehe keine **schwarzen** Schuhe. *(Akk Pl → -en)*
 
-> Das ist ein **alter** Mann. *(Nom Mask → adjective carries -er)*
-> Ich trage einen **roten** Schal. *(Akk Mask → -en)*
-> Sie trägt eine **elegante** Bluse. *(Akk Fem → -e)*
-> Er kauft ein **neues** Hemd. *(Akk Neut → -es)*
-> Ich helfe meinem **alten** Vater. *(Dat Mask → -en)*
-> Sie kommt mit ihrer **neuen** Tasche. *(Dat Fem → -en)*
-> Ich sehe keine **schwarzen** Schuhe. *(Akk Pl → -en)*
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *ein **alte** Mann* | *ein **alter** Mann* (*ein* hides the gender → adjective adds -er) |
+> | *ein **neue** Hemd* | *ein **neues** Hemd* (Neut → -es) |
+> | *Ich trage einen **rote** Schal.* | *Ich trage einen **roten** Schal.* (Akk Mask → -en) |
+> | *mit meiner **neue** Tasche* | *mit meiner **neuen** Tasche* (Dativ → -en) |
+
+> 💡 **Lerntipp:** "Whoever shows the gender gets the strong ending." After *der/die/das*, the article does the job → weak adjective. After *ein*, the article is vague in three spots → the adjective grabs the strong ending there: *ein**er** Mann? no — ein alt**er** Mann*, *ein alt**es** Haus*. Memorise just those three strong cells (Nom-m **-er**, Nom/Akk-n **-es**); the rest is the familiar -en/-e.
+
+**Versuch es selbst.** Add the mixed ending: (1) Das ist ein schön__ Schal (Nom Mask). (2) Ich kaufe ein weiß__ Hemd (Akk Neut). (3) mit meiner neu__ Jacke (Dat Fem).
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *(1)* ein schön**er** Schal *(Nom Mask → -er)*
+> *(2)* ein weiß**es** Hemd *(Akk Neut → -es)*
+> *(3)* mit meiner neu**en** Jacke *(Dat Fem → -en)*
+
+</details>
 
 > 📌 **Merkasten — Gemischte Deklination (nach ein/eine, kein, mein …)**
 > |  | mask. | fem. | neut. | Pl. |
@@ -229,43 +308,70 @@ Use the **mixed** endings after: `ein / eine / ein`, `kein / keine / kein`, and 
 > | Nom | -**er** | -**e** | -**es** | -**en** |
 > | Akk | -**en** | -**e** | -**es** | -**en** |
 > | Dat | -**en** | -**en** | -**en** | -**en** |
-> | Gen | -**en** | -**en** | -**en** | -**en** |
-> 
-> ▶ Only Nom Masc (-**er**) and Nom/Akk Neut (-**es**) differ from weak. All else = -**en** or -**e** (Fem).
+>
+> ▶ Only **Nom Mask (-er)** and **Nom/Akk Neut (-es)** differ from weak.
 
 ---
 
-### 4.4 Side-by-side comparison
+### 6.3 Weak vs. mixed side-by-side — the one row that matters
+
+**Warum?** Here's the reassuring truth: the two tables are **almost identical**. They differ in only one place — the **Nominativ singular** of masculine and neuter (and Akk neuter). Everywhere else — all Dative, all Plural, Akkusativ masculine, all feminine — they're the same. So you don't really have two systems to learn; you have one system plus three "strong" cells that kick in when the article is *ein/kein/mein*. The plural is the easiest rule in all of German adjective grammar: **after any article, the plural adjective is always -en.** No exceptions, ever.
 
 | | Nom Mask | Akk Mask | Nom/Akk Fem | Nom/Akk Neut | All Dat | All Pl |
 |---|---|---|---|---|---|---|
-| **Weak** (def. art.) | -**e** | -**en** | -**e** | -**e** | -**en** | -**en** |
-| **Mixed** (indef. art./kein/poss.) | -**er** | -**en** | -**e** | -**es** | -**en** | -**en** |
+| **Weak** (der/die/das) | -**e** | -**en** | -**e** | -**e** | -**en** | -**en** |
+| **Mixed** (ein/kein/mein) | -**er** | -**en** | -**e** | -**es** | -**en** | -**en** |
 
-**The key difference is in Nominativ singular:**
-- After `der`: *der alt**e** Mann* → `-e`
-- After `ein`: *ein alt**er** Mann* → `-er` (adjective supplies the missing gender signal!)
+The only difference: *der alt**e** Mann* (weak -e) vs. *ein alt**er** Mann* (mixed -er); *das neu**e** Hemd* (weak -e) vs. *ein neu**es** Hemd* (mixed -es).
 
-⚠️ **Common trap:** English speakers often write `ein alte Mann` — but since `ein` alone doesn't show it's masculine (it's the same as the neuter `ein`), the adjective MUST add `-er`. Think of it as: whoever shows the gender signal gets the strong ending.
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *ein **alte** Mann* | *ein **alter** Mann* (mixed Nom Mask → -er) |
+> | *der **alter** Mann* | *der **alte** Mann* (weak Nom Mask → -e) |
+> | *zwei **schöne** Schuhe… mit **schöne** Schuhen* | *mit **schönen** Schuhen* (Plural always -en) |
+> | *meine **rote** Schuhe* | *meine **roten** Schuhe* (Plural → -en) |
 
-⚠️ **Plural:** After any article (definite or indefinite/kein/possessive), the adjective in the **plural** is **always `-en`**. No exceptions.
+> 💡 **Lerntipp:** Burn one contrast into memory and the rest follows: **der gut**e** Wein** vs. **ein gut**er** Wein**. After *der* → -e; after *ein* → -er (the adjective borrows the *-r* from *de**r***). And chant the plural rule: "Plural? -en. Always." That single sentence saves you on half the exam gaps.
+
+**Versuch es selbst.** Same adjective, two articles: fill both. (1) der schön__ Mantel / ein schön__ Mantel. (2) das neu__ Kleid / ein neu__ Kleid.
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *(1)* der schön**e** Mantel / ein schön**er** Mantel
+> *(2)* das neu**e** Kleid / ein neu**es** Kleid
+
+</details>
+
+> 📌 **Merkasten — der Unterschied**
+> | nach *der/die/das* | nach *ein/kein/mein* |
+> |---|---|
+> | der gut**e** Wein | ein gut**er** Wein |
+> | das gut**e** Bier | ein gut**es** Bier |
+> | **Plural immer -en** | **Plural immer -en** |
+>
+> ▶ Unterschied nur in Nom-Mask, Nom-Neut, Akk-Neut. Alles andere gleich.
 
 ---
 
-### 4.5 Pronunciation — adjective endings
+### 6.4 Pronunciation — keep the endings light
 
-The endings `-e`, `-en`, `-er`, `-es` are all unstressed short vowels:
+**Warum?** All four endings (*-e, -en, -er, -es*) are unstressed and short. The stress stays on the adjective stem; the ending is just a quiet tail. Over-pronouncing them (*"alt-EN"*) sounds robotic. In normal speech they almost blur together — which is also why learners must *spell* them correctly even when they barely hear the difference.
 
-- `-e` ≈ the *-uh* sound in "sofa": `alt**e**` ≈ "AL-tuh"
-- `-en` ≈ "-un" (like English "on" unstressed): `alt**en**` ≈ "AL-tun"
-- `-er` ≈ "-uh" (like British "butter" ending): `alt**er**` ≈ "AL-tuh" (r barely audible)
-- `-es` ≈ "-us": `alt**es**` ≈ "AL-tus"
+- **-e** ≈ the *-uh* in "sofa": *alt**e*** ≈ "AL-tuh"
+- **-en** ≈ a soft "-un," often just "-n" in fast speech: *alt**en*** ≈ "AL-tn"
+- **-er** ≈ "-uh" (the *r* barely sounds): *alt**er*** ≈ "AL-tuh"
+- **-es** ≈ "-us": *alt**es*** ≈ "AL-tus"
 
-In fast speech, `-en` often sounds like just `-n`, especially after `-el`, `-er`, `-en` stems.
+> 💡 **Lerntipp:** Notice that spoken *-e* and *-er* sound nearly the same ("uh"). That's exactly why *der alte* and *ein alter* are easy to mishear — and why the **written** ending matters so much. Train your eye, not just your ear: when you read, point at each ending and name its case. The spelling carries the grammar the ear can't.
 
 ---
 
-## 5. Lesetext: Annas neuer Stil
+## 7. Lesetext: Annas neuer Stil
+
+*(You'll work with this text in exercises Block C — Lesen.)*
 
 > Anna hat in letzter Zeit ihren Kleidungsstil verändert. Früher hat sie immer bequeme, sportliche Kleidung getragen — einfache T-Shirts, weite Hosen und alte Turnschuhe. Das war praktisch, aber nicht besonders schick.
 >
@@ -275,11 +381,9 @@ In fast speech, `-en` often sounds like just `-n`, especially after `-el`, `-er`
 >
 > Jetzt trägt Anna ihren neuen Stil mit Freude. Ihr bester Freund Bruno hat sie zum ersten Mal in der neuen Kleidung gesehen und sofort gefragt: „Wer bist du? Das ist eine ganz andere Anna!" Anna hat gelacht und gesagt: „Ich finde, der neue Stil passt besser zu meiner Persönlichkeit." Bruno war einverstanden — er findet Annas neuen Look wirklich sehr schick.
 
-*(You'll work with this text in exercises Block C — Lesen.)*
-
 ---
 
-## 6. Hörtext
+## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
@@ -294,10 +398,35 @@ In fast speech, `-en` often sounds like just `-n`, especially after `-el`, `-er`
 
 ---
 
-## 7. Lernstrategie
+## 9. Magazin — Landeskunde
 
-**The "article-first" technique:** When you encounter an adjective + noun combination, always identify the article first. Ask yourself: *Which article is it? Does the article already show the gender clearly?* If yes → weak ending (`-e` or `-en`). If the article is "ambiguous" (like `ein`) → look up whether you're in one of the three mixed cells (`-er`, `-e`, `-es`).
+### „Es gibt kein schlechtes Wetter, nur falsche Kleidung"
 
-Drill this by describing five objects you own or can see right now. Say the full noun phrase aloud: *mein alter Laptop* · *eine rote Tasche* · *das neue Buch* · *meine schwarzen Schuhe*. The more you produce these phrases in context, the more automatic they become.
+Dieser Satz ist in Deutschland fast ein Sprichwort — und er sagt viel über die Mode aus. In vielen Ländern kleidet man sich, um gut auszusehen; in Deutschland kleidet man sich oft zuerst **praktisch**. Eine gute, wetterfeste Jacke ist wichtiger als der neueste Trend. Funktion vor Schick.
 
-➡️ **Now do `exercises.md`. Check yourself with `solutions.md` only afterwards.**
+> „Wer im Regen friert, hat selbst schuld" — die richtige Kleidung ist Eigenverantwortung.
+
+Natürlich gibt es in Berlin und Hamburg auch eine lebendige Modeszene. Aber im Alltag siehst du viele Menschen in bequemen, unauffälligen Outfits — dunkle Farben, robuste Schuhe, eine warme Jacke. Sich „too much" anzuziehen, kann sogar unangenehm wirken. Understatement gilt hier oft als elegant.
+
+---
+
+## 10. Lernstrategie
+
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jedes Adjektiv vor einem Nomen
+- Wortschatz §4 (Kleidung + Farben) mit verdeckter Spalte testen — immer mit Artikel
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
+
+### Tag 2 (30 min) — Vertiefung
+- Grammatik §6.1 (schwach) und §6.2 (gemischt) lesen; je 5 Sätze schreiben — Kleidung beschreiben
+- §6.3: für 4 Adjektive beide Formen üben (*der gute / ein guter*)
+- *Versuch es selbst* in §6.1, §6.2 und §6.3 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- 5 Dinge in deinem Zimmer beschreiben: *mein alter Laptop, eine rote Tasche, das neue Buch …*
+- Hörtext §8 hören, Transkript erst danach öffnen, alle Adjektiv-Nomen-Paare heraushören
+- Lesetext §7 lesen, alle Adjektivendungen markieren und den Fall bestimmen — dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
