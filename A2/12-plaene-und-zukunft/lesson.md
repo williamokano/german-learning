@@ -1,3 +1,24 @@
+---
+level: A2
+number: 12
+slug: plaene-und-zukunft
+title: Pläne und Zukunft
+titleEn: Plans and the Future
+canDo:
+  - talk about your plans and intentions
+  - make resolutions and predictions
+  - give a short weather forecast
+  - tell past stories with the right connector (als vs. wenn)
+grammar:
+  - "Futur I — werden + Infinitiv (infinitive at the end)"
+  - "negation and word order in Futur I (main vs. subordinate clause)"
+  - "temporal clauses: als (one-time past) vs. wenn (repeated/present/future)"
+buildsOn:
+  - A1/11 (Perfekt for past events)
+  - A2/04 (wenn-clauses, verb-final rule)
+  - A1/07 (modal verbs for intentions)
+---
+
 # A2 · Lektion 12 — Pläne und Zukunft (Plans and the Future)
 
 > **You will learn to:** talk about your plans and intentions for the next
@@ -56,7 +77,13 @@
 
 ---
 
-## 2. Redemittel (ready-made phrases)
+## 2. Einstieg — Was lernst du heute?
+
+Was machst du nächstes Jahr? Was wird aus deinen Plänen? Um über die Zukunft zu sprechen, hat Deutsch ein eigenes Werkzeug: das **Futur I** mit *werden* + Infinitiv — *Ich **werde** Deutsch **lernen***. Du benutzt es für Pläne, Vorhersagen (besonders beim Wetter!) und Vermutungen. In dieser Lektion lernst du außerdem, Geschichten aus der Vergangenheit richtig zu erzählen — mit dem feinen, aber wichtigen Unterschied zwischen **`als`** (ein einmaliges Ereignis: *Als ich nach Berlin kam …*) und **`wenn`** (etwas Wiederholtes oder in der Zukunft: *Wenn ich Zeit habe …*). Am Ende kannst du Pläne schmieden, das Wetter vorhersagen und über dein Leben erzählen.
+
+---
+
+## 3. Redemittel (ready-made phrases)
 
 ### Über die Zukunft sprechen (talking about the future)
 
@@ -106,9 +133,11 @@
 
 ---
 
-## 3. Wortschatz (vocabulary)
+## 4. Wortschatz (vocabulary)
 
 ### Zukunft und Pläne (the future and plans)
+
+> 💡 **Lerntipp:** Viele dieser Wörter sind „Wunsch-Wörter" und passen perfekt zu deinen Verben aus dieser Lektion: *einen Plan **machen**, einen Vorsatz **fassen**, ein Ziel **erreichen**, eine Entscheidung **treffen***. Lern das Nomen gleich mit seinem typischen Verb.
 
 | Noun (article + plural) | English |
 |---|---|
@@ -126,6 +155,8 @@
 | der Termin, -e | appointment, deadline |
 
 ### Wetter und Vorhersage (weather and forecast)
+
+> 💡 **Lerntipp:** Das Wetter beschreibst du oft mit *es* + Verb: *es regnet, es schneit, es ist sonnig*. Merk dir die Nomen-Verb-Paare: *der Regen → es regnet*, *der Schnee → es schneit*, *das Gewitter → es gibt ein Gewitter*.
 
 | Noun (article + plural) | English |
 |---|---|
@@ -145,6 +176,8 @@
 | die Vorhersage, -n | forecast, prediction |
 
 ### Verben zur Zukunft (verbs for the future)
+
+> 💡 **Lerntipp:** Achte auf die trennbaren und unregelmäßigen Verben: *vor·haben* (Ich habe viel **vor**), *sich vor·nehmen* (Ich nehme mir **vor**). *gelingen* und *klappen* bedeuten beide „to work out", aber *gelingen* ist formeller und braucht Dativ: *Es **ist mir** gelungen*.
 
 | Verb | Meaning | Perfekt |
 |---|---|---|
@@ -168,186 +201,195 @@ or mixed verbs — pay attention to the stem vowel and to the Partizip II form.
 
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Brunos großer Plan
 
-### 4.1 Futur I — `werden` + Infinitiv
+Lies den Text einmal für den Inhalt. Beim zweiten Lesen markiere jede Futur-I-Form (*werden* + Infinitiv) und jedes `als`/`wenn` — und prüfe, ob es um die Vergangenheit (als) oder um die Zukunft/Wiederholung (wenn) geht.
 
-The **Futur I** (future tense) is built with the **auxiliary verb `werden`**
-in the present + the **main verb as an infinitive at the end of the clause**.
+Bruno sitzt am Abend mit Anna im Café und erzählt von seinen Plänen. „Als ich vor zwei Jahren nach Berlin kam, konnte ich kaum Deutsch", sagt er. „Aber jetzt habe ich ein großes Ziel: Nächstes Jahr werde ich die B1-Prüfung machen."
 
-| Subject | `werden` (Präsens) | Infinitiv (end) | Example |
-|---|---|---|---|
-| ich | werde | … lernen | Ich **werde** morgen Deutsch **lernen**. |
-| du | wirst | … lernen | Du **wirst** morgen Deutsch **lernen**. |
-| er/sie/es | wird | … lernen | Er **wird** morgen Deutsch **lernen**. |
-| wir | werden | … lernen | Wir **werden** morgen Deutsch **lernen**. |
-| ihr | werdet | … lernen | Ihr **werdet** morgen Deutsch **lernen**. |
-| sie/Sie | werden | … lernen | Sie **werden** morgen Deutsch **lernen**. |
+Anna ist neugierig. „Und wenn du sie bestehst? Was wirst du dann machen?" Bruno lächelt: „Wenn ich B1 schaffe, werde ich mich für eine Ausbildung bewerben. Ich werde Programmierer werden — das ist mein Traum."
 
-> **Memory key:** Futur I = **`werden` in position 2** + **infinitive at the end**
-> (the same slot where a Perfekt auxiliary or a modal would sit).
+„Das klingt super", sagt Anna. „Wie wirst du dich vorbereiten?" — „Ich werde jeden Tag eine Stunde lernen", antwortet Bruno. „Und wenn das Wetter gut ist, werde ich beim Joggen Podcasts hören. So lerne ich Deutsch und mache Sport gleichzeitig."
 
-#### Three main uses of Futur I
+Anna lacht: „Du hast wirklich an alles gedacht! Weißt du, als ich klein war, wollte ich Lehrerin werden. Vielleicht werde ich das eines Tages doch noch." Bruno nickt: „Das wirst du bestimmt schaffen. Wenn wir zusammen lernen, werden wir beide unsere Ziele erreichen." Sie stoßen mit ihren Tassen an. „Auf die Zukunft!", sagt Anna. „Und auf gute Pläne", antwortet Bruno.
 
-| Use | Example |
-|---|---|
-| **Plans / intentions** | Ich **werde** im Juli nach Brasilien **fliegen**. |
-| **Predictions** (especially weather) | Morgen **wird** es **regnen**. |
-| **Polite assumptions** (≈ English "will probably") | Er **wird** müde **sein**. (= He's probably tired.) |
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
 
-⚠️ In everyday spoken German, people often use the **Präsens** with a future
-time word to express the future:
-> *Ich fliege morgen.* (= I'm flying tomorrow. / I will fly tomorrow.)
+> **1. Was wird Bruno nächstes Jahr machen?**
+> *Er wird die B1-Prüfung machen.*
+>
+> **2. Was wird Bruno tun, wenn er die Prüfung besteht?**
+> *Er wird sich für eine Ausbildung bewerben und Programmierer werden.*
+>
+> **3. Was wollte Anna werden, als sie klein war?**
+> *Sie wollte Lehrerin werden.*
 
-Futur I is more common in **written German**, in **formal speech**, and when
-you want to make the future meaning extra clear.
+</details>
+
+---
+
+## 6. Grammatik
+
+### 6.1 Futur I — `werden` + Infinitiv
+
+**Warum?** To talk about the future, German has the **Futur I**: the helper verb **`werden`** (conjugated, in position 2) plus the **main verb as an infinitive at the very end** — *Ich **werde** morgen Deutsch **lernen**.* If you can build a sentence with a modal verb (*Ich **will** Deutsch **lernen***), you already know the frame: conjugated verb second, infinitive last. One reassuring fact: Germans often just use the **present tense** with a time word for the future (*Ich fliege morgen* = "I'll fly tomorrow"). Futur I is the clearer, more formal choice — and the natural one for **predictions** (especially weather) and **assumptions** ("he'll probably be tired").
+
+| ich | du | er/sie/es | wir | ihr | sie/Sie |
+|---|---|---|---|---|---|
+| werde | wirst | wird | werden | werdet | werden |
+
+Three uses: **plans** (*Ich werde nach Brasilien fliegen*), **predictions** (*Morgen wird es regnen*), **assumptions** (*Er wird müde sein* = he's probably tired).
+
+**Examples:**
+
+1. Ich **werde** im Juli nach Brasilien **fliegen**. — *plan*
+2. Wir **werden** jede Woche zusammen **lernen**. — *plan*
+3. Morgen **wird** es **regnen**. — *prediction*
+4. Am Wochenende **wird** es wärmer **werden**. — *prediction*
+5. Er **wird** wahrscheinlich zu Hause **sein**. — *assumption*
+6. Das **wird** nicht einfach **werden**. — *assumption*
+7. Wann **wirst** du **anfangen**? — *question*
+8. Sie **wird** die Präsentation am 15. März **halten**.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich werde morgen Deutsch **lerne**.* | *Ich werde morgen Deutsch **lernen**.* (infinitive at the end) |
+> | *Ich **werde** morgen **fliegen** nach Berlin.* | *Ich werde morgen nach Berlin **fliegen**.* (infinitive truly last) |
+> | *Morgen **es wird** regnen.* | *Morgen **wird es** regnen.* (werden in position 2 → inversion) |
+
+> 💡 **Lerntipp:** Treat `werden` exactly like a modal: conjugated verb in slot 2, infinitive parked at the end. The frame *Ich ___ … Infinitiv* is the same whether you fill the blank with *will, kann, möchte* or *werde*. Master one frame, get four tenses/moods.
+
+**Versuch es selbst.** Setz in Futur I: „Ich lerne morgen Deutsch." → ? Und: „Es regnet am Wochenende." → ?
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich **werde** morgen Deutsch **lernen**.*
+> *Am Wochenende **wird** es **regnen**.*
+
+</details>
 
 > 📌 **Merkasten — Futur I**
->
-> | Person | `werden` | Pattern |
-> |---|---|---|
-> | ich | werde | `werden` (conjugated, position 2) + infinitive at END |
-> | du | wirst | |
-> | er/sie/es | wird | |
-> | wir | werden | |
-> | ihr | werdet | |
-> | sie/Sie | werden | |
->
-> Key rule: **`werden` in position 2 · infinitive at the very end of the clause.**
-
----
-
-### 4.2 Negation, word order and time markers in Futur I
-
-#### Negation with `nicht`
-
-`nicht` comes **before the infinitive** (not before `werden`):
-
-| ✅ Correct | ❌ Wrong |
-|---|---|
-| Ich werde **nicht** rauchen. | ~~Ich werde nicht rauchen nicht.~~ |
-| Wir werden morgen **nicht** kommen. | ~~Wir nicht werden morgen kommen.~~ |
-| Er wird das **nicht** schaffen. | |
-
-#### Word order recap
-
-| Position 1 | Position 2 (verb) | Middle field | End (infinitive) |
-|---|---|---|---|
-| **Ich** | **werde** | morgen Deutsch | **lernen**. |
-| **Morgen** | **werde** | ich Deutsch | **lernen**. |
-| **Mit Anna** | **werde** | ich nach Brasilien | **fliegen**. |
-| **Wenn ich Zeit habe,** | **werde** | ich ins Kino | **gehen**. |
-
-⚠️ **Trap — main clause vs. subordinate clause:**
-In a main clause, the **conjugated verb (`werde`) is in position 2** and
-the **infinitive is at the end**.
-In a subordinate clause (`wenn`, `weil`, `dass`…), the **conjugated verb
-goes to the end** too — and the infinitive comes **after it** at the very end:
-
-| Type | Example |
-|---|---|
-| Main clause | Ich **werde** morgen Deutsch **lernen**. |
-| `wenn`-clause (verb-final) | **…wenn** ich morgen Deutsch **lernen werde**. |
-| `dass`-clause (verb-final) | **…dass** ich morgen Deutsch **lernen werde**. |
-
-> 📌 **Merkasten — Negation & Wortstellung in Futur I**
->
-> | Rule | Example |
+> | werden (Position 2) | + Infinitiv (Ende) |
 > |---|---|
-> | `nicht` before infinitive (not before `werden`) | Ich werde morgen **nicht** kommen. |
-> | Time markers: Satzanfang or after `werden` | **Morgen** werde ich lernen. / Ich werde **morgen** lernen. |
-> | Subordinate clause: `werde` moves to end, before infinitive | …dass ich morgen Deutsch lernen **werde**. |
+> | ich werde / du wirst / er wird | … lernen / fliegen / sein |
+> | wir/sie/Sie werden / ihr werdet | |
+>
+> ▶ Pläne · Vorhersagen · Vermutungen. ▶ Umgangssprachlich oft auch Präsens + Zeitwort.
 
 ---
 
-### 4.3 `als` vs. `wenn` — temporal clauses
+### 6.2 Negation and word order in Futur I
 
-`als` and `wenn` can both mean *when*, but they are **not interchangeable**.
+**Warum?** Two practical points trip learners up. First, **`nicht`** goes **before the infinitive**, not before *werden*: *Ich werde **nicht** rauchen.* Second, the **infinitive's position changes in a subordinate clause**. In a main clause, *werden* is in slot 2 and the infinitive is last (*Ich **werde** Deutsch **lernen***). But in a `wenn`/`weil`/`dass`-clause, the conjugated verb (*werde*) flies to the very end — *behind* the infinitive: *…, dass ich Deutsch **lernen werde***. This double-verb-at-the-end pattern feels odd at first but is completely regular: in subordinate clauses, the finite verb is always last.
 
-| | `als` | `wenn` |
-|---|---|---|
-| Meaning | when (a single event in the past) | when (repeated in the past) / when (present or future) |
-| Time reference | one specific moment in the past | any time, or "whenever" / "if" |
-| Verb position | end of subordinate clause | end of subordinate clause |
+**Examples:**
 
-#### `als` — a single event in the past
+1. Ich **werde nicht** rauchen. — *nicht before infinitive*
+2. Wir **werden** morgen **nicht** kommen.
+3. Er **wird** das **nicht** schaffen.
+4. **Morgen werde ich** Deutsch lernen. — *time word in front → inversion*
+5. **Mit Anna werde ich** nach Brasilien fliegen.
+6. …, dass ich morgen Deutsch **lernen werde**. — *subordinate: finite verb last*
+7. …, weil ich es **schaffen werde**.
+8. Ich glaube, dass es morgen **regnen wird**.
 
-Use `als` for **one specific past event** (a story, a biography, "the time when …"):
-
-> **Als** ich ein Kind **war**, habe ich in Russland **gelebt**.
-> (When I was a child, I lived in Russia.)
+> ⚠️ **Häufige Fehler**
 >
-> **Als** wir im November das Konzept **präsentiert haben**, waren alle **begeistert**.
-> (When we presented the concept in November, everyone was thrilled.)
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich werde rauchen **nicht**.* | *Ich werde **nicht** rauchen.* (nicht before the infinitive) |
+> | *…, dass ich **werde** Deutsch lernen.* | *…, dass ich Deutsch **lernen werde**.* (finite verb to the end) |
+> | *Morgen **ich werde** lernen.* | *Morgen **werde ich** lernen.* (verb position 2) |
+
+> 💡 **Lerntipp:** In a subordinate clause, read the two verbs as a stack at the end: *…lernen werde* = [action][helper]. The helper (*werde*) always gets the very last spot, because the finite verb owns the end of a Nebensatz. Picture the helper verb as a heavy anchor that sinks to the bottom of the clause.
+
+**Versuch es selbst.** Mach den Satz negativ und dann zum Nebensatz mit „dass": „Ich werde morgen kommen."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> Negativ: *Ich werde morgen **nicht** kommen.*
+> Nebensatz: *…, dass ich morgen **kommen werde**.*
+
+</details>
+
+> 📌 **Merkasten — Negation & Wortstellung**
+> | Regel | Beispiel |
+> |---|---|
+> | `nicht` vor dem Infinitiv | Ich werde **nicht** kommen. |
+> | Hauptsatz | werden = Position 2, Infinitiv am Ende |
+> | Nebensatz | …, dass ich … lernen **werde** (finites Verb ganz hinten) |
+
+---
+
+### 6.3 `als` vs. `wenn` — telling time in the past and future
+
+**Warum?** Both *als* and *wenn* can translate as "when," but they're not interchangeable — and choosing wrong is one of the most common A2 errors. The rule is about **time and frequency**, not translation. Use **`als`** for **one single event in the past** — a specific moment, a chapter of life: *Als ich ein Kind war …*, *Als wir das Konzept präsentierten …*. Use **`wenn`** for everything else: **repeated past events** ("whenever": *Wenn ich traurig war, …*), and **all present or future events** (*Wenn ich morgen Zeit habe, …*). A simple test: *one specific moment in the past?* → `als`. *Anything else?* → `wenn`. Both send the verb to the end of the clause.
+
+**Examples:**
+
+*`als` — one past event:*
+1. **Als** ich ein Kind **war**, habe ich in Russland **gelebt**.
+2. **Als** Anna gestern **ankam**, hat es **geregnet**.
+3. **Als** wir das Konzept **präsentierten**, waren alle begeistert.
+
+*`wenn` — repeated past / present / future:*
+4. **Wenn** ich als Kind traurig **war**, hat mich meine Mutter **getröstet**. — *repeated past*
+5. **Wenn** ich morgen Zeit **habe**, gehe ich ins Kino. — *future*
+6. **Wenn** es **regnet**, bleiben wir drinnen. — *general / future*
+7. **Wenn** das Wetter besser **wird**, fange ich mit dem Joggen an.
+8. **Wenn** ich die Prüfung **schaffe**, werde ich glücklich sein.
+
+> ⚠️ **Häufige Fehler**
 >
-> **Als** Anna gestern in Berlin **ankam**, hat es **geregnet**.
-> (When Anna arrived in Berlin yesterday, it was raining.)
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | ***Als** ich morgen Zeit habe, …* | ***Wenn** ich morgen Zeit habe, …* (future → wenn) |
+> | ***Wenn** ich gestern ankam, hat es geregnet.* (single past) | ***Als** ich gestern ankam, hat es geregnet.* |
+> | *Wenn ich **werde** Zeit haben, …* | *Wenn ich Zeit **haben werde**, …* (verb to the end) |
 
-⚠️ `als` is **only for the past** — never for the present or future.
+> 💡 **Lerntipp:** Draw a timeline. One dot in the past = **`als`** ("a**l**s = a single past moment"). Everything else — a row of dots (repeated) or anything to the right of "now" (present/future) = **`wenn`**. Ask one question before you choose: *„Einmal in der Vergangenheit?"* Yes → als. No → wenn.
 
-#### `wenn` — repeated past, or present / future
+**Versuch es selbst.** `als` oder `wenn`? (1) ___ ich 2019 nach Berlin kam, war ich nervös. (2) ___ ich nächstes Jahr nach Hause fliege, besuche ich meine Oma.
 
-Use `wenn` for:
-- **repeated events in the past** (every time …):
-  > **Wenn** ich als Kind traurig **war**, hat meine Mutter mich **getröstet**.
-  > (Whenever I was sad as a child, my mother comforted me.)
-- **present or future events** (a single future event OR a general truth):
-  > **Wenn** ich morgen Zeit **habe**, gehe ich ins Kino.
-  > (If/when I have time tomorrow, I'll go to the cinema.)
-  >
-  > **Wenn** es regnet, **werden** wir **drinnen** **bleiben**.
-  > (If it rains, we'll stay inside.)
-  >
-  > **Wenn** das Wetter besser **wird**, **werde** ich mit dem Joggen **anfangen**.
-  > (When the weather gets better, I'll start jogging.)
+<details>
+<summary>📝 Lösung</summary>
 
-#### Side-by-side
+> *(1)* **Als** ich 2019 nach Berlin kam … *(one past event)*
+> *(2)* **Wenn** ich nächstes Jahr … fliege … *(future)*
 
-| Sentence | Which word? | Why? |
-|---|---|---|
-| **Als** ich gestern in Berlin **ankam**, hat es **geregnet**. | `als` | one specific past event |
-| **Wenn** ich in Berlin **ankam**, **ging** ich immer ins Café Einstein. | `wenn` | every time I arrived (repeated) |
-| **Wenn** ich morgen in Berlin **ankomme**, **besuche** ich meine Freunde. | `wenn` | single future event |
-| **Als** ich ein Kind **war**, **spielte** ich gern Fußball. | `als` | one period in the past (a state, a chapter of life) |
-| **Wenn** ich ein Kind **war**, **spielte** ich gern Fußball. | ⚠️ acceptable, but `als` is more natural for "the time when I was a child" |
-
-⚠️ **Trap 1 — wrong word choice:**
-❌ *Als ich morgen Zeit habe, gehe ich ins Kino.* — WRONG (`als` cannot mean "tomorrow")
-✅ *Wenn ich morgen Zeit habe, gehe ich ins Kino.* — CORRECT
-
-⚠️ **Trap 2 — verb position:**
-❌ *Wenn ich werde Zeit haben, gehe ich ins Kino.* — WRONG
-✅ *Wenn ich Zeit haben **werde**, gehe ich ins Kino.* — CORRECT (conjugated verb at the end)
-
-⚠️ **Trap 3 — confusing `als` with `wenn` in repeated past:**
-❌ *Als ich ein Kind war, hat meine Mutter mich immer getröstet, als ich traurig war.* — clumsy
-✅ *Wenn ich als Kind traurig war, hat meine Mutter mich immer getröstet.* — natural
+</details>
 
 > 📌 **Merkasten — `als` vs. `wenn`**
+> | Wort | Gebrauch |
+> |---|---|
+> | `als` | EINMAL in der Vergangenheit (Als ich ein Kind war …) |
+> | `wenn` | WIEDERHOLT (jedes Mal) ODER Gegenwart/Zukunft |
 >
-> | Word | Use | Verb position |
-> |---|---|---|
-> | `als` | ONE-TIME event in the PAST | verb-last in subordinate clause |
-> | `wenn` | REPEATED events (any time) OR future events | verb-last in subordinate clause |
+> ▶ Beide → Verb am Ende. ▶ Test: „einmal in der Vergangenheit?" → als, sonst wenn.
 
 ---
 
-### 4.4 Pronunciation: Futur I and time words
+### 6.4 Pronunciation: Futur I and time words
 
-A few sounds appear frequently in this lesson's vocabulary:
+**Warum?** The forms of *werden* hide a couple of traps: *wird* has a short, crisp *i* ("VIRT"), while the plurals *Vorsätze, Träume* carry the *äu* diphthong ("oy"). Keeping the *werden* forms clear helps your future-tense sentences land. And the even rhythm of Futur I — stress on *werden* and on the content infinitive — is what makes it sound natural rather than mechanical.
 
-- **Long `ä` and short `i` in `wird`** — *wird* has a short `i` (like English "kit"): `VIRT`. *Vorsätze* has a long `ä` (like English "air" without the r): `FOR-zet-suh`.
-- **`äu`** in *Vorsätze, träumen, Häuser* — like English "oy": `TROY-muhn`.
-- **`ch`** is soft (`ich-sound`) after *e, i, ö, ü, ä, ei, eu*: *Versprechen, Gespräch* — and guttural (`ach-sound`) after *a, o, u, au*: *auch, machen*.
-- **Stress on Futur I:** the main stress is on **`werden`** (the conjugated verb) and on the **content infinitive**:
-  > *Ich **WER**de mor**GEN** Deutsch **LER**nen.* — even rhythm
-- **Glottal stop** before vowels: *werde ich, werde ins Kino gehen* — there is a clear break before the vowel-initial word.
+- **wird** = short *i*, like English "kit": *VIRT*.
+- **äu** in *Vorsätze, Träume, Häuser* = English "oy": *TROY-muh*.
+- **ch**: soft after *e/i/ö/ü/ei* (*versprechen, Gespräch*), guttural after *a/o/u/au* (*machen, auch*).
+- **Stress** falls on *werden* and the content infinitive: *Ich **WER**de Deutsch **LER**nen.*
+
+> 💡 **Lerntipp:** Don't swallow *wird* into "wirt" or "vid" — clip the short *i* and the final *d* (which sounds like *t*): "VIRT." Practise the chain *werde – wirst – wird – werden* out loud daily; once the helper verb is automatic, your future tense flows.
 
 ---
 
-## 5. Lesetext: Annas Pläne für das neue Jahr
+## 7. Lesetext: Annas Pläne für das neue Jahr
 
-*You'll work with this text in the exercises — Block C, Lesen.*
+*(You'll work with this text in the exercises — Block C, Lesen.)*
 
 Anna ist Studentin und lebt seit zwei Jahren in Berlin. Heute ist der erste Januar, und sie sitzt am Schreibtisch und schreibt ihre Pläne für das neue Jahr auf. Sie hat drei wichtige Vorsätze: mehr Sport, mehr Deutsch lernen und endlich ihre Familie in Russland besuchen.
 
@@ -357,11 +399,9 @@ Im Sommer wird sie nach Jaroslawl fliegen. Sie wird drei Wochen bei ihren Eltern
 
 Im Herbst möchte sie einen Deutschkurs für Kinder geben. Wenn alles klappt, wird sie im Oktober damit anfangen. „Ich habe große Pläne", lacht Anna. „Aber ich weiß: Pläne sind Pläne — und das wird das Leben zeigen!"
 
-*(You'll work with this text in the exercises — Block C, Lesen.)*
-
 ---
 
-## 6. Hörtext
+## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
@@ -376,18 +416,35 @@ Im Herbst möchte sie einen Deutschkurs für Kinder geben. Wenn alles klappt, wi
 
 ---
 
-## 7. Lernstrategie
+## 9. Magazin — Landeskunde
 
-**The "Time-line test" for `als` vs. `wenn`:** Before you write a temporal clause,
-ask yourself **one question**: *Is there a specific date or a single moment?*
-- If **yes → `als`** (e.g. *Als ich 2018 nach Berlin kam …*).
-- If **no → `wenn`** (it is a habit, a rule, a condition, or a future event).
+### Gute Vorsätze: Warum die Fitnessstudios im Januar voll sind
 
-Now make it physical: draw a horizontal line on paper. Mark the past on the
-left and the future on the right. Above the line, write 5 sentences with `als`
-(all in the past). Below the line, write 5 sentences with `wenn` (mix past
-habits, present rules, and future plans). Speak each sentence aloud three
-times. Doing this once a week for 3 weeks will fix the `als`/`wenn` choice
-in your head — it is a question of **time placement**, not translation.
+Zum Jahreswechsel fasst halb Deutschland **gute Vorsätze**: mehr Sport, weniger Stress, gesünder essen, endlich mit dem Rauchen aufhören. Im Januar sind die Fitnessstudios so voll, dass man kaum ein freies Gerät findet — und im März wieder fast leer. Das kennt jeder, und viele lachen selbst darüber.
 
-➡️ **Now do `exercises.md`. Check yourself with `solutions.md` only afterwards.**
+> „Der Vorsatz hält bis zum ersten Februar" — sagt man halb scherzhaft.
+
+Trotzdem gehört das Ritual dazu. An Silvester stößt man um Mitternacht mit Sekt an, schaut das Feuerwerk und sagt: „Nächstes Jahr wird alles besser." Ob das stimmt? Das wird das Leben zeigen. Aber der Optimismus selbst — der Glaube, dass man etwas ändern *kann* — ist vielleicht der wichtigste Vorsatz von allen.
+
+---
+
+## 10. Lernstrategie
+
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jede Futur-I-Form und jedes als/wenn
+- Wortschatz §4 (Zukunft + Wetter) mit verdeckter Spalte testen
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
+
+### Tag 2 (30 min) — Vertiefung
+- Grammatik §6.1 (Futur I) und §6.2 (Negation/Wortstellung): 6 Sätze über deine Pläne schreiben
+- Eine kurze Wettervorhersage für deine Stadt im Futur I schreiben
+- *Versuch es selbst* in §6.1, §6.2 und §6.3 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Grammatik §6.3: „Timeline-Test" — je 5 Sätze mit `als` (Vergangenheit) und `wenn` (Wiederholung/Zukunft)
+- Hörtext §8 hören, Transkript erst danach öffnen, alle Futur-I-Formen heraushören
+- Lesetext §7 lesen, jedes als/wenn markieren und begründen — dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
