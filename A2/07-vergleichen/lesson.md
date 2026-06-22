@@ -1,3 +1,24 @@
+---
+level: A2
+number: 7
+slug: vergleichen
+title: Vergleichen
+titleEn: Comparing
+canDo:
+  - compare products, cities, and people
+  - say what you prefer
+  - describe statistics and trends
+  - use comparative and superlative forms
+grammar:
+  - "comparative (schneller, teurer) and als / so … wie"
+  - "superlative predicative (am schnellsten) and attributive (der schnellste)"
+  - "irregular forms (gut → besser → am besten, viel, gern, hoch, nah)"
+buildsOn:
+  - A1/06 (gern/lieber introduction)
+  - A1/03 (basic predicative adjectives)
+  - A2/06 (verbs with prepositions)
+---
+
 # A2 · Lektion 7 — Vergleichen (Comparing)
 
 > **You will learn to:** compare products, cities, and people; say what you prefer;
@@ -43,7 +64,13 @@
 
 ---
 
-## 2. Redemittel (ready-made phrases)
+## 2. Einstieg — Was lernst du heute?
+
+Welches Handy ist besser? Welche Stadt ist schöner? Wo ist das Leben am günstigsten? Sobald du zwei Dinge nebeneinanderstellst, brauchst du den **Komparativ** und den **Superlativ**. In dieser Lektion lernst du, alles zu vergleichen — Preise, Städte, Menschen, Produkte. Du lernst den kleinen, aber wichtigen Unterschied zwischen `als` (ungleich: *größer **als***) und `wie` (gleich: *so groß **wie***), und du lernst, wie du sagst, was dir am besten gefällt. Am Ende kannst du im Kaufhaus beraten, eine Statistik beschreiben und deine Meinung mit guten Argumenten begründen.
+
+---
+
+## 3. Redemittel (ready-made phrases)
 
 ### Vergleichen (comparing)
 
@@ -80,9 +107,11 @@
 
 ---
 
-## 3. Wortschatz (vocabulary)
+## 4. Wortschatz (vocabulary)
 
 ### Adjektive für Vergleiche (adjectives for comparing)
+
+> 💡 **Lerntipp:** Lern jedes Adjektiv gleich als Dreierkette: *Grundform → Komparativ → Superlativ* (*schnell – schneller – am schnellsten*). Sag die Kette laut auf wie eine Vokabel-Treppe. Achte besonders auf die kurzen Adjektive mit Umlaut: *alt – älter – am ältesten*, *groß – größer – am größten*. Der Umlaut ist das Signal „unregelmäßig".
 
 | Adjektiv | English | Comparative | Superlative |
 |---|---|---|---|
@@ -112,6 +141,8 @@
 
 ### Nomen für Statistiken und Einkaufen
 
+> 💡 **Lerntipp:** Merk dir die Gegensatzpaare zusammen: *der Vorteil ↔ der Nachteil*, *der Unterschied ↔ die Ähnlichkeit*. Beim Vergleichen brauchst du fast immer beide Seiten — „Der Vorteil ist …, aber der Nachteil ist …".
+
 | Noun (with article + plural) | English |
 |---|---|
 | der Preis, -e | price |
@@ -131,6 +162,8 @@
 
 ### Verben und Ausdrücke (verbs and expressions)
 
+> 💡 **Lerntipp:** *steigen* und *sinken* bilden das Perfekt mit **sein** (*ist gestiegen / ist gesunken*), weil sie eine Bewegung/Veränderung beschreiben — perfekt für Statistiken: „Die Preise **sind gestiegen**." Merk dir das Paar steigen↑ / sinken↓ als Pfeile.
+
 | Verb / Expression | English | Notes |
 |---|---|---|
 | vergleichen | to compare | hat verglichen ⚠️ |
@@ -144,154 +177,200 @@
 
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Welche Reise ist besser?
 
-### 4.1 Comparative — forming it
+Lies den Text einmal für den Inhalt. Beim zweiten Lesen markiere jeden Komparativ (*-er … als*), jedes `so … wie` und jeden Superlativ (*am …sten* / *der/die/das …ste*).
 
-Add **`-er`** to the adjective stem, then add any required adjective ending:
+Anna und Bruno wollen am Wochenende eine kleine Reise machen. Aber wohin? Anna möchte nach Dresden, Bruno lieber nach Hamburg. Also vergleichen sie.
 
-| Adjektiv | Komparativ |
-|---|---|
-| schnell | schnell**er** |
-| teuer | teur**er** ⚠️ (drops the inner -e-) |
-| modern | modern**er** |
-| leicht | leicht**er** |
+„Hamburg ist größer als Dresden", sagt Bruno. „Und es liegt am Wasser — der Hafen ist der schönste in ganz Deutschland." Anna ist nicht überzeugt. „Dresden ist kleiner, aber gemütlicher. Und die Altstadt ist genauso schön wie in Hamburg, finde ich."
 
-**Predicative comparative** (after `sein`, `werden`, `finden`) — no extra ending:
+Dann schauen sie die Preise an. Der Zug nach Hamburg ist teurer als der Zug nach Dresden — fast doppelt so teuer. „Dresden ist also günstiger", sagt Anna zufrieden. „Aber die Reise nach Hamburg ist kürzer", antwortet Bruno. „Mit dem schnellen Zug sind wir in vier Stunden da. Nach Dresden dauert es länger."
 
-> Das Auto ist **schneller** als das Fahrrad.
-> Diese Wohnung ist **teurer** als die andere.
-> Ich finde Berlin **interessanter** als München.
+Am Ende machen sie eine Liste: Hamburg hat die besseren Museen, aber Dresden hat das bessere Wetter am Wochenende. Hamburg ist aufregender, Dresden ist ruhiger. „Weißt du was?", sagt Anna und lacht. „Beide sind toll. Aber Dresden ist billiger und näher — das ist mir am wichtigsten." Bruno nickt: „Okay, du hast die besseren Argumente. Nächstes Mal fahren wir nach Hamburg!"
 
-**`als`** introduces the second element of an unequal comparison:
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
 
-> Berlin ist größer **als** Wien.
-> Er läuft schneller **als** ich.
+> **1. Welche Stadt ist größer?**
+> *Hamburg ist größer als Dresden.*
+>
+> **2. Warum ist der Zug nach Dresden besser für Anna?**
+> *Weil er günstiger ist — fast halb so teuer wie der Zug nach Hamburg.*
+>
+> **3. Wofür entscheiden sie sich am Ende?**
+> *Sie fahren nach Dresden, weil es billiger und näher ist.*
 
-⚠️ Never use `wie` for unequal comparisons: *Berlin ist größer **wie** Wien* ✗
+</details>
 
-> 📌 **Merkasten — Komparativ**
+---
+
+## 6. Grammatik
+
+### 6.1 Comparative — `-er`, plus `als` vs. `so … wie`
+
+**Warum?** To say one thing is *more* than another, English has two systems: short words add "-er" ("faster"), long words use "more" ("more expensive"). German is simpler — it adds **`-er`** to *every* adjective, no matter how long: *schnell**er**, teur**er**, interessant**er**, modern**er***. Then comes the single most common comparison error learners make: **`als` vs. `wie`**. Use **`als`** when the two things are *unequal* (more/less): *Berlin ist größer **als** Wien*. Use **`so … wie`** when they're *equal*: *München ist so schön **wie** Berlin*. In English "than" and "as" already feel different; in German keep them just as strictly apart — mixing them (*größer wie*) is the classic beginner slip that native ears notice instantly.
+
+**Examples:**
+
+1. Das blaue Kleid ist schön**er als** das rote. — *unequal → als*
+2. Berlin ist größ**er als** München. — *umlaut + als*
+3. Dieser Laptop ist teur**er als** der andere. — *teuer drops the inner -e- → teurer*
+4. Der schwarze ist modern**er** und schnell**er als** der graue. — *two comparatives*
+5. München ist **so** schön **wie** Berlin. — *equal → so … wie*
+6. Das rote Kleid ist **genauso** teuer **wie** das blaue. — *just as … as*
+7. Paris ist **nicht so** groß **wie** London. — *not as … as*
+8. Er läuft schnell**er als** ich. — *als + subject pronoun*
+9. Heute ist es wärm**er als** gestern. — *umlaut: warm → wärmer*
+10. Ich finde Deutsch interessant**er als** Mathe. — *long adjective still just -er*
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Berlin ist größer **wie** Wien.* | *Berlin ist größer **als** Wien.* (unequal → als) |
+> | *München ist so schön **als** Berlin.* | *München ist so schön **wie** Berlin.* (equal → wie) |
+> | *Das ist **mehr teuer** als…* | *Das ist **teurer** als…* (never "mehr" + Adj) |
+> | *Es ist warmer heute.* | *Es ist **wärmer** heute.* (umlaut: warm → wärmer) |
+
+> 💡 **Lerntipp:** Two letters, two meanings: **alS = ungleich** (unequal — both have an "l"-ish unequal feel), **wie = wie gleich** (equal — "wie" and "gleich" go together). Or remember the picture: *als* compares two *different* heights; *so … wie* draws an *equals sign* (=) between them. Never *größer wie*.
+
+**Versuch es selbst.** Fill `als` or `wie`: (1) Mein Handy ist älter ___ deins. (2) Dresden ist nicht so groß ___ Hamburg.
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *(1)* Mein Handy ist älter **als** deins. *(unequal)*
+> *(2)* Dresden ist nicht so groß **wie** Hamburg. *(equal/so…wie)*
+
+</details>
+
+> 📌 **Merkasten — Komparativ + als/wie**
 > | Form | Pattern | Example |
 > |---|---|---|
-> | regular | Adj + **-er** | klein → kleiner |
-> | umlaut | Adj-umlaut + **-er** | groß → größer |
-> | irregular | must memorize | gut → **besser** · viel → **mehr** · gern → **lieber** |
-> 
-> ▶ Always use `als` after a comparative: `Berlin ist größer **als** München.`
+> | Komparativ | Adj + **-er** | klein → kleiner |
+> | Umlaut | a/o/u → ä/ö/ü + **-er** | groß → größer |
+> | ungleich | … **-er als** … | größer **als** Wien |
+> | gleich | **so** … **wie** … | so groß **wie** Berlin |
+>
+> ▶ Irregular: gut → **besser**, viel → **mehr**, gern → **lieber**.
 
 ---
 
-### 4.2 Equality — `so … wie`
+### 6.2 Superlative — `am …sten` (predicative) and `der …ste` (attributive)
 
-For equal comparisons, use **`so + adjective + wie`**:
+**Warum?** The superlative ("the fastest," "the best") has **two shapes** in German, and choosing the right one is the big A2 hurdle. When the superlative stands *alone* after the verb (predicative), use **`am …sten`**: *Dieses Auto ist **am schnellsten***. When it stands *before a noun* (attributive), it needs an article and an **adjective ending**: *Das ist **der schnellste** Wagen*. English uses one form ("the fastest") for both, so learners forget that German's attributive form must be declined. The rule of thumb: **noun coming right after? → use `der/die/das …ste` with an ending. Nothing after? → use `am …sten`.**
 
-> München ist **so** schön **wie** Berlin.
-> Das blaue Kleid ist **genauso** teuer **wie** das rote.
-> Er spricht Deutsch **so** gut **wie** Englisch.
+**Predicative** (`am …sten`, never changes):
 
-To negate: **`nicht so … wie`** = not as … as:
+1. Dieses Hotel ist **am teuersten**. 2. Im Sommer ist es hier **am heißesten**. 3. Welche Stadt ist **am größten**? 4. Bruno läuft **am schnellsten**.
 
-> Paris ist **nicht so** groß **wie** London.
+**Attributive** (`der/die/das …ste` + ending, follows the weak-declension table):
 
-⚠️ `als` = unequal (more/less than) · `wie` = equal (as … as). This is a very common error — memorize the rule.
+5. Das ist **der schnellste** Zug in Deutschland. *(Nom. m → -ste)*
+6. Ich nehme **das günstigste** Modell. *(Akk. n → -ste)*
+7. Wir wohnen in **der ruhigsten** Straße. *(Dat. f → -sten)*
+8. Er hat **die besten** Freunde der Welt. *(Akk. pl → -sten)*
+9. Hamburg hat **den schönsten** Hafen. *(Akk. m → -sten)*
+10. Das blaue ist **das eleganteste** Kleid im Laden. *(Nom. n → -ste)*
 
-> 📌 **Merkasten — Gleichheit**
-> | Structure | Meaning | Example |
+Spelling: adjectives ending in **-t, -d, -s, -ß, -z** add an extra **-e-**: *am ält**esten**, am laut**esten**, am neu**esten***.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Das ist das **schnellst** Auto.* | *Das ist das **schnellste** Auto.* (attributive needs an ending!) |
+> | *Das Auto ist **das schnellste**.* (predicative) | *Das Auto ist **am schnellsten**.* (no noun → am …sten) |
+> | *Welche Stadt ist **die größte**?* (no noun) | *Welche Stadt ist **am größten**?* |
+> | *am **altesten*** | *am **ältesten*** (umlaut + extra -e- after -t) |
+
+> 💡 **Lerntipp:** Ask "is a noun coming?" If **yes** → the superlative leans on the noun, so dress it up: *der/die/das …ste* with an ending (*der schnellste Zug*). If **no** → it stands alone and stays flat: *am …sten* (*am schnellsten*). Noun = dressed; alone = `am`.
+
+**Versuch es selbst.** Complete with the right superlative: (1) Dieser Laptop ist ___ (gut, predicative). (2) Das ist ___ Laptop (gut, attributive, Nom. m).
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *(1)* Dieser Laptop ist **am besten**. *(predicative)*
+> *(2)* Das ist **der beste** Laptop. *(attributive, Nom. m)*
+
+</details>
+
+> 📌 **Merkasten — Superlativ**
+> | Typ | Form | Beispiel |
 > |---|---|---|
-> | `so [Adj] wie` | as … as | so groß wie Berlin |
-> | `genauso [Adj] wie` | just as … as | genauso teuer wie München |
-> | `nicht so [Adj] wie` | not as … as | nicht so warm wie im Süden |
+> | prädikativ (kein Nomen) | **am** …**sten** | am schnellsten |
+> | attributiv (+ Nomen) | **der/die/das** …**ste** + Endung | der schnellste Zug |
+> | nach -t/-d/-s/-ß | extra **-e-** | am ältesten, am lautesten |
+>
+> ▶ Attributiv hat **immer** eine Endung — nie *der schnellst*.
 
 ---
 
-### 4.3 Superlative — predicative form
+### 6.3 Irregular comparatives — `gut`, `viel`, `gern`, `hoch`, `nah`
 
-Add **`-sten`** to the stem: **`am ___sten`**
-
-| Adjektiv | Superlativ (prädikativ) |
-|---|---|
-| schnell | am schnell**sten** |
-| modern | am modern**sten** |
-| langsam | am langsam**sten** |
-
-**Spelling rules:**
-- Stems ending in **-d, -t, -s, -ß, -x, -z**: insert an extra `-e-` before `-sten`:
-  `neu → am neu**esten**`, `laut → am laut**esten**`, `alt → am ält**esten**`.
-- Stems with an umlaut in comparative keep it in superlative: `groß → größer → am größ**ten**` (the ß + t merge as -st).
-
-> Dieses Hotel ist **am teuersten**.
-> Im Sommer ist es hier **am heißesten**.
-> Welche Stadt ist **am größten**?
-
-> 📌 **Merkasten — Superlativ prädikativ**
-> | Form | Pattern | Example |
-> |---|---|---|
-> | regular | `am` + Adj + **-sten** | am kleinsten |
-> | Adj ending in `-t`, `-d`, `-s`, `-ß` | add **-esten** | am größten · am lautesten |
-> | irregular | must memorize | gut → **am besten** · viel → **am meisten** · gern → **am liebsten** |
-
----
-
-### 4.4 Superlative — attributive form (declined!)
-
-When the superlative is used **before a noun**, it takes full adjective endings. This is the most common learner trap.
-
-**Formula:** `der/die/das + stem + -ste + ending` (after definite article → weak declension)
-
-| Case | Masculine | Feminine | Neuter | Plural |
-|---|---|---|---|---|
-| Nom. | der schnellst**e** | die schnellst**e** | das schnellst**e** | die schnellst**en** |
-| Akk. | den schnellst**en** | die schnellst**e** | das schnellst**e** | die schnellst**en** |
-| Dat. | dem schnellst**en** | der schnellst**en** | dem schnellst**en** | den schnellst**en** |
-
-Examples:
-
-> Das ist der **schnellste** Zug in Deutschland. (Nom. m)
-> Ich nehme das **günstigste** Modell. (Akk. n)
-> Wir wohnen in der **ruhigsten** Straße. (Dat. f)
-> Er hat die **besten** Freunde der Welt. (Akk. pl)
-
-⚠️ **The attributive superlative always needs an ending!** You cannot write *der schnellst* — the ending is mandatory. Compare:
-
-> Das Auto ist am schnellsten. ✓ (predicative — no noun follows)
-> Das ist das schnellste Auto. ✓ (attributive — ending -e because neuter Nom.)
-> Das ist das schnellst Auto. ✗
-
-> 📌 **Merkasten — Superlativ attributiv**
-> The attributive superlative = `[article] + [Adj]-st- + ending`:
-> - `der/die/das` + **größt-** + weak ending → `der größte Berg`
-> - Endings follow the same weak-declension table as regular adjectives.
-> 
-> ▶ Always has an article (no bare superlative adjective without `der/die/das`).
-
----
-
-### 4.5 Irregular forms — must memorize!
+**Warum?** A handful of the most-used adjectives don't follow the `-er`/`-sten` rule — and because they're so common, you'll trip over them constantly if you don't memorise them. The good news: English has exactly the same irregulars in the same places — *good → better → best*, *much → more → most*. So *gut → besser → am besten* should feel familiar. Two German-specific ones to watch: **`gern`** (which means "to like doing," not really an adjective) becomes *lieber → am liebsten*, and **`hoch`** loses its `-ch-` spelling in the comparative: *hoch → höher* (not *hocher*).
 
 | Base | Comparative | Superlative (pred.) | Superlative (attr.) |
 |---|---|---|---|
-| **gut** | **besser** | **am besten** | der/die/das **beste** |
-| **viel** | **mehr** | **am meisten** | der/die/das **meiste** |
-| **gern** | **lieber** | **am liebsten** | — (adverb only) |
-| **hoch** | **höher** ⚠️ | **am höchsten** | der/die/das **höchste** |
-| **nah** | **näher** | **am nächsten** | der/die/das **nächste** |
+| **gut** | besser | am besten | der/die/das beste |
+| **viel** | mehr | am meisten | der/die/das meiste |
+| **gern** | lieber | am liebsten | — (adverb only) |
+| **hoch** | höher ⚠️ | am höchsten | der/die/das höchste |
+| **nah** | näher | am nächsten | der/die/das nächste |
 
-⚠️ **`hoch`** drops the `-ch-` spelling pattern: `hoch → höher` (not *hocher*). The comparative stem is `höh-`.
+**Examples:**
 
-> Das ist die **beste** Lösung. · Er kann **mehr** essen als ich.
-> Ich esse **am liebsten** Pizza. · Das höchste Gebäude in Berlin ist der Fernsehturm.
+1. Das ist **die beste** Lösung. 2. Er kann **mehr** essen als ich. 3. Ich esse **am liebsten** Pizza. 4. Der Fernsehturm ist **das höchste** Gebäude in Berlin. 5. Wo ist die **nächste** Apotheke? 6. Anna mag Tee, aber Kaffee trinkt sie **lieber**. 7. München hat die **höchsten** Gehälter. 8. Hamburg hat **die besseren** Museen.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Mathe ist **guter** als Deutsch.* | *Mathe ist **besser** als Deutsch.* |
+> | *Ich esse **mehr gern** Pizza.* | *Ich esse **lieber** Pizza.* |
+> | *Das ist das **hochste** Gebäude.* | *Das ist das **höchste** Gebäude.* |
+> | *Ich trinke **viel** als du.* (= more) | *Ich trinke **mehr** als du.* |
+
+> 💡 **Lerntipp:** The five irregulars map almost one-to-one onto English: *gut/besser/best = good/better/best*, *viel/mehr/meist = much/more/most*. Learn them as bilingual pairs and they stick. The two "German extras" to drill aloud: *gern → **lieber** → am **liebsten*** and *hoch → **höher***.
+
+**Versuch es selbst.** Schreib 2 Sätze über deine Vorlieben mit *lieber* und *am liebsten*: Was trinkst du lieber — Tee oder Kaffee? Was isst du am liebsten?
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich trinke **lieber** Kaffee als Tee.*
+> *Am **liebsten** esse ich Pizza.*
+
+</details>
+
+> 📌 **Merkasten — unregelmäßige Formen**
+> | gut → besser → am besten | viel → mehr → am meisten |
+> |---|---|
+> | gern → lieber → am liebsten | hoch → höher → am höchsten |
+> | nah → näher → am nächsten | |
+>
+> ▶ Wie im Englischen: *good/better/best*, *much/more/most*. ▶ `hoch → höher` (kein *hocher*).
 
 ---
 
-### 4.6 Pronunciation: comparative endings
+### 6.4 Pronunciation: comparative & superlative endings
 
-- The comparative `-er` suffix is a **reduced vowel (Schwa)**: `schöner` ≈ "SHEU-ner" (like the English "-er" in "better").
-- Don't add a second syllable where there is none: `teuer` already ends in `-er`, so comparative is `teurer` (teu-**rer**) — not *teuerer*.
-- Attributive superlative: `-sten` or `-esten` is one short syllable: `schnellsten` ≈ "SCHNELL-sten".
+**Warum?** Comparison endings are unstressed and easy to over-pronounce. The `-er` of the comparative is a soft Schwa (the "uh" in English "better"), not a rolled, stressed syllable. And watch *teuer*: it already ends in `-er`, so the comparative is *teu**rer*** (two syllables), not *teuerer*. Getting these light endings right makes you sound far more natural.
+
+- Comparative `-er` = soft Schwa: *schöner* ≈ "SHÖ-nuh," *größer* ≈ "GRÖ-suh."
+- *teuer → teurer* (the inner -e- drops): say "TOY-ruh," not "TOY-eruh."
+- Superlative `-sten`/`-esten` = one short syllable: *am schnellsten* ≈ "am SHNELL-sten."
+- The stress stays on the **adjective stem**, never on the ending: *am **GRÖSS**-ten*, *der **SCHNELL**-ste*.
+
+> 💡 **Lerntipp:** Keep the ending "small." Stress the stem, swallow the suffix. Say *am größten* like one strong beat plus a quiet tail: **GRÖSS**-tn. Over-stressing endings (*grö-SSTEN*) is the tell-tale sign of a beginner; light endings sound fluent.
 
 ---
 
-## 5. Lesetext: Berlin und München — ein Vergleich
+## 7. Lesetext: Berlin und München — ein Vergleich
+
+*(You'll work with this text in the exercises — Block C, Lesen.)*
 
 > Berlin und München sind die bekanntesten Städte Deutschlands — aber sie sind sehr verschieden.
 >
@@ -311,11 +390,9 @@ Examples:
 > Nachtleben ist Berlin am besten. Für Natur und höhere Gehälter ist München
 > die bessere Wahl.
 
-*(You'll work with this text in the exercises — Block C, Lesen.)*
-
 ---
 
-## 6. Hörtext
+## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
@@ -330,8 +407,35 @@ Examples:
 
 ---
 
-## 7. Lernstrategie
+## 9. Magazin — Landeskunde
 
-**The "comparison chain" technique:** Pick three things you know in German (cities, foods, objects, people) and write one comparison sentence for each structure you've learned today: *A ist [Komp.] als B · A ist so [Adj.] wie B · A ist am [Superl.]* Write them on a card and say them out loud until they feel automatic. Tomorrow, swap the objects. This forces you to apply the endings in fresh contexts — the most reliable way to prevent the common *als/wie* swap.
+### Stiftung Warentest: Wenn ein Magazin über Kaufentscheidungen herrscht
 
-➡️ **Now do `exercises.md`. Check yourself with `solutions.md` only afterwards.**
+In Deutschland kauft man teure Dinge selten ohne Vergleich — und oft fragt man zuerst: *Was sagt die Stiftung Warentest?* Diese unabhängige Organisation testet seit 1964 Produkte aller Art, von Waschmaschinen bis Zahnpasta, und vergibt Noten wie in der Schule: von „sehr gut" bis „mangelhaft".
+
+> Ein „Testsieger"-Siegel auf der Verpackung ist hier das beste Verkaufsargument überhaupt.
+
+Viele Deutsche vertrauen diesen Tests mehr als jeder Werbung. Wer das günstigste oder das beste Produkt sucht, liest erst die Tabelle, dann die Preise. Vergleichen ist hier kein Zeichen von Geiz, sondern von Vernunft — man will wissen, ob die Qualität den Preis wirklich wert ist.
+
+---
+
+## 10. Lernstrategie
+
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jeden Komparativ und Superlativ
+- Wortschatz §4 (Adjektivketten) mit verdeckter Spalte testen — laut als Dreierkette aufsagen
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
+
+### Tag 2 (30 min) — Vertiefung
+- Grammatik §6.1: 6 Sätze schreiben — die Hälfte mit `als`, die Hälfte mit `so … wie`
+- §6.2: je 3 Sätze prädikativ (*am …sten*) und attributiv (*der …ste* + Nomen)
+- *Versuch es selbst* in §6.1 und §6.2 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Grammatik §6.3: die 5 unregelmäßigen Formen auswendig — als bilinguale Paare
+- Hörtext §8 hören, Transkript erst danach öffnen, alle Vergleiche heraushören
+- Lesetext §7 lesen, alle Komparative/Superlative markieren — dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
