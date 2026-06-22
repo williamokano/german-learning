@@ -1,3 +1,24 @@
+---
+level: A2
+number: 10
+slug: stadt-land-reisen
+title: Stadt, Land, Reisen
+titleEn: City, Countryside, Travel
+canDo:
+  - talk about travel destinations and trips
+  - book a hotel or transport
+  - give and follow directions
+  - use the Wo?/Wohin?/Woher? system confidently
+grammar:
+  - "Wo? (Dativ) vs. Wohin? (Akkusativ) vs. Woher? (aus/von)"
+  - "prepositions with countries and cities (nach / in + Akk / in + Dat / aus)"
+  - "nine Wechselpräpositionen, contractions, and directions"
+buildsOn:
+  - A2/02 (Wechselpräpositionen in flat/home context)
+  - A1/08 (dative prepositions mit, zu, von, bei, nach)
+  - A2/09 (Konjunktiv II for polite bookings)
+---
+
 # A2 · Lektion 10 — Stadt, Land, Reisen (City, Countryside, Travel)
 
 > **You will learn to:** talk about travel destinations and trips, book a hotel
@@ -53,7 +74,13 @@
 
 ---
 
-## 2. Redemittel (ready-made phrases)
+## 2. Einstieg — Was lernst du heute?
+
+Sobald du reist, brauchst du drei kleine Fragen ständig: **Wo** bist du? **Wohin** fährst du? **Woher** kommst du? Genau um diese drei dreht sich diese Lektion. Du lernst, Reiseziele zu besprechen, ein Hotel zu buchen, nach dem Weg zu fragen und ihn zu beschreiben. Das grammatische Herzstück: ob du den **Dativ** (du bist schon da: *Ich bin **in** Berlin*) oder den **Akkusativ** (du bewegst dich dorthin: *Ich fahre **nach** Berlin*) brauchst. Dazu kommen die kniffligen Länder mit Artikel (*in **die** Schweiz*, *in **die** USA*). Am Ende kannst du dich in jeder deutschen Stadt zurechtfinden.
+
+---
+
+## 3. Redemittel (ready-made phrases)
 
 ### Reiseziele besprechen (talking about destinations)
 
@@ -110,9 +137,11 @@
 
 ---
 
-## 3. Wortschatz (vocabulary)
+## 4. Wortschatz (vocabulary)
 
 ### Reise und Transport (travel and transport)
+
+> 💡 **Lerntipp:** Lern die Transportmittel mit der Präposition, die du immer brauchst: **mit dem** Zug / Bus / Auto, **mit der** Straßenbahn / U-Bahn (alles Dativ nach *mit*). Sortiere die Orte nach Funktion: zuerst abfahren (*Bahnhof, Flughafen, Haltestelle*), dann ankommen.
 
 | Noun (article + plural) | English |
 |---|---|
@@ -140,6 +169,8 @@
 
 ### Stadtleben und Orientierung (city life and orientation)
 
+> 💡 **Lerntipp:** Viele dieser Wörter brauchen einen Umlaut im Plural: *die Stadt → die St**ä**dte*, *das Land → die L**ä**nder*, *das Schloss → die Schl**ö**sser*, *der Hafen → die H**ä**fen*. Lern Singular und Plural immer zusammen — der Umlaut ist die häufigste Falle.
+
 | Noun (article + plural) | English |
 |---|---|
 | die Stadt, –e (Städte) | city, town |
@@ -162,6 +193,8 @@
 
 ### Verben (verbs)
 
+> 💡 **Lerntipp:** Die meisten Reiseverben sind **trennbar** (*an·kommen, ab·fahren, um·steigen, ab·biegen*) und bilden das Perfekt mit **sein**, weil sie Bewegung ausdrücken: *Ich **bin** umgestiegen*. Merk dir das Bewegungs-Trio an↔ab: *ankommen ↔ abfahren*.
+
 | Verb | Meaning | Perfekt |
 |---|---|---|
 | reisen | to travel | ist gereist |
@@ -181,206 +214,208 @@
 
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Anna fährt in die Schweiz
 
-### 4.1 The Wo? / Wohin? / Woher? System — complete overview
+Lies den Text einmal für den Inhalt. Beim zweiten Lesen markiere jede Ortsangabe und frag dich: **Wo?** (Dativ), **Wohin?** (Akkusativ) oder **Woher?** (aus/von)?
 
-You learned the nine Wechselpräpositionen in A2/L2 in the context of furniture and rooms. Now we apply the same system to travel: cities, countries, landmarks, and directions.
+Anna möchte die Berge sehen. „Ich fahre dieses Jahr in die Schweiz", erzählt sie Bruno. „Ich war noch nie in den Alpen." Bruno ist neugierig: „In die Schweiz? Wohin genau?" — „Nach Zürich, und dann weiter in die Berge."
 
-| Question | Meaning | Case | Typical prepositions |
+Anna bucht ein kleines Hotel in einem Dorf bei Zürich. Das Hotel liegt am See, zwischen einem Wald und einem alten Bahnhof. „Vom Balkon aus kann man direkt auf die Berge schauen", liest sie in der Beschreibung. Das wäre perfekt.
+
+Die Reise beginnt früh. Anna fährt mit dem Zug von Berlin nach Zürich und muss einmal in Basel umsteigen. In Zürich kommt sie am Hauptbahnhof an. Vom Bahnhof aus nimmt sie den Bus bis zum Dorf. Als sie ankommt, ist sie müde, aber glücklich.
+
+Am nächsten Tag wandert sie in die Berge. Sie geht an einem Fluss vorbei, über eine kleine Brücke und schließlich hinauf auf einen Aussichtspunkt. Von dort oben sieht man weit ins Tal. „So schön habe ich mir das nicht vorgestellt", denkt Anna. Am Abend schreibt sie Bruno: „Grüße aus der Schweiz! Hier in den Bergen ist es traumhaft. Du musst unbedingt auch mal herkommen!"
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Wohin fährt Anna?**
+> *Sie fährt in die Schweiz, nach Zürich und dann in die Berge.*
+>
+> **2. Wo liegt das Hotel?**
+> *Es liegt am See, zwischen einem Wald und einem alten Bahnhof.*
+>
+> **3. Woher schreibt Anna am Abend?**
+> *Sie schreibt aus der Schweiz / aus den Bergen.*
+
+</details>
+
+---
+
+## 6. Grammatik
+
+### 6.1 The Wo? / Wohin? / Woher? system
+
+**Warum?** German makes a distinction English mostly ignores: *being somewhere* vs. *going somewhere*. In English "in the park" works for both "I am in the park" and "I'm walking in(to) the park." German splits these by **case**. Ask **Wo?** (where? — a location, you're already there) → **Dativ**: *Ich bin **im** Park.* Ask **Wohin?** (where to? — movement, you're heading there) → **Akkusativ**: *Ich gehe **in den** Park.* And **Woher?** (where from? — origin) always uses *aus* or *von* + **Dativ**. The cognitive hook: **Dativ = done/static, Akkusativ = action/arrow**. Once this clicks, half of German prepositions fall into place.
+
+| Frage | Bedeutung | Fall | Präpositionen |
 |---|---|---|---|
-| **Wo?** | Where? (location, state) | **Dativ** | in, an, auf, bei, neben, über, unter, vor, hinter, zwischen |
-| **Wohin?** | Where to? (direction, movement) | **Akkusativ** | in, an, auf, über, unter, vor, hinter, neben, zwischen |
-| **Woher?** | Where from? (origin) | **Dativ** | aus, von |
+| **Wo?** | location | **Dativ** | in, an, auf, bei, neben, über, unter, vor, hinter, zwischen |
+| **Wohin?** | direction | **Akkusativ** | in, an, auf, über, … (same set, + movement) |
+| **Woher?** | origin | **Dativ** | aus, von |
 
-> **Memory key:** Wo? = already there → **D**ativ (done) · Wohin? = going there → **Akk**usativ (action)
+**Examples:**
 
-#### Dativ endings (Wo? and Woher?)
+1. **Wo** bist du? — Ich bin **im** Park. *(Dativ)*
+2. **Wohin** gehst du? — Ich gehe **in den** Park. *(Akkusativ)*
+3. Das Hotel liegt **am** Hafen. *(Wo? → Dativ)*
+4. Wir gehen **auf den** Fischmarkt. *(Wohin? → Akkusativ)*
+5. Ich übernachte **in einem** Hotel. *(Wo? → Dativ)*
+6. Wir fahren **in die** Altstadt. *(Wohin? → Akkusativ)*
+7. **Woher** kommst du? — Ich komme **aus** Berlin. *(origin)*
+8. Ich komme gerade **vom** Bahnhof. *(von + Dativ)*
+9. Das Café ist **neben der** Post. *(Wo? → Dativ)*
+10. Stell den Koffer **neben die** Tür. *(Wohin? → Akkusativ)*
 
-| | maskulin | feminin | neutrum | Plural |
-|---|---|---|---|---|
-| def. article | dem | der | dem | den |
-| indef. article | einem | einer | einem | — |
-| Example | im Park (= in dem) | an der Küste | im Tal (= in dem) | in den Bergen |
-
-#### Akkusativ endings (Wohin?)
-
-| | maskulin | feminin | neutrum | Plural |
-|---|---|---|---|---|
-| def. article | den | die | das | die |
-| indef. article | einen | eine | ein | — |
-| Example | in den Park | an die Küste | ins Tal (= in das) | in die Berge |
-
-> 📌 **Merkasten — Wo? / Wohin? / Woher? System**
+> ⚠️ **Häufige Fehler**
 >
-> | Question | Answer preposition(s) | Case | Meaning |
-> |---|---|---|---|
-> | **Wo?** | in, an, auf + Dativ | Dativ | location / state |
-> | **Wohin?** | in, an, auf + Akkusativ | Akkusativ | direction / movement |
-> | **Woher?** | aus, von + Dativ | Dativ | origin |
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich gehe **in dem** Park.* (movement) | *Ich gehe **in den** Park.* (Wohin? → Akk) |
+> | *Ich bin **in den** Park.* (location) | *Ich bin **in dem / im** Park.* (Wo? → Dat) |
+> | *Ich komme **von** Berlin.* (origin) | *Ich komme **aus** Berlin.* (origin → aus) |
+> | *Wir fahren **in der** Schweiz.* (going) | *Wir fahren **in die** Schweiz.* (Wohin? → Akk) |
+
+> 💡 **Lerntipp:** Picture an arrow. **Wohin?** has movement → draw an arrow → **A**kkusativ (**A** for "arrow," "action"). **Wo?** is a dot, no movement → **D**ativ ("done," standing still). Before every preposition, ask yourself: arrow or dot? Arrow → Akk, dot → Dat.
+
+**Versuch es selbst.** Dativ or Akkusativ? (1) Ich fahre in ___ Stadt (die Stadt, movement). (2) Ich wohne in ___ Stadt (location).
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *(1)* Ich fahre in **die** Stadt. *(Wohin? → Akkusativ)*
+> *(2)* Ich wohne in **der** Stadt. *(Wo? → Dativ)*
+
+</details>
+
+> 📌 **Merkasten — Wo? / Wohin? / Woher?**
+> | Frage | Fall | Beispiel |
+> |---|---|---|
+> | Wo? | Dativ | im Park, an der Küste |
+> | Wohin? | Akkusativ | in den Park, an die Küste |
+> | Woher? | aus/von + Dativ | aus Berlin, vom Bahnhof |
 >
-> Rule of thumb: **Wo? = Dativ** (already there, done) · **Wohin? = Akkusativ** (action, going there) · **Woher?** always Dativ with `aus` (permanent origin) or `von` (coming from event/person/direction).
+> ▶ Wo? = Dot = Dativ · Wohin? = Arrow = Akkusativ.
 
 ---
 
-### 4.2 Prepositions with countries and cities — the complete system
+### 6.2 Prepositions with countries and cities
 
-This is where many learners make errors. The key distinction: **most country names take no article** in German, but a few always carry one.
+**Warum?** This is where travel German gets tricky, but the system is learnable. For **cities** and **most countries** (which have no article), you use the simple trio **`nach`** (going to) / **`in`** (being in) / **`aus`** (coming from): *nach Berlin, in Berlin, aus Berlin*. The complication is a small group of countries that **carry an article** — feminine *die Schweiz, die Türkei*; plural *die USA, die Niederlande*; masculine *der Irak, der Iran*. These do **not** take *nach*; they use *in + Akkusativ* to go, *in + Dativ* to be there, *aus + Dativ* to come from: *in **die** Schweiz / in **der** Schweiz / aus **der** Schweiz*. There's no rule for which countries take an article — you just memorise the handful (most are feminine, plural, or masculine; everything neuter is article-free).
 
-#### Wohin? — going TO a place
-
-| Destination type | Preposition | Example |
-|---|---|---|
-| City (any) | **nach** | Ich fahre **nach** Berlin. |
-| Most countries (no article) | **nach** | Ich fahre **nach** Brasilien / **nach** Japan. |
-| Countries/regions with feminine article | **in + Akk** | Ich fahre **in die** Schweiz / **in die** Türkei. |
-| Countries/regions with plural article | **in + Akk** | Ich fahre **in die** USA / **in die** Niederlande. |
-| Countries/regions with masculine article | **in + Akk** | Ich fahre **in den** Irak / **in den** Sudan. |
-| Landscape / general direction | **an + Akk / in + Akk / auf + Akk** | Ich fahre **ans** Meer / **in die** Berge / **auf das** Land. |
-
-⚠️ **The special cases — memorize these:**
-
-| Country/region | Article | Wohin? |
-|---|---|---|
-| die Schweiz | fem. | **in die** Schweiz |
-| die Türkei | fem. | **in die** Türkei |
-| die Ukraine | fem. | **in die** Ukraine |
-| die USA | pl. | **in die** USA |
-| die Niederlande | pl. | **in die** Niederlande |
-| der Irak | masc. | **in den** Irak |
-| der Iran | masc. | **in den** Iran |
-
-#### Wo? — being IN / AT a place
-
-| Destination type | Preposition | Example |
-|---|---|---|
-| City (any) | **in + Dat** | Ich bin **in** Berlin. |
-| Most countries (no article) | **in + Dat** | Ich bin **in** Brasilien. |
-| Countries with feminine article | **in der** | Ich bin **in der** Schweiz / **in der** Türkei. |
-| Countries with plural article | **in den** | Ich bin **in den** USA / **in den** Niederlanden. |
-| Countries with masculine article | **im** | Ich bin **im** Irak. |
-| Landscape | **an + Dat / in + Dat / auf + Dat** | Ich bin **am** Meer / **in den** Bergen / **auf dem** Land. |
-
-#### Woher? — coming FROM a place
-
-| Origin type | Preposition | Example |
-|---|---|---|
-| City (any) | **aus** | Ich komme **aus** Berlin. |
-| Most countries (no article) | **aus** | Ich komme **aus** Brasilien. |
-| Countries with feminine article | **aus der** | Ich komme **aus der** Schweiz. |
-| Countries with plural article | **aus den** | Ich komme **aus den** USA. |
-| Countries with masculine article | **aus dem** | Ich komme **aus dem** Irak. |
-| Away from a person / place (non-origin) | **von** | Ich komme **vom** Bahnhof / **von** meiner Freundin. |
-
-> **aus vs. von:** Use **aus** for permanent origin or where you were located.
-> Use **von** when coming from an event, a person, or a direction:  
-> *Ich komme aus dem Supermarkt.* (I'm coming from [= was at] the supermarket.)  
-> *Ich komme vom Arzt.* (I'm coming from the doctor's.)  
-> *Von hier aus sieht man den Dom.* (From here you can see the cathedral.)
-
-> 📌 **Merkasten — Prepositions with countries and cities**
->
-> | Destination type | Wohin? (going to) | Wo? (being at) | Woher? (coming from) |
-> |---|---|---|---|
-> | City (any) | **nach** Berlin | **in** Berlin | **aus** Berlin |
-> | Neuter country (no article) | **nach** Japan | **in** Japan | **aus** Japan |
-> | Feminine country (*die*) | **in die** Schweiz | **in der** Schweiz | **aus der** Schweiz |
-> | Plural country (*die* pl.) | **in die** USA | **in den** USA | **aus den** USA |
-> | Masculine country (*der*) | **in den** Irak | **im** Irak | **aus dem** Irak |
->
-> Memory hook: cities and most countries → **nach / in / aus** (no article). Special countries with an article → **in + Akk** to go there, **in + Dat** to be there, **aus + Dat** to come from there.
-
----
-
-### 4.3 The nine Wechselpräpositionen — quick-reference table
-
-| Preposition | Wo? (Dativ) | Wohin? (Akkusativ) | English |
+| Type | Wohin? (to) | Wo? (in) | Woher? (from) |
 |---|---|---|---|
-| **in** | im Bahnhof / in der Stadt | in den Bahnhof / in die Stadt | in, into |
-| **an** | am Hafen / an der Küste | an den Hafen / an die Küste | at, on (edge/side) |
-| **auf** | auf dem Marktplatz / auf der Brücke | auf den Marktplatz / auf die Brücke | on (surface) |
-| **über** | über dem Tal / über der Stadt | über das Tal / über die Stadt | over, above |
-| **unter** | unter der Brücke / unter dem Turm | unter die Brücke / unter den Turm | under, beneath |
-| **vor** | vor dem Hotel / vor der Kirche | vor das Hotel / vor die Kirche | in front of |
-| **hinter** | hinter dem Bahnhof / hinter der Post | hinter den Bahnhof / hinter die Post | behind |
-| **neben** | neben dem Museum / neben der Bank | neben das Museum / neben die Bank | next to, beside |
-| **zwischen** | zwischen dem Park und dem See | zwischen den Park und den See | between |
+| City | **nach** Berlin | **in** Berlin | **aus** Berlin |
+| Country (no article) | **nach** Japan | **in** Japan | **aus** Japan |
+| Feminine (*die*) | **in die** Schweiz | **in der** Schweiz | **aus der** Schweiz |
+| Plural (*die* pl.) | **in die** USA | **in den** USA | **aus den** USA |
+| Masculine (*der*) | **in den** Irak | **im** Irak | **aus dem** Irak |
 
-**Key contractions:**
+**Examples:**
 
-| Long form | Short form |
-|---|---|
-| in + dem | **im** |
-| in + das | **ins** |
-| an + dem | **am** |
-| an + das | **ans** |
-| auf + dem | (auf dem — no standard contraction) |
-| von + dem | **vom** |
-| zu + dem | **zum** |
-| zu + der | **zur** |
+1. Ich fahre **nach** Hamburg. — *city → nach*
+2. Wir fliegen **nach** Brasilien. — *article-free country → nach*
+3. Anna fährt **in die** Schweiz. — *feminine → in + Akk*
+4. Sie wohnt jetzt **in der** Türkei. — *feminine → in + Dat*
+5. Er kommt **aus den** USA. — *plural → aus + Dat*
+6. Wir fahren **ans** Meer. — *landscape → an + Akk*
+7. Sie sind **in den** Bergen. — *mountains → in + Dat (plural)*
+8. Wir machen Urlaub **auf dem** Land. — *countryside → auf + Dat*
 
-> 📌 **Merkasten — Die neun Wechselpräpositionen**
+> ⚠️ **Häufige Fehler**
 >
-> | Preposition | Wo? → Dativ (location) | Wohin? → Akkusativ (direction) |
-> |---|---|---|
-> | **in** | im Bahnhof / in der Stadt | in den Bahnhof / in die Stadt |
-> | **an** | am Hafen / an der Küste | an den Hafen / an die Küste |
-> | **auf** | auf dem Marktplatz | auf den Marktplatz |
-> | **über** | über der Stadt | über die Stadt |
-> | **unter** | unter der Brücke | unter die Brücke |
-> | **vor** | vor dem Hotel | vor das Hotel |
-> | **hinter** | hinter dem Bahnhof | hinter den Bahnhof |
-> | **neben** | neben dem Museum | neben das Museum |
-> | **zwischen** | zwischen dem Park und dem See | zwischen den Park und den See |
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich fahre **nach** die Schweiz.* | *Ich fahre **in die** Schweiz.* (article country → in + Akk) |
+> | *Ich fahre **in** Berlin.* (going) | *Ich fahre **nach** Berlin.* (city → nach) |
+> | *Ich komme **von** Japan.* | *Ich komme **aus** Japan.* (origin country → aus) |
+> | *Ich bin **in die** Türkei.* (location) | *Ich bin **in der** Türkei.* (Wo? → Dativ) |
+
+> 💡 **Lerntipp:** Default to the easy trio **nach / in / aus** for cities and normal countries. Then keep a tiny "article-country" flashcard: *die Schweiz, die Türkei, die USA, die Niederlande, der Irak, der Iran*. For those, *nach* is forbidden — switch to *in + case*. If a country has an article, treat it like a normal noun (Wo? → Dativ, Wohin? → Akkusativ).
+
+**Versuch es selbst.** Fill the gap: (1) Ich fliege ___ Japan. (2) Wir fahren ___ Schweiz (going). (3) Sie kommt ___ Türkei (from).
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *(1)* Ich fliege **nach** Japan.
+> *(2)* Wir fahren **in die** Schweiz.
+> *(3)* Sie kommt **aus der** Türkei.
+
+</details>
+
+> 📌 **Merkasten — Länder & Städte**
+> | Stadt / normales Land | nach · in · aus (kein Artikel) |
+> |---|---|
+> | die Schweiz / die USA / der Irak | in die / in der / aus der … (mit Artikel) |
 >
-> Key mnemonic: **wo? = Dativ** (location, already there) · **wohin? = Akkusativ** (direction, movement towards). Common contractions: *in + dem → im · in + das → ins · an + dem → am · an + das → ans*.
+> ▶ Artikel-Länder: **kein** *nach* — immer *in* + Fall, *aus* + Dativ.
 
 ---
 
-### 4.4 Giving directions — preposition patterns
+### 6.3 The nine Wechselpräpositionen and giving directions
 
-Directions in German rely heavily on the prepositions you know. Key patterns:
+**Warum?** Nine prepositions can take *either* Dativ or Akkusativ depending on the Wo?/Wohin? question: **in, an, auf, über, unter, vor, hinter, neben, zwischen**. You met them with furniture in A2/L2; now you use them for a whole city. Two practical helpers make them faster: **contractions** (*in dem → im*, *in das → ins*, *an dem → am*, *an das → ans*, *zu dem → zum*, *zu der → zur*) — Germans almost always contract these — and a set of **fixed direction phrases** for finding your way: *geradeaus, links/rechts abbiegen, bis zur Ampel, gegenüber von, in der Nähe von, an … vorbei*.
 
-| Expression | Case | Example |
+| Präp. | Wo? (Dativ) | Wohin? (Akkusativ) |
 |---|---|---|
-| geradeaus gehen | — | Gehen Sie geradeaus! |
-| links / rechts abbiegen | — | Biegen Sie links ab! |
-| die erste Straße rechts nehmen | Akk | Nehmen Sie die erste Straße rechts. |
-| bis zur Ampel gehen | Dat (Ziel) | Gehen Sie bis zur Ampel. |
-| gegenüber von + Dat | Dat | Das Hotel liegt gegenüber vom Bahnhof. |
-| in der Nähe von + Dat | Dat | Es ist in der Nähe vom Marktplatz. |
-| auf der linken / rechten Seite | Dat | Das Café ist auf der linken Seite. |
-| an der Ecke von … und … | Dat | Die Bank ist an der Ecke von der Hauptstraße und der Bahnhofstraße. |
+| **in** | im Bahnhof / in der Stadt | in den Bahnhof / in die Stadt |
+| **an** | am Hafen / an der Küste | an den Hafen / an die Küste |
+| **auf** | auf dem Marktplatz | auf den Marktplatz |
+| **vor** | vor dem Hotel | vor das Hotel |
+| **hinter** | hinter dem Bahnhof | hinter den Bahnhof |
+| **neben** | neben dem Museum | neben das Museum |
+| **zwischen** | zwischen dem Park und dem See | zwischen den Park und den See |
 
-> 📌 **Merkasten — Directions (Wegbeschreibung)**
+Direction phrases: *Gehen Sie geradeaus.* · *Biegen Sie links ab.* · *Gehen Sie bis **zur** Ampel.* · *Das Hotel liegt **gegenüber vom** Bahnhof.* · *Es ist **in der Nähe vom** Markt.* · *Gehen Sie **an der** Post **vorbei**.*
+
+> ⚠️ **Häufige Fehler**
 >
-> | Expression | Notes | Example |
-> |---|---|---|
-> | **geradeaus / links / rechts** | no case needed | Gehen Sie geradeaus! Biegen Sie links ab! |
-> | **an … vorbei** | Dativ after *an* | Gehen Sie an der Post vorbei. |
-> | **bis zur / bis zum** | Dativ (*zur* = zu der, *zum* = zu dem) | Gehen Sie bis zur Ampel. |
-> | **gegenüber von + Dat** | always Dativ | Das Hotel liegt gegenüber vom Bahnhof. |
-> | **in der Nähe von + Dat** | always Dativ | Es ist in der Nähe vom Marktplatz. |
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Gehen Sie bis **zur dem** Ampel.* | *Gehen Sie bis **zur** Ampel.* (zu der → zur) |
+> | *Das Hotel liegt gegenüber **von dem** Bahnhof.* | *…gegenüber **vom** Bahnhof.* (von dem → vom) |
+> | *Ich gehe **in das** Stadt.* | *Ich gehe **in die** Stadt.* (Stadt is feminine!) |
+> | *Biegen Sie **links** die Straße ab.* | *Biegen Sie **links** ab.* / *Nehmen Sie die Straße links.* |
+
+> 💡 **Lerntipp:** Memorise the four everyday contractions as a little chant: **„im, ins, am, ans"** — Dativ/Akkusativ pairs for *in* and *an*. And for directions, learn each phrase as a fixed block with its case baked in: *bis **zur** Ampel*, *gegenüber **vom** Bahnhof* — you never have to recalculate the case mid-sentence.
+
+**Versuch es selbst.** Beschreibe den Weg: Du bist am Bahnhof, das Hotel liegt gegenüber. Sag in 2 Sätzen, wie man hinkommt.
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Gehen Sie vom Bahnhof aus geradeaus. Das Hotel liegt direkt gegenüber, neben der Post.*
+
+</details>
+
+> 📌 **Merkasten — Wechselpräpositionen & Wegbeschreibung**
+> | Wo? = Dativ | Wohin? = Akkusativ |
+> |---|---|
+> | im / am / auf dem … | ins / ans / auf den … |
 >
-> Key pattern: direction words (*links, rechts, geradeaus*) need no case; preposition phrases (*bis zur, gegenüber von, an … vorbei*) use Dativ.
+> ▶ Kontraktionen: **im, ins, am, ans, zum, zur, vom**. ▶ Richtungswörter (*links, rechts, geradeaus*) brauchen keinen Fall.
 
 ---
 
-### 4.5 Pronunciation: travel and geography vocabulary
+### 6.4 Pronunciation: travel and geography vocabulary
 
-A few sounds that appear often in this lesson's vocabulary:
+**Warum?** Travel words are packed with German diphthongs and umlauts that change meaning. *Reise* and *Ziel* have the *ei* = "eye" sound; *Ausflug* and *Bahnhof* have *au* = "owl"; and the plurals *Züge, Flüge, Häfen* carry umlauts that distinguish singular from plural by ear.
 
-- **ei** in *Reise, Ziel, abbiegen* — always /aɪ/ like English "eye": `REI-ze`, `TSEEL`.
-- **au** in *Ausflug, Bahnhof, Haupt-* — always /aʊ/ like English "owl": `OWS-flook`.
-- **ü** in *Züge, Rücksack, Flüge* — "ee" with rounded lips: `TSUE-guh`.
-- **ö** in *Höfe, schön, Lösung* — "ay" with rounded lips.
-- **ß / ss** — both are a sharp /s/: *Straße* = `SHTRAA-suh`.
-- **ch** in *ich, mich, dich* — soft "ich-sound"; in *nach, Fach* — guttural "ach-sound".
-- Stress on compound words: **BAHN**hof, **FLUG**hafen, **HALT**estelle — first element is stressed.
+- **ei** in *Reise, Ziel, abbiegen* — like English "eye": *REI-ze*, *TSEEL*.
+- **au** in *Ausflug, Bahnhof, Haupt-* — like English "owl": *OWS-flook*.
+- **ü** in *Züge, Flüge, Rücksack* — "ee" with rounded lips.
+- **ß / ss** — a sharp /s/: *Straße* = *SHTRAA-suh*.
+- **ch**: soft in *ich/mich*, guttural in *nach/Fach*.
+- Compound stress on the first part: **BAHN**hof, **FLUG**hafen, **HALT**estelle.
+
+> 💡 **Lerntipp:** Use the plural umlaut as a meaning signal: *der Zug* (one) → *die Z**ü**ge* (several). If you hear or say the umlaut, you're signalling "more than one." Practise the pairs aloud: *Zug/Züge, Flug/Flüge, Hafen/Häfen* — the umlaut does the counting.
 
 ---
 
-## 5. Lesetext: Brunos Reisebericht
+## 7. Lesetext: Brunos Reisebericht
+
+*(You'll work with this text in the exercises — Block C, Lesen.)*
 
 Bruno ist letztes Wochenende mit Anna nach Hamburg gefahren. Die Fahrt mit dem Zug von Berlin nach Hamburg hat genau eine Stunde und fünfzig Minuten gedauert. Sie sind am Hauptbahnhof angekommen und haben ihr Gepäck direkt ins Hotel gebracht. Das Hotel lag am Hafen, zwischen dem Fischmarkt und einem kleinen Park.
 
@@ -390,11 +425,9 @@ Am zweiten Tag haben sie die Elbphilharmonie besichtigt. Das Konzerthaus liegt a
 
 Am Abend haben sie in einem Restaurant in der Nähe des Bahnhofs gegessen. Das Essen war lecker und nicht zu teuer. Schließlich sind sie am Sonntag mit dem Zug zurück nach Berlin gefahren. Bruno würde Hamburg sofort wieder besuchen — er empfiehlt die Stadt wärmstens.
 
-*(You'll work with this text in the exercises — Block C, Lesen.)*
-
 ---
 
-## 6. Hörtext
+## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
@@ -409,8 +442,35 @@ Am Abend haben sie in einem Restaurant in der Nähe des Bahnhofs gegessen. Das E
 
 ---
 
-## 7. Lernstrategie
+## 9. Magazin — Landeskunde
 
-**The "mental map" technique:** Draw a rough map of a city (real or imaginary) on paper. Label 8–10 places (Bahnhof, Park, Hotel, Museum, Supermarkt…). Then write 10 sentences using Wo?, Wohin?, and Woher? — e.g. *Das Hotel liegt zwischen dem Park und dem Museum. Ich fahre in den Park. Ich komme vom Bahnhof.* This forces you to produce all three question types in one sitting. Swap the map with a language partner and ask each other for directions.
+### Bahn, Fahrrad, zu Fuß: Wie Deutsche unterwegs sind
 
-➡️ **Now do `exercises.md`. Check yourself with `solutions.md` only afterwards.**
+In Deutschland muss man nicht überall ein Auto haben. Die Städte sind dicht mit **öffentlichen Verkehrsmitteln** vernetzt — U-Bahn, Straßenbahn, Bus und das berühmte (manchmal verspätete) Netz der Deutschen Bahn. Mit einem einzigen Ticket fährt man oft durch eine ganze Region. Und das Fahrrad ist nicht nur Sport, sondern Alltag: In Städten wie Münster oder Freiburg radeln Menschen bei jedem Wetter zur Arbeit.
+
+> „Das Auto stehen lassen" ist hier oft die schnellere und entspanntere Wahl.
+
+Für Reisende heißt das: Du kommst fast überall ohne eigenes Auto hin. Eine Bahnfahrt von Berlin nach Hamburg dauert keine zwei Stunden — und du kannst dabei aus dem Fenster schauen, statt im Stau zu stehen.
+
+---
+
+## 10. Lernstrategie
+
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jede Ortsangabe als Wo?/Wohin?/Woher?
+- Wortschatz §4 (Transport + Orientierung) mit verdeckter Spalte testen — Plurale mitlernen
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
+
+### Tag 2 (30 min) — Vertiefung
+- Grammatik §6.1 (Wo/Wohin/Woher) und §6.2 (Länder): je 6 Sätze schreiben
+- „Mental Map": eine Stadtkarte zeichnen, 8 Orte beschriften, 10 Sätze mit allen drei Fragen schreiben
+- *Versuch es selbst* in §6.1, §6.2 und §6.3 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Grammatik §6.3 (Wechselpräpositionen + Wegbeschreibung): eine Wegbeschreibung zum Bahnhof aufschreiben
+- Hörtext §8 hören, Transkript erst danach öffnen, alle Ortsangaben heraushören
+- Lesetext §7 lesen, jede Präposition als Wo?/Wohin? markieren — dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
