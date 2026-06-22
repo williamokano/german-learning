@@ -1,3 +1,24 @@
+---
+level: A2
+number: 5
+slug: gesund-leben
+title: Gesund leben
+titleEn: Healthy Living
+canDo:
+  - talk about your health and daily wellness routines
+  - describe fitness and nutrition habits
+  - express feelings and manage stress
+  - ask for advice at the pharmacy
+grammar:
+  - "reflexive verbs with sich in Akkusativ (sich fühlen, sich ausruhen)"
+  - "reflexive verbs with sich in Dativ (sich etwas wünschen, sich die Zähne putzen)"
+  - "position of sich in the sentence"
+buildsOn:
+  - A1/09 (Akkusativ/Dativ personal pronouns, dative verbs)
+  - A2/03 (weil/dass clauses)
+  - A2/04 (wenn-clauses)
+---
+
 # A2 · Lektion 5 — Gesund leben (Healthy Living)
 
 > **You will learn to:** talk about your health and daily wellness routines,
@@ -62,7 +83,13 @@
 
 ---
 
-## 2. Redemittel (ready-made phrases)
+## 2. Einstieg — Was lernst du heute?
+
+*Wie geht es dir?* — diese Frage hörst du jeden Tag, aber um sie richtig zu beantworten, brauchst du eine besondere Verbgruppe: die **reflexiven Verben**. Auf Deutsch sagst du nicht „ich fühle gut", sondern *ich fühle **mich** gut* — die Handlung kommt zu dir zurück. In dieser Lektion lernst du, über Gesundheit, Sport, Ernährung und Stress zu sprechen, und du lernst das kleine Wort `sich` in all seinen Formen kennen — von *ich ruhe **mich** aus* bis *ich putze **mir** die Zähne*. Am Ende kannst du in der Apotheke um Rat fragen und deinen ganzen Tagesablauf auf Deutsch beschreiben.
+
+---
+
+## 3. Redemittel (ready-made phrases)
 
 ### Über die Gesundheit sprechen (talking about health)
 
@@ -103,9 +130,11 @@
 
 ---
 
-## 3. Wortschatz (vocabulary)
+## 4. Wortschatz (vocabulary)
 
 ### Gesundheit und Körperpflege (health and personal care)
+
+> 💡 **Lerntipp:** Viele dieser Wörter gibt es nur im Singular (*die Gesundheit, der Stress, der Schlaf*) — du brauchst nie einen Plural zu lernen. Die Schmerzwörter dagegen kommen fast immer im Plural: *Kopf**schmerzen**, Rücken**schmerzen***. Merk dir die Schmerzen gleich als Paar mit dem Körperteil.
 
 | Noun (with article + plural) | English |
 |---|---|
@@ -127,6 +156,8 @@
 
 ### Fitness und Ernährung (fitness and nutrition)
 
+> 💡 **Lerntipp:** Lern die Lebensmittel in Gegensatzpaaren, denn so sprichst du über gesunde und ungesunde Ernährung: *viel Obst und Gemüse* ↔ *wenig Zucker und Fett*. Die meisten dieser Wörter sind unzählbar (no plural) — du sagst *viel Wasser*, nicht *viele Wasser*.
+
 | Noun (with article + plural) | English |
 |---|---|
 | die Ernährung (no pl.) | nutrition, diet |
@@ -144,6 +175,8 @@
 | die Energie (no pl.) | energy |
 
 ### Reflexive Verben (reflexive verbs — Akkusativ)
+
+> 💡 **Lerntipp:** Lern reflexive Verben **immer mit `sich`** zusammen — also nicht *fühlen*, sondern *sich fühlen*; nicht *ärgern*, sondern *sich ärgern*. Das `sich` gehört zum Verb wie ein Schatten. Und merk dir die feste Präposition gleich mit: *sich freuen **auf**, sich ärgern **über**, sich bemühen **um***.
 
 | Verb + sich (Akk) | English |
 |---|---|
@@ -164,6 +197,8 @@
 
 ### Reflexive Verben (reflexive verbs — Dativ)
 
+> 💡 **Lerntipp:** Die Dativ-Reflexivverben haben fast immer ein zweites Objekt: *sich [Dat] **etwas** [Akk] wünschen*. Merk dir das Muster „mir + Ding": *Ich wünsche **mir** Zeit*, *Ich putze **mir** die Zähne*, *Ich kaufe **mir** ein Fahrrad*. Wo ein Ding ist, steht `mir`, nicht `mich`.
+
 | Verb + sich (Dat) | English | Example |
 |---|---|---|
 | sich etwas wünschen | to wish for something | Ich wünsche mir mehr Schlaf. |
@@ -177,189 +212,220 @@
 
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Die gesunde Woche
 
-### 4.1 What are reflexive verbs?
+Lies den Text zuerst einmal für den Inhalt. Beim zweiten Lesen unterstreiche jedes reflexive Verb und frag dich: Steht hier `mich`/`dich`/`sich` (Akkusativ) oder `mir`/`dir`/`sich` (Dativ)?
 
-A **reflexive verb** is one where the subject and the object refer to the same person — the action "reflects back" on the doer. German marks this with the reflexive pronoun **`sich`** (or its other forms).
+Anna, Bruno und Yuki haben eine Idee: eine „gesunde Woche". Sieben Tage lang wollen sie sich gegenseitig motivieren — kein Stress, viel Bewegung, gutes Essen. „Wenn wir das zusammen machen, schaffen wir es bestimmt", sagt Anna.
 
-> **Ich wasche mich.** — I wash myself. (the subject *ich* washes the object *mich* = same person)
-> **Ich wasche das Auto.** — I wash the car. (different object → NOT reflexive)
+Am Montag stehen alle früh auf. Bruno zieht sich Sportschuhe an und geht joggen. Er ärgert sich am Anfang ein bisschen, weil es regnet, aber danach fühlt er sich richtig gut. Anna ruht sich am Nachmittag mit einem Buch aus, und Yuki kauft sich auf dem Markt frisches Obst und Gemüse.
 
-English often uses "myself / yourself / himself…". German uses one word: **`sich`** for all third-person forms, and specific forms for others.
+In der Mitte der Woche wird es schwieriger. Yuki hat viel zu tun und kann sich kaum entspannen. „Ich wünsche mir einfach mehr Zeit", schreibt sie der Gruppe. Anna antwortet sofort: „Stell dir vor, wie gut du dich am Sonntag fühlst! Beeil dich nicht — mach langsam." Diese Worte helfen.
+
+Am Sonntag treffen sich die drei im Park. Sie bewegen sich, sie lachen, sie freuen sich über die kleine Erfolge. „Ich putze mir jetzt jeden Morgen die Zähne und mache zehn Minuten Sport", sagt Bruno stolz. Yuki nickt: „Und ich merke mir das für die nächste Woche." Gesund leben, das verstehen sie jetzt, ist keine Strafe — es macht zusammen sogar Spaß.
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Was ist die Idee der drei Freunde?**
+> *Sie machen eine „gesunde Woche" und motivieren sich gegenseitig.*
+>
+> **2. Warum ärgert sich Bruno am Montag zuerst?**
+> *Weil es regnet, als er joggen geht.*
+>
+> **3. Was wünscht sich Yuki in der Mitte der Woche?**
+> *Sie wünscht sich mehr Zeit.*
+
+</details>
 
 ---
 
-### 4.2 Reflexive pronouns — Akkusativ
+## 6. Grammatik
 
-Most reflexive verbs use the **Akkusativ** form of the reflexive pronoun. Compare the Akkusativ personal pronouns you know from A1/L3 and A1/L9:
+### 6.1 Reflexive verbs and the Akkusativ pronoun
 
-| Subject | Akk. reflexive pronoun | Example |
+**Warum?** A reflexive verb is one where the subject and the object are the *same person* — the action bounces back onto the doer. English does this with "-self" words: "I wash **myself**." German uses one little word, `sich`, plus a couple of special forms for *ich* and *du*. The key insight is that German has *many more* reflexive verbs than English. We just say "I feel good," but German insists on *Ich fühle **mich** gut* — the feeling reflects back on you. So don't translate word for word; learn the verb together with its `sich`. Most reflexive verbs take the **Akkusativ** pronoun, which you already know from A1/L9 — only *ich → mich* and *du → dich* are unique; everything from *er/sie/es* up to formal *Sie* is simply `sich`.
+
+| Subject | Akk. reflexive | Example |
 |---|---|---|
 | ich | **mich** | Ich fühle **mich** wohl. |
 | du | **dich** | Fühlst du **dich** besser? |
-| er / sie / es | **sich** | Er ruht **sich** aus. / Sie ärgert **sich**. |
+| er/sie/es | **sich** | Er ruht **sich** aus. |
 | wir | **uns** | Wir freuen **uns**! |
 | ihr | **euch** | Habt ihr **euch** erkältet? |
-| sie / Sie | **sich** | Sie waschen **sich**. / Waschen Sie **sich**? |
+| sie/Sie | **sich** | Sie waschen **sich**. |
 
-⚠️ Only `ich` and `du` have unique forms (`mich`, `dich`). All third-person forms — including formal `Sie` — use **`sich`**.
+**Examples:**
+
+1. Ich fühle **mich** heute viel besser. — *I feel much better today.*
+2. Bruno ärgert **sich** über den Stress. — *Bruno is annoyed about the stress.*
+3. Anna freut **sich** auf ihren Yogakurs. — *Anna is looking forward to her yoga class.*
+4. Wir bewegen **uns** jeden Tag eine halbe Stunde. — *We exercise half an hour every day.*
+5. Hast du **dich** schon ausgeruht? — *Have you rested yet?*
+6. Ruhen Sie **sich** ein bisschen aus! — *Get some rest!*
+7. Yuki hat **sich** erkältet. — *Yuki has caught a cold.*
+8. Ich wasche **mich** morgens mit kaltem Wasser. — *I wash with cold water in the mornings.*
+9. Bitte setzen Sie **sich**! — *Please sit down!*
+10. Die Kinder ziehen **sich** schnell an. — *The children get dressed quickly.*
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich fühle gut.* | *Ich fühle **mich** gut.* (German verb is reflexive) |
+> | *Er ruht aus.* (with no pronoun) | *Er ruht **sich** aus.* |
+> | *Wir freuen auf das Wochenende.* | *Wir freuen **uns** auf das Wochenende.* |
+> | *Sie freut **mich** auf den Kurs.* | *Sie freut **sich** auf den Kurs.* (pronoun matches the subject!) |
+
+> 💡 **Lerntipp:** The reflexive pronoun always matches the subject. Picture a mirror: whatever *ich* does, the mirror shows *mich*; whatever *du* does, the mirror shows *dich*. If your subject is *sie* but your pronoun is *mich*, the mirror is broken — fix it. Subject and reflexive pronoun are always the same person.
+
+**Versuch es selbst.** Schreib 3 Sätze über deinen Morgen mit reflexiven Verben: *sich waschen*, *sich anziehen*, *sich fühlen*.
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich wasche **mich** um sieben Uhr.*
+> *Dann ziehe ich **mich** an.*
+> *Nach dem Frühstück fühle ich **mich** wach und fit.*
+
+</details>
 
 > 📌 **Merkasten — Reflexivpronomen Akkusativ**
 > | Person | Pronoun |
 > |---|---|
-> | ich | **mich** |
-> | du | **dich** |
-> | er/sie/es | **sich** |
-> | wir | **uns** |
-> | ihr | **euch** |
-> | Sie/sie | **sich** |
-> 
-> `Ich fühle **mich** müde.` · `Er ruht **sich** aus.`
+> | ich / du | **mich** / **dich** |
+> | er·sie·es / Sie·sie | **sich** |
+> | wir / ihr | **uns** / **euch** |
+>
+> ▶ Only *ich* and *du* have unique forms. Everything else (incl. formal *Sie*) = `sich`.
 
 ---
 
-### 4.3 Reflexive pronouns — Dativ
+### 6.2 The Dativ reflexive — `sich etwas` (with a second object)
 
-Some reflexive verbs use the **Dativ** form. This happens when the verb already has an Akkusativ object (the thing being acted on). The reflexive pronoun then acts as an indirect object (Dativ).
+**Warum?** Sometimes the reflexive pronoun is **not** the thing being acted on — there's already a real object in the sentence, and the pronoun just says *for whom*. Compare: *Ich wasche **mich*** (I wash myself — *mich* is the object, Akkusativ) vs. *Ich wasche **mir** die Hände* (I wash my hands — *die Hände* is the object, and *mir* = "for myself," Dativ). The test is simple: **is there a separate thing being acted on?** If yes → the pronoun goes Dativ. This matters for everyday phrases like brushing your teeth (*sich die Zähne putzen*) and wishing for things (*sich etwas wünschen*). The good news: only *mir* and *dir* differ from the Akkusativ forms — everything else stays `sich`, `uns`, `euch`.
 
-> Ich putze **mir** die Zähne. — I brush **my** teeth. (lit. "I brush to-myself the teeth")
-> Ich wünsche **mir** mehr Energie. — I wish for more energy. (lit. "I wish to-myself more energy")
-
-| Subject | Dat. reflexive pronoun | Example |
+| Subject | Dat. reflexive | Example |
 |---|---|---|
 | ich | **mir** | Ich wünsche **mir** Gesundheit. |
 | du | **dir** | Was wünschst du **dir**? |
-| er / sie / es | **sich** | Er kauft **sich** Vitamintabletten. |
+| er/sie/es | **sich** | Er kauft **sich** Tabletten. |
 | wir | **uns** | Wir kaufen **uns** ein Fahrrad. |
 | ihr | **euch** | Kauft ihr **euch** Sportschuhe? |
-| sie / Sie | **sich** | Sie putzen **sich** die Zähne. |
+| sie/Sie | **sich** | Sie putzen **sich** die Zähne. |
 
-⚠️ The Dativ forms differ from Akkusativ only in the first and second person singular: **mir** (not *mich*) and **dir** (not *dich*). All other forms are identical (`uns`, `euch`, `sich`).
+**Examples:**
 
-> 📌 **Merkasten — Reflexivpronomen Dativ**
-> | Person | Pronoun |
+1. Ich putze **mir** die Zähne. — *I brush my teeth.* (die Zähne = Akk object → mir)
+2. Ich wünsche **mir** mehr Energie. — *I wish for more energy.*
+3. Kannst du **dir** das vorstellen? — *Can you imagine that?*
+4. Bruno kauft **sich** Vitamintabletten. — *Bruno buys himself vitamin tablets.*
+5. Merk **dir** diese Regel! — *Remember this rule!*
+6. Sieh **dir** den Text noch einmal an. — *Take another look at the text.*
+7. Wir wünschen **uns** ein ruhiges Wochenende. — *We wish for a quiet weekend.*
+8. Ich kann **mir** das kaum vorstellen! — *I can hardly imagine that!*
+9. Anna kauft **sich** frisches Gemüse. — *Anna buys herself fresh vegetables.*
+10. Wascht **euch** bitte die Hände! — *Please wash your hands!*
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
 > |---|---|
-> | ich | **mir** |
-> | du | **dir** |
-> | er/sie/es | **sich** |
-> | wir | **uns** |
-> | ihr | **euch** |
-> | Sie/sie | **sich** |
-> 
-> `Ich wünsche **mir** mehr Freizeit.` · `Ich putze **mir** die Zähne.`  
-> ▶ Use Dativ when there is a direct object: `sich [Dat] etwas [Akk] wünschen`.
+> | *Ich putze **mich** die Zähne.* | *Ich putze **mir** die Zähne.* (there's an object → Dativ) |
+> | *Ich wünsche **mich** mehr Zeit.* | *Ich wünsche **mir** mehr Zeit.* |
+> | *Kannst du **dich** das vorstellen?* | *Kannst du **dir** das vorstellen?* |
+> | *Ich wasche **mir**.* (no object) | *Ich wasche **mich**.* (no object → Akkusativ) |
+
+> 💡 **Lerntipp:** The "what?" test settles it every time. After the verb, ask *was?* (what?). If there's an answer — *die Zähne, mehr Zeit, ein Fahrrad* — that's the Akkusativ object, so the reflexive pronoun must step back to Dativ (*mir/dir*). No answer to *was?* → the pronoun itself is the object → Akkusativ (*mich/dich*).
+
+**Versuch es selbst.** Fill `mir` or `mich`: (1) Ich ziehe ___ an. (2) Ich putze ___ die Zähne. (3) Ich wünsche ___ Gesundheit.
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *(1)* Ich ziehe **mich** an. *(no object → Akk)*
+> *(2)* Ich putze **mir** die Zähne. *(die Zähne = object → Dat)*
+> *(3)* Ich wünsche **mir** Gesundheit. *(Gesundheit = object → Dat)*
+
+</details>
+
+> 📌 **Merkasten — Akkusativ oder Dativ?**
+> | Situation | Case | Example |
+> |---|---|---|
+> | kein zweites Objekt | Akk (*mich/dich*) | Ich wasche **mich**. |
+> | zweites Objekt (was?) | Dat (*mir/dir*) | Ich wasche **mir** die Hände. |
+>
+> ▶ Only *ich/du* change (*mich→mir*, *dich→dir*). *sich, uns, euch* stay the same.
 
 ---
 
-### 4.4 How to tell Akkusativ from Dativ `sich`
+### 6.3 Position of `sich` — and reciprocal "each other"
 
-Ask yourself: **Is there a direct object (Akkusativ) in the sentence?**
+**Warum?** Word order trips up learners more than the pronoun choice. The rule is short: `sich` wants to be **as close to the subject as possible**. In a normal main clause it sits right after the verb (*Ich fühle **mich** gut*). When something else opens the sentence and the subject jumps behind the verb, `sich` follows the subject (*Heute fühle ich **mich** gut*). And in a subordinate clause — where the verb flies to the end — `sich` stays up front near the subject, never at the end (*…, weil ich **mich** gut fühle*). One bonus: in the plural, a reflexive can also mean **"each other"** (reciprocal): *Anna und Bruno helfen **sich*** can mean "they help each other." Add **`gegenseitig`** to make that crystal clear.
 
-| Sentence | Direct object (Akk)? | Reflexive case |
-|---|---|---|
-| Ich wasche **mich**. | No separate Akk object → `mich` IS the Akk object | **Akkusativ** |
-| Ich wasche **mir** die Hände. | `die Hände` = Akk object | **Dativ** |
-| Ich putze **mich**. | No separate Akk object | **Akkusativ** |
-| Ich putze **mir** die Zähne. | `die Zähne` = Akk object | **Dativ** |
+**Examples:**
 
-> **Rule:** If the sentence has a separate direct object (thing being acted on), the reflexive pronoun is in the **Dativ**. If the whole body/person is the direct object, it is **Akkusativ**.
+1. Ich fühle **mich** heute gut. — *main clause, pronoun subject*
+2. Heute fühle ich **mich** gut. — *front element → sich after the subject*
+3. Anna ruht **sich** am Wochenende aus. — *noun subject*
+4. …, weil ich **mich** nicht wohl fühle. — *subordinate clause: sich near subject, verb at end*
+5. …, dass er **sich** immer ärgert. — *subordinate clause*
+6. …, wenn du **dich** regelmäßig bewegst. — *subordinate clause*
+7. Fühlst du **dich** besser? — *yes/no question: sich after subject*
+8. Ruh **dich** aus! — *du-imperative: sich right after verb*
+9. Ruhen Sie **sich** aus! — *Sie-imperative*
+10. Anna und Bruno motivieren **sich gegenseitig**. — *reciprocal: each other*
 
-> 📌 **Merkasten — Akk oder Dat?**
-> | Rule | Example |
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
 > |---|---|
-> | No object → Akk | `Ich wasche **mich**.` |
-> | With object → Dat | `Ich wasche **mir** die Hände.` |
-> 
-> ▶ If you can ask "what?" after the verb → there IS a direct object → use Dativ reflexive.
+> | *…, weil ich nicht wohl fühle **mich**.* | *…, weil ich **mich** nicht wohl fühle.* (never at the very end) |
+> | *Heute **mich** fühle ich gut.* | *Heute fühle ich **mich** gut.* (sich after the subject, not before the verb) |
+> | *Ruh aus **dich**!* | *Ruh **dich** aus!* (sich right after the verb in imperatives) |
+
+> 💡 **Lerntipp:** Treat `sich` like a magnet stuck to the subject. Wherever the subject goes, `sich` follows one step behind. The only exception is the imperative *Ruh dich aus!*, where there's no spoken subject, so `sich` hugs the verb instead. Subject-then-`sich` — say it as one unit: *ich-mich, du-dich, er-sich*.
+
+**Versuch es selbst.** Stell den Satz um, sodass er mit „Am Wochenende" beginnt: *Ich ruhe mich am Wochenende aus.*
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Am Wochenende ruhe ich **mich** aus.* *(verb in position 2, ich + mich right after)*
+
+</details>
+
+> 📌 **Merkasten — Position von `sich`**
+> | Satztyp | Position |
+> |---|---|
+> | Hauptsatz | nach dem Verb / nach dem Subjekt (*ich fühle **mich***) |
+> | Nebensatz | beim Subjekt, **nicht** am Ende (*…, weil ich **mich**… fühle*) |
+> | Imperativ | direkt nach dem Verb (*Ruh **dich** aus!*) |
+>
+> ▶ Plural + `gegenseitig` = „each other": *Sie helfen **sich gegenseitig**.*
 
 ---
 
-### 4.5 Position of `sich` in the sentence
+### 6.4 Pronunciation: the sounds in reflexive health words
 
-The position of `sich` follows strict rules depending on the sentence type.
+**Warum?** The reflexive verbs in this lesson cluster around a few tricky German sounds — the umlaut *ü* in *fühlen* and *müde*, the *ä* in *ärgern*, and the diphthongs *eu* and *ei*. Mixing these up changes meaning: *müde* (tired) vs. a flat *mude* sounds wrong, and *eu* (oy) vs. *ei* (eye) are opposites a beginner easily swaps. A minute of sound drilling makes your wellness vocabulary clear.
 
-**In a main clause with a pronoun subject:**
-
-`sich` comes immediately after the finite verb (position 3):
-
-| Position 1 | Position 2 (verb) | Position 3 (`sich`) | Rest |
-|---|---|---|---|
-| Ich | fühle | **mich** | nicht gut. |
-| Er | ärgert | **sich** | oft. |
-| Heute | wäsche | **ich** | **mich** | kalt. |
-
-Wait — if the subject is a pronoun and something else is in position 1, `sich` still comes right after the verb (position 3 = right after the subject inversion):
-
-| Position 1 | Position 2 (verb) | Position 3 (subject) | Position 4 (`sich`) |
-|---|---|---|---|
-| Heute | wäscht | er | **sich** kalt. |
-| Morgens | fühlt | sie | **sich** müde. |
-
-**In a main clause with a noun subject:**
-
-`sich` comes after the finite verb and usually before other complements, but after a pronoun object if there is one:
-
-| Subject (noun) | Verb | `sich` | Rest |
-|---|---|---|---|
-| Anna | fühlt | **sich** | wohl. |
-| Die Kinder | waschen | **sich** | schnell. |
-
-⚠️ **Key contrast:**
-- **Pronoun subject:** `sich` comes right after the verb → *Heute wäscht **er sich** kalt.*
-- **Noun subject:** `sich` comes right after the verb → *Anna wäscht **sich** kalt.* ← same position, but the noun subject IS position 1.
-
-**In a subordinate clause (`weil`, `dass`, `wenn`):**
-
-The finite verb goes to the END of the clause. `sich` stays close to the subject (after the subject, before the rest):
-
-> …, weil ich **mich** nicht gut fühle.
-> …, dass er **sich** immer so ärgert.
-> …, wenn du **dich** regelmäßig bewegst.
-
-⚠️ **Never put `sich` at the very end** (after the verb) in a subordinate clause:
-- ✗ *…, weil ich nicht gut fühle mich.*
-- ✓ *…, weil ich mich nicht gut fühle.*
-
-**In questions and imperatives:**
-
-> Fühlst du **dich** besser? (yes/no question — `sich` after subject)
-> Ruh **dich** aus! (du-imperative — `sich` right after the verb)
-> Ruhen Sie **sich** aus! (Sie-imperative — `sich` after `Sie`)
-> Ruht **euch** aus! (ihr-imperative — `euch` right after verb)
-
----
-
-### 4.6 Reflexive vs. reciprocal use
-
-Some verbs can be used **reflexively** (each person acts on themselves) or **reciprocally** (each person acts on the other):
-
-| Usage | Example | Meaning |
+| Sound | Example words | Tip |
 |---|---|---|
-| Reflexive | Anna wäscht **sich**. | Anna washes **herself**. |
-| Reciprocal | Anna und Bruno sehen **sich**. | Anna and Bruno see **each other**. |
-| Reflexive | Er ärgert **sich**. | He is annoyed **(at himself / about something)**. |
-| Reciprocal | Sie ärgern **sich**. | They annoy **each other** (ambiguous — context clarifies). |
+| **ü** | sich f**ü**hlen, m**ü**de | say *ee*, then round the lips |
+| **ä** | sich **ä**rgern | short open *e*, like *air* without the r |
+| **eu** | sich fr**eu**en | *eu* always = English *oy* (as in "boy") |
+| **ei** | sich be**ei**len, b**ei**de, Gesundh**ei**t | *ei* always = English *eye* (as in "my") |
 
-To make the reciprocal meaning unmistakable, add **`gegenseitig`** (each other, mutually):
+Word stress in reflexive verbs falls on the **verb stem**, never on `sich`: *Ich **FÜHL**e mich* · *Er **RUH**t sich aus*.
 
-> Anna und Bruno helfen **sich gegenseitig** beim Lernen.
-> Die Kollegen respektieren **sich gegenseitig**.
-
----
-
-### 4.7 Pronunciation: sounds in this lesson
-
-- **ü** in `sich fühlen`, `sich müde fühlen`: round your lips for "ee" and say it — ü ≈ French *u*.
-- **ä** in `sich ärgern`: short, open "e" sound — like "air" without the *r*.
-- **eu** in `sich freuen`, `Gesundheit`: always sounds like English *oy* in "boy".
-- **ei** in `sich erkälten`, `sich entspannen`: always like English *eye*.
-- **ch** after dark vowels (a, o, u) → back-of-throat sound: `sich ausruhen` → `aus**r**uhen` has a clear *r*; `si**ch**` has the soft ich-sound.
-- Word stress in reflexive verbs: stress falls on the **verb stem**, not on `sich`: `**FÜHL**-en`, `**RUH**-en`.
+> 💡 **Lerntipp:** Two diphthongs, two English anchors: **eu = oy** (as in "boy"), **ei = eye** (as in "my"). Say *fr**eu**en* → "froyen," *b**ei**de* → "byde." Pin each German diphthong to its English word and you'll never swap them again.
 
 ---
 
-## 5. Lesetext: Anna und Bruno achten auf ihre Gesundheit
+## 7. Lesetext: Anna und Bruno achten auf ihre Gesundheit
+
+*(You'll work with this text in Block C — Lesen.)*
 
 > Anna und Bruno wohnen in Berlin und studieren Deutsch. Seit einem Monat versuchen
 > sie, gesünder zu leben. Anna freut sich sehr über ihren neuen Yogakurs. Sie geht
@@ -376,11 +442,9 @@ To make the reciprocal meaning unmistakable, add **`gegenseitig`** (each other, 
 > dann kaum noch vorstellen. Gesund leben bedeutet für sie: nicht nur den Körper
 > pflegen, sondern auch die Seele.
 
-*(You'll work with this text in Block C — Lesen.)*
-
 ---
 
-## 6. Hörtext
+## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
@@ -395,8 +459,35 @@ To make the reciprocal meaning unmistakable, add **`gegenseitig`** (each other, 
 
 ---
 
-## 7. Lernstrategie
+## 9. Magazin — Landeskunde
 
-**Anchoring reflexive verbs with a "me-story":** Reflexive verbs describe daily routines perfectly. Write a 6-sentence account of your morning using only reflexive verbs: *Ich wache auf. Ich wasche mich. Ich ziehe mich an. Ich fühle mich…* Say it out loud every morning for a week. By day 7 the `mich`/`mir` distinction will feel automatic — because you have said each form in context dozens of times. Add `sich die Zähne putzen` and `sich wünschen` as soon as you've practiced the basics.
+### Die Krankenkasse und der „gelbe Schein"
 
-➡️ **Now do `exercises.md`. Check yourself with `solutions.md` only afterwards.**
+Wer in Deutschland krank wird, geht nicht einfach zur Arbeit oder bleibt heimlich zu Hause — man holt sich eine **Krankschreibung**. Früher war das ein gelber Zettel vom Arzt, der „gelbe Schein"; heute geht das oft digital. Schon ab dem ersten Tag kann der Arbeitgeber ein solches Attest verlangen. Das Gute daran: Wer krank ist, *soll* zu Hause bleiben und sich ausruhen — bezahlt.
+
+> „Auskurieren statt durchhalten" — sich richtig gesund zu pflegen gilt hier nicht als Faulheit, sondern als vernünftig.
+
+Fast alle Menschen in Deutschland sind über eine Krankenkasse versichert. Der Gang zur Apotheke, wie bei Herrn Steinmeyer, ist Alltag — und die Apotheker:innen beraten dich oft so gut wie eine kleine Sprechstunde.
+
+---
+
+## 10. Lernstrategie
+
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jedes `sich` und prüfe: Akkusativ oder Dativ?
+- Wortschatz §4 (reflexive Verben) mit verdeckter Spalte testen — immer *mit* `sich` aufsagen
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
+
+### Tag 2 (30 min) — Vertiefung
+- Grammatik §6.1 und §6.2 lesen; dann den „was?"-Test mit 8 eigenen Sätzen machen — `mich` oder `mir`?
+- *Versuch es selbst* in §6.1 und §6.2 auf Papier schreiben
+- Eine 6-Satz-„Me-Story" über deinen Morgen schreiben — nur reflexive Verben
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Grammatik §6.3: 5 Sätze umstellen (mit „Heute…" / „Am Wochenende…" beginnen) — `sich` richtig setzen
+- Hörtext §8 hören, Transkript erst danach öffnen, alle reflexiven Verben heraushören
+- Block C in `exercises.md` machen (Lesetext §7)
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
