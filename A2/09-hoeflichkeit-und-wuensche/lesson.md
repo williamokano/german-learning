@@ -1,3 +1,24 @@
+---
+level: A2
+number: 9
+slug: hoeflichkeit-und-wuensche
+title: Höflichkeit und Wünsche
+titleEn: Politeness and Wishes
+canDo:
+  - make polite requests in a restaurant, shop, and hotel
+  - accept and decline invitations politely
+  - make a polite complaint or apology
+  - express wishes using Ich hätte gern …
+grammar:
+  - "Konjunktiv II — würde + Infinitiv (polite requests/offers)"
+  - "könnte (could), hätte (would have / would like to have), wäre (would be)"
+  - "register: polite Konjunktiv II vs. direct commands"
+buildsOn:
+  - A1/07 (modal verbs können, wollen, möchten)
+  - A1/10 (imperative)
+  - A2/04 (conditional clauses with wenn)
+---
+
 # A2 · Lektion 9 — Höflichkeit & Wünsche (Politeness & Wishes)
 
 > **You will learn to:** make polite requests in a restaurant, shop, and hotel;
@@ -50,7 +71,13 @@
 
 ---
 
-## 2. Redemittel (ready-made phrases)
+## 2. Einstieg — Was lernst du heute?
+
+Stell dir vor, du sagst im Restaurant: *Bring mir einen Kaffee!* — korrekt, aber es klingt fast wie ein Befehl. Deutsche machen genau dasselbe höflicher: *Ich hätte gern einen Kaffee* oder *Könnten Sie mir bitte einen Kaffee bringen?* Dieser höfliche Ton kommt vom **Konjunktiv II** — den Formen *würde, könnte, hätte* und *wäre*. In dieser Lektion lernst du, im Restaurant zu bestellen, Einladungen anzunehmen oder abzulehnen, dich zu beschweren und Wünsche zu äußern — alles in dem warmen, höflichen Ton, den Deutsche im Alltag schätzen.
+
+---
+
+## 3. Redemittel (ready-made phrases)
 
 ### Polite requests
 
@@ -106,9 +133,11 @@
 
 ---
 
-## 3. Wortschatz (vocabulary)
+## 4. Wortschatz (vocabulary)
 
 ### Im Restaurant (at the restaurant)
+
+> 💡 **Lerntipp:** Lern das Menü in der richtigen Reihenfolge — so wie es auf der Speisekarte steht: *Vorspeise → Hauptgericht → Nachspeise*. Dann fehlt dir beim Bestellen nie ein Wort. *Die Rechnung* und *das Trinkgeld* kommen ganz am Ende.
 
 | Noun (with article + plural) | English |
 |---|---|
@@ -129,6 +158,8 @@
 
 ### Im Geschäft (at the shop)
 
+> 💡 **Lerntipp:** Diese Wörter brauchst du, wenn etwas schiefläuft. Merk dir das Trio *Quittung / Kassenbon / Umtausch* zusammen: Ohne *Quittung* kein *Umtausch*. *Die Reklamation* ist die formelle Beschwerde über eine Ware.
+
 | Noun (with article + plural) | English |
 |---|---|
 | der Umtausch (no pl.) | exchange (of goods) |
@@ -141,6 +172,8 @@
 
 ### Einladungen (invitations)
 
+> 💡 **Lerntipp:** Merk dir die beiden Gegensätze: *die Zusage* (du sagst Ja) ↔ *die Absage* (du sagst Nein). Und *einladen* ist trennbar: *Ich lade dich ein.*
+
 | Noun (with article + plural) | English |
 |---|---|
 | die Einladung, -en | invitation |
@@ -150,6 +183,8 @@
 | die Zusage, -n | acceptance, confirmation |
 
 ### Wichtige Verben (important verbs)
+
+> 💡 **Lerntipp:** Drei dieser Verben sind trennbar (*ablehnen, annehmen, einladen*) — das Präfix wandert ans Ende: *Ich nehme die Einladung **an***. Und *annehmen* / *einladen* haben einen Vokalwechsel: *er nimmt an*, *er lädt ein*.
 
 | Verb | English | Note |
 |---|---|---|
@@ -162,220 +197,211 @@
 | einladen ⚠️ | to invite | separable, er lädt ein |
 | sich entschuldigen | to apologize | reflexive |
 
-### Pronunciation note: Konjunktiv II vowels
-
-The Konjunktiv II forms `wäre`, `hätte`, `käme` have an Umlaut (ä). In spoken German these vowels are clearly marked:
-
-- **wäre** ≈ "VEH-reh" (ä like 'e' in "bed")
-- **hätte** ≈ "HEH-teh"
-- **käme** ≈ "KAY-meh"
-- **könnte** ≈ "KÖNN-teh" (ö rounded, like saying "uh" with rounded lips)
-
-This Umlaut is what signals you are speaking hypothetically / politely — don't drop it!
-
 > ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
 
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Bruno reklamiert höflich
 
-### 4.1 What is Konjunktiv II?
+Lies den Text einmal für den Inhalt. Beim zweiten Lesen markiere jede höfliche Form (*würde, könnte, hätte, wäre*) — und überleg, warum sie höflicher klingt als die direkte Form.
 
-German has two subjunctive moods. **Konjunktiv II** is the one you'll use every day for:
+Bruno hat online eine Jacke gekauft. Aber als das Paket ankommt, ist die Jacke zu klein. „Schade", denkt Bruno. „Ich hätte gern die nächste Größe." Am nächsten Tag geht er in den Laden, um sie umzutauschen.
 
-1. **Polite requests** — "Could you…?", "Would you mind…?"
-2. **Wishes and hypotheticals** — "I would like to…", "It would be nice if…"
-3. **Polite offers** — "Would you like…?"
+Im Geschäft wartet eine Verkäuferin. Bruno sagt höflich: „Guten Tag. Entschuldigung, ich hätte ein Problem. Ich habe diese Jacke online bestellt, aber sie ist leider zu klein. Könnten Sie mir bitte helfen?" Die Verkäuferin lächelt: „Natürlich. Hätten Sie die Quittung dabei?" — „Ja, hier wäre sie", antwortet Bruno.
 
-> ⚠️ **Scope note:** The full Konjunktiv II system — wishes about unreal conditions
-> (`Wenn ich mehr Geld hätte, würde ich eine Weltreise machen`), all verbs' own
-> Konjunktiv II forms, and the past Konjunktiv II (`hätte gemacht`) — belongs to
-> **B1/03**. In this lesson we focus on four key forms used in everyday politeness.
+„Würden Sie die Jacke gern in einer größeren Größe?", fragt die Verkäuferin. „Das wäre super", sagt Bruno. „Könnten Sie nachschauen, ob Sie Größe L haben?" Die Verkäuferin schaut im Computer nach. „Es tut mir leid, Größe L wäre gerade nicht da. Aber ich könnte sie für Sie bestellen — sie wäre in drei Tagen hier."
+
+Bruno überlegt kurz. „Das wäre nett, aber ich hätte die Jacke lieber gleich. Könnte ich stattdessen das Geld zurückbekommen?" — „Aber sicher", sagt die Verkäuferin. „Das wäre überhaupt kein Problem." Bruno bedankt sich: „Vielen Dank, das war sehr freundlich von Ihnen." Höflich bleiben, denkt er, öffnet wirklich jede Tür.
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Was ist das Problem mit der Jacke?**
+> *Die Jacke ist zu klein.*
+>
+> **2. Warum kann die Verkäuferin die größere Jacke nicht sofort geben?**
+> *Weil Größe L gerade nicht da wäre / nicht vorrätig ist.*
+>
+> **3. Wofür entscheidet sich Bruno am Ende?**
+> *Er bekommt das Geld zurück.*
+
+</details>
 
 ---
 
-### 4.2 `würde + Infinitiv` — the standard polite form
+## 6. Grammatik
 
-The most versatile Konjunktiv II tool. `würde` is the Konjunktiv II of `werden`
-and works like English "would". Combine it with any infinitive:
+### 6.1 `würde + Infinitiv` — your default polite form
 
-**Conjugation of `würde`:**
+**Warum?** German has a "polite gear" called **Konjunktiv II**, and the easiest way to shift into it is **`würde` + infinitive** — almost exactly like English "would + verb." *Ich **würde** gern kommen* = "I **would** like to come." Why bother? Because the plain present tense (*Ich komme*, *Bring mir…*) can sound blunt or even bossy in requests. `würde` softens everything: it turns a demand into an offer, a command into a question. It works with *any* verb, so it's the one form to master first. Structurally it behaves like a modal: **`würde` sits in position 2, and the infinitive jumps to the end** (the Satzklammer you know from modal verbs).
 
-| Pronoun | Form |
-|---|---|
-| ich | **würde** |
-| du | **würdest** |
-| er / sie / es | **würde** |
-| wir | **würden** |
-| ihr | **würdet** |
-| sie / Sie | **würden** |
+| ich | du | er/sie/es | wir | ihr | sie/Sie |
+|---|---|---|---|---|---|
+| würde | würdest | würde | würden | würdet | würden |
 
-**Word order: `würde` takes position 2, infinitive goes to the END (Satzklammer).**
+**Examples:**
 
-| Position 1 | Position 2 | Middle | End |
-|---|---|---|---|
-| Ich | **würde** | gern | kommen. |
-| Würdest | **du** | bitte | helfen? |
-| Wir | **würden** | gern | reservieren. |
+1. Ich **würde** gern ins Restaurant **gehen**. — *I'd like to go to the restaurant.*
+2. **Würdest** du bitte die Rechnung **bringen**? — *Would you bring the bill, please?*
+3. Was **würden** Sie **empfehlen**? — *What would you recommend?*
+4. Wir **würden** gern einen Tisch **reservieren**. — *We'd like to reserve a table.*
+5. Ich **würde** lieber Wasser **nehmen**. — *I'd rather have water.*
+6. **Würden** Sie mir bitte **helfen**? — *Would you please help me?*
+7. Anna **würde** gern ins Konzert **gehen**. — *Anna would like to go to the concert.*
+8. Ich **würde** das nicht **machen**. — *I wouldn't do that.*
 
-> Ich **würde** gern ins Restaurant **gehen**.  
-> **Würdest** du bitte die Rechnung **bringen**?  
-> Was **würden** Sie empfehlen?
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich würde gern **gehe** ins Restaurant.* | *Ich würde gern ins Restaurant **gehen**.* (infinitive at the end) |
+> | *Würdest du **bringst** die Rechnung?* | *Würdest du die Rechnung **bringen**?* |
+> | *Ich **wurde** gern kommen.* | *Ich **würde** gern kommen.* (umlaut! *wurde* = past of werden) |
+
+> 💡 **Lerntipp:** Treat `würde` exactly like a modal verb (*möchten, können*): conjugated verb in position 2, the action-verb as an infinitive at the very end. If you can say *Ich möchte einen Tisch reservieren*, you can say *Ich würde gern einen Tisch reservieren* — same frame, politer tone.
+
+**Versuch es selbst.** Mach diese direkten Sätze höflich mit *würde*: (1) Komm mit! (2) Hilfst du mir?
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *(1)* **Würdest** du gern **mitkommen**? / Ich **würde** mich freuen, wenn du **mitkommen würdest**.
+> *(2)* **Würdest** du mir bitte **helfen**?
+
+</details>
 
 > 📌 **Merkasten — `würde + Infinitiv`**
-> | Person | Form |
-> |---|---|
-> | ich / er / sie / es | **würde** |
-> | du | **würdest** |
-> | wir / sie / Sie | **würden** |
-> | ihr | **würdet** |
-> 
-> `Ich **würde** gern kommen.` · `Was **würdest** du machen?`  
-> ▶ Most common Konjunktiv II in everyday speech — use this as your default.
+> | ich/er/sie/es | würde | du | würdest |
+> |---|---|---|---|
+> | wir/sie/Sie | würden | ihr | würdet |
+>
+> ▶ Position 2 = *würde*, Infinitiv ans Ende. ▶ Your everyday default for politeness.
 
 ---
 
-### 4.3 `könnte` — polite "could"
+### 6.2 `könnte` and `hätte` — "could" and "would like to have"
 
-`könnte` is the Konjunktiv II of `können`. Use it instead of `würde + können` for
-**polite requests** — it sounds natural and is very common in German.
+**Warum?** Two verbs have their own short Konjunktiv II forms that Germans use constantly, so you don't say *würde können* / *würde haben* — you use the one-word forms. **`könnte`** (the Konjunktiv II of *können*) means "could" in the polite sense: *Könnten Sie mir helfen?* And **`hätte`** (Konjunktiv II of *haben*) gives you the single most useful chunk at A2: **`Ich hätte gern…`**, the standard way to order food or things in a shop. Watch the umlaut — it's not decoration, it's the whole signal: *konnte* (no umlaut) = "could" in the *past*; *könnte* (umlaut) = "could" *politely/hypothetically*. Same for *hatte* vs. *hätte*.
 
-**Conjugation of `könnte`:**
+| | ich | du | er/sie/es | wir | ihr | sie/Sie |
+|---|---|---|---|---|---|---|
+| **könnte** | könnte | könntest | könnte | könnten | könntet | könnten |
+| **hätte** | hätte | hättest | hätte | hätten | hättet | hätten |
 
-| Pronoun | Form |
-|---|---|
-| ich | **könnte** |
-| du | **könntest** |
-| er / sie / es | **könnte** |
-| wir | **könnten** |
-| ihr | **könntet** |
-| sie / Sie | **könnten** |
+**Examples:**
 
-> ⚠️ **Don't confuse:** `konnte` (Präteritum: he *could* in the past) vs. `könnte`
-> (Konjunktiv II: he *could* — politely / hypothetically). The Umlaut ö makes all
-> the difference!
+1. **Könntest** du mir bitte helfen? — *Could you help me, please?*
+2. **Könnten** Sie mir die Rechnung bringen? — *Could you bring me the bill?*
+3. Ich **könnte** um sieben da sein. — *I could be there at seven.*
+4. Ich **hätte** gern einen Kaffee, bitte. — *I'd like a coffee, please.*
+5. Wir **hätten** gern einen Tisch für vier. — *We'd like a table for four.*
+6. **Hättest** du gern noch ein Dessert? — *Would you like a dessert?*
+7. Ich **hätte** leider keine Zeit. — *I unfortunately wouldn't have time.* (polite decline)
+8. **Könnten** Sie die Soße ohne Knoblauch machen? — *Could you make the sauce without garlic?*
 
-> **Könntest** du mir bitte helfen?  
-> **Könnten** Sie mir die Rechnung bringen?  
-> Ich **könnte** um sieben da sein.
-
-> 📌 **Merkasten — `könnte`**
-> | Person | Form |
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
 > |---|---|
-> | ich / er / sie / es | **könnte** |
-> | du | **könntest** |
-> | wir / sie / Sie | **könnten** |
-> | ihr | **könntet** |
-> 
-> `**Könnten** Sie mir helfen?` (polite request, formal)  
-> `**Könntest** du mir helfen?` (polite request, informal)
+> | *Ich **würde haben** gern einen Kaffee.* | *Ich **hätte** gern einen Kaffee.* (use the one-word form) |
+> | ***Konnten** Sie mir helfen?* (= past tense) | ***Könnten** Sie mir helfen?* (umlaut = polite) |
+> | *Ich **hatte** gern den Lachs.* (= I had…) | *Ich **hätte** gern den Lachs.* |
+> | *Ich **könnte** gern einen Tee.* (wrong verb) | *Ich **hätte** gern einen Tee.* (ordering → hätte) |
+
+> 💡 **Lerntipp:** The umlaut is the politeness signal — never drop it. Picture two dots as a little smile over the vowel: *könnte 😊*, *hätte 😊*. No dots (*konnte, hatte*) means you've slipped into the past tense. And memorise the magic ordering chunk as one word-block: **„Ich-hätte-gern…"** — it'll serve you in every café in the German-speaking world.
+
+**Versuch es selbst.** Bestelle höflich im Café (mit *hätte*) und bitte um Hilfe (mit *könnte*): was sagst du?
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich **hätte** gern einen Cappuccino und ein Stück Kuchen, bitte.*
+> ***Könnten** Sie mir bitte die Karte bringen?*
+
+</details>
+
+> 📌 **Merkasten — `könnte` / `hätte`**
+> | könnte = höfliches „could" | Könnten Sie mir helfen? |
+> |---|---|
+> | hätte = „would like to have" | Ich hätte gern einen Kaffee. |
+>
+> ▶ Umlaut = höflich/hypothetisch. Ohne Umlaut (*konnte/hatte*) = Vergangenheit!
 
 ---
 
-### 4.4 `hätte` — polite "would have" / "would like to have"
+### 6.3 `wäre` and choosing the right form — the register shift
 
-`hätte` is the Konjunktiv II of `haben`. Its main use at A2 level:
+**Warum?** **`wäre`** is the Konjunktiv II of *sein* ("would be"). You'll use it for hypothetical or polite states: *Das **wäre** toll!*, *Freitag **wäre** mir besser*, ***Wäre** das in Ordnung?* Together, *würde, könnte, hätte, wäre* form your complete A2 politeness kit. The deeper point is **register**: German has a clear ladder from blunt to elegant. *Bringen Sie die Rechnung!* (command) → *Können Sie die Rechnung bringen?* (neutral) → *Könnten Sie bitte die Rechnung bringen?* (warm and polite). In restaurants, shops, and with strangers, climb to the top rung — Germans notice and appreciate the Konjunktiv II.
 
-1. **`Ich hätte gern…`** — the standard way to order food or items politely
-   (chunk: learn as a fixed phrase)
-2. **Polite expressing of wishes:** "I would have liked…", "I'd prefer…"
-3. **Declining invitations:** "I unfortunately wouldn't have time."
+| ich | du | er/sie/es | wir | ihr | sie/Sie |
+|---|---|---|---|---|---|
+| wäre | wärst | wäre | wären | wärt | wären |
 
-**Conjugation of `hätte`:**
+**Which form when?**
 
-| Pronoun | Form |
-|---|---|
-| ich | **hätte** |
-| du | **hättest** |
-| er / sie / es | **hätte** |
-| wir | **hätten** |
-| ihr | **hättet** |
-| sie / Sie | **hätten** |
-
-> Ich **hätte** gern einen Kaffee, bitte.  
-> **Hättest** du gern noch etwas Dessert?  
-> Wir **hätten** gern einen Tisch für vier.
-
-**Chunk alert — `Ich hätte gern…`:** This is the standard German phrase for
-ordering. Think of it as "I would like…" in a restaurant or shop. You'll learn
-the full mechanics of `hätte` at B1/03, but this chunk is safe to use now.
-
-> 📌 **Merkasten — `hätte`**
-> | Person | Form |
-> |---|---|
-> | ich / er / sie / es | **hätte** |
-> | du | **hättest** |
-> | wir / sie / Sie | **hätten** |
-> | ihr | **hättet** |
-> 
-> `Ich **hätte** gern einen Kaffee.` (I'd like a coffee — polite)  
-> `**Hätten** Sie einen Moment Zeit?` (formal polite question)
-
----
-
-### 4.5 `wäre` — polite "would be"
-
-`wäre` is the Konjunktiv II of `sein`. Use it to describe a hypothetical or
-polite situation:
-
-**Conjugation of `wäre`:**
-
-| Pronoun | Form |
-|---|---|
-| ich | **wäre** |
-| du | **wärst** |
-| er / sie / es | **wäre** |
-| wir | **wären** |
-| ihr | **wäret** / **wärt** |
-| sie / Sie | **wären** |
-
-> Das **wäre** sehr nett.  
-> Freitag **wäre** mir besser.  
-> **Wäre** das in Ordnung für Sie?  
-> Es **wäre** schön, wenn wir Zeit hätten.
-
-> 📌 **Merkasten — `wäre`**
-> | Person | Form |
-> |---|---|
-> | ich / er / sie / es | **wäre** |
-> | du | **wärst** |
-> | wir / sie / Sie | **wären** |
-> | ihr | **wärt** |
-> 
-> `Das **wäre** sehr nett.` · `**Wäre** es möglich, …?`  
-> ▶ Konjunktiv II of **sein** — use for hypothetical states and polite suggestions.
-
----
-
-### 4.6 Quick comparison: which form to use?
-
-| Situation | Best choice | Example |
+| Situation | Use | Example |
 |---|---|---|
-| Polite request with any verb | `würde + Infinitiv` | Würdest du das bitte machen? |
-| Polite request "could you" | `könnte` | Könnten Sie mir helfen? |
-| Ordering food/drinks | `hätte gern` | Ich hätte gern einen Tee. |
-| Describing hypothetical situation | `wäre` | Das wäre toll! |
-| Saying "I could" (politely) | `könnte` | Ich könnte morgen kommen. |
+| polite request, any verb | würde + Inf. | Würdest du das bitte machen? |
+| "could you" | könnte | Könnten Sie mir helfen? |
+| ordering food/drinks | hätte gern | Ich hätte gern einen Tee. |
+| hypothetical state / "that would be…" | wäre | Das wäre toll! |
+
+**Examples:**
+
+1. Das **wäre** sehr nett. — *That would be very kind.*
+2. Freitag **wäre** mir besser. — *Friday would be better for me.*
+3. **Wäre** das in Ordnung für Sie? — *Would that be okay for you?*
+4. Es **wäre** schön, wenn du Zeit **hättest**. — *It would be nice if you had time.*
+5. Das **wäre** mein Traum! — *That would be my dream!*
+6. **Wäre** es möglich, den Tisch zu wechseln? — *Would it be possible to change tables?*
+7. Das **wäre** leider nicht möglich. — *That unfortunately wouldn't be possible.* (polite decline)
+8. Ein ruhiger Tisch **wäre** super. — *A quiet table would be great.*
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Das **würde** sein toll.* | *Das **wäre** toll.* (use the one-word *wäre*) |
+> | *Gib mir die Karte!* (to a waiter) | *Könnten Sie mir bitte die Karte bringen?* (climb the register) |
+> | *Freitag **war** mir besser.* (= was) | *Freitag **wäre** mir besser.* (hypothetical → wäre) |
+
+> 💡 **Lerntipp:** Run a "politeness upgrade" in your head before you speak to a stranger or in a shop. Caught yourself about to say *Ich will…* or *Geben Sie mir…*? Upgrade on the spot: *Ich hätte gern…* / *Könnten Sie mir … geben?* / *Das wäre nett.* One mental step, and you instantly sound like a considerate native.
+
+**Versuch es selbst.** Antworte höflich mit *wäre*: Jemand schlägt vor, am Samstag ins Kino zu gehen. Sag zu (positiv).
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ja, das **wäre** super!* / *Samstag **wäre** perfekt — ich **würde** gern mitkommen.*
+
+</details>
+
+> 📌 **Merkasten — `wäre` + Registerleiter**
+> | Befehl | neutral | höflich (K II) |
+> |---|---|---|
+> | Bringen Sie …! | Können Sie …? | **Könnten** Sie bitte …? |
+> | Ich will … | Ich möchte … | Ich **hätte** gern … |
+>
+> ▶ `wäre` = „would be". ▶ Im Restaurant/Geschäft immer die höchste Stufe wählen.
 
 ---
 
-### 4.7 Polite requests vs. direct commands — the register shift
+### 6.4 Pronunciation — the Konjunktiv-II umlauts
 
-Compare these three ways to ask for the same thing:
+**Warum?** All four polite forms carry an umlaut: *w**ä**re, h**ä**tte, k**ä**me, k**ö**nnte*. That umlaut is doing real grammatical work — it's the audible difference between past tense (*konnte, hatte, war*) and politeness (*könnte, hätte, wäre*). If you flatten the umlaut, a listener hears the past tense instead of a polite request. So pronounce it clearly.
 
-| Style | German | Feeling |
-|---|---|---|
-| Command (imperative) | Bringen Sie die Rechnung! | very direct, borderline rude |
-| Direct request (`können` Präsens) | Können Sie die Rechnung bringen? | neutral, fine in everyday life |
-| Polite Konjunktiv II | Könnten Sie bitte die Rechnung bringen? | softer, warmer, more elegant |
+- **wäre** ≈ "VEH-reh" — *ä* like the *e* in "bed"
+- **hätte** ≈ "HEH-teh"
+- **käme** ≈ "KAY-meh"
+- **könnte** ≈ "KÖNN-teh" — *ö* = say "eh" with rounded lips
 
-In a restaurant or formal setting, always prefer the Konjunktiv II form —
-Germans notice and appreciate it. In informal settings with friends, `würdest du`
-is friendly without being cold.
+> 💡 **Lerntipp:** Exaggerate the umlaut when you practise — open and clear. Say the minimal pairs out loud back to back: *konnte → könnte*, *hatte → hätte*, *war → wäre*. Feel your mouth change shape. The two dots are the sound of politeness; make sure they're heard.
 
 ---
 
-## 5. Lesetext: Anna lädt Bruno ein
+## 7. Lesetext: Anna lädt Bruno ein
+
+*(You'll work with this text in the exercises — Block C, Lesen.)*
 
 > Anna hatte eine Idee. Sie wollte Bruno zu einem Konzert einladen — ein russisches Kammerorchester spielte in der Berliner Philharmonie. „Das wäre doch schön!", dachte sie.
 >
@@ -385,11 +411,9 @@ is friendly without being cold.
 >
 > Bruno suchte sofort nach Restaurants in der Nähe der Philharmonie. Er fand ein kleines italienisches Restaurant. „Das wäre perfekt", schrieb er. „Ich würde einen Tisch für halb zehn reservieren. Würde das passen?" — „Ja, das wäre ideal!", antwortete Anna. „Ich freue mich schon!"
 
-*(You'll work with this text in the exercises — Block C, Lesen.)*
-
 ---
 
-## 6. Hörtext
+## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
@@ -404,15 +428,35 @@ is friendly without being cold.
 
 ---
 
-## 7. Lernstrategie
+## 9. Magazin — Landeskunde
 
-**"The polite upgrade" technique:** Every time you catch yourself using a direct
-form (`Gib mir…`, `Ich will…`, `Können Sie…?`), immediately rephrase it with
-Konjunktiv II. This forces your brain to practise the forms in real context.
-Keep a small notebook this week and write down every polite request you make in
-German — in the shop, at a restaurant, in messages to German-speaking friends.
-After 7 days you will have activated `würde`, `könnte`, `hätte`, and `wäre`
-across dozens of real situations, which is worth ten times more than a
-conjugation drill alone.
+### Trinkgeld: Wie viel ist höflich?
 
-➡️ **Now do `exercises.md`. Check yourself with `solutions.md` only afterwards.**
+In Deutschland gehört Trinkgeld zur Höflichkeit, aber die Regeln sind anders als in den USA. Man gibt meist **rund 5–10 %** — und man sagt den Betrag laut, wenn man zahlt. Kostet das Essen 18,50 €, sagt man der Kellnerin oft: „Machen Sie zwanzig" — der Rest ist das Trinkgeld. Man lässt das Geld selten einfach auf dem Tisch liegen.
+
+> „Stimmt so" — mit diesen zwei Wörtern sagst du: „Behalten Sie den Rest."
+
+Wichtig: Trinkgeld ist ein *Dankeschön* für guten Service, kein Muss. War der Service schlecht, darf man auch weniger geben. Und in einfachen Cafés rundet man einfach auf. Niemand erwartet 20 % — das wäre hier sogar ungewöhnlich.
+
+---
+
+## 10. Lernstrategie
+
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jede höfliche Form (würde/könnte/hätte/wäre)
+- Wortschatz §4 (Restaurant + Geschäft) mit verdeckter Spalte testen
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
+
+### Tag 2 (30 min) — Vertiefung
+- Grammatik §6.1 (würde) und §6.2 (könnte/hätte): je 5 höfliche Sätze schreiben
+- „Polite upgrade": 6 direkte Sätze (*Gib mir…, Ich will…*) in Konjunktiv II umschreiben
+- *Versuch es selbst* in §6.1, §6.2 und §6.3 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Grammatik §6.3 (wäre) + Registerleiter: eine Bestellung und eine Reklamation durchspielen
+- Hörtext §8 hören, Transkript erst danach öffnen, alle höflichen Formen heraushören
+- Lesetext §7 lesen, alle Konjunktiv-II-Formen markieren — dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
