@@ -1,3 +1,23 @@
+---
+level: B1
+number: 2
+slug: gegensaetze-und-folgen
+title: Gegensätze und Folgen
+titleEn: Contrasts and Consequences
+canDo:
+  - argue a point and contradict someone politely
+  - describe consequences
+  - use contrast and concession connectors naturally
+  - qualify statements with zwar … aber
+grammar:
+  - "obwohl (concessive subordinate clause, verb to the end)"
+  - "trotzdem, dennoch, jedoch (concessive adverbs, inversion)"
+  - "deshalb, darum, deswegen (consequence adverbs); zwar … aber"
+buildsOn:
+  - A2/03 (weil, dass, deshalb — giving reasons)
+  - B1/01 (narrative connectors, Präteritum storytelling)
+---
+
 # B1 · Lektion 2 — Gegensätze und Folgen (Contrasts and Consequences)
 
 > **You will learn to:** argue a point, contradict someone politely, and describe
@@ -48,7 +68,13 @@
 
 ---
 
-## 2. Redemittel
+## 2. Einstieg — Was lernst du heute?
+
+In einer echten Diskussion reicht es nicht, „weil" und „deshalb" zu sagen. Du musst auch widersprechen können, einen Einwand zugeben und trotzdem bei deiner Meinung bleiben: *„Das stimmt zwar, aber …"*, *„Obwohl du recht hast, sehe ich das anders."* Genau diese Werkzeuge lernst du heute — die **Gegensatz- und Folge-Konnektoren**, mit denen du argumentierst wie ein Muttersprachler. Der Schlüssel ist die Wortstellung: Manche Wörter (*obwohl*) schicken das Verb ans Ende, andere (*trotzdem, deshalb*) lösen eine Inversion aus. This lesson turns you from someone who *states* opinions into someone who can actually *debate* them.
+
+---
+
+## 3. Redemittel
 
 ### Widersprechen und argumentieren (contradicting and arguing)
 
@@ -84,9 +110,11 @@
 
 ---
 
-## 3. Wortschatz
+## 4. Wortschatz
 
 ### Konnektoren und Logik (connectors and logic)
+
+> 💡 **Lerntipp:** Lern diese Nomen in Gegensatzpaaren, denn beim Argumentieren brauchst du beide Seiten: *das Argument ↔ das Gegenargument*, *der Einwand ↔ der Kompromiss*. Achtung Plural mit Umlaut: *der Gegensatz → die Gegensätze*, *der Einwand → die Einwände*.
 
 | Nomen | Englisch |
 |---|---|
@@ -100,6 +128,8 @@
 | die Einschränkung, -en | restriction, qualification |
 
 ### Diskussionsvokabular
+
+> 💡 **Lerntipp:** Drei dieser Verben brauchen **Dativ**: *widersprechen*, *zustimmen* und *sich unterscheiden von*. Merk dir: *Ich widerspreche **dir**, ich stimme **dir** zu.* Üb sie gleich mit einem Dativpronomen.
 
 | Verb | Englisch |
 |---|---|
@@ -115,6 +145,8 @@
 
 ### Mobilität und Startup
 
+> 💡 **Lerntipp:** Das zentrale Wirtschafts-Gegensatzpaar dieser Lektion: *die Nachfrage* (demand) ↔ *das Angebot* (supply). Merk dir den Satz „Wo die **Nachfrage** groß und das **Angebot** klein ist, ist eine Lücke" — er fasst Tomáš' ganze Geschäftsidee zusammen.
+
 | Nomen | Englisch |
 |---|---|
 | der Anbieter, – | provider, supplier |
@@ -127,189 +159,219 @@
 | die Infrastruktur, -en | infrastructure |
 | der Randbezirk, -e | outlying district |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Annas schwere Entscheidung
 
-### 4.1 `obwohl` — the concessive subordinate clause
+Lies den Text zuerst zügig. Beim zweiten Lesen markiere jeden Konzessiv-Konnektor (*obwohl, trotzdem, zwar … aber*) und jeden Folge-Konnektor (*deshalb, darum*).
 
-**`obwohl`** means "although / even though." It introduces a subordinate clause
-in which the **verb goes to the end** — exactly like `weil` and `dass` from
-A2/03.
+Anna hat ein Angebot bekommen: eine gut bezahlte Stelle in München. Das Gehalt ist deutlich höher als in Berlin. Trotzdem ist sie unsicher. „Obwohl das Geld verlockend ist, will ich nicht einfach alles aufgeben", sagt sie zu Bruno.
 
-| Structure | Example |
-|---|---|
-| Main clause + `, obwohl` + Subord. clause (verb last) | Er bleibt in Prag, **obwohl** er Berlin **liebt**. |
-| `Obwohl` + Subord. clause (verb last) + `,` + main clause | **Obwohl** er Berlin **liebt**, bleibt er in Prag. |
+Bruno versteht sie. „München ist zwar teuer, aber die Gehälter sind dort eben auch höher. Das gleicht sich vielleicht aus." Anna nickt. „Das stimmt schon. Aber meine Freunde sind hier, mein Deutschkurs ist hier, mein ganzes Leben ist hier. Deshalb fällt mir die Entscheidung so schwer."
 
-> **Er bleibt in Prag, obwohl Berlin ihm besser gefällt.**
-> (He stays in Prague, although he likes Berlin better.)
+Am Wochenende macht Anna eine Liste. Auf der einen Seite: mehr Geld, eine neue Stadt, eine spannende Aufgabe. Auf der anderen Seite: Freunde, Vertrautheit, ihr Zuhause. Obwohl die Karriere wichtig ist, merkt sie, dass die Menschen für sie schwerer wiegen.
+
+Am Montag ruft sie die Firma an. „Vielen Dank für das Angebot. Es ehrt mich sehr. Dennoch habe ich mich entschieden, in Berlin zu bleiben." Die Personalchefin ist überrascht, aber respektiert die Entscheidung. Anna legt auf und atmet tief durch. „Ich habe zwar das Geld abgelehnt, aber ich habe mein Leben behalten", denkt sie. „Und darum fühle ich mich gut."
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Warum ist Anna trotz des höheren Gehalts unsicher?**
+> *Weil ihre Freunde, ihr Kurs und ihr ganzes Leben in Berlin sind.*
 >
-> **Obwohl der Markt besetzt ist, hat das Startup gute Chancen.**
-> (Although the market is occupied, the startup has good chances.)
+> **2. Was wiegt für Anna am Ende schwerer als die Karriere?**
+> *Die Menschen / ihre Freunde und die Vertrautheit.*
 >
-> **Sie ist zufrieden, obwohl die Arbeit schwer ist.**
-> (She is satisfied, although the work is hard.)
+> **3. Wie entscheidet sich Anna?**
+> *Sie lehnt das Angebot ab und bleibt in Berlin.*
 
-**Key rule for `obwohl`:** the fact in the `obwohl`-clause is **true** — it's
-a real concession, not a hypothetical. The main clause describes the
-surprising or contradictory result.
+</details>
+
+---
+
+## 6. Grammatik
+
+### 6.1 `obwohl` — the concessive subordinate clause
+
+**Warum?** When two facts clash — "Berlin is better, *yet* he stays in Prague" — you need a **concessive** connector. The most important one is **`obwohl`** ("although / even though"). It introduces a *subordinate* clause, which means — exactly like `weil` and `dass` — the **verb goes to the very end**: *Er bleibt in Prag, **obwohl** er Berlin **liebt**.* The key idea: the fact inside the `obwohl`-clause is *true*, and the main clause states the surprising, contradictory result. If you can build a `weil`-clause, you can build an `obwohl`-clause — same machinery, different meaning (reason vs. concession).
+
+**Examples:**
+
+1. Er bleibt in Prag, **obwohl** er Berlin **liebt**.
+2. **Obwohl** der Markt besetzt **ist**, hat das Startup gute Chancen.
+3. Sie ist zufrieden, **obwohl** die Arbeit schwer **ist**.
+4. **Obwohl** es **regnet**, gehen wir spazieren.
+5. Ich kaufe es, **obwohl** es teuer **ist**.
+6. **Obwohl** er müde **war**, arbeitete er weiter.
+7. Pavel bleibt in Berlin, **obwohl** er seine Familie **vermisst**.
+8. **Obwohl** frühere Anbieter **gescheitert sind**, versucht Tomáš es.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *obwohl er **liebt** Berlin* | *obwohl er Berlin **liebt*** (verb to the end) |
+> | *Obwohl er müde ist, **er kommt**.* | *Obwohl er müde ist, **kommt er**.* (main clause inverts) |
+> | *Obwohl er kommt **trotzdem**.* | *Obwohl er müde ist, kommt er **trotzdem**.* (don't combine obwohl+trotzdem in one clause) |
+> | *Er bleibt**obwohl** er Berlin liebt.* | *Er bleibt**,** obwohl …* (comma required) |
+
+> 💡 **Lerntipp:** Treat `obwohl` exactly like `weil`: comma, then everything, then the verb at the wall. The difference is only meaning — `weil` = "because" (reason), `obwohl` = "although" (concession). If you can hear the "…weil… [Pause] …Verb" rhythm, just swap in `obwohl` and you've got it.
+
+**Versuch es selbst.** Verbinde mit *obwohl*: „Es ist teuer. Ich kaufe es." → ?
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich kaufe es, **obwohl** es teuer **ist**.* / ***Obwohl** es teuer **ist**, kaufe ich es.*
+
+</details>
 
 > 📌 **Merkasten — `obwohl`**
->
-> | Pattern | Example |
+> | Muster | Beispiel |
 > |---|---|
-> | `obwohl` + … + **V-LAST** | obwohl er müde **ist** |
-> | Comma before `obwohl` | Er kommt**,** obwohl … |
-> | If `obwohl`-clause comes first: inversion | **Obwohl** er müde ist**,** kommt er. |
+> | `obwohl` + … + **Verb am Ende** | obwohl er müde **ist** |
+> | `obwohl`-Satz zuerst → Inversion | **Obwohl** er müde ist, **kommt er**. |
 >
-> ▶ Rule: `obwohl` sends the verb to the end of its clause. In German this
-> is called a *Nebensatz* (subordinate clause). Same verb-final rule as
-> `weil`, `dass`, `wenn`.
-
-⚠️ **Common trap:** Don't mix up the word order of `obwohl` and `trotzdem`:
-- `obwohl` → verb goes to the **end** (Nebensatz)
-- `trotzdem` → verb comes **second** (Hauptsatz inversion)
-
-Wrong: ~~*Obwohl er kommt trotzdem.*~~ ← never use both in the same clause!
+> ▶ Nebensatz wie `weil`/`dass`. ▶ Immer Komma. ▶ Die Tatsache im obwohl-Satz ist **wahr**.
 
 ---
 
-### 4.2 `trotzdem` and `dennoch` — adverbs of concession
+### 6.2 `trotzdem`, `dennoch`, `jedoch` — concessive adverbs
 
-**`trotzdem`** (nevertheless / still) and **`dennoch`** (nevertheless — more
-formal/literary) are **adverbs**, not conjunctions. They stand in the main
-clause, usually in **position 1**, which forces the verb into position 2 (the
-standard German inversion rule).
+**Warum?** `obwohl` is a conjunction (verb to the end). But German also expresses the *same* concession with **adverbs** — `trotzdem` ("nevertheless"), `dennoch` (more formal), `jedoch` ("however"). Because they're adverbs, they live in a *main* clause, usually in **position 1**, which triggers the standard **V2 inversion**: *Er mag Berlin. **Trotzdem bleibt** er in Prag.* The verb comes second, the subject jumps behind it. Knowing both `obwohl` and `trotzdem` gives you two ways to say the same thing — and lets you vary your sentence rhythm in a discussion.
 
-| Structure | Example |
-|---|---|
-| Trotzdem + **V** + Subject | Trotzdem **bleibt** er in Prag. |
-| Subject + … ; trotzdem + **V** + Subject | Er mag Berlin. Trotzdem **bleibt** er in Prag. |
+**Examples:**
 
-> **Er mag Berlin sehr. Trotzdem bleibt er in Prag.**
-> (He really likes Berlin. Nevertheless he stays in Prague.)
+1. Er mag Berlin sehr. **Trotzdem bleibt** er in Prag.
+2. Das Startup ist jung. **Dennoch hat** es schon 40 % Finanzierung.
+3. Ich bin müde. **Trotzdem gehe** ich ins Büro.
+4. Das Angebot ist groß, **jedoch ist** die Nachfrage gering.
+5. Die Idee ist gut. **Jedoch fehlt** das Geld.
+6. Es war kalt. **Trotzdem schwammen** wir im See.
+7. Die Miete ist hoch. **Dennoch lohnt** sich die Stadt.
+8. Sie hatte wenig Zeit. **Trotzdem half** sie mir.
+
+> ⚠️ **Häufige Fehler**
 >
-> **Das Startup ist noch jung. Dennoch hat es schon 40 % Finanzierung.**
-> (The startup is still young. Nevertheless it already has 40% funding.)
->
-> **Ich bin müde. Trotzdem gehe ich ins Büro.**
-> (I'm tired. Still, I'll go to the office.)
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Trotzdem **er bleibt** in Prag.* | *Trotzdem **bleibt er** in Prag.* (V2 inversion) |
+> | *Er bleibt, **trotzdem** er Berlin liebt.* (used as conjunction) | *Er bleibt, **obwohl** er Berlin liebt.* (concession conjunction = obwohl) |
+> | *…, **jedoch** die Nachfrage **ist** gering.* | *…, **jedoch ist** die Nachfrage gering.* (inversion after jedoch) |
 
-**Register:** `trotzdem` is everyday spoken German. `dennoch` is more formal /
-written (business letters, presentations, academic texts). Both are correct;
-choose based on register.
+> 💡 **Lerntipp:** Remember the swap: **`obwohl` + verb-last** ⇄ **`trotzdem` + verb-second**. They carry the same meaning from opposite ends. Register guide: `trotzdem` everywhere, `dennoch` in formal writing/presentations, `jedoch` for a slightly literary "however." When in doubt, `trotzdem`.
 
-**`jedoch`** works similarly: it means "however" and usually appears in
-position 1 (→ inversion) or after the subject.
+**Versuch es selbst.** Schreib den obwohl-Satz von §6.1 mit *trotzdem* um: „Obwohl es teuer ist, kaufe ich es." → ?
 
-> **Das Angebot ist groß, jedoch ist die Nachfrage gering.**
-> (The supply is large, however the demand is low.)
->
-> **Die Idee ist gut. Jedoch fehlt das Geld.**
-> (The idea is good. However the money is missing.)
+<details>
+<summary>📝 Lösung</summary>
+
+> *Es ist teuer. **Trotzdem kaufe** ich es.*
+
+</details>
 
 > 📌 **Merkasten — `trotzdem` / `dennoch` / `jedoch`**
+> | Adverb | Register | Wirkung |
+> |---|---|---|
+> | trotzdem | neutral | Position 1 → V2 |
+> | dennoch | formell | Position 1 → V2 |
+> | jedoch | neutral/formell | Position 1 oder nach Subjekt → V2 |
 >
-> | Adverb | Register | Position | Effect |
-> |---|---|---|---|
-> | `trotzdem` | informal/neutral | position 1 (or after subject) | V2 inversion |
-> | `dennoch` | formal/written | position 1 | V2 inversion |
-> | `jedoch` | neutral/formal | position 1 or after subject | V2 inversion |
->
-> ▶ All three are **adverbs**, not conjunctions. No subordinate clause.
-> Verb always in position 2.
+> ▶ Adverbien, **keine** Konjunktionen. Verb immer in Position 2.
 
 ---
 
-### 4.3 `deshalb`, `darum`, `deswegen` — consequence adverbs
+### 6.3 `deshalb`, `darum`, `deswegen` — consequence adverbs
 
-These three words all mean "therefore / that's why." They describe a
-**consequence** that follows from the previous statement. Like `trotzdem`,
-they go to position 1 (or after the subject) and trigger V2 inversion.
+**Warum?** Where `weil` gives the *reason* (verb-last), **`deshalb` / `darum` / `deswegen`** give the *consequence* — the same cause-and-effect from the other direction. They're consequence adverbs, so like `trotzdem` they go to position 1 and force V2 inversion: *Wir haben das Geld. **Deshalb ist** das Risiko gering.* All three mean exactly "therefore / that's why"; the only difference is register — `deshalb` is neutral and works everywhere, while `darum` and `deswegen` sound a touch more colloquial. You already met these in A2/03; here they pair up with the contrast connectors for full argumentative range.
 
-| Word | Register | Example |
-|---|---|---|
-| `deshalb` | neutral (most common) | Ich bin müde. **Deshalb** gehe ich schlafen. |
-| `darum` | informal / spoken | Es regnet. **Darum** nehme ich den Bus. |
-| `deswegen` | informal / spoken | Er hat keine Zeit. **Deswegen** kommt er nicht. |
+**Examples:**
 
-All three are **interchangeable** in meaning. The difference is register:
-`deshalb` works in formal and informal contexts; `darum` and `deswegen` sound
-more colloquial.
+1. Wir haben 40 % gesichert. **Deshalb ist** das Risiko gering.
+2. Pavel liebt die Kaffeeszene. **Darum ist** er geblieben.
+3. Die Szene in Prag wächst. **Deswegen zieht** Tomáš nicht um.
+4. Es regnet. **Darum nehme** ich den Bus.
+5. Er hat keine Zeit. **Deswegen kommt** er nicht.
+6. Anna kennt die Stadt. **Deshalb fühlt** sie sich sicher.
+7. Die Nachfrage ist hoch. **Deshalb lohnt** sich das Geschäft.
+8. Ich war krank. **Darum blieb** ich zu Hause.
 
-> **Wir haben 40 % der Mittel gesichert. Deshalb ist das Risiko gering.**
-> (We have secured 40% of the funds. Therefore the risk is low.)
+> ⚠️ **Häufige Fehler**
 >
-> **Pavel liebt den Berliner Kaffee. Darum ist er geblieben.**
-> (Pavel loves Berlin's coffee scene. That's why he stayed.)
->
-> **Die Szene in Prag wächst. Deswegen sieht Tomáš keinen Grund zu ziehen.**
-> (The scene in Prague is growing. That's why Tomáš sees no reason to move.)
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Deshalb **ich bleibe**.* | *Deshalb **bleibe ich**.* (V2 inversion) |
+> | *Ich bleibe, **deshalb** ich Prag liebe.* (reason!) | *Ich bleibe, **weil** ich Prag liebe.* (reason → weil) |
+> | *Ich liebe Prag, **weil** bleibe ich.* | *Ich liebe Prag. **Deshalb bleibe** ich.* (consequence → deshalb) |
+
+> 💡 **Lerntipp:** Two sides of one coin: **`weil`** answers *Warum?* (reason, verb-last); **`deshalb`** delivers the *Folge* (consequence, V2). Practise converting: take any `weil`-sentence and flip it into two sentences with `deshalb`. *Er bleibt, weil er Prag liebt* → *Er liebt Prag. Deshalb bleibt er.* Ten flips and it's automatic.
+
+**Versuch es selbst.** Flip in zwei Sätze mit *deshalb*: „Ich lerne Deutsch, weil ich in Berlin wohne." → ?
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich wohne in Berlin. **Deshalb lerne** ich Deutsch.*
+
+</details>
 
 > 📌 **Merkasten — `deshalb` / `darum` / `deswegen`**
+> | Bedeutung | therefore / that's why (alle gleich) |
+> |---|---|
+> | Register | deshalb = neutral · darum/deswegen = eher informell |
+> | Wirkung | Position 1 → V2-Inversion |
 >
-> | | `deshalb` | `darum` | `deswegen` |
-> |---|---|---|---|
-> | **Meaning** | therefore | therefore | therefore |
-> | **Register** | neutral | informal | informal |
-> | **Position** | 1 (or after subj.) | 1 (or after subj.) | 1 (or after subj.) |
-> | **Effect** | V2 inversion | V2 inversion | V2 inversion |
->
-> ▶ All three are interchangeable in meaning. Prefer `deshalb` in writing
-> and formal speech; `darum` / `deswegen` in casual conversation.
-
-**Contrast with `weil`:** `weil` gives the **reason** (verb to end);
-`deshalb` / `darum` / `deswegen` give the **consequence** (V2 inversion).
-
-> *Er bleibt, **weil** er Prag **liebt**.*  ← reason clause (verb-final)
-> *Er liebt Prag. **Deshalb** **bleibt** er.*  ← consequence (V2 main clause)
+> ▶ `weil` = Grund (Verb am Ende) · `deshalb` = Folge (Verb Position 2).
 
 ---
 
-### 4.4 `zwar … aber` — the two-part concession
+### 6.4 `zwar … aber` — the two-part concession
 
-**`zwar … aber`** (literally "it is true that … but") is a two-part structure
-that sets up a concession and then qualifies it. It is the German equivalent
-of "admittedly … but" or "true, … but."
+**Warum?** Often you want to *admit* a point and then immediately push back: "True, it's expensive — *but* it's worth it." German has a neat two-part frame for this: **`zwar … aber`** ("admittedly … but"). The `zwar` flags the conceded fact (it sits inside the first clause, usually right after the verb), and `aber` opens the counter-point. It's softer and more elegant than a blunt *aber* alone, because it signals fairness — you've heard the other side. This is the connector that makes you sound diplomatic in a debate.
 
-| Part | Position | Example |
-|---|---|---|
-| `zwar` | usually after verb of 1st clause | Der Markt ist **zwar** besetzt, … |
-| `aber` | starts 2nd clause (position 1) | … **aber** unser Ansatz ist anders. |
+**Examples:**
 
-> **Das Startup ist zwar noch jung, aber es hat schon viele Kunden.**
-> (The startup is admittedly still young, but it already has many customers.)
+1. Das Startup ist **zwar** noch jung, **aber** es hat schon viele Kunden.
+2. Die Miete ist **zwar** teurer, **aber** dafür gibt es mehr Möglichkeiten.
+3. Ich bin **zwar** müde, **aber** ich gehe trotzdem ins Büro.
+4. Prag ist **zwar** meine Heimat, **aber** Berlin gab mir das Netzwerk.
+5. Der Markt ist **zwar** besetzt, **aber** unsere Lösung ist anders.
+6. Das Auto ist **zwar** alt, **aber** es fährt noch gut.
+7. Sie hat **zwar** wenig Zeit, **aber** sie hilft immer.
+8. Die Wohnung ist **zwar** klein, **dafür aber** sehr günstig.
+
+> ⚠️ **Häufige Fehler**
 >
-> **Die Miete ist zwar teurer, aber dafür gibt es mehr Möglichkeiten.**
-> (The rent is admittedly more expensive, but there are more opportunities in return.)
->
-> **Ich bin zwar müde, aber ich gehe trotzdem ins Büro.**
-> (I am admittedly tired, but I'm still going to the office.)
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Zwar das Startup ist jung, aber …* | *Das Startup ist **zwar** jung, aber …* (zwar after the verb) |
+> | *Es ist zwar teuer. **Trotzdem** es lohnt sich.* (mixed frame) | *Es ist zwar teuer, **aber** es lohnt sich.* (zwar pairs with aber) |
+> | *Zwar es ist klein.* (zwar in position 1 without aber) | *Es ist **zwar** klein, **aber** …* (always paired) |
 
-**How to intensify or soften the contrast:**
+> 💡 **Lerntipp:** Think of `zwar … aber` as a seesaw: `zwar` puts the conceded fact on one side, `aber` drops your real point on the other — and your point always wins. The pair is inseparable; if you start a sentence with `zwar`, your brain should already be reaching for `aber`. To soften further, add `dafür` ("in return") after `aber`.
 
-- **Soften** with `dafür` ("in return / on the other hand"):
-  *Die Wohnung ist zwar klein, **dafür** aber sehr günstig.*
-- **Intensify** with `trotzdem` in the second clause:
-  *Er mag Berlin zwar, **aber** er bleibt **trotzdem** in Prag.*
-- **Add emphasis** with `allerdings` (admittedly / however — formal):
-  *Das ist **zwar** richtig, **allerdings** müssen wir auch die Kosten bedenken.*
+**Versuch es selbst.** Vervollständige: „Die Stadt ist zwar laut, aber …"
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Die Stadt ist zwar laut, **aber** sie ist auch sehr lebendig / **aber dafür** gibt es viel zu erleben.*
+
+</details>
 
 > 📌 **Merkasten — `zwar … aber`**
->
-> | `zwar` | `aber` |
+> | zwar | aber |
 > |---|---|
-> | after the main verb (position 3+) | starts second clause |
-> | marks the conceded fact | marks the contradicting fact |
+> | nach dem Verb (Position 3+) | beginnt den zweiten Teil |
+> | markiert die zugestandene Tatsache | markiert den Gegenpunkt |
 >
-> ▶ Pattern: `Subj. + V + zwar + [conceded fact], aber + [contradicting fact].`
-> The `zwar` and `aber` always come as a pair. If you drop `zwar`, use
-> a different structure (`obwohl`, `trotzdem`).
+> ▶ Muster: `… ist **zwar** [Zugeständnis], **aber** [Gegenpunkt].` ▶ Immer als Paar.
 
 ---
 
-## 5. Lesetext — Grüne Mobilität: Tomáš und das Berlin-Experiment
+## 7. Lesetext — Grüne Mobilität: Tomáš und das Berlin-Experiment
 
 *Lies den Text zweimal: einmal schnell, einmal langsam.*
 
@@ -334,11 +396,11 @@ nach Prag fliegt.
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
-## 6. Hörtext — Pavel ruft seine Mutter in Brünn an
+## 8. Hörtext — Pavel ruft seine Mutter in Brünn an
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -356,32 +418,35 @@ nach Prag fliegt.
 
 ---
 
-## 7. Lernstrategie — Konnektoren in Paaren lernen
+## 9. Magazin — Landeskunde
 
-The contrast connectors in this lesson come in natural **pairs** — two sides of
-the same idea. Learning them together makes both stick.
+### Deutsche Streitkultur: Direkt, aber nicht persönlich
 
-**Pair 1: `obwohl` ↔ `trotzdem`**
-They express the same logical relationship from different angles:
-- `obwohl` → introduces the conceded fact as a *subordinate clause* (verb-last)
-- `trotzdem` → states the surprising result in a *main clause* (V2)
+Wer aus einer Kultur kommt, in der man Konflikte lieber höflich umschifft, ist von deutschen Diskussionen oft überrascht. Deutsche **widersprechen direkt** — im Meeting, beim Abendessen, sogar unter Freunden. *„Da bin ich anderer Meinung"* ist kein Affront, sondern ein Zeichen, dass man das Gespräch ernst nimmt.
 
-> *Er bleibt in Prag, **obwohl** er Berlin **liebt**.*
-> *Er liebt Berlin. **Trotzdem** bleibt er in Prag.*
+> „Hart in der Sache, fair zur Person" — so beschreibt man die Idealvorstellung.
 
-These two sentences mean the same thing — written differently.
+Der Trick liegt im Unterschied zwischen **Sache** und **Person**: Man kritisiert das Argument, nicht den Menschen. Ein heftiges Streitgespräch kann fünf Minuten später mit einem gemeinsamen Bier enden, ohne dass jemand beleidigt ist. Für Neuankömmlinge fühlt sich das erst schroff an — bis man merkt: Wer dir direkt widerspricht, nimmt dich oft ernster als jemand, der nur höflich nickt.
 
-**Pair 2: `weil` ↔ `deshalb`**
-They express the same cause–effect from opposite directions:
-- `weil` → gives the reason (verb-last subordinate clause)
-- `deshalb` → states the consequence (V2 main clause)
+---
 
-> *Er bleibt, **weil** er Prag **liebt**.*
-> *Er liebt Prag. **Deshalb** bleibt er.*
+## 10. Lernstrategie
 
-**Study tip:** When you learn a sentence with `obwohl`, immediately rewrite it
-with `trotzdem`. When you learn a `weil`-sentence, rewrite it with `deshalb`.
-Do this every time you encounter one in the wild — 10 rewrites and the pair
-becomes automatic.
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jeden Gegensatz- und Folge-Konnektor
+- Wortschatz §4 (Konnektoren + Diskussionsvokabular) mit verdeckter Spalte testen
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
 
-➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
+### Tag 2 (30 min) — Vertiefung
+- Grammatik §6.1 (obwohl) und §6.2 (trotzdem): jeden obwohl-Satz sofort mit *trotzdem* umschreiben (5 Paare)
+- §6.3: 5 *weil*-Sätze in *deshalb*-Paare flippen
+- *Versuch es selbst* in §6.1–§6.4 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Grammatik §6.4 (zwar … aber): 5 eigene Pro-und-Kontra-Sätze schreiben
+- Hörtext §8 hören, Transkript erst danach öffnen, alle Konnektoren heraushören
+- Eine kurze Pro-/Kontra-Diskussion (z. B. „Stadt oder Land?") mit allen vier Konnektor-Typen schreiben — dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
