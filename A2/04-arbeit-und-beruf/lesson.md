@@ -1,3 +1,23 @@
+---
+level: A2
+number: 4
+slug: arbeit-und-beruf
+title: Arbeit und Beruf
+titleEn: Work and Profession
+canDo:
+  - talk about your profession and workplace
+  - read and respond to job advertisements
+  - describe your workday and make small talk at work
+  - express conditions and results using wenn-clauses
+grammar:
+  - "conditional/temporal clauses with wenn (verb moves to the END)"
+  - "als used to name a job or role (als Lehrerin arbeiten)"
+buildsOn:
+  - A1/07 (modal verbs, Satzklammer)
+  - A1/11 (Perfekt)
+  - A2/03 (subordinate clauses with weil and dass)
+---
+
 # A2 · Lektion 4 — Arbeit und Beruf (Work and Profession)
 
 > **You will learn to:** talk about your profession and workplace, read and respond to
@@ -46,7 +66,13 @@
 
 ---
 
-## 2. Redemittel (ready-made phrases)
+## 2. Einstieg — Was lernst du heute?
+
+Irgendwann kommt in fast jedem Gespräch die Frage: *Was machst du beruflich?* Und wenn du in Deutschland einen Job suchst, brauchst du noch mehr: Du musst eine Stelle beschreiben, dich bewerben und im Vorstellungsgespräch über deine Erfahrung sprechen. In dieser Lektion lernst du den Wortschatz der Arbeitswelt — von *der Lebenslauf* bis *das Gehalt* — und das wichtigste Satzbau-Werkzeug dafür: den `wenn`-Satz. Mit `wenn` kannst du Bedingungen ausdrücken (*Wenn ich Glück habe, …*) und sagen, was regelmäßig passiert (*Wenn ich früh anfange, …*). Am Ende kannst du über deinen Arbeitstag sprechen, als wärst du schon mittendrin.
+
+---
+
+## 3. Redemittel (ready-made phrases)
 
 ### Über den Beruf sprechen (talking about your profession)
 
@@ -96,9 +122,11 @@
 
 ---
 
-## 3. Wortschatz (vocabulary)
+## 4. Wortschatz (vocabulary)
 
 ### Berufe (professions)
+
+> 💡 **Lerntipp:** Lern jeden Beruf gleich als Paar — männlich *und* weiblich. Die Regel ist fast immer: feminine Form = maskuline Form + **-in** (*der Lehrer → die Lehrerin*). Wenn du das Paar zusammen lernst, hast du beide Formen für den halben Aufwand.
 
 | Beruf (m) | Beruf (f) | English |
 |---|---|---|
@@ -118,6 +146,8 @@
 ⚠️ `der Journalist` and `der Student` are **n-Deklination** nouns (Schwache Deklination) — they add `-en` in all cases except Nominativ. This will be fully taught at B1; for now treat them as chunks.
 
 ### Arbeitswelt (the workplace)
+
+> 💡 **Lerntipp:** Viele Wörter der Arbeitswelt sind Komposita — lange Wörter aus zwei kurzen. Zerleg sie: *Vorstellungs+gespräch* (introduction + talk = interview), *Bewerbungs+unterlagen* (application + documents), *Arbeits+zeit* (work + time). Wenn du die Bausteine kennst, verstehst du auch neue Komposita sofort.
 
 | Noun (article + plural) | English |
 |---|---|
@@ -140,6 +170,8 @@
 
 ### Verben zur Arbeit (work verbs)
 
+> 💡 **Lerntipp:** Lern jedes Verb sofort mit seinem Perfekt-Partizip — denn über Arbeit sprichst du oft in der Vergangenheit (*Was haben Sie bisher gemacht?*). Achte besonders auf die trennbaren Verben: *einreichen → eingereicht*, *anfangen → angefangen*, *aufhören → aufgehört* — das **ge-** rutscht in die Mitte.
+
 | Verb | English | Perfekt |
 |---|---|---|
 | arbeiten (als + job) | to work (as …) | hat gearbeitet |
@@ -157,85 +189,173 @@
 
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Anna sucht einen Nebenjob
 
-### 4.1 `wenn`-clauses: conditional and repeated-present meaning
+Lies den Text zuerst schnell für den Inhalt. Beim zweiten Lesen achte darauf, wie jeder `wenn`-Satz eine Bedingung ausdrückt — und wo das Verb steht.
 
-`wenn` (when/if) introduces a **subordinate clause** — just like `weil` and `dass` from A2/L3, the **conjugated verb moves to the very end**.
+Anna studiert in Berlin, aber das Studium ist teuer. Deshalb sucht sie einen Nebenjob für die Nachmittage. „Wenn ich zwölf Stunden pro Woche arbeite, kann ich die Miete bezahlen", denkt sie. Sie liest die Anzeigen online: Ein Café in der Nähe sucht eine Aushilfe, und eine kleine Firma sucht jemanden für das Büro.
 
-#### The golden rule: verb at the END
+Anna entscheidet sich für das Café, weil sie gern mit Menschen spricht. Sie schreibt eine kurze Bewerbung. „Wenn die Chefin nett ist, bleibe ich vielleicht lange", hofft sie. Zwei Tage später bekommt sie eine Antwort: Sie darf zum Vorstellungsgespräch kommen.
 
-| Main clause | `wenn`-clause |
-|---|---|
-| Ich schreibe noch mal, | **wenn** ich nichts **höre**. |
-| Er bekommt die Stelle, | **wenn** er die Prüfung **besteht**. |
-| Wir fangen an, | **wenn** alle **da sind**. |
+Im Café fragt die Chefin, Frau Yilmaz: „Haben Sie schon als Kellnerin gearbeitet?" Anna sagt ehrlich: „Nein, aber ich lerne schnell. Und wenn ich einen Fehler mache, frage ich sofort." Frau Yilmaz lacht. „Gut. Wenn Sie pünktlich und freundlich sind, passt das schon."
 
-**`wenn`-clause first → main clause inverts (verb before subject):**
+Anna bekommt die Stelle. Sie arbeitet jetzt von Montag bis Mittwoch, immer am Nachmittag. Wenn es viel zu tun gibt, ist sie manchmal müde. Aber wenn ein Gast „Danke, das war sehr nett" sagt, ist sie wieder glücklich. Am Abend schreibt sie Bruno: „Ich habe den Job! Wenn du Zeit hast, komm vorbei — der Kaffee geht auf mich."
 
-| wenn-clause | Main clause (inverted!) |
-|---|---|
-| **Wenn** ich Glück **habe**, | **finde** ich einen Job. |
-| **Wenn** Sie Fragen **haben**, | **melden** Sie sich bitte. |
-| **Wenn** man viel **übt**, | **lernt** man schnell. |
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
 
-⚠️ When the `wenn`-clause comes first, the **comma is obligatory** and the main clause verb comes **immediately after it** (no subject before the verb).
+> **1. Warum sucht Anna einen Nebenjob?**
+> *Weil das Studium teuer ist und sie die Miete bezahlen muss.*
+>
+> **2. Warum entscheidet sich Anna für das Café?**
+> *Weil sie gern mit Menschen spricht.*
+>
+> **3. Was sagt Frau Yilmaz über die Bedingungen für den Job?**
+> *Wenn Anna pünktlich und freundlich ist, passt das schon.*
 
-#### Verb-final with modal verbs and Perfekt
+</details>
 
-This works the same way as in `weil`-clauses:
+---
 
-| Structure | Example |
-|---|---|
-| `wenn` + modal infinitive | Wenn er früher **aufhören kann**, kommt er. |
-| `wenn` + Perfekt | Wenn er die Unterlagen **eingereicht hat**, rufen wir an. |
+## 6. Grammatik
 
-> ⚠️ In Perfekt inside a `wenn`-clause: `hat`/`ist` goes **last**: `…wenn er fertig **gegessen hat**`.
+### 6.1 `wenn`-clauses — conditions and repeated events
+
+**Warum?** English splits two ideas into two different words: *if* (a condition — "if it rains, I'll stay home") and *when* (a time — "when I arrive, I'll call you"). German uses **one** word for both: `wenn`. That's good news — one word instead of two. The catch is the word order. The moment you say `wenn`, the conjugated verb is pulled to the very end of that clause, exactly like `weil` and `dass` from the last lesson. The logic is the same: `wenn` is a subordinating conjunction, and German parks the verb at the end of every subordinate clause to signal "this part depends on the main clause." Once the `weil`-reflex is in your fingers, `wenn` is free.
+
+**Examples:**
+
+1. **Wenn** ich Glück **habe**, finde ich einen Job. — *If I'm lucky, I'll find a job.*
+2. Ich schreibe noch mal, **wenn** ich nichts **höre**. — *I'll write again if I don't hear anything.*
+3. **Wenn** man keine Berufserfahrung **hat**, ist es schwierig. — *When you have no work experience, it's difficult.*
+4. Wir fangen an, **wenn** alle **da sind**. — *We'll start when everyone is here.*
+5. **Wenn** Sie Fragen **haben**, melden Sie sich bitte. — *If you have questions, please get in touch.*
+6. Er bekommt die Stelle, **wenn** er das Gespräch **besteht**. — *He'll get the position if he passes the interview.*
+7. **Wenn** ich Hunger **habe**, gehe ich in die Kantine. — *When I'm hungry, I go to the canteen.*
+8. Ich rufe an, **wenn** ich die Unterlagen **eingereicht habe**. — *I'll call once I've submitted the documents.* (Perfekt → `hat`/`habe` last!)
+9. **Wenn** der Chef früher **aufhören kann**, kommt er mit. — *If the boss can finish earlier, he'll come along.* (modal → infinitive + modal last)
+10. Frau Weber ist zufrieden, **wenn** die Stelle noch frei **ist**. — *Frau Weber is content if the position is still open.*
+11. **Wenn** man viel **übt**, lernt man schnell. — *If you practise a lot, you learn quickly.*
+12. Ich mache eine Pause, **wenn** es ruhig **ist**. — *I take a break when it's quiet.*
+
+Watch the **inversion**: when the `wenn`-clause comes *first*, the main clause starts with its verb (not the subject). The comma marks the boundary, and the verb jumps right across it: *Wenn ich Glück **habe**, **finde** ich einen Job.* — two verbs meeting nose-to-nose around the comma is the classic German "verb-comma-verb" rhythm.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Wenn ich **finde** einen Job, bin ich glücklich.* | *Wenn ich einen Job **finde**, bin ich glücklich.* (verb to the end) |
+> | *Wenn er fertig ist, **er kommt** sofort.* | *Wenn er fertig ist, **kommt er** sofort.* (main clause inverts!) |
+> | *Wenn ich nichts höre, ich **schreibe** noch mal.* | *Wenn ich nichts höre, **schreibe ich** noch mal.* |
+> | *Ich rufe an, wenn ich die Unterlagen **habe eingereicht**.* | *Ich rufe an, wenn ich die Unterlagen **eingereicht habe**.* (finite verb last) |
+
+> 💡 **Lerntipp:** Hear the comma as a clap. Say it out loud with a beat: *„Wenn ich Glück habe — 👏 — finde ich einen Job."* The clap is the comma, and a verb sits on *each* side of it. If you ever have a subject right after the comma (*…, ich finde…*), you forgot to invert. Verb-comma-verb is the sound of a correct `wenn`-sentence.
+
+**Versuch es selbst.** Complete these two openers with your own ending, keeping the verb in the right place: (1) *Wenn ich heute Zeit habe, …* (2) *Ich bin glücklich, wenn …*
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *(1)* Wenn ich heute Zeit habe, **gehe ich** ins Café / **lerne ich** Deutsch / **rufe ich** meine Familie an.
+>
+> *(2)* Ich bin glücklich, wenn **die Arbeit interessant ist** / wenn **ich frei habe** / wenn **das Wetter schön ist**.
+
+</details>
 
 > 📌 **Merkasten — `wenn`-Satz**
 > | Position | Content |
 > |---|---|
 > | 1 | `Wenn` + rest of clause → **verb LAST** |
-> | 2 | Main clause → **verb FIRST** |
-> 
-> `Wenn ich Hunger habe, **gehe** ich in die Kantine.`  
+> | 2 | Main clause → **verb FIRST** (when the wenn-clause comes first) |
+>
+> `Wenn ich Hunger habe, **gehe** ich in die Kantine.`
 > ▶ The comma is mandatory. ▶ `wenn` can also come second: `Ich gehe in die Kantine, wenn ich Hunger habe.`
+> ▶ Perfekt: `…wenn er fertig **gegessen hat**.` ▶ Modal: `…wenn er früher **aufhören kann**.`
 
 ---
 
-### 4.2 `wenn` vs. `weil` — side-by-side
+### 6.2 `wenn` vs. `weil` — same structure, different job
 
-| | `wenn` | `weil` |
-|---|---|---|
-| Meaning | if / when (condition or repeated event) | because (reason) |
-| Answer to | Was passiert dann? / Wann? | Warum? |
-| Verb position | end of subordinate clause | end of subordinate clause |
-| Example | Er ruft an, **wenn** er fertig **ist**. | Er ruft nicht an, **weil** er beschäftigt **ist**. |
+**Warum?** Learners constantly mix up `wenn` and `weil` because they look similar and both push the verb to the end. But they answer completely different questions. `weil` answers **Warum?** (why? — a reason): *Er kommt nicht, weil er krank ist.* `wenn` answers **Wann?** or **Unter welcher Bedingung?** (when? / under what condition?): *Er kommt nicht, wenn er krank ist.* Same words, but the first states a fact ("he's not coming, and here's the reason"), the second states a condition ("he won't come — but only in the case that he's ill"). The grammar is identical; only the meaning differs. So you don't have to relearn any structure — you just have to pick the right connector.
 
-Both are subordinating conjunctions → verb at the end. The difference is **meaning**, not structure.
+**Examples:**
+
+1. Er ruft an, **weil** er fertig **ist**. — *He's calling because he's finished.* (reason)
+2. Er ruft an, **wenn** er fertig **ist**. — *He'll call when he's finished.* (condition/time)
+3. Ich bleibe zu Hause, **weil** ich krank **bin**. — *I'm staying home because I'm sick.* (fact)
+4. Ich bleibe zu Hause, **wenn** ich krank **bin**. — *I stay home whenever I'm sick.* (repeated condition)
+5. Sie lernt viel, **weil** sie die Prüfung **bestehen will**. — *She studies a lot because she wants to pass.* (reason)
+6. Sie freut sich, **wenn** sie die Prüfung **besteht**. — *She'll be happy if she passes.* (condition)
+7. Ich nehme die Stelle, **weil** das Gehalt gut **ist**. — *I'm taking the job because the salary is good.* (reason)
+8. Ich nehme die Stelle, **wenn** das Gehalt gut **ist**. — *I'll take the job if the salary is good.* (condition)
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong / mismatched | ✅ Right |
+> |---|---|
+> | *Ich bin glücklich, **wenn** ich viel arbeite.* (intended: *because*) | *Ich bin glücklich, **weil** ich viel arbeite.* (reason → weil) |
+> | *Er kommt nicht, **weil** er Zeit hat.* (intended: *if/when*) | *Er kommt, **wenn** er Zeit hat.* (condition → wenn) |
+> | *Warum bleibst du? — **Wenn** ich müde bin.* | *Warum bleibst du? — **Weil** ich müde bin.* (answer to Warum? = weil) |
+
+> 💡 **Lerntipp:** Do the question test before you choose. If the clause answers **Warum?** → `weil`. If it answers **Wann?** or starts with "in the case that…" → `wenn`. Say the question out loud first: "Warum? — weil." / "Wann? — wenn." They even start with the same letters: **Wa**rum → wei**l**, **Wa**nn → we**nn**.
+
+**Versuch es selbst.** Fill each gap with `wenn` or `weil`: (1) Ich gehe nicht aus, ___ ich lernen muss. (2) Ruf mich an, ___ du in Berlin bist.
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *(1)* Ich gehe nicht aus, **weil** ich lernen muss. *(reason — Warum?)*
+> *(2)* Ruf mich an, **wenn** du in Berlin bist. *(condition — Wann?)*
+
+</details>
 
 > 📌 **Merkasten — `wenn` vs. `weil`**
-> | Word | Meaning | Use |
-> |---|---|---|
-> | `wenn` | when / if | condition or repeated event |
-> | `weil` | because | reason/cause |
-> 
-> Both send the verb to the END of the clause.
+> | Word | Meaning | Answers | Use |
+> |---|---|---|---|
+> | `wenn` | when / if | Wann? | condition or repeated event |
+> | `weil` | because | Warum? | reason/cause |
+>
+> ▶ Both send the verb to the END of the clause. ▶ The difference is **meaning**, not structure.
 
 ---
 
-### 4.3 `als` — naming a role or profession
+### 6.3 `als` — naming a role or profession
 
-`als` is used to say what role or profession someone works **in** or **as**. It does **not** change the article of the noun that follows (no case change — `als` is not a preposition here; it is a particle).
+**Warum?** When you say what someone *does* for a living, German uses `als` + the bare job name: *Ich arbeite **als Lehrerin**.* In English you say "as **a** teacher" — with an article. German drops it: no *ein*, no *eine*, no adjective ending — just `als` + the capitalised noun. This trips up almost every learner, because the English "a/an" wants to sneak in. Think of `als` here as gluing the role directly onto the verb, like a label: *arbeiten-als-Lehrerin*. (Careful: `als` has other jobs too — comparisons like *größer als* and past-time clauses like *als ich jung war* — but those come later. For now, `als` + profession is a fixed pattern.)
 
-> Ich arbeite **als Lehrerin**. (I work **as a teacher**.)  
-> Er hat drei Jahre **als Mechaniker** gearbeitet. (He worked **as a mechanic** for three years.)  
-> Sie ist **als Studentin** eingeschrieben. (She is enrolled **as a student**.)  
-> Ich war früher **als Koch** tätig. (I used to work **as a chef**.)
+**Examples:**
 
-**No article, no adjective ending** — `als` + bare job noun (with capital letter).
+1. Ich arbeite **als Lehrerin**. — *I work as a teacher.*
+2. Er hat drei Jahre **als Mechaniker** gearbeitet. — *He worked as a mechanic for three years.*
+3. Sie ist **als Studentin** eingeschrieben. — *She is enrolled as a student.*
+4. Ich war früher **als Koch** tätig. — *I used to work as a chef.*
+5. Bruno möchte **als IT-Assistent** anfangen. — *Bruno wants to start as an IT assistant.*
+6. Frau Weber bewirbt sich **als Projektleiterin**. — *Frau Weber is applying as a project manager.*
+7. Yuki arbeitet **als Kellnerin** in einem Café. — *Yuki works as a waitress in a café.*
+8. Meine Kollegin arbeitet **als Programmiererin**. — *My colleague works as a programmer.*
+9. Er hat zwei Jahre **als Verkäufer** gejobbt. — *He worked two years as a sales assistant.*
+10. Sie fängt nächste Woche **als Buchhalterin** an. — *She starts next week as an accountant.*
 
-⚠️ **Preview note:** `als` also appears in comparatives (`größer als` = bigger than) and in past-time clauses (`als ich jung war` = when I was young). Both uses will be fully taught in A2/L7 and A2/L12. For now, learn **`als` + profession** as a fixed chunk.
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich arbeite als **eine** Lehrerin.* | *Ich arbeite **als Lehrerin**.* (no article!) |
+> | *Er arbeitet als **der** Mechaniker.* | *Er arbeitet **als Mechaniker**.* |
+> | *Sie ist **wie** Studentin eingeschrieben.* | *Sie ist **als** Studentin eingeschrieben.* (role = als, not wie) |
+> | *Ich arbeite als **lehrerin**.* | *Ich arbeite als **Lehrerin**.* (noun → capital letter) |
+
+> 💡 **Lerntipp:** German *als* = English "as," **minus the a/an**. Every time you want to put "a" after "as," stop — German won't. Drill the chunk *arbeiten als ___* with five jobs in a row out loud: *als Lehrerin, als Koch, als Ärztin, als Verkäufer, als Programmiererin*. No article ever sneaks in.
+
+**Versuch es selbst.** Schreib 2 Sätze über echte oder erfundene Jobs mit *arbeiten als …* — einen in der Gegenwart, einen im Perfekt.
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich arbeite **als Verkäuferin** in einem Supermarkt.*
+> *Früher habe ich zwei Jahre **als Kellner** gearbeitet.*
+
+</details>
 
 > 📌 **Merkasten — `als` + Beruf**
 > | Pattern | Example |
@@ -243,63 +363,45 @@ Both are subordinating conjunctions → verb at the end. The difference is **mea
 > | `arbeiten als [Beruf]` | Ich arbeite als Lehrerin. |
 > | `als [Beruf] tätig sein` | Sie ist als Ärztin tätig. |
 > | `Ich bin von Beruf …` | Ich bin von Beruf Ingenieur. |
-> 
-> ▶ No article after `als` when naming a role.
+>
+> ▶ No article after `als` when naming a role. ▶ The job noun keeps its capital letter.
 
 ---
 
-### 4.4 Common `wenn`-clause traps
+### 6.4 Pronunciation: the umlauts `ü`, `ö`, `ä` and word stress
 
-**Trap 1 — Verb not at the end:**  
-❌ *Wenn ich finde einen Job, bin ich glücklich.* — WRONG  
-✅ *Wenn ich einen Job **finde**, bin ich glücklich.* — CORRECT
-
-**Trap 2 — Double subject after wenn-clause:**  
-❌ *Wenn er fertig ist, er kommt sofort.* — WRONG  
-✅ *Wenn er fertig **ist**, **kommt er** sofort.* — CORRECT (main clause inverts)
-
-**Trap 3 — `wenn` confused with `weil`:**  
-❌ *Ich bin glücklich, wenn ich viel arbeite.* (meaning: I'm happy because I work a lot)  
-✅ Use `weil` for reasons: *Ich bin glücklich, **weil** ich viel arbeite.*  
-✅ Use `wenn` for conditions: *Ich bin glücklich, **wenn** die Arbeit interessant ist.*
-
-**Trap 4 — `als` with an article:**  
-❌ *Ich arbeite als eine Lehrerin.* — WRONG  
-✅ *Ich arbeite als **Lehrerin**.* — CORRECT (no article after `als` with profession)
-
----
-
-### 4.5 Pronunciation: the sounds `ü`, `ö`, and long vs. short vowels
-
-The job-world vocabulary introduces several words with German umlauts. These appear in A1 already (Ärzte, Türkei) but bear repeating:
+**Warum?** The job-world vocabulary is full of umlauts — *Büro, Lebensläufe, Köche, Ärzte, Gehälter*. An umlaut is not a decoration: it changes the sound *and* often the meaning (*Mutter* = mother, *Mütter* = mothers). Portuguese and Spanish speakers tend to flatten *ü* into *u* and *ö* into *o*, which makes *schön* (beautiful) sound like *schon* (already) — a real word with a different meaning. A minute of lip practice fixes this for good.
 
 | Sound | Spelling | Tip | Examples |
 |---|---|---|---|
-| **ü** (long) | ü, ü- | Say *ee* with rounded (pursed) lips | Büro, Lebensläufe |
+| **ü** (long) | ü | Say *ee* with rounded (pursed) lips | Büro, Lebensläufe |
 | **ö** (long) | ö | Say *ay* with rounded lips | Köche, Söhne |
 | **ä** (long) | ä | Like English *air* (without the r) | Ärzte, Gehälter |
 | Short **u** | u | Like English *put* | Kündigung, Stunden |
 
-Compound-noun stress: the **first** element carries the main stress:
+Compound-noun stress: the **first** element carries the main stress.
+
 > **AR**beitgeber · **LE**benslauf · **VOR**stellungsgespräch · **BE**werbungsunterlagen
+
+> 💡 **Lerntipp:** To make *ü*, first say a long *ee* (as in "see"), freeze your tongue, then round your lips as if to whistle. The sound changes to *ü* without moving your tongue at all. Same trick for *ö*: say *ay*, hold the tongue, round the lips. The umlaut lives in your lips, not your throat.
 
 ---
 
-## 5. Lesetext: Brunos erster Arbeitstag
+## 7. Lesetext: Brunos erster Arbeitstag
+
+*(You'll work with this text in the exercises — Block C, Lesen.)*
 
 Bruno hat Glück gehabt: Er hat eine Stelle als IT-Assistent bei einer kleinen Softwarefirma in Berlin gefunden. Heute ist sein erster Arbeitstag.
 
-Er steht um sieben Uhr auf und fährt mit der U-Bahn ins Büro. Wenn der Zug pünktlich kommt, braucht er nur zwanzig Minuten. Sein Chef, Herr Keller, begrüßt ihn freundlich und stellt ihm die Kolleginnen und Kollegen vor. Brunos Kollegin Laura arbeitet als Programmiererin. Sie erklärt ihm, dass er wenn er Fragen hat, immer fragen kann.
+Er steht um sieben Uhr auf und fährt mit der U-Bahn ins Büro. Wenn der Zug pünktlich kommt, braucht er nur zwanzig Minuten. Sein Chef, Herr Keller, begrüßt ihn freundlich und stellt ihm die Kolleginnen und Kollegen vor. Brunos Kollegin Laura arbeitet als Programmiererin. Sie erklärt ihm, dass er, wenn er Fragen hat, immer fragen kann.
 
 Der Arbeitstag beginnt um neun Uhr. Bruno hat von neun bis dreizehn Uhr gearbeitet, dann hat er eine Stunde Pause gemacht. Wenn er Hunger hat, geht er in die Kantine. Am Nachmittag hat er an einer Besprechung teilgenommen. Er hat nicht alles verstanden, aber das macht nichts — wenn man neu ist, braucht man Zeit.
 
 Am Ende des Tages ist Bruno müde, aber zufrieden. Wenn die ersten Wochen gut laufen, möchte er langfristig bei der Firma bleiben. Er schreibt Anna eine Nachricht: „Erster Tag super! Wenn du Zeit hast, erzähle ich dir alles beim Kaffee."
 
-*(You'll work with this text in the exercises — Block C, Lesen.)*
-
 ---
 
-## 6. Hörtext
+## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
@@ -314,8 +416,35 @@ Am Ende des Tages ist Bruno müde, aber zufrieden. Wenn die ersten Wochen gut la
 
 ---
 
-## 7. Lernstrategie
+## 9. Magazin — Landeskunde
 
-**The "If–Then Habit Pairs" technique:** Every new vocabulary item you learn about work, pair it immediately with a `wenn`-sentence about your own life. For example: you learn *das Vorstellungsgespräch* → immediately say aloud: *Wenn ich ein Vorstellungsgespräch habe, bin ich nervös.* This forces you to practise the word **and** the grammar at the same time, doubling retention. Do it for 5 words per day — that's 35 `wenn`-sentences per week with zero extra study time.
+### Der Lebenslauf: Warum Deutsche so viel auf Papier wollen
 
-➡️ **Now do `exercises.md`. Check yourself with `solutions.md` only afterwards.**
+Wer sich in Deutschland bewirbt, schickt selten nur eine kurze Nachricht. Erwartet wird eine ganze Mappe: ein Anschreiben (cover letter), ein tabellarischer Lebenslauf und oft auch Kopien von Zeugnissen und Zertifikaten. Der Lebenslauf ist dabei fast heilig — lückenlos, chronologisch, mit Foto in vielen Branchen. Eine Lücke von ein paar Monaten? Darauf wirst du im Gespräch wahrscheinlich angesprochen.
+
+> „Papiere sind in Deutschland kein Misstrauen, sondern Ordnung", sagt eine Berliner Personalerin.
+
+Für Bewerber aus Ländern, wo ein lockerer Lebenslauf und ein gutes Gespräch reichen, fühlt sich das erst einmal streng an. Aber es hat einen Vorteil: Wenn deine Unterlagen vollständig und sauber sind, machst du schon vor dem ersten Wort einen guten Eindruck.
+
+---
+
+## 10. Lernstrategie
+
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jeden `wenn`-Satz und prüfe: Steht das Verb am Ende?
+- Wortschatz §4 (Berufe + Arbeitswelt) mit verdeckter Spalte testen — Ziel ≥ 80 %
+- Mini-Geschichte §5 einmal lesen + Lese-Check beantworten
+
+### Tag 2 (30 min) — Vertiefung
+- Grammatik §6.1 (`wenn`) lesen, dann 5 eigene `wenn`-Sätze über deinen Tag schreiben — die Hälfte mit `wenn`-Satz zuerst (Inversion üben!)
+- §6.2: Mach den Warum?/Wann?-Test mit 6 Sätzen — `wenn` oder `weil`?
+- *Versuch es selbst* in §6.1 und §6.3 auf Papier machen (nicht nur lesen!)
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Grammatik §6.3 (`als` + Beruf): 5 Sätze mit *arbeiten als …* schreiben, ohne Artikel
+- Hörtext §8 hören, Transkript erst danach öffnen, alle `wenn`-Sätze heraushören
+- Lesetext §7 noch einmal lesen, jede Verbposition im Nebensatz prüfen — dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
