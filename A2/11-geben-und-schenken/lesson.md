@@ -1,3 +1,24 @@
+---
+level: A2
+number: 11
+slug: geben-und-schenken
+title: Geben und schenken
+titleEn: Giving and Gifting
+canDo:
+  - talk about gifts and celebrations
+  - thank people and respond to thanks
+  - use verbs that take both a dative and an accusative object
+  - put the two objects in the correct order
+grammar:
+  - "two-object verbs (Dativobjekt + Akkusativobjekt)"
+  - "word order: two nouns (Dat→Akk), pronoun+noun (pronoun first), two pronouns (Akk→Dat)"
+  - "case assignment in the two-object construction"
+buildsOn:
+  - A1/09 (Dativ and Akkusativ personal pronouns)
+  - A2/08 (adjective declension)
+  - A2/09 (Konjunktiv II for polite offers)
+---
+
 # A2 · Lektion 11 — Geben und schenken (Giving and Gifting)
 
 > **You will learn to:** talk about gifts and celebrations; thank people and  
@@ -51,7 +72,13 @@
 
 ---
 
-## 2. Redemittel (ready-made phrases)
+## 2. Einstieg — Was lernst du heute?
+
+Geben, schenken, schicken, zeigen — diese Verben haben etwas gemeinsam: Es gibt immer **zwei** Beteiligte. Du gibst *jemandem* (eine Person) *etwas* (eine Sache). Im Deutschen steht die Person im **Dativ** und die Sache im **Akkusativ**: *Ich schenke **meiner Mutter** **ein Buch**.* In dieser Lektion lernst du, über Geschenke und Feiern zu sprechen, dich zu bedanken und zu gratulieren — und vor allem, die beiden Objekte in die richtige Reihenfolge zu bringen. Die kniffligste Stelle? Wenn beide Objekte Pronomen werden (*Ich schenke **es** **ihr**.*) — dann dreht sich die Reihenfolge plötzlich um. Keine Sorge, du lernst alle drei Fälle Schritt für Schritt.
+
+---
+
+## 3. Redemittel (ready-made phrases)
 
 ### Über Geschenke sprechen (talking about gifts)
 
@@ -91,9 +118,11 @@
 
 ---
 
-## 3. Wortschatz (vocabulary)
+## 4. Wortschatz (vocabulary)
 
 ### Geschenke und Feiern (gifts and celebrations)
+
+> 💡 **Lerntipp:** Lern die Anlässe als Gruppe — *Geburtstag, Hochzeit, Jahrestag, Fest* — und merk dir gleich den passenden Glückwunsch: *Herzlichen Glückwunsch zum Geburtstag / zur Hochzeit*. Achtung: *zum* (m/n) vs. *zur* (f).
 
 | Noun (article + plural) | English |
 |---|---|
@@ -116,6 +145,8 @@
 
 ### Personen (people)
 
+> 💡 **Lerntipp:** Diese Personen sind oft das **Dativobjekt** (der Empfänger!) deiner Geschenkverben: *Ich schenke **dem Nachbarn / den Verwandten / der Kollegin** etwas.* Üb sie gleich im Dativ.
+
 | Noun (article + plural) | English |
 |---|---|
 | der Empfänger, - / die Empfängerin, -nen | recipient |
@@ -125,6 +156,8 @@
 | der Nachbar, -n / die Nachbarin, -nen | neighbour |
 
 ### Verben (verbs)
+
+> 💡 **Lerntipp:** Markier dir die Verben, die **zwei** Objekte nehmen (*geben, schenken, schicken, zeigen, erklären, empfehlen, schreiben, wünschen, leihen, sagen, bringen*) — das ist das Herz dieser Lektion. **Ausnahme:** *kaufen* nimmt **für + Akk** für den Empfänger, nicht den Dativ.
 
 | Verb | Meaning | Note |
 |---|---|---|
@@ -160,181 +193,199 @@
 
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Ein Geschenk für Frau Weber
 
-### 4.1 Two-object verbs — the big picture
+Lies den Text einmal für den Inhalt. Beim zweiten Lesen markiere jedes Zwei-Objekt-Verb und bestimme: Was ist das Dativobjekt (Person, *wem?*) und was das Akkusativobjekt (Sache, *was?*)?
 
-Some German verbs take **two** objects: an **indirect object** (in the **Dativ**) and a **direct object** (in the **Akkusativ**). The dative object is usually a **person** (the recipient), the accusative object is usually a **thing** (the gift, the message, the recommendation).
+Frau Weber, die Deutschlehrerin, hat bald Geburtstag. Bruno hat eine Idee: „Wir kaufen ihr zusammen ein Geschenk!" Anna findet das toll. „Ja! Ich frage die anderen aus dem Kurs. Jeder gibt mir ein bisschen Geld, dann können wir ihr etwas Schönes schenken."
 
-> **Indirect (Dativ) — usually a person:** *Wem?* (to/for whom?)  
-> **Direct (Akkusativ) — usually a thing:** *Was?* (what?)  
+Am nächsten Tag sammelt Anna das Geld. Yuki gibt ihr zehn Euro, die anderen geben ihr auch etwas. „Was schenken wir ihr?", fragt Bruno. Anna zeigt ihm ein Foto im Internet: „Schau, dieses Buch über Berlin. Wir schenken es ihr — sie liebt diese Stadt." Bruno nickt: „Perfekt. Und ich schreibe ihr eine Karte von der ganzen Gruppe."
 
-| Verb | Indirect (Dat) | Direct (Akk) | Example |
-|---|---|---|---|
-| **schenken** | meiner Schwester | ein Buch | Ich schenke **meiner Schwester** **ein Buch**. |
-| **geben** | dem Kind | einen Apfel | Ich gebe **dem Kind** **einen Apfel**. |
-| **schicken** | meiner Freundin | eine Karte | Ich schicke **meiner Freundin** **eine Karte**. |
-| **bringen** | den Gästen | Getränke | Ich bringe **den Gästen** **Getränke**. |
-| **zeigen** | meinem Bruder | das Foto | Ich zeige **meinem Bruder** **das Foto**. |
-| **erklären** | den Schülern | die Regel | Ich erkläre **den Schülern** **die Regel**. |
-| **sagen** | ihr | die Wahrheit | Ich sage **ihr** **die Wahrheit**. |
-| **schreiben** | meinem Vater | einen Brief | Ich schreibe **meinem Vater** **einen Brief**. |
-| **wünschen** | dir | alles Gute | Ich wünsche **dir** **alles Gute**. |
-| **empfehlen** | dem Kollegen | ein Restaurant | Ich empfehle **dem Kollegen** **ein Restaurant**. |
-| **leihen** | meiner Schwester | mein Auto | Ich leihe **meiner Schwester** **mein Auto**. |
+Bruno kauft das Buch und packt es schön ein. Anna schreibt die Karte, und alle unterschreiben sie. „Zeig sie mir mal", sagt Yuki. Anna gibt ihr die Karte. „Sehr schön!", sagt Yuki.
 
-> ⚠️ **Memory key:** *Wem? was?* The person comes first in the sentence.
+Am Geburtstag überreichen sie Frau Weber das Geschenk. „Wir möchten Ihnen etwas schenken", sagt Bruno. Frau Weber ist überrascht und sehr gerührt. „Das hätten Sie doch nicht machen müssen! Vielen, vielen Dank — das ist wunderbar." Sie liest die Karte und lächelt. „Ihr habt mir eine große Freude gemacht."
 
-**Special case — `kaufen` takes `für + Akk`, not dative:**
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
 
-| | construction | Example |
-|---|---|---|
-| schenken, geben, … | Dativ + Akkusativ | Ich schenke **meinem Bruder** ein Buch. |
-| **kaufen** | **für + Akkusativ** | Ich kaufe **für meinen Bruder** ein Buch. |
-
-> Why? With `kaufen`, the recipient is not a true indirect object — the action is *buying*, not *giving*. So we use a prepositional phrase: `für + Akk`.
-
-> 📌 **Merkasten — Two-object verbs:** High-frequency verbs that take **Dativ + Akkusativ**: *geben, schenken, bringen, zeigen, erklären, empfehlen, schicken, schreiben, wünschen, leihen, sagen*. Pattern: **Who does WHAT to WHOM → verb + Dat (person) + Akk (thing)**. Exception: *kaufen* uses **für + Akk** for the recipient, not the dative.
-
----
-
-### 4.2 Word order — three cases to remember
-
-The most common mistake with two-object verbs is putting the objects in the wrong order. The rules are:
-
-| Situation | Order | Example |
-|---|---|---|
-| **Two nouns** | **Dativ noun before Akkusativ noun** | Ich schenke **meiner Schwester** **ein Buch**. |
-| **Pronoun + noun** | **Pronoun first, no matter the case** | Ich schenke **ihr** **ein Buch**. |
-| **Two pronouns** | **Akkusativ pronoun before Dativ pronoun** | Ich schenke **es** **ihr**. |
-
-> 📌 **Merkasten — Word order rules:** Three cases to remember: **(1)** Two nouns → **Dativ noun first**, then Akkusativ noun. **(2)** Pronoun + noun → **pronoun first**, regardless of its case. **(3)** Two pronouns → **Akkusativ pronoun first**, then Dativ pronoun.
-
----
-
-### 4.3 Two nouns: Dativ before Akkusativ
-
-When both objects are **nouns**, the dative (person) always comes **first**:
-
-> Ich schenke **meiner Schwester** **ein Buch**.  
-> Ich gebe **dem Kind** **einen Apfel**.  
-> Ich erkläre **den Schülern** **die Regel**.  
-> Ich bringe **meinen Freunden** **Getränke** mit.
-
-| | Dativ noun (person) | Akkusativ noun (thing) |
-|---|---|---|
-| masc. | dem Bruder | einen Pullover |
-| fem. | der Schwester | eine Karte |
-| neut. | dem Kind | ein Buch |
-| pl. | den Freunden | Blumen |
-
-> ⚠️ **L1 trap — English:** English doesn't have a fixed order for two objects ("I gave the book to my sister" / "I gave my sister the book"). German does. Memorize: *Dativ noun → Akkusativ noun.*
-
-> 📌 **Merkasten — Two nouns:** When both objects are nouns, **Dativ (person) comes before Akkusativ (thing)** — always. Example: "Ich gebe **meiner Mutter** **das Buch**."
-
----
-
-### 4.4 Pronoun + noun: the pronoun comes first
-
-When one of the objects is replaced by a **pronoun**, the pronoun always comes **first** — regardless of which case (Dat or Akk) it stands for:
-
-> Ich schenke **ihr** **ein Buch**. (ihr = Dat, ein Buch = Akk)  
-> Ich schenke **es** **meiner Schwester**. (es = Akk, meiner Schwester = Dat)  
-> Ich erkläre **es** **den Schülern**.  
-> Ich schreibe **ihm** **eine Karte**.
-
-> ⚠️ **The pronoun rule beats the case rule.** Even if the pronoun is accusative and the noun is dative, the pronoun still goes first: *Ich schenke **es** **ihm**.* (NOT: *Ich schenke ihm es.*)
-
-> 📌 **Merkasten — Pronoun + noun:** When one object is a pronoun, the **pronoun always comes first** — regardless of whether it is Dativ or Akkusativ. Example: "Ich gebe **es** meiner Mutter." (Akk pronoun before Dat noun) / "Ich gebe **ihr** das Buch." (Dat pronoun before Akk noun).
-
----
-
-### 4.5 Two pronouns: Akkusativ before Dativ
-
-When **both** objects are pronouns, the **Akkusativ pronoun comes first**, then the **Dativ pronoun**:
-
-> Ich schenke **es** **ihr**. (es = Akk, ihr = Dat)  
-> Ich gebe **es** **ihm**.  
-> Ich erkläre **es** **ihnen**.  
-> Ich bringe **sie** **dir**. (sie = Akk, dir = Dat)  
-> Ich schreibe **es** **ihm** morgen.
-
-> ⚠️ **L1 trap — English again:** English would say "I give it to her." German puts both pronouns in the **Mittelfeld**, with **Akkusativ before Dativ** — no preposition needed.
-
-> 📌 **Merkasten — Two pronouns:** When both objects are pronouns, **Akkusativ comes before Dativ** — the reverse of the noun rule. Example: "Ich gebe **es** **ihr**." (es = Akk, ihr = Dat). No preposition between them.
-
----
-
-### 4.6 Putting it all together — the full picture
-
-| Case 1: noun + noun | Case 2: pronoun + noun | Case 3: pronoun + pronoun |
-|---|---|---|
-| Dat noun **→** Akk noun | Pronoun (any case) **→** Noun | Akk pronoun **→** Dat pronoun |
-| Ich schenke **meiner Schwester** **ein Buch**. | Ich schenke **ihr** **ein Buch**. | Ich schenke **es** **ihr**. |
-| Ich erkläre **den Schülern** **die Regel**. | Ich erkläre **sie** **den Schülern**. | Ich erkläre **sie** **ihnen**. |
-| Ich schreibe **meinem Vater** **einen Brief**. | Ich schreibe **ihm** **einen Brief**. | Ich schreibe **ihn** **ihm**. |
-
-> **Quick check:** when you have a sentence with two objects, ask:  
-> 1. Is it two nouns? → Dativ noun first.
-> 2. Is one a pronoun? → The pronoun is first.
-> 3. Are both pronouns? → Akkusativ pronoun first, then Dativ pronoun.
-
-> 📌 **Merkasten — Full picture summary:**
+> **1. Was ist Brunos Idee?**
+> *Sie kaufen Frau Weber zusammen ein Geschenk.*
 >
-> | Situation | Order | Example |
+> **2. Was schenken sie ihr?**
+> *Sie schenken ihr ein Buch über Berlin.*
+>
+> **3. Was macht Bruno zusätzlich zum Geschenk?**
+> *Er schreibt ihr eine Karte von der ganzen Gruppe.*
+
+</details>
+
+---
+
+## 6. Grammatik
+
+### 6.1 Two-object verbs — a person in Dativ, a thing in Akkusativ
+
+**Warum?** Some verbs naturally involve *two* things at once: you give *something* to *someone*. German handles this with two objects — the **person** (the receiver) goes in the **Dativ**, and the **thing** goes in the **Akkusativ**: *Ich schenke **meiner Mutter** **ein Buch**.* English does the same thing but hides it ("I give my mother a book"), so the cases are invisible. In German they're marked, so you must know which is which. The test: **Wem?** (to whom?) → Dativ person; **Was?** (what?) → Akkusativ thing. One important exception: **`kaufen`** doesn't take a dative receiver — it uses **`für` + Akkusativ**: *Ich kaufe **für meinen Bruder** ein Buch* (because the action is *buying*, not *giving to*).
+
+| Verb | Dativ (person, *wem?*) | Akkusativ (thing, *was?*) |
+|---|---|---|
+| schenken | meiner Schwester | ein Buch |
+| geben | dem Kind | einen Apfel |
+| schicken | meiner Freundin | eine Karte |
+| zeigen | meinem Bruder | das Foto |
+| empfehlen | dem Kollegen | ein Restaurant |
+
+**Examples:**
+
+1. Ich schenke **meiner Mutter** **ein Buch**. — *Wem? meiner Mutter (Dat). Was? ein Buch (Akk).*
+2. Er gibt **dem Kind** **einen Apfel**.
+3. Anna schickt **ihrer Freundin** **eine Karte**.
+4. Ich zeige **meinem Bruder** **das Foto**.
+5. Frau Weber empfiehlt **Herrn Steinmeyer** **ein Buch**.
+6. Ich wünsche **dir** **alles Gute**.
+7. Bruno schreibt **seiner Mutter** **eine Karte**.
+8. Aber: Ich kaufe **für meinen Bruder** **ein Geschenk**. — *kaufen → für + Akk*
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich schenke **meine Mutter** ein Buch.* | *Ich schenke **meiner Mutter** ein Buch.* (person → Dativ) |
+> | *Ich gebe dem Kind **einem Apfel**.* | *Ich gebe dem Kind **einen Apfel**.* (thing → Akkusativ) |
+> | *Ich kaufe **meinem Bruder** ein Buch.* (sounds like giving) | *Ich kaufe **für meinen Bruder** ein Buch.* (kaufen → für + Akk) |
+> | *Ich schenke **für meine Mutter** ein Buch.* | *Ich schenke **meiner Mutter** ein Buch.* (schenken → Dativ, no für) |
+
+> 💡 **Lerntipp:** Ask two questions in order: **Wem?** then **Was?** The answer to *Wem?* is your Dativ person; the answer to *Was?* is your Akkusativ thing. Learn the gift-verbs as a family (*geben, schenken, schicken, zeigen, empfehlen, leihen, schreiben, wünschen*) — they all share the Dat+Akk pattern. Only *kaufen* breaks rank with *für*.
+
+**Versuch es selbst.** Setz die richtigen Endungen: Ich schenke (mein__ Vater) (ein__ Krimi).
+
+<details>
+<summary>📝 Lösung</summary>
+
+> Ich schenke **meinem Vater** **einen Krimi**. *(Dativ Mask → meinem; Akkusativ Mask → einen)*
+
+</details>
+
+> 📌 **Merkasten — Zwei-Objekt-Verben**
+> | Dativ (Person, *wem?*) | Akkusativ (Sache, *was?*) |
+> |---|---|
+> | meiner Mutter | ein Buch |
+>
+> ▶ *geben, schenken, schicken, zeigen, empfehlen, leihen, schreiben, wünschen* → Dat + Akk. ▶ *kaufen* → **für** + Akk.
+
+---
+
+### 6.2 Word order I — two nouns, and pronoun + noun
+
+**Warum?** Once you have two objects, which comes first? English is flexible ("I gave my sister the book" / "…the book to my sister"); German is not. Two rules cover most cases. **(1) Two nouns → Dativ (person) before Akkusativ (thing):** *Ich gebe **meiner Schwester** **das Buch**.* **(2) If one object is a pronoun → the pronoun comes first**, no matter its case: *Ich gebe **ihr** das Buch* (Dat pronoun first) and *Ich gebe **es** meiner Schwester* (Akk pronoun first). The logic: pronouns are "light" old information, so German pushes them toward the front. This pronoun-first rule is stronger than the case rule.
+
+**Examples:**
+
+*Two nouns (Dat → Akk):*
+1. Ich schenke **meiner Schwester** **ein Buch**.
+2. Er gibt **dem Kind** **einen Apfel**.
+3. Wir bringen **den Gästen** **Getränke**.
+4. Anna schreibt **ihrem Vater** **einen Brief**.
+
+*Pronoun + noun (pronoun first):*
+5. Ich schenke **ihr** **ein Buch**. — *Dat pronoun + Akk noun*
+6. Ich schenke **es** **meiner Schwester**. — *Akk pronoun + Dat noun*
+7. Ich zeige **ihm** **das Foto**.
+8. Ich erkläre **es** **den Schülern**.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich gebe **das Buch meiner Schwester**.* | *Ich gebe **meiner Schwester das Buch**.* (two nouns: Dat first) |
+> | *Ich schenke **ein Buch ihr**.* | *Ich schenke **ihr ein Buch**.* (pronoun first) |
+> | *Ich schenke **meiner Schwester es**.* | *Ich schenke **es meiner Schwester**.* (pronoun first, even Akk) |
+
+> 💡 **Lerntipp:** Remember two slogans. Two nouns? **"Person first"** (Dativ → Akkusativ). One pronoun in the mix? **"Pronoun jumps to the front"** — it doesn't matter whether it's *ihr* (Dat) or *es* (Akk), the pronoun leads. Light, short words run ahead; heavy nouns follow.
+
+**Versuch es selbst.** Ordne richtig: (1) ein Buch / ihr / ich schenke. (2) das Foto / ich zeige / meinem Bruder.
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *(1)* Ich schenke **ihr ein Buch**. *(pronoun first)*
+> *(2)* Ich zeige **meinem Bruder das Foto**. *(two nouns: Dat first)*
+
+</details>
+
+> 📌 **Merkasten — Reihenfolge I**
+> | Situation | Reihenfolge |
+> |---|---|
+> | Nomen + Nomen | **Dativ → Akkusativ** (Ich gebe meiner Mutter das Buch.) |
+> | Pronomen + Nomen | **Pronomen zuerst** (Ich gebe es meiner Mutter. / Ich gebe ihr das Buch.) |
+
+---
+
+### 6.3 Word order II — two pronouns: Akkusativ before Dativ
+
+**Warum?** Here's the twist that surprises everyone: when **both** objects are pronouns, the order **flips**. Now the **Akkusativ pronoun comes first**, then the Dativ pronoun: *Ich schenke **es ihr**.* (es = Akk, ihr = Dat). This is the exact opposite of the two-noun rule! Why? Because with two short pronouns German prefers the rhythm *Akk → Dat* — and you'll hear it everywhere, so it becomes natural fast. Keep the pronoun cases straight (Dat *mir/dir/ihm/ihr/uns/euch/ihnen* vs. Akk *mich/dich/ihn/sie/es/uns/euch/sie*), because *sie/ihr/ihnen* look confusingly similar.
+
+| Dativ | mir | dir | ihm | ihr | uns | euch | ihnen |
+|---|---|---|---|---|---|---|---|
+| Akkusativ | mich | dich | ihn | sie | uns | euch | sie |
+
+**Examples:**
+
+1. Ich schenke **es ihr**. — *es (Akk) → ihr (Dat)*
+2. Ich gebe **es ihm**.
+3. Ich erkläre **es ihnen**.
+4. Ich bringe **sie dir**. — *sie (Akk) → dir (Dat)*
+5. Zeig **es mir**! — *imperative*
+6. Er schreibt **ihn ihr** morgen. — *ihn (Akk) → ihr (Dat)*
+7. Wir schenken **es euch**.
+8. Sie gibt **sie uns**.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich schenke **ihr es**.* | *Ich schenke **es ihr**.* (two pronouns: Akk first) |
+> | *Ich gebe **ihm es**.* | *Ich gebe **es ihm**.* |
+> | *Zeig **mir es**!* | *Zeig **es mir**!* |
+> | *Ich schenke **es sie**.* (wrong case) | *Ich schenke **es ihr**.* (recipient → Dativ ihr) |
+
+> 💡 **Lerntipp:** Hold both rules side by side so the flip sticks: **two nouns = Dativ first** (*meiner Mutter das Buch*), but **two pronouns = Akkusativ first** (*es ihr*). A memory hook: pronouns are in a hurry, and the *thing* (Akkusativ *es*) races out the door before the *person* (Dativ *ihr*). Chant: *„es ihr, es ihm, es ihnen."*
+
+**Versuch es selbst.** Ersetze beide Objekte durch Pronomen: *Ich schenke meiner Schwester das Buch.* → ?
+
+<details>
+<summary>📝 Lösung</summary>
+
+> Ich schenke **es ihr**. *(das Buch → es (Akk); meiner Schwester → ihr (Dat); Akk zuerst)*
+
+</details>
+
+> 📌 **Merkasten — Reihenfolge II**
+> | Situation | Reihenfolge | Beispiel |
 > |---|---|---|
-> | Two nouns | Dat noun → Akk noun | Ich gebe **meiner Mutter** **das Buch**. |
-> | Pronoun + noun | Pronoun (any case) → Noun | Ich gebe **es** meiner Mutter. / Ich gebe **ihr** das Buch. |
-> | Two pronouns | Akk pronoun → Dat pronoun | Ich gebe **es** **ihr**. |
-
----
-
-### 4.7 Pronouns at a glance (Dativ + Akkusativ)
-
-You need to recognize which pronoun is which case:
-
-| | Dativ (person) | Akkusativ (thing) |
-|---|---|---|
-| ich | mir | mich |
-| du | dir | dich |
-| er | ihm | ihn |
-| sie | ihr | sie |
-| es | ihm | es |
-| wir | uns | uns |
-| ihr | euch | euch |
-| sie / Sie | ihnen / Ihnen | sie / Sie |
-
-> ⚠️ **Watch out for `sie` / `ihr` / `ihnen`:** they are easy to confuse!
-> - **sie** (Akk) = "her" — accusative, direct object (thing or person-as-thing)
-> - **ihr** (Dat) = "her" — dative, indirect object (person)
-> - **ihnen** (Dat pl.) = "them" — dative plural
-> - **Sie** (formal) = "you" — same form in Nom and Akk
-
-> 📌 **Merkasten — Dativ pronouns at a glance:**
+> | zwei Pronomen | **Akkusativ → Dativ** | Ich gebe **es ihr**. |
 >
-> | ich | du | er | sie | es | wir | ihr | sie/Sie |
-> |---|---|---|---|---|---|---|---|
-> | **mir** | **dir** | **ihm** | **ihr** | **ihm** | **uns** | **euch** | **ihnen/Ihnen** |
->
-> Tip: *mir, dir* rhyme; *ihm* appears for both *er* and *es*; *ihr* (Dat sg.) ≠ *ihnen* (Dat pl.).
+> ▶ Genau umgekehrt zur Nomen-Regel! Nomen: Dat→Akk · Pronomen: Akk→Dat.
 
 ---
 
-### 4.8 Pronunciation: tricky sounds in this lesson
+### 6.4 Pronunciation: gift & celebration sounds
 
-A few sounds and patterns to watch in the new vocabulary:
+**Warum?** This lesson's vocabulary clusters around three sounds learners often blur: *sch* (always "sh"), the soft *ch*, and the diphthongs *eu* ("oy") and *ei* ("eye"). Getting *schenken* right matters — say it carelessly and it drifts toward *Schinken* (ham)!
 
-- **sch** in *Geschenk, schenken, schicken, schön* — always /ʃ/ like English "sh": `geh-SHEnk`, `SHEN-ken`.
-- **ch** in *Geschenke, möchte, Bücher* — soft "ich-sound" after `e`, `i`, `ö`, `ü`, consonants: `geh-SHEN-kuh`.
-- **eu** in *Freude, Freund, neu* — always /ɔɪ/ like English "oy": `FROY-duh`.
-- **ei** in *schenken, zeigen, schreiben, empfehlen* — always /aɪ/ like English "eye": `SHEN-ken`, `TSY-gen`.
-- **umlauts in verbs** *empfiehlt, schickt, gibt, bringt* — note the short vowel sound in the stem, especially the `e → i` / `e → ie` shifts.
-- **Stress on compounds** *GE-schenk, GEB-tags-tag, MIT-bring-en* — usually the first element is stressed, but for trennbare Verben the stress falls on the prefix (mitspielen, einpacken).
-- **The verb `schenken`** sounds almost identical to `Schinken` (ham) — context matters!
+- **sch** in *Geschenk, schenken, schicken, schön* — always /ʃ/ "sh": *geh-SHENK*.
+- **ch** (soft) in *Geschenke, möchte, Bücher* — the light "ich-sound."
+- **eu** in *Freude, Freund, neu* — like English "oy": *FROY-duh*.
+- **ei** in *zeigen, schreiben, leihen* — like English "eye": *TSY-gen*.
+- **Stress on prefixes** of separable verbs: *MIT-bringen, EIN-packen, ÜBER-reichen*? — note *überreichen* is inseparable, stress on *-REI-*.
+
+> 💡 **Lerntipp:** Mind the minimal pair: *sch**e**nken* (to give, soft *e*) vs. *Sch**i**nken* (ham). When you wish someone *„Ich schenke dir etwas"*, open that *e* clearly — otherwise you've just offered them ham. Practise: *schenken, Schinken, schenken* until the vowels feel distinct.
 
 ---
 
-## 5. Lesetext: Annas Geschenk für Lisa
+## 7. Lesetext: Annas Geschenk für Lisa
+
+*(You'll work with this text in the exercises — Block C, Lesen.)*
 
 Anna möchte ihrer Freundin Lisa zum Geburtstag etwas schenken. Lisa hat nächste Woche Geburtstag, und Anna hat lange überlegt, was sie ihr schenken soll. „Lisa liest so gern Krimis", denkt Anna. „Ich schenke ihr ein spannendes Buch."
 
@@ -344,11 +395,9 @@ Zu Hause schreibt Anna eine Karte: „Liebe Lisa, zu deinem Geburtstag schenke i
 
 Am Sonntag bringt Anna das Geschenk zu Lisa. Lisa öffnet das Paket und freut sich riesig: „Oh, das ist ja genau das, was ich wollte! Vielen Dank, Anna!" Anna lächelt: „Gern geschehen! Ich schenke dir gern etwas Schönes."
 
-*(You'll work with this text in the exercises — Block C, Lesen.)*
-
 ---
 
-## 6. Hörtext
+## 8. Hörtext
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
@@ -363,17 +412,35 @@ Am Sonntag bringt Anna das Geschenk zu Lisa. Lisa öffnet das Paket und freut si
 
 ---
 
-## 7. Lernstrategie
+## 9. Magazin — Landeskunde
 
-**The "double-object" framework drill:** Pick **one** two-object verb (e.g. `schenken`) and produce 12 sentences in three rows:
+### Pünktlich gratulieren — bloß nicht zu früh!
 
-| Row 1: noun + noun | Row 2: pronoun + noun | Row 3: pronoun + pronoun |
-|---|---|---|
-| Ich schenke **meinem Bruder** **ein Buch**. | Ich schenke **ihm** **ein Buch**. | Ich schenke **es** **ihm**. |
-| Sie schenkt **ihrer Schwester** **eine Karte**. | Sie schenkt **ihr** **eine Karte**. | Sie schenkt **sie** **ihr**. |
-| Wir schenken **den Kindern** **Spielzeug**. | Wir schenken **ihnen** **Spielzeug**. | Wir schenken **es** **ihnen**. |
-| … (3 more rows) | … | … |
+In Deutschland gibt es eine kleine, aber ernste Regel: Man gratuliert **niemals vor** dem Geburtstag. Wer jemandem schon einen Tag früher „Alles Gute" wünscht, bringt angeblich Unglück. Lieber wartet man bis zum richtigen Tag — oder bis Mitternacht, dann wird in manchen Familien „reingefeiert".
 
-Write each row out by hand, then read them aloud. The parallel structure helps your brain lock in the three cases. Do this for `schenken`, then `empfehlen`, then `schicken`, then `bringen` — by the end of the week, the order will feel automatic.
+> „Vorher gratulieren bringt Pech" — das glauben sogar Leute, die sonst gar nicht abergläubisch sind.
 
-➡️ **Now do `exercises.md`. Check yourself with `solutions.md` only afterwards.**
+Auch das Schenken hat seine Formen: Blumen schenkt man oft, aber rote Rosen bedeuten Liebe — Vorsicht bei der Kollegin! Und ein typisch deutsches Detail: Man packt Geschenke gern sorgfältig ein und überreicht sie persönlich. Das Auspacken vor allen Gästen gehört dazu — und ein ehrliches „Danke" sowieso.
+
+---
+
+## 10. Lernstrategie
+
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jedes Zwei-Objekt-Verb (wem? / was?)
+- Wortschatz §4 (Geschenke + Verben) mit verdeckter Spalte testen
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
+
+### Tag 2 (30 min) — Vertiefung
+- Grammatik §6.1 und §6.2: 6 Sätze mit Nomen + Nomen, dann mit Pronomen + Nomen schreiben
+- Die „Drei-Reihen"-Übung: ein Verb (*schenken*) in allen drei Reihenfolgen durchspielen
+- *Versuch es selbst* in §6.1, §6.2 und §6.3 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Grammatik §6.3 (zwei Pronomen, Akk→Dat): 8 Sätze umformen (*…es ihr*)
+- Hörtext §8 hören, Transkript erst danach öffnen, alle Objekte heraushören
+- Lesetext §7 lesen, jedes Objektpaar markieren und Fall + Reihenfolge prüfen — dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
