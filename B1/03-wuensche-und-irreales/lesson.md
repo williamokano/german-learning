@@ -1,3 +1,24 @@
+---
+level: B1
+number: 3
+slug: wuensche-und-irreales
+title: Wünsche und Irreales
+titleEn: Wishes and Hypotheticals
+canDo:
+  - express wishes and dreams
+  - describe hypothetical situations
+  - give advice
+  - talk about what you would do if things were different
+grammar:
+  - "Konjunktiv II — würde + Infinitiv (weak form)"
+  - "strong forms wäre, hätte, könnte, müsste, dürfte, sollte"
+  - "irreale Bedingungssätze (Wenn ich … hätte/wäre, würde ich …) and advice structures"
+buildsOn:
+  - A2/09 (Konjunktiv II intro for polite requests)
+  - B1/01 (Präteritum of modals)
+  - B1/02 (contrast connectors)
+---
+
 # B1 · Lektion 3 — Wünsche und Irreales (Wishes and Hypotheticals)
 
 > **You will learn to:** express wishes and dreams, describe hypothetical
@@ -83,7 +104,13 @@
 
 ---
 
-## 2. Redemittel
+## 2. Einstieg — Was lernst du heute?
+
+*Was wäre, wenn …?* Diese kleine Frage öffnet eine ganze Welt: Wünsche, Träume, Ratschläge, Bedauern. Auf Deutsch brauchst du dafür den **Konjunktiv II** — die Form, mit der du über Dinge sprichst, die *nicht real* sind: *Wenn ich Zeit **hätte**, **würde** ich reisen.* Du kennst schon ein paar höfliche Formen aus A2/09 (*ich hätte gern, könnten Sie …?*); jetzt baust du das komplette System auf: die Allzweck-Form *würde + Infinitiv*, die starken Formen (*wäre, hätte, könnte …*), die irrealen Bedingungssätze und die Ratschlag-Strukturen. This is the grammar of imagination — the moment German lets you step out of reality and into "what if."
+
+---
+
+## 3. Redemittel
 
 ### Wünsche ausdrücken (expressing wishes)
 
@@ -132,9 +159,11 @@
 
 ---
 
-## 3. Wortschatz
+## 4. Wortschatz
 
 ### Träume und Wünsche (dreams and wishes)
+
+> 💡 **Lerntipp:** Lern diese abstrakten Nomen mit ihrem typischen Verb: *einen Traum **haben**, einen Wunsch **äußern**, eine Chance **ergreifen**, eine Entscheidung **treffen**, eine Möglichkeit **nutzen***. Das Nomen + Verb als feste Kombination („Funktionsverbgefüge") klingt sofort idiomatischer.
 
 | Nomen | Englisch |
 |---|---|
@@ -153,6 +182,8 @@
 
 ### Verben für Wünsche und Hypothesen
 
+> 💡 **Lerntipp:** Diese Verben sind das Vokabular der Veränderung — *wagen, ausprobieren, anfangen, unternehmen*. Üb sie gleich im Konjunktiv II: *Ich würde es **wagen**, ich würde es **ausprobieren**.* Vier davon sind unregelmäßig (⚠️) — merk dir die er-Form mit Vokalwechsel.
+
 | Verb | Englisch |
 |---|---|
 | wünschen | to wish |
@@ -169,6 +200,8 @@
 
 ### Adjektive für Hypothesen und Träume
 
+> 💡 **Lerntipp:** Gegensatzpaare sparen Zeit: *möglich ↔ unmöglich*, *realistisch ↔ utopisch*, *mutig ↔ ängstlich*. Mit ihnen kannst du jeden Traum sofort einordnen: „Das wäre zwar **utopisch**, aber nicht ganz **unmöglich**."
+
 | Adjektiv | Englisch |
 |---|---|
 | mutig | brave, courageous |
@@ -181,256 +214,230 @@
 | bereit | ready, willing |
 | konkret | concrete, specific |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.
+
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Wenn wir im Lotto gewinnen würden
 
-### 4.1 `würde + Infinitiv` — the weak Konjunktiv II
+Lies den Text zuerst zügig. Beim zweiten Lesen markiere jede Konjunktiv-II-Form: die starken Formen (*wäre, hätte, könnte*) und jedes *würde + Infinitiv*.
 
-**Konjunktiv II** expresses wishes, hypotheticals, and advice — situations that
-are **not real** (contrary-to-fact). Think: "what would happen if things were
-different."
+Es ist Freitagabend, und Anna, Bruno und Mia sitzen zusammen. Im Fernsehen läuft die Lottoziehung. „Stell dir vor, wir würden gewinnen", sagt Mia. „Was würdet ihr mit den Millionen machen?"
 
-The easiest and most common Konjunktiv II form is **`würde + Infinitiv`**. Use
-this for almost all regular verbs and many irregular verbs. The infinitive goes
-to the end (same rule as modal constructions).
+Bruno überlegt nicht lange. „Wenn ich so viel Geld hätte, würde ich sofort kündigen und eine Weltreise machen. Und ich würde endlich eine richtige Kamera kaufen — ich wünschte, ich hätte schon längst mit der Fotografie angefangen."
 
-| Person | Form | Example |
-|---|---|---|
-| ich | würde | Ich **würde** nach Lissabon **ziehen**. |
-| du | würdest | Du **würdest** das lieben. |
-| er/sie/es | würde | Er **würde** Fotograf **werden**. |
-| wir | würden | Wir **würden** viel **reisen**. |
-| ihr | würdet | Ihr **würdet** das bestimmt **mögen**. |
-| sie/Sie | würden | Sie **würden** es **bereuen**. |
+Anna lacht. „Typisch! Ich glaube, ich wäre vorsichtiger. Wenn ich gewinnen würde, würde ich nicht alles ausgeben. Ich würde eine kleine Wohnung kaufen und den Rest sparen. Aber eine Reise nach Lissabon — die würde ich mir natürlich gönnen."
 
-> **Wenn ich Zeit hätte, würde ich einen Kurs machen.**
-> (If I had time, I would take a course.)
+„Ihr seid beide so vernünftig", sagt Mia. „An eurer Stelle würde ich erst mal ein großes Fest feiern! Wenn ich Millionärin wäre, würde ich alle meine Freunde einladen." Sie schaut auf den Fernseher. „So, gleich kommen die Zahlen."
+
+Die Kugeln rollen. Keine einzige Zahl stimmt. Die drei schauen sich an und lachen. „Na ja", sagt Bruno. „Wenn ich ehrlich bin, brauche ich die Millionen gar nicht. Ich sollte einfach nächste Woche den Fotokurs buchen — das kann ich mir auch so leisten." Anna nickt: „Genau. Manche Träume kosten gar nicht so viel."
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Was würde Bruno mit dem Geld machen?**
+> *Er würde kündigen, eine Weltreise machen und eine richtige Kamera kaufen.*
 >
-> **Bruno würde gern nach Tokio fahren.**
-> (Bruno would like to go to Tokyo.)
+> **2. Wie würde sich Anna verhalten?**
+> *Sie wäre vorsichtiger — sie würde eine Wohnung kaufen, sparen und nur eine Reise machen.*
 >
-> **Was würdest du tun, wenn du frei wärst?**
-> (What would you do if you were free?)
+> **3. Was merkt Bruno am Ende?**
+> *Dass er die Millionen gar nicht braucht — er sollte einfach den Fotokurs buchen.*
+
+</details>
+
+---
+
+## 6. Grammatik
+
+### 6.1 `würde + Infinitiv` — the all-purpose Konjunktiv II
+
+**Warum?** Konjunktiv II is the mood of the *unreal* — wishes, hypotheticals, advice, things that aren't (yet) true. You already used a few polite forms in A2/09; now meet the workhorse that covers almost everything: **`würde` + infinitive**. It works exactly like English "would + verb" (*ich **würde** reisen* = "I **would** travel"), and structurally like a modal: `würde` conjugates in position 2, the infinitive parks at the end. For the vast majority of verbs, this is the form to reach for. Only a small group of very common verbs (sein, haben, the modals) prefer their own one-word forms — those come next in §6.2.
+
+| ich | du | er/sie/es | wir | ihr | sie/Sie |
+|---|---|---|---|---|---|
+| würde | würdest | würde | würden | würdet | würden |
+
+**Examples:**
+
+1. Ich **würde** nach Lissabon **ziehen**.
+2. Bruno **würde** gern als Fotograf **arbeiten**.
+3. Was **würdest** du **tun**, wenn du frei wärst?
+4. Wir **würden** viel **reisen**.
+5. An deiner Stelle **würde** ich das sofort **angehen**.
+6. Sie **würden** es bestimmt **bereuen**.
+7. Am liebsten **würde** ich ein Jahr durch Europa **reisen**.
+8. Ohne dich **würde** ich das nie **schaffen**.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich würde nach Lissabon **ziehe**.* | *Ich würde nach Lissabon **ziehen**.* (infinitive at the end) |
+> | *Ich **wurde** gern reisen.* | *Ich **würde** gern reisen.* (umlaut! *wurde* = past of werden) |
+> | *Ich würde **sein** glücklich.* | *Ich **wäre** glücklich.* (sein → use the strong form, §6.2) |
+
+> 💡 **Lerntipp:** `würde + Infinitiv` is your safe default. When you want to say something hypothetical and aren't sure of the one-word form, *würde + Infinitiv* almost always works — except for *sein/haben* and the modals (use *wäre/hätte/könnte…*). Think of `würde` as "would," conjugated, with the action verb at the end.
+
+**Versuch es selbst.** Schreib 2 Sätze: Was würdest du am Wochenende machen, wenn du frei hättest?
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich **würde** lange **schlafen** und dann mit Freunden **brunchen**.*
+> *Am Nachmittag **würde** ich ins Museum **gehen**.*
+
+</details>
 
 > 📌 **Merkasten — `würde + Infinitiv`**
->
-> | Rule | Note |
+> | würde (Position 2) | + Infinitiv (Ende) |
 > |---|---|
-> | `würde` conjugates for the subject | `ich würde`, `du würdest`, … |
-> | Infinitive goes to the **end** | `Ich würde nach Berlin **fahren**.` |
-> | Use for most verbs | regular verbs + most irregular ones |
-> | Exception: sein, haben, modals | use their own strong forms (→ §4.2) |
+> | ich würde / du würdest / er würde | … reisen / ziehen / machen |
 >
-> ▶ `würde` is the Konjunktiv II of `werden`. The infinitive at the end is
-> the "content verb" that tells you what would happen.
+> ▶ Allzweckform für fast alle Verben. ▶ Ausnahme: sein, haben, Modalverben → §6.2.
 
 ---
 
-### 4.2 Strong Konjunktiv II forms: `wäre`, `hätte`, `könnte`, `müsste`, `dürfte`, `sollte`
+### 6.2 Strong forms — `wäre, hätte, könnte, müsste, dürfte, sollte`
 
-For the six most important verbs (`sein`, `haben`, `können`, `müssen`,
-`dürfen`, `sollen`), German uses **dedicated strong forms** instead of
-`würde + Infinitiv`.
+**Warum?** For the most frequent verbs, German skips `würde` and uses dedicated one-word forms. The two big ones are **`wäre`** (sein) and **`hätte`** (haben): you must *never* say *würde sein* / *würde haben* — it sounds badly wrong to a native ear. The modals follow the same logic: **`könnte`** (could), **`müsste`** (would have to), **`dürfte`** (would be allowed to), **`sollte`** (should). Helpfully, these all look like the Präteritum with an umlaut added (*konnte → könnte*, *musste → müsste*), so they're easy to recognise. Master these six and you cover most real hypotheticals — *wäre/hätte* alone appear in nearly every wish.
 
-⚠️ **Do NOT say `würde sein` or `würde haben`** — these sound very unnatural.
-Use `wäre` and `hätte` instead.
+| sein | haben | können | müssen | dürfen | sollen |
+|---|---|---|---|---|---|
+| wäre | hätte | könnte | müsste | dürfte | sollte |
 
-#### `wäre` (= Konjunktiv II of `sein`)
+**Examples:**
 
-| Person | Form |
-|---|---|
-| ich | wäre |
-| du | wärst |
-| er/sie/es | wäre |
-| wir | wären |
-| ihr | wärt |
-| sie/Sie | wären |
+1. Wenn ich frei **wäre**, würde ich reisen.
+2. Ich wünschte, ich **hätte** mehr Zeit.
+3. Wenn du **könntest**, wohin würdest du gehen?
+4. Wenn ich nicht arbeiten **müsste**, würde ich sofort anfangen.
+5. Wenn ich **dürfte**, würde ich kündigen.
+6. Du **solltest** dich anmelden. *(advice)*
+7. Das **wäre** wunderbar!
+8. **Hättest** du Lust auf einen Kaffee?
 
-> *Wenn ich frei **wäre**, würde ich reisen.* (If I were free, I would travel.)
-
-#### `hätte` (= Konjunktiv II of `haben`)
-
-| Person | Form |
-|---|---|
-| ich | hätte |
-| du | hättest |
-| er/sie/es | hätte |
-| wir | hätten |
-| ihr | hättet |
-| sie/Sie | hätten |
-
-> *Ich wünschte, ich **hätte** mehr Zeit.* (I wish I had more time.)
-
-#### `könnte` (= Konjunktiv II of `können`)
-
-| Person | Form |
-|---|---|
-| ich | könnte |
-| du | könntest |
-| er/sie/es | könnte |
-| wir | könnten |
-| ihr | könntet |
-| sie/Sie | könnten |
-
-> *Wenn du **könntest**, wohin würdest du fahren?* (If you could, where would you go?)
-
-#### `müsste` (= Konjunktiv II of `müssen`)
-
-| Person | Form |
-|---|---|
-| ich | müsste |
-| du | müsstest |
-| er/sie/es | müsste |
-| wir | müssten |
-| ihr | müsstet |
-| sie/Sie | müssten |
-
-> *Wenn ich nicht arbeiten **müsste**, würde ich sofort anfangen.* (If I didn't have to work, I'd start right away.)
-
-#### `dürfte` (= Konjunktiv II of `dürfen`)
-
-| Person | Form |
-|---|---|
-| ich | dürfte |
-| du | dürftest |
-| er/sie/es | dürfte |
-| wir | dürften |
-| ihr | dürftet |
-| sie/Sie | dürften |
-
-> *Wenn ich **dürfte**, würde ich sofort kündigen.* (If I were allowed to, I would quit right away.)
-
-#### `sollte` (= Konjunktiv II of `sollen`)
-
-| Person | Form |
-|---|---|
-| ich | sollte |
-| du | solltest |
-| er/sie/es | sollte |
-| wir | sollten |
-| ihr | solltet |
-| sie/Sie | sollten |
-
-> *Du **solltest** dich anmelden.* (You should sign up.) — advice  
-> *Er **sollte** eigentlich schon da sein.* (He should be here by now.) — expectation
-
-> 📌 **Merkasten — Strong forms**
+> ⚠️ **Häufige Fehler**
 >
-> | Infinitiv | Konjunktiv II | Trap to avoid |
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich **würde sein** glücklich.* | *Ich **wäre** glücklich.* |
+> | *Ich **würde haben** mehr Zeit.* | *Ich **hätte** mehr Zeit.* |
+> | *Wenn ich Zeit **hatte**, …* (past) | *Wenn ich Zeit **hätte**, …* (umlaut = hypothetical) |
+> | *Du **würdest sollen** …* | *Du **solltest** …* |
+
+> 💡 **Lerntipp:** Whenever you catch yourself about to say *würde sein* or *würde haben*, stop and swap in **`wäre`** / **`hätte`**. For the modals, just add an umlaut to the Präteritum: *konnte→könnte, musste→müsste, durfte→dürfte, sollte* (already has it). Drill the row aloud: *wäre–hätte–könnte–müsste–dürfte–sollte*.
+
+**Versuch es selbst.** Korrigiere: „Wenn ich reich würde sein, würde ich ein Haus kaufen."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Wenn ich reich **wäre**, würde ich ein Haus kaufen.*
+
+</details>
+
+> 📌 **Merkasten — starke Formen**
+> | Infinitiv | Konjunktiv II | Falle |
 > |---|---|---|
-> | sein | **wäre** | ~~würde sein~~ |
-> | haben | **hätte** | ~~würde haben~~ |
-> | können | **könnte** | (würde können — also avoid) |
-> | müssen | **müsste** | (würde müssen — also avoid) |
-> | dürfen | **dürfte** | (würde dürfen — also avoid) |
-> | sollen | **sollte** | (würde sollen — also avoid) |
->
-> ▶ Whenever you want to use `würde sein` or `würde haben`, stop — use
-> `wäre` or `hätte` instead.
+> | sein → **wäre** · haben → **hätte** | (eine Form, kein würde) | ~~würde sein/haben~~ |
+> | können → **könnte** · müssen → **müsste** | dürfen → **dürfte** · sollen → **sollte** | Präteritum + Umlaut |
 
 ---
 
-### 4.3 Irreale Bedingungssätze — `Wenn … , würde …`
+### 6.3 Irreale Bedingungssätze — `Wenn …, würde …`
 
-An **irrealer Bedingungssatz** (unreal conditional) describes what would happen
-**if** something (which isn't true) were the case. It always has two parts:
+**Warum?** The classic "if … then …" of the unreal world. An **irrealer Bedingungssatz** has two parts: the **`wenn`-clause** (the condition — verb to the end, in a strong Konjunktiv-II form) and the **main clause** (the result — usually *würde + Infinitiv*). So: *Wenn ich Zeit **hätte**, **würde** ich reisen.* The single most important rule: in the *wenn*-clause use a **strong form** (*hätte, wäre, könnte*), **not** *würde* — *Wenn ich würde Zeit haben* is the #1 mistake learners make. When the *wenn*-clause comes first, the main clause inverts (verb before subject), exactly as after *weil* or *obwohl*.
 
-1. **`wenn`-clause** (the condition): verb goes to the **end** (same as all
-   `wenn`-clauses). The verb here is a Konjunktiv II form.
-2. **Main clause** (the result): uses `würde + Infinitiv` or a strong form.
+**Examples:**
 
-**Both orders are possible:**
+1. **Wenn** ich Zeit **hätte**, **würde** ich einen Kurs machen.
+2. **Wenn** ich in Tokio leben **könnte**, **würde** ich Japanisch lernen.
+3. Ich **würde** sofort anfangen, **wenn** ich nicht so viel arbeiten **müsste**.
+4. **Wenn** Anna freier **wäre**, **würde** sie nach Lissabon ziehen.
+5. **Wenn** wir gewinnen **würden**, **würden** wir feiern. *(here würde in the wenn-clause is OK because there's no strong form for "gewinnen")*
+6. **Wenn** du mutiger **wärst**, **würdest** du es wagen.
+7. Ich **wäre** glücklich, **wenn** ich das **schaffen würde**.
+8. **Wenn** ich du **wäre**, **würde** ich warten.
 
-| Order | Structure | Example |
-|---|---|---|
-| wenn-clause first | Wenn + subject + … + KII verb, + main clause result | *Wenn ich Zeit **hätte**, würde ich reisen.* |
-| Main clause first | Main clause result + , wenn + subject + … + KII verb | *Ich würde reisen, wenn ich Zeit **hätte**.* |
-
-When the `wenn`-clause comes first, the main clause **inverts** (verb before
-subject) — just like with `weil`, `obwohl`, and all subordinating conjunctions.
-
-> **Wenn ich in Tokio leben könnte, würde ich jeden Tag Japanisch lernen.**
-> (If I could live in Tokyo, I would learn Japanese every day.)
+> ⚠️ **Häufige Fehler**
 >
-> **Ich würde sofort einen Kurs anfangen, wenn ich nicht so viel arbeiten müsste.**
-> (I would start a course right away if I didn't have to work so much.)
->
-> **Wenn Anna freier wäre, würde sie nach Lissabon ziehen.**
-> (If Anna were freer, she would move to Lisbon.)
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Wenn ich **würde** Zeit **haben**, …* | *Wenn ich Zeit **hätte**, …* (strong form in the wenn-clause) |
+> | *Wenn ich frei wäre, **ich würde** reisen.* | *Wenn ich frei wäre, **würde ich** reisen.* (inversion) |
+> | *Wenn ich reich **bin**, würde ich …* | *Wenn ich reich **wäre**, würde ich …* (hypothetical → Konjunktiv) |
 
-⚠️ **The double-`würde` trap:** in the `wenn`-clause, **do not** use `würde`
-again — use a strong form (`wäre`, `hätte`, `könnte`…).
+> 💡 **Lerntipp:** Two-rule recipe: **(1)** *wenn*-clause = strong form, verb last (*wenn ich Zeit **hätte***). **(2)** main clause = *würde + Infinitiv* (*…**würde** ich reisen*). Avoid *würde* twice in a row across the comma — the *wenn*-side prefers the one-word form. Use *würde* in the *wenn*-clause only when a verb has no neat strong form (like *gewinnen*).
 
-> ✗ Wenn ich würde frei sein, würde ich reisen. — never do this!
-> ✓ *Wenn ich frei **wäre**, würde ich reisen.* — correct
+**Versuch es selbst.** Verbinde: „Ich habe kein Geld. Ich mache keine Reise." → irrealer Bedingungssatz.
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Wenn ich Geld **hätte**, **würde** ich eine Reise **machen**.*
+
+</details>
 
 > 📌 **Merkasten — irreale Bedingungssätze**
->
-> | Part | Verb form | Example |
+> | Teil | Form | Beispiel |
 > |---|---|---|
-> | wenn-clause | strong KII form (wäre/hätte/könnte…) | wenn ich Zeit hätte |
-> | Main clause | würde + Inf. or strong form | würde ich reisen |
-> | Word order in wenn-clause | verb to the end | wenn ich mehr Zeit hätte |
-> | When wenn-clause comes first | inversion in main clause | …hätte, würde ich reisen |
+> | wenn-Satz | starke KII-Form, Verb am Ende | wenn ich Zeit **hätte** |
+> | Hauptsatz | würde + Infinitiv | **würde** ich reisen |
+> | wenn-Satz zuerst | Inversion im Hauptsatz | …hätte, **würde ich** reisen |
 >
-> ▶ Never use `würde` in the `wenn`-clause — it sounds wrong to native speakers.
+> ▶ Nie *würde* im wenn-Satz (wenn eine starke Form existiert).
 
 ---
 
-### 4.4 Ratschläge geben — advice structures
+### 6.4 Ratschläge geben — advice structures
 
-German has four common structures for giving advice. All use Konjunktiv II:
+**Warum?** Konjunktiv II is also *the* polite way to give advice — direct imperatives can sound bossy, but the conditional softens everything. German has four go-to structures, all built on Konjunktiv II: **`Du solltest …`** ("you should"), **`An deiner Stelle würde ich …`** ("if I were you, I'd…"), **`Ich würde dir empfehlen, …`** ("I'd recommend…"), and **`Es wäre besser, wenn …`** ("it would be better if…"). They range from gentle to formal, so you can match the situation — advising a friend vs. a colleague. Note that *sollte* used for advice looks identical to the Präteritum of *sollen*; context tells them apart.
 
-**1. `Du solltest … / Sie sollten …`** (You should …)
+**Examples:**
 
-> *Du **solltest** dich bei einem Kurs anmelden.*
-> (You should sign up for a course.)
+1. Du **solltest** dich bei einem Kurs anmelden.
+2. Sie **sollten** Ihren Vorgesetzten ansprechen.
+3. **An deiner Stelle würde** ich das sofort anfangen.
+4. **An Ihrer Stelle würde** ich mehr Informationen sammeln.
+5. Ich **würde** dir **empfehlen**, einen Kurs auszuprobieren.
+6. Ich **würde** Ihnen **raten**, Gespräche zu führen.
+7. **Es wäre besser, wenn** du zuerst die Bedingungen klärst.
+8. Du **solltest** dich nicht zu hart beurteilen.
+
+> ⚠️ **Häufige Fehler**
 >
-> *Sie **sollten** Ihren Vorgesetzten ansprechen.*
-> (You should speak to your manager.)
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Du **sollst** mehr schlafen.* (command-like) | *Du **solltest** mehr schlafen.* (softer advice) |
+> | *An deiner Stelle **ich würde** warten.* | *An deiner Stelle **würde ich** warten.* (inversion) |
+> | *Ich würde dir empfehlen **machen** einen Kurs.* | *Ich würde dir empfehlen, einen Kurs **zu machen**.* (zu + Infinitiv) |
 
-**2. `An deiner/Ihrer Stelle würde ich …`** (If I were you, I would …)
+> 💡 **Lerntipp:** Pick the structure by closeness: friend → *Du solltest …* / *An deiner Stelle würde ich …*; colleague or stranger → *Sie sollten …* / *Ich würde Ihnen empfehlen, …*. The softest, most diplomatic of all is *Es wäre besser, wenn …* — perfect when you don't want to sound pushy.
 
-> *An **deiner** Stelle **würde** ich das sofort anfangen.*
-> (If I were you, I would start that right away.)
->
-> *An **Ihrer** Stelle **würde** ich zunächst mehr Informationen sammeln.*
-> (If I were you, I would first gather more information.)
+**Versuch es selbst.** Gib einem Freund einen Rat (mit *Du solltest* **und** *An deiner Stelle würde ich*): Er schläft zu wenig.
 
-**3. `Ich würde dir/Ihnen empfehlen, …`** (I would recommend that you …)
+<details>
+<summary>📝 Lösung</summary>
 
-> *Ich **würde** dir **empfehlen**, einen Kurs auszuprobieren.*
-> (I would recommend that you try a course.)
->
-> *Ich **würde** Ihnen **empfehlen**, informelle Gespräche zu führen.*
-> (I would recommend that you have informal conversations.)
+> *Du **solltest** früher ins Bett gehen.*
+> *An deiner Stelle **würde ich** das Handy abends weglegen.*
 
-**4. `Es wäre besser, wenn …`** (It would be better if …)
-
-> *Es **wäre** besser, wenn du zuerst die Bedingungen klärst.*
-> (It would be better if you clarified the conditions first.)
->
-> *Es **wäre** besser, wenn Sie mehr Praxiserfahrung sammeln würden.*
-> (It would be better if you were to gain more practical experience.)
+</details>
 
 > 📌 **Merkasten — Ratschläge**
+> | Struktur | Register |
+> |---|---|
+> | Du solltest … / Sie sollten … | informell / formell |
+> | An deiner/Ihrer Stelle würde ich … | informell / formell |
+> | Ich würde dir/Ihnen empfehlen, … zu … | neutral |
+> | Es wäre besser, wenn … | neutral, sehr diplomatisch |
 >
-> | Structure | Register | Example |
-> |---|---|---|
-> | Du solltest … | informal | Du solltest mehr schlafen. |
-> | Sie sollten … | formal | Sie sollten das prüfen. |
-> | An deiner Stelle würde ich … | informal | An deiner Stelle würde ich warten. |
-> | An Ihrer Stelle würde ich … | formal | An Ihrer Stelle würde ich fragen. |
-> | Ich würde dir/Ihnen empfehlen, … | neutral | Ich würde dir empfehlen, … |
-> | Es wäre besser, wenn … | neutral/formal | Es wäre besser, wenn … |
->
-> ▶ `sollte` in advice sentences = Konjunktiv II of `sollen`. Notice: same form
-> as Präteritum of `sollen` — context tells you which it is.
+> ▶ Alle mit Konjunktiv II. ▶ *sollte* (Rat) = Konjunktiv II von *sollen*.
 
 ---
 
-## 5. Lesetext — Was ich mir für die Zukunft wünsche
+## 7. Lesetext — Was ich mir für die Zukunft wünsche
 
 *Lies den Text zweimal: einmal schnell, einmal langsam.*
 
@@ -460,11 +467,11 @@ nie etwas machen.
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
-## 6. Hörtext — Bruno ruft Yuki in Japan an
+## 8. Hörtext — Bruno ruft Yuki in Japan an
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -481,34 +488,35 @@ nie etwas machen.
 
 ---
 
-## 7. Lernstrategie — Partner-Drilling mit `Wenn…, würde ich…`
+## 9. Magazin — Landeskunde
 
-The best way to internalize the Konjunktiv II is to produce it under mild
-pressure — a conversation partner who asks you questions.
+### Was wäre, wenn? — Die Deutschen und die Sicherheit
 
-**The drill:**
+Es gibt ein Klischee, das oft stimmt: Deutsche denken gern an das „Was wäre, wenn?". Kaum ein Land hat so viele **Versicherungen** — Haftpflicht, Hausrat, Rechtsschutz, Berufsunfähigkeit. Man sichert sich gegen Risiken ab, die vielleicht nie eintreten. Auch beim Sparen gilt: lieber ein Polster für den Notfall als ein spontanes Abenteuer.
 
-1. Write 5 `Wenn…, würde ich…` sentences about your own life. Use topics
-   you care about: career, travel, relationships, hobbies.
+> „Erst absichern, dann träumen" — so könnte man die deutsche Grundhaltung beschreiben.
 
-   > *Wenn ich mehr Geld hätte, würde ich eine Reise nach Japan buchen.*
-   > *Wenn ich nicht so viel arbeiten müsste, würde ich jeden Tag Sport machen.*
+Das hat Vorteile: Wer abgesichert ist, schläft ruhiger. Aber es gibt auch eine Kehrseite. Manchmal wartet man so lange auf den perfekt geplanten Moment, dass man den Sprung nie wagt. Vielleicht ist genau das die Lektion aus dieser Lektion: Der Konjunktiv II ist schön zum Träumen — aber irgendwann muss man ins Indikativ wechseln und einfach anfangen.
 
-2. Swap only the **`wenn`-clause** with your partner — keep your own main
-   clause. This forces you to produce a new `wenn`-clause with a strong form
-   spontaneously.
+---
 
-   > Partner's wenn-clause: *Wenn du in einer anderen Stadt wärst, …*
-   > Your main clause: *… würde ich sofort einen Sprachkurs belegen.*
+## 10. Lernstrategie
 
-3. After 5 rounds, switch roles.
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jede Konjunktiv-II-Form
+- Wortschatz §4 (Träume + Verben) mit verdeckter Spalte testen
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
 
-**Why it works:** the drill separates the two hardest parts of the
-Konjunktiv II (the when-clause strong form vs. the main clause `würde` form)
-and forces you to produce each one in response to new input — the key to
-automatization.
+### Tag 2 (30 min) — Vertiefung
+- Grammatik §6.1 (würde) und §6.2 (starke Formen): 6 eigene Wunschsätze schreiben
+- Korrektur-Übung: 5 Sätze mit *würde sein/haben* in *wäre/hätte* umschreiben
+- *Versuch es selbst* in §6.1–§6.4 auf Papier machen
 
-**Tip:** do the drill out loud, not in writing. Speed matters here — you want
-the forms to become automatic, not something you have to look up.
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Grammatik §6.3: Partner-Drilling — 5 *Wenn …, würde ich …*-Sätze laut bilden (wenn-Satz tauschen, Hauptsatz behalten)
+- Hörtext §8 hören, Transkript erst danach öffnen, alle Konjunktiv-II-Formen heraushören
+- §6.4: einem Freund 3 Ratschläge in 3 verschiedenen Strukturen geben — dann Block C in `exercises.md`
 
-➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
