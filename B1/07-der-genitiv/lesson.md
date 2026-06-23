@@ -1,3 +1,24 @@
+---
+level: B1
+number: 7
+slug: der-genitiv
+title: Der Genitiv
+titleEn: The Genitive Case
+canDo:
+  - describe ownership and belonging in formal German
+  - use the genitive prepositions wegen, trotz, während, statt
+  - recognise and produce n-Deklination forms
+  - choose between the formal Genitiv and spoken von + Dativ
+grammar:
+  - "Genitive case — articles and -(e)s noun endings in all genders"
+  - "genitive prepositions wegen, trotz, während, statt"
+  - "n-Deklination (schwache Maskulina) and proper names / von + Dativ register"
+buildsOn:
+  - A1/09 (Dativ — Genitiv is the fourth and final case)
+  - B1/02 (trotz — used here correctly with Genitiv)
+  - B1/05 (Relativsätze — dessen/deren are Genitiv pronouns, B2 scope)
+---
+
 # B1 · Lektion 7 — Der Genitiv (The Genitive Case)
 
 > **You will learn to:** describe ownership and belonging in formal German, use
@@ -16,7 +37,7 @@
 
 ---
 
-## 1. Dialog: Der Genitiv im Alltag und im Büro
+## 1. Dialoge
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
@@ -51,7 +72,13 @@
 
 ---
 
-## 2. Redemittel
+## 2. Einstieg — Was lernst du heute?
+
+*Wessen Fahrrad ist das? — Das ist das Fahrrad **des Verkäufers**.* Mit dem **Genitiv** lernst du den vierten und letzten Fall des Deutschen. Du kennst schon Nominativ, Akkusativ und Dativ; der Genitiv drückt **Besitz und Zugehörigkeit** aus (*der Name **des Kollegen***, *die Theorie **eines Professors***). Vor allem ist er die Sprache des **Schriftdeutschen** — Verträge, Zeitungen, akademische Texte. Dazu kommen vier Präpositionen, die den Genitiv regieren (**`wegen`, `trotz`, `während`, `statt`**), und eine kleine Gruppe von Nomen mit Sonderendung (die **n-Deklination**). In der gesprochenen Sprache ersetzt man den Genitiv oft durch *von + Dativ* — beide lernst du hier. This is the case that makes your written German look genuinely educated.
+
+---
+
+## 3. Redemittel
 
 ### Besitz und Zugehörigkeit beschreiben (describing ownership and belonging)
 
@@ -87,9 +114,11 @@
 
 ---
 
-## 3. Wortschatz
+## 4. Wortschatz
 
 ### Besitz und formelle Beschreibung (ownership and formal description)
+
+> 💡 **Lerntipp:** Üb diese Nomen direkt im Genitiv mit Artikel: *der Zustand → **des Zustands**, der Umzug → **des Umzugs**, das Eigentum → **des Eigentums**.* So lernst du Wort *und* `-(e)s`-Endung in einem. Sprich die Genitivform laut — das Ohr merkt sich die Endung schneller als das Auge.
 
 | Nomen | Englisch |
 |---|---|
@@ -106,6 +135,8 @@
 
 ### Akademische und formelle Sprache (academic/formal language)
 
+> 💡 **Lerntipp:** Achte auf die vier ⚠️-Wörter — sie sind **n-Deklination** (§6.3): Genitiv *des Kollege**n**, des Mensch**en**, des Student**en**, des Herr**n***. Diese Nomen nehmen kein `-(e)s`, sondern `-(e)n`. Markier sie dir farblich; sie sind die häufigste Genitiv-Falle.
+
 | Nomen | Englisch |
 |---|---|
 | der Artikel, – | article (academic/news) |
@@ -119,7 +150,7 @@
 | der Student, -en ⚠️ n-Dekl. | student (m.) |
 | der Herr, -en ⚠️ n-Dekl. | gentleman, Mr. |
 
-⚠️ Nouns marked "n-Dekl." follow n-Deklination — see Grammar §4.3.
+⚠️ Nouns marked "n-Dekl." follow n-Deklination — see Grammar §6.3.
 
 ### Verben für formelle Texte
 
@@ -131,191 +162,299 @@
 | empfehlen ⚠️ empfiehlt | to recommend |
 | prüfen | to check, to test |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the English column. Can you recall every word — *and* form the Genitiv of each masculine/neuter noun (with the right `-(e)s` or `-(e)n` ending)? Aim for ≥80% before the exercises.
+
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Ein Sonntag im Museum
 
-### 4.1 Der Genitiv — Vollständige Kasustabelle
+Lies den Text zuerst zügig. Beim zweiten Lesen unterstreiche jede Genitiv-Form — die Artikel *des/der/eines* und die vier Präpositionen *wegen, trotz, während, statt*.
 
-The Genitive is the **fourth and final case** in German. You already know
-Nominativ (subject), Akkusativ (direct object), and Dativ (indirect object /
-dative prepositions). Genitiv expresses **possession and belonging**.
+Trotz des schlechten Wetters beschließen Yusuf und seine Tochter Layla, den Sonntag im Museum zu verbringen. „Bei diesem Regen ist das die beste Idee", sagt Yusuf. Wegen des Feiertags ist der Eintritt heute frei, und trotz der frühen Stunde stehen schon viele Leute vor dem Eingang.
 
-**Full 4-case article table:**
+Drinnen erklärt eine Studentin die Geschichte des Gebäudes. „Der Bau des Museums dauerte fast zehn Jahre", sagt sie. „Der Name des Architekten war damals in ganz Europa bekannt." Layla hört aufmerksam zu und macht sich Notizen.
 
-| Case | Function | masc. | fem. | neut. | plural |
+Im ersten Saal hängen die Werke eines jungen Künstlers. „Schau dir die Farben dieses Bildes an", sagt Yusuf leise. „Der Titel des Werkes ist ‚Die Ruhe des Morgens'." Layla gefällt vor allem ein Porträt. „Wessen Gesicht ist das?", fragt sie. „Das ist die Schwester des Malers", liest Yusuf von dem kleinen Schild.
+
+Während der Führung erzählt die Studentin auch von den Problemen des Museums: „Wegen des Alters des Gebäudes sind ständig Reparaturen nötig. Trotz der hohen Kosten will die Stadt das Haus aber unbedingt erhalten."
+
+Am Ende kauft Layla im Shop eine Postkarte mit dem berühmtesten Bild des Künstlers. „Das ist das Beste des ganzen Tages", sagt sie lachend. Yusuf lächelt. „Und das Schöne ist: Trotz des Regens hatten wir einen perfekten Sonntag." Statt der Bahn nehmen sie auf dem Heimweg ein Taxi — wegen des Wetters, versteht sich.
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Warum gehen Yusuf und Layla ins Museum?**
+> *Wegen des schlechten Wetters — trotz des Regens wollen sie einen schönen Sonntag haben.*
+>
+> **2. Was erklärt die Studentin?**
+> *Die Geschichte des Gebäudes und die Werke des Künstlers.*
+>
+> **3. Was kauft Layla am Ende?**
+> *Eine Postkarte mit dem berühmtesten Bild des Künstlers.*
+
+</details>
+
+---
+
+## 6. Grammatik
+
+### 6.1 Der Genitiv — die vollständige Kasustabelle
+
+**Warum?** The Genitiv is the **fourth and final case** in German, and it does
+one main job: it shows **possession and belonging** — *der Name **des
+Verkäufers**, das Fahrrad **meines Vaters**, die Theorie **eines Kollegen**.*
+Two things to learn. First, the **articles**: masculine and neuter take a brand-new
+form **`des / eines`**, while feminine and plural simply reuse the Dativ-looking
+**`der`**. Second, the **noun ending**: masculine and neuter nouns add **`-(e)s`**
+(*des Mann**es**, des Fahrrad**s***), but feminine and plural nouns add **nothing**.
+
+| Kasus | Funktion | mask. | fem. | neut. | Plural |
 |---|---|---|---|---|---|
-| **Nominativ** | subject | **der / ein** Mann | **die / eine** Frau | **das / ein** Kind | **die / –** Leute |
-| **Akkusativ** | direct object | **den / einen** Mann | **die / eine** Frau | **das / ein** Kind | **die / –** Leute |
-| **Dativ** | indirect object / dat. prep. | **dem / einem** Mann | **der / einer** Frau | **dem / einem** Kind | **den / –** Leuten |
-| **Genitiv** | possession / gen. prep. | **des / eines** Mann**es** | **der / einer** Frau | **des / eines** Kind**es** | **der / –** Leute |
+| **Nominativ** | subject | der/ein Mann | die/eine Frau | das/ein Kind | die Leute |
+| **Akkusativ** | direct object | den/einen Mann | die/eine Frau | das/ein Kind | die Leute |
+| **Dativ** | indir. obj. / dat. prep. | dem/einem Mann | der/einer Frau | dem/einem Kind | den Leuten |
+| **Genitiv** | possession / gen. prep. | **des/eines** Mann**es** | **der/einer** Frau | **des/eines** Kind**es** | **der** Leute |
 
-**Key observation:** Genitiv articles for feminine and plural are identical to
-Dativ — `der / einer / keiner` (f.) and `der / –` (pl.). Only masculine and
-neuter get a new form: `des / eines / keines`.
+**`-es` or `-s`?** One-syllable nouns and nouns ending in s/ß/z/x take **`-es`**
+(*des Mannes, des Kindes, des Hauses*); longer words take **`-s`** (*des Vaters,
+des Lehrers, des Fahrrads*).
 
-**Noun endings in the Genitiv:**
-- **Masculine and neuter nouns** add **`-es`** (after sibilants s, ß, z, x: mandatory) or **`-s`** (after most other consonants and vowels). Rule of thumb: one syllable → `-es` (des Mann**es**, des Kind**es**, des Haus**es**); longer words → `-s` (des Vater**s**, des Lehr**ers**).
-- **Feminine and plural nouns** add **nothing** (des Frau**→**, der Leute**→**).
+**Examples:**
 
-**Examples from the dialogs:**
+1. Der Name **des Verkäufers** ist Björn Koch.
+2. Was ist der Preis **des Fahrrads**?
+3. Wir prüfen den Zustand **des Fahrrads**.
+4. Die Argumentation **des Artikels** ist überzeugend.
+5. Das ist die Theorie **eines Kollegen**.
+6. Die Meinung **der Mehrheit** war eindeutig.
+7. Die Ergebnisse **der Studie** wurden veröffentlicht.
+8. Das Fahrrad **meines Vaters** ist alt, aber gut.
 
-> der Verkäufer → **des Verkäufers** (der Name des Verkäufers)
-> der Preis → **des Preises** (der Preis des Fahrrads)
-> das Fahrrad → **des Fahrrads** (das Fahrrad des Vorbesitzers)
-> der Wandel → **des Wandels** (wegen des globalen Wandels)
-> das Symposium → **des Symposiums** (während des Symposiums)
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *wegen **der** Wandels* | *wegen **des** Wandels* (masc. → `des`) |
+> | *der Preis des **Fahrrad*** | *der Preis des **Fahrrads*** (masc./neut. add `-(e)s`) |
+> | *die Theorie **der** Professors* | *die Theorie **des** Professors* (`der` is only feminine) |
 
-> 📌 **Merkasten — Genitiv articles**
+> 💡 **Lerntipp:** Decide in two quick steps. **(1) Article:** masc./neut. → `des`,
+> fem./pl. → `der`. **(2) Noun ending:** masc./neut. add `-(e)s`, fem./pl. add
+> nothing. The classic trap is `des` vs `der` — remember `der` in the Genitiv
+> means **feminine** (*der Frau*) or **plural** (*der Leute*), never masculine.
+
+**Versuch es selbst.** Setz in den Genitiv: „der Titel / der Artikel" → „der Titel …?"
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *der Titel **des Artikels*** (masc. → `des` + `-s`)
+
+</details>
+
+> 📌 **Merkasten — Genitiv-Artikel**
 >
 > | | maskulin | feminin | neutral | Plural |
 > |---|---|---|---|---|
-> | **definit** | **des** (+noun -es/-s) | **der** | **des** (+noun -es/-s) | **der** |
+> | **definit** | **des** (+ -es/-s) | **der** | **des** (+ -es/-s) | **der** |
 > | **indefinit** | **eines** | **einer** | **eines** | — |
-> | **negativ** | **keines** | **keiner** | **keines** | **keiner** |
-> | **possessiv** | **meines/deines/seines/ihres…** | **meiner/deiner…** | **meines/deines…** | **meiner/deiner…** |
+> | **possessiv** | **meines …** | **meiner …** | **meines …** | **meiner …** |
 >
-> ▶ Masculine and neuter nouns add `-(e)s`. Feminine and plural: no noun ending.
-
-⚠️ **#1 learner trap — `des` vs. `der`:** `der Wandel` is masculine, so Genitiv
-is `des Wandels` — not `der Wandels`. The Genitiv article `der` is only for
-**feminine** nouns: `die Theorie → der Theorie`.
+> ▶ Masc./neut. nouns add `-(e)s`. Fem./pl.: no noun ending.
 
 ---
 
-### 4.2 Genitivpräpositionen: `wegen`, `trotz`, `während`, `statt`
+### 6.2 Genitivpräpositionen: `wegen`, `trotz`, `während`, `statt`
 
-These four common prepositions all take the **Genitive case** in formal/written
-German.
+**Warum?** Four very common prepositions take the **Genitiv** in written German:
+**`wegen`** (because of), **`trotz`** (despite), **`während`** (during) and
+**`statt`** (instead of). *Wegen **des** Umzug**s**, trotz **des** Regen**s**,
+während **des** Symposium**s**, statt **des** Original**s**.* Learn them as a
+block — they behave identically. One caveat: in casual speech you'll hear
+*„wegen dem Regen"* (Dativ), and for `wegen` that's now tolerated; but in formal
+writing all four stay firmly Genitiv. `trotz`, `während` and `statt` keep the
+Genitiv in every register.
 
-| Preposition | Meaning | Formal (written) example |
+| Präposition | Bedeutung | Beispiel (Genitiv) |
 |---|---|---|
-| `wegen` | because of, due to | wegen **des schlechten Wetters** |
-| `trotz` | despite, in spite of | trotz **des starken Regens** |
-| `während` | during | während **des Semesters** |
-| `statt` | instead of | statt **des Originals** |
+| `wegen` | because of | wegen **des** schlechten Wetters |
+| `trotz` | despite | trotz **des** starken Regens |
+| `während` | during | während **des** Semesters |
+| `statt` | instead of | statt **des** Originals |
 
-**From Dialog B:**
-> „wegen **des** globalen Wand**els**" (wegen + Genitiv masc.)
-> „trotz **des** wachsenden Druck**s**" (trotz + Genitiv masc.)
-> „während **des** Symposium**s**" (während + Genitiv neut.)
+**Examples:**
+
+1. **Wegen des** Umzugs verkauft er das Fahrrad.
+2. **Trotz des** Preises ist es ein Schnäppchen.
+3. **Während der** Woche hat man wenig Zeit.
+4. **Statt des** Fahrrads empfahl er ein Schloss.
+5. **Wegen des** globalen Wandels ändert sich vieles.
+6. **Trotz des** wachsenden Drucks blieb sie ruhig.
+7. **Während des** Symposiums sprach er kein Wort.
+8. **Statt der** mündlichen Form ist die schriftliche zu bevorzugen.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *wegen **dem** globalen Wandel* (in writing) | *wegen **des** globalen Wandels* (formal → Genitiv) |
+> | *trotz **dem** Regen* | *trotz **des** Regens* (`trotz` always Genitiv) |
+> | *während **dem** Symposium* | *während **des** Symposiums* (`während` always Genitiv) |
+
+> 💡 **Lerntipp:** Memorise the four as one chant — **„wegen, trotz, während,
+> statt — alle mit Genitiv satt."** When you hear yourself say *„wegen dem …"*,
+> that's the spoken shortcut; in any written or formal context, switch the article
+> to `des`/`der` and add `-(e)s` to a masc./neut. noun.
+
+**Versuch es selbst.** Ergänze im Genitiv: „Trotz ___ ___ (der Regen) gehen wir spazieren."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Trotz **des Regens** gehen wir spazieren.*
+
+</details>
 
 > 📌 **Merkasten — Genitivpräpositionen**
 >
-> | Präposition | Genitiv Beispiel | Englisch |
-> |---|---|---|
-> | `wegen` | wegen **des** Regens / wegen **der** Kälte | because of the rain / cold |
-> | `trotz` | trotz **des** Problems / trotz **der** Müdigkeit | despite the problem / tiredness |
-> | `während` | während **des** Semesters / während **der** Pause | during the semester / break |
-> | `statt` | statt **des** Kaffees / statt **der** Tasse | instead of the coffee / cup |
+> | wegen | trotz | während | statt |
+> |---|---|---|---|
+> | because of | despite | during | instead of |
 >
-> ▶ All four take Genitiv in writing. Memorise the group as a unit.
-
-⚠️ **Spoken German exception:** `wegen + Dativ` is increasingly accepted in
-everyday spoken German — you will hear „wegen **dem** Regen" from native
-speakers. This is NOT an error in casual speech, but in formal writing,
-academic texts, and official documents, the Genitiv is required. The other
-three (`trotz`, `während`, `statt`) remain firmly Genitiv in all registers.
+> ▶ All four take Genitiv in writing. ▶ Only `wegen + Dativ` is tolerated in casual speech.
 
 ---
 
-### 4.3 n-Deklination (schwache Maskulina)
+### 6.3 n-Deklination (schwache Maskulina)
 
-A special group of **masculine nouns** — called **schwache Maskulina** or
-**n-Maskulina** — add `-(e)n` in **all cases except Nominativ singular**.
+**Warum?** A special group of **masculine** nouns — the *schwache Maskulina* or
+*n-Maskulina* — breaks the normal rule: instead of `-(e)s` in the Genitiv, they
+add **`-(e)n`** in *every* case except the Nominativ singular. *der Kollege →
+des Kolleg**en**, der Student → des Student**en**, der Mensch → des Mensch**en**.*
+You can spot them: masculine nouns ending in **`-e`** (*der Junge, der Name*),
+and certain endings like **`-ent, -ant, -ist, -oge, -at`** (*der Student, der
+Praktikant, der Biologe*), plus the irregulars *der Herr* and *der Mensch*.
 
-**The rule:** Masculine nouns ending in `-e` (der Kollege, der Junge, der Name)
-and nouns from specific groups (professions/titles ending in `-ent`, `-and`,
-`-ant`, `-ist`, `-oge`, `-at`; most male nationalities ending in `-e`; and a
-small set of irregulars like `der Herr`) follow this pattern.
-
-**Full declension of `der Mensch`:**
-
-| Case | Singular | Plural |
+| Kasus | Singular | Plural |
 |---|---|---|
 | Nominativ | der Mensch | die Menschen |
 | Akkusativ | den Mensch**en** | die Menschen |
 | Dativ | dem Mensch**en** | den Menschen |
 | **Genitiv** | des Mensch**en** | der Menschen |
 
-**Key n-Deklination nouns you must know:**
-
-| Nominativ | Genitiv (Singular) | Englisch |
+| Nominativ | Genitiv Sg. | Englisch |
 |---|---|---|
-| der Mensch, -en | des Menschen | person, human |
+| der Mensch, -en | des Menschen | person |
 | der Kollege, -n | des Kollegen | colleague |
-| der Student, -en | des Studenten | student (m.) |
-| der Herr, -en | des Herrn | Mr., gentleman |
-| der Name, -n | des Namens ⚠️ | name |
+| der Student, -en | des Studenten | student |
+| der Herr, -en | des Herr**n** ⚠️ | gentleman, Mr. |
+| der Name, -n | des Name**ns** ⚠️ | name |
 | der Journalist, -en | des Journalisten | journalist |
-| der Präsident, -en | des Präsidenten | president |
-| der Philosoph, -en | des Philosophen | philosopher |
 
-⚠️ `der Herr` is slightly irregular: Genitiv singular is `des Herrn` (not
-`des Herrens`). `der Name` adds `-ns` in Genitiv (des Namen**s**).
+**Examples:**
 
-> 📌 **Merkasten — n-Deklination Erkennungszeichen**
+1. Das ist das Fahrrad **eines Studenten**. *(not: eines Students)*
+2. Die Meinung **des Kollegen** war hilfreich.
+3. Die Würde **des Menschen** ist unantastbar.
+4. Der Vortrag **des Journalisten** war spannend.
+5. Die Rede **des Präsidenten** dauerte lange.
+6. Die Theorie **des Biologen** überzeugte alle.
+7. Der Mantel **des Herrn** hängt an der Garderobe.
+8. Die Bedeutung **des Namens** ist unklar.
+
+> ⚠️ **Häufige Fehler**
 >
-> The noun is n-Deklination if it is **masculine** AND one of:
-> - ends in `-e`: der Kollege, der Junge, der Name, der Friede
-> - ends in `-ent`, `-and`, `-ant`, `-ist`, `-oge`, `-at`, `-ot`:
->   der Student, der Kandidat, der Kommunist, der Biologe, der Pilot
-> - is a male nationality ending in `-e`: der Chinese, der Franzose, der Grieche
-> - is `der Herr` or `der Mensch` (memorise these)
->
-> ▶ In every non-Nominativ singular form, add `-(e)n`. No `-es` for Genitiv —
-> that `-es` ending is only for "strong" masculine and neuter nouns.
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *das Fahrrad eines **Students*** | *das Fahrrad eines **Studenten*** (n-Dekl. → `-en`) |
+> | *die Meinung des **Kolleges*** | *die Meinung des **Kollegen*** (n-Dekl. → `-en`) |
+> | *der Mantel des **Herrns*** | *der Mantel des **Herrn*** (irregular: just `-n`) |
 
-**Dialog example:**
-> „das Fahrrad eines Studenten" ← Genitiv of `der Student` (n-Deklination)
-> „die Meinung des Kollegen" ← Genitiv of `der Kollege` (n-Deklination)
+> 💡 **Lerntipp:** Ask: is the noun **masculine** and does it end in **`-e`** or
+> one of `-ent/-ant/-ist/-oge/-at`? Then it's n-Deklination — add `-(e)n`, *never*
+> `-(e)s`. Drill the most frequent ones (*Mensch, Kollege, Student, Herr, Name*)
+> until *des Studenten* sounds right and *des Students* sounds wrong.
+
+**Versuch es selbst.** Genitiv von „der Kollege": „die Meinung ___ ___".
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *die Meinung **des Kollegen*** (n-Deklination → `-en`, kein `-es`)
+
+</details>
+
+> 📌 **Merkasten — n-Deklination**
+>
+> Masculine **and** one of: ends in `-e` · ends in `-ent/-ant/-ist/-oge/-at` ·
+> male nationality in `-e` (der Franzose) · `der Herr`, `der Mensch`.
+> ▶ Add `-(e)n` in all non-Nominativ-singular forms — **no `-es`** in the Genitiv.
 
 ---
 
-### 4.4 Eigennamen im Genitiv und `von + Dativ`
+### 6.4 Eigennamen im Genitiv und `von + Dativ`
 
-**Proper names** form the Genitiv without an article — just add **`-s`** to the name:
+**Warum?** Two final pieces. **Proper names** form the Genitiv with a simple
+**`-s`** and *no* article — like English but without the apostrophe: *Annas Buch,
+Yusufs Artikel, Laylas Fahrrad.* (Names ending in s/ß/z/x take an apostrophe
+only: *Hans' Buch, Max' Wohnung.*) And the everyday escape hatch: in spoken
+German, **`von + Dativ`** replaces the whole Genitiv phrase — *das Buch **von
+meinem Vater*** instead of *das Buch **meines Vaters***. Both are correct; the
+choice is **register**: Genitiv for writing, `von + Dativ` for speech.
 
-> **Annas** Buch (Anna's book)
-> **Yusufs** Artikel (Yusuf's article)
-> **Laylas** Fahrrad (Layla's bicycle)
-> **Pauls** Auto (Paul's car)
-
-⚠️ **Names ending in s, ß, z, x:** add an **apostrophe** (no extra `s`):
-> **Hans'** Buch (NOT ~~Hansens Buch~~ or ~~Hans's Buch~~)
-> **Moritz'** Idee
-> **Max'** Wohnung
-
-**`von + Dativ` — the spoken alternative:**
-
-In everyday spoken German, `von + Dativ` is used instead of the Genitiv noun
-phrase. **Both forms are grammatically correct**; the difference is register:
-
-| Formal / written (Genitiv) | Spoken / informal (`von + Dativ`) |
+| Formal / written (Genitiv) | Spoken (`von + Dativ`) |
 |---|---|
 | das Buch **meines Vaters** | das Buch **von meinem Vater** |
 | die Theorie **eines Kollegen** | die Theorie **von einem Kollegen** |
-| die Ergebnisse **der Studie** | die Ergebnisse **von der Studie** |
 | das Auto **des Professors** | das Auto **vom Professor** |
+
+**Examples:**
+
+1. **Annas** Buch liegt auf dem Tisch.
+2. **Yusufs** Artikel wurde angenommen.
+3. **Laylas** Fahrrad ist ein Schnäppchen.
+4. **Hans'** Idee war die beste. *(name ends in -s → apostrophe)*
+5. Das ist das Auto **des Professors**. *(written)*
+6. Das ist das Auto **vom Professor**. *(spoken)*
+7. Die Ergebnisse **der Studie** sind eindeutig. *(written)*
+8. Die Ergebnisse **von der Studie** sind eindeutig. *(spoken)*
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *das Buch **von Anna ihrem** Vater* | *das Buch **von Annas** Vater* / *Annas Vaters Buch* |
+> | ***Hans's** Buch* / *Hansens Buch* | ***Hans'** Buch* (apostrophe only) |
+> | *die Theorie **von einem Kollegen*** (in a paper) | *die Theorie **eines Kollegen*** (academic → Genitiv) |
+
+> 💡 **Lerntipp:** Match the form to the situation. Writing an email, essay or
+> contract? Use the Genitiv (*des Vaters*). Chatting or texting? *von + Dativ*
+> (*von meinem Vater*) sounds completely natural. For names, just add `-s` —
+> no apostrophe — unless the name already ends in an s-sound.
+
+**Versuch es selbst.** Schreib formell (Genitiv): „die Wohnung von meiner Schwester".
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *die Wohnung **meiner Schwester*** (feminine → `meiner`, kein Nomen-`s`)
+
+</details>
 
 > 📌 **Merkasten — Register**
 >
-> | Situation | Use |
+> | Situation | Form |
 > |---|---|
-> | Academic papers, contracts, news, formal letters | Genitiv |
-> | Everyday speech, informal writing, WhatsApp | `von + Dativ` |
+> | Aufsatz, Vertrag, Zeitung, formeller Brief | Genitiv (*des Vaters*) |
+> | Gespräch, WhatsApp, informeller Text | `von + Dativ` (*von meinem Vater*) |
 >
-> ▶ In Dialog B, Herr Steinmeyer corrects "die Theorie von einem Kollegen" →
-> "die Theorie eines Kollegen" precisely because it is an academic journal.
-> In Dialog A, Layla naturally says "der Name des Verkäufers" — because she is
-> reading from a written listing. In her own casual speech, she might say
-> "der Name vom Verkäufer" and that would be fine.
+> ▶ Eigennamen: Name + **`-s`** (kein Apostroph), außer bei s/ß/z/x → nur Apostroph.
 
 ---
 
-## 5. Lesetext — Auszug aus einem Wohnungsmietvertrag
+## 7. Lesetext — Auszug aus einem Wohnungsmietvertrag
 
-*Lies den Text zweimal. Dieser Auszug wird in den Übungen Block C wiederverwendet.*
+*Lies den Text zweimal. Dieser Auszug wird in den Übungen wiederverwendet.*
 
 **Mietvertrag — Auszug (§ 3 Pflichten des Mieters)**
 
@@ -339,11 +478,11 @@ gelten die Regelungen des vorliegenden Vertrags unverändert fort.
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
-## 6. Hörtext — Hannah hinterlässt eine Nachricht für Laylas Lehrerin
+## 8. Hörtext — Hannah hinterlässt eine Nachricht für Laylas Lehrerin
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -354,26 +493,33 @@ gelten die Regelungen des vorliegenden Vertrags unverändert fort.
 
 ---
 
-## 7. Lernstrategie — Genitiv-Radar in Texten
+## 9. Magazin — Landeskunde
 
-Read any formal German text — a news article, a rental contract, a Wikipedia
-entry, a university email — and **hunt for Genitiv constructions**. For each one
-you find, ask:
+### „Der Dativ ist dem Genitiv sein Tod"
 
-1. What is the noun? Is it masculine, feminine, neuter, or plural?
-2. What is the article? (`des` / `der` / `eines` / `einer`?)
-3. Does the noun have `-(e)s`? (It should if masc./neut.)
+Stirbt der Genitiv aus? Diese Frage stellen sich viele Deutsche — halb im Scherz, halb ernst. Der Journalist Bastian Sick machte sie mit seinem Bestseller *„Der Dativ ist dem Genitiv sein Tod"* berühmt. Tatsächlich hört man im Alltag immer öfter *„wegen dem Regen"* statt *„wegen des Regens"*, und in der gesprochenen Sprache ersetzt *von + Dativ* den Genitiv fast vollständig: Kaum jemand sagt beim Bier *„das Auto meines Bruders"*. Trotzdem ist der Genitiv kein bisschen tot. In jeder Zeitung, jedem Vertrag und jeder Hausarbeit lebt er weiter. Wer gutes Schriftdeutsch schreiben will, kommt an ihm nicht vorbei — und Sicks Buchtitel selbst ist übrigens ein perfekter Dativ-Witz.
 
-Count how many you find per text. After 5 texts, the pattern becomes automatic
-because you've seen it in real-world context, not just exercises.
+> Gesprochen schwächelt er, geschrieben lebt er weiter: Der Genitiv ist Deutschlands elegantester Überlebenskünstler.
 
-**Quick checklist for formal texts:**
-- Circle every `des` / `der` (when used in a Genitiv context, not Nominativ!)
-- Underline every Genitivpräposition: `wegen / trotz / während / statt`
-- Box every noun phrase ending in `-s` after a name (Annas, Pauls…)
+---
 
-The more you read German news (e.g. *taz*, *Der Spiegel*, *Zeit Online*) or
-official documents, the more natural Genitiv will feel — because it is the
-**backbone of formal written German**.
+## 10. Lernstrategie
 
-➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — unterstreiche jede Genitiv-Form und jede Genitivpräposition
+- Wortschatz §4 mit verdeckter Spalte testen — Genitiv jedes masc./neut. Nomens bilden; ⚠️-Wörter als n-Deklination markieren
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
+
+### Tag 2 (30 min) — Vertiefung
+- Grammatik §6.1–§6.2: 8 Genitiv-Phrasen bilden (4 mit `des/eines`, 4 mit Präposition `wegen/trotz/während/statt`)
+- §6.3: die fünf wichtigsten n-Deklination-Nomen (*Mensch, Kollege, Student, Herr, Name*) im Genitiv aufschreiben
+- *Versuch es selbst* in §6.1–§6.4 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- **Genitiv-Radar:** Im Lesetext §7 (Mietvertrag) alle Genitiv-Formen finden, Genus + Endung bestimmen (du solltest 15+ finden)
+- §6.4: 5 Sätze formell (Genitiv) **und** umgangssprachlich (`von + Dativ`) schreiben
+- Hörtext §8 hören, Transkript erst danach öffnen — alle vier Genitivpräpositionen heraushören; dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
