@@ -1,3 +1,24 @@
+---
+level: B1
+number: 8
+slug: verben-mit-praepositionen-ii
+title: Verben mit Präpositionen II
+titleEn: Verbs with Fixed Prepositions II
+canDo:
+  - talk about feelings, opinions and reactions with prepositional verbs
+  - replace prepositional phrases with Pronominaladverbien (darauf, daran, darüber)
+  - ask about things with wo(r)- questions (worüber, worauf, woran)
+  - use anticipatory da(r)- with dass-clauses and zu-infinitives
+grammar:
+  - "verbs with fixed prepositions (full B1 set) and their fixed case"
+  - "Pronominaladverbien da(r)- + Präposition and wo(r)- + Präposition questions"
+  - "anticipatory da(r)- (Korrelat) with dass / zu, and person vs. thing rule"
+buildsOn:
+  - A2/06 (verbs with prepositions I — basic set)
+  - B1/05 (Relativsätze — worüber parallels relative über das)
+  - B1/06 (Infinitiv mit zu — anticipatory da(r)- + zu)
+---
+
 # B1 · Lektion 8 — Verben mit Präpositionen II (Verbs with Fixed Prepositions II)
 
 > **You will learn to:** talk about feelings, opinions, and reactions using verbs
@@ -62,7 +83,13 @@ coordinator role.*
 
 ---
 
-## 2. Redemittel
+## 2. Einstieg — Was lernst du heute?
+
+*Worauf freust du dich? — **Darauf**, endlich Urlaub zu haben!* Viele deutsche Verben kommen mit einer **festen Präposition**: *warten **auf**, sich freuen **über**, denken **an**, träumen **von**.* In A2/06 hast du die ersten kennengelernt; jetzt kommt das volle B1-Set — die Sprache der Gefühle, Meinungen und Reaktionen. Dazu lernst du einen eleganten Trick: Statt *„auf das"* sagst du **`darauf`**, statt *„über das"* **`darüber`** — die **Pronominaladverbien**. Fragen dazu bildest du mit **`wo(r)-`**: *worauf? worüber? woran?* Eine einzige Regel ist wichtig: bei **Sachen** `da(r)-`/`wo(r)-`, bei **Personen** ganz normal *auf wen? — an ihn.* This is the grammar that makes you sound fluent when you talk about feelings and ideas.
+
+---
+
+## 3. Redemittel
 
 ### Gefühle und Meinungen ausdrücken (expressing feelings and opinions)
 
@@ -101,9 +128,11 @@ coordinator role.*
 
 ---
 
-## 3. Wortschatz
+## 4. Wortschatz
 
 ### Verben mit festen Präpositionen — Vollständige B1-Liste
+
+> 💡 **Lerntipp:** Lern **nie** das Verb allein — immer als Dreierpack *Verb + Präposition + Kasus*: *denken **an** + Akk., träumen **von** + Dat.* Sprich gleich die `da(r)-`-Form mit (*daran, davon*), dann hast du Grammatik §6.2 schon halb gelernt. Die Präposition ist der Schlüssel zur ganzen Lektion.
 
 | Verb | Präposition | Kasus | Beispiel |
 |---|---|---|---|
@@ -146,6 +175,8 @@ coordinator role.*
 
 ### Gefühle und Reaktionen (feelings and reactions)
 
+> 💡 **Lerntipp:** Diese Nomen sind die „Verpackung" deiner Meinung. Verbinde sie mit einem Präpositionalverb: *die **Begeisterung** für etwas*, *die **Enttäuschung** über etwas*. So lernst du Wort und Struktur gemeinsam.
+
 | Nomen | Englisch |
 |---|---|
 | die Meinung, -en | opinion |
@@ -174,166 +205,291 @@ coordinator role.*
 | der Erfolg, -e | success |
 | die Zusammenarbeit, – | collaboration |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the English column. For every verb, can you say the preposition *and* its case *and* the `da(r)-` form? Aim for ≥80% before the exercises.
+
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Bruno freut sich auf das Konzert
 
-### 4.1 Verben mit festen Präpositionen — warum "fest"?
+Lies den Text zuerst zügig. Beim zweiten Lesen markiere jedes Präpositionalverb und jede `da(r)-`/`wo(r)-`-Form.
 
-Unlike in English, many German verbs **require a specific preposition** that cannot
-be changed. You cannot substitute another preposition — the combination is fixed
-(hence "fest"). Compare:
+Seit Wochen freut sich Bruno auf das Konzert seiner Lieblingsband. „Ich denke jeden Tag daran", erzählt er Anna. „Ich träume sogar davon, in der ersten Reihe zu stehen."
 
-- *Ich warte **auf** den Bus.* (always `auf`, never `nach` or `für`)
-- *Ich träume **von** dem Urlaub.* (always `von`, never `über`)
-- *Ich ärgere mich **über** das Wetter.* (always `über`, never `wegen`)
+Anna lacht. „Worüber freust du dich mehr — über die Musik oder darüber, endlich mal rauszukommen?" „Über beides!", sagt Bruno. „Aber ehrlich gesagt ärgere ich mich ein bisschen darüber, dass die Tickets so teuer waren."
 
-The preposition changes the **case** of the noun it governs. The case is also
-fixed — it does not change depending on position:
+Am Tag des Konzerts kümmert sich Bruno um alles: Er achtet darauf, dass die Karten im Rucksack sind, und er verlässt sich darauf, dass die Bahn pünktlich kommt. „Worauf wartest du noch?", ruft Anna. „Wir müssen los!"
 
-| Präposition | Kasus bei Verb | Example |
+In der Schlange vor der Halle treffen sie Mia. „Ich habe gar nicht damit gerechnet, euch hier zu sehen!", sagt sie. „Wovon redet ihr die ganze Zeit?" „Von nichts anderem als von dieser Band", sagt Anna und verdreht die Augen.
+
+Dann geht das Licht aus. Bruno denkt an nichts mehr außer an die Musik. Nach dem ersten Lied dreht er sich zu Anna um: „Erinnerst du dich daran, wie wir uns über diese Band kennengelernt haben?" Anna nickt. „Natürlich. Darauf bin ich heute noch stolz."
+
+Am Ende sind alle drei begeistert. „Ich habe fast ein bisschen Angst davor, dass es jetzt vorbei ist", sagt Bruno lachend. Mia grinst: „Keine Sorge — auf das nächste Konzert freuen wir uns schon jetzt."
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Worauf freut sich Bruno?**
+> *Auf das Konzert seiner Lieblingsband.*
+>
+> **2. Worüber ärgert er sich ein bisschen?**
+> *Darüber, dass die Tickets so teuer waren.*
+>
+> **3. Woran erinnert Bruno Anna nach dem ersten Lied?**
+> *Daran, wie sie sich über diese Band kennengelernt haben.*
+
+</details>
+
+---
+
+## 6. Grammatik
+
+### 6.1 Verben mit festen Präpositionen — warum "fest"?
+
+**Warum?** Unlike English, a great many German verbs come welded to **one specific
+preposition** that you cannot swap out — the combination is *fixed* (hence "fest").
+*Ich warte **auf** den Bus* (never *nach* or *für*); *ich träume **von** dem Urlaub*
+(never *über*). And the preposition also fixes the **case** of whatever follows:
+*denken **an** + Akkusativ*, *träumen **von** + Dativ*. These verbs are everywhere
+once you talk about feelings, opinions and reactions, so the only real way to learn
+them is as a unit: **verb + preposition + case**, drilled together.
+
+| Präp | Kasus (Beispielverben) | Beispiel |
 |---|---|---|
-| `an` | Akk. (denken an, sich erinnern an) | Ich denke **an den** Film. |
-| `an` | Dat. (teilnehmen an, arbeiten an) | Er arbeitet **an dem** Projekt. |
-| `auf` | Akk. (warten auf, sich freuen auf…) | Wir warten **auf eine** Antwort. |
-| `auf` | Dat. (bestehen auf) | Er besteht **auf seinem** Recht. |
-| `für` | Akk. (sich interessieren für, sorgen für…) | Sie sorgt **für die** Familie. |
-| `mit` | Dat. (sich beschäftigen mit, sprechen mit…) | Ich beschäftige mich **damit**. |
-| `über` | Akk. (sprechen über, sich ärgern über…) | Wir sprechen **über das** Thema. |
-| `um` | Akk. (sich kümmern um, sich bewerben um…) | Sie kümmert sich **um das** Problem. |
-| `von` | Dat. (träumen von, abhängen von…) | Das hängt **von der** Situation ab. |
-| `vor` | Dat. (Angst haben vor, sich fürchten vor…) | Er fürchtet sich **vor dem** Hund. |
-| `zu` | Dat. (gehören zu, beitragen zu…) | Das gehört **zu dem** Plan. |
+| `an` | Akk. (denken, sich erinnern, glauben) | Ich denke **an den** Film. |
+| `an` | Dat. (teilnehmen, arbeiten) | Er arbeitet **an dem** Projekt. |
+| `auf` | Akk. (warten, sich freuen, achten) | Wir warten **auf eine** Antwort. |
+| `für` | Akk. (sich interessieren, sorgen) | Sie sorgt **für die** Familie. |
+| `über` | Akk. (sprechen, sich ärgern, nachdenken) | Wir sprechen **über das** Thema. |
+| `um` | Akk. (sich kümmern, sich bewerben, bitten) | Sie kümmert sich **um das** Problem. |
+| `von` | Dat. (träumen, abhängen, überzeugt sein) | Das hängt **von der** Situation ab. |
+| `vor` | Dat. (Angst haben, sich fürchten, warnen) | Er fürchtet sich **vor dem** Hund. |
+| `zu` | Dat. (gehören, beitragen, führen) | Das gehört **zu dem** Plan. |
 
-> ⚠️ **Two prepositions, one verb: `sich freuen`**
+**Examples:**
+
+1. Ich interessiere mich **für** digitales Projektmanagement.
+2. Wir warten **auf** eine klare Antwort.
+3. Sie ärgert sich **über** das offene Ende.
+4. Der Erfolg hängt **von** guter Kommunikation ab.
+5. Ich kümmere mich **um** die Dokumentation.
+6. Er träumt **von** einem Neuanfang.
+7. Ich verlasse mich **auf** mein Team.
+8. Sie denkt oft **an** ihre Zeit in Prag.
+
+> ⚠️ **Häufige Fehler**
 >
-> | Form | Meaning |
+> | ❌ Wrong | ✅ Right |
 > |---|---|
-> | Ich freue mich **auf** etwas (Akk.) | I look forward to sth. (future event) |
-> | Ich freue mich **über** etwas (Akk.) | I am glad about sth. (present/past fact) |
+> | *Ich warte **für** den Bus.* | *Ich warte **auf** den Bus.* (fixed: warten **auf**) |
+> | *Ich denke **über** den Film.* (≠ nachdenken) | *Ich denke **an** den Film.* (denken **an**) |
+> | *Ich freue mich **über** das Konzert.* (future event) | *Ich freue mich **auf** das Konzert.* (auf = future) |
+
+> 💡 **Lerntipp:** One verb worth a special note: **`sich freuen`** takes two
+> prepositions. **`auf`** = looking forward to something *still ahead*
+> (*ich freue mich **auf** das Konzert*); **`über`** = glad about something
+> *already here or past* (*ich freue mich **über** dein Geschenk*). Future → `auf`,
+> present/past → `über`.
+
+**Versuch es selbst.** Welche Präposition? „Ich interessiere mich ___ Kunst." / „Ich habe Angst ___ der Prüfung."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich interessiere mich **für** Kunst.* · *Ich habe Angst **vor** der Prüfung.*
+
+</details>
+
+> 📌 **Merkasten — feste Präpositionen**
 >
-> *Ich freue mich **auf** das Konzert.* (still in the future)
-> *Ich freue mich **über** dein Geschenk.* (I already have it / it happened)
+> ▶ Verb + Präposition are inseparable — learn them as one chunk.
+> ▶ The preposition fixes the case (e.g. *denken an* + Akk., *träumen von* + Dat.).
+> ▶ `sich freuen auf` (future) vs. `sich freuen über` (present/past).
 
 ---
 
-### 4.2 Pronominaladverbien — `da(r)- + Präposition`
+### 6.2 Pronominaladverbien — `da(r)- + Präposition`
 
-When you want to replace a **prepositional phrase** that refers to a **thing or
-idea** (not a person), German uses a **Pronominaladverb** instead of
-`Präposition + Pronomen`:
+**Warum?** When the thing after a prepositional verb is an **object or idea**
+(not a person), German doesn't say *„auf das"* or *„über das"* — it fuses
+preposition and pronoun into a single **Pronominaladverb**: *Ich warte **darauf**.
+Ich ärgere mich **darüber**.* The rule for building it is tiny: preposition
+starting with a **consonant** → **`da-`** (*da-für, da-mit, da-von, da-vor*);
+starting with a **vowel** → **`dar-`** (*dar-an, dar-auf, dar-über, dar-um*) — the
+`r` just makes it pronounceable. The one thing to remember: this is **only for
+things**. For people you keep the normal *preposition + pronoun* (*an **ihn**, auf
+**sie***).
 
-| Normal pronoun (person) | Pronominaladverb (thing/idea) |
+| Person (Präp + Pronomen) | Sache (Pronominaladverb) |
 |---|---|
-| Ich denke **an ihn**. (person) | Ich denke **daran**. (thing/idea) |
-| Ich warte **auf sie**. (person) | Ich warte **darauf**. (thing/idea) |
-| Ich spreche **mit ihm**. (person) | Ich spreche **damit**. (thing/idea) |
-| Ich träume **von ihr**. (person) | Ich träume **davon**. (thing/idea) |
+| Ich denke **an ihn**. | Ich denke **daran**. |
+| Ich warte **auf sie**. | Ich warte **darauf**. |
+| Ich spreche **mit ihm**. | Ich spreche **damit** (darüber). |
+| Ich träume **von ihr**. | Ich träume **davon**. |
 
-**Formation rule:**
-- Preposition starts with a **consonant** → `da + Präposition`: `dafür`, `damit`, `davon`, `davor`, `dazu`
-- Preposition starts with a **vowel** → `dar + Präposition`: `daran`, `darauf`, `darüber`, `darum`
+**Examples:**
 
-| Präposition | Pronominaladverb | Example |
-|---|---|---|
-| an | **daran** | Ich denke **daran**. |
-| auf | **darauf** | Ich warte **darauf**. |
-| über | **darüber** | Ich freue mich **darüber**. |
-| für | **dafür** | Ich interessiere mich **dafür**. |
-| mit | **damit** | Ich beschäftige mich **damit**. |
-| von | **davon** | Ich träume **davon**. |
-| vor | **davor** | Ich warne dich **davor**. |
-| um | **darum** | Ich kümmere mich **darum**. |
-| zu | **dazu** | Das gehört **dazu**. |
+1. Ich interessiere mich sehr **dafür**.
+2. Ich freue mich **darüber**, dass du da bist.
+3. Ich denke noch oft **daran**.
+4. Ich kümmere mich **darum**.
+5. Ich träume **davon**.
+6. Ich warne dich **davor**.
+7. Es hängt **davon** ab.
+8. Das gehört **dazu**.
 
-> 📌 **Merkasten — `da(r)-` vs. `Präp + Pronomen`**
+> ⚠️ **Häufige Fehler**
 >
-> | Rule | Example |
+> | ❌ Wrong | ✅ Right |
 > |---|---|
-> | **Thing/idea → Pronominaladverb** | Ich denke **daran** (an den Film). |
-> | **Person → Präp + Pronomen** | Ich denke **an ihn** (an Pavel). |
-> | **Consonant: `da-`** | `da` + `für` = **dafür** |
-> | **Vowel: `dar-`** | `dar` + `auf` = **darauf** |
+> | *Ich denke **daran ihn**.* | *Ich denke **an ihn**.* (person → no `da-` form) |
+> | *Ich freue mich **dafür**.* (sich freuen auf/über) | *Ich freue mich **darauf** / **darüber**.* (right preposition) |
+> | *Ich warte **dauf**.* | *Ich warte **darauf**.* (vowel → `dar-`) |
 
-⚠️ **Common trap:** German learners often say `*Ich denke daran ihn*` — wrong!
-For persons: *Ich denke an ihn* (no `da-` form).
+> 💡 **Lerntipp:** Two checks. **(1) Person or thing?** Thing → `da(r)-`; person →
+> *Präp + ihn/ihr*. **(2) Vowel or consonant?** Vowel-preposition gets the bridging
+> `r`: *dar·auf, dar·über, dar·an*; consonant-preposition stays bare: *da·mit,
+> da·für, da·von*.
+
+**Versuch es selbst.** Ersetz die Sache durch ein Pronominaladverb: „Ich freue mich **auf das Wochenende**."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich freue mich **darauf**.*
+
+</details>
+
+> 📌 **Merkasten — `da(r)-`**
+>
+> | Regel | Beispiel |
+> |---|---|
+> | Sache → Pronominaladverb | Ich denke **daran** (an den Film). |
+> | Person → Präp + Pronomen | Ich denke **an ihn** (an Pavel). |
+> | Konsonant → `da-` | da + für = **dafür** |
+> | Vokal → `dar-` | dar + auf = **darauf** |
 
 ---
 
-### 4.3 Fragen mit `wo(r)- + Präposition`
+### 6.3 Fragen mit `wo(r)- + Präposition`
 
-To ask **what** thing or idea someone is referring to, use `wo(r)- + Präposition`:
+**Warum?** To *ask* about the thing behind a prepositional verb, German uses the
+matching question word: **`wo(r)- + Präposition`**. *Worüber redest du? Worauf
+wartest du? Woran denkst du?* It's built exactly like `da(r)-`, just with `wo-`:
+consonant → **`wo-`** (*wofür, womit, wovon*), vowel → **`wor-`** (*woran, worauf,
+worüber*). And the same person/thing split applies: for **people** you ask with
+*preposition + wen/wem* — **`Auf wen` wartest du?** (a person) vs. **`Worauf`
+wartest du?** (a thing).
 
-| Question | Answer |
+| Frage (Sache) | Antwort |
 |---|---|
-| **Worüber** redest du? | Ich rede **darüber** / über den Film. |
-| **Worauf** wartest du? | Ich warte **darauf** / auf den Bus. |
-| **Woran** denkst du? | Ich denke **daran** / an den Urlaub. |
-| **Womit** beschäftigst du dich? | Ich beschäftige mich **damit** / mit dem Projekt. |
-| **Wovon** träumst du? | Ich träume **davon** / von einer Reise. |
-| **Wofür** interessierst du dich? | Ich interessiere mich **dafür** / für Kunst. |
-| **Wovor** hast du Angst? | Ich habe Angst **davor** / vor dem Prüfungsstress. |
-| **Worum** geht es? | Es geht **darum** / um die Entscheidung. |
+| **Worüber** redest du? | Über den Film. / **Darüber**. |
+| **Worauf** wartest du? | Auf den Bus. / **Darauf**. |
+| **Woran** denkst du? | An den Urlaub. / **Daran**. |
+| **Womit** beschäftigst du dich? | Mit dem Projekt. / **Damit**. |
+| **Wovon** träumst du? | Von einer Reise. / **Davon**. |
+| **Wofür** interessierst du dich? | Für Kunst. / **Dafür**. |
 
-**Formation rule** — same as `da(r)-`:
-- Consonant → `wo + Präp`: `wofür`, `womit`, `wovon`, `wovor`, `wozu`
-- Vowel → `wor + Präp`: `woran`, `worauf`, `worüber`, `worum`
+**Examples:**
 
-> ⚠️ **Person or thing?**
+1. **Worauf** verlassen Sie sich unter Druck?
+2. **Worum** kümmern Sie sich hauptsächlich?
+3. **Wovon** hängt der Erfolg ab?
+4. **Wofür** interessierst du dich?
+5. **Worüber** hast du dich geärgert?
+6. **Woran** erinnerst du dich?
+7. **Wovor** hast du Angst?
+8. *Aber Person:* **Auf wen** wartest du? — Auf Pavel.
+
+> ⚠️ **Häufige Fehler**
 >
-> | Person | Thing/Idea |
+> | ❌ Wrong | ✅ Right |
 > |---|---|
-> | **Auf wen** wartest du? → Auf Pavel. | **Worauf** wartest du? → Auf den Bus. |
-> | **Mit wem** sprichst du? → Mit Mia. | **Womit** beschäftigst du dich? → Mit dem Bericht. |
-> | **An wen** denkst du? → An meine Mutter. | **Woran** denkst du? → An den Urlaub. |
+> | ***Über was** redest du?* (colloquial) | ***Worüber** redest du?* (standard) |
+> | ***Worauf** wartest du? — Auf meine Mutter.* | ***Auf wen** wartest du? — Auf meine Mutter.* (person!) |
+> | ***Wovür** interessierst du dich?* | ***Wofür** interessierst du dich?* (consonant → `wo-`) |
+
+> 💡 **Lerntipp:** `wo(r)-` mirrors `da(r)-` perfectly: where you'd answer with
+> *darauf*, you ask with *worauf*; *darüber* ↔ *worüber*. So learn them in pairs.
+> And the golden split never changes — **thing → `wo(r)-`**, **person → `Präp +
+> wen/wem`**.
+
+**Versuch es selbst.** Frag nach der Sache: „Ich denke an den Urlaub." → „___ denkst du?"
+
+<details>
+<summary>📝 Lösung</summary>
+
+> ***Woran** denkst du?*
+
+</details>
+
+> 📌 **Merkasten — `wo(r)-`**
+>
+> | Konsonant → `wo-` | Vokal → `wor-` |
+> |---|---|
+> | wofür, womit, wovon, wovor | woran, worauf, worüber, worum |
+>
+> ▶ Sache → `wo(r)-`. ▶ Person → `Auf wen / Mit wem / An wen …?`
 
 ---
 
-### 4.4 Anticipatory `da(r)-` — Korrelat
+### 6.4 Anticipatory `da(r)-` — das Korrelat
 
-When the prepositional verb is followed by a **`dass`-clause** or a **`zu`-Infinitive**,
-the Pronominaladverb appears **before the clause** as an **anticipatory marker**
-(Korrelat). This is very common in German and sounds natural:
+**Warum?** When a prepositional verb is followed by a whole **`dass`-clause** or
+a **`zu`-Infinitiv**, German often plants the `da(r)-` form *in advance*, right
+after the verb, as a little signpost (a *Korrelat*): *Ich freue mich **darüber**,
+**dass** du gekommen bist.* / *Ich freue mich **darauf**, dich **zu** sehen.* It
+points forward to the clause that explains it. With many verbs (*sich freuen über,
+überzeugt sein von, achten auf, es kommt an auf*) this Korrelat is strongly
+preferred; with a few (like *hoffen*) it's dropped. When in doubt with the
+classic feeling-verbs, include it — it sounds natural and complete.
 
-**With `dass`-clause:**
+**Examples:**
 
-> *Ich freue mich **darüber**, dass du gekommen bist.*
-> (I'm happy that you came.)
+1. Ich freue mich **darüber**, **dass** du gekommen bist.
+2. Ich freue mich **darauf**, dich bald **zu** sehen.
+3. Ich bin **davon** überzeugt, **dass** sie die Beste ist.
+4. Es kommt **darauf** an, **dass** du pünktlich bist.
+5. Ich achte **darauf**, Prioritäten früh **zu** setzen.
+6. Ich kümmere mich **darum**, **dass** alles dokumentiert wird.
+7. Ich warne dich **davor**, das **zu** tun.
+8. Ich verlasse mich **darauf**, **dass** das Team mitzieht.
+
+> ⚠️ **Häufige Fehler**
 >
-> *Ich bin **davon** überzeugt, dass sie die Beste ist.*
-> (I'm convinced that she is the best.)
->
-> *Es kommt **darauf** an, dass du pünktlich bist.*
-> (It depends on your being punctual.)
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich freue mich, **dass** du kommst.* (with this verb) | *Ich freue mich **darüber**, dass du kommst.* (Korrelat needed) |
+> | *Ich bin überzeugt **das**, dass …* | *Ich bin **davon** überzeugt, dass …* (`davon`, not `das`) |
+> | *Es kommt an, **dass** …* | *Es kommt **darauf** an, dass …* (anticipatory `darauf`) |
 
-**With `zu`-Infinitive (same subject):**
+> 💡 **Lerntipp:** Think of the `da(r)-` as a colon you can hear: *„Ich freue mich
+> darüber: nämlich, dass du kommst."* The Korrelat announces that the explanation
+> is coming. Keep it with the strong feeling-verbs (*sich freuen, sich ärgern,
+> überzeugt sein, achten, es kommt an*); drop it after *hoffen* (*Ich hoffe, dass …*).
 
-> *Ich freue mich **darauf**, dich zu sehen.*
-> (I'm looking forward to seeing you.)
->
-> *Ich achte **darauf**, Prioritäten früh zu setzen.*
-> (I make sure to set priorities early.)
->
-> *Ich warne dich **davor**, das zu tun.*
-> (I warn you against doing that.)
+**Versuch es selbst.** Ergänze das Korrelat: „Ich freue mich ___, dich zu sehen." / „Es kommt ___ an, dass du übst."
 
-> 📌 **Merkasten — Anticipatory `da(r)-`**
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich freue mich **darauf**, dich zu sehen.* · *Es kommt **darauf** an, dass du übst.*
+
+</details>
+
+> 📌 **Merkasten — anticipatory `da(r)-`**
 >
-> | Structure | Example |
+> | Struktur | Beispiel |
 > |---|---|
 > | Verb + `da(r)-` + `, dass …` | Ich freue mich **darüber**, **dass** du kommst. |
-> | Verb + `da(r)-` + `, … zu …` | Ich freue mich **darauf**, **zu** reisen. |
-> | The `da(r)-` cannot be omitted | *~~Ich freue mich, dass du kommst~~* → ❌ needs `darüber` |
+> | Verb + `da(r)-` + `, … zu …` | Ich freue mich **darauf**, zu reisen. |
 >
-> ⚠️ Note: some verbs optionally include or omit the Korrelat. With `sich freuen
-> über` + `dass`, the `darüber` is strongly preferred. With `hoffen`, the Korrelat
-> is usually omitted: *Ich hoffe, dass du kommst.* (no `darauf`).
+> ▶ Strongly preferred with *sich freuen, überzeugt sein, achten auf, es kommt an auf*. ▶ Omitted after *hoffen*.
 
 ---
 
-## 5. Lesetext — Interview mit Anna: Mein erstes Jahr als Projektkoordinatorin
+## 7. Lesetext — Interview mit Anna: Mein erstes Jahr als Projektkoordinatorin
 
-*Lies den Text zweimal: einmal schnell, einmal langsam. Er wird in Block C verwendet.*
+*Lies den Text zweimal: einmal schnell, einmal langsam. Er wird in den Übungen verwendet.*
 
 Die Berliner Startup-Zeitschrift *Gründerzeit* hat Anna Kowalski interviewt, die
 seit einem Jahr als Junior-Projektkoordinatorin bei einem Tech-Startup in Mitte
@@ -371,11 +527,11 @@ davon überzeugt, dass sie den Unterschied machen.
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
-## 6. Hörtext — Pavel spricht mit Mia über seine Arbeit
+## 8. Hörtext — Pavel spricht mit Mia über seine Arbeit
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -386,29 +542,33 @@ davon überzeugt, dass sie den Unterschied machen.
 
 ---
 
-## 7. Lernstrategie — Die da(r)-Kette
+## 9. Magazin — Landeskunde
 
-The fastest way to make Pronominaladverbien automatic is **chunking the verb with
-its `da(r)-` form**. Don't learn verbs in isolation — learn them as fixed pairs:
+### „Ich sehe das anders" — die deutsche Lust an der Diskussion
 
-| Verb (+ Präp) | `da(r)-` Form | Chunk |
-|---|---|---|
-| sich freuen auf | darauf | *Ich freue mich darauf.* |
-| sich ärgern über | darüber | *Ich ärgere mich darüber.* |
-| denken an | daran | *Ich denke daran.* |
-| sich kümmern um | darum | *Ich kümmere mich darum.* |
-| träumen von | davon | *Ich träume davon.* |
-| achten auf | darauf | *Ich achte darauf.* |
-| überzeugt sein von | davon | *Ich bin davon überzeugt.* |
+In vielen Kulturen gilt es als unhöflich, offen zu widersprechen. In Deutschland ist es fast umgekehrt: Wer eine andere Meinung hat, sagt sie — direkt, aber meistens sachlich. *„Da bin ich anderer Meinung."* *„Ich sehe das anders."* Solche Sätze sind kein Streit, sondern ganz normaler Austausch. Viele Zugezogene erschrecken am Anfang darüber, wie offen Deutsche Kritik äußern. Doch dahinter steckt selten böser Wille: Eine klare Meinung gilt als ehrlich und sogar respektvoll. Wer sich darauf einlässt, merkt schnell — eine gute deutsche Diskussion ist kein Konflikt, sondern fast ein kleiner Sport.
 
-**Method:** Make a flashcard for each pair. Front: the English meaning + a blank.
-Back: the full German chunk. Drill 5 minutes a day. By day 7, the `da(r)-` will
-feel as natural as the verb itself.
+> Direktheit ist in Deutschland keine Unhöflichkeit, sondern ein Zeichen von Respekt: Man traut dir eine eigene Meinung zu.
 
-**Extension — write a chain:** Take any topic (a film you saw, a plan you have)
-and write 4–5 sentences using different `da(r)-` forms:
-> *Ich habe an den Film gedacht. Ich freue mich darüber, dass wir ihn zusammen
-> geschaut haben. Ich denke noch immer daran. Ich träume davon, dass es eine
-> Fortsetzung gibt.*
+---
 
-➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
+## 10. Lernstrategie
+
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jedes Präpositionalverb und jede `da(r)-`/`wo(r)-`-Form
+- Wortschatz §4 mit verdeckter Spalte testen — zu jedem Verb Präposition + Kasus + `da(r)-`-Form nennen
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
+
+### Tag 2 (30 min) — Vertiefung
+- **Die da(r)-Kette:** Aus 7 Verben feste Chunks bilden (*sich freuen auf → darauf*) und 5 Min. laut drillen
+- §6.2–§6.3: zu 6 Sätzen passende `wo(r)-`-Fragen schreiben — bei Personen `Auf wen?` statt `Worauf?`
+- *Versuch es selbst* in §6.1–§6.4 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- §6.4: 5 Sätze mit anticipatory `da(r)-` + `dass` und 5 mit `da(r)-` + `zu` schreiben
+- Lesetext §7 (Interview) lesen, alle Präpositionalverben + `da(r)-`-Formen markieren und zählen
+- Hörtext §8 hören, Transkript erst danach öffnen — alle `da(r)-`-Formen heraushören; dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
