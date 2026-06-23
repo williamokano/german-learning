@@ -1,3 +1,24 @@
+---
+level: B1
+number: 9
+slug: indirekte-fragen-und-hoeflichkeit
+title: "Indirekte Fragen & Höflichkeit"
+titleEn: "Indirect Questions & Politeness"
+canDo:
+  - ask indirect questions politely
+  - navigate service situations (office, hotel, phone)
+  - make formal phone calls and clarify misunderstandings
+  - use the full range of German politeness forms
+grammar:
+  - "indirect questions with ob (yes/no) and W-word + verb at the end"
+  - "polite register with Konjunktiv II (könnten, würden, dürfte)"
+  - "polite requests: hätte gern, wäre es möglich, softening phrases"
+buildsOn:
+  - B1/03 (Konjunktiv II — könnte, würde, hätte, wäre, dürfte)
+  - A2/07 (modal verbs in context)
+  - A1/05 (W-questions — now embedded as indirect questions)
+---
+
 # B1 · Lektion 9 — Indirekte Fragen & Höflichkeit (Indirect Questions & Politeness)
 
 > **You will learn to:** ask indirect questions politely, navigate service situations
@@ -70,7 +91,13 @@ phone conventions throughout.*
 
 ---
 
-## 2. Redemittel
+## 2. Einstieg — Was lernst du heute?
+
+*Wann ist der nächste Termin?* — auf dem Amt, am Telefon oder im Hotel klingt so eine direkte Frage schnell zu schroff. Höflicher ist die **indirekte Frage**: *Könnten Sie mir sagen, **wann der nächste Termin ist**?* Zwei Dinge lernst du heute. Erstens die **Struktur**: Die indirekte Frage ist ein Nebensatz — das Verb wandert ans **Ende**, eingeleitet von **`ob`** (Ja/Nein-Frage) oder einem **W-Wort** (*wann, wie, was*). Zweitens die **Höflichkeit**: Mit **Konjunktiv II** (*könnten, würden, hätte, wäre, dürfte*) — schon aus B1/03 bekannt — wird jede Bitte freundlich. This is the register of offices, phone calls and service desks — the German that gets you taken seriously *and* treated kindly.
+
+---
+
+## 3. Redemittel
 
 ### Indirekte Fragen einleiten (introducing indirect questions)
 
@@ -124,9 +151,11 @@ phone conventions throughout.*
 
 ---
 
-## 3. Wortschatz
+## 4. Wortschatz
 
 ### Servicegespräche (service situations)
+
+> 💡 **Lerntipp:** Diese Nomen sind die „Bühne" jeder höflichen Frage. Bau sie gleich in eine indirekte Frage ein: *„Könnten Sie mir sagen, ob mein **Antrag** schon bearbeitet ist?"* So lernst du Wort und Höflichkeitsstruktur zusammen.
 
 | Nomen | Englisch |
 |---|---|
@@ -146,6 +175,8 @@ phone conventions throughout.*
 | der Dolmetscher, – / die Dolmetscherin, -nen | interpreter |
 
 ### Verben für höfliche Kommunikation (verbs for polite communication)
+
+> 💡 **Lerntipp:** Üb diese Verben sofort im Konjunktiv II der Höflichkeit: *Würden Sie das **wiederholen**? Könnten Sie das **erklären**? Dürfte ich das **einreichen**?* Das Verb allein ist neutral — erst die höfliche Form macht es zum B1-Werkzeug.
 
 | Verb | Bedeutung |
 |---|---|
@@ -172,223 +203,289 @@ phone conventions throughout.*
 | direkt | direct |
 | genau | exactly, precisely |
 
----
-
-## 4. Grammatik
-
-### 4.1 Indirekte Fragen — Struktur und Funktion
-
-Indirect questions (indirekte Fragen) embed a question inside a statement or polite
-request. Instead of asking directly, you soften the question by introducing it with
-a phrase like "Könnten Sie mir sagen, …" or "Ich möchte wissen, …"
-
-**Why learn this?** Native speakers use indirect questions constantly in formal
-contexts — at offices, on the phone, in shops, in emails. Direct questions can sound
-blunt or even rude in German service contexts.
-
-Compare:
-- Direct: *Wann kommt der Zug?* (When does the train come?)
-- Indirect: *Könnten Sie mir sagen, **wann der Zug kommt**?* (Could you tell me
-  when the train comes?)
-
-**The key rule: the verb moves to the END of the indirect question.**
+> ✏️ **Selbsttest Wortschatz:** Cover the English column. Can you recall every word — *and* turn three of the verbs into a polite request with `Könnten/Würden/Dürfte`? Aim for ≥80% before the exercises.
 
 ---
 
-#### 4.1a Ja/Nein-Fragen → `ob` (yes/no questions → `ob`)
+## 5. Mini-Geschichte — Im Fundbüro
 
-Yes/no questions become indirect by replacing the direct question with `ob` + verb at end.
+Lies den Text zuerst zügig. Beim zweiten Lesen markiere jede indirekte Frage (*ob …*, *wann …*, *was …*) und jede Höflichkeitsform.
 
-| Direct question | Indirect question |
+Bruno hat seinen Rucksack in der U-Bahn vergessen. Zum Glück gibt es in Berlin ein Fundbüro. Bevor er hingeht, ruft Anna ihn an. „Weißt du, ob das Fundbüro überhaupt geöffnet ist?", fragt sie. „Keine Ahnung", sagt Bruno. „Ich würde gern wissen, ob ich einen Termin brauche."
+
+Am Schalter ist Bruno extra höflich. „Guten Tag. Entschuldigung, dürfte ich fragen, ob hier ein blauer Rucksack abgegeben wurde?" Die Mitarbeiterin lächelt. „Könnten Sie mir sagen, wann Sie ihn verloren haben?" „Heute Morgen, gegen acht. Ich weiß nicht genau, ob es die Linie U8 oder die U2 war."
+
+Die Frau schaut in den Computer. „Würden Sie mir beschreiben, was darin war?" „Natürlich. Drin sind mein Laptop, ein Buch und ein Regenschirm." „Und könnten Sie mir sagen, welche Farbe der Schirm hat?" „Rot."
+
+„Einen Moment bitte." Nach kurzer Zeit kommt sie zurück. „Ich glaube, wir haben ihn. Dürfte ich fragen, ob Sie einen Ausweis dabeihaben?" Bruno ist erleichtert. „Ja, gern. Wäre es möglich, ihn gleich mitzunehmen?" „Selbstverständlich. Würden Sie bitte hier unterschreiben?"
+
+Auf dem Heimweg ruft Bruno sofort Anna an. „Stell dir vor — sie hatten ihn wirklich! Ich wollte schon fragen, ob ich alles neu kaufen muss." Anna lacht. „Siehst du? Höflich fragen hilft. Ich hätte nicht gedacht, dass das so gut klappt." „Ehrlich gesagt", sagt Bruno, „ich auch nicht."
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Was hat Bruno verloren und wo?**
+> *Seinen blauen Rucksack in der U-Bahn.*
+>
+> **2. Welche zwei Fragen stellt die Mitarbeiterin?**
+> *Sie fragt, wann er ihn verloren hat und was darin war.*
+>
+> **3. Wie endet die Geschichte?**
+> *Das Fundbüro hatte den Rucksack — Bruno bekommt ihn zurück.*
+
+</details>
+
+---
+
+## 6. Grammatik
+
+### 6.1 Indirekte Ja/Nein-Fragen mit `ob`
+
+**Warum?** A direct yes/no question (*Ist der Termin frei?*) can sound abrupt in
+German service contexts. The polite move is to *embed* it inside a frame like *Ich
+möchte wissen …* or *Könnten Sie mir sagen …* — and a yes/no question embedded this
+way is introduced by **`ob`** ("whether/if"). The crucial structural change: the
+indirect question is a **subordinate clause**, so the **verb jumps to the end** —
+*…, **ob** der Termin **frei ist**.* (not *ob ist der Termin frei*). A comma always
+separates the frame from the `ob`-clause.
+
+| Direkte Frage | Indirekte Frage |
 |---|---|
 | Fährt der Zug? | Ich frage mich, **ob** der Zug **fährt**. |
 | Ist der Termin frei? | Könnten Sie sagen, **ob** der Termin **frei ist**? |
 | Muss ich persönlich kommen? | Ich weiß nicht, **ob** ich persönlich **kommen muss**. |
 | Hat er angerufen? | Fragen Sie, **ob** er **angerufen hat**. |
 
+**Examples:**
+
+1. Ich weiß nicht, **ob** ich persönlich hingehen **muss**.
+2. Ich möchte wissen, **ob** mein Antrag schon bearbeitet **wurde**.
+3. Dürfte ich fragen, **ob** ich jemanden mitbringen **darf**?
+4. Könnten Sie sagen, **ob** noch Termine frei **sind**?
+5. Weißt du, **ob** das Fundbüro geöffnet **ist**?
+6. Sie fragt, **ob** das Frühstück inbegriffen **ist**.
+7. Ich bin nicht sicher, **ob** der Brief angekommen **ist**.
+8. Wäre es möglich? — Ich frage mich, **ob** das **geht**.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *…, ob **ist** der Termin frei.* | *…, ob der Termin **frei ist**.* (verb to the end) |
+> | *…, **wenn** der Zug fährt.* (= temporal/conditional) | *…, **ob** der Zug fährt.* (yes/no → `ob`) |
+> | *…, ob ich **kann** kommen.* | *…, ob ich kommen **kann**.* (modal last) |
+
+> 💡 **Lerntipp:** `ob` = "whether", and it always replaces a **yes/no** question.
+> Don't confuse it with `wenn` (which means "if/when" in conditions). Treat the
+> `ob`-clause exactly like a `weil`-clause: conjugated verb goes **last**; with a
+> modal or Perfekt, the finite verb (modal / *hat*/*ist*) is the very last word.
+
+**Versuch es selbst.** Mach indirekt: „Ist der Laden geöffnet?" → „Ich möchte wissen, …"
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich möchte wissen, **ob** der Laden **geöffnet ist**.*
+
+</details>
+
 > 📌 **Merkasten — `ob`**
 >
-> | Rule | Detail |
+> | Regel | Detail |
 > |---|---|
-> | `ob` = "whether / if" | replaces every direct yes/no question |
-> | Verb goes to the END | ob der Zug **fährt** (not: *ob fährt der Zug*) |
-> | Comma before the clause | Ich frage mich**,** ob … |
+> | `ob` = whether/if | replaces every yes/no question |
+> | Verb → Ende | ob der Zug **fährt** |
+> | Komma davor | Ich frage mich**,** ob … |
 
 ---
 
-#### 4.1b W-Fragen → W-Wort + Verb am Ende (W-questions → W-word + verb last)
+### 6.2 Indirekte W-Fragen — W-Wort + Verb am Ende
 
-W-questions become indirect by keeping the W-word but moving the verb to the end.
+**Warum?** For *open* questions (with *wann, wie, was, wo, welche, warum*), you keep
+the **W-word** as the door of the clause and — again — send the **verb to the end**:
+*Können Sie mir sagen, **wann** der Zug **fährt**?* The W-word does the job `ob` does
+for yes/no questions. The same end-position rule covers tricky cases: with a
+**modal**, the modal goes last (*welche Dokumente ich mitbringen **muss***); with the
+**Perfekt**, the auxiliary `hat`/`ist` goes last (*warum mein Antrag abgelehnt
+**wurde***).
 
-| Direct W-question | Indirect question |
+| Direkte W-Frage | Indirekte Frage |
 |---|---|
-| Wann fährt der Zug? | Können Sie mir sagen, **wann** der Zug **fährt**? |
+| Wann fährt der Zug? | Können Sie sagen, **wann** der Zug **fährt**? |
 | Wie lange dauert das? | Ich möchte wissen, **wie lange** das **dauert**. |
 | Welche Dokumente brauche ich? | Könnten Sie erklären, **welche Dokumente** ich **mitbringen muss**? |
-| Wo ist das Büro? | Wissen Sie, **wo** das Büro **ist**? |
 | Was bedeutet das? | Ich verstehe nicht, **was** das **bedeutet**. |
-| Warum wurde mein Antrag abgelehnt? | Dürfte ich fragen, **warum** mein Antrag **abgelehnt wurde**? |
+| Warum wurde der Antrag abgelehnt? | Dürfte ich fragen, **warum** der Antrag **abgelehnt wurde**? |
+
+**Examples:**
+
+1. Könnten Sie mir sagen, **wann** der nächste Termin **ist**?
+2. Ich möchte wissen, **wie** die Präsentation **ablaufen soll**.
+3. Würden Sie erklären, **was** mit diesem Punkt **gemeint ist**?
+4. Weißt du, **welche** Dokumente ich **mitbringen muss**?
+5. Ich frage mich, **wie weit** das Hotel **entfernt ist**.
+6. Könnten Sie sagen, **wo** das Büro **ist**?
+7. Sie fragt, **wann** Sie den Rucksack **verloren haben**.
+8. Es ist unklar, **warum** der Brief nicht **angekommen ist**.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich frage, wann **fährt** der Zug.* | *Ich frage, wann der Zug **fährt**.* (verb last) |
+> | *…, welche Dokumente **muss** ich mitbringen.* | *…, welche Dokumente ich mitbringen **muss**.* (modal last) |
+> | *…, was **bedeutet** das.* | *…, was das **bedeutet**.* (verb last) |
+
+> 💡 **Lerntipp:** The W-word *replaces* the inversion of a direct question. In the
+> direct form the verb comes second (*Wann **fährt** der Zug?*); the moment you embed
+> it, the subject slips in front and the verb drops to the **end** (*…wann der Zug
+> **fährt**.*). One image: the W-word opens the door, the verb closes it.
+
+**Versuch es selbst.** Mach indirekt: „Wie lange dauert die Bearbeitung?" → „Könnten Sie mir sagen, …"
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Könnten Sie mir sagen, **wie lange** die Bearbeitung **dauert**?*
+
+</details>
 
 > 📌 **Merkasten — W-Wort + Verb-Ende**
 >
-> | Rule | Detail |
+> | Regel | Detail |
 > |---|---|
-> | W-word stays first in its clause | **wann** der Zug fährt (wann is fixed) |
-> | Verb goes to the END | wann der Zug **fährt** (not: *wann fährt der Zug*) |
-> | Comma before the clause | Ich möchte wissen**,** wann … |
+> | W-Wort bleibt vorn | **wann** der Zug fährt |
+> | Verb → Ende | wann der Zug **fährt** |
+> | Modal / Perfekt | finite Verb (muss / hat / wurde) ganz am Ende |
 
 ---
 
-#### 4.1c Mit Modalverben (with modal verbs)
+### 6.3 Höflichkeit mit Konjunktiv II — `könnten`, `würden`, `dürfte`
 
-When a modal verb appears in the indirect question, it goes to the very end (same as
-`weil/dass` subordinate clauses — the finite modal goes last):
+**Warum?** German softens requests not with extra words but with a **mood**: the
+**Konjunktiv II** (you met it in B1/03). It signals "I'm not demanding, just gently
+asking". The three workhorses: **`könnten Sie …?`** ("could you…?"), **`würden Sie
+…?`** ("would you…?") and the extra-polite **`dürfte ich …?`** ("may I…?"). Compare
+*Können Sie mir helfen?* (neutral) with *Könnten Sie mir helfen?* (polite) — one
+umlaut changes the whole tone. These pair perfectly with the indirect questions from
+§6.1–§6.2.
 
-| Direct question | Indirect question |
+| Indikativ | Konjunktiv II (höflich) | Gebrauch |
+|---|---|---|
+| Können Sie …? | **Könnten** Sie …? | Could you …? |
+| — | **Würden** Sie …? | Would you …? |
+| Darf ich …? | **Dürfte** ich …? | May I …? (very polite) |
+| Das muss gehen. | Das **müsste** gehen. | That should work. |
+
+**Examples:**
+
+1. **Könnten** Sie mir sagen, wann der nächste Termin ist?
+2. **Würden** Sie das bitte wiederholen?
+3. **Dürfte** ich fragen, ob ich jemanden mitbringen darf?
+4. **Würden** Sie mir erklären, was das bedeutet?
+5. **Könnten** Sie das bitte buchstabieren?
+6. **Dürfte** ich kurz fragen, wie das abläuft?
+7. Das **müsste** eigentlich noch möglich sein.
+8. **Könnten** Sie mir helfen, das Formular auszufüllen?
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Können Sie das wiederholen?* (blunt at an office) | *Könnten Sie das wiederholen?* (umlaut = polite) |
+> | *Werden Sie mir helfen?* (future, sounds odd) | *Würden Sie mir helfen?* (Konjunktiv II = polite) |
+> | *Darf ich fragen …* (fine, but stronger) | *Dürfte ich fragen …* (softer, very polite) |
+
+> 💡 **Lerntipp:** The umlaut is the politeness switch: *kann → **könn**te, darf →
+> **dürf**te, wird → **würd**e*. When you want to be friendly at a counter or on the
+> phone, reach for the Konjunktiv II form first. `würden + Infinitiv` is the safe
+> default for almost any request: *Würden Sie bitte …?*
+
+**Versuch es selbst.** Mach höflich: „Wiederholen Sie das!" → „… Sie das bitte?"
+
+<details>
+<summary>📝 Lösung</summary>
+
+> ***Würden** Sie das bitte **wiederholen**?* (auch: *Könnten Sie das bitte wiederholen?*)
+
+</details>
+
+> 📌 **Merkasten — Konjunktiv II der Höflichkeit**
+>
+> | können → könnten | dürfen → dürfte | werden → würden |
+> |---|---|---|
+> | Könnten Sie …? | Dürfte ich …? | Würden Sie …? |
+>
+> ▶ Umlaut = Höflichkeitssignal. ▶ `würden + Infinitiv` passt fast immer.
+
+---
+
+### 6.4 Höfliche Wünsche und Bitten — `hätte gern`, `wäre es möglich`
+
+**Warum?** Beyond `könnten/würden`, German has a set of fixed Konjunktiv-II phrases
+for *wishing* and *requesting*. **`Ich hätte gern …`** is the standard way to order
+or request ("I would like …") — note it's **`hätte`**, never *habe*. **`Wäre es
+möglich, … zu …?`** and **`Es wäre nett, wenn …`** soften bigger asks, and **`Ich
+wäre Ihnen dankbar, wenn …`** is the polite-formal thank-you-in-advance. Openers
+like **`Entschuldigung, dürfte ich fragen …?`** and **`Hätten Sie einen Moment?`**
+cushion the start of a request.
+
+| Phrase | Gebrauch |
 |---|---|
-| Kann ich einen Termin machen? | Ich frage mich, ob ich einen Termin machen **kann**. |
-| Darf ich jemanden mitbringen? | Dürfte ich fragen, ob ich jemanden mitbringen **darf**? |
-| Muss ich das Formular ausfüllen? | Könnten Sie sagen, ob ich das Formular ausfüllen **muss**? |
+| Ich **hätte gern** … | ordering / requesting (I would like) |
+| **Wäre es möglich**, … zu …? | Would it be possible to …? |
+| Es **wäre nett**, wenn … | softened request |
+| Ich **wäre Ihnen dankbar**, wenn … | very formal, gratitude in advance |
+| **Hätten Sie** einen Moment? | asking for someone's time |
 
-⚠️ **Position of modal verbs:** In a subordinate clause, the finite (conjugated) verb
-goes last — and with a modal, that means the modal goes after the infinitive:
-*ob ich kommen **kann*** (not: *ob ich **kann** kommen*)
+**Examples:**
 
----
+1. Ich **hätte gern** mehr Informationen zu dem Kurs.
+2. Wir **hätten gern** zwei Zimmer für drei Nächte.
+3. **Wäre es möglich**, mir die Datei bis morgen zu schicken?
+4. Es **wäre nett**, wenn Sie kurz antworten könnten.
+5. Ich **wäre Ihnen dankbar**, wenn Sie das erklären könnten.
+6. **Hätten Sie** einen Moment für mich?
+7. Ich hoffe, ich **störe** Sie nicht.
+8. Entschuldigung, **dürfte ich** kurz fragen?
 
-#### 4.1d Mit Perfekt (with Perfekt tense)
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich **habe gern** einen Kaffee.* | *Ich **hätte gern** einen Kaffee.* (Konjunktiv II!) |
+> | *Ist es möglich, dass Sie schicken?* (blunt) | *Wäre es möglich, mir … zu schicken?* (softened) |
+> | *Ich **bin** Ihnen dankbar, wenn …* | *Ich **wäre** Ihnen dankbar, wenn …* (hypothetical → wäre) |
 
-In indirect questions based on Perfekt sentences, the auxiliary verb (`hat/ist`) goes
-to the very end, with the Partizip II immediately before it:
+> 💡 **Lerntipp:** `hätte gern` is a **fixed chunk** — memorise it whole and never
+> let *habe* slip in. The pattern under all of these is the same Konjunktiv II you
+> already know: *hätte, wäre, würde* = the polite, hypothetical version of *habe,
+> bin, werde*. Whenever you want to sound considerate, switch to the umlaut form.
 
-| Direct question | Indirect question |
-|---|---|
-| Hat er angerufen? | Fragen Sie, ob er angerufen **hat**. |
-| Ist der Brief angekommen? | Ich weiß nicht, ob der Brief angekommen **ist**. |
-| Haben Sie meinen Antrag bearbeitet? | Ich möchte wissen, ob Sie meinen Antrag bearbeitet **haben**. |
+**Versuch es selbst.** Bestell höflich im Café: „Ich will einen Tee." → „…"
 
----
+<details>
+<summary>📝 Lösung</summary>
 
-### 4.2 Höflichkeitsformen — Konjunktiv II als Höflichkeitssignal
+> *Ich **hätte gern** einen Tee, bitte.*
 
-The most natural way to be polite in German is to use **Konjunktiv II** forms of
-modal verbs and `würden`. These are already known from B1/03 — here we apply them
-to service and formal communication contexts.
+</details>
 
-**Why Konjunktiv II = polite?** It signals that you are not demanding but hypothetically
-suggesting. Compare:
-- *Können Sie mir helfen?* — neutral/possible
-- *Könnten Sie mir helfen?* — polite (Konjunktiv II = "could you")
-
----
-
-#### 4.2a Konjunktiv II der Modalverben (polite modal forms)
-
-| Modal | Present | Konjunktiv II | Typical use |
-|---|---|---|---|
-| können | kann | **könnte** | Könnten Sie …? (Could you …?) |
-| dürfen | darf | **dürfte** | Dürfte ich …? (May I …? — very formal) |
-| müssen | muss | **müsste** | Das müsste gehen. (That should work.) |
-| sollen | soll | **sollte** | Ich sollte …? (Should I …?) |
-
-> *Könnten Sie mir sagen, wann der nächste Termin ist?*
-> *Dürfte ich kurz fragen, wie das Formular auszufüllen ist?*
-> *Das müsste eigentlich noch in Ordnung sein.*
-
----
-
-#### 4.2b `würden + Infinitiv` (polite requests)
-
-**`würden + Infinitiv`** is the go-to for polite requests — the equivalent of
-English "would you":
-
-| Polite request | Meaning |
-|---|---|
-| Würden Sie das bitte wiederholen? | Would you please repeat that? |
-| Würden Sie mir helfen? | Would you help me? |
-| Würden Sie mir erklären, was das bedeutet? | Would you explain to me what that means? |
+> 📌 **Merkasten — höfliche Wünsche**
+>
+> | Wunsch / Bitte | Form |
+> |---|---|
+> | bestellen / wünschen | Ich **hätte gern** … |
+> | große Bitte | **Wäre es möglich**, … zu …? / Es **wäre nett**, wenn … |
+> | Dank im Voraus | Ich **wäre Ihnen dankbar**, wenn … |
+>
+> ▶ Alle mit Konjunktiv II (*hätte, wäre*). ▶ Nie *habe gern* — immer *hätte gern*.
 
 ---
 
-#### 4.2c `hätte gern` — ordering and requesting
+## 7. Lesetext — Ein Brief ans Hotel
 
-**`hätte gern`** is fixed — it means "I would like" and is used for ordering in
-restaurants, shops, and polite requests:
-
-| Example | Context |
-|---|---|
-| Ich hätte gern einen Kaffee. | Ordering in a café |
-| Ich hätte gern mehr Informationen. | Requesting information |
-| Ich hätte gern das Formular. | Asking for a form |
-| Wir hätten gern zwei Zimmer. | Booking a hotel |
-
-⚠️ **`hätte gern` is a chunk** — use it as a fixed phrase. Do NOT say *Ich habe gern*.
-The Konjunktiv II `hätte` (not `habe`) is what signals politeness.
-
----
-
-#### 4.2d `wäre` — polite conditionals
-
-**`wäre`** (Konjunktiv II of `sein`) is used in softening phrases:
-
-| Example | Meaning |
-|---|---|
-| Wäre es möglich, dass …? | Would it be possible that …? |
-| Das wäre sehr nett. | That would be very nice. |
-| Es wäre toll, wenn … | It would be great if … |
-| Ich wäre Ihnen dankbar, wenn … | I would be grateful if … |
-
----
-
-#### 4.2e Softening phrases (Abschwächungen)
-
-These phrases are used to open polite questions and requests:
-
-| Phrase | Use |
-|---|---|
-| Entschuldigung, darf ich fragen …? | Politely initiating a question |
-| Hätten Sie einen Moment? | Asking for someone's time |
-| Es wäre nett, wenn … | Softened request |
-| Ich wäre Ihnen dankbar, wenn … | Very formal gratitude in advance |
-| Ich hoffe, ich störe Sie nicht. | Standard formal phone opener |
-
----
-
-### 4.3 Satzbau-Übersicht: Indirekte Frage vs. Direktfrage
-
-Here is the full contrast between a direct question and its indirect equivalent.
-Note that indirect questions are **subordinate clauses** — the verb goes to the end,
-and they are introduced by a conjunction (`ob`) or a W-word.
-
-```
-Direktfrage:           Wann    fährt    der Zug?
-                       W-Wort  VERB     Subject
-
-Indirekte Frage:  …,  wann    der Zug  fährt.
-                       W-Wort  Subject  VERB(Ende)
-```
-
-```
-Direktfrage (J/N):  Fährt    der Zug?
-                    VERB     Subject
-
-Indirekte Frage:  …, ob      der Zug    fährt.
-                    ob       Subject    VERB(Ende)
-```
-
-⚠️ **Common mistakes:**
-
-| Error | Correct |
-|---|---|
-| *Ich frage, wann fährt der Zug.* | Ich frage, wann der Zug **fährt**. |
-| *Könnten Sie sagen, ob kommt er?* | Könnten Sie sagen, ob er **kommt**? |
-| *Ich weiß nicht, ob muss ich kommen.* | Ich weiß nicht, ob ich kommen **muss**. |
-
----
-
-## 5. Lesetext — Ein Brief ans Hotel
-
-*Lies den Text zweimal: einmal schnell, einmal langsam. Er wird in Block C verwendet.*
+*Lies den Text zweimal: einmal schnell, einmal langsam. Er wird in den Übungen verwendet.*
 
 Anna plant einen Kurzurlaub in Wien. Bevor sie bucht, schreibt sie dem Hotel eine
 E-Mail, um einige Fragen zu klären:
@@ -421,11 +518,11 @@ Anna Kowalski
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
-## 6. Hörtext — Bruno am Telefon mit dem Bürgeramt
+## 8. Hörtext — Bruno am Telefon mit dem Bürgeramt
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -436,29 +533,33 @@ Anna Kowalski
 
 ---
 
-## 7. Lernstrategie — die Höflichkeits-Transformation
+## 9. Magazin — Landeskunde
 
-The single most useful habit for this lesson is **instant transformation practice**:
-take any direct question that pops into your head, and immediately convert it to an
-indirect polite form before you say or write it.
+### Auf dem Amt — die Kunst des Termins
 
-**The three-step drill:**
+Kaum etwas ist so deutsch wie der Gang aufs Amt. Ob Anmeldung, Aufenthaltstitel oder Kindergeld: Für fast alles braucht man einen **Termin** — und Geduld. Die Beamten sind meist korrekt, aber selten herzlich; wer höflich und gut vorbereitet kommt, hat es leichter. Ein freundliches *„Könnten Sie mir bitte sagen …"* öffnet mehr Türen als ein ungeduldiges *„Ich will …"*. Viele Zugezogene verzweifeln zuerst an den Formularen, den Wartezeiten und dem strengen Siezen. Doch hinter der Bürokratie steckt System: Wer die Regeln kennt und freundlich bleibt, bekommt am Ende fast immer, was er braucht — Stempel inklusive.
 
-1. Think of the direct question: *Wann kommt der Bus?*
-2. Choose an introductory phrase: *Könnten Sie mir sagen, …*
-3. Move the verb to the end: *Könnten Sie mir sagen, **wann der Bus kommt**?*
+> Ohne Termin kein Stempel, ohne Höflichkeit kein Termin — so funktioniert das deutsche Amt.
 
-**For yes/no questions:**
+---
 
-1. Direct: *Ist der Laden geöffnet?*
-2. Introductory phrase: *Ich möchte wissen, …*
-3. Add `ob` + verb last: *Ich möchte wissen, **ob der Laden geöffnet ist**.*
+## 10. Lernstrategie
 
-**Make it real:** Next time you search for information (Google, maps, asking a local),
-form the question twice — once directly in German, once as a polite indirect question.
-At first it feels mechanical; after 5–6 sessions it becomes automatic.
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jede indirekte Frage und jede Höflichkeitsform
+- Wortschatz §4 mit verdeckter Spalte testen — drei Verben in eine höfliche Bitte verwandeln
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
 
-**Politeness benchmark:** If your question could appear in an official email or a
-German bureaucratic phone call without anyone flinching, you've got it.
+### Tag 2 (30 min) — Vertiefung
+- **Höflichkeits-Transformation:** 8 direkte Fragen in indirekte umwandeln (4 mit `ob`, 4 mit W-Wort, §6.1–§6.2) — Verb ans Ende!
+- §6.3: 5 neutrale Bitten in Konjunktiv-II-Form (*könnten/würden/dürfte*) umschreiben
+- *Versuch es selbst* in §6.1–§6.4 auf Papier machen
 
-➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- §6.4: einen kurzen formellen Brief (4–5 Sätze) mit `hätte gern`, `wäre es möglich`, indirekten Fragen schreiben
+- Lesetext §7 (Hotel-Brief) lesen, alle indirekten Fragen markieren und zählen
+- Hörtext §8 hören, Transkript erst danach öffnen — alle indirekten Fragen heraushören; dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
