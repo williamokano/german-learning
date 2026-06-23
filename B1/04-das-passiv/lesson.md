@@ -1,3 +1,24 @@
+---
+level: B1
+number: 4
+slug: das-passiv
+title: Das Passiv
+titleEn: The Passive Voice
+canDo:
+  - describe processes and procedures
+  - talk about how things are made and what rules apply
+  - read and write news-style sentences
+  - express obligations and possibilities with the passive
+grammar:
+  - "Passiv Präsens (wird … gemacht) and Passiv Präteritum (wurde … gemacht)"
+  - "Passiv Perfekt (ist … gemacht worden)"
+  - "Passiv mit Modalverben (muss … gemacht werden) and the agent phrase von + Dativ"
+buildsOn:
+  - B1/01 (Präteritum — Passiv Präteritum uses wurde)
+  - A2/04 (wenn-clauses — Passiv + wenn)
+  - B1/02 (connectors deshalb, obwohl)
+---
+
 # B1 · Lektion 4 — Das Passiv (The Passive Voice)
 
 > **You will learn to:** describe processes and procedures using the passive voice,
@@ -52,7 +73,13 @@
 
 ---
 
-## 2. Redemittel
+## 2. Einstieg — Was lernst du heute?
+
+Wie **wird** ein Auto **gebaut**? Wie **wird** ein Bericht **erstellt**? Sehr oft steht in einem deutschen Satz nicht die Person im Mittelpunkt, sondern die Handlung selbst — *was* gemacht wird, nicht *wer* es macht. Genau dafür gibt es das **Passiv**: *Der Bericht **wird geprüft*** — wer ihn prüft, ist unbekannt, klar oder einfach egal. In dieser Lektion baust du das ganze Passiv-System auf: Präsens (`wird gemacht`), Präteritum (`wurde gemacht`), Perfekt (`ist gemacht worden`) und die Kombination mit Modalverben (`muss gemacht werden`). This is the voice of factories, recipes, laws and the evening news — once you own it, German texts about *how things are done* suddenly open up.
+
+---
+
+## 3. Redemittel
 
 ### Prozesse beschreiben (describing processes)
 
@@ -88,9 +115,11 @@
 
 ---
 
-## 3. Wortschatz
+## 4. Wortschatz
 
 ### Prozesse und Produktion (processes and production)
+
+> 💡 **Lerntipp:** Lern jedes Prozess-Nomen gleich mit seinem typischen Passiv-Verb: *der Bericht wird **erstellt**, die Qualität wird **kontrolliert**, die Genehmigung wird **eingeholt***. So sitzt das Wort sofort in seinem natürlichen Satz — und die Partizip-II-Form ist gleich mitgelernt.
 
 | Nomen | Englisch |
 |---|---|
@@ -129,6 +158,8 @@
 
 ### Nachrichtensprache (news language)
 
+> 💡 **Lerntipp:** Die Nachrichtensprache lebt fast nur im Passiv. Merk dir die Paare Verb ↔ Nomen: *bekannt geben → die Ankündigung*, *veröffentlichen → die Veröffentlichung*, *beschließen → die Entscheidung*. Mit diesen drei Paaren kannst du fast jede Meldung im Radio verstehen.
+
 | Verb | Englisch |
 |---|---|
 | berichten (über + Akk.) | to report (on) |
@@ -147,27 +178,60 @@
 | die Maßnahme, -n | measure, step |
 | die Entscheidung, -en | decision |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the English column. Can you recall all words from memory — *and* form the Partizip II of every verb? Aim for ≥80% before moving to the exercises.
+
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Hinter den Kulissen der Bäckerei
 
-### 4.1 Passiv Präsens — `werden` (conjugated) + Partizip II
+Lies den Text zuerst zügig. Beim zweiten Lesen markiere jede Passiv-Form — *wird/wurde/ist … gemacht* — und bestimme die Zeitform.
 
-In the active voice, the **subject performs the action**. In the passive voice,
-the **subject receives the action** — the focus shifts to *what is being done*,
-not *who does it*.
+Anna und Bruno stehen um halb sechs Uhr morgens vor einer kleinen Bäckerei in Kreuzberg. Es ist noch dunkel, aber drinnen brennt schon Licht. Der Bäcker, Herr Koch, hat sie eingeladen: „Kommt rein, ich zeige euch, wie unser Brot gemacht wird."
 
-**Formation:** conjugated form of `werden` + **Partizip II** at the end.
+In der Backstube\* riecht es warm nach Mehl. „Der Teig\* wird jeden Morgen frisch vorbereitet", erklärt Herr Koch. „Zuerst werden Mehl, Wasser und Salz gemischt. Dann muss der Teig zwei Stunden ruhen — das darf nicht vergessen werden, sonst wird das Brot hart."
 
-> **Aktiv:** Die Mitarbeiter *erledigen* die Aufgabe.
-> (The employees are doing the task.)
+Bruno ist überrascht: „So früh? Wann wird denn geschlafen?" Herr Koch lacht. „Geschlafen wird am Nachmittag. Hier wird nachts gearbeitet, weil das Brot morgens frisch verkauft werden muss."
+
+Anna schaut zu, wie die Brötchen von Hand geformt werden. „Früher wurde bei uns fast alles von Maschinen gemacht", sagt Herr Koch. „Aber die Kunden haben den Unterschied sofort gemerkt. Deshalb wird heute wieder vieles von Hand gemacht."
+
+Um sechs Uhr ist der erste Ofen fertig. Die Brötchen sind goldbraun gebacken worden. „Probiert mal", sagt Herr Koch und gibt jedem ein warmes Brötchen.
+
+„Das ist das beste Brötchen, das ich je gegessen habe", sagt Bruno mit vollem Mund. Anna nickt. „Jetzt verstehe ich, warum hier schon eine Schlange steht, bevor der Laden überhaupt geöffnet wird."
+
+> \* **Wortschatz-Hilfe:** *die Backstube* = bakery's back room/workshop · *der Teig* = dough. Beide sind hier aus dem Kontext gut zu erschließen.
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Wie wird das Brot bei Herrn Koch gemacht?**
+> *Vieles wird wieder von Hand gemacht; der Teig wird jeden Morgen frisch vorbereitet.*
 >
-> **Passiv:** Die Aufgabe *wird* von den Mitarbeitern *erledigt*.
-> (The task is being done by the employees.)
+> **2. Warum wird nachts gearbeitet?**
+> *Weil das Brot morgens frisch verkauft werden muss.*
+>
+> **3. Was ist um sechs Uhr passiert?**
+> *Der erste Ofen war fertig — die Brötchen sind goldbraun gebacken worden.*
 
-#### Full conjugation table — Passiv Präsens
+</details>
 
-| Pronomen | `werden` | Partizip II | Example |
+---
+
+## 6. Grammatik
+
+### 6.1 Passiv Präsens — `werden` (conjugated) + Partizip II
+
+**Warum?** German, like English, has two voices. In the **active voice** the
+subject *does* the action (*Die Firma prüft den Bericht*). In the **passive
+voice** the focus shifts to the action itself — *what* is being done, not *who*
+does it (*Der Bericht **wird geprüft***). This is the natural voice of process
+descriptions, instructions and the news, where the doer is unknown, obvious or
+simply irrelevant. The recipe never changes: a conjugated form of **`werden`**
+sits in position 2, and the **Partizip II** parks at the very end of the clause.
+If you *do* want to name the doer, add it with **`von + Dativ`**.
+
+#### Conjugation — Passiv Präsens
+
+| Pronomen | `werden` | Partizip II | Beispiel |
 |---|---|---|---|
 | ich | werde | gefragt | Ich werde gefragt. |
 | du | wirst | gefragt | Du wirst gefragt. |
@@ -176,58 +240,75 @@ not *who does it*.
 | ihr | werdet | gefragt | Ihr werdet gefragt. |
 | sie/Sie | werden | gefragt | Sie werden gefragt. |
 
-#### Aktiv → Passiv transformation
+#### Aktiv → Passiv: the object becomes the subject
 
 | Aktiv | Passiv Präsens |
 |---|---|
 | Die Firma *prüft* den Bericht. | Der Bericht *wird* (von der Firma) *geprüft*. |
 | Ein Team *entwickelt* das Programm. | Das Programm *wird* von einem Team *entwickelt*. |
 | Man *kontrolliert* die Qualität. | Die Qualität *wird kontrolliert*. |
-| Mitarbeiter *nutzen* das System täglich. | Das System *wird* von Mitarbeitern täglich *genutzt*. |
 
-#### The agent phrase: `von + Dativ`
+The agent (the doer) is optional and, when named, uses **`von + Dativ`**:
+*Das Auto wird **von einem Roboter** gebaut.*
 
-The agent (the "doer") is optional. When included, use **`von + Dativ`**.
+**Examples:**
 
-> *Die Aufgabe wird **von den Mitarbeitern** erledigt.*
-> *Der Report wird **von der Software** erstellt.*
-> *Das Auto wird **von einem Roboter** gebaut.*
+1. Viele Routineaufgaben **werden** von Algorithmen **erledigt**.
+2. Viele Reports **werden** automatisch **generiert**.
+3. Die Daten **werden** aus dem CRM-System **gezogen**.
+4. Das System **wird** von Mitarbeitern täglich **genutzt**.
+5. Die Qualität **wird** sorgfältig **kontrolliert**.
+6. Technologie **wird** oft **gekauft**, aber die Menschen **werden vergessen**.
+7. Das Auto **wird** von einem Roboter **gebaut**.
+8. Jedes Bauteil **wird** vor der Auslieferung **geprüft**.
 
-**When to use it:** include the agent only when who/what does the action is
-important information. Most of the time in news language and process descriptions,
-the agent is omitted because it is unknown, obvious, or irrelevant.
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Das Buch wird **kaufen**.* | *Das Buch wird **gekauft**.* (Partizip II, not infinitive) |
+> | *Der Bericht wird von **die Mitarbeiter** geprüft.* | *Der Bericht wird von **den Mitarbeitern** geprüft.* (`von` + Dativ) |
+> | *Die Aufgabe **werdet** erledigt.* | *Die Aufgabe **wird** erledigt.* (`werden` agrees with the new subject) |
+
+> 💡 **Lerntipp:** Same word `werden`, two very different jobs — and the **end of
+> the clause** tells them apart. **Partizip II** at the end = Passiv (*Das Buch
+> **wird gekauft***). A plain **Infinitiv** at the end = Futur (*Ich **werde** das
+> Buch **kaufen***). Whenever you see `werden`, glance at the last word first.
+
+**Versuch es selbst.** Mach das Passiv Präsens: „Man kontrolliert die Qualität jeden Tag."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Die Qualität **wird** jeden Tag **kontrolliert**.*
+
+</details>
 
 > 📌 **Merkasten — Passiv Präsens**
 >
 > | Element | Form |
 > |---|---|
-> | Auxiliary | `werden` (conjugated) |
-> | Main verb | **Partizip II** (end of clause) |
+> | Hilfsverb | `werden` (conjugated, Position 2) |
+> | Hauptverb | **Partizip II** (Satzende) |
 > | Agent (optional) | `von + Dativ` |
 >
-> Pattern: **Subj. + `werden` (conj.) + [rest of clause] + Partizip II**
->
-> ⚠️ Do not confuse Passiv `werden` with Futur I `werden + Infinitiv`:
-> - *Das Buch **wird gekauft**.* → Passiv (something is being bought)
-> - *Ich **werde** das Buch **kaufen**.* → Futur (I will buy the book)
-> The Partizip II at the end = Passiv. The Infinitiv at the end = Futur.
+> Muster: **Subjekt + `werden` (konj.) + [Rest] + Partizip II**
 
 ---
 
-### 4.2 Passiv Präteritum — `wurde` + Partizip II
+### 6.2 Passiv Präteritum — `wurde` + Partizip II
 
-The Passiv Präteritum describes a passive action in the past (narrative, written
-style). Formation: **`wurde`** (conjugated) + **Partizip II**.
+**Warum?** When the passive action happened in the past — in narratives, reports
+and especially the news — German uses the **Passiv Präteritum**. The recipe is
+the same as the present, you just put the auxiliary into the past: **`wurde`**
+(the Präteritum of `werden`, which you met in B1/01) + **Partizip II**. *Die
+Anlage **wurde** 2019 **gebaut**.* The single biggest trap is the auxiliary: it
+must be **`wurde`**, never `war` or `ist` — those belong to other structures
+(stative forms and the Perfekt in §6.3).
 
-> **Aktiv Präteritum:** Die Firma *baute* die Anlage.
-> (The company built the facility.)
->
-> **Passiv Präteritum:** Die Anlage *wurde* (von der Firma) *gebaut*.
-> (The facility was built by the company.)
+#### Conjugation — `werden` in Präteritum
 
-#### Conjugation table — `werden` in Präteritum
-
-| Pronomen | `werden` Prät. | Partizip II | Example |
+| Pronomen | `werden` Prät. | Partizip II | Beispiel |
 |---|---|---|---|
 | ich | wurde | gefragt | Ich wurde gefragt. |
 | du | wurdest | gefragt | Du wurdest gefragt. |
@@ -236,155 +317,175 @@ style). Formation: **`wurde`** (conjugated) + **Partizip II**.
 | ihr | wurdet | gefragt | Ihr wurdet gefragt. |
 | sie/Sie | wurden | gefragt | Sie wurden gefragt. |
 
-#### Examples
+**Examples:**
 
-> *Das Gesetz **wurde** 2020 **geändert**.*
-> (The law was changed in 2020.)
+1. Früher **wurden** solche Aufgaben von Menschen **gemacht**.
+2. Das **wurde** früher stundenlang von Assistenten **gemacht**.
+3. Nichts **wurde erklärt**, die Mitarbeiter **wurden** nicht **vorbereitet**.
+4. Das Gesetz **wurde** 2020 **geändert**.
+5. Die ersten Elektroautos **wurden** in den 1990er Jahren **hergestellt**.
+6. Die Schulungen **wurden** letzte Woche **durchgeführt**.
+7. Das Gebäude **wurde** 2018 von einer bekannten Architektin **entworfen**.
+8. Viele Tools **wurden** von kleinen Teams **entwickelt**.
+
+> ⚠️ **Häufige Fehler**
 >
-> *Die ersten Elektroautos **wurden** in den 1990er Jahren **hergestellt**.*
-> (The first electric cars were manufactured in the 1990s.)
->
-> *Die Mitarbeiter **wurden** nicht ausreichend **informiert**.*
-> (The employees were not sufficiently informed.)
->
-> *Das Gebäude **wurde** 2018 von einer bekannten Architektin **entworfen**.*
-> (The building was designed in 2018 by a well-known architect.)
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Das Haus **war** gebaut.* | *Das Haus **wurde** gebaut.* (Passiv Präteritum = `wurde`) |
+> | *Das Haus **ist** gebaut.* | *Das Haus **wurde** gebaut.* (`ist … gebaut` ohne `worden` ist hier falsch) |
+> | *Die Berichte **wurde** geprüft.* | *Die Berichte **wurden** geprüft.* (Plural-Subjekt → `wurden`) |
+
+> 💡 **Lerntipp:** Three past auxiliaries, one rule. To talk about a *process in
+> the past*, reach for **`wurde`**. `war` + Partizip describes a *state* (B2
+> Zustandspassiv) and `ist … worden` is the *Perfekt* (§6.3). If you can say "was
+> being done / was done as an event", it's **`wurde`**.
+
+**Versuch es selbst.** Mach das Passiv Präteritum: „Man baute die Anlage 2019."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Die Anlage **wurde** 2019 **gebaut**.*
+
+</details>
 
 > 📌 **Merkasten — Passiv Präteritum**
 >
 > | Element | Form |
 > |---|---|
-> | Auxiliary | **`wurde`** (conjugated — Präteritum of `werden`) |
-> | Main verb | Partizip II (end of clause) |
+> | Hilfsverb | **`wurde`** (Präteritum von `werden`) |
+> | Hauptverb | Partizip II (Satzende) |
 >
-> ⚠️ **Critical trap:** the auxiliary for Passiv Präteritum is **`wurde`**,
-> NOT `ist` or `war`.
-> - Wrong: ~~*Das Haus war gebaut.*~~ ← this is a Zustandspassiv / stative form (B2)
-> - Wrong: ~~*Das Haus ist gebaut.*~~ ← this is Passiv Perfekt (§4.3 below)
-> - Correct: ***Das Haus wurde gebaut.*** ← Passiv Präteritum ✓
->
-> `wurde` = the Präteritum of `werden`. You learned Präteritum in B1/01 — now
-> you use it as the auxiliary for passive past.
+> ⚠️ Nicht `war` / `ist` — die Vergangenheits-Form ist **`wurde`**.
 
 ---
 
-### 4.3 Passiv Perfekt — `sein` + Partizip II + `worden`
+### 6.3 Passiv Perfekt — `sein` + Partizip II + `worden`
 
-The Passiv Perfekt describes a passive action in the perfect tense. It is used
-in spoken language and informal writing when talking about something that has
-happened (and whose result is relevant now). Formation: **`sein`** (conjugated)
-+ Partizip II + **`worden`**.
+**Warum?** In spoken German and informal writing, the past passive is usually
+expressed in the **Perfekt** — especially when the *result* still matters now
+(*Alle sind informiert worden* = and so they know it now). The recipe has three
+parts: conjugated **`sein`** + **Partizip II** + **`worden`** at the very end.
+*Das Tool **ist** **eingeführt worden**.* Notice the auxiliary is always **`sein`**,
+even for verbs that take `haben` in the active — and the final word is the special
+passive form **`worden`**, *not* `geworden`.
 
-> **Aktiv Perfekt:** Die Firma **hat** die Anlage **gebaut**.
-> (The company has built the facility.)
+**Examples:**
+
+1. Ein neues Tool **ist eingeführt worden**.
+2. Alle Teams **sind** bereits **benachrichtigt worden**.
+3. Das Gesetz **ist** bereits **geändert worden**.
+4. Alle Mitarbeiter **sind** über den Prozess **informiert worden**.
+5. Die Schulungen **sind** letzte Woche **durchgeführt worden**.
+6. Die Batteriekapazität **ist** erheblich **gesteigert worden**.
+7. Das Kulturzentrum **ist** heute Morgen **eröffnet worden**.
+8. Der Prozess **ist** so **gestaltet worden**, dass Korrekturen schnell möglich sind.
+
+> ⚠️ **Häufige Fehler**
 >
-> **Passiv Perfekt:** Die Anlage **ist** (von der Firma) **gebaut worden**.
-> (The facility has been built by the company.)
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Das Buch ist geschrieben **geworden**.* | *Das Buch ist geschrieben **worden**.* (Passiv-Partizip!) |
+> | *Sie **haben** informiert worden.* | *Sie **sind** informiert worden.* (Passiv Perfekt = `sein`) |
+> | *Alle Teams sind benachrichtigt **werden**.* | *Alle Teams sind benachrichtigt **worden**.* (`worden`, nicht `werden`) |
 
-#### More examples
+> 💡 **Lerntipp:** **`worden` vs. `geworden`.** `geworden` is the Partizip of
+> `werden` as a *full verb* (to become): *Er ist Ingenieur **geworden**.* `worden`
+> is the *passive* Partizip and appears **only** in Passiv Perfekt: *Das Auto ist
+> gebaut **worden**.* Rule of thumb: if there's another Partizip II in front of it,
+> drop the `ge-` → **`worden`**.
 
-> *Das Gesetz **ist** bereits **geändert worden**.*
-> (The law has already been changed.)
->
-> *Alle Mitarbeiter **sind** über den neuen Prozess **informiert worden**.*
-> (All employees have been informed about the new process.)
->
-> *Die Schulungen **sind** letzte Woche **durchgeführt worden**.*
-> (The training sessions were carried out last week.)
+**Versuch es selbst.** Mach das Passiv Perfekt: „Man hat die Mitarbeiter informiert."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Die Mitarbeiter **sind informiert worden**.*
+
+</details>
 
 > 📌 **Merkasten — Passiv Perfekt**
 >
 > | Element | Form |
 > |---|---|
-> | Auxiliary | **`sein`** (conjugated) |
-> | Main verb | Partizip II |
-> | Passiv marker | **`worden`** (at the very end) |
+> | Hilfsverb | **`sein`** (conjugated) |
+> | Hauptverb | Partizip II |
+> | Passiv-Marker | **`worden`** (am Satzende) |
 >
-> Pattern: **Subj. + `sein` (conj.) + [rest of clause] + Partizip II + `worden`**
->
-> ⚠️ **#1 Passiv trap — `worden` NOT `geworden`!**
->
-> | Wrong | Right |
-> |---|---|
-> | ~~*Das Buch ist geschrieben **geworden**.*~~ | *Das Buch ist geschrieben **worden**.* ✓ |
-> | ~~*Sie sind informiert **geworden**.*~~ | *Sie sind informiert **worden**.* ✓ |
->
-> `geworden` is the Partizip II of `werden` used as a **full verb** (to become):
-> *Er ist Ingenieur **geworden**.* (He has become an engineer.)
->
-> `worden` is the **Passiv-Partizip** — a special form used ONLY in Passiv Perfekt.
-> It is never used outside this context.
->
-> **Quick comparison — Aktiv vs. Passiv Perfekt:**
+> Muster: **Subjekt + `sein` (konj.) + [Rest] + Partizip II + `worden`**
 >
 > | Aktiv Perfekt | Passiv Perfekt |
 > |---|---|
-> | *Er **hat** das Buch **geschrieben**.* | *Das Buch **ist** geschrieben **worden**.* |
-> | *Sie **hat** den Fehler **gefunden**.* | *Der Fehler **ist** (von ihr) **gefunden worden**.* |
-> | *Wir **haben** das System **eingeführt**.* | *Das System **ist** (von uns) **eingeführt worden**.* |
->
-> Note: Aktiv Perfekt uses `haben` (for most verbs). Passiv Perfekt always
-> uses `sein` + `worden` — regardless of which verb it is.
+> | Er **hat** das Buch **geschrieben**. | Das Buch **ist** geschrieben **worden**. |
+> | Wir **haben** das System **eingeführt**. | Das System **ist** (von uns) eingeführt **worden**. |
 
 ---
 
-### 4.4 Passiv mit Modalverben — `modal` + Partizip II + `werden`
+### 6.4 Passiv mit Modalverben — `modal` + Partizip II + `werden`
 
-Modal verbs can combine with the passive to express obligation (`müssen`),
-permission (`dürfen`), possibility (`können`), expectation (`sollen`), or
-plan (`wollen`).
+**Warum?** This is the grammar of **rules, duties and possibilities** — the
+backbone of every instruction, contract and workplace process. Modals combine
+with the passive to say what *must*, *can*, *may* or *should* be done: *Der
+Bericht **muss** überprüft **werden**.* The structure is logical once you see it:
+the **modal** is the conjugated verb in position 2, the infinitive **`werden`**
+goes to the very end, and the **Partizip II** sits *immediately before* it. For
+the past, you simply put the modal into the Präteritum (*musste, sollte, konnte*)
+— `werden` stays an infinitive.
 
-**Formation (Präsens):** Modal (conjugated) + Partizip II + **`werden`** (infinitive)
+**Examples (Präsens):**
 
-The modal is the **conjugated verb in position 2**. `werden` goes to the **end**
-as an infinitive. The Partizip II goes **immediately before** `werden`.
+1. Das System **muss** gut **eingeführt werden**.
+2. Alle Zahlen **müssen** vorher **überprüft werden**.
+3. Fehler **dürfen** nicht **ignoriert werden**.
+4. Der Fehler **muss** sofort **gemeldet werden**.
+5. Die Daten **können** automatisch **gespeichert werden**.
+6. Der Plan **soll überarbeitet werden**.
+7. Der Bereich **darf** nicht **betreten werden**.
+8. Das Fahrzeug **kann** vom Kunden **gekauft werden**.
 
-> *Der Bericht **muss** überprüft **werden**.*
-> (The report must be checked.)
->
-> *Die Daten **können** automatisch gespeichert **werden**.*
-> (The data can be saved automatically.)
->
-> *Der Fehler **soll** sofort gemeldet **werden**.*
-> (The error should be reported immediately.)
->
-> *Das Gebäude **darf** nicht betreten **werden**.*
-> (The building must not be entered.)
-
-#### All modals in Passiv Präsens
-
-| Modal | Example |
-|---|---|
-| müssen | Die Genehmigung **muss eingeholt werden**. |
-| können | Die Produktion **kann gesteigert werden**. |
-| sollen | Der Plan **soll überarbeitet werden**. |
-| dürfen | Der Bereich **darf nicht betreten werden**. |
-
-#### Modal Passive in Präteritum
-
-Replace the modal with its Präteritum form. `werden` stays as infinitive at the end.
+**Im Präteritum** (modal → Präteritum, `werden` bleibt Infinitiv):
 
 > *Der Bericht **musste** überprüft **werden**.* (had to be checked)
 > *Die Mitarbeiter **sollten** informiert **werden**.* (were supposed to be informed)
 > *Das **konnte** nicht in einem Tag **gemacht werden**.* (could not be done in a day)
 
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Der Bericht muss überprüft **worden**.* | *Der Bericht muss überprüft **werden**.* (Infinitiv `werden`!) |
+> | *Der Fehler muss gemeldet **wird**.* | *Der Fehler muss gemeldet **werden**.* (`werden`, Satzende) |
+> | *Das muss **machen werden**.* | *Das muss **gemacht werden**.* (Partizip II vor `werden`) |
+
+> 💡 **Lerntipp:** Read the frame outside-in: **modal in position 2 … `werden`
+> at the very end**, with the **Partizip II** clipped on just before it. Present →
+> `werden`; Perfekt-style "has been done" → that's §6.3 with `worden`. In a
+> *modal* passive the last word is **always the infinitive `werden`**, never `worden`.
+
+**Versuch es selbst.** Mach das Modal-Passiv: „Man muss den Antrag ausfüllen."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Der Antrag **muss ausgefüllt werden**.*
+
+</details>
+
 > 📌 **Merkasten — Passiv mit Modalverben**
 >
-> | Tense | Structure | Example |
+> | Zeit | Struktur | Beispiel |
 > |---|---|---|
-> | Präsens | Modal (conj.) + … + Partiz. II + **werden** | Es **muss** geprüft **werden**. |
-> | Präteritum | Modal Prät. (conj.) + … + Partiz. II + **werden** | Es **musste** geprüft **werden**. |
+> | Präsens | Modal (konj.) + … + Partiz. II + **werden** | Es **muss** geprüft **werden**. |
+> | Präteritum | Modal Prät. + … + Partiz. II + **werden** | Es **musste** geprüft **werden**. |
 >
-> ⚠️ The infinitive `werden` always goes to the **very end** of the clause.
-> The Partizip II goes **immediately before** `werden`.
->
-> Pattern: **[Modal] + [rest of clause] + [Partizip II] + werden**
+> ▶ Der Infinitiv `werden` steht immer ganz am **Satzende**. ▶ Das Partizip II steht **direkt davor**.
 
 ---
 
-## 5. Lesetext — Wie ein Elektroauto entsteht
+## 7. Lesetext — Wie ein Elektroauto entsteht
 
-*Lies den Text zweimal: einmal schnell, einmal langsam. Der Text wird in den Übungen C1–C4 wiederverwendet.*
+*Lies den Text zweimal: einmal schnell, einmal langsam. Der Text wird in den Übungen wiederverwendet.*
 
 Elektroautos werden heute in hochmodernen Fabriken hergestellt. Der Prozess
 beginnt mit der Beschaffung der Rohstoffe: Lithium und Kobalt werden aus mehreren
@@ -410,11 +511,11 @@ kann vom Kunden gekauft werden.
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
-## 6. Hörtext — Berliner Nachrichten: eine Meldung im Radio
+## 8. Hörtext — Berliner Nachrichten: eine Meldung im Radio
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -431,30 +532,33 @@ kann vom Kunden gekauft werden.
 
 ---
 
-## 7. Lernstrategie — Aktiv ↔ Passiv flip
+## 9. Magazin — Landeskunde
 
-The fastest way to make passive forms automatic is a **daily flip exercise**.
-Every time you write or read an active sentence in German, immediately rewrite
-it in the passive.
+### Es wird gebeten … — Deutsch im Amt und auf Schildern
 
-**Step 1:** Take any active sentence you encounter.
-> *Die Firma entwickelt das Produkt.* (active)
+Wer in Deutschland lebt, begegnet dem Passiv überall — vor allem auf Schildern und in Briefen vom Amt. *„Hier wird nicht geraucht."* *„Es wird um Ruhe gebeten."* *„Das Betreten der Baustelle ist verboten."* Das klingt distanziert und ein bisschen unpersönlich — und genau das ist gewollt. Niemand sagt direkt „Du darfst hier nicht rauchen"; die Regel gilt anonym und neutral für alle. Diese Sprache hat sogar einen Spitznamen: *Beamtendeutsch*. Manche finden sie kühl, andere einfach praktisch. Aber eins ist sicher: Wer in Deutschland ein Formular ausfüllen oder ein Schild verstehen will, kommt am Passiv nicht vorbei.
 
-**Step 2:** Identify the object of the active sentence — it becomes the subject of the passive.
-> Object: *das Produkt* → becomes *das Produkt* (subject in passive)
+> „Es wird gebeten, die Türen geschlossen zu halten." — und niemand weiß so genau, *wer* eigentlich bittet.
 
-**Step 3:** Choose the tense and build the passive.
-> Passiv Präsens: *Das Produkt **wird** von der Firma **entwickelt**.*
-> Passiv Präteritum: *Das Produkt **wurde** von der Firma **entwickelt**.*
-> Passiv Perfekt: *Das Produkt **ist** von der Firma **entwickelt worden**.*
-> Passiv mit Modal: *Das Produkt **muss** von der Firma **entwickelt werden**.*
+---
 
-**Daily target:** 5 active sentences → flipped to all four passive forms. That is
-20 passive constructions per day. After 7 days you will have written 140 passive
-forms — enough for the neural pathways to start forming automatically.
+## 10. Lernstrategie
 
-**Good sources for active sentences:** news articles, instruction manuals, cooking
-recipes, product descriptions, workplace emails. All of these are also the natural
-home of the passive, so you will recognize your own constructions in the wild.
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jede Passiv-Form und bestimme die Zeitform
+- Wortschatz §4 mit verdeckter Spalte testen — und zu jedem Verb das Partizip II bilden
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
 
-➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
+### Tag 2 (30 min) — Vertiefung
+- **Aktiv ↔ Passiv-Flip:** Nimm 5 Aktivsätze (z. B. aus einer Nachrichten-App) und schreib jeden ins Passiv Präsens **und** Präteritum (§6.1–§6.2) um
+- §6.3: dieselben 5 Sätze ins Passiv Perfekt setzen — achte auf **`worden`**, nicht `geworden`
+- *Versuch es selbst* in §6.1–§6.4 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Lesetext §7 lesen, alle Passiv-Formen markieren und die Zeitform bestimmen
+- §6.4: schreib 5 Regeln/Vorschriften mit Modal-Passiv (*muss/darf/kann … werden*)
+- Hörtext §8 hören, Transkript erst danach öffnen — alle `worden`-Formen heraushören; dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
