@@ -1,3 +1,24 @@
+---
+level: B1
+number: 10
+slug: zweiteilige-konnektoren
+title: Zweiteilige Konnektoren
+titleEn: Two-Part Connectors
+canDo:
+  - build structured arguments with two-part connectors
+  - present balanced viewpoints and make concessions
+  - express choices and exclusions
+  - argue in both informal debate and formal contexts
+grammar:
+  - "nicht nur … sondern auch and sowohl … als auch (additive)"
+  - "entweder … oder and weder … noch (choice / exclusion)"
+  - "zwar … aber (concession) and inversion when the connector is sentence-initial"
+buildsOn:
+  - B1/02 (Gegensätze — zwar … aber introduced, deepened here)
+  - A2/11 (basic Konnektoren — und, oder, aber, denn)
+  - A2/03 (weil, dass — subordinate clause word order)
+---
+
 # B1 · Lektion 10 — Zweiteilige Konnektoren (Two-Part Connectors)
 
 > **You will learn to:** build structured arguments using two-part connectors,
@@ -61,7 +82,13 @@ from the Austrian Schulbehörde.*
 
 ---
 
-## 2. Redemittel
+## 2. Einstieg — Was lernst du heute?
+
+*Entweder Berge oder Meer? Sowohl … als auch!* Wenn du auf Deutsch wirklich **argumentieren** willst — abwägen, vergleichen, zugestehen —, brauchst du **zweiteilige Konnektoren**. Sie kommen immer im Paar: **`nicht nur … sondern auch`** (hinzufügen), **`sowohl … als auch`** (beides), **`entweder … oder`** (Wahl), **`weder … noch`** (keins von beidem) und **`zwar … aber`** (zugestehen, dann widersprechen). Aus B1/02 kennst du schon `zwar … aber`; jetzt kommt das ganze Set dazu. Achte auf eine Sache: Steht der erste Teil **am Satzanfang**, rückt das Verb auf Platz 2 (*Zwar **ist** das teuer, aber …*). This is the grammar of structured arguments — presentations, essays and debates, and any time you want to sound balanced and precise.
+
+---
+
+## 3. Redemittel
 
 ### Additive Verbindungen (adding, including)
 
@@ -101,9 +128,11 @@ from the Austrian Schulbehörde.*
 
 ---
 
-## 3. Wortschatz
+## 4. Wortschatz
 
 ### Argumentation und Diskussion
+
+> 💡 **Lerntipp:** Diese Nomen sind dein Argumentations-Baukasten. Üb sie paarweise als Gegensätze: *Vorteil ↔ Nachteil*, *These ↔ Gegenargument*, *Einwand ↔ Zustimmung*. Mit den zweiteiligen Konnektoren ergeben sie sofort ganze Sätze: *„Ich sehe **sowohl** den **Vorteil als auch** den **Nachteil**."*
 
 | Nomen | Englisch |
 |---|---|
@@ -123,6 +152,8 @@ from the Austrian Schulbehörde.*
 
 ### Verben für Argumentation
 
+> 💡 **Lerntipp:** Lern *widersprechen* und *zustimmen* gleich mit ihrem **Dativ**: *Ich stimme **dir** zu, ich widerspreche **dem Argument**.* Das ist die häufigste Falle bei diesen Verben.
+
 | Verb | Bedeutung |
 |---|---|
 | argumentieren | to argue, to make an argument |
@@ -134,7 +165,7 @@ from the Austrian Schulbehörde.*
 | einschränken | to qualify, to restrict |
 | abwägen | to weigh up (pros and cons) |
 | überzeugen | to convince, to persuade |
-| schluss­folgern | to conclude |
+| schlussfolgern | to conclude |
 
 ### Lebenssituationen (für Dialog A)
 
@@ -149,191 +180,335 @@ from the Austrian Schulbehörde.*
 | der Lärm (Sg.) | noise |
 | die Veränderung, -en | change |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the English column. Can you recall every word — *and* build one sentence that uses a two-part connector with a noun pair? Aim for ≥80% before the exercises.
+
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Berge oder Meer?
 
-### 4.1 `nicht nur … sondern auch` — not only … but also
+Lies den Text zuerst zügig. Beim zweiten Lesen markiere jeden zweiteiligen Konnektor: *entweder … oder*, *sowohl … als auch*, *weder … noch*, *zwar … aber*, *nicht nur … sondern auch*.
 
-This connector **adds** information, emphasizing that something is *more than
-expected*. English equivalent: "not only … but also …".
+Anna und Bruno wollen zusammen in den Urlaub fahren, aber sie sind sich nicht einig. „Entweder wir fahren ans Meer, oder wir gehen in die Berge", sagt Anna. „Beides geht in einer Woche nicht."
 
-**Same clause element (most common):**
+Bruno überlegt. „Ich mag eigentlich sowohl das Meer als auch die Berge. Aber ehrlich gesagt bin ich weder ein großer Schwimmer noch ein guter Wanderer." Anna lacht. „Das hilft uns jetzt überhaupt nicht weiter!"
 
-| Pattern | Example |
-|---|---|
-| Verb-object / predicate | Er spricht **nicht nur** Deutsch, **sondern auch** Englisch. |
-| Adjective pair | Das ist **nicht nur** günstig, **sondern auch** praktisch. |
-| Noun pair | Ich sehe **nicht nur** die Vorteile, **sondern auch** die Nachteile. |
+„Die Berge sind zwar anstrengend, aber dafür ist die Luft fantastisch", sagt Bruno. „Und ein Bergurlaub ist nicht nur gesünder, sondern auch günstiger." Anna nickt. „Das stimmt. Am Meer zahlt man im Sommer entweder zu viel für das Hotel, oder man findet gar keins mehr."
 
-> *Berlin bietet **nicht nur** kulturelle Vielfalt, **sondern auch** eine einzigartige Energie.*
-> (Berlin offers not only cultural diversity but also a unique energy.)
+Sie schauen sich Fotos an. „Schau mal", sagt Anna. „Dieses kleine Dorf in den Alpen hat sowohl einen See als auch Wanderwege. Da hätten wir beides!" Bruno strahlt. „Perfekt — weder nur Strand noch nur Gipfel, sondern eine Mischung."
 
-**Across two full clauses:** When `nicht nur` starts the sentence, the verb
-moves to position 2 (inversion):
+„Also abgemacht?", fragt Anna. „Wir buchen weder das teure Strandhotel noch die lange Bergtour, sondern dieses Dorf am See." „Genau", sagt Bruno. „Es ist zwar ein Kompromiss, aber ein richtig guter."
 
-| Pattern | Example |
-|---|---|
-| Nicht nur [V2 clause], sondern … auch … | **Nicht nur** hat er Deutsch gelernt, **sondern** er hat **auch** Freunde in Berlin gefunden. |
+Am Ende sind beide zufrieden. „Weißt du", sagt Anna lachend, „eigentlich war die Entscheidung gar nicht so schwer. Wir mussten nur aufhören, in Entweder-oder zu denken." Bruno grinst: „Sowohl du als auch ich können also doch Kompromisse machen."
 
-> 📌 **Merkasten**
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Worüber sind sich Anna und Bruno zuerst nicht einig?**
+> *Ob sie ans Meer oder in die Berge fahren.*
 >
-> | Rule | Example |
-> |---|---|
-> | Mid-sentence: no inversion | Er spricht **nicht nur** Deutsch, **sondern auch** Englisch. |
-> | Sentence-initial `nicht nur`: inversion | **Nicht nur** spricht er Deutsch, **sondern** er lernt **auch** Arabisch. |
-> | Comma before `sondern` | …Deutsch**,** sondern auch… |
-
-⚠️ **Trap:** `sondern` (not `aber`) is always used after a negation. `Nicht nur … aber auch` is wrong — always use `sondern auch`.
-
----
-
-### 4.2 `sowohl … als auch` — both … and
-
-Always **positive and additive**. English: "both … and …". Works with nouns,
-adjectives, verbs, or whole clauses. Note: `als` (not `wie`) in this construction.
-
-| Pattern | Example |
-|---|---|
-| Two nouns | **Sowohl** Anna **als auch** Bruno sprechen Portugiesisch. |
-| Two adjectives | Das Angebot ist **sowohl** günstig **als auch** hochwertig. |
-| Two noun phrases | **Sowohl** das Frühstück **als auch** das Mittagessen ist inklusive. |
-| Two full clauses | **Sowohl** lernt er täglich Deutsch **als auch** spricht er mit Muttersprachlern. |
-
-> *Ich berücksichtige **sowohl** die rationalen **als auch** die emotionalen Argumente.*
-> (I consider both the rational and the emotional arguments.)
-
-> *In diesem Kurs lernen Sie **sowohl** Grammatik **als auch** Aussprache.*
-> (In this course you learn both grammar and pronunciation.)
-
-> 📌 **Merkasten**
+> **2. Welche Vorteile hat ein Bergurlaub laut Bruno?**
+> *Er ist nicht nur gesünder, sondern auch günstiger.*
 >
-> | Rule | Example |
-> |---|---|
-> | Always `als auch` (not `wie auch`) | sowohl … **als** auch (never *wie auch*) |
-> | Always additive / positive | *(never used for "neither … nor")* |
-> | Verb agreement: plural if two nouns | **Sowohl** Anna **als auch** Bruno **kommen** aus dem Ausland. |
+> **3. Wie lösen sie das Problem?**
+> *Sie wählen ein Dorf am See — weder nur Strand noch nur Gipfel, sondern eine Mischung.*
 
-⚠️ **Trap:** Learners often write `sowohl … wie auch`. This is incorrect — the
-fixed form is `als auch`.
+</details>
 
 ---
 
-### 4.3 `entweder … oder` — either … or
+## 6. Grammatik
 
-Expresses an **exclusive choice** between two options. Can connect nouns,
-adjectives, verb phrases, or full clauses.
+### 6.1 `nicht nur … sondern auch` — not only … but also
 
-| Pattern | Example |
+**Warum?** This connector **adds** something and signals "there's even more than
+you'd expect". *Berlin bietet **nicht nur** Kultur, **sondern auch** Energie.* Two
+points make it reliable. After a negation German uses **`sondern`** (the
+"correcting but"), never *aber* — so it's always `nicht nur … sondern auch`. And
+when you place `nicht nur` at the very **start** of the sentence, the verb jumps to
+position 2 (inversion): ***Nicht nur spricht** er Deutsch, sondern er lernt **auch**
+Arabisch.* Mid-sentence (the common case), nothing moves.
+
+| Muster | Beispiel |
 |---|---|
-| Two nouns | **Entweder** Kaffee **oder** Tee — ich muss mich entscheiden. |
-| Two clauses (mid-sentence) | Ich nehme **entweder** den Bus **oder** das Fahrrad. |
-| `entweder` sentence-initial: inversion | **Entweder** bleiben wir hier, **oder** wir ziehen um. |
+| Wortpaar (mid-sentence) | Er spricht **nicht nur** Deutsch, **sondern auch** Englisch. |
+| Adjektivpaar | Das ist **nicht nur** günstig, **sondern auch** praktisch. |
+| `nicht nur` am Satzanfang → Inversion | **Nicht nur** spricht er Deutsch, **sondern** er lernt **auch** Arabisch. |
 
-> *Ich entscheide mich: **Entweder** ich gehe jetzt, **oder** ich bleibe bis morgen.*
-> (I decide: either I go now, or I stay until tomorrow.)
+**Examples:**
 
-> *Du kannst **entweder** das Buch lesen **oder** den Film schauen.*
-> (You can either read the book or watch the film.)
+1. Berlin bietet **nicht nur** Vielfalt, **sondern auch** Energie.
+2. Sie ist **nicht nur** Nachbarin, **sondern auch** Beraterin.
+3. Wir sollten **nicht nur** reden, **sondern auch** handeln.
+4. Der Kurs verbessert **nicht nur** die Grammatik, **sondern auch** die Aussprache.
+5. Ein Bergurlaub ist **nicht nur** gesünder, **sondern auch** günstiger.
+6. Ich sage das **nicht nur** als Freund, **sondern auch** als Kollege.
+7. **Nicht nur** ist die Miete hoch, **sondern** auch der Lärm nimmt zu.
+8. Das gilt **nicht nur** heute, **sondern auch** morgen.
 
-> 📌 **Merkasten**
+> ⚠️ **Häufige Fehler**
 >
-> | Rule | Example |
+> | ❌ Wrong | ✅ Right |
 > |---|---|
-> | Sentence-initial `entweder` triggers inversion | **Entweder** bleiben **wir** hier, … |
-> | No inversion if `entweder` is mid-sentence | Wir bleiben **entweder** hier, … |
-> | Comma between the two options | …bleiben wir hier**,** oder wir ziehen um. |
+> | *nicht nur Deutsch, **aber auch** Englisch* | *nicht nur Deutsch, **sondern auch** Englisch* (after negation → `sondern`) |
+> | *Nicht nur **er spricht** Deutsch, …* | *Nicht nur **spricht er** Deutsch, …* (sentence-initial → inversion) |
+> | *nicht nur günstig **sondern** praktisch* | *nicht nur günstig**,** sondern **auch** praktisch* (comma + `auch`) |
+
+> 💡 **Lerntipp:** Remember the reflex **„nach Verneinung kommt `sondern`"** — after
+> a *nicht/kein*, the contrast word is `sondern`, not `aber`. And keep the little
+> `auch` in the second half: *sondern **auch**.* Only worry about inversion when you
+> deliberately push `nicht nur` to the front.
+
+**Versuch es selbst.** Verbinde: „Sie lernt Deutsch. Sie lernt auch Spanisch." (mit *nicht nur … sondern auch*)
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Sie lernt **nicht nur** Deutsch, **sondern auch** Spanisch.*
+
+</details>
+
+> 📌 **Merkasten — `nicht nur … sondern auch`**
+>
+> ▶ Additiv: "und sogar mehr". ▶ Nach Verneinung immer **`sondern`** (nicht *aber*).
+> ▶ `nicht nur` am Satzanfang → Verb auf Platz 2 (Inversion). ▶ Komma vor `sondern`.
 
 ---
 
-### 4.4 `weder … noch` — neither … nor
+### 6.2 `sowohl … als auch` — both … and
 
-Expresses **double negation**: both elements are excluded. Important: do **not**
-add an extra `nicht` — `weder … noch` is already negative.
+**Warum?** `sowohl … als auch` joins two things that **both** apply — always
+positive, always additive: *Ich berücksichtige **sowohl** die rationalen **als
+auch** die emotionalen Argumente.* It connects nouns, adjectives, verbs or
+phrases. Two things to fix in memory: it's **`als auch`**, never *wie auch*; and
+when it joins two singular subjects, the verb is usually **plural** (*Sowohl Anna
+**als auch** Bruno **kommen** aus dem Ausland*). Unlike `nicht nur …`, it does
+**not** trigger inversion — both halves sit inside the normal sentence.
 
-| Pattern | Example |
+| Muster | Beispiel |
 |---|---|
-| Two nouns | Er hat **weder** Zeit **noch** Geld. |
-| Two infinitives | Ich möchte das **weder** lesen **noch** hören. |
-| Two clauses | **Weder** hat er angerufen, **noch** hat er geschrieben. |
+| Zwei Nomen | **Sowohl** Anna **als auch** Bruno sprechen Portugiesisch. |
+| Zwei Adjektive | Das Angebot ist **sowohl** günstig **als auch** hochwertig. |
+| Zwei Nomengruppen | **Sowohl** das Frühstück **als auch** das Abendessen ist inklusive. |
 
-> *Sie spricht **weder** Chinesisch **noch** Japanisch.*
-> (She speaks neither Chinese nor Japanese.)
+**Examples:**
 
-> *Das interessiert mich **weder** heute **noch** morgen.*
-> (That interests me neither today nor tomorrow.)
+1. Berlin hat mich **sowohl** fasziniert **als auch** erschöpft.
+2. **Sowohl** die Infrastruktur **als auch** das kulturelle Leben sind hier stark.
+3. Wir schreiben **sowohl** die rationalen **als auch** die emotionalen Argumente auf.
+4. Ich habe **sowohl** in Kairo **als auch** in Berlin gelebt.
+5. **Sowohl** Anna **als auch** Bruno kommen aus dem Ausland.
+6. Das Dorf hat **sowohl** einen See **als auch** Wanderwege.
+7. Der Kurs ist **sowohl** für Anfänger **als auch** für Fortgeschrittene geeignet.
+8. Sie wachsen **sowohl** persönlich **als auch** beruflich.
 
-> 📌 **Merkasten**
+> ⚠️ **Häufige Fehler**
 >
-> | Rule | Example |
+> | ❌ Wrong | ✅ Right |
 > |---|---|
-> | No extra `nicht`! | Er hat **weder** Zeit **noch** Geld. *(not: Er hat nicht weder …)* |
-> | `weder` sentence-initial: inversion | **Weder** hat er angerufen, **noch** hat er geantwortet. |
-> | Comma between `weder`-part and `noch`-part | …angerufen**,** noch hat er geantwortet. |
+> | *sowohl … **wie auch** …* | *sowohl … **als auch** …* (fixed form) |
+> | *Sowohl Anna als auch Bruno **kommt** …* | *Sowohl Anna als auch Bruno **kommen** …* (two subjects → plural) |
+> | *sowohl günstig **aber auch** teuer* | *sowohl günstig **als auch** hochwertig* (always positive/additive) |
 
-⚠️ **Trap:** Never add `nicht` when using `weder … noch`. The double negation is
-built in — adding `nicht` creates an error: *~~Er hat weder nicht Zeit noch Geld.~~*
+> 💡 **Lerntipp:** Chant it as one frozen unit: **„sowohl … als auch"** — never let
+> *wie* sneak in. Think of it as the positive twin of `weder … noch` (§6.4): both
+> join two items, but `sowohl … als auch` *includes* both, `weder … noch` *excludes*
+> both.
+
+**Versuch es selbst.** Verbinde: „Das Hotel ist günstig. Das Hotel ist zentral." (mit *sowohl … als auch*)
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Das Hotel ist **sowohl** günstig **als auch** zentral.*
+
+</details>
+
+> 📌 **Merkasten — `sowohl … als auch`**
+>
+> ▶ Immer additiv/positiv. ▶ Immer **`als auch`** (nie *wie auch*). ▶ Zwei
+> Subjekte → Verb meist **Plural**. ▶ Keine Inversion.
 
 ---
 
-### 4.5 `zwar … aber` — admittedly … but (concession)
+### 6.3 `entweder … oder` — either … or
 
-`zwar` (admittedly, it's true that) concedes a point; `aber` (but) introduces
-the contrasting reality. The speaker grants something is true, then qualifies
-it. Builds on B1/02 — now used with more complex arguments.
+**Warum?** `entweder … oder` offers an **exclusive choice** — one option *or* the
+other, not both: *Entweder wir bleiben, oder wir ziehen um.* It can link nouns,
+phrases or whole clauses. The thing to watch is word order: if you open the
+sentence with **`entweder`**, the verb comes in position 2 (inversion) —
+***Entweder bleiben wir** hier, oder wir ziehen um.* Put `entweder` later in the
+clause and nothing moves (*Wir nehmen **entweder** den Bus oder das Fahrrad*). The
+`oder`-part is a normal main clause.
 
-| Pattern | Example |
+| Muster | Beispiel |
 |---|---|
-| `zwar` mid-sentence | Das Angebot ist **zwar** günstig, **aber** die Qualität fehlt. |
-| `zwar` sentence-initial (inversion) | **Zwar** ist das Angebot günstig, **aber** die Qualität fehlt. |
-| `zwar` + `aber` across two sentences | Das stimmt **zwar**. **Aber** ich sehe es anders. |
+| Zwei Nomen | **Entweder** Kaffee **oder** Tee — ich muss mich entscheiden. |
+| Mitten im Satz (keine Inversion) | Ich nehme **entweder** den Bus **oder** das Fahrrad. |
+| `entweder` am Satzanfang → Inversion | **Entweder** bleiben wir hier, **oder** wir ziehen um. |
 
-> *Berlin ist **zwar** teuer, **aber** das kulturelle Angebot ist unvergleichlich.*
-> (Berlin is admittedly expensive, but the cultural offering is incomparable.)
+**Examples:**
 
-> ***Zwar** habe ich keine Erfahrung, **aber** ich lerne schnell.*
-> (Admittedly I have no experience, but I learn quickly.)
+1. **Entweder** wir bleiben hier, **oder** wir ziehen um.
+2. **Entweder** ihr macht einen Vergleich, **oder** ihr bleibt beim Gefühl.
+3. Du kannst **entweder** das Buch lesen **oder** den Film schauen.
+4. **Entweder** wir streben nach Breite, **oder** wir wählen Tiefe.
+5. Am Meer zahlt man **entweder** zu viel, **oder** man findet kein Hotel.
+6. Ich gehe **entweder** jetzt, **oder** ich bleibe bis morgen.
+7. **Entweder** wir handeln jetzt, **oder** wir verpassen die Gelegenheit.
+8. Sie nimmt **entweder** den Job in Leipzig **oder** den in Erfurt.
 
-> 📌 **Merkasten**
+> ⚠️ **Häufige Fehler**
 >
-> | Rule | Example |
+> | ❌ Wrong | ✅ Right |
 > |---|---|
-> | `zwar` mid-sentence: no change | Das Angebot ist **zwar** günstig, … |
-> | `zwar` sentence-initial: inversion | **Zwar** ist das Angebot günstig, … |
-> | `aber` always in position 0 (coordinator) | …günstig, **aber** die Qualität fehlt. |
-> | No verb movement after `aber` | …**aber** die Qualität **fehlt**. (verb stays in position 2) |
+> | *Entweder **wir bleiben** hier, oder …* | *Entweder **bleiben wir** hier, oder …* (sentence-initial → inversion) |
+> | *entweder … **als** …* | *entweder … **oder** …* (the partner is `oder`) |
+> | *Entweder Kaffee **und** Tee* | *Entweder Kaffee **oder** Tee* (exclusive → `oder`) |
 
-⚠️ **Depth note (building on B1/02):** In B1/02, `zwar … aber` appeared in
-simple sentences. Here at B1/10 we use it in multi-clause arguments and
-presentations. Notice that the `aber`-clause is a full main clause — the
-verb stays in position 2 after `aber`.
+> 💡 **Lerntipp:** `entweder … oder` = a fork in the road: you take one path, not
+> both. The only tricky bit is inversion — if `entweder` is the **first word**, flip
+> verb and subject (*Entweder **bleiben wir** …*). When in doubt, just keep
+> `entweder` *after* the subject and you avoid the issue entirely.
 
----
+**Versuch es selbst.** Verbinde mit Inversion: „Wir gehen ins Kino. Wir bleiben zu Hause." (Beginn mit *Entweder*)
 
-### 4.6 Overview table — all five connectors
+<details>
+<summary>📝 Lösung</summary>
 
-| Connector | Type | English | Inversion possible? |
-|---|---|---|---|
-| `nicht nur … sondern auch` | additive | not only … but also | Yes (if `nicht nur` starts the sentence) |
-| `sowohl … als auch` | additive | both … and | No (remains within clause structure) |
-| `entweder … oder` | exclusive choice | either … or | Yes (if `entweder` starts the sentence) |
-| `weder … noch` | double negative | neither … nor | Yes (if `weder` starts the sentence) |
-| `zwar … aber` | concessive | admittedly … but | Yes (if `zwar` starts the sentence) |
+> *Entweder **gehen wir** ins Kino, **oder** wir bleiben zu Hause.*
 
-**Inversion rule (general):** When any of these connectors occupies the
-**first position** of a sentence, the finite verb comes in position 2
-(standard V2 rule). Subject follows the verb:
+</details>
 
-> *Nicht nur* **spricht** *er* Deutsch, …
-> *Entweder* **bleiben** *wir* hier, …
-> *Weder* **hat** *er* angerufen, …
-> *Zwar* **ist** *das* günstig, …
+> 📌 **Merkasten — `entweder … oder`**
+>
+> ▶ Exklusive Wahl: eins von beiden. ▶ `entweder` am Satzanfang → Verb auf Platz 2.
+> ▶ Mitten im Satz: keine Inversion. ▶ Partner ist immer **`oder`**.
 
 ---
 
-## 5. Lesetext — Zwei Seiten einer Stadt: Berlin aus zwei Perspektiven
+### 6.4 `weder … noch` — neither … nor
 
-*Lies den Text zweimal: einmal schnell, einmal langsam. Er wird in Block C verwendet.*
+**Warum?** `weder … noch` is the **double negative**: both things are ruled out.
+*Er hat **weder** Zeit **noch** Geld.* The single most important rule: the negation
+is **already built in**, so you must **not** add an extra `nicht` or `kein`. Like
+the others, a sentence-initial **`weder`** triggers inversion (*Weder **hat er**
+angerufen, noch hat er geschrieben*). It's the mirror image of `sowohl … als auch`
+— same two slots, opposite meaning.
+
+| Muster | Beispiel |
+|---|---|
+| Zwei Nomen | Er hat **weder** Zeit **noch** Geld. |
+| Zwei Infinitive | Ich möchte das **weder** lesen **noch** hören. |
+| `weder` am Satzanfang → Inversion | **Weder** hat er angerufen, **noch** hat er geschrieben. |
+
+**Examples:**
+
+1. Sie spricht **weder** Chinesisch **noch** Japanisch.
+2. Ich bin **weder** bereit aufzugeben **noch** will ich von vorne anfangen.
+3. **Weder** der Lärm **noch** die Kosten werden besser.
+4. Ich habe **weder** Studien zitiert **noch** eigene Erhebungen durchgeführt.
+5. Das interessiert mich **weder** heute **noch** morgen.
+6. Wir buchen **weder** das teure Hotel **noch** die lange Tour.
+7. **Weder** die Finanzierung **noch** die Koordination ist gesichert.
+8. Er ist **weder** ein großer Schwimmer **noch** ein guter Wanderer.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Er hat **nicht** weder Zeit noch Geld.* | *Er hat **weder** Zeit **noch** Geld.* (no extra `nicht`!) |
+> | *weder Zeit **oder** Geld* | *weder Zeit **noch** Geld* (the partner is `noch`) |
+> | *Weder **er hat** angerufen, …* | *Weder **hat er** angerufen, …* (sentence-initial → inversion) |
+
+> 💡 **Lerntipp:** `weder … noch` *is* the negation — adding `nicht`/`kein` is like
+> saying "not neither", a double mistake. Pair it in your head with `sowohl … als
+> auch` (§6.2): if you can build the positive *„sowohl X als auch Y"*, just swap to
+> *„weder X noch Y"* for the negative.
+
+**Versuch es selbst.** Verneine beides: „Ich habe Zeit. Ich habe Lust." → (mit *weder … noch*)
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich habe **weder** Zeit **noch** Lust.*
+
+</details>
+
+> 📌 **Merkasten — `weder … noch`**
+>
+> ▶ Doppelte Verneinung: keins von beiden. ▶ **Kein** extra `nicht`/`kein`!
+> ▶ `weder` am Satzanfang → Inversion. ▶ Partner ist immer **`noch`**.
+
+---
+
+### 6.5 `zwar … aber` — admittedly … but (concession)
+
+**Warum?** `zwar … aber` is the connector of **fair argument**: you first *concede*
+a point with **`zwar`** ("admittedly, it's true that"), then *qualify* it with
+**`aber`** ("but"). *Berlin ist **zwar** teuer, **aber** das Angebot ist
+unvergleichlich.* You met it in B1/02; here it powers full arguments. Word order:
+`zwar` mid-sentence changes nothing; `zwar` at the **front** triggers inversion
+(*Zwar **ist** das günstig, aber …*). After `aber`, the clause is a normal main
+clause — verb in position 2.
+
+| Muster | Beispiel |
+|---|---|
+| `zwar` mitten im Satz | Das Angebot ist **zwar** günstig, **aber** die Qualität fehlt. |
+| `zwar` am Satzanfang → Inversion | **Zwar** ist das Angebot günstig, **aber** die Qualität fehlt. |
+| über zwei Sätze | Das stimmt **zwar**. **Aber** ich sehe es anders. |
+
+**Examples:**
+
+1. Berlin ist **zwar** teuer, **aber** das kulturelle Angebot ist unvergleichlich.
+2. Das ist **zwar** interessant, **aber** ich gebe mein Netzwerk nicht auf.
+3. Der Lehrplan ist **zwar** ambitiös, **aber** die Stunden sind begrenzt.
+4. **Zwar** habe ich keine Erfahrung, **aber** ich lerne schnell.
+5. Der Entwurf ist **zwar** noch nicht vollständig, **aber** überzeugend.
+6. Die Berge sind **zwar** anstrengend, **aber** die Luft ist fantastisch.
+7. Es ist **zwar** ein Kompromiss, **aber** ein richtig guter.
+8. **Zwar** gibt es Modellprojekte, **aber** die Finanzierung fehlt.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Zwar **das ist** günstig, aber …* | *Zwar **ist das** günstig, aber …* (sentence-initial → inversion) |
+> | *…, aber **fehlt** die Qualität.* | *…, **aber** die Qualität **fehlt**.* (after `aber`: verb in position 2) |
+> | *zwar günstig **sondern** teuer* | *zwar günstig**,** **aber** teuer* (concession → `aber`) |
+
+> 💡 **Lerntipp:** Think "yes, but": `zwar` = the polite *yes* that grants the
+> point, `aber` = the *but* that adds your reservation. It makes you sound balanced
+> and grown-up — perfect for presentations. Only `zwar` can move to the front (and
+> then invert); `aber` always stays a plain coordinator in position 0.
+
+**Versuch es selbst.** Verbinde: „Die Wohnung ist klein. Sie ist gemütlich." (mit *zwar … aber*)
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Die Wohnung ist **zwar** klein, **aber** (sie ist) gemütlich.*
+
+</details>
+
+> 📌 **Merkasten — `zwar … aber`**
+>
+> ▶ Konzessiv: erst zugestehen (`zwar`), dann einschränken (`aber`).
+> ▶ `zwar` am Satzanfang → Inversion. ▶ Nach `aber`: Hauptsatz, Verb auf Platz 2.
+>
+> **Übersicht — Inversion bei Satzanfang:**
+> | Konnektor | Typ | Inversion, wenn am Satzanfang? |
+> |---|---|---|
+> | nicht nur … sondern auch | additiv | ja |
+> | sowohl … als auch | additiv | nein |
+> | entweder … oder | Wahl | ja |
+> | weder … noch | Ausschluss | ja |
+> | zwar … aber | konzessiv | ja |
+
+---
+
+## 7. Lesetext — Zwei Seiten einer Stadt: Berlin aus zwei Perspektiven
+
+*Lies den Text zweimal: einmal schnell, einmal langsam. Er wird in den Übungen verwendet.*
 
 Viele Menschen fragen sich: Ist Berlin wirklich so besonders, wie alle sagen?
 Die Antworten sind so verschieden wie die Menschen selbst — und die zweiteiligen
@@ -364,11 +539,11 @@ falsch.
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
-## 6. Hörtext — Yusuf auf einer Akademikerkonferenz
+## 8. Hörtext — Yusuf auf einer Akademikerkonferenz
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -379,33 +554,33 @@ falsch.
 
 ---
 
-## 7. Lernstrategie — Der Konnektor-Kompass
+## 9. Magazin — Landeskunde
 
-When you encounter a complex argument in German — in a newspaper, podcast,
-or lecture — ask yourself: **which connector type is being used?**
+### Die Erörterung — Streiten lernen in der Schule
 
-Use this quick compass:
-- Is the speaker **adding** information? → `nicht nur … sondern auch` or `sowohl … als auch`
-- Is the speaker **presenting a choice**? → `entweder … oder`
-- Is the speaker **excluding both options**? → `weder … noch`
-- Is the speaker **conceding before contrasting**? → `zwar … aber`
+Wer in Deutschland zur Schule geht, lernt früh eine besondere Textsorte: die **Erörterung**. Dabei wägt man ein Thema systematisch ab — *einerseits, andererseits*, Pro und Contra, *sowohl als auch* — und kommt am Ende zu einem begründeten Fazit. Das Ziel ist nicht, möglichst laut die eigene Meinung durchzusetzen, sondern fair beide Seiten zu zeigen. Genau dafür sind die zweiteiligen Konnektoren wie gemacht. Diese Denkweise prägt vieles: In Talkshows, Zeitungskommentaren und sogar im Berufsleben gilt, wer differenziert argumentiert, als kompetent. Eine klare Meinung ist gut — aber eine *abgewogene* Meinung ist in Deutschland oft noch besser angesehen.
 
-**Practice technique — Argument-Mapping:**
+> Nicht wer am lautesten ruft, überzeugt — sondern wer beide Seiten kennt und trotzdem zu einem klaren Fazit kommt.
 
-Take any German article or podcast and highlight every two-part connector.
-Label each one (additive / exclusive / concessive). After 10 texts, you will
-start using these connectors unconsciously in your own writing.
+---
 
-**Production tip:** Write one paragraph about a topic you care about. Force
-yourself to use all five connectors at least once. The constraint makes you
-*think* in structured arguments — which is exactly what B1 German requires.
+## 10. Lernstrategie
 
-> *Ich finde sowohl die Vorteile als auch die Nachteile wichtig. Nicht nur die
-> Kosten, sondern auch die Qualität entscheiden. Zwar ist es schwierig, aber
-> weder Aufgeben noch Zögern ist eine Lösung. Entweder wir handeln jetzt, oder
-> wir verpassen die Gelegenheit.*
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jeden zweiteiligen Konnektor und bestimme den Typ (additiv / Wahl / konzessiv)
+- Wortschatz §4 mit verdeckter Spalte testen — `widersprechen`/`zustimmen` mit Dativ üben
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
 
-That is one paragraph — five connectors — structured argument. That is B1
-argumentation.
+### Tag 2 (30 min) — Vertiefung
+- **Konnektor-Kompass:** zu 5 Aussagen je den passenden Konnektor wählen und den Satz bilden (§6.1–§6.5)
+- Inversionsdrill: 5 Sätze mit `nicht nur`/`entweder`/`weder`/`zwar` am **Satzanfang** schreiben (Verb auf Platz 2!)
+- *Versuch es selbst* in §6.1–§6.5 auf Papier machen
 
-➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Schreib **einen** Absatz zu einem Thema, das dir wichtig ist, und benutze **alle fünf** Konnektoren mindestens einmal
+- Lesetext §7 lesen, alle Konnektoren markieren und nach Typ sortieren
+- Hörtext §8 (Vortrag) hören, Transkript erst danach öffnen — alle Konnektoren heraushören; dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
