@@ -114,17 +114,17 @@ When done, report:
 | A2/01 | erzaehl-mal | ✅ | 4,903w lesson.md · 2,596w lesson-short.md |
 | A2/02 | zusammen-wohnen | ✅ | 5,580w lesson.md · 2,921w lesson-short.md |
 | A2/03 | begruenden-und-erklaeren | ✅ | 4,413w lesson.md · 2,807w lesson-short.md |
-| A2/04 | arbeit-und-beruf | ⬜ | |
-| A2/05 | gesund-leben | ⬜ | |
-| A2/06 | medien-und-kommunikation | ⬜ | |
-| A2/07 | vergleichen | ⬜ | |
-| A2/08 | adjektive-ueberall | ⬜ | |
-| A2/09 | hoeflichkeit-und-wuensche | ⬜ | |
-| A2/10 | stadt-land-reisen | ⬜ | |
-| A2/11 | geben-und-schenken | ⬜ | |
-| A2/12 | plaene-und-zukunft | ⬜ | |
-| A2/13 | menschen-beschreiben | ⬜ | |
-| A2/14 | pruefungstraining-a2 | ⬜ | Review lesson — use adapted §6 (see review-lesson section above) |
+| A2/04 | arbeit-und-beruf | ✅ | 4,363w lesson.md · 2,576w lesson-short.md |
+| A2/05 | gesund-leben | ✅ | 4,322w lesson.md · 3,107w lesson-short.md |
+| A2/06 | medien-und-kommunikation | ✅ | 4,103w lesson.md · 2,950w lesson-short.md |
+| A2/07 | vergleichen | ✅ | 3,695w lesson.md · 2,429w lesson-short.md |
+| A2/08 | adjektive-ueberall | ✅ | 3,676w lesson.md · 2,462w lesson-short.md |
+| A2/09 | hoeflichkeit-und-wuensche | ✅ | 3,941w lesson.md · 2,887w lesson-short.md |
+| A2/10 | stadt-land-reisen | ✅ | 4,351w lesson.md · 3,931w lesson-short.md |
+| A2/11 | geben-und-schenken | ✅ | 3,860w lesson.md · 3,395w lesson-short.md |
+| A2/12 | plaene-und-zukunft | ✅ | 3,879w lesson.md · 3,207w lesson-short.md |
+| A2/13 | menschen-beschreiben | ✅ | 4,178w lesson.md · 3,348w lesson-short.md |
+| A2/14 | pruefungstraining-a2 | ✅ | 3,187w lesson.md · 2,241w lesson-short.md (review lesson, adapted §6) |
 | B1/01 | frueher-und-heute | ✅ | 3,835w lesson.md · 2,430w lesson-short.md |
 | B1/02 | gegensaetze-und-folgen | ✅ | 3,775w lesson.md · 2,884w lesson-short.md |
 | B1/03 | wuensche-und-irreales | ✅ | 4,153w lesson.md · 3,474w lesson-short.md |
@@ -140,9 +140,13 @@ When done, report:
 | B1/13 | schreiben-und-sprechen-b1 | ✅ | 3,964w lesson.md · 2,712w lesson-short.md (productive-skills lesson; §6 = 3 Baukästen, adapted 6-part format) |
 | B1/14 | wiederholung-und-pruefungstraining-b1 | ✅ | 3,332w lesson.md · 2,482w lesson-short.md (review/exam lesson; adapted §6: Grammatik-Übersicht / Häufige Fehler / Schnell-Check; 3 exam Lesetexte preserved) |
 
-**✅ B1 COMPLETE (B1/01–14 all v2-done as of 2026-06-23).** Next level: B2/01–14
-(after A2/04–13 backfill, if still pending). B2/14 and C1/12 are review lessons
-(adapted §6).
+**✅ v2 UPGRADE COMPLETE for all existing content (as of 2026-06-23):**
+A1/01–14, A2/01–14, B1/01–14 — every lesson now ships `lesson.md` (v2 Full)
++ `lesson-short.md` (v1), with frontmatter and word-for-word agreement on
+dialogs / Wortschatz / Hörtext. **B2 and C1 directories do not exist yet** —
+those levels are not authored, so there is nothing further to upgrade. When
+B2/C1 lessons are written, they should be authored directly in the v2 format
+(B2/14 and C1/12 will be review lessons with the adapted §6).
 
 ---
 
