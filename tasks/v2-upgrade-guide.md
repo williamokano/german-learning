@@ -137,7 +137,8 @@ When done, report:
 | B1/10 | zweiteilige-konnektoren | ✅ | 4,669w lesson.md · 3,257w lesson-short.md (5 §6 subsections — one per connector) |
 | B1/11 | arbeitswelt-und-bewerbung | ✅ | 4,548w lesson.md · 3,122w lesson-short.md (grammar review in context; §6.1-6.5 recap + §6.6 Anschreiben-Aufbau) |
 | B1/12 | umwelt-und-gesellschaft | ✅ | 4,130w lesson.md · 2,974w lesson-short.md (Nominalisierung; 4 §6 subsections) |
-| B1/13–14 | — | ⬜ | Instruction language: mixed EN/DE. B1/14 is a review lesson (adapted §6) |
+| B1/13 | schreiben-und-sprechen-b1 | ✅ | 3,964w lesson.md · 2,712w lesson-short.md (productive-skills lesson; §6 = 3 Baukästen, adapted 6-part format) |
+| B1/14 | — | ⬜ | Review/exam lesson — use adapted §6 (Grammatik-Übersicht / Häufige Fehler / Schnell-Check) |
 
 ---
 
