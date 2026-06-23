@@ -1,3 +1,24 @@
+---
+level: B1
+number: 12
+slug: umwelt-und-gesellschaft
+title: Umwelt und Gesellschaft
+titleEn: Environment and Society
+canDo:
+  - discuss environmental and social issues
+  - express and justify opinions (Stellungnahme)
+  - use Nominalisierung and switch between Verbalstil and Nominalstil
+  - use Passiv in news and environment register
+grammar:
+  - "Nominalisierung — Verb → -ung / substantivierter Infinitiv / adjective → -keit, -heit"
+  - "Verbalstil vs. Nominalstil transformation"
+  - "Passiv review in environmental and news context"
+buildsOn:
+  - B1/04 (Passiv — central to news/environment language)
+  - B1/10 (zweiteilige Konnektoren — for structured arguments)
+  - B1/07 (Genitiv — needed for nominal phrases)
+---
+
 # B1 · Lektion 12 — Umwelt und Gesellschaft (Environment and Society)
 
 > **You will learn to:** discuss environmental and social issues, express and
@@ -63,7 +84,13 @@ academic register.*
 
 ---
 
-## 2. Redemittel
+## 2. Einstieg — Was lernst du heute?
+
+Klimawandel, Mietpreise, Integration — über **Umwelt und Gesellschaft** diskutiert man auf Deutsch in einem besonderen Stil: sachlich, distanziert, **nominal**. Statt *„wir müssen die Umwelt schützen"* schreibt man *„der **Schutz** der Umwelt ist notwendig"*. Das ist die **Nominalisierung** — Verben und Adjektive werden zu Nomen: *verbessern → die **Verbesserung**, recyceln → das **Recyceln**, wichtig → die **Wichtigkeit**.* Dazu lernst du, zwischen **Verbalstil** (lebendig, gesprochen) und **Nominalstil** (formell, geschrieben) zu wechseln — und du wiederholst das **Passiv** der Nachrichtensprache. This is the register of op-eds, news and the B1 Stellungnahme — exactly what the exam rewards.
+
+---
+
+## 3. Redemittel
 
 ### Meinungen äußern (expressing opinions)
 
@@ -101,9 +128,11 @@ academic register.*
 
 ---
 
-## 3. Wortschatz
+## 4. Wortschatz
 
 ### Umwelt und Klimawandel
+
+> 💡 **Lerntipp:** Viele dieser Nomen *sind* schon Nominalisierungen (§6): *der **Rückgang** ← zurückgehen, der **Anstieg** ← ansteigen, der **Ausbau** ← ausbauen, die **Einführung** ← einführen.* Lern jedes Nomen gleich mit seinem Verb — dann kannst du mühelos zwischen Verbal- und Nominalstil wechseln.
 
 | Nomen | Englisch |
 |---|---|
@@ -125,6 +154,8 @@ academic register.*
 | die Einführung, -en | introduction, implementation |
 
 ### Gesellschaft und Sozialpolitik
+
+> 💡 **Lerntipp:** Die Endungen verraten das Genus: **-ung**, **-keit**, **-heit** sind immer **feminin** (*die Förderung, die Gerechtigkeit, die Notwendigkeit*). Wenn du das weißt, musst du den Artikel dieser abstrakten Nomen nie auswendig lernen.
 
 | Nomen | Englisch |
 |---|---|
@@ -154,161 +185,295 @@ academic register.*
 | überfällig (adj.) | overdue |
 | überarbeiten ⚠️ inseparable | to revise |
 
----
-
-## 4. Grammatik
-
-### 4.1 Nominalisierung — turning verbs and adjectives into nouns
-
-**What is Nominalisierung?**
-Nominalisierung (nominalization) is the process of turning a verb or adjective
-into a noun. It is extremely common in formal German — in newspaper texts,
-academic writing, op-eds, and news reports — and is a key B1/B2 exam skill.
-There are three main patterns.
+> ✏️ **Selbsttest Wortschatz:** Cover the English column. Can you recall every word — *and* name the verb behind each `-ung`/`-gang`/`-stieg` noun (*Einführung ← einführen*)? Aim for ≥80% before the exercises.
 
 ---
 
-**Pattern 1: Verb → Nomen with -ung (Femininum)**
+## 5. Mini-Geschichte — Im Unverpackt-Laden
 
-Many verbs form nouns by adding **-ung** to the verb stem. These are always
-**feminine** (die … -ung).
+Lies den Text zuerst zügig. Beim zweiten Lesen markiere jede Nominalisierung — die `-ung`-Nomen und die substantivierten Verben (*das Einkaufen, das Umdenken*).
 
-| Verb | Nomen (-ung) | Example |
+Anna hat Bruno überredet, mit ihr in einen Unverpackt-Laden zu gehen. „Die Vermeidung von Müll fängt beim Einkaufen an", sagt sie. Bruno ist skeptisch: „Das Einkaufen dauert hier bestimmt ewig."
+
+Im Laden gibt es keine Plastikverpackungen. Reis, Nudeln und Müsli werden aus großen Behältern in mitgebrachte Gläser gefüllt. „Schau", sagt Anna, „die Reduzierung des Verpackungsmülls ist hier das ganze Konzept. Durch das Mitbringen eigener Gläser spart man enorm viel Plastik."
+
+Bruno wiegt eine Handvoll Haferflocken ab. „Eigentlich ist das gar nicht so kompliziert. Aber sind die Preise nicht höher?" Eine Verkäuferin hört das und lächelt. „Manchmal schon. Aber die Förderung nachhaltiger Produkte und die Vermeidung von Müll sind uns wichtiger als der niedrigste Preis."
+
+Auf dem Heimweg ist Bruno nachdenklich. „Weißt du, das Umdenken fällt mir noch schwer. Ich bin das Wegwerfen so gewohnt." Anna nickt. „Das geht vielen so. Aber die Veränderung beginnt im Kleinen. Schon die Verringerung des eigenen Konsums hilft — und die Belohnung ist ein gutes Gewissen." Bruno lächelt. „Und weniger Müll in der Wohnung. Das ist auch eine Verbesserung."
+
+Zu Hause räumen sie die Gläser ein. „Eigentlich", sagt Bruno, „ist das Schöne daran nicht nur die Umwelt, sondern auch das Gefühl, etwas richtig zu machen." Anna grinst. „Siehst du? Die Rettung der Welt schmeckt nach Haferflocken." Beide lachen — und beschließen, ab jetzt öfter herzukommen.
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Warum gehen Anna und Bruno in den Unverpackt-Laden?**
+> *Wegen der Vermeidung von Müll — die Reduzierung des Verpackungsmülls ist das Konzept.*
+>
+> **2. Wie funktioniert das Konzept des Ladens?**
+> *Man bringt eigene Gläser mit; es gibt keine Plastikverpackungen.*
+>
+> **3. Was fällt Bruno noch schwer?**
+> *Das Umdenken — er ist das Wegwerfen so gewohnt.*
+
+</details>
+
+---
+
+## 6. Grammatik
+
+### 6.1 Nominalisierung I — vom Verb zum Nomen
+
+**Warum?** Formal German loves nouns. Where you'd *say* *„wir verbessern die
+Luft"*, a newspaper *writes* *„die **Verbesserung** der Luft"*. Turning a verb
+into a noun (**Nominalisierung**) makes a text sound objective and educated — and
+it's a core B1/B2 exam skill. Two verb-to-noun patterns dominate. **(1) `-ung`
+nouns** (always **feminine**): *verbessern → die Verbesserung, einführen → die
+Einführung.* **(2) The substantivierter Infinitiv** — capitalise any verb and it
+becomes a noun, always **neuter**: *recyceln → das Recyceln, heizen → das Heizen.*
+The object of the original verb usually follows in the Genitiv (*die Verbesserung
+**der Luft**, B1/07).
+
+| Verb | `-ung`-Nomen (fem.) | Beispiel |
 |---|---|---|
 | verbessern | die Verbesserung | die Verbesserung der Luftqualität |
 | einführen | die Einführung | die Einführung der Citymaut |
-| entwickeln | die Entwicklung | die Entwicklung des Nahverkehrs |
-| nutzen / benutzen | die Nutzung / die Benutzung | die Nutzung erneuerbarer Energien |
-| verwenden | die Verwendung | die Verwendung von Plastik |
 | reduzieren | die Reduzierung | die Reduzierung der Emissionen |
 | fördern | die Förderung | die Förderung des ÖPNV |
-| belegen | die Belegung | — (less common) |
-| erhöhen | die Erhöhung | die Erhöhung der Preise |
-| anklagen | die Anklage | — (some -ung forms don't exist) |
 
-> ⚠️ **Not every verb has a -ung form!** Check for the derived noun before
-> using it. Common traps: *~~die Sinken~~* (doesn't exist) → use `der
-> Rückgang` instead.
-
----
-
-**Pattern 2: Verb → Nomen as substantivierter Infinitiv (Neutrum)**
-
-Any German verb can be nominalized simply by capitalizing it. The resulting
-noun is **always neuter** (das …).
-
-| Verb | Substantivierter Infinitiv | Example sentence |
+| Verb | substantivierter Infinitiv (neut.) | Beispiel |
 |---|---|---|
-| recyceln | das Recyceln | Das Recyceln von Plastik spart Ressourcen. |
+| recyceln | das Recyceln | Das Recyceln spart Ressourcen. |
 | heizen | das Heizen | Das Heizen mit Gas ist teuer. |
-| autofahren | das Autofahren | Das Autofahren in der Innenstadt wird teurer. |
-| fliegen | das Fliegen | Das Fliegen erzeugt viel CO₂. |
-| sparen | das Energiesparen | Durch das Energiesparen sinkt der Ausstoß. |
+| autofahren | das Autofahren | Das Autofahren wird teurer. |
 
-> 📌 **Merkasten — Substantivierter Infinitiv (nominalized infinitive)**
+**Examples:**
+
+1. Die **Reduzierung** des Autoverkehrs senkt die Emissionen.
+2. Die **Einführung** der Citymaut ist überfällig.
+3. Die **Förderung** erneuerbarer Energien ist wichtig.
+4. Das **Recyceln** von Plastik spart Ressourcen.
+5. Durch das **Energiesparen** sinkt der CO₂-Ausstoß.
+6. Das **Autofahren** in der Innenstadt wird teurer.
+7. Die **Nutzung** öffentlicher Verkehrsmittel nimmt zu.
+8. Die **Verbesserung** der Luftqualität ist ein klares Ziel.
+
+> ⚠️ **Häufige Fehler**
 >
-> | Rule | Detail |
+> | ❌ Wrong | ✅ Right |
 > |---|---|
-> | **Always neuter** | das Recyceln, das Autofahren, das Heizen |
-> | **Capitalized** | normal German noun rules apply |
-> | **No article needed with `durch`** | Durch Recyceln (or: Durch das Recyceln) |
+> | *der Verbesserung der Luft* | *die Verbesserung der Luft* (`-ung` → **feminine**) |
+> | *die Recyceln* / *der Recyceln* | *das Recyceln* (substantivierter Infinitiv → **neuter**) |
+> | *die Sinken der Emissionen* | *der **Rückgang** der Emissionen* (not every verb has a `-ung`!) |
+
+> 💡 **Lerntipp:** Two genders to memorise as rules, not by heart: **`-ung` → die**,
+> **substantivierter Infinitiv → das**. And beware — not every verb has a `-ung`
+> noun (*sinken* doesn't; use *der Rückgang*). When no noun exists, fall back on the
+> capitalised infinitive (*das Sinken*) or a ready-made noun.
+
+**Versuch es selbst.** Nominalisiere: „Man führt die Maut ein." → „… der Maut ist geplant."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Die **Einführung** der Maut ist geplant.*
+
+</details>
+
+> 📌 **Merkasten — Verb → Nomen**
 >
-> Compare with English "-ing" forms: *"Recycling saves resources."*
-> In German: *„Das Recyceln spart Ressourcen."* or
-> *„Recyceln spart Ressourcen."* (without article, also correct)
+> | Muster | Genus | Beispiel |
+> |---|---|---|
+> | Verb + **-ung** | **die** (fem.) | die Einführung, die Förderung |
+> | substantivierter Infinitiv | **das** (neut.) | das Recyceln, das Heizen |
+>
+> ▶ Objekt folgt im Genitiv: die Förderung **des ÖPNV**.
 
 ---
 
-**Pattern 3: Adjective → Nomen (Femininum, usually)**
+### 6.2 Nominalisierung II — vom Adjektiv zum Nomen
 
-Many adjectives form abstract nouns with **-keit** or **-heit** endings.
-These are always **feminine** (die … -keit / -heit).
+**Warum?** Adjectives turn into abstract nouns too, and they're everywhere in
+argumentative writing: *wichtig → die **Wichtigkeit**, möglich → die
+**Möglichkeit**, notwendig → die **Notwendigkeit**.* Instead of *„es ist wichtig,
+dass wir handeln"* you write the crisp *„die Wichtigkeit des Handelns"*. The two
+productive endings are **`-keit`** and **`-heit`**, and — like `-ung` — they are
+**always feminine**. This lets you compress a whole opinion clause into one
+authoritative noun phrase.
 
-| Adjektiv | Nomen | Example |
+| Adjektiv | Nomen | Beispiel |
 |---|---|---|
-| wichtig | die Wichtigkeit | Die Wichtigkeit dieses Themas ist klar. |
-| möglich | die Möglichkeit | Es gibt keine andere Möglichkeit. |
-| notwendig | die Notwendigkeit | Die Notwendigkeit von Maßnahmen ist unbestreitbar. |
-| sicher | die Sicherheit | Die Sicherheit der Bürger hat Vorrang. |
-| frei | die Freiheit | Die Freiheit der Presse ist wichtig. |
-| ehrlich | die Ehrlichkeit | Ehrlichkeit ist eine Tugend. |
-| schwierig | die Schwierigkeit | Die Schwierigkeit liegt im Detail. |
+| wichtig | die Wichtigkeit | die Wichtigkeit des Themas |
+| möglich | die Möglichkeit | es gibt keine andere Möglichkeit |
+| notwendig | die Notwendigkeit | die Notwendigkeit von Maßnahmen |
+| sicher | die Sicherheit | die Sicherheit der Bürger |
+| frei | die Freiheit | die Freiheit der Presse |
+| gerecht | die Gerechtigkeit | die soziale Gerechtigkeit |
+
+**Examples:**
+
+1. Die **Wichtigkeit** dieses Themas ist kaum zu überschätzen.
+2. Es gibt keine andere **Möglichkeit**.
+3. Die **Notwendigkeit** von Maßnahmen ist unbestreitbar.
+4. Die **Sicherheit** der Bürger hat Vorrang.
+5. Die soziale **Gerechtigkeit** darf nicht vergessen werden.
+6. Die **Nachhaltigkeit** der Produktion steht im Mittelpunkt.
+7. Die **Schwierigkeit** liegt in der Finanzierung.
+8. Die **Freiheit** der Presse ist ein hohes Gut.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *der Wichtigkeit / das Möglichkeit* | *die Wichtigkeit / die Möglichkeit* (`-keit`/`-heit` → **feminine**) |
+> | *die Wichtig des Themas* | *die **Wichtigkeit** des Themas* (need the noun ending) |
+> | *die Notwendig von Maßnahmen* | *die **Notwendigkeit** von Maßnahmen* |
+
+> 💡 **Lerntipp:** `-keit`, `-heit` (and `-ung`) all signal **die**. To turn an
+> opinion into formal prose, drop *„es ist [Adjektiv], dass …"* and lead with the
+> noun: *„es ist notwendig, zu handeln" → „die Notwendigkeit des Handelns".* Crisper,
+> and unmistakably exam-register.
+
+**Versuch es selbst.** Nominalisiere: „Es ist möglich, etwas zu ändern." → „Die … besteht."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Die **Möglichkeit** (einer Änderung) besteht.*
+
+</details>
+
+> 📌 **Merkasten — Adjektiv → Nomen**
+>
+> | Adjektiv-Endung wird zu | Genus | Beispiel |
+> |---|---|---|
+> | **-keit** | die | möglich → die Möglichkeit |
+> | **-heit** | die | frei → die Freiheit |
+>
+> ▶ Immer feminin. ▶ Das Bezugswort folgt im Genitiv: die Wichtigkeit **des Themas**.
 
 ---
 
-### 4.2 Verbalstil vs. Nominalstil
+### 6.3 Verbalstil ↔ Nominalstil
 
-One of the most important B1+ skills is **switching between styles**:
-**Verbalstil** (verb-heavy, conversational) and **Nominalstil** (noun-heavy,
-formal/written).
+**Warum?** The real exam skill isn't just *making* nouns — it's **switching
+register**. **Verbalstil** (verb-heavy) is lively and spoken; **Nominalstil**
+(noun-heavy) is formal and written. *„Wir müssen die Umwelt schützen"* (Verbalstil)
+↔ *„Der Schutz der Umwelt ist notwendig"* (Nominalstil). The transformation has a
+few standard moves: a verb becomes a `-ung`/infinitive noun, a **`wenn`-clause**
+becomes **`durch` + noun**, and a **`weil`-clause** becomes **`wegen` + Genitiv**.
+A strong Stellungnahme *mixes* both styles.
 
 | Verbalstil | Nominalstil |
 |---|---|
 | Wir müssen die Umwelt schützen. | Der Schutz der Umwelt ist notwendig. |
 | Wenn man Energie spart, … | Durch das Energiesparen … |
 | Die Mieten steigen. | Der Anstieg der Mietpreise … |
-| Man integriert die Migranten nicht. | Die fehlende Integration der Migranten … |
+| Weil die Preise steigen, … | Wegen des Anstiegs der Preise … |
 | Man nutzt erneuerbare Energie. | Die Nutzung erneuerbarer Energien … |
-| Die Luft verbessert sich. | Die Verbesserung der Luftqualität … |
 
-**Key transformation tools:**
+**Examples (Verbalstil → Nominalstil):**
 
-1. **Verb → -ung noun:** `verbessern → die Verbesserung` (then add Genitiv
-   for the object: *die Verbesserung der Luft*)
-2. **`wenn`-clause → `durch` + substantivierter Infinitiv:** `wenn man spart → durch das Sparen`
-3. **`weil`-clause → `wegen` + Genitiv:** `weil die Preise steigen →
-   wegen des Anstiegs der Preise` (very formal — see B1/07 for `wegen`)
-4. **Predicate adjective → abstract noun:** `Das ist wichtig → Die Wichtigkeit`
+1. Man integriert die Migranten nicht. → Die fehlende **Integration** der Migranten …
+2. Die Luft verbessert sich. → Die **Verbesserung** der Luftqualität …
+3. Wenn man recycelt, spart man Rohstoffe. → **Durch das Recyceln** spart man Rohstoffe.
+4. Weil der Verkehr zunimmt, … → **Wegen der Zunahme** des Verkehrs …
+5. Man baut den Nahverkehr aus. → Der **Ausbau** des Nahverkehrs …
+6. Es ist notwendig zu handeln. → Die **Notwendigkeit** des Handelns …
+7. Wenn man weniger fliegt, sinkt der Ausstoß. → **Durch weniger Fliegen** sinkt der Ausstoß.
+8. Man führt die Maut ein. → Die **Einführung** der Maut …
 
-> 📌 **Why does this matter for the exam?**
+> ⚠️ **Häufige Fehler**
 >
-> The Goethe/telc B1 Schreiben task (Stellungnahme) rewards a **mix** of
-> styles: Verbalstil for vivid opinions, Nominalstil for formal claims.
-> Examiners notice when a candidate can switch between the two fluently.
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Durch **man spart** Energie …* | *Durch **das Energiesparen** …* (durch + Nomen, no clause) |
+> | *Wegen **die Preise steigen** …* | *Wegen **des Anstiegs** der Preise …* (wegen + Genitiv-Nomen) |
+> | nur Nominalstil im ganzen Text | **Mix** Verbal- und Nominalstil (besser lesbar) |
+
+> 💡 **Lerntipp:** Three transformation reflexes: **verb → `-ung`/Infinitiv-Nomen**,
+> **`wenn` → `durch` + Nomen**, **`weil` → `wegen` + Genitiv**. But don't
+> over-nominalise — a wall of nouns is hard to read. Examiners reward a candidate who
+> *switches* fluently between the two styles.
+
+**Versuch es selbst.** Mach Nominalstil: „Wenn man Energie spart, sinkt der CO₂-Ausstoß."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> ***Durch das Energiesparen*** sinkt der CO₂-Ausstoß.
+
+</details>
+
+> 📌 **Merkasten — Stilwechsel**
+>
+> | Verbalstil | → Nominalstil |
+> |---|---|
+> | Verb | `-ung`-Nomen / Infinitiv-Nomen |
+> | `wenn` man … | `durch` + Nomen |
+> | `weil` … | `wegen` + Genitiv |
+>
+> ▶ Gute Stellungnahme = **Mischung** aus beiden Stilen.
 
 ---
 
-### 4.3 Passiv — review in news and environment register
+### 6.4 Passiv im Nachrichten- und Umweltstil
 
-You learned Passiv in B1/04. Here is a focused review of the patterns most
-common in newspaper language and environmental texts.
+**Warum?** Environmental and news texts run on the **Passiv** — the focus is the
+*action or result*, not the doer (which is obvious or unknown): *Jährlich **werden**
+Millionen Tonnen CO₂ **ausgestoßen**.* This is a focused review of B1/04 in exactly
+the register the B1 exam uses. All four passive forms appear: present, Präteritum,
+Perfekt (with **`worden`**) and modal passive (*müssen … **werden***). The agent
+(`von + Dativ`) is usually dropped.
 
-**Core pattern: werden + Partizip II**
+| Form | Beispiel |
+|---|---|
+| Präsens | Jährlich **werden** Millionen Tonnen CO₂ **ausgestoßen**. |
+| Präteritum | Neue Gesetze **wurden eingeführt**. |
+| Perfekt | Die Maßnahmen **sind beschlossen worden**. |
+| mit Modal | Die Ziele **müssen erreicht werden**. |
 
-| Tense | Formula | Example |
-|---|---|---|
-| Präsens Passiv | wird/werden + Part. II | Jährlich werden Millionen Tonnen CO₂ ausgestoßen. |
-| Präteritum Passiv | wurde/wurden + Part. II | Neue Gesetze wurden eingeführt. |
-| Perfekt Passiv | ist/sind + Part. II + worden | Die Maßnahmen sind beschlossen worden. |
-| Passiv mit Modal | modal + Part. II + werden (Inf.) | Die Ziele müssen erreicht werden. |
+**Examples:**
 
-**Common environmental Passiv phrases:**
+1. Erneuerbare Energien **werden** zunehmend **genutzt**.
+2. Neue Maßnahmen **sollen eingeführt werden**.
+3. Das Recycling **muss verbessert werden**.
+4. Die Emissionen **wurden** deutlich **reduziert**.
+5. Ein Teil der Einnahmen **soll** in den ÖPNV **investiert werden**.
+6. Die Maßnahmen **sind** bereits **beschlossen worden**.
+7. Plastikverpackungen **werden** in vielen Läden **vermieden**.
+8. Die soziale Gerechtigkeit **darf** nicht **vergessen werden**.
 
-> *Es werden jährlich Millionen Tonnen CO₂ ausgestoßen.*
-> (Every year, millions of tonnes of CO₂ are emitted.)
+> ⚠️ **Häufige Fehler**
 >
-> *Neue Maßnahmen sollen eingeführt werden.*
-> (New measures are to be introduced.)
->
-> *Erneuerbare Energien werden zunehmend genutzt.*
-> (Renewable energies are increasingly being used.)
->
-> *Das Recycling muss verbessert werden.*
-> (Recycling must be improved.)
->
-> *Die Emissionen wurden in den letzten zehn Jahren deutlich reduziert.*
-> (Emissions have been significantly reduced over the last ten years.)
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Die Maßnahmen sind beschlossen **geworden**.* | *… beschlossen **worden**.* (Passiv-Partizip!) |
+> | *Die Ziele müssen erreicht **worden**.* | *Die Ziele müssen erreicht **werden**.* (modal → Infinitiv `werden`) |
 
-> ⚠️ **News language tip:** In headlines and news reports, Passiv often
-> appears **without the agent** (`von + Dativ`). The focus is on the action
-> or result, not who performed it. This is the most common use of Passiv at
-> B1 level.
+> 💡 **Lerntipp:** News-Passiv usually drops the agent — don't add a clumsy *„von der
+> Regierung"* unless it's the point. Keep the two B1/04 traps in mind: Perfekt uses
+> **`worden`** (not *geworden*); a modal passive ends in the infinitive **`werden`**
+> (not *worden*).
+
+**Versuch es selbst.** Mach Passiv (Präsens): „Man stößt jährlich viel CO₂ aus." → „Jährlich …"
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Jährlich **wird** viel CO₂ **ausgestoßen**.*
+
+</details>
+
+> 📌 **Merkasten — Passiv im Nachrichtenstil**
+>
+> ▶ `werden` + Partizip II; Agent meist weggelassen.
+> ▶ Perfekt: `sein` + Part. II + **`worden`**. ▶ Modal: … Part. II + **`werden`** (Inf.).
 
 ---
 
-## 5. Lesetext — Gastkommentar: Die Verkehrswende braucht soziale Gerechtigkeit
+## 7. Lesetext — Gastkommentar: Die Verkehrswende braucht soziale Gerechtigkeit
 
-*Lies den Text zweimal: einmal schnell, einmal langsam. Er wird in Block C
+*Lies den Text zweimal: einmal schnell, einmal langsam. Er wird in den Übungen
 verwendet.*
 
 ---
@@ -346,11 +511,11 @@ ist ebenso wichtig — wenn nicht wichtiger.
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
-## 6. Hörtext — Anna und Bruno diskutieren: Plastikverbot im Supermarkt
+## 8. Hörtext — Anna und Bruno diskutieren: Plastikverbot im Supermarkt
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -361,31 +526,33 @@ ist ebenso wichtig — wenn nicht wichtiger.
 
 ---
 
-## 7. Lernstrategie — Nominalstil erkennen und üben
+## 9. Magazin — Landeskunde
 
-**How to spot Nominalstil in German texts:**
+### Mülltrennung — Deutschlands liebste Wissenschaft
 
-Look for these signals in a newspaper or academic text:
-- Long noun phrases: *die Einführung der Citymaut* (3+ words)
-- `-ung` endings everywhere: Einführung, Verbesserung, Entwicklung
-- `durch` + noun replacing a `wenn/weil`-clause
-- Genitive chains: *der Rückgang der Emissionen der Fahrzeuge*
-- Verbs like `erfolgen`, `stattfinden`, `durchführen` — typical "Nominalstil
-  support verbs" that let the real content go into the noun.
+Kaum etwas nehmen die Deutschen so ernst wie die **Mülltrennung**. In jedem Haushalt stehen mehrere Tonnen: Gelb für Verpackungen, Blau für Papier, Braun für Bioabfall, Schwarz für den Rest — und das Altglas wird nach Farben sortiert. Wer neu nach Deutschland kommt, ist oft überfordert: Gehört der Joghurtbecher in den Gelben Sack oder in den Restmüll? Tatsächlich gibt es dazu ganze Broschüren und sogar Apps. Hinter dem System steckt auch Stolz: Deutschland gilt als einer der Recycling-Weltmeister. Manche finden die Regeln übertrieben, andere lieben sie. Eins ist klar — beim Thema Müll hört in Deutschland die Gemütlichkeit auf.
 
-**The 3-step transformation drill:**
+> Vier Tonnen, ein Glascontainer und ein Pfandautomat: In Deutschland ist Müll kein Abfall, sondern ein Sortier-Sport.
 
-Pick any German news headline. Find every verb. Ask:
-1. Does the verb have a `-ung` form? → Use it.
-2. Is it a separable verb? → Nominalize the whole compound: `ausbauen → der Ausbau`.
-3. Is it in a `wenn`/`weil` clause? → Replace with `durch/wegen + Nomen`.
+---
 
-**Example:**
-> *Headline:* „Berlin will Fahrräder fördern und Autos einschränken."
-> *Nominalstil:* „Die Förderung von Fahrrädern und die Einschränkung des
-> Autoverkehrs sind Berlins Ziele."
+## 10. Lernstrategie
 
-This daily habit — 5 minutes of text transformation — builds the Nominalstil
-reflex that examiners reward at B1+.
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere jede Nominalisierung (`-ung`, substantivierter Infinitiv, `-keit`/`-heit`)
+- Wortschatz §4 mit verdeckter Spalte testen — zu jedem `-ung`-Nomen das Verb nennen
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
 
-➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
+### Tag 2 (30 min) — Vertiefung
+- **Nominalstil-Drill:** 8 Verbalstil-Sätze in Nominalstil umschreiben (§6.1–§6.3): Verb → Nomen, `wenn` → `durch`, `weil` → `wegen`
+- §6.2: 5 Adjektive nominalisieren (*wichtig → die Wichtigkeit*)
+- *Versuch es selbst* in §6.1–§6.4 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Schreib eine kurze **Stellungnahme** (5–6 Sätze) zu einem Umweltthema — mische Verbal- und Nominalstil und nutze mindestens drei Nominalisierungen
+- Lesetext §7 (Gastkommentar) lesen, alle Nominalisierungen markieren und zählen
+- Hörtext §8 hören, Transkript erst danach öffnen — alle Nominalisierungen heraushören; dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
