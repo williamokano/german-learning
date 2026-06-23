@@ -135,7 +135,8 @@ When done, report:
 | B1/08 | verben-mit-praepositionen-ii | ✅ | 4,576w lesson.md · 3,478w lesson-short.md |
 | B1/09 | indirekte-fragen-und-hoeflichkeit | ✅ | 4,370w lesson.md · 3,370w lesson-short.md |
 | B1/10 | zweiteilige-konnektoren | ✅ | 4,669w lesson.md · 3,257w lesson-short.md (5 §6 subsections — one per connector) |
-| B1/11–14 | — | ⬜ | Instruction language: mixed EN/DE. B1/14 is a review lesson (adapted §6) |
+| B1/11 | arbeitswelt-und-bewerbung | ✅ | 4,548w lesson.md · 3,122w lesson-short.md (grammar review in context; §6.1-6.5 recap + §6.6 Anschreiben-Aufbau) |
+| B1/12–14 | — | ⬜ | Instruction language: mixed EN/DE. B1/14 is a review lesson (adapted §6) |
 
 ---
 

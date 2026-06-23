@@ -1,3 +1,24 @@
+---
+level: B1
+number: 11
+slug: arbeitswelt-und-bewerbung
+title: "Arbeitswelt & Bewerbung"
+titleEn: "Work & Job Applications"
+canDo:
+  - write a CV and a cover letter
+  - use formal job-application language
+  - handle a job interview in German
+  - describe workplace situations and conflicts
+grammar:
+  - "grammar review in context — Passiv in job postings, Relativsätze in profiles"
+  - "Konjunktiv II in interviews, um … zu in cover letters, Genitiv in formal style"
+  - "the structure of a German Anschreiben (cover letter)"
+buildsOn:
+  - B1/04 (Passiv — used in job postings)
+  - B1/05 (Relativsätze — eine Person, die …)
+  - B1/07 (Genitiv — formal writing style)
+---
+
 # B1 · Lektion 11 — Arbeitswelt & Bewerbung (Work & Job Applications)
 
 > **You will learn to:** write a CV (Lebenslauf) and a cover letter
@@ -77,7 +98,13 @@ interview with Anna, who is applying for a Projektkoordinatorin role.*
 
 ---
 
-## 2. Redemittel
+## 2. Einstieg — Was lernst du heute?
+
+Bewerbung, Lebenslauf, Vorstellungsgespräch — die Arbeitswelt hat ihre eigene Sprache, und sie ist **formell**. Die gute Nachricht: Du brauchst keine neue Grammatik. In dieser Lektion **wiederholst** du alles, was du in B1 gelernt hast, jetzt im echten Kontext: das **Passiv** in Stellenanzeigen (*Ein IT-Consultant **wird gesucht***), **Relativsätze** in Profilen (*eine Person, **die** motiviert ist*), **Konjunktiv II** im Gehaltsgespräch (*das Gehalt **läge** bei …*), **`um … zu`** im Anschreiben (*Ich bewerbe mich, **um** … zu …*) und den **Genitiv** im formellen Stil (*die Qualität **der Arbeit***). This is where all your B1 grammar finally pays off — in the documents and conversations that actually land you a job.
+
+---
+
+## 3. Redemittel
 
 ### Anschreiben — formelle Phrasen (cover letter — formal phrases)
 
@@ -121,9 +148,11 @@ interview with Anna, who is applying for a Projektkoordinatorin role.*
 
 ---
 
-## 3. Wortschatz
+## 4. Wortschatz
 
 ### Bewerbung und Arbeitsstelle (application and job)
+
+> 💡 **Lerntipp:** Lern die langen Komposita in ihren Bausteinen: *Bewerbung + s + Unterlagen*, *Kündigung + s + Frist*, *Vorstellung + s + Gespräch*. Das Fugen-`s` verbindet die Teile. Wer das Muster sieht, kann viele Arbeitswelt-Wörter selbst zusammensetzen.
 
 | Nomen | Englisch |
 |---|---|
@@ -157,6 +186,8 @@ interview with Anna, who is applying for a Projektkoordinatorin role.*
 
 ### Arbeitswelt-Verben (verbs in the world of work)
 
+> 💡 **Lerntipp:** Diese Verben leben im Passiv (B1/04): *Bewerber **werden eingestellt**, Mitarbeiter **werden befördert**, Projekte **werden koordiniert**.* Üb gleich beide Richtungen — Aktiv und Passiv —, dann sitzt §6.1 schon.
+
 | Verb | Bedeutung |
 |---|---|
 | sich bewerben um (+Akk) ⚠️ reflexiv | to apply for |
@@ -170,18 +201,54 @@ interview with Anna, who is applying for a Projektkoordinatorin role.*
 | Überstunden machen | to do overtime |
 | eine Stelle antreten | to start a job |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the English column. Can you recall every word — *and* turn three of the work verbs into the passive (*wird eingestellt …*)? Aim for ≥80% before the exercises.
+
 ---
 
-## 4. Grammatik — Wiederholung im Kontext
+## 5. Mini-Geschichte — Brunos erster Arbeitstag
 
-This lesson has **no new isolated grammar rule**. Instead, the five grammar
-points from B1/03–B1/09 appear throughout authentic application texts.
-Here is a quick review of each in the context of *Arbeitswelt*.
+Lies den Text zuerst zügig. Beim zweiten Lesen markiere je ein Beispiel für Passiv, Relativsatz, Konjunktiv II, `um … zu` und Genitiv.
 
-### 4.1 Passiv (B1/04) — in Stellenanzeigen
+Bruno hat die Stelle bekommen! Heute ist sein erster Arbeitstag bei dem Startup, für das er sich so lange beworben hat. Schon am Eingang wird er freundlich begrüßt. „Sie müssen Bruno sein", sagt eine Kollegin, die ihn zu seinem Platz bringt.
 
-Job postings use the passive heavily. The agent (`von + Dativ`) is often omitted
-because it is obvious (the company does everything).
+Am Vormittag wird er von der Personalchefin durch das Büro geführt. „Während der ersten Woche werden alle neuen Mitarbeiter eingearbeitet", erklärt sie. „Wenn Sie Fragen haben, können Sie jederzeit kommen." Bruno ist beeindruckt von der Offenheit des Teams.
+
+Sein neuer Chef, Herr Klein, stellt ihm die Aufgaben vor, an denen Bruno arbeiten wird. „Wir haben Sie eingestellt, um unser Entwicklerteam zu verstärken", sagt er. „Die Projekte, die Sie übernehmen, sind anspruchsvoll, aber spannend." Bruno antwortet höflich: „Ich würde gern so schnell wie möglich anfangen."
+
+Trotz der vielen neuen Informationen fühlt sich Bruno wohl. In der Mittagspause lernt er die Kolleginnen kennen, mit denen er täglich zusammenarbeiten wird. „Am Anfang wurde ich auch ins kalte Wasser geworfen", erzählt einer lachend, „aber das gibt sich."
+
+Am Abend ruft Bruno Anna an. „Und?", fragt sie. „Wie war der erste Tag?" „Besser, als ich es mir vorgestellt hätte", sagt Bruno. „Ich glaube, das war die beste Entscheidung meines Lebens." Anna freut sich für ihn: „Siehst du? Die ganze Vorbereitung hat sich gelohnt."
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Was ist heute für Bruno besonders?**
+> *Sein erster Arbeitstag bei dem Startup, für das er sich so lange beworben hat.*
+>
+> **2. Was passiert während der ersten Woche?**
+> *Alle neuen Mitarbeiter werden eingearbeitet.*
+>
+> **3. Wie fand Bruno den ersten Tag?**
+> *Besser, als er es sich vorgestellt hätte — die beste Entscheidung seines Lebens.*
+
+</details>
+
+---
+
+## 6. Grammatik — Wiederholung im Kontext
+
+Diese Lektion bringt **keine neue Regel**. Stattdessen siehst du die fünf großen
+B1-Strukturen dort, wo sie in der Arbeitswelt wirklich gebraucht werden — in
+Stellenanzeigen, Anschreiben und Interviews.
+
+### 6.1 Passiv (B1/04) — in Stellenanzeigen
+
+**Warum?** Job postings are written almost entirely in the **passive**, because
+the focus is on *what is done*, not *who does it* (the company is obvious). *Ein
+IT-Consultant **wird gesucht**. Erfahrung **wird vorausgesetzt**.* Reactivating
+B1/04 here: conjugated **`werden`** in position 2 + **Partizip II** at the end; the
+agent (`von + Dativ`) is usually dropped. Reading and writing postings fluently
+means thinking in this voice.
 
 | Aktiv | Passiv (Präsens) |
 |---|---|
@@ -189,96 +256,221 @@ because it is obvious (the company does everything).
 | Das Team koordiniert die Projekte. | Die Projekte **werden koordiniert**. |
 | Die Abteilung leitet das Onboarding. | Das Onboarding **wird geleitet**. |
 
-> *In dieser Stelle werden flexible Arbeitszeiten angeboten.*
-> (Flexible working hours are offered in this position.)
->
-> *Bewerbungen werden bis zum 30. Juni entgegengenommen.*
-> (Applications are accepted until 30 June.)
->
-> *Erfahrung in der Projektkoordination wird vorausgesetzt.*
-> (Experience in project coordination is required.)
+**Examples:**
 
-⚠️ **Common trap:** Don't forget that `werden` moves to position 2 in the
-main clause: *Die Stelle **wird** ausgeschrieben.*
+1. In dieser Stelle **werden** flexible Arbeitszeiten **angeboten**.
+2. Bewerbungen **werden** bis zum 30. Juni **entgegengenommen**.
+3. Erfahrung in der Projektkoordination **wird vorausgesetzt**.
+4. Neue Mitarbeiter **werden** in den ersten Wochen **eingearbeitet**.
+5. Die Stelle **wird** unbefristet **ausgeschrieben**.
+6. Gute Deutschkenntnisse **werden erwartet**.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ein IT-Consultant **gesucht wird**.* | *Ein IT-Consultant **wird gesucht**.* (`werden` in position 2) |
+> | *Erfahrung wird **voraussetzen**.* | *Erfahrung wird **vorausgesetzt**.* (Partizip II) |
+
+> 💡 **Lerntipp:** When you read a job ad, mentally flip each passive back to active
+> to check you understood *who* does *what*: *„wird gesucht" → „die Firma sucht".*
+> When you write one, do the reverse. Drop the agent unless it adds real information.
+
+**Versuch es selbst.** Mach Passiv: „Das Unternehmen bietet Homeoffice an." → „Homeoffice …"
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Homeoffice **wird angeboten**.*
+
+</details>
 
 ---
 
-### 4.2 Relativsätze (B1/05) — in Stellenanzeigen und Beschreibungen
+### 6.2 Relativsätze (B1/05) — in Profilen und Beschreibungen
 
-Job ads describe ideal candidates with relative clauses. Remember: the
-Relativpronomen agrees in **gender and number** with its antecedent, but
-its **case** is determined by its role in the relative clause.
+**Warum?** Job ads and interview answers describe *people* and *jobs* with
+**relative clauses**: *Wir suchen eine Person, **die** motiviert ist. Das ist ein
+Job, **der** gut bezahlt ist.* Reactivating B1/05: the relative pronoun takes its
+**gender/number** from the antecedent but its **case** from its role inside the
+clause — and the verb goes to the **end**. This is what makes a self-description
+sound precise and professional.
 
-| Satz | Kommentar |
+| Satz | Kasus |
 |---|---|
-| Wir suchen eine Person, **die** motiviert ist. | Nominativ, f. → die |
-| Wir suchen jemanden, **den** wir sofort einarbeiten können. | Akkusativ, m. → den |
-| Das ist ein Job, **der** gut bezahlt ist. | Nominativ, m. → der |
-| Das Unternehmen, **für das** ich mich bewerbe, ist sehr innovativ. | Genitiv + Präp → für das |
-| Die Kolleginnen, **mit denen** ich arbeite, sind sehr nett. | Dativ + Präp → mit denen |
+| Wir suchen eine Person, **die** motiviert ist. | Nom., f. → die |
+| Wir suchen jemanden, **den** wir sofort einarbeiten können. | Akk., m. → den |
+| Das Unternehmen, **für das** ich mich bewerbe, ist innovativ. | Präp + Akk → für das |
+| Die Kolleginnen, **mit denen** ich arbeite, sind nett. | Präp + Dativ → mit denen |
 
-> *Ich suche eine Stelle, **die** gut zu meinem Profil passt.*
-> *Das ist ein Unternehmen, **das** ich sehr respektiere.*
-> *Die Projekte, **an denen** ich gearbeitet habe, waren sehr komplex.*
+**Examples:**
+
+1. Ich suche eine Stelle, **die** gut zu meinem Profil passt.
+2. Das ist ein Unternehmen, **das** ich sehr respektiere.
+3. Die Projekte, **an denen** ich gearbeitet habe, waren komplex.
+4. Wir bieten Aufgaben, **die** wirklich etwas bewegen.
+5. Die Unternehmenskultur, **die** ich auf Ihrer Website gesehen habe, wirkt offen.
+6. Das Team, **mit dem** Sie arbeiten würden, ist international.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *eine Person, **der** motiviert ist* | *eine Person, **die** motiviert ist* (f. Nom. → die) |
+> | *das Unternehmen, **das** ich mich bewerbe* | *das Unternehmen, **für das** ich mich bewerbe* (bewerben **um/für**) |
+
+> 💡 **Lerntipp:** In a self-presentation, relative clauses let you upgrade a flat
+> sentence into a polished one: *„Ich kenne das CRM-System" → „Das CRM-System, **das**
+> ich eingeführt habe, …".* Ask the two questions: gender/number from the noun, case
+> from the clause's job.
+
+**Versuch es selbst.** Verbinde: „Ich suche eine Stelle. Sie passt zu mir." (Relativsatz)
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich suche eine Stelle, **die** zu mir passt.*
+
+</details>
 
 ---
 
-### 4.3 Konjunktiv II (B1/03) — höfliche Gehaltsverhandlung & Interview
+### 6.3 Konjunktiv II (B1/03) — im Interview und Gehaltsgespräch
 
-Konjunktiv II makes requests and statements sound polished rather than blunt.
-In interviews, native speakers use it constantly.
+**Warum?** In interviews, blunt statements sound greedy or stiff; **Konjunktiv II**
+makes them polished and polite. *„Ich will 60.000 Euro"* becomes *„Meiner
+Vorstellung nach **läge** das Gehalt bei 60.000 Euro."* Reactivating B1/03: the
+hypothetical forms *würde, wäre, hätte, könnte, läge* signal courtesy and
+flexibility — exactly the tone interviewers expect.
 
-| Direkt (blunt) | Konjunktiv II (polite) |
+| Direkt (blunt) | Konjunktiv II (höflich) |
 |---|---|
-| Ich will 60.000 Euro. | Meiner Vorstellung nach **läge** das Gehalt bei 60.000 Euro. |
+| Ich will 60.000 Euro. | Das Gehalt **läge** meiner Vorstellung nach bei 60.000 Euro. |
 | Ich fange am 1. Oktober an. | Ich **könnte** frühestens am 1. Oktober anfangen. |
 | Ich brauche flexible Zeiten. | Es **wäre** mir wichtig, flexible Arbeitszeiten zu haben. |
-| Wir treffen uns noch. | **Würden** Sie nächste Woche noch einen Termin haben? |
 
-> *Ich **würde** mich sehr freuen, in Ihrem Team zu arbeiten.*
-> *Es **wäre** schön, mehr über das Onboarding zu erfahren.*
-> *Meiner Vorstellung nach **läge** das Gehalt zwischen 55.000 und 60.000 Euro.*
+**Examples:**
+
+1. Ich **würde** mich sehr freuen, in Ihrem Team zu arbeiten.
+2. Es **wäre** schön, mehr über das Onboarding zu erfahren.
+3. Meiner Vorstellung nach **läge** das Gehalt zwischen 55.000 und 60.000 Euro.
+4. Ich **könnte** frühestens zum 1. Oktober einsteigen.
+5. **Würden** Sie nächste Woche noch einen Termin haben?
+6. Ich **würde** gern meine Erfahrungen einbringen.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich **will** 60.000 Euro.* (blunt) | *Das Gehalt **läge** bei 60.000 Euro.* (polite) |
+> | *Ich **werde** mich freuen …* | *Ich **würde** mich freuen …* (Konjunktiv II) |
+
+> 💡 **Lerntipp:** Pre-load the salary chunk as a fixed phrase — *„Meiner Vorstellung
+> nach läge das Gehalt bei … Euro brutto jährlich"* — and say it aloud until it's
+> automatic. Candidates who have drilled it rarely freeze at *„Welche
+> Gehaltsvorstellungen haben Sie?"*.
+
+**Versuch es selbst.** Mach höflich: „Ich fange am 1. November an." → „Ich … am 1. November …"
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich **könnte** frühestens am 1. November **anfangen**.*
+
+</details>
 
 ---
 
-### 4.4 `um … zu` (B1/06) — Ziele im Anschreiben
+### 6.4 `um … zu` (B1/06) — Ziele im Anschreiben
 
-Cover letters are full of purpose clauses explaining *why* the applicant
-wants the job.
+**Warum?** A cover letter constantly explains *why* you want the job — and that's
+exactly what **`um … zu + Infinitiv`** is for: *Ich bewerbe mich, **um** meine
+Erfahrung **einzusetzen**.* Reactivating B1/06: same subject in both halves,
+infinitive at the very end, separable verbs take the `zu` inside (*ein·zu·setzen,
+weiter·zu·entwickeln*). When the subject changes, switch to `damit`.
 
-> *Ich bewerbe mich, **um** meine Erfahrungen in einem internationalen Umfeld **einzusetzen**.*
-> *Ich habe Projektmanagement studiert, **um** komplexe Teams **koordinieren zu können**.*
-> *Ich möchte die Möglichkeit nutzen, **um** mich beruflich **weiterzuentwickeln**.*
+**Examples:**
 
-Remember: `um … zu` requires the **same subject** in both clauses. When
-different subjects are needed, use `damit`:
-> *Ich schicke meine Unterlagen rechtzeitig, **damit** Sie genug Zeit zur Prüfung **haben**.*
+1. Ich bewerbe mich, **um** meine Erfahrung in einem internationalen Umfeld **einzusetzen**.
+2. Ich habe Projektmanagement studiert, **um** komplexe Teams **koordinieren zu können**.
+3. Ich möchte die Gelegenheit nutzen, **um** mich beruflich **weiterzuentwickeln**.
+4. Ich nutze Statusberichte, **um** alle Beteiligten zu **informieren**.
+5. Ich lerne Deutsch, **um** in Berlin **arbeiten zu können**.
+6. *(anderes Subjekt →)* Ich schicke die Unterlagen früh, **damit** Sie genug Zeit **haben**.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Ich bewerbe mich, **um** meine Erfahrung **einsetzen**.* | *…, **um** meine Erfahrung **einzusetzen**.* (separable → `zu` inside) |
+> | *Ich schicke es früh, **um** Sie Zeit haben.* (diff. subject) | *…, **damit** Sie Zeit haben.* (different subject → `damit`) |
+
+> 💡 **Lerntipp:** Every motivation sentence in a cover letter can be tested with
+> "in order to": if it fits, `um … zu` is right. Check the subject — if it's *you*
+> in both halves, `um … zu`; if the *company* does the second action, `damit`.
+
+**Versuch es selbst.** Ergänze: „Ich bewerbe mich, ___ neue Erfahrungen ___ ___ (sammeln)."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Ich bewerbe mich, **um** neue Erfahrungen **zu sammeln**.*
+
+</details>
 
 ---
 
-### 4.5 Genitiv (B1/07) — formeller Schreibstil
+### 6.5 Genitiv (B1/07) — formeller Schreibstil
 
-Formal letters and CVs use the Genitiv far more than everyday speech.
+**Warum?** Formal letters and CVs lean on the **Genitiv** far more than everyday
+speech: *die Qualität **der Arbeit**, der Schlüssel **des Erfolgs**, während
+**meiner Tätigkeit**.* Reactivating B1/07: masc./neut. → `des` + noun `-(e)s`,
+fem./pl. → `der`; and the genitive prepositions *wegen, trotz, während* fit
+naturally into application prose (*trotz **der** kurzen Einarbeitungszeit*).
 
 | Phrase | Bedeutung |
 |---|---|
 | der Schlüssel **des Erfolgs** | the key to success |
 | die Qualität **der Arbeit** | the quality of the work |
-| die Meinung **des Teams** | the opinion of the team |
-| trotz **meiner Erfahrung** | despite my experience |
-| wegen **des Projekts** | because of the project |
 | während **meiner Tätigkeit** | during my employment |
+| trotz **meiner Erfahrung** | despite my experience |
 | aufgrund **meiner Kenntnisse** | owing to my knowledge |
 
-> *Die Stärke **meiner Bewerbung** liegt in meiner internationalen Erfahrung.*
-> *Während **meiner Zeit** als Marketing-Managerin leitete ich drei Projekte.*
-> *Trotz **der kurzen Einarbeitungszeit** konnte ich schnell Verantwortung übernehmen.*
+**Examples:**
+
+1. Die Stärke **meiner Bewerbung** liegt in meiner internationalen Erfahrung.
+2. Während **meiner Zeit** als Marketing-Managerin leitete ich drei Projekte.
+3. Trotz **der kurzen Einarbeitungszeit** übernahm ich schnell Verantwortung.
+4. Eine gute Kommunikation ist der Schlüssel **des Erfolgs** jedes Projekts.
+5. Die Qualität **der Arbeit** zeigt sich in zufriedenen Kunden.
+6. Wegen **des hohen Tempos** im Startup lernte ich sehr schnell.
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *der Schlüssel **der** Erfolgs* | *der Schlüssel **des** Erfolgs* (masc. → des + `-(e)s`) |
+> | *während **meine** Tätigkeit* | *während **meiner** Tätigkeit* (während + Genitiv) |
+
+> 💡 **Lerntipp:** For a more formal tone, swap spoken *von + Dativ* for the Genitiv:
+> *„die Meinung **von dem** Team" → „die Meinung **des Teams**".* In a cover letter,
+> the Genitiv version always reads more professionally.
+
+**Versuch es selbst.** Formell (Genitiv): „während meine Ausbildung" → „…"
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *während **meiner Ausbildung***
+
+</details>
 
 ---
 
-### 4.6 Anschreiben-Aufbau (cover letter structure)
+### 6.6 Anschreiben-Aufbau (cover letter structure)
 
-A German *Anschreiben* follows a strict structure. Memorise it:
+Kein neues Grammatikthema, aber Pflichtwissen: Ein deutsches *Anschreiben* folgt
+einer festen Struktur. Merk sie dir als Gerüst — du füllst nur noch den Inhalt ein.
 
 ```
 [Absender: Name, Adresse]
@@ -304,11 +496,20 @@ Mit freundlichen Grüßen,
 [Name (maschinengeschrieben)]
 ```
 
+> 📌 **Merkasten — die fünf B1-Strukturen im Anschreiben**
+> | Struktur | Wo im Anschreiben |
+> |---|---|
+> | Passiv | „… **wird** vorausgesetzt", über die Stelle |
+> | Relativsatz | „ein Unternehmen, **das** …" |
+> | Konjunktiv II | „Ich **würde** mich freuen …" |
+> | `um … zu` | „Ich bewerbe mich, **um** … zu …" |
+> | Genitiv | „die Stärke **meiner** Bewerbung" |
+
 ---
 
-## 5. Lesetext — Annas Bewerbungsschreiben
+## 7. Lesetext — Annas Bewerbungsschreiben
 
-*Lies den Text zweimal: einmal schnell, einmal langsam. Er wird in Block C verwendet.*
+*Lies den Text zweimal: einmal schnell, einmal langsam. Er wird in den Übungen verwendet.*
 
 ---
 
@@ -352,11 +553,11 @@ Anna Kowalski
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
-## 6. Hörtext — Bruno bereitet seinen Lebenslauf vor
+## 8. Hörtext — Bruno bereitet seinen Lebenslauf vor
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -367,30 +568,33 @@ Anna Kowalski
 
 ---
 
-## 7. Lernstrategie — Das Bewerbungsmuster als Gedächtnisanker
+## 9. Magazin — Landeskunde
 
-The fastest way to internalize formal German application language is to
-**internalize one complete model sentence for each structural part** of
-the *Anschreiben*, then swap out only the content words.
+### Das Arbeitszeugnis — die Kunst der versteckten Bewertung
 
-**The 5-sentence Anschreiben skeleton:**
+In Deutschland bekommt fast jeder Arbeitnehmer beim Abschied ein **Arbeitszeugnis** — eine schriftliche Beurteilung. Das Besondere: Es ist immer freundlich formuliert, denn schlechte Noten sind gesetzlich kaum erlaubt. Deshalb hat sich eine geheime Codesprache entwickelt. *„Sie erledigte alle Aufgaben zu unserer vollsten Zufriedenheit"* heißt „sehr gut". *„Zu unserer Zufriedenheit"* — ohne „vollsten" — bedeutet dagegen nur „ausreichend". Wer die Codes nicht kennt, liest ein gutes Zeugnis, wo in Wahrheit Kritik steht. Personalchefs entschlüsseln diese Sprache routiniert. Ein Tipp für Zugezogene: Lass dein Zeugnis von jemandem prüfen, der die Codes kennt — sonst übersiehst du leicht, was wirklich gemeint ist.
 
-> 1. *Hiermit bewerbe ich mich um die Stelle als _____.*
-> 2. *Ihr Stellenangebot hat mich angesprochen, weil _____.*
-> 3. *Ich verfüge über _____ Jahre Erfahrung in _____.*
-> 4. *Ich würde mich freuen, Sie in einem persönlichen Gespräch von mir zu überzeugen.*
-> 5. *Mit freundlichen Grüßen, _____.*
+> „Stets zu unserer vollsten Zufriedenheit" — vier Wörter, die in Deutschland über die nächste Karriere entscheiden können.
 
-**Why this works:** German applications follow this skeleton so reliably
-that once you have the frame memorised, you only need to fill in the blanks
-for any real application. Practise by writing the frame from memory —
-close the lesson — then fill it in for three different imaginary jobs.
+---
 
-**For the interview:** practise the Konjunktiv II salary phrase out loud
-until it feels natural:
-> *Meiner Vorstellung nach läge das Gehalt bei _____ Euro brutto jährlich.*
+## 10. Lernstrategie
 
-Learners who have drilled this phrase beforehand rarely freeze when asked
-*„Welche Gehaltsvorstellungen haben Sie?"* — they reach for the stored chunk.
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — markiere je ein Beispiel für Passiv, Relativsatz, Konjunktiv II, `um … zu`, Genitiv
+- Wortschatz §4 mit verdeckter Spalte testen — drei Verben ins Passiv setzen
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
 
-➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
+### Tag 2 (30 min) — Vertiefung
+- **Anschreiben-Gerüst:** die 5-Satz-Skelett aus §6.6 auswendig schreiben, dann für drei erfundene Jobs ausfüllen
+- §6.1–§6.5: zu jeder der fünf Strukturen einen eigenen Bewerbungssatz schreiben
+- *Versuch es selbst* in §6.1–§6.5 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- Die Gehalts-Chunk laut üben: *„Meiner Vorstellung nach läge das Gehalt bei … Euro brutto jährlich."*
+- Lesetext §7 (Annas Anschreiben) lesen, alle fünf Grammatikstrukturen markieren und zählen
+- Hörtext §8 hören, Transkript erst danach öffnen — Lebenslauf-Stationen heraushören; dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
