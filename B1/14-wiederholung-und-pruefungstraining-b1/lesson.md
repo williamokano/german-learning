@@ -1,3 +1,24 @@
+---
+level: B1
+number: 14
+slug: wiederholung-und-pruefungstraining-b1
+title: "Wiederholung & Prüfungstraining B1"
+titleEn: "Review & B1 Exam Training"
+canDo:
+  - simulate the full Goethe/telc B1 exam (Hören, Lesen, Schreiben, Sprechen)
+  - review every B1 grammar topic systematically
+  - identify and avoid the most common B1 exam mistakes
+  - apply exam strategies under time pressure
+grammar:
+  - "systematic review of all B1 grammar (Präteritum, Konjunktiv II, Passiv, Relativsätze, Genitiv …)"
+  - "the most common B1 exam errors and how to avoid them"
+  - "Schnell-Check self-test across the level"
+buildsOn:
+  - B1/01–13 (all prior B1 lessons)
+  - B1/10 (zweiteilige Konnektoren — argumentation)
+  - B1/13 (Schreiben- & Sprechen-Baukästen)
+---
+
 # B1 · Lektion 14 — Wiederholung & Prüfungstraining B1
 
 > **You will achieve:** a full simulation of the Goethe-Zertifikat B1 / telc
@@ -14,9 +35,9 @@
 
 ---
 
-🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
+## 1. Dialog — Wiedersehen im Café: Pavels Prüfungstag
 
-## 1. Dialog: Wiedersehen im Café — Pavels Prüfungstag
+🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
 
 *Scene: a café in Prenzlauer Berg, Friday afternoon. Pavel has just walked out
 of the Goethe-Institut after sitting his B1 exam. Mia, Tomáš, Bruno, and Anna
@@ -44,7 +65,13 @@ exercise. Read it now to prime yourself; then close it and listen.*
 
 ---
 
-## 2. Redemittel — B1-Prüfung: Alle Teile auf einen Blick
+## 2. Einstieg — Du bist am Ziel
+
+Geschafft — du bist bei der letzten B1-Lektion angekommen! Diese Stunde bringt **keine neue Grammatik**. Stattdessen **wiederholst** du das ganze B1-Jahr und bereitest dich auf die **Prüfung** vor: Hören, Lesen, Schreiben, Sprechen. In §6 findest du eine kompakte **Grammatik-Übersicht** aller 13 Themen, die **häufigsten Fehler** im B1-Test und einen **Schnell-Check** zum Selbsttesten. Dazu kommen echte Prüfungstexte (§7) und eine typische Durchsage (§8). This is your dress rehearsal — everything you've learned since B1/01, gathered in one place. Geh es ruhig an: Du kannst mehr, als du denkst.
+
+---
+
+## 3. Redemittel — B1-Prüfung: Alle Teile auf einen Blick
 
 ### Hören (Hörmodul)
 
@@ -81,9 +108,11 @@ exercise. Read it now to prime yourself; then close it and listen.*
 
 ---
 
-## 3. Wortschatz — Prüfungsvokabular
+## 4. Wortschatz — Prüfungsvokabular
 
 ### Prüfung und Prüfungssituation
+
+> 💡 **Lerntipp:** Lern dieses Vokabular im Kontext einer Durchsage oder Anmeldung (§8): *„Alle **Prüflinge** begeben sich in den **Prüfungssaal**."* So erkennst du die Wörter sofort, wenn du sie am Prüfungstag hörst.
 
 | Nomen | Englisch |
 |---|---|
@@ -101,6 +130,8 @@ exercise. Read it now to prime yourself; then close it and listen.*
 
 ### Strategievokabular
 
+> 💡 **Lerntipp:** Diese Strategie-Ausdrücke sind selbst kleine Merksätze fürs Prüfen: *Schlüsselwörter markieren, Zeit einteilen, eine Gliederung machen.* Lern sie — und wende sie am Prüfungstag wirklich an.
+
 | Ausdruck | Englisch |
 |---|---|
 | die Hauptidee erfassen | to grasp the main idea |
@@ -111,159 +142,121 @@ exercise. Read it now to prime yourself; then close it and listen.*
 | Zeit einteilen | to manage time |
 | die Aufgabe wiederholen (lassen) | to have the task repeated |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the English column. Can you recall every word — *and* name the four exam modules (Hören, Lesen, Schreiben, Sprechen) with one strategy each? Aim for ≥80% before the exercises.
+
 ---
 
-## 4. Grammatik — Systematische B1-Wiederholung
+## 5. Mini-Geschichte — Die letzte Woche vor der Prüfung
 
-This lesson reviews all 13 B1 grammar topics in condensed form. Use it as a
-reference sheet before the Prüfungstraining exercises. Each topic has a one-line
-rule and a single example.
+Lies den Text zuerst zügig. Beim zweiten Lesen suche je ein Beispiel für Präteritum, Passiv, Konjunktiv II und einen Relativsatz.
 
-### B1/01 — Präteritum
+Eine Woche vor der Prüfung traf sich Pavel jeden Abend mit Anna, Bruno und Mia, um gemeinsam zu lernen. Sie hatten sich vorgenommen, jeden Tag einen anderen Prüfungsteil zu üben.
 
-The narrative past tense (used in written German and formal speech).
+Am Montag war das Hören dran. „Beim ersten Mal verstand ich fast nichts", erzählte Pavel später. „Aber Anna gab mir einen Tipp, mit dem alles leichter wurde: Man muss nicht jedes Wort verstehen, sondern auf die Schlüsselwörter achten."
 
-| Person | schwach (machen) | stark (gehen) | Modalverb (können) |
-|---|---|---|---|
-| ich | machte | ging | konnte |
-| du | machtest | gingst | konntest |
-| er/sie/es | machte | ging | konnte |
-| wir | machten | gingen | konnten |
-| ihr | machtet | gingt | konntet |
-| sie/Sie | machten | gingen | konnten |
+Am Dienstag wurde geschrieben. Bruno korrigierte Pavels formelle E-Mail — den Betreff, die Anrede, den Schluss. „Wenn du das Gerüst kennst", sagte er, „schreibst du jede Mail in zehn Minuten." Pavel merkte, wie seine Nervosität langsam abnahm.
 
-> *Pavel **machte** sich Sorgen, aber die Prüfung **ging** gut.*
+Am Mittwoch übten sie das Sprechen. Mia spielte die Prüferin und stellte Fragen, auf die Pavel mit einer kleinen Präsentation antwortete. „Einerseits, andererseits, insgesamt — du klingst schon wie ein Profi", lachte sie.
 
-### B1/02 — Konnektoren: obwohl / trotzdem
+Am Donnerstag las die Gruppe zusammen einen Zeitungsartikel über die Verkehrswende. „Solche Texte wurden früher von mir gefürchtet", gab Pavel zu. „Heute machen sie mir fast Spaß."
 
-`obwohl` = although (subordinating conjunction; verb to end)
-`trotzdem` = nevertheless (adverb; triggers verb-second)
+Am Freitagabend, kurz vor dem großen Tag, saßen alle erschöpft, aber zufrieden zusammen. „Wenn ich diese Woche nicht gehabt hätte", sagte Pavel, „wäre ich jetzt viel nervöser." Anna lächelte: „Siehst du? Gemeinsam lernen wirkt." Und Bruno fügte hinzu: „Morgen schaffst du das — da bin ich mir sicher."
 
-> *Er war nervös, **obwohl** er gut vorbereitet war.*
-> ***Trotzdem** bestand er die Prüfung.*
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
 
-### B1/03 — Konjunktiv II
+> **1. Was übten Pavel und seine Freunde in der Woche vor der Prüfung?**
+> *Jeden Abend einen anderen Prüfungsteil — Hören, Schreiben, Sprechen und Lesen.*
+>
+> **2. Welchen Tipp gab Anna für das Hören?**
+> *Man muss nicht jedes Wort verstehen, sondern auf die Schlüsselwörter achten.*
+>
+> **3. Wie fühlte sich Pavel am Freitagabend?**
+> *Erschöpft, aber zufrieden — und viel weniger nervös als vorher.*
 
-Wishes, hypotheticals, polite requests.
+</details>
 
-| | hätte | wäre | würde … + Inf. |
-|---|---|---|---|
-| ich | hätte | wäre | würde lernen |
-| du | hättest | wärst | würdest lernen |
-| er/sie | hätte | wäre | würde lernen |
-| wir | hätten | wären | würden lernen |
+---
 
-> ***Wenn** ich mehr Zeit **hätte**, **würde** ich jeden Tag üben.*
+## 6. Grammatik — Wiederholung & Schnell-Check
 
-### B1/04 — Passiv
+*Hinweis: Diese Lektion ist eine Wiederholung, keine neue Grammatikeinheit. Die folgenden Abschnitte erklären die Regeln nicht von Grund auf neu — dafür geh bitte zu den Originalstunden (Lektionsnummer in Klammern). Hier findest du: einen strukturierten Überblick, die häufigsten Fehler im B1-Test und einen kurzen Selbstcheck.*
 
-Focus on the process, not the actor.
+---
 
-| Tempus | Bildung | Beispiel |
+### 6.1 Grammatik-Übersicht: Was du jetzt kannst
+
+Jeder Eintrag hat eine Regel, ein Beispiel und den häufigsten Fehler — in einer Zeile.
+
+| # | Thema (Lektion) | Kernregel | Beispiel | Häufiger Fehler |
+|---|---|---|---|---|
+| 1 | **Präteritum** (B1/01) | Narrative past; weak `-te`, strong vowel change, modals in `-te` | *Er **ging**, sie **machte**, ich **konnte**.* | ❌ *er gehte* → ✅ *er ging* |
+| 2 | **obwohl / trotzdem** (B1/02) | `obwohl` = Nebensatz (Verb ans Ende); `trotzdem` = Adverb (Verb auf Platz 2) | *Obwohl es regnete, kam er. Trotzdem kam er.* | ❌ *obwohl er war müde* → ✅ *obwohl er müde war* |
+| 3 | **Konjunktiv II** (B1/03) | Wishes/politeness: `würde + Inf.`, strong `wäre, hätte, könnte` | *Wenn ich Zeit **hätte**, **würde** ich üben.* | ❌ *würde sein* → ✅ *wäre* |
+| 4 | **Passiv** (B1/04) | `werden` + Partizip II; Perfekt mit `worden` | *Der Text **wird gelesen**. Es **ist** gemacht **worden**.* | ❌ *ist gemacht geworden* → ✅ *…worden* |
+| 5 | **Relativsätze** (B1/05) | Genus/Numerus vom Bezugswort, Kasus aus dem Relativsatz; Verb ans Ende | *die Stelle, **auf die** ich mich bewerbe* | ❌ *die Kunden, **die** wir helfen* → ✅ *…**denen** wir helfen* |
+| 6 | **um … zu / damit** (B1/06) | `um … zu` (gleiches Subjekt), `damit` (anderes Subjekt) | *Ich lerne, **um** zu bestehen. …, **damit** du es verstehst.* | ❌ *um du verstehst* → ✅ *damit du verstehst* |
+| 7 | **Genitiv** (B1/07) | Besitz; m./n. → `des` + `-(e)s`; `wegen/trotz/während/statt` + Gen. | *die Ergebnisse **des Tests**, **wegen der** Prüfung* | ❌ *der Tests* (m.) → ✅ *des Tests* |
+| 8 | **Pronominaladverbien** (B1/08) | Sache → `da(r)-`; Frage → `wo(r)-`; Person → Präp + Pronomen | *Ich freue mich **darauf**. **Worauf**? — Aber: auf **ihn**.* | ❌ *Ich denke daran ihn* → ✅ *an ihn* |
+| 9 | **Indirekte Fragen** (B1/09) | `ob` (Ja/Nein) / W-Wort; Verb ans Ende | *Können Sie sagen, **ob** / **wann** es **anfängt**?* | ❌ *…, wann fängt es an* → ✅ *…, wann es anfängt* |
+| 10 | **Zweiteilige Konnektoren** (B1/10) | `sowohl…als auch`, `entweder…oder`, `weder…noch`, `zwar…aber` | *Es war **nicht nur** schwer, **sondern auch** lehrreich.* | ❌ *sowohl…wie auch* → ✅ *sowohl…als auch* |
+| 11 | **Nominalisierung** (B1/12) | Verb→`-ung`(die)/Infinitiv(das); Adjektiv→`-keit/-heit`(die) | *einführen → **die Einführung**; recyceln → **das Recyceln*** | ❌ *der Einführung* → ✅ *die Einführung* |
+| 12 | **Bewerbung & Stil** (B1/11) | Formelles Register: Passiv, Genitiv, Konjunktiv II im Anschreiben | *Ich **bewerbe mich um** die Stelle als …* | ❌ *Ich will einen Job* → ✅ *Ich bewerbe mich um …* |
+| 13 | **Schreiben/Sprechen** (B1/13) | E-Mail-Gerüst & Präsentations-Struktur mit Konnektoren | *Betreff → Anrede → Bezug → Hauptteil → Gruß* | ❌ *Hallo! … Tschüss* (formell) → ✅ *Sehr geehrte… / MfG* |
+
+---
+
+### 6.2 Die häufigsten Fehler im B1-Test
+
+These are the real mistakes PT / ES / EN speakers make in the Goethe / telc B1 exam. Each line: the wrong version → the right version → why.
+
+| ❌ Falsch | ✅ Richtig | Warum? |
 |---|---|---|
-| Präsens | wird + Partizip II | Die Texte **werden** gelesen. |
-| Präteritum | wurde + Partizip II | Das Ergebnis **wurde** bekanntgegeben. |
-| Perfekt | ist/sind + Partizip II + worden | Die Ergebnisse **sind** bekanntgegeben **worden**. |
-
-> *Der Hörteil **wurde** zweimal **abgespielt**.*
-
-### B1/05 — Relativsätze (alle Kasus)
-
-Relative pronouns agree in gender/number with the noun they refer to; case
-depends on the function within the relative clause.
-
-| Kasus | m. | f. | n. | Pl. |
-|---|---|---|---|---|
-| Nom | der | die | das | die |
-| Akk | den | die | das | die |
-| Dat | dem | der | dem | denen |
-| Gen | dessen | deren | dessen | deren |
-
-> *Das ist die Prüfung, **auf die** ich mich monatelang vorbereitet habe.*
-
-### B1/06 — um … zu / damit / Infinitiv mit zu
-
-Purpose clauses:
-- `um … zu` + Inf. when both clauses share the same subject
-- `damit` + subord. clause when subjects differ
-
-> *Ich lerne Deutsch, **um** in Berlin **arbeiten zu** können.*
-> *Der Lehrer spricht langsamer, **damit** die Lernenden ihn **verstehen**.*
-
-### B1/07 — Genitiv
-
-Possession and formal prepositions (wegen, trotz, während, statt + Genitiv).
-
-| | m. | f. | n. | Pl. |
-|---|---|---|---|---|
-| Artikel | des (+s) | der | des (+s) | der |
-
-> ***Wegen** der Prüfung konnte Pavel nicht kommen.*
-> *Die Ergebnisse **des Tests** waren ausgezeichnet.*
-
-### B1/08 — Pronominaladverbien
-
-Replace preposition + pronoun when referring to things/ideas (not people).
-
-> *Ich freue mich **darauf** (= auf die Prüfung).*
-> ***Wor**über sprecht ihr? — Über die Ergebnisse.*
-
-Rule: `da(r)- + Präposition` for statements; `wo(r)- + Präposition` for questions.
-
-### B1/09 — Indirekte Fragen
-
-Embed a question inside a main clause (polite register):
-
-> *Direkt: Wann fängt die Prüfung an?*
-> *Indirekt: Könnten Sie mir sagen, **wann** die Prüfung **anfängt**?*
-> *Ja/Nein: Ich möchte wissen, **ob** er bestanden hat.*
-
-### B1/10 — Zweiteilige Konnektoren
-
-| Konnektor | Funktion |
-|---|---|
-| nicht nur … sondern auch | addition with emphasis |
-| sowohl … als auch | neutral addition (both … and) |
-| entweder … oder | exclusive alternative |
-| weder … noch | negative both |
-| zwar … aber | concession |
-
-> *Das war **nicht nur** schwierig, **sondern auch** lehrreich.*
-
-### B1/11 — Bewerbungssprache
-
-Formal CV/cover-letter register. Key verbs:
-
-| Informal | Formal |
-|---|---|
-| Ich suche einen Job | Ich bewerbe mich um die Stelle als … |
-| Ich kann gut mit Leuten | Ich verfüge über ausgeprägte Teamfähigkeit |
-| Ich habe das gemacht | Ich war zuständig für … |
-
-### B1/12 — Nominalisierung
-
-Convert verbs and adjectives into nouns (formal/written German):
-
-> *schreiben → **das Schreiben** der E-Mail*
-> *sich bewerben → **die Bewerbung***
-> *recyceln → **das Recyceln***
-
-Pattern: infinitive → das + capitalized form; or suffix -ung, -heit, -keit.
-
-### B1/13 — Schreiben- und Sprechen-Redemittel
-
-Formal email skeleton:
-**Betreff → Anrede → Bezugssatz → Hauptteil → Schlusssatz → Grußformel**
-
-Presentation structure (Sprechen Teil 2):
-**Einleitung → Vorteile → Nachteile → Fazit → Dank**
+| *Die Kunden, **die** wir helfen, …* | *Die Kunden, **denen** wir helfen, …* | `helfen` takes **Dativ**; the relative pronoun must be Dativ plural → **denen**, not *die*. |
+| *Wenn ich reich **würde sein**, …* | *Wenn ich reich **wäre**, …* | `sein`/`haben` use the one-word Konjunktiv II — **wäre/hätte**, never *würde sein/haben*. |
+| *Das ist **gemacht geworden**.* | *Das ist **gemacht worden**.* | Passiv-Perfekt uses the special participle **worden**, not *geworden*. |
+| *Könnten Sie sagen, **wann fängt** die Prüfung **an**?* | *…, **wann** die Prüfung **anfängt**?* | Indirect question = Nebensatz → finite verb goes to the **end**. |
+| *Ich bewerbe mich, **um** Sie genug Zeit **haben**.* | *…, **damit** Sie genug Zeit **haben**.* | Different subjects (*ich* / *Sie*) → use **damit**, not *um … zu*. |
+| *Wegen **dem** schlechten Wetter* | *Wegen **des** schlechten Wetters* | In formal writing `wegen` takes the **Genitiv**. |
+| *die Reduzierung **des** Emissionen* | *die Reduzierung **der** Emissionen* | Plural Genitiv article is **der**; *Emissionen* is plural. |
+| *Ich freue mich **dafür**, dass du kommst.* | *Ich freue mich **darüber**, dass du kommst.* | `sich freuen über` → **darüber** (Korrelat); `dafür` belongs to other verbs. |
 
 ---
 
-## 5. Lesetexte — Drei Texte für den Lesemodul
+### 6.3 Schnell-Check — Lückentext
 
-*These three texts are used in Block A (Lesen simulation). Read them here first,
-then work with them in the exercises.*
+Fill each blank with the correct word or form. Check your answers in the spoiler.
+
+1. Wenn ich mehr Zeit _______ , _______ ich jeden Tag üben. (Konjunktiv II: *haben* / *werden*)
+2. Der Hörtext _______ zweimal _______ . (Passiv Präteritum: *abspielen*)
+3. Das ist die Prüfung, _______ ich mich monatelang vorbereitet habe. (Relativpronomen + Präposition)
+4. Könnten Sie mir sagen, _______ die Prüfung _______ ? (indirekte Frage: *wann* / *anfangen*)
+5. _______ der Prüfung war Pavel sehr nervös. (Genitivpräposition: *wegen/während*)
+6. Es war _______ schwierig, _______ auch lehrreich. (zweiteiliger Konnektor)
+
+<details>
+<summary>📝 Lösungen</summary>
+
+> 1. Wenn ich mehr Zeit **hätte**, **würde** ich jeden Tag üben. (Konjunktiv II: *hätte* + *würde + Inf.*)
+>
+> 2. Der Hörtext **wurde** zweimal **abgespielt**. (Passiv Präteritum: *wurde* + Partizip II)
+>
+> 3. Das ist die Prüfung, **auf die** ich mich monatelang vorbereitet habe. (*sich vorbereiten auf* + Akk.)
+>
+> 4. Könnten Sie mir sagen, **wann** die Prüfung **anfängt**? (Verb ans Ende!)
+>
+> 5. **Während** der Prüfung war Pavel sehr nervös. (auch *Wegen* möglich — beide + Genitiv)
+>
+> 6. Es war **nicht nur** schwierig, **sondern** auch lehrreich. (auch: *zwar … aber*)
+
+</details>
+
+---
+
+## 7. Lesetexte — Drei Texte für den Lesemodul
+
+*Diese drei Texte werden in den Übungen (Lesen-Simulation) verwendet. Lies sie
+hier zuerst, dann arbeite in den Übungen mit ihnen.*
 
 ---
 
@@ -354,11 +347,11 @@ Anna
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
-## 6. Hörtext — Durchsage im Goethe-Institut
+## 8. Hörtext — Durchsage im Goethe-Institut
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -369,22 +362,35 @@ Anna
 
 ---
 
-## 7. Lernstrategie — Wiederholen mit System
+## 9. Magazin — Landeskunde
 
-For a capstone review lesson, the most effective strategy is **spaced
-retrieval by topic**. Instead of rereading grammar tables, use the D1
-Schnelltest (one gap per grammar topic) as your retrieval cue: if you
-can fill a gap quickly, that topic is solid; if you hesitate or get it
-wrong, revisit only that one B1 lesson.
+### Geschafft! — und was kommt nach B1?
 
-**The 4-step method:**
-1. Do the D1 Schnelltest without looking at anything.
-2. Mark each topic you got wrong (the label tells you which lesson).
-3. Re-read only those lessons' Grammatik sections (§4).
-4. Redo D4 Selbsttest — aim for 16+/20.
+Mit B1 hast du eine wichtige Stufe erreicht — aber das Lernen muss hier nicht enden. Der **Gemeinsame Europäische Referenzrahmen** (GER) kennt sechs Stufen: A1, A2, B1, B2, C1 und C2. B1 nennt man die Stufe der „selbstständigen Sprachverwendung": Du kommst im Alltag, im Beruf und auf Reisen allein zurecht. Mit **B2** verstehst du komplexe Texte und kannst in Diskussionen mithalten; **C1** öffnet die Tür zum Studium an deutschen Universitäten. Viele bleiben bei B1 stehen — und das reicht für vieles. Wer aber weitergeht, merkt: Jede Stufe macht die Sprache nicht schwerer, sondern reicher. Egal, wie weit du gehst — du hast schon bewiesen, dass du es kannst.
 
-**On exam day:** arrive five minutes early, read all instructions calmly,
-write a quick outline before every writing task. You already have the
-language — now trust it.
+> Sechs Stufen, ein Weg: B1 ist nicht das Ende, sondern der Punkt, an dem Deutsch anfängt, sich wie *deine* Sprache anzufühlen.
 
-➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
+---
+
+## 10. Lernstrategie — dein 3-Tage-Prüfungsplan
+
+### Tag 1 (30 min) — Diagnose
+- Mach den **Schnell-Check §6.3** ohne Hilfsmittel; markiere jede Lücke, die du falsch oder zögernd löst
+- Schau in der **Übersicht §6.1**, zu welcher Lektion der Fehler gehört, und lies *nur* diese eine Lektion noch einmal
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
+
+### Tag 2 (30 min) — Fehlerjagd
+- Geh die **Häufigsten Fehler §6.2** durch und schreib zu jedem ein eigenes korrektes Beispiel
+- Üb je einen Schreib-Baustein: eine formelle E-Mail (B1/13) und einen Forenbeitrag — Register prüfen!
+- Lesetexte §7 lesen: markiere in jedem Text drei Grammatikstrukturen aus §6.1
+
+### Tag 3 (30 min) — Generalprobe
+- Hörtext §8 (Durchsage) hören, Transkript erst danach öffnen — die wichtigen Anweisungen heraushören
+- Halte eine 2-Minuten-Präsentation zu einem Alltagsthema (Einleitung → Vor-/Nachteile → Fazit)
+- Mach die Prüfungssimulation in `exercises.md` (Block A–C) unter realistischen Bedingungen
+
+**Am Prüfungstag:** Komm fünf Minuten früher, lies alle Anweisungen ruhig, mach vor jeder Schreibaufgabe eine kurze Gliederung. Du hast die Sprache — jetzt vertrau ihr.
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an. Viel Erfolg!**

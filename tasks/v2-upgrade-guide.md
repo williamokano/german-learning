@@ -138,7 +138,11 @@ When done, report:
 | B1/11 | arbeitswelt-und-bewerbung | ✅ | 4,548w lesson.md · 3,122w lesson-short.md (grammar review in context; §6.1-6.5 recap + §6.6 Anschreiben-Aufbau) |
 | B1/12 | umwelt-und-gesellschaft | ✅ | 4,130w lesson.md · 2,974w lesson-short.md (Nominalisierung; 4 §6 subsections) |
 | B1/13 | schreiben-und-sprechen-b1 | ✅ | 3,964w lesson.md · 2,712w lesson-short.md (productive-skills lesson; §6 = 3 Baukästen, adapted 6-part format) |
-| B1/14 | — | ⬜ | Review/exam lesson — use adapted §6 (Grammatik-Übersicht / Häufige Fehler / Schnell-Check) |
+| B1/14 | wiederholung-und-pruefungstraining-b1 | ✅ | 3,332w lesson.md · 2,482w lesson-short.md (review/exam lesson; adapted §6: Grammatik-Übersicht / Häufige Fehler / Schnell-Check; 3 exam Lesetexte preserved) |
+
+**✅ B1 COMPLETE (B1/01–14 all v2-done as of 2026-06-23).** Next level: B2/01–14
+(after A2/04–13 backfill, if still pending). B2/14 and C1/12 are review lessons
+(adapted §6).
 
 ---
 
