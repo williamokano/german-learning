@@ -129,7 +129,8 @@ When done, report:
 | B1/02 | gegensaetze-und-folgen | ✅ | 3,775w lesson.md · 2,884w lesson-short.md |
 | B1/03 | wuensche-und-irreales | ✅ | 4,153w lesson.md · 3,474w lesson-short.md |
 | B1/04 | das-passiv | ✅ | 4,109w lesson.md · 3,214w lesson-short.md |
-| B1/05–14 | — | ⬜ | Instruction language: mixed EN/DE. B1/14 is a review lesson (adapted §6) |
+| B1/05 | relativsaetze-komplett | ✅ | 4,575w lesson.md · 3,297w lesson-short.md |
+| B1/06–14 | — | ⬜ | Instruction language: mixed EN/DE. B1/14 is a review lesson (adapted §6) |
 
 ---
 

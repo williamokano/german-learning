@@ -1,3 +1,24 @@
+---
+level: B1
+number: 5
+slug: relativsaetze-komplett
+title: Relativsätze komplett
+titleEn: "Relative Clauses: The Complete System"
+canDo:
+  - define things and people precisely
+  - describe exactly what something is or does
+  - use relative clauses confidently in all four cases
+  - use was and wo as relative pronouns
+grammar:
+  - "relative clauses recap (Nominativ & Akkusativ) and new Dativ relative clauses"
+  - "preposition + relative pronoun (in dem, mit der, auf das)"
+  - "was (after alles/etwas/nichts/neuter superlatives) and wo for places"
+buildsOn:
+  - A2/13 (relative clauses Nom & Akk)
+  - A2/08 (adjective declension — gender in relative pronouns)
+  - B1/02 (connectors — relative clauses can be chained)
+---
+
 # B1 · Lektion 5 — Relativsätze komplett (Relative Clauses: The Complete System)
 
 > **You will learn to:** define things and people precisely, describe exactly
@@ -58,7 +79,13 @@ für eine Bewerbung braucht.*
 
 ---
 
-## 2. Redemittel
+## 2. Einstieg — Was lernst du heute?
+
+*„Das ist die App, **mit der** man Scooter findet." „Das ist jemand, **dem** man vertrauen kann."* Mit Relativsätzen machst du deine Sätze **präzise**: Du sagst nicht nur *eine App*, sondern *welche* App — nicht nur *ein Mensch*, sondern *welcher*. In A2/13 hast du schon Relativsätze im Nominativ und Akkusativ gelernt (*der Mann, **der** dort steht*; *die App, **die** ich nutze*). Jetzt wird das System komplett: der **Dativ** (`dem, der, denen`), **Präposition + Relativpronomen** (`mit der`, `auf das`) und die Sonderfälle **`was`** und **`wo`**. This is how German lets you define, specify and describe with real precision — the grammar of definitions, recommendations and product descriptions.
+
+---
+
+## 3. Redemittel
 
 ### Etwas definieren und präzise beschreiben (defining and describing precisely)
 
@@ -84,11 +111,13 @@ für eine Bewerbung braucht.*
 
 ---
 
-## 3. Wortschatz
+## 4. Wortschatz
 
 ### Verben für Relativsätze mit Präpositionen
 
-These verbs take prepositions that must appear in the relative clause (see §4.2):
+> 💡 **Lerntipp:** Lern jedes dieser Verben **als Paket** mit seiner Präposition und ihrem Kasus: *sich verlassen **auf** + Akk.*, *abhängen **von** + Dat.* So baust du den Relativsatz automatisch richtig: *die Person, **auf die** man sich verlässt* · *das Ergebnis, **von dem** alles abhängt.* Wer die Präposition mitlernt, muss im Relativsatz nicht mehr raten.
+
+These verbs take prepositions that must appear in the relative clause (see §6.2):
 
 | Verb + Präposition | Englisch | Beispiel |
 |---|---|---|
@@ -102,6 +131,8 @@ These verbs take prepositions that must appear in the relative clause (see §4.2
 | sich bewerben um (+ Akk.) | to apply for | die Stelle, um die sie sich bewirbt |
 
 ### Nomen für Definitionen und Beschreibungen
+
+> 💡 **Lerntipp:** Diese Nomen sind die Bausteine jeder Definition und Bewerbung. Üb sie gleich im Relativsatz: *eine **Eigenschaft**, die zählt* · *ein **Hinweis**, der hilft* · *ein **Eindruck**, den man nie vergisst.* So sitzt das Wort sofort in einem Satz, den du wirklich brauchst.
 
 | Nomen | Englisch |
 |---|---|
@@ -118,25 +149,57 @@ These verbs take prepositions that must appear in the relative clause (see §4.2
 | der Randbezirk, -e | outlying district |
 | die Nachfrage, -n | demand |
 
+> ✏️ **Selbsttest Wortschatz:** Cover the English column. Can you recall every word — *and* name the preposition + case for each verb in the first table? Aim for ≥80% before the exercises.
+
 ---
 
-## 4. Grammatik
+## 5. Mini-Geschichte — Auf dem Flohmarkt
 
-### 4.1 Relativsätze Recap: Nominativ & Akkusativ — und neu: Dativ
+Lies den Text zuerst zügig. Beim zweiten Lesen unterstreiche jedes Relativpronomen (*der/die/das, dem/den/denen, was, wo*) und bestimme den Kasus.
 
-A **relative clause** is a subordinate clause that tells us more about a noun
-(the **antecedent**). In German, the **relative pronoun** (the word that refers
-back) must agree in **gender and number** with the antecedent, and take the
-**case** required by the relative clause itself.
+Es ist Sonntag, und Anna und Bruno schlendern über den Flohmarkt im Mauerpark. Überall liegen Dinge, die andere Leute nicht mehr brauchen.
 
-**The golden rule:** The relative pronoun sends the verb to the **end** of the
-relative clause, just like `weil`, `dass`, and `obwohl`.
+„Schau mal", sagt Bruno und zeigt auf einen alten Plattenspieler. „Das ist genau das, was ich schon lange suche." Der Verkäufer, dem der Stand gehört, lächelt. „Das ist ein Gerät, das noch perfekt funktioniert. Die Platten, die Sie da hinten sehen, gebe ich Ihnen günstig dazu."
 
-> *Das ist die App. Sie hilft Pendlern.* → *Das ist die App, **die** Pendlern hilft.*
+Anna interessiert sich für etwas anderes. „Das ist die Lampe, die ich für mein Wohnzimmer brauche", sagt sie. „Genau die Farbe, die zu meinem Sofa passt." Die Frau, von der sie die Lampe kauft, kommt aus Portugal — einem Land, wo es solche Lampen auf jedem Markt gibt.
 
-#### Nominativ (subject of relative clause — who/what does the action)
+„Weißt du, was das Schönste an einem Flohmarkt ist?", fragt Bruno. „Es ist die Geschichte hinter jedem Ding. Der Plattenspieler, den ich gerade gekauft habe, gehörte einem Mann, der jahrelang in einer Band gespielt hat."
 
-The relative pronoun is the **subject** of the relative clause.
+Anna nickt. „Das ist etwas, was man in einem normalen Geschäft nie bekommt." Sie zeigt auf einen Stand mit alten Büchern. „Und da drüben ist der Stand, an dem ich letzte Woche schon war. Der Mann, dem er gehört, kennt sich richtig gut aus."
+
+Am Ende sitzen die beiden auf einer Bank, neben sich die Sachen, für die sie viel zu viel Geld ausgegeben haben — und über die sie sich trotzdem riesig freuen.
+
+<details>
+<summary>📝 Lese-Check — beantworte in einem Satz</summary>
+
+> **1. Was kauft Bruno auf dem Flohmarkt?**
+> *Einen alten Plattenspieler, der noch perfekt funktioniert.*
+>
+> **2. Warum kauft Anna die Lampe?**
+> *Weil es genau die Farbe ist, die zu ihrem Sofa passt.*
+>
+> **3. Was ist für Bruno das Schönste an einem Flohmarkt?**
+> *Die Geschichte, die hinter jedem Ding steckt.*
+
+</details>
+
+---
+
+## 6. Grammatik
+
+### 6.1 Relativsätze: Nominativ & Akkusativ — und neu: Dativ
+
+**Warum?** A **relative clause** lets you add precise information about a noun
+(the **antecedent**) without starting a new sentence — *die App, **die** ich
+nutze* instead of *die App. Ich nutze sie.* The trick is the **relative
+pronoun**: it takes its **gender and number** from the antecedent, but its
+**case** from the job it does *inside* its own clause. You already mastered
+Nominativ and Akkusativ in A2/13; the new piece at B1 is the **Dativ** — used
+with dative verbs (*helfen, danken, vertrauen, gehören, begegnen*) and dative
+prepositions. And one golden rule never changes: the relative pronoun sends the
+verb to the **end** of the clause, exactly like `weil` or `dass`.
+
+#### Nominativ — the pronoun is the subject
 
 | Genus | Pronomen | Beispiel |
 |---|---|---|
@@ -145,9 +208,7 @@ The relative pronoun is the **subject** of the relative clause.
 | das (n.) | das | Das Team, **das** hart arbeitet, wird erfolgreich. |
 | die (pl.) | die | Die Nutzer, **die** früh aufstehen, fahren zuerst. |
 
-#### Akkusativ (direct object of relative clause — who/what is affected)
-
-The relative pronoun is the **direct object** of the relative clause.
+#### Akkusativ — the pronoun is the direct object
 
 | Genus | Pronomen | Beispiel |
 |---|---|---|
@@ -156,14 +217,7 @@ The relative pronoun is the **direct object** of the relative clause.
 | das (n.) | das | Das Ergebnis, **das** wir wollten, ist jetzt da. |
 | die (pl.) | die | Die Scooter, **die** er mietet, sind neu. |
 
-> ⚠️ Note: In the feminine and plural, Nom and Akk are identical (`die`).
-> Only the masculine changes: `der` (Nom) → `den` (Akk).
-
-#### Dativ — NEU in B1
-
-The relative pronoun is in the **Dative** when the relative clause requires it —
-typically with dative verbs (helfen, danken, vertrauen, gefallen, begegnen…) or
-dative prepositions (mit, von, aus, bei, nach, zu, gegenüber, seit…).
+#### Dativ — NEU in B1 (dative verb or dative preposition in the clause)
 
 | Genus | Dativ-Pronomen | Beispiel |
 |---|---|---|
@@ -171,9 +225,6 @@ dative prepositions (mit, von, aus, bei, nach, zu, gegenüber, seit…).
 | die (f.) | der | Die Mitarbeiterin, **der** ich danke, heißt Anna. |
 | das (n.) | dem | Das Projekt, **dem** alles zu verdanken ist, war schwierig. |
 | die (pl.) | **denen** | Die Kunden, **denen** wir helfen, sind sehr dankbar. |
-
-> ⚠️ **Wichtige Falle — Plural Dativ:** the plural Dativ form is **`denen`** — not `die`!
-> This is the form that surprises learners most.
 
 #### Vollständige Tabelle aller vier Kasus
 
@@ -183,33 +234,63 @@ dative prepositions (mit, von, aus, bei, nach, zu, gegenüber, seit…).
 | **Akkusativ** | den | die | das | die |
 | **Dativ** | dem | der | dem | **denen** |
 
+**Examples:**
+
+1. Die App, **die** Pendlern hilft, wird oft empfohlen. *(Nom)*
+2. Der Text, **den** Pavel schreibt, ist sehr präzise. *(Akk)*
+3. Die Mitarbeiterin, **der** ich danke, war zuverlässig. *(Dat)*
+4. Das sind Menschen, **denen** Nachhaltigkeit wichtig ist. *(Dat, pl.)*
+5. Der Kollege, **dem** ich vertraue, hilft mir oft. *(Dat)*
+6. Die Nutzer, **die** früh aufstehen, fahren zuerst. *(Nom, pl.)*
+7. Das Ergebnis, **das** wir wollten, ist da. *(Akk)*
+8. Die Kunden, **denen** wir helfen, sind dankbar. *(Dat, pl.)*
+
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Der Mann, **der** ich kenne, …* | *Der Mann, **den** ich kenne, …* (Akk masc. → `den`) |
+> | *Die Kunden, **die** wir helfen, …* | *Die Kunden, **denen** wir helfen, …* (Dativ plural = `denen`) |
+> | *Die App, die ich **nutze sie**.* | *Die App, die ich **nutze**.* (verb at the end, no extra pronoun) |
+
+> 💡 **Lerntipp:** Two separate questions, two separate sources. **Gender/number**
+> comes from the noun *before* the comma (*die App* → feminine). **Case** comes
+> from the pronoun's job *inside* the relative clause: subject → Nom, direct
+> object → Akk, dative verb/preposition → Dat. Decide them one at a time and the
+> pronoun is fixed.
+
+**Versuch es selbst.** Verbinde zu einem Relativsatz: „Das ist der Kollege. Ich vertraue ihm."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Das ist der Kollege, **dem** ich vertraue.* (`vertrauen` + Dativ → `dem`)
+
+</details>
+
 > 📌 **Merkasten — der/die/das als Relativpronomen**
 >
-> - Forms are very similar to the definite article — with two key differences:
->   - Genitive forms (dessen/deren) exist but are B2 level
->   - Plural Dativ is **denen** (not: *den*)
-> - **Dativ rule:** ask "does the relative clause have a Dativ verb or
->   Dativ preposition?" If yes → use `dem` (m./n.), `der` (f.), `denen` (pl.)
-> - **Kommaregel:** always put a comma before a relative clause in German.
+> - Forms look almost like the definite article — two key differences:
+>   - Genitiv (dessen/deren) exists but is B2 level
+>   - **Plural Dativ is `denen`** (not *den*)
+> - **Dativ rule:** Dativ verb or Dativ preposition in the clause → `dem`/`der`/`denen`
+> - **Kommaregel:** always a comma before a relative clause; verb goes last.
 
 ---
 
-### 4.2 Präposition + Relativpronomen
+### 6.2 Präposition + Relativpronomen
 
-When the verb in the relative clause requires a **preposition** (e.g. `warten auf`,
-`sich freuen über`, `abhängen von`, `sich kümmern um`), that **preposition comes
-first**, followed by the relative pronoun in the **case the preposition governs**.
+**Warum?** Many verbs come with a fixed preposition (*sich verlassen **auf**,
+abhängen **von**, sich kümmern **um***). When such a verb lands in a relative
+clause, German keeps the preposition **in front of** the relative pronoun — it
+never strands it at the end the way English does ("the app **that** I work
+**with**"). So: *die App, **mit der** man Scooter findet.* The preposition
+chooses the case of the pronoun (*mit* → Dativ → *der*), the whole `[Prep +
+Pronomen]` unit opens the clause, and the verb still goes last.
 
-> *Das ist die App.* + *Man kann **mit** der App Scooter finden.*
-> → *Das ist die App, **mit der** man Scooter finden kann.*
+#### By preposition case
 
-The preposition always precedes the relative pronoun. The whole unit (preposition
-+ pronoun) comes at the start of the relative clause, and the verb still goes to
-the end.
-
-#### Examples by preposition case
-
-**Dativ prepositions** (mit, von, aus, bei, nach, zu, seit, gegenüber):
+**Dativ-Präpositionen** (mit, von, aus, bei, nach, zu, seit, gegenüber):
 
 | Antecedent | Struktur | Beispiel |
 |---|---|---|
@@ -218,7 +299,7 @@ the end.
 | das Team (n.) | aus + dem | das Team, **aus dem** das Startup besteht |
 | die Kunden (pl.) | bei + denen | die Kunden, **bei denen** er sich meldet |
 
-**Akkusativ prepositions** (durch, für, ohne, um, gegen, über\*):
+**Akkusativ-Präpositionen** (durch, für, ohne, um, gegen, über\*):
 
 | Antecedent | Struktur | Beispiel |
 |---|---|---|
@@ -226,39 +307,60 @@ the end.
 | das Ziel (n.) | für + das | das Ziel, **für das** wir arbeiten |
 | der Grund (m.) | ohne + den | der Grund, **ohne den** man nicht handelt |
 
-> \* `über` can be Dativ (location) or Akkusativ (direction/topic). With `verfügen über`
+> \* `über` is Dativ (location) or Akkusativ (direction/topic). With `verfügen über`
 > and `sprechen über` → Akkusativ.
 
-> ⚠️ **WICHTIG — kein `womit` / `worüber` auf diesem Niveau!**
+**Examples:**
+
+1. Das ist die App, **mit der** man E-Scooter findet.
+2. Das ist der Bezirk, **in dem** die Nachfrage am größten ist.
+3. Das sind Leute, **auf die** du dich verlassen kannst.
+4. Das ist ein Ergebnis, **auf das** wir stolz sind.
+5. Das ist das Projekt, **an dem** sie mitgearbeitet hat.
+6. Das Team, **aus dem** das Startup besteht, ist klein.
+7. Die Stelle, **um die** sie sich bewirbt, ist neu.
+8. Der Kollege, **von dem** ich viel gelernt habe, geht in Rente.
+
+> ⚠️ **Häufige Fehler**
 >
-> You may know **Pronominaladverbien** like `womit`, `worüber`, `wovon`,
-> `worauf` — these exist and you will encounter them in reading. However,
-> they are a **B1/08 topic**. For now, always use the **preposition + relative
-> pronoun** form:
->
-> ✅ *die App, **mit der** man Scooter mietet* (correct at B1/05)
-> ❌ *die App, **womit** man Scooter mietet* (save for B1/08!)
->
-> Both are grammatically correct in German, but Pronominaladverbien have their
-> own rules about when they are required vs. optional — you'll learn that in B1/08.
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *die App, **die** man Scooter **mit** mietet* | *die App, **mit der** man Scooter mietet* (no stranded preposition) |
+> | *das Ergebnis, **worauf** wir stolz sind* | *das Ergebnis, **auf das** wir stolz sind* (`worauf` is B1/08) |
+> | *die Leute, **auf denen** man sich verlässt* | *die Leute, **auf die** man sich verlässt* (`sich verlassen auf` + Akk → `die`) |
+
+> 💡 **Lerntipp:** Five-step build: **(1)** find the verb in the clause →
+> **(2)** name its fixed preposition → **(3)** check the antecedent's gender →
+> **(4)** put the pronoun in the preposition's case → **(5)** send the verb to
+> the end. And on this level: **preposition + pronoun**, never `womit/worüber`
+> (that's B1/08).
+
+**Versuch es selbst.** Verbinde: „Das ist die Stelle. Sie bewirbt sich um die Stelle."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Das ist die Stelle, **um die** sie sich bewirbt.* (`sich bewerben um` + Akk → `die`)
+
+</details>
 
 > 📌 **Merkasten — Präposition + Relativpronomen**
 >
-> | Schritt | Aktion |
-> |---|---|
-> | 1 | Find the verb in the relative clause (e.g. `verlassen auf`) |
-> | 2 | Identify the preposition it needs (`auf`) |
-> | 3 | Identify the antecedent's gender and the case after the preposition |
-> | 4 | Build: Prep + Pronoun, e.g. `auf + die` → **auf die** (for plural Akk.) |
-> | 5 | Put the verb last: *die Leute, auf die man sich verlassen kann* |
->
-> Order in the relative clause: **[Prep + Pronoun] + [subject if any] + … + [VERB]**
+> Order: **[Präp + Pronomen] + (Subjekt) + … + VERB.**
+> ▶ Preposition first, then the pronoun in *its* case. ▶ Verb always last.
+> ▶ On this level: `mit der`, `auf das` — **not** `womit`, `worauf` (→ B1/08).
 
 ---
 
-### 4.3 `was` als Relativpronomen
+### 6.3 `was` als Relativpronomen
 
-Use **`was`** (not `das`!) as the relative pronoun after these specific triggers:
+**Warum?** Most relative clauses use `der/die/das`, but a special group of
+antecedents takes **`was`** instead. These are the *indefinite* and
+*summarising* words — **`alles, etwas, nichts, vieles`** — and **neuter
+superlatives used as nouns** (*das Beste, das Einzige, das Wichtigste*). On top
+of that, `was` can refer back to a **whole clause** to add a comment (*Er kam
+pünktlich, **was** mich freute*). The rule of thumb: a *concrete* noun (even a
+neuter one like *das Auto*) takes `das`; these special triggers take `was`.
 
 | Trigger | Beispiel |
 |---|---|
@@ -268,38 +370,60 @@ Use **`was`** (not `das`!) as the relative pronoun after these specific triggers
 | `vieles` | Vieles, **was** wir geplant haben, hat funktioniert. |
 | `das Einzige` | Das ist das Einzige, **was** zählt. |
 | `das Beste` | Das war das Beste, **was** mir passieren konnte. |
-| `das Schönste` | Das Schönste, **was** ich je gesehen habe, war dieser Sonnenuntergang. |
-| Neuter superlative | Das Wichtigste, **was** wir brauchen, ist Zeit. |
-| Whole clause | Er war pünktlich, **was** mich sehr gefreut hat. |
+| neuter superlative | Das Wichtigste, **was** wir brauchen, ist Zeit. |
+| whole clause | Er war pünktlich, **was** mich sehr gefreut hat. |
 
-The last type is special: **`was`** can refer back to an entire preceding clause
-(not just a noun), expressing a reaction or comment on what was just said.
+**Examples:**
 
-> *Er hat die Präsentation perfekt gehalten, **was** alle überrascht hat.*
-> (He gave the presentation perfectly, which surprised everyone.)
+1. Das ist alles, **was** wir hören wollen.
+2. Das ist das Einzige, **was** uns unterscheidet.
+3. Das Beste, **was** unsere Nutzer sagen, ist ein Lob.
+4. Es gibt nichts, **was** ich daran ändern würde.
+5. Vieles, **was** wir geplant haben, hat funktioniert.
+6. Etwas, **was** mir gefehlt hat, war ein klarer Satz.
+7. Das Wichtigste, **was** zählt, ist Zuverlässigkeit.
+8. Sie kam pünktlich, **was** alle gefreut hat. *(whole clause)*
 
-> ⚠️ **Falle — `was` vs. `das`**
+> ⚠️ **Häufige Fehler**
 >
-> After a **specific noun** (e.g. `das Buch`, `das Problem`, `das Auto`),
-> use `das` as the relative pronoun:
->
-> ✅ *Das Buch, **das** ich lese, ist spannend.* (neuter noun → `das`)
-> ✅ *Alles, **was** ich lese, ist spannend.* (`alles` → `was`)
->
-> The trigger words above require `was`. For any other neuter noun → use `das`.
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Alles, **das** du brauchst …* | *Alles, **was** du brauchst …* (`alles` → `was`) |
+> | *Das Beste, **das** mir passiert ist …* | *Das Beste, **was** mir passiert ist …* (neuter superlative → `was`) |
+> | *Das Auto, **was** ich kaufe …* | *Das Auto, **das** ich kaufe …* (concrete noun → `das`) |
+
+> 💡 **Lerntipp:** Ask yourself: is the antecedent a *thing you can point at*
+> (a concrete noun → `das`), or a *vague/summarising word* — alles, etwas,
+> nichts, das Beste, a whole sentence (→ `was`)? Memorise the short trigger list;
+> everything outside it stays `das`.
+
+**Versuch es selbst.** Setz `was` oder `das` ein: „Das ist das Einzige, ___ wirklich zählt." / „Das ist das Buch, ___ ich gerade lese."
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Das ist das Einzige, **was** wirklich zählt.* (Trigger `das Einzige`)
+> *Das ist das Buch, **das** ich gerade lese.* (concrete neuter noun)
+
+</details>
 
 > 📌 **Merkasten — `was`-Trigger**
 >
-> `was` = relative pronoun after: **alles · etwas · nichts · vieles · das Einzige ·
-> das Beste / Schönste / Wichtigste** (neuter superlatives) · **a whole clause**
->
-> Everything else (even neuter nouns like `das Auto`) → use `das`.
+> `was` after: **alles · etwas · nichts · vieles · das Einzige · das Beste /
+> Schönste / Wichtigste** (neuter superlatives) · **a whole clause**.
+> Everything else (even *das Auto*, *das Problem*) → `das`.
 
 ---
 
-### 4.4 `wo` als Relativpronomen für Orte
+### 6.4 `wo` als Relativpronomen für Orte
 
-Use **`wo`** as a relative pronoun after **place nouns** to mean "where":
+**Warum?** When the antecedent is a **place** (*der Ort, die Stadt, das Land,
+der Bezirk*), German lets you use **`wo`** as a relative pronoun meaning "where"
+— *die Stadt, **wo** Pavel wohnt.* It's a handy shortcut for the fuller
+*preposition + pronoun* form (*in der Pavel wohnt*): `wo` is more spoken and
+always works after a place noun, while `in dem/der` is more formal and precise.
+After *da, wo …* ("there where …") only `wo` is possible. As always, the verb
+goes to the **end** of the clause.
 
 | Antecedent | Beispiel |
 |---|---|
@@ -309,30 +433,47 @@ Use **`wo`** as a relative pronoun after **place nouns** to mean "where":
 | die Gegend | Das ist die Gegend, **wo** die Nachfrage am größten ist. |
 | der Bezirk | Das sind die Bezirke, **wo** kaum Angebote vorhanden sind. |
 
-**`wo` oder `in dem/der`?** Both are often correct after place nouns:
-- `wo` — more spoken, informal, always correct after place nouns
-- `in dem` / `in der` / `in den` — more formal, more precise
+**Examples:**
 
-> *Die Stadt, **wo** Pavel wohnt* = *Die Stadt, **in der** Pavel wohnt.*
+1. Das ist der Ort, **wo** wir uns kennengelernt haben.
+2. Berlin ist die Stadt, **wo** Pavel lebt. *(= in der Pavel lebt)*
+3. Das ist die Gegend, **wo** die Nachfrage am größten ist.
+4. Wir suchen die Bezirke, **wo** das Angebot fehlt.
+5. Das ist ein Land, **wo** es solche Märkte überall gibt.
+6. Ich arbeite da, **wo** ich gebraucht werde. *(da, wo → nur `wo`)*
+7. Das Café, **wo** wir uns treffen, liegt zentral. *(= in dem)*
+8. Das ist der Markt, **wo** Bruno seinen Plattenspieler gekauft hat.
 
-After `da, wo…` (= "there where …"), only `wo` is possible:
-> *Ich suche Mitarbeiter **da, wo** die Nachfrage am größten ist.*
+> ⚠️ **Häufige Fehler**
+>
+> | ❌ Wrong | ✅ Right |
+> |---|---|
+> | *Der Mann, **wo** ich kenne, …* | *Der Mann, **den** ich kenne, …* (`wo` only for places!) |
+> | *die Stadt, **wo** ich wohne **in**.* | *die Stadt, **wo** ich wohne.* (no extra preposition) |
+> | *Ich arbeite da, **in der** ich gebraucht werde.* | *Ich arbeite da, **wo** ich gebraucht werde.* (after `da` → `wo`) |
 
-**Distinguish from `wo` as a question word:** Context will always make this
-clear. `Wo wohnst du?` is a question. `die Stadt, wo Pavel wohnt` — the `wo`
-follows a comma and an antecedent, so it is a relative pronoun.
+> 💡 **Lerntipp:** `wo` is a *place-only* tool. People and things keep
+> `der/die/das/den/dem` — *der Mann, **den** ich kenne*, never *wo*. If you could
+> answer the question "**Wo?**" with the antecedent, `wo` (or `in dem/der`) fits.
+
+**Versuch es selbst.** Verbinde: „Das ist der Bezirk. Dort ist die Nachfrage am größten." (mit `wo`)
+
+<details>
+<summary>📝 Lösung</summary>
+
+> *Das ist der Bezirk, **wo** die Nachfrage am größten ist.*
+
+</details>
 
 > 📌 **Merkasten — `wo` für Orte**
 >
-> - After place nouns (`Ort`, `Stadt`, `Land`, `Gegend`, `Bezirk`, `Region`…):
->   `wo` = relative pronoun = "where"
-> - Formal alternative: preposition + relative pronoun (`in dem`, `in der`…)
-> - After `da, wo …` — `wo` only (no `in dem` possible here)
-> - Verb still goes to the **end** of the relative clause!
+> - After place nouns (*Ort, Stadt, Land, Gegend, Bezirk, Region*…): `wo` = "where".
+> - Formal alternative: preposition + pronoun (`in dem`, `in der`…).
+> - After `da, wo …` → only `wo`. ▶ People/things → never `wo`. ▶ Verb last.
 
 ---
 
-## 5. Lesetext — „Über uns" — die Website des Startups
+## 7. Lesetext — „Über uns" — die Website des Startups
 
 *Pavel schreibt die „Über uns"-Seite für Tomáš' Startup. Der Text ist reich an
 Relativsätzen. Lies ihn zweimal: einmal schnell, einmal langsam.*
@@ -358,11 +499,11 @@ wirklich zu meinem Alltag passt." Das ist alles, was wir hören wollen.
 
 ---
 
-🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
-
-## 6. Hörtext — Mia beschreibt ihre Traumwohnung
+## 8. Hörtext — Mia beschreibt ihre Traumwohnung
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -379,24 +520,33 @@ wirklich zu meinem Alltag passt." Das ist alles, was wir hören wollen.
 
 ---
 
-## 7. Lernstrategie — Relativsatz-Radar
+## 9. Magazin — Landeskunde
 
-Every German text — a news article, an Instagram caption, a product description,
-a novel — is full of relative clauses. **Build your recognition radar:**
+### Schachtelsätze — Mark Twain und die deutsche Liebe zum Nebensatz
 
-Whenever you read or hear German text, **circle every relative pronoun**
-(`der/die/das/dem/den/denen/was/wo`) and ask yourself two questions:
+Der amerikanische Schriftsteller Mark Twain hat sich einmal bitter über die deutsche Sprache beschwert. In seinem Essay *„The Awful German Language"* macht er sich über die langen **Schachtelsätze** lustig — Sätze, in denen ein Nebensatz im anderen steckt und das Verb erst ganz am Ende kommt. Tatsächlich lieben es deutsche Texte, mit Relativsätzen Information zu stapeln: *„Das Auto, das der Mann, den ich gestern getroffen habe, gekauft hat, war teuer."* Solche Sätze sind grammatisch korrekt, aber selbst Deutsche finden sie anstrengend. Der gute Stil von heute sagt: ein Relativsatz pro Satz reicht meistens. Präzision ja — aber bitte zum Atmen.
 
-1. **What noun does it refer back to?** (Find the antecedent — the noun before
-   the comma.)
-2. **What case is it in?** (Is it the subject? Object? After a preposition?)
+> „Whenever the literary German dives into a sentence, that is the last you are going to see of him till he emerges on the other side of his Atlantic with his verb in his mouth." — Mark Twain
 
-Why this works: spotting the pattern in authentic text is far more efficient
-than drilling made-up sentences. Ten minutes of "relative clause radar" in a
-real German text per day builds recognition faster than fifty fill-in exercises.
+---
 
-**Quick self-test:** In the Lesetext above (§5), find and label all relative
-pronouns. Note the antecedent and the case for each one. You should find 10+
-examples covering all four types from this lesson.
+## 10. Lernstrategie
 
-➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
+### Tag 1 (30 min) — Erstkontakt
+- Dialog A und B (§1) laut lesen — unterstreiche jedes Relativpronomen und bestimme den Kasus
+- Wortschatz §4 mit verdeckter Spalte testen — zu jedem Verb die Präposition + Kasus nennen
+- Mini-Geschichte §5 lesen + Lese-Check beantworten
+
+### Tag 2 (30 min) — Vertiefung
+- Grammatik §6.1–§6.2: aus 6 Satzpaaren je einen Relativsatz bauen (Nom, Akk, **Dativ**, Präp + Pronomen)
+- Korrektur-Übung: 5 Sätze mit falschem `der/den/denen` korrigieren
+- *Versuch es selbst* in §6.1–§6.4 auf Papier machen
+
+### Tag 3 (30 min) — Prüfungsvorbereitung
+- **Relativsatz-Radar:** Im Lesetext §7 alle Relativpronomen finden und mit Antezedens + Kasus beschriften (du solltest 10+ finden, alle vier Typen)
+- §6.3–§6.4: 5 Sätze mit `was` und 5 mit `wo` schreiben
+- Hörtext §8 hören, Transkript erst danach öffnen — alle Relativsätze heraushören; dann Block C in `exercises.md`
+
+---
+
+➡️ **Jetzt mach die Übungen in `exercises.md`. Schau dir `solutions.md` erst danach an.**
