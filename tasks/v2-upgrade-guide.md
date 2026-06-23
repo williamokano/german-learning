@@ -125,7 +125,11 @@ When done, report:
 | A2/12 | plaene-und-zukunft | ⬜ | |
 | A2/13 | menschen-beschreiben | ⬜ | |
 | A2/14 | pruefungstraining-a2 | ⬜ | Review lesson — use adapted §6 (see review-lesson section above) |
-| B1/01–14 | — | ⬜ | After A2 complete; instruction language shifts to mixed EN/DE |
+| B1/01 | frueher-und-heute | ✅ | 3,835w lesson.md · 2,430w lesson-short.md |
+| B1/02 | gegensaetze-und-folgen | ✅ | 3,775w lesson.md · 2,884w lesson-short.md |
+| B1/03 | wuensche-und-irreales | ✅ | 4,153w lesson.md · 3,474w lesson-short.md |
+| B1/04 | das-passiv | ✅ | 4,109w lesson.md · 3,214w lesson-short.md |
+| B1/05–14 | — | ⬜ | Instruction language: mixed EN/DE. B1/14 is a review lesson (adapted §6) |
 
 ---
 
@@ -184,6 +188,12 @@ Other review-lesson adaptations:
 
 20. **Reflexive verb chunks in health/body topics** — `sich fühlen`, `sich ausruhen` appear naturally in dialogs before reflexives are formally taught (A2/05). Treat as chunks with footnote in the dialog block; do not try to avoid them entirely.
 21. **§5 Lese-Check spoiler answers must also respect scope** — the model answer inside the `<details>` spoiler is still prose the learner reads; don't use `weil`-clauses (A2/03) or other forward-scope grammar there. Use two short sentences instead: *"Bruno kauft ein Hemd. Seine Schwester hat Geburtstag."* not *"Bruno kauft ein Hemd, weil seine Schwester Geburtstag hat."*
+
+### After B1/04 (das-passiv)
+
+22. **v1 B1 lessons fold §6 sub-tables into the grammar prose** — the v1 (short) B1 files put conjugation/transformation tables *inside* each grammar topic. In v2, keep those tables but reframe each topic into the 6-part shape (Warum? → tables+examples → Häufige Fehler → Lerntipp → Versuch es selbst → Merkasten). The conjugation tables live naturally under the Warum? paragraph; the v1 Merkasten can be reused almost verbatim as the §6 Merkasten.
+23. **Topic-grammar in the Mini-Geschichte is in-scope** — unlike forward-scope chunks, *this lesson's own* target grammar should be used freely and densely in §5 (e.g. B1/04's Bäckerei story uses present/Präteritum/Perfekt + modal passive throughout). Pick a §5 scene with a different *process* from §7 so both feel authentic (here: bakery vs. car factory). Everyday topic nouns the learner can infer from context (*der Teig*, *die Backstube*) are fine with a one-line Wortschatz-Hilfe footnote.
+24. **Drift check is about shared *content*, not surrounding tips** — v2 adds 💡 Lerntipp blockquotes before each Wortschatz table and a Selbsttest line; the v1 file has none. That is expected. The word-for-word agreement requirement applies to dialog speaker turns, Wortschatz table rows, the Hörtext transcript, and the frontmatter — not to the new framing prose around them.
 
 ---
 
