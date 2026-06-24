@@ -1,0 +1,956 @@
+lesson: B2/11
+title: "B2 · Lektion 11 — Übungen (Wirtschaft und Arbeitswelt)"
+intro: >
+  Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Lösungen in solutions.md.
+  Tipp: Verteile die Blöcke über mehrere Tage — H und A am Tag 1, B am Tag 2,
+  C am Tag 3, D nach einer Pause am Tag 4.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Der Umsatz ist im letzten Quartal um zwölf Prozent gestiegen."
+        answer: true
+        why: 'Anna: „Unser Umsatz ist um zwölf Prozent gestiegen."'
+      - q: "Der Gewinn ist genauso stark gestiegen wie der Umsatz."
+        answer: false
+        why: 'Anna: „Der Gewinn auch, aber nicht so stark", weil die Kosten gestiegen sind.'
+      - q: "Anna hat ein Meeting mit Frau Yilmaz."
+        answer: true
+        why: 'Anna: „Ja, gleich um zehn." (Meeting mit Frau Yilmaz)'
+      - q: "Bruno rät Anna, im Konjunktiv zu sprechen, um diplomatischer zu klingen."
+        answer: true
+        why: 'Bruno: „Sag … ‚Ich würde vorschlagen, dass wir …‘. Mit dem Konjunktiv klingst du diplomatischer."'
+      - q: 'Bruno empfiehlt, direkt „Das ist zu teuer“ zu sagen.'
+        answer: false
+        why: 'Bruno empfiehlt das Gegenteil: „Wäre da noch ein bisschen Spielraum?" wirkt besser.'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Welchen Vorschlag macht Anna?"
+        options:
+          - { key: a, text: "Fünf Prozent Rabatt bei längerer Vertragslaufzeit." }
+          - { key: b, text: "Zehn Prozent Rabatt ohne Bedingung." }
+          - { key: c, text: "Gar keinen Rabatt." }
+        answer: a
+        why: 'Anna: „einen Rabatt von fünf Prozent anbieten, dafür aber eine längere Vertragslaufzeit verlangen".'
+      - q: "Was ist Frau Yilmaz' Einwand?"
+        options:
+          - { key: a, text: "Der Kunde ist nicht zuverlässig." }
+          - { key: b, text: "Ein Rabatt würde den Gewinn verringern." }
+          - { key: c, text: "Die Vertragslaufzeit ist zu kurz." }
+        answer: b
+        why: 'Frau Yilmaz: „Allerdings würde ein Rabatt unseren Gewinn spürbar verringern."'
+      - q: "Bis wann will Anna die Kalkulation schicken?"
+        options:
+          - { key: a, text: "Bis Montag." }
+          - { key: b, text: "Bis Donnerstag." }
+          - { key: c, text: "Bis nächste Woche." }
+        answer: b
+        why: 'Anna: „Ich würde Ihnen die Zahlen gern bis Donnerstag schicken."'
+      - q: "Was soll am Freitag passieren?"
+        options:
+          - { key: a, text: "Der Kunde unterschreibt den Vertrag." }
+          - { key: b, text: "Der Vorschlag wird der Geschäftsführung vorgelegt." }
+          - { key: c, text: "Die Abteilung macht Betriebsausflug." }
+        answer: b
+        why: 'Frau Yilmaz: „dass wir den Vorschlag am Freitag der Geschäftsführung vorlegen".'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext: Wirtschaftsnachrichten"
+    audio: hoertext.mp3
+    instructions: "Hör den Hörtext und fülle die 7 Lücken. Drei Wörter im Kasten sind zu viel."
+    text: |
+      Und nun zu den Wirtschaftsnachrichten. Der Autohersteller Nordwerk hat heute seine
+      Quartalszahlen vorgelegt. Das Unternehmen teilte mit, der {1} sei im Vergleich
+      zum Vorjahr um acht Prozent {2}. Der {3} habe sich sogar verdoppelt. Wegen
+      der starken {4} nach Elektroautos sollen im Werk Leipzig fünfhundert neue
+      {5} geschaffen werden. Die Gewerkschaft begrüßte die Pläne, forderte aber
+      zugleich höhere {6}. Ein Sprecher erklärte, die Mitarbeiter {7} in den letzten
+      Jahren auf vieles verzichtet.
+    bank: [Umsatz, gestiegen, Gewinn, Nachfrage, Stellen, Löhne, hätten, Verlust, gesunken, Kosten]
+    answers:
+      "1": Umsatz
+      "2": gestiegen
+      "3": Gewinn
+      "4": Nachfrage
+      "5": Stellen
+      "6": Löhne
+      "7": hätten
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Nachricht von Frau Yilmaz"
+    audio: transcript_ansage1.mp3
+    instructions: "Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript liest."
+    optionLayout: block
+    transcript: 'Guten Tag, Frau Kowalski, hier ist Yilmaz. Ich rufe wegen des Hamburger Angebots an. Die Geschäftsführung hat sich Ihren Vorschlag angesehen und ist grundsätzlich einverstanden. Allerdings möchte sie den Rabatt auf vier Prozent begrenzen. Könnten Sie die Kalkulation bitte entsprechend anpassen und mir bis morgen Mittag zur Verfügung stellen? Für Rückfragen bin ich den ganzen Nachmittag erreichbar. Bitte rufen Sie mich kurz zurück. Vielen Dank und auf Wiederhören.'
+    items:
+      - q: "Warum ruft Frau Yilmaz an?"
+        options:
+          - { key: a, text: "Wegen einer Kündigung." }
+          - { key: b, text: "Wegen des Hamburger Angebots." }
+          - { key: c, text: "Wegen eines Vorstellungsgesprächs." }
+        answer: b
+        why: '„Ich rufe wegen des Hamburger Angebots an."'
+      - q: "Was möchte die Geschäftsführung ändern?"
+        options:
+          - { key: a, text: "Den Rabatt auf vier Prozent begrenzen." }
+          - { key: b, text: "Die Vertragslaufzeit verkürzen." }
+          - { key: c, text: "Das ganze Angebot ablehnen." }
+        answer: a
+        why: '„sie möchte den Rabatt auf vier Prozent begrenzen".'
+      - q: "Bis wann soll Anna die Kalkulation liefern?"
+        options:
+          - { key: a, text: "Bis heute Abend." }
+          - { key: b, text: "Bis morgen Mittag." }
+          - { key: c, text: "Bis Freitag." }
+        answer: b
+        why: '„mir bis morgen Mittag zur Verfügung stellen".'
+      - q: "Was soll Anna tun?"
+        options:
+          - { key: a, text: "Eine E-Mail an den Kunden schreiben." }
+          - { key: b, text: "Frau Yilmaz kurz zurückrufen." }
+          - { key: c, text: "Den Vertrag sofort unterschreiben." }
+        answer: b
+        why: '„Bitte rufen Sie mich kurz zurück."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: matching
+    title: "Wortschatz: Wirtschaftsbegriffe"
+    instructions: "Ordne jedem deutschen Begriff (1–8) die richtige Erklärung (a–j) zu. Zwei Erklärungen sind zu viel."
+    left:
+      - { key: "1", text: "der Umsatz" }
+      - { key: "2", text: "der Gewinn" }
+      - { key: "3", text: "der Verlust" }
+      - { key: "4", text: "die Nachfrage" }
+      - { key: "5", text: "das Angebot" }
+      - { key: "6", text: "die Kündigung" }
+      - { key: "7", text: "der Rabatt" }
+      - { key: "8", text: "die Abteilung" }
+    right:
+      - { key: a, text: "alle Einnahmen aus dem Verkauf" }
+      - { key: b, text: "das, was nach Abzug der Kosten übrig bleibt" }
+      - { key: c, text: "wenn die Kosten höher sind als die Einnahmen" }
+      - { key: d, text: "der Wunsch der Kunden, etwas zu kaufen" }
+      - { key: e, text: "was eine Firma verkauft oder zum Kauf anbietet" }
+      - { key: f, text: "die Beendigung eines Arbeits- oder Vertragsverhältnisses" }
+      - { key: g, text: "ein Preisnachlass" }
+      - { key: h, text: "ein organisatorischer Teil einer Firma" }
+      - { key: i, text: "ein Bewerbungsschreiben" }
+      - { key: j, text: "die Zeit nach der Arbeit" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Artikel der Arbeitswelt-Nomen"
+    instructions: "Ergänze den richtigen bestimmten Artikel (der/die/das). 8 Items."
+    text: |
+      1. {1} Bewerbung (für die neue Stelle)
+      2. {2} Vorstellungsgespräch (am Montag)
+      3. {3} Gehalt (auf dem Konto)
+      4. {4} Vertrag (mit dem Kunden)
+      5. {5} Abteilung (im dritten Stock)
+      6. {6} Umsatz (des Quartals)
+      7. {7} Nachfrage (nach dem Produkt)
+      8. {8} Markt (in Europa)
+    answers:
+      "1": die
+      "2": das
+      "3": das
+      "4": der
+      "5": die
+      "6": der
+      "7": die
+      "8": der
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Konjunktiv II der Höflichkeit"
+    instructions: "Setze das Verb in den Konjunktiv II (Höflichkeitsform). 6 Items."
+    text: |
+      1. {1} (sein) da noch ein bisschen Spielraum beim Preis?
+      2. {2} (können) Sie mir die Zahlen bis Freitag schicken?
+      3. Eine Frage {3} (haben) ich noch.
+      4. Ich {4} (werden) gern einen Kompromiss vorschlagen.
+      5. Das {5} (sein) für uns leider keine Option.
+      6. {6} (können) wir Ihnen entgegenkommen, wenn Sie länger unterschreiben.
+    answers:
+      "1": Wäre
+      "2": Könnten
+      "3": hätte
+      "4": würde
+      "5": wäre
+      "6": Könnten
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Direkt → höflich (Verhandeln)"
+    instructions: "Formuliere die direkte Aussage höflich um. Ergänze die fehlende Konjunktiv-Form. 6 Items."
+    text: |
+      1. (Direkt: Geben Sie uns einen Rabatt.) → {1} (können) Sie uns beim Preis entgegenkommen?
+      2. (Direkt: Das ist zu teuer.) → {2} (sein) da noch Spielraum?
+      3. (Direkt: Ich will mehr Gehalt.) → Ich {3} (werden) mir gern ein höheres Gehalt wünschen.
+      4. (Direkt: Helfen Sie mir.) → Es {4} (sein) super, wenn Sie mir helfen könnten.
+      5. (Direkt: Schicken Sie die Kalkulation.) → {5} (können) Sie mir die Kalkulation schicken?
+      6. (Direkt: Ich schlage einen Mittelweg vor.) → Ich {6} (werden) einen Mittelweg vorschlagen.
+    answers:
+      "1": Könnten
+      "2": Wäre
+      "3": würde
+      "4": wäre
+      "5": Könnten
+      "6": würde
+
+  - id: A5
+    block: A
+    type: matching
+    title: "Funktionsverbgefüge → Vollverb (Wiederholung B2/08)"
+    instructions: "Ordne jedem Funktionsverbgefüge (1–8) das passende einfache Vollverb (a–j) zu. Zwei Vollverben sind zu viel."
+    left:
+      - { key: "1", text: "eine Entscheidung treffen" }
+      - { key: "2", text: "eine Frage stellen" }
+      - { key: "3", text: "Kritik üben" }
+      - { key: "4", text: "eine Rolle spielen" }
+      - { key: "5", text: "Bezug nehmen auf" }
+      - { key: "6", text: "zur Verfügung stellen" }
+      - { key: "7", text: "in Betracht ziehen" }
+      - { key: "8", text: "in Frage kommen" }
+    right:
+      - { key: a, text: "entscheiden" }
+      - { key: b, text: "fragen" }
+      - { key: c, text: "kritisieren" }
+      - { key: d, text: "wichtig sein" }
+      - { key: e, text: "sich beziehen auf" }
+      - { key: f, text: "bereitstellen" }
+      - { key: g, text: "berücksichtigen" }
+      - { key: h, text: "möglich / akzeptabel sein" }
+      - { key: i, text: "verkaufen" }
+      - { key: j, text: "kündigen" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Das richtige Funktionsverb"
+    instructions: "Setze das passende Funktionsverb ein (treffen / stellen / üben / spielen / nehmen / kommen). 6 Items."
+    text: |
+      1. Wir müssen heute eine Entscheidung {1}.
+      2. Darf ich eine Frage {2}?
+      3. Die Gewerkschaft {3} Kritik an dem Angebot.
+      4. Der Preis {4} eine wichtige Rolle.
+      5. Ich möchte Bezug auf den letzten Bericht {5}.
+      6. Dieser Termin {6} für uns leider nicht in Frage.
+    answers:
+      "1": treffen
+      "2": stellen
+      "3": übt
+      "4": spielt
+      "5": nehmen
+      "6": kommt
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Zahlen versprachlichen (steigen / sinken / bleiben)"
+    instructions: "Ergänze das passende Verb im Perfekt oder Partizip. 6 Items."
+    text: |
+      1. Der Umsatz ist um 12 % {1} (steigen).
+      2. Der Gewinn ist um 5 % {2} (sinken / zurückgehen — wähle: gesunken).
+      3. Die Kosten sind konstant {3} (bleiben).
+      4. Die Nachfrage ist stark {4} (wachsen).
+      5. Der Marktanteil ist stabil {5} (bleiben).
+      6. Der Verlust ist deutlich {6} (zurückgehen).
+    answers:
+      "1": gestiegen
+      "2": gesunken
+      "3": geblieben
+      "4": gewachsen
+      "5": geblieben
+      "6": zurückgegangen
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Vom Verbalstil zum Nominalstil (Wiederholung B2/01)"
+    instructions: "Ergänze das passende Nomen zum Verb. 5 Items."
+    text: |
+      1. Der Umsatz ist gestiegen. → der {1} des Umsatzes (steigen)
+      2. Die Kosten sind gesunken. → der {2} der Kosten (sinken)
+      3. Die Firma hat entschieden. → die {3} der Firma (entscheiden)
+      4. Das Unternehmen hat sich entwickelt. → die {4} des Unternehmens (entwickeln)
+      5. Die Nachfrage ist gewachsen. → das {5} der Nachfrage (wachsen)
+    answers:
+      "1": Anstieg
+      "2": Rückgang
+      "3": Entscheidung
+      "4": Entwicklung
+      "5": Wachstum
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Passiv in Nachrichten (Wiederholung B1/04)"
+    instructions: "Bilde das Passiv mit werden + Partizip II. 5 Items."
+    text: |
+      1. Im Werk {1} (schaffen — Präsens Passiv) 500 neue Stellen.
+      2. Letztes Jahr {2} (schließen — Präteritum Passiv) die Filiale in München.
+      3. Die Preise müssen {3} (erhöhen — Passiv mit Modalverb).
+      4. Der Vertrag ist gestern {4} (unterschreiben — Perfekt Passiv).
+      5. Tausend Stellen {5} (abbauen — Präsens Passiv).
+    answers:
+      "1": werden geschaffen
+      "2": wurde geschlossen
+      "3": erhöht werden
+      "4": unterschrieben worden
+      "5": werden abgebaut
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Indirekte Rede in Nachrichten (Wiederholung B2/04)"
+    instructions: "Gib die direkte Aussage indirekt wieder (Konjunktiv I). 5 Items."
+    text: |
+      1. „Der Umsatz ist gestiegen." → Das Unternehmen erklärte, der Umsatz {1} gestiegen.
+      2. „Wir schaffen neue Stellen." → Der Konzern teilte mit, man {2} neue Stellen schaffen.
+      3. „Die Löhne sind zu niedrig." → Die Gewerkschaft sagte, die Löhne {3} zu niedrig.
+      4. „Wir können nicht mehr zahlen." → Die Firma betonte, sie {4} nicht mehr zahlen.
+      5. „Der Gewinn hat sich verdoppelt." → Der Sprecher sagte, der Gewinn {5} sich verdoppelt.
+    answers:
+      "1": sei
+      "2": werde
+      "3": seien
+      "4": könne
+      "5": habe
+
+  - id: A11
+    block: A
+    type: categorize
+    title: "Redemittel sortieren: zustimmen, widersprechen, vorschlagen"
+    instructions: "Ordne jede Wendung der richtigen Funktion zu."
+    buckets:
+      - { key: vorschlag, label: "Vorschlag machen" }
+      - { key: zustimmen, label: "Zustimmen" }
+      - { key: widersprechen, label: "Widersprechen" }
+    tokens:
+      - { text: "Ich würde vorschlagen, dass wir …", bucket: vorschlag }
+      - { text: "Wie wäre es, wenn wir …?", bucket: vorschlag }
+      - { text: "Man könnte auch …", bucket: vorschlag }
+      - { text: "Dem kann ich nur zustimmen.", bucket: zustimmen }
+      - { text: "Das sehe ich genauso.", bucket: zustimmen }
+      - { text: "Da haben Sie völlig recht.", bucket: zustimmen }
+      - { text: "Das sehe ich etwas anders.", bucket: widersprechen }
+      - { text: "Das ist ein berechtigter Einwand, dennoch …", bucket: widersprechen }
+      - { text: "Ich bin da anderer Meinung.", bucket: widersprechen }
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Verhandlungsdialog ergänzen"
+    instructions: "Ergänze die 8 Lücken mit dem passenden Wort aus dem Kasten. Drei Wörter sind zu viel."
+    text: |
+      — Guten Tag. Sie wollten einen {1} zum Angebot machen?
+      — Ja, gern. Ich {2} vorschlagen, dass wir Ihnen einen {3} von fünf Prozent geben.
+      — Ein interessanter Gedanke. Allerdings {4} das unseren Gewinn verringern.
+      — Das ist ein berechtigter {5}. Aber bei längerer {6} bleibt der Gewinn stabil.
+      — Gut. {7} Sie mir bis Freitag eine Kalkulation zur Verfügung stellen?
+      — Selbstverständlich. Für {8} stehe ich Ihnen jederzeit zur Verfügung.
+    bank: [Vorschlag, würde, Rabatt, würde, Einwand, Vertragslaufzeit, Könnten, Rückfragen, Gewinn, Verlust, treffen]
+    answers:
+      "1": Vorschlag
+      "2": würde
+      "3": Rabatt
+      "4": würde
+      "5": Einwand
+      "6": Vertragslaufzeit
+      "7": Könnten
+      "8": Rückfragen
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Finde den Fehler"
+    prompt: "Jeder Satz enthält genau einen Fehler. Finde ihn und schreib den Satz korrekt."
+    stimulus: |
+      1. Wir haben gestern eine Entscheidung gemacht.
+      2. Der Umsatz hat um zwölf Prozent gestiegen.
+      3. Ich würde möchten einen Rabatt von fünf Prozent.
+      4. Er sagte, der Gewinn ist gestiegen.
+      5. Im Werk werden 500 neue Stellen schaffen.
+      6. Das Werk wurde letztes Jahr geschlossen worden.
+      7. Der Preis spielt eine wichtige Sache.
+      8. Das wäret für uns keine Option.
+    model: |
+      1. Wir haben gestern eine Entscheidung getroffen. (festes FVG: eine Entscheidung treffen, nicht machen)
+      2. Der Umsatz ist um zwölf Prozent gestiegen. (steigen bildet das Perfekt mit sein)
+      3. Ich möchte einen Rabatt von fünf Prozent. / Ich würde gern … (nicht würde + möchten stapeln)
+      4. Er sagte, der Gewinn sei gestiegen. (indirekte Rede → Konjunktiv I sei)
+      5. Im Werk werden 500 neue Stellen geschaffen. (Passiv braucht das Partizip II)
+      6. Das Werk wurde letztes Jahr geschlossen. (Präteritum Passiv: ein worden zu viel)
+      7. Der Preis spielt eine wichtige Rolle. (festes Nomen: eine Rolle spielen)
+      8. Das wäre für uns keine Option. (Konjunktiv-II-Form von sein ist wäre, nicht wäret)
+
+  - id: B3
+    block: B
+    type: matching
+    title: "Frage und Reaktion im Meeting verbinden"
+    instructions: "Ordne jeder Aussage (1–6) die passende Reaktion (a–f) zu."
+    left:
+      - { key: "1", text: "Ich würde vorschlagen, den Termin zu verschieben." }
+      - { key: "2", text: "Der Preis ist für uns zu hoch." }
+      - { key: "3", text: "Könnten Sie das genauer erläutern?" }
+      - { key: "4", text: "Wir sollten in neue Märkte investieren." }
+      - { key: "5", text: "Halten wir also fest, was wir beschlossen haben?" }
+      - { key: "6", text: "Gibt es dazu noch Fragen?" }
+    right:
+      - { key: a, text: "Gern. Ich erkläre es Ihnen anhand der Zahlen." }
+      - { key: b, text: "Wäre da noch ein bisschen Spielraum?" }
+      - { key: c, text: "Nein, vielen Dank, das war alles." }
+      - { key: d, text: "Ja: fünf Prozent Rabatt bei zwei Jahren Laufzeit." }
+      - { key: e, text: "Dem kann ich nur zustimmen, der Termin passt sonst nicht." }
+      - { key: f, text: "Das ist ein berechtigter Einwand, dennoch sehe ich ein Risiko." }
+    answers:
+      "1": e
+      "2": b
+      "3": a
+      "4": f
+      "5": d
+      "6": c
+
+  - id: B4
+    block: B
+    type: free-write
+    title: "Höflich widersprechen"
+    prompt: 'Widersprich jeder Aussage höflich nach dem Muster „erst zustimmen, dann eigener Punkt“ (Da haben Sie recht, allerdings …). Schreib je einen Satz.'
+    stimulus: |
+      1. „Wir sollten den Preis sofort senken."
+      2. „Der neue Kunde ist nicht wichtig."
+      3. „Wir brauchen keine längere Vertragslaufzeit."
+      4. „Die Kosten spielen keine Rolle."
+    model: |
+      1. Da haben Sie recht, der Preis ist ein Argument. Allerdings würde ich vorschlagen, ihn nur bei längerer Laufzeit zu senken.
+      2. Das ist ein berechtigter Einwand, dennoch sehe ich beim neuen Kunden ein großes Potenzial.
+      3. Im Prinzip ja, allerdings gibt eine längere Laufzeit uns mehr Planungssicherheit.
+      4. Da ist etwas dran, aber gerade bei diesem Projekt spielen die Kosten eine zentrale Rolle.
+
+  - id: B5
+    block: B
+    type: free-write
+    title: "Berichtssätze bilden (Nominalstil + FVG)"
+    prompt: "Wandle jeden gesprochenen Satz in einen Berichtssatz um (Nominalstil oder Funktionsverbgefüge)."
+    stimulus: |
+      1. Der Umsatz ist stark gestiegen.
+      2. Die Kosten sind gesunken.
+      3. Wir haben entschieden, zu investieren.
+      4. Ich beziehe mich auf den letzten Bericht.
+      5. Der Preis ist sehr wichtig.
+      6. Wir berücksichtigen das neue Angebot.
+    model: |
+      1. Der Anstieg des Umsatzes war deutlich.
+      2. Der Rückgang der Kosten beträgt fünf Prozent.
+      3. Wir haben die Entscheidung getroffen, zu investieren.
+      4. Ich nehme Bezug auf den letzten Bericht.
+      5. Der Preis spielt eine zentrale Rolle.
+      6. Wir ziehen das neue Angebot in Betracht.
+
+  - id: B6
+    block: B
+    type: free-write
+    title: "Wirtschaftsnachricht indirekt wiedergeben"
+    prompt: "Gib jede direkte Aussage indirekt wieder (Konjunktiv I). Beginne mit dem vorgegebenen Einleitungssatz."
+    stimulus: |
+      1. Der Konzern: „Wir haben einen Rekordgewinn erzielt." → Der Konzern teilte mit, …
+      2. Die Firma: „Wir schaffen 1000 neue Stellen." → Die Firma erklärte, …
+      3. Die Gewerkschaft: „Die Löhne sind zu niedrig." → Die Gewerkschaft sagte, …
+      4. Der Sprecher: „Das Werk muss geschlossen werden." → Der Sprecher betonte, …
+    model: |
+      1. Der Konzern teilte mit, er habe einen Rekordgewinn erzielt.
+      2. Die Firma erklärte, sie werde 1000 neue Stellen schaffen. (auch: man werde …)
+      3. Die Gewerkschaft sagte, die Löhne seien zu niedrig.
+      4. Der Sprecher betonte, das Werk müsse geschlossen werden.
+
+  - id: B7
+    block: B
+    type: order
+    title: "Satzbau: Vorschläge und Verhandlung"
+    prompt: "Bring die Wörter in die richtige Reihenfolge. Achte auf die Verbstellung im Nebensatz."
+    stimulus: |
+      1. ich / würde / vorschlagen / dass / wir / den / Termin / verschieben
+      2. könnten / Sie / uns / beim / Preis / entgegenkommen
+      3. das / wäre / nur / möglich / wenn / Sie / länger / unterschreiben
+      4. wir / haben / die / Entscheidung / getroffen / zu / investieren
+    items:
+      - tiles: [ich, würde, vorschlagen, dass, wir, den, Termin, verschieben]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Ich würde vorschlagen, dass wir den Termin verschieben."
+      - tiles: [Könnten, Sie, uns, beim, Preis, entgegenkommen]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Könnten Sie uns beim Preis entgegenkommen?"
+      - tiles: [das, wäre, nur, möglich, wenn, Sie, länger, unterschreiben]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Das wäre nur möglich, wenn Sie länger unterschreiben."
+      - tiles: [wir, haben, die, Entscheidung, getroffen, zu, investieren]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Wir haben die Entscheidung getroffen, zu investieren."
+
+  - id: B8
+    block: B
+    type: odd-one-out
+    title: "Wortschatz: Was passt nicht?"
+    instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    groups:
+      - items: [Umsatz, Gewinn, Verlust, Bewerbung]
+        odd: 3
+        why: "Bewerbung gehört zum Bereich Job/Einstellung; die anderen drei sind finanzielle Kennzahlen."
+      - items: [Vorschlag, Einwand, Zustimmung, Rabatt]
+        odd: 3
+        why: "Rabatt ist ein Preisnachlass; die anderen drei sind Beiträge in einer Besprechung."
+      - items: [Abteilung, Führungskraft, Kollege, Konjunktur]
+        odd: 3
+        why: "Konjunktur ist die gesamtwirtschaftliche Lage; die anderen drei gehören zur Firma/zum Personal."
+      - items: [steigen, wachsen, zunehmen, sinken]
+        odd: 3
+        why: "sinken bedeutet weniger werden; die anderen drei bedeuten mehr werden."
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Schreiben: Kurze interne E-Mail mit Bericht"
+    prompt: 'Schreib eine kurze interne E-Mail (5–6 Sätze) an deine Vorgesetzte, in der du die Quartalszahlen deiner Abteilung berichtest. Stimulus unten.'
+    stimulus: |
+      Eine Kollegin schickt dir per Chat die Rohdaten:
+      „Umsatz +12 % gegenüber Vorquartal. Gewinn nur +4 %, weil die Materialkosten
+      stark gestiegen sind. Marktanteil stabil. Vorschlag: längeren Kunden Rabatt geben."
+    use:
+      - "mindestens 2 Sätze über Zahlen (steigen / sinken / konstant bleiben)"
+      - "mindestens 1 Funktionsverbgefüge (eine Entscheidung treffen / Bezug nehmen auf / in Betracht ziehen)"
+      - "1 Vorschlag im Konjunktiv II (Ich würde vorschlagen, dass … / Man könnte …)"
+      - "eine formelle Anrede und Grußformel (Sehr geehrte Frau …, Mit freundlichen Grüßen)"
+    selfCheck:
+      - "Steht das Verb am Ende der Nebensätze (dass, wenn, weil)?"
+      - "Habe ich für Zahlen-Verben das richtige Perfekt-Hilfsverb benutzt (steigen → ist gestiegen)?"
+      - 'Ist der Stil durchgehend formell (kein „Hallo“, kein „Tschüss“)?'
+    model: |
+      Sehr geehrte Frau Yilmaz,
+      ich möchte Ihnen kurz die Zahlen unserer Abteilung für das dritte Quartal mitteilen.
+      Der Umsatz ist gegenüber dem Vorquartal um zwölf Prozent gestiegen. Der Gewinn ist
+      jedoch nur um vier Prozent gewachsen, da die Materialkosten stark zugenommen haben.
+      Der Marktanteil ist stabil geblieben. Ich würde vorschlagen, dass wir in Betracht
+      ziehen, ausgewählten Großkunden bei längerer Laufzeit einen moderaten Rabatt
+      anzubieten. Für Rückfragen stehe ich Ihnen gern zur Verfügung.
+      Mit freundlichen Grüßen
+      Anna Kowalski
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext: Quartalsbericht"
+    instructions: "Fülle jede Lücke mit einem Wort. 10 Items."
+    text: |
+      Im dritten Quartal hat sich die Geschäftsentwicklung positiv (1) {1}. Der
+      Umsatz ist im (2) {2} zum Vorquartal um zwölf Prozent (3) {3}. Dieser
+      Anstieg ist vor allem (4) {4} die gestiegene Nachfrage zurückzuführen.
+      Beim Gewinn (5) {5} die Entwicklung verhaltener aus, weil auch die (6) {6}
+      gestiegen sind. Die Geschäftsführung hat daher die (7) {7} getroffen, die
+      Lieferkette zu überprüfen. Der Wettbewerb hat sich (8) {8}. Unser
+      Marktanteil ist dennoch stabil (9) {9}. Insgesamt lässt sich (10) {10},
+      dass die Abteilung gut aufgestellt ist.
+    answers:
+      "1": gestaltet
+      "2": Vergleich
+      "3": gewachsen
+      "4": auf
+      "5": fällt
+      "6": Kosten
+      "7": Entscheidung
+      "8": verschärft
+      "9": geblieben
+      "10": festhalten
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    items:
+      - q: "Ich (1) ____ vorschlagen, dass wir den Termin verschieben."
+        options:
+          - { key: a, text: "werde" }
+          - { key: b, text: "würde" }
+          - { key: c, text: "wäre" }
+        answer: b
+        why: "Höflicher Vorschlag mit der würde-Form: Ich würde vorschlagen, dass …"
+      - q: "Der Umsatz (2) ____ um zwölf Prozent gestiegen."
+        options:
+          - { key: a, text: "hat" }
+          - { key: b, text: "ist" }
+          - { key: c, text: "wird" }
+        answer: b
+        why: "steigen bildet das Perfekt mit sein: ist gestiegen."
+      - q: "Wir haben eine Entscheidung (3) ____."
+        options:
+          - { key: a, text: "gemacht" }
+          - { key: b, text: "getroffen" }
+          - { key: c, text: "genommen" }
+        answer: b
+        why: "Festes Funktionsverbgefüge: eine Entscheidung treffen."
+      - q: "Im Werk (4) ____ 500 neue Stellen geschaffen."
+        options:
+          - { key: a, text: "werden" }
+          - { key: b, text: "haben" }
+          - { key: c, text: "sind" }
+        answer: a
+        why: "Präsens Passiv: werden + Partizip II (geschaffen)."
+      - q: "Die Firma erklärte, der Gewinn (5) ____ sich verdoppelt."
+        options:
+          - { key: a, text: "hat" }
+          - { key: b, text: "habe" }
+          - { key: c, text: "hätte" }
+        answer: b
+        why: "Indirekte Rede → Konjunktiv I: habe (sich verdoppelt)."
+      - q: "(6) ____ Sie uns beim Preis entgegenkommen?"
+        options:
+          - { key: a, text: "Können" }
+          - { key: b, text: "Könnten" }
+          - { key: c, text: "Konnten" }
+        answer: b
+        why: "Höfliche Bitte → Konjunktiv II: Könnten Sie …?"
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (Wörterkasten)"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort passt nur einmal."
+    bankCase: upper
+    bankSort: true
+    text: |
+      Anna berichtet aus dem Meeting: „Wir haben heute über das neue Angebot
+      (1) {1}. Ich habe einen (2) {2} gemacht: fünf Prozent Rabatt bei längerer
+      (3) {3}. Frau Yilmaz hatte zuerst einen (4) {4}, weil ein Rabatt den
+      (5) {5} verringert. Aber ich konnte zeigen, dass der Gewinn bei höherer
+      (6) {6} stabil bleibt. Schließlich haben wir eine (7) {7} getroffen.
+      Die Zahlen stelle ich der Geschäftsführung bis Freitag zur (8) {8}.
+      Insgesamt war das Meeting ein (9) {9}. Den Vertrag wollen wir nächste
+      Woche (10) {10}."
+    bank: [VERHANDELT, VORSCHLAG, VERTRAGSLAUFZEIT, EINWAND, GEWINN, NACHFRAGE, ENTSCHEIDUNG, VERFÜGUNG, ERFOLG, UNTERSCHREIBEN, KÜNDIGUNG, VERLUST, ABTEILUNG, RABATT, BEWERBUNG]
+    answers:
+      "1": VERHANDELT
+      "2": VORSCHLAG
+      "3": VERTRAGSLAUFZEIT
+      "4": EINWAND
+      "5": GEWINN
+      "6": NACHFRAGE
+      "7": ENTSCHEIDUNG
+      "8": VERFÜGUNG
+      "9": ERFOLG
+      "10": UNTERSCHREIBEN
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Quartalsbericht)"
+    instructions: "Lies den Lesetext in lesson.md, Abschnitt 7. Richtig (R) oder falsch (F)?"
+    items:
+      - q: "Der Umsatz ist im Vergleich zum Vorquartal um zwölf Prozent gewachsen."
+        answer: true
+        why: '„Der Umsatz ist im Vergleich zum Vorquartal um zwölf Prozent gewachsen."'
+      - q: "Der Gewinn ist genauso stark gestiegen wie der Umsatz."
+        answer: false
+        why: '„ist der Gewinn nur um vier Prozent gestiegen" — wegen der höheren Kosten.'
+      - q: "Der Marktanteil ist gesunken."
+        answer: false
+        why: '„Unser Marktanteil ist dennoch stabil geblieben."'
+      - q: "Die Geschäftsführung will die Lieferkette überprüfen."
+        answer: true
+        why: '„die Entscheidung getroffen, im kommenden Quartal die Lieferkette zu überprüfen".'
+      - q: "Für das vierte Quartal wird ein Rabatt für Großkunden bei längerer Laufzeit vorgeschlagen."
+        answer: true
+        why: '„ausgewählten Großkunden bei längerer Vertragslaufzeit einen moderaten Rabatt anzubieten".'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (neue Wirtschaftsnachricht)"
+    instructions: |
+      Lies den folgenden Zeitungstext und wähle a, b oder c.
+
+      > **Solartechnik-Firma SunPlus meldet Rekordquartal.** Das Unternehmen
+      > SunPlus aus Freiburg hat heute mitgeteilt, der Umsatz sei im letzten
+      > Quartal um 20 Prozent gestiegen. Grund sei die hohe Nachfrage nach
+      > Solaranlagen. Trotz des Wachstums bleibe der Gewinn jedoch unter den
+      > Erwartungen, da die Rohstoffpreise stark gestiegen seien. Das Unternehmen
+      > kündigte an, im nächsten Jahr 300 neue Stellen zu schaffen und ein zweites
+      > Werk zu eröffnen. Die Geschäftsführung betonte, man wolle die Position auf
+      > dem europäischen Markt weiter ausbauen.
+    items:
+      - q: "Wie hat sich der Umsatz von SunPlus entwickelt?"
+        options:
+          - { key: a, text: "Er ist um 20 Prozent gestiegen." }
+          - { key: b, text: "Er ist um 20 Prozent gesunken." }
+          - { key: c, text: "Er ist gleich geblieben." }
+        answer: a
+        why: '„der Umsatz sei im letzten Quartal um 20 Prozent gestiegen".'
+      - q: "Warum bleibt der Gewinn unter den Erwartungen?"
+        options:
+          - { key: a, text: "Weil die Nachfrage gesunken ist." }
+          - { key: b, text: "Weil die Rohstoffpreise stark gestiegen sind." }
+          - { key: c, text: "Weil das Werk geschlossen wurde." }
+        answer: b
+        why: '„da die Rohstoffpreise stark gestiegen seien".'
+      - q: "Was plant das Unternehmen für das nächste Jahr?"
+        options:
+          - { key: a, text: "300 Stellen abbauen." }
+          - { key: b, text: "300 neue Stellen schaffen und ein zweites Werk eröffnen." }
+          - { key: c, text: "Die Produktion einstellen." }
+        answer: b
+        why: '„im nächsten Jahr 300 neue Stellen zu schaffen und ein zweites Werk zu eröffnen".'
+      - q: "Was ist das Ziel der Geschäftsführung?"
+        options:
+          - { key: a, text: "Den europäischen Markt verlassen." }
+          - { key: b, text: "Die Preise senken." }
+          - { key: c, text: "Die Position auf dem europäischen Markt ausbauen." }
+        answer: c
+        why: '„man wolle die Position auf dem europäischen Markt weiter ausbauen".'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Ein kurzer Geschäftsbericht"
+    prompt: "Schreib einen kurzen Bericht (8–10 Sätze) über die Geschäftsentwicklung einer (erfundenen) Abteilung im letzten Quartal. Nutze Berichtsstil (Nominalstil + Funktionsverbgefüge)."
+    use:
+      - "mindestens 3 Sätze über Zahlen (Umsatz, Gewinn, Kosten, Nachfrage — steigen/sinken/stabil)"
+      - "mindestens 2 Funktionsverbgefüge (eine Entscheidung treffen / Bezug nehmen auf / in Betracht ziehen / eine Rolle spielen)"
+      - "mindestens 1 Nominalstil-Ausdruck (der Anstieg / der Rückgang des …)"
+      - "einen Vorschlag für das nächste Quartal (Wir sollten … in Betracht ziehen / Ich würde vorschlagen, …)"
+      - "einen Fazitsatz (Insgesamt lässt sich festhalten, dass …)"
+    selfCheck:
+      - "Steht das Verb am Ende der Nebensätze (dass, weil, da)?"
+      - "Habe ich für die Zahlen-Verben das richtige Hilfsverb (steigen → ist gestiegen)?"
+      - "Ist der Stil durchgehend sachlich und formell?"
+      - "Habe ich mindestens zwei Funktionsverbgefüge benutzt?"
+    model: |
+      Im letzten Quartal hat sich die Geschäftsentwicklung unserer Abteilung positiv
+      gestaltet. Der Umsatz ist im Vergleich zum Vorquartal um zehn Prozent gestiegen.
+      Dieser Anstieg ist vor allem auf die gestiegene Nachfrage zurückzuführen. Der
+      Gewinn ist jedoch nur leicht gewachsen, da die Kosten ebenfalls zugenommen haben.
+      Der Wettbewerb spielt weiterhin eine große Rolle. Die Geschäftsführung hat die
+      Entscheidung getroffen, in neue Märkte zu investieren. Für das nächste Quartal
+      würde ich vorschlagen, dass wir eine Preisstrategie für Großkunden in Betracht
+      ziehen. Insgesamt lässt sich festhalten, dass die Abteilung gut aufgestellt ist,
+      aber die Kostenentwicklung im Auge behalten muss.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "Eine Minute pro Item, keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 15 Items."
+    text: |
+      1. Artikel: ___ Umsatz → {1}
+      2. Artikel: ___ Bewerbung → {2}
+      3. Funktionsverbgefüge zu „entscheiden": eine Entscheidung {3}
+      4. Funktionsverbgefüge zu „fragen": eine Frage {4}
+      5. Konjunktiv II von sein (er/sie/es): {5}
+      6. Konjunktiv II von können (Sie): {6}
+      7. Passiv Präsens: „500 Stellen {7} geschaffen." (werden + Partizip)
+      8. Indirekte Rede: „Der Umsatz ist gestiegen." → Er sagte, der Umsatz {8} gestiegen.
+      9. Nominalstil: steigen → der {9}
+      10. Nominalstil: sinken → der {10}
+      11. (B2/08) FVG zu „sich beziehen auf": {11} nehmen auf
+      12. (B2/01) Nominalstil: entscheiden → die {12}
+      13. (B1/04) Passiv Präteritum: „Das Werk {13} geschlossen."
+      14. (B2/04) Konjunktiv I von haben (er/sie/es): {14}
+      15. (A2/09) Konjunktiv II von haben (ich): {15}
+    answers:
+      "1": der
+      "2": die
+      "3": treffen
+      "4": stellen
+      "5": wäre
+      "6": Könnten
+      "7": werden
+      "8": sei
+      "9": Anstieg
+      "10": Rückgang
+      "11": Bezug
+      "12": Entscheidung
+      "13": wurde
+      "14": habe
+      "15": hätte
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Streiche das Wort, das nicht passt, und erkläre warum. 6 Gruppen."
+    groups:
+      - items: [Umsatz, Gewinn, Verlust, Kündigung]
+        odd: 3
+        why: "Kündigung gehört zum Arbeitsverhältnis; die anderen drei sind finanzielle Kennzahlen."
+      - items: [Bewerbung, Lebenslauf, Vorstellungsgespräch, Nachfrage]
+        odd: 3
+        why: "Nachfrage ist ein Marktbegriff; die anderen drei gehören zur Bewerbung um eine Stelle."
+      - items: [zustimmen, widersprechen, vorschlagen, kündigen]
+        odd: 3
+        why: "kündigen beendet ein Verhältnis; die anderen drei sind Redehandlungen in einer Besprechung."
+      - items: [wäre, hätte, könnte, war]
+        odd: 3
+        why: "war ist Indikativ (Präteritum); die anderen drei sind Konjunktiv-II-Formen."
+      - items: [steigen, wachsen, zunehmen, zurückgehen]
+        odd: 3
+        why: "zurückgehen bedeutet weniger werden; die anderen drei bedeuten mehr werden."
+      - items: [sei, habe, werde, ist]
+        odd: 3
+        why: "ist ist Indikativ; die anderen drei sind Konjunktiv-I-Formen (indirekte Rede)."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: B2/08, B2/01, B1/04, B2/04"
+    instructions: "Wiederholung früherer Lektionen. 10 Items."
+    text: |
+      **Aus B2/08 (Funktionsverbgefüge):**
+      1. Ich möchte Kritik {1} dem Plan üben. (feste Präposition + Dat.)
+      2. Wir sollten das Angebot in {2} ziehen. (= berücksichtigen)
+      3. Für Rückfragen stehe ich Ihnen zur {3}.
+
+      **Aus B2/01 (Nominalstil):**
+      4. Die Kosten sind gestiegen. → der {4} der Kosten
+      5. Das Unternehmen hat sich entwickelt. → die {5} des Unternehmens
+
+      **Aus B1/04 (Passiv):**
+      6. „Die Preise {6} erhöht." (Präsens Passiv, Plural)
+      7. „Der Vertrag {7} gestern unterschrieben." (Präteritum Passiv)
+
+      **Aus B2/04 (Indirekte Rede):**
+      8. „Wir schaffen neue Stellen." → Er sagte, man {8} neue Stellen schaffen.
+      9. „Die Löhne sind zu niedrig." → Sie sagten, die Löhne {9} zu niedrig.
+      10. „Das stimmt." → Er behauptete, das {10} richtig. (Konjunktiv I von sein)
+    answers:
+      "1": "an"
+      "2": Betracht
+      "3": Verfügung
+      "4": Anstieg
+      "5": Entwicklung
+      "6": werden
+      "7": wurde
+      "8": werde
+      "9": seien
+      "10": sei
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (bewerte dich /20)"
+    notes: "16+ / 20 → Lektion B2/12. Unter 16 → wiederhole Block A (A3–A10) und B2 (Finde den Fehler) morgen, dann teste D4 erneut."
+    text: |
+      **Redemittel Besprechung:**
+      1. Höflicher Vorschlag: „Ich {1} vorschlagen, dass wir warten." (würde / werde)
+      2. Höflicher Widerspruch: „Das sehe ich etwas {2}." (anders)
+
+      **Verhandeln (Konjunktiv II):**
+      3. „{3} (sein) da noch ein bisschen Spielraum?"
+      4. „{4} (können) Sie uns entgegenkommen?"
+      5. „Eine Frage {5} (haben) ich noch."
+
+      **Zahlen / Bericht:**
+      6. „Der Umsatz {6} (sein/haben) um 12 % gestiegen." (richtiges Hilfsverb)
+      7. Nominalstil: sinken → der {7}
+      8. FVG: „Wir haben eine Entscheidung {8}." (= getroffen)
+
+      **Passiv (B1/04):**
+      9. „500 Stellen {9} geschaffen." (Präsens Passiv, werden + Partizip)
+      10. „Das Werk {10} geschlossen." (Präteritum Passiv, Singular)
+
+      **Indirekte Rede (B2/04):**
+      11. „Der Gewinn ist gestiegen." → Er sagte, der Gewinn {11} gestiegen.
+      12. „Wir können nicht zahlen." → Sie betonten, sie {12} nicht zahlen.
+
+      **Wortschatz:**
+      13. Artikel: ___ Gehalt → {13}
+      14. Artikel: ___ Vertrag → {14}
+      15. Gegenteil von „Gewinn" → der {15}
+
+      **Übersetzen / Bilden:**
+      16. „supply and demand" → {16}
+      17. (B2/08) FVG zu „kritisieren" → {17} üben
+      18. (A2/09) Konjunktiv II von werden (ich) → {18}
+      19. Fazitsatz beginnen: „Insgesamt lässt sich {19}, dass …"
+      20. Höfliche Bitte um Unterlagen: „Könnten Sie mir die Zahlen zur {20} stellen?"
+    answers:
+      "1": würde
+      "2": anders
+      "3": Wäre
+      "4": Könnten
+      "5": hätte
+      "6": ist
+      "7": Rückgang
+      "8": getroffen
+      "9": werden
+      "10": wurde
+      "11": sei
+      "12": könnten
+      "13": das
+      "14": der
+      "15": Verlust
+      "16": "Angebot und Nachfrage"
+      "17": Kritik
+      "18": würde
+      "19": festhalten
+      "20": Verfügung

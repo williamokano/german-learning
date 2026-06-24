@@ -1,0 +1,941 @@
+lesson: B2/09
+title: "B2 · Lektion 9 — Übungen (Wortbildung)"
+intro: >
+  Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Die Lösungen findest du in solutions.md.
+  Tipp: Verteil die Blöcke über mehrere Tage — H und A am Tag 1, B am Tag 2,
+  C am Tag 3, D am Tag 4 nach einer Pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: 'Anna versteht das Wort „unverwüstlich“ zuerst nicht.'
+        answer: true
+        why: 'Anna: „Was bedeutet ‚unverwüstlich‘? Das steht in keinem meiner Wörterbücher".'
+      - q: "Bruno rät Anna, das Wort in seine Bausteine zu zerlegen."
+        answer: true
+        why: 'Bruno: „Dann zerleg es doch einfach. Nimm das Wort auseinander".'
+      - q: 'Laut Bruno bedeutet das Präfix „ver-“ oft „falsch“ oder „kaputt“.'
+        answer: true
+        why: 'Bruno: „‚ver-‘ zum Beispiel bedeutet oft ‚falsch‘ oder ‚kaputt‘".'
+      - q: "Bruno sagt, man solle lange Wörter von vorne lesen."
+        answer: false
+        why: 'Bruno: „Lies von hinten. Das letzte Wort ist das wichtigste, das Grundwort".'
+      - q: "Das Grundwort bestimmt laut Bruno den Artikel des ganzen Wortes."
+        answer: true
+        why: 'Bruno: „Das Grundwort gewinnt immer" — es liefert den Artikel.'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    optionLayout: block
+    items:
+      - q: 'Warum schreibt Herr Steinmeyer lieber „Zusammenarbeit“ als „Kooperation“?'
+        options:
+          - { key: a, text: "Weil es kürzer ist." }
+          - { key: b, text: "Weil es deutscher und klarer wirkt." }
+          - { key: c, text: "Weil es ein Fugenelement hat." }
+        answer: b
+        why: 'Herr Steinmeyer: „‚die Zusammenarbeit‘ ist mir lieber als ‚die Kooperation‘. Das wirkt deutscher und klarer".'
+      - q: 'Wie ist das Wort „die Unzuverlässigkeit“ aufgebaut?'
+        options:
+          - { key: a, text: "verlassen → zuverlässig → die Zuverlässigkeit → un-." }
+          - { key: b, text: "Es ist ein Kompositum aus zwei Nomen." }
+          - { key: c, text: "Es hat gar keine Bausteine." }
+        answer: a
+        why: 'Herr Steinmeyer: „‚verlassen‘ wird zu ‚zuverlässig‘, daraus ‚die Zuverlässigkeit‘ mit ‚-keit‘, und ‚un-‘ dreht die Bedeutung um".'
+      - q: 'Welches Genus haben laut den beiden alle Wörter auf „-heit“ und „-keit“?'
+        options:
+          - { key: a, text: "Maskulin (der)." }
+          - { key: b, text: "Neutral (das)." }
+          - { key: c, text: "Feminin (die)." }
+        answer: c
+        why: 'Frau Yilmaz: „alle Wörter auf ‚-heit‘ und ‚-keit‘ sind feminin".'
+      - q: 'Was ist das „s“ in „die Mannschaftsleistung“?'
+        options:
+          - { key: a, text: "Ein Fugenelement, das das Wort leichter aussprechbar macht." }
+          - { key: b, text: "Ein Tippfehler." }
+          - { key: c, text: "Ein Präfix." }
+        answer: a
+        why: 'Herr Steinmeyer: „das ist ein Fugenelement. … Das ‚s‘ macht das Wort nur leichter aussprechbar".'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext: Durchsage in der Sprachschule"
+    audio: hoertext.mp3
+    instructions: "Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel."
+    text: |
+      Achtung, eine Durchsage für alle Kursteilnehmer im zweiten Stock. Heute Nachmittag
+      findet ein {1} zur Wortbildung statt. In diesem Workshop lernen Sie, wie Sie unbekannte
+      Wörter durch ihre {2} erschließen. Wir behandeln zuerst die wichtigsten {3}, danach die
+      Endungen und schließlich die {4} langer Wörter. Die Teilnahme ist {5}, eine vorherige
+      {6} ist jedoch erforderlich.
+    bank: [Sonderworkshop, Bausteine, Vorsilben, Zusammensetzung, kostenlos, Anmeldung, Kontrolle, sinnlos, Bedeutung]
+    answers:
+      "1": Sonderworkshop
+      "2": Bausteine
+      "3": Vorsilben
+      "4": Zusammensetzung
+      "5": kostenlos
+      "6": Anmeldung
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Anrufbeantworter der Sprachschule"
+    audio: transcript_ansage1.mp3
+    optionLayout: block
+    instructions: "Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    transcript: 'Guten Tag, hier ist der Anrufbeantworter der Sprachschule Lingua. Sie hören diese Nachricht, weil unser Sekretariat heute geschlossen ist. Der angekündigte Workshop zur Wortbildung muss leider verschoben werden. Der neue Termin ist nächsten Montag um vierzehn Uhr im Raum zwölf. Die Teilnahme bleibt kostenlos, aber die Anmeldung ist weiterhin erforderlich. Bitte rufen Sie morgen zwischen neun und zwölf Uhr zurück, um sich anzumelden. Vielen Dank und auf Wiederhören.'
+    items:
+      - q: "Warum hört man diese Nachricht?"
+        options:
+          - { key: a, text: "Weil das Sekretariat heute geschlossen ist." }
+          - { key: b, text: "Weil der Workshop ausfällt und nie stattfindet." }
+          - { key: c, text: "Weil die Sprachschule umgezogen ist." }
+        answer: a
+        why: '„Sie hören diese Nachricht, weil unser Sekretariat heute geschlossen ist".'
+      - q: "Was passiert mit dem Workshop zur Wortbildung?"
+        options:
+          - { key: a, text: "Er wird abgesagt." }
+          - { key: b, text: "Er wird auf nächsten Montag verschoben." }
+          - { key: c, text: "Er findet wie geplant heute statt." }
+        answer: b
+        why: '„Der neue Termin ist nächsten Montag um vierzehn Uhr im Raum zwölf".'
+      - q: "Was gilt weiterhin für die Teilnahme?"
+        options:
+          - { key: a, text: "Sie kostet jetzt Geld." }
+          - { key: b, text: "Sie ist kostenlos, aber eine Anmeldung ist nötig." }
+          - { key: c, text: "Man braucht keine Anmeldung mehr." }
+        answer: b
+        why: '„Die Teilnahme bleibt kostenlos, aber die Anmeldung ist weiterhin erforderlich".'
+      - q: "Was soll man tun, um sich anzumelden?"
+        options:
+          - { key: a, text: "Eine E-Mail schreiben." }
+          - { key: b, text: "Morgen zwischen neun und zwölf Uhr zurückrufen." }
+          - { key: c, text: "Heute Nachmittag vorbeikommen." }
+        answer: b
+        why: '„Bitte rufen Sie morgen zwischen neun und zwölf Uhr zurück, um sich anzumelden".'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Präfix-Bedeutung erkennen"
+    instructions: "Setz das passende Präfix ein (ver-, zer-, ent-, miss-, be-, er-). 8 Items."
+    text: |
+      1. Das Glas ist gefallen und {1}brochen. (kaputt → in Stücke)
+      2. Bitte {2}fernen Sie das alte Plakat von der Wand. (weg)
+      3. Ich habe dich wohl {3}verstanden. (falsch)
+      4. Kannst du bitte meine Frage {4}antworten? (macht transitiv)
+      5. Wir haben uns im Wald {5}laufen. (sich verirren)
+      6. Sie {6}traut dem neuen Kollegen. (negativ)
+      7. Ich habe mir dieses Wissen selbst {7}arbeitet. (Ergebnis durch Mühe)
+      8. Er hat den Brief wütend {8}rissen. (in Stücke)
+    answers:
+      "1": zer
+      "2": ent
+      "3": miss
+      "4": be
+      "5": ver
+      "6": miss
+      "7": er
+      "8": zer
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Präfix und Bedeutung verbinden"
+    instructions: "Ordne jedem Präfix (1–6) seine typische Bedeutung (a–f) zu."
+    left:
+      - { key: "1", text: "ver-" }
+      - { key: "2", text: "zer-" }
+      - { key: "3", text: "ent-" }
+      - { key: "4", text: "miss-" }
+      - { key: "5", text: "be-" }
+      - { key: "6", text: "er-" }
+    right:
+      - { key: a, text: "in Stücke, kaputt" }
+      - { key: b, text: "weg / Gegenteil" }
+      - { key: c, text: "falsch / negativ" }
+      - { key: d, text: "macht ein Verb transitiv" }
+      - { key: e, text: "Ergebnis / Beginn" }
+      - { key: f, text: "falsch / weg / Veränderung" }
+    answers:
+      "1": f
+      "2": a
+      "3": b
+      "4": c
+      "5": d
+      "6": e
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Nomen-Suffixe: das richtige Genus"
+    instructions: "Setz den richtigen Artikel ein (der, die oder das). 8 Items."
+    text: |
+      1. {1} Freiheit (-heit)
+      2. {2} Möglichkeit (-keit)
+      3. {3} Freundschaft (-schaft)
+      4. {4} Eigentum (-tum)
+      5. {5} Lehrling (-ling)
+      6. {6} Hoffnung (-ung)
+      7. {7} Wachstum (-tum)
+      8. {8} Frühling (-ling)
+    answers:
+      "1": die
+      "2": die
+      "3": die
+      "4": das
+      "5": der
+      "6": die
+      "7": das
+      "8": der
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Nomen bilden: Adjektiv/Verb → Nomen"
+    instructions: "Bilde das Nomen mit dem passenden Suffix (-ung, -heit, -keit oder -schaft). Schreib das Nomen mit Artikel. 6 Items."
+    text: |
+      1. krank → {1}
+      2. schön → {2}
+      3. höflich → {3}
+      4. der Freund → {4}
+      5. bilden → {5}
+      6. möglich → {6}
+    answers:
+      "1": die Krankheit
+      "2": die Schönheit
+      "3": die Höflichkeit
+      "4": die Freundschaft
+      "5": die Bildung
+      "6": die Möglichkeit
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Adjektiv-Suffixe: -bar, -los, -voll"
+    instructions: "Setz das passende Suffix ein (-bar, -los oder -voll). 6 Items."
+    text: |
+      1. Man kann es essen. → ess{1}
+      2. Ohne Arbeit. → arbeits{2}
+      3. Mit viel Wert. → wert{3}
+      4. Man kann es lesen. → les{4}
+      5. Ohne Sinn. → sinn{5}
+      6. Mit viel Sinn. → sinn{6}
+    answers:
+      "1": bar
+      "2": los
+      "3": voll
+      "4": bar
+      "5": los
+      "6": voll
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Komposita: Genus des Grundworts"
+    instructions: "Setz den richtigen Artikel des ganzen Kompositums ein. Tipp: Das letzte Wort (Grundwort) bestimmt den Artikel. 6 Items."
+    text: |
+      1. {1} Sonnenschein (die Sonne + der Schein)
+      2. {2} Arbeitsplatz (die Arbeit + der Platz)
+      3. {3} Kindergarten (das Kind + der Garten)
+      4. {4} Mannschaftsleistung (die Mannschaft + die Leistung)
+      5. {5} Familienfest (die Familie + das Fest)
+      6. {6} Haustür (das Haus + die Tür)
+    answers:
+      "1": der
+      "2": der
+      "3": der
+      "4": die
+      "5": das
+      "6": die
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Fugenelemente einsetzen"
+    instructions: "Setz das richtige Fugenelement ein (-s-, -n-, -er- oder -es-). 6 Items."
+    text: |
+      1. die Arbeit + der Platz → der Arbeit{1}platz
+      2. die Sonne + der Schein → der Sonne{2}schein
+      3. das Kind + der Garten → der Kind{3}garten
+      4. die Mannschaft + die Leistung → die Mannschaft{4}leistung
+      5. die Familie + das Fest → das Familie{5}fest
+      6. das Meer + der Spiegel → der Meer{6}spiegel
+    answers:
+      "1": s
+      "2": n
+      "3": er
+      "4": s
+      "5": n
+      "6": es
+
+  - id: A8
+    block: A
+    type: matching
+    title: "Suffix und Genus verbinden"
+    instructions: "Ordne jedem Suffix (1–6) das richtige Genus (a–c) zu. Ein Genus passt zu mehreren Suffixen."
+    left:
+      - { key: "1", text: "-ung" }
+      - { key: "2", text: "-ling" }
+      - { key: "3", text: "-tum" }
+      - { key: "4", text: "-keit" }
+      - { key: "5", text: "-schaft" }
+      - { key: "6", text: "-heit" }
+    right:
+      - { key: a, text: "die (feminin)" }
+      - { key: b, text: "der (maskulin)" }
+      - { key: c, text: "das (neutral)" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": a
+      "5": a
+      "6": a
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Bedeutung aus dem Präfix erschließen"
+    instructions: "Erkläre die Bedeutung in einem Wort oder kurz. Tipp: Achte auf das Präfix. 6 Items."
+    text: |
+      1. „zerschneiden" — in {1} schneiden.
+      2. „entladen" — die Ladung {2}nehmen.
+      3. „missbrauchen" — etwas {3} benutzen.
+      4. „verbessern" — etwas {4} machen.
+      5. „beantworten" — auf eine Frage {5}.
+      6. „erreichen" — ein {6} schaffen.
+    answers:
+      "1": Stücke
+      "2": weg
+      "3": falsch
+      "4": besser
+      "5": antworten
+      "6": Ziel
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "-heit oder -keit?"
+    instructions: "Setz die richtige Endung ein. Tipp: Nach -ig, -lich, -bar steht meist -keit, sonst -heit. 6 Items."
+    text: |
+      1. frei → die Frei{1}
+      2. möglich → die Möglich{2}
+      3. krank → die Krank{3}
+      4. höflich → die Höflich{4}
+      5. schön → die Schön{5}
+      6. tätig → die Tätig{6}
+    answers:
+      "1": heit
+      "2": keit
+      "3": heit
+      "4": keit
+      "5": heit
+      "6": keit
+
+  - id: A11
+    block: A
+    type: order
+    title: "Kompositum von hinten zerlegen"
+    prompt: "Bring die Bausteine in die richtige Reihenfolge zum fertigen Kompositum (Bestimmungswort zuerst, Grundwort zuletzt)."
+    stimulus: |
+      Tipp: Das Grundwort steht hinten und bestimmt den Artikel.
+    items:
+      - tiles: [Wort, Schatz]
+        answer: [0, 1]
+        note: "Wortschatz"
+      - tiles: [Haus, Tür]
+        answer: [0, 1]
+        note: "Haustür"
+      - tiles: [Land, Karte]
+        answer: [0, 1]
+        note: "Landkarte"
+      - tiles: [Sonnen, brille]
+        answer: [0, 1]
+        note: "Sonnenbrille"
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Text ergänzen: Anna zerlegt ein Wort"
+    instructions: "Füll die 8 Lücken mit den passenden Wörtern aus dem Kasten. Zwei Wörter sind zu viel."
+    text: |
+      Anna las ein langes Wort und {1} es in seine Teile. In der Mitte fand sie den
+      {2} „wohnen". Das {3} „be-" machte daraus „bewohnen". Die {4} „-bar" bedeutete
+      „kann man tun". Das „un-" {5} die Bedeutung um. Und die Endung „-keit" machte
+      aus dem Adjektiv ein {6}, immer {7}. So verstand sie das Wort ganz ohne
+      {8}.
+    bank: [zerlegte, Stamm, Präfix, Endung, drehte, Nomen, feminin, Wörterbuch, Grundwort, maskulin]
+    answers:
+      "1": zerlegte
+      "2": Stamm
+      "3": Präfix
+      "4": Endung
+      "5": drehte
+      "6": Nomen
+      "7": feminin
+      "8": Wörterbuch
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Finde den Fehler"
+    prompt: 'Jeder Satz enthält genau einen Wortbildungsfehler (Genus, Präfix, Suffix oder Fugenelement). Finde ihn und schreib den Satz korrekt.'
+    stimulus: |
+      1. Die Sonnenschein war heute sehr stark.
+      2. Ich habe deine Frage geantwortet.
+      3. Das Kind ist sehr kindisch und unschuldig.
+      4. Er ist seit einem Jahr arbeitlos.
+      5. Das Eigentum gehört meiner Mutter. (korrekt?)
+      6. Wir gehen jeden Tag in den Kindgarten.
+      7. Das Glas hat gebrochen.
+      8. Die Lehrling lernt einen Beruf.
+    model: |
+      1. Der Sonnenschein war heute sehr stark. (Genus vom Grundwort „der Schein")
+      2. Ich habe deine Frage beantwortet. (be- macht transitiv: eine Frage beantworten)
+      3. Das Kind ist sehr kindlich und unschuldig. (-lich = unschuldig; kindisch = albern)
+      4. Er ist seit einem Jahr arbeitslos. (Fugen-s: Arbeit-s-los)
+      5. Das Eigentum gehört meiner Mutter. (korrekt — -tum ist neutral)
+      6. Wir gehen jeden Tag in den Kindergarten. (Fugenelement -er-: Kind-er-garten)
+      7. Das Glas ist zerbrochen. (zer- = in Stücke, mit sein)
+      8. Der Lehrling lernt einen Beruf. (-ling ist maskulin)
+
+  - id: B3
+    block: B
+    type: matching
+    title: "Kompositum und Grundwort-Genus"
+    instructions: "Ordne jedem Kompositum (1–6) den richtigen Artikel (a–c) zu. Tipp: Genus vom Grundwort."
+    left:
+      - { key: "1", text: "___ Arbeitsplatz (der Platz)" }
+      - { key: "2", text: "___ Haustür (die Tür)" }
+      - { key: "3", text: "___ Familienfest (das Fest)" }
+      - { key: "4", text: "___ Kindergarten (der Garten)" }
+      - { key: "5", text: "___ Mannschaftsleistung (die Leistung)" }
+      - { key: "6", text: "___ Tagebuch (das Buch)" }
+    right:
+      - { key: a, text: "der" }
+      - { key: b, text: "die" }
+      - { key: c, text: "das" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": a
+      "5": b
+      "6": c
+
+  - id: B4
+    block: B
+    type: free-write
+    title: "Wörter erschließen: Was bedeutet das?"
+    prompt: "Erschließe die Bedeutung der folgenden Wörter aus ihren Bausteinen und erkläre sie kurz auf Deutsch."
+    stimulus: |
+      1. unbezahlbar (un- + bezahlen + -bar)
+      2. hoffnungslos (die Hoffnung + -los)
+      3. die Unzuverlässigkeit (un- + zuverlässig + -keit)
+      4. zerstören (zer- + …)
+      5. die Krankenversicherung (krank + Versicherung)
+    model: |
+      1. unbezahlbar = man kann es nicht bezahlen (un- = nicht, -bar = kann man).
+      2. hoffnungslos = ohne Hoffnung (-los = ohne).
+      3. die Unzuverlässigkeit = die Eigenschaft, nicht zuverlässig zu sein (un- dreht um, -keit macht ein feminines Nomen).
+      4. zerstören = etwas völlig kaputtmachen (zer- = in Stücke / kaputt).
+      5. die Krankenversicherung = eine Versicherung für den Krankheitsfall; Grundwort „die Versicherung" → die.
+
+  - id: B5
+    block: B
+    type: odd-one-out
+    title: "Was passt nicht? (Wortbildung)"
+    instructions: "Streich das Wort durch, das nicht in die Gruppe passt, und erklär warum."
+    groups:
+      - items: [die Freiheit, die Krankheit, die Schönheit, der Reichtum]
+        odd: 3
+        why: "der Reichtum hat das Suffix -tum (maskuline Ausnahme); die anderen haben -heit und sind feminin."
+      - items: [zerbrechen, zerreißen, zerstören, beantworten]
+        odd: 3
+        why: "beantworten hat das Präfix be- (transitiv); die anderen haben zer- (kaputt/in Stücke)."
+      - items: [essbar, lesbar, machbar, sinnlos]
+        odd: 3
+        why: "sinnlos hat das Suffix -los (ohne); die anderen haben -bar (kann man tun)."
+      - items: [der Lehrling, der Frühling, der Flüchtling, die Wohnung]
+        odd: 3
+        why: "die Wohnung hat -ung (feminin); die anderen haben -ling (maskulin)."
+
+  - id: B6
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Präfix-Verben im Satz"
+    instructions: "Setz das passende Präfix-Verb in der richtigen Form ein. 6 Items."
+    text: |
+      1. Vorsicht, das Glas fällt gleich und {1}! (zerbrechen — Präsens, es …)
+      2. Bitte {2} Sie das alte Foto von der Wand. (entfernen — Sie-Imperativ)
+      3. Ich glaube, ich habe die Aufgabe {3}. (missverstehen — Perfekt-Partizip)
+      4. Hast du meine E-Mail schon {4}? (beantworten — Perfekt-Partizip)
+      5. Wir müssen den Lkw noch {5}. (entladen — Infinitiv)
+      6. Sie hat sich dieses Wissen selbst {6}. (sich erarbeiten — Perfekt-Partizip)
+    answers:
+      "1": zerbricht
+      "2": entfernen
+      "3": missverstanden
+      "4": beantwortet
+      "5": entladen
+      "6": erarbeitet
+
+  - id: B7
+    block: B
+    type: order
+    title: "Satzbau: Wortbildung erklären"
+    prompt: "Bring die Wörter in die richtige Reihenfolge zu einem korrekten Satz."
+    stimulus: |
+      Tipp: Achte auf die Verbposition.
+    items:
+      - tiles: [das, Grundwort, bestimmt, den, Artikel]
+        answer: [0, 1, 2, 3, 4]
+        note: "Das Grundwort bestimmt den Artikel."
+      - tiles: [alle, Wörter, auf, "-keit", sind, feminin]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Alle Wörter auf -keit sind feminin."
+      - tiles: [man, liest, lange, Wörter, von, hinten]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Man liest lange Wörter von hinten."
+      - tiles: [das, Präfix, "zer-", bedeutet, kaputt]
+        answer: [0, 1, 2, 3, 4]
+        note: "Das Präfix zer- bedeutet kaputt."
+
+  - id: B8
+    block: B
+    type: categorize
+    title: "Suffixe sortieren: Nomen oder Adjektiv?"
+    instructions: "Sortiere jedes Wort danach, ob das Suffix ein Nomen oder ein Adjektiv bildet."
+    buckets:
+      - { key: nomen, label: "Nomen-Suffix" }
+      - { key: adjektiv, label: "Adjektiv-Suffix" }
+    tokens:
+      - { text: "die Freiheit", bucket: nomen }
+      - { text: "essbar", bucket: adjektiv }
+      - { text: "die Möglichkeit", bucket: nomen }
+      - { text: "arbeitslos", bucket: adjektiv }
+      - { text: "die Freundschaft", bucket: nomen }
+      - { text: "wertvoll", bucket: adjektiv }
+      - { text: "der Lehrling", bucket: nomen }
+      - { text: "fehlerhaft", bucket: adjektiv }
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Forenbeitrag: Mein Trick beim Vokabellernen"
+    prompt: 'Schreib einen kurzen Forenbeitrag (5–6 Sätze) als Antwort auf den Beitrag unten. Erklär deinen eigenen Trick, wie du dir lange oder neue deutsche Wörter merkst oder erschließt.'
+    stimulus: |
+      **Forenbeitrag** von Lernfuchs88:
+      > Hallo zusammen! Ich verzweifle an den langen deutschen Wörtern. Jedes Mal,
+      > wenn ich einen Zeitungsartikel lese, schlage ich zwanzig Wörter nach und
+      > vergesse sie sofort wieder. Habt ihr einen Tipp, wie man das besser macht?
+    use:
+      - "mindestens 2 Sätze über das Zerlegen in Bausteine (Präfix, Stamm, Suffix)"
+      - 'mindestens 1 Satz über das Lesen von Komposita „von hinten“ (Grundwort)'
+      - "mindestens 1 selbst gebildetes Beispielwort mit seiner Bedeutung"
+      - "eine freundliche Schlussformel (Viele Grüße! / Viel Erfolg!)"
+    selfCheck:
+      - "Habe ich bei Nomen-Suffixen das richtige Genus benutzt (die Freiheit, der Lehrling, das Eigentum)?"
+      - "Steht das Verb in Hauptsätzen an Position 2?"
+      - "Habe ich mindestens ein konkretes Beispielwort mit Bedeutung genannt?"
+    model: |
+      Hallo Lernfuchs88! Mir ging es genauso, aber ein Trick hat alles verändert:
+      Ich schlage Wörter nicht mehr nach, sondern zerlege sie in ihre Bausteine.
+      Vorne steht oft ein Präfix, in der Mitte der Stamm, hinten ein Suffix. So
+      wird aus „un-bewohn-bar" sofort klar: „man kann nicht darin wohnen". Lange
+      zusammengesetzte Wörter lese ich von hinten — das letzte Wort, das Grundwort,
+      verrät Bedeutung und Artikel. „Die Sonneneinstrahlung" ist eine Einstrahlung,
+      also „die". Probier es aus, es spart enorm viel Zeit. Viele Grüße und viel Erfolg!
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext: Warum deutsche Wörter so lang werden dürfen"
+    instructions: "Füll jede Lücke mit einem Wort. 10 Items."
+    text: |
+      Wer Deutsch lernt, staunt zuerst über die langen Wörter. Doch dahinter steckt
+      kein Chaos, sondern ein klares (1) {1}. Das Deutsche darf beliebig viele Nomen
+      zu (2) {2} Wort zusammensetzen. Den Artikel und die Grundbedeutung liefert immer
+      das (3) {3} Wort, das (4) {4}. „Die Krankenversicherung" ist eine Versicherung —
+      also (5) {5} — und alles davor sagt nur, gegen (6) {6} sie versichert. Genauso
+      systematisch sind Vorsilben und Endungen. Aus „brauchen" wird mit der Vorsilbe
+      „miss-" das negative (7) {7}. Aus „frei" wird mit der Endung „-heit" das Nomen
+      die (8) {8}. Wer diese (9) {9} kennt, kann unbekannte Wörter (10) {10}, statt sie
+      nachzuschlagen.
+    answers:
+      "1": System
+      "2": einem
+      "3": letzte
+      "4": Grundwort
+      "5": die
+      "6": was
+      "7": missbrauchen
+      "8": Freiheit
+      "9": Bausteine
+      "10": zerlegen
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    items:
+      - q: "Das Glas ist auf den Boden gefallen und (1) ____."
+        options:
+          - { key: a, text: "gebrochen" }
+          - { key: b, text: "zerbrochen" }
+          - { key: c, text: "entbrochen" }
+        answer: b
+        why: 'zer- = in Stücke/kaputt; „zerbrochen“ ist das richtige Präfix-Partizip.'
+      - q: "Kannst du bitte meine Frage (2) ____?"
+        options:
+          - { key: a, text: "antworten" }
+          - { key: b, text: "beantworten" }
+          - { key: c, text: "verantworten" }
+        answer: b
+        why: "be- macht das Verb transitiv: eine Frage beantworten."
+      - q: "Alle Nomen auf -keit sind (3) ____."
+        options:
+          - { key: a, text: "maskulin" }
+          - { key: b, text: "neutral" }
+          - { key: c, text: "feminin" }
+        answer: c
+        why: "-keit ist immer feminin (die)."
+      - q: "(4) ____ Kindergarten liegt direkt neben der Schule."
+        options:
+          - { key: a, text: "Die" }
+          - { key: b, text: "Das" }
+          - { key: c, text: "Der" }
+        answer: c
+        why: 'Grundwort „der Garten“ → der Kindergarten.'
+      - q: "Das Wasser aus dem Fluss ist leider nicht (5) ____."
+        options:
+          - { key: a, text: "trinkbar" }
+          - { key: b, text: "trinklos" }
+          - { key: c, text: "trinkvoll" }
+        answer: a
+        why: "-bar = man kann es tun: trinkbar (man kann es trinken)."
+      - q: "Er sucht eine neue Stelle, denn er ist seit Monaten (6) ____."
+        options:
+          - { key: a, text: "arbeitvoll" }
+          - { key: b, text: "arbeitslos" }
+          - { key: c, text: "arbeitbar" }
+        answer: b
+        why: "-los = ohne: arbeitslos = ohne Arbeit (mit Fugen-s)."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (Wortbank)"
+    bankCase: upper
+    bankSort: true
+    instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort passt nur einmal."
+    text: |
+      Anna las einen Artikel und stieß auf das Wort „die (1) {1}". Sie zerlegte es:
+      In der Mitte steckte das Verb „wohnen", das Präfix „be-" machte daraus
+      „bewohnen", die Endung „-bar" bedeutete „man kann es (2) {2}", und „un-"
+      drehte die (3) {3} um. Die Endung „-keit" machte daraus ein (4) {4}, immer
+      (5) {5}. Auch das lange Kompositum „die (6) {6}" las sie von (7) {7}: Das
+      Grundwort „die Veränderung" bestimmte den (8) {8}. Am Ende hatte sie kein
+      einziges Mal im (9) {9} nachgeschlagen — sie las nur noch (10) {10}.
+    bank: [UNBEWOHNBARKEIT, TUN, BEDEUTUNG, NOMEN, FEMININ, KLIMAVERÄNDERUNG, HINTEN, ARTIKEL, WÖRTERBUCH, BAUSTEINE, MASKULIN, VORNE, ADJEKTIV, PRÄFIX, SUFFIX]
+    answers:
+      "1": UNBEWOHNBARKEIT
+      "2": TUN
+      "3": BEDEUTUNG
+      "4": NOMEN
+      "5": FEMININ
+      "6": KLIMAVERÄNDERUNG
+      "7": HINTEN
+      "8": ARTIKEL
+      "9": WÖRTERBUCH
+      "10": BAUSTEINE
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Warum Wörter so lang werden dürfen)"
+    instructions: "Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?"
+    items:
+      - q: "Laut Text steckt hinter den langen Wörtern ein klares System."
+        answer: true
+        why: '„Doch dahinter steckt kein Chaos, sondern ein klares System".'
+      - q: "Den Artikel eines Kompositums liefert das erste Wort."
+        answer: false
+        why: '„Den Artikel … liefert dabei immer das letzte Wort, das Grundwort".'
+      - q: 'Aus „brauchen“ wird mit „miss-“ das Wort „missbrauchen“.'
+        answer: true
+        why: '„Aus ‚brauchen‘ wird mit der Vorsilbe ‚miss-‘ das negative ‚missbrauchen‘".'
+      - q: "Wer die Bausteine kennt, muss jedes Wort weiterhin nachschlagen."
+        answer: false
+        why: '„Wer diese Bausteine kennt, kann unbekannte Wörter zerlegen, statt sie nachzuschlagen".'
+      - q: "Das Zerlegen beschleunigt laut Text das Lesen auf B2- und C1-Niveau."
+        answer: true
+        why: '„eine Fähigkeit, die das Lesen auf B2- und C1-Niveau enorm beschleunigt".'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Wortbildung im Alltag)"
+    instructions: |
+      > Lange deutsche Wörter wirken oft abschreckend, aber sie folgen festen Regeln.
+      > Nehmen wir „die Geschwindigkeitsbegrenzung": Das Grundwort ist „die Begrenzung",
+      > also ist das ganze Wort feminin. Davor steht „Geschwindigkeit" mit einem
+      > Fugen-s. Wer das Grundwort findet, kennt Genus und Grundbedeutung. Auch
+      > Vorsilben helfen: „entladen" ist das Gegenteil von „laden", „missbrauchen"
+      > bedeutet „falsch benutzen". So lässt sich fast jedes unbekannte Wort
+      > erschließen, ohne ein Wörterbuch zu öffnen.
+
+      Wähle a, b oder c.
+    items:
+      - q: 'Warum ist „die Geschwindigkeitsbegrenzung“ feminin?'
+        options:
+          - { key: a, text: 'Weil „Geschwindigkeit“ feminin ist.' }
+          - { key: b, text: 'Weil das Grundwort „die Begrenzung“ feminin ist.' }
+          - { key: c, text: "Weil es ein Fugen-s hat." }
+        answer: b
+        why: '„Das Grundwort ist ‚die Begrenzung‘, also ist das ganze Wort feminin".'
+      - q: "Was verbindet die beiden Teile des Wortes?"
+        options:
+          - { key: a, text: "Ein Präfix." }
+          - { key: b, text: "Ein Fugen-s." }
+          - { key: c, text: "Eine Endung -keit." }
+        answer: b
+        why: '„Davor steht ‚Geschwindigkeit‘ mit einem Fugen-s".'
+      - q: 'Was bedeutet „entladen“ laut Text?'
+        options:
+          - { key: a, text: 'Das Gegenteil von „laden“.' }
+          - { key: b, text: "Etwas falsch benutzen." }
+          - { key: c, text: "Etwas in Stücke schneiden." }
+        answer: a
+        why: '„‚entladen‘ ist das Gegenteil von ‚laden‘".'
+      - q: "Was ist die Hauptaussage des Textes?"
+        options:
+          - { key: a, text: "Lange Wörter kann man nur mit Wörterbuch verstehen." }
+          - { key: b, text: "Fast jedes unbekannte Wort lässt sich aus Bausteinen erschließen." }
+          - { key: c, text: "Deutsche Wörter folgen keinen Regeln." }
+        answer: b
+        why: '„So lässt sich fast jedes unbekannte Wort erschließen, ohne ein Wörterbuch zu öffnen".'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Ein Wort erklären"
+    prompt: "Wähle drei lange oder zusammengesetzte deutsche Wörter (z. B. die Krankenversicherung, unbewohnbar, die Geschwindigkeitsbegrenzung) und erkläre in 8–10 Sätzen, wie sie aufgebaut sind und was sie bedeuten."
+    use:
+      - "mindestens 2 Wörter, die du in Bausteine (Präfix/Stamm/Suffix) zerlegst"
+      - "mindestens 1 Kompositum, bei dem du Grundwort und Genus nennst"
+      - "mindestens 1 Fugenelement, das du benennst (-s-, -n-, -er-)"
+      - "die Genus-Regel mindestens eines Suffixes (-ung/-heit/-keit/-schaft → die …)"
+    selfCheck:
+      - "Habe ich bei jedem Kompositum das Genus vom Grundwort abgeleitet?"
+      - "Habe ich die Bedeutung der Präfixe/Suffixe richtig erklärt?"
+      - "Habe ich mindestens ein Fugenelement korrekt benannt?"
+      - "Sind es mindestens 8–10 Sätze?"
+    model: |
+      Deutsche Wörter wirken lang, aber sie sind logisch gebaut. Nehmen wir
+      „unbewohnbar": In der Mitte steckt das Verb „wohnen". Das Präfix „be-"
+      macht daraus „bewohnen", die Endung „-bar" bedeutet „man kann es tun",
+      und „un-" dreht alles um — also „man kann nicht darin wohnen". Macht man
+      daraus „die Unbewohnbarkeit", ist es mit der Endung „-keit" automatisch
+      feminin. Ein zweites Beispiel ist das Kompositum „der Arbeitsplatz". Das
+      Grundwort ist „der Platz", also ist das ganze Wort maskulin; zwischen
+      „Arbeit" und „Platz" steht das Fugenelement „-s-". Drittens „die
+      Krankenversicherung": Das Grundwort „die Versicherung" hat das Suffix
+      „-ung" und ist deshalb feminin. Wer das Grundwort findet, kennt immer
+      Genus und Grundbedeutung. So muss ich kaum noch ein Wörterbuch öffnen.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "Eine Minute pro Item. Keine Notizen. Mit (B2/xx) oder (B1/xx) markierte Items wiederholen eine frühere Lektion. 15 Items."
+    text: |
+      1. Bedeutung von „zer-": {1} (ein Wort)
+      2. Bedeutung von „ent-": {2} (ein Wort)
+      3. Genus von Nomen auf -keit: {3} (der/die/das)
+      4. Genus von Nomen auf -ling: {4} (der/die/das)
+      5. Genus von Nomen auf -tum: {5} (der/die/das)
+      6. „die Sonne" + „der Schein" → Artikel des Kompositums: {6}
+      7. Fugenelement in „Kind___garten": {7}
+      8. „essbar" bedeutet: man kann es {8}.
+      9. „arbeitslos" bedeutet: {9} Arbeit.
+      10. Nomen zu „frei" (mit -heit): {10}
+      11. (B2/01) Nominalisierung von „prüfen" (mit -ung): {11}
+      12. (B2/02) Adjektiv-Passiversatz: „Man kann es lesen" → es ist {12}.
+      13. (B1/12) Nominalisierung von „recyceln" (das …): {13}
+      14. Präfix für „macht ein Verb transitiv": {14}-
+      15. Lange Wörter liest man von {15}.
+    answers:
+      "1": kaputt
+      "2": weg
+      "3": die
+      "4": der
+      "5": das
+      "6": der
+      "7": er
+      "8": essen
+      "9": ohne
+      "10": die Freiheit
+      "11": die Prüfung
+      "12": lesbar
+      "13": das Recyceln
+      "14": be
+      "15": hinten
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Streich das Wort durch, das nicht passt, und erklär warum. 6 Gruppen."
+    groups:
+      - items: [die Freiheit, die Krankheit, die Möglichkeit, der Frühling]
+        odd: 3
+        why: "der Frühling hat -ling (maskulin); die anderen haben -heit/-keit (feminin)."
+      - items: [zerbrechen, zerreißen, entfernen, zerstören]
+        odd: 2
+        why: "entfernen hat das Präfix ent- (weg); die anderen haben zer- (kaputt)."
+      - items: [essbar, lesbar, wertvoll, machbar]
+        odd: 2
+        why: "wertvoll hat -voll (mit viel); die anderen haben -bar (kann man tun)."
+      - items: [der Arbeitsplatz, der Sonnenschein, der Kindergarten, die Möglichkeit]
+        odd: 3
+        why: "die Möglichkeit ist kein Kompositum, sondern ein Suffix-Nomen; die anderen sind Komposita."
+      - items: [-s-, -n-, -er-, -bar]
+        odd: 3
+        why: "-bar ist ein Adjektiv-Suffix; die anderen sind Fugenelemente."
+      - items: [missverstehen, misstrauen, der Misserfolg, beantworten]
+        odd: 3
+        why: "beantworten hat das Präfix be-; die anderen haben miss- (falsch/negativ)."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: B2/01, B2/02, B1/12"
+    instructions: "Wiederholung früherer Lektionen. 10 Items."
+    text: |
+      **Aus B2/01 (Nominalisierung & Nominalstil):**
+      1. „prüfen" → Nomen mit -ung: die {1}
+      2. „entscheiden" → Nomen mit -ung: die {2}
+      3. Das Objekt des Verbs wird im Nominalstil zum {3} (Kasus): „die Prüfung ___ Antrags".
+
+      **Aus B2/02 (Passiversatz mit -bar):**
+      4. „Man kann das Problem lösen" → Das Problem ist {4}.
+      5. „Man kann den Text lesen" → Der Text ist {5}.
+      6. „Man kann es nicht bezahlen" → Es ist un{6}.
+
+      **Aus B1/12 (Nominalisierung-Einstieg):**
+      7. „recyceln" → das {7}
+      8. „wohnen" (mit be- + -ung) → die {8}
+      9. Alle Nomen auf -ung sind {9} (Genus).
+      10. „verbessern" → Nomen mit -ung: die {10}
+    answers:
+      "1": Prüfung
+      "2": Entscheidung
+      "3": Genitiv
+      "4": lösbar
+      "5": lesbar
+      "6": bezahlbar
+      "7": Recyceln
+      "8": Bewohnung
+      "9": feminin
+      "10": Verbesserung
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /20)"
+    notes: "16+ / 20 → Lektion B2/10. Unter 16 → Block A (A1–A8) und Block B (B2 Finde den Fehler) morgen wiederholen, dann D4 erneut."
+    text: |
+      **Präfixe — Bedeutung:**
+      1. „zer-" bedeutet {1}. (ein Wort)
+      2. „ent-" bedeutet {2}. (ein Wort)
+      3. „miss-" bedeutet {3}. (ein Wort)
+
+      **Nomen-Suffixe — Genus:**
+      4. die Freiheit, die Krankheit → Genus: {4}
+      5. der Lehrling, der Frühling → Genus: {5}
+      6. das Eigentum, das Wachstum → Genus: {6}
+
+      **Adjektiv-Suffixe:**
+      7. „man kann es essen" → ess{7}
+      8. „ohne Hoffnung" → hoffnungs{8}
+      9. „mit viel Wert" → wert{9}
+
+      **Komposita & Fugen:**
+      10. „die Arbeit" + „der Platz" → Artikel: {10}
+      11. Fugenelement in „Sonne___schein": {11}
+      12. „das Kind" + „der Garten" → Fugenelement: {12}
+
+      **Wörter erschließen:**
+      13. „die Unbewohnbarkeit" — Genus: {13}
+      14. Lange Komposita liest man von {14}.
+
+      **Bilden:**
+      15. „möglich" → Nomen mit -keit: die {15}
+      16. „der Freund" → Nomen mit -schaft: die {16}
+
+      **Gemischtes (Wiederholung):**
+      17. (B2/01) „prüfen" → Nomen mit -ung: die {17}
+      18. (B2/02) „Man kann es lösen" → es ist {18}.
+      19. Präfix für „in Stücke / kaputt": {19}-
+      20. (B1/12) „recyceln" → das {20}
+    answers:
+      "1": kaputt
+      "2": weg
+      "3": falsch
+      "4": feminin
+      "5": maskulin
+      "6": neutral
+      "7": bar
+      "8": los
+      "9": voll
+      "10": der
+      "11": n
+      "12": er
+      "13": feminin
+      "14": hinten
+      "15": Möglichkeit
+      "16": Freundschaft
+      "17": Prüfung
+      "18": lösbar
+      "19": zer
+      "20": Recyceln

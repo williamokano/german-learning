@@ -1,0 +1,956 @@
+lesson: B2/10
+title: "B2 · Lektion 10 — Übungen (Wissenschaft und Technik)"
+intro: >
+  Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Lösungen in solutions.md.
+  Schwerpunkt: Passiv und seine Ersatzformen (B2/02) sowie Nominalstil (B2/01)
+  im Kontext von Wissenschaft und Technik — keine neue Grammatik, sondern Anwendung.
+  Tipp: Verteile die Blöcke über mehrere Tage — H und A an Tag 1, B an Tag 2,
+  C an Tag 3, D an Tag 4 nach einer Pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Mia hat den Artikel über die KI-Studie vollständig gelesen."
+        answer: false
+        why: 'Mia: „Ich bin nach dem zweiten Absatz ausgestiegen."'
+      - q: 'Anna stört, dass man im Passivsatz nicht erfährt, wer etwas annimmt.'
+        answer: true
+        why: 'Anna: „wer nimmt denn da was an? Man erfährt es nie."'
+      - q: 'Laut Bruno wird ein Passivsatz klarer, wenn man ihn auflöst.'
+        answer: true
+        why: 'Bruno: „Wenn du das Passiv auflöst, wird alles sofort klarer."'
+      - q: "Das KI-Modell aus der Studie braucht mehr Daten als bisher."
+        answer: false
+        why: 'Bruno: „Das Modell lässt sich mit weniger Daten trainieren."'
+      - q: 'Anna findet „lässt sich trainieren" angenehmer als „kann trainiert werden".'
+        answer: true
+        why: 'Anna: „lässt sich trainieren ist viel angenehmer als kann trainiert werden."'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Woran wird in Frau Webers Labor geforscht?"
+        options:
+          - { key: a, text: "An einem neuen Material für Batterien." }
+          - { key: b, text: "An einem neuen KI-Algorithmus." }
+          - { key: c, text: "An einem Messgerät für Proben." }
+        answer: a
+        why: 'Frau Weber: „Bei uns wird ein neues Material für Batterien entwickelt."'
+      - q: "Wie wird die Eigenschaft des Materials nachgewiesen?"
+        options:
+          - { key: a, text: "Der Versuch wird einmal durchgeführt." }
+          - { key: b, text: "Proben werden getestet und der Versuch mehrfach wiederholt." }
+          - { key: c, text: "Das Material wird direkt in der Industrie eingesetzt." }
+        answer: b
+        why: 'Frau Weber: „der Versuch muss mehrfach wiederholt werden, damit er als belegt gilt."'
+      - q: "Ist das Material schon einsetzbar?"
+        options:
+          - { key: a, text: "Ja, es ist bereits im Einsatz." }
+          - { key: b, text: "Nein, die Hypothese ist noch nicht vollständig zu beweisen." }
+          - { key: c, text: "Ja, ab nächstem Monat." }
+        answer: b
+        why: 'Frau Weber: „sie ist noch nicht vollständig zu beweisen."'
+      - q: "Was muss bei einer Veröffentlichung beachtet werden?"
+        options:
+          - { key: a, text: "Nur das Ergebnis muss genannt werden." }
+          - { key: b, text: "Alle Quellen sind anzugeben und die Daten offenzulegen." }
+          - { key: c, text: "Die Namen der Forscher dürfen nicht genannt werden." }
+        answer: b
+        why: 'Frau Weber: „Alle Quellen sind anzugeben, und die Daten müssen offengelegt werden."'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext: Durchsage im Forschungszentrum"
+    audio: hoertext.mp3
+    instructions: "Hör den Hörtext und fülle die 7 Lücken. **Drei Wörter werden nicht gebraucht.**"
+    text: |
+      Liebe Kolleginnen und Kollegen, eine kurze Mitteilung aus dem Labor. Ab Montag wird ein neues
+      Messverfahren {1}, mit dem sich die Reinheit der Proben genauer {2} lässt. Alle
+      Proben sind vorher zu {3} und im Kühlraum zu {4}. Die Ergebnisse werden wie immer
+      automatisch {5} und in der Datenbank {6}. Bitte beachten Sie: Vor jeder Messung
+      muss das Gerät {7} werden. Bei Fragen wenden Sie sich bitte an die technische Leitung.
+    bank: [eingeführt, bestimmen, beschriften, lagern, ausgewertet, gespeichert, kalibriert, entwickelt, gemessen, dokumentiert]
+    answers:
+      "1": eingeführt
+      "2": bestimmen
+      "3": beschriften
+      "4": lagern
+      "5": ausgewertet
+      "6": gespeichert
+      "7": kalibriert
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Nachricht der Projektleiterin"
+    audio: transcript_ansage1.mp3
+    instructions: "Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör erst einmal zu, bevor du das Transkript unten liest."
+    transcript: 'Hallo Bruno, hier ist Frau Weber aus dem Labor. Ich rufe wegen der Auswertung der Proben an. Die Daten sind inzwischen vollständig ausgewertet worden, und das Ergebnis ist sehr vielversprechend. Die Reinheit lässt sich mit dem neuen Verfahren tatsächlich genauer messen. Bevor wir die Studie veröffentlichen, müssen aber noch alle Quellen angegeben werden. Könntest du den Bericht bis Freitag fertigstellen? Bitte ruf mich zurück, wenn du Fragen hast. Vielen Dank und bis bald.'
+    items:
+      - q: "Warum ruft Frau Weber an?"
+        options:
+          - { key: a, text: "Wegen der Auswertung der Proben." }
+          - { key: b, text: "Wegen eines neuen Experiments." }
+          - { key: c, text: "Wegen eines Termins im Labor." }
+        answer: a
+        why: '„Ich rufe wegen der Auswertung der Proben an."'
+      - q: "Wie ist das Ergebnis der Auswertung?"
+        options:
+          - { key: a, text: "Enttäuschend." }
+          - { key: b, text: "Sehr vielversprechend." }
+          - { key: c, text: "Noch unklar." }
+        answer: b
+        why: '„das Ergebnis ist sehr vielversprechend."'
+      - q: "Was muss vor der Veröffentlichung noch passieren?"
+        options:
+          - { key: a, text: "Die Proben müssen neu getestet werden." }
+          - { key: b, text: "Alle Quellen müssen angegeben werden." }
+          - { key: c, text: "Das Verfahren muss kalibriert werden." }
+        answer: b
+        why: '„müssen aber noch alle Quellen angegeben werden."'
+      - q: "Was soll Bruno bis Freitag tun?"
+        options:
+          - { key: a, text: "Die Proben kühlen." }
+          - { key: b, text: "Das Labor öffnen." }
+          - { key: c, text: "Den Bericht fertigstellen." }
+        answer: c
+        why: '„Könntest du den Bericht bis Freitag fertigstellen?"'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Vorgangspassiv bilden (Präsens)"
+    instructions: "Setze das Verb in Klammern ins Vorgangspassiv Präsens (werden + Partizip II). 8 Items."
+    text: |
+      1. Die Proben {1} im Labor {2}. (untersuchen)
+      2. Die Daten {3} automatisch {4}. (auswerten)
+      3. Ein neues Verfahren {5} {6}. (entwickeln)
+      4. Die Hypothese {7} im Experiment {8}. (überprüfen)
+      5. Die Ergebnisse {9} in der Datenbank {10}. (speichern)
+      6. Das Material {11} auf seine Eigenschaften hin {12}. (testen)
+      7. Die Quellen {13} am Ende {14}. (angeben)
+      8. Der Versuch {15} mehrfach {16}. (wiederholen)
+    answers:
+      "1": werden
+      "2": untersucht
+      "3": werden
+      "4": ausgewertet
+      "5": wird
+      "6": entwickelt
+      "7": wird
+      "8": überprüft
+      "9": werden
+      "10": gespeichert
+      "11": wird
+      "12": getestet
+      "13": werden
+      "14": angegeben
+      "15": wird
+      "16": wiederholt
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Passiv mit Modalverb"
+    instructions: "Setze ins Passiv mit Modalverb (… muss/kann + Partizip II + werden). 6 Items."
+    text: |
+      1. Der Versuch {1} mehrfach {2} {3}. (müssen — wiederholen)
+      2. Die Genauigkeit {4} deutlich {5} {6}. (können — steigern)
+      3. Die Quellen {7} unbedingt {8} {9}. (müssen — angeben)
+      4. Das Material {10} vollständig {11} {12}. (können — recyceln)
+      5. Die Proben {13} sofort {14} {15}. (müssen — kühlen)
+      6. Das Ergebnis {16} unterschiedlich {17} {18}. (können — deuten)
+    answers:
+      "1": muss
+      "2": wiederholt
+      "3": werden
+      "4": kann
+      "5": gesteigert
+      "6": werden
+      "7": müssen
+      "8": angegeben
+      "9": werden
+      "10": kann
+      "11": recycelt
+      "12": werden
+      "13": müssen
+      "14": gekühlt
+      "15": werden
+      "16": kann
+      "17": gedeutet
+      "18": werden
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Passiversatz mit man"
+    instructions: "Formuliere den Passivsatz mit man + Aktiv um. Schreib das Verb in der richtigen Form (3. Person Singular). 6 Items."
+    text: |
+      1. Die Daten werden ausgewertet. → Man {1} die Daten {2}.
+      2. Ein Verfahren wird entwickelt. → Man {3} ein Verfahren.
+      3. Die Hypothese wird überprüft. → Man {4} die Hypothese.
+      4. Die Proben werden untersucht. → Man {5} die Proben.
+      5. Das Ergebnis wird veröffentlicht. → Man {6} das Ergebnis.
+      6. Die Genauigkeit kann gesteigert werden. → Man {7} die Genauigkeit {8}.
+    answers:
+      "1": wertet
+      "2": aus
+      "3": entwickelt
+      "4": überprüft
+      "5": untersucht
+      "6": veröffentlicht
+      "7": kann
+      "8": steigern
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Passiversatz mit sich lassen"
+    instructions: "Formuliere mit sich lassen + Infinitiv um (= kann … werden). Achte auf Singular/Plural von lassen. 6 Items."
+    text: |
+      1. Das Problem kann gelöst werden. → Das Problem {1} sich {2}.
+      2. Die Genauigkeit kann gesteigert werden. → Die Genauigkeit {3} sich {4}.
+      3. Das Material kann recycelt werden. → Das Material {5} sich {6}.
+      4. Die Daten können gespeichert werden. → Die Daten {7} sich {8}.
+      5. Der Versuch kann wiederholt werden. → Der Versuch {9} sich {10}.
+      6. Die Reinheit kann gemessen werden. → Die Reinheit {11} sich {12}.
+    answers:
+      "1": lässt
+      "2": lösen
+      "3": lässt
+      "4": steigern
+      "5": lässt
+      "6": recyceln
+      "7": lassen
+      "8": speichern
+      "9": lässt
+      "10": wiederholen
+      "11": lässt
+      "12": messen
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Passiversatz mit -bar"
+    instructions: "Bilde aus dem Verb ein Adjektiv auf -bar (Verbstamm + bar). 6 Items."
+    text: |
+      1. lösen → Das Problem ist {1}.
+      2. messen → Der Unterschied ist kaum {2}.
+      3. recyceln → Das Material ist {3}.
+      4. anwenden → Die Methode ist gut {4}.
+      5. wiederholen → Der Versuch ist beliebig oft {5}.
+      6. nachweisen → Die Wirkung ist klar {6}.
+    answers:
+      "1": lösbar
+      "2": messbar
+      "3": recycelbar
+      "4": anwendbar
+      "5": wiederholbar
+      "6": nachweisbar
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Passiversatz mit sein + zu + Infinitiv"
+    instructions: "Formuliere mit sein + zu + Infinitiv um. Achte bei trennbaren Verben auf an-zu-…, ein-zu-…. 6 Items."
+    text: |
+      1. Die Quellen müssen angegeben werden. → Die Quellen {1} {2}.
+      2. Der Antrag muss eingereicht werden. → Der Antrag {3} {4}.
+      3. Die Frist muss eingehalten werden. → Die Frist {5} {6}.
+      4. Das Problem kann leicht gelöst werden. → Das Problem {7} leicht {8}.
+      5. Die Hypothese kann kaum bewiesen werden. → Die Hypothese {9} kaum {10}.
+      6. Die Proben müssen gekühlt werden. → Die Proben {11} {12}.
+    answers:
+      "1": sind
+      "2": anzugeben
+      "3": ist
+      "4": einzureichen
+      "5": ist
+      "6": einzuhalten
+      "7": ist
+      "8": zu lösen
+      "9": ist
+      "10": zu beweisen
+      "11": sind
+      "12": zu kühlen
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Nominalstil → Verbalstil: Nomen entpacken"
+    instructions: "Finde das Verb im Nomen und schreib das passende Verb (Infinitiv). 6 Items."
+    text: |
+      1. die Auswertung der Daten → die Daten {1}
+      2. die Entwicklung eines Verfahrens → ein Verfahren {2}
+      3. die Steigerung der Genauigkeit → die Genauigkeit {3}
+      4. die Veröffentlichung der Studie → die Studie {4}
+      5. die Speicherung der Daten → die Daten {5}
+      6. die Untersuchung der Proben → die Proben {6}
+    answers:
+      "1": auswerten
+      "2": entwickeln
+      "3": steigern
+      "4": veröffentlichen
+      "5": speichern
+      "6": untersuchen
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Präposition + Nomen → Nebensatz (die acht Brücken)"
+    instructions: "Wähle den passenden Konnektor für den Nebensatz. 6 Items."
+    text: |
+      1. wegen des hohen Verbrauchs → {1} der Verbrauch hoch ist
+      2. zur Verbesserung der Erkennung → {2} die Erkennung zu verbessern
+      3. nach der Prüfung der Proben → {3} man die Proben geprüft hat
+      4. bei der Anwendung des Algorithmus → {4} man den Algorithmus anwendet
+      5. durch den Einsatz von KI → {5} man KI einsetzt
+      6. trotz der hohen Kosten → {6} die Kosten hoch sind
+    answers:
+      "1": weil
+      "2": um
+      "3": nachdem
+      "4": wenn
+      "5": indem
+      "6": obwohl
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Wortschatz: Forschung und Technik"
+    instructions: "Setze das passende Nomen mit Artikel ein (Nominativ). 6 Items."
+    text: |
+      1. Eine wissenschaftliche Vermutung, die man beweisen will, ist {1} (Hypothese).
+      2. Das, was am Ende einer Studie herauskommt, ist {2} (Ergebnis).
+      3. Eine kleine Menge eines Stoffes, die man testet, ist {3} (Probe).
+      4. Künstliche Intelligenz arbeitet mit {4} (Algorithmus, Singular).
+      5. Die Umwandlung der Welt ins Digitale heißt {5} (Digitalisierung).
+      6. Wenn ein Produkt schonend für die Umwelt ist, spricht man von {6} (Nachhaltigkeit).
+    answers:
+      "1": die Hypothese
+      "2": das Ergebnis
+      "3": die Probe
+      "4": dem Algorithmus
+      "5": die Digitalisierung
+      "6": der Nachhaltigkeit
+
+  - id: A10
+    block: A
+    type: free-write
+    title: "Vier Ersatzformen für einen Satz"
+    prompt: "Formuliere den Passivsatz auf alle vier Arten um (man / sich lassen / -bar / sein + zu)."
+    stimulus: |
+      Grundsatz: „Das Problem kann gelöst werden."
+
+      Schreib jetzt:
+      1. mit man: ______________________
+      2. mit sich lassen: ______________________
+      3. mit -bar: ______________________
+      4. mit sein + zu: ______________________
+
+      Mach dasselbe mit: „Die Genauigkeit kann gemessen werden."
+    model: |
+      „Das Problem kann gelöst werden":
+      1. Man kann das Problem lösen.
+      2. Das Problem lässt sich lösen.
+      3. Das Problem ist lösbar.
+      4. Das Problem ist (leicht) zu lösen.
+
+      „Die Genauigkeit kann gemessen werden":
+      1. Man kann die Genauigkeit messen.
+      2. Die Genauigkeit lässt sich messen.
+      3. Die Genauigkeit ist messbar.
+      4. Die Genauigkeit ist zu messen.
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Fachtext ergänzen: Eine Studie zur KI"
+    instructions: "Fülle die 10 Lücken mit der passenden Form (Passiv oder Ersatzform, wie der Kontext verlangt). **Zwei Wörter werden nicht gebraucht.**"
+    text: |
+      In dieser Studie {1} ein neues KI-Modell untersucht. Die Daten {2}
+      automatisch ausgewertet. Es zeigte sich: Die Genauigkeit {3} sich
+      deutlich steigern. Das Modell ist außerdem mit weniger Daten {4} —
+      ein klarer Vorteil. Vor einer Veröffentlichung {5} jedoch alle Quellen
+      anzugeben. Die Ergebnisse {6} mehrfach überprüft werden, damit sie als
+      belegt gelten. „Man {7} aus den Zahlen schließen, dass das Verfahren
+      funktioniert", sagt die Forscherin. Eine baldige Anwendung {8} sich
+      aber noch nicht sagen. Das Modell {9} erst, nachdem weitere Tests
+      {10} worden sind.
+    bank: [wird, werden, lässt, trainierbar, sind, müssen, kann, lässt, einsetzbar, durchgeführt, wurde, gemacht]
+    answers:
+      "1": wird
+      "2": werden
+      "3": lässt
+      "4": trainierbar
+      "5": sind
+      "6": müssen
+      "7": kann
+      "8": lässt
+      "9": einsetzbar
+      "10": durchgeführt
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Finde den Fehler"
+    prompt: "Jeder Satz enthält genau einen Fehler (Passiv, Passiversatz oder Nominalstil). Finde ihn und schreib den Satz korrekt."
+    stimulus: |
+      1. Das Problem lässt lösen.
+      2. Die Quellen sind angeben.
+      3. Das Material ist recycelnbar.
+      4. Man werden die Daten ausgewertet.
+      5. Das Ergebnis ist gestern veröffentlicht.
+      6. die Auswertung von den Daten
+      7. wegen dem hohen Verbrauch
+      8. Die Daten lässt sich speichern.
+    model: |
+      1. Das Problem lässt sich lösen. (Reflexivpronomen „sich" fehlt)
+      2. Die Quellen sind anzugeben. („zu" fehlt: an-zu-geben)
+      3. Das Material ist recycelbar. (Verbstamm + bar, nicht Infinitiv + bar)
+      4. Man wertet die Daten aus. (man + Aktiv, nicht man + Passiv)
+      5. Das Ergebnis ist gestern veröffentlicht worden. (Passiv Perfekt braucht „worden")
+      6. die Auswertung der Daten (Genitiv nach dem Nomen, nicht „von den")
+      7. wegen des hohen Verbrauchs („wegen" + Genitiv)
+      8. Die Daten lassen sich speichern. (Plural-Subjekt → „lassen")
+
+  - id: B3
+    block: B
+    type: matching
+    title: "Passivsatz und Ersatzform verbinden"
+    instructions: "Ordne jedem Passivsatz (1–6) die bedeutungsgleiche Ersatzform (a–f) zu."
+    left:
+      - { key: "1", text: "Das Problem kann gelöst werden." }
+      - { key: "2", text: "Die Quellen müssen angegeben werden." }
+      - { key: "3", text: "Die Daten werden automatisch ausgewertet." }
+      - { key: "4", text: "Das Material kann recycelt werden." }
+      - { key: "5", text: "Die Genauigkeit kann gesteigert werden." }
+      - { key: "6", text: "Die Hypothese kann kaum bewiesen werden." }
+    right:
+      - { key: a, text: "Die Quellen sind anzugeben." }
+      - { key: b, text: "Man wertet die Daten automatisch aus." }
+      - { key: c, text: "Das Problem lässt sich lösen." }
+      - { key: d, text: "Die Hypothese ist kaum zu beweisen." }
+      - { key: e, text: "Das Material ist recycelbar." }
+      - { key: f, text: "Die Genauigkeit lässt sich steigern." }
+    answers:
+      "1": c
+      "2": a
+      "3": b
+      "4": e
+      "5": f
+      "6": d
+
+  - id: B4
+    block: B
+    type: free-write
+    title: "Nominalstil → Verbalstil umformen"
+    prompt: "Mach aus jeder Nominalphrase einen Nebensatz oder Verbalsatz."
+    stimulus: |
+      1. wegen des hohen Energieverbrauchs
+      2. zur Verbesserung der Erkennung
+      3. nach der Auswertung der Daten
+      4. bei der Anwendung des Verfahrens
+      5. durch den Einsatz von KI
+      6. trotz der hohen Kosten
+    model: |
+      1. weil der Energieverbrauch hoch ist
+      2. um die Erkennung zu verbessern
+      3. nachdem man die Daten ausgewertet hat
+      4. wenn man das Verfahren anwendet
+      5. indem man KI einsetzt
+      6. obwohl die Kosten hoch sind
+
+  - id: B5
+    block: B
+    type: free-write
+    title: "Verbalstil → Nominalstil umformen"
+    prompt: "Mach aus jedem Nebensatz eine Präposition + Nomen (Nominalstil)."
+    stimulus: |
+      1. Weil die Nachfrage gestiegen ist, …
+      2. Um die Daten zu schützen, …
+      3. Nachdem man den Antrag geprüft hatte, …
+      4. Obwohl die Kosten hoch waren, …
+      5. Wenn man sich anmeldet, …
+      6. Indem man das Verfahren änderte, …
+    model: |
+      1. Wegen der gestiegenen Nachfrage …
+      2. Zum Schutz der Daten …
+      3. Nach der Prüfung des Antrags …
+      4. Trotz der hohen Kosten …
+      5. Bei der Anmeldung …
+      6. Durch die Änderung des Verfahrens …
+
+  - id: B6
+    block: B
+    type: free-write
+    title: "Fachsatz zusammenfassen (Passiv + Nominalstil auflösen)"
+    prompt: "Fasse jeden dichten Fachsatz in einem klaren, verbalen Satz zusammen (mit man oder Aktiv)."
+    stimulus: |
+      1. Es wird angenommen, dass die Effizienz gesteigert werden kann.
+      2. Durch den Einsatz von KI wird die Erkennung von Mustern verbessert.
+      3. Zur Überprüfung der Hypothese werden Versuche durchgeführt.
+      4. Nach der Auswertung der Daten wurde das Ergebnis veröffentlicht.
+      5. Wegen der hohen Kosten ist eine baldige Markteinführung nicht zu erwarten.
+    model: |
+      1. Man nimmt an, dass man die Effizienz steigern kann.
+      2. Indem man KI einsetzt, verbessert man die Mustererkennung.
+      3. Um die Hypothese zu überprüfen, führt man Versuche durch.
+      4. Nachdem man die Daten ausgewertet hatte, veröffentlichte man das Ergebnis.
+      5. Weil die Kosten hoch sind, kann man nicht mit einer baldigen Markteinführung rechnen.
+
+  - id: B7
+    block: B
+    type: order
+    title: "Satzbau: Passiv und Ersatzformen ordnen"
+    prompt: "Bring die Wörter in die richtige Reihenfolge. Achte auf die Verbstellung."
+    stimulus: |
+      1. die / Daten / werden / automatisch / ausgewertet
+      2. das / Material / lässt / sich / leicht / recyceln
+      3. die / Quellen / sind / im / Text / anzugeben
+      4. die / Genauigkeit / kann / deutlich / gesteigert / werden
+    items:
+      - tiles: [die, Daten, werden, automatisch, ausgewertet]
+        answer: [0, 1, 2, 3, 4]
+        note: "die Daten werden automatisch ausgewertet"
+      - tiles: [das, Material, lässt, sich, leicht, recyceln]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "das Material lässt sich leicht recyceln"
+      - tiles: [die, Quellen, sind, im, Text, anzugeben]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "die Quellen sind im Text anzugeben"
+      - tiles: [die, Genauigkeit, kann, deutlich, gesteigert, werden]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "die Genauigkeit kann deutlich gesteigert werden"
+
+  - id: B8
+    block: B
+    type: odd-one-out
+    title: "Wortschatz: Was passt nicht?"
+    instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    groups:
+      - items: [Hypothese, Experiment, Ergebnis, Schlagzeile]
+        odd: 3
+        why: "Schlagzeile gehört zum Journalismus; die anderen sind Teil des wissenschaftlichen Vorgangs."
+      - items: [auswerten, untersuchen, testen, beschriften]
+        odd: 3
+        why: "beschriften heißt etikettieren; die anderen beschreiben das Analysieren/Prüfen."
+      - items: [recycelbar, messbar, dankbar, lösbar]
+        odd: 2
+        why: 'dankbar ist kein Passiversatz (kann nicht „gedankt werden" bedeuten); die anderen sind echtes -bar-Passiv.'
+      - items: [Digitalisierung, Vernetzung, Anwendung, Schlagzeile]
+        odd: 3
+        why: "Schlagzeile gehört nicht zur Technik/Digitalisierung; die anderen schon."
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Forenbeitrag: Wissenschaft verständlicher machen"
+    prompt: 'Schreib einen Forenbeitrag (5–6 Sätze) zu der Frage: „Sollten Forscher ihre Studien verständlicher schreiben?" Begründe deine Meinung.'
+    stimulus: |
+      **Forenbeitrag** — In einem Wissenschaftsforum schreibt jemand:
+      > „Ich habe gestern eine Studie gelesen und kein Wort verstanden. Lauter
+      > Passiv und endlose Nomen. Muss das wirklich sein? Was meint ihr?"
+    use:
+      - 'mindestens 1 Satz mit man + Aktiv (z. B. „Man kann …")'
+      - "mindestens 1 Satz mit sich lassen oder einem -bar-Adjektiv"
+      - "mindestens 1 Beispiel aus dem Wortschatz (Studie, Passiv, Nominalstil, verständlich …)"
+      - "eine klare Meinung am Anfang und ein kurzes Fazit am Ende"
+    selfCheck:
+      - "Steht das konjugierte Verb in meinen Hauptsätzen auf Platz 2?"
+      - 'Habe ich „lässt sich" mit Reflexivpronomen „sich" geschrieben?'
+      - "Sind meine -bar-Adjektive aus dem Verbstamm gebildet (lösbar, nicht lösenbar)?"
+    model: |
+      Meiner Meinung nach sollten Forscher ihre Studien viel verständlicher
+      schreiben. Eine Erkenntnis, die niemand versteht, nützt niemandem. Oft
+      lässt sich ein komplizierter Passivsatz ganz leicht auflösen: Statt „es
+      wird angenommen" kann man einfach „Forscher nehmen an" sagen. Auch der
+      Nominalstil ist meist vermeidbar. Natürlich braucht Wissenschaft eine
+      präzise Sprache — aber präzise und verständlich sind kein Widerspruch.
+      Fazit: Wer klar schreibt, hat seine Idee wirklich verstanden.
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext: Wie eine Studie zur Schlagzeile wird"
+    instructions: "Fülle jede Lücke mit einem Wort. 10 Items."
+    text: |
+      Jeden Tag erscheinen Hunderte Studien. Am Anfang steht das Original, ein
+      Fachartikel. Er ist dicht und voller Passiv: „Im Rahmen der Untersuchung
+      (1) {1} nachgewiesen, dass die Genauigkeit gesteigert (2) {2} konnte."
+      Wer nicht vom Fach ist, versteht kaum etwas. Dann kommt die Pressestelle.
+      Aus dem Monstersatz (3) {3} ein klarer Satz: „Forscher haben einen
+      Algorithmus entwickelt. Damit (4) {4} sich die Genauigkeit steigern."
+      Das Passiv ist aufgelöst, das Nomen ist wieder ein Verb (5) {5}. Zuletzt
+      schreibt eine Journalistin die Schlagzeile. Sie (6) {6} in wenigen Worten
+      Aufmerksamkeit wecken: „Neuer Algorithmus (7) {7} KI genauer." Diese Kette
+      (8) {8} nichts anderes als das, was du übst: einen dichten Text in eine
+      klare Sprache zu (9) {9}. Wer das (10) {10}, versteht auch das Original.
+    answers:
+      "1": wurde
+      "2": werden
+      "3": wird
+      "4": lässt
+      "5": geworden
+      "6": muss
+      "7": macht
+      "8": ist
+      "9": übersetzen
+      "10": kann
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    items:
+      - q: "Die Daten (1) ____ automatisch ausgewertet."
+        options:
+          - { key: a, text: "werden" }
+          - { key: b, text: "wird" }
+          - { key: c, text: "sind" }
+        answer: a
+        why: 'Plural-Subjekt „die Daten" → werden (Vorgangspassiv).'
+      - q: "Das Problem (2) ____ sich leicht lösen."
+        options:
+          - { key: a, text: "ist" }
+          - { key: b, text: "lässt" }
+          - { key: c, text: "wird" }
+        answer: b
+        why: 'sich lassen + Infinitiv: „lässt sich lösen".'
+      - q: "Die Quellen sind im Text (3) ____."
+        options:
+          - { key: a, text: "angeben" }
+          - { key: b, text: "anzugeben" }
+          - { key: c, text: "angegeben" }
+        answer: b
+        why: "sein + zu + Infinitiv, trennbar: an-zu-geben."
+      - q: "Das Material ist vollständig (4) ____."
+        options:
+          - { key: a, text: "recycelnbar" }
+          - { key: b, text: "recycelbar" }
+          - { key: c, text: "recyceltbar" }
+        answer: b
+        why: "Verbstamm + bar: recycel- + bar = recycelbar."
+      - q: "Das Ergebnis ist gestern (5) ____ worden."
+        options:
+          - { key: a, text: "veröffentlicht" }
+          - { key: b, text: "veröffentlichen" }
+          - { key: c, text: "veröffentlichte" }
+        answer: a
+        why: "Passiv Perfekt: ist + Partizip II + worden."
+      - q: "(6) ____ der hohen Kosten ist keine baldige Markteinführung zu erwarten."
+        options:
+          - { key: a, text: "Weil" }
+          - { key: b, text: "Wegen" }
+          - { key: c, text: "Obwohl" }
+        answer: b
+        why: 'Präposition + Nomen (Genitiv): „Wegen der hohen Kosten".'
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (Wortbank)"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus der Box. **Fünf Wörter werden nicht gebraucht.** Jedes Wort passt nur einmal."
+    bankCase: upper
+    bankSort: true
+    text: |
+      In einem Labor (1) {1} ein neues Verfahren entwickelt. Die Proben (2) {2}
+      zunächst unter kontrollierten Bedingungen getestet. Aus den Daten (3) {3}
+      sich schließen, dass die Methode funktioniert. Die Wirkung ist klar (4) {4}.
+      Vor einer Veröffentlichung sind alle Quellen (5) {5}. Der Versuch (6) {6}
+      mehrfach wiederholt werden, damit er als belegt gilt. Das Material ist
+      umweltfreundlich und (7) {7} sich gut recyceln. „(8) {8} kann die Reinheit
+      genau messen", sagt die Forscherin. Eine Anwendung in der Industrie (9) {9}
+      sich aber noch nicht sagen. Nachdem weitere Tests (10) {10} worden sind,
+      wird das Material vielleicht einsetzbar.
+    bank: [WIRD, WERDEN, LÄSST, NACHWEISBAR, ANZUGEBEN, MUSS, LÄSST, MAN, LÄSST, DURCHGEFÜHRT, SIND, KANN, GEMACHT, WURDE, MESSBAR]
+    answers:
+      "1": WIRD
+      "2": WERDEN
+      "3": LÄSST
+      "4": NACHWEISBAR
+      "5": ANZUGEBEN
+      "6": MUSS
+      "7": LÄSST
+      "8": MAN
+      "9": LÄSST
+      "10": DURCHGEFÜHRT
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Wie eine Studie zur Schlagzeile wird)"
+    instructions: "Lies den Lesetext in lesson.md, Abschnitt 7. Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Am Anfang steht ein Fachartikel im dichten Passiv- und Nominalstil."
+        answer: true
+        why: '„Am Anfang steht das Original … dicht, unpersönlich, voller Passiv und Nominalstil."'
+      - q: "Die Pressestelle macht den Text noch komplizierter."
+        answer: false
+        why: 'Die Pressestelle erklärt die Studie so, „dass auch Laien sie verstehen".'
+      - q: "In der Schlagzeile ist von Passiv und Nominalstil nichts mehr übrig."
+        answer: true
+        why: '„Hier ist von Passiv und Nominalstil nichts mehr übrig."'
+      - q: "Die Schlagzeile gibt die Studie immer völlig korrekt wieder."
+        answer: false
+        why: 'Die Schlagzeile „vereinfacht manchmal so stark, dass sie etwas anderes behauptet".'
+      - q: "Die Kette geht: Fachartikel → Pressetext → Schlagzeile."
+        answer: true
+        why: '„Diese Kette — Fachartikel → Pressetext → Schlagzeile".'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Wissenschaftskommunikation)"
+    instructions: |
+      Lies den folgenden Text und wähle a, b oder c.
+
+      > Lange galt: Ein guter Forscher schreibt kompliziert. Heute denkt man
+      > anders. In Deutschland wächst die Bewegung der Wissenschaftskommunikation.
+      > Forschende lernen, ihre Arbeit in einfacher Sprache zu erklären — in
+      > Podcasts, auf YouTube und bei sogenannten „Science Slams", bei denen
+      > Wissenschaftler ihre Studien in zehn Minuten unterhaltsam vorstellen.
+      > Kritiker sagen, dabei gehe Genauigkeit verloren. Befürworter halten
+      > dagegen: Eine Erkenntnis, die niemand versteht, nützt niemandem. Klar
+      > ist: Verständlich zu schreiben ist keine Schwäche, sondern eine Kunst.
+    items:
+      - q: "Was war früher die verbreitete Meinung?"
+        options:
+          - { key: a, text: "Ein guter Forscher schreibt kompliziert." }
+          - { key: b, text: "Forscher sollten auf YouTube gehen." }
+          - { key: c, text: "Wissenschaft muss unterhaltsam sein." }
+        answer: a
+        why: '„Lange galt: Ein guter Forscher schreibt kompliziert."'
+      - q: 'Was ist ein „Science Slam"?'
+        options:
+          - { key: a, text: "Ein wissenschaftlicher Fachartikel." }
+          - { key: b, text: "Eine unterhaltsame Kurzpräsentation einer Studie." }
+          - { key: c, text: "Eine Prüfung an der Universität." }
+        answer: b
+        why: '„Science Slams, bei denen Wissenschaftler ihre Studien in zehn Minuten unterhaltsam vorstellen."'
+      - q: "Was kritisieren die Gegner der Wissenschaftskommunikation?"
+        options:
+          - { key: a, text: "Dass dabei Genauigkeit verloren geht." }
+          - { key: b, text: "Dass es zu teuer ist." }
+          - { key: c, text: "Dass niemand zuhört." }
+        answer: a
+        why: '„Kritiker sagen, dabei gehe Genauigkeit verloren."'
+      - q: "Wie wird verständliches Schreiben am Ende bewertet?"
+        options:
+          - { key: a, text: "Als Schwäche." }
+          - { key: b, text: "Als Zeitverschwendung." }
+          - { key: c, text: "Als eine Kunst." }
+        answer: c
+        why: '„Verständlich zu schreiben ist keine Schwäche, sondern eine Kunst."'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Eine Studie zusammenfassen"
+    prompt: "Fasse die folgende Mini-Studie in 6–8 Sätzen in klarer, verständlicher Sprache zusammen. Löse Passiv und Nominalstil so weit wie möglich auf."
+    stimulus: |
+      **Fachtext (dicht):**
+      > Im Rahmen einer Studie wurde der Einfluss von künstlicher Intelligenz
+      > auf die Diagnose von Krankheiten untersucht. Durch den Einsatz eines
+      > neuen Algorithmus konnte eine Steigerung der Genauigkeit um 20 Prozent
+      > erzielt werden. Die Ergebnisse wurden mehrfach überprüft. Vor einer
+      > Anwendung in Krankenhäusern sind jedoch weitere Tests durchzuführen.
+      > Es wird angenommen, dass das Verfahren in fünf Jahren einsetzbar ist.
+    use:
+      - 'man + Aktiv (statt Passiv): „Forscher haben untersucht / Man hat untersucht …"'
+      - "sich lassen oder ein -bar-Adjektiv für mindestens einen Satz"
+      - 'mindestens einen Nominalstil-Ausdruck in einen Nebensatz auflösen (z. B. „durch den Einsatz" → „indem man … einsetzt")'
+      - 'einen einschränkenden Schlusssatz (z. B. „Allerdings …" / „Weitere Studien sind nötig …")'
+    selfCheck:
+      - "Habe ich das Passiv durch man + Aktiv oder eine Ersatzform ersetzt?"
+      - "Habe ich die langen Nomen in Verben verwandelt?"
+      - "Steht das Verb in den Hauptsätzen auf Platz 2 und in den Nebensätzen am Ende?"
+      - "Ist mein Text 6–8 Sätze lang und für einen Laien verständlich?"
+    model: |
+      Forscher haben untersucht, wie künstliche Intelligenz bei der Diagnose
+      von Krankheiten hilft. Indem sie einen neuen Algorithmus einsetzten,
+      konnten sie die Genauigkeit um 20 Prozent steigern. Das Ergebnis lässt
+      sich gut belegen, denn man hat es mehrfach überprüft. Bevor man das
+      Verfahren in Krankenhäusern anwendet, muss man allerdings weitere Tests
+      durchführen. Die Forscher nehmen an, dass das Verfahren in fünf Jahren
+      einsetzbar ist. Weitere Studien sind also nötig, bevor Patienten davon
+      profitieren.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "Eine Minute pro Item. Keine Notizen. Items mit (B2/01) oder (B2/02) wiederholen frühere Lektionen. 15 Items."
+    text: |
+      1. Passiv Präsens von „untersuchen", die Proben: Die Proben {1} {2}.
+      2. Passiversatz mit man: „Die Daten werden gespeichert." → Man {3} die Daten.
+      3. Passiversatz mit sich lassen: „kann gelöst werden" → {4} {5} lösen
+      4. -bar-Adjektiv von „messen": {6}
+      5. sein + zu von „angeben", die Quellen: Die Quellen {7} {8}.
+      6. (B2/01) Nomen → Verb: „die Auswertung der Daten" → die Daten {9}
+      7. (B2/01) Präp. + Nomen → Konnektor: „wegen" → {10} · „trotz" → {11}
+      8. (B2/02) Passiv Perfekt von „veröffentlichen": „Das Ergebnis ist {12} {13}."
+      9. (B2/01) „zur Verbesserung der Qualität" → {14} die Qualität zu verbessern
+      10. Wortschatz: Eine wissenschaftliche Vermutung heißt {15}.
+    answers:
+      "1": werden
+      "2": untersucht
+      "3": speichert
+      "4": lässt
+      "5": sich
+      "6": messbar
+      "7": sind
+      "8": anzugeben
+      "9": auswerten
+      "10": weil
+      "11": obwohl
+      "12": veröffentlicht
+      "13": worden
+      "14": um
+      "15": die Hypothese
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    groups:
+      - items: [Hypothese, Experiment, Probe, Schlagzeile]
+        odd: 3
+        why: "Schlagzeile gehört zum Journalismus; die anderen sind Teile des wissenschaftlichen Vorgangs."
+      - items: [lösbar, messbar, recycelbar, furchtbar]
+        odd: 3
+        why: 'furchtbar ist kein Passiversatz; die anderen bedeuten „kann ge…t werden".'
+      - items: [werden, lässt, ist, schön]
+        odd: 3
+        why: "schön ist ein Adjektiv; die anderen sind Hilfsverben für Passiv/Ersatzformen."
+      - items: [wegen, trotz, während, indem]
+        odd: 3
+        why: "indem leitet einen Nebensatz ein; die anderen sind Präpositionen mit Nomen (Nominalstil)."
+      - items: [Digitalisierung, Vernetzung, Anwendung, Ernte]
+        odd: 3
+        why: "Ernte gehört zur Landwirtschaft; die anderen zur Technik/Digitalisierung."
+      - items: [auswerten, untersuchen, nachweisen, kochen]
+        odd: 3
+        why: "kochen gehört nicht zur Wissenschaftssprache; die anderen schon."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: B2/01 (Nominalstil) und B2/02 (Passiv)"
+    instructions: "Wiederholung früherer Lektionen. 10 Items."
+    text: |
+      **Aus B2/02 (Passiv und Ersatzformen):**
+      1. Passiversatz mit man: „Hier wird nicht geraucht." → Hier {1} man nicht.
+      2. sich lassen: „Der Versuch kann wiederholt werden." → Der Versuch {2} sich {3}.
+      3. -bar: „Die Aufgabe kann gelöst werden." → Die Aufgabe ist {4}.
+      4. sein + zu: „Der Antrag muss eingereicht werden." → Der Antrag {5} {6}.
+      5. Vorgang oder Zustand? „Vorsicht, die Tür {7} (wird/ist) gerade geschlossen." (Vorgang)
+
+      **Aus B2/01 (Nominalstil ↔ Verbalstil):**
+      6. „die Prüfung des Antrags" → man {8} den Antrag (Verb)
+      7. „weil das Wetter schlecht war" → {9} des schlechten Wetters (Präp. + Nomen)
+      8. „um die Kosten zu senken" → {10} Senkung der Kosten (Präp. + Nomen)
+    answers:
+      "1": raucht
+      "2": lässt
+      "3": wiederholen
+      "4": lösbar
+      "5": ist
+      "6": einzureichen
+      "7": wird
+      "8": prüft
+      "9": wegen
+      "10": zur
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (Bewerte dich /20)"
+    notes: "16+ / 20 → Lektion B2/11. Unter 16 → wiederhole Block A (A3–A6) und B6 (Fachsatz zusammenfassen) morgen, dann mach D4 noch einmal."
+    text: |
+      **Passiv:**
+      1. „Die Proben {1} (untersuchen — Passiv Präsens) im Labor."
+      2. „Die Genauigkeit {2} {3} (steigern — Passiv mit können) werden."
+      3. „Das Ergebnis ist gestern {4} {5} (veröffentlichen — Passiv Perfekt)."
+
+      **Passiversatz:**
+      4. man: „Die Daten werden ausgewertet." → Man {6} die Daten aus.
+      5. sich lassen: „kann gemessen werden" → {7} {8} messen
+      6. -bar: „kann recycelt werden" → {9}
+      7. sein + zu: „Die Quellen müssen angegeben werden." → Die Quellen {10} {11}.
+
+      **Nominalstil (B2/01):**
+      8. „die Entwicklung eines Verfahrens" → ein Verfahren {12} (Verb)
+      9. „wegen des hohen Verbrauchs" → {13} der Verbrauch hoch ist (Konnektor)
+      10. „zur Verbesserung der Qualität" → {14} die Qualität zu verbessern
+
+      **Zusammenfassen:**
+      11. Fasse zusammen: „Es wird angenommen, dass die Effizienz gesteigert werden kann." → {15}
+      12. Fasse zusammen: „Durch den Einsatz von KI wird die Erkennung verbessert." → {16}
+
+      **Wortschatz:**
+      13. Das Endergebnis einer Studie: {17}
+      14. Eine kleine Menge eines Stoffes zum Testen: {18}
+      15. Die Umwandlung der Welt ins Digitale: {19}
+
+      **Gemischtes:**
+      16. (B2/02) Vorgang oder Zustand? „Schau, die Tür {20} (wird/ist) schon geöffnet." (Zustand)
+    answers:
+      "1": werden untersucht
+      "2": kann
+      "3": gesteigert
+      "4": veröffentlicht
+      "5": worden
+      "6": wertet
+      "7": lässt
+      "8": sich
+      "9": recycelbar
+      "10": sind
+      "11": anzugeben
+      "12": entwickeln
+      "13": weil
+      "14": um
+      "15": "Man nimmt an, dass man die Effizienz steigern kann."
+      "16": "Indem man KI einsetzt, verbessert man die Erkennung."
+      "17": das Ergebnis
+      "18": die Probe
+      "19": die Digitalisierung
+      "20": ist
