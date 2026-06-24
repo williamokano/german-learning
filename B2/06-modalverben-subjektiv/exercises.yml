@@ -1,0 +1,952 @@
+lesson: B2/06
+title: "B2 · Lektion 6 — Übungen (Modalverben: subjektive Bedeutung)"
+intro: >
+  Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Lösungen in solutions.md.
+  Tipp: Verteil die Blöcke über mehrere Tage — H und A an Tag 1, B an Tag 2,
+  C an Tag 3, D an Tag 4 nach einer Pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Mia ist sich sicher, dass der neue Nachbar reich ist."
+        answer: true
+        why: 'Mia: „Der muss steinreich sein" — subjektives müssen = fast sicher.'
+      - q: "Bruno hält den Sportwagen für einen sicheren Beweis von Reichtum."
+        answer: false
+        why: 'Bruno: „Der Wagen könnte auch geleast sein" — er bleibt skeptisch.'
+      - q: "Laut Hausverwaltung soll der Nachbar Investmentbanker sein."
+        answer: true
+        why: 'Anna: „er soll Investmentbanker sein" — Gerücht mit sollen.'
+      - q: "Der Nachbar behauptet selbst, früher Profisportler gewesen zu sein."
+        answer: true
+        why: 'Anna: „Er selbst will früher Profisportler gewesen sein" — Selbstbehauptung mit wollen.'
+      - q: "Am Ende beschließen sie, weiter über den Nachbarn zu spekulieren."
+        answer: false
+        why: 'Bruno schlägt vor: „Lass uns einfach mal Hallo sagen, statt zu spekulieren".'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Wie schätzt Frau Yilmaz den Bewerber zuerst ein?"
+        options:
+          - { key: a, text: "Auf dem Papier dürfte er gut passen." }
+          - { key: b, text: "Er passt sicher nicht zur Firma." }
+          - { key: c, text: "Er muss sofort eingestellt werden." }
+        answer: a
+        why: 'Frau Yilmaz: „Auf dem Papier dürfte er gut zu uns passen" — wahrscheinlich, nicht sicher.'
+      - q: "Wie erklärt Herr Steinmeyer die Lücke im Lebenslauf?"
+        options:
+          - { key: a, text: "Er ist sicher, dass der Bewerber gelogen hat." }
+          - { key: b, text: "Da muss etwas passiert sein, das der Bewerber nicht erwähnt." }
+          - { key: c, text: "Die Lücke ist ein Druckfehler." }
+        answer: b
+        why: 'Herr Steinmeyer: „Da muss etwas passiert sein, das er nicht erwähnt" — starke Vermutung.'
+      - q: "Was behauptet der Bewerber laut Frau Yilmaz über sich selbst?"
+        options:
+          - { key: a, text: "Er will das ganze Team geführt haben." }
+          - { key: b, text: "Er soll arbeitslos gewesen sein." }
+          - { key: c, text: "Er will nie im Ausland gewesen sein." }
+        answer: a
+        why: 'Frau Yilmaz: „Er will das ganze Team geführt haben" — Selbstbehauptung mit wollen.'
+      - q: "Wie bewerten beide das Gerücht über den letzten Arbeitgeber?"
+        options:
+          - { key: a, text: "Sie glauben es sofort." }
+          - { key: b, text: "Sie wollen es nicht überbewerten." }
+          - { key: c, text: "Sie lehnen den Bewerber deshalb ab." }
+        answer: b
+        why: 'Herr Steinmeyer: „Solche Gerüchte dürfen wir nicht überbewerten".'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext: Radiomeldung"
+    audio: hoertext.mp3
+    instructions: "Hör den Hörtext und fülle die 6 Lücken. Drei Wörter im Kasten werden nicht gebraucht."
+    text: |
+      Und nun zu den Klatschnachrichten des Tages. Ein bekanntes Schauspielerpaar
+      {1} sich angeblich getrennt haben — das berichtet zumindest ein Boulevardblatt
+      unter Berufung auf eine anonyme {2}. Die beiden sollen seit Wochen getrennt
+      wohnen. Das Management der Stars {3} die Gerüchte allerdings entschieden:
+      Die Schauspielerin {4} von einer Trennung nichts wissen und spricht von reiner
+      {5}. Ihr Partner {6} derzeit ohnehin im Ausland sein, wo er einen
+      Film dreht.
+    bank: [soll, Quelle, dementiert, will, Spekulation, dürfte, muss, Schlagzeile, behauptet]
+    answers:
+      "1": soll
+      "2": Quelle
+      "3": dementiert
+      "4": will
+      "5": Spekulation
+      "6": dürfte
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Nachricht auf dem Anrufbeantworter"
+    audio: transcript_ansage1.mp3
+    optionLayout: block
+    instructions: "Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript liest."
+    transcript: 'Hallo Anna, hier ist Mia. Du, ich habe gerade gehört, der neue Nachbar soll doch gar kein Banker sein! Die Frau aus dem zweiten Stock sagt, er soll in Wirklichkeit Schauspieler sein. Und der Sportwagen — der dürfte tatsächlich nur geliehen sein, für einen Dreh. Verrückt, oder? Bruno hatte wohl recht: Das war alles nur Gerede. Ruf mich bitte zurück, dann erzähle ich dir mehr. Tschüss!'
+    items:
+      - q: "Was hat Mia über den Beruf des Nachbarn neu gehört?"
+        options:
+          - { key: a, text: "Er soll Banker sein." }
+          - { key: b, text: "Er soll in Wirklichkeit Schauspieler sein." }
+          - { key: c, text: "Er soll Profisportler sein." }
+        answer: b
+        why: '„Die Frau aus dem zweiten Stock sagt, er soll in Wirklichkeit Schauspieler sein".'
+      - q: "Was vermutet Mia jetzt über den Sportwagen?"
+        options:
+          - { key: a, text: "Er dürfte nur geliehen sein, für einen Dreh." }
+          - { key: b, text: "Er muss gekauft worden sein." }
+          - { key: c, text: "Er kann nicht echt sein." }
+        answer: a
+        why: '„Der dürfte tatsächlich nur geliehen sein, für einen Dreh".'
+      - q: "Wie bewertet Mia jetzt das frühere Gerede?"
+        options:
+          - { key: a, text: "Es war alles wahr." }
+          - { key: b, text: "Bruno hatte recht: Es war alles nur Gerede." }
+          - { key: c, text: "Niemand hatte etwas gesagt." }
+        answer: b
+        why: '„Bruno hatte wohl recht: Das war alles nur Gerede".'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: single-choice
+    title: "Objektiv oder subjektiv?"
+    instructions: "Bestimme, ob das Modalverb objektiv (Tatsache) oder subjektiv (Vermutung/Einschätzung) gemeint ist. 6 Items."
+    items:
+      - q: "Er muss jeden Tag um 6 Uhr aufstehen."
+        options:
+          - { key: a, text: "objektiv (Pflicht)" }
+          - { key: b, text: "subjektiv (Vermutung)" }
+        answer: a
+        why: "Handlungsverb aufstehen + Pflicht → objektiv."
+      - q: "Bei dem Licht muss er zu Hause sein."
+        options:
+          - { key: a, text: "objektiv (Pflicht)" }
+          - { key: b, text: "subjektiv (Vermutung)" }
+        answer: b
+        why: "Zustand (zu Hause sein) + Schluss aus Indizien → subjektiv."
+      - q: "Du darfst hier nicht rauchen."
+        options:
+          - { key: a, text: "objektiv (Erlaubnis/Verbot)" }
+          - { key: b, text: "subjektiv (Vermutung)" }
+        answer: a
+        why: "Verbot → objektiv."
+      - q: "Sie dürfte um die vierzig sein."
+        options:
+          - { key: a, text: "objektiv (Erlaubnis)" }
+          - { key: b, text: "subjektiv (Vermutung)" }
+        answer: b
+        why: "dürfte (Konj. II) + Schätzung → subjektiv."
+      - q: "Er will ein neues Auto kaufen."
+        options:
+          - { key: a, text: "objektiv (Wunsch/Absicht)" }
+          - { key: b, text: "subjektiv (Selbstbehauptung)" }
+        answer: a
+        why: "Absicht/Wunsch + Handlungsverb kaufen → objektiv."
+      - q: "Er will den Minister persönlich kennen."
+        options:
+          - { key: a, text: "objektiv (Wunsch/Absicht)" }
+          - { key: b, text: "subjektiv (Selbstbehauptung)" }
+        answer: b
+        why: "Behauptung über sich selbst (kennen = Zustand) → subjektiv."
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Sicherheitsskala einsetzen"
+    instructions: "Setz das passende Modalverb ein (muss / dürfte / könnte / kann nicht). 6 Items."
+    text: |
+      1. Das Licht brennt und das Auto steht da — er {1} zu Hause sein. (fast sicher)
+      2. Ich habe ihn gerade in Berlin gesehen — er {2} jetzt in München sein. (ausgeschlossen)
+      3. Das Paket ist schon unterwegs — es {3} morgen ankommen. (wahrscheinlich)
+      4. Vielleicht hat er den Termin vergessen — das {4} sein. (möglich)
+      5. Bei dem Stau {5} sie sich verspäten, anders geht es nicht. (fast sicher)
+      6. Sie ist erst 25 — sie {6} schon Professorin sein. (ausgeschlossen)
+    answers:
+      "1": muss
+      "2": "kann nicht"
+      "3": dürfte
+      "4": könnte
+      "5": muss
+      "6": "kann nicht"
+
+  - id: A3
+    block: A
+    type: single-choice
+    title: "sollen oder wollen?"
+    instructions: "Gerücht (man sagt) → sollen. Selbstbehauptung (er/sie sagt von sich) → wollen. Wähle die richtige Form. 6 Items."
+    items:
+      - q: "(Man sagt es:) Das neue Restaurant ____ ausgezeichnet sein."
+        options:
+          - { key: a, text: "soll" }
+          - { key: b, text: "will" }
+        answer: a
+        why: "Gerücht / man sagt → sollen."
+      - q: "(Er sagt von sich:) Der Zeuge ____ alles genau gesehen haben."
+        options:
+          - { key: a, text: "soll" }
+          - { key: b, text: "will" }
+        answer: b
+        why: "Selbstbehauptung → wollen."
+      - q: "(Man sagt es:) Die Firma ____ bald schließen."
+        options:
+          - { key: a, text: "soll" }
+          - { key: b, text: "will" }
+        answer: a
+        why: "Gerücht → sollen."
+      - q: "(Sie sagt von sich:) Sie ____ von nichts gewusst haben."
+        options:
+          - { key: a, text: "soll" }
+          - { key: b, text: "will" }
+        answer: b
+        why: "Selbstbehauptung → wollen."
+      - q: "(Die Leute erzählen:) Er ____ sehr reich sein."
+        options:
+          - { key: a, text: "soll" }
+          - { key: b, text: "will" }
+        answer: a
+        why: "Hörensagen → sollen."
+      - q: "(Er behauptet selbst:) Er ____ den Star persönlich kennen."
+        options:
+          - { key: a, text: "soll" }
+          - { key: b, text: "will" }
+        answer: b
+        why: "Behauptung über sich selbst → wollen."
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Gegenwart → Vergangenheit (Infinitiv Perfekt)"
+    instructions: "Setz die Vermutung in die Vergangenheit. Schreib das zweite Verb als Infinitiv Perfekt (Partizip II + sein/haben). 6 Items."
+    text: |
+      1. Er muss reich sein. → Er muss reich {1}. (gewesen + sein/haben?)
+      2. Sie dürfte den Termin vergessen. → Sie dürfte den Termin {2}. (vergessen + ?)
+      3. Er soll dort sein. → Er soll dort {3}.
+      4. Er will alles sehen. → Er will alles {4}.
+      5. Das kann ein Irrtum sein. → Das kann ein Irrtum {5}.
+      6. Sie soll viel reisen. → Sie soll viel {6}.
+    answers:
+      "1": "gewesen sein"
+      "2": "vergessen haben"
+      "3": "gewesen sein"
+      "4": "gesehen haben"
+      "5": "gewesen sein"
+      "6": "gereist sein"
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "sein oder haben im Infinitiv Perfekt?"
+    instructions: "Ergänze den Infinitiv Perfekt mit dem richtigen Hilfsverb (sein oder haben). 6 Items."
+    text: |
+      1. Bei dem Wetter kann er nicht zu Fuß {1} (gehen).
+      2. Sie dürfte den Schlüssel {2} (verlieren).
+      3. Er muss schon früher {3} (gehen), niemand hat ihn gesehen.
+      4. Angeblich soll der Manager das Geld selbst {4} (nehmen).
+      5. Sie soll früher in Paris {5} (leben).
+      6. Bei dem Lärm kann sie unmöglich {6} (schlafen).
+    answers:
+      "1": "gegangen sein"
+      "2": "verloren haben"
+      "3": "gegangen sein"
+      "4": "genommen haben"
+      "5": "gelebt haben"
+      "6": "geschlafen haben"
+
+  - id: A6
+    block: A
+    type: matching
+    title: "Sicherheitsgrad zuordnen"
+    instructions: "Ordne jeder Aussage (1–6) den passenden Sicherheitsgrad (a–f) zu."
+    left:
+      - { key: "1", text: "Das muss stimmen." }
+      - { key: "2", text: "Das dürfte stimmen." }
+      - { key: "3", text: "Das könnte stimmen." }
+      - { key: "4", text: "Das kann nicht stimmen." }
+      - { key: "5", text: "Das mag stimmen, aber …" }
+      - { key: "6", text: "Das müsste eigentlich stimmen." }
+    right:
+      - { key: a, text: "fast sicher (≈ 95 %)" }
+      - { key: b, text: "wahrscheinlich (≈ 75 %)" }
+      - { key: c, text: "möglich (≈ 50 %)" }
+      - { key: d, text: "ausgeschlossen" }
+      - { key: e, text: "Zugeständnis mit Einwand" }
+      - { key: f, text: "begründete Erwartung" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "mögen als Zugeständnis"
+    instructions: "Ergänze mit mögen (mag) und einem passenden Gegensatz mit aber/trotzdem/doch. 4 Items."
+    text: |
+      1. Das {1} stimmen, aber es ändert nichts an der Sache.
+      2. Er {2} ein Experte sein, trotzdem irrt er sich hier.
+      3. Sie {3} recht haben — beweisen kann sie es aber nicht.
+      4. Das Argument {4} überzeugend klingen, doch die Zahlen fehlen.
+    answers:
+      "1": mag
+      "2": mag
+      "3": mag
+      "4": mag
+
+  - id: A8
+    block: A
+    type: order
+    title: "Satzbau: Vermutung über die Vergangenheit"
+    prompt: "Bring die Wörter in die richtige Reihenfolge. Der Infinitiv Perfekt steht am Satzende."
+    instructions: "Ordne die Wörter zu einem korrekten Satz."
+    items:
+      - tiles: [er, muss, sehr, reich, gewesen, sein]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Er muss sehr reich gewesen sein."
+      - tiles: [sie, dürfte, den, Termin, vergessen, haben]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Sie dürfte den Termin vergessen haben."
+      - tiles: [der, Zeuge, will, alles, gesehen, haben]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Der Zeuge will alles gesehen haben."
+      - tiles: [er, soll, früher, viel, gereist, sein]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Er soll früher viel gereist sein."
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "dürfte vs. darf"
+    instructions: "Vermutung → dürfte (Konj. II). Erlaubnis → darf. Setz die richtige Form ein. 5 Items."
+    text: |
+      1. Du {1} hier nicht parken, das ist verboten. (Erlaubnis/Verbot)
+      2. Sie {2} schon zu Hause sein, es ist spät. (Vermutung)
+      3. Der Brief {3} morgen ankommen. (Vermutung)
+      4. Kinder {4} diesen Film nicht sehen. (Erlaubnis/Verbot)
+      5. Er {5} um die fünfzig sein, schätze ich. (Vermutung)
+    answers:
+      "1": darf
+      "2": dürfte
+      "3": dürfte
+      "4": dürfen
+      "5": dürfte
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Modalverb passend zum Sicherheitsgrad"
+    instructions: "Wähle muss / dürfte / könnte / kann nicht / soll / will je nach Kontext in Klammern. 6 Items."
+    text: |
+      1. Alles spricht dafür: Sie {1} die neue Chefin sein. (fast sicher)
+      2. Man erzählt sich, er {2} im Lotto gewonnen haben. (Gerücht, Vergangenheit)
+      3. Er behauptet, er {3} den Unfall gesehen haben. (Selbstbehauptung, Vergangenheit)
+      4. Vielleicht ist es ein Missverständnis — das {4} sein. (möglich)
+      5. Ich habe ihn gerade gesehen, er {5} schon weg sein. (ausgeschlossen)
+      6. Das Paket ist unterwegs, es {6} bald da sein. (wahrscheinlich)
+    answers:
+      "1": muss
+      "2": soll
+      "3": will
+      "4": könnte
+      "5": "kann nicht"
+      "6": dürfte
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Dialog ergänzen: Wer ist die neue Kollegin?"
+    instructions: "Fülle die 8 Lücken mit dem passenden Modalverb. Zwei Wörter werden nicht gebraucht."
+    text: |
+      — Hast du die neue Kollegin gesehen? Die {1} eine echte Expertin sein, so sicher wie sie auftritt.
+      — Vorsicht, das ist nur dein Eindruck. Sie {2} auch einfach selbstbewusst sein, das heißt noch nichts.
+      — Man sagt, sie {3} früher bei Google gearbeitet haben.
+      — „Man sagt" — wer denn? Sie selbst {4} bei drei großen Firmen gewesen sein, behauptet sie zumindest.
+      — Na ja, das {5} ja stimmen, aber überprüft hat es niemand.
+      — Genau. Bei der Lücke im Lebenslauf {6} etwas passiert sein, das sie verschweigt.
+      — Oder sie {7} im Ausland gewesen sein. Das steht oft nicht im CV.
+      — Du hast recht, wir {8} sie einfach fragen, statt zu raten.
+    bank: [muss, könnte, soll, will, mag, muss, könnte, sollten, dürfte, darf]
+    answers:
+      "1": muss
+      "2": könnte
+      "3": soll
+      "4": will
+      "5": mag
+      "6": muss
+      "7": könnte
+      "8": sollten
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Finde den Fehler"
+    prompt: 'Jeder Satz enthält genau einen Fehler. Finde ihn und schreib den Satz korrekt.'
+    stimulus: |
+      1. Er muss reich zu sein.
+      2. Er will sehr reich sein. (gemeint: man sagt es / Gerücht)
+      3. Vielleicht muss er der Chef sein.
+      4. Sie dürfte den Termin vergessen sein.
+      5. Er musste reich gewesen sein. (gemeint: Vermutung über die Vergangenheit)
+      6. Das mag stimmen, und es ändert alles.
+      7. Er soll dort gewesen. (Infinitiv fehlt)
+      8. Er darf um die vierzig sein. (gemeint: Vermutung)
+    model: |
+      1. Er muss reich sein. (Modalverb + Infinitiv ohne „zu")
+      2. Er soll sehr reich sein. (Gerücht → sollen, nicht wollen)
+      3. Er muss der Chef sein. (subjektives müssen ist schon fast sicher — kein „vielleicht"; oder: Vielleicht ist er der Chef.)
+      4. Sie dürfte den Termin vergessen haben. („vergessen" mit haben, nicht sein)
+      5. Er muss reich gewesen sein. (Vermutung → Modalverb im Präsens + Infinitiv Perfekt, nicht „musste")
+      6. Das mag stimmen, aber es ändert nichts. (mögen braucht den Gegensatz „aber")
+      7. Er soll dort gewesen sein. (Infinitiv „sein" ergänzen)
+      8. Er dürfte um die vierzig sein. (Vermutung → dürfte, nicht darf)
+
+  - id: B3
+    block: B
+    type: free-write
+    title: "Umschreiben: Vermutung → Modalverb"
+    prompt: "Schreib jeden Satz mit einem subjektiven Modalverb (muss / dürfte / könnte / kann nicht) so um, dass der Sicherheitsgrad erhalten bleibt."
+    stimulus: |
+      1. Ich bin fast sicher, dass er krank ist. → Er ____.
+      2. Wahrscheinlich ist sie schon zu Hause. → Sie ____.
+      3. Es ist gut möglich, dass es ein Irrtum ist. → Das ____.
+      4. Es ist ausgeschlossen, dass er das gesagt hat. → Er ____.
+      5. Wahrscheinlich hat sie den Bus verpasst. → Sie ____.
+      6. Es ist fast sicher, dass er schon gegangen ist. → Er ____.
+    model: |
+      1. Er muss krank sein.
+      2. Sie dürfte schon zu Hause sein.
+      3. Das könnte ein Irrtum sein.
+      4. Er kann das nicht gesagt haben.
+      5. Sie dürfte den Bus verpasst haben.
+      6. Er muss schon gegangen sein.
+
+  - id: B4
+    block: B
+    type: free-write
+    title: "Umschreiben: Gerücht & Selbstbehauptung"
+    prompt: "Gib jede Information einmal als Gerücht (sollen) und einmal als Selbstbehauptung (wollen) wieder."
+    stimulus: |
+      Beispiel: Diese Person hat in Harvard studiert.
+      → Gerücht: Sie soll in Harvard studiert haben.
+      → Selbstbehauptung: Sie will in Harvard studiert haben.
+
+      1. Der Nachbar war früher Profisportler.
+      2. Die Politikerin hat von der Affäre nichts gewusst.
+      3. Der Manager hat das Projekt allein geleitet.
+    model: |
+      1. Gerücht: Der Nachbar soll früher Profisportler gewesen sein.
+         Selbstbehauptung: Der Nachbar will früher Profisportler gewesen sein.
+      2. Gerücht: Die Politikerin soll von der Affäre nichts gewusst haben.
+         Selbstbehauptung: Die Politikerin will von der Affäre nichts gewusst haben.
+      3. Gerücht: Der Manager soll das Projekt allein geleitet haben.
+         Selbstbehauptung: Der Manager will das Projekt allein geleitet haben.
+
+  - id: B5
+    block: B
+    type: matching
+    title: "Aussage und Bedeutung verbinden"
+    instructions: "Ordne jeder Modalverb-Aussage (1–6) die richtige Bedeutung (a–f) zu."
+    left:
+      - { key: "1", text: "Er soll reich sein." }
+      - { key: "2", text: "Er will reich sein." }
+      - { key: "3", text: "Er muss reich sein." }
+      - { key: "4", text: "Er dürfte reich sein." }
+      - { key: "5", text: "Er kann nicht reich sein." }
+      - { key: "6", text: "Er mag reich sein, aber …" }
+    right:
+      - { key: a, text: "Man sagt es (Gerücht)." }
+      - { key: b, text: "Er behauptet es selbst (mit Zweifel)." }
+      - { key: c, text: "Der Sprecher ist fast sicher." }
+      - { key: d, text: "Der Sprecher hält es für wahrscheinlich." }
+      - { key: e, text: "Der Sprecher schließt es aus." }
+      - { key: f, text: "Der Sprecher gibt es zu, hat aber einen Einwand." }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+
+  - id: B6
+    block: B
+    type: order
+    title: "Satzbau: subjektive Modalverben im Nebensatz und Hauptsatz"
+    prompt: "Ordne die Wörter zu einem korrekten Satz. Achte auf die Verbstellung."
+    instructions: "Ordne die Wörter zu einem korrekten Satz."
+    items:
+      - tiles: [das, könnte, ein, Missverständnis, sein]
+        answer: [0, 1, 2, 3, 4]
+        note: "Das könnte ein Missverständnis sein."
+      - tiles: [ich, glaube, dass, er, reich, sein, muss]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Ich glaube, dass er reich sein muss."
+      - tiles: [angeblich, soll, die, Firma, bald, schließen]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Angeblich soll die Firma bald schließen."
+      - tiles: [er, will, den, Minister, persönlich, kennen]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Er will den Minister persönlich kennen."
+
+  - id: B7
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Vom Präteritum (objektiv) zum Infinitiv Perfekt (subjektiv)"
+    instructions: "Achtung: Hier sollen Vermutungen entstehen, keine Pflichten/Absichten. Setz das Modalverb ins Präsens und bilde den Infinitiv Perfekt. 3 Sätze (je 2 Lücken)."
+    text: |
+      1. (objektiv) Er musste gehen. → (Vermutung) Er {1} schon {2} (gehen).
+      2. (objektiv) Sie wollte das Buch lesen. → (Selbstbehauptung) Sie {3} das Buch {4} (lesen).
+      3. (objektiv) Wir mussten lange warten. → (Vermutung) Sie {5} lange {6} (warten).
+    answers:
+      "1": muss
+      "2": "gegangen sein"
+      "3": will
+      "4": "gelesen haben"
+      "5": "dürfte"
+      "6": "gewartet haben"
+
+  - id: B8
+    block: B
+    type: odd-one-out
+    title: "Was passt nicht?"
+    instructions: "Streich das Wort, das nicht in die Reihe passt, und erklär warum."
+    groups:
+      - items: [muss, dürfte, könnte, darf]
+        odd: 3
+        why: "darf drückt Erlaubnis aus (objektiv); die anderen sind subjektive Vermutungsformen."
+      - items: [Gerücht, Vermutung, Beweis, Spekulation]
+        odd: 2
+        why: "Beweis ist gesicherte Information; die anderen sind ungesicherte Annahmen/Gerüchte."
+      - items: [angeblich, vermutlich, sicher, offenbar]
+        odd: 2
+        why: "sicher drückt Gewissheit aus; die anderen sind Unsicherheits-Adverbien."
+      - items: [skeptisch, misstrauisch, zweifelnd, glaubwürdig]
+        odd: 3
+        why: "glaubwürdig beschreibt vertrauenswürdige Information; die anderen beschreiben eine zweifelnde Haltung."
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Forenbeitrag: Spekulieren über eine Schlagzeile"
+    prompt: 'Du hast die Schlagzeile unten gelesen. Schreib einen kurzen Forenbeitrag (5–6 Sätze), in dem du über den wahren Hintergrund spekulierst.'
+    stimulus: |
+      **Forenbeitrag** *(Forenbeitrag)*:
+      > Schlagzeile aus einem Boulevardblatt: „Bekannter Schauspieler verlässt überraschend die Stadt — keiner weiß, warum!" Eine anonyme Quelle behauptet, es gebe einen Skandal.
+
+      **Deine Aufgabe:** Schreib 5–6 Sätze, in denen du als Forennutzer spekulierst, was wirklich passiert sein könnte. Bewerte dabei die Glaubwürdigkeit der Quelle.
+    use:
+      - "mindestens 2 Sätze mit der Sicherheitsskala (muss / dürfte / könnte / kann nicht)"
+      - "mindestens 1 Satz mit sollen (Gerücht) oder wollen (Selbstbehauptung)"
+      - "mindestens 1 Vermutung über die Vergangenheit (Infinitiv Perfekt: ... gewesen sein / ... gemacht haben)"
+      - 'einen abschließenden Satz, der Skepsis ausdrückt (z. B. mit „aber" oder „mag … sein")'
+    selfCheck:
+      - 'Habe ich nach dem Modalverb den Infinitiv ans Satzende gestellt (ohne „zu")?'
+      - "Habe ich beim Infinitiv Perfekt das richtige Hilfsverb (sein/haben) gewählt?"
+      - "Habe ich Gerücht (sollen) und Selbstbehauptung (wollen) nicht verwechselt?"
+    model: |
+      Also, eine anonyme Quelle — das muss man mit Vorsicht genießen. Der
+      Schauspieler dürfte einfach eine neue Rolle in einer anderen Stadt
+      angenommen haben, das passiert ständig. Angeblich soll es einen Skandal
+      geben, aber bewiesen ist nichts. Vielleicht will das Boulevardblatt nur
+      Klicks sammeln. Er könnte auch aus privaten Gründen weggezogen sein. Das
+      mag spannend klingen, aber wahrscheinlich steckt eine ganz banale
+      Erklärung dahinter.
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext: Die Kunst der vorsichtigen Vermutung"
+    instructions: "Fülle jede Lücke mit einem Wort. 10 Items."
+    text: |
+      Gute Sprecher behaupten selten etwas mit absoluter Sicherheit. Sie sagen
+      nicht „Der Plan ist gescheitert", sondern „Der Plan (1) {1} gescheitert
+      sein" — eine begründete Vermutung. Im Journalismus schreibt eine seriöse
+      Zeitung: „Der Politiker (2) {2} Gelder angenommen haben." Das Wort
+      (3) {3} macht klar: Hier wird ein Vorwurf (4) {4} (wiedergeben),
+      nicht bewiesen. Behauptet der Politiker selbst, er habe nie Geld genommen,
+      heißt es: „Er (5) {5} von nichts gewusst haben." Auch hier (6) {6}
+      sich die Zeitung zurück und distanziert sich von der (7) {7}. Im Alltag
+      gilt dasselbe: Wenn dein Kollege fehlt, (8) {8} er nicht gleich krank
+      sein — er (9) {9} auch im Stau stecken. Wer seine Modalverben sorgfältig
+      wählt, versteht den Unterschied zwischen Wissen und (10) {10}.
+    answers:
+      "1": dürfte
+      "2": soll
+      "3": soll
+      "4": wiedergegeben
+      "5": will
+      "6": hält
+      "7": Aussage
+      "8": muss
+      "9": könnte
+      "10": Vermuten
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    items:
+      - q: "Bei dem Licht (1) ____ er zu Hause sein."
+        options:
+          - { key: a, text: "muss" }
+          - { key: b, text: "musste" }
+          - { key: c, text: "müsste zu" }
+        answer: a
+        why: 'Vermutung in der Gegenwart → muss + Infinitiv ohne zu; „musste" wäre objektiv (Pflicht).'
+      - q: "Man erzählt sich, er (2) ____ im Lotto gewonnen haben."
+        options:
+          - { key: a, text: "will" }
+          - { key: b, text: "soll" }
+          - { key: c, text: "darf" }
+        answer: b
+        why: "Gerücht (man erzählt) → sollen."
+      - q: "Er behauptet, er (3) ____ den Unfall gesehen haben."
+        options:
+          - { key: a, text: "soll" }
+          - { key: b, text: "muss" }
+          - { key: c, text: "will" }
+        answer: c
+        why: "Selbstbehauptung (er behauptet von sich) → wollen."
+      - q: "Ich habe ihn gerade gesehen — er (4) ____ schon weg sein."
+        options:
+          - { key: a, text: "kann nicht" }
+          - { key: b, text: "muss" }
+          - { key: c, text: "dürfte" }
+        answer: a
+        why: "ausgeschlossen → kann nicht."
+      - q: "Das Paket ist unterwegs, es (5) ____ morgen ankommen."
+        options:
+          - { key: a, text: "dürfte" }
+          - { key: b, text: "darf" }
+          - { key: c, text: "muss nicht" }
+        answer: a
+        why: 'wahrscheinlich → dürfte (Konj. II); „darf" wäre Erlaubnis.'
+      - q: "Das (6) ____ stimmen, aber beweisen kann er es nicht."
+        options:
+          - { key: a, text: "muss" }
+          - { key: b, text: "mag" }
+          - { key: c, text: "soll" }
+        answer: b
+        why: "Zugeständnis mit Einwand (aber) → mögen."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    bankCase: upper
+    bankSort: true
+    title: "Sprachbausteine Teil 2 (Wortbank)"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht."
+    text: |
+      Anna und Bruno betrachteten ein altes Foto. „Der Mann (1) {1} reich
+      gewesen sein", sagte Anna. „Anders (2) {2} man sich die Villa nicht
+      erklären." Bruno blieb skeptisch: „Er (3) {3} das Haus auch nur gemietet
+      haben." Auf der Rückseite stand eine Notiz. „Angeblich (4) {4} dieser
+      Herr ein Geschäftsmann gewesen sein", las Bruno, „zumindest behauptet das
+      der Verkäufer." Anna überlegte: „Er (5) {5} ein Geschäftsmann gewesen
+      sein, das schließe ich nicht aus. Aber er (6) {6} nicht der Besitzer
+      gewesen sein — seine Kleidung ist zu einfach." Bruno nickte: „Vermutlich
+      (7) {7} er nur ein Angestellter. Der Verkäufer (8) {8} uns alles
+      Mögliche erzählen, um das Foto teuer zu verkaufen." Sicher (9) {9} sie
+      es nicht. „Egal", sagte Anna, „die Geschichten, die wir uns ausdenken,
+      (10) {10} oft interessanter als die Wahrheit."
+    bank: [MUSS, KANN, KANN, KÖNNTE, SOLL, MAG, WAR, WILL, WUSSTEN, SIND, DARF, DÜRFTE, SOLLTE, WOLLTE, HATTE]
+    answers:
+      "1": MUSS
+      "2": KANN
+      "3": KÖNNTE
+      "4": SOLL
+      "5": MAG
+      "6": KANN
+      "7": WAR
+      "8": WILL
+      "9": WUSSTEN
+      "10": SIND
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Die Kunst der vorsichtigen Vermutung)"
+    instructions: "Lies den Lesetext in lesson.md, Abschnitt 7. Richtig (R) oder falsch (F)?"
+    items:
+      - q: "Gute Sprecher behaupten meist alles mit absoluter Sicherheit."
+        answer: false
+        why: '„Gute Sprecher behaupten selten etwas mit absoluter Sicherheit".'
+      - q: 'Das Wort „soll" zeigt, dass ein Vorwurf nur wiedergegeben, nicht bewiesen wird.'
+        answer: true
+        why: '„Das kleine Wort soll macht klar: Hier wird ein Vorwurf wiedergegeben, nicht bewiesen".'
+      - q: 'Wenn jemand sagt „Er will von nichts gewusst haben", gibt er ein Gerücht anderer wieder.'
+        answer: false
+        why: 'wollen = Selbstbehauptung; der Politiker behauptet das selbst.'
+      - q: "Laut Text liegt richtig, wer beim Fehlen eines Kollegen vorschnell auf Krankheit schließt."
+        answer: false
+        why: '„Wer vorschnell urteilt, liegt oft falsch" — der Kollege könnte auch im Stau stecken.'
+      - q: "Der Text sieht vorsichtige Vermutungen als Zeichen von Reife."
+        answer: true
+        why: '„Diese Vorsicht ist kein Zeichen von Schwäche, sondern von Reife".'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Radiomeldung)"
+    instructions: |
+      > Und nun zu den Klatschnachrichten des Tages. Ein bekanntes Schauspielerpaar
+      > soll sich angeblich getrennt haben — das berichtet zumindest ein Boulevardblatt
+      > unter Berufung auf eine anonyme Quelle. Die beiden sollen seit Wochen getrennt
+      > wohnen. Das Management der Stars dementiert die Gerüchte allerdings entschieden:
+      > Die Schauspielerin will von einer Trennung nichts wissen und spricht von reiner
+      > Spekulation. Ihr Partner dürfte derzeit ohnehin im Ausland sein, wo er einen
+      > Film dreht.
+
+      Wähle a, b oder c.
+    items:
+      - q: "Woher stammt die Information über die Trennung?"
+        options:
+          - { key: a, text: "Von den Stars selbst." }
+          - { key: b, text: "Von einem Boulevardblatt mit anonymer Quelle." }
+          - { key: c, text: "Von der Polizei." }
+        answer: b
+        why: '„das berichtet zumindest ein Boulevardblatt unter Berufung auf eine anonyme Quelle".'
+      - q: "Wie reagiert das Management der Stars?"
+        options:
+          - { key: a, text: "Es bestätigt die Trennung." }
+          - { key: b, text: "Es schweigt." }
+          - { key: c, text: "Es dementiert die Gerüchte entschieden." }
+        answer: c
+        why: '„Das Management der Stars dementiert die Gerüchte allerdings entschieden".'
+      - q: "Was sagt die Schauspielerin selbst?"
+        options:
+          - { key: a, text: "Sie will von einer Trennung nichts wissen." }
+          - { key: b, text: "Sie bestätigt die Trennung." }
+          - { key: c, text: "Sie ist im Ausland." }
+        answer: a
+        why: '„Die Schauspielerin will von einer Trennung nichts wissen" — Selbstbehauptung mit wollen.'
+      - q: "Was vermutet der Sprecher über den Partner?"
+        options:
+          - { key: a, text: "Er muss in der Stadt sein." }
+          - { key: b, text: "Er dürfte derzeit im Ausland sein." }
+          - { key: c, text: "Er soll im Krankenhaus sein." }
+        answer: b
+        why: '„Ihr Partner dürfte derzeit ohnehin im Ausland sein".'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Eine vorsichtige Einschätzung"
+    prompt: "Schreib einen kurzen Text (8–10 Sätze): Eine Person aus deinem Umfeld (real oder erfunden) verhält sich seit Tagen seltsam. Spekuliere über die möglichen Gründe und stuf deine Vermutungen ab."
+    use:
+      - "die Sicherheitsskala mit mindestens 3 Stufen (muss / dürfte / könnte / kann nicht)"
+      - "mindestens 1 Gerücht mit sollen und 1 Selbstbehauptung mit wollen"
+      - "mindestens 2 Vermutungen über die Vergangenheit (Infinitiv Perfekt)"
+      - "mindestens 1 Zugeständnis mit mögen (mag … sein, aber …)"
+    selfCheck:
+      - 'Habe ich nach jedem Modalverb den Infinitiv ans Satzende gestellt (ohne „zu")?'
+      - "Habe ich beim Infinitiv Perfekt das richtige Hilfsverb (sein/haben) gewählt?"
+      - 'Habe ich „musste/wollte" (objektiv) nicht mit der subjektiven Vergangenheit verwechselt?'
+      - "Sind es mindestens 8–10 Sätze?"
+    model: |
+      Mein Kollege Tom verhält sich seit Tagen seltsam. Er kommt zu spät und ist
+      sehr still — er muss große Sorgen haben, anders kann ich mir das nicht
+      erklären. Vielleicht hat es mit seiner Familie zu tun; das könnte sein,
+      sicher weiß ich es nicht. Man sagt, er soll Streit mit dem Chef gehabt
+      haben, aber das ist nur Gerede. Er selbst will von keinem Problem wissen
+      und behauptet, alles sei in Ordnung. Das mag stimmen, aber sein Gesicht
+      sagt etwas anderes. Er dürfte schlecht geschlafen haben, so müde wie er
+      aussieht. Eines ist klar: So entspannt wie früher kann er im Moment nicht
+      sein. Ich werde ihn einfach fragen, statt weiter zu raten.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items."
+    text: |
+      1. Vermutung „fast sicher": Er {1} reich sein.
+      2. Vermutung „wahrscheinlich": Sie {2} schon da sein.
+      3. „ausgeschlossen": Das {3} stimmen. (zwei Wörter)
+      4. Gerücht: Er {4} reich sein. (man sagt)
+      5. Selbstbehauptung: Er {5} alles gesehen haben. (er sagt von sich)
+      6. Vergangenheit von „Er muss reich sein": Er muss reich {6}.
+      7. Vergangenheit von „Sie dürfte es vergessen": Sie dürfte es {7}.
+      8. (B1/07) Objektiv: Pflicht, Präsens, ich-Form von müssen: Ich {8} arbeiten.
+      9. (B2/03) Infinitiv Perfekt von „gehen": {9}
+      10. (B2/03) Infinitiv Perfekt von „sehen": {10}
+      11. Zugeständnis: Das {11} stimmen, aber …
+      12. (B1/07) Objektiv: Erlaubnis, du-Form von dürfen: Du {12} gehen.
+      13. „möglich": Das {13} ein Irrtum sein.
+      14. Übersetze: „He must have been rich." → {14}
+      15. Übersetze: „She is said to have travelled a lot." → {15}
+    answers:
+      "1": muss
+      "2": dürfte
+      "3": "kann nicht"
+      "4": soll
+      "5": will
+      "6": "gewesen sein"
+      "7": "vergessen haben"
+      "8": muss
+      "9": "gegangen sein"
+      "10": "gesehen haben"
+      "11": mag
+      "12": darfst
+      "13": könnte
+      "14": "Er muss reich gewesen sein."
+      "15": "Sie soll viel gereist sein."
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Streich das Wort, das nicht passt, und erklär warum."
+    groups:
+      - items: [muss, dürfte, könnte, darf]
+        odd: 3
+        why: "darf = Erlaubnis (objektiv); die anderen sind subjektive Vermutungsformen."
+      - items: [soll, will, mag, musste]
+        odd: 3
+        why: "musste ist Präteritum (objektiv: Pflicht); die anderen sind subjektive Modalverben im Präsens."
+      - items: [Gerücht, Behauptung, Spekulation, Beweis]
+        odd: 3
+        why: "Beweis ist gesichert; die anderen sind ungeprüfte Aussagen."
+      - items: [angeblich, vermutlich, offenbar, bestimmt]
+        odd: 3
+        why: "bestimmt drückt Gewissheit aus; die anderen markieren Unsicherheit."
+      - items: ["gewesen sein", "gegangen sein", "gesehen haben", "musste gehen"]
+        odd: 3
+        why: '„musste gehen" ist objektives Präteritum; die anderen sind Infinitiv-Perfekt-Formen für subjektive Vermutungen.'
+      - items: [skeptisch, misstrauisch, zweifelnd, glaubwürdig]
+        odd: 3
+        why: "glaubwürdig = vertrauenswürdig; die anderen beschreiben eine zweifelnde Haltung."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: B1/07, B2/03, B2/04"
+    instructions: "Wiederholung früherer Lektionen. 10 Items."
+    text: |
+      **Aus B1/07 (objektive Modalverben):**
+      1. Pflicht: „Ich {1} (müssen) heute lange arbeiten."
+      2. Fähigkeit: „Sie {2} (können) sehr gut Deutsch."
+      3. Erlaubnis: „Hier {3} (dürfen) man nicht rauchen."
+
+      **Aus B2/03 (Infinitiv Perfekt / Konjunktiv II der Vergangenheit):**
+      4. Infinitiv Perfekt von „kommen": {4}
+      5. Infinitiv Perfekt von „machen": {5}
+      6. Konj. II Vergangenheit: „Ich {6} (haben) das nicht gemacht."
+      7. Konj. II Vergangenheit: „Sie {7} (sein) früher gegangen."
+
+      **Aus B2/04 (indirekte Rede mit sollen/wollen — Abgrenzung):**
+      8. Gerücht (man sagt): Er {8} im Ausland sein.
+      9. Selbstbehauptung (er sagt von sich): Er {9} alles gewusst haben.
+      10. Indirekte Rede, Konjunktiv I von „haben", er-Form: Er sagt, er {10} kein Geld.
+    answers:
+      "1": muss
+      "2": kann
+      "3": darf
+      "4": "gekommen sein"
+      "5": "gemacht haben"
+      "6": hätte
+      "7": wäre
+      "8": soll
+      "9": will
+      "10": habe
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (bewerte dich /20)"
+    notes: "16+ / 20 → Lektion B2/07. Unter 16 → wiederhol Block A (A2–A5) und Block B (B2 Finde den Fehler) morgen, dann teste D4 erneut."
+    text: |
+      **Sicherheitsskala — setz das Modalverb ein:**
+      1. „fast sicher": Er {1} der Chef sein.
+      2. „wahrscheinlich": Sie {2} um die vierzig sein.
+      3. „möglich": Das {3} ein Missverständnis sein.
+      4. „ausgeschlossen": Das {4} wahr sein. (zwei Wörter)
+
+      **sollen / wollen / mögen:**
+      5. Gerücht: Er {5} sehr reich sein.
+      6. Selbstbehauptung: Sie {6} den Star kennen.
+      7. Zugeständnis: Das {7} stimmen, aber …
+
+      **Vergangenheit (Infinitiv Perfekt):**
+      8. „Er muss reich sein." → Er muss reich {8}.
+      9. „Sie soll viel reisen." → Sie soll viel {9}.
+      10. „Er will den Star kennen." → Er will den Star {10}.
+
+      **Kontrast objektiv/subjektiv:**
+      11. Objektiv (Pflicht, Präteritum): „Er {11} (müssen) gestern arbeiten."
+      12. Subjektiv (Vermutung, Vergangenheit): „Er {12} gestern gearbeitet haben." (fast sicher)
+
+      **dürfte vs. darf:**
+      13. Vermutung: „Der Brief {13} morgen kommen."
+      14. Erlaubnis: „Du {14} jetzt gehen."
+
+      **Übersetzen:**
+      15. „He must have forgotten the appointment." → {15}
+      16. „She is said to have lived in Paris." → {16}
+      17. „He claims to have seen everything." → {17}
+
+      **Wortschatz:**
+      18. Nomen zu „vermuten": die {18}
+      19. Nomen zu „behaupten": die {19}
+      20. (B2/03) Infinitiv Perfekt von „bleiben": {20}
+    answers:
+      "1": muss
+      "2": dürfte
+      "3": könnte
+      "4": "kann nicht"
+      "5": soll
+      "6": will
+      "7": mag
+      "8": "gewesen sein"
+      "9": "gereist sein"
+      "10": "gekannt haben"
+      "11": musste
+      "12": muss
+      "13": dürfte
+      "14": darfst
+      "15": "Er muss den Termin vergessen haben."
+      "16": "Sie soll in Paris gelebt haben."
+      "17": "Er will alles gesehen haben."
+      "18": Vermutung
+      "19": Behauptung
+      "20": "geblieben sein"

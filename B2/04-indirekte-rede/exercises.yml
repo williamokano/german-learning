@@ -1,0 +1,904 @@
+lesson: B2/04
+title: "B2 · Lektion 4 — Übungen (Indirekte Rede)"
+intro: >
+  Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Lösungen in solutions.md.
+  Tipp: Verteile die Blöcke über mehrere Tage — H und A an Tag 1, B an Tag 2,
+  C an Tag 3, D an Tag 4 nach einer Pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Anna berichtet von einem Streik bei der Bahn."
+        answer: true
+        why: 'Anna: „Es gibt anscheinend wieder Streik bei der Bahn."'
+      - q: "Laut Anna seien die Löhne der Mitarbeiter zu hoch."
+        answer: false
+        why: 'Der Gewerkschaftschef sagte, die Löhne seien zu niedrig.'
+      - q: "Die Bahn behauptet, ihr Angebot sei schon sehr gut."
+        answer: true
+        why: 'Anna: „Die Bahn behauptet, das Angebot sei schon sehr gut."'
+      - q: 'Bruno bemerkt, dass Anna ständig „habe“ und „sei“ benutzt.'
+        answer: true
+        why: 'Bruno: „Merkst du, dass du die ganze Zeit „habe“ und „sei“ sagst?“'
+      - q: "Anna sagt, sie behaupte selbst, dass alles wahr sei."
+        answer: false
+        why: 'Anna betont, sie gebe es nur weiter und behaupte gerade nicht, dass es wahr sei.'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    items:
+      - q: 'Was kritisiert Frau Yilmaz an dem Satz „Die Ministerin senkt die Steuern“?'
+        options:
+          - { key: a, text: "Er sei grammatisch falsch." }
+          - { key: b, text: "Er klinge wie die eigene Behauptung des Journalisten." }
+          - { key: c, text: "Er sei zu lang." }
+        answer: b
+        why: 'Frau Yilmaz: „Das ist Ihre eigene Behauptung." — Besser Konjunktiv I.'
+      - q: "Wie soll der Satz korrekt heißen?"
+        options:
+          - { key: a, text: "Die Ministerin erklärte, sie senke die Steuern." }
+          - { key: b, text: "Die Ministerin senkt die Steuern." }
+          - { key: c, text: "Die Ministerin hat die Steuern gesenkt." }
+        answer: a
+        why: 'Frau Yilmaz schlägt den Konjunktiv I vor: „sie senke die Steuern".'
+      - q: 'Was tut man, wenn der Konjunktiv I wie der Indikativ aussieht (z. B. „fordern“)?'
+        options:
+          - { key: a, text: "Man lässt den Konjunktiv weg." }
+          - { key: b, text: "Man weicht auf den Konjunktiv II aus (forderten / würden fordern)." }
+          - { key: c, text: "Man benutzt den Imperativ." }
+        answer: b
+        why: 'Bei Formgleichheit weicht man auf Konjunktiv II aus.'
+      - q: 'Wie gibt man die Aufforderung „Bleiben Sie sachlich!“ wieder?'
+        options:
+          - { key: a, text: "Die Ministerin sagte, man bleibe sachlich." }
+          - { key: b, text: "Die Ministerin sagte, man solle sachlich bleiben." }
+          - { key: c, text: "Die Ministerin sagte, ob man sachlich bleibe." }
+        answer: b
+        why: 'Aufforderungen werden mit sollen wiedergegeben: „man solle sachlich bleiben".'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext: Die Nachrichten um zwölf"
+    audio: hoertext.mp3
+    instructions: "Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten bleiben übrig."
+    text: |
+      Hier sind die Nachrichten. Die Gewerkschaft hat einen Warnstreik angekündigt.
+      Ein Sprecher erklärte, die Löhne {1} zu niedrig und die Mitarbeiter
+      {2} so nicht weiterarbeiten. Die Bahn teilte mit, sie {3} bereits ein
+      gutes Angebot gemacht. Nach Angaben der Bahn {4} die Gewerkschaft nicht
+      ernsthaft verhandeln. Beide Seiten betonten, sie {5} zu Gesprächen bereit.
+      Die Reisenden wurden gebeten, sie {6} sich vor der Fahrt informieren.
+    bank: [seien, könnten, habe, wolle, seien, sollten, hätten, müsse, werde]
+    answers:
+      "1": seien
+      "2": könnten
+      "3": habe
+      "4": wolle
+      "5": seien
+      "6": sollten
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Nachricht auf dem Anrufbeantworter"
+    audio: transcript_ansage1.mp3
+    instructions: "Hör die Nachricht. Dann wähle die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    transcript: 'Hallo Bruno, hier ist Anna. Ich rufe wegen Donnerstag an. Du hast doch gesagt, du müssest zum Flughafen. Im Radio haben sie gerade gemeldet, der Warnstreik finde wirklich statt — die Sprecherin sagte, kein Zug fahre vor achtzehn Uhr. Ich würde dir raten, du solltest ein Taxi nehmen oder früher losfahren. Ruf mich bitte zurück, wenn du das hörst. Tschüss!'
+    items:
+      - q: "Warum ruft Anna an?"
+        options:
+          - { key: a, text: "Wegen Brunos Fahrt zum Flughafen am Donnerstag." }
+          - { key: b, text: "Wegen eines neuen Jobs." }
+          - { key: c, text: "Um sich für Donnerstag zu verabreden." }
+        answer: a
+        why: '„Ich rufe wegen Donnerstag an … du müssest zum Flughafen."'
+      - q: "Was hat Anna im Radio gehört?"
+        options:
+          - { key: a, text: "Der Streik sei abgesagt." }
+          - { key: b, text: "Der Warnstreik finde wirklich statt." }
+          - { key: c, text: "Die Züge führen normal." }
+        answer: b
+        why: '„Der Warnstreik finde wirklich statt."'
+      - q: "Was rät Anna dem Bruno?"
+        options:
+          - { key: a, text: "Er solle den Termin absagen." }
+          - { key: b, text: "Er solle mit dem Zug fahren." }
+          - { key: c, text: "Er solle ein Taxi nehmen oder früher losfahren." }
+        answer: c
+        why: '„Du solltest ein Taxi nehmen oder früher losfahren."'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Konjunktiv I: Formen der 3. Person Singular"
+    instructions: "Trag die Konjunktiv-I-Form der 3. Person Singular (er/sie/es) ein."
+    columns: ["Infinitiv", "Konjunktiv I (er/sie/es)"]
+    rows:
+      - label: "haben"
+        cells: [{gap: 1, answer: habe}]
+      - label: "sein"
+        cells: [{gap: 2, answer: sei}]
+      - label: "werden"
+        cells: [{gap: 3, answer: werde}]
+      - label: "können"
+        cells: [{gap: 4, answer: könne}]
+      - label: "wollen"
+        cells: [{gap: 5, answer: wolle}]
+      - label: "sollen"
+        cells: [{gap: 6, answer: solle}]
+      - label: "müssen"
+        cells: [{gap: 7, answer: müsse}]
+      - label: "kommen"
+        cells: [{gap: 8, answer: komme}]
+
+  - id: A2
+    block: A
+    type: table-fill
+    title: "Konjunktiv I von sein — alle Personen"
+    instructions: "Trag die Konjunktiv-I-Formen von sein ein."
+    columns: ["ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie"]
+    rows:
+      - label: "sein"
+        cells: [
+          {gap: 1, answer: sei}, {gap: 2, answer: seist}, {gap: 3, answer: sei},
+          {gap: 4, answer: seien}, {gap: 5, answer: seiet}, {gap: 6, answer: seien}
+        ]
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Indirekte Rede: 3. Person Singular Konjunktiv I"
+    instructions: "Setz das Verb in Klammern in den Konjunktiv I (3. Person Singular). 8 Items."
+    text: |
+      1. Er sagt, er {1} keine Zeit. (haben)
+      2. Sie betont, sie {2} unschuldig. (sein)
+      3. Der Sprecher erklärt, die Firma {3} investieren. (werden)
+      4. Anna meint, sie {4} morgen nicht kommen. (können)
+      5. Der Chef sagt, er {5} niemanden entlassen. (wollen)
+      6. Es heißt, es {6} schon einen Käufer. (geben)
+      7. Bruno erzählt, der Zug {7} mit Verspätung. (kommen)
+      8. Die Gewerkschaft betont, man {8} mehr verdienen. (müssen)
+    answers:
+      "1": habe
+      "2": sei
+      "3": werde
+      "4": könne
+      "5": wolle
+      "6": gebe
+      "7": komme
+      "8": müsse
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Ausweichen auf Konjunktiv II (Plural)"
+    instructions: "Im Plural ist der Konjunktiv I oft gleich dem Indikativ. Setz die richtige Konjunktiv-II-Form ein. 6 Items."
+    text: |
+      1. Sie sagen, sie {1} (haben) großes Interesse.
+      2. Er meint, die Mitarbeiter {2} (können) so nicht weitermachen.
+      3. Es heißt, die Investoren {3} (wollen) verhandeln.
+      4. Sie berichtet, die Kollegen {4} (wissen) Bescheid.
+      5. Der Sprecher sagt, die Abgeordneten {5} (fordern) mehr Geld.
+      6. Man sagt, die Preise {6} (steigen) weiter.
+    answers:
+      "1": hätten
+      "2": könnten
+      "3": wollten
+      "4": wüssten
+      "5": forderten
+      "6": stiegen
+
+  - id: A5
+    block: A
+    type: single-choice
+    title: "Konjunktiv I oder Konjunktiv II?"
+    instructions: "Wähle die korrekte Form der indirekten Rede (a, b oder c)."
+    items:
+      - q: "Er sagt, die Firma ____ Gewinn. (machen)"
+        options:
+          - { key: a, text: "mache" }
+          - { key: b, text: "machten" }
+          - { key: c, text: "macht" }
+        answer: a
+        why: '3. Person Singular: Konjunktiv I „mache" ist eindeutig.'
+      - q: "Sie sagen, sie ____ keine Zeit. (haben)"
+        options:
+          - { key: a, text: "haben" }
+          - { key: b, text: "hätten" }
+          - { key: c, text: "habe" }
+        answer: b
+        why: 'Plural „haben" = Indikativ → Ausweichen auf Konjunktiv II „hätten".'
+      - q: "Er betont, er ____ unschuldig. (sein)"
+        options:
+          - { key: a, text: "wäre" }
+          - { key: b, text: "ist" }
+          - { key: c, text: "sei" }
+        answer: c
+        why: '„sein" ist in der 3. Sg. eindeutig → Konjunktiv I „sei", kein Ausweichen nötig.'
+      - q: "Sie meint, die Mitarbeiter ____ nicht weitermachen. (können)"
+        options:
+          - { key: a, text: "können" }
+          - { key: b, text: "könnten" }
+          - { key: c, text: "konnten" }
+        answer: b
+        why: 'Plural „können" = Indikativ → Konjunktiv II „könnten".'
+      - q: "Der Minister erklärt, er ____ das Gesetz prüfen. (werden)"
+        options:
+          - { key: a, text: "wird" }
+          - { key: b, text: "werde" }
+          - { key: c, text: "würde" }
+        answer: b
+        why: '3. Sg. von werden: Konjunktiv I „werde".'
+      - q: "Es heißt, die Züge ____ still. (stehen)"
+        options:
+          - { key: a, text: "stehen" }
+          - { key: b, text: "stünden" }
+          - { key: c, text: "standen" }
+        answer: b
+        why: 'Plural „stehen" = Indikativ → Konjunktiv II „stünden".'
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Konjunktiv I der Vergangenheit"
+    instructions: "Bilde die berichtete Vergangenheit mit habe/sei + Partizip II (im Plural hätten/seien). 6 Items."
+    text: |
+      1. „Ich habe nichts gewusst." → Er sagt, er {1} nichts gewusst.
+      2. „Ich bin pünktlich gekommen." → Sie sagt, sie {2} pünktlich gekommen.
+      3. „Wir haben das Haus besucht." → Es heißt, sie {3} das Haus besucht.
+      4. „Ich habe mehr Lohn angeboten." → Der Sprecher sagt, man {4} mehr Lohn angeboten.
+      5. „Wir sind zu spät losgefahren." → Sie sagen, sie {5} zu spät losgefahren.
+      6. „Die Ministerin hat die Steuern gesenkt." → Der Bericht sagt, die Ministerin {6} die Steuern gesenkt.
+    answers:
+      "1": habe
+      "2": sei
+      "3": hätten
+      "4": habe
+      "5": seien
+      "6": habe
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Indirekte Fragen: ob und W-Wort"
+    instructions: "Setz das fehlende Einleitewort (ob / wann / warum / wie) und achte auf die Verbstellung. 5 Items."
+    text: |
+      1. „Stimmt das Gerücht?" → Er wollte wissen, {1} das Gerücht stimme.
+      2. „Wann beginnt der Streik?" → Sie fragte, {2} der Streik beginne.
+      3. „Warum verhandelt die Bahn nicht?" → Er fragte, {3} die Bahn nicht verhandle.
+      4. „Wie läuft die Präsentation ab?" → Sie wollte wissen, {4} die Präsentation ablaufe.
+      5. „Gibt es noch Fragen?" → Sie fragte, {5} es noch Fragen gebe.
+    answers:
+      "1": "ob"
+      "2": wann
+      "3": warum
+      "4": wie
+      "5": "ob"
+
+  - id: A8
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Aufforderungen mit sollen"
+    instructions: "Gib die Aufforderung in der indirekten Rede mit sollen wieder. 5 Items."
+    text: |
+      1. „Bleiben Sie sachlich!" → Sie sagte, man {1} sachlich bleiben.
+      2. „Reich die Unterlagen ein!" → Er sagte mir, ich {2} die Unterlagen einreichen.
+      3. „Informiert euch vor der Fahrt!" → Die Reisenden wurden gebeten, sie {3} sich vor der Fahrt informieren.
+      4. „Ruf mich zurück!" → Sie sagte, ich {4} sie zurückrufen.
+      5. „Hört auf zu spekulieren!" → Sie forderte uns auf, wir {5} aufhören zu spekulieren.
+    answers:
+      "1": solle
+      "2": solle
+      "3": sollten
+      "4": solle
+      "5": sollten
+
+  - id: A9
+    block: A
+    type: order
+    title: "Satzbau: indirekte Rede (Verb am Ende?)"
+    prompt: "Ordne die Wörter zu einem korrekten Satz der indirekten Rede."
+    stimulus: |
+      1. er / sagt / er / habe / keine / Zeit
+      2. sie / fragte / ob / der / Streik / beginne
+      3. sie / wollte / wissen / wann / der / Zug / komme
+    items:
+      - tiles: [er, sagt, er, habe, keine, Zeit]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Er sagt, er habe keine Zeit."
+      - tiles: [sie, fragte, ob, der, Streik, beginne]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Sie fragte, ob der Streik beginne."
+      - tiles: [sie, wollte, wissen, wann, der, Zug, komme]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Sie wollte wissen, wann der Zug komme."
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Verben des Sagens + Konjunktiv I"
+    instructions: "Setz das Einleitungsverb (Präteritum) und den Konjunktiv I richtig zusammen. 6 Items."
+    text: |
+      1. Er {1} (behaupten), er {2} (haben) nichts getan.
+      2. Sie {3} (betonen), sie {4} (sein) zu Gesprächen bereit.
+      3. Der Sprecher {5} (mitteilen), die Firma {6} (werden) investieren.
+    answers:
+      "1": behauptete
+      "2": habe
+      "3": betonte
+      "4": sei
+      "5": teilte mit
+      "6": werde
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: free-write
+    title: "Direkte Rede → indirekte Rede"
+    prompt: "Form jeden Satz in die indirekte Rede um (Konjunktiv I, bei Formgleichheit Konjunktiv II). Achte auf die Pronomen."
+    stimulus: |
+      1. Der Minister sagt: „Ich prüfe das Gesetz."
+      2. Anna sagt: „Ich kann am Donnerstag nicht kommen."
+      3. Die Sprecher sagen: „Wir sind zu Gesprächen bereit."
+      4. Der Chef betont: „Wir machen Gewinn."
+      5. Die Kollegen behaupten: „Wir haben nichts gehört."
+    model: |
+      1. Der Minister sagt, er prüfe das Gesetz.
+      2. Anna sagt, sie könne am Donnerstag nicht kommen.
+      3. Die Sprecher sagen, sie seien zu Gesprächen bereit.
+      4. Der Chef betont, die Firma / er mache Gewinn. (auch: sie machten, wenn Plural „wir")
+      5. Die Kollegen behaupten, sie hätten nichts gehört. (Plural → Konjunktiv II)
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Finde den Fehler"
+    prompt: "Jeder Satz hat genau einen Fehler in der indirekten Rede. Schreib den korrigierten Satz."
+    stimulus: |
+      1. Er sagt, er seie krank.
+      2. Sie sagen, sie haben großes Interesse.
+      3. Sie sagt, die Löhne wären zu niedrig.
+      4. Er meint, er wölle mehr Geld.
+      5. Sie fragte, ob gebe es noch Fragen.
+      6. Er sagte, ich soll die Unterlagen einreichen.
+    model: |
+      1. Er sagt, er sei krank. (sein hat in der 3. Sg. kein End-e: sei, nicht seie)
+      2. Sie sagen, sie hätten großes Interesse. (Plural „haben" = Indikativ → Konjunktiv II „hätten")
+      3. Sie sagt, die Löhne seien zu niedrig. (sein ist eindeutig → Konjunktiv I „seien", kein Ausweichen nötig)
+      4. Er meint, er wolle mehr Geld. (Konjunktiv I ohne Umlaut: wolle, nicht wölle)
+      5. Sie fragte, ob es noch Fragen gebe. (Verb ans Ende: „ob es noch Fragen gebe")
+      6. Er sagte, ich solle die Unterlagen einreichen. (Aufforderung → solle, nicht soll)
+
+  - id: B3
+    block: B
+    type: matching
+    title: "Direkte und indirekte Rede verbinden"
+    instructions: "Ordne jede direkte Aussage (1–6) ihrer korrekten indirekten Form (a–f) zu."
+    left:
+      - { key: "1", text: "„Ich bin krank.“" }
+      - { key: "2", text: "„Ich habe keine Zeit.“" }
+      - { key: "3", text: "„Wir können nicht kommen.“" }
+      - { key: "4", text: "„Bleiben Sie sachlich!“" }
+      - { key: "5", text: "„Wann beginnt der Streik?“" }
+      - { key: "6", text: "„Ich habe nichts gewusst.“" }
+    right:
+      - { key: a, text: "Er sagt, er habe keine Zeit." }
+      - { key: b, text: "Sie sagt, sie sei krank." }
+      - { key: c, text: "Sie sagte, man solle sachlich bleiben." }
+      - { key: d, text: "Sie sagen, sie könnten nicht kommen." }
+      - { key: e, text: "Er sagt, er habe nichts gewusst." }
+      - { key: f, text: "Sie fragte, wann der Streik beginne." }
+    answers:
+      "1": b
+      "2": a
+      "3": d
+      "4": c
+      "5": f
+      "6": e
+
+  - id: B4
+    block: B
+    type: free-write
+    title: "Eine Nachricht referieren"
+    prompt: "Gib die folgende kurze Meldung in indirekter Rede wieder. Beginne mit „Die Meldung sagt, …“ und benutze durchgehend Konjunktiv I / II."
+    stimulus: |
+      Meldung (direkt): „Die Gewerkschaft kündigt einen Streik an. Die Löhne sind zu
+      niedrig. Die Mitarbeiter können so nicht weitermachen. Die Bahn hat bereits ein
+      Angebot gemacht."
+    model: |
+      Die Meldung sagt, die Gewerkschaft kündige einen Streik an. Die Löhne seien
+      zu niedrig. Die Mitarbeiter könnten so nicht weitermachen. Die Bahn habe
+      bereits ein Angebot gemacht.
+
+  - id: B5
+    block: B
+    type: gap-bank
+    title: "Lückendialog: Anna referiert die Nachrichten"
+    instructions: "Füll die 8 Lücken mit der richtigen Form der indirekten Rede. Drei Wörter bleiben übrig."
+    text: |
+      — Was haben sie in den Nachrichten gesagt?
+      — Die Sprecherin sagte, die Gewerkschaft {1} einen Streik angekündigt.
+        Die Löhne {2} zu niedrig, und die Mitarbeiter {3} so nicht
+        weitermachen. Der Chef der Gewerkschaft {4} mehr Geld.
+      — Und die Bahn?
+      — Die Bahn behauptet, das Angebot {5} schon gut. Ein Sprecher meinte, man
+        {6} bereits mehr Lohn angeboten. Die Reisenden {7} sich vor der Fahrt
+        informieren, riet er. Er fragte sogar, {8} es überhaupt einen Grund zum
+        Streik gebe.
+    bank: [habe, seien, könnten, wolle, sei, habe, sollten, ob, würden, müsse, wann]
+    answers:
+      "1": habe
+      "2": seien
+      "3": könnten
+      "4": wolle
+      "5": sei
+      "6": habe
+      "7": sollten
+      "8": "ob"
+
+  - id: B6
+    block: B
+    type: free-write
+    title: "Indirekte Fragen bilden"
+    prompt: "Form jede direkte Frage in eine indirekte Frage um. Beginne mit der vorgegebenen Einleitung."
+    stimulus: |
+      1. „Stimmt das Gerücht?" — Er wollte wissen, …
+      2. „Warum wurde der Antrag abgelehnt?" — Sie fragte, …
+      3. „Wie viele Mitarbeiter streiken?" — Der Journalist fragte, …
+      4. „Gibt es schon einen Käufer?" — Anna fragte, …
+    model: |
+      1. Er wollte wissen, ob das Gerücht stimme.
+      2. Sie fragte, warum der Antrag abgelehnt worden sei.
+      3. Der Journalist fragte, wie viele Mitarbeiter streikten. (Plural → Konjunktiv II)
+      4. Anna fragte, ob es schon einen Käufer gebe.
+
+  - id: B7
+    block: B
+    type: categorize
+    title: "Konjunktiv I oder Ausweichen auf Konjunktiv II?"
+    instructions: "Ordne jede Form ein: bleibt sie im Konjunktiv I (eindeutig) oder muss man auf Konjunktiv II ausweichen (Plural / Formgleichheit)?"
+    buckets:
+      - { key: ki, label: "Konjunktiv I (eindeutig)" }
+      - { key: kii, label: "Ausweichen → Konjunktiv II" }
+    tokens:
+      - { text: "er habe", bucket: ki }
+      - { text: "sie (Sg.) sei", bucket: ki }
+      - { text: "er komme", bucket: ki }
+      - { text: "es gebe", bucket: ki }
+      - { text: "sie (Pl.) haben → hätten", bucket: kii }
+      - { text: "wir kommen → kämen", bucket: kii }
+      - { text: "sie (Pl.) können → könnten", bucket: kii }
+      - { text: "sie (Pl.) fordern → forderten", bucket: kii }
+
+  - id: B8
+    block: B
+    type: odd-one-out
+    title: "Wortschatz: Was passt nicht?"
+    instructions: "Streich das Wort, das nicht passt, und begründe kurz."
+    groups:
+      - items: [behaupten, betonen, mitteilen, streichen]
+        odd: 3
+        why: "streichen ist kein Verb des Sagens; die anderen leiten eine Aussage ein."
+      - items: [angeblich, anscheinend, offenbar, pünktlich]
+        odd: 3
+        why: "pünktlich ist eine Zeitangabe; die anderen markieren Distanz/Vermutung."
+      - items: [die Quelle, die Aussage, der Bericht, der Streik]
+        odd: 3
+        why: "der Streik ist eine Aktion; die anderen gehören zur Berichterstattung."
+      - items: [bestreiten, zugeben, behaupten, verhandeln]
+        odd: 3
+        why: "verhandeln ist kein Verb des Sagens über einen Sachverhalt; die anderen sind Aussage-Verben."
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "E-Mail: eine Nachricht weitergeben"
+    prompt: 'Du hast eine Meldung gehört und gibst sie an einen Kollegen weiter, ohne dich festzulegen, ob sie stimmt.'
+    stimulus: |
+      **E-Mail** (eingegangen von einer Kollegin):
+      > Hast du schon gehört? Im Radio kam gerade: Die Gewerkschaft kündigt für
+      > Donnerstag einen Warnstreik an. Kein Zug fährt vor 18 Uhr. Die Bahn sagt,
+      > sie habe schon ein gutes Angebot gemacht.
+    use:
+      - "mindestens 3 Sätze in indirekter Rede mit Konjunktiv I (habe, sei, werde, …)"
+      - "mindestens 1 Ausweichform im Konjunktiv II (Plural: hätten / könnten / würden)"
+      - "mindestens 1 Distanzmarker (angeblich / es heißt / laut dem Bericht)"
+      - "eine freundliche Schlussformel"
+    selfCheck:
+      - "Habe ich nach dem Einleitungsverb den Konjunktiv I (3. Sg. auf -e) benutzt?"
+      - "Habe ich im Plural auf den Konjunktiv II ausgewichen, wo der Konjunktiv I wie der Indikativ aussieht?"
+      - "Habe ich die Pronomen angepasst (aus „ich“ des Sprechers wird „er/sie“)?"
+    model: |
+      Hallo Tom, ich gebe nur weiter, was ich gehört habe — ob es stimmt, weiß ich
+      nicht. Im Radio hieß es, die Gewerkschaft kündige für Donnerstag einen
+      Warnstreik an. Angeblich fahre kein Zug vor 18 Uhr. Die Bahn behauptet, sie
+      habe schon ein gutes Angebot gemacht, aber die Gewerkschaftsvertreter sagten,
+      sie hätten noch keine faire Lösung erhalten. Laut dem Bericht seien beide
+      Seiten aber zu Gesprächen bereit. Sag Bescheid, ob dich das betrifft.
+      Viele Grüße, …
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext: Eine Meldung in indirekter Rede"
+    instructions: "Füll jede Lücke mit der richtigen Form der indirekten Rede (Konjunktiv I oder, im Plural, Konjunktiv II). 10 Items."
+    text: |
+      Der Pressesprecher der Bahn erklärte gestern, das Unternehmen (1) {1} ein
+      faires Angebot gemacht. Die Löhne (2) {2} bereits gestiegen, und man (3) {3}
+      die Mitarbeiter nicht im Stich lassen. Die Gewerkschaft dagegen betonte, die
+      Beschäftigten (4) {4} so nicht weiterarbeiten; die Bezahlung (5) {5} zu
+      niedrig. Ihr Vorsitzender sagte, man (6) {6} mehr Geld und kürzere
+      Arbeitszeiten. Beide Seiten teilten mit, sie (7) {7} zu Gesprächen bereit.
+      Ein Reporter fragte, (8) {8} der Streik wirklich stattfinde. Die Sprecherin
+      antwortete, das (9) {9} noch nicht sicher. Die Reisenden (10) {10} sich
+      rechtzeitig informieren, riet sie.
+    answers:
+      "1": habe
+      "2": seien
+      "3": werde
+      "4": könnten
+      "5": sei
+      "6": wolle
+      "7": seien
+      "8": "ob"
+      "9": sei
+      "10": sollten
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    items:
+      - q: "Der Minister erklärte, er (1) ____ das Problem. (kennen)"
+        options:
+          - { key: a, text: "kenne" }
+          - { key: b, text: "kennt" }
+          - { key: c, text: "kannte" }
+        answer: a
+        why: '3. Sg. → Konjunktiv I „kenne".'
+      - q: "Die Abgeordneten sagten, sie (2) ____ dagegen. (sein)"
+        options:
+          - { key: a, text: "sind" }
+          - { key: b, text: "seien" }
+          - { key: c, text: "wären" }
+        answer: b
+        why: '„sein" ist auch im Plural eindeutig → Konjunktiv I „seien".'
+      - q: "Er behauptete, die Kollegen (3) ____ nichts davon. (wissen)"
+        options:
+          - { key: a, text: "wissen" }
+          - { key: b, text: "wüssten" }
+          - { key: c, text: "wussten" }
+        answer: b
+        why: 'Plural „wissen" = Indikativ → Konjunktiv II „wüssten".'
+      - q: "Sie sagte, sie (4) ____ den Bericht bis morgen schicken. (werden)"
+        options:
+          - { key: a, text: "wird" }
+          - { key: b, text: "werde" }
+          - { key: c, text: "wurde" }
+        answer: b
+        why: '3. Sg. von werden → „werde".'
+      - q: "Sie fragte, (5) ____ es noch offene Punkte gebe."
+        options:
+          - { key: a, text: "wenn" }
+          - { key: b, text: "ob" }
+          - { key: c, text: "dass" }
+        answer: b
+        why: 'Ja-Nein-Frage → „ob".'
+      - q: "Er sagte, ich (6) ____ die Unterlagen einreichen. (Aufforderung)"
+        options:
+          - { key: a, text: "soll" }
+          - { key: b, text: "solle" }
+          - { key: c, text: "sollte gern" }
+        answer: b
+        why: 'Aufforderung in indirekter Rede → „solle".'
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (Wörterkasten)"
+    bankCase: upper
+    bankSort: true
+    instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter bleiben übrig. Jedes Wort passt nur einmal."
+    text: |
+      Auf der Pressekonferenz erklärte die Ministerin, sie (1) {1} die Steuern
+      senken. Die Wirtschaft (2) {2} sich erholt, und das Land (3) {3} auf einem
+      guten Weg. Die Opposition dagegen betonte, die Zahlen (4) {4} geschönt; die
+      Regierung (5) {5} die Probleme nicht lösen. Ein Journalist fragte, (6) {6}
+      die Pläne schon beschlossen seien. Die Ministerin antwortete, die
+      Entscheidung (7) {7} noch fallen. Sie fügte hinzu, die Bürger (8) {8} ein
+      Mitspracherecht. Am Ende bat sie die Presse, man (9) {9} sachlich bleiben.
+      Niemand (10) {10}, ob das gelingen werde.
+    bank: [WERDE, HABE, SEI, SEIEN, HÄTTEN, SOLLE, SOLLTEN, OB, WISSE, WUSSTE, KÖNNE, MÜSSE, WOLLE, SIND, IST]
+    answers:
+      "1": WERDE
+      "2": HABE
+      "3": SEI
+      "4": SEIEN
+      "5": KÖNNE
+      "6": OB
+      "7": MÜSSE
+      "8": HÄTTEN
+      "9": SOLLE
+      "10": WISSE
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Lesetext: Tagesschau)"
+    instructions: "Lies den Lesetext in lesson.md, Abschnitt 7. Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Der Konjunktiv I in den Nachrichten ist laut Text nur eine altmodische Marotte."
+        answer: false
+        why: '„kein … altmodische Marotte, sondern ein Werkzeug der Glaubwürdigkeit".'
+      - q: "Eine seriöse Redaktion übernimmt keine Garantie für die Wahrheit fremder Aussagen."
+        answer: true
+        why: '„sie übernimmt keine Garantie für deren Wahrheit".'
+      - q: "Mit dem Konjunktiv I macht sich die Redaktion fremde Behauptungen zu eigen."
+        answer: false
+        why: 'Gerade umgekehrt: Mit dem Konjunktiv I bleibt sie neutral und referiert nur.'
+      - q: "Sieht der Konjunktiv I wie der Indikativ aus, weichen Journalisten auf den Konjunktiv II aus."
+        answer: true
+        why: '„weichen sie auf den Konjunktiv II aus: die Abgeordneten forderten".'
+      - q: "Der Konjunktiv soll dem Leser zeigen, wer etwas behauptet."
+        answer: true
+        why: '„Der Leser soll jederzeit erkennen können, wer etwas behauptet".'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (neuer Text: Eine Richtigstellung)"
+    instructions: |
+      Lies den folgenden Text und wähle a, b oder c.
+
+      > **Richtigstellung.** In unserer gestrigen Ausgabe hieß es, der Stadtrat habe
+      > den Bau des neuen Schwimmbads endgültig beschlossen. Das war ein Fehler. Der
+      > Sprecher der Stadt teilte uns mit, es gebe lediglich einen Vorschlag; eine
+      > Entscheidung sei noch nicht gefallen. Außerdem schrieben wir, die Kosten
+      > lägen bei zwei Millionen Euro. Auch das war falsch: Laut dem Sprecher seien
+      > die Kosten noch gar nicht berechnet. Wir bitten, den Fehler zu entschuldigen,
+      > und betonen, dass wir künftig sorgfältiger berichten wollen.
+    items:
+      - q: "Was wurde in der gestrigen Ausgabe falsch berichtet?"
+        options:
+          - { key: a, text: "Dass der Bau endgültig beschlossen sei." }
+          - { key: b, text: "Dass es nur einen Vorschlag gebe." }
+          - { key: c, text: "Dass das Schwimmbad eröffnet sei." }
+        answer: a
+        why: '„der Stadtrat habe den Bau … endgültig beschlossen. Das war ein Fehler."'
+      - q: "Was sagt der Sprecher der Stadt zur Entscheidung?"
+        options:
+          - { key: a, text: "Sie sei bereits gefallen." }
+          - { key: b, text: "Sie sei noch nicht gefallen." }
+          - { key: c, text: "Sie werde nie fallen." }
+        answer: b
+        why: '„eine Entscheidung sei noch nicht gefallen".'
+      - q: "Was stimmt über die Kosten?"
+        options:
+          - { key: a, text: "Sie liegen bei zwei Millionen Euro." }
+          - { key: b, text: "Sie seien noch gar nicht berechnet." }
+          - { key: c, text: "Sie seien höher als zwei Millionen." }
+        answer: b
+        why: '„Laut dem Sprecher seien die Kosten noch gar nicht berechnet."'
+      - q: "Welche Verbform zeigt im Text die indirekte Rede an?"
+        options:
+          - { key: a, text: "der Indikativ (ist, liegt)" }
+          - { key: b, text: "der Konjunktiv I/II (habe, gebe, sei, lägen)" }
+          - { key: c, text: "der Imperativ" }
+        answer: b
+        why: 'Die Redewiedergabe steht im Konjunktiv: habe, gebe, sei, lägen.'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Eine kurze Nachrichtenmeldung"
+    prompt: "Schreib eine kurze Nachrichtenmeldung (8–10 Sätze) über ein Ereignis deiner Wahl (Streik, Pressekonferenz, Gerücht, Unfall). Gib durchgehend wieder, was verschiedene Personen gesagt haben — im Konjunktiv I, mit Ausweichen auf Konjunktiv II, wo nötig."
+    use:
+      - "Konjunktiv I in der 3. Person Singular (habe, sei, werde, könne, wolle …)"
+      - "mindestens 2 Ausweichformen im Konjunktiv II (Plural: hätten, könnten, würden …)"
+      - "mindestens 1 indirekte Frage (ob / W-Wort) und 1 Aufforderung mit solle"
+      - "mindestens 1 Vergangenheitsform (habe / sei + Partizip II)"
+      - "mindestens 2 Distanzmarker oder Quellenangaben (angeblich, laut …, es heißt)"
+    selfCheck:
+      - "Steht nach jedem Einleitungsverb der Konjunktiv und nicht der Indikativ?"
+      - "Habe ich im Plural korrekt auf den Konjunktiv II ausgewichen?"
+      - "Steht in indirekten Fragen das Verb am Ende?"
+      - "Habe ich die Pronomen aus der direkten Rede angepasst?"
+    model: |
+      Bei einer Pressekonferenz hat die Stadt heute über das neue Schwimmbad
+      informiert. Der Sprecher erklärte, der Bau sei noch nicht beschlossen; es gebe
+      bisher nur einen Vorschlag. Die Kosten seien noch nicht berechnet, fügte er
+      hinzu. Vertreter der Opposition betonten dagegen, die Pläne seien zu teuer und
+      die Bürger hätten kein Mitspracherecht gehabt. Ein Journalist fragte, ob die
+      Entscheidung noch dieses Jahr falle. Der Sprecher antwortete, das wisse er
+      nicht genau, man werde das Ergebnis aber rechtzeitig mitteilen. Zum Schluss bat
+      er die Anwesenden, man solle sachlich bleiben. Angeblich habe es schon erste
+      Gespräche mit einer Baufirma gegeben. Ob das stimmt, ist unklar.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "Eine Minute pro Item, keine Notizen. Items mit (B1/xx) bzw. (B2/xx) wiederholen frühere Lektionen. 15 Items."
+    text: |
+      1. Konjunktiv I von haben, 3. Sg.: {1}
+      2. Konjunktiv I von sein, 3. Sg.: {2}
+      3. Konjunktiv I von werden, 3. Sg.: {3}
+      4. Konjunktiv I von können, 3. Sg.: {4}
+      5. „Sie sagen, sie ____ Interesse." (haben — Plural, ausweichen): {5}
+      6. „Er sagt, er ____ nichts gewusst." (Vergangenheit): {6}
+      7. „Sie fragte, ____ der Streik beginne." (Ja-Nein-Frage): {7}
+      8. „Sie sagte, man ____ sachlich bleiben." (Aufforderung): {8}
+      9. (B1/09) Mach indirekt: „Wann fährt der Zug?" → Können Sie sagen, wann der Zug {9}?
+      10. (B1/03) Konjunktiv II von kommen, sie (Pl.): {10}
+      11. (B2/03) Konjunktiv II der Vergangenheit von gehen, er: {11} {12}
+      12. (B1/03) Konjunktiv II von haben, ich: {13}
+      13. Distanzmarker „so wird behauptet" in einem Wort: {14}
+      14. Verb des Sagens „etwas als wahr darstellen, ohne Beweis": {15}
+    answers:
+      "1": habe
+      "2": sei
+      "3": werde
+      "4": könne
+      "5": hätten
+      "6": habe
+      "7": "ob"
+      "8": solle
+      "9": fährt
+      "10": kämen
+      "11": wäre
+      "12": gegangen
+      "13": hätte
+      "14": angeblich
+      "15": behaupten
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Streich das Wort, das nicht passt, und begründe kurz. 6 Gruppen."
+    groups:
+      - items: [habe, sei, werde, hatte]
+        odd: 3
+        why: "hatte ist Indikativ Präteritum; die anderen sind Konjunktiv I."
+      - items: [hätten, könnten, kämen, sei]
+        odd: 3
+        why: "sei ist Konjunktiv I; die anderen sind Konjunktiv-II-Ausweichformen (Plural)."
+      - items: [behaupten, betonen, erklären, verhandeln]
+        odd: 3
+        why: "verhandeln ist kein Verb des Sagens; die anderen leiten eine Aussage ein."
+      - items: [angeblich, anscheinend, offenbar, sofort]
+        odd: 3
+        why: "sofort ist eine Zeitangabe; die anderen markieren Distanz/Vermutung."
+      - items: [ob, wann, warum, dass]
+        odd: 3
+        why: "dass leitet keine indirekte Frage ein; ob/wann/warum schon."
+      - items: [die Quelle, der Bericht, die Aussage, die Frist]
+        odd: 3
+        why: "die Frist gehört zur Behördensprache (B2/01); die anderen zur Berichterstattung."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: B1/09, B1/03, B2/03"
+    instructions: "Wiederholung früherer Lektionen. 10 Items."
+    text: |
+      **Aus B1/09 (indirekte Fragen, Höflichkeit):**
+      1. „Ist der Termin frei?" → Ich möchte wissen, {1} der Termin frei {2}.
+      2. „Wann kommt der nächste Bus?" → Könnten Sie mir sagen, {3} der nächste Bus {4}?
+      3. Höfliche Bitte (Konjunktiv II): „____ Sie das bitte wiederholen?" (können): {5}
+
+      **Aus B1/03 (Konjunktiv II):**
+      4. Konjunktiv II von sein, er: {6}
+      5. Konjunktiv II von haben, sie (Pl.): {7}
+      6. „Wenn ich Zeit {8} (haben), würde ich kommen."
+
+      **Aus B2/03 (Konjunktiv II der Vergangenheit):**
+      7. „Ich {9} das nicht gesagt." (Vorwurf, Konjunktiv II der Vergangenheit von haben): {9}
+      8. „Du {10} früher kommen sollen." (Konjunktiv II der Vergangenheit von haben): {10}
+    answers:
+      "1": "ob"
+      "2": "ist"
+      "3": wann
+      "4": kommt
+      "5": Könnten
+      "6": wäre
+      "7": hätten
+      "8": hätte
+      "9": hätte
+      "10": hättest
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (bewerte dich /20)"
+    notes: "16+ / 20 → Lektion B2/05. Unter 16 → wiederhole Block A (A1–A6) und B2 (Finde den Fehler) morgen, dann teste D4 erneut."
+    text: |
+      **Konjunktiv I — 3. Person Singular:**
+      1. „Er sagt, er ____ keine Zeit." (haben): {1}
+      2. „Sie betont, sie ____ unschuldig." (sein): {2}
+      3. „Der Chef sagt, er ____ niemanden entlassen." (wollen): {3}
+
+      **Ausweichen auf Konjunktiv II (Plural):**
+      4. „Sie sagen, sie ____ Interesse." (haben): {4}
+      5. „Er meint, die Mitarbeiter ____ nicht weitermachen." (können): {5}
+
+      **Vergangenheit:**
+      6. „Ich bin pünktlich gekommen." → Sie sagt, sie ____ pünktlich gekommen. {6}
+      7. „Wir haben das Haus besucht." → Es heißt, sie ____ das Haus besucht. {7}
+
+      **Fragen und Aufforderungen:**
+      8. „Stimmt das Gerücht?" → Er fragte, ____ das Gerücht stimme. {8}
+      9. „Bleiben Sie sachlich!" → Sie sagte, man ____ sachlich bleiben. {9}
+      10. „Wann beginnt der Streik?" → Sie fragte, ____ der Streik beginne. {10}
+
+      **Distanz und Wortschatz:**
+      11. Distanzmarker „so wird behauptet" (ein Wort): {11}
+      12. Verb: „sagen, dass etwas nicht stimmt": {12}
+
+      **Umformen (direkt → indirekt):**
+      13. „Die Firma macht Gewinn." → Der Chef betont, die Firma ____ Gewinn. {13}
+      14. „Die Preise steigen." → Man sagt, die Preise ____. (Plural, ausweichen) {14}
+
+      **Wiederholung:**
+      15. (B1/09) „Ist der Laden offen?" → Ich frage mich, ____ der Laden offen ist. {15}
+      16. (B1/03) Konjunktiv II von kommen, sie (Pl.): {16}
+      17. (B2/03) Konjunktiv II der Vergangenheit von sein, er: {17} gegangen
+      18. (B2/01) Verb zu „die Prüfung": {18}
+
+      **Mini-Meldung (2 Sätze in indirekter Rede):**
+      19. {19}
+      20. {20}
+    answers:
+      "1": habe
+      "2": sei
+      "3": wolle
+      "4": hätten
+      "5": könnten
+      "6": sei
+      "7": hätten
+      "8": "ob"
+      "9": solle
+      "10": wann
+      "11": angeblich
+      "12": bestreiten
+      "13": mache
+      "14": stiegen
+      "15": "ob"
+      "16": kämen
+      "17": wäre
+      "18": prüfen
+      "19": "(eigene Meldung in indirekter Rede, z. B.: Der Sprecher sagte, die Firma werde investieren.)"
+      "20": "—"

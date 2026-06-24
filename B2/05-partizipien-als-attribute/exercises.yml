@@ -1,0 +1,988 @@
+lesson: B2/05
+title: "B2 · Lektion 5 — Übungen (Partizipien als Attribute)"
+intro: >
+  Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Lösungen in solutions.md.
+  Tipp: Verteile die Blöcke über mehrere Tage — H und A an Tag 1, B an Tag 2,
+  C an Tag 3, D an Tag 4 nach einer Pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell)"
+    audio: dialog1_a.mp3
+    instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Anna und Bruno sind in einem Museum."
+        answer: true
+        why: 'Anna liest aus der Ausstellungsbroschüre vor.'
+      - q: '„Die entstandenen Werke" ist laut Bruno ein Partizip II.'
+        answer: true
+        why: 'Bruno: „Die entstandenen Werke — das ist Partizip II".'
+      - q: '„Die lachenden Kinder" ist ein Partizip II.'
+        answer: false
+        why: 'Bruno: „Das ist Partizip I, also Infinitiv plus d".'
+      - q: "Bruno sagt, das Partizip bekomme eine ganz normale Adjektivendung."
+        answer: true
+        why: 'Bruno: „Weil das Partizip eine ganz normale Adjektivendung bekommt".'
+      - q: "Anna findet das Thema am Ende sehr schwer und gibt auf."
+        answer: false
+        why: 'Anna: „Dann ist das eigentlich gar nicht so schwer".'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell)"
+    audio: dialog1_b.mp3
+    instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Was kritisiert Frau Yilmaz an der Pressemitteilung?"
+        options:
+          - { key: a, text: "Den Inhalt." }
+          - { key: b, text: "Dass zwei Relativsätze hintereinanderstehen." }
+          - { key: c, text: "Die Rechtschreibung." }
+        answer: b
+        why: 'Frau Yilmaz: „Das sind zwei Relativsätze hintereinander … zu lang".'
+      - q: 'Wie soll Herr Steinmeyer „die Ausstellung, die im Mai eröffnet wurde" umformen?'
+        options:
+          - { key: a, text: "die im Mai eröffnende Ausstellung" }
+          - { key: b, text: "die im Mai eröffnete Ausstellung" }
+          - { key: c, text: "die Ausstellung im Mai eröffnet" }
+        answer: b
+        why: 'Die Ausstellung wurde eröffnet → passiv → Partizip II: „die im Mai eröffnete Ausstellung".'
+      - q: 'Warum soll „die viele Besucher angezogen hat" ein Relativsatz bleiben?'
+        options:
+          - { key: a, text: "Weil es aktiv ist und ein Partizip I schwer lesbar wäre." }
+          - { key: b, text: "Weil es passiv ist." }
+          - { key: c, text: "Weil es kein Verb enthält." }
+        answer: a
+        why: 'Frau Yilmaz: „denn das ist aktiv … Ein Partizip I wäre … korrekt, aber schwer lesbar".'
+      - q: 'Wie wird aus „der Künstler, der 2018 verstarb" ein Attribut?'
+        options:
+          - { key: a, text: "der 2018 versterbende Künstler" }
+          - { key: b, text: "der 2018 verstorbene Künstler" }
+          - { key: c, text: "der Künstler 2018 verstorben" }
+        answer: b
+        why: '„sterben" bildet das Perfekt mit „sein", also Partizip II: „der 2018 verstorbene Künstler".'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext: Durchsage im Museum"
+    audio: hoertext.mp3
+    instructions: "Hör die Durchsage und fülle die 6 Lücken. Drei Wörter im Kasten bleiben übrig."
+    text: |
+      Achtung, eine Durchsage für alle Besucher der Stadtgalerie. Die im Erdgeschoss
+      {1} Sonderausstellung schließt heute bereits um 17 Uhr. Die im 19. Jahrhundert
+      {2} Gemälde im ersten Stock sind weiterhin bis 20 Uhr zu sehen. Die gerade
+      {3} Skulptur im Innenhof ist ab morgen wieder geöffnet. Besucher mit einem heute
+      {4} Ticket können morgen kostenlos {5}. Wir danken Ihnen für Ihren Besuch und Ihr
+      {6}.
+    bank: [gezeigte, entstandenen, restaurierte, gekauften, wiederkommen, Verständnis, eröffnete, steigende, schlafende]
+    answers:
+      "1": gezeigte
+      "2": entstandenen
+      "3": restaurierte
+      "4": gekauften
+      "5": wiederkommen
+      "6": Verständnis
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Nachricht von der Galerie"
+    audio: transcript_ansage1.mp3
+    optionLayout: block
+    instructions: "Hör die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    transcript: 'Hallo Bruno, hier ist Anna. Ich stehe gerade vor der renovierten Stadtgalerie und wollte dir kurz Bescheid sagen. Die im Mai eröffnete Sonderausstellung über die im 19. Jahrhundert entstandenen Gemälde ist wirklich beeindruckend. Es gibt sogar ein 1872 gemaltes Bild mit spielenden Kindern, das du unbedingt sehen musst. Die gerade restaurierte Skulptur im Innenhof ist leider noch geschlossen. Komm doch morgen mit, dann zeige ich dir alles. Bitte ruf mich zurück. Bis bald!'
+    items:
+      - q: "Wo steht Anna gerade?"
+        options:
+          - { key: a, text: "Vor der renovierten Stadtgalerie." }
+          - { key: b, text: "In einem Café." }
+          - { key: c, text: "Zu Hause." }
+        answer: a
+        why: '„Ich stehe gerade vor der renovierten Stadtgalerie".'
+      - q: "Worüber ist die im Mai eröffnete Sonderausstellung?"
+        options:
+          - { key: a, text: "Über moderne Skulpturen." }
+          - { key: b, text: "Über die im 19. Jahrhundert entstandenen Gemälde." }
+          - { key: c, text: "Über Fotografie." }
+        answer: b
+        why: '„die im Mai eröffnete Sonderausstellung über die im 19. Jahrhundert entstandenen Gemälde".'
+      - q: "Was ist mit der restaurierten Skulptur im Innenhof?"
+        options:
+          - { key: a, text: "Sie wurde verkauft." }
+          - { key: b, text: "Sie ist noch geschlossen." }
+          - { key: c, text: "Sie ist das schönste Werk." }
+        answer: b
+        why: '„Die gerade restaurierte Skulptur im Innenhof ist leider noch geschlossen".'
+      - q: "Was soll Bruno tun?"
+        options:
+          - { key: a, text: "Anna zurückrufen und morgen mitkommen." }
+          - { key: b, text: "Ein Ticket kaufen." }
+          - { key: c, text: "Die Galerie anrufen." }
+        answer: a
+        why: '„Komm doch morgen mit … Bitte ruf mich zurück".'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Partizip I bilden (Infinitiv + d)"
+    instructions: "Bilde das Partizip I (ohne Endung). 8 Items."
+    text: |
+      1. lachen → {1}
+      2. kochen → {2}
+      3. schlafen → {3}
+      4. steigen → {4}
+      5. spielen → {5}
+      6. wachsen → {6}
+      7. weinen → {7}
+      8. brennen → {8}
+    answers:
+      "1": lachend
+      "2": kochend
+      "3": schlafend
+      "4": steigend
+      "5": spielend
+      "6": wachsend
+      "7": weinend
+      "8": brennend
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Partizip II bilden"
+    instructions: "Bilde das Partizip II. ⚠️ Achte auf unregelmäßige Formen. 8 Items."
+    text: |
+      1. kochen → {1}
+      2. gründen → {2}
+      3. eröffnen → {3}
+      4. malen → {4}
+      5. schreiben → {5}
+      6. entstehen → {6}
+      7. ankommen → {7}
+      8. versterben → {8}
+    answers:
+      "1": gekocht
+      "2": gegründet
+      "3": eröffnet
+      "4": gemalt
+      "5": geschrieben
+      "6": entstanden
+      "7": angekommen
+      "8": verstorben
+
+  - id: A3
+    block: A
+    type: single-choice
+    title: "Partizip I oder Partizip II?"
+    instructions: "Aktiv (Partizip I) oder passiv/abgeschlossen (Partizip II)? Wähle das richtige Attribut. 6 Items."
+    items:
+      - q: "das Kind, das lacht → das ____ Kind"
+        options:
+          - { key: a, text: "lachende" }
+          - { key: b, text: "gelachte" }
+        answer: a
+        why: "Das Kind lacht selbst → aktiv → Partizip I: das lachende Kind."
+      - q: "das Ei, das gekocht wurde → das ____ Ei"
+        options:
+          - { key: a, text: "kochende" }
+          - { key: b, text: "gekochte" }
+        answer: b
+        why: "Das Ei wurde gekocht → passiv → Partizip II: das gekochte Ei."
+      - q: "die Firma, die 1990 gegründet wurde → die 1990 ____ Firma"
+        options:
+          - { key: a, text: "gründende" }
+          - { key: b, text: "gegründete" }
+        answer: b
+        why: "Die Firma wurde gegründet → passiv → Partizip II."
+      - q: "die Nachfrage, die steigt → die ____ Nachfrage"
+        options:
+          - { key: a, text: "steigende" }
+          - { key: b, text: "gestiegene" }
+        answer: a
+        why: "Die Nachfrage steigt selbst, gerade jetzt → aktiv → Partizip I."
+      - q: "der Zug, der angekommen ist → der ____ Zug"
+        options:
+          - { key: a, text: "ankommende" }
+          - { key: b, text: "angekommene" }
+        answer: b
+        why: 'Abgeschlossen, „sein"-Perfekt → Partizip II: der angekommene Zug.'
+      - q: "die Ausstellung, die im Mai eröffnet wurde → die im Mai ____ Ausstellung"
+        options:
+          - { key: a, text: "eröffnende" }
+          - { key: b, text: "eröffnete" }
+        answer: b
+        why: "Sie wurde eröffnet → passiv → Partizip II."
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Partizip I als Attribut → Relativsatz"
+    instructions: "Löse das Partizip-I-Attribut als Relativsatz im Aktiv auf. Schreib nur das Relativpronomen + Verb. 6 Items."
+    text: |
+      1. das lachende Kind → das Kind, {1}
+      2. die steigenden Preise → die Preise, {2}
+      3. der schlafende Hund → der Hund, {3}
+      4. die spielenden Kinder → die Kinder, {4}
+      5. die wachsende Stadt → die Stadt, {5}
+      6. das brennende Haus → das Haus, {6}
+    answers:
+      "1": "das lacht"
+      "2": "die steigen"
+      "3": "der schläft"
+      "4": "die spielen"
+      "5": "die wächst"
+      "6": "das brennt"
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Partizip II als Attribut → Relativsatz"
+    instructions: 'Löse das Partizip-II-Attribut als Relativsatz auf — mit „wurde/wurden" (passiv) oder „ist/sind" (sein-Verben). 6 Items.'
+    text: |
+      1. das gekochte Ei → das Ei, {1}
+      2. die gegründete Firma → die Firma, {2}
+      3. die renovierte Galerie → die Galerie, {3}
+      4. der angekommene Zug → der Zug, {4}
+      5. die entstandenen Werke → die Werke, {5}
+      6. der verstorbene Künstler → der Künstler, {6}
+    answers:
+      "1": "das gekocht wurde"
+      "2": "die gegründet wurde"
+      "3": "die renoviert wurde"
+      "4": "der angekommen ist"
+      "5": "die entstanden sind"
+      "6": "der verstorben ist"
+
+  - id: A6
+    block: A
+    type: table-fill
+    title: "Adjektivendungen am Partizip (bestimmter Artikel)"
+    instructions: "Setz die richtige Endung des Partizips ein (Deklination wie ein Adjektiv nach dem bestimmten Artikel)."
+    columns: ["Nominativ", "Akkusativ", "Dativ"]
+    rows:
+      - label: "der schlafend… Hund (m)"
+        cells:
+          - { gap: 1, answer: "schlafende" }
+          - { gap: 2, answer: "schlafenden" }
+          - { gap: 3, answer: "schlafenden" }
+      - label: "das lachend… Kind (n)"
+        cells:
+          - { gap: 4, answer: "lachende" }
+          - { gap: 5, answer: "lachende" }
+          - { gap: 6, answer: "lachenden" }
+      - label: "die lachend… Kinder (Pl)"
+        cells:
+          - { gap: 7, answer: "lachenden" }
+          - { gap: 8, answer: "lachenden" }
+          - { gap: 9, answer: "lachenden" }
+
+  - id: A7
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Adjektivendung einsetzen"
+    instructions: "Setz die richtige Endung des Partizips ein. 8 Items."
+    text: |
+      1. das lachend{1} Kind (Nom.)
+      2. die steigend{2} Preise (Nom. Pl.)
+      3. ein schlafend{3} Hund (Nom. m)
+      4. mit dem gekocht{4} Ei (Dativ n)
+      5. die im Mai eröffnet{5} Ausstellung (Nom. f)
+      6. ein gerade gedruckt{6} Buch (Akk. n)
+      7. die 2018 verkauft{7} Werke (Akk. Pl.)
+      8. dem schreiend{8} Baby (Dativ n)
+    answers:
+      "1": e
+      "2": en
+      "3": er
+      "4": en
+      "5": e
+      "6": es
+      "7": en
+      "8": en
+
+  - id: A8
+    block: A
+    type: order
+    title: "Erweitertes Partizipialattribut bauen"
+    prompt: "Ordne die Wörter zu einer korrekten Nominalphrase: Artikel — Ergänzung — Partizip — Nomen."
+    instructions: "Ordne die Kacheln in die richtige Reihenfolge."
+    items:
+      - tiles: [die, gegründete, "1990", Firma]
+        answer: [0, 2, 1, 3]
+        note: "die 1990 gegründete Firma"
+      - tiles: [eröffnete, die, Ausstellung, "im Mai"]
+        answer: [1, 3, 0, 2]
+        note: "die im Mai eröffnete Ausstellung"
+      - tiles: [steigende, die, Nachfrage, "seit Jahren"]
+        answer: [1, 3, 0, 2]
+        note: "die seit Jahren steigende Nachfrage"
+      - tiles: [der, Brief, angekommene, gestern]
+        answer: [0, 3, 2, 1]
+        note: "der gestern angekommene Brief"
+      - tiles: [spielenden, die, Kinder, "auf dem Hof"]
+        answer: [1, 3, 0, 2]
+        note: "die auf dem Hof spielenden Kinder"
+
+  - id: A9
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Relativsatz → erweitertes Partizipialattribut"
+    instructions: "Form den Relativsatz in ein erweitertes Partizipialattribut um. Schreib die ganze Nominalphrase. 5 Items."
+    text: |
+      1. die Galerie, die 2020 renoviert wurde → {1}
+      2. die Preise, die seit Monaten steigen → {2}
+      3. der Gast, der gerade angekommen ist → {3}
+      4. das Bild, das 1872 gemalt wurde → {4}
+      5. die Stadt, die schnell wächst → {5}
+    answers:
+      "1": "die 2020 renovierte Galerie"
+      "2": "die seit Monaten steigenden Preise"
+      "3": "der gerade angekommene Gast"
+      "4": "das 1872 gemalte Bild"
+      "5": "die schnell wachsende Stadt"
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Erweitertes Partizipialattribut → Relativsatz"
+    instructions: "Löse das Partizipialattribut in einen Relativsatz auf. Schreib den ganzen Relativsatz (Nomen + Komma + Relativsatz). 5 Items."
+    text: |
+      1. die im 19. Jahrhundert entstandenen Werke → die Werke, {1}
+      2. die stark gestiegenen Mieten → die Mieten, {2}
+      3. das gerade vorbeifahrende Auto → das Auto, {3}
+      4. die vom Museum gekauften Gemälde → die Gemälde, {4}
+      5. die im Mai eröffnete Ausstellung → die Ausstellung, {5}
+    answers:
+      "1": "die im 19. Jahrhundert entstanden sind"
+      "2": "die stark gestiegen sind"
+      "3": "das gerade vorbeifährt"
+      "4": "die vom Museum gekauft wurden"
+      "5": "die im Mai eröffnet wurde"
+
+  - id: A11
+    block: A
+    type: single-choice
+    title: "Welche Endung ist richtig?"
+    instructions: "Wähle die korrekte Adjektivendung am Partizip. 5 Items."
+    items:
+      - q: "Ich sah ein ____ Kind. (weinen, Akk. n)"
+        options:
+          - { key: a, text: "weinendes" }
+          - { key: b, text: "weinende" }
+        answer: a
+        why: "Unbestimmter Artikel, Neutrum, Akkusativ → -es: ein weinendes Kind."
+      - q: "Wir sprachen über die ____ Preise. (steigen, Dativ Pl.)"
+        options:
+          - { key: a, text: "gestiegene" }
+          - { key: b, text: "gestiegenen" }
+        answer: b
+        why: "Plural → -en: die gestiegenen Preise."
+      - q: "Ein ____ Hund störte uns. (bellen, Nom. m)"
+        options:
+          - { key: a, text: "bellender" }
+          - { key: b, text: "bellende" }
+        answer: a
+        why: "Unbestimmter Artikel, maskulin, Nominativ → -er: ein bellender Hund."
+      - q: "Die Galerie zeigt die ____ Werke. (verkaufen, Akk. Pl.)"
+        options:
+          - { key: a, text: "verkauften" }
+          - { key: b, text: "verkaufte" }
+        answer: a
+        why: "Plural → -en: die verkauften Werke."
+      - q: "Sie half dem ____ Baby. (schreien, Dativ n)"
+        options:
+          - { key: a, text: "schreiende" }
+          - { key: b, text: "schreienden" }
+        answer: b
+        why: "Dativ → -en: dem schreienden Baby."
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Museumsbroschüre ergänzen"
+    instructions: "Fülle die 8 Lücken mit dem passenden Partizipialattribut (richtige Form). Vier Wörter bleiben übrig."
+    text: |
+      Die {1} Stadtgalerie zeigt eine besondere Sammlung. Die {2}
+      Sonderausstellung im Erdgeschoss präsentiert vor allem im 19. Jahrhundert
+      {3} Gemälde. Im ersten Stock hängt ein berühmtes Bild mit {4}
+      Kindern. Die {5} Skulptur im Innenhof ist erst ab morgen wieder zu sehen.
+      Der 2018 {6} Maler hat viele dieser Werke geschaffen. Wegen der seit Jahren
+      {7} Nachfrage wurde die Galerie erweitert. Besucher mit einem heute {8}
+      Ticket dürfen morgen kostenlos wiederkommen.
+    bank: [renovierte, eröffnete, entstandenen, spielenden, restaurierte, verstorbene, steigenden, gekauften, lachende, gegründete, gekochte, schlafende]
+    answers:
+      "1": renovierte
+      "2": eröffnete
+      "3": entstandenen
+      "4": spielenden
+      "5": restaurierte
+      "6": verstorbene
+      "7": steigenden
+      "8": gekauften
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Finde den Fehler"
+    prompt: "Jeder Satz enthält genau einen Fehler (falsches Partizip I/II oder falsche Endung). Finde ihn und schreib den korrigierten Ausdruck."
+    stimulus: |
+      1. das gekochende Ei (es wurde gekocht)
+      2. die gegründende Firma im Jahr 1990
+      3. die steigende Preise (Plural)
+      4. ein schlafende Hund (Nom. m)
+      5. die im Mai eröffnende Ausstellung (sie wurde eröffnet)
+      6. mit dem gekochte Ei (Dativ)
+      7. die lachende Kinder (Plural)
+      8. der gestorbene Künstler (Perfekt mit sein)
+    model: |
+      1. das gekochte Ei (passiv, abgeschlossen → Partizip II)
+      2. die 1990 gegründete Firma (die Firma wurde gegründet → Partizip II; Reihenfolge: Artikel — Ergänzung — Partizip — Nomen)
+      3. die steigenden Preise (Plural → Endung -en)
+      4. ein schlafender Hund (unbest. Art., mask. Nom. → -er)
+      5. die im Mai eröffnete Ausstellung (passiv → Partizip II)
+      6. mit dem gekochten Ei (Dativ → -en)
+      7. die lachenden Kinder (Plural → -en)
+      8. der verstorbene Künstler (richtiges Partizip: versterben → verstorben)
+
+  - id: B3
+    block: B
+    type: matching
+    title: "Partizipialattribut und Relativsatz verbinden"
+    instructions: "Ordne jedem Partizipialattribut (1–6) den passenden Relativsatz (a–f) zu."
+    left:
+      - { key: "1", text: "die gegründete Firma" }
+      - { key: "2", text: "die steigende Nachfrage" }
+      - { key: "3", text: "der angekommene Zug" }
+      - { key: "4", text: "die eröffnete Ausstellung" }
+      - { key: "5", text: "die spielenden Kinder" }
+      - { key: "6", text: "das gekochte Ei" }
+    right:
+      - { key: a, text: "die Firma, die gegründet wurde" }
+      - { key: b, text: "die Nachfrage, die steigt" }
+      - { key: c, text: "der Zug, der angekommen ist" }
+      - { key: d, text: "die Ausstellung, die eröffnet wurde" }
+      - { key: e, text: "die Kinder, die spielen" }
+      - { key: f, text: "das Ei, das gekocht wurde" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+
+  - id: B4
+    block: B
+    type: order
+    title: "Satzbau mit Partizipialattribut"
+    prompt: "Ordne die Wörter zu einem korrekten Satz."
+    instructions: "Ordne die Kacheln in die richtige Reihenfolge."
+    items:
+      - tiles: [die, "im Mai", eröffnete, Ausstellung, zieht, viele, Besucher, an]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "die im Mai eröffnete Ausstellung zieht viele Besucher an"
+      - tiles: [wir, bewunderten, das, "1872", gemalte, Bild]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "wir bewunderten das 1872 gemalte Bild"
+      - tiles: [der, Maler, verstorbene, schuf, viele, Werke, "2018"]
+        answer: [0, 6, 2, 1, 3, 4, 5]
+        note: "der 2018 verstorbene Maler schuf viele Werke"
+      - tiles: [ich, sah, ein, weinendes, Kind]
+        answer: [0, 1, 2, 3, 4]
+        note: "ich sah ein weinendes Kind"
+
+  - id: B5
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Partizip I oder Partizip II im Kontext"
+    instructions: "Setz das passende Partizip (mit Endung) ein. Frag: aktiv (P I) oder passiv/abgeschlossen (P II)? 6 Items."
+    text: |
+      1. Die seit Jahren {1} (steigen) Mieten sind ein Problem. (aktiv)
+      2. Die im Jahr 1990 {2} (gründen) Firma feiert Jubiläum. (passiv)
+      3. Auf dem Bild sieht man {3} (spielen) Kinder. (aktiv)
+      4. Die gerade {4} (renovieren) Galerie öffnet wieder. (passiv)
+      5. Der gestern {5} (ankommen) Brief liegt auf dem Tisch. (sein-Verb)
+      6. Wir lasen den im Mai {6} (schreiben) Bericht. (passiv)
+    answers:
+      "1": steigenden
+      "2": gegründete
+      "3": spielende
+      "4": renovierte
+      "5": angekommene
+      "6": geschriebenen
+
+  - id: B6
+    block: B
+    type: free-write
+    title: "Relativsätze in Partizipialattribute umformen"
+    prompt: "Form jeden Relativsatz in ein (erweitertes) Partizipialattribut um. Achte auf Partizip I/II und die Endung."
+    stimulus: |
+      1. die Werke, die im 19. Jahrhundert entstanden sind
+      2. die Nachfrage, die seit Jahren steigt
+      3. die Skulptur, die gerade restauriert wurde
+      4. die Kinder, die auf dem Hof spielen
+      5. der Künstler, der 2018 verstorben ist
+      6. das Ticket, das heute gekauft wurde
+    model: |
+      1. die im 19. Jahrhundert entstandenen Werke
+      2. die seit Jahren steigende Nachfrage
+      3. die gerade restaurierte Skulptur
+      4. die auf dem Hof spielenden Kinder
+      5. der 2018 verstorbene Künstler
+      6. das heute gekaufte Ticket
+
+  - id: B7
+    block: B
+    type: free-write
+    title: "Partizipialattribute in Relativsätze umformen"
+    prompt: "Löse jedes (erweiterte) Partizipialattribut in einen vollständigen Relativsatz auf."
+    stimulus: |
+      1. die im Mai eröffnete Ausstellung
+      2. die stark gestiegenen Preise
+      3. das gerade vorbeifahrende Auto
+      4. die vom Museum gekauften Gemälde
+      5. der seit gestern schlafende Hund
+      6. die im Jahr 1990 gegründete Firma
+    model: |
+      1. die Ausstellung, die im Mai eröffnet wurde
+      2. die Preise, die stark gestiegen sind
+      3. das Auto, das gerade vorbeifährt
+      4. die Gemälde, die vom Museum gekauft wurden
+      5. der Hund, der seit gestern schläft
+      6. die Firma, die im Jahr 1990 gegründet wurde
+
+  - id: B8
+    block: B
+    type: odd-one-out
+    title: "Was passt nicht?"
+    instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    groups:
+      - items: [lachend, kochend, gegründet, steigend]
+        odd: 2
+        why: "gegründet ist Partizip II (passiv); die anderen sind Partizip I (aktiv)."
+      - items: [gekocht, eröffnet, renoviert, wachsend]
+        odd: 3
+        why: "wachsend ist Partizip I (aktiv); die anderen sind Partizip II (passiv)."
+      - items: [angekommen, entstanden, verstorben, gemalt]
+        odd: 3
+        why: "gemalt bildet das Perfekt mit haben (passives Attribut); die anderen sind sein-Verben (aktiv-abgeschlossen)."
+      - items: [die Ausstellung, das Gemälde, die Galerie, die Forschung]
+        odd: 3
+        why: "die Forschung gehört zum Wissenschaftswortschatz; die anderen gehören ins Museum."
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Eine kurze Museumsmeldung schreiben"
+    prompt: "Schreib eine kurze Meldung (4–5 Sätze) über eine Ausstellung in deiner Stadt."
+    stimulus: |
+      **Forenbeitrag** (in einer Kulturgruppe online):
+      > Hat jemand die neue Ausstellung in der Stadtgalerie gesehen? Ich überlege, am
+      > Wochenende hinzugehen. Was wird dort gezeigt, und lohnt sich der Besuch?
+    use:
+      - "mindestens 2 Partizipialattribute (z. B. die im Mai eröffnete Ausstellung, die spielenden Kinder)"
+      - "mindestens 1 erweitertes Partizipialattribut mit Zeit- oder Ortsangabe (z. B. die im 19. Jahrhundert entstandenen Werke)"
+      - "mindestens 1 Relativsatz (für eine komplexere Aussage)"
+      - "eine freundliche Schlussformel"
+    selfCheck:
+      - "Habe ich bei aktiven Handlungen Partizip I und bei passiven Partizip II benutzt?"
+      - "Stimmt die Adjektivendung am Partizip (Artikel + Genus + Kasus)?"
+      - "Steht die Ergänzung zwischen Artikel und Partizip (Artikel — Ergänzung — Partizip — Nomen)?"
+    model: |
+      Ja, ich war letzte Woche dort! Die im Mai eröffnete Sonderausstellung zeigt vor
+      allem die im 19. Jahrhundert entstandenen Gemälde. Besonders schön ist ein 1872
+      gemaltes Bild mit spielenden Kindern. Die gerade restaurierte Skulptur im Innenhof,
+      die du dir unbedingt ansehen solltest, ist ab morgen wieder geöffnet. Der Besuch
+      lohnt sich auf jeden Fall — viel Spaß! Liebe Grüße!
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext: Partizipialattribute im Sachtext"
+    instructions: "Fülle jede Lücke mit der richtigen Partizipform (mit Endung). 10 Items."
+    text: |
+      Die im vergangenen Jahr (1) {1} (eröffnen) Stadtgalerie ist ein Erfolg. Sie zeigt
+      vor allem die im 19. Jahrhundert (2) {2} (entstehen) Gemälde. Auf einem berühmten
+      Bild sieht man (3) {3} (spielen) Kinder und einen (4) {4} (schlafen) Hund. Die
+      seit Jahren (5) {5} (steigen) Nachfrage führte zu einem Umbau. Die gerade (6) {6}
+      (restaurieren) Skulptur im Innenhof zieht viele Besucher an. Der 2018 (7) {7}
+      (versterben) Künstler schuf viele dieser Werke. Besucher mit einem heute (8) {8}
+      (kaufen) Ticket dürfen morgen wiederkommen. Wir lasen den im Mai (9) {9}
+      (schreiben) Bericht über die (10) {10} (wachsen) Besucherzahlen.
+    answers:
+      "1": eröffnete
+      "2": entstandenen
+      "3": spielende
+      "4": schlafenden
+      "5": steigende
+      "6": restaurierte
+      "7": verstorbene
+      "8": gekauften
+      "9": geschriebenen
+      "10": wachsenden
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    items:
+      - q: "Die im Mai (1) ____ Ausstellung war ein Erfolg."
+        options:
+          - { key: a, text: "eröffnende" }
+          - { key: b, text: "eröffnete" }
+          - { key: c, text: "eröffnet" }
+        answer: b
+        why: "Sie wurde eröffnet → passiv → Partizip II mit Endung -e: die eröffnete Ausstellung."
+      - q: "Auf dem Bild sieht man die (2) ____ Kinder."
+        options:
+          - { key: a, text: "spielenden" }
+          - { key: b, text: "gespielten" }
+          - { key: c, text: "spielende" }
+        answer: a
+        why: "Die Kinder spielen selbst (aktiv → P I), Plural → -en: die spielenden Kinder."
+      - q: "Die seit Jahren (3) ____ Nachfrage ist hoch."
+        options:
+          - { key: a, text: "gestiegene" }
+          - { key: b, text: "steigende" }
+          - { key: c, text: "steigend" }
+        answer: b
+        why: "Aktiv, gerade ablaufend → Partizip I mit Endung: die steigende Nachfrage."
+      - q: "Wir bewunderten das 1872 (4) ____ Bild."
+        options:
+          - { key: a, text: "malende" }
+          - { key: b, text: "gemalte" }
+          - { key: c, text: "gemalt" }
+        answer: b
+        why: "Das Bild wurde gemalt → passiv → Partizip II mit Endung -e: das gemalte Bild."
+      - q: "Der gestern (5) ____ Brief liegt hier."
+        options:
+          - { key: a, text: "ankommende" }
+          - { key: b, text: "angekommene" }
+          - { key: c, text: "angekommen" }
+        answer: b
+        why: '„sein"-Perfekt, abgeschlossen → Partizip II mit Endung: der angekommene Brief.'
+      - q: "Sie half dem (6) ____ Baby."
+        options:
+          - { key: a, text: "weinende" }
+          - { key: b, text: "geweinte" }
+          - { key: c, text: "weinenden" }
+        answer: c
+        why: "Aktiv → P I; Dativ → Endung -en: dem weinenden Baby."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 (Wortbank)"
+    bankCase: upper
+    bankSort: true
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter bleiben übrig. Jedes Wort wird höchstens einmal benutzt."
+    text: |
+      Die im letzten Jahr (1) {1} Stadtgalerie zeigt eine Sammlung von im 19. Jahrhundert
+      (2) {2} Werken. Im ersten Saal hängt ein Bild mit (3) {3} Kindern und einem (4) {4}
+      Hund. Wegen der seit Jahren (5) {5} Nachfrage wurde das Haus umgebaut. Die gerade
+      (6) {6} Skulptur im Hof ist ein Höhepunkt. Der 2018 (7) {7} Maler schuf viele dieser
+      Werke. Besucher mit einem heute (8) {8} Ticket kommen morgen kostenlos wieder. Der
+      im Mai (9) {9} Bericht lobt die (10) {10} Besucherzahlen.
+    bank:
+      - RENOVIERTE
+      - ENTSTANDENEN
+      - SPIELENDEN
+      - SCHLAFENDEN
+      - STEIGENDEN
+      - RESTAURIERTE
+      - VERSTORBENE
+      - GEKAUFTEN
+      - GESCHRIEBENE
+      - WACHSENDEN
+      - GEKOCHTE
+      - LACHENDE
+      - GEGRUENDETE
+      - EROEFFNENDE
+      - GESTIEGENE
+    answers:
+      "1": RENOVIERTE
+      "2": ENTSTANDENEN
+      "3": SPIELENDEN
+      "4": SCHLAFENDEN
+      "5": STEIGENDEN
+      "6": RESTAURIERTE
+      "7": VERSTORBENE
+      "8": GEKAUFTEN
+      "9": GESCHRIEBENE
+      "10": WACHSENDEN
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Lesetext §7)"
+    instructions: "Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?"
+    items:
+      - q: "Ein Partizipialattribut spart laut Text Platz."
+        answer: true
+        why: '„Ein Partizipialattribut spart Platz".'
+      - q: "Für Journalisten ist der Stil ein Werkzeug."
+        answer: true
+        why: '„für Journalisten ist es ein Werkzeug".'
+      - q: "Lange Partizipialkonstruktionen sind laut Text besonders leicht zu lesen."
+        answer: false
+        why: '„Die langen … Konstruktionen sind schwer zu lesen".'
+      - q: 'Sprachkritiker nennen den Stil spöttisch „Schachtelsatz-Deutsch".'
+        answer: true
+        why: '„nennen das spöttisch das Schachtelsatz-Deutsch".'
+      - q: "Der Text empfiehlt, nur noch Partizipialattribute zu benutzen."
+        answer: false
+        why: '„Ein guter Text mischt … Partizipialattribute … Relativsätze".'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (neue Pressemitteilung)"
+    instructions: |
+      Lies die folgende Pressemitteilung und wähle a, b oder c.
+
+      > Die im Frühjahr 2025 eröffnete und von Kritikern gelobte Sonderausstellung „Licht
+      > und Farbe" hat über 50 000 Besucher angezogen. Gezeigt werden vor allem die im
+      > 19. Jahrhundert entstandenen Landschaftsbilder. Wegen der stark gestiegenen
+      > Nachfrage wurde die Laufzeit um zwei Monate verlängert. Die kürzlich restaurierten
+      > Skulpturen im Innenhof sind ab Juni zusätzlich zu sehen. Der Eintritt für das
+      > bereits gekaufte Online-Ticket bleibt gültig.
+    items:
+      - q: "Wann wurde die Sonderausstellung eröffnet?"
+        options:
+          - { key: a, text: "Im Frühjahr 2025." }
+          - { key: b, text: "Im Sommer 2024." }
+          - { key: c, text: "Im Winter 2025." }
+        answer: a
+        why: '„Die im Frühjahr 2025 eröffnete … Sonderausstellung".'
+      - q: "Welche Bilder werden vor allem gezeigt?"
+        options:
+          - { key: a, text: "Moderne Fotografien." }
+          - { key: b, text: "Die im 19. Jahrhundert entstandenen Landschaftsbilder." }
+          - { key: c, text: "Porträts des 20. Jahrhunderts." }
+        answer: b
+        why: '„Gezeigt werden vor allem die im 19. Jahrhundert entstandenen Landschaftsbilder".'
+      - q: "Warum wurde die Laufzeit verlängert?"
+        options:
+          - { key: a, text: "Wegen technischer Probleme." }
+          - { key: b, text: "Wegen der stark gestiegenen Nachfrage." }
+          - { key: c, text: "Wegen einer Renovierung." }
+        answer: b
+        why: '„Wegen der stark gestiegenen Nachfrage wurde die Laufzeit … verlängert".'
+      - q: "Was gilt für ein bereits gekauftes Online-Ticket?"
+        options:
+          - { key: a, text: "Es muss neu gekauft werden." }
+          - { key: b, text: "Es ist nicht mehr gültig." }
+          - { key: c, text: "Der Eintritt bleibt gültig." }
+        answer: c
+        why: '„Der Eintritt für das bereits gekaufte Online-Ticket bleibt gültig".'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Eine Pressemitteilung"
+    prompt: "Schreib eine kurze Pressemitteilung (8–10 Sätze) über die Eröffnung einer Ausstellung, eines Museums oder einer Firma. Nutze Partizipialattribute, um kompakt zu schreiben."
+    use:
+      - "mindestens 3 Partizipialattribute (Partizip I und Partizip II gemischt)"
+      - "mindestens 2 erweiterte Partizipialattribute mit Zeit-/Ortsangabe (die im Jahr … gegründete …)"
+      - "mindestens 1 Relativsatz für eine komplexe Aussage"
+      - "mindestens 1 Satz im Passiv (gezeigt werden …, wurde eröffnet)"
+    selfCheck:
+      - "Aktiv → Partizip I, passiv/abgeschlossen → Partizip II — habe ich richtig gewählt?"
+      - "Stimmt die Adjektivendung am Partizip (Artikel + Genus + Kasus)?"
+      - "Steht die Ergänzung zwischen Artikel und Partizip (A — E — P — N)?"
+      - "Habe ich nicht jeden Satz als Partizip gepackt, sondern auch Relativsätze benutzt?"
+    model: |
+      Die im Mai 2026 eröffnete Stadtgalerie meldet einen großen Erfolg. Gezeigt werden
+      vor allem die im 19. Jahrhundert entstandenen Gemälde, die von Kritikern hoch
+      gelobt werden. Besonders beliebt ist ein 1872 gemaltes Bild mit spielenden Kindern.
+      Wegen der stark gestiegenen Nachfrage wurde die Laufzeit verlängert. Die kürzlich
+      restaurierte Skulptur im Innenhof, die lange im Depot lag, ist ab Juni wieder zu
+      sehen. Der 2018 verstorbene Künstler hat viele dieser Werke geschaffen. Besucher mit
+      einem bereits gekauften Ticket dürfen die Ausstellung kostenlos ein zweites Mal
+      besuchen. Wir danken allen Gästen für ihr großes Interesse.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items."
+    text: |
+      1. Partizip I von lachen: {1}
+      2. Partizip II von gründen: {2}
+      3. Partizip II von entstehen: {3}
+      4. „das Kind, das lacht" als Attribut: das {4} Kind
+      5. „die Firma, die gegründet wurde" als Attribut: die {5} Firma
+      6. Endung: ein schlafend{6} Hund (Nom. m)
+      7. Endung: die steigend{7} Preise (Nom. Pl.)
+      8. (B1/05) Relativpronomen: „Das ist die App, {8} man Scooter findet." (mit + Dativ f)
+      9. (B1/04) Passiv Präsens: „Der Antrag {9} (prüfen) jetzt." (wird/werden)
+      10. (B1/04) Partizip II von schreiben: {10}
+      11. (A2/08) Endung: das groß{11} Haus (Nom. n, best. Art.)
+      12. (B2/01) Nominalisierung von prüfen: die {12}
+      13. „die im Mai eröffnete Ausstellung" → Relativsatz: die Ausstellung, {13}
+      14. Aktiv oder passiv? „die gekochte Suppe" → {14}
+      15. Aktiv oder passiv? „die kochende Suppe" → {15}
+    answers:
+      "1": lachend
+      "2": gegründet
+      "3": entstanden
+      "4": lachende
+      "5": gegründete
+      "6": er
+      "7": en
+      "8": "mit der"
+      "9": wird
+      "10": geschrieben
+      "11": e
+      "12": Prüfung
+      "13": "die im Mai eröffnet wurde"
+      "14": passiv
+      "15": aktiv
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Streiche das Wort, das nicht passt, und erkläre warum. 6 Gruppen."
+    groups:
+      - items: [lachend, kochend, spielend, gegründet]
+        odd: 3
+        why: "gegründet ist Partizip II (passiv); die anderen sind Partizip I (aktiv)."
+      - items: [gekocht, eröffnet, renoviert, steigend]
+        odd: 3
+        why: "steigend ist Partizip I (aktiv); die anderen sind Partizip II (passiv)."
+      - items: [angekommen, entstanden, verstorben, gemalt]
+        odd: 3
+        why: "gemalt bildet das Perfekt mit haben; die anderen sind sein-Verben."
+      - items: [die Ausstellung, das Gemälde, die Galerie, der Bescheid]
+        odd: 3
+        why: "der Bescheid gehört zur Behördensprache (B2/01); die anderen ins Museum."
+      - items: ["-e", "-en", "-er", "-ung"]
+        odd: 3
+        why: "-ung ist eine Nominalendung; die anderen sind Adjektiv-/Partizipendungen."
+      - items: [Partizip I, aktiv, gleichzeitig, passiv]
+        odd: 3
+        why: "passiv beschreibt Partizip II; die anderen gehören zu Partizip I."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: B1/05, B1/04, A2/08"
+    instructions: "Wiederholung früherer Lektionen. 10 Items."
+    text: |
+      **Aus B1/05 (Relativsätze):**
+      1. „Das ist der Mann, {1} dort steht." (Nom. m)
+      2. „Das ist die App, {2} man Scooter findet." (mit + Dativ f)
+      3. „Das ist das Ergebnis, {3} wir stolz sind." (auf + Akk. n)
+
+      **Aus B1/04 (Passiv & Partizip II):**
+      4. Passiv Präsens: „Die Werke {4} (zeigen) im Museum." (werden-Form)
+      5. Partizip II von eröffnen: {5}
+      6. Partizip II von malen: {6}
+
+      **Aus A2/08 (Adjektivdeklination):**
+      7. „der schön{7} Garten" (Nom. m, best. Art.)
+      8. „ein klein{8} Haus" (Nom. n, unbest. Art.)
+      9. „mit dem alt{9} Auto" (Dativ n, best. Art.)
+      10. „die groß{10} Häuser" (Nom. Pl., best. Art.)
+    answers:
+      "1": der
+      "2": "mit der"
+      "3": "auf das"
+      "4": werden
+      "5": eröffnet
+      "6": gemalt
+      "7": e
+      "8": es
+      "9": en
+      "10": en
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (bewerte dich /20)"
+    notes: "16+ / 20 → Lektion B2/06. Unter 16 → wiederhole Block A (A1–A11) und Block B5/B6 morgen, dann teste D4 erneut."
+    text: |
+      **Partizip bilden:**
+      1. Partizip I von kochen: {1}
+      2. Partizip II von gründen: {2}
+      3. Partizip II von entstehen: {3}
+
+      **Partizip I oder II als Attribut:**
+      4. „die Suppe, die kocht" → die {4} Suppe
+      5. „das Ei, das gekocht wurde" → das {5} Ei
+      6. „der Zug, der angekommen ist" → der {6} Zug
+
+      **Endungen:**
+      7. ein schlafend{7} Hund (Nom. m)
+      8. die steigend{8} Preise (Akk. Pl.)
+      9. mit dem gekocht{9} Ei (Dativ n)
+
+      **Erweitertes Partizipialattribut (Relativsatz → Attribut):**
+      10. die Firma, die 1990 gegründet wurde → {10}
+      11. die Nachfrage, die seit Jahren steigt → {11}
+
+      **Attribut → Relativsatz:**
+      12. die im Mai eröffnete Ausstellung → die Ausstellung, {12}
+      13. die gerade vorbeifahrende Straßenbahn → die Straßenbahn, {13}
+
+      **Aktiv oder passiv?**
+      14. „die gemalte Wand" → {14}
+      15. „die malende Künstlerin" → {15}
+
+      **Wiederholung:**
+      16. (B1/05) „die App, {16} man fährt" (mit + Dativ f)
+      17. (B1/04) Passiv Präsens: „Das Bild {17} (zeigen)." (wird/werden)
+      18. (A2/08) „das groß{18} Haus" (Nom. n, best. Art.)
+      19. (B2/01) Nominalisierung von eröffnen: die {19}
+      20. „der 2018 verstorbene Künstler" → der Künstler, {20}
+    answers:
+      "1": kochend
+      "2": gegründet
+      "3": entstanden
+      "4": kochende
+      "5": gekochte
+      "6": angekommene
+      "7": er
+      "8": en
+      "9": en
+      "10": "die 1990 gegründete Firma"
+      "11": "die seit Jahren steigende Nachfrage"
+      "12": "die im Mai eröffnet wurde"
+      "13": "die gerade vorbeifährt"
+      "14": passiv
+      "15": aktiv
+      "16": "mit der"
+      "17": wird
+      "18": e
+      "19": Eröffnung
+      "20": "der 2018 verstorben ist"
