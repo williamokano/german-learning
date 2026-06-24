@@ -331,14 +331,14 @@ Wähl für jede Lücke die richtige Option (a, b oder c).
 Füll die 10 Lücken mit Wörtern aus dem Kasten. **Fünf Wörter werden nicht gebraucht.** Jedes Wort passt nur einmal.
 
 > Ein Pressetext erklärt eine neue Methode: „Mit dem Verfahren
-> (1) (1) ______ sich Mikroplastik im Wasser nachweisen. Kleinste Mengen, die
-> früher kaum (2) (2) ______ waren, sind jetzt gut (3) (3) ______. Die Methode ist
-> einfach (4) (4) ______ und liefert zuverlässige Ergebnisse. Die Proben
-> (5) (5) ______ dafür nur kurz aufzubereiten. (6) (6) ______ kann die Werte in
-> wenigen Minuten messen. Die Ergebnisse (7) (7) ______ anschließend
+> (1) ______ sich Mikroplastik im Wasser nachweisen. Kleinste Mengen, die
+> früher kaum (2) ______ waren, sind jetzt gut (3) ______. Die Methode ist
+> einfach (4) ______ und liefert zuverlässige Ergebnisse. Die Proben
+> (5) ______ dafür nur kurz aufzubereiten. (6) ______ kann die Werte in
+> wenigen Minuten messen. Die Ergebnisse (7) ______ anschließend
 > ausgewertet. Bevor das Verfahren eingesetzt wird, ist eine
-> (8) (8) ______ der Behörden nötig. Ob es bald flächendeckend angewendet
-> (9) (9) ______, ist allerdings noch nicht (10) (10) ______."
+> (8) ______ der Behörden nötig. Ob es bald flächendeckend angewendet
+> (9) ______, ist allerdings noch nicht (10) ______."
 
 > ABZUSEHEN · ANZUWENDEN · BEWIESEN · ERKENNBAR · GENEHMIGUNG · HAT · HATTE · LÄSST · LÖSBAR · MAN · MESSBAR · SIND · VERBOTEN · WERDEN · WIRD
 

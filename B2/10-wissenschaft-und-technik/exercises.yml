@@ -686,14 +686,14 @@ exercises:
     bankCase: upper
     bankSort: true
     text: |
-      In einem Labor (1) {1} ein neues Verfahren entwickelt. Die Proben (2) {2}
-      zunächst unter kontrollierten Bedingungen getestet. Aus den Daten (3) {3}
-      sich schließen, dass die Methode funktioniert. Die Wirkung ist klar (4) {4}.
-      Vor einer Veröffentlichung sind alle Quellen (5) {5}. Der Versuch (6) {6}
+      In einem Labor {1} ein neues Verfahren entwickelt. Die Proben {2}
+      zunächst unter kontrollierten Bedingungen getestet. Aus den Daten {3}
+      sich schließen, dass die Methode funktioniert. Die Wirkung ist klar {4}.
+      Vor einer Veröffentlichung sind alle Quellen {5}. Der Versuch {6}
       mehrfach wiederholt werden, damit er als belegt gilt. Das Material ist
-      umweltfreundlich und (7) {7} sich gut recyceln. „(8) {8} kann die Reinheit
-      genau messen", sagt die Forscherin. Eine Anwendung in der Industrie (9) {9}
-      sich aber noch nicht sagen. Nachdem weitere Tests (10) {10} worden sind,
+      umweltfreundlich und {7} sich gut recyceln. „{8} kann die Reinheit
+      genau messen", sagt die Forscherin. Eine Anwendung in der Industrie {9}
+      sich aber noch nicht sagen. Nachdem weitere Tests {10} worden sind,
       wird das Material vielleicht einsetzbar.
     bank: [WIRD, WERDEN, LÄSST, NACHWEISBAR, ANZUGEBEN, MUSS, LÄSST, MAN, LÄSST, DURCHGEFÜHRT, SIND, KANN, GEMACHT, WURDE, MESSBAR]
     answers:

@@ -338,14 +338,14 @@ Wähle für jede Lücke die richtige Option (a, b oder c).
 
 Fülle die 10 Lücken mit Wörtern aus der Box. **Fünf Wörter werden nicht gebraucht.** Jedes Wort passt nur einmal.
 
-> In einem Labor (1) (1) ______ ein neues Verfahren entwickelt. Die Proben (2) (2) ______
-> zunächst unter kontrollierten Bedingungen getestet. Aus den Daten (3) (3) ______
-> sich schließen, dass die Methode funktioniert. Die Wirkung ist klar (4) (4) ______.
-> Vor einer Veröffentlichung sind alle Quellen (5) (5) ______. Der Versuch (6) (6) ______
+> In einem Labor (1) ______ ein neues Verfahren entwickelt. Die Proben (2) ______
+> zunächst unter kontrollierten Bedingungen getestet. Aus den Daten (3) ______
+> sich schließen, dass die Methode funktioniert. Die Wirkung ist klar (4) ______.
+> Vor einer Veröffentlichung sind alle Quellen (5) ______. Der Versuch (6) ______
 > mehrfach wiederholt werden, damit er als belegt gilt. Das Material ist
-> umweltfreundlich und (7) (7) ______ sich gut recyceln. „(8) (8) ______ kann die Reinheit
-> genau messen", sagt die Forscherin. Eine Anwendung in der Industrie (9) (9) ______
-> sich aber noch nicht sagen. Nachdem weitere Tests (10) (10) ______ worden sind,
+> umweltfreundlich und (7) ______ sich gut recyceln. „(8) ______ kann die Reinheit
+> genau messen", sagt die Forscherin. Eine Anwendung in der Industrie (9) ______
+> sich aber noch nicht sagen. Nachdem weitere Tests (10) ______ worden sind,
 > wird das Material vielleicht einsetzbar.
 
 > ANZUGEBEN · DURCHGEFÜHRT · GEMACHT · KANN · LÄSST · LÄSST · LÄSST · MAN · MESSBAR · MUSS · NACHWEISBAR · SIND · WERDEN · WIRD · WURDE

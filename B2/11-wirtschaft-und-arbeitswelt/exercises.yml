@@ -677,13 +677,13 @@ exercises:
     bankSort: true
     text: |
       Anna berichtet aus dem Meeting: „Wir haben heute über das neue Angebot
-      (1) {1}. Ich habe einen (2) {2} gemacht: fünf Prozent Rabatt bei längerer
-      (3) {3}. Frau Yilmaz hatte zuerst einen (4) {4}, weil ein Rabatt den
-      (5) {5} verringert. Aber ich konnte zeigen, dass der Gewinn bei höherer
-      (6) {6} stabil bleibt. Schließlich haben wir eine (7) {7} getroffen.
-      Die Zahlen stelle ich der Geschäftsführung bis Freitag zur (8) {8}.
-      Insgesamt war das Meeting ein (9) {9}. Den Vertrag wollen wir nächste
-      Woche (10) {10}."
+      {1}. Ich habe einen {2} gemacht: fünf Prozent Rabatt bei längerer
+      {3}. Frau Yilmaz hatte zuerst einen {4}, weil ein Rabatt den
+      {5} verringert. Aber ich konnte zeigen, dass der Gewinn bei höherer
+      {6} stabil bleibt. Schließlich haben wir eine {7} getroffen.
+      Die Zahlen stelle ich der Geschäftsführung bis Freitag zur {8}.
+      Insgesamt war das Meeting ein {9}. Den Vertrag wollen wir nächste
+      Woche {10}."
     bank: [VERHANDELT, VORSCHLAG, VERTRAGSLAUFZEIT, EINWAND, GEWINN, NACHFRAGE, ENTSCHEIDUNG, VERFÜGUNG, ERFOLG, UNTERSCHREIBEN, KÜNDIGUNG, VERLUST, ABTEILUNG, RABATT, BEWERBUNG]
     answers:
       "1": VERHANDELT

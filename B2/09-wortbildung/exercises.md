@@ -339,13 +339,13 @@ Wähle für jede Lücke die richtige Option (a, b oder c).
 
 Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort passt nur einmal.
 
-> Anna las einen Artikel und stieß auf das Wort „die (1) (1) ______". Sie zerlegte es:
+> Anna las einen Artikel und stieß auf das Wort „die (1) ______". Sie zerlegte es:
 > In der Mitte steckte das Verb „wohnen", das Präfix „be-" machte daraus
-> „bewohnen", die Endung „-bar" bedeutete „man kann es (2) (2) ______", und „un-"
-> drehte die (3) (3) ______ um. Die Endung „-keit" machte daraus ein (4) (4) ______, immer
-> (5) (5) ______. Auch das lange Kompositum „die (6) (6) ______" las sie von (7) (7) ______: Das
-> Grundwort „die Veränderung" bestimmte den (8) (8) ______. Am Ende hatte sie kein
-> einziges Mal im (9) (9) ______ nachgeschlagen — sie las nur noch (10) (10) ______.
+> „bewohnen", die Endung „-bar" bedeutete „man kann es (2) ______", und „un-"
+> drehte die (3) ______ um. Die Endung „-keit" machte daraus ein (4) ______, immer
+> (5) ______. Auch das lange Kompositum „die (6) ______" las sie von (7) ______: Das
+> Grundwort „die Veränderung" bestimmte den (8) ______. Am Ende hatte sie kein
+> einziges Mal im (9) ______ nachgeschlagen — sie las nur noch (10) ______.
 
 > ADJEKTIV · ARTIKEL · BAUSTEINE · BEDEUTUNG · FEMININ · HINTEN · KLIMAVERÄNDERUNG · MASKULIN · NOMEN · PRÄFIX · SUFFIX · TUN · UNBEWOHNBARKEIT · VORNE · WÖRTERBUCH
 

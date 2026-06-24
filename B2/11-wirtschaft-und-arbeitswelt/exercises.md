@@ -347,13 +347,13 @@ Wähle für jede Lücke die richtige Option (a, b oder c).
 Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort passt nur einmal.
 
 > Anna berichtet aus dem Meeting: „Wir haben heute über das neue Angebot
-> (1) (1) ______. Ich habe einen (2) (2) ______ gemacht: fünf Prozent Rabatt bei längerer
-> (3) (3) ______. Frau Yilmaz hatte zuerst einen (4) (4) ______, weil ein Rabatt den
-> (5) (5) ______ verringert. Aber ich konnte zeigen, dass der Gewinn bei höherer
-> (6) (6) ______ stabil bleibt. Schließlich haben wir eine (7) (7) ______ getroffen.
-> Die Zahlen stelle ich der Geschäftsführung bis Freitag zur (8) (8) ______.
-> Insgesamt war das Meeting ein (9) (9) ______. Den Vertrag wollen wir nächste
-> Woche (10) (10) ______."
+> (1) ______. Ich habe einen (2) ______ gemacht: fünf Prozent Rabatt bei längerer
+> (3) ______. Frau Yilmaz hatte zuerst einen (4) ______, weil ein Rabatt den
+> (5) ______ verringert. Aber ich konnte zeigen, dass der Gewinn bei höherer
+> (6) ______ stabil bleibt. Schließlich haben wir eine (7) ______ getroffen.
+> Die Zahlen stelle ich der Geschäftsführung bis Freitag zur (8) ______.
+> Insgesamt war das Meeting ein (9) ______. Den Vertrag wollen wir nächste
+> Woche (10) ______."
 
 > ABTEILUNG · BEWERBUNG · EINWAND · ENTSCHEIDUNG · ERFOLG · GEWINN · KÜNDIGUNG · NACHFRAGE · RABATT · UNTERSCHREIBEN · VERFÜGUNG · VERHANDELT · VERLUST · VERTRAGSLAUFZEIT · VORSCHLAG
 

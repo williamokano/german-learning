@@ -330,18 +330,18 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht.
 
-> Anna und Bruno betrachteten ein altes Foto. „Der Mann (1) (1) ______ reich
-> gewesen sein", sagte Anna. „Anders (2) (2) ______ man sich die Villa nicht
-> erklären." Bruno blieb skeptisch: „Er (3) (3) ______ das Haus auch nur gemietet
-> haben." Auf der Rückseite stand eine Notiz. „Angeblich (4) (4) ______ dieser
+> Anna und Bruno betrachteten ein altes Foto. „Der Mann (1) ______ reich
+> gewesen sein", sagte Anna. „Anders (2) ______ man sich die Villa nicht
+> erklären." Bruno blieb skeptisch: „Er (3) ______ das Haus auch nur gemietet
+> haben." Auf der Rückseite stand eine Notiz. „Angeblich (4) ______ dieser
 > Herr ein Geschäftsmann gewesen sein", las Bruno, „zumindest behauptet das
-> der Verkäufer." Anna überlegte: „Er (5) (5) ______ ein Geschäftsmann gewesen
-> sein, das schließe ich nicht aus. Aber er (6) (6) ______ nicht der Besitzer
+> der Verkäufer." Anna überlegte: „Er (5) ______ ein Geschäftsmann gewesen
+> sein, das schließe ich nicht aus. Aber er (6) ______ nicht der Besitzer
 > gewesen sein — seine Kleidung ist zu einfach." Bruno nickte: „Vermutlich
-> (7) (7) ______ er nur ein Angestellter. Der Verkäufer (8) (8) ______ uns alles
-> Mögliche erzählen, um das Foto teuer zu verkaufen." Sicher (9) (9) ______ sie
+> (7) ______ er nur ein Angestellter. Der Verkäufer (8) ______ uns alles
+> Mögliche erzählen, um das Foto teuer zu verkaufen." Sicher (9) ______ sie
 > es nicht. „Egal", sagte Anna, „die Geschichten, die wir uns ausdenken,
-> (10) (10) ______ oft interessanter als die Wahrheit."
+> (10) ______ oft interessanter als die Wahrheit."
 
 > DARF · DÜRFTE · HATTE · KANN · KANN · KÖNNTE · MAG · MUSS · SIND · SOLL · SOLLTE · WAR · WILL · WOLLTE · WUSSTEN
 

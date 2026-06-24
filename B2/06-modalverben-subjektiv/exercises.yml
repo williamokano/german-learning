@@ -672,18 +672,18 @@ exercises:
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht."
     text: |
-      Anna und Bruno betrachteten ein altes Foto. „Der Mann (1) {1} reich
-      gewesen sein", sagte Anna. „Anders (2) {2} man sich die Villa nicht
-      erklären." Bruno blieb skeptisch: „Er (3) {3} das Haus auch nur gemietet
-      haben." Auf der Rückseite stand eine Notiz. „Angeblich (4) {4} dieser
+      Anna und Bruno betrachteten ein altes Foto. „Der Mann {1} reich
+      gewesen sein", sagte Anna. „Anders {2} man sich die Villa nicht
+      erklären." Bruno blieb skeptisch: „Er {3} das Haus auch nur gemietet
+      haben." Auf der Rückseite stand eine Notiz. „Angeblich {4} dieser
       Herr ein Geschäftsmann gewesen sein", las Bruno, „zumindest behauptet das
-      der Verkäufer." Anna überlegte: „Er (5) {5} ein Geschäftsmann gewesen
-      sein, das schließe ich nicht aus. Aber er (6) {6} nicht der Besitzer
+      der Verkäufer." Anna überlegte: „Er {5} ein Geschäftsmann gewesen
+      sein, das schließe ich nicht aus. Aber er {6} nicht der Besitzer
       gewesen sein — seine Kleidung ist zu einfach." Bruno nickte: „Vermutlich
-      (7) {7} er nur ein Angestellter. Der Verkäufer (8) {8} uns alles
-      Mögliche erzählen, um das Foto teuer zu verkaufen." Sicher (9) {9} sie
+      {7} er nur ein Angestellter. Der Verkäufer {8} uns alles
+      Mögliche erzählen, um das Foto teuer zu verkaufen." Sicher {9} sie
       es nicht. „Egal", sagte Anna, „die Geschichten, die wir uns ausdenken,
-      (10) {10} oft interessanter als die Wahrheit."
+      {10} oft interessanter als die Wahrheit."
     bank: [MUSS, KANN, KANN, KÖNNTE, SOLL, MAG, WAR, WILL, WUSSTEN, SIND, DARF, DÜRFTE, SOLLTE, WOLLTE, HATTE]
     answers:
       "1": MUSS
