@@ -256,7 +256,7 @@ Füll die 8 Lücken mit der passenden Präposition. Zwei Wörter sind zu viel.
 > Bericht des Projektteams: (1) ______ der Analyse des Marktes hat das Team mehrere Probleme
 > gefunden. (2) ______ der gestiegenen Kosten musste das Budget erhöht werden. (3) ______ der
 > Verzögerung wurde das Ziel am Ende erreicht. (4) ______ der Prüfung der Daten begann die
-> Umsetzung. (5) ______ der Änderung des Verfahrens konnte die Qualität verbessert werden.
+> Umsetzung. (5) ______ die Änderung des Verfahrens konnte die Qualität verbessert werden.
 > (6) ______ Vermeidung weiterer Fehler wurde ein neues Kontrollsystem eingeführt. (7) ______ der
 > Einführung des Systems sank die Fehlerquote. (8) ______ der Sitzung am Freitag stellte das
 > Team die Ergebnisse vor.
@@ -323,7 +323,7 @@ Nominalstil, (1) ______ sie viele Informationen auf wenig Raum unterbringen müs
 (2) ______ die Verwendung von Nomen wird ein Text kürzer und scheinbar präziser.
 (3) ______ seiner Distanz klingt der Stil neutral. (4) ______ dieser Vorteile hat er
 aber einen Nachteil: Er ist schwer zu verstehen. (5) ______ man einen Amtsbrief
-liest, muss man oft das versteckte Verb suchen. (6) ______ der Verbesserung der
+liest, muss man oft das versteckte Verb suchen. (6) ______ Verbesserung der
 Bürgerkommunikation gibt es heute Kurse in leichter Sprache. (7) ______ man die
 Texte umstellt, verstehen mehr Menschen ihre Briefe. (8) ______ der Umstellung gibt
 es weniger Rückfragen. Der Trend geht (9) ______ dem reinen Nominalstil zurück zum
@@ -350,7 +350,7 @@ Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Je
 > geprüft hatte (Zeit danach, Nebensatz mit Verb), kam der Bericht. (5) ______ der Sitzung am
 > Freitag (gleichzeitig) diskutierte das Team die Ergebnisse. (6) ______ Verbesserung der
 > Qualität (Ziel) investierte die Firma. (7) ______ die Qualität zu verbessern (Ziel, mit „… zu"),
-> investierte die Firma. (8) ______ der Änderung des Verfahrens (Mittel)
+> investierte die Firma. (8) ______ die Änderung des Verfahrens (Mittel)
 > sanken die Kosten. (9) ______ man das Verfahren änderte (Mittel, Nebensatz mit Verb), sanken
 > die Kosten. (10) ______ der Abgabe der Unterlagen (Bedingung/Zeitpunkt) braucht man einen
 > Ausweis."

@@ -100,7 +100,7 @@
 Modellantwort:
 
 > 1. Weil die Kosten hoch waren, wurde das Projekt gestoppt.
-> 2. Obwohl der Zug Verspätung hatte, kam der Chef pünktlich.
+> 2. Obwohl es Verspätung gab, kam der Chef pünktlich.
 > 3. Wenn man die Unterlagen abgibt, braucht man einen Ausweis.
 > 4. Nachdem man den Antrag geprüft hat, kommt der Bescheid.
 > 5. Indem man das Verfahren änderte, sanken die Kosten. (oder: Dadurch, dass …)
