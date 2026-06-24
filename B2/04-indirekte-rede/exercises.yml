@@ -628,14 +628,14 @@ exercises:
     bankSort: true
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter bleiben übrig. Jedes Wort passt nur einmal."
     text: |
-      Auf der Pressekonferenz erklärte die Ministerin, sie (1) {1} die Steuern
-      senken. Die Wirtschaft (2) {2} sich erholt, und das Land (3) {3} auf einem
-      guten Weg. Die Opposition dagegen betonte, die Zahlen (4) {4} geschönt; die
-      Regierung (5) {5} die Probleme nicht lösen. Ein Journalist fragte, (6) {6}
+      Auf der Pressekonferenz erklärte die Ministerin, sie {1} die Steuern
+      senken. Die Wirtschaft {2} sich erholt, und das Land {3} auf einem
+      guten Weg. Die Opposition dagegen betonte, die Zahlen {4} geschönt; die
+      Regierung {5} die Probleme nicht lösen. Ein Journalist fragte, {6}
       die Pläne schon beschlossen seien. Die Ministerin antwortete, die
-      Entscheidung (7) {7} noch fallen. Sie fügte hinzu, die Bürger (8) {8} ein
-      Mitspracherecht. Am Ende bat sie die Presse, man (9) {9} sachlich bleiben.
-      Niemand (10) {10}, ob das gelingen werde.
+      Entscheidung {7} noch fallen. Sie fügte hinzu, die Bürger {8} ein
+      Mitspracherecht. Am Ende bat sie die Presse, man {9} sachlich bleiben.
+      Niemand {10}, ob das gelingen werde.
     bank: [WERDE, HABE, SEI, SEIEN, HÄTTEN, SOLLE, SOLLTEN, OB, WISSE, WUSSTE, KÖNNE, MÜSSE, WOLLE, SIND, IST]
     answers:
       "1": WERDE

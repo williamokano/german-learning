@@ -320,14 +320,14 @@ Wähle für jede Lücke die richtige Option (a, b oder c).
 
 Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter bleiben übrig. Jedes Wort passt nur einmal.
 
-> Auf der Pressekonferenz erklärte die Ministerin, sie (1) (1) ______ die Steuern
-> senken. Die Wirtschaft (2) (2) ______ sich erholt, und das Land (3) (3) ______ auf einem
-> guten Weg. Die Opposition dagegen betonte, die Zahlen (4) (4) ______ geschönt; die
-> Regierung (5) (5) ______ die Probleme nicht lösen. Ein Journalist fragte, (6) (6) ______
+> Auf der Pressekonferenz erklärte die Ministerin, sie (1) ______ die Steuern
+> senken. Die Wirtschaft (2) ______ sich erholt, und das Land (3) ______ auf einem
+> guten Weg. Die Opposition dagegen betonte, die Zahlen (4) ______ geschönt; die
+> Regierung (5) ______ die Probleme nicht lösen. Ein Journalist fragte, (6) ______
 > die Pläne schon beschlossen seien. Die Ministerin antwortete, die
-> Entscheidung (7) (7) ______ noch fallen. Sie fügte hinzu, die Bürger (8) (8) ______ ein
-> Mitspracherecht. Am Ende bat sie die Presse, man (9) (9) ______ sachlich bleiben.
-> Niemand (10) (10) ______, ob das gelingen werde.
+> Entscheidung (7) ______ noch fallen. Sie fügte hinzu, die Bürger (8) ______ ein
+> Mitspracherecht. Am Ende bat sie die Presse, man (9) ______ sachlich bleiben.
+> Niemand (10) ______, ob das gelingen werde.
 
 > HABE · HÄTTEN · IST · KÖNNE · MÜSSE · OB · SEI · SEIEN · SIND · SOLLE · SOLLTEN · WERDE · WISSE · WOLLE · WUSSTE
 
