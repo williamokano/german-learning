@@ -340,7 +340,7 @@ Füll die 10 Lücken mit Wörtern aus dem Kasten. **Fünf Wörter werden nicht g
 > (8) (8) ______ der Behörden nötig. Ob es bald flächendeckend angewendet
 > (9) (9) ______, ist allerdings noch nicht (10) (10) ______."
 
-> ABZUSEHEN · ANZUWENDEN · BEWIESEN · ERKENNBAR · GENEHMIGUNG · HAT · LÄSST · LÖSBAR · MAN · MESSBAR · MÜSSEN · SIND · VERBOTEN · WERDEN · WIRD
+> ABZUSEHEN · ANZUWENDEN · BEWIESEN · ERKENNBAR · GENEHMIGUNG · HAT · HATTE · LÄSST · LÖSBAR · MAN · MESSBAR · SIND · VERBOTEN · WERDEN · WIRD
 
 Five words are not needed.
 

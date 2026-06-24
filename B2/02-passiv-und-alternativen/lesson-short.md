@@ -58,16 +58,16 @@ buildsOn:
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-> **Dr. El-Sayed:** Frau El-Sayed, ich habe Ihren Entwurf für die Wissenschaftsseite gelesen. Fachlich ist er ausgezeichnet, aber für unsere Leser ist er kaum verständlich.  
-> **Hannah El-Sayed:** Das höre ich oft. Woran liegt es Ihrer Meinung nach konkret?  
-> **Dr. El-Sayed:** Vor allem an der Häufung des Passivs. „Die Ergebnisse wurden verifiziert, die Hypothese wurde bestätigt" — nach drei Sätzen weiß niemand mehr, wer hier handelt.  
-> **Hannah El-Sayed:** Sie meinen, ich sollte das Passiv durch aktivische Formen ersetzen?  
-> **Dr. El-Sayed:** Nicht überall, aber dort, wo es den Text schwerfällig macht. Statt „der Versuch kann wiederholt werden" schreiben Sie „der Versuch lässt sich wiederholen" — oder noch einfacher: „der Versuch ist wiederholbar".  
-> **Hannah El-Sayed:** Und wenn eine Vorschrift gemeint ist, also etwas, das getan werden muss?  
-> **Dr. El-Sayed:** Dann bietet sich „sein + zu + Infinitiv" an: „die Quellen sind anzugeben" klingt präziser als „die Quellen müssen angegeben werden", und es ist deutlich kürzer.  
-> **Hannah El-Sayed:** Gut. Eine Frage habe ich noch: Mein Lektor hat „die Studie ist veröffentlicht" durch „die Studie wird veröffentlicht" ersetzt. War das richtig?  
-> **Dr. El-Sayed:** Das kommt auf die Bedeutung an. „Wird veröffentlicht" beschreibt den Vorgang — es passiert gerade. „Ist veröffentlicht" beschreibt das Ergebnis — sie liegt fertig vor. Beides ist korrekt, aber es bedeutet nicht dasselbe.  
-> **Hannah El-Sayed:** Verstanden. Dann überarbeite ich den Text bis morgen. Vielen Dank für die Hinweise.  
+> **Yusuf:** Frau El-Sayed, ich habe Ihren Entwurf für die Wissenschaftsseite gelesen. Fachlich ist er ausgezeichnet, aber für unsere Leser ist er kaum verständlich.  
+> **Hannah:** Das höre ich oft. Woran liegt es Ihrer Meinung nach konkret?  
+> **Yusuf:** Vor allem an der Häufung des Passivs. „Die Ergebnisse wurden verifiziert, die Hypothese wurde bestätigt" — nach drei Sätzen weiß niemand mehr, wer hier handelt.  
+> **Hannah:** Sie meinen, ich sollte das Passiv durch aktivische Formen ersetzen?  
+> **Yusuf:** Nicht überall, aber dort, wo es den Text schwerfällig macht. Statt „der Versuch kann wiederholt werden" schreiben Sie „der Versuch lässt sich wiederholen" — oder noch einfacher: „der Versuch ist wiederholbar".  
+> **Hannah:** Und wenn eine Vorschrift gemeint ist, also etwas, das getan werden muss?  
+> **Yusuf:** Dann bietet sich „sein + zu + Infinitiv" an: „die Quellen sind anzugeben" klingt präziser als „die Quellen müssen angegeben werden", und es ist deutlich kürzer.  
+> **Hannah:** Gut. Eine Frage habe ich noch: Mein Lektor hat „die Studie ist veröffentlicht" durch „die Studie wird veröffentlicht" ersetzt. War das richtig?  
+> **Yusuf:** Das kommt auf die Bedeutung an. „Wird veröffentlicht" beschreibt den Vorgang — es passiert gerade. „Ist veröffentlicht" beschreibt das Ergebnis — sie liegt fertig vor. Beides ist korrekt, aber es bedeutet nicht dasselbe.  
+> **Hannah:** Verstanden. Dann überarbeite ich den Text bis morgen. Vielen Dank für die Hinweise.  
 
 ---
 
