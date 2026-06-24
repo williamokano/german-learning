@@ -342,14 +342,14 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter bleiben übrig. Jedes Wort wird höchstens einmal benutzt.
 
-> Die im letzten Jahr (1) (1) ______ Stadtgalerie zeigt eine Sammlung von im 19. Jahrhundert
-> (2) (2) ______ Werken. Im ersten Saal hängt ein Bild mit (3) (3) ______ Kindern und einem (4) (4) ______
-> Hund. Wegen der seit Jahren (5) (5) ______ Nachfrage wurde das Haus umgebaut. Die gerade
-> (6) (6) ______ Skulptur im Hof ist ein Höhepunkt. Der 2018 (7) (7) ______ Maler schuf viele dieser
-> Werke. Besucher mit einem heute (8) (8) ______ Ticket kommen morgen kostenlos wieder. Der
-> im Mai (9) (9) ______ Bericht lobt die (10) (10) ______ Besucherzahlen.
+> Die im letzten Jahr (1) ______ Stadtgalerie zeigt eine Sammlung von im 19. Jahrhundert
+> (2) ______ Werken. Im ersten Saal hängt ein Bild mit (3) ______ Kindern und einem (4) ______
+> Hund. Wegen der seit Jahren (5) ______ Nachfrage wurde das Haus umgebaut. Die gerade
+> (6) ______ Skulptur im Hof ist ein Höhepunkt. Der 2018 (7) ______ Maler schuf viele dieser
+> Werke. Besucher mit einem heute (8) ______ Ticket kommen morgen kostenlos wieder. Der
+> im Mai (9) ______ Bericht lobt die (10) ______ Sammlung des Museums.
 
-> ENTSTANDENEN · EROEFFNENDE · GEGRUENDETE · GEKAUFTEN · GEKOCHTE · GESCHRIEBENE · GESTIEGENE · LACHENDE · RENOVIERTE · RESTAURIERTE · SCHLAFENDEN · SPIELENDEN · STEIGENDEN · VERSTORBENE · WACHSENDEN
+> ANGERECHNETE · BEDECKTE · ENTSTANDENEN · EROEFFNENDE · FLIEGENDE · GEKAUFTEN · GEKOCHTE · GESCHRIEBENE · RENOVIERTE · RESTAURIERTE · SCHLAFENDEN · SPIELENDEN · STEIGENDEN · VERSTORBENE · WACHSENDEN
 
 Five words are not needed.
 

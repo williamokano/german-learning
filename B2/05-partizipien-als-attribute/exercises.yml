@@ -701,12 +701,12 @@ exercises:
     bankSort: true
     instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter bleiben übrig. Jedes Wort wird höchstens einmal benutzt."
     text: |
-      Die im letzten Jahr (1) {1} Stadtgalerie zeigt eine Sammlung von im 19. Jahrhundert
-      (2) {2} Werken. Im ersten Saal hängt ein Bild mit (3) {3} Kindern und einem (4) {4}
-      Hund. Wegen der seit Jahren (5) {5} Nachfrage wurde das Haus umgebaut. Die gerade
-      (6) {6} Skulptur im Hof ist ein Höhepunkt. Der 2018 (7) {7} Maler schuf viele dieser
-      Werke. Besucher mit einem heute (8) {8} Ticket kommen morgen kostenlos wieder. Der
-      im Mai (9) {9} Bericht lobt die (10) {10} Besucherzahlen.
+      Die im letzten Jahr {1} Stadtgalerie zeigt eine Sammlung von im 19. Jahrhundert
+      {2} Werken. Im ersten Saal hängt ein Bild mit {3} Kindern und einem {4}
+      Hund. Wegen der seit Jahren {5} Nachfrage wurde das Haus umgebaut. Die gerade
+      {6} Skulptur im Hof ist ein Höhepunkt. Der 2018 {7} Maler schuf viele dieser
+      Werke. Besucher mit einem heute {8} Ticket kommen morgen kostenlos wieder. Der
+      im Mai {9} Bericht lobt die {10} Sammlung des Museums.
     bank:
       - RENOVIERTE
       - ENTSTANDENEN
@@ -719,10 +719,10 @@ exercises:
       - GESCHRIEBENE
       - WACHSENDEN
       - GEKOCHTE
-      - LACHENDE
-      - GEGRUENDETE
+      - FLIEGENDE
+      - BEDECKTE
       - EROEFFNENDE
-      - GESTIEGENE
+      - ANGERECHNETE
     answers:
       "1": RENOVIERTE
       "2": ENTSTANDENEN
