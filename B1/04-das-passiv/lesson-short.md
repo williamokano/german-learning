@@ -281,7 +281,7 @@ style). Formation: **`wurde`** (conjugated) + **Partizip II**.
 > ⚠️ **Critical trap:** the auxiliary for Passiv Präteritum is **`wurde`**,
 > NOT `ist` or `war`.
 > - Wrong: ~~*Das Haus war gebaut.*~~ ← this is a Zustandspassiv / stative form (B2)
-> - Wrong: ~~*Das Haus ist gebaut.*~~ ← this is Passiv Perfekt (§4.3 below)
+> - Wrong: ~~*Das Haus ist gebaut.*~~ ← also a Zustandspassiv (resulting state); the real Passiv Perfekt needs **worden**: *Das Haus ist gebaut **worden*** (§4.3 below)
 > - Correct: ***Das Haus wurde gebaut.*** ← Passiv Präteritum ✓
 >
 > `wurde` = the Präteritum of `werden`. You learned Präteritum in B1/01 — now
