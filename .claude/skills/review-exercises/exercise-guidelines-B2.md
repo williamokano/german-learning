@@ -1,7 +1,7 @@
 # Exercise Patterns — B2
 
 For grammar/vocabulary scope rules shared across all lesson reviews, see
-`../review-lesson/guidelines-B2.md`. **Always load both files** before reviewing.
+`guidelines-B2.md`. **Always load both files** before reviewing.
 
 This file defines what **exercise patterns** are appropriate at B2.
 
@@ -211,7 +211,7 @@ Distractors at B2 should:
 
 ## Cross-references
 
-- Shared grammar/vocabulary scope: `../review-lesson/guidelines-B2.md`
+- Shared grammar/vocabulary scope: `guidelines-B2.md`
 - Per-type schema rules: `SKILL.md` §5
 - Common errors: `common-pitfalls.md` §B2
 - Block structure overview: `curriculum.md`

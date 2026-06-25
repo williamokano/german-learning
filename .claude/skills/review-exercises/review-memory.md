@@ -34,6 +34,16 @@ When a pattern affects 5+ lessons, consider promoting it to `common-pitfalls.md`
 
 ---
 
+## 2026-06-25 — Dialog drift via footnote-marker escaping
+
+- **Affected lessons:** A1/04 and A1/10 (`\*` escaped in lesson.md vs `*` unescaped in lesson-short.md)
+- **Frequency:** 2 of 14 A1 lessons
+- **Fix applied:** escape with `\*` in BOTH files for consistency
+- **Pattern:** footnote markers in CommonMark require `\*` to suppress italic; not all lesson authors do this consistently. This is the most common dual-mode "drift" false positive.
+- **See also:** `false-positives.md` — "Dialog drift: \* vs * escaping"
+
+---
+
 ## 2026-06-25 — A1/14 dialog drift is intentional
 
 - **Affected lessons:** A1/14 (Prüfungstraining) has 23-line drift between Full and Short
@@ -93,6 +103,11 @@ When a pattern affects 5+ lessons, consider promoting it to `common-pitfalls.md`
 
 - **Pattern:** single-choice had two options with the same text
 - **Fix:** every option key must have a unique text
+
+### B2: Reported speech confusion (Präteritum vs Konjunktiv I)
+
+- **Pattern:** indirect speech uses Präteritum/Indikativ instead of Konjunktiv I — `er sagt, er hat Zeit` → `er sagt, er habe Zeit` (Konjunktiv II fallback `hätte` also OK)
+- **Fix:** verify every reported-speech construction shifts to Konjunktiv I (or II fallback when KI is indistinguishable from the Indikativ)
 
 ---
 

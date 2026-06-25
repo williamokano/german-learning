@@ -7,7 +7,7 @@ Use this as a quick scan. For full descriptions, see SKILL.md.
 - [ ] **Level detected** from path (`A1`/`A2`/`B1`/`B2`/`C1`/`C2`)
 - [ ] **3 files loaded**:
   - `SKILL.md` (procedure)
-  - `../review-lesson/guidelines-{LEVEL}.md` (shared scope)
+  - `guidelines-{LEVEL}.md` (shared scope)
   - `exercise-guidelines-{LEVEL}.md` (exercise patterns)
 - [ ] **Curriculum compliance** — does not assume knowledge not yet taught
 - [ ] **Learning objectives** — every objective is observable, measurable, appropriate

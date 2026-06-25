@@ -1,7 +1,7 @@
 # Exercise Patterns — A1
 
 For grammar/vocabulary scope rules shared across all lesson reviews, see
-`../review-lesson/guidelines-A1.md`. **Always load both files** before reviewing.
+`guidelines-A1.md`. **Always load both files** before reviewing.
 
 This file defines what **exercise patterns** (types, distractor styles, gap
 complexity, block sizes) are appropriate at A1.
@@ -201,7 +201,7 @@ Distractors at A1 should be:
 
 ## Cross-references
 
-- Shared grammar/vocabulary scope: `../review-lesson/guidelines-A1.md`
+- Shared grammar/vocabulary scope: `guidelines-A1.md`
 - Per-type schema rules: `SKILL.md` §5
 - Common errors: `common-pitfalls.md` §A1
 - Block structure overview: `curriculum.md`

@@ -116,5 +116,5 @@ Block items: H1, H2, H3, H4 (A1-A2 only); H1a/H1b if 2 dialog clips; C4a/C4b if 
 
 - Always cite `file:line` for findings
 - Reference the source file (`SKILL.md`, `exercise-guidelines-{LEVEL}.md`,
-  `../review-lesson/guidelines-{LEVEL}.md`, `AUTHORING.md`, `CURRICULUM.md`)
+  `guidelines-{LEVEL}.md`, `AUTHORING.md`, `CURRICULUM.md`)
   when citing a rule

@@ -13,6 +13,15 @@ Document **why** each new review rule was added.
 
 ---
 
+## 2026-06-25 — Consolidated review-lesson + review-exercises into one skill
+
+- **Trigger:** User reviewed both skills and found them ~80% duplicate with leaky scope, a `$PATH` level-detection bug, a broken `../review-lesson` relative load path, phantom C2 coverage, dead dimensions (visual references, teacher notes), and 8 knowledge files duplicated across both dirs (guaranteed to drift — `false-positives.md` and `review-memory.md` had already diverged).
+- **Decision:** merged into a single `review-exercises` skill that reviews a lesson end-to-end (exercises.yml as primary object + lesson.md/lesson-short.md as reference for drift/scope). Moved `guidelines-{level}.md` in from `review-lesson`, loaded both guideline sets from the local dir, folded `review-lesson`'s unique dual-mode-drift knowledge into `false-positives.md` + `review-memory.md`, deleted `review-lesson/`. Rewrote SKILL.md lean (758→~330 lines): real path-based level detection, trimmed to dimensions that actually fire here, concise fix-list output (no /100 score, no mandatory 32-row table — full audit only on request).
+- **Source:** User request 2026-06-25 ("review both skills, make the best reviewer; consolidate into one; concise fix-list output").
+- **Effect:** one skill, one knowledge base, no cross-skill drift; bugs fixed; the proven A1–B2 fix→PR workflow is the default.
+
+---
+
 ## 2026-06-25 — Restructured the skill into three layers
 
 - **Trigger:** User asked to apply the same level of diligence to `review-exercises` as the restructured `review-lesson`

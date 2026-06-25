@@ -143,3 +143,20 @@ reviewers (or could be) but should NOT be flagged. **Format:**
 - **Looks like:** `answers: "1": komme` with `alts: "1": [{word: komme, note: "..."}, {word: gehe, note: "..."}]`
 - **Why it's actually OK:** explicitly listing the canonical answer in `alts` (with a `note`) is fine; the alternative is for borderline cases
 - **Where to skip:** any `alts:` block
+
+---
+
+## Dialog drift: `\*` vs `*` escaping at end of speaker line
+
+- **Looks like:** `lesson.md` line X differs from `lesson-short.md` line X — trailing `\*` (escaped asterisk) vs `*` (unescaped asterisk)
+- **Why it's actually OK:** the asterisk is a footnote marker, not content drift; both render the same in CommonMark
+- **Where to skip:** speaker lines ending in `\*` or a `\*\**` footnote reference
+- **Fix when convenient:** escape with `\*` in BOTH files for consistency (seen in A1/04, A1/10)
+
+---
+
+## Dual-mode drift in Prüfungstraining lessons (`xx/14`) is intentional
+
+- **Looks like:** `lesson-short.md` is missing 20+ dialog turns that exist in `lesson.md`
+- **Why it's actually OK:** exam lessons (`A1/14`, `A2/14`, `B1/14`, `B2/14`) intentionally have Short = a compact grammar-review sheet, not a dialog transcript
+- **Where to skip:** ALL Prüfungstraining lessons — skip the dialog drift check entirely for these

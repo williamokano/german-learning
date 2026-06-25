@@ -1,7 +1,7 @@
 # Curriculum — Exercise Block Structure per Level
 
 This file documents the **expected exercise block structure** for each CEFR
-level. For grammar/vocabulary scope rules, see `../review-lesson/guidelines-{LEVEL}.md`.
+level. For grammar/vocabulary scope rules, see `guidelines-{LEVEL}.md`.
 For exercise patterns (types, distractor styles, gap complexity), see
 `exercise-guidelines-{LEVEL}.md`.
 
@@ -153,7 +153,7 @@ Standard per-lesson audio:
 
 ## Cross-references
 
-- Grammar/vocabulary scope: `../review-lesson/guidelines-{LEVEL}.md`
+- Grammar/vocabulary scope: `guidelines-{LEVEL}.md`
 - Exercise patterns: `exercise-guidelines-{LEVEL}.md`
 - Per-topic scope: `CURRICULUM.md`
 - Production spec: `AUTHORING.md` and `AUTHORING-V2.md`

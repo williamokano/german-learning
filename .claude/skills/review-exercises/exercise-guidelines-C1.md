@@ -1,7 +1,7 @@
 # Exercise Patterns — C1
 
 For grammar/vocabulary scope rules shared across all lesson reviews, see
-`../review-lesson/guidelines-C1.md`. **Always load both files** before reviewing.
+`guidelines-C1.md`. **Always load both files** before reviewing.
 
 This file defines what **exercise patterns** are appropriate at C1.
 
@@ -199,7 +199,7 @@ Distractors at C1 should:
 
 ## Cross-references
 
-- Shared grammar/vocabulary scope: `../review-lesson/guidelines-C1.md`
+- Shared grammar/vocabulary scope: `guidelines-C1.md`
 - Per-type schema rules: `SKILL.md` §5
 - Common errors: `common-pitfalls.md` §C1
 - Block structure overview: `curriculum.md`
