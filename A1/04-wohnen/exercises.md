@@ -47,7 +47,7 @@ Listen to the three Aussprache clips and pick the matching word.
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext (lesson.md, section 6) and fill the 6 gaps with the words from the bank. Two words are not needed.
+Listen to the Hörtext (lesson.md, section 8) and fill the 6 gaps with the words from the bank. Two words are not needed.
 
 > Anna wohnt jetzt in einer neuen Wohnung in Berlin. Die Wohnung hat
 > drei Zimmer: ein (1) ______, ein Schlafzimmer und eine kleine (2) ______.
@@ -378,7 +378,7 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Meine Wohnung in Köln
 
-Read „Meine Wohnung in Köln" in lesson.md, section 5. Richtig (R) oder falsch (F)?
+Read „Meine Wohnung in Köln" in lesson.md, section 7. Richtig (R) oder falsch (F)?
 
 1. Die Wohnung von Jonas hat zwei Zimmer. ( )
 2. Jonas findet die Möbel schön. ( )

@@ -102,7 +102,7 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen to the Hörtext (lesson.md, section 6) and fill the 6 gaps with the words from the bank. Two words are not needed."
+    instructions: "Listen to the Hörtext (lesson.md, section 8) and fill the 6 gaps with the words from the bank. Two words are not needed."
     text: |
       Anna wohnt jetzt in einer neuen Wohnung in Berlin. Die Wohnung hat
       drei Zimmer: ein {1}, ein Schlafzimmer und eine kleine {2}.
@@ -806,7 +806,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 — Meine Wohnung in Köln"
-    instructions: 'Read „Meine Wohnung in Köln" in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    instructions: 'Read „Meine Wohnung in Köln" in lesson.md, section 7. Richtig (R) oder falsch (F)?'
     items:
       - q: "Die Wohnung von Jonas hat zwei Zimmer."
         answer: false

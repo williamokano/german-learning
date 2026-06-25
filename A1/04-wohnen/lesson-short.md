@@ -148,8 +148,7 @@ grau · braun
 ### Wohnungssuche
 
 die Miete, -n (rent) · der Quadratmeter, - (m²) · die Anzeige, -n (ad) ·
-suchen (to look for) · finden (to find / to think of) · der Monat, -e:
-**im Monat** (per month)
+suchen (to look for) · finden (to find / to think of) · der Monat, -e — **im Monat** (per month)
 
 ### 🔊 Aussprache
 
