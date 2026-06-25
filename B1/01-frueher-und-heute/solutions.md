@@ -105,14 +105,15 @@ Modellantwort:
 
 Modellantwort:
 
-> 1. Ich war gestern in Berlin. (Perfekt + Präteritum mischen: in einer Erzählung Präteritum, nicht Perfekt+aux)
-> 2. Wir hatten dort eine schöne Wohnung. (same — Präteritum statt Plusquamperfekt; narrative tense, not past-perfect-of-past)
-> 3. Er hatte kein Geld, weil er arbeitslos war. (correct as is!)
-> 4. Sie ist 2018 nach Barcelona gegangen. (correct as is!)
-> 5. Ich bin in Berlin geboren, weil meine Familie dort lebte. (correct as is!)
-> 6. Wir konnten am Wochenende nicht kommen, weil wir arbeiten mussten. (Präteritum statt Präsens: arbeiten → mussten/arbeiten mussten)
-> 7. Bevor ich den Job gefunden hatte, war ich Student. (Partizip II Fehler: gefundet → gefunden)
-> 8. Nachdem sie angekommen war, hat sie mich angerufen. (Präteritum in der Hauptsatz-Hauptaussage: hat → rief/war → ... rief)
+> Nicht jeder Satz hat einen Fehler — nur 1 und 7 sind grammatisch falsch.
+> 1. Falsch → „Ich war gestern in Berlin." (Plusquamperfekt „war … gewesen" ist hier überflüssig; das Präteritum „war" reicht.)
+> 2. Besser im Präteritum → „Wir hatten dort eine schöne Wohnung." (Das Perfekt „haben … gehabt" ist nicht falsch, klingt in einer Erzählung aber unnatürlich.)
+> 3. Richtig.
+> 4. Richtig.
+> 5. Richtig.
+> 6. Richtig.
+> 7. Falsch → „Bevor ich den Job gefunden hatte, war ich Student." (Partizip II: „gefundet" → „gefunden".)
+> 8. Richtig. (Plusquamperfekt im nachdem-Satz + Perfekt im Hauptsatz ist korrekt; rein erzählend wäre „… rief sie mich an".)
 
 ## Übung B3 — Frage und Antwort verbinden
 
@@ -129,7 +130,7 @@ Modellantwort:
 
 ## Übung B5 — sich erinnern an
 
-1. **an**  2. **an**  3. **an**  4. **an den Moment**  5. **an den Film**  6. **an**
+1. **an**  2. **an**  3. **an**  4. **an**  5. **an**  6. **an**
 
 ## Übung B6 — Übersetzen (EN → DE) — Präteritum
 
@@ -182,14 +183,14 @@ Selbstkorrektur:
 
 ## Übung C1 — Lückentext: Lukas' Fotoalbum
 
-1. **war**  2. **hatte**  3. **war**  4. **hatte**  5. **fuhr**  6. **fahre**  7. **war**  8. **zahlte**  9. **fand**  10. **zahle**
+1. **war**  2. **hatte**  3. **war**  4. **hatte**  5. **bin**  6. **fahre**  7. **war**  8. **zahlte**  9. **fand**  10. **zahle**
 
 ## Übung C2 — Sprachbausteine Teil 1
 
 1. **a) war** — In a narrative context, use Präteritum (war) instead of Perfekt (bin gewesen).
 2. **b) zog** — Präteritum (zog) is the natural narrative past tense here.
 3. **c) wohnten** — Präteritum (wohnten).
-4. **a) gezogen war** — Bevor + Plusquamperfekt: 'Bevor sie nach Barcelona gezogen war, hatte sie in München studiert'.
+4. **b) zog** — Bevor + Präteritum: 'Bevor sie nach Barcelona zog, hatte sie in München studiert.' Der Hauptsatz steht im Plusquamperfekt (das frühere Ereignis) — genau wie in §6.2 ('Bevor ich nach Berlin kam, hatte ich schon einen Job gefunden').
 5. **b) lebte** — Präteritum (lebte).
 6. **b) hatten** — Präteritum of haben (hatten).
 

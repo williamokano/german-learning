@@ -368,7 +368,7 @@ exercises:
     block: B
     type: free-write
     title: "Finde den Fehler"
-    prompt: 'Each sentence has exactly one mistake. Find it and write the corrected sentence.'
+    prompt: 'Not every sentence has a mistake. Find the sentences that are wrong and rewrite them correctly. If a sentence is already correct, write "richtig".'
     stimulus: |
       1. Ich war gestern in Berlin gewesen.
       2. Wir haben dort eine schöne Wohnung gehabt.
@@ -379,14 +379,15 @@ exercises:
       7. Bevor ich den Job gefundet hatte, war ich Student.
       8. Nachdem sie angekommen war, hat sie mich angerufen.
     model: |
-      1. Ich war gestern in Berlin. (Perfekt + Präteritum mischen: in einer Erzählung Präteritum, nicht Perfekt+aux)
-      2. Wir hatten dort eine schöne Wohnung. (same — Präteritum statt Plusquamperfekt; narrative tense, not past-perfect-of-past)
-      3. Er hatte kein Geld, weil er arbeitslos war. (correct as is!)
-      4. Sie ist 2018 nach Barcelona gegangen. (correct as is!)
-      5. Ich bin in Berlin geboren, weil meine Familie dort lebte. (correct as is!)
-      6. Wir konnten am Wochenende nicht kommen, weil wir arbeiten mussten. (Präteritum statt Präsens: arbeiten → mussten/arbeiten mussten)
-      7. Bevor ich den Job gefunden hatte, war ich Student. (Partizip II Fehler: gefundet → gefunden)
-      8. Nachdem sie angekommen war, hat sie mich angerufen. (Präteritum in der Hauptsatz-Hauptaussage: hat → rief/war → ... rief)
+      Nicht jeder Satz hat einen Fehler — nur 1 und 7 sind grammatisch falsch.
+      1. Falsch → „Ich war gestern in Berlin." (Plusquamperfekt „war … gewesen" ist hier überflüssig; das Präteritum „war" reicht.)
+      2. Besser im Präteritum → „Wir hatten dort eine schöne Wohnung." (Das Perfekt „haben … gehabt" ist nicht falsch, klingt in einer Erzählung aber unnatürlich.)
+      3. Richtig.
+      4. Richtig.
+      5. Richtig.
+      6. Richtig.
+      7. Falsch → „Bevor ich den Job gefunden hatte, war ich Student." (Partizip II: „gefundet" → „gefunden".)
+      8. Richtig. (Plusquamperfekt im nachdem-Satz + Perfekt im Hauptsatz ist korrekt; rein erzählend wäre „… rief sie mich an".)
 
   - id: B3
     block: B
@@ -448,8 +449,8 @@ exercises:
       "1": "an"
       "2": "an"
       "3": "an"
-      "4": "an den Moment"
-      "5": "an den Film"
+      "4": "an"
+      "5": "an"
       "6": "an"
 
   - id: B6
@@ -563,7 +564,7 @@ exercises:
       "2": hatte
       "3": war
       "4": hatte
-      "5": fuhr
+      "5": bin
       "6": fahre
       "7": war
       "8": zahlte
@@ -602,8 +603,8 @@ exercises:
           - { key: a, text: "gezogen war" }
           - { key: b, text: "zog" }
           - { key: c, text: "zieht" }
-        answer: a
-        why: "Bevor + Plusquamperfekt: 'Bevor sie nach Barcelona gezogen war, hatte sie in München studiert'."
+        answer: b
+        why: "Bevor + Präteritum: 'Bevor sie nach Barcelona zog, hatte sie in München studiert.' Der Hauptsatz steht im Plusquamperfekt (das frühere Ereignis) — genau wie in §6.2 ('Bevor ich nach Berlin kam, hatte ich schon einen Job gefunden')."
       - q: "Ich (5) ____ als Kind in einem kleinen Dorf."
         options:
           - { key: a, text: "lebe" }
@@ -630,7 +631,7 @@ exercises:
       altes Auto — einen kaputten Polo. Ich (5) {5} damit jeden Tag zur
       Arbeit. Die Wohnung (6) {6} klein, aber ich (7) {7} das nicht
       schlimm. Nachdem ich nach Berlin (8) {8} (9) {9}, (10) {10} ich
-      drei Jahre lang jeden Tag mit dem Bus."
+      drei Jahre lang jeden Tag mit dem Bus fahren."
     bank: [WAR, HATTE, HATTE, BEGONNEN, WAR, FUHR, WAR, FAND, GEZOGEN, WAR, MUSSTE, KONNTE, WOLLTE, WURDE, KAM]
     answers:
       "1": WAR

@@ -211,7 +211,7 @@ Fill in the 10 blanks with the correct verb form (Präteritum or Präsens as con
 8. Nachdem sie angekommen war, hat sie mich angerufen.
 
 
-**Your task:** Each sentence has exactly one mistake. Find it and write the corrected sentence.
+**Your task:** Not every sentence has a mistake. Find the sentences that are wrong and rewrite them correctly. If a sentence is already correct, write "richtig".
 
 ## Übung B3 — Frage und Antwort verbinden
 
@@ -331,7 +331,7 @@ Fill the 10 gaps using words from the box. Five words are not needed. Each word 
 > altes Auto — einen kaputten Polo. Ich (5) (5) ______ damit jeden Tag zur
 > Arbeit. Die Wohnung (6) (6) ______ klein, aber ich (7) (7) ______ das nicht
 > schlimm. Nachdem ich nach Berlin (8) (8) ______ (9) (9) ______, (10) (10) ______ ich
-> drei Jahre lang jeden Tag mit dem Bus."
+> drei Jahre lang jeden Tag mit dem Bus fahren."
 
 > BEGONNEN · FAND · FUHR · GEZOGEN · HATTE · HATTE · KAM · KONNTE · MUSSTE · WAR · WAR · WAR · WAR · WOLLTE · WURDE
 
