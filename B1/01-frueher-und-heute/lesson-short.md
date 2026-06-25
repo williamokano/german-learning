@@ -102,7 +102,7 @@ buildsOn:
 
 | Nomen | Verb | Adjektiv / Adverb |
 |---|---|---|
-| die Veränderung, -en | sich verändern (Dat) | anders (different) |
+| die Veränderung, -en | sich verändern | anders (different) |
 | der Wandel, – (no pl.) | sich wandeln | völlig / total (completely) |
 | die Entwicklung, -en | sich entwickeln | früher (earlier, in the past) |
 | der Unterschied, -e | unterscheiden (trennen) | heutzutage (these days) |
