@@ -13,7 +13,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 1. Mia interessiert sich normalerweise sehr für Dramen. ( )
-2. Tomáš hat den ganzen Abend an die Hauptfigur des Films gedacht. ( )
+2. Tomáš hat den ganzen Abend an den Film gedacht. ( )
 3. Pavel hat sich darüber gefreut, dass das Ende des Films offen war. ( )
 4. Pavel kümmert sich in der Gruppe oft darum, Filme vorzuschlagen. ( )
 5. Mia besteht am Ende darauf, noch Wein zu trinken. ( )
@@ -27,7 +27,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 1. Wofür interessiert sich Anna laut Dialog B?  a) Für Finanzprojekte und Buchhaltung.  b) Für digitales Projektmanagement und internationale Teamarbeit.  c) Für Marketing und Social Media.
 2. Worauf verlässt sich Anna, wenn sie unter Druck arbeitet?  a) Auf ihr Netzwerk und ihre Kontakte.  b) Auf klare Strukturen und frühe Prioritätensetzung.  c) Auf ihre Erfahrung in der Buchhaltung.
 3. Wovon hängt laut Anna der Erfolg eines Projekts ab?  a) Von einem großen Budget.  b) Von den technischen Werkzeugen.  c) Davon, wie gut sich die Teammitglieder aufeinander verlassen können.
-4. Warum hatte Anna sich früher nicht um die ähnliche Stelle bewerben können?  a) Weil sie keine Erfahrung hatte.  b) Weil sie sich um einen Umzug kümmern musste.  c) Weil die Stelle bereits besetzt war.
+4. Warum hatte Anna das Vorstellungsgespräch für die frühere Stelle nicht führen können?  a) Weil sie keine Erfahrung hatte.  b) Weil sie sich um einen Umzug kümmern musste.  c) Weil die Stelle bereits besetzt war.
 
 ## Übung H3 — Hörtext-Lückentext
 

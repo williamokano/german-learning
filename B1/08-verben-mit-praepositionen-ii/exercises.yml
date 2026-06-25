@@ -20,7 +20,7 @@ exercises:
       - q: "Mia interessiert sich normalerweise sehr für Dramen."
         answer: false
         why: 'Mia says: "Ich interessiere mich eigentlich nicht so sehr für Dramen."'
-      - q: "Tomáš hat den ganzen Abend an die Hauptfigur des Films gedacht."
+      - q: "Tomáš hat den ganzen Abend an den Film gedacht."
         answer: true
         why: 'Tomáš: "Ich habe schon den ganzen Abend daran gedacht."'
       - q: "Pavel hat sich darüber gefreut, dass das Ende des Films offen war."
@@ -61,13 +61,13 @@ exercises:
           - { key: c, text: "Davon, wie gut sich die Teammitglieder aufeinander verlassen können." }
         answer: c
         why: 'Anna: "Der Erfolg hängt vor allem davon ab, wie gut sich die Teammitglieder aufeinander verlassen können."'
-      - q: "Warum hatte Anna sich früher nicht um die ähnliche Stelle bewerben können?"
+      - q: "Warum hatte Anna das Vorstellungsgespräch für die frühere Stelle nicht führen können?"
         options:
           - { key: a, text: "Weil sie keine Erfahrung hatte." }
           - { key: b, text: "Weil sie sich um einen Umzug kümmern musste." }
           - { key: c, text: "Weil die Stelle bereits besetzt war." }
         answer: b
-        why: 'Anna: "ich musste mich damals um einen Umzug kümmern."'
+        why: 'Anna: "ich bin leider nicht dazu gekommen, das Gespräch zu führen — ich musste mich damals um einen Umzug kümmern."'
 
   - id: H3
     block: H
