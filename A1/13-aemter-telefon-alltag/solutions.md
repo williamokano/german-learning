@@ -199,12 +199,12 @@ Selbstkorrektur:
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-1. **b) wegen** — wegen + Gen. (Anmeldung).
+1. **b) wegen** — Ich rufe wegen … an — chunk for I'm calling about ….
 2. **a) einen** — masc. indef. Akk.
 3. **b) Kann** — Kann ich = Can I (asking for ability/permission).
 4. **b) müssen** — Sie-form of müssen.
 5. **b) dauert** — er/sie/es-form of dauern.
-6. **a) das** — das = the appointment.
+6. **c) ihn** — ihn = den Termin (Akk masc.).
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -257,7 +257,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Gemischter Schnelltest (incl. earlier lessons)
 
-1. **an**  2. **mit**  3. **Familienname**  4. **Könnten Sie**  5. **mir**  6. **Auf Wiederhören!**  7. **füllen**  8. **aus**  9. **angerufen**  10. **einem**  11. **dritten Mai**  12. **wegen**  13. **Mit freundlichen Grüßen**  14. **muss**  15. **der**  16. **steht auf**
+1. **an**  2. **mit**  3. **Familienname**  4. **Könnten Sie**  5. **mir**  6. **Auf Wiederhören!**  7. **füllen**  8. **aus**  9. **angerufen**  10. **einem**  11. **dritten Mai**  12. **an**  13. **Mit freundlichen Grüßen**  14. **muss**  15. **der**  16. **steht auf**
 
 ## Übung D2 — Odd one out
 

@@ -466,13 +466,13 @@ exercises:
     instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
     text: |
       1. Könnten Sie mir das Formular {1}? (schickt → ?)
-      2. Ich rufe das Bürgeramt {2} morgen. (an → word order: prefix to end)
-      3. Bruno meldet sich beim Bürgeramt {3} gestern. (an → ?)
+      2. Ich rufe das Bürgeramt morgen {2}. (an → prefix to end)
+      3. Bruno meldet sich gestern beim Bürgeramt {3}. (an → ?)
       4. Die Beamtin gibt {4} Formular Bruno. (dem → Akkusativ)
       5. Ich habe einen Termin {5} Dienstag. (an → am)
       6. Bitte füllen Sie das Formular {6}. (ein → aus)
       7. Er hat das Amt {7}. (angeruft → ?)
-      8. Könnten Sie bitte {8} helfen? (mir → word order: mir bitte)
+      8. Könnten Sie bitte {8} helfen? (mich → mir)
       9. Ich brauche {9} Reisepass. (der → den)
       10. Sie wohnt seit {10} 1. Oktober in der Mozartstraße. (den → dem)
     answers:
@@ -701,13 +701,13 @@ exercises:
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
-      - q: "Ich rufe (1) ____ meiner Anmeldung an."
+      - q: "Ich rufe (1) ____ der Anmeldung an."
         options:
           - { key: a, text: "seit" }
           - { key: b, text: "wegen" }
           - { key: c, text: "nach" }
         answer: b
-        why: "wegen + Gen. (Anmeldung)."
+        why: "Ich rufe wegen … an — chunk for I'm calling about …."
       - q: "Haben Sie (2) ____ Termin?"
         options:
           - { key: a, text: "einen" }
@@ -741,8 +741,8 @@ exercises:
           - { key: a, text: "das" }
           - { key: b, text: "sich" }
           - { key: c, text: "ihn" }
-        answer: a
-        why: "das = the appointment."
+        answer: c
+        why: "ihn = den Termin (Akk masc.)."
 
   - id: C3
     block: C
@@ -775,7 +775,7 @@ exercises:
     block: C
     type: true-false
     title: 'Lesen Text 1 — „Die Anmeldung"'
-    instructions: 'Read „Die Anmeldung" in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    instructions: 'Read „Die Anmeldung" in lesson.md, section 7. Richtig (R) oder falsch (F)?'
     items:
       - { q: "Bruno wohnt in Mitte.", answer: false, why: "Bruno wohnt in Friedrichshain, not Mitte." }
       - { q: "Sein Vermieter heißt Herr Koch.", answer: true, why: "Sein Vermieter heißt Herr Koch." }
@@ -877,7 +877,7 @@ exercises:
       8. (L11) Perfekt of anrufen (ich): Ich habe das Amt {9}.
       9. Dative of *ein* before masculine noun: {10}
       10. (L12) "on the 3rd of May" in German: am {11}
-      11. "I'm calling about my appointment": Ich rufe {12} meines Termins an.
+      11. "I'm calling about my appointment": Ich rufe wegen dem Termin {12}.
       12. Formal email closing: {13}
       13. (L7) "I have to go" (müssen): Ich {14} gehen.
       14. Dative of *die* (singular): {15}
@@ -894,7 +894,7 @@ exercises:
       "9": angerufen
       "10": einem
       "11": "dritten Mai"
-      "12": wegen
+      "12": an
       "13": "Mit freundlichen Grüßen"
       "14": muss
       "15": der
