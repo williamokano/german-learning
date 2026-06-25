@@ -17,7 +17,7 @@
 1. **b) Für digitales Projektmanagement und internationale Teamarbeit.** — Anna: "Ich interessiere mich sehr für digitales Projektmanagement und für internationale Teamarbeit."
 2. **b) Auf klare Strukturen und frühe Prioritätensetzung.** — Anna: "Ich verlasse mich darauf, klare Strukturen zu haben. Ich achte immer darauf, Prioritäten früh zu setzen."
 3. **c) Davon, wie gut sich die Teammitglieder aufeinander verlassen können.** — Anna: "Der Erfolg hängt vor allem davon ab, wie gut sich die Teammitglieder aufeinander verlassen können."
-4. **b) Weil sie sich um einen Umzug kümmern musste.** — Anna: "ich musste mich damals um einen Umzug kümmern."
+4. **b) Weil sie sich um einen Umzug kümmern musste.** — Anna: "ich bin leider nicht dazu gekommen, das Gespräch zu führen — ich musste mich damals um einen Umzug kümmern."
 
 ## Übung H3 — Hörtext-Lückentext
 
