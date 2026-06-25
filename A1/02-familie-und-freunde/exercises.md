@@ -47,7 +47,7 @@ Listen to the Hör zu clips in lesson.md (Wortschatz → 🔊 Aussprache) and pi
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Höre den Text und fülle die Lücken. Fünf Wörter passen nicht.
+Höre den Text und fülle die Lücken. Drei Wörter passen nicht.
 
 > Das ist Familie (1) ______. Der Vater heißt (2) ______. Er kommt aus
 > Deutschland, aus (3) ______. Die Mutter heißt Maria. Sie kommt aus

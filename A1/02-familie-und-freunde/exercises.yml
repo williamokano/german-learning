@@ -98,8 +98,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Höre den Text und fülle die Lücken. Fünf Wörter passen nicht."
-    instructionsEn: "Listen to the text and fill in the gaps. Five words do not fit."
+    instructions: "Höre den Text und fülle die Lücken. Drei Wörter passen nicht."
+    instructionsEn: "Listen to the text and fill in the gaps. Three words do not fit."
     text: |
       Das ist Familie {1}. Der Vater heißt {2}. Er kommt aus
       Deutschland, aus {3}. Die Mutter heißt Maria. Sie kommt aus
