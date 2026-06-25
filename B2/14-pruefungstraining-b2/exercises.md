@@ -96,7 +96,7 @@ Lesen Sie den wissenschaftlichen Text (lesson.md §7 Text 3). Wählen Sie für j
 1. Eine Studie der Universität Zürich _______ (1), dass Schlaf eine entscheidende Rolle spielt.  a) kommt zu dem Ergebnis  b) geht zu dem Ergebnis  c) macht zu dem Ergebnis
 2. Die Probandinnen und Probanden _______ (2) im Durchschnitt 23 Prozent besser ab.  a) schnitten  b) schnitteten  c) haben geschnitten
 3. Die Forscherinnen und Forscher führen das _______ (3), dass im Schlaf Vokabeln verfestigt werden.  a) darüber zurück  b) darauf zurück  c) daran zurück
-4. Insbesondere die Tiefschlafphasen _______ (4) dabei von Bedeutung zu sein.  a) scheinen  b) scheinen  c) scheinen sich
+4. Insbesondere die Tiefschlafphasen _______ (4) dabei von Bedeutung zu sein.  a) scheinen  b) scheint  c) scheinen sich
 5. Die Autorinnen und Autoren empfehlen, neue Lerninhalte kurz _______ (5) dem Schlafengehen zu wiederholen.  a) vor  b) bevor  c) während
 6. So _______ (6) die Konsolidierung unterstützt.  a) wird  b) wurde  c) worden
 

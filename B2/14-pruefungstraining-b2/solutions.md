@@ -56,9 +56,9 @@
 ## Übung exam-L8 — Aufgabe 8 — Wissenschaftlicher Text (Text 3): Lücken ergänzen
 
 1. **a) kommt zu dem Ergebnis** — "kommt zu dem Ergebnis" ist die feste Verbindung — *zu dem Ergebnis kommen*.
-2. **a) schnitten** — Präteritum von *abschneiden* ist *schnitt(en) ab* — schwaches Verb im Plural.
+2. **a) schnitten** — Präteritum von *abschneiden* ist *schnitt(en) ab* — starkes Verb (schneiden → schnitt), Plural *schnitten*.
 3. **b) darauf zurück** — „zurückführen auf + Akk." → Pronominaladverb *darauf* (Sache).
-4. **a) scheinen** — „scheinen + Inf." — die Tiefschlafphasen scheinen wichtig zu sein.
+4. **a) scheinen** — „scheinen + zu + Inf." mit Pluralsubjekt (*die Tiefschlafphasen*) → *scheinen* (nicht *scheint*); *scheinen* ist nicht reflexiv (also nicht *scheinen sich*).
 5. **a) vor** — Präposition *vor* + Dativ: *vor dem Schlafengehen*.
 6. **a) wird** — Generelles Statement (Präsens) → Passiv Präsens: *wird … unterstützt*.
 

@@ -322,7 +322,7 @@ exercises:
           - { key: b, text: "schnitteten" }
           - { key: c, text: "haben geschnitten" }
         answer: a
-        why: 'Präteritum von *abschneiden* ist *schnitt(en) ab* — schwaches Verb im Plural.'
+        why: 'Präteritum von *abschneiden* ist *schnitt(en) ab* — starkes Verb (schneiden → schnitt), Plural *schnitten*.'
 
       - q: "Die Forscherinnen und Forscher führen das _______ (3), dass im Schlaf Vokabeln verfestigt werden."
         options:
@@ -335,10 +335,10 @@ exercises:
       - q: "Insbesondere die Tiefschlafphasen _______ (4) dabei von Bedeutung zu sein."
         options:
           - { key: a, text: "scheinen" }
-          - { key: b, text: "scheinen" }
+          - { key: b, text: "scheint" }
           - { key: c, text: "scheinen sich" }
         answer: a
-        why: '„scheinen + Inf." — die Tiefschlafphasen scheinen wichtig zu sein.'
+        why: '„scheinen + zu + Inf." mit Pluralsubjekt (*die Tiefschlafphasen*) → *scheinen* (nicht *scheint*); *scheinen* ist nicht reflexiv (also nicht *scheinen sich*).'
 
       - q: "Die Autorinnen und Autoren empfehlen, neue Lerninhalte kurz _______ (5) dem Schlafengehen zu wiederholen."
         options:
