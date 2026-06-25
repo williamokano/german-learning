@@ -64,13 +64,21 @@ duzen").
 
 ## 2. Einstieg — Was lernst du heute?
 
-Du bist neu in einer Stadt. Du gehst zum ersten Mal in einen Deutschkurs. Am
-ersten Tag lernst du Leute kennen — du sagst *Hallo*, du sagst deinen Namen,
-du fragst andere: *Wie heißt du? Woher kommst du? Welche Sprachen sprichst
-du?* In dieser Lektion lernst du genau das: **Erste Kontakte** — wie du dich
-vorstellst, wie du andere fragst, und wie du mit den Zahlen von 0 bis 20
-durch den ersten Tag kommst. Du lernst außerdem das deutsche *du* und *Sie*
-kennen — eine kleine soziale Grammatik, die du bei jeder Begegnung brauchst.
+Du bist *neu in einer Stadt*\. Am ersten Tag *lernst du Leute kennen*\* —
+du sagst Hallo, du sagst *deinen Namen*\*, du fragst andere: *Wie heißt du?
+Woher kommst du? Welche Sprachen sprichst du?* In dieser Lektion lernst du
+genau das: **Erste Kontakte** — wie du *dich vorstellst*\*, wie du andere
+fragst, und wie du mit den Zahlen von 0 bis 20 durch den ersten Tag kommst.
+Du lernst außerdem das deutsche *du* und *Sie* kennen\* — eine kleine
+soziale Grammatik, *die du bei jeder Begegnung brauchst*\*.
+
+\* **Chunk alerts (forward-reference):** This Einstieg is a narrative
+scene-setter. The italicised phrases use future structures — *in einer
+Stadt* (L8: Dat. prepositions), *Leute kennenlernen* (L5: separable verbs),
+*deinen Namen* (L3: Akkusativ), *sich vorstellen* (L9: reflexive verbs),
+*kennen* (L5: kennenlernen), *jede Begegnung* (L13: jeder-words). Treat
+each phrase as a fixed chunk for now — you'll learn the grammar in the
+named lesson.
 
 ---
 
@@ -198,11 +206,11 @@ M wie Martha…* — useful but not required yet.
 
 > 📖 **Lese-Tipp:** Lies den Text zuerst laut — laut lesen trainiert dein Mund und dein Ohr gleichzeitig. Wenn du über ein Wort stolperst, lies trotzdem weiter; der Sinn kommt aus dem Zusammenhang. Lies den Text ein zweites Mal leise, wenn du denkst, du hast alles verstanden.
 
-Anna kommt aus Russland, aus Jaroslawl. Seit drei Monaten wohnt sie in Berlin. Heute ist ihr erster Tag in der neuen Sprachschule.
+Anna kommt aus Russland, aus Jaroslawl. *Seit drei Monaten wohnt sie in Berlin*\. Heute ist ihr erster Tag in der neuen Sprachschule.
 
-Die Lehrerin heißt Frau Schmidt. Sie kommt aus Hamburg und spricht Deutsch und Englisch. In der Klasse sind zwanzig Studenten aus der ganzen Welt.
+Die Lehrerin heißt Frau Schmidt. Sie kommt aus Hamburg und spricht Deutsch und Englisch. *In der Klasse sind zwanzig Studenten aus der ganzen Welt*\*.
 
-„Stellt euch bitte vor", sagt Frau Schmidt. Anna steht auf.
+„*Stellt euch bitte vor*\*", sagt Frau Schmidt. *Anna steht auf*\*.
 
 „Hallo! Ich heiße Anna. Ich komme aus Russland, und ich wohne jetzt in Berlin. Welche Sprachen sprichst du?"
 
@@ -212,7 +220,7 @@ Miguel sagt: „Ich heiße Miguel. Ich komme aus Spanien, aus Madrid. Ich wohne 
 
 Hana sagt: „Ich heiße Hana. Ich komme aus der Türkei, aus Istanbul. Ich wohne in Berlin. Ich spreche Türkisch und ein bisschen Deutsch."
 
-Am Ende der Stunde hat Anna vier neue Leute in der Klasse. *Kennenlernen* (to get to know) — neue Vokabel, die lernst du in Lektion 2. Für jetzt: **sie hat vier neue Leute in der Klasse**. Anna ist glücklich: ihr erster Tag in Berlin ist super!
+*Am Ende der Stunde hat Anna vier neue Leute in der Klasse*\. *Kennenlernen*\* (to get to know) — neue Vokabel, die lernst du in Lektion 2. Für jetzt: **sie hat vier neue Leute in der Klasse**. Anna ist glücklich: *ihr erster Tag in Berlin ist super*\*.
 
 <details>
 <summary>📝 Lese-Check — beantworte in einem Satz</summary>
@@ -227,6 +235,13 @@ Am Ende der Stunde hat Anna vier neue Leute in der Klasse. *Kennenlernen* (to ge
 > *Er wohnt in Berlin.*
 
 </details>
+
+\* **Chunk alerts (forward-reference):** The italicised phrases use future
+structures — *seit drei Monaten* (L12: temporal *seit* + Dat), *in der Klasse
+/ in Berlin* (L8: Dat. prepositions), *sich vorstellen* (L9: reflexive verbs),
+*aufstehen* (L5: separable verbs), *am Ende der Stunde* (L12: temporal
+prepositions). Treat each as a fixed chunk for now — you'll learn the
+grammar in the named lesson.
 
 ---
 
@@ -437,7 +452,7 @@ Position 1 can hold the subject *or* something else — but the verb never moves
 > | *Jetzt ich bin in Berlin.* | *Jetzt **bin** ich in Berlin.* | Same rule: verb is in position 2, not 3. |
 > | *Du bist aus Berlin?* (as a yes/no question) | ***Bist** du aus Berlin?* | Yes/no questions flip the order: verb first, subject second. |
 > | *Wer du bist?* | ***Wer bist** du?* | W-questions: W-word first, verb second, subject third. |
-> | *Ich weiß nicht wo er wohnt.* | *Ich weiß nicht, wo er wohnt.* | After a comma, the verb goes to the end (subordinate clause — you'll drill this in Lektion 5). |
+> | *Ich weiß nicht wo er wohnt.* | *Ich weiß nicht, wo er wohnt.* | After a comma, the verb goes to the end (subordinate clause — full treatment in **A2/03**). |
 
 > 💡 **Lerntipp:** The verb-second rule is so important it deserves its own daily drill. Take 5 sentences you already know (e.g. *Ich wohne in Berlin*) and rearrange the front: *Jetzt wohne ich in Berlin. / In Berlin wohne ich. / Aus Russland komme ich. / Seit drei Monaten wohne ich hier.* The verb stays put, the subject shifts. Once you can do this 10 times in a row, the rule is yours. The same drill works for any new verb you learn.
 
@@ -451,7 +466,7 @@ Position 1 can hold the subject *or* something else — but the verb never moves
 > *Aus [deine Heimatstadt] komme ich.*
 > *Wo wohne ich? — In Berlin.*
 >
-> Bonus — eine *wann*-Frage: *Seit wann wohne ich in Berlin?* — aber *seit wann* lernst du erst in Lektion 11 (Vergangenheit). Für jetzt reichen die 4 Variationen oben.
+> Bonus — eine *wann*-Frage: *Seit wann wohne ich in Berlin?* — aber *seit wann* lernst du erst in Lektion 12 (Termine). Für jetzt reichen die 4 Variationen oben.
 
 </details>
 
@@ -516,32 +531,41 @@ woher kommst du und welche Sprachen sprichst du?
 
 ## 9. Magazin — Landeskunde: Sie und du — wie Deutsche das „Sie" benutzen
 
-In Deutschland gibt es ein interessantes Phänomen: **das Duzen und das Siezen**. Mit Freunden und mit der Familie sagt man **„du"**; mit Fremden, im Büro und mit älteren Leuten sagt man **„Sie"**. Aber die Regel ist nicht immer streng.
+In Deutschland sagt man **„du"** *zu Freunden und zur Familie*\* und **„Sie"** *zu Fremden, im Büro und zu älteren Leuten*\*. Wenn du unsicher bist: benutze **„Sie"**. Die andere Person sagt dir, wann **„du"** richtig ist.
 
-In den letzten 30 Jahren ist Deutschland lockerer geworden — viele junge Leute duzen sich schnell, in der Universität, im Sportverein, in der Startup-Szene. Aber in traditionellen Berufen (Bank, Anwaltskanzlei, Behörde) ist **„Sie"** immer noch normal.
+> *„Guten Tag! Mein Name ist Weber. Wie heißen Sie?"* — eine formelle Vorstellung mit „Sie".
 
-> *„Wir können uns gern duzen."* — wer das **„du"** anbietet, gibt damit ein Stück Vertrauen. Es ist ein kleiner sozialer Moment, auf den viele Deutsche warten.
+**Für dich als Lerner:** Am Anfang immer **„Sie"** benutzen. Lieber einmal *zu förmlich*\* als einmal *zu frech*\*.
 
-**Für dich als Lerner:** Am Anfang immer **„Sie"** benutzen. Lieber einmal zu förmlich als einmal zu frech. Die andere Person bietet das **„du"** an, wenn sie es möchte.
+\* **Chunk alerts (forward-reference):** The italicised phrases use future
+structures — *zu + Dativ* (L8: Dat. prepositions), *im Büro* (L8: in + Dat),
+*zu förmlich / zu frech* (A2: *zu* + Adjektiv). Treat each phrase as a fixed
+chunk for now; you'll meet the grammar in the named lesson.
 
 ---
 
 ## 10. Lernstrategie — dein 3-Tage-Plan
 
-Diese Lektion ist dein Einstieg ins Deutsche. Drei Tage, dreißig Minuten pro Tag, und du sprichst deine erste Vorstellung fließend.
+Diese Lektion ist dein Einstieg ins Deutsche. Drei Tage, dreißig Minuten pro
+Tag, und du sprichst deine erste Vorstellung fließend.
+
+\* **Chunk alerts:** This 3-Tage-Plan uses *du-imperatives* (L10) and other
+out-of-scope structures to give natural instructions. Treat each italicised
+imperative or future-structure phrase below as a fixed chunk — you'll drill
+the grammar in the named lesson.
 
 ### Tag 1 (30 min) — Erstkontakt
 
-- [ ] **Dialog A laut lesen** (3×, aus §1). Hör danach die Audiodatei und vergleiche deine Aussprache mit dem Original.
-- [ ] **Wortschatz Zahlen** (§4) — Hör zu 4 + Hör zu 5 zweimal. Zähl dann laut mit, während du durch deine Wohnung gehst.
-- [ ] **Schreib deine eigene Vorstellung** (5 Sätze): Name, Herkunft, Stadt, Sprachen, ein bisschen über deinen Kurs. **Sag sie danach 3× laut auf.**
+- [ ] **Dialog A laut lesen** (3×, aus §1). *Hör danach die Audiodatei*\* und *vergleiche deine Aussprache mit dem Original*\*.
+- [ ] **Wortschatz Zahlen** (§4) — *Hör zu 4 + Hör zu 5*\* zweimal. *Zähl dann laut mit*\*.
+- [ ] **Schreib deine eigene Vorstellung**\* (5 Sätze): Name, Herkunft, Stadt, Sprachen, ein bisschen über deinen Kurs. *Sag sie danach 3× laut auf*\*.
 - [ ] **Block A** (Übungen A1–A4) — Basistraining: Verben und Personalpronomen.
 
 ### Tag 2 (30 min) — Vertiefung
 
-- [ ] **Dialog B laut lesen** (3×, aus §1). Achte auf das *Sie* und *du* — wann sagt Frau Weber *Sie*, wann sagt sie *du*? (Antwort: *Sie* sagt immer *Sie* in formellen Situationen.)
-- [ ] **Redemittel §3** durchgehen: Welche Phrase benutzt du in welcher Situation? Markiere 3 Phrasen, die du diese Woche im Kurs benutzen willst.
-- [ ] **Mini-Geschichte §5** lesen + Lese-Check im Spoiler beantworten. **Lies den Text danach nochmal laut.**
+- [ ] **Dialog B laut lesen** (3×, aus §1). *Achte auf das Sie und du*\* — *wann sagt Frau Weber Sie, wann sagt sie du?*\* (Antwort: *Sie* sagt immer *Sie* in formellen Situationen.)
+- [ ] **Redemittel §3** durchgehen: Welche Phrase benutzt du in welcher Situation? *Markiere 3 Phrasen, die du diese Woche im Kurs benutzen willst*\*.
+- [ ] **Mini-Geschichte §5** lesen + Lese-Check im Spoiler beantworten. *Lies den Text danach nochmal laut*\*.
 - [ ] **Block B** (Übungen B1–B4) — Vertiefung: Wortstellung, Mini-Dialoge, Fehler-Suche.
 
 ### Tag 3 (30 min) — Prüfungsvorbereitung
@@ -549,7 +573,10 @@ Diese Lektion ist dein Einstieg ins Deutsche. Drei Tage, dreißig Minuten pro Ta
 - [ ] **Hörtext §8** anhören (zweimal, mit Pausen). Transkript erst danach öffnen.
 - [ ] **Magazin §9** lesen — der *Duzen/Siezen*-Abschnitt ist auch in der telc A1 Prüfung relevant.
 - [ ] **Block C** (Übungen C1–C5) — Prüfungstraining: Lückentext, Sprachbausteine, Lesen, Schreiben.
-- [ ] **Morgen: Block D** (Übungen D1–D4) — Selbsttest. **Wenn du 16/20 oder besser hast: weiter zu Lektion 2.** Sonst: Block A1–A4 wiederholen und in 2 Tagen neu testen.
+- [ ] **Morgen: Block D** (Übungen D1–D4) — Selbsttest. *Wenn du 16/20 oder besser hast: weiter zu Lektion 2*\. Sonst: Block A1–A4 wiederholen und *in 2 Tagen neu testen*\*.
+
+\* **Imperative chunks (L10)** — the *du*-form (*Hör, Schreib, Sag, Lies, Zähl, Achte, Markiere, Vergleiche*) and *wenn*-subordinate clause are drilled in Lektion 10 and A2/03. Read the items as fixed recipes for now.
+\* **Chunk alert:** *Wenn du 16/20 oder besser hast: weiter zu Lektion 2* uses a *wenn*-clause (A2/03) and *weiter zu* (L8: Dat. preposition). Treat as a chunk.
 
 ---
 
