@@ -165,8 +165,7 @@ grau · braun
 > 💡 **Lerntipp:** *die Miete* (rent) und *der Quadratmeter* (square metre, abbreviated m²) sind die zwei wichtigsten Wörter in deutschen Wohnungsanzeigen. Suche heute noch eine echte Anzeige auf immobilienscout24.de — du wirst beide Wörter sofort wiedererkennen.
 
 die Miete, -n (rent) · der Quadratmeter, - (m²) · die Anzeige, -n (ad) ·
-suchen (to look for) · finden (to find / to think of) · der Monat, -e:
-**im Monat** (per month)
+suchen (to look for) · finden (to find / to think of) · der Monat, -e — **im Monat** (per month)
 
 ### 🔊 Aussprache
 
