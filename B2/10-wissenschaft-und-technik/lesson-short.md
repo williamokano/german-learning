@@ -145,7 +145,7 @@ buildsOn:
 | die Anwendung, -en | konkreter Einsatz einer Technologie |
 | der Algorithmus, -men | Rechenvorschrift, automatisierte Berechnung |
 | die Daten (Pl.) | digitale Informationen |
-| der Datensatz, -̈e | geordnete Sammlung von Daten |
+| der Datensatz, -ä-e (die Datensätze) | geordnete Sammlung von Daten |
 | die Stichprobe, -n | Teilmenge, die untersucht wird |
 | die Methodik, -en | methodisches Vorgehen |
 | das Modell, -e | vereinfachte Darstellung der Realität |

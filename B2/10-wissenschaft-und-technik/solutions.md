@@ -197,7 +197,7 @@ Selbstkorrektur:
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-1. **WURDE**  2. **DURCHGEFÜHRT**  3. **WURDEN**  4. **ERHOBEN**  5. **WURDE**  6. **WURDE**  7. **GEMACHT**  8. **WURDE**  9. **WURDEN**  10. **VEROFFENTLICHT**
+1. **WURDE**  2. **DURCHGEFÜHRT**  3. **WURDEN**  4. **ERHOBEN**  5. **WURDE**  6. **WURDE**  7. **GEMACHT**  8. **WURDE**  9. **WURDEN**  10. **VERÖFFENTLICHT**
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Wie ein Forschungsartikel entsteht)
 
