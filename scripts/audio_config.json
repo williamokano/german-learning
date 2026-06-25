@@ -81,7 +81,7 @@
 
     "male_1":        { "voice_id": "fmj9wTxZg3ta4xR75kgB", "stability": 0.50, "similarity_boost": 0.75, "language": "de", "speed": 0.85 },
     "male_2":        { "voice_id": "utkd5fchbspYG3Ld0zt0", "stability": 0.50, "similarity_boost": 0.75, "language": "de", "speed": 0.85 },
-    "male_3":        { "voice_id": "fzqS9sNPYJhLlfsfDm0l", "stability": 0.50, "similarity_boost": 0.75, "language": "de", "speed": 0.85 }
+    "male_3":        { "voice_id": "fzqS9sNPYJhLlhsfDm0l", "stability": 0.50, "similarity_boost": 0.75, "language": "de", "speed": 0.85 }
   },
 
   "speaker_gender": {
