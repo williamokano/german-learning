@@ -108,7 +108,7 @@
 
 ## Übung B4 — Genitivpräposition zum richtigen Kontext
 
-1 → e · 2 → b · 3 → c · 4 → d
+1 → a · 2 → b · 3 → c · 4 → d
 
 ## Übung B5 — Formelle Sätze rekonstruieren
 
@@ -210,7 +210,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Schnelltest — Genitiv + Wiederholung
 
-1. **des**  2. **des**  3. **der**  4. **des**  5. **der**  6. **Annas**  7. **des**  8. **des**  9. **des**  10. **des**  11. **Trotz der Müdigkeit ging er zur Arbeit.**  12. **Er hatte Arbeit. Deshalb blieb er in Berlin.**  13. **um etwas zu beschreiben**  14. **Das Buch wird gelesen.**  15. **das Fahrrad, das er gekauft hat**
+1. **des**  2. **des**  3. **der**  4. **des**  5. **der**  6. **Annas**  7. **des**  8. **des**  9. **des**  10. **des**  11. **Trotz der Müdigkeit ging er zur Arbeit.**  12. **Er hatte Arbeit. Deshalb blieb er in Berlin.**  13. **Um**  14. **Das Buch wird gelesen.**  15. **das**
 
 ## Übung D2 — Odd one out — Wortschatz & Grammatik
 
@@ -219,7 +219,7 @@ Selbstkorrektur:
 3. ~~der Mann~~ — der Mann is strong declension; the others are n-Deklination (schwache Maskulina)
 4. ~~der Nacht~~ — der Nacht is Genitiv feminin (no -s on noun); the others are maskulin/neutral
 5. ~~Hans' Idee~~ — Hans' uses apostrophe (name ends in s); the others add -s normally
-6. ~~des Professors~~ — des Professors is strong declension; des Kollegen, des Journalisten, des Herrn are n-Deklination (note: des Herren is incorrect — it should be des Herrn)
+6. ~~des Professors~~ — des Professors is strong declension; des Kollegen, des Journalisten, des Herrn are n-Deklination (irregular: der Herr → des Herrn, not des Herren)
 
 ## Übung D3 — Rückblick — B1/05 (Relativsätze) + B1/04 (Passiv)
 
