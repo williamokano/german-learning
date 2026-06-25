@@ -16,7 +16,7 @@ exercises:
     block: H
     type: true-false
     title: "Dialog Hör-Check: Dialog A (Pavel übt die Präsentation)"
-    audio: b1_13_dialog_a.mp3
+    audio: dialog1_a.mp3
     instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Pavels Präsentationsthema ist Großstädte."
@@ -39,7 +39,7 @@ exercises:
     block: H
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (Annas Beschwerdemail)"
-    audio: b1_13_dialog_b.mp3
+    audio: dialog1_b.mp3
     instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "An wen hat Anna die Beschwerdemail geschrieben?"
@@ -75,7 +75,7 @@ exercises:
     block: H
     type: gap-bank
     title: "Hörtext-Lückentext: Mias Workshop-Tipps"
-    audio: b1_13_hoertext.mp3
+    audio: hoertext.mp3
     instructions: "Listen to the Hörtext (Mia gibt Ratschläge fürs Schreiben) and fill in the 5 missing words. Three words in the box are not needed."
     text: |
       Mia bereitet einen {1} über formelles Schreiben vor. Sie erklärt, dass eine
@@ -95,7 +95,7 @@ exercises:
     block: H
     type: single-choice
     title: "Kurze Ansage: Sprachkurs-Anmeldung"
-    audio: b1_13_ansage1.mp3
+    audio: transcript_ansage1.mp3
     instructions: "Listen to the telephone message. Then choose the correct answer (a, b, or c)."
     transcript: "Hallo, hier spricht Jana vom Goethe-Institut Berlin — ich rufe wegen des B1-Schreibkurses an. Die Anmeldung ist noch bis Freitag, den 20. Juni möglich. Der Kurs beginnt am Montag, den 23. Juni, und findet dienstags und donnerstags von 18 bis 20 Uhr statt. Die Kursgebühr beträgt 180 Euro. Bitte bring beim ersten Termin deinen Ausweis und einen Stift mit. Bei Fragen ruf mich bitte zurück unter 030 259 06-0. Wir freuen uns auf dich! Tschüss!"
     items:
