@@ -10,20 +10,28 @@ exercises:
 
   # ── Block H — Hören ──────────────────────────────────────────────────────
 
-  - id: H1
+  - id: H1a
     block: H
     type: true-false
-    title: "Dialog Hör-Check"
-    instructions: |-
-      🎧 **Dialog A:** [dialog1_a.mp3](audio/dialog1_a.mp3)
-      🎧 **Dialog B:** [dialog1_b.mp3](audio/dialog1_b.mp3)
-
-      Listen to both dialogs and decide: richtig (R) oder falsch (F)?
+    title: "Dialog A Hör-Check (Im Café)"
+    audio: dialog1_a.mp3
+    instructions: "Listen to Dialog A and decide: richtig (R) oder falsch (F)?"
     items:
       - { q: "Anna bestellt einen Kaffee und ein Stück Apfelkuchen.", answer: true, why: 'Anna sagt: „Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte."' }
       - { q: "Bruno möchte Orangensaft.", answer: true, why: 'Bruno fragt nach Orangensaft und bestätigt „Ja, bitte" zum Angebot „Ein Glas Orangensaft".' }
-      - { q: "Im Supermarkt kauft Bruno Käse, Brot und Wasser.", answer: true, why: 'Bruno kauft „den Gouda, das Schwarzbrot und eine Flasche Wasser" — Käse, Brot, Wasser.' }
       - { q: "Bruno bezahlt zusammen mit Anna.", answer: false, why: "Sie bezahlen getrennt (separately), not zusammen." }
+
+  - id: H1b
+    block: H
+    type: true-false
+    title: "Dialog B Hör-Check (Im Supermarkt)"
+    audio: dialog1_b.mp3
+    instructions: "Listen to Dialog B and decide: richtig (R) oder falsch (F)?"
+    items:
+      - { q: "Im Supermarkt kauft Bruno Käse, Brot und Wasser.", answer: true, why: 'Bruno kauft „den Gouda, das Schwarzbrot und eine Flasche Wasser" — Gouda = Käse, Schwarzbrot = Brot.' }
+      - { q: "Bruno kauft den Gouda und das Schwarzbrot.", answer: true, why: 'Bruno sagt: „dann nehme ich den Gouda, das Schwarzbrot und eine Flasche Wasser."' }
+      - { q: "Der Gouda kostet zwei Euro neunundneunzig.", answer: true, why: 'Die Verkäuferin sagt: „Der Gouda? Zwei Euro neunundneunzig."' }
+      - { q: "Bruno kauft auch Eier.", answer: false, why: "Bruno kauft Gouda, Schwarzbrot und Wasser — keine Eier." }
 
   - id: H2
     block: H
@@ -660,8 +668,9 @@ exercises:
     type: free-write
     title: "Im Café"
     prompt: "Du sitzt im Café und der Kellner fragt, was du möchtest. Bestell in 3–4 Sätzen: ein Getränk, etwas zu essen, und frag nach der Rechnung."
+    notes: "**Chunk alert (forward-reference):** `Ich hätte gern …` is Konjunktiv II polite — fully explained at A2/09. For now, treat it as a fixed chunk alongside `Ich möchte …`."
     use:
-      - "a polite order with `Ich möchte …` / `Ich hätte gern …` — *Ich möchte einen Kaffee.*"
+      - "a polite order with `Ich möchte …` / `Ich hätte gern …`* — *Ich möchte einen Kaffee.*"
       - "a food item + a drink — *ein Stück Kuchen und ein Glas Saft*"
       - "a question about the price — *Was kostet …?*"
       - "a polite closing — *Stimmt so. / Vielen Dank!*"

@@ -4,12 +4,18 @@
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check
+## Übung H1a — Dialog A Hör-Check (Im Café)
 
 1. **R** — Anna sagt: „Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte."
 2. **R** — Bruno fragt nach Orangensaft und bestätigt „Ja, bitte" zum Angebot „Ein Glas Orangensaft".
-3. **R** — Bruno kauft „den Gouda, das Schwarzbrot und eine Flasche Wasser" — Käse, Brot, Wasser.
-4. **F** — Sie bezahlen getrennt (separately), not zusammen.
+3. **F** — Sie bezahlen getrennt (separately), not zusammen.
+
+## Übung H1b — Dialog B Hör-Check (Im Supermarkt)
+
+1. **R** — Bruno kauft „den Gouda, das Schwarzbrot und eine Flasche Wasser" — Gouda = Käse, Schwarzbrot = Brot.
+2. **R** — Bruno sagt: „dann nehme ich den Gouda, das Schwarzbrot und eine Flasche Wasser."
+3. **R** — Die Verkäuferin sagt: „Der Gouda? Zwei Euro neunundneunzig."
+4. **F** — Bruno kauft Gouda, Schwarzbrot und Wasser — keine Eier.
 
 ## Übung H2 — Aussprache-Check
 
