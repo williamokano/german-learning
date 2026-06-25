@@ -273,6 +273,23 @@ For `lesson-short.md` the same frontmatter is required (same schema,
 identical values). The page uses the frontmatter from `lesson.md` if both
 exist; the Short file's frontmatter is for consistency only.
 
+### Frontmatter YAML gotcha — colons inside `buildsOn` values
+
+YAML parses an unquoted string containing `: ` as a key-value mapping.
+Any `buildsOn` entry whose lesson title contains a colon — e.g.
+`B1/04 (Das Passiv: Vorgang und Zustand)` — **must be quoted**:
+
+```yaml
+buildsOn:
+  - B2/01 (Nominalstil und Verbalstil)   # no colon → bare string OK
+  - "B1/04 (Das Passiv: Vorgang und Zustand)"  # colon → must quote
+```
+
+Forgetting the quotes causes an `InvalidContentEntryDataError` in the
+Astro build (`buildsOn.N: Expected type "string", received "object"`).
+The same rule applies to `grammar` and `canDo` entries. When in doubt,
+quote any list value that contains `:`.
+
 ---
 
 ## 4. Hard constraints (v2)
