@@ -130,12 +130,12 @@ Fill in the correct form of the reflexive verb.
 Fill in the correct form. Watch for Akkusativ vs. Dativ `sich`.
 
 1. Ich ______ jeden Morgen kalt. (sich waschen)
-2. ______ du ______ schon für die Schule? (sich anziehen)
-3. Er ______ ______ nach dem Sport. (sich ausziehen)
-4. Wir ______ ______ schnell — wir haben keine Zeit. (sich anziehen)
+2. ______ du dich schon für die Schule? (sich anziehen)
+3. Er ______ nach dem Sport ______. (sich ausziehen)
+4. Wir ______ uns schnell ______ — wir haben keine Zeit. (sich anziehen)
 5. Ich wasche ______ die Hände vor dem Essen. (Dat)
-6. Bruno ______ ______ die Hände nach dem Kochen. (sich waschen, Dat)
-7. ______ ihr ______ warm ______? Es ist kalt draußen. (sich anziehen)
+6. Bruno ______ sich die Hände nach dem Kochen. (sich waschen, Dat)
+7. ______ ihr euch warm ______? Es ist kalt draußen. (sich anziehen)
 8. Anna ______ ______ einen Schal ______ — es ist Winter. (sich anziehen — Dat)
 
 ## Übung A7 — Satzstellung: Position von `sich`
@@ -190,14 +190,14 @@ Fill in: mir, dir, sich, uns, euch (Dativ). The reflexive pronoun is in Dativ be
 
 Mark R (reflexiv) or N (nicht reflexiv). The gap is R or N.
 
-1. Ich wasche ______. (mich / das Auto)
-2. Ich wasche ______. (mich / das Auto) — second variant
-3. Er zieht ______ an. (sich / die Jacke)
+1. Ich wasche ______ das Auto. (mich / das Auto)
+2. Ich wasche ______. (mich / das Auto)
+3. Er zieht ______ die Jacke an. (sich / die Jacke)
 4. Er zieht ______ an. (sich / die Jacke)
 5. Anna freut ______ über das Geschenk. (sich / die Jacke)
 6. Anna kauft ______ ein neues Fahrrad. (sich / die Tasche)
-7. Wir sehen ______ morgen. (uns / den Film)
-8. Wir sehen ______ morgen. (uns / den Film) — variant
+7. Wir sehen ______ den Film morgen. (uns / den Film)
+8. Wir sehen ______ morgen. (uns / den Film)
 
 ---
 
@@ -227,8 +227,8 @@ Each item has exactly one mistake. The wrong word is shown as a gap — write th
 3. Wir freuen ______ auf den Urlaub. (euch → ?)
 4. Er wäscht sich die Hände — er wäscht ______ die Hände. (dir → ?)
 5. Zuerst ärgert Bruno ______ über den Stress. (sich → ?)
-6. Ich kaufe ______ einen neuen Sportschuhe. (mir → ?)
-7. …, weil ich mich nicht gut fühle ______. (sich → ?)
+6. Ich kaufe ______ einen neuen Sportschuh. (mir → ?)
+7. …, weil ich mich nicht gut fühle ______. (weglassen → ?)
 8. ______ Sie sich aus! (Ruh → ?)
 9. Sie wünscht sich mehr Energie — Sie wünscht ______ mehr Energie. (mich → ?)
 10. Die Kinder waschen sich die Zähne ______. (putzen → ?)
@@ -365,7 +365,7 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext)
 
-Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?
+Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?
 
 1. Anna geht einmal pro Woche zum Yogakurs. ( )
 2. Bruno geht jeden Morgen eine halbe Stunde joggen. ( )

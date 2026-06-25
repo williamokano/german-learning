@@ -267,30 +267,27 @@ exercises:
     instructions: "Fill in the correct form. Watch for Akkusativ vs. Dativ `sich`."
     text: |
       1. Ich {1} jeden Morgen kalt. (sich waschen)
-      2. {2} du {3} schon für die Schule? (sich anziehen)
-      3. Er {4} {5} nach dem Sport. (sich ausziehen)
-      4. Wir {6} {7} schnell — wir haben keine Zeit. (sich anziehen)
-      5. Ich wasche {8} die Hände vor dem Essen. (Dat)
-      6. Bruno {9} {10} die Hände nach dem Kochen. (sich waschen, Dat)
-      7. {11} ihr {12} warm {13}? Es ist kalt draußen. (sich anziehen)
-      8. Anna {14} {15} einen Schal {16} — es ist Winter. (sich anziehen — Dat)
+      2. {2} du dich schon für die Schule? (sich anziehen)
+      3. Er {3} nach dem Sport {4}. (sich ausziehen)
+      4. Wir {5} uns schnell {6} — wir haben keine Zeit. (sich anziehen)
+      5. Ich wasche {7} die Hände vor dem Essen. (Dat)
+      6. Bruno {8} sich die Hände nach dem Kochen. (sich waschen, Dat)
+      7. {9} ihr euch warm {10}? Es ist kalt draußen. (sich anziehen)
+      8. Anna {11} {12} einen Schal {13} — es ist Winter. (sich anziehen — Dat)
     answers:
       "1": "wasche mich"
-      "2": "Ziehst du dich"
-      "3": "schon"
-      "4": "zieht sich"
-      "5": "aus"
-      "6": "ziehen uns"
-      "7": "an"
-      "8": "mir"
-      "9": "wäscht sich"
-      "10": "die Hände nach dem Kochen"
-      "11": "Zieht ihr euch"
-      "12": "warm"
+      "2": "Ziehst"
+      "3": "zieht sich"
+      "4": "aus"
+      "5": "ziehen"
+      "6": "an"
+      "7": "mir"
+      "8": "wäscht"
+      "9": "Zieht"
+      "10": "an"
+      "11": "zieht"
+      "12": "sich"
       "13": "an"
-      "14": "zieht sich"
-      "15": "einen Schal"
-      "16": "an"
 
   - id: A7
     block: A
@@ -382,23 +379,23 @@ exercises:
     title: "Reflexiv oder nicht? Entscheiden"
     instructions: "Mark R (reflexiv) or N (nicht reflexiv). The gap is R or N."
     text: |
-      1. Ich wasche {1}. (mich / das Auto)
-      2. Ich wasche {2}. (mich / das Auto) — second variant
-      3. Er zieht {3} an. (sich / die Jacke)
+      1. Ich wasche {1} das Auto. (mich / das Auto)
+      2. Ich wasche {2}. (mich / das Auto)
+      3. Er zieht {3} die Jacke an. (sich / die Jacke)
       4. Er zieht {4} an. (sich / die Jacke)
       5. Anna freut {5} über das Geschenk. (sich / die Jacke)
       6. Anna kauft {6} ein neues Fahrrad. (sich / die Tasche)
-      7. Wir sehen {7} morgen. (uns / den Film)
-      8. Wir sehen {8} morgen. (uns / den Film) — variant
+      7. Wir sehen {7} den Film morgen. (uns / den Film)
+      8. Wir sehen {8} morgen. (uns / den Film)
     answers:
-      "1": R
-      "2": N
-      "3": R
-      "4": N
+      "1": N
+      "2": R
+      "3": N
+      "4": R
       "5": R
       "6": R
-      "7": R
-      "8": N
+      "7": N
+      "8": R
 
   # ── Block B — Vertiefung ──────────────────────────────────────────────────
 
@@ -443,8 +440,8 @@ exercises:
       3. Wir freuen {3} auf den Urlaub. (euch → ?)
       4. Er wäscht sich die Hände — er wäscht {4} die Hände. (dir → ?)
       5. Zuerst ärgert Bruno {5} über den Stress. (sich → ?)
-      6. Ich kaufe {6} einen neuen Sportschuhe. (mir → ?)
-      7. …, weil ich mich nicht gut fühle {7}. (sich → ?)
+      6. Ich kaufe {6} einen neuen Sportschuh. (mir → ?)
+      7. …, weil ich mich nicht gut fühle {7}. (weglassen → ?)
       8. {8} Sie sich aus! (Ruh → ?)
       9. Sie wünscht sich mehr Energie — Sie wünscht {9} mehr Energie. (mich → ?)
       10. Die Kinder waschen sich die Zähne {10}. (putzen → ?)
@@ -455,7 +452,7 @@ exercises:
       "4": sich
       "5": sich
       "6": mir
-      "7": "sich entfernen (weglassen)"
+      "7": "(weglassen)"
       "8": Ruhen
       "9": sich
       "10": putzen
@@ -729,7 +726,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 (Lesetext)"
-    instructions: "Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?"
+    instructions: "Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?"
     items:
       - { q: "Anna geht einmal pro Woche zum Yogakurs.", answer: false, why: "Sie geht zweimal pro Woche, nicht einmal." }
       - { q: "Bruno geht jeden Morgen eine halbe Stunde joggen.", answer: true, why: "Er zieht sich jeden Morgen Sportschuhe an und geht eine halbe Stunde joggen." }
