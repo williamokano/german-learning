@@ -268,6 +268,8 @@ Never use infinitive form as a tile in conjugated sentences.
 7. **`gap-bank` answer not in bank** — Zod catches this but fix before running.
 7a. **Audio filename mismatch in yml vs actual files** — `audio: b1_13_dialog_a.mp3` when the file is actually `dialog1_a.mp3`. Cross-check every `audio:` field against `ls audio/` and fix the yml to match.
 7b. **`H4` references `transcript_ansage1.mp3` that doesn't exist** — pre-existing audio gen gap. Flag for follow-up audio regen; do NOT silently rewrite to a different filename.
+7c. **C3 gap-bank cross-gap ambiguity** — a single bank word fits two different gaps, or a single gap has two valid bank words. Run a mental simulation: for each bank word, can it fit any gap besides its assigned one? For each gap, can any other bank word fit? Examples seen in A1/03 (ESSE/BRAUCHE both fit gap 1) and A1/09 (GEFÄLLT/PASST/STEHT are cross-ambiguous). Fix by adding `alts:` or restructuring the gap text.
+7d. **Duplicate bank entries are allowed** — when a word is needed in 2 gaps (e.g. A1/05 C1 has `gehe` twice for two separate gaps), the bank can list it twice. Zod does not enforce uniqueness. This is the workaround when no alt-distractor is available.
 
 ### Grammar errors
 8. **Reflexive pronoun `ihr` for `sie`** — should be `sich`.
@@ -380,6 +382,10 @@ Empty output = dialogs agree. Any line = divergence, fix both files.
 
 The drift checks are **advisory** (the skill does not block on them) but
 should be run before every commit that touches a lesson directory.
+
+**Drift false-positives to skip:**
+- Footnote-marker asterisks: `\*` (escaped, lesson.md) vs `*` (unescaped, lesson-short.md) at end of a speaker line. The asterisk is a footnote reference, not a content drift. Fix by escaping with `\*` in BOTH files for consistency (seen in A1/04, A1/10).
+- **A1/14, A2/14, B1/14, B2/14 (Prüfungstraining exam lessons)** — the Short version is intentionally a compact grammar review and does NOT include the dialogs from the Full version. Skip the dialog drift check for these.
 
 ---
 
