@@ -128,7 +128,7 @@ Fill in the main clause with the correct `würde + Infinitiv` form. 6 items.
 2. Wenn Bruno Zeit hätte, ______ er jeden Tag Fotos ______. (machen)
 3. Wenn Anna in Lissabon wäre, ______ sie Portugiesisch ______. (lernen)
 4. Wenn wir früher aufgestanden wären — nein, stellen wir uns vor: Wenn wir früher aufstehen ______, ______ wir den Zug ______. (können / nehmen)
-5. Wenn Mia nicht so viele Meetings hätte, ______ sie öfter kochen ______. (würde / -)
+5. Wenn Mia nicht so viele Meetings hätte, ______ sie öfter ______. (kochen)
 6. Wenn ihr nicht so weit weg wärt, ______ wir euch öfter ______. (besuchen)
 
 ## Übung A6 — Irreale Bedingungssätze — Wenn-Satz ergänzen (starke Form)
@@ -236,11 +236,11 @@ Match each sentence beginning (1–6) with the correct ending (a–g). One endin
 |---|---|---|
 | 1. Ich wünschte, ich | | a) würde er jeden Tag fotografieren. |
 | 2. Wenn ich mehr Zeit hätte, | | b) würde ich sofort anfangen. |
-| 3. An deiner Stelle | | c) du früher anfängst. |
+| 3. Ich würde dir empfehlen, | | c) du früher anfängst. |
 | 4. Wenn Bruno in Tokio wäre, | | d) dich bei einem Kurs anmelden. |
-| 5. Du solltest | | e) würde ich das ausprobieren. |
+| 5. Du solltest | | e) es einmal auszuprobieren. |
 | 6. Es wäre besser, wenn | | f) hätte schon früher angefangen. |
-|  | | g) wäre ich sehr glücklich. |
+|  | | g) würdest du es bestimmt schaffen. |
 
 ## Übung B5 — Wenn-Satz Wortstellung üben
 
@@ -355,11 +355,11 @@ Fülle die 10 Lücken. Fünf Wörter sind nicht nötig.
 > mutiger gewesen wäre. Wenn wir alle mehr Mut (4) ______, würden wir öfter neue
 > Dinge wagen. Wenn ich nächstes Jahr mehr Zeit (5) ______, würde ich einen langen
 > Urlaub machen. Ich würde gern nach Lissabon (6) ______ — das Meer, die Sonne, die
-> Ruhe. Du (7) ______ das auch mögen, glaube ich. Wenn wir (8) ______ zusammen fahren
-> könnten, wäre das wunderbar. Ich (9) ______ dir empfehlen, es einmal auszuprobieren.
+> Ruhe. Du (7) ______ das auch mögen, glaube ich. Wenn wir zusammen fahren (8) ______,
+> wäre das wunderbar. Ich (9) ______ dir empfehlen, es einmal auszuprobieren.
 > Vielleicht sollten wir das (10) ______ planen!
 
-> BALD · DAMALS · HÄTTE · HÄTTEN · KOMPLETT · KÖNNTEN · KÖNNTEST · REISEN · SOLLTE · WÄRE · WÜNSCHTE · WÜRDE · WÜRDEN · WÜRDEST · ZIEHEN
+> BALD · BLEIBEN · DAMALS · HÄTTE · HÄTTEN · KOMPLETT · KÖNNTEN · KÖNNTEST · SOLLTE · WÄRE · WÄRST · WÜNSCHTE · WÜRDE · WÜRDEST · ZIEHEN
 
 Five words are not needed.
 

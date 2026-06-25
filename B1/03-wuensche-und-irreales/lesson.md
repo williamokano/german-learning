@@ -496,7 +496,7 @@ Es gibt ein Klischee, das oft stimmt: Deutsche denken gern an das „Was wäre, 
 
 > „Erst absichern, dann träumen" — so könnte man die deutsche Grundhaltung beschreiben.
 
-Das hat Vorteile: Wer abgesichert ist, schläft ruhiger. Aber es gibt auch eine Kehrseite. Manchmal wartet man so lange auf den perfekt geplanten Moment, dass man den Sprung nie wagt. Vielleicht ist genau das die Lektion aus dieser Lektion: Der Konjunktiv II ist schön zum Träumen — aber irgendwann muss man ins Indikativ wechseln und einfach anfangen.
+Das hat Vorteile: Wer abgesichert ist, schläft ruhiger. Aber es gibt auch eine Kehrseite. Manchmal wartet man so lange auf den perfekt geplanten Moment, dass man den Sprung nie wagt. Vielleicht ist genau das die Lektion aus dieser Lektion: Der Konjunktiv II ist schön zum Träumen — aber irgendwann muss man in den Indikativ wechseln und einfach anfangen.
 
 ---
 
