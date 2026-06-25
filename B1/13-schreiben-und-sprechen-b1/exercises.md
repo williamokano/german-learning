@@ -8,7 +8,7 @@ Blocks: H Hören → A Basistraining (formelle/informelle E-Mail) → B Vertiefu
 
 ## Übung H1a — Dialog Hör-Check: Dialog A (Pavel übt die Präsentation)
 
-🎧 **Audio:** [b1_13_dialog_a.mp3](audio/b1_13_dialog_a.mp3)
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
 Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
@@ -20,7 +20,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (Annas Beschwerdemail)
 
-🎧 **Audio:** [b1_13_dialog_b.mp3](audio/b1_13_dialog_b.mp3)
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
@@ -31,7 +31,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 ## Übung H3 — Hörtext-Lückentext: Mias Workshop-Tipps
 
-🎧 **Audio:** [b1_13_hoertext.mp3](audio/b1_13_hoertext.mp3)
+🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
 Listen to the Hörtext (Mia gibt Ratschläge fürs Schreiben) and fill in the 5 missing words. Three words in the box are not needed.
 
@@ -45,7 +45,7 @@ Listen to the Hörtext (Mia gibt Ratschläge fürs Schreiben) and fill in the 5 
 
 ## Übung H4 — Kurze Ansage: Sprachkurs-Anmeldung
 
-🎧 **Audio:** [b1_13_ansage1.mp3](audio/b1_13_ansage1.mp3)
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
 Listen to the telephone message. Then choose the correct answer (a, b, or c).
 
@@ -57,7 +57,7 @@ Listen to the telephone message. Then choose the correct answer (a, b, or c).
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
-🎧 **Audio:** [b1_13_ansage1.mp3](audio/b1_13_ansage1.mp3)
+🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
 **Ansage 1 — Transcript**
 
