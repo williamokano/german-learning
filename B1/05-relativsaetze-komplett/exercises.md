@@ -26,7 +26,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 1. Was hat Herr Steinmeyer bereits gelesen?  a) Annas Bewerbung für eine neue Stelle.  b) Das Empfehlungsschreiben, das Anna ihm geschickt hat.  c) Annas Lebenslauf.
 2. Was kritisiert Herr Steinmeyer an Annas erster Formulierung?  a) Sie ist zu formell.  b) Sie ist zu allgemein.  c) Sie enthält einen Grammatikfehler.
-3. Was sagt Herr Steinmeyer über das Wort `worüber`?  a) Es ist hier korrekt und passt gut.  b) Es gehört zu einer anderen Kategorie — man schreibt stattdessen `über das`.  c) Es ist zu informell für ein Empfehlungsschreiben.
+3. Was sagt Herr Steinmeyer über das Wort `worauf`?  a) Es ist hier korrekt und passt gut.  b) Es gehört zu einer anderen Kategorie — man schreibt stattdessen `auf das`.  c) Es ist zu informell für ein Empfehlungsschreiben.
 4. Wie bewertet Herr Steinmeyer am Ende das überarbeitete Schreiben?  a) Er findet es noch zu informell.  b) Er ist sicher, dass es einen sehr guten Eindruck machen wird.  c) Er will noch mehr Änderungen besprechen.
 
 ## Übung H3 — Hörtext-Lückentext: Mias Traumwohnung
@@ -483,7 +483,7 @@ Review of earlier lessons. 10 items.
 15. Das ist der Bezirk, ______ die Nachfrage am größten ist.
 
 **Gemischt — richtige Form wählen:**
-16. Das ist etwas, ______ mich überrascht hat: ______ (was oder das?)
-17. Das Problem, ______ wir lösen müssen, ist groß: ______ (was oder das?)
+16. Das ist etwas, ______ mich überrascht hat. (was oder das?)
+17. Das Problem, ______ wir lösen müssen, ist groß. (was oder das?)
 
 _16+ / 20 → Lektion B1/06. Below 16: redo Block A1–A6 and B2 (Finde den Fehler) tomorrow, then retest D4._

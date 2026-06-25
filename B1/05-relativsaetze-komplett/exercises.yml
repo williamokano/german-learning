@@ -55,13 +55,13 @@ exercises:
           - { key: c, text: "Sie enthält einen Grammatikfehler." }
         answer: b
         why: '"Das ist zu allgemein."'
-      - q: "Was sagt Herr Steinmeyer über das Wort `worüber`?"
+      - q: "Was sagt Herr Steinmeyer über das Wort `worauf`?"
         options:
           - { key: a, text: "Es ist hier korrekt und passt gut." }
-          - { key: b, text: "Es gehört zu einer anderen Kategorie — man schreibt stattdessen `über das`." }
+          - { key: b, text: "Es gehört zu einer anderen Kategorie — man schreibt stattdessen `auf das`." }
           - { key: c, text: "Es ist zu informell für ein Empfehlungsschreiben." }
         answer: b
-        why: '"worüber gehört zu einer anderen Kategorie. Auf diesem Niveau schreibt man: über das wir sehr stolz sind."'
+        why: '"`worauf` gehört zu einer anderen Kategorie. Auf diesem Niveau schreibt man: `auf das wir sehr stolz sind`."'
       - q: "Wie bewertet Herr Steinmeyer am Ende das überarbeitete Schreiben?"
         options:
           - { key: a, text: "Er findet es noch zu informell." }
@@ -954,8 +954,8 @@ exercises:
       15. Das ist der Bezirk, {18} die Nachfrage am größten ist.
 
       **Gemischt — richtige Form wählen:**
-      16. Das ist etwas, ______ mich überrascht hat: {19} (was oder das?)
-      17. Das Problem, ______ wir lösen müssen, ist groß: {20} (was oder das?)
+      16. Das ist etwas, {19} mich überrascht hat. (was oder das?)
+      17. Das Problem, {20} wir lösen müssen, ist groß. (was oder das?)
     answers:
       "1": die
       "2": der
