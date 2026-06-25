@@ -66,8 +66,8 @@ buildsOn:
 > **Herr Klein:** Nein, aber es gibt einen Garten.  
 > **Bruno:** Und was kostet die Miete?  
 > **Herr Klein:** 700 Euro.  
-> **Bruno:** Gut. Ich möchte die Wohnung gern sehen.*  
-> **Herr Klein:** Gern! Morgen um 17 Uhr?**  
+> **Bruno:** Gut. Ich möchte die Wohnung gern sehen.\*  
+> **Herr Klein:** Gern! Morgen um 17 Uhr?\*\*  
 
 \* `sehen` (to see) appears here as an infinitive chunk; its (irregular) present
 tense comes in Lektion 6.
