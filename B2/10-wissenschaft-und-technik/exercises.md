@@ -1,6 +1,6 @@
 # B2 · Lektion 10 — Übungen (Wissenschaft und Technik)
 
-Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Lösungen in solutions.md. Schwerpunkt: Passiv und seine Ersatzformen (B2/02) sowie Nominalstil (B2/01) im Kontext von Wissenschaft und Technik — keine neue Grammatik, sondern Anwendung. Tipp: Verteile die Blöcke über mehrere Tage — H und A an Tag 1, B an Tag 2, C an Tag 3, D an Tag 4 nach einer Pause.
+Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Die Lösungen findest du in solutions.md. Tipp: Verteil die Blöcke über mehrere Tage — H und A am Tag 1, B am Tag 2, C am Tag 3, D am Tag 4 nach einer Pause.
 
 ---
 
@@ -12,11 +12,11 @@ Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
-1. Mia hat den Artikel über die KI-Studie vollständig gelesen. ( )
-2. Anna stört, dass man im Passivsatz nicht erfährt, wer etwas annimmt. ( )
-3. Laut Bruno wird ein Passivsatz klarer, wenn man ihn auflöst. ( )
-4. Das KI-Modell aus der Studie braucht mehr Daten als bisher. ( )
-5. Anna findet „lässt sich trainieren" angenehmer als „kann trainiert werden". ( )
+1. Die neue KI-Studie kommt laut Anna aus Heidelberg. ( )
+2. Die Studie wurde laut Dialog von einem einzelnen Wissenschaftler durchgeführt. ( )
+3. Die Daten wurden an über 10 000 Nutzern erhoben. ( )
+4. Bruno findet, dass eine einzelne Studie schon viel beweist. ( )
+5. Anna findet es gut, dass die Studie Open Access zur Verfügung gestellt wird. ( )
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
@@ -24,35 +24,38 @@ Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Woran wird in Frau Webers Labor geforscht?  a) An einem neuen Material für Batterien.  b) An einem neuen KI-Algorithmus.  c) An einem Messgerät für Proben.
-2. Wie wird die Eigenschaft des Materials nachgewiesen?  a) Der Versuch wird einmal durchgeführt.  b) Proben werden getestet und der Versuch mehrfach wiederholt.  c) Das Material wird direkt in der Industrie eingesetzt.
-3. Ist das Material schon einsetzbar?  a) Ja, es ist bereits im Einsatz.  b) Nein, die Hypothese ist noch nicht vollständig zu beweisen.  c) Ja, ab nächstem Monat.
-4. Was muss bei einer Veröffentlichung beachtet werden?  a) Nur das Ergebnis muss genannt werden.  b) Alle Quellen sind anzugeben und die Daten offenzulegen.  c) Die Namen der Forscher dürfen nicht genannt werden.
+1. Womit beschäftigt sich die Studie von Herrn Dr. Steinmeyer?  a) Mit KI-gestützter Diagnostik.  b) Mit klassischer Schulmedizin.  c) Mit einer neuen App für Patienten.
+2. Wie viele Versuchsreihen wurden gemacht?  a) Zwei.  b) Drei.  c) Fünf.
+3. Welche Kritik wurde an der Studie geübt?  a) Die Ergebnisse seien uninteressant.  b) Die Stichprobe sei zu klein.  c) Das Team sei zu groß.
+4. Was wird mit den Originaldaten gemacht?  a) Sie werden gelöscht.  b) Sie werden Open Access zur Verfügung gestellt.  c) Sie werden geheim gehalten.
 
-## Übung H3 — Hörtext-Lückentext: Durchsage im Forschungszentrum
+## Übung H3 — Hörtext-Lückentext: Kurzinterview mit dem Forschungsleiter
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Hör den Hörtext und fülle die 7 Lücken. **Drei Wörter werden nicht gebraucht.**
+Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel.
 
-> Liebe Kolleginnen und Kollegen, eine kurze Mitteilung aus dem Labor. Ab Montag wird ein neues
-> Messverfahren (1) ______, mit dem sich die Reinheit der Proben genauer (2) ______ lässt. Alle
-> Proben sind vorher zu (3) ______ und im Kühlraum zu (4) ______. Die Ergebnisse werden wie immer
-> automatisch (5) ______ und in der Datenbank (6) ______. Bitte beachten Sie: Vor jeder Messung
-> muss das Gerät (7) ______ werden. Bei Fragen wenden Sie sich bitte an die technische Leitung.
+> Guten Tag, Herr Dr. Steinmeyer. Sie sind Forschungsleiter am Institut für
+> Digitalisierung. Können Sie uns kurz erklären, wie Ihre neue (1) ______ durchgeführt
+> wurde? Die Untersuchung wurde über ein Jahr hinweg an zweitausend (2) ______
+> durchgeführt. Die (3) ______ wurden in drei verschiedenen Kliniken erhoben und
+> anschließend von zwei unabhängigen Teams ausgewertet. Die Ergebnisse wurden
+> kürzlich in einem internationalen Fachjournal (4) ______. Wir gehen davon aus, dass
+> die Folgestudie bis Ende des nächsten Jahres (5) ______ wird. Sämtliche Originaldaten
+> werden Open Access zur (6) ______ gestellt. Vielen Dank für das Gespräch.
 
-> (eingeführt · bestimmen · beschriften · lagern · ausgewertet · gespeichert · kalibriert · entwickelt · gemessen · dokumentiert)
+> (Studie · Probanden · Daten · veröffentlicht · publiziert · Verfügung · Hypothese · Erkenntnis · Versuchsreihe)
 
-## Übung H4 — Kurze Ansage: Nachricht der Projektleiterin
+## Übung H4 — Kurze Ansage: Durchsage im Forschungskongress
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör erst einmal zu, bevor du das Transkript unten liest.
+Hör die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.
 
-1. Warum ruft Frau Weber an?  a) Wegen der Auswertung der Proben.  b) Wegen eines neuen Experiments.  c) Wegen eines Termins im Labor.
-2. Wie ist das Ergebnis der Auswertung?  a) Enttäuschend.  b) Sehr vielversprechend.  c) Noch unklar.
-3. Was muss vor der Veröffentlichung noch passieren?  a) Die Proben müssen neu getestet werden.  b) Alle Quellen müssen angegeben werden.  c) Das Verfahren muss kalibriert werden.
-4. Was soll Bruno bis Freitag tun?  a) Die Proben kühlen.  b) Das Labor öffnen.  c) Den Bericht fertigstellen.
+1. Worum geht es in der Durchsage?  a) Um eine Verlegung eines Vortrags.  b) Um eine Kongressabsage.  c) Um eine neue Anmeldefrist.
+2. Wohin wurde der Vortrag verlegt?  a) In den Hörsaal 201.  b) In den Hörsaal 304.  c) Ins Kongresszentrum nebenan.
+3. Wann werden die Kongressbeiträge veröffentlicht?  a) Morgen früh.  b) Heute Nachmittag um 15 Uhr.  c) Erst nächste Woche.
+4. Was müssen interessierte Teilnehmer tun?  a) Sie müssen sich anmelden.  b) Sie müssen eine Gebühr zahlen.  c) Sie müssen den Vortrag vorbereiten.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -61,7 +64,7 @@ Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a
 
 **Ansage 1 — Transcript**
 
-> Hallo Bruno, hier ist Frau Weber aus dem Labor. Ich rufe wegen der Auswertung der Proben an. Die Daten sind inzwischen vollständig ausgewertet worden, und das Ergebnis ist sehr vielversprechend. Die Reinheit lässt sich mit dem neuen Verfahren tatsächlich genauer messen. Bevor wir die Studie veröffentlichen, müssen aber noch alle Quellen angegeben werden. Könntest du den Bericht bis Freitag fertigstellen? Bitte ruf mich zurück, wenn du Fragen hast. Vielen Dank und bis bald.
+> Achtung, eine Durchsage. Hier spricht die Kongressleitung. Wir möchten Sie darauf hinweisen, dass der Vortrag von Frau Professor Berger zum Thema „Anwendung von KI in der Krebsforschung" von Raum 201 in den größeren Hörsaal 304 verlegt wurde. Die Veröffentlichung der Kongressbeiträge wird heute Nachmittag um 15 Uhr Open Access zur Verfügung gestellt. Bitte beachten Sie, dass die Teilnehmerzahl begrenzt ist und eine Anmeldung erforderlich bleibt. Bei Rückfragen wenden Sie sich bitte an das Informationsbüro im Erdgeschoss. Vielen Dank für Ihre Aufmerksamkeit.
 
 </details>
 
@@ -69,342 +72,355 @@ Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a
 
 # Block A — Basistraining
 
-## Übung A1 — Vorgangspassiv bilden (Präsens)
+## Übung A1 — Passiv Präsens: Verb → Passiv
 
-Setze das Verb in Klammern ins Vorgangspassiv Präsens (werden + Partizip II). 8 Items.
+Schreib den Satz im Passiv Präsens (werden + Partizip II). 8 Items.
 
-1. Die Proben ______ im Labor ______. (untersuchen)
-2. Die Daten ______ automatisch ______. (auswerten)
-3. Ein neues Verfahren ______ ______. (entwickeln)
-4. Die Hypothese ______ im Experiment ______. (überprüfen)
-5. Die Ergebnisse ______ in der Datenbank ______. (speichern)
-6. Das Material ______ auf seine Eigenschaften hin ______. (testen)
-7. Die Quellen ______ am Ende ______. (angeben)
-8. Der Versuch ______ mehrfach ______. (wiederholen)
+1. Jemand führt die Studie durch. → Die Studie ______ durchgeführt.
+2. Man erhebt die Daten. → Die Daten ______ erhoben.
+3. Jemand überprüft die Hypothese. → Die Hypothese ______ überprüft.
+4. Man wertet die Proben aus. → Die Proben ______ ausgewertet.
+5. Jemand veröffentlicht die Ergebnisse. → Die Ergebnisse ______ veröffentlicht.
+6. Man stellt die Daten zur Verfügung. → Die Daten ______ zur Verfügung gestellt.
+7. Jemand stellt die Hypothese in Frage. → Die Hypothese ______ in Frage gestellt.
+8. Man entwickelt ein neues Modell. → Ein neues Modell ______ entwickelt.
 
-## Übung A2 — Passiv mit Modalverb
+## Übung A2 — Passiv Präteritum: Verb → Passiv
 
-Setze ins Passiv mit Modalverb (… muss/kann + Partizip II + werden). 6 Items.
+Schreib den Satz im Passiv Präteritum (wurde/wurden + Partizip II). 8 Items.
 
-1. Der Versuch ______ mehrfach ______ ______. (müssen — wiederholen)
-2. Die Genauigkeit ______ deutlich ______ ______. (können — steigern)
-3. Die Quellen ______ unbedingt ______ ______. (müssen — angeben)
-4. Das Material ______ vollständig ______ ______. (können — recyceln)
-5. Die Proben ______ sofort ______ ______. (müssen — kühlen)
-6. Das Ergebnis ______ unterschiedlich ______ ______. (können — deuten)
+1. Jemand führte die Studie durch. → Die Studie ______ durchgeführt.
+2. Man erhob die Daten. → Die Daten ______ erhoben.
+3. Jemand überprüfte die Hypothese. → Die Hypothese ______ überprüft.
+4. Man wertete die Proben aus. → Die Proben ______ ausgewertet.
+5. Jemand veröffentlichte die Ergebnisse. → Die Ergebnisse ______ veröffentlicht.
+6. Man stellte die Daten zur Verfügung. → Die Daten ______ zur Verfügung gestellt.
+7. Jemand stellte die Hypothese in Frage. → Die Hypothese ______ in Frage gestellt.
+8. Man entwickelte ein neues Modell. → Ein neues Modell ______ entwickelt.
 
-## Übung A3 — Passiversatz mit man
+## Übung A3 — Passiv Perfekt: Verb → Passiv
 
-Formuliere den Passivsatz mit man + Aktiv um. Schreib das Verb in der richtigen Form (3. Person Singular). 6 Items.
+Schreib den Satz im Passiv Perfekt (ist/sind + Partizip II + worden). 8 Items.
 
-1. Die Daten werden ausgewertet. → Man ______ die Daten ______.
-2. Ein Verfahren wird entwickelt. → Man ______ ein Verfahren.
-3. Die Hypothese wird überprüft. → Man ______ die Hypothese.
-4. Die Proben werden untersucht. → Man ______ die Proben.
-5. Das Ergebnis wird veröffentlicht. → Man ______ das Ergebnis.
-6. Die Genauigkeit kann gesteigert werden. → Man ______ die Genauigkeit ______.
+1. Jemand hat die Studie durchgeführt. → Die Studie ______ durchgeführt worden.
+2. Man hat die Daten erhoben. → Die Daten ______ erhoben worden.
+3. Jemand hat die Hypothese überprüft. → Die Hypothese ______ überprüft worden.
+4. Man hat die Proben ausgewertet. → Die Proben ______ ausgewertet worden.
+5. Jemand hat die Ergebnisse veröffentlicht. → Die Ergebnisse ______ veröffentlicht worden.
+6. Man hat die Daten zur Verfügung gestellt. → Die Daten ______ zur Verfügung gestellt worden.
+7. Jemand hat die Hypothese in Frage gestellt. → Die Hypothese ______ in Frage gestellt worden.
+8. Man hat ein neues Modell entwickelt. → Ein neues Modell ______ entwickelt worden.
 
-## Übung A4 — Passiversatz mit sich lassen
+## Übung A4 — Welche Zeitform passt?
 
-Formuliere mit sich lassen + Infinitiv um (= kann … werden). Achte auf Singular/Plural von lassen. 6 Items.
+Wähle die passende Passivform (a, b oder c).
 
-1. Das Problem kann gelöst werden. → Das Problem ______ sich ______.
-2. Die Genauigkeit kann gesteigert werden. → Die Genauigkeit ______ sich ______.
-3. Das Material kann recycelt werden. → Das Material ______ sich ______.
-4. Die Daten können gespeichert werden. → Die Daten ______ sich ______.
-5. Der Versuch kann wiederholt werden. → Der Versuch ______ sich ______.
-6. Die Reinheit kann gemessen werden. → Die Reinheit ______ sich ______.
+1. Die Studie ____ gerade durchgeführt.  a) wird  b) wurde  c) ist … worden
+2. Die Daten ____ über ein Jahr hinweg erhoben.  a) werden  b) wurden  c) sind … worden
+3. Die Ergebnisse ____ in *Nature* veröffentlicht worden.  a) sind  b) wurden  c) werden
+4. Die Hypothese ____ in der nächsten Studie überprüft.  a) wird  b) wurde  c) ist … worden
+5. Die Proben ____ im Labor ausgewertet.  a) wurden  b) sind … worden  c) werden
+6. Die Daten ____ Open Access zur Verfügung gestellt.  a) sind … worden  b) wurden  c) werden
 
-## Übung A5 — Passiversatz mit -bar
+## Übung A5 — Verb → Nomen
 
-Bilde aus dem Verb ein Adjektiv auf -bar (Verbstamm + bar). 6 Items.
+Schreib das passende Nomen (mit Artikel) zum Verb. 8 Items.
 
-1. lösen → Das Problem ist ______.
-2. messen → Der Unterschied ist kaum ______.
-3. recyceln → Das Material ist ______.
-4. anwenden → Die Methode ist gut ______.
-5. wiederholen → Der Versuch ist beliebig oft ______.
-6. nachweisen → Die Wirkung ist klar ______.
+1. veröffentlichen → die ______
+2. durchführen → die ______
+3. untersuchen → die ______
+4. auswerten → die ______
+5. erheben (Daten) → die ______
+6. überprüfen → die ______
+7. widerlegen → die ______
+8. bestätigen → die ______
 
-## Übung A6 — Passiversatz mit sein + zu + Infinitiv
+## Übung A6 — Nominalstil mit Genitiv
 
-Formuliere mit sein + zu + Infinitiv um. Achte bei trennbaren Verben auf an-zu-…, ein-zu-…. 6 Items.
+Ergänze das fehlende Nomen + Genitivattribut. ⚠️ Genitiv! 6 Items.
 
-1. Die Quellen müssen angegeben werden. → Die Quellen ______ ______.
-2. Der Antrag muss eingereicht werden. → Der Antrag ______ ______.
-3. Die Frist muss eingehalten werden. → Die Frist ______ ______.
-4. Das Problem kann leicht gelöst werden. → Das Problem ______ leicht ______.
-5. Die Hypothese kann kaum bewiesen werden. → Die Hypothese ______ kaum ______.
-6. Die Proben müssen gekühlt werden. → Die Proben ______ ______.
+1. Die ______ (die Studie) wurde beschrieben.
+2. Die ______ (die Daten) dauerte ein Jahr.
+3. Die ______ (die Hypothese) ergab ein neues Resultat.
+4. Die ______ (die Ergebnisse) erfolgte im Juni.
+5. Die ______ (das Modell) verlief erfolgreich.
+6. Der ______ (die Wirksamkeit) gilt als erbracht.
 
-## Übung A7 — Nominalstil → Verbalstil: Nomen entpacken
+## Übung A7 — Verb → Nomen → Passiv
 
-Finde das Verb im Nomen und schreib das passende Verb (Infinitiv). 6 Items.
+Füll die 6 Lücken mit der passenden Passivform. Zwei Wörter sind zu viel.
 
-1. die Auswertung der Daten → die Daten ______
-2. die Entwicklung eines Verfahrens → ein Verfahren ______
-3. die Steigerung der Genauigkeit → die Genauigkeit ______
-4. die Veröffentlichung der Studie → die Studie ______
-5. die Speicherung der Daten → die Daten ______
-6. die Untersuchung der Proben → die Proben ______
+> Die Studie (1) (1) ______ von einem Heidelberger Team durchgeführt. Die Daten (2) (2) ______
+> an über 10 000 Nutzern erhoben. Die Hypothese (3) (3) ______ durch die Ergebnisse
+> bestätigt. Die Ergebnisse (4) (4) ______ in *Nature* veröffentlicht. Die Methodik
+> (5) (5) ______ von anderen Forschern in Frage gestellt. Die Originaldaten (6) (6) ______
+> Open Access zur Verfügung gestellt.
 
-## Übung A8 — Präposition + Nomen → Nebensatz (die acht Brücken)
+> (wurde · wurden · wurde · wurde · werden · wurden · sind · ist · wird)
 
-Wähle den passenden Konnektor für den Nebensatz. 6 Items.
+## Übung A8 — Verb und Nominalisierung verbinden
 
-1. wegen des hohen Verbrauchs → ______ der Verbrauch hoch ist
-2. zur Verbesserung der Erkennung → ______ die Erkennung zu verbessern
-3. nach der Prüfung der Proben → ______ man die Proben geprüft hat
-4. bei der Anwendung des Algorithmus → ______ man den Algorithmus anwendet
-5. durch den Einsatz von KI → ______ man KI einsetzt
-6. trotz der hohen Kosten → ______ die Kosten hoch sind
+Ordne jedem Verb (1–6) die passende Nominalisierung (a–f) zu.
 
-## Übung A9 — Wortschatz: Forschung und Technik
+| Links | | Rechts |
+|---|---|---|
+| 1. veröffentlichen | | a) die Patentierung |
+| 2. durchführen | | b) die Veröffentlichung |
+| 3. widerlegen | | c) die Auswertung |
+| 4. nachweisen | | d) der Nachweis |
+| 5. patentieren | | e) die Widerlegung |
+| 6. auswerten | | f) die Durchführung |
 
-Setze das passende Nomen mit Artikel ein (Nominativ). 6 Items.
+## Übung A9 — von oder durch?
 
-1. Eine wissenschaftliche Vermutung, die man beweisen will, ist ______ (Hypothese).
-2. Das, was am Ende einer Studie herauskommt, ist ______ (Ergebnis).
-3. Eine kleine Menge eines Stoffes, die man testet, ist ______ (Probe).
-4. Künstliche Intelligenz arbeitet mit ______ (Algorithmus, Singular).
-5. Die Umwandlung der Welt ins Digitale heißt ______ (Digitalisierung).
-6. Wenn ein Produkt schonend für die Umwelt ist, spricht man von ______ (Nachhaltigkeit).
+Setze von oder durch ein. ⚠️ Personen/Institutionen → von + Dat.; Mittel/Ursachen → durch + Akk. 8 Items.
 
-## Übung A10 — Vier Ersatzformen für einen Satz
+1. Die Studie wurde ______ einem Team durchgeführt.
+2. Die Daten wurden ______ ein automatisiertes Verfahren erhoben.
+3. Die Methodik wurde ______ drei Gutachtern geprüft.
+4. Die Schäden wurden ______ das Erdbeben verursacht.
+5. Die Forschung wird ______ das Bundesministerium gefördert.
+6. Das Ergebnis wurde ______ eine zweite Studie bestätigt.
+7. Die Hypothese wurde ______ vielen Forschern in Frage gestellt.
+8. Die Erkenntnis wurde ______ ein Experiment gewonnen.
 
-> Grundsatz: „Das Problem kann gelöst werden."
+## Übung A10 — FVG im Satz (Wissenschaft)
 
-Schreib jetzt:
-1. mit man: ______________________
-2. mit sich lassen: ______________________
-3. mit -bar: ______________________
-4. mit sein + zu: ______________________
+Setze das passende Funktionsverb ein (Infinitiv): durchführen, machen, stellen, gewinnen, erbringen, ziehen. 6 Items.
 
-Mach dasselbe mit: „Die Genauigkeit kann gemessen werden."
+1. eine Studie ______ (nicht: machen)
+2. einen Versuch ______
+3. eine Hypothese in Frage ______
+4. eine Erkenntnis ______
+5. einen Nachweis ______
+6. etwas in Betracht ______
 
+## Übung A11 — Satzbau: Passiv im Hauptsatz
 
-**Your task:** Formuliere den Passivsatz auf alle vier Arten um (man / sich lassen / -bar / sein + zu).
+Bring die Wörter in die richtige Reihenfolge. Im Passiv-Satz steht die finite Verbform (wurden/wurde) in Position 2.
+
+1. hinweg – wurden – Jahr – ein – erhoben – Daten – Die – über
+2. bestätigt – wurde – Studie – Die – durch – die – Hypothese
+3. Die – wurden – Access – gestellt – Verfügung – zur – Open – Originaldaten
+4. wurde – Eine – angekündigt – Studie – neue
 
 ---
 
 # Block B — Vertiefung
 
-## Übung B1 — Fachtext ergänzen: Eine Studie zur KI
+## Übung B1 — Aktiv → Passiv umformen
 
-Fülle die 10 Lücken mit der passenden Form (Passiv oder Ersatzform, wie der Kontext verlangt). **Zwei Wörter werden nicht gebraucht.**
-
-> In dieser Studie (1) ______ ein neues KI-Modell untersucht. Die Daten (2) ______
-> automatisch ausgewertet. Es zeigte sich: Die Genauigkeit (3) ______ sich
-> deutlich steigern. Das Modell ist außerdem mit weniger Daten (4) ______ —
-> ein klarer Vorteil. Vor einer Veröffentlichung (5) ______ jedoch alle Quellen
-> anzugeben. Die Ergebnisse (6) ______ mehrfach überprüft werden, damit sie als
-> belegt gelten. „Man (7) ______ aus den Zahlen schließen, dass das Verfahren
-> funktioniert", sagt die Forscherin. Eine baldige Anwendung (8) ______ sich
-> aber noch nicht sagen. Das Modell (9) ______ erst, nachdem weitere Tests
-> (10) ______ worden sind.
-
-> (wird · werden · lässt · trainierbar · sind · müssen · kann · lässt · einsetzbar · durchgeführt · wurde · gemacht)
-
-## Übung B2 — Finde den Fehler
-
-> 1. Das Problem lässt lösen.
-2. Die Quellen sind angeben.
-3. Das Material ist recycelnbar.
-4. Man werden die Daten ausgewertet.
-5. Das Ergebnis ist gestern veröffentlicht.
-6. die Auswertung von den Daten
-7. wegen dem hohen Verbrauch
-8. Die Daten lässt sich speichern.
+> 1. Jemand hat die Studie durchgeführt.
+2. Man hat die Daten erhoben.
+3. Das Team hat die Hypothese überprüft.
+4. Die Forscher haben die Ergebnisse veröffentlicht.
+5. Andere Forscher haben die Methodik kritisiert.
+6. Man hat die Daten Open Access zur Verfügung gestellt.
 
 
-**Your task:** Jeder Satz enthält genau einen Fehler (Passiv, Passiversatz oder Nominalstil). Finde ihn und schreib den Satz korrekt.
+**Your task:** Schreib jeden Satz im Passiv (Präteritum). Achtung: finite Form in Position 2, Partizip II am Satzende.
 
-## Übung B3 — Passivsatz und Ersatzform verbinden
+## Übung B2 — Aktiv → Passiv + Nominalstil umformen
 
-Ordne jedem Passivsatz (1–6) die bedeutungsgleiche Ersatzform (a–f) zu.
-
-| Links | | Rechts |
-|---|---|---|
-| 1. Das Problem kann gelöst werden. | | a) Die Quellen sind anzugeben. |
-| 2. Die Quellen müssen angegeben werden. | | b) Man wertet die Daten automatisch aus. |
-| 3. Die Daten werden automatisch ausgewertet. | | c) Das Problem lässt sich lösen. |
-| 4. Das Material kann recycelt werden. | | d) Die Hypothese ist kaum zu beweisen. |
-| 5. Die Genauigkeit kann gesteigert werden. | | e) Das Material ist recycelbar. |
-| 6. Die Hypothese kann kaum bewiesen werden. | | f) Die Genauigkeit lässt sich steigern. |
-
-## Übung B4 — Nominalstil → Verbalstil umformen
-
-> 1. wegen des hohen Energieverbrauchs
-2. zur Verbesserung der Erkennung
-3. nach der Auswertung der Daten
-4. bei der Anwendung des Verfahrens
-5. durch den Einsatz von KI
-6. trotz der hohen Kosten
+> 1. Man hat die Studie durchgeführt.
+2. Man hat die Daten erhoben.
+3. Man hat die Hypothese überprüft.
+4. Man hat die Ergebnisse veröffentlicht.
+5. Man hat das Modell getestet.
+6. Man hat die Wirksamkeit nachgewiesen.
 
 
-**Your task:** Mach aus jeder Nominalphrase einen Nebensatz oder Verbalsatz.
+**Your task:** Schreib jeden Satz als Nominalstil + Passiv. Aus dem Verb wird ein Nomen mit Genitiv-Attribut.
 
-## Übung B5 — Verbalstil → Nominalstil umformen
+## Übung B3 — Finde den Fehler
 
-> 1. Weil die Nachfrage gestiegen ist, …
-2. Um die Daten zu schützen, …
-3. Nachdem man den Antrag geprüft hatte, …
-4. Obwohl die Kosten hoch waren, …
-5. Wenn man sich anmeldet, …
-6. Indem man das Verfahren änderte, …
-
-
-**Your task:** Mach aus jedem Nebensatz eine Präposition + Nomen (Nominalstil).
-
-## Übung B6 — Fachsatz zusammenfassen (Passiv + Nominalstil auflösen)
-
-> 1. Es wird angenommen, dass die Effizienz gesteigert werden kann.
-2. Durch den Einsatz von KI wird die Erkennung von Mustern verbessert.
-3. Zur Überprüfung der Hypothese werden Versuche durchgeführt.
-4. Nach der Auswertung der Daten wurde das Ergebnis veröffentlicht.
-5. Wegen der hohen Kosten ist eine baldige Markteinführung nicht zu erwarten.
+> 1. Die Daten wurden erhoben worden.
+2. Die Studie wurde durch der Universität Heidelberg durchgeführt.
+3. Die Durchführung von der Studie wurde beschrieben.
+4. Eine Studie wurde gemacht.
+5. Die Hypothese wurde in Frage gestellt von das Team.
+6. Die Daten wurden zu der Verfügung gestellt.
 
 
-**Your task:** Fasse jeden dichten Fachsatz in einem klaren, verbalen Satz zusammen (mit man oder Aktiv).
+**Your task:** Jeder Satz hat genau einen Fehler (Passiv, Genitiv, von/durch oder FVG). Finde ihn und schreib den Satz korrekt.
 
-## Übung B7 — Satzbau: Passiv und Ersatzformen ordnen
+## Übung B4 — FVG der Wissenschaft
 
-1. Daten – automatisch – die – werden – ausgewertet
-2. Material – lässt – sich – leicht – recyceln – das
-3. die – Quellen – Text – anzugeben – sind – im
-4. Genauigkeit – werden – gesteigert – kann – deutlich – die
+Wähle das richtige feste Funktionsverb (a, b oder c). ⚠️ Nicht alles, was im Englischen mit „make“ geht, geht im Deutschen mit „machen“.
 
-## Übung B8 — Wortschatz: Was passt nicht?
+1. eine Studie …  a) machen  b) durchführen  c) nehmen
+2. einen Versuch …  a) durchführen  b) machen  c) nehmen
+3. eine Hypothese in Frage …  a) machen  b) bringen  c) stellen
+4. einen Nachweis …  a) machen  b) erbringen  c) nehmen
+5. Daten zur Verfügung …  a) machen  b) bringen  c) stellen
+6. eine Erkenntnis …  a) bekommen  b) nehmen  c) gewinnen
+
+## Übung B5 — Pressemitteilung ergänzen: Passiv und FVG
+
+Füll die 8 Lücken mit dem passenden Wort (finite Verbform oder Partizip II). Zwei Wörter sind zu viel.
+
+> Pressemitteilung des Forschungsteams Heidelberg: Im Mai (1) (1) ______ eine große
+> Studie (2) (2) ______. Die Daten (3) (3) ______ über ein Jahr hinweg an 5 000 Probanden
+> erhoben. Die Hypothese, dass KI die Diagnostik verbessern kann, (4) (4) ______
+> durch die Ergebnisse bestätigt. Die Methodik (5) (5) ______ von drei Gutachtern
+> geprüft. Die Resultate (6) (6) ______ anschließend in *Nature* veröffentlicht.
+> Die Originaldaten (7) (7) ______ Open Access zur Verfügung (8) (8) ______.
+
+> (wurde · durchgeführt · wurden · wurde · wurde · wurden · gestellt · gewonnen · publiziert)
+
+## Übung B6 — Passiv Perfekt oder Präteritum?
+
+Setze die richtige Form ein (Perfekt oder Präteritum Passiv). 6 Items.
+
+1. Die Studie ______ (Präteritum) im Mai durchgeführt.
+2. Die Ergebnisse ______ (Perfekt) in *Nature* veröffentlicht worden.
+3. Die Daten ______ (Präteritum) von dem Team erhoben.
+4. Die Originaldaten ______ (Perfekt) Open Access zur Verfügung gestellt worden.
+5. Die Hypothese ______ (Präteritum) durch eine zweite Studie bestätigt.
+6. Die Methodik ______ (Perfekt) von mehreren Forschern kritisiert worden.
+
+## Übung B7 — Wortschatz: Was passt nicht?
 
 Streiche das Wort, das nicht passt, und erkläre warum.
 
-1. Hypothese – Experiment – Ergebnis – Schlagzeile
-2. auswerten – untersuchen – testen – beschriften
-3. recycelbar – messbar – dankbar – lösbar
-4. Digitalisierung – Vernetzung – Anwendung – Schlagzeile
+1. die Studie – der Versuch – die Hypothese – das Passiv
+2. veröffentlichen – durchführen – erheben – passen
+3. die Forschung – die Wissenschaft – die Studie – das Wetter
+4. die Hypothese – das Ergebnis – die Erkenntnis – die Verfasserin
+5. von + Dativ – durch + Akkusativ – aus + Dativ – mit + Dativ
+6. die Hypothese in Frage stellen – die Daten zur Verfügung stellen – eine Studie durchführen – das Ergebnis bekommen
 
-## Übung B9 — Forenbeitrag: Wissenschaft verständlicher machen
+## Übung B8 — Aktiv und Passiv + Nominalstil zuordnen
 
-> **Forenbeitrag** — In einem Wissenschaftsforum schreibt jemand:
-> „Ich habe gestern eine Studie gelesen und kein Wort verstanden. Lauter
-> Passiv und endlose Nomen. Muss das wirklich sein? Was meint ihr?"
+Ordne jedem Aktivsatz (1–6) die passende Nominal-Passiv-Variante (a–f) zu.
+
+| Links | | Rechts |
+|---|---|---|
+| 1. Man hat die Studie durchgeführt. | | a) Die Überprüfung der Methodik erfolgte durch drei Gutachter. |
+| 2. Man hat die Daten erhoben. | | b) Die Erhebung der Daten dauerte ein Jahr. |
+| 3. Man hat die Hypothese bestätigt. | | c) Der Nachweis der Wirksamkeit gilt als erbracht. |
+| 4. Man hat die Ergebnisse veröffentlicht. | | d) Die Veröffentlichung der Ergebnisse erfolgte im Juni. |
+| 5. Man hat die Methodik geprüft. | | e) Die Durchführung der Studie wurde im Methodenteil beschrieben. |
+| 6. Man hat die Wirksamkeit nachgewiesen. | | f) Die Bestätigung der Hypothese wurde im Fachjournal veröffentlicht. |
+
+## Übung B9 — E-Mail: Stellungnahme zu einer Forschungsveröffentlichung
+
+> **Chatnachricht von Frau Yilmaz:**
+> Hallo, ich habe gerade den Artikel über die neue KI-Studie aus Heidelberg gelesen.
+> Können Sie mir kurz Ihre fachliche Meinung schreiben? Ist die Methodik wirklich sauber?
+> Und sind die Ergebnisse auf andere Bereiche übertragbar?
 
 
-**Your task:** Schreib einen Forenbeitrag (5–6 Sätze) zu der Frage: „Sollten Forscher ihre Studien verständlicher schreiben?" Begründe deine Meinung.
+**Your task:** Eine Kollegin schickt dir diese Chatnachricht zu einem aktuellen Forschungsartikel. Antworte ihr in 5–6 Sätzen per E-Mail und formuliere bewusst formell mit Passiv und Nominalstil.
 
 Use:
-- [ ] mindestens 1 Satz mit man + Aktiv (z. B. „Man kann …")
-- [ ] mindestens 1 Satz mit sich lassen oder einem -bar-Adjektiv
-- [ ] mindestens 1 Beispiel aus dem Wortschatz (Studie, Passiv, Nominalstil, verständlich …)
-- [ ] eine klare Meinung am Anfang und ein kurzes Fazit am Ende
+- [ ] mindestens 3 Passiv-Konstruktionen (z. B. „die Studie wurde … durchgeführt", „die Daten wurden … erhoben")
+- [ ] mindestens 1 nominalisierter Ausdruck (z. B. „die Durchführung der Studie", „die Erhebung der Daten")
+- [ ] mindestens 2 FVG der Wissenschaft (z. B. „in Frage stellen", „zur Verfügung stellen", „eine Rolle spielen")
+- [ ] (B2/08) die Schlussformel „Für Rückfragen stehe ich Ihnen gern zur Verfügung"
 
 Self-check:
-- [ ] Steht das konjugierte Verb in meinen Hauptsätzen auf Platz 2?
-- [ ] Habe ich „lässt sich" mit Reflexivpronomen „sich" geschrieben?
-- [ ] Sind meine -bar-Adjektive aus dem Verbstamm gebildet (lösbar, nicht lösenbar)?
+- [ ] Steht die finite Verbform im Passiv an Position 2?
+- [ ] Steht das Partizip II am Satzende?
+- [ ] Steht beim nominalisierten Verb ein Genitivattribut (die Durchführung der Studie)?
+- [ ] Habe ich die FVG der Wissenschaft korrekt mit festem Verb verwendet?
 
 ---
 
 # Block C — Prüfungstraining
 
-## Übung C1 — Lückentext: Wie eine Studie zur Schlagzeile wird
+## Übung C1 — Lückentext: Wie ein Forschungsartikel entsteht (Lesetext)
 
-Fülle jede Lücke mit einem Wort. 10 Items.
+Füll jede Lücke mit einem Wort (Verb, Nomen oder Präposition). 10 Items.
 
-Jeden Tag erscheinen Hunderte Studien. Am Anfang steht das Original, ein
-Fachartikel. Er ist dicht und voller Passiv: „Im Rahmen der Untersuchung
-(1) ______ nachgewiesen, dass die Genauigkeit gesteigert (2) ______ konnte."
-Wer nicht vom Fach ist, versteht kaum etwas. Dann kommt die Pressestelle.
-Aus dem Monstersatz (3) ______ ein klarer Satz: „Forscher haben einen
-Algorithmus entwickelt. Damit (4) ______ sich die Genauigkeit steigern."
-Das Passiv ist aufgelöst, das Nomen ist wieder ein Verb (5) ______. Zuletzt
-schreibt eine Journalistin die Schlagzeile. Sie (6) ______ in wenigen Worten
-Aufmerksamkeit wecken: „Neuer Algorithmus (7) ______ KI genauer." Diese Kette
-(8) ______ nichts anderes als das, was du übst: einen dichten Text in eine
-klare Sprache zu (9) ______. Wer das (10) ______, versteht auch das Original.
+Ein Forschungsartikel durchläuft einen strengen Prozess. Am Anfang steht eine
+Fragestellung: Was soll (1) ______ werden? Aus dieser Frage wird eine Hypothese
+abgeleitet — eine Annahme, die durch Versuche (2) ______ oder widerlegt werden
+kann. Dann wird die Methodik festgelegt: Wie viele Probanden werden (3) ______
+die Studie einbezogen? Wie werden die Daten (4) ______? Welche Verfahren werden
+angewendet, um Verzerrungen zu vermeiden? Nach der Durchführung der Versuche
+werden die Daten (5) ______. Die Auswertung erfolgt heute fast immer
+computergestützt, oft (6) ______ Algorithmen der Künstlichen Intelligenz.
+Anschließend werden die Ergebnisse in einem Fachjournal zur Veröffentlichung
+(7) ______. Vor der Veröffentlichung wird der Artikel von anderen Forschern
+geprüft. Diese Begutachtung (auf Englisch *peer review*) ist das Herzstück
+der wissenschaftlichen (8) ______. Erst nach der Annahme des Manuskripts wird
+die Studie offiziell (9) ______. Eine Hypothese gilt erst dann als gesichert,
+wenn sie durch mehrere unabhängige Studien (10) ______ wurde.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Wähle für jede Lücke die richtige Option (a, b oder c).
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Die Daten (1) ____ automatisch ausgewertet.  a) werden  b) wird  c) sind
-2. Das Problem (2) ____ sich leicht lösen.  a) ist  b) lässt  c) wird
-3. Die Quellen sind im Text (3) ____.  a) angeben  b) anzugeben  c) angegeben
-4. Das Material ist vollständig (4) ____.  a) recycelnbar  b) recycelbar  c) recyceltbar
-5. Das Ergebnis ist gestern (5) ____ worden.  a) veröffentlicht  b) veröffentlichen  c) veröffentlichte
-6. (6) ____ der hohen Kosten ist keine baldige Markteinführung zu erwarten.  a) Weil  b) Wegen  c) Obwohl
+1. Die Studie ____ über ein Jahr hinweg durchgeführt.  a) wird  b) wurde  c) ist … worden
+2. Die Daten ____ an 5 000 Patienten erhoben.  a) wurden  b) wurde  c) werden
+3. Die Ergebnisse ____ kürzlich in *Nature* veröffentlicht worden.  a) sind  b) wurden  c) werden
+4. Die Studie wurde ____ einem Team der Universität Heidelberg durchgeführt.  a) durch  b) von  c) mit
+5. Die Hypothese wurde ____ viele Forscher in Frage gestellt.  a) durch  b) von  c) aus
+6. Eine einzelne Studie ____ noch nichts.  a) beweist  b) wird bewiesen  c) ist bewiesen worden
+7. Die Originaldaten werden Open Access ____ Verfügung gestellt.  a) zu  b) zur  c) zu der
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Fülle die 10 Lücken mit Wörtern aus der Box. **Fünf Wörter werden nicht gebraucht.** Jedes Wort passt nur einmal.
+Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.
 
-> In einem Labor (1) ______ ein neues Verfahren entwickelt. Die Proben (2) ______
-> zunächst unter kontrollierten Bedingungen getestet. Aus den Daten (3) ______
-> sich schließen, dass die Methode funktioniert. Die Wirkung ist klar (4) ______.
-> Vor einer Veröffentlichung sind alle Quellen (5) ______. Der Versuch (6) ______
-> mehrfach wiederholt werden, damit er als belegt gilt. Das Material ist
-> umweltfreundlich und (7) ______ sich gut recyceln. „(8) ______ kann die Reinheit
-> genau messen", sagt die Forscherin. Eine Anwendung in der Industrie (9) ______
-> sich aber noch nicht sagen. Nachdem weitere Tests (10) ______ worden sind,
-> wird das Material vielleicht einsetzbar.
+> Aus einer Pressemitteilung: Die neue Studie (1) ______ im Mai vom Institut für
+> Digitalisierung (2) ______. Die Daten (3) ______ über ein halbes Jahr hinweg an 200
+> Probanden (4) ______. Die Hypothese (5) ______ durch die Ergebnisse bestätigt. Eine
+> zweite Versuchsreihe (6) ______ parallel (7) ______. Die Methodik (8) ______ von drei
+> Gutachtern geprüft. Die Resultate (9) ______ in einem Fachjournal (10) ______.
 
-> ANZUGEBEN · DURCHGEFÜHRT · GEMACHT · KANN · LÄSST · LÄSST · LÄSST · MAN · MESSBAR · MUSS · NACHWEISBAR · SIND · WERDEN · WIRD · WURDE
+> AN · AUSGEWERTET · BESTÄTIGT · DURCHGEFÜHRT · ERHOBEN · GEMACHT · GEPRÜFT · GESTELLT · VEROFFENTLICHT · WURDE · WURDE · WURDE · WURDE · WURDEN · WURDEN
 
 Five words are not needed.
 
-## Übung C4a — Lesen Text 1 (Wie eine Studie zur Schlagzeile wird)
+## Übung C4a — Lesen Text 1 (Lesetext: Wie ein Forschungsartikel entsteht)
 
-Lies den Lesetext in lesson.md, Abschnitt 7. Richtig (R) oder Falsch (F)?
+Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?
 
-1. Am Anfang steht ein Fachartikel im dichten Passiv- und Nominalstil. ( )
-2. Die Pressestelle macht den Text noch komplizierter. ( )
-3. In der Schlagzeile ist von Passiv und Nominalstil nichts mehr übrig. ( )
-4. Die Schlagzeile gibt die Studie immer völlig korrekt wieder. ( )
-5. Die Kette geht: Fachartikel → Pressetext → Schlagzeile. ( )
+1. Am Anfang eines Forschungsartikels steht eine Hypothese. ( )
+2. Die Daten werden heute oft durch KI-Algorithmen ausgewertet. ( )
+3. Peer Review bedeutet, dass andere Forscher den Artikel vor der Veröffentlichung prüfen. ( )
+4. Die Begutachtung endet laut Text mit der Veröffentlichung. ( )
+5. Eine Hypothese gilt schon dann als gesichert, wenn eine einzige Studie sie bestätigt hat. ( )
 
-## Übung C4b — Lesen Text 2 (Wissenschaftskommunikation)
+## Übung C4b — Lesen Text 2 (neuer Text: Auszug aus einer Stellungnahme)
 
-Lies den folgenden Text und wähle a, b oder c.
+Lies das folgende Schreiben und wähle a, b oder c.
 
-> Lange galt: Ein guter Forscher schreibt kompliziert. Heute denkt man
-> anders. In Deutschland wächst die Bewegung der Wissenschaftskommunikation.
-> Forschende lernen, ihre Arbeit in einfacher Sprache zu erklären — in
-> Podcasts, auf YouTube und bei sogenannten „Science Slams", bei denen
-> Wissenschaftler ihre Studien in zehn Minuten unterhaltsam vorstellen.
-> Kritiker sagen, dabei gehe Genauigkeit verloren. Befürworter halten
-> dagegen: Eine Erkenntnis, die niemand versteht, nützt niemandem. Klar
-> ist: Verständlich zu schreiben ist keine Schwäche, sondern eine Kunst.
-
-
-1. Was war früher die verbreitete Meinung?  a) Ein guter Forscher schreibt kompliziert.  b) Forscher sollten auf YouTube gehen.  c) Wissenschaft muss unterhaltsam sein.
-2. Was ist ein „Science Slam"?  a) Ein wissenschaftlicher Fachartikel.  b) Eine unterhaltsame Kurzpräsentation einer Studie.  c) Eine Prüfung an der Universität.
-3. Was kritisieren die Gegner der Wissenschaftskommunikation?  a) Dass dabei Genauigkeit verloren geht.  b) Dass es zu teuer ist.  c) Dass niemand zuhört.
-4. Wie wird verständliches Schreiben am Ende bewertet?  a) Als Schwäche.  b) Als Zeitverschwendung.  c) Als eine Kunst.
-
-## Übung C5 — Schreiben: Eine Studie zusammenfassen
-
-> **Fachtext (dicht):**
-> Im Rahmen einer Studie wurde der Einfluss von künstlicher Intelligenz
-> auf die Diagnose von Krankheiten untersucht. Durch den Einsatz eines
-> neuen Algorithmus konnte eine Steigerung der Genauigkeit um 20 Prozent
-> erzielt werden. Die Ergebnisse wurden mehrfach überprüft. Vor einer
-> Anwendung in Krankenhäusern sind jedoch weitere Tests durchzuführen.
-> Es wird angenommen, dass das Verfahren in fünf Jahren einsetzbar ist.
+> **Stellungnahme des wissenschaftlichen Beirats zum Antrag von Prof. Dr. Klein**
+> Der Antrag auf Förderung des Forschungsprojekts „Anwendung von KI in der
+> Krebsdiagnostik" wurde in der Sitzung am 14. März eingehend geprüft. Die
+> Methodik, die in dem Antrag beschrieben wurde, überzeugt durch ihre
+> klare Struktur. Die Erhebung der Daten soll an drei Universitätskliniken
+> durchgeführt werden. Es wurde jedoch in Frage gestellt, ob die geplante
+> Stichprobe von 800 Patienten ausreicht, um statistisch signifikante
+> Ergebnisse zu erzielen. Die Veröffentlichung der Resultate ist in einem
+> Open-Access-Fachjournal vorgesehen. Der Antrag wurde mit drei Stimmen
+> dafür und zwei dagegen angenommen.
 
 
-**Your task:** Fasse die folgende Mini-Studie in 6–8 Sätzen in klarer, verständlicher Sprache zusammen. Löse Passiv und Nominalstil so weit wie möglich auf.
+1. Was wurde in der Sitzung geprüft?  a) Ein Zeitschriftenartikel.  b) Ein Antrag auf Förderung eines Forschungsprojekts.  c) Eine Patientendatenbank.
+2. Wo sollen die Daten erhoben werden?  a) An einer einzigen Klinik.  b) An drei Universitätskliniken.  c) In einem Online-Portal.
+3. Welche Kritik wurde geübt?  a) Die Methodik sei zu kompliziert.  b) Die Stichprobe sei möglicherweise zu klein.  c) Das Team sei zu groß.
+4. Wie wurde der Antrag entschieden?  a) Einstimmig angenommen.  b) Einstimmig abgelehnt.  c) Mit drei Stimmen dafür und zwei dagegen angenommen.
+
+## Übung C5 — Schreiben: Kurze Pressemitteilung zu einer Forschungsstudie verfassen
+
+**Your task:** Schreib eine kurze Pressemitteilung (8–10 Sätze) zu einer fiktiven Studie. Nutze überwiegend Passiv und Nominalstil, aber erklär am Ende in einem klaren Aktiv-Satz, was die Ergebnisse für die Praxis bedeuten.
 
 Use:
-- [ ] man + Aktiv (statt Passiv): „Forscher haben untersucht / Man hat untersucht …"
-- [ ] sich lassen oder ein -bar-Adjektiv für mindestens einen Satz
-- [ ] mindestens einen Nominalstil-Ausdruck in einen Nebensatz auflösen (z. B. „durch den Einsatz" → „indem man … einsetzt")
-- [ ] einen einschränkenden Schlusssatz (z. B. „Allerdings …" / „Weitere Studien sind nötig …")
+- [ ] Passiv in Präsens, Präteritum und Perfekt (mindestens 2 verschiedene Zeitformen)
+- [ ] mindestens 3 nominalisierte Ausdrücke (z. B. die Durchführung der Studie, die Erhebung der Daten, die Veröffentlichung der Ergebnisse)
+- [ ] mindestens 2 FVG der Wissenschaft (z. B. eine Studie durchführen, in Frage stellen, zur Verfügung stellen)
+- [ ] Agent mit „von + Dativ“ (z. B. von einem interdisziplinären Team)
+- [ ] eine abschließende Praxis-Erklärung im Aktiv-Satz
 
 Self-check:
-- [ ] Habe ich das Passiv durch man + Aktiv oder eine Ersatzform ersetzt?
-- [ ] Habe ich die langen Nomen in Verben verwandelt?
-- [ ] Steht das Verb in den Hauptsätzen auf Platz 2 und in den Nebensätzen am Ende?
-- [ ] Ist mein Text 6–8 Sätze lang und für einen Laien verständlich?
+- [ ] Steht die finite Verbform im Passiv an Position 2 und das Partizip II am Satzende?
+- [ ] Steht beim nominalisierten Verb ein Genitivattribut (die Durchführung der Studie)?
+- [ ] Habe ich mindestens 2 verschiedene Passiv-Zeitformen verwendet?
+- [ ] Ist die abschließende Praxis-Erklärung wirklich im Aktiv (Vollverb, nicht Passiv)?
 
 ---
 
@@ -412,74 +428,100 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-Eine Minute pro Item. Keine Notizen. Items mit (B2/01) oder (B2/02) wiederholen frühere Lektionen. 15 Items.
+Eine Minute pro Item. Keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 15 Items.
 
-1. Passiv Präsens von „untersuchen", die Proben: Die Proben ______ ______.
-2. Passiversatz mit man: „Die Daten werden gespeichert." → Man ______ die Daten.
-3. Passiversatz mit sich lassen: „kann gelöst werden" → ______ ______ lösen
-4. -bar-Adjektiv von „messen": ______
-5. sein + zu von „angeben", die Quellen: Die Quellen ______ ______.
-6. (B2/01) Nomen → Verb: „die Auswertung der Daten" → die Daten ______
-7. (B2/01) Präp. + Nomen → Konnektor: „wegen" → ______ · „trotz" → ______
-8. (B2/02) Passiv Perfekt von „veröffentlichen": „Das Ergebnis ist ______ ______."
-9. (B2/01) „zur Verbesserung der Qualität" → ______ die Qualität zu verbessern
-10. Wortschatz: Eine wissenschaftliche Vermutung heißt ______.
+**Passiv in Fachtexten:**
+1. Die Studie ______ (Präsens) gerade durchgeführt.
+2. Die Daten ______ (Präteritum) über ein Jahr erhoben.
+3. Die Ergebnisse ______ (Perfekt) in *Nature* veröffentlicht worden.
+4. Die Hypothese ______ (Präsens) derzeit überprüft.
+
+**Passiv + Nominalstil (Genitiv):**
+5. Die Durchführung ______ Studie wurde beschrieben.
+6. Die Erhebung ______ Daten dauerte ein Jahr.
+7. Die Veröffentlichung ______ Ergebnisse erfolgte im Juni.
+
+**Agent (von / durch):**
+8. Die Studie wurde ______ dem Max-Planck-Institut durchgeführt.
+9. Die Schäden wurden ______ das Erdbeben verursacht.
+
+**FVG der Wissenschaft:**
+10. eine Studie ______ (Infinitiv, nicht: machen)
+11. eine Hypothese in Frage ______ (Infinitiv)
+12. Daten zur Verfügung ______ (Infinitiv)
+
+**Wiederholung:**
+13. (B2/01) Nominalisierung von „verbessern" (mit Artikel): ______
+14. (B2/02) Passiv-Ersatzform mit „man": „Man hat das Projekt gestartet." = Das Projekt ______ (Präteritum) … .
+15. (B1/04) Zustandspassiv von „öffnen" (das Fenster): Das Fenster ______ (Präsens) … .
 
 ## Übung D2 — Odd one out
 
 Streiche das Wort, das nicht passt, und erkläre warum.
 
-1. Hypothese – Experiment – Probe – Schlagzeile
-2. lösbar – messbar – recycelbar – furchtbar
-3. werden – lässt – ist – schön
-4. wegen – trotz – während – indem
-5. Digitalisierung – Vernetzung – Anwendung – Ernte
-6. auswerten – untersuchen – nachweisen – kochen
+1. die Studie – der Versuch – die Hypothese – das Passiv
+2. die Forschung – die Wissenschaft – die Studie – der Algorithmus
+3. veröffentlichen – durchführen – erheben – passen
+4. die Hypothese – das Ergebnis – die Erkenntnis – die Verfasserin
+5. von + Dativ – durch + Akkusativ – aus + Dativ – mit + Dativ
+6. wird durchgeführt – wurde erhoben – ist … worden veröffentlicht – hat gemacht
 
-## Übung D3 — Rückblick: B2/01 (Nominalstil) und B2/02 (Passiv)
+## Übung D3 — Rückblick: B2/01, B2/02, B2/08
 
 Wiederholung früherer Lektionen. 10 Items.
 
-**Aus B2/02 (Passiv und Ersatzformen):**
-1. Passiversatz mit man: „Hier wird nicht geraucht." → Hier ______ man nicht.
-2. sich lassen: „Der Versuch kann wiederholt werden." → Der Versuch ______ sich ______.
-3. -bar: „Die Aufgabe kann gelöst werden." → Die Aufgabe ist ______.
-4. sein + zu: „Der Antrag muss eingereicht werden." → Der Antrag ______ ______.
-5. Vorgang oder Zustand? „Vorsicht, die Tür ______ (wird/ist) gerade geschlossen." (Vorgang)
+**Aus B2/01 (Nominalstil und Verbalstil):**
+1. Nominalisierung von „verbessern" (mit Artikel): ______
+2. „wegen" verlangt welchen Fall? ______
+3. Konnektor zu „wegen": ______
+4. Mach nominal: „weil es regnet" → ______
 
-**Aus B2/01 (Nominalstil ↔ Verbalstil):**
-6. „die Prüfung des Antrags" → man ______ den Antrag (Verb)
-7. „weil das Wetter schlecht war" → ______ des schlechten Wetters (Präp. + Nomen)
-8. „um die Kosten zu senken" → ______ Senkung der Kosten (Präp. + Nomen)
+**Aus B2/02 (Passiv und seine Alternativen):**
+5. Passiversatz mit „sich lassen": „Das Problem lässt sich ____ (lösen)." ______
+6. Passiversatz mit „-bar": „Das Problem ist ____ (lösbar)." ______
+7. Zustandspassiv: „Das Fenster ist ____." (öffnen) ______
 
-## Übung D4 — Selbsttest (Bewerte dich /20)
+**Aus B2/08 (Funktionsverbgefüge):**
+8. „eine Entscheidung ____" (treffen / machen): ______
+9. „Kritik ____ + Dativ" (üben an): ______
+10. „Bezug ____ + Akkusativ" (nehmen auf): ______
 
-**Passiv:**
-1. „Die Proben ______ (untersuchen — Passiv Präsens) im Labor."
-2. „Die Genauigkeit ______ ______ (steigern — Passiv mit können) werden."
-3. „Das Ergebnis ist gestern ______ ______ (veröffentlichen — Passiv Perfekt)."
+## Übung D4 — Selbsttest (bewerte dich /20)
 
-**Passiversatz:**
-4. man: „Die Daten werden ausgewertet." → Man ______ die Daten aus.
-5. sich lassen: „kann gemessen werden" → ______ ______ messen
-6. -bar: „kann recycelt werden" → ______
-7. sein + zu: „Die Quellen müssen angegeben werden." → Die Quellen ______ ______.
+**Passiv Präsens / Präteritum / Perfekt:**
+1. Die Studie ______ (Präsens) gerade durchgeführt.
+2. Die Daten ______ (Präteritum) erhoben.
+3. Die Ergebnisse ______ (Perfekt) veröffentlicht worden.
 
-**Nominalstil (B2/01):**
-8. „die Entwicklung eines Verfahrens" → ein Verfahren ______ (Verb)
-9. „wegen des hohen Verbrauchs" → ______ der Verbrauch hoch ist (Konnektor)
-10. „zur Verbesserung der Qualität" → ______ die Qualität zu verbessern
+**Verb → Nomen → Passiv:**
+4. Man hat die Studie durchgeführt. → Die ______ wurde beschrieben.
+5. Man hat die Daten erhoben. → Die ______ dauerte ein Jahr.
+6. Man hat die Ergebnisse veröffentlicht. → Die ______ erfolgte im Juni.
 
-**Zusammenfassen:**
-11. Fasse zusammen: „Es wird angenommen, dass die Effizienz gesteigert werden kann." → ______
-12. Fasse zusammen: „Durch den Einsatz von KI wird die Erkennung verbessert." → ______
+**Genitivattribut:**
+7. die Durchführung ______ Studie:
+8. die Erhebung ______ Daten:
+9. die Veröffentlichung ______ Ergebnisse:
 
-**Wortschatz:**
-13. Das Endergebnis einer Studie: ______
-14. Eine kleine Menge eines Stoffes zum Testen: ______
-15. Die Umwandlung der Welt ins Digitale: ______
+**Agent von / durch:**
+10. Die Studie wurde ______ dem Max-Planck-Institut durchgeführt.
+11. Die Schäden wurden ______ das Erdbeben verursacht.
 
-**Gemischtes:**
-16. (B2/02) Vorgang oder Zustand? „Schau, die Tür ______ (wird/ist) schon geöffnet." (Zustand)
+**FVG der Wissenschaft:**
+12. eine Studie ______ (nicht: machen):
+13. eine Hypothese in Frage ______:
+14. Daten zur Verfügung ______:
 
-_16+ / 20 → Lektion B2/11. Unter 16 → wiederhole Block A (A3–A6) und B6 (Fachsatz zusammenfassen) morgen, dann mach D4 noch einmal._
+**Umformen Aktiv → Passiv + Nominalstil:**
+15. „Man hat die Hypothese bestätigt." → ______
+16. „Man hat das Modell getestet." → ______
+
+**Umformen Passiv → Aktiv:**
+17. „Die Studie wurde von dem Team durchgeführt." → ______
+18. „Die Originaldaten wurden Open Access zur Verfügung gestellt." → ______
+
+**Gemischtes / Wiederholung:**
+19. (B2/01) Nominalisierung von „verbessern" (mit Artikel): ______
+20. (B2/08) FVG: „eine Frage ______" (stellen / machen):
+
+_16+ / 20 → Lektion B2/11. Unter 16 → wiederhol morgen Block A (A1–A6) und Block B (B1–B6), dann mach D4 noch einmal._

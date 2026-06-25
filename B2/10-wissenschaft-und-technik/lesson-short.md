@@ -5,229 +5,269 @@ slug: wissenschaft-und-technik
 title: Wissenschaft und Technik
 titleEn: Science and Technology
 canDo:
-  - populärwissenschaftliche und technische Texte lesen und zusammenfassen
-  - Prozesse, Studien und Forschungsergebnisse beschreiben
-  - dichte Passiv- und Nominalkonstruktionen in Fachtexten erkennen und entschlüsseln
-  - einen Fachtext in eine verständlichere, verbalere Sprache übertragen
+  - Fachtexte aus Wissenschaft und Forschung sicher lesen und verstehen
+  - zwischen Verbalstil und Nominalstil in Fachtexten bewusst wechseln
+  - Passiv Präsens, Präteritum und Perfekt in wissenschaftlichen Texten korrekt verwenden
+  - Forschung, Digitalisierung und Künstliche Intelligenz diskutieren und einordnen
+  - Hypothesen, Studien, Ergebnisse und Veröffentlichungen präzise benennen
 grammar:
-  - "Passiv in der Wissenschaftssprache (Wiederholung B2/02 im Kontext)"
-  - "Passiversatz: man, sich lassen, -bar, sein + zu + Infinitiv (Wiederholung B2/02)"
-  - "Nominalstil in Fachtexten lesen und produzieren (Wiederholung B2/01)"
-  - "vom Fachtext zur Zusammenfassung: Nominal-/Passivtext in Verbalstil umformen"
+  - "Passiv Präsens, Präteritum und Perfekt in wissenschaftlichen Texten (Vorgangs- und Zustandspassiv)"
+  - "Nominalstil gemischt mit Passiv in Forschungstexten (Verb → Nomen: untersuchen → die Untersuchung → wird untersucht)"
+  - "Häufige FVG der Wissenschaftssprache: eine Studie durchführen, einen Versuch machen, in Frage stellen, von + Dat. (Agent)"
+  - "Beziehungen zwischen Verbalstil und Nominalstil: publizieren → die Veröffentlichung → wurde publiziert"
 buildsOn:
-  - B2/01 (Nominalstil und Verbalstil · Nominalisierung · Präposition + Nomen ↔ Nebensatz)
-  - B2/02 (Passiv und seine Alternativen · man · sich lassen · -bar · sein + zu)
-  - B1/04 (Vorgangspassiv mit werden)
+  - B2/01 (Nominalstil und Verbalstil)
+  - B2/02 (Passiv und seine Alternativen)
+  - B1/04 (Das Passiv: Vorgang und Zustand)
+  - B1/12 (Nominalisierung)
 ---
 
 # B2 · Lektion 10 — Wissenschaft und Technik
 
-> **Das lernst du:** populärwissenschaftliche und technische Texte verstehen
-> und zusammenfassen; Prozesse, Studien und Ergebnisse beschreiben; die
-> dichte Sprache der Wissenschaft (Passiv, Nominalstil) entschlüsseln.
+> **Das lernst du:** wissenschaftliche und technische Fachtexte sicher lesen, verstehen und selbst formulieren — vom Zeitungsartikel über eine neue KI-Studie bis zur Stellungnahme auf einem Forschungsblog. Du erkennst die typischen Strukturen der Wissenschaftssprache: **Passiv** für sachliche Distanz, **Nominalstil** für verdichtete Information und eine kleine, aber stabile Auswahl an **Funktionsverbgefügen** (*eine Studie durchführen*, *in Frage stellen*, *zur Verfügung stehen*). Du lernst, wie Verbalstil und Nominalstil im selben Text zusammenarbeiten, und du übst, selbst kurze Fachtexte zu schreiben, die klingen wie aus einem Forschungsbericht.
 >
-> **Grammatik:** keine neue Struktur — **angewandte Wiederholung** von
-> **Passiv und Ersatzformen** (B2/02) und **Nominalstil** (B2/01) im Kontext
-> Wissenschaft und Technik.
+> **Grammatik:** **Passiv Präsens / Präteritum / Perfekt** in wissenschaftlichen Texten (Vorgangspassiv und Zustandspassiv) · **Passiv + Nominalstil gemischt**: aus *untersuchen* wird *die Untersuchung → wird untersucht* · **Agent mit *von* + Dativ** und **mit *durch* + Akkusativ** · **FVG der Wissenschaftssprache** (*eine Studie durchführen*, *einen Versuch machen*, *in Frage stellen*, *zur Verfügung stehen*) · **Wortbildung** für Forschungsbegriffe: *forschen → die Forschung*, *veröffentlichen → die Veröffentlichung*.
 >
-> **Builds on:** B2/01 (Nominalstil ↔ Verbalstil), B2/02 (Passiv und seine
-> Alternativen), B1/04 (Vorgangspassiv).
+> **Builds on:** B2/01 (Nominalstil und Verbalstil), B2/02 (Passiv und seine Alternativen), B1/04 (Passiv), B1/12 (Nominalisierung).
 
 ---
 
 ## 1. Dialoge
 
-### Dialog A: Über einen Artikel zur künstlichen Intelligenz (informell, du, 3 Personen)
+### Dialog A: In der Kaffeepause — Anna und Bruno reden über eine neue KI-Studie (informell — du, 2 Personen)
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-> **Mia:** Habt ihr den Artikel über die neue KI-Studie gelesen? Ich bin nach dem zweiten Absatz ausgestiegen.  
-> **Anna:** Ich auch. „Es wird angenommen, dass die Genauigkeit gesteigert werden kann" — wer nimmt denn da was an? Man erfährt es nie.  
-> **Bruno:** Das ist genau das Problem mit diesen Texten. Wenn du das Passiv auflöst, wird alles sofort klarer. „Die Genauigkeit kann gesteigert werden" heißt einfach: „Man kann die Genauigkeit steigern."  
-> **Mia:** Stimmt. Und diese langen Nomen! „Zur Verbesserung der Erkennung von Mustern" — warum sagt man nicht: „um Muster besser zu erkennen"?  
-> **Anna:** Weil es wissenschaftlicher klingt, glaube ich. Aber lesbar ist es nicht.  
-> **Bruno:** Mir gefällt der Kern der Studie trotzdem. Das Modell lässt sich mit weniger Daten trainieren — das ist wirklich ein Fortschritt.  
-> **Mia:** Das „lässt sich trainieren" mag ich. Klingt fast normal.  
-> **Anna:** Genau, das ist der Trick: „lässt sich trainieren" ist viel angenehmer als „kann trainiert werden". Gleiche Bedeutung, halb so anstrengend.  
-> **Bruno:** Wir sollten den Artikel mal zusammenfassen — in einer Sprache, die ein Mensch versteht. Ich schreibe: „Forscher haben ein KI-Modell entwickelt, das weniger Daten braucht."  
-> **Mia:** Perfekt. Aus dem Nominal-Monster wird ein echter Satz.  
-> **Anna:** So sollte Wissenschaft immer geschrieben sein. Verständlich.  
+> **Anna:** Bruno, hast du den Artikel in der Zeitung gelesen? Über die neue KI-Studie aus Heidelberg?  
+> **Bruno:** Ja, gestern Abend. Irgendwas mit Sprachmodellen und Fehlinformationen, oder?  
+> **Anna:** Genau. Es wird ja gerade überall darüber diskutiert. Die Studie wurde von einem Team der Universität Heidelberg durchgeführt, und die Ergebnisse wurden letzte Woche in *Nature* veröffentlicht.  
+> **Bruno:** Klingt erstmal seriös. Aber ich frage mich, was genau untersucht wurde. Im Artikel stand, dass die Daten an über 10 000 Nutzern erhoben wurden — ist das wirklich repräsentativ?  
+> **Anna:** Das wurde im Methodenteil erklärt, glaube ich. Die Stichprobe wurde nach Alter, Geschlecht und Bildungsstand geschichtet. Trotzdem werden die Ergebnisse in den sozialen Medien gerade sehr kontrovers diskutiert.  
+> **Bruno:** Typisch. Sobald so eine Veröffentlichung in den Medien landet, wird sie von Laien in Frage gestellt — auch wenn die Methodik sauber war.  
+> **Anna:** Stimmt. Aber ich finde es gut, dass die Studie auch zur Verfügung gestellt wird, also Open Access. Jeder kann sich die Originaldaten anschauen.  
+> **Bruno:** Ja, das ist ein Vorteil. Trotzdem bleibt das Problem: Eine einzelne Studie beweist noch lange nichts. Es müssen mehrere Studien gemacht werden, bevor man von einer gesicherten Erkenntnis sprechen kann.  
+> **Anna:** Richtig. Eine Hypothese wird erst durch viele Versuche bestätigt — oder eben auch widerlegt. Aber gut, dass solche Forschung überhaupt stattfindet.  
+> **Bruno:** Definitiv. Besonders bei KI ist das wichtig. Da wird ja gerade mehr geforscht als in jedem anderen Bereich.
 
-### Dialog B: Im Forschungslabor — Interview mit einer Materialforscherin (formell, Sie, 2 Personen)
+### Dialog B: Ein Interview mit dem Forschungsleiter (formell — Sie, 2 Personen)
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-> **Dr. Yusuf El-Sayed:** Frau Weber, vielen Dank, dass Sie sich Zeit nehmen. Können Sie uns kurz erklären, woran in Ihrem Labor gerade geforscht wird?  
-> **Frau Weber:** Sehr gern. Bei uns wird ein neues Material für Batterien entwickelt. Es ist umweltfreundlicher und lässt sich leichter recyceln als die heutigen Stoffe.  
-> **Dr. Yusuf El-Sayed:** Und wie wird so eine Eigenschaft eigentlich nachgewiesen?  
-> **Frau Weber:** Zunächst werden Proben hergestellt und unter kontrollierten Bedingungen getestet. Die Ergebnisse werden dokumentiert, und der Versuch muss mehrfach wiederholt werden, damit er als belegt gilt.  
-> **Dr. Yusuf El-Sayed:** Ist das Material denn schon einsetzbar?  
-> **Frau Weber:** Noch nicht. Die Hypothese ist vielversprechend, aber sie ist noch nicht vollständig zu beweisen. Vor einer Anwendung in der Industrie sind weitere Studien nötig.  
-> **Dr. Yusuf El-Sayed:** Was muss bei einer Veröffentlichung beachtet werden?  
-> **Frau Weber:** Alle Quellen sind anzugeben, und die Daten müssen offengelegt werden. Nur so ist gewährleistet, dass die Ergebnisse von anderen überprüft werden können.  
-> **Dr. Yusuf El-Sayed:** Eine letzte Frage: Wann ist mit einer Markteinführung zu rechnen?  
-> **Frau Weber:** Das lässt sich heute noch nicht seriös sagen. Realistisch sind fünf bis zehn Jahre.  
+> **Frau Yilmaz:** Herr Steinmeyer, vielen Dank, dass Sie sich die Zeit nehmen. Sie sind Forschungsleiter am Institut für Digitalisierung. Darf ich zunächst eine Frage zur Methodik stellen?  
+> **Herr Steinmeyer:** Sehr gerne.  
+> **Frau Yilmaz:** In Ihrer Studie wurde die Wirksamkeit von KI-gestützter Diagnostik untersucht. Wie wurde die Untersuchung konkret durchgeführt?  
+> **Herr Steinmeyer:** Es wurden drei Versuchsreihen gemacht, jeweils mit etwa 200 Probanden. Die Daten wurden über ein halbes Jahr hinweg erhoben und anschließend von zwei unabhängigen Teams ausgewertet.  
+> **Frau Yilmaz:** Die Ergebnisse wurden im Fachjournal *Lancet Digital Health* veröffentlicht. Wie wurden sie von der Fachwelt aufgenommen?  
+> **Herr Steinmeyer:** Sehr positiv. Die Hypothese, dass KI die Diagnostik unterstützen kann, wurde durch die Studie bestätigt. Natürlich wurde die Methodik auch kritisch hinterfragt, das ist in der Wissenschaft normal.  
+> **Frau Yilmaz:** Welche Kritik wurde denn geübt?  
+> **Herr Steinmeyer:** Vor allem an der Größe der Stichprobe. Außerdem wurde in Frage gestellt, ob die Ergebnisse auf andere Krankheitsbilder übertragbar sind. Diese Einwände sind berechtigt und werden in der nächsten Studie berücksichtigt.  
+> **Frau Yilmaz:** Wann ist mit der nächsten Veröffentlichung zu rechnen?  
+> **Herr Steinmeyer:** Wir gehen davon aus, dass die Folgestudie bis Ende des Jahres publiziert wird. Sämtliche Daten werden dann wieder Open Access zur Verfügung gestellt.  
+> **Frau Yilmaz:** Herr Steinmeyer, herzlichen Dank für das Gespräch.  
+> **Herr Steinmeyer:** Ich danke Ihnen. Für Rückfragen stehe ich Ihnen gern zur Verfügung.
 
 ---
 
 ## 2. Redemittel
 
-### Über Studien und Forschung sprechen
+### Fachtexte lesen und zusammenfassen
 
-| Deutsch | Englisch |
+| Deutsch | Funktion |
 |---|---|
-| Die Studie **kommt zu dem Ergebnis**, dass … | The study concludes that … |
-| Die Forscher **haben herausgefunden**, dass … | The researchers found that … |
-| Es **wird vermutet** / **angenommen**, dass … | It is assumed that … |
-| **Untersucht wurde**, ob / wie … | What was investigated was whether / how … |
-| Die Hypothese **konnte bestätigt / nicht bestätigt werden**. | The hypothesis could (not) be confirmed. |
-| **Im Rahmen** der Studie … | As part of the study … |
+| In der Studie wurde untersucht, ob … | Hauptfrage nennen |
+| Die Daten wurden über einen Zeitraum von … erhoben. | Methodik beschreiben |
+| Die Hypothese wurde bestätigt / widerlegt. | Ergebnis zusammenfassen |
+| Die Ergebnisse wurden in *Nature* veröffentlicht. | Quelle nennen |
+| Die Methodik wurde von anderen Forschern in Frage gestellt. | Kritik benennen |
+| Es wurden drei Versuchsreihen durchgeführt. | Versuchsdesign beschreiben |
 
-### Einen Fachtext zusammenfassen (Nominal-/Passivstil → Verbalstil)
+### Über Forschung und Digitalisierung sprechen
 
-| Fachsprache (dicht) | Klar formuliert |
+| Deutsch | Funktion |
 |---|---|
-| *Es wird angenommen, dass …* | *Forscher nehmen an, dass …* / *Man nimmt an, dass …* |
-| *… kann gesteigert werden* | *… lässt sich steigern* / *Man kann … steigern* |
-| *zur Verbesserung der Erkennung* | *um die Erkennung zu verbessern* |
-| *Die Probe ist zu kühlen.* | *Die Probe muss gekühlt werden.* / *Man muss die Probe kühlen.* |
-| *Das Material ist recycelbar.* | *Das Material kann recycelt werden.* |
-
-### Vermutungen und Einschränkungen
-
-| Deutsch | Englisch |
-|---|---|
-| Das **lässt sich (noch) nicht** seriös sagen. | That can't (yet) be said reliably. |
-| **Weitere Studien sind nötig**, um … | Further studies are needed in order to … |
-| Das Ergebnis **ist unterschiedlich zu deuten**. | The result can be interpreted differently. |
-| **Es ist davon auszugehen**, dass … | One can assume that … |
+| Eine einzelne Studie beweist noch nichts. | Vorsicht betonen |
+| Es müssen mehrere Studien gemacht werden. | Wiederholung fordern |
+| Die Daten stehen Open Access zur Verfügung. | Zugang betonen |
+| Die Studie wurde von einem Team der Universität X durchgeführt. | Urheber nennen |
+| Besonders bei KI wird gerade viel geforscht. | Trend benennen |
+| Die Ergebnisse sind nicht auf andere Bereiche übertragbar. | Grenze ziehen |
 
 ---
 
 ## 3. Wortschatz
 
-### Forschung und Wissenschaft
+### Kernwortschatz: Forschung und Wissenschaft
 
-| Nomen | Verb | Bedeutung (EN) |
-|---|---|---|
-| die Forschung, -en | forschen (an + Dat) | research |
-| die Studie, -n | untersuchen | study |
-| das Experiment, -e / der Versuch, -e | durchführen | experiment |
-| die Hypothese, -n | aufstellen / beweisen | hypothesis |
-| die Probe, -n | testen | sample |
-| das Ergebnis, -se | belegen / nachweisen | result |
-| die Erkenntnis, -se | gewinnen | insight, finding |
-| die Veröffentlichung, -en | veröffentlichen | publication |
-| die Auswertung, -en | auswerten | analysis, evaluation |
-
-⚠️ `forschen an + Dativ` — *Das Labor **forscht an** einem neuen Material.* Aber: *Die Studie **untersucht** den Effekt* (Akkusativ).
-
-### Digitalisierung, Technik und KI
-
-| Nomen | Verb / Adjektiv | Bedeutung (EN) |
-|---|---|---|
-| die Digitalisierung (no pl.) | digitalisieren | digitalization |
-| die künstliche Intelligenz (KI) | — | artificial intelligence |
-| der Algorithmus, Algorithmen | — | algorithm |
-| die Anwendung, -en | anwenden | application |
-| die Daten (pl.) | speichern / auswerten | data |
-| das Verfahren, – | entwickeln | procedure, method |
-| die Genauigkeit (no pl.) | — / genau | accuracy, precision |
-| die Vernetzung, -en | vernetzen | networking |
-| die Nachhaltigkeit (no pl.) | — / nachhaltig | sustainability |
-
-### Fachtext-Vokabular (für Hör- und Lesetexte)
-
-| Deutsch | Englisch |
+| Nomen | Erklärung |
 |---|---|
-| nachweisen / der Nachweis, -e | to prove / proof |
-| die Bedingung, -en | condition |
-| das Muster, – | pattern |
-| die Eigenschaft, -en | property, characteristic |
-| recycelbar / wiederverwendbar | recyclable / reusable |
-| umweltfreundlich | environmentally friendly |
-| einsetzbar / anwendbar | usable, applicable |
-| die Markteinführung, -en | market launch |
+| die Forschung, -en | systematische wissenschaftliche Arbeit |
+| die Wissenschaft, -en | Gesamtheit der Forschungsbereiche |
+| die Studie, -n | systematische Untersuchung zu einer Frage |
+| die Untersuchung, -en | das Untersuchen einer Sache |
+| die Hypothese, -n | Annahme, die geprüft werden soll |
+| der Versuch, -e | einzelnes Experiment |
+| die Versuchsreihe, -n | Serie gleichartiger Versuche |
+| das Ergebnis, -se | Resultat, Befund einer Untersuchung |
+| die Erkenntnis, -se | neue wissenschaftliche Einsicht |
+| die Evidenz, -en | gesicherter Wissensstand, Belege |
+| die Veröffentlichung, -en | publizierter Fachartikel / Bericht |
+| der Verfasser, - / die Verfasserin, -nen | Autor/in einer wissenschaftlichen Arbeit |
+| die Quelle, -n | Herkunftsnachweis, Datensatz |
+| die Innovation, -en | neue technologische / wissenschaftliche Idee |
+| das Patent, -e | gesetzlich geschütztes Erfinderrecht |
+| die Digitalisierung (no pl.) | Umstellung auf digitale Prozesse |
+| die Künstliche Intelligenz (KI) (no pl.) | selbstlernende Computersysteme |
+
+### Verben und ihre Nominalisierung
+
+| Verb ⚠️ = unregelmäßig | Nominalisierung |
+|---|---|
+| forschen | die Forschung |
+| untersuchen | die Untersuchung |
+| veröffentlichen | die Veröffentlichung |
+| durchführen | die Durchführung |
+| entwickeln | die Entwicklung |
+| herausfinden | die Herausfindung / der Befund |
+| widerlegen ⚠️ | die Widerlegung |
+| bestätigen | die Bestätigung |
+| nachweisen | der Nachweis |
+| überprüfen | die Überprüfung |
+| auswerten | die Auswertung |
+| erheben (Daten) | die Erhebung |
+| belegen | der Beleg |
+| patentieren | die Patentierung |
+
+### Technologie und Digitalisierung
+
+| Nomen | Erklärung |
+|---|---|
+| die Technologie, -n | technisches Verfahren, Anwendung |
+| die Anwendung, -en | konkreter Einsatz einer Technologie |
+| der Algorithmus, -men | Rechenvorschrift, automatisierte Berechnung |
+| die Daten (Pl.) | digitale Informationen |
+| der Datensatz, -̈e | geordnete Sammlung von Daten |
+| die Stichprobe, -n | Teilmenge, die untersucht wird |
+| die Methodik, -en | methodisches Vorgehen |
+| das Modell, -e | vereinfachte Darstellung der Realität |
+| das Sprachmodell, -e | KI-System zur Textverarbeitung |
+| die Fehlinformation, -en | falsche, irreführende Information |
 
 ---
 
 ## 4. Grammatik
 
-### 4.1 Passiv in der Wissenschaftssprache (Wiederholung B2/02)
+### 4.1 Passiv Präsens / Präteritum / Perfekt in Fachtexten
 
-Wissenschaft sagt, **was geschieht**, nicht **wer** es tut. Deshalb dominiert das
-**Vorgangspassiv** (`werden` + Partizip II): *Die Proben **werden untersucht**.*
-Der Agens („von …") fehlt meist mit Absicht.
+In Fachtexten steht fast immer Passiv, weil die **Sache** im Mittelpunkt stehen soll, nicht die handelnde Person. Du bildest es wie in B1/04 — *werden + Partizip II* — aber in Fachtexten kommen alle drei Zeitformen nebeneinander vor.
 
-| Form | Muster | Beispiel |
+| Zeitform | Bildung | Beispiel |
 |---|---|---|
-| Vorgangspassiv | `werden` + Partizip II | Die Probe **wird untersucht**. |
-| + Modalverb | Modal + Partizip II + `werden` | … **muss untersucht werden**. |
-| Passiv Perfekt | `ist` + Partizip II + **`worden`** | … **ist untersucht worden**. |
+| Präsens Passiv | wird + Partizip II | Die Studie **wird** gerade **durchgeführt**. |
+| Präteritum Passiv | wurde + Partizip II | Die Daten **wurden** über ein Jahr hinweg **erhoben**. |
+| Perfekt Passiv | ist + Partizip II + worden | Die Ergebnisse **sind** in *Nature* **veröffentlicht worden**. |
 
-> 📌 **Merkasten:** Frage beim Lesen: „Was passiert mit was?" — der fehlende
-> Täter stört im Fachtext nicht. Passiv Perfekt braucht **`worden`**.
+⚠️ *Worden* (nicht *geworden*) nur im Perfekt Passiv. Im Präteritum steht nur *wurde + Partizip II*, kein *worden* dahinter.
 
-### 4.2 Passiversatz in Fachtexten (Wiederholung B2/02)
-
-Reines Passiv macht Texte schwer; die Wissenschaft nutzt die Ersatzformen aus B2/02.
-
-| Ersatzform | Muster | = |
-|---|---|---|
-| `man` + Aktiv | man + Verb (3. Sg.) | Passiv |
-| `sich lassen` + Inf. | … lässt sich + Infinitiv | können + Passiv |
-| `-bar` / `-lich` | … ist + Adjektiv | können + Passiv |
-| `sein + zu` + Inf. | … ist + zu + Infinitiv | müssen/können + Passiv |
-
-> *Das Problem kann gelöst werden.* → *Man kann es lösen. · Es lässt sich lösen.
-> · Es ist lösbar. · Es ist (leicht) zu lösen.*
+> 📌 **Merkasten — Passiv in Fachtexten**
 >
-> 📌 Signalwort *leicht/kaum/schwer* → „können"; Pflicht/Regel → „müssen".
+> | Präsens | die Studie **wird** durchgeführt |
+> |---|---|
+> | Präteritum | die Daten **wurden** erhoben |
+> | Perfekt | die Ergebnisse **sind** veröffentlicht **worden** |
+>
+> ▶ Im Fachtext steht fast immer Passiv — die Sache zählt, nicht die Person.
 
-### 4.3 Nominalstil in der Wissenschaft (Wiederholung B2/01)
+### 4.2 Passiv + Nominalstil gemischt: Verb → Nomen → Passiv
 
-Fachtexte packen Handlungen in **Nomen**: *die Auswertung der Daten*,
-*zur Verbesserung der Erkennung*. Werkzeug: **Such das Verb im Nomen**.
+Das ist die Königsdisziplin der Wissenschaftssprache: aus einem Verb wird ein Nomen, und aus dem aktiven Verb wird ein passiver Satz. Die Kette lautet: **Verb → Nomen → Passiv**.
 
-| Werkzeug | Beispiel |
-|---|---|
-| Verb im Nomen suchen | Auswertung → **auswerten** |
-| Objekt = Genitiv | die Auswertung **der Daten** |
-| Präp. + Nomen → Nebensatz | *wegen → weil · zur → um … zu · nach → nachdem · bei → wenn · durch → indem · trotz → obwohl* |
+| Aktiv (Verb) | Nomen (Genitiv) | Passiv + Nomen |
+|---|---|---|
+| Man führt die Studie durch. | **die Durchführung der Studie** | Die Durchführung der Studie wurde beschrieben. |
+| Man erhebt die Daten. | **die Erhebung der Daten** | Die Erhebung der Daten dauerte ein Jahr. |
+| Man veröffentlicht die Ergebnisse. | **die Veröffentlichung der Ergebnisse** | Die Veröffentlichung der Ergebnisse erfolgte im Juni. |
+| Man überprüft die Hypothese. | **die Überprüfung der Hypothese** | Die Überprüfung der Hypothese ergab ein neues Resultat. |
+| Man testet das Modell. | **der Test des Modells** | Der Test des Modells verlief erfolgreich. |
+| Man meldet das Patent an. | **die Anmeldung des Patents** | Die Anmeldung des Patents wurde im Juni veröffentlicht. |
 
-> 📌 Nominalketten von innen nach außen auflösen: Kern-Nomen → Genitiv-Objekt.
+⚠️ **Genitiv-Attribut!** *die Durchführung **der** Studie* — nicht *von der Studie*. Im Aktiv sagst du *man führt die Studie durch* (Akkusativ), im nominalen Passiv steht das Nomen im Genitiv — *die Durchführung **der** Studie*. Das ist die direkte Fortsetzung von B2/01: *Verb → Nomen = Aktiv → Genitiv-Attribut*.
 
-### 4.4 Vom Fachtext zur Zusammenfassung (B2/01 + B2/02)
+> 📌 **Merkasten — Verb → Nomen → Passiv**
+>
+> | Aktiv | Nomen (Genitiv) |
+> |---|---|
+> | Man führt die Studie durch. | **die Durchführung der Studie** |
+> | Man erhebt die Daten. | **die Erhebung der Daten** |
+> | Man veröffentlicht die Ergebnisse. | **die Veröffentlichung der Ergebnisse** |
+>
+> ▶ Immer Genitiv-Attribut: *die Durchführung **der** Studie*.
 
-Echte Fachtexte mischen Passiv und Nominalstil. Zusammenfassen in drei Schritten:
+### 4.3 Agent: *von* + Dativ und *durch* + Akkusativ
 
-| Schritt | Werkzeug (Quelle) |
-|---|---|
-| 1. Passiv auflösen | `man` + Aktiv (B2/02) |
-| 2. Nomen entpacken | Verb im Nomen suchen (B2/01) |
-| 3. klaren Hauptsatz bauen | Verb auf Platz 2, verständlich |
+Im Passiv brauchst du manchmal die handelnde Person oder Sache — den **Agenten**. Die Wahl ist nicht beliebig: **Personen und Institutionen → *von***, **Mittel und Ursachen → *durch***. In Fachtexten steht der Agent oft nur, wenn er wichtig ist — sonst fehlt er und der Satz bleibt agenslos.
 
-> *Im Rahmen der Studie wurde durch den Einsatz von KI eine Steigerung der
-> Genauigkeit erzielt.* → *Mithilfe von KI haben die Forscher die Genauigkeit
-> gesteigert.*
+| Funktion | Präposition + Kasus | Beispiel |
+|---|---|---|
+| Person / Institution | **von + Dativ** | Die Studie wurde **von** der Universität Heidelberg durchgeführt. |
+| Mittel / Ursache | **durch + Akkusativ** | Die Daten wurden **durch** automatisierte Verfahren erhoben. |
+| Verschmelzung | von + dem = **vom** | Die Forschung wird **vom** Bundesministerium gefördert. |
+
+⚠️ **Faustregel:** *Wer hat es gemacht?* → **von**. *Wodurch kam es dazu?* → **durch**. Institutionen und Personen stehen mit *von + Dativ*; Mittel und Ursachen mit *durch + Akkusativ*.
+
+> 📌 **Merkasten — Agent im Passiv**
+>
+> | Person / Institution | von + Dativ |
+> |---|---|
+> | Mittel / Ursache | durch + Akkusativ |
+> | Verschmelzung | von + dem = **vom** |
+>
+> ▶ Faustregel: *Wer?* → **von**. *Wodurch?* → **durch**.
+
+### 4.4 Funktionsverbgefüge der Wissenschaftssprache
+
+Wie in B2/08 die Berufssprache, hat auch die Wissenschaftssprache ihre festen Funktionsverbgefüge. Sie stehen im Fachtext meist im Passiv — finite Form vorn, FVG-Hauptverb am Satzende.
+
+| Funktionsverbgefüge | = Vollverb | Beispielsatz |
+|---|---|---|
+| eine Studie **durchführen** | studieren, erforschen | Eine Studie **wurde durchgeführt**. |
+| einen Versuch **machen** | versuchen, experimentieren | Drei Versuche **wurden gemacht**. |
+| eine Hypothese **aufstellen** | annehmen, formulieren | Die Hypothese **wurde aufgestellt**. |
+| eine Hypothese **in Frage stellen** | bezweifeln | Die Hypothese **wurde in Frage gestellt**. |
+| eine Erkenntnis **gewinnen** | erkennen | Eine neue Erkenntnis **wurde gewonnen**. |
+| einen Nachweis **erbringen** | nachweisen | Der Nachweis **wurde erbracht**. |
+| Daten **zur Verfügung stellen** | veröffentlichen | Die Daten **wurden zur Verfügung gestellt**. |
+| eine Veröffentlichung **vornehmen** | veröffentlichen | Die Veröffentlichung **erfolgte** im Juni. |
+| eine Überprüfung **vornehmen** | überprüfen | Eine Überprüfung **wurde vorgenommen**. |
+| eine Rolle **spielen** | wichtig sein | Die Methodik **spielte** eine zentrale Rolle. |
+| in **Betracht** ziehen | berücksichtigen | Die Ergebnisse **wurden in Betracht gezogen**. |
+| eine Widerlegung **erfahren** | widerlegt werden | Die Hypothese **erfuhr** eine Widerlegung. |
+
+⚠️ Feste Verben: *durchführen* (nicht *machen*), *in Frage stellen* (nicht *bezweifeln*), *zur Verfügung stehen* (Verschmelzung, nicht *zu der Verfügung*).
+
+> 📌 **Merkasten — FVG der Wissenschaft**
+>
+> | eine Studie **durchführen** | untersuchen, erforschen |
+> |---|---|
+> | einen Versuch **machen** | experimentieren |
+> | eine Hypothese **in Frage stellen** | bezweifeln |
+> | Daten **zur Verfügung stellen** | veröffentlichen / zugänglich machen |
+> | eine Erkenntnis **gewinnen** | erkennen |
+>
+> ▶ Im Fachtext steht das FVG meist im Passiv: finite Form vorn, FVG-Hauptverb am Satzende.
 
 ---
 
-## 5. Lesetext — Wie eine Studie zu einer Schlagzeile wird
+## 5. Lesetext — Wie ein Forschungsartikel entsteht
 
-*Lies den Text zweimal: einmal schnell, einmal langsam.*
+*Lies den Text zweimal: einmal schnell für den Inhalt, einmal langsam und unterstreiche jedes Passiv und jede nominalisierte Form.*
 
-> Jeden Tag erscheinen Hunderte wissenschaftliche Studien. Doch nur wenige schaffen es in die Nachrichten — und auf dem Weg dorthin verändert sich ihre Sprache stark.
+> Ein Forschungsartikel durchläuft heute einen strengen, transparenten Prozess. Am Anfang steht eine **Fragestellung**: Was soll untersucht werden? Aus dieser Frage wird eine **Hypothese** abgeleitet — eine begründete Annahme, die durch Versuche bestätigt oder widerlegt werden kann. In der nächsten Phase wird die **Methodik** festgelegt: Wie viele Probanden werden in die Studie einbezogen? Wie werden die Daten erhoben? Welche Verfahren werden angewendet, um Verzerrungen zu vermeiden?
 >
-> Am Anfang steht das **Original**, ein wissenschaftlicher Artikel. Er ist im typischen Fachstil geschrieben: dicht, unpersönlich, voller Passiv und Nominalstil. Dort heißt es etwa: *„Im Rahmen der Untersuchung wurde nachgewiesen, dass durch den Einsatz eines neuen Algorithmus eine Steigerung der Genauigkeit um 15 Prozent erzielt werden konnte."* Wer nicht vom Fach ist, versteht beim ersten Lesen kaum etwas.
+> Nach der Durchführung der Versuche werden die Daten ausgewertet. Diese Auswertung erfolgt heute fast immer computergestützt, oft durch statistische Modelle oder durch Algorithmen der Künstlichen Intelligenz. Anschließend werden die Ergebnisse in einem **Fachjournal** zur Veröffentlichung eingereicht. Vor der Veröffentlichung wird der Artikel von anderen Forschern — den sogenannten **Gutachtern** — geprüft. Diese **Begutachtung** (auf Englisch *peer review*) ist das Herzstück der wissenschaftlichen Qualitätssicherung.
 >
-> Dann kommt die **Pressestelle** der Universität. Ihre Aufgabe ist es, die Studie so zu erklären, dass auch Laien sie verstehen. Aus dem Monstersatz wird: *„Forscher haben einen neuen Algorithmus entwickelt. Damit lässt sich die Genauigkeit um 15 Prozent steigern."* Das Passiv ist aufgelöst, das Nomen ist wieder ein Verb geworden — die Information bleibt gleich, aber jetzt ist sie lesbar.
->
-> Zuletzt schreibt eine **Journalistin** die Schlagzeile. Sie muss in wenigen Worten Aufmerksamkeit wecken: *„Neuer Algorithmus macht KI deutlich genauer."* Kurz, klar, aktiv. Hier ist von Passiv und Nominalstil nichts mehr übrig.
->
-> Diese Kette — Fachartikel → Pressetext → Schlagzeile — ist nichts anderes als das, was du in dieser Lektion übst: einen dichten Text Schritt für Schritt in eine klare, verbale Sprache zu übersetzen. Wer das kann, versteht nicht nur die Schlagzeile, sondern auch das Original dahinter. Und das ist oft der größere Gewinn, denn die Schlagzeile vereinfacht manchmal so stark, dass sie etwas anderes behauptet, als die Studie eigentlich belegt.
+> Erst nach der Begutachtung und der Annahme des Manuskripts wird die Studie offiziell veröffentlicht. In vielen Fachbereichen werden die Daten zusätzlich **Open Access** zur Verfügung gestellt, damit andere Forscher die Ergebnisse überprüfen und darauf aufbauen können. Die Begutachtung endet allerdings nicht mit der Veröffentlichung: Auch nach der Publikation werden die Methodik und die Ergebnisse in der Fachwelt weiterhin **diskutiert**. Eine Hypothese gilt erst dann als gesichert, wenn sie durch **mehrere unabhängige Studien** bestätigt wurde. Eine einzelne Studie — so wichtig sie auch sein mag — **beweist noch nichts**.
 
-## 6. Hörtext — Eine Durchsage im Forschungszentrum
+## 6. Hörtext — Ein Kurzinterview mit einem Forschungsleiter
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
@@ -236,23 +276,17 @@ Echte Fachtexte mischen Passiv und Nominalstil. Zusammenfassen in drei Schritten
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
-> Liebe Kolleginnen und Kollegen, eine kurze Mitteilung aus dem Labor. Ab Montag wird ein neues
-> Messverfahren eingeführt, mit dem sich die Reinheit der Proben genauer bestimmen lässt. Alle
-> Proben sind vorher zu beschriften und im Kühlraum zu lagern. Die Ergebnisse werden wie immer
-> automatisch ausgewertet und in der Datenbank gespeichert. Bitte beachten Sie: Vor jeder Messung
-> muss das Gerät kalibriert werden. Bei Fragen wenden Sie sich bitte an die technische Leitung.
-> Vielen Dank für Ihre Mitarbeit.
+> Guten Tag, Herr Dr. Steinmeyer. Sie sind Forschungsleiter am Institut für Digitalisierung. Können Sie uns kurz erklären, wie Ihre neue Studie durchgeführt wurde? Die Untersuchung wurde über ein Jahr hinweg an zweitausend Probanden durchgeführt. Die Daten wurden in drei verschiedenen Kliniken erhoben und anschließend von zwei unabhängigen Teams ausgewertet. Die Ergebnisse wurden kürzlich in einem internationalen Fachjournal veröffentlicht. Wir gehen davon aus, dass die Folgestudie bis Ende des nächsten Jahres publiziert wird. Sämtliche Originaldaten werden Open Access zur Verfügung gestellt. Vielen Dank für das Gespräch.
 
 </details>
 
 ---
 
-## 7. Lernstrategie — Fachtexte „übersetzen"
+## 7. Lernstrategie — Fachtexte knacken
 
-1. **Passiv zuerst.** Bei jedem schweren Satz: Passiv auflösen (`man` + Aktiv).
-2. **Nomen entpacken.** Such das Verb im Nomen, setz das Objekt in den Genitiv.
-3. **Laut nachsprechen.** Wenn dein Satz so klingt, wie du ihn einem Freund
-   erzählen würdest, ist die Zusammenfassung gelungen. Üb an echten Artikeln
-   (z. B. *Spektrum.de*, *Quarks.de*).
+1. **Such die Finite Verbform.** Im Fachtext steht fast alles im Passiv. Such die finite Form (*wird / wurde / ist … worden*) und spring direkt zum Satzende — dort steht das **Vollverb oder FVG-Hauptverb**, das dir die Bedeutung liefert. So liest du den Satz vom Ende her, wie es Forscher tatsächlich tun.
+2. **Dekodiere die Nominalisierung.** Wenn du *die Durchführung der Studie* liest, denk sofort an das Verb (*durchführen*) und das Aktiv (*man führt die Studie durch*). So wird aus einer verdichteten Nominalphrase wieder ein klarer Satz. Übe das mit den Verben aus §4.
+3. **Lern die festen FVG als Block.** Genau wie in B2/08: Funktionsverb + Nomen + (feste Präposition + Kasus) zusammen lernen — *eine Studie durchführen*, *eine Hypothese in Frage stellen*, *Daten zur Verfügung stellen*. Sie stehen in jedem Fachtext.
+4. **Lies echte Fachtexte.** Nimm einen Artikel aus *Spektrum der Wissenschaft* oder *scinexx.de*, unterstreiche 10 Passiv- und 5 Nominalkonstruktionen und übersetze sie zurück in Aktiv + Verbalstil. Das trainiert den Blick mehr als jede Übung.
 
 ➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
