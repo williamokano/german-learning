@@ -6,221 +6,256 @@
 
 ## Übung H1a — Dialog Hör-Check: Dialog A (informell)
 
-1. **R** — Anna: „Was bedeutet ‚unverwüstlich‘? Das steht in keinem meiner Wörterbücher".
-2. **R** — Bruno: „Dann zerleg es doch einfach. Nimm das Wort auseinander".
-3. **R** — Bruno: „‚ver-‘ zum Beispiel bedeutet oft ‚falsch‘ oder ‚kaputt‘".
-4. **F** — Bruno: „Lies von hinten. Das letzte Wort ist das wichtigste, das Grundwort".
-5. **R** — Bruno: „Das Grundwort gewinnt immer" — es liefert den Artikel.
+1. **R** — Anna: „ich lese gerade einen Zeitungsartikel und ständig kommen mir Wörter vor, die ich nie gelernt habe".
+2. **F** — Bruno: „das sind alles Wörter, die man zusammensetzt oder ableitet" — also beides.
+3. **R** — Bruno: „Beim Kompositum steht der Grundbegriff immer rechts, der Bestimmbegriff links".
+4. **F** — Verträglichkeit ist ein abgeleitetes Wort (von vertragen mit Suffix -keit), nicht ein Kompositum.
+5. **R** — Anna: „ich fange heute Abend mit Missverständnis an".
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Weil es deutscher und klarer wirkt.** — Herr Steinmeyer: „‚die Zusammenarbeit‘ ist mir lieber als ‚die Kooperation‘. Das wirkt deutscher und klarer".
-2. **a) verlassen → zuverlässig → die Zuverlässigkeit → un-.** — Herr Steinmeyer: „‚verlassen‘ wird zu ‚zuverlässig‘, daraus ‚die Zuverlässigkeit‘ mit ‚-keit‘, und ‚un-‘ dreht die Bedeutung um".
-3. **c) Feminin (die).** — Frau Yilmaz: „alle Wörter auf ‚-heit‘ und ‚-keit‘ sind feminin".
-4. **a) Ein Fugenelement, das das Wort leichter aussprechbar macht.** — Herr Steinmeyer: „das ist ein Fugenelement. … Das ‚s‘ macht das Wort nur leichter aussprechbar".
+1. **a) Zum Thema Verkehrswende.** — Frau Yilmaz: „in den letzten Wochen erreichen uns immer mehr Leserbriefe zum Thema Verkehrswende".
+2. **b) um- und un-.** — Herr Steinmeyer: „Viele Leser verwechseln umleitbar und unleugbar" — also die Vorsilben um- und un-.
+3. **b) Die Frage, ob sich die Menschen das noch leisten können.** — Herr Steinmeyer: „das meint schlicht: Können sich die Menschen das noch leisten?"
+4. **b) Grundbegriff des Kompositums.** — Herr Steinmeyer: „Wende ist hier ein Grundbegriff mit der Bedeutung grundlegende Veränderung".
 
-## Übung H3 — Hörtext-Lückentext: Durchsage in der Sprachschule
+## Übung H3 — Hörtext-Lückentext: Annas Erklärung im Sprachkurs
 
-1. **Sonderworkshop**  2. **Bausteine**  3. **Vorsilben**  4. **Zusammensetzung**  5. **kostenlos**  6. **Anmeldung**
+1. **entschlüsseln**  2. **Entscheidung**  3. **Entscheidung**  4. **Endung**  5. **Klimaschutz**  6. **Bezahlbarkeit**  7. **Vorsilbe**
 
-## Übung H4 — Kurze Ansage: Anrufbeantworter der Sprachschule
+## Übung H4 — Kurze Ansage: Ansage aus dem Sprachzentrum
 
-1. **a) Weil das Sekretariat heute geschlossen ist.** — „Sie hören diese Nachricht, weil unser Sekretariat heute geschlossen ist".
-2. **b) Er wird auf nächsten Montag verschoben.** — „Der neue Termin ist nächsten Montag um vierzehn Uhr im Raum zwölf".
-3. **b) Sie ist kostenlos, aber eine Anmeldung ist nötig.** — „Die Teilnahme bleibt kostenlos, aber die Anmeldung ist weiterhin erforderlich".
-4. **b) Morgen zwischen neun und zwölf Uhr zurückrufen.** — „Bitte rufen Sie morgen zwischen neun und zwölf Uhr zurück, um sich anzumelden".
+1. **b) Um einen Wortbildungs-Workshop.** — „Wir möchten Sie auf unseren neuen Wortbildungs-Workshop aufmerksam machen".
+2. **b) Unbekannte Wörter über Vorsilben, Nachsilben und Komposita entschlüsseln.** — „unbekannte Wörter selbst zu entschlüsseln: mit Vorsilben …, mit Nachsilben … und mit Komposita".
+3. **a) Nächsten Samstag von 10 bis 16 Uhr.** — „Der Workshop findet nächsten Samstag von zehn bis vier Uhr statt".
+4. **b) Nein, die Teilnahme ist kostenlos und ohne Anmeldung.** — „Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich".
 
 ---
 
 # Block A — Basistraining
 
-## Übung A1 — Präfix-Bedeutung erkennen
+## Übung A1 — Die richtige Vorsilbe
 
-1. **zer**  2. **ent**  3. **miss**  4. **be**  5. **ver**  6. **miss**  7. **er**  8. **zer**
+1. **ent**  2. **zer**  3. **emp**  4. **miss**  5. **be**  6. **er**  7. **emp**  8. **ent**
 
-## Übung A2 — Präfix und Bedeutung verbinden
+## Übung A2 — Vorsilbe → Bedeutung
 
-1 → f · 2 → a · 3 → b · 4 → c · 5 → d · 6 → e
+1. **Veränderung**  2. **Trennung**  3. **Entfernung**  4. **negativ**  5. **transitiv**  6. **Anfang**
 
-## Übung A3 — Nomen-Suffixe: das richtige Genus
+## Übung A3 — Das richtige Suffix
 
-1. **die**  2. **die**  3. **die**  4. **das**  5. **der**  6. **die**  7. **das**  8. **der**
+1. **-ung**  2. **-heit**  3. **-keit**  4. **-bar**  5. **-los**  6. **-haft**  7. **-tion**  8. **-heit**
 
-## Übung A4 — Nomen bilden: Adjektiv/Verb → Nomen
+## Übung A4 — Welche Wortart entsteht?
 
-1. **die Krankheit**  2. **die Schönheit**  3. **die Höflichkeit**  4. **die Freundschaft**  5. **die Bildung**  6. **die Möglichkeit**
+1. **b) Nomen (feminin)** — *-ung* macht aus einem Verb ein feminines Nomen: die Lösung, die Entscheidung, die Bezahlung.
+2. **a) Nomen (feminin)** — *-heit* macht aus einem Adjektiv ein feminines Nomen: die Freiheit, die Sicherheit.
+3. **a) Adjektiv (Möglichkeit)** — *-bar* macht aus einem Verb ein Adjektiv mit passiver Bedeutung: bezahlbar (= kann bezahlt werden).
+4. **a) Adjektiv (Fehlen)** — *-los* macht aus einem Nomen ein Adjektiv, das das Fehlen ausdrückt: arbeitslos, sprachlos.
+5. **c) Person-Nomen** — *-er* macht aus einem Verb ein Nomen für die Person: der Fahrer, der Leser.
+6. **b) Adjektiv (oft negativ)** — *-isch* macht aus einem Nomen oft ein Adjektiv mit wertender Bedeutung: kindisch, egoistisch, touristisch.
 
-## Übung A5 — Adjektiv-Suffixe: -bar, -los, -voll
+## Übung A5 — Kompositum: Bestimmbegriff + Grundbegriff
 
-1. **bar**  2. **los**  3. **voll**  4. **bar**  5. **los**  6. **voll**
+1. **wende**  2. **schutz**  3. **Entscheidungs**  4. **verträglichkeit**  5. **Bundesumwelt**  6. **wissent**
 
-## Übung A6 — Komposita: Genus des Grundworts
+## Übung A6 — Vorsilbe und ihre Bedeutung verbinden
 
-1. **der**  2. **der**  3. **der**  4. **die**  5. **das**  6. **die**
+1 → b · 2 → c · 3 → e · 4 → f · 5 → d · 6 → a
 
-## Übung A7 — Fugenelemente einsetzen
+## Übung A7 — Fugenelement oder nicht?
 
-1. **s**  2. **n**  3. **er**  4. **s**  5. **n**  6. **es**
+1. **-s-**  2. **-s-**  3. **-s-**  4. **-s-**  5. **-s-**  6. **-s-**
 
-## Übung A8 — Suffix und Genus verbinden
+## Übung A8 — Vorsilbe oder Nachsilbe?
 
-1 → a · 2 → b · 3 → c · 4 → a · 5 → a · 6 → a
+**Vorsilbe (Präfix) — kommt vor dem Stamm:** **ver-**, **zer-**, **miss-**, **emp-**
+**Nachsilbe (Suffix) — kommt nach dem Stamm:** **-ung**, **-bar**, **-keit**, **-haft**
 
-## Übung A9 — Bedeutung aus dem Präfix erschließen
+## Übung A9 — Satzbau: Kompositum im Satz
 
-1. **Stücke**  2. **weg**  3. **falsch**  4. **besser**  5. **antworten**  6. **Ziel**
+1. Die Regierung beschließt eine Verkehrswende
+   _Die Regierung beschließt eine Verkehrswende_
+2. Die Bezahlbarkeit von Wohnraum ist gefährdet
+   _Die Bezahlbarkeit von Wohnraum ist gefährdet_
+3. Wir analysieren die Umweltverträglichkeit des Projekts
+   _Wir analysieren die Umweltverträglichkeit des Projekts_
+4. Die Entscheidungsträgerin hat das letzte Wort
+   _Die Entscheidungsträgerin hat das letzte Wort_
 
-## Übung A10 — -heit oder -keit?
+## Übung A10 — Vorsilben richtig trennen?
 
-1. **heit**  2. **keit**  3. **heit**  4. **keit**  5. **heit**  6. **keit**
+1. **R** — verreisen = ich verreise, bin verreist. Die Vorsilbe ver- ist hier trennbar (Betonung auf verreisen).
+2. **F** — verbieten = er verbietet (untrennbar). ver- ist hier untrennbar (Betonung auf -bie-).
+3. **F** — zerstören = er zerstört (untrennbar). zer- ist immer untrennbar (Betonung auf -stö-).
+4. **F** — entwickeln = er entwickelt (untrennbar). ent- ist immer untrennbar (Betonung auf -wik-).
+5. **R** — umsteigen = ich steige um (trennbar). um- ist hier trennbar (Betonung auf -stei-).
+6. **F** — missverstehen = er missversteht (untrennbar). miss- ist immer untrennbar (Betonung auf -ver-).
 
-## Übung A11 — Kompositum von hinten zerlegen
+## Übung A11 — Wortfamilie: Stamm + Ableitung
 
-1. Wort Schatz
-   _Wortschatz_
-2. Haus Tür
-   _Haustür_
-3. Land Karte
-   _Landkarte_
-4. Sonnen brille
-   _Sonnenbrille_
+1. **Entscheidung**  2. **Entscheiderin**  3. **entscheidend**  4. **Fahrt**  5. **Fahrer**  6. **Erfahrung**
 
 ---
 
 # Block B — Vertiefung
 
-## Übung B1 — Text ergänzen: Anna zerlegt ein Wort
-
-1. **zerlegte**  2. **Stamm**  3. **Präfix**  4. **Endung**  5. **drehte**  6. **Nomen**  7. **feminin**  8. **Wörterbuch**
-
-## Übung B2 — Finde den Fehler
+## Übung B1 — Bedeutung erschließen: Vorsilben raten
 
 Modellantwort:
 
-> 1. Der Sonnenschein war heute sehr stark. (Genus vom Grundwort „der Schein")
-> 2. Ich habe deine Frage beantwortet. (be- macht transitiv: eine Frage beantworten)
-> 3. Das Kind ist sehr kindlich und unschuldig. (-lich = unschuldig; kindisch = albern)
-> 4. Er ist seit einem Jahr arbeitslos. (Fugen-s: Arbeit-s-los)
-> 5. Das Eigentum gehört meiner Mutter. (korrekt — -tum ist neutral)
-> 6. Wir gehen jeden Tag in den Kindergarten. (Fugenelement -er-: Kind-er-garten)
-> 7. Das Glas ist zerbrochen. (zer- = in Stücke, mit sein)
-> 8. Der Lehrling lernt einen Beruf. (-ling ist maskulin)
+> 1. zerkochen — durch Kochen in Stücke / weich kochen (zer- = Trennung): Die Nudeln sind völlig zerkocht.
+> 2. entstauben — Staub entfernen (ent- = weg): Wir müssen das Regal entstauben.
+> 3. missglücken — schiefgehen, nicht gelingen (miss- = falsch): Der Kuchen ist missglückt.
+> 4. bearbeiten — an etwas arbeiten (be- = transitiv): Er bearbeitet gerade den Antrag.
+> 5. erfinden — etwas Neues schaffen (er- = Anfang): Sie hat ein neues Gerät erfunden.
+> 6. empfinden — fühlen, wahrnehmen (emp- wie ent-): Ich empfinde große Freude.
 
-## Übung B3 — Kompositum und Grundwort-Genus
-
-1 → a · 2 → b · 3 → c · 4 → a · 5 → b · 6 → c
-
-## Übung B4 — Wörter erschließen: Was bedeutet das?
+## Übung B2 — Suffixe produktiv nutzen: Verb → Nomen/Adjektiv
 
 Modellantwort:
 
-> 1. unbezahlbar = man kann es nicht bezahlen (un- = nicht, -bar = kann man).
-> 2. hoffnungslos = ohne Hoffnung (-los = ohne).
-> 3. die Unzuverlässigkeit = die Eigenschaft, nicht zuverlässig zu sein (un- dreht um, -keit macht ein feminines Nomen).
-> 4. zerstören = etwas völlig kaputtmachen (zer- = in Stücke / kaputt).
-> 5. die Krankenversicherung = eine Versicherung für den Krankheitsfall; Grundwort „die Versicherung" → die.
+> 1. lösen — die Lösung; lösbar
+> 2. entscheiden — die Entscheidung; (entscheidbar ist selten) — Hauptsache: die Entscheidung
+> 3. bezahlen — die Bezahlung; bezahlbar
+> 4. erfahren — die Erfahrung; erfahrbar
+> 5. vergleichen — der Vergleich (Suffix -ich, nicht -ung — möglich: Vergleichung, aber unüblich); vergleichbar
+> 6. tragen — die Tragung (selten) / die Last; tragbar
 
-## Übung B5 — Was passt nicht? (Wortbildung)
-
-1. ~~der Reichtum~~ — der Reichtum hat das Suffix -tum (maskuline Ausnahme); die anderen haben -heit und sind feminin.
-2. ~~beantworten~~ — beantworten hat das Präfix be- (transitiv); die anderen haben zer- (kaputt/in Stücke).
-3. ~~sinnlos~~ — sinnlos hat das Suffix -los (ohne); die anderen haben -bar (kann man tun).
-4. ~~die Wohnung~~ — die Wohnung hat -ung (feminin); die anderen haben -ling (maskulin).
-
-## Übung B6 — Präfix-Verben im Satz
-
-1. **zerbricht**  2. **entfernen**  3. **missverstanden**  4. **beantwortet**  5. **entladen**  6. **erarbeitet**
-
-## Übung B7 — Satzbau: Wortbildung erklären
-
-1. das Grundwort bestimmt den Artikel
-   _Das Grundwort bestimmt den Artikel._
-2. alle Wörter auf -keit sind feminin
-   _Alle Wörter auf -keit sind feminin._
-3. man liest lange Wörter von hinten
-   _Man liest lange Wörter von hinten._
-4. das Präfix zer- bedeutet kaputt
-   _Das Präfix zer- bedeutet kaputt._
-
-## Übung B8 — Suffixe sortieren: Nomen oder Adjektiv?
-
-**Nomen-Suffix:** **die Freiheit**, **die Möglichkeit**, **die Freundschaft**, **der Lehrling**
-**Adjektiv-Suffix:** **essbar**, **arbeitslos**, **wertvoll**, **fehlerhaft**
-
-## Übung B9 — Forenbeitrag: Mein Trick beim Vokabellernen
+## Übung B3 — Finde den Fehler: Wortbildung
 
 Modellantwort:
 
-> Hallo Lernfuchs88! Mir ging es genauso, aber ein Trick hat alles verändert:
-> Ich schlage Wörter nicht mehr nach, sondern zerlege sie in ihre Bausteine.
-> Vorne steht oft ein Präfix, in der Mitte der Stamm, hinten ein Suffix. So
-> wird aus „un-bewohn-bar" sofort klar: „man kann nicht darin wohnen". Lange
-> zusammengesetzte Wörter lese ich von hinten — das letzte Wort, das Grundwort,
-> verrät Bedeutung und Artikel. „Die Sonneneinstrahlung" ist eine Einstrahlung,
-> also „die". Probier es aus, es spart enorm viel Zeit. Viele Grüße und viel Erfolg!
+> 1. Wir haben das Problem gelöst. (zerstören = kaputt machen — nicht passend für Problem; oder: Wir haben das Problem zerlegt / analysiert).
+> 2. Sie hat eine Entscheidung getroffen. (Suffix -ung, nicht -e).
+> 3. Das ist ein bezahlbarer Preis. (korrekt!) — oder besser: Der Preis ist bezahlbar.
+> 4. Er hat die Umweltverträglichkeit geprüft. (Kompositum, Grundbegriff Verträglichkeit steht rechts, Bestimmbegriff Umwelt links).
+> 5. Das Verständnis ist gestört. (Nomen Verständnis ist neutrum: das Verständnis).
+> 6. Ich brauche eine Erlaubnis. (korrekt!) — oder: Ich brauche Erlaubnis (ohne Artikel).
+
+## Übung B4 — Kompositum: Bestimmbegriff + Grundbegriff
+
+1 → b · 2 → e · 3 → d · 4 → a · 5 → f · 6 → c
+
+## Übung B5 — Wortfamilien ergänzen
+
+1. **Entscheidung**  2. **Entscheiderinnen**  3. **Fehlentscheidung**  4. **Entscheidung**  5. **Entscheidung**  6. **Missverständnis**  7. **Verständnis**  8. **Unverständliches**
+
+## Übung B6 — Satzbau: langes Kompositum im Satz
+
+1. Die Umweltverträglichkeitsprüfung hat ergeben dass das Projekt genehmigungsfähig ist
+   _Die Umweltverträglichkeitsprüfung hat ergeben, dass das Projekt genehmigungsfähig ist_
+2. Die Verkehrswende betrifft alle Verkehrsteilnehmerinnen und Verkehrsteilnehmer
+   _Die Verkehrswende betrifft alle Verkehrsteilnehmerinnen und Verkehrsteilnehmer_
+3. Im Redaktionsteam besprechen wir die Bezahlbarkeit von Wohnraum
+   _Im Redaktionsteam besprechen wir die Bezahlbarkeit von Wohnraum_
+4. Die Entscheidungsträger im Konzern müssen jetzt handeln
+   _Die Entscheidungsträger im Konzern müssen jetzt handeln_
+
+## Übung B7 — Wortschatz: Was passt nicht zur Wortfamilie?
+
+1. ~~bearbeiten~~ — bearbeiten gehört nicht zur Wortfamilie entscheid-; die anderen drei haben denselben Stamm.
+2. ~~zerbrechen~~ — zerbrechen hat einen anderen Stamm (brechen) und gehört nicht zur Wortfamilie fahr-.
+3. ~~verschwinden~~ — verschwinden hat zwar die Vorsilbe ver-, gehört aber zur Wortfamilie schwind-, nicht zu versteh-.
+4. ~~bezahlen~~ — bezahlen ist das Verb, die anderen drei sind mit Suffix -bar abgeleitete Adjektive (bezahlbar / bezahlen hat denselben Stamm, ist aber kein Adjektiv auf -bar).
+
+## Übung B8 — Welche Vorsilbe passt?
+
+1. **c) ent-** — sich entwickeln (ent- = aus etwas heraus wachsen).
+2. **b) ent-** — entstehen (ent- = aus etwas heraus / werden).
+3. **b) miss-** — missglücken (miss- = falsch / negativ).
+4. **c) be-** — bearbeiten (be- = transitiv machen).
+5. **b) er-** — erblühen (er- = Anfangszustand).
+6. **b) zer-** — zerreißen (zer- = Trennung).
+
+## Übung B9 — E-Mail: Ein neues Wortfeld im Team einführen
+
+Modellantwort:
+
+> Sehr geehrte Frau Berger, vielen Dank für Ihre Nachricht. Gerne erkläre ich
+> die wichtigsten Begriffe: Eine **Entscheidungsträgerin** ist jemand, der
+> Entscheidungen fällt (Kompositum aus Entscheidung + Träger + -in). Die
+> **Bezahlbarkeit** von Wohnraum bedeutet schlicht: Können sich die Menschen
+> das noch leisten? (Suffix -bar + -keit). Eine **Verkehrswende** ist die
+> grundlegende Veränderung im Verkehr (Kompositum mit Fugenelement -s-).
+> Im Bericht geht es auch um die **Umweltverträglichkeit** neuer Projekte —
+> also: wie verträglich sind sie mit der Umwelt? Falls etwas **unverständlich**
+> bleibt, schreiben Sie mir gerne zurück. Für Rückfragen stehe ich Ihnen
+> gern zur Verfügung. Mit freundlichen Grüßen
 
 Selbstkorrektur:
-- [ ] Habe ich bei Nomen-Suffixen das richtige Genus benutzt (die Freiheit, der Lehrling, das Eigentum)?
-- [ ] Steht das Verb in Hauptsätzen an Position 2?
-- [ ] Habe ich mindestens ein konkretes Beispielwort mit Bedeutung genannt?
+- [ ] Habe ich die Wortteile erkennbar gelassen (Vorsilben und Suffixe, die der Adressat versteht)?
+- [ ] Habe ich die Komposita korrekt zerlegt (Grundbegriff rechts, Bestimmbegriff links)?
+- [ ] Habe ich den Stil formell gehalten (per E-Mail an eine Kollegin) und die Schlussformel benutzt?
 
 ---
 
 # Block C — Prüfungstraining
 
-## Übung C1 — Lückentext: Warum deutsche Wörter so lang werden dürfen
+## Übung C1 — Lückentext: Wie funktioniert deutsche Wortbildung? (Lesetext)
 
-1. **System**  2. **einem**  3. **letzte**  4. **Grundwort**  5. **die**  6. **was**  7. **missbrauchen**  8. **Freiheit**  9. **Bausteine**  10. **zerlegen**
+1. **unbekannte**  2. **Wortbildungssystem**  3. **Säulen**  4. **Vorsilben**  5. **Nachsilben**  6. **-ung**  7. **Adjektiven**  8. **passiver**  9. **Grundbegriff**  10. **Fugenelement**
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-1. **b) zerbrochen** — zer- = in Stücke/kaputt; „zerbrochen“ ist das richtige Präfix-Partizip.
-2. **b) beantworten** — be- macht das Verb transitiv: eine Frage beantworten.
-3. **c) feminin** — -keit ist immer feminin (die).
-4. **c) Der** — Grundwort „der Garten“ → der Kindergarten.
-5. **a) trinkbar** — -bar = man kann es tun: trinkbar (man kann es trinken).
-6. **b) arbeitslos** — -los = ohne: arbeitslos = ohne Arbeit (mit Fugen-s).
+1. **b) zer** — zer- bedeutet Trennung: zerbrechen, zerreißen, zerstören.
+2. **c) -bar** — -bar macht aus Verben Adjektive der Möglichkeit: bezahlbar, lesbar, vergleichbar.
+3. **b) die Wende** — Im Kompositum steht der Grundbegriff rechts — hier die Wende.
+4. **b) falsch / negativ** — miss- bedeutet falsch / negativ: missverstehen, Misserfolg, missachten.
+5. **c) abstraktes Nomen** — -keit macht aus Adjektiven abstrakte Nomen: Pünktlichkeit, Verträglichkeit, Nachhaltigkeit.
+6. **a) -s-** — Klimaschutz hat das Fugenelement -s-: Klima + s + Schutz.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-1. **UNBEWOHNBARKEIT**  2. **TUN**  3. **BEDEUTUNG**  4. **NOMEN**  5. **FEMININ**  6. **KLIMAVERÄNDERUNG**  7. **HINTEN**  8. **ARTIKEL**  9. **WÖRTERBUCH**  10. **BAUSTEINE**
+1. **BEDEUTUNG**  2. **ZERSTÖRT**  3. **ENTSCHEIDUNGSTRÄGER**  4. **MISVERSTÄNDNIS**  5. **BEDEUTSAM**  6. **BEZAHLBARKEIT**  7. **BESCHAFFT**  8. **MISSTRAUEN**  9. **LÖSUNG**  10. **ZERSTÖREN**
 
-## Übung C4a — Lesen Text 1 (Warum Wörter so lang werden dürfen)
+## Übung C4a — Lesen Text 1 (Lesetext: Wie funktioniert deutsche Wortbildung?)
 
-1. **R** — „Doch dahinter steckt kein Chaos, sondern ein klares System".
-2. **F** — „Den Artikel … liefert dabei immer das letzte Wort, das Grundwort".
-3. **R** — „Aus ‚brauchen‘ wird mit der Vorsilbe ‚miss-‘ das negative ‚missbrauchen‘".
-4. **F** — „Wer diese Bausteine kennt, kann unbekannte Wörter zerlegen, statt sie nachzuschlagen".
-5. **R** — „eine Fähigkeit, die das Lesen auf B2- und C1-Niveau enorm beschleunigt".
+1. **R** — „Wer die Bausteine kennt, kann aus bekannten Wörtern unbekannte ableiten".
+2. **F** — „Das System hat drei große Säulen" (Vorsilben, Nachsilben, Komposita).
+3. **F** — zer- bedeutet „Trennung" (zerbrechen, zerreißen, zerstören). ver- bedeutet Veränderung.
+4. **R** — „-ung macht aus jedem transitiven Verb ein Nomen (lösen → Lösung)".
+5. **F** — „Der Grundbegriff steht immer rechts, der Bestimmbegriff links".
 
-## Übung C4b — Lesen Text 2 (Wortbildung im Alltag)
+## Übung C4b — Lesen Text 2 (neuer Text: Auszug aus einem Ratgeber)
 
-1. **b) Weil das Grundwort „die Begrenzung“ feminin ist.** — „Das Grundwort ist ‚die Begrenzung‘, also ist das ganze Wort feminin".
-2. **b) Ein Fugen-s.** — „Davor steht ‚Geschwindigkeit‘ mit einem Fugen-s".
-3. **a) Das Gegenteil von „laden“.** — „‚entladen‘ ist das Gegenteil von ‚laden‘".
-4. **b) Fast jedes unbekannte Wort lässt sich aus Bausteinen erschließen.** — „So lässt sich fast jedes unbekannte Wort erschließen, ohne ein Wörterbuch zu öffnen".
+1. **b) Aus Bestimmbegriff Verkehr- und Grundbegriff Wende.** — „Das Kompositum besteht aus dem Bestimmbegriff Verkehr- und dem Grundbegriff Wende".
+2. **b) Es erleichtert die Aussprache.** — Fugenelemente haben keine eigene Bedeutung, sie erleichtern die Aussprache.
+3. **a) Es macht aus dem Adjektiv bezahlbar ein abstraktes Nomen.** — „Suffix -keit (macht daraus ein Nomen)".
+4. **b) Klimaschutz.** — „Klimaschutz = Klima + Schutz" — kein Fugenelement zwischen den Teilen.
 
-## Übung C5 — Schreiben: Ein Wort erklären
+## Übung C5 — Schreiben: Ein Lexikon-Eintrag zur Wortbildung
 
 Modellantwort:
 
-> Deutsche Wörter wirken lang, aber sie sind logisch gebaut. Nehmen wir
-> „unbewohnbar": In der Mitte steckt das Verb „wohnen". Das Präfix „be-"
-> macht daraus „bewohnen", die Endung „-bar" bedeutet „man kann es tun",
-> und „un-" dreht alles um — also „man kann nicht darin wohnen". Macht man
-> daraus „die Unbewohnbarkeit", ist es mit der Endung „-keit" automatisch
-> feminin. Ein zweites Beispiel ist das Kompositum „der Arbeitsplatz". Das
-> Grundwort ist „der Platz", also ist das ganze Wort maskulin; zwischen
-> „Arbeit" und „Platz" steht das Fugenelement „-s-". Drittens „die
-> Krankenversicherung": Das Grundwort „die Versicherung" hat das Suffix
-> „-ung" und ist deshalb feminin. Wer das Grundwort findet, kennt immer
-> Genus und Grundbedeutung. So muss ich kaum noch ein Wörterbuch öffnen.
+> **Wortbildung.** Unter Wortbildung versteht man die Bildung neuer Wörter
+> aus vorhandenen Bausteinen. Im Deutschen gibt es drei große Säulen. Die
+> erste sind die **Vorsilben** (Präfixe): kleine Silben vor dem Verbstamm, die
+> die Bedeutung verändern. *Ver-* steht oft für Veränderung (*verändern,
+> verschwinden*). *Zer-* bedeutet Trennung (*zerbrechen, zerstören*).
+> *Ent-* bedeutet Entfernung (*entfernen, entstehen*). *Miss-* markiert das
+> Negative (*missverstehen, Misserfolg*). Die Vorsilben *ver-, zer-, ent-,
+> miss-, be-, er-, emp-* sind alle **untrennbar**.
+> 
+> Die zweite Säule sind die **Nachsilben** (Suffixe). *-ung* macht aus jedem
+> transitiven Verb ein Nomen (*entscheiden → Entscheidung, erfahren →
+> Erfahrung*). *-heit* und *-keit* machen aus Adjektiven abstrakte Nomen
+> (*frei → Freiheit, pünktlich → Pünktlichkeit*). *-bar* macht aus Verben
+> Adjektive mit passiver Bedeutung (*bezahlen → bezahlbar, vergleichen →
+> vergleichbar*).
+> 
+> Die dritte Säule sind die **Komposita** — zusammengesetzte Wörter. Beim
+> Kompositum steht der Grundbegriff rechts, der Bestimmbegriff links. Dazu
+> ein Beispiel: *Verkehrswende = Verkehr + Wende* (mit Fugenelement *-s-*).
+> Ein weiteres Beispiel ist *Klimaschutz* — der Schutz des Klimas. Wer diese
+> drei Säulen beherrscht, kann nicht nur unbekannte Wörter entschlüsseln,
+> sondern auch selbst präzise Komposita bilden.
 
 Selbstkorrektur:
-- [ ] Habe ich bei jedem Kompositum das Genus vom Grundwort abgeleitet?
-- [ ] Habe ich die Bedeutung der Präfixe/Suffixe richtig erklärt?
-- [ ] Habe ich mindestens ein Fugenelement korrekt benannt?
-- [ ] Sind es mindestens 8–10 Sätze?
+- [ ] Habe ich die Wortteile korrekt benutzt (Vorsilben trennbar/untrennbar, Suffixe produktiv)?
+- [ ] Habe ich bei Komposita den Grundbegriff rechts und den Bestimmbegriff links?
+- [ ] Habe ich sowohl Verben mit Vorsilbe als auch Nomen mit Suffix -ung verwendet?
+- [ ] Ist die Sprache sachlich und informativ, wie ein Lexikon-Eintrag?
 
 ---
 
@@ -228,24 +263,24 @@ Selbstkorrektur:
 
 ## Übung D1 — Gemischter Schnelltest
 
-1. **kaputt**  2. **weg**  3. **die**  4. **der**  5. **das**  6. **der**  7. **er**  8. **essen**  9. **ohne**  10. **die Freiheit**  11. **die Prüfung**  12. **lesbar**  13. **das Recyceln**  14. **be**  15. **hinten**
+1. **zer-**  2. **miss-**  3. **ent-**  4. **ver-**  5. **Nomen**  6. **Adjektiv**  7. **Adjektiv**  8. **Nomen**  9. **Schutz**  10. **Verkehr-**  11. **Verkehr**  12. **-s-**  13. **die Entscheidung**  14. **berücksichtigen**  15. **-ung**
 
 ## Übung D2 — Odd one out
 
-1. ~~der Frühling~~ — der Frühling hat -ling (maskulin); die anderen haben -heit/-keit (feminin).
-2. ~~entfernen~~ — entfernen hat das Präfix ent- (weg); die anderen haben zer- (kaputt).
-3. ~~wertvoll~~ — wertvoll hat -voll (mit viel); die anderen haben -bar (kann man tun).
-4. ~~die Möglichkeit~~ — die Möglichkeit ist kein Kompositum, sondern ein Suffix-Nomen; die anderen sind Komposita.
-5. ~~-bar~~ — -bar ist ein Adjektiv-Suffix; die anderen sind Fugenelemente.
-6. ~~beantworten~~ — beantworten hat das Präfix be-; die anderen haben miss- (falsch/negativ).
+1. ~~entfernen~~ — entfernen hat die Vorsilbe ent- (Entfernung); die anderen drei haben zer-/ver- (Trennung/Veränderung).
+2. ~~-verben~~ — -verben ist kein Wortbildungssuffix, sondern ein deutsches Wort (Plural); -ung, -heit, -keit sind produktive Suffixe.
+3. ~~lachen~~ — lachen bildet keine produktive Wortfamilie mit -ung/-bar/-er; entscheiden → Entscheidung, fahren → Fahrt, zahlen → Zahlung.
+4. ~~schön~~ — schön ist ein einfaches Adjektiv, kein Kompositum; die anderen drei sind zusammengesetzte Wörter.
+5. ~~Auto~~ — Auto ist ein einfaches Nomen ohne Suffix; die anderen drei haben -keit/-heit als Nachsilbe.
+6. ~~schreiben~~ — schreiben hat keine Vorsilbe; die anderen drei haben be-/er-/emp-.
 
-## Übung D3 — Rückblick: B2/01, B2/02, B1/12
+## Übung D3 — Rückblick: B2/01, B2/08, B1/12
 
-1. **Prüfung**  2. **Entscheidung**  3. **Genitiv**  4. **lösbar**  5. **lesbar**  6. **bezahlbar**  7. **Recyceln**  8. **Bewohnung**  9. **feminin**  10. **Verbesserung**
+1. **die Verbesserung**  2. **Genitiv**  3. **weil**  4. **wegen des Regens**  5. **eine Entscheidung treffen**  6. **bezweifeln**  7. **halten**  8. **-ung**  9. **die Nutzung**  10. **die Trennung**
 
-## Übung D4 — Selbsttest (score yourself /20)
+## Übung D4 — Selbsttest (bewerte dich /20)
 
-1. **kaputt**  2. **weg**  3. **falsch**  4. **feminin**  5. **maskulin**  6. **neutral**  7. **bar**  8. **los**  9. **voll**  10. **der**  11. **n**  12. **er**  13. **feminin**  14. **hinten**  15. **Möglichkeit**  16. **Freundschaft**  17. **Prüfung**  18. **lösbar**  19. **zer**  20. **Recyceln**
+1. **Veränderung**  2. **Trennung**  3. **Entfernung**  4. **negativ**  5. **-ung**  6. **-bar**  7. **-heit**  8. **-los**  9. **Verkehr**  10. **Schutz**  11. **Trägerin**  12. **Entscheidung**  13. **Fahrerin**  14. **entscheidend**  15. **die Entscheidung**  16. **eine Entscheidung treffen**  17. **berücksichtigen**  18. **-ung**  19. **Pünktlichkeit**  20. **Missverständnis**
 
 ---
 

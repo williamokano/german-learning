@@ -5,202 +5,227 @@ slug: wortbildung
 title: Wortbildung
 titleEn: Word Formation
 canDo:
-  - den eigenen Wortschatz systematisch erweitern statt Wort für Wort
-  - die Bedeutung unbekannter Wörter aus Stamm und Affixen erschließen
-  - Bedeutungsnuancen von Präfixen erkennen (ver-, zer-, ent-, miss-, be-, er-)
-  - mit Suffixen aus Verben und Adjektiven Nomen und Adjektive bilden
-  - Komposita zerlegen, ihr Genus bestimmen und Fugenelemente richtig setzen
+  - unbekannte Wörter systematisch erschließen (Präfix, Suffix, Kompositum)
+  - die wichtigsten Vorsilben (ver-, zer-, ent-, miss-, be-, er-, emp-) und ihre Bedeutungsnuancen unterscheiden
+  - typische Suffixe (-ung, -heit, -keit, -tion, -bar, -los, -haft, -isch) produktiv verwenden
+  - Komposita erkennen, paraphrasieren und selbst bilden
+  - Wortfamilien nutzen, um den eigenen Wortschatz schnell zu erweitern
 grammar:
-  - "Präfixe und ihre Bedeutungsnuancen (ver-, zer-, ent-, miss-, be-, er-)"
-  - "nomenbildende Suffixe (-ung, -heit/-keit, -schaft, -tum, -ling) mit Genus-Regeln"
-  - "adjektivbildende Suffixe (-bar, -lich, -ig, -isch, -los, -voll, -haft)"
-  - "Komposita: Bestimmungswort + Grundwort, Genus des Grundworts, Fugenelemente (-s-, -n-, -en-, -er-)"
+  - "Vorsilben (Präfixe): trennbar vs. untrennbar, Bedeutungsnuancen (ver-, zer-, ent-, miss-, be-, er-, emp-)"
+  - "Nachsilben (Suffixe): Nominalsuffixe (-ung, -heit, -keit, -tion, -ment, -er/-erin) und Adjektivsuffixe (-bar, -los, -haft, -isch, -iv)"
+  - "Komposita: N+N, Adj+N, V+N — Bedeutung, Bindestrich, Fugenelement"
+  - "Wortfamilien und Paraphrasierung: vom Verb zum Nomen und zurück"
 buildsOn:
-  - B2/02 (Passiversatz mit -bar · sein + zu + Infinitiv)
-  - B2/01 (Nominalisierung -ung · Nominalstil)
-  - B1/12 (Nominalisierung-Einstieg · das Recyceln)
+  - B2/01 (Nominalstil und Verbalstil · Wortbildung durch Nomen)
+  - B2/08 (Funktionsverbgefüge · Bedeutungsverschiebung zwischen Verb und Nomen)
+  - B1/12 (Nominalisierung · -ung, -heit, -keit als Nominalisierungssuffixe)
 ---
 
 # B2 · Lektion 9 — Wortbildung
 
-> **Das lernst du:** deinen Wortschatz nicht mehr Wort für Wort, sondern nach **System** zu
-> erweitern. Du lernst, wie deutsche Wörter aus Bausteinen entstehen — aus einem **Stamm**,
-> aus **Präfixen** und **Suffixen** und aus zusammengesetzten **Komposita** — und wie du
-> ein unbekanntes Wort allein aus seinen Teilen erschließt.
+> **Das lernst du:** ein neues deutsches Wort nicht mehr nur auswendig lernen,
+> sondern **systematisch entschlüsseln** — über die Vorsilbe (*ver-*, *zer-*,
+> *ent-*, *miss-*, *be-*, *er-*, *emp-*), die Nachsilbe (*-ung*, *-heit*,
+> *-keit*, *-tion*, *-bar*, *-los*, *-haft*, *-isch*) oder den Aufbau als
+> Kompositum. Wenn du die Wortbildung verstehst, kannst du aus *entscheiden*
+> sofort *Entscheidung, entscheidend, Entscheidungsträger, Entscheidungsfreude*
+> ableiten — und beim Lesen unbekannter Texte erraten, was *Entscheidungsfreude*
+> bedeutet, ohne jemals dieses Wort gelernt zu haben.
 >
-> **Grammatik:** **Präfixe** und ihre Bedeutungsnuancen (`ver-`, `zer-`, `ent-`, `miss-`,
-> `be-`, `er-`) · **nomenbildende Suffixe** (`-ung`, `-heit/-keit`, `-schaft`, `-tum`, `-ling`)
-> mit ihren **Genus-Regeln** · **adjektivbildende Suffixe** (`-bar`, `-lich`, `-ig`, `-isch`,
-> `-los`, `-voll`, `-haft`) · **Komposita** (Bestimmungswort + Grundwort, Genus des Grundworts,
-> **Fugenelemente** `-s-`, `-n-`, `-en-`, `-er-`).
+> **Grammatik:** **Vorsilben** (Präfixe) trennbar vs. untrennbar, mit den
+> Bedeutungsnuancen *ver-* (Veränderung/Abschluss), *zer-* (Trennung),
+> *ent-* (Entfernung/Umkehr), *miss-* (negative Bewertung), *be-*, *er-*,
+> *emp-* · **Nachsilben** (Suffixe) für Nomen (*-ung, -heit, -keit, -tion,
+> -ment, -er/-erin*) und Adjektive (*-bar, -los, -haft, -isch, -iv*) ·
+> **Komposita** (N+N, Adj+N, V+N) mit Fugenelement · **Wortfamilien** als
+> Schlüssel zum schnellen Erschließen.
 >
-> **Builds on:** B2/02 (Passiversatz mit `-bar` · `sein + zu + Infinitiv`), B2/01 (Nominalisierung
-> `-ung` · Nominalstil), B1/12 (Nominalisierung-Einstieg · *das Recyceln*).
+> **Builds on:** B2/01 (Nominalstil und Verbalstil), B2/08 (Funktionsverbgefüge ·
+> Nomen trägt die Bedeutung), B1/12 (Nominalisierung mit *-ung, -heit, -keit*).
 
 ---
 
 ## 1. Dialoge
 
-### Dialog A: Ein schwerer Text (informell — du, 2 Personen)
+### Dialog A: Im Deutschkurs — Anna und Bruno knobeln an langen Wörtern (informell — du, 2 Personen)
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-> **Anna:** Bruno, ich lese hier einen Artikel und stolpere über jedes zweite Wort. Was bedeutet „unverwüstlich"? Das steht in keinem meiner Wörterbücher.  
-> **Bruno:** Dann zerleg es doch einfach. Nimm das Wort auseinander: „un-" heißt nicht, „-lich" macht ein Adjektiv, und in der Mitte steckt „verwüsten" — etwas zerstören. Also: etwas, das man nicht zerstören kann.  
-> **Anna:** Stimmt! Unkaputtbar sozusagen. Aber wie soll ich das raten, wenn ich das Wort noch nie gesehen habe?  
-> **Bruno:** Du musst nur die Bausteine kennen. Präfix, Stamm, Suffix. „ver-" zum Beispiel bedeutet oft „falsch" oder „kaputt" — denk an „sich verlaufen" oder „das Essen versalzen".  
-> **Anna:** Ach so, deshalb heißt „zerbrechen" kaputtmachen — das „zer-" macht das schon klar.  
-> **Bruno:** Genau. Und „entladen" ist das Gegenteil von „laden". „ent-" heißt „weg" oder „Gegenteil". Wenn du diese fünf, sechs Präfixe kennst, verstehst du Hunderte neue Wörter von allein.  
-> **Anna:** Und bei den langen zusammengesetzten Wörtern? „Die Sonneneinstrahlung" — da weiß ich nie, wo ich anfangen soll.  
-> **Bruno:** Lies von hinten. Das letzte Wort ist das wichtigste, das Grundwort. „die Einstrahlung" — alles davor beschreibt es nur genauer. Und das letzte Wort bestimmt auch den Artikel.  
-> **Anna:** Also „der Sonnenschein" ist „der", weil „der Schein" „der" ist, egal dass „die Sonne" vorne steht?  
-> **Bruno:** Ganz genau. Das Grundwort gewinnt immer. Du musst nur lesen lernen, nicht jedes Wort einzeln auswendig lernen.  
-> **Anna:** Das beruhigt mich tatsächlich. Dann ist Deutsch eigentlich ein großes Baukastensystem.  
+> **Anna:** Bruno, ich lese gerade einen Zeitungsartikel und ständig kommen mir Wörter vor, die ich nie gelernt habe. *Entscheidungsträger, Wirtschaftswachstum, Umweltverträglichkeit* — das klingt, als wäre Deutsch eine Geheimsprache.  
+> **Bruno:** Lach nicht — das sind alles Wörter, die man **zusammensetzt** oder **ableitet**. Wenn du weißt, wie Wortbildung funktioniert, kannst du die Hälfte erraten.  
+> **Anna:** Wie meinst du das?  
+> **Bruno:** Nimm *Entscheidungsträger*. Das ist ein **Kompositum**: *Entscheidung* + *Träger* = jemand, der eine Entscheidung trägt, also fällt.  
+> **Anna:** Okay, das leuchtet ein. Und *Wirtschaftswachstum*?  
+> **Bruno:** *Wirtschaft* + *Wachstum* — das Wachstum der Wirtschaft. Beim Kompositum steht der **Grundbegriff** immer rechts, der **Bestimmbegriff** links.  
+> **Anna:** Und *Umweltverträglichkeit*? Das klingt nach drei Wörtern in einem.  
+> **Bruno:** Genau. *Umwelt* + *Verträglichkeit*. Und *Verträglichkeit* ist ein abgeleitetes Wort: vom Verb *vertragen* kommt mit der Nachsilbe *-keit* das Nomen *Verträglichkeit* — und das bedeutet hier „verträglich mit der Umwelt".  
+> **Anna:** Also: Kompositum, Fugenelement, Suffix … das ist ja ein richtiges Baukastensystem.  
+> **Bruno:** Eben. Und bei den Vorsilben lohnt es sich auch, hinzuschauen. *Vertragen* — *ver-* heißt hier „eine Veränderung", *tragen* ist das Verb. *Verträglich* ist dann das Adjektiv mit *-ig*, und *Verträglichkeit* mit *-keit*. Eine ganze **Wortfamilie**!  
+> **Anna:** Gibt es so ein Baukastensystem auch für Wörter, die man **nicht** verwechseln darf?  
+> **Bruno:** Klar. *Erlauben* und *verlauben* — beides gibt es, aber *er-* heißt „anfangen" (*erblühen, erwachen*), *ver-* heißt oft „umkehren" (*sich verlaufen, verbieten*). Wer das nicht unterscheidet, schreibt *erlauben* statt *erlauben* und meint etwas völlig anderes.  
+> **Anna:** Okay, ich fange heute Abend mit *Missverständnis* an — *miss-* + *Verständnis* = ein falsches Verstehen. Logisch!  
+> **Bruno:** Siehst du. Wortbildung ist wie ein Code, den man einmal knacken muss.
 
-### Dialog B: Eine Formulierung im Bericht (formell — Sie, 2 Personen)
+### Dialog B: Im Redaktionsteam — Frau Yilmaz und Herr Steinmeyer über Leserbriefe (formell — Sie, 2 Personen)
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-> **Frau Yilmaz:** Herr Steinmeyer, eine Frage zu Ihrem Bericht. Sie schreiben hier „die Verbesserung der Zusammenarbeit". Ist das so gewollt?  
-> **Herr Steinmeyer:** Ja, durchaus. „verbessern" mit der Endung „-ung" wird zur „Verbesserung" — und „die Zusammenarbeit" ist mir lieber als „die Kooperation". Das wirkt deutscher und klarer.  
-> **Frau Yilmaz:** Einverstanden. Mir ist nur aufgefallen, dass Sie an einer Stelle „die Unzuverlässigkeit des Lieferanten" schreiben. Das ist ein ziemlich langes Wort.  
-> **Herr Steinmeyer:** Das stimmt, aber es ist sauber gebaut: „verlassen" wird zu „zuverlässig", daraus „die Zuverlässigkeit" mit „-keit", und „un-" dreht die Bedeutung um. Jeder Baustein hat seine Funktion.  
-> **Frau Yilmaz:** Da haben Sie recht. Und das Genus stimmt auch — alle Wörter auf „-heit" und „-keit" sind feminin.  
-> **Herr Steinmeyer:** Genau darauf habe ich geachtet. „-ung", „-heit", „-keit", „-schaft" — immer „die". Bei „-tum" wäre es „das", wie in „das Eigentum".  
-> **Frau Yilmaz:** Sehr gut. Eine letzte Stelle noch: „die Mannschaftsleistung". Hier steht ein „s" zwischen den beiden Teilen. Ist das richtig?  
-> **Herr Steinmeyer:** Ja, das ist ein Fugenelement. „die Mannschaft" plus „die Leistung" ergibt „die Mannschaft-s-leistung". Das „s" macht das Wort nur leichter aussprechbar; die Bedeutung ändert es nicht.  
-> **Frau Yilmaz:** Wunderbar. Dann ist der Bericht sprachlich einwandfrei. Vielen Dank für Ihre sorgfältige Arbeit.  
-> **Herr Steinmeyer:** Sehr gern. Wortbildung ist halb Logik, halb Gewohnheit — man muss nur die Regeln kennen.  
+> **Frau Yilmaz:** Herr Steinmeyer, in den letzten Wochen erreichen uns immer mehr Leserbriefe zum Thema *Verkehrswende*. Können wir das in der nächsten Ausgabe aufgreifen?  
+> **Herr Steinmeyer:** Grundsätzlich ja. Allerdings sollten wir die **Vorsilben** sauber trennen. Viele Leser verwechseln *umleitbar* und *unleugbar* — und das ist ein himmelweiter Unterschied.  
+> **Frau Yilmaz:** Sie meinen die Vorsilbe *um-* versus *un-*?  
+> **Herr Steinmeyer:** Genau. *Umleitbar* bedeutet „kann umgeleitet werden" — das ist eine **mögliche** Maßnahme. *Unleugbar* bedeutet „kann nicht geleugnet werden" — das ist eine **sichere** Tatsache. *Um-* und *un-* sind semantisch völlig verschieden.  
+> **Frau Yilmaz:** Verstanden. Wie sieht es mit der **Nachsilbe** *-barkeit* aus? Im Wirtschaftsteil wird sie geradezu inflationär verwendet: *Bezahlbarkeit, Erreichbarkeit, Vergleichbarkeit* …  
+> **Herr Steinmeyer:** Das ist der typische Fachjargon. *Bezahlbarkeit* von Wohnraum — das meint schlicht: Können sich die Menschen das noch leisten? *-bar* macht aus einem Verb ein Adjektiv: *bezahlen → bezahlbar*, *ertragen → unerträglich*, *vergleichen → vergleichbar*. Mit *-keit* wird daraus ein Nomen.  
+> **Frau Yilmaz:** Und die **Komposita** mit *Wende* — *Verkehrswende, Energiewende, Agrarwende* — sind alle nach demselben Muster gebaut?  
+> **Herr Steinmeyer:** Richtig. *Wende* ist hier ein **Grundbegriff** mit der Bedeutung „grundlegende Veränderung". Links steht der Bereich, in dem die Wende stattfindet. *Verkehrs-* ist ein Fugenelement, das die beiden Teile verbindet.  
+> **Frau Yilmaz:** Sehr hilfreich. Ich werde die Redaktion bitten, in Zukunft **glossarähnliche Kästen** beizufügen, sobald ein neues Kompositum auftaucht.  
+> **Herr Steinmeyer:** Eine gute Idee. Bildung von Wortfamilien — *verkehren → Verkehr → Verkehrswende → Verkehrswende-Politik* — das ist auch für unsere Stammleserinnen und -leser ein Gewinn.  
+> **Frau Yilmaz:** Einverstanden. Ich kümmere mich darum.
 
 ---
 
 ## 2. Einstieg — Was lernst du heute?
 
-Bis jetzt hast du Vokabeln meistens einzeln gelernt: ein Wort, eine Bedeutung, auswendig. Auf B2-Niveau wird das zu langsam — du triffst täglich auf Wörter, die in keinem Anfängerwörterbuch stehen. Die gute Nachricht: Du musst sie gar nicht alle kennen. Deutsch ist ein **Baukastensystem**. Fast jedes lange Wort besteht aus kleineren Teilen — einem **Stamm**, einem **Präfix** davor (*ver-*, *zer-*, *ent-*), einem **Suffix** dahinter (*-ung*, *-bar*, *-heit*) oder mehreren ganzen Wörtern, die zu einem **Kompositum** zusammenwachsen (*der Sonnenschein*, *der Kindergarten*). In dieser Lektion lernst du, diese Bausteine zu erkennen und ihre Bedeutung zu lesen. Danach erschließt du ein unbekanntes Wort wie *unverwüstlich* oder *die Sonneneinstrahlung* in Sekunden — ganz ohne Wörterbuch. Dein Wortschatz wächst dann nicht mehr Wort für Wort, sondern in ganzen Gruppen.
+Stell dir vor, du liest eine deutsche Tageszeitung und stolperst über *Entscheidungsträgerin, Umweltverträglichkeitsprüfung, Bezahlbarkeit, Missverständnis*. Vier Wörter, alle unbekannt — und doch kannst du jedes einzelne entschlüsseln, sobald du Wortbildung verstehst. Das ist das Ziel dieser Lektion. Du lernst die **Vorsilben** (*ver-*, *zer-*, *ent-*, *miss-*, *be-*, *er-*, *emp-*) mit ihren typischen Bedeutungen kennen, du erkennst **Nachsilben** (*-ung*, *-heit*, *-keit*, *-tion*, *-bar*, *-los*, *-haft*, *-isch*) und kannst aus einem Verb ein Nomen oder ein Adjektiv ableiten, und du liest **Komposita** wie ein Profi: Grundbegriff rechts, Bestimmbegriff links, dazwischen ein Fugenelement. Am Ende dieser Lektion hast du keine Angst mehr vor langen Wörtern — du **verstehst** sie, und du kannst sie selbst bilden.
 
 ---
 
 ## 3. Redemittel
 
-### Ein unbekanntes Wort erschließen
+### Vorsilben — Bedeutung erschließen
 
 | Deutsch | Funktion |
 |---|---|
-| Lass uns das Wort mal zerlegen. | ein Wort in Bausteine zerlegen |
-| In der Mitte steckt das Verb / der Stamm … | den Stamm finden |
-| Das Präfix „…" bedeutet hier … | ein Präfix deuten |
-| Die Endung „…" macht daraus ein Nomen / Adjektiv. | ein Suffix deuten |
-| Lies das lange Wort von hinten. | ein Kompositum entschlüsseln |
-| Das letzte Wort ist das Grundwort — es bestimmt den Artikel. | Genus bestimmen |
+| Das Verb hat die Vorsilbe *ver-* — es geht um eine **Veränderung**. | ver-, Bedeutung „Veränderung/Abschluss" |
+| Das Verb hat die Vorsilbe *zer-* — es geht um **Trennung**. | zer-, Bedeutung „Trennung" |
+| Das Verb hat die Vorsilbe *ent-* — es geht um **Entfernung/Umkehr**. | ent-, Bedeutung „Entfernung" |
+| Das Verb hat die Vorsilbe *miss-* — es ist **negativ/falsch**. | miss-, Bedeutung „falsch/negativ" |
+| Das Verb hat die Vorsilbe *be-* oder *er-* — es ist **transitiv/beginnend**. | be-, er-, Bedeutung „mit etwas versehen / anfangen" |
 
-### Eine Bedeutung formulieren und prüfen
+### Suffixe produktiv nutzen
 
 | Deutsch | Funktion |
 |---|---|
-| Das heißt also wörtlich „…". | eine wörtliche Bedeutung geben |
-| Mit anderen Worten bedeutet das … | umschreiben |
-| Da steckt „…" drin, also hat es mit … zu tun. | aus dem Stamm schließen |
-| Das ergibt Sinn, denn das Grundwort ist … | eine Vermutung bestätigen |
-| Ich bin nicht sicher, aber es könnte „…" heißen. | vorsichtig vermuten |
+| Verben + *-ung* → Nomen: *lösen → Lösung* | Verbalsubstantiv auf -ung |
+| Adjektive + *-heit*/*-keit* → Nomen: *frei → Freiheit* | Abstrakta auf -heit/-keit |
+| Fremdwörter + *-tion* → Nomen: *informieren → Information* | Latinisierung |
+| Verben + *-bar* → Adjektiv: *bezahlen → bezahlbar* | Möglichkeit |
+| Adjektive + *-los* → Adjektiv: *arbeitslos, sprachlos* | Negation / Fehlen |
+
+### Komposita lesen und bilden
+
+| Deutsch | Funktion |
+|---|---|
+| *Verkehrswende = Verkehr + Wende* | N+N-Kompositum, Grundbegriff rechts |
+| *Klimaschutz = Klima + Schutz* | N+N-Kompositum, kein Fugenelement nötig |
+| *Umweltverträglichkeit = Umwelt + Verträglichkeit* | N+N mit Fugenelement *-s-* |
+| *Hochgeschwindigkeitszug = Hochgeschwindigkeit + Zug* | Adj+N-Kompositum mit Fuge |
 
 ---
 
 ## 4. Wortschatz
 
-### Präfixe und ihre Bedeutung
+### Die wichtigsten Vorsilben (Präfixe)
 
-> 💡 **Lerntipp:** Lern jedes Präfix mit **einem klaren Beispielwort als Anker** — so erinnerst
-> du dich an die Bedeutung über das Beispiel. *zer-* ankerst du an *zerbrechen* (kaputt),
-> *ent-* an *entfernen* (weg). Wenn du später *zerreißen* oder *entladen* liest, ruft dein
-> Gehirn automatisch den Anker auf und die Bedeutung kommt von selbst.
+> 💡 **Lerntipp:** Lern die Vorsilben **nicht alphabetisch**, sondern nach ihrer
+> typischen Bedeutung. Wenn du *zer-* als „trennen" verstehst, dann sind
+> *zerbrechen, zerreißen, zerstören* keine Ausnahmen mehr — alle drei tragen
+> diese eine Grundbedeutung.
 
-| Präfix | Bedeutung | Beispielwort |
+| Vorsilbe | Bedeutung | Beispiele (trennbar / untrennbar) |
 |---|---|---|
-| ver- | falsch / weg / Veränderung | versalzen, sich verlaufen, verbessern |
-| zer- | kaputt, in Stücke | zerbrechen, zerreißen, zerstören |
-| ent- | weg / Gegenteil | entfernen, entladen, entkommen |
-| miss- | falsch / negativ | misstrauen, missverstehen, der Misserfolg |
-| be- | macht ein Verb transitiv | beantworten, bearbeiten, bewohnen |
-| er- | Ergebnis / Beginn | erarbeiten, erreichen, erwachen |
+| **ver-** | Veränderung, Umkehr, Abschluss (oft untrennbar) | **ver**ändern, **ver**reisen, **ver**bieten, **ver**schwinden |
+| **zer-** | Trennung, Auflösung (immer untrennbar) | **zer**brechen, **zer**reißen, **zer**stören, **zer**legen |
+| **ent-** | Entfernung, Umkehr, Wegnahme (immer untrennbar) | **ent**fernen, **ent**schuldigen, **ent**stehen, **ent**wickeln |
+| **miss-** | negativ, falsch (immer untrennbar) | **miss**verstehen, **miss**brauchen, **Miss**erfolg, **Miss**achtung |
+| **be-** | transitiv machen, mit etwas versehen (immer untrennbar) | **be**arbeiten, **be**nutzen, **be**zahlen, **be**schreiben |
+| **er-** | Anfangszustand, Ergebnis (immer untrennbar) | **er**wachen, **er**blühen, **er**lauben, **er**halten |
+| **emp-** | wie *ent-*, oft bei Wörtern mit *f-/p-* (immer untrennbar) | **emp**finden, **emp**fangen, **emp**fehlen |
+| **um-** | räumlich oder inhaltlich „anders herum" (oft trennbar) | **um**steigen, **um**ziehen, **um**leiten |
+| **un-** | Negation: das Gegenteil (untrennbar, kein Verbpräfix) | **un**möglich, **un**klar, **Un**terricht, **un**fair |
 
-### Nomenbildende Suffixe (mit Genus)
+> ⚠️ **Trennbarkeit ≠ Bedeutung.** Ob *verreisen* (trennbar) oder *verbieten*
+> (untrennbar) — beide haben die Vorsilbe *ver-*, aber die deutsche Wortbildung
+> folgt hier keinen strengen Regeln. Bei *emp-* und *ent-* ist die Vorsilbe immer
+> **untrennbar** (Betonung auf der 2. Silbe), bei *zer-* und *miss-* ebenfalls.
+> *Um-* ist meist trennbar (*umsteigen* — ich **steige** um), *un-* als
+> Vorsilbe für Adjektive ist immer **unbetont**.
 
-> 💡 **Lerntipp:** Bei diesen Suffixen kannst du das **Genus blind raten** — es ist festgelegt.
-> *-ung*, *-heit*, *-keit*, *-schaft* sind **immer feminin** (*die*); *-ling* ist **immer maskulin**
-> (*der*); *-tum* ist fast **immer neutral** (*das*). Lern nicht den Artikel zu jedem Wort,
-> sondern den Artikel zur Endung — das spart hundert Einzelfälle.
+### Wichtige Nachsilben (Suffixe)
 
-| Suffix | Genus | Beispiel |
-|---|---|---|
-| -ung | die (f) | die Hoffnung, die Bildung, die Wohnung |
-| -heit | die (f) | die Freiheit, die Krankheit, die Schönheit |
-| -keit | die (f) | die Möglichkeit, die Höflichkeit, die Tätigkeit |
-| -schaft | die (f) | die Freundschaft, die Mannschaft, die Wirtschaft |
-| -tum | das (n) | das Eigentum, das Wachstum, das Reichtum* |
-| -ling | der (m) | der Lehrling, der Frühling, der Flüchtling |
+> 💡 **Lerntipp:** Suffixe sind der schnellste Weg, deinen Wortschatz zu
+> **verdreifachen**. Wenn du weißt, dass *-ung* jedes transitive Verb in ein
+> Nomen verwandelt (*lösen → Lösung, entscheiden → Entscheidung, bezahlen →
+> Bezahlung*), kannst du ab sofort jedes neue Verb sofort nominalisieren.
 
-*⚠️ *der Reichtum* und *der Irrtum* sind die zwei maskulinen Ausnahmen bei *-tum*; alle anderen sind *das*.
+| Suffix | Wortart | Bedeutung / Funktion | Beispiele |
+|---|---|---|---|
+| **-ung** | Nomen (f.) | Verbalsubstantiv: das Ergebnis/der Vorgang | Lösung, Entscheidung, Bezahlung, Erfahrung |
+| **-heit** | Nomen (f.) | abstraktes Nomen aus Adjektiv | Freiheit, Sicherheit, Gesundheit, Schönheit |
+| **-keit** | Nomen (f.) | abstraktes Nomen aus Adjektiv (oft nach -ig/-lich) | Verträglichkeit, Nachhaltigkeit, Pünktlichkeit |
+| **-tion** | Nomen (f.) | Latinisierung (Fremdwort) | Information, Organisation, Situation, Produktion |
+| **-ment** | Nomen (n.) | Latinisierung (Fremdwort) | Dokument, Instrument, Engagement, Parlament |
+| **-er / -erin** | Nomen (m./f.) | Person, die etwas tut | Fahrer / Fahrerin, Leser / Leserin, Mitarbeiter / Mitarbeiterin |
+| **-bar** | Adjektiv | „kann … werden" (Möglichkeit) | bezahlbar, lesbar, erreichbar, vergleichbar |
+| **-los** | Adjektiv | „ohne …" (Negation/Fehlen) | arbeitslos, sprachlos, bargeldlos, fehlerlos |
+| **-haft** | Adjektiv | „in der Art von …" (Eigenschaft) | fehlerhaft, schulhaft, traumhaft, glaubhaft |
+| **-isch** | Adjektiv | Zugehörigkeit / Eigenschaft (oft negativ) | kindisch, spielerisch, egoistisch, touristisch |
+| **-iv** | Adjektiv | „in der Weise von …" (Fremdwort) | produktiv, kreativ, intensiv, informativ |
 
-### Adjektivbildende Suffixe
+### Nomen mit fester Form (Artikel + Plural)
 
-> 💡 **Lerntipp:** Diese Endungen verraten dir die Bedeutung. *-bar* = „kann man tun" (*essbar*
-> = man kann es essen, vgl. B2/02). *-los* = „ohne" (*arbeitslos* = ohne Arbeit). *-voll* =
-> „mit viel" (*wertvoll* = mit viel Wert). Wenn du ein neues Adjektiv siehst, frag dich: welche
-> Endung ist das — und welche Bedeutung trägt sie?
+| Nomen | Erklärung |
+|---|---|
+| die Vorsilbe, -n | Präfix; kommt vor dem Verbstamm |
+| die Nachsilbe, -n | Suffix; kommt nach dem Verbstamm |
+| die Endung, -en | grammatische Markierung am Wortende |
+| das Kompositum, die Komposita | zusammengesetztes Wort |
+| die Wortfamilie, -n | alle Wörter vom selben Stamm |
+| der Bestimmbegriff, -e | linkes Glied eines Kompositums (bestimmt das rechte) |
+| der Grundbegriff, -e | rechtes Glied eines Kompositums (Grundbedeutung) |
+| das Fugenelement, -e | Laut zwischen den Gliedern (*-s-, -n-, -en-, -er-*) |
+| die Verwandlung, -en | Vorgang des Veränderns |
+| die Zerstörung, -en | Vorgang / Ergebnis des Zerstörens |
+| die Entwicklung, -en | Vorgang des Entstehens / Sich-Entfaltens |
+| die Erfahrung, -en | das, was man erlebt / erlebt hat |
+| der Misserfolg, -e | fehlgeschlagener Versuch |
+| die Erlaubnis, -se | Genehmigung (zu *erlauben*) |
 
-| Suffix | Bedeutung | Beispiel |
-|---|---|---|
-| -bar | kann man … (passivfähig) | essbar, lesbar, machbar |
-| -lich | Bezug / Eigenschaft | freundlich, täglich, sprachlich |
-| -ig | Eigenschaft / Beschaffenheit | sonnig, wichtig, ruhig |
-| -isch | Herkunft / Art | typisch, kindisch, praktisch |
-| -los | ohne | arbeitslos, hoffnungslos, sinnlos |
-| -voll | mit viel | wertvoll, sinnvoll, liebevoll |
-| -haft | wie / Eigenschaft | vorbildhaft, fehlerhaft, lebhaft |
-
-### Komposita und Fugenelemente
-
-> 💡 **Lerntipp:** Ein Fugenelement (*-s-*, *-n-*, *-en-*, *-er-*) ist nur ein **Verbindungslaut**
-> zwischen zwei Wörtern — es trägt keine Bedeutung und ändert nie das Genus. Lern die typischen
-> Beispiele als Paare: *Arbeit-s-platz*, *Sonne-n-schein*, *Kind-er-garten*. Das Genus kommt
-> immer vom letzten Wort, dem Grundwort.
-
-| Kompositum | Zerlegung | Fugenelement |
-|---|---|---|
-| der Arbeitsplatz | die Arbeit + der Platz | -s- |
-| der Sonnenschein | die Sonne + der Schein | -n- |
-| der Kindergarten | das Kind + der Garten | -er- |
-| die Mannschaftsleistung | die Mannschaft + die Leistung | -s- |
-| das Familienfest | die Familie + das Fest | -n- |
-
-> ✏️ **Selbsttest Wortschatz:** Deck die rechte Spalte ab. Kannst du zu jedem Präfix die Bedeutung
-> nennen, zu jedem Suffix das Genus und zu jedem Kompositum die Zerlegung? Ziel: ≥80 % vor den Übungen.
+> ✏️ **Selbsttest Wortschatz:** Deck die rechte Spalte ab. Kannst du zu jeder
+> Vorsilbe zwei Verben und ihre Bedeutung nennen? Zu jedem Suffix zwei
+> Beispielwörter? Ziel: ≥80 % vor den Übungen.
 
 ---
 
-## 5. Mini-Geschichte — Anna baut sich Wörter
+## 5. Mini-Geschichte — Brunos Wortschatz-Offensive
 
-Lies den Text zuerst zügig für den Inhalt. Beim zweiten Lesen unterstreiche jedes Wort mit einem Präfix oder Suffix und überlege, aus welchen Bausteinen es besteht.
+Lies den Text zuerst zügig. Beim zweiten Lesen unterstreiche alle Vorsilben, alle Suffixe und alle Komposita.
 
-Anna saß im Café und las einen Artikel über das Klima. Schon im ersten Satz stand ein Wort, das sie noch nie gesehen hatte: „die Unbewohnbarkeit". Früher hätte sie sofort zum Wörterbuch gegriffen. Diesmal nicht. Sie erinnerte sich an Brunos Trick und zerlegte das Wort in seine Teile.
+Bruno hatte ein Problem. Bei der Arbeit in der IT-Beratung stolperte er jeden Tag über neue Wörter, die er nie gelernt hatte: *Verkehrswende, Entscheidungsträgerin, Bezahlbarkeit, Missverständnis*. Bei einem Treffen mit Anna gestand er: „Ich verstehe die Hälfte nicht, und im Meeting kann ich nicht ständig nachfragen."
 
-In der Mitte fand sie „wohnen". Das Präfix „be-" machte daraus „bewohnen" — etwas bewohnen, darin leben. Die Endung „-bar" bedeutete „kann man tun", also „bewohnbar" — man kann darin wohnen. Das „un-" davor drehte alles um: „unbewohnbar", man kann nicht darin wohnen. Und die Endung „-keit" machte aus dem Adjektiv ein Nomen, immer feminin: „die Unbewohnbarkeit". „Aha", dachte Anna, „die Tatsache, dass man irgendwo nicht mehr leben kann." Kein Wörterbuch nötig.
+Anna lachte. „Du machst das viel zu kompliziert. Schau dir die Wörter einfach an wie ein Puzzle." Sie nahm einen Stift und schrieb fünf Wörter auf einen Zettel: *verkehren, Verkehr, Verkehrswende, Verkehrswende-Politik, Verkehrsteilnehmerin*. „Siehst du? Das ist eine **Wortfamilie** mit einem Stamm. Wer *verkehren* und *Verkehr* kennt, versteht den Rest fast von selbst."
 
-Stolz las sie weiter. Das nächste lange Wort war „die Klimaveränderung". Sie las es von hinten: „die Veränderung" war das Grundwort, „Klima" beschrieb es nur genauer. Das Grundwort bestimmte den Artikel, also „die". Auch „die Naturkatastrophe" und „der Meeresspiegel" zerlegte sie mühelos — beim letzten half ihr sogar das Fugenelement „-es-", das „das Meer" mit „der Spiegel" verband.
+Bruno probierte es aus. *Bezahlen → bezahlbar → Bezahlbarkeit* — alles logisch. *Verstehen → Missverständnis* — *miss-* macht aus dem Verstehen ein Falsch-Verstehen. *Entscheiden → Entscheidung → Entscheidungsträgerin* — ein Kompositum aus *Entscheidung* + *Träger* + *-in*. Plötzlich fühlten sich die langen Wörter nicht mehr bedrohlich an.
 
-Am Ende des Artikels merkte Anna, dass sie kein einziges Mal nachgeschlagen hatte. „Eigentlich", dachte sie, „lese ich gar keine Wörter mehr. Ich lese Bausteine." Sie lächelte, schloss den Laptop und beschloss, Bruno von ihrem kleinen Erfolg zu erzählen.
+Am nächsten Montag im Meeting hörte Bruno den Satz: „Die Bezahlbarkeit von Wohnraum ist nicht mehr gegeben, wenn die Mieten weiter steigen." Er nickte, ohne nachzufragen. Und abends schrieb er Anna eine WhatsApp: „Dein Tipp funktioniert. Heute habe ich sogar *Verkehrswende-Politik* in einer Präsentation richtig verstanden — beim ersten Hören." Anna antwortete: „Na also. Wortbildung ist wie ein Werkzeugkasten. Werkzeuge muss man nicht erfinden — man muss nur wissen, wo sie liegen."
 
 <details>
 <summary>📝 Lese-Check — beantworte in einem Satz</summary>
 
-> **1. Warum griff Anna diesmal nicht zum Wörterbuch?**
-> *Weil sie sich an Brunos Trick erinnerte und das Wort in seine Bausteine zerlegte.*
+> **1. Was war Brunos Problem im Beruf?**
+> *Er stolperte im Meeting über unbekannte lange Wörter und konnte nicht bei jeder nachfragen.*
 >
-> **2. Was bedeutet „die Unbewohnbarkeit", und wie ist das Wort aufgebaut?**
-> *Es bedeutet, dass man irgendwo nicht leben kann — aus wohnen → bewohnen → bewohnbar → unbewohnbar → die Unbewohnbarkeit.*
+> **2. Welchen Trick erklärte Anna ihm?**
+> *Lange Wörter als Wortfamilien mit einem Stamm lesen — wer den Stamm kennt, versteht die ganze Familie.*
 >
-> **3. Wie fand Anna heraus, dass „die Klimaveränderung" feminin ist?**
-> *Sie las das Wort von hinten: Das Grundwort „die Veränderung" bestimmt den Artikel.*
+> **3. Welches Wort verstand Bruno daraufhin „beim ersten Hören"?**
+> *Verkehrswende-Politik — ein Kompositum aus Verkehr + Wende + Politik.*
+>
+> **4. Was bedeutet *-barkeit* in *Bezahlbarkeit*?**
+> *Es ist die Nachsilbe -bar (kann bezahlt werden) + -keit (macht daraus ein abstraktes Nomen) — also „die Möglichkeit, bezahlt zu werden".*
+>
+> **5. Welche Vorsilbe steckt in *Missverständnis*?**
+> *miss- (falsch/negativ) — ein Missverständnis ist ein falsches Verstehen.*
 
 </details>
 
@@ -208,271 +233,249 @@ Am Ende des Artikels merkte Anna, dass sie kein einziges Mal nachgeschlagen hatt
 
 ## 6. Grammatik
 
-### 6.1 Präfixe und ihre Bedeutungsnuancen
+### 6.1 Vorsilben (Präfixe) — die Bausteine vor dem Verb
 
-**Warum?** Ein **Präfix** steht vor dem Stamm und verändert seine Bedeutung — oft sehr stark.
-Das ist ein riesiger Hebel: Aus einem einzigen Verb wie *laden* werden mit Präfixen *aufladen*,
-*entladen*, *beladen*, *verladen* — vier verschiedene Wörter aus einem Stamm. Wenn du die
-wichtigsten Präfixe und ihre typische Bedeutung kennst, kannst du die Bedeutung neuer Wörter
-oft erraten, statt sie nachzuschlagen. Anders als im Englischen oder in romanischen Sprachen
-tragen die deutschen Präfixe dabei klare Bedeutungsfamilien: *ver-* hat oft mit „falsch", „weg"
-oder „Veränderung" zu tun, *zer-* immer mit „kaputt", *ent-* mit „weg" oder „Gegenteil". Das
-ist nicht zu 100 % zuverlässig, aber als Lesehilfe goldwert.
+**Warum?** Im Deutschen steckt die **Zusatzbedeutung** eines Verbs oft in einer kleinen Silbe **vor** dem Verbstamm. Diese Silbe heißt **Vorsilbe** oder **Präfix** (*ver-, zer-, ent-, miss-, be-, er-, emp-, um-, un-*). Wer die typische Bedeutung jeder Vorsilbe kennt, kann ein neues Verb oft **ohne Wörterbuch** verstehen. *Zerbrechen*? Man trennt (*zer-*) etwas beim Brechen — also „in Stücke brechen". *Entfernen*? Man nimmt (*ent-*) etwas von seinem Platz weg. *Missachten*? Man beachtet (*-achten*) etwas *miss-* — also falsch/gar nicht. Die Vorsilbe ist der Schlüssel zur Bedeutung. Es gibt nur ein Problem: Manche Vorsilben sind **trennbar** (*um-steigen, ver-reisen, an-kommen*), andere **untrennbar** (*ver-bieten, zer-stören, ent-fernen*). Welche trennbar ist, musst du mitlernen — aber zum Glück sind die häufigsten Vorsilben (*ver-, zer-, ent-, miss-, be-, er-, emp-*) alle **untrennbar**.
 
-**Beispiele:**
+**Beispiele (Vorsilbe + Verb + Bedeutung):**
 
-1. **ver-** (falsch): Ich habe die Suppe **versalzen** — zu viel Salz, also falsch gewürzt.
-2. **ver-** (weg / sich verirren): Wir haben uns im Wald **verlaufen**.
-3. **ver-** (Veränderung zum Besseren): Sie will ihr Deutsch **verbessern**.
-4. **zer-** (kaputt): Das Glas ist auf den Boden gefallen und **zerbrochen**.
-5. **zer-** (in Stücke): Er hat den Brief wütend **zerrissen**.
-6. **ent-** (weg): Bitte **entfernen** Sie das alte Plakat von der Wand.
-7. **ent-** (Gegenteil von laden): Wir müssen den Lkw noch **entladen**.
-8. **miss-** (falsch / negativ): Ich habe dich wohl **missverstanden**.
-9. **miss-** (Negation): Sie **misstraut** dem neuen Kollegen.
-10. **be-** (macht transitiv): Kannst du bitte meine Frage **beantworten**? (vgl. *auf eine Frage antworten*)
-11. **be-** (transitiv): Wir **bewohnen** seit zehn Jahren dieselbe Wohnung.
-12. **er-** (Ergebnis / etwas durch Mühe erreichen): Ich habe mir dieses Wissen selbst **erarbeitet**.
+1. verändern — *ver-* (= verändern) + ändern → „anders machen"
+2. verreisen — *ver-* (= Veränderung) + reisen → „eine Reise anfangen"
+3. verschwinden — *ver-* (= weg) + schwinden → „nicht mehr da sein"
+4. zerbrechen — *zer-* (= trennen) + brechen → „in Stücke brechen"
+5. zerreißen — *zer-* (= trennen) + reißen → „in Stücke reißen"
+6. zerstören — *zer-* (= trennen) + stören → „völlig kaputt machen"
+7. entfernen — *ent-* (= weg) + fern → „weg von hier tun"
+8. entschuldigen — *ent-* (= weg) + Schuld → „Schuld wegnehmen"
+9. entwickeln — *ent-* (= aus etwas heraus) + wickeln → „heraus-wickeln / entfalten"
+10. missverstehen — *miss-* (= falsch) + verstehen → „falsch verstehen"
+11. missachten — *miss-* (= falsch) + achten → „nicht beachten"
+12. bearbeiten — *be-* (= mit etwas versehen) + arbeiten → „an etwas arbeiten"
 
 > ⚠️ **Häufige Fehler**
 >
 > | ❌ Falsch | ✅ Richtig |
 > |---|---|
-> | *Ich habe deine Frage **geantwortet**.* | *Ich habe deine Frage **beantwortet**.* (*be-* macht das Verb transitiv: etwas beantworten) |
-> | *Das Glas hat **gebrochen**.* (ohne Objekt) | *Das Glas ist **zerbrochen**.* (*zer-* = in Stücke, mit *sein*) |
-> | *Ich habe dich **missverständen**.* | *Ich habe dich **missverstanden**.* (Partizip wie *verstehen → verstanden*) |
-> | *Wir müssen den Lkw **ausladen**.* (= aussortieren) | *Wir müssen den Lkw **entladen**.* (*ent-* = Gegenteil von beladen) |
+> | *Er **zerbringt** die Vase.* | *Er **zerbricht** die Vase.* (*zerbrechen* ist stark: bricht – zerbrach – zerbrochen) |
+> | *Sie **entfernt** sich von der Stadt.* | Korrekt! — aber *ent-fernen* mit Akkusativ: *Sie entfernt den Fleck.* |
+> | *Das ist **einverstanden**.* | *Das ist **einverstanden**.* (korrekt, aber: *ein-* ist hier keine eigene Vorsilbe, sondern Teil des Verbs *verstehen*.) |
+> | *Ich **verstehe** dich nicht.* | Korrekt! — aber Achtung: *verstehen* ist ein Vollverb mit eigener Bedeutung, nicht zer- oder ent-stehen. |
 
-> 💡 **Lerntipp:** Bau dir zu jedem Präfix einen **Bild-Anker**: *zer-* = ein zerbrochenes Glas,
-> *ent-* = etwas, das wegfliegt, *miss-* = ein Daumen nach unten. Wenn du ein neues Wort mit
-> diesem Präfix liest, taucht das Bild auf und die Bedeutungsrichtung ist sofort da. Du musst
-> nicht jedes Wort einzeln lernen — nur sechs Bilder.
+> 💡 **Lerntipp:** Markiere die Vorsilbe immer **farbig**, wenn du neue Verben
+> lernst. So siehst du auf einen Blick: *ver-kaufen*, *ver-zeihen*, *ver-gessen* —
+> alle *ver-*! Lerne nie nur das Verb, sondern das **Paar** *Vorsilbe + Bedeutung*.
+> Wenn du das System verstanden hast, sparst du dir 1000 Wörterbucheinträge.
 
-**Versuch es selbst.** Erschließe die Bedeutung aus dem Präfix: Was bedeuten *zerschneiden*,
-*entladen* und *missbrauchen*? Schreib zu jedem eine kurze Erklärung.
+**Versuch es selbst.** Erschließe die Bedeutung dieser Verben über die Vorsilbe: *zerkochen · entstauben · missglücken · bearbeiten · erfinden · empfinden.*
 
 <details>
 <summary>📝 Lösung</summary>
 
-> *zerschneiden* = in Stücke schneiden (*zer-* = kaputt/in Stücke). · *entladen* = die Ladung
-> wegnehmen, das Gegenteil von beladen (*ent-* = weg/Gegenteil). · *missbrauchen* = falsch
-> oder schlecht benutzen (*miss-* = falsch/negativ).
+> *zerkochen* = durch Kochen **trennen/auflösen** · *entstauben* = **Staub entfernen** · *missglücken* = **falsch/falsch** glücken (= nicht gelingen) · *bearbeiten* = an etwas **arbeiten** · *erfinden* = **anfangen zu finden** (= etwas Neues finden) · *empfinden* = **wahrnehmen** (wie *entfinden*: aus sich heraus spüren)
 
 </details>
 
-> 📌 **Merkasten — Präfixe**
-> | ver- | falsch / weg / Veränderung — *versalzen, verlaufen, verbessern* |
-> |---|---|
-> | zer- | kaputt, in Stücke — *zerbrechen, zerreißen* |
-> | ent- | weg / Gegenteil — *entfernen, entladen* |
-> | miss- | falsch / negativ — *misstrauen, missverstehen* |
-> | be- | macht transitiv — *beantworten, bewohnen* |
-> | er- | Ergebnis / Beginn — *erarbeiten, erreichen* |
+> 📌 **Merkasten — Vorsilben (Präfixe)**
+>
+> | Vorsilbe | Bedeutung | Beispiel |
+> |---|---|---|
+> | ver- | Veränderung, Abschluss | verändern, verreisen, verschwinden |
+> | zer- | Trennung | zerbrechen, zerreißen, zerstören |
+> | ent- | Entfernung, Umkehr | entfernen, entschuldigen, entwickeln |
+> | miss- | negativ, falsch | missverstehen, missachten, Misserfolg |
+> | be- | transitiv / mit etwas versehen | bearbeiten, benutzen, bezahlen |
+> | er- | Anfang, Ergebnis | erwachen, erfinden, erlauben |
+> | emp- | wie ent- (bei *f-/p-*) | empfinden, empfangen, empfehlen |
+>
+> ▶ Vorsilben tragen die Zusatzbedeutung. ▶ *ver-, zer-, ent-, miss-, be-, er-, emp-* sind **untrennbar**.
 
 ---
 
-### 6.2 Nomenbildende Suffixe und ihr Genus
+### 6.2 Nachsilben (Suffixe) — Verb zu Nomen, Verb zu Adjektiv
 
-**Warum?** Ein **Suffix** steht hinter dem Stamm und bestimmt die **Wortart** — und bei Nomen
-sehr oft auch das **Genus**. Das ist eine der besten Nachrichten überhaupt für Deutschlerner:
-Statt zu jedem Nomen den Artikel einzeln zu pauken, lernst du den Artikel zur **Endung**, und
-er gilt dann für Tausende von Wörtern. Alle Nomen auf *-ung*, *-heit*, *-keit* und *-schaft*
-sind **feminin** (*die*); das hast du bei *-ung* schon in B2/01 gesehen. Nomen auf *-ling*
-sind **maskulin** (*der*), Nomen auf *-tum* fast immer **neutral** (*das*). Die Endungen sagen
-dir oft auch die Bedeutung: *-heit/-keit* macht aus einem Adjektiv ein Abstraktum (*frei → die
-Freiheit*), *-schaft* bündelt eine Gruppe oder einen Zustand (*Freund → die Freundschaft*).
+**Warum?** Die Nachsilbe (das **Suffix**) ist das zweite große Werkzeug der Wortbildung. Sie kommt **nach** dem Verbstamm und bestimmt, welche **Wortart** entsteht. Aus einem Verb wird mit *-ung* ein Nomen (*lösen → Lösung*); mit *-bar* ein Adjektiv (*lösen → lösbar*); mit *-er* ein Personenwort (*lösen → Löser*). Aus einem Adjektiv wird mit *-heit* oder *-keit* ein abstraktes Nomen (*frei → Freiheit*, *pünktlich → Pünktlichkeit*). Die Suffixe funktionieren wie ein Baukasten: Wenn du die fünf wichtigsten (*-ung, -heit, -keit, -bar, -los*) sicher beherrschst, kannst du **tausende** neuer Wörter ableiten, ohne sie je auswendig gelernt zu haben. Bei Fremdwörtern sind *-tion* und *-ment* die lateinischen Entsprechungen zu *-ung* (*informieren → Information*).
 
-**Beispiele:**
+**Beispiele (Stamm + Suffix + neue Wortart):**
 
-1. hoffen → **die Hoffnung** (*-ung*, feminin)
-2. bilden → **die Bildung** (*-ung*, feminin)
-3. frei → **die Freiheit** (*-heit*, feminin)
-4. krank → **die Krankheit** (*-heit*, feminin)
-5. möglich → **die Möglichkeit** (*-keit*, feminin)
-6. höflich → **die Höflichkeit** (*-keit*, feminin)
-7. der Freund → **die Freundschaft** (*-schaft*, feminin)
-8. die Mannschaft, die Wirtschaft → **immer die** (*-schaft*, feminin)
-9. eigen → **das Eigentum** (*-tum*, neutral)
-10. wachsen → **das Wachstum** (*-tum*, neutral)
-11. lehren → **der Lehrling** (*-ling*, maskulin)
-12. der Flüchtling, der Frühling → **immer der** (*-ling*, maskulin)
+1. *lösen* (Verb) → *Lösung* (Nomen) — Suffix *-ung*
+2. *entscheiden* (Verb) → *Entscheidung* (Nomen) — Suffix *-ung*
+3. *bezahlen* (Verb) → *Bezahlung* (Nomen) — Suffix *-ung*
+4. *erfahren* (Verb) → *Erfahrung* (Nomen) — Suffix *-ung*
+5. *frei* (Adj.) → *Freiheit* (Nomen) — Suffix *-heit*
+6. *sicher* (Adj.) → *Sicherheit* (Nomen) — Suffix *-heit*
+7. *pünktlich* (Adj.) → *Pünktlichkeit* (Nomen) — Suffix *-keit*
+8. *bezahlen* (Verb) → *bezahlbar* (Adj.) — Suffix *-bar*
+9. *vergleichen* (Verb) → *vergleichbar* (Adj.) — Suffix *-bar*
+10. *arbeiten* (Verb) → *arbeitslos* (Adj.) — Suffix *-los*
+11. *fehlerhaft* (Adj.) — Suffix *-haft* (Eigenschaft)
+12. *informieren* (Verb) → *Information* (Nomen) — Suffix *-tion*
 
 > ⚠️ **Häufige Fehler**
 >
 > | ❌ Falsch | ✅ Richtig |
 > |---|---|
-> | *der Freiheit, das Freiheit* | *die Freiheit* (*-heit* ist immer feminin) |
-> | *die Lehrling* | *der Lehrling* (*-ling* ist immer maskulin) |
-> | *die Eigentum* | *das Eigentum* (*-tum* ist neutral) |
-> | *die Möglichheit* | *die Möglichkeit* (nach Adjektiv auf *-ig/-lich/-bar* steht *-keit*, nicht *-heit*) |
+> | *die **Löse*** | *die **Lösung*** (Suffix *-ung* macht das Nomen) |
+> | *die **Entscheide*** | *die **Entscheidung*** (Suffix *-ung* macht das Nomen) |
+> | *das **bezahlbar*** | *die **Bezahlbarkeit*** (Adj. *bezahlbar* + Suffix *-keit* = Nomen) |
+> | *die **Freiheit*** mit falscher Aussprache | *die **Freiheit*** — gesprochen *Frei-ha-it*, die Endung ist *-heit* |
 
-> 💡 **Lerntipp:** Merk dir die Genus-Regel als kurzen Spruch: **„-ung, -heit, -keit, -schaft —
-> die machen alles weiblich."** Dazu: *-ling* ist *der*, *-tum* ist *das* (außer *der Reichtum*,
-> *der Irrtum*). Und die Faustregel *-heit* vs. *-keit*: Nach *-ig*, *-lich*, *-bar* kommt fast
-> immer *-keit* (*möglich → Möglichkeit*, *fähig → Fähigkeit*), sonst *-heit* (*frei → Freiheit*).
+> 💡 **Lerntipp:** Wenn du ein neues Verb lernst, schreib dir sofort drei
+> Ableitungen daneben: (1) das Nomen auf *-ung*, (2) das Adjektiv auf *-bar*,
+> (3) die Person auf *-er*. Beispiel: *erfahren* → *Erfahrung* (Nomen),
+> *erfahrbar* (man kann es erfahren) und *Erfahrener* (eine Person mit viel
+> Erfahrung). So bekommst du **drei** Wörter gratis pro Verb.
 
-**Versuch es selbst.** Bilde Nomen mit dem passenden Suffix und gib den Artikel an: aus *gesund*,
-aus *schön*, aus *der Lehrer* (Gruppe!) und aus *früh* (Jahreszeit).
+**Versuch es selbst.** Bilde aus diesen Verben/Adjektiven je ein Nomen mit Suffix: *erlauben* → *Erlaubnis · produktiv* → *Produktiv… · verantwortlich* → *Verantwortlich…*
 
 <details>
 <summary>📝 Lösung</summary>
 
-> *die Gesundheit* (*-heit*, f) · *die Schönheit* (*-heit*, f) · *die Lehrerschaft* (*-schaft*, f) ·
-> *der Frühling* (*-ling*, m).
+> *Erlaubnis* (Suffix *-nis*, eine Sonderform) · *Produktivität* (Suffix *-ität* für Fremdwörter) · *Verantwortlichkeit* (Suffix *-keit*)
 
 </details>
 
-> 📌 **Merkasten — Nomen-Suffixe und Genus**
-> | -ung, -heit, -keit, -schaft | **die** (feminin) — die Bildung, die Freiheit, die Möglichkeit, die Freundschaft |
-> |---|---|
-> | -ling | **der** (maskulin) — der Lehrling, der Frühling |
-> | -tum | **das** (neutral) — das Eigentum, das Wachstum (Ausnahmen: *der Reichtum, der Irrtum*) |
+> 📌 **Merkasten — Die wichtigsten Suffixe**
+>
+> | Wortart | Suffix | Beispiel |
+> |---|---|---|
+> | Nomen (Verb → Nomen) | *-ung* | Lösung, Erfahrung, Bezahlung |
+> | Nomen (Adj. → Nomen) | *-heit, -keit* | Freiheit, Sicherheit, Pünktlichkeit |
+> | Nomen (Verb → Person) | *-er, -erin* | Fahrer/Fahrerin, Leser/Leserin |
+> | Adjektiv (Verb → Adj.) | *-bar* | bezahlbar, lesbar, vergleichbar |
+> | Adjektiv (Negation) | *-los* | arbeitslos, sprachlos, fehlerlos |
+> | Adjektiv (Eigenschaft) | *-haft* | fehlerhaft, glaubhaft, traumhaft |
+>
+> ▶ Suffixe bestimmen die Wortart. ▶ Sie funktionieren produktiv — du kannst sie selbst anwenden.
 
 ---
 
-### 6.3 Adjektivbildende Suffixe
+### 6.3 Komposita — zwei (oder mehr) Wörter in einem
 
-**Warum?** Genauso wie Suffixe Nomen bauen, bauen sie auch **Adjektive** — und ihre Endung
-verrät meist die **Bedeutung**. Das ist für das Erschließen unbekannter Wörter Gold wert: *-bar*
-heißt „man kann es tun" (*lesbar* = man kann es lesen — du kennst das schon als Passiversatz aus
-B2/02). *-los* heißt „ohne" (*arbeitslos* = ohne Arbeit), *-voll* heißt „mit viel" (*wertvoll* =
-mit viel Wert), *-haft* heißt „wie / mit der Eigenschaft von" (*vorbildhaft* = wie ein Vorbild).
-*-lich* und *-ig* bilden allgemeine Eigenschaften (*freundlich*, *sonnig*), *-isch* oft Herkunft
-oder Art (*typisch*, *praktisch*). Wenn du die Endung erkennst, hast du die halbe Bedeutung schon.
+**Warum?** Das Deutsche liebt lange Wörter — und das ist gut so, denn ein **Kompositum** packt zwei (oder mehr) Informationen in **ein** Wort. Statt „die Wende im Verkehr" sagen wir *Verkehrswende*. Statt „der Träger der Entscheidung" sagen wir *Entscheidungsträger*. Das ist platzsparend und informativ — und oft auch präziser, weil die Beziehung der Teile klarer wird. Beim Lesen gilt eine einfache Regel: Der **Grundbegriff** steht **rechts**, der **Bestimmbegriff** steht **links**. *Verkehrswende*: Der Grundbegriff ist *Wende* („grundlegende Veränderung"), der Bestimmbegriff ist *Verkehr-* (bestimmt die Art der Wende). Lies das Kompositum also immer **von rechts nach links**, um den Kern zu finden. Häufig steht dazwischen ein **Fugenelement** (*-s-, -n-, -en-, -er-*): *Verkehr + s + Wende*, *Umwelt + s + Verträglichkeit*, *Liebe + s + Brief*. Das Fugenelement hilft beim Sprechen und ist eine reine Aussprache-Erleichterung.
 
-**Beispiele:**
+**Beispiele (Kompositum zerlegen + Bedeutung):**
 
-1. essen → **essbar** (man kann es essen) — *-bar*, Passiversatz
-2. lesen → **lesbar** (man kann es lesen) — *-bar*
-3. der Freund → **freundlich** (mit der Eigenschaft eines Freundes) — *-lich*
-4. der Tag → **täglich** (jeden Tag) — *-lich*
-5. die Sonne → **sonnig** (mit Sonne) — *-ig*
-6. die Ruhe → **ruhig** (mit Ruhe) — *-ig*
-7. das Kind → **kindisch** (wie ein Kind, negativ) — *-isch*; aber **kindlich** = unschuldig wie ein Kind (*-lich*)
-8. die Praxis → **praktisch** (zur Praxis gehörend) — *-isch*
-9. die Arbeit → **arbeitslos** (ohne Arbeit) — *-los*
-10. die Hoffnung → **hoffnungslos** (ohne Hoffnung) — *-los*
-11. der Wert → **wertvoll** (mit viel Wert) — *-voll*
-12. der Fehler → **fehlerhaft** (mit Fehlern) — *-haft*
+1. *Verkehrswende* = **Verkehr** + *Wende* — die Wende im Verkehr
+2. *Entscheidungsträger* = **Entscheidung** + *Träger* — jemand, der Entscheidungen trifft
+3. *Umweltverträglichkeit* = **Umwelt** + *Verträglichkeit* — verträglich mit der Umwelt
+4. *Bezahlbarkeit* = **bezahlbar** + *-keit* — die Möglichkeit, bezahlt zu werden
+5. *Klimaschutz* = **Klima** + *Schutz* — der Schutz des Klimas
+6. *Hochgeschwindigkeitszug* = **Hochgeschwindigkeit** + *s* + *Zug* — Zug mit hoher Geschwindigkeit
+7. *Arbeitslosigkeit* = **arbeitslos** + *-igkeit* — der Zustand, arbeitslos zu sein
+8. *Missverständnis* = **miss-** + **Verständnis** — falsches Verstehen
+9. *Sprachwissenschaftlerin* = **Sprach** + *Wissenschaft* + *-ler* + *-in* — Frau, die Sprachen erforscht
+10. *Bundesumweltministerium* = **Bundes** + *Umwelt* + *Ministerium* — das Ministerium für Umwelt auf Bundesebene
 
 > ⚠️ **Häufige Fehler**
 >
 > | ❌ Falsch | ✅ Richtig |
 > |---|---|
-> | *Das Kind ist sehr **kindisch**.* (= albern, negativ) | *Das Kind ist sehr **kindlich**.* (= unschuldig — *-lich* ≠ *-isch*) |
-> | *ein **wertlos** Geschenk* (gemeint: wertvoll) | *ein **wertvolles** Geschenk* (*-los* = ohne, *-voll* = mit viel — Gegenteile!) |
-> | *Das Wasser ist **trinkbar nicht**.* | *Das Wasser ist **nicht trinkbar**.* (Negation vor dem Adjektiv) |
-> | *Er ist **arbeitlos**.* | *Er ist **arbeitslos**.* (Fugen-*s*: *Arbeit-s-los*) |
+> | *Verkehr Wende* (zwei Wörter) | *Verkehrswende* (zusammen, mit Fugenelement *-s-*) |
+> | *die Wende im Verkehr* — kein Fehler, aber **umständlich** | *die Verkehrswende* (Kompositum) |
+> | *Klima Schutz* | *Klimaschutz* (zusammen) |
+> | *Entscheidungsträgerin* — Vorsicht, Betonung! | *Ent**schei**dungs**trä**ge**rin* — Betonung auf *-trä-* |
 
-> 💡 **Lerntipp:** Die zwei Endungen mit der klarsten Bedeutung sind **-bar** und **-los**.
-> *-bar* = „kann man …" (denk an *machbar*, *bezahlbar*), *-los* = „ohne …" (denk an *kostenlos*,
-> *sinnlos*). Wenn du diese beiden sicher erkennst, verstehst du in jedem Sachtext sofort ein
-> Dutzend Adjektive mehr — ganz ohne Wörterbuch.
+> 💡 **Lerntipp:** Wenn du ein langes Kompositum hörst und nicht weißt, wo die
+> Teile sitzen, **klatsche** bei jedem Wortteil in die Hände: *Klima + Schutz +
+> Programm* — drei Klatscher. So findest du die Nahtstellen. Bei Unsicherheit
+> schau ins **Duden**-Onlinewörterbuch: dort sind Komposita durch
+> senkrechte Striche *|* getrennt.
 
-**Versuch es selbst.** Bilde Adjektive mit dem passenden Suffix: „etwas, das man bezahlen kann",
-„ohne Sinn", „mit viel Sinn". Erkläre jeweils kurz die Bedeutung.
+**Versuch es selbst.** Zerlege diese Komposita und erkläre die Bedeutung: *Klimaneutralität · Verkehrssicherheit · Hochgeschwindigkeitsstrecke · Wirtschaftswachstum · Bundeskanzleramt.*
 
 <details>
 <summary>📝 Lösung</summary>
 
-> *bezahlbar* (man kann es bezahlen — *-bar*) · *sinnlos* (ohne Sinn — *-los*) · *sinnvoll*
-> (mit viel Sinn, vernünftig — *-voll*).
+> *Klima + Neutralität* (Klimaneutralität = das Klima wird nicht belastet) · *Verkehr + Sicherheit* (Verkehrssicherheit = Sicherheit im Verkehr) · *Hochgeschwindigkeit + s + Strecke* (Hochgeschwindigkeitsstrecke = Strecke für hohe Geschwindigkeit) · *Wirtschaft + Wachstum* (Wirtschaftswachstum = Wachstum der Wirtschaft) · *Bundes + Kanzler + Amt* (Bundeskanzleramt = Amt des Bundeskanzlers)
 
 </details>
 
-> 📌 **Merkasten — Adjektiv-Suffixe**
-> | -bar | „kann man …" — essbar, lesbar, machbar |
-> |---|---|
-> | -lich / -ig | allgemeine Eigenschaft — freundlich, täglich · sonnig, ruhig |
-> | -isch | Herkunft / Art — typisch, praktisch (oft negativ: kindisch) |
-> | -los / -voll | ohne / mit viel — arbeitslos · wertvoll |
-> | -haft | wie / mit der Eigenschaft von — fehlerhaft, vorbildhaft |
+> 📌 **Merkasten — Komposita lesen**
+>
+> | Position | Funktion | Beispiel *Verkehrswende* |
+> |---|---|---|
+> | rechts | Grundbegriff (Grundbedeutung) | **Wende** (grundlegende Veränderung) |
+> | links | Bestimmbegriff (bestimmt die Art) | **Verkehr-** (Art der Wende) |
+> | Mitte | Fugenelement (*-s-, -n-, -en-, -er-*) | **Verkehr-s-Wende** |
+>
+> ▶ Lies Komposita **von rechts nach links**. ▶ Fugenelemente erleichtern die Aussprache, sie haben keine eigene Bedeutung.
 
 ---
 
-### 6.4 Komposita und Fugenelemente
+### 6.4 Wortfamilien — vom Verb zum Nomen und zurück
 
-**Warum?** Das Deutsche liebt **Komposita** — zusammengesetzte Wörter, in denen mehrere Nomen
-zu einem einzigen verschmelzen. Wo das Englische drei Wörter braucht (*washing machine*), schreibt
-das Deutsche eins (*die Waschmaschine*). Jedes Kompositum hat zwei Teile: das **Bestimmungswort**
-(vorne, es beschreibt genauer) und das **Grundwort** (hinten, es ist der Kern). Zwei Regeln machen
-dich sofort sicher. **Erstens:** Das **Grundwort steht hinten** und bestimmt das **Genus** — *die
-Sonne* + *der Schein* = *der Sonnenschein* (maskulin, weil *der Schein* maskulin ist). **Zweitens:**
-Oft steht zwischen den Teilen ein **Fugenelement** (*-s-*, *-n-*, *-en-*, *-er-*) — ein reiner
-Verbindungslaut ohne eigene Bedeutung, der das Wort leichter aussprechbar macht. Zum Lesen eines
-langen Kompositums gilt: **von hinten lesen**, das Grundwort zuerst.
+**Warum?** Eine **Wortfamilie** ist die ganze Schar von Wörtern, die um denselben Stamm kreisen: das Verb *fahren*, das Nomen *Fahrt*, die Person *Fahrer*, das Kompositum *Fahrkarte*, das Adjektiv *fahrbar*, das Gegenteil *unfahrbar*, die Erfahrung *Erfahrung*, die Gefahr *Gefahr*. Wer einmal den Stamm und die wichtigsten Ableitungen kennt, hat das ganze Wortfeld in der Hand. In jeder Sprache, die du lernst, lohnt es sich, **Wortfamilien statt Einzelwörter** zu lernen. In dieser Lektion festigen wir das Prinzip an drei großen Familien: *entscheiden*, *fahren* und *zahlen*. Daraus entstehen dann Komposita und abstrakte Nomen, die im Alltag und im Beruf ständig vorkommen.
 
-**Beispiele:**
+**Beispiele (drei Wortfamilien):**
 
-1. die Arbeit + der Platz → **der Arbeit-s-platz** (Genus von *der Platz*, Fuge *-s-*)
-2. die Sonne + der Schein → **der Sonne-n-schein** (Genus von *der Schein*, Fuge *-n-*)
-3. das Kind + der Garten → **der Kind-er-garten** (Genus von *der Garten*, Fuge *-er-*)
-4. die Mannschaft + die Leistung → **die Mannschaft-s-leistung** (Genus von *die Leistung*, Fuge *-s-*)
-5. die Familie + das Fest → **das Familie-n-fest** (Genus von *das Fest*, Fuge *-n-*)
-6. das Meer + der Spiegel → **der Meer-es-spiegel** (Genus von *der Spiegel*, Fuge *-es-*)
-7. der Tag + das Buch → **das Tagebuch** (Genus von *das Buch*, Fuge *-e-*)
-8. die Liebe + der Brief → **der Liebe-s-brief** (Genus von *der Brief*, Fuge *-s-*)
-9. das Haus + die Tür → **die Haustür** (Genus von *die Tür*, keine Fuge)
-10. das Wort + der Schatz → **der Wortschatz** (Genus von *der Schatz*, keine Fuge)
+| Stamm | Verb | Nomen (Person) | Nomen (Sache) | Adjektiv | Kompositum |
+|---|---|---|---|---|---|
+| **entscheid-** | entscheiden | Entscheider/Entscheiderin | Entscheidung | entscheidend | Entscheidungsträger, Entscheidungsfreude |
+| **fahr-** | fahren | Fahrer/Fahrerin | Fahrt, Fahrkarte | fahrbar, unfahrbar | Fahrschule, Erfahrung, Gefahr |
+| **zahl-** | zahlen | Zahler/Zahlerin | Zahlung, Bezahlung | bezahlbar, zahlbar | Zahlungsmittel, Bezahlbarkeit, Unbezahlbarkeit |
+
+**Mehr Beispiele (Wortfamilien produktiv nutzen):**
+
+1. *erfahren* (Verb) → *Erfahrung* (Nomen) → *erfahren* (Adj.: ein erfahrener Mitarbeiter) → *Erfahrungsbericht* (Kompositum)
+2. *erlauben* (Verb) → *Erlaubnis* (Nomen) → *erlaubt* (Partizip II) → *unerlaubt* (Adj. mit *un-*) → *unerlaubterweise* (Adverb)
+3. *verstehen* (Verb) → *Verständnis* (Nomen) → *verständlich* (Adj.) → *unverständlich* (Adj. mit *un-*) → *Missverständnis* (mit *miss-*) → *Verständnisfrage* (Kompositum)
+4. *bearbeiten* (Verb) → *Bearbeitung* (Nomen) → *bearbeitbar* (Adj.) → *unbearbeitet* (Partizip II mit *un-*) → *Bearbeitungszeit* (Kompositum)
+5. *empfinden* (Verb) → *Empfindung* (Nomen) → *empfindlich* (Adj.) → *unempfindlich* (Adj. mit *un-*) → *Empfindsamkeit* (Nomen) → *empfindungslos* (Adj. mit *-los*)
 
 > ⚠️ **Häufige Fehler**
 >
 > | ❌ Falsch | ✅ Richtig |
 > |---|---|
-> | *die Sonnenschein* (Genus vom ersten Wort) | *der Sonnenschein* (Genus vom **Grundwort** *der Schein*) |
-> | *das Arbeitsplatz* | *der Arbeitsplatz* (Genus von *der Platz*) |
-> | *der Kindgarten* (Fuge vergessen) | *der Kindergarten* (Fuge *-er-*: *Kind-er-garten*) |
-> | *die Familiefest* | *das Familienfest* (Genus von *das Fest*, Fuge *-n-*) |
+> | *eine **Erfahrung machen*** | *eine **Erfahrung machen*** (korrekt) — idiomatisch: *Erfahrung sammeln* |
+> | *die **Erlaubnis** machen* | *die **Erlaubnis** geben / erteilen / bekommen* |
+> | *ein **unverständliches** Missverständnis* (Tautologie) | *ein **ärgerliches** Missverständnis* oder *ein **unverständliches** Verhalten* |
+> | *die **bezahlbare** Wohnung* | *die **bezahlbare** Wohnung* (korrekt) — generell: *die Bezahlbarkeit von Wohnungen* |
 
-> 💡 **Lerntipp:** Bei jedem langen Wort gilt die **„Von-hinten-Regel"**: Decke alles bis auf
-> das **letzte** Wort ab — das ist das Grundwort, es liefert Bedeutung *und* Artikel. *Die
-> Donaudampfschifffahrtsgesellschaft*? Letztes Wort: *die Gesellschaft* — also *die*, und es
-> geht um eine Gesellschaft. Alles davor beschreibt sie nur genauer. Das Fugenelement zählst du
-> nicht mit; es ist nur Klebstoff.
+> 💡 **Lerntipp:** Nimm dir ein **Verbstamm-Wochen**. Such dir pro Tag eine
+> Wortfamilie (z. B. *fahren*, *sprechen*, *arbeiten*, *verstehen*, *erlauben*,
+> *empfinden*) und schreibe **acht Ableitungen** auf: das Verb, das Nomen, die
+> Person, das Adjektiv, das Gegenteil mit *un-*, das Kompositum, das
+> abgeleitete Nomen mit *-ung* und ein Beispiel mit *miss-*. Nach einer Woche
+> hast du 50 Wörter mehr — und kannst sie alle miteinander verknüpfen.
 
-**Versuch es selbst.** Setz zusammen und gib den Artikel an: *die Sonne* + *die Brille*; *das
-Land* + *die Karte*; *der Tag* + *die Zeitung* (Fugen-*s*).
+**Versuch es selbst.** Bilde aus dem Stamm *versteh-* fünf Ableitungen (Nomen, Adjektiv mit *-lich*, Negation mit *un-*, Kompositum mit *Miss-*, Verb mit Vorsilbe).
 
 <details>
 <summary>📝 Lösung</summary>
 
-> *die Sonnenbrille* (Grundwort *die Brille*, Fuge *-n-*) · *die Landkarte* (Grundwort *die
-> Karte*, keine Fuge) · *die Tageszeitung* (Grundwort *die Zeitung*, Fuge *-es-*).
+> *Verständnis* (Nomen) · *verständlich / unverständlich* (Adj.) · *Missverständnis* (Kompositum) · *Verstehen* (Verb) / auch: *sich verstehen auf* (Verb mit Vorsilbe). Bonus: *Verständnisfrage*, *verständnisvoll*, *unverständlicherweise*.
 
 </details>
 
-> 📌 **Merkasten — Komposita**
-> | Aufbau | Bestimmungswort + (Fuge) + **Grundwort** |
-> |---|---|
-> | Genus | kommt **immer vom Grundwort** (letztes Wort): *die Sonne* + *der Schein* = **der** Sonnenschein |
-> | Fugenelemente | -s- (Arbeitsplatz), -n- (Sonnenschein), -er- (Kindergarten), -es- (Meeresspiegel) — nur Verbindungslaut |
-> | Lesen | von **hinten** lesen: Grundwort zuerst |
+> 📌 **Merkasten — Wortfamilien nutzen**
+>
+> | Schritt | Aktion | Beispiel *entscheiden* |
+> |---|---|---|
+> | 1. | Stamm finden | **entscheid-** |
+> | 2. | Nomen mit *-ung* | die **Entscheidung** |
+> | 3. | Person mit *-er/-erin* | der **Entscheider** / die **Entscheiderin** |
+> | 4. | Adjektiv mit *-end* | **entscheidend** (wichtig) |
+> | 5. | Kompositum | der **Entscheidungsträger** |
+> | 6. | Negation mit *un-* | **unentscheidbar** (kann nicht entschieden werden) |
+> | 7. | Variante mit *miss-* | die **Fehlentscheidung** (kein *miss-*, sondern *Fehl-*) |
+>
+> ▶ Wortfamilien sparen Vokabelarbeit. ▶ Wer den Stamm kennt, hat das halbe Wortfeld.
 
 ---
 
-## 7. Lesetext — Warum deutsche Wörter so lang werden dürfen
+## 7. Lesetext — Wie funktioniert deutsche Wortbildung?
 
-*Lies den Text zweimal: einmal schnell für den Inhalt, einmal langsam und zerlege jedes zusammengesetzte Wort.*
+*Lies den Text zweimal: einmal schnell für den Inhalt, einmal langsam und unterstreiche alle Vorsilben, Suffixe und Komposita.*
 
-> Wer Deutsch lernt, staunt zuerst über die langen Wörter. *Die Geschwindigkeitsbegrenzung*,
-> *die Krankenversicherung*, *die Lebensmittelunverträglichkeit* — solche Ungetüme gibt es in
-> kaum einer anderen Sprache. Doch dahinter steckt kein Chaos, sondern ein klares System.
+> Wer eine neue Sprache lernt, kennt das Problem: Man stößt auf unbekannte Wörter, schlägt sie nach, vergisst sie, schlägt sie erneut nach. Bei einer **flektierenden** Sprache wie dem Deutschen gibt es jedoch einen Ausweg — das **Wortbildungssystem**. Wer die Bausteine kennt, kann aus bekannten Wörtern unbekannte ableiten und umgekehrt.
 >
-> Das Deutsche darf beliebig viele Nomen zu **einem** Wort zusammensetzen. Wo das Englische
-> drei getrennte Wörter schreibt, klebt das Deutsche sie aneinander. Das hat einen Vorteil: Die
-> Bedeutung ist präzise und das Wort ist als Einheit erkennbar. Den **Artikel** und die
-> **Grundbedeutung** liefert dabei immer das **letzte** Wort, das Grundwort. *Die
-> Krankenversicherung* ist eine Versicherung — also *die* — und alles davor sagt nur, gegen
-> was sie versichert.
+> Das System hat drei große Säulen. Die erste sind die **Vorsilben** (Präfixe): kleine Silben vor dem Verbstamm, die die Bedeutung verändern. *Ver-* steht oft für „Veränderung oder Abschluss" (*verändern, verreisen, verschwinden*). *Zer-* bedeutet „Trennung" (*zerbrechen, zerreißen, zerstören*). *Ent-* bedeutet „Entfernung" (*entfernen, entschuldigen, entwickeln*). *Miss-* markiert das Negative (*missverstehen, missachten, Misserfolg*). Wer diese vier Vorsilben sicher kennt, kann die Bedeutung vieler unbekannter Verben erraten.
 >
-> Genauso systematisch sind **Vorsilben** und **Endungen**. Aus *brauchen* wird mit der Vorsilbe
-> *miss-* das negative *missbrauchen*; aus *frei* wird mit der Endung *-heit* das Nomen *die
-> Freiheit*. Wer diese Bausteine kennt, kann unbekannte Wörter zerlegen, statt sie nachzuschlagen
-> — eine Fähigkeit, die das Lesen auf B2- und C1-Niveau enorm beschleunigt. Die langen Wörter
-> sind also keine Schikane, sondern eine **lesbare**, fast **mathematische** Logik. Man muss sie
-> nur einmal verstanden haben.
+> Die zweite Säule sind die **Nachsilben** (Suffixe). Sie bestimmen, welche Wortart aus einem Stamm entsteht. *-ung* macht aus jedem transitiven Verb ein Nomen (*lösen → Lösung, entscheiden → Entscheidung, bezahlen → Bezahlung*). *-heit* und *-keit* machen aus Adjektiven abstrakte Nomen (*frei → Freiheit, pünktlich → Pünktlichkeit*). *-bar* macht aus Verben Adjektive mit passiver Bedeutung (*bezahlen → bezahlbar, vergleichen → vergleichbar*). *-los* bildet das Gegenteil (*arbeitslos, sprachlos*).
+>
+> Die dritte Säule sind die **Komposita** — zusammengesetzte Wörter. Das Deutsche liebt sie, und sie sind oft der Schlüssel zu langen Fachbegriffen. *Verkehrswende = Verkehr + Wende*. *Entscheidungsträgerin = Entscheidung + Träger + -in*. *Klimaschutz = Klima + Schutz*. Der Grundbegriff steht immer rechts, der Bestimmbegriff links, dazwischen oft ein Fugenelement (*-s-, -n-, -en-, -er-*). Wer diese drei Säulen beherrscht, hat nicht nur Tausende neuer Wörter zur Hand, sondern kann auch selbst lange, präzise Komposita bilden.
 
-## 8. Hörtext — Eine Durchsage in der Sprachschule
+## 8. Hörtext — Annas Erklärung im Sprachkurs
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
@@ -481,13 +484,7 @@ Land* + *die Karte*; *der Tag* + *die Zeitung* (Fugen-*s*).
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
-> Achtung, eine Durchsage für alle Kursteilnehmer im zweiten Stock. Heute Nachmittag findet ein
-> Sonderworkshop zur Wortbildung statt. In diesem Workshop lernen Sie, wie Sie unbekannte Wörter
-> durch ihre Bausteine erschließen. Wir behandeln zuerst die wichtigsten Vorsilben, danach die
-> Endungen und schließlich die Zusammensetzung langer Wörter. Bitte bringen Sie ein Wörterbuch
-> mit, aber benutzen Sie es nur zur Kontrolle. Die Teilnahme ist kostenlos, eine vorherige
-> Anmeldung ist jedoch erforderlich. Bei Interesse melden Sie sich bitte bis zwölf Uhr im
-> Sekretariat. Wir wünschen Ihnen viel Freude beim Entdecken der deutschen Wortbildung.
+> Guten Morgen zusammen. Heute möchte ich euch zeigen, wie ihr **unbekannte Wörter** im Deutschen selbst entschlüsseln könnt. Das Zauberwort heißt **Wortbildung**. Schaut euch das Wort *Entscheidungsträgerin* an. Wir zerlegen es in drei Teile: *Entscheidung* kommt vom Verb *entscheiden*, mit der Nachsilbe *-ung*. *Träger* ist jemand, der etwas trägt — also hier: jemand, der eine Entscheidung fällt. Und die Endung *-in* zeigt: es ist eine Frau. Also: eine Frau, die Entscheidungen fällt. *Klimaschutz* ist noch einfacher: *Klima* + *Schutz* — der Schutz des Klimas. Und *Bezahlbarkeit* von Wohnraum: *bezahlbar* heißt „kann bezahlt werden", und *-keit* macht daraus ein Nomen. Wer diese Bausteine kennt, hat das System in der Hand. Viel Erfolg beim Üben.
 
 </details>
 
@@ -495,38 +492,32 @@ Land* + *die Karte*; *der Tag* + *die Zeitung* (Fugen-*s*).
 
 ## 9. Magazin — Landeskunde
 
-### Die längsten Wörter der Welt: deutsche Wortmonster
+### Lange Wörter und die Angst vor ihnen
 
-Kaum etwas macht Deutschlernern so viel Angst — und so viel Spaß — wie die berühmten langen
-deutschen Wörter. Der Klassiker war jahrelang die *Donaudampfschifffahrtsgesellschaftskapitänsmütze*
-(die Mütze des Kapitäns einer Gesellschaft für die Dampfschifffahrt auf der Donau). Bis 2013
-gab es sogar das *Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz* als echtes
-Verwaltungswort — dann schaffte man das Gesetz ab, und das Wort verschwand mit ihm.
+Kaum etwas wird in Internetforen so gern zitiert wie das angeblich längste deutsche Wort — *Donaudampfschifffahrtsgesellschaftskapitän*, *Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz* oder das nicht mehr gültige *Grundstücksverkehrsgenehmigungszuständigkeitsübertragungsverordnung*. Solche Wörter klingen absurd, sind aber grammatisch völlig korrekt: Sie zeigen, dass die deutsche Wortbildung **systematisch** funktioniert, nicht chaotisch.
 
-> „Ein deutsches Wort kann so lang sein wie der Gedanke, den es ausdrückt" — so beschreibt es
-> der Schriftsteller Mark Twain, halb genervt, halb bewundernd.
+> *Lang ist nicht gleich schwierig. Wer die Teile kennt, versteht auch das längste Wort.*
 
-Das Geheimnis bleibt dasselbe: Lies von hinten. Das letzte Wort sagt dir, worum es geht, der
-Rest beschreibt es nur. Kein Wortmonster ist wirklich unbesiegbar — man muss es nur zerlegen.
+In der Praxis sind solche Monsterwörter selten. Was aber **täglich** vorkommt, sind Drei- bis Fünf-Wort-Komposita wie *Umweltverträglichkeitsprüfung*, *Verkehrswende-Politik* oder *Entscheidungsträgerin*. Wer die Wortbildungsregeln kennt, liest sie flüssig — wer sie nicht kennt, gibt frustriert auf. Mein Tipp: Beim ersten Lesen eines langen Wortes nicht im Wörterbuch nachschlagen, sondern zuerst die Teile suchen. *Klima + schutz + programm* — drei Teile, klare Bedeutung. Das spart Zeit und macht mutig.
 
 ---
 
 ## 10. Lernstrategie
 
 ### Tag 1 (30 min) — Erstkontakt
-- Dialog A und B (§1) laut lesen — markiere jedes Wort mit Präfix oder Suffix
-- Wortschatz §4 (Präfixe, Suffixe, Komposita) mit verdeckter Spalte testen
+- Dialog A und B (§1) laut lesen — unterstreiche jede Vorsilbe (*ver-, zer-, ent-, miss-*) und jedes Suffix (*-ung, -keit, -bar, -los*)
+- Wortschatz §4 (Vorsilben + Suffixe) mit verdeckter Bedeutung testen
 - Mini-Geschichte §5 lesen und den Lese-Check beantworten
 
 ### Tag 2 (30 min) — Vertiefung
-- Grammatik §6.1 und §6.2: zu jedem Präfix ein neues Beispielwort suchen; zu fünf Adjektiven das Nomen mit -heit/-keit bilden
-- Die Genus-Regel der Suffixe auswendig lernen („-ung, -heit, -keit, -schaft → die") und je ein Beispiel pro Endung notieren
+- Grammatik §6.1 und §6.2: zu jeder Vorsilbe drei Verben nennen, zu jedem Suffix je zwei Beispielwörter finden
+- Drei Wortfamilien schriftlich ausarbeiten (z. B. *entscheiden*, *fahren*, *verstehen*): Stamm, Nomen, Adjektiv, Kompositum, Negation
 - *Versuch es selbst* in §6.1, §6.2 und §6.3 schriftlich machen
 
 ### Tag 3 (30 min) — Prüfungsvorbereitung
-- Grammatik §6.4: zehn lange Komposita „von hinten" lesen, Grundwort und Genus bestimmen, Fugenelement markieren
-- Hörtext §8 hören, jedes gebildete Wort heraushören, dann mit dem Transkript prüfen
-- Such einen echten Zeitungsartikel und zerlege fünf unbekannte Wörter in ihre Bausteine; danach Block C in `exercises.md`
+- Grammatik §6.3 und §6.4: fünf Komposita aus der Zeitung heraussuchen, zerlegen und erklären
+- Hörtext §8 hören, jede Vorsilbe und jedes Suffix heraushören, dann mit dem Transkript prüfen
+- Eine echte Zeitungsseite (z. B. taz, FAZ) aufschlagen, zehn unbekannte Wörter über Wortbildung erschließen — danach Block C in `exercises.md`
 
 ---
 
