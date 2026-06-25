@@ -248,7 +248,7 @@ Am Freitag, dem vierzehnten Mai, bringt Bruno das Geschenk zu Anna. Er läutet u
 1. *Der **erste** Januar ist Neujahr.*
 2. *Weihnachten ist am **fünfundzwanzigsten** Dezember.*
 3. *Annas Geburtstag ist am **dreizehnten** Mai.*
-4. *Die Party ist am **vierzehnten** — nein, am **fünfzehnten** Mai.*
+4. *Die Party ist am **fünfzehnten** Mai.*
 5. *Heute ist Mittwoch, der **achtzehnte** Oktober.*
 6. *Ich komme am **zweiten** März.*
 7. *Der Termin ist am **dritten** Juli um zehn Uhr.*

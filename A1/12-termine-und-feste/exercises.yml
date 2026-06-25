@@ -436,7 +436,7 @@ exercises:
     listLayout: true
     title: "Dialog ergänzen: Arzttermin (formal)"
     text: |
-      — Guten Tag, Praxis Dr. Bauer. Was kann ich für {1} tun?
+      — Guten Tag, Praxis Dr. Hoffmann. Was kann ich für {1} tun?
       — Ich möchte {2} einen Termin.
       — Gern. Passt {3} Donnerstag, der vierte März?
       — Um {4} Uhr?
@@ -746,7 +746,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1"
-    instructions: 'Read the Lesetext in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    instructions: 'Read the Lesetext in lesson.md, section 7. Richtig (R) oder falsch (F)?'
     items:
       - q: "Anna hat am Samstag, dem siebzehnten Juni, Geburtstag."
         answer: true
