@@ -33,11 +33,11 @@ After each lesson, if I learn anything new, update the skill and write a
 | 04 | A1/04-wohnen | [x] done | (dialog drift: \* escape) |
 | 05 | A1/05-mein-tag | [x] clean (no fixes — gen pass; duplicate "gehe" in C1 bank is intentional for 2 gaps) | — |
 | 06 | A1/06-freizeit-und-hobbys | [x] clean (no fixes — gen pass) | — |
-| 07 | A1/07-lernen-und-arbeiten | [ ] pending | — |
-| 08 | A1/08-unterwegs-in-der-stadt | [ ] pending | — |
-| 09 | A1/09-einkaufen-und-kleidung | [ ] pending | — |
-| 10 | A1/10-gesundheit-und-koerper | [x] done | (dialog drift: \* escape) |
-| 11 | A1/11-vergangenheit | [ ] pending | — |
-| 12 | A1/12-termine-und-feste | [ ] pending | — |
-| 13 | A1/13-aemter-telefon-alltag | [ ] pending | — |
-| 14 | A1/14-pruefungstraining-a1 | [ ] pending | — |
+| 07 | A1/07-lernen-und-arbeiten | [x] clean (no fixes — gen pass) | — |
+| 08 | A1/08-unterwegs-in-der-stadt | [x] clean (no fixes — gen pass) | — |
+| 09 | A1/09-einkaufen-und-kleidung | [x] clean (no fixes — gen pass; C3 GEFÄLLT/PASST/STEHT cross-gap ambiguity, acceptable for A1) | — |
+| 10 | A1/10-gesundheit-und-koerper | [x] done | 2471c23 (dialog drift: \* escape) |
+| 11 | A1/11-vergangenheit | [x] clean (no fixes — gen pass) | — |
+| 12 | A1/12-termine-und-feste | [x] clean (no fixes — gen pass) | — |
+| 13 | A1/13-aemter-telefon-alltag | [x] clean (no fixes — gen pass) | — |
+| 14 | A1/14-pruefungstraining-a1 | [x] clean (no fixes — gen pass; drift is intentional: Short = grammar review, Full = + dialog) | — |
