@@ -202,8 +202,16 @@ exercises:
     block: exam
     type: single-choice
     title: "Aufgabe 5 — Kurze Texte: Carlos Fernández"
-    instructions: "Lesen Sie den Text und wählen Sie die richtige Antwort (a, b oder c)."
-    instructionsEn: "Read the text and choose the correct answer (a, b, or c)."
+    instructions: |
+      Lesen Sie den Text und wählen Sie die richtige Antwort (a, b oder c).
+
+      > **Carlos Fernández — Vorstellung**
+      > Hallo, mein Name ist Carlos Fernández. Ich komme aus Mexiko, aus Guadalajara. Ich bin verheiratet und habe zwei Kinder. Ich arbeite als Koch in einem Restaurant in Hamburg. Ich habe am Montag und am Dienstag frei. Montags um 9 Uhr habe ich meinen Deutschkurs. Meine Frau und meine Kinder sind noch in Mexiko.
+    instructionsEn: |
+      Read the text and choose the correct answer (a, b, or c).
+
+      > **Carlos Fernández — Vorstellung**
+      > Hello, my name is Carlos Fernández. I come from Mexico, from Guadalajara. I am married and have two children. I work as a cook in a restaurant in Hamburg. I have Mondays and Tuesdays off. On Mondays at 9 o'clock I have my German course. My wife and my children are still in Mexico.
     items:
       - q: "Woher kommt Carlos?"
         options:
@@ -245,8 +253,30 @@ exercises:
     block: exam
     type: true-false
     title: "Aufgabe 6 — Formular lesen: Yuki Tanaka"
-    instructions: "Lesen Sie das Anmeldeformular und entscheiden Sie: richtig (R) oder falsch (F)?"
-    instructionsEn: "Read the registration form and decide: true (R) or false (F)?"
+    instructions: |
+      Lesen Sie das Anmeldeformular und entscheiden Sie: richtig (R) oder falsch (F)?
+
+      > **Sprachschule Berlin-Mitte — Anmeldeformular**
+      > Vorname: Yuki
+      > Nachname: Tanaka
+      > Geburtsdatum: 14. März 1995
+      > Geburtsort: Osaka, Japan
+      > Wohnort: Berlin, Friedrichstraße 22
+      > E-Mail: yuki.tanaka@mail.de
+      > Kursbeginn: 5. September 2026
+      > Kurs: Deutsch A1.2 (Vormittag)
+    instructionsEn: |
+      Read the registration form and decide: true (R) or false (F)?
+
+      > **Sprachschule Berlin-Mitte — Anmeldeformular**
+      > First name: Yuki
+      > Last name: Tanaka
+      > Date of birth: 14 March 1995
+      > Place of birth: Osaka, Japan
+      > Place of residence: Berlin, Friedrichstraße 22
+      > E-mail: yuki.tanaka@mail.de
+      > Course start: 5 September 2026
+      > Course: German A1.2 (morning)
     items:
       - q: "Yuki Tanaka kommt aus Korea."
         answer: false
@@ -268,8 +298,22 @@ exercises:
     block: exam
     type: matching
     title: "Aufgabe 7 — Nachrichten lesen"
-    instructions: "Wer hat welche Nachricht geschrieben? Ordnen Sie zu (Lisa · Marco · Selin)."
-    instructionsEn: "Who wrote which message? Match them (Lisa · Marco · Selin)."
+    instructions: |
+      Lesen Sie die drei Nachrichten. Welche Nachricht passt zu welcher Frage? Ordnen Sie zu (Lisa · Marco · Selin).
+
+      > **Lisa (17:42):** Hallo Anna! Ich kann heute leider nicht zum Sport kommen — ich habe Kopfschmerzen und bleibe zu Hause. Bis morgen!
+      >
+      > **Marco (18:05):** Hi Anna, ich gehe am Samstag gern einkaufen. Hast du Zeit? Wir können zusammen in die Stadt fahren. Treffen wir uns um 10 Uhr am Bahnhof?
+      >
+      > **Selin (19:20):** Liebe Anna, ich habe eine tolle Neuigkeit: Mein Bruder hat letzte Woche ein Baby bekommen! Es heißt Mia. Kommst du am Sonntag zu Besuch?
+    instructionsEn: |
+      Read the three messages. Which message matches which question? Match them (Lisa · Marco · Selin).
+
+      > **Lisa (17:42):** Hi Anna! I can't come to sports today — I have a headache and I'm staying home. See you tomorrow!
+      >
+      > **Marco (18:05):** Hi Anna, I'd like to go shopping on Saturday. Do you have time? We could go to the city together. Shall we meet at 10 at the station?
+      >
+      > **Selin (19:20):** Dear Anna, I have great news: my brother had a baby last week! Her name is Mia. Can you come visit on Sunday?
     left:
       - key: "1"
         text: "Wer hat gerade ein Baby bekommen?"

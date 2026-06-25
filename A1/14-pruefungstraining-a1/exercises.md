@@ -62,6 +62,10 @@ Welche Anzeige (A–E) passt zu welcher Situation (1–5)? Ordnen Sie zu.
 
 Lesen Sie den Text und wählen Sie die richtige Antwort (a, b oder c).
 
+> **Carlos Fernández — Vorstellung**
+> Hallo, mein Name ist Carlos Fernández. Ich komme aus Mexiko, aus Guadalajara. Ich bin verheiratet und habe zwei Kinder. Ich arbeite als Koch in einem Restaurant in Hamburg. Ich habe am Montag und am Dienstag frei. Montags um 9 Uhr habe ich meinen Deutschkurs. Meine Frau und meine Kinder sind noch in Mexiko.
+
+
 1. Woher kommt Carlos?  a) Aus Hamburg  b) Aus Mexiko  c) Aus Spanien
 2. Was ist Carlos von Beruf?  a) Lehrer  b) Arzt  c) Koch
 3. Wann hat Carlos frei?  a) Am Montag und Dienstag  b) Am Mittwoch und Donnerstag  c) Am Samstag und Sonntag
@@ -72,6 +76,17 @@ Lesen Sie den Text und wählen Sie die richtige Antwort (a, b oder c).
 
 Lesen Sie das Anmeldeformular und entscheiden Sie: richtig (R) oder falsch (F)?
 
+> **Sprachschule Berlin-Mitte — Anmeldeformular**
+> Vorname: Yuki
+> Nachname: Tanaka
+> Geburtsdatum: 14. März 1995
+> Geburtsort: Osaka, Japan
+> Wohnort: Berlin, Friedrichstraße 22
+> E-Mail: yuki.tanaka@mail.de
+> Kursbeginn: 5. September 2026
+> Kurs: Deutsch A1.2 (Vormittag)
+
+
 1. Yuki Tanaka kommt aus Korea. ( )
 2. Sie wohnt in Berlin. ( )
 3. Sie ist am 14. März 1995 geboren. ( )
@@ -80,7 +95,14 @@ Lesen Sie das Anmeldeformular und entscheiden Sie: richtig (R) oder falsch (F)?
 
 ## Übung exam-L7 — Aufgabe 7 — Nachrichten lesen
 
-Wer hat welche Nachricht geschrieben? Ordnen Sie zu (Lisa · Marco · Selin).
+Lesen Sie die drei Nachrichten. Welche Nachricht passt zu welcher Frage? Ordnen Sie zu (Lisa · Marco · Selin).
+
+> **Lisa (17:42):** Hallo Anna! Ich kann heute leider nicht zum Sport kommen — ich habe Kopfschmerzen und bleibe zu Hause. Bis morgen!
+>
+> **Marco (18:05):** Hi Anna, ich gehe am Samstag gern einkaufen. Hast du Zeit? Wir können zusammen in die Stadt fahren. Treffen wir uns um 10 Uhr am Bahnhof?
+>
+> **Selin (19:20):** Liebe Anna, ich habe eine tolle Neuigkeit: Mein Bruder hat letzte Woche ein Baby bekommen! Es heißt Mia. Kommst du am Sonntag zu Besuch?
+
 
 | Links | | Rechts |
 |---|---|---|
