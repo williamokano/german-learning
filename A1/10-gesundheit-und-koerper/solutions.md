@@ -95,7 +95,7 @@
 
 ## Übung B3 — Finde den Fehler
 
-1. **tun**  2. **Trink**  3. ****  4. **Tagen**  5. **Nimm**  6. **Schlaft**  7. **Kopfschmerzen**  8. **schlafen**  9. **auf**  10. **dich**
+1. **tun**  2. **Trink**  3. **sollst**  4. **Tagen**  5. **Nimm**  6. **Schlaft**  7. **Kopfschmerzen**  8. **schlafen**  9. **auf**  10. **dich**
 
 ## Übung B4 — Frage und Antwort verbinden
 
@@ -107,8 +107,8 @@
    _Mein Rücken tut weh._
 2. du sollst viel trinken
    _Du sollst viel trinken._
-3. Nimm die Tabletten zweimal täglich !
-   _Nimm die Tabletten zweimal täglich!_
+3. Nimm die Tabletten dreimal täglich !
+   _Nimm die Tabletten dreimal täglich!_
 4. ich gehe morgen zum Arzt
    (auch richtig: morgen gehe ich zum Arzt)
    _Ich gehe morgen zum Arzt. / Morgen gehe ich zum Arzt._
@@ -150,7 +150,7 @@ Modellantwort:
 > 4. Nein, ich suche etwas ohne Rezept.
 > 5. Mein Rücken tut weh.
 > 6. Nein, ich bleibe zu Hause.
-> 7. Sie soll die Tabletten zweimal täglich nach dem Essen nehmen.
+> 7. Sie soll die Tabletten dreimal täglich nach dem Essen nehmen.
 > 8. Ich brauche einen Termin heute.
 
 ## Übung B9 — Beim Arzt

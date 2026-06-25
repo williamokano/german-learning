@@ -109,7 +109,7 @@ ich ______ · du ______ · er/sie/es ______ · wir ______ · ihr ______ · sie/S
 4. Ihr ______ nicht rauchen.
 5. Sie (= she) ______ schlafen.
 6. Ich ______ zum Arzt gehen.
-7. ______ du wirklich arbeiten heute?
+7. ______ du wirklich heute arbeiten?
 8. Sie (formal) ______ morgen wiederkommen.
 
 ## Übung A5 — Imperativ du-Form: bilden
@@ -234,11 +234,11 @@ Build sentences with `sollen` + infinitive at the end.
 — Guten Tag! Ich ______ etwas gegen Kopfschmerzen.
 — Haben Sie ein ______?
 — Nein, ich suche etwas ohne ______.
-— Diese ______ hier sind gut. Nehmen Sie ______ zweimal täglich.
+— Diese ______ hier sind gut. Nehmen Sie ______ dreimal täglich.
 — Darf ich sie auch bei Magenschmerzen ______?
 — Ja, aber essen Sie ______ etwas.
 — Was ______ sie?
-— Sechs Euro ______.
+— Sieben Euro ______.
 
 ## Übung B3 — Finde den Fehler
 
@@ -246,13 +246,13 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 1. Mein Füße ______ weh. (tut → ?)
 2. ______ viel Wasser, Anna! (talking to one friend) (Trinkt → ?)
-3. Du sollst nicht rauchen______. (nicht → ?)
+3. Du ______ nicht rauchen. (soll → ?)
 4. Ich habe Kopfschmerzen seit zwei ______. (Tag → ?)
 5. ______ deine Tabletten! (du-Imperativ) (Nehme → ?)
-6. ______ gut, Kinder! (ihr-Imperativ) (Schlafst → ?)
+6. ______ gut, Kinder! (ihr-Imperativ) (Schlaf → ?)
 7. Ich brauche etwas gegen ______. (Kopfschmerz → ?)
 8. Er soll ______ viel. (schläft → ?)
-9. Machen Sie den Mund auf! → Macht den Mund ______! (ihr-form) (zu → ?)
+9. Machen Sie den Mund auf! → Macht den Mund ______! (ihr-form) (auf → ?)
 10. Ich fühle mich nicht gut. → Ruh ______ aus! (to a friend) (sich → ?)
 
 ## Übung B4 — Frage und Antwort verbinden
@@ -274,7 +274,7 @@ Build correct sentences. Verb in position 2 for statements.
 
 1. weh – mein – tut – Rücken
 2. trinken – du – sollst – viel
-3. täglich – ! – Nimm – die Tabletten – zweimal
+3. täglich – ! – Nimm – die Tabletten – dreimal
 4. ich – gehe – morgen – zum Arzt
 5. Bruno – ist – krank – heute
 6. ? – Sie – Haben – ein Rezept
@@ -389,7 +389,7 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Bruno ist krank
 
-Text 1: „Bruno ist krank" in lesson.md, section 6. Bruno hat Kopfschmerzen und sein Hals ist rot. Anna sagt: „Du siehst schlecht aus! Geh zum Arzt!" Bruno hat einen Termin um 15 Uhr. Der Arzt sagt: „Bleiben Sie zu Hause, trinken Sie viel Tee, und nehmen Sie diese Tabletten." Bruno trinkt zu Hause Tee mit Honig.
+Text 1: „Bruno ist krank" in lesson.md, section 7. Bruno hat Kopfschmerzen und sein Hals ist rot. Anna sagt: „Du siehst schlecht aus! Geh zum Arzt!" Bruno hat einen Termin um 15 Uhr. Der Arzt sagt: „Bleiben Sie zu Hause, trinken Sie viel Tee, und nehmen Sie diese Tabletten." Bruno trinkt zu Hause Tee mit Honig.
 
 Richtig (R) oder falsch (F)?
 

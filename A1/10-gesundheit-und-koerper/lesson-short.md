@@ -413,7 +413,7 @@ The full set (all persons) — nominative/accusative only (to keep scope clean):
 > gerne", sagt Bruno.
 >
 > Beim Arzt sagt Doktor Müller: „Sie haben eine Erkältung. Bleiben Sie morgen zu
-> Hause. Trinken Sie viel Wasser und Tee. Nehmen Sie diese Tabletten zweimal
+> Hause. Trinken Sie viel Wasser und Tee. Nehmen Sie diese Tabletten dreimal
 > täglich nach dem Essen." Bruno geht in die Apotheke und kauft die Medizin.
 > Zu Hause trinkt er Tee mit Honig. Anna bringt ihm eine Suppe. „Danke, Anna",
 > sagt Bruno. „Gute Besserung!", sagt Anna.

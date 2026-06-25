@@ -202,7 +202,7 @@ exercises:
       4. Ihr {10} nicht rauchen.
       5. Sie (= she) {11} schlafen.
       6. Ich {12} zum Arzt gehen.
-      7. {13} du wirklich arbeiten heute?
+      7. {13} du wirklich heute arbeiten?
       8. Sie (formal) {14} morgen wiederkommen.
     answers:
       "1": soll
@@ -454,11 +454,11 @@ exercises:
       — Guten Tag! Ich {1} etwas gegen Kopfschmerzen.
       — Haben Sie ein {2}?
       — Nein, ich suche etwas ohne {3}.
-      — Diese {4} hier sind gut. Nehmen Sie {5} zweimal täglich.
+      — Diese {4} hier sind gut. Nehmen Sie {5} dreimal täglich.
       — Darf ich sie auch bei Magenschmerzen {6}?
       — Ja, aber essen Sie {7} etwas.
       — Was {8} sie?
-      — Sechs Euro {9}.
+      — Sieben Euro {9}.
     answers:
       "1": brauche
       "2": Rezept
@@ -479,18 +479,18 @@ exercises:
     text: |
       1. Mein Füße {1} weh. (tut → ?)
       2. {2} viel Wasser, Anna! (talking to one friend) (Trinkt → ?)
-      3. Du sollst nicht rauchen{3}. (nicht → ?)
+      3. Du {3} nicht rauchen. (soll → ?)
       4. Ich habe Kopfschmerzen seit zwei {4}. (Tag → ?)
       5. {5} deine Tabletten! (du-Imperativ) (Nehme → ?)
-      6. {6} gut, Kinder! (ihr-Imperativ) (Schlafst → ?)
+      6. {6} gut, Kinder! (ihr-Imperativ) (Schlaf → ?)
       7. Ich brauche etwas gegen {7}. (Kopfschmerz → ?)
       8. Er soll {8} viel. (schläft → ?)
-      9. Machen Sie den Mund auf! → Macht den Mund {9}! (ihr-form) (zu → ?)
+      9. Machen Sie den Mund auf! → Macht den Mund {9}! (ihr-form) (auf → ?)
       10. Ich fühle mich nicht gut. → Ruh {10} aus! (to a friend) (sich → ?)
     answers:
       "1": tun
       "2": Trink
-      "3": ""
+      "3": sollst
       "4": Tagen
       "5": Nimm
       "6": Schlaft
@@ -543,9 +543,9 @@ exercises:
       - tiles: [du, sollst, viel, trinken]
         answer: [0, 1, 2, 3]
         note: "Du sollst viel trinken."
-      - tiles: [die Tabletten, Nimm, täglich, zweimal, "!"]
+      - tiles: [die Tabletten, Nimm, täglich, dreimal, "!"]
         answer: [1, 0, 3, 2, 4]
-        note: "Nimm die Tabletten zweimal täglich!"
+        note: "Nimm die Tabletten dreimal täglich!"
       - tiles: [zum Arzt, ich, gehe, morgen]
         answer: [1, 2, 3, 0]
         alt:
@@ -638,7 +638,7 @@ exercises:
       4. Nein, ich suche etwas ohne Rezept.
       5. Mein Rücken tut weh.
       6. Nein, ich bleibe zu Hause.
-      7. Sie soll die Tabletten zweimal täglich nach dem Essen nehmen.
+      7. Sie soll die Tabletten dreimal täglich nach dem Essen nehmen.
       8. Ich brauche einen Termin heute.
 
   - id: B9
@@ -806,7 +806,7 @@ exercises:
     type: true-false
     title: "Lesen Text 1 — Bruno ist krank"
     instructions: |-
-      Text 1: „Bruno ist krank" in lesson.md, section 6. Bruno hat Kopfschmerzen und sein Hals ist rot. Anna sagt: „Du siehst schlecht aus! Geh zum Arzt!" Bruno hat einen Termin um 15 Uhr. Der Arzt sagt: „Bleiben Sie zu Hause, trinken Sie viel Tee, und nehmen Sie diese Tabletten." Bruno trinkt zu Hause Tee mit Honig.
+      Text 1: „Bruno ist krank" in lesson.md, section 7. Bruno hat Kopfschmerzen und sein Hals ist rot. Anna sagt: „Du siehst schlecht aus! Geh zum Arzt!" Bruno hat einen Termin um 15 Uhr. Der Arzt sagt: „Bleiben Sie zu Hause, trinken Sie viel Tee, und nehmen Sie diese Tabletten." Bruno trinkt zu Hause Tee mit Honig.
 
       Richtig (R) oder falsch (F)?
     items:
