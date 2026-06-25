@@ -386,7 +386,7 @@ exercises:
       "3": werde
       "4": müsse
       "5": wolle
-      "6": sollen
+      "6": sollten
 
   - id: A11
     block: A
@@ -447,7 +447,7 @@ exercises:
       3. Der Lieferant werde die Frist verkürzen.
       4. Die Abteilung müsse die Kosten senken.
       5. Die Geschäftsführung wolle expandieren.
-      6. Die Mitarbeiter sollen die neuen Regeln beachten.
+      6. Die Mitarbeiter sollten die neuen Regeln beachten.
 
   - id: B3
     block: B
@@ -500,7 +500,7 @@ exercises:
     block: B
     type: gap-bank
     title: "Geschäftsbericht ergänzen"
-    instructions: "Füll die 8 Lücken mit dem passenden Wort aus dem Kasten. Zwei Wörter sind zu viel."
+    instructions: "Füll die 8 Lücken mit dem passenden Wort aus dem Kasten. Vier Wörter sind zu viel."
     text: |
       Geschäftsbericht der Müller AG für das zweite Quartal: Der {1} ist um 6,3 %
       gestiegen, während der {2} um 4,1 % {3} ist. Die Geschäftsführung erklärte,
@@ -714,16 +714,16 @@ exercises:
       anderem in eine neue Produktionshalle. Die Investitionen sollen sich nach
       drei Jahren {5}. Die {6} nach unseren Produkten ist weiterhin hoch. Die
       {7} aus dem Ausland sei allerdings im Begriff, ihr {8} zu erweitern. Die
-      Geschäftsführung {9}, die Lieferzeiten zu verkürzen, um Kunden zu halten.
+      Geschäftsführung {9} die Lieferzeiten verkürzen, um Kunden zu halten.
       Eine Dividendenerhöhung sei derzeit nicht in {10} gezogen worden.
-    bank: [UMSATZ, GEWINN, KOSTEN, INVESTIERT, AMORTISIEREN, NACHTFRAGE, KONKURRENZ, ANGEBOT, WOLLE, BETRACHT, VERLUST, SOLL, KAPAZITÄTEN]
+    bank: [UMSATZ, GEWINN, KOSTEN, INVESTIERT, AMORTISIEREN, NACHFRAGE, KONKURRENZ, ANGEBOT, WOLLE, BETRACHT, VERLUST, SOLL, KAPAZITÄTEN, BILANZ, FRIST]
     answers:
       "1": UMSATZ
       "2": GEWINN
       "3": KOSTEN
       "4": INVESTIERT
       "5": AMORTISIEREN
-      "6": NACHTFRAGE
+      "6": NACHFRAGE
       "7": KONKURRENZ
       "8": ANGEBOT
       "9": WOLLE
@@ -897,7 +897,7 @@ exercises:
         odd: 3
         why: "Markt ist ein Ort/Begriff; Kunde, Lieferant und Mitarbeiter sind handelnde Personen."
       - items: [Konjunktiv I, Konjunktiv II, Indikativ, Imperativ]
-        odd: 3
+        odd: 2
         why: "Indikativ ist die Grundform (Wirklichkeitsform); die anderen drei sind besondere Modi (Wiedergabe, Hypothese, Aufforderung)."
 
   - id: D3

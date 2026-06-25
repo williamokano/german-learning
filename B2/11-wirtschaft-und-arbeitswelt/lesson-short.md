@@ -241,7 +241,7 @@ In Geschäftsberichten und Pressemitteilungen geht es oft darum, **was andere ge
 | können | **könne** | Das Unternehmen **könne** die Kosten senken. |
 | müssen | **müsse** | Die Abteilung **müsse** den Plan überarbeiten. |
 | wollen | **wolle** | Die Geschäftsführung **wolle** expandieren. |
-| sollen | **solle** | Die Mitarbeiter **sollen** Überstunden leisten. |
+| sollen | **solle** | Der Betriebsrat **solle** Überstunden genehmigen. |
 
 ⚠️ *Der Vorstand **hat** zugestimmt* (Indikativ = direkte Aussage) ist etwas anderes als *Der Vorstand **habe** zugestimmt* (Konjunktiv I = Wiedergabe). Konjunktiv II (*würde zustimmen*) wäre Hypothese, nicht Wiedergabe — verwechsle die beiden nicht.
 

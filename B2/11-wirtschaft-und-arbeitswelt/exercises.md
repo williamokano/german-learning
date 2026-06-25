@@ -253,7 +253,7 @@ Ordne jedem Verb (1–6) den passenden Kontext (a–f) zu.
 
 ## Übung B5 — Geschäftsbericht ergänzen
 
-Füll die 8 Lücken mit dem passenden Wort aus dem Kasten. Zwei Wörter sind zu viel.
+Füll die 8 Lücken mit dem passenden Wort aus dem Kasten. Vier Wörter sind zu viel.
 
 > Geschäftsbericht der Müller AG für das zweite Quartal: Der (1) ______ ist um 6,3 %
 > gestiegen, während der (2) ______ um 4,1 % (3) ______ ist. Die Geschäftsführung erklärte,
@@ -356,12 +356,12 @@ Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Je
 > anderem in eine neue Produktionshalle. Die Investitionen sollen sich nach
 > drei Jahren (5) ______. Die (6) ______ nach unseren Produkten ist weiterhin hoch. Die
 > (7) ______ aus dem Ausland sei allerdings im Begriff, ihr (8) ______ zu erweitern. Die
-> Geschäftsführung (9) ______, die Lieferzeiten zu verkürzen, um Kunden zu halten.
+> Geschäftsführung (9) ______ die Lieferzeiten verkürzen, um Kunden zu halten.
 > Eine Dividendenerhöhung sei derzeit nicht in (10) ______ gezogen worden.
 
-> AMORTISIEREN · ANGEBOT · BETRACHT · GEWINN · INVESTIERT · KAPAZITÄTEN · KONKURRENZ · KOSTEN · NACHTFRAGE · SOLL · UMSATZ · VERLUST · WOLLE
+> AMORTISIEREN · ANGEBOT · BETRACHT · BILANZ · FRIST · GEWINN · INVESTIERT · KAPAZITÄTEN · KONKURRENZ · KOSTEN · NACHFRAGE · SOLL · UMSATZ · VERLUST · WOLLE
 
-Three words are not needed.
+Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Wirtschaftsnachrichten verstehen)
 
