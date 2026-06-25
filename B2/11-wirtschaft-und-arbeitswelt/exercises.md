@@ -1,60 +1,61 @@
 # B2 · Lektion 11 — Übungen (Wirtschaft und Arbeitswelt)
 
-Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Lösungen in solutions.md. Tipp: Verteile die Blöcke über mehrere Tage — H und A am Tag 1, B am Tag 2, C am Tag 3, D nach einer Pause am Tag 4.
+Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining → D Wiederholung & Selbsttest. Die Lösungen findest du in solutions.md. Tipp: Verteil die Blöcke über mehrere Tage — H und A am Tag 1, B am Tag 2, C am Tag 3, D am Tag 4 nach einer Pause.
 
 ---
 
 # Block H — Hören
 
-## Übung H1a — Dialog Hör-Check: Dialog A (informell)
+## Übung H1a — Dialog Hör-Check: Dialog A (informell — Flur-Gespräch)
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
 Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
-1. Der Umsatz ist im letzten Quartal um zwölf Prozent gestiegen. ( )
-2. Der Gewinn ist genauso stark gestiegen wie der Umsatz. ( )
-3. Anna hat ein Meeting mit Frau Yilmaz. ( )
-4. Bruno rät Anna, im Konjunktiv zu sprechen, um diplomatischer zu klingen. ( )
-5. Bruno empfiehlt, direkt „Das ist zu teuer“ zu sagen. ( )
+1. Mia berichtet, dass der Umsatz im ersten Quartal gestiegen ist. ( )
+2. Lukas sagt, dass der Gewinn gestiegen ist. ( )
+3. Die Firma hat unter anderem in neue Maschinen investiert. ( )
+4. Mia schlägt einen Rabatt von drei Prozent bei Zahlung innerhalb von zehn Tagen vor. ( )
+5. Mia möchte, dass Lukas auch die Konditionen für den Großkunden aus Hamburg prüft. ( )
 
-## Übung H1b — Dialog Hör-Check: Dialog B (formell)
+## Übung H1b — Dialog Hör-Check: Dialog B (formell — Lieferantenverhandlung)
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Welchen Vorschlag macht Anna?  a) Fünf Prozent Rabatt bei längerer Vertragslaufzeit.  b) Zehn Prozent Rabatt ohne Bedingung.  c) Gar keinen Rabatt.
-2. Was ist Frau Yilmaz' Einwand?  a) Der Kunde ist nicht zuverlässig.  b) Ein Rabatt würde den Gewinn verringern.  c) Die Vertragslaufzeit ist zu kurz.
-3. Bis wann will Anna die Kalkulation schicken?  a) Bis Montag.  b) Bis Donnerstag.  c) Bis nächste Woche.
-4. Was soll am Freitag passieren?  a) Der Kunde unterschreibt den Vertrag.  b) Der Vorschlag wird der Geschäftsführung vorgelegt.  c) Die Abteilung macht Betriebsausflug.
+1. Worauf möchte Frau Yilmaz zu Beginn Bezug nehmen?  a) Auf das Angebot vom letzten Donnerstag.  b) Auf einen alten Vertrag.  c) Auf eine Mahnung.
+2. Welche Lieferzeit verlangt Frau Yilmaz?  a) Acht Wochen.  b) Sechs Wochen.  c) Vier Wochen.
+3. Wie viel Skonto verlangt Frau Yilmaz bei Zahlung binnen zehn Tagen?  a) Ein Prozent.  b) Zwei Prozent.  c) Fünf Prozent.
+4. Welche Vertragsstrafe schlägt Herr Steinmeyer vor?  a) 0,5 % pro Woche Verspätung.  b) 1 % pro Woche, maximal 5 % der Auftragssumme.  c) 10 % pauschal.
 
-## Übung H3 — Hörtext-Lückentext: Wirtschaftsnachrichten
+## Übung H3 — Hörtext-Lückentext: Nachricht aus dem Sekretariat
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Hör den Hörtext und fülle die 7 Lücken. Drei Wörter im Kasten sind zu viel.
+Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel.
 
-> Und nun zu den Wirtschaftsnachrichten. Der Autohersteller Nordwerk hat heute seine
-> Quartalszahlen vorgelegt. Das Unternehmen teilte mit, der (1) ______ sei im Vergleich
-> zum Vorjahr um acht Prozent (2) ______. Der (3) ______ habe sich sogar verdoppelt. Wegen
-> der starken (4) ______ nach Elektroautos sollen im Werk Leipzig fünfhundert neue
-> (5) ______ geschaffen werden. Die Gewerkschaft begrüßte die Pläne, forderte aber
-> zugleich höhere (6) ______. Ein Sprecher erklärte, die Mitarbeiter (7) ______ in den letzten
-> Jahren auf vieles verzichtet.
+> Guten Tag, Herr Steinmeyer, hier ist das Sekretariat der Müller AG. Es geht um das
+> (1) ______ vom letzten Donnerstag. Die Geschäftsführung hat den Vorschlag geprüft und
+> möchte zum (2) ______ bringen, dass der Preis in der vorgeschlagenen Höhe nicht in (3) ______
+> kommt. Wir bitten Sie, das Angebot zu überarbeiten und uns bis spätestens
+> Donnerstag, 18 Uhr, ein neues Angebot zukommen zu lassen. Bei Zahlung innerhalb
+> von zehn Tagen können wir zwei Prozent (4) ______ gewähren. Eine (5) ______ bei verspäteter
+> Lieferung ist für uns selbstverständlich. Für (6) ______ stehe ich Ihnen den ganzen Tag
+> zur (7) ______. Bitte rufen Sie mich kurz zurück.
 
-> (Umsatz · gestiegen · Gewinn · Nachfrage · Stellen · Löhne · hätten · Verlust · gesunken · Kosten)
+> (Angebot · Ausdruck · Frage · Skonto · Vertragsstrafe · Rückfragen · Verfügung · Betracht · Kauf · Mahnung)
 
-## Übung H4 — Kurze Ansage: Nachricht von Frau Yilmaz
+## Übung H4 — Kurze Ansage: Nachricht auf dem Anrufbeantworter
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript liest.
+Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.
 
-1. Warum ruft Frau Yilmaz an?  a) Wegen einer Kündigung.  b) Wegen des Hamburger Angebots.  c) Wegen eines Vorstellungsgesprächs.
-2. Was möchte die Geschäftsführung ändern?  a) Den Rabatt auf vier Prozent begrenzen.  b) Die Vertragslaufzeit verkürzen.  c) Das ganze Angebot ablehnen.
-3. Bis wann soll Anna die Kalkulation liefern?  a) Bis heute Abend.  b) Bis morgen Mittag.  c) Bis Freitag.
-4. Was soll Anna tun?  a) Eine E-Mail an den Kunden schreiben.  b) Frau Yilmaz kurz zurückrufen.  c) Den Vertrag sofort unterschreiben.
+1. Worum geht es in der Nachricht?  a) Um eine seit vier Wochen überfällige Rechnung.  b) Um eine neue Lieferung.  c) Um einen Vertragsabschluss.
+2. Welche Vergünstigung wird angeboten?  a) Drei Prozent Rabatt.  b) Zwei Prozent Skonto bei Zahlung in den nächsten sieben Tagen.  c) Verzugszinsen in Höhe von fünf Prozent.
+3. Was passiert, wenn nicht gezahlt wird?  a) Eine Mahnung mit Verzugszinsen.  b) Eine kostenlose Verlängerung.  c) Eine neue Lieferung.
+4. Wie soll Frau Berger reagieren?  a) Sie soll sofort überweisen.  b) Sie soll zurückrufen.  c) Sie soll einen neuen Vertrag unterschreiben.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -63,7 +64,7 @@ Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a
 
 **Ansage 1 — Transcript**
 
-> Guten Tag, Frau Kowalski, hier ist Yilmaz. Ich rufe wegen des Hamburger Angebots an. Die Geschäftsführung hat sich Ihren Vorschlag angesehen und ist grundsätzlich einverstanden. Allerdings möchte sie den Rabatt auf vier Prozent begrenzen. Könnten Sie die Kalkulation bitte entsprechend anpassen und mir bis morgen Mittag zur Verfügung stellen? Für Rückfragen bin ich den ganzen Nachmittag erreichbar. Bitte rufen Sie mich kurz zurück. Vielen Dank und auf Wiederhören.
+> Guten Tag, Frau Berger, hier ist die Buchhaltung der Hartmann GmbH. Es geht um Ihre Rechnung vom 15. Mai, die seit vier Wochen überfällig ist. Wir möchten Sie darauf hinweisen, dass bei Zahlung innerhalb der nächsten sieben Tagen noch zwei Prozent Skonto gewährt werden. Andernfalls müssen wir eine Mahnung mit Verzugszinsen verschicken. Bitte rufen Sie mich kurz zurück. Vielen Dank und auf Wiederhören.
 
 </details>
 
@@ -71,339 +72,347 @@ Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a
 
 # Block A — Basistraining
 
-## Übung A1 — Wortschatz: Wirtschaftsbegriffe
+## Übung A1 — Wirtschaftsbegriffe zuordnen
 
-Ordne jedem deutschen Begriff (1–8) die richtige Erklärung (a–j) zu. Zwei Erklärungen sind zu viel.
+Setze das passende Wort ein (Umsatz, Gewinn, Verlust, Bilanz, Investition, Kosten, Personal, Steuer). 8 Items.
+
+1. Der ______ ist die gesamten Einnahmen einer Periode.
+2. Der ______ ist das, was nach allen Kosten übrig bleibt.
+3. Der ______ ist ein negativer Gewinn.
+4. Die ______ zeigt Vermögen und Schulden eines Unternehmens.
+5. Eine ______ ist eine langfristige Geldausgabe für Werte.
+6. Die ______ für Produktion und Betrieb sind gestiegen.
+7. Das ______ eines Unternehmens umfasst alle Mitarbeiter.
+8. Die ______ ist eine Abgabe an den Staat.
+
+## Übung A2 — Geschäftszahlen versprachlichen
+
+Setze das passende Verb ein (steigen, sinken, wachsen, schrumpfen, amortisieren, einbrechen, anziehen). 8 Items.
+
+1. Der Umsatz ist im ersten Quartal um 8 % ______.
+2. Der Gewinn ist trotzdem um 2 % ______.
+3. Wir ______ in den asiatischen Markt.
+4. Die Konkurrenz ______ — zwei Anbieter haben aufgegeben.
+5. Die Investition ______ sich nach drei Jahren.
+6. Die Nachfrage ______ seit Monaten stark an.
+7. Die Kosten ______ nach der Krise plötzlich ein.
+8. Die Nachfrage ist leicht ______.
+
+## Übung A3 — Unternehmen und Rechtsformen
+
+Setze das passende Wort ein (Unternehmen, Firma, Betrieb, Konzern, GmbH, AG, Branche, Markt). 8 Items.
+
+1. Die Volkswagen AG ist ein großer deutscher ______.
+2. Eine kleine ______ hat weniger als 50 Mitarbeiter.
+3. Der industrielle ______ in Leipzig produziert für die ganze EU.
+4. Die Müller ______ hat 200 Mitarbeiter und ist im Maschinenbau tätig.
+5. Die ______ „Automobil" wächst seit Jahren.
+6. Wir bedienen den deutschen ______ mit unseren Produkten.
+7. Das ______ hat seine Zentrale in München.
+8. Als ______ bezeichnen wir jede wirtschaftliche Einheit.
+
+## Übung A4 — Umsatz, Gewinn oder Verlust?
+
+Wähle den passenden Begriff (a, b oder c).
+
+1. Was sind die gesamten Einnahmen eines Unternehmens in einer Periode?  a) der Gewinn  b) der Umsatz  c) die Bilanz
+2. Was bleibt nach Abzug aller Kosten übrig?  a) der Umsatz  b) der Verlust  c) der Gewinn
+3. Wie nennt man einen negativen Gewinn?  a) den Verlust  b) die Investition  c) die Bilanz
+4. Was zeigt die Bilanz?  a) nur das Vermögen  b) nur die Schulden  c) Vermögen und Schulden gegenüber
+5. Was bedeutet „wir investieren in neue Maschinen"?  a) Wir geben Geld für Werbung aus.  b) Wir tätigen eine langfristige Geldausgabe für Werte.  c) Wir kaufen Büromaterial.
+
+## Übung A5 — um + Prozent oder in + Akkusativ?
+
+Setze um oder in ein. ⚠️ um = statische Mengenangabe; in + Akk. = Richtung Markt. 6 Items.
+
+1. Der Umsatz ist ______ 8 % gestiegen.
+2. Der Gewinn ist ______ 2 % gesunken.
+3. Wir wachsen ______ den asiatischen Markt.
+4. Die Kosten sind ______ eine Million Euro gestiegen.
+5. Wir expandieren ______ den europäischen Markt.
+6. Die Investition amortisiert sich ______ drei Jahren.
+
+## Übung A6 — Geschäftspartner: der oder die?
+
+Setze den richtigen Artikel ein (der Kunde / die Kundin / der Lieferant / die Lieferantin / der Mitarbeiter / die Mitarbeiterin / der Auftrag / die Rechnung). 6 Items.
+
+1. Wir beliefern seit Jahren ______ Müller in Berlin.
+2. ______ schickt uns jede Woche frische Ware.
+3. ______ Wagner hat gestern den Vertrag unterschrieben.
+4. ______ Becker hat das Angebot geprüft.
+5. Wir haben einen neuen ______ über 200 000 € angenommen.
+6. Die Buchhaltung schickt ______ am Ende des Monats.
+
+## Übung A7 — Vertragsbedingungen — Rabatt, Skonto, Mahnung, Frist
+
+Füll die Lücken mit dem passenden Begriff. Zwei Wörter im Kasten sind zu viel.
+
+> 1. Bei Großaufträgen gewähren wir 5 % (1) ______.
+> 2. Bei Zahlung innerhalb von 10 Tagen geben wir 2 % (2) ______.
+> 3. Die (3) ______ für die Lieferung beträgt vier Wochen.
+> 4. Wenn die Rechnung nicht bezahlt wird, schicken wir eine (4) ______.
+> 5. Die Zahlung erfolgt innerhalb der vereinbarten (5) ______.
+
+> (Rabatt · Skonto · Frist · Mahnung · Bedingung · Rechnung · Auftrag)
+
+## Übung A8 — Begriff und Bedeutung verbinden
+
+Ordne jedem Wirtschaftsbegriff (1–6) die passende Bedeutung (a–f) zu.
 
 | Links | | Rechts |
 |---|---|---|
-| 1. der Umsatz | | a) alle Einnahmen aus dem Verkauf |
-| 2. der Gewinn | | b) das, was nach Abzug der Kosten übrig bleibt |
-| 3. der Verlust | | c) wenn die Kosten höher sind als die Einnahmen |
-| 4. die Nachfrage | | d) der Wunsch der Kunden, etwas zu kaufen |
-| 5. das Angebot | | e) was eine Firma verkauft oder zum Kauf anbietet |
-| 6. die Kündigung | | f) die Beendigung eines Arbeits- oder Vertragsverhältnisses |
-| 7. der Rabatt | | g) ein Preisnachlass |
-| 8. die Abteilung | | h) ein organisatorischer Teil einer Firma |
-|  | | i) ein Bewerbungsschreiben |
-|  | | j) die Zeit nach der Arbeit |
+| 1. die GmbH | | a) Preisnachlass bei großer Menge |
+| 2. die AG | | b) prozentualer Abzug bei schneller Zahlung |
+| 3. der Umsatz | | c) Aktiengesellschaft (groß, börsennotiert) |
+| 4. der Gewinn | | d) Gesellschaft mit beschränkter Haftung (mittel) |
+| 5. der Rabatt | | e) Einnahmen minus Kosten |
+| 6. das Skonto | | f) gesamte Einnahmen einer Periode |
 
-## Übung A2 — Artikel der Arbeitswelt-Nomen
+## Übung A9 — Wortschatz sortieren
 
-Ergänze den richtigen bestimmten Artikel (der/die/das). 8 Items.
+Ordne jeden Begriff dem richtigen Bereich zu.
 
-1. ______ Bewerbung (für die neue Stelle)
-2. ______ Vorstellungsgespräch (am Montag)
-3. ______ Gehalt (auf dem Konto)
-4. ______ Vertrag (mit dem Kunden)
-5. ______ Abteilung (im dritten Stock)
-6. ______ Umsatz (des Quartals)
-7. ______ Nachfrage (nach dem Produkt)
-8. ______ Markt (in Europa)
+> die GmbH · die AG · der Konzern · der Umsatz · der Gewinn · die Bilanz · die Investition · der Kunde · der Lieferant · die Konkurrenz · der Vertrag · die Frist · der Rabatt · die Mahnung
 
-## Übung A3 — Konjunktiv II der Höflichkeit
+| Unternehmen & Rechtsform | Geschäftszahlen & Finanzen | Geschäftsbeziehungen | Vertrags- & Zahlungsbedingungen |
+|---|---|---|---|
+|  |  |  |  |
 
-Setze das Verb in den Konjunktiv II (Höflichkeitsform). 6 Items.
+## Übung A10 — Konjunktiv I im Geschäftsbericht
 
-1. ______ (sein) da noch ein bisschen Spielraum beim Preis?
-2. ______ (können) Sie mir die Zahlen bis Freitag schicken?
-3. Eine Frage ______ (haben) ich noch.
-4. Ich ______ (werden) gern einen Kompromiss vorschlagen.
-5. Das ______ (sein) für uns leider keine Option.
-6. ______ (können) wir Ihnen entgegenkommen, wenn Sie länger unterschreiben.
+Setze die richtige Konjunktiv-I-Form ein (habe, sei, werde, könne, müsse, wolle, solle). 6 Items.
 
-## Übung A4 — Direkt → höflich (Verhandeln)
+1. Der Vorstand ______ dem Vorschlag zugestimmt.
+2. Die Bank ______ mit dem Kredit einverstanden.
+3. Der Lieferant ______ die Frist verkürzen.
+4. Die Abteilung ______ die Kosten senken.
+5. Die Geschäftsführung ______ expandieren.
+6. Die Mitarbeiter ______ die neuen Regeln beachten.
 
-Formuliere die direkte Aussage höflich um. Ergänze die fehlende Konjunktiv-Form. 6 Items.
+## Übung A11 — Satzbau: Geschäftsbericht
 
-1. (Direkt: Geben Sie uns einen Rabatt.) → ______ (können) Sie uns beim Preis entgegenkommen?
-2. (Direkt: Das ist zu teuer.) → ______ (sein) da noch Spielraum?
-3. (Direkt: Ich will mehr Gehalt.) → Ich ______ (werden) mir gern ein höheres Gehalt wünschen.
-4. (Direkt: Helfen Sie mir.) → Es ______ (sein) super, wenn Sie mir helfen könnten.
-5. (Direkt: Schicken Sie die Kalkulation.) → ______ (können) Sie mir die Kalkulation schicken?
-6. (Direkt: Ich schlage einen Mittelweg vor.) → Ich ______ (werden) einen Mittelweg vorschlagen.
+Bring die Wörter in die richtige Reihenfolge.
 
-## Übung A5 — Funktionsverbgefüge → Vollverb (Wiederholung B2/08)
-
-Ordne jedem Funktionsverbgefüge (1–8) das passende einfache Vollverb (a–j) zu. Zwei Vollverben sind zu viel.
-
-| Links | | Rechts |
-|---|---|---|
-| 1. eine Entscheidung treffen | | a) entscheiden |
-| 2. eine Frage stellen | | b) fragen |
-| 3. Kritik üben | | c) kritisieren |
-| 4. eine Rolle spielen | | d) wichtig sein |
-| 5. Bezug nehmen auf | | e) sich beziehen auf |
-| 6. zur Verfügung stellen | | f) bereitstellen |
-| 7. in Betracht ziehen | | g) berücksichtigen |
-| 8. in Frage kommen | | h) möglich / akzeptabel sein |
-|  | | i) verkaufen |
-|  | | j) kündigen |
-
-## Übung A6 — Das richtige Funktionsverb
-
-Setze das passende Funktionsverb ein (treffen / stellen / üben / spielen / nehmen / kommen). 6 Items.
-
-1. Wir müssen heute eine Entscheidung ______.
-2. Darf ich eine Frage ______?
-3. Die Gewerkschaft ______ Kritik an dem Angebot.
-4. Der Preis ______ eine wichtige Rolle.
-5. Ich möchte Bezug auf den letzten Bericht ______.
-6. Dieser Termin ______ für uns leider nicht in Frage.
-
-## Übung A7 — Zahlen versprachlichen (steigen / sinken / bleiben)
-
-Ergänze das passende Verb im Perfekt oder Partizip. 6 Items.
-
-1. Der Umsatz ist um 12 % ______ (steigen).
-2. Der Gewinn ist um 5 % ______ (sinken / zurückgehen — wähle: gesunken).
-3. Die Kosten sind konstant ______ (bleiben).
-4. Die Nachfrage ist stark ______ (wachsen).
-5. Der Marktanteil ist stabil ______ (bleiben).
-6. Der Verlust ist deutlich ______ (zurückgehen).
-
-## Übung A8 — Vom Verbalstil zum Nominalstil (Wiederholung B2/01)
-
-Ergänze das passende Nomen zum Verb. 5 Items.
-
-1. Der Umsatz ist gestiegen. → der ______ des Umsatzes (steigen)
-2. Die Kosten sind gesunken. → der ______ der Kosten (sinken)
-3. Die Firma hat entschieden. → die ______ der Firma (entscheiden)
-4. Das Unternehmen hat sich entwickelt. → die ______ des Unternehmens (entwickeln)
-5. Die Nachfrage ist gewachsen. → das ______ der Nachfrage (wachsen)
-
-## Übung A9 — Passiv in Nachrichten (Wiederholung B1/04)
-
-Bilde das Passiv mit werden + Partizip II. 5 Items.
-
-1. Im Werk ______ (schaffen — Präsens Passiv) 500 neue Stellen.
-2. Letztes Jahr ______ (schließen — Präteritum Passiv) die Filiale in München.
-3. Die Preise müssen ______ (erhöhen — Passiv mit Modalverb).
-4. Der Vertrag ist gestern ______ (unterschreiben — Perfekt Passiv).
-5. Tausend Stellen ______ (abbauen — Präsens Passiv).
-
-## Übung A10 — Indirekte Rede in Nachrichten (Wiederholung B2/04)
-
-Gib die direkte Aussage indirekt wieder (Konjunktiv I). 5 Items.
-
-1. „Der Umsatz ist gestiegen." → Das Unternehmen erklärte, der Umsatz ______ gestiegen.
-2. „Wir schaffen neue Stellen." → Der Konzern teilte mit, man ______ neue Stellen schaffen.
-3. „Die Löhne sind zu niedrig." → Die Gewerkschaft sagte, die Löhne ______ zu niedrig.
-4. „Wir können nicht mehr zahlen." → Die Firma betonte, sie ______ nicht mehr zahlen.
-5. „Der Gewinn hat sich verdoppelt." → Der Sprecher sagte, der Gewinn ______ sich verdoppelt.
-
-## Übung A11 — Redemittel sortieren: zustimmen, widersprechen, vorschlagen
-
-Ordne jede Wendung der richtigen Funktion zu.
-
-> Ich würde vorschlagen, dass wir … · Wie wäre es, wenn wir …? · Man könnte auch … · Dem kann ich nur zustimmen. · Das sehe ich genauso. · Da haben Sie völlig recht. · Das sehe ich etwas anders. · Das ist ein berechtigter Einwand, dennoch … · Ich bin da anderer Meinung.
-
-| Vorschlag machen | Zustimmen | Widersprechen |
-|---|---|---|
-|  |  |  |
+1. Der – habe – Vorschlag – zugestimmt – dem – Vorstand
+2. gestiegen – ist – Prozent – Der – um – acht – Umsatz
+3. gewährt – Prozent – Die – zwei – Skonto – Firma
+4. in – asiatischen – Wir – wachsen – den – Markt
 
 ---
 
 # Block B — Vertiefung
 
-## Übung B1 — Verhandlungsdialog ergänzen
+## Übung B1 — Geschäftszahlen in Sätzen versprachlichen
 
-Ergänze die 8 Lücken mit dem passenden Wort aus dem Kasten. Drei Wörter sind zu viel.
-
-> — Guten Tag. Sie wollten einen (1) ______ zum Angebot machen?
-> — Ja, gern. Ich (2) ______ vorschlagen, dass wir Ihnen einen (3) ______ von fünf Prozent geben.
-> — Ein interessanter Gedanke. Allerdings (4) ______ das unseren Gewinn verringern.
-> — Das ist ein berechtigter (5) ______. Aber bei längerer (6) ______ bleibt der Gewinn stabil.
-> — Gut. (7) ______ Sie mir bis Freitag eine Kalkulation zur Verfügung stellen?
-> — Selbstverständlich. Für (8) ______ stehe ich Ihnen jederzeit zur Verfügung.
-
-> (Vorschlag · würde · Rabatt · würde · Einwand · Vertragslaufzeit · Könnten · Rückfragen · Gewinn · Verlust · treffen)
-
-## Übung B2 — Finde den Fehler
-
-> 1. Wir haben gestern eine Entscheidung gemacht.
-2. Der Umsatz hat um zwölf Prozent gestiegen.
-3. Ich würde möchten einen Rabatt von fünf Prozent.
-4. Er sagte, der Gewinn ist gestiegen.
-5. Im Werk werden 500 neue Stellen schaffen.
-6. Das Werk wurde letztes Jahr geschlossen worden.
-7. Der Preis spielt eine wichtige Sache.
-8. Das wäret für uns keine Option.
+> 1. Der Umsatz der Müller AG ist im 2. Quartal um 6 % gestiegen.
+2. Der Gewinn ist um 4 % gesunken.
+3. Die Kosten sind um eine Million Euro gestiegen.
+4. Die Nachfrage in der Baubranche geht leicht zurück.
+5. Wir wachsen in den asiatischen Markt.
+6. Die Investition amortisiert sich nach drei Jahren.
 
 
-**Your task:** Jeder Satz enthält genau einen Fehler. Finde ihn und schreib den Satz korrekt.
+**Your task:** Schreib zu jeder Zahlensituation einen klaren Satz mit passendem Verb.
 
-## Übung B3 — Frage und Reaktion im Meeting verbinden
+## Übung B2 — Vom Verb zum Wirtschaftsbericht (Konjunktiv I)
 
-Ordne jeder Aussage (1–6) die passende Reaktion (a–f) zu.
+> 1. Der Vorstand hat dem Vorschlag zugestimmt.
+2. Die Bank ist mit dem Kredit einverstanden.
+3. Der Lieferant wird die Frist verkürzen.
+4. Die Abteilung muss die Kosten senken.
+5. Die Geschäftsführung will expandieren.
+6. Die Mitarbeiter sollen die neuen Regeln beachten.
+
+
+**Your task:** Form jeden Satz in die indirekte Wiedergabe im Geschäftsbericht um (Konjunktiv I).
+
+## Übung B3 — Finde den Fehler
+
+> 1. Der Umsatz ist mit 8 % gestiegen.
+2. Wir wachsen auf den asiatischen Markt.
+3. Die GmbH ist eine Aktiengesellschaft.
+4. Der Vorstand hat dem Vorschlag zugestimmt (im Geschäftsbericht).
+5. Bei Zahlung in 10 Tagen geben wir 2 % Skonto.
+6. Sehr geehrte Frau Yilmaz ohne Komma.
+
+
+**Your task:** Jeder Satz hat genau einen Fehler (falscher Begriff, falsche Präposition oder falscher Kasus). Finde ihn und schreib den Satz korrekt.
+
+## Übung B4 — Verb und Geschäftszahl verbinden
+
+Ordne jedem Verb (1–6) den passenden Kontext (a–f) zu.
 
 | Links | | Rechts |
 |---|---|---|
-| 1. Ich würde vorschlagen, den Termin zu verschieben. | | a) Gern. Ich erkläre es Ihnen anhand der Zahlen. |
-| 2. Der Preis ist für uns zu hoch. | | b) Wäre da noch ein bisschen Spielraum? |
-| 3. Könnten Sie das genauer erläutern? | | c) Nein, vielen Dank, das war alles. |
-| 4. Wir sollten in neue Märkte investieren. | | d) Ja: fünf Prozent Rabatt bei zwei Jahren Laufzeit. |
-| 5. Halten wir also fest, was wir beschlossen haben? | | e) Dem kann ich nur zustimmen, der Termin passt sonst nicht. |
-| 6. Gibt es dazu noch Fragen? | | f) Das ist ein berechtigter Einwand, dennoch sehe ich ein Risiko. |
+| 1. steigen | | a) sich in + Dativ (Zeit) rentieren |
+| 2. sinken | | b) in + Akkusativ (Markt) — positive Richtung |
+| 3. wachsen | | c) um + % oder Betrag — positive Richtung |
+| 4. schrumpfen | | d) um + % oder Betrag — negative Richtung |
+| 5. amortisieren | | e) stark zurückgehen (z. B. nach einer Krise) |
+| 6. einbrechen | | f) kleiner werden (Konkurrenz, Marktanteil) |
 
-## Übung B4 — Höflich widersprechen
+## Übung B5 — Geschäftsbericht ergänzen
 
-> 1. „Wir sollten den Preis sofort senken."
-2. „Der neue Kunde ist nicht wichtig."
-3. „Wir brauchen keine längere Vertragslaufzeit."
-4. „Die Kosten spielen keine Rolle."
+Füll die 8 Lücken mit dem passenden Wort aus dem Kasten. Zwei Wörter sind zu viel.
 
+> Geschäftsbericht der Müller AG für das zweite Quartal: Der (1) ______ ist um 6,3 %
+> gestiegen, während der (2) ______ um 4,1 % (3) ______ ist. Die Geschäftsführung erklärte,
+> das Unternehmen (4) ______ in eine neue Produktionshalle (5) ______. Man werde die (6) ______
+> im dritten Quartal vollständig nutzen. Die (7) ______ in der Automobilbranche sei
+> weiterhin hoch. Die (8) ______ aus Polen sei im Begriff, ihr Angebot zu erweitern.
 
-**Your task:** Widersprich jeder Aussage höflich nach dem Muster „erst zustimmen, dann eigener Punkt“ (Da haben Sie recht, allerdings …). Schreib je einen Satz.
+> (Umsatz · Gewinn · gesunken · habe · investiert · Kapazitäten · Nachfrage · Konkurrenz · Verlust · steigen · Kosten · Kunde)
 
-## Übung B5 — Berichtssätze bilden (Nominalstil + FVG)
+## Übung B6 — Satzbau: Konjunktiv I im Geschäftsbericht
 
-> 1. Der Umsatz ist stark gestiegen.
-2. Die Kosten sind gesunken.
-3. Wir haben entschieden, zu investieren.
-4. Ich beziehe mich auf den letzten Bericht.
-5. Der Preis ist sehr wichtig.
-6. Wir berücksichtigen das neue Angebot.
+Bring die Wörter in die richtige Reihenfolge.
 
+1. Der – Vorschlag – Vorstand – zugestimmt – habe – dem
+2. sei – Kredit – Die – dem – Bank – einverstanden – mit
+3. Der – werde – die – verkürzen – Frist – Lieferant
+4. müsse – die – Kosten – senken – Abteilung – Die
 
-**Your task:** Wandle jeden gesprochenen Satz in einen Berichtssatz um (Nominalstil oder Funktionsverbgefüge).
+## Übung B7 — Wortschatz: Was passt nicht?
 
-## Übung B6 — Wirtschaftsnachricht indirekt wiedergeben
+Streiche den Begriff, der nicht in die gleiche Kategorie passt.
 
-> 1. Der Konzern: „Wir haben einen Rekordgewinn erzielt." → Der Konzern teilte mit, …
-2. Die Firma: „Wir schaffen 1000 neue Stellen." → Die Firma erklärte, …
-3. Die Gewerkschaft: „Die Löhne sind zu niedrig." → Die Gewerkschaft sagte, …
-4. Der Sprecher: „Das Werk muss geschlossen werden." → Der Sprecher betonte, …
+1. Umsatz – Gewinn – Verlust – Mitarbeiter
+2. GmbH – AG – Konzern – Skonto
+3. Rabatt – Skonto – Mahnung – Bedingung
+4. steigen – sinken – wachsen – schrumpfen
+5. Angebot – Nachfrage – Auftrag – Konkurrenz
+6. Rechnung – Frist – Vertrag – Brief
 
+## Übung B8 — Welche Formulierung passt zum Kontext?
 
-**Your task:** Gib jede direkte Aussage indirekt wieder (Konjunktiv I). Beginne mit dem vorgegebenen Einleitungssatz.
+Wähle die stilistisch und sachlich passende Variante (a oder b).
 
-## Übung B7 — Satzbau: Vorschläge und Verhandlung
+1. In einer formellen E-Mail an einen Lieferanten:  a) Lieber Herr Steinmeyer, schick mir mal das Angebot.  b) Sehr geehrter Herr Steinmeyer, ich darf auf Ihr Angebot vom 12. Juni Bezug nehmen.
+2. In einer Wirtschaftsnachricht im Fernsehen:  a) Der Umsatz ist um 8 % gestiegen.  b) Wir haben mehr Geld eingenommen als vorher.
+3. In einem Geschäftsbericht (wiedergabend):  a) Der Vorstand hat zugestimmt.  b) Der Vorstand habe dem Vorschlag zugestimmt.
 
-1. vorschlagen – würde – Termin – wir – den – dass – ich – verschieben
-2. Sie – uns – beim – Preis – entgegenkommen – Könnten
-3. länger – nur – wenn – unterschreiben – möglich – wäre – das – Sie
-4. die – Entscheidung – investieren – haben – getroffen – zu – wir
+## Übung B9 — Formelle Verhandlungs-E-Mail an einen Lieferanten
 
-## Übung B8 — Wortschatz: Was passt nicht?
-
-Streiche das Wort, das nicht passt, und erkläre warum.
-
-1. Umsatz – Gewinn – Verlust – Bewerbung
-2. Vorschlag – Einwand – Zustimmung – Rabatt
-3. Abteilung – Führungskraft – Kollege – Konjunktur
-4. steigen – wachsen – zunehmen – sinken
-
-## Übung B9 — Schreiben: Kurze interne E-Mail mit Bericht
-
-> Eine Kollegin schickt dir per Chat die Rohdaten:
-„Umsatz +12 % gegenüber Vorquartal. Gewinn nur +4 %, weil die Materialkosten
-stark gestiegen sind. Marktanteil stabil. Vorschlag: längeren Kunden Rabatt geben."
+> **Chatnachricht von Frau Yilmaz:**
+> Hallo Lukas, schreib bitte Herrn Steinmeyer eine formelle E-Mail. Wir brauchen
+> eine kürzere Lieferzeit (8 Wochen sind zu lang) und 2 % Skonto bei Zahlung
+> binnen 10 Tagen. Antwort bitte bis Donnerstag, 18 Uhr. Danke!
 
 
-**Your task:** Schreib eine kurze interne E-Mail (5–6 Sätze) an deine Vorgesetzte, in der du die Quartalszahlen deiner Abteilung berichtest. Stimulus unten.
+**Your task:** Eine Kollegin bittet dich, einem Lieferanten zu schreiben. Verfasse eine formelle E-Mail (5–6 Sätze) mit dem passenden Schema. Formuliere den Konjunktiv I, wo passend.
 
 Use:
-- [ ] mindestens 2 Sätze über Zahlen (steigen / sinken / konstant bleiben)
-- [ ] mindestens 1 Funktionsverbgefüge (eine Entscheidung treffen / Bezug nehmen auf / in Betracht ziehen)
-- [ ] 1 Vorschlag im Konjunktiv II (Ich würde vorschlagen, dass … / Man könnte …)
-- [ ] eine formelle Anrede und Grußformel (Sehr geehrte Frau …, Mit freundlichen Grüßen)
+- [ ] die korrekte Anrede *Sehr geehrter Herr Steinmeyer,*
+- [ ] einen Bezug auf ein früheres Angebot (Bezug nehmen auf …)
+- [ ] eine klare Forderung mit Funktionsverbgefüge aus B2/08 (in Frage kommen / in Betracht ziehen)
+- [ ] eine Frist (bis spätestens …)
+- [ ] die Schlussformel *Für Rückfragen stehe ich Ihnen jederzeit zur Verfügung*
+- [ ] (B2/04) mindestens 1 Satz im Konjunktiv I für die Wiedergabe einer Aussage
 
 Self-check:
-- [ ] Steht das Verb am Ende der Nebensätze (dass, wenn, weil)?
-- [ ] Habe ich für Zahlen-Verben das richtige Perfekt-Hilfsverb benutzt (steigen → ist gestiegen)?
-- [ ] Ist der Stil durchgehend formell (kein „Hallo“, kein „Tschüss“)?
+- [ ] Beginnt die E-Mail mit *Sehr geehrter Herr Steinmeyer,* (mit Komma)?
+- [ ] Steht eine konkrete Bezugnahme auf ein früheres Angebot?
+- [ ] Ist die Frist klar formuliert (Tag + Uhrzeit)?
+- [ ] Wird die Schlussformel korrekt verwendet?
+- [ ] Steht der Konjunktiv I (*habe, sei, werde, könne …*) an der richtigen Stelle?
 
 ---
 
 # Block C — Prüfungstraining
 
-## Übung C1 — Lückentext: Quartalsbericht
+## Übung C1 — Lückentext: Wirtschaftsnachrichten verstehen (Lesetext)
 
-Fülle jede Lücke mit einem Wort. 10 Items.
+Füll jede Lücke mit einem Wort aus dem Wirtschaftsvokabular. 10 Items.
 
-Im dritten Quartal hat sich die Geschäftsentwicklung positiv (1) ______. Der
-Umsatz ist im (2) ______ zum Vorquartal um zwölf Prozent (3) ______. Dieser
-Anstieg ist vor allem (4) ______ die gestiegene Nachfrage zurückzuführen.
-Beim Gewinn (5) ______ die Entwicklung verhaltener aus, weil auch die (6) ______
-gestiegen sind. Die Geschäftsführung hat daher die (7) ______ getroffen, die
-Lieferkette zu überprüfen. Der Wettbewerb hat sich (8) ______. Unser
-Marktanteil ist dennoch stabil (9) ______. Insgesamt lässt sich (10) ______,
-dass die Abteilung gut aufgestellt ist.
+Der Stahlbau-Konzern Müller AG hat heute seine (1) ______ für das zweite Quartal
+vorgelegt. Demnach ist der (2) ______ im Vergleich zum Vorjahresquartal um 6,3 %
+gestiegen. Der (3) ______ ist allerdings um 4,1 % gesunken. Begründet wird die
+Entwicklung mit hohen (4) ______ in eine neue Produktionshalle.
+Die Geschäftsführung erklärte, der Konzern (5) ______ die Weichen für weiteres
+Wachstum gestellt. Man (6) ______ die neuen Kapazitäten im dritten Quartal
+vollständig nutzen. Die (7) ______ in der Automobilbranche sei weiterhin hoch.
+Die (8) ______ aus Polen sei im Begriff, ihr Angebot zu erweitern. Die Müller AG
+(9) ______ daher auf Qualität und Lieferzeiten setzen. Die Aktie verlor nach der
+Bekanntgabe (10) ______.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Wähle für jede Lücke die richtige Option (a, b oder c).
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Ich (1) ____ vorschlagen, dass wir den Termin verschieben.  a) werde  b) würde  c) wäre
-2. Der Umsatz (2) ____ um zwölf Prozent gestiegen.  a) hat  b) ist  c) wird
-3. Wir haben eine Entscheidung (3) ____.  a) gemacht  b) getroffen  c) genommen
-4. Im Werk (4) ____ 500 neue Stellen geschaffen.  a) werden  b) haben  c) sind
-5. Die Firma erklärte, der Gewinn (5) ____ sich verdoppelt.  a) hat  b) habe  c) hätte
-6. (6) ____ Sie uns beim Preis entgegenkommen?  a) Können  b) Könnten  c) Konnten
+1. Der Umsatz ist ____ 6,3 % gestiegen.  a) mit  b) um  c) auf
+2. Wir wachsen ____ den asiatischen Markt.  a) in  b) auf  c) an
+3. Die Müller AG ist eine große ____.  a) GmbH  b) AG  c) KG
+4. Bei Zahlung innerhalb ____ zehn Tagen gewähren wir zwei Prozent Skonto.  a) von  b) um  c) seit
+5. Im Geschäftsbericht steht: der Vorstand ____ dem Vorschlag zugestimmt.  a) hat  b) habe  c) würde
+6. Wenn die Rechnung nicht bezahlt wird, schicken wir eine ____.  a) Bedingung  b) Mahnung  c) Frist
 
-## Übung C3 — Sprachbausteine Teil 2 (Wörterkasten)
+## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort passt nur einmal.
+Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.
 
-> Anna berichtet aus dem Meeting: „Wir haben heute über das neue Angebot
-> (1) ______. Ich habe einen (2) ______ gemacht: fünf Prozent Rabatt bei längerer
-> (3) ______. Frau Yilmaz hatte zuerst einen (4) ______, weil ein Rabatt den
-> (5) ______ verringert. Aber ich konnte zeigen, dass der Gewinn bei höherer
-> (6) ______ stabil bleibt. Schließlich haben wir eine (7) ______ getroffen.
-> Die Zahlen stelle ich der Geschäftsführung bis Freitag zur (8) ______.
-> Insgesamt war das Meeting ein (9) ______. Den Vertrag wollen wir nächste
-> Woche (10) ______."
+> Aus dem Geschäftsbericht der Hartmann GmbH: Im zweiten Quartal ist der (1) ______ um
+> 5 % gestiegen. Der (2) ______ ist allerdings um 3 % gesunken. Die (3) ______ haben sich
+> verringert, weil das Unternehmen im ersten Quartal stark (4) ______ hat — unter
+> anderem in eine neue Produktionshalle. Die Investitionen sollen sich nach
+> drei Jahren (5) ______. Die (6) ______ nach unseren Produkten ist weiterhin hoch. Die
+> (7) ______ aus dem Ausland sei allerdings im Begriff, ihr (8) ______ zu erweitern. Die
+> Geschäftsführung (9) ______, die Lieferzeiten zu verkürzen, um Kunden zu halten.
+> Eine Dividendenerhöhung sei derzeit nicht in (10) ______ gezogen worden.
 
-> ABTEILUNG · BEWERBUNG · EINWAND · ENTSCHEIDUNG · ERFOLG · GEWINN · KÜNDIGUNG · NACHFRAGE · RABATT · UNTERSCHREIBEN · VERFÜGUNG · VERHANDELT · VERLUST · VERTRAGSLAUFZEIT · VORSCHLAG
+> AMORTISIEREN · ANGEBOT · BETRACHT · GEWINN · INVESTIERT · KAPAZITÄTEN · KONKURRENZ · KOSTEN · NACHTFRAGE · SOLL · UMSATZ · VERLUST · WOLLE
 
-Five words are not needed.
+Three words are not needed.
 
-## Übung C4a — Lesen Text 1 (Quartalsbericht)
+## Übung C4a — Lesen Text 1 (Lesetext: Wirtschaftsnachrichten verstehen)
 
-Lies den Lesetext in lesson.md, Abschnitt 7. Richtig (R) oder falsch (F)?
+Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?
 
-1. Der Umsatz ist im Vergleich zum Vorquartal um zwölf Prozent gewachsen. ( )
-2. Der Gewinn ist genauso stark gestiegen wie der Umsatz. ( )
-3. Der Marktanteil ist gesunken. ( )
-4. Die Geschäftsführung will die Lieferkette überprüfen. ( )
-5. Für das vierte Quartal wird ein Rabatt für Großkunden bei längerer Laufzeit vorgeschlagen. ( )
+1. Der Umsatz der Müller AG ist im zweiten Quartal gestiegen. ( )
+2. Der Gewinn ist ebenfalls gestiegen. ( )
+3. Die Müller AG hat in eine neue Produktionshalle investiert. ( )
+4. Laut Bericht ist die Nachfrage in der Baubranche leicht zurückgegangen. ( )
+5. Die Mitarbeiterzahl ist von 4 580 auf 4 200 gesunken. ( )
+6. Die Konkurrenz aus Polen und Tschechien will ihr Angebot erweitern. ( )
+7. Eine Dividendenerhöhung ist bereits beschlossen. ( )
 
-## Übung C4b — Lesen Text 2 (neue Wirtschaftsnachricht)
+## Übung C4b — Lesen Text 2 (neuer Text: Auszug aus einer Geschäfts-E-Mail)
 
-Lies den folgenden Zeitungstext und wähle a, b oder c.
+Lies die folgende E-Mail und wähle a, b oder c.
 
-> **Solartechnik-Firma SunPlus meldet Rekordquartal.** Das Unternehmen
-> SunPlus aus Freiburg hat heute mitgeteilt, der Umsatz sei im letzten
-> Quartal um 20 Prozent gestiegen. Grund sei die hohe Nachfrage nach
-> Solaranlagen. Trotz des Wachstums bleibe der Gewinn jedoch unter den
-> Erwartungen, da die Rohstoffpreise stark gestiegen seien. Das Unternehmen
-> kündigte an, im nächsten Jahr 300 neue Stellen zu schaffen und ein zweites
-> Werk zu eröffnen. Die Geschäftsführung betonte, man wolle die Position auf
-> dem europäischen Markt weiter ausbauen.
+> **E-Mail von Frau Yilmaz an die Bauwerk AG, 14. Juni**
+> Sehr geehrte Frau Brandt, ich darf auf Ihr Angebot vom 7. Juni Bezug nehmen.
+> Wir haben die Preise geprüft und möchten gern über zwei Punkte verhandeln.
+> Erstens: Die Lieferzeit von zehn Wochen kommt für unsere Baustelle nicht in
+> Frage. Wir benötigen das Material spätestens nach acht Wochen. Zweitens:
+> Bei Zahlung innerhalb von 14 Tagen erwarten wir drei Prozent Skonto. Eine
+> Vertragsstrafe bei verspäteter Lieferung ist für uns selbstverständlich.
+> Wir bitten um eine kurze Rückmeldung bis spätestens Donnerstag, 18 Uhr.
+> Für Rückfragen stehe ich Ihnen jederzeit zur Verfügung.
 
 
-1. Wie hat sich der Umsatz von SunPlus entwickelt?  a) Er ist um 20 Prozent gestiegen.  b) Er ist um 20 Prozent gesunken.  c) Er ist gleich geblieben.
-2. Warum bleibt der Gewinn unter den Erwartungen?  a) Weil die Nachfrage gesunken ist.  b) Weil die Rohstoffpreise stark gestiegen sind.  c) Weil das Werk geschlossen wurde.
-3. Was plant das Unternehmen für das nächste Jahr?  a) 300 Stellen abbauen.  b) 300 neue Stellen schaffen und ein zweites Werk eröffnen.  c) Die Produktion einstellen.
-4. Was ist das Ziel der Geschäftsführung?  a) Den europäischen Markt verlassen.  b) Die Preise senken.  c) Die Position auf dem europäischen Markt ausbauen.
+1. Worauf nimmt Frau Yilmaz zu Beginn Bezug?  a) Auf das Angebot vom 7. Juni.  b) Auf einen alten Vertrag.  c) Auf eine Mahnung.
+2. Welche Lieferzeit verlangt Frau Yilmaz?  a) Zehn Wochen.  b) Acht Wochen.  c) Sechs Wochen.
+3. Wie viel Skonto verlangt Frau Yilmaz?  a) Zwei Prozent.  b) Drei Prozent.  c) Fünf Prozent.
+4. Bis wann bittet Frau Yilmaz um Rückmeldung?  a) Bis Donnerstag, 18 Uhr.  b) Bis Mittwoch, 12 Uhr.  c) Bis Freitag, 9 Uhr.
 
-## Übung C5 — Schreiben: Ein kurzer Geschäftsbericht
+## Übung C5 — Schreiben: Eine formelle Verhandlungs-E-Mail verfassen
 
-**Your task:** Schreib einen kurzen Bericht (8–10 Sätze) über die Geschäftsentwicklung einer (erfundenen) Abteilung im letzten Quartal. Nutze Berichtsstil (Nominalstil + Funktionsverbgefüge).
+**Your task:** Schreib eine formelle Verhandlungs-E-Mail (8–10 Sätze) an einen Lieferanten zu einem realistischen Angebot. Nutze das E-Mail-Schema, mindestens drei Funktionsverbgefüge aus B2/08 und mindestens zwei Konjunktiv-I-Formen aus B2/04.
 
 Use:
-- [ ] mindestens 3 Sätze über Zahlen (Umsatz, Gewinn, Kosten, Nachfrage — steigen/sinken/stabil)
-- [ ] mindestens 2 Funktionsverbgefüge (eine Entscheidung treffen / Bezug nehmen auf / in Betracht ziehen / eine Rolle spielen)
-- [ ] mindestens 1 Nominalstil-Ausdruck (der Anstieg / der Rückgang des …)
-- [ ] einen Vorschlag für das nächste Quartal (Wir sollten … in Betracht ziehen / Ich würde vorschlagen, …)
-- [ ] einen Fazitsatz (Insgesamt lässt sich festhalten, dass …)
+- [ ] die korrekte Anrede *Sehr geehrte/r Frau/Herr + Nachname,*
+- [ ] einen Bezug auf ein Angebot (Bezug nehmen auf …)
+- [ ] mindestens 2 Funktionsverbgefüge aus B2/08 (in Frage kommen, in Betracht ziehen, eine Entscheidung treffen, zur Verfügung stehen, Kritik üben an)
+- [ ] mindestens 2 Konjunktiv-I-Formen (habe, sei, werde, könne, müsse, wolle, solle)
+- [ ] eine konkrete Frist (Tag + Uhrzeit)
+- [ ] die Schlussformel *Für Rückfragen stehe ich Ihnen jederzeit zur Verfügung*
 
 Self-check:
-- [ ] Steht das Verb am Ende der Nebensätze (dass, weil, da)?
-- [ ] Habe ich für die Zahlen-Verben das richtige Hilfsverb (steigen → ist gestiegen)?
-- [ ] Ist der Stil durchgehend sachlich und formell?
-- [ ] Habe ich mindestens zwei Funktionsverbgefüge benutzt?
+- [ ] Beginnt die E-Mail mit *Sehr geehrte/r Frau/Herr + Nachname,* (mit Komma)?
+- [ ] Steht eine Bezugnahme auf ein früheres Angebot?
+- [ ] Sind die Funktionsverbgefüge korrekt (festes Verb, feste Präposition, richtiger Kasus)?
+- [ ] Steht der Konjunktiv I (*habe, sei, werde, könne, müsse …*) an der richtigen Stelle (Wiedergabe)?
+- [ ] Sind Anrede und Schlussformel formell (Sehr geehrte, Mit freundlichen Grüßen)?
 
 ---
 
@@ -411,91 +420,91 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-Eine Minute pro Item, keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 15 Items.
+Eine Minute pro Item. Keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 15 Items.
 
-1. Artikel: ___ Umsatz → ______
-2. Artikel: ___ Bewerbung → ______
-3. Funktionsverbgefüge zu „entscheiden": eine Entscheidung ______
-4. Funktionsverbgefüge zu „fragen": eine Frage ______
-5. Konjunktiv II von sein (er/sie/es): ______
-6. Konjunktiv II von können (Sie): ______
-7. Passiv Präsens: „500 Stellen ______ geschaffen." (werden + Partizip)
-8. Indirekte Rede: „Der Umsatz ist gestiegen." → Er sagte, der Umsatz ______ gestiegen.
-9. Nominalstil: steigen → der ______
-10. Nominalstil: sinken → der ______
-11. (B2/08) FVG zu „sich beziehen auf": ______ nehmen auf
-12. (B2/01) Nominalstil: entscheiden → die ______
-13. (B1/04) Passiv Präteritum: „Das Werk ______ geschlossen."
-14. (B2/04) Konjunktiv I von haben (er/sie/es): ______
-15. (A2/09) Konjunktiv II von haben (ich): ______
+1. Wirtschaftsbegriff für die gesamten Einnahmen einer Periode: ______
+2. Wirtschaftsbegriff für Einnahmen minus Kosten: ______
+3. Kurz für *Gesellschaft mit beschränkter Haftung*: ______
+4. Kurz für *Aktiengesellschaft*: ______
+5. Prozentualer Abzug bei schneller Zahlung: ______
+6. Schriftliche Aufforderung zur Zahlung: ______
+7. *Der Umsatz ist ____ 8 % gestiegen.* (um / mit) ______
+8. *Wir wachsen ____ den asiatischen Markt.* (in / auf) ______
+9. Konjunktiv I von *hat*: ______
+10. Konjunktiv I von *ist*: ______
+11. Konjunktiv I von *wird*: ______
+12. (B2/08) Funktionsverb zu *eine Entscheidung ____*: ______
+13. (B2/04) *Die Bank ____ mit dem Kredit einverstanden.* (Konjunktiv I): ______
+14. (B2/01) Nominalisierung von *investieren* (mit Artikel): ______
+15. (B1/11) Wort für *Verhandlung um einen Arbeitsplatz*: ______
 
 ## Übung D2 — Odd one out
 
-Streiche das Wort, das nicht passt, und erkläre warum. 6 Gruppen.
+Streiche den Begriff, der nicht in die gleiche Kategorie passt.
 
-1. Umsatz – Gewinn – Verlust – Kündigung
-2. Bewerbung – Lebenslauf – Vorstellungsgespräch – Nachfrage
-3. zustimmen – widersprechen – vorschlagen – kündigen
-4. wäre – hätte – könnte – war
-5. steigen – wachsen – zunehmen – zurückgehen
-6. sei – habe – werde – ist
+1. Umsatz – Gewinn – Verlust – Skonto
+2. GmbH – AG – KG – Skonto
+3. steigen – sinken – wachsen – schrumpfen – liefern
+4. Rabatt – Skonto – Mahnung – Bedingung
+5. Kunde – Lieferant – Mitarbeiter – Markt
+6. Konjunktiv I – Konjunktiv II – Indikativ – Imperativ
 
-## Übung D3 — Rückblick: B2/08, B2/01, B1/04, B2/04
+## Übung D3 — Rückblick: B2/08, B2/04, B2/01, B1/11
 
 Wiederholung früherer Lektionen. 10 Items.
 
 **Aus B2/08 (Funktionsverbgefüge):**
-1. Ich möchte Kritik ______ dem Plan üben. (feste Präposition + Dat.)
-2. Wir sollten das Angebot in ______ ziehen. (= berücksichtigen)
-3. Für Rückfragen stehe ich Ihnen zur ______.
+1. Vollverb zu *eine Entscheidung treffen*: ______
+2. Vollverb zu *Kritik üben an*: ______
+3. Feste Präposition zu *Bezug nehmen*: ______
+
+**Aus B2/04 (Konjunktiv I):**
+4. Konjunktiv I von *kann*: ______
+5. Konjunktiv I von *muss*: ______
 
 **Aus B2/01 (Nominalstil):**
-4. Die Kosten sind gestiegen. → der ______ der Kosten
-5. Das Unternehmen hat sich entwickelt. → die ______ des Unternehmens
+6. Nominalisierung von *verhandeln* (mit Artikel): ______
+7. Präposition *trotz* verlangt welchen Fall? ______
 
-**Aus B1/04 (Passiv):**
-6. „Die Preise ______ erhöht." (Präsens Passiv, Plural)
-7. „Der Vertrag ______ gestern unterschrieben." (Präteritum Passiv)
-
-**Aus B2/04 (Indirekte Rede):**
-8. „Wir schaffen neue Stellen." → Er sagte, man ______ neue Stellen schaffen.
-9. „Die Löhne sind zu niedrig." → Sie sagten, die Löhne ______ zu niedrig.
-10. „Das stimmt." → Er behauptete, das ______ richtig. (Konjunktiv I von sein)
+**Aus B1/11 (Arbeitswelt):**
+8. Was schickt man, wenn man sich bewirbt? (ein Wort) ______
+9. Was sagt man, wenn man das Gehalt verhandelt? (eine feste Wendung mit „Forderung") ______
+10. Wort für *Berufsalltag*: ______
 
 ## Übung D4 — Selbsttest (bewerte dich /20)
 
-**Redemittel Besprechung:**
-1. Höflicher Vorschlag: „Ich ______ vorschlagen, dass wir warten." (würde / werde)
-2. Höflicher Widerspruch: „Das sehe ich etwas ______." (anders)
+**Wirtschaftsbegriffe:**
+1. Gesamte Einnahmen einer Periode: ______
+2. Einnahmen minus Kosten: ______
+3. Negative Variante von Gewinn: ______
+4. Prozentualer Abzug bei schneller Zahlung: ______
 
-**Verhandeln (Konjunktiv II):**
-3. „______ (sein) da noch ein bisschen Spielraum?"
-4. „______ (können) Sie uns entgegenkommen?"
-5. „Eine Frage ______ (haben) ich noch."
+**Konjunktiv I im Geschäftsbericht:**
+5. *Der Vorstand ____ dem Vorschlag zugestimmt.*: ______
+6. *Die Bank ____ mit dem Kredit einverstanden.*: ______
+7. *Der Lieferant ____ die Frist verkürzen.*: ______
 
-**Zahlen / Bericht:**
-6. „Der Umsatz ______ (sein/haben) um 12 % gestiegen." (richtiges Hilfsverb)
-7. Nominalstil: sinken → der ______
-8. FVG: „Wir haben eine Entscheidung ______." (= getroffen)
+**Geschäftszahlen versprachlichen:**
+8. *Der Umsatz ist ____ 8 % gestiegen.* (um / mit) ______
+9. *Wir wachsen ____ den asiatischen Markt.* (in / auf) ______
 
-**Passiv (B1/04):**
-9. „500 Stellen ______ geschaffen." (Präsens Passiv, werden + Partizip)
-10. „Das Werk ______ geschlossen." (Präteritum Passiv, Singular)
+**Formelle E-Mail:**
+10. Korrekte Anrede: *Sehr ____ Frau Yilmaz,* (geehrte / liebe) ______
+11. Schlussformel: *Für ____ stehe ich Ihnen zur Verfügung.* ______
+12. Konkrete Frist: *bis spätestens ____, 18 Uhr* ______
 
-**Indirekte Rede (B2/04):**
-11. „Der Gewinn ist gestiegen." → Er sagte, der Gewinn ______ gestiegen.
-12. „Wir können nicht zahlen." → Sie betonten, sie ______ nicht zahlen.
+**Umformen (Indikativ → Konjunktiv I):**
+13. *Der Vorstand hat zugestimmt.* → ______
+14. *Die Bank ist einverstanden.* → ______
 
-**Wortschatz:**
-13. Artikel: ___ Gehalt → ______
-14. Artikel: ___ Vertrag → ______
-15. Gegenteil von „Gewinn" → der ______
+**Wirtschaftsnachricht verstehen:**
+15. *Der Umsatz ist um 6,3 % gestiegen.* — Was ist gestiegen? ______
+16. *Der Gewinn ist um 4,1 % gesunken.* — Was ist gesunken? ______
 
-**Übersetzen / Bilden:**
-16. „supply and demand" → ______
-17. (B2/08) FVG zu „kritisieren" → ______ üben
-18. (A2/09) Konjunktiv II von werden (ich) → ______
-19. Fazitsatz beginnen: „Insgesamt lässt sich ______, dass …"
-20. Höfliche Bitte um Unterlagen: „Könnten Sie mir die Zahlen zur ______ stellen?"
+**Gemischtes / Wiederholung:**
+17. (B2/08) Vollverb zu *in Betracht ziehen*: ______
+18. (B2/01) Nominalisierung von *investieren* (mit Artikel): ______
+19. (B2/04) Konjunktiv I von *wird*: ______
+20. (B1/11) Wort für *Gespräch zwischen Arbeitgeber und Bewerber*: ______
 
-_16+ / 20 → Lektion B2/12. Unter 16 → wiederhole Block A (A3–A10) und B2 (Finde den Fehler) morgen, dann teste D4 erneut._
+_16+ / 20 → Lektion B2/12. Unter 16 → wiederhol morgen Block A (A1–A6) und Block B (B1–B3), dann mach D4 noch einmal._

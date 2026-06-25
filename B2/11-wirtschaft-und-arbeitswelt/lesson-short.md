@@ -5,246 +5,271 @@ slug: wirtschaft-und-arbeitswelt
 title: Wirtschaft und Arbeitswelt
 titleEn: Business and the World of Work
 canDo:
-  - sich aktiv an Besprechungen beteiligen (Vorschläge machen, zustimmen, widersprechen)
-  - höflich verhandeln und mit Konjunktiv II auf Distanz gehen
-  - über Zahlen, Umsatz und Entwicklungen berichten und einen kurzen Bericht schreiben
-  - Wirtschaftsnachrichten verstehen und das Gesagte neutral wiedergeben
+  - Verhandlungen in Meetings und Geschäftsgesprächen sprachlich sicher begleiten
+  - Wirtschaftsnachrichten verstehen und die wichtigsten Begriffe (Umsatz, Gewinn, Verlust, Bilanz, Investition) korrekt einordnen
+  - kurze Geschäftsberichte und E-Mails an Kunden und Lieferanten verfassen
+  - Angebote, Mahnungen und Vertragsbedingungen sprachlich beurteilen
 grammar:
-  - "keine neue Grammatik — Redemittel und Wortschatz der Arbeitswelt, gestützt auf wiederholte Strukturen"
-  - "Wiederholung: Konjunktiv II der Höflichkeit (A2/09, B1/03) beim Verhandeln"
-  - "Wiederholung: Funktionsverbgefüge (B2/08) und Nominalstil (B2/01) im Bericht"
-  - "Wiederholung: Passiv (B1/04) und indirekte Rede (B2/04) in Wirtschaftsnachrichten"
+  - "—"
+  - "Wortschatz der Wirtschafts- und Arbeitswelt (Unternehmen, GmbH/AG, Umsatz, Gewinn, Verlust, Bilanz, Investition, Angebot, Nachfrage, Rabatt, Skonto, Mahnung)"
+  - "Redemittel für Verhandlungen, Meetings und Berichte (Konjunktiv I indirekt, Funktionsverbgefüge aus B2/08 wiederverwendet)"
+  - "Formelle Briefe und E-Mails an Kunden und Lieferanten"
 buildsOn:
-  - B2/08 (Funktionsverbgefüge — Berufssprache)
-  - B2/01 (Nominalstil — Berichte)
-  - B2/04 (Indirekte Rede — Nachrichten referieren)
+  - B2/04 (Indirekte Rede — Berichte und Wirtschaftsnachrichten)
+  - B2/08 (Funktionsverbgefüge — Meetings, Berichte)
+  - B2/02 (Passiv und seine Alternativen — Geschäftsprozesse)
+  - B1/11 (Arbeitswelt & Bewerbung — Konflikt am Arbeitsplatz)
 ---
 
-# B2 · Lektion 11 — Wirtschaft und Arbeitswelt (Kurzfassung)
+# B2 · Lektion 11 — Wirtschaft und Arbeitswelt
 
-> **Das lernst du:** dich in Besprechungen einbringen, höflich verhandeln, über Zahlen
-> berichten und Wirtschaftsnachrichten verstehen.
-> **Grammatik:** keine neue Struktur — Wiederholung von Konjunktiv II (A2/09, B1/03),
-> FVG (B2/08), Nominalstil (B2/01), Passiv (B1/04) und indirekter Rede (B2/04).
-> **Builds on:** B2/08, B2/01, B2/04.
+> **Das lernst du:** die Sprache, die in Meetings, Verhandlungen, Berichten und
+> Wirtschaftsnachrichten wirklich benutzt wird — vom kleinen Café bis zum
+> internationalen Konzern. Du lernst die wichtigsten **Fachbegriffe** der
+> Wirtschaft (Unternehmen, GmbH, AG, Umsatz, Gewinn, Verlust, Bilanz, Investition,
+> Angebot, Nachfrage, Rabatt, Skonto, Mahnung) sicher einzuordnen, du formulierst
+> **Angebote**, **Mahnungen** und **Verhandlungs-E-Mails** im formellen Register,
+> und du verstehst typische **Redemittel** für Meetings, Preisgespräche und
+> Geschäftsberichte — eine reine **Kann-Lektion**, in der du die B2-Grammatik
+> aus den vorherigen Lektionen (Konjunktiv I, Funktionsverbgefüge, Passiv) im
+> wirtschaftlichen Kontext wiederverwendest.
+>
+> **Grammatik:** keine neue Grammatik — bewusste **Wiederverwendung** der
+> B2-Werkzeuge (Konjunktiv I, Funktionsverbgefüge aus B2/08, Passiv-Alternativen
+> aus B2/02) im wirtschaftlichen Kontext · Wortschatz der Wirtschafts- und
+> Arbeitswelt · Redemittel für Verhandlungen, Meetings und Berichte.
+>
+> **Builds on:** B2/04 (Indirekte Rede), B2/08 (Funktionsverbgefüge), B2/02
+> (Passiv und seine Alternativen), B1/11 (Arbeitswelt und Bewerbung).
 
 ---
 
 ## 1. Dialoge
 
-### Dialog A: Vor dem Meeting — informell (du, 2 Personen)
+### Dialog A: Auf dem Flur — Mitarbeiter reden über die Geschäftszahlen (informell — du, 2 Personen)
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-> **Anna:** Bruno, hast du die Zahlen von letztem Quartal schon gesehen? Unser Umsatz ist um zwölf Prozent gestiegen.  
-> **Bruno:** Echt? Stark. Und der Gewinn?  
-> **Anna:** Der Gewinn auch, aber nicht so stark. Die Kosten sind nämlich auch gestiegen — vor allem für Material.  
-> **Bruno:** Logisch, bei der Nachfrage. Sag mal, gehst du gleich ins Meeting mit Frau Yilmaz?  
-> **Anna:** Ja, gleich um zehn. Es geht um das neue Angebot für den Kunden in Hamburg. Ich bin ein bisschen nervös, ehrlich gesagt.  
-> **Bruno:** Wieso? Du kennst die Zahlen doch besser als alle anderen.  
-> **Anna:** Schon. Aber ich muss einen Vorschlag machen, und ich weiß nicht, wie ich anfangen soll, ohne zu direkt zu klingen.  
-> **Bruno:** Ganz einfach: Sag nicht „Wir machen das so", sondern „Ich würde vorschlagen, dass wir …". Mit dem Konjunktiv klingst du gleich diplomatischer.  
-> **Anna:** Stimmt. Und wenn Frau Yilmaz etwas sagt, dem ich nicht zustimme?  
-> **Bruno:** Dann widersprich nicht frontal. Sag lieber: „Da haben Sie recht, aber man könnte auch …" — erst zustimmen, dann den eigenen Punkt bringen.  
-> **Anna:** „Erst zustimmen, dann den eigenen Punkt." Das merke ich mir.  
-> **Bruno:** Genau. Und wenn es um den Preis geht, bleib höflich, aber fest. „Wäre da noch ein bisschen Spielraum?" wirkt besser als „Das ist zu teuer".  
-> **Anna:** Danke, Bruno. Jetzt fühle ich mich besser vorbereitet. Wünsch mir Glück!  
-> **Bruno:** Viel Erfolg! Du schaffst das.  
+> **Mia:** Lukas, hast du die E-Mail vom Vorstand schon gelesen? Der Umsatz ist im ersten Quartal um acht Prozent gestiegen, aber der Gewinn ist trotzdem gesunken.  
+> **Lukas:** Ja, ich hab's gesehen. Klingt erstmal widersprüchlich, ist aber logisch: Wir haben kräftig investiert — neue Maschinen, zwei neue Standorte — und das drückt natürlich auf den Gewinn.  
+> **Mia:** Stimmt. Die Investitionen amortisieren sich aber meistens nach zwei, drei Jahren. Was mich mehr beunruhigt, ist die Mahnung von Bäcker & Söhne. Liefern wir denen tatsächlich seit drei Monaten ohne schriftlichen Vertrag?  
+> **Lukas:** Leider ja. Frau Yilmaz hat gestern schon gesagt, dass der Einkauf da endlich klare Bedingungen festlegen muss — Lieferfristen, Skonto, Zahlungsziel und so.  
+> **Mia:** Apropos Zahlungsziel: Können wir denen nicht einen Rabatt von drei Prozent anbieten, wenn sie innerhalb von zehn Tagen zahlen? Das ist doch üblich.  
+> **Lukas:** Gute Idee. Dann verdichten wir die Verhandlung auf einen Punkt: schriftlicher Vertrag plus Skonto. Ich setze das für die nächste Sitzung auf die Tagesordnung.  
+> **Mia:** Mach das. Und frag bitte auch nach, ob die Konditionen für unseren Großkunden aus Hamburg noch stimmen. Die Konkurrenz soll ja im Begriff sein, denen ein neues Angebot zu machen.  
+> **Lukas:** Mach ich. Wenn ich morgen mit dem Kunden telefoniere, sage ich gleich, dass wir unsere Angebote nachprüfen und ihm bis Freitag ein überarbeitetes Angebot vorlegen.  
+> **Mia:** Perfekt. Wir müssen am Ball bleiben — sonst kippt der Kunde am Ende wirklich zur Konkurrenz.  
+> **Lukas:** Einverstanden. Ich kümmere mich drum. Bis morgen.  
+> **Mia:** Bis morgen.  
 
-### Dialog B: Im Meeting — eine Verhandlung (formell, Sie, 2 Personen)
+### Dialog B: Verhandlung mit dem Lieferanten (formell — Sie, 2 Personen)
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-> **Frau Yilmaz:** Guten Morgen, Frau Kowalski. Schön, dass Sie da sind. Sie wollten einen Vorschlag zum Hamburger Angebot machen?  
-> **Anna:** Ja, gern. Vielen Dank. Ich würde vorschlagen, dass wir dem Kunden einen Rabatt von fünf Prozent anbieten, dafür aber eine längere Vertragslaufzeit verlangen.  
-> **Frau Yilmaz:** Ein interessanter Gedanke. Allerdings würde ein Rabatt unseren Gewinn spürbar verringern. Haben Sie das einkalkuliert?  
-> **Anna:** Das ist ein berechtigter Einwand. Wenn der Kunde aber für zwei Jahre unterschreibt, gleichen die höheren Mengen den Rabatt aus. Unter dem Strich bliebe der Gewinn stabil.  
-> **Frau Yilmaz:** Das müsste man genau durchrechnen. Könnten Sie mir bis Freitag eine kurze Kalkulation zur Verfügung stellen?  
-> **Anna:** Selbstverständlich. Ich würde Ihnen die Zahlen gern bis Donnerstag schicken, falls das früher hilft.  
-> **Frau Yilmaz:** Das wäre sehr hilfreich. Eine Frage hätte ich noch: Wie reagiert der Kunde voraussichtlich auf die längere Laufzeit?  
-> **Anna:** Nach meiner Einschätzung käme er uns entgegen. Sein Bedarf ist langfristig, und Planungssicherheit liegt auch in seinem Interesse.  
-> **Frau Yilmaz:** Einverstanden. Dann würde ich vorschlagen, dass wir den Vorschlag am Freitag der Geschäftsführung vorlegen. Stellen Sie bitte eine kurze Präsentation zusammen.  
-> **Anna:** Mache ich. Für Rückfragen stehe ich Ihnen jederzeit zur Verfügung.  
-> **Frau Yilmaz:** Wunderbar. Dann danke ich Ihnen für die gute Vorbereitung.  
+> **Frau Yilmaz:** Herr Steinmeyer, ich darf noch einmal auf das Angebot vom letzten Donnerstag Bezug nehmen. Wir haben die Lieferzeiten geprüft und möchten gern über drei Punkte verhandeln.  
+> **Herr Steinmeyer:** Sehr gern, Frau Yilmaz. Um welche drei Punkte handelt es sich?  
+> **Frau Yilmaz:** Erstens: Die Lieferzeit von acht Wochen kommt für uns nicht in Frage. Wir brauchen die Ware spätestens nach sechs Wochen. Zweitens: Bei Zahlung innerhalb von zehn Tagen erwarten wir zwei Prozent Skonto. Drittens: Wir möchten im Vertrag eine Vertragsstrafe bei verspäteter Lieferung festschreiben.  
+> **Herr Steinmeyer:** Verstehe. Zur Lieferzeit: Sechs Wochen ist sportlich, aber machbar — vorausgesetzt, wir erhalten Ihre Bestellung bis Ende des Monats. Beim Skonto kann ich Ihnen entgegenkommen: zwei Prozent bei Zahlung binnen zehn Tagen — das ließe sich einrichten.  
+> **Frau Yilmaz:** Danke. Und zur Vertragsstrafe?  
+> **Herr Steinmeyer:** Eine Vertragsstrafe von einem Prozent pro Woche Verspätung, maximal fünf Prozent der Auftragssumme — das ist in unserer Branche üblich. Wären Sie damit einverstanden?  
+> **Frau Yilmaz:** Grundsätzlich ja. Ich würde vorschlagen, dass wir den Vertrag zunächst für ein Jahr abschließen und im Anschluss über eine Verlängerung verhandeln. Außerdem möchte ich die Option, die Bestellmenge um bis zu zehn Prozent zu erhöhen, falls der Bedarf steigt.  
+> **Herr Steinmeyer:** Beides vernünftig. Ich lasse unserem Justiziariat den Entwurf zukommen, dann können wir am Ende der Woche eine endgültige Entscheidung treffen.  
+> **Frau Yilmaz:** Wunderbar. Bitte schicken Sie mir den Entwurf bis spätestens Donnerstag, 18 Uhr, dann haben wir genug Zeit für die Prüfung.  
+> **Herr Steinmeyer:** Geht in Ordnung. Für Rückfragen stehe ich Ihnen jederzeit zur Verfügung.  
+> **Frau Yilmaz:** Vielen Dank, Herr Steinmeyer. Auf eine gute Zusammenarbeit.  
 
 ---
 
 ## 2. Redemittel
 
-### In der Besprechung: Vorschläge, Zustimmung, Widerspruch
+### Verhandeln und Einwand formulieren
 
-| Funktion | Redemittel |
+| Deutsch | Funktion |
 |---|---|
-| Vorschlag | Ich würde vorschlagen, dass wir … / Wie wäre es, wenn wir … ? / Man könnte … |
-| zustimmen | Da haben Sie völlig recht. / Das sehe ich genauso. / Dem kann ich nur zustimmen. |
-| teilweise zustimmen | Da haben Sie recht, aber man könnte auch … / Im Prinzip ja, allerdings … |
-| widersprechen | Das sehe ich etwas anders. / Das ist ein berechtigter Einwand, dennoch … |
-| nachfragen | Könnten Sie das genauer erläutern? |
-| zusammenfassen | Halten wir also fest: … / Fassen wir zusammen: … |
+| Wir möchten über drei Punkte verhandeln. | Verhandlung strukturieren |
+| Diese Lieferzeit kommt für uns nicht in Frage. | klar ablehnen |
+| Beim Preis können wir Ihnen entgegenkommen. | Kompromiss anbieten |
+| Vorausgesetzt, dass … / Unter der Bedingung, dass … | Bedingung stellen |
+| Grundsätzlich ja, aber … | teilweise zustimmen |
+| Ich würde vorschlagen, dass wir … | Vorschlag formell einbringen |
 
-### Verhandeln (höflich auf Distanz)
+### Sich auf ein Angebot oder einen Vertrag beziehen
 
-| Funktion | Redemittel |
+| Deutsch | Funktion |
 |---|---|
-| vorsichtig fordern | Wäre da noch ein bisschen Spielraum? |
-| Bedingung | Das wäre nur unter der Bedingung möglich, dass … |
-| Gegenangebot | Wir könnten Ihnen entgegenkommen, wenn … |
-| ablehnen (weich) | Das kommt für uns leider nicht in Frage. |
-| Kompromiss | Lassen Sie uns einen Mittelweg finden. / Einigen wir uns auf … |
+| Ich darf auf Ihr Angebot vom 12. Juni Bezug nehmen. | formelle Rückmeldung |
+| Bei Zahlung innerhalb von zehn Tagen gewähren wir zwei Prozent Skonto. | Zahlungsbedingung |
+| Die Lieferzeit beträgt sechs Wochen ab Bestelleingang. | Lieferbedingung |
+| Wir möchten eine Vertragsstrafe bei Verspätung festlegen. | Bedingung / Absicherung |
+| Die Bestellmenge kann um bis zu zehn Prozent erhöht werden. | Mengenoption |
+| Wir treffen am Ende der Woche eine endgültige Entscheidung. | Verhandlungsabschluss |
 
-### Über Zahlen berichten
+### Wirtschaftslage und Geschäftsbericht
 
-| Funktion | Redemittel |
+| Deutsch | Funktion |
 |---|---|
-| Anstieg / Rückgang | Der Umsatz ist um 12 % gestiegen. / Der Gewinn ist um 5 % gesunken. |
-| Stabilität | Die Kosten sind konstant geblieben. |
-| Vergleich | Im Vergleich zum Vorjahr … / Gegenüber dem Vorquartal … |
-| Ursache | Das ist auf die gestiegene Nachfrage zurückzuführen. |
-| Fazit | Insgesamt lässt sich festhalten, dass … |
+| Der Umsatz ist um acht Prozent gestiegen. | positive Entwicklung |
+| Der Gewinn ist trotzdem gesunken. | widersprüchliche Entwicklung |
+| Wir haben kräftig investiert (neue Maschinen, neue Standorte). | Begründung: Investition |
+| Die Investitionen amortisieren sich nach zwei bis drei Jahren. | Perspektive / Folge |
+| Die Konkurrenz ist im Begriff, uns einen Kunden abzuwerben. | Risiko / Wettbewerb |
+| Wir müssen am Ball bleiben. | Appell / Eigeninitiative |
 
 ---
 
 ## 3. Wortschatz
 
-### Arbeitswelt, Bewerbung und Vertrag
+### Unternehmen und Rechtsformen
 
-| Nomen | Englisch |
+| Nomen | Erklärung |
 |---|---|
-| die Arbeitswelt (Sg.) | the world of work |
-| die Bewerbung, -en | application |
-| das Vorstellungsgespräch, -e | job interview |
-| der Lebenslauf, die Lebensläufe | CV, résumé |
-| das Gehalt, die Gehälter | salary |
-| die Abteilung, -en | department |
-| die Führungskraft, die Führungskräfte | manager, executive |
-| der Vertrag, die Verträge | contract |
-| die Vertragslaufzeit, -en | contract term/duration |
-| die Kündigung, -en | termination, notice |
-| die Probezeit, -en | probationary period |
+| das Unternehmen, - | jede wirtschaftliche Einheit (neutraler Oberbegriff) |
+| die Firma, -men | einzelnes Unternehmen (umgangssprachlich) |
+| der Betrieb, -e | Produktionsstätte oder Firma (Fabrik, Werk) |
+| der Konzern, -e | Zusammenschluss mehrerer Unternehmen |
+| die GmbH, -s | Gesellschaft mit beschränkter Haftung (mittel) |
+| die AG, -s | Aktiengesellschaft (groß, börsennotiert) |
+| die Branche, -n | Wirtschaftszweig (z. B. Automobilbranche) |
+| der Markt, –e (Märkte) | Nachfrage + Angebot für ein Produkt |
 
-### Zahlen, Markt und Wirtschaft
+### Geschäftszahlen und Finanzen
 
-| Nomen | Englisch |
+| Nomen | Erklärung |
 |---|---|
-| der Umsatz, die Umsätze | revenue, turnover |
-| der Gewinn, -e | profit |
-| der Verlust, -e | loss |
-| das Angebot, -e | supply; offer |
-| die Nachfrage (Sg.) | demand |
-| der Markt, die Märkte | market |
-| der Marktanteil, -e | market share |
-| der Wettbewerb (Sg.) | competition |
-| die Kosten (Pl.) | costs |
-| der Rabatt, -e | discount |
-| das Wachstum (Sg.) | growth |
-| die Konjunktur (Sg.) | economic situation, business cycle |
+| der Umsatz, –e (Umsätze) | Gesamteinnahmen in einer Periode |
+| der Gewinn, -e | Einnahmen minus Kosten (was übrig bleibt) |
+| der Verlust, -e | negativer Gewinn (Verlustgeschäft) |
+| die Bilanz, -en | Gegenüberstellung von Vermögen und Schulden |
+| die Investition, -en | langfristige Geldausgabe für Werte |
+| die Kosten (Pl.) | Aufwand für Produktion und Betrieb |
+| das Personal (no pl.) | Mitarbeiter eines Unternehmens |
+| die Steuer, -n | Abgabe an den Staat |
 
-### Verben und feste Verbindungen
+### Geschäftsbeziehungen
 
-| Verb / Wendung | Bedeutung |
+| Nomen | Erklärung |
 |---|---|
-| einen Vorschlag machen / einbringen | vorschlagen |
-| eine Entscheidung treffen | entscheiden |
-| eine Frage stellen | fragen |
-| Kritik üben (an + Dat.) | kritisieren |
-| Bezug nehmen (auf + Akk.) | sich beziehen auf |
-| zur Verfügung stellen (+ Dat.) | bereitstellen |
-| in Frage kommen | möglich / akzeptabel sein |
-| entgegenkommen (+ Dat.) | jemandem auf halbem Weg begegnen |
-| etwas abklären / kalkulieren | klären / berechnen |
-| verhandeln (über + Akk.) | sich einigen wollen |
+| der Mitarbeiter, - / die Mitarbeiterin, -nen | Angestellte/r im Unternehmen |
+| der Kunde, -n / die Kundin, -nen | Käufer, Auftraggeber |
+| der Auftrag, –e (Aufträge) | Bestellung, zu erledigende Arbeit |
+| der Lieferant, -en / die Lieferantin, -nen | wer Waren liefert |
+| das Angebot, -e | Vorschlag mit Preis (Kunde) oder Lieferung (Lieferant) |
+| die Nachfrage (meist no pl.) | Wunsch der Kunden, ein Produkt zu kaufen |
+| die Konkurrenz (meist no pl.) | Wettbewerb, Mitbewerber |
+| der Wettbewerb, -e | Konkurrenzkampf, Ausscheidung |
+
+### Vertrags- und Zahlungsbedingungen
+
+| Nomen | Erklärung |
+|---|---|
+| die Verhandlung, -en | Gespräch über Bedingungen |
+| der Vertrag, –e (Verträge) | schriftliche Vereinbarung |
+| die Bedingung, -en | Voraussetzung, Klausel |
+| die Frist, -en | festgelegter Zeitraum |
+| der Rabatt, -e | Preisnachlass bei größeren Mengen |
+| das Skonto, -s / Skonti | prozentualer Abzug bei schneller Zahlung |
+| die Mahnung, -en | schriftliche Aufforderung zur Zahlung |
+| die Rechnung, -en | Forderung mit Posten und Betrag |
 
 ---
 
-## 4. Grammatik (Wiederholung im Kontext)
+## 4. Grammatik
 
-Diese Lektion bringt **keine neue Grammatik**. Sie wendet vier bekannte Strukturen
-auf die Arbeitswelt an.
+### 4.1 Geschäftszahlen versprachlichen — steigen, sinken, wachsen, schrumpfen
 
-### 4.1 Besprechung — Vorschläge, Zustimmung, Widerspruch
+In Wirtschaftsnachrichten und Geschäftsberichten stehen Verben mit typischen Ad-verbien, die das Wachstum oder den Rückgang beschreiben. Das Muster funktioniert für **Umsatz**, **Gewinn**, **Verlust** und **Kosten**: *Der Umsatz steigt um 8 %*, *der Gewinn sinkt um 2 %*, *die Kosten steigen um eine Million*. Vorsilben zeigen die Richtung: *ver-* und *zurück-* = negativ (*zurückgehen, einbrechen*), *an-* und *hoch-* = positiv (*anziehen, zulegen*).
 
-> 📌 **Merkasten — Besprechung**
-> | Vorschlag | *Ich würde vorschlagen, dass … · Wie wäre es, wenn … · Man könnte …* |
-> |---|---|
-> | Zustimmen | *Dem kann ich nur zustimmen. · Das sehe ich genauso.* |
-> | Widersprechen | *Das sehe ich etwas anders. · Das ist ein berechtigter Einwand, dennoch …* |
+| Verb | typische Angabe | Beispiel |
+|---|---|---|
+| steigen / sinken / fallen | um + % / um + Betrag | Der Umsatz steigt **um 8 %**. |
+| wachsen / schrumpfen | in + Akkusativ (Markt) | Wir wachsen **in den Markt**. |
+| anziehen / einbrechen | — (Vorsilbe zeigt Richtung) | Die Nachfrage **zieht an**. |
+| sich amortisieren | in + Dativ (Zeit) | Die Investition amortisiert sich **in 3 Jahren**. |
+| rote / schwarze Zahlen schreiben | — (idiomatisch) | Wir **schreiben** wieder **schwarze Zahlen**. |
+
+⚠️ *Der Umsatz **steigert** um 8 %* ist falsch (Kausativ *steigern* braucht ein Akkusativ-Objekt: *den Umsatz steigern*). *Der Gewinn sinkt **mit** 2 %* ist falsch — richtig ist **um**. *Wir wachsen **auf** den Markt* ist falsch — richtig ist **in** + Akkusativ (Richtung).
+
+> 📌 **Merkasten — Geschäftszahlen versprachlichen**
 >
-> ▶ Goldene Regel: **erst zustimmen, dann den eigenen Punkt** („Ja, aber").
-
-### 4.2 Verhandeln — Konjunktiv II der Höflichkeit (A2/09, B1/03)
-
-| Verb | Konjunktiv II |
-|---|---|
-| sein | wäre / wärst / wäre / wären / wärt / wären |
-| haben | hätte / hättest / hätte / hätten / hättet / hätten |
-| werden (Ersatzform) | würde … + Infinitiv |
-| können | könnte / könntest / könnte / könnten / könntet / könnten |
-| mögen (Wunsch) | möchte / möchtest / möchte / möchten / möchtet / möchten |
-
-> 📌 **Merkasten — Verhandeln mit Konjunktiv II**
-> | eigene Form | *wäre · hätte · könnte* (nie *würde* + diese!) |
+> | statische Mengenangabe | um + Zahl + % oder um + Betrag |
 > |---|---|
-> | Ersatzform | *würde* + Infinitiv (alle anderen Verben) |
-> | typische Phrasen | *Wäre da Spielraum? · Könnten Sie entgegenkommen? · Das wäre nur möglich, wenn …* |
+> | Richtung (Markt) | in + Akkusativ (*in den Markt wachsen*) |
+> | Vorsilbe = Richtung | *an-*/*zu-* = positiv · *ver-*/*zurück-*/*ein-* = negativ |
+>
+> ▶ Statische Mengenangaben mit *um*. ▶ *um* ≠ *mit*.
 
-### 4.3 Berichten — FVG (B2/08) + Nominalstil (B2/01)
+### 4.2 Formelle Geschäftskorrespondenz — Angebot, Mahnung, Verhandlung
 
-| gesprochen (Verbalstil) | Bericht (Nominalstil / FVG) |
+Im Geschäftsleben schreibst du nicht so, wie du sprichst — Angebote, Mahnungen und Verhandlungs-E-Mails haben ein festes Register mit wenigen, nicht verhandelbaren Bausteinen: Anrede → Bezug → Anliegen → Standpunkt → Frist → Schlussformel → Gruß. Wer das beherrscht, klingt sofort professionell.
+
+**Schema einer formellen Geschäfts-E-Mail:**
+
+| Baustein | Formulierung |
 |---|---|
-| Der Umsatz ist stark gestiegen. | Der Anstieg des Umsatzes war deutlich. |
-| Die Kosten sind gesunken. | Der Rückgang der Kosten beträgt 5 %. |
-| Wir haben entschieden, zu investieren. | Wir haben die Entscheidung getroffen, zu investieren. |
-| Der Preis ist sehr wichtig. | Der Preis spielt eine zentrale Rolle. |
+| Anrede | *Sehr geehrte Frau Yilmaz, / Sehr geehrter Herr Steinmeyer,* |
+| Bezug | *Ich darf auf Ihr Angebot vom 12. Juni Bezug nehmen.* / *Wie bereits am Telefon besprochen, …* |
+| Anliegen | *Wir möchten über drei Punkte verhandeln.* / *Wir bitten um eine kurze Rückmeldung bis …* |
+| Standpunkt | *Diese Lieferzeit kommt für uns nicht in Frage.* / *Grundsätzlich ja, aber …* |
+| Frist | *… bis spätestens Donnerstag, 18 Uhr.* |
+| Schlussformel | *Für Rückfragen stehe ich Ihnen jederzeit zur Verfügung.* |
+| Gruß | *Mit freundlichen Grüßen / Mit besten Grüßen* |
 
-> 📌 **Merkasten — Bericht**
-> | Nominalstil | *steigen → der Anstieg · sinken → der Rückgang* |
+⚠️ *Liebe Frau Yilmaz* ist im Geschäftsbrief falsch — *Sehr geehrte Frau Yilmaz* (Anrede immer *Sehr geehrte/r* + Nachname + Komma). *Hallo Herr Steinmeyer* wirkt im Erstkontakt unpassend. *Ich warte auf Ihre Antwort* klingt fordernd — besser: *Wir bitten um eine kurze Rückmeldung bis …*.
+
+> 📌 **Merkasten — Formelle Geschäfts-E-Mail**
+>
+> | Anrede | Sehr geehrte/r Frau/Herr + Nachname |
 > |---|---|
-> | FVG | *eine Entscheidung treffen · eine Rolle spielen · Bezug nehmen auf* |
-> | Zahlen-Verben | *steigen / wachsen ↔ sinken / zurückgehen · konstant bleiben* |
+> | Bezug | Bezug auf … / Wie besprochen, … |
+> | Anliegen | Wir möchten … / Wir bitten um … |
+> | Standpunkt | … kommt für uns nicht in Frage. / Grundsätzlich ja, aber … |
+> | Frist | bis spätestens [Tag, Uhrzeit] |
+> | Schluss | Für Rückfragen stehe ich Ihnen jederzeit zur Verfügung. |
+> | Gruß | Mit freundlichen Grüßen |
+>
+> ▶ Geschäft = *Sehr geehrte/r*. ▶ Bezug + Frist + Schlussformel sind Pflicht.
 
-### 4.4 Wirtschaftsnachrichten — Passiv (B1/04) + indirekte Rede (B2/04)
+### 4.3 Konjunktiv I im Geschäftsbericht — „der Vorstand habe zugestimmt"
 
-| Direkt | Nachricht |
-|---|---|
-| „Tausend Stellen werden abgebaut." | Passiv: *werden* + Partizip II |
-| „Der Umsatz ist gestiegen." | Indirekt: Das Unternehmen erklärte, der Umsatz **sei** gestiegen. |
-| „Wir schaffen neue Stellen." | Indirekt: Man **werde** neue Stellen schaffen. |
-| „Die Löhne sind zu niedrig." | Indirekt: Die Gewerkschaft sagte, die Löhne **seien** zu niedrig. |
+In Geschäftsberichten und Pressemitteilungen geht es oft darum, **was andere gesagt, entschieden oder geplant haben** — ohne direkt zu zitieren. Genau dafür ist der **Konjunktiv I** da (wiederholt aus B2/04): *Der Vorstand **habe** zugestimmt*, *Der Lieferant **werde** die Frist verkürzen*, *Die Bank **sei** einverstanden*. Der Konjunktiv I signalisiert: **Das ist nicht meine eigene Aussage, sondern die einer anderen Instanz**.
 
-> 📌 **Merkasten — Wirtschaftsnachrichten**
-> | Passiv (B1/04) | *werden* + Partizip II · *Stellen werden abgebaut* |
-> |---|---|
-> | indirekte Rede (B2/04) | Konjunktiv I: *sei · habe · werde · könne* = Distanz |
+| Verb | Konjunktiv I (3. Pers. Sg.) | Beispiel |
+|---|---|---|
+| haben | **habe** | Der Vorstand **habe** dem Vorschlag zugestimmt. |
+| sein | **sei** | Die Bank **sei** mit dem Antrag einverstanden. |
+| werden | **werde** | Der Lieferant **werde** die Frist verkürzen. |
+| können | **könne** | Das Unternehmen **könne** die Kosten senken. |
+| müssen | **müsse** | Die Abteilung **müsse** den Plan überarbeiten. |
+| wollen | **wolle** | Die Geschäftsführung **wolle** expandieren. |
+| sollen | **solle** | Die Mitarbeiter **sollen** Überstunden leisten. |
+
+⚠️ *Der Vorstand **hat** zugestimmt* (Indikativ = direkte Aussage) ist etwas anderes als *Der Vorstand **habe** zugestimmt* (Konjunktiv I = Wiedergabe). Konjunktiv II (*würde zustimmen*) wäre Hypothese, nicht Wiedergabe — verwechsle die beiden nicht.
+
+> 📌 **Merkasten — Konjunktiv I im Geschäftsbericht**
+>
+> | haben → habe | sein → sei | werden → werde |
+> |---|---|---|
+> | können → könne | müssen → müsse | wollen → wolle · sollen → solle |
+>
+> ▶ Konjunktiv I signalisiert: **Wiedergabe einer fremden Aussage**. ▶ Im Geschäftsbericht fast immer 3. Pers. Sg.
 
 ---
 
-## 5. Lesetext — Ein Quartalsbericht aus der Abteilung
+## 5. Lesetext — Wirtschaftsnachrichten verstehen
 
-> **Quartalsbericht der Abteilung Vertrieb — drittes Quartal**
->
-> Im dritten Quartal hat sich die Geschäftsentwicklung unserer Abteilung insgesamt
-> positiv gestaltet. Der Umsatz ist im Vergleich zum Vorquartal um zwölf Prozent
-> gewachsen. Dieser Anstieg ist vor allem auf die gestiegene Nachfrage nach unserem
-> neuen Produkt zurückzuführen, das seit Juli auf dem Markt ist.
->
-> Beim Gewinn fällt die Entwicklung verhaltener aus. Trotz des höheren Umsatzes ist
-> der Gewinn nur um vier Prozent gestiegen, da auch die Kosten — insbesondere für
-> Material und Logistik — deutlich zugenommen haben. Die Geschäftsführung hat daher
-> die Entscheidung getroffen, im kommenden Quartal die Lieferkette zu überprüfen.
->
-> Ein weiterer Punkt verdient Aufmerksamkeit: Der Wettbewerb hat sich verschärft. Ein
-> Konkurrent hat ein vergleichbares Produkt zu einem niedrigeren Preis auf den Markt
-> gebracht. Unser Marktanteil ist dennoch stabil geblieben, weil unsere Kunden vor
-> allem die Qualität und den Service schätzen.
->
-> Für das vierte Quartal stellen wir folgenden Vorschlag zur Diskussion: Wir sollten
-> in Betracht ziehen, ausgewählten Großkunden bei längerer Vertragslaufzeit einen
-> moderaten Rabatt anzubieten. So ließe sich die Kundenbindung stärken, ohne den
-> Gewinn übermäßig zu belasten. Über die genaue Höhe des Rabatts müsste in der
-> nächsten Sitzung verhandelt werden. Insgesamt lässt sich festhalten, dass die
-> Abteilung gut aufgestellt ist, aber die Kostenentwicklung im Auge behalten muss.
+*Lies den Text zweimal: einmal für den Inhalt, einmal langsam und unterstreiche alle Wirtschaftsbegriffe.*
 
-## 6. Hörtext — Wirtschaftsnachrichten im Radio
+> Der Stahlbau-Konzern Müller AG hat heute seine Bilanz für das zweite Quartal vorgelegt. Demnach ist der Umsatz im Vergleich zum Vorjahresquartal um 6,3 Prozent gestiegen und liegt jetzt bei 412 Millionen Euro. Der Gewinn ist allerdings um 4,1 Prozent gesunken und beträgt 28 Millionen Euro. Begründet wird die Entwicklung mit hohen Investitionen in eine neue Produktionshalle in Leipzig und in modernere Maschinen.
+>
+> Die Geschäftsführung erklärte, der Konzern **habe** die Weichen für weiteres Wachstum gestellt. Man **werde** die neuen Kapazitäten im dritten Quartal vollständig nutzen. Die Nachfrage in der Automobilbranche **sei** weiterhin hoch, in der Baubranche **gehe** sie leicht zurück. Für das Gesamtjahr **erwarte** das Unternehmen einen Umsatz von 1,7 Milliarden Euro.
+>
+> Aus dem Bericht **geht hervor**, dass die Mitarbeiterzahl von 4 200 auf 4 580 gestiegen ist. Die Kosten für Personal und Material **seien** ebenfalls gestiegen, **lägen** aber im Rahmen der Planung. Die Konkurrenz aus Polen und Tschechien sei im Begriff, ihr Angebot zu erweitern — die Müller AG **müsse** daher auf Qualität und Lieferzeiten **setzen**, um Kunden zu **halten**.
+>
+> Zum Skonto für Großkunden äußerte sich die Geschäftsführung nicht. Eine geplante Dividendenerhöhung sei **derzeit** nicht in Betracht gezogen worden. Die Aktie verlor nach der Bekanntgabe 2,8 Prozent.
+
+---
+
+## 6. Hörtext — Eine Nachricht aus dem Sekretariat
 
 *Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
 
@@ -253,24 +278,17 @@ auf die Arbeitswelt an.
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
-> Und nun zu den Wirtschaftsnachrichten. Der Autohersteller Nordwerk hat heute seine
-> Quartalszahlen vorgelegt. Das Unternehmen teilte mit, der Umsatz sei im Vergleich
-> zum Vorjahr um acht Prozent gestiegen. Der Gewinn habe sich sogar verdoppelt. Wegen
-> der starken Nachfrage nach Elektroautos sollen im Werk Leipzig fünfhundert neue
-> Stellen geschaffen werden. Die Gewerkschaft begrüßte die Pläne, forderte aber
-> zugleich höhere Löhne. Ein Sprecher erklärte, die Mitarbeiter hätten in den letzten
-> Jahren auf vieles verzichtet und es sei nun an der Zeit, sie am Erfolg zu beteiligen.
+> Guten Tag, Herr Steinmeyer, hier ist das Sekretariat der Müller AG. Es geht um das Angebot vom letzten Donnerstag. Die Geschäftsführung hat den Vorschlag geprüft und möchte zum Ausdruck bringen, dass der Preis in der vorgeschlagenen Höhe nicht in Frage kommt. Wir bitten Sie, das Angebot zu überarbeiten und uns bis spätestens Donnerstag, 18 Uhr, ein neues Angebot zukommen zu lassen. Bei Zahlung innerhalb von zehn Tagen können wir zwei Prozent Skonto gewähren. Eine Vertragsstrafe bei verspäteter Lieferung ist für uns selbstverständlich. Für Rückfragen stehe ich Ihnen den ganzen Tag zur Verfügung. Bitte rufen Sie mich kurz zurück. Vielen Dank und auf Wiederhören.
 
 </details>
 
 ---
 
-## 7. Lernstrategie
+## 7. Lernstrategie — Wirtschaftssprache im Berufsalltag
 
-Übe die Redemittel **rollenweise**: Lies Dialog B laut und übernimm einmal die Rolle
-von Anna (Vorschlag + Konjunktiv II), einmal die von Frau Yilmaz (Einwand +
-Rückfrage). Wandle danach drei Sätze des Quartalsberichts (§5) in den einfachen
-Verbalstil um und drei gesprochene Sätze zurück in den Berichtsstil. Höre zuletzt den
-Hörtext (§6) und gib ihn in drei Sätzen mit indirekter Rede (Konjunktiv I) wieder.
+1. **Sortier den Wortschatz in vier Kästen** (Unternehmen, Geschäftszahlen, Geschäftsbeziehungen, Vertragsbedingungen). Wer die Begriffe in den richtigen Kasten legen kann, hat sie verstanden — und merkt sie sich doppelt so schnell.
+2. **Halte dich an das E-Mail-Schema.** Anrede → Bezug → Anliegen → Standpunkt → Frist → Schlussformel → Gruß. Wenn du unsicher bist: **Sehr geehrte Frau/Herr + Nachname** und **Mit freundlichen Grüßen** sind immer richtig.
+3. **Konjunktiv I ist dein "Wiedergabe-Marker".** Sobald du in einem Geschäftsbericht **eine fremde Aussage** wiedergibst, springst du automatisch in den Konjunktiv I: *habe, sei, werde, könne, müsse, wolle, solle*.
+4. **Lies regelmäßig Wirtschaftsnachrichten** (tagesschau.de/wirtschaft, handelsblatt.com, faz.net). Drei Minuten pro Tag reichen, um die Begriffe und Strukturen im wahren Leben zu hören.
 
-➡️ **Jetzt mach die Übungen in `exercises.md`.**
+➡️ Weiter zu den Übungen: siehe `exercises.md` (generiert aus `exercises.yml`).
