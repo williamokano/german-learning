@@ -244,7 +244,7 @@ Jeder Satz enthält genau einen Fehler. Finden und korrigieren Sie ihn.
 4. Die Hose gehört ______ Schwester. (mein → ?)
 5. Kann ich ______ helfen? (du → ?)
 6. Das Kleid steht ______ sehr gut. (sie → ?)
-7. ______ Schuhe ist zu groß. (Diese → ?)
+7. Diese Schuhe ______ zu groß. (ist → ?)
 8. Er ______ heute einen Anzug. (träg → ?)
 9. ______ Mantel kostet weniger? (Welchen → ?)
 10. Diese Hose gehört ______. (mich → ?)
@@ -373,7 +373,7 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Ein neues Outfit
 
-Read „Ein neues Outfit" in lesson.md, section 6. Richtig (R) oder falsch (F)?
+Read „Ein neues Outfit" in lesson.md, section 7. Richtig (R) oder falsch (F)?
 
 1. Anna sucht ein Outfit für eine Hochzeit. ( )
 2. Das Kleid gefällt Anna nicht. ( )
