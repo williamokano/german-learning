@@ -326,6 +326,27 @@ npx tsx build/gen-exercises.ts --all --check
 To skip the check on a single lesson while iterating, run without `--check`
 and commit both yml + regenerated md together.
 
+### Frontmatter YAML gotcha — colons inside list values
+
+YAML parses an unquoted string containing `: ` as a key-value mapping.
+Any `buildsOn`, `grammar`, or `canDo` entry whose text contains a colon
+**must be wrapped in double quotes**:
+
+```yaml
+buildsOn:
+  - B2/01 (Nominalstil und Verbalstil)         # no colon → OK bare
+  - "B1/04 (Das Passiv: Vorgang und Zustand)"  # colon → must quote
+grammar:
+  - "Passiv Präsens, Präteritum und Perfekt (Vorgangs- und Zustandspassiv)"
+  - "Häufige FVG der Wissenschaftssprache: eine Studie durchführen, …"
+```
+
+Forgetting the quotes causes `InvalidContentEntryDataError` in the Astro
+build (`buildsOn.N: Expected type "string", received "object"`).
+Apply this rule in **both** `lesson.md` and `lesson-short.md`.
+
+---
+
 ### Recurring yml authoring gotchas
 
 The build fails on these reliably. Pre-empt them when you write the yml:
