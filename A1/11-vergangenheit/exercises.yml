@@ -765,7 +765,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 — Mein letzter Urlaub"
-    instructions: 'Read „Mein letzter Urlaub" in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    instructions: 'Read „Mein letzter Urlaub" in lesson.md, section 7. Richtig (R) oder falsch (F)?'
     items:
       - q: "Die Person ist mit einem Freund nach Wien gefahren."
         answer: false
