@@ -39,7 +39,7 @@ buildsOn:
 ## 1. Dialog: Beim Arzt (At the Doctor's)
 
 > **Arzt:** Guten Tag! Was fehlt Ihnen?  
-> **Patient:** Guten Tag, Doktor. Ich habe Halsschmerzen und Kopfschmerzen. Ich fühle mich sehr schlecht.  
+> **Patient:** Guten Tag, Doktor. Ich habe Halsschmerzen und Kopfschmerzen. Ich fühle mich sehr schlecht.\*  
 > **Arzt:** Seit wann haben Sie die Schmerzen?  
 > **Patient:** Seit zwei Tagen.  
 > **Arzt:** Ich schaue mal. Machen Sie bitte den Mund auf. Sagen Sie „Ah".  
@@ -48,7 +48,7 @@ buildsOn:
 > **Patient:** Ja, ich glaube, 38,5 Grad.  
 > **Arzt:** Sie haben eine Erkältung. Bleiben Sie zu Hause und trinken Sie viel Wasser. Ich schreibe Ihnen ein Rezept.  
 > **Patient:** Muss ich ins Krankenhaus?  
-> **Arzt:** Nein, nein. Ruhen Sie sich aus und nehmen Sie diese Tabletten dreimal täglich.  
+> **Arzt:** Nein, nein. Ruhen Sie sich aus\* und nehmen Sie diese Tabletten dreimal täglich.  
 > **Patient:** Danke, Herr Doktor.  
 > **Arzt:** Gute Besserung!  
 
