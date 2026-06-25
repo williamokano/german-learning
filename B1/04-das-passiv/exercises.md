@@ -428,7 +428,7 @@ Fill each gap with the correct form. Items marked (B1/03) review Konjunktiv II.
 11. (11) ______ ich mehr Zeit, würde ich jeden Tag Deutsch üben. (B1/03 — Konjunktiv II)
 12. Er (12) ______ gern in Berlin wohnen, aber er lebt in München. (B1/03 — würde)
 13. Wenn wir ein Auto (13) ______, könnten wir in den Urlaub fahren. (B1/03 — hätten)
-14. Das (14) ______ nicht passieren dürfen! (Passiv Prät. — modal in Prät.)
+14. Das (14) ______ nicht passieren! (Modal Prät. — kein Passiv: passieren ist intransitiv)
 15. Die Ergebnisse (15) ______ veröffentlicht worden. (Passiv Perf.)
 
 ## Übung D2 — Wortschatz-Check: Welches Wort passt nicht?
@@ -450,7 +450,7 @@ Fill in the correct form. Items are labelled with their source lesson.
 (B1/01) 4. Bruno (4) ______ früher oft ins Kino. (gehen — Präteritum)
 (B1/01) 5. Die Firma (5) ______ einen neuen Direktor. (bekommen — Präteritum)
 (B1/02) 6. Er bleibt in Berlin, (6) ______ er eigentlich nach Prag möchte. (concessive connector)
-(B1/02) 7. Die Miete ist hoch. (7) ______ wohnt Pavel trotzdem dort. (consequence connector)
+(B1/02) 7. Die Miete ist hoch. (7) ______ wohnt Pavel dort. (consequence connector — trotzdem)
 (B1/02) 8. Das Projekt ist teuer. (8) ______ macht das Team weiter. (Trotzdem / concession)
 (B1/02) 9. Er hat kein Auto. (9) ______ nimmt er die U-Bahn. (Deshalb / consequence)
 (B1/02) 10. (10) ______ das Wetter schlecht ist, gehen wir in den Park. (Obwohl / concessive)
