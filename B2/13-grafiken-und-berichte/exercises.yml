@@ -140,8 +140,8 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
-    title: "Datenverben im Infinitiv einsetzen"
-    instructions: "Setze das passende Datenverb im Infinitiv ein (steigen, sinken, zunehmen, abnehmen, stagnieren, sich verdoppeln, sich halbieren, betragen, ausmachen, liegen bei). 8 Items."
+    title: "Datenverben einsetzen"
+    instructions: "Setze das passende Datenverb in der richtigen Form ein (steigen, sinken, zunehmen, abnehmen, stagnieren, sich verdoppeln, sich halbieren, betragen, ausmachen, liegen bei). 8 Items."
     text: |
       1. Der Anteil {1} rund 32 Prozent.
       2. Die Nutzung {2} seit 2020 kontinuierlich.
@@ -257,20 +257,20 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Vergleichsstrukturen korrekt ergänzen"
-    instructions: "Setze die richtige Präposition oder Vergleichsstruktur ein (zu, dem, dem Vorjahr, dem Durchschnitt, den Jahren). 6 Items."
+    instructions: "Setze die richtige Präposition oder Vergleichsstruktur ein (zu, zum, dem Vorjahr, den). 6 Items."
     text: |
       1. Im Vergleich {1} 2023 ist der Wert gestiegen.
       2. Gegenüber {2} hat sich der Anteil um 8 Prozent verringert.
       3. Im Vergleich {3} Vorjahr stagniert die Zahl.
       4. Im Vergleich {4} 2020 liegt der Anteil heute höher.
-      5. Im Durchschnitt {5} beträgt der Wert 12 Prozent.
-      6. Zwischen {6} 2015 und 2020 war der Anstieg am stärksten.
+      5. Im Vergleich {5} Durchschnitt beträgt der Wert 12 Prozent.
+      6. Zwischen {6} Jahren 2015 und 2020 war der Anstieg am stärksten.
     answers:
       "1": zu
       "2": "dem Vorjahr"
       "3": zum
       "4": zu
-      "5": "von"
+      "5": zum
       "6": "den"
 
   - id: A6
@@ -284,7 +284,7 @@ exercises:
       3. Die Kurve {3} seit zwei Jahren.
       4. Der Durchschnitt {4} bei rund 12 Prozent.
       5. Der Frauenanteil {5} 48 Prozent {6}.
-    bank: [beträgt, sinkt, stagniert, liegt, macht, aus, steigt, sinkt]
+    bank: [beträgt, sinkt, stagniert, liegt, macht, aus, steigt, zunimmt]
     answers:
       "1": beträgt
       "2": sinkt
@@ -713,11 +713,11 @@ exercises:
       Aus den Daten {8} sich, dass der Arbeitsmarkt robust bleibt, aber an Dynamik verliert.
       Eine eindeutige Ursache {9} sich aus den vorliegenden Daten nicht ableiten. Die
       ausführlichen Tabellen {10} ab sofort auf der Website zur Verfügung.
-    bank: [ZEITRAUM, GESTIEGEN, BETRUG, AUS, VERGLEICH, ZURÜCKGEGANGEN, ERREICHT, ERGIBT, LÄSST, STEHEN, STAGNIERT, SINKT, LIEGT, ZEIGT]
+    bank: [ZEITRAUM, GESTIEGEN, MACHTE, AUS, VERGLEICH, ZURÜCKGEGANGEN, ERREICHT, ERGIBT, LÄSST, STEHEN, STAGNIERT, SINKT, LIEGT, ZEIGT, GESUNKEN]
     answers:
       "1": ZEITRAUM
       "2": GESTIEGEN
-      "3": BETRUG
+      "3": MACHTE
       "4": AUS
       "5": VERGLEICH
       "6": ZURÜCKGEGANGEN
