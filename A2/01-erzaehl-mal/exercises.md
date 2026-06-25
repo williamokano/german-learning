@@ -383,7 +383,7 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Brunos Abenteuer in Blumenau
 
-Read „Brunos Abenteuer in Blumenau" in `lesson.md`, section 5. Richtig (R) oder Falsch (F)?
+Read „Brunos Abenteuer in Blumenau" in `lesson.md`, section 7. Richtig (R) oder Falsch (F)?
 
 1. Bruno ist in Berlin geboren. ( )
 2. Mit siebzehn hat er begonnen, Englisch zu lernen. ( )

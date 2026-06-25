@@ -803,7 +803,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 — Brunos Abenteuer in Blumenau"
-    instructions: 'Read „Brunos Abenteuer in Blumenau" in `lesson.md`, section 5. Richtig (R) oder Falsch (F)?'
+    instructions: 'Read „Brunos Abenteuer in Blumenau" in `lesson.md`, section 7. Richtig (R) oder Falsch (F)?'
     items:
       - q: "Bruno ist in Berlin geboren."
         answer: false
@@ -883,7 +883,7 @@ exercises:
       - "All inseparable and -ieren verbs appear without a *ge-* prefix in their Partizip II (e.g. besucht, studiert — not *gebesucht*, *gestudiert*)"
       - "At least one modal verb appears in Präteritum form (musste / wollte / konnte / durfte / sollte), not in Perfekt (habe … müssen)"
     model: |-
-      Letzten Samstag habe ich einen tollen Tag erlebt. Zuerst musste ich früh aufstehen — mein Freund hatte einen Ausflug geplant. Dann sind wir mit dem Zug in die Innenstadt gefahren und haben ein Stadtmuseum besucht. Es war wirklich interessant! Danach haben wir in einem kleinen Café Mittagessen gegessen und alles fotografiert. Schließlich haben wir noch einen langen Spaziergang im Park gemacht. Am Ende sind wir müde, aber sehr glücklich nach Hause gegangen. Ich wollte schon lange so einen Tag haben!
+      Letzten Samstag habe ich einen tollen Tag erlebt. Zuerst musste ich früh aufstehen — mein Freund hatte einen Ausflug geplant. Dann sind wir mit dem Zug in die Innenstadt gefahren und haben ein Stadtmuseum besucht. Es war wirklich interessant! Danach haben wir in einem kleinen Café Mittag gegessen und alles fotografiert. Schließlich haben wir noch einen langen Spaziergang im Park gemacht. Am Ende sind wir müde, aber sehr glücklich nach Hause gegangen. Ich wollte schon lange so einen Tag haben!
 
   # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
 
@@ -934,7 +934,7 @@ exercises:
     groups:
       - items: [zuerst, dann, danach, trotzdem]
         odd: 3
-        why: "not a time sequencing connector — trotzdem = nevertheless (adversative connector introduced in A2/03+)"
+        why: "not a time-sequencing connector; trotzdem means 'nevertheless'"
       - items: [studiert, reserviert, fotografiert, gefahren]
         odd: 3
         why: "the only Partizip II with `ge-`; the others are *-ieren* verbs with no `ge-` prefix"
