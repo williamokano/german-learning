@@ -103,7 +103,7 @@ Complete the `wenn`-clause using the Perfekt. Each item has two gaps (Partizip I
 1. Wenn Bruno die E-Mail ______ ______, wartet er auf eine Antwort.
 2. Wenn Frau Weber die Unterlagen ______ ______, vereinbaren wir einen Termin.
 3. Wenn ich den Lebenslauf ______ ______, rufe ich an.
-4. Wenn er ______ ______, braucht er Informationen über die Firma.
+4. Wenn er sich ______ ______, braucht er Informationen über die Firma.
 5. Wenn der Kurs ______ ______, kaufe ich ein neues Buch.
 
 ## Übung A5 — `als` + Berufsbezeichnung
@@ -225,10 +225,10 @@ Each sentence has exactly one mistake. The wrong word/position is shown as a gap
 
 1. Wenn er fertig ist, ______ sofort. (er kommt → ?)
 2. Ich arbeite als ______ Ärztin in Hamburg. (eine → ?)
-3. Wenn ich keine Arbeit finde, kann ich nicht ______ die Miete. (zahlen → ?)
-4. Sie hat ______ sich für die neue Stelle. (beworben → ?)
+3. Wenn ich keine Arbeit finde, ______ die Miete nicht zahlen. (ich kann → ?)
+4. Sie hat sich ______ für die neue Stelle. (bewerben → ?)
 5. Er macht Überstunden, wenn viele Gäste ______ (da sein → ?).
-6. Wir vereinbaren einen Termin, wenn die Unterlagen ______ da. (sind → ?)
+6. Wir vereinbaren einen Termin, wenn die Unterlagen ______. (sind da → ?)
 7. Ich habe drei ______ als Lehrer gearbeitet. (Jahr → ?)
 8. Als Student ______ ich kein Geld verdienen. (bin → ?)
 
@@ -330,13 +330,13 @@ Self-check:
 
 ## Übung B10 — Smalltalk bei der Arbeit: Dialog schreiben
 
-**Your task:** Write a 6–8 line small-talk dialogue between Bruno and Tom (informal `du`). Include: a greeting and introducing yourself, at least one `wenn`-clause, `als` + a profession or role, at least one phrase from §2 Redemittel.
+**Your task:** Write a 6–8 line small-talk dialogue between Bruno and Tom (informal `du`). Include: a greeting and introducing yourself, at least one `wenn`-clause, `als` + a profession or role, at least one phrase from §3 Redemittel.
 
 Use:
 - [ ] informal `du` throughout
 - [ ] at least one `wenn`-clause (verb at end)
 - [ ] `als` + profession (no article)
-- [ ] at least one small-talk phrase from §2
+- [ ] at least one small-talk phrase from §3
 
 Self-check:
 - [ ] After `wenn`, does the verb appear at the very end of the clause?
@@ -376,7 +376,7 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Brunos erster Arbeitstag)
 
-Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?
+Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?
 
 1. Bruno fährt mit dem Bus zur Arbeit. ( )
 2. Brunos Kollegin Laura ist Programmiererin. ( )

@@ -186,7 +186,7 @@ exercises:
       1. Wenn Bruno die E-Mail {1} {2}, wartet er auf eine Antwort.
       2. Wenn Frau Weber die Unterlagen {3} {4}, vereinbaren wir einen Termin.
       3. Wenn ich den Lebenslauf {5} {6}, rufe ich an.
-      4. Wenn er {7} {8}, braucht er Informationen über die Firma.
+      4. Wenn er sich {7} {8}, braucht er Informationen über die Firma.
       5. Wenn der Kurs {9} {10}, kaufe ich ein neues Buch.
     answers:
       "1": geschickt
@@ -195,8 +195,8 @@ exercises:
       "4": hat
       "5": gelesen
       "6": habe
-      "7": sich
-      "8": beworben
+      "7": beworben
+      "8": hat
       "9": angefangen
       "10": hat
 
@@ -331,7 +331,7 @@ exercises:
       7. Wir bleiben im Büro, {13} die Besprechung so lange {14} (dauern).
       8. {15} man viel übt, lernt man schnell.
     answers:
-      "1": wenn
+      "1": weil
       "2": will
       "3":
         - wenn
@@ -424,21 +424,21 @@ exercises:
     text: |
       1. Wenn er fertig ist, {1} sofort. (er kommt → ?)
       2. Ich arbeite als {2} Ärztin in Hamburg. (eine → ?)
-      3. Wenn ich keine Arbeit finde, kann ich nicht {3} die Miete. (zahlen → ?)
-      4. Sie hat {4} sich für die neue Stelle. (beworben → ?)
+      3. Wenn ich keine Arbeit finde, {3} die Miete nicht zahlen. (ich kann → ?)
+      4. Sie hat sich {4} für die neue Stelle. (bewerben → ?)
       5. Er macht Überstunden, wenn viele Gäste {5} (da sein → ?).
-      6. Wir vereinbaren einen Termin, wenn die Unterlagen {6} da. (sind → ?)
+      6. Wir vereinbaren einen Termin, wenn die Unterlagen {6}. (sind da → ?)
       7. Ich habe drei {7} als Lehrer gearbeitet. (Jahr → ?)
       8. Als Student {8} ich kein Geld verdienen. (bin → ?)
     answers:
       "1": "kommt er"
       "2": "Ärztin"
-      "3": "zahlen"
-      "4": "sich beworben"
-      "5": sind
-      "6": da
-      "7": Jahre
-      "8": verdiene
+      "3": "kann ich"
+      "4": "beworben"
+      "5": "sind"
+      "6": "da sind"
+      "7": "Jahre"
+      "8": "verdiene"
 
   - id: B3
     block: B
@@ -621,12 +621,12 @@ exercises:
     block: B
     type: free-write
     title: "Smalltalk bei der Arbeit: Dialog schreiben"
-    prompt: "Write a 6–8 line small-talk dialogue between Bruno and Tom (informal `du`). Include: a greeting and introducing yourself, at least one `wenn`-clause, `als` + a profession or role, at least one phrase from §2 Redemittel."
+    prompt: "Write a 6–8 line small-talk dialogue between Bruno and Tom (informal `du`). Include: a greeting and introducing yourself, at least one `wenn`-clause, `als` + a profession or role, at least one phrase from §3 Redemittel."
     use:
       - "informal `du` throughout"
       - "at least one `wenn`-clause (verb at end)"
       - "`als` + profession (no article)"
-      - "at least one small-talk phrase from §2"
+      - "at least one small-talk phrase from §3"
     selfCheck:
       - "After `wenn`, does the verb appear at the very end of the clause?"
       - "Did you use `als` without an article before the profession?"
@@ -737,7 +737,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 (Brunos erster Arbeitstag)"
-    instructions: "Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?"
+    instructions: "Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?"
     items:
       - { q: "Bruno fährt mit dem Bus zur Arbeit.", answer: false, why: "He travels by U-Bahn (metro), not bus." }
       - { q: "Brunos Kollegin Laura ist Programmiererin.", answer: true, why: "Laura arbeitet als Programmiererin." }
