@@ -117,7 +117,7 @@ Modellantwort:
 
 > 1. Ich wäre gestern nach Hause gegangen. (kein „würde … gewesen sein"; Bewegungsverb → wäre)
 > 2. Ich wäre nach Hause gegangen. (Bewegungsverb → wäre, nicht hätte)
-> 3. (korrekt!) Du hättest anrufen sollen.
+> 3. Du hättest anrufen sollen. (Doppelinfinitiv: Vollverb bleibt Infinitiv „anrufen", kein Partizip „angerufen")
 > 4. Wenn ich das gewusst hätte, hätte ich anders reagiert. (Konjunktiv II Vergangenheit, nicht Präteritum „wusste")
 > 5. Ich hätte gehen können. (Modalverb → immer hätte, nicht wäre)
 > 6. Er tat, als ob er nichts gewusst hätte. (Konjunktiv, nicht Indikativ „gewusst hat")
@@ -263,7 +263,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (bewerte dich /20)
 
-1. **hätte**  2. **wärst**  3. **hätten**  4. **buchen sollen**  5. **machen können**  6. **gelernt**  7. **wärst**  8. **gewusst hätte**  9. **als**  10. **Wir hätten ihn informieren müssen.**  11. **Ich hätte beinahe den Zug verpasst.**  12. **Hätte ich das nur/bloß gewusst!**  13. **könnte**  14. **wäre**  15. **gegangen**  16. **musste**  17. **(z. B. Ich hätte früher aufstehen sollen.)**  18. **—**  19. **—**  20. **hätte**
+1. **hätte**  2. **wärst**  3. **hätten**  4. **buchen sollen**  5. **machen können**  6. **gelernt**  7. **wärst**  8. **gewusst hätte**  9. **als**  10. **Wir hätten ihn informieren müssen.**  11. **Ich hätte beinahe den Zug verpasst.**  12. **Hätte ich das nur/bloß gewusst!**  13. **könnte**  14. **war**  15. **gegangen**  16. **musste**  17. **(z. B. Ich hätte früher aufstehen sollen.)**  18. **—**  19. **—**  20. **hätte**
 
 ---
 
