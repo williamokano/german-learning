@@ -1,0 +1,531 @@
+lesson: B2/14
+title: 'B2 · Lektion 14 — Übungen: Wiederholung & Prüfungstraining B2'
+intro: >
+  Vollständiger Probeexamen im Format Goethe-Zertifikat B2 / telc Deutsch B2.
+  Führen Sie den ganzen Test in einer Sitzung durch:
+  Hören 30 Min. · Lesen 80 Min. · Schreiben 80 Min. · Sprechen 15 Min. (paarweise).
+  Schauen Sie erst nach dem Abschluss aller Teile in solutions.md.
+
+exam:
+  skills:
+    - key: hoeren
+      label: "Teil 1 · Hören"
+      maxPoints: 25
+      passPoints: 14
+      exerciseIds: [exam-H1, exam-H2, exam-H3, exam-H4]
+    - key: lesen
+      label: "Teil 2 · Lesen"
+      maxPoints: 25
+      passPoints: 14
+      exerciseIds: [exam-L5, exam-L6, exam-L7, exam-L8]
+    - key: schreiben
+      label: "Teil 3 · Schreiben"
+      maxPoints: 25
+      passPoints: 14
+      exerciseIds: [exam-S9, exam-S10]
+      selfAssessed: true
+    - key: sprechen
+      label: "Teil 4 · Sprechen"
+      maxPoints: 25
+      passPoints: 14
+      exerciseIds: [exam-Sp11]
+      selfAssessed: true
+  totalPass: 60
+  rule: "≥60/100 (Gesamt) UND in jedem Modul ≥60 %"
+
+exercises:
+
+  # ── Teil 1 — Hören ────────────────────────────────────────────────────────
+
+  - id: exam-H1
+    block: exam
+    type: single-choice
+    title: "Aufgabe 1 — Kurze Gespräche im Alltag"
+    instructions: "Hören Sie die Gespräche (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the conversations (twice) and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Wann fängt das Meeting an?"
+        audio: aufgabe1_gespraech1.mp3
+        options:
+          - { key: a, text: "Um 9 Uhr" }
+          - { key: b, text: "Um 9:30 Uhr" }
+          - { key: c, text: "Um 10 Uhr" }
+        answer: b
+        why: 'Die Kollegin sagt: "Es wurde auf halb zehn verschoben."'
+
+      - q: "Was möchte der Mann im Reisebüro buchen?"
+        audio: aufgabe1_gespraech2.mp3
+        options:
+          - { key: a, text: "Eine Flugreise nach Wien" }
+          - { key: b, text: "Eine Zugreise nach Wien" }
+          - { key: c, text: "Eine Hotelübernachtung in Wien" }
+        answer: b
+        why: 'Er sagt: "Ich würde gern eine Zugverbindung nach Wien buchen."'
+
+      - q: "Welches Problem hat die Frau mit der Bestellung?"
+        audio: aufgabe1_gespraech3.mp3
+        options:
+          - { key: a, text: "Die Lieferung ist falsch angekommen." }
+          - { key: b, text: "Die Lieferung ist noch nicht da." }
+          - { key: c, text: "Die Rechnung stimmt nicht." }
+        answer: a
+        why: '"Ich habe zwar ein Paket bekommen, aber der Inhalt entspricht nicht dem, was ich bestellt habe."'
+
+      - q: "Wozu rät der Arzt der Patientin?"
+        audio: aufgabe1_gespraech4.mp3
+        options:
+          - { key: a, text: "Mehr Sport zu treiben" }
+          - { key: b, text: "Sich mehr Ruhe zu gönnen" }
+          - { key: c, text: "Ein neues Medikament zu nehmen" }
+        answer: b
+        why: '"Ich würde Ihnen empfehlen, sich in den nächsten Wochen mehr Ruhe zu gönnen."'
+
+      - q: "Was hat der Anrufer vergessen?"
+        audio: aufgabe1_gespraech5.mp3
+        options:
+          - { key: a, text: "Seine Versichertenkarte mitzubringen" }
+          - { key: b, text: "Den Termin zu bestätigen" }
+          - { key: c, text: "Den Anamnesebogen auszufüllen" }
+        answer: c
+        why: 'Die Sprechstundenhilfe: "Haben Sie den Anamnesebogen schon ausgefüllt?" / "Nein, den habe ich vergessen."'
+
+
+  - id: exam-H2
+    block: exam
+    type: true-false
+    title: "Aufgabe 2 — Radiobeitrag: Neue Lernkultur an Schulen"
+    instructions: "Hören Sie den Radiobeitrag (zweimal) und entscheiden Sie: richtig (R) oder falsch (F)?"
+    instructionsEn: "Listen to the radio report (twice) and decide: true (R) or false (F)?"
+    audio: aufgabe2.mp3
+    items:
+      - q: "An der Helene-Lange-Schule in Frankfurt wurde das Klassenzimmer abgeschafft."
+        answer: true
+        why: 'Der Beitrag sagt: "Die Helene-Lange-Schule in Frankfurt hat das Klassenzimmer abgeschafft."'
+      - q: "Die Schülerinnen und Schüler lernen dort nur noch digital."
+        answer: false
+        why: 'Es heißt: "Es wird nicht mehr nur digital gelernt — im Gegenteil: Es wird wieder mehr diskutiert, geschrieben und experimentiert."'
+      - q: "Schulleiter Markus Berger ist von den Ergebnissen überzeugt."
+        answer: true
+        why: '"Wir haben festgestellt, dass die Leistungen sich deutlich verbessert haben."'
+      - q: "Eltern haben sich anfangs gegen die Reform gestellt."
+        answer: true
+        why: '"Anfangs gab es Widerstand von Elternseite, aber mittlerweile sind die meisten überzeugt."'
+      - q: "Das Konzept lässt sich laut Berger auf jede Schule übertragen."
+        answer: false
+        why: 'Er sagt: "Es lässt sich nicht einfach auf jede Schule übertragen — die Rahmenbedingungen müssen stimmen."'
+      - q: "Die Schulbehörde will das Konzept in den nächsten Jahren auch an anderen Schulen testen."
+        answer: true
+        why: '"Die Schulbehörde plant, das Konzept in den nächsten Jahren auch an anderen Schulen zu testen."'
+
+
+  - id: exam-H3
+    block: exam
+    type: single-choice
+    title: "Aufgabe 3 — Kurze Ansagen"
+    instructions: "Hören Sie die Ansagen (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the announcements (twice) and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Wie viel Verspätung hat der ICE 78 nach Hamburg?"
+        audio: aufgabe3_ansage1.mp3
+        options:
+          - { key: a, text: "Etwa 15 Minuten" }
+          - { key: b, text: "Etwa 25 Minuten" }
+          - { key: c, text: "Etwa 35 Minuten" }
+        answer: b
+        why: '"circa 25 Minuten Verspätung"'
+      - q: "Wann öffnet das Stadtmuseum morgen?"
+        audio: aufgabe3_ansage2.mp3
+        options:
+          - { key: a, text: "Um 9 Uhr" }
+          - { key: b, text: "Um 10 Uhr" }
+          - { key: c, text: "Um 11 Uhr" }
+        answer: b
+        why: '"Das Stadtmuseum öffnet morgen erst um zehn Uhr."'
+      - q: "Welche Veranstaltung wird heute Abend in der Buchhandlung angekündigt?"
+        audio: aufgabe3_ansage3.mp3
+        options:
+          - { key: a, text: "Eine Lesung mit dem Autor Ferdinand Klein" }
+          - { key: b, text: "Eine Signierstunde mit der Autorin Eva Nowak" }
+          - { key: c, text: "Ein Konzert mit der Band Quartett Plus" }
+        answer: b
+        why: '"Heute Abend liest die Autorin Eva Nowak aus ihrem neuen Roman."'
+      - q: "Wo findet das Treffen der Wandergruppe statt?"
+        audio: aufgabe3_ansage4.mp3
+        options:
+          - { key: a, text: "Am Hauptbahnhof" }
+          - { key: b, text: "Am Marktplatz vor dem Rathaus" }
+          - { key: c, text: "Am Wanderparkplatz am Stadtrand" }
+        answer: c
+        why: '"Treffpunkt ist um 9 Uhr am Wanderparkplatz am Stadtrand."'
+      - q: "Wie lange ist die Bibliothek am Samstag geöffnet?"
+        audio: aufgabe3_ansage5.mp3
+        options:
+          - { key: a, text: "Von 9 bis 14 Uhr" }
+          - { key: b, text: "Von 10 bis 16 Uhr" }
+          - { key: c, text: "Von 11 bis 17 Uhr" }
+        answer: b
+        why: '"Am Samstag öffnen wir von zehn bis sechzehn Uhr."'
+
+
+  - id: exam-H4
+    block: exam
+    type: single-choice
+    title: "Aufgabe 4 — Vortrag: Die Zukunft der Arbeit"
+    instructions: "Hören Sie den Vortrag (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the talk (twice) and choose the correct answer (a, b, or c)."
+    audio: aufgabe4.mp3
+    items:
+      - q: "Womit beschäftigt sich Dr. Miriam Lang in ihrem Vortrag hauptsächlich?"
+        options:
+          - { key: a, text: "Mit den Auswirkungen der Digitalisierung auf den Arbeitsmarkt" }
+          - { key: b, text: "Mit der Geschichte der Arbeitszeitverkürzung" }
+          - { key: c, text: "Mit der Rolle der Gewerkschaften in Europa" }
+        answer: a
+        why: '"Ich möchte heute über die Frage sprechen, wie sich die Digitalisierung auf den Arbeitsmarkt auswirken wird."'
+      - q: "Welche These vertritt die Vortragende?"
+        options:
+          - { key: a, text: "Dass viele Berufe in den nächsten Jahren verschwinden werden" }
+          - { key: b, text: "Dass sich Berufe stark verändern, aber nicht alle verschwinden" }
+          - { key: c, text: "Dass die Digitalisierung keine großen Auswirkungen haben wird" }
+        answer: b
+        why: '"Ich bin der Überzeugung, dass sich Berufe stark verändern werden — aber längst nicht alle werden verschwinden."'
+      - q: "Welche Fähigkeit wird laut Dr. Lang in Zukunft am wichtigsten sein?"
+        options:
+          - { key: a, text: "Technisches Spezialwissen" }
+          - { key: b, text: "Kommunikation und lebenslanges Lernen" }
+          - { key: c, text: "Fremdsprachenkenntnisse" }
+        answer: b
+        why: '"Entscheidend wird die Fähigkeit sein, sich immer wieder neu zu orientieren und lebenslang zu lernen."'
+      - q: "Was kritisiert die Vortragende am Bildungssystem?"
+        options:
+          - { key: a, text: "Dass zu wenig über Digitalisierung gesprochen wird" }
+          - { key: b, text: "Dass die Ausbildung zu wenig flexibel auf Veränderungen reagiert" }
+          - { key: c, text: "Dass zu viele junge Menschen studieren" }
+        answer: b
+        why: '"Unsere Ausbildungsgänge reagieren oft viel zu langsam auf die Veränderungen der Arbeitswelt."'
+      - q: "Mit welchem Schlusswort beendet die Vortragende ihren Vortrag?"
+        options:
+          - { key: a, text: "Mit einem Zitat von Karl Marx" }
+          - { key: b, text: "Mit einem persönlichen Beispiel aus ihrem eigenen Berufsleben" }
+          - { key: c, text: "Mit einer Aufforderung an die Politik" }
+        answer: c
+        why: '"Ich möchte die Politik ausdrücklich auffordern, hier mehr zu investieren."'
+
+
+  # ── Teil 2 — Lesen ────────────────────────────────────────────────────────
+
+  - id: exam-L5
+    block: exam
+    type: true-false
+    title: "Aufgabe 5 — Zeitungsartikel (Text 1): Richtig / Falsch"
+    instructions: "Lesen Sie den Zeitungsartikel (lesson.md §7 Text 1) und entscheiden Sie: richtig (R) oder falsch (F)?"
+    instructionsEn: "Read the newspaper article (lesson.md §7 Text 1) and decide: true (R) or false (F)?"
+    items:
+      - q: "Im Jahr 2025 lag der Frauenanteil in den Vorständen bei 36 Prozent."
+        answer: true
+        why: '"Im Jahr 2025 lag der Frauenanteil in den Vorständen der 30 größten deutschen Unternehmen bei 36 Prozent."'
+      - q: "Das Ziel von 40 Prozent Frauenanteil wurde bis Ende 2025 erreicht."
+        answer: false
+        why: '"Ursprünglich hatte die Bundesregierung eine Quote von 40 Prozent bis Ende 2025 angepeilt — dieses Ziel wurde klar verfehlt."'
+      - q: "Auch auf der mittleren Managementebene ist der Frauenanteil gestiegen."
+        answer: false
+        why: '"Dort stagniert der Frauenanteil seit drei Jahren bei etwa 28 Prozent."'
+      - q: "Die Studienautorinnen und -autoren führen die Stagnation unter anderem auf die Doppelbelastung zurück."
+        answer: true
+        why: '"Viele Expertinnen und Experten führen dies auf die Doppelbelastung durch Familie und Beruf zurück."'
+      - q: "Laut Berger lässt sich der Trend nur durch verbindliche Quoten ändern."
+        answer: false
+        why: 'Die Autoren fordern Quoten UND flexiblere Arbeitszeitmodelle UND Ausbau der Kinderbetreuung — nicht nur Quoten.'
+
+
+  - id: exam-L6
+    block: exam
+    type: single-choice
+    title: "Aufgabe 6 — Zeitungsartikel (Text 1): Leseverstehen"
+    instructions: "Lesen Sie den Zeitungsartikel (lesson.md §7 Text 1) noch einmal und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Read the newspaper article (lesson.md §7 Text 1) again and choose the correct answer (a, b, or c)."
+    items:
+      - q: "Welche Aussage macht Dr. Hilde Berger über die Entwicklung der letzten Jahre?"
+        options:
+          - { key: a, text: "Sie verläuft zu langsam." }
+          - { key: b, text: "Sie ist rückläufig." }
+          - { key: c, text: "Sie ist schneller als erwartet." }
+        answer: a
+        why: '"Die Entwicklung ist positiv, aber sie verläuft deutlich langsamer als geplant."'
+      - q: 'Wer hat den „Führungsmonitor" veröffentlicht?'
+        options:
+          - { key: a, text: "Die Bundesregierung" }
+          - { key: b, text: "Das Deutsche Institut für Wirtschaftsforschung" }
+          - { key: c, text: "Die 30 größten deutschen Unternehmen" }
+        answer: b
+        why: 'Das geht aus dem neuen „Führungsmonitor" des Deutschen Instituts für Wirtschaftsforschung (DIW) hervor.'
+      - q: "Was fordern die Studienautorinnen und -autoren?"
+        options:
+          - { key: a, text: "Mehr flexible Arbeitszeitmodelle und Quoten auf mehreren Ebenen" }
+          - { key: b, text: "Eine Quote von 50 Prozent ab 2027" }
+          - { key: c, text: "Mehr Teilzeitstellen für Frauen" }
+        answer: a
+        why: '"verbindliche Quoten auch für die zweite und dritte Führungsebene, flexiblere Arbeitszeitmodelle und einen Ausbau der betrieblichen Kinderbetreuung."'
+
+
+  - id: exam-L7
+    block: exam
+    type: matching
+    title: "Aufgabe 7 — Forumsbeiträge zuordnen (Text 2)"
+    instructions: "Welche Aussage (a–e) passt zu welchem Forumsbeitrag (1–4)? Eine Aussage passt nicht."
+    instructionsEn: "Which statement (a–e) fits which forum post (1–4)? One statement does not fit."
+    left:
+      - key: "1"
+        text: "Beitrag 1 — Sandra_Kr (Arbeitgeberin, Personalabteilung)"
+      - key: "2"
+        text: "Beitrag 2 — Tom-Meier (Softwareentwickler, remote)"
+      - key: "3"
+        text: "Beitrag 3 — Dr. Eva Nowak (Arbeitspsychologin)"
+      - key: "4"
+        text: "Beitrag 4 — Layla.B (Studentin, Werkstudentin)"
+    right:
+      - key: a
+        text: "A — Sie schätzt die Flexibilität, vermisst aber den persönlichen Kontakt im Team."
+      - key: b
+        text: "B — Sie würde gern dauerhaft von zu Hause arbeiten, ohne je ins Büro zu kommen."
+      - key: c
+        text: "C — Sie sieht sowohl Vor- als auch Nachteile und betont die Rolle der Arbeitgeber."
+      - key: d
+        text: "D — Sie spart Pendelzeit und schätzt die Konzentration, wünscht sich aber Hybrid."
+      - key: e
+        text: "E — Sie bevorzugt ein Hybridmodell, weil ihr Studium und Job unter einen Hut müssen."
+    answers:
+      "1": a
+      "2": d
+      "3": c
+      "4": e
+
+
+  - id: exam-L8
+    block: exam
+    type: single-choice
+    title: "Aufgabe 8 — Wissenschaftlicher Text (Text 3): Lücken ergänzen"
+    instructions: "Lesen Sie den wissenschaftlichen Text (lesson.md §7 Text 3). Wählen Sie für jede Lücke (1–6) die richtige Antwort (a, b oder c)."
+    instructionsEn: "Read the scientific text (lesson.md §7 Text 3). Choose the correct answer (a, b, or c) for each gap (1–6)."
+    items:
+      - q: "Eine Studie der Universität Zürich _______ (1), dass Schlaf eine entscheidende Rolle spielt."
+        options:
+          - { key: a, text: "kommt zu dem Ergebnis" }
+          - { key: b, text: "geht zu dem Ergebnis" }
+          - { key: c, text: "macht zu dem Ergebnis" }
+        answer: a
+        why: '"kommt zu dem Ergebnis" ist die feste Verbindung — *zu dem Ergebnis kommen*.'
+
+      - q: "Die Probandinnen und Probanden _______ (2) im Durchschnitt 23 Prozent besser ab."
+        options:
+          - { key: a, text: "schnitten" }
+          - { key: b, text: "schnitteten" }
+          - { key: c, text: "haben geschnitten" }
+        answer: a
+        why: 'Präteritum von *abschneiden* ist *schnitt(en) ab* — schwaches Verb im Plural.'
+
+      - q: "Die Forscherinnen und Forscher führen das _______ (3), dass im Schlaf Vokabeln verfestigt werden."
+        options:
+          - { key: a, text: "darüber zurück" }
+          - { key: b, text: "darauf zurück" }
+          - { key: c, text: "daran zurück" }
+        answer: b
+        why: '„zurückführen auf + Akk." → Pronominaladverb *darauf* (Sache).'
+
+      - q: "Insbesondere die Tiefschlafphasen _______ (4) dabei von Bedeutung zu sein."
+        options:
+          - { key: a, text: "scheinen" }
+          - { key: b, text: "scheinen" }
+          - { key: c, text: "scheinen sich" }
+        answer: a
+        why: '„scheinen + Inf." — die Tiefschlafphasen scheinen wichtig zu sein.'
+
+      - q: "Die Autorinnen und Autoren empfehlen, neue Lerninhalte kurz _______ (5) dem Schlafengehen zu wiederholen."
+        options:
+          - { key: a, text: "vor" }
+          - { key: b, text: "bevor" }
+          - { key: c, text: "während" }
+        answer: a
+        why: 'Präposition *vor* + Dativ: *vor dem Schlafengehen*.'
+
+      - q: "So _______ (6) die Konsolidierung unterstützt."
+        options:
+          - { key: a, text: "wird" }
+          - { key: b, text: "wurde" }
+          - { key: c, text: "worden" }
+        answer: a
+        why: 'Generelles Statement (Präsens) → Passiv Präsens: *wird … unterstützt*.'
+
+
+  # ── Teil 3 — Schreiben ────────────────────────────────────────────────────
+
+  - id: exam-S9
+    block: exam
+    type: free-write
+    title: "Aufgabe 9 — Forumsbeitrag schreiben"
+    instructions: "Schreiben Sie einen Forumsbeitrag (ca. 100–120 Wörter) zum Thema: Sollte Homeoffice zur Regel werden?"
+    instructionsEn: "Write a forum post (approx. 100–120 words) on the topic: Should homeoffice become the rule?"
+    prompt: |
+      Sie haben in einem Online-Magazin diesen Forumsbeitrag gelesen:
+
+      "Seit der Pandemie arbeite ich vollständig im Homeoffice, und ich möchte nie
+      wieder ins Büro zurück. Ich bin produktiver, ich kann meine Kinder besser
+      betreuen, und ich spare zwei Stunden Pendelzeit pro Tag. Wer trotzdem ins
+      Büro will, soll halt hingehen — aber zwingen sollte man niemanden.
+      — Markus_Kr"
+
+      Schreiben Sie eine ausführliche Antwort auf diesen Beitrag. Gehen Sie auf
+      folgende Punkte ein:
+      - Stimmen Sie Markus zu, oder haben Sie eine andere Meinung?
+      - Welche Vorteile und welche Nachteile hat das Homeoffice Ihrer Erfahrung nach?
+      - Wie sollte Ihrer Meinung nach eine moderne Arbeitswelt aussehen?
+
+      Verwenden Sie Konjunktiv I (indirekte Rede), Passiv-Alternativen
+      (sich lassen / -bar / man) und mindestens zwei B2-Konnektoren
+      (einerseits … andererseits, zwar … aber, nicht nur … sondern auch …).
+    use:
+      - 'Klare Meinungsäußerung mit „Meiner Meinung nach …" oder „Ich bin der Überzeugung, dass …"'
+      - "Mindestens ein Vorteil von Homeoffice"
+      - "Mindestens ein Nachteil von Homeoffice"
+      - "Ein B2-Konnektor (einerseits … andererseits / zwar … aber / nicht nur … sondern auch)"
+      - "Mindestens eine Passiv-Alternative (sich lassen / -bar / man)"
+      - "Mindestens eine indirekte Rede (Konjunktiv I)"
+      - 'Ein abschließender Satz mit „Insgesamt lässt sich sagen, dass …" oder ähnlich'
+    selfCheck:
+      - 'Steht das finite Verb in „weil"- und „dass"-Sätzen am Ende?'
+      - "Hast du mindestens einen Konjunktiv I korrekt gebildet (er/sie/es → e-Endung)?"
+      - "Hast du eine Passiv-Alternative korrekt verwendet (sich lassen + Aktiv-Infinitiv)?"
+      - "Hast du deine Meinung klar begründet, nicht nur Standpunkte aufgelistet?"
+      - "Ist der Beitrag zwischen 100 und 120 Wörter lang?"
+    model: |
+      Meiner Meinung nach hat Markus in einigen Punkten recht, aber die Sache
+      ist komplexer, als er sie darstellt. Einerseits bietet das Homeoffice
+      tatsächlich große Vorteile: Man spart Pendelzeit, kann Beruf und Familie
+      besser vereinbaren und ist oft produktiver. Andererseits fehlt vielen
+      Beschäftigten der persönliche Austausch im Team — und wie eine
+      Psychologin im Forum betont, kann dauerhaftes Homeoffice sogar zu
+      Erschöpfung führen.
+
+      Ich bin daher der Überzeugung, dass ein Hybridmodell die ideale Lösung
+      wäre. Zwar lassen sich nicht alle Tätigkeiten ins Homeoffice verlagern,
+      aber viele schon. Insgesamt lässt sich sagen, dass die Arbeitswelt
+      differenzierter gedacht werden muss als „nur Homeoffice" oder „nur Büro".
+    maxScore: 15
+
+  - id: exam-S10
+    block: exam
+    type: free-write
+    title: "Aufgabe 10 — Erörterung schreiben"
+    instructions: "Schreiben Sie eine Erörterung (ca. 120–150 Wörter) zum Thema: Sollte die Bundesregierung eine verbindliche Frauenquote einführen?"
+    instructionsEn: "Write a discursive essay (approx. 120–150 words) on the topic: Should the federal government introduce a mandatory women's quota?"
+    prompt: |
+      Sie haben im Deutschkurs folgende These diskutiert:
+
+      „Die Bundesregierung sollte in allen großen Unternehmen eine verbindliche
+      Frauenquote einführen, um die Gleichstellung in Führungspositionen zu
+      beschleunigen."
+
+      Schreiben Sie eine ausführliche Erörterung. Gehen Sie auf folgende Punkte
+      ein:
+      - Eine kurze Einleitung mit Ihrer These
+      - Mindestens zwei Pro-Argumente (mit Beispielen oder Belegen)
+      - Mindestens ein Contra-Argument
+      - Ein Fazit mit Ihrer persönlichen Stellungnahme
+
+      Verwenden Sie eine formelle Sprache (Nominalstil, Passiv, Funktionsverbgefüge)
+      und die B2-Konnektoren (einerseits … andererseits, zwar … aber,
+      nicht nur … sondern auch, je … desto).
+    use:
+      - "Einleitung mit klarer These"
+      - "Mindestens zwei Pro-Argumente (mit kurzer Begründung oder Beispiel)"
+      - "Mindestens ein Contra-Argument"
+      - 'Verwenden Sie Funktionsverbgefüge (z. B. „eine Rolle spielen", „in Betracht ziehen", „Bezug nehmen auf")'
+      - "Verwenden Sie mindestens eine Passiv-Alternative (sich lassen / -bar / man)"
+      - "Verwenden Sie mindestens zwei B2-Konnektoren"
+      - "Fazit mit persönlicher Stellungnahme"
+    selfCheck:
+      - "Hast du eine klare Struktur (Einleitung → Pro → Contra → Fazit)?"
+      - "Steht das Verb in Nebensätzen (weil / dass / obwohl) am Ende?"
+      - "Hast du Funktionsverbgefüge korrekt verwendet (Bedeutung im Nomen, nicht im Verb)?"
+      - "Hast du Nominal- und Verbalstil gemischt (nicht nur Substantivitis)?"
+      - "Ist die Erörterung zwischen 120 und 150 Wörter lang?"
+    model: |
+      Frauen in Führungspositionen — eine Frage der Gleichstellung?
+
+      Die Einführung einer verbindlichen Frauenquote wird in Deutschland seit
+      Jahren kontrovers diskutiert. Einerseits spielt die Geschlechterverteilung
+      in Vorständen und Aufsichtsräten eine entscheidende Rolle für die
+      Gleichstellung — nicht nur aus Gründen der Fairness, sondern auch, weil
+      gemischte Teams nachweislich bessere Ergebnisse erzielen. Andererseits
+      befürchten Kritikerinnen und Kritiker, dass eine Quote die Qualifikation
+      in den Hintergrund rücken lässt.
+
+      Befürworterinnen und Befürworter führen an, dass freiwillige Selbstverpflichtungen
+      bislang nicht ausgereicht haben. Zwar wurden in den vergangenen Jahren
+      Fortschritte erzielt, doch auf der mittleren Managementebene stagniert
+      der Frauenanteil seit Jahren. Eine verbindliche Quote könnte diese
+      Entwicklung beschleunigen.
+
+      Dem ist entgegenzuhalten, dass eine Quote allein die strukturellen
+      Probleme nicht löst. Solange sich die Rahmenbedingungen — Kinderbetreuung,
+      Arbeitszeitmodelle — nicht grundlegend ändern, lassen sich die Ursachen
+      der Unterrepräsentation nicht beseitigen.
+
+      Insgesamt lässt sich sagen, dass eine Quote als Ergänzung zu strukturellen
+      Reformen sinnvoll sein kann. Sie allein ist jedoch keine hinreichende
+      Lösung.
+    maxScore: 15
+
+
+  # ── Teil 4 — Sprechen ─────────────────────────────────────────────────────
+
+  - id: exam-Sp11
+    block: exam
+    type: speaking-prompt
+    title: "Aufgabe 11 — Sprechen (3 Teile)"
+    instructions: "Führen Sie alle drei Sprechaufgaben durch — mit einem Partner oder als Monolog (Aufnahme). Bewerten Sie sich anschließend selbst anhand der Kriterien."
+    parts:
+      - label: "Teil 4a — Sich vorstellen (ca. 2 Minuten)"
+        prompt: "Stellen Sie sich vor und sprechen Sie über die folgenden Punkte."
+        bullets:
+          - "1. Name und Alter"
+          - "2. Herkunft und Wohnort"
+          - "3. Beruf oder Studium"
+          - "4. Sprachen"
+          - "5. Ein Hobby oder Interesse"
+          - "6. Warum Sie Deutsch lernen"
+
+      - label: "Teil 4b — Über ein Thema sprechen (ca. 3 Minuten)"
+        prompt: "Sie ziehen ein Thema und halten eine kurze Präsentation. Verwenden Sie Konjunktiv II für Hypothesen, Konnektoren für Übergänge und mindestens ein Partizipialattribut."
+        bullets:
+          - "Thema 1: Sollte Homeoffice zur Regel werden?"
+          - "Thema 2: Brauchen wir eine Frauenquote in Unternehmen?"
+          - "Thema 3: Wie verändert die Digitalisierung unser Leben?"
+          - "Struktur: Einleitung → Pro-Argumente → Contra-Argumente → Fazit"
+          - "Verwenden Sie: einerseits … andererseits, zwar … aber, nicht nur … sondern auch, meiner Meinung nach, insgesamt lässt sich sagen"
+          - "Verwenden Sie: Wenn ich … wäre / hätte, würde ich … (Konjunktiv II)"
+          - 'Verwenden Sie: ein Partizipialattribut, z. B. „die im Jahr 2020 eingeführte Regelung"'
+
+      - label: "Teil 4c — Gemeinsam planen / diskutieren (ca. 4 Minuten)"
+        prompt: 'Planen Sie gemeinsam mit Ihrem Partner eine Veranstaltung zum Thema „Sprachen lernen in unserer Stadt". Verwenden Sie Konjunktiv I (indirekte Rede), Funktionsverbgefüge und Konnektoren.'
+        bullets:
+          - "Was? (z. B. Sprachcafé, Workshop, Vortrag)"
+          - "Für wen? (Zielgruppe)"
+          - "Wann und wo? (Termin, Ort)"
+          - "Wer macht was? (Aufgabenverteilung)"
+          - "Wie wird es beworben? (Kommunikation)"
+          - "Verwenden Sie Konjunktiv I: Die Stadtverwaltung habe zugesagt, dass …"
+          - "Verwenden Sie Funktionsverbgefüge: Wir sollten eine Entscheidung treffen / Bezug nehmen auf …"
+          - "Verwenden Sie Konnektoren für Übergänge und Konsens"
+    criteria:
+      - "4a — Inhalt (alle 6 Punkte angesprochen): stark 2 Pkt. / ausreichend 1 Pkt. / schwach 0 Pkt."
+      - "4a — Flüssigkeit: stark 2 Pkt. / ausreichend 1 Pkt. / schwach 0 Pkt."
+      - "4a — Aussprache und Intonation: stark 2 Pkt. / ausreichend 1 Pkt. / schwach 0 Pkt."
+      - "4b — Struktur erkennbar (Einleitung → Pro → Contra → Fazit): stark / ausreichend / schwach"
+      - "4b — Mindestens 3 Konnektoren korrekt verwendet: stark / ausreichend / schwach"
+      - "4b — Konjunktiv II für Hypothesen korrekt: stark / ausreichend / schwach"
+      - "4b — Mindestens ein Partizipialattribut korrekt: stark / ausreichend / schwach"
+      - "4c — Alle 5 Planungspunkte besprochen: stark / ausreichend / schwach"
+      - "4c — Konjunktiv I korrekt verwendet: stark / ausreichend / schwach"
+      - "4c — Reaktion auf den Partner / Konsens finden: stark / ausreichend / schwach"
+      - 'Gesamt Sprechen: BESTANDEN = in jedem der 3 Teile mindestens „ausreichend"'
