@@ -289,7 +289,7 @@ exercises:
       2. Wenn Bruno Zeit hätte, {3} er jeden Tag Fotos {4}. (machen)
       3. Wenn Anna in Lissabon wäre, {5} sie Portugiesisch {6}. (lernen)
       4. Wenn wir früher aufgestanden wären — nein, stellen wir uns vor: Wenn wir früher aufstehen {7}, {8} wir den Zug {9}. (können / nehmen)
-      5. Wenn Mia nicht so viele Meetings hätte, {10} sie öfter kochen {11}. (würde / -)
+      5. Wenn Mia nicht so viele Meetings hätte, {10} sie öfter {11}. (kochen)
       6. Wenn ihr nicht so weit weg wärt, {12} wir euch öfter {13}. (besuchen)
     answers:
       "1": würde
@@ -532,7 +532,7 @@ exercises:
     left:
       - { key: "1", text: "Ich wünschte, ich" }
       - { key: "2", text: "Wenn ich mehr Zeit hätte," }
-      - { key: "3", text: "An deiner Stelle" }
+      - { key: "3", text: "Ich würde dir empfehlen," }
       - { key: "4", text: "Wenn Bruno in Tokio wäre," }
       - { key: "5", text: "Du solltest" }
       - { key: "6", text: "Es wäre besser, wenn" }
@@ -541,9 +541,9 @@ exercises:
       - { key: b, text: "würde ich sofort anfangen." }
       - { key: c, text: "du früher anfängst." }
       - { key: d, text: "dich bei einem Kurs anmelden." }
-      - { key: e, text: "würde ich das ausprobieren." }
+      - { key: e, text: "es einmal auszuprobieren." }
       - { key: f, text: "hätte schon früher angefangen." }
-      - { key: g, text: "wäre ich sehr glücklich." }
+      - { key: g, text: "würdest du es bestimmt schaffen." }
     answers:
       "1": f
       "2": b
@@ -782,10 +782,10 @@ exercises:
       mutiger gewesen wäre. Wenn wir alle mehr Mut {4}, würden wir öfter neue
       Dinge wagen. Wenn ich nächstes Jahr mehr Zeit {5}, würde ich einen langen
       Urlaub machen. Ich würde gern nach Lissabon {6} — das Meer, die Sonne, die
-      Ruhe. Du {7} das auch mögen, glaube ich. Wenn wir {8} zusammen fahren
-      könnten, wäre das wunderbar. Ich {9} dir empfehlen, es einmal auszuprobieren.
+      Ruhe. Du {7} das auch mögen, glaube ich. Wenn wir zusammen fahren {8},
+      wäre das wunderbar. Ich {9} dir empfehlen, es einmal auszuprobieren.
       Vielleicht sollten wir das {10} planen!
-    bank: [KOMPLETT, WÜNSCHTE, WÄRE, HÄTTEN, ZIEHEN, WÜRDEST, WÜRDEN, HÄTTE, WÜRDE, BALD, DAMALS, SOLLTE, REISEN, KÖNNTEN, KÖNNTEST]
+    bank: [KOMPLETT, WÜNSCHTE, WÄRE, HÄTTEN, ZIEHEN, WÜRDEST, WÄRST, HÄTTE, WÜRDE, BALD, DAMALS, SOLLTE, BLEIBEN, KÖNNTEN, KÖNNTEST]
     answers:
       "1": KOMPLETT
       "2": WÜNSCHTE
