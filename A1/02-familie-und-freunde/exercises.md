@@ -80,6 +80,8 @@ Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einma
 
 </details>
 
+_**Chunk alert (forward-reference):** The transcript uses several structures from later lessons — *anrufen* (L5: separable), *möchten … besuchen* (L3: möchten + infinitive), *mit dem Zug* (L8: mit + Dat), *ankommen* (L5: separable), *mitkommen* (L5: separable), *zurückrufen* (L10: imperative + L5 separable), *damit … ob … passt* (A2/03: subordinate clauses). Read the message as a fixed chunk for now._
+
 ---
 
 # Block A — Basistraining
@@ -335,7 +337,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Das ist meine Freundin Carla. (1) ____ kommt aus Italien.  a) Er  b) Sie  c) Du
 2. Carla (2) ____ einen Bruder und eine Schwester.  a) hat  b) habe  c) hast
-3. (3) ____ Bruder wohnt in Rom.  a) Ihre  b) Sein  c) Ihr
+3. (3) ____ Bruder wohnt in Rom.  a) Ihre  b) Sein  c) ihr
 4. Carlas Eltern (4) ____ sehr nett.  a) ist  b) sind  c) seid
 5. Carla ist (5) ____ verheiratet, sie ist ledig.  a) nicht  b) nein  c) kein
 6. Sie ist dreißig Jahre (6) ______.  a) alt  b) Jahre  c) jung

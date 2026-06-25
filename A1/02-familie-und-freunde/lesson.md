@@ -184,9 +184,9 @@ fit (fit) · süß (sweet/cute) · toll (great)
 
 > 📖 **Lese-Tipp:** Lies den Text zuerst zügig durch, ohne jedes Wort zu suchen. Beim zweiten Lesen markiere alle Formen von *haben* und alle Possessivartikel (*mein, sein, ihre…*). So siehst du die Grammatik dieser Lektion im echten Kontext.
 
-Es ist Dienstag. Bruno und Anna sitzen im Deutschkurs. Die Pause (break) beginnt. Bruno hat sein Handy in der Hand.
+Es ist Dienstag. Bruno und Anna *sitzen im Deutschkurs*\*\*. Die Pause (break) *beginnt*\*\*. Bruno hat sein Handy *in der Hand*\*\*.
 
-„Schau mal", sagt Bruno. „Das ist ein Foto von meiner Familie. Ich habe das Foto immer auf meinem Handy."
+„*Schau mal*\*", sagt Bruno. „Das ist ein Foto *von meiner Familie*\*\*. Ich habe das Foto immer auf meinem Handy."
 
 Anna schaut. Auf dem Foto sind sechs Personen.
 
@@ -194,7 +194,7 @@ Anna schaut. Auf dem Foto sind sechs Personen.
 
 „Und wer ist das Kind?", fragt Anna.
 
-„Das ist meine Nichte Sofia. Sie ist die Tochter meiner Schwester Carla. Sofia ist vier Jahre alt — sehr süß! Meine Schwester Carla ist sechsundzwanzig und wohnt in São Paulo. Sie ist nicht verheiratet, aber sie hat einen Freund."
+„Das ist meine Nichte Sofia. Sie ist *die Tochter meiner Schwester Carla*\*\*. Sofia ist vier Jahre alt — sehr süß! Meine Schwester Carla ist sechsundzwanzig und wohnt in São Paulo. Sie ist nicht verheiratet, aber sie hat einen Freund."
 
 „Hast du Brüder?", fragt Anna.
 
@@ -204,7 +204,7 @@ Anna schaut. Auf dem Foto sind sechs Personen.
 
 Bruno lacht. „Dann haben wir beide eine große Familie weit weg. Aber das ist okay — wir haben unsere Klasse hier!"
 
-Die Pause ist zu Ende. Frau Schmidt sagt: „Okay, wir lernen weiter — die Zahlen von zwanzig bis tausend!"
+Die Pause ist zu Ende. Frau Schmidt sagt: „Okay, wir *lernen weiter*\* — die Zahlen von zwanzig bis tausend!"
 
 <details>
 <summary>📝 Lese-Check — beantworte in einem Satz</summary>
@@ -219,6 +219,15 @@ Die Pause ist zu Ende. Frau Schmidt sagt: „Okay, wir lernen weiter — die Zah
 > *Nein, er hat keinen Bruder. Er hat nur eine Schwester.*
 
 </details>
+
+\* **Chunk alerts (forward-reference):** The italicised phrases use future
+structures — *sitzen / beginnt* (A2: irregular verbs), *in der Hand / in
+meinem Handy / in der Klasse / in Blumenau / in Jaroslawl* (L8: Dat.
+prepositions), *Schau mal* (L10: imperative + modal particle), *von meiner
+Familie* (L8: *von* + Dat), *die Tochter meiner Schwester* (B1: Genitive — for
+now use *die Tochter von meiner Schwester* or just *Carlas Tochter*),
+*lernen weiter* (L5: separable verbs). Treat each as a fixed chunk for now —
+you'll learn the grammar in the named lesson.
 
 ---
 
@@ -567,6 +576,11 @@ That said, the extended family hasn't disappeared. In Turkish, Arabic, Polish, a
 
 This lesson introduces *haben*, possessives, and plurals — three things that work together. A brief, focused 3-day pass locks them in before you move to Lektion 3.
 
+\* **Chunk alerts:** This 3-Tage-Plan uses *du-imperatives* (L10) and other
+out-of-scope structures to give natural instructions. Treat each italicised
+imperative or future-structure phrase below as a fixed chunk — you'll drill
+the grammar in the named lesson.
+
 ### Tag 1 (30 min) — Erstkontakt
 
 - [ ] **Dialog A laut lesen** (3×, aus §1). Pay special attention to every form of *haben* and every *mein/dein/sein/ihre*.
@@ -577,17 +591,22 @@ This lesson introduces *haben*, possessives, and plurals — three things that w
 ### Tag 2 (30 min) — Vertiefung
 
 - [ ] **Dialog B laut lesen** (3×, aus §1). Note the *Sie*/*Ihre* forms — formal possessives.
-- [ ] **Mini-Geschichte §5** lesen + Lese-Check. Lies den Text danach nochmal laut, 1×.
-- [ ] **Grammatik §6.1–§6.3** nochmal lesen: *haben*, Possessivpronomen, Pluralformen. Schreib die Plurale der 10 wichtigsten Familienwörter aus dem Gedächtnis.
+- [ ] **Mini-Geschichte §5** *lesen*\* + Lese-Check. *Lies den Text danach nochmal laut, 1×*\*.
+- [ ] **Grammatik §6.1–§6.3** nochmal lesen: *haben*, Possessivpronomen, Pluralformen. *Schreib die Plurale der 10 wichtigsten Familienwörter aus dem Gedächtnis*\*.
 - [ ] **Block B** (Übungen B1–B4) — Vertiefung: Mini-Dialoge, Fehlersuche, Ja/Nein-Fragen.
 
 ### Tag 3 (30 min) — Prüfungsvorbereitung
 
-- [ ] **Hörtext §8** anhören (zweimal, Pausen nutzen). Transkript erst danach öffnen.
+- [ ] **Hörtext §8** *anhören*\* (zweimal, Pausen nutzen). Transkript erst danach öffnen.
 - [ ] **Lesetext §7** lesen — markiere alle Formen von *haben*, *sein*, Possessivartikel und Zahlen.
-- [ ] **Magazin §9** lesen — notiere 2 Fakten über moderne deutsche Familien, die dich überrascht haben.
+- [ ] **Magazin §9** lesen — *notiere 2 Fakten über moderne deutsche Familien, die dich überrascht haben*\*.
 - [ ] **Block C** (Übungen C1–C5) — Prüfungstraining: Lückentext, Lesen, Sprachbausteine.
-- [ ] **Morgen: Block D** (Übungen D1–D4) — Selbsttest. Wenn du ≥16/20 hast: weiter zu Lektion 3!
+- [ ] **Morgen: Block D** (Übungen D1–D4) — Selbsttest. Wenn du ≥16/20 hast: *weiter zu Lektion 3*\*!
+
+\* **Imperative chunks (L10)** — the *du*-form (*lies, schreib, lies … laut,
+notiere, anhören*) is drilled in Lektion 10. *anhören* is a separable verb
+(L5). *weiter zu* uses the Dat. preposition *zu* (L8). Read the items as
+fixed recipes for now.
 
 ---
 

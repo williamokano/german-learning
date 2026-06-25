@@ -188,7 +188,7 @@ Selbstkorrektur:
 
 1. **b) Sie** — Freundin = she → Sie.
 2. **a) hat** — er/sie/es-Form: hat.
-3. **c) Ihr** — her brother: owner Carla (sie) → ihr, Bruder masc. → no -e.
+3. **c) ihr** — her brother: owner Carla (sie) → ihr, Bruder masc. → no -e.
 4. **b) sind** — Eltern = plural → sind.
 5. **a) nicht** — negating an adjective/verb → nicht.
 6. **a) alt** — dreißig Jahre alt — standard age expression.
