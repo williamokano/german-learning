@@ -229,15 +229,15 @@ Fill in the blanks with the appropriate form. Choose from: `weil`, `dass`, `desh
 
 Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form. Item 3 is correct (write C).
 
-1. Ich bin müde, weil ich ______ viel gearbeitet. (habe → ?)
-2. Er kommt nicht. Deshalb ______ er ist krank. (es → ?)
+1. Ich bin müde, weil ich viel gearbeitet ______. (habe → ?)
+2. Er kommt nicht. Deshalb ______ er krank. (es → ?)
 3. Ich glaube, dass sie morgen ______. (correct? — yes/no)
-4. Weil es regnet, ______ bleiben zu Hause. (wir → ?)
-5. Sie lernt Deutsch, weil sie ______ in Berlin leben. (will → word order)
+4. Weil es regnet, ______ wir zu Hause. (wir → ?)
+5. Sie lernt Deutsch, weil sie in Berlin leben ______. (will → word order)
 6. Ich finde, ______ Deutsch sehr interessant ist. (das → ?)
 7. Darum kommt er nicht, ______ er krank ist. (weil → ?)
-8. Wir nehmen den Zug. ______ das Auto ist kaputt. (Deswegen → ?)
-9. Ich bin sicher, dass er ______ Recht. (hat → ?)
+8. Wir nehmen den Zug, ______ das Auto kaputt ist. (Deswegen → ?)
+9. Ich bin sicher, dass er Recht ______. (hat → ?)
 10. Weil sie müde ______. Sie geht schlafen. (ist → ?)
 
 ## Übung B3 — Sätze verbinden: `weil` oder `deshalb`?
@@ -352,10 +352,10 @@ Liebe Anna,
 ich schreibe dir, ______ ich ein Problem habe und deine Meinung brauche.
 Ich überlege, ob ich den Deutschkurs wechseln soll, ______ der Kurs für mich
 zu schwierig ist. Ich ______ nicht, dass ich die richtige Gruppe bin.
-______ lerne ich jeden Abend zwei Stunden. Aber es reicht ______  nicht.
+______ lerne ich jeden Abend zwei Stunden. Aber es reicht ______ nicht.
 Ich glaube, ______ ich einen Kurs für Anfänger brauche. Was ______ du?
 Ich bin ______ sicher, was ich machen soll. Ich finde es wichtig, ______
-man im richtigen Kurs ist. ______ bitte um deine Ehrlichkeit!
+man im richtigen Kurs ist. ______ um deine Ehrlichkeit!
 
 ## Übung C2 — Sprachbausteine Teil 1
 
@@ -390,7 +390,7 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext)
 
-Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?
+Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?
 
 1. Anna lernt Deutsch, weil sie in Berlin studieren möchte. ( )
 2. Anna übt nur im Kurs, nicht zu Hause. ( )
