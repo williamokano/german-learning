@@ -488,7 +488,7 @@ exercises:
       4. Er ist nicht hier, er ist {4} Hause. (nach → ?)
       5. Anna fährt morgen {5} Berlin. (zu → ?)
       6. {6} Sie geradeaus! (Imperativ: Verb am Anfang)
-      7. Steigen Sie am Dom {7} aus! (Trennbar: Vorsilbe am Ende)
+      7. Steigen Sie am Dom {7}! (Trennbar: Vorsilbe am Ende)
       8. Ich fahre mit {8} Straßenbahn. (dem → ?)
       9. Wie komme ich {9} Bahnhof? (zur → ?)
       10. Er {10} mit dem Zug. (fahrt → ?)
@@ -791,7 +791,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 — Unterwegs mit Familie Yilmaz"
-    instructions: 'Read „Unterwegs mit Familie Yilmaz" in lesson.md, section 6. Richtig (R) oder falsch (F)?'
+    instructions: 'Read „Unterwegs mit Familie Yilmaz" in lesson.md, section 7. Richtig (R) oder falsch (F)?'
     items:
       - q: "Herr Yilmaz fährt mit dem Bus zur Arbeit."
         answer: false

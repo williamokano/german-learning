@@ -239,7 +239,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 4. Er ist nicht hier, er ist ______ Hause. (nach → ?)
 5. Anna fährt morgen ______ Berlin. (zu → ?)
 6. ______ Sie geradeaus! (Imperativ: Verb am Anfang)
-7. Steigen Sie am Dom ______ aus! (Trennbar: Vorsilbe am Ende)
+7. Steigen Sie am Dom ______! (Trennbar: Vorsilbe am Ende)
 8. Ich fahre mit ______ Straßenbahn. (dem → ?)
 9. Wie komme ich ______ Bahnhof? (zur → ?)
 10. Er ______ mit dem Zug. (fahrt → ?)
@@ -382,7 +382,7 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Unterwegs mit Familie Yilmaz
 
-Read „Unterwegs mit Familie Yilmaz" in lesson.md, section 6. Richtig (R) oder falsch (F)?
+Read „Unterwegs mit Familie Yilmaz" in lesson.md, section 7. Richtig (R) oder falsch (F)?
 
 1. Herr Yilmaz fährt mit dem Bus zur Arbeit. ( )
 2. Die Fahrt zur Arbeit dauert zwanzig Minuten. ( )
