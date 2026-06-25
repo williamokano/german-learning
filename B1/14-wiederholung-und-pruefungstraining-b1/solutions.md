@@ -28,7 +28,7 @@
 
 # Block A — Basistraining
 
-## Übung A1 — Lesen Teil 1 — Stellenanzeige (Text 1): Richtig / Falsch / Nicht im Text
+## Übung A1 — Lesen Teil 1 — Stellenanzeige (Text 1): Richtig / Falsch
 
 1. **R** — "TechStart GmbH, Berlin-Mitte" — stated in the job ad.
 2. **F** — The ad asks for "Teamfähigkeit und eigenverantwortliches Arbeiten" but no specific years of experience are mentioned.

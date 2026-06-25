@@ -60,9 +60,9 @@ Listen to the telephone message from the Goethe-Institut. Then choose the correc
 
 # Block A — Basistraining
 
-## Übung A1 — Lesen Teil 1 — Stellenanzeige (Text 1): Richtig / Falsch / Nicht im Text
+## Übung A1 — Lesen Teil 1 — Stellenanzeige (Text 1): Richtig / Falsch
 
-Read Text 1 (Stellenanzeige, lesson.md §5) and decide for each statement: Richtig (R), Falsch (F), oder Nicht im Text (N)? Use "true" for R, "false" for F, "not stated" answers are marked false here — check solutions.md for the full key.
+Read Text 1 (Stellenanzeige, lesson.md §5) and decide for each statement: Richtig (R) oder Falsch (F)? Items not mentioned in the ad count as Falsch (F).
 
 
 1. Die Stelle bei TechStart GmbH ist in Berlin-Mitte. ( )
@@ -169,7 +169,7 @@ Fill in the Konjunktiv II form (würde/hätte/wäre). 6 items.
 
 ## Übung B4 — Sprachbausteine — B1/04 Passiv
 
-Rewrite each active sentence in Passiv Präsens or Präteritum as indicated. 5 items.
+Rewrite each active sentence in Passiv Präsens or Präteritum as indicated. 6 gaps.
 
 1. Man spielt den Hörtext zweimal ab. (Passiv Präsens) → Der Hörtext (1) ______ zweimal (2) ______. (abspielen)
 2. Die Lehrerin korrigierte die Aufgaben. (Passiv Präteritum) → Die Aufgaben (3) ______ von der Lehrerin (4) ______. (korrigieren)

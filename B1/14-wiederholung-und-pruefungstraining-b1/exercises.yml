@@ -112,12 +112,11 @@ exercises:
   - id: A1
     block: A
     type: true-false
-    title: 'Lesen Teil 1 — Stellenanzeige (Text 1): Richtig / Falsch / Nicht im Text'
+    title: 'Lesen Teil 1 — Stellenanzeige (Text 1): Richtig / Falsch'
     instructions: >
       Read Text 1 (Stellenanzeige, lesson.md §5) and decide for each statement:
-      Richtig (R), Falsch (F), oder Nicht im Text (N)?
-      Use "true" for R, "false" for F, "not stated" answers are marked false
-      here — check solutions.md for the full key.
+      Richtig (R) oder Falsch (F)? Items not mentioned in the ad count as
+      Falsch (F).
     items:
       - q: "Die Stelle bei TechStart GmbH ist in Berlin-Mitte."
         answer: true
@@ -383,7 +382,7 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/04 Passiv'
-    instructions: 'Rewrite each active sentence in Passiv Präsens or Präteritum as indicated. 5 items.'
+    instructions: 'Rewrite each active sentence in Passiv Präsens or Präteritum as indicated. 6 gaps.'
     text: |
       1. Man spielt den Hörtext zweimal ab. (Passiv Präsens) → Der Hörtext {1} zweimal {2}. (abspielen)
       2. Die Lehrerin korrigierte die Aufgaben. (Passiv Präteritum) → Die Aufgaben {3} von der Lehrerin {4}. (korrigieren)
