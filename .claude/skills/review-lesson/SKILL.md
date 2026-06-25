@@ -241,12 +241,20 @@ The audio pipeline reads `lesson.md`; the Short view a learner toggles to is
 3. **Wortschatz nouns** — same article + plural for any noun in both.
 
 ```bash
-diff <(grep -E '^> \*\*[A-Z][a-z]+(\s\([a-zäöü]+\))?:\*\*' <lesson>/lesson.md      | sed -E 's/  $//') \
-     <(grep -E '^> \*\*[A-Z][a-z]+(\s\([a-zäöü]+\))?:\*\*' <lesson>/lesson-short.md | sed -E 's/  $//')
+# Speaker turns only. The SPK regex also matches multi-word labels (e.g. "Frau Yilmaz:");
+# the HDR filter drops the header blockquote (Du lernst / Grammatik / Builds on …), which
+# otherwise looks like a one-word speaker and produces a false "drift" hit.
+SPK='^> \*\*[A-Z][a-zäöü]+( [A-Za-zäöü.]+)?( \([a-zäöü]+\))?:\*\*'
+HDR='\*\*(Du lernst|You will learn|Grammatik|Grammar|Builds on|Wortschatz|Redemittel):'
+diff <(grep -E "$SPK" <lesson>/lesson.md      | grep -vE "$HDR" | sed -E 's/  $//') \
+     <(grep -E "$SPK" <lesson>/lesson-short.md | grep -vE "$HDR" | sed -E 's/  $//')
 ```
 **False positives to skip:**
 - Footnote `\*` (escaped) vs `*` (unescaped) at a line end — a footnote marker, not
   drift. Normalise to `\*` in both files (seen in A1/04, A1/10).
+- **Header blockquote lines** (`> **Grammatik:**`, `> **Builds on:**`) — caught by the
+  speaker grep but they're metadata, not dialog; the `HDR` filter above drops them. The
+  Full/Short header may differ in emphasis formatting only — not content drift (seen in B2/03).
 - **Prüfungstraining exam lessons (`xx/14`)** — the Short is intentionally a compact
   grammar review with no dialogs; skip the dialog drift check.
 

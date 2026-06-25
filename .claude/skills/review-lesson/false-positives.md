@@ -160,3 +160,12 @@ reviewers (or could be) but should NOT be flagged. **Format:**
 - **Looks like:** `lesson-short.md` is missing 20+ dialog turns that exist in `lesson.md`
 - **Why it's actually OK:** exam lessons (`A1/14`, `A2/14`, `B1/14`, `B2/14`) intentionally have Short = a compact grammar-review sheet, not a dialog transcript
 - **Where to skip:** ALL Prüfungstraining lessons — skip the dialog drift check entirely for these
+
+---
+
+## Drift grep matches the header blockquote, not a dialog turn
+
+- **Looks like:** the dual-mode drift `diff` reports a difference on a line such as `> **Grammatik:**` or `> **Builds on:**`
+- **Why it's actually OK:** the speaker-line grep `^> **Word:**` also matches the lesson's **header blockquote** (`Du lernst` / `Grammatik` / `Builds on`), which is metadata, not a dialog turn. The Full header bolds its inner text (`**Konjunktiv II …**`) while the Short header is plainer — a view-formatting difference, not content drift.
+- **Where to skip:** any reported "drift" line whose key is a header field (Du lernst / You will learn / Grammatik / Grammar / Builds on / Wortschatz / Redemittel). Confirm the actual speaker turns (`Anna:`, `Bruno:`, `Frau …:`) agree. Seen in B2/03.
+- **Fix:** the SKILL.md §6.2 drift snippet now filters these header keys out (and matches multi-word speaker labels like `Frau Yilmaz`); if a new header field appears, add it to the exclusion list.
