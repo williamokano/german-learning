@@ -303,7 +303,7 @@ Um zehn Uhr ist Bruno nach Hause gegangen. Er hat geduscht\* und ist ins Bett ge
 | 9. fotografieren | — | fotografiert ⚠️ |
 | 10. telefonieren | — | telefoniert ⚠️ |
 | 11. besuchen | besuch | **besucht** ⚠️ |
-| 12. kochen | koch | ge**koch**t |
+| 12. wohnen | wohn | ge**wohn**t |
 
 ⚠️ **Sonderfall -t/-d:** Stems ending in *-t* or *-d* insert an extra *-e-*: `arbeiten → gearbeitet`, `reden → geredet`. This is the same group that adds *-e-* in the present tense (*du arbeitest*, Lektion 7).
 
@@ -315,7 +315,7 @@ Um zehn Uhr ist Bruno nach Hause gegangen. Er hat geduscht\* und ist ins Bett ge
 >
 > | ❌ Wrong | ✅ Right | Why |
 > |---|---|---|
-> | *Ich habe gearbeitet.* → correct! But: *Ich habe **gearbeit**.* | *Ich habe gear**beit**et.* | Stems ending in *-t* need the extra *-e-* insert: `arbeit + e + t`. |
+> | *Ich habe **gearbeit**.* | *Ich habe gear**beit**et.* | Stems ending in *-t* need the extra *-e-* insert: `arbeit + e + t`. |
 > | *Ich habe **gestudiert**.* | *Ich habe **studiert**.* | *-ieren* verbs never get *ge-*. |
 > | *Ich habe **gebesucht**.* | *Ich habe **besucht**.* | Inseparable prefix *be-* — no *ge-*. |
 > | *Ich habe **gemachten**.* | *Ich habe **gemacht**.* | Partizip II is invariable — no adjective ending after *haben*. |
@@ -596,7 +596,7 @@ Um zehn Uhr ist Bruno nach Hause gegangen. Er hat geduscht\* und ist ins Bett ge
 > 💡 **Lerntipp:** Say each Partizip II three times before moving on — first slowly, then at normal speed, then in a full sentence. The mouth learns faster than the brain for these: *ge-mach-t, ge-mach-t, ge-mach-t. Ich habe es gemacht.* That triple-drill takes 15 seconds and anchors the form.
 
 - **ge-** prefix: the `g` is hard (like English *g* in "get"), and `e` is short: *ge*-macht, *ge*-gangen.
-- **-ungen / -angen / -ommen**: the final `-en` is reduced to a syllabic `n`: "ge-MACH-t'n".
+- **-ungen / -angen / -ommen**: the final `-en` is reduced to a syllabic `n`: "ge-GANG-'n", "ge-KOMM-'n".
 - **Partizip II with -t**: `gespielt` ends with a hard `-t`, not a `-d`: "ge-SHPEELT".
 - **war** rhymes with English "far". **hatte** has a short `a`: "HAT-tuh".
 - **Urlaub**: stress on first syllable — "UR-lowp". The `au` diphthong = "ow" as in "now".

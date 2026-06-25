@@ -361,7 +361,7 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Mein letzter Urlaub
 
-Read „Mein letzter Urlaub" in lesson.md, section 5. Richtig (R) oder falsch (F)?
+Read „Mein letzter Urlaub" in lesson.md, section 7. Richtig (R) oder falsch (F)?
 
 1. Die Person ist mit einem Freund nach Wien gefahren. ( )
 2. Sie waren vier Tage in Wien. ( )
