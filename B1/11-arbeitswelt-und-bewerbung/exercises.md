@@ -205,7 +205,7 @@ Read the job posting text below and choose the correct answer (a, b, or c). 5 it
 1. Welche Erfahrung wird erwartet?  a) Mindestens fünf Jahre.  b) Mindestens zwei Jahre.  c) Keine Erfahrung nötig.
 2. Welches Englischniveau wird vorausgesetzt?  a) C1.  b) A2.  c) B2.
 3. Ab wann ist die Stelle zu besetzen?  a) Ab sofort.  b) Ab dem 1. Oktober.  c) Ab dem 1. Januar.
-4. Was ist mit dem Verb „werden" in den kursiven Sätzen der Anzeige?  a) Es ist ein Futur I.  b) Es ist das Passiv-Hilfsverb.  c) Es ist das Modalverb wollen.
+4. Welche Funktion hat das Verb „werden" in den Sätzen der Anzeige, die „werden" enthalten?  a) Es ist ein Futur I.  b) Es ist das Passiv-Hilfsverb.  c) Es ist das Modalverb wollen.
 5. Bis wann muss man sich bewerben?  a) Bis zum 15. Juli.  b) Bis zum 30. Juni.  c) Bis zum 1. Oktober.
 
 ## Übung A11 — Arbeitswelt-Wortschatz: Definitionen ergänzen
