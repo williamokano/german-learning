@@ -186,7 +186,7 @@ Anna stand am Bahnsteig und sah dem Zug nach, der gerade abfuhr. Zwei Minuten. N
 
 Sie setzte sich auf eine Bank und überlegte. Eigentlich hätte sie es ahnen können: Der Wecker hatte am Morgen nicht geklingelt, und schon da war klar gewesen, dass der Tag schwierig werden würde. Sie hätte früher aufstehen sollen. Sie hätte auch ein Taxi nehmen können. Doch im Nachhinein war alles leicht zu sagen.
 
-Auf dem Bahnsteig stand ein älterer Herr, der ebenfalls den Zug verpasst hatte. Er lächelte und sagte: „Nicht ärgern. Beinahe hätte ich vor zwanzig Jahren einen Zug verpasst — und genau in dem Moment lernte ich meine Frau kennen, weil ich auf den nächsten warten musste." Er tat, als ob das die normalste Sache der Welt wäre.
+Auf dem Bahnsteig stand ein älterer Herr, der ebenfalls den Zug verpasst hatte. Er lächelte und sagte: „Nicht ärgern. Vor zwanzig Jahren habe ich einen Zug verpasst — und genau in dem Moment lernte ich meine Frau kennen, weil ich auf den nächsten warten musste." Er tat, als ob das die normalste Sache der Welt wäre.
 
 Anna lachte. Vielleicht hatte er recht. Vielleicht wäre es gar nicht besser gewesen, den Zug zu erreichen. Wer weiß, was sie sonst verpasst hätte? Sie holte ihr Handy heraus und schrieb Bruno: „Zug verpasst. Aber ich glaube, das war kein Fehler." Als der nächste Zug einfuhr, fühlte sie sich seltsam ruhig — als wäre nichts geschehen.
 
@@ -200,7 +200,7 @@ Anna lachte. Vielleicht hatte er recht. Vielleicht wäre es gar nicht besser gew
 > *Sie hätte früher aufstehen, ein Taxi nehmen oder die frühere Bahn nehmen sollen.*
 >
 > **3. Was erzählt der ältere Herr?**
-> *Dass er vor zwanzig Jahren beinahe einen Zug verpasst hätte und genau dadurch seine Frau kennengelernt hat.*
+> *Dass er vor zwanzig Jahren einen Zug verpasst hat und dadurch seine Frau kennengelernt hat.*
 
 </details>
 
