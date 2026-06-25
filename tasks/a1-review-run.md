@@ -29,7 +29,7 @@ After each lesson, if I learn anything new, update the skill and write a
 |---|--------|--------|--------|
 | 01 | A1/01-erste-kontakte | [x] clean (no fixes — gen pass) | — |
 | 02 | A1/02-familie-und-freunde | [x] done | 7156c10 |
-| 03 | A1/03-essen-und-trinken | [x] done | (C3 gap 1 ambiguity) |
+| 03 | A1/03-essen-und-trinken | [x] done | 0bec7e7 (C3 gap 1: ESSE as alt) |
 | 04 | A1/04-wohnen | [x] done | (dialog drift: \* escape) |
 | 05 | A1/05-mein-tag | [x] clean (no fixes — gen pass; duplicate "gehe" in C1 bank is intentional for 2 gaps) | — |
 | 06 | A1/06-freizeit-und-hobbys | [x] clean (no fixes — gen pass) | — |
