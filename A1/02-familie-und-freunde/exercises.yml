@@ -124,6 +124,7 @@ exercises:
     instructions: "Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest."
     instructionsEn: "Listen to the message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Hallo Anna, hier ist Mama. Ich rufe an wegen dem Wochenende. Wir möchten dich am Samstag besuchen. Wir kommen mit dem Zug um vierzehn Uhr an. Dein Vater und ich haben eine Überraschung für dich. Dein Bruder kommt auch mit. Bitte ruf mich zurück, damit ich weiß, ob der Termin passt. Vielen Dank und bis Samstag!"
+    notes: "**Chunk alert (forward-reference):** The transcript uses several structures from later lessons — *anrufen* (L5: separable), *möchten … besuchen* (L3: möchten + infinitive), *mit dem Zug* (L8: mit + Dat), *ankommen* (L5: separable), *mitkommen* (L5: separable), *zurückrufen* (L10: imperative + L5 separable), *damit … ob … passt* (A2/03: subordinate clauses). Read the message as a fixed chunk for now."
     items:
       - q: "Wessen Nachricht ist das?"
         options:
@@ -717,7 +718,7 @@ exercises:
         options:
           - { key: a, text: "Ihre" }
           - { key: b, text: "Sein" }
-          - { key: c, text: "Ihr" }
+          - { key: c, text: "ihr" }
         answer: c
         why: "her brother: owner Carla (sie) → ihr, Bruder masc. → no -e."
       - q: "Carlas Eltern (4) ____ sehr nett."
