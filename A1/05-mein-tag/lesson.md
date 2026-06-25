@@ -372,7 +372,7 @@ How do you know a verb is separable? The prefix carries the **stress**: **AUF**s
 
 ### 6.4 `arbeiten` — verbs with -t/-d stems
 
-**Warum?** Most German verbs are easy to conjugate: you chop the *-en* and add endings (*-e, -st, -t, -en, -t, -en*). But some stems end in *-t* or *-d* — like *arbeit-*, *find-*, *kost-*. If you try to add the ending *-st* straight to *arbeit-*, you get *arbeitst* — which is nearly impossible to pronounce (three consonants in a row: *-t, -s, -t*). German fixes this by inserting a *-e-* between the stem and the ending: *du arbeit**e**st*, *er arbeit**e**t*. The same thing happens in English with words like *"he presses"* (not "he presst") — languages solve the same pronunciation problem the same way. You already met *finden* in Lektion 4 (*das Zimmer find**e**t* …wait, that was in an implied context). The rule covers a whole family: *arbeiten, finden, kosten, antworten, öffnen* — all insert the *-e-*.
+**Warum?** Most German verbs are easy to conjugate: you chop the *-en* and add endings (*-e, -st, -t, -en, -t, -en*). But some stems end in *-t* or *-d* — like *arbeit-*, *find-*, *kost-*. If you try to add the ending *-st* straight to *arbeit-*, you get *arbeitst* — which is nearly impossible to pronounce (three consonants in a row: *-t, -s, -t*). German fixes this by inserting a *-e-* between the stem and the ending: *du arbeit**e**st*, *er arbeit**e**t*. The same thing happens in English with words like *"he presses"* (not "he presst") — languages solve the same pronunciation problem the same way. You already met *finden* in Lektion 4 (e.g. *Bruno find**e**t das Bad hässlich*); *find-* is a *-d* stem, so it follows the same rule. The rule covers a whole family: *arbeiten, finden, kosten, antworten, öffnen* — all insert the *-e-*.
 
 | | arbeiten | lernen |
 |---|---|---|
@@ -437,7 +437,7 @@ ich sehe fern · du **siehst** fern · er **sieht** fern (full e→ie family in 
 
 **Examples:**
 
-1. *Ich **schlafe** acht Stunden.* · 2. *Du **schläfst** zu wenig.* · 3. *Bruno **schläft** am Samstag lange.* · 4. *Wir **schlafen** gut.* · 5. *Ihr **schlaft** auf dem Sofa?* · 6. *Der Kurs **fängt** um neun **an**.* · 7. *Anna **fängt** ihre Arbeit um acht **an**.* · 8. *Wann **fängst** du **an**?* · 9. *Wir **fangen** zusammen **an**.* · 10. *Ich **sehe** abends manchmal **fern**.* · 11. *Du **siehst** zu viel **fern**!* · 12. *Er **sieht** den Film **fern**.* — Wait, no: *fernsehen* means to watch TV generally; *sehen* + movie is separate.
+1. *Ich **schlafe** acht Stunden.* · 2. *Du **schläfst** zu wenig.* · 3. *Bruno **schläft** am Samstag lange.* · 4. *Wir **schlafen** gut.* · 5. *Ihr **schlaft** auf dem Sofa?* · 6. *Der Kurs **fängt** um neun **an**.* · 7. *Anna **fängt** ihre Arbeit um acht **an**.* · 8. *Wann **fängst** du **an**?* · 9. *Wir **fangen** zusammen **an**.* · 10. *Ich **sehe** abends manchmal **fern**.* · 11. *Du **siehst** zu viel **fern**!* · 12. *Sie **sieht** jeden Abend **fern**.*
 
 > ⚠️ **Häufige Fehler**
 >
