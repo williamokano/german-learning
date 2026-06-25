@@ -94,7 +94,7 @@
 
 ## Übung B2 — Finde den Fehler
 
-1. **auf**  2. **für**  3. **auf**  4. **ärgert**  5. **nicht auf**  6. **einen**  7. **der**  8. **ihn entfernen (weglassen)**  9. **über**  10. **auf**
+1. **auf**  2. **für**  3. **auf**  4. **ärgert**  5. **nicht auf**  6. **einen**  7. **der**  8. ****  9. **über**  10. **auf**
 
 ## Übung B3 — Frage und Antwort verbinden
 

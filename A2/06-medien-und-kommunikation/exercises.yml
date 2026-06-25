@@ -483,12 +483,12 @@ exercises:
       2. Bruno interessiert sich {2} Sport im Fernsehen. (auf → ?)
       3. Wir freuen uns {3} das Konzert morgen. (you haven't been yet — über → ?)
       4. Anna {4} sich über die Werbung. (ärger → ?)
-      5. Er antwortet {5} meine E-Mail nicht. (correct word order)
+      5. Er antwortet {5} meine E-Mail. (correct word order)
       6. Ich schreibe an meinen Freund {6} Brief. (einem → ?)
       7. Sie fragt nach {7} Adresse. (die → ?)
-      8. Ich denke oft an meinen Bruder {8}. (ihm → ?)
+      8. Ich denke oft an meinen Bruder {8}. (ihm → weglassen)
       9. Wir sprechen {9} das Problem. (für → ?)
-      10. Er freut sich {10} sein nächste Urlaub. (hasn't happened yet — über → ?)
+      10. Er freut sich {10} seinen nächsten Urlaub. (hasn't happened yet — über → ?)
     answers:
       "1": auf
       "2": für
@@ -497,7 +497,7 @@ exercises:
       "5": "nicht auf"
       "6": "einen"
       "7": der
-      "8": "ihn entfernen (weglassen)"
+      "8": ""
       "9": über
       "10": auf
 
@@ -726,7 +726,7 @@ exercises:
           - { key: c, text: "an" }
         answer: b
         why: "sich interessieren für."
-      - q: "Letzte Woche habe ich (3) ____ dir geschrieben."
+      - q: "Letzte Woche habe ich (3) ____ dich geschrieben."
         options:
           - { key: a, text: "an" }
           - { key: b, text: "über" }
@@ -740,7 +740,7 @@ exercises:
           - { key: c, text: "bekam" }
         answer: a
         why: "Perfekt: habe bekommen."
-      - q: "Ärgere dich (5) ____ meine vielen Nachrichten."
+      - q: "Ärgere dich (5) ____ über meine vielen Nachrichten."
         options:
           - { key: a, text: "nicht" }
           - { key: b, text: "kein" }
@@ -784,7 +784,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 (Lesetext)"
-    instructions: "Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?"
+    instructions: "Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?"
     items:
       - { q: "Anna interessiert sich für deutsche Serien.", answer: true, why: "Anna interessiert sich sehr für deutsche Serien." }
       - { q: "Bruno ärgert sich über das schlechte Internet in seiner Wohnung.", answer: false, why: "It is Anna who is annoyed about the slow connection in her flat." }
