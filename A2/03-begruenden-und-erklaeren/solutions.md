@@ -98,7 +98,7 @@
 
 ## Übung B2 — Finde den Fehler
 
-1. **habe**  2. **ist**  3. **C**  4. **bleiben**  5. **in Berlin leben will**  6. **dass**  7. **weil**  8. **Deswegen**  9. **hat**  10. **ist**
+1. **habe**  2. **ist**  3. **C**  4. **bleiben**  5. **will**  6. **dass**  7. **weil**  8. **weil**  9. **hat**  10. **ist**
 
 ## Übung B3 — Sätze verbinden: `weil` oder `deshalb`?
 

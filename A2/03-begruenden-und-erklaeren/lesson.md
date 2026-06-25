@@ -127,7 +127,7 @@ Every time someone asks you *Warum?* — Why are you learning German? Why did yo
 | Noun (article + plural) | English |
 |---|---|
 | die Meinung, -en | opinion |
-| der Grund, –e (Gründe) | reason |
+| der Grund, -e (Gründe) | reason |
 | die Entscheidung, -en | decision |
 | die Erklärung, -en | explanation |
 | die Diskussion, -en | discussion |
@@ -372,13 +372,19 @@ The inversion rule with *deshalb* is not new — you already learned it in A1/01
 
 Anna und Bruno sitzen nach dem Kurs im Café um die Ecke. Das Thema des Tages ist einfach, aber wichtig: Warum lernen sie eigentlich Deutsch?
 
-Anna beginnt. Sie sagt, dass sie Deutsch lernt, weil sie in Berlin wohnt und weil sie hier studieren möchte. Für sie ist Deutsch nicht nur eine Schulsprache — es ist die Sprache ihres Alltags. Sie findet, dass Deutsch eine interessante Sprache ist, auch wenn die Grammatik manchmal schwierig ist. Deshalb übt sie jeden Tag — mit Apps, mit Podcasts und natürlich im Kurs bei Frau Weber.
+Anna beginnt. Sie sagt, dass sie Deutsch lernt, weil sie in Berlin wohnt und weil sie hier studieren möchte. Für sie ist Deutsch nicht nur eine Schulsprache — es ist die Sprache ihres Alltags. Sie findet, dass Deutsch eine interessante Sprache ist, auch wenn\* die Grammatik manchmal schwierig ist. Deshalb übt sie jeden Tag — mit Apps, mit Podcasts und natürlich im Kurs bei Frau Weber.
 
-Bruno erklärt, dass er Deutsch lernt, weil Blumenau, seine Heimatstadt in Brasilien, eine starke deutsche Tradition hat. Er meint, dass es ihm hilft, die Kultur besser zu verstehen. Außerdem braucht er Deutsch für seinen Job — er arbeitet in einem Büro, wo viele Kollegen Deutsch sprechen. Darum ist er jeden Morgen motiviert, auch wenn es früh und manchmal kalt in Berlin ist.
+Bruno erklärt, dass er Deutsch lernt, weil Blumenau, seine Heimatstadt\* in Brasilien, eine starke deutsche Tradition hat. Er meint, dass es ihm hilft, die Kultur besser zu verstehen. Außerdem braucht er Deutsch für seinen Job — er arbeitet in einem Büro, wo\* viele Kollegen Deutsch sprechen. Darum ist er jeden Morgen motiviert, auch wenn\* es früh und manchmal kalt in Berlin ist.
 
-Die beiden sind sich einig, dass der Kurs bei Frau Weber sehr gut ist. Bruno glaubt, dass man eine Sprache nur lernen kann, weil man sie täglich benutzt — nicht nur im Klassenzimmer, sondern auch draußen. Anna stimmt ihm zu: „Genau! Deswegen sprechen wir auch außerhalb des Kurses so viel Deutsch miteinander."
+Die beiden sind sich einig, dass der Kurs bei Frau Weber sehr gut ist. Bruno glaubt, dass man eine Sprache nur lernen kann, weil man sie täglich benutzt — nicht nur\* im Klassenzimmer, sondern auch draußen. Anna stimmt ihm zu: „Genau! Deswegen sprechen wir auch außerhalb des Kurses so viel Deutsch miteinander."
 
 Am Ende trinken sie noch einen Kaffee. Bruno sagt, dass er das Gespräch sehr interessant fand — darum möchte er morgen weiterdiskutieren. Anna lacht: „Klar! Aber dann sprechen wir auf Deutsch — kein Englisch erlaubt."
+
+\* **Chunk alerts (forward-reference):** The italicised phrases use structures
+from later lessons — *auch wenn\* (B1/02: concessive subordinator),
+*seine Heimatstadt\* (A2/13: relative clauses), *wo\* (A2/13: relative
+pronoun for places), *nicht nur … sondern auch\* (B1/02: two-part connector).
+Read these as fixed chunks for now — you'll meet the grammar in the named lesson.
 
 ---
 
@@ -403,9 +409,13 @@ Am Ende trinken sie noch einen Kaffee. Bruno sagt, dass er das Gespräch sehr in
 
 Wenn Deutsche über andere Kulturen sprechen, sagen sie manchmal: „In anderen Ländern nimmt man das mit der Zeit nicht so genau." Aber wenn man sie fragt, warum sie selbst so pünktlich sind, lautet die Antwort oft: „Weil es respektvoll ist." Pünktlichkeit gilt in Deutschland nicht als Pedanterie, sondern als Zeichen, dass man die Zeit des anderen wertschätzt.
 
-Das erklärt auch, warum Verspätungen im Berufsleben heikel sind. Ein Bewerbungsgespräch, das um 10 Uhr angesetzt ist, beginnt um 10 Uhr — nicht um 10:05. Deshalb planen viele Deutsche lieber fünf Minuten zu früh ein, als eine Minute zu spät zu kommen.
+Das erklärt auch, warum Verspätungen im Berufsleben heikel sind. Ein Bewerbungsgespräch, das\* um 10 Uhr angesetzt ist, beginnt um 10 Uhr — nicht um 10:05. Deshalb planen viele Deutsche lieber fünf Minuten zu früh ein, als eine Minute zu spät zu kommen.
 
 Trotzdem: Wer aus einem anderen Land kommt, braucht Zeit. Die meisten Deutschen verstehen das — und erklären es gern.
+
+\* **Chunk alert:** *das\* here is a relative pronoun (A2/13) — read as a fixed
+chunk for now: "a job interview that is scheduled for 10 o'clock". You'll meet
+relative clauses in full in A2/13.
 
 ---
 

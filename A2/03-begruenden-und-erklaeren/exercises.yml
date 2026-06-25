@@ -424,25 +424,25 @@ exercises:
     title: "Finde den Fehler"
     instructions: 'Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form. Item 3 is correct (write C).'
     text: |
-      1. Ich bin müde, weil ich {1} viel gearbeitet. (habe → ?)
-      2. Er kommt nicht. Deshalb {2} er ist krank. (es → ?)
+      1. Ich bin müde, weil ich viel gearbeitet {1}. (habe → ?)
+      2. Er kommt nicht. Deshalb {2} er krank. (es → ?)
       3. Ich glaube, dass sie morgen {3}. (correct? — yes/no)
-      4. Weil es regnet, {4} bleiben zu Hause. (wir → ?)
-      5. Sie lernt Deutsch, weil sie {5} in Berlin leben. (will → word order)
+      4. Weil es regnet, {4} wir zu Hause. (wir → ?)
+      5. Sie lernt Deutsch, weil sie in Berlin leben {5}. (will → word order)
       6. Ich finde, {6} Deutsch sehr interessant ist. (das → ?)
       7. Darum kommt er nicht, {7} er krank ist. (weil → ?)
-      8. Wir nehmen den Zug. {8} das Auto ist kaputt. (Deswegen → ?)
-      9. Ich bin sicher, dass er {9} Recht. (hat → ?)
+      8. Wir nehmen den Zug, {8} das Auto kaputt ist. (Deswegen → ?)
+      9. Ich bin sicher, dass er Recht {9}. (hat → ?)
       10. Weil sie müde {10}. Sie geht schlafen. (ist → ?)
     answers:
       "1": habe
       "2": ist
       "3": "C"
       "4": bleiben
-      "5": "in Berlin leben will"
+      "5": will
       "6": dass
       "7": weil
-      "8": Deswegen
+      "8": weil
       "9": hat
       "10": ist
 
@@ -662,10 +662,10 @@ exercises:
       ich schreibe dir, {1} ich ein Problem habe und deine Meinung brauche.
       Ich überlege, ob ich den Deutschkurs wechseln soll, {2} der Kurs für mich
       zu schwierig ist. Ich {3} nicht, dass ich die richtige Gruppe bin.
-      {4} lerne ich jeden Abend zwei Stunden. Aber es reicht {5}  nicht.
+      {4} lerne ich jeden Abend zwei Stunden. Aber es reicht {5} nicht.
       Ich glaube, {6} ich einen Kurs für Anfänger brauche. Was {7} du?
       Ich bin {8} sicher, was ich machen soll. Ich finde es wichtig, {9}
-      man im richtigen Kurs ist. {10} bitte um deine Ehrlichkeit!
+      man im richtigen Kurs ist. {10} um deine Ehrlichkeit!
     answers:
       "1": weil
       "2": weil
@@ -774,7 +774,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 (Lesetext)"
-    instructions: "Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?"
+    instructions: "Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?"
     items:
       - { q: "Anna lernt Deutsch, weil sie in Berlin studieren möchte.", answer: true, why: "Anna lernt Deutsch, weil sie in Berlin studieren möchte." }
       - { q: "Anna übt nur im Kurs, nicht zu Hause.", answer: false, why: "Anna übt auch zu Hause — mit Apps, Podcasts und im Kurs." }

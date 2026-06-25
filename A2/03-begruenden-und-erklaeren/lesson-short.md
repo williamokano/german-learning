@@ -120,7 +120,7 @@ buildsOn:
 | Noun (article + plural) | English |
 |---|---|
 | die Meinung, -en | opinion |
-| der Grund, –e (Gründe) | reason |
+| der Grund, -e (Gründe) | reason |
 | die Entscheidung, -en | decision |
 | die Erklärung, -en | explanation |
 | die Diskussion, -en | discussion |
@@ -319,7 +319,7 @@ Memory hook for `ei` vs. `ie`: **pronounce the second letter** — `ei` → say 
 
 Anna und Bruno diskutieren nach dem Kurs im Café. Das Thema: Warum lernen sie Deutsch?
 
-Anna sagt, dass sie Deutsch lernt, weil sie in Berlin wohnt und weil sie hier studieren möchte. Sie findet, dass Deutsch eine interessante Sprache ist, auch wenn die Grammatik manchmal schwierig ist. Deshalb übt sie jeden Tag — mit Apps, Podcasts und natürlich im Kurs.
+Anna sagt, dass sie Deutsch lernt, weil sie in Berlin wohnt und weil sie hier studieren möchte. Sie findet, dass Deutsch eine interessante Sprache ist, auch wenn\* die Grammatik manchmal schwierig ist. Deshalb übt sie jeden Tag — mit Apps, Podcasts und natürlich im Kurs.
 
 Bruno erklärt, dass er Deutsch lernt, weil Blumenau, seine Heimatstadt in Brasilien, eine starke deutsche Tradition hat. Er meint, dass es ihm hilft, die Kultur besser zu verstehen. Außerdem braucht er Deutsch für seinen Job. Darum ist er sehr motiviert.
 
@@ -328,6 +328,9 @@ Die beiden sind sich einig, dass der Kurs bei Frau Weber sehr gut ist. Bruno gla
 Am Ende trinken sie noch einen Kaffee. Bruno sagt, dass er das Gespräch sehr interessant fand — darum möchte er morgen weiterdiskutieren!
 
 *(You'll work with this text in the exercises — Block C, Lesen.)*
+
+\* **Chunk alert:** *auch wenn\* (B1/02: concessive subordinator) — read as a
+fixed chunk for now ("even though"). You'll meet concessive clauses in B1/02.
 
 ---
 
