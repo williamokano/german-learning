@@ -495,7 +495,7 @@ exercises:
       4. Die Hose gehört {4} Schwester. (mein → ?)
       5. Kann ich {5} helfen? (du → ?)
       6. Das Kleid steht {6} sehr gut. (sie → ?)
-      7. {7} Schuhe ist zu groß. (Diese → ?)
+      7. Diese Schuhe {7} zu groß. (ist → ?)
       8. Er {8} heute einen Anzug. (träg → ?)
       9. {9} Mantel kostet weniger? (Welchen → ?)
       10. Diese Hose gehört {10}. (mich → ?)
@@ -506,7 +506,7 @@ exercises:
       "4": meiner
       "5": dir
       "6": ihr
-      "7": Diese
+      "7": sind
       "8": trägt
       "9": Welcher
       "10": mir
@@ -786,7 +786,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 — Ein neues Outfit"
-    instructions: 'Read „Ein neues Outfit" in lesson.md, section 6. Richtig (R) oder falsch (F)?'
+    instructions: 'Read „Ein neues Outfit" in lesson.md, section 7. Richtig (R) oder falsch (F)?'
     items:
       - q: "Anna sucht ein Outfit für eine Hochzeit."
         answer: false

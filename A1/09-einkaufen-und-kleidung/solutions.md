@@ -95,7 +95,7 @@
 
 ## Übung B3 — Finde den Fehler
 
-1. **mir**  2. **passen**  3. **Welche**  4. **meiner**  5. **dir**  6. **ihr**  7. **Diese**  8. **trägt**  9. **Welcher**  10. **mir**
+1. **mir**  2. **passen**  3. **Welche**  4. **meiner**  5. **dir**  6. **ihr**  7. **sind**  8. **trägt**  9. **Welcher**  10. **mir**
 
 ## Übung B4 — Frage und Antwort verbinden
 
