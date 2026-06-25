@@ -34,7 +34,7 @@
 
 # Block A — Basistraining
 
-## Übung A1 — Datenverben im Infinitiv einsetzen
+## Übung A1 — Datenverben einsetzen
 
 1. **beträgt**  2. **steigt**  3. **liegen**  4. **sinkt**  5. **verdoppelt**  6. **halbiert**  7. **stagniert**  8. **nimmt**
 
@@ -57,7 +57,7 @@
 
 ## Übung A5 — Vergleichsstrukturen korrekt ergänzen
 
-1. **zu**  2. **dem Vorjahr**  3. **zum**  4. **zu**  5. **von**  6. **den**
+1. **zu**  2. **dem Vorjahr**  3. **zum**  4. **zu**  5. **zum**  6. **den**
 
 ## Übung A6 — Datenverben: passende Form finden
 
@@ -202,7 +202,7 @@ Selbstkorrektur:
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-1. **ZEITRAUM**  2. **GESTIEGEN**  3. **BETRUG**  4. **AUS**  5. **VERGLEICH**  6. **ZURÜCKGEGANGEN**  7. **ERREICHT**  8. **ERGIBT**  9. **LÄSST**  10. **STEHEN**
+1. **ZEITRAUM**  2. **GESTIEGEN**  3. **MACHTE**  4. **AUS**  5. **VERGLEICH**  6. **ZURÜCKGEGANGEN**  7. **ERREICHT**  8. **ERGIBT**  9. **LÄSST**  10. **STEHEN**
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Warum Prozent nicht gleich Prozent ist)
 

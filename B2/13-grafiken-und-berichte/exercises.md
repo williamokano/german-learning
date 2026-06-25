@@ -72,9 +72,9 @@ Hör die Nachricht aus dem Statistikamt. Wähle dann die richtige Antwort (a, b 
 
 # Block A — Basistraining
 
-## Übung A1 — Datenverben im Infinitiv einsetzen
+## Übung A1 — Datenverben einsetzen
 
-Setze das passende Datenverb im Infinitiv ein (steigen, sinken, zunehmen, abnehmen, stagnieren, sich verdoppeln, sich halbieren, betragen, ausmachen, liegen bei). 8 Items.
+Setze das passende Datenverb in der richtigen Form ein (steigen, sinken, zunehmen, abnehmen, stagnieren, sich verdoppeln, sich halbieren, betragen, ausmachen, liegen bei). 8 Items.
 
 1. Der Anteil ______ rund 32 Prozent.
 2. Die Nutzung ______ seit 2020 kontinuierlich.
@@ -119,14 +119,14 @@ Wähle die korrekte Beschreibung (a, b oder c). ⚠️ Achte auf Datenverb, Zeit
 
 ## Übung A5 — Vergleichsstrukturen korrekt ergänzen
 
-Setze die richtige Präposition oder Vergleichsstruktur ein (zu, dem, dem Vorjahr, dem Durchschnitt, den Jahren). 6 Items.
+Setze die richtige Präposition oder Vergleichsstruktur ein (zu, zum, dem Vorjahr, den). 6 Items.
 
 1. Im Vergleich ______ 2023 ist der Wert gestiegen.
 2. Gegenüber ______ hat sich der Anteil um 8 Prozent verringert.
 3. Im Vergleich ______ Vorjahr stagniert die Zahl.
 4. Im Vergleich ______ 2020 liegt der Anteil heute höher.
-5. Im Durchschnitt ______ beträgt der Wert 12 Prozent.
-6. Zwischen ______ 2015 und 2020 war der Anstieg am stärksten.
+5. Im Vergleich ______ Durchschnitt beträgt der Wert 12 Prozent.
+6. Zwischen ______ Jahren 2015 und 2020 war der Anstieg am stärksten.
 
 ## Übung A6 — Datenverben: passende Form finden
 
@@ -138,7 +138,7 @@ Füll die 6 Lücken mit der richtigen Verbform (steigt, sinkt, stagniert, beträ
 > 4. Der Durchschnitt (4) ______ bei rund 12 Prozent.
 > 5. Der Frauenanteil (5) ______ 48 Prozent (6) ______.
 
-> (beträgt · sinkt · stagniert · liegt · macht · aus · steigt · sinkt)
+> (beträgt · sinkt · stagniert · liegt · macht · aus · steigt · zunimmt)
 
 ## Übung A7 — Datenverben und Bedeutung verbinden
 
@@ -347,9 +347,9 @@ Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Je
 > Eine eindeutige Ursache (9) ______ sich aus den vorliegenden Daten nicht ableiten. Die
 > ausführlichen Tabellen (10) ______ ab sofort auf der Website zur Verfügung.
 
-> AUS · BETRUG · ERGIBT · ERREICHT · GESTIEGEN · LÄSST · LIEGT · SINKT · STAGNIERT · STEHEN · VERGLEICH · ZEIGT · ZEITRAUM · ZURÜCKGEGANGEN
+> AUS · ERGIBT · ERREICHT · GESTIEGEN · GESUNKEN · LÄSST · LIEGT · MACHTE · SINKT · STAGNIERT · STEHEN · VERGLEICH · ZEIGT · ZEITRAUM · ZURÜCKGEGANGEN
 
-Four words are not needed.
+Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Warum Prozent nicht gleich Prozent ist)
 
