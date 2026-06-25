@@ -838,7 +838,7 @@ exercises:
       11. {11} ich mehr Zeit, würde ich jeden Tag Deutsch üben. (B1/03 — Konjunktiv II)
       12. Er {12} gern in Berlin wohnen, aber er lebt in München. (B1/03 — würde)
       13. Wenn wir ein Auto {13}, könnten wir in den Urlaub fahren. (B1/03 — hätten)
-      14. Das {14} nicht passieren dürfen! (Passiv Prät. — modal in Prät.)
+      14. Das {14} nicht passieren! (Modal Prät. — kein Passiv: passieren ist intransitiv)
       15. Die Ergebnisse {15} veröffentlicht worden. (Passiv Perf.)
     answers:
       "1": wird
@@ -882,7 +882,7 @@ exercises:
       (B1/01) 4. Bruno {4} früher oft ins Kino. (gehen — Präteritum)
       (B1/01) 5. Die Firma {5} einen neuen Direktor. (bekommen — Präteritum)
       (B1/02) 6. Er bleibt in Berlin, {6} er eigentlich nach Prag möchte. (concessive connector)
-      (B1/02) 7. Die Miete ist hoch. {7} wohnt Pavel trotzdem dort. (consequence connector)
+      (B1/02) 7. Die Miete ist hoch. {7} wohnt Pavel dort. (consequence connector — trotzdem)
       (B1/02) 8. Das Projekt ist teuer. {8} macht das Team weiter. (Trotzdem / concession)
       (B1/02) 9. Er hat kein Auto. {9} nimmt er die U-Bahn. (Deshalb / consequence)
       (B1/02) 10. {10} das Wetter schlecht ist, gehen wir in den Park. (Obwohl / concessive)
