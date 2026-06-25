@@ -225,7 +225,7 @@ Match each preposition (left) to the sentence that uses it correctly (right).
 
 | Links | | Rechts |
 |---|---|---|
-| 1. wegen | | a) _______ der langen Reise war er noch fit. |
+| 1. wegen | | a) _______ des Gewitters mussten wir drinnen bleiben. |
 | 2. trotz | | b) _______ des starken Regens gingen sie spazieren. |
 | 3. während | | c) _______ des Seminars sollte man das Handy ausschalten. |
 | 4. statt | | d) _______ des Originals gab er eine Kopie ab. |
@@ -423,9 +423,9 @@ Fill each gap quickly. Labels show the source lesson where relevant.
 10. Das Auto _____ Studenten ist alt. [n-Dekl.] (10) ______
 11. Obwohl er müde war, ging er zur Arbeit. — Rewrite with 'trotz'. [B1/02] (11) ______
 12. Er blieb in Berlin, weil er Arbeit hatte. — Rewrite with 'deshalb'. [B1/02] (12) ______
-13. um etwas zu beschreiben — infinitive construction [B1/06] (13) ______
+13. _____ man etwas beschreiben will, benutzt man Adjektive. (um ... zu) [B1/06] (13) ______
 14. Er hat das Buch gelesen. — Passiv Präsens [B1/04] (14) ______
-15. das Fahrrad, das er gekauft hat — Relativsatz [B1/05] (15) ______
+15. Er hat ein Fahrrad gekauft. — Relativsatz: Das ist das Fahrrad, _____ er gekauft hat. [B1/05] (15) ______
 
 ## Übung D2 — Odd one out — Wortschatz & Grammatik
 
@@ -434,7 +434,7 @@ Fill each gap quickly. Labels show the source lesson where relevant.
 3. der Kollege – der Student – der Mensch – der Mann
 4. des Regens – des Lärms – des Hauses – der Nacht
 5. Annas Buch – Marias Auto – Hans' Idee – Karls Haus
-6. des Professors – des Kollegen – des Journalisten – des Herren
+6. des Professors – des Kollegen – des Journalisten – des Herrn
 
 ## Übung D3 — Rückblick — B1/05 (Relativsätze) + B1/04 (Passiv)
 
@@ -447,7 +447,7 @@ Fill each gap. Labels show the source lesson.
 5. Die Ergebnisse _____ schon veröffentlicht worden. [B1/04 — Passiv Perfekt] (5) ______
 6. Der Antrag _____ bis Freitag _____ werden. [B1/04 — Passiv + Modal] (6) ______
 7. Wir suchen etwas, _____ wirklich hilft. [B1/05 — Relativpronomen was] (7) ______
-8. Das ist der Artikel, _____ Yusuf letzte Woche eingereicht hat. [B1/05 — Relativpronomen Nom.] (8) ______
+8. Das ist der Artikel, _____ Yusuf letzte Woche eingereicht hat. [B1/05 — Relativpronomen Akk.] (8) ______
 9. Die Tür _____ immer um 18 Uhr geschlossen. [B1/04 — Passiv Präsens] (9) ______
 10. Sie beschreibt alles, _____ sie sieht. [B1/05 — Relativpronomen was] (10) ______
 

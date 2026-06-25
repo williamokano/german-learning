@@ -448,13 +448,13 @@ exercises:
       - { key: "3", text: "während" }
       - { key: "4", text: "statt" }
     right:
-      - { key: a, text: "_______ der langen Reise war er noch fit." }
+      - { key: a, text: "_______ des Gewitters mussten wir drinnen bleiben." }
       - { key: b, text: "_______ des starken Regens gingen sie spazieren." }
       - { key: c, text: "_______ des Seminars sollte man das Handy ausschalten." }
       - { key: d, text: "_______ des Originals gab er eine Kopie ab." }
       - { key: e, text: "_______ eines Fehlers musste er die Aufgabe wiederholen." }
     answers:
-      "1": e
+      "1": a
       "2": b
       "3": c
       "4": d
@@ -823,9 +823,9 @@ exercises:
       10. Das Auto _____ Studenten ist alt. [n-Dekl.] {10}
       11. Obwohl er müde war, ging er zur Arbeit. — Rewrite with 'trotz'. [B1/02] {11}
       12. Er blieb in Berlin, weil er Arbeit hatte. — Rewrite with 'deshalb'. [B1/02] {12}
-      13. um etwas zu beschreiben — infinitive construction [B1/06] {13}
+      13. _____ man etwas beschreiben will, benutzt man Adjektive. (um ... zu) [B1/06] {13}
       14. Er hat das Buch gelesen. — Passiv Präsens [B1/04] {14}
-      15. das Fahrrad, das er gekauft hat — Relativsatz [B1/05] {15}
+      15. Er hat ein Fahrrad gekauft. — Relativsatz: Das ist das Fahrrad, _____ er gekauft hat. [B1/05] {15}
     answers:
       "1": "des"
       "2": "des"
@@ -839,9 +839,9 @@ exercises:
       "10": "des"
       "11": "Trotz der Müdigkeit ging er zur Arbeit."
       "12": "Er hatte Arbeit. Deshalb blieb er in Berlin."
-      "13": "um etwas zu beschreiben"
+      "13": "Um"
       "14": "Das Buch wird gelesen."
-      "15": "das Fahrrad, das er gekauft hat"
+      "15": "das"
 
   - id: D2
     block: D
@@ -863,9 +863,9 @@ exercises:
       - items: ["Annas Buch", "Marias Auto", "Hans' Idee", "Karls Haus"]
         odd: 2
         why: "Hans' uses apostrophe (name ends in s); the others add -s normally"
-      - items: ["des Professors", "des Kollegen", "des Journalisten", "des Herren"]
+      - items: ["des Professors", "des Kollegen", "des Journalisten", "des Herrn"]
         odd: 0
-        why: "des Professors is strong declension; des Kollegen, des Journalisten, des Herrn are n-Deklination (note: des Herren is incorrect — it should be des Herrn)"
+        why: "des Professors is strong declension; des Kollegen, des Journalisten, des Herrn are n-Deklination (irregular: der Herr → des Herrn, not des Herren)"
 
   - id: D3
     block: D
@@ -881,7 +881,7 @@ exercises:
       5. Die Ergebnisse _____ schon veröffentlicht worden. [B1/04 — Passiv Perfekt] {5}
       6. Der Antrag _____ bis Freitag _____ werden. [B1/04 — Passiv + Modal] {6}
       7. Wir suchen etwas, _____ wirklich hilft. [B1/05 — Relativpronomen was] {7}
-      8. Das ist der Artikel, _____ Yusuf letzte Woche eingereicht hat. [B1/05 — Relativpronomen Nom.] {8}
+      8. Das ist der Artikel, _____ Yusuf letzte Woche eingereicht hat. [B1/05 — Relativpronomen Akk.] {8}
       9. Die Tür _____ immer um 18 Uhr geschlossen. [B1/04 — Passiv Präsens] {9}
       10. Sie beschreibt alles, _____ sie sieht. [B1/05 — Relativpronomen was] {10}
     answers:
