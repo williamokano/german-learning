@@ -9,7 +9,7 @@
 1. **R** — Mia: "Berlin hat mich sowohl fasziniert als auch erschöpft — gleichzeitig."
 2. **F** — Lukas presents it as an either/or choice: either stay and accept the rents, or move.
 3. **R** — Yusuf: "Ich sage das nicht nur als Berliner, sondern auch als jemand, der mal in Kairo gelebt hat."
-4. **F** — Mia: "ich bin weder bereit, mein Netzwerk aufzugeben, noch will ich von vorne anfangen."
+4. **F** — Mia: "Ich bin weder bereit, mein Netzwerk aufzugeben, noch will ich von vorne anfangen."
 5. **R** — Yusuf + Lukas: "Wir sollten sowohl die rationalen als auch die emotionalen Argumente aufschreiben."
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
@@ -226,7 +226,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Schnelltest: Zweiteilige Konnektoren + Wiederholung
 
-1. **sondern**  2. **als auch**  3. **Entweder**  4. **weder**  5. **noch**  6. **zwar**  7. **aber**  8. **Zwar**  9. **spricht**  10. **als auch**  11. **noch**  12. **sowohl**  13. **nicht nur**  14. **trotzdem**  15. **zu arbeiten**  16. **würde**  17. **wann**
+1. **sondern**  2. **als auch**  3. **Entweder**  4. **weder**  5. **noch**  6. **zwar**  7. **aber**  8. **Zwar**  9. **spricht**  10. **als auch**  11. **noch**  12. **sowohl**  13. **als auch**  14. **nicht nur**  15. **trotzdem**  16. **zu arbeiten**  17. **würde**  18. **wann**
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
 

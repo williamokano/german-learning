@@ -28,7 +28,7 @@ exercises:
         why: 'Yusuf: "Ich sage das nicht nur als Berliner, sondern auch als jemand, der mal in Kairo gelebt hat."'
       - q: "Mia ist bereit, ihr Netzwerk aufzugeben, wenn die Mieten weiter steigen."
         answer: false
-        why: 'Mia: "ich bin weder bereit, mein Netzwerk aufzugeben, noch will ich von vorne anfangen."'
+        why: 'Mia: "Ich bin weder bereit, mein Netzwerk aufzugeben, noch will ich von vorne anfangen."'
       - q: "Yusuf empfiehlt, sowohl rationale als auch emotionale Argumente aufzuschreiben."
         answer: true
         why: 'Yusuf + Lukas: "Wir sollten sowohl die rationalen als auch die emotionalen Argumente aufschreiben."'
@@ -530,7 +530,7 @@ exercises:
       2. Sowohl Mia als auch Lukas wohnen in Kreuzberg.
          → {2}. (nicht nur … sondern auch — start with Nicht nur Mia …)
       3. Das Angebot ist zwar billig, aber die Qualität ist schlecht.
-         → Das Angebot ist billig. {3} die Qualität ist schlecht. (jedoch — use jedoch as a standalone connector)
+         → Das Angebot ist billig. {3} ist die Qualität schlecht. (jedoch — use jedoch as a standalone connector)
       4. Entweder du kommst mit, oder ich gehe allein.
          → Wenn du {4}, gehe ich allein. (wenn-clause — different structure, same logic)
       5. Er hat weder Zeit noch Lust.
@@ -632,8 +632,8 @@ exercises:
       Die Frage, ob Großstädte lebenswert sind, lässt sich {1} eindeutig mit
       Ja {2} mit Nein beantworten — die Realität ist komplexer. Großstädte bieten
       {3} wirtschaftliche Chancen {4} kulturelle Vielfalt. Andererseits sind
-      die Lebenshaltungskosten {5} gestiegen, {6} viele Menschen sich das
-      Stadtleben schlicht nicht mehr leisten können. Die Lösung liegt {7} in
+      die Lebenshaltungskosten {5} gestiegen, {6} viele Menschen können sich das
+      Stadtleben schlicht nicht mehr leisten. Die Lösung liegt {7} in
       staatlichen Eingriffen {8} in gemeinschaftlichen Initiativen — wahrscheinlich
       in beidem.
     answers:
@@ -723,7 +723,7 @@ exercises:
       sieht {2} die Vorzüge {3} die Schattenseiten der Hauptstadt. Berlin
       bietet {4} nur exzellente Jobmöglichkeiten, {5} auch ein einzigartiges
       kulturelles Leben. Die Mieten sind {6} gestiegen, {7} die Qualität vieler
-      Wohnungen zu wünschen übrig lässt. Mia findet, dass Entweder-oder-Denken
+      Wohnungen lässt zu wünschen übrig. Mia findet, dass Entweder-oder-Denken
       nicht hilft: Man kann Berlin {8} lieben {9} kritisch sehen — beides
       gleichzeitig. Yusuf sagt: Weder Berlin {10} Kairo ist perfekt.
     answers:
@@ -798,8 +798,8 @@ exercises:
       Die Frage der Lebensqualität lässt sich {1} mit Ja {2} mit Nein
       beantworten — die Realität ist nuanciert. Großstädte bieten {3}
       wirtschaftliche Chancen {4} kulturelle Vielfalt. Die Lebenshaltungskosten
-      sind {5} gestiegen, {6} viele Stadtbewohner sich das Leben kaum noch
-      leisten können. {7} staatliche Maßnahmen {8} private Initiativen allein
+      sind {5} gestiegen, {6} viele Stadtbewohner können sich das Leben kaum
+      noch leisten. {7} staatliche Maßnahmen {8} private Initiativen allein
       können das Problem lösen — wir brauchen beides. Eine kluge Stadtpolitik
       fördert {9} die soziale Gerechtigkeit {10} die wirtschaftliche
       Entwicklung.
@@ -924,12 +924,12 @@ exercises:
       7. Nicht nur {9} er Arabisch, sondern er spricht auch Deutsch. (inversion: spricht)
       8. Sowohl die Qualität {10} der Preis sind entscheidend. (als auch)
       9. Weder hat er angerufen, {11} hat er geschrieben. (noch)
-      10. Sie liebt Berlin {12} sie kritisiert es. (sowohl … als auch: fill in sowohl before Berlins)
-      11. Das ist {13} eine wirtschaftliche, sondern auch eine soziale Frage. (nicht nur)
-      12. (B1/02) Das Wetter war schlecht, {14} sind wir wandern gegangen. (trotzdem — L2)
-      13. (B1/06) Ich lerne Deutsch, um in Berlin {15}. (zu arbeiten — L6)
-      14. (B1/03) Wenn ich mehr Zeit hätte, {16} ich mehr reisen. (würde — L3)
-      15. (B1/09) Könnten Sie mir sagen, {17} der nächste Zug fährt? (wann — L9)
+      10. Sie liebt {12} Berlin, {13} sie kritisiert es. (sowohl … als auch)
+      11. Das ist {14} eine wirtschaftliche, sondern auch eine soziale Frage. (nicht nur)
+      12. (B1/02) Das Wetter war schlecht, {15} sind wir wandern gegangen. (trotzdem — L2)
+      13. (B1/06) Ich lerne Deutsch, um in Berlin {16}. (zu arbeiten — L6)
+      14. (B1/03) Wenn ich mehr Zeit hätte, {17} ich mehr reisen. (würde — L3)
+      15. (B1/09) Könnten Sie mir sagen, {18} der nächste Zug fährt? (wann — L9)
     answers:
       "1": sondern
       "2": als auch
@@ -943,11 +943,12 @@ exercises:
       "10": als auch
       "11": noch
       "12": sowohl
-      "13": nicht nur
-      "14": trotzdem
-      "15": zu arbeiten
-      "16": würde
-      "17": wann
+      "13": als auch
+      "14": nicht nur
+      "15": trotzdem
+      "16": zu arbeiten
+      "17": würde
+      "18": wann
 
   - id: D2
     block: D
@@ -982,7 +983,7 @@ exercises:
     instructions: "Fill in the correct form. Items 1–5 review B1/02 (Gegensätze/Konzessivität); items 6–10 review B1/03 (Konjunktiv II). 10 items."
     text: |
       B1/02 — Gegensätze und Konzessivität (L2):
-      1. Er war müde, {1} er hat bis Mitternacht gearbeitet. (trotzdem)
+      1. Er war müde, {1} hat er bis Mitternacht gearbeitet. (trotzdem)
       2. {2} das Wetter schlecht war, sind wir gewandert. (Obwohl)
       3. Das Projekt hat Erfolg. {3} waren die Kosten sehr hoch. (Allerdings / Jedoch)
       4. Er versteht das Problem, {4} er tut nichts dagegen. (aber)
