@@ -62,7 +62,7 @@ buildsOn:
 > **Anna:** Also: Kompositum, Fugenelement, Suffix … das ist ja ein richtiges Baukastensystem.  
 > **Bruno:** Eben. Und bei den Vorsilben lohnt es sich auch, hinzuschauen. *Vertragen* — *ver-* heißt hier „eine Veränderung", *tragen* ist das Verb. *Verträglich* ist dann das Adjektiv mit *-ig*, und *Verträglichkeit* mit *-keit*. Eine ganze **Wortfamilie**!  
 > **Anna:** Gibt es so ein Baukastensystem auch für Wörter, die man **nicht** verwechseln darf?  
-> **Bruno:** Klar. *Erlauben* und *verlauben* — beides gibt es, aber *er-* heißt „anfangen" (*erblühen, erwachen*), *ver-* heißt oft „umkehren" (*sich verlaufen, verbieten*). Wer das nicht unterscheidet, schreibt *erlauben* statt *erlauben* und meint etwas völlig anderes.  
+> **Bruno:** Klar. Nimm *erfahren* und *verfahren* — dieselbe Wurzel *fahr-*, aber *er-* heißt „erleben, herausfinden" (*Ich habe es gerade erfahren*), *ver-* heißt hier „falsch machen" (*Wir haben uns verfahren*). Wer das nicht unterscheidet, schreibt *erfahren* statt *verfahren* und meint etwas völlig anderes.  
 > **Anna:** Okay, ich fange heute Abend mit *Missverständnis* an — *miss-* + *Verständnis* = ein falsches Verstehen. Logisch!  
 > **Bruno:** Siehst du. Wortbildung ist wie ein Code, den man einmal knacken muss.
 

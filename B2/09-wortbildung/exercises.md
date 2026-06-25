@@ -75,7 +75,7 @@ Hör die Ansage. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, be
 
 ## Übung A1 — Die richtige Vorsilbe
 
-Setze die passende Vorsilbe ein (ver-, zer-, ent-, miss-, be-, er-, emp-). Achtung: 8 Lücken, 9 Kandidaten — eine Vorsilbe bleibt übrig. 8 Items.
+Setze die passende Vorsilbe ein (ver-, zer-, ent-, miss-, be-, er-, emp-). Manche Vorsilbe brauchst du mehrmals, ver- gar nicht. 8 Items.
 
 1. ______stehen (sich entwickeln)
 2. ______brechen (in Stücke brechen)
@@ -119,7 +119,7 @@ Wähle die richtige Wortart, die mit dem Suffix entsteht. 6 Items.
 3. Verb + -bar → …  a) Adjektiv (Möglichkeit)  b) Nomen  c) Adverb
 4. Nomen + -los → …  a) Adjektiv (Fehlen)  b) Verb  c) Pronomen
 5. Verb + -er → …  a) Adjektiv  b) Adverb  c) Person-Nomen
-6. Adjektiv + -isch → …  a) Nomen  b) Adjektiv (oft negativ)  c) Verb
+6. Nomen + -isch → …  a) Nomen  b) Adjektiv (oft wertend)  c) Verb
 
 ## Übung A5 — Kompositum: Bestimmbegriff + Grundbegriff
 
@@ -147,16 +147,16 @@ Ordne jeder Vorsilbe (1–6) ihre typische Bedeutung (a–f) zu.
 
 ## Übung A7 — Fugenelement oder nicht?
 
-Füll die Lücken mit dem passenden Fugenelement (-s-, -n-, -en-, -er-). Achtung: nicht überall ist ein Fugenelement nötig! 6 Items.
+Füll die Lücken mit dem passenden Fugenelement (-s-, -es-, -n-, -en-, -er-). Achtung: nicht überall ist ein Fugenelement nötig — dann wähle „—". 6 Items.
 
 > 1. Verkehr(1) ______wende
 > 2. Klima(2) ______schutz
 > 3. Hochgeschwindigkeit(3) ______zug
 > 4. Liebe(4) ______brief
-> 5. Bundes(5) ______umweltministerium
+> 5. Kind(5) ______garten
 > 6. Bundeskanzler(6) ______amt
 
-> (-s- · -n- · -en- · -er- · — · —)
+> (-s- · -es- · -n- · -en- · -er- · —)
 
 ## Übung A8 — Vorsilbe oder Nachsilbe?
 
@@ -200,7 +200,7 @@ Stamm: entscheid-
 Stamm: fahr-
 4. Nomen ohne Suffix: ______
 5. Person mit -er: ______
-6. Nomen mit Erfahr- (Kompositum): ______
+6. Nomen mit Vorsilbe er- und Suffix -ung: ______
 
 ---
 
@@ -240,7 +240,7 @@ Stamm: fahr-
 6. Ich brauche eine Erlaubnis.
 
 
-**Your task:** Jeder Satz hat genau einen Fehler in der Wortbildung (falsche Vorsilbe, falsches Suffix oder falsches Kompositum). Finde ihn und schreib den Satz korrekt.
+**Your task:** Die meisten Sätze haben einen Fehler in der Wortbildung (falsche Vorsilbe, falsches Suffix oder falsches Kompositum) — zwei Sätze sind aber schon korrekt. Finde die Fehler, schreib die Sätze korrekt und markiere die zwei korrekten Sätze.
 
 ## Übung B4 — Kompositum: Bestimmbegriff + Grundbegriff
 
@@ -352,17 +352,18 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.
 
-> Aus einem Zeitungsartikel: Die (1) (1) ______ der Energiewende wird in Berlin
-> seit Monaten (2) (2) ______. Viele (3) (3) ______ — also Leute, die Entscheidungen
-> treffen — haben das (4) (4) ______ inzwischen (5) (5) ______. Eine zentrale Frage ist
-> die (6) (6) ______ von Wohnraum: Wenn Mieten weiter steigen, ist bezahlbares
-> Wohnen bald nicht mehr (7) (7) ______. Auch das (8) (8) ______ in die politischen
-> Versprechen wächst. Die Ministerin will jetzt eine (9) (9) ______ ergreifen
-> und die Lage nicht weiter (10) (10) ______ lassen.
+> Aus einem Zeitungsartikel: Die (1) (1) ______ ist in Berlin seit Monaten das
+> wichtigste (2) (2) ______. Viele (3) (3) ______ — also Leute, die Entscheidungen treffen
+> — haben die (4) (4) ______ des Themas inzwischen erkannt. Eine zentrale Frage ist
+> die (5) (5) ______ von Wohnraum: Wenn die Mieten weiter steigen, ist bezahlbares
+> Wohnen bald nicht mehr (6) (6) ______. Auch das (7) (7) ______ in die politischen
+> Versprechen wächst, und manches (8) (8) ______ verschärft die Lage. Die Ministerin
+> will jetzt eine klare (9) (9) ______ treffen und eine tragfähige (10) (10) ______
+> vorlegen, bevor das Vertrauen endgültig verloren ist.
 
-> BEDEUTSAM · BEDEUTUNG · BESCHAFFT · BEZAHLBARKEIT · ENTSCHEIDUNG · ENTSCHEIDUNGSTRÄGER · FALSCH · GESPRÄCH · LÖSUNG · MISSTRAUEN · MISVERSTÄNDNIS · ZERSTÖREN · ZERSTÖRT
+> BEDEUTSAM · BEDEUTUNG · BEZAHLBARKEIT · ENERGIEWENDE · ENTSCHEIDUNG · ENTSCHEIDUNGSTRÄGER · ERFAHRUNG · FEHLENTSCHEIDUNG · GESPRÄCH · LÖSUNG · MISSTRAUEN · MISSVERSTÄNDNIS · MÖGLICH · VERSTÄNDNIS · ZERSTÖRUNG
 
-Three words are not needed.
+Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Wie funktioniert deutsche Wortbildung?)
 

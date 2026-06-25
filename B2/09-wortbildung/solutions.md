@@ -53,11 +53,11 @@
 3. **a) Adjektiv (Möglichkeit)** — *-bar* macht aus einem Verb ein Adjektiv mit passiver Bedeutung: bezahlbar (= kann bezahlt werden).
 4. **a) Adjektiv (Fehlen)** — *-los* macht aus einem Nomen ein Adjektiv, das das Fehlen ausdrückt: arbeitslos, sprachlos.
 5. **c) Person-Nomen** — *-er* macht aus einem Verb ein Nomen für die Person: der Fahrer, der Leser.
-6. **b) Adjektiv (oft negativ)** — *-isch* macht aus einem Nomen oft ein Adjektiv mit wertender Bedeutung: kindisch, egoistisch, touristisch.
+6. **b) Adjektiv (oft wertend)** — *-isch* macht aus einem Nomen oft ein Adjektiv mit wertender Bedeutung: Kind → kindisch, Egoist → egoistisch, Tourist → touristisch.
 
 ## Übung A5 — Kompositum: Bestimmbegriff + Grundbegriff
 
-1. **wende**  2. **schutz**  3. **Entscheidungs**  4. **verträglichkeit**  5. **Bundesumwelt**  6. **wissent**
+1. **wende**  2. **schutz**  3. **Entscheidungs**  4. **verträglichkeit**  5. **Bundesumwelt**  6. **wissenschaft**
 
 ## Übung A6 — Vorsilbe und ihre Bedeutung verbinden
 
@@ -65,7 +65,7 @@
 
 ## Übung A7 — Fugenelement oder nicht?
 
-1. **-s-**  2. **-s-**  3. **-s-**  4. **-s-**  5. **-s-**  6. **-s-**
+1. **-s-**  2. **—**  3. **-s-**  4. **-s-**  5. **-er-**  6. **—**
 
 ## Übung A8 — Vorsilbe oder Nachsilbe?
 
@@ -203,11 +203,11 @@ Selbstkorrektur:
 3. **b) die Wende** — Im Kompositum steht der Grundbegriff rechts — hier die Wende.
 4. **b) falsch / negativ** — miss- bedeutet falsch / negativ: missverstehen, Misserfolg, missachten.
 5. **c) abstraktes Nomen** — -keit macht aus Adjektiven abstrakte Nomen: Pünktlichkeit, Verträglichkeit, Nachhaltigkeit.
-6. **a) -s-** — Klimaschutz hat das Fugenelement -s-: Klima + s + Schutz.
+6. **c) kein Fugenelement** — Klimaschutz = Klima + Schutz — die beiden Teile werden ohne Fugenelement direkt verbunden.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-1. **BEDEUTUNG**  2. **ZERSTÖRT**  3. **ENTSCHEIDUNGSTRÄGER**  4. **MISVERSTÄNDNIS**  5. **BEDEUTSAM**  6. **BEZAHLBARKEIT**  7. **BESCHAFFT**  8. **MISSTRAUEN**  9. **LÖSUNG**  10. **ZERSTÖREN**
+1. **ENERGIEWENDE**  2. **GESPRÄCH**  3. **ENTSCHEIDUNGSTRÄGER**  4. **BEDEUTUNG**  5. **BEZAHLBARKEIT**  6. **MÖGLICH**  7. **MISSTRAUEN**  8. **MISSVERSTÄNDNIS**  9. **ENTSCHEIDUNG**  10. **LÖSUNG**
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Wie funktioniert deutsche Wortbildung?)
 
