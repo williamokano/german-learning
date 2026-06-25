@@ -768,7 +768,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 — Annas Familie und ihre Hobbys"
-    instructions: 'Read „Annas Familie und ihre Hobbys" in lesson.md, section 6. Richtig (R) oder falsch (F)?'
+    instructions: 'Read „Annas Familie und ihre Hobbys" in lesson.md, section 7. Richtig (R) oder falsch (F)?'
     items:
       - q: "Anna liest am liebsten Krimis."
         answer: true

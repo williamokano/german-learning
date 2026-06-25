@@ -44,7 +44,7 @@ buildsOn:
 
 > **Anna:** Bruno, was machst du gern in deiner Freizeit?  
 > **Bruno:** Ich spiele gern Fußball! Am Samstag spiele ich immer mit Freunden  
-> im Park.* Und ich schwimme gern. Und du?  
+> im Park.\* Und ich schwimme gern. Und du?  
 > **Anna:** Ich lese sehr gern, am liebsten Krimis. Und ich fahre gern Rad.  
 > **Bruno:** Kannst du auch schwimmen?  
 > **Anna:** Ja, aber nicht sehr gut. Und ich gehe nur im Sommer schwimmen —  
@@ -71,14 +71,14 @@ system starts in Lektion 8.
 > **Paula:** Perfekt. Und morgen scheint die Sonne — da fahren wir Rad!  
 >
 > *(später, am Telefon)*
-> **Bruno:** Hallo Anna! Wir gehen heute ins Kino. Hast du Lust?* Kommst du mit?  
-> **Anna:** Tut mir leid,** ich kann heute nicht. Ich treffe meine Schwester.  
+> **Bruno:** Hallo Anna! Wir gehen heute ins Kino. Hast du Lust?\* Kommst du mit?  
+> **Anna:** Tut mir leid,\*\* ich kann heute nicht. Ich treffe meine Schwester.  
 > **Bruno:** Schade! Vielleicht am Sonntag?  
 > **Anna:** Ja, gern! Bis Sonntag!  
 
 \* `Hast du Lust?` (Do you feel like it?) — learn as a chunk. The full pattern
 (`Lust auf etwas haben`) comes at A2.
-\** `Tut mir leid` (I'm sorry) — also a chunk.
+\*\* `Tut mir leid` (I'm sorry) — also a chunk.
 
 ---
 
@@ -343,11 +343,12 @@ Lektion 7.)
 >
 > | Pattern | Example |
 > |---|---|
-> | `Wollen wir …?` | Wollen wir ins Kino gehen? |
-> | `Wie wäre es mit …?` | Wie wäre es mit einem Film? |
-> | `Hast du Lust, …?` | Hast du Lust, schwimmen zu gehen? |
+> | `Gehen wir …?` | Gehen wir ins Kino? |
+> | `Kommst du mit?` | Kommst du mit? (mitkommen, L5!) |
+> | `Hast du Lust?` | Hast du Lust? (chunk — full form in Lektion 13) |
 >
 > ▶ Three ready-made patterns — learn each as a chunk and slot in your activity.
+> (`Wollen wir …?` arrives with the modal `wollen` in Lektion 7.)
 
 ### 5.6 Weather sentences with `es`
 
