@@ -326,7 +326,7 @@ until a Short file is added).
   page itself offers the toggle.
 - **Audio re-generation**: the audio pipeline reads `lesson.md` and ignores
   `lesson-short.md`. The dialogs and Hörtext must not drift between the two
-  files. The `review-lesson` skill adds a check for this.
+  files. The `review-exercises` skill adds a check for this.
 - **Print / PDF**: which view do we print by default? Proposal: Full. The
   short is only useful on-screen as a toggle.
 - **Localised L1**: the Häufige Fehler boxes are currently PT / ES / EN biased.

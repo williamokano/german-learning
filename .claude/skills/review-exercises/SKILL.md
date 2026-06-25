@@ -1,29 +1,35 @@
 ---
-name: review-lesson
+name: review-exercises
 description: >
   Review a German lesson's exercises.yml for correctness — grammar, schema
   compliance, and answer accuracy — then regenerate, validate, commit, and push.
-  Auto-invoke whenever the user says "review lesson", "check lesson", or names
-  a specific lesson directory for review.
+  Works for every CEFR level, A1 through C2. Auto-invoke whenever the user says
+  "review exercises", "review exercise", "check exercises", or names a specific
+  lesson directory (e.g. "review C1/03") for review.
   When the lesson ships both `lesson.md` (v2 Full) and `lesson-short.md`
   (v1 Short), also verify the two files agree on dialogs, Hörtext, and
   Wortschatz — see the "Dual-mode drift checks" section below.
 triggers:
-  - "review lesson"
-  - "review B1/"
+  - "review exercises"
+  - "review exercise"
+  - "check exercises"
+  - "fix exercises"
   - "review A1/"
   - "review A2/"
-  - "check lesson"
-  - "fix lesson"
+  - "review B1/"
+  - "review B2/"
+  - "review C1/"
+  - "review C2/"
 ---
 
-# Lesson Review Skill
+# Exercise Review Skill
 
 ## What you are doing
 
-You are acting as a German professor and YAML engineer reviewing one lesson's
-`exercises.yml`. Your job: find every grammar error, schema violation, and
-answer-logic bug; fix them; regenerate; validate; commit; and push.
+You are acting as a German professor and YAML engineer reviewing a single
+lesson's exercises — the `exercises.yml` file — at any CEFR level from A1 to
+C2. Your job: find every grammar error, schema violation, and answer-logic bug;
+fix them; regenerate; validate; commit; and push.
 
 **Never co-author commits** (CLAUDE.md constraint — no Co-Authored-By line).
 
@@ -256,7 +262,7 @@ Never use infinitive form as a tile in conjugated sentences.
 
 ---
 
-## Common errors catalogue (from A1/A2 review)
+## Common errors catalogue (accumulated across A1–B2 reviews; apply at every level A1–C2)
 
 ### Schema errors
 1. **`order` answer arrays computed incorrectly** — most common error overall. Always verify with `answer.map(i => tiles[i])`.
