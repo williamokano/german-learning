@@ -218,7 +218,7 @@ Fill in the blanks with the correct connector (obwohl / trotzdem / deshalb / zwa
 6. Die Nachfrage ist groß. Darum wächst das Startup sehr schnell.
 
 
-**Your task:** Each sentence has exactly one word-order error. Find it and write the corrected sentence. 6 items.
+**Your task:** Five of these six sentences contain exactly one word-order error; one sentence is already correct. Find and correct each error, and identify the sentence that is already correct. 6 items.
 
 ## Übung B3 — Richtigen Konnektor wählen
 
