@@ -576,7 +576,7 @@ exercises:
       — Ja — {5} ich kurz fragen, {6} die Unterlagen vorher schicken soll?
       — Bitte schicken Sie die Unterlagen bis heute Abend.
     answers:
-      "1": hier spricht
+      "1": Hier spricht
       "2": störe
       "3": ob
       "4": Haben

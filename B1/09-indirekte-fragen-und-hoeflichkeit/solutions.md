@@ -132,7 +132,7 @@
 
 ## Übung B7 — Formeller Anruf: Lückentext
 
-1. **hier spricht**  2. **störe**  3. **ob**  4. **Haben**  5. **dürfte**  6. **ob ich**
+1. **Hier spricht**  2. **störe**  3. **ob**  4. **Haben**  5. **dürfte**  6. **ob ich**
 
 ## Übung B8 — Leseverstehen: Annas Brief ans Hotel
 
