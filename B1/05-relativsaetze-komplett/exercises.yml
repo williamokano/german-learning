@@ -218,7 +218,7 @@ exercises:
       2. Das ist die Mitarbeiterin, {2} ich danke. (die Mitarbeiterin — Dat.: der)
       3. Das ist das Team, {3} alles zu verdanken ist. (das Team — Dat.: dem)
       4. Das sind die Kunden, {4} wir helfen. (die Kunden — Dat.: denen)
-      5. Das ist ein Ort, {5} man gut arbeiten kann. (ein Ort — Dat.: dem, after an dem)
+      5. Das ist der Gründer, {5} die Firma gehört. (der Gründer — Dat.: dem)
       6. Das ist die Person, {6} ich am meisten vertraue. (die Person — Dat.: der)
       7. Das sind Freunde, {7} ich alles erzählen kann. (Freunde — Dat.: denen)
       8. Das ist das Projekt, {8} wir viel Zeit gewidmet haben. (das Projekt — Dat.: dem)
@@ -517,14 +517,14 @@ exercises:
     instructions: "Formelle Sprache: Fülle die Lücken mit Präposition + Relativpronomen. 6 Sätze."
     text: |
       1. Das ist eine Stelle, {1} sich viele bewerben. (um + die → um die)
-      2. Das ist ein Ergebnis, {2} wir sehr stolz sind. (über + das → über das)
+      2. Das ist ein Ergebnis, {2} wir sehr stolz sind. (auf + das → auf das)
       3. Das ist ein Projekt, {3} alle Mitarbeiter beigetragen haben. (zu + dem → zu dem)
       4. Das ist die Abteilung, {4} Anna wechseln möchte. (in + die → in die)
       5. Das ist der Kollege, {5} dieser Erfolg hauptsächlich abhängt. (von + dem → von dem)
       6. Das ist eine Aufgabe, {6} man sich wirklich kümmern muss. (um + die → um die)
     answers:
       "1": um die
-      "2": über das
+      "2": auf das
       "3": zu dem
       "4": in die
       "5": von dem
@@ -555,7 +555,7 @@ exercises:
     block: B
     type: single-choice
     title: "Leseverstehen: Lesetext (Über uns — die Website des Startups)"
-    instructions: "Read the Lesetext in lesson.md, section 5. Choose the correct answer (a, b, or c)."
+    instructions: "Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c)."
     items:
       - q: "Worauf konzentriert sich das Startup?"
         options:
@@ -667,11 +667,11 @@ exercises:
         why: "Kollegen (pl.) + vertrauen (Dativ) → Dativ plural → denen."
       - q: "Das ist ein Ergebnis, ______ wir sehr stolz sind."
         options:
-          - { key: a, text: "worüber" }
-          - { key: b, text: "über die" }
-          - { key: c, text: "über das" }
+          - { key: a, text: "worauf" }
+          - { key: b, text: "auf die" }
+          - { key: c, text: "auf das" }
         answer: c
-        why: "das Ergebnis (n.) + über (Akkusativ) → über das. worüber = B1/08 topic."
+        why: "stolz auf + Akkusativ; das Ergebnis (n.) → auf das. worauf = B1/08 topic."
       - q: "Alles, ______ du für den Start brauchst, liegt bereit."
         options:
           - { key: a, text: "das" }
@@ -728,7 +728,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1: Über uns — die Website des Startups"
-    instructions: "Read the Lesetext (lesson.md, section 5). Richtig (R) oder Falsch (F)?"
+    instructions: "Read the Lesetext (lesson.md, section 7). Richtig (R) oder Falsch (F)?"
     items:
       - q: "Das Startup konzentriert sich auf die gut erschlossenen Stadtteile im Zentrum."
         answer: false

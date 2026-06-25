@@ -114,7 +114,7 @@ Fülle die Lücken mit dem richtigen Relativpronomen im Dativ. 8 Sätze.
 2. Das ist die Mitarbeiterin, ______ ich danke. (die Mitarbeiterin — Dat.: der)
 3. Das ist das Team, ______ alles zu verdanken ist. (das Team — Dat.: dem)
 4. Das sind die Kunden, ______ wir helfen. (die Kunden — Dat.: denen)
-5. Das ist ein Ort, ______ man gut arbeiten kann. (ein Ort — Dat.: dem, after an dem)
+5. Das ist der Gründer, ______ die Firma gehört. (der Gründer — Dat.: dem)
 6. Das ist die Person, ______ ich am meisten vertraue. (die Person — Dat.: der)
 7. Das sind Freunde, ______ ich alles erzählen kann. (Freunde — Dat.: denen)
 8. Das ist das Projekt, ______ wir viel Zeit gewidmet haben. (das Projekt — Dat.: dem)
@@ -256,7 +256,7 @@ Bringe die Wörter in die richtige Reihenfolge. Das Verb im Relativsatz steht am
 Formelle Sprache: Fülle die Lücken mit Präposition + Relativpronomen. 6 Sätze.
 
 1. Das ist eine Stelle, ______ sich viele bewerben. (um + die → um die)
-2. Das ist ein Ergebnis, ______ wir sehr stolz sind. (über + das → über das)
+2. Das ist ein Ergebnis, ______ wir sehr stolz sind. (auf + das → auf das)
 3. Das ist ein Projekt, ______ alle Mitarbeiter beigetragen haben. (zu + dem → zu dem)
 4. Das ist die Abteilung, ______ Anna wechseln möchte. (in + die → in die)
 5. Das ist der Kollege, ______ dieser Erfolg hauptsächlich abhängt. (von + dem → von dem)
@@ -275,7 +275,7 @@ Schreib eine Definition mit einem Relativsatz. 6 Sätze.
 
 ## Übung B8 — Leseverstehen: Lesetext (Über uns — die Website des Startups)
 
-Read the Lesetext in lesson.md, section 5. Choose the correct answer (a, b, or c).
+Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c).
 
 1. Worauf konzentriert sich das Startup?  a) Auf das Stadtzentrum, das gut erschlossen ist.  b) Auf Stadtgebiete, in denen der öffentliche Nahverkehr unzureichend ist.  c) Auf Stadtgebiete, wo viele Autos fahren.
 2. Was unterscheidet das Startup von anderen Anbietern?  a) Der günstige Preis.  b) Die schnelle Lieferung.  c) Der Fokus auf Randbezirke.
@@ -329,7 +329,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Das ist die Formulierung, ______ man in formellen Briefen oft findet.  a) die  b) das  c) den
 2. Das sind Kollegen, ______ ich wirklich vertraue.  a) die  b) denen  c) dem
-3. Das ist ein Ergebnis, ______ wir sehr stolz sind.  a) worüber  b) über die  c) über das
+3. Das ist ein Ergebnis, ______ wir sehr stolz sind.  a) worauf  b) auf die  c) auf das
 4. Alles, ______ du für den Start brauchst, liegt bereit.  a) das  b) was  c) die
 5. Das ist die Stadt, ______ Pavel seit drei Jahren lebt.  a) die  b) wo  c) der
 6. Das ist das Stadtgebiet, ______ die Nachfrage am größten ist.  a) in der  b) in dem  c) in denen
@@ -353,7 +353,7 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1: Über uns — die Website des Startups
 
-Read the Lesetext (lesson.md, section 5). Richtig (R) oder Falsch (F)?
+Read the Lesetext (lesson.md, section 7). Richtig (R) oder Falsch (F)?
 
 1. Das Startup konzentriert sich auf die gut erschlossenen Stadtteile im Zentrum. ( )
 2. Die App hilft Nutzern, E-Scooter in Randbezirken zu finden. ( )

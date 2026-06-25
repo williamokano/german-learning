@@ -127,7 +127,7 @@
 
 ## Übung B6 — Formelle Sätze mit Präposition + Relativpronomen
 
-1. **um die**  2. **über das**  3. **zu dem**  4. **in die**  5. **von dem**  6. **um die**
+1. **um die**  2. **auf das**  3. **zu dem**  4. **in die**  5. **von dem**  6. **um die**
 
 ## Übung B7 — Definitionen schreiben — "Ein … ist jemand/etwas, der/die/das/was …"
 
@@ -168,7 +168,7 @@ Selbstkorrektur:
 
 1. **a) die** — die Formulierung (f.) as direct object → Akkusativ feminine → die.
 2. **b) denen** — Kollegen (pl.) + vertrauen (Dativ) → Dativ plural → denen.
-3. **c) über das** — das Ergebnis (n.) + über (Akkusativ) → über das. worüber = B1/08 topic.
+3. **c) auf das** — stolz auf + Akkusativ; das Ergebnis (n.) → auf das. worauf = B1/08 topic.
 4. **b) was** — alles → was (not das). This is the was-trigger rule.
 5. **b) wo** — wo is the relative pronoun after place nouns like Stadt, Ort, Land.
 6. **b) in dem** — das Stadtgebiet (n.) + in (Dativ) → in dem.
