@@ -324,18 +324,18 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. Eleven words are not needed. Each word may be used once.
+Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once.
 
 > Lukas erzählt von seinem alten Fotoalbum: „Damals (1) (1) ______ ich 26
 > und (2) (2) ______ gerade meinen ersten Job (3) (3) ______. Ich (4) (4) ______ ein
 > altes Auto — einen kaputten Polo. Ich (5) (5) ______ damit jeden Tag zur
 > Arbeit. Die Wohnung (6) (6) ______ klein, aber ich (7) (7) ______ das nicht
-> schlimm. Nachdem ich (8) (8) ______ nach Berlin (9) (9) ______, (10) (10) ______ ich
+> schlimm. Nachdem ich nach Berlin (8) (8) ______ (9) (9) ______, (10) (10) ______ ich
 > drei Jahre lang jeden Tag mit dem Bus."
 
-> ARBEITEN · BEGONNEN · BIN · FAND · FUHR · GEZOGEN · GING · HATTE · HATTE · HÄTTE · KAM · KONNTE · LEBTE · MUSSTE · WAR · WAR · WAR · WISSEN · WOHNTEN · WOLLTE · WURDE
+> BEGONNEN · FAND · FUHR · GEZOGEN · HATTE · HATTE · KAM · KONNTE · MUSSTE · WAR · WAR · WAR · WAR · WOLLTE · WURDE
 
-Eleven words are not needed.
+Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lukas' Fotoalbum)
 
