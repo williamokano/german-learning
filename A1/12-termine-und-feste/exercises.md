@@ -218,7 +218,7 @@ Fill in the blanks.
 
 ## Übung B2 — Dialog ergänzen: Arzttermin (formal)
 
-— Guten Tag, Praxis Dr. Bauer. Was kann ich für ______ tun?
+— Guten Tag, Praxis Dr. Hoffmann. Was kann ich für ______ tun?
 — Ich möchte ______ einen Termin.
 — Gern. Passt ______ Donnerstag, der vierte März?
 — Um ______ Uhr?
@@ -357,7 +357,7 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1
 
-Read the Lesetext in lesson.md, section 5. Richtig (R) oder falsch (F)?
+Read the Lesetext in lesson.md, section 7. Richtig (R) oder falsch (F)?
 
 1. Anna hat am Samstag, dem siebzehnten Juni, Geburtstag. ( )
 2. Die Feier findet am achtzehnten Juni statt. ( )
