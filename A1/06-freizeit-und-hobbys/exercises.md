@@ -384,7 +384,7 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Annas Familie und ihre Hobbys
 
-Read „Annas Familie und ihre Hobbys" in lesson.md, section 6. Richtig (R) oder falsch (F)?
+Read „Annas Familie und ihre Hobbys" in lesson.md, section 7. Richtig (R) oder falsch (F)?
 
 1. Anna liest am liebsten Krimis. ( )
 2. Felix macht gern Sport. ( )
