@@ -1,18 +1,21 @@
-# Exercise Reviewer — Architecture
+# German Lesson Reviewer — Architecture
 
-This skill reviews a German lesson's `exercises.yml` end-to-end — schema
-correctness, answer logic, grammar accuracy, CEFR scope — and verifies the
-exercises stay consistent with the lesson's teaching content (`lesson.md` /
-`lesson-short.md` dual-mode drift, audio filenames). **Read `SKILL.md` first**
-— it is the procedure and the persona.
+This skill reviews a German lesson **end-to-end** — BOTH its teaching content
+(`lesson.md` / `lesson-short.md`: grammar explanations, dialogs, Wortschatz,
+Hörtext, reading texts, culture) AND its exercises (`exercises.yml`: schema,
+answer logic, grammar), plus the consistency between them (dual-mode drift,
+audio filenames, exercises-don't-outrun-the-lesson). The lesson content can be
+wrong on its own, independent of any exercise. **Read `SKILL.md` first** — it is
+the procedure and the persona.
 
-It is the single, consolidated reviewer for this project (it absorbed the former
-`review-lesson` skill on 2026-06-25 — see `decision-log.md`).
+It is the single, consolidated reviewer for this project. On 2026-06-25 the
+short-lived `review-lesson` / `review-exercises` split was merged back into one
+whole-lesson reviewer (see `decision-log.md`).
 
 ## File map
 
 ```
-.claude/skills/review-exercises/
+.claude/skills/review-lesson/
 ├── SKILL.md                              ← procedure + persona (READ FIRST)
 ├── README.md                             ← this file (architecture)
 │

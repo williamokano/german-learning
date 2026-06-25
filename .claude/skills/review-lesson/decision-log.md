@@ -13,6 +13,15 @@ Document **why** each new review rule was added.
 
 ---
 
+## 2026-06-25 — Renamed the consolidated skill to `review-lesson` + broadened scope to the whole lesson
+
+- **Trigger:** After the first consolidation (below) the single skill was scoped exercises-primary — `exercises.yml` as the object of review, `lesson.md` only as drift reference. User corrected: the lesson's *teaching content* can be wrong on its own (a fabricated grammar rule, a wrong noun gender, an unnatural dialog, a false cultural claim), independent of any exercise.
+- **Decision:** renamed the directory `review-exercises` → `review-lesson` (user choice) and rewrote SKILL.md so the teaching content (`lesson.md` / `lesson-short.md`) and the exercises (`exercises.yml`) are **both first-class** objects of review, plus their consistency. Restored content dimensions (grammar-explanation correctness + hallucination check, dialog/reading naturalness, Wortschatz gender/plural accuracy, cultural accuracy, pedagogy, internal contradictions) — see SKILL.md §3 — while keeping the concise fix-list output and dropping only the genuinely-dead dimensions (visual references, teacher notes; neither exists in this repo). Added the audio-regeneration rule (§9) since content fixes can change a dialog/Hörtext transcript.
+- **Source:** User request 2026-06-25 ("I don't want to review only the exercises but also the lesson — the lesson itself could be wrong"; chose the name `review-lesson`).
+- **Effect:** one whole-lesson reviewer named `review-lesson`; the earlier consolidation entry's "review-exercises" name is superseded by this one.
+
+---
+
 ## 2026-06-25 — Consolidated review-lesson + review-exercises into one skill
 
 - **Trigger:** User reviewed both skills and found them ~80% duplicate with leaky scope, a `$PATH` level-detection bug, a broken `../review-lesson` relative load path, phantom C2 coverage, dead dimensions (visual references, teacher notes), and 8 knowledge files duplicated across both dirs (guaranteed to drift — `false-positives.md` and `review-memory.md` had already diverged).

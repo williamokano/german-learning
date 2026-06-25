@@ -30,7 +30,7 @@ Both files must agree on:
 - **Wortschatz entries** (section 4). Same nouns, same articles, same plurals.
   A noun that appears in Full but not in Short (or vice versa) is a bug.
 
-The `review-exercises` skill now checks this drift automatically.
+The `review-lesson` skill now checks this drift automatically.
 
 You may also author **only** the Full or **only** the Short:
 

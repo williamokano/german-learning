@@ -76,7 +76,7 @@ npx tsx build/gen-exercises.ts --all --check   # passes for every committed less
 - **Speaker labels**: must be exact voice keys from `scripts/audio_config.json:voices`. Full-name labels like `"Dr. El-Sayed"` / `"Hannah El-Sayed"` fall through to default-male pool. Use first names ("Yusuf", "Hannah", "Anna") or surnames ("Steinmeyer") that match a `voices` key. See B2/02 fix for example.
 - **C3 integrity**: bank must have 15 items, 10 answers, 5 distractors. Each answer must fit EXACTLY one gap (no two-gap ambiguity). Parens hints are the conventional way to disambiguate (see B2/01 C3).
 - **Dual-mode drift**: dialog turns + Hörtext transcript + Wortschatz noun articles/plurals must match between `lesson.md` and `lesson-short.md`. Always diff after edits.
-- **The skill `review-exercises`** auto-loads when reviewing lessons and has the full type-specific checklist. Invoke via `skill review-exercises`.
+- **The skill `review-lesson`** auto-loads when reviewing lessons and has the full type-specific checklist. Invoke via `skill review-lesson`.
 - **Commit messages**: never include `Co-Authored-By` (per CLAUDE.md).
 - **One commit per lesson**: don't batch lesson reviews into a single commit.
 
@@ -91,6 +91,6 @@ npx tsx build/gen-exercises.ts --all --check   # passes for every committed less
 - Audio generator: `scripts/generate_audio.py`
 - Audio config (voices, level_speeds, contexts): `scripts/audio_config.json`
 - Generator/validator: `build/gen-exercises.ts`
-- Skill: `.claude/skills/review-exercises/SKILL.md`
+- Skill: `.claude/skills/review-lesson/SKILL.md`
 - Personas: `personas/*.md`
 - Memory: `MEMORY.md`
