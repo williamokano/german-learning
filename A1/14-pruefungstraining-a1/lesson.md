@@ -132,7 +132,7 @@ You have reached the end of A1. Over the past thirteen lessons you learned to gr
 | die Bestätigung | confirmation | f / Bestätigungen |
 | der Termin | appointment | m / Termine |
 
-> 💡 **Lerntipp:** Die vier Prüfungsteile — *Hören, Lesen, Schreiben, Sprechen* — sind alle Nomen aus Verben (Verbalnomen). Sie brauchen keinen Artikel in festen Ausdrücken: *ich mache Hören zuerst*. Merke: im Deutschen schreibt man Nomen immer groß — auch *das Lernen, das Üben, das Sprechen*.
+> 💡 **Lerntipp:** Die vier Prüfungsteile — *Hören, Lesen, Schreiben, Sprechen* — sind alle Nomen aus Verben (Verbalnomen). Du kannst den Artikel in Prüfungsanweisungen oft weglassen (*ich mache Hören zuerst*); im normalen Deutsch brauchst du aber den Artikel: *das Hören ist schwer*. Merke: im Deutschen schreibt man Nomen immer groß — auch *das Lernen, das Üben, das Sprechen*.
 
 ### Schlüsselvokabular — Revisionsübersicht
 
@@ -164,7 +164,7 @@ Es war Montag, und Anna hatte noch eine Woche bis zur Start-Deutsch-1-Prüfung. 
 
 Zuerst öffnete sie ihr Übungsheft. Sie musste noch die Artikel üben — *der, die, das* — das war manchmal schwer. Sie schrieb fünfzehn Sätze mit Akkusativ und fünf mit Dativ. „*Ich kaufe einen Mantel* (Akkusativ, maskulin!)", sagte sie laut.
 
-Am Dienstag fuhr Anna mit der U-Bahn zur Bibliothek. Sie lieh sich ein Buch über Berlin aus und las zwei Stunden. Das Lesen war für sie leichter als das Schreiben. Sie mochte Texte — in Russland hatte sie immer viel gelesen.
+Am Dienstag fuhr Anna mit der U-Bahn zur Bibliothek. Sie lieh sich ein Buch über Berlin aus und las zwei Stunden. Das Lesen war für sie leichter als das Schreiben. Sie mochte Texte — in Russland hat sie immer viel gelesen.
 
 Am Mittwoch kam Bruno zu ihr. Sie lernten zusammen: Bruno erklärte die Modalverben (*können, müssen, wollen, dürfen, sollen*), und Anna übte die Ordinalzahlen. „Am dreizehnten März, am einundzwanzigsten April", sagte Bruno. „Gut — der, dem, den — Dativ!", lachte Anna.
 
@@ -307,7 +307,7 @@ Prüfungskoordinatorin, Sprachschule Berlin-Mitte
 
 ## 8. Hörtext
 
-*Hör zu und mach Übung H3. Öffne das Transkript erst nach dem Hören!*
+*Hör zu und lies das Transkript erst nach dem Hören! Nutze den Text als Übung für dein Hörverstehen — auch wenn keine Aufgabe im Prüfungsformat daran anknüpft.*
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -345,13 +345,13 @@ Diese Lektion ist dein Ziel und dein Startschuss. Drei Tage, dreißig Minuten pr
 - [ ] **Dialog A §1** laut lesen (3×). Achte auf formelle Sprache (*Sie*, *Könnten Sie …*, *Herr/Frau*).
 - [ ] **Hörtext §8** zweimal anhören. Erstes Hören: nur zuhören. Zweites Hören: wichtige Infos notieren (Datum, Nummer, Fragen). Dann Transkript öffnen.
 - [ ] **Lesetext §7** lesen. Beantworte diese Fragen ohne den Text anzusehen: Welche vier Prüfungsteile gibt es? Was muss Bruno mitbringen? Wann kommt er zum Prüfungsraum?
-- [ ] **Block C** in `exercises.md` machen — die Prüfungstraining-Übungen.
+- [ ] **Teil 2 (Lesen)** in `exercises.md` machen — die Aufgaben 4–7 zum Leseverstehen.
 
 ### Tag 3 (30 min) — Generalprobe
 
 - [ ] **Häufige Fehler §6.2** lesen — alle 8 Paare. Deckele die rechte Seite und korrigiere die linke Spalte aus dem Kopf.
 - [ ] **Mini-Geschichte §5** nochmal lesen und die Vergangenheitsformen (Perfekt) unterstreichen.
-- [ ] **Block D** in `exercises.md` als Selbsttest unter Zeitdruck machen: Block A (15 min), dann Block B (15 min). Erst danach öffnest du `solutions.md`. Ziel: ≥ 70 %.
+- [ ] **Teil 1 (Hören) und Teil 2 (Lesen)** in `exercises.md` als Selbsttest unter Zeitdruck machen: Hören (10 min), dann Lesen (15 min). Erst danach öffnest du `solutions.md`. Ziel: ≥ 70 %.
 - [ ] Wenn du weniger als 70 % hast: Geh zu deinen Karteikarten von Tag 1 und wiederhole die Punkte mit den meisten Fehlern. Dann nochmal Tag 3.
 
 ---
