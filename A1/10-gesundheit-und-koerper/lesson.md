@@ -134,7 +134,7 @@ Everybody gets sick — and when it happens in a foreign country, it is one of t
 | das Auge, -n | eye |
 | das Ohr, -en | ear |
 | die Nase, -n | nose |
-| der Mund, –e (Münder) | mouth |
+| der Mund, –er (Münder) | mouth |
 | der Zahn, –e (Zähne) | tooth |
 | der Hals, –e (Hälse) | throat / neck |
 | die Schulter, -n | shoulder |
@@ -226,7 +226,7 @@ Bruno schreibt zurück: „Ich habe keine Tabletten zu Hause. Und ich habe keine
 
 Anna schreibt: „Geh nicht in die Apotheke allein — ich komme! Warte eine Stunde."
 
-Anna geht in die Apotheke in der Nähe. Die Apothekerin fragt: „Was brauchen Sie?" Anna sagt: „Mein Freund hat Fieber und Halsschmerzen. Er braucht etwas gegen Erkältung." Die Apothekerin gibt ihr Tabletten und sagt: „Nehmt die Tabletten zweimal täglich nach dem Essen. Und trinkt viel — Wasser oder Tee, kein Kaffee." Anna kauft auch Tee und Honig im Supermarkt nebenan.
+Anna geht in die Apotheke in der Nähe. Die Apothekerin fragt: „Was brauchen Sie?" Anna sagt: „Mein Freund hat Fieber und Halsschmerzen. Er braucht etwas gegen Erkältung." Die Apothekerin gibt ihr Tabletten und sagt: „Nehmt die Tabletten dreimal täglich nach dem Essen. Und trinkt viel — Wasser oder Tee, kein Kaffee." Anna kauft auch Tee und Honig im Supermarkt nebenan.
 
 Anna bringt Bruno die Medizin. Bruno ist sehr froh. „Danke, Anna! Du bist super." Anna lacht: „Du sollst jetzt schlafen. Und morgen rufst du deinen Arzt an, wenn das Fieber noch da ist." Bruno nickt. Er nimmt eine Tablette, trinkt ein Glas Wasser und schläft ein. Anna schreibt seiner Zimmertür einen kleinen Zettel: „Schlafen! Keine Arbeit!"
 
@@ -311,12 +311,12 @@ Unlike the *du*-form, **the ihr-imperative of stem-vowel verbs does NOT change**
 > **du-Form:**
 > *Trink viel Wasser und Tee!*
 > *Schlaf heute den ganzen Tag!*
-> *Nimm diese Tabletten zweimal täglich!*
+> *Nimm diese Tabletten dreimal täglich!*
 >
 > **ihr-Form:**
 > *Trinkt viel Wasser und Tee!*
 > *Schlaft heute den ganzen Tag!*
-> *Nehmt diese Tabletten zweimal täglich!*
+> *Nehmt diese Tabletten dreimal täglich!*
 >
 > Beachte: *schlafen* → *Schlaf* (du) / *Schlaft* (ihr). Umlaut weg im du-Imperativ!
 
@@ -358,7 +358,7 @@ Like all modals: **ich soll** (no *-e*), **er/sie/es soll** (no *-t*). Infinitiv
 6. *Du **sollst** nicht **rauchen**!* (strong external rule)
 7. *Ihr **sollt** nicht so viel **essen**.* (doctor to a group)
 8. *Sie **sollen** viel **ruhen**.* (doctor to patient, formal)
-9. *Der Patient **soll** dreimal täglich **nehmen**.* (on the prescription)
+9. *Der Patient **soll** die Tabletten dreimal täglich **nehmen**.* (on the prescription)
 10. *Was **soll** ich **machen**?* (What am I supposed to do?)
 11. *Bruno **soll** morgen seinen Arzt **anrufen**.* (Anna said so.)
 12. *Die Tabletten **sollen** gut **sein**.* (People say they're good — different nuance.)
@@ -552,7 +552,7 @@ Bruno fühlt sich heute nicht gut. Sein Kopf tut weh und sein Hals ist rot und t
 
 Bruno ruft die Arztpraxis an. „Guten Tag, ich brauche einen Termin", sagt er mit heiserer Stimme. „Haben Sie heute Fieber?", fragt die Arzthelferin. „Ja, 38,5 Grad", sagt Bruno. „Kommen Sie bitte um 15 Uhr", sagt die Arzthelferin.
 
-Beim Arzt sagt Doktor Müller: „Sie haben eine Erkältung. Bleiben Sie morgen zu Hause. Trinken Sie viel Wasser und Tee. Nehmen Sie diese Tabletten zweimal täglich nach dem Essen." Bruno geht in die Apotheke und kauft die Medizin. Sieben Euro neunzig — nicht so teuer.
+Beim Arzt sagt Doktor Müller: „Sie haben eine Erkältung. Bleiben Sie morgen zu Hause. Trinken Sie viel Wasser und Tee. Nehmen Sie diese Tabletten dreimal täglich nach dem Essen." Bruno geht in die Apotheke und kauft die Medizin. Sieben Euro neunzig — nicht so teuer.
 
 Zu Hause trinkt Bruno Tee mit Honig und legt sich ins Bett. Sein Rücken tut auch ein bisschen weh — er liegt den ganzen Tag nicht gut. Anna bringt ihm eine Suppe und zwei Kissen. „Trink die Suppe und schlaf dann!", sagt sie. Bruno lacht ein bisschen — sein Hals tut weh, aber er ist froh, dass Anna da ist. „Danke, Anna. Gute Nacht!" „Gute Besserung!", sagt Anna und macht die Tür zu.
 
