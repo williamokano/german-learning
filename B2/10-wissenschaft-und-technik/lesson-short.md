@@ -18,7 +18,7 @@ grammar:
 buildsOn:
   - B2/01 (Nominalstil und Verbalstil)
   - B2/02 (Passiv und seine Alternativen)
-  - B1/04 (Das Passiv: Vorgang und Zustand)
+  - "B1/04 (Das Passiv: Vorgang und Zustand)"
   - B1/12 (Nominalisierung)
 ---
 
