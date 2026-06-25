@@ -6,17 +6,26 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 # Block H — Hören
 
-## Übung H1 — Dialog Hör-Check
+## Übung H1a — Dialog A Hör-Check (Im Café)
 
-🎧 **Dialog A:** [dialog1_a.mp3](audio/dialog1_a.mp3)
-🎧 **Dialog B:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to both dialogs and decide: richtig (R) oder falsch (F)?
+Listen to Dialog A and decide: richtig (R) oder falsch (F)?
 
 1. Anna bestellt einen Kaffee und ein Stück Apfelkuchen. ( )
 2. Bruno möchte Orangensaft. ( )
-3. Im Supermarkt kauft Bruno Käse, Brot und Wasser. ( )
-4. Bruno bezahlt zusammen mit Anna. ( )
+3. Bruno bezahlt zusammen mit Anna. ( )
+
+## Übung H1b — Dialog B Hör-Check (Im Supermarkt)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Listen to Dialog B and decide: richtig (R) oder falsch (F)?
+
+1. Im Supermarkt kauft Bruno Käse, Brot und Wasser. ( )
+2. Bruno kauft den Gouda und das Schwarzbrot. ( )
+3. Der Gouda kostet zwei Euro neunundneunzig. ( )
+4. Bruno kauft auch Eier. ( )
 
 ## Übung H2 — Aussprache-Check
 
@@ -301,7 +310,7 @@ Sort the 12 words: Obst · Gemüse · Getränke · Milchprodukte
 **Your task:** Du sitzt im Café und der Kellner fragt, was du möchtest. Bestell in 3–4 Sätzen: ein Getränk, etwas zu essen, und frag nach der Rechnung.
 
 Use:
-- [ ] a polite order with `Ich möchte …` / `Ich hätte gern …` — *Ich möchte einen Kaffee.*
+- [ ] a polite order with `Ich möchte …` / `Ich hätte gern …`* — *Ich möchte einen Kaffee.*
 - [ ] a food item + a drink — *ein Stück Kuchen und ein Glas Saft*
 - [ ] a question about the price — *Was kostet …?*
 - [ ] a polite closing — *Stimmt so. / Vielen Dank!*
@@ -310,6 +319,8 @@ Self-check:
 - [ ] Did I use the correct measure word (*ein Glas, eine Tasse, ein Stück, eine Flasche*) for drinks/food?
 - [ ] Did I use Akkusativ for what I order (*Ich möchte **einen** Kaffee* — not *Ich möchte **ein** Kaffee*)?
 - [ ] Did I use the correct definite article for *der Kaffee / die Milch / das Wasser* (m/f/n)?
+
+_**Chunk alert (forward-reference):** `Ich hätte gern …` is Konjunktiv II polite — fully explained at A2/09. For now, treat it as a fixed chunk alongside `Ich möchte …`._
 
 ---
 

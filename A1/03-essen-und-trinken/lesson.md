@@ -193,7 +193,7 @@ Im Kühlschrank findet Bruno nicht viel. Er hat keine Eier und keine Butter. Er 
 
 Bruno schreibt eine Liste. Er braucht einen Apfel, Nudeln, eine Flasche Wasser und ein Stück Schinken. Er braucht auch Salz und Zucker für den Kuchen — er backt gern\*. Er nimmt die Liste und geht in den Supermarkt um die Ecke. Der Supermarkt heißt "Frisch & Gut" und ist nicht weit.
 
-Im Supermarkt kauft Bruno zuerst die Nudeln — sie kosten neunundneunzig Cent. Dann nimmt er den Schinken: zwei Euro achtzig. Das Wasser kostet nur neunzig Cent. Gut. Er sieht auch Joghurt — der kostet einen Euro zwanzig. Bruno nimmt den Joghurt auch. "Das Frühstück wird super", denkt er.
+Im Supermarkt kauft Bruno zuerst die Nudeln — sie kosten neunundneunzig Cent. Dann nimmt er den Schinken: fünf Euro vierzig. Das Wasser kostet nur neunzig Cent. Gut. Er sieht auch Joghurt — der kostet einen Euro zwanzig. Bruno nimmt den Joghurt auch. "Das Frühstück wird super", denkt er.
 
 An der Kasse zahlt Bruno acht Euro fünfzig. Das ist günstig. Er ist zufrieden. Zu Hause kocht er Nudeln mit Schinken und isst sie mit Salat. Das Mittagessen schmeckt sehr gut. Danach trinkt er einen Kaffee und isst ein Stück Apfelkuchen — den hat er gestern\*\* im Café Central gekauft.
 
@@ -282,7 +282,9 @@ An der Kasse zahlt Bruno acht Euro fünfzig. Das ist günstig. Er ist zufrieden.
 
 **Examples:**
 
-1. *Ich möchte **keinen** Tee, danke.* (der Tee → keinen in accusative) 2. *Wir haben **keine** Butter.* 3. *Das ist **kein** Apfelsaft — das ist Wasser.* 4. *Ich esse **kein** Fleisch.* 5. *Bruno hat **keine** Eier im Kühlschrank.* 6. *Das ist **nicht** mein Kaffee.* (has *mein* already) 7. *Der Kuchen ist **nicht** süß.* (adjective) 8. *Ich brauche **kein** Salz.* 9. *Sie trinken **keinen** Wein heute.* 10. *Das Brötchen schmeckt **nicht** gut.* 11. *Ich habe **keine** Nudeln.* 12. *Es gibt **kein** Brot mehr.*
+1. *Ich möchte **keinen** Tee, danke.* (der Tee → keinen in accusative) 2. *Wir haben **keine** Butter.* 3. *Das ist **kein** Apfelsaft — das ist Wasser.* 4. *Ich esse **kein** Fleisch.* 5. *Bruno hat **keine** Eier im Kühlschrank.* 6. *Das ist **nicht** mein Kaffee.* (has *mein* already) 7. *Der Kuchen ist **nicht** süß.* (adjective) 8. *Ich brauche **kein** Salz.* 9. *Sie trinken **keinen** Wein heute.* 10. *Das Brötchen schmeckt **nicht** gut.* 11. *Ich habe **keine** Nudeln.* 12. *Es gibt **kein** Brot mehr.*\*
+
+\* **Chunk alert (forward-reference):** *Es gibt* (there is/are) takes **Akkusativ** and is fully explained in **Lektion 4**. For now, treat it as a fixed chunk.
 
 > ⚠️ **Häufige Fehler**
 >
@@ -383,7 +385,7 @@ That's why Lektion 2 had *Ich habe **einen** Bruder*: `haben` takes an accusativ
 
 **Examples:**
 
-1. *Ich **möchte** einen Kaffee.* 2. *Was **möchtest** du?* 3. *Er **möchte** zahlen.* 4. *Sie **möchte** ein Stück Kuchen.* 5. *Es **möchte** kalt sein* — actually rare; use for completeness. 6. *Wir **möchten** zusammen sitzen.* 7. *Was **möchtet** ihr trinken?* 8. *Die Kinder **möchten** Schokolade.* 9. *Sie **möchten** zahlen, bitte.* (formal) 10. *Ich **möchte** kein Bier, danke.* 11. *Du **möchtest** einen Orangensaft?* 12. *Wir **möchten** zahlen!*
+1. *Ich **möchte** einen Kaffee.* 2. *Was **möchtest** du?* 3. *Er **möchte** zahlen.* 4. *Sie **möchte** ein Stück Kuchen.* 5. *Mein Bruder **möchte** ein Bier.* 6. *Wir **möchten** zusammen sitzen.* 7. *Was **möchtet** ihr trinken?* 8. *Die Kinder **möchten** Schokolade.* 9. *Sie **möchten** zahlen, bitte.* (formal) 10. *Ich **möchte** kein Bier, danke.* 11. *Du **möchtest** einen Orangensaft?* 12. *Wir **möchten** zahlen!*
 
 > ⚠️ **Häufige Fehler**
 >
