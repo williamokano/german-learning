@@ -76,7 +76,7 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext: Kurzinterview mit dem Forschungsleiter"
     audio: hoertext.mp3
-    instructions: "Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel."
+    instructions: "Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel."
     text: |
       Guten Tag, Herr Dr. Steinmeyer. Sie sind Forschungsleiter am Institut für
       Digitalisierung. Können Sie uns kurz erklären, wie Ihre neue {1} durchgeführt
@@ -295,7 +295,7 @@ exercises:
       2. Die {2} (die Daten) dauerte ein Jahr.
       3. Die {3} (die Hypothese) ergab ein neues Resultat.
       4. Die {4} (die Ergebnisse) erfolgte im Juni.
-      5. Die {5} (das Modell) verlief erfolgreich.
+      5. Der {5} (das Modell) verlief erfolgreich.
       6. Der {6} (die Wirksamkeit) gilt als erbracht.
     answers:
       "1": Durchführung der Studie
@@ -316,7 +316,7 @@ exercises:
       bestätigt. Die Ergebnisse (4) {4} in *Nature* veröffentlicht. Die Methodik
       (5) {5} von anderen Forschern in Frage gestellt. Die Originaldaten (6) {6}
       Open Access zur Verfügung gestellt.
-    bank: [wurde, wurden, wurde, wurde, werden, wurden, sind, ist, wird]
+    bank: [wurde, wurde, wurde, wurden, wurden, wurden, werden, sind]
     answers:
       "1": wurde
       "2": wurden
@@ -363,7 +363,7 @@ exercises:
       2. Die Daten wurden {2} ein automatisiertes Verfahren erhoben.
       3. Die Methodik wurde {3} drei Gutachtern geprüft.
       4. Die Schäden wurden {4} das Erdbeben verursacht.
-      5. Die Forschung wird {5} das Bundesministerium gefördert.
+      5. Die Forschung wird {5} dem Bundesministerium gefördert.
       6. Das Ergebnis wurde {6} eine zweite Studie bestätigt.
       7. Die Hypothese wurde {7} vielen Forschern in Frage gestellt.
       8. Die Erkenntnis wurde {8} ein Experiment gewonnen.
@@ -540,7 +540,7 @@ exercises:
       durch die Ergebnisse bestätigt. Die Methodik (5) {5} von drei Gutachtern
       geprüft. Die Resultate (6) {6} anschließend in *Nature* veröffentlicht.
       Die Originaldaten (7) {7} Open Access zur Verfügung (8) {8}.
-    bank: [wurde, durchgeführt, wurden, wurde, wurde, wurden, gestellt, gewonnen, publiziert]
+    bank: [wurde, wurde, wurde, wurden, wurden, wurden, durchgeführt, gestellt, gewonnen, publiziert]
     answers:
       "1": wurde
       "2": durchgeführt
@@ -759,7 +759,7 @@ exercises:
       Probanden {4}. Die Hypothese {5} durch die Ergebnisse bestätigt. Eine
       zweite Versuchsreihe {6} parallel {7}. Die Methodik {8} von drei
       Gutachtern geprüft. Die Resultate {9} in einem Fachjournal {10}.
-    bank: [WURDE, DURCHGEFÜHRT, ERHOBEN, WURDEN, WURDE, AN, GEMACHT, AUSGEWERTET, WURDE, WURDEN, VEROFFENTLICHT, BESTÄTIGT, GESTELLT, GEPRÜFT, WURDE]
+    bank: [WURDE, DURCHGEFÜHRT, ERHOBEN, WURDEN, WURDE, AN, GEMACHT, AUSGEWERTET, WURDE, WURDEN, VERÖFFENTLICHT, BESTÄTIGT, GESTELLT, GEPRÜFT, WURDE]
     answers:
       "1": WURDE
       "2": DURCHGEFÜHRT
@@ -770,7 +770,7 @@ exercises:
       "7": GEMACHT
       "8": WURDE
       "9": WURDEN
-      "10": VEROFFENTLICHT
+      "10": VERÖFFENTLICHT
 
   - id: C4a
     block: C

@@ -33,7 +33,7 @@ Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel.
+Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.
 
 > Guten Tag, Herr Dr. Steinmeyer. Sie sind Forschungsleiter am Institut für
 > Digitalisierung. Können Sie uns kurz erklären, wie Ihre neue (1) ______ durchgeführt
@@ -143,7 +143,7 @@ Ergänze das fehlende Nomen + Genitivattribut. ⚠️ Genitiv! 6 Items.
 2. Die ______ (die Daten) dauerte ein Jahr.
 3. Die ______ (die Hypothese) ergab ein neues Resultat.
 4. Die ______ (die Ergebnisse) erfolgte im Juni.
-5. Die ______ (das Modell) verlief erfolgreich.
+5. Der ______ (das Modell) verlief erfolgreich.
 6. Der ______ (die Wirksamkeit) gilt als erbracht.
 
 ## Übung A7 — Verb → Nomen → Passiv
@@ -156,7 +156,7 @@ Füll die 6 Lücken mit der passenden Passivform. Zwei Wörter sind zu viel.
 > (5) (5) ______ von anderen Forschern in Frage gestellt. Die Originaldaten (6) (6) ______
 > Open Access zur Verfügung gestellt.
 
-> (wurde · wurden · wurde · wurde · werden · wurden · sind · ist · wird)
+> (wurde · wurde · wurde · wurden · wurden · wurden · werden · sind)
 
 ## Übung A8 — Verb und Nominalisierung verbinden
 
@@ -179,7 +179,7 @@ Setze von oder durch ein. ⚠️ Personen/Institutionen → von + Dat.; Mittel/U
 2. Die Daten wurden ______ ein automatisiertes Verfahren erhoben.
 3. Die Methodik wurde ______ drei Gutachtern geprüft.
 4. Die Schäden wurden ______ das Erdbeben verursacht.
-5. Die Forschung wird ______ das Bundesministerium gefördert.
+5. Die Forschung wird ______ dem Bundesministerium gefördert.
 6. Das Ergebnis wurde ______ eine zweite Studie bestätigt.
 7. Die Hypothese wurde ______ vielen Forschern in Frage gestellt.
 8. Die Erkenntnis wurde ______ ein Experiment gewonnen.
@@ -266,7 +266,7 @@ Füll die 8 Lücken mit dem passenden Wort (finite Verbform oder Partizip II). Z
 > geprüft. Die Resultate (6) (6) ______ anschließend in *Nature* veröffentlicht.
 > Die Originaldaten (7) (7) ______ Open Access zur Verfügung (8) (8) ______.
 
-> (wurde · durchgeführt · wurden · wurde · wurde · wurden · gestellt · gewonnen · publiziert)
+> (wurde · wurde · wurde · wurden · wurden · wurden · durchgeführt · gestellt · gewonnen · publiziert)
 
 ## Übung B6 — Passiv Perfekt oder Präteritum?
 
@@ -370,7 +370,7 @@ Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Je
 > zweite Versuchsreihe (6) ______ parallel (7) ______. Die Methodik (8) ______ von drei
 > Gutachtern geprüft. Die Resultate (9) ______ in einem Fachjournal (10) ______.
 
-> AN · AUSGEWERTET · BESTÄTIGT · DURCHGEFÜHRT · ERHOBEN · GEMACHT · GEPRÜFT · GESTELLT · VEROFFENTLICHT · WURDE · WURDE · WURDE · WURDE · WURDEN · WURDEN
+> AN · AUSGEWERTET · BESTÄTIGT · DURCHGEFÜHRT · ERHOBEN · GEMACHT · GEPRÜFT · GESTELLT · VERÖFFENTLICHT · WURDE · WURDE · WURDE · WURDE · WURDEN · WURDEN
 
 Five words are not needed.
 
