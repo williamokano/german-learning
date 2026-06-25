@@ -246,13 +246,13 @@ Fill in the gaps with one word each.
 Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
 
 1. Könnten Sie mir das Formular ______? (schickt → ?)
-2. Ich rufe das Bürgeramt ______ morgen. (an → word order: prefix to end)
-3. Bruno meldet sich beim Bürgeramt ______ gestern. (an → ?)
+2. Ich rufe das Bürgeramt morgen ______. (an → prefix to end)
+3. Bruno meldet sich gestern beim Bürgeramt ______. (an → ?)
 4. Die Beamtin gibt ______ Formular Bruno. (dem → Akkusativ)
 5. Ich habe einen Termin ______ Dienstag. (an → am)
 6. Bitte füllen Sie das Formular ______. (ein → aus)
 7. Er hat das Amt ______. (angeruft → ?)
-8. Könnten Sie bitte ______ helfen? (mir → word order: mir bitte)
+8. Könnten Sie bitte ______ helfen? (mich → mir)
 9. Ich brauche ______ Reisepass. (der → den)
 10. Sie wohnt seit ______ 1. Oktober in der Mozartstraße. (den → dem)
 
@@ -371,7 +371,7 @@ unterschreibe. Die Beamtin prüft alles und sagt: „Alles in ______!"
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Ich rufe (1) ____ meiner Anmeldung an.  a) seit  b) wegen  c) nach
+1. Ich rufe (1) ____ der Anmeldung an.  a) seit  b) wegen  c) nach
 2. Haben Sie (2) ____ Termin?  a) einen  b) ein  c) eine
 3. (3) ____ ich bitte online buchen?  a) Darf  b) Kann  c) Muss
 4. Sie (4) ____ Ihren Reisepass und einen Wohnungsgebernachweis mitbringen.  a) müsst  b) müssen  c) muss
@@ -397,7 +397,7 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — „Die Anmeldung"
 
-Read „Die Anmeldung" in lesson.md, section 5. Richtig (R) oder falsch (F)?
+Read „Die Anmeldung" in lesson.md, section 7. Richtig (R) oder falsch (F)?
 
 1. Bruno wohnt in Mitte. ( )
 2. Sein Vermieter heißt Herr Koch. ( )
@@ -460,7 +460,7 @@ One answer per item. No notes.
 8. (L11) Perfekt of anrufen (ich): Ich habe das Amt ______.
 9. Dative of *ein* before masculine noun: ______
 10. (L12) "on the 3rd of May" in German: am ______
-11. "I'm calling about my appointment": Ich rufe ______ meines Termins an.
+11. "I'm calling about my appointment": Ich rufe wegen dem Termin ______.
 12. Formal email closing: ______
 13. (L7) "I have to go" (müssen): Ich ______ gehen.
 14. Dative of *die* (singular): ______

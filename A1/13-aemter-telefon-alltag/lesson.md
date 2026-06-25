@@ -488,7 +488,7 @@ Plural (all cases): Nominativ/Akkusativ **die / keine** · Dativ **den / keinen*
 9. *Bruno hat sich gestern **angemeldet**.*
 10. *Ich **rufe** später noch einmal **an**.*
 11. *Sie **meldet** sich morgen beim Amt **an**.*
-12. *Wir haben den Termin **ausgemacht**.*
+12. *Wir haben den Vermieter **angerufen**.*
 
 > ⚠️ **Häufige Fehler**
 >
