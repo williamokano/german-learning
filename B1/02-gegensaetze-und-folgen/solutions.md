@@ -78,7 +78,7 @@
 
 ## Übung A8 — Umformung: zwei Sätze verbinden
 
-1. **wohnt**  2. **liebt**  3. **macht**  4. **zwar**  5. **aber**  6. **gibt**  7. **jedoch**
+1. **wohnt**  2. **liebt**  3. **macht**  4. **zwar**  5. **aber**  6. **gibt**  7. **ist**
 
 ## Übung A9 — Grammatik-Check: Richtig oder falsch?
 

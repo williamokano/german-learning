@@ -322,7 +322,7 @@ exercises:
       3. Pavel will Roaster werden. Er macht eine Ausbildung. [deshalb] → Pavel will Roaster werden. Deshalb {3} er eine Ausbildung.
       4. Das Startup ist jung. Es ist schon erfolgreich. [zwar … aber] → Das Startup ist {4} jung, {5} es ist schon erfolgreich.
       5. Die Bürokratie ist kompliziert. Tomáš gibt nicht auf. [dennoch] → Die Bürokratie ist kompliziert. Dennoch {6} Tomáš nicht auf.
-      6. Die Nachfrage ist hoch. Das Angebot ist minimal. [jedoch] → Die Nachfrage ist hoch, das Angebot {7} minimal.
+      6. Die Nachfrage ist hoch. Das Angebot ist minimal. [jedoch] → Die Nachfrage ist hoch. Jedoch {7} das Angebot minimal.
     answers:
       "1": wohnt
       "2": liebt
@@ -330,7 +330,7 @@ exercises:
       "4": zwar
       "5": aber
       "6": gibt
-      "7": jedoch
+      "7": ist
 
   - id: A9
     block: A
