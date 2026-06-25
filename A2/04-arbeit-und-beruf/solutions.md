@@ -47,7 +47,7 @@
 
 ## Übung A4 — `wenn`-Satz mit Perfekt
 
-1. **geschickt**  2. **hat**  3. **eingereicht**  4. **hat**  5. **gelesen**  6. **habe**  7. **sich**  8. **beworben**  9. **angefangen**  10. **hat**
+1. **geschickt**  2. **hat**  3. **eingereicht**  4. **hat**  5. **gelesen**  6. **habe**  7. **beworben**  8. **hat**  9. **angefangen**  10. **hat**
 
 ## Übung A5 — `als` + Berufsbezeichnung
 
@@ -76,7 +76,7 @@
 
 ## Übung A10 — `wenn` oder `weil`?
 
-1. **wenn**  2. **will**  3. **wenn** (auch richtig: **weil**)  4. **ist**  5. **weil**  6. **braucht**  7. **Wenn**  8. **hast**  9. **weil**  10. **hat**  11. **wenn**  12. **bekommt**  13. **weil**  14. **dauert**  15. **Wenn**
+1. **weil**  2. **will**  3. **wenn** (auch richtig: **weil**)  4. **ist**  5. **weil**  6. **braucht**  7. **Wenn**  8. **hast**  9. **weil**  10. **hat**  11. **wenn**  12. **bekommt**  13. **weil**  14. **dauert**  15. **Wenn**
 
 ## Übung A11 — Satzklammer recap: Trennbare Verben (L5 review)
 
@@ -102,7 +102,7 @@ Modellantwort:
 
 ## Übung B2 — Finde den Fehler
 
-1. **kommt er**  2. **Ärztin**  3. **zahlen**  4. **sich beworben**  5. **sind**  6. **da**  7. **Jahre**  8. **verdiene**
+1. **kommt er**  2. **Ärztin**  3. **kann ich**  4. **beworben**  5. **sind**  6. **da sind**  7. **Jahre**  8. **verdiene**
 
 ## Übung B3 — Sätze verbinden: `wenn`, `weil`, `deshalb`
 
