@@ -400,7 +400,7 @@ exercises:
           - { key: c, text: "Ab dem 1. Januar." }
         answer: b
         why: '"Die Stelle wird ab dem 1. Oktober besetzt."'
-      - q: 'Was ist mit dem Verb „werden" in den kursiven Sätzen der Anzeige?'
+      - q: 'Welche Funktion hat das Verb „werden" in den Sätzen der Anzeige, die „werden" enthalten?'
         options:
           - { key: a, text: "Es ist ein Futur I." }
           - { key: b, text: "Es ist das Passiv-Hilfsverb." }
