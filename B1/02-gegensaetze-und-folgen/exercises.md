@@ -165,7 +165,7 @@ Combine the two sentences using the connector in brackets. Rewrite as one senten
 3. Pavel will Roaster werden. Er macht eine Ausbildung. [deshalb] → Pavel will Roaster werden. Deshalb ______ er eine Ausbildung.
 4. Das Startup ist jung. Es ist schon erfolgreich. [zwar … aber] → Das Startup ist ______ jung, ______ es ist schon erfolgreich.
 5. Die Bürokratie ist kompliziert. Tomáš gibt nicht auf. [dennoch] → Die Bürokratie ist kompliziert. Dennoch ______ Tomáš nicht auf.
-6. Die Nachfrage ist hoch. Das Angebot ist minimal. [jedoch] → Die Nachfrage ist hoch, das Angebot ______ minimal.
+6. Die Nachfrage ist hoch. Das Angebot ist minimal. [jedoch] → Die Nachfrage ist hoch. Jedoch ______ das Angebot minimal.
 
 ## Übung A9 — Grammatik-Check: Richtig oder falsch?
 
