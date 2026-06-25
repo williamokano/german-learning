@@ -16,7 +16,7 @@
 
 1. **b) Das Empfehlungsschreiben, das Anna ihm geschickt hat.** — "Ich habe das Schreiben gelesen, das Sie mir gestern geschickt haben."
 2. **b) Sie ist zu allgemein.** — "Das ist zu allgemein."
-3. **b) Es gehört zu einer anderen Kategorie — man schreibt stattdessen `über das`.** — "worüber gehört zu einer anderen Kategorie. Auf diesem Niveau schreibt man: über das wir sehr stolz sind."
+3. **b) Es gehört zu einer anderen Kategorie — man schreibt stattdessen `auf das`.** — "`worauf` gehört zu einer anderen Kategorie. Auf diesem Niveau schreibt man: `auf das wir sehr stolz sind`."
 4. **b) Er ist sicher, dass es einen sehr guten Eindruck machen wird.** — "Das Schreiben, das Sie dann einreichen, wird sicher einen sehr guten Eindruck machen."
 
 ## Übung H3 — Hörtext-Lückentext: Mias Traumwohnung
