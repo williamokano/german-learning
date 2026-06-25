@@ -266,13 +266,15 @@ Never use infinitive form as a tile in conjugated sentences.
 5. **Bare `___` placeholders** in gap-text/gap-bank with no gap number and no answer — add `{n}` and answer.
 6. **`matching` items as bare strings** instead of `{key, text}` objects.
 7. **`gap-bank` answer not in bank** — Zod catches this but fix before running.
+7a. **Audio filename mismatch in yml vs actual files** — `audio: b1_13_dialog_a.mp3` when the file is actually `dialog1_a.mp3`. Cross-check every `audio:` field against `ls audio/` and fix the yml to match.
+7b. **`H4` references `transcript_ansage1.mp3` that doesn't exist** — pre-existing audio gen gap. Flag for follow-up audio regen; do NOT silently rewrite to a different filename.
 
 ### Grammar errors
 8. **Reflexive pronoun `ihr` for `sie`** — should be `sich`.
 9. **Infinitive tiles in order exercises** — should be conjugated.
 10. **Compound reflexive tile** (`sich fühlen` as one tile) can't cover two positions — split.
 11. **`wäret` as valid Konjunktiv II ihr-form** — archaic; use `wärt` or restructure.
-12. **`würde` + `möchte`** stacked — invalid construction.
+12. **`würde` + `möchte`** stacked — invalid construction. Also `würde` + another full verb infinitive is fine (`würde essen`), but **two stacked modals** like `Das durfte nicht passieren dürfen!` is wrong.
 13. **Verb not at end of `weil`/`dass` clause**.
 14. **Relativpronomen case wrong** — check the role in the relative clause.
 15. **`als` used for repeated past / future** — should be `wenn`.
@@ -281,6 +283,13 @@ Never use infinitive form as a tile in conjugated sentences.
 18. **Preposition instruction too narrow** — instruction lists `nach, in, aus` but an item needs `zum` or `in die`. List all forms.
 19. **`A9` instructions say "Write down" implying sentences given, but it's actually fill-in-the-blank** — use "Fill in".
 20. **Gap count claim in instructions doesn't match actual gaps** — count gaps manually.
+20a. **D1/D4 item-count claim doesn't match** — "5 items" but text has 6 gaps. Always count `{n}` placeholders in `text:` and reconcile with the instruction count.
+21. **Sentence fragment with missing verb** — gap-fill template includes connector (`jedoch`, `trotzdem`, `aber`) but no verb slot, producing an ungrammatical fragment like "Jedoch die Qualität schlecht" (missing `ist`).
+22. **V2 verb position after conjunctions** — main clause verb must be in V2 position even after `jedoch`, `trotzdem`, `allerdings`, `aber`, `außerdem`, `deshalb`. Bug: "aber viele Menschen sich das leisten können" → "aber viele Menschen können sich das leisten" (verb moves to V2).
+23. **Lowercase pronouns inside quoted dialogue** — German `ich`, `du`, `er`, `sie`, `wir`, `ihr` are always capitalized. Cross-check every lowercase `ich`/`du` in items, including inside `"…"` quotes.
+24. **`des Herrn` (not `des Herren`)** — Genitive of `der Herr` is `des Herrn`. Easy typo in odd-one-out items.
+25. **Missing or wrong relative-pronoun label in exercise prompts** — label says "Relativpronomen Nom." but the answer is an accusative form (`den`). Verify label matches the case shown by the answer.
+26. **Restructured connector with only one gap** — for pairs like `sowohl … als auch`, the template needs TWO gaps, not one. Bug: "Sie liebt {12} Berlin, sie kritisiert es" with answer "sowohl" — needs `Sie liebt {12} Berlin, {13} sie kritisiert es`.
 
 ---
 
