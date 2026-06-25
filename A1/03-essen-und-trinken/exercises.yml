@@ -769,7 +769,9 @@ exercises:
       — Danke schön!
     bank: [BIN, BITTE, BRAUCHE, DANKE, DEN, EINE, ESSE, HABEN, IST, KEIN, KOSTET, MACHT, NEHME, NICHT, TRINKT]
     answers:
-      "1": BRAUCHE
+      "1":
+        - BRAUCHE
+        - ESSE
       "2": KOSTET
       "3": NEHME
       "4": HABEN

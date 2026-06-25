@@ -186,7 +186,7 @@ Selbstkorrektur:
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-1. **BRAUCHE**  2. **KOSTET**  3. **NEHME**  4. **HABEN**  5. **NICHT**  6. **EINE**  7. **DEN**  8. **IST**  9. **MACHT**  10. **BITTE**
+1. **BRAUCHE** (auch richtig: **ESSE**)  2. **KOSTET**  3. **NEHME**  4. **HABEN**  5. **NICHT**  6. **EINE**  7. **DEN**  8. **IST**  9. **MACHT**  10. **BITTE**
 
 ## Übung C4a — Lesen Text 1 — Frühstück in Deutschland
 
