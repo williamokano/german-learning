@@ -86,7 +86,7 @@ exercises:
       abgedruckt zu werden? {4} ja, bis wann müsste ich ihn einsenden? Bitte rufen Sie mich
       {5}, meine Nummer ist null eins sieben drei, zweiundzwanzig achtundvierzig {6}.
       Vielen Dank und auf {7}.
-    bank: [Einerseits, andererseits, Meiner, Falls, zurück, neunzehn, Wiedersehen, Allerdings, Trotzdem, Deiner]
+    bank: [Einerseits, andererseits, Meiner, Falls, zurück, neunzehn, Wiederhören, Allerdings, Trotzdem, Deiner]
     answers:
       "1": Einerseits
       "2": andererseits
@@ -94,7 +94,7 @@ exercises:
       "4": Falls
       "5": zurück
       "6": neunzehn
-      "7": Wiedersehen
+      "7": Wiederhören
 
   - id: H4
     block: H
@@ -598,7 +598,7 @@ exercises:
       {1}, dass Homeoffice mehr Vor- als Nachteile hat. {2} spricht vor allem die messbare
       Zeitersparnis. {3} dient eine Studie der TU Berlin aus 2024. Allerdings gibt es auch
       Gegenargumente: So leidet die Teamkommunikation. {4}, dass regelmäßige Teamtage diese
-      Lücke schließen. {5} das Homeoffice praktisch ist, {6} es nicht den persönlichen
+      Lücke schließen. {5} ist das Homeoffice praktisch, {6} es ersetzt nicht den persönlichen
       Kontakt. {7} lässt sich sagen, dass das Homeoffice — {8} klare Regeln bestehen —
       eine sinnvolle Ergänzung zum Büroalltag ist.
     bank: [Ich bin der Ansicht, Dafür, Als Beleg, Diesem Argument ist entgegenzuhalten, Zwar, aber, Zusammenfassend, sofern, Einerseits, Meines Erachtens]
@@ -767,9 +767,9 @@ exercises:
       Aus einem Leserbrief an die Redaktion: „Ich {1} der Ansicht, dass die autofreie
       Innenstadt mehr Vorteile als Nachteile hat. Dafür {2} vor allem die messbar bessere
       Luftqualität. Dagegen {3}, dass kleine Geschäfte zunächst Umsatzeinbußen befürchten.
-      {4} dient eine Studie aus Wien, wo die Umsätze nach der Umstellung gestiegen sind.
+      {4} Beleg dient eine Studie aus Wien, wo die Umsätze nach der Umstellung gestiegen sind.
       Diesem Argument {5} entgegenzuhalten, dass die Erfahrungen aus Wien das Gegenteil
-      der Befürchtungen zeigen. {6} die Erfahrungen gemischt sind, {7} überwiegen die
+      der Befürchtungen zeigen. {6} sind die Erfahrungen gemischt, {7} überwiegen die
       positiven Berichte. {8} die Redaktion solche Beispiele abdruckt, {9} sich die
       Debatte versachlichen. {10} lässt sich sagen, dass die Vorteile überwiegen."
     bank: [BIN, SPRICHT, SPRICHT, ALS, IST, ZWAR, DENNOCH, SOFERN, LÄSST, ZUSAMMENFASSEND, MEINUNG, NACHDEM, EINANDER, SONDERN, WEDER]

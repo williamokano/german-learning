@@ -44,7 +44,7 @@ Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel.
 > (5) ______, meine Nummer ist null eins sieben drei, zweiundzwanzig achtundvierzig (6) ______.
 > Vielen Dank und auf (7) ______.
 
-> (Einerseits · andererseits · Meiner · Falls · zurück · neunzehn · Wiedersehen · Allerdings · Trotzdem · Deiner)
+> (Einerseits · andererseits · Meiner · Falls · zurück · neunzehn · Wiederhören · Allerdings · Trotzdem · Deiner)
 
 ## Übung H4 — Kurze Ansage: Nachricht auf dem Anrufbeantworter einer Zeitung
 
@@ -285,7 +285,7 @@ Füll die 8 Lücken mit Bausteinen aus dem Kasten. Zwei Wörter sind zu viel.
 > (1) ______, dass Homeoffice mehr Vor- als Nachteile hat. (2) ______ spricht vor allem die messbare
 > Zeitersparnis. (3) ______ dient eine Studie der TU Berlin aus 2024. Allerdings gibt es auch
 > Gegenargumente: So leidet die Teamkommunikation. (4) ______, dass regelmäßige Teamtage diese
-> Lücke schließen. (5) ______ das Homeoffice praktisch ist, (6) ______ es nicht den persönlichen
+> Lücke schließen. (5) ______ ist das Homeoffice praktisch, (6) ______ es ersetzt nicht den persönlichen
 > Kontakt. (7) ______ lässt sich sagen, dass das Homeoffice — (8) ______ klare Regeln bestehen —
 > eine sinnvolle Ergänzung zum Büroalltag ist.
 
@@ -375,9 +375,9 @@ Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Je
 > Aus einem Leserbrief an die Redaktion: „Ich (1) ______ der Ansicht, dass die autofreie
 > Innenstadt mehr Vorteile als Nachteile hat. Dafür (2) ______ vor allem die messbar bessere
 > Luftqualität. Dagegen (3) ______, dass kleine Geschäfte zunächst Umsatzeinbußen befürchten.
-> (4) ______ dient eine Studie aus Wien, wo die Umsätze nach der Umstellung gestiegen sind.
+> (4) ______ Beleg dient eine Studie aus Wien, wo die Umsätze nach der Umstellung gestiegen sind.
 > Diesem Argument (5) ______ entgegenzuhalten, dass die Erfahrungen aus Wien das Gegenteil
-> der Befürchtungen zeigen. (6) ______ die Erfahrungen gemischt sind, (7) ______ überwiegen die
+> der Befürchtungen zeigen. (6) ______ sind die Erfahrungen gemischt, (7) ______ überwiegen die
 > positiven Berichte. (8) ______ die Redaktion solche Beispiele abdruckt, (9) ______ sich die
 > Debatte versachlichen. (10) ______ lässt sich sagen, dass die Vorteile überwiegen."
 

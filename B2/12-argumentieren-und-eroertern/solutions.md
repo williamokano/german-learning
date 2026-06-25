@@ -21,7 +21,7 @@
 
 ## Übung H3 — Hörtext-Lückentext: Anruf bei der Redaktion
 
-1. **Einerseits**  2. **andererseits**  3. **Meiner**  4. **Falls**  5. **zurück**  6. **neunzehn**  7. **Wiedersehen**
+1. **Einerseits**  2. **andererseits**  3. **Meiner**  4. **Falls**  5. **zurück**  6. **neunzehn**  7. **Wiederhören**
 
 ## Übung H4 — Kurze Ansage: Nachricht auf dem Anrufbeantworter einer Zeitung
 
