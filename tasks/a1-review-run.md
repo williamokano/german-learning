@@ -1,6 +1,6 @@
 # A1 Review Run — Sequential, one lesson at a time
 
-Re-review all 14 A1 lessons via the `review-lesson` skill (some A1 lessons were
+Re-review all 14 A1 lessons via the `review-exercises` skill (some A1 lessons were
 only touched during the P5 migration and have never been deeply reviewed).
 One lesson → fix → regenerate → validate → commit → push → next.
 
@@ -20,7 +20,7 @@ After each lesson, if I learn anything new, update the skill and write a
 **Conventions**
 - Never co-author commits.
 - One lesson per commit; commit message `Review: <lesson-dir> — <summary>`.
-- Skill updates: edit `.claude/skills/review-lesson/SKILL.md` AND
+- Skill updates: edit `.claude/skills/review-exercises/SKILL.md` AND
   write `feedback_*.md` to memory.
 
 ## Queue
