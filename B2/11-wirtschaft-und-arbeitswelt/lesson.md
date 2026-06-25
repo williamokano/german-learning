@@ -350,7 +350,7 @@ Am Abend saß Lukas mit Mia in der Kantine. „Und?", fragte sie. „Gut gelaufe
 | können | **könne** | Das Unternehmen **könne** die Kosten senken. |
 | müssen | **müsse** | Die Abteilung **müsse** den Plan überarbeiten. |
 | wollen | **wolle** | Die Geschäftsführung **wolle** expandieren. |
-| sollen | **solle** | Die Mitarbeiter **sollen** Überstunden leisten. |
+| sollen | **solle** | Der Betriebsrat **solle** Überstunden genehmigen. |
 | einverstanden sein | **sei einverstanden** | Die Bank **sei einverstanden** mit dem Kredit. |
 | beschließen | **beschließe** | Der Aufsichtsrat **beschließe** die Erweiterung. |
 

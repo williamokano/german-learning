@@ -79,7 +79,7 @@
 
 ## Übung A10 — Konjunktiv I im Geschäftsbericht
 
-1. **habe**  2. **sei**  3. **werde**  4. **müsse**  5. **wolle**  6. **sollen**
+1. **habe**  2. **sei**  3. **werde**  4. **müsse**  5. **wolle**  6. **sollten**
 
 ## Übung A11 — Satzbau: Geschäftsbericht
 
@@ -116,7 +116,7 @@ Modellantwort:
 > 3. Der Lieferant werde die Frist verkürzen.
 > 4. Die Abteilung müsse die Kosten senken.
 > 5. Die Geschäftsführung wolle expandieren.
-> 6. Die Mitarbeiter sollen die neuen Regeln beachten.
+> 6. Die Mitarbeiter sollten die neuen Regeln beachten.
 
 ## Übung B3 — Finde den Fehler
 
@@ -202,7 +202,7 @@ Selbstkorrektur:
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-1. **UMSATZ**  2. **GEWINN**  3. **KOSTEN**  4. **INVESTIERT**  5. **AMORTISIEREN**  6. **NACHTFRAGE**  7. **KONKURRENZ**  8. **ANGEBOT**  9. **WOLLE**  10. **BETRACHT**
+1. **UMSATZ**  2. **GEWINN**  3. **KOSTEN**  4. **INVESTIERT**  5. **AMORTISIEREN**  6. **NACHFRAGE**  7. **KONKURRENZ**  8. **ANGEBOT**  9. **WOLLE**  10. **BETRACHT**
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Wirtschaftsnachrichten verstehen)
 
@@ -259,7 +259,7 @@ Selbstkorrektur:
 3. ~~liefern~~ — liefern ist eine Geschäftshandlung; die anderen vier beschreiben Entwicklung.
 4. ~~Mahnung~~ — Mahnung ist eine schriftliche Aufforderung; Rabatt, Skonto und Bedingung sind Vertragsklauseln.
 5. ~~Markt~~ — Markt ist ein Ort/Begriff; Kunde, Lieferant und Mitarbeiter sind handelnde Personen.
-6. ~~Imperativ~~ — Indikativ ist die Grundform (Wirklichkeitsform); die anderen drei sind besondere Modi (Wiedergabe, Hypothese, Aufforderung).
+6. ~~Indikativ~~ — Indikativ ist die Grundform (Wirklichkeitsform); die anderen drei sind besondere Modi (Wiedergabe, Hypothese, Aufforderung).
 
 ## Übung D3 — Rückblick: B2/08, B2/04, B2/01, B1/11
 
