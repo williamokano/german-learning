@@ -218,7 +218,7 @@ Each sentence has exactly one mistake. The wrong/missing word is shown as a gap 
 
 1. Ich muss heute ______. (arbeite → Infinitiv!)
 2. ______ du Arzt werden? (Will → du-Form)
-3. Du darfst hier ______ rauchen. (zweimal „du" — einmal reicht)
+3. Du darfst hier ______ rauchen. (Prohibition → nicht)
 4. Er muss das Formular nicht ______. (Infinitiv fehlt)
 5. Ich bin ______ Lehrer. (kein Artikel nach sein!)
 6. Wir wollen den Kurs ______. (anmelde → Infinitiv)
@@ -351,7 +351,7 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Drei Berufe
 
-Text: Lies „Drei Berufe" in lesson.md, section 5.
+Text: Lies „Drei Berufe" in lesson.md, section 7.
 
 Richtig (R) oder falsch (F)?
 

@@ -432,7 +432,7 @@ exercises:
     text: |
       1. Ich muss heute {1}. (arbeite → Infinitiv!)
       2. {2} du Arzt werden? (Will → du-Form)
-      3. Du darfst hier {3} rauchen. (zweimal „du" — einmal reicht)
+      3. Du darfst hier {3} rauchen. (Prohibition → nicht)
       4. Er muss das Formular nicht {4}. (Infinitiv fehlt)
       5. Ich bin {5} Lehrer. (kein Artikel nach sein!)
       6. Wir wollen den Kurs {6}. (anmelde → Infinitiv)
@@ -724,7 +724,7 @@ exercises:
     type: true-false
     title: "Lesen Text 1 — Drei Berufe"
     instructions: |
-      Text: Lies „Drei Berufe" in lesson.md, section 5.
+      Text: Lies „Drei Berufe" in lesson.md, section 7.
 
       Richtig (R) oder falsch (F)?
     items:

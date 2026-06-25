@@ -193,7 +193,7 @@ Bruno arbeitet bei einer Firma in Berlin. Er ist Programmierer. Er arbeitet jede
 
 Am Montag sucht er im Internet und findet zwei Kurse: einen Datenkurs und einen Kurs für Spanisch. Der Datenkurs kostet zweihundert Euro. Der Spanischkurs kostet hundert Euro. Bruno will Spanisch lernen — seine Familie kommt aus Brasilien (that's in South America), und in Südamerika sprechen viele Leute Spanisch. Aber zuerst muss er seinen Chef fragen.
 
-Der Kurs ist immer freitags von vier bis sechs. Bruno muss also freitags früher aufhören. Er geht zum Chef, Herrn Mayer, und fragt: „Darf ich freitags früher aufhören? Ich will einen Kurs machen." Herr Mayer liest die E-Mail und sagt: „Natürlich! Lernen ist immer gut. Aber Sie müssen Ihre Arbeit vorher fertig machen." Das ist kein Problem für Bruno — er arbeitet immer schnell und gut.
+Der Kurs ist immer freitags von vier bis sechs. Bruno muss also freitags früher aufhören. Er geht zum Chef, Herrn Mayer, und fragt: „Darf ich freitags früher aufhören? Ich will einen Kurs machen." Herr Mayer überlegt kurz und sagt: „Natürlich! Lernen ist immer gut. Aber Sie müssen Ihre Arbeit vorher fertig machen." Das ist kein Problem für Bruno — er arbeitet immer schnell und gut.
 
 Bruno ist sehr glücklich. Er meldet sich sofort für den Kurs an. Der Kurs beginnt am nächsten Freitag, um vier Uhr. Bruno sagt Anna: „Ich mache jetzt auch einen Kurs!" Anna sagt: „Super! Ich will auch Spanisch lernen. Darf ich auch mitmachen?" Bruno lacht. „Natürlich darfst du! Der Kurs ist offen für alle."
 
@@ -355,7 +355,7 @@ as one word (it re-combines there):
 > Examples:
 >
 > - Modal: *Ich **muss** heute **arbeiten**.* — `muss` at position 2, `arbeiten` at the end.
-> - Separable: *Sie **fängt** um halb acht **an**.* — stem `fängt` at position 2, prefix `an` at the end.
+> - Separable: *Anna **fängt** um halb acht **an**.* — stem `fängt` at position 2, prefix `an` at the end.
 >
 > ▶ The two parts of the verb always form a bracket around the middle of the sentence — the main verb element is always at position 2, and its partner (infinitive or prefix) is always at the very end.
 
