@@ -180,7 +180,7 @@ Selbstkorrektur:
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-1. **UM**  2. **IST**  3. **BESCHLOSSEN**  4. **ERHALTEN**  5. **DAMIT**  6. **ÜBERZEUGT**  7. **HAT**  8. **VERSUCHT**  9. **BITTET**  10. **DAMIT**
+1. **UM**  2. **IST**  3. **BESCHLOSSEN**  4. **ERHALTEN**  5. **DAMIT**  6. **SEIN**  7. **HAT**  8. **VERSUCHT**  9. **BITTET**  10. **DAMIT**
 
 ## Übung C4a — Leseverstehen: Pavels Bewerbungsschreiben (Richtig / Falsch)
 
