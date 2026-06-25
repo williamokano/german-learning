@@ -142,7 +142,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Die richtige Vorsilbe"
-    instructions: "Setze die passende Vorsilbe ein (ver-, zer-, ent-, miss-, be-, er-, emp-). Achtung: 8 Lücken, 9 Kandidaten — eine Vorsilbe bleibt übrig. 8 Items."
+    instructions: "Setze die passende Vorsilbe ein (ver-, zer-, ent-, miss-, be-, er-, emp-). Manche Vorsilbe brauchst du mehrmals, ver- gar nicht. 8 Items."
     text: |
       1. {1}stehen (sich entwickeln)
       2. {2}brechen (in Stücke brechen)
@@ -249,13 +249,13 @@ exercises:
           - { key: c, text: "Person-Nomen" }
         answer: c
         why: "*-er* macht aus einem Verb ein Nomen für die Person: der Fahrer, der Leser."
-      - q: "Adjektiv + -isch → …"
+      - q: "Nomen + -isch → …"
         options:
           - { key: a, text: "Nomen" }
-          - { key: b, text: "Adjektiv (oft negativ)" }
+          - { key: b, text: "Adjektiv (oft wertend)" }
           - { key: c, text: "Verb" }
         answer: b
-        why: "*-isch* macht aus einem Nomen oft ein Adjektiv mit wertender Bedeutung: kindisch, egoistisch, touristisch."
+        why: "*-isch* macht aus einem Nomen oft ein Adjektiv mit wertender Bedeutung: Kind → kindisch, Egoist → egoistisch, Tourist → touristisch."
 
   - id: A5
     block: A
@@ -276,7 +276,7 @@ exercises:
       "3": Entscheidungs
       "4": verträglichkeit
       "5": Bundesumwelt
-      "6": wissent
+      "6": wissenschaft
 
   - id: A6
     block: A
@@ -309,22 +309,22 @@ exercises:
     block: A
     type: gap-bank
     title: "Fugenelement oder nicht?"
-    instructions: "Füll die Lücken mit dem passenden Fugenelement (-s-, -n-, -en-, -er-). Achtung: nicht überall ist ein Fugenelement nötig! 6 Items."
+    instructions: "Füll die Lücken mit dem passenden Fugenelement (-s-, -es-, -n-, -en-, -er-). Achtung: nicht überall ist ein Fugenelement nötig — dann wähle „—\". 6 Items."
     text: |
       1. Verkehr{1}wende
       2. Klima{2}schutz
       3. Hochgeschwindigkeit{3}zug
       4. Liebe{4}brief
-      5. Bundes{5}umweltministerium
+      5. Kind{5}garten
       6. Bundeskanzler{6}amt
-    bank: ["-s-", "-n-", "-en-", "-er-", "—", "—"]
+    bank: ["-s-", "-es-", "-n-", "-en-", "-er-", "—"]
     answers:
       "1": "-s-"
-      "2": "-s-"
+      "2": "—"
       "3": "-s-"
       "4": "-s-"
-      "5": "-s-"
-      "6": "-s-"
+      "5": "-er-"
+      "6": "—"
 
   - id: A8
     block: A
@@ -403,7 +403,7 @@ exercises:
       Stamm: fahr-
       4. Nomen ohne Suffix: {4}
       5. Person mit -er: {5}
-      6. Nomen mit Erfahr- (Kompositum): {6}
+      6. Nomen mit Vorsilbe er- und Suffix -ung: {6}
     answers:
       "1": Entscheidung
       "2": Entscheiderin
@@ -458,7 +458,7 @@ exercises:
     block: B
     type: free-write
     title: "Finde den Fehler: Wortbildung"
-    prompt: "Jeder Satz hat genau einen Fehler in der Wortbildung (falsche Vorsilbe, falsches Suffix oder falsches Kompositum). Finde ihn und schreib den Satz korrekt."
+    prompt: "Die meisten Sätze haben einen Fehler in der Wortbildung (falsche Vorsilbe, falsches Suffix oder falsches Kompositum) — zwei Sätze sind aber schon korrekt. Finde die Fehler, schreib die Sätze korrekt und markiere die zwei korrekten Sätze."
     stimulus: |
       1. Wir haben das Problem zerstört.
       2. Sie hat eine Entscheide getroffen.
@@ -719,8 +719,8 @@ exercises:
           - { key: a, text: "-s-" }
           - { key: b, text: "-n-" }
           - { key: c, text: "kein Fugenelement" }
-        answer: a
-        why: "Klimaschutz hat das Fugenelement -s-: Klima + s + Schutz."
+        answer: c
+        why: "Klimaschutz = Klima + Schutz — die beiden Teile werden ohne Fugenelement direkt verbunden."
 
   - id: C3
     block: C
@@ -730,25 +730,26 @@ exercises:
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
     text: |
-      Aus einem Zeitungsartikel: Die (1) {1} der Energiewende wird in Berlin
-      seit Monaten (2) {2}. Viele (3) {3} — also Leute, die Entscheidungen
-      treffen — haben das (4) {4} inzwischen (5) {5}. Eine zentrale Frage ist
-      die (6) {6} von Wohnraum: Wenn Mieten weiter steigen, ist bezahlbares
-      Wohnen bald nicht mehr (7) {7}. Auch das (8) {8} in die politischen
-      Versprechen wächst. Die Ministerin will jetzt eine (9) {9} ergreifen
-      und die Lage nicht weiter (10) {10} lassen.
-    bank: [BEZAHLBARKEIT, ZERSTÖRT, ZERSTÖREN, ENTSCHEIDUNGSTRÄGER, MISVERSTÄNDNIS, MISSTRAUEN, BEDEUTUNG, GESPRÄCH, BEDEUTSAM, LÖSUNG, BESCHAFFT, FALSCH, ENTSCHEIDUNG]
+      Aus einem Zeitungsartikel: Die (1) {1} ist in Berlin seit Monaten das
+      wichtigste (2) {2}. Viele (3) {3} — also Leute, die Entscheidungen treffen
+      — haben die (4) {4} des Themas inzwischen erkannt. Eine zentrale Frage ist
+      die (5) {5} von Wohnraum: Wenn die Mieten weiter steigen, ist bezahlbares
+      Wohnen bald nicht mehr (6) {6}. Auch das (7) {7} in die politischen
+      Versprechen wächst, und manches (8) {8} verschärft die Lage. Die Ministerin
+      will jetzt eine klare (9) {9} treffen und eine tragfähige (10) {10}
+      vorlegen, bevor das Vertrauen endgültig verloren ist.
+    bank: [ENERGIEWENDE, GESPRÄCH, ENTSCHEIDUNGSTRÄGER, BEDEUTUNG, BEZAHLBARKEIT, MÖGLICH, MISSTRAUEN, MISSVERSTÄNDNIS, ENTSCHEIDUNG, LÖSUNG, ZERSTÖRUNG, BEDEUTSAM, VERSTÄNDNIS, ERFAHRUNG, FEHLENTSCHEIDUNG]
     answers:
-      "1": BEDEUTUNG
-      "2": ZERSTÖRT
+      "1": ENERGIEWENDE
+      "2": GESPRÄCH
       "3": ENTSCHEIDUNGSTRÄGER
-      "4": MISVERSTÄNDNIS
-      "5": BEDEUTSAM
-      "6": BEZAHLBARKEIT
-      "7": BESCHAFFT
-      "8": MISSTRAUEN
-      "9": LÖSUNG
-      "10": ZERSTÖREN
+      "4": BEDEUTUNG
+      "5": BEZAHLBARKEIT
+      "6": MÖGLICH
+      "7": MISSTRAUEN
+      "8": MISSVERSTÄNDNIS
+      "9": ENTSCHEIDUNG
+      "10": LÖSUNG
 
   - id: C4a
     block: C
