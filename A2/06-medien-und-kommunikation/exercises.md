@@ -230,12 +230,12 @@ Each sentence has exactly one mistake. Write the correct form (verb/preposition/
 2. Bruno interessiert sich ______ Sport im Fernsehen. (auf → ?)
 3. Wir freuen uns ______ das Konzert morgen. (you haven't been yet — über → ?)
 4. Anna ______ sich über die Werbung. (ärger → ?)
-5. Er antwortet ______ meine E-Mail nicht. (correct word order)
+5. Er antwortet ______ meine E-Mail. (correct word order)
 6. Ich schreibe an meinen Freund ______ Brief. (einem → ?)
 7. Sie fragt nach ______ Adresse. (die → ?)
-8. Ich denke oft an meinen Bruder ______. (ihm → ?)
+8. Ich denke oft an meinen Bruder ______. (ihm → weglassen)
 9. Wir sprechen ______ das Problem. (für → ?)
-10. Er freut sich ______ sein nächste Urlaub. (hasn't happened yet — über → ?)
+10. Er freut sich ______ seinen nächsten Urlaub. (hasn't happened yet — über → ?)
 
 ## Übung B3 — Frage und Antwort verbinden
 
@@ -355,9 +355,9 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Ich warte schon eine Woche (1) ____ deine Antwort!  a) für  b) auf  c) über
 2. Ich interessiere mich gerade sehr (2) ____ einen neuen Podcast.  a) auf  b) für  c) an
-3. Letzte Woche habe ich (3) ____ dir geschrieben.  a) an  b) über  c) für
+3. Letzte Woche habe ich (3) ____ dich geschrieben.  a) an  b) über  c) für
 4. …aber ich habe nichts (4) ____.  a) bekommen  b) bekommt  c) bekam
-5. Ärgere dich (5) ____ meine vielen Nachrichten.  a) nicht  b) kein  c) nichts
+5. Ärgere dich (5) ____ über meine vielen Nachrichten.  a) nicht  b) kein  c) nichts
 6. Ich freue mich jedenfalls (6) ____ unser Treffen nächste Woche.  a) über  b) an  c) auf
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
@@ -377,7 +377,7 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext)
 
-Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?
+Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?
 
 1. Anna interessiert sich für deutsche Serien. ( )
 2. Bruno ärgert sich über das schlechte Internet in seiner Wohnung. ( )

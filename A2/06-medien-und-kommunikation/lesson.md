@@ -66,7 +66,7 @@ buildsOn:
 > **Frau Weber:** Es geht um die neuen Kommunikationsregeln im Büro. Wir sprechen in unserem Team viel über das Thema digitale Kommunikation.  
 > **Herr Steinmeyer:** Ah, sehr wichtig! Ich interessiere mich sehr dafür. Wir sollten uns darüber unterhalten.  
 > **Frau Weber:** Genau. Ich freue mich auf das Gespräch. Soll ich nach einem freien Termin fragen?  
-> **Herr Steinmeyer:** Gerne. Ich denke oft an das Projekt — ein Treffen wäre ideal. Ich antworte auf Ihre E-Mail und schlage einen Termin vor.  
+> **Herr Steinmeyer:** Gerne. Ich denke oft an das Projekt — ein Treffen ist ideal. Ich antworte auf Ihre E-Mail und schlage einen Termin vor.  
 > **Frau Weber:** Wunderbar. Vielen Dank, Herr Steinmeyer!  
 
 ---
