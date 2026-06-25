@@ -198,7 +198,7 @@ Selbstkorrektur:
 
 Modellantwort:
 
-> Letzten Samstag habe ich einen tollen Tag erlebt. Zuerst musste ich früh aufstehen — mein Freund hatte einen Ausflug geplant. Dann sind wir mit dem Zug in die Innenstadt gefahren und haben ein Stadtmuseum besucht. Es war wirklich interessant! Danach haben wir in einem kleinen Café Mittagessen gegessen und alles fotografiert. Schließlich haben wir noch einen langen Spaziergang im Park gemacht. Am Ende sind wir müde, aber sehr glücklich nach Hause gegangen. Ich wollte schon lange so einen Tag haben!
+> Letzten Samstag habe ich einen tollen Tag erlebt. Zuerst musste ich früh aufstehen — mein Freund hatte einen Ausflug geplant. Dann sind wir mit dem Zug in die Innenstadt gefahren und haben ein Stadtmuseum besucht. Es war wirklich interessant! Danach haben wir in einem kleinen Café Mittag gegessen und alles fotografiert. Schließlich haben wir noch einen langen Spaziergang im Park gemacht. Am Ende sind wir müde, aber sehr glücklich nach Hause gegangen. Ich wollte schon lange so einen Tag haben!
 
 Selbstkorrektur:
 - [ ] Every time connector (zuerst, dann, etc.) is followed immediately by the verb in position 2, then the subject — not *Zuerst ich habe …*
@@ -215,7 +215,7 @@ Selbstkorrektur:
 
 ## Übung D2 — Odd one out
 
-1. ~~trotzdem~~ — not a time sequencing connector — trotzdem = nevertheless (adversative connector introduced in A2/03+)
+1. ~~trotzdem~~ — not a time-sequencing connector; trotzdem means 'nevertheless'
 2. ~~gefahren~~ — the only Partizip II with `ge-`; the others are *-ieren* verbs with no `ge-` prefix
 3. ~~hatte~~ — Präteritum of *haben*, not a modal verb; the others are all Präteritum modal forms
 4. ~~gereist~~ — the only one *without* a -iert ending; the others are all *-ieren* verbs
