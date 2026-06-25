@@ -15,7 +15,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 1. Bruno fühlt sich diese Woche nicht gut. ( )
 2. Anna ärgert sich über ihren Yogakurs. ( )
 3. Anna ernährt sich ausgewogen und isst wenig Zucker. ( )
-4. Bruno hat sich entschieden, morgen früh joggen zu gehen. ( )
+4. Bruno hat vor, morgen früh joggen zu gehen. ( )
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 

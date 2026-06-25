@@ -21,7 +21,7 @@ exercises:
       - { q: "Bruno fühlt sich diese Woche nicht gut.", answer: true, why: 'Bruno sagt: „Ich fühle mich nicht so toll."' }
       - { q: "Anna ärgert sich über ihren Yogakurs.", answer: false, why: "Anna freut sich über ihren Yogakurs; sie ärgert sich nicht darüber." }
       - { q: "Anna ernährt sich ausgewogen und isst wenig Zucker.", answer: true, why: "Anna sagt: viel Gemüse, wenig Zucker." }
-      - { q: "Bruno hat sich entschieden, morgen früh joggen zu gehen.", answer: true, why: "Bruno sagt: Ich ziehe mich morgen früh für einen Jogginglauf an." }
+      - { q: "Bruno hat vor, morgen früh joggen zu gehen.", answer: true, why: "Bruno sagt: Ich ziehe mich morgen früh zum Joggen an." }
 
   - id: H1b
     block: H
@@ -800,8 +800,8 @@ exercises:
       Hallo Lena! Ich versuche, jeden Tag auf meine Gesundheit zu achten.
       Morgens wasche ich mich kalt und ziehe mich dann für einen kurzen
       Spaziergang an. Ich fühle mich danach viel wacher. Ich ernähre
-      mich relativ ausgewogen, obwohl ich mich manchmal über zu viel
-      Zucker ärgere. Am Abend entspanne ich mich gern mit einem Buch.
+      mich relativ ausgewogen, aber ich ärgere mich manchmal über zu viel
+      Zucker. Am Abend entspanne ich mich gern mit einem Buch.
       Ich wünsche mir, dass ich genug Zeit zum Ausruhen habe — das
       ist nicht immer einfach. Ich kann mir ein Leben ohne Sport
       kaum vorstellen, weil ich mich ohne Bewegung nicht wohl fühle.

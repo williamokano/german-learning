@@ -9,7 +9,7 @@
 1. **R** — Bruno sagt: „Ich fühle mich nicht so toll."
 2. **F** — Anna freut sich über ihren Yogakurs; sie ärgert sich nicht darüber.
 3. **R** — Anna sagt: viel Gemüse, wenig Zucker.
-4. **R** — Bruno sagt: Ich ziehe mich morgen früh für einen Jogginglauf an.
+4. **R** — Bruno sagt: Ich ziehe mich morgen früh zum Joggen an.
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
@@ -226,8 +226,8 @@ Modellantwort:
 > Hallo Lena! Ich versuche, jeden Tag auf meine Gesundheit zu achten.
 > Morgens wasche ich mich kalt und ziehe mich dann für einen kurzen
 > Spaziergang an. Ich fühle mich danach viel wacher. Ich ernähre
-> mich relativ ausgewogen, obwohl ich mich manchmal über zu viel
-> Zucker ärgere. Am Abend entspanne ich mich gern mit einem Buch.
+> mich relativ ausgewogen, aber ich ärgere mich manchmal über zu viel
+> Zucker. Am Abend entspanne ich mich gern mit einem Buch.
 > Ich wünsche mir, dass ich genug Zeit zum Ausruhen habe — das
 > ist nicht immer einfach. Ich kann mir ein Leben ohne Sport
 > kaum vorstellen, weil ich mich ohne Bewegung nicht wohl fühle.
