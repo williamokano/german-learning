@@ -57,8 +57,8 @@ buildsOn:
 > **Bruno:** Kaltes Wasser? Das kann ich mir kaum vorstellen!  
 > **Anna:** Es klingt schlimmer als es ist. Ich wünsche mir einfach nur mehr
 > Energie — und das hilft wirklich.  
-> **Bruno:** Okay, ich probiere es. Ich ziehe mich morgen früh für einen
-> Jogginglauf an — versprochen!  
+> **Bruno:** Okay, ich probiere es. Ich ziehe mich morgen früh zum Joggen
+> an — versprochen!  
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
@@ -158,7 +158,7 @@ buildsOn:
 | das Protein, -e | protein |
 | das Wasser (no pl.) | water |
 | der Sport (no pl.) | sport, exercise |
-| das Training (no pl.) | training, workout |
+| das Training, -s | training, workout |
 | der Yogakurs, -e | yoga class |
 | das Fitnessstudio, -s | gym |
 | die Pause, -n | break |
@@ -302,15 +302,14 @@ The position of `sich` follows strict rules depending on the sentence type.
 
 **In a main clause with a pronoun subject:**
 
-`sich` comes immediately after the finite verb (position 3):
+When the pronoun subject is in position 1, `sich` comes immediately after the finite verb (position 3):
 
 | Position 1 | Position 2 (verb) | Position 3 (`sich`) | Rest |
 |---|---|---|---|
 | Ich | fühle | **mich** | nicht gut. |
 | Er | ärgert | **sich** | oft. |
-| Heute | wäsche | **ich** | **mich** | kalt. |
 
-Wait — if the subject is a pronoun and something else is in position 1, `sich` still comes right after the verb (position 3 = right after the subject inversion):
+When something else is in position 1 and the pronoun subject is inverted, `sich` follows the subject (position 4):
 
 | Position 1 | Position 2 (verb) | Position 3 (subject) | Position 4 (`sich`) |
 |---|---|---|---|
@@ -319,16 +318,17 @@ Wait — if the subject is a pronoun and something else is in position 1, `sich`
 
 **In a main clause with a noun subject:**
 
-`sich` comes after the finite verb and usually before other complements, but after a pronoun object if there is one:
+A noun subject stays in position 1, so `sich` sits right after the finite verb (position 3):
 
-| Subject (noun) | Verb | `sich` | Rest |
+| Position 1 (noun) | Position 2 (verb) | Position 3 (`sich`) | Rest |
 |---|---|---|---|
 | Anna | fühlt | **sich** | wohl. |
 | Die Kinder | waschen | **sich** | schnell. |
 
 ⚠️ **Key contrast:**
-- **Pronoun subject:** `sich` comes right after the verb → *Heute wäscht **er sich** kalt.*
-- **Noun subject:** `sich` comes right after the verb → *Anna wäscht **sich** kalt.* ← same position, but the noun subject IS position 1.
+- **Pronoun subject in position 1:** `sich` is position 3 → *Ich fühle **mich** gut.*
+- **Pronoun subject inverted:** `sich` is position 4 → *Heute wäscht **er sich** kalt.*
+- **Noun subject in position 1:** `sich` is position 3 → *Anna wäscht **sich** kalt.*
 
 **In a subordinate clause (`weil`, `dass`, `wenn`):**
 

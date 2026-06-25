@@ -57,8 +57,8 @@ buildsOn:
 > **Bruno:** Kaltes Wasser? Das kann ich mir kaum vorstellen!  
 > **Anna:** Es klingt schlimmer als es ist. Ich wünsche mir einfach nur mehr
 > Energie — und das hilft wirklich.  
-> **Bruno:** Okay, ich probiere es. Ich ziehe mich morgen früh für einen
-> Jogginglauf an — versprochen!  
+> **Bruno:** Okay, ich probiere es. Ich ziehe mich morgen früh zum Joggen
+> an — versprochen!  
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
@@ -168,7 +168,7 @@ buildsOn:
 | das Protein, -e | protein |
 | das Wasser (no pl.) | water |
 | der Sport (no pl.) | sport, exercise |
-| das Training (no pl.) | training, workout |
+| das Training, -s | training, workout |
 | der Yogakurs, -e | yoga class |
 | das Fitnessstudio, -s | gym |
 | die Pause, -n | break |

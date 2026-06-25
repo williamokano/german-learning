@@ -9,7 +9,7 @@
 1. **R** — Bruno sagt: „Ich fühle mich nicht so toll."
 2. **F** — Anna freut sich über ihren Yogakurs; sie ärgert sich nicht darüber.
 3. **R** — Anna sagt: viel Gemüse, wenig Zucker.
-4. **R** — Bruno sagt: Ich ziehe mich morgen früh für einen Jogginglauf an.
+4. **R** — Bruno sagt: Ich ziehe mich morgen früh zum Joggen an.
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
@@ -55,7 +55,7 @@
 
 ## Übung A6 — `sich waschen`, `sich anziehen`, `sich ausziehen`: Morgenroutine
 
-1. **wasche mich**  2. **Ziehst du dich**  3. **schon**  4. **zieht sich**  5. **aus**  6. **ziehen uns**  7. **an**  8. **mir**  9. **wäscht sich**  10. **die Hände nach dem Kochen**  11. **Zieht ihr euch**  12. **warm**  13. **an**  14. **zieht sich**  15. **einen Schal**  16. **an**
+1. **wasche mich**  2. **Ziehst**  3. **zieht sich**  4. **aus**  5. **ziehen**  6. **an**  7. **mir**  8. **wäscht**  9. **Zieht**  10. **an**  11. **zieht**  12. **sich**  13. **an**
 
 ## Übung A7 — Satzstellung: Position von `sich`
 
@@ -97,7 +97,7 @@ Modellantwort:
 
 ## Übung A11 — Reflexiv oder nicht? Entscheiden
 
-1. **R**  2. **N**  3. **R**  4. **N**  5. **R**  6. **R**  7. **R**  8. **N**
+1. **N**  2. **R**  3. **N**  4. **R**  5. **R**  6. **R**  7. **N**  8. **R**
 
 ---
 
@@ -109,7 +109,7 @@ Modellantwort:
 
 ## Übung B2 — Finde den Fehler
 
-1. **mich**  2. **sich**  3. **uns**  4. **sich**  5. **sich**  6. **mir**  7. **sich entfernen (weglassen)**  8. **Ruhen**  9. **sich**  10. **putzen**
+1. **mich**  2. **sich**  3. **uns**  4. **sich**  5. **sich**  6. **mir**  7. **(weglassen)**  8. **Ruhen**  9. **sich**  10. **putzen**
 
 ## Übung B3 — Frage und Antwort verbinden
 
@@ -226,8 +226,8 @@ Modellantwort:
 > Hallo Lena! Ich versuche, jeden Tag auf meine Gesundheit zu achten.
 > Morgens wasche ich mich kalt und ziehe mich dann für einen kurzen
 > Spaziergang an. Ich fühle mich danach viel wacher. Ich ernähre
-> mich relativ ausgewogen, obwohl ich mich manchmal über zu viel
-> Zucker ärgere. Am Abend entspanne ich mich gern mit einem Buch.
+> mich relativ ausgewogen, aber ich ärgere mich manchmal über zu viel
+> Zucker. Am Abend entspanne ich mich gern mit einem Buch.
 > Ich wünsche mir, dass ich genug Zeit zum Ausruhen habe — das
 > ist nicht immer einfach. Ich kann mir ein Leben ohne Sport
 > kaum vorstellen, weil ich mich ohne Bewegung nicht wohl fühle.
