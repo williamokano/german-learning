@@ -241,7 +241,7 @@ Rewrite each sentence using the connector given in brackets. Keep the meaning as
 2. Sowohl Mia als auch Lukas wohnen in Kreuzberg.
    → (2) ______. (nicht nur … sondern auch — start with Nicht nur Mia …)
 3. Das Angebot ist zwar billig, aber die Qualität ist schlecht.
-   → Das Angebot ist billig. (3) ______ die Qualität ist schlecht. (jedoch — use jedoch as a standalone connector)
+   → Das Angebot ist billig. (3) ______ ist die Qualität schlecht. (jedoch — use jedoch as a standalone connector)
 4. Entweder du kommst mit, oder ich gehe allein.
    → Wenn du (4) ______, gehe ich allein. (wenn-clause — different structure, same logic)
 5. Er hat weder Zeit noch Lust.
@@ -287,8 +287,8 @@ Fill in the correct connector words to complete this formal position statement. 
 Die Frage, ob Großstädte lebenswert sind, lässt sich (1) ______ eindeutig mit
 Ja (2) ______ mit Nein beantworten — die Realität ist komplexer. Großstädte bieten
 (3) ______ wirtschaftliche Chancen (4) ______ kulturelle Vielfalt. Andererseits sind
-die Lebenshaltungskosten (5) ______ gestiegen, (6) ______ viele Menschen sich das
-Stadtleben schlicht nicht mehr leisten können. Die Lösung liegt (7) ______ in
+die Lebenshaltungskosten (5) ______ gestiegen, (6) ______ viele Menschen können sich das
+Stadtleben schlicht nicht mehr leisten. Die Lösung liegt (7) ______ in
 staatlichen Eingriffen (8) ______ in gemeinschaftlichen Initiativen — wahrscheinlich
 in beidem.
 
@@ -334,7 +334,7 @@ Viele Menschen fragen sich, (1) ______ Berlin wirklich so besonders ist. Lukas
 sieht (2) ______ die Vorzüge (3) ______ die Schattenseiten der Hauptstadt. Berlin
 bietet (4) ______ nur exzellente Jobmöglichkeiten, (5) ______ auch ein einzigartiges
 kulturelles Leben. Die Mieten sind (6) ______ gestiegen, (7) ______ die Qualität vieler
-Wohnungen zu wünschen übrig lässt. Mia findet, dass Entweder-oder-Denken
+Wohnungen lässt zu wünschen übrig. Mia findet, dass Entweder-oder-Denken
 nicht hilft: Man kann Berlin (8) ______ lieben (9) ______ kritisch sehen — beides
 gleichzeitig. Yusuf sagt: Weder Berlin (10) ______ Kairo ist perfekt.
 
@@ -356,8 +356,8 @@ Fill the 10 gaps. Five words are not needed.
 > Die Frage der Lebensqualität lässt sich (1) ______ mit Ja (2) ______ mit Nein
 > beantworten — die Realität ist nuanciert. Großstädte bieten (3) ______
 > wirtschaftliche Chancen (4) ______ kulturelle Vielfalt. Die Lebenshaltungskosten
-> sind (5) ______ gestiegen, (6) ______ viele Stadtbewohner sich das Leben kaum noch
-> leisten können. (7) ______ staatliche Maßnahmen (8) ______ private Initiativen allein
+> sind (5) ______ gestiegen, (6) ______ viele Stadtbewohner können sich das Leben kaum
+> noch leisten. (7) ______ staatliche Maßnahmen (8) ______ private Initiativen allein
 > können das Problem lösen — wir brauchen beides. Eine kluge Stadtpolitik
 > fördert (9) ______ die soziale Gerechtigkeit (10) ______ die wirtschaftliche
 > Entwicklung.
@@ -419,12 +419,12 @@ Fill in the correct word or structure. Items 12–15 review earlier lessons. 15 
 7. Nicht nur (9) ______ er Arabisch, sondern er spricht auch Deutsch. (inversion: spricht)
 8. Sowohl die Qualität (10) ______ der Preis sind entscheidend. (als auch)
 9. Weder hat er angerufen, (11) ______ hat er geschrieben. (noch)
-10. Sie liebt Berlin (12) ______ sie kritisiert es. (sowohl … als auch: fill in sowohl before Berlins)
-11. Das ist (13) ______ eine wirtschaftliche, sondern auch eine soziale Frage. (nicht nur)
-12. (B1/02) Das Wetter war schlecht, (14) ______ sind wir wandern gegangen. (trotzdem — L2)
-13. (B1/06) Ich lerne Deutsch, um in Berlin (15) ______. (zu arbeiten — L6)
-14. (B1/03) Wenn ich mehr Zeit hätte, (16) ______ ich mehr reisen. (würde — L3)
-15. (B1/09) Könnten Sie mir sagen, (17) ______ der nächste Zug fährt? (wann — L9)
+10. Sie liebt (12) ______ Berlin, (13) ______ sie kritisiert es. (sowohl … als auch)
+11. Das ist (14) ______ eine wirtschaftliche, sondern auch eine soziale Frage. (nicht nur)
+12. (B1/02) Das Wetter war schlecht, (15) ______ sind wir wandern gegangen. (trotzdem — L2)
+13. (B1/06) Ich lerne Deutsch, um in Berlin (16) ______. (zu arbeiten — L6)
+14. (B1/03) Wenn ich mehr Zeit hätte, (17) ______ ich mehr reisen. (würde — L3)
+15. (B1/09) Könnten Sie mir sagen, (18) ______ der nächste Zug fährt? (wann — L9)
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
 
@@ -442,7 +442,7 @@ Circle the word or phrase that does not belong in the group. 6 groups.
 Fill in the correct form. Items 1–5 review B1/02 (Gegensätze/Konzessivität); items 6–10 review B1/03 (Konjunktiv II). 10 items.
 
 B1/02 — Gegensätze und Konzessivität (L2):
-1. Er war müde, (1) ______ er hat bis Mitternacht gearbeitet. (trotzdem)
+1. Er war müde, (1) ______ hat er bis Mitternacht gearbeitet. (trotzdem)
 2. (2) ______ das Wetter schlecht war, sind wir gewandert. (Obwohl)
 3. Das Projekt hat Erfolg. (3) ______ waren die Kosten sehr hoch. (Allerdings / Jedoch)
 4. Er versteht das Problem, (4) ______ er tut nichts dagegen. (aber)
