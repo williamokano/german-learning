@@ -195,7 +195,7 @@ Selbstkorrektur:
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-1. **WAR**  2. **HATTE**  3. **BEGONNEN**  4. **HATTE**  5. **FUHR**  6. **WAR**  7. **FAND**  8. **BIN**  9. **GEZOGEN**  10. **MUSSTE**
+1. **WAR**  2. **HATTE**  3. **BEGONNEN**  4. **HATTE**  5. **FUHR**  6. **WAR**  7. **FAND**  8. **GEZOGEN**  9. **WAR**  10. **MUSSTE**
 
 ## Übung C4a — Lesen Text 1 (Lukas' Fotoalbum)
 
@@ -255,7 +255,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-1. **war**  2. **musste**  3. **wusste**  4. **war**  5. **hatte**  6. **Zuerst**  7. **Dann**  8. **Damals**  9. **Früher**  10. **an**  11. **Ich hatte eine kleine Wohnung.**  12. **Wir zogen 2015 nach Wien.**  13. **Bevor ich nach Berlin kam, hatte ich in München studiert.**  14. **(any 3-sentence mini-story in Präteritum)**  15. **—**  16. **—**  17. **arbeitete**  18. **ihm**  19. **hätte**  20. **in die**  21. **Bevor ich nach Berlin kam, hatte ich nie Deutsch gesprochen.**
+1. **war**  2. **musste**  3. **wusste**  4. **war**  5. **hatte**  6. **Zuerst**  7. **Dann**  8. **Damals**  9. **Früher**  10. **an**  11. **Ich hatte eine kleine Wohnung.**  12. **Wir zogen 2015 nach Wien.**  13. **Bevor ich nach Berlin kam, hatte ich in München studiert.**  14. **(eigene Antwort — Satz 1)**  15. **(eigene Antwort — Satz 2)**  16. **(eigene Antwort — Satz 3)**  17. **arbeitete**  18. **ihm**  19. **hätte**  20. **in die**  21. **Bevor ich nach Berlin kam, hatte ich nie Deutsch gesprochen.**
 
 ---
 

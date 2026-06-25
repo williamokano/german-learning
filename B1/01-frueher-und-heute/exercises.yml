@@ -623,15 +623,15 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps using words from the box. Eleven words are not needed. Each word may be used once."
+    instructions: "Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once."
     text: |
       Lukas erzählt von seinem alten Fotoalbum: „Damals (1) {1} ich 26
       und (2) {2} gerade meinen ersten Job (3) {3}. Ich (4) {4} ein
       altes Auto — einen kaputten Polo. Ich (5) {5} damit jeden Tag zur
       Arbeit. Die Wohnung (6) {6} klein, aber ich (7) {7} das nicht
-      schlimm. Nachdem ich (8) {8} nach Berlin (9) {9}, (10) {10} ich
+      schlimm. Nachdem ich nach Berlin (8) {8} (9) {9}, (10) {10} ich
       drei Jahre lang jeden Tag mit dem Bus."
-    bank: [WAR, HATTE, HATTE, BEGONNEN, WAR, FUHR, WAR, FAND, BIN, GEZOGEN, MUSSTE, KONNTE, WOLLTE, WURDE, HÄTTE, WISSEN, ARBEITEN, WOHNTEN, LEBTE, GING, KAM]
+    bank: [WAR, HATTE, HATTE, BEGONNEN, WAR, FUHR, WAR, FAND, GEZOGEN, WAR, MUSSTE, KONNTE, WOLLTE, WURDE, KAM]
     answers:
       "1": WAR
       "2": HATTE
@@ -640,8 +640,8 @@ exercises:
       "5": FUHR
       "6": WAR
       "7": FAND
-      "8": BIN
-      "9": GEZOGEN
+      "8": GEZOGEN
+      "9": WAR
       "10": MUSSTE
 
   - id: C4a
@@ -898,9 +898,9 @@ exercises:
       "11": "Ich hatte eine kleine Wohnung."
       "12": "Wir zogen 2015 nach Wien."
       "13": "Bevor ich nach Berlin kam, hatte ich in München studiert."
-      "14": "(any 3-sentence mini-story in Präteritum)"
-      "15": "—"
-      "16": "—"
+      "14": "(eigene Antwort — Satz 1)"
+      "15": "(eigene Antwort — Satz 2)"
+      "16": "(eigene Antwort — Satz 3)"
       "17": arbeitete
       "18": "ihm"
       "19": hätte
