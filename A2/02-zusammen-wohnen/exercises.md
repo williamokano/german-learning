@@ -130,7 +130,7 @@ Now use the contractions in sentences:
 9. Ich stelle das Buch ______ (in + das) Regal.
 10. Das Buch steht ______ (in + dem) Regal.
 11. Ich hänge den Kalender ______ (an + die) Wand.
-12. Der Kalender hängt ______ (an + der) Wand — nein, ______ (an + dem) Fenster.
+12. Der Kalender hängt ______ (an + der) Wand, und der Spiegel hängt ______ (an + dem) Fenster.
 
 ## Übung A5 — stellen oder stehen?
 
@@ -432,7 +432,7 @@ Eleven words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Annas neue WG
 
-Read „Annas neue WG" in `lesson.md`, section 5. Richtig (R) oder Falsch (F)?
+Read „Annas neue WG" in `lesson.md`, section 7. Richtig (R) oder Falsch (F)?
 
 1. Anna wohnt jetzt mit vier anderen Studenten zusammen. ( )
 2. Das Bett steht neben dem Fenster. ( )

@@ -199,7 +199,7 @@ Selbstkorrektur:
 3. **b) ans** — an + das → ans (Wohin? → Akkusativ: ans Fenster).
 4. **b) stehen** — Bücher im Regal → stehen (upright).
 5. **a) an** — an den Haken (Wohin? + Akk).
-6. **a) in** — in der neuen Wohnung zufrieden — accepted as natural here; the most idiomatic phrase is „zufrieden mit der neuen Wohnung", but mit was not offered.
+6. **b) mit** — zufrieden mit + Dativ — fixed collocation (A1/08: mit + Dat).
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 

@@ -236,7 +236,7 @@ exercises:
       9. Ich stelle das Buch {9} (in + das) Regal.
       10. Das Buch steht {10} (in + dem) Regal.
       11. Ich hänge den Kalender {11} (an + die) Wand.
-      12. Der Kalender hängt {12} (an + der) Wand — nein, {13} (an + dem) Fenster.
+      12. Der Kalender hängt {12} (an + der) Wand, und der Spiegel hängt {13} (an + dem) Fenster.
     answers:
       "1": ins
       "2": im
@@ -777,8 +777,8 @@ exercises:
           - { key: a, text: "in" }
           - { key: b, text: "mit" }
           - { key: c, text: "über" }
-        answer: a
-        why: 'in der neuen Wohnung zufrieden — accepted as natural here; the most idiomatic phrase is „zufrieden mit der neuen Wohnung", but mit was not offered.'
+        answer: b
+        why: 'zufrieden mit + Dativ — fixed collocation (A1/08: mit + Dat).'
 
   - id: C3
     block: C
@@ -815,7 +815,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 — Annas neue WG"
-    instructions: 'Read „Annas neue WG" in `lesson.md`, section 5. Richtig (R) oder Falsch (F)?'
+    instructions: 'Read „Annas neue WG" in `lesson.md`, section 7. Richtig (R) oder Falsch (F)?'
     items:
       - { q: "Anna wohnt jetzt mit vier anderen Studenten zusammen.", answer: false, why: '„Ich und drei andere Studenten" = 4 total; mit vier anderen would be 5.' }
       - { q: "Das Bett steht neben dem Fenster.", answer: false, why: 'The text says „direkt unter dem Fenster" (under), not next to it.' }

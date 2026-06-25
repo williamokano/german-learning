@@ -326,7 +326,7 @@ These sounds appear heavily in household vocabulary:
 - **ü** — say "ee" with rounded lips: *Stühle, Küche, Bücher*
 - **ö** — say "ay" with rounded lips: *Böden, Möbel, schön*
 - **-ch** after e/i/ä/ö/ü = soft "ich-sound": *Teppich, Küche, möchte*
-- **-ch** after a/o/u = guttural "ach-sound": *Fach, Wohnung has no -ch, but: Buch, Koch*
+- **-ch** after a/o/u = guttural "ach-sound": *Buch, Koch*
 - **-ig** at the end of a word = soft "ich-sound" in standard German: *ruhig, fertig, gemütlich*
 
 ---
@@ -335,7 +335,7 @@ These sounds appear heavily in household vocabulary:
 
 Anna ist vor einer Woche in ihre neue Wohngemeinschaft eingezogen. Die WG hat vier Zimmer, eine große Küche und ein Badezimmer. Ihre Mitbewohner heißen Lukas, Sofia und Kemal. Alle sind Studenten.
 
-Annas Zimmer ist nicht groß, aber sehr gemütlich. Das Bett steht an der linken Wand, direkt unter dem Fenster. Auf dem Bett liegen zwei bunte Kissen. Der Schreibtisch steht am Fenster, und auf dem Schreibtisch liegen ihre Bücher und ihr Laptop. Das Bücherregal hängt an der Wand über dem Schreibtisch — nein, eigentlich steht es neben der Tür. Die Lampe hängt über dem Tisch und gibt ein schönes Licht.
+Annas Zimmer ist nicht groß, aber sehr gemütlich. Das Bett steht an der linken Wand, direkt unter dem Fenster. Auf dem Bett liegen zwei bunte Kissen. Der Schreibtisch steht am Fenster, und auf dem Schreibtisch liegen ihre Bücher und ihr Laptop. Das Bücherregal steht neben der Tür. Die Lampe hängt über dem Schreibtisch und gibt ein schönes Licht.
 
 In der Küche haben alle einen eigenen Regalplatz für ihr Essen. Die Hausregeln sind einfach: Man spült das Geschirr sofort nach dem Essen, und jeder putzt die Küche einmal pro Woche. Die Musik geht um 22 Uhr aus.
 
