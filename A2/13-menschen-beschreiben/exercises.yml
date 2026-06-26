@@ -648,7 +648,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Teil 1 (Mein Kollege Marko)"
-    instructions: 'Read the Lesetext „Mein Kollege Marko" (§5 of the lesson). Richtig (R) oder falsch (F)?'
+    instructions: 'Read the Lesetext „Mein Kollege Marko" (§7 of the lesson). Richtig (R) oder falsch (F)?'
     items:
       - q: "Marko arbeitet seit einem Jahr im Team."
         answer: false
@@ -783,9 +783,9 @@ exercises:
       - items: [Augen, Haare, Bart, Charakter]
         odd: 3
         why: "Charakter is not a physical feature; all others are body parts."
-      - items: [mögen, kennen, beschreiben, obwohl]
+      - items: [mögen, kennen, beschreiben, weil]
         odd: 3
-        why: "obwohl is a conjunction (Konnektor), not a verb like the others."
+        why: "weil is a conjunction (Konnektor) from A2/L3, not a verb like the others."
       - items: [der, die, das, welch-]
         odd: 3
         why: "welch- is a question word (which?), not a relative pronoun."

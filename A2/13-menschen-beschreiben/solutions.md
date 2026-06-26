@@ -257,7 +257,7 @@ Selbstkorrektur:
 1. ~~faul~~ — faul is the only negative character trait; all others are positive.
 2. ~~Brille~~ — Brille is not a family term; all others are family members.
 3. ~~Charakter~~ — Charakter is not a physical feature; all others are body parts.
-4. ~~obwohl~~ — obwohl is a conjunction (Konnektor), not a verb like the others.
+4. ~~weil~~ — weil is a conjunction (Konnektor) from A2/L3, not a verb like the others.
 5. ~~welch-~~ — welch- is a question word (which?), not a relative pronoun.
 6. ~~eingebildet~~ — eingebildet is the only negative trait; all others are positive.
 
