@@ -205,7 +205,6 @@ Inseparable prefixes: `be- · ge- · er- · ver- · zer- · ent- · emp- · miss
 | **ob** | indirect yes/no question | end | Ich frage mich, **ob** er Zeit **hat**. |
 | **wenn** | condition / repeated past | end | Ruf mich an, **wenn** du ankommst. |
 | **als** | single past event | end | **Als** ich 12 war, lebte ich in Moskau. |
-| **damit** | purpose (different subject) | end | Ich schreibe langsam, **damit** du alles **verstehst**. |
 
 ⚠️ **als vs. wenn:**
 - `als` = one specific past event (never repeated, never present/future)
