@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Voicemail von Tomáš an Pavel
 
-1. **b) Weil er sich um das nächste Treffen kümmern möchte.** — "Ich rufe an, weil ich mich darum kümmern möchte, unser nächstes Treffen zu organisieren."
+1. **a) Weil er sich um das nächste Treffen kümmern möchte.** — "Ich rufe an, weil ich mich darum kümmern möchte, unser nächstes Treffen zu organisieren."
 2. **b) Über das Gespräch beim letzten Filmabend.** — "Ich denke oft daran, was wir beim letzten Filmabend besprochen haben."
-3. **b) Für einen neuen tschechischen Film.** — "Ich interessiere mich übrigens sehr für den neuen tschechischen Film."
-4. **b) Dass der Film ihnen gefallen wird.** — "Ich bin davon überzeugt, dass er uns gefällt."
+3. **c) Für einen neuen tschechischen Film.** — "Ich interessiere mich übrigens sehr für den neuen tschechischen Film."
+4. **a) Dass der Film ihnen gefallen wird.** — "Ich bin davon überzeugt, dass er uns gefällt."
 
 ---
 
@@ -140,7 +140,7 @@
 
 1 → c · 2 → e · 3 → b · 4 → f · 5 → a · 6 → d
 
-## Übung B8 — Leseverstehen: Annas Interview (Lesetext §5)
+## Übung B8 — Leseverstehen: Annas Interview (Lesetext §7)
 
 1. **darüber**  2. **darum**  3. **davon**  4. **davor**  5. **davon**
 
@@ -193,10 +193,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Leseverstehen: Pressemitteilung (neuer Text)
 
-1. **b) Darüber, die Stelle bekannt zu geben.** — "TechStart Berlin freut sich darüber, bekannt zu geben, dass …"
+1. **a) Darüber, die Stelle bekannt zu geben.** — "TechStart Berlin freut sich darüber, bekannt zu geben, dass …"
 2. **b) Aus der Koordination von Teams in vier Ländern.** — "Die Stelle besteht daraus, Teams in vier Ländern zu koordinieren."
-3. **b) Bis zum 15. September.** — "können sich bis zum 15. September darum bewerben."
-4. **b) Darauf, motivierte Persönlichkeiten zu finden.** — "Wir verlassen uns darauf, motivierte Persönlichkeiten zu finden."
+3. **c) Bis zum 15. September.** — "können sich bis zum 15. September darum bewerben."
+4. **a) Darauf, motivierte Persönlichkeiten zu finden.** — "Wir verlassen uns darauf, motivierte Persönlichkeiten zu finden."
 
 ## Übung C5 — Schreiben: E-Mail nach einem Vorstellungsgespräch
 

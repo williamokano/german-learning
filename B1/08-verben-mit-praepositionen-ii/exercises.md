@@ -50,10 +50,10 @@ Listen to the Hörtext (Pavel's call to Mia) and fill in the 6 missing words. Th
 
 Listen to Tomáš's voicemail to Pavel. Then choose the correct answer (a, b, or c).
 
-1. Warum ruft Tomáš an?  a) Weil er einen Film empfehlen möchte.  b) Weil er sich um das nächste Treffen kümmern möchte.  c) Weil er eine Frage zu Pavels Kurs hat.
+1. Warum ruft Tomáš an?  a) Weil er sich um das nächste Treffen kümmern möchte.  b) Weil er einen Film empfehlen möchte.  c) Weil er eine Frage zu Pavels Kurs hat.
 2. Worüber denkt Tomáš oft nach?  a) Über seinen nächsten Job.  b) Über das Gespräch beim letzten Filmabend.  c) Über seinen Urlaub in Prag.
-3. Wofür interessiert sich Tomáš?  a) Für ein deutsches Theaterstück.  b) Für einen neuen tschechischen Film.  c) Für ein Musikkonzert.
-4. Wovon ist Tomáš überzeugt?  a) Dass Pavel zu viel arbeitet.  b) Dass der Film ihnen gefallen wird.  c) Dass Mia nicht kommen kann.
+3. Wofür interessiert sich Tomáš?  a) Für ein deutsches Theaterstück.  b) Für ein Musikkonzert.  c) Für einen neuen tschechischen Film.
+4. Wovon ist Tomáš überzeugt?  a) Dass der Film ihnen gefallen wird.  b) Dass Pavel zu viel arbeitet.  c) Dass Mia nicht kommen kann.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -254,7 +254,7 @@ Choose the correct form (a, b, or c).
 2. _____ wartest du? — Auf den nächsten Zug.  a) Auf wen  b) Worauf  c) Was
 3. Ich denke an meine Mutter. → Ich denke _____.  a) daran  b) an sie  c) daran sie
 4. Ich denke an den Urlaub. → Ich denke _____.  a) an es  b) an ihn  c) daran
-5. _____ sprichst du mit Frau Weber? (mit wem oder womit?)  a) Womit  b) Mit wem  c) Worüber
+5. _____ sprichst du? — Mit Frau Weber. (mit wem oder womit?)  a) Womit  b) Mit wem  c) Worüber
 6. _____ beschäftigst du dich? — Mit dem Bericht.  a) Mit wem  b) Womit  c) Worum
 
 ## Übung B3 — Finde den Fehler — Pronominaladverbien
@@ -327,7 +327,7 @@ Match each question (1–6) with the correct answer (a–g). One answer is not n
 | 6. Wovor hat Anna Angst? | | f) Darauf, klare Strukturen zu haben. |
 |  | | g) Damit, morgen früh aufzustehen. |
 
-## Übung B8 — Leseverstehen: Annas Interview (Lesetext §5)
+## Übung B8 — Leseverstehen: Annas Interview (Lesetext §7)
 
 Answer each question with a full sentence using a Pronominaladverb. 5 items.
 
@@ -417,7 +417,7 @@ Five words are not needed.
 
 ## Übung C4a — Leseverstehen: Annas Interview (Richtig / Falsch)
 
-Read the Lesetext (lesson.md section 5). Decide: Richtig (R) oder Falsch (F)?
+Read the Lesetext (lesson.md section 7). Decide: Richtig (R) oder Falsch (F)?
 
 1. Anna arbeitet seit zwei Jahren als Projektkoordinatorin. ( )
 2. Anna war zunächst davon überzeugt, dass die Sprache eine Hürde sein würde. ( )
@@ -429,10 +429,10 @@ Read the Lesetext (lesson.md section 5). Decide: Richtig (R) oder Falsch (F)?
 
 Read the text below. Choose the correct answer (a, b, or c).
 
-1. Worüber freut sich TechStart Berlin?  a) Über eine neue Partnerschaft mit einer ausländischen Firma.  b) Darüber, die Stelle bekannt zu geben.  c) Darüber, dass alle Stellen besetzt sind.
+1. Worüber freut sich TechStart Berlin?  a) Darüber, die Stelle bekannt zu geben.  b) Über eine neue Partnerschaft mit einer ausländischen Firma.  c) Darüber, dass alle Stellen besetzt sind.
 2. Woraus besteht die neue Stelle hauptsächlich?  a) Aus der Leitung von Marketing-Kampagnen.  b) Aus der Koordination von Teams in vier Ländern.  c) Aus der Entwicklung neuer Software.
-3. Bis wann kann man sich bewerben?  a) Bis zum 1. Oktober.  b) Bis zum 15. September.  c) Bis zum 30. August.
-4. Worauf verlässt sich TechStart Berlin?  a) Darauf, dass alle Bewerberinnen Deutsch können.  b) Darauf, motivierte Persönlichkeiten zu finden.  c) Darauf, dass die Stelle schnell besetzt wird.
+3. Bis wann kann man sich bewerben?  a) Bis zum 1. Oktober.  b) Bis zum 30. August.  c) Bis zum 15. September.
+4. Worauf verlässt sich TechStart Berlin?  a) Darauf, motivierte Persönlichkeiten zu finden.  b) Darauf, dass alle Bewerberinnen Deutsch können.  c) Darauf, dass die Stelle schnell besetzt wird.
 
 ## Übung C5 — Schreiben: E-Mail nach einem Vorstellungsgespräch
 
