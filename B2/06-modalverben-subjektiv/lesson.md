@@ -268,7 +268,7 @@ Am Ende wussten sie nichts Genaues. Aber Anna steckte das Foto trotzdem ein. „
 <details>
 <summary>📝 Lösung</summary>
 
-> *Sehr sicher: Er kann nicht lügen. → Sie muss die Chefin sein. → Er könnte krank sein.*
+> *Sehr sicher (≈ 95 %): Sie muss die Chefin sein. → Unsicher (≈ 50 %): Er könnte krank sein. → Ausgeschlossen (≈ 0 %): Er kann nicht lügen.*
 > *(In Modalverben: Sie muss die Chefin sein. · Er könnte krank sein. · Er kann nicht lügen.)*
 
 </details>
