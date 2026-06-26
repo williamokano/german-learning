@@ -43,11 +43,11 @@ buildsOn:
 
 ### Dialog A: Formell — Sie
 
-> **Anna:** Guten Tag! Mein Name ist Anna. Ich möchte mich für die A2-Prüfung anmelden.  
-> **Sekretär:** Guten Tag, Frau Anna. Wann möchten Sie die Prüfung machen?  
+> **Anna:** Guten Tag! Mein Name ist Anna Petrowa. Ich möchte mich für die A2-Prüfung anmelden.  
+> **Sekretär:** Guten Tag, Frau Petrowa. Wann möchten Sie die Prüfung machen?  
 > **Anna:** Am zwanzigsten Juni, wenn das möglich ist.  
-> **Sekretär:** Einen Moment, bitte … Ja, das geht. Wie ist Ihr Nachname?  
-> **Anna:** Mein Nachname ist Petrowa. P-E-T-R-O-W-A.  
+> **Sekretär:** Einen Moment, bitte … Ja, das geht. Könnten Sie bitte Ihren Nachnamen buchstabieren?  
+> **Anna:** Gerne — P-E-T-R-O-W-A.  
 > **Sekretär:** Danke. Und wo wohnen Sie?  
 > **Anna:** Ich wohne in der Goethestraße 5, in Berlin.  
 > **Sekretär:** Gut. Sie bekommen eine Bestätigung per E-Mail. Haben Sie noch Fragen?  
