@@ -576,7 +576,7 @@ exercises:
     type: gap-text
     layout: list
     title: "Lesetext-Verständnis: Yusufs Gastkommentar"
-    instructions: "Read the Lesetext (lesson.md section 5) and answer the questions in German. Use full sentences. 5 items."
+    instructions: "Read the Lesetext (lesson.md section 7) and answer the questions in German. Use full sentences. 5 items."
     text: |
       1. Welche europäischen Städte werden im Text als Beispiele genannt?
          → {1}
@@ -747,7 +747,7 @@ exercises:
     block: C
     type: true-false
     title: "Leseverstehen: Yusufs Gastkommentar (Richtig / Falsch)"
-    instructions: "Read the Lesetext (lesson.md section 5). Richtig (R) oder Falsch (F)?"
+    instructions: "Read the Lesetext (lesson.md section 7). Richtig (R) oder Falsch (F)?"
     items:
       - q: "In London, Stockholm und Oslo gibt es bereits Innenstadtmaut-Systeme."
         answer: true
