@@ -535,8 +535,8 @@ exercises:
   - id: B6
     block: B
     type: true-false
-    title: "Forenbeitrag: Richtig oder Falsch? (Lesetext §5)"
-    instructions: 'Read the Lesetext (Forenbeitrag „Soll man in eine Großstadt ziehen?") in lesson.md §5. Decide: Richtig (R) oder Falsch (F)?'
+    title: "Forenbeitrag: Richtig oder Falsch? (Lesetext §7)"
+    instructions: 'Read the Lesetext (Forenbeitrag „Soll man in eine Großstadt ziehen?") in lesson.md §7. Decide: Richtig (R) oder Falsch (F)?'
     items:
       - q: "Der Autor ist von Berlin nach Brünn gezogen."
         answer: false
@@ -580,8 +580,8 @@ exercises:
   - id: B8
     block: B
     type: single-choice
-    title: "Leseverstehen: Forenbeitrag (Lesetext §5)"
-    instructions: "Read the Forenbeitrag in lesson.md §5. Choose the correct answer (a, b, or c)."
+    title: "Leseverstehen: Forenbeitrag (Lesetext §7)"
+    instructions: "Read the Forenbeitrag in lesson.md §7. Choose the correct answer (a, b, or c)."
     items:
       - q: "Was ist das Hauptargument des Autors?"
         options:
@@ -654,21 +654,21 @@ exercises:
     text: |
       Pavel hat sich vor drei Jahren entschieden, von Brünn nach Berlin zu {1}.
       Er schreibt in einem Forenbeitrag, dass Großstädte seiner {2} nach mehr
-      Möglichkeiten bieten, als man auf den ersten {3} sieht. Zum einen gebe
-      es viele Jobmöglichkeiten; {4} sei das Kulturangebot enorm. {5}
-      seien die Lebenshaltungskosten deutlich höher, und die Mieten in Berlin
-      {6} in den letzten Jahren stark gestiegen. Außerdem sei der Alltag in
-      der Stadt manchmal sehr {7}. Insgesamt denke Pavel, dass der Umzug für
-      junge Menschen {8} sei — zumindest für einige Jahre. Man lerne, {9}
-      zu sein, und treffe Menschen aus aller Welt. Wegen der höheren Kosten
+      Möglichkeiten bieten, als man auf den ersten {3} sieht. Zum einen {4}
+      es viele Jobmöglichkeiten; außerdem ist das Kulturangebot enorm.
+      {5} sind die Lebenshaltungskosten deutlich höher, und die Mieten in
+      Berlin {6} in den letzten Jahren stark gestiegen. Außerdem ist der
+      Alltag in der Stadt manchmal sehr {7}. Insgesamt denkt Pavel, dass der
+      Umzug für junge Menschen {8} ist — zumindest für einige Jahre. Man lernt,
+      {9} zu sein, und trifft Menschen aus aller Welt. Wegen der höheren Kosten
       sollte man aber finanziell gut {10} sein.
     answers:
       "1": ziehen
       "2": Meinung
       "3": Blick
-      "4": außerdem
+      "4": gibt
       "5": Allerdings
-      "6": seien
+      "6": sind
       "7": stressig
       "8": wertvoll
       "9": selbstständig
@@ -757,7 +757,7 @@ exercises:
     block: C
     type: true-false
     title: "Leseverstehen: Forenbeitrag (Richtig / Falsch)"
-    instructions: "Read the Lesetext in lesson.md §5. Decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Read the Lesetext in lesson.md §7. Decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Der Autor ist seit fünf Jahren in Berlin."
         answer: false
@@ -888,7 +888,7 @@ exercises:
       10. Ich bin der {10}, dass Großstädte mehr Vorteile bieten. (Meinungsausdruck-Nomen)
       11. (L11) Hiermit {11} ich mich um die Stelle als Koordinatorin. (sich bewerben — ich-Form)
       12. (B1/06) Ich schreibe Ihnen, {12} mich für das Angebot zu bedanken. (um … zu: purpose)
-      13. (B1/07) Die Qualität {13} Zimmer ließ zu wünschen übrig. (Genitiv: n. Sg.)
+      13. (B1/07) Die Qualität des {13} ließ zu wünschen übrig. (Genitiv: n. Sg. → "Zimmers")
       14. (B1/10) Das Thema ist {14} interessant {15} wichtig. (sowohl … als auch)
     answers:
       "1": bezüglich
@@ -903,7 +903,7 @@ exercises:
       "10": Überzeugung
       "11": bewerbe
       "12": um
-      "13": des
+      "13": Zimmers
       "14": sowohl
       "15": als auch
 

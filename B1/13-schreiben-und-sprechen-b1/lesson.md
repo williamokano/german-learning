@@ -162,7 +162,7 @@ Lesen und Hören kannst du schon — jetzt kommt die **Produktion**: selbst **sc
 
 ### Schreiben — wichtige Begriffe
 
-> 💡 **Lerntipp:** Lern diese Begriffe als **Bauplan** einer formellen Mail in der richtigen Reihenfolge: *Betreff → Anrede → Bezugssatz → Hauptteil → Grußformel.* Wer die Teile kennt, vergisst nie einen — und das ist in der Prüfung die halbe Miete.
+> 💡 **Lerntipp:** Lern diese Begriffe als **Bauplan** einer formellen Mail in der richtigen Reihenfolge: *Betreff → Anrede → Bezugssatz → Hauptteil → Schluss → Grußformel.* Wer die Teile kennt, vergisst nie einen — und das ist in der Prüfung die halbe Miete.
 
 | Nomen | Englisch |
 |---|---|

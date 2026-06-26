@@ -253,9 +253,9 @@ Match each presentation phase (1–5) with the correct Redemittel (a–f). One R
 | 5. Fazit | | e) Das Thema ist wichtig, weil … |
 |  | | f) Vielen Dank für Ihre Aufmerksamkeit. |
 
-## Übung B6 — Forenbeitrag: Richtig oder Falsch? (Lesetext §5)
+## Übung B6 — Forenbeitrag: Richtig oder Falsch? (Lesetext §7)
 
-Read the Lesetext (Forenbeitrag „Soll man in eine Großstadt ziehen?") in lesson.md §5. Decide: Richtig (R) oder Falsch (F)?
+Read the Lesetext (Forenbeitrag „Soll man in eine Großstadt ziehen?") in lesson.md §7. Decide: Richtig (R) oder Falsch (F)?
 
 1. Der Autor ist von Berlin nach Brünn gezogen. ( )
 2. In Berlin hat Pavel schnell Arbeit als Barista gefunden. ( )
@@ -274,9 +274,9 @@ kann es schwieriger sein, Berufs- und Privatleben zu (6) ______. Ein weiterer
 (7) ______ ist, dass man soziale Kontakte mit Kollegen vermisst. (8) ______ denke ich,
 dass Homeoffice gut funktioniert, wenn man sich selbst gut organisieren kann.
 
-## Übung B8 — Leseverstehen: Forenbeitrag (Lesetext §5)
+## Übung B8 — Leseverstehen: Forenbeitrag (Lesetext §7)
 
-Read the Forenbeitrag in lesson.md §5. Choose the correct answer (a, b, or c).
+Read the Forenbeitrag in lesson.md §7. Choose the correct answer (a, b, or c).
 
 1. Was ist das Hauptargument des Autors?  a) Großstädte sind nur für reiche Menschen geeignet.  b) Großstädte bieten mehr Möglichkeiten, als man auf den ersten Blick sieht.  c) Brünn ist besser als Berlin.
 2. Was ist laut dem Autor ein Nachteil der Großstadt?  a) Es gibt zu wenig Jobs.  b) Das Kulturangebot ist klein.  c) Die Lebenshaltungskosten sind deutlich höher.
@@ -318,13 +318,13 @@ Fill each gap with one word. 10 gaps.
 
 Pavel hat sich vor drei Jahren entschieden, von Brünn nach Berlin zu (1) ______.
 Er schreibt in einem Forenbeitrag, dass Großstädte seiner (2) ______ nach mehr
-Möglichkeiten bieten, als man auf den ersten (3) ______ sieht. Zum einen gebe
-es viele Jobmöglichkeiten; (4) ______ sei das Kulturangebot enorm. (5) ______
-seien die Lebenshaltungskosten deutlich höher, und die Mieten in Berlin
-(6) ______ in den letzten Jahren stark gestiegen. Außerdem sei der Alltag in
-der Stadt manchmal sehr (7) ______. Insgesamt denke Pavel, dass der Umzug für
-junge Menschen (8) ______ sei — zumindest für einige Jahre. Man lerne, (9) ______
-zu sein, und treffe Menschen aus aller Welt. Wegen der höheren Kosten
+Möglichkeiten bieten, als man auf den ersten (3) ______ sieht. Zum einen (4) ______
+es viele Jobmöglichkeiten; außerdem ist das Kulturangebot enorm.
+(5) ______ sind die Lebenshaltungskosten deutlich höher, und die Mieten in
+Berlin (6) ______ in den letzten Jahren stark gestiegen. Außerdem ist der
+Alltag in der Stadt manchmal sehr (7) ______. Insgesamt denkt Pavel, dass der
+Umzug für junge Menschen (8) ______ ist — zumindest für einige Jahre. Man lernt,
+(9) ______ zu sein, und trifft Menschen aus aller Welt. Wegen der höheren Kosten
 sollte man aber finanziell gut (10) ______ sein.
 
 ## Übung C2 — Sprachbausteine Teil 1
@@ -358,7 +358,7 @@ Five words are not needed.
 
 ## Übung C4a — Leseverstehen: Forenbeitrag (Richtig / Falsch)
 
-Read the Lesetext in lesson.md §5. Decide: Richtig (R) oder Falsch (F)?
+Read the Lesetext in lesson.md §7. Decide: Richtig (R) oder Falsch (F)?
 
 1. Der Autor ist seit fünf Jahren in Berlin. ( )
 2. Pavel findet, dass das Kulturangebot in Berlin größer ist als in Brünn. ( )
@@ -415,7 +415,7 @@ Fill in the correct word or form. Items 12–15 review grammar from B1/06–B1/1
 10. Ich bin der (10) ______, dass Großstädte mehr Vorteile bieten. (Meinungsausdruck-Nomen)
 11. (L11) Hiermit (11) ______ ich mich um die Stelle als Koordinatorin. (sich bewerben — ich-Form)
 12. (B1/06) Ich schreibe Ihnen, (12) ______ mich für das Angebot zu bedanken. (um … zu: purpose)
-13. (B1/07) Die Qualität (13) ______ Zimmer ließ zu wünschen übrig. (Genitiv: n. Sg.)
+13. (B1/07) Die Qualität des (13) ______ ließ zu wünschen übrig. (Genitiv: n. Sg. → "Zimmers")
 14. (B1/10) Das Thema ist (14) ______ interessant (15) ______ wichtig. (sowohl … als auch)
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
