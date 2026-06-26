@@ -349,7 +349,7 @@ Fill each gap with one word.
 
 Anna und Bruno sitzen im Restaurant. Der Kellner kommt und fragt: „Haben
 ______ reserviert?" Anna sagt: „Ja — ich hätte ______ einen ruhigen
-Tisch, wenn ______ wäre." Der Kellner führt sie zu einem schönen Tisch am
+Tisch, wenn ______." Der Kellner führt sie zu einem schönen Tisch am
 Fenster. Anna lächelt: „Das ______ perfekt!"
 Der Kellner bringt die Speisekarte. Anna ______ nicht, was sie nehmen soll.
 „Was ______ Sie empfehlen?", fragt sie. „Das ______ heute sehr frisch

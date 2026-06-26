@@ -64,7 +64,7 @@ buildsOn:
 > **Kellner:** Heute empfehlen wir gegrillten Lachs mit Gemüse. Das wäre sehr lecker!  
 > **Herr Steinmeyer:** Ich hätte gern den Lachs, bitte.  
 > **Frau Weber:** Und ich hätte gern das vegetarische Pasta-Gericht. Könnten Sie die Soße bitte ohne Knoblauch machen?  
-> **Kellner:** Aber natürlich. Würden Sie auch etwas trinken möchten?  
+> **Kellner:** Aber natürlich. Möchten Sie auch etwas trinken?  
 > **Frau Weber:** Ja — ich hätte gern ein Glas Weißwein, bitte.  
 > **Herr Steinmeyer:** Und ich hätte gern eine Flasche Mineralwasser.  
 > **Kellner:** Sehr gerne. Ich bringe das sofort.  
@@ -185,7 +185,7 @@ buildsOn:
 
 ### Pronunciation note: Konjunktiv II vowels
 
-The Konjunktiv II forms `wäre`, `hätte`, `käme` have an Umlaut (ä). In spoken German these vowels are clearly marked:
+The Konjunktiv II forms `wäre`, `hätte`, `käme` have an Umlaut (ä); `könnte` has the Umlaut ö. In spoken German these vowels are clearly marked:
 
 - **wäre** ≈ "VEH-reh" (ä like 'e' in "bed")
 - **hätte** ≈ "HEH-teh"
@@ -347,7 +347,7 @@ polite situation:
 | du | **wärst** |
 | er / sie / es | **wäre** |
 | wir | **wären** |
-| ihr | **wäret** / **wärt** |
+| ihr | **wärt** |
 | sie / Sie | **wären** |
 
 > Das **wäre** sehr nett.  
@@ -400,7 +400,7 @@ is friendly without being cold.
 
 > Anna hatte eine Idee. Sie wollte Bruno zu einem Konzert einladen — ein russisches Kammerorchester spielte in der Berliner Philharmonie. „Das wäre doch schön!", dachte sie.
 >
-> Sie schrieb Bruno eine Nachricht: „Hey! Ich hätte eine Frage: Würdest du am Freitagabend gern ins Konzert kommen? Es wäre um 20 Uhr in der Philharmonie. Ich hätte zwei Karten — ich hätte die Karten eigentlich mit meiner Schwester anschauen wollen, aber sie hat leider abgesagt."
+> Sie schrieb Bruno eine Nachricht: „Hey! Ich hätte eine Frage: Würdest du am Freitagabend gern ins Konzert kommen? Es wäre um 20 Uhr in der Philharmonie. Ich hätte zwei Karten — ich wollte die Karten eigentlich mit meiner Schwester anschauen, aber sie hat leider abgesagt."
 >
 > Bruno antwortete schnell: „Das wäre super! Ich käme sehr gerne. Könnte ich einen Platz reservieren, oder hast du das schon gemacht?" Anna schrieb zurück: „Ich habe schon reserviert — du musst nichts machen! Könntest du aber bitte das Restaurant danach aussuchen? Ich wäre froh, wenn du eine gute Idee hättest."
 >
