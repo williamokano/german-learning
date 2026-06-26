@@ -210,7 +210,6 @@ Frau Weber trifft Herrn Steinmeyer im Treppenhaus. Sie sprechen über den neuen 
 | mögen | to like | hat gemocht |
 | meinen | to mean, think | hat gemeint |
 | vorstellen | to imagine; introduce | hat vorgestellt |
-| aussehen + Dat | to look (like) | hat ausgesehen |
 
 > ⚠️ **aussehen** is a strong verb with an e→ie change and a separable prefix:
 > er sieht … aus, er hat … ausgesehen. Use the **Dativ** for what something

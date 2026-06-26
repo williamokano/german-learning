@@ -353,7 +353,7 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Teil 1 (Mein Kollege Marko)
 
-Read the Lesetext „Mein Kollege Marko" (§5 of the lesson). Richtig (R) oder falsch (F)?
+Read the Lesetext „Mein Kollege Marko" (§7 of the lesson). Richtig (R) oder falsch (F)?
 
 1. Marko arbeitet seit einem Jahr im Team. ( )
 2. Marko hat grüne Augen. ( )
@@ -426,7 +426,7 @@ In each group of four, circle the word that does NOT belong.
 1. hilfsbereit – freundlich – faul – nett
 2. Bruder – Schwester – Tante – Brille
 3. Augen – Haare – Bart – Charakter
-4. mögen – kennen – beschreiben – obwohl
+4. mögen – kennen – beschreiben – weil
 5. der – die – das – welch-
 6. hilfsbereit – zuverlässig – eingebildet – fleißig
 

@@ -224,7 +224,6 @@ Wie beschreibst du einen Menschen? *Er ist groß. Er hat grüne Augen. Alle mög
 | mögen | to like | hat gemocht |
 | meinen | to mean, think | hat gemeint |
 | vorstellen | to imagine; introduce | hat vorgestellt |
-| aussehen + Dat | to look (like) | hat ausgesehen |
 
 > ⚠️ **aussehen** is a strong verb with an e→ie change and a separable prefix:
 > er sieht … aus, er hat … ausgesehen. Use the **Dativ** for what something
@@ -288,8 +287,8 @@ Anna lächelt. „Eine schöne Familie! Und der junge Mann hinten?" Bruno lacht:
 > | ❌ Wrong | ✅ Right |
 > |---|---|
 > | *der Mann, **welcher** in Berlin wohnt* (question word) | *der Mann, **der** in Berlin wohnt* |
-> | *die Frau, die aus Wien **kommt nicht**… no — die aus Wien **kommt*** | *die Frau, die aus Wien **kommt*** (verb at the end) |
-> | *das Kind**das** lustig ist* (no comma) | *das Kind**, das** lustig ist* (comma!) |
+> | *die Frau, die kommt aus Wien* (verb in position 2) | *die Frau, die aus Wien **kommt*** (verb at the end) |
+> | *das Kind **das** lustig ist* (no comma) | *das Kind**, das** lustig ist* (comma!) |
 > | *der Mann, **die** in Berlin wohnt* | *der Mann, **der** in Berlin wohnt* (match the gender!) |
 
 > 💡 **Lerntipp:** Look at the noun, grab its article, reuse it as the relative pronoun: *der* Mann → *der*, *die* Frau → *die*, *das* Kind → *das*. For people, German doesn't care about "who" vs. "which" — it cares about the noun's gender. Then send the verb to the end, just like after *weil*.
