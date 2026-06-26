@@ -445,7 +445,7 @@ Fill each gap. Labels show the source lesson.
 3. Wir suchen einen Kollegen, _____ wir vertrauen können. [B1/05 — Relativpronomen Dat.] (3) ______
 4. Das Paket _____ heute Morgen geliefert. [B1/04 — Passiv Präteritum] (4) ______
 5. Die Ergebnisse _____ schon veröffentlicht worden. [B1/04 — Passiv Perfekt] (5) ______
-6. Der Antrag _____ bis Freitag _____ werden. [B1/04 — Passiv + Modal] (6) ______
+6. Der Antrag wird bis Freitag eingereicht. — Rewrite with 'muss'. [B1/04 — Passiv + Modal] (6) ______
 7. Wir suchen etwas, _____ wirklich hilft. [B1/05 — Relativpronomen was] (7) ______
 8. Das ist der Artikel, _____ Yusuf letzte Woche eingereicht hat. [B1/05 — Relativpronomen Akk.] (8) ______
 9. Die Tür _____ immer um 18 Uhr geschlossen. [B1/04 — Passiv Präsens] (9) ______
@@ -466,7 +466,7 @@ Fülle die Lücken aus. Ziel: 16+/20 Punkte.
 9. Das ist die Theorie _____ Philosophen. [n-Dekl. Genitiv] (9) ______
 10. Die Ergebnisse _____ Studie sind überzeugend. [Genitiv feminin] (10) ______
 11. Das Buch _____ Professors kostet 30 Euro. [Genitiv mask.] (11) ______
-12. _____ Buch ist das? — Das ist _____. (Hans / Hans) (12) ______
+12. Wessen Buch ist das? — Das ist _____ Buch. (Hans — name ends in s!) (12) ______
 13. Die Nutzung _____ Kellers erfolgt auf eigene Verantwortung. [Genitiv mask.] (13) ______
 14. Wegen _____ Umbaus ist die Mensa geschlossen. [Genitiv mask.] (14) ______
 15. Das ist die Rede _____ Präsidenten. [n-Dekl. Genitiv] (15) ______
@@ -474,6 +474,6 @@ Fülle die Lücken aus. Ziel: 16+/20 Punkte.
 17. Trotz _____ Schwierigkeiten hat sie bestanden. [Genitiv Plural] (17) ______
 18. Statt _____ Originals gab er eine Kopie. [Genitiv neutral] (18) ______
 19. Das ist die Idee _____ Kollegen. [n-Dekl. Genitiv] (19) ______
-20. _____ Buch ist das? — Das ist _____. (Max / Max — name ends in x!) (20) ______
+20. Wessen Buch ist das? — Das ist _____ Buch. (Max — name ends in x!) (20) ______
 
 _16+ / 20 → proceed to B1/08. Below 16: redo A2–A5 tomorrow, then retest D4._
