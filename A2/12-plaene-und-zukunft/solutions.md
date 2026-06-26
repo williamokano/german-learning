@@ -21,7 +21,7 @@
 
 ## Übung H3 — Hörtext-Lückentext
 
-1. **Morgen**  2. **bis**  3. **regnen**  4. **geben**  5. **Wenn**  6. **besser**
+1. **Morgen**  2. **bis**  3. **regnen**  4. **geben**  5. **besser**  6. **Wenn**
 
 ## Übung H4 — Kurze Ansage: Ein Anruf aus Lissabon
 
@@ -140,7 +140,7 @@ Modellantwort:
 > 5. Wann wirst du mit dem Sport anfangen? (Separable verb anfangen: prefix an- goes to the end as anfangen.)
 > 6. Wenn ich morgen Zeit habe, gehe ich ins Kino. (als cannot be used for the future; only wenn.)
 > 7. Du wirst das Buch nicht lesen. (nicht comes before the infinitive, not at the very end.)
-> 8. Wenn ich ein Kind war, hat meine Oma mir Suppe gebracht. (Repeated/habitual past needs wenn. If the sense was a single past period, als would be correct — but the habitual reading here is wenn.)
+> 8. Als ich 2018 nach Berlin kam, hat es geschneit. (One single past event needs als, not wenn.)
 
 ## Übung B3 — Wettervorhersage: Lückentext
 

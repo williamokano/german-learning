@@ -39,8 +39,9 @@ Listen and fill in the 6 missing words. Three words in the box are not needed.
 > (1) ______, am Dienstag, wird es den ganzen Tag sonnig, die
 > Temperatur wird 24 Grad sein. Am Mittwoch wird es wärmer — (2) ______
 > zu 28 Grad. Am Donnerstag wird es leider (3) ______, und am
-> Freitag wird es Gewitter (4) ______. (5) ______ Sie Ausflüge
-> planen — am Wochenende wird das Wetter wieder (6) ______.
+> Freitag wird es Gewitter (4) ______. Am Wochenende wird das Wetter
+> wieder (5) ______: Sonne, 25 Grad, schwacher Wind. (6) ______ Sie Ausflüge
+> planen — Samstag und Sonntag sind die besten Tage.
 
 > (Morgen · bis · regnen · geben · Wenn · besser · wird · werden · Gewitter)
 
@@ -242,7 +243,7 @@ kühler.
 5. Wann wirst du anfangen mit dem Sport?
 6. Als ich morgen Zeit habe, gehe ich ins Kino.
 7. Du wirst das Buch lesen nicht.
-8. Wenn ich ein Kind war, hat meine Oma mir Suppe gebracht.
+8. Wenn ich 2018 nach Berlin kam, hat es geschneit.
 
 
 **Your task:** Each sentence has exactly one mistake. Find it and write the corrected sentence.
@@ -376,7 +377,7 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Annas Pläne für das neue Jahr)
 
-Read „Annas Pläne für das neue Jahr" in lesson.md, section 5. Richtig (R) oder falsch (F)?
+Read „Annas Pläne für das neue Jahr" in lesson.md, section 7. Richtig (R) oder falsch (F)?
 
 1. Anna lebt seit einem Jahr in Berlin. ( )
 2. Anna hat drei Vorsätze für das neue Jahr. ( )

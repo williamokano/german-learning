@@ -81,16 +81,17 @@ exercises:
       {1}, am Dienstag, wird es den ganzen Tag sonnig, die
       Temperatur wird 24 Grad sein. Am Mittwoch wird es wärmer — {2}
       zu 28 Grad. Am Donnerstag wird es leider {3}, und am
-      Freitag wird es Gewitter {4}. {5} Sie Ausflüge
-      planen — am Wochenende wird das Wetter wieder {6}.
+      Freitag wird es Gewitter {4}. Am Wochenende wird das Wetter
+      wieder {5}: Sonne, 25 Grad, schwacher Wind. {6} Sie Ausflüge
+      planen — Samstag und Sonntag sind die besten Tage.
     bank: [Morgen, bis, regnen, geben, Wenn, besser, wird, werden, Gewitter]
     answers:
       "1": Morgen
       "2": bis
       "3": regnen
       "4": geben
-      "5": Wenn
-      "6": besser
+      "5": besser
+      "6": Wenn
 
   - id: H4
     block: H
@@ -467,7 +468,7 @@ exercises:
       5. Wann wirst du anfangen mit dem Sport?
       6. Als ich morgen Zeit habe, gehe ich ins Kino.
       7. Du wirst das Buch lesen nicht.
-      8. Wenn ich ein Kind war, hat meine Oma mir Suppe gebracht.
+      8. Wenn ich 2018 nach Berlin kam, hat es geschneit.
     model: |
       1. Ich werde morgen nach Berlin fliegen. (Doubled werde — only the infinitive goes to the end; werde stays in position 2.)
       2. Wir werden das Buch nicht lesen. (nicht must come before the infinitive, not after werden.)
@@ -476,7 +477,7 @@ exercises:
       5. Wann wirst du mit dem Sport anfangen? (Separable verb anfangen: prefix an- goes to the end as anfangen.)
       6. Wenn ich morgen Zeit habe, gehe ich ins Kino. (als cannot be used for the future; only wenn.)
       7. Du wirst das Buch nicht lesen. (nicht comes before the infinitive, not at the very end.)
-      8. Wenn ich ein Kind war, hat meine Oma mir Suppe gebracht. (Repeated/habitual past needs wenn. If the sense was a single past period, als would be correct — but the habitual reading here is wenn.)
+      8. Als ich 2018 nach Berlin kam, hat es geschneit. (One single past event needs als, not wenn.)
 
   - id: B3
     block: B
@@ -732,7 +733,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 (Annas Pläne für das neue Jahr)"
-    instructions: 'Read „Annas Pläne für das neue Jahr" in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    instructions: 'Read „Annas Pläne für das neue Jahr" in lesson.md, section 7. Richtig (R) oder falsch (F)?'
     items:
       - q: "Anna lebt seit einem Jahr in Berlin."
         answer: false
