@@ -156,8 +156,8 @@ Modellantwort:
 Modellantwort:
 
 > Hallo Tom, also ich finde Tarif B besser als Tarif A — er ist zwar
-> teurer, aber das Datenvolumen ist fünfmal so groß. Wenn du
-> viel streamst oder Videos schaust, ist Tarif B besser für dich.
+> teurer, aber das Datenvolumen ist fünfmal so groß wie bei Tarif A.
+> Wenn du viel streamst oder Videos schaust, ist Tarif B besser für dich.
 > Tarif A ist nur dann günstiger, wenn du wirklich selten das
 > Internet brauchst. Ich würde dir Tarif B empfehlen — er ist am
 > besten für deinen Alltag. LG, [Name]

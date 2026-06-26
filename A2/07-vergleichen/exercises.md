@@ -395,7 +395,7 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 — „Berlin und München — ein Vergleich"
 
-Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?
+Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?
 
 1. Berlin hat mehr Einwohner als München. ( )
 2. Die Gehälter sind in Berlin am höchsten. ( )
@@ -508,4 +508,4 @@ Cross out the word that doesn't fit.
 19. German for "advantage": ______
 20. German for "to compare": ______
 
-_16+ / 20 → Lektion A2/08. Below 16 → redo Block A (A1–A8) and Block B2–B4 tomorrow, then retest D4._
+_16+ / 20 → Lektion A2/08. Below 16 → redo Block A (A1–A11) and Block B (B1–B9) tomorrow, then retest D4._
