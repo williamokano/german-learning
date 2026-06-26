@@ -17,9 +17,9 @@ exercises:
     audio: dialog1_a.mp3
     instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
-      - q: "Bruno bewirbt sich um eine Stelle als IT-Consultant."
+      - q: "Bruno arbeitet zurzeit als IT-Consultant in Berlin."
         answer: true
-        why: "The dialog simulates a job interview for Bruno, who works as IT-Consultant."
+        why: 'Bruno: "Also… ich bin IT-Consultant und … arbeite seit 2024 hier in Berlin."'
       - q: "Pavel hat sich nie für einen Job beworben."
         answer: false
         why: 'Pavel says: "Das dachte ich auch, als ich mich für meinen Barista-Job beworben habe."'
@@ -46,7 +46,7 @@ exercises:
           - { key: b, text: "Für eine Stelle als Projektkoordinatorin." }
           - { key: c, text: "Für eine Stelle als IT-Consultant." }
         answer: b
-        why: 'Frau Weber: "Sie möchten sich als Projektkoordinatorin vorstellen."'
+        why: "Scene description of Dialog B states Anna applies for a Projektkoordinatorin role; the position is also confirmed by Annas Anschreiben (Lesetext §7: 'Bewerbung als Projektkoordinatorin')."
       - q: "Was war Annas letzte Stelle?"
         options:
           - { key: a, text: "Projektkoordinatorin." }
@@ -628,8 +628,8 @@ exercises:
   - id: B8
     block: B
     type: single-choice
-    title: "Leseverstehen: Annas Bewerbungsschreiben (Lesetext Abschnitt 5)"
-    instructions: "Read Annas Bewerbungsschreiben in lesson.md section 5. Choose the correct answer (a, b, or c)."
+    title: "Leseverstehen: Annas Bewerbungsschreiben (Lesetext §7)"
+    instructions: "Read Annas Bewerbungsschreiben in lesson.md section 7. Choose the correct answer (a, b, or c)."
     items:
       - q: "Für welche Stelle bewirbt sich Anna?"
         options:
@@ -810,7 +810,7 @@ exercises:
     block: C
     type: true-false
     title: "Leseverstehen: Annas Anschreiben (Richtig / Falsch)"
-    instructions: "Read Annas Bewerbungsschreiben in lesson.md section 5. Decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Read Annas Bewerbungsschreiben in lesson.md section 7. Decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Anna bewirbt sich für eine Stelle als IT-Consultant."
         answer: false
@@ -818,9 +818,9 @@ exercises:
       - q: "TechVentures GmbH befindet sich in Berlin."
         answer: true
         why: 'The address in the letter reads: "Potsdamer Straße 44, 10785 Berlin."'
-      - q: "Anna hat ihr Masterstudium in Betriebswirtschaft abgeschlossen."
+      - q: "TechVentures GmbH ist für Projekte bekannt, die wirklich einen Unterschied machen."
         answer: true
-        why: '"Ich habe einen Masterabschluss in Betriebswirtschaft."'
+        why: '"weil TechVentures GmbH für Projekte bekannt ist, die wirklich einen Unterschied machen."'
       - q: "Das CRM-System wurde in drei Wochen implementiert."
         answer: false
         why: '"das von unserem Team in nur acht Wochen implementiert wurde" — not three.'
@@ -915,7 +915,7 @@ exercises:
       3. Ich {3} über drei Jahre Berufserfahrung. (verfügen — ich-Form)
       4. Mehrere Projekte {4} von mir koordiniert. (Passiv Präteritum — wurden)
       5. „Mit freundlichen {5}," ist die Standardgrußformel. (Grüße — Dativ Plural)
-      6. Wir suchen jemanden, {6} sofort anfangen kann. (Relativpronomen Akk: den)
+      6. Wir suchen jemanden, {6} sofort anfangen kann. (Relativpronomen Nom. m.: der)
       7. Die Stelle {7} ab Oktober besetzt. (Passiv Präsens: wird)
       8. Bewerben Sie sich {8} zum 30. Juni. (bis)
       9. Die Kündigung {9} eine Frist von vier Wochen. (erfordern — hat)
@@ -931,7 +931,7 @@ exercises:
       "3": verfüge
       "4": wurden
       "5": Grüßen
-      "6": den
+      "6": der
       "7": wird
       "8": bis
       "9": erfordert

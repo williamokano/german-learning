@@ -6,7 +6,7 @@
 
 ## Übung H1a — Dialog Hör-Check: Dialog A (informell)
 
-1. **R** — The dialog simulates a job interview for Bruno, who works as IT-Consultant.
+1. **R** — Bruno: "Also… ich bin IT-Consultant und … arbeite seit 2024 hier in Berlin."
 2. **F** — Pavel says: "Das dachte ich auch, als ich mich für meinen Barista-Job beworben habe."
 3. **R** — Mia: sag „Bachelor of Science in Informatik" — klingt professioneller.
 4. **F** — Bruno says he spends too much time perfecting things — too slow, not too fast.
@@ -14,7 +14,7 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Für eine Stelle als Projektkoordinatorin.** — Frau Weber: "Sie möchten sich als Projektkoordinatorin vorstellen."
+1. **b) Für eine Stelle als Projektkoordinatorin.** — Scene description of Dialog B states Anna applies for a Projektkoordinatorin role; the position is also confirmed by Annas Anschreiben (Lesetext §7: 'Bewerbung als Projektkoordinatorin').
 2. **b) Junior Marketing-Managerin.** — Anna: "Zuletzt war ich als Junior Marketing-Managerin tätig."
 3. **c) 52.000 bis 58.000 Euro brutto.** — Anna: "Meiner Vorstellung nach läge das Gehalt bei etwa 52.000 bis 58.000 Euro brutto jährlich."
 4. **b) Wie ist die Einarbeitung bei Ihnen strukturiert?** — Anna: "wie die Einarbeitung neuer Projektkoordinatorinnen bei Ihnen strukturiert ist."
@@ -131,7 +131,7 @@
 4. **F** — It is expected to have at least one prepared question — having no questions can seem disinterested.
 5. **R** — Correct — e.g.: Bewerbung als Projektkoordinatorin — Ihre Ausschreibung vom 1. Juni 2026.
 
-## Übung B8 — Leseverstehen: Annas Bewerbungsschreiben (Lesetext Abschnitt 5)
+## Übung B8 — Leseverstehen: Annas Bewerbungsschreiben (Lesetext §7)
 
 1. **b) Als Projektkoordinatorin.** — "Betreff: Bewerbung als Projektkoordinatorin."
 2. **c) Mehrere Projekte gleichzeitig.** — "wurden mehrere Projekte gleichzeitig von mir koordiniert."
@@ -186,7 +186,7 @@ Selbstkorrektur:
 
 1. **F** — She applies as Projektkoordinatorin, not IT-Consultant.
 2. **R** — The address in the letter reads: "Potsdamer Straße 44, 10785 Berlin."
-3. **R** — "Ich habe einen Masterabschluss in Betriebswirtschaft."
+3. **R** — "weil TechVentures GmbH für Projekte bekannt ist, die wirklich einen Unterschied machen."
 4. **F** — "das von unserem Team in nur acht Wochen implementiert wurde" — not three.
 5. **R** — "bitte Sie um eine Einladung zum Vorstellungsgespräch."
 
@@ -222,7 +222,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Schnelltest: Arbeitswelt & Grammatik-Wiederholung
 
-1. **bewerbe**  2. **hat**  3. **verfüge**  4. **wurden**  5. **Grüßen**  6. **den**  7. **wird**  8. **bis**  9. **erfordert**  10. **meiner**  11. **Gehaltserhöhung**  12. **läge**  13. **die**  14. **einzusetzen**  15. **meiner**
+1. **bewerbe**  2. **hat**  3. **verfüge**  4. **wurden**  5. **Grüßen**  6. **der**  7. **wird**  8. **bis**  9. **erfordert**  10. **meiner**  11. **Gehaltserhöhung**  12. **läge**  13. **die**  14. **einzusetzen**  15. **meiner**
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
 

@@ -12,7 +12,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
-1. Bruno bewirbt sich um eine Stelle als IT-Consultant. ( )
+1. Bruno arbeitet zurzeit als IT-Consultant in Berlin. ( )
 2. Pavel hat sich nie für einen Job beworben. ( )
 3. Mia empfiehlt Bruno, seine Ausbildung als „Bachelor of Science" zu nennen. ( )
 4. Bruno nennt als Schwäche, dass er zu schnell arbeitet. ( )
@@ -307,9 +307,9 @@ Is each statement about German interview conventions correct? Answer R (richtig)
 4. Wenn man auf die Frage „Haben Sie noch Fragen?" Nein sagt, hinterlässt das immer einen guten Eindruck. ( )
 5. Der Betreff eines Anschreibens nennt die Stelle, um die man sich bewirbt. ( )
 
-## Übung B8 — Leseverstehen: Annas Bewerbungsschreiben (Lesetext Abschnitt 5)
+## Übung B8 — Leseverstehen: Annas Bewerbungsschreiben (Lesetext §7)
 
-Read Annas Bewerbungsschreiben in lesson.md section 5. Choose the correct answer (a, b, or c).
+Read Annas Bewerbungsschreiben in lesson.md section 7. Choose the correct answer (a, b, or c).
 
 1. Für welche Stelle bewirbt sich Anna?  a) Als Marketing-Managerin.  b) Als Projektkoordinatorin.  c) Als IT-Consultant.
 2. Was wurde von Anna in ihrer letzten Stelle koordiniert?  a) Ein neues IT-System.  b) Kundenbewertungen.  c) Mehrere Projekte gleichzeitig.
@@ -391,11 +391,11 @@ Five words are not needed.
 
 ## Übung C4a — Leseverstehen: Annas Anschreiben (Richtig / Falsch)
 
-Read Annas Bewerbungsschreiben in lesson.md section 5. Decide: Richtig (R) oder Falsch (F)?
+Read Annas Bewerbungsschreiben in lesson.md section 7. Decide: Richtig (R) oder Falsch (F)?
 
 1. Anna bewirbt sich für eine Stelle als IT-Consultant. ( )
 2. TechVentures GmbH befindet sich in Berlin. ( )
-3. Anna hat ihr Masterstudium in Betriebswirtschaft abgeschlossen. ( )
+3. TechVentures GmbH ist für Projekte bekannt, die wirklich einen Unterschied machen. ( )
 4. Das CRM-System wurde in drei Wochen implementiert. ( )
 5. Anna bittet um eine Einladung zum Vorstellungsgespräch. ( )
 
@@ -437,7 +437,7 @@ Fill in the correct word or form. Items 12–15 review grammar from B1/03–B1/0
 3. Ich (3) ______ über drei Jahre Berufserfahrung. (verfügen — ich-Form)
 4. Mehrere Projekte (4) ______ von mir koordiniert. (Passiv Präteritum — wurden)
 5. „Mit freundlichen (5) ______," ist die Standardgrußformel. (Grüße — Dativ Plural)
-6. Wir suchen jemanden, (6) ______ sofort anfangen kann. (Relativpronomen Akk: den)
+6. Wir suchen jemanden, (6) ______ sofort anfangen kann. (Relativpronomen Nom. m.: der)
 7. Die Stelle (7) ______ ab Oktober besetzt. (Passiv Präsens: wird)
 8. Bewerben Sie sich (8) ______ zum 30. Juni. (bis)
 9. Die Kündigung (9) ______ eine Frist von vier Wochen. (erfordern — hat)
