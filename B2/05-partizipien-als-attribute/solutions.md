@@ -113,7 +113,7 @@
 Modellantwort:
 
 > 1. das gekochte Ei (passiv, abgeschlossen → Partizip II)
-> 2. die 1990 gegründete Firma (die Firma wurde gegründet → Partizip II; Reihenfolge: Artikel — Ergänzung — Partizip — Nomen)
+> 2. die gegründete Firma (Partizip II statt Partizip I)
 > 3. die steigenden Preise (Plural → Endung -en)
 > 4. ein schlafender Hund (unbest. Art., mask. Nom. → -er)
 > 5. die im Mai eröffnete Ausstellung (passiv → Partizip II)

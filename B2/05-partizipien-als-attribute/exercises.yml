@@ -388,7 +388,7 @@ exercises:
           - { key: b, text: "weinende" }
         answer: a
         why: "Unbestimmter Artikel, Neutrum, Akkusativ → -es: ein weinendes Kind."
-      - q: "Wir sprachen über die ____ Preise. (steigen, Dativ Pl.)"
+      - q: "Wir sprachen über die ____ Preise. (steigen, Akk. Pl.)"
         options:
           - { key: a, text: "gestiegene" }
           - { key: b, text: "gestiegenen" }
@@ -446,7 +446,7 @@ exercises:
     prompt: "Jeder Satz enthält genau einen Fehler (falsches Partizip I/II oder falsche Endung). Finde ihn und schreib den korrigierten Ausdruck."
     stimulus: |
       1. das gekochende Ei (es wurde gekocht)
-      2. die gegründende Firma im Jahr 1990
+      2. die gegründende Firma
       3. die steigende Preise (Plural)
       4. ein schlafende Hund (Nom. m)
       5. die im Mai eröffnende Ausstellung (sie wurde eröffnet)
@@ -455,7 +455,7 @@ exercises:
       8. der gestorbene Künstler (Perfekt mit sein)
     model: |
       1. das gekochte Ei (passiv, abgeschlossen → Partizip II)
-      2. die 1990 gegründete Firma (die Firma wurde gegründet → Partizip II; Reihenfolge: Artikel — Ergänzung — Partizip — Nomen)
+      2. die gegründete Firma (Partizip II statt Partizip I)
       3. die steigenden Preise (Plural → Endung -en)
       4. ein schlafender Hund (unbest. Art., mask. Nom. → -er)
       5. die im Mai eröffnete Ausstellung (passiv → Partizip II)
