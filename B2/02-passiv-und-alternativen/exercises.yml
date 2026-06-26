@@ -41,13 +41,13 @@ exercises:
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
     items:
-      - q: "Was kritisiert Dr. El-Sayed an Hannahs Entwurf?"
+      - q: "Was kritisiert Yusuf an Hannahs Entwurf?"
         options:
           - { key: a, text: "Er enthält fachliche Fehler." }
           - { key: b, text: "Er ist wegen zu vieler Passivformen schwer verständlich." }
           - { key: c, text: "Er ist zu kurz." }
         answer: b
-        why: 'Dr. El-Sayed: „Vor allem an der Häufung des Passivs … schwerfällig."'
+        why: 'Yusuf: „Vor allem an der Häufung des Passivs … schwerfällig."'
       - q: 'Welche Form empfiehlt er für eine Vorschrift („etwas, das getan werden muss")?'
         options:
           - { key: a, text: "sich lassen + Infinitiv" }

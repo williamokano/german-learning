@@ -24,7 +24,7 @@ Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Was kritisiert Dr. El-Sayed an Hannahs Entwurf?  a) Er enthält fachliche Fehler.  b) Er ist wegen zu vieler Passivformen schwer verständlich.  c) Er ist zu kurz.
+1. Was kritisiert Yusuf an Hannahs Entwurf?  a) Er enthält fachliche Fehler.  b) Er ist wegen zu vieler Passivformen schwer verständlich.  c) Er ist zu kurz.
 2. Welche Form empfiehlt er für eine Vorschrift („etwas, das getan werden muss")?  a) sich lassen + Infinitiv  b) ein -bar-Adjektiv  c) sein + zu + Infinitiv
 3. Was ist der Unterschied zwischen „wird veröffentlicht" und „ist veröffentlicht"?  a) „Wird“ ist der Vorgang, „ist“ das Ergebnis.  b) Beides bedeutet genau dasselbe.  c) „Ist veröffentlicht“ ist grammatisch falsch.
 
