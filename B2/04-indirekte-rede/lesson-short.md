@@ -60,7 +60,7 @@ buildsOn:
 
 > **Frau Yilmaz:** Herr Steinmeyer, ich habe Ihren Artikel über die Pressekonferenz gelesen. Inhaltlich gut, aber an einer Stelle müssen wir aufpassen.  
 > **Herr Steinmeyer:** Gern, woran denken Sie?  
-> **Frau Yilmaz:** Sie schreiben: „Die Ministerin senkt die Steuern." Das ist Ihre eigene Behauptung. Sie war aber nur auf der Pressekonferenz und geben wieder, was die Ministerin gesagt hat.  
+> **Frau Yilmaz:** Sie schreiben: „Die Ministerin senkt die Steuern." Das ist Ihre eigene Behauptung. Sie waren aber nur auf der Pressekonferenz und geben wieder, was die Ministerin gesagt hat.  
 > **Herr Steinmeyer:** Sie meinen, ich soll den Konjunktiv I verwenden?  
 > **Frau Yilmaz:** Genau. Schreiben Sie lieber: „Die Ministerin erklärte, sie **senke** die Steuern." So ist klar, dass das ihre Aussage ist und nicht unsere. Wir berichten neutral.  
 > **Herr Steinmeyer:** Verstehe. Und wenn die Form genauso aussieht wie der Indikativ? Hier zum Beispiel: „Die Abgeordneten **fordern** mehr Geld." *Fordern* bleibt *fordern* — da merkt niemand den Konjunktiv.  
