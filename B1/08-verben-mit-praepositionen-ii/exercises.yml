@@ -101,10 +101,10 @@ exercises:
     items:
       - q: "Warum ruft Tomáš an?"
         options:
-          - { key: a, text: "Weil er einen Film empfehlen möchte." }
-          - { key: b, text: "Weil er sich um das nächste Treffen kümmern möchte." }
+          - { key: a, text: "Weil er sich um das nächste Treffen kümmern möchte." }
+          - { key: b, text: "Weil er einen Film empfehlen möchte." }
           - { key: c, text: "Weil er eine Frage zu Pavels Kurs hat." }
-        answer: b
+        answer: a
         why: '"Ich rufe an, weil ich mich darum kümmern möchte, unser nächstes Treffen zu organisieren."'
       - q: "Worüber denkt Tomáš oft nach?"
         options:
@@ -116,16 +116,16 @@ exercises:
       - q: "Wofür interessiert sich Tomáš?"
         options:
           - { key: a, text: "Für ein deutsches Theaterstück." }
-          - { key: b, text: "Für einen neuen tschechischen Film." }
-          - { key: c, text: "Für ein Musikkonzert." }
-        answer: b
+          - { key: b, text: "Für ein Musikkonzert." }
+          - { key: c, text: "Für einen neuen tschechischen Film." }
+        answer: c
         why: '"Ich interessiere mich übrigens sehr für den neuen tschechischen Film."'
       - q: "Wovon ist Tomáš überzeugt?"
         options:
-          - { key: a, text: "Dass Pavel zu viel arbeitet." }
-          - { key: b, text: "Dass der Film ihnen gefallen wird." }
+          - { key: a, text: "Dass der Film ihnen gefallen wird." }
+          - { key: b, text: "Dass Pavel zu viel arbeitet." }
           - { key: c, text: "Dass Mia nicht kommen kann." }
-        answer: b
+        answer: a
         why: '"Ich bin davon überzeugt, dass er uns gefällt."'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
@@ -496,7 +496,7 @@ exercises:
           - { key: c, text: "daran" }
         answer: c
         why: "Thing (Urlaub) → Pronominaladverb: daran."
-      - q: "_____ sprichst du mit Frau Weber? (mit wem oder womit?)"
+      - q: "_____ sprichst du? — Mit Frau Weber. (mit wem oder womit?)"
         options:
           - { key: a, text: "Womit" }
           - { key: b, text: "Mit wem" }
@@ -641,7 +641,7 @@ exercises:
     block: B
     type: gap-text
     layout: list
-    title: "Leseverstehen: Annas Interview (Lesetext §5)"
+    title: "Leseverstehen: Annas Interview (Lesetext §7)"
     instructions: "Answer each question with a full sentence using a Pronominaladverb. 5 items."
     text: |
       1. Worüber hat sich Anna in ihrem ersten Jahr gefreut?
@@ -807,7 +807,7 @@ exercises:
     block: C
     type: true-false
     title: "Leseverstehen: Annas Interview (Richtig / Falsch)"
-    instructions: "Read the Lesetext (lesson.md section 5). Decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Read the Lesetext (lesson.md section 7). Decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Anna arbeitet seit zwei Jahren als Projektkoordinatorin."
         answer: false
@@ -844,10 +844,10 @@ exercises:
     items:
       - q: "Worüber freut sich TechStart Berlin?"
         options:
-          - { key: a, text: "Über eine neue Partnerschaft mit einer ausländischen Firma." }
-          - { key: b, text: "Darüber, die Stelle bekannt zu geben." }
+          - { key: a, text: "Darüber, die Stelle bekannt zu geben." }
+          - { key: b, text: "Über eine neue Partnerschaft mit einer ausländischen Firma." }
           - { key: c, text: "Darüber, dass alle Stellen besetzt sind." }
-        answer: b
+        answer: a
         why: '"TechStart Berlin freut sich darüber, bekannt zu geben, dass …"'
       - q: "Woraus besteht die neue Stelle hauptsächlich?"
         options:
@@ -859,16 +859,16 @@ exercises:
       - q: "Bis wann kann man sich bewerben?"
         options:
           - { key: a, text: "Bis zum 1. Oktober." }
-          - { key: b, text: "Bis zum 15. September." }
-          - { key: c, text: "Bis zum 30. August." }
-        answer: b
+          - { key: b, text: "Bis zum 30. August." }
+          - { key: c, text: "Bis zum 15. September." }
+        answer: c
         why: '"können sich bis zum 15. September darum bewerben."'
       - q: "Worauf verlässt sich TechStart Berlin?"
         options:
-          - { key: a, text: "Darauf, dass alle Bewerberinnen Deutsch können." }
-          - { key: b, text: "Darauf, motivierte Persönlichkeiten zu finden." }
+          - { key: a, text: "Darauf, motivierte Persönlichkeiten zu finden." }
+          - { key: b, text: "Darauf, dass alle Bewerberinnen Deutsch können." }
           - { key: c, text: "Darauf, dass die Stelle schnell besetzt wird." }
-        answer: b
+        answer: a
         why: '"Wir verlassen uns darauf, motivierte Persönlichkeiten zu finden."'
 
   - id: C5
