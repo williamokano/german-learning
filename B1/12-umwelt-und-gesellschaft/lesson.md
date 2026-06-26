@@ -32,7 +32,7 @@ buildsOn:
 >
 > **Builds on:** B1/04 (Passiv — central to news/environment language) ·
 > B1/10 (Zweiteilige Konnektoren — for structured arguments) ·
-> B1/02 (obwohl / trotzdem / deshalb)
+> B1/07 (Genitiv — needed for nominal phrases)
 
 ---
 

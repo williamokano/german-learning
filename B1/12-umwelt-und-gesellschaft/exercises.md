@@ -297,7 +297,7 @@ umfassenden Mobilitätspaket liegt.
 
 ## Übung B7 — Lesetext-Verständnis: Yusufs Gastkommentar
 
-Read the Lesetext (lesson.md section 5) and answer the questions in German. Use full sentences. 5 items.
+Read the Lesetext (lesson.md section 7) and answer the questions in German. Use full sentences. 5 items.
 
 1. Welche europäischen Städte werden im Text als Beispiele genannt?
    → (1) ______
@@ -392,7 +392,7 @@ Five words are not needed.
 
 ## Übung C4a — Leseverstehen: Yusufs Gastkommentar (Richtig / Falsch)
 
-Read the Lesetext (lesson.md section 5). Richtig (R) oder Falsch (F)?
+Read the Lesetext (lesson.md section 7). Richtig (R) oder Falsch (F)?
 
 1. In London, Stockholm und Oslo gibt es bereits Innenstadtmaut-Systeme. ( )
 2. Yusuf ist gegen die Einführung der Citymaut in Berlin. ( )
