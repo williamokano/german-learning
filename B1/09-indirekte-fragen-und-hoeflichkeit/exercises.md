@@ -63,7 +63,7 @@ Listen to the phone message. Then choose the correct answer (a, b, or c).
 
 **Ansage 1 — Transcript**
 
-> Guten Tag, hier ist das Hotel Stadtblick in Wien. Wir rufen an, weil wir eine Frage zu Ihrer Buchungsanfrage haben. Wir möchten wissen, ob Sie ein Zimmer mit Frühstück oder ohne Frühstück wünschen. Außerdem wollten wir fragen, ob Sie mit dem Auto anreisen, da wir wissen müssen, ob wir einen Parkplatz reservieren sollen. Könnten Sie uns bitte bis heute Abend zurückrufen? Unsere Nummer ist null-eins-zwei-drei-vier-fünf-sechs-sieben. Vielen Dank und auf Wiederhören. Bitte ruf mich zurück, wenn du Zeit hast — oder besser gesagt: Bitte rufen Sie uns zurück.
+> Guten Tag, hier ist das Hotel Stadtblick in Wien. Wir rufen an, weil wir eine Frage zu Ihrer Buchungsanfrage haben. Wir möchten wissen, ob Sie ein Zimmer mit Frühstück oder ohne Frühstück wünschen. Außerdem wollten wir fragen, ob Sie mit dem Auto anreisen, da wir wissen müssen, ob wir einen Parkplatz reservieren sollen. Könnten Sie uns bitte bis heute Abend zurückrufen? Unsere Nummer ist null-eins-zwei-drei-vier-fünf-sechs-sieben. Vielen Dank und auf Wiederhören.
 
 </details>
 
@@ -307,7 +307,7 @@ Fill in the 6 gaps in this formal phone conversation.
 
 ## Übung B8 — Leseverstehen: Annas Brief ans Hotel
 
-Read the Lesetext (lesson.md, section 5). Choose the correct answer (a, b, or c).
+Read the Lesetext (lesson.md, section 7). Choose the correct answer (a, b, or c).
 
 1. Was möchte Anna zuerst wissen?  a) Ob das Hotel einen Pool hat.  b) Ob noch Zimmer für ihren Zeitraum frei sind.  c) Wie viel die Reise nach Wien kostet.
 2. Warum fragt Anna nach einem Fahrrad?  a) Weil sie kein Auto hat.  b) Weil sie das Fahrrad günstig findet.  c) Weil sie nicht sicher ist, ob ein Fahrrad für das Stadtzentrum sinnvoll wäre.
@@ -376,13 +376,13 @@ Fill the 10 gaps. Five words are not needed.
 > noch, (8) ______ sie den Termin verschieben (9) ______. Der Mitarbeiter sagt, das
 > sei kein Problem. Anna bedankt sich höflich und sagt: „Das (10) ______ sehr nett."
 
-> DARF · ERKLÄRT · HÄTTE · INBEGRIFFEN · KÖNNTE · NICHT · OB · OB · OB · SCHREIBT · SIND · WÄRE · WIE · WISSEN · WÜRDE
+> ERKLÄRT · HÄTTE · INBEGRIFFEN · KÖNNTE · NICHT · OB · OB · OB · SCHREIBT · SIND · WÄRE · WENN · WIE · WISSEN · WÜRDE
 
 Five words are not needed.
 
 ## Übung C4a — Leseverstehen: Annas Brief ans Hotel (Richtig / Falsch)
 
-Read the Lesetext (lesson.md section 5). Decide: Richtig (R) oder Falsch (F)?
+Read the Lesetext (lesson.md section 7). Decide: Richtig (R) oder Falsch (F)?
 
 1. Anna möchte ein Doppelzimmer buchen. ( )
 2. Anna fragt, ob das Frühstück inbegriffen ist. ( )
@@ -430,7 +430,7 @@ Fill in the correct word or form. Items 12–15 review earlier topics: B1/03 (Ko
 5. Ich hätte (5) ______ einen Kaffee, bitte. (gern)
 6. (6) ______ Sie mir erklären, was das bedeutet? (polite: Würden)
 7. Es ist unklar, (7) ______ ich persönlich kommen muss. (yes/no → ob)
-8. Wären Sie mir (8) ______, wenn Sie mir das erklären könnten. (sehr dankbar)
+8. Ich wäre Ihnen (8) ______, wenn Sie mir das erklären könnten. (sehr dankbar)
 9. Am Telefon: „(9) ______ spricht Anna Kowalski." (Hier)
 10. Am Ende des Telefonats: „Auf (10) ______." (Wiederhören)
 11. Könnten Sie das bitte (11) ______? (wiederholen)
@@ -464,7 +464,7 @@ B1/03 — Konjunktiv II:
 B1/08 — Verben mit Präpositionen II:
 6. Anna freut sich (6) ______ die baldige Antwort. (auf)
 7. Er wartet (7) ______ die Bestätigung. (auf)
-8. Ich frage mich, ob sie (8) ______ dem Problem nachgedacht hat. (über — nachdenken über)
+8. Ich frage mich, ob sie (8) ______ das Problem nachgedacht hat. (über — nachdenken über)
 9. Bruno beschwert sich (9) ______ die langen Wartezeiten. (über)
 10. Sie interessiert sich (10) ______ den B2-Kurs. (für)
 

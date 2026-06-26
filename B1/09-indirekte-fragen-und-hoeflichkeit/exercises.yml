@@ -98,7 +98,7 @@ exercises:
     title: "Kurze Ansage: Hotelreservierung per Telefon"
     audio: transcript_ansage1.mp3
     instructions: "Listen to the phone message. Then choose the correct answer (a, b, or c)."
-    transcript: "Guten Tag, hier ist das Hotel Stadtblick in Wien. Wir rufen an, weil wir eine Frage zu Ihrer Buchungsanfrage haben. Wir möchten wissen, ob Sie ein Zimmer mit Frühstück oder ohne Frühstück wünschen. Außerdem wollten wir fragen, ob Sie mit dem Auto anreisen, da wir wissen müssen, ob wir einen Parkplatz reservieren sollen. Könnten Sie uns bitte bis heute Abend zurückrufen? Unsere Nummer ist null-eins-zwei-drei-vier-fünf-sechs-sieben. Vielen Dank und auf Wiederhören. Bitte ruf mich zurück, wenn du Zeit hast — oder besser gesagt: Bitte rufen Sie uns zurück."
+    transcript: "Guten Tag, hier ist das Hotel Stadtblick in Wien. Wir rufen an, weil wir eine Frage zu Ihrer Buchungsanfrage haben. Wir möchten wissen, ob Sie ein Zimmer mit Frühstück oder ohne Frühstück wünschen. Außerdem wollten wir fragen, ob Sie mit dem Auto anreisen, da wir wissen müssen, ob wir einen Parkplatz reservieren sollen. Könnten Sie uns bitte bis heute Abend zurückrufen? Unsere Nummer ist null-eins-zwei-drei-vier-fünf-sechs-sieben. Vielen Dank und auf Wiederhören."
     items:
       - q: "Warum ruft das Hotel an?"
         options:
@@ -587,7 +587,7 @@ exercises:
     block: B
     type: single-choice
     title: "Leseverstehen: Annas Brief ans Hotel"
-    instructions: "Read the Lesetext (lesson.md, section 5). Choose the correct answer (a, b, or c)."
+    instructions: "Read the Lesetext (lesson.md, section 7). Choose the correct answer (a, b, or c)."
     items:
       - q: "Was möchte Anna zuerst wissen?"
         options:
@@ -732,7 +732,7 @@ exercises:
       erklärt, dass das Frühstück {7} im Preis ist. Am Ende fragt Anna
       noch, {8} sie den Termin verschieben {9}. Der Mitarbeiter sagt, das
       sei kein Problem. Anna bedankt sich höflich und sagt: „Das {10} sehr nett."
-    bank: [OB, SIND, WISSEN, ERKLÄRT, HÄTTE, OB, NICHT, INBEGRIFFEN, OB, KÖNNTE, WÄRE, WÜRDE, WIE, SCHREIBT, DARF]
+    bank: [OB, SIND, WISSEN, ERKLÄRT, HÄTTE, OB, NICHT, INBEGRIFFEN, OB, KÖNNTE, WÄRE, WÜRDE, WIE, SCHREIBT, WENN]
     answers:
       "1": OB
       "2": SIND
@@ -749,7 +749,7 @@ exercises:
     block: C
     type: true-false
     title: "Leseverstehen: Annas Brief ans Hotel (Richtig / Falsch)"
-    instructions: "Read the Lesetext (lesson.md section 5). Decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Read the Lesetext (lesson.md section 7). Decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Anna möchte ein Doppelzimmer buchen."
         answer: false
@@ -860,7 +860,7 @@ exercises:
       5. Ich hätte {5} einen Kaffee, bitte. (gern)
       6. {6} Sie mir erklären, was das bedeutet? (polite: Würden)
       7. Es ist unklar, {7} ich persönlich kommen muss. (yes/no → ob)
-      8. Wären Sie mir {8}, wenn Sie mir das erklären könnten. (sehr dankbar)
+      8. Ich wäre Ihnen {8}, wenn Sie mir das erklären könnten. (sehr dankbar)
       9. Am Telefon: „{9} spricht Anna Kowalski." (Hier)
       10. Am Ende des Telefonats: „Auf {10}." (Wiederhören)
       11. Könnten Sie das bitte {11}? (wiederholen)
@@ -927,7 +927,7 @@ exercises:
       B1/08 — Verben mit Präpositionen II:
       6. Anna freut sich {6} die baldige Antwort. (auf)
       7. Er wartet {7} die Bestätigung. (auf)
-      8. Ich frage mich, ob sie {8} dem Problem nachgedacht hat. (über — nachdenken über)
+      8. Ich frage mich, ob sie {8} das Problem nachgedacht hat. (über — nachdenken über)
       9. Bruno beschwert sich {9} die langen Wartezeiten. (über)
       10. Sie interessiert sich {10} den B2-Kurs. (für)
     answers:
