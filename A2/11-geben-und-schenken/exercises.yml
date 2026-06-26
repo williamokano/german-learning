@@ -776,7 +776,7 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 (Annas Geschenk für Lisa)"
-    instructions: 'Read „Annas Geschenk für Lisa" in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    instructions: 'Read „Annas Geschenk für Lisa" in lesson.md, section 7. Richtig (R) oder falsch (F)?'
     items:
       - q: "Anna möchte ihrer Schwester ein Geschenk kaufen."
         answer: false

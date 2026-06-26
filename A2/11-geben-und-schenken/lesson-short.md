@@ -348,7 +348,7 @@ A few sounds and patterns to watch in the new vocabulary:
 - **sch** in *Geschenk, schenken, schicken, schön* — always /ʃ/ like English "sh": `geh-SHEnk`, `SHEN-ken`.
 - **ch** in *Geschenke, möchte, Bücher* — soft "ich-sound" after `e`, `i`, `ö`, `ü`, consonants: `geh-SHEN-kuh`.
 - **eu** in *Freude, Freund, neu* — always /ɔɪ/ like English "oy": `FROY-duh`.
-- **ei** in *schenken, zeigen, schreiben, empfehlen* — always /aɪ/ like English "eye": `SHEN-ken`, `TSY-gen`.
+- **ei** in *zeigen, schreiben, leihen, schreibt, empfiehlt* — always /aɪ/ like English "eye": `TSY-gen`, `SHRY-ben`.
 - **umlauts in verbs** *empfiehlt, schickt, gibt, bringt* — note the short vowel sound in the stem, especially the `e → i` / `e → ie` shifts.
 - **Stress on compounds** *GE-schenk, GEB-tags-tag, MIT-bring-en* — usually the first element is stressed, but for trennbare Verben the stress falls on the prefix (mitspielen, einpacken).
 - **The verb `schenken`** sounds almost identical to `Schinken` (ham) — context matters!
