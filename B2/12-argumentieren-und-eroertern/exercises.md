@@ -146,7 +146,7 @@ Setze den passenden Konnektor ein (obwohl / dennoch / je … desto / indem / sof
 1. ______ viele Beschäftigte Homeoffice wünschen, bleiben die meisten im Büro.
 2. Die Erfahrungen sind zwar gemischt, ______ überwiegen die positiven Berichte.
 3. ______ länger die Beschäftigten im Homeoffice arbeiten, ______ besser organisieren sie sich.
-5. ______ klare Regeln bestehen, ist Homeoffice sinnvoll.
+4. ______ klare Regeln bestehen, ist Homeoffice sinnvoll.
 
 ## Übung A8 — Pro oder Contra?
 
@@ -508,26 +508,26 @@ Wiederholung früherer Lektionen. 10 Items.
 **Redemittel der Stellungnahme:**
 5. Klare Position formell: „______, dass …"
 6. Gegenüberstellung: „______ …, ______ …"
-8. Fazit: „______ lässt sich sagen, dass …"
-9. Widerlegung: „Diesem Argument ______ entgegenzuhalten, dass …"
+7. Fazit: „______ lässt sich sagen, dass …"
+8. Widerlegung: „Diesem Argument ______ entgegenzuhalten, dass …"
 
 **Zweiteilige Konnektoren:**
-10. „Nicht nur …, ______ auch …"
-11. „______ …, ______ …" (= entweder … oder)
-12. „Zwar …, ______"
+9. „Nicht nur …, ______ auch …"
+10. „______ …, ______ …" (= entweder … oder)
+11. „Zwar …, ______"
 
 **Konnektoren aus B2/07:**
-13. „______ viele Beschäftigte Homeoffice wünschen, bleiben die meisten im Büro."
-14. „Je mehr Homeoffice, ______ besser organisieren sich die Beschäftigten."
+12. „______ viele Beschäftigte Homeoffice wünschen, bleiben die meisten im Büro."
+13. „Je mehr Homeoffice, ______ besser organisieren sich die Beschäftigten."
 
 **Wortstellung:**
-15. „______ ist Homeoffice praktisch, ______ es ersetzt nicht den Kontakt."
+14. „______ ist Homeoffice praktisch, ______ es ersetzt nicht den Kontakt."
 
 **Umformen:**
-16. „Homeoffice spart Zeit." → „Es ______ für Homeoffice, dass die Konzentration steigt."
-17. „Ich finde Homeoffice gut." → „______ bin der Ansicht, dass Homeoffice gut ist."
+15. „Homeoffice spart Zeit." → „Es ______ für Homeoffice, dass die Konzentration steigt."
+16. „Ich finde Homeoffice gut." → „______ bin der Ansicht, dass Homeoffice gut ist."
 
 **Wiederholung:**
-18. (B2/08) Funktionsverb zu „eine Frage …": ______
+17. (B2/08) Funktionsverb zu „eine Frage …": ______
 
 _16+ / 20 → Lektion B2/13. Unter 16 → wiederhol morgen Block A (A1–A6) und Block B (B1–B3), dann mach D4 noch einmal._
