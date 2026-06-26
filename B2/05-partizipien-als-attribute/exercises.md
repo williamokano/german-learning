@@ -187,7 +187,7 @@ Löse das Partizipialattribut in einen Relativsatz auf. Schreib den ganzen Relat
 Wähle die korrekte Adjektivendung am Partizip. 5 Items.
 
 1. Ich sah ein ____ Kind. (weinen, Akk. n)  a) weinendes  b) weinende
-2. Wir sprachen über die ____ Preise. (steigen, Dativ Pl.)  a) gestiegene  b) gestiegenen
+2. Wir sprachen über die ____ Preise. (steigen, Akk. Pl.)  a) gestiegene  b) gestiegenen
 3. Ein ____ Hund störte uns. (bellen, Nom. m)  a) bellender  b) bellende
 4. Die Galerie zeigt die ____ Werke. (verkaufen, Akk. Pl.)  a) verkauften  b) verkaufte
 5. Sie half dem ____ Baby. (schreien, Dativ n)  a) schreiende  b) schreienden
@@ -213,7 +213,7 @@ Fülle die 8 Lücken mit dem passenden Partizipialattribut (richtige Form). Vier
 ## Übung B2 — Finde den Fehler
 
 > 1. das gekochende Ei (es wurde gekocht)
-2. die gegründende Firma im Jahr 1990
+2. die gegründende Firma
 3. die steigende Preise (Plural)
 4. ein schlafende Hund (Nom. m)
 5. die im Mai eröffnende Ausstellung (sie wurde eröffnet)
