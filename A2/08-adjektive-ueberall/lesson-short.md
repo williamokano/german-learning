@@ -208,9 +208,8 @@ Use the **weak** endings after: `der / die / das / die (pl.)` — and after `die
 > | Nom | -**e** | -**e** | -**e** | -**en** |
 > | Akk | -**en** | -**e** | -**e** | -**en** |
 > | Dat | -**en** | -**en** | -**en** | -**en** |
-> | Gen | -**en** | -**en** | -**en** | -**en** |
 > 
-> ▶ Rule of thumb: almost always **-en**, except Nom sg. all genders + Akk Fem/Neut = **-e**.
+> ▶ Rule of thumb: almost always **-en**, except Nom sg. all genders + Akk Fem/Neut = **-e**. (Genitive endings are B1/07 scope.)
 
 ---
 
@@ -250,9 +249,8 @@ Use the **mixed** endings after: `ein / eine / ein`, `kein / keine / kein`, and 
 > | Nom | -**er** | -**e** | -**es** | -**en** |
 > | Akk | -**en** | -**e** | -**es** | -**en** |
 > | Dat | -**en** | -**en** | -**en** | -**en** |
-> | Gen | -**en** | -**en** | -**en** | -**en** |
 > 
-> ▶ Only Nom Masc (-**er**) and Nom/Akk Neut (-**es**) differ from weak. All else = -**en** or -**e** (Fem).
+> ▶ Only Nom Masc (-**er**) and Nom/Akk Neut (-**es**) differ from weak. All else = -**en** or -**e** (Fem). (Genitive endings are B1/07 scope.)
 
 ---
 
