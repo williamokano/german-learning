@@ -16,7 +16,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 2. Lukas schlägt vor, sowohl in Berlin zu bleiben als auch umzuziehen. ( )
 3. Yusuf sagt, er spricht nicht nur als Berliner, sondern auch als jemand, der in Kairo gelebt hat. ( )
 4. Mia ist bereit, ihr Netzwerk aufzugeben, wenn die Mieten weiter steigen. ( )
-5. Yusuf empfiehlt, sowohl rationale als auch emotionale Argumente aufzuschreiben. ( )
+5. Lukas empfiehlt, sowohl rationale als auch emotionale Argumente aufzuschreiben. ( )
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
@@ -214,7 +214,7 @@ Fill in the 8 blanks with the correct two-part connector words. Context: Mia and
 
 — Mia, was spricht für Berlin?
 — (1) ______ das kulturelle Angebot (2) ______ die Jobmöglichkeiten sind hier unschlagbar.
-  Das sage ich (3) ______ als Marketingmanagerin, (4) ______ als jemand, der diese Stadt liebt.
+  Das sage ich (3) ______ als Berlinerin, (4) ______ als jemand, der diese Stadt liebt.
 — Und was dagegen?
 — Die Mieten sind (5) ______ gestiegen, (6) ______ die Qualität vieler Wohnungen ist gesunken.
   Das nervt mich (7) ______ wirklich, (8) ______ ich bin noch nicht bereit wegzugehen.
@@ -294,7 +294,7 @@ in beidem.
 
 ## Übung B8 — Leseverstehen: Zwei Seiten einer Stadt (Lesetext)
 
-Read the Lesetext in lesson.md, section 5. Choose the correct answer (a, b, or c).
+Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c).
 
 1. Was sagt Lukas über Berlin?  a) Er liebt Berlin und sieht nur die Vorteile.  b) Er sieht sowohl die Vorzüge als auch die Schattenseiten.  c) Er möchte sofort nach Leipzig umziehen.
 2. Was meint Mia mit „Entweder-oder-Denken hilft hier nicht"?  a) Man muss sich zwischen Berlin und einer Kleinstadt entscheiden.  b) Man kann Berlin sowohl lieben als auch kritisch sehen — beides gleichzeitig.  c) Entweder man zieht weg, oder man hört auf zu klagen.
@@ -368,7 +368,7 @@ Five words are not needed.
 
 ## Übung C4a — Leseverstehen: Zwei Seiten einer Stadt — Richtig / Falsch
 
-Read the Lesetext (lesson.md section 5). Decide: Richtig (R) oder Falsch (F)?
+Read the Lesetext (lesson.md section 7). Decide: Richtig (R) oder Falsch (F)?
 
 1. Lukas sieht nur die positiven Seiten Berlins. ( )
 2. Mia findet, dass man Berlin entweder bedingungslos liebt oder die Realität sieht — nicht beides. ( )
@@ -457,7 +457,7 @@ B1/03 — Konjunktiv II (L3):
 
 ## Übung D4 — Selbsttest: Zweiteilige Konnektoren (20 Punkte)
 
-Fill in the correct connector word or phrase. 1 point per gap. 20 items.
+Fill in the correct connector word or phrase. 1 point per gap. 20 gaps across 12 items.
 
 1. Er spricht (1) ______ Deutsch (2) ______ Englisch. (sowohl … als auch)
 2. Das Angebot ist (3) ______ günstig, (4) ______ die Qualität fehlt. (zwar … aber)
