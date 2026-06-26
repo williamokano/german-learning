@@ -380,8 +380,8 @@ Spelling: adjectives ending in **-t, -d, -s, -ß, -z** add an extra **-e-**: *am
 > Eine Wohnung kostet in München fast doppelt so viel wie in Berlin.
 >
 > Dafür hat Berlin mehr Museen, Clubs und Grünflächen. Viele junge Menschen finden
-> Berlin cooler und interessanter als München. Touristen sagen oft, Berlin sei die
-> aufregendste Hauptstadt Europas — ob das stimmt, ist natürlich Geschmackssache.
+> Berlin cooler und interessanter als München. Viele Touristen finden Berlin
+> die aufregendste Hauptstadt Europas — ob das stimmt, ist natürlich Geschmackssache.
 >
 > Das Wetter ist in beiden Städten ähnlich, aber München ist im Winter etwas kälter
 > als Berlin. Dafür ist die Luft in München klarer als in der Hauptstadt.
