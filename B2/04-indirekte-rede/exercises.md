@@ -427,8 +427,8 @@ Wiederholung früherer Lektionen. 10 Items.
 6. „Wenn ich Zeit ______ (haben), würde ich kommen."
 
 **Aus B2/03 (Konjunktiv II der Vergangenheit):**
-7. „Ich ______ das nicht gesagt." (Vorwurf, Konjunktiv II der Vergangenheit von haben): ______
-8. „Du ______ früher kommen sollen." (Konjunktiv II der Vergangenheit von haben): ______
+7. „Ich ____ das nicht gesagt." (Vorwurf, Konjunktiv II der Vergangenheit von haben, 1. Sg.): ______
+8. „Du ____ früher kommen sollen." (Konjunktiv II der Vergangenheit von haben, 2. Sg.): ______
 
 ## Übung D4 — Selbsttest (bewerte dich /20)
 
@@ -459,7 +459,7 @@ Wiederholung früherer Lektionen. 10 Items.
 14. „Die Preise steigen." → Man sagt, die Preise ____. (Plural, ausweichen) ______
 
 **Wiederholung:**
-15. (B1/09) „Ist der Laden offen?" → Ich frage mich, ____ der Laden offen ist. ______
+15. (B1/09) „Ist der Laden offen?" → Ich frage mich, ______ der Laden offen ist.
 16. (B1/03) Konjunktiv II von kommen, sie (Pl.): ______
 17. (B2/03) Konjunktiv II der Vergangenheit von sein, er: ______ gegangen
 18. (B2/01) Verb zu „die Prüfung": ______

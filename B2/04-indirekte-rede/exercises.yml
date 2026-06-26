@@ -825,8 +825,8 @@ exercises:
       6. „Wenn ich Zeit {8} (haben), würde ich kommen."
 
       **Aus B2/03 (Konjunktiv II der Vergangenheit):**
-      7. „Ich {9} das nicht gesagt." (Vorwurf, Konjunktiv II der Vergangenheit von haben): {9}
-      8. „Du {10} früher kommen sollen." (Konjunktiv II der Vergangenheit von haben): {10}
+      7. „Ich ____ das nicht gesagt." (Vorwurf, Konjunktiv II der Vergangenheit von haben, 1. Sg.): {9}
+      8. „Du ____ früher kommen sollen." (Konjunktiv II der Vergangenheit von haben, 2. Sg.): {10}
     answers:
       "1": "ob"
       "2": "ist"
@@ -873,7 +873,7 @@ exercises:
       14. „Die Preise steigen." → Man sagt, die Preise ____. (Plural, ausweichen) {14}
 
       **Wiederholung:**
-      15. (B1/09) „Ist der Laden offen?" → Ich frage mich, ____ der Laden offen ist. {15}
+      15. (B1/09) „Ist der Laden offen?" → Ich frage mich, {15} der Laden offen ist.
       16. (B1/03) Konjunktiv II von kommen, sie (Pl.): {16}
       17. (B2/03) Konjunktiv II der Vergangenheit von sein, er: {17} gegangen
       18. (B2/01) Verb zu „die Prüfung": {18}
