@@ -29,9 +29,9 @@ exercises:
       - q: "Mia ist bereit, ihr Netzwerk aufzugeben, wenn die Mieten weiter steigen."
         answer: false
         why: 'Mia: "Ich bin weder bereit, mein Netzwerk aufzugeben, noch will ich von vorne anfangen."'
-      - q: "Yusuf empfiehlt, sowohl rationale als auch emotionale Argumente aufzuschreiben."
+      - q: "Lukas empfiehlt, sowohl rationale als auch emotionale Argumente aufzuschreiben."
         answer: true
-        why: 'Yusuf + Lukas: "Wir sollten sowohl die rationalen als auch die emotionalen Argumente aufschreiben."'
+        why: 'Lukas: "Wir sollten sowohl die rationalen als auch die emotionalen Argumente aufschreiben."'
 
   - id: H1b
     block: H
@@ -465,7 +465,7 @@ exercises:
     text: |
       — Mia, was spricht für Berlin?
       — {1} das kulturelle Angebot {2} die Jobmöglichkeiten sind hier unschlagbar.
-        Das sage ich {3} als Marketingmanagerin, {4} als jemand, der diese Stadt liebt.
+        Das sage ich {3} als Berlinerin, {4} als jemand, der diese Stadt liebt.
       — Und was dagegen?
       — Die Mieten sind {5} gestiegen, {6} die Qualität vieler Wohnungen ist gesunken.
         Das nervt mich {7} wirklich, {8} ich bin noch nicht bereit wegzugehen.
@@ -645,12 +645,25 @@ exercises:
       "6": aber
       "7": nicht nur
       "8": sondern auch
+    alts:
+      "3":
+        - word: nicht nur
+          note: "Both `sowohl … als auch` (neutral addition) and `nicht nur … sondern auch` (emphasised addition) fit here; the gap text without a comma before gap 4 makes `sowohl` the more natural fit."
+      "4":
+        - word: sondern auch
+          note: "See note for gap 3 — the paired connector is `sondern auch` if `nicht nur` is chosen for gap 3."
+      "7":
+        - word: sowohl
+          note: "Both `nicht nur … sondern auch` and `sowohl … als auch` fit here; the surrounding `wahrscheinlich in beidem` supports either reading."
+      "8":
+        - word: als auch
+          note: "See note for gap 7 — the paired connector is `als auch` if `sowohl` is chosen for gap 7."
 
   - id: B8
     block: B
     type: single-choice
     title: "Leseverstehen: Zwei Seiten einer Stadt (Lesetext)"
-    instructions: "Read the Lesetext in lesson.md, section 5. Choose the correct answer (a, b, or c)."
+    instructions: "Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c)."
     items:
       - q: "Was sagt Lukas über Berlin?"
         options:
@@ -815,12 +828,25 @@ exercises:
       "8": NOCH
       "9": NICHT NUR
       "10": SONDERN AUCH
+    alts:
+      "3":
+        - word: NICHT NUR
+          note: "Both `sowohl … als auch` (neutral addition) and `nicht nur … sondern auch` (emphasised addition) fit here; the gap text without a comma before gap 4 makes `sowohl` the more natural fit."
+      "4":
+        - word: SONDERN AUCH
+          note: "See note for gap 3 — the paired connector is `sondern auch` if `nicht nur` is chosen for gap 3."
+      "9":
+        - word: SOWOHL
+          note: "Both `nicht nur … sondern auch` (emphasised) and `sowohl … als auch` (neutral addition) fit here; the surrounding text — `wahrscheinlich in beidem` — supports both interpretations."
+      "10":
+        - word: ALS AUCH
+          note: "See note for gap 9 — the paired connector is `als auch` if `sowohl` is chosen for gap 9."
 
   - id: C4a
     block: C
     type: true-false
     title: "Leseverstehen: Zwei Seiten einer Stadt — Richtig / Falsch"
-    instructions: "Read the Lesetext (lesson.md section 5). Decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Read the Lesetext (lesson.md section 7). Decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Lukas sieht nur die positiven Seiten Berlins."
         answer: false
@@ -1012,7 +1038,7 @@ exercises:
     type: gap-text
     layout: list
     title: "Selbsttest: Zweiteilige Konnektoren (20 Punkte)"
-    instructions: "Fill in the correct connector word or phrase. 1 point per gap. 20 items."
+    instructions: "Fill in the correct connector word or phrase. 1 point per gap. 20 gaps across 12 items."
     notes: "16+ / 20 → proceed to B1/11. Below 16: redo Block A1–A9 the next day, then retest D4."
     text: |
       1. Er spricht {1} Deutsch {2} Englisch. (sowohl … als auch)

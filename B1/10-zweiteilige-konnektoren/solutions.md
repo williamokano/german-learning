@@ -10,7 +10,7 @@
 2. **F** — Lukas presents it as an either/or choice: either stay and accept the rents, or move.
 3. **R** — Yusuf: "Ich sage das nicht nur als Berliner, sondern auch als jemand, der mal in Kairo gelebt hat."
 4. **F** — Mia: "Ich bin weder bereit, mein Netzwerk aufzugeben, noch will ich von vorne anfangen."
-5. **R** — Yusuf + Lukas: "Wir sollten sowohl die rationalen als auch die emotionalen Argumente aufschreiben."
+5. **R** — Lukas: "Wir sollten sowohl die rationalen als auch die emotionalen Argumente aufschreiben."
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
