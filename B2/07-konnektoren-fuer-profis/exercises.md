@@ -255,7 +255,7 @@ Ordne jedem Nebensatz (1–6) den passenden Hauptsatz (a–f) zu.
 
 ## Übung B5 — Dialog ergänzen: der Sprachabend
 
-Füll die 8 Lücken mit dem passenden Konnektor. Zwei Wörter sind zu viel.
+Füll die 8 Lücken mit dem passenden Konnektor. Ein Wort ist zu viel.
 
 > — Ich komme nicht voran. (1) ______ länger ich lerne, (2) ______ weniger spreche ich.
 > — Das ändert sich, (3) ______ du einfach mehr redest. Komm doch zum Sprachabend!
@@ -265,7 +265,7 @@ Füll die 8 Lücken mit dem passenden Konnektor. Zwei Wörter sind zu viel.
 > — Super. Wir treffen uns Freitag, (7) ______, du hast schon etwas vor.
 > — Nein, Freitag passt. (8) ______ des vollen Terminkalenders nehme ich mir die Zeit.
 
-> (Je · desto · indem · Falls · sodass · Obwohl · es sei denn · Trotz · sofern · weil)
+> (Je · desto · indem · Falls · sodass · Obwohl · es sei denn · Trotz · weil)
 
 ## Übung B6 — Satzbau: indem, sodass, falls, es sei denn
 
@@ -358,7 +358,7 @@ Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Je
 > doch (einschränken). (9) ______ des hohen Aufwands lohnt sich das tägliche Üben (Gegensatz,
 > nominal). Üb also jeden Tag — (10) ______, du brauchst gerade eine kurze Pause (Ausnahme)."
 
-> ABER · DAMIT · DENNOCH · DESTO · ES SEI DENN · FALLS · INDEM · JE · OBWOHL · SODASS · SOFERN · TROTZ · UMSO · WEIL · ZWAR
+> ABER · DENNOCH · DESTO · ES SEI DENN · FALLS · HINGEGEN · INDEM · JE · NÄMLICH · OBWOHL · SODASS · TROTZ · WÄHREND · WEIL · ZWAR
 
 Five words are not needed.
 
