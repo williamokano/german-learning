@@ -120,3 +120,31 @@ When a pattern affects 5+ lessons, consider promoting it to `common-pitfalls.md`
 - **A2:** Order exercise with subordinate clause but verb not at end — verb position error
 - **B1:** Two-part connector with only one gap — needs TWO gaps
 - **B2:** Konjunktiv I 1st/3rd sg indistinguishable from Indikativ — pedagogical gap (use 3rd pl)
+
+## 2026-06-26 — A2 review run (8 lessons): 4 new patterns captured
+
+Below are the new patterns flagged by the A2/07–14 review run. Each is currently a single instance; promote to `common-pitfalls.md` if they recur in 5+ lessons.
+
+### A2 gap-text answer form for two-way prepositions
+
+- **Affected:** A2/10 (A1 #7–10, A3 #6, #10 — six gaps in the same lesson)
+- **Pattern:** the gap answer form depends on whether the prompt's noun already carries an article. Noun **without** article (`Stadt`, `Fluss`) → answer is `prep + article` (`in der`, `am`). Noun **with** article (`die Schweiz`, `den USA`) → answer is just the preposition (`in`, `aus`). Getting this wrong produces doubled articles (`in die die Schweiz`) or bare prepositions (`in` alone for `in Stadt`).
+- **Fix:** for each gap, read the prompt's noun; if the noun has no article, the gap is `prep+article`; if it has one, the gap is prep-only. Cross-check every gap before running `gen-exercises`.
+
+### A2 free-write cue form for 1st-sg `möchte`
+
+- **Affected:** A2/10 A10 #4 cue
+- **Pattern:** free-write `cue:` listed `ich / möchten / reservieren / ein Zimmer`. `möchten` is a 1st-sg form only at first glance — it's actually the Konjunktiv II 1st-sg `möchte` (Präteritum-Ersatz), not an infinitive. The 1st-sg cue form is `möchte`, not `möchten`. (In `order` exercises, `möchten` is correct as a modal infinitive in the Satzklammer slot; the issue is only in `free-write` `cue:` lists where conjugation is implied.)
+- **Fix:** use the conjugated form in free-write cues: `ich / möchte / reservieren / ein Zimmer`.
+
+### H3 gap positions must follow audio transcript order
+
+- **Affected:** A2/12 H3
+- **Pattern:** `gap-text` gap positions chosen so the printed text reads naturally, but in a different order from the audio. Learner hears `besser` then `Wenn` later, but the printed gap text puts `Wenn` before `besser` — confusing during listening and producing wrong partial-credit scoring when students answer out of order.
+- **Fix:** author gap positions in the same order as the words appear in the audio (= `lesson.md` §Hörtext transcript, the audio source). Canonical approach: author the gap text FROM the transcript and keep gaps in source order.
+
+### Find-the-error stimulus must contain a real error
+
+- **Affected:** A2/12 B2 #8
+- **Pattern:** stimulus sentence `Wenn ich ein Kind war, hat meine Oma mir Suppe gebracht.` had no clear error and the model returned the IDENTICAL sentence, contradicting the exercise prompt "Each sentence has exactly one mistake." A "habitual reading" rationalisation doesn't actually fix anything.
+- **Fix:** the stimulus must contain a genuine, identifiable error; the model must return a different, corrected sentence. When the exercise tests a specific rule (e.g. `als` vs `wenn`), choose a stimulus where the wrong form is unambiguous (e.g. `Wenn ich 2018 nach Berlin **kam**, hat es geschneit.` → `Als ich 2018 nach Berlin kam, hat es geschneit.` — clear single-past → `als`).
