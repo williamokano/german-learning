@@ -223,11 +223,11 @@ Selbstkorrektur:
 
 ## Übung D3 — Rückblick — B1/05 (Relativsätze) + B1/04 (Passiv)
 
-1. **das**  2. **deren**  3. **dem**  4. **wurde**  5. **sind**  6. **muss / eingereicht**  7. **was**  8. **den**  9. **wird**  10. **was**
+1. **das**  2. **deren**  3. **dem**  4. **wurde**  5. **sind**  6. **Der Antrag muss bis Freitag eingereicht werden.**  7. **was**  8. **den**  9. **wird**  10. **was**
 
 ## Übung D4 — Selbsttest — 20 Punkte
 
-1. **des**  2. **der**  3. **des**  4. **des**  5. **Pauls**  6. **der**  7. **der**  8. **des**  9. **des**  10. **der**  11. **des**  12. **Wessen / Hans'**  13. **des**  14. **des**  15. **des**  16. **des**  17. **der**  18. **des**  19. **des**  20. **Wessen / Max'**
+1. **des**  2. **der**  3. **des**  4. **des**  5. **Pauls**  6. **der**  7. **der**  8. **des**  9. **des**  10. **der**  11. **des**  12. **Hans'**  13. **des**  14. **des**  15. **des**  16. **des**  17. **der**  18. **des**  19. **des**  20. **Max'**
 
 ---
 
