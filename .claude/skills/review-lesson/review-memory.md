@@ -62,6 +62,17 @@ When a pattern affects 5+ lessons, consider promoting it to `common-pitfalls.md`
 
 ---
 
+## 2026-06-26 — C4a Lesetext cross-ref points at Mini-Geschichte (section 5) instead of Lesetext (section 7)
+
+- **Affected lessons:** A1/04, A1/11, B1/05, A2/11 (all four pre-existing PRs fixed the same pattern: `section 5 → section 7`)
+- **Frequency:** 4 of ~50 reviewed lessons (8%)
+- **Pattern:** the `C4a` reading-comprehension true-false exercise asks about the *Lesetext* (e.g. *Annas Geschenk für Lisa*), which is in `§7 Lesetext:` of `lesson.md`. The `instructions:` string is hard-coded to `section 5` — the *Mini-Geschichte* section — which is a different story. Likely an authoring-template artefact: section 5 was the original story location in earlier lessons before the §5/§7 split was standardised.
+- **Fix:** change `section 5` → `section 7` in the `instructions:` field of the C4a block, then `npx tsx build/gen-exercises.ts <lesson>` to regenerate `exercises.md`. Cross-check by reading the actual `q:` items and matching them to the §7 Lesetext in `lesson.md`.
+- **How to detect:** every review should verify `exercises.yml:instructions:` for `section N` references against the actual heading numbers in `lesson.md`. Don't trust the yml — it lies consistently.
+- **See also:** recurring commit-message fragment `B8 + C4a Lesetext cross-ref section 5→7` in recent PRs.
+
+---
+
 ## Older (from prior B1/B2 review runs, captured for reference)
 
 ### B1/13: Audio filename mismatch in yml vs actual files

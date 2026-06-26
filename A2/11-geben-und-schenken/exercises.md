@@ -431,7 +431,7 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Annas Geschenk für Lisa)
 
-Read „Annas Geschenk für Lisa" in lesson.md, section 5. Richtig (R) oder falsch (F)?
+Read „Annas Geschenk für Lisa" in lesson.md, section 7. Richtig (R) oder falsch (F)?
 
 1. Anna möchte ihrer Schwester ein Geschenk kaufen. ( )
 2. Lisa hat nächste Woche Geburtstag. ( )
