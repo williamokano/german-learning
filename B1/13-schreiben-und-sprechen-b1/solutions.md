@@ -120,7 +120,7 @@
 
 1 → c · 2 → e · 3 → d · 4 → b · 5 → a
 
-## Übung B6 — Forenbeitrag: Richtig oder Falsch? (Lesetext §5)
+## Übung B6 — Forenbeitrag: Richtig oder Falsch? (Lesetext §7)
 
 1. **F** — The author (Pavel) moved from Brünn to Berlin, not the other way around.
 2. **R** — "Ich selbst habe in Berlin schnell eine Arbeit als Barista gefunden."
@@ -132,7 +132,7 @@
 
 1. **Thema**  2. **wichtig**  3. **Zum**  4. **Außerdem**  5. **Allerdings**  6. **trennen**  7. **Nachteil**  8. **Insgesamt**
 
-## Übung B8 — Leseverstehen: Forenbeitrag (Lesetext §5)
+## Übung B8 — Leseverstehen: Forenbeitrag (Lesetext §7)
 
 1. **b) Großstädte bieten mehr Möglichkeiten, als man auf den ersten Blick sieht.** — "Meiner Meinung nach bieten Großstädte mehr Möglichkeiten, als man auf den ersten Blick sieht."
 2. **c) Die Lebenshaltungskosten sind deutlich höher.** — "Allerdings sind die Lebenshaltungskosten in einer Großstadt deutlich höher."
@@ -163,7 +163,7 @@ Selbstkorrektur:
 
 ## Übung C1 — Lückentext: Forenbeitrag über Großstädte
 
-1. **ziehen**  2. **Meinung**  3. **Blick**  4. **außerdem**  5. **Allerdings**  6. **seien**  7. **stressig**  8. **wertvoll**  9. **selbstständig**  10. **vorbereitet**
+1. **ziehen**  2. **Meinung**  3. **Blick**  4. **gibt**  5. **Allerdings**  6. **sind**  7. **stressig**  8. **wertvoll**  9. **selbstständig**  10. **vorbereitet**
 
 ## Übung C2 — Sprachbausteine Teil 1
 
@@ -225,7 +225,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Schnelltest: Schreiben & Sprechen + Grammatik-Wiederholung
 
-1. **bezüglich**  2. **geehrte**  3. **wünschen**  4. **daher**  5. **Antwort**  6. **freundlichen**  7. **Zum**  8. **Allerdings**  9. **Insgesamt**  10. **Überzeugung**  11. **bewerbe**  12. **um**  13. **des**  14. **sowohl**  15. **als auch**
+1. **bezüglich**  2. **geehrte**  3. **wünschen**  4. **daher**  5. **Antwort**  6. **freundlichen**  7. **Zum**  8. **Allerdings**  9. **Insgesamt**  10. **Überzeugung**  11. **bewerbe**  12. **um**  13. **Zimmers**  14. **sowohl**  15. **als auch**
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
 
