@@ -327,7 +327,7 @@ then sounds clumsy.
 >
 > | ❌ Wrong | ✅ Right |
 > |---|---|
-> | *…, damit du es **verstehst nicht** falsch.* | *…, damit du es nicht **verstehst**? → …, damit du es **richtig verstehst**.* (verb to the end) |
+> | *…, damit du es **verstehst nicht** falsch.* | *…, damit du es nicht **falsch verstehst**.* (verb to the end) |
 > | *Ich lerne, **damit ich** besser spreche.* | *Ich lerne, **um** besser **zu sprechen**.* (same subject → `um … zu`) |
 > | *…, damit das Team die Daten **kann analysieren**.* | *…, damit das Team die Daten **analysieren kann**.* (modal last) |
 
