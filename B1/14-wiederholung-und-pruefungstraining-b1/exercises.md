@@ -62,7 +62,7 @@ Listen to the telephone message from the Goethe-Institut. Then choose the correc
 
 ## Übung A1 — Lesen Teil 1 — Stellenanzeige (Text 1): Richtig / Falsch
 
-Read Text 1 (Stellenanzeige, lesson.md §5) and decide for each statement: Richtig (R) oder Falsch (F)? Items not mentioned in the ad count as Falsch (F).
+Read Text 1 (Stellenanzeige, lesson.md §7) and decide for each statement: Richtig (R) oder Falsch (F)? Items not mentioned in the ad count as Falsch (F).
 
 
 1. Die Stelle bei TechStart GmbH ist in Berlin-Mitte. ( )
@@ -82,7 +82,7 @@ Choose the correct answer (a, b, or c) based on Text 1 (Stellenanzeige).
 
 ## Übung A3 — Lesen Teil 2 — Zeitungsartikel (Text 2): Richtig / Falsch
 
-Read Text 2 (Zeitungsartikel, lesson.md §5) and decide: Richtig (R) oder Falsch (F)?
+Read Text 2 (Zeitungsartikel, lesson.md §7) and decide: Richtig (R) oder Falsch (F)?
 
 1. Im Jahr 2025 haben mehr als 200.000 Menschen weltweit ein Deutschzertifikat abgelegt. ( )
 2. Das B2-Zertifikat ist das am häufigsten abgelegte Niveau. ( )
@@ -100,7 +100,7 @@ Choose the correct answer (a, b, or c) based on Text 2 (Zeitungsartikel).
 
 ## Übung A5 — Lesen Teil 3 — Persönliche E-Mail (Text 3): Richtig / Falsch
 
-Read Text 3 (Persönliche E-Mail, lesson.md §5) and decide: Richtig (R) oder Falsch (F)?
+Read Text 3 (Persönliche E-Mail, lesson.md §7) and decide: Richtig (R) oder Falsch (F)?
 
 1. Anna hat diese E-Mail an Bruno geschrieben. ( )
 2. Pavel fand den Hörteil schwierig, weil die Sprecher sehr schnell gesprochen haben. ( )
@@ -132,9 +132,9 @@ Match each text (1–3) to its text type (a–d). One text type is not needed.
 
 | Links | | Rechts |
 |---|---|---|
-| 1. Text 1 (lesson.md §5, erster Text) | | a) Zeitungsartikel / Pressebericht |
-| 2. Text 2 (lesson.md §5, zweiter Text) | | b) Persönliche E-Mail |
-| 3. Text 3 (lesson.md §5, dritter Text) | | c) Stellenanzeige / Jobanzeige |
+| 1. Text 1 (lesson.md §7, erster Text) | | a) Zeitungsartikel / Pressebericht |
+| 2. Text 2 (lesson.md §7, zweiter Text) | | b) Persönliche E-Mail |
+| 3. Text 3 (lesson.md §7, dritter Text) | | c) Stellenanzeige / Jobanzeige |
 |  | | d) Formelle Beschwerde |
 
 ---
