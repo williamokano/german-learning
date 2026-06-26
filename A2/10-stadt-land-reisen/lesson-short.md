@@ -394,7 +394,7 @@ A few sounds that appear often in this lesson's vocabulary:
 - **ei** in *Reise, Ziel, abbiegen* — always /aɪ/ like English "eye": `REI-ze`, `TSEEL`.
 - **au** in *Ausflug, Bahnhof, Haupt-* — always /aʊ/ like English "owl": `OWS-flook`.
 - **ü** in *Züge, Rücksack, Flüge* — "ee" with rounded lips: `TSUE-guh`.
-- **ö** in *Höfe, schön, Lösung* — "ay" with rounded lips.
+- **ö** in *Hör, schön, vorgestellt* — "ay" with rounded lips.
 - **ß / ss** — both are a sharp /s/: *Straße* = `SHTRAA-suh`.
 - **ch** in *ich, mich, dich* — soft "ich-sound"; in *nach, Fach* — guttural "ach-sound".
 - Stress on compound words: **BAHN**hof, **FLUG**hafen, **HALT**estelle — first element is stressed.

@@ -25,8 +25,8 @@ exercises:
         answer: true
         why: 'Bruno: „ich wäre gerne am Meer".'
       - q: "Bruno hat ein Hotel über das Internet gefunden."
-        answer: true
-        why: 'Bruno: „Ich habe ein günstiges Hotel gefunden".'
+        answer: false
+        why: 'Bruno sagt nur „Ich habe ein günstiges Hotel gefunden" — wie er es gefunden hat, wird nicht erwähnt.'
       - q: "Das Hotel liegt direkt am Hafen."
         answer: true
         why: 'Bruno: „direkt am Hafen, neben dem Fischmarkt".'
@@ -151,10 +151,10 @@ exercises:
       "4": ans
       "5": "auf dem"
       "6": "auf das"
-      "7": in
-      "8": in
-      "9": "an der"
-      "10": "an die"
+      "7": "in der"
+      "8": "in die"
+      "9": am
+      "10": "an den"
 
   - id: A2
     block: A
@@ -204,11 +204,11 @@ exercises:
       "3": nach
       "4": in
       "5": aus
-      "6": "in die"
+      "6": "in"
       "7": aus
       "8": "zum"
       "9": "in"
-      "10": "in den"
+      "10": "in"
 
   - id: A4
     block: A
@@ -358,7 +358,7 @@ exercises:
       "1": "aus dem"
       "2": "aus"
       "3": "von"
-      "4": "aus dem"
+      "4": "vom"
       "5": "aus"
       "6": "von"
       "7": "von"
@@ -375,7 +375,7 @@ exercises:
       1. wir / fliegen / morgen / nach Italien →
       2. Anna / buchen / ein Hotel / in Berlin →
       3. der Zug / abfahren / um 10 Uhr / von Gleis 3 →
-      4. ich / möchten / reservieren / ein Zimmer →
+      4. ich / möchte / reservieren / ein Zimmer →
       5. wir / ankommen / in Salzburg / am Abend →
       6. er / wohnen / jetzt / in der Schweiz →
     model: |
@@ -804,7 +804,7 @@ exercises:
           - { key: c, text: "neben dem Bahnhof" }
         answer: b
         why: '„Das Hotel liegt direkt am Bodensee".'
-      - q: "Wie sind die Person zum Hotel gekommen?"
+      - q: "Wie sind die Personen zum Hotel gekommen?"
         options:
           - { key: a, text: "Mit dem Auto" }
           - { key: b, text: "Zu Fuß vom Bahnhof" }
