@@ -14,7 +14,7 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Er ist wegen zu vieler Passivformen schwer verständlich.** — Dr. El-Sayed: „Vor allem an der Häufung des Passivs … schwerfällig."
+1. **b) Er ist wegen zu vieler Passivformen schwer verständlich.** — Yusuf: „Vor allem an der Häufung des Passivs … schwerfällig."
 2. **c) sein + zu + Infinitiv** — „Dann bietet sich „sein + zu + Infinitiv" an: „die Quellen sind anzugeben"."
 3. **a) „Wird“ ist der Vorgang, „ist“ das Ergebnis.** — „„Wird veröffentlicht" beschreibt den Vorgang … „ist veröffentlicht" beschreibt das Ergebnis."
 
