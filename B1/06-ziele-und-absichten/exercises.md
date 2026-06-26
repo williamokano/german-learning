@@ -292,7 +292,7 @@ Rewrite with `um … zu` where the subjects are the same. If subjects differ, ke
 
 ## Übung B8 — Leseverstehen: Pavels Bewerbungsschreiben
 
-Read the Lesetext in lesson.md, section 5. Choose the correct answer (a, b, or c).
+Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c).
 
 1. Wofür bewirbt sich Pavel?  a) Für eine Stelle als Barista.  b) Für einen Kaffeeroaster-Kurs.  c) Für ein Praktikum in einer Bäckerei.
 2. Was ist Pavels langfristiges Ziel?  a) In einem Café in Prenzlauer Berg zu arbeiten.  b) Eine offizielle Zertifizierung zu bekommen.  c) Seinen eigenen Röstbetrieb zu gründen.
@@ -359,7 +359,7 @@ Fill the 10 gaps. Five words are not needed.
 > Pavel schreibt ein Motivationsschreiben, (1) ______ sich für den Kurs zu
 > bewerben. Sein Ziel (2) ______ es, einen eigenen Röstbetrieb zu gründen.
 > Er hat (3) ______, diese Ausbildung zu absolvieren. Er hofft, eine Zertifizierung
-> zu (4) ______, (5) ______ seine Kunden von seiner Qualität (6) ______ können. Außerdem
+> zu (4) ______, (5) ______ seine Kunden von seiner Qualität überzeugt (6) ______ können. Außerdem
 > (7) ______ er vor, regelmäßig an Branchenevents teilzunehmen. Er (8) ______,
 > immer auf dem neuesten Stand zu bleiben. Er (9) ______ das Team, ihm
 > Feedback zu geben, (10) ______ er sich verbessern kann.
@@ -370,7 +370,7 @@ Five words are not needed.
 
 ## Übung C4a — Leseverstehen: Pavels Bewerbungsschreiben (Richtig / Falsch)
 
-Read the Lesetext (lesson.md section 5). Decide: Richtig (R) oder Falsch (F)?
+Read the Lesetext (lesson.md section 7). Decide: Richtig (R) oder Falsch (F)?
 
 1. Pavel bewirbt sich für einen Barista-Kurs. ( )
 2. Pavel arbeitet seit zwei Jahren als Barista. ( )

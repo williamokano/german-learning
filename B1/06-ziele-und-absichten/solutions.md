@@ -44,7 +44,7 @@
 
 ## Übung A3 — `damit` — Zwecksatz mit anderem Subjekt
 
-1. **verstehst**  2. **lesen kann**  3. **versteht**  4. **ist**  5. **können**  6. **hören**  7. **prüfen kann**  8. **auswerten kann**
+1. **verstehst**  2. **lesen kann**  3. **verstehen**  4. **ist**  5. **können**  6. **hören**  7. **prüfen kann**  8. **auswerten kann**
 
 ## Übung A4 — `um … zu` oder `damit`? — richtig wählen
 

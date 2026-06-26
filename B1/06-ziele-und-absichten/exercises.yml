@@ -195,7 +195,7 @@ exercises:
     answers:
       "1": verstehst
       "2": lesen kann
-      "3": versteht
+      "3": verstehen
       "4": ist
       "5": können
       "6": hören
@@ -562,7 +562,7 @@ exercises:
     block: B
     type: single-choice
     title: "Leseverstehen: Pavels Bewerbungsschreiben"
-    instructions: "Read the Lesetext in lesson.md, section 5. Choose the correct answer (a, b, or c)."
+    instructions: "Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c)."
     items:
       - q: "Wofür bewirbt sich Pavel?"
         options:
@@ -714,7 +714,7 @@ exercises:
       Pavel schreibt ein Motivationsschreiben, {1} sich für den Kurs zu
       bewerben. Sein Ziel {2} es, einen eigenen Röstbetrieb zu gründen.
       Er hat {3}, diese Ausbildung zu absolvieren. Er hofft, eine Zertifizierung
-      zu {4}, {5} seine Kunden von seiner Qualität {6} können. Außerdem
+      zu {4}, {5} seine Kunden von seiner Qualität überzeugt {6} können. Außerdem
       {7} er vor, regelmäßig an Branchenevents teilzunehmen. Er {8},
       immer auf dem neuesten Stand zu bleiben. Er {9} das Team, ihm
       Feedback zu geben, {10} er sich verbessern kann.
@@ -735,7 +735,7 @@ exercises:
     block: C
     type: true-false
     title: "Leseverstehen: Pavels Bewerbungsschreiben (Richtig / Falsch)"
-    instructions: "Read the Lesetext (lesson.md section 5). Decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Read the Lesetext (lesson.md section 7). Decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Pavel bewirbt sich für einen Barista-Kurs."
         answer: false
