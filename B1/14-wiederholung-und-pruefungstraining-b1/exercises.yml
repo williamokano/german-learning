@@ -114,7 +114,7 @@ exercises:
     type: true-false
     title: 'Lesen Teil 1 — Stellenanzeige (Text 1): Richtig / Falsch'
     instructions: >
-      Read Text 1 (Stellenanzeige, lesson.md §5) and decide for each statement:
+      Read Text 1 (Stellenanzeige, lesson.md §7) and decide for each statement:
       Richtig (R) oder Falsch (F)? Items not mentioned in the ad count as
       Falsch (F).
     items:
@@ -169,7 +169,7 @@ exercises:
     block: A
     type: true-false
     title: 'Lesen Teil 2 — Zeitungsartikel (Text 2): Richtig / Falsch'
-    instructions: 'Read Text 2 (Zeitungsartikel, lesson.md §5) and decide: Richtig (R) oder Falsch (F)?'
+    instructions: 'Read Text 2 (Zeitungsartikel, lesson.md §7) and decide: Richtig (R) oder Falsch (F)?'
     items:
       - q: "Im Jahr 2025 haben mehr als 200.000 Menschen weltweit ein Deutschzertifikat abgelegt."
         answer: true
@@ -219,7 +219,7 @@ exercises:
     block: A
     type: true-false
     title: 'Lesen Teil 3 — Persönliche E-Mail (Text 3): Richtig / Falsch'
-    instructions: 'Read Text 3 (Persönliche E-Mail, lesson.md §5) and decide: Richtig (R) oder Falsch (F)?'
+    instructions: 'Read Text 3 (Persönliche E-Mail, lesson.md §7) and decide: Richtig (R) oder Falsch (F)?'
     items:
       - q: "Anna hat diese E-Mail an Bruno geschrieben."
         answer: false
@@ -290,9 +290,9 @@ exercises:
     title: 'Lesen — Drei Texte und ihre Textsorte'
     instructions: 'Match each text (1–3) to its text type (a–d). One text type is not needed.'
     left:
-      - { key: '1', text: 'Text 1 (lesson.md §5, erster Text)' }
-      - { key: '2', text: 'Text 2 (lesson.md §5, zweiter Text)' }
-      - { key: '3', text: 'Text 3 (lesson.md §5, dritter Text)' }
+      - { key: '1', text: 'Text 1 (lesson.md §7, erster Text)' }
+      - { key: '2', text: 'Text 2 (lesson.md §7, zweiter Text)' }
+      - { key: '3', text: 'Text 3 (lesson.md §7, dritter Text)' }
     right:
       - { key: a, text: 'Zeitungsartikel / Pressebericht' }
       - { key: b, text: 'Persönliche E-Mail' }
