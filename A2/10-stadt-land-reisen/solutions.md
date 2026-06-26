@@ -8,7 +8,7 @@
 
 1. **F** — Sie planen einen Kurztrip nach Hamburg, nicht nach Berlin.
 2. **R** — Bruno: „ich wäre gerne am Meer".
-3. **R** — Bruno: „Ich habe ein günstiges Hotel gefunden".
+3. **F** — Bruno sagt nur „Ich habe ein günstiges Hotel gefunden" — wie er es gefunden hat, wird nicht erwähnt.
 4. **R** — Bruno: „direkt am Hafen, neben dem Fischmarkt".
 5. **R** — Bruno: „Mit dem Zug von Berlin nach Hamburg".
 
@@ -36,7 +36,7 @@
 
 ## Übung A1 — Wo? oder Wohin? (Dativ oder Akkusativ)
 
-1. **im**  2. **ins**  3. **am**  4. **ans**  5. **auf dem**  6. **auf das**  7. **in**  8. **in**  9. **an der**  10. **an die**
+1. **im**  2. **ins**  3. **am**  4. **ans**  5. **auf dem**  6. **auf das**  7. **in der**  8. **in die**  9. **am**  10. **an den**
 
 ## Übung A2 — Lückentest: Wo? / Wohin? / Woher?
 
@@ -44,7 +44,7 @@
 
 ## Übung A3 — Städte und Länder: nach / in + Akk / aus + Dat
 
-1. **nach**  2. **aus**  3. **nach**  4. **in**  5. **aus**  6. **in die**  7. **aus**  8. **zum**  9. **in**  10. **in den**
+1. **nach**  2. **aus**  3. **nach**  4. **in**  5. **aus**  6. **in**  7. **aus**  8. **zum**  9. **in**  10. **in**
 
 ## Übung A4 — Länder mit Artikel: in / aus + den / die / das
 
@@ -68,7 +68,7 @@
 
 ## Übung A9 — aus oder von?
 
-1. **aus dem**  2. **aus**  3. **von**  4. **aus dem**  5. **aus**  6. **von**  7. **von**  8. **vom**
+1. **aus dem**  2. **aus**  3. **von**  4. **vom**  5. **aus**  6. **von**  7. **von**  8. **vom**
 
 ## Übung A10 — Reise-Sätze bilden
 

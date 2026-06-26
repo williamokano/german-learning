@@ -196,7 +196,7 @@ Choose aus or von. 8 items.
 1. wir / fliegen / morgen / nach Italien →
 2. Anna / buchen / ein Hotel / in Berlin →
 3. der Zug / abfahren / um 10 Uhr / von Gleis 3 →
-4. ich / möchten / reservieren / ein Zimmer →
+4. ich / möchte / reservieren / ein Zimmer →
 5. wir / ankommen / in Salzburg / am Abend →
 6. er / wohnen / jetzt / in der Schweiz →
 
@@ -430,7 +430,7 @@ Wähle a, b oder c.
 
 
 1. Das Hotel liegt …  a) im Stadtzentrum  b) direkt am Bodensee  c) neben dem Bahnhof
-2. Wie sind die Person zum Hotel gekommen?  a) Mit dem Auto  b) Zu Fuß vom Bahnhof  c) Mit dem Bus
+2. Wie sind die Personen zum Hotel gekommen?  a) Mit dem Auto  b) Zu Fuß vom Bahnhof  c) Mit dem Bus
 3. Wo war das Zimmer?  a) Im Erdgeschoss  b) Im zweiten Stock  c) Im dritten Stock
 4. Was haben sie am zweiten Tag gemacht?  a) Eine Bootstour  b) Die Altstadt besichtigt  c) Eingekauft
 5. Wie war das Wetter am letzten Tag?  a) Sonnig  b) Regnerisch  c) Schnee
