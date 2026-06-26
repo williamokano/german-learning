@@ -314,7 +314,7 @@ Self-check:
 
 # Block C — Prüfungstraining
 
-## Übung C1 — Lückentext: Warum Ämter so schreiben (Lesetext)
+## Übung C1 — Lückentext: Warum Ämter so schreiben
 
 Füll jede Lücke mit einem Wort (Präposition oder Konnektor). 10 Items.
 
@@ -495,4 +495,4 @@ Wiederholung früherer Lektionen. 10 Items.
 19. (B1/06) „Ich lerne, ______ eine Stelle zu finden." (um)
 20. (B1/12) Nominalisierung von „recyceln": ______
 
-_16+ / 20 → Lektion B2/02. Unter 16 → wiederhol morgen Block A (A1–A6) und Block B (B1–B3), dann mach D4 noch einmal._
+_16+ / 20 → Lektion B2/02. Unter 16 → wiederhol morgen Block A (A1–A6) und Block B (B1–B9), dann mach D4 noch einmal._

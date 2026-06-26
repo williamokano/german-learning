@@ -123,7 +123,7 @@ Du kennst das sicher: Du öffnest einen Brief vom Amt, von der Krankenkasse oder
 
 ### Behörden- und Verwaltungssprache
 
-> 💡 **Lerntipp:** Das ist das Vokabular, das dir auf jedem Amt begegnet. Lern es zusammen mit dem passenden Verb, damit du den Behördensatz sofort „rückübersetzen" kannst (*der Bescheid* → *bescheiden / mitteilen*).
+> 💡 **Lerntipp:** Das ist das Vokabular, das dir auf jedem Amt begegnet. Lern es zusammen mit dem passenden Verb, damit du den Behördensatz sofort „rückübersetzen" kannst (*der Bescheid* → *Bescheid geben / mitteilen*).
 
 | Nomen | Deutsch / Erklärung |
 |---|---|

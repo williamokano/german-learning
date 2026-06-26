@@ -610,7 +610,7 @@ exercises:
     block: C
     type: gap-text
     listLayout: true
-    title: "Lückentext: Warum Ämter so schreiben (Lesetext)"
+    title: "Lückentext: Warum Ämter so schreiben"
     instructions: "Füll jede Lücke mit einem Wort (Präposition oder Konnektor). 10 Items."
     text: |
       Wer einen Brief vom Finanzamt öffnet, ist oft ratlos. Behörden schreiben im
@@ -913,7 +913,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Selbsttest (bewerte dich /20)"
-    notes: "16+ / 20 → Lektion B2/02. Unter 16 → wiederhol morgen Block A (A1–A6) und Block B (B1–B3), dann mach D4 noch einmal."
+    notes: "16+ / 20 → Lektion B2/02. Unter 16 → wiederhol morgen Block A (A1–A6) und Block B (B1–B9), dann mach D4 noch einmal."
     text: |
       **Nominalisierung (Nomen mit Artikel):**
       1. prüfen → {1}
