@@ -555,7 +555,7 @@ exercises:
     block: B
     type: gap-bank
     title: "Dialog ergänzen: der Sprachabend"
-    instructions: "Füll die 8 Lücken mit dem passenden Konnektor. Zwei Wörter sind zu viel."
+    instructions: "Füll die 8 Lücken mit dem passenden Konnektor. Ein Wort ist zu viel."
     text: |
       — Ich komme nicht voran. {1} länger ich lerne, {2} weniger spreche ich.
       — Das ändert sich, {3} du einfach mehr redest. Komm doch zum Sprachabend!
@@ -564,7 +564,7 @@ exercises:
       — {6} ich nach der Arbeit oft müde bin, sage ich zu.
       — Super. Wir treffen uns Freitag, {7}, du hast schon etwas vor.
       — Nein, Freitag passt. {8} des vollen Terminkalenders nehme ich mir die Zeit.
-    bank: [Je, desto, indem, Falls, sodass, Obwohl, "es sei denn", Trotz, sofern, weil]
+    bank: [Je, desto, indem, Falls, sodass, Obwohl, "es sei denn", Trotz, weil]
     answers:
       "1": Je
       "2": desto
@@ -771,7 +771,7 @@ exercises:
       Reden. {7} bin ich kein Grammatik-Fan (einräumen), {8} ein Grundgerüst braucht man
       doch (einschränken). {9} des hohen Aufwands lohnt sich das tägliche Üben (Gegensatz,
       nominal). Üb also jeden Tag — {10}, du brauchst gerade eine kurze Pause (Ausnahme)."
-    bank: [JE, DESTO, INDEM, SODASS, FALLS, OBWOHL, ZWAR, ABER, TROTZ, "ES SEI DENN", SOFERN, DENNOCH, WEIL, UMSO, DAMIT]
+    bank: [JE, DESTO, INDEM, SODASS, FALLS, OBWOHL, ZWAR, ABER, TROTZ, "ES SEI DENN", WÄHREND, HINGEGEN, NÄMLICH, DENNOCH, WEIL]
     answers:
       "1": JE
       "2": DESTO
