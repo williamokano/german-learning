@@ -77,9 +77,9 @@ Complete the full 4-case table. The Nominativ/Akkusativ/Dativ rows are given; fi
 
 |  | maskulin | feminin | neutral | Plural |
 |---|---|---|---|---|
-| Nom. | ______ | ______ | ______ | ______ |
-| Akk. | ______ | ______ | ______ | ______ |
-| Dat. | ______ | ______ | ______ | ______ |
+| Nom. | der/ein Mann | die/eine Frau | das/ein Kind | die/– Leute |
+| Akk. | den/einen Mann | die/eine Frau | das/ein Kind | die/– Leute |
+| Dat. | dem/einem Mann | der/einer Frau | dem/einem Kind | den/– Leuten |
 | Gen. | ______ | ______ | ______ | ______ |
 
 ## Übung A2 — Genitivartikel einsetzen (des/der/eines/einer/keines/keiner)
@@ -195,7 +195,7 @@ Yusuf: Ja, die Daten (2) ______ (des Experiments / dem Experiment / der Experime
 Herr Steinmeyer: Und die Meinung (3) ______ (des Kollegen / dem Kollegen / der Kollegen) aus Wien — kennen Sie sie?
 Yusuf: Ja, wegen (4) ______ (des Symposiums / dem Symposium / der Symposium) im April habe ich ihn kennengelernt.
 Herr Steinmeyer: Trotz (5) ______ (der kurzen Zeit / dem kurzen Zeit / des kurzen Zeit) haben Sie viel erreicht.
-Yusuf: Danke. Statt (6) ______ (einer langen Einleitung / einer langen Einführung / einem langen) möchte ich direkt mit den Ergebnissen beginnen.
+Yusuf: Danke. Statt (6) ______ (einer langen Einleitung / die lange Einleitung / einem langen Vortrag) möchte ich direkt mit den Ergebnissen beginnen.
 
 ## Übung B2 — Finde den Fehler — Dativ statt Genitiv
 
@@ -225,11 +225,11 @@ Match each preposition (left) to the sentence that uses it correctly (right).
 
 | Links | | Rechts |
 |---|---|---|
-| 1. wegen | | a) _______ des Gewitters mussten wir drinnen bleiben. |
-| 2. trotz | | b) _______ des starken Regens gingen sie spazieren. |
+| 1. wegen | | a) _______ eines technischen Defekts fiel der Strom aus. |
+| 2. trotz | | b) _______ der schlechten Noten wurde er zur Prüfung zugelassen. |
 | 3. während | | c) _______ des Seminars sollte man das Handy ausschalten. |
 | 4. statt | | d) _______ des Originals gab er eine Kopie ab. |
-|  | | e) _______ eines Fehlers musste er die Aufgabe wiederholen. |
+|  | | e) _______ des Sees liegt ein kleines Dorf. |
 
 ## Übung B5 — Formelle Sätze rekonstruieren
 
@@ -342,7 +342,7 @@ Fill the 10 gaps. **Five words are not needed.**
 > (9) ______ freundlichen Grüßen
 > Dr. Yusuf El-Sayed, Privatdozent (10) ______ Philosophie
 
-> DEN · DER · DER · DER · DER · DES · DES · DES · DURCH · EINER · EINES · FÜR · IHRER · MEINES · MIT
+> DEM · DEN · DER · DER · DER · DER · DES · DES · DES · DURCH · EINER · EINES · IHRER · MEINES · MIT
 
 Five words are not needed.
 
@@ -423,7 +423,7 @@ Fill each gap quickly. Labels show the source lesson where relevant.
 10. Das Auto _____ Studenten ist alt. [n-Dekl.] (10) ______
 11. Obwohl er müde war, ging er zur Arbeit. — Rewrite with 'trotz'. [B1/02] (11) ______
 12. Er blieb in Berlin, weil er Arbeit hatte. — Rewrite with 'deshalb'. [B1/02] (12) ______
-13. _____ man etwas beschreiben will, benutzt man Adjektive. (um ... zu) [B1/06] (13) ______
+13. _____ etwas zu beschreiben, benutzt man Adjektive. (um ... zu) [B1/06] (13) ______
 14. Er hat das Buch gelesen. — Passiv Präsens [B1/04] (14) ______
 15. Er hat ein Fahrrad gekauft. — Relativsatz: Das ist das Fahrrad, _____ er gekauft hat. [B1/05] (15) ______
 
@@ -441,7 +441,7 @@ Fill each gap quickly. Labels show the source lesson where relevant.
 Fill each gap. Labels show the source lesson.
 
 1. Das ist das Buch, _____ ich dir empfohlen habe. [B1/05 — Relativpronomen Akk.] (1) ______
-2. Das ist die Frau, _____ Tochter Medizin studiert. [B1/05 — Genitiv Relativpronomen = deren] (2) ______
+2. Das ist die Ärztin, _____ in der Notaufnahme arbeitet. [B1/05 — Relativpronomen Nom.] (2) ______
 3. Wir suchen einen Kollegen, _____ wir vertrauen können. [B1/05 — Relativpronomen Dat.] (3) ______
 4. Das Paket _____ heute Morgen geliefert. [B1/04 — Passiv Präteritum] (4) ______
 5. Die Ergebnisse _____ schon veröffentlicht worden. [B1/04 — Passiv Perfekt] (5) ______

@@ -37,9 +37,9 @@
 
 |  | maskulin | feminin | neutral | Plural |
 |---|---|---|---|---|
-| Nom. | **der/ein Mann** | **die/eine Frau** | **das/ein Kind** | **die/– Leute** |
-| Akk. | **den/einen Mann** | **die/eine Frau** | **das/ein Kind** | **die/– Leute** |
-| Dat. | **dem/einem Mann** | **der/einer Frau** | **dem/einem Kind** | **den/– Leuten** |
+| Nom. | der/ein Mann | die/eine Frau | das/ein Kind | die/– Leute |
+| Akk. | den/einen Mann | die/eine Frau | das/ein Kind | die/– Leute |
+| Dat. | dem/einem Mann | der/einer Frau | dem/einem Kind | den/– Leuten |
 | Gen. | **des/eines Mannes** | **der/einer Frau** | **des/eines Kindes** | **der/– Leute** |
 
 ## Übung A2 — Genitivartikel einsetzen (des/der/eines/einer/keines/keiner)
@@ -223,7 +223,7 @@ Selbstkorrektur:
 
 ## Übung D3 — Rückblick — B1/05 (Relativsätze) + B1/04 (Passiv)
 
-1. **das**  2. **deren**  3. **dem**  4. **wurde**  5. **sind**  6. **Der Antrag muss bis Freitag eingereicht werden.**  7. **was**  8. **den**  9. **wird**  10. **was**
+1. **das**  2. **die**  3. **dem**  4. **wurde**  5. **sind**  6. **Der Antrag muss bis Freitag eingereicht werden.**  7. **was**  8. **den**  9. **wird**  10. **was**
 
 ## Übung D4 — Selbsttest — 20 Punkte
 

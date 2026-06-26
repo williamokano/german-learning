@@ -134,22 +134,22 @@ exercises:
     rows:
       - label: "Nom."
         cells:
-          - { gap: 1, answer: "der/ein Mann" }
-          - { gap: 2, answer: "die/eine Frau" }
-          - { gap: 3, answer: "das/ein Kind" }
-          - { gap: 4, answer: "die/– Leute" }
+          - { gap: 1, answer: "der/ein Mann", given: "der/ein Mann" }
+          - { gap: 2, answer: "die/eine Frau", given: "die/eine Frau" }
+          - { gap: 3, answer: "das/ein Kind", given: "das/ein Kind" }
+          - { gap: 4, answer: "die/– Leute", given: "die/– Leute" }
       - label: "Akk."
         cells:
-          - { gap: 5, answer: "den/einen Mann" }
-          - { gap: 6, answer: "die/eine Frau" }
-          - { gap: 7, answer: "das/ein Kind" }
-          - { gap: 8, answer: "die/– Leute" }
+          - { gap: 5, answer: "den/einen Mann", given: "den/einen Mann" }
+          - { gap: 6, answer: "die/eine Frau", given: "die/eine Frau" }
+          - { gap: 7, answer: "das/ein Kind", given: "das/ein Kind" }
+          - { gap: 8, answer: "die/– Leute", given: "die/– Leute" }
       - label: "Dat."
         cells:
-          - { gap: 9, answer: "dem/einem Mann" }
-          - { gap: 10, answer: "der/einer Frau" }
-          - { gap: 11, answer: "dem/einem Kind" }
-          - { gap: 12, answer: "den/– Leuten" }
+          - { gap: 9, answer: "dem/einem Mann", given: "dem/einem Mann" }
+          - { gap: 10, answer: "der/einer Frau", given: "der/einer Frau" }
+          - { gap: 11, answer: "dem/einem Kind", given: "dem/einem Kind" }
+          - { gap: 12, answer: "den/– Leuten", given: "den/– Leuten" }
       - label: "Gen."
         cells:
           - { gap: 13, answer: "des/eines Mannes" }
@@ -358,7 +358,7 @@ exercises:
       Herr Steinmeyer: Und die Meinung {3} (des Kollegen / dem Kollegen / der Kollegen) aus Wien — kennen Sie sie?
       Yusuf: Ja, wegen {4} (des Symposiums / dem Symposium / der Symposium) im April habe ich ihn kennengelernt.
       Herr Steinmeyer: Trotz {5} (der kurzen Zeit / dem kurzen Zeit / des kurzen Zeit) haben Sie viel erreicht.
-      Yusuf: Danke. Statt {6} (einer langen Einleitung / einer langen Einführung / einem langen) möchte ich direkt mit den Ergebnissen beginnen.
+      Yusuf: Danke. Statt {6} (einer langen Einleitung / die lange Einleitung / einem langen Vortrag) möchte ich direkt mit den Ergebnissen beginnen.
     answers:
       "1": "der Studie"
       "2": "des Experiments"
@@ -448,11 +448,11 @@ exercises:
       - { key: "3", text: "während" }
       - { key: "4", text: "statt" }
     right:
-      - { key: a, text: "_______ des Gewitters mussten wir drinnen bleiben." }
-      - { key: b, text: "_______ des starken Regens gingen sie spazieren." }
+      - { key: a, text: "_______ eines technischen Defekts fiel der Strom aus." }
+      - { key: b, text: "_______ der schlechten Noten wurde er zur Prüfung zugelassen." }
       - { key: c, text: "_______ des Seminars sollte man das Handy ausschalten." }
       - { key: d, text: "_______ des Originals gab er eine Kopie ab." }
-      - { key: e, text: "_______ eines Fehlers musste er die Aufgabe wiederholen." }
+      - { key: e, text: "_______ des Sees liegt ein kleines Dorf." }
     answers:
       "1": a
       "2": b
@@ -684,7 +684,7 @@ exercises:
       Die Ergebnisse {8} Studie werden in einem separaten Abschnitt dargestellt.
       {9} freundlichen Grüßen
       Dr. Yusuf El-Sayed, Privatdozent {10} Philosophie
-    bank: [DES, IHRER, DES, DER, DER, DES, EINER, DER, DER, MIT, FÜR, EINES, DURCH, DEN, MEINES]
+    bank: [DES, IHRER, DES, DER, DER, DES, EINER, DER, DER, MIT, DEM, EINES, DURCH, DEN, MEINES]
     answers:
       "1": DES
       "2": IHRER
@@ -827,7 +827,7 @@ exercises:
       10. Das Auto _____ Studenten ist alt. [n-Dekl.] {10}
       11. Obwohl er müde war, ging er zur Arbeit. — Rewrite with 'trotz'. [B1/02] {11}
       12. Er blieb in Berlin, weil er Arbeit hatte. — Rewrite with 'deshalb'. [B1/02] {12}
-      13. _____ man etwas beschreiben will, benutzt man Adjektive. (um ... zu) [B1/06] {13}
+      13. _____ etwas zu beschreiben, benutzt man Adjektive. (um ... zu) [B1/06] {13}
       14. Er hat das Buch gelesen. — Passiv Präsens [B1/04] {14}
       15. Er hat ein Fahrrad gekauft. — Relativsatz: Das ist das Fahrrad, _____ er gekauft hat. [B1/05] {15}
     answers:
@@ -879,7 +879,7 @@ exercises:
     instructions: "Fill each gap. Labels show the source lesson."
     text: |
       1. Das ist das Buch, _____ ich dir empfohlen habe. [B1/05 — Relativpronomen Akk.] {1}
-      2. Das ist die Frau, _____ Tochter Medizin studiert. [B1/05 — Genitiv Relativpronomen = deren] {2}
+      2. Das ist die Ärztin, _____ in der Notaufnahme arbeitet. [B1/05 — Relativpronomen Nom.] {2}
       3. Wir suchen einen Kollegen, _____ wir vertrauen können. [B1/05 — Relativpronomen Dat.] {3}
       4. Das Paket _____ heute Morgen geliefert. [B1/04 — Passiv Präteritum] {4}
       5. Die Ergebnisse _____ schon veröffentlicht worden. [B1/04 — Passiv Perfekt] {5}
@@ -890,7 +890,7 @@ exercises:
       10. Sie beschreibt alles, _____ sie sieht. [B1/05 — Relativpronomen was] {10}
     answers:
       "1": das
-      "2": deren
+      "2": die
       "3": dem
       "4": wurde
       "5": sind

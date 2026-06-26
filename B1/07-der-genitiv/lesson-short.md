@@ -81,7 +81,7 @@ buildsOn:
 | Das ist das Fahrrad **des Verkäufers**. | That is the seller's bicycle. |
 | Der Name **des Vorbesitzers** ist … | The previous owner's name is … |
 | Wessen Buch ist das? — Das ist **Annas Buch**. | Whose book is that? — That is Anna's book. |
-| Das gehört **meinem Vater** / **meines Vaters** (formal). | That belongs to my father. |
+| Das ist das Haus **meines Vaters**. | That is my father's house. |
 | die Theorie **eines Kollegen** | a colleague's theory |
 | die Meinung **der Mehrheit** | the opinion of the majority |
 
