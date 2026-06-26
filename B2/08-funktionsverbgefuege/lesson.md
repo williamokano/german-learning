@@ -306,7 +306,7 @@ Nach der Sitzung kam Frau Yilmaz zu ihr. „Sehr souverän", sagte sie. „Und f
 4. Er **übte Kritik an** dem neuen **Verfahren**. *(an + Dat.)*
 5. Wir **nehmen Abschied von** einem geschätzten **Kollegen**. *(von + Dat.)*
 6. Die Unterlagen **stehen** allen Mitarbeitern **zur Verfügung**. *(Dativ-Person)*
-7. Die Firma **stellt** den Praktikanten einen Laptop **zur Verfügung**. *(Dativ-Person)*
+7. Die Firma **stellt** dem Praktikanten einen Laptop **zur Verfügung**. *(Dativ-Person)*
 8. Sie **brachte** ihren Dank **zum Ausdruck**.
 9. Eine solche Lösung **kommt** für uns nicht **in Frage**.
 10. Wir sollten alle Optionen **in Betracht ziehen**.
