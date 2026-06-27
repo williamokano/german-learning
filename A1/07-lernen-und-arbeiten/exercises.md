@@ -12,10 +12,10 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen and decide: Richtig (R) oder Falsch (F)?
 
-1. Bruno muss um acht Uhr im Büro sein. ( )
-2. Anna muss auch um acht Uhr arbeiten. ( )
-3. Anna will heute Abend einen Computerkurs machen. ( )
-4. Bruno will auch den Kurs machen. ( )
+1. Bruno muss um acht Uhr im Büro sein. — Bruno has to be at the office at eight. ( )
+2. Anna muss auch um acht Uhr arbeiten. — Anna also has to work at eight. ( )
+3. Anna will heute Abend einen Computerkurs machen. — Anna wants to take a computer course tonight. ( )
+4. Bruno will auch den Kurs machen. — Bruno also wants to take the course. ( )
 
 ## Übung H1b — Dialog B (formell) — Im Büro
 
@@ -23,10 +23,10 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 Listen and decide: Richtig (R) oder Falsch (F)?
 
-1. Frau Yilmaz sagt, Anna muss das Meeting vorbereiten. ( )
-2. Das Meeting fängt um neun Uhr an. ( )
-3. Herr Brandt darf heute früher gehen. ( )
-4. Anna will das Meeting morgen vorbereiten. ( )
+1. Frau Yilmaz sagt, Anna muss das Meeting vorbereiten. — Frau Yilmaz says Anna has to prepare the meeting. ( )
+2. Das Meeting fängt um neun Uhr an. — The meeting starts at nine. ( )
+3. Herr Brandt darf heute früher gehen. — Mr. Brandt may leave early today. ( )
+4. Anna will das Meeting morgen vorbereiten. — Anna wants to prepare the meeting tomorrow. ( )
 
 ## Übung H3 — Hörtext-Lückentext: Marias Arbeitstag
 
@@ -47,10 +47,10 @@ Listen and fill in the 6 missing words. Two words are not needed.
 
 Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Wessen Nachricht ist das?  a) Von Anna.  b) Von Maria.  c) Von Bruno.
-2. Worum geht es in der Nachricht?  a) Um einen Computerkurs.  b) Um einen Sprachkurs.  c) Um einen Yogakurs.
-3. Wann fängt der Kurs an?  a) Um achtzehn Uhr.  b) Um neunzehn Uhr.  c) Um zwanzig Uhr.
-4. Was soll Anna mitbringen?  a) Einen Laptop.  b) Ein Buch.  c) Einen Ausweis.
+1. Wessen Nachricht ist das? — Whose message is this?  a) Von Anna.  b) Von Maria.  c) Von Bruno.
+2. Worum geht es in der Nachricht? — What is the message about?  a) Um einen Computerkurs.  b) Um einen Sprachkurs.  c) Um einen Yogakurs.
+3. Wann fängt der Kurs an? — What time does the course start?  a) Um achtzehn Uhr.  b) Um neunzehn Uhr.  c) Um zwanzig Uhr.
+4. Was soll Anna mitbringen? — What should Anna bring?  a) Einen Laptop.  b) Ein Buch.  c) Einen Ausweis.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -324,12 +324,12 @@ Am Wochenende (8) ______ sie nicht arbeiten, aber sie lernt trotzdem. Manchmal
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Ich habe jetzt eine neue Stelle. Ich (1) ______ als Ingenieurin bei einer großen Firma.  a) bin  b) arbeite  c) werde
-2. Ich (2) ______ jeden Tag von acht bis fünf arbeiten — das ist viel.  a) muss  b) darf  c) will
-3. Ich (3) ______ auch samstags arbeiten, aber nur einmal im Monat.  a) müssen  b) dürfen  c) wollen
-4. Zum Glück (4) ______ ich mit dem Fahrrad zur Arbeit fahren — das Büro ist nicht weit.  a) darf  b) muss  c) will
-5. Nächsten Monat (5) ______ wir alle einen Computerkurs machen — auch die Chefin nimmt teil!  a) dürfen  b) wollen  c) müssen
-6. (6) Die Chefin will auch teilnehmen — sie ______ mitmachen!  a) muss  b) will  c) darf
+1. Ich habe jetzt eine neue Stelle. Ich (1) ______ als Ingenieurin bei einer großen Firma. — I have a new job now. I (1) ______ as an engineer at a big company.  a) bin  b) arbeite  c) werde
+2. Ich (2) ______ jeden Tag von acht bis fünf arbeiten — das ist viel. — I (2) ______ work every day from eight to five — that's a lot.  a) muss  b) darf  c) will
+3. Ich (3) ______ auch samstags arbeiten, aber nur einmal im Monat. — I (3) ______ also work on Saturdays, but only once a month.  a) müssen  b) dürfen  c) wollen
+4. Zum Glück (4) ______ ich mit dem Fahrrad zur Arbeit fahren — das Büro ist nicht weit. — Luckily, I (4) ______ bike to work — the office isn't far.  a) darf  b) muss  c) will
+5. Nächsten Monat (5) ______ wir alle einen Computerkurs machen — auch die Chefin nimmt teil! — Next month, we all (5) ______ take a computer course — the boss is joining too!  a) dürfen  b) wollen  c) müssen
+6. (6) Die Chefin will auch teilnehmen — sie ______ mitmachen! — (6) The boss wants to take part too — she ______ to join in!  a) muss  b) will  c) darf
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -369,12 +369,12 @@ Five words are not needed.
 Richtig (R) oder falsch (F)?
 
 
-1. Sofia arbeitet im Büro. ( )
-2. Sofia will Kinderärztin werden. ( )
-3. Felix unterrichtet Mathematik. ( )
-4. Felix darf kreativ sein. ( )
-5. Paula arbeitet bei einer Softwarefirma. ( )
-6. Paula darf nicht von zu Hause arbeiten. ( )
+1. Sofia arbeitet im Büro. — Sofia works in an office. ( )
+2. Sofia will Kinderärztin werden. — Sofia wants to become a pediatrician. ( )
+3. Felix unterrichtet Mathematik. — Felix teaches math. ( )
+4. Felix darf kreativ sein. — Felix is allowed to be creative. ( )
+5. Paula arbeitet bei einer Softwarefirma. — Paula works at a software company. ( )
+6. Paula darf nicht von zu Hause arbeiten. — Paula is not allowed to work from home. ( )
 
 ## Übung C4b — Lesen Text 2 — Stellenanzeige
 
@@ -393,10 +393,10 @@ Text:
 Wähle a, b oder c.
 
 
-1. Die Sprachschule sucht …  a) eine Vollzeitkraft  b) eine Teilzeitkraft  c) einen Programmierer
-2. Bewerber müssen …  a) Englisch sprechen  b) Deutsch sehr gut können  c) Informatik studiert haben
-3. Wie viele Stunden pro Woche muss man arbeiten?  a) 40  b) 20  c) 15
-4. Wo muss man die Bewerbung hinschicken?  a) per Post  b) per E-Mail  c) per Telefon
+1. Die Sprachschule sucht … — The language school is looking for …  a) eine Vollzeitkraft  b) eine Teilzeitkraft  c) einen Programmierer
+2. Bewerber müssen … — Applicants must …  a) Englisch sprechen  b) Deutsch sehr gut können  c) Informatik studiert haben
+3. Wie viele Stunden pro Woche muss man arbeiten? — How many hours per week does one have to work?  a) 40  b) 20  c) 15
+4. Wo muss man die Bewerbung hinschicken? — Where does one have to send the application?  a) per Post  b) per E-Mail  c) per Telefon
 
 ## Übung C5 — Schreiben: Mein Beruf / mein Traumjob
 

@@ -52,6 +52,20 @@ buildsOn:
 > die Plätze sind begrenzt.  
 > **Bruno:** Dann will ich heute noch den Kurs buchen.  
 
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Anna:** Bruno, what time do you have to work today?
+> **Bruno:** I have to be at the office at eight. And you?
+> **Anna:** I work from nine to five. Tonight I still want to study — I have a class tomorrow.
+> **Bruno:** What are you studying?
+> **Anna:** I'm taking a computer course. I want to learn programming.
+> **Bruno:** Cool! Can I join too?
+> **Anna:** Of course! The course is open to everyone. But you have to be quick — the spots are limited.
+> **Bruno:** Then I want to book the course today.
+
+</details>
+
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 
@@ -62,6 +76,16 @@ buildsOn:
 > **Frau Yilmaz:** Um zehn Uhr. Und Herr Brandt darf heute früher gehen —  
 > er hat einen Arzttermin.  
 > **Anna:** Verstanden. Ich beginne sofort.  
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Frau Yilmaz:** Good morning, Anna! You have to prepare the meeting today.
+> **Anna:** Yes, of course. What time does the meeting have to start?
+> **Frau Yilmaz:** At ten o'clock. And Mr. Brandt may leave early today — he has a doctor's appointment.
+> **Anna:** Understood. I'll start right away.
+
+</details>  
 
 ---
 
@@ -408,6 +432,16 @@ einen Kurs in Datenwissenschaft machen.
 > morgens um sechs Uhr aufstehen. Die Arbeit fängt um halb acht an und
 > endet um achtzehn Uhr. Am Nachmittag muss sie noch einkaufen. Sie
 > will später gern Teilzeit arbeiten.
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> Maria works as a sales assistant in a shop in Munich. She has to
+> get up at six o'clock in the morning. Work starts at half past seven
+> and ends at six o'clock (6 pm). In the afternoon she still has to go
+> shopping. She would like to work part-time later on.
+
+</details>
 
 </details>
 
