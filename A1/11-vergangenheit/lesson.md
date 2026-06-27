@@ -50,6 +50,21 @@ buildsOn:
 > **Bruno:** Schön! Und wann bist du nach Hause gegangen?  
 > **Anna:** Erst um Mitternacht! Ich war sehr müde.  
 
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Anna:** Hello Bruno! How was your weekend?
+> **Bruno:** Great! I went to the cinema on Saturday. The film was really good.
+> **Anna:** Oh, interesting! What did you do on Sunday?
+> **Bruno:** I slept in, and then I played football.
+> **Anna:** With whom?
+> **Bruno:** With my friend Carlos. And you? What did you do?
+> **Anna:** I visited a friend (female). We ate at a restaurant and drank wine.
+> **Bruno:** Nice! And when did you go home?
+> **Anna:** Only at midnight! I was really tired.
+
+</details>
+
 ### Dialog B: Formell — im Büro
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
@@ -59,6 +74,16 @@ buildsOn:
 > **Frau Weber:** Danke, sehr schön. Ich habe viel gelesen und bin spazieren gegangen.  
 > **Herr Yilmaz:** Wo sind Sie spazieren gegangen?  
 > **Frau Weber:** Im Englischen Garten. Das Wetter war herrlich.  
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Mr. Yilmaz:** Good morning, Mrs. Weber. How was your weekend?
+> **Mrs. Weber:** Thanks, very nice. I read a lot and went for a walk.
+> **Mr. Yilmaz:** Where did you go for a walk?
+> **Mrs. Weber:** In the English Garden. The weather was magnificent.
+
+</details>
 
 ---
 
@@ -635,6 +660,16 @@ Wien war toll!
 > Sie haben ein neues Café gefunden und Kaffee getrunken. Am Nachmittag
 > ist Anna ins Kino gegangen. Der Film war gut. Am Sonntag hat sie
 > lange geschlafen und ein Buch gelesen.
+
+</details>
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> On Saturday, Anna drove into the city with her friend Maria.
+> They found a new café and drank coffee. In the afternoon
+> Anna went to the cinema. The film was good. On Sunday she
+> slept in and read a book.
 
 </details>
 

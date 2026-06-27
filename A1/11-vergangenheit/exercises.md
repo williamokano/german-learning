@@ -12,9 +12,9 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen and decide: richtig (R) oder falsch (F)?
 
-1. Bruno ist am Samstag ins Kino gegangen. ( )
-2. Am Sonntag hat Bruno Fußball gespielt. ( )
-3. Anna hat einen Freund besucht. ( )
+1. Bruno ist am Samstag ins Kino gegangen. — Bruno went to the cinema on Saturday. ( )
+2. Am Sonntag hat Bruno Fußball gespielt. — On Sunday, Bruno played football. ( )
+3. Anna hat einen Freund besucht. — Anna visited a (male) friend. ( )
 
 ## Übung H1b — Dialog B (formell)
 
@@ -22,8 +22,8 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 Listen and decide: richtig (R) oder falsch (F)?
 
-1. Frau Weber ist im Englischen Garten spazieren gegangen. ( )
-2. Das Wetter war schlecht. ( )
+1. Frau Weber ist im Englischen Garten spazieren gegangen. — Mrs. Weber went for a walk in the English Garden. ( )
+2. Das Wetter war schlecht. — The weather was bad. ( )
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -44,10 +44,10 @@ Höre den Text und fülle die 6 Lücken mit Wörtern aus der Box. Drei Wörter w
 
 Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Wessen Nachricht ist das?  a) Von Maria.  b) Von Anna.  c) Von Bruno.
-2. Wohin ist Maria am Samstag gegangen?  a) Ins Kino.  b) Ins Museum.  c) Ins Café.
-3. Was hat Maria am Nachmittag im Café gemacht?  a) Sie hat Kaffee getrunken.  b) Sie hat Wein getrunken.  c) Sie hat Kuchen gegessen.
-4. Was hat Maria am Sonntag gemacht?  a) Sie hat ein Buch gelesen.  b) Sie ist im Park spazieren gegangen.  c) Sie hat Fußball gespielt.
+1. Wessen Nachricht ist das? — Whose message is this?  a) Von Maria.  b) Von Anna.  c) Von Bruno.
+2. Wohin ist Maria am Samstag gegangen? — Where did Maria go on Saturday?  a) Ins Kino.  b) Ins Museum.  c) Ins Café.
+3. Was hat Maria am Nachmittag im Café gemacht? — What did Maria do in the café in the afternoon?  a) Sie hat Kaffee getrunken.  b) Sie hat Wein getrunken.  c) Sie hat Kuchen gegessen.
+4. Was hat Maria am Sonntag gemacht? — What did Maria do on Sunday?  a) Sie hat ein Buch gelesen.  b) Sie ist im Park spazieren gegangen.  c) Sie hat Fußball gespielt.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -335,12 +335,12 @@ Five words are not needed.
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Ich (1) ____ dir von meinem Wochenende erzählen.  a) möchte  b) muss  c) kann
-2. Am Samstag (2) ____ ich mit Anna ins Konzert gegangen.  a) habe  b) hat  c) bin
-3. Das Konzert (3) ____ super!  a) wurde  b) war  c) hat
-4. Danach (4) ____ wir in einem Restaurant gegessen.  a) sind  b) haben  c) hatten
-5. Ich (5) ____ Pasta und Anna hat Fisch genommen.  a) habe gegessen  b) bin gegessen  c) habe geessen
-6. Am Sonntag (6) ____ ich lange geschlafen — bis 11 Uhr!  a) bin  b) habe  c) hatte
+1. Ich (1) ____ dir von meinem Wochenende erzählen. — I ____ to tell you about my weekend.  a) möchte  b) muss  c) kann
+2. Am Samstag (2) ____ ich mit Anna ins Konzert gegangen. — On Saturday I ____ to the concert with Anna.  a) habe  b) hat  c) bin
+3. Das Konzert (3) ____ super! — The concert ____ super!  a) wurde  b) war  c) hat
+4. Danach (4) ____ wir in einem Restaurant gegessen. — After that we ____ in a restaurant.  a) sind  b) haben  c) hatten
+5. Ich (5) ____ Pasta und Anna hat Fisch genommen. — I ____ pasta and Anna had fish.  a) habe gegessen  b) bin gegessen  c) habe geessen
+6. Am Sonntag (6) ____ ich lange geschlafen — bis 11 Uhr! — On Sunday I ____ in — until 11 o'clock!  a) bin  b) habe  c) hatte
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -375,11 +375,11 @@ Five words are not needed.
 Richtig (R) oder falsch (F)?
 
 
-1. Die Person ist mit einem Freund nach Wien gefahren. ( )
-2. Sie waren vier Tage in Wien. ( )
-3. Am ersten Tag haben sie nur Fotos fotografiert. ( )
-4. Das Wetter war warm und sonnig. ( )
-5. Am letzten Tag haben sie Souvenirs eingekauft. ( )
+1. Die Person ist mit einem Freund nach Wien gefahren. — The person went to Vienna with a (male) friend. ( )
+2. Sie waren vier Tage in Wien. — They were in Vienna for four days. ( )
+3. Am ersten Tag haben sie nur Fotos fotografiert. — On the first day they only took photos. ( )
+4. Das Wetter war warm und sonnig. — The weather was warm and sunny. ( )
+5. Am letzten Tag haben sie Souvenirs eingekauft. — On the last day they bought souvenirs. ( )
 
 ## Übung C4b — Lesen Text 2 — Forum-Post: Hamburg
 
@@ -395,10 +395,10 @@ Richtig (R) oder falsch (F)?
 Choose a, b, or c.
 
 
-1. Die Person ist …  a) alleine gefahren  b) mit der Schwester gefahren  c) mit dem Bruder gefahren
-2. Am ersten Tag haben sie …  a) ein Konzert besucht  b) Fisch gegessen  c) ein Museum besucht
-3. Am zweiten Abend …  a) sind sie ins Konzert gegangen  b) haben sie eingekauft  c) sind sie ins Museum gegangen
-4. Was haben sie als Souvenirs gekauft?  a) Fisch und Brot  b) Kaffee und Schokolade  c) Bücher und Musik
+1. Die Person ist … — The person …  a) alleine gefahren  b) mit der Schwester gefahren  c) mit dem Bruder gefahren
+2. Am ersten Tag haben sie … — On the first day they …  a) ein Konzert besucht  b) Fisch gegessen  c) ein Museum besucht
+3. Am zweiten Abend … — On the second evening …  a) sind sie ins Konzert gegangen  b) haben sie eingekauft  c) sind sie ins Museum gegangen
+4. Was haben sie als Souvenirs gekauft? — What did they buy as souvenirs?  a) Fisch und Brot  b) Kaffee und Schokolade  c) Bücher und Musik
 
 ## Übung C5 — Schreiben: Mein Wochenende / meine Reise
 
