@@ -379,14 +379,14 @@ exercises:
       3. Der Lieferant {3} die Frist verkürzen.
       4. Die Abteilung {4} die Kosten senken.
       5. Die Geschäftsführung {5} expandieren.
-      6. Die Mitarbeiter {6} die neuen Regeln beachten.
+      6. Der Mitarbeiter {6} die neuen Regeln beachten.
     answers:
       "1": habe
       "2": sei
       "3": werde
       "4": müsse
       "5": wolle
-      "6": sollten
+      "6": solle
 
   - id: A11
     block: A
@@ -440,14 +440,14 @@ exercises:
       3. Der Lieferant wird die Frist verkürzen.
       4. Die Abteilung muss die Kosten senken.
       5. Die Geschäftsführung will expandieren.
-      6. Die Mitarbeiter sollen die neuen Regeln beachten.
+      6. Der Mitarbeiter soll die neuen Regeln beachten.
     model: |
       1. Der Vorstand habe dem Vorschlag zugestimmt.
       2. Die Bank sei mit dem Kredit einverstanden.
       3. Der Lieferant werde die Frist verkürzen.
       4. Die Abteilung müsse die Kosten senken.
       5. Die Geschäftsführung wolle expandieren.
-      6. Die Mitarbeiter sollten die neuen Regeln beachten.
+      6. Der Mitarbeiter solle die neuen Regeln beachten.
 
   - id: B3
     block: B
@@ -887,9 +887,9 @@ exercises:
       - items: [GmbH, AG, KG, Skonto]
         odd: 3
         why: "Skonto ist keine Rechtsform; GmbH, AG und KG sind Unternehmensformen."
-      - items: [steigen, sinken, wachsen, schrumpfen, liefern]
-        odd: 4
-        why: "liefern ist eine Geschäftshandlung; die anderen vier beschreiben Entwicklung."
+      - items: [steigen, sinken, wachsen, liefern]
+        odd: 3
+        why: "liefern ist eine konkrete Geschäftshandlung; die anderen drei beschreiben Veränderung von Größen."
       - items: [Rabatt, Skonto, Mahnung, Bedingung]
         odd: 2
         why: "Mahnung ist eine schriftliche Aufforderung; Rabatt, Skonto und Bedingung sind Vertragsklauseln."

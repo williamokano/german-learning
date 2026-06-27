@@ -172,7 +172,7 @@ Stell dir vor, du arbeitest in einem mittelständischen Unternehmen und der Vors
 
 ### Vertrags- und Zahlungsbedingungen
 
-> 💡 **Lerntipp:** Die Begriffe rund um Vertrag und Zahlung haben **feste Kollokationen**, die du am besten im Block lernst: *einen Vertrag abschließen / unterzeichnen / kündigen*, *eine Rechnung schreiben / begleichen / mahnen*, *eine Mahnung schicken / erhalten*, *Zahlungsziel vereinbaren / überschreiten*. Einzelne Wörter sind hier fast nie neutral — sie haben immer den passenden Begleiter.
+> 💡 **Lerntipp:** Die Begriffe rund um Vertrag und Zahlung haben **feste Kollokationen**, die du am besten im Block lernst: *einen Vertrag abschließen / unterzeichnen / kündigen*, *eine Rechnung schreiben / begleichen / prüfen*, *eine Mahnung schicken / erhalten*, *Zahlungsziel vereinbaren / überschreiten*. Einzelne Wörter sind hier fast nie neutral — sie haben immer den passenden Begleiter.
 
 | Nomen | Erklärung |
 |---|---|
@@ -230,7 +230,7 @@ Am Abend saß Lukas mit Mia in der Kantine. „Und?", fragte sie. „Gut gelaufe
 3. Die **Kosten** sind **um eine Million Euro** gestiegen.
 4. Die **Nachfrage** ist in den letzten Monaten **deutlich gesunken**.
 5. Wir **wachsen** in den asiatischen **Markt** (in + Akkusativ).
-6. Die **Konkurrenz** schrumpft — zwei Anbieter haben schon ** aufgegeben**.
+6. Die **Konkurrenz** schrumpft — zwei Anbieter haben schon **aufgegeben**.
 7. Das Unternehmen investiert **kräftig** in neue Maschinen.
 8. Die Investitionen **amortisieren** sich nach zwei bis drei Jahren.
 9. Die **Bilanz** fällt **positiv aus** / fällt **negativ aus**.
@@ -360,7 +360,7 @@ Am Abend saß Lukas mit Mia in der Kantine. „Und?", fragte sie. „Gut gelaufe
 2. *Die Geschäftsführung **werde** im nächsten Quartal in den asiatischen Markt **expandieren**.*
 3. *Der Lieferant **könne** die Lieferzeit auf sechs Wochen **verkürzen**.*
 4. *Die Bank **sei** mit dem Kreditantrag **einverstanden**.*
-5. *Die Mitarbeiter **sollten** die neuen Sicherheitsvorschriften **beachten**.*
+5. *Der Mitarbeiter **solle** die neuen Sicherheitsvorschriften **beachten**.*
 6. *Die Abteilung **wolle** die Kosten um zehn Prozent **senken**.*
 7. *Der Aufsichtsrat **beschließe** die Erweiterung der Produktionshalle.*
 8. *Aus dem Bericht **gehe hervor**, dass die Investitionen sich **amortisieren**.*
@@ -375,8 +375,8 @@ Am Abend saß Lukas mit Mia in der Kantine. „Und?", fragte sie. „Gut gelaufe
 > |---|---|
 > | *Der Vorstand **hat** zugestimmt* (Indikativ — direkte Aussage) | *Der Vorstand **habe** zugestimmt* (Konjunktiv I — Wiedergabe) |
 > | *Der Vorstand **hatte** zugestimmt* (Plusquamperfekt, falsche Zeit) | *Der Vorstand **habe** zugestimmt* (Konjunktiv I, Präsens-Bedeutung) |
-> | *Er **kann** die Frist verkürzen* (Indikativ) | *Er **könne** die Frist verkürzen* (Konjunktiv I, *könne* ohne Umlaut) |
-> | *Er **kann** das / Er **könne** das* (falsche Konjugation) | *Er **könne** das* (richtig); *könne* hat kein Umlaut |
+> | *Er **kann** die Frist verkürzen* (Indikativ) | *Er **könne** die Frist verkürzen* (Konjunktiv I, *könne* mit Umlaut) |
+> | *Er **kann** das / Er **könne** das* (falsche Konjugation) | *Er **könne** das* (richtig); *könne* hat Umlaut (ö, von *können*) |
 > | *Konjunktiv II: Der Vorstand **würde** zustimmen* (Hypothese) | *Konjunktiv I: Der Vorstand **habe** zugestimmt* (Wiedergabe) |
 > | *Wir verwenden Konjunktiv I nur für Gegenwart* | Konjunktiv I kann auch Vergangenheit ausdrücken (mit *habe/sei + Partizip II*) |
 
