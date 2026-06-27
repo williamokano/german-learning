@@ -724,7 +724,20 @@ exercises:
     type: true-false
     title: "Lesen Text 1 — Drei Berufe"
     instructions: |
-      Text: Lies „Drei Berufe" in lesson.md, section 7.
+      > Ich heiße Sofia und ich bin Ärztin. Ich arbeite im Krankenhaus. Ich
+      > muss sehr früh aufstehen — meine Schicht beginnt um sieben Uhr. Ich
+      > will in Zukunft Kinderärztin werden. Das Studium ist lang und schwer,
+      > aber ich lerne sehr gern.
+      >
+      > Ich bin Felix und ich bin Lehrer. Ich unterrichte Deutsch und
+      > Geschichte an einer Schule in Hamburg. Ich muss viele Prüfungen
+      > vorbereiten, aber ich darf auch kreativ sein. Meine Schülerinnen und
+      > Schüler sind toll!
+      >
+      > Ich heiße Paula und ich bin Programmiererin. Ich arbeite bei einer
+      > Softwarefirma. Ich darf oft von zu Hause arbeiten — das ist
+      > praktisch! Ich will nächstes Jahr einen Kurs in Datenwissenschaft
+      > machen.
 
       Richtig (R) oder falsch (F)?
     items:
