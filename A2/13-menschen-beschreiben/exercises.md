@@ -64,6 +64,20 @@ Listen to the voice message. Then choose the correct answer (a, b, or c). Listen
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Neuer Nachbar)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Person / Eigenschaft | Detail |
+|---|---|
+| Klaus (Name) | ______ | neuer Nachbar |
+| Alter / Typ | älterer Herr | ______ |
+| Beruf | Architekt | ______ |
+| Familie | Frau aus Wien | ______ |
+| Einzug | vor einer Woche | dritter Stock |
+
 ---
 
 # Block A — Basistraining
