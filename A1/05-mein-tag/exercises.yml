@@ -829,7 +829,27 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 — Toms Tag"
-    instructions: 'Read „Der Tag von Tom Berger" in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    instructions: |
+      > Tom Berger ist Bäcker. Sein Tag beginnt sehr früh: Er steht
+      > um drei Uhr auf! Um Viertel nach drei fängt seine Arbeit an.
+      > Tom macht Brot und Brötchen — und das von drei Uhr bis zwölf
+      > Uhr mittags. Das sind neun Stunden Arbeit.
+      >
+      > Dann isst Tom zu Mittag. Er schläft von eins bis drei am
+      > Nachmittag — das ist seine Mittagspause. Am Nachmittag kauft
+      > er ein oder räumt seine Wohnung auf. Er kocht nicht viel;
+      > meistens isst er Brot mit Käse.
+      >
+      > Abends sieht Tom nicht fern — er ist zu müde. Er geht schon
+      > um neun Uhr schlafen. Das ist früh, aber er steht ja auch um
+      > drei auf!
+      >
+      > Am Sonntag arbeitet Tom nicht. Das ist sein freier Tag. Am
+      > Sonntag steht er um zehn Uhr auf und frühstückt lange mit
+      > seiner Familie. Seine Frau kocht — Eier, Brötchen, Kaffee.
+      > Tom sagt: „Sonntag ist mein bester Tag."
+
+      Richtig (R) oder falsch (F)?
     items:
       - q: "Tom steht um drei Uhr auf."
         answer: true
