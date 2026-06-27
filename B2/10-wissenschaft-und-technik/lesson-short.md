@@ -107,6 +107,7 @@ buildsOn:
 | die Hypothese, -n | Annahme, die geprüft werden soll |
 | der Versuch, -e | einzelnes Experiment |
 | die Versuchsreihe, -n | Serie gleichartiger Versuche |
+| der Proband, -en / die Probandin, -nen | Versuchsperson in einer Studie |
 | das Ergebnis, -se | Resultat, Befund einer Untersuchung |
 | die Erkenntnis, -se | neue wissenschaftliche Einsicht |
 | die Evidenz, -en | gesicherter Wissensstand, Belege |
@@ -145,7 +146,7 @@ buildsOn:
 | die Anwendung, -en | konkreter Einsatz einer Technologie |
 | der Algorithmus, -men | Rechenvorschrift, automatisierte Berechnung |
 | die Daten (Pl.) | digitale Informationen |
-| der Datensatz, -ä-e (die Datensätze) | geordnete Sammlung von Daten |
+| der Datensatz, -̈e (die Datensätze) | geordnete Sammlung von Daten |
 | die Stichprobe, -n | Teilmenge, die untersucht wird |
 | die Methodik, -en | methodisches Vorgehen |
 | das Modell, -e | vereinfachte Darstellung der Realität |
