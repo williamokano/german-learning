@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Beim Arzt"
     audio: dialog1.mp3
-    instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen and decide: True (R) or False (F)?"
     items:
       - q: "Der Patient hat Halsschmerzen und Kopfschmerzen. — The patient has a sore throat and a headache."
         answer: true
@@ -35,7 +36,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: In der Apotheke"
     audio: dialog2.mp3
-    instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen and decide: True (R) or False (F)?"
     items:
       - q: "Anna kauft Tabletten ohne Rezept. — Anna buys tablets without a prescription."
         answer: true
@@ -117,7 +119,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Körperteile: der, die oder das?"
-    instructions: "Write the correct definite article."
+    instructions: "Schreibe den richtigen bestimmten Artikel."
+    instructionsEn: "Write the correct definite article."
     text: |
       1. {1} Kopf  2. {2} Nase  3. {3} Auge  4. {4} Ohr  5. {5} Mund
       6. {6} Hals  7. {7} Arm  8. {8} Hand  9. {9} Finger  10. {10} Bein
@@ -144,7 +147,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Plural der Körperteile"
-    instructions: "Write the plural form (include article)."
+    instructions: "Schreibe die Pluralform (mit Artikel)."
+    instructionsEn: "Write the plural form (include article)."
     text: |
       1. der Kopf → die {1}  2. das Auge → die {2}  3. das Ohr → die {3}
       4. die Hand → die {4}  5. der Zahn → die {5}  6. der Arm → die {6}
@@ -167,7 +171,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`weh tun`: fill in `tut` or `tun`"
-    instructions: "Singular subject → `tut`, plural subject → `tun`."
+    instructions: "Singular-Subjekt → „tut\", Plural-Subjekt → „tun\"."
+    instructionsEn: "Singular subject → `tut`, plural subject → `tun`."
     text: |
       1. Mein Kopf {1} weh.
       2. Meine Beine {2} weh.
@@ -192,7 +197,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`sollen`: Konjugationstabelle und Sätze"
-    instructions: "Fill the table from memory, then complete each sentence with the correct form of `sollen`."
+    instructions: "Fülle die Tabelle aus dem Gedächtnis, und ergänze dann jeden Satz mit der richtigen Form von „sollen\"."
+    instructionsEn: "Fill the table from memory, then complete each sentence with the correct form of `sollen`."
     text: |
       ich {1} · du {2} · er/sie/es {3} · wir {4} · ihr {5} · sie/Sie {6}
 
@@ -225,7 +231,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Imperativ du-Form: bilden"
-    instructions: "Example: trinken → Trink viel Wasser!"
+    instructions: "Beispiel: trinken → Trink viel Wasser!"
+    instructionsEn: "Example: trinken → Trink viel Wasser!"
     text: |
       1. trinken → {1}
       2. kommen → {2}
@@ -254,7 +261,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Imperativ ihr-Form"
-    instructions: "Rewrite the du-imperatives from A5, items 1–6, as ihr-imperatives."
+    instructions: "Schreibe die du-Imperative aus A5, Aufgaben 1–6, als ihr-Imperative."
+    instructionsEn: "Rewrite the du-imperatives from A5, items 1–6, as ihr-imperatives."
     text: |
       1. (trinken) → {1}
       2. (kommen) → {2}
@@ -275,7 +283,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Imperativ: du, ihr oder Sie?"
-    instructions: "Write the correct imperative for each situation."
+    instructions: "Schreibe den passenden Imperativ für jede Situation."
+    instructionsEn: "Write the correct imperative for each situation."
     text: |
       1. Tell your little sister (du) to drink her tea: {1}
       2. Tell two friends (ihr) to come here: {2}
@@ -300,7 +309,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Possessive articles im Akkusativ"
-    instructions: "All gaps are accusative objects. Fill in the correct form."
+    instructions: "Alle Lücken sind Akkusativobjekte. Ergänze die richtige Form."
+    instructionsEn: "All gaps are accusative objects. Fill in the correct form."
     text: |
       1. Ich bewege {1} Arm. (mein)
       2. Er öffnet {2} Mund. (sein)
@@ -325,7 +335,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Possessive articles im Dativ"
-    instructions: "Fill in the dative possessive article (L8-Präpositionen)."
+    instructions: "Ergänze das Possessivartikel im Dativ (Präpositionen aus L8)."
+    instructionsEn: "Fill in the dative possessive article (L8-Präpositionen)."
     text: |
       1. Ich gehe mit {1} Mutter zum Arzt. (mein)
       2. Er hat Schmerzen in {2} Rücken. (sein)
@@ -350,7 +361,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gesundheitsvokabular: Lücken füllen"
-    instructions: "Fill each gap with one word from the lesson vocabulary."
+    instructions: "Fülle jede Lücke mit einem Wort aus dem Lektionsvokabular."
+    instructionsEn: "Fill each gap with one word from the lesson vocabulary."
     text: |
       1. Ich habe 38,8 Grad. Ich habe {1}.
       2. Mein Hals ist rot. Ich habe {2}.
@@ -375,7 +387,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`müssen` vs. `sollen`"
-    instructions: "Choose `müssen` or `sollen`. (More than one answer can be correct — explain why in your head.)"
+    instructions: "Wähle „müssen\" oder „sollen\". (Mehrere Antworten können richtig sein — begründe still für dich.)"
+    instructionsEn: "Choose `müssen` or `sollen`. (More than one answer can be correct — explain why in your head.)"
     text: |
       1. Du {1} viel trinken. (the doctor's advice)
       2. Ich {2} jetzt schlafen — ich bin so müde.
@@ -400,7 +413,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Satzklammer mit `sollen`: Sätze bauen"
-    instructions: "Build sentences with `sollen` + infinitive at the end."
+    instructions: "Bilde Sätze mit „sollen\" + Infinitiv am Ende."
+    instructionsEn: "Build sentences with `sollen` + infinitive at the end."
     text: |
       1. du / viel schlafen / sollen → {1}
       2. er / zu Hause bleiben / sollen → {2}
@@ -475,7 +489,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
+    instructions: "Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form."
+    instructionsEn: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
     text: |
       1. Mein Füße {1} weh. (tut → ?)
       2. {2} viel Wasser, Anna! (talking to one friend) (Trinkt → ?)
@@ -535,7 +550,8 @@ exercises:
     block: B
     type: order
     title: "Satzbau"
-    instructions: "Build correct sentences. Verb in position 2 for statements."
+    instructions: "Bilde korrekte Sätze. Verb auf Position 2 bei Aussagen."
+    instructionsEn: "Build correct sentences. Verb in position 2 for statements."
     items:
       - tiles: [weh, tut, mein, Rücken]
         answer: [2, 3, 1, 0]
@@ -574,7 +590,8 @@ exercises:
     block: B
     type: categorize
     title: "Körperteil-Kategorien"
-    instructions: "Sort the 12 body parts into the three groups. (Schulter, Brust, and Rücken could fit multiple categories — any reasonable column is fine.)"
+    instructions: "Sortiere die 12 Körperteile in die drei Gruppen. (Schulter, Brust und Rücken können in mehrere Kategorien passen — jede sinnvolle Spalte ist okay.)"
+    instructionsEn: "Sort the 12 body parts into the three groups. (Schulter, Brust, and Rücken could fit multiple categories — any reasonable column is fine.)"
     buckets:
       - { key: kopf, label: "Kopf (head area)" }
       - { key: arm, label: "Arm/Hand area" }
@@ -667,7 +684,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Imperativ-Transformation"
-    instructions: "Rewrite each sentence three ways: as a du-imperative, an ihr-imperative, and a Sie-imperative."
+    instructions: "Schreibe jeden Satz auf drei Arten: als du-Imperativ, ihr-Imperativ und Sie-Imperativ."
+    instructionsEn: "Rewrite each sentence three ways: as a du-imperative, an ihr-imperative, and a Sie-imperative."
     text: |
       1. (trinken, Tee) → du: {1} · ihr: {2} · Sie: {3}
       2. (nehmen, die Tabletten) → du: {4} · ihr: {5} · Sie: {6}
@@ -694,7 +712,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |-
       Bruno {1} sich heute nicht gut. Sein Hals {2} weh und er hat
       {3} und Schnupfen. Er ruft die Arztpraxis {4}. „Ich brauche
@@ -773,7 +792,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once."
     text: |-
       — Guten Tag, Arztpraxis Müller.
       — Guten Tag! Ich {1} Kopfschmerzen und Husten. Was {2} mir?
@@ -923,7 +943,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest (incl. L7 + L8)"
-    instructions: "One minute per item. No notes."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen."
+    instructionsEn: "One minute per item. No notes."
     text: |
       1. `sollen`, du-form: du {1}
       2. du-imperative of `nehmen`: {2}

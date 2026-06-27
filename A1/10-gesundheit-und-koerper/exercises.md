@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
 
-Listen and decide: Richtig (R) oder Falsch (F)?
+Höre und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Der Patient hat Halsschmerzen und Kopfschmerzen. — The patient has a sore throat and a headache. ( )
 2. Der Arzt sagt, der Patient soll ins Krankenhaus. — The doctor says the patient should go to the hospital. ( )
@@ -21,7 +21,7 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
-Listen and decide: Richtig (R) oder Falsch (F)?
+Höre und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Anna kauft Tabletten ohne Rezept. — Anna buys tablets without a prescription. ( )
 2. Anna soll die Tabletten dreimal täglich nehmen. — Anna should take the tablets three times a day. ( )
@@ -69,7 +69,7 @@ Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einma
 
 ## Übung A1 — Körperteile: der, die oder das?
 
-Write the correct definite article.
+Schreibe den richtigen bestimmten Artikel.
 
 1. ______ Kopf  2. ______ Nase  3. ______ Auge  4. ______ Ohr  5. ______ Mund
 6. ______ Hals  7. ______ Arm  8. ______ Hand  9. ______ Finger  10. ______ Bein
@@ -77,7 +77,7 @@ Write the correct definite article.
 
 ## Übung A2 — Plural der Körperteile
 
-Write the plural form (include article).
+Schreibe die Pluralform (mit Artikel).
 
 1. der Kopf → die ______  2. das Auge → die ______  3. das Ohr → die ______
 4. die Hand → die ______  5. der Zahn → die ______  6. der Arm → die ______
@@ -86,7 +86,7 @@ Write the plural form (include article).
 
 ## Übung A3 — `weh tun`: fill in `tut` or `tun`
 
-Singular subject → `tut`, plural subject → `tun`.
+Singular-Subjekt → „tut", Plural-Subjekt → „tun".
 
 1. Mein Kopf ______ weh.
 2. Meine Beine ______ weh.
@@ -99,7 +99,7 @@ Singular subject → `tut`, plural subject → `tun`.
 
 ## Übung A4 — `sollen`: Konjugationstabelle und Sätze
 
-Fill the table from memory, then complete each sentence with the correct form of `sollen`.
+Fülle die Tabelle aus dem Gedächtnis, und ergänze dann jeden Satz mit der richtigen Form von „sollen".
 
 ich ______ · du ______ · er/sie/es ______ · wir ______ · ihr ______ · sie/Sie ______
 
@@ -114,7 +114,7 @@ ich ______ · du ______ · er/sie/es ______ · wir ______ · ihr ______ · sie/S
 
 ## Übung A5 — Imperativ du-Form: bilden
 
-Example: trinken → Trink viel Wasser!
+Beispiel: trinken → Trink viel Wasser!
 
 1. trinken → ______
 2. kommen → ______
@@ -129,7 +129,7 @@ Example: trinken → Trink viel Wasser!
 
 ## Übung A6 — Imperativ ihr-Form
 
-Rewrite the du-imperatives from A5, items 1–6, as ihr-imperatives.
+Schreibe die du-Imperative aus A5, Aufgaben 1–6, als ihr-Imperative.
 
 1. (trinken) → ______
 2. (kommen) → ______
@@ -140,7 +140,7 @@ Rewrite the du-imperatives from A5, items 1–6, as ihr-imperatives.
 
 ## Übung A7 — Imperativ: du, ihr oder Sie?
 
-Write the correct imperative for each situation.
+Schreibe den passenden Imperativ für jede Situation.
 
 1. Tell your little sister (du) to drink her tea: ______
 2. Tell two friends (ihr) to come here: ______
@@ -153,7 +153,7 @@ Write the correct imperative for each situation.
 
 ## Übung A8 — Possessive articles im Akkusativ
 
-All gaps are accusative objects. Fill in the correct form.
+Alle Lücken sind Akkusativobjekte. Ergänze die richtige Form.
 
 1. Ich bewege ______ Arm. (mein)
 2. Er öffnet ______ Mund. (sein)
@@ -166,7 +166,7 @@ All gaps are accusative objects. Fill in the correct form.
 
 ## Übung A9 — Possessive articles im Dativ
 
-Fill in the dative possessive article (L8-Präpositionen).
+Ergänze das Possessivartikel im Dativ (Präpositionen aus L8).
 
 1. Ich gehe mit ______ Mutter zum Arzt. (mein)
 2. Er hat Schmerzen in ______ Rücken. (sein)
@@ -179,7 +179,7 @@ Fill in the dative possessive article (L8-Präpositionen).
 
 ## Übung A10 — Gesundheitsvokabular: Lücken füllen
 
-Fill each gap with one word from the lesson vocabulary.
+Fülle jede Lücke mit einem Wort aus dem Lektionsvokabular.
 
 1. Ich habe 38,8 Grad. Ich habe ______.
 2. Mein Hals ist rot. Ich habe ______.
@@ -192,7 +192,7 @@ Fill each gap with one word from the lesson vocabulary.
 
 ## Übung A11 — `müssen` vs. `sollen`
 
-Choose `müssen` or `sollen`. (More than one answer can be correct — explain why in your head.)
+Wähle „müssen" oder „sollen". (Mehrere Antworten können richtig sein — begründe still für dich.)
 
 1. Du ______ viel trinken. (the doctor's advice)
 2. Ich ______ jetzt schlafen — ich bin so müde.
@@ -203,7 +203,7 @@ Choose `müssen` or `sollen`. (More than one answer can be correct — explain w
 
 ## Übung A12 — Satzklammer mit `sollen`: Sätze bauen
 
-Build sentences with `sollen` + infinitive at the end.
+Bilde Sätze mit „sollen" + Infinitiv am Ende.
 
 1. du / viel schlafen / sollen → ______
 2. er / zu Hause bleiben / sollen → ______
@@ -242,7 +242,7 @@ Build sentences with `sollen` + infinitive at the end.
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
+Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form.
 
 1. Mein Füße ______ weh. (tut → ?)
 2. ______ viel Wasser, Anna! (talking to one friend) (Trinkt → ?)
@@ -270,7 +270,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 ## Übung B5 — Satzbau
 
-Build correct sentences. Verb in position 2 for statements.
+Bilde korrekte Sätze. Verb auf Position 2 bei Aussagen.
 
 1. weh – mein – tut – Rücken
 2. trinken – du – sollst – viel
@@ -285,7 +285,7 @@ Build correct sentences. Verb in position 2 for statements.
 
 ## Übung B6 — Körperteil-Kategorien
 
-Sort the 12 body parts into the three groups. (Schulter, Brust, and Rücken could fit multiple categories — any reasonable column is fine.)
+Sortiere die 12 Körperteile in die drei Gruppen. (Schulter, Brust und Rücken können in mehrere Kategorien passen — jede sinnvolle Spalte ist okay.)
 
 > Auge · Nase · Finger · Knie · Schulter · Ohr · Fuß · Zahn · Ellbogen · Mund · Brust · Rücken
 
@@ -333,7 +333,7 @@ Self-check:
 
 ## Übung B10 — Imperativ-Transformation
 
-Rewrite each sentence three ways: as a du-imperative, an ihr-imperative, and a Sie-imperative.
+Schreibe jeden Satz auf drei Arten: als du-Imperativ, ihr-Imperativ und Sie-Imperativ.
 
 1. (trinken, Tee) → du: ______ · ihr: ______ · Sie: ______
 2. (nehmen, die Tabletten) → du: ______ · ihr: ______ · Sie: ______
@@ -346,7 +346,7 @@ Rewrite each sentence three ways: as a du-imperative, an ihr-imperative, and a S
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Bruno ______ sich heute nicht gut. Sein Hals ______ weh und er hat
 ______ und Schnupfen. Er ruft die Arztpraxis ______. „Ich brauche
@@ -367,7 +367,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden.
 
 > — Guten Tag, Arztpraxis Müller.
 > — Guten Tag! Ich (1) ______ Kopfschmerzen und Husten. Was (2) ______ mir?
@@ -459,7 +459,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest (incl. L7 + L8)
 
-One minute per item. No notes.
+Eine Minute pro Aufgabe. Keine Notizen.
 
 1. `sollen`, du-form: du ______
 2. du-imperative of `nehmen`: ______
