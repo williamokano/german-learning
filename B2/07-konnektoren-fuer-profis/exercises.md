@@ -364,7 +364,12 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Wie man wirklich eine Sprache lernt)
 
-Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?
+> Viele Lernende glauben, man lerne eine Sprache vor allem durch Grammatikregeln und lange Vokabellisten. Doch die Forschung zeigt ein anderes Bild: Eine Sprache lernt man vor allem, **indem** man sie benutzt. **Je** mehr man spricht, liest und hört, **desto** schneller wachsen die Fähigkeiten — und zwar weit schneller, als wenn man nur Tabellen auswendig lernt.
+> Das bedeutet nicht, dass Grammatik unwichtig wäre. **Zwar** braucht man ein Grundgerüst an Regeln, **aber** dieses Gerüst füllt sich erst durch echten Gebrauch mit Leben. **Obwohl** viele Kurse sehr regelorientiert sind, kommen die größten Fortschritte meist außerhalb des Klassenzimmers — beim Reden mit Freunden, beim Lesen, beim Hören von Podcasts. **Sofern** man regelmäßig dranbleibt, stellt sich der Erfolg fast von selbst ein.
+> Wichtig ist die Regelmäßigkeit. **Falls** man wochenlang pausiert, vergisst man schnell wieder, was man gelernt hat. Deshalb empfehlen Experten kurze, tägliche Einheiten, **sodass** das Gelernte im Kopf bleibt. **Trotz** aller Apps und Programme gilt am Ende eine einfache Wahrheit: Eine Sprache lebt vom Sprechen. Wer den Mut findet, Fehler zu machen, kommt am weitesten — **es sei denn**, er gibt vorher auf.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Laut Text lernt man eine Sprache vor allem dadurch, dass man sie benutzt. ( )
 2. Der Text sagt, dass Grammatik völlig unwichtig ist. ( )
