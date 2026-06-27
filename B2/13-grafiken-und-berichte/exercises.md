@@ -353,7 +353,14 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Warum Prozent nicht gleich Prozent ist)
 
-Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?
+> Wer zum ersten Mal eine Statistik liest, sieht oft nur eine Zahl: „74 Prozent". Aber eine einzelne Zahl sagt fast nichts. Sie sagt nicht, **wann** der Wert gemessen wurde, **im Vergleich wozu**, **welche Grundgesamtheit** befragt wurde und **welche Frage genau** gestellt wurde. Erst wenn man all das mitdenkt, wird aus einer Zahl eine Aussage.
+> Ein einfaches Beispiel: Eine Umfrage zur Frage „Wie wichtig ist Ihnen Klimaschutz?" zeigt für 2024 einen Wert von 74 Prozent, die angeben, das Thema sei „sehr wichtig". 2015 waren es nur 64 Prozent. Klingt nach einem klaren Aufwärtstrend — und in gewisser Weise ist es das auch: Im Zeitraum von 2015 bis 2024 ist der Anteil um 10 Prozentpunkte gestiegen. Aber Vorsicht: **10 Prozentpunkte sind nicht 10 Prozent**. Wer „plus 10 Prozent" schreibt, wenn eigentlich „plus 10 Prozentpunkte" gemeint ist, verfälscht die Aussage. Bei einem Ausgangswert von 64 Prozent sind 10 Prozentpunkte eine Zunahme um rund 16 Prozent — nicht um 10.
+> Die zweite Falle betrifft die **Vergleichsbasis**. Wenn eine Zeitung schreibt „Im Vergleich zu 2020 ist der Wert um 8 Prozent gestiegen", ist die Frage: Acht Prozent wovon? Vom absoluten Wert (zum Beispiel: von 100 000 auf 108 000) oder als Index (von 100 auf 108)? Beide Aussagen sind korrekt, aber sie sagen Unterschiedliches. Wer hier nicht genau hinschaut, verwechselt leicht relative und absolute Veränderungen — ein klassischer Fehler in der Berichterstattung.
+> Die dritte Falle betrifft die **Stichprobe und die Frage**. Eine Erhebung mit n = 2 008 ist repräsentativ; eine mit n = 80 ist es nicht. Und wer eine Frage stellt wie „Finden Sie, dass die Regierung mehr für den Klimaschutz tun sollte?", bekommt andere Antworten als auf „Ist Ihnen Klimaschutz wichtig?". Beide Fragen werden oft vermischt, obwohl sie Unterschiedliches messen: das eine ist eine **politische Forderung**, das andere eine **persönliche Einstellung**.
+> Die Lehre aus all dem: Eine seriöse Datenlektüre fragt immer nach **Zeitraum**, **Quelle**, **Stichprobe** und **genauem Wortlaut der Frage**. Wer das beachtet, kann auch aus komplexen Grafiken klare und überprüfbare Aussagen ableiten. Wer das nicht beachtet, zitiert schnell etwas, das in den Daten gar nicht steht.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Laut Lesetext sagt eine einzelne Zahl fast nichts, wenn man Zeitraum und Vergleichsbasis nicht kennt. ( )
 2. Im Lesetext ist es korrekt, „plus 10 Prozent" zu schreiben, wenn der Anteil von 64 auf 74 Prozent gestiegen ist. ( )
