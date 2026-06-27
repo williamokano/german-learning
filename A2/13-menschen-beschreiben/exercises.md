@@ -353,7 +353,14 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Teil 1 (Mein Kollege Marko)
 
-Read the Lesetext „Mein Kollege Marko" (§7 of the lesson). Richtig (R) oder falsch (F)?
+> Mein Kollege Marko ist 32 Jahre alt. Er arbeitet seit zwei Monaten in unserem Team. Er ist ein großer, schlanker Mann mit kurzen dunklen Haaren und grünen Augen. Er trägt eine Brille, die ihm sehr gut steht.
+>
+> Marko ist der Typ, der immer fröhlich und optimistisch ist. Er ist auch der Kollege, den alle im Team mögen, weil er sehr hilfsbereit und geduldig ist. In seiner Freizeit spielt er gern Fußball und kocht italienisches Essen. Er macht die Pasta, die alle im Büro lieben.
+>
+> Am Wochenende geht Marko gern ins Kino. Er liebt die Filme, die lustig und ein bisschen verrückt sind. Marko hat eine kleine Schwester, die noch in seiner Heimatstadt studiert. Ich mag Marko sehr — er ist genau der Mensch, den ich in meinem Team brauche.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Marko arbeitet seit einem Jahr im Team. ( )
 2. Marko hat grüne Augen. ( )
