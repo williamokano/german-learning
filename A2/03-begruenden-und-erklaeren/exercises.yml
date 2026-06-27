@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: True (R) or False (F)?"
     items:
       - { q: "Bruno kommt zu spät zum Kurs.", answer: true, why: "Bruno kommt zu spät zum Kurs." }
       - { q: "Er ist zu spät aufgestanden, weil er krank war.", answer: false, why: "Er ist zu spät aufgestanden, weil sein Wecker nicht geklingelt hat (nicht weil er krank war)." }
@@ -28,7 +29,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Warum verlässt Herr Steinmeyer den Kurs?"
         options:
@@ -64,7 +66,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre und fülle die 6 fehlenden Wörter ein. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Yuki wohnt in München und lernt dort Deutsch. Sie hat heute einen Brief von ihrer Mutter aus Osaka {1}. Ihre Mutter fragt, warum Yuki nicht nach Japan {2}. Yuki {3} zurück, dass sie in München bleiben möchte, weil sie hier viele Freunde {4} hat. Sie erklärt auch, dass ihr Job in München sehr gut ist. Deswegen hat sie {5}, noch ein Jahr zu bleiben. Ihre Mutter ist {6}, aber sie versteht es.
     bank: [bekommen, bleiben, entschieden, erklärt, gefunden, schreibt, traurig, verstehen, zurückkommt]
@@ -81,7 +84,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Verspätung der U-Bahn"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: "Achtung, eine Durchsage. Liebe Fahrgäste, die U-Bahn-Linie U 3 hat heute zwischen Hauptbahnhof und Stadtmitte eine Verspätung von ungefähr fünfzehn Minuten. Grund dafür ist eine technische Störung am Gleis. Wir bitten um Ihr Verständnis, weil unsere Techniker den Schaden jetzt reparieren. Bitte weichen Sie, wenn möglich, auf die Linie U 6 aus. Wir informieren Sie, sobald die Störung behoben ist. Vielen Dank für Ihre Geduld."
     items:
       - q: "Welche U-Bahn-Linie hat Verspätung?"
@@ -119,6 +123,7 @@ exercises:
     title: "Tabelle ausfüllen: Dialog B (Wien-Abschied)"
     audio: dialog1_b.mp3
     instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    instructionsEn: "Listen to the dialog once and fill in the table. Each row is missing **one** piece of information — the hints in the other cells help you."
     columns: ["Satz / Aussage", "Konnektor (weil/dass/darum)", "Ergänzung"]
     rows:
       - label: "Kurs verlassen"
@@ -144,7 +149,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Verb-Endstellung mit `weil`: Regel verstehen"
-    instructions: "Look at the pattern. Then complete the rule."
+    instructions: "Schau dir das Muster an und ergänze dann die Regel."
+    instructionsEn: "Look at the pattern. Then complete the rule."
     text: |
       1. Er kommt nicht, weil er krank {1}.
       2. Sie lernt viel, weil sie eine Prüfung {2}.
@@ -161,7 +167,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`weil`-Sätze: Verb ans Ende"
-    instructions: "Join the two sentences using `weil`. Put the verb at the end of the second clause. Each item has a single gap for the final verb."
+    instructions: "Verbinde die zwei Sätze mit „weil\". Setze das Verb an das Ende des Nebensatzes. Jede Aufgabe hat eine Lücke für das Verb am Ende."
+    instructionsEn: "Join the two sentences using `weil`. Put the verb at the end of the second clause. Each item has a single gap for the final verb."
     text: |
       1. Anna kommt zu spät. → Anna kommt zu spät, weil sie den Bus {1}.
       2. Bruno lernt Deutsch. → Bruno lernt Deutsch, weil er in Berlin {2}.
@@ -190,7 +197,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`weil` mit Perfekt (Verb ans Ende!)"
-    instructions: "Join using `weil`. Watch the Perfekt verb order (Partizip II + auxiliary)."
+    instructions: "Verbinde mit „weil\". Achte auf die Verbstellung im Perfekt (Partizip II + Hilfsverb)."
+    instructionsEn: "Join using `weil`. Watch the Perfekt verb order (Partizip II + auxiliary)."
     text: |
       1. Bruno ist zu spät. → Bruno ist zu spät, weil der Wecker nicht {1}.
       2. Anna ist froh. → Anna ist froh, weil sie einen netten Mitbewohner {2}.
@@ -215,7 +223,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`weil` mit Modalverb (Infinitiv + Modal ans Ende!)"
-    instructions: "Join using `weil`. Watch the order: Infinitiv + Modalverb at the end."
+    instructions: "Verbinde mit „weil\". Achte auf die Reihenfolge: Infinitiv + Modalverb am Ende."
+    instructionsEn: "Join using `weil`. Watch the order: Infinitiv + Modalverb at the end."
     text: |
       1. Er lernt jeden Tag. → Er lernt jeden Tag, weil er die Prüfung bestehen {1}.
       2. Sie geht nicht aus. → Sie geht nicht aus, weil sie zu Hause bleiben {2}.
@@ -236,7 +245,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`dass`-Sätze bilden"
-    instructions: "Complete using `dass`. Put the verb at the end."
+    instructions: "Ergänze mit „dass\". Setze das Verb an das Ende."
+    instructionsEn: "Complete using `dass`. Put the verb at the end."
     text: |
       1. Ich denke, dass Deutsch schwierig {1}.
       2. Sie sagt, dass sie um drei Uhr {2}.
@@ -265,7 +275,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`dass` mit Perfekt und Modalverb"
-    instructions: "Form the `dass`-clause. The gap is the verb phrase at the end."
+    instructions: "Bilde den dass-Satz. Die Lücke enthält die Verbphrase am Ende."
+    instructionsEn: "Form the `dass`-clause. The gap is the verb phrase at the end."
     text: |
       1. Ich weiß, dass er das vergessen {1}.
       2. Sie sagt, dass sie das Buch schon gelesen {2}.
@@ -286,7 +297,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`deshalb` / `darum` / `deswegen`: Inversion!"
-    instructions: "Combine the sentences using the given connector. The gap is the verb (it comes before the subject after the connector)."
+    instructions: "Verbinde die Sätze mit dem angegebenen Konnektor. Die Lücke ist das Verb (es steht nach dem Konnektor, vor dem Subjekt)."
+    instructionsEn: "Combine the sentences using the given connector. The gap is the verb (it comes before the subject after the connector)."
     text: |
       1. Ich bin müde. (deshalb) → Deshalb {1} ich früh schlafen.
       2. Anna hat eine Prüfung. (darum) → Darum {2} sie heute Abend.
@@ -311,7 +323,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`weil` vs. `deshalb`: Der große Kontrast"
-    instructions: "These sentence pairs express the same idea. Fill in the verb at the end of the `weil`-clause, then the verb in position 2 of the `deshalb`-clause."
+    instructions: "Diese Satzpaare drücken denselben Gedanken aus. Ergänze das Verb am Ende des „weil\"-Satzes und dann das Verb auf Position 2 des „deshalb\"-Satzes."
+    instructionsEn: "These sentence pairs express the same idea. Fill in the verb at the end of the `weil`-clause, then the verb in position 2 of the `deshalb`-clause."
     text: |
       1. a) Ich lerne Deutsch, weil ich in Berlin {1} (wohnen).
          b) Ich wohne in Berlin. Deshalb {2} ich Deutsch (lernen).
@@ -335,7 +348,8 @@ exercises:
     block: A
     type: true-false
     title: "Wortstellung im `weil`-Satz: Richtig oder falsch?"
-    instructions: "Mark each sentence R (richtig) or F (falsch)."
+    instructions: "Markiere jeden Satz mit R (richtig) oder F (falsch)."
+    instructionsEn: "Mark each sentence R (richtig) or F (falsch)."
     items:
       - { q: "Ich komme nicht, weil ich habe keine Zeit.", answer: false, why: 'Ich komme nicht, weil ich keine Zeit **habe**. (verb must go to end)' }
       - { q: "Er ist müde, weil er viel gearbeitet hat.", answer: true, why: "Correct word order." }
@@ -351,7 +365,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Satzanfang: Nebensatz zuerst (inversion im Hauptsatz)"
-    instructions: "Rewrite the sentence so the `weil`-clause comes FIRST. The gap is the main-clause verb (which comes immediately after the comma, before the subject)."
+    instructions: "Schreibe den Satz so um, dass der „weil\"-Satz ZUERST kommt. Die Lücke ist das Verb des Hauptsatzes (es steht direkt nach dem Komma, vor dem Subjekt)."
+    instructionsEn: "Rewrite the sentence so the `weil`-clause comes FIRST. The gap is the main-clause verb (which comes immediately after the comma, before the subject)."
     text: |
       1. Anna kommt zu spät, weil sie den Bus verpasst hat. → Weil sie den Bus verpasst hat, {1} Anna zu spät.
       2. Wir bleiben zu Hause, weil es regnet. → Weil es regnet, {2} wir zu Hause.
@@ -370,7 +385,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Tabelle vervollständigen: `weil` / `deshalb`"
-    instructions: "Complete the table — two expressions of the same idea. Each row has two gaps."
+    instructions: "Ergänze die Tabelle: zwei Formulierungen derselben Idee. Jede Zeile hat zwei Lücken."
+    instructionsEn: "Complete the table — two expressions of the same idea. Each row has two gaps."
     text: |
       1. weil: Ich trinke Wasser, weil ich Durst {1}.  |  deshalb: Ich habe Durst. Deshalb {2} ich Wasser.
       2. weil: Er kauft das Auto, weil er ein Auto {3}.  |  darum: Er braucht ein Auto. Darum {4} er es.
@@ -391,7 +407,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Meinung ausdrücken: `ich finde / glaube / denke, dass…`"
-    instructions: "Turn each statement into an opinion sentence using the verb in brackets. The gap is the final verb in the `dass`-clause."
+    instructions: "Forme jede Aussage in einen Meinungssatz mit dem Verb in Klammern um. Die Lücke enthält das Verb am Ende des dass-Satzes."
+    instructionsEn: "Turn each statement into an opinion sentence using the verb in brackets. The gap is the final verb in the `dass`-clause."
     text: |
       1. Der Kurs ist interessant. (finden) → Ich finde, dass der Kurs interessant {1}.
       2. Anna hat Recht. (glauben) → Ich glaube, dass Anna Recht {2}.
@@ -418,7 +435,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dialog ergänzen"
-    instructions: "Fill in the blanks with the appropriate form. Choose from: `weil`, `dass`, `deshalb`, `darum`, `deswegen`, or a verb form."
+    instructions: "Ergänze die Lücken mit der passenden Form. Wähle aus: „weil\", „dass\", „deshalb\", „darum\", „deswegen\" oder eine Verbform."
+    instructionsEn: "Fill in the blanks with the appropriate form. Choose from: `weil`, `dass`, `deshalb`, `darum`, `deswegen`, or a verb form."
     text: |
       — Warum lernst du Deutsch, Sofia?
       — Ich lerne Deutsch, {1} ich in Deutschland arbeiten möchte.
@@ -446,7 +464,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: 'Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form. Item 3 is correct (write C).'
+    instructions: "Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form. Aufgabe 3 ist korrekt (schreibe C)."
+    instructionsEn: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form. Item 3 is correct (write C)."
     text: |
       1. Ich bin müde, weil ich viel gearbeitet {1}. (habe → ?)
       2. Er kommt nicht. Deshalb {2} er krank. (es → ?)
@@ -475,7 +494,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Sätze verbinden: `weil` oder `deshalb`?"
-    instructions: "Write each pair connected using BOTH `weil` AND `deshalb` (two separate answers each time)."
+    instructions: "Verbinde jedes Paar SOWOHL mit „weil\" ALS AUCH mit „deshalb\" (zwei separate Antworten)."
+    instructionsEn: "Write each pair connected using BOTH `weil` AND `deshalb` (two separate answers each time)."
     text: |
       1. Anna übt viel. Sie macht schnell Fortschritte.
          a) Anna übt viel, weil sie schnell Fortschritte {1}.
@@ -575,7 +595,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`dass`-Kette: Was sagen sie?"
-    instructions: "Report what each person says. Use `Er/Sie sagt, dass…` — the gap is the final verb in the dass-clause."
+    instructions: "Gib wieder, was jede Person sagt. Verwende „Er/Sie sagt, dass…\" — die Lücke enthält das Verb am Ende des dass-Satzes."
+    instructionsEn: "Report what each person says. Use `Er/Sie sagt, dass…` — the gap is the final verb in the dass-clause."
     text: |
       1. Bruno: "Ich lerne Deutsch für meinen Job." → Bruno sagt, dass er Deutsch für seinen Job {1}.
       2. Frau Weber: "Die Prüfung ist nächste Woche." → Frau Weber sagt, dass die Prüfung nächste Woche {2}.
@@ -642,7 +663,8 @@ exercises:
     block: B
     type: single-choice
     title: "`weil`-Satz: Modalverben im Nebensatz"
-    instructions: "Choose the correct option. The infinitive must come before the modal verb, both at the end of the `weil`-clause."
+    instructions: "Wähle die richtige Option. Der Infinitiv muss vor dem Modalverb stehen, beide am Ende des „weil\"-Satzes."
+    instructionsEn: "Choose the correct option. The infinitive must come before the modal verb, both at the end of the `weil`-clause."
     items:
       - q: "Ich gehe früh schlafen, weil ich morgen früh aufstehen ___."
         options:
@@ -680,7 +702,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |
       Liebe Anna,
       ich schreibe dir, {1} ich ein Problem habe und deine Meinung brauche.
@@ -768,7 +791,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
     text: |
       Anna und Bruno sprechen über ihre Gründe, Deutsch zu lernen.
 
@@ -885,7 +909,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per item. No notes."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen."
+    instructionsEn: "One minute per item. No notes."
     text: |
       1. „Ich lerne Deutsch, {1} ich in Berlin wohne." (connector)
       2. „Das Auto ist kaputt. {2} nehmen wir den Bus." (connector + inversion)
@@ -926,7 +951,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd one out"
-    instructions: "Cross out the word that doesn't fit. Say why."
+    instructions: "Streiche das Wort durch, das nicht passt, und sage warum."
+    instructionsEn: "Cross out the word that doesn't fit. Say why."
     groups:
       - items: [weil, deshalb, darum, deswegen]
         odd: 0

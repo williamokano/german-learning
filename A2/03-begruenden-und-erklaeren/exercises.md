@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Bruno kommt zu spät zum Kurs. ( )
 2. Er ist zu spät aufgestanden, weil er krank war. ( )
@@ -21,7 +21,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Warum verlässt Herr Steinmeyer den Kurs?  a) Weil er krank ist.  b) Weil er eine neue Stelle in Wien angenommen hat.  c) Weil der Kurs zu schwierig ist.
 2. Warum geht Herr Steinmeyer nach Wien?  a) Weil die Stadt schöner ist als Berlin.  b) Weil seine Familie dort lebt und das Angebot gut ist.  c) Weil Frau Weber das empfohlen hat.
@@ -32,7 +32,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Three words in the box are not needed.
+Höre und fülle die 6 fehlenden Wörter ein. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Yuki wohnt in München und lernt dort Deutsch. Sie hat heute einen Brief von ihrer Mutter aus Osaka (1) ______. Ihre Mutter fragt, warum Yuki nicht nach Japan (2) ______. Yuki (3) ______ zurück, dass sie in München bleiben möchte, weil sie hier viele Freunde (4) ______ hat. Sie erklärt auch, dass ihr Job in München sehr gut ist. Deswegen hat sie (5) ______, noch ein Jahr zu bleiben. Ihre Mutter ist (6) ______, aber sie versteht es.
 
@@ -42,7 +42,7 @@ Listen and fill in the 6 missing words. Three words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Welche U-Bahn-Linie hat Verspätung?  a) Die U 3.  b) Die U 6.  c) Die U 9.
 2. Wie viel Verspätung gibt es?  a) Ungefähr fünf Minuten.  b) Ungefähr zehn Minuten.  c) Ungefähr fünfzehn Minuten.
@@ -78,7 +78,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A1 — Verb-Endstellung mit `weil`: Regel verstehen
 
-Look at the pattern. Then complete the rule.
+Schau dir das Muster an und ergänze dann die Regel.
 
 1. Er kommt nicht, weil er krank ______.
 2. Sie lernt viel, weil sie eine Prüfung ______.
@@ -87,7 +87,7 @@ Look at the pattern. Then complete the rule.
 
 ## Übung A2 — `weil`-Sätze: Verb ans Ende
 
-Join the two sentences using `weil`. Put the verb at the end of the second clause. Each item has a single gap for the final verb.
+Verbinde die zwei Sätze mit „weil". Setze das Verb an das Ende des Nebensatzes. Jede Aufgabe hat eine Lücke für das Verb am Ende.
 
 1. Anna kommt zu spät. → Anna kommt zu spät, weil sie den Bus ______.
 2. Bruno lernt Deutsch. → Bruno lernt Deutsch, weil er in Berlin ______.
@@ -102,7 +102,7 @@ Join the two sentences using `weil`. Put the verb at the end of the second claus
 
 ## Übung A3 — `weil` mit Perfekt (Verb ans Ende!)
 
-Join using `weil`. Watch the Perfekt verb order (Partizip II + auxiliary).
+Verbinde mit „weil". Achte auf die Verbstellung im Perfekt (Partizip II + Hilfsverb).
 
 1. Bruno ist zu spät. → Bruno ist zu spät, weil der Wecker nicht ______.
 2. Anna ist froh. → Anna ist froh, weil sie einen netten Mitbewohner ______.
@@ -115,7 +115,7 @@ Join using `weil`. Watch the Perfekt verb order (Partizip II + auxiliary).
 
 ## Übung A4 — `weil` mit Modalverb (Infinitiv + Modal ans Ende!)
 
-Join using `weil`. Watch the order: Infinitiv + Modalverb at the end.
+Verbinde mit „weil". Achte auf die Reihenfolge: Infinitiv + Modalverb am Ende.
 
 1. Er lernt jeden Tag. → Er lernt jeden Tag, weil er die Prüfung bestehen ______.
 2. Sie geht nicht aus. → Sie geht nicht aus, weil sie zu Hause bleiben ______.
@@ -126,7 +126,7 @@ Join using `weil`. Watch the order: Infinitiv + Modalverb at the end.
 
 ## Übung A5 — `dass`-Sätze bilden
 
-Complete using `dass`. Put the verb at the end.
+Ergänze mit „dass". Setze das Verb an das Ende.
 
 1. Ich denke, dass Deutsch schwierig ______.
 2. Sie sagt, dass sie um drei Uhr ______.
@@ -141,7 +141,7 @@ Complete using `dass`. Put the verb at the end.
 
 ## Übung A6 — `dass` mit Perfekt und Modalverb
 
-Form the `dass`-clause. The gap is the verb phrase at the end.
+Bilde den dass-Satz. Die Lücke enthält die Verbphrase am Ende.
 
 1. Ich weiß, dass er das vergessen ______.
 2. Sie sagt, dass sie das Buch schon gelesen ______.
@@ -152,7 +152,7 @@ Form the `dass`-clause. The gap is the verb phrase at the end.
 
 ## Übung A7 — `deshalb` / `darum` / `deswegen`: Inversion!
 
-Combine the sentences using the given connector. The gap is the verb (it comes before the subject after the connector).
+Verbinde die Sätze mit dem angegebenen Konnektor. Die Lücke ist das Verb (es steht nach dem Konnektor, vor dem Subjekt).
 
 1. Ich bin müde. (deshalb) → Deshalb ______ ich früh schlafen.
 2. Anna hat eine Prüfung. (darum) → Darum ______ sie heute Abend.
@@ -165,7 +165,7 @@ Combine the sentences using the given connector. The gap is the verb (it comes b
 
 ## Übung A8 — `weil` vs. `deshalb`: Der große Kontrast
 
-These sentence pairs express the same idea. Fill in the verb at the end of the `weil`-clause, then the verb in position 2 of the `deshalb`-clause.
+Diese Satzpaare drücken denselben Gedanken aus. Ergänze das Verb am Ende des „weil"-Satzes und dann das Verb auf Position 2 des „deshalb"-Satzes.
 
 1. a) Ich lerne Deutsch, weil ich in Berlin ______ (wohnen).
    b) Ich wohne in Berlin. Deshalb ______ ich Deutsch (lernen).
@@ -178,7 +178,7 @@ These sentence pairs express the same idea. Fill in the verb at the end of the `
 
 ## Übung A9 — Wortstellung im `weil`-Satz: Richtig oder falsch?
 
-Mark each sentence R (richtig) or F (falsch).
+Markiere jeden Satz mit R (richtig) oder F (falsch).
 
 1. Ich komme nicht, weil ich habe keine Zeit. ( )
 2. Er ist müde, weil er viel gearbeitet hat. ( )
@@ -191,7 +191,7 @@ Mark each sentence R (richtig) or F (falsch).
 
 ## Übung A10 — Satzanfang: Nebensatz zuerst (inversion im Hauptsatz)
 
-Rewrite the sentence so the `weil`-clause comes FIRST. The gap is the main-clause verb (which comes immediately after the comma, before the subject).
+Schreibe den Satz so um, dass der „weil"-Satz ZUERST kommt. Die Lücke ist das Verb des Hauptsatzes (es steht direkt nach dem Komma, vor dem Subjekt).
 
 1. Anna kommt zu spät, weil sie den Bus verpasst hat. → Weil sie den Bus verpasst hat, ______ Anna zu spät.
 2. Wir bleiben zu Hause, weil es regnet. → Weil es regnet, ______ wir zu Hause.
@@ -201,7 +201,7 @@ Rewrite the sentence so the `weil`-clause comes FIRST. The gap is the main-claus
 
 ## Übung A11 — Tabelle vervollständigen: `weil` / `deshalb`
 
-Complete the table — two expressions of the same idea. Each row has two gaps.
+Ergänze die Tabelle: zwei Formulierungen derselben Idee. Jede Zeile hat zwei Lücken.
 
 1. weil: Ich trinke Wasser, weil ich Durst ______.  |  deshalb: Ich habe Durst. Deshalb ______ ich Wasser.
 2. weil: Er kauft das Auto, weil er ein Auto ______.  |  darum: Er braucht ein Auto. Darum ______ er es.
@@ -210,7 +210,7 @@ Complete the table — two expressions of the same idea. Each row has two gaps.
 
 ## Übung A12 — Meinung ausdrücken: `ich finde / glaube / denke, dass…`
 
-Turn each statement into an opinion sentence using the verb in brackets. The gap is the final verb in the `dass`-clause.
+Forme jede Aussage in einen Meinungssatz mit dem Verb in Klammern um. Die Lücke enthält das Verb am Ende des dass-Satzes.
 
 1. Der Kurs ist interessant. (finden) → Ich finde, dass der Kurs interessant ______.
 2. Anna hat Recht. (glauben) → Ich glaube, dass Anna Recht ______.
@@ -227,7 +227,7 @@ Turn each statement into an opinion sentence using the verb in brackets. The gap
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the blanks with the appropriate form. Choose from: `weil`, `dass`, `deshalb`, `darum`, `deswegen`, or a verb form.
+Ergänze die Lücken mit der passenden Form. Wähle aus: „weil", „dass", „deshalb", „darum", „deswegen" oder eine Verbform.
 
 — Warum lernst du Deutsch, Sofia?
 — Ich lerne Deutsch, ______ ich in Deutschland arbeiten möchte.
@@ -239,7 +239,7 @@ Fill in the blanks with the appropriate form. Choose from: `weil`, `dass`, `desh
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form. Item 3 is correct (write C).
+Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form. Aufgabe 3 ist korrekt (schreibe C).
 
 1. Ich bin müde, weil ich viel gearbeitet ______. (habe → ?)
 2. Er kommt nicht. Deshalb ______ er krank. (es → ?)
@@ -254,7 +254,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 ## Übung B3 — Sätze verbinden: `weil` oder `deshalb`?
 
-Write each pair connected using BOTH `weil` AND `deshalb` (two separate answers each time).
+Verbinde jedes Paar SOWOHL mit „weil" ALS AUCH mit „deshalb" (zwei separate Antworten).
 
 1. Anna übt viel. Sie macht schnell Fortschritte.
    a) Anna übt viel, weil sie schnell Fortschritte ______.
@@ -305,7 +305,7 @@ Statement 2: "Weil man Englisch überall sprechen kann, muss man kein Deutsch le
 
 ## Übung B7 — `dass`-Kette: Was sagen sie?
 
-Report what each person says. Use `Er/Sie sagt, dass…` — the gap is the final verb in the dass-clause.
+Gib wieder, was jede Person sagt. Verwende „Er/Sie sagt, dass…" — die Lücke enthält das Verb am Ende des dass-Satzes.
 
 1. Bruno: "Ich lerne Deutsch für meinen Job." → Bruno sagt, dass er Deutsch für seinen Job ______.
 2. Frau Weber: "Die Prüfung ist nächste Woche." → Frau Weber sagt, dass die Prüfung nächste Woche ______.
@@ -345,7 +345,7 @@ Self-check:
 
 ## Übung B10 — `weil`-Satz: Modalverben im Nebensatz
 
-Choose the correct option. The infinitive must come before the modal verb, both at the end of the `weil`-clause.
+Wähle die richtige Option. Der Infinitiv muss vor dem Modalverb stehen, beide am Ende des „weil"-Satzes.
 
 1. Ich gehe früh schlafen, weil ich morgen früh aufstehen ___.  a) muss aufstehen  b) aufstehen muss  c) muss
 2. Er kommt nicht, weil er arbeiten ___.  a) muss  b) arbeiten muss  c) muss arbeiten
@@ -358,7 +358,7 @@ Choose the correct option. The infinitive must come before the modal verb, both 
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Liebe Anna,
 ich schreibe dir, ______ ich ein Problem habe und deine Meinung brauche.
@@ -382,7 +382,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Ten words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > Anna und Bruno sprechen über ihre Gründe, Deutsch zu lernen.
 > 
@@ -456,7 +456,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes.
+Eine Minute pro Aufgabe. Keine Notizen.
 
 1. „Ich lerne Deutsch, ______ ich in Berlin wohne." (connector)
 2. „Das Auto ist kaputt. ______ nehmen wir den Bus." (connector + inversion)
@@ -476,7 +476,7 @@ One minute per item. No notes.
 
 ## Übung D2 — Odd one out
 
-Cross out the word that doesn't fit. Say why.
+Streiche das Wort durch, das nicht passt, und sage warum.
 
 1. weil – deshalb – darum – deswegen
 2. glauben – meinen – denken – streiken
