@@ -376,7 +376,16 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Brunos erster Arbeitstag)
 
-Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?
+> Bruno hat Glück gehabt: Er hat eine Stelle als IT-Assistent bei einer kleinen Softwarefirma in Berlin gefunden. Heute ist sein erster Arbeitstag.
+>
+> Er steht um sieben Uhr auf und fährt mit der U-Bahn ins Büro. Wenn der Zug pünktlich kommt, braucht er nur zwanzig Minuten. Sein Chef, Herr Keller, begrüßt ihn freundlich und stellt ihm die Kolleginnen und Kollegen vor. Brunos Kollegin Laura arbeitet als Programmiererin. Sie erklärt ihm, dass er, wenn er Fragen hat, immer fragen kann.
+>
+> Der Arbeitstag beginnt um neun Uhr. Bruno hat von neun bis dreizehn Uhr gearbeitet, dann hat er eine Stunde Pause gemacht. Wenn er Hunger hat, geht er in die Kantine. Am Nachmittag hat er an einer Besprechung teilgenommen. Er hat nicht alles verstanden, aber das macht nichts — wenn man neu ist, braucht man Zeit.
+>
+> Am Ende des Tages ist Bruno müde, aber zufrieden. Wenn die ersten Wochen gut laufen, möchte er langfristig bei der Firma bleiben. Er schreibt Anna eine Nachricht: „Erster Tag super! Wenn du Zeit hast, erzähle ich dir alles beim Kaffee."
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Bruno fährt mit dem Bus zur Arbeit. ( )
 2. Brunos Kollegin Laura ist Programmiererin. ( )
