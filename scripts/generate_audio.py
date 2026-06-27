@@ -458,7 +458,7 @@ def _apply_effects(speech_path: str, context: str, out_path: str):
             "-f", "lavfi", "-i", f"{noise_filter}",
             "-filter_complex",
             f"[0]{af_speech}[speech];[1]volume={bg_vol}[bg];[speech][bg]amix=inputs=2:duration=first",
-            "-q:a", "4", out_path
+            "-f", "mp3", "-q:a", "4", out_path
         ]
     else:
         # Just apply post effects (phone / PA) with no background
@@ -467,12 +467,12 @@ def _apply_effects(speech_path: str, context: str, out_path: str):
             ffmpeg_cmd = [
                 "ffmpeg", "-y", "-i", speech_path,
                 "-af", af_str,
-                "-q:a", "4", out_path
+                "-f", "mp3", "-q:a", "4", out_path
             ]
         else:
             ffmpeg_cmd = [
                 "ffmpeg", "-y", "-i", speech_path,
-                "-q:a", "4", out_path
+                "-f", "mp3", "-q:a", "4", out_path
             ]
 
     subprocess.run(ffmpeg_cmd, check=True, capture_output=True)
@@ -727,9 +727,9 @@ def _process_blocks(source_path: Path, blocks: list[dict],
             continue
         # When --section is given, generate_clip writes to a temp file first
         # then atomically replaces the existing file on success — so a failed
-        # regen doesn't leave the directory without audio.
-        import tempfile as _tmp
-        tmp_path = out_path.with_suffix(out_path.suffix + ".new")
+        # regen doesn't leave the directory without audio. Keep the .mp3
+        # extension so ffmpeg can infer the output container format.
+        tmp_path = out_path.with_name(out_path.name + ".tmp")
         try:
             generate_clip(client, block, tmp_path, speed=speed)
         except Exception:
