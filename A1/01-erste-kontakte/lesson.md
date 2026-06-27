@@ -42,6 +42,20 @@ buildsOn: []
 > **Anna:** Welche Sprachen sprichst du?  
 > **Bruno:** Ich spreche Portugiesisch, Englisch und ein bisschen Deutsch.  
 
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Anna:** Hi! My name is Anna. What's your name?
+> **Bruno:** Hi, Anna. I'm Bruno.
+> **Anna:** Where are you from, Bruno?
+> **Bruno:** I'm from Brazil, from Blumenau — that's in Santa Catarina. And you?
+> **Anna:** I'm from Russia, from Yaroslavl, but I live in Berlin now.
+> **Bruno:** Ah, interesting! I also live in Berlin.
+> **Anna:** Which languages do you speak?
+> **Bruno:** I speak Portuguese, English, and a little German.
+
+</details>
+
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 ### Dialog B: Formell — Sie
@@ -53,6 +67,19 @@ buildsOn: []
 > **Frau Weber:** Danke. Woher kommen Sie, Herr Steinmeyer?  
 > **Herr Steinmeyer:** Ich komme aus Österreich, aus Salzburg.  
 > **Frau Weber:** Willkommen in Deutschland!  
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Frau Weber:** Good day! My name is Weber. What is your name? (formal)
+> **Herr Steinmeyer:** Good day, Frau Weber. My name is Friedrich Steinmeyer.
+> **Frau Weber:** Sorry, what was that? Could you spell it, please?
+> **Herr Steinmeyer:** S-T-E-I-N-M-E-Y-E-R.
+> **Frau Weber:** Thank you. Where are you from, Mr. Steinmeyer?
+> **Herr Steinmeyer:** I'm from Austria, from Salzburg.
+> **Frau Weber:** Welcome to Germany!
+
+</details>
 
 **Key cultural point — du vs. Sie:** German has two words for "you".
 `du` is informal (friends, family, children, fellow students). `Sie` (always
@@ -524,6 +551,17 @@ woher kommst du und welche Sprachen sprichst du?
 > Eine Studentin heißt Hana — sie kommt aus der Türkei, aus Istanbul.
 > Wir sprechen Deutsch, Englisch und Spanisch.
 > Der Kurs ist super!
+
+</details>
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> I'm in the German course in Munich. The course has twenty students.
+> One student is called Miguel — he comes from Spain, from Madrid.
+> One student is called Hana — she comes from Turkey, from Istanbul.
+> We speak German, English and Spanish.
+> The course is great!
 
 </details>
 

@@ -17,7 +17,7 @@ exercises:
     instructions: "Höre den Clip und wähle die passende Antwort."
     instructionsEn: "Listen to the clip and choose the correct answer."
     items:
-      - q: "Begrüßungen — was sagst du am Morgen?"
+      - q: "Begrüßungen — was sagst du am Morgen? — Greetings — what do you say in the morning?"
         audio: hoerzu1.mp3
         options:
           - { key: a, text: "Guten Abend" }
@@ -25,7 +25,7 @@ exercises:
           - { key: c, text: "Gute Nacht" }
         answer: b
         why: "Guten Morgen sagt man bis ca. 10–11 Uhr."
-      - q: "Verabschiedungen — was sagst du am Abend vor dem Schlafen?"
+      - q: "Verabschiedungen — was sagst du am Abend vor dem Schlafen? — Farewells — what do you say in the evening before sleeping?"
         audio: hoerzu2.mp3
         options:
           - { key: a, text: "Auf Wiedersehen" }
@@ -33,7 +33,7 @@ exercises:
           - { key: c, text: "Bis morgen" }
         answer: b
         why: "Gute Nacht sagt man nur vor dem Schlafen."
-      - q: "Zahlen 0–10 — welche Zahl kommt nach vier?"
+      - q: "Zahlen 0–10 — welche Zahl kommt nach vier? — Numbers 0–10 — what number comes after four?"
         audio: hoerzu4.mp3
         options:
           - { key: a, text: "fünf" }
@@ -41,7 +41,7 @@ exercises:
           - { key: c, text: "sieben" }
         answer: a
         why: "vier → fünf → sechs."
-      - q: "Zahlen 11–20 — welche Zahl ist zwölf?"
+      - q: "Zahlen 11–20 — welche Zahl ist zwölf? — Numbers 11–20 — which number is twelve?"
         audio: hoerzu5.mp3
         options:
           - { key: a, text: "10" }
@@ -49,7 +49,7 @@ exercises:
           - { key: c, text: "14" }
         answer: b
         why: "zwölf = 12 (unregelmäßige Schreibweise)."
-      - q: "W-Fragewörter — welches Fragewort fragt nach der Herkunft?"
+      - q: "W-Fragewörter — welches Fragewort fragt nach der Herkunft? — W-question words — which question word asks about origin?"
         audio: hoerzu3.mp3
         options:
           - { key: a, text: "Wo" }
@@ -66,13 +66,13 @@ exercises:
     instructionsEn: "Listen to the dialogue and decide: True (R) or False (F)?"
     audio: dialog1_a.mp3
     items:
-      - q: "Anna kommt aus Deutschland."
+      - q: "Anna kommt aus Deutschland. — Anna comes from Germany."
         answer: false
         why: "Anna kommt aus Russland (Jaroslawl), nicht aus Deutschland."
-      - q: "Bruno wohnt in Berlin."
+      - q: "Bruno wohnt in Berlin. — Bruno lives in Berlin."
         answer: true
         why: 'Bruno sagt: "Ich wohne auch in Berlin."'
-      - q: "Bruno spricht nur Englisch."
+      - q: "Bruno spricht nur Englisch. — Bruno speaks only English."
         answer: false
         why: "Bruno spricht Portugiesisch, Englisch und ein bisschen Deutsch."
 
@@ -84,16 +84,16 @@ exercises:
     instructionsEn: "Listen to the dialogue and decide: True (R) or False (F)?"
     audio: dialog1_b.mp3
     items:
-      - q: "Herr Steinmeyer heißt Friedrich."
+      - q: "Herr Steinmeyer heißt Friedrich. — Mr. Steinmeyer's first name is Friedrich."
         answer: true
         why: 'Er sagt: "Ich heiße Friedrich Steinmeyer."'
-      - q: "Herr Steinmeyer kommt aus Deutschland."
+      - q: "Herr Steinmeyer kommt aus Deutschland. — Mr. Steinmeyer comes from Germany."
         answer: false
         why: "Er kommt aus Österreich, aus Salzburg."
-      - q: "Frau Weber buchstabiert ihren eigenen Namen."
+      - q: "Frau Weber buchstabiert ihren eigenen Namen. — Frau Weber spells her own name."
         answer: false
         why: 'Frau Weber bittet Herrn Steinmeyer: "Buchstabieren Sie bitte." Er buchstabiert S-T-E-I-N-M-E-Y-E-R.'
-      - q: "Frau Weber fragt nach Herrn Steinmeyers Herkunft."
+      - q: "Frau Weber fragt nach Herrn Steinmeyers Herkunft. — Frau Weber asks about Mr. Steinmeyer's origin."
         answer: true
         why: 'Frau Weber fragt: "Woher kommen Sie, Herr Steinmeyer?"'
 
@@ -127,28 +127,28 @@ exercises:
     instructions: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Hallo, hier ist Petra. Ich bin deine neue Kollegin aus dem Deutschkurs. Bitte ruf mich zurück, wenn du Zeit hast. Ich möchte mich gerne mit dir treffen. Wir können zusammen einen Kaffee trinken. Meine Nummer ist vier-sieben-eins-eins. Vielen Dank und bis bald!'
     items:
-      - q: "Warum ruft Petra an?"
+      - q: "Warum ruft Petra an? — Why is Petra calling?"
         options:
           - { key: a, text: "Sie hat ein neues Buch." }
           - { key: b, text: "Sie möchte sich mit der Person treffen." }
           - { key: c, text: "Sie hat eine Prüfung." }
         answer: b
         why: '„Ich möchte mich gerne mit dir treffen".'
-      - q: "Wo lernt Petra die Person kennen?"
+      - q: "Wo lernt Petra die Person kennen? — Where does Petra meet this person?"
         options:
           - { key: a, text: "Im Büro." }
           - { key: b, text: "Im Deutschkurs." }
           - { key: c, text: "Im Park." }
         answer: b
         why: '„Ich bin deine neue Kollegin aus dem Deutschkurs".'
-      - q: "Was möchten sie zusammen machen?"
+      - q: "Was möchten sie zusammen machen? — What do they want to do together?"
         options:
           - { key: a, text: "Ins Kino gehen." }
           - { key: b, text: "Einen Kaffee trinken." }
           - { key: c, text: "Einen Spaziergang." }
         answer: b
         why: '„Wir können zusammen einen Kaffee trinken".'
-      - q: "Was ist Petras Telefonnummer?"
+      - q: "Was ist Petras Telefonnummer? — What is Petra's phone number?"
         options:
           - { key: a, text: "Eins-zwei-drei." }
           - { key: b, text: "Vier-fünf-sechs." }
@@ -765,42 +765,42 @@ exercises:
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
-      - q: "Guten Tag! (1) ____ Name ist Petra Lang."
+      - q: "Guten Tag! (1) ____ Name ist Petra Lang. — Good day! My name is Petra Lang."
         options:
           - { key: a, text: "Mein" }
           - { key: b, text: "Ich" }
           - { key: c, text: "Meine" }
         answer: a
         why: "Name ist maskulin → Mein (kein Endung im Nominativ)."
-      - q: "Ich komme (2) ____ Österreich"
+      - q: "Ich komme (2) ____ Österreich — I come from Austria."
         options:
           - { key: a, text: "in" }
           - { key: b, text: "aus" }
           - { key: c, text: "von" }
         answer: b
         why: "Herkunft = aus."
-      - q: "…und wohne (3) ____ Wien."
+      - q: "…und wohne (3) ____ Wien. — …and I live in Vienna."
         options:
           - { key: a, text: "in" }
           - { key: b, text: "aus" }
           - { key: c, text: "nach" }
         answer: a
         why: "Wohnort = in."
-      - q: "Ich (4) ____ Deutsch und Englisch."
+      - q: "Ich (4) ____ Deutsch und Englisch. — I speak German and English."
         options:
           - { key: a, text: "spreche" }
           - { key: b, text: "sprichst" }
           - { key: c, text: "sprechen" }
         answer: a
         why: "ich-Form: ich spreche."
-      - q: 'Im Büro sagen alle Frau Lang und (5) ______, aber meine Freunde sagen du.'
+      - q: 'Im Büro sagen alle Frau Lang und (5) ______, aber meine Freunde sagen du. — At the office everyone says Frau Lang and Sie (formal "you"), but my friends say du (informal "you").'
         options:
           - { key: a, text: "du" }
           - { key: b, text: "Sie" }
           - { key: c, text: "ihr" }
         answer: b
         why: "Formelle Anrede im Büro = Sie."
-      - q: "Mein Kollege Tom (6) ____ aus den USA."
+      - q: "Mein Kollege Tom (6) ____ aus den USA. — My colleague Tom comes from the USA."
         options:
           - { key: a, text: "kommen" }
           - { key: b, text: "kommst" }
@@ -852,19 +852,19 @@ exercises:
 
       Richtig (R) oder falsch (F)?
     items:
-      - q: "Yuki kommt aus China."
+      - q: "Yuki kommt aus China. — Yuki comes from China."
         answer: false
         why: "Yuki kommt aus Japan (Osaka), nicht aus China."
-      - q: "Sie wohnt in München."
+      - q: "Sie wohnt in München. — She lives in Munich."
         answer: true
         why: "Im Text: 'Ich wohne jetzt in München und lerne Deutsch.'"
-      - q: "Yuki spricht sehr gut Deutsch."
+      - q: "Yuki spricht sehr gut Deutsch. — Yuki speaks German very well."
         answer: false
         why: "Sie spricht ein bisschen Deutsch (and not very well yet)."
-      - q: "Die Lehrerin kommt aus Hamburg."
+      - q: "Die Lehrerin kommt aus Hamburg. — The teacher comes from Hamburg."
         answer: true
         why: "Die Lehrerin kommt aus Hamburg."
-      - q: "Im Kurs sind zwanzig Personen."
+      - q: "Im Kurs sind zwanzig Personen. — There are twenty people in the course."
         answer: true
         why: "elf Frauen + neun Männer = zwanzig."
 
@@ -880,28 +880,28 @@ exercises:
 
       Wähle a, b oder c.
     items:
-      - q: "Lukas kommt aus …"
+      - q: "Lukas kommt aus … — Lukas comes from …"
         options:
           - { key: a, text: "Österreich" }
           - { key: b, text: "der Schweiz" }
           - { key: c, text: "Spanien" }
         answer: b
         why: '„Ich heiße Lukas Meier und komme aus der Schweiz, aus Zürich".'
-      - q: "Carmen spricht …"
+      - q: "Carmen spricht … — Carmen speaks …"
         options:
           - { key: a, text: "drei Sprachen" }
           - { key: b, text: "zwei Sprachen" }
           - { key: c, text: "nur Spanisch" }
         answer: a
         why: '„Sie … spricht Spanisch, Englisch und Deutsch" (3 Sprachen).'
-      - q: "Lukas und Carmen wohnen in …"
+      - q: "Lukas und Carmen wohnen in … — Lukas and Carmen live in …"
         options:
           - { key: a, text: "Zürich" }
           - { key: b, text: "Madrid" }
           - { key: c, text: "Basel" }
         answer: c
         why: '„Wir wohnen jetzt in Basel".'
-      - q: "Wer lernt Deutsch?"
+      - q: "Wer lernt Deutsch? — Who is learning German?"
         options:
           - { key: a, text: "Lukas" }
           - { key: b, text: "Carmen" }
