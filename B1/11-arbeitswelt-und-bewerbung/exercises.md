@@ -309,7 +309,32 @@ Is each statement about German interview conventions correct? Answer R (richtig)
 
 ## Übung B8 — Leseverstehen: Annas Bewerbungsschreiben (Lesetext §7)
 
-Read Annas Bewerbungsschreiben in lesson.md section 7. Choose the correct answer (a, b, or c).
+> **Anna Kowalski**
+> Musterstraße 12, 10179 Berlin
+> anna.kowalski@email.de
+>
+> **TechVentures GmbH**
+> z. Hd. Frau Weber
+> Potsdamer Straße 44
+> 10785 Berlin
+>
+> **Betreff: Bewerbung als Projektkoordinatorin — Ihre Ausschreibung vom 1. Juni 2026**
+>
+> Sehr geehrte Frau Weber,
+>
+> hiermit bewerbe ich mich um die ausgeschriebene Stelle als Projektkoordinatorin in Ihrem Unternehmen. Ihr Stellenangebot hat mich sehr angesprochen, weil TechVentures GmbH für Projekte bekannt ist, die wirklich einen Unterschied machen.
+>
+> Ich verfüge über drei Jahre Berufserfahrung im Bereich Marketing und Projektmanagement. Während meiner Tätigkeit als Junior Marketing-Managerin wurden mehrere Projekte gleichzeitig von mir koordiniert, darunter die Einführung eines neuen CRM-Systems, das von unserem Team in nur acht Wochen implementiert wurde. Die Qualität meiner Arbeit spiegelt sich in der positiven Resonanz wider, die wir von unseren Kunden erhalten haben.
+>
+> Ich bin der Meinung, dass die Stärke einer guten Koordinatorin in der klaren Kommunikation liegt. Um sicherzustellen, dass alle Beteiligten informiert sind, nutze ich regelmäßige Statusberichte. Ich bewerbe mich bei Ihnen, um meine Kenntnisse in einem dynamischen Umfeld weiterzuentwickeln.
+>
+> Ich würde mich sehr freuen, Sie in einem persönlichen Gespräch von mir zu überzeugen, und bitte Sie um eine Einladung zum Vorstellungsgespräch.
+>
+> Mit freundlichen Grüßen,
+> Anna Kowalski
+
+Wähle a, b oder c.
+
 
 1. Für welche Stelle bewirbt sich Anna?  a) Als Marketing-Managerin.  b) Als Projektkoordinatorin.  c) Als IT-Consultant.
 2. Was wurde von Anna in ihrer letzten Stelle koordiniert?  a) Ein neues IT-System.  b) Kundenbewertungen.  c) Mehrere Projekte gleichzeitig.
@@ -391,7 +416,32 @@ Five words are not needed.
 
 ## Übung C4a — Leseverstehen: Annas Anschreiben (Richtig / Falsch)
 
-Read Annas Bewerbungsschreiben in lesson.md section 7. Decide: Richtig (R) oder Falsch (F)?
+> **Anna Kowalski**
+> Musterstraße 12, 10179 Berlin
+> anna.kowalski@email.de
+>
+> **TechVentures GmbH**
+> z. Hd. Frau Weber
+> Potsdamer Straße 44
+> 10785 Berlin
+>
+> **Betreff: Bewerbung als Projektkoordinatorin — Ihre Ausschreibung vom 1. Juni 2026**
+>
+> Sehr geehrte Frau Weber,
+>
+> hiermit bewerbe ich mich um die ausgeschriebene Stelle als Projektkoordinatorin in Ihrem Unternehmen. Ihr Stellenangebot hat mich sehr angesprochen, weil TechVentures GmbH für Projekte bekannt ist, die wirklich einen Unterschied machen.
+>
+> Ich verfüge über drei Jahre Berufserfahrung im Bereich Marketing und Projektmanagement. Während meiner Tätigkeit als Junior Marketing-Managerin wurden mehrere Projekte gleichzeitig von mir koordiniert, darunter die Einführung eines neuen CRM-Systems, das von unserem Team in nur acht Wochen implementiert wurde. Die Qualität meiner Arbeit spiegelt sich in der positiven Resonanz wider, die wir von unseren Kunden erhalten haben.
+>
+> Ich bin der Meinung, dass die Stärke einer guten Koordinatorin in der klaren Kommunikation liegt. Um sicherzustellen, dass alle Beteiligten informiert sind, nutze ich regelmäßige Statusberichte. Ich bewerbe mich bei Ihnen, um meine Kenntnisse in einem dynamischen Umfeld weiterzuentwickeln.
+>
+> Ich würde mich sehr freuen, Sie in einem persönlichen Gespräch von mir zu überzeugen, und bitte Sie um eine Einladung zum Vorstellungsgespräch.
+>
+> Mit freundlichen Grüßen,
+> Anna Kowalski
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Anna bewirbt sich für eine Stelle als IT-Consultant. ( )
 2. TechVentures GmbH befindet sich in Berlin. ( )
