@@ -10,7 +10,7 @@ Blocks: **H** Hören → **A** Basistraining → **B** Vertiefung → **C** Prü
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: **Richtig (R)** oder **Falsch (F)**?
+Höre Dialog A und entscheide: **Richtig (R)** oder **Falsch (F)**?
 
 1. Bruno hat sein Wochenende in Hamburg verbracht. ( )
 2. Er ist mit dem Flugzeug nach Hamburg gefahren. ( )
@@ -21,7 +21,7 @@ Listen to Dialog A and decide: **Richtig (R)** oder **Falsch (F)**?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Herr Steinmeyer war im Urlaub in …  a) Salzburg  b) Wien  c) Berlin
 2. Was haben Herr und Frau Steinmeyer zuerst gemacht?  a) Sie sind in die Oper gegangen.  b) Sie haben das Kunsthistorische Museum besucht.  c) Sie haben im Café gefrühstückt.
@@ -32,7 +32,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 8 missing words. **Three words in the box are not needed.**
+Höre und fülle die 8 fehlenden Wörter ein. **Drei Wörter im Kasten werden nicht gebraucht.**
 
 > Anna hat gestern einen interessanten Tag (1) ______. Zuerst hat sie eine
 > E-Mail von ihrer Freundin in Russland (2) ______. Dann hat sie zwei Stunden
@@ -47,7 +47,7 @@ Listen and fill in the 8 missing words. **Three words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the voice message. Then choose the correct answer (a, b, or c). Listen **once** before reading the transcript below.
+Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre **einmal**, bevor du das Transkript unten liest.
 
 1. Wohin ist Lisa gefahren?  a) Nach Dresden.  b) Nach Hamburg.  c) Nach Leipzig.
 2. Wie lange ist Lisa geblieben?  a) Einen Tag.  b) Zwei Tage.  c) Drei Tage.
@@ -84,7 +84,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A1 — Partizip II: ge- oder nicht?
 
-Write the Partizip II for each verb. Mark ✓ (has ge-) or ✗ (no ge-) in the brackets.
+Schreibe das Partizip II für jedes Verb. Markiere ✓ (mit ge-) oder ✗ (ohne ge-) in den Klammern.
 
 1. machen → ______ ( )  2. besuchen → ______ ( )  3. studieren → ______ ( )
 4. fahren → ______ ( )  5. vergessen → ______ ( )  6. kaufen → ______ ( )
@@ -93,7 +93,7 @@ Write the Partizip II for each verb. Mark ✓ (has ge-) or ✗ (no ge-) in the b
 
 ## Übung A2 — Inseparable verbs: Partizip II
 
-Fill in the correct Partizip II. All verbs here are inseparable.
+Ergänze das richtige Partizip II. Alle Verben hier sind untrennbar.
 
 1. Ich habe alles ______ (verstehen).
 2. Wann hast du das ______ (entscheiden)?
@@ -108,7 +108,7 @@ Fill in the correct Partizip II. All verbs here are inseparable.
 
 ## Übung A3 — -ieren verbs: Perfekt sentence
 
-Form the Perfekt sentence.
+Bilde den Perfektsatz.
 
 1. ich / studieren / in Berlin → ______
 2. er / telefonieren / eine Stunde / lang → ______
@@ -119,7 +119,7 @@ Form the Perfekt sentence.
 
 ## Übung A4 — Separable verbs: Partizip II
 
-Form the Partizip II, then use it in a sentence.
+Bilde das Partizip II und verwende es dann in einem Satz.
 
 1. aufstehen → ______  Ich bin früh ______.
 2. anrufen → ______  Hast du deine Mutter ______?
@@ -132,7 +132,7 @@ Form the Partizip II, then use it in a sentence.
 
 ## Übung A5 — Präteritum der Modalverben: Tabelle
 
-Fill in the complete Präteritum table.
+Ergänze die vollständige Präteritum-Tabelle.
 
 ich: müssen ______ · wollen ______ · können ______ · dürfen ______ · sollen ______
 du: ______ · ______ · ______ · ______ · ______
@@ -143,7 +143,7 @@ sie/Sie: ______ · ______ · ______ · ______ · ______
 
 ## Übung A6 — Präteritum der Modalverben: Sätze
 
-Fill in the correct Präteritum form.
+Ergänze die richtige Präteritum-Form.
 
 1. Ich ______ (müssen) gestern früh aufstehen.
 2. Er ______ (wollen) nach Hamburg fahren.
@@ -158,7 +158,7 @@ Fill in the correct Präteritum form.
 
 ## Übung A7 — Zeitkonnektoren: Sätze ordnen
 
-Reorder the words to make a correct sentence. The time connector starts each sentence.
+Bringe die Wörter in die richtige Reihenfolge. Der Zeitkonnektor steht am Satzanfang.
 
 1. haben – zuerst – das Museum – wir – besucht
 2. wir – dann – sind – gegangen – in die Oper
@@ -169,7 +169,7 @@ Reorder the words to make a correct sentence. The time connector starts each sen
 
 ## Übung A8 — haben oder sein? (Perfekt)
 
-Choose the correct auxiliary.
+Wähle die richtige Hilfsverbform.
 
 1. Bruno ______ nach Hamburg gefahren.
 2. Anna ______ ein Buch gelesen.
@@ -184,7 +184,7 @@ Choose the correct auxiliary.
 
 ## Übung A9 — Gemischte Perfekt-Formen
 
-Write the complete Perfekt form (subject + auxiliary + Partizip II).
+Schreibe die vollständige Perfektform (Subjekt + Hilfsverb + Partizip II).
 
 1. ich / fotografieren → ______
 2. du / vergessen / den Termin → ______
@@ -197,7 +197,7 @@ Write the complete Perfekt form (subject + auxiliary + Partizip II).
 
 ## Übung A10 — Zeitkonnektoren: Lücken füllen
 
-Fill in: `zuerst`, `dann`, `danach`, `schließlich`, `am Ende`.
+Ergänze: „zuerst", „dann", „danach", „schließlich", „am Ende".
 
 Gestern war ein langer Tag! ______ habe ich um sechs Uhr gefrühstückt.
 ______ bin ich mit dem Zug nach Hamburg gefahren — das hat drei Stunden
@@ -208,7 +208,7 @@ hat mir sehr gut gefallen!
 
 ## Übung A11 — Präteritum statt Perfekt (Modalverben)
 
-Rewrite these Perfekt modal forms as natural Präteritum forms.
+Schreibe diese Perfekt-Modalformen als natürliche Präteritumformen um.
 
 1. Ich habe kommen müssen. → ______
 2. Er hat nicht gehen wollen. → ______
@@ -222,7 +222,7 @@ Rewrite these Perfekt modal forms as natural Präteritum forms.
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the blanks with the correct form (Perfekt or Präteritum modal).
+Ergänze die Lücken mit der richtigen Form (Perfekt oder Präteritum-Modalverb).
 
 — Hey Anna! Wie war dein Wochenende?
 — Super! Ich ______ (besuchen) eine Ausstellung im Museum.
@@ -240,7 +240,7 @@ Fill in the blanks with the correct form (Perfekt or Präteritum modal).
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly **one** mistake. Write the corrected sentence.
+Jeder Satz hat genau **einen** Fehler. Schreibe den korrigierten Satz.
 
 1. Ich habe meine Freundin begesucht. → ______
 2. Wir haben in Paris gestudiert. → ______
@@ -268,7 +268,7 @@ Each sentence has exactly **one** mistake. Write the corrected sentence.
 
 ## Übung B4 — Satzbau: Zeitkonnektoren
 
-Build the sentence. The time connector is given first; the verb (already conjugated) comes next, in position 2.
+Bilde den Satz. Der Zeitkonnektor steht am Anfang; das (bereits konjugierte) Verb folgt auf Position 2.
 
 1. wir – besuchen – Zuerst – das Stadtmuseum
 2. an – seine Mutter – Dann – ruft – er
@@ -279,7 +279,7 @@ Build the sentence. The time connector is given first; the verb (already conjuga
 
 ## Übung B5 — Partizip II: correct and incorrect
 
-Mark each Partizip II as correct (✓) or incorrect (✗) and write the correct form.
+Markiere jedes Partizip II als korrekt (✓) oder falsch (✗) und schreibe die richtige Form.
 
 1. gestudiert → ______  ______
 2. besucht → ______  ______
@@ -294,7 +294,7 @@ Mark each Partizip II as correct (✓) or incorrect (✗) and write the correct 
 
 ## Übung B6 — Kategorien: welche Verben brauchen sein?
 
-Sort the verbs into two groups: **Perfekt mit `haben`** or **Perfekt mit `sein`**.
+Sortiere die Verben in zwei Gruppen: **Perfekt mit „haben"** oder **Perfekt mit „sein"**.
 
 > besuchen · fahren · essen · gehen · kaufen · ankommen · studieren · umziehen · reservieren · aufstehen · telefonieren · passieren · ausgehen · vergessen · einziehen
 
@@ -315,7 +315,7 @@ Sort the verbs into two groups: **Perfekt mit `haben`** or **Perfekt mit `sein`*
 
 ## Übung B8 — Antworten mit Konnektoren
 
-Answer each question with a complete sentence, using the given connector.
+Antworte auf jede Frage mit einem vollständigen Satz und verwende den angegebenen Konnektor.
 
 > 1. Was hast du zuerst gemacht? (das Museum besuchen) → [Zuerst] ____
 2. Und dann? (in die Stadt gehen) → [Dann] ____
@@ -351,7 +351,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with **one** word. (Some gaps admit multiple solutions — any grammatically correct and contextually fitting answer is accepted.)
+Fülle jede Lücke mit **einem** Wort. (Manche Lücken lassen mehrere Lösungen zu — jede grammatisch korrekte und sinnvolle Antwort wird akzeptiert.)
 
 Letzten Sommer (1) ______ Anna drei Wochen in Russland. Sie hat ihre Familie
 (2) ______ und viele alte Freunde (3) ______. Zuerst ist sie mit dem Zug
@@ -379,7 +379,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. **Ten words are not needed.** Each word may be used once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. **Zehn Wörter werden nicht gebraucht.** Jedes Wort darf nur einmal verwendet werden.
 
 > — Was hast du am Wochenende (1) ______?
 > — Ich (2) ______ in die Ausstellung gegangen. (3) ______ habe ich eine E-Mail
@@ -447,7 +447,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes.
+Eine Minute pro Aufgabe. Keine Notizen.
 
 1. Partizip II of `besuchen`: ______
 2. Partizip II of `studieren`: ______
@@ -467,7 +467,7 @@ One minute per item. No notes.
 
 ## Übung D2 — Odd one out
 
-Cross out the word that doesn't fit.
+Streiche das Wort durch, das nicht passt.
 
 1. zuerst – dann – danach – trotzdem
 2. studiert – reserviert – fotografiert – gefahren
