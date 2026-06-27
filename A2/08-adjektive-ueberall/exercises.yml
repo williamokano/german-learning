@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - { q: "Anna möchte eine schwarze Jacke kaufen.", answer: true, why: "Anna möchte eine schwarze Jacke kaufen." }
       - { q: "Die Jacke, die Anna sieht, hat einen blauen Kragen.", answer: false, why: "Die Jacke hat einen roten Kragen, nicht einen blauen." }
@@ -28,7 +29,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Frau Weber sucht ein Geschenk für …"
         options:
@@ -64,7 +66,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 7 missing words. Three words in the box are not needed."
+    instructions: "Höre und ergänze die 7 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 7 missing words. Three words in the box are not needed."
     text: |
       Yuki wohnt in München und hat heute einen {1} Termin. Sie zieht sich sorgfältig an. Zuerst wählt sie ein {2} Hemd und eine {3} Hose. Dann sucht sie eine passende Jacke — sie findet eine {4} {5} Jacke im Schrank. Mit dem neuen Outfit fühlt sie sich {6}. Schließlich nimmt sie noch eine {7} schwarze Tasche und verlässt die Wohnung.
     bank: [wichtigen, weißes, dunkle, elegante, graue, selbstbewusst, kleine, nervös, bunte, schwarze]
@@ -82,7 +85,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Modenschau im Modehaus"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Achtung, eine Durchsage. Liebe Kundinnen und Kunden, unser Modehaus „Stilvoll" lädt Sie herzlich zur neuen Frühjahrskollektion ein. Ab fünfzehn Uhr gibt es eine exklusive Modenschau im ersten Stock. Außerdem bieten wir heute zwanzig Prozent Rabatt auf alle Sommermäntel und elegante Blusen. Die Aktion gilt nur bis achtzehn Uhr und nur heute. Wir freuen uns auf Ihren Besuch.'
     items:
       - q: 'Wozu lädt das Modehaus „Stilvoll" ein?'
@@ -120,6 +124,7 @@ exercises:
     title: "Tabelle ausfüllen: Dialog B (Geschenk-Beratung)"
     audio: dialog1_b.mp3
     instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    instructionsEn: "Listen to the dialog once and fill in the table. In each row, **one** piece of information is missing — the clues in the other cells will help you."
     columns: ["Kleidungsstück", "Farbe", "Eigenschaft"]
     rows:
       - label: "Pullover"
@@ -150,7 +155,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Schwache Deklination: Tabelle ausfüllen (groß, def. art.)"
-    instructions: "Fill in the weak ending after the definite article. The gap is the ending letter(s)."
+    instructions: "Ergänze die schwache Endung nach dem bestimmten Artikel. Die Lücke ist der/die Endbuchstaben."
+    instructionsEn: "Fill in the weak ending after the definite article. The gap is the ending letter(s)."
     text: |
       Nom. M: der groß{1} Mann
       Nom. F: die groß{2} Frau
@@ -183,7 +189,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischte Deklination: Tabelle ausfüllen (alt, indef. art.)"
-    instructions: "Fill in the mixed ending after the indefinite article."
+    instructions: "Ergänze die gemischte Endung nach dem unbestimmten Artikel."
+    instructionsEn: "Fill in the mixed ending after the indefinite article."
     text: |
       Nom. M: ein alt{1} Mann
       Nom. F: eine alt{2} Frau
@@ -216,7 +223,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Adjektivendungen nach dem bestimmten Artikel (Nominativ)"
-    instructions: "Add the correct ending. 8 items."
+    instructions: "Ergänze die richtige Endung. 8 Aufgaben."
+    instructionsEn: "Add the correct ending. 8 items."
     text: |
       1. der rot{1} Schal
       2. die schwarz{2} Jacke
@@ -241,7 +249,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Adjektivendungen nach dem bestimmten Artikel (Akkusativ)"
-    instructions: "Add the correct ending. 8 items."
+    instructions: "Ergänze die richtige Endung. 8 Aufgaben."
+    instructionsEn: "Add the correct ending. 8 items."
     text: |
       1. Ich kaufe den blau{1} Schal.
       2. Sie trägt die elegant{2} Bluse.
@@ -266,7 +275,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Adjektivendungen nach dem bestimmten Artikel (Dativ)"
-    instructions: "Add the correct ending. 8 items."
+    instructions: "Ergänze die richtige Endung. 8 Aufgaben."
+    instructionsEn: "Add the correct ending. 8 items."
     text: |
       1. Mit dem grün{1} Schal siehst du toll aus.
       2. Sie hilft dem alt{2} Mann.
@@ -291,7 +301,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Adjektivendungen nach dem unbestimmten Artikel (Nominativ)"
-    instructions: "Add the correct ending. 10 items."
+    instructions: "Ergänze die richtige Endung. 10 Aufgaben."
+    instructionsEn: "Add the correct ending. 10 items."
     text: |
       1. ein rot{1} Schal (m)
       2. eine groß{2} Tasche (f)
@@ -320,7 +331,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Adjektivendungen nach dem unbestimmten Artikel (Akkusativ)"
-    instructions: "Add the correct ending. 8 items."
+    instructions: "Ergänze die richtige Endung. 8 Aufgaben."
+    instructionsEn: "Add the correct ending. 8 items."
     text: |
       1. Ich kaufe einen blau{1} Schal.
       2. Er sucht eine modern{2} Jacke.
@@ -345,7 +357,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Adjektivendungen nach dem unbestimmten Artikel (Dativ)"
-    instructions: "Add the correct ending. 8 items."
+    instructions: "Ergänze die richtige Endung. 8 Aufgaben."
+    instructionsEn: "Add the correct ending. 8 items."
     text: |
       1. Er kommt mit einem alt{1} Freund.
       2. Sie hilft einer klein{2} Frau.
@@ -370,7 +383,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischt: Adjektivendungen"
-    instructions: "Add the correct ending. 10 items."
+    instructions: "Ergänze die richtige Endung. 10 Aufgaben."
+    instructionsEn: "Add the correct ending. 10 items."
     text: |
       1. Wo ist der neu{1} Schal?
       2. Ich brauche eine groß{2} Tasche.
@@ -399,7 +413,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Possessiva: mein/dein/sein/ihr + Adjektiv"
-    instructions: "Add the correct possessive ending AND the adjective ending. Each item has two gaps."
+    instructions: "Ergänze die richtige Possessivendung UND die Adjektivendung. Jede Aufgabe hat zwei Lücken."
+    instructionsEn: "Add the correct possessive ending AND the adjective ending. Each item has two gaps."
     text: |
       1. Ich suche mein{1} rot{2} Schal. (m, Akk)
       2. Das ist sein{3} neu{4} Jacke. (f, Nom)
@@ -432,7 +447,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Substitutionsübung"
-    instructions: "Rewrite the sentence changing the noun + adjective to the new gender or case shown. Write the correct adjective ending in the gap."
+    instructions: "Schreibe den Satz um und ändere das Nomen + Adjektiv zum angegebenen neuen Genus oder Kasus. Schreibe die richtige Adjektivendung in die Lücke."
+    instructionsEn: "Rewrite the sentence changing the noun + adjective to the new gender or case shown. Write the correct adjective ending in the gap."
     text: |
       1. Das ist ein alt{1} Kind. (Neut, Nom)
       2. Ich sehe die rot{2} Jacke. (Fem, Akk)
@@ -453,7 +469,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Schnelldrill: nur die Endung"
-    instructions: "Write only the missing ending (e, en, er, or es). 10 items."
+    instructions: "Schreibe nur die fehlende Endung (e, en, er oder es). 10 Aufgaben."
+    instructionsEn: "Write only the missing ending (e, en, er, or es). 10 items."
     text: |
       1. ein schön{1} Kleid (n, Nom)
       2. der alt{2} Mann (m, Nom)
@@ -484,7 +501,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dialog ergänzen"
-    instructions: "Fill in the blanks with the adjective in the correct form. 12 gaps."
+    instructions: "Ergänze die Lücken mit dem Adjektiv in der richtigen Form. 12 Lücken."
+    instructionsEn: "Fill in the blanks with the adjective in the correct form. 12 gaps."
     text: |
       — Entschuldigung, ich suche eine Jacke für meinen Bruder. Er mag {1} (dunkel) Farben.
       — Sehr gut. Wir haben diesen {2} (schwarz) Mantel hier — er ist sehr {3} (elegant).
@@ -512,7 +530,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake in the adjective ending. Write the corrected ending in the gap."
+    instructions: "Jeder Satz hat genau einen Fehler in der Adjektivendung. Schreibe die korrigierte Endung in die Lücke."
+    instructionsEn: "Each sentence has exactly one mistake in the adjective ending. Write the corrected ending in the gap."
     text: |
       1. Das ist ein alt{1} Mantel. (Nom Mask indef. → ?)
       2. Ich kaufe den rot{2} Schal. (Akk Mask def. → ?)
@@ -572,7 +591,8 @@ exercises:
     block: B
     type: order
     title: "Satzbau: Adjektiv + Nomen"
-    instructions: "Build correct sentences. Use the adjective in the correct form."
+    instructions: "Bilde korrekte Sätze. Verwende das Adjektiv in der richtigen Form."
+    instructionsEn: "Build correct sentences. Use the adjective in the correct form."
     items:
       - tiles: [Ich, kaufe, ein, rotes, Kleid]
         answer: [0, 1, 2, 3, 4]
@@ -650,7 +670,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Adjektive vor und nach dem Nomen"
-    instructions: "Decide: predicative (no ending) or attributive (with ending). Write the ending where needed."
+    instructions: "Entscheide: prädikativ (ohne Endung) oder attributiv (mit Endung). Schreibe die Endung, wo nötig."
+    instructionsEn: "Decide: predicative (no ending) or attributive (with ending). Write the ending where needed."
     text: |
       1. Die Jacke ist schön (no change).
       2. Das ist eine schön{1} Jacke.
@@ -671,7 +692,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "dieser / welcher + Adjektiv"
-    instructions: "Fill in `dieser` (or `welcher`) AND the adjective ending. Each item has 2 gaps."
+    instructions: "Ergänze `dieser` (oder `welcher`) UND die Adjektivendung. Jede Aufgabe hat 2 Lücken."
+    instructionsEn: "Fill in `dieser` (or `welcher`) AND the adjective ending. Each item has 2 gaps."
     text: |
       1. {1} groß{2} Mantel kostet 200 Euro.
       2. Wie findest du {3} rot{4} Kleid?
@@ -719,7 +741,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Fill each gap with one word (usually the adjective ending or the full adjective+ending form)."
+    instructions: "Fülle jede Lücke mit einem Wort (meist die Adjektivendung oder die volle Adjektiv+Endung-Form)."
+    instructionsEn: "Fill each gap with one word (usually the adjective ending or the full adjective+ending form)."
     text: |
       Anna ist in einem {1} Modegeschäft in Berlin. Die Verkäuferin zeigt ihr ein
       {2} Kleid — es ist rot und sehr elegant. Anna probiert das {3}
@@ -793,7 +816,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
     text: |
       — Guten Tag! Ich suche eine {1} Jacke — etwas Modernes.
       — Ich empfehle Ihnen die {2} Jacke aus unserer Kollektion.
@@ -914,7 +938,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per item. No notes. 15 items."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen. 15 Aufgaben."
+    instructionsEn: "One minute per item. No notes. 15 items."
     text: |
       1. der alt{1} Mann (Nom Mask def.)
       2. ein alt{2} Mann (Nom Mask indef.)
@@ -952,7 +977,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd one out"
-    instructions: "Cross out the word that doesn't fit."
+    instructions: "Streiche das Wort durch, das nicht passt."
+    instructionsEn: "Cross out the word that doesn't fit."
     groups:
       - items: [Jacke, Schal, Hemd, Fenster]
         odd: 3
