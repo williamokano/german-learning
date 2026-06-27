@@ -431,7 +431,16 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Annas Geschenk für Lisa)
 
-Read „Annas Geschenk für Lisa" in lesson.md, section 7. Richtig (R) oder falsch (F)?
+> Anna möchte ihrer Freundin Lisa zum Geburtstag etwas schenken. Lisa hat nächste Woche Geburtstag, und Anna hat lange überlegt, was sie ihr schenken soll. „Lisa liest so gern Krimis", denkt Anna. „Ich schenke ihr ein spannendes Buch."
+>
+> Am Samstag geht Anna in die Buchhandlung um die Ecke. Dort empfiehlt ihr die Verkäuferin einen neuen Krimi: „Das ist unser bestes Buch in diesem Monat", sagt sie. Anna kauft das Buch und packt es zu Hause schön in Geschenkpapier ein. Die Verkäuferin schenkt ihr auch eine kleine Karte dazu. „Vielen Dank!", sagt Anna.
+>
+> Zu Hause schreibt Anna eine Karte: „Liebe Lisa, zu deinem Geburtstag schenke ich dir dieses Buch. Ich wünsche dir alles Gute und freue mich auf unseren Abend am Samstag! Liebe Grüße, Anna."
+>
+> Am Sonntag bringt Anna das Geschenk zu Lisa. Lisa öffnet das Paket und freut sich riesig: „Oh, das ist ja genau das, was ich wollte! Vielen Dank, Anna!" Anna lächelt: „Gern geschehen! Ich schenke dir gern etwas Schönes."
+
+Richtig (R) oder falsch (F)?
+
 
 1. Anna möchte ihrer Schwester ein Geschenk kaufen. ( )
 2. Lisa hat nächste Woche Geburtstag. ( )
