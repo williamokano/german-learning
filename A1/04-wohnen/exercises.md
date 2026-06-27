@@ -12,10 +12,10 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen and decide: Richtig (R) oder Falsch (F)?
 
-1. Anna zeigt Bruno ihre neue Wohnung. ( )
-2. Die Wohnung hat vier Zimmer. ( )
-3. Es gibt einen Balkon — er ist groß. ( )
-4. Die Miete ist 850 Euro im Monat. ( )
+1. Anna zeigt Bruno ihre neue Wohnung. — Anna shows Bruno her new flat. ( )
+2. Die Wohnung hat vier Zimmer. — The flat has four rooms. ( )
+3. Es gibt einen Balkon — er ist groß. — There is a balcony — it is big. ( )
+4. Die Miete ist 850 Euro im Monat. — The rent is 850 euros a month. ( )
 
 ## Übung H1b — Dialog B: Am Telefon
 
@@ -23,20 +23,20 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 Listen and decide: Richtig (R) oder Falsch (F)?
 
-1. Bruno fragt wegen einer Wohnungsanzeige an. ( )
-2. Die Wohnung hat drei Zimmer. ( )
-3. Es gibt einen Garten, aber keinen Balkon. ( )
-4. Die Wohnung kostet 700 Euro. ( )
+1. Bruno fragt wegen einer Wohnungsanzeige an. — Bruno is calling about a flat listing. ( )
+2. Die Wohnung hat drei Zimmer. — The flat has three rooms. ( )
+3. Es gibt einen Garten, aber keinen Balkon. — There is a garden, but no balcony. ( )
+4. Die Wohnung kostet 700 Euro. — The flat costs 700 euros. ( )
 
 ## Übung H2 — Aussprache-Check (Hör zu 1–3)
 
 Listen to the three Aussprache clips and pick the matching word.
 
-1. Hör zu 1 (Räume) — wo kochst du?  
+1. Hör zu 1 (Räume) — wo kochst du? — Listen to 1 (rooms) — where do you cook?  
    a) das Bad  b) die Küche  c) der Flur
-2. Hör zu 1 (Räume) — wo schläfst du?  
+2. Hör zu 1 (Räume) — wo schläfst du? — Listen to 1 (rooms) — where do you sleep?  
    a) das Wohnzimmer  b) das Bad  c) das Schlafzimmer
-3. Hör zu 2 (Möbel) — worauf sitzt du am Tisch?  
+3. Hör zu 2 (Möbel) — worauf sitzt du am Tisch? — Listen to 2 (furniture) — what do you sit on at the table?  
    a) der Stuhl  b) das Sofa  c) der Schrank
 4. Hör zu 3 (Farben) — the sky is …  
    a) grün  b) blau  c) gelb
@@ -63,10 +63,10 @@ Höre den Hörtext und fülle die 6 Lücken mit Wörtern aus dem Kasten. Zwei W�
 
 Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Was gibt es im Haus?  a) Ein neues Geschäft.  b) Eine neue Wohnung.  c) Einen Aufzug.
-2. Was hat die Wohnung?  a) Drei Zimmer.  b) Zwei Zimmer.  c) Ein Zimmer.
-3. Was gibt es noch?  a) Einen Garten.  b) Eine Garage.  c) Einen Balkon.
-4. Wann ist die Besichtigung?  a) Am Samstag um elf Uhr.  b) Am Sonntag um zehn Uhr.  c) Am Freitag um vierzehn Uhr.
+1. Was gibt es im Haus? — What is there in the building?  a) Ein neues Geschäft.  b) Eine neue Wohnung.  c) Einen Aufzug.
+2. Was hat die Wohnung? — What does the flat have?  a) Drei Zimmer.  b) Zwei Zimmer.  c) Ein Zimmer.
+3. Was gibt es noch? — What else is there?  a) Einen Garten.  b) Eine Garage.  c) Einen Balkon.
+4. Wann ist die Besichtigung? — When is the viewing?  a) Am Samstag um elf Uhr.  b) Am Sonntag um zehn Uhr.  c) Am Freitag um vierzehn Uhr.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -355,12 +355,12 @@ Five words are not needed.
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Sie ist 70 (1) ______ groß und hat drei Zimmer.  a) Euro  b) Quadratmeter  c) Zimmer
-2. Mein Schlafzimmer ist klein, (2) ______ das Wohnzimmer ist super.  a) aber  b) und  c) oder
-3. hell, groß, und (3) ______ Balkon ist direkt da.  a) der  b) das  c) die
-4. Die Möbel (4) ______ neu — nur das Sofa ist alt.  a) ist  b) sind  c) seid
-5. Es ist grau und sehr (5) ______.  a) gemütlich  b) dunkel  c) frei
-6. Das ist (6) ______, aber Hamburg ist nicht billig!  a) billig  b) hell  c) teuer
+1. Sie ist 70 (1) ______ groß und hat drei Zimmer. — It is 70 ___ in size and has three rooms.  a) Euro  b) Quadratmeter  c) Zimmer
+2. Mein Schlafzimmer ist klein, (2) ______ das Wohnzimmer ist super. — My bedroom is small, ___ the living room is great.  a) aber  b) und  c) oder
+3. hell, groß, und (3) ______ Balkon ist direkt da. — bright, big, and the ___ balcony is right there.  a) der  b) das  c) die
+4. Die Möbel (4) ______ neu — nur das Sofa ist alt. — The furniture ___ new — only the sofa is old.  a) ist  b) sind  c) seid
+5. Es ist grau und sehr (5) ______. — It is grey and very ___.  a) gemütlich  b) dunkel  c) frei
+6. Das ist (6) ______, aber Hamburg ist nicht billig! — That is ___, but Hamburg is not cheap!  a) billig  b) hell  c) teuer
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -401,11 +401,11 @@ Five words are not needed.
 Richtig (R) oder falsch (F)?
 
 
-1. Die Wohnung von Jonas hat zwei Zimmer. ( )
-2. Jonas findet die Möbel schön. ( )
-3. In der Küche gibt es keinen Herd. ( )
-4. Das Bad ist hell. ( )
-5. Die Miete ist für Köln billig. ( )
+1. Die Wohnung von Jonas hat zwei Zimmer. — Jonas's flat has two rooms. ( )
+2. Jonas findet die Möbel schön. — Jonas thinks the furniture is nice. ( )
+3. In der Küche gibt es keinen Herd. — In the kitchen there is no stove. ( )
+4. Das Bad ist hell. — The bathroom is bright. ( )
+5. Die Miete ist für Köln billig. — The rent is cheap for Cologne. ( )
 
 ## Übung C4b — Lesen Text 2 — Wohnungsanzeigen
 
@@ -418,10 +418,10 @@ sehr ruhig. Miete: 950 Euro. Telefon: 030 555 98 76
 Wähle a, b oder c.
 
 
-1. Anzeige 1: Die Wohnung hat …  a) zwei Zimmer  b) drei Zimmer  c) einen Garten
-2. Was kostet die Wohnung in Spandau?  a) 780 €  b) 950 €  c) 78 €
-3. Welche Wohnung hat einen Balkon?  a) Anzeige 1  b) Anzeige 2  c) beide
-4. Die Wohnung in Spandau hat …  a) eine Garage  b) einen Balkon  c) 55 m²
+1. Anzeige 1: Die Wohnung hat … — Ad 1: The flat has …  a) zwei Zimmer  b) drei Zimmer  c) einen Garten
+2. Was kostet die Wohnung in Spandau? — How much is the flat in Spandau?  a) 780 €  b) 950 €  c) 78 €
+3. Welche Wohnung hat einen Balkon? — Which flat has a balcony?  a) Anzeige 1  b) Anzeige 2  c) beide
+4. Die Wohnung in Spandau hat … — The flat in Spandau has …  a) eine Garage  b) einen Balkon  c) 55 m²
 
 ## Übung C5 — Schreiben: Dein Zuhause
 
