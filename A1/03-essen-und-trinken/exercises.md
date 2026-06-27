@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: richtig (R) oder falsch (F)?
+Höre Dialog A und entscheide: richtig (R) oder falsch (F)?
 
 1. Anna bestellt einen Kaffee und ein Stück Apfelkuchen. ( )
 2. Bruno möchte Orangensaft. ( )
@@ -20,7 +20,7 @@ Listen to Dialog A and decide: richtig (R) oder falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and decide: richtig (R) oder falsch (F)?
+Höre Dialog B und entscheide: richtig (R) oder falsch (F)?
 
 1. Im Supermarkt kauft Bruno Käse, Brot und Wasser. ( )
 2. Bruno kauft den Gouda und das Schwarzbrot. ( )
@@ -46,7 +46,7 @@ Höre den Hör-zu-Clip und wähle die passende Antwort.
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Three words in the box are not needed.
+Höre und fülle die 6 fehlenden Wörter ein. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Anna ist im Café Central. Sie hat (1) ______ und Durst. Sie möchte einen (2) ______ und ein Stück (3) ______. Der Kaffee kostet zwei Euro fünfzig, der Kuchen kostet drei Euro neunzig. Das macht (4) ______ Euro (5) ______. Anna isst und trinkt gern im Café — der Kuchen (6) ______ super!
 
@@ -105,7 +105,7 @@ Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einma
 
 ## Übung A4 — nicht oder kein/keine/keinen?
 
-Decide: nicht negates adjectives/verbs/possessives, kein negates nouns without article.
+Entscheide: nicht verneint Adjektive/Verben/Possessivpronomen, kein verneint Nomen ohne Artikel.
 
 1. Ich esse ______ Fleisch.
 2. Der Kaffee ist ______ gut.
@@ -120,7 +120,7 @@ Decide: nicht negates adjectives/verbs/possessives, kein negates nouns without a
 
 ## Übung A5 — Akkusativ maskulin: den, einen, keinen
 
-All nouns here are masculine. The base article is in brackets.
+Alle Nomen hier sind maskulin. Der Grundartikel steht in Klammern.
 
 1. Ich nehme ______ Apfel. (ein)
 2. Wir kaufen ______ Gouda. (der)
@@ -233,7 +233,7 @@ die Kartoffel → die ______
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
+Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form.
 
 1. Ich möchte ______ Kaffee. (ein → ?)
 2. Er ______ zahlen. (möchtet → ?)
@@ -274,7 +274,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 ## Übung B6 — Kategorien
 
-Sort the 12 words: Obst · Gemüse · Getränke · Milchprodukte
+Sortiere die 12 Wörter: Obst · Gemüse · Getränke · Milchprodukte
 
 > Apfel · Banane · Orange · Tomate · Kartoffel · Salat · Saft · Tee · Wasser · Milch · Joghurt · Käse
 
@@ -328,7 +328,7 @@ _**Chunk alert (forward-reference):** `Ich hätte gern …` is Konjunktiv II pol
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word from the box. Five words are not needed.
+Fülle jede Lücke mit einem Wort aus dem Kasten. Fünf Wörter werden nicht gebraucht.
 
 > Zum Frühstück (1) ______ ich Brot mit Käse und (2) ______ eine Tasse Kaffee. Mein Mann isst (3) ______ Fleisch — er isst (4) ______ Müsli mit Joghurt und Obst. Unsere Tochter trinkt morgens (5) ______ Glas Milch. Zum Mittagessen (6) ______ wir oft Nudeln oder Reis mit Gemüse. Und abends? Da essen wir „Abendbrot": Brot (7) ______ Wurst oder Käse. Am Samstag kaufe ich im Supermarkt ein: Ich (8) ______ Kartoffeln, Eier und (9) ______ Flasche Wein. Das (10) ______ zusammen zwanzig Euro.
 
@@ -349,7 +349,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Five words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > — Guten Tag! Ich (1) ______ Äpfel und Tomaten. Was (2) ______ ein Kilo Äpfel?
 > — Zwei Euro fünfzig.
