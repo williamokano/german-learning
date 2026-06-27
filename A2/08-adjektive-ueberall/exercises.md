@@ -402,7 +402,16 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 — „Annas neuer Stil"
 
-Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?
+> Anna hat in letzter Zeit ihren Kleidungsstil verändert. Früher hat sie immer bequeme, sportliche Kleidung getragen — einfache T-Shirts, weite Hosen und alte Turnschuhe. Das war praktisch, aber nicht besonders schick.
+>
+> Letzte Woche hat Anna einen interessanten Artikel in einer deutschen Modezeitschrift gelesen. Danach hat sie beschlossen, etwas Neues auszuprobieren. Sie ist in ein kleines Modegeschäft in der Berliner Innenstadt gegangen.
+>
+> Im Laden hat eine freundliche Verkäuferin ihr geholfen. Anna hat eine schwarze Lederjacke anprobiert, eine enge Jeans und einen bunten Seidenschal. Die Verkäuferin hat gesagt: „Das dunkle Outfit steht Ihnen ausgezeichnet. Der bunte Schal macht den ganzen Look lebendig." Anna hat zugehört und war überzeugt.
+>
+> Jetzt trägt Anna ihren neuen Stil mit Freude. Ihr bester Freund Bruno hat sie zum ersten Mal in der neuen Kleidung gesehen und sofort gefragt: „Wer bist du? Das ist eine ganz andere Anna!" Anna hat gelacht und gesagt: „Ich finde, der neue Stil passt besser zu meiner Persönlichkeit." Bruno war einverstanden — er findet Annas neuen Look wirklich sehr schick.
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Anna hat früher immer elegante Kleidung getragen. ( )
 2. Sie hat einen Artikel in einer Modezeitschrift gelesen. ( )
