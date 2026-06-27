@@ -664,7 +664,13 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 (Der Brief)"
-    instructions: "Lies den Lesetext in lesson.md, Abschnitt 7. Richtig (R) oder Falsch (F)?"
+    instructions: |
+      > Letzte Woche habe ich beim Aufräumen einen alten Briefumschlag gefunden — adressiert, frankiert, aber nie abgeschickt. Es war ein Brief an meinen Großvater in Brasilien, den ich vor sechs Jahren geschrieben hatte. Ich wollte ihm darin sagen, wie dankbar ich war, dass er mir das Reisen ermöglicht hatte. Doch ich habe den Brief nie zur Post gebracht. „Ich mache das morgen", dachte ich damals. Das Morgen kam nie.
+      > Mein Großvater ist im selben Jahr gestorben. Hätte ich den Brief einfach eingeworfen, hätte er meine Worte noch gelesen. Ich hätte nur drei Minuten zum Briefkasten gehen müssen. Stattdessen lag der Umschlag jahrelang in einer Schublade, als ob er auf mich gewartet hätte. Wenn ich gewusst hätte, wie wenig Zeit blieb, wäre ich sofort losgelaufen.
+      > Im Nachhinein ist mir klar geworden: Ich hätte vieles früher sagen sollen. Nicht nur ihm. Wir tun oft so, als ob wir unendlich Zeit hätten, und schieben das Wichtige auf. Beinahe hätte ich auch diesen Text nicht geschrieben — wieder dieses „morgen". Aber diesmal nicht.
+      > Den alten Brief habe ich behalten. Ich werde ihn nicht abschicken können, das weiß ich. Aber er erinnert mich jeden Tag daran: Manche Gelegenheiten kommen nur einmal. Hätte ich das damals begriffen, hätte ich anders gehandelt. Heute versuche ich, nichts Wichtiges mehr aufzuschieben.
+
+      Richtig (R) oder Falsch (F)?
     items:
       - q: "Bruno hat den Brief damals abgeschickt."
         answer: false
