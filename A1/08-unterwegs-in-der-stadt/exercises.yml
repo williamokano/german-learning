@@ -17,16 +17,16 @@ exercises:
     audio: dialog1.mp3
     instructions: "Listen and decide: richtig (R) oder falsch (F)?"
     items:
-      - q: "Bruno fragt eine Frau auf der Straße nach dem Bahnhof."
+      - q: "Bruno fragt eine Frau auf der Straße nach dem Bahnhof. — Bruno asks a woman on the street for directions to the train station."
         answer: true
         why: 'Bruno fragt: „Entschuldigung, wo ist der Bahnhof, bitte?"'
-      - q: "Die Frau sagt: Fahren Sie mit dem Bus!"
+      - q: "Die Frau sagt: Fahren Sie mit dem Bus! — The woman says: Take the bus!"
         answer: false
         why: 'Die Frau sagt: „Fahren Sie mit der U-Bahn", nicht mit dem Bus.'
-      - q: "Die Haltestelle ist geradeaus und dann die erste Straße links."
+      - q: "Die Haltestelle ist geradeaus und dann die erste Straße links. — The stop is straight ahead and then the first street on the left."
         answer: true
         why: '„Gehen Sie hier geradeaus, dann die erste Straße links."'
-      - q: "Bruno fährt mit der Linie 5 und steigt am Dom aus."
+      - q: "Bruno fährt mit der Linie 5 und steigt am Dom aus. — Bruno takes line 5 and gets off at the cathedral."
         answer: false
         why: "Bruno steigt am Bahnhof aus, nicht am Dom."
 
@@ -37,16 +37,16 @@ exercises:
     audio: dialog2.mp3
     instructions: "Listen and decide: richtig (R) oder falsch (F)?"
     items:
-      - q: "Anna möchte zum Museum Ludwig fahren."
+      - q: "Anna möchte zum Museum Ludwig fahren. — Anna wants to go to the Museum Ludwig."
         answer: true
         why: 'Anna sagt: „Ich möchte morgen zum Museum Ludwig."'
-      - q: "Sie muss am Dom umsteigen."
+      - q: "Sie muss am Dom umsteigen. — She has to change at the cathedral."
         answer: false
         why: "Anna muss nicht umsteigen; sie steigt am Dom aus (nicht um)."
-      - q: "Die Fahrt dauert eine halbe Stunde."
+      - q: "Die Fahrt dauert eine halbe Stunde. — The trip takes half an hour."
         answer: false
         why: "Die Fahrt dauert eine Viertelstunde (15 Minuten), nicht eine halbe Stunde."
-      - q: "Jonas kommt am Abend mit Anna ins Museum."
+      - q: "Jonas kommt am Abend mit Anna ins Museum. — Jonas comes to the museum with Anna in the evening."
         answer: false
         why: "Jonas muss zur Arbeit; sie essen erst am Abend zusammen (nicht Museum)."
 
@@ -80,28 +80,28 @@ exercises:
     instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Achtung, eine Durchsage. Liebe Fahrgäste, der ICE 502 von Berlin nach München fährt heute nicht von Gleis 7, sondern von Gleis 9. Die Abfahrt ist um vierzehn Uhr dreißig. Wir bitten Sie, zum neuen Gleis zu gehen. Der Zug hat eine Verspätung von zehn Minuten. Fahrgäste mit Reservierung finden ihre Plätze wie üblich. Vielen Dank für Ihr Verständnis."
     items:
-      - q: "Welcher Zug hat eine Verspätung?"
+      - q: "Welcher Zug hat eine Verspätung? — Which train is delayed?"
         options:
           - { key: a, text: "Der ICE 205." }
           - { key: b, text: "Der RE 502." }
           - { key: c, text: "Der ICE 502." }
         answer: c
         why: '„der ICE 502 von Berlin nach München fährt heute nicht von Gleis 7, sondern von Gleis 9."'
-      - q: "Von welchem Gleis fährt der Zug heute ab?"
+      - q: "Von welchem Gleis fährt der Zug heute ab? — From which platform does the train leave today?"
         options:
           - { key: a, text: "Von Gleis 8." }
           - { key: b, text: "Von Gleis 9." }
           - { key: c, text: "Von Gleis 7." }
         answer: b
         why: '„sondern von Gleis 9."'
-      - q: "Wann fährt der Zug ab?"
+      - q: "Wann fährt der Zug ab? — When does the train leave?"
         options:
           - { key: a, text: "Um vierzehn Uhr dreißig." }
           - { key: b, text: "Um dreizehn Uhr dreißig." }
           - { key: c, text: "Um fünfzehn Uhr dreißig." }
         answer: a
         why: '„Die Abfahrt ist um vierzehn Uhr dreißig."'
-      - q: "Wie viel Verspätung hat der Zug?"
+      - q: "Wie viel Verspätung hat der Zug? — How much delay does the train have?"
         options:
           - { key: a, text: "Zehn Minuten." }
           - { key: b, text: "Fünf Minuten." }
@@ -714,42 +714,42 @@ exercises:
 
       Choose the correct option (a, b, or c) for each gap.
     items:
-      - q: "{1} Bahnhof"
+      - q: "{1} Bahnhof — directly at the station"
         options:
           - { key: a, text: "zum" }
           - { key: b, text: "beim" }
           - { key: c, text: "vom" }
         answer: b
         why: "es ist direkt am Bahnhof — location → beim."
-      - q: "{2} Museum Ludwig"
+      - q: "{2} Museum Ludwig — to the Museum Ludwig"
         options:
           - { key: a, text: "zur" }
           - { key: b, text: "zum" }
           - { key: c, text: "nach" }
         answer: b
         why: "das Museum (neuter) → zu dem = zum."
-      - q: "{3} der Straßenbahn"
+      - q: "{3} der Straßenbahn — by tram"
         options:
           - { key: a, text: "mit" }
           - { key: b, text: "bei" }
           - { key: c, text: "von" }
         answer: a
         why: "vehicle → mit + Dativ."
-      - q: "{4} Kirche"
+      - q: "{4} Kirche — at the church"
         options:
           - { key: a, text: "der" }
           - { key: b, text: "die" }
           - { key: c, text: "dem" }
         answer: a
         why: "die Kirche, Dativ Femininum → der."
-      - q: "{5} Fuß"
+      - q: "{5} Fuß — on foot"
         options:
           - { key: a, text: "zu" }
           - { key: b, text: "mit" }
           - { key: c, text: "auf" }
         answer: a
         why: "zu Fuß = on foot (fixed chunk)."
-      - q: "{6} nur zehn Minuten"
+      - q: "{6} nur zehn Minuten — only takes ten minutes"
         options:
           - { key: a, text: "dauert" }
           - { key: b, text: "fährt" }
@@ -819,19 +819,19 @@ exercises:
 
       Richtig (R) oder falsch (F)?
     items:
-      - q: "Herr Yilmaz fährt mit dem Bus zur Arbeit."
+      - q: "Herr Yilmaz fährt mit dem Bus zur Arbeit. — Mr. Yilmaz goes to work by bus."
         answer: false
         why: "Er fährt mit der U-Bahn zur Arbeit."
-      - q: "Die Fahrt zur Arbeit dauert zwanzig Minuten."
+      - q: "Die Fahrt zur Arbeit dauert zwanzig Minuten. — The trip to work takes twenty minutes."
         answer: true
         why: "Die Fahrt zur Arbeit dauert zwanzig Minuten."
-      - q: "Frau Yilmaz steigt am Alexanderplatz um."
+      - q: "Frau Yilmaz steigt am Alexanderplatz um. — Mrs. Yilmaz changes at Alexanderplatz."
         answer: true
         why: "Frau Yilmaz steigt am Alexanderplatz um."
-      - q: "Die Kinder fahren mit der Straßenbahn zur Schule."
+      - q: "Die Kinder fahren mit der Straßenbahn zur Schule. — The children take the tram to school."
         answer: false
         why: "Die Kinder fahren zu Fuß zur Schule."
-      - q: "Am Sonntag fährt die Familie mit dem Auto zum Park."
+      - q: "Am Sonntag fährt die Familie mit dem Auto zum Park. — On Sunday the family drives to the park by car."
         answer: false
         why: "Am Sonntag fährt die Familie mit dem Fahrrad zum Park."
 
@@ -850,28 +850,28 @@ exercises:
 
       Wähle a, b oder c.
     items:
-      - q: "Die S-Bahn zum Flughafen fährt …"
+      - q: "Die S-Bahn zum Flughafen fährt … — The S-Bahn to the airport runs …"
         options:
           - { key: a, text: "alle 15 Minuten" }
           - { key: b, text: "alle 20 Minuten" }
           - { key: c, text: "alle 30 Minuten" }
         answer: b
         why: "S-Bahn S19, alle 20 Minuten."
-      - q: "Eine Fahrkarte zum Flughafen kostet …"
+      - q: "Eine Fahrkarte zum Flughafen kostet … — A ticket to the airport costs …"
         options:
           - { key: a, text: "3,50 €" }
           - { key: b, text: "5,30 €" }
           - { key: c, text: "13,50 €" }
         answer: a
         why: "Fahrkarte: 3,50 €."
-      - q: "Der Dom ist …"
+      - q: "Der Dom ist … — The cathedral is …"
         options:
           - { key: a, text: "15 Minuten zu Fuß" }
           - { key: b, text: "2 Minuten zu Fuß" }
           - { key: c, text: "nur mit dem Bus" }
         answer: b
         why: "Zum Dom: zu Fuß nur 2 Minuten."
-      - q: "Die Taxis sind …"
+      - q: "Die Taxis sind … — The taxis are …"
         options:
           - { key: a, text: "links vom Bahnhof" }
           - { key: b, text: "im Bahnhof" }
