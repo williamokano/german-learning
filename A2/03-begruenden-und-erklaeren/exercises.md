@@ -390,7 +390,18 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext)
 
-Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?
+> Anna und Bruno sitzen nach dem Kurs im Café um die Ecke. Das Thema des Tages ist einfach, aber wichtig: Warum lernen sie eigentlich Deutsch?
+>
+> Anna beginnt. Sie sagt, dass sie Deutsch lernt, weil sie in Berlin wohnt und weil sie hier studieren möchte. Für sie ist Deutsch nicht nur eine Schulsprache — es ist die Sprache ihres Alltags. Sie findet, dass Deutsch eine interessante Sprache ist, auch wenn die Grammatik manchmal schwierig ist. Deshalb übt sie jeden Tag — mit Apps, mit Podcasts und natürlich im Kurs bei Frau Weber.
+>
+> Bruno erklärt, dass er Deutsch lernt, weil Blumenau, seine Heimatstadt in Brasilien, eine starke deutsche Tradition hat. Er meint, dass es ihm hilft, die Kultur besser zu verstehen. Außerdem braucht er Deutsch für seinen Job — er arbeitet in einem Büro, wo viele Kollegen Deutsch sprechen. Darum ist er jeden Morgen motiviert, auch wenn es früh und manchmal kalt in Berlin ist.
+>
+> Die beiden sind sich einig, dass der Kurs bei Frau Weber sehr gut ist. Bruno glaubt, dass man eine Sprache nur lernen kann, weil man sie täglich benutzt — nicht nur im Klassenzimmer, sondern auch draußen. Anna stimmt ihm zu: „Genau! Deswegen sprechen wir auch außerhalb des Kurses so viel Deutsch miteinander."
+>
+> Am Ende trinken sie noch einen Kaffee. Bruno sagt, dass er das Gespräch sehr interessant fand — darum möchte er morgen weiterdiskutieren. Anna lacht: „Klar! Aber dann sprechen wir auf Deutsch — kein Englisch erlaubt."
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Anna lernt Deutsch, weil sie in Berlin studieren möchte. ( )
 2. Anna übt nur im Kurs, nicht zu Hause. ( )
