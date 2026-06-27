@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Bruno sucht ein Geschenk für seinen Bruder. ( )
 2. Annas Tante liest gern Krimis. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Was schenkt Frau Weber Herrn Steinmeyer?  a) Eine CD  b) Ein Buch  c) Eine Karte
 2. Wie heißt das Buch?  a) „Schachnovelle"  b) „Der stille Patient"  c) „Die Verwandlung"
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Three words in the box are not needed.
+Höre und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Heute ist Yuki auf dem Weihnachtsmarkt am Alexanderplatz. Sie möchte
 > ihrer Familie in Japan etwas (1) ______. Ein freundlicher Verkäufer
@@ -49,7 +49,7 @@ Listen and fill in the 6 missing words. Three words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Wie spät schließt das Kaufhaus heute?  a) Um achtzehn Uhr.  b) Um neunzehn Uhr.  c) Um zwanzig Uhr.
 2. Wo befindet sich die Geschenk-Werkstatt?  a) Im ersten Stock.  b) Im zweiten Stock.  c) Im dritten Stock.
@@ -104,7 +104,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A2 — Fill in the correct dative ending
 
-Complete the dative noun phrase (the indirect object — the person). 10 items.
+Vervollständige die Dativ-Nominalphrase (das indirekte Objekt — die Person). 10 Aufgaben.
 
 1. Ich schenke mein______ Schwester ein Buch.
 2. Er gibt dem______ Kind einen Apfel.
@@ -119,7 +119,7 @@ Complete the dative noun phrase (the indirect object — the person). 10 items.
 
 ## Übung A3 — Substitution: replace the dative noun with a dative pronoun
 
-Replace the dative noun with the correct dative pronoun. Keep the accusative noun where it is. 10 items.
+Ersetze das Dativ-Nomen durch das richtige Dativ-Pronomen. Das Akkusativ-Nomen bleibt, wo es ist. 10 Aufgaben.
 
 1. Ich schenke meiner Schwester ein Buch. → Ich schenke ______ ein Buch.
 2. Er gibt dem Kind einen Apfel. → Er gibt ______ einen Apfel.
@@ -152,7 +152,7 @@ Replace the dative noun with the correct dative pronoun. Keep the accusative nou
 
 ## Übung A5 — Konjugation: schenken (Präsens)
 
-Fill in the complete Präsens table for schenken.
+Ergänze die vollständige Präsens-Tabelle für schenken.
 
 1. ich: ______
 2. du: ______
@@ -163,7 +163,7 @@ Fill in the complete Präsens table for schenken.
 
 ## Übung A6 — Konjugation: geben (Präsens) ⚠️
 
-Fill in the complete Präsens table for geben. Watch out for the e → i stem change!
+Ergänze die vollständige Präsens-Tabelle für geben. Achtung: e → i Stammwechsel!
 
 1. ich: ______
 2. du: ______
@@ -174,7 +174,7 @@ Fill in the complete Präsens table for geben. Watch out for the e → i stem ch
 
 ## Übung A7 — Konjugation: empfehlen (Präsens) ⚠️
 
-Fill in the complete Präsens table for empfehlen. Watch out for the e → ie stem change!
+Ergänze die vollständige Präsens-Tabelle für empfehlen. Achtung: e → ie Stammwechsel!
 
 1. ich: ______
 2. du: ______
@@ -185,7 +185,7 @@ Fill in the complete Präsens table for empfehlen. Watch out for the e → ie st
 
 ## Übung A8 — Dativ or Akkusativ pronoun? Fill the gap.
 
-Choose the correct pronoun form (Dativ = person, Akkusativ = thing). 10 items.
+Wähle die richtige Pronomenform (Dativ = Person, Akkusativ = Sache). 10 Aufgaben.
 
 1. Ich schenke ______ (her, Dat) ein Buch.
 2. Ich schenke ______ (it, Akk) meiner Schwester.
@@ -200,7 +200,7 @@ Choose the correct pronoun form (Dativ = person, Akkusativ = thing). 10 items.
 
 ## Übung A9 — Identify the dative (indirect) object
 
-Fill in the correct dative (indirect) object for each sentence. 8 items.
+Ergänze das richtige Dativ-Objekt (indirektes Objekt) für jeden Satz. 8 Aufgaben.
 
 1. Ich schenke ______ ein Buch.
 2. Anna gibt ______ einen Apfel.
@@ -213,7 +213,7 @@ Fill in the correct dative (indirect) object for each sentence. 8 items.
 
 ## Übung A10 — Choose the correct two-object verb
 
-Pick the right two-object verb and conjugate it to fit the subject. 10 items.
+Wähle das richtige Verb mit zwei Objekten und konjugiere es passend zum Subjekt. 10 Aufgaben.
 
 1. Ich ______ meiner Schwester ein Buch. (schenken / gehen / wohnen)
 2. Anna ______ dem Kind einen Apfel. (geben / kommen / heißen)
@@ -262,7 +262,7 @@ Pick the right two-object verb and conjugate it to fit the subject. 10 items.
 
 ## Übung B1 — Dialog ergänzen: Im Geschenkeladen
 
-Fill in the 12 blanks with the correct form. Three words in the box are not needed.
+Ergänze die 12 Lücken mit der richtigen Form. Drei Wörter im Kasten werden nicht gebraucht.
 
 > — Guten Tag! Ich (1) ______ ein Geschenk für meinen Bruder.
 > — Was (2) ______ er gern?
@@ -404,7 +404,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word. 10 items.
+Fülle jede Lücke mit einem Wort. 10 Aufgaben.
 
 Letzten Sonntag ______ Anna ihrer Freundin Lisa ein Buch
 ______. Sie hat lange überlegt, was sie Lisa ______ könnte.
@@ -427,7 +427,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. Ten words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > Letzten Samstag (1) ______ Anna in die Stadt. Sie wollte ein
 > Geschenk für ihre Freundin Lisa (2) ______. Im Buchladen (3) ______
@@ -503,7 +503,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes. 15 items.
+Eine Minute pro Aufgabe. Keine Notizen. 15 Aufgaben.
 
 1. Partizip II of schenken: ______
 2. Partizip II of empfehlen (e→o): ______
@@ -523,7 +523,7 @@ One minute per item. No notes. 15 items.
 
 ## Übung D2 — Odd one out
 
-Cross out the word that doesn't fit and say why.
+Streiche das Wort durch, das nicht passt, und sage warum.
 
 1. schenken – empfehlen – zeigen – wohnen
 2. Bruder – Schwester – Geschenk – Tante
@@ -534,7 +534,7 @@ Cross out the word that doesn't fit and say why.
 
 ## Übung D3 — Rückblick: A2/06, A2/09, A2/10
 
-Review of reflexive verbs, prepositions, Konjunktiv II, and countries. 10 items.
+Wiederholung: reflexive Verben, Präpositionen, Konjunktiv II und Länder. 10 Aufgaben.
 
 1. (A2/L6) Partizip II of sich interessieren: ______
 2. (A2/L6) warten auf takes which case? → ______
