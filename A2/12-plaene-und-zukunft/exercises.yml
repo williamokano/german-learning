@@ -733,7 +733,16 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 (Annas Pläne für das neue Jahr)"
-    instructions: 'Read „Annas Pläne für das neue Jahr" in lesson.md, section 7. Richtig (R) oder falsch (F)?'
+    instructions: |
+      > Anna ist Studentin und lebt seit zwei Jahren in Berlin. Heute ist der erste Januar, und sie sitzt am Schreibtisch und schreibt ihre Pläne für das neue Jahr auf. Sie hat drei wichtige Vorsätze: mehr Sport, mehr Deutsch lernen und endlich ihre Familie in Russland besuchen.
+      >
+      > Im Februar wird sie einen Sprachkurs an der Volkshochschule anfangen. Sie wird zweimal pro Woche in den Kurs gehen. Wenn sie regelmäßig übt, wird sie im Juni die B1-Prüfung schreiben. „Ich werde mein Bestes geben", sagt sie. „Wenn ich die Prüfung schaffe, werde ich sehr glücklich sein."
+      >
+      > Im Sommer wird sie nach Jaroslawl fliegen. Sie wird drei Wochen bei ihren Eltern bleiben. „Als ich das letzte Mal in Russland war, hatte ich nur eine Woche Zeit", erzählt sie. „Dieses Mal wird es ruhiger. Ich werde mit meiner Mutter lange spazieren gehen und mit meinem Vater im Garten arbeiten."
+      >
+      > Im Herbst möchte sie einen Deutschkurs für Kinder geben. Wenn alles klappt, wird sie im Oktober damit anfangen. „Ich habe große Pläne", lacht Anna. „Aber ich weiß: Pläne sind Pläne — und das wird das Leben zeigen!"
+
+      Richtig (R) oder falsch (F)?
     items:
       - q: "Anna lebt seit einem Jahr in Berlin."
         answer: false
