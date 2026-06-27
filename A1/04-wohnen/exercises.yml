@@ -17,16 +17,16 @@ exercises:
     audio: dialog1_a.mp3
     instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
     items:
-      - q: "Anna zeigt Bruno ihre neue Wohnung."
+      - q: "Anna zeigt Bruno ihre neue Wohnung. — Anna shows Bruno her new flat."
         answer: true
         why: 'Anna sagt: „Komm rein! Das ist meine neue Wohnung."'
-      - q: "Die Wohnung hat vier Zimmer."
+      - q: "Die Wohnung hat vier Zimmer. — The flat has four rooms."
         answer: false
         why: "Die Wohnung hat drei Zimmer (nicht vier)."
-      - q: "Es gibt einen Balkon — er ist groß."
+      - q: "Es gibt einen Balkon — er ist groß. — There is a balcony — it is big."
         answer: false
         why: "Der Balkon ist klein (nicht groß)."
-      - q: "Die Miete ist 850 Euro im Monat."
+      - q: "Die Miete ist 850 Euro im Monat. — The rent is 850 euros a month."
         answer: true
         why: 'Anna bestätigt „850 Euro im Monat."'
 
@@ -37,16 +37,16 @@ exercises:
     audio: dialog1_b.mp3
     instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
     items:
-      - q: "Bruno fragt wegen einer Wohnungsanzeige an."
+      - q: "Bruno fragt wegen einer Wohnungsanzeige an. — Bruno is calling about a flat listing."
         answer: true
         why: "Bruno ruft wegen einer Wohnungsanzeige an."
-      - q: "Die Wohnung hat drei Zimmer."
+      - q: "Die Wohnung hat drei Zimmer. — The flat has three rooms."
         answer: false
         why: "Die Wohnung hat zwei Zimmer (nicht drei)."
-      - q: "Es gibt einen Garten, aber keinen Balkon."
+      - q: "Es gibt einen Garten, aber keinen Balkon. — There is a garden, but no balcony."
         answer: true
         why: '„Nein, aber es gibt einen Garten."'
-      - q: "Die Wohnung kostet 700 Euro."
+      - q: "Die Wohnung kostet 700 Euro. — The flat costs 700 euros."
         answer: true
         why: '„700 Euro."'
 
@@ -56,7 +56,7 @@ exercises:
     title: "Aussprache-Check (Hör zu 1–3)"
     instructions: "Listen to the three Aussprache clips and pick the matching word."
     items:
-      - q: "Hör zu 1 (Räume) — wo kochst du?"
+      - q: "Hör zu 1 (Räume) — wo kochst du? — Listen to 1 (rooms) — where do you cook?"
         audio: hoerzu1.mp3
         options:
           - { key: a, text: "das Bad" }
@@ -64,7 +64,7 @@ exercises:
           - { key: c, text: "der Flur" }
         answer: b
         why: "you cook in the kitchen (die Küche)."
-      - q: "Hör zu 1 (Räume) — wo schläfst du?"
+      - q: "Hör zu 1 (Räume) — wo schläfst du? — Listen to 1 (rooms) — where do you sleep?"
         audio: hoerzu1.mp3
         options:
           - { key: a, text: "das Wohnzimmer" }
@@ -72,7 +72,7 @@ exercises:
           - { key: c, text: "das Schlafzimmer" }
         answer: c
         why: "you sleep in the bedroom (das Schlafzimmer)."
-      - q: "Hör zu 2 (Möbel) — worauf sitzt du am Tisch?"
+      - q: "Hör zu 2 (Möbel) — worauf sitzt du am Tisch? — Listen to 2 (furniture) — what do you sit on at the table?"
         audio: hoerzu2.mp3
         options:
           - { key: a, text: "der Stuhl" }
@@ -128,28 +128,28 @@ exercises:
     instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Achtung, eine Durchsage. Liebe Mieterinnen und Mieter, in unserem Haus gibt es eine neue Wohnung. Die Wohnung hat zwei Zimmer, eine Küche und ein Bad. Es gibt auch einen kleinen Balkon. Die Miete ist sechshundert Euro im Monat. Die Besichtigung ist am Samstag um elf Uhr. Bitte rufen Sie uns an, wenn Sie die Wohnung sehen wollen. Vielen Dank."
     items:
-      - q: "Was gibt es im Haus?"
+      - q: "Was gibt es im Haus? — What is there in the building?"
         options:
           - { key: a, text: "Ein neues Geschäft." }
           - { key: b, text: "Eine neue Wohnung." }
           - { key: c, text: "Einen Aufzug." }
         answer: b
         why: '„in unserem Haus gibt es eine neue Wohnung."'
-      - q: "Was hat die Wohnung?"
+      - q: "Was hat die Wohnung? — What does the flat have?"
         options:
           - { key: a, text: "Drei Zimmer." }
           - { key: b, text: "Zwei Zimmer." }
           - { key: c, text: "Ein Zimmer." }
         answer: b
         why: '„Die Wohnung hat zwei Zimmer, eine Küche und ein Bad."'
-      - q: "Was gibt es noch?"
+      - q: "Was gibt es noch? — What else is there?"
         options:
           - { key: a, text: "Einen Garten." }
           - { key: b, text: "Eine Garage." }
           - { key: c, text: "Einen Balkon." }
         answer: c
         why: '„Es gibt auch einen kleinen Balkon."'
-      - q: "Wann ist die Besichtigung?"
+      - q: "Wann ist die Besichtigung? — When is the viewing?"
         options:
           - { key: a, text: "Am Samstag um elf Uhr." }
           - { key: b, text: "Am Sonntag um zehn Uhr." }
@@ -736,42 +736,42 @@ exercises:
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
-      - q: "Sie ist 70 (1) ______ groß und hat drei Zimmer."
+      - q: "Sie ist 70 (1) ______ groß und hat drei Zimmer. — It is 70 ___ in size and has three rooms."
         options:
           - { key: a, text: "Euro" }
           - { key: b, text: "Quadratmeter" }
           - { key: c, text: "Zimmer" }
         answer: b
         why: "70 Quadratmeter = 70 square meters (size)."
-      - q: "Mein Schlafzimmer ist klein, (2) ______ das Wohnzimmer ist super."
+      - q: "Mein Schlafzimmer ist klein, (2) ______ das Wohnzimmer ist super. — My bedroom is small, ___ the living room is great."
         options:
           - { key: a, text: "aber" }
           - { key: b, text: "und" }
           - { key: c, text: "oder" }
         answer: a
         why: "aber = but (contrast)."
-      - q: "hell, groß, und (3) ______ Balkon ist direkt da."
+      - q: "hell, groß, und (3) ______ Balkon ist direkt da. — bright, big, and the ___ balcony is right there."
         options:
           - { key: a, text: "der" }
           - { key: b, text: "das" }
           - { key: c, text: "die" }
         answer: a
         why: "der Balkon (m)."
-      - q: "Die Möbel (4) ______ neu — nur das Sofa ist alt."
+      - q: "Die Möbel (4) ______ neu — nur das Sofa ist alt. — The furniture ___ new — only the sofa is old."
         options:
           - { key: a, text: "ist" }
           - { key: b, text: "sind" }
           - { key: c, text: "seid" }
         answer: b
         why: "Die Möbel = plural → sind."
-      - q: "Es ist grau und sehr (5) ______."
+      - q: "Es ist grau und sehr (5) ______. — It is grey and very ___."
         options:
           - { key: a, text: "gemütlich" }
           - { key: b, text: "dunkel" }
           - { key: c, text: "frei" }
         answer: a
         why: "Sehr gemütlich = very cozy (positive context)."
-      - q: "Das ist (6) ______, aber Hamburg ist nicht billig!"
+      - q: "Das ist (6) ______, aber Hamburg ist nicht billig! — That is ___, but Hamburg is not cheap!"
         options:
           - { key: a, text: "billig" }
           - { key: b, text: "hell" }
@@ -830,19 +830,19 @@ exercises:
 
       Richtig (R) oder falsch (F)?
     items:
-      - q: "Die Wohnung von Jonas hat zwei Zimmer."
+      - q: "Die Wohnung von Jonas hat zwei Zimmer. — Jonas's flat has two rooms."
         answer: false
         why: "Laut Text hat die Wohnung ein Zimmer (nicht zwei)."
-      - q: "Jonas findet die Möbel schön."
+      - q: "Jonas findet die Möbel schön. — Jonas thinks the furniture is nice."
         answer: true
         why: "Er findet die Möbel schön."
-      - q: "In der Küche gibt es keinen Herd."
+      - q: "In der Küche gibt es keinen Herd. — In the kitchen there is no stove."
         answer: true
         why: "Der Text sagt, es gibt keinen Herd in der Küche."
-      - q: "Das Bad ist hell."
+      - q: "Das Bad ist hell. — The bathroom is bright."
         answer: false
         why: "Das Bad hat kein Fenster und ist dunkel (nicht hell)."
-      - q: "Die Miete ist für Köln billig."
+      - q: "Die Miete ist für Köln billig. — The rent is cheap for Cologne."
         answer: true
         why: "Köln ist teuer — laut Text kostet die Miete nur 450 €, also billig."
 
@@ -859,28 +859,28 @@ exercises:
 
       Wähle a, b oder c.
     items:
-      - q: "Anzeige 1: Die Wohnung hat …"
+      - q: "Anzeige 1: Die Wohnung hat … — Ad 1: The flat has …"
         options:
           - { key: a, text: "zwei Zimmer" }
           - { key: b, text: "drei Zimmer" }
           - { key: c, text: "einen Garten" }
         answer: a
         why: "Anzeige 1 sagt 2-Zimmer-Wohnung."
-      - q: "Was kostet die Wohnung in Spandau?"
+      - q: "Was kostet die Wohnung in Spandau? — How much is the flat in Spandau?"
         options:
           - { key: a, text: "780 €" }
           - { key: b, text: "950 €" }
           - { key: c, text: "78 €" }
         answer: b
         why: "Anzeige 2 (Spandau) sagt Miete: 950 Euro."
-      - q: "Welche Wohnung hat einen Balkon?"
+      - q: "Welche Wohnung hat einen Balkon? — Which flat has a balcony?"
         options:
           - { key: a, text: "Anzeige 1" }
           - { key: b, text: "Anzeige 2" }
           - { key: c, text: "beide" }
         answer: a
         why: "Anzeige 1 erwähnt einen Balkon; Anzeige 2 hat Garten und Garage."
-      - q: "Die Wohnung in Spandau hat …"
+      - q: "Die Wohnung in Spandau hat … — The flat in Spandau has …"
         options:
           - { key: a, text: "eine Garage" }
           - { key: b, text: "einen Balkon" }

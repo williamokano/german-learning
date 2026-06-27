@@ -54,6 +54,21 @@ buildsOn:
 > **Bruno:** Und was kostet die Wohnung?  
 > **Anna:** 850 Euro im Monat. Das ist nicht billig, aber okay für Berlin.  
 
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Anna:** Hi Bruno! Come in! This is my new flat.
+> **Bruno:** Wow, it's big! How many rooms does it have?
+> **Anna:** Three rooms, a kitchen, and a bathroom. Here's the living room.
+> **Bruno:** Very nice! And bright. I like the sofa!
+> **Anna:** Thanks, it's new. But the lamp is old — it's from grandma.
+> **Bruno:** Is there a balcony too?
+> **Anna:** Yes, there! It's small, but cozy.
+> **Bruno:** And how much is the rent?
+> **Anna:** 850 euros a month. That's not cheap, but okay for Berlin.
+
+</details>
+
 ### Dialog B: Am Telefon — die Wohnungsanzeige (formell)
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
@@ -70,6 +85,23 @@ buildsOn:
 > **Herr Klein:** 700 Euro.  
 > **Bruno:** Gut. Ich möchte die Wohnung gern sehen.\*  
 > **Herr Klein:** Gern! Morgen um 17 Uhr?\*\*  
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Mr Klein:** Klein.
+> **Bruno:** Good day, my name is Bruno Santos. I have a question: is the flat still available?
+> **Mr Klein:** Yes, the flat is still available.
+> **Bruno:** Great! How big is it?
+> **Mr Klein:** 65 square metres — two rooms, kitchen, bathroom.
+> **Bruno:** Is there a balcony?
+> **Mr Klein:** No, but there is a garden.
+> **Bruno:** And how much is the rent?
+> **Mr Klein:** 700 euros.
+> **Bruno:** Good. I'd like to see the flat.\*
+> **Mr Klein:** Gladly! Tomorrow at 5 pm?\*\*
+
+</details>
 
 \* `sehen` (to see) appears here as an infinitive chunk; its irregular present-tense forms come in Lektion 6.  
 \*\* Clock times (`um 17 Uhr`) are explained in Lektion 5 — for now, treat this as a chunk.
@@ -466,6 +498,13 @@ Wohnung? Klein und laut — aber für mich ist sie perfekt. Sie ist mein Zuhause
 > Es gibt auch ein Bad mit einem Balkon. Im Wohnzimmer stehen ein
 > großes, braunes Sofa und ein Schreibtisch. Anna findet die Wohnung
 > schön — aber ein bisschen teuer!
+
+</details>
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> Anna now lives in a new flat in Berlin. The flat has three rooms: a living room, a bedroom and a small kitchen. There's also a bathroom with a balcony. In the living room there's a large, brown sofa and a desk. Anna thinks the flat is nice — but a bit expensive!
 
 </details>
 
