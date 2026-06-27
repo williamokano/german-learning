@@ -123,6 +123,7 @@ exercises:
     title: "Tabelle ausfüllen: Dialog B (Wien-Abschied)"
     audio: dialog1_b.mp3
     instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    instructionsEn: "Listen to the dialog once and fill in the table. Each row is missing **one** piece of information — the hints in the other cells help you."
     columns: ["Satz / Aussage", "Konnektor (weil/dass/darum)", "Ergänzung"]
     rows:
       - label: "Kurs verlassen"
