@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Anna und Bruno sprechen über Pläne für das neue Jahr. ( )
 2. Bruno wird dreimal pro Woche joggen. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Worüber möchte Frau Yilmaz mit Herrn Steinmeyer sprechen?  a) Über das Projekt im März  b) Über den Urlaub im Sommer  c) Über das Catering
 2. Wann wird Frau Yilmaz das Konzept fertig haben?  a) Bis Ende dieser Woche  b) Bis Ende nächster Woche  c) Bis Ende März
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Three words in the box are not needed.
+Höre und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Guten Abend und willkommen zur Wettervorhersage für Berlin und Umgebung.
 > (1) ______, am Dienstag, wird es den ganzen Tag sonnig, die
@@ -49,7 +49,7 @@ Listen and fill in the 6 missing words. Three words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Wo ist Lisa gerade?  a) Am Flughafen in Berlin.  b) Am Flughafen in Lissabon.  c) Am Flughafen in Wien.
 2. Warum wird Lisa erst am Dienstag zurückfliegen?  a) Weil sie länger Urlaub machen will.  b) Weil ihr Flug am Sonntag gestrichen wurde.  c) Weil die Airline keine Plätze mehr hat.
@@ -86,7 +86,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A1 — Konjugation: werden (Präsens)
 
-Fill in the present-tense form of werden.
+Ergänze die Präsensform von werden.
 
 1. ich: ______
 2. du: ______
@@ -97,7 +97,7 @@ Fill in the present-tense form of werden.
 
 ## Übung A2 — Futur I: Satzklammer üben
 
-Complete each sentence with the correct form of werden + the infinitive in brackets. Watch the verb position: werden in position 2, infinitive at the end. 10 items.
+Vervollständige jeden Satz mit der richtigen Form von werden + dem Infinitiv in Klammern. Achte auf die Verbposition: werden auf Position 2, Infinitiv am Ende. 10 Aufgaben.
 
 1. Ich ______ morgen Deutsch ______. (lernen)
 2. Anna ______ im Juli nach Brasilien ______. (fliegen)
@@ -121,7 +121,7 @@ Complete each sentence with the correct form of werden + the infinitive in brack
 
 ## Übung A4 — Futur I verneinen
 
-Rewrite the sentence in the negative. The infinitive stays at the end. 6 items. (Fill in: conjugated form of werden, „nicht", and the infinitive.)
+Schreibe den Satz in der Verneinung. Der Infinitiv bleibt am Ende. 6 Aufgaben. (Ergänze: konjugierte Form von werden, „nicht" und den Infinitiv.)
 
 1. Ich werde morgen kommen. → Ich ______ morgen ______ ______.
 2. Wir werden das Buch lesen. → Wir ______ das Buch ______ ______.
@@ -146,7 +146,7 @@ Rewrite the sentence in the negative. The infinitive stays at the end. 6 items. 
 
 ## Übung A6 — wenn-Klausel: Verb am Ende
 
-Complete each wenn-sentence. Put the conjugated verb at the end. 6 items.
+Vervollständige jeden wenn-Satz. Setze das konjugierte Verb ans Ende. 6 Aufgaben.
 
 1. Wenn ich morgen Zeit ______ (haben), gehe ich ins Kino.
 2. Wenn das Wetter besser ______ (werden), fangen wir an.
@@ -169,7 +169,7 @@ Complete each wenn-sentence. Put the conjugated verb at the end. 6 items.
 
 ## Übung A8 — als oder wenn?
 
-For each sentence, choose als (one single past event) or wenn (repeated past / present / future). 6 items.
+Wähle für jeden Satz als (einmaliges vergangenes Ereignis) oder wenn (wiederholt vergangen / Gegenwart / Zukunft). 6 Aufgaben.
 
 1. ______ ich ein Kind war, habe ich in Russland gelebt. (single past period)
 2. ______ ich traurig war, hat meine Mutter mich getröstet. (every time, repeated)
@@ -180,7 +180,7 @@ For each sentence, choose als (one single past event) or wenn (repeated past / p
 
 ## Übung A9 — als oder wenn? Lückentext
 
-Fill the gap with als or wenn. 8 items.
+Ergänze die Lücke mit als oder wenn. 8 Aufgaben.
 
 1. ______ ich gestern aufgestanden bin, war es noch dunkel.
 2. ______ ich als Kind krank war, hat meine Oma mir Suppe gebracht.
@@ -205,7 +205,7 @@ Fill the gap with als or wenn. 8 items.
 
 ## Übung A11 — Gemischt: Futur I + wenn
 
-Complete the sentence. Use Futur I in the main clause and a wenn-clause (verb at the end) for the condition. 22 gaps total. Sample: „Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen)." Use the infinitive given in brackets.
+Vervollständige den Satz. Verwende Futur I im Hauptsatz und einen wenn-Satz (Verb am Ende) für die Bedingung. Insgesamt 22 Lücken. Beispiel: „Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen)." Verwende den in Klammern angegebenen Infinitiv.
 
 1. Wenn ich morgen Zeit ______ (haben), ______ (werden) ich ins Kino ______ (gehen).
 2. Wenn es morgen regnet, ______ (werden) wir zu Hause ______ (bleiben).
@@ -234,7 +234,7 @@ Complete the sentence. Use Futur I in the main clause and a wenn-clause (verb at
 
 ## Übung B1 — Dialog ergänzen: Pläne für den Sommer
 
-Fill in the blanks with the correct word. Use Futur I in the main clause and wenn / als in the subordinate clauses. 10 items.
+Ergänze die Lücken mit dem richtigen Wort. Verwende Futur I im Hauptsatz und wenn / als in den Nebensätzen. 10 Aufgaben.
 
 — Hallo Bruno! Was ______ du in den Sommerferien machen?
 — Ich ______ nach Spanien fahren, ______ ich genug Geld
@@ -263,7 +263,7 @@ kühler.
 
 ## Übung B3 — Wettervorhersage: Lückentext
 
-Fill the gaps with the correct form of werden and the word in brackets. 8 items.
+Ergänze die Lücken mit der richtigen Form von werden und dem Wort in Klammern. 8 Aufgaben.
 
 Guten Morgen und willkommen zur Wettervorhersage! Heute ______
 es sonnig, die Temperatur ______ 22 Grad ______. Morgen
@@ -274,7 +274,7 @@ Sonntag ______ es kühler — nur noch 20 Grad.
 
 ## Übung B4 — Frage und Antwort verbinden
 
-Match each question (1–6) with the correct answer (a–f).
+Ordne jede Frage (1–6) der richtigen Antwort (a–f) zu.
 
 | Links | | Rechts |
 |---|---|---|
@@ -311,7 +311,7 @@ Match each question (1–6) with the correct answer (a–f).
 
 ## Übung B7 — Kategorien: Vorsätze, Pläne, Vermutungen
 
-Sort the 6 sentences into the two categories. 4 are plans/intentions, 2 are assumptions/predictions.
+Sortiere die 6 Sätze in die zwei Kategorien. 4 sind Pläne/Absichten, 2 sind Vermutungen/Vorhersagen.
 
 > Ich werde morgen Deutsch lernen. · Sie wird wahrscheinlich müde sein. · Nächstes Jahr werden wir ein Haus kaufen. · Er wird das Buch bestimmt mögen. · Ich habe mir vorgenommen, mehr Sport zu machen. · Im Sommer werden wir nach Spanien fliegen.
 
@@ -352,7 +352,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word. 10 items.
+Fülle jede Lücke mit einem Wort. 10 Aufgaben.
 
 Liebe Anna, wie geht es dir? Ich ______ dir von meinen Plänen
 ______. Nächstes Jahr ______ ich nach Wien fahren und
@@ -375,7 +375,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. Ten words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > Letztes Jahr (1) ______ ich im Sommer nach Wien geflogen. Ich
 > (2) ______ dort auch einen Sprachkurs (3) ______. Nächstes
@@ -449,7 +449,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes. 15 items.
+Eine Minute pro Aufgabe. Keine Notizen. 15 Aufgaben.
 
 1. (A2/L04) In wenn-clauses, where does the conjugated verb go? → ______
 2. Present of werden, ich-form: ______
@@ -469,7 +469,7 @@ One minute per item. No notes. 15 items.
 
 ## Übung D2 — Odd one out
 
-Cross out the word that doesn't fit and say why.
+Streiche das Wort durch, das nicht passt, und sage warum.
 
 1. planen – wohnen – hoffen – erwarten
 2. der Regen – der Schnee – die Wolke – die Tasche
@@ -480,7 +480,7 @@ Cross out the word that doesn't fit and say why.
 
 ## Übung D3 — Rückblick: A2/01, A2/03, A2/04, A2/09, A2/10
 
-Review of Partizip II, weil/dass, wenn/als, Konjunktiv II, and prepositions. 10 items.
+Wiederholung: Partizip II, weil/dass, wenn/als, Konjunktiv II und Präpositionen. 10 Aufgaben.
 
 1. (A2/L01) Partizip II of verstehen: ______
 2. (A2/L01) Präteritum of müssen, ich-form: ______
