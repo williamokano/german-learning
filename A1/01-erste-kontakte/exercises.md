@@ -10,15 +10,15 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Höre den Clip und wähle die passende Antwort.
 
-1. Begrüßungen — was sagst du am Morgen?  
+1. Begrüßungen — was sagst du am Morgen? — Greetings — what do you say in the morning?  
    a) Guten Abend  b) Guten Morgen  c) Gute Nacht
-2. Verabschiedungen — was sagst du am Abend vor dem Schlafen?  
+2. Verabschiedungen — was sagst du am Abend vor dem Schlafen? — Farewells — what do you say in the evening before sleeping?  
    a) Auf Wiedersehen  b) Gute Nacht  c) Bis morgen
-3. Zahlen 0–10 — welche Zahl kommt nach vier?  
+3. Zahlen 0–10 — welche Zahl kommt nach vier? — Numbers 0–10 — what number comes after four?  
    a) fünf  b) sechs  c) sieben
-4. Zahlen 11–20 — welche Zahl ist zwölf?  
+4. Zahlen 11–20 — welche Zahl ist zwölf? — Numbers 11–20 — which number is twelve?  
    a) 10  b) 12  c) 14
-5. W-Fragewörter — welches Fragewort fragt nach der Herkunft?  
+5. W-Fragewörter — welches Fragewort fragt nach der Herkunft? — W-question words — which question word asks about origin?  
    a) Wo  b) Wer  c) Woher
 
 ## Übung H2a — Dialog A (informell) — Im Deutschkurs
@@ -27,9 +27,9 @@ Höre den Clip und wähle die passende Antwort.
 
 Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?
 
-1. Anna kommt aus Deutschland. ( )
-2. Bruno wohnt in Berlin. ( )
-3. Bruno spricht nur Englisch. ( )
+1. Anna kommt aus Deutschland. — Anna comes from Germany. ( )
+2. Bruno wohnt in Berlin. — Bruno lives in Berlin. ( )
+3. Bruno spricht nur Englisch. — Bruno speaks only English. ( )
 
 ## Übung H2b — Dialog B (formell) — Frau Weber und Herr Steinmeyer
 
@@ -37,10 +37,10 @@ Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?
 
 Höre den Dialog und entscheide: Richtig (R) oder Falsch (F)?
 
-1. Herr Steinmeyer heißt Friedrich. ( )
-2. Herr Steinmeyer kommt aus Deutschland. ( )
-3. Frau Weber buchstabiert ihren eigenen Namen. ( )
-4. Frau Weber fragt nach Herrn Steinmeyers Herkunft. ( )
+1. Herr Steinmeyer heißt Friedrich. — Mr. Steinmeyer's first name is Friedrich. ( )
+2. Herr Steinmeyer kommt aus Deutschland. — Mr. Steinmeyer comes from Germany. ( )
+3. Frau Weber buchstabiert ihren eigenen Namen. — Frau Weber spells her own name. ( )
+4. Frau Weber fragt nach Herrn Steinmeyers Herkunft. — Frau Weber asks about Mr. Steinmeyer's origin. ( )
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -62,10 +62,10 @@ Höre den Text und fülle die Lücken mit Wörtern aus dem Kasten.
 
 Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
 
-1. Warum ruft Petra an?  a) Sie hat ein neues Buch.  b) Sie möchte sich mit der Person treffen.  c) Sie hat eine Prüfung.
-2. Wo lernt Petra die Person kennen?  a) Im Büro.  b) Im Deutschkurs.  c) Im Park.
-3. Was möchten sie zusammen machen?  a) Ins Kino gehen.  b) Einen Kaffee trinken.  c) Einen Spaziergang.
-4. Was ist Petras Telefonnummer?  a) Eins-zwei-drei.  b) Vier-fünf-sechs.  c) Vier-sieben-eins-eins.
+1. Warum ruft Petra an? — Why is Petra calling?  a) Sie hat ein neues Buch.  b) Sie möchte sich mit der Person treffen.  c) Sie hat eine Prüfung.
+2. Wo lernt Petra die Person kennen? — Where does Petra meet this person?  a) Im Büro.  b) Im Deutschkurs.  c) Im Park.
+3. Was möchten sie zusammen machen? — What do they want to do together?  a) Ins Kino gehen.  b) Einen Kaffee trinken.  c) Einen Spaziergang.
+4. Was ist Petras Telefonnummer? — What is Petra's phone number?  a) Eins-zwei-drei.  b) Vier-fünf-sechs.  c) Vier-sieben-eins-eins.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -408,12 +408,12 @@ Und (9) ______? Woher (10) ______ du?
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Guten Tag! (1) ____ Name ist Petra Lang.  a) Mein  b) Ich  c) Meine
-2. Ich komme (2) ____ Österreich  a) in  b) aus  c) von
-3. …und wohne (3) ____ Wien.  a) in  b) aus  c) nach
-4. Ich (4) ____ Deutsch und Englisch.  a) spreche  b) sprichst  c) sprechen
-5. Im Büro sagen alle Frau Lang und (5) ______, aber meine Freunde sagen du.  a) du  b) Sie  c) ihr
-6. Mein Kollege Tom (6) ____ aus den USA.  a) kommen  b) kommst  c) kommt
+1. Guten Tag! (1) ____ Name ist Petra Lang. — Good day! My name is Petra Lang.  a) Mein  b) Ich  c) Meine
+2. Ich komme (2) ____ Österreich — I come from Austria.  a) in  b) aus  c) von
+3. …und wohne (3) ____ Wien. — …and I live in Vienna.  a) in  b) aus  c) nach
+4. Ich (4) ____ Deutsch und Englisch. — I speak German and English.  a) spreche  b) sprichst  c) sprechen
+5. Im Büro sagen alle Frau Lang und (5) ______, aber meine Freunde sagen du. — At the office everyone says Frau Lang and Sie (formal "you"), but my friends say du (informal "you").  a) du  b) Sie  c) ihr
+6. Mein Kollege Tom (6) ____ aus den USA. — My colleague Tom comes from the USA.  a) kommen  b) kommst  c) kommt
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -447,11 +447,11 @@ Five words are not needed.
 Richtig (R) oder falsch (F)?
 
 
-1. Yuki kommt aus China. ( )
-2. Sie wohnt in München. ( )
-3. Yuki spricht sehr gut Deutsch. ( )
-4. Die Lehrerin kommt aus Hamburg. ( )
-5. Im Kurs sind zwanzig Personen. ( )
+1. Yuki kommt aus China. — Yuki comes from China. ( )
+2. Sie wohnt in München. — She lives in Munich. ( )
+3. Yuki spricht sehr gut Deutsch. — Yuki speaks German very well. ( )
+4. Die Lehrerin kommt aus Hamburg. — The teacher comes from Hamburg. ( )
+5. Im Kurs sind zwanzig Personen. — There are twenty people in the course. ( )
 
 ## Übung C4b — Lesen Text 2 (Forumspost)
 
@@ -463,10 +463,10 @@ Richtig (R) oder falsch (F)?
 Wähle a, b oder c.
 
 
-1. Lukas kommt aus …  a) Österreich  b) der Schweiz  c) Spanien
-2. Carmen spricht …  a) drei Sprachen  b) zwei Sprachen  c) nur Spanisch
-3. Lukas und Carmen wohnen in …  a) Zürich  b) Madrid  c) Basel
-4. Wer lernt Deutsch?  a) Lukas  b) Carmen  c) Lukas und Carmen
+1. Lukas kommt aus … — Lukas comes from …  a) Österreich  b) der Schweiz  c) Spanien
+2. Carmen spricht … — Carmen speaks …  a) drei Sprachen  b) zwei Sprachen  c) nur Spanisch
+3. Lukas und Carmen wohnen in … — Lukas and Carmen live in …  a) Zürich  b) Madrid  c) Basel
+4. Wer lernt Deutsch? — Who is learning German?  a) Lukas  b) Carmen  c) Lukas und Carmen
 
 ## Übung C5 — Schreiben
 
