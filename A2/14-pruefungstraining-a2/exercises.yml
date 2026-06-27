@@ -241,6 +241,7 @@ exercises:
     type: matching
     title: "Aufgabe 6 — Kurze Texte zuordnen"
     instructions: "Welches Thema (A–G) passt zu welchem Forumsbeitrag (1–5)? Zwei Themen passen nicht."
+    instructionsEn: "Which topic (A–G) matches which forum post (1–5)? Two topics do not fit."
     left:
       - key: "1"
         text: "Ich trainiere seit drei Monaten für einen Halbmarathon. Am Anfang konnte ich kaum fünf Kilometer laufen, aber jetzt schaffe ich schon 15!"
@@ -379,6 +380,7 @@ exercises:
     type: speaking-prompt
     title: "Aufgabe 4 — Sprechen (3 Teile)"
     instructions: "Führen Sie alle drei Sprechaufgaben durch — mit einem Partner oder als Monolog (Aufnahme). Bewerten Sie sich anschließend selbst anhand der Kriterien."
+    instructionsEn: "Carry out all three speaking tasks — with a partner or as a monologue (recording). Then assess yourself using the criteria."
     parts:
       - label: "Teil 4a — Sich vorstellen (ca. 2 Minuten)"
         prompt: "Stellen Sie sich vor und sprechen Sie über die sechs Punkte."
@@ -424,6 +426,7 @@ exercises:
     title: "Tabelle ausfüllen: Radiobeitrag über Marta"
     audio: aufgabe2.mp3
     instructions: "Hör den Radiobeitrag noch einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    instructionsEn: "Listen to the radio piece again and fill in the table. In each row, **one** piece of information is missing — the clues in the other cells will help you."
     columns: ["Info", "Detail"]
     rows:
       - label: "Name"
