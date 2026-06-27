@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog 1: Im Kaufhaus"
     audio: dialog1.mp3
-    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    instructions: "Höre und entscheide: richtig (R) oder falsch (F)?"
+    instructionsEn: "Listen and decide: true (R) or false (F)?"
     items:
       - q: "Anna sucht eine rote Jacke. — Anna is looking for a red jacket."
         answer: false
@@ -35,7 +36,8 @@ exercises:
     type: true-false
     title: "Dialog 2: Im Sportgeschäft"
     audio: dialog2.mp3
-    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    instructions: "Höre und entscheide: richtig (R) oder falsch (F)?"
+    instructionsEn: "Listen and decide: true (R) or false (F)?"
     items:
       - q: "Bruno sucht Sportschuhe. — Bruno is looking for sports shoes."
         answer: true
@@ -55,7 +57,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 5 missing words. Three words in the box are not needed."
+    instructions: "Höre und fülle die 5 fehlenden Wörter ein. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 5 missing words. Three words in the box are not needed."
     text: |-
       Bruno sucht ein {1} für seine Mutter.
       Er geht in ein {2} und findet eine schöne Tasche.
@@ -134,7 +137,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`gefallen`: complete the sentences"
-    instructions: "Use the correct form of `gefallen` and the correct dative pronoun."
+    instructions: "Verwende die richtige Form von „gefallen\" und das richtige Dativpronomen."
+    instructionsEn: "Use the correct form of `gefallen` and the correct dative pronoun."
     text: |-
       1. Es {1} {2} (I like it).
       2. Sie {3} {4} gut. (We like them.)
@@ -161,7 +165,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`passen` und `stehen`: dative drill"
-    instructions: "Fill in `passt` or `steht` AND the correct dative pronoun."
+    instructions: "Ergänze „passt\" oder „steht\" UND das richtige Dativpronomen."
+    instructionsEn: "Fill in `passt` or `steht` AND the correct dative pronoun."
     text: |-
       1. Die Hose {1} {2} gut. (it fits me)
       2. Der Hut {3} {4} sehr gut! (it suits you — informal)
@@ -194,7 +199,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`gehören` und `helfen`: dative"
-    instructions: "Fill in the correct form of the verb and the correct dative pronoun."
+    instructions: "Ergänze die richtige Form des Verbs und das passende Dativpronomen."
+    instructionsEn: "Fill in the correct form of the verb and the correct dative pronoun."
     text: |-
       1. Wem {1} diese Tasche? — Sie {2} {3} (to me).
       2. Kann ich {4} helfen? (you — formal)
@@ -225,7 +231,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`dieser/diese/dieses`: nominative and accusative"
-    instructions: "Choose the correct form of `dieser`."
+    instructions: "Wähle die richtige Form von „dieser\"."
+    instructionsEn: "Choose the correct form of `dieser`."
     text: |-
       1. {1} Pullover (m) ist sehr schön. (Nom)
       2. Ich nehme {2} Jacke (f). (Akk)
@@ -250,7 +257,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`welcher?/welche?/welches?`"
-    instructions: "Fill in the correct form of `welcher`."
+    instructions: "Ergänze die richtige Form von „welcher\"."
+    instructionsEn: "Fill in the correct form of `welcher`."
     text: |-
       1. {1} Pullover gefällt dir? (m)
       2. {2} Jacke nimmst du? (f)
@@ -275,7 +283,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`tragen` (e → ä irregular): conjugation table"
-    instructions: "`tragen` (to wear) is irregular: the vowel changes **a → ä** for `du` and `er/sie/es`."
+    instructions: "„tragen\" (to wear) ist unregelmäßig: der Vokal ändert sich **a → ä** bei „du\" und „er/sie/es\"."
+    instructionsEn: "`tragen` (to wear) is irregular: the vowel changes **a → ä** for `du` and `er/sie/es`."
     text: |-
       ich trage · du {1} · er/sie/es {2} · wir tragen · ihr tragt · sie/Sie tragen
       3. Ich {3} heute ein neues T-Shirt.
@@ -299,7 +308,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Kleidung + Artikel: der, die oder das?"
-    instructions: "Write the article and the plural."
+    instructions: "Schreibe den Artikel und die Pluralform."
+    instructionsEn: "Write the article and the plural."
     text: |-
       1. {1} Jacke, {2}  2. {3} Pullover, {4}  3. {5} Kleid, {6}  4. {7} Schuh, {8}  5. {9} Hose, {10}
       6. {11} Hemd, {12}  7. {13} Mantel, {14}  8. {15} Rock, {16}  9. {17} Bluse, {18}  10. {19} Stiefel, {20}
@@ -330,7 +340,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Separable verbs: `anprobieren` und `einpacken`"
-    instructions: "Rewrite with the correct verb position. Remember: the prefix goes to the END."
+    instructions: "Schreibe mit der richtigen Verbposition. Merke: die Vorsilbe steht am ENDE."
+    instructionsEn: "Rewrite with the correct verb position. Remember: the prefix goes to the END."
     text: |-
       1. Ich möchte diese Jacke {1}. (anprobieren)
       2. Darf ich den Mantel {2}? (anprobieren)
@@ -354,7 +365,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dative pronoun substitution"
-    instructions: "Replace the underlined phrase with the correct dative pronoun."
+    instructions: "Ersetze die unterstrichene Phrase durch das richtige Dativpronomen."
+    instructionsEn: "Replace the underlined phrase with the correct dative pronoun."
     text: |-
       1. Das Kleid gefällt {1}. (meiner Mutter)
       2. Die Jacke passt {2} nicht. (meinem Bruder)
@@ -399,7 +411,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Farben: match or fill in"
-    instructions: "Write the color in German. Then make sentences using the color as a predicative adjective."
+    instructions: "Schreibe die Farbe auf Deutsch. Bilde dann Sätze mit der Farbe als prädikatives Adjektiv."
+    instructionsEn: "Write the color in German. Then make sentences using the color as a predicative adjective."
     text: |-
       1. red → {1}  2. blue → {2}  3. green → {3}  4. black → {4}
       5. white → {5}  6. yellow → {6}  7. grey → {7}  8. brown → {8}
@@ -428,7 +441,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dialog ergänzen: Im Kaufhaus"
-    instructions: "Fill in the gaps with one word each."
+    instructions: "Ergänze die Lücken mit je einem Wort."
+    instructionsEn: "Fill in the gaps with one word each."
     text: |-
       — Guten Tag! (1) {1} ich Ihnen helfen?
       — Ja, gern. Ich (2) {2} eine Hose für die Arbeit.
@@ -547,7 +561,8 @@ exercises:
     block: B
     type: order
     title: "Satzbau (word order)"
-    instructions: "Build correct sentences. Watch verb position and dative pronoun placement."
+    instructions: "Bilde korrekte Sätze. Achte auf die Verbposition und die Stellung des Dativpronomens."
+    instructionsEn: "Build correct sentences. Watch verb position and dative pronoun placement."
     items:
       - tiles: [mir, gefällt, diese, Jacke, sehr]
         answer: [2, 3, 1, 0, 4]
@@ -586,7 +601,8 @@ exercises:
     block: B
     type: categorize
     title: "Kategorien: Kleidung sortieren"
-    instructions: "Sort the 12 words into four categories: Oberbekleidung · Unterbekleidung & Accessoires · Schuhe · Farben"
+    instructions: "Sortiere die 12 Wörter in vier Kategorien: Oberbekleidung · Unterbekleidung & Accessoires · Schuhe · Farben"
+    instructionsEn: "Sort the 12 words into four categories: Oberbekleidung · Unterbekleidung & Accessoires · Schuhe · Farben"
     buckets:
       - { key: ober, label: "Oberbekleidung" }
       - { key: unter, label: "Unterbekleidung & Accessoires" }
@@ -681,7 +697,8 @@ exercises:
     block: C
     type: gap-text
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |-
       Anna ist im Kaufhaus. Sie sucht eine Hose für die Arbeit. Die Verkäuferin
       fragt: „Kann ich {1} helfen?" Anna sagt: „Ja, gern. Ich {2} eine
@@ -757,7 +774,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
     text: |-
       — Guten Tag! Kann ich {1} helfen?
       — Ja, danke. Ich {2} ein Geschenk für meinen Bruder.
