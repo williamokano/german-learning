@@ -56,6 +56,23 @@ buildsOn:
 > **Anna:** Nein, nicht viel. Manchmal rufe ich auch meine Eltern an. Um elf  
 > Uhr gehe ich schlafen.  
 
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Bruno:** Anna, when do you get up?
+> **Anna:** At 6:30 — that's half past six. I shower, have breakfast, and at
+> eight my work starts.
+> **Bruno:** And when do you have your lunch break?
+> **Anna:** From 12:30 to 1:30. I usually eat a bread roll with cheese.
+> **Bruno:** When do you go shopping?
+> **Anna:** In the afternoon, after work. And in the evening I cook or I
+> watch TV.
+> **Bruno:** Do you watch a lot of TV?
+> **Anna:** No, not much. Sometimes I also call my parents. At eleven
+> o'clock I go to sleep.
+
+</details>
+
 \* `nach der Arbeit` (after work) — a dative chunk; the preposition system comes
 later. Same for `meistens` (= mostly).
 
@@ -70,6 +87,18 @@ later. Same for `meistens` (= mostly).
 > **Bruno:** Super! Um wie viel Uhr gehen wir?  
 > **Anna:** Um halb acht. Ich rufe dich** am Samstagmorgen noch einmal an.  
 > **Bruno:** Okay, bis Samstag!  
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Anna:** Hi Bruno, this is Anna. Do you have time on Saturday?
+> **Bruno:** Yes, on Saturday I'm free. What shall we do?
+> **Anna:** Let's go to the movies!* The film starts at eight o'clock.
+> **Bruno:** Great! What time shall we go?
+> **Anna:** At 7:30. I'll call you** again on Saturday morning.
+> **Bruno:** Okay, see you on Saturday!
+
+</details>
 
 \* `ins Kino gehen` (to go to the movies) — learn as a chunk.  
 \** `dich` = you (accusative pronoun) — chunk for now, system in Lektion 6.
@@ -520,6 +549,17 @@ Am Sonntag arbeitet Tom nicht. Das ist sein freier Tag. Am Sonntag steht er um z
 > lernt sie Deutsch. Die Mittagspause ist von halb eins bis zwei. Am
 > Nachmittag kauft Yuki ein oder ruft ihre Freunde an. Abends lernt sie oft
 > Vokabeln, und um halb elf geht sie schlafen.
+
+</details>
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> Yuki gets up at 7:30 and has a quick breakfast — just coffee and a bread
+> roll. Her German course starts at nine o'clock. From nine to 12:30 she
+> studies German. The lunch break is from 12:30 to two. In the afternoon
+> Yuki goes shopping or calls her friends. In the evening she often
+> studies vocabulary, and at 10:30 she goes to sleep.
 
 </details>
 
