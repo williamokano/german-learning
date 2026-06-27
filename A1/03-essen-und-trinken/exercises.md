@@ -29,7 +29,7 @@ Listen to Dialog B and decide: richtig (R) oder falsch (F)?
 
 ## Übung H2 — Aussprache-Check
 
-Listen to the Hör zu clips in lesson.md (Wortschatz → 🔊 Aussprache) and pick the matching answer.
+Höre den Hör-zu-Clip und wähle die passende Antwort.
 
 1. Hör zu 1 (Lebensmittel) — which one is a fruit?  
    a) Brot  b) Banane  c) Käse
@@ -368,7 +368,28 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Frühstück in Deutschland
 
-Read „Frühstück in Deutschland" in lesson.md, section 5. Richtig (R) oder falsch (F)?
+> Was essen die Deutschen zum Frühstück? Viele essen Brot oder
+> Brötchen mit Butter, Käse oder Wurst. Auch Müsli mit Joghurt
+> und Obst ist sehr beliebt. Die Deutschen trinken morgens
+> Kaffee — sehr viel Kaffee! — oder Tee. Am Wochenende ist
+> das Frühstück groß und lang: dann gibt es auch Eier,
+> frischen Orangensaft und manchmal sogar Kuchen. Die Familie
+> oder die Freunde sitzen zusammen, lesen die Zeitung und
+> sprechen. Das Frühstück dauert eine Stunde oder mehr.
+>
+> Das Mittagessen ist oft warm: Kartoffeln, Nudeln oder Reis
+> mit Fleisch oder Fisch und Gemüse. In vielen deutschen
+> Kantinen und Restaurants gibt es ein günstiges Mittagsmenü
+> für fünf bis acht Euro. Kinder essen mittags in der Schule.
+>
+> Das Abendessen heißt „Abendbrot" — das Wort sagt es schon:
+> es ist oft Brot mit Käse, Wurst und Salat. Warm kochen am
+> Abend ist in vielen deutschen Haushalten weniger üblich als
+> in Brasilien oder Russland. Anna und Bruno finden das ein
+> bisschen seltsam, aber sie essen gern das deutsche Abendbrot.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Die Deutschen essen zum Frühstück oft Brot oder Brötchen. ( )
 2. Müsli ist nicht populär. ( )
