@@ -128,6 +128,35 @@ exercises:
         answer: b
         why: '„Abends habe ich in einem kleinen Restaurant gegessen."'
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (Wien-Reise)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Person", "Wann", "Wo"]
+    rows:
+      - label: "Museumsbesuch"
+        cells:
+          - { gap: 1, answer: "Herr Steinmeyer" }
+          - { gap: 2, answer: "zuerst",                     given: "zuerst" }
+          - { gap: 3, answer: "Kunsthistorisches Museum",   given: "Kunsthistorisches Museum" }
+      - label: "Opernbesuch"
+        cells:
+          - { gap: 4, answer: "Frau Steinmeyer",            given: "Frau Steinmeyer" }
+          - { gap: 5, answer: "dann" }
+          - { gap: 6, answer: "Wiener Oper",                given: "Wiener Oper" }
+      - label: "Film schauen"
+        cells:
+          - { gap: 7,  answer: "die Tochter",               given: "die Tochter" }
+          - { gap: 8,  answer: "während der Oper",          given: "während der Oper" }
+          - { gap: 9,  answer: "im Hotel" }
+      - label: "Frühstück"
+        cells:
+          - { gap: 10, answer: "alle",                      given: "alle" }
+          - { gap: 11, answer: "am Ende",                   given: "am Ende" }
+          - { gap: 12, answer: "Café Landtmann" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1
