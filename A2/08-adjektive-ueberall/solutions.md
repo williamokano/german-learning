@@ -29,6 +29,15 @@
 3. **c) Zwanzig Prozent.** — Zwanzig Prozent.
 4. **a) Nur bis heute achtzehn Uhr.** — Nur bis achtzehn Uhr und nur heute.
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Geschenk-Beratung)
+
+| Kleidungsstück | Farbe | Eigenschaft |
+|---|---|---|
+| Pullover | marineblau | aus reiner Wolle | **elegant** |
+| Hemd | weiß | passt zum Pullover | **klassisch** |
+| Farbvorlieben | dunkle Farben | Marineblau, Dunkelgrau, Schwarz | Ehemann |
+| Kaufentscheidung | Pullover und Hemd | Frau Weber | ausgezeichnete Wahl |
+
 ---
 
 # Block A — Basistraining

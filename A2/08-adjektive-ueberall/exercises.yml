@@ -114,6 +114,35 @@ exercises:
         answer: a
         why: "Nur bis achtzehn Uhr und nur heute."
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (Geschenk-Beratung)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Kleidungsstück", "Farbe", "Eigenschaft"]
+    rows:
+      - label: "Pullover"
+        cells:
+          - { gap: 1, answer: "marineblau",                given: "marineblau" }
+          - { gap: 2, answer: "aus reiner Wolle",          given: "aus reiner Wolle" }
+          - { gap: 3, answer: "elegant" }
+      - label: "Hemd"
+        cells:
+          - { gap: 4, answer: "weiß",                      given: "weiß" }
+          - { gap: 5, answer: "passt zum Pullover",        given: "passt zum Pullover" }
+          - { gap: 6, answer: "klassisch" }
+      - label: "Farbvorlieben"
+        cells:
+          - { gap: 7, answer: "dunkle Farben",             given: "dunkle Farben" }
+          - { gap: 8, answer: "Marineblau, Dunkelgrau, Schwarz", given: "Marineblau, Dunkelgrau, Schwarz" }
+          - { gap: 9, answer: "Ehemann",                   given: "Ehemann" }
+      - label: "Kaufentscheidung"
+        cells:
+          - { gap: 10, answer: "Pullover und Hemd",        given: "Pullover und Hemd" }
+          - { gap: 11, answer: "Frau Weber",               given: "Frau Weber" }
+          - { gap: 12, answer: "ausgezeichnete Wahl",      given: "ausgezeichnete Wahl" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1

@@ -60,6 +60,19 @@ Listen to the announcement. Then choose the correct answer (a, b, or c). Listen 
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Geschenk-Beratung)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Kleidungsstück | Farbe | Eigenschaft |
+|---|---|---|
+| Pullover | marineblau | aus reiner Wolle | ______ |
+| Hemd | weiß | passt zum Pullover | ______ |
+| Farbvorlieben | dunkle Farben | Marineblau, Dunkelgrau, Schwarz | Ehemann |
+| Kaufentscheidung | Pullover und Hemd | Frau Weber | ausgezeichnete Wahl |
+
 ---
 
 # Block A — Basistraining
