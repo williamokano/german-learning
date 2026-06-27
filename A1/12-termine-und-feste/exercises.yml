@@ -17,16 +17,16 @@ exercises:
     audio: dialog1_a.mp3
     instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
     items:
-      - q: "Annas Geburtstag ist am dreizehnten Mai."
+      - q: "Annas Geburtstag ist am dreizehnten Mai. — Anna's birthday is on the thirteenth of May."
         answer: true
         why: 'Anna sagt: „Mein Geburtstag ist am dreizehnten Mai."'
-      - q: "Die Party findet am Sonntag, dem fünfzehnten Mai, statt."
+      - q: "Die Party findet am Sonntag, dem fünfzehnten Mai, statt. — The party takes place on Sunday, the fifteenth of May."
         answer: true
         why: 'Bruno kann am Samstag (14.) nicht kommen. Anna schlägt den Fünfzehnten vor; Bruno sagt „Ja, das passt! Ich komme gern." → Die Party findet am Sonntag, dem fünfzehnten Mai, statt.'
-      - q: "Bruno hat am Samstag schon einen Termin."
+      - q: "Bruno hat am Samstag schon einen Termin. — Bruno already has an appointment on Saturday."
         answer: true
         why: 'Bruno sagt: „Den vierzehnten — das geht leider nicht. Ich habe einen Termin."'
-      - q: "Am Ende des Dialogs schickt Anna Bruno eine Einladung."
+      - q: "Am Ende des Dialogs schickt Anna Bruno eine Einladung. — At the end of the dialog, Anna sends Bruno an invitation."
         answer: true
         why: 'Anna sagt: „Ich schicke dir eine Einladung."'
 
@@ -37,16 +37,16 @@ exercises:
     audio: dialog1_b.mp3
     instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
     items:
-      - q: "Frau Weber ruft die Praxis Dr. Bauer an."
+      - q: "Frau Weber ruft die Praxis Dr. Bauer an. — Mrs. Weber is calling Dr. Bauer's practice."
         answer: false
         why: 'Die Praxis ist „Praxis Dr. Hoffmann", nicht Dr. Bauer.'
-      - q: "Der angebotene Termin ist am Mittwoch, dem achtzehnten Oktober."
+      - q: "Der angebotene Termin ist am Mittwoch, dem achtzehnten Oktober. — The offered appointment is on Wednesday, the eighteenth of October."
         answer: true
         why: 'Die Sprechstundenhilfe sagt: „Passt Ihnen Mittwoch, der achtzehnte Oktober?"'
-      - q: "Der Termin ist um zehn Uhr dreißig."
+      - q: "Der Termin ist um zehn Uhr dreißig. — The appointment is at ten thirty."
         answer: true
         why: 'Die Sprechstundenhilfe sagt: „Um 10 Uhr 30."'
-      - q: 'Frau Weber sagt „Auf Wiedersehen" am Ende.'
+      - q: 'Frau Weber sagt „Auf Wiedersehen" am Ende. — Mrs. Weber says "Auf Wiedersehen" at the end.'
         answer: false
         why: 'Am Telefon sagt man „Auf Wiederhören", nicht „Auf Wiedersehen".'
 
@@ -82,28 +82,28 @@ exercises:
     instructionsEn: "Listen to the message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Hallo Anna, hier ist Lisa. Ich rufe an wegen unseres Treffens am Samstag. Leider muss ich unser Treffen am achtzehnten Oktober absagen — ich habe einen Arzttermin bekommen. Können wir uns vielleicht am Sonntag, dem neunzehnten Oktober, um fünfzehn Uhr treffen? Bitte ruf mich zurück, damit ich weiß, ob der neue Termin passt. Vielen Dank und bis bald!"
     items:
-      - q: "Wessen Nachricht ist das?"
+      - q: "Wessen Nachricht ist das? — Whose message is this?"
         options:
           - { key: a, text: "Von Lisa." }
           - { key: b, text: "Von Anna." }
           - { key: c, text: "Von ihrer Schwester." }
         answer: a
         why: 'Hallo Anna, hier ist Lisa.'
-      - q: "Was muss Lisa absagen?"
+      - q: "Was muss Lisa absagen? — What does Lisa have to cancel?"
         options:
           - { key: a, text: "Den Arzttermin." }
           - { key: b, text: "Das Konzert am Sonntag." }
           - { key: c, text: "Das Treffen am achtzehnten Oktober." }
         answer: c
         why: '„Leider muss ich unser Treffen am achtzehnten Oktober absagen."'
-      - q: "Wann schlägt Lisa ein neues Treffen vor?"
+      - q: "Wann schlägt Lisa ein neues Treffen vor? — When does Lisa suggest a new meeting?"
         options:
           - { key: a, text: "Am Samstag um fünfzehn Uhr." }
           - { key: b, text: "Am Sonntag um fünfzehn Uhr." }
           - { key: c, text: "Am Montag um fünfzehn Uhr." }
         answer: b
         why: '„Können wir uns vielleicht am Sonntag, dem neunzehnten Oktober, um fünfzehn Uhr treffen?"'
-      - q: "Was soll Anna tun?"
+      - q: "Was soll Anna tun? — What should Anna do?"
         options:
           - { key: a, text: "Zurückrufen." }
           - { key: b, text: "Eine SMS schicken." }
@@ -673,42 +673,42 @@ exercises:
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
-      - q: "ich (1) ______ dich herzlich zu meiner Geburtstagsfeier ein."
+      - q: "ich (1) ______ dich herzlich zu meiner Geburtstagsfeier ein. — I (1) ______ you warmly to my birthday party."
         options:
           - { key: a, text: "laden" }
           - { key: b, text: "lädst" }
           - { key: c, text: "lade" }
         answer: c
         why: "ich-form of einladen; the separable prefix ein appears later, so the stem is lade."
-      - q: "Die Party findet (2) ______ Samstag, (3) ______ achten März, statt."
+      - q: "Die Party findet (2) ______ Samstag, (3) ______ achten März, statt. — The party takes place (2) ______ Saturday, (3) ______ eighth of March."
         options:
           - { key: a, text: "am" }
           - { key: b, text: "im" }
           - { key: c, text: "um" }
         answer: a
         why: "specific day of the week → am."
-      - q: '... Samstag, (3) ______ achten März, statt.'
+      - q: '... Samstag, (3) ______ achten März, statt. — ... Saturday, (3) ______ eighth of March.'
         options:
           - { key: a, text: "dem" }
           - { key: b, text: "der" }
           - { key: c, text: "des" }
         answer: a
         why: 'am Samstag, dem achten März — the date after a day name takes dative → dem.'
-      - q: "(4) ______ beginnt die Feier um 20 Uhr."
+      - q: "(4) ______ beginnt die Feier um 20 Uhr. — (4) ______ the celebration starts at 8 pm."
         options:
           - { key: a, text: "Er" }
           - { key: b, text: "Sie" }
           - { key: c, text: "Es" }
         answer: c
         why: "impersonal subject: Es beginnt um 20 Uhr."
-      - q: "Bitte sag mir (5) ______ Bescheid, ob du kommen (6) ______."
+      - q: "Bitte sag mir (5) ______ Bescheid, ob du kommen (6) ______. — Please let me know (5) ______ whether you can come (6) ______."
         options:
           - { key: a, text: "bitte" }
           - { key: b, text: "gern" }
           - { key: c, text: "schon" }
         answer: a
         why: "polite request: sag mir bitte Bescheid."
-      - q: "... ob du kommen (6) ______."
+      - q: "... ob du kommen (6) ______. — ... whether you can come (6) ______."
         options:
           - { key: a, text: "kann" }
           - { key: b, text: "kannst" }
@@ -763,19 +763,19 @@ exercises:
 
       Richtig (R) oder falsch (F)?
     items:
-      - q: "Anna hat am Samstag, dem siebzehnten Juni, Geburtstag."
+      - q: "Anna hat am Samstag, dem siebzehnten Juni, Geburtstag. — Anna has her birthday on Saturday, the seventeenth of June."
         answer: true
         why: 'Der Lesetext sagt: „am Samstag, dem siebzehnten Juni, Geburtstag".'
-      - q: "Die Feier findet am achtzehnten Juni statt."
+      - q: "Die Feier findet am achtzehnten Juni statt. — The celebration takes place on the eighteenth of June."
         answer: true
         why: '„Die Feier findet am achtzehnten Juni … statt".'
-      - q: "Die Party ist im Restaurant."
+      - q: "Die Party ist im Restaurant. — The party is at the restaurant."
         answer: false
         why: '„bei mir zu Hause", nicht im Restaurant.'
-      - q: "Die Feier beginnt um achtzehn Uhr."
+      - q: "Die Feier beginnt um achtzehn Uhr. — The celebration begins at six pm."
         answer: true
         why: '„um achtzehn Uhr".'
-      - q: "Gäste sollen bis zum zehnten Juni antworten."
+      - q: "Gäste sollen bis zum zehnten Juni antworten. — Guests should reply by the tenth of June."
         answer: true
         why: '„bis zum zehnten Juni Bescheid".'
 
@@ -799,28 +799,28 @@ exercises:
 
       Choose a, b, or c.
     items:
-      - q: "Was wird am 5. August gefeiert?"
+      - q: "Was wird am 5. August gefeiert? — What is being celebrated on August 5th?"
         options:
           - { key: a, text: "Ein Geburtstag" }
           - { key: b, text: "Eine Hochzeit" }
           - { key: c, text: "Ostern" }
         answer: b
         why: '„wir feiern … unsere Hochzeit".'
-      - q: "Wo findet die Feier statt?"
+      - q: "Wo findet die Feier statt? — Where is the celebration taking place?"
         options:
           - { key: a, text: "Zu Hause" }
           - { key: b, text: "Im Park" }
           - { key: c, text: "Im Restaurant" }
         answer: c
         why: '„im Restaurant „Zur Sonne"".'
-      - q: "Um wie viel Uhr beginnt die Veranstaltung?"
+      - q: "Um wie viel Uhr beginnt die Veranstaltung? — At what time does the event start?"
         options:
           - { key: a, text: "Um 12 Uhr" }
           - { key: b, text: "Um 15 Uhr" }
           - { key: c, text: "Um 20 Uhr" }
         answer: b
         why: "15:00 Uhr."
-      - q: "Bis wann muss man antworten?"
+      - q: "Bis wann muss man antworten? — By when does one have to reply?"
         options:
           - { key: a, text: "Bis zum 5. August" }
           - { key: b, text: "Bis zum 20. Juli" }

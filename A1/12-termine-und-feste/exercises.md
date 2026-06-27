@@ -12,10 +12,10 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen and decide: Richtig (R) oder Falsch (F)?
 
-1. Annas Geburtstag ist am dreizehnten Mai. ( )
-2. Die Party findet am Sonntag, dem fünfzehnten Mai, statt. ( )
-3. Bruno hat am Samstag schon einen Termin. ( )
-4. Am Ende des Dialogs schickt Anna Bruno eine Einladung. ( )
+1. Annas Geburtstag ist am dreizehnten Mai. — Anna's birthday is on the thirteenth of May. ( )
+2. Die Party findet am Sonntag, dem fünfzehnten Mai, statt. — The party takes place on Sunday, the fifteenth of May. ( )
+3. Bruno hat am Samstag schon einen Termin. — Bruno already has an appointment on Saturday. ( )
+4. Am Ende des Dialogs schickt Anna Bruno eine Einladung. — At the end of the dialog, Anna sends Bruno an invitation. ( )
 
 ## Übung H1b — Dialog B (formell): Frau Weber beim Arzt
 
@@ -23,10 +23,10 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 Listen and decide: Richtig (R) oder Falsch (F)?
 
-1. Frau Weber ruft die Praxis Dr. Bauer an. ( )
-2. Der angebotene Termin ist am Mittwoch, dem achtzehnten Oktober. ( )
-3. Der Termin ist um zehn Uhr dreißig. ( )
-4. Frau Weber sagt „Auf Wiedersehen" am Ende. ( )
+1. Frau Weber ruft die Praxis Dr. Bauer an. — Mrs. Weber is calling Dr. Bauer's practice. ( )
+2. Der angebotene Termin ist am Mittwoch, dem achtzehnten Oktober. — The offered appointment is on Wednesday, the eighteenth of October. ( )
+3. Der Termin ist um zehn Uhr dreißig. — The appointment is at ten thirty. ( )
+4. Frau Weber sagt „Auf Wiedersehen" am Ende. — Mrs. Weber says "Auf Wiedersehen" at the end. ( )
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -48,10 +48,10 @@ Höre den Text und fülle die Lücken. Zwei Wörter sind zu viel.
 
 Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Wessen Nachricht ist das?  a) Von Lisa.  b) Von Anna.  c) Von ihrer Schwester.
-2. Was muss Lisa absagen?  a) Den Arzttermin.  b) Das Konzert am Sonntag.  c) Das Treffen am achtzehnten Oktober.
-3. Wann schlägt Lisa ein neues Treffen vor?  a) Am Samstag um fünfzehn Uhr.  b) Am Sonntag um fünfzehn Uhr.  c) Am Montag um fünfzehn Uhr.
-4. Was soll Anna tun?  a) Zurückrufen.  b) Eine SMS schicken.  c) Ins Krankenhaus gehen.
+1. Wessen Nachricht ist das? — Whose message is this?  a) Von Lisa.  b) Von Anna.  c) Von ihrer Schwester.
+2. Was muss Lisa absagen? — What does Lisa have to cancel?  a) Den Arzttermin.  b) Das Konzert am Sonntag.  c) Das Treffen am achtzehnten Oktober.
+3. Wann schlägt Lisa ein neues Treffen vor? — When does Lisa suggest a new meeting?  a) Am Samstag um fünfzehn Uhr.  b) Am Sonntag um fünfzehn Uhr.  c) Am Montag um fünfzehn Uhr.
+4. Was soll Anna tun? — What should Anna do?  a) Zurückrufen.  b) Eine SMS schicken.  c) Ins Krankenhaus gehen.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -332,12 +332,12 @@ Hallo, ich (1) ______ Anna und ich mache eine Party! Mein Geburtstag (2) ______ 
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. ich (1) ______ dich herzlich zu meiner Geburtstagsfeier ein.  a) laden  b) lädst  c) lade
-2. Die Party findet (2) ______ Samstag, (3) ______ achten März, statt.  a) am  b) im  c) um
-3. ... Samstag, (3) ______ achten März, statt.  a) dem  b) der  c) des
-4. (4) ______ beginnt die Feier um 20 Uhr.  a) Er  b) Sie  c) Es
-5. Bitte sag mir (5) ______ Bescheid, ob du kommen (6) ______.  a) bitte  b) gern  c) schon
-6. ... ob du kommen (6) ______.  a) kann  b) kannst  c) können
+1. ich (1) ______ dich herzlich zu meiner Geburtstagsfeier ein. — I (1) ______ you warmly to my birthday party.  a) laden  b) lädst  c) lade
+2. Die Party findet (2) ______ Samstag, (3) ______ achten März, statt. — The party takes place (2) ______ Saturday, (3) ______ eighth of March.  a) am  b) im  c) um
+3. ... Samstag, (3) ______ achten März, statt. — ... Saturday, (3) ______ eighth of March.  a) dem  b) der  c) des
+4. (4) ______ beginnt die Feier um 20 Uhr. — (4) ______ the celebration starts at 8 pm.  a) Er  b) Sie  c) Es
+5. Bitte sag mir (5) ______ Bescheid, ob du kommen (6) ______. — Please let me know (5) ______ whether you can come (6) ______.  a) bitte  b) gern  c) schon
+6. ... ob du kommen (6) ______. — ... whether you can come (6) ______.  a) kann  b) kannst  c) können
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortkasten, 10 Lücken, 5 Distraktoren)
 
@@ -374,11 +374,11 @@ Five words are not needed.
 Richtig (R) oder falsch (F)?
 
 
-1. Anna hat am Samstag, dem siebzehnten Juni, Geburtstag. ( )
-2. Die Feier findet am achtzehnten Juni statt. ( )
-3. Die Party ist im Restaurant. ( )
-4. Die Feier beginnt um achtzehn Uhr. ( )
-5. Gäste sollen bis zum zehnten Juni antworten. ( )
+1. Anna hat am Samstag, dem siebzehnten Juni, Geburtstag. — Anna has her birthday on Saturday, the seventeenth of June. ( )
+2. Die Feier findet am achtzehnten Juni statt. — The celebration takes place on the eighteenth of June. ( )
+3. Die Party ist im Restaurant. — The party is at the restaurant. ( )
+4. Die Feier beginnt um achtzehn Uhr. — The celebration begins at six pm. ( )
+5. Gäste sollen bis zum zehnten Juni antworten. — Guests should reply by the tenth of June. ( )
 
 ## Übung C4b — Lesen Text 2 — Einladungskarte
 
@@ -398,10 +398,10 @@ Richtig (R) oder falsch (F)?
 Choose a, b, or c.
 
 
-1. Was wird am 5. August gefeiert?  a) Ein Geburtstag  b) Eine Hochzeit  c) Ostern
-2. Wo findet die Feier statt?  a) Zu Hause  b) Im Park  c) Im Restaurant
-3. Um wie viel Uhr beginnt die Veranstaltung?  a) Um 12 Uhr  b) Um 15 Uhr  c) Um 20 Uhr
-4. Bis wann muss man antworten?  a) Bis zum 5. August  b) Bis zum 20. Juli  c) Bis zum 12. August
+1. Was wird am 5. August gefeiert? — What is being celebrated on August 5th?  a) Ein Geburtstag  b) Eine Hochzeit  c) Ostern
+2. Wo findet die Feier statt? — Where is the celebration taking place?  a) Zu Hause  b) Im Park  c) Im Restaurant
+3. Um wie viel Uhr beginnt die Veranstaltung? — At what time does the event start?  a) Um 12 Uhr  b) Um 15 Uhr  c) Um 20 Uhr
+4. Bis wann muss man antworten? — By when does one have to reply?  a) Bis zum 5. August  b) Bis zum 20. Juli  c) Bis zum 12. August
 
 ## Übung C5 — Schreiben: kurze Einladung
 

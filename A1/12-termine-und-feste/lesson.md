@@ -55,6 +55,21 @@ buildsOn:
 > **Bruno:** Vielen Dank — und herzlichen Glückwunsch zum Geburtstag!  
 > **Anna:** Ha, der ist erst am Dreizehnten! Aber danke!  
 
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Anna:** Hey, Bruno! My birthday is on the thirteenth of May. I'm having a party.
+> **Bruno:** Great! When?
+> **Anna:** On Saturday, the fourteenth of May, at seven in the evening.
+> **Bruno:** Oh, wait. The fourteenth — that doesn't work, unfortunately. I have an appointment.
+> **Anna:** What about the fifteenth, on Sunday?
+> **Bruno:** Yes, that works! I'd love to come.
+> **Anna:** Wonderful! I'll send you an invitation.
+> **Bruno:** Thanks a lot — and happy birthday!
+> **Anna:** Ha, that's not until the thirteenth! But thanks!
+
+</details>
+
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
 
@@ -68,6 +83,20 @@ buildsOn:
 > **Frau Weber:** Ja, das passt gut. Ich komme am Mittwoch um halb elf.  
 > **Sprechstundenhilfe:** Sehr gut. Auf Wiederhören, Frau Weber!  
 > **Frau Weber:** Auf Wiederhören!  
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Receptionist:** Good day, Dr. Hoffmann's practice. What can I do for you?
+> **Mrs. Weber:** Good day. I'd like to make an appointment with the doctor.
+> **Receptionist:** Of course. Does Wednesday, the eighteenth of October, work for you?
+> **Mrs. Weber:** At what time?
+> **Receptionist:** At 10:30.
+> **Mrs. Weber:** Yes, that works well. I'll come on Wednesday at half past ten.
+> **Receptionist:** Very good. Goodbye (on the phone), Mrs. Weber!
+> **Mrs. Weber:** Goodbye (on the phone)!
+
+</details>
 
 ---
 
@@ -547,6 +576,17 @@ Anna
 > Yuki sagt: „Der zweite Juli passt mir leider nicht. Ich habe einen Termin."
 > Bruno schlägt den vierten Juli vor. Yuki sagt: „Ja, der vierte passt gut!"
 > Bruno freut sich und schickt ihr eine Einladung.
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> Bruno calls Yuki. He wants to invite her to the birthday party.
+> Yuki's birthday is on the third of July. Bruno asks: "Are you free on Saturday?"
+> Yuki says: "The second of July doesn't work for me, unfortunately. I have an appointment."
+> Bruno suggests the fourth of July. Yuki says: "Yes, the fourth works well!"
+> Bruno is happy and sends her an invitation.
+
+</details>
 
 </details>
 
