@@ -157,7 +157,7 @@ Modellantwort:
 1. ~~bearbeiten~~ — bearbeiten gehört nicht zur Wortfamilie entscheid-; die anderen drei haben denselben Stamm.
 2. ~~zerbrechen~~ — zerbrechen hat einen anderen Stamm (brechen) und gehört nicht zur Wortfamilie fahr-.
 3. ~~verschwinden~~ — verschwinden hat zwar die Vorsilbe ver-, gehört aber zur Wortfamilie schwind-, nicht zu versteh-.
-4. ~~bezahlen~~ — bezahlen ist das Verb, die anderen drei sind mit Suffix -bar abgeleitete Adjektive (bezahlbar / bezahlen hat denselben Stamm, ist aber kein Adjektiv auf -bar).
+4. ~~bezahlen~~ — bezahlen ist das Verb, die anderen drei sind mit Suffix -bar abgeleitete Adjektive (bezahlen ist kein -bar-Adjektiv, sondern das Basisverb).
 
 ## Übung B8 — Welche Vorsilbe passt?
 
@@ -263,7 +263,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Gemischter Schnelltest
 
-1. **zer-**  2. **miss-**  3. **ent-**  4. **ver-**  5. **Nomen**  6. **Adjektiv**  7. **Adjektiv**  8. **Nomen**  9. **Schutz**  10. **Verkehr-**  11. **Verkehr**  12. **-s-**  13. **die Entscheidung**  14. **berücksichtigen**  15. **-ung**
+1. **zer-**  2. **miss-**  3. **ent-**  4. **ver-**  5. **Nomen**  6. **Adjektiv**  7. **Adjektiv**  8. **Nomen**  9. **Schutz**  10. **Verkehr**  11. **Verkehr**  12. **-s-**  13. **die Entscheidung**  14. **berücksichtigen**  15. **-ung**
 
 ## Übung D2 — Odd one out
 

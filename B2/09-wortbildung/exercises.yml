@@ -87,7 +87,7 @@ exercises:
       der Schutz des Klimas. Und {6} von Wohnraum: bezahlbar heißt „kann bezahlt
       werden", und {7} macht daraus ein Nomen. Wer diese Bausteine kennt, hat das
       System in der Hand.
-    bank: [entschlüsseln, Entscheidung, Kompositum, Klimaschutz, Bezahlbarkeit, Endung, Vorsilbe, Missverständnis, Verständnis]
+    bank: [entschlüsseln, Entscheidung, Kompositum, Klimaschutz, Bezahlbarkeit, Endung, Vorsilbe, Missverständnis, Verständnis, Entscheidung]
     answers:
       "1": entschlüsseln
       "2": Entscheidung
@@ -150,7 +150,7 @@ exercises:
       4. {4}verstehen (falsch verstehen)
       5. {5}zahlen (bezahlen)
       6. {6}lauben (erlauben)
-      7. {7}raten (empfehlen)
+      7. {7}fehlen (empfehlen)
       8. {8}schuldigen (um Verzeihung bitten)
     answers:
       "1": ent
@@ -560,7 +560,7 @@ exercises:
         why: "verschwinden hat zwar die Vorsilbe ver-, gehört aber zur Wortfamilie schwind-, nicht zu versteh-."
       - items: [bezahlbar, lesbar, erreichbar, bezahlen]
         odd: 3
-        why: "bezahlen ist das Verb, die anderen drei sind mit Suffix -bar abgeleitete Adjektive (bezahlbar / bezahlen hat denselben Stamm, ist aber kein Adjektiv auf -bar)."
+        why: "bezahlen ist das Verb, die anderen drei sind mit Suffix -bar abgeleitete Adjektive (bezahlen ist kein -bar-Adjektiv, sondern das Basisverb)."
 
   - id: B8
     block: B
@@ -900,7 +900,7 @@ exercises:
       "7": Adjektiv
       "8": Nomen
       "9": Schutz
-      "10": Verkehr-
+      "10": Verkehr
       "11": Verkehr
       "12": "-s-"
       "13": die Entscheidung
@@ -971,7 +971,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Selbsttest (bewerte dich /20)"
-    notes: "16+ / 20 → Lektion B2/10. Unter 16 → wiederhol morgen Block A (A1–A6) und Block B (B1–B3), dann mach D4 noch einmal."
+    notes: "16+ / 20 → Lektion B2/10. Unter 16 → wiederhol morgen Block A (A1–A11) und Block B (B1–B9), dann mach D4 noch einmal."
     text: |
       **Vorsilben (Bedeutung):**
       1. ver- = {1}

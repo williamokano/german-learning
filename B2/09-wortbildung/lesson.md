@@ -257,9 +257,9 @@ Am nächsten Montag im Meeting hörte Bruno den Satz: „Die Bezahlbarkeit von W
 > | ❌ Falsch | ✅ Richtig |
 > |---|---|
 > | *Er **zerbringt** die Vase.* | *Er **zerbricht** die Vase.* (*zerbrechen* ist stark: bricht – zerbrach – zerbrochen) |
-> | *Sie **entfernt** sich von der Stadt.* | Korrekt! — aber *ent-fernen* mit Akkusativ: *Sie entfernt den Fleck.* |
-> | *Das ist **einverstanden**.* | *Das ist **einverstanden**.* (korrekt, aber: *ein-* ist hier keine eigene Vorsilbe, sondern Teil des Verbs *verstehen*.) |
-> | *Ich **verstehe** dich nicht.* | Korrekt! — aber Achtung: *verstehen* ist ein Vollverb mit eigener Bedeutung, nicht zer- oder ent-stehen. |
+> | *Sie entfernt **von** der Stadt.* | *Sie entfernt **sich von** der Stadt.* (*sich entfernen* braucht die Präposition *von* + Dativ.) |
+> | *Ich bin **einverstanden** das Angebot.* | *Ich bin **einverstanden mit** dem Angebot.* (*einverstanden sein* verlangt die Präposition *mit* + Dativ.) |
+> | *Ich **mich** verstehe das nicht.* | *Ich **verstehe** das nicht.* (*verstehen* ist ein Vollverb — finite Verb auf Position 2, kein Extra-Platzhalter vor dem Subjekt.) |
 
 > 💡 **Lerntipp:** Markiere die Vorsilbe immer **farbig**, wenn du neue Verben
 > lernst. So siehst du auf einen Blick: *ver-kaufen*, *ver-zeihen*, *ver-gessen* —
@@ -271,7 +271,7 @@ Am nächsten Montag im Meeting hörte Bruno den Satz: „Die Bezahlbarkeit von W
 <details>
 <summary>📝 Lösung</summary>
 
-> *zerkochen* = durch Kochen **trennen/auflösen** · *entstauben* = **Staub entfernen** · *missglücken* = **falsch/falsch** glücken (= nicht gelingen) · *bearbeiten* = an etwas **arbeiten** · *erfinden* = **anfangen zu finden** (= etwas Neues finden) · *empfinden* = **wahrnehmen** (wie *entfinden*: aus sich heraus spüren)
+> *zerkochen* = durch Kochen **trennen/auflösen** · *entstauben* = **Staub entfernen** · *missglücken* = **falsch** glücken (= nicht gelingen) · *bearbeiten* = an etwas **arbeiten** · *erfinden* = **anfangen zu finden** (= etwas Neues finden) · *empfinden* = **wahrnehmen** (wie *entfinden*: aus sich heraus spüren)
 
 </details>
 
@@ -373,7 +373,7 @@ Am nächsten Montag im Meeting hörte Bruno den Satz: „Die Bezahlbarkeit von W
 > | *Verkehr Wende* (zwei Wörter) | *Verkehrswende* (zusammen, mit Fugenelement *-s-*) |
 > | *die Wende im Verkehr* — kein Fehler, aber **umständlich** | *die Verkehrswende* (Kompositum) |
 > | *Klima Schutz* | *Klimaschutz* (zusammen) |
-> | *Entscheidungsträgerin* — Vorsicht, Betonung! | *Ent**schei**dungs**trä**ge**rin* — Betonung auf *-trä-* |
+> | *Entscheidungsträgerin* — Vorsicht, Betonung! | *Ent·schei·dungs·**trä**·ge·rin* — Betonung auf *-trä-* |
 
 > 💡 **Lerntipp:** Wenn du ein langes Kompositum hörst und nicht weißt, wo die
 > Teile sitzen, **klatsche** bei jedem Wortteil in die Hände: *Klima + Schutz +
@@ -426,10 +426,10 @@ Am nächsten Montag im Meeting hörte Bruno den Satz: „Die Bezahlbarkeit von W
 >
 > | ❌ Falsch | ✅ Richtig |
 > |---|---|
-> | *eine **Erfahrung machen*** | *eine **Erfahrung machen*** (korrekt) — idiomatisch: *Erfahrung sammeln* |
-> | *die **Erlaubnis** machen* | *die **Erlaubnis** geben / erteilen / bekommen* |
+> | *eine **Erfahrung** suchen* | *eine **Erfahrung machen / sammeln*** (idiomatisch: *Erfahrung sammeln*) |
+> | *die **Erlaubnis** machen* | *die **Erlaubnis geben / erteilen / bekommen*** (*machen* passt hier nicht) |
 > | *ein **unverständliches** Missverständnis* (Tautologie) | *ein **ärgerliches** Missverständnis* oder *ein **unverständliches** Verhalten* |
-> | *die **bezahlbare** Wohnung* | *die **bezahlbare** Wohnung* (korrekt) — generell: *die Bezahlbarkeit von Wohnungen* |
+> | *die bezahlbare **Wohnungen*** | *die **bezahlbare Wohnung / die bezahlbaren Wohnungen*** (Adjektiv im Singular ohne Endung, im Plural mit Endung) |
 
 > 💡 **Lerntipp:** Nimm dir ein **Verbstamm-Wochen**. Such dir pro Tag eine
 > Wortfamilie (z. B. *fahren*, *sprechen*, *arbeiten*, *verstehen*, *erlauben*,
@@ -457,7 +457,7 @@ Am nächsten Montag im Meeting hörte Bruno den Satz: „Die Bezahlbarkeit von W
 > | 4. | Adjektiv mit *-end* | **entscheidend** (wichtig) |
 > | 5. | Kompositum | der **Entscheidungsträger** |
 > | 6. | Negation mit *un-* | **unentscheidbar** (kann nicht entschieden werden) |
-> | 7. | Variante mit *miss-* | die **Fehlentscheidung** (kein *miss-*, sondern *Fehl-*) |
+> | 7. | Variante mit *Fehl-* (nicht *miss-*!) | die **Fehlentscheidung** |
 >
 > ▶ Wortfamilien sparen Vokabelarbeit. ▶ Wer den Stamm kennt, hat das halbe Wortfeld.
 
