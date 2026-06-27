@@ -357,7 +357,22 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1
 
-Read the Lesetext in lesson.md, section 7. Richtig (R) oder falsch (F)?
+> Liebe Familie,
+>
+> ich lade euch herzlich zu meiner Geburtstagsfeier ein! Ich habe am
+> Samstag, dem siebzehnten Juni, Geburtstag — ich werde 30! Die Feier
+> findet am Abend statt: am achtzehnten Juni, einem Sonntag, um
+> achtzehn Uhr. Die Party ist bei mir zu Hause, in der Mozartstraße 4.
+>
+> Bitte sagt mir bis zum zehnten Juni Bescheid, ob ihr kommen könnt.
+>
+> Ich freue mich auf euch!
+>
+> Viele Grüße,
+> Anna
+
+Richtig (R) oder falsch (F)?
+
 
 1. Anna hat am Samstag, dem siebzehnten Juni, Geburtstag. ( )
 2. Die Feier findet am achtzehnten Juni statt. ( )
