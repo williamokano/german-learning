@@ -130,6 +130,35 @@ exercises:
         answer: a
         why: '„Unsere Mitarbeiter packen Ihre Geschenke kostenlos in schönes Papier ein und schreiben eine Karte".'
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (Wien-Abschiedsgeschenk)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Person", "Geschenk / Geste", "Anlass"]
+    rows:
+      - label: "Frau Weber"
+        cells:
+          - { gap: 1, answer: "Frau Weber",                given: "Frau Weber" }
+          - { gap: 2, answer: "Schachnovelle von Stefan Zweig" }
+          - { gap: 3, answer: "Wien-Abschied",             given: "Wien-Abschied" }
+      - label: "Herr Steinmeyer"
+        cells:
+          - { gap: 4, answer: "Herr Steinmeyer",           given: "Herr Steinmeyer" }
+          - { gap: 5, answer: "Karte aus Wien",            given: "Karte aus Wien" }
+          - { gap: 6, answer: "sich bedanken" }
+      - label: "Buch passt zu"
+        cells:
+          - { gap: 7, answer: "Schachnovelle",             given: "Schachnovelle" }
+          - { gap: 8, answer: "passt zur Wien-Reise",      given: "passt zur Wien-Reise" }
+          - { gap: 9, answer: "neuer Job in Wien",         given: "neuer Job in Wien" }
+      - label: "Lesen im Zug"
+        cells:
+          - { gap: 10, answer: "Herr Steinmeyer",          given: "Herr Steinmeyer" }
+          - { gap: 11, answer: "Zug nach Wien",             given: "Zug nach Wien" }
+          - { gap: 12, answer: "Reise" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1
