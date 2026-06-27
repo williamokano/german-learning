@@ -397,7 +397,28 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — „Die Anmeldung"
 
-Read „Die Anmeldung" in lesson.md, section 7. Richtig (R) oder falsch (F)?
+> Bruno ist neu in Berlin. Er kommt aus Blumenau (Santa Catarina) und
+> wohnt jetzt in Friedrichshain. Sein Vermieter heißt Herr Koch. Herr
+> Koch hat ihm schon einen Wohnungsgebernachweis gegeben.
+>
+> Jetzt ruft Bruno das Bürgeramt an. Die Sachbearbeiterin sagt: „Sie
+> brauchen Ihren Reisepass und den Wohnungsgebernachweis. Möchten Sie
+> online einen Termin buchen?" Bruno sagt ja und bucht einen Termin
+> für Dienstag, den achten November, um neun Uhr.
+>
+> Am Dienstag geht Bruno ins Bürgeramt. Er wartet im Warteraum. Dann
+> kommt er an den Schalter. Die Beamtin sagt: „Guten Morgen! Bitte
+> füllen Sie dieses Formular aus." Bruno füllt das Formular aus:
+> Vorname, Familienname, Geburtsdatum, Geburtsort, Staatsangehörigkeit,
+> Adresse in Berlin. Er unterschreibt und gibt der Beamtin die
+> Dokumente.
+>
+> Die Beamtin prüft alles und sagt: „Alles in Ordnung. Willkommen in
+> Berlin, Herr Rodrigues!" — „Vielen Dank!" sagt Bruno. Er ist jetzt
+> offiziell in Berlin angemeldet.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Bruno wohnt in Mitte. ( )
 2. Sein Vermieter heißt Herr Koch. ( )
