@@ -297,7 +297,18 @@ umfassenden Mobilitätspaket liegt.
 
 ## Übung B7 — Lesetext-Verständnis: Yusufs Gastkommentar
 
-Read the Lesetext (lesson.md section 7) and answer the questions in German. Use full sentences. 5 items.
+> **Die Einführung der Citymaut ist überfällig — aber sie reicht nicht aus.**
+>
+> Die Reduzierung des städtischen Autoverkehrs wird in vielen europäischen Metropolen bereits praktiziert. Die Nutzung von Innenstadtmaut-Systemen ist kein Experiment mehr: In London, Stockholm und Oslo wurden bereits messbare Erfolge erzielt. Jährlich werden in diesen Städten deutlich weniger Treibhausgase ausgestoßen als vor der Einführung dieser Maßnahmen.
+>
+> Nun plant Berlin dasselbe. Die Wichtigkeit eines solchen Schritts ist kaum zu überschätzen: Die Luftverschmutzung in Berlins Innenstadt überschreitet regelmäßig EU-Grenzwerte. Erneuerbare Energien allein reichen nicht aus, wenn gleichzeitig Millionen von Dieselfahrzeugen die Straßen der Hauptstadt verstopfen. Der Rückgang der Emissionen kann nur durch eine Kombination von Maßnahmen erreicht werden.
+>
+> Einerseits ist die Verbesserung der Luftqualität ein legitimes Ziel der Stadtpolitik. Andererseits darf die Belastung nicht einseitig auf kleine Betriebe und einkommensschwache Haushalte verteilt werden. Die Förderung des öffentlichen Nahverkehrs muss parallel zur Einführung der Maut erfolgen — nicht Jahre danach. Zwar sind die ökologischen Vorteile klar, aber die soziale Gerechtigkeit darf nicht vergessen werden.
+>
+> Nicht nur die Verkehrswende, sondern auch der Ausbau des Radwegenetzes und die Förderung des Carsharing müssen Teil eines umfassenden Konzepts sein. Die Notwendigkeit, alle Gesellschaftsgruppen einzubeziehen, ist unbestreitbar. Zusammenfassend lässt sich sagen: Die Einführung der Citymaut ist ein richtiger Schritt. Aber die Entwicklung eines sozial gerechten Gesamtpakets ist ebenso wichtig — wenn nicht wichtiger.
+
+Beantworte die Fragen in ganzen Sätzen auf Deutsch.
+
 
 1. Welche europäischen Städte werden im Text als Beispiele genannt?
    → (1) ______
@@ -392,7 +403,18 @@ Five words are not needed.
 
 ## Übung C4a — Leseverstehen: Yusufs Gastkommentar (Richtig / Falsch)
 
-Read the Lesetext (lesson.md section 7). Richtig (R) oder Falsch (F)?
+> **Die Einführung der Citymaut ist überfällig — aber sie reicht nicht aus.**
+>
+> Die Reduzierung des städtischen Autoverkehrs wird in vielen europäischen Metropolen bereits praktiziert. Die Nutzung von Innenstadtmaut-Systemen ist kein Experiment mehr: In London, Stockholm und Oslo wurden bereits messbare Erfolge erzielt. Jährlich werden in diesen Städten deutlich weniger Treibhausgase ausgestoßen als vor der Einführung dieser Maßnahmen.
+>
+> Nun plant Berlin dasselbe. Die Wichtigkeit eines solchen Schritts ist kaum zu überschätzen: Die Luftverschmutzung in Berlins Innenstadt überschreitet regelmäßig EU-Grenzwerte. Erneuerbare Energien allein reichen nicht aus, wenn gleichzeitig Millionen von Dieselfahrzeugen die Straßen der Hauptstadt verstopfen. Der Rückgang der Emissionen kann nur durch eine Kombination von Maßnahmen erreicht werden.
+>
+> Einerseits ist die Verbesserung der Luftqualität ein legitimes Ziel der Stadtpolitik. Andererseits darf die Belastung nicht einseitig auf kleine Betriebe und einkommensschwache Haushalte verteilt werden. Die Förderung des öffentlichen Nahverkehrs muss parallel zur Einführung der Maut erfolgen — nicht Jahre danach. Zwar sind die ökologischen Vorteile klar, aber die soziale Gerechtigkeit darf nicht vergessen werden.
+>
+> Nicht nur die Verkehrswende, sondern auch der Ausbau des Radwegenetzes und die Förderung des Carsharing müssen Teil eines umfassenden Konzepts sein. Die Notwendigkeit, alle Gesellschaftsgruppen einzubeziehen, ist unbestreitbar. Zusammenfassend lässt sich sagen: Die Einführung der Citymaut ist ein richtiger Schritt. Aber die Entwicklung eines sozial gerechten Gesamtpakets ist ebenso wichtig — wenn nicht wichtiger.
+
+Richtig (R) oder Falsch (F)?
+
 
 1. In London, Stockholm und Oslo gibt es bereits Innenstadtmaut-Systeme. ( )
 2. Yusuf ist gegen die Einführung der Citymaut in Berlin. ( )
