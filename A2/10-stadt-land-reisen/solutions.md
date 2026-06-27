@@ -30,6 +30,15 @@
 3. **c) Um sechzehn Uhr dreißig.** — „Der neue Abflug ist um sechzehn Uhr dreißig".
 4. **b) Gate B 17.** — „Passagiere dieses Fluges finden Sie am Gate B 17".
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Hotelreservierung)
+
+| Info | Detail |
+|---|---|
+| Anzahl Personen | **eine Person** | vom fünften bis achten Juli |
+| Zimmer-Lage | dritter Stock | **über dem Restaurant** |
+| Hotel-Lage | direkt gegenüber vom Bahnhof | **zwischen Post und Stadtbibliothek** |
+| Altstadt-Verbindung | Linie 4 | **bis Haltestelle Marktplatz** |
+
 ---
 
 # Block A — Basistraining

@@ -67,6 +67,19 @@ Listen to the announcement. Then choose the correct answer (a, b, or c). Listen 
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Hotelreservierung)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Info | Detail |
+|---|---|
+| Anzahl Personen | ______ | vom fünften bis achten Juli |
+| Zimmer-Lage | dritter Stock | ______ |
+| Hotel-Lage | direkt gegenüber vom Bahnhof | ______ |
+| Altstadt-Verbindung | Linie 4 | ______ |
+
 ---
 
 # Block A — Basistraining
