@@ -29,6 +29,15 @@
 3. **a) Die Frauenkirche.** — „Am Samstag habe ich die Frauenkirche besucht."
 4. **b) Sie hat in einem Restaurant gegessen.** — „Abends habe ich in einem kleinen Restaurant gegessen."
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Wien-Reise)
+
+| Person | Wann | Wo |
+|---|---|---|
+| Museumsbesuch | **Herr Steinmeyer** | zuerst | Kunsthistorisches Museum |
+| Opernbesuch | Frau Steinmeyer | **dann** | Wiener Oper |
+| Film schauen | die Tochter | während der Oper | **im Hotel** |
+| Frühstück | alle | am Ende | **Café Landtmann** |
+
 ---
 
 # Block A — Basistraining

@@ -65,6 +65,19 @@ Listen to the voice message. Then choose the correct answer (a, b, or c). Listen
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Wien-Reise)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Person | Wann | Wo |
+|---|---|---|
+| Museumsbesuch | ______ | zuerst | Kunsthistorisches Museum |
+| Opernbesuch | Frau Steinmeyer | ______ | Wiener Oper |
+| Film schauen | die Tochter | während der Oper | ______ |
+| Frühstück | alle | am Ende | ______ |
+
 ---
 
 # Block A — Basistraining
