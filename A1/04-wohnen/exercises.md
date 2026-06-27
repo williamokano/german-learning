@@ -47,7 +47,7 @@ Listen to the three Aussprache clips and pick the matching word.
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext (lesson.md, section 8) and fill the 6 gaps with the words from the bank. Two words are not needed.
+Höre den Hörtext und fülle die 6 Lücken mit Wörtern aus dem Kasten. Zwei Wörter passen nicht.
 
 > Anna wohnt jetzt in einer neuen Wohnung in Berlin. Die Wohnung hat
 > drei Zimmer: ein (1) ______, ein Schlafzimmer und eine kleine (2) ______.
@@ -378,7 +378,28 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Meine Wohnung in Köln
 
-Read „Meine Wohnung in Köln" in lesson.md, section 7. Richtig (R) oder falsch (F)?
+> Ich heiße Jonas und wohne in Köln. Meine Wohnung ist klein:
+> ein Zimmer, eine Küche, ein Bad — nur 35 Quadratmeter.
+> Aber sie gefällt mir sehr! Mein Zimmer ist Wohnzimmer und
+> Schlafzimmer zusammen: Es gibt ein Bett, ein Sofa, einen
+> Tisch, zwei Stühle und ein Regal. Die Möbel sind nicht neu,
+> aber ich finde sie schön. Die Küche ist sehr klein — es
+> gibt keinen Herd, nur einen Kühlschrank! Aber das ist okay:
+> Ich esse oft Brot mit Käse oder Müsli. Das Bad hat kein
+> Fenster — es ist dunkel. Und die Miete? 450 Euro — für Köln
+> ist das billig.
+>
+> Nur eins gefällt mir nicht: Es ist hier sehr laut. Die Straße
+> vor dem Haus ist eine Hauptstraße. Morgens ist es laut,
+> abends ist es laut, nachts ist es laut. Mein Nachbar hat auch
+> einen Fernseher — er ist sehr groß und sehr laut! Und der
+> Kühlschrank — er ist alt, er macht komische Geräusche in der
+> Nacht. Aber das ist okay — für 450 Euro in Köln ist das normal.
+> Wie findest du meine Wohnung? Klein und laut — aber für mich
+> ist sie perfekt. Sie ist mein Zuhause.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Die Wohnung von Jonas hat zwei Zimmer. ( )
 2. Jonas findet die Möbel schön. ( )
