@@ -735,7 +735,21 @@ exercises:
     block: C
     type: true-false
     title: "Leseverstehen: Pavels Bewerbungsschreiben (Richtig / Falsch)"
-    instructions: "Read the Lesetext (lesson.md section 7). Decide: Richtig (R) oder Falsch (F)?"
+    instructions: |
+      > Sehr geehrte Damen und Herren,
+      >
+      > ich schreibe Ihnen, um mich für den Kurs „Specialty Coffee Roasting — Level 2" zu bewerben. Ich arbeite seit zwei Jahren als Barista in einem Spezialcafé in Prenzlauer Berg, um meine handwerklichen Fähigkeiten weiterzuentwickeln. Mein langfristiges Ziel ist es, meinen eigenen Röstbetrieb zu gründen.
+      >
+      > Ich habe beschlossen, diese Ausbildung zu machen, um das theoretische Wissen zu ergänzen, das ich in der Praxis bereits gesammelt habe. Ich hoffe, durch den Kurs eine offizielle Zertifizierung zu erhalten, damit meine Kunden wissen, dass meine Arbeit geprüften Standards entspricht. Außerdem plane ich, die Ausbildung so schnell wie möglich abzuschließen, um noch in diesem Jahr mit der Entwicklung eigener Röstprofile anzufangen.
+      >
+      > Ich bitte Sie darum, meine Bewerbung sorgfältig zu prüfen. Ich versuche immer, mich fachlich weiterzubilden, damit ich meinen Kunden die bestmögliche Qualität bieten kann. Ich habe außerdem vor, regelmäßig an Branchenevents teilzunehmen, um neue Kontakte zu knüpfen und auf dem neuesten Stand zu bleiben.
+      >
+      > Ich freue mich darauf, mehr über Ihren Kurs zu erfahren, und hoffe, bald von Ihnen zu hören.
+      >
+      > Mit freundlichen Grüßen,
+      > Pavel Novák
+
+      Richtig (R) oder Falsch (F)?
     items:
       - q: "Pavel bewirbt sich für einen Barista-Kurs."
         answer: false
