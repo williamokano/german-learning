@@ -365,7 +365,14 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext)
 
-Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?
+> Anna und Bruno wohnen in Berlin und studieren Deutsch. Seit einem Monat versuchen sie, gesünder zu leben. Anna freut sich sehr über ihren neuen Yogakurs. Sie geht zweimal pro Woche ins Studio und fühlt sich danach immer viel besser. Sie ernährt sich auch ausgewogener: Sie kauft sich jetzt viel Obst und Gemüse auf dem Markt.
+>
+> Bruno ärgert sich manchmal über seinen vollen Terminkalender, weil er wenig Zeit für Sport hat. Aber er bemüht sich: Er zieht sich jeden Morgen Sportschuhe an und geht eine halbe Stunde joggen, bevor er zur Uni geht. Er wünscht sich mehr Energie für den Abend — deshalb kauft er sich Vitamintabletten in der Apotheke.
+>
+> Am Wochenende ruhen sie sich gemeinsam aus. Sie kochen zusammen, stellen sich vor, dass sie in einem schönen Restaurant sitzen, und lachen viel. Stress können sie sich dann kaum noch vorstellen. Gesund leben bedeutet für sie: nicht nur den Körper pflegen, sondern auch die Seele.
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Anna geht einmal pro Woche zum Yogakurs. ( )
 2. Bruno geht jeden Morgen eine halbe Stunde joggen. ( )
