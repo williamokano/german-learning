@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - { q: "Anna wartet auf eine Nachricht von Bruno.", answer: true, why: "Anna has been waiting for Bruno's message for an hour." }
       - { q: "Bruno ärgert sich über das schlechte Wetter.", answer: false, why: "Bruno is annoyed about his internet connection, not the weather." }
@@ -28,7 +29,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Frau Weber wartet auf …"
         options:
@@ -64,7 +66,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 6 missing words. Four words in the box are not needed."
+    instructions: "Höre und ergänze die 6 fehlenden Wörter. Vier Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 6 missing words. Four words in the box are not needed."
     text: |
       Yuki wohnt in München und {1} sich sehr für japanische und deutsche Podcasts. Heute {2} sie auf eine wichtige {3} von ihrer Universität. Sie hat gestern nach dem Termin für ihre {4} gefragt und {5} auf eine schnelle Antwort. Während sie wartet, {6} sie an ihre Freundin in Osaka und erzählt ihr von ihrem Alltag in Deutschland.
     bank: [interessiert, wartet, Prüfung, Antwort, schreibt, freut, E-Mail, gefragt, Energie, hofft]
@@ -81,7 +84,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Neue Audio-App im Stadtmuseum"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: "Achtung, eine Durchsage. Liebe Besucherinnen und Besucher, das Stadtmuseum bietet ab heute eine neue Audio-App an. Sie können die App kostenlos in unserem Eingangsbereich herunterladen. Mit der App hören Sie spannende Geschichten zu über fünfzig Exponaten. Die App funktioniert in vier Sprachen: Deutsch, Englisch, Französisch und Spanisch. Bitte bringen Sie Ihre eigenen Kopfhörer mit. Wir wünschen Ihnen einen angenehmen Besuch."
     items:
       - q: "Was bietet das Stadtmuseum ab heute an?"
@@ -119,6 +123,7 @@ exercises:
     title: "Tabelle ausfüllen: Dialog B (E-Mail-Austausch)"
     audio: dialog1_b.mp3
     instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    instructionsEn: "Listen to the dialog once and fill in the table. In each row, **one** piece of information is missing — the clues in the other cells will help you."
     columns: ["Thema", "Aktion", "Wer"]
     rows:
       - label: "Präsentations-E-Mail"
@@ -149,7 +154,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Tabelle: Verben mit festen Präpositionen"
-    instructions: "Write the correct preposition and case for each verb. Each row has two gaps (Präposition + Kasus)."
+    instructions: "Schreibe die richtige Präposition und den Kasus für jedes Verb. Jede Zeile hat zwei Lücken (Präposition + Kasus)."
+    instructionsEn: "Write the correct preposition and case for each verb. Each row has two gaps (Präposition + Kasus)."
     text: |
       1. warten — {1} — {2}
       2. sich freuen (happy about) — {3} — {4}
@@ -188,7 +194,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Präposition einsetzen (1)"
-    instructions: "Fill in the correct fixed preposition."
+    instructions: "Ergänze die richtige feste Präposition."
+    instructionsEn: "Fill in the correct fixed preposition."
     text: |
       1. Ich warte {1} eine Nachricht von Anna.
       2. Bruno denkt oft {2} seine Familie.
@@ -216,7 +223,8 @@ exercises:
     block: A
     type: single-choice
     title: "Akkusativ oder Dativ nach der Präposition?"
-    instructions: "Choose the correct article form. Remember: fragen nach takes Dativ, all others take Akkusativ."
+    instructions: "Wähle die richtige Artikelform. Denke daran: fragen nach verlangt Dativ, alle anderen verlangen Akkusativ."
+    instructionsEn: "Choose the correct article form. Remember: fragen nach takes Dativ, all others take Akkusativ."
     items:
       - q: "Ich warte auf ____ Bus. (der Bus, m)"
         options:
@@ -280,7 +288,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`sich freuen über` oder `sich freuen auf`?"
-    instructions: "Decide which expression to use: über (present/past fact) or auf (future event)."
+    instructions: "Entscheide, welcher Ausdruck passt: über (gegenwärtige/vergangene Tatsache) oder auf (zukünftiges Ereignis)."
+    instructionsEn: "Decide which expression to use: über (present/past fact) or auf (future event)."
     text: |
       1. Ich freue mich {1} das Konzert nächste Woche.
       2. Anna freut sich {2} die gute Note in der Prüfung.
@@ -305,7 +314,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Vollständige Sätze (verb + preposition)"
-    instructions: "Fill in the verb AND the preposition. Each item has two gaps."
+    instructions: "Ergänze das Verb UND die Präposition. Jede Aufgabe hat zwei Lücken."
+    instructionsEn: "Fill in the verb AND the preposition. Each item has two gaps."
     text: |
       1. Ich {1} {2} dich, wenn du nicht schreibst. (denken an)
       2. Er {3} {4} seinen Chef, weil der Termin wieder verschoben wurde. (sich ärgern über)
@@ -329,7 +339,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Sätze umformen: Pronomen und Pronominaladverb"
-    instructions: "A) Person → personal pronoun. B) Thing → Pronominaladverb (da- + preposition)."
+    instructions: "A) Person → Personalpronomen. B) Sache → Pronominaladverb (da- + Präposition)."
+    instructionsEn: "A) Person → personal pronoun. B) Thing → Pronominaladverb (da- + preposition)."
     text: |
       A) Person → personal pronoun (3 items):
       1. Ich denke an meinen Vater. → Ich denke an {1}.
@@ -353,7 +364,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Konjugation: Verben mit Präpositionen"
-    instructions: "Conjugate the verb in brackets. Write the full conjugated form (verb + reflexive pronoun)."
+    instructions: "Konjugiere das Verb in Klammern. Schreibe die ganze konjugierte Form (Verb + Reflexivpronomen)."
+    instructionsEn: "Conjugate the verb in brackets. Write the full conjugated form (verb + reflexive pronoun)."
     text: |
       1. (warten auf) Ich {1} auf eine Nachricht.
       2. (warten auf) Du {2} auf den Bus.
@@ -378,7 +390,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`fragen nach` (Dativ): Sätze bilden"
-    instructions: "Build a sentence using `fragen nach` + Dativ. Write the Dativ article (e.g. `Ich frage nach dem Weg`)."
+    instructions: "Bilde einen Satz mit `fragen nach` + Dativ. Schreibe den Dativ-Artikel (z. B. `Ich frage nach dem Weg`)."
+    instructionsEn: "Build a sentence using `fragen nach` + Dativ. Write the Dativ article (e.g. `Ich frage nach dem Weg`)."
     text: |
       1. die Uhrzeit → Ich frage nach {1} Uhrzeit.
       2. das Passwort → Ich frage nach {2} Passwort.
@@ -399,7 +412,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Verneinung: `nicht` einsetzen"
-    instructions: "Negate each sentence with `nicht` (place it in the correct position)."
+    instructions: "Verneine jeden Satz mit `nicht` (setze es an die richtige Stelle)."
+    instructionsEn: "Negate each sentence with `nicht` (place it in the correct position)."
     text: |
       1. Ich warte {1} auf eine Antwort.
       2. Er antwortet {2} auf meine E-Mail.
@@ -419,7 +433,8 @@ exercises:
     block: A
     type: matching
     title: "Wortschatz: Paare finden"
-    instructions: "Match the German word (1–8) with its English meaning (a–h)."
+    instructions: "Ordne das deutsche Wort (1–8) der englischen Bedeutung (a–h) zu."
+    instructionsEn: "Match the German word (1–8) with its English meaning (a–h)."
     left:
       - { key: "1", text: "die Verbindung" }
       - { key: "2", text: "die Folge" }
@@ -453,7 +468,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Verben: Perfekt bilden"
-    instructions: "Write the Perfekt Partizip II (ich habe ___)."
+    instructions: "Schreibe das Perfekt Partizip II (ich habe ___)."
+    instructionsEn: "Write the Perfekt Partizip II (ich habe ___)."
     text: |
       1. anrufen → Ich habe {1}.
       2. herunterladen → Ich habe {2}.
@@ -478,7 +494,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dialog ergänzen"
-    instructions: "Fill in the correct verb+preposition combination. Each item has two gaps."
+    instructions: "Ergänze die richtige Verb-Präposition-Verbindung. Jede Aufgabe hat zwei Lücken."
+    instructionsEn: "Fill in the correct verb+preposition combination. Each item has two gaps."
     text: |
       — Hallo Bruno! Ich {1} {2} deine Nachricht von gestern Abend!
       — Sorry, ich war beschäftigt. Was ist los?
@@ -506,7 +523,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. Write the correct form (verb/preposition/etc.) in the gap."
+    instructions: "Jeder Satz hat genau einen Fehler. Schreibe die richtige Form (Verb/Präposition usw.) in die Lücke."
+    instructionsEn: "Each sentence has exactly one mistake. Write the correct form (verb/preposition/etc.) in the gap."
     text: |
       1. Ich warte {1} einen Anruf von meiner Mutter. (für → ?)
       2. Bruno interessiert sich {2} Sport im Fernsehen. (auf → ?)
@@ -534,7 +552,8 @@ exercises:
     block: B
     type: matching
     title: "Frage und Antwort verbinden"
-    instructions: "Match each question (1–8) with the correct answer (a–h)."
+    instructions: "Ordne jede Frage (1–8) der richtigen Antwort (a–h) zu."
+    instructionsEn: "Match each question (1–8) with the correct answer (a–h)."
     left:
       - { key: "1", text: "Worauf wartest du?" }
       - { key: "2", text: "Worüber ärgerst du dich?" }
@@ -567,7 +586,8 @@ exercises:
     block: B
     type: order
     title: "Satzbau (word order)"
-    instructions: "Build a correct sentence from the scrambled words."
+    instructions: "Bilde aus den durcheinander gewürfelten Wörtern einen korrekten Satz."
+    instructionsEn: "Build a correct sentence from the scrambled words."
     items:
       - tiles: [auf, ich, warte, Antwort, deine]
         answer: [1, 2, 0, 4, 3]
@@ -663,7 +683,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`nicht` oder `kein-`?"
-    instructions: "Choose the correct negation and rewrite the gap."
+    instructions: "Wähle die richtige Verneinung und schreibe sie in die Lücke."
+    instructionsEn: "Choose the correct negation and rewrite the gap."
     text: |
       1. Ich warte auf {1} Antwort. (no answer at all)
       2. Er antwortet auf meine Nachrichten {2}. (he doesn't reply)
@@ -709,7 +730,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |
       Anna lebt in Berlin und nutzt täglich ihr Smartphone. Sie interessiert {1} sehr
       für deutsche Serien. Abends wartet sie {2} neue Folgen ihrer Lieblingsserie —
@@ -788,7 +810,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
     text: |
       Hallo! Ich heiße Minh und wohne seit einem Jahr in Berlin. Ich {1} mich sehr
       {2} soziale Medien. Jeden Abend {3} ich {4} meine Eltern in Vietnam — ich
@@ -896,7 +919,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per item. No notes."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen."
+    instructionsEn: "One minute per item. No notes."
     text: |
       1. `warten` → fixed preposition: {1}
       2. `fragen` → fixed preposition + case: {2} + {3}
@@ -935,7 +959,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd one out"
-    instructions: "Cross out the word/phrase that doesn't fit."
+    instructions: "Streiche das Wort oder die Phrase durch, das/die nicht passt."
+    instructionsEn: "Cross out the word/phrase that doesn't fit."
     groups:
       - items: [warten auf, denken an, fragen nach, hören für]
         odd: 3
