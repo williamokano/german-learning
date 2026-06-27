@@ -749,7 +749,18 @@ exercises:
     block: C
     type: true-false
     title: 'Lesen Text 1 — „Berlin und München — ein Vergleich"'
-    instructions: "Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?"
+    instructions: |
+      > Berlin und München sind die bekanntesten Städte Deutschlands — aber sie sind sehr verschieden.
+      >
+      > Berlin ist die größte Stadt: Es hat etwa 3,7 Millionen Einwohner. München hat nur etwa 1,5 Millionen, aber München ist die reichste Großstadt Deutschlands — die Gehälter sind hier am höchsten. Das Leben in München ist teurer als in Berlin: Eine Wohnung kostet in München fast doppelt so viel wie in Berlin.
+      >
+      > Dafür hat Berlin mehr Museen, Clubs und Grünflächen. Viele junge Menschen finden Berlin cooler und interessanter als München. Viele Touristen finden Berlin die aufregendste Hauptstadt Europas — ob das stimmt, ist natürlich Geschmackssache.
+      >
+      > Das Wetter ist in beiden Städten ähnlich, aber München ist im Winter etwas kälter als Berlin. Dafür ist die Luft in München klarer als in der Hauptstadt.
+      >
+      > Was ist besser — Berlin oder München? Das kommt darauf an! Für Kultur und Nachtleben ist Berlin am besten. Für Natur und höhere Gehälter ist München die bessere Wahl.
+
+      Richtig (R) oder Falsch (F)?
     items:
       - { q: "Berlin hat mehr Einwohner als München.", answer: true, why: "Berlin ~3,7 Mio. > München ~1,5 Mio." }
       - { q: "Die Gehälter sind in Berlin am höchsten.", answer: false, why: "Die Gehälter sind in München am höchsten." }
