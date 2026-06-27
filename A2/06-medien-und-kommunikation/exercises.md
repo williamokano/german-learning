@@ -377,7 +377,14 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext)
 
-Read the Lesetext in lesson.md, section 7. Richtig (R) oder Falsch (F)?
+> Anna und Bruno leben in Berlin und nutzen täglich das Internet. Anna interessiert sich sehr für deutsche Medien. Sie schaut oft Serien auf einer Streaming-Plattform und freut sich immer über neue Folgen ihrer Lieblingsserie. Manchmal ärgert sie sich über die langsame Verbindung in ihrer Wohnung — dann wartet sie ewig auf den Ladebalken.
+>
+> Bruno denkt oft an seine Familie in Brasilien. Er schreibt ihnen täglich Nachrichten über WhatsApp und fragt immer nach dem Wohlbefinden seiner Eltern und seiner Schwester. An Wochenenden freut er sich auf Videoanrufe — für ihn ist das der schönste Moment der Woche. Er antwortet immer schnell auf Nachrichten, weil er keine Nachricht verpassen möchte.
+>
+> Im Deutschkurs sprechen Anna und Bruno oft über das Thema Medien. Die Kursleiterin fragt manchmal nach den Lieblingsprogrammen der Studierenden. Anna empfiehlt immer Dokumentationen — sie findet sie interessanter als Spielfilme. Bruno interessiert sich mehr für Sport im Fernsehen, vor allem für Fußball. Darüber streiten sie freundlich — und lachen am Ende.
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Anna interessiert sich für deutsche Serien. ( )
 2. Bruno ärgert sich über das schlechte Internet in seiner Wohnung. ( )
