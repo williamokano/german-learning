@@ -60,6 +60,18 @@ Listen to the announcement. Then choose the correct answer (a, b, or c). Listen 
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Wien-Abschied)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Satz / Aussage | Konnektor (weil/dass/darum) | Ergänzung |
+|---|---|---|
+| Kurs verlassen | Ich verlasse den Kurs | ______ | ich eine neue Stelle in Wien angenommen habe |
+| Nach Wien gehen | Ich gehe dorthin | ______ | meine Familie dort lebt |
+| Dankbar sein | Ich bin sehr dankbar | ______ | dieser Kurs mir sehr geholfen hat |
+
 ---
 
 # Block A — Basistraining

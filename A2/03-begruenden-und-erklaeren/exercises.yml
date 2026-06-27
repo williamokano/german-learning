@@ -113,6 +113,30 @@ exercises:
         answer: c
         why: '„Bitte weichen Sie, wenn möglich, auf die Linie U 6 aus."'
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (Wien-Abschied)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Satz / Aussage", "Konnektor (weil/dass/darum)", "Ergänzung"]
+    rows:
+      - label: "Kurs verlassen"
+        cells:
+          - { gap: 1, answer: "Ich verlasse den Kurs",  given: "Ich verlasse den Kurs" }
+          - { gap: 2, answer: "weil" }
+          - { gap: 3, answer: "ich eine neue Stelle in Wien angenommen habe", given: "ich eine neue Stelle in Wien angenommen habe" }
+      - label: "Nach Wien gehen"
+        cells:
+          - { gap: 4, answer: "Ich gehe dorthin",       given: "Ich gehe dorthin" }
+          - { gap: 5, answer: "weil" }
+          - { gap: 6, answer: "meine Familie dort lebt", given: "meine Familie dort lebt" }
+      - label: "Dankbar sein"
+        cells:
+          - { gap: 7, answer: "Ich bin sehr dankbar",   given: "Ich bin sehr dankbar" }
+          - { gap: 8, answer: "darum" }
+          - { gap: 9, answer: "dieser Kurs mir sehr geholfen hat", given: "dieser Kurs mir sehr geholfen hat" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1
