@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Anna und Bruno planen einen Ausflug nach Berlin. ( )
 2. Bruno möchte ans Meer fahren. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Frau Weber möchte …  a) ein Doppelzimmer reservieren  b) ein Einzelzimmer reservieren  c) ein Restaurant reservieren
 2. Das Zimmer liegt im …  a) zweiten Stock  b) dritten Stock  c) vierten Stock
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Three words in the box are not needed.
+Höre und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Yuki ist heute von München (1) ______ Salzburg gefahren. Sie ist mit
 > dem Zug gefahren und (2) ______ Hauptbahnhof angekommen. (3) ______ Bahnhof
@@ -49,7 +49,7 @@ Listen and fill in the 6 missing words. Three words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Welcher Flug hat Verspätung?  a) LH 401 von Berlin nach München.  b) LH 401 von Berlin nach Lissabon.  c) LH 410 von Berlin nach Wien.
 2. Wie viel Verspätung hat der Flug?  a) Eine Stunde.  b) Zwei Stunden.  c) Drei Stunden.
@@ -86,7 +86,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A1 — Wo? oder Wohin? (Dativ oder Akkusativ)
 
-For each preposition, write the correct article form for Wo? (location) and Wohin? (direction). 10 gaps.
+Schreibe für jede Präposition die richtige Artikelform für Wo? (Ort) und Wohin? (Richtung). 10 Lücken.
 
 1. in — Wo?: ______ · Wohin?: ______
 2. an — Wo?: ______ · Wohin?: ______
@@ -96,7 +96,7 @@ For each preposition, write the correct article form for Wo? (location) and Wohi
 
 ## Übung A2 — Lückentest: Wo? / Wohin? / Woher?
 
-Fill in Wo?, Wohin?, or Woher? for each sentence. 8 items.
+Ergänze Wo?, Wohin? oder Woher? für jeden Satz. 8 Aufgaben.
 
 1. „______ fährst du im Urlaub?" — „Nach Spanien."
 2. „______ wohnst du in Berlin?" — „In einer kleinen Wohnung in Kreuzberg."
@@ -109,7 +109,7 @@ Fill in Wo?, Wohin?, or Woher? for each sentence. 8 items.
 
 ## Übung A3 — Städte und Länder: nach / in + Akk / aus + Dat
 
-Fill in the correct preposition (nach / in / in die / in den / in der / aus / zum). 10 items.
+Ergänze die richtige Präposition (nach / in / in die / in den / in der / aus / zum). 10 Aufgaben.
 
 1. Ich fahre ______ Berlin.
 2. Sie kommt ______ Wien.
@@ -124,7 +124,7 @@ Fill in the correct preposition (nach / in / in die / in den / in der / aus / zu
 
 ## Übung A4 — Länder mit Artikel: in / aus + den / die / das
 
-Fill in the correct preposition + article. Choose from in die / in der / in den / im / aus der / aus den / aus dem. 8 items.
+Ergänze die richtige Präposition + Artikel. Wähle aus: in die / in der / in den / im / aus der / aus den / aus dem. 8 Aufgaben.
 
 1. Ich fahre ______ Schweiz.
 2. Sie kommt ______ USA.
@@ -137,7 +137,7 @@ Fill in the correct preposition + article. Choose from in die / in der / in den 
 
 ## Übung A5 — Reiseverben: Partizip II
 
-Write the Partizip II for each verb. Mark ✓ (with ge-) or ✗ (no ge-). 10 items.
+Schreibe das Partizip II für jedes Verb. Markiere ✓ (mit ge-) oder ✗ (ohne ge-). 10 Aufgaben.
 
 1. reisen → ______ ( )
 2. buchen → ______ ( )
@@ -152,7 +152,7 @@ Write the Partizip II for each verb. Mark ✓ (with ge-) or ✗ (no ge-). 10 ite
 
 ## Übung A6 — Perfekt mit sein oder haben?
 
-Choose the correct auxiliary. 10 items.
+Wähle das richtige Hilfsverb. 10 Aufgaben.
 
 1. Wir ______ nach Hamburg gefahren.
 2. Anna ______ ein Hotel gebucht.
@@ -167,7 +167,7 @@ Choose the correct auxiliary. 10 items.
 
 ## Übung A7 — Konjugations-Tabelle: reisen (Präsens)
 
-Fill in the complete Präsens table for reisen.
+Ergänze die vollständige Präsens-Tabelle für reisen.
 
 1. ich: ______
 2. du: ______
@@ -178,7 +178,7 @@ Fill in the complete Präsens table for reisen.
 
 ## Übung A8 — Die neun Wechselpräpositionen: Lückentest
 
-Fill in the correct preposition. Use the contracted form when possible. 8 items.
+Ergänze die richtige Präposition. Verwende wenn möglich die Kurzform. 8 Aufgaben.
 
 1. Das Hotel liegt direkt ______ Hafen. (location: an dem = ?)
 2. Ich stelle den Koffer ______ Tisch. (direction: Wohin? = Akkusativ)
@@ -191,7 +191,7 @@ Fill in the correct preposition. Use the contracted form when possible. 8 items.
 
 ## Übung A9 — aus oder von?
 
-Choose aus or von. 8 items.
+Wähle aus oder von. 8 Aufgaben.
 
 1. Ich komme ______ dem Supermarkt.
 2. Er kommt ______ Brasilien.
@@ -218,7 +218,7 @@ Choose aus or von. 8 items.
 
 ## Übung A11 — Wegbeschreibung: Imperativ (Sie)
 
-Write the Sie-form imperative for each direction. 6 items.
+Schreibe die Sie-Form des Imperativs für jede Richtungsanweisung. 6 Aufgaben.
 
 1. (geradeaus gehen) ______
 2. (links abbiegen) ______
@@ -229,7 +229,7 @@ Write the Sie-form imperative for each direction. 6 items.
 
 ## Übung A12 — Gemischte Übung: Wo? / Wohin? / Woher?
 
-Fill in the correct preposition. Use the contracted form when possible. 8 items.
+Ergänze die richtige Präposition. Verwende wenn möglich die Kurzform. 8 Aufgaben.
 
 1. Das Restaurant liegt ______ dem Bahnhof. (location: Wo?)
 2. Wir fahren morgen ______ die Alpen. (direction: Wohin?)
@@ -246,7 +246,7 @@ Fill in the correct preposition. Use the contracted form when possible. 8 items.
 
 ## Übung B1 — Dialog ergänzen: Im Hotel anrufen
 
-Fill in the 12 blanks with the correct form. Three words in the box are not needed.
+Ergänze die 12 Lücken mit der richtigen Form. Drei Wörter im Kasten werden nicht gebraucht.
 
 > — Guten Tag! Ich möchte bitte ein Zimmer (1) ______.
 > — Für wie viele Personen und (2) ______ (für wann)?
@@ -279,7 +279,7 @@ Fill in the 12 blanks with the correct form. Three words in the box are not need
 
 ## Übung B3 — Frage und Antwort verbinden
 
-Match each question (1–6) with the correct answer (a–f).
+Ordne jede Frage (1–6) der richtigen Antwort (a–f) zu.
 
 | Links | | Rechts |
 |---|---|---|
@@ -302,7 +302,7 @@ Match each question (1–6) with the correct answer (a–f).
 
 ## Übung B5 — Kategorien: Länder mit und ohne Artikel
 
-Sort these 10 countries into two groups. Each token is labeled (a–j) and the bucket is the category.
+Sortiere diese 10 Länder in zwei Gruppen. Jeder Token ist beschriftet (a–j) und der Bucket ist die Kategorie.
 
 > Brasilien · Schweiz · Japan · Türkei · USA · Irak · Russland · Niederlande · Deutschland · Iran
 
@@ -380,7 +380,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word. 10 items.
+Fülle jede Lücke mit einem Wort. 10 Aufgaben.
 
 Letzten Sommer ______ Anna nach Wien gefahren. Sie ist mit dem
 Zug gefahren und ______ Hauptbahnhof angekommen. Vom Bahnhof aus
@@ -403,7 +403,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. Ten words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > „Letzten Sommer (1) ______ ich nach Wien. Ich (2) ______ in einem
 > kleinen Hotel direkt am Donaukanal — sehr zentral! Am ersten Tag
@@ -478,7 +478,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes. 15 items.
+Eine Minute pro Aufgabe. Keine Notizen. 15 Aufgaben.
 
 1. Partizip II of besuchen: ______
 2. (A2/L01) Partizip II of bekommen: ______
@@ -498,7 +498,7 @@ One minute per item. No notes. 15 items.
 
 ## Übung D2 — Odd one out
 
-Cross out the word that doesn't fit and say why.
+Streiche das Wort durch, das nicht passt, und sage warum.
 
 1. fahren – fliegen – reisen – wohnen
 2. der Bahnhof – der Flughafen – die Haltestelle – der Marktplatz
@@ -509,7 +509,7 @@ Cross out the word that doesn't fit and say why.
 
 ## Übung D3 — Rückblick: Lektionen 11, A2/01, A2/02, A2/09
 
-Review items. 10 gaps.
+Wiederholungsaufgaben. 10 Lücken.
 
 1. (A1/L11) Perfekt auxiliary for gehen: ______
 2. (A1/L11) „Ich ______ keine Zeit." (war / hatte)

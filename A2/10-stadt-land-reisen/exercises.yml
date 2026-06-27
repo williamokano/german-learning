@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Anna und Bruno planen einen Ausflug nach Berlin."
         answer: false
@@ -39,7 +40,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Frau Weber möchte …"
         options:
@@ -75,7 +77,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Yuki ist heute von München {1} Salzburg gefahren. Sie ist mit
       dem Zug gefahren und {2} Hauptbahnhof angekommen. {3} Bahnhof
@@ -98,7 +101,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Durchsage am Flughafen"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Achtung, eine Durchsage. Der Flug LH 401 von Berlin nach Lissabon hat eine Verspätung von zwei Stunden. Der neue Abflug ist um sechzehn Uhr dreißig, nicht wie geplant um vierzehn Uhr dreißig. Passagiere dieses Fluges finden Sie am Gate B 17. Wir bitten Sie, zum Gate zu gehen, sobald Sie die Boarding-Karten haben. Vielen Dank für Ihre Aufmerksamkeit.'
     items:
       - q: "Welcher Flug hat Verspätung?"
@@ -136,6 +140,7 @@ exercises:
     title: "Tabelle ausfüllen: Dialog B (Hotelreservierung)"
     audio: dialog1_b.mp3
     instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    instructionsEn: "Listen to the dialog once and fill in the table. In each row, **one** piece of information is missing — the clues in the other cells will help you."
     columns: ["Info", "Detail"]
     rows:
       - label: "Anzahl Personen"
@@ -162,7 +167,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Wo? oder Wohin? (Dativ oder Akkusativ)"
-    instructions: "For each preposition, write the correct article form for Wo? (location) and Wohin? (direction). 10 gaps."
+    instructions: "Schreibe für jede Präposition die richtige Artikelform für Wo? (Ort) und Wohin? (Richtung). 10 Lücken."
+    instructionsEn: "For each preposition, write the correct article form for Wo? (location) and Wohin? (direction). 10 gaps."
     text: |
       1. in — Wo?: {1} · Wohin?: {2}
       2. an — Wo?: {3} · Wohin?: {4}
@@ -186,7 +192,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentest: Wo? / Wohin? / Woher?"
-    instructions: "Fill in Wo?, Wohin?, or Woher? for each sentence. 8 items."
+    instructions: "Ergänze Wo?, Wohin? oder Woher? für jeden Satz. 8 Aufgaben."
+    instructionsEn: "Fill in Wo?, Wohin?, or Woher? for each sentence. 8 items."
     text: |
       1. „{1} fährst du im Urlaub?" — „Nach Spanien."
       2. „{2} wohnst du in Berlin?" — „In einer kleinen Wohnung in Kreuzberg."
@@ -211,7 +218,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Städte und Länder: nach / in + Akk / aus + Dat"
-    instructions: "Fill in the correct preposition (nach / in / in die / in den / in der / aus / zum). 10 items."
+    instructions: "Ergänze die richtige Präposition (nach / in / in die / in den / in der / aus / zum). 10 Aufgaben."
+    instructionsEn: "Fill in the correct preposition (nach / in / in die / in den / in der / aus / zum). 10 items."
     text: |
       1. Ich fahre {1} Berlin.
       2. Sie kommt {2} Wien.
@@ -240,7 +248,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Länder mit Artikel: in / aus + den / die / das"
-    instructions: "Fill in the correct preposition + article. Choose from in die / in der / in den / im / aus der / aus den / aus dem. 8 items."
+    instructions: "Ergänze die richtige Präposition + Artikel. Wähle aus: in die / in der / in den / im / aus der / aus den / aus dem. 8 Aufgaben."
+    instructionsEn: "Fill in the correct preposition + article. Choose from in die / in der / in den / im / aus der / aus den / aus dem. 8 items."
     text: |
       1. Ich fahre {1} Schweiz.
       2. Sie kommt {2} USA.
@@ -265,7 +274,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Reiseverben: Partizip II"
-    instructions: "Write the Partizip II for each verb. Mark ✓ (with ge-) or ✗ (no ge-). 10 items."
+    instructions: "Schreibe das Partizip II für jedes Verb. Markiere ✓ (mit ge-) oder ✗ (ohne ge-). 10 Aufgaben."
+    instructionsEn: "Write the Partizip II for each verb. Mark ✓ (with ge-) or ✗ (no ge-). 10 items."
     text: |
       1. reisen → {1} ( )
       2. buchen → {2} ( )
@@ -294,7 +304,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Perfekt mit sein oder haben?"
-    instructions: "Choose the correct auxiliary. 10 items."
+    instructions: "Wähle das richtige Hilfsverb. 10 Aufgaben."
+    instructionsEn: "Choose the correct auxiliary. 10 items."
     text: |
       1. Wir {1} nach Hamburg gefahren.
       2. Anna {2} ein Hotel gebucht.
@@ -323,7 +334,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Konjugations-Tabelle: reisen (Präsens)"
-    instructions: "Fill in the complete Präsens table for reisen."
+    instructions: "Ergänze die vollständige Präsens-Tabelle für reisen."
+    instructionsEn: "Fill in the complete Präsens table for reisen."
     text: |
       1. ich: {1}
       2. du: {2}
@@ -344,7 +356,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Die neun Wechselpräpositionen: Lückentest"
-    instructions: "Fill in the correct preposition. Use the contracted form when possible. 8 items."
+    instructions: "Ergänze die richtige Präposition. Verwende wenn möglich die Kurzform. 8 Aufgaben."
+    instructionsEn: "Fill in the correct preposition. Use the contracted form when possible. 8 items."
     text: |
       1. Das Hotel liegt direkt {1} Hafen. (location: an dem = ?)
       2. Ich stelle den Koffer {2} Tisch. (direction: Wohin? = Akkusativ)
@@ -369,7 +382,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "aus oder von?"
-    instructions: "Choose aus or von. 8 items."
+    instructions: "Wähle aus oder von. 8 Aufgaben."
+    instructionsEn: "Choose aus or von. 8 items."
     text: |
       1. Ich komme {1} dem Supermarkt.
       2. Er kommt {2} Brasilien.
@@ -416,7 +430,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Wegbeschreibung: Imperativ (Sie)"
-    instructions: "Write the Sie-form imperative for each direction. 6 items."
+    instructions: "Schreibe die Sie-Form des Imperativs für jede Richtungsanweisung. 6 Aufgaben."
+    instructionsEn: "Write the Sie-form imperative for each direction. 6 items."
     text: |
       1. (geradeaus gehen) {1}
       2. (links abbiegen) {2}
@@ -437,7 +452,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischte Übung: Wo? / Wohin? / Woher?"
-    instructions: "Fill in the correct preposition. Use the contracted form when possible. 8 items."
+    instructions: "Ergänze die richtige Präposition. Verwende wenn möglich die Kurzform. 8 Aufgaben."
+    instructionsEn: "Fill in the correct preposition. Use the contracted form when possible. 8 items."
     text: |
       1. Das Restaurant liegt {1} dem Bahnhof. (location: Wo?)
       2. Wir fahren morgen {2} die Alpen. (direction: Wohin?)
@@ -463,7 +479,8 @@ exercises:
     block: B
     type: gap-bank
     title: "Dialog ergänzen: Im Hotel anrufen"
-    instructions: "Fill in the 12 blanks with the correct form. Three words in the box are not needed."
+    instructions: "Ergänze die 12 Lücken mit der richtigen Form. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Fill in the 12 blanks with the correct form. Three words in the box are not needed."
     text: |
       — Guten Tag! Ich möchte bitte ein Zimmer {1}.
       — Für wie viele Personen und {2} (für wann)?
@@ -520,7 +537,8 @@ exercises:
     block: B
     type: matching
     title: "Frage und Antwort verbinden"
-    instructions: "Match each question (1–6) with the correct answer (a–f)."
+    instructions: "Ordne jede Frage (1–6) der richtigen Antwort (a–f) zu."
+    instructionsEn: "Match each question (1–6) with the correct answer (a–f)."
     left:
       - { key: "1", text: "Wohin fährst du im Urlaub?" }
       - { key: "2", text: "Wo wohnst du in Wien?" }
@@ -563,7 +581,8 @@ exercises:
     block: B
     type: categorize
     title: "Kategorien: Länder mit und ohne Artikel"
-    instructions: "Sort these 10 countries into two groups. Each token is labeled (a–j) and the bucket is the category."
+    instructions: "Sortiere diese 10 Länder in zwei Gruppen. Jeder Token ist beschriftet (a–j) und der Bucket ist die Kategorie."
+    instructionsEn: "Sort these 10 countries into two groups. Each token is labeled (a–j) and the bucket is the category."
     buckets:
       - { key: ohne_artikel, label: 'Länder ohne Artikel (mit „nach")' }
       - { key: mit_artikel, label: 'Länder mit Artikel (mit „in + Akk")' }
@@ -688,7 +707,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Fill each gap with one word. 10 items."
+    instructions: "Fülle jede Lücke mit einem Wort. 10 Aufgaben."
+    instructionsEn: "Fill each gap with one word. 10 items."
     text: |
       Letzten Sommer {1} Anna nach Wien gefahren. Sie ist mit dem
       Zug gefahren und {2} Hauptbahnhof angekommen. Vom Bahnhof aus
@@ -763,7 +783,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word once."
     text: |
       „Letzten Sommer {1} ich nach Wien. Ich {2} in einem
       kleinen Hotel direkt am Donaukanal — sehr zentral! Am ersten Tag
@@ -898,7 +919,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per item. No notes. 15 items."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen. 15 Aufgaben."
+    instructionsEn: "One minute per item. No notes. 15 items."
     text: |
       1. Partizip II of besuchen: {1}
       2. (A2/L01) Partizip II of bekommen: {2}
@@ -936,7 +958,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd one out"
-    instructions: "Cross out the word that doesn't fit and say why."
+    instructions: "Streiche das Wort durch, das nicht passt, und sage warum."
+    instructionsEn: "Cross out the word that doesn't fit and say why."
     groups:
       - items: [fahren, fliegen, reisen, wohnen]
         odd: 3
@@ -962,7 +985,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Rückblick: Lektionen 11, A2/01, A2/02, A2/09"
-    instructions: "Review items. 10 gaps."
+    instructions: "Wiederholungsaufgaben. 10 Lücken."
+    instructionsEn: "Review items. 10 gaps."
     text: |
       1. (A1/L11) Perfekt auxiliary for gehen: {1}
       2. (A1/L11) „Ich {2} keine Zeit." (war / hatte)
