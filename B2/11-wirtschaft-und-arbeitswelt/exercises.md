@@ -187,7 +187,7 @@ Setze die richtige Konjunktiv-I-Form ein (habe, sei, werde, könne, müsse, woll
 3. Der Lieferant ______ die Frist verkürzen.
 4. Die Abteilung ______ die Kosten senken.
 5. Die Geschäftsführung ______ expandieren.
-6. Die Mitarbeiter ______ die neuen Regeln beachten.
+6. Der Mitarbeiter ______ die neuen Regeln beachten.
 
 ## Übung A11 — Satzbau: Geschäftsbericht
 
@@ -221,7 +221,7 @@ Bring die Wörter in die richtige Reihenfolge.
 3. Der Lieferant wird die Frist verkürzen.
 4. Die Abteilung muss die Kosten senken.
 5. Die Geschäftsführung will expandieren.
-6. Die Mitarbeiter sollen die neuen Regeln beachten.
+6. Der Mitarbeiter soll die neuen Regeln beachten.
 
 
 **Your task:** Form jeden Satz in die indirekte Wiedergabe im Geschäftsbericht um (Konjunktiv I).
@@ -444,7 +444,7 @@ Streiche den Begriff, der nicht in die gleiche Kategorie passt.
 
 1. Umsatz – Gewinn – Verlust – Skonto
 2. GmbH – AG – KG – Skonto
-3. steigen – sinken – wachsen – schrumpfen – liefern
+3. steigen – sinken – wachsen – liefern
 4. Rabatt – Skonto – Mahnung – Bedingung
 5. Kunde – Lieferant – Mitarbeiter – Markt
 6. Konjunktiv I – Konjunktiv II – Indikativ – Imperativ
