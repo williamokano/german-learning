@@ -124,7 +124,7 @@ Modellantwort:
 > 2. Die Studie wurde von der Universität Heidelberg durchgeführt. (Institution → von + Dat.)
 > 3. Die Durchführung der Studie wurde beschrieben. (Genitiv, nicht „von der")
 > 4. Eine Studie wurde durchgeführt. (festes Verb: durchführen, nicht machen)
-> 5. Die Hypothese wurde von dem Team in Frage gestellt. (von + Dat. mit Verschmelzung „vom")
+> 5. Die Hypothese wurde vom Team in Frage gestellt. (Verschmelzung: von + dem = vom)
 > 6. Die Daten wurden zur Verfügung gestellt. (feste Verschmelzung „zur Verfügung")
 
 ## Übung B4 — FVG der Wissenschaft
@@ -150,7 +150,7 @@ Modellantwort:
 2. ~~passen~~ — passen ist kein typisches Forschungsverb; die anderen drei beschreiben wissenschaftliche Vorgänge.
 3. ~~das Wetter~~ — das Wetter ist kein Forschungsgebiet; die anderen drei sind Kernbegriffe der Wissenschaft.
 4. ~~die Verfasserin~~ — die Verfasserin ist eine Person, kein Forschungsbegriff.
-5. ~~aus + Dativ~~ — aus + Dativ kennzeichnet Herkunft, nicht den Agenten im Passiv.
+5. ~~aus + Dativ~~ — aus + Dativ kennzeichnet Herkunft/Quelle, ist aber KEIN Passiv-Agent — leicht mit 'von + Dativ' verwechselt (beide markieren eine Quelle). 'mit + Dativ' ist instrumental/soziativ.
 6. ~~das Ergebnis bekommen~~ — das Ergebnis bekommen ist kein festes FVG; die anderen drei sind feste Wissenschafts-FVG.
 
 ## Übung B8 — Aktiv und Passiv + Nominalstil zuordnen
@@ -251,7 +251,7 @@ Selbstkorrektur:
 2. ~~der Algorithmus~~ — der Algorithmus ist ein Werkzeug/Mittel; die anderen drei bezeichnen Bereiche oder Prozesse.
 3. ~~passen~~ — passen ist kein typisches Forschungsverb.
 4. ~~die Verfasserin~~ — die Verfasserin ist eine Person, kein Forschungsbegriff.
-5. ~~aus + Dativ~~ — aus + Dativ kennzeichnet Herkunft, nicht den Agenten im Passiv.
+5. ~~aus + Dativ~~ — aus + Dativ kennzeichnet Herkunft/Quelle, ist aber KEIN Passiv-Agent — leicht mit 'von + Dativ' verwechselt (beide markieren eine Quelle). 'mit + Dativ' ist instrumental/soziativ.
 6. ~~hat gemacht~~ — „hat gemacht" ist Aktiv, nicht Passiv; die anderen drei sind Passiv-Formen.
 
 ## Übung D3 — Rückblick: B2/01, B2/02, B2/08

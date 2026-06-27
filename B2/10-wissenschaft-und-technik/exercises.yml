@@ -476,7 +476,7 @@ exercises:
       2. Die Studie wurde von der Universität Heidelberg durchgeführt. (Institution → von + Dat.)
       3. Die Durchführung der Studie wurde beschrieben. (Genitiv, nicht „von der")
       4. Eine Studie wurde durchgeführt. (festes Verb: durchführen, nicht machen)
-      5. Die Hypothese wurde von dem Team in Frage gestellt. (von + Dat. mit Verschmelzung „vom")
+      5. Die Hypothese wurde vom Team in Frage gestellt. (Verschmelzung: von + dem = vom)
       6. Die Daten wurden zur Verfügung gestellt. (feste Verschmelzung „zur Verfügung")
 
   - id: B4
@@ -592,7 +592,7 @@ exercises:
         why: "die Verfasserin ist eine Person, kein Forschungsbegriff."
       - items: [von + Dativ, durch + Akkusativ, aus + Dativ, mit + Dativ]
         odd: 2
-        why: "aus + Dativ kennzeichnet Herkunft, nicht den Agenten im Passiv."
+        why: "aus + Dativ kennzeichnet Herkunft/Quelle, ist aber KEIN Passiv-Agent — leicht mit 'von + Dativ' verwechselt (beide markieren eine Quelle). 'mit + Dativ' ist instrumental/soziativ."
       - items: [die Hypothese in Frage stellen, die Daten zur Verfügung stellen, eine Studie durchführen, das Ergebnis bekommen]
         odd: 3
         why: "das Ergebnis bekommen ist kein festes FVG; die anderen drei sind feste Wissenschafts-FVG."
@@ -941,7 +941,7 @@ exercises:
         why: "die Verfasserin ist eine Person, kein Forschungsbegriff."
       - items: [von + Dativ, durch + Akkusativ, aus + Dativ, mit + Dativ]
         odd: 2
-        why: "aus + Dativ kennzeichnet Herkunft, nicht den Agenten im Passiv."
+        why: "aus + Dativ kennzeichnet Herkunft/Quelle, ist aber KEIN Passiv-Agent — leicht mit 'von + Dativ' verwechselt (beide markieren eine Quelle). 'mit + Dativ' ist instrumental/soziativ."
       - items: [wird durchgeführt, wurde erhoben, ist … worden veröffentlicht, hat gemacht]
         odd: 3
         why: '„hat gemacht" ist Aktiv, nicht Passiv; die anderen drei sind Passiv-Formen.'
