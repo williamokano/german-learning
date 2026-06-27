@@ -384,7 +384,19 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Annas Familie und ihre Hobbys
 
-Read „Annas Familie und ihre Hobbys" in lesson.md, section 7. Richtig (R) oder falsch (F)?
+> Anna hat viele Hobbys. Sie liest sehr gern — am liebsten liest
+> sie Krimis. Sie fährt auch gern Rad, und im Sommer geht sie oft
+> schwimmen. Ihr Bruder Felix kann sehr gut Klavier spielen, aber
+> Sport findet er langweilig. Ihre Schwester Lena macht gern
+> Sport: Sie joggt, sie tanzt, und im Winter fährt sie Ski. Und
+> Oma Erika? Sie wandert sehr gern — aber nur im Frühling und im
+> Sommer. Im Herbst regnet es oft, und im Winter ist es zu kalt.
+> Dann bleibt Oma Erika zu Hause: Sie liest oder sieht fern. Am
+> Sonntag ruft Anna immer an — für Oma Erika ist das auch ein
+> Hobby!
+
+Richtig (R) oder falsch (F)?
+
 
 1. Anna liest am liebsten Krimis. ( )
 2. Felix macht gern Sport. ( )
