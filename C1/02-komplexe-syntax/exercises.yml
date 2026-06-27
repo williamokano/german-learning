@@ -1,0 +1,1097 @@
+lesson: C1/02
+title: "C1 · Lektion 2 — Übungen (Komplexe Syntax)"
+intro: >
+  Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Die Lösungen findest du in solutions.md.
+  Tipp: Verteil die Blöcke über mehrere Tage — H und A am Tag 1, B am Tag 2,
+  C am Tag 3, D am Tag 4 nach einer Pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell — über einen langen Satz)"
+    audio: dialog1_a.mp3
+    instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Lukas liest einen Satz aus dem Feuilleton vor."
+        answer: true
+        why: 'Lukas zitiert den Satz über die Schriftstellerin mit dem Büchner-Preis.'
+      - q: "Mia findet den langen Satz lustig und überflüssig."
+        answer: false
+        why: 'Mia verteidigt den Satz: „der ist doch genau richtig so" — sie benennt die Apposition.'
+      - q: "Tomáš stört sich vor allem an der fehlenden Verwendung des Semikolons durch den Feuilleton-Chef."
+        answer: true
+        why: 'Tomáš: „der den Text redigiert hat, der kennt anscheinend das Semikolon nicht".'
+      - q: "Tomáš findet, der Satz hätte auf Tschechisch genauso lang sein können."
+        answer: false
+        why: 'Tomáš: „Auf Tschechisch wäre das fünf Sätze" — also kürzer.'
+      - q: "Am Ende schlagen die drei vor, selbst einen Schachtelsatz zu basteln."
+        answer: true
+        why: 'Lukas: „lasst uns mal einen schönen Schachtelsatz basteln".'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell — Lektorin und Autor)"
+    audio: dialog1_b.mp3
+    instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    optionLayout: block
+    items:
+      - q: "Welche Funktion hat Frau Hoffmann im Dialog?"
+        options:
+          - { key: a, text: "Sie ist die Verlagsleiterin und stellt das Buch vor." }
+          - { key: b, text: "Sie ist erfahrene Lektorin und gibt Feedback zum Manuskript." }
+          - { key: c, text: "Sie ist die Agentin des Autors." }
+        answer: b
+        why: "Frau Hoffmann ist Lektorin; sie liest das Manuskript und gibt stilistisches Feedback."
+      - q: "Was kritisiert Frau Hoffmann am Satz auf Seite 47?"
+        options:
+          - { key: a, text: "Er ist grammatisch falsch." }
+          - { key: b, text: "Er ist zu lang und enthält zu viele Nebensätze." }
+          - { key: c, text: "Er enthält falsche Informationen über den Protagonisten." }
+        answer: b
+        why: 'Frau Hoffmann: „Er enthält — lassen Sie mich zählen — drei Relativsätze, eine Apposition und ein nachgestelltes Attribut. Das ist grammatisch korrekt, aber stilistisch eine Zumutung".'
+      - q: "Welche Lösung schlägt Frau Hoffmann für den langen Satz vor?"
+        options:
+          - { key: a, text: "Den ganzen Absatz streichen." }
+          - { key: b, text: "Die Apposition herausziehen und in zwei Sätze aufteilen." }
+          - { key: c, text: "Den Roman neu schreiben." }
+        answer: b
+        why: 'Frau Hoffmann: „Wir könnten die Apposition herausziehen — ‚Der Protagonist — ein vor dem Krieg geborener Intellektueller — beginnt ein neues Leben. Er hatte die ganze Nazizeit im Exil verbracht"."'
+      - q: "Welche Korrektur schlägt Frau Hoffmann für die Parenthese auf Seite 112 vor?"
+        options:
+          - { key: a, text: "Die Parenthese ganz streichen." }
+          - { key: b, text: "Die Parenthese in einen eigenen Satz umwandeln oder Gedankenstriche verwenden." }
+          - { key: c, text: "Die Parenthese durch Klammern ersetzen." }
+        answer: b
+        why: 'Frau Hoffmann: „Oder Sie arbeiten mit Gedankenstrichen — wirken im Druck eleganter".'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext: Ein Literaturkritiker im Radio"
+    audio: hoertext.mp3
+    instructions: "Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel."
+    text: |
+      Liebe Hörerinnen und Hörer, ich möchte Ihnen heute ein Buch {1}, das
+      in den letzten Wochen für Aufsehen gesorgt hat — und das, so viel sei
+      {2}, den langen Satz auf eine Weise feiert. Die {3},
+      eine 1978 in Graz geborene Schriftstellerin, {4} früheren Werke bereits
+      mit mehreren Preisen ausgezeichnet wurden, erzählt die Geschichte einer
+      Familie. Der Roman, ein vieldiskutiertes Werk über Schuld und {5},
+      spielt in den 1970er Jahren in einer Kleinstadt. Was diesen Text — und
+      damit komme ich zum entscheidenden {6} — so bemerkenswert macht, ist
+      seine Syntax.
+    bank: [vorstellen, vorweggenommen, Autorin, deren, Erinnerung, Punkt, Bekannte, erzählt, erwähnt]
+    answers:
+      "1": vorstellen
+      "2": vorweggenommen
+      "3": Autorin
+      "4": deren
+      "5": Erinnerung
+      "6": Punkt
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Telefonansage einer Literaturagentur"
+    audio: transcript_ansage1.mp3
+    instructions: "Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    optionLayout: block
+    transcript: 'Guten Tag, Sie haben die Literaturagentur Wortwerk erreicht. Wir sind heute, am Freitag, dem 27. Juni, leider nicht persönlich für Sie da. Aufgrund einer internen Klausur ist unsere telefonische Erreichbarkeit derzeit eingeschränkt. Bitte hinterlassen Sie Ihren Namen, Ihre Telefonnummer und eine kurze Beschreibung Ihres Manuskripts nach dem Signalton. Für Manuskripte im Bereich Belletristik wenden Sie sich bitte an die Hotline 030-98 76 54 32. Für Sachbuch und Wissenschaft an die Durchwahl 030-98 76 54 33. Bitte rufen Sie mich zurück unter dieser Nummer. Vielen Dank für Ihr Verständnis und Ihr Interesse.'
+    items:
+      - q: "Welche Einheit ist auf dem Anrufbeantworter zu hören?"
+        options:
+          - { key: a, text: "Eine Literaturagentur." }
+          - { key: b, text: "Ein Verlag für Kinderbücher." }
+          - { key: c, text: "Eine Autorengruppe." }
+        answer: a
+        why: '„Sie haben die Literaturagentur Wortwerk erreicht".'
+      - q: "Warum ist die telefonische Erreichbarkeit eingeschränkt?"
+        options:
+          - { key: a, text: "Wegen einer technischen Störung." }
+          - { key: b, text: "Wegen einer internen Klausur." }
+          - { key: c, text: "Wegen einer Messe." }
+        answer: b
+        why: '„Aufgrund einer internen Klausur ist unsere telefonische Erreichbarkeit derzeit eingeschränkt".'
+      - q: "Welche Information soll der Anrufer hinterlassen?"
+        options:
+          - { key: a, text: "Seinen Namen, seine Telefonnummer und eine Beschreibung des Manuskripts." }
+          - { key: b, text: "Sein Geburtsdatum und seine Adresse." }
+          - { key: c, text: "Seine Verlagszugehörigkeit." }
+        answer: a
+        why: '„Bitte hinterlassen Sie Ihren Namen, Ihre Telefonnummer und eine kurze Beschreibung Ihres Manuskripts".'
+      - q: "Welche Hotline gilt für Sachbuch und Wissenschaft?"
+        options:
+          - { key: a, text: "030-98 76 54 32." }
+          - { key: b, text: "030-98 76 54 33." }
+          - { key: c, text: "Die allgemeine Hotline." }
+        answer: b
+        why: '„Für Sachbuch und Wissenschaft an die Durchwahl 030-98 76 54 33".'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: single-choice
+    title: "Welches Werkzeug der komplexen Syntax liegt vor?"
+    instructions: "Wähle das passende Werkzeug (a, b, c oder d) für jeden Satz."
+    items:
+      - q: '„Berlin, die Hauptstadt Deutschlands, hat 3,6 Millionen Einwohner."'
+        options:
+          - { key: a, text: "Apposition" }
+          - { key: b, text: "Parenthese" }
+          - { key: c, text: "Vorangestelltes Attribut" }
+          - { key: d, text: "Ellipse" }
+        answer: a
+        why: '„die Hauptstadt Deutschlands" ist gleichsetzende Beifügung im Nominativ zu „Berlin" — eine Apposition.'
+      - q: '„Sein Bruder — ein stiller Beobachter — bemerkte die Szene."'
+        options:
+          - { key: a, text: "Apposition" }
+          - { key: b, text: "Parenthese (Gedankenstriche)" }
+          - { key: c, text: "Nachgestelltes Attribut" }
+          - { key: d, text: "Vorangestelltes Attribut" }
+        answer: b
+        why: "Die Gedankenstriche markieren eine eingeschobene Erläuterung — eine Parenthese."
+      - q: '„Die im Jahr 1990 gegründete Firma meldete Insolvenz an."'
+        options:
+          - { key: a, text: "Apposition" }
+          - { key: b, text: "Parenthese" }
+          - { key: c, text: "Vorangestelltes Attribut (Partizipialattribut)" }
+          - { key: d, text: "Ellipse" }
+        answer: c
+        why: '„die im Jahr 1990 gegründete Firma" — Partizipialattribut vorangestellt vor dem Nomen „Firma".'
+      - q: '„Der Mann, mit dem ich sprach, ist der Bürgermeister."'
+        options:
+          - { key: a, text: "Apposition" }
+          - { key: b, text: "Parenthese" }
+          - { key: c, text: "Vorangestelltes Attribut" }
+          - { key: d, text: "Nachgestelltes Attribut (Relativsatz)" }
+        answer: d
+        why: '„mit dem ich sprach" ist ein nachgestellter Relativsatz mit Präposition — nachgestelltes Attribut.'
+      - q: '„Sie nach Berlin, er nach München."'
+        options:
+          - { key: a, text: "Satzperiode" }
+          - { key: b, text: "Parenthese" }
+          - { key: c, text: "Vorangestelltes Attribut" }
+          - { key: d, text: "Ellipse" }
+        answer: d
+        why: 'Die finiten Verben „fährt" sind ausgelassen — bewusste Auslassung = Ellipse.'
+      - q: '„Der Bürgermeister, der im Wahlkampf versprochen hatte, dass er die Schulden tilgen werde, trat zurück."'
+        options:
+          - { key: a, text: "Satzperiode (Hauptsatz + mehrere Nebensätze)" }
+          - { key: b, text: "Apposition" }
+          - { key: c, text: "Parenthese" }
+          - { key: d, text: "Ellipse" }
+        answer: a
+        why: 'Hauptsatz („trat zurück") mit zwei Nebensätzen (Relativsatz + indirekter Fragesatz) = Satzperiode.'
+      - q: '„Sein Bruder — so erzählt man sich — beobachtete die Szene."'
+        options:
+          - { key: a, text: "Apposition" }
+          - { key: b, text: "Parenthese (eingeschobener Satz)" }
+          - { key: c, text: "Nachgestelltes Attribut" }
+          - { key: d, text: "Ellipse" }
+        answer: b
+        why: '„so erzählt man sich" ist ein eingeschobener Nebensatz in Gedankenstrichen — Parenthese.'
+      - q: '„Es wurde gestern Abend bekannt: Der Minister tritt zurück."'
+        options:
+          - { key: a, text: "Satzperiode" }
+          - { key: b, text: "Apposition" }
+          - { key: c, text: "Ausklammerung" }
+          - { key: d, text: "Vorangestelltes Attribut" }
+        answer: c
+        why: 'Der Nebensatz „dass der Minister zurücktritt" wurde ins Nachfeld ausgeklammert und mit Doppelpunkt angeschlossen.'
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Apposition einsetzen"
+    instructions: "Setze die Apposition im passenden Kasus ein. 8 Items."
+    text: |
+      1. „Berlin, {1}, hat 3,6 Millionen Einwohner." (Nom.)
+      2. „Wir trafen Herrn Steinmeyer, {2}, gestern in Salzburg." (Akk.)
+      3. „Ich arbeite mit Frau Hoffmann, {3}, seit fünf Jahren." (Dat.)
+      4. „Herr Müller, {4}, hat die Sitzung geleitet." (Nom.)
+      5. „Sie kennt das Buch, {5}, auswendig." (Akk.)
+      6. „Mit dem Bürgermeister, {6}, werde ich morgen sprechen." (Dat.)
+      7. „Das Buch, {7}, wurde ein Bestseller." (Nom.)
+      8. „Ich gratuliere Frau Yilmaz, {8}, zum Erfolg." (Dat.)
+    answers:
+      "1": "die Hauptstadt Deutschlands"
+      "2": "den erfahrenen Anwalt"
+      "3": "der Senior-Partnerin der Kanzlei"
+      "4": "der neue Vorsitzende"
+      "5": "einen Roman über das Vergessen"
+      "6": "dem Vorsitzenden des Stadtrats"
+      "7": "ein vieldiskutiertes Werk"
+      "8": "der neuen Leiterin der Abteilung"
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Vorangestelltes Partizipialattribut bilden"
+    instructions: "Bilde aus dem Relativsatz ein vorangestelltes Partizipialattribut. 6 Items."
+    text: |
+      1. „die Firma, die 1990 gegründet wurde" → „die {1} Firma"
+      2. „der Streit, der seit Monaten andauert" → „der {2} Streit"
+      3. „die Schriftstellerin, die den Preis erhielt" → „die {3} Schriftstellerin"
+      4. „der Roman, der 2019 veröffentlicht wurde" → „der {4} Roman"
+      5. „das Buch, das mir empfohlen wurde" → „das {5} Buch"
+      6. „die Krise, die sich verschärft hat" → „die {6} Krise"
+    answers:
+      "1": "1990 gegründete"
+      "2": "seit Monaten andauernde"
+      "3": "den Preis erhaltende"
+      "4": "2019 veröffentlichte"
+      "5": "mir empfohlene"
+      "6": "sich verschärft habende"
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Nachgestellter Relativsatz"
+    instructions: "Setze das Relativpronomen im richtigen Kasus ein. 6 Items."
+    text: |
+      1. „Der Mann, {1} ich gestern sprach, ist der Bürgermeister." (Nom. — Subjekt im HS)
+      2. „Die Frau, {2} ich getroffen habe, ist Ärztin." (Akk. — Objekt im HS)
+      3. „Das Buch, {3} ich dir empfohlen habe, ist im Buchladen." (Akk. — Objekt im HS)
+      4. „Der Kollege, mit {4} ich arbeite, ist sehr erfahren." (Dat. — nach Präp.)
+      5. „Das Thema, über {5} wir sprachen, ist tabu." (Akk. — nach Präp. mit Richtungsbedeutung)
+      6. „Die Stadt, in {6} ich aufgewachsen bin, liegt in Bayern." (Dat. — nach Präp. mit Ortsbedeutung)
+    answers:
+      "1": mit dem
+      "2": die
+      "3": das
+      "4": dem
+      "5": das
+      "6": der
+
+  - id: A5
+    block: A
+    type: matching
+    title: "Werkzeug der komplexen Syntax zuordnen"
+    instructions: "Ordne jedem Satz (1–6) das passende Werkzeug zu (a–f)."
+    left:
+      - { key: "1", text: '„Sie nach Berlin, er nach München."' }
+      - { key: "2", text: '„Der Bürgermeister — so erzählt man sich — trat gestern zurück."' }
+      - { key: "3", text: '„Die Schriftstellerin, deren Roman ein Erfolg wurde, lebt in der Provence."' }
+      - { key: "4", text: '„Hamburg, die Hansestadt, ist eine Reise wert."' }
+      - { key: "5", text: '„Die seit Monaten andauernde Krise spitzt sich zu."' }
+      - { key: "6", text: '„Es wurde gestern bekannt: Der Minister tritt zurück."' }
+    right:
+      - { key: a, text: "Ellipse (Verb-Auslassung)" }
+      - { key: b, text: "Parenthese (Gedankenstriche)" }
+      - { key: c, text: "Genitivattribut (nachgestellt)" }
+      - { key: d, text: "Apposition" }
+      - { key: e, text: "Partizipialattribut (vorangestellt)" }
+      - { key: f, text: "Ausklammerung (Nachfeld + Doppelpunkt)" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Parenthese einsetzen"
+    instructions: "Setze die fehlenden Gedankenstriche oder Klammern ein. 6 Items."
+    text: |
+      1. „Sein Bruder {1} ein stiller Beobachter {2} bemerkte die Szene." (Gedankenstriche)
+      2. „Die Sitzung {3} und das ist das Entscheidende {4} wurde verschoben." (Gedankenstriche)
+      3. „Frau Müller {5} Leiterin der Abteilung {6} verlas den Bericht." (Klammern)
+      4. „Sein Bruder {7} so erzählt man sich {8} hatte sich 1938 abgesetzt." (Gedankenstriche)
+      5. „Das Buch {9} sie hat einen ausgezeichneten Geschmack {10} war ausverkauft." (Gedankenstriche)
+      6. „Die Ergebnisse {11} und das überrascht niemanden {12} sprechen für sich." (Gedankenstriche)
+    answers:
+      "1": "—"
+      "2": "—"
+      "3": "—"
+      "4": "—"
+      "5": "("
+      "6": ")"
+      "7": "—"
+      "8": "—"
+      "9": "—"
+      "10": "—"
+      "11": "—"
+      "12": "—"
+
+  - id: A7
+    block: A
+    type: gap-bank
+    title: "Ellipsen ergänzen"
+    instructions: "Ergänze die fehlenden Satzglieder durch passende Ellipsen. Drei Satzteile sind zu viel."
+    text: |
+      1. „{1} nach Berlin, {2} nach München." (zwei Pronomen + Bewegungsverb)
+      2. „Ankunft {3}, Gepäck verloren." (Uhrzeit)
+      3. „{4} möglich, morgen." (Bedingungssatz)
+      4. „{5} {6} dies, {7} {8} das." (zwei parallele Subjekte und Prädikate)
+      5. „{9} {10}." (pointierte Aufmunterung)
+    bank:
+      - "Er"
+      - "sie"
+      - "Sie"
+      - "er"
+      - "18 Uhr"
+      - "20 Uhr"
+      - "Wenn"
+      - "Weil"
+      - "Die einen"
+      - "Die anderen"
+      - "sagen"
+      - "sagten"
+      - "Kopf hoch"
+      - "Nichts zu machen"
+      - "Je mehr"
+    answers:
+      "1": "Sie"
+      "2": "er"
+      "3": "18 Uhr"
+      "4": "Wenn"
+      "5": "Die einen"
+      "6": "sagen"
+      "7": "Die anderen"
+      "8": "sagten"
+      "9": "Kopf hoch"
+      "10": "Nichts zu machen"
+
+  - id: A8
+    block: A
+    type: single-choice
+    title: "Welche Funktion hat das Attribut?"
+    instructions: "Wähle die passende Funktion (a, b oder c) für die markierte Wortgruppe."
+    items:
+      - q: '„Die {seit Jahren andauernde} Krise spitzt sich zu."'
+        options:
+          - { key: a, text: "Vorangestelltes Partizipialattribut (Partizip I)." }
+          - { key: b, text: "Nachgestellter Relativsatz." }
+          - { key: c, text: "Apposition." }
+        answer: a
+        why: '„seit Jahren andauernd" ist Partizip I (Infinitiv + d), vorangestellt vor dem Nomen.'
+      - q: '„Das {ihr bekannte} Buch war vergriffen."'
+        options:
+          - { key: a, text: "Vorangestelltes Partizipialattribut (Partizip II)." }
+          - { key: b, text: "Nachgestelltes Präpositionalattribut." }
+          - { key: c, text: "Apposition." }
+        answer: a
+        why: '„bekannt" ist Partizip II (von „bekennen" in der Bedeutung „vertraut"); vorangestellt vor „Buch".'
+      - q: '„Das Buch, {das ich dir empfohlen habe}, war vergriffen."'
+        options:
+          - { key: a, text: "Vorangestelltes Attribut." }
+          - { key: b, text: "Nachgestelltes Attribut (Relativsatz)." }
+          - { key: c, text: "Parenthese." }
+        answer: b
+        why: 'Relativsatz mit „das" als Akkusativobjekt — nachgestellt.'
+      - q: '„{Mein Bruder}, ein erfahrener Arzt, lebt in Wien."'
+        options:
+          - { key: a, text: "Apposition (nachgestellt)." }
+          - { key: b, text: "Parenthese." }
+          - { key: c, text: "Vorangestelltes Partizipialattribut." }
+        answer: a
+        why: '„Mein Bruder" ist das Bezugswort; „ein erfahrener Arzt" ist die Apposition (gleicher Kasus: Nominativ).'
+      - q: '„Die Firma, {mit der wir kooperieren}, ist pleite."'
+        options:
+          - { key: a, text: "Vorangestelltes Attribut." }
+          - { key: b, text: "Nachgestelltes Präpositionalattribut als Relativsatz." }
+          - { key: c, text: "Apposition." }
+        answer: b
+        why: '„mit der wir kooperieren" ist ein nachgestellter Relativsatz mit Präposition (Dativ).'
+
+  - id: A9
+    block: A
+    type: order
+    title: "Satzbau: Satzperiode mit Nebensätzen"
+    instructions: "Bring die Wörter in die richtige Reihenfolge. Achte auf V2 im Hauptsatz und Verb-Endstellung im Nebensatz."
+    items:
+      - tiles: [Ich, kenne, den, Mann, der, nebenan, wohnt]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Ich kenne den Mann, der nebenan wohnt."
+      - tiles: [Das, ist, das, Buch, das, sie, mir, empfohlen, hat]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Das ist das Buch, das sie mir empfohlen hat."
+      - tiles: [Der, Bürgermeister, der, dies, versprochen, hatte, trat, zurück]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Der Bürgermeister, der dies versprochen hatte, trat zurück."
+      - tiles: [Die, Schriftstellerin, deren, Roman, ein, Erfolg, wurde, lebt, in, der, Provence]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        note: "Die Schriftstellerin, deren Roman ein Erfolg wurde, lebt in der Provence."
+
+  - id: A10
+    block: A
+    type: odd-one-out
+    title: "Welche Konstruktion passt nicht?"
+    instructions: "Streiche die Konstruktion, die nicht zur angegebenen Kategorie passt, und erkläre warum."
+    groups:
+      - items: ["Apposition", "Parenthese", "Genitivattribut", "Ellipse"]
+        odd: 3
+        why: "Ellipse ist eine Auslassung; die anderen drei sind Erweiterungen / Beifügungen zu einem Nomen oder Satz."
+      - items: ["Partizipialattribut", "Relativsatz", "Präpositionalattribut", "Konjunktiv II"]
+        odd: 3
+        why: "Konjunktiv II ist eine Verbform; die anderen drei sind Attribute (Beifügungen zum Nomen)."
+      - items: ["vorangestelltes Attribut", "Partizipialattribut", "Genitivattribut", "Ausklammerung"]
+        odd: 3
+        why: "Ausklammerung betrifft die Satzgliedstellung (Nachfeld); die anderen drei sind Attribute."
+      - items: ["Klammern", "Gedankenstriche", "Kommas", "Semikolons"]
+        odd: 3
+        why: "Semikolon verbindet zwei Hauptsätze; die anderen drei markieren Parenthesen / Appositionen."
+
+  # ── Block B — Vertiefung ─────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Satzperiode vervollständigen"
+    instructions: "Füll die 8 Lücken mit passenden Satzteilen, um eine Satzperiode zu bilden. Drei Elemente sind zu viel."
+    text: |
+      Der Autor, {1}, dessen letzter Roman, {2}, seit
+      Monaten die Bestsellerlisten anführt, lebt zurückgezogen in einem
+      kleinen Dorf, {3}. Sein Bruder — {4} — hatte sich
+      schon 1938 abgesetzt. {5} verriet er mir gestern, dass
+      die Geschichte auf einer wahren Begebenheit beruht. Die Leser, {6},
+      schätzen vor allem die dichten Satzperioden, die — und das
+      {7} — den Leser zwingen, die Beziehungen zwischen
+      den Figuren {8} zu entschlüsseln.
+    bank:
+      - "ein 1978 geborener Schriftsteller"
+      - "ein Roman über das kollektive Vergessen"
+      - "das er seit Jahren nicht mehr verlassen hat"
+      - "ein stiller Beobachter"
+      - "Im persönlichen Gespräch"
+      - "die das Buch aufmerksam lesen"
+      - "ist das Entscheidende"
+      - "Schritt für Schritt"
+      - "die seinen Stil prägen"
+      - "sodass die Leser bald ermüden"
+      - "was ich kaum glauben konnte"
+      - "in den Bergen"
+    answers:
+      "1": "ein 1978 geborener Schriftsteller"
+      "2": "ein Roman über das kollektive Vergessen"
+      "3": "das er seit Jahren nicht mehr verlassen hat"
+      "4": "ein stiller Beobachter"
+      "5": "Im persönlichen Gespräch"
+      "6": "die das Buch aufmerksam lesen"
+      "7": "ist das Entscheidende"
+      "8": "Schritt für Schritt"
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Apposition im richtigen Kasus?"
+    instructions: "Welche Apposition steht im richtigen Kasus? Wähle (a) für den ersten Satz, (b) für den zweiten Satz."
+    items:
+      - q: '(1) „Ich kenne Herrn Schneider, ein erfahrener Anwalt.“ (2) „Ich kenne Herrn Schneider, einen erfahrenen Anwalt.“'
+        options:
+          - { key: a, text: "Satz 1 ist richtig (Apposition im Nominativ)." }
+          - { key: b, text: "Satz 2 ist richtig (Apposition im Akkusativ)." }
+          - { key: c, text: "Beide Sätze sind richtig." }
+        answer: b
+        why: '„Herrn Schneider" steht im Akkusativ (Bezugswort), also muss die Apposition auch im Akkusativ stehen: „einen erfahrenen Anwalt". „ein erfahrener Anwalt" (Nominativ) wäre falsch.'
+      - q: '(1) „Ich arbeite seit Jahren mit Frau Müller, die neue Chefin.“ (2) „Ich arbeite seit Jahren mit Frau Müller, der neuen Chefin.“'
+        options:
+          - { key: a, text: "Satz 1 ist richtig (Apposition im Nominativ)." }
+          - { key: b, text: "Satz 2 ist richtig (Apposition im Dativ)." }
+          - { key: c, text: "Beide Sätze sind richtig." }
+        answer: b
+        why: '„mit Frau Müller" steht im Dativ, also muss die Apposition auch im Dativ stehen: „der neuen Chefin".'
+      - q: '(1) „Das Buch, ein spannender Roman, hat mir gefallen.“ (2) „Das Buch, ein spannenden Roman, hat mir gefallen.“'
+        options:
+          - { key: a, text: "Satz 1 ist richtig (Apposition im Nominativ)." }
+          - { key: b, text: "Satz 2 ist richtig (Apposition im Akkusativ)." }
+          - { key: c, text: "Beide Sätze sind richtig." }
+        answer: a
+        why: '„Das Buch" steht im Nominativ (Bezugswort), also muss die Apposition „ein spannender Roman" auch im Nominativ stehen (männlich, Nominativ Singular mit unbestimmtem Artikel: „-er").'
+      - q: '(1) „Wir trafen den Direktor, der neuen Leiter der Abteilung.“ (2) „Wir trafen den Direktor, den neuen Leiter der Abteilung.“'
+        options:
+          - { key: a, text: "Satz 1 ist richtig (Apposition im Nominativ)." }
+          - { key: b, text: "Satz 2 ist richtig (Apposition im Akkusativ)." }
+          - { key: c, text: "Beide Sätze sind richtig." }
+        answer: b
+        why: '„den Direktor" steht im Akkusativ, also muss die Apposition „den neuen Leiter" auch im Akkusativ stehen.'
+
+  - id: B3
+    block: B
+    type: free-write
+    title: "Eine Satzperiode planen und schreiben"
+    prompt: 'Schreib eine Satzperiode mit folgenden Werkzeugen: (a) ein Hauptsatz, (b) zwei Relativsätze, (c) eine Apposition, (d) eine Parenthese. Thema: „eine bemerkenswerte Begegnung". (8–12 Sätze insgesamt — eine Periode + Erläuterung der Werkzeuge.)'
+    stimulus: |
+      Ausgangslage: Du triffst eine Person, die dich beeindruckt. Baue die Person in eine Satzperiode ein.
+    use:
+      - "Hauptsatz mit finitem Verb auf Position 2"
+      - "Mindestens zwei Relativsätze (Verb-Endstellung!)"
+      - "Eine Apposition im richtigen Kasus"
+      - "Eine Parenthese in Gedankenstrichen"
+    selfCheck:
+      - "Steht jedes finite Verb im Nebensatz am Satzende?"
+      - "Steht die Apposition im gleichen Kasus wie das Bezugswort?"
+      - "Ist die Parenthese durch zwei Gedankenstriche (oder Klammern) eingegrenzt?"
+      - "Wird der Hauptsatz durch die Verschachtelung unleserlich? Wenn ja: kürzen."
+    model: |
+      Ich traf gestern Frau Hoffmann, die Senior-Partnerin der Kanzlei, deren Buch über Verhandlungstechnik, ein Standardwerk der Branche, inzwischen in der sechsten Auflage erscheint und das — so hört man — jeden angehenden Juristen als Pflichtlektüre begleitet, im Foyer des Verlagshauses, wo sie — für mich überraschend — auf mich zuging und mich nach meinem Manuskript fragte. Werkzeuge: Hauptsatz (Position 2: „trat"), zwei Relativsätze („die Senior-Partnerin …", „das … begleitet"), Apposition („die Senior-Partnerin der Kanzlei"), Parenthese („so hört man"), nachgestellte Attribute („über Verhandlungstechnik", „in der sechsten Auflage", „im Foyer des Verlagshauses").
+
+  - id: B4
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Werkzeuge der komplexen Syntax identifizieren"
+    instructions: "Markiere in jedem Satz das genannte Werkzeug, indem du die passende Antwort einsetzt. 6 Items."
+    text: |
+      1. „Sein Bruder — so erzählt man sich — hatte sich schon 1938 abgesetzt."
+         Welche Klammer? {1}
+      2. „Berlin, die Hauptstadt Deutschlands, hat 3,6 Millionen Einwohner."
+         Welche Beifügung? {2}
+      3. „Die im Jahr 1990 gegründete Firma meldete Insolvenz an."
+         Welches Attribut (Stellung)? {3}
+      4. „Sie nach Berlin, er nach München."
+         Welche Auslassung? {4}
+      5. „Es wurde gestern bekannt: Der Minister tritt zurück."
+         Welche Konstruktion? {5}
+      6. „Der Bürgermeister, der dies versprochen hatte, trat zurück."
+         Welches Attribut (Stellung)? {6}
+    answers:
+      "1": "Parenthese"
+      "2": "Apposition"
+      "3": "vorangestellt"
+      "4": "Ellipse"
+      "5": "Ausklammerung"
+      "6": "nachgestellt"
+
+  - id: B5
+    block: B
+    type: matching
+    title: "Werkzeug — Beispiel — Funktion"
+    instructions: "Ordne jedem Werkzeug (1–6) das passende Beispiel (a–f) zu."
+    left:
+      - { key: "1", text: "Apposition" }
+      - { key: "2", text: "Parenthese" }
+      - { key: "3", text: "Vorangestelltes Attribut" }
+      - { key: "4", text: "Nachgestellter Relativsatz" }
+      - { key: "5", text: "Ellipse" }
+      - { key: "6", text: "Ausklammerung" }
+    right:
+      - { key: a, text: '„Die seit Monaten andauernde Krise spitzt sich zu."' }
+      - { key: b, text: '„Der Mann, mit dem ich sprach, ist der Bürgermeister."' }
+      - { key: c, text: '„Frau Müller, die neue Chefin, leitet die Sitzung."' }
+      - { key: d, text: '„Es wurde gestern bekannt: Der Minister tritt zurück."' }
+      - { key: e, text: '„Sie nach Berlin, er nach München."' }
+      - { key: f, text: '„Sein Bruder — so erzählt man sich — bemerkte die Szene."' }
+    answers:
+      "1": c
+      "2": f
+      "3": a
+      "4": b
+      "5": e
+      "6": d
+
+  - id: B6
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Relativpronomen im Relativsatz"
+    instructions: "Setze das passende Relativpronomen ein (der/die/das, den/die/das, dem/der/den, dessen/deren). 8 Items."
+    text: |
+      1. „Das Buch, {1} ich dir empfohlen habe, ist vergriffen." (Akk.)
+      2. „Der Kollege, {2} ich zusammenarbeite, ist sehr erfahren." (Dat., mit)
+      3. „Die Schriftstellerin, {3} letzter Roman ein Erfolg wurde, lebt in der Provence." (Gen.)
+      4. „Das Thema, {4} wir sprachen, ist tabu." (Akk., über)
+      5. „Die Stadt, {5} ich aufgewachsen bin, liegt in Bayern." (Dat., in)
+      6. „Der Antrag, {6} wir morgen abstimmen, ist umstritten." (Akk., über)
+      7. „Frau Hoffmann, {7} in München lebt, ist die Lektorin." (Nom.)
+      8. „Das Auto, {8} meiner Frau gehört, ist rot." (Nom.)
+    answers:
+      "1": das
+      "2": mit dem
+      "3": deren
+      "4": über das
+      "5": in der
+      "6": über den
+      "7": die
+      "8": das
+
+  - id: B7
+    block: B
+    type: free-write
+    title: "Einen langen Satz in zwei kurze Sätze auflösen"
+    prompt: "Löse den folgenden Schachtelsatz in zwei bis drei kürzere, klarere Sätze auf. Achte darauf, dass die Apposition und die Parenthese nicht verloren gehen."
+    stimulus: |
+      Originalsatz: „Der Protagonist, ein vor dem Krieg geborener Intellektueller, der die ganze Nazizeit im Exil verbrachte und nach 1945 in seine zerstörte Heimatstadt zurückkehrte, die er kaum wiedererkannte, beginnt ein neues Leben."
+    use:
+      - "Apposition als eigener Satz oder als Kurzklammer"
+      - "Relativsatz als eigener Satz mit deutlichem Subjekt"
+      - "Parenthese als erläuternder Zwischensatz"
+    selfCheck:
+      - "Bleiben alle Informationen des Originalsatzes erhalten?"
+      - "Ist jeder neue Satz grammatisch vollständig?"
+      - "Wird die Apposition jetzt im richtigen Kasus verwendet?"
+      - "Ist die Lesbarkeit verbessert?"
+    model: |
+      Der Protagonist beginnt ein neues Leben. Er war ein Intellektueller, der vor dem Krieg geboren wurde. Die ganze Nazizeit über hatte er im Exil verbracht. Nach 1945 kehrte er in seine Heimatstadt zurück — doch die Stadt war zerstört und er erkannte sie kaum wieder.
+
+  - id: B8
+    block: B
+    type: single-choice
+    title: "Komma-Setzung: korrekt oder falsch?"
+    instructions: "Welche Version ist korrekt? Wähle (a) oder (b)."
+    items:
+      - q: '„Das Buch, das sie mir empfohlen hatte war ausverkauft.“ vs. „Das Buch, das sie mir empfohlen hatte, war ausverkauft.“'
+        options:
+          - { key: a, text: "Version 1 (kein Komma nach dem Relativsatz)." }
+          - { key: b, text: "Version 2 (Komma nach dem Relativsatz)." }
+        answer: b
+        why: "Ein Relativsatz wird durch Kommas vom Hauptsatz abgetrennt, wenn er in der Mitte steht."
+      - q: '„Berlin die Hauptstadt Deutschlands hat 3,6 Millionen Einwohner.“ vs. „Berlin, die Hauptstadt Deutschlands, hat 3,6 Millionen Einwohner.“'
+        options:
+          - { key: a, text: "Version 1 (keine Kommas)." }
+          - { key: b, text: "Version 2 (Kommas um die Apposition)." }
+        answer: b
+        why: "Appositionen werden mit Kommas abgetrennt."
+      - q: '„Sein Bruder ein stiller Beobachter bemerkte die Szene.“ vs. „Sein Bruder — ein stiller Beobachter — bemerkte die Szene.“'
+        options:
+          - { key: a, text: "Version 1 (keine Klammer)." }
+          - { key: b, text: "Version 2 (Gedankenstriche)." }
+        answer: b
+        why: "Eine Parenthese muss durch zwei Gedankenstriche oder Klammern abgetrennt sein."
+      - q: '„Der Bürgermeister der dies versprochen hatte trat zurück.“ vs. „Der Bürgermeister, der dies versprochen hatte, trat zurück.“'
+        options:
+          - { key: a, text: "Version 1 (keine Kommas)." }
+          - { key: b, text: "Version 2 (Kommas um den Relativsatz)." }
+        answer: b
+        why: "Relativsätze in der Satzmitte werden durch Kommas abgetrennt."
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "Drei Werkzeuge in einem kurzen Aufsatz"
+    prompt: "Schreib einen kurzen Aufsatz (8–10 Sätze) über ein Thema deiner Wahl (z. B. ein Buch, ein Ereignis, eine Person). Verwende dabei mindestens (1) eine Apposition, (2) eine Parenthese, (3) ein vorangestelltes Partizipialattribut, (4) einen nachgestellten Relativsatz und (5) eine Ellipse in einer Zwischenüberschrift oder einem Motto."
+    stimulus: |
+      Themen-Vorschläge: ein Buch, das dich beeindruckt hat · eine historische Persönlichkeit · ein Erlebnis aus deinem Berufsalltag.
+    use:
+      - "Apposition im korrekten Kasus"
+      - "Parenthese in Gedankenstrichen"
+      - "Vorangestelltes Partizipialattribut (max. 3 Attribute)"
+      - "Nachgestellter Relativsatz mit Präposition"
+      - "Ellipse in einer Zwischenüberschrift"
+    selfCheck:
+      - "Hast du wirklich alle fünf Werkzeuge verwendet?"
+      - "Stimmt der Kasus der Apposition?"
+      - "Ist die Parenthese vollständig eingeklammert?"
+      - "Steht das finite Verb im Relativsatz am Ende?"
+    model: |
+      „Lesen — bildet."
+
+      Kürzlich las ich „Die Stunde Null", ein 2020 erschienener Roman, der die Nachkriegszeit aus der Perspektive dreier Schwestern erzählt. Die Autorin — eine promovierte Historikerin — verwebt in diesem Buch, das zu Unrecht wenig Beachtung gefunden hat, biografische Quellen mit fiktionalen Szenen. Die Schwestern, deren Schicksale sich auf engstem Raum kreuzen, stehen stellvertretend für eine ganze Generation. Was mich — und das hat mich überrascht — am meisten beeindruckt hat, ist die Sprache: kurze, klare Sätze, keine Effekthascherei. Die Leser, mit denen ich über das Buch sprach, waren sich einig: Dieses Buch verdient mehr Aufmerksamkeit.
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext: Werkzeuge der komplexen Syntax"
+    instructions: "Füll jede Lücke mit **einem** passenden Wort (Fachbegriff oder Satzteil). 10 Items."
+    text: |
+      Eine {1} ist ein langer Satz, der aus einem Hauptsatz und mehreren
+      Nebensätzen besteht. Im Nebensatz steht das finite Verb am {2},
+      im Hauptsatz auf Position 2. Eine {3} ist eine gleichsetzende
+      Beifügung im gleichen Kasus wie das Bezugswort: „Berlin, {4},
+      hat 3,6 Millionen Einwohner." Eine {5} ist eine eingeschobene
+      Erläuterung, oft in {6} oder Gedankenstrichen. Ein
+      {7} Attribut steht vor dem Nomen
+      („die 1990 gegründete Firma"), ein {8} Attribut steht
+      danach („der Mann, mit dem ich sprach"). Eine {9} ist die
+      bewusste Auslassung: „Sie nach Berlin, er nach München." Eine
+      {10} verschiebt lange Gliedsätze ins Nachfeld.
+    answers:
+      "1": "Satzperiode"
+      "2": "Ende"
+      "3": "Apposition"
+      "4": "die Hauptstadt Deutschlands"
+      "5": "Parenthese"
+      "6": "Klammern"
+      "7": "vorangestelltes"
+      "8": "nachgestelltes"
+      "9": "Ellipse"
+      "10": "Ausklammerung"
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle die stilistisch korrekte Option (a, b oder c) für jede Lücke."
+    items:
+      - q: "Berlin, ____ Hauptstadt Deutschlands, hat 3,6 Millionen Einwohner."
+        options:
+          - { key: a, text: "die" }
+          - { key: b, text: "der" }
+          - { key: c, text: "den" }
+        answer: a
+        why: 'Apposition im Nominativ (gleich wie „Berlin") — „die Hauptstadt" (feminin, Nom. Sg.).'
+      - q: "Wir trafen Herrn Schneider, ____ erfahrenen Anwalt."
+        options:
+          - { key: a, text: "den" }
+          - { key: b, text: "der" }
+          - { key: c, text: "dem" }
+        answer: a
+        why: '„Herrn Schneider" steht im Akkusativ — Apposition muss im gleichen Kasus stehen: „den erfahrenen Anwalt" (Akk. Sg. maskulin).'
+      - q: "Sein Bruder — ____ stiller Beobachter — bemerkte die Szene."
+        options:
+          - { key: a, text: "—" }
+          - { key: b, text: "(" }
+          - { key: c, text: "„ (Gedankenstrich)" }
+        answer: b
+        why: "Parenthese in Klammern (oder Gedankenstrichen) — hier Klammern geöffnet."
+      - q: "Die ____ Krise spitzt sich zu."
+        options:
+          - { key: a, text: "sich verschärfende" }
+          - { key: b, text: "seit Monaten andauernde" }
+          - { key: c, text: "von der Regierung ignorierte" }
+        answer: b
+        why: 'Partizip I (Infinitiv + d), vorangestellt vor dem Nomen — „andauern" → „andauernde". Möglich sind mehrere; (b) ist eine korrekte Variante mit nur einem Attribut.'
+      - q: "Der Bürgermeister, ____ wir morgen sprechen, hat noch nicht geantwortet."
+        options:
+          - { key: a, text: "mit dem" }
+          - { key: b, text: "mit der" }
+          - { key: c, text: "mit den" }
+        answer: a
+        why: '„an + Akkusativ" bei Bewegungsrichtung; „Bürgermeister" maskulin → „mit dem".'
+      - q: "____ Berlin, er nach München."
+        options:
+          - { key: a, text: "Sie fährt nach" }
+          - { key: b, text: "Sie nach" }
+          - { key: c, text: "Sie ging nach" }
+        answer: b
+        why: 'Ellipse — die finite Verbform „fährt" ist ausgelassen: „Sie [fährt] nach Berlin, [und] er [fährt] nach München".'
+      - q: "Es wurde gestern ____ : Der Minister tritt zurück."
+        options:
+          - { key: a, text: "bekannt" }
+          - { key: b, text: "erfahren" }
+          - { key: c, text: "gemacht" }
+        answer: a
+        why: '„Es wurde … bekannt" — feste Wendung mit Doppelpunkt + selbstständigem Satz im Nachfeld (Ausklammerung).'
+
+  - id: C3
+    block: C
+    type: gap-bank
+    bankCase: upper
+    bankSort: true
+    title: "Sprachbausteine Teil 2 (Wortbank)"
+    instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
+    text: |
+      Eine {1} ist ein langer Satz aus Haupt- und {2}. Eine
+      {3} ist eine gleichsetzende Beifügung im {4} Kasus wie das
+      Bezugswort. Eine {5} ist eine eingeschobene Erläuterung
+      in Gedankenstrichen oder {6}. Ein vorangestelltes Attribut
+      nennt man auch {7}. Eine {8} ist die bewusste Auslassung
+      eines Wortes oder Satzteils. Wer den langen Satz nicht beherrscht,
+      sollte lieber {9} Sätze schreiben. Im Feuilleton sind lange
+      Sätze {10}.
+    bank: [SATZPERIODE, NEBENSÄTZEN, APPOSITION, GLEICHEN, KLAMMERN, PARENTHESE, PARTIZIPIALATTRIBUT, ELLIPSE, KURZE, LANG, ÜBLICH, SELTEN, ERLAUBT, PARTIZIP, VERBOTEN]
+    answers:
+      "1": "SATZPERIODE"
+      "2": "NEBENSÄTZEN"
+      "3": "APPOSITION"
+      "4": "GLEICHEN"
+      "5": "PARENTHESE"
+      "6": "KLAMMERN"
+      "7": "PARTIZIPIALATTRIBUT"
+      "8": "ELLIPSE"
+      "9": "KURZE"
+      "10": "ERLAUBT"
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Lesetext: Die Rückkehr des langen Satzes)"
+    instructions: |
+      > Der lange Satz ist tot — es lebe der lange Satz. Diese paradox klingende Diagnose stellen seit einigen Jahren Germanisten, die in den Feuilletons der überregionalen Zeitungen, namentlich der *Frankfurter Allgemeinen Zeitung*, der *Süddeutschen Zeitung* und der *Neuen Zürcher Zeitung*, eine erstaunliche Renaissance der **Satzperiode** beobachten. Während der alltägliche Sprachgebrauch, der von WhatsApp-Nachrichten und Kurzmeldungen dominiert wird, immer stärker zur **Ellipse** und zum **Telegrammstil** tendiert — Stichworte, Aufzählungen, abgehackte Sätze —, sucht die geschriebene Form, die Essayistik und die Literatur, wieder die **dichte Periode**, den langen, geschachtelten Satz, der mehrere Gedanken in einer einzigen syntaktischen Bewegung zusammenführt.
+      >
+      > Die Ursachen dieser Entwicklung sind vielschichtig. Einerseits hat die Wissenschaftssprache, die ohnehin auf Genauigkeit und Differenzierung angewiesen ist, schon immer lange Sätze bevorzugt. Andererseits hat der Feuilleton-Journalismus, der zwischen Information und Reflexion oszilliert, ein genuines Interesse an Sätzen, die ihre Aussage nicht in zwei, drei Häppchen zerlegen, sondern sie als ein zusammenhängendes **Gedankengebäude** entfalten. Schließlich — und das ist die spannendste These — hat die **Digitalisierung der Lektüre** dazu geführt, dass Leserinnen und Leser, die täglich Hunderte von Bildschirmtexten verarbeiten, geradezu ein Verlangen nach Sätzen entwickeln, die **rhythmisch komplex** sind, die den Leser fordern und belohnen.
+      >
+      > Wer einen langen Satz schreibt, muss fünf Werkzeuge beherrschen — und das ist die Botschaft dieses Textes: die **Apposition**, die gleichsetzende Beifügung (*Berlin, die Hauptstadt Deutschlands*); die **Parenthese**, die eingeschobene Erläuterung (*Die Schriftstellerin — so erzählt man sich — lebt seit Jahren im Ausland*); das **vorangestellte Attribut**, das viele Informationen vor dem Nomen versammelt (*die seit Jahren andauernde, von der Regierung ignorierte Krise*); das **nachgestellte Attribut**, das als Relativsatz oder Präpositionalattribut das Nomen erläutert (*die Krise, die seit Jahren andauert und die von der Regierung ignoriert wird*); und schließlich die **Ellipse**, die bewusste Auslassung (*Sie nach Berlin, er nach München*). Wer diese fünf Werkzeuge nicht beherrscht, sollte keine langen Sätze schreiben. Wer sie beherrscht, wird feststellen, dass die Satzperiode nicht ein Relikt vergangener Zeiten ist, sondern ein lebendiges Stilmittel der Gegenwart.
+
+      Richtig (R) oder Falsch (F)?
+    items:
+      - q: "Laut Text beobachten Germanisten in den letzten Jahren eine Renaissance der Satzperiode."
+        answer: true
+        why: '„eine erstaunliche Renaissance der Satzperiode beobachten".'
+      - q: "Der alltägliche Sprachgebrauch tendiert laut Text zu längeren, verschachtelteren Sätzen."
+        answer: false
+        why: '„immer stärker zur Ellipse und zum Telegrammstil tendiert" — kürzer, nicht länger.'
+      - q: "Wissenschaftssprache und Feuilleton-Journalismus haben laut Text kein Interesse an langen Sätzen."
+        answer: false
+        why: 'Beide haben genuines Interesse — Wissenschaft wegen Genauigkeit, Feuilleton wegen Reflexion.'
+      - q: "Der Text nennt fünf Werkzeuge, die man beherrschen muss, um lange Sätze zu schreiben."
+        answer: true
+        why: '„Apposition, Parenthese, vorangestelltes Attribut, nachgestelltes Attribut, Ellipse" — fünf Werkzeuge.'
+      - q: "Der Text behauptet, die Satzperiode sei ein Relikt vergangener Zeiten."
+        answer: false
+        why: '„die Satzperiode nicht ein Relikt vergangener Zeiten ist, sondern ein lebendiges Stilmittel der Gegenwart".'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Forumsdiskussion: Sind lange Sätze noch zeitgemäß?)"
+    instructions: |
+      Lies die folgenden Forumsbeiträge und wähle a, b oder c.
+
+      > **Beitrag 1 — Markus_K (Moderator):**
+      > Liebe Forenmitglieder, die Frage, ob der lange Satz im Deutschen noch zeitgemäß ist, wird seit Jahren kontrovers diskutiert. Wir möchten Sie einladen, Ihre Meinung zu diesem Thema mitzuteilen. Bitte beachten Sie, dass Beiträge mit mehr als drei verschachtelten Nebensätzen möglicherweise gekürzt werden.
+      >
+      > **Beitrag 2 — Anna_B:**
+      > Leute, ehrlich gesagt: ich hab keine Lust mehr auf diese Schachtelsätze. Wer schreibt sowas noch? Wenn ich einen Satz dreimal lesen muss, klick ich weg. Telegrammstil, kurze Sätze, fertig.
+      >
+      > **Beitrag 3 — Dr. Yusuf El-Sayed:**
+      > Ich würde anregen, zwischen den verschiedenen Diskursdomänen zu differenzieren. In der Wissenschaft und im Feuilleton, wo Präzision und Differenzierung erforderlich sind, hat die Satzperiode ihren festen Platz; in der digitalen Alltagskommunikation hingegen ist die Ellipse funktional. Beide Register haben ihre Berechtigung.
+      >
+      > **Beitrag 4 — Tomáš_N (User):**
+      > Ich find's ehrlich gesagt schade, dass die Kunst des langen Satzes verloren geht. Auf Tschechisch ist das übrigens genauso — wer gut schreibt, kann auch gut schachteln. Aber im Netz, ja, da gewinnt der kurze Satz.
+    items:
+      - q: "Welche syntaktische Konstruktion dominiert in Beitrag 1 (Markus_K)?"
+        options:
+          - { key: a, text: "Ellipsen und Telegrammstil." }
+          - { key: b, text: "Lange Satzperiode mit Nebensätzen, Appositionen und Passivkonstruktionen." }
+          - { key: c, text: "Ausschließlich kurze Hauptsätze." }
+        answer: b
+        why: '„die Frage, ob der lange Satz … noch zeitgemäß ist" + „Bitte beachten Sie, dass Beiträge mit mehr als drei verschachtelten Nebensätzen möglicherweise gekürzt werden" — lange Satzperiode, gehoben-formelles Register.'
+      - q: "Welche syntaktische Strategie vertritt Beitrag 2 (Anna_B)?"
+        options:
+          - { key: a, text: "Sie verteidigt den langen Satz." }
+          - { key: b, text: "Sie bevorzugt kurze Sätze und Telegrammstil." }
+          - { key: c, text: "Sie schlägt mehr Appositionen vor." }
+        answer: b
+        why: '„Telegrammstil, kurze Sätze, fertig." — explizite Präferenz für Kürze.'
+      - q: "Welche These vertritt Beitrag 3 (Yusuf)?"
+        options:
+          - { key: a, text: "Wissenschaft und Alltag sollen das gleiche Register benutzen." }
+          - { key: b, text: "Unterschiedliche Diskursdomänen verlangen unterschiedliche syntaktische Mittel." }
+          - { key: c, text: "Lange Sätze sollten ganz abgeschafft werden." }
+        answer: b
+        why: '„zwischen den verschiedenen Diskursdomänen zu differenzieren … Beide Register haben ihre Berechtigung".'
+      - q: "Welches Werkzeug der komplexen Syntax erwähnt Tomáš_N (Beitrag 4) explizit?"
+        options:
+          - { key: a, text: "Die Apposition." }
+          - { key: b, text: "Das Schachteln von Sätzen." }
+          - { key: c, text: "Die Ausklammerung." }
+        answer: b
+        why: '„wer gut schreibt, kann auch gut schachteln" — Verweis auf verschachtelte Sätze (Schachtelsätze).'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Einen Zeitungsartikel mit komplexer Syntax verfassen"
+    prompt: 'Verfasse einen kurzen Zeitungsartikel (12–15 Sätze) im gehobenen Register zum Thema „Die Rückkehr des langen Satzes in der deutschen Literatur". Verwende dabei mindestens eine Satzperiode, eine Apposition, eine Parenthese, ein vorangestelltes und ein nachgestelltes Attribut. Schließe den Artikel mit einer pointierten Ellipse.'
+    use:
+      - "Mindestens eine Satzperiode mit 2–3 Nebensätzen"
+      - "Mindestens eine Apposition im korrekten Kasus"
+      - "Mindestens eine Parenthese in Gedankenstrichen"
+      - "Mindestens ein vorangestelltes Partizipialattribut"
+      - "Mindestens ein nachgestellter Relativsatz mit Präposition"
+      - "Schluss: eine Ellipse als pointiertes Ende"
+    selfCheck:
+      - "Steht das finite Verb in jedem Nebensatz am Satzende?"
+      - "Steht die Apposition im gleichen Kasus wie das Bezugswort?"
+      - "Sind alle Klammern (Gedankenstriche, Klammern) sauber geschlossen?"
+      - "Bleibt das Register durchgehend gehoben?"
+    model: |
+      Die Rückkehr des langen Satzes — eine stille Revolution in der deutschen Literatur der Gegenwart? Diese Frage stellen derzeit Germanisten, Feuilleton-Redakteure und Leser gleichermaßen. Während die digitale Kommunikation, die von Kurzmeldungen, WhatsApp-Nachrichten und algorithmisch erzeugten Texten dominiert wird, immer stärker zur Ellipse und zum Telegrammstil tendiert, sucht die geschriebene Literatur, namentlich die Essayistik und der Roman, wieder die dichte Periode — den langen, geschachtelten Satz, der mehrere Gedanken in einer einzigen syntaktischen Bewegung zusammenführt. Die Gründe dieser Entwicklung sind, so viel lässt sich sagen, vielschichtig. Einerseits hat die Wissenschaftssprache, die seit jeher auf Genauigkeit und Differenzierung angewiesen ist, schon immer lange Sätze bevorzugt; andererseits, und das ist die spannendere These, hat die Lektüre am Bildschirm, die täglich Hunderte von Texten verarbeitet, geradezu ein Verlangen nach rhythmisch komplexen Sätzen erzeugt, die den Leser fordern und belohnen. Die Schriftstellerin, deren letzter Roman — ein vieldiskutiertes Werk über das kollektive Vergessen — seit Monaten die Bestsellerlisten anführt, gehört zu jenen Autorinnen, die diese Kunst bewusst pflegen. Lesen — bildet. Und schachteln — kann man lernen.
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items."
+    text: |
+      **Werkzeuge (C1/02):**
+      1. Gleichsetzende Beifügung im gleichen Kasus: {1}
+      2. Eingeschobene Erläuterung in Gedankenstrichen: {2}
+      3. Bewusste Auslassung: {3}
+      4. Verb-Endstellung im {4}.
+      5. Vorangestelltes Attribut mit Infinitiv + d: {5}-Attribut.
+
+      **Relativpronomen:**
+      6. „Das Buch, {6} ich empfohlen habe." (Akk.)
+      7. „Die Stadt, {7} ich wohne." (Dat., in)
+
+      **Wiederholung (B2/05 Partizipien):**
+      8. (B2/05) „die 1990 {8} Firma" (gegründete / gründete)
+      9. (B2/05) Partizip I von „lachen": {9}
+
+      **Wiederholung (B1/05 Relativsätze):**
+      10. (B1/05) Relativpronomen für „der Mann, mit {10} ich sprach" (Dat.)
+      11. (B1/05) Relativpronomen für „die Frau, {11} ich traf" (Akk.)
+
+      **Wiederholung (C1/01 Register):**
+      12. (C1/01) Register der Fachsprache: kurz, lang, fachterminologisch, {12}.
+      13. (C1/01) Modalpartikel der Resignation: {13}.
+
+      **Wiederholung (B2/01 Nominalstil):**
+      14. (B2/01) Nominalstil von „weil die Nachfrage stieg": {14}
+      15. (B2/01) FVG: „eine Entscheidung {15}" (treffen / stellen)
+    answers:
+      "1": "Apposition"
+      "2": "Parenthese"
+      "3": "Ellipse"
+      "4": "Nebensatz"
+      "5": "Partizipial"
+      "6": "das"
+      "7": "in der"
+      "8": "gegründete"
+      "9": "lachend"
+      "10": "dem"
+      "11": "die"
+      "12": "sachlich"
+      "13": "halt"
+      "14": "Wegen der steigenden Nachfrage"
+      "15": "treffen"
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Streiche das Wort oder die Konstruktion, die nicht passt, und erkläre warum."
+    groups:
+      - items: ["Apposition", "Parenthese", "Attribut", "Konjunktiv"]
+        odd: 3
+        why: "Konjunktiv ist eine Verbform; die anderen drei sind syntaktische Werkzeuge (Beifügungen)."
+      - items: ["Partizipialattribut", "Genitivattribut", "Präpositionalattribut", "Konjunktionaladverb"]
+        odd: 3
+        why: 'Konjunktionaladverb (z. B. „deshalb") ist kein Attribut; die anderen drei sind Beifügungen zum Nomen.'
+      - items: ["Gedankenstriche", "Klammern", "Kommas", "Semikolons"]
+        odd: 3
+        why: "Semikolon verbindet Sätze; die anderen drei markieren Parenthesen / Appositionen."
+      - items: ["Sie nach Berlin", "er nach München", "Wir nach Hause", "Sehr geehrte Frau"]
+        odd: 3
+        why: '„Sehr geehrte Frau" ist eine Anrede, keine Ellipse; die anderen drei sind Verb-Ellipsen.'
+      - items: ["vorangestellt", "nachgestellt", "ausgeklammert", "partizipial"]
+        odd: 3
+        why: '„partizipial" beschreibt die Form (Partizip I oder II); die anderen drei beschreiben die Stellung.'
+      - items: ["Satzperiode", "Schachtelsatz", "Nominalstil", "Ellipse"]
+        odd: 2
+        why: "Nominalstil ist eine Stilebene (vgl. B2/01); die anderen drei sind syntaktische Werkzeuge."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: B2/05, B1/05, B2/01, C1/01"
+    instructions: "Wiederholung früherer Lektionen. 10 Items."
+    text: |
+      **Aus B2/05 (Partizipien als Attribute):**
+      1. Partizip I von „klingen": {1}.
+      2. Partizip II von „gründen": {2}.
+
+      **Aus B1/05 (Relativsätze):**
+      3. Relativpronomen für „das Buch, {3} ich lese" (Akk.).
+      4. Relativpronomen für „die Stadt, {4} ich wohne" (Dat., in).
+
+      **Aus B2/01 (Nominalstil/Verbalstil):**
+      5. Nominalstil von „weil die Kosten stiegen": {5}.
+      6. Verbalstil von „die Prüfung des Antrags": {6}.
+
+      **Aus C1/01 (Stil und Register):**
+      7. Stilebene für „Würden Sie mir bitte …": {7}.
+      8. Modalpartikel der Bekräftigung: {8}.
+
+      **Aus B2/01 (Ausklammerung):**
+      9. Ausklammerung verschiebt lange Gliedsätze ins {9}.
+      10. Im {10} steht das finite Verb im Hauptsatz.
+    answers:
+      "1": "klingend"
+      "2": "gegründet"
+      "3": "das"
+      "4": "in der"
+      "5": "Wegen der gestiegenen Kosten"
+      "6": "man prüft den Antrag"
+      "7": "gehoben"
+      "8": "doch"
+      "9": "Nachfeld"
+      "10": "Mittelfeld"
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (bewerte dich /20)"
+    notes: "16+ / 20 → Lektion C1/03. Unter 16 → wiederhol morgen Block A (A1–A10) und Block B (B1–B9), dann mach D4 noch einmal."
+    text: |
+      **Werkzeuge benennen:**
+      1. „Berlin, die Hauptstadt Deutschlands." → {1}
+      2. „Sein Bruder — so erzählt man sich — …" → {2}
+      3. „Die 1990 gegründete Firma." → {3}
+      4. „Der Mann, mit dem ich sprach." → {4}
+      5. „Sie nach Berlin, er nach München." → {5}
+
+      **Kasus der Apposition:**
+      6. „Ich kenne Herrn Schneider, {6} erfahrenen Anwalt." (Akk.)
+      7. „Ich arbeite mit Frau Müller, {7} neuen Chefin." (Dat.)
+
+      **Relativpronomen:**
+      8. „Das Buch, {8} ich empfohlen habe." (Akk.)
+      9. „Die Stadt, {9} ich wohne." (Dat., in)
+
+      **Partizip I:**
+      10. Partizip I von „klingen": {10}.
+
+      **Partizip II:**
+      11. Partizip II von „gründen": {11}.
+
+      **Verb-Stellung:**
+      12. Im Nebensatz steht das finite Verb am {12}.
+      13. Im Hauptsatz steht das finite Verb auf Position {13}.
+
+      **Wiederholung (B2/05):**
+      14. (B2/05) „die 1990 gegründete Firma" — welches Partizip? {14}
+
+      **Wiederholung (B1/05):**
+      15. (B1/05) Relativpronomen für „das Buch, das ich lese": {15}
+
+      **Wiederholung (C1/01):**
+      16. (C1/01) Stilebene für „Ey, haste mal 'nen Euro?": {16}
+
+      **Wiederholung (B2/01):**
+      17. (B2/01) Ausklammerung verschiebt ins {17}.
+
+      **Wiederholung (C1/01):**
+      18. (C1/01) Konjunktiv II als {18}-Marker.
+
+      **Wiederholung (B2/08):**
+      19. (B2/08) FVG: „eine Entscheidung {19}" (treffen / stellen)
+
+      **Wiederholung (B1/06):**
+      20. (B1/06) Final-Konnektor: „Ich lerne, {20} eine Stelle zu finden."
+    answers:
+      "1": "Apposition"
+      "2": "Parenthese"
+      "3": "Partizipialattribut (vorangestellt)"
+      "4": "Relativsatz (nachgestellt)"
+      "5": "Ellipse"
+      "6": "den"
+      "7": "der"
+      "8": "das"
+      "9": "in der"
+      "10": "klingend"
+      "11": "gegründet"
+      "12": "Ende"
+      "13": "2"
+      "14": "II"
+      "15": "das"
+      "16": "umgangssprachlich"
+      "17": "Nachfeld"
+      "18": "Distanz"
+      "19": "treffen"
+      "20": "um"
