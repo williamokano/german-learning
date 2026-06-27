@@ -383,7 +383,16 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Brunos Abenteuer in Blumenau
 
-Read „Brunos Abenteuer in Blumenau" in `lesson.md`, section 7. Richtig (R) oder Falsch (F)?
+> Bruno kommt aus Blumenau in Brasilien — das ist eine Stadt im Süden (in the south), bekannt für ihr deutsches Erbe und ihr Oktoberfest. Früher hat er dort bei seinen Eltern gewohnt. Als Kind hat er oft im Park gespielt und Fußball gekickt. Mit siebzehn Jahren hat er angefangen, Englisch zu lernen — zuerst in der Schule, dann mit einem Sprachkurs in der Stadt. Er wollte unbedingt reisen und etwas von der Welt sehen.
+>
+> Mit zwanzig hat er beschlossen, nach Deutschland zu gehen. Der Traum war schon lange da. Aber das war nicht einfach — er musste viel Papierkram erledigen, einen Deutschkurs besuchen und Geld sparen. Zuerst hat er nur wenig verstanden, aber danach ist es schnell besser geworden. Er hat viele nette Leute kennengelernt und viel erlebt.
+>
+> Schließlich ist Bruno nach Berlin umgezogen. Er hat eine kleine Wohnung gefunden, einen Intensivkurs angefangen und sofort neue Freunde gemacht. Er hat in Cafés telefoniert, in Parks gelesen und die Stadt fotografiert. Jede Woche war ein neues Erlebnis.
+>
+> Am Ende hat er sogar Anna kennengelernt — die beste Entscheidung seines Lebens, wie er sagt. Heute ist Berlin seine Stadt. Die Erinnerung an Blumenau trägt er immer im Herzen, aber sein Abenteuer ist hier.
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Bruno ist in Berlin geboren. ( )
 2. Mit siebzehn hat er begonnen, Englisch zu lernen. ( )
