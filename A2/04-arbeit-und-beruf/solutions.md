@@ -29,6 +29,15 @@
 3. **a) Am Mittwoch, dem achtzehnten Juni, um zehn Uhr.** — Mittwoch, dem achtzehnten Juni, um zehn Uhr.
 4. **b) Bis Freitag.** — Bis Freitag.
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Bewerbungsgespräch)
+
+| Person / Position | Erfahrung | Frist |
+|---|---|---|
+| Frau Weber | **Frau Weber** | drei Jahre als Koordinatorin | — |
+| Stellvertretende Projektleiterin | **Frau Weber** | zwei Jahre | — |
+| Unterlagen einreichen | **Frau Weber** | — | **bis Montag** |
+| Antwort bekommen | **Frau Weber** | — | **bis Mittwoch** |
+
 ---
 
 # Block A — Basistraining

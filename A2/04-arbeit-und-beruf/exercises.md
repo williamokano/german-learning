@@ -60,6 +60,19 @@ Listen to the phone message. Then choose the correct answer (a, b, or c). Listen
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Bewerbungsgespräch)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Person / Position | Erfahrung | Frist |
+|---|---|---|
+| Frau Weber | ______ | drei Jahre als Koordinatorin | — |
+| Stellvertretende Projektleiterin | ______ | zwei Jahre | — |
+| Unterlagen einreichen | ______ | — | ______ |
+| Antwort bekommen | ______ | — | ______ |
+
 ---
 
 # Block A — Basistraining

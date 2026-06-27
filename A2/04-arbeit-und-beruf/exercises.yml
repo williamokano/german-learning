@@ -113,6 +113,35 @@ exercises:
         answer: b
         why: "Bis Freitag."
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (Bewerbungsgespräch)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Person / Position", "Erfahrung", "Frist"]
+    rows:
+      - label: "Frau Weber"
+        cells:
+          - { gap: 1, answer: "Frau Weber" }
+          - { gap: 2, answer: "drei Jahre als Koordinatorin", given: "drei Jahre als Koordinatorin" }
+          - { gap: 3, answer: "—", given: "—" }
+      - label: "Stellvertretende Projektleiterin"
+        cells:
+          - { gap: 4, answer: "Frau Weber" }
+          - { gap: 5, answer: "zwei Jahre", given: "zwei Jahre" }
+          - { gap: 6, answer: "—", given: "—" }
+      - label: "Unterlagen einreichen"
+        cells:
+          - { gap: 7, answer: "Frau Weber" }
+          - { gap: 8, answer: "—", given: "—" }
+          - { gap: 9, answer: "bis Montag" }
+      - label: "Antwort bekommen"
+        cells:
+          - { gap: 10, answer: "Frau Weber" }
+          - { gap: 11, answer: "—", given: "—" }
+          - { gap: 12, answer: "bis Mittwoch" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1
