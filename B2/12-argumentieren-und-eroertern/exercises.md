@@ -387,7 +387,13 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Streitkultur in der Redaktion)
 
-Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?
+> Eine Tageszeitung lebt von Meinungen — aber sie lebt auch vom Streit um sie. Jeden Tag erscheinen Dutzende Leserbriefe zu kontroversen Themen: autofreie Innenstädte, Tempolimit, Mietendeckel, KI in der Schule. **Einerseits** ist diese Vielfalt ein Zeichen für eine lebendige Demokratie. **Andererseits** beklagen Redaktionen seit Jahren, dass viele Briefe nicht mehr enthalten als eine bloße Behauptung.
+> **Dafür spricht**, dass die Zeitung ohne Leserbriefe an Lebendigkeit verliert. Leserinnen und Leser erwarten, dass ihre Stimme zählt. **Dagegen spricht**, dass die meisten Zuschriften weder Belege noch Beispiele enthalten. Wer schreibt „Homeoffice ist schlecht", ohne zu sagen, **wodurch** es schlecht ist und **welche Studien** das belegen, bewegt die Debatte kein Stück.
+> **Meiner Meinung nach** liegt das Problem nicht in den Meinungen selbst, sondern in der fehlenden Struktur. Ein guter Leserbrief folgt der gleichen Architektur wie eine Erörterung: **These** (klare Position), **Argumente** (mit Belegen), **Gegenargument** (ernst genommen und widerlegt), **Fazit** (kurz und klar). **Sowohl** die Redaktion als auch die Lesenden profitieren, wenn diese Struktur eingehalten wird.
+> **Obwohl** nicht jeder Leserbrief perfekt sein muss, **so steigt** doch die Qualität der Debatte, **indem** die Zeitung kurze Leitfäden für gute Zuschriften veröffentlicht. **Sofern** die Redaktion solche Hilfen anbietet, **werden** Leserbriefe zu dem, was sie sein sollten: kleine, gut begründete Erörterungen. **Je** mehr gute Briefe erscheinen, **desto** lebendiger wird die öffentliche Debatte — **es sei denn**, die Bereitschaft zum Argumentieren geht weiter zurück.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Im Lesetext wird gesagt, dass die meisten Leserbriefe Belege und Beispiele enthalten. ( )
 2. Laut Lesetext ist ein guter Leserbrief wie eine kleine Erörterung aufgebaut. ( )
