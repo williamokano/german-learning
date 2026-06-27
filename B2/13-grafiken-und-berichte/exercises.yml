@@ -720,9 +720,13 @@ exercises:
       "3": MACHTE
       "4": AUS
       "5": VERGLEICH
-      "6": ZURÜCKGEGANGEN
+      "6":
+        - ZURÜCKGEGANGEN
+        - GESUNKEN
       "7": ERREICHT
-      "8": ERGIBT
+      "8":
+        - ERGIBT
+        - ZEIGT
       "9": LÄSST
       "10": STEHEN
 
@@ -887,7 +891,7 @@ exercises:
         why: 'kommt zurück ist kein reflexives Ableitungsverb — die anderen drei folgen dem Muster „sich + Verb".'
       - items: [Höchststand, Tiefststand, Durchschnitt, Tiefpunkt]
         odd: 3
-        why: "Tiefpunkt ist umgangssprachlich — die Standardform in Berichten ist Tiefststand."
+        why: "Tiefpunkt ist die allgemeine Form (auch für Stimmung, Verlauf etc.); für Datenberichte ist Tiefststand der fachliche Standardbegriff."
 
   - id: D3
     block: D

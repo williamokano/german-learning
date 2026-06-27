@@ -193,7 +193,7 @@ Am Ende der Woche schrieb Tom seinen ersten echten Bericht — fünf Sätze, jed
 <summary>📝 Lese-Check — beantworte in einem Satz</summary>
 
 > **1. Was war Toms Aufgabe in der ersten Woche?**
-> *Er sollte als Praktikant eine Kurve in drei Sätzen beschreiben — die Linie seiner Linie nach oben, dann seitwärts, dann leicht nach unten.*
+> *Er sollte als Praktikant eine Kurve in drei Sätzen beschreiben — die Linie ging nach oben, dann seitwärts, dann leicht nach unten.*
 >
 > **2. Welche Aussage ließ sich aus der Grafik ableiten?**
 > *Die Nutzung in Berlin hat sich zwischen 2020 und 2022 fast verfünffacht, stagniert seit 2022 auf hohem Niveau und ist seit Anfang 2024 leicht rückläufig.*
@@ -231,9 +231,9 @@ Am Ende der Woche schrieb Tom seinen ersten echten Bericht — fünf Sätze, jed
 > | ❌ Falsch | ✅ Richtig |
 > |---|---|
 > | *Die Zahl **steigert**.* | *Die Zahl **steigt**.* (steigen ist intransitiv — kein Objekt!) |
-> | *Die Zahl **steigt um 8 %** an.* — richtig, aber: *Die Zahl ist um 8 % **gestiegen**.* (Perfekt ohne „an") | *Die Zahl **steigt um 8 %** / **ist um 8 % gestiegen**.* |
+> | *Die Zahl **hat** um 8 % **angestiegen**.* | *Die Zahl **ist** um 8 % **angestiegen**.* (Bewegungsverb → Hilfsverb *sein*, nicht *haben*) |
 > | *Der Anteil **beträgt** zu 32 Prozent.* | *Der Anteil **beträgt** 32 Prozent.* (betragen + Akkusativ-Wert, kein „zu") |
-> | *Der Anteil **macht** 32 Prozent **aus**.* — Wortstellung! | *Der Anteil **macht** 32 Prozent **aus**.* (richtig) — Verwechslung mit *betragen*, das kein „aus" hat |
+> | *Der Anteil **beträgt** 32 Prozent **aus**.* (Verwechslung!) | *Der Anteil **macht** 32 Prozent **aus**.* (*betragen* hat kein „aus", *ausmachen* schon) |
 > | *Die Werte **steigen** zwischen 10 % und 15 %.* | *Die Werte **liegen** zwischen 10 und 15 Prozent.* (liegen für die Spanne, steigen für die Tendenz) |
 
 > 💡 **Lerntipp:** Häng an jedes Datenverb ein **Geschwindigkeits-Adverb**: *leicht* (klein), *deutlich* (mittel), *stark* (groß), *rapide* (sehr groß). Aus *steigen* allein weißt du nicht, ob sich der Wert verdoppelt oder kaum bewegt. Erst das Adverb macht die Aussage präzise. Außerdem: **steigen vs. zunehmen** sind synonym, aber *zunehmen* klingt etwas gehobener und passt besser in formelle Berichte.
@@ -364,7 +364,7 @@ Am Ende der Woche schrieb Tom seinen ersten echten Bericht — fünf Sätze, jed
 
 ### 6.4 Berichtssprache — Passiv + Funktionsverbgefüge aus B2/08
 
-**Warum?** Ein guter Bericht klingt **sachlich, distanziert und überprüfbar**. Genau das leisten zwei Werkzeuge, die du schon kennst: das **Passiv** (B2/02) und die **Funktionsverbgefüge** (B2/08). Mit dem Passiv rückst du die Sache in den Vordergrund (*es wird deutlich, dass …* — *die Daten wurden ausgewertet*); mit den FVG klingt dein Satzbau gehoben und „kompetent" (*Bezug nehmen auf, Schlussfolgerungen ziehen, in Betracht ziehen, zur Verfügung stehen*). Beide Werkzeuge gehören in jeden B2-Bericht — aber bitte dosiert: Ein Bericht, der nur aus Passiv und FVG besteht, wird zur Bleiwüste. Die黄金formel lautet: **Fakten formell beschreiben (Passiv + FVG), aber die persönliche Einschätzung im Verbalstil anschließen** (*Ich empfehle … / Aus meiner Sicht …*). So liest sich der Bericht sachlich, aber nicht steif.
+**Warum?** Ein guter Bericht klingt **sachlich, distanziert und überprüfbar**. Genau das leisten zwei Werkzeuge, die du schon kennst: das **Passiv** (B2/02) und die **Funktionsverbgefüge** (B2/08). Mit dem Passiv rückst du die Sache in den Vordergrund (*es wird deutlich, dass …* — *die Daten wurden ausgewertet*); mit den FVG klingt dein Satzbau gehoben und „kompetent" (*Bezug nehmen auf, Schlussfolgerungen ziehen, in Betracht ziehen, zur Verfügung stehen*). Beide Werkzeuge gehören in jeden B2-Bericht — aber bitte dosiert: Ein Bericht, der nur aus Passiv und FVG besteht, wird zur Bleiwüste. Die Goldformel lautet: **Fakten formell beschreiben (Passiv + FVG), aber die persönliche Einschätzung im Verbalstil anschließen** (*Ich empfehle … / Aus meiner Sicht …*). So liest sich der Bericht sachlich, aber nicht steif.
 
 **Beispiele (Berichtssprache mit Passiv und FVG):**
 
@@ -389,7 +389,7 @@ Am Ende der Woche schrieb Tom seinen ersten echten Bericht — fünf Sätze, jed
 > | *Man kann feststellen, dass …* (umgangssprachlich) | *Es lässt sich feststellen, dass …* (formell, ohne „man") |
 > | *Es **zeigt**, dass …* (reflexiv fehlt) | *Es **zeigt sich**, dass …* (immer reflexiv) |
 
-> 💡 **Lerntipp:** Drei Passiv-Eröffnungen, die du je nach Wichtigkeit einsetzen kannst: **Es zeigt sich, dass …** (Befund, neutral) — **Es lässt sich feststellen, dass …** (formell, mit Konklusion) — **Es wird deutlich, dass …** (stärker, mit Betonung). Für die黄金formel: **Fakten = Passiv + FVG; Einschätzung = Aktiv + Vollverb**. Beispiel: *„Aus der Grafik ergibt sich, dass die Nutzung seit 2024 leicht rückläufig ist. Die neuen Regelungen kommen als Ursache in Betracht. **Ich empfehle daher, die Auswirkungen in einer Folgestudie genauer zu untersuchen.**"*
+> 💡 **Lerntipp:** Drei Passiv-Eröffnungen, die du je nach Wichtigkeit einsetzen kannst: **Es zeigt sich, dass …** (Befund, neutral) — **Es lässt sich feststellen, dass …** (formell, mit Konklusion) — **Es wird deutlich, dass …** (stärker, mit Betonung). Für die Goldformel: **Fakten = Passiv + FVG; Einschätzung = Aktiv + Vollverb**. Beispiel: *„Aus der Grafik ergibt sich, dass die Nutzung seit 2024 leicht rückläufig ist. Die neuen Regelungen kommen als Ursache in Betracht. **Ich empfehle daher, die Auswirkungen in einer Folgestudie genauer zu untersuchen.**"*
 
 **Versuch es selbst.** Schreib aus diesen Stichworten einen formellen Berichtssatz: *Daten aus 2024 / Nutzung leicht rückläufig / neue Regelungen als Ursache →* ______
 

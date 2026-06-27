@@ -202,7 +202,7 @@ Selbstkorrektur:
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-1. **ZEITRAUM**  2. **GESTIEGEN**  3. **MACHTE**  4. **AUS**  5. **VERGLEICH**  6. **ZURÜCKGEGANGEN**  7. **ERREICHT**  8. **ERGIBT**  9. **LÄSST**  10. **STEHEN**
+1. **ZEITRAUM**  2. **GESTIEGEN**  3. **MACHTE**  4. **AUS**  5. **VERGLEICH**  6. **ZURÜCKGEGANGEN** (auch richtig: **GESUNKEN**)  7. **ERREICHT**  8. **ERGIBT** (auch richtig: **ZEIGT**)  9. **LÄSST**  10. **STEHEN**
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Warum Prozent nicht gleich Prozent ist)
 
@@ -257,7 +257,7 @@ Selbstkorrektur:
 3. ~~anstatt~~ — anstatt ist kein temporaler Ausdruck für Daten — die anderen drei sind Zeitausdrücke.
 4. ~~wegen~~ — wegen ist kausal — die anderen drei sind Vergleichs- bzw. Mittelwertsausdrücke.
 5. ~~kommt zurück~~ — kommt zurück ist kein reflexives Ableitungsverb — die anderen drei folgen dem Muster „sich + Verb".
-6. ~~Tiefpunkt~~ — Tiefpunkt ist umgangssprachlich — die Standardform in Berichten ist Tiefststand.
+6. ~~Tiefpunkt~~ — Tiefpunkt ist die allgemeine Form (auch für Stimmung, Verlauf etc.); für Datenberichte ist Tiefststand der fachliche Standardbegriff.
 
 ## Übung D3 — Rückblick: B2/01, B2/02, B2/08
 

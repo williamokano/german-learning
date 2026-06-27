@@ -248,7 +248,7 @@ Ein guter Bericht klingt **sachlich, distanziert und überprüfbar**. Passiv und
 | Aus + Dat. ergibt sich, dass … | **Aus dem Bericht ergibt sich**, dass … |
 | Der Tabelle ist zu entnehmen, dass … | **Der Tabelle ist zu entnehmen**, dass … |
 
-⚠️ **黄金formel**: Fakten formell (Passiv + FVG), aber persönliche Einschätzung im Verbalstil anschließen (*Ich empfehle … / Aus meiner Sicht …*). Ein Bericht aus lauter Passiv + FVG wirkt bleiern.
+⚠️ **Goldformel**: Fakten formell (Passiv + FVG), aber persönliche Einschätzung im Verbalstil anschließen (*Ich empfehle … / Aus meiner Sicht …*). Ein Bericht aus lauter Passiv + FVG wirkt bleiern.
 
 > 📌 **Merkasten — Berichtssprache**
 >
