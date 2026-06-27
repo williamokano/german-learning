@@ -791,7 +791,33 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 — Unterwegs mit Familie Yilmaz"
-    instructions: 'Read „Unterwegs mit Familie Yilmaz" in lesson.md, section 7. Richtig (R) oder falsch (F)?'
+    instructions: |
+      > Familie Yilmaz wohnt in Berlin, in der Nähe des Alexanderplatzes.
+      > Herr Yilmaz arbeitet im Krankenhaus in Mitte. Er fährt morgens mit
+      > der U-Bahn zur Arbeit — die Fahrt dauert zwanzig Minuten. Er
+      > steigt am Bahnhof Alexanderplatz aus und geht dann fünf Minuten zu
+      > Fuß zum Krankenhaus. Frau Yilmaz arbeitet bei einer Bank in
+      > Prenzlauer Berg. Sie nimmt die Straßenbahn, Linie 16, und steigt am
+      > Alexanderplatz um. Auch für sie dauert die Fahrt ungefähr zwanzig
+      > Minuten. Die zwei Kinder — Lena und Max — gehen zu Fuß zur Schule.
+      > Die Schule ist nicht weit, nur zehn Minuten — geradeaus und dann
+      > links.
+      >
+      > Am Samstag fährt die ganze Familie mit dem Auto zum Supermarkt. Es
+      > gibt einen Parkplatz beim Supermarkt, und beide Kinder helfen beim
+      > Einkaufen. Danach fahren sie zum Park. Herr Yilmaz wartet beim
+      > Auto, die Kinder spielen, und Frau Yilmaz kauft frische Blumen bei
+      > einem kleinen Stand neben dem Park.
+      >
+      > Am Sonntag fahren alle mit dem Fahrrad zum See am Stadtrand. Der
+      > Weg dauert eine halbe Stunde — geradeaus bis zur großen Kreuzung,
+      > dann links, dann die erste Straße rechts. Die Kinder fahren sehr
+      > schnell. Herr Yilmaz ruft: „Warten Sie — ich meine: Wartet!" Am
+      > Abend fahren alle nach Hause, und um acht Uhr sind alle wieder zu
+      > Hause und sehr müde. Herr Yilmaz sagt: „Berlin ist eine tolle
+      > Stadt — man kann überall mit dem Fahrrad fahren!"
+
+      Richtig (R) oder falsch (F)?
     items:
       - q: "Herr Yilmaz fährt mit dem Bus zur Arbeit."
         answer: false
