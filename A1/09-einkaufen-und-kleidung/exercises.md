@@ -373,7 +373,24 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Ein neues Outfit
 
-Read „Ein neues Outfit" in lesson.md, section 7. Richtig (R) oder falsch (F)?
+> Anna braucht ein neues Outfit für eine Party. Sie geht in die Stadt
+> und sucht ein Kleid oder eine Bluse. Im Kaufhaus findet sie viele
+> Sachen.
+>
+> Zuerst probiert sie ein Kleid an. Es passt ihr gut, aber es gefällt
+> ihr nicht — das Kleid ist zu kurz. Dann sieht sie eine Bluse. Die
+> Bluse ist blau. „Steht mir Blau?", fragt sie Bruno. Bruno sagt: „Ja,
+> Blau steht dir sehr gut!" Die Bluse kostet neununddreißig Euro. Das
+> ist preiswert.
+>
+> Anna kauft auch eine Hose. Die Hose ist schwarz und passt sehr gut
+> zur Bluse. Zusammen kosten Bluse und Hose achtundsechzig Euro.
+>
+> Bruno kauft nichts. Er sagt: „Ich brauche keine Kleider. Meine Sachen
+> gefallen mir noch!" Anna lacht: „Typisch Bruno!"
+
+Richtig (R) oder falsch (F)?
+
 
 1. Anna sucht ein Outfit für eine Hochzeit. ( )
 2. Das Kleid gefällt Anna nicht. ( )
