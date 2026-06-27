@@ -50,7 +50,8 @@ exercises:
     block: H
     type: single-choice
     title: "Aussprache-Check"
-    instructions: "Listen to the Hör zu clips in lesson.md (Wortschatz → 🔊 Aussprache) and pick the matching answer."
+    instructions: "Höre den Hör-zu-Clip und wähle die passende Antwort."
+    instructionsEn: "Listen to the Hör zu clip and choose the matching answer."
     items:
       - q: "Hör zu 1 (Familie) — who is the father of your mother?"
         audio: hoerzu1.mp3
