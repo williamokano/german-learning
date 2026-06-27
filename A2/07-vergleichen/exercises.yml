@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - { q: "Anna und Bruno sind in einem Kaufhaus.", answer: true, why: "Anna and Bruno are in a shop / department store." }
       - { q: "Das rote Kleid ist teurer als das blaue.", answer: false, why: "The blue dress is more expensive than the red one." }
@@ -28,7 +29,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Was sucht Frau Weber?"
         options:
@@ -64,7 +66,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 7 missing words. Two words in the box are not needed."
+    instructions: "Höre und ergänze die 7 fehlenden Wörter. Zwei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 7 missing words. Two words in the box are not needed."
     text: |
       Yuki wohnt in München und macht gerade einen Deutschkurs. Gestern hat sie mit
       ihrer Freundin Hana über Smartphones {1}. Yukis Handy ist {2} als
@@ -86,7 +89,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Tom braucht einen Rat"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: "Hallo Anna, hier ist Tom. Ich rufe an wegen meinem neuen Auto. Ich habe zwei Modelle gefunden: einen blauen Kleinwagen für neuntausend Euro und einen größeren silbernen Wagen für zwölftausend Euro. Der blaue ist günstiger und sparsamer, aber der silberne ist schneller und bequemer. Er hat auch einen stärkeren Motor. Ich kann mich nicht entscheiden. Bitte ruf mich zurück und sag mir, was du denkst. Vielen Dank!"
     items:
       - q: "Worüber ruft Tom an?"
@@ -124,6 +128,7 @@ exercises:
     title: "Tabelle ausfüllen: Dialog B (Laptop-Vergleich)"
     audio: dialog1_b.mp3
     instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    instructionsEn: "Listen to the dialog once and fill in the table. In each row, **one** piece of information is missing — the clues in the other cells will help you."
     columns: ["Laptop", "Preis", "Eigenschaft"]
     rows:
       - label: "Günstiges Modell (grau)"
@@ -154,7 +159,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Komparativ bilden"
-    instructions: "Write the comparative form of each adjective."
+    instructions: "Schreibe die Komparativform jedes Adjektivs."
+    instructionsEn: "Write the comparative form of each adjective."
     text: |
       1. schnell → {1}
       2. teuer → {2}
@@ -187,7 +193,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Superlativ predicative: `am ___sten`"
-    instructions: "Write the predicative superlative."
+    instructions: "Schreibe den prädikativen Superlativ."
+    instructionsEn: "Write the predicative superlative."
     text: |
       1. schnell → {1}
       2. modern → {2}
@@ -216,7 +223,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`als` oder `wie`?"
-    instructions: "Fill in `als` (unequal) or `wie` (equal)."
+    instructions: "Ergänze `als` (ungleich) oder `wie` (gleich)."
+    instructionsEn: "Fill in `als` (unequal) or `wie` (equal)."
     text: |
       1. Berlin ist größer {1} Wien.
       2. München ist so schön {2} Berlin.
@@ -245,7 +253,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Komparativ in Sätzen (predicative)"
-    instructions: "Fill in the comparative form of the adjective in brackets."
+    instructions: "Ergänze die Komparativform des Adjektivs in Klammern."
+    instructionsEn: "Fill in the comparative form of the adjective in brackets."
     text: |
       1. Das Hotel ist {1} (teuer) als das Hostel.
       2. Der Zug ist {2} (schnell) als der Bus.
@@ -270,7 +279,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Superlativ predicative: Sätze"
-    instructions: "Fill in the predicative superlative form."
+    instructions: "Ergänze die prädikative Superlativform."
+    instructionsEn: "Fill in the predicative superlative form."
     text: |
       1. Dieses Restaurant ist {1} (teuer) in der Stadt.
       2. Im Dezember ist es {2} (kalt) in Berlin.
@@ -295,7 +305,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Superlativ attributiv: Tabelle ergänzen"
-    instructions: "Fill in the attributive superlative form with the correct ending. Definite article: Nom m/f/n → -e, others → -en."
+    instructions: "Ergänze die attributive Superlativform mit der richtigen Endung. Bestimmter Artikel: Nom m/f/n → -e, andere → -en."
+    instructionsEn: "Fill in the attributive superlative form with the correct ending. Definite article: Nom m/f/n → -e, others → -en."
     text: |
       1. der Zug (m, Nom.) + schnell → der {1} Zug
       2. die Stadt (f, Nom.) + groß → die {2} Stadt
@@ -316,7 +327,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Superlativ attributiv: Sätze"
-    instructions: "Fill in the attributive superlative with the correct ending."
+    instructions: "Ergänze den attributiven Superlativ mit der richtigen Endung."
+    instructionsEn: "Fill in the attributive superlative with the correct ending."
     text: |
       1. Das ist der {1} (schnell) Zug in Deutschland.
       2. Wir suchen die {2} (günstig) Wohnung in der Stadt.
@@ -341,7 +353,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Irregulär: gut / viel / gern"
-    instructions: "Fill in the correct form (comparative or superlative as indicated)."
+    instructions: "Ergänze die richtige Form (Komparativ oder Superlativ wie angegeben)."
+    instructionsEn: "Fill in the correct form (comparative or superlative as indicated)."
     text: |
       1. Dieses Hotel ist {1} (gut, Komp.) als das andere.
       2. Er hat {2} (viel, Komp.) Geld als ich.
@@ -384,7 +397,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Umlaut check"
-    instructions: "Write the comparative form. Note which adjectives take an umlaut."
+    instructions: "Schreibe die Komparativform. Achte darauf, welche Adjektive einen Umlaut haben."
+    instructionsEn: "Write the comparative form. Note which adjectives take an umlaut."
     text: |
       1. alt → {1}
       2. modern → {2}
@@ -413,7 +427,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Komparativ + Superlativ: fill the row"
-    instructions: "Complete the three-column table. Each row has two gaps (Komparativ + Superlativ pred.)."
+    instructions: "Ergänze die dreispaltige Tabelle. Jede Zeile hat zwei Lücken (Komparativ + prädikativer Superlativ)."
+    instructionsEn: "Complete the three-column table. Each row has two gaps (Komparativ + Superlativ pred.)."
     text: |
       1. groß → {1} · {2}
       2. gut → {3} · {4}
@@ -448,7 +463,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dialog ergänzen"
-    instructions: "Fill in the blanks with the correct comparative or superlative form. 8 gaps."
+    instructions: "Ergänze die Lücken mit der richtigen Komparativ- oder Superlativform. 8 Lücken."
+    instructionsEn: "Fill in the blanks with the correct comparative or superlative form. 8 gaps."
     text: |
       — Anna, welches Café gefällt dir {1} (gut)?
       — Das hier ist das {2} (gemütlich, attr. n) Café in der Straße, finde ich.
@@ -473,7 +489,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. Write the corrected word/phrase in the gap."
+    instructions: "Jeder Satz hat genau einen Fehler. Schreibe das korrigierte Wort/die korrigierte Phrase in die Lücke."
+    instructionsEn: "Each sentence has exactly one mistake. Write the corrected word/phrase in the gap."
     text: |
       1. Berlin ist größer {1} Wien. (wie → ?)
       2. Das ist der schnellst{2} Zug in Deutschland. (missing ending)
@@ -501,7 +518,8 @@ exercises:
     block: B
     type: matching
     title: "Frage und Antwort verbinden"
-    instructions: "Match each question (1–8) with the correct answer (a–h)."
+    instructions: "Ordne jede Frage (1–8) der richtigen Antwort (a–h) zu."
+    instructionsEn: "Match each question (1–8) with the correct answer (a–h)."
     left:
       - { key: "1", text: "Welche Stadt ist am größten in Deutschland?" }
       - { key: "2", text: "Ist München teurer als Berlin?" }
@@ -534,7 +552,8 @@ exercises:
     block: B
     type: order
     title: "Satzbau: Vergleichssätze bauen"
-    instructions: "Build a comparison sentence from the cues. Use the correct form."
+    instructions: "Bilde aus den Vorgaben einen Vergleichssatz. Verwende die richtige Form."
+    instructionsEn: "Build a comparison sentence from the cues. Use the correct form."
     items:
       - tiles: [Berlin, ist, größer, als, München]
         answer: [0, 1, 2, 3, 4]
@@ -559,7 +578,8 @@ exercises:
     block: B
     type: categorize
     title: "Kategorisieren: Komparativ oder Superlativ?"
-    instructions: "Sort the 10 forms into two groups: Komparativ (comparative) or Superlativ (superlative)."
+    instructions: "Sortiere die 10 Formen in zwei Gruppen: Komparativ oder Superlativ."
+    instructionsEn: "Sort the 10 forms into two groups: Komparativ (comparative) or Superlativ (superlative)."
     buckets:
       - { key: komparativ, label: "Komparativ" }
       - { key: superlativ, label: "Superlativ" }
@@ -669,7 +689,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |
       Anna und Bruno diskutieren über ihre Lieblingsstädte. Anna findet Berlin
       {1} interessant als München, weil es {2} Museen und
@@ -747,7 +768,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
     text: |
       Zwei Freundinnen vergleichen Städte:
 
@@ -875,7 +897,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per item. No notes."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen."
+    instructionsEn: "One minute per item. No notes."
     text: |
       1. Comparative of `groß`: {1}
       2. Predicative superlative of `gut`: {2}
@@ -914,7 +937,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd one out"
-    instructions: "Cross out the word that doesn't fit."
+    instructions: "Streiche das Wort durch, das nicht passt."
+    instructionsEn: "Cross out the word that doesn't fit."
     groups:
       - items: [größer, besser, mehr, schneller, neueren]
         odd: 4
