@@ -114,6 +114,35 @@ exercises:
         answer: b
         why: "Vierundzwanzig Stunden."
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (Apotheken-Beratung)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Problem / Thema", "Empfehlung", "Wann / Wie oft"]
+    rows:
+      - label: "Müde + Kopfschmerzen"
+        cells:
+          - { gap: 1, answer: "Müdigkeit und Kopfschmerzen", given: "Müdigkeit und Kopfschmerzen" }
+          - { gap: 2, answer: "Magnesiumpräparat" }
+          - { gap: 3, answer: "abends vor dem Schlafen", given: "abends vor dem Schlafen" }
+      - label: "Schlafprobleme"
+        cells:
+          - { gap: 4, answer: "Schlafprobleme durch Stress", given: "Schlafprobleme durch Stress" }
+          - { gap: 5, answer: "mehr Schlaf", given: "mehr Schlaf" }
+          - { gap: 6, answer: "—" }
+      - label: "Entspannung"
+        cells:
+          - { gap: 7, answer: "fünfzehn Minuten ohne Bildschirm", given: "fünfzehn Minuten ohne Bildschirm" }
+          - { gap: 8, answer: "jeden Abend entspannen" }
+          - { gap: 9, answer: "täglich" }
+      - label: "Bewegung"
+        cells:
+          - { gap: 10, answer: "regelmäßige Bewegung", given: "regelmäßige Bewegung" }
+          - { gap: 11, answer: "mehr spazieren gehen", given: "mehr spazieren gehen" }
+          - { gap: 12, answer: "—" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1

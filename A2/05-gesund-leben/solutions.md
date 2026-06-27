@@ -29,6 +29,15 @@
 3. **b) Die Versichertenkarte und den Impfpass.** — Versichertenkarte und Impfpass.
 4. **b) Vierundzwanzig Stunden.** — Vierundzwanzig Stunden.
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Apotheken-Beratung)
+
+| Problem / Thema | Empfehlung | Wann / Wie oft |
+|---|---|---|
+| Müde + Kopfschmerzen | Müdigkeit und Kopfschmerzen | **Magnesiumpräparat** | abends vor dem Schlafen |
+| Schlafprobleme | Schlafprobleme durch Stress | mehr Schlaf | **—** |
+| Entspannung | fünfzehn Minuten ohne Bildschirm | **jeden Abend entspannen** | **täglich** |
+| Bewegung | regelmäßige Bewegung | mehr spazieren gehen | **—** |
+
 ---
 
 # Block A — Basistraining
