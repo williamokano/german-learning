@@ -12,10 +12,10 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen and decide: richtig (R) oder falsch (F)?
 
-1. Anna sucht eine rote Jacke. ( )
-2. Die Jacke passt Anna gut. ( )
-3. Anna findet die Jacke zu teuer und kauft sie nicht. ( )
-4. Die Verkäuferin sagt, die Jacke steht Anna sehr gut. ( )
+1. Anna sucht eine rote Jacke. — Anna is looking for a red jacket. ( )
+2. Die Jacke passt Anna gut. — The jacket fits Anna well. ( )
+3. Anna findet die Jacke zu teuer und kauft sie nicht. — Anna finds the jacket too expensive and doesn't buy it. ( )
+4. Die Verkäuferin sagt, die Jacke steht Anna sehr gut. — The saleswoman says the jacket suits Anna very well. ( )
 
 ## Übung H1b — Dialog 2: Im Sportgeschäft
 
@@ -23,10 +23,10 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 Listen and decide: richtig (R) oder falsch (F)?
 
-1. Bruno sucht Sportschuhe. ( )
-2. Bruno probiert die Schuhe in Größe 42 an. ( )
-3. Die teuren Schuhe kosten neunundneunzig Euro. ( )
-4. Bruno kauft am Ende keine Schuhe. ( )
+1. Bruno sucht Sportschuhe. — Bruno is looking for sports shoes. ( )
+2. Bruno probiert die Schuhe in Größe 42 an. — Bruno tries on the shoes in size 42. ( )
+3. Die teuren Schuhe kosten neunundneunzig Euro. — The expensive shoes cost ninety-nine euros. ( )
+4. Bruno kauft am Ende keine Schuhe. — In the end, Bruno doesn't buy any shoes. ( )
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -47,10 +47,10 @@ Listen and fill in the 5 missing words. Three words in the box are not needed.
 
 Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Was ist heute im Kaufhaus?  a) Ein Sommerschlussverkauf.  b) Eine Modenschau.  c) Eine Eröffnung.
-2. Wie viel Prozent billiger sind die Sommerkleider?  a) Zwanzig Prozent.  b) Dreißig Prozent.  c) Fünfzig Prozent.
-3. Was ist auch günstiger?  a) Die Mäntel.  b) Die Schuhe.  c) Die Hemden.
-4. Bis wann gilt der Schlussverkauf?  a) Bis heute achtzehn Uhr.  b) Bis morgen.  c) Bis nächste Woche.
+1. Was ist heute im Kaufhaus? — What's happening at the department store today?  a) Ein Sommerschlussverkauf.  b) Eine Modenschau.  c) Eine Eröffnung.
+2. Wie viel Prozent billiger sind die Sommerkleider? — How many percent cheaper are the summer dresses?  a) Zwanzig Prozent.  b) Dreißig Prozent.  c) Fünfzig Prozent.
+3. Was ist auch günstiger? — What else is on sale?  a) Die Mäntel.  b) Die Schuhe.  c) Die Hemden.
+4. Bis wann gilt der Schlussverkauf? — Until when does the sale last?  a) Bis heute achtzehn Uhr.  b) Bis morgen.  c) Bis nächste Woche.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -345,12 +345,12 @@ nur fünfzig Euro." Das ist (9) ______! Anna ist glücklich: „Die (10) ______ 
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Ich (1) ____ gern Kleidung kaufen, aber es ist nicht immer einfach.  a) kaufe  b) kaufen  c) kaufst
-2. Ich suche immer zuerst (2) ____ Farbe, die mir gut steht.  a) eine  b) einen  c) ein
-3. Schwarz (3) ____ mir sehr gut.  a) stehen  b) steht  c) passen
-4. Im Geschäft probiere ich viele Sachen an — das (4) ____ mir Spaß!  a) macht  b) mache  c) machen
-5. Manchmal (5) ____ mir der Verkäufer oder die Verkäuferin.  a) hilft  b) helfen  c) helfe
-6. Sie sagen: „Das (6) ____ Ihnen sehr gut!"  a) steht  b) stehen  c) passt
+1. Ich (1) ____ gern Kleidung kaufen, aber es ist nicht immer einfach. — I (1) ____ like buying clothes, but it's not always easy.  a) kaufe  b) kaufen  c) kaufst
+2. Ich suche immer zuerst (2) ____ Farbe, die mir gut steht. — I always look first for a (2) ____ color that suits me.  a) eine  b) einen  c) ein
+3. Schwarz (3) ____ mir sehr gut. — Black (3) ____ me very well.  a) stehen  b) steht  c) passen
+4. Im Geschäft probiere ich viele Sachen an — das (4) ____ mir Spaß! — In the shop I try on many things — that's (4) ____ fun for me!  a) macht  b) mache  c) machen
+5. Manchmal (5) ____ mir der Verkäufer oder die Verkäuferin. — Sometimes the salesperson (5) ____ me.  a) hilft  b) helfen  c) helfe
+6. Sie sagen: „Das (6) ____ Ihnen sehr gut!" — They say: "That (6) ____ you very well!"  a) steht  b) stehen  c) passt
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -392,11 +392,11 @@ Five words are not needed.
 Richtig (R) oder falsch (F)?
 
 
-1. Anna sucht ein Outfit für eine Hochzeit. ( )
-2. Das Kleid gefällt Anna nicht. ( )
-3. Bruno sagt, Blau steht Anna gut. ( )
-4. Die Bluse ist sehr teuer. ( )
-5. Bruno kauft auch neue Kleidung. ( )
+1. Anna sucht ein Outfit für eine Hochzeit. — Anna is looking for an outfit for a wedding. ( )
+2. Das Kleid gefällt Anna nicht. — Anna doesn't like the dress. ( )
+3. Bruno sagt, Blau steht Anna gut. — Bruno says blue suits Anna. ( )
+4. Die Bluse ist sehr teuer. — The blouse is very expensive. ( )
+5. Bruno kauft auch neue Kleidung. — Bruno also buys new clothes. ( )
 
 ## Übung C4b — Lesen Text 2 — Anzeige Modehaus Schmidt
 
@@ -412,10 +412,10 @@ Anzeige:
 
 Wähle a, b oder c.
 
-1. Eine Damen-Bluse kostet mindestens …  a) 9,90 €  b) 19,90 €  c) 24,90 €
-2. Jeans gibt es …  a) nur für Damen  b) nur für Herren  c) für Damen und Herren
-3. Ein Sommerkleid kostet …  a) 39,90 €  b) 49,90 €  c) 19,90 €
-4. Das Modehaus ist am Samstag geöffnet …  a) nicht  b) bis 18:00 Uhr  c) bis 20:00 Uhr
+1. Eine Damen-Bluse kostet mindestens … — A women's blouse costs at least …  a) 9,90 €  b) 19,90 €  c) 24,90 €
+2. Jeans gibt es … — There are jeans …  a) nur für Damen  b) nur für Herren  c) für Damen und Herren
+3. Ein Sommerkleid kostet … — A summer dress costs …  a) 39,90 €  b) 49,90 €  c) 19,90 €
+4. Das Modehaus ist am Samstag geöffnet … — The fashion house is open on Saturday …  a) nicht  b) bis 18:00 Uhr  c) bis 20:00 Uhr
 
 ## Übung C5 — Schreiben: Kaufhaus-Dialog
 
