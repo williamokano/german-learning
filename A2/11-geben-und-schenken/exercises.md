@@ -67,6 +67,19 @@ Listen to the announcement. Then choose the correct answer (a, b, or c). Listen 
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Wien-Abschiedsgeschenk)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Person | Geschenk / Geste | Anlass |
+|---|---|---|
+| Frau Weber | Frau Weber | ______ | Wien-Abschied |
+| Herr Steinmeyer | Herr Steinmeyer | Karte aus Wien | ______ |
+| Buch passt zu | Schachnovelle | passt zur Wien-Reise | neuer Job in Wien |
+| Lesen im Zug | Herr Steinmeyer | Zug nach Wien | ______ |
+
 ---
 
 # Block A — Basistraining

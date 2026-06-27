@@ -30,6 +30,15 @@
 3. **b) Bis siebzehn Uhr dreißig.** — „Bitte bringen Sie Ihre Einkäufe bis spätestens siebzehn Uhr dreißig".
 4. **a) Sie verpackt Geschenke und schreibt eine Karte.** — „Unsere Mitarbeiter packen Ihre Geschenke kostenlos in schönes Papier ein und schreiben eine Karte".
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Wien-Abschiedsgeschenk)
+
+| Person | Geschenk / Geste | Anlass |
+|---|---|---|
+| Frau Weber | Frau Weber | **Schachnovelle von Stefan Zweig** | Wien-Abschied |
+| Herr Steinmeyer | Herr Steinmeyer | Karte aus Wien | **sich bedanken** |
+| Buch passt zu | Schachnovelle | passt zur Wien-Reise | neuer Job in Wien |
+| Lesen im Zug | Herr Steinmeyer | Zug nach Wien | **Reise** |
+
 ---
 
 # Block A — Basistraining
