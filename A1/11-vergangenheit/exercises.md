@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre und entscheide: richtig (R) oder falsch (F)?
 
 1. Bruno ist am Samstag ins Kino gegangen. — Bruno went to the cinema on Saturday. ( )
 2. Am Sonntag hat Bruno Fußball gespielt. — On Sunday, Bruno played football. ( )
@@ -20,7 +20,7 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre und entscheide: richtig (R) oder falsch (F)?
 
 1. Frau Weber ist im Englischen Garten spazieren gegangen. — Mrs. Weber went for a walk in the English Garden. ( )
 2. Das Wetter war schlecht. — The weather was bad. ( )
@@ -78,7 +78,7 @@ Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einma
 
 ## Übung A3 — `haben` or `sein`?
 
-Write the correct form of `haben` or `sein` in the gap. Match the subject.
+Schreibe die richtige Form von „haben" oder „sein" in die Lücke. Richte sie nach dem Subjekt.
 
 1. Er ______ ins Kino gegangen.
 2. Sie ______ Kaffee getrunken.
@@ -125,14 +125,14 @@ Write the correct form of `haben` or `sein` in the gap. Match the subject.
 
 ## Übung A8 — Separable verbs in the Perfekt
 
-Write the Partizip II of each separable verb. The ge- goes between the prefix and the stem.
+Schreibe das Partizip II jedes trennbaren Verbs. Das „ge-" steht zwischen Vorsilbe und Stamm.
 
 1. aufstehen → ______  2. einkaufen → ______  3. anrufen → ______  4. fernsehen → ______
 5. aufräumen → ______  6. aufmachen → ______  7. einschlafen → ______  8. ankommen → ______
 
 ## Übung A9 — Build the Perfekt sentence
 
-Combine the elements into a complete Perfekt sentence.
+Setze die Elemente zu einem vollständigen Perfektsatz zusammen.
 
 1. ich / machen / Hausaufgaben → ______
 2. wir / essen / Pizza → ______
@@ -145,7 +145,7 @@ Combine the elements into a complete Perfekt sentence.
 
 ## Übung A10 — Transformation drill: present → Perfekt
 
-Rewrite the sentence in the Perfekt.
+Schreibe den Satz im Perfekt.
 
 1. Ich spiele Tennis. → ______
 2. Bruno trinkt Bier. → ______
@@ -160,7 +160,7 @@ Rewrite the sentence in the Perfekt.
 
 ## Übung A11 — Zeitausdrücke: choose the correct one
 
-Fill in: gestern, letzte Woche, am Samstag, im Urlaub, zuerst, dann, danach.
+Ergänze: gestern, letzte Woche, am Samstag, im Urlaub, zuerst, dann, danach.
 
 1. Ich bin ______ nach Wien gefahren. (last week)
 2. ______ habe ich gefrühstückt, ______ bin ich ins Zentrum gegangen.
@@ -171,7 +171,7 @@ Fill in: gestern, letzte Woche, am Samstag, im Urlaub, zuerst, dann, danach.
 
 ## Übung A12 — Mixed drill: Perfekt with sein and haben
 
-Fill in the correct auxiliary (habe/hat/haben/bin/ist/sind) and the Partizip II.
+Ergänze die richtige Hilfsverbform (habe/hat/haben/bin/ist/sind) und das Partizip II.
 
 1. Ich ______ gestern lange ______ (schlafen).
 2. Wir ______ in einem Restaurant ______ (essen).
@@ -206,7 +206,7 @@ Fill in the correct auxiliary (habe/hat/haben/bin/ist/sind) and the Partizip II.
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly one mistake. Find the error and write the full corrected sentence.
+Jeder Satz hat genau einen Fehler. Finde ihn und schreibe den ganzen Satz korrigiert.
 
 > 1. Ich habe ins Kino gegangen.
 2. Wir haben nach Berlin gefahren.
@@ -237,7 +237,7 @@ Each sentence has exactly one mistake. Find the error and write the full correct
 
 ## Übung B5 — Satzbau
 
-Build correct Perfekt sentences. Pay attention to verb position and Partizip II at the end.
+Bilde korrekte Perfektsätze. Achte auf die Verbposition und das Partizip II am Ende.
 
 1. ich – gestern – habe – Fußball – gespielt
 2. du – gegangen – ? – ins Kino – bist
@@ -252,7 +252,7 @@ Build correct Perfekt sentences. Pay attention to verb position and Partizip II 
 
 ## Übung B6 — Kategorien: `haben` oder `sein`?
 
-Sort these 12 verbs into the two columns.
+Sortiere diese 12 Verben in die zwei Spalten.
 
 > gehen · schlafen · trinken · fahren · essen · bleiben · kaufen · kommen · spielen · aufstehen · lesen · laufen
 
@@ -262,7 +262,7 @@ Sort these 12 verbs into the two columns.
 
 ## Übung B7 — Fragen schreiben
 
-Write the question that fits each answer. Use the du-form unless marked (Sie).
+Schreibe die Frage, die zur Antwort passt. Verwende die du-Form, wenn nicht (Sie) markiert ist.
 
 > 1. ______________________? — Ich habe Fußball gespielt.
 2. ______________________? — Ich bin ins Kino gegangen.
@@ -277,7 +277,7 @@ Write the question that fits each answer. Use the du-form unless marked (Sie).
 
 ## Übung B8 — Answer with the cues
 
-Answer in a full Perfekt sentence using the cue in brackets.
+Antworte in einem vollständigen Perfektsatz mit dem Stichwort in Klammern.
 
 > 1. Was hast du gestern gemacht? (Fußball spielen)
 2. Bist du ins Kino gegangen? (Nein — zu Hause bleiben)
@@ -309,7 +309,7 @@ Self-check:
 
 ## Übung B10 — Urlaub beschreiben
 
-Read the cues and write 4–5 Perfekt sentences about this imaginary holiday.
+Lies die Stichwörter und schreibe 4–5 Perfektsätze zu diesem imaginären Urlaub.
 
 > Wien · 5 Tage · Museum besuchen · viel spazieren gehen · gut essen ·
 Wein trinken · viele Fotos fotografieren · schönes Wetter
@@ -323,7 +323,7 @@ Wein trinken · viele Fotos fotografieren · schönes Wetter
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word from the box. Five words are not needed.
+Fülle jede Lücke mit einem Wort aus dem Kasten. Fünf Wörter werden nicht gebraucht.
 
 > Am Wochenende (1) ______ ich viel gemacht. Am Samstag (2) ______ ich zuerst im Supermarkt (3) ______. Dann (4) ______ ich meine Freundin (5) ______. Wir (6) ______ zusammen Kaffee (7) ______ und einen Kuchen (8) ______. Am Abend (9) ______ wir ins Kino (10) ______.
 
@@ -344,7 +344,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden.
 
 > — Hallo Anna! Ich (1) ______ am Samstag ins Konzert (2) ______.
 > — Oh, wirklich? Das klingt (3) ______!
@@ -402,7 +402,7 @@ Choose a, b, or c.
 
 ## Übung C5 — Schreiben: Mein Wochenende / meine Reise
 
-Write a short message (6–8 sentences) to a friend about your last weekend or a recent trip. Include: where you went, what you did, how the weather was, one thing you ate or drank, and how you felt.
+Schreibe eine kurze Nachricht (6–8 Sätze) an einen Freund über dein letztes Wochenende oder eine kürzliche Reise. Nenne: wohin du gegangen bist, was du gemacht hast, wie das Wetter war, eine Sache, die du gegessen oder getrunken hast, und wie du dich gefühlt hast.
 
 **Your task:** Write 6–8 sentences to a friend about a recent weekend or trip. Include where you went, what you did, the weather, something you ate or drank, and how you felt.
 
@@ -420,7 +420,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest (incl. earlier lessons)
 
-One minute per item. No notes.
+Eine Minute pro Aufgabe. Keine Notizen.
 
 1. Partizip II of `machen`: ______
 2. Partizip II of `gehen`: ______
@@ -440,7 +440,7 @@ One minute per item. No notes.
 
 ## Übung D2 — Odd one out
 
-Cross out the word that doesn't fit and say why.
+Streiche das Wort durch, das nicht passt, und sage warum.
 
 1. gespielt – gemacht – gegangen – gearbeitet
 2. war – hatte – ist – waren
