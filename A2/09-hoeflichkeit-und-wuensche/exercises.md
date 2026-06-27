@@ -65,6 +65,19 @@ Listen to the voice message. Then choose the correct answer (a, b, or c). Listen
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Restaurant-Bestellung)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Person | Gericht | Getränk / Extra |
+|---|---|---|
+| Herr Steinmeyer | Herr Steinmeyer | gegrillter Lachs mit Gemüse | ______ |
+| Frau Weber | Frau Weber | vegetarisches Pasta-Gericht | ______ |
+| Sonderwunsch | Frau Weber | Soße ohne Knoblauch | vegetarisches Pasta-Gericht |
+| Tagesgericht | Kellner | gegrillter Lachs mit Gemüse | sehr lecker |
+
 ---
 
 # Block A — Basistraining

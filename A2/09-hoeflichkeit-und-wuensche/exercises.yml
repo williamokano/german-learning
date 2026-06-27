@@ -118,6 +118,35 @@ exercises:
         answer: b
         why: "Bitte ruf mich zurück."
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (Restaurant-Bestellung)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Person", "Gericht", "Getränk / Extra"]
+    rows:
+      - label: "Herr Steinmeyer"
+        cells:
+          - { gap: 1, answer: "Herr Steinmeyer",               given: "Herr Steinmeyer" }
+          - { gap: 2, answer: "gegrillter Lachs mit Gemüse",    given: "gegrillter Lachs mit Gemüse" }
+          - { gap: 3, answer: "Flasche Mineralwasser" }
+      - label: "Frau Weber"
+        cells:
+          - { gap: 4, answer: "Frau Weber",                    given: "Frau Weber" }
+          - { gap: 5, answer: "vegetarisches Pasta-Gericht",   given: "vegetarisches Pasta-Gericht" }
+          - { gap: 6, answer: "Glas Weißwein" }
+      - label: "Sonderwunsch"
+        cells:
+          - { gap: 7, answer: "Frau Weber",                    given: "Frau Weber" }
+          - { gap: 8, answer: "Soße ohne Knoblauch",           given: "Soße ohne Knoblauch" }
+          - { gap: 9, answer: "vegetarisches Pasta-Gericht",   given: "vegetarisches Pasta-Gericht" }
+      - label: "Tagesgericht"
+        cells:
+          - { gap: 10, answer: "Kellner",                      given: "Kellner" }
+          - { gap: 11, answer: "gegrillter Lachs mit Gemüse",   given: "gegrillter Lachs mit Gemüse" }
+          - { gap: 12, answer: "sehr lecker",                  given: "sehr lecker" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1

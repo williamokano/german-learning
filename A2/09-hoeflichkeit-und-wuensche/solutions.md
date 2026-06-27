@@ -29,6 +29,15 @@
 3. **b) Für zwei Personen.** — Für zwei Personen.
 4. **b) Zurückrufen.** — Bitte ruf mich zurück.
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Restaurant-Bestellung)
+
+| Person | Gericht | Getränk / Extra |
+|---|---|---|
+| Herr Steinmeyer | Herr Steinmeyer | gegrillter Lachs mit Gemüse | **Flasche Mineralwasser** |
+| Frau Weber | Frau Weber | vegetarisches Pasta-Gericht | **Glas Weißwein** |
+| Sonderwunsch | Frau Weber | Soße ohne Knoblauch | vegetarisches Pasta-Gericht |
+| Tagesgericht | Kellner | gegrillter Lachs mit Gemüse | sehr lecker |
+
 ---
 
 # Block A — Basistraining
