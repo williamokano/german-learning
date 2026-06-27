@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Anna erzählt Bruno von ihrem neuen Nachbarn."
         answer: false
@@ -39,7 +40,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Wie lange wohnt Klaus schon im Haus?"
         options:
@@ -75,7 +77,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 6 missing words. Four words in the box are not needed."
+    instructions: "Höre und ergänze die 6 fehlenden Wörter. Vier Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 6 missing words. Four words in the box are not needed."
     text: |
       Meine Freundin Lena wohnt in {1}. Sie ist {2} Jahre alt
       und studiert {3}. Sie hat lange {4} Haare und blaue
@@ -95,7 +98,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Wer soll ich abholen?"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Hallo Bruno, hier ist Anna. Ich komme leider ein bisschen später zum Bahnhof. Kannst du bitte meinen Bruder Sergej abholen? Er ist 28 Jahre alt, groß und schlank und hat kurze dunkle Haare. Er trägt heute eine rote Jacke und eine schwarze Tasche. Bitte ruf mich zurück, wenn du ihn gefunden hast! Bis später!'
     items:
       - q: "Warum ruft Anna an?"
@@ -133,6 +137,7 @@ exercises:
     title: "Tabelle ausfüllen: Dialog B (Neuer Nachbar)"
     audio: dialog1_b.mp3
     instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    instructionsEn: "Listen to the dialog once and fill in the table. In each row, **one** piece of information is missing — the clues in the other cells will help you."
     columns: ["Person / Eigenschaft", "Detail"]
     rows:
       - label: "Klaus (Name)"
@@ -163,7 +168,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Relativpronomen: Tabelle"
-    instructions: "Fill in all eight relative pronoun forms (Nominativ and Akkusativ)."
+    instructions: "Ergänze alle acht Relativpronomen-Formen (Nominativ und Akkusativ)."
+    instructionsEn: "Fill in all eight relative pronoun forms (Nominativ and Akkusativ)."
     text: |
       **Nominativ:** maskulin: {1} · feminin: {2} · neutrum: {3} · Plural: {4}
       **Akkusativ:** maskulin: {5} · feminin: {6} · neutrum: {7} · Plural: {8}
@@ -182,7 +188,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Relativsatz: Nominativ"
-    instructions: "Fill in the correct relative pronoun (Nominativ: der / die / das / die). 6 items."
+    instructions: "Ergänze das richtige Relativpronomen (Nominativ: der / die / das / die). 6 Aufgaben."
+    instructionsEn: "Fill in the correct relative pronoun (Nominativ: der / die / das / die). 6 items."
     text: |
       1. Das ist der Mann, {1} neben Anna arbeitet.
       2. Ich habe eine Freundin, {2} sehr klug ist.
@@ -203,7 +210,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Relativsatz: Akkusativ"
-    instructions: "Fill in the correct relative pronoun (Akkusativ: den / die / das / die). 6 items."
+    instructions: "Ergänze das richtige Relativpronomen (Akkusativ: den / die / das / die). 6 Aufgaben."
+    instructionsEn: "Fill in the correct relative pronoun (Akkusativ: den / die / das / die). 6 items."
     text: |
       1. Das ist der Film, {1} ich sehr gerne mag.
       2. Ich kenne die Frau, {2} du meinst.
@@ -224,7 +232,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Nominativ oder Akkusativ?"
-    instructions: "First decide: is the noun in the relative clause the subject (→ Nominativ) or the object (→ Akkusativ)? 8 items."
+    instructions: "Entscheide zuerst: Ist das Nomen im Relativsatz Subjekt (→ Nominativ) oder Objekt (→ Akkusativ)? 8 Aufgaben."
+    instructionsEn: "First decide: is the noun in the relative clause the subject (→ Nominativ) or the object (→ Akkusativ)? 8 items."
     text: |
       1. Das ist der Kollege, {1} immer hilfsbereit ist. (subject of *ist*)
       2. Das ist der Kollege, {2} alle im Team mögen. (object of *mögen*)
@@ -335,7 +344,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Mini-Lückentext: Relativpronomen im Kontext"
-    instructions: "Fill in the correct relative pronoun (der / die / das / den). 4 items."
+    instructions: "Ergänze das richtige Relativpronomen (der / die / das / den). 4 Aufgaben."
+    instructionsEn: "Fill in the correct relative pronoun (der / die / das / den). 4 items."
     text: |
       Mein Kollege Marko ist der Mensch, (1) {1} immer gute Laune hat.
       Er ist der Typ, (2) {2} ich sehr sympathisch finde.
@@ -368,7 +378,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gesamtübung: Nom und Akk gemischt"
-    instructions: "First decide: Nominativ or Akkusativ? 8 items."
+    instructions: "Entscheide zuerst: Nominativ oder Akkusativ? 8 Aufgaben."
+    instructionsEn: "First decide: Nominativ or Akkusativ? 8 items."
     text: |
       1. Ich mag die Kollegin, {1} immer lustig ist.
       2. Das ist der Freund, {2} mir gestern geholfen hat.
@@ -395,7 +406,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dialog ergänzen: Relativpronomen einsetzen"
-    instructions: "Fill in the correct relative pronoun. 4 items."
+    instructions: "Ergänze das richtige Relativpronomen. 4 Aufgaben."
+    instructionsEn: "Fill in the correct relative pronoun. 4 items."
     text: |
       — Wer ist der Mann, (1) {1} dort neben Frau Weber steht?
       — Das ist Klaus, der neue Nachbar.
@@ -451,7 +463,8 @@ exercises:
     block: B
     type: matching
     title: "Zuordnen: Was passt zusammen?"
-    instructions: "Match each sentence beginning (1–4) to the correct relative clause (a–d)."
+    instructions: "Ordne jeden Satzanfang (1–4) dem passenden Relativsatz (a–d) zu."
+    instructionsEn: "Match each sentence beginning (1–4) to the correct relative clause (a–d)."
     left:
       - { key: "1", text: "Das ist die Dame, ___" }
       - { key: "2", text: "Das ist der Chef, ___" }
@@ -506,7 +519,8 @@ exercises:
     block: B
     type: matching
     title: "Wortschatz: Charakter und Aussehen"
-    instructions: "Match each German adjective (1–6) to its English meaning (a–f)."
+    instructions: "Ordne jedes deutsche Adjektiv (1–6) seiner englischen Bedeutung (a–f) zu."
+    instructionsEn: "Match each German adjective (1–6) to its English meaning (a–f)."
     left:
       - { key: "1", text: "hilfsbereit" }
       - { key: "2", text: "zuverlässig" }
@@ -572,7 +586,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Read the text and fill in one suitable word in each gap. 10 items."
+    instructions: "Lies den Text und ergänze in jeder Lücke ein passendes Wort. 10 Aufgaben."
+    instructionsEn: "Read the text and fill in one suitable word in each gap. 10 items."
     text: |
       Mein neuer Kollege heißt Jan. Er ist 30 Jahre alt und kommt aus
       Hamburg. Er ist groß und (1) {1}, hat kurze (2) {2} Haare
@@ -600,7 +615,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Read the text and choose the best option (a, b, or c) for each gap."
+    instructions: "Lies den Text und wähle die beste Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Read the text and choose the best option (a, b, or c) for each gap."
     items:
       - q: "ich möchte Ihnen unsere neue (1) ___ vorstellen."
         options:
@@ -649,7 +665,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word once."
     text: |
       Mein Freund Noah ist 28 Jahre alt und kommt aus Hamburg.
       Er ist groß und (1) {1}, hat kurze (2) {2} Haare.
@@ -769,7 +786,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Schnelltest"
-    instructions: "Fill each gap with the correct word. Items marked (L…) review an earlier lesson. 15 items."
+    instructions: "Fülle jede Lücke mit dem richtigen Wort. Mit (L…) markierte Aufgaben wiederholen eine frühere Lektion. 15 Aufgaben."
+    instructionsEn: "Fill each gap with the correct word. Items marked (L…) review an earlier lesson. 15 items."
     text: |
       1. Das ist der Mann, {1} neben Anna arbeitet.
       2. Das ist die Frau, {2} Bruno kennt.
@@ -808,7 +826,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd-one-out"
-    instructions: "In each group of four, circle the word that does NOT belong."
+    instructions: "Kreise in jeder Gruppe von vier Wörtern das Wort ein, das NICHT passt."
+    instructionsEn: "In each group of four, circle the word that does NOT belong."
     groups:
       - items: [hilfsbereit, freundlich, faul, nett]
         odd: 2
@@ -834,7 +853,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Rückblick: frühere Lektionen"
-    instructions: "Review of earlier lessons. 10 items."
+    instructions: "Wiederholung früherer Lektionen. 10 Aufgaben."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus Lektion A1/L3 (Akkusativ):**
       1. Ich suche {1} alten Mann. (defin. Art. + Adj., mask. Akk.)

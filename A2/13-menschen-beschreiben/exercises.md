@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Anna erzählt Bruno von ihrem neuen Nachbarn. ( )
 2. Marko ist 32 Jahre alt. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Wie lange wohnt Klaus schon im Haus?  a) Seit drei Wochen.  b) Seit einer Woche.  c) Seit einem Monat.
 2. Was ist Klaus von Beruf?  a) Er ist Lehrer.  b) Er ist Arzt.  c) Er ist Architekt.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Four words in the box are not needed.
+Höre und ergänze die 6 fehlenden Wörter. Vier Wörter im Kasten werden nicht gebraucht.
 
 > Meine Freundin Lena wohnt in (1) ______. Sie ist (2) ______ Jahre alt
 > und studiert (3) ______. Sie hat lange (4) ______ Haare und blaue
@@ -46,7 +46,7 @@ Listen and fill in the 6 missing words. Four words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Warum ruft Anna an?  a) Sie kann Bruno nicht vom Bahnhof abholen.  b) Sie kommt ein bisschen später als geplant.  c) Sie hat Brunos Bruder am Bahnhof getroffen.
 2. Wen soll Bruno abholen?  a) Einen Kollegen von Anna.  b) Annas Freund Marko.  c) Annas Bruder Sergej.
@@ -84,14 +84,14 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A1 — Relativpronomen: Tabelle
 
-Fill in all eight relative pronoun forms (Nominativ and Akkusativ).
+Ergänze alle acht Relativpronomen-Formen (Nominativ und Akkusativ).
 
 **Nominativ:** maskulin: ______ · feminin: ______ · neutrum: ______ · Plural: ______
 **Akkusativ:** maskulin: ______ · feminin: ______ · neutrum: ______ · Plural: ______
 
 ## Übung A2 — Relativsatz: Nominativ
 
-Fill in the correct relative pronoun (Nominativ: der / die / das / die). 6 items.
+Ergänze das richtige Relativpronomen (Nominativ: der / die / das / die). 6 Aufgaben.
 
 1. Das ist der Mann, ______ neben Anna arbeitet.
 2. Ich habe eine Freundin, ______ sehr klug ist.
@@ -102,7 +102,7 @@ Fill in the correct relative pronoun (Nominativ: der / die / das / die). 6 items
 
 ## Übung A3 — Relativsatz: Akkusativ
 
-Fill in the correct relative pronoun (Akkusativ: den / die / das / die). 6 items.
+Ergänze das richtige Relativpronomen (Akkusativ: den / die / das / die). 6 Aufgaben.
 
 1. Das ist der Film, ______ ich sehr gerne mag.
 2. Ich kenne die Frau, ______ du meinst.
@@ -113,7 +113,7 @@ Fill in the correct relative pronoun (Akkusativ: den / die / das / die). 6 items
 
 ## Übung A4 — Nominativ oder Akkusativ?
 
-First decide: is the noun in the relative clause the subject (→ Nominativ) or the object (→ Akkusativ)? 8 items.
+Entscheide zuerst: Ist das Nomen im Relativsatz Subjekt (→ Nominativ) oder Objekt (→ Akkusativ)? 8 Aufgaben.
 
 1. Das ist der Kollege, ______ immer hilfsbereit ist. (subject of *ist*)
 2. Das ist der Kollege, ______ alle im Team mögen. (object of *mögen*)
@@ -179,7 +179,7 @@ First decide: is the noun in the relative clause the subject (→ Nominativ) or 
 
 ## Übung A10 — Mini-Lückentext: Relativpronomen im Kontext
 
-Fill in the correct relative pronoun (der / die / das / den). 4 items.
+Ergänze das richtige Relativpronomen (der / die / das / den). 4 Aufgaben.
 
 Mein Kollege Marko ist der Mensch, (1) ______ immer gute Laune hat.
 Er ist der Typ, (2) ______ ich sehr sympathisch finde.
@@ -198,7 +198,7 @@ Das ist das Café, (4) ______ er am liebsten besucht.
 
 ## Übung A12 — Gesamtübung: Nom und Akk gemischt
 
-First decide: Nominativ or Akkusativ? 8 items.
+Entscheide zuerst: Nominativ oder Akkusativ? 8 Aufgaben.
 
 1. Ich mag die Kollegin, ______ immer lustig ist.
 2. Das ist der Freund, ______ mir gestern geholfen hat.
@@ -215,7 +215,7 @@ First decide: Nominativ or Akkusativ? 8 items.
 
 ## Übung B1 — Dialog ergänzen: Relativpronomen einsetzen
 
-Fill in the correct relative pronoun. 4 items.
+Ergänze das richtige Relativpronomen. 4 Aufgaben.
 
 — Wer ist der Mann, (1) ______ dort neben Frau Weber steht?
 — Das ist Klaus, der neue Nachbar.
@@ -250,7 +250,7 @@ Fill in the correct relative pronoun. 4 items.
 
 ## Übung B4 — Zuordnen: Was passt zusammen?
 
-Match each sentence beginning (1–4) to the correct relative clause (a–d).
+Ordne jeden Satzanfang (1–4) dem passenden Relativsatz (a–d) zu.
 
 | Links | | Rechts |
 |---|---|---|
@@ -282,7 +282,7 @@ Match each sentence beginning (1–4) to the correct relative clause (a–d).
 
 ## Übung B7 — Wortschatz: Charakter und Aussehen
 
-Match each German adjective (1–6) to its English meaning (a–f).
+Ordne jedes deutsche Adjektiv (1–6) seiner englischen Bedeutung (a–f) zu.
 
 | Links | | Rechts |
 |---|---|---|
@@ -323,7 +323,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Read the text and fill in one suitable word in each gap. 10 items.
+Lies den Text und ergänze in jeder Lücke ein passendes Wort. 10 Aufgaben.
 
 Mein neuer Kollege heißt Jan. Er ist 30 Jahre alt und kommt aus
 Hamburg. Er ist groß und (1) ______, hat kurze (2) ______ Haare
@@ -338,7 +338,7 @@ am meisten (10) ______.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Read the text and choose the best option (a, b, or c) for each gap.
+Lies den Text und wähle die beste Option (a, b oder c) für jede Lücke.
 
 1. ich möchte Ihnen unsere neue (1) ___ vorstellen.  a) Kollegin  b) Kollegen  c) Kollege
 2. Sie heißt Frau Müller und (2) ___ seit zwei Wochen in unserem Team.  a) arbeiten  b) arbeitest  c) arbeitet
@@ -349,7 +349,7 @@ Read the text and choose the best option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. Ten words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > Mein Freund Noah ist 28 Jahre alt und kommt aus Hamburg.
 > Er ist groß und (1) (1) ______, hat kurze (2) (2) ______ Haare.
@@ -422,7 +422,7 @@ Self-check:
 
 ## Übung D1 — Schnelltest
 
-Fill each gap with the correct word. Items marked (L…) review an earlier lesson. 15 items.
+Fülle jede Lücke mit dem richtigen Wort. Mit (L…) markierte Aufgaben wiederholen eine frühere Lektion. 15 Aufgaben.
 
 1. Das ist der Mann, ______ neben Anna arbeitet.
 2. Das ist die Frau, ______ Bruno kennt.
@@ -442,7 +442,7 @@ Fill each gap with the correct word. Items marked (L…) review an earlier lesso
 
 ## Übung D2 — Odd-one-out
 
-In each group of four, circle the word that does NOT belong.
+Kreise in jeder Gruppe von vier Wörtern das Wort ein, das NICHT passt.
 
 1. hilfsbereit – freundlich – faul – nett
 2. Bruder – Schwester – Tante – Brille
@@ -453,7 +453,7 @@ In each group of four, circle the word that does NOT belong.
 
 ## Übung D3 — Rückblick: frühere Lektionen
 
-Review of earlier lessons. 10 items.
+Wiederholung früherer Lektionen. 10 Aufgaben.
 
 **Aus Lektion A1/L3 (Akkusativ):**
 1. Ich suche ______ alten Mann. (defin. Art. + Adj., mask. Akk.)
