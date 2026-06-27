@@ -326,7 +326,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Konjugation: Verben zur Arbeit"
-    instructions: "Write the correct verb form."
+    instructions: "Schreibe die richtige Verbform."
+    instructionsEn: "Write the correct verb form."
     text: |
       1. Er {1} (arbeiten) seit drei Jahren als Ingenieur.
       2. Wann {2} (anfangen) dein Arbeitstag?
@@ -349,7 +350,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`wenn` oder `weil`?"
-    instructions: "Choose `wenn` or `weil` and complete the gap with the verb (infinitive + modal or finite verb, at the end of the clause)."
+    instructions: "Wähle „wenn\" oder „weil\" und ergänze die Lücke mit dem Verb (Infinitiv + Modalverb oder finites Verb, am Ende des Satzes)."
+    instructionsEn: "Choose `wenn` or `weil` and complete the gap with the verb (infinitive + modal or finite verb, at the end of the clause)."
     text: |
       1. Er lernt viel, {1} er die Prüfung bestehen {2} (bestehen wollen).
       2. Ich bin glücklich, {3} meine Arbeit interessant {4} (sein).
@@ -383,7 +385,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Satzklammer recap: Trennbare Verben (L5 review)"
-    instructions: "Each item has two gaps: the conjugated verb (position 2) and the separable prefix (end of clause)."
+    instructions: "Jede Aufgabe hat zwei Lücken: das konjugierte Verb (Position 2) und die trennbare Vorsilbe (am Satzende)."
+    instructionsEn: "Each item has two gaps: the conjugated verb (position 2) and the separable prefix (end of clause)."
     text: |
       1. Bruno {1} um neun Uhr {2} (anfangen).
       2. {3} du nach der Arbeit {4}? (aufhören)
@@ -426,7 +429,8 @@ exercises:
     block: B
     type: gap-bank
     title: "Dialog ergänzen"
-    instructions: "Fill in the 7 gaps with words from the box. Four words are not needed."
+    instructions: "Fülle die 7 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht."
+    instructionsEn: "Fill in the 7 gaps with words from the box. Four words are not needed."
     text: |
       — Entschuldigung, ich interessiere mich für die {1} als Buchhalter.
       — Ja, bitte. Haben Sie schon {2} in diesem Bereich?
@@ -449,7 +453,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. The wrong word/position is shown as a gap — write the correct form."
+    instructions: "Jeder Satz hat genau einen Fehler. Das falsche Wort oder die falsche Position steht als Lücke — schreibe die richtige Form."
+    instructionsEn: "Each sentence has exactly one mistake. The wrong word/position is shown as a gap — write the correct form."
     text: |
       1. Wenn er fertig ist, {1} sofort. (er kommt → ?)
       2. Ich arbeite als {2} Ärztin in Hamburg. (eine → ?)
@@ -474,7 +479,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Sätze verbinden: `wenn`, `weil`, `deshalb`"
-    instructions: "Combine using the connector given. The gap is the connector (and any required verb at the end of the wenn-clause)."
+    instructions: "Verbinde mit dem angegebenen Konnektor. Die Lücke ist der Konnektor (und ggf. das Verb am Ende des wenn-Satzes)."
+    instructionsEn: "Combine using the connector given. The gap is the connector (and any required verb at the end of the wenn-clause)."
     text: |
       1. Ich habe viel Erfahrung. → {1} ich viel Erfahrung habe, bekomme ich die Stelle.
       2. Er braucht Geld. → Er arbeitet viel, {2} er Geld braucht.
@@ -494,7 +500,8 @@ exercises:
     block: B
     type: matching
     title: "Fragen und Antworten zuordnen"
-    instructions: "Match each question (1–8) to the correct answer (a–h)."
+    instructions: "Ordne jede Frage (1–8) der passenden Antwort (a–h) zu."
+    instructionsEn: "Match each question (1–8) to the correct answer (a–h)."
     left:
       - { key: "1", text: "Was machen Sie von Beruf?" }
       - { key: "2", text: "Wo arbeiten Sie?" }
@@ -527,7 +534,8 @@ exercises:
     block: B
     type: order
     title: "Satzbau: `wenn`-Sätze"
-    instructions: "Put the words in the right order."
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the right order."
     items:
       - tiles: [wenn, ist, er, kommt, er, fertig, sofort]
         answer: [0, 2, 5, 1, 3, 4, 6]
@@ -594,7 +602,8 @@ exercises:
     block: B
     type: matching
     title: "Wie heißt das auf Deutsch?"
-    instructions: "Match the English job ad phrases (1–8) to the German equivalents (a–h)."
+    instructions: "Ordne die englischen Stellenanzeigen-Phrasen (1–8) den deutschen Entsprechungen (a–h) zu."
+    instructionsEn: "Match the English job ad phrases (1–8) to the German equivalents (a–h)."
     left:
       - { key: "1", text: "We are looking for a qualified engineer." }
       - { key: "2", text: "Please send your CV and cover letter." }
@@ -677,7 +686,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |
       Bruno hat eine Stelle {1} IT-Assistent bei einer Softwarefirma gefunden. Heute ist sein erster Arbeitstag. Er steht um sieben Uhr {2} und fährt mit der U-Bahn ins Büro. Sein Chef, Herr Keller, stellt ihm die {3} vor. Brunos Kollegin Laura {4} als Programmiererin. Der Arbeitstag {5} um neun Uhr. Wenn Bruno {6} hat, geht er in die Kantine. Am Nachmittag hat er an einer {7} teilgenommen. Er hat nicht alles {8}, aber das macht {9}. Wenn die ersten Wochen gut {10}, möchte er langfristig bei der Firma bleiben.
     answers:
@@ -746,7 +756,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
     text: |
       Guten Tag! Ich heiße Petra Schmidt und ich {1} als Buchhalterin {2} einer mittelgroßen Firma in Frankfurt. Mein Arbeitstag {3} um acht Uhr dreißig. Ich sitze im {4} im dritten Stock. Meine {5} sind sehr nett — wir arbeiten gut {6}. {7} ich Hunger habe, gehe ich in die {8}. Ich mache eine kurze {9} von zwölf bis dreizehn Uhr. Das {10} ist gut — ich bin insgesamt sehr zufrieden.
     bank: [ALS, ARBEITE, AUSBILDUNG, BEI, BEWERBUNG, BÜRO, BEGINNT, CHEF, CHEFIN, FEIERABEND, GEHALT, KANTINE, KOLLEGEN, LANGE, PAUSE, STELLE, TEILZEIT, VOLLZEIT, WENN, ZUSAMMEN]
@@ -867,7 +878,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per item. No notes."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen."
+    instructionsEn: "One minute per item. No notes."
     text: |
       1. „Ich arbeite {1} Lehrerin." (which particle?)
       2. Verb position in a `wenn`-clause: position {2}.
@@ -909,7 +921,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd one out"
-    instructions: "Circle the word that doesn't belong and say why."
+    instructions: "Kreise das Wort ein, das nicht passt, und sage warum."
+    instructionsEn: "Circle the word that doesn't belong and say why."
     groups:
       - items: [Lehrer, Ärztin, Büro, Koch]
         odd: 2
@@ -935,7 +948,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Rückblick: Subordinate clauses"
-    instructions: "Complete each sentence with the correct connector (`wenn`, `weil`, `dass`, `ob`) and put the verb at the end. Each item has two gaps."
+    instructions: "Ergänze jeden Satz mit dem richtigen Konnektor („wenn\", „weil\", „dass\", „ob\") und setze das Verb ans Ende. Jede Aufgabe hat zwei Lücken."
+    instructionsEn: "Complete each sentence with the correct connector (`wenn`, `weil`, `dass`, `ob`) and put the verb at the end. Each item has two gaps."
     text: |
       1. Ich glaube, {1} Bruno bald einen Job {2} (finden).
       2. Er ist nervös, {3} das Vorstellungsgespräch morgen {4} (sein).

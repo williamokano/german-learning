@@ -171,7 +171,7 @@ Match each definition (1–8) to the correct noun (a–h).
 
 ## Übung A9 — Konjugation: Verben zur Arbeit
 
-Write the correct verb form.
+Schreibe die richtige Verbform.
 
 1. Er ______ (arbeiten) seit drei Jahren als Ingenieur.
 2. Wann ______ (anfangen) dein Arbeitstag?
@@ -183,7 +183,7 @@ Write the correct verb form.
 
 ## Übung A10 — `wenn` oder `weil`?
 
-Choose `wenn` or `weil` and complete the gap with the verb (infinitive + modal or finite verb, at the end of the clause).
+Wähle „wenn" oder „weil" und ergänze die Lücke mit dem Verb (Infinitiv + Modalverb oder finites Verb, am Ende des Satzes).
 
 1. Er lernt viel, ______ er die Prüfung bestehen ______ (bestehen wollen).
 2. Ich bin glücklich, ______ meine Arbeit interessant ______ (sein).
@@ -196,7 +196,7 @@ Choose `wenn` or `weil` and complete the gap with the verb (infinitive + modal o
 
 ## Übung A11 — Satzklammer recap: Trennbare Verben (L5 review)
 
-Each item has two gaps: the conjugated verb (position 2) and the separable prefix (end of clause).
+Jede Aufgabe hat zwei Lücken: das konjugierte Verb (Position 2) und die trennbare Vorsilbe (am Satzende).
 
 1. Bruno ______ um neun Uhr ______ (anfangen).
 2. ______ du nach der Arbeit ______? (aufhören)
@@ -221,7 +221,7 @@ Each item has two gaps: the conjugated verb (position 2) and the separable prefi
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the 7 gaps with words from the box. Four words are not needed.
+Fülle die 7 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht.
 
 > — Entschuldigung, ich interessiere mich für die (1) ______ als Buchhalter.
 > — Ja, bitte. Haben Sie schon (2) ______ in diesem Bereich?
@@ -234,7 +234,7 @@ Fill in the 7 gaps with words from the box. Four words are not needed.
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong word/position is shown as a gap — write the correct form.
+Jeder Satz hat genau einen Fehler. Das falsche Wort oder die falsche Position steht als Lücke — schreibe die richtige Form.
 
 1. Wenn er fertig ist, ______ sofort. (er kommt → ?)
 2. Ich arbeite als ______ Ärztin in Hamburg. (eine → ?)
@@ -247,7 +247,7 @@ Each sentence has exactly one mistake. The wrong word/position is shown as a gap
 
 ## Übung B3 — Sätze verbinden: `wenn`, `weil`, `deshalb`
 
-Combine using the connector given. The gap is the connector (and any required verb at the end of the wenn-clause).
+Verbinde mit dem angegebenen Konnektor. Die Lücke ist der Konnektor (und ggf. das Verb am Ende des wenn-Satzes).
 
 1. Ich habe viel Erfahrung. → ______ ich viel Erfahrung habe, bekomme ich die Stelle.
 2. Er braucht Geld. → Er arbeitet viel, ______ er Geld braucht.
@@ -258,7 +258,7 @@ Combine using the connector given. The gap is the connector (and any required ve
 
 ## Übung B4 — Fragen und Antworten zuordnen
 
-Match each question (1–8) to the correct answer (a–h).
+Ordne jede Frage (1–8) der passenden Antwort (a–h) zu.
 
 | Links | | Rechts |
 |---|---|---|
@@ -273,7 +273,7 @@ Match each question (1–8) to the correct answer (a–h).
 
 ## Übung B5 — Satzbau: `wenn`-Sätze
 
-Put the words in the right order.
+Bringe die Wörter in die richtige Reihenfolge.
 
 1. er – fertig – ist – wenn – sofort – er – kommt
 2. ich – nichts – keinen – ich – esse – habe – wenn – Hunger
@@ -313,7 +313,7 @@ Use:
 
 ## Übung B8 — Wie heißt das auf Deutsch?
 
-Match the English job ad phrases (1–8) to the German equivalents (a–h).
+Ordne die englischen Stellenanzeigen-Phrasen (1–8) den deutschen Entsprechungen (a–h) zu.
 
 | Links | | Rechts |
 |---|---|---|
@@ -362,7 +362,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Bruno hat eine Stelle ______ IT-Assistent bei einer Softwarefirma gefunden. Heute ist sein erster Arbeitstag. Er steht um sieben Uhr ______ und fährt mit der U-Bahn ins Büro. Sein Chef, Herr Keller, stellt ihm die ______ vor. Brunos Kollegin Laura ______ als Programmiererin. Der Arbeitstag ______ um neun Uhr. Wenn Bruno ______ hat, geht er in die Kantine. Am Nachmittag hat er an einer ______ teilgenommen. Er hat nicht alles ______, aber das macht ______. Wenn die ersten Wochen gut ______, möchte er langfristig bei der Firma bleiben.
 
@@ -379,7 +379,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Ten words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > Guten Tag! Ich heiße Petra Schmidt und ich (1) ______ als Buchhalterin (2) ______ einer mittelgroßen Firma in Frankfurt. Mein Arbeitstag (3) ______ um acht Uhr dreißig. Ich sitze im (4) ______ im dritten Stock. Meine (5) ______ sind sehr nett — wir arbeiten gut (6) ______. (7) ______ ich Hunger habe, gehe ich in die (8) ______. Ich mache eine kurze (9) ______ von zwölf bis dreizehn Uhr. Das (10) ______ ist gut — ich bin insgesamt sehr zufrieden.
 
@@ -446,7 +446,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes.
+Eine Minute pro Aufgabe. Keine Notizen.
 
 1. „Ich arbeite ______ Lehrerin." (which particle?)
 2. Verb position in a `wenn`-clause: position ______.
@@ -466,7 +466,7 @@ One minute per item. No notes.
 
 ## Übung D2 — Odd one out
 
-Circle the word that doesn't belong and say why.
+Kreise das Wort ein, das nicht passt, und sage warum.
 
 1. Lehrer – Ärztin – Büro – Koch
 2. Bewerbung – Lebenslauf – Pause – Anschreiben
@@ -477,7 +477,7 @@ Circle the word that doesn't belong and say why.
 
 ## Übung D3 — Rückblick: Subordinate clauses
 
-Complete each sentence with the correct connector (`wenn`, `weil`, `dass`, `ob`) and put the verb at the end. Each item has two gaps.
+Ergänze jeden Satz mit dem richtigen Konnektor („wenn", „weil", „dass", „ob") und setze das Verb ans Ende. Jede Aufgabe hat zwei Lücken.
 
 1. Ich glaube, ______ Bruno bald einen Job ______ (finden).
 2. Er ist nervös, ______ das Vorstellungsgespräch morgen ______ (sein).
