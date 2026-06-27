@@ -339,7 +339,14 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lukas' Fotoalbum)
 
-Read the Lesetext in lesson.md, section 5. Richtig (R) oder falsch (F)?
+> Ich habe das Album auf dem Dachboden gefunden. **Damals** war ich 26 und hatte gerade meine erste Festanstellung als Entwickler angefangen. Ich war so stolz! Auf dem ersten Foto sehe ich mein altes Auto — einen kaputten Polo, den ich 2016 für 800 Euro gekauft hatte. Ich bin damit jeden Tag zur Arbeit gefahren, eine Stunde pro Strecke. Heute fahre ich Rad, das ist viel besser.
+>
+> Auf dem nächsten Foto sehe ich meine alte Wohnung in Moabit. Sie war klein, 45 Quadratmeter, und ich zahlte 540 Euro Miete. **Damals** fand ich das teuer. Heute, 2026, zahle ich für die gleiche Wohnungsgröße das Doppelte — aber ich wohne mit meiner Partnerin Mia zusammen, also teilen wir die Miete.
+>
+> Das letzte Foto ist von einer Reise nach Lissabon im Winter 2018. Ich war dort nur drei Tage, weil ich **keinen** Urlaub bekommen hatte. **Nachdem** ich **zurückgekommen war**, **hatte** ich eine Erkältung und war eine Woche krank. Heute habe ich 30 Tage Urlaub im Jahr. Das hätte ich damals nie gedacht.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Lukas hat das Fotoalbum auf dem Dachboden gefunden. ( )
 2. Lukas war 28, als er seine erste Festanstellung anfing. ( )
