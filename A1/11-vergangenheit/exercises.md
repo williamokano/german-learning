@@ -361,7 +361,19 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Mein letzter Urlaub
 
-Read „Mein letzter Urlaub" in lesson.md, section 7. Richtig (R) oder falsch (F)?
+> Letzten Sommer bin ich mit meiner Freundin nach Wien gefahren. Wir
+> waren vier Tage dort. Am ersten Tag haben wir das Zentrum besichtigt
+> und viele Fotos gemacht. Wir sind ins Museum gegangen und haben eine
+> Ausstellung gesehen. Das war sehr interessant! Am zweiten Tag sind
+> wir den ganzen Tag spazieren gegangen. Das Wetter war herrlich —
+> warm und sonnig. Wir haben in einem kleinen Restaurant gegessen und
+> Wein getrunken. Am Abend sind wir ins Konzert gegangen. Die Musik
+> war wunderbar. Am letzten Tag haben wir im Supermarkt eingekauft —
+> Schokolade und Kaffee als Souvenirs! Dann sind wir nach Hause
+> gefahren. Ich war müde, aber sehr glücklich. Wien war toll!
+
+Richtig (R) oder falsch (F)?
+
 
 1. Die Person ist mit einem Freund nach Wien gefahren. ( )
 2. Sie waren vier Tage in Wien. ( )
