@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Anna hat eine neue WG gefunden. ( )
 2. Vier Leute wohnen in der neuen WG. ( )
@@ -21,7 +21,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Die neue Wohnung der Familie Steinmeyer befindet sich …  a) im Erdgeschoss  b) im dritten Stock  c) im zweiten Stock
 2. Wo steht das Sofa jetzt?  a) Neben dem Fernseher  b) Hinter dem Fernseher  c) Vor dem Fernseher
@@ -32,7 +32,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 8 missing words. Three words in the box are not needed.
+Höre und fülle die 8 fehlenden Wörter ein. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Bruno sucht eine neue Wohnung in Berlin. Er hat heute drei Wohnungen (1) ______.
 > Die erste Wohnung war sehr (2) ______ — das Bett (3) ______ fast vor der Tür.
@@ -48,7 +48,7 @@ Listen and fill in the 8 missing words. Three words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the phone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Telefonnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Wann ist die Besichtigung?  a) Am Freitag um elf Uhr.  b) Am Samstag um elf Uhr.  c) Am Samstag um zehn Uhr.
 2. Wo ist die Wohnung?  a) In der Lindenallee 14.  b) In der Lindenstraße 14.  c) In der Schillerstraße 14.
@@ -85,7 +85,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A1 — Wo? oder Wohin? (Dativ oder Akkusativ?)
 
-For each sentence, write Wo? or Wohin? and the correct case (Dativ or Akkusativ).
+Schreibe für jeden Satz „Wo?" oder „Wohin?" und den richtigen Fall (Dativ oder Akkusativ).
 
 1. Das Buch liegt auf dem Tisch. → ______ / ______
 2. Ich lege das Buch auf den Tisch. → ______ / ______
@@ -98,7 +98,7 @@ For each sentence, write Wo? or Wohin? and the correct case (Dativ or Akkusativ)
 
 ## Übung A2 — Artikel im Dativ (Wo?)
 
-Fill in the correct dative article (dem / der / dem / den).
+Ergänze den richtigen Dativartikel (dem / der / dem / den).
 
 1. Die Lampe hängt über ______ Tisch (m).
 2. Das Buch liegt auf ______ Kommode (f).
@@ -113,7 +113,7 @@ Fill in the correct dative article (dem / der / dem / den).
 
 ## Übung A3 — Artikel im Akkusativ (Wohin?)
 
-Fill in the correct accusative article (den / die / das / die).
+Ergänze den richtigen Akkusativartikel (den / die / das / die).
 
 1. Ich hänge die Lampe über ______ Tisch (m).
 2. Stell den Stuhl neben ______ Tür (f).
@@ -128,7 +128,7 @@ Fill in the correct accusative article (den / die / das / die).
 
 ## Übung A4 — Kontraktionen (in/an + Artikel)
 
-Write the contracted form where possible, or the unchanged form if no contraction exists.
+Schreibe die Kurzform, wo möglich, oder die unveränderte Form, wenn es keine Kurzform gibt.
 
 1. in + das → ______
 2. in + dem → ______
@@ -147,7 +147,7 @@ Now use the contractions in sentences:
 
 ## Übung A5 — stellen oder stehen?
 
-Choose `stellen` (action) or `stehen` (state). Write the correct present-tense form.
+Wähle „stellen" (Aktion) oder „stehen" (Zustand). Schreibe die richtige Präsensform.
 
 1. Wo ______ der Schreibtisch? — Er ______ am Fenster.
 2. Ich ______ den Stuhl neben den Tisch.
@@ -160,7 +160,7 @@ Choose `stellen` (action) or `stehen` (state). Write the correct present-tense f
 
 ## Übung A6 — legen oder liegen?
 
-Choose `legen` (action) or `liegen` (state). Write the correct present-tense form.
+Wähle „legen" (Aktion) oder „liegen" (Zustand). Schreibe die richtige Präsensform.
 
 1. Das Kissen ______ auf dem Sofa.
 2. Ich ______ die Bücher auf den Tisch.
@@ -173,7 +173,7 @@ Choose `legen` (action) or `liegen` (state). Write the correct present-tense for
 
 ## Übung A7 — hängen: action or state?
 
-Write the correct present-tense form of `hängen`. Then write whether it is action (Wohin? + Akk) or state (Wo? + Dat).
+Schreibe die richtige Präsensform von „hängen". Schreibe dann, ob es eine Aktion (Wohin? + Akk) oder ein Zustand (Wo? + Dat) ist.
 
 1. Das Bild ______ an der Wand. → ______
 2. Ich ______ das Bild an die Wand. → ______
@@ -184,7 +184,7 @@ Write the correct present-tense form of `hängen`. Then write whether it is acti
 
 ## Übung A8 — Wechselpräpositionen: alle neun
 
-Fill in the correct preposition from the box. Each is used once.
+Ergänze die richtige Präposition aus dem Kasten. Jede wird einmal verwendet.
 
 > in · an · auf · über · unter · vor · hinter · neben · zwischen
 
@@ -200,7 +200,7 @@ Fill in the correct preposition from the box. Each is used once.
 
 ## Übung A9 — Vollständige Sätze: stellen + Akkusativ
 
-Build a complete sentence using `stellen` + the correct accusative article. Example: Buch / auf / Tisch (m) → Ich stelle das Buch auf den Tisch.
+Bilde einen vollständigen Satz mit „stellen" und dem richtigen Akkusativartikel. Beispiel: Buch / auf / Tisch (m) → Ich stelle das Buch auf den Tisch.
 
 1. Lampe (f) / über / Tisch (m) → ______
 2. Stuhl (m) / neben / Fenster (n) → ______
@@ -211,7 +211,7 @@ Build a complete sentence using `stellen` + the correct accusative article. Exam
 
 ## Übung A10 — stehen / liegen / hängen: wo ist was?
 
-Describe the location using the correct verb and dative article. Example: Buch / auf / Regal (n) → Das Buch steht im Regal.
+Beschreibe den Ort mit dem passenden Verb und Dativartikel. Beispiel: Buch / auf / Regal (n) → Das Buch steht im Regal.
 
 1. Kissen (pl) / auf / Sofa (n) → ______
 2. Bild (n) / an / Wand (f) → ______
@@ -222,7 +222,7 @@ Describe the location using the correct verb and dative article. Example: Buch /
 
 ## Übung A11 — Transformation: Wohin? → Wo?
 
-Change the action sentence into a state sentence. Example: Ich stelle den Stuhl neben die Tür. → Der Stuhl steht neben der Tür.
+Schreibe den Aktionssatz als Zustandssatz. Beispiel: Ich stelle den Stuhl neben die Tür. → Der Stuhl steht neben der Tür.
 
 1. Ich lege das Buch auf den Tisch. → ______
 2. Er hängt die Lampe über den Schreibtisch. → ______
@@ -233,7 +233,7 @@ Change the action sentence into a state sentence. Example: Ich stelle den Stuhl 
 
 ## Übung A12 — Transformation: Wo? → Wohin?
 
-Change the state sentence into a command (imperative du-form) using the action verb. Example: Der Stuhl steht neben der Tür. → Stell den Stuhl neben die Tür!
+Forme den Zustandssatz in eine Aufforderung (du-Imperativ) mit dem Aktionsverb um. Beispiel: Der Stuhl steht neben der Tür. → Stell den Stuhl neben die Tür!
 
 1. Das Buch liegt auf dem Tisch. → ______
 2. Das Bild hängt an der Wand. → ______
@@ -248,7 +248,7 @@ Change the state sentence into a command (imperative du-form) using the action v
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the gaps with the correct form. Choose from: stell / steht / liegen / stellt / hängt / hänge / Stell / sieht.
+Ergänze die Lücken mit der richtigen Form. Wähle aus: stell / steht / liegen / stellt / hängt / hänge / Stell / sieht.
 
 — Wo soll das Sofa hin?
 — ______ es vor den Fernseher.
@@ -262,7 +262,7 @@ Fill in the gaps with the correct form. Choose from: stell / steht / liegen / st
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
+Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form.
 
 1. Ich stelle das Buch auf ______ Tisch. (dem → ?)
 2. Die Lampe hängt über ______ Schreibtisch. (den → ?)
@@ -290,7 +290,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 ## Übung B4 — Satzbau: Wechselpräpositionen
 
-Build a correct German sentence from the cues.
+Bilde aus den Vorgaben einen korrekten deutschen Satz.
 
 1. die – über – dem – Tisch – Lampe – hängt
 2. Ich – den – das – Fenster – vor – stelle – Stuhl
@@ -305,7 +305,7 @@ Build a correct German sentence from the cues.
 
 *Anna's room:* Bett — an der linken Wand · Schreibtisch — am Fenster · Bücherregal — neben der Tür · Lampe — über dem Schreibtisch · Kissen (2 Stück) — auf dem Bett · Bücher — im Regal
 
-Look at the description and answer the questions in complete sentences.
+Schau dir die Beschreibung an und beantworte die Fragen in vollständigen Sätzen.
 
 
 > 1. Wo steht das Bett?
@@ -320,7 +320,7 @@ Look at the description and answer the questions in complete sentences.
 
 ## Übung B6 — Kategorien: Möbel sortieren
 
-Sort these words into the correct room. Some words fit more than one room — put them in the most natural room and be ready to explain.
+Sortiere diese Wörter dem passenden Zimmer zu. Manche Wörter passen in mehrere Zimmer — ordne sie dem natürlichsten Zimmer zu und sei bereit, deine Wahl zu erklären.
 
 > Bett · Kleiderschrank · Schreibtisch · Sofa · Fernseher · Sessel · Kissen · Teppich · Bücherregal · Herd · Kühlschrank · Esstisch · Badewanne · Dusche · Waschbecken
 
@@ -344,7 +344,7 @@ Sort these words into the correct room. Some words fit more than one room — pu
 
 ## Übung B8 — Hausregeln schreiben
 
-Example: Man stellt das schmutzige Geschirr nicht auf den Tisch — man spült es sofort.
+Beispiel: Man stellt das schmutzige Geschirr nicht auf den Tisch — man spült es sofort.
 
 **Your task:** Write 4 house rules for a shared flat, using man + modal verb or imperative. Use Wechselpräpositionen in at least two rules.
 
@@ -381,7 +381,7 @@ Self-check:
 
 ## Übung B10 — Mini-Aufsatz: Mein Zimmer
 
-**Situation:** You are moving into a WG next week. Your new flatmate has asked you to describe your room so they know where to help you place the furniture.
+**Situation:** Du ziehst nächste Woche in eine WG. Dein neuer Mitbewohner hat dich gebeten, dein Zimmer zu beschreiben, damit er weiß, wo er dir beim Möbelaufstellen helfen soll.
 
 **Your task:** Describe your own room (real or imaginary) in 5–6 sentences. Use stehen, liegen, hängen and at least four different Wechselpräpositionen with the correct case.
 
@@ -401,7 +401,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Anna ist letzte Woche (1) ______ ihre neue Wohngemeinschaft eingezogen. Die WG
 (2) ______ vier Zimmer und eine große Küche. Ihr Zimmer ist klein, aber (3) ______.
@@ -424,7 +424,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. Eleven words are not needed. Each word may be used once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Elf Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden.
 
 > — Wie sieht dein Zimmer aus?
 > — Also, das Bett (1) ______ an der Wand. (2) ______ dem Bett liegen zwei
@@ -503,7 +503,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes.
+Eine Minute pro Aufgabe. Keine Notizen.
 
 1. `stellen` oder `stehen`? For placing an upright object: ______
 2. `legen` oder `liegen`? For an object that is flat/horizontal: ______
@@ -523,7 +523,7 @@ One minute per item. No notes.
 
 ## Übung D2 — Odd one out
 
-Cross out the word that doesn't fit.
+Streiche das Wort durch, das nicht passt.
 
 1. stellen – legen – hängen – liegen
 2. in – an – auf – mit
