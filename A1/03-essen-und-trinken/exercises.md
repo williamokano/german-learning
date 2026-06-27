@@ -12,9 +12,9 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen to Dialog A and decide: richtig (R) oder falsch (F)?
 
-1. Anna bestellt einen Kaffee und ein Stück Apfelkuchen. ( )
-2. Bruno möchte Orangensaft. ( )
-3. Bruno bezahlt zusammen mit Anna. ( )
+1. Anna bestellt einen Kaffee und ein Stück Apfelkuchen. — Anna orders a coffee and a piece of apple cake. ( )
+2. Bruno möchte Orangensaft. — Bruno wants orange juice. ( )
+3. Bruno bezahlt zusammen mit Anna. — Bruno pays together with Anna. ( )
 
 ## Übung H1b — Dialog B Hör-Check (Im Supermarkt)
 
@@ -22,24 +22,24 @@ Listen to Dialog A and decide: richtig (R) oder falsch (F)?
 
 Listen to Dialog B and decide: richtig (R) oder falsch (F)?
 
-1. Im Supermarkt kauft Bruno Käse, Brot und Wasser. ( )
-2. Bruno kauft den Gouda und das Schwarzbrot. ( )
-3. Der Gouda kostet zwei Euro neunundneunzig. ( )
-4. Bruno kauft auch Eier. ( )
+1. Im Supermarkt kauft Bruno Käse, Brot und Wasser. — In the supermarket, Bruno buys cheese, bread, and water. ( )
+2. Bruno kauft den Gouda und das Schwarzbrot. — Bruno buys the Gouda and the rye bread. ( )
+3. Der Gouda kostet zwei Euro neunundneunzig. — The Gouda costs two euros ninety-nine. ( )
+4. Bruno kauft auch Eier. — Bruno also buys eggs. ( )
 
 ## Übung H2 — Aussprache-Check
 
 Höre den Hör-zu-Clip und wähle die passende Antwort.
 
-1. Hör zu 1 (Lebensmittel) — which one is a fruit?  
+1. Hör zu 1 (Lebensmittel) — which one is a fruit? — Hör zu 1 (Groceries) — which one is a fruit?  
    a) Brot  b) Banane  c) Käse
-2. Hör zu 1 (Lebensmittel) — which one is bread for breakfast?  
+2. Hör zu 1 (Lebensmittel) — which one is bread for breakfast? — Hör zu 1 (Groceries) — which one is bread for breakfast?  
    a) Brötchen  b) Wurst  c) Tomate
-3. Hör zu 2 (Getränke) — which one is alcoholic?  
+3. Hör zu 2 (Getränke) — which one is alcoholic? — Hör zu 2 (Drinks) — which one is alcoholic?  
    a) Kaffee  b) Tee  c) Bier
-4. Hör zu 3 (Verben) — 'kosten' means …  
+4. Hör zu 3 (Verben) — 'kosten' means … — Hör zu 3 (Verbs) — 'kosten' means …  
    a) to buy  b) to cost  c) to pay
-5. Hör zu 4 (Mengen) — which one is for a drink?  
+5. Hör zu 4 (Mengen) — which one is for a drink? — Hör zu 4 (Quantities) — which one is for a drink?  
    a) Stück  b) Tasse  c) Kilo
 
 ## Übung H3 — Hörtext-Lückentext
@@ -58,10 +58,10 @@ Listen and fill in the 6 missing words. Three words in the box are not needed.
 
 Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Was gibt es heute im Angebot?  a) Frische Brötchen.  b) Frisches Brot.  c) Frische Kuchen.
-2. Wie viel kosten sechs Brötchen?  a) Einen Euro.  b) Zwei Euro.  c) Drei Euro.
-3. Was ist auch zwanzig Prozent billiger?  a) Der Käse.  b) Das Obst.  c) Das Gemüse.
-4. Bis wann hat der Supermarkt heute geöffnet?  a) Bis achtzehn Uhr.  b) Bis neunzehn Uhr.  c) Bis zwanzig Uhr.
+1. Was gibt es heute im Angebot? — What's on offer today?  a) Frische Brötchen.  b) Frisches Brot.  c) Frische Kuchen.
+2. Wie viel kosten sechs Brötchen? — How much do six rolls cost?  a) Einen Euro.  b) Zwei Euro.  c) Drei Euro.
+3. Was ist auch zwanzig Prozent billiger? — What is also twenty percent cheaper?  a) Der Käse.  b) Das Obst.  c) Das Gemüse.
+4. Bis wann hat der Supermarkt heute geöffnet? — Until when is the supermarket open today?  a) Bis achtzehn Uhr.  b) Bis neunzehn Uhr.  c) Bis zwanzig Uhr.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -340,12 +340,12 @@ Five words are not needed.
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Ich trinke (1) ____ Kaffee.  a) ein  b) einen  c) eine
-2. … und esse ein (2) ____ Apfelkuchen.  a) Stück  b) Glas  c) Tasse
-3. Der Kuchen (3) ____ sehr gut!  a) schmeckt  b) isst  c) kostet
-4. Er kostet (4) ____ drei Euro.  a) nicht  b) nur  c) kein
-5. Das Café hat auch Frühstück: Brötchen (5) ____ Käse, Eier und Saft.  a) mit  b) aus  c) in
-6. … — alles (6) ____ acht Euro.  a) zusammen  b) getrennt  c) macht
+1. Ich trinke (1) ____ Kaffee. — I drink (1) ____ coffee.  a) ein  b) einen  c) eine
+2. … und esse ein (2) ____ Apfelkuchen. — … and I eat a (2) ____ apple cake.  a) Stück  b) Glas  c) Tasse
+3. Der Kuchen (3) ____ sehr gut! — The cake (3) ____ very good!  a) schmeckt  b) isst  c) kostet
+4. Er kostet (4) ____ drei Euro. — It costs (4) ____ three euros.  a) nicht  b) nur  c) kein
+5. Das Café hat auch Frühstück: Brötchen (5) ____ Käse, Eier und Saft. — The café also has breakfast: rolls (5) ____ cheese, eggs, and juice.  a) mit  b) aus  c) in
+6. … — alles (6) ____ acht Euro. — … — everything (6) ____ eight euros.  a) zusammen  b) getrennt  c) macht
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -391,11 +391,11 @@ Five words are not needed.
 Richtig (R) oder falsch (F)?
 
 
-1. Die Deutschen essen zum Frühstück oft Brot oder Brötchen. ( )
-2. Müsli ist nicht populär. ( )
-3. Am Wochenende ist das Frühstück klein. ( )
-4. Das Mittagessen ist oft warm. ( )
-5. Das Abendessen heißt „Abendbrot" und ist oft kalt. ( )
+1. Die Deutschen essen zum Frühstück oft Brot oder Brötchen. — Germans often eat bread or rolls for breakfast. ( )
+2. Müsli ist nicht populär. — Muesli is not popular. ( )
+3. Am Wochenende ist das Frühstück klein. — On the weekend, breakfast is small. ( )
+4. Das Mittagessen ist oft warm. — Lunch is often warm/hot. ( )
+5. Das Abendessen heißt „Abendbrot" und ist oft kalt. — Dinner is called "Abendbrot" and is often cold. ( )
 
 ## Übung C4b — Lesen Text 2 — Speisekarte
 
@@ -408,10 +408,10 @@ Speisekarte:
 Wähle a, b oder c.
 
 
-1. Das Frühstück „Fit" kostet …  a) 6,90 €  b) 5,50 €  c) 3,20 €
-2. Im Frühstück „Berlin" ist …  a) Müsli  b) ein Ei  c) Kuchen
-3. Ein Kaffee und ein Stück Apfelkuchen kosten zusammen …  a) 6,00 €  b) 5,70 €  c) 6,20 €
-4. Was kostet ein Glas Orangensaft?  a) 2,50 €  b) 2,80 €  c) 3,00 €
+1. Das Frühstück „Fit" kostet … — The "Fit" breakfast costs …  a) 6,90 €  b) 5,50 €  c) 3,20 €
+2. Im Frühstück „Berlin" ist … — In the "Berlin" breakfast, there is …  a) Müsli  b) ein Ei  c) Kuchen
+3. Ein Kaffee und ein Stück Apfelkuchen kosten zusammen … — A coffee and a piece of apple cake cost together …  a) 6,00 €  b) 5,70 €  c) 6,20 €
+4. Was kostet ein Glas Orangensaft? — How much is a glass of orange juice?  a) 2,50 €  b) 2,80 €  c) 3,00 €
 
 ## Übung C5 — Schreiben: Café-Dialog
 

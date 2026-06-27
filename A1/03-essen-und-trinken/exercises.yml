@@ -17,9 +17,9 @@ exercises:
     audio: dialog1_a.mp3
     instructions: "Listen to Dialog A and decide: richtig (R) oder falsch (F)?"
     items:
-      - { q: "Anna bestellt einen Kaffee und ein Stück Apfelkuchen.", answer: true, why: 'Anna sagt: „Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte."' }
-      - { q: "Bruno möchte Orangensaft.", answer: true, why: 'Bruno fragt nach Orangensaft und bestätigt „Ja, bitte" zum Angebot „Ein Glas Orangensaft".' }
-      - { q: "Bruno bezahlt zusammen mit Anna.", answer: false, why: "Sie bezahlen getrennt (separately), not zusammen." }
+      - { q: "Anna bestellt einen Kaffee und ein Stück Apfelkuchen. — Anna orders a coffee and a piece of apple cake.", answer: true, why: 'Anna sagt: „Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte."' }
+      - { q: "Bruno möchte Orangensaft. — Bruno wants orange juice.", answer: true, why: 'Bruno fragt nach Orangensaft und bestätigt „Ja, bitte" zum Angebot „Ein Glas Orangensaft".' }
+      - { q: "Bruno bezahlt zusammen mit Anna. — Bruno pays together with Anna.", answer: false, why: "Sie bezahlen getrennt (separately), not zusammen." }
 
   - id: H1b
     block: H
@@ -28,10 +28,10 @@ exercises:
     audio: dialog1_b.mp3
     instructions: "Listen to Dialog B and decide: richtig (R) oder falsch (F)?"
     items:
-      - { q: "Im Supermarkt kauft Bruno Käse, Brot und Wasser.", answer: true, why: 'Bruno kauft „den Gouda, das Schwarzbrot und eine Flasche Wasser" — Gouda = Käse, Schwarzbrot = Brot.' }
-      - { q: "Bruno kauft den Gouda und das Schwarzbrot.", answer: true, why: 'Bruno sagt: „dann nehme ich den Gouda, das Schwarzbrot und eine Flasche Wasser."' }
-      - { q: "Der Gouda kostet zwei Euro neunundneunzig.", answer: true, why: 'Die Verkäuferin sagt: „Der Gouda? Zwei Euro neunundneunzig."' }
-      - { q: "Bruno kauft auch Eier.", answer: false, why: "Bruno kauft Gouda, Schwarzbrot und Wasser — keine Eier." }
+      - { q: "Im Supermarkt kauft Bruno Käse, Brot und Wasser. — In the supermarket, Bruno buys cheese, bread, and water.", answer: true, why: 'Bruno kauft „den Gouda, das Schwarzbrot und eine Flasche Wasser" — Gouda = Käse, Schwarzbrot = Brot.' }
+      - { q: "Bruno kauft den Gouda und das Schwarzbrot. — Bruno buys the Gouda and the rye bread.", answer: true, why: 'Bruno sagt: „dann nehme ich den Gouda, das Schwarzbrot und eine Flasche Wasser."' }
+      - { q: "Der Gouda kostet zwei Euro neunundneunzig. — The Gouda costs two euros ninety-nine.", answer: true, why: 'Die Verkäuferin sagt: „Der Gouda? Zwei Euro neunundneunzig."' }
+      - { q: "Bruno kauft auch Eier. — Bruno also buys eggs.", answer: false, why: "Bruno kauft Gouda, Schwarzbrot und Wasser — keine Eier." }
 
   - id: H2
     block: H
@@ -40,7 +40,7 @@ exercises:
     instructions: "Höre den Hör-zu-Clip und wähle die passende Antwort."
     instructionsEn: "Listen to the Hör zu clip and choose the matching answer."
     items:
-      - q: "Hör zu 1 (Lebensmittel) — which one is a fruit?"
+      - q: "Hör zu 1 (Lebensmittel) — which one is a fruit? — Hör zu 1 (Groceries) — which one is a fruit?"
         audio: hoerzu1.mp3
         options:
           - { key: a, text: "Brot" }
@@ -48,7 +48,7 @@ exercises:
           - { key: c, text: "Käse" }
         answer: b
         why: "Banane is a fruit; Brot = bread, Käse = cheese."
-      - q: "Hör zu 1 (Lebensmittel) — which one is bread for breakfast?"
+      - q: "Hör zu 1 (Lebensmittel) — which one is bread for breakfast? — Hör zu 1 (Groceries) — which one is bread for breakfast?"
         audio: hoerzu1.mp3
         options:
           - { key: a, text: "Brötchen" }
@@ -56,7 +56,7 @@ exercises:
           - { key: c, text: "Tomate" }
         answer: a
         why: "Brötchen = small bread roll, breakfast classic; Wurst = sausage, Tomate = tomato."
-      - q: "Hör zu 2 (Getränke) — which one is alcoholic?"
+      - q: "Hör zu 2 (Getränke) — which one is alcoholic? — Hör zu 2 (Drinks) — which one is alcoholic?"
         audio: hoerzu2.mp3
         options:
           - { key: a, text: "Kaffee" }
@@ -64,7 +64,7 @@ exercises:
           - { key: c, text: "Bier" }
         answer: c
         why: "Bier is alcoholic; Kaffee and Tee are hot drinks."
-      - q: "Hör zu 3 (Verben) — 'kosten' means …"
+      - q: "Hör zu 3 (Verben) — 'kosten' means … — Hör zu 3 (Verbs) — 'kosten' means …"
         audio: hoerzu3.mp3
         options:
           - { key: a, text: "to buy" }
@@ -72,7 +72,7 @@ exercises:
           - { key: c, text: "to pay" }
         answer: b
         why: "kosten = to cost; kaufen = to buy, zahlen = to pay."
-      - q: "Hör zu 4 (Mengen) — which one is for a drink?"
+      - q: "Hör zu 4 (Mengen) — which one is for a drink? — Hör zu 4 (Quantities) — which one is for a drink?"
         audio: hoerzu4.mp3
         options:
           - { key: a, text: "Stück" }
@@ -107,28 +107,28 @@ exercises:
     instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Achtung, eine Durchsage. Liebe Kundinnen und Kunden, heute gibt es frische Brötchen im Angebot — sechs Stück für nur zwei Euro. Auch der Käse ist heute zwanzig Prozent billiger. Obst und Gemüse sind auch heute besonders frisch. Unsere Öffnungszeiten heute: bis zwanzig Uhr. Kommen Sie bald und finden Sie unsere Angebote. Vielen Dank für Ihren Besuch."
     items:
-      - q: "Was gibt es heute im Angebot?"
+      - q: "Was gibt es heute im Angebot? — What's on offer today?"
         options:
           - { key: a, text: "Frische Brötchen." }
           - { key: b, text: "Frisches Brot." }
           - { key: c, text: "Frische Kuchen." }
         answer: a
         why: '„heute gibt es frische Brötchen im Angebot."'
-      - q: "Wie viel kosten sechs Brötchen?"
+      - q: "Wie viel kosten sechs Brötchen? — How much do six rolls cost?"
         options:
           - { key: a, text: "Einen Euro." }
           - { key: b, text: "Zwei Euro." }
           - { key: c, text: "Drei Euro." }
         answer: b
         why: '„sechs Stück für nur zwei Euro."'
-      - q: "Was ist auch zwanzig Prozent billiger?"
+      - q: "Was ist auch zwanzig Prozent billiger? — What is also twenty percent cheaper?"
         options:
           - { key: a, text: "Der Käse." }
           - { key: b, text: "Das Obst." }
           - { key: c, text: "Das Gemüse." }
         answer: a
         why: '„Auch der Käse ist heute zwanzig Prozent billiger."'
-      - q: "Bis wann hat der Supermarkt heute geöffnet?"
+      - q: "Bis wann hat der Supermarkt heute geöffnet? — Until when is the supermarket open today?"
         options:
           - { key: a, text: "Bis achtzehn Uhr." }
           - { key: b, text: "Bis neunzehn Uhr." }
@@ -718,42 +718,42 @@ exercises:
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
-      - q: "Ich trinke (1) ____ Kaffee."
+      - q: "Ich trinke (1) ____ Kaffee. — I drink (1) ____ coffee."
         options:
           - { key: a, text: "ein" }
           - { key: b, text: "einen" }
           - { key: c, text: "eine" }
         answer: b
         why: "der Kaffee, accusative masculine → einen."
-      - q: "… und esse ein (2) ____ Apfelkuchen."
+      - q: "… und esse ein (2) ____ Apfelkuchen. — … and I eat a (2) ____ apple cake."
         options:
           - { key: a, text: "Stück" }
           - { key: b, text: "Glas" }
           - { key: c, text: "Tasse" }
         answer: a
         why: "ein Stück Apfelkuchen = a piece of apple cake."
-      - q: "Der Kuchen (3) ____ sehr gut!"
+      - q: "Der Kuchen (3) ____ sehr gut! — The cake (3) ____ very good!"
         options:
           - { key: a, text: "schmeckt" }
           - { key: b, text: "isst" }
           - { key: c, text: "kostet" }
         answer: a
         why: "schmeckt = tastes (good)."
-      - q: "Er kostet (4) ____ drei Euro."
+      - q: "Er kostet (4) ____ drei Euro. — It costs (4) ____ three euros."
         options:
           - { key: a, text: "nicht" }
           - { key: b, text: "nur" }
           - { key: c, text: "kein" }
         answer: b
         why: "kostet nur = costs only."
-      - q: "Das Café hat auch Frühstück: Brötchen (5) ____ Käse, Eier und Saft."
+      - q: "Das Café hat auch Frühstück: Brötchen (5) ____ Käse, Eier und Saft. — The café also has breakfast: rolls (5) ____ cheese, eggs, and juice."
         options:
           - { key: a, text: "mit" }
           - { key: b, text: "aus" }
           - { key: c, text: "in" }
         answer: a
         why: "Brötchen mit Käse = rolls with cheese."
-      - q: "… — alles (6) ____ acht Euro."
+      - q: "… — alles (6) ____ acht Euro. — … — everything (6) ____ eight euros."
         options:
           - { key: a, text: "zusammen" }
           - { key: b, text: "getrennt" }
@@ -819,11 +819,11 @@ exercises:
 
       Richtig (R) oder falsch (F)?
     items:
-      - { q: "Die Deutschen essen zum Frühstück oft Brot oder Brötchen.", answer: true, why: "Brot und Brötchen sind klassisches deutsches Frühstück." }
-      - { q: "Müsli ist nicht populär.", answer: false, why: "Müsli ist populär." }
-      - { q: "Am Wochenende ist das Frühstück klein.", answer: false, why: "Am Wochenende ist das Frühstück groß und lang." }
-      - { q: "Das Mittagessen ist oft warm.", answer: true, why: "Mittagessen ist in Deutschland oft warm." }
-      - { q: 'Das Abendessen heißt „Abendbrot" und ist oft kalt.', answer: true, why: "Abendbrot = kaltes Abendessen." }
+      - { q: "Die Deutschen essen zum Frühstück oft Brot oder Brötchen. — Germans often eat bread or rolls for breakfast.", answer: true, why: "Brot und Brötchen sind klassisches deutsches Frühstück." }
+      - { q: "Müsli ist nicht populär. — Muesli is not popular.", answer: false, why: "Müsli ist populär." }
+      - { q: "Am Wochenende ist das Frühstück klein. — On the weekend, breakfast is small.", answer: false, why: "Am Wochenende ist das Frühstück groß und lang." }
+      - { q: "Das Mittagessen ist oft warm. — Lunch is often warm/hot.", answer: true, why: "Mittagessen ist in Deutschland oft warm." }
+      - { q: 'Das Abendessen heißt „Abendbrot" und ist oft kalt. — Dinner is called "Abendbrot" and is often cold.', answer: true, why: "Abendbrot = kaltes Abendessen." }
 
   - id: C4b
     block: C
@@ -838,28 +838,28 @@ exercises:
 
       Wähle a, b oder c.
     items:
-      - q: 'Das Frühstück „Fit" kostet …'
+      - q: 'Das Frühstück „Fit" kostet … — The "Fit" breakfast costs …'
         options:
           - { key: a, text: "6,90 €" }
           - { key: b, text: "5,50 €" }
           - { key: c, text: "3,20 €" }
         answer: b
         why: "5,50 €."
-      - q: 'Im Frühstück „Berlin" ist …'
+      - q: 'Im Frühstück „Berlin" ist … — In the "Berlin" breakfast, there is …'
         options:
           - { key: a, text: "Müsli" }
           - { key: b, text: "ein Ei" }
           - { key: c, text: "Kuchen" }
         answer: b
         why: "1 Ei."
-      - q: "Ein Kaffee und ein Stück Apfelkuchen kosten zusammen …"
+      - q: "Ein Kaffee und ein Stück Apfelkuchen kosten zusammen … — A coffee and a piece of apple cake cost together …"
         options:
           - { key: a, text: "6,00 €" }
           - { key: b, text: "5,70 €" }
           - { key: c, text: "6,20 €" }
         answer: a
         why: "2,80 + 3,20 = 6,00."
-      - q: "Was kostet ein Glas Orangensaft?"
+      - q: "Was kostet ein Glas Orangensaft? — How much is a glass of orange juice?"
         options:
           - { key: a, text: "2,50 €" }
           - { key: b, text: "2,80 €" }

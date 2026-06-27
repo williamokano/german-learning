@@ -54,7 +54,26 @@ buildsOn:
 > **Anna:** Getrennt, bitte.  
 > **Kellner:** Der Kaffee und der Kuchen … das macht sechs Euro zwanzig.  
 > **Anna:** Hier bitte. Stimmt so!  
-> **Kellner:** Vielen Dank!  
+> **Kellner:** Vielen Dank!
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Kellner:** Hello! What would you like, please?  
+> **Anna:** I'd like a coffee and a piece of apple cake, please.  
+> **Kellner:** Sure. And you?  
+> **Bruno:** I'll have a tea and a cheese roll. Do you also have orange juice?  
+> **Kellner:** Yes, of course. A glass of orange juice?  
+> **Bruno:** Yes, please.  
+> *(later)*  
+> **Bruno:** Excuse us, we'd like to pay, please!  
+> **Kellner:** Sure. Together or separately?  
+> **Anna:** Separately, please.  
+> **Kellner:** The coffee and the cake … that comes to six euros twenty.  
+> **Anna:** Here you go. Keep the change!  
+> **Kellner:** Thank you very much!
+
+</details>  
 
 \* Chunk alert: *wir möchten zahlen* — `möchten` is fully explained in §6.4. For now treat it as a ready-made polite chunk.
 
@@ -69,7 +88,20 @@ buildsOn:
 > **Verkäuferin:** Der Gouda? Zwei Euro neunundneunzig.  
 > **Bruno:** Gut, dann nehme ich den Gouda, das Schwarzbrot und eine Flasche Wasser.  
 > **Verkäuferin:** Sonst noch etwas?  
-> **Bruno:** Nein, danke. Das ist alles.  
+> **Bruno:** Nein, danke. Das ist alles.
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Bruno:** Excuse me, do you have rye bread?  
+> **Verkäuferin:** Yes, back there on the left.  
+> **Bruno:** Thanks. And how much is this cheese?  
+> **Verkäuferin:** The Gouda? Two euros ninety-nine.  
+> **Bruno:** Good, then I'll take the Gouda, the rye bread, and a bottle of water.  
+> **Verkäuferin:** Anything else?  
+> **Bruno:** No, thanks. That's all.
+
+</details>  
 
 ---
 
@@ -519,6 +551,13 @@ Das Abendessen heißt „Abendbrot" — das Wort sagt es schon: es ist oft Brot 
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
 > Anna ist im Café Central. Sie hat Hunger und Durst. Sie möchte einen Kaffee und ein Stück Apfelkuchen. Der Kaffee kostet zwei Euro fünfzig, der Kuchen kostet drei Euro neunzig. Das macht sechs Euro vierzig. Anna isst und trinkt gern im Café — der Kuchen schmeckt super!
+
+</details>
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> Anna is in Café Central. She's hungry and thirsty. She'd like a coffee and a piece of apple cake. The coffee costs two euros fifty, the cake costs three euros ninety. That comes to six euros forty. Anna likes eating and drinking at the café — the cake tastes great!
 
 </details>
 
