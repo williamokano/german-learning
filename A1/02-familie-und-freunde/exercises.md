@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen and decide: Richtig (R) oder Falsch (F)?
+Höre und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Anna zeigt Bruno ein Foto. — Anna shows Bruno a photo. ( )
 2. Auf dem Foto sind Annas Eltern. — In the photo are Anna's parents. ( )
@@ -21,7 +21,7 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen and decide: Richtig (R) oder Falsch (F)?
+Höre und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Herr Steinmeyer hat zwei Kinder. — Mr. Steinmeyer has two children. ( )
 2. Seine Tochter heißt Sofia. — His daughter is called Sofia. ( )
@@ -124,7 +124,7 @@ ich ______ · du ______ · er/sie/es ______ · wir ______ · ihr ______ · sie/S
 
 ## Übung A5 — unser, euer, Ihr
 
-The owner is in brackets. Watch out for euer → eure!
+Der Besitzer steht in Klammern. Achtung: euer → eure!
 
 1. ______ Familie ist groß. (wir)
 2. ______ Vater heißt Georg. (wir)
@@ -155,7 +155,7 @@ siebzehn = ______ · fünfundneunzig = ______
 
 ## Übung A9 — Make yes/no questions
 
-Example: Du hast Geschwister. → Hast du Geschwister?
+Beispiel: Du hast Geschwister. → Hast du Geschwister?
 
 1. Du hast Geschwister. → ______
 2. Anna ist verheiratet. → ______
@@ -214,7 +214,7 @@ Example: Du hast Geschwister. → Hast du Geschwister?
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
+Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form.
 
 1. ______ Schwester heißt Lena. (Mein → ?)
 2. Ich ______ zwei Brüder. (habt → ?)
@@ -243,7 +243,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 ## Übung B4 — Familie Krause: who is who?
 
 Text: Georg und Claudia Krause sind verheiratet. Sie haben drei Kinder: Anna, Felix und Lena. Erika ist die Mutter von Claudia.
-Complete with the family word (with article where marked).
+Ergänze mit dem passenden Familienwort (mit Artikel, wo angegeben).
 
 
 1. Felix ist der ______ von Anna.
@@ -322,7 +322,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Hallo! Ich heiße Martina und ich (1) ______ aus Österreich. Ich bin dreißig
 Jahre (2) ______ und verheiratet. (3) ______ Mann heißt Stefan. Wir (4) ______
@@ -344,7 +344,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Five words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > Hallo Tim,
 > 
@@ -379,7 +379,7 @@ Richtig (R) oder falsch (F)?
 
 Text: Familie Yilmaz: Akin Yilmaz (34) und Elif Yilmaz (31) kommen aus der Türkei, aus Izmir. Sie wohnen jetzt in Köln. Sie haben zwei Kinder: Deniz (6) und Lale (3). Akins Eltern wohnen in Izmir. Elifs Mutter wohnt auch in Köln. Sie ist verwitwet.
 
-Choose a, b, or c.
+Wähle a, b oder c.
 
 
 1. Familie Yilmaz wohnt in … — The Yilmaz family lives in …  a) Izmir  b) Köln  c) Berlin

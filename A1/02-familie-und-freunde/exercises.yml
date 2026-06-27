@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen and decide: True (R) or False (F)?"
     items:
       - q: "Anna zeigt Bruno ein Foto. — Anna shows Bruno a photo."
         answer: true
@@ -35,7 +36,8 @@ exercises:
     type: true-false
     title: "Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen and decide: True (R) or False (F)?"
     items:
       - { q: "Herr Steinmeyer hat zwei Kinder. — Mr. Steinmeyer has two children.", answer: false, why: "Herr Steinmeyer hat eine Tochter, nicht zwei Kinder." }
       - q: "Seine Tochter heißt Sofia. — His daughter is called Sofia."
@@ -254,7 +256,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "unser, euer, Ihr"
-    instructions: "The owner is in brackets. Watch out for euer → eure!"
+    instructions: "Der Besitzer steht in Klammern. Achtung: euer → eure!"
+    instructionsEn: "The owner is in brackets. Watch out for euer → eure!"
     text: |
       1. {1} Familie ist groß. (wir)
       2. {2} Vater heißt Georg. (wir)
@@ -342,7 +345,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Make yes/no questions"
-    instructions: "Example: Du hast Geschwister. → Hast du Geschwister?"
+    instructions: "Beispiel: Du hast Geschwister. → Hast du Geschwister?"
+    instructionsEn: "Example: Du hast Geschwister. → Hast du Geschwister?"
     text: |
       1. Du hast Geschwister. → {1}
       2. Anna ist verheiratet. → {2}
@@ -465,7 +469,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
+    instructions: "Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form."
+    instructionsEn: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
     text: |
       1. {1} Schwester heißt Lena. (Mein → ?)
       2. Ich {2} zwei Brüder. (habt → ?)
@@ -528,6 +533,9 @@ exercises:
     title: "Familie Krause: who is who?"
     instructions: |
       Text: Georg und Claudia Krause sind verheiratet. Sie haben drei Kinder: Anna, Felix und Lena. Erika ist die Mutter von Claudia.
+      Ergänze mit dem passenden Familienwort (mit Artikel, wo angegeben).
+    instructionsEn: |
+      Text: Georg und Claudia Krause are married. They have three children: Anna, Felix and Lena. Erika is Claudia's mother.
       Complete with the family word (with article where marked).
     text: |
       1. Felix ist der {1} von Anna.
@@ -674,7 +682,8 @@ exercises:
     block: C
     type: gap-text
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |
       Hallo! Ich heiße Martina und ich {1} aus Österreich. Ich bin dreißig
       Jahre {2} und verheiratet. {3} Mann heißt Stefan. Wir {4}
@@ -748,7 +757,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
     text: |
       Hallo Tim,
 
@@ -796,7 +806,7 @@ exercises:
     instructions: |
       Text: Familie Yilmaz: Akin Yilmaz (34) und Elif Yilmaz (31) kommen aus der Türkei, aus Izmir. Sie wohnen jetzt in Köln. Sie haben zwei Kinder: Deniz (6) und Lale (3). Akins Eltern wohnen in Izmir. Elifs Mutter wohnt auch in Köln. Sie ist verwitwet.
 
-      Choose a, b, or c.
+      Wähle a, b oder c.
     items:
       - q: "Familie Yilmaz wohnt in … — The Yilmaz family lives in …"
         options:
