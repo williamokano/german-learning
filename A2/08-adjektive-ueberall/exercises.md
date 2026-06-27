@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Anna möchte eine schwarze Jacke kaufen. ( )
 2. Die Jacke, die Anna sieht, hat einen blauen Kragen. ( )
@@ -21,7 +21,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Frau Weber sucht ein Geschenk für …  a) ihre Tochter  b) ihren Mann  c) ihren Sohn
 2. Welche Farbe bevorzugt Frau Webers Mann?  a) Helle Farben wie Weiß und Gelb  b) Dunkle Farben wie Marineblau und Schwarz  c) Bunte Farben wie Rot und Grün
@@ -32,7 +32,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 7 missing words. Three words in the box are not needed.
+Höre und ergänze die 7 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Yuki wohnt in München und hat heute einen (1) ______ Termin. Sie zieht sich sorgfältig an. Zuerst wählt sie ein (2) ______ Hemd und eine (3) ______ Hose. Dann sucht sie eine passende Jacke — sie findet eine (4) ______ (5) ______ Jacke im Schrank. Mit dem neuen Outfit fühlt sie sich (6) ______. Schließlich nimmt sie noch eine (7) ______ schwarze Tasche und verlässt die Wohnung.
 
@@ -42,7 +42,7 @@ Listen and fill in the 7 missing words. Three words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Wozu lädt das Modehaus „Stilvoll" ein?  a) Zu einer Modenschau.  b) Zur neuen Frühjahrskollektion und einer Modenschau.  c) Zu einem großen Sale.
 2. Wann beginnt die Modenschau?  a) Um vierzehn Uhr.  b) Um fünfzehn Uhr.  c) Um sechzehn Uhr.
@@ -79,7 +79,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A1 — Schwache Deklination: Tabelle ausfüllen (groß, def. art.)
 
-Fill in the weak ending after the definite article. The gap is the ending letter(s).
+Ergänze die schwache Endung nach dem bestimmten Artikel. Die Lücke ist der/die Endbuchstaben.
 
 Nom. M: der groß______ Mann
 Nom. F: die groß______ Frau
@@ -96,7 +96,7 @@ Dat. Pl: den groß______ Häusern
 
 ## Übung A2 — Gemischte Deklination: Tabelle ausfüllen (alt, indef. art.)
 
-Fill in the mixed ending after the indefinite article.
+Ergänze die gemischte Endung nach dem unbestimmten Artikel.
 
 Nom. M: ein alt______ Mann
 Nom. F: eine alt______ Frau
@@ -113,7 +113,7 @@ Dat. Pl: keinen alt______ Häusern
 
 ## Übung A3 — Adjektivendungen nach dem bestimmten Artikel (Nominativ)
 
-Add the correct ending. 8 items.
+Ergänze die richtige Endung. 8 Aufgaben.
 
 1. der rot______ Schal
 2. die schwarz______ Jacke
@@ -126,7 +126,7 @@ Add the correct ending. 8 items.
 
 ## Übung A4 — Adjektivendungen nach dem bestimmten Artikel (Akkusativ)
 
-Add the correct ending. 8 items.
+Ergänze die richtige Endung. 8 Aufgaben.
 
 1. Ich kaufe den blau______ Schal.
 2. Sie trägt die elegant______ Bluse.
@@ -139,7 +139,7 @@ Add the correct ending. 8 items.
 
 ## Übung A5 — Adjektivendungen nach dem bestimmten Artikel (Dativ)
 
-Add the correct ending. 8 items.
+Ergänze die richtige Endung. 8 Aufgaben.
 
 1. Mit dem grün______ Schal siehst du toll aus.
 2. Sie hilft dem alt______ Mann.
@@ -152,7 +152,7 @@ Add the correct ending. 8 items.
 
 ## Übung A6 — Adjektivendungen nach dem unbestimmten Artikel (Nominativ)
 
-Add the correct ending. 10 items.
+Ergänze die richtige Endung. 10 Aufgaben.
 
 1. ein rot______ Schal (m)
 2. eine groß______ Tasche (f)
@@ -167,7 +167,7 @@ Add the correct ending. 10 items.
 
 ## Übung A7 — Adjektivendungen nach dem unbestimmten Artikel (Akkusativ)
 
-Add the correct ending. 8 items.
+Ergänze die richtige Endung. 8 Aufgaben.
 
 1. Ich kaufe einen blau______ Schal.
 2. Er sucht eine modern______ Jacke.
@@ -180,7 +180,7 @@ Add the correct ending. 8 items.
 
 ## Übung A8 — Adjektivendungen nach dem unbestimmten Artikel (Dativ)
 
-Add the correct ending. 8 items.
+Ergänze die richtige Endung. 8 Aufgaben.
 
 1. Er kommt mit einem alt______ Freund.
 2. Sie hilft einer klein______ Frau.
@@ -193,7 +193,7 @@ Add the correct ending. 8 items.
 
 ## Übung A9 — Gemischt: Adjektivendungen
 
-Add the correct ending. 10 items.
+Ergänze die richtige Endung. 10 Aufgaben.
 
 1. Wo ist der neu______ Schal?
 2. Ich brauche eine groß______ Tasche.
@@ -208,7 +208,7 @@ Add the correct ending. 10 items.
 
 ## Übung A10 — Possessiva: mein/dein/sein/ihr + Adjektiv
 
-Add the correct possessive ending AND the adjective ending. Each item has two gaps.
+Ergänze die richtige Possessivendung UND die Adjektivendung. Jede Aufgabe hat zwei Lücken.
 
 1. Ich suche mein______ rot______ Schal. (m, Akk)
 2. Das ist sein______ neu______ Jacke. (f, Nom)
@@ -221,7 +221,7 @@ Add the correct possessive ending AND the adjective ending. Each item has two ga
 
 ## Übung A11 — Substitutionsübung
 
-Rewrite the sentence changing the noun + adjective to the new gender or case shown. Write the correct adjective ending in the gap.
+Schreibe den Satz um und ändere das Nomen + Adjektiv zum angegebenen neuen Genus oder Kasus. Schreibe die richtige Adjektivendung in die Lücke.
 
 1. Das ist ein alt______ Kind. (Neut, Nom)
 2. Ich sehe die rot______ Jacke. (Fem, Akk)
@@ -232,7 +232,7 @@ Rewrite the sentence changing the noun + adjective to the new gender or case sho
 
 ## Übung A12 — Schnelldrill: nur die Endung
 
-Write only the missing ending (e, en, er, or es). 10 items.
+Schreibe nur die fehlende Endung (e, en, er oder es). 10 Aufgaben.
 
 1. ein schön______ Kleid (n, Nom)
 2. der alt______ Mann (m, Nom)
@@ -251,7 +251,7 @@ Write only the missing ending (e, en, er, or es). 10 items.
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the blanks with the adjective in the correct form. 12 gaps.
+Ergänze die Lücken mit dem Adjektiv in der richtigen Form. 12 Lücken.
 
 — Entschuldigung, ich suche eine Jacke für meinen Bruder. Er mag ______ (dunkel) Farben.
 — Sehr gut. Wir haben diesen ______ (schwarz) Mantel hier — er ist sehr ______ (elegant).
@@ -263,7 +263,7 @@ Fill in the blanks with the adjective in the correct form. 12 gaps.
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly one mistake in the adjective ending. Write the corrected ending in the gap.
+Jeder Satz hat genau einen Fehler in der Adjektivendung. Schreibe die korrigierte Endung in die Lücke.
 
 1. Das ist ein alt______ Mantel. (Nom Mask indef. → ?)
 2. Ich kaufe den rot______ Schal. (Akk Mask def. → ?)
@@ -291,7 +291,7 @@ Each sentence has exactly one mistake in the adjective ending. Write the correct
 
 ## Übung B4 — Satzbau: Adjektiv + Nomen
 
-Build correct sentences. Use the adjective in the correct form.
+Bilde korrekte Sätze. Verwende das Adjektiv in der richtigen Form.
 
 1. kaufe – rotes – Kleid – ein – Ich
 2. Kollegin – Das ist – meine – neue
@@ -332,7 +332,7 @@ Build correct sentences. Use the adjective in the correct form.
 
 ## Übung B7 — Adjektive vor und nach dem Nomen
 
-Decide: predicative (no ending) or attributive (with ending). Write the ending where needed.
+Entscheide: prädikativ (ohne Endung) oder attributiv (mit Endung). Schreibe die Endung, wo nötig.
 
 1. Die Jacke ist schön (no change).
 2. Das ist eine schön______ Jacke.
@@ -345,7 +345,7 @@ Decide: predicative (no ending) or attributive (with ending). Write the ending w
 
 ## Übung B8 — dieser / welcher + Adjektiv
 
-Fill in `dieser` (or `welcher`) AND the adjective ending. Each item has 2 gaps.
+Ergänze `dieser` (oder `welcher`) UND die Adjektivendung. Jede Aufgabe hat 2 Lücken.
 
 1. ______ groß______ Mantel kostet 200 Euro.
 2. Wie findest du ______ rot______ Kleid?
@@ -374,7 +374,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word (usually the adjective ending or the full adjective+ending form).
+Fülle jede Lücke mit einem Wort (meist die Adjektivendung oder die volle Adjektiv+Endung-Form).
 
 Anna ist in einem ______ Modegeschäft in Berlin. Die Verkäuferin zeigt ihr ein
 ______ Kleid — es ist rot und sehr elegant. Anna probiert das ______
@@ -396,7 +396,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Ten words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > — Guten Tag! Ich suche eine (1) ______ Jacke — etwas Modernes.
 > — Ich empfehle Ihnen die (2) ______ Jacke aus unserer Kollektion.
@@ -465,7 +465,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes. 15 items.
+Eine Minute pro Aufgabe. Keine Notizen. 15 Aufgaben.
 
 1. der alt______ Mann (Nom Mask def.)
 2. ein alt______ Mann (Nom Mask indef.)
@@ -485,7 +485,7 @@ One minute per item. No notes. 15 items.
 
 ## Übung D2 — Odd one out
 
-Cross out the word that doesn't fit.
+Streiche das Wort durch, das nicht passt.
 
 1. Jacke – Schal – Hemd – Fenster
 2. schwarz – elegant – gestreift – kariert
