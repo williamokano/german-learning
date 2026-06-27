@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Bruno sucht ein Geschenk für seinen Bruder."
         answer: false
@@ -39,7 +40,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Was schenkt Frau Weber Herrn Steinmeyer?"
         options:
@@ -75,7 +77,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Heute ist Yuki auf dem Weihnachtsmarkt am Alexanderplatz. Sie möchte
       ihrer Familie in Japan etwas {1}. Ein freundlicher Verkäufer
@@ -98,7 +101,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Durchsage im Kaufhaus"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Achtung, eine Durchsage. Liebe Kundinnen und Kunden, unser Kaufhaus schließt heute um zwanzig Uhr. Wir möchten Sie daran erinnern, dass unsere Geschenk-Werkstatt im dritten Stock noch bis achtzehn Uhr geöffnet hat. Unsere Mitarbeiter packen Ihre Geschenke kostenlos in schönes Papier ein und schreiben eine Karte für Sie. Bitte bringen Sie Ihre Einkäufe bis spätestens siebzehn Uhr dreißig in die Geschenk-Werkstatt. Vielen Dank für Ihren Besuch.'
     items:
       - q: "Wie spät schließt das Kaufhaus heute?"
@@ -136,6 +140,7 @@ exercises:
     title: "Tabelle ausfüllen: Dialog B (Wien-Abschiedsgeschenk)"
     audio: dialog1_b.mp3
     instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    instructionsEn: "Listen to the dialog once and fill in the table. In each row, **one** piece of information is missing — the clues in the other cells will help you."
     columns: ["Person", "Geschenk / Geste", "Anlass"]
     rows:
       - label: "Frau Weber"
@@ -196,7 +201,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Fill in the correct dative ending"
-    instructions: "Complete the dative noun phrase (the indirect object — the person). 10 items."
+    instructions: "Vervollständige die Dativ-Nominalphrase (das indirekte Objekt — die Person). 10 Aufgaben."
+    instructionsEn: "Complete the dative noun phrase (the indirect object — the person). 10 items."
     text: |
       1. Ich schenke mein{1} Schwester ein Buch.
       2. Er gibt dem{2} Kind einen Apfel.
@@ -225,7 +231,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Substitution: replace the dative noun with a dative pronoun"
-    instructions: "Replace the dative noun with the correct dative pronoun. Keep the accusative noun where it is. 10 items."
+    instructions: "Ersetze das Dativ-Nomen durch das richtige Dativ-Pronomen. Das Akkusativ-Nomen bleibt, wo es ist. 10 Aufgaben."
+    instructionsEn: "Replace the dative noun with the correct dative pronoun. Keep the accusative noun where it is. 10 items."
     text: |
       1. Ich schenke meiner Schwester ein Buch. → Ich schenke {1} ein Buch.
       2. Er gibt dem Kind einen Apfel. → Er gibt {2} einen Apfel.
@@ -284,7 +291,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Konjugation: schenken (Präsens)"
-    instructions: "Fill in the complete Präsens table for schenken."
+    instructions: "Ergänze die vollständige Präsens-Tabelle für schenken."
+    instructionsEn: "Fill in the complete Präsens table for schenken."
     text: |
       1. ich: {1}
       2. du: {2}
@@ -305,7 +313,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Konjugation: geben (Präsens) ⚠️"
-    instructions: "Fill in the complete Präsens table for geben. Watch out for the e → i stem change!"
+    instructions: "Ergänze die vollständige Präsens-Tabelle für geben. Achtung: e → i Stammwechsel!"
+    instructionsEn: "Fill in the complete Präsens table for geben. Watch out for the e → i stem change!"
     text: |
       1. ich: {1}
       2. du: {2}
@@ -326,7 +335,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Konjugation: empfehlen (Präsens) ⚠️"
-    instructions: "Fill in the complete Präsens table for empfehlen. Watch out for the e → ie stem change!"
+    instructions: "Ergänze die vollständige Präsens-Tabelle für empfehlen. Achtung: e → ie Stammwechsel!"
+    instructionsEn: "Fill in the complete Präsens table for empfehlen. Watch out for the e → ie stem change!"
     text: |
       1. ich: {1}
       2. du: {2}
@@ -347,7 +357,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dativ or Akkusativ pronoun? Fill the gap."
-    instructions: "Choose the correct pronoun form (Dativ = person, Akkusativ = thing). 10 items."
+    instructions: "Wähle die richtige Pronomenform (Dativ = Person, Akkusativ = Sache). 10 Aufgaben."
+    instructionsEn: "Choose the correct pronoun form (Dativ = person, Akkusativ = thing). 10 items."
     text: |
       1. Ich schenke {1} (her, Dat) ein Buch.
       2. Ich schenke {2} (it, Akk) meiner Schwester.
@@ -376,7 +387,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Identify the dative (indirect) object"
-    instructions: "Fill in the correct dative (indirect) object for each sentence. 8 items."
+    instructions: "Ergänze das richtige Dativ-Objekt (indirektes Objekt) für jeden Satz. 8 Aufgaben."
+    instructionsEn: "Fill in the correct dative (indirect) object for each sentence. 8 items."
     text: |
       1. Ich schenke {1} ein Buch.
       2. Anna gibt {2} einen Apfel.
@@ -401,7 +413,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Choose the correct two-object verb"
-    instructions: "Pick the right two-object verb and conjugate it to fit the subject. 10 items."
+    instructions: "Wähle das richtige Verb mit zwei Objekten und konjugiere es passend zum Subjekt. 10 Aufgaben."
+    instructionsEn: "Pick the right two-object verb and conjugate it to fit the subject. 10 items."
     text: |
       1. Ich {1} meiner Schwester ein Buch. (schenken / gehen / wohnen)
       2. Anna {2} dem Kind einen Apfel. (geben / kommen / heißen)
@@ -483,7 +496,8 @@ exercises:
     block: B
     type: gap-bank
     title: "Dialog ergänzen: Im Geschenkeladen"
-    instructions: "Fill in the 12 blanks with the correct form. Three words in the box are not needed."
+    instructions: "Ergänze die 12 Lücken mit der richtigen Form. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Fill in the 12 blanks with the correct form. Three words in the box are not needed."
     text: |
       — Guten Tag! Ich {1} ein Geschenk für meinen Bruder.
       — Was {2} er gern?
@@ -709,7 +723,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Fill each gap with one word. 10 items."
+    instructions: "Fülle jede Lücke mit einem Wort. 10 Aufgaben."
+    instructionsEn: "Fill each gap with one word. 10 items."
     text: |
       Letzten Sonntag {1} Anna ihrer Freundin Lisa ein Buch
       {2}. Sie hat lange überlegt, was sie Lisa {3} könnte.
@@ -778,7 +793,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word once."
     text: |
       Letzten Samstag {1} Anna in die Stadt. Sie wollte ein
       Geschenk für ihre Freundin Lisa {2}. Im Buchladen {3}
@@ -921,7 +937,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per item. No notes. 15 items."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen. 15 Aufgaben."
+    instructionsEn: "One minute per item. No notes. 15 items."
     text: |
       1. Partizip II of schenken: {1}
       2. Partizip II of empfehlen (e→o): {2}
@@ -963,7 +980,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd one out"
-    instructions: "Cross out the word that doesn't fit and say why."
+    instructions: "Streiche das Wort durch, das nicht passt, und sage warum."
+    instructionsEn: "Cross out the word that doesn't fit and say why."
     groups:
       - items: [schenken, empfehlen, zeigen, wohnen]
         odd: 3
@@ -989,7 +1007,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Rückblick: A2/06, A2/09, A2/10"
-    instructions: "Review of reflexive verbs, prepositions, Konjunktiv II, and countries. 10 items."
+    instructions: "Wiederholung: reflexive Verben, Präpositionen, Konjunktiv II und Länder. 10 Aufgaben."
+    instructionsEn: "Review of reflexive verbs, prepositions, Konjunktiv II, and countries. 10 items."
     text: |
       1. (A2/L6) Partizip II of sich interessieren: {1}
       2. (A2/L6) warten auf takes which case? → {2}
