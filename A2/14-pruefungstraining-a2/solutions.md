@@ -94,6 +94,16 @@ Bewertungskriterien:
 - 4c — Alle 5 Planungspunkte besprochen: stark / ausreichend / schwach
 - Gesamt Sprechen: BESTANDEN = in mind. 2 von 3 Teilen ausreichend oder stark
 
+## Übung H5 — Tabelle ausfüllen: Radiobeitrag über Marta
+
+| Info | Detail |
+|---|---|
+| Name | **Marta** | kommt aus Polen |
+| Wohnort | Berlin | **seit zwei Jahren** |
+| Beruf | Krankenpflegerin | **in einem Krankenhaus** |
+| Hobby | kochen | **traditionelle polnische Gerichte** |
+| Sommerpläne | Eltern besuchen | **in Polen** |
+
 ---
 
 ## Bewertung

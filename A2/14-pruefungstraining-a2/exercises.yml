@@ -412,3 +412,37 @@ exercises:
       - "4c — Konjunktiv II korrekt verwendet: stark / ausreichend / schwach"
       - "4c — Alle 5 Planungspunkte besprochen: stark / ausreichend / schwach"
       - "Gesamt Sprechen: BESTANDEN = in mind. 2 von 3 Teilen ausreichend oder stark"
+
+  # ── Block H — Zusatzübung (nach der Prüfung) ───────────────────────────────
+  # NOTE: H5 is added after the exam grid because the exam structure replaces
+  # the normal H1/H3/H4/H5 block. The exercise sits outside the exam config
+  # (which only includes exam-* ids) so the mock-exam scoring is unaffected.
+
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Radiobeitrag über Marta"
+    audio: aufgabe2.mp3
+    instructions: "Hör den Radiobeitrag noch einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Info", "Detail"]
+    rows:
+      - label: "Name"
+        cells:
+          - { gap: 1, answer: "Marta" }
+          - { gap: 2, answer: "kommt aus Polen",         given: "kommt aus Polen" }
+      - label: "Wohnort"
+        cells:
+          - { gap: 3, answer: "Berlin",                  given: "Berlin" }
+          - { gap: 4, answer: "seit zwei Jahren" }
+      - label: "Beruf"
+        cells:
+          - { gap: 5, answer: "Krankenpflegerin",        given: "Krankenpflegerin" }
+          - { gap: 6, answer: "in einem Krankenhaus" }
+      - label: "Hobby"
+        cells:
+          - { gap: 7, answer: "kochen",                  given: "kochen" }
+          - { gap: 8, answer: "traditionelle polnische Gerichte" }
+      - label: "Sommerpläne"
+        cells:
+          - { gap: 9,  answer: "Eltern besuchen",        given: "Eltern besuchen" }
+          - { gap: 10, answer: "in Polen" }

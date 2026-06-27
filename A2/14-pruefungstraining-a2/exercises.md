@@ -171,3 +171,17 @@ Planen Sie gemeinsam eine Überraschungsparty für Ihren Freund Bruno (30. Gebur
 - 4c — Konjunktiv II korrekt verwendet: stark / ausreichend / schwach
 - 4c — Alle 5 Planungspunkte besprochen: stark / ausreichend / schwach
 - Gesamt Sprechen: BESTANDEN = in mind. 2 von 3 Teilen ausreichend oder stark
+
+## Übung H5 — Tabelle ausfüllen: Radiobeitrag über Marta
+
+🎧 **Audio:** [aufgabe2.mp3](audio/aufgabe2.mp3)
+
+Hör den Radiobeitrag noch einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Info | Detail |
+|---|---|
+| Name | ______ | kommt aus Polen |
+| Wohnort | Berlin | ______ |
+| Beruf | Krankenpflegerin | ______ |
+| Hobby | kochen | ______ |
+| Sommerpläne | Eltern besuchen | ______ |
