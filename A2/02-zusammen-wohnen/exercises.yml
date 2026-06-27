@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: True (R) or False (F)?"
     items:
       - { q: "Anna hat eine neue WG gefunden.", answer: true, why: 'Anna sagt: „Ich habe endlich eine neue Wohngemeinschaft gefunden!"' }
       - { q: "Vier Leute wohnen in der neuen WG.", answer: true, why: 'Anna sagt: „Vier — ich und drei andere Studenten."' }
@@ -28,7 +29,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Die neue Wohnung der Familie Steinmeyer befindet sich …"
         options:
@@ -64,7 +66,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 8 missing words. Three words in the box are not needed."
+    instructions: "Höre und fülle die 8 fehlenden Wörter ein. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 8 missing words. Three words in the box are not needed."
     text: |
       Bruno sucht eine neue Wohnung in Berlin. Er hat heute drei Wohnungen {1}.
       Die erste Wohnung war sehr {2} — das Bett {3} fast vor der Tür.
@@ -89,7 +92,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Anruf vom Vermieter"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the phone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Telefonnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the phone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: "Guten Tag, hier ist Herr Krause, der Vermieter. Ich rufe an wegen der Wohnungsbesichtigung am Samstag. Die Wohnung in der Lindenallee 14 ist noch frei. Sie können am Samstag um elf Uhr zur Besichtigung kommen. Die Wohnung hat zwei Zimmer, eine kleine Küche und ein Bad mit Badewanne. Bitte bringen Sie eine Mietschuldenfreiheitsbescheinigung und Ihren Personalausweis mit. Bitte rufen Sie mich bis morgen Abend zurück, um den Termin zu bestätigen. Vielen Dank!"
     items:
       - q: "Wann ist die Besichtigung?"
@@ -157,7 +161,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Wo? oder Wohin? (Dativ oder Akkusativ?)"
-    instructions: "For each sentence, write Wo? or Wohin? and the correct case (Dativ or Akkusativ)."
+    instructions: "Schreibe für jeden Satz „Wo?\" oder „Wohin?\" und den richtigen Fall (Dativ oder Akkusativ)."
+    instructionsEn: "For each sentence, write Wo? or Wohin? and the correct case (Dativ or Akkusativ)."
     text: |
       1. Das Buch liegt auf dem Tisch. → {1} / {2}
       2. Ich lege das Buch auf den Tisch. → {3} / {4}
@@ -190,7 +195,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Artikel im Dativ (Wo?)"
-    instructions: "Fill in the correct dative article (dem / der / dem / den)."
+    instructions: "Ergänze den richtigen Dativartikel (dem / der / dem / den)."
+    instructionsEn: "Fill in the correct dative article (dem / der / dem / den)."
     text: |
       1. Die Lampe hängt über {1} Tisch (m).
       2. Das Buch liegt auf {2} Kommode (f).
@@ -220,7 +226,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Artikel im Akkusativ (Wohin?)"
-    instructions: "Fill in the correct accusative article (den / die / das / die)."
+    instructions: "Ergänze den richtigen Akkusativartikel (den / die / das / die)."
+    instructionsEn: "Fill in the correct accusative article (den / die / das / die)."
     text: |
       1. Ich hänge die Lampe über {1} Tisch (m).
       2. Stell den Stuhl neben {2} Tür (f).
@@ -250,7 +257,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Kontraktionen (in/an + Artikel)"
-    instructions: "Write the contracted form where possible, or the unchanged form if no contraction exists."
+    instructions: "Schreibe die Kurzform, wo möglich, oder die unveränderte Form, wenn es keine Kurzform gibt."
+    instructionsEn: "Write the contracted form where possible, or the unchanged form if no contraction exists."
     text: |
       1. in + das → {1}
       2. in + dem → {2}
@@ -286,7 +294,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "stellen oder stehen?"
-    instructions: "Choose `stellen` (action) or `stehen` (state). Write the correct present-tense form."
+    instructions: "Wähle „stellen\" (Aktion) oder „stehen\" (Zustand). Schreibe die richtige Präsensform."
+    instructionsEn: "Choose `stellen` (action) or `stehen` (state). Write the correct present-tense form."
     text: |
       1. Wo {1} der Schreibtisch? — Er {2} am Fenster.
       2. Ich {3} den Stuhl neben den Tisch.
@@ -313,7 +322,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "legen oder liegen?"
-    instructions: "Choose `legen` (action) or `liegen` (state). Write the correct present-tense form."
+    instructions: "Wähle „legen\" (Aktion) oder „liegen\" (Zustand). Schreibe die richtige Präsensform."
+    instructionsEn: "Choose `legen` (action) or `liegen` (state). Write the correct present-tense form."
     text: |
       1. Das Kissen {1} auf dem Sofa.
       2. Ich {2} die Bücher auf den Tisch.
@@ -340,7 +350,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "hängen: action or state?"
-    instructions: "Write the correct present-tense form of `hängen`. Then write whether it is action (Wohin? + Akk) or state (Wo? + Dat)."
+    instructions: "Schreibe die richtige Präsensform von „hängen\". Schreibe dann, ob es eine Aktion (Wohin? + Akk) oder ein Zustand (Wo? + Dat) ist."
+    instructionsEn: "Write the correct present-tense form of `hängen`. Then write whether it is action (Wohin? + Akk) or state (Wo? + Dat)."
     text: |
       1. Das Bild {1} an der Wand. → {2}
       2. Ich {3} das Bild an die Wand. → {4}
@@ -368,7 +379,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Wechselpräpositionen: alle neun"
-    instructions: "Fill in the correct preposition from the box. Each is used once."
+    instructions: "Ergänze die richtige Präposition aus dem Kasten. Jede wird einmal verwendet."
+    instructionsEn: "Fill in the correct preposition from the box. Each is used once."
     text: |
       > in · an · auf · über · unter · vor · hinter · neben · zwischen
 
@@ -397,7 +409,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Vollständige Sätze: stellen + Akkusativ"
-    instructions: "Build a complete sentence using `stellen` + the correct accusative article. Example: Buch / auf / Tisch (m) → Ich stelle das Buch auf den Tisch."
+    instructions: "Bilde einen vollständigen Satz mit „stellen\" und dem richtigen Akkusativartikel. Beispiel: Buch / auf / Tisch (m) → Ich stelle das Buch auf den Tisch."
+    instructionsEn: "Build a complete sentence using `stellen` + the correct accusative article. Example: Buch / auf / Tisch (m) → Ich stelle das Buch auf den Tisch."
     text: |
       1. Lampe (f) / über / Tisch (m) → {1}
       2. Stuhl (m) / neben / Fenster (n) → {2}
@@ -418,7 +431,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "stehen / liegen / hängen: wo ist was?"
-    instructions: "Describe the location using the correct verb and dative article. Example: Buch / auf / Regal (n) → Das Buch steht im Regal."
+    instructions: "Beschreibe den Ort mit dem passenden Verb und Dativartikel. Beispiel: Buch / auf / Regal (n) → Das Buch steht im Regal."
+    instructionsEn: "Describe the location using the correct verb and dative article. Example: Buch / auf / Regal (n) → Das Buch steht im Regal."
     text: |
       1. Kissen (pl) / auf / Sofa (n) → {1}
       2. Bild (n) / an / Wand (f) → {2}
@@ -439,7 +453,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Transformation: Wohin? → Wo?"
-    instructions: "Change the action sentence into a state sentence. Example: Ich stelle den Stuhl neben die Tür. → Der Stuhl steht neben der Tür."
+    instructions: "Schreibe den Aktionssatz als Zustandssatz. Beispiel: Ich stelle den Stuhl neben die Tür. → Der Stuhl steht neben der Tür."
+    instructionsEn: "Change the action sentence into a state sentence. Example: Ich stelle den Stuhl neben die Tür. → Der Stuhl steht neben der Tür."
     text: |
       1. Ich lege das Buch auf den Tisch. → {1}
       2. Er hängt die Lampe über den Schreibtisch. → {2}
@@ -460,7 +475,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Transformation: Wo? → Wohin?"
-    instructions: "Change the state sentence into a command (imperative du-form) using the action verb. Example: Der Stuhl steht neben der Tür. → Stell den Stuhl neben die Tür!"
+    instructions: "Forme den Zustandssatz in eine Aufforderung (du-Imperativ) mit dem Aktionsverb um. Beispiel: Der Stuhl steht neben der Tür. → Stell den Stuhl neben die Tür!"
+    instructionsEn: "Change the state sentence into a command (imperative du-form) using the action verb. Example: Der Stuhl steht neben der Tür. → Stell den Stuhl neben die Tür!"
     text: |
       1. Das Buch liegt auf dem Tisch. → {1}
       2. Das Bild hängt an der Wand. → {2}
@@ -483,7 +499,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dialog ergänzen"
-    instructions: "Fill in the gaps with the correct form. Choose from: stell / steht / liegen / stellt / hängt / hänge / Stell / sieht."
+    instructions: "Ergänze die Lücken mit der richtigen Form. Wähle aus: stell / steht / liegen / stellt / hängt / hänge / Stell / sieht."
+    instructionsEn: "Fill in the gaps with the correct form. Choose from: stell / steht / liegen / stellt / hängt / hänge / Stell / sieht."
     text: |
       — Wo soll das Sofa hin?
       — {1} es vor den Fernseher.
@@ -509,7 +526,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
+    instructions: "Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form."
+    instructionsEn: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
     text: |
       1. Ich stelle das Buch auf {1} Tisch. (dem → ?)
       2. Die Lampe hängt über {2} Schreibtisch. (den → ?)
@@ -569,7 +587,8 @@ exercises:
     block: B
     type: order
     title: "Satzbau: Wechselpräpositionen"
-    instructions: "Build a correct German sentence from the cues."
+    instructions: "Bilde aus den Vorgaben einen korrekten deutschen Satz."
+    instructionsEn: "Build a correct German sentence from the cues."
     items:
       - tiles: [Lampe, hängt, über, dem, die, Tisch]
         answer: [4, 0, 1, 2, 3, 5]
@@ -603,7 +622,7 @@ exercises:
     instructions: |
       *Anna's room:* Bett — an der linken Wand · Schreibtisch — am Fenster · Bücherregal — neben der Tür · Lampe — über dem Schreibtisch · Kissen (2 Stück) — auf dem Bett · Bücher — im Regal
       
-      Look at the description and answer the questions in complete sentences.
+      Schau dir die Beschreibung an und beantworte die Fragen in vollständigen Sätzen.
     prompt: "Answer each question about Anna's room in a complete sentence."
     stimulus: |
       1. Wo steht das Bett?
@@ -624,7 +643,8 @@ exercises:
     block: B
     type: categorize
     title: "Kategorien: Möbel sortieren"
-    instructions: "Sort these words into the correct room. Some words fit more than one room — put them in the most natural room and be ready to explain."
+    instructions: "Sortiere diese Wörter dem passenden Zimmer zu. Manche Wörter passen in mehrere Zimmer — ordne sie dem natürlichsten Zimmer zu und sei bereit, deine Wahl zu erklären."
+    instructionsEn: "Sort these words into the correct room. Some words fit more than one room — put them in the most natural room and be ready to explain."
     buckets:
       - { key: schlafzimmer, label: "Schlafzimmer" }
       - { key: wohnzimmer, label: "Wohnzimmer" }
@@ -675,7 +695,8 @@ exercises:
     block: B
     type: free-write
     title: "Hausregeln schreiben"
-    instructions: "Example: Man stellt das schmutzige Geschirr nicht auf den Tisch — man spült es sofort."
+    instructions: "Beispiel: Man stellt das schmutzige Geschirr nicht auf den Tisch — man spült es sofort."
+    instructionsEn: "Example: Man stellt das schmutzige Geschirr nicht auf den Tisch — man spült es sofort."
     prompt: "Write 4 house rules for a shared flat, using man + modal verb or imperative. Use Wechselpräpositionen in at least two rules."
     use:
       - "use man + modal verb or imperative (du-form)"
@@ -718,7 +739,8 @@ exercises:
     block: B
     type: free-write
     title: "Mini-Aufsatz: Mein Zimmer"
-    instructions: "**Situation:** You are moving into a WG next week. Your new flatmate has asked you to describe your room so they know where to help you place the furniture."
+    instructions: "**Situation:** Du ziehst nächste Woche in eine WG. Dein neuer Mitbewohner hat dich gebeten, dein Zimmer zu beschreiben, damit er weiß, wo er dir beim Möbelaufstellen helfen soll."
+    instructionsEn: "**Situation:** You are moving into a WG next week. Your new flatmate has asked you to describe your room so they know where to help you place the furniture."
     prompt: "Describe your own room (real or imaginary) in 5–6 sentences. Use stehen, liegen, hängen and at least four different Wechselpräpositionen with the correct case."
     use:
       - "use stehen, liegen, hängen with the correct case"
@@ -738,7 +760,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |
       Anna ist letzte Woche (1) {1} ihre neue Wohngemeinschaft eingezogen. Die WG
       (2) {2} vier Zimmer und eine große Küche. Ihr Zimmer ist klein, aber (3) {3}.
@@ -813,7 +836,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps using words from the box. Eleven words are not needed. Each word may be used once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Elf Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps using words from the box. Eleven words are not needed. Each word may be used once."
     text: |
       — Wie sieht dein Zimmer aus?
       — Also, das Bett {1} an der Wand. {2} dem Bett liegen zwei
@@ -937,7 +961,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per item. No notes."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen."
+    instructionsEn: "One minute per item. No notes."
     text: |
       1. `stellen` oder `stehen`? For placing an upright object: {1}
       2. `legen` oder `liegen`? For an object that is flat/horizontal: {2}
@@ -977,7 +1002,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd one out"
-    instructions: "Cross out the word that doesn't fit."
+    instructions: "Streiche das Wort durch, das nicht passt."
+    instructionsEn: "Cross out the word that doesn't fit."
     groups:
       - items: [stellen, legen, hängen, liegen]
         odd: 3
