@@ -281,7 +281,18 @@ Rewrite each sentence using the structure given in brackets. 6 items.
 
 ## Übung B8 — Leseverstehen: Lesetext (Was ich mir für die Zukunft wünsche)
 
-Read the Lesetext in lesson.md, section 5. Choose the correct answer (a, b, or c).
+> Das ist ein Blogbeitrag von Anna Kowalski.
+>
+> Manchmal frage ich mich, was ich anders machen würde, wenn ich noch einmal von vorne anfangen könnte. Ich wünschte, ich hätte schon früher Deutsch gelernt — nicht erst mit 22, sondern schon als Teenager. Wenn ich damals geahnt hätte, wie sehr mir die Sprache nützt, hätte ich viel früher angefangen. Aber das ist natürlich leicht gesagt.
+>
+> Was wünsche ich mir für die Zukunft? Wenn ich komplett frei wäre, würde ich ein Jahr lang durch Europa reisen — Berlin, Lissabon, Budapest, Kopenhagen. Ich würde in kleinen Cafés sitzen, schreiben und Sprachen lernen. Natürlich weiß ich, dass das nicht einfach zu organisieren wäre. Aber ein bisschen träumen darf man doch.
+>
+> Am meisten wünsche ich mir, mutiger zu sein. Wenn ich daran denke, wie viele Chancen ich nicht ergriffen habe, weil ich Angst hatte zu scheitern — das ist mein größtes Bedauern. An meiner Stelle hätte vielleicht jemand anderes einfach gewagt. Ich wünschte mir deshalb vor allem eines: mehr Mut. Wenn ich den hätte, würde ich vieles anders angehen.
+>
+> Vielleicht ist das der wichtigste Wunsch: nicht warten, bis alles perfekt ist. Denn wenn man immer auf den richtigen Moment wartet, würde man am Ende nie etwas machen.
+
+Wähle a, b oder c.
+
 
 1. Was wünscht sich Anna, wenn es um Sprachen geht?  a) Sie wünschte, sie hätte früher Portugiesisch gelernt.  b) Sie wünschte, sie hätte früher Deutsch gelernt.  c) Sie wünschte, sie hätte Japanisch gelernt.
 2. Was würde Anna tun, wenn sie komplett frei wäre?  a) In einem Café arbeiten.  b) Ein Jahr durch Europa reisen.  c) Nach Lissabon ziehen.
