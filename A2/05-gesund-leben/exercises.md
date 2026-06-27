@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Bruno fühlt sich diese Woche nicht gut. ( )
 2. Anna ärgert sich über ihren Yogakurs. ( )
@@ -21,7 +21,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Herr Steinmeyer fühlt sich müde, weil …  a) er sich nicht ausreichend bewegt hat.  b) er sich bei der Arbeit sehr gestresst fühlt.  c) er sich erkältet hat.
 2. Was empfiehlt die Apothekerin gegen den Stress?  a) Dreimal täglich eine Tablette nehmen.  b) Mehr Wasser trinken und Sport machen.  c) Ein Magnesiumpräparat nehmen und sich jeden Abend entspannen.
@@ -32,7 +32,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 7 missing words. Three words in the box are not needed.
+Höre und ergänze die 7 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Yuki wohnt in München und fühlt sich gerade nicht so gut. Sie hat sich letzte Woche (1) ______ und muss sich jetzt (2) ______. Am Dienstag ist sie in die Apotheke gegangen und hat sich ein (3) ______ gegen Husten geholt. Die Apothekerin hat ihr geraten, sich viel Tee zu trinken und sich (4) ______ anzuziehen. Yuki (5) ______ sich, dass sie sich bald wieder besser fühlt — sie (6) ______ sich schon auf ihren nächsten (7) ______.
 
@@ -42,7 +42,7 @@ Listen and fill in the 7 missing words. Three words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Wo arbeitet Dr. Berger?  a) In einer Apotheke.  b) In einer Arztpraxis.  c) In einem Krankenhaus.
 2. Wann ist der Termin?  a) Am Donnerstag, dem zwölften Juni.  b) Am Dienstag, dem zehnten Juni.  c) Am Freitag, dem dreizehnten Juni.
@@ -79,7 +79,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A1 — Reflexivpronomen (Akkusativ): Tabelle
 
-Fill in the Akkusativ reflexive pronoun. Each row has two gaps (subject + pronoun).
+Ergänze das reflexive Pronomen im Akkusativ. Jede Zeile hat zwei Lücken (Subjekt + Pronomen).
 
 1. ______ — Ich fühle ______ müde.
 2. ______ — Fühlst du ______ besser?
@@ -90,7 +90,7 @@ Fill in the Akkusativ reflexive pronoun. Each row has two gaps (subject + pronou
 
 ## Übung A2 — Reflexivpronomen (Dativ): Tabelle
 
-Fill in the Dativ reflexive pronoun. Each row has two gaps.
+Ergänze das reflexive Pronomen im Dativ. Jede Zeile hat zwei Lücken.
 
 1. ______ — Ich wünsche ______ mehr Schlaf.
 2. ______ — Was wünschst du ______?
@@ -101,7 +101,7 @@ Fill in the Dativ reflexive pronoun. Each row has two gaps.
 
 ## Übung A3 — Akkusativ oder Dativ? Einsetzen
 
-Fill in the correct reflexive pronoun (Akkusativ or Dativ).
+Ergänze das richtige reflexive Pronomen (Akkusativ oder Dativ).
 
 1. Anna wäscht ______ jeden Morgen. (Akk)
 2. Bruno kauft ______ neue Laufschuhe. (Dat)
@@ -116,7 +116,7 @@ Fill in the correct reflexive pronoun (Akkusativ or Dativ).
 
 ## Übung A4 — `sich fühlen`: Konjugation und Sätze
 
-Conjugate `sich fühlen` and complete the example sentence. The gap is the conjugated form (verb + reflexive pronoun).
+Konjugiere `sich fühlen` und ergänze den Beispielsatz. Die Lücke ist die konjugierte Form (Verb + Reflexivpronomen).
 
 1. ich: Ich ______ heute sehr müde.
 2. du: Wie ______ du dich?
@@ -127,7 +127,7 @@ Conjugate `sich fühlen` and complete the example sentence. The gap is the conju
 
 ## Übung A5 — `sich ausruhen`, `sich ärgern`, `sich freuen`: Einsetzen
 
-Fill in the correct form of the reflexive verb.
+Ergänze die richtige Form des reflexiven Verbs.
 
 1. Anna ______ nach der langen Arbeitswoche. (sich ausruhen)
 2. Bruno ______ oft über den vollen Terminkalender. (sich ärgern)
@@ -140,7 +140,7 @@ Fill in the correct form of the reflexive verb.
 
 ## Übung A6 — `sich waschen`, `sich anziehen`, `sich ausziehen`: Morgenroutine
 
-Fill in the correct form. Watch for Akkusativ vs. Dativ `sich`.
+Ergänze die richtige Form. Achte auf Akkusativ vs. Dativ bei `sich`.
 
 1. Ich ______ jeden Morgen kalt. (sich waschen)
 2. ______ du dich schon für die Schule? (sich anziehen)
@@ -176,7 +176,7 @@ Fill in the correct form. Watch for Akkusativ vs. Dativ `sich`.
 
 ## Übung A9 — `sich etwas wünschen` und `sich etwas vorstellen`
 
-Fill in: mir, dir, sich, uns, euch (Dativ). The reflexive pronoun is in Dativ because there's a separate Akkusativ object (e.g. mehr Energie, das).
+Ergänze: mir, dir, sich, uns, euch (Dativ). Das Reflexivpronomen steht im Dativ, weil es ein separates Akkusativobjekt gibt (z. B. mehr Energie, das).
 
 1. Ich wünsche ______ mehr Energie.
 2. Was wünschst du ______?
@@ -201,7 +201,7 @@ Fill in: mir, dir, sich, uns, euch (Dativ). The reflexive pronoun is in Dativ be
 
 ## Übung A11 — Reflexiv oder nicht? Entscheiden
 
-Mark R (reflexiv) or N (nicht reflexiv). The gap is R or N.
+Markiere R (reflexiv) oder N (nicht reflexiv). Die Lücke ist R oder N.
 
 1. Ich wasche ______ das Auto. (mich / das Auto)
 2. Ich wasche ______. (mich / das Auto)
@@ -218,7 +218,7 @@ Mark R (reflexiv) or N (nicht reflexiv). The gap is R or N.
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the blanks with the correct reflexive form (Akkusativ or Dativ). 10 gaps.
+Ergänze die Lücken mit der richtigen reflexiven Form (Akkusativ oder Dativ). 10 Lücken.
 
 — Hey Bruno, wie geht es dir?
 — Ehrlich gesagt fühle ich ______ gerade nicht so toll. Ich habe ______
@@ -233,7 +233,7 @@ erkältet und muss ______ jetzt wirklich ausruhen.
 
 ## Übung B2 — Finde den Fehler
 
-Each item has exactly one mistake. The wrong word is shown as a gap — write the correct form (the full corrected word or phrase).
+Jede Aufgabe hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form (das ganze korrigierte Wort oder die Phrase).
 
 1. Ich fühle ______ heute nicht gut. (sich → ?)
 2. Anna ruht ______ nach der Arbeit aus. (mich → ?)
@@ -261,7 +261,7 @@ Each item has exactly one mistake. The wrong word is shown as a gap — write th
 
 ## Übung B4 — Satzbau: Reflexivverben
 
-Put the words in the right order.
+Bringe die Wörter in die richtige Reihenfolge.
 
 1. fühlen – sehr – wir – gut – uns – Heute
 2. sich – Anna – oft – Stress – den – über – ärgert
@@ -272,7 +272,7 @@ Put the words in the right order.
 
 ## Übung B5 — Reflexiv oder reziprok?
 
-Decide: is `sich` used reflexively (R) or reciprocally (C = "each other")? Mark R or C in the gap.
+Entscheide: Wird `sich` reflexiv (R) oder reziprok (C = „einander") gebraucht? Markiere R oder C in der Lücke.
 
 1. Anna und Bruno helfen ______ beim Lernen. (R / C)
 2. Er wäscht ______. (R / C)
@@ -338,7 +338,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Anna wohnt in Berlin und achtet sehr ______ ihre Gesundheit. Jeden Morgen
 ______ sie sich kalt — das findet sie erfrischend. Danach zieht sie ______
@@ -361,7 +361,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Ten words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > — Anna, wie fühlst du (1) ______ heute?
 > — Ich fühle (2) ______ erschöpft. Ich habe diese Woche so viel gearbeitet!
@@ -427,7 +427,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes.
+Eine Minute pro Aufgabe. Keine Notizen.
 
 1. `sich fühlen`, ich-form: ich ______
 2. Reflexivpronomen Akk, du-form: ______
@@ -447,7 +447,7 @@ One minute per item. No notes.
 
 ## Übung D2 — Odd one out
 
-Cross out the word that doesn't fit.
+Streiche das Wort durch, das nicht passt.
 
 1. fühlen – ausruhen – ärgern – stellen
 2. mich – dich – sich – mein
