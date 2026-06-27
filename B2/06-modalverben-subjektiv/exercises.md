@@ -349,7 +349,13 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Die Kunst der vorsichtigen Vermutung)
 
-Lies den Lesetext in lesson.md, Abschnitt 7. Richtig (R) oder falsch (F)?
+> Wer Nachrichten liest oder einer Diskussion folgt, merkt schnell: Gute Sprecher behaupten selten etwas mit absoluter Sicherheit. Stattdessen stufen sie ihre Aussagen ab. Sie sagen nicht „Der Plan ist gescheitert", sondern „Der Plan **dürfte** gescheitert sein" — und signalisieren damit, dass sie zwar eine begründete Vermutung haben, aber keinen endgültigen Beweis. Diese Vorsicht ist kein Zeichen von Schwäche, sondern von Reife.
+> Besonders deutlich wird das im Journalismus. Eine seriöse Zeitung schreibt: „Der Politiker **soll** Gelder angenommen haben." Das kleine Wort *soll* macht klar: Hier wird ein Vorwurf wiedergegeben, nicht bewiesen. Behauptet der Politiker selbst, er habe nie Geld genommen, heißt es: „Er **will** von nichts gewusst haben." Auch hier hält sich die Zeitung vornehm zurück — sie referiert nur seine Aussage und distanziert sich leise davon.
+> Auch über die Vergangenheit lässt sich vorsichtig urteilen. Statt „Sie hat den Termin vergessen" sagt der reife Sprecher „Sie **dürfte** den Termin **vergessen haben**" — er räumt ein, dass er sich irren könnte. Und wer ein Gerücht weitergibt, kennzeichnet es als solches: „Der Manager **soll** das Geld selbst **genommen haben**", nicht „Der Manager hat das Geld genommen". Der kleine Unterschied entscheidet darüber, ob man eine Tatsache behauptet oder nur eine Möglichkeit andeutet.
+> Im Alltag funktioniert dieselbe Logik. Wenn dein Kollege schon wieder fehlt, **muss** er nicht gleich krank sein — er **könnte** auch im Stau stecken. Wer vorschnell urteilt, liegt oft falsch. Wer dagegen seine Modalverben sorgfältig wählt, zeigt, dass er den Unterschied zwischen *Wissen* und *Vermuten* verstanden hat. Und genau das **dürfte** in jeder ernsthaften Diskussion mehr wert sein als die lauteste Behauptung.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Gute Sprecher behaupten meist alles mit absoluter Sicherheit. ( )
 2. Das Wort „soll" zeigt, dass ein Vorwurf nur wiedergegeben, nicht bewiesen wird. ( )
