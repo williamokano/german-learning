@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog 1: Nach dem Weg fragen"
     audio: dialog1.mp3
-    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    instructions: "Höre und entscheide: richtig (R) oder falsch (F)?"
+    instructionsEn: "Listen and decide: true (R) or false (F)?"
     items:
       - q: "Bruno fragt eine Frau auf der Straße nach dem Bahnhof. — Bruno asks a woman on the street for directions to the train station."
         answer: true
@@ -35,7 +36,8 @@ exercises:
     type: true-false
     title: "Dialog 2: Wie komme ich zum Museum?"
     audio: dialog2.mp3
-    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    instructions: "Höre und entscheide: richtig (R) oder falsch (F)?"
+    instructionsEn: "Listen and decide: true (R) or false (F)?"
     items:
       - q: "Anna möchte zum Museum Ludwig fahren. — Anna wants to go to the Museum Ludwig."
         answer: true
@@ -55,7 +57,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill the gaps with the words from the box. Two words are not needed."
+    instructions: "Höre und fülle die Lücken mit Wörtern aus dem Kasten. Zwei Wörter werden nicht gebraucht."
+    instructionsEn: "Listen and fill the gaps with the words from the box. Two words are not needed."
     text: |-
       Maria möchte am {1} zum Park gehen. Sie wohnt in der
       {2}, und der Park ist weit. Sie fährt mit dem {3} — sie
@@ -187,7 +190,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Kurzformen: zum, zur, beim, vom"
-    instructions: "Rewrite with the contraction."
+    instructions: "Schreibe mit der Kurzform."
+    instructionsEn: "Rewrite with the contraction."
     text: |-
       1. zu dem Bahnhof → {1} Bahnhof
       2. zu der Post → {2} Post
@@ -236,7 +240,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "fahren oder gehen?"
-    instructions: "Fill in the correct verb in the correct form."
+    instructions: "Ergänze das passende Verb in der richtigen Form."
+    instructionsEn: "Fill in the correct verb in the correct form."
     text: |-
       1. Wir {1} mit dem Zug nach Köln.
       2. Ich {2} zu Fuß zum Supermarkt.
@@ -288,7 +293,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Imperativ (Sie-Form)"
-    instructions: "Make a formal command from the cues. Careful with separable verbs!"
+    instructions: "Bilde eine formelle Aufforderung aus den Vorgaben. Vorsicht bei trennbaren Verben!"
+    instructionsEn: "Make a formal command from the cues. Careful with separable verbs!"
     text: |-
       1. gehen / geradeaus → {1}
       2. nehmen / die U-Bahn → {2}
@@ -317,7 +323,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Trennbare Verben (recap L5!)"
-    instructions: "Fill in both parts of the verb in brackets."
+    instructions: "Ergänze beide Teile des Verbs in Klammern."
+    instructionsEn: "Fill in both parts of the verb in brackets."
     text: |-
       1. Der Zug {1} um acht Uhr {2}. (abfahren)
       2. Wir {3} am Dom {4}. (aussteigen)
@@ -374,7 +381,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Wie komme ich …?"
-    instructions: "Complete the question with `zum` or `zur` + the noun in brackets."
+    instructions: "Ergänze die Frage mit „zum\" oder „zur\" + das Nomen in Klammern."
+    instructionsEn: "Complete the question with `zum` or `zur` + the noun in brackets."
     text: |-
       1. Wie komme ich {1}? (die Post)
       2. Wie komme ich {2}? (der Supermarkt)
@@ -480,7 +488,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
+    instructions: "Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form."
+    instructionsEn: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
     text: |-
       1. Ich {1} mit dem Auto zur Arbeit. (gehe → ?)
       2. Wir fahren mit {2} U-Bahn. (die → ?)
@@ -582,7 +591,8 @@ exercises:
     block: B
     type: categorize
     title: "Kategorien"
-    instructions: "Sort the 12 words: Verkehrsmittel · Orte in der Stadt · Richtungswörter"
+    instructions: "Sortiere die 12 Wörter: Verkehrsmittel · Orte in der Stadt · Richtungswörter"
+    instructionsEn: "Sort the 12 words: Verkehrsmittel · Orte in der Stadt · Richtungswörter"
     buckets:
       - { key: verkehr, label: "Verkehrsmittel" }
       - { key: orte, label: "Orte in der Stadt" }
@@ -672,7 +682,8 @@ exercises:
     block: C
     type: gap-text
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |-
       Bruno arbeitet in Berlin. Er fährt morgens {1} dem Bus zur
       Arbeit. Die Haltestelle ist nicht weit: Er geht zu {2} — nur
@@ -712,7 +723,7 @@ exercises:
       Bis bald!
       Bruno
 
-      Choose the correct option (a, b, or c) for each gap.
+      Wähle die richtige Option (a, b oder c) für jede Lücke.
     items:
       - q: "{1} Bahnhof — directly at the station"
         options:
@@ -761,7 +772,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
     text: |-
       — Entschuldigung, wie {1} ich zum Museum?
       — {2} Sie die Straßenbahn, Linie 16. Die Haltestelle ist an

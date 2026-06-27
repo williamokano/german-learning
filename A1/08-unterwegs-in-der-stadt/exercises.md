@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre und entscheide: richtig (R) oder falsch (F)?
 
 1. Bruno fragt eine Frau auf der Straße nach dem Bahnhof. — Bruno asks a woman on the street for directions to the train station. ( )
 2. Die Frau sagt: Fahren Sie mit dem Bus! — The woman says: Take the bus! ( )
@@ -21,7 +21,7 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre und entscheide: richtig (R) oder falsch (F)?
 
 1. Anna möchte zum Museum Ludwig fahren. — Anna wants to go to the Museum Ludwig. ( )
 2. Sie muss am Dom umsteigen. — She has to change at the cathedral. ( )
@@ -32,7 +32,7 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill the gaps with the words from the box. Two words are not needed.
+Höre und fülle die Lücken mit Wörtern aus dem Kasten. Zwei Wörter werden nicht gebraucht.
 
 > Maria möchte am (1) ______ zum Park gehen. Sie wohnt in der
 > (2) ______, und der Park ist weit. Sie fährt mit dem (3) ______ — sie
@@ -94,7 +94,7 @@ Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einma
 
 ## Übung A4 — Kurzformen: zum, zur, beim, vom
 
-Rewrite with the contraction.
+Schreibe mit der Kurzform.
 
 1. zu dem Bahnhof → ______ Bahnhof
 2. zu der Post → ______ Post
@@ -118,7 +118,7 @@ Rewrite with the contraction.
 
 ## Übung A6 — fahren oder gehen?
 
-Fill in the correct verb in the correct form.
+Ergänze das passende Verb in der richtigen Form.
 
 1. Wir ______ mit dem Zug nach Köln.
 2. Ich ______ zu Fuß zum Supermarkt.
@@ -141,7 +141,7 @@ Fill in the correct verb in the correct form.
 
 ## Übung A8 — Imperativ (Sie-Form)
 
-Make a formal command from the cues. Careful with separable verbs!
+Bilde eine formelle Aufforderung aus den Vorgaben. Vorsicht bei trennbaren Verben!
 
 1. gehen / geradeaus → ______
 2. nehmen / die U-Bahn → ______
@@ -156,7 +156,7 @@ Make a formal command from the cues. Careful with separable verbs!
 
 ## Übung A9 — Trennbare Verben (recap L5!)
 
-Fill in both parts of the verb in brackets.
+Ergänze beide Teile des Verbs in Klammern.
 
 1. Der Zug ______ um acht Uhr ______. (abfahren)
 2. Wir ______ am Dom ______. (aussteigen)
@@ -176,7 +176,7 @@ Fill in both parts of the verb in brackets.
 
 ## Übung A11 — Wie komme ich …?
 
-Complete the question with `zum` or `zur` + the noun in brackets.
+Ergänze die Frage mit „zum" oder „zur" + das Nomen in Klammern.
 
 1. Wie komme ich ______? (die Post)
 2. Wie komme ich ______? (der Supermarkt)
@@ -231,7 +231,7 @@ Complete the question with `zum` or `zur` + the noun in brackets.
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
+Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form.
 
 1. Ich ______ mit dem Auto zur Arbeit. (gehe → ?)
 2. Wir fahren mit ______ U-Bahn. (die → ?)
@@ -272,7 +272,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 ## Übung B6 — Kategorien
 
-Sort the 12 words: Verkehrsmittel · Orte in der Stadt · Richtungswörter
+Sortiere die 12 Wörter: Verkehrsmittel · Orte in der Stadt · Richtungswörter
 
 > Zug · Apotheke · geradeaus · Straßenbahn · Kirche · links · Fahrrad · Museum · rechts · Taxi · Brücke · Krankenhaus
 
@@ -325,7 +325,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Bruno arbeitet in Berlin. Er fährt morgens (1) ______ dem Bus zur
 Arbeit. Die Haltestelle ist nicht weit: Er geht zu (2) ______ — nur
@@ -351,7 +351,7 @@ Minuten.
 Bis bald!
 Bruno
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. {1} Bahnhof — directly at the station  a) zum  b) beim  c) vom
 2. {2} Museum Ludwig — to the Museum Ludwig  a) zur  b) zum  c) nach
@@ -362,7 +362,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Five words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > — Entschuldigung, wie (1) ______ ich zum Museum?
 > — (2) ______ Sie die Straßenbahn, Linie 16. Die Haltestelle ist an
