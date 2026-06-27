@@ -1,0 +1,1064 @@
+lesson: C1/01
+title: "C1 · Lektion 1 — Übungen (Stil und Register)"
+intro: >
+  Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Die Lösungen findest du in solutions.md.
+  Tipp: Verteil die Blöcke über mehrere Tage — H und A am Tag 1, B am Tag 2,
+  C am Tag 3, D am Tag 4 nach einer Pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: "Dialog Hör-Check: Dialog A (informell — Mittagspause)"
+    audio: dialog1_a.mp3
+    instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    items:
+      - q: "Lukas findet den neuen Chef nach zwei Wochen immer noch schwer einzuschätzen."
+        answer: true
+        why: 'Lukas: „der ist jetzt zwei Wochen da — und ich kapier immer noch nicht, was der eigentlich will".'
+      - q: "Mia verteidigt den neuen Chef ausdrücklich."
+        answer: false
+        why: 'Mia findet ihn „ganz okay" und „nett" — verteidigt ihn aber nicht ausdrücklich.'
+      - q: "Tomáš findet, dass der neue Chef zu viele Schlagwörter benutzt."
+        answer: true
+        why: |-
+          Tomáš sagt im Dialog, dass der neue Chef in Schlagworten wie „Brand purpose“ und „strategische Positionierung“ redet.
+      - q: "Tomáš arbeitet in Prag und pendelt nur nach Berlin."
+        answer: true
+        why: 'Per Persona: Tomáš pendelt von Prag nach Berlin. Im Dialog: „In Prag sagt man das wenigstens gerade heraus".'
+      - q: "Mia schlägt am Ende vor, noch einen Kaffee zu trinken."
+        answer: true
+        why: 'Mia: „Wer will noch Kaffee?".'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: "Dialog Hör-Check: Dialog B (formell — Bewerbungsgespräch)"
+    audio: dialog1_b.mp3
+    instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    optionLayout: block
+    items:
+      - q: "Welche Frage stellt Frau Hoffmann zu Beginn?"
+        options:
+          - { key: a, text: "Sie fragt nach dem Privatleben des Bewerbers." }
+          - { key: b, text: "Sie bittet um eine kurze Selbsteinschätzung." }
+          - { key: c, text: "Sie fragt nach dem Gehaltswunsch." }
+        answer: b
+        why: 'Frau Hoffmann: „möchte ich Sie um eine kurze Selbsteinschätzung bitten".'
+      - q: "Was hebt der Bewerber als seine besondere Stärke hervor?"
+        options:
+          - { key: a, text: "Seine Promotion in Wirtschaftsinformatik." }
+          - { key: b, text: "Komplexe Sachverhalte für Laien verständlich zu machen." }
+          - { key: c, text: "Seine mehrjährige Erfahrung in der IT-Branche." }
+        answer: b
+        why: 'Tomáš: „meine Fähigkeit, komplexe Sachverhalte auch einem nicht fachkundigen Publikum zugänglich zu machen".'
+      - q: "Welches Beispiel nennt der Bewerber für seine Übersetzungsleistung?"
+        options:
+          - { key: a, text: "Eine neue Software-Einführung." }
+          - { key: b, text: "Eine Sanierung mit misstrauischer Belegschaft." }
+          - { key: c, text: "Ein internationales M&A-Projekt." }
+        answer: b
+        why: 'Tomáš: „Sanierungsmandat … Restrukturierungsmaßnahmen … Belegschaft … Kommunikationsoffensive".'
+      - q: "Welchen Punkt spricht Frau Hoffmann am Ende kritisch an?"
+        options:
+          - { key: a, text: "Die Sprachkenntnisse des Bewerbers." }
+          - { key: b, text: "Die Vereinbarkeit von Promotion und Vollzeitstelle." }
+          - { key: c, text: "Die fehlende Erfahrung im DACH-Raum." }
+        answer: b
+        why: 'Frau Hoffmann: „die Vereinbarkeit von Projektarbeit und akademischer Forschung. Sie haben ja Ihre Promotion noch nicht abgeschlossen".'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: "Hörtext-Lückentext: Rede auf der Mitarbeiterversammlung"
+    audio: hoertext.mp3
+    instructions: "Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel."
+    text: |
+      Liebe Kolleginnen und Kollegen, ich freue mich, dass Sie so zahlreich {1} sind.
+      Bevor ich auf die geplante Umstrukturierung unserer Buchhaltungsabteilung {2}
+      komme, möchte ich zunächst einige Worte zum diesjährigen Geschäftsergebnis {3}.
+      Das vergangene Jahr war, das kann man ohne {4} sagen, ein außerordentlich
+      erfolgreiches Jahr. Der Umsatz konnte um elf Prozent {5} werden. Was die
+      geplante Umstrukturierung {6}, so möchte ich Sie um Geduld und Offenheit bitten.
+    bank: [erschienen, zu sprechen, verlieren, Übertreibung, gesteigert, anbelangt, erwähnt, geplant, gewachsen]
+    answers:
+      "1": erschienen
+      "2": "zu sprechen"
+      "3": verlieren
+      "4": Übertreibung
+      "5": gesteigert
+      "6": anbelangt
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: "Kurze Ansage: Anrufbeantworter einer Behörde"
+    audio: transcript_ansage1.mp3
+    instructions: "Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    optionLayout: block
+    transcript: 'Guten Tag, Sie haben die Bürgerinformation der Stadt München erreicht. Wir sind heute, am 27. Juni, leider nicht persönlich für Sie da. Aufgrund der aktuellen personellen Engpässe ist unsere telefonische Erreichbarkeit derzeit eingeschränkt. Bitte hinterlassen Sie Ihren Namen, Ihre Telefonnummer und Ihr Anliegen nach dem Signalton. Wir werden Ihr Anliegen schnellstmöglich bearbeiten. Für dringende Angelegenheiten wenden Sie sich bitte an die Hotline 089-12 34 56. Bitte rufen Sie mich zurück unter dieser Nummer. Vielen Dank für Ihr Verständnis.'
+    items:
+      - q: "Welche Einheit ist auf dem Anrufbeantworter zu hören?"
+        options:
+          - { key: a, text: "Eine Arztpraxis." }
+          - { key: b, text: "Die Bürgerinformation der Stadt München." }
+          - { key: c, text: "Eine Versicherungsgesellschaft." }
+        answer: b
+        why: '„Sie haben die Bürgerinformation der Stadt München erreicht".'
+      - q: "Warum ist die telefonische Erreichbarkeit eingeschränkt?"
+        options:
+          - { key: a, text: "Wegen einer technischen Störung." }
+          - { key: b, text: "Wegen personeller Engpässe." }
+          - { key: c, text: "Wegen einer Betriebsversammlung." }
+        answer: b
+        why: '„Aufgrund der aktuellen personellen Engpässe ist unsere telefonische Erreichbarkeit derzeit eingeschränkt".'
+      - q: "Welche Information soll der Anrufer hinterlassen?"
+        options:
+          - { key: a, text: "Sein Geburtsdatum und seine Adresse." }
+          - { key: b, text: "Seinen Namen, seine Telefonnummer und sein Anliegen." }
+          - { key: c, text: "Seine Versicherungsnummer." }
+        answer: b
+        why: '„Bitte hinterlassen Sie Ihren Namen, Ihre Telefonnummer und Ihr Anliegen".'
+      - q: "Was sollen Anrufer bei dringenden Angelegenheiten tun?"
+        options:
+          - { key: a, text: "Eine E-Mail schreiben." }
+          - { key: b, text: "Die Hotline 089-12 34 56 anrufen." }
+          - { key: c, text: "Am nächsten Tag noch einmal anrufen." }
+        answer: b
+        why: '„Für dringende Angelegenheiten wenden Sie sich bitte an die Hotline 089-12 34 56".'
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: single-choice
+    title: "Welches Register liegt vor?"
+    instructions: "Wähle das passende Register (a, b, c oder d) für jeden Satz."
+    items:
+      - q: "Ey, hast du Bock auf nen Kaffee?"
+        options:
+          - { key: a, text: "Umgangssprachlich" }
+          - { key: b, text: "Standardsprachlich" }
+          - { key: c, text: "Gehoben" }
+          - { key: d, text: "Fachsprachlich" }
+        answer: a
+        why: "Anrede du, Modalpartikel / Interjektion „Ey“, Verkürzung „nen“, „Bock“ — alle Marker umgangssprachlich."
+      - q: "Könnten Sie mir bitte kurz das Salz reichen?"
+        options:
+          - { key: a, text: "Umgangssprachlich" }
+          - { key: b, text: "Standardsprachlich" }
+          - { key: c, text: "Gehoben" }
+          - { key: d, text: "Fachsprachlich" }
+        answer: c
+        why: "Anrede Sie, Konjunktiv II „könnten“, Verb „reichen“, keine Modalpartikel — Register: gehoben."
+      - q: "Hierzu kann keine valide Aussage getroffen werden."
+        options:
+          - { key: a, text: "Umgangssprachlich" }
+          - { key: b, text: "Standardsprachlich" }
+          - { key: c, text: "Gehoben" }
+          - { key: d, text: "Fachsprachlich" }
+        answer: d
+        why: "„valid“, „eine Aussage kann getroffen werden“ — fachsprachliche Konstruktion mit nominalem Stil."
+      - q: "Kannst du mir mal kurz helfen?"
+        options:
+          - { key: a, text: "Umgangssprachlich" }
+          - { key: b, text: "Standardsprachlich" }
+          - { key: c, text: "Gehoben" }
+          - { key: d, text: "Fachsprachlich" }
+        answer: b
+        why: "Anrede du, Verb „helfen“, Modalpartikel „mal“ — standardsprachlich mit leichter umgangssprachlicher Färbung (korrekt aber alltagsnah)."
+      - q: "Würden Sie mir die Ehre erweisen, mich auf eine Tasse Kaffee zu begleiten?"
+        options:
+          - { key: a, text: "Umgangssprachlich" }
+          - { key: b, text: "Standardsprachlich" }
+          - { key: c, text: "Gehoben" }
+          - { key: d, text: "Fachsprachlich" }
+        answer: c
+        why: "Konjunktiv II „würden“, „die Ehre erweisen“, „begleiten“ — sehr gehoben, fast ironisch feierlich."
+      - q: "Eine diesbezügliche Maßnahme erscheint nicht als zielführend."
+        options:
+          - { key: a, text: "Umgangssprachlich" }
+          - { key: b, text: "Standardsprachlich" }
+          - { key: c, text: "Gehoben" }
+          - { key: d, text: "Fachsprachlich" }
+        answer: d
+        why: "„Maßnahme“, „erscheint nicht als zielführend“, „diesbezüglich“ — fachsprachlich."
+      - q: "Ich finde das nicht so gut."
+        options:
+          - { key: a, text: "Umgangssprachlich" }
+          - { key: b, text: "Standardsprachlich" }
+          - { key: c, text: "Gehoben" }
+          - { key: d, text: "Fachsprachlich" }
+        answer: b
+        why: "„Ich finde …“, standardsprachliches Verb „finden“ mit Verstärker „nicht so“ — neutral."
+      - q: "Es gilt, eine als nicht ausgewogen zu bewertende Sachlage zu konstatieren."
+        options:
+          - { key: a, text: "Umgangssprachlich" }
+          - { key: b, text: "Standardsprachlich" }
+          - { key: c, text: "Gehoben" }
+          - { key: d, text: "Fachsprachlich" }
+        answer: d
+        why: "„Sachlage konstatieren“, „als nicht ausgewogen zu bewertende“ — fachsprachlich-verdichtet, Passiv-Ersatz."
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Modalpartikeln einsetzen"
+    instructions: "Setze die passende Modalpartikel ein (doch, mal, halt, eben, schon, ja, wohl). 8 Items."
+    text: |
+      1. „Komm {1} mit ins Kino!" (Aufforderung, bekräftigend)
+      2. „Das ist {2} so." (Resignation, Begründung)
+      3. „Schau {3} …" (Auflockerung, Einleitung)
+      4. „Du weißt {4}, wie das ist." (gemeinsames Wissen)
+      5. „Das stimmt {5}, aber …" (Zugeständnis, Einschränkung)
+      6. „Es ist {6} nicht einfach." (Resignation)
+      7. „Er wird {7} krank sein." (Vermutung)
+      8. „Das geht {8}!" (Bekräftigung)
+    answers:
+      "1": doch
+      "2": halt
+      "3": mal
+      "4": ja
+      "5": schon
+      "6": eben
+      "7": wohl
+      "8": doch
+
+  - id: A3
+    block: A
+    type: matching
+    title: "Registermarker zuordnen"
+    instructions: "Ordne jedem Satz (1–6) das vorherrschende Register zu (a–f)."
+    left:
+      - { key: "1", text: "Ey, sag mal, hast du das gesehen?" }
+      - { key: "2", text: "Würden Sie mir bitte die Unterlagen zukommen lassen?" }
+      - { key: "3", text: "Hierzu liegen mir keine Informationen vor." }
+      - { key: "4", text: "Es ist nicht so, dass ich das nicht will." }
+      - { key: "5", text: "Da bin ich halt anderer Meinung." }
+      - { key: "6", text: "Eine dahingehende Modifikation wäre anzustreben." }
+    right:
+      - { key: a, text: "Umgangssprachlich (Interjektion, Verkürzung)" }
+      - { key: b, text: "Gehoben (Konjunktiv II, förmliche Bitte)" }
+      - { key: c, text: "Fachsprachlich (Nominal, keine Person)" }
+      - { key: d, text: "Untertreibung / vorsichtig" }
+      - { key: e, text: "Umgangssprachlich (Modalpartikel halt)" }
+      - { key: f, text: "Fachsprachlich (Kompositum, Passiv-Ersatz)" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Verbwahl: umgangssprachlich → standardsprachlich"
+    instructions: "Ersetze das umgangssprachliche Verb durch das standardsprachliche / gehobene Verb. 8 Items."
+    text: |
+      1. Ich kriege morgen Post. → Ich {1} morgen Post.
+      2. Was willst du essen? → Was möchtest du {2}?
+      3. Er hat mein Auto geklaut. → Er hat mein Auto {3}.
+      4. Hört auf zu labern! → Hört auf zu {4}!
+      5. Wir müssen das ändern. → Wir müssen das {5} (gehoben).
+      6. Sie knobelt seit Stunden. → Sie {6} seit Stunden.
+      7. Wir lehnen den Antrag ab. → Eine {7} des Antrags erfolgt (Nominal).
+      8. Das ist Quatsch. → Diese Aussage ist {8}.
+    answers:
+      "1": erhalte
+      "2": frühstücken
+      "3": gestohlen
+      "4": reden
+      "5": modifizieren
+      "6": überlegt
+      "7": Ablehnung
+      "8": "nicht zutreffend"
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Konjunktiv II als Distanzmarker"
+    instructions: "Forme die direkten Sätze in höfliche Bitten mit Konjunktiv II um. 6 Items."
+    text: |
+      1. „Haben Sie Zeit?" → „{1} Sie kurz Zeit?"
+      2. „Können Sie das übersetzen?" → „{2} Sie das bitte übersetzen?"
+      3. „Ich schlage vor, dass wir das verschieben." → „Ich {3} vorschlagen, dass wir das verschieben."
+      4. „Darf ich Sie unterbrechen?" → „{4} ich Sie kurz unterbrechen?"
+      5. „Geben Sie mir das bitte." → „{5} Sie mir das bitte geben?"
+      6. „Sind Sie damit einverstanden?" → „{6} Sie damit einverstanden?"
+    answers:
+      "1": Hätten
+      "2": Könnten
+      "3": würde
+      "4": Dürfte
+      "5": Würden
+      "6": Wären
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "FVG statt einfachem Verb"
+    instructions: "Ersetze das einfache Verb durch das passende Funktionsverbgefüge (Infinitiv). 6 Items."
+    text: |
+      1. Wir müssen das bezweifeln. → Wir müssen das in Frage {1}.
+      2. Ich werde das übergeben. → Ich werde das zur Verfügung {2}.
+      3. Wir akzeptieren das Risiko. → Wir {3} das Risiko in Kauf.
+      4. Das ist wichtig. → Das {4} eine wichtige Rolle.
+      5. Wir entscheiden morgen. → Wir {5} morgen eine Entscheidung.
+      6. Wir werden das ansprechen. → Wir werden das zur Sprache {6}.
+    answers:
+      "1": stellen
+      "2": stellen
+      "3": nehmen
+      "4": spielt
+      "5": treffen
+      "6": bringen
+
+  - id: A7
+    block: A
+    type: gap-bank
+    title: "Register-Umformung: umgangssprachlich → standardsprachlich"
+    instructions: "Forme die umgangssprachlichen Sätze in standardsprachliche um. Drei Satzteile sind zu viel."
+    text: |
+      1. {1} (Er hat das nicht gemacht.)
+      2. {2} (Ich krieg das nicht hin.)
+      3. {3} (Das ist Quatsch.)
+      4. {4} (Die Firma hat 500 Leute gefeuert.)
+      5. {5} (Kannst du mir mal helfen?)
+    bank:
+      - "Er hat das nicht getan."
+      - "Es gelingt mir nicht."
+      - "Diese Aussage ist nicht zutreffend."
+      - "Das Unternehmen hat 500 Mitarbeitende freigestellt."
+      - "Könntest du mir bitte helfen?"
+      - "Er hat das nicht gemacht."
+      - "Ich bekomme das nicht hin."
+      - "Das stimmt nicht."
+    answers:
+      "1": "Er hat das nicht getan."
+      "2": "Es gelingt mir nicht."
+      "3": "Diese Aussage ist nicht zutreffend."
+      "4": "Das Unternehmen hat 500 Mitarbeitende freigestellt."
+      "5": "Könntest du mir bitte helfen?"
+
+  - id: A8
+    block: A
+    type: single-choice
+    title: "Registerbruch erkennen"
+    instructions: "Welcher Satz hat einen Registerbruch? Wähle (a) für den ersten Satz, (b) für den zweiten Satz, (c) wenn beide korrekt sind."
+    items:
+      - q: "(1) „Könnten Sie mir mal kurz das Salz reichen?“ (2) „Würden Sie mir bitte das Salz reichen?“"
+        options:
+          - { key: a, text: "Satz 1 hat einen Registerbruch (Konjunktiv II + Modalpartikel mal)." }
+          - { key: b, text: "Satz 2 hat einen Registerbruch (Konjunktiv II + Bitte)." }
+          - { key: c, text: "Beide Sätze sind registerkonform." }
+        answer: a
+        why: "Satz 1 mischt Konjunktiv II (gehoben) mit Modalpartikel „mal“ (umgangssprachlich). Satz 2 bleibt durchgehend im gehobenen Register."
+      - q: "(1) „Sehr geehrte Frau Weber, ich wollte dich mal was fragen.“ (2) „Sehr geehrte Frau Weber, ich möchte Sie um eine Auskunft bitten.“"
+        options:
+          - { key: a, text: "Satz 1 hat einen Registerbruch (förmliche Anrede + du + Modalpartikel)." }
+          - { key: b, text: "Satz 2 hat einen Registerbruch (förmliche Anrede + Konjunktiv)." }
+          - { key: c, text: "Beide Sätze sind registerkonform." }
+        answer: a
+        why: "Satz 1 mischt „Sehr geehrte“ + Pronomen „dich“ + „mal“ — drei Registerbrüche. Satz 2 ist registerkonform."
+      - q: "(1) „Ich würde sagen, das ist halt Quatsch.“ (2) „Ich würde sagen, das ist nicht ganz zutreffend.“"
+        options:
+          - { key: a, text: "Satz 1 hat einen Registerbruch (Konjunktiv II + Modalpartikel halt)." }
+          - { key: b, text: "Satz 2 hat einen Registerbruch (Konjunktiv II + Untertreibung)." }
+          - { key: c, text: "Beide Sätze sind registerkonform." }
+        answer: a
+        why: "Satz 1: Konjunktiv II „würde“ ist gehoben, „halt“ + „Quatsch“ sind umgangssprachlich. Satz 2 bleibt im gehobenen Register."
+      - q: "(1) „Er ist gestorben.“ (in einer Todesanzeige) (2) „Er ist verstorben.“ (in einer Todesanzeige)"
+        options:
+          - { key: a, text: "Satz 1 hat einen Registerbruch (direkt im Trauerkontext)." }
+          - { key: b, text: "Satz 2 hat einen Registerbruch (Euphemismus)." }
+          - { key: c, text: "Beide Sätze sind registerkonform." }
+        answer: a
+        why: "In einer Todesanzeige ist „verstorben“ das erwartete Register; „gestorben“ wirkt dort direkt und unangemessen."
+      - q: "(1) „Lass das!“ (in einer WhatsApp an den Partner) (2) „Ich möchte Sie bitten, das zu unterlassen.“ (in einer WhatsApp an den Partner)"
+        options:
+          - { key: a, text: "Satz 1 hat einen Registerbruch (zu direkt)." }
+          - { key: b, text: "Satz 2 hat einen Registerbruch (zu förmlich)." }
+          - { key: c, text: "Beide Sätze sind registerkonform." }
+        answer: b
+        why: "In einer WhatsApp unter Partnern ist „Ich möchte Sie bitten, das zu unterlassen“ zu förmlich — Register passt nicht zur Messenger-Form und zur Du-Anrede."
+
+  - id: A9
+    block: A
+    type: odd-one-out
+    title: "Wortschatz-Check: Welches Wort passt nicht zum Register?"
+    instructions: "Streiche das Wort, das nicht in dieselbe Stilebene passt, und erkläre warum."
+    groups:
+      - items: [erhalten, frühstücken, klauen, einreichen]
+        odd: 2
+        why: "klauen ist umgangssprachlich (stehlen); die anderen drei sind standardsprachlich bis gehoben."
+      - items: [bezweifeln, in Frage stellen, labern, überlegen]
+        odd: 2
+        why: "labern ist umgangssprachlich; die anderen drei sind standardsprachlich bis gehoben."
+      - items: ["zielführend", "valid", "evident", "mega"]
+        odd: 3
+        why: "mega ist umgangssprachlich (Jugendsprache); die anderen drei sind fachsprachlich."
+      - items: [Euphemismus, Hyperbel, Untertreibung, Modalpartikel]
+        odd: 3
+        why: "Modalpartikel ist eine Wortart; die anderen drei sind Registerstrategien / Stilfiguren."
+      - items: [erhalten, bekommen, kriegen, zugestellt bekommen]
+        odd: 2
+        why: "kriegen ist umgangssprachlich markiert; die anderen drei sind standardsprachlich bis gehoben."
+
+  - id: A10
+    block: A
+    type: order
+    title: "Satzbau: Registeraufbau (Modalpartikel-Position)"
+    instructions: "Bring die Wörter in die richtige Reihenfolge. Die Modalpartikel steht typischerweise nach dem finiten Verb oder vor dem Satzende."
+    items:
+      - tiles: [Komm, doch, mal, mit, ins, Kino]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Komm doch mal mit ins Kino"
+      - tiles: [Das, ist, halt, nicht, so, einfach]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Das ist halt nicht so einfach"
+      - tiles: [Du, weißt, ja, wie, das, ist]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Du weißt ja, wie das ist"
+      - tiles: [Er, wird, wohl, krank, sein]
+        answer: [0, 1, 2, 3, 4]
+        note: "Er wird wohl krank sein"
+
+  # ── Block B — Vertiefung ─────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: free-write
+    title: "Register-Umformung in vier Stilebenen"
+    prompt: "Schreib den folgenden Satz in vier Registern: (a) umgangssprachlich, (b) standardsprachlich, (c) gehoben, (d) fachsprachlich."
+    stimulus: "Satz: „Ich finde den Vorschlag nicht gut, weil er zu teuer ist.“ (8–12 Sätze insgesamt)"
+    use:
+      - "(a) Variante mit Modalpartikel (halt, mal, doch) und kurzem Verb"
+      - "(b) Variante standardsprachlich ohne Modalpartikel"
+      - "(c) Variante gehoben mit Konjunktiv II oder FVG"
+      - "(d) Variante fachsprachlich mit Nominalstil + Passiv-Ersatz"
+    selfCheck:
+      - "Bleibt jede Variante konsequent auf ihrer Stilebene?"
+      - "Sind alle fünf Registermarker (Anrede, Verb, Modalpartikel, Satzbau, Wortschatz) konsistent?"
+      - "Wird in Variante (c) der Konjunktiv II korrekt gebildet (nicht gestapelt)?"
+      - "Wird in Variante (d) nominalisiert und ggf. Passiv verwendet?"
+    model: |
+      (a) „Ey, der Vorschlag ist echt zu teuer — den kannst du knicken."
+      (b) „Ich finde den Vorschlag nicht gut, weil er zu teuer ist."
+      (c) „Ich würde den Vorschlag als nicht überzeugend bewerten, da er mit erheblichen Kosten verbunden wäre."
+      (d) „Eine Bewertung des Vorschlags erscheint nicht als zielführend, da mit einer signifikanten Kostenintensität zu rechnen ist."
+
+  - id: B2
+    block: B
+    type: free-write
+    title: "Registerbrüche korrigieren"
+    prompt: "Jeder Satz enthält mindestens einen Registerbruch. Finde ihn und schreib den Satz im passenden Register neu."
+    stimulus: |
+      1. „Sehr geehrte Frau Weber, ich wollte dich mal was fragen."
+      2. „Ich würde sagen, das ist halt Quatsch."
+      3. „Ey Chef, hätten Sie mal kurz Zeit?"
+      4. „In der Todesanzeige: Er ist gestorben."
+      5. „Könnten Sie mir mal kurz das Salz reichen?"
+      6. „Eine diesbezügliche Maßnahme wäre halt nicht so gut."
+    model: |
+      1. „Sehr geehrte Frau Weber, ich möchte Sie um eine kurze Auskunft bitten." (förmliche Anrede + Konjunktiv, keine Du-Form, keine Modalpartikel)
+      2. „Ich würde sagen, das ist nicht ganz zutreffend." (Konjunktiv II + gehobenes Verb, keine Modalpartikel)
+      3. „Chef, hätten Sie kurz Zeit?" (duzen + Interjektion OK; Modalpartikel mal streichen)
+      4. „Er ist verstorben." (Euphemismus im Trauerregister)
+      5. „Würden Sie mir bitte das Salz reichen?" (Konjunktiv II, ohne „mal")
+      6. „Eine diesbezügliche Maßnahme wäre nicht optimal." (fachsprachlich, ohne halt)
+
+  - id: B3
+    block: B
+    type: free-write
+    title: "Register erkennen und benennen"
+    prompt: "Bestimme für jeden der folgenden zehn Sätze das vorherrschende Register (umgangssprachlich, standardsprachlich, gehoben, fachsprachlich) und begründe deine Entscheidung in einem Satz. Benenne dabei mindestens zwei Registermarker."
+    stimulus: |
+      1. „Ey, haste mal 'nen Euro für mich?"
+      2. „Ich gehe morgen ins Büro."
+      3. „Würden Sie mir bitte die Unterlagen zukommen lassen?"
+      4. „Hierzu kann keine valide Aussage getroffen werden."
+      5. „Das ist halt so."
+      6. „Könntest du mir bitte kurz helfen?"
+      7. „Eine diesbezügliche Maßnahme erscheint nicht als zielführend."
+      8. „Ich krieg das nicht hin."
+      9. „Selbstverständlich stehe ich Ihnen für Rückfragen jederzeit zur Verfügung."
+      10. „Die Versuchsreihe wurde von einem interdisziplinären Team durchgeführt."
+    model: |
+      1. Umgangssprachlich — Interjektion „Ey", Verkürzung „haste", „'nen" statt „einen".
+      2. Standardsprachlich — neutrale Wortwahl, vollständige Verben, keine Modalpartikel.
+      3. Gehoben — Konjunktiv II „würden", förmliche Anrede „Sie", Verb „zukommen lassen".
+      4. Fachsprachlich — „valide Aussage", nominal-passivische Konstruktion.
+      5. Umgangssprachlich — Modalpartikel „halt", kurze Aussage.
+      6. Standardsprachlich-höflich — Konjunktiv II, aber Du-Anrede und „bitte".
+      7. Fachsprachlich — Kompositum „Maßnahme", Passiv-Ersatz „erscheint … als zielführend".
+      8. Umgangssprachlich — „kriegen" (ugs.), fehlende trennbare Verbteile.
+      9. Gehoben — „selbstverständlich", „jederzeit zur Verfügung stehen", förmliche Anrede.
+      10. Fachsprachlich — Passiv, „Versuchsreihe", „durchgeführt von", nominaler Stil.
+
+  - id: B4
+    block: B
+    type: matching
+    title: "Funktionsverbgefüge und einfaches Verb verbinden"
+    instructions: "Ordne jedem Funktionsverbgefüge (1–6) das einfachere Verb (a–f) zu, das es ersetzt."
+    left:
+      - { key: "1", text: "eine Entscheidung treffen" }
+      - { key: "2", text: "in Frage stellen" }
+      - { key: "3", text: "zur Verfügung stellen" }
+      - { key: "4", text: "in Kauf nehmen" }
+      - { key: "5", text: "in Betracht ziehen" }
+      - { key: "6", text: "zur Sprache bringen" }
+    right:
+      - { key: a, text: "akzeptieren" }
+      - { key: b, text: "ansprechen" }
+      - { key: c, text: "überlegen, erwägen" }
+      - { key: d, text: "entscheiden" }
+      - { key: e, text: "geben, anbieten" }
+      - { key: f, text: "bezweifeln" }
+    answers:
+      "1": d
+      "2": f
+      "3": e
+      "4": a
+      "5": c
+      "6": b
+
+  - id: B5
+    block: B
+    type: single-choice
+    title: "Konjunktiv II: nur einer pro Satz"
+    instructions: "Welche Sätze stapeln den Konjunktiv II (Registerfehler)? Wähle den Satz mit dem Fehler."
+    items:
+      - q: "(1) „Würden Sie das machen?“ (2) „Würden Sie das könnten machen?“"
+        options:
+          - { key: a, text: "Satz 1 ist falsch (Konjunktiv II ohne Hauptverb)." }
+          - { key: b, text: "Satz 2 ist falsch (Konjunktiv II gestapelt: würden + könnten)." }
+          - { key: c, text: "Beide Sätze sind korrekt." }
+        answer: b
+        why: "Konjunktiv II wird im Deutschen nicht gestapelt. „Würden + könnten“ zusammen in einem Satz ist falsch."
+      - q: "(1) „Könnten Sie mir helfen?“ (2) „Würden Sie mir helfen können?“"
+        options:
+          - { key: a, text: "Satz 1 ist falsch (Konjunktiv II von können)." }
+          - { key: b, text: "Satz 2 ist falsch (würden + Infinitiv mit Endstellung — korrekt, aber Konjunktiv II von „werden“ ist hier nicht nötig)." }
+          - { key: c, text: "Beide Sätze sind korrekt." }
+        answer: c
+        why: "Beide Sätze sind korrekter Konjunktiv II: „könnten + Infinitiv“ oder „würden + Infinitiv“. Nur „würden + könnten“ wäre gestapelt."
+      - q: "(1) „Ich würde sagen, dass die Ergebnisse vielversprechend sind.“ (2) „Ich würde Sie bitten, dass Sie das prüfen.“"
+        options:
+          - { key: a, text: "Satz 1 ist falsch (Konjunktiv + Indikativ im Nebensatz)." }
+          - { key: b, text: "Satz 2 ist falsch (würde + bitten + Indikativ im Nebensatz — Mischung)." }
+          - { key: c, text: "Beide Sätze sind korrekt." }
+        answer: b
+        why: "„Ich würde Sie bitten, das zu prüfen“ — der dass-Satz mit Indikativ ist eine Mischung aus Konjunktiv und Indikativ. Besser: „Ich bitte Sie, das zu prüfen“ (ohne würde) oder Infinitivkonstruktion."
+      - q: "(1) „Würden Sie bitte Platz nehmen?“ (2) „Würden Sie bitte nehmen Platz?“"
+        options:
+          - { key: a, text: "Satz 1 ist falsch (Konjunktiv II von werden + Infinitiv)." }
+          - { key: b, text: "Satz 2 ist falsch (Wortstellung: trennbares Verb nicht getrennt)." }
+          - { key: c, text: "Beide Sätze sind korrekt." }
+        answer: b
+        why: "„Platz nehmen“ ist ein trennbares Verb und muss im Hauptsatz getrennt werden: „nehmen … Platz“."
+
+  - id: B6
+    block: B
+    type: gap-bank
+    title: "Modalpartikeln und Höflichkeit: E-Mail ergänzen"
+    instructions: "Füll die 8 Lücken mit der passenden Modalpartikel oder Höflichkeitsformel (Konjunktiv II). Drei Wörter sind zu viel."
+    text: |
+      Sehr geehrte Frau Doktor Weber,
+      ich {1} Ihnen gerne mitteilen, dass Ihre Bewerbung bei uns eingegangen ist.
+      Wir {2} Ihnen für Ihr Interesse an einer Mitarbeit in unserem Haus
+      bedanken. {3} Sie {4} einen Moment Zeit für eine Rückfrage? Wir
+      {5} Sie bitten, das ausgefüllte Formular bis zum 15. Juli {6}
+      lassen. Für Rückfragen stehe ich Ihnen {7} jederzeit zur Verfügung.
+      Mit freundlichen Grüßen,
+      Dr. Yusuf El-Syed
+    bank: [möchte, danken, Hätten, bitte, würden, zukommen, selbstverständlich, mal, doch, halt]
+    answers:
+      "1": möchte
+      "2": danken
+      "3": Hätten
+      "4": bitte
+      "5": würden
+      "6": zukommen
+      "7": selbstverständlich
+
+  - id: B7
+    block: B
+    type: odd-one-out
+    title: "Euphemismus, Hyperbel, Untertreibung — welche Strategie passt nicht?"
+    instructions: "Streiche den Ausdruck, der nicht zur angegebenen Strategie passt, und erkläre warum."
+    groups:
+      - items: ["verstorben", "sich trennen", "hingeschieden", "raufgegangen"]
+        odd: 3
+        why: "raufgegangen ist kein Euphemismus (Jugendsprache); die anderen drei beschönigen den Tod."
+      - items: ["tausendmal gesagt", "das ewige Thema", "ein Jahrhundertereignis", "ziemlich oft"]
+        odd: 3
+        why: "ziemlich oft ist Untertreibung, keine Hyperbel; die anderen drei übertreiben."
+      - items: ["nicht ganz optimal", "eine kleine Panne", "gewisse Schwierigkeiten", "ein Riesenproblem"]
+        odd: 3
+        why: "ein Riesenproblem ist Hyperbel (Übertreibung); die anderen drei sind Untertreibungen."
+      - items: [“die Sache ist suboptimal”, “die Katastrophe”, “es gibt einen kleinen Haken”, “wir müssen noch nachbessern”]
+        odd: 1
+        why: “die Katastrophe ist eine Hyperbel (Übertreibung); die anderen drei sind Untertreibungen, die ein Problem sprachlich verkleinern.”
+
+  - id: B8
+    block: B
+    type: single-choice
+    title: "Registerwechsel: Welche Variante passt zur Situation?"
+    instructions: "Wähle die stilistisch passendere Variante (a oder b) für den Kontext."
+    items:
+      - q: "In einer WhatsApp an eine Kollegin (informell):"
+        options:
+          - { key: a, text: "Hast du mal kurz Zeit für mich?" }
+          - { key: b, text: "Würden Sie mir bitte kurz Ihre Zeit zur Verfügung stellen?" }
+        answer: a
+        why: "Messenger unter Kolleginnen = informell. Variante a passt. Variante b ist viel zu förmlich."
+      - q: "In einer E-Mail an einen neuen Mandanten (formell):"
+        options:
+          - { key: a, text: "Wir schicken Ihnen die Unterlagen morgen." }
+          - { key: b, text: "Selbstverständlich werden Ihnen die Unterlagen morgen zugestellt." }
+        answer: b
+        why: "Erstkontakt mit Mandanten = gehoben + förmlich. Variante b mit „selbstverständlich“, Passiv und „zugestellt“ passt."
+      - q: "In einem Zeitungsartikel über eine politische Entscheidung (sachlich):"
+        options:
+          - { key: a, text: "Die Regierung schmeißt 500 Leute raus." }
+          - { key: b, text: "Die Regierung plant einen Personalabbau von 500 Stellen." }
+        answer: b
+        why: "Zeitungssprache ist sachlich. Variante b mit „plant“ und „Personalabbau“ ist angemessen."
+      - q: "In einem Brief an einen trauernden Freund (warm, aber nicht floskelhaft):"
+        options:
+          - { key: a, text: "Er ist halt gestorben, das ist halt so." }
+          - { key: b, text: "Es tut mir sehr leid. Ich denke an dich." }
+        answer: b
+        why: "Im Trauerkontext sind Modalpartikeln („halt“) unangemessen. Variante b ist warm, kurz und registerkonform."
+      - q: "In einer E-Mail an einen Bewerber, der abgelehnt wird (höflich, aber klar):"
+        options:
+          - { key: a, text: "Sie sind halt nicht gut genug." }
+          - { key: b, text: "Leider müssen wir Ihnen mitteilen, dass wir Ihre Bewerbung nicht berücksichtigen können." }
+        answer: b
+        why: "Auch in einer Absage bleibt das Register höflich-förmlich. Variante a ist direkt beleidigend."
+
+  - id: B9
+    block: B
+    type: free-write
+    title: "E-Mail: Zwei Versionen — eine informelle, eine formelle"
+    prompt: "Schreib dieselbe Nachricht in zwei Registern: (1) eine WhatsApp an einen Freund / eine Freundin (informell, 2–3 Sätze), (2) eine E-Mail an eine offizielle Stelle (formell, 4–6 Sätze). Situation: Du möchtest einen Termin verschieben."
+    stimulus: |
+      Ausgangslage: Du hast einen Termin am Donnerstag um 14 Uhr und kannst ihn nicht wahrnehmen.
+    use:
+      - "(1) Version: Du-Anrede, kurze Sätze, mindestens eine Modalpartikel (mal, halt, doch, ja)"
+      - "(2) Version: Sie-Anrede, vollständige Sätze, Konjunktiv II für die Bitte, FVG (in Betracht ziehen / zur Verfügung stellen), keine Modalpartikel"
+      - "(2) Version: Höflichkeitsformel am Anfang („Sehr geehrte/r ...“) und am Ende („Mit freundlichen Grüßen“)"
+    selfCheck:
+      - "Bleibt Version 1 konsequent informell (du, kurze Sätze, Modalpartikel)?"
+      - "Bleibt Version 2 konsequent formell (Sie, Konjunktiv, keine Modalpartikel)?"
+      - "Wird der Termin in beiden Versionen klar benannt (Donnerstag, 14 Uhr)?"
+    model: |
+      (1) WhatsApp: „Hey Tomáš! Sag mal, kannst du unseren Termin am Donnerstag um 14 Uhr verschieben? Mir ist halt was dazwischengekommen. Wäre cool, wenn wir nächste Woche einen neuen Termin machen könnten. Sag einfach Bescheid! 👍"
+      (2) E-Mail: „Sehr geehrte Frau Doktor Hoffmann, ich möchte Sie höflich darum bitten, unseren für Donnerstag, den 3. Juli, um 14 Uhr vereinbarten Termin zu verschieben. Es wäre mir eine große Hilfe, wenn wir in der kommenden Woche einen Ausweichtermin finden könnten. Ich stehe Ihnen für Rückfragen selbstverständlich jederzeit zur Verfügung und bedanke mich schon jetzt für Ihr Verständnis. Mit freundlichen Grüßen, Anna Becker."
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Lückentext: Register und Sprache im Berufsalltag"
+    instructions: "Füll jede Lücke mit **einem** passenden Wort (Modalpartikel, Konjunktiv-II-Form, Verb oder FVG-Bestandteil). 10 Items."
+    text: |
+      Sprache ist im Berufsalltag nie neutral. Wer in einem Bewerbungsgespräch
+      „Ich {1} mal ne Frage" (umgangssprachlich) sagt, fällt sofort aus dem Register. Wer in einer
+      WhatsApp unter Freunden schreibt „Ich {2} Sie höflich um eine
+      Rückmeldung {3}", klingt ironisch. Die fünf Registermarker sind:
+      Anrede (du/Sie), Verbwahl (kriegen / {4}), Modalpartikel (doch, mal,
+      {5}), Satzbau und Wortschatz. Wer alle fünf Signale {6}, der beherrscht
+      das Register. Im gehobenen Register steht häufig der Konjunktiv II als
+      Distanzmarker: „Ich {7} vorschlagen, dass …" oder „{8} Sie kurz Zeit?".
+      {9} und Hyperbel sind Stilfiguren, die das Register {10}.
+    answers:
+      "1": habe
+      "2": möchte
+      "3": bitten
+      "4": erhalten
+      "5": halt
+      "6": beherrscht
+      "7": würde
+      "8": Hätten
+      "9": Euphemismus
+      "10": beeinflussen
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1"
+    instructions: "Wähle die stilistisch passende Option (a, b oder c) für jede Lücke."
+    items:
+      - q: "Sehr geehrte Frau Weber, ich ____ Ihnen für Ihre schnelle Rückmeldung."
+        options:
+          - { key: a, text: "möchte bedanken" }
+          - { key: b, text: "will bedanken" }
+          - { key: c, text: "möchte mich bedanken" }
+        answer: c
+        why: "„sich bedanken“ ist ein reflexives Verb; in der formellen Anrede: „Ich möchte mich bedanken“."
+      - q: "____ Sie mir bitte kurz die Unterlagen reichen?"
+        options:
+          - { key: a, text: "Können" }
+          - { key: b, text: "Könnten" }
+          - { key: c, text: "Würden können" }
+        answer: b
+        why: "Konjunktiv II „könnten“ — höflich. „Würden + könnten“ wäre gestapelt (Registerfehler)."
+      - q: "Er ist im hohen Alter ____."
+        options:
+          - { key: a, text: "gestorben" }
+          - { key: b, text: "verstorben" }
+          - { key: c, text: "tot" }
+        answer: b
+        why: "In einer Todesanzeige / im gehobenen Register ist „verstorben“ der Euphemismus."
+      - q: "Das ist ____ Quatsch!"
+        options:
+          - { key: a, text: "halt" }
+          - { key: b, text: "jawohl" }
+          - { key: c, text: "schon" }
+        answer: a
+        why: "„halt“ drückt Resignation/Verstärkung im umgangssprachlichen Register aus."
+      - q: "Wir ____ das Risiko nicht ____."
+        options:
+          - { key: a, text: "nehmen … in Kauf" }
+          - { key: b, text: "machen … mit" }
+          - { key: c, text: "akzeptieren … mit" }
+        answer: a
+        why: "„etwas in Kauf nehmen“ ist das feste Funktionsverbgefüge."
+      - q: "Diese Aussage lässt sich empirisch nicht ____."
+        options:
+          - { key: a, text: "machen" }
+          - { key: b, text: "belegen" }
+          - { key: c, text: "nehmen" }
+        answer: b
+        why: "„belegen“ = nachweisen, empirisch untermauern — fachsprachlich korrekt."
+      - q: "Ich ____ sagen, das geht so nicht."
+        options:
+          - { key: a, text: "will" }
+          - { key: b, text: "möchte" }
+          - { key: c, text: "würde" }
+        answer: c
+        why: "Konjunktiv II „würde“ als Distanzmarker — gehobenes Register."
+
+  - id: C3
+    block: C
+    type: gap-bank
+    bankCase: upper
+    bankSort: true
+    title: "Sprachbausteine Teil 2 (Wortbank)"
+    instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
+    text: |
+      Aus einem Stil-Ratgeber: „{1} Sie in einer E-Mail an den Vorgesetzten,
+      dann {2} Sie die Modalpartikel „mal" und „halt". Setzen Sie stattdessen
+      auf den {3} II als Distanzmarker: „Ich {4} vorschlagen, dass …". In einer
+      WhatsApp an {5} dürfen Sie ruhig „{6}" und „{7}" benutzen. Das Register
+      muss zur {8} passen. {9} sind Registerstrategien, die einen
+      Sachverhalt {10} oder verfälschen können."
+    bank: [SIE, VERMEIDEN, DUZEN, KONJUNKTIV, WÜRDE, HALT, MAL, BESONDERS, SITUATION, EUPHEMISMEN, BESCHÖNIGEN, ANREDE, RATSAM, FRAGEN, HINWEIS]
+    answers:
+      "1": SIE
+      "2": VERMEIDEN
+      "3": KONJUNKTIV
+      "4": WÜRDE
+      "5": DUZEN
+      "6": HALT
+      "7": MAL
+      "8": SITUATION
+      "9": EUPHEMISMEN
+      "10": BESCHÖNIGEN
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: "Lesen Text 1 (Lesetext: Die Macht der Sprache)"
+    instructions: |
+      > Sprache ist nie neutral. Wer ein Wort wählt, wählt auch eine Perspektive, eine Distanz, eine Haltung. Das gilt im Kleinen — „Ich kriege das" oder „Ich erhalte das" — und im Großen: Ein Personalabbau ist etwas anderes als eine betriebsbedingte Kündigung, ein Freisetzungsprogramm oder ein „strategischer Kapazitätsausgleich". Alle vier Sätze bezeichnen denselben Sachverhalt, aber sie evozieren völlig unterschiedliche Vorstellungen im Kopf des Lesers. Wer „Personalabbau" sagt, signalisiert Sachlichkeit; wer „Massenentlassung" sagt, signalisiert Empörung.
+      > Diese linguistische Beobachtung ist nicht neu. Schon der Sprachwissenschaftler George Orwell wies darauf hin, dass vage oder beschönigende Sprache das Denken vernebelt: Wer von „ethnischer Säuberung" spricht, statt von Massenmord, macht sich die Kategorien des Täters zu eigen. Wer von „alternativen Fakten" spricht, statt von Lügen, relativiert die Wahrheit. In einer Demokratie ist es daher von entscheidender Bedeutung, dass Bürgerinnen und Bürger die Register der öffentlichen Sprache durchschauen — und benennen können, wenn ein Euphemismus verschleiert, eine Hyperbel aufbläht oder eine Untertreibung verharmlost.
+      > Doch die Macht der Sprache beschränkt sich nicht auf Politik. Auch im Berufsalltag entscheidet die Registerwahl über Erfolg und Misserfolg. Eine E-Mail an den Vorstand, die mit „Hallo zusammen, ich wollte kurz mal was fragen" beginnt, mag inhaltlich brillant sein — sie wird trotzdem nicht die Wirkung entfalten, die eine sorgfältig formulierte, im Ton angemessene Mitteilung hätte. Wer hingegen in einer WhatsApp-Gruppe unter Freundinnen förmlich von „hiermit möchte ich Sie höflich um eine Rückmeldung bitten" schreibt, wirkt ironisch oder unsicher. Das richtige Register zu finden ist keine Stilfrage, sondern eine soziale Kompetenz.
+      > Eine hilfreiche Übung: Nimm einen beliebigen Satz aus deinem Alltag und schreibe ihn in vier Registern — umgangssprachlich, standardsprachlich, gehoben, fachsprachlich. Du wirst überrascht sein, wie sehr derselbe Inhalt seine Wirkung verändert, nur weil du andere Wörter wählst. Die Sprache gibt dir vier Etagen zur Verfügung. Du musst nur wissen, wann du welche betrittst.
+
+      Richtig (R) oder Falsch (F)?
+    items:
+      - q: "Im Text gilt: „Massenentlassung“ und „strategischer Kapazitätsausgleich“ bezeichnen unterschiedliche Sachverhalte."
+        answer: false
+        why: '„Alle vier Sätze bezeichnen denselben Sachverhalt" — sie evozieren nur unterschiedliche Vorstellungen.'
+      - q: "Orwell wird im Text als Beispiel für die These genannt, dass beschönigende Sprache das Denken vernebelt."
+        answer: true
+        why: '„Schon der Sprachwissenschaftler George Orwell wies darauf hin, dass vage oder beschönigende Sprache das Denken vernebelt".'
+      - q: "Eine E-Mail an den Vorstand, die mit „Hallo zusammen“ beginnt, wirkt laut Text immer ironisch."
+        answer: false
+        why: '„werden nicht die Wirkung entfalten" — nicht ironisch, sondern wirkungslos / unpassend.'
+      - q: "Laut Text ist das richtige Register eine soziale Kompetenz, nicht nur eine Stilfrage."
+        answer: true
+        why: '„Das richtige Register zu finden ist keine Stilfrage, sondern eine soziale Kompetenz".'
+      - q: "Der Text empfiehlt, denselben Satz in vier Registern zu schreiben."
+        answer: true
+        why: '„Nimm einen beliebigen Satz aus deinem Alltag und schreibe ihn in vier Registern".'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: "Lesen Text 2 (Forumsdiskussion: Umgangston im Netz)"
+    instructions: |
+      Lies die folgenden Forumsbeiträge und wähle a, b oder c.
+
+      > **Beitrag 1 — Markus_K (Moderator):**
+      > Liebe Forenmitglieder, in letzter Zeit mehren sich die Beschwerden über den Ton in einzelnen Threads. Wir möchten Sie daher höflich darauf hinweisen, dass ein respektvoller Umgang miteinander eine Grundvoraussetzung für die Teilnahme an diesem Forum darstellt. Sachliche Kritik ist ausdrücklich erwünscht; beleidigende Äußerungen werden dagegen mit Verwarnungen geahndet.
+      >
+      > **Beitrag 2 — Anna_B:**
+      > Leute, was soll der ganze Stress? Ich mein, wir sind hier doch alle vernünftige Menschen. Wenn mir was nicht passt, sag ich das halt direkt. Da brauch ich doch keine förmlichen Briefe.
+      >
+      > **Beitrag 3 — Dr. Yusuf El-Sayed:**
+      > Ich würde vorschlagen, dass wir an dieser Stelle zwischen dem privaten Austausch unter Forenmitgliedern und der offiziellen Moderation differenzieren. Beide haben ihre Berechtigung; entscheidend ist, dass wir uns der jeweiligen Stilebene bewusst sind.
+      >
+      > **Beitrag 4 — Tomáš_N (User):**
+      > Naja, Markus hat ja eigentlich Recht. Aber die „Verwarnung" find ich schon hart. Man könnte das doch auch freundlicher sagen, oder?
+    items:
+      - q: "Welches Register benutzt Beitrag 1 (Markus_K)?"
+        options:
+          - { key: a, text: "Umgangssprachlich" }
+          - { key: b, text: "Standardsprachlich" }
+          - { key: c, text: "Gehoben / formell" }
+        answer: c
+        why: "„höflich darauf hinweisen“, „Grundvoraussetzung“, „ausdrücklich erwünscht“ — gehoben-formelles Register, passend zur Moderatorenrolle."
+      - q: "Welches Register benutzt Beitrag 2 (Anna_B)?"
+        options:
+          - { key: a, text: "Umgangssprachlich" }
+          - { key: b, text: "Standardsprachlich" }
+          - { key: c, text: "Gehoben / formell" }
+        answer: a
+        why: "„Leute“, „was soll der ganze Stress?“, „halt“, „direkt“ — umgangssprachlich mit Modalpartikel."
+      - q: "Welche Registerstrategie schlägt Beitrag 3 (Yusuf) implizit vor?"
+        options:
+          - { key: a, text: "Alle sollen ab sofort förmlich schreiben." }
+          - { key: b, text: "Man soll das Register an die Situation anpassen." }
+          - { key: c, text: "Die Moderation soll sich heraushalten." }
+        answer: b
+        why: "„Beide haben ihre Berechtigung; entscheidend ist, dass wir uns der jeweiligen Stilebene bewusst sind“ — situationsangemessenes Register."
+      - q: "In welchem Register kritisiert Tomáš_N (Beitrag 4) die Verwarnung?"
+        options:
+          - { key: a, text: "Umgangssprachlich (mit Modalpartikeln „ja eigentlich“, „schon“)" }
+          - { key: b, text: "Gehoben (mit Konjunktiv II)" }
+          - { key: c, text: "Fachsprachlich (mit Fachbegriffen)" }
+        answer: a
+        why: "„Naja“, „ja eigentlich“, „schon hart“, „oder?“ — umgangssprachlich mit Modalpartikeln, locker-fragend."
+
+  - id: C5
+    block: C
+    type: free-write
+    title: "Schreiben: Einen Forumsbeitrag in zwei Registern verfassen"
+    prompt: "Verfasse **zwei** Versionen eines Forumsbeitrags (8–12 Sätze pro Version) zum gleichen Thema. (1) Eine informelle Version an ein Freundesforum (du, Modalpartikeln erlaubt, kurze Sätze). (2) Eine formelle Version an ein offizielles Beschwerdeforum (Sie, Konjunktiv II, vollständige Sätze). Thema: „Sollte in öffentlichen Verkehrsmitteln laute Musik verboten werden?“"
+    use:
+      - "(1) Informelle Version: mindestens 3 Modalpartikeln (mal, halt, doch, ja, schon, eben)"
+      - "(1) Informelle Version: kurze Sätze, Umgangssprache, evtl. Interjektionen"
+      - "(2) Formelle Version: mindestens 2× Konjunktiv II als Höflichkeitsform"
+      - "(2) Formelle Version: mindestens 1 Funktionsverbgefüge (in Frage stellen, in Betracht ziehen, in Kauf nehmen)"
+      - "(2) Formelle Version: Schlussformel mit „Mit freundlichen Grüßen“ oder ähnlich"
+    selfCheck:
+      - "Bleibt Version 1 konsequent informell (du, Modalpartikeln, kurze Sätze)?"
+      - "Bleibt Version 2 konsequent formell (Sie, Konjunktiv, FVG, keine Modalpartikel)?"
+      - "Wird in Version 1 eine Meinung klar vertreten (nicht neutral)?"
+      - "Wird in Version 2 sachlich argumentiert (nicht belehrend)?"
+    model: |
+      (1) Informell: „Leute, was meint ihr — sollte man in der U-Bahn laute Musik verbieten? Ich sag mal: ja, unbedingt! Ich mein, ich fahr jeden Tag eine Stunde und will halt meine Ruhe haben. Klar, manche Leute hören gern Musik beim Fahren, das ist ja OK. Aber wenn der Sitznachbar dann noch laut mitsingt, geht mir das echt auf den Keks. Was meint ihr? Verbieten, oder einfach Kopfhörer vorschreiben?"
+      (2) Formell: „Sehr geehrte Redaktion, ich möchte Sie höflich auf ein Thema aufmerksam machen, das viele Fahrgäste der Berliner Verkehrsbetriebe beschäftigt: das Verhalten einzelner Mitreisender beim Musikhören ohne Kopfhörer. Ich würde vorschlagen, dass die BVG in Betracht zieht, klare Regeln für die Nutzung von Audiogeräten in den Fahrzeugen einzuführen. Selbstverständlich wäre dabei die Verhältnismäßigkeit zu wahren — nicht jede Musikwiedergabe wäre zu unterbinden, sondern nur die unverhältnismäßig laute. Es wäre wünschenswert, wenn die Fahrgäste zu gegenseitiger Rücksichtnahme angehalten würden, etwa durch deutlich sichtbare Hinweise in den Fahrzeugen. Ich würde mich freuen, wenn die Redaktion dieses Thema aufgreifen könnte. Mit freundlichen Grüßen, Anna Becker."
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischter Schnelltest"
+    instructions: "Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items."
+    text: |
+      **Stilebenen (C1/01):**
+      1. Register mit kurzen Sätzen, vielen Modalpartikeln: {1}
+      2. Register mit Konjunktiv II und FVG: {2}
+      3. Register mit Fachbegriffen und Passiv-Ersatz: {3}
+
+      **Modalpartikeln:**
+      4. „Das ist {4} so." (Resignation)
+      5. „Du weißt {5}, wie das ist." (gemeinsames Wissen)
+      6. „Komm {6} mal mit!" (Aufforderung)
+
+      **Konjunktiv II:**
+      7. Konjunktiv II von „haben" + 3. Pers. Sg.: {7}
+      8. Konjunktiv II von „werden" + 1. Pers. Sg.: {8}
+
+      **FVG:**
+      9. „eine Entscheidung {9}" (treffen / machen / stellen)
+      10. „in Frage {10}" (ziehen / stellen / bringen)
+
+      **Wiederholung (B2/01 Nominalstil/Verbalstil):**
+      11. (B2/01) Verbalstil von „die Prüfung des Antrags": {11}
+      12. (B2/01) Nominalstil von „weil die Kosten hoch waren": {12}
+
+      **Wiederholung (B2/08 FVG):**
+      13. (B2/08) FVG mit „Verfügung": {13}
+
+      **Wiederholung (B1/13 Höflichkeit):**
+      14. (B1/13) Indirekte Frage: „Wann {14} der Zug?" (Können Sie mir sagen …)
+      15. (B1/13) Höflicher Imperativ: „Mach das Fenster zu!" → {15}
+    answers:
+      "1": Umgangssprachlich
+      "2": Gehoben
+      "3": Fachsprachlich
+      "4": halt
+      "5": ja
+      "6": doch
+      "7": hätte
+      "8": würde
+      "9": treffen
+      "10": stellen
+      "11": "man prüft den Antrag"
+      "12": "Wegen der hohen Kosten"
+      "13": "zur Verfügung stellen"
+      "14": fährt
+      "15": "Würden Sie bitte das Fenster schließen?"
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: "Odd one out"
+    instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    groups:
+      - items: [Umgangssprache, Standardsprache, Fachsprache, Jugendsprache]
+        odd: 3
+        why: "Jugendsprache ist keine eigene Stilebene im engeren Sinn, sondern eine Soziolekt; die anderen drei sind offizielle Registerebenen."
+      - items: [halt, mal, schon, ausschließlich]
+        odd: 3
+        why: "ausschließlich ist keine Modalpartikel; die anderen drei sind."
+      - items: [verstorben, Personalabbau, sich trennen, gestorben]
+        odd: 3
+        why: "gestorben ist direkt; die anderen drei sind Euphemismen."
+      - items: ["würden", "möchten", "könnten", "sind"]
+        odd: 3
+        why: "sind ist Indikativ; die anderen drei sind Konjunktiv-II-Formen, die als Höflichkeitsmarker dienen."
+      - items: [in Frage stellen, zur Verfügung stellen, in Kauf nehmen, ankommen]
+        odd: 3
+        why: "ankommen ist kein FVG (Funktionsverbgefüge); die anderen drei sind feste Verbindungen mit Funktionsverb."
+      - items: [Ey, doch, halt, mal]
+        odd: 0
+        why: "Ey ist eine Interjektion (Anrede / Ausruf), keine Modalpartikel im engeren Sinn; die anderen drei sind Modalpartikeln."
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Rückblick: B2/01, B2/08, B2/12, B1/13"
+    instructions: "Wiederholung früherer Lektionen. 10 Items."
+    text: |
+      **Aus B2/01 (Nominalstil / Verbalstil):**
+      1. Verbalstil von „die Prüfung des Antrags": {1}
+      2. Nominalstil von „weil die Nachfrage stieg": {2}
+
+      **Aus B2/08 (Funktionsverbgefüge):**
+      3. FVG mit „treffen": {3} treffen.
+      4. FVG mit „in Frage": etw. {4}.
+      5. FVG mit „Verfügung": etw. zur {5} stellen.
+
+      **Aus B2/12 (Argumentieren und Erörtern):**
+      6. Erörterungs-Konnektor (Einwand): {6} ist entgegenzuhalten, dass …
+      7. Erörterungs-Konnektor (Fazit): {7} lässt sich sagen, dass …
+
+      **Aus B1/13 (Höflichkeit und indirekte Fragen):**
+      8. Indirekte Frage mit „ob": {8} Sie mir sagen, ob …
+      9. Höflicher Konjunktiv II: „{9} Sie mir bitte helfen?"
+      10. Höflicher Schlusssatz: „{10} für Ihre Aufmerksamkeit." (Vielen Dank / Ich bedanke mich)
+    answers:
+      "1": "man prüft den Antrag"
+      "2": "Wegen der steigenden Nachfrage"
+      "3": "eine Entscheidung"
+      "4": "in Frage stellen"
+      "5": Verfügung
+      "6": Dem
+      "7": Insgesamt
+      "8": Könnten
+      "9": Würden
+      "10": Vielen Dank
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (bewerte dich /20)"
+    notes: "16+ / 20 → Lektion C1/02. Unter 16 → wiederhol morgen Block A (A1–A10) und Block B (B1–B9), dann mach D4 noch einmal."
+    text: |
+      **Stilebenen benennen:**
+      1. „Ey, haste mal 'nen Euro?" → Register: {1}
+      2. „Würden Sie mir bitte die Unterlagen zukommen lassen?" → Register: {2}
+      3. „Hierzu liegen mir keine validen Informationen vor." → Register: {3}
+
+      **Modalpartikeln einsetzen:**
+      4. „Komm {4} mal mit!" (Bekräftigung)
+      5. „Das ist {5} so." (Resignation)
+
+      **Konjunktiv II als Höflichkeit:**
+      6. „{6} Sie kurz Zeit?" (Höflicher als „Haben Sie Zeit?")
+      7. „Ich {7} vorschlagen, dass …" (vorsichtig)
+
+      **Funktionsverbgefüge:**
+      8. „eine Entscheidung {8}" (treffen / machen)
+      9. „etw. zur Verfügung {9}" (geben / stellen)
+
+      **Euphemismus:**
+      10. Euphemismus für „sterben": {10}
+      11. Euphemismus für „Kündigung": {11}
+
+      **Registerbrüche finden:**
+      12. „Sehr geehrte Frau Weber, ich wollte dich {12} was fragen." (Modalpartikel)
+      13. „Ich würde sagen, das ist {13} Quatsch." (Modalpartikel)
+
+      **Register-Umformung:**
+      14. „Ich krieg das nicht hin." → standardsprachlich: {14}
+      15. „Das ist Quatsch." → gehoben: {15}
+
+      **Wiederholung (B2/01):**
+      16. (B2/01) Nominalstil von „weil die Kosten stiegen": {16}
+
+      **Wiederholung (B1/13):**
+      17. (B1/13) Höfliche Bitte: „{17} Sie mir bitte helfen?" (Konjunktiv)
+
+      **Wiederholung (B2/06):**
+      18. (B2/06) Subjektives Modalverb: „Er {18} krank sein." (Vermutung)
+
+      **Wiederholung (B2/08):**
+      19. (B2/08) FVG: „etw. {19} nehmen" (in Kauf / zu Kenntnis)
+
+      **Wiederholung (B1/06):**
+      20. (B1/06) Final-Konnektor: „Ich lerne, {20} eine Stelle zu finden."
+    answers:
+      "1": Umgangssprachlich
+      "2": Gehoben
+      "3": Fachsprachlich
+      "4": doch
+      "5": halt
+      "6": Hätten
+      "7": würde
+      "8": treffen
+      "9": stellen
+      "10": verstorben
+      "11": Personalabbau
+      "12": mal
+      "13": halt
+      "14": "Ich bekomme das nicht hin."
+      "15": "Diese Aussage ist nicht zutreffend."
+      "16": "Wegen der gestiegenen Kosten"
+      "17": Würden
+      "18": dürfte
+      "19": in Kauf
+      "20": um
