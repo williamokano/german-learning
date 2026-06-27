@@ -151,6 +151,44 @@ def voice_for_speaker(name: str) -> str:
     return key
 
 
+# Context phrases that introduce a named speaker inside a mono block.
+# We look for known speakers appearing AFTER one of these phrases, so e.g.
+# "Hallo Anna, hier ist Lisa." reads as Lisa (her voice) instead of the
+# default male announcer. The phrases intentionally match:
+#   "hier ist [Frau/Herr/Dr.] NAME"
+#   "hier spricht [Frau/Herr/Dr.] NAME"
+#   "Mailbox von NAME"
+#   "Anrufbeantworter der Praxis/... NAME"
+_MONO_SPEAKER_CTX = re.compile(
+    r"(?:hier\s+ist|hier\s+spricht|Mailbox\s+von|"
+    r"Anrufbeantworter\s+(?:der\s+Praxis|des\s+Studios|von))"
+    r"\s+(?:(?:Frau|Herr|Dr\.)\s+)*"
+    r"([A-ZÄÖÜ][a-zäöüß]+(?:\s+[A-ZÄÖÜ][a-zäöüß]+)?)"
+)
+
+
+def detect_speaker_in_mono(text: str) -> str | None:
+    """If a mono block text names a speaker, return the configured key for them.
+
+    Captures 1-2 capitalized words after a speaker-introducing phrase
+    ("hier ist", "hier spricht", "Mailbox von", "Anrufbeantworter der Praxis …")
+    and tries to resolve them as a configured speaker key, optionally prefixed
+    with a title. Falls back to the bare name (caller's gender pool resolves it).
+    """
+    m = _MONO_SPEAKER_CTX.search(text)
+    if not m:
+        return None
+    phrase = m.group(1).strip()
+    # Try the full phrase with various title prefixes first
+    for prefix in ["", "Frau ", "Herr ", "Doktor ", "Dr. "]:
+        candidate = prefix + phrase
+        if candidate in CFG["voices"] or candidate in CFG["speaker_gender"]:
+            return candidate
+    # No config match — fall back to the last word of the phrase so the
+    # caller's gender-pool logic can still pick a sensible voice.
+    return phrase.split()[-1] if phrase else None
+
+
 # ---------------------------------------------------------------------------
 # Transcript parsing
 # ---------------------------------------------------------------------------
@@ -331,8 +369,14 @@ def generate_clip(client: ElevenLabs, block: dict, out_path: Path, speed: float 
 
     for turn in block["lines"]:
         speaker = turn["speaker"]
-        voice_key = "announcer" if speaker == "_mono" else voice_for_speaker(speaker)
         text = turn["text"]
+        if speaker == "_mono":
+            # If the mono text names a speaker ("hier ist Lisa"), use that
+            # speaker's voice instead of the default male announcer.
+            detected = detect_speaker_in_mono(text)
+            voice_key = voice_for_speaker(detected) if detected else "announcer"
+        else:
+            voice_key = voice_for_speaker(speaker)
         if SPELL_RE.match(text.strip()):
             # Convert "S-T-E-I-N-M-E-Y-E-R." → "S T E I N M E Y E R"
             # so ElevenLabs pronounces each letter distinctly in one call.
@@ -678,13 +722,23 @@ def _process_blocks(source_path: Path, blocks: list[dict],
                     head = txt[:60] + ('…' if len(txt) > 60 else '')
                     print(f"{prefix}{head}")
             continue
+        if out_path.exists() and not section:
+            print(f"  skip {slug}.mp3 (exists)")
+            continue
+        # When --section is given, generate_clip writes to a temp file first
+        # then atomically replaces the existing file on success — so a failed
+        # regen doesn't leave the directory without audio.
+        import tempfile as _tmp
+        tmp_path = out_path.with_suffix(out_path.suffix + ".new")
+        try:
+            generate_clip(client, block, tmp_path, speed=speed)
+        except Exception:
+            if tmp_path.exists():
+                tmp_path.unlink()
+            raise
         if out_path.exists():
-            if section:
-                out_path.unlink()  # force regeneration when section is specified
-            else:
-                print(f"  skip {slug}.mp3 (exists)")
-                continue
-        generate_clip(client, block, out_path, speed=speed)
+            out_path.unlink()
+        tmp_path.rename(out_path)
     if not dry_run:
         patch_fn(source_path, blocks)
 
