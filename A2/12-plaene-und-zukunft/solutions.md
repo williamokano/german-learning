@@ -30,6 +30,15 @@
 3. **a) Sie wird ihr ein Hotel für zwei Nächte bezahlen.** — „Die Airline wird mir ein Hotel für zwei Nächte bezahlen".
 4. **b) Am Dienstag um achtzehn Uhr.** — „Ich werde am Dienstag um achtzehn Uhr in Berlin landen".
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Projekt März)
+
+| Frage / Thema | Antwort (werden + Inf.) | Wann / Wo |
+|---|---|---|
+| Konzept fertig | Konzept fertig haben | werde … fertig haben | **Ende nächster Woche** |
+| Präsentation halten | Präsentation halten | werde … halten | **fünfzehnten März** |
+| Bei schlechtem Wetter | Veranstaltung in Konferenzraum verlegen | werden … verlegen | **Konferenzraum** |
+| Catering | Catering liefern | wird … liefern | **Restaurant Zum Anker** |
+
 ---
 
 # Block A — Basistraining

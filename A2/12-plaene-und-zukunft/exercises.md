@@ -67,6 +67,19 @@ Listen to the voice message. Then choose the correct answer (a, b, or c). Listen
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Projekt März)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Frage / Thema | Antwort (werden + Inf.) | Wann / Wo |
+|---|---|---|
+| Konzept fertig | Konzept fertig haben | werde … fertig haben | ______ |
+| Präsentation halten | Präsentation halten | werde … halten | ______ |
+| Bei schlechtem Wetter | Veranstaltung in Konferenzraum verlegen | werden … verlegen | ______ |
+| Catering | Catering liefern | wird … liefern | ______ |
+
 ---
 
 # Block A — Basistraining

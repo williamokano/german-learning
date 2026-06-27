@@ -130,6 +130,35 @@ exercises:
         answer: b
         why: '„Ich werde am Dienstag um achtzehn Uhr in Berlin landen".'
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (Projekt März)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Frage / Thema", "Antwort (werden + Inf.)", "Wann / Wo"]
+    rows:
+      - label: "Konzept fertig"
+        cells:
+          - { gap: 1, answer: "Konzept fertig haben",     given: "Konzept fertig haben" }
+          - { gap: 2, answer: "werde … fertig haben",     given: "werde … fertig haben" }
+          - { gap: 3, answer: "Ende nächster Woche" }
+      - label: "Präsentation halten"
+        cells:
+          - { gap: 4, answer: "Präsentation halten",      given: "Präsentation halten" }
+          - { gap: 5, answer: "werde … halten",           given: "werde … halten" }
+          - { gap: 6, answer: "fünfzehnten März" }
+      - label: "Bei schlechtem Wetter"
+        cells:
+          - { gap: 7, answer: "Veranstaltung in Konferenzraum verlegen", given: "Veranstaltung in Konferenzraum verlegen" }
+          - { gap: 8, answer: "werden … verlegen",        given: "werden … verlegen" }
+          - { gap: 9, answer: "Konferenzraum" }
+      - label: "Catering"
+        cells:
+          - { gap: 10, answer: "Catering liefern",        given: "Catering liefern" }
+          - { gap: 11, answer: "wird … liefern",          given: "wird … liefern" }
+          - { gap: 12, answer: "Restaurant Zum Anker" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1
