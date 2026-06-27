@@ -335,7 +335,12 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Tagesschau)
 
-Lies den Lesetext in lesson.md, Abschnitt 7. Richtig (R) oder Falsch (F)?
+> Wer abends die Nachrichten hört, dem fällt ein Muster auf: Ständig heißt es „die Regierung **erkläre**", „der Minister **habe** gesagt", „die Opposition **sei** dagegen". Dieser Konjunktiv I ist kein Zufall und keine altmodische Marotte, sondern ein Werkzeug der **Glaubwürdigkeit**.
+> Der Grund ist einfach. Eine seriöse Redaktion berichtet, was andere gesagt haben — aber sie übernimmt keine Garantie für deren Wahrheit. Wenn ein Sprecher der Bahn behauptet, das Angebot **sei** großzügig, dann ist das **seine** Aussage, nicht die der Journalisten. Würde die Tagesschau schreiben „Das Angebot ist großzügig", machte sie sich diese Behauptung zu eigen. Mit dem Konjunktiv I bleibt sie **neutral**: Sie referiert, ohne zu urteilen.
+> Genau deshalb achten Journalisten so genau auf die Form. Sieht der Konjunktiv I wie der Indikativ aus — „die Abgeordneten **fordern**" —, weichen sie auf den Konjunktiv II aus: „die Abgeordneten **forderten**". Eine Aufforderung geben sie mit *sollen* wieder, eine Frage mit *ob*. Das wirkt für Lernende kompliziert, erfüllt aber eine klare Funktion: Der Leser soll jederzeit erkennen können, **wer** etwas behauptet — und ob die Redaktion selbst dahintersteht oder nur weitergibt, was gesagt wurde. Im **umstrittenen** Fall ist dieser kleine Unterschied alles.
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Der Konjunktiv I in den Nachrichten ist laut Text nur eine altmodische Marotte. ( )
 2. Eine seriöse Redaktion übernimmt keine Garantie für die Wahrheit fremder Aussagen. ( )
