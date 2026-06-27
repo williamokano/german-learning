@@ -130,6 +130,31 @@ exercises:
         answer: b
         why: '„Passagiere dieses Fluges finden Sie am Gate B 17".'
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (Hotelreservierung)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Info", "Detail"]
+    rows:
+      - label: "Anzahl Personen"
+        cells:
+          - { gap: 1, answer: "eine Person" }
+          - { gap: 2, answer: "vom fünften bis achten Juli", given: "vom fünften bis achten Juli" }
+      - label: "Zimmer-Lage"
+        cells:
+          - { gap: 3, answer: "dritter Stock", given: "dritter Stock" }
+          - { gap: 4, answer: "über dem Restaurant" }
+      - label: "Hotel-Lage"
+        cells:
+          - { gap: 5, answer: "direkt gegenüber vom Bahnhof", given: "direkt gegenüber vom Bahnhof" }
+          - { gap: 6, answer: "zwischen Post und Stadtbibliothek" }
+      - label: "Altstadt-Verbindung"
+        cells:
+          - { gap: 7, answer: "Linie 4", given: "Linie 4" }
+          - { gap: 8, answer: "bis Haltestelle Marktplatz" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1
