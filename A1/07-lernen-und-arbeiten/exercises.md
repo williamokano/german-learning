@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen and decide: Richtig (R) oder Falsch (F)?
+Höre und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Bruno muss um acht Uhr im Büro sein. — Bruno has to be at the office at eight. ( )
 2. Anna muss auch um acht Uhr arbeiten. — Anna also has to work at eight. ( )
@@ -21,7 +21,7 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen and decide: Richtig (R) oder Falsch (F)?
+Höre und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Frau Yilmaz sagt, Anna muss das Meeting vorbereiten. — Frau Yilmaz says Anna has to prepare the meeting. ( )
 2. Das Meeting fängt um neun Uhr an. — The meeting starts at nine. ( )
@@ -32,7 +32,7 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Two words are not needed.
+Höre und fülle die 6 fehlenden Wörter ein. Zwei Wörter werden nicht gebraucht.
 
 > Maria arbeitet als (1) ______ in einem (2) ______ in München. Sie muss
 > morgens um (3) ______ Uhr aufstehen. Die Arbeit fängt um halb acht an und
@@ -114,7 +114,7 @@ ich ______ · du ______ · er/sie/es ______ · wir ______ · ihr ______ · sie/S
 
 ## Übung A7 — `müssen nicht` oder `dürfen nicht`?
 
-Prohibition → dürfen nicht. No obligation → müssen nicht.
+Verbot → dürfen nicht. Keine Pflicht → müssen nicht.
 
 1. Du ______ nicht lügen. (prohibition)
 2. Ich ______ nicht arbeiten — heute ist Feiertag. (no obligation)
@@ -127,7 +127,7 @@ Prohibition → dürfen nicht. No obligation → müssen nicht.
 
 ## Übung A8 — Satzklammer: put the sentence together
 
-Rewrite as a full sentence. Keep the modal in position 2, infinitive at the end. Example: *ich / müssen / heute / arbeiten* → *Ich muss heute arbeiten.*
+Schreibe einen vollständigen Satz. Das Modalverb steht auf Position 2, der Infinitiv am Ende. Beispiel: *ich / müssen / heute / arbeiten* → *Ich muss heute arbeiten.*
 
 1. ich / wollen / Deutsch / lernen → ______
 2. du / müssen / die Hausaufgaben / machen → ______
@@ -140,7 +140,7 @@ Rewrite as a full sentence. Keep the modal in position 2, infinitive at the end.
 
 ## Übung A9 — Yes/no questions (Ja/Nein-Fragen)
 
-Example: *Ich muss heute arbeiten.* → *Muss ich heute arbeiten?*
+Beispiel: *Ich muss heute arbeiten.* → *Muss ich heute arbeiten?*
 
 1. Du musst früh aufstehen. → ______
 2. Anna will den Kurs machen. → ______
@@ -151,7 +151,7 @@ Example: *Ich muss heute arbeiten.* → *Muss ich heute arbeiten?*
 
 ## Übung A10 — W-Fragen mit Modalverben
 
-Fill in the correct W-word (wann, was, warum, wo, wer, wie lange).
+Ergänze das richtige W-Wort (wann, was, warum, wo, wer, wie lange).
 
 1. ______ musst du heute arbeiten? — Ich muss von neun bis fünf arbeiten.
 2. ______ will Felix werden? — Er will Lehrer werden.
@@ -175,7 +175,7 @@ Fill in the correct W-word (wann, was, warum, wo, wer, wie lange).
 
 ## Übung A12 — Beruf nach `sein` — Artikel oder kein Artikel?
 
-Nach `sein` + Beruf steht normalerweise kein Artikel. ABER: mit Adjektiv brauchst du einen Artikel!
+Nach „sein" + Beruf steht normalerweise kein Artikel. ABER: mit Adjektiv brauchst du einen Artikel!
 
 1. Ich bin ______ Lehrerin. (no adjective)
 2. Felix ist ______ guter Lehrer. (adjective present!)
@@ -214,7 +214,7 @@ Nach `sein` + Beruf steht normalerweise kein Artikel. ABER: mit Adjektiv brauchs
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong/missing word is shown as a gap — write the correct form.
+Jeder Satz hat genau einen Fehler. Das falsche oder fehlende Wort steht als Lücke — schreibe die richtige Form.
 
 1. Ich muss heute ______. (arbeite → Infinitiv!)
 2. ______ du Arzt werden? (Will → du-Form)
@@ -255,7 +255,7 @@ Each sentence has exactly one mistake. The wrong/missing word is shown as a gap 
 
 ## Übung B6 — Kategorien: Beruf oder Arbeitsplatz
 
-Sort the 12 words into Beruf (profession) vs. Arbeitsplatz (workplace).
+Sortiere die 12 Wörter: Beruf (Beruf) oder Arbeitsplatz (Arbeitsplatz).
 
 > Büro · Lehrer · Krankenhaus · Koch · Universität · Arzt · Restaurant · Ingenieur · Schule · Programmierer · Firma · Kellner
 
@@ -311,7 +311,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Ich heiße Sofia und ich (1) ______ Ärztin. Ich (2) ______ im Krankenhaus arbeiten —
 meine Schicht (3) ______ um sieben Uhr. Das ist früh, aber ich (4) ______ meinen
@@ -333,7 +333,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Five words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > — Hallo! Was bist du von (1) ______?
 > — Ich (2) ______ Studentin. Ich (3) ______ Informatik an der Universität.
@@ -424,7 +424,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest (incl. L1–L6)
 
-One minute per item. No notes.
+Eine Minute pro Aufgabe. Keine Notizen.
 
 1. müssen, er-form: er ______
 2. wollen, ich-form: ich ______

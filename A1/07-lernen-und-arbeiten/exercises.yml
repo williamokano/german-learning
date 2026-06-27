@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog A (informell) — Im Büro"
     audio: dialog1_a.mp3
-    instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen and decide: True (R) or False (F)?"
     items:
       - q: "Bruno muss um acht Uhr im Büro sein. — Bruno has to be at the office at eight."
         answer: true
@@ -35,7 +36,8 @@ exercises:
     type: true-false
     title: "Dialog B (formell) — Im Büro"
     audio: dialog1_b.mp3
-    instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen and decide: True (R) or False (F)?"
     items:
       - q: "Frau Yilmaz sagt, Anna muss das Meeting vorbereiten. — Frau Yilmaz says Anna has to prepare the meeting."
         answer: true
@@ -55,7 +57,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext: Marias Arbeitstag"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 6 missing words. Two words are not needed."
+    instructions: "Höre und fülle die 6 fehlenden Wörter ein. Zwei Wörter werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 6 missing words. Two words are not needed."
     text: |
       Maria arbeitet als {1} in einem {2} in München. Sie muss
       morgens um {3} Uhr aufstehen. Die Arbeit fängt um halb acht an und
@@ -229,7 +232,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`müssen nicht` oder `dürfen nicht`?"
-    instructions: "Prohibition → dürfen nicht. No obligation → müssen nicht."
+    instructions: "Verbot → dürfen nicht. Keine Pflicht → müssen nicht."
+    instructionsEn: "Prohibition → dürfen nicht. No obligation → müssen nicht."
     text: |
       1. Du {1} nicht lügen. (prohibition)
       2. Ich {2} nicht arbeiten — heute ist Feiertag. (no obligation)
@@ -254,7 +258,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Satzklammer: put the sentence together"
-    instructions: "Rewrite as a full sentence. Keep the modal in position 2, infinitive at the end. Example: *ich / müssen / heute / arbeiten* → *Ich muss heute arbeiten.*"
+    instructions: "Schreibe einen vollständigen Satz. Das Modalverb steht auf Position 2, der Infinitiv am Ende. Beispiel: *ich / müssen / heute / arbeiten* → *Ich muss heute arbeiten.*"
+    instructionsEn: "Rewrite as a full sentence. Keep the modal in position 2, infinitive at the end. Example: *ich / müssen / heute / arbeiten* → *Ich muss heute arbeiten.*"
     text: |
       1. ich / wollen / Deutsch / lernen → {1}
       2. du / müssen / die Hausaufgaben / machen → {2}
@@ -279,7 +284,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Yes/no questions (Ja/Nein-Fragen)"
-    instructions: "Example: *Ich muss heute arbeiten.* → *Muss ich heute arbeiten?*"
+    instructions: "Beispiel: *Ich muss heute arbeiten.* → *Muss ich heute arbeiten?*"
+    instructionsEn: "Example: *Ich muss heute arbeiten.* → *Muss ich heute arbeiten?*"
     text: |
       1. Du musst früh aufstehen. → {1}
       2. Anna will den Kurs machen. → {2}
@@ -300,7 +306,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "W-Fragen mit Modalverben"
-    instructions: "Fill in the correct W-word (wann, was, warum, wo, wer, wie lange)."
+    instructions: "Ergänze das richtige W-Wort (wann, was, warum, wo, wer, wie lange)."
+    instructionsEn: "Fill in the correct W-word (wann, was, warum, wo, wer, wie lange)."
     text: |
       1. {1} musst du heute arbeiten? — Ich muss von neun bis fünf arbeiten.
       2. {2} will Felix werden? — Er will Lehrer werden.
@@ -349,7 +356,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Beruf nach `sein` — Artikel oder kein Artikel?"
-    instructions: "Nach `sein` + Beruf steht normalerweise kein Artikel. ABER: mit Adjektiv brauchst du einen Artikel!"
+    instructions: "Nach „sein\" + Beruf steht normalerweise kein Artikel. ABER: mit Adjektiv brauchst du einen Artikel!"
+    instructionsEn: "After `sein` + profession, normally no article. BUT: with an adjective, you need an article!"
     text: |
       1. Ich bin {1} Lehrerin. (no adjective)
       2. Felix ist {2} guter Lehrer. (adjective present!)
@@ -428,7 +436,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. The wrong/missing word is shown as a gap — write the correct form."
+    instructions: "Jeder Satz hat genau einen Fehler. Das falsche oder fehlende Wort steht als Lücke — schreibe die richtige Form."
+    instructionsEn: "Each sentence has exactly one mistake. The wrong/missing word is shown as a gap — write the correct form."
     text: |
       1. Ich muss heute {1}. (arbeite → Infinitiv!)
       2. {2} du Arzt werden? (Will → du-Form)
@@ -524,7 +533,8 @@ exercises:
     block: B
     type: categorize
     title: "Kategorien: Beruf oder Arbeitsplatz"
-    instructions: "Sort the 12 words into Beruf (profession) vs. Arbeitsplatz (workplace)."
+    instructions: "Sortiere die 12 Wörter: Beruf (Beruf) oder Arbeitsplatz (Arbeitsplatz)."
+    instructionsEn: "Sort the 12 words into Beruf (profession) vs. Arbeitsplatz (workplace)."
     buckets:
       - { key: beruf, label: "Beruf" }
       - { key: arbeitsplatz, label: "Arbeitsplatz" }
@@ -621,7 +631,8 @@ exercises:
     block: C
     type: gap-text
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |
       Ich heiße Sofia und ich {1} Ärztin. Ich {2} im Krankenhaus arbeiten —
       meine Schicht {3} um sieben Uhr. Das ist früh, aber ich {4} meinen
@@ -695,7 +706,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
     text: |
       — Hallo! Was bist du von {1}?
       — Ich {2} Studentin. Ich {3} Informatik an der Universität.
@@ -842,7 +854,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest (incl. L1–L6)"
-    instructions: "One minute per item. No notes."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen."
+    instructionsEn: "One minute per item. No notes."
     text: |
       1. müssen, er-form: er {1}
       2. wollen, ich-form: ich {2}
