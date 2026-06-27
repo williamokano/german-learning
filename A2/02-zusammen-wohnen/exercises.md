@@ -432,7 +432,16 @@ Eleven words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Annas neue WG
 
-Read „Annas neue WG" in `lesson.md`, section 7. Richtig (R) oder Falsch (F)?
+> Anna ist vor einer Woche in ihre neue Wohngemeinschaft eingezogen. Die WG hat vier Zimmer, eine große Küche und ein Badezimmer. Ihre Mitbewohner heißen Lukas, Sofia und Kemal. Alle sind Studenten an der Humboldt-Universität.
+>
+> Annas Zimmer ist nicht groß — vielleicht zehn Quadratmeter — aber es ist sehr gemütlich. Das Bett steht an der linken Wand, direkt unter dem Fenster. So hat sie morgens Licht. Auf dem Bett liegen zwei bunte Kissen. Der Schreibtisch steht am Fenster, und auf dem Schreibtisch liegen ihre Bücher und ihr Laptop. Das Bücherregal steht neben der Tür. Die Lampe hängt über dem Schreibtisch und gibt ein warmes, schönes Licht. An der Wand über dem Bett hängt ein kleines Poster — eine Karte von Russland. Auf dem Boden liegt ein weicher Teppich. Das Zimmer sieht jetzt wie ein richtiges Zuhause aus.
+>
+> In der Küche haben alle einen eigenen Regalplatz für ihr Essen. Die Hausregeln sind einfach: Man spült das Geschirr sofort nach dem Essen, und jeder putzt die Küche einmal pro Woche. Die Musik geht um 22 Uhr aus.
+>
+> Anna findet ihre Mitbewohner sehr nett. Lukas kocht manchmal für alle — sein Essen ist immer lecker. Sofia ist oft leise und lernt viel. Kemal spielt Gitarre, aber immer vor 22 Uhr! Die WG gefällt Anna sehr. Nächste Woche will sie alle zum gemeinsamen Abendessen einladen. Sie hat schon eine Idee: Borschtsch aus Russland. Lukas und Kemal kennen das Gericht noch nicht — Anna ist gespannt auf ihre Reaktion.
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Anna wohnt jetzt mit vier anderen Studenten zusammen. ( )
 2. Das Bett steht neben dem Fenster. ( )
