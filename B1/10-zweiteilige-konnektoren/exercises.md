@@ -294,7 +294,18 @@ in beidem.
 
 ## Übung B8 — Leseverstehen: Zwei Seiten einer Stadt (Lesetext)
 
-Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c).
+> Viele Menschen fragen sich: Ist Berlin wirklich so besonders, wie alle sagen? Die Antworten sind so verschieden wie die Menschen selbst — und die zweiteiligen Konnektoren helfen, diese Vielfalt zu beschreiben.
+>
+> Lukas, ein Softwareentwickler aus Kreuzberg, sieht sowohl die Vorzüge als auch die Schattenseiten der Hauptstadt. „Berlin bietet nicht nur exzellente Jobmöglichkeiten in der Tech-Branche, sondern auch ein einzigartiges kulturelles Leben", sagt er. „Aber die Mieten sind nicht nur gestiegen, sondern auch die Qualität vieler Wohnungen lässt zu wünschen übrig."
+>
+> Seine Partnerin Mia sieht es differenzierter. „Das Stadtleben ist zwar anregend, aber man darf weder die sozialen Kosten noch den persönlichen Stress vergessen." Sie findet, dass Entweder-oder-Denken hier nicht hilft: „Entweder man liebt Berlin bedingungslos, oder man sieht die Realität. Ich tue beides — und das ist völlig normal."
+>
+> Dr. Yusuf El-Sayed, Privatdozent an der FU Berlin, bringt eine weitere Perspektive ein. „Als jemand, der sowohl in Kairo als auch in Berlin gelebt hat, kann ich sagen: Beide Städte haben ihre unverwechselbare Energie. Weder Berlin noch Kairo ist perfekt. Aber beide sind lebendig — und das ist das Entscheidende."
+>
+> Das Fazit der drei? Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung. Und wer glaubt, es gäbe nur eine richtige Antwort, irrt sich — zwar vielleicht gut gemeint, aber grundlegend falsch.
+
+Wähle a, b oder c.
+
 
 1. Was sagt Lukas über Berlin?  a) Er liebt Berlin und sieht nur die Vorteile.  b) Er sieht sowohl die Vorzüge als auch die Schattenseiten.  c) Er möchte sofort nach Leipzig umziehen.
 2. Was meint Mia mit „Entweder-oder-Denken hilft hier nicht"?  a) Man muss sich zwischen Berlin und einer Kleinstadt entscheiden.  b) Man kann Berlin sowohl lieben als auch kritisch sehen — beides gleichzeitig.  c) Entweder man zieht weg, oder man hört auf zu klagen.
@@ -368,7 +379,18 @@ Five words are not needed.
 
 ## Übung C4a — Leseverstehen: Zwei Seiten einer Stadt — Richtig / Falsch
 
-Read the Lesetext (lesson.md section 7). Decide: Richtig (R) oder Falsch (F)?
+> Viele Menschen fragen sich: Ist Berlin wirklich so besonders, wie alle sagen? Die Antworten sind so verschieden wie die Menschen selbst — und die zweiteiligen Konnektoren helfen, diese Vielfalt zu beschreiben.
+>
+> Lukas, ein Softwareentwickler aus Kreuzberg, sieht sowohl die Vorzüge als auch die Schattenseiten der Hauptstadt. „Berlin bietet nicht nur exzellente Jobmöglichkeiten in der Tech-Branche, sondern auch ein einzigartiges kulturelles Leben", sagt er. „Aber die Mieten sind nicht nur gestiegen, sondern auch die Qualität vieler Wohnungen lässt zu wünschen übrig."
+>
+> Seine Partnerin Mia sieht es differenzierter. „Das Stadtleben ist zwar anregend, aber man darf weder die sozialen Kosten noch den persönlichen Stress vergessen." Sie findet, dass Entweder-oder-Denken hier nicht hilft: „Entweder man liebt Berlin bedingungslos, oder man sieht die Realität. Ich tue beides — und das ist völlig normal."
+>
+> Dr. Yusuf El-Sayed, Privatdozent an der FU Berlin, bringt eine weitere Perspektive ein. „Als jemand, der sowohl in Kairo als auch in Berlin gelebt hat, kann ich sagen: Beide Städte haben ihre unverwechselbare Energie. Weder Berlin noch Kairo ist perfekt. Aber beide sind lebendig — und das ist das Entscheidende."
+>
+> Das Fazit der drei? Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung. Und wer glaubt, es gäbe nur eine richtige Antwort, irrt sich — zwar vielleicht gut gemeint, aber grundlegend falsch.
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Lukas sieht nur die positiven Seiten Berlins. ( )
 2. Mia findet, dass man Berlin entweder bedingungslos liebt oder die Realität sieht — nicht beides. ( )
