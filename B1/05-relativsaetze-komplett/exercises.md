@@ -353,7 +353,16 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1: Über uns — die Website des Startups
 
-Read the Lesetext (lesson.md, section 7). Richtig (R) oder Falsch (F)?
+> Wir sind ein Team, das sich leidenschaftlich für nachhaltige Mobilität einsetzt. Unser Produkt ist eine App, mit der du in wenigen Sekunden einen E-Scooter in deiner Nähe findest und mietest. Wir konzentrieren uns auf die Stadtgebiete, in denen der öffentliche Nahverkehr bisher unzureichend ist — also genau dort, wo die Menschen ihn am meisten brauchen.
+>
+> Das Einzige, was uns von anderen Anbietern unterscheidet, ist unser Fokus. Wir bieten keinen Service für das Zentrum, das sowieso gut erschlossen ist. Wir bieten einen Service für die Randbezirke — für die Menschen, denen ein zuverlässiges und bezahlbares Transportmittel fehlt.
+>
+> Unser Team besteht aus Leuten, auf die du dich wirklich verlassen kannst. Wir kümmern uns um alles, was du für deinen Alltag brauchst: schnelle Verfügbarkeit, einfache Bezahlung und faire Preise. Das Ziel, für das wir jeden Tag arbeiten, ist eine Stadt, wo jeder Mensch mobil sein kann — egal wo er wohnt.
+>
+> Das Beste, was unsere Nutzer über uns sagen, ist: „Endlich eine Lösung, die wirklich zu meinem Alltag passt." Das ist alles, was wir hören wollen.
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Das Startup konzentriert sich auf die gut erschlossenen Stadtteile im Zentrum. ( )
 2. Die App hilft Nutzern, E-Scooter in Randbezirken zu finden. ( )
