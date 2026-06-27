@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Anna und Bruno sprechen über Pläne für das neue Jahr."
         answer: true
@@ -39,7 +40,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Worüber möchte Frau Yilmaz mit Herrn Steinmeyer sprechen?"
         options:
@@ -75,7 +77,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Guten Abend und willkommen zur Wettervorhersage für Berlin und Umgebung.
       {1}, am Dienstag, wird es den ganzen Tag sonnig, die
@@ -98,7 +101,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Ein Anruf aus Lissabon"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Hallo Anna, hier ist Lisa. Ich bin gerade am Flughafen in Lissabon gelandet. Mein Flug nach Berlin am Sonntag wurde gestrichen — ich werde erst am Dienstag zurückfliegen. Die Airline wird mir ein Hotel für zwei Nächte bezahlen. Ich werde am Dienstag um achtzehn Uhr in Berlin landen. Bitte ruf mich zurück, wenn du mich am Flughafen abholen kannst! Tschüss!'
     items:
       - q: "Wo ist Lisa gerade?"
@@ -136,6 +140,7 @@ exercises:
     title: "Tabelle ausfüllen: Dialog B (Projekt März)"
     audio: dialog1_b.mp3
     instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    instructionsEn: "Listen to the dialog once and fill in the table. In each row, **one** piece of information is missing — the clues in the other cells will help you."
     columns: ["Frage / Thema", "Antwort (werden + Inf.)", "Wann / Wo"]
     rows:
       - label: "Konzept fertig"
@@ -166,7 +171,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Konjugation: werden (Präsens)"
-    instructions: "Fill in the present-tense form of werden."
+    instructions: "Ergänze die Präsensform von werden."
+    instructionsEn: "Fill in the present-tense form of werden."
     text: |
       1. ich: {1}
       2. du: {2}
@@ -187,7 +193,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Futur I: Satzklammer üben"
-    instructions: "Complete each sentence with the correct form of werden + the infinitive in brackets. Watch the verb position: werden in position 2, infinitive at the end. 10 items."
+    instructions: "Vervollständige jeden Satz mit der richtigen Form von werden + dem Infinitiv in Klammern. Achte auf die Verbposition: werden auf Position 2, Infinitiv am Ende. 10 Aufgaben."
+    instructionsEn: "Complete each sentence with the correct form of werden + the infinitive in brackets. Watch the verb position: werden in position 2, infinitive at the end. 10 items."
     text: |
       1. Ich {1} morgen Deutsch {2}. (lernen)
       2. Anna {3} im Juli nach Brasilien {4}. (fliegen)
@@ -235,7 +242,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Futur I verneinen"
-    instructions: 'Rewrite the sentence in the negative. The infinitive stays at the end. 6 items. (Fill in: conjugated form of werden, „nicht", and the infinitive.)'
+    instructions: 'Schreibe den Satz in der Verneinung. Der Infinitiv bleibt am Ende. 6 Aufgaben. (Ergänze: konjugierte Form von werden, „nicht" und den Infinitiv.)'
+    instructionsEn: 'Rewrite the sentence in the negative. The infinitive stays at the end. 6 items. (Fill in: conjugated form of werden, „nicht", and the infinitive.)'
     text: |
       1. Ich werde morgen kommen. → Ich {1} morgen {2} {3}.
       2. Wir werden das Buch lesen. → Wir {4} das Buch {5} {6}.
@@ -292,7 +300,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "wenn-Klausel: Verb am Ende"
-    instructions: "Complete each wenn-sentence. Put the conjugated verb at the end. 6 items."
+    instructions: "Vervollständige jeden wenn-Satz. Setze das konjugierte Verb ans Ende. 6 Aufgaben."
+    instructionsEn: "Complete each wenn-sentence. Put the conjugated verb at the end. 6 items."
     text: |
       1. Wenn ich morgen Zeit {1} (haben), gehe ich ins Kino.
       2. Wenn das Wetter besser {2} (werden), fangen wir an.
@@ -333,7 +342,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "als oder wenn?"
-    instructions: "For each sentence, choose als (one single past event) or wenn (repeated past / present / future). 6 items."
+    instructions: "Wähle für jeden Satz als (einmaliges vergangenes Ereignis) oder wenn (wiederholt vergangen / Gegenwart / Zukunft). 6 Aufgaben."
+    instructionsEn: "For each sentence, choose als (one single past event) or wenn (repeated past / present / future). 6 items."
     text: |
       1. {1} ich ein Kind war, habe ich in Russland gelebt. (single past period)
       2. {2} ich traurig war, hat meine Mutter mich getröstet. (every time, repeated)
@@ -354,7 +364,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "als oder wenn? Lückentext"
-    instructions: "Fill the gap with als or wenn. 8 items."
+    instructions: "Ergänze die Lücke mit als oder wenn. 8 Aufgaben."
+    instructionsEn: "Fill the gap with als or wenn. 8 items."
     text: |
       1. {1} ich gestern aufgestanden bin, war es noch dunkel.
       2. {2} ich als Kind krank war, hat meine Oma mir Suppe gebracht.
@@ -399,7 +410,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischt: Futur I + wenn"
-    instructions: 'Complete the sentence. Use Futur I in the main clause and a wenn-clause (verb at the end) for the condition. 22 gaps total. Sample: „Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen)." Use the infinitive given in brackets.'
+    instructions: 'Vervollständige den Satz. Verwende Futur I im Hauptsatz und einen wenn-Satz (Verb am Ende) für die Bedingung. Insgesamt 22 Lücken. Beispiel: „Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen)." Verwende den in Klammern angegebenen Infinitiv.'
+    instructionsEn: 'Complete the sentence. Use Futur I in the main clause and a wenn-clause (verb at the end) for the condition. 22 gaps total. Sample: „Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen)." Use the infinitive given in brackets.'
     text: |
       1. Wenn ich morgen Zeit {1} (haben), {2} (werden) ich ins Kino {3} (gehen).
       2. Wenn es morgen regnet, {4} (werden) wir zu Hause {5} (bleiben).
@@ -460,7 +472,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dialog ergänzen: Pläne für den Sommer"
-    instructions: "Fill in the blanks with the correct word. Use Futur I in the main clause and wenn / als in the subordinate clauses. 10 items."
+    instructions: "Ergänze die Lücken mit dem richtigen Wort. Verwende Futur I im Hauptsatz und wenn / als in den Nebensätzen. 10 Aufgaben."
+    instructionsEn: "Fill in the blanks with the correct word. Use Futur I in the main clause and wenn / als in the subordinate clauses. 10 items."
     text: |
       — Hallo Bruno! Was {1} du in den Sommerferien machen?
       — Ich {2} nach Spanien fahren, {3} ich genug Geld
@@ -513,7 +526,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Wettervorhersage: Lückentext"
-    instructions: "Fill the gaps with the correct form of werden and the word in brackets. 8 items."
+    instructions: "Ergänze die Lücken mit der richtigen Form von werden und dem Wort in Klammern. 8 Aufgaben."
+    instructionsEn: "Fill the gaps with the correct form of werden and the word in brackets. 8 items."
     text: |
       Guten Morgen und willkommen zur Wettervorhersage! Heute {1}
       es sonnig, die Temperatur {2} 22 Grad {3}. Morgen
@@ -535,7 +549,8 @@ exercises:
     block: B
     type: matching
     title: "Frage und Antwort verbinden"
-    instructions: "Match each question (1–6) with the correct answer (a–f)."
+    instructions: "Ordne jede Frage (1–6) der richtigen Antwort (a–f) zu."
+    instructionsEn: "Match each question (1–6) with the correct answer (a–f)."
     left:
       - { key: "1", text: "Was wirst du morgen machen?" }
       - { key: "2", text: "Wann wirst du nach Brasilien fliegen?" }
@@ -602,7 +617,8 @@ exercises:
     block: B
     type: categorize
     title: "Kategorien: Vorsätze, Pläne, Vermutungen"
-    instructions: "Sort the 6 sentences into the two categories. 4 are plans/intentions, 2 are assumptions/predictions."
+    instructions: "Sortiere die 6 Sätze in die zwei Kategorien. 4 sind Pläne/Absichten, 2 sind Vermutungen/Vorhersagen."
+    instructionsEn: "Sort the 6 sentences into the two categories. 4 are plans/intentions, 2 are assumptions/predictions."
     buckets:
       - { key: plaene, label: "Vorsätze / Pläne (intentions, resolutions)" }
       - { key: vermutungen, label: "Vermutungen (assumptions / predictions)" }
@@ -662,7 +678,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Fill each gap with one word. 10 items."
+    instructions: "Fülle jede Lücke mit einem Wort. 10 Aufgaben."
+    instructionsEn: "Fill each gap with one word. 10 items."
     text: |
       Liebe Anna, wie geht es dir? Ich {1} dir von meinen Plänen
       {2}. Nächstes Jahr {3} ich nach Wien fahren und
@@ -737,7 +754,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps using words from the box. Ten words are not needed. Each word once."
     text: |
       Letztes Jahr {1} ich im Sommer nach Wien geflogen. Ich
       {2} dort auch einen Sprachkurs {3}. Nächstes
@@ -874,7 +892,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per item. No notes. 15 items."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen. 15 Aufgaben."
+    instructionsEn: "One minute per item. No notes. 15 items."
     text: |
       1. (A2/L04) In wenn-clauses, where does the conjugated verb go? → {1}
       2. Present of werden, ich-form: {2}
@@ -925,7 +944,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd one out"
-    instructions: "Cross out the word that doesn't fit and say why."
+    instructions: "Streiche das Wort durch, das nicht passt, und sage warum."
+    instructionsEn: "Cross out the word that doesn't fit and say why."
     groups:
       - items: [planen, wohnen, hoffen, erwarten]
         odd: 1
@@ -951,7 +971,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Rückblick: A2/01, A2/03, A2/04, A2/09, A2/10"
-    instructions: "Review of Partizip II, weil/dass, wenn/als, Konjunktiv II, and prepositions. 10 items."
+    instructions: "Wiederholung: Partizip II, weil/dass, wenn/als, Konjunktiv II und Präpositionen. 10 Aufgaben."
+    instructionsEn: "Review of Partizip II, weil/dass, wenn/als, Konjunktiv II, and prepositions. 10 items."
     text: |
       1. (A2/L01) Partizip II of verstehen: {1}
       2. (A2/L01) Präteritum of müssen, ich-form: {2}
