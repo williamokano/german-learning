@@ -376,7 +376,12 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Wie ein Forschungsartikel entsteht)
 
-Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?
+> Ein Forschungsartikel durchläuft heute einen strengen, transparenten Prozess. Am Anfang steht eine **Fragestellung**: Was soll untersucht werden? Aus dieser Frage wird eine **Hypothese** abgeleitet — eine begründete Annahme, die durch Versuche bestätigt oder widerlegt werden kann. In der nächsten Phase wird die **Methodik** festgelegt: Wie viele Probanden werden in die Studie einbezogen? Wie werden die Daten erhoben? Welche Verfahren werden angewendet, um Verzerrungen zu vermeiden?
+> Nach der Durchführung der Versuche werden die Daten ausgewertet. Diese Auswertung erfolgt heute fast immer computergestützt, oft durch statistische Modelle oder durch Algorithmen der Künstlichen Intelligenz. Anschließend werden die Ergebnisse in einem **Fachjournal** zur Veröffentlichung eingereicht. Vor der Veröffentlichung wird der Artikel von anderen Forschern — den sogenannten **Gutachtern** — geprüft. Diese **Begutachtung** (auf Englisch *peer review*) ist das Herzstück der wissenschaftlichen Qualitätssicherung.
+> Erst nach der Begutachtung und der Annahme des Manuskripts wird die Studie offiziell veröffentlicht. In vielen Fachbereichen werden die Daten zusätzlich **Open Access** zur Verfügung gestellt, damit andere Forscher die Ergebnisse überprüfen und darauf aufbauen können. Die Begutachtung endet allerdings nicht mit der Veröffentlichung: Auch nach der Publikation werden die Methodik und die Ergebnisse in der Fachwelt weiterhin **diskutiert**. Eine Hypothese gilt erst dann als gesichert, wenn sie durch **mehrere unabhängige Studien** bestätigt wurde. Eine einzelne Studie — so wichtig sie auch sein mag — **beweist noch nichts**.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Am Anfang eines Forschungsartikels steht eine Hypothese. ( )
 2. Die Daten werden heute oft durch KI-Algorithmen ausgewertet. ( )
