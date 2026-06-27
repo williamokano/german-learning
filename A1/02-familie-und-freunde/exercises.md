@@ -12,10 +12,10 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen and decide: Richtig (R) oder Falsch (F)?
 
-1. Anna zeigt Bruno ein Foto. ( )
-2. Auf dem Foto sind Annas Eltern. ( )
-3. Annas Schwester heißt Claudia. ( )
-4. Annas Oma ist dreiundachtzig Jahre alt. ( )
+1. Anna zeigt Bruno ein Foto. — Anna shows Bruno a photo. ( )
+2. Auf dem Foto sind Annas Eltern. — In the photo are Anna's parents. ( )
+3. Annas Schwester heißt Claudia. — Anna's sister is called Claudia. ( )
+4. Annas Oma ist dreiundachtzig Jahre alt. — Anna's grandma is eighty-three years old. ( )
 
 ## Übung H1b — Dialog B (formell)
 
@@ -23,10 +23,10 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 Listen and decide: Richtig (R) oder Falsch (F)?
 
-1. Herr Steinmeyer hat zwei Kinder. ( )
-2. Seine Tochter heißt Sofia. ( )
-3. Frau Weber ist verheiratet. ( )
-4. Herr Steinmeyers Frau kommt aus Salzburg. ( )
+1. Herr Steinmeyer hat zwei Kinder. — Mr. Steinmeyer has two children. ( )
+2. Seine Tochter heißt Sofia. — His daughter is called Sofia. ( )
+3. Frau Weber ist verheiratet. — Mrs. Weber is married. ( )
+4. Herr Steinmeyers Frau kommt aus Salzburg. — Mr. Steinmeyer's wife comes from Salzburg. ( )
 
 ## Übung H2 — Aussprache-Check
 
@@ -64,10 +64,10 @@ Höre den Text und fülle die Lücken. Drei Wörter passen nicht.
 
 Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Wessen Nachricht ist das?  a) Von Mama.  b) Von Anna.  c) Von Oma.
-2. Wann möchte die Familie kommen?  a) Am Freitag.  b) Am Samstag.  c) Am Sonntag.
-3. Womit kommt die Familie?  a) Mit dem Auto.  b) Mit dem Zug.  c) Mit dem Bus.
-4. Wer kommt mit?  a) Der Bruder.  b) Die Schwester.  c) Der Opa.
+1. Wessen Nachricht ist das? — Whose message is this?  a) Von Mama.  b) Von Anna.  c) Von Oma.
+2. Wann möchte die Familie kommen? — When does the family want to come?  a) Am Freitag.  b) Am Samstag.  c) Am Sonntag.
+3. Womit kommt die Familie? — How is the family coming?  a) Mit dem Auto.  b) Mit dem Zug.  c) Mit dem Bus.
+4. Wer kommt mit? — Who is coming along?  a) Der Bruder.  b) Die Schwester.  c) Der Opa.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -335,12 +335,12 @@ Er ist achtundzwanzig. Und du? Hast du (10) ______?
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Das ist meine Freundin Carla. (1) ____ kommt aus Italien.  a) Er  b) Sie  c) Du
-2. Carla (2) ____ einen Bruder und eine Schwester.  a) hat  b) habe  c) hast
-3. (3) ____ Bruder wohnt in Rom.  a) Ihre  b) Sein  c) ihr
-4. Carlas Eltern (4) ____ sehr nett.  a) ist  b) sind  c) seid
-5. Carla ist (5) ____ verheiratet, sie ist ledig.  a) nicht  b) nein  c) kein
-6. Sie ist dreißig Jahre (6) ______.  a) alt  b) Jahre  c) jung
+1. Das ist meine Freundin Carla. (1) ____ kommt aus Italien. — This is my friend Carla. (1) ____ comes from Italy.  a) Er  b) Sie  c) Du
+2. Carla (2) ____ einen Bruder und eine Schwester. — Carla (2) ____ a brother and a sister.  a) hat  b) habe  c) hast
+3. (3) ____ Bruder wohnt in Rom. — (3) ____ brother lives in Rome.  a) Ihre  b) Sein  c) ihr
+4. Carlas Eltern (4) ____ sehr nett. — Carla's parents (4) ____ very nice.  a) ist  b) sind  c) seid
+5. Carla ist (5) ____ verheiratet, sie ist ledig. — Carla is (5) ____ married, she is single.  a) nicht  b) nein  c) kein
+6. Sie ist dreißig Jahre (6) ______. — She is thirty years (6) ______.  a) alt  b) Jahre  c) jung
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -369,11 +369,11 @@ Text: Ich heiße Daniel Brandt und wohne in Leipzig. Meine Familie ist groß: Ic
 Richtig (R) oder falsch (F)?
 
 
-1. Daniel hat zwei Brüder. ( )
-2. Nina hat ein Kind. ( )
-3. Jan ist verheiratet. ( )
-4. Der Vater ist 63 Jahre alt. ( )
-5. Daniel ist verheiratet. ( )
+1. Daniel hat zwei Brüder. — Daniel has two brothers. ( )
+2. Nina hat ein Kind. — Nina has a child. ( )
+3. Jan ist verheiratet. — Jan is married. ( )
+4. Der Vater ist 63 Jahre alt. — The father is 63 years old. ( )
+5. Daniel ist verheiratet. — Daniel is married. ( )
 
 ## Übung C4b — Lesen Text 2 — Steckbrief
 
@@ -382,10 +382,10 @@ Text: Familie Yilmaz: Akin Yilmaz (34) und Elif Yilmaz (31) kommen aus der Türk
 Choose a, b, or c.
 
 
-1. Familie Yilmaz wohnt in …  a) Izmir  b) Köln  c) Berlin
-2. Deniz ist …  a) drei  b) sechs  c) sechzehn
-3. Wer wohnt auch in Köln?  a) Akins Eltern  b) Elifs Mutter  c) Elifs Vater
-4. Elifs Mutter ist …  a) verheiratet  b) geschieden  c) verwitwet
+1. Familie Yilmaz wohnt in … — The Yilmaz family lives in …  a) Izmir  b) Köln  c) Berlin
+2. Deniz ist … — Deniz is …  a) drei  b) sechs  c) sechzehn
+3. Wer wohnt auch in Köln? — Who also lives in Cologne?  a) Akins Eltern  b) Elifs Mutter  c) Elifs Vater
+4. Elifs Mutter ist … — Elif's mother is …  a) verheiratet  b) geschieden  c) verwitwet
 
 ## Übung C5 — Schreiben: Meine Familie
 

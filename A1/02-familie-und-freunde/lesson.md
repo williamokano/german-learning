@@ -51,6 +51,23 @@ buildsOn:
 > **Anna:** Nein, ich bin nicht verheiratet. Ich bin ledig. Und du?  
 > **Bruno:** Ich bin verheiratet. Meine Frau heißt Paula. Wir haben ein Kind, eine Tochter. Sie heißt Sofia und ist vier Jahre alt.  
 
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Bruno:** Anna, is that your family in the photo?
+> **Anna:** Yes! Those are my parents. My father's name is Georg and my mother's name is Claudia.
+> **Bruno:** Do you have siblings?
+> **Anna:** Yes, I have a brother and a sister.
+> **Bruno:** What are their names?
+> **Anna:** My brother is called Felix, he's twenty-two years old. My sister Lena is seventeen.
+> **Bruno:** And who is that?
+> **Anna:** That's my grandma Erika. She's eighty-three and very fit!
+> **Bruno:** Great! Are you married, Anna?
+> **Anna:** No, I'm not married. I'm single. And you?
+> **Bruno:** I'm married. My wife's name is Paula. We have a child — a daughter. Her name is Sofia and she's four years old.
+
+</details>
+
 \* **Chunk alert:** after `haben` you say `einen Bruder` (not *ein Bruder*) and
 `eine Schwester`. This is the accusative case — fully explained in **Lektion 3**.
 For now, memorize as fixed chunks: *Ich habe einen Bruder / eine Schwester / ein
@@ -69,6 +86,20 @@ Kind.*
 > **Herr Steinmeyer:** Sind Sie verheiratet, Frau Weber?  
 > **Frau Weber:** Nein, ich bin geschieden. Und Sie?  
 > **Herr Steinmeyer:** Ich bin verheiratet. Meine Frau kommt auch aus Österreich, aus Salzburg.  
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Mrs. Weber:** Mr. Steinmeyer, do you have children?
+> **Mr. Steinmeyer:** Yes, I have a daughter. She is six years old.
+> **Mrs. Weber:** What is her name?
+> **Mr. Steinmeyer:** Her name is Sofia. And your family, Mrs. Weber — do you also have children?
+> **Mrs. Weber:** Yes, I have two sons. They are seventeen and twenty.
+> **Mr. Steinmeyer:** Are you married, Mrs. Weber?
+> **Mrs. Weber:** No, I'm divorced. And you?
+> **Mr. Steinmeyer:** I'm married. My wife is also from Austria — from Salzburg.
+
+</details>
 
 ---
 
@@ -557,6 +588,13 @@ Und ich? Ich bin sechsundzwanzig, ledig, und ich wohne in Frankfurt. Ich lerne D
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
 
 > Das ist Familie Bergmann. Der Vater heißt Thomas. Er kommt aus Deutschland, aus München. Die Mutter heißt Maria. Sie kommt aus Österreich, aus Wien. Sie haben zwei Kinder: einen Sohn und eine Tochter. Der Sohn heißt Max — er ist zwanzig Jahre alt und ledig. Die Tochter heißt Lisa — sie ist verheiratet und hat ein Kind. Die Großmutter heißt Eva und wohnt auch in München.
+
+</details>
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> This is the Bergmann family. The father's name is Thomas. He comes from Germany, from Munich. The mother's name is Maria. She comes from Austria, from Vienna. They have two children: a son and a daughter. The son is called Max — he is twenty years old and single. The daughter is called Lisa — she is married and has a child. The grandmother's name is Eva, and she also lives in Munich.
 
 </details>
 

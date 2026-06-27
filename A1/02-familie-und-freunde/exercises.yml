@@ -17,16 +17,16 @@ exercises:
     audio: dialog1_a.mp3
     instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
     items:
-      - q: "Anna zeigt Bruno ein Foto."
+      - q: "Anna zeigt Bruno ein Foto. — Anna shows Bruno a photo."
         answer: true
         why: 'Bruno fragt: „Anna, ist das deine Familie auf dem Foto?" — Anna zeigt ihm das Foto.'
-      - q: "Auf dem Foto sind Annas Eltern."
+      - q: "Auf dem Foto sind Annas Eltern. — In the photo are Anna's parents."
         answer: true
         why: 'Anna sagt: „Das sind meine Eltern" — die Eltern sind auf dem Foto.'
-      - q: "Annas Schwester heißt Claudia."
+      - q: "Annas Schwester heißt Claudia. — Anna's sister is called Claudia."
         answer: false
         why: "Annas Schwester heißt Lena; Claudia ist die Mutter."
-      - q: "Annas Oma ist dreiundachtzig Jahre alt."
+      - q: "Annas Oma ist dreiundachtzig Jahre alt. — Anna's grandma is eighty-three years old."
         answer: true
         why: 'Anna sagt: „Das ist meine Oma Erika. Sie ist dreiundachtzig."'
 
@@ -37,12 +37,12 @@ exercises:
     audio: dialog1_b.mp3
     instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
     items:
-      - { q: "Herr Steinmeyer hat zwei Kinder.", answer: false, why: "Herr Steinmeyer hat eine Tochter, nicht zwei Kinder." }
-      - q: "Seine Tochter heißt Sofia."
+      - { q: "Herr Steinmeyer hat zwei Kinder. — Mr. Steinmeyer has two children.", answer: false, why: "Herr Steinmeyer hat eine Tochter, nicht zwei Kinder." }
+      - q: "Seine Tochter heißt Sofia. — His daughter is called Sofia."
         answer: true
         why: 'Herr Steinmeyer sagt: „Sie heißt Sofia."'
-      - { q: "Frau Weber ist verheiratet.", answer: false, why: "Frau Weber ist geschieden, nicht verheiratet." }
-      - q: "Herr Steinmeyers Frau kommt aus Salzburg."
+      - { q: "Frau Weber ist verheiratet. — Mrs. Weber is married.", answer: false, why: "Frau Weber ist geschieden, nicht verheiratet." }
+      - q: "Herr Steinmeyers Frau kommt aus Salzburg. — Mr. Steinmeyer's wife comes from Salzburg."
         answer: true
         why: 'Herr Steinmeyer sagt: „Meine Frau kommt auch aus Österreich, aus Salzburg."'
 
@@ -127,28 +127,28 @@ exercises:
     transcript: "Hallo Anna, hier ist Mama. Ich rufe an wegen dem Wochenende. Wir möchten dich am Samstag besuchen. Wir kommen mit dem Zug um vierzehn Uhr an. Dein Vater und ich haben eine Überraschung für dich. Dein Bruder kommt auch mit. Bitte ruf mich zurück, damit ich weiß, ob der Termin passt. Vielen Dank und bis Samstag!"
     notes: "**Chunk alert (forward-reference):** The transcript uses several structures from later lessons — *anrufen* (L5: separable), *möchten … besuchen* (L3: möchten + infinitive), *mit dem Zug* (L8: mit + Dat), *ankommen* (L5: separable), *mitkommen* (L5: separable), *zurückrufen* (L10: imperative + L5 separable), *damit … ob … passt* (A2/03: subordinate clauses). Read the message as a fixed chunk for now."
     items:
-      - q: "Wessen Nachricht ist das?"
+      - q: "Wessen Nachricht ist das? — Whose message is this?"
         options:
           - { key: a, text: "Von Mama." }
           - { key: b, text: "Von Anna." }
           - { key: c, text: "Von Oma." }
         answer: a
         why: 'Hallo Anna, hier ist Mama.'
-      - q: "Wann möchte die Familie kommen?"
+      - q: "Wann möchte die Familie kommen? — When does the family want to come?"
         options:
           - { key: a, text: "Am Freitag." }
           - { key: b, text: "Am Samstag." }
           - { key: c, text: "Am Sonntag." }
         answer: b
         why: 'Wir möchten dich am Samstag besuchen.'
-      - q: "Womit kommt die Familie?"
+      - q: "Womit kommt die Familie? — How is the family coming?"
         options:
           - { key: a, text: "Mit dem Auto." }
           - { key: b, text: "Mit dem Zug." }
           - { key: c, text: "Mit dem Bus." }
         answer: b
         why: 'Wir kommen mit dem Zug um vierzehn Uhr an.'
-      - q: "Wer kommt mit?"
+      - q: "Wer kommt mit? — Who is coming along?"
         options:
           - { key: a, text: "Der Bruder." }
           - { key: b, text: "Die Schwester." }
@@ -701,42 +701,42 @@ exercises:
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
-      - q: "Das ist meine Freundin Carla. (1) ____ kommt aus Italien."
+      - q: "Das ist meine Freundin Carla. (1) ____ kommt aus Italien. — This is my friend Carla. (1) ____ comes from Italy."
         options:
           - { key: a, text: "Er" }
           - { key: b, text: "Sie" }
           - { key: c, text: "Du" }
         answer: b
         why: "Freundin = she → Sie."
-      - q: "Carla (2) ____ einen Bruder und eine Schwester."
+      - q: "Carla (2) ____ einen Bruder und eine Schwester. — Carla (2) ____ a brother and a sister."
         options:
           - { key: a, text: "hat" }
           - { key: b, text: "habe" }
           - { key: c, text: "hast" }
         answer: a
         why: "er/sie/es-Form: hat."
-      - q: "(3) ____ Bruder wohnt in Rom."
+      - q: "(3) ____ Bruder wohnt in Rom. — (3) ____ brother lives in Rome."
         options:
           - { key: a, text: "Ihre" }
           - { key: b, text: "Sein" }
           - { key: c, text: "ihr" }
         answer: c
         why: "her brother: owner Carla (sie) → ihr, Bruder masc. → no -e."
-      - q: "Carlas Eltern (4) ____ sehr nett."
+      - q: "Carlas Eltern (4) ____ sehr nett. — Carla's parents (4) ____ very nice."
         options:
           - { key: a, text: "ist" }
           - { key: b, text: "sind" }
           - { key: c, text: "seid" }
         answer: b
         why: "Eltern = plural → sind."
-      - q: "Carla ist (5) ____ verheiratet, sie ist ledig."
+      - q: "Carla ist (5) ____ verheiratet, sie ist ledig. — Carla is (5) ____ married, she is single."
         options:
           - { key: a, text: "nicht" }
           - { key: b, text: "nein" }
           - { key: c, text: "kein" }
         answer: a
         why: "negating an adjective/verb → nicht."
-      - q: "Sie ist dreißig Jahre (6) ______."
+      - q: "Sie ist dreißig Jahre (6) ______. — She is thirty years (6) ______."
         options:
           - { key: a, text: "alt" }
           - { key: b, text: "Jahre" }
@@ -783,11 +783,11 @@ exercises:
 
       Richtig (R) oder falsch (F)?
     items:
-      - { q: "Daniel hat zwei Brüder.", answer: false, why: "Er hat einen Bruder (Jan) und zwei Schwestern (Nina und Paula)." }
-      - { q: "Nina hat ein Kind.", answer: true, why: "Nina ist verheiratet und hat eine Tochter." }
-      - { q: "Jan ist verheiratet.", answer: false, why: "Jan ist ledig." }
-      - { q: "Der Vater ist 63 Jahre alt.", answer: true, why: "Mein Vater ist dreiundsechzig." }
-      - { q: "Daniel ist verheiratet.", answer: false, why: "Ich bin dreißig und nicht verheiratet." }
+      - { q: "Daniel hat zwei Brüder. — Daniel has two brothers.", answer: false, why: "Er hat einen Bruder (Jan) und zwei Schwestern (Nina und Paula)." }
+      - { q: "Nina hat ein Kind. — Nina has a child.", answer: true, why: "Nina ist verheiratet und hat eine Tochter." }
+      - { q: "Jan ist verheiratet. — Jan is married.", answer: false, why: "Jan ist ledig." }
+      - { q: "Der Vater ist 63 Jahre alt. — The father is 63 years old.", answer: true, why: "Mein Vater ist dreiundsechzig." }
+      - { q: "Daniel ist verheiratet. — Daniel is married.", answer: false, why: "Ich bin dreißig und nicht verheiratet." }
 
   - id: C4b
     block: C
@@ -798,28 +798,28 @@ exercises:
 
       Choose a, b, or c.
     items:
-      - q: "Familie Yilmaz wohnt in …"
+      - q: "Familie Yilmaz wohnt in … — The Yilmaz family lives in …"
         options:
           - { key: a, text: "Izmir" }
           - { key: b, text: "Köln" }
           - { key: c, text: "Berlin" }
         answer: b
         why: "Sie wohnen jetzt in Köln."
-      - q: "Deniz ist …"
+      - q: "Deniz ist … — Deniz is …"
         options:
           - { key: a, text: "drei" }
           - { key: b, text: "sechs" }
           - { key: c, text: "sechzehn" }
         answer: b
         why: "Deniz (6)."
-      - q: "Wer wohnt auch in Köln?"
+      - q: "Wer wohnt auch in Köln? — Who also lives in Cologne?"
         options:
           - { key: a, text: "Akins Eltern" }
           - { key: b, text: "Elifs Mutter" }
           - { key: c, text: "Elifs Vater" }
         answer: b
         why: "Elifs Mutter wohnt auch in Köln."
-      - q: "Elifs Mutter ist …"
+      - q: "Elifs Mutter ist … — Elif's mother is …"
         options:
           - { key: a, text: "verheiratet" }
           - { key: b, text: "geschieden" }
