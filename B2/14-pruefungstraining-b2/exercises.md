@@ -61,7 +61,18 @@ Hören Sie den Vortrag (zweimal) und wählen Sie die richtige Antwort (a, b oder
 
 ## Übung exam-L5 — Aufgabe 5 — Zeitungsartikel (Text 1): Richtig / Falsch
 
-Lesen Sie den Zeitungsartikel (lesson.md §7 Text 1) und entscheiden Sie: richtig (R) oder falsch (F)?
+> **Mehr Frauen in Führungspositionen — aber langsamer als versprochen**
+>
+> *Berlin, 12. März 2026* — Im Jahr 2025 lag der Frauenanteil in den Vorständen der 30 größten deutschen Unternehmen bei 36 Prozent. Das geht aus dem neuen „Führungsmonitor" des Deutschen Instituts für Wirtschaftsforschung (DIW) hervor. Gegenüber dem Vorjahr ist das ein Anstieg um drei Prozentpunkte.
+>
+> „Die Entwicklung ist positiv, aber sie verläuft deutlich langsamer als geplant", sagt Dr. Hilde Berger, Studienleiterin am DIW. „Ursprünglich hatte die Bundesregierung eine Quote von 40 Prozent bis Ende 2025 angepeilt — dieses Ziel wurde klar verfehlt."
+>
+> Während in den Vorständen großer Konzerne durchaus Fortschritte zu verzeichnen sind, sieht es auf der mittleren Managementebene anders aus: Dort stagniert der Frauenanteil seit drei Jahren bei etwa 28 Prozent. Viele Expertinnen und Experten führen dies auf die Doppelbelastung durch Familie und Beruf zurück. „Solange sich die Rahmenbedingungen nicht grundlegend ändern, werden qualifizierte Frauen weiterhin den Weg in die Chefetagen meiden", erklärt Berger.
+>
+> Die Studienautoren fordern daher verbindliche Quoten auch für die zweite und dritte Führungsebene, flexiblere Arbeitszeitmodelle und einen Ausbau der betrieblichen Kinderbetreuung. Nur so ließe sich der Trend nachhaltig verändern.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Im Jahr 2025 lag der Frauenanteil in den Vorständen bei 36 Prozent. ( )
 2. Das Ziel von 40 Prozent Frauenanteil wurde bis Ende 2025 erreicht. ( )
@@ -71,7 +82,18 @@ Lesen Sie den Zeitungsartikel (lesson.md §7 Text 1) und entscheiden Sie: richti
 
 ## Übung exam-L6 — Aufgabe 6 — Zeitungsartikel (Text 1): Leseverstehen
 
-Lesen Sie den Zeitungsartikel (lesson.md §7 Text 1) noch einmal und wählen Sie die richtige Antwort (a, b oder c).
+> **Mehr Frauen in Führungspositionen — aber langsamer als versprochen**
+>
+> *Berlin, 12. März 2026* — Im Jahr 2025 lag der Frauenanteil in den Vorständen der 30 größten deutschen Unternehmen bei 36 Prozent. Das geht aus dem neuen „Führungsmonitor" des Deutschen Instituts für Wirtschaftsforschung (DIW) hervor. Gegenüber dem Vorjahr ist das ein Anstieg um drei Prozentpunkte.
+>
+> „Die Entwicklung ist positiv, aber sie verläuft deutlich langsamer als geplant", sagt Dr. Hilde Berger, Studienleiterin am DIW. „Ursprünglich hatte die Bundesregierung eine Quote von 40 Prozent bis Ende 2025 angepeilt — dieses Ziel wurde klar verfehlt."
+>
+> Während in den Vorständen großer Konzerne durchaus Fortschritte zu verzeichnen sind, sieht es auf der mittleren Managementebene anders aus: Dort stagniert der Frauenanteil seit drei Jahren bei etwa 28 Prozent. Viele Expertinnen und Experten führen dies auf die Doppelbelastung durch Familie und Beruf zurück. „Solange sich die Rahmenbedingungen nicht grundlegend ändern, werden qualifizierte Frauen weiterhin den Weg in die Chefetagen meiden", erklärt Berger.
+>
+> Die Studienautoren fordern daher verbindliche Quoten auch für die zweite und dritte Führungsebene, flexiblere Arbeitszeitmodelle und einen Ausbau der betrieblichen Kinderbetreuung. Nur so ließe sich der Trend nachhaltig verändern.
+
+Wählen Sie die richtige Antwort (a, b oder c).
+
 
 1. Welche Aussage macht Dr. Hilde Berger über die Entwicklung der letzten Jahre?  a) Sie verläuft zu langsam.  b) Sie ist rückläufig.  c) Sie ist schneller als erwartet.
 2. Wer hat den „Führungsmonitor" veröffentlicht?  a) Die Bundesregierung  b) Das Deutsche Institut für Wirtschaftsforschung  c) Die 30 größten deutschen Unternehmen
@@ -79,7 +101,22 @@ Lesen Sie den Zeitungsartikel (lesson.md §7 Text 1) noch einmal und wählen Sie
 
 ## Übung exam-L7 — Aufgabe 7 — Forumsbeiträge zuordnen (Text 2)
 
+> **Thema: Sollte Homeoffice zur Regel werden?**
+>
+> **Beitrag 1 — Sandra_Kr (Arbeitgeberin, Personalabteilung):**
+> Wir haben in unserer Firma vor zwei Jahren vollständig auf Homeoffice umgestellt. Die Produktivität ist gestiegen, die Fluktuationsrate ist gesunken, und unsere Bewerberinnen und Bewerber schätzen die Flexibilität. Allerdings fehlt vielen Mitarbeitenden der persönliche Austausch — Kreativität leidet, wenn man sich nie persönlich begegnet.
+>
+> **Beitrag 2 — Tom-Meier (Softwareentwickler, remote):**
+> Für mich ist Homeoffice ein Segen. Ich spare täglich zwei Stunden Pendelzeit und kann mich zu Hause viel besser konzentrieren. Was ich aber vermisse, sind die kleinen Gespräche auf dem Flur — die „Flurfunk"-Informationen, die für die Projektarbeit wichtig sind. Ein Hybridmodell wäre für mich ideal.
+>
+> **Beitrag 3 — Dr. Eva Nowak (Arbeitspsychologin):**
+> Aus psychologischer Sicht ist die Lage differenzierter. Einige Studien zeigen, dass dauerhaftes Homeoffice zu Vereinsamung und Erschöpfung führen kann. Andere belegen, dass die Work-Life-Balance deutlich verbessert wird. Entscheidend ist, ob die Arbeitgeber die nötige Infrastruktur und die klaren Erwartungen schaffen.
+>
+> **Beitrag 4 — Layla.B (Studentin, Werkstudentin):**
+> Als Werkstudentin finde ich Hybrid am besten. Vollständig im Homeoffice fehlt mir der Kontakt zu den Kolleginnen und Kollegen; vollständig im Büro passt nicht zu meinen Vorlesungszeiten. Zwei Tage Büro, drei Tage Homeoffice wäre perfekt.
+
 Welche Aussage (a–e) passt zu welchem Forumsbeitrag (1–4)? Eine Aussage passt nicht.
+
 
 | Links | | Rechts |
 |---|---|---|
@@ -91,7 +128,16 @@ Welche Aussage (a–e) passt zu welchem Forumsbeitrag (1–4)? Eine Aussage pass
 
 ## Übung exam-L8 — Aufgabe 8 — Wissenschaftlicher Text (Text 3): Lücken ergänzen
 
-Lesen Sie den wissenschaftlichen Text (lesson.md §7 Text 3). Wählen Sie für jede Lücke (1–6) die richtige Antwort (a, b oder c).
+> **Der Einfluss von Schlaf auf das Sprachenlernen**
+>
+> Eine Studie der Universität Zürich aus dem Jahr 2025 kommt zu dem Ergebnis, dass Schlaf eine entscheidende Rolle beim Erlernen einer Fremdsprache spielt. Die Forscherinnen und Forscher untersuchten 120 Studierende über einen Zeitraum von acht Wochen. Die Probandinnen und Probanden, die nach dem Lernen mindestens sieben Stunden schliefen, schnitten bei Grammatiktests im Durchschnitt 23 Prozent besser ab als die Vergleichsgruppe mit weniger Schlaf.
+>
+> Die Wissenschaftlerinnen und Wissenschaftler führen das darauf zurück, dass im Schlaf neu gelernte Vokabeln und grammatische Strukturen im Langzeitgedächtnis verfestigt werden. Insbesondere die Tiefschlafphasen scheinen dabei von Bedeutung zu sein.
+>
+> Die Autorinnen und Autoren empfehlen, neue Lerninhalte möglichst kurz vor dem Schlafengehen zu wiederholen, um die Konsolidierung zu unterstützen.
+
+Wählen Sie für jede Lücke (1–6) die richtige Antwort (a, b oder c).
+
 
 1. Eine Studie der Universität Zürich _______ (1), dass Schlaf eine entscheidende Rolle spielt.  a) kommt zu dem Ergebnis  b) geht zu dem Ergebnis  c) macht zu dem Ergebnis
 2. Die Probandinnen und Probanden _______ (2) im Durchschnitt 23 Prozent besser ab.  a) schnitten  b) schnitteten  c) haben geschnitten
