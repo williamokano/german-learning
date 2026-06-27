@@ -355,7 +355,12 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext §7)
 
-Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?
+> Wer eine deutsche Zeitung aufschlägt, trifft schnell auf Sätze wie diesen: „Die im vergangenen Jahr eröffnete und von Kritikern hoch gelobte Ausstellung zieht weiter viele Besucher an." Vor dem eigentlichen Subjekt — der Ausstellung — steht ein ganzer Block aus Partizipien und Ergänzungen. Für Lernende wirkt das wie ein Rätsel, für Journalisten ist es ein Werkzeug.
+> Der Grund ist einfach: Ein Partizipialattribut **spart Platz**. Statt zweier Relativsätze („die Ausstellung, die eröffnet wurde, und die gelobt wurde") steht alles kompakt vor dem Nomen. Eine Zeitung hat wenig Raum und will viele Informationen unterbringen — das **vor dem Nomen gestapelte** Partizip ist dafür ideal. Außerdem klingt es sachlich und seriös.
+> Doch dieser Stil hat einen Preis. Die langen, vor dem Nomen **stehenden** Konstruktionen sind schwer zu lesen, weil der Leser bis zum Ende warten muss, um das eigentliche Nomen zu finden. Manche Sprachkritiker nennen das spöttisch das „Schachtelsatz-Deutsch". Ein guter Text **mischt** deshalb: kurze Partizipialattribute für einfache Fakten, ausgeschriebene Relativsätze für komplexe Aussagen. Wer beides beherrscht, liest jeden Sachtext mühelos — und schreibt selbst klar.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Ein Partizipialattribut spart laut Text Platz. ( )
 2. Für Journalisten ist der Stil ein Werkzeug. ( )
