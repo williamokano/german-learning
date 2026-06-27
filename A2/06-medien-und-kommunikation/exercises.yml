@@ -113,6 +113,35 @@ exercises:
         answer: c
         why: '„Bitte bringen Sie Ihre eigenen Kopfhörer mit."'
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (E-Mail-Austausch)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Thema", "Aktion", "Wer"]
+    rows:
+      - label: "Präsentations-E-Mail"
+        cells:
+          - { gap: 1, answer: "Präsentations-E-Mail",       given: "Präsentations-E-Mail" }
+          - { gap: 2, answer: "schon geantwortet" }
+          - { gap: 3, answer: "Herr Steinmeyer",            given: "Herr Steinmeyer" }
+      - label: "E-Mail nicht angekommen"
+        cells:
+          - { gap: 4, answer: "E-Mail nicht erhalten",      given: "E-Mail nicht erhalten" }
+          - { gap: 5, answer: "noch einmal schreiben" }
+          - { gap: 6, answer: "Herr Steinmeyer",            given: "Herr Steinmeyer" }
+      - label: "Kommunikationsregeln"
+        cells:
+          - { gap: 7, answer: "neue Kommunikationsregeln im Büro", given: "neue Kommunikationsregeln im Büro" }
+          - { gap: 8, answer: "sollten sich unterhalten",   given: "sollten sich unterhalten" }
+          - { gap: 9, answer: "beide" }
+      - label: "Termin vorschlagen"
+        cells:
+          - { gap: 10, answer: "Treffen vereinbaren",       given: "Treffen vereinbaren" }
+          - { gap: 11, answer: "Termin vorschlagen" }
+          - { gap: 12, answer: "Herr Steinmeyer",           given: "Herr Steinmeyer" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1
