@@ -365,7 +365,13 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Wirtschaftsnachrichten verstehen)
 
-Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?
+> Der Stahlbau-Konzern Müller AG hat heute seine Bilanz für das zweite Quartal vorgelegt. Demnach ist der Umsatz im Vergleich zum Vorjahresquartal um 6,3 Prozent gestiegen und liegt jetzt bei 412 Millionen Euro. Der Gewinn ist allerdings um 4,1 Prozent gesunken und beträgt 28 Millionen Euro. Begründet wird die Entwicklung mit hohen Investitionen in eine neue Produktionshalle in Leipzig und in modernere Maschinen.
+> Die Geschäftsführung erklärte, der Konzern **habe** die Weichen für weiteres Wachstum gestellt. Man **werde** die neuen Kapazitäten im dritten Quartal vollständig nutzen. Die Nachfrage in der Automobilbranche **sei** weiterhin hoch, in der Baubranche **gehe** sie leicht zurück. Für das Gesamtjahr **erwarte** das Unternehmen einen Umsatz von 1,7 Milliarden Euro.
+> Aus dem Bericht **geht hervor**, dass die Mitarbeiterzahl von 4 200 auf 4 580 gestiegen ist. Die Kosten für Personal und Material **seien** ebenfalls gestiegen, **lägen** aber im Rahmen der Planung. Die Konkurrenz aus Polen und Tschechien sei im Begriff, ihr Angebot zu erweitern — die Müller AG **müsse** daher auf Qualität und Lieferzeiten **setzen**, um Kunden zu **halten**.
+> Zum Skonto für Großkunden äußerte sich die Geschäftsführung nicht. Eine geplante Dividendenerhöhung sei **derzeit** nicht in Betracht gezogen worden. Die Aktie verlor nach der Bekanntgabe 2,8 Prozent.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Der Umsatz der Müller AG ist im zweiten Quartal gestiegen. ( )
 2. Der Gewinn ist ebenfalls gestiegen. ( )
