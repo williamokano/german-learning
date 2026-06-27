@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Anna und Bruno planen, heute Abend ins Restaurant zu gehen. ( )
 2. Bruno schlägt das italienische Restaurant vor. ( )
@@ -21,7 +21,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Herr Steinmeyer und Frau Weber möchten …  a) einen Tisch in der Mitte  b) einen ruhigen Tisch  c) einen Tisch am Fenster
 2. Das Tagesgericht ist …  a) Hähnchen mit Salat  b) gegrillter Lachs mit Gemüse  c) vegetarische Pasta
@@ -32,7 +32,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Four words in the box are not needed.
+Höre und ergänze die 6 fehlenden Wörter. Vier Wörter im Kasten werden nicht gebraucht.
 
 > Yuki ist in München und geht heute in ein Café. Die Kellnerin kommt und
 > (1) ______: „Was darf es sein?" Yuki antwortet: „Ich (2) ______ gern einen
@@ -47,7 +47,7 @@ Listen and fill in the 6 missing words. Four words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Von wem kommt die Nachricht?  a) Von Anna.  b) Von Maria.  c) Vom Restaurant.
 2. Für wann ist der Tisch reserviert?  a) Für Samstag um neunzehn Uhr.  b) Für Freitag um neunzehn Uhr.  c) Für Samstag um zwanzig Uhr.
@@ -84,7 +84,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A1 — `würde`: Konjugationstabelle
 
-Fill in the complete conjugation table of `würde`.
+Ergänze die vollständige Konjugationstabelle von `würde`.
 
 1. ich: ______
 2. du: ______
@@ -95,7 +95,7 @@ Fill in the complete conjugation table of `würde`.
 
 ## Übung A2 — `könnte`: Konjugationstabelle
 
-Fill in the complete conjugation table of `könnte`.
+Ergänze die vollständige Konjugationstabelle von `könnte`.
 
 1. ich: ______
 2. du: ______
@@ -106,7 +106,7 @@ Fill in the complete conjugation table of `könnte`.
 
 ## Übung A3 — `hätte` und `wäre`: Konjugationstabellen
 
-Fill in both tables. 12 gaps total.
+Ergänze beide Tabellen. Insgesamt 12 Lücken.
 
 **`hätte`:**
 1. ich: ______
@@ -140,7 +140,7 @@ Fill in both tables. 12 gaps total.
 
 ## Übung A5 — `könnte`: Sätze ergänzen
 
-Fill in the correct form of `könnte`. 8 items.
+Ergänze die richtige Form von `könnte`. 8 Aufgaben.
 
 1. ______ du mir bitte das Salz geben?
 2. ______ Sie mir bitte die Speisekarte bringen?
@@ -165,7 +165,7 @@ Fill in the correct form of `könnte`. 8 items.
 
 ## Übung A7 — `wäre`: Lücken füllen
 
-Fill in the correct form of `wäre`. 8 items.
+Ergänze die richtige Form von `wäre`. 8 Aufgaben.
 
 1. Das ______ sehr nett von Ihnen.
 2. Freitag ______ mir besser.
@@ -178,7 +178,7 @@ Fill in the correct form of `wäre`. 8 items.
 
 ## Übung A8 — Welche Form? `würde`, `könnte`, `hätte` oder `wäre`?
 
-Choose the best form for each gap. The gap is the full conjugated form (e.g. `Könnten`, `hätte`, `würde`).
+Wähle die beste Form für jede Lücke. Die Lücke ist die volle konjugierte Form (z. B. `Könnten`, `hätte`, `würde`).
 
 1. „______ Sie mir bitte die Rechnung bringen?" (polite request to waiter)
 2. „Ich ______ gern einen Fensterplatz, wenn möglich." (ordering/preference)
@@ -203,7 +203,7 @@ Choose the best form for each gap. The gap is the full conjugated form (e.g. `K�
 
 ## Übung A10 — `konnte` vs. `könnte`: präteritum oder Konjunktiv II?
 
-Decide which form is needed and fill in the gap. 8 items.
+Entscheide, welche Form gebraucht wird, und fülle die Lücke. 8 Aufgaben.
 
 1. Gestern ______ ich nicht schlafen. (past fact — Präteritum of können: konnte)
 2. ______ du mir bitte helfen? (polite present request — Konjunktiv II: könntest)
@@ -231,7 +231,7 @@ Decide which form is needed and fill in the gap. 8 items.
 
 ## Übung B1 — Dialog ergänzen: Im Restaurant
 
-Fill in the blanks with the correct Konjunktiv II form. 8 gaps.
+Ergänze die Lücken mit der richtigen Konjunktiv-II-Form. 8 Lücken.
 
 Kellner: Guten Abend! Was darf es sein?
 Gast: Ich ______ gern die Speisekarte, bitte.
@@ -256,7 +256,7 @@ Gast: Nein danke — lieber Wein. Ach, und ______ Sie bitte einen Fenstertisch f
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly one mistake. Write the corrected form in the gap. Items 3 and 9 are correct (write C).
+Jeder Satz hat genau einen Fehler. Schreibe die korrigierte Form in die Lücke. Aufgaben 3 und 9 sind korrekt (schreibe C).
 
 1. Ich würde gern ein______ Kaffee haben. (article wrong)
 2. Könnte______ du mir bitte helfen? (du-form wrong)
@@ -271,7 +271,7 @@ Each sentence has exactly one mistake. Write the corrected form in the gap. Item
 
 ## Übung B4 — Satzbau: Konjunktiv II Sätze
 
-Build a correct German sentence from the cues. All Konjunktiv II.
+Bilde aus den Vorgaben einen korrekten deutschen Satz. Alles im Konjunktiv II.
 
 1. würde – ins Konzert – gehen – gern – Anna
 2. reservieren – einen Tisch – du – ? – bitte – Könntest
@@ -300,7 +300,7 @@ Now write one polite sentence for problem 1 and problem 3.
 
 ## Übung B6 — Kategorisieren: Situation und Form
 
-Sort these 8 sentences into the correct category. Each token is labeled (a-h) and the bucket is the category.
+Sortiere diese 8 Sätze in die richtige Kategorie. Jeder Token ist beschriftet (a–h) und der Bucket ist die Kategorie.
 
 > Ich hätte gern einen Espresso. · Würdest du das bitte für mich machen? · Das wäre sehr nett von dir. · Könnten Sie mir die Speisekarte bringen? · Ich würde gern einen Tisch reservieren. · Freitag wäre mir besser als Montag. · Ich hätte leider keine Zeit am Samstag. · Könntest du bitte leiser sein?
 
@@ -326,7 +326,7 @@ Sort these 8 sentences into the correct category. Each token is labeled (a-h) an
 
 ## Übung B8 — Wünsche und Angebote
 
-Fill in the correct Konjunktiv II form (`würde`, `könnte`, `hätte`, or `wäre`). 8 items.
+Ergänze die richtige Konjunktiv-II-Form (`würde`, `könnte`, `hätte` oder `wäre`). 8 Aufgaben.
 
 1. „Ich ______ gern mal nach Japan reisen." (wish)
 2. „Das ______ mein absoluter Traum!" (hypothetical)
@@ -358,7 +358,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Anna und Bruno sitzen im Restaurant. Der Kellner kommt und fragt: „Haben
 ______ reserviert?" Anna sagt: „Ja — ich hätte ______ einen ruhigen
@@ -384,7 +384,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Ten words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > Im Restaurant:
 > 
@@ -459,7 +459,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes. 15 items.
+Eine Minute pro Aufgabe. Keine Notizen. 15 Aufgaben.
 
 1. `würde`, du-form: du ______
 2. `könnte`, wir-form: wir ______
@@ -479,7 +479,7 @@ One minute per item. No notes. 15 items.
 
 ## Übung D2 — Odd one out
 
-Cross out the word that doesn't fit.
+Streiche das Wort durch, das nicht passt.
 
 1. würde – könnte – hätte – wollte
 2. Speisekarte – Tagesgericht – Fensterplatz – Kellner
@@ -490,7 +490,7 @@ Cross out the word that doesn't fit.
 
 ## Übung D3 — Rückblick: Lektion A2/03 + A2/04
 
-Review of subordinate clauses (weil, wenn) and word order. 10 items.
+Wiederholung der Nebensätze (weil, wenn) und der Wortstellung. 10 Aufgaben.
 
 1. (L3) „Ich bleibe zu Hause, ______ ich müde bin." (weil/dass/wenn)
 2. (L3) „Er sagt, ______ er keine Zeit hat." (weil/dass/wenn)

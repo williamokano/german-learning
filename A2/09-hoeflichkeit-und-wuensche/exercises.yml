@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - { q: "Anna und Bruno planen, heute Abend ins Restaurant zu gehen.", answer: true, why: "Anna schlägt vor, heute Abend essen zu gehen." }
       - { q: "Bruno schlägt das italienische Restaurant vor.", answer: false, why: "Anna schlägt das Restaurant vor, nicht Bruno." }
@@ -28,7 +29,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Herr Steinmeyer und Frau Weber möchten …"
         options:
@@ -64,7 +66,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 6 missing words. Four words in the box are not needed."
+    instructions: "Höre und ergänze die 6 fehlenden Wörter. Vier Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 6 missing words. Four words in the box are not needed."
     text: |
       Yuki ist in München und geht heute in ein Café. Die Kellnerin kommt und
       {1}: „Was darf es sein?" Yuki antwortet: „Ich {2} gern einen
@@ -86,7 +89,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Eine Einladung zum Abendessen"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Hallo Anna, hier ist Maria. Ich rufe an wegen unseres Abendessens am Samstag. Ich habe einen Tisch im Restaurant „Seeberg" für zwei Personen um neunzehn Uhr reserviert. Wir würden uns freuen, wenn du kommen könntest. Das Restaurant bietet auch ein vegetarisches Menü an, falls du keinen Fisch essen möchtest. Bitte ruf mich zurück, wenn du den Termin bestätigen kannst. Vielen Dank!'
     items:
       - q: "Von wem kommt die Nachricht?"
@@ -124,6 +128,7 @@ exercises:
     title: "Tabelle ausfüllen: Dialog B (Restaurant-Bestellung)"
     audio: dialog1_b.mp3
     instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    instructionsEn: "Listen to the dialog once and fill in the table. In each row, **one** piece of information is missing — the clues in the other cells will help you."
     columns: ["Person", "Gericht", "Getränk / Extra"]
     rows:
       - label: "Herr Steinmeyer"
@@ -154,7 +159,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`würde`: Konjugationstabelle"
-    instructions: "Fill in the complete conjugation table of `würde`."
+    instructions: "Ergänze die vollständige Konjugationstabelle von `würde`."
+    instructionsEn: "Fill in the complete conjugation table of `würde`."
     text: |
       1. ich: {1}
       2. du: {2}
@@ -175,7 +181,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`könnte`: Konjugationstabelle"
-    instructions: "Fill in the complete conjugation table of `könnte`."
+    instructions: "Ergänze die vollständige Konjugationstabelle von `könnte`."
+    instructionsEn: "Fill in the complete conjugation table of `könnte`."
     text: |
       1. ich: {1}
       2. du: {2}
@@ -196,7 +203,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`hätte` und `wäre`: Konjugationstabellen"
-    instructions: "Fill in both tables. 12 gaps total."
+    instructions: "Ergänze beide Tabellen. Insgesamt 12 Lücken."
+    instructionsEn: "Fill in both tables. 12 gaps total."
     text: |
       **`hätte`:**
       1. ich: {1}
@@ -256,7 +264,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`könnte`: Sätze ergänzen"
-    instructions: "Fill in the correct form of `könnte`. 8 items."
+    instructions: "Ergänze die richtige Form von `könnte`. 8 Aufgaben."
+    instructionsEn: "Fill in the correct form of `könnte`. 8 items."
     text: |
       1. {1} du mir bitte das Salz geben?
       2. {2} Sie mir bitte die Speisekarte bringen?
@@ -301,7 +310,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`wäre`: Lücken füllen"
-    instructions: "Fill in the correct form of `wäre`. 8 items."
+    instructions: "Ergänze die richtige Form von `wäre`. 8 Aufgaben."
+    instructionsEn: "Fill in the correct form of `wäre`. 8 items."
     text: |
       1. Das {1} sehr nett von Ihnen.
       2. Freitag {2} mir besser.
@@ -326,7 +336,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Welche Form? `würde`, `könnte`, `hätte` oder `wäre`?"
-    instructions: "Choose the best form for each gap. The gap is the full conjugated form (e.g. `Könnten`, `hätte`, `würde`)."
+    instructions: "Wähle die beste Form für jede Lücke. Die Lücke ist die volle konjugierte Form (z. B. `Könnten`, `hätte`, `würde`)."
+    instructionsEn: "Choose the best form for each gap. The gap is the full conjugated form (e.g. `Könnten`, `hätte`, `würde`)."
     text: |
       1. „{1} Sie mir bitte die Rechnung bringen?" (polite request to waiter)
       2. „Ich {2} gern einen Fensterplatz, wenn möglich." (ordering/preference)
@@ -371,7 +382,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`konnte` vs. `könnte`: präteritum oder Konjunktiv II?"
-    instructions: "Decide which form is needed and fill in the gap. 8 items."
+    instructions: "Entscheide, welche Form gebraucht wird, und fülle die Lücke. 8 Aufgaben."
+    instructionsEn: "Decide which form is needed and fill in the gap. 8 items."
     text: |
       1. Gestern {1} ich nicht schlafen. (past fact — Präteritum of können: konnte)
       2. {2} du mir bitte helfen? (polite present request — Konjunktiv II: könntest)
@@ -416,7 +428,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dialog ergänzen: Im Restaurant"
-    instructions: "Fill in the blanks with the correct Konjunktiv II form. 8 gaps."
+    instructions: "Ergänze die Lücken mit der richtigen Konjunktiv-II-Form. 8 Lücken."
+    instructionsEn: "Fill in the blanks with the correct Konjunktiv II form. 8 gaps."
     text: |
       Kellner: Guten Abend! Was darf es sein?
       Gast: Ich {1} gern die Speisekarte, bitte.
@@ -459,7 +472,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. Write the corrected form in the gap. Items 3 and 9 are correct (write C)."
+    instructions: "Jeder Satz hat genau einen Fehler. Schreibe die korrigierte Form in die Lücke. Aufgaben 3 und 9 sind korrekt (schreibe C)."
+    instructionsEn: "Each sentence has exactly one mistake. Write the corrected form in the gap. Items 3 and 9 are correct (write C)."
     text: |
       1. Ich würde gern ein{1} Kaffee haben. (article wrong)
       2. Könnte{2} du mir bitte helfen? (du-form wrong)
@@ -487,7 +501,8 @@ exercises:
     block: B
     type: order
     title: "Satzbau: Konjunktiv II Sätze"
-    instructions: "Build a correct German sentence from the cues. All Konjunktiv II."
+    instructions: "Bilde aus den Vorgaben einen korrekten deutschen Satz. Alles im Konjunktiv II."
+    instructionsEn: "Build a correct German sentence from the cues. All Konjunktiv II."
     items:
       - tiles: [Anna, würde, gern, ins Konzert, gehen]
         answer: [0, 1, 2, 3, 4]
@@ -538,7 +553,8 @@ exercises:
     block: B
     type: categorize
     title: "Kategorisieren: Situation und Form"
-    instructions: "Sort these 8 sentences into the correct category. Each token is labeled (a-h) and the bucket is the category."
+    instructions: "Sortiere diese 8 Sätze in die richtige Kategorie. Jeder Token ist beschriftet (a–h) und der Bucket ist die Kategorie."
+    instructionsEn: "Sort these 8 sentences into the correct category. Each token is labeled (a-h) and the bucket is the category."
     buckets:
       - { key: bestellung, label: "Bestellung / Wunsch" }
       - { key: bitte, label: "Höfliche Bitte" }
@@ -586,7 +602,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Wünsche und Angebote"
-    instructions: "Fill in the correct Konjunktiv II form (`würde`, `könnte`, `hätte`, or `wäre`). 8 items."
+    instructions: "Ergänze die richtige Konjunktiv-II-Form (`würde`, `könnte`, `hätte` oder `wäre`). 8 Aufgaben."
+    instructionsEn: "Fill in the correct Konjunktiv II form (`würde`, `könnte`, `hätte`, or `wäre`). 8 items."
     text: |
       1. „Ich {1} gern mal nach Japan reisen." (wish)
       2. „Das {2} mein absoluter Traum!" (hypothetical)
@@ -636,7 +653,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |
       Anna und Bruno sitzen im Restaurant. Der Kellner kommt und fragt: „Haben
       {1} reserviert?" Anna sagt: „Ja — ich hätte {2} einen ruhigen
@@ -714,7 +732,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps from the box. Ten words are not needed. Each word once."
     text: |
       Im Restaurant:
 
@@ -841,7 +860,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per item. No notes. 15 items."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen. 15 Aufgaben."
+    instructionsEn: "One minute per item. No notes. 15 items."
     text: |
       1. `würde`, du-form: du {1}
       2. `könnte`, wir-form: wir {2}
@@ -879,7 +899,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd one out"
-    instructions: "Cross out the word that doesn't fit."
+    instructions: "Streiche das Wort durch, das nicht passt."
+    instructionsEn: "Cross out the word that doesn't fit."
     groups:
       - items: [würde, könnte, hätte, wollte]
         odd: 3
@@ -905,7 +926,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Rückblick: Lektion A2/03 + A2/04"
-    instructions: "Review of subordinate clauses (weil, wenn) and word order. 10 items."
+    instructions: "Wiederholung der Nebensätze (weil, wenn) und der Wortstellung. 10 Aufgaben."
+    instructionsEn: "Review of subordinate clauses (weil, wenn) and word order. 10 items."
     text: |
       1. (L3) „Ich bleibe zu Hause, {1} ich müde bin." (weil/dass/wenn)
       2. (L3) „Er sagt, {2} er keine Zeit hat." (weil/dass/wenn)
