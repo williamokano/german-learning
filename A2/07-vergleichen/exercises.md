@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Anna und Bruno sind in einem Kaufhaus. ( )
 2. Das rote Kleid ist teurer als das blaue. ( )
@@ -21,7 +21,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Was sucht Frau Weber?  a) Ein Kleid  b) Einen Laptop  c) Ein Smartphone
 2. Welcher Laptop ist am günstigsten?  a) Der schwarze  b) Der graue  c) Der mit 449 Euro
@@ -32,7 +32,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 7 missing words. Two words in the box are not needed.
+Höre und ergänze die 7 fehlenden Wörter. Zwei Wörter im Kasten werden nicht gebraucht.
 
 > Yuki wohnt in München und macht gerade einen Deutschkurs. Gestern hat sie mit
 > ihrer Freundin Hana über Smartphones (1) ______. Yukis Handy ist (2) ______ als
@@ -46,7 +46,7 @@ Listen and fill in the 7 missing words. Two words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Worüber ruft Tom an?  a) Wegen seiner alten Wohnung.  b) Wegen seinem neuen Auto.  c) Wegen seinem neuen Job.
 2. Wie viel kostet der silberne Wagen?  a) Neuntausend Euro.  b) Zwölftausend Euro.  c) Fünfzehntausend Euro.
@@ -83,7 +83,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A1 — Komparativ bilden
 
-Write the comparative form of each adjective.
+Schreibe die Komparativform jedes Adjektivs.
 
 1. schnell → ______
 2. teuer → ______
@@ -100,7 +100,7 @@ Write the comparative form of each adjective.
 
 ## Übung A2 — Superlativ predicative: `am ___sten`
 
-Write the predicative superlative.
+Schreibe den prädikativen Superlativ.
 
 1. schnell → ______
 2. modern → ______
@@ -115,7 +115,7 @@ Write the predicative superlative.
 
 ## Übung A3 — `als` oder `wie`?
 
-Fill in `als` (unequal) or `wie` (equal).
+Ergänze `als` (ungleich) oder `wie` (gleich).
 
 1. Berlin ist größer ______ Wien.
 2. München ist so schön ______ Berlin.
@@ -130,7 +130,7 @@ Fill in `als` (unequal) or `wie` (equal).
 
 ## Übung A4 — Komparativ in Sätzen (predicative)
 
-Fill in the comparative form of the adjective in brackets.
+Ergänze die Komparativform des Adjektivs in Klammern.
 
 1. Das Hotel ist ______ (teuer) als das Hostel.
 2. Der Zug ist ______ (schnell) als der Bus.
@@ -143,7 +143,7 @@ Fill in the comparative form of the adjective in brackets.
 
 ## Übung A5 — Superlativ predicative: Sätze
 
-Fill in the predicative superlative form.
+Ergänze die prädikative Superlativform.
 
 1. Dieses Restaurant ist ______ (teuer) in der Stadt.
 2. Im Dezember ist es ______ (kalt) in Berlin.
@@ -156,7 +156,7 @@ Fill in the predicative superlative form.
 
 ## Übung A6 — Superlativ attributiv: Tabelle ergänzen
 
-Fill in the attributive superlative form with the correct ending. Definite article: Nom m/f/n → -e, others → -en.
+Ergänze die attributive Superlativform mit der richtigen Endung. Bestimmter Artikel: Nom m/f/n → -e, andere → -en.
 
 1. der Zug (m, Nom.) + schnell → der ______ Zug
 2. die Stadt (f, Nom.) + groß → die ______ Stadt
@@ -167,7 +167,7 @@ Fill in the attributive superlative form with the correct ending. Definite artic
 
 ## Übung A7 — Superlativ attributiv: Sätze
 
-Fill in the attributive superlative with the correct ending.
+Ergänze den attributiven Superlativ mit der richtigen Endung.
 
 1. Das ist der ______ (schnell) Zug in Deutschland.
 2. Wir suchen die ______ (günstig) Wohnung in der Stadt.
@@ -180,7 +180,7 @@ Fill in the attributive superlative with the correct ending.
 
 ## Übung A8 — Irregulär: gut / viel / gern
 
-Fill in the correct form (comparative or superlative as indicated).
+Ergänze die richtige Form (Komparativ oder Superlativ wie angegeben).
 
 1. Dieses Hotel ist ______ (gut, Komp.) als das andere.
 2. Er hat ______ (viel, Komp.) Geld als ich.
@@ -204,7 +204,7 @@ Fill in the correct form (comparative or superlative as indicated).
 
 ## Übung A10 — Umlaut check
 
-Write the comparative form. Note which adjectives take an umlaut.
+Schreibe die Komparativform. Achte darauf, welche Adjektive einen Umlaut haben.
 
 1. alt → ______
 2. modern → ______
@@ -219,7 +219,7 @@ Write the comparative form. Note which adjectives take an umlaut.
 
 ## Übung A11 — Komparativ + Superlativ: fill the row
 
-Complete the three-column table. Each row has two gaps (Komparativ + Superlativ pred.).
+Ergänze die dreispaltige Tabelle. Jede Zeile hat zwei Lücken (Komparativ + prädikativer Superlativ).
 
 1. groß → ______ · ______
 2. gut → ______ · ______
@@ -236,7 +236,7 @@ Complete the three-column table. Each row has two gaps (Komparativ + Superlativ 
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the blanks with the correct comparative or superlative form. 8 gaps.
+Ergänze die Lücken mit der richtigen Komparativ- oder Superlativform. 8 Lücken.
 
 — Anna, welches Café gefällt dir ______ (gut)?
 — Das hier ist das ______ (gemütlich, attr. n) Café in der Straße, finde ich.
@@ -249,7 +249,7 @@ Fill in the blanks with the correct comparative or superlative form. 8 gaps.
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly one mistake. Write the corrected word/phrase in the gap.
+Jeder Satz hat genau einen Fehler. Schreibe das korrigierte Wort/die korrigierte Phrase in die Lücke.
 
 1. Berlin ist größer ______ Wien. (wie → ?)
 2. Das ist der schnellst______ Zug in Deutschland. (missing ending)
@@ -264,7 +264,7 @@ Each sentence has exactly one mistake. Write the corrected word/phrase in the ga
 
 ## Übung B3 — Frage und Antwort verbinden
 
-Match each question (1–8) with the correct answer (a–h).
+Ordne jede Frage (1–8) der richtigen Antwort (a–h) zu.
 
 | Links | | Rechts |
 |---|---|---|
@@ -279,7 +279,7 @@ Match each question (1–8) with the correct answer (a–h).
 
 ## Übung B4 — Satzbau: Vergleichssätze bauen
 
-Build a comparison sentence from the cues. Use the correct form.
+Bilde aus den Vorgaben einen Vergleichssatz. Verwende die richtige Form.
 
 1. ist – als – München – größer – Berlin
 2. das Auto – wie – Der Zug – ist – so schnell
@@ -290,7 +290,7 @@ Build a comparison sentence from the cues. Use the correct form.
 
 ## Übung B5 — Kategorisieren: Komparativ oder Superlativ?
 
-Sort the 10 forms into two groups: Komparativ (comparative) or Superlativ (superlative).
+Sortiere die 10 Formen in zwei Gruppen: Komparativ oder Superlativ.
 
 > am schönsten · größer · am besten · kälter · am meisten · besser · am lautesten · länger · am günstigsten · mehr
 
@@ -361,7 +361,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Anna und Bruno diskutieren über ihre Lieblingsstädte. Anna findet Berlin
 ______ interessant als München, weil es ______ Museen und
@@ -387,7 +387,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Ten words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > Zwei Freundinnen vergleichen Städte:
 > 
@@ -461,7 +461,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes.
+Eine Minute pro Aufgabe. Keine Notizen.
 
 1. Comparative of `groß`: ______
 2. Predicative superlative of `gut`: ______
@@ -481,7 +481,7 @@ One minute per item. No notes.
 
 ## Übung D2 — Odd one out
 
-Cross out the word that doesn't fit.
+Streiche das Wort durch, das nicht passt.
 
 1. größer – besser – mehr – schneller – neueren
 2. am besten – am liebsten – am meisten – am schöneren
