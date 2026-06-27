@@ -10,7 +10,36 @@ Willkommen zum Abschluss des B1-Kurses! This is a full mock exam sitting. Blocks
 
 🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
 
-Lies den Dialog in lesson.md §1, dann höre ihn. Decide: Richtig (R) oder Falsch (F)?
+> **Mia:** Pavel! Da bist du ja! Wie war die Prüfung?
+>
+> **Pavel:** Ich bin fertig! Und ich glaube, es lief ganz gut — obwohl der Hörteil am Anfang etwas schwierig war.
+>
+> **Tomáš:** Obwohl es schwierig war, hast du es trotzdem geschafft? Das klingt nach deinem typischen Optimismus, kleiner Bruder. — Ich dachte, du magst das Hören am meisten!
+>
+> **Pavel:** Ja, normalerweise schon. Aber heute wurde schnell gesprochen, und ich musste sehr konzentriert zuhören.
+>
+> **Anna:** Und der Leseteil? Ich habe vor meiner eigenen Prüfung die Texte immer zweimal gelesen — einmal für die Hauptidee, einmal für die Details.
+>
+> **Bruno:** Das stimmt. Man muss nicht jedes Wort verstehen, sondern nach dem Kontext suchen. Das ist die Technik, mit der ich bei meiner Prüfung bestanden habe.
+>
+> **Mia:** Und der Schreibteil, Pavel? Hast du die formelle E-Mail gemacht?
+>
+> **Pavel:** Ja. Ich habe zuerst eine Gliederung geschrieben — Betreff, Anrede, Bezugssatz, Hauptteil, Schlusssatz. Das hat mich beruhigt.
+>
+> **Tomáš:** Gut. Und der Sprechteil? Das ist der Teil, vor dem ich am meisten Angst hatte, als ich in Prag meinen B1-Kurs machte.
+>
+> **Pavel:** Ich auch! Aber Herr Steinmeyer war als Prüfer sehr freundlich — er hat gefragt, ob mir das Thema bekannt sei. Ich konnte fragen, ob er die Aufgabe wiederholen könnte.
+>
+> **Anna:** Perfekt! Das ist genau das, was wir in B1/09 gelernt haben — höflich nachfragen, wenn man etwas nicht versteht.
+>
+> **Bruno:** Und weißt du was? Das Wichtigste war nicht die Grammatik — es war das Vertrauen. Wenn ich früher Angst vor dem Sprechen hatte, dachte ich: „Wäre ich schon flüssiger, würde ich selbstsicherer klingen." Aber dann habe ich einfach angefangen zu sprechen.
+>
+> **Mia:** Genau. Das Sprechen kommt durch Sprechen. Nicht durch Warten.
+>
+> **Pavel:** Vielen Dank, alle zusammen. Ohne euch wäre ich heute nicht so ruhig gewesen.
+
+Decide: Richtig (R) oder Falsch (F)?
+
 
 1. Pavel sagt, der Hörteil war am Anfang etwas schwierig. ( )
 2. Tomáš nennt Pavel einen typischen Pessimisten. ( )
@@ -62,7 +91,35 @@ Listen to the telephone message from the Goethe-Institut. Then choose the correc
 
 ## Übung A1 — Lesen Teil 1 — Stellenanzeige (Text 1): Richtig / Falsch
 
-Read Text 1 (Stellenanzeige, lesson.md §7) and decide for each statement: Richtig (R) oder Falsch (F)? Items not mentioned in the ad count as Falsch (F).
+> **Wir suchen Sie! — Marketingassistent/in (m/w/d) in Berlin**
+>
+> **Unternehmen:** TechStart GmbH, Berlin-Mitte
+> **Beginn:** ab sofort
+> **Umfang:** Vollzeit (40 Std./Woche)
+>
+> **Ihre Aufgaben:**
+> - Betreuung unserer Social-Media-Kanäle (Instagram, LinkedIn)
+> - Erstellung von Marketingmaterialien auf Deutsch und Englisch
+> - Kommunikation mit Kunden per E-Mail und Telefon
+> - Unterstützung des Teams bei Events und Messen
+>
+> **Ihr Profil:**
+> - Abgeschlossene Ausbildung oder Studium im Bereich Marketing, Kommunikation oder verwandten Fächern
+> - Sehr gute Deutschkenntnisse (mindestens B2), gute Englischkenntnisse
+> - Erfahrung mit Office-Programmen (Word, Excel, PowerPoint)
+> - Teamfähigkeit und eigenverantwortliches Arbeiten
+>
+> **Wir bieten:**
+> - Attraktives Gehalt (2.800–3.200 € brutto/Monat)
+> - Flexibles Homeoffice-Modell (2 Tage/Woche)
+> - Betriebliche Altersvorsorge
+> - Moderne Büroräume in zentraler Lage
+>
+> **Bewerbung:** Bitte senden Sie Ihre vollständigen Unterlagen (Anschreiben + Lebenslauf + Zeugnisse) bis zum **30. Juni 2026** per E-Mail an: bewerbung@techstart-berlin.de
+>
+> *Wir freuen uns auf Ihre Bewerbung!*
+
+Richtig (R) oder Falsch (F)? Items not mentioned in the ad count as Falsch (F).
 
 
 1. Die Stelle bei TechStart GmbH ist in Berlin-Mitte. ( )
@@ -82,7 +139,18 @@ Choose the correct answer (a, b, or c) based on Text 1 (Stellenanzeige).
 
 ## Übung A3 — Lesen Teil 2 — Zeitungsartikel (Text 2): Richtig / Falsch
 
-Read Text 2 (Zeitungsartikel, lesson.md §7) and decide: Richtig (R) oder Falsch (F)?
+> **Immer mehr Menschen lernen Deutsch — und warum das Zertifikat wichtig ist**
+>
+> *Berlin, 14. Juni 2026* — Nach aktuellen Zahlen des Goethe-Instituts haben im Jahr 2025 über 200.000 Menschen weltweit ein Deutschzertifikat abgelegt — ein neuer Rekord. Besonders stark ist das Wachstum in Asien und Lateinamerika.
+>
+> Das B1-Zertifikat ist dabei das am häufigsten abgelegte Niveau. „Mit einem B1 kann man in Deutschland arbeiten, studieren und sich im Alltag selbstständig verständigen", erklärt Dr. Hilde Bauer, Leiterin des Goethe-Instituts Berlin. „Es ist der Schlüssel zur gesellschaftlichen Teilhabe."
+>
+> Allerdings sind die Prüfungen nicht kostenlos: Ein Goethe B1-Test kostet je nach Land zwischen 100 und 250 Euro. Viele Lernende bereiten sich mit Online-Kursen vor, weil diese günstiger sind als Präsenzkurse. Das Goethe-Institut bietet seit 2023 auch einen vollständig digitalen Testweg an.
+>
+> Kritik gibt es allerdings an der Dauer der Ergebnisbekanntgabe: Derzeit dauert es vier bis sechs Wochen, bis Kandidatinnen und Kandidaten ihr offizielles Zeugnis erhalten. Mehrere Sprachschulen fordern deshalb schnellere digitale Verfahren. Das Goethe-Institut hat versprochen, die Bearbeitungszeit ab 2027 auf zwei Wochen zu verkürzen.
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Im Jahr 2025 haben mehr als 200.000 Menschen weltweit ein Deutschzertifikat abgelegt. ( )
 2. Das B2-Zertifikat ist das am häufigsten abgelegte Niveau. ( )
@@ -100,7 +168,23 @@ Choose the correct answer (a, b, or c) based on Text 2 (Zeitungsartikel).
 
 ## Übung A5 — Lesen Teil 3 — Persönliche E-Mail (Text 3): Richtig / Falsch
 
-Read Text 3 (Persönliche E-Mail, lesson.md §7) and decide: Richtig (R) oder Falsch (F)?
+> **Von:** anna.kowalski@email.de
+> **An:** mia.becker@gmail.com
+> **Betreff:** Wie war Pavels Prüfung?
+>
+> Liebe Mia,
+>
+> ich habe heute kurz mit Pavel gesprochen — er klang wirklich erleichtert! Er hat mir erzählt, dass der Hörteil für ihn der schwierigste Teil war, weil die Sprecher sehr schnell gesprochen haben. Den Leseteil fand er dagegen gut machbar, obwohl ein Text über Stadtplanung sehr fachsprachlich war.
+>
+> Das Schreiben lief gut: Er hatte schon eine klare Struktur im Kopf und musste keine Zeit damit verschwenden, über den Aufbau nachzudenken. Er ist wirklich ein gutes Beispiel dafür, dass regelmäßiges Üben und Vorbereitung den Unterschied machen.
+>
+> Was machst du am Wochenende? Tomáš schlägt vor, dass wir alle zusammen feiern gehen — ob du Zeit hast?
+>
+> Viele Grüße,
+> Anna
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Anna hat diese E-Mail an Bruno geschrieben. ( )
 2. Pavel fand den Hörteil schwierig, weil die Sprecher sehr schnell gesprochen haben. ( )
