@@ -51,7 +51,26 @@ buildsOn:
 > **Patient:** Muss ich ins Krankenhaus?  
 > **Arzt:** Nein, nein. Ruhen Sie sich aus\* und nehmen Sie diese Tabletten dreimal täglich.  
 > **Patient:** Danke, Herr Doktor.  
-> **Arzt:** Gute Besserung!  
+> **Arzt:** Gute Besserung!
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Doctor:** Good day! What's wrong with you?
+> **Patient:** Good day, Doctor. I have a sore throat and a headache. I feel really unwell.\*
+> **Doctor:** Since when have you had the pain?
+> **Patient:** For two days.
+> **Doctor:** Let me have a look. Please open your mouth. Say "Ahh".
+> **Patient:** Aaah.
+> **Doctor:** Your throat is red. Do you have a fever too?
+> **Patient:** Yes, I think 38.5 degrees.
+> **Doctor:** You have a cold. Stay home and drink lots of water. I'll write you a prescription.
+> **Patient:** Do I have to go to the hospital?
+> **Doctor:** No, no. Rest up\* and take these tablets three times a day.
+> **Patient:** Thank you, Doctor.
+> **Doctor:** Get well soon!
+
+</details>
 
 \* **Chunk alert:** *Ich fühle mich schlecht* and *Ruhen Sie sich aus* use reflexive verbs. The full reflexive-verb system is explained in A2/Lektion 5 — for now, treat these as fixed phrases.
 
@@ -71,7 +90,24 @@ buildsOn:
 > **Apothekerin:** Sieben Euro neunzig.  
 > **Anna:** Danke sehr!  
 > **Apothekerin:** Gute Besserung, Frau …?  
-> **Anna:** Bauer. Anna Bauer.  
+> **Anna:** Bauer. Anna Bauer.
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Anna:** Excuse me, I need something for a headache.
+> **Pharmacist:** Do you have a prescription?
+> **Anna:** No, I'm looking for something without a prescription.
+> **Pharmacist:** These tablets here are good. Take two tablets, three times a day.
+> **Anna:** And may I take them also if I have a stomachache?
+> **Pharmacist:** Yes, but eat something first. Drink plenty of water with them.
+> **Anna:** Good, I'll take the tablets. How much do they cost?
+> **Pharmacist:** Seven euros ninety.
+> **Anna:** Thank you very much!
+> **Pharmacist:** Get well soon, Mrs …?
+> **Anna:** Bauer. Anna Bauer.
+
+</details>
 
 ---
 
@@ -574,6 +610,16 @@ Zu Hause trinkt Bruno Tee mit Honig und legt sich ins Bett. Sein Rücken tut auc
 > Sie ruft Bruno an und fragt: „Was soll ich machen?" Bruno sagt: „Trink viel Tee und bleib zu Hause!"
 > Yuki fragt: „Soll ich zum Arzt gehen?" Bruno antwortet: „Ja, geh morgen zum Arzt."
 > Yuki trinkt Tee und schläft den ganzen Tag.
+
+</details>
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> Yuki is not feeling well today. Her throat hurts and she has a cough.
+> She calls Bruno and asks: "What should I do?" Bruno says: "Drink lots of tea and stay home!"
+> Yuki asks: "Should I go to the doctor?" Bruno answers: "Yes, go to the doctor tomorrow."
+> Yuki drinks tea and sleeps the whole day.
 
 </details>
 
