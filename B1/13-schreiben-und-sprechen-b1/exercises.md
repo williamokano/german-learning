@@ -255,7 +255,22 @@ Match each presentation phase (1–5) with the correct Redemittel (a–f). One R
 
 ## Übung B6 — Forenbeitrag: Richtig oder Falsch? (Lesetext §7)
 
-Read the Lesetext (Forenbeitrag „Soll man in eine Großstadt ziehen?") in lesson.md §7. Decide: Richtig (R) oder Falsch (F)?
+> **Stadtleben.de — Forenbeitrag von „Pavel_B1"**
+>
+> **Thema: Soll man in eine Großstadt ziehen?**
+>
+> Ich bin vor drei Jahren von Brünn nach Berlin gezogen und möchte meine Erfahrungen teilen. Meiner Meinung nach bieten Großstädte mehr Möglichkeiten, als man auf den ersten Blick sieht.
+>
+> Zum einen gibt es in einer Großstadt sehr viele Jobmöglichkeiten in verschiedenen Branchen. Ich selbst habe in Berlin schnell eine Arbeit als Barista gefunden und konnte mich beruflich weiterentwickeln. Zum anderen ist das kulturelle Angebot enorm: Theater, Konzerte, Ausstellungen — in Brünn gab es das auch, aber in Berlin ist die Auswahl einfach größer.
+>
+> Allerdings sind die Lebenshaltungskosten in einer Großstadt deutlich höher. Die Mieten in Berlin sind in den letzten Jahren stark gestiegen, und wer kein festes Einkommen hat, hat es schwer. Außerdem ist der Alltag in der Stadt manchmal sehr stressig: Es gibt immer Lärm, immer Trubel.
+>
+> Insgesamt denke ich, dass der Umzug in eine Großstadt für junge Menschen sehr wertvoll ist — zumindest für einige Jahre. Man lernt, selbstständig zu sein, und trifft Menschen aus aller Welt. Wegen der höheren Kosten sollte man allerdings finanziell gut vorbereitet sein.
+>
+> Was meinen Sie? Haben Sie ähnliche Erfahrungen gemacht?
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Der Autor ist von Berlin nach Brünn gezogen. ( )
 2. In Berlin hat Pavel schnell Arbeit als Barista gefunden. ( )
@@ -276,7 +291,22 @@ dass Homeoffice gut funktioniert, wenn man sich selbst gut organisieren kann.
 
 ## Übung B8 — Leseverstehen: Forenbeitrag (Lesetext §7)
 
-Read the Forenbeitrag in lesson.md §7. Choose the correct answer (a, b, or c).
+> **Stadtleben.de — Forenbeitrag von „Pavel_B1"**
+>
+> **Thema: Soll man in eine Großstadt ziehen?**
+>
+> Ich bin vor drei Jahren von Brünn nach Berlin gezogen und möchte meine Erfahrungen teilen. Meiner Meinung nach bieten Großstädte mehr Möglichkeiten, als man auf den ersten Blick sieht.
+>
+> Zum einen gibt es in einer Großstadt sehr viele Jobmöglichkeiten in verschiedenen Branchen. Ich selbst habe in Berlin schnell eine Arbeit als Barista gefunden und konnte mich beruflich weiterentwickeln. Zum anderen ist das kulturelle Angebot enorm: Theater, Konzerte, Ausstellungen — in Brünn gab es das auch, aber in Berlin ist die Auswahl einfach größer.
+>
+> Allerdings sind die Lebenshaltungskosten in einer Großstadt deutlich höher. Die Mieten in Berlin sind in den letzten Jahren stark gestiegen, und wer kein festes Einkommen hat, hat es schwer. Außerdem ist der Alltag in der Stadt manchmal sehr stressig: Es gibt immer Lärm, immer Trubel.
+>
+> Insgesamt denke ich, dass der Umzug in eine Großstadt für junge Menschen sehr wertvoll ist — zumindest für einige Jahre. Man lernt, selbstständig zu sein, und trifft Menschen aus aller Welt. Wegen der höheren Kosten sollte man allerdings finanziell gut vorbereitet sein.
+>
+> Was meinen Sie? Haben Sie ähnliche Erfahrungen gemacht?
+
+Wähle a, b oder c.
+
 
 1. Was ist das Hauptargument des Autors?  a) Großstädte sind nur für reiche Menschen geeignet.  b) Großstädte bieten mehr Möglichkeiten, als man auf den ersten Blick sieht.  c) Brünn ist besser als Berlin.
 2. Was ist laut dem Autor ein Nachteil der Großstadt?  a) Es gibt zu wenig Jobs.  b) Das Kulturangebot ist klein.  c) Die Lebenshaltungskosten sind deutlich höher.
@@ -358,7 +388,22 @@ Five words are not needed.
 
 ## Übung C4a — Leseverstehen: Forenbeitrag (Richtig / Falsch)
 
-Read the Lesetext in lesson.md §7. Decide: Richtig (R) oder Falsch (F)?
+> **Stadtleben.de — Forenbeitrag von „Pavel_B1"**
+>
+> **Thema: Soll man in eine Großstadt ziehen?**
+>
+> Ich bin vor drei Jahren von Brünn nach Berlin gezogen und möchte meine Erfahrungen teilen. Meiner Meinung nach bieten Großstädte mehr Möglichkeiten, als man auf den ersten Blick sieht.
+>
+> Zum einen gibt es in einer Großstadt sehr viele Jobmöglichkeiten in verschiedenen Branchen. Ich selbst habe in Berlin schnell eine Arbeit als Barista gefunden und konnte mich beruflich weiterentwickeln. Zum anderen ist das kulturelle Angebot enorm: Theater, Konzerte, Ausstellungen — in Brünn gab es das auch, aber in Berlin ist die Auswahl einfach größer.
+>
+> Allerdings sind die Lebenshaltungskosten in einer Großstadt deutlich höher. Die Mieten in Berlin sind in den letzten Jahren stark gestiegen, und wer kein festes Einkommen hat, hat es schwer. Außerdem ist der Alltag in der Stadt manchmal sehr stressig: Es gibt immer Lärm, immer Trubel.
+>
+> Insgesamt denke ich, dass der Umzug in eine Großstadt für junge Menschen sehr wertvoll ist — zumindest für einige Jahre. Man lernt, selbstständig zu sein, und trifft Menschen aus aller Welt. Wegen der höheren Kosten sollte man allerdings finanziell gut vorbereitet sein.
+>
+> Was meinen Sie? Haben Sie ähnliche Erfahrungen gemacht?
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Der Autor ist seit fünf Jahren in Berlin. ( )
 2. Pavel findet, dass das Kulturangebot in Berlin größer ist als in Brünn. ( )
