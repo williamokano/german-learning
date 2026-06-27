@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog A: Die neue Wohnung"
     audio: dialog1_a.mp3
-    instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen and decide: True (R) or False (F)?"
     items:
       - q: "Anna zeigt Bruno ihre neue Wohnung."
         answer: true
@@ -35,7 +36,8 @@ exercises:
     type: true-false
     title: "Dialog B: Am Telefon"
     audio: dialog1_b.mp3
-    instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen and decide: True (R) or False (F)?"
     items:
       - q: "Bruno fragt wegen einer Wohnungsanzeige an."
         answer: true
@@ -54,7 +56,8 @@ exercises:
     block: H
     type: single-choice
     title: "Aussprache-Check (Hör zu 1–3)"
-    instructions: "Listen to the three Aussprache clips and pick the matching word."
+    instructions: "Höre die drei Aussprache-Clips und wähle das passende Wort."
+    instructionsEn: "Listen to the three Aussprache clips and pick the matching word."
     items:
       - q: "Hör zu 1 (Räume) — wo kochst du?"
         audio: hoerzu1.mp3
@@ -209,7 +212,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`es gibt` + Akkusativ"
-    instructions: "Fill in: einen, eine, ein, keinen, keine, kein. (✓) = the noun has an article, (✗) = no article."
+    instructions: "Ergänze: einen, eine, ein, keinen, keine, kein. (✓) = das Nomen hat einen Artikel, (✗) = kein Artikel."
+    instructionsEn: "Fill in: einen, eine, ein, keinen, keine, kein. (✓) = the noun has an article, (✗) = no article."
     text: |
       1. Es gibt {1} Balkon. (✓)
       2. Es gibt {2} Küche. (✓)
@@ -267,7 +271,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gegensätze (opposites)"
-    instructions: "Match 1–6 with their opposites (a–f), then fill in 7–10."
+    instructions: "Ordne 1–6 den Gegensätzen (a–f) zu. Ergänze dann 7–10."
+    instructionsEn: "Match 1–6 with their opposites (a–f), then fill in 7–10."
     text: |
       1. groß → {1}  2. hell → {2}  3. neu → {3}  4. teuer → {4}
       5. schön → {5}  6. laut → {6}
@@ -413,7 +418,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Substitution drill"
-    instructions: "Example: Das Sofa ist neu. (die Stühle) → Die Stühle sind neu."
+    instructions: "Beispiel: Das Sofa ist neu. (die Stühle) → Die Stühle sind neu."
+    instructionsEn: "Example: Das Sofa ist neu. (die Stühle) → Die Stühle sind neu."
     text: |
       1. Das Sofa ist neu. (die Stühle) → {1}
       2. Der Tisch ist groß. (das Bett) → {2}
@@ -438,7 +444,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Build the questions"
-    instructions: "Example: du / das Sofa / finden → Wie findest du das Sofa?"
+    instructions: "Beispiel: du / das Sofa / finden → Wie findest du das Sofa?"
+    instructionsEn: "Example: du / das Sofa / finden → Wie findest du das Sofa?"
     text: |
       1. du / die Wohnung / finden → {1}
       2. dir / der Balkon / gefallen (yes/no) → {2}
@@ -516,7 +523,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
+    instructions: "Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form."
+    instructionsEn: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
     text: |
       1. Es gibt {1} Balkon. (ein → ?)
       2. Die Wohnung gefällt {2}. (ich → ?)
@@ -612,7 +620,8 @@ exercises:
     block: B
     type: categorize
     title: "Kategorien"
-    instructions: "Sort the 12 words: Möbel · Räume · Farben · Adjektive"
+    instructions: "Sortiere die 12 Wörter: Möbel · Räume · Farben · Adjektive"
+    instructionsEn: "Sort the 12 words: Möbel · Räume · Farben · Adjektive"
     buckets:
       - { key: moebel, label: "Möbel" }
       - { key: raeume, label: "Räume" }
@@ -707,7 +716,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Lückentext"
-    instructions: "Fill each gap with one word from the box. Five words are not needed."
+    instructions: "Fülle jede Lücke mit einem Wort aus dem Kasten. Fünf Wörter werden nicht gebraucht."
+    instructionsEn: "Fill each gap with one word from the box. Five words are not needed."
     text: |
       Hallo Lisa! Ich habe eine neue Wohnung! Sie {1} zwei Zimmer, eine Küche
       und ein Bad. Das Wohnzimmer ist groß {2} hell. Es {3} auch einen
@@ -783,7 +793,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
     text: |
       Unsere Wohnung {1} vier Zimmer, eine Küche und ein {2}. Sie ist
       95 Quadratmeter {3}. Es {4} auch {5} Balkon und eine

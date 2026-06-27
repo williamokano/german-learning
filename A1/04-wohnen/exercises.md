@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen and decide: Richtig (R) oder Falsch (F)?
+Höre und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Anna zeigt Bruno ihre neue Wohnung. ( )
 2. Die Wohnung hat vier Zimmer. ( )
@@ -21,7 +21,7 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen and decide: Richtig (R) oder Falsch (F)?
+Höre und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Bruno fragt wegen einer Wohnungsanzeige an. ( )
 2. Die Wohnung hat drei Zimmer. ( )
@@ -30,7 +30,7 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 ## Übung H2 — Aussprache-Check (Hör zu 1–3)
 
-Listen to the three Aussprache clips and pick the matching word.
+Höre die drei Aussprache-Clips und wähle das passende Wort.
 
 1. Hör zu 1 (Räume) — wo kochst du?  
    a) das Bad  b) die Küche  c) der Flur
@@ -98,7 +98,7 @@ der Teppich → die ______
 
 ## Übung A3 — `es gibt` + Akkusativ
 
-Fill in: einen, eine, ein, keinen, keine, kein. (✓) = the noun has an article, (✗) = no article.
+Ergänze: einen, eine, ein, keinen, keine, kein. (✓) = das Nomen hat einen Artikel, (✗) = kein Artikel.
 
 1. Es gibt ______ Balkon. (✓)
 2. Es gibt ______ Küche. (✓)
@@ -126,7 +126,7 @@ Fill in: einen, eine, ein, keinen, keine, kein. (✓) = the noun has an article,
 
 ## Übung A5 — Gegensätze (opposites)
 
-Match 1–6 with their opposites (a–f), then fill in 7–10.
+Ordne 1–6 den Gegensätzen (a–f) zu. Ergänze dann 7–10.
 
 1. groß → ______  2. hell → ______  3. neu → ______  4. teuer → ______
 5. schön → ______  6. laut → ______
@@ -189,7 +189,7 @@ ich ______ · du ______ · er/sie/es ______ · wir ______ · ihr ______ · sie/S
 
 ## Übung A11 — Substitution drill
 
-Example: Das Sofa ist neu. (die Stühle) → Die Stühle sind neu.
+Beispiel: Das Sofa ist neu. (die Stühle) → Die Stühle sind neu.
 
 1. Das Sofa ist neu. (die Stühle) → ______
 2. Der Tisch ist groß. (das Bett) → ______
@@ -202,7 +202,7 @@ Example: Das Sofa ist neu. (die Stühle) → Die Stühle sind neu.
 
 ## Übung A12 — Build the questions
 
-Example: du / das Sofa / finden → Wie findest du das Sofa?
+Beispiel: du / das Sofa / finden → Wie findest du das Sofa?
 
 1. du / die Wohnung / finden → ______
 2. dir / der Balkon / gefallen (yes/no) → ______
@@ -244,7 +244,7 @@ Example: du / das Sofa / finden → Wie findest du das Sofa?
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
+Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form.
 
 1. Es gibt ______ Balkon. (ein → ?)
 2. Die Wohnung gefällt ______. (ich → ?)
@@ -285,7 +285,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 ## Übung B6 — Kategorien
 
-Sort the 12 words: Möbel · Räume · Farben · Adjektive
+Sortiere die 12 Wörter: Möbel · Räume · Farben · Adjektive
 
 > Sofa · Schrank · Bett · Küche · Flur · Bad · rot · grau · gelb · hell · billig · gemütlich
 
@@ -337,7 +337,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word from the box. Five words are not needed.
+Fülle jede Lücke mit einem Wort aus dem Kasten. Fünf Wörter werden nicht gebraucht.
 
 > Hallo Lisa! Ich habe eine neue Wohnung! Sie (1) ______ zwei Zimmer, eine Küche
 > und ein Bad. Das Wohnzimmer ist groß (2) ______ hell. Es (3) ______ auch einen
@@ -364,7 +364,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Five words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > Unsere Wohnung (1) ______ vier Zimmer, eine Küche und ein (2) ______. Sie ist
 > 95 Quadratmeter (3) ______. Es (4) ______ auch (5) ______ Balkon und eine
