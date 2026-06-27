@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre und entscheide: richtig (R) oder falsch (F)?
 
 1. Anna steht um 6:30 Uhr auf. — Anna gets up at 6:30. ( )
 2. Annas Arbeit fängt um neun Uhr an. — Anna's work starts at nine o'clock. ( )
@@ -21,7 +21,7 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre und entscheide: richtig (R) oder falsch (F)?
 
 1. Anna fragt Bruno: Hast du am Samstag Zeit? — Anna asks Bruno: Do you have time on Saturday? ( )
 2. Der Film fängt um halb acht an. — The film starts at 7:30. ( )
@@ -70,7 +70,7 @@ Höre die Nachrichten. Wähle dann die richtige Antwort (a, b oder c). Höre ein
 
 ## Übung A1 — Trennbare Verben: two gaps per sentence
 
-Conjugated verb in the first gap, prefix in the second.
+Konjugiertes Verb in die erste Lücke, Vorsilbe in die zweite.
 
 1. Ich ______ um sieben Uhr ______. (aufstehen)
 2. Anna ______ am Samstag ______. (einkaufen)
@@ -85,7 +85,7 @@ Conjugated verb in the first gap, prefix in the second.
 
 ## Übung A2 — Sätze bauen
 
-Write full sentences. Start with the first element.
+Schreibe vollständige Sätze. Beginne mit dem ersten Element.
 
 1. ich / aufstehen / um halb sieben → ______
 2. der Film / anfangen / um 20 Uhr → ______
@@ -98,7 +98,7 @@ Write full sentences. Start with the first element.
 
 ## Übung A3 — Welches Präfix?
 
-Fill in: auf · ein · an · fern · mit · aus (each can repeat).
+Ergänze: auf · ein · an · fern · mit · aus (jedes kann mehrfach vorkommen).
 
 1. Ich stehe um sieben Uhr ______.
 2. Wann rufst du mich ______?
@@ -118,7 +118,7 @@ Fill in: auf · ein · an · fern · mit · aus (each can repeat).
 
 ## Übung A5 — Inoffizielle Uhrzeit: write as words
 
-Colloquial system (nach / Viertel / halb / vor).
+Umgangssprachliches System (nach / Viertel / halb / vor).
 
 1. 3:00 = ______
 2. 4:05 = ______
@@ -133,7 +133,7 @@ Colloquial system (nach / Viertel / halb / vor).
 
 ## Übung A6 — Die halb-Falle: write the digital time
 
-Remember: halb acht = half of the way TO eight!
+Merke: halb acht = halb auf dem Weg ZU acht!
 
 1. halb acht = ______ Uhr
 2. halb zwölf = ______ Uhr
@@ -163,7 +163,7 @@ Remember: halb acht = half of the way TO eight!
 
 ## Übung A8 — arbeiten, finden, kosten, enden (-t/-d stems!)
 
-The stem ends in -t/-d, so du/er/ihr insert an -e- before the ending.
+Der Stamm endet auf -t/-d, also fügen du/er/ihr ein -e- vor der Endung ein.
 
 1. du ______ (arbeiten)
 2. er ______ (arbeiten)
@@ -176,7 +176,7 @@ The stem ends in -t/-d, so du/er/ihr insert an -e- before the ending.
 
 ## Übung A9 — schlafen, anfangen (a → ä!) und fernsehen (e → ie!)
 
-Only du and er/sie/es change the vowel — ich, wir, ihr, sie/Sie keep the infinitive vowel.
+Nur du und er/sie/es ändern den Vokal — ich, wir, ihr, sie/Sie behalten den Infinitivvokal.
 
 1. ich ______ (schlafen)
 2. du ______ (schlafen)
@@ -242,7 +242,7 @@ Montag → 1. ______ → Mittwoch → 2. ______ → Freitag → 3. ______ → So
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
+Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form.
 
 1. Ich ______ um sieben Uhr. (aufstehe → ?)
 2. Er ______ bis zehn Uhr. (schlaft → ?)
@@ -283,7 +283,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 ## Übung B6 — Kategorien: which preposition?
 
-Sort the 12 time expressions: um · am · von … bis · in der
+Sortiere die 12 Zeitangaben: um · am · von … bis · in der
 
 > acht Uhr · Montag · Nacht · neun bis fünf · Nachmittag · halb sieben · Wochenende · Abend · Montag bis Freitag · Viertel nach drei · Sonntag · Mittag
 
@@ -354,7 +354,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word from the box. Four words are not needed.
+Fülle jede Lücke mit einem Wort aus dem Kasten. Vier Wörter werden nicht gebraucht.
 
 > Mein Tag beginnt früh: Ich (1) ______ um sechs Uhr auf. Ich dusche und
 > frühstücke, und um halb acht (2) ______ ich zur Arbeit. Meine Arbeit fängt
@@ -380,7 +380,7 @@ acht Uhr (6) ____.
 
 Deine Anna
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 
 1. Ich arbeite (1) ____ Montag bis Freitag — I work (1) ____ Monday to Friday  a) von  b) am  c) um
@@ -392,7 +392,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Five words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > — Hallo Marco! Stehst du immer so (1) ______ auf?
 > — Ja, ich stehe um sechs Uhr (2) ______.
