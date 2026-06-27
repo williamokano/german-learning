@@ -60,6 +60,19 @@ Listen to the announcement. Then choose the correct answer (a, b, or c). Listen 
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (E-Mail-Austausch)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Thema | Aktion | Wer |
+|---|---|---|
+| Präsentations-E-Mail | Präsentations-E-Mail | ______ | Herr Steinmeyer |
+| E-Mail nicht angekommen | E-Mail nicht erhalten | ______ | Herr Steinmeyer |
+| Kommunikationsregeln | neue Kommunikationsregeln im Büro | sollten sich unterhalten | ______ |
+| Termin vorschlagen | Treffen vereinbaren | ______ | Herr Steinmeyer |
+
 ---
 
 # Block A — Basistraining

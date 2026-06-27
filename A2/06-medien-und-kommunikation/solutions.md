@@ -29,6 +29,15 @@
 3. **c) In vier Sprachen.** — „Die App funktioniert in vier Sprachen: Deutsch, Englisch, Französisch und Spanisch."
 4. **c) Kopfhörer.** — „Bitte bringen Sie Ihre eigenen Kopfhörer mit."
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (E-Mail-Austausch)
+
+| Thema | Aktion | Wer |
+|---|---|---|
+| Präsentations-E-Mail | Präsentations-E-Mail | **schon geantwortet** | Herr Steinmeyer |
+| E-Mail nicht angekommen | E-Mail nicht erhalten | **noch einmal schreiben** | Herr Steinmeyer |
+| Kommunikationsregeln | neue Kommunikationsregeln im Büro | sollten sich unterhalten | **beide** |
+| Termin vorschlagen | Treffen vereinbaren | **Termin vorschlagen** | Herr Steinmeyer |
+
 ---
 
 # Block A — Basistraining
