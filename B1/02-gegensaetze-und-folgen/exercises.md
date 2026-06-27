@@ -368,7 +368,14 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1: Tomáš und das Berlin-Experiment
 
-Read the Lesetext (lesson.md, section 5). Richtig (R) oder Falsch (F)?
+> Tomáš Novák gründete sein E-Scooter-Startup vor drei Jahren in Prag. Zwar war der Prager Markt bekannt und vertraut, aber Tomáš erkannte schnell, dass Berlin eine wichtige strategische Erweiterung war. Obwohl Berlin bereits viele Mobilitätsanbieter hatte, entschied er sich, trotzdem in die Stadt zu expandieren — mit einem wichtigen Unterschied: Er konzentrierte sich auf die Randbezirke, wo das Angebot minimal war.
+>
+> Die ersten Monate waren nicht einfach. Tomáš reiste fast jede Woche von Prag nach Berlin. Er schlief oft bei seinem Bruder Pavel in Wedding. Das Netzwerk wuchs jedoch langsam, obwohl die bürokratischen Hürden enorm waren. Deshalb schloss er eine Partnerschaft mit einem lokalen Berliner Unternehmen ab — das war der entscheidende Schritt.
+>
+> Heute hat das Startup 200 Scooter in Marzahn, Spandau und Lichtenberg. Die Nutzerzahlen sind zwar noch überschaubar, aber die Tendenz ist klar positiv. Tomáš ist überzeugt: Nachhaltigkeit und wirtschaftlicher Erfolg schließen sich nicht aus. Deswegen investiert er weiter — auch wenn er jeden Donnerstag wieder nach Prag fliegt.
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Tomáš hat sein Startup in Berlin gegründet. ( )
 2. Tomáš entschied sich, auf die Randbezirke zu konzentrieren. ( )
