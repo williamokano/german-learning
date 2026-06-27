@@ -719,7 +719,12 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 (Lesetext: Warum Ämter so schreiben)"
-    instructions: "Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?"
+    instructions: |
+      > Wer zum ersten Mal einen Brief vom Finanzamt oder von der Krankenkasse öffnet, ist oft ratlos. Die Sätze sind lang, die Wörter schwer, und überall stehen Nomen statt Verben. „Bei Nichtvorlage der erforderlichen Unterlagen erfolgt eine Ablehnung des Antrags" — so etwas liest niemand gern. Doch hinter diesem Stil steckt eine Absicht.
+      > Behörden schreiben im Nominalstil, **weil** sie viele Informationen auf wenig Raum unterbringen müssen. **Durch** die Verwendung von Nomen wird ein Text kürzer und scheinbar präziser. Außerdem klingt der Nominalstil **wegen** seiner Distanz neutral und sachlich: Niemand wird direkt angesprochen, niemand muss persönlich handeln. **Trotz** dieser Vorteile hat der Stil aber einen großen Nachteil — er ist für normale Leser schwer zu verstehen.
+      > Seit einigen Jahren versuchen viele Ämter deshalb, **verständlicher** zu schreiben. **Zur** Verbesserung der Bürgerkommunikation gibt es heute sogar Kurse in „leichter Sprache". **Nach** der Umstellung auf einfachere Texte verstehen mehr Menschen ihre Briefe, und es gibt weniger Rückfragen. Der Trend geht also langsam vom reinen Nominalstil zurück zum Verbalstil — zum Glück für alle, die schon einmal verzweifelt vor einem Amtsbrief saßen.
+
+      Richtig (R) oder falsch (F)?
     items:
       - q: "Behörden schreiben im Nominalstil, um viele Informationen auf wenig Raum unterzubringen."
         answer: true
