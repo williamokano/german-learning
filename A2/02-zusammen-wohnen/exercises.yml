@@ -121,6 +121,35 @@ exercises:
         answer: b
         why: '„Bitte rufen Sie mich bis morgen Abend zurück, um den Termin zu bestätigen."'
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (Wohnung Steinmeyers)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Was (Möbel)", "Wo (Lage)", "Verb"]
+    rows:
+      - label: "Sofa"
+        cells:
+          - { gap: 1, answer: "Sofa",                     given: "Sofa" }
+          - { gap: 2, answer: "vor dem Fernseher",        given: "vor dem Fernseher" }
+          - { gap: 3, answer: "steht" }
+      - label: "Esstisch"
+        cells:
+          - { gap: 4, answer: "Esstisch",                 given: "Esstisch" }
+          - { gap: 5, answer: "in der Mitte des Wohnzimmers", given: "in der Mitte des Wohnzimmers" }
+          - { gap: 6, answer: "steht" }
+      - label: "Bilder"
+        cells:
+          - { gap: 7,  answer: "Bilder",                  given: "Bilder" }
+          - { gap: 8,  answer: "an der Wand",             given: "an der Wand" }
+          - { gap: 9,  answer: "hängen" }
+      - label: "Bett (Tochter)"
+        cells:
+          - { gap: 10, answer: "Bett",                    given: "Bett" }
+          - { gap: 11, answer: "unter dem Fenster",       given: "unter dem Fenster" }
+          - { gap: 12, answer: "steht" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1
