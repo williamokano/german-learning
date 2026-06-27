@@ -127,6 +127,35 @@ exercises:
         answer: b
         why: 'Anna: „Bitte ruf mich zurück, wenn du ihn gefunden hast!".'
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (Neuer Nachbar)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Person / Eigenschaft", "Detail"]
+    rows:
+      - label: "Klaus (Name)"
+        cells:
+          - { gap: 1, answer: "Klaus" }
+          - { gap: 2, answer: "neuer Nachbar",          given: "neuer Nachbar" }
+      - label: "Alter / Typ"
+        cells:
+          - { gap: 3, answer: "älterer Herr",           given: "älterer Herr" }
+          - { gap: 4, answer: "graue Haare, kleiner Bart" }
+      - label: "Beruf"
+        cells:
+          - { gap: 5, answer: "Architekt",              given: "Architekt" }
+          - { gap: 6, answer: "Firma in der Nähe" }
+      - label: "Familie"
+        cells:
+          - { gap: 7, answer: "Frau aus Wien",          given: "Frau aus Wien" }
+          - { gap: 8, answer: "Sohn studiert in München" }
+      - label: "Einzug"
+        cells:
+          - { gap: 9, answer: "vor einer Woche",        given: "vor einer Woche" }
+          - { gap: 10, answer: "dritter Stock",         given: "dritter Stock" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1

@@ -30,6 +30,16 @@
 3. **b) Groß, schlank, kurze dunkle Haare, rote Jacke.** — Anna: „Er ist … groß und schlank … kurze dunkle Haare … eine rote Jacke".
 4. **b) Er soll Anna anrufen.** — Anna: „Bitte ruf mich zurück, wenn du ihn gefunden hast!".
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Neuer Nachbar)
+
+| Person / Eigenschaft | Detail |
+|---|---|
+| Klaus (Name) | **Klaus** | neuer Nachbar |
+| Alter / Typ | älterer Herr | **graue Haare, kleiner Bart** |
+| Beruf | Architekt | **Firma in der Nähe** |
+| Familie | Frau aus Wien | **Sohn studiert in München** |
+| Einzug | vor einer Woche | dritter Stock |
+
 ---
 
 # Block A — Basistraining
