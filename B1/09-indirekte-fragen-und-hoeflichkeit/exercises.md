@@ -307,7 +307,23 @@ Fill in the 6 gaps in this formal phone conversation.
 
 ## Übung B8 — Leseverstehen: Annas Brief ans Hotel
 
-Read the Lesetext (lesson.md, section 7). Choose the correct answer (a, b, or c).
+> Sehr geehrte Damen und Herren,
+>
+> ich interessiere mich für einen Aufenthalt in Ihrem Hotel vom 15. bis 18. Juli. Ich hätte einige Fragen, die ich gerne stellen würde.
+>
+> Zunächst möchte ich wissen, ob noch Zimmer für diesen Zeitraum verfügbar sind. Falls ja, würde ich gerne ein Einzelzimmer buchen. Außerdem wollte ich fragen, ob das Frühstück im Preis inbegriffen ist, oder ob man es separat dazubuchen muss.
+>
+> Des Weiteren dürfte ich kurz fragen, wie weit das Hotel vom Stadtzentrum entfernt ist. Ich bin mir nicht sicher, ob es sinnvoll wäre, ein Fahrrad zu mieten — ich wollte wissen, ob das Hotel Fahrräder verleiht oder ob Sie empfehlen könnten, wo man in der Nähe eines mieten kann.
+>
+> Könnten Sie mir außerdem erklären, bis wann die Buchung storniert werden kann? Ich weiß noch nicht genau, ob ich den dritten Tag (17. Juli) tatsächlich dabei sein werde, und ich wäre Ihnen sehr dankbar, wenn Sie mir das Stornierungsrecht für einen Tag erklären könnten.
+>
+> Ich würde mich über eine baldige Antwort sehr freuen.
+>
+> Mit freundlichen Grüßen,
+> Anna Kowalski
+
+Wähle a, b oder c.
+
 
 1. Was möchte Anna zuerst wissen?  a) Ob das Hotel einen Pool hat.  b) Ob noch Zimmer für ihren Zeitraum frei sind.  c) Wie viel die Reise nach Wien kostet.
 2. Warum fragt Anna nach einem Fahrrad?  a) Weil sie kein Auto hat.  b) Weil sie das Fahrrad günstig findet.  c) Weil sie nicht sicher ist, ob ein Fahrrad für das Stadtzentrum sinnvoll wäre.
@@ -382,7 +398,23 @@ Five words are not needed.
 
 ## Übung C4a — Leseverstehen: Annas Brief ans Hotel (Richtig / Falsch)
 
-Read the Lesetext (lesson.md section 7). Decide: Richtig (R) oder Falsch (F)?
+> Sehr geehrte Damen und Herren,
+>
+> ich interessiere mich für einen Aufenthalt in Ihrem Hotel vom 15. bis 18. Juli. Ich hätte einige Fragen, die ich gerne stellen würde.
+>
+> Zunächst möchte ich wissen, ob noch Zimmer für diesen Zeitraum verfügbar sind. Falls ja, würde ich gerne ein Einzelzimmer buchen. Außerdem wollte ich fragen, ob das Frühstück im Preis inbegriffen ist, oder ob man es separat dazubuchen muss.
+>
+> Des Weiteren dürfte ich kurz fragen, wie weit das Hotel vom Stadtzentrum entfernt ist. Ich bin mir nicht sicher, ob es sinnvoll wäre, ein Fahrrad zu mieten — ich wollte wissen, ob das Hotel Fahrräder verleiht oder ob Sie empfehlen könnten, wo man in der Nähe eines mieten kann.
+>
+> Könnten Sie mir außerdem erklären, bis wann die Buchung storniert werden kann? Ich weiß noch nicht genau, ob ich den dritten Tag (17. Juli) tatsächlich dabei sein werde, und ich wäre Ihnen sehr dankbar, wenn Sie mir das Stornierungsrecht für einen Tag erklären könnten.
+>
+> Ich würde mich über eine baldige Antwort sehr freuen.
+>
+> Mit freundlichen Grüßen,
+> Anna Kowalski
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Anna möchte ein Doppelzimmer buchen. ( )
 2. Anna fragt, ob das Frühstück inbegriffen ist. ( )
