@@ -393,7 +393,16 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Anna lädt Bruno ein)
 
-Read the Lesetext in lesson.md, section 5. Richtig (R) oder Falsch (F)?
+> Anna hatte eine Idee. Sie wollte Bruno zu einem Konzert einladen — ein russisches Kammerorchester spielte in der Berliner Philharmonie. „Das wäre doch schön!", dachte sie.
+>
+> Sie schrieb Bruno eine Nachricht: „Hey! Ich hätte eine Frage: Würdest du am Freitagabend gern ins Konzert kommen? Es wäre um 20 Uhr in der Philharmonie. Ich hätte zwei Karten — ich wollte die Karten eigentlich mit meiner Schwester anschauen, aber sie hat leider abgesagt."
+>
+> Bruno antwortete schnell: „Das wäre super! Ich käme sehr gerne. Könnte ich einen Platz reservieren, oder hast du das schon gemacht?" Anna schrieb zurück: „Ich habe schon reserviert — du musst nichts machen! Könntest du aber bitte das Restaurant danach aussuchen? Ich wäre froh, wenn du eine gute Idee hättest."
+>
+> Bruno suchte sofort nach Restaurants in der Nähe der Philharmonie. Er fand ein kleines italienisches Restaurant. „Das wäre perfekt", schrieb er. „Ich würde einen Tisch für halb zehn reservieren. Würde das passen?" — „Ja, das wäre ideal!", antwortete Anna. „Ich freue mich schon!"
+
+Richtig (R) oder Falsch (F)?
+
 
 1. Anna möchte Bruno zu einem Konzert einladen. ( )
 2. Die Karten sind für ein deutsches Orchester. ( )
