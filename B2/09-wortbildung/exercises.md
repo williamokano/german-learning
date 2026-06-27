@@ -45,7 +45,7 @@ Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel.
 > werden", und (7) ______ macht daraus ein Nomen. Wer diese Bausteine kennt, hat das
 > System in der Hand.
 
-> (entschlüsseln · Entscheidung · Kompositum · Klimaschutz · Bezahlbarkeit · Endung · Vorsilbe · Missverständnis · Verständnis)
+> (entschlüsseln · Entscheidung · Kompositum · Klimaschutz · Bezahlbarkeit · Endung · Vorsilbe · Missverständnis · Verständnis · Entscheidung)
 
 ## Übung H4 — Kurze Ansage: Ansage aus dem Sprachzentrum
 
@@ -83,7 +83,7 @@ Setze die passende Vorsilbe ein (ver-, zer-, ent-, miss-, be-, er-, emp-). Manch
 4. ______verstehen (falsch verstehen)
 5. ______zahlen (bezahlen)
 6. ______lauben (erlauben)
-7. ______raten (empfehlen)
+7. ______fehlen (empfehlen)
 8. ______schuldigen (um Verzeihung bitten)
 
 ## Übung A2 — Vorsilbe → Bedeutung
@@ -506,4 +506,4 @@ Wiederholung früherer Lektionen. 10 Items.
 19. „pünktlich" + Suffix = ______
 20. „miss-" + „Verständnis" = ______
 
-_16+ / 20 → Lektion B2/10. Unter 16 → wiederhol morgen Block A (A1–A6) und Block B (B1–B3), dann mach D4 noch einmal._
+_16+ / 20 → Lektion B2/10. Unter 16 → wiederhol morgen Block A (A1–A11) und Block B (B1–B9), dann mach D4 noch einmal._
