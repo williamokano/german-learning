@@ -684,7 +684,14 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 (Wie eine Studie in die Nachrichten kommt)"
-    instructions: "Lies den Lesetext in lesson.md, §7. Richtig (R) oder Falsch (F)?"
+    instructions: |
+      > Jeden Tag erscheinen Tausende neue Studien — doch nur wenige schaffen es in die Nachrichten. Wie wird aus einem Fachartikel eine Schlagzeile? Der Weg lässt sich in mehreren Schritten beschreiben.
+      > Am Anfang steht die Forschung selbst. In einem Labor werden Versuche durchgeführt, Proben untersucht und Daten gesammelt. Anschließend werden die Ergebnisse ausgewertet. Erst wenn die Resultate stabil und überprüfbar sind, schreibt das Team einen Fachartikel. Dieser ist nach strengen Regeln zu verfassen: Alle Quellen sind anzugeben, jede Behauptung ist zu belegen, und die Methode muss so beschrieben werden, dass der Versuch von anderen wiederholbar ist.
+      > Bevor der Artikel veröffentlicht wird, durchläuft er die sogenannte Begutachtung. Unabhängige Fachleute prüfen, ob die Schlüsse nachvollziehbar sind. Schwächen, die sich nicht beheben lassen, führen zur Ablehnung. Erst nach erfolgreicher Prüfung gilt eine Studie als veröffentlicht.
+      > Jetzt beginnt die Übersetzungsarbeit. Eine Pressestelle fasst die Studie in einer kurzen Mitteilung zusammen — verständlich, knapp, ohne Fachjargon. Aus „die Hypothese konnte verifiziert werden" wird dann oft schlicht: „Forscher haben bewiesen, dass …". Journalisten greifen die Mitteilung auf, ordnen sie ein und machen daraus eine Meldung.
+      > So entsteht die Kette von der Probe bis zur Schlagzeile. An jeder Station wird die Sprache ein wenig einfacher. Was im Labor noch streng im Passiv formuliert ist, ist am Ende in klare, aktivische Sätze übersetzt — denn eine gute Nachricht muss vor allem eines sein: gut verständlich.
+
+      Richtig (R) oder Falsch (F)?
     items:
       - q: "Nur wenige der täglich erscheinenden Studien schaffen es in die Nachrichten."
         answer: true
