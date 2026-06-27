@@ -17,16 +17,16 @@ exercises:
     audio: dialog1.mp3
     instructions: "Listen and decide: richtig (R) oder falsch (F)?"
     items:
-      - q: "Anna sucht eine rote Jacke."
+      - q: "Anna sucht eine rote Jacke. — Anna is looking for a red jacket."
         answer: false
         why: 'Anna sagt „Ich suche eine Jacke" (ohne Farbe). Die Verkäuferin sagt, die Jacke ist rot.'
-      - q: "Die Jacke passt Anna gut."
+      - q: "Die Jacke passt Anna gut. — The jacket fits Anna well."
         answer: true
         why: 'Die Verkäuferin sagt: „Die Jacke steht Ihnen sehr gut! Und sie passt Ihnen perfekt."'
-      - q: "Anna findet die Jacke zu teuer und kauft sie nicht."
+      - q: "Anna findet die Jacke zu teuer und kauft sie nicht. — Anna finds the jacket too expensive and doesn't buy it."
         answer: false
         why: 'Anna kauft die Jacke. Sie sagt: „Ja, ich finde sie schön. Ich nehme sie!"'
-      - q: "Die Verkäuferin sagt, die Jacke steht Anna sehr gut."
+      - q: "Die Verkäuferin sagt, die Jacke steht Anna sehr gut. — The saleswoman says the jacket suits Anna very well."
         answer: true
         why: 'Die Verkäuferin sagt: „Die Jacke steht Ihnen sehr gut!"'
 
@@ -37,16 +37,16 @@ exercises:
     audio: dialog2.mp3
     instructions: "Listen and decide: richtig (R) oder falsch (F)?"
     items:
-      - q: "Bruno sucht Sportschuhe."
+      - q: "Bruno sucht Sportschuhe. — Bruno is looking for sports shoes."
         answer: true
         why: 'Bruno sagt: „Ich suche Sportschuhe."'
-      - q: "Bruno probiert die Schuhe in Größe 42 an."
+      - q: "Bruno probiert die Schuhe in Größe 42 an. — Bruno tries on the shoes in size 42."
         answer: false
         why: "Bruno probiert die Schuhe in Größe 43 an, nicht 42."
-      - q: "Die teuren Schuhe kosten neunundneunzig Euro."
+      - q: "Die teuren Schuhe kosten neunundneunzig Euro. — The expensive shoes cost ninety-nine euros."
         answer: true
         why: 'Der Verkäufer sagt: „Die kosten neunundneunzig Euro."'
-      - q: "Bruno kauft am Ende keine Schuhe."
+      - q: "Bruno kauft am Ende keine Schuhe. — In the end, Bruno doesn't buy any shoes."
         answer: false
         why: 'Bruno kauft die günstigeren Schuhe für fünfundvierzig Euro. Er sagt: „Den nehme ich!"'
 
@@ -78,28 +78,28 @@ exercises:
     instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Achtung, eine Durchsage. Liebe Kundinnen und Kunden, unser Kaufhaus hat heute einen großen Sommerschlussverkauf. Alle Sommerkleider sind jetzt fünfzig Prozent günstiger. Auch die Schuhe sind zwanzig Prozent billiger. Die neuen Winterjacken sind ab heute auch da. Der Schlussverkauf gilt nur bis achtzehn Uhr und nur heute. Kommen Sie bald und finden Sie Ihr Lieblingsstück. Vielen Dank für Ihren Besuch."
     items:
-      - q: "Was ist heute im Kaufhaus?"
+      - q: "Was ist heute im Kaufhaus? — What's happening at the department store today?"
         options:
           - { key: a, text: "Ein Sommerschlussverkauf." }
           - { key: b, text: "Eine Modenschau." }
           - { key: c, text: "Eine Eröffnung." }
         answer: a
         why: '„unser Kaufhaus hat heute einen großen Sommerschlussverkauf."'
-      - q: "Wie viel Prozent billiger sind die Sommerkleider?"
+      - q: "Wie viel Prozent billiger sind die Sommerkleider? — How many percent cheaper are the summer dresses?"
         options:
           - { key: a, text: "Zwanzig Prozent." }
           - { key: b, text: "Dreißig Prozent." }
           - { key: c, text: "Fünfzig Prozent." }
         answer: c
         why: '„Alle Sommerkleider sind jetzt fünfzig Prozent günstiger."'
-      - q: "Was ist auch günstiger?"
+      - q: "Was ist auch günstiger? — What else is on sale?"
         options:
           - { key: a, text: "Die Mäntel." }
           - { key: b, text: "Die Schuhe." }
           - { key: c, text: "Die Hemden." }
         answer: b
         why: '„Auch die Schuhe sind zwanzig Prozent billiger."'
-      - q: "Bis wann gilt der Schlussverkauf?"
+      - q: "Bis wann gilt der Schlussverkauf? — Until when does the sale last?"
         options:
           - { key: a, text: "Bis heute achtzehn Uhr." }
           - { key: b, text: "Bis morgen." }
@@ -710,42 +710,42 @@ exercises:
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
-      - q: "Ich (1) ____ gern Kleidung kaufen, aber es ist nicht immer einfach."
+      - q: "Ich (1) ____ gern Kleidung kaufen, aber es ist nicht immer einfach. — I (1) ____ like buying clothes, but it's not always easy."
         options:
           - { key: a, text: "kaufe" }
           - { key: b, text: "kaufen" }
           - { key: c, text: "kaufst" }
         answer: a
         why: "ich-Form of kaufen → kaufe."
-      - q: "Ich suche immer zuerst (2) ____ Farbe, die mir gut steht."
+      - q: "Ich suche immer zuerst (2) ____ Farbe, die mir gut steht. — I always look first for a (2) ____ color that suits me."
         options:
           - { key: a, text: "eine" }
           - { key: b, text: "einen" }
           - { key: c, text: "ein" }
         answer: a
         why: "die Farbe = feminine → eine."
-      - q: "Schwarz (3) ____ mir sehr gut."
+      - q: "Schwarz (3) ____ mir sehr gut. — Black (3) ____ me very well."
         options:
           - { key: a, text: "stehen" }
           - { key: b, text: "steht" }
           - { key: c, text: "passen" }
         answer: b
         why: "Schwarz = singular subject → steht; the standard phrase is Schwarz steht mir."
-      - q: "Im Geschäft probiere ich viele Sachen an — das (4) ____ mir Spaß!"
+      - q: "Im Geschäft probiere ich viele Sachen an — das (4) ____ mir Spaß! — In the shop I try on many things — that's (4) ____ fun for me!"
         options:
           - { key: a, text: "macht" }
           - { key: b, text: "mache" }
           - { key: c, text: "machen" }
         answer: a
         why: "das macht mir Spaß = that's fun for me; er/es-Form → macht."
-      - q: "Manchmal (5) ____ mir der Verkäufer oder die Verkäuferin."
+      - q: "Manchmal (5) ____ mir der Verkäufer oder die Verkäuferin. — Sometimes the salesperson (5) ____ me."
         options:
           - { key: a, text: "hilft" }
           - { key: b, text: "helfen" }
           - { key: c, text: "helfe" }
         answer: a
         why: "helfen is irregular: er/sie/es hilft (e → i)."
-      - q: 'Sie sagen: „Das (6) ____ Ihnen sehr gut!"'
+      - q: 'Sie sagen: „Das (6) ____ Ihnen sehr gut!" — They say: "That (6) ____ you very well!"'
         options:
           - { key: a, text: "steht" }
           - { key: b, text: "stehen" }
@@ -805,19 +805,19 @@ exercises:
 
       Richtig (R) oder falsch (F)?
     items:
-      - q: "Anna sucht ein Outfit für eine Hochzeit."
+      - q: "Anna sucht ein Outfit für eine Hochzeit. — Anna is looking for an outfit for a wedding."
         answer: false
         why: "für eine Party, not a wedding."
-      - q: "Das Kleid gefällt Anna nicht."
+      - q: "Das Kleid gefällt Anna nicht. — Anna doesn't like the dress."
         answer: true
         why: "es passt ihr gut, aber es gefällt ihr nicht."
-      - q: "Bruno sagt, Blau steht Anna gut."
+      - q: "Bruno sagt, Blau steht Anna gut. — Bruno says blue suits Anna."
         answer: true
         why: 'Bruno sagt: „Blau steht dir sehr gut!"'
-      - q: "Die Bluse ist sehr teuer."
+      - q: "Die Bluse ist sehr teuer. — The blouse is very expensive."
         answer: false
         why: "neununddreißig Euro — preiswert."
-      - q: "Bruno kauft auch neue Kleidung."
+      - q: "Bruno kauft auch neue Kleidung. — Bruno also buys new clothes."
         answer: false
         why: "Bruno kauft nichts."
 
@@ -838,28 +838,28 @@ exercises:
 
       Wähle a, b oder c.
     items:
-      - q: "Eine Damen-Bluse kostet mindestens …"
+      - q: "Eine Damen-Bluse kostet mindestens … — A women's blouse costs at least …"
         options:
           - { key: a, text: "9,90 €" }
           - { key: b, text: "19,90 €" }
           - { key: c, text: "24,90 €" }
         answer: b
         why: '„ab" = starting from, so minimum price is 19,90 €.'
-      - q: "Jeans gibt es …"
+      - q: "Jeans gibt es … — There are jeans …"
         options:
           - { key: a, text: "nur für Damen" }
           - { key: b, text: "nur für Herren" }
           - { key: c, text: "für Damen und Herren" }
         answer: c
         why: "Jeans für Damen und Herren."
-      - q: "Ein Sommerkleid kostet …"
+      - q: "Ein Sommerkleid kostet … — A summer dress costs …"
         options:
           - { key: a, text: "39,90 €" }
           - { key: b, text: "49,90 €" }
           - { key: c, text: "19,90 €" }
         answer: b
         why: "49,90 €."
-      - q: "Das Modehaus ist am Samstag geöffnet …"
+      - q: "Das Modehaus ist am Samstag geöffnet … — The fashion house is open on Saturday …"
         options:
           - { key: a, text: "nicht" }
           - { key: b, text: "bis 18:00 Uhr" }

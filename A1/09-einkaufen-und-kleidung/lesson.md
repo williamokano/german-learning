@@ -55,6 +55,25 @@ buildsOn:
 > **Verkäuferin:** Sehr gut. Soll ich sie einpacken?  
 > **Anna:** Ja, bitte.  
 
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Saleswoman:** Hello! Can I help you?
+> **Anna:** Yes, please. I'm looking for a jacket. This one here — how much does it cost?
+> **Saleswoman:** The red jacket costs seventy-nine euros.
+> **Anna:** Hmm. That's a bit expensive. What other sizes do you have?
+> **Saleswoman:** We have sizes 36 through 44. What size are you?
+> **Anna:** I think size 38. May I try the jacket on?
+> **Saleswoman:** Of course! The fitting room is over there.
+> *(Anna tries on the jacket)*
+> **Anna:** How does the jacket look on me?
+> **Saleswoman:** The jacket suits you very well! And it fits you perfectly.
+> **Anna:** Yes, I think it's nice. I'll take it!
+> **Saleswoman:** Very good. Shall I wrap it up?
+> **Anna:** Yes, please.
+
+</details>
+
 ### Dialog B: Mit Bruno im Sportgeschäft
 
 🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
@@ -69,6 +88,21 @@ buildsOn:
 > **Bruno:** Das ist zu teuer für mich. Haben Sie auch Schuhe für weniger?  
 > **Verkäufer:** Ja, dieser Schuh hier kostet nur fünfundvierzig Euro.  
 > **Bruno:** Den nehme ich!  
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Bruno:** Excuse me, I'm looking for sports shoes. Do you have these shoes in size 43?
+> **Salesperson:** One moment, let me check … yes, we still have size 43.
+> **Bruno:** Great! May I try them on?
+> **Salesperson:** Of course. How are the shoes? Do they fit you?
+> **Bruno:** Yes, they fit well. But these shoes here — I like them better. How much do they cost?
+> **Salesperson:** They cost ninety-nine euros.
+> **Bruno:** That's too expensive for me. Do you also have shoes for less?
+> **Salesperson:** Yes, this shoe here only costs forty-five euros.
+> **Bruno:** I'll take it!
+
+</details>
 
 \* **Chunk alert:** Phrases like *die rote Jacke*, *dieser schwarze Schuh* contain adjective endings (attributive adjectives). This rule is explained in **A2/08 Adjektive überall**. For now, treat color + noun combinations as ready-made chunks — the ending is there but the rule is not yet required.
 
@@ -544,6 +578,17 @@ structures in this lesson.
 > Die Tasche ist aus Leder und kostet fünfundsechzig Euro.
 > Der Verkäufer sagt: „Die Tasche steht Ihrer Mutter sicher gut!"
 > Die Tasche gefällt Bruno sehr — er kauft sie und bezahlt mit Karte.
+
+</details>
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> Bruno is looking for a gift for his mother.
+> He goes into a fashion shop and finds a nice bag.
+> The bag is made of leather and costs sixty-five euros.
+> The shop assistant says: "The bag is sure to suit your mother!"
+> Bruno really likes the bag — he buys it and pays by card.
 
 </details>
 
