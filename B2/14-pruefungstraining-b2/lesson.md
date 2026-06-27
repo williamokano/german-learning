@@ -69,7 +69,7 @@ buildsOn:
 > **Pavel:** Verstehe. Ich war mir nicht ganz sicher, ob „er komme" wirklich korrekt ist.  
 > **Frau Hoffmann:** Es ist korrekt. In der indirekten Rede gilt: Konjunktiv I für die Äußerung anderer. In der gesprochenen Sprache weicht man manchmal darauf aus, aber im schriftlichen B2-Test sollten Sie ihn beherrschen.  
 > **Pavel:** Gut zu wissen. Werde ich in der nächsten Prüfung beachten.  
-> **Frau Hoffmann:** Noch ein Hinweis: Bei Ihrem Schlusssatz wäre ein Partizipialattribute stilistisch schöner gewesen. „Die von Ihnen genannten Beispiele" klingt flüssiger als „die Beispiele, die Sie genannt haben".  
+> **Frau Hoffmann:** Noch ein Hinweis: Bei Ihrem Schlusssatz wäre ein Partizipialattribut stilistisch schöner gewesen. „Die von Ihnen genannten Beispiele" klingt flüssiger als „die Beispiele, die Sie genannt haben".  
 > **Pavel:** Stimmt. Das ist mir im Nachhinein auch aufgefallen.  
 > **Frau Hoffmann:** Sonst sehr gut. Sie haben das Niveau B2 erreicht. Für eine mögliche C1-Prüfung würden wir Ihnen empfehlen, an der Differenzierung der Modalverben zu arbeiten — „muss" und „dürfte" haben eine subjektive Bedeutung, die Sie noch sicherer einsetzen könnten.  
 > **Pavel:** Vielen Dank für das ausführliche Feedback. Das hilft mir wirklich sehr.  
@@ -158,7 +158,7 @@ Du hast ein Jahr B2 gearbeitet. Du kennst den Unterschied zwischen *muss* (Vermu
 
 ## 5. Mini-Geschichte — Die Woche vor der Prüfung
 
-*Lies den Text zuerst zügig für den Inhalt. Beim zweiten Lesen unterstreiche je ein Beispiel für Nominalstil, ein Passiv-Alternativ, einen Konjunktiv II Vergangenheit und ein Partizipialattribute.*
+*Lies den Text zuerst zügig für den Inhalt. Beim zweiten Lesen unterstreiche je ein Beispiel für Nominalstil, eine Passiv-Alternative, einen Konjunktiv II Vergangenheit und ein Partizipialattribut.*
 
 Drei Wochen vor der B2-Prüfung saßen Anna, Pavel und Yuki zum ersten Mal gemeinsam am Tisch. Sie hatten sich vorgenommen, jeden Tag ein anderes Prüfungsmodul zu üben, und sie einigten sich auf einen festen Plan.
 
@@ -168,9 +168,9 @@ Am Dienstag wurde geschrieben. Anna hatte sich eine Erörterung zum Thema „Hom
 
 Am Mittwoch übten sie das Sprechen. Yuki zog das Thema „Digitalisierung in der Schule" und sprach zwei Minuten frei. Pavel und Anna stellten ihr anschließend Fragen — höflich, im Konjunktiv II: „**Könntest** du dir vorstellen, dass Tablets den Unterricht ersetzen?" Yuki antwortete und benutzte dabei mehrfach Partizipialattribute: „Die **seit 2020 eingeführten** Lernplattformen **werden** von vielen Lehrkräften **genutzt**." Anna war beeindruckt.
 
-Am Donnerstag las die Gruppe zusammen den Zeitungsartikel über Frauen in Führungspositionen. Pavel fragte: „Wenn ich vor fünf Jahren mehr Zeit gehabt **hätte**, **wäre** ich wahrscheinlich selbst eine Erörterung zu diesem Thema geworden." Anna lachte. „Du bist Barista, nicht Journalist." — „Eben, **als ob** ich je Journalist gewesen **wäre**!", gab Pavel zurück.
+Am Donnerstag las die Gruppe zusammen den Zeitungsartikel über Frauen in Führungspositionen. Pavel fragte: „Wenn ich vor fünf Jahren mehr Zeit gehabt **hätte**, **wäre** ich wahrscheinlich selbst Journalist geworden." Anna lachte. „Du bist Barista, nicht Journalist." — „Eben, **als ob** ich je Journalist gewesen **wäre**!", gab Pavel zurück.
 
-Am Freitagabend, kurz vor dem großen Tag, saßen alle erschöpft, aber zufrieden zusammen. Anna sprach aus, was sie dachten: „Wenn wir diese Woche nicht gehabt **hätten**, **wäre** die Prüfung eine Katastrophe geworden." Yuki nickte. „Die im Café **verbrachten** Abende **haben** uns mehr gebracht als jeder Online-Kurs."
+Am Freitagabend, kurz vor dem großen Tag, saßen alle erschöpft, aber zufrieden zusammen. Anna sprach aus, was sie dachte: „Wenn wir diese Woche nicht gehabt **hätten**, **wäre** die Prüfung eine Katastrophe geworden." Yuki nickte. „Die im Café **verbrachten** Abende **haben** uns mehr gebracht als jeder Online-Kurs."
 
 Am Samstag war es soweit. Sie bestanden alle drei — nicht perfekt, aber bestanden. Und abends feierten sie mit dem Rest der B2-Gruppe.
 
