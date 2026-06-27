@@ -12,10 +12,10 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen and decide: richtig (R) oder falsch (F)?
 
-1. Bruno fragt eine Frau auf der Straße nach dem Bahnhof. ( )
-2. Die Frau sagt: Fahren Sie mit dem Bus! ( )
-3. Die Haltestelle ist geradeaus und dann die erste Straße links. ( )
-4. Bruno fährt mit der Linie 5 und steigt am Dom aus. ( )
+1. Bruno fragt eine Frau auf der Straße nach dem Bahnhof. — Bruno asks a woman on the street for directions to the train station. ( )
+2. Die Frau sagt: Fahren Sie mit dem Bus! — The woman says: Take the bus! ( )
+3. Die Haltestelle ist geradeaus und dann die erste Straße links. — The stop is straight ahead and then the first street on the left. ( )
+4. Bruno fährt mit der Linie 5 und steigt am Dom aus. — Bruno takes line 5 and gets off at the cathedral. ( )
 
 ## Übung H1b — Dialog 2: Wie komme ich zum Museum?
 
@@ -23,10 +23,10 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 Listen and decide: richtig (R) oder falsch (F)?
 
-1. Anna möchte zum Museum Ludwig fahren. ( )
-2. Sie muss am Dom umsteigen. ( )
-3. Die Fahrt dauert eine halbe Stunde. ( )
-4. Jonas kommt am Abend mit Anna ins Museum. ( )
+1. Anna möchte zum Museum Ludwig fahren. — Anna wants to go to the Museum Ludwig. ( )
+2. Sie muss am Dom umsteigen. — She has to change at the cathedral. ( )
+3. Die Fahrt dauert eine halbe Stunde. — The trip takes half an hour. ( )
+4. Jonas kommt am Abend mit Anna ins Museum. — Jonas comes to the museum with Anna in the evening. ( )
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -48,10 +48,10 @@ Listen and fill the gaps with the words from the box. Two words are not needed.
 
 Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Welcher Zug hat eine Verspätung?  a) Der ICE 205.  b) Der RE 502.  c) Der ICE 502.
-2. Von welchem Gleis fährt der Zug heute ab?  a) Von Gleis 8.  b) Von Gleis 9.  c) Von Gleis 7.
-3. Wann fährt der Zug ab?  a) Um vierzehn Uhr dreißig.  b) Um dreizehn Uhr dreißig.  c) Um fünfzehn Uhr dreißig.
-4. Wie viel Verspätung hat der Zug?  a) Zehn Minuten.  b) Fünf Minuten.  c) Fünfzehn Minuten.
+1. Welcher Zug hat eine Verspätung? — Which train is delayed?  a) Der ICE 205.  b) Der RE 502.  c) Der ICE 502.
+2. Von welchem Gleis fährt der Zug heute ab? — From which platform does the train leave today?  a) Von Gleis 8.  b) Von Gleis 9.  c) Von Gleis 7.
+3. Wann fährt der Zug ab? — When does the train leave?  a) Um vierzehn Uhr dreißig.  b) Um dreizehn Uhr dreißig.  c) Um fünfzehn Uhr dreißig.
+4. Wie viel Verspätung hat der Zug? — How much delay does the train have?  a) Zehn Minuten.  b) Fünf Minuten.  c) Fünfzehn Minuten.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -353,12 +353,12 @@ Bruno
 
 Choose the correct option (a, b, or c) for each gap.
 
-1. {1} Bahnhof  a) zum  b) beim  c) vom
-2. {2} Museum Ludwig  a) zur  b) zum  c) nach
-3. {3} der Straßenbahn  a) mit  b) bei  c) von
-4. {4} Kirche  a) der  b) die  c) dem
-5. {5} Fuß  a) zu  b) mit  c) auf
-6. {6} nur zehn Minuten  a) dauert  b) fährt  c) kommt
+1. {1} Bahnhof — directly at the station  a) zum  b) beim  c) vom
+2. {2} Museum Ludwig — to the Museum Ludwig  a) zur  b) zum  c) nach
+3. {3} der Straßenbahn — by tram  a) mit  b) bei  c) von
+4. {4} Kirche — at the church  a) der  b) die  c) dem
+5. {5} Fuß — on foot  a) zu  b) mit  c) auf
+6. {6} nur zehn Minuten — only takes ten minutes  a) dauert  b) fährt  c) kommt
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -410,11 +410,11 @@ Five words are not needed.
 Richtig (R) oder falsch (F)?
 
 
-1. Herr Yilmaz fährt mit dem Bus zur Arbeit. ( )
-2. Die Fahrt zur Arbeit dauert zwanzig Minuten. ( )
-3. Frau Yilmaz steigt am Alexanderplatz um. ( )
-4. Die Kinder fahren mit der Straßenbahn zur Schule. ( )
-5. Am Sonntag fährt die Familie mit dem Auto zum Park. ( )
+1. Herr Yilmaz fährt mit dem Bus zur Arbeit. — Mr. Yilmaz goes to work by bus. ( )
+2. Die Fahrt zur Arbeit dauert zwanzig Minuten. — The trip to work takes twenty minutes. ( )
+3. Frau Yilmaz steigt am Alexanderplatz um. — Mrs. Yilmaz changes at Alexanderplatz. ( )
+4. Die Kinder fahren mit der Straßenbahn zur Schule. — The children take the tram to school. ( )
+5. Am Sonntag fährt die Familie mit dem Auto zum Park. — On Sunday the family drives to the park by car. ( )
 
 ## Übung C4b — Lesen Text 2 — Information Hauptbahnhof Köln
 
@@ -428,10 +428,10 @@ Taxis: rechts vom Bahnhof.
 
 Wähle a, b oder c.
 
-1. Die S-Bahn zum Flughafen fährt …  a) alle 15 Minuten  b) alle 20 Minuten  c) alle 30 Minuten
-2. Eine Fahrkarte zum Flughafen kostet …  a) 3,50 €  b) 5,30 €  c) 13,50 €
-3. Der Dom ist …  a) 15 Minuten zu Fuß  b) 2 Minuten zu Fuß  c) nur mit dem Bus
-4. Die Taxis sind …  a) links vom Bahnhof  b) im Bahnhof  c) rechts vom Bahnhof
+1. Die S-Bahn zum Flughafen fährt … — The S-Bahn to the airport runs …  a) alle 15 Minuten  b) alle 20 Minuten  c) alle 30 Minuten
+2. Eine Fahrkarte zum Flughafen kostet … — A ticket to the airport costs …  a) 3,50 €  b) 5,30 €  c) 13,50 €
+3. Der Dom ist … — The cathedral is …  a) 15 Minuten zu Fuß  b) 2 Minuten zu Fuß  c) nur mit dem Bus
+4. Die Taxis sind … — The taxis are …  a) links vom Bahnhof  b) im Bahnhof  c) rechts vom Bahnhof
 
 ## Übung C5 — Schreiben
 

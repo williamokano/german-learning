@@ -54,6 +54,21 @@ buildsOn:
 > **Bruno:** Vielen Dank!  
 > **Frau:** Gern geschehen!  
 
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Bruno:** Excuse me, where is the train station, please?
+> **Frau:** The train station? That's far. Take the U-Bahn (subway)!
+> **Bruno:** And where is the stop?
+> **Frau:** Go straight ahead here, then take the first street on the left.\* The  
+> stop is by the church.\*\*  
+> **Bruno:** How long does that take on foot?  
+> **Frau:** Five minutes. Take line 5 and get off at the station.  
+> **Bruno:** Thank you very much!  
+> **Frau:** You're welcome!  
+
+</details>
+
 \* **Chunk alert:** `die erste / zweite Straße` — learn as chunks; ordinal numbers come in Lektion 12.  
 \*\* `an der Kirche`, `am Bahnhof` (at the church / at the station) — location chunks with `an`; the full `an/in/auf` preposition system comes at A2.
 
@@ -71,7 +86,24 @@ buildsOn:
 > **Jonas:** Eine Viertelstunde. Die Bahn fährt um zehn nach neun ab.  
 > **Anna:** Super. Kommst du mit?  
 > **Jonas:** Nein, ich kann nicht — ich muss zur Arbeit. Aber am Abend essen  
-> wir zusammen. Ich komme um sechs nach Hause.  
+> wir zusammen. Ich komme um sechs nach Hause.
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Anna:** Jonas, I want to go to the Museum Ludwig tomorrow. How do I get to the  
+> museum?  
+> **Jonas:** That's easy. You take line 16 to the cathedral. The  
+> stop is right here by the post office.  
+> **Anna:** Do I have to change?  
+> **Jonas:** No, you get off at the cathedral and walk two minutes.  
+> **Anna:** And how long does the trip take?  
+> **Jonas:** A quarter of an hour. The train leaves at 9:10.  
+> **Anna:** Great. Are you coming with me?  
+> **Jonas:** No, I can't — I have to go to work. But in the evening we'll eat  
+> together. I'll be home at six.
+
+</details>  
 
 ---
 
@@ -620,6 +652,16 @@ Am Sonntag fahren alle mit dem Fahrrad zum See am Stadtrand. Der Weg dauert eine
 > und der Park ist weit. Sie fährt mit dem Bus — sie nimmt die Linie 5 und
 > steigt am Bahnhof um. Von dort geht sie zu Fuß zum Park: geradeaus und
 > dann die erste Straße links. Der Weg dauert zwanzig Minuten.
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> Maria wants to go to the park on Sunday. She lives in the city center,
+> and the park is far. She takes the bus — she takes line 5 and
+> changes at the station. From there she walks to the park: straight ahead and
+> then the first street on the left. The walk takes twenty minutes.
+
+</details>
 
 </details>
 
