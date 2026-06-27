@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Anna wartet auf eine Nachricht von Bruno. ( )
 2. Bruno ärgert sich über das schlechte Wetter. ( )
@@ -21,7 +21,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Frau Weber wartet auf …  a) einen Anruf von Herrn Steinmeyer.  b) Herrn Steinmeyers Antwort zur Präsentation.  c) eine neue E-Mail-Adresse.
 2. Warum hat Frau Weber Herrn Steinmeyers E-Mail nicht bekommen?  a) Weil Herr Steinmeyer sie noch nicht geschickt hat.  b) Das ist unklar — sie hat nichts erhalten.  c) Weil sie das falsche Postfach geprüft hat.
@@ -32,7 +32,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Four words in the box are not needed.
+Höre und ergänze die 6 fehlenden Wörter. Vier Wörter im Kasten werden nicht gebraucht.
 
 > Yuki wohnt in München und (1) ______ sich sehr für japanische und deutsche Podcasts. Heute (2) ______ sie auf eine wichtige (3) ______ von ihrer Universität. Sie hat gestern nach dem Termin für ihre (4) ______ gefragt und (5) ______ auf eine schnelle Antwort. Während sie wartet, (6) ______ sie an ihre Freundin in Osaka und erzählt ihr von ihrem Alltag in Deutschland.
 
@@ -42,7 +42,7 @@ Listen and fill in the 6 missing words. Four words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Was bietet das Stadtmuseum ab heute an?  a) Eine neue Audio-App.  b) Eine Sonderausstellung.  c) Eine Rabattaktion.
 2. Wo kann man die App herunterladen?  a) Im Museumsshop.  b) Im Eingangsbereich.  c) Im ersten Stock.
@@ -79,7 +79,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A1 — Tabelle: Verben mit festen Präpositionen
 
-Write the correct preposition and case for each verb. Each row has two gaps (Präposition + Kasus).
+Schreibe die richtige Präposition und den Kasus für jedes Verb. Jede Zeile hat zwei Lücken (Präposition + Kasus).
 
 1. warten — ______ — ______
 2. sich freuen (happy about) — ______ — ______
@@ -94,7 +94,7 @@ Write the correct preposition and case for each verb. Each row has two gaps (Pr�
 
 ## Übung A2 — Präposition einsetzen (1)
 
-Fill in the correct fixed preposition.
+Ergänze die richtige feste Präposition.
 
 1. Ich warte ______ eine Nachricht von Anna.
 2. Bruno denkt oft ______ seine Familie.
@@ -109,7 +109,7 @@ Fill in the correct fixed preposition.
 
 ## Übung A3 — Akkusativ oder Dativ nach der Präposition?
 
-Choose the correct article form. Remember: fragen nach takes Dativ, all others take Akkusativ.
+Wähle die richtige Artikelform. Denke daran: fragen nach verlangt Dativ, alle anderen verlangen Akkusativ.
 
 1. Ich warte auf ____ Bus. (der Bus, m)  a) den  b) dem  c) der
 2. Sie denkt an ____ Familie. (die Familie, f)  a) die  b) der  c) den
@@ -122,7 +122,7 @@ Choose the correct article form. Remember: fragen nach takes Dativ, all others t
 
 ## Übung A4 — `sich freuen über` oder `sich freuen auf`?
 
-Decide which expression to use: über (present/past fact) or auf (future event).
+Entscheide, welcher Ausdruck passt: über (gegenwärtige/vergangene Tatsache) oder auf (zukünftiges Ereignis).
 
 1. Ich freue mich ______ das Konzert nächste Woche.
 2. Anna freut sich ______ die gute Note in der Prüfung.
@@ -135,7 +135,7 @@ Decide which expression to use: über (present/past fact) or auf (future event).
 
 ## Übung A5 — Vollständige Sätze (verb + preposition)
 
-Fill in the verb AND the preposition. Each item has two gaps.
+Ergänze das Verb UND die Präposition. Jede Aufgabe hat zwei Lücken.
 
 1. Ich ______ ______ dich, wenn du nicht schreibst. (denken an)
 2. Er ______ ______ seinen Chef, weil der Termin wieder verschoben wurde. (sich ärgern über)
@@ -145,7 +145,7 @@ Fill in the verb AND the preposition. Each item has two gaps.
 
 ## Übung A6 — Sätze umformen: Pronomen und Pronominaladverb
 
-A) Person → personal pronoun. B) Thing → Pronominaladverb (da- + preposition).
+A) Person → Personalpronomen. B) Sache → Pronominaladverb (da- + Präposition).
 
 A) Person → personal pronoun (3 items):
 1. Ich denke an meinen Vater. → Ich denke an ______.
@@ -159,7 +159,7 @@ B) Thing → Pronominaladverb (3 items):
 
 ## Übung A7 — Konjugation: Verben mit Präpositionen
 
-Conjugate the verb in brackets. Write the full conjugated form (verb + reflexive pronoun).
+Konjugiere das Verb in Klammern. Schreibe die ganze konjugierte Form (Verb + Reflexivpronomen).
 
 1. (warten auf) Ich ______ auf eine Nachricht.
 2. (warten auf) Du ______ auf den Bus.
@@ -172,7 +172,7 @@ Conjugate the verb in brackets. Write the full conjugated form (verb + reflexive
 
 ## Übung A8 — `fragen nach` (Dativ): Sätze bilden
 
-Build a sentence using `fragen nach` + Dativ. Write the Dativ article (e.g. `Ich frage nach dem Weg`).
+Bilde einen Satz mit `fragen nach` + Dativ. Schreibe den Dativ-Artikel (z. B. `Ich frage nach dem Weg`).
 
 1. die Uhrzeit → Ich frage nach ______ Uhrzeit.
 2. das Passwort → Ich frage nach ______ Passwort.
@@ -183,7 +183,7 @@ Build a sentence using `fragen nach` + Dativ. Write the Dativ article (e.g. `Ich
 
 ## Übung A9 — Verneinung: `nicht` einsetzen
 
-Negate each sentence with `nicht` (place it in the correct position).
+Verneine jeden Satz mit `nicht` (setze es an die richtige Stelle).
 
 1. Ich warte ______ auf eine Antwort.
 2. Er antwortet ______ auf meine E-Mail.
@@ -194,7 +194,7 @@ Negate each sentence with `nicht` (place it in the correct position).
 
 ## Übung A10 — Wortschatz: Paare finden
 
-Match the German word (1–8) with its English meaning (a–h).
+Ordne das deutsche Wort (1–8) der englischen Bedeutung (a–h) zu.
 
 | Links | | Rechts |
 |---|---|---|
@@ -209,7 +209,7 @@ Match the German word (1–8) with its English meaning (a–h).
 
 ## Übung A11 — Verben: Perfekt bilden
 
-Write the Perfekt Partizip II (ich habe ___).
+Schreibe das Perfekt Partizip II (ich habe ___).
 
 1. anrufen → Ich habe ______.
 2. herunterladen → Ich habe ______.
@@ -225,7 +225,7 @@ Write the Perfekt Partizip II (ich habe ___).
 
 ## Übung B1 — Dialog ergänzen
 
-Fill in the correct verb+preposition combination. Each item has two gaps.
+Ergänze die richtige Verb-Präposition-Verbindung. Jede Aufgabe hat zwei Lücken.
 
 — Hallo Bruno! Ich ______ ______ deine Nachricht von gestern Abend!
 — Sorry, ich war beschäftigt. Was ist los?
@@ -237,7 +237,7 @@ Fill in the correct verb+preposition combination. Each item has two gaps.
 
 ## Übung B2 — Finde den Fehler
 
-Each sentence has exactly one mistake. Write the correct form (verb/preposition/etc.) in the gap.
+Jeder Satz hat genau einen Fehler. Schreibe die richtige Form (Verb/Präposition usw.) in die Lücke.
 
 1. Ich warte ______ einen Anruf von meiner Mutter. (für → ?)
 2. Bruno interessiert sich ______ Sport im Fernsehen. (auf → ?)
@@ -252,7 +252,7 @@ Each sentence has exactly one mistake. Write the correct form (verb/preposition/
 
 ## Übung B3 — Frage und Antwort verbinden
 
-Match each question (1–8) with the correct answer (a–h).
+Ordne jede Frage (1–8) der richtigen Antwort (a–h) zu.
 
 | Links | | Rechts |
 |---|---|---|
@@ -267,7 +267,7 @@ Match each question (1–8) with the correct answer (a–h).
 
 ## Übung B4 — Satzbau (word order)
 
-Build a correct sentence from the scrambled words.
+Bilde aus den durcheinander gewürfelten Wörtern einen korrekten Satz.
 
 1. ich – Antwort – deine – warte – auf
 2. über – sich – die – Verbindung – langsame – ärgert – Bruno
@@ -318,7 +318,7 @@ Build a correct sentence from the scrambled words.
 
 ## Übung B8 — `nicht` oder `kein-`?
 
-Choose the correct negation and rewrite the gap.
+Wähle die richtige Verneinung und schreibe sie in die Lücke.
 
 1. Ich warte auf ______ Antwort. (no answer at all)
 2. Er antwortet auf meine Nachrichten ______. (he doesn't reply)
@@ -348,7 +348,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Anna lebt in Berlin und nutzt täglich ihr Smartphone. Sie interessiert ______ sehr
 für deutsche Serien. Abends wartet sie ______ neue Folgen ihrer Lieblingsserie —
@@ -375,7 +375,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Ten words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > Hallo! Ich heiße Minh und wohne seit einem Jahr in Berlin. Ich (1) ______ mich sehr
 > (2) ______ soziale Medien. Jeden Abend (3) ______ ich (4) ______ meine Eltern in Vietnam — ich
@@ -438,7 +438,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes.
+Eine Minute pro Aufgabe. Keine Notizen.
 
 1. `warten` → fixed preposition: ______
 2. `fragen` → fixed preposition + case: ______ + ______
@@ -458,7 +458,7 @@ One minute per item. No notes.
 
 ## Übung D2 — Odd one out
 
-Cross out the word/phrase that doesn't fit.
+Streiche das Wort oder die Phrase durch, das/die nicht passt.
 
 1. warten auf – denken an – fragen nach – hören für
 2. Folge – Sendung – Verbindung – Serie
