@@ -389,9 +389,33 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 — Bruno ist krank
 
-Text 1: „Bruno ist krank" in lesson.md, section 7. Bruno hat Kopfschmerzen und sein Hals ist rot. Anna sagt: „Du siehst schlecht aus! Geh zum Arzt!" Bruno hat einen Termin um 15 Uhr. Der Arzt sagt: „Bleiben Sie zu Hause, trinken Sie viel Tee, und nehmen Sie diese Tabletten." Bruno trinkt zu Hause Tee mit Honig.
+> Bruno fühlt sich heute nicht gut. Sein Kopf tut weh und sein Hals
+> ist rot und trocken. Er hat auch Husten und Schnupfen. Anna kommt
+> zu Besuch und sagt sofort: „Du siehst schlecht aus! Geh zum Arzt!"
+> Bruno seufzt: „Ich will nicht. Es ist nur eine Erkältung." Anna
+> schüttelt den Kopf. „Du sollst zum Arzt gehen, Bruno. Das ist keine
+> Option."
+>
+> Bruno ruft die Arztpraxis an. „Guten Tag, ich brauche einen
+> Termin", sagt er mit heiserer Stimme. „Haben Sie heute Fieber?",
+> fragt die Arzthelferin. „Ja, 38,5 Grad", sagt Bruno. „Kommen Sie
+> bitte um 15 Uhr", sagt die Arzthelferin.
+>
+> Beim Arzt sagt Doktor Müller: „Sie haben eine Erkältung. Bleiben
+> Sie morgen zu Hause. Trinken Sie viel Wasser und Tee. Nehmen Sie
+> diese Tabletten dreimal täglich nach dem Essen." Bruno geht in die
+> Apotheke und kauft die Medizin. Sieben Euro neunzig — nicht so
+> teuer.
+>
+> Zu Hause trinkt Bruno Tee mit Honig und legt sich ins Bett. Sein
+> Rücken tut auch ein bisschen weh — er liegt den ganzen Tag nicht
+> gut. Anna bringt ihm eine Suppe und zwei Kissen. „Trink die Suppe
+> und schlaf dann!", sagt sie. Bruno lacht ein bisschen — sein Hals
+> tut weh, aber er ist froh, dass Anna da ist. „Danke, Anna. Gute
+> Nacht!" „Gute Besserung!", sagt Anna und macht die Tür zu.
 
 Richtig (R) oder falsch (F)?
+
 
 1. Bruno hat Kopfschmerzen und Fieber. ( )
 2. Anna sagt: „Geh zum Arzt!" ( )
