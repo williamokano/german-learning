@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Telefonat Bürgeramt"
     audio: dialog1_a.mp3
-    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    instructions: "Höre und entscheide: richtig (R) oder falsch (F)?"
+    instructionsEn: "Listen and decide: true (R) or false (F)?"
     items:
       - { q: "Anna ruft das Bürgeramt an, um sich anzumelden. — Anna calls the Bürgeramt to register.", answer: true, why: 'Anna says: „Ich möchte mich anmelden. Welche Dokumente brauche ich?"' }
       - { q: "Anna braucht einen Personalausweis und einen Reisepass. — Anna needs an ID card and a passport.", answer: false, why: 'Anna braucht Personalausweis **oder** Reisepass, nicht beides.' }
@@ -27,7 +28,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Eine Verabredung ändern"
     audio: dialog1_c.mp3
-    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    instructions: "Höre und entscheide: richtig (R) oder falsch (F)?"
+    instructionsEn: "Listen and decide: true (R) or false (F)?"
     items:
       - { q: "Bruno ruft Anna an. — Bruno calls Anna.", answer: true, why: 'Bruno: „Hallo, Anna! Hier ist Bruno."' }
       - { q: "Bruno hat einen Arzttermin. — Bruno has a doctor's appointment.", answer: true, why: 'Bruno says: „Ich habe einen Termin beim Arzt."' }
@@ -97,7 +99,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Case recap: Nominativ or Akkusativ?"
-    instructions: "Label each noun as N (Nominativ) or A (Akkusativ), then write the correct article. Each item has two gaps."
+    instructions: "Markiere jedes Nomen als N (Nominativ) oder A (Akkusativ) und schreibe den richtigen Artikel. Jede Aufgabe hat zwei Lücken."
+    instructionsEn: "Label each noun as N (Nominativ) or A (Akkusativ), then write the correct article. Each item has two gaps."
     text: |
       1. {1} Sachbearbeiterin (f) fragt. (N / A: {2})
       2. Ich brauche {3} Personalausweis (m). (N / A: {4})
@@ -130,7 +133,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dative articles: dem, der, einem, einer"
-    instructions: "Fill the gap with the correct dative article (definite or indefinite as indicated)."
+    instructions: "Ergänze den richtigen Dativartikel (bestimmt oder unbestimmt, wie angegeben)."
+    instructionsEn: "Fill the gap with the correct dative article (definite or indefinite as indicated)."
     text: |
       1. Bruno wartet an {1} Schalter (m, def.).
       2. Ich arbeite bei {2} Arztpraxis (f, def.).
@@ -159,7 +163,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dative personal pronouns"
-    instructions: "Rewrite, replacing the underlined noun with a dative personal pronoun."
+    instructions: "Schreibe um und ersetze das unterstrichene Nomen durch ein Dativ-Personalpronomen."
+    instructionsEn: "Rewrite, replacing the underlined noun with a dative personal pronoun."
     text: |
       1. Könnten Sie {1} (der Frau) helfen?
       2. Ich schicke {2} (Herrn Keller) das Formular.
@@ -182,7 +187,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Separable verbs: anrufen, ausfüllen, ausstellen, anmelden"
-    instructions: "Fill in the correct form of the separable verb. Follow the Satzklammer rule (conjugated verb in position 2, prefix at the end)."
+    instructions: "Ergänze die richtige Form des trennbaren Verbs. Beachte die Satzklammer (Verb auf Position 2, Vorsilbe am Ende)."
+    instructionsEn: "Fill in the correct form of the separable verb. Follow the Satzklammer rule (conjugated verb in position 2, prefix at the end)."
     text: |
       1. Ich {1} das Bürgeramt {2}. (anrufen, ich)
       2. Bitte {3} Sie das Formular {4}. (ausfüllen, Sie-imperative)
@@ -215,7 +221,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Separable verbs in the Perfekt"
-    instructions: "Rewrite each sentence in the Perfekt. Remember: ge- goes between the prefix and the stem."
+    instructions: "Schreibe jeden Satz im Perfekt. Merke: „ge-\" steht zwischen Vorsilbe und Stamm."
+    instructionsEn: "Rewrite each sentence in the Perfekt. Remember: ge- goes between the prefix and the stem."
     text: |
       1. Ich rufe das Bürgeramt an. → Ich habe das Bürgeramt {1}.
       2. Du füllst das Formular aus. → Du hast das Formular {2}.
@@ -256,7 +263,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Telephone phrases: fill in the verb"
-    instructions: "Fill in the missing verb from: anrufen, sprechen, hinterlassen, stören, dauern, warten."
+    instructions: "Ergänze das fehlende Verb aus: anrufen, sprechen, hinterlassen, stören, dauern, warten."
+    instructionsEn: "Fill in the missing verb from: anrufen, sprechen, hinterlassen, stören, dauern, warten."
     text: |
       1. Ich {1} später noch einmal {2}.
       2. Kann ich mit Frau Müller {3}?
@@ -310,7 +318,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Mixed article drill: Nominativ / Akkusativ / Dativ"
-    instructions: "Choose the correct article (definite: der/die/das/den/dem; or as prompted)."
+    instructions: "Wähle den richtigen Artikel (bestimmt: der/die/das/den/dem; oder wie angegeben)."
+    instructionsEn: "Choose the correct article (definite: der/die/das/den/dem; or as prompted)."
     text: |
       1. {1} Termin (m, Nom.) beginnt um neun Uhr.
       2. Ich brauche {2} Reisepass (m, Akk., indef.).
@@ -359,7 +368,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "E-mail formulaic phrases: formal or informal?"
-    instructions: "Mark each phrase F (formal) or I (informal). Bonus: write the other register version below the gap."
+    instructions: "Markiere jede Phrase mit F (formell) oder I (informell). Bonus: schreibe die jeweils andere Variante unter die Lücke."
+    instructionsEn: "Mark each phrase F (formal) or I (informal). Bonus: write the other register version below the gap."
     text: |
       1. Sehr geehrte Frau Müller, → {1}
       2. Lieber Tom, → {2}
@@ -382,7 +392,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Numbers: dates (revision from L12)"
-    instructions: "Write the date in words (spoken form: *am … ten/sten*)."
+    instructions: "Schreibe das Datum in Worten (gesprochene Form: „am … ten/sten\")."
+    instructionsEn: "Write the date in words (spoken form: *am … ten/sten*)."
     text: |
       1. 1.3. → am {1}
       2. 8.11. → am {2}
@@ -405,7 +416,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Dialog ergänzen: Am Telefon"
-    instructions: "Fill in the gaps with one word each."
+    instructions: "Ergänze die Lücken mit je einem Wort."
+    instructionsEn: "Fill in the gaps with one word each."
     text: |
       — Bürgeramt Mitte, guten {1}.
       — Guten Tag! Mein {2} ist Petra Sommer. Ich {3} eine Frage.
@@ -463,7 +475,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
+    instructions: "Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form."
+    instructionsEn: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
     text: |
       1. Könnten Sie mir das Formular {1}? (schickt → ?)
       2. Ich rufe das Bürgeramt morgen {2}. (an → prefix to end)
@@ -523,7 +536,8 @@ exercises:
     block: B
     type: order
     title: "Satzbau (word order)"
-    instructions: "Build correct German sentences. Remember: separable prefix goes to the end; verb in position 2."
+    instructions: "Bilde korrekte deutsche Sätze. Merke: die trennbare Vorsilbe steht am Ende; das Verb auf Position 2."
+    instructionsEn: "Build correct German sentences. Remember: separable prefix goes to the end; verb in position 2."
     items:
       - tiles: [rufe, ich, das Bürgeramt, morgen, an]
         answer: [1, 0, 2, 3, 4]
@@ -554,7 +568,8 @@ exercises:
     block: B
     type: categorize
     title: "Categorizing: Amt, Telefon, or E-Mail?"
-    instructions: "Sort these 12 words or phrases into three columns. Note: Termin can appear in both Amt and Telefon contexts — accept in either."
+    instructions: "Sortiere diese 12 Wörter oder Phrasen in drei Spalten. Hinweis: „Termin\" kann sowohl im Amt- als auch im Telefon-Kontext vorkommen — beides ist okay."
+    instructionsEn: "Sort these 12 words or phrases into three columns. Note: Termin can appear in both Amt and Telefon contexts — accept in either."
     buckets:
       - { key: amt, label: "Amt" }
       - { key: telefon, label: "Telefon" }
@@ -578,7 +593,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler: Akkusativ oder Dativ?"
-    instructions: "In each sentence one case is wrong. Correct it. Items 4 and 5 are correct (write C)."
+    instructions: "In jedem Satz ist ein Fall falsch. Korrigiere ihn. Aufgaben 4 und 5 sind korrekt (schreibe C)."
+    instructionsEn: "In each sentence one case is wrong. Correct it. Items 4 and 5 are correct (write C)."
     text: |
       1. Ich gebe {1} Mann das Formular. (der → should be Dativ)
       2. Sie hilft {2} Frau. (den → should be der, Dativ fem.)
@@ -673,7 +689,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |
       Ich heiße Layla Hassan und ich wohne {1} dem 1. September in Berlin.
       Jetzt muss ich {2} beim Bürgeramt anmelden. Ich {3} das Amt an
@@ -748,7 +765,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Five words are not needed. Each word may be used once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps from the box. Five words are not needed. Each word may be used once."
     text: |
       — Guten Morgen! {1} Sie dieses Formular bitte ausfüllen?
       — Ja, natürlich. Aber ich verstehe Frage 5 {2}.
@@ -886,7 +904,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest (incl. earlier lessons)"
-    instructions: "One answer per item. No notes."
+    instructions: "Eine Antwort pro Aufgabe. Keine Notizen."
+    instructionsEn: "One answer per item. No notes."
     text: |
       1. anmelden (ich, present): Ich melde mich {1}.
       2. (L8) dative preposition for "with": {2}
@@ -925,7 +944,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd one out"
-    instructions: "Cross out the word that does not fit."
+    instructions: "Streiche das Wort durch, das nicht passt."
+    instructionsEn: "Cross out the word that does not fit."
     groups:
       - items: [anrufen, ausfüllen, anmelden, kaufen]
         odd: 3
