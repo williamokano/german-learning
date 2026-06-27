@@ -357,7 +357,12 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Warum die Berufssprache so funktioniert)
 
-Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?
+> Wer zum ersten Mal an einem Meeting teilnimmt oder ein Protokoll liest, wundert sich oft über die Sprache. Niemand „entscheidet" etwas — man „trifft eine Entscheidung". Niemand „fragt" — man „stellt eine Frage". Und wer einen Vorschlag schlecht findet, sagt nicht „das finde ich schlecht", sondern „daran möchte ich Kritik üben". Diese festen Verbindungen aus einem fast leeren Verb und einem Nomen heißen Funktionsverbgefüge.
+> Warum spricht die Berufswelt so? Erstens klingt das Funktionsverbgefüge **sachlicher**: Wer Kritik an einer Sache übt, greift nicht eine Person an. Zweitens wirkt es **distanzierter** — die Verantwortung steckt im Nomen, nicht in einer Person. Und drittens ist es ein **Signal der Zugehörigkeit**: Wer im Meeting sagt „der Kostenfaktor spielt eine zentrale Rolle" und „das kommt für uns nicht in Frage", zeigt, dass er die Sprache des Hauses beherrscht.
+> Trotz dieser Vorteile gilt auch hier eine Grenze: Ein Text, der nur aus Funktionsverbgefügen besteht, ist genauso schwer zu lesen wie reiner Nominalstil. Deshalb raten gute Stilratgeber zu einer Mischung. Man bringt die wichtigen Punkte formell zum Ausdruck, erklärt sie aber in klaren, verbalen Sätzen. Wer beides beherrscht und je nach Situation wechseln kann, hat den entscheidenden Schritt vom „Deutsch der Prüfung" zum „Deutsch des Berufs" getan.
+
+Richtig (R) oder falsch (F)?
+
 
 1. In der Berufswelt sagt man statt „entscheiden“ oft „eine Entscheidung treffen“. ( )
 2. Laut Text klingt das Funktionsverbgefüge persönlicher und greift Personen direkt an. ( )
