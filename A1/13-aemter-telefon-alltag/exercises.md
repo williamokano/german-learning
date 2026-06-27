@@ -12,10 +12,10 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen and decide: richtig (R) oder falsch (F)?
 
-1. Anna ruft das Bürgeramt an, um sich anzumelden. ( )
-2. Anna braucht einen Personalausweis und einen Reisepass. ( )
-3. Der Termin dauert ungefähr eine Stunde. ( )
-4. Anna möchte den Termin online buchen. ( )
+1. Anna ruft das Bürgeramt an, um sich anzumelden. — Anna calls the Bürgeramt to register. ( )
+2. Anna braucht einen Personalausweis und einen Reisepass. — Anna needs an ID card and a passport. ( )
+3. Der Termin dauert ungefähr eine Stunde. — The appointment lasts about one hour. ( )
+4. Anna möchte den Termin online buchen. — Anna wants to book the appointment online. ( )
 
 ## Übung H1b — Dialog Hör-Check: Eine Verabredung ändern
 
@@ -23,10 +23,10 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 Listen and decide: richtig (R) oder falsch (F)?
 
-1. Bruno ruft Anna an. ( )
-2. Bruno hat einen Arzttermin. ( )
-3. Anna und Bruno treffen sich um drei Uhr. ( )
-4. Bruno sagt, der neue Termin passt ihm gut. ( )
+1. Bruno ruft Anna an. — Bruno calls Anna. ( )
+2. Bruno hat einen Arzttermin. — Bruno has a doctor's appointment. ( )
+3. Anna und Bruno treffen sich um drei Uhr. — Anna and Bruno are meeting at three o'clock. ( )
+4. Bruno sagt, der neue Termin passt ihm gut. — Bruno says the new appointment works well for him. ( )
 
 ## Übung H3 — Hörtext-Lückentext: Anmeldung in Berlin
 
@@ -44,10 +44,10 @@ Höre den Text und fülle die Lücken. Achtung: Zwei Wörter passen nicht!
 
 Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Was ist das für eine Durchsage?  a) Vom Supermarkt.  b) Vom Bürgeramt.  c) Vom Bahnhof.
-2. Wann öffnet das Bürgeramt heute?  a) Um acht Uhr.  b) Um neun Uhr.  c) Um zehn Uhr.
-3. Warum öffnet das Bürgeramt später?  a) Wegen einer Fortbildung.  b) Wegen eines Feiertags.  c) Wegen einer Reparatur.
-4. Wie kann man einen Termin buchen?  a) Nur telefonisch.  b) Online.  c) Nur persönlich.
+1. Was ist das für eine Durchsage? — What kind of announcement is this?  a) Vom Supermarkt.  b) Vom Bürgeramt.  c) Vom Bahnhof.
+2. Wann öffnet das Bürgeramt heute? — When does the Bürgeramt open today?  a) Um acht Uhr.  b) Um neun Uhr.  c) Um zehn Uhr.
+3. Warum öffnet das Bürgeramt später? — Why is the Bürgeramt opening later?  a) Wegen einer Fortbildung.  b) Wegen eines Feiertags.  c) Wegen einer Reparatur.
+4. Wie kann man einen Termin buchen? — How can you book an appointment?  a) Nur telefonisch.  b) Online.  c) Nur persönlich.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -371,12 +371,12 @@ unterschreibe. Die Beamtin prüft alles und sagt: „Alles in ______!"
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Ich rufe (1) ____ der Anmeldung an.  a) seit  b) wegen  c) nach
-2. Haben Sie (2) ____ Termin?  a) einen  b) ein  c) eine
-3. (3) ____ ich bitte online buchen?  a) Darf  b) Kann  c) Muss
-4. Sie (4) ____ Ihren Reisepass und einen Wohnungsgebernachweis mitbringen.  a) müsst  b) müssen  c) muss
-5. Und wie lange (5) ____ das?  a) dauern  b) dauert  c) dauern Sie
-6. Möchten Sie (6) ____ jetzt online buchen?  a) das  b) sich  c) ihn
+1. Ich rufe (1) ____ der Anmeldung an. — I'm calling (1) ____ the registration.  a) seit  b) wegen  c) nach
+2. Haben Sie (2) ____ Termin? — Do you have (2) ____ appointment?  a) einen  b) ein  c) eine
+3. (3) ____ ich bitte online buchen? — (3) ____ I please book online?  a) Darf  b) Kann  c) Muss
+4. Sie (4) ____ Ihren Reisepass und einen Wohnungsgebernachweis mitbringen. — You (4) ____ bring your passport and a landlord's confirmation of tenancy.  a) müsst  b) müssen  c) muss
+5. Und wie lange (5) ____ das? — And how long does (5) ____ that take?  a) dauern  b) dauert  c) dauern Sie
+6. Möchten Sie (6) ____ jetzt online buchen? — Would you like to book (6) ____ online now?  a) das  b) sich  c) ihn
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -420,11 +420,11 @@ Five words are not needed.
 Richtig (R) oder falsch (F)?
 
 
-1. Bruno wohnt in Mitte. ( )
-2. Sein Vermieter heißt Herr Koch. ( )
-3. Bruno hat keinen Wohnungsgebernachweis. ( )
-4. Bruno bucht einen Termin für Dienstag. ( )
-5. Bruno muss kein Formular ausfüllen. ( )
+1. Bruno wohnt in Mitte. — Bruno lives in Mitte. ( )
+2. Sein Vermieter heißt Herr Koch. — His landlord's name is Mr. Koch. ( )
+3. Bruno hat keinen Wohnungsgebernachweis. — Bruno doesn't have a landlord's confirmation of tenancy. ( )
+4. Bruno bucht einen Termin für Dienstag. — Bruno books an appointment for Tuesday. ( )
+5. Bruno muss kein Formular ausfüllen. — Bruno doesn't have to fill out a form. ( )
 
 ## Übung C4b — Lesen Text 2 — Bürgeramt-FAQ
 
@@ -438,10 +438,10 @@ Website extract:
 Wähle a, b oder c.
 
 
-1. Den Wohnungsgebernachweis bekommt man von …  a) dem Bürgeramt.  b) dem Vermieter.  c) dem Finanzamt.
-2. Ohne Termin …  a) kann man kommen.  b) kostet es mehr.  c) ist keine Beratung möglich.
-3. Die Anmeldung kostet …  a) 15 Euro.  b) 20 Euro.  c) nichts.
-4. Ein Termin dauert …  a) ungefähr eine Stunde.  b) ungefähr 15–20 Minuten.  c) ungefähr 5 Minuten.
+1. Den Wohnungsgebernachweis bekommt man von … — You get the landlord's confirmation of tenancy from …  a) dem Bürgeramt.  b) dem Vermieter.  c) dem Finanzamt.
+2. Ohne Termin … — Without an appointment …  a) kann man kommen.  b) kostet es mehr.  c) ist keine Beratung möglich.
+3. Die Anmeldung kostet … — Registration costs …  a) 15 Euro.  b) 20 Euro.  c) nichts.
+4. Ein Termin dauert … — An appointment lasts …  a) ungefähr eine Stunde.  b) ungefähr 15–20 Minuten.  c) ungefähr 5 Minuten.
 
 ## Übung C5 — Schreiben: formal e-mail to the Bürgeramt
 
