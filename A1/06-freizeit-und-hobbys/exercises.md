@@ -12,8 +12,8 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen and decide: richtig (R) oder falsch (F)?
 
-1. Bruno spielt gern Fußball. ( )
-2. Anna geht auch gern ins Schwimmbad. ( )
+1. Bruno spielt gern Fußball. — Bruno likes playing football. ( )
+2. Anna geht auch gern ins Schwimmbad. — Anna also likes going to the pool. ( )
 
 ## Übung H1b — Dialog 2: Das Wetter ist schlecht
 
@@ -21,8 +21,8 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 Listen and decide: richtig (R) oder falsch (F)?
 
-1. Im zweiten Dialog regnet es. ( )
-2. Am Ende gehen Anna und Bruno ins Kino. ( )
+1. Im zweiten Dialog regnet es. — In the second dialog it is raining. ( )
+2. Am Ende gehen Anna und Bruno ins Kino. — At the end Anna and Bruno go to the movies. ( )
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -43,10 +43,10 @@ Listen and fill each gap with one word from the bank. Three words are not needed
 
 Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Wessen Nachricht ist das?  a) Von Anna.  b) Von Tom.  c) Von Maria.
-2. Worum geht es?  a) Um einen Yoga-Kurs.  b) Um einen Computerkurs.  c) Um einen Sprachkurs.
-3. Was soll Anna mitbringen?  a) Eine Matte und bequeme Kleidung.  b) Einen Laptop.  c) Ein Buch.
-4. Was kostet der Kurs pro Stunde?  a) Zehn Euro.  b) Fünfzehn Euro.  c) Zwanzig Euro.
+1. Wessen Nachricht ist das? — Whose message is this?  a) Von Anna.  b) Von Tom.  c) Von Maria.
+2. Worum geht es? — What is it about?  a) Um einen Yoga-Kurs.  b) Um einen Computerkurs.  c) Um einen Sprachkurs.
+3. Was soll Anna mitbringen? — What should Anna bring?  a) Eine Matte und bequeme Kleidung.  b) Einen Laptop.  c) Ein Buch.
+4. Was kostet der Kurs pro Stunde? — How much does the course cost per hour?  a) Zehn Euro.  b) Fünfzehn Euro.  c) Zwanzig Euro.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -353,12 +353,12 @@ einen Freund (8) ______: „Wir (9) ______ ins Kino gehen! Hast du
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Am Samstag (1) ____ ich Freunde — wir spielen Fußball im Park.  a) treffe  b) triffst  c) trifft
-2. Das Wetter ist schön: Die Sonne (2) ____ und es ist warm.  a) regnet  b) scheint  c) schneit
-3. Am Sonntag (3) ____ Bruno und ich Rad fahren.  a) kann  b) können  c) könnt
-4. Ich schwimme gern, aber ich fahre (4) ____ Rad.  a) lieber  b) liebsten  c) am
-5. Hast du (5) ____? Wir können zusammen Fußball spielen.  a) Lust  b) Durst  c) Wetter
-6. Bis (6) ____!  a) bald  b) gern  c) warm
+1. Am Samstag (1) ____ ich Freunde — wir spielen Fußball im Park. — On Saturdays I (1) ____ friends — we play football in the park.  a) treffe  b) triffst  c) trifft
+2. Das Wetter ist schön: Die Sonne (2) ____ und es ist warm. — The weather is nice: the sun (2) ____ and it is warm.  a) regnet  b) scheint  c) schneit
+3. Am Sonntag (3) ____ Bruno und ich Rad fahren. — On Sundays Bruno and I (3) ____ go cycling.  a) kann  b) können  c) könnt
+4. Ich schwimme gern, aber ich fahre (4) ____ Rad. — I like swimming, but I (4) ____ cycle.  a) lieber  b) liebsten  c) am
+5. Hast du (5) ____? Wir können zusammen Fußball spielen. — Do you feel like (5) ____? We can play football together.  a) Lust  b) Durst  c) Wetter
+6. Bis (6) ____! — See you (6) ____!  a) bald  b) gern  c) warm
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -398,11 +398,11 @@ Five words are not needed.
 Richtig (R) oder falsch (F)?
 
 
-1. Anna liest am liebsten Krimis. ( )
-2. Felix macht gern Sport. ( )
-3. Lena fährt im Winter Ski. ( )
-4. Oma Erika wandert auch im Herbst. ( )
-5. Im Winter liest Oma Erika oder sieht fern. ( )
+1. Anna liest am liebsten Krimis. — Anna likes reading crime novels most of all. ( )
+2. Felix macht gern Sport. — Felix likes doing sports. ( )
+3. Lena fährt im Winter Ski. — Lena skis in winter. ( )
+4. Oma Erika wandert auch im Herbst. — Grandma Erika also hikes in autumn. ( )
+5. Im Winter liest Oma Erika oder sieht fern. — In winter Grandma Erika reads or watches TV. ( )
 
 ## Übung C4b — Lesen Text 2 — Freizeitzentrum Köln-Süd
 
@@ -420,10 +420,10 @@ Text:
 Wähle a, b oder c.
 
 
-1. Das Schwimmbad ist am Samstag …  a) von 7 bis 22 Uhr  b) von 9 bis 20 Uhr  c) von 18 bis 20 Uhr
-2. Ein Kind zahlt im Schwimmbad …  a) 4,50 €  b) 10 €  c) 2,50 €
-3. Der Tenniskurs ist …  a) am Montag  b) am Mittwoch  c) am Sonntag
-4. Das Kino im Park gibt es …  a) im Winter  b) am Morgen  c) im Sommer
+1. Das Schwimmbad ist am Samstag … — The swimming pool on Saturday is …  a) von 7 bis 22 Uhr  b) von 9 bis 20 Uhr  c) von 18 bis 20 Uhr
+2. Ein Kind zahlt im Schwimmbad … — A child pays at the swimming pool …  a) 4,50 €  b) 10 €  c) 2,50 €
+3. Der Tenniskurs ist … — The tennis course is …  a) am Montag  b) am Mittwoch  c) am Sonntag
+4. Das Kino im Park gibt es … — The cinema in the park is …  a) im Winter  b) am Morgen  c) im Sommer
 
 ## Übung C5 — Schreiben: Meine Freizeit
 

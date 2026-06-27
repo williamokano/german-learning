@@ -17,10 +17,10 @@ exercises:
     audio: dialog1.mp3
     instructions: "Listen and decide: richtig (R) oder falsch (F)?"
     items:
-      - q: "Bruno spielt gern Fußball."
+      - q: "Bruno spielt gern Fußball. — Bruno likes playing football."
         answer: true
         why: 'Bruno sagt: „Ich spiele gern Fußball!"'
-      - q: "Anna geht auch gern ins Schwimmbad."
+      - q: "Anna geht auch gern ins Schwimmbad. — Anna also likes going to the pool."
         answer: false
         why: 'Anna geht nur „im Sommer" schwimmen — sie sagt nie „gern".'
 
@@ -31,10 +31,10 @@ exercises:
     audio: dialog2.mp3
     instructions: "Listen and decide: richtig (R) oder falsch (F)?"
     items:
-      - q: "Im zweiten Dialog regnet es."
+      - q: "Im zweiten Dialog regnet es. — In the second dialog it is raining."
         answer: true
         why: 'Bruno: „Es regnet und es ist windig."'
-      - q: "Am Ende gehen Anna und Bruno ins Kino."
+      - q: "Am Ende gehen Anna und Bruno ins Kino. — At the end Anna and Bruno go to the movies."
         answer: false
         why: 'Anna „kann heute nicht" (sie trifft ihre Schwester) — nur Bruno geht ins Kino.'
 
@@ -67,28 +67,28 @@ exercises:
     instructionsEn: "Listen to the message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: 'Hallo Anna, hier ist Tom. Ich rufe an wegen dem Yoga-Kurs am Samstag. Der Kurs fängt um zehn Uhr morgens im Sportstudio „aktiv" an. Du brauchst nur bequeme Kleidung und eine Matte. Der Kurs kostet fünfzehn Euro pro Stunde. Du kannst auch ohne Anmeldung kommen. Bitte ruf mich zurück, wenn du mitmachen willst! Vielen Dank!'
     items:
-      - q: "Wessen Nachricht ist das?"
+      - q: "Wessen Nachricht ist das? — Whose message is this?"
         options:
           - { key: a, text: "Von Anna." }
           - { key: b, text: "Von Tom." }
           - { key: c, text: "Von Maria." }
         answer: b
         why: 'Hallo Anna, hier ist Tom.'
-      - q: "Worum geht es?"
+      - q: "Worum geht es? — What is it about?"
         options:
           - { key: a, text: "Um einen Yoga-Kurs." }
           - { key: b, text: "Um einen Computerkurs." }
           - { key: c, text: "Um einen Sprachkurs." }
         answer: a
         why: '„Ich rufe an wegen dem Yoga-Kurs am Samstag."'
-      - q: "Was soll Anna mitbringen?"
+      - q: "Was soll Anna mitbringen? — What should Anna bring?"
         options:
           - { key: a, text: "Eine Matte und bequeme Kleidung." }
           - { key: b, text: "Einen Laptop." }
           - { key: c, text: "Ein Buch." }
         answer: a
         why: '„Du brauchst nur bequeme Kleidung und eine Matte."'
-      - q: "Was kostet der Kurs pro Stunde?"
+      - q: "Was kostet der Kurs pro Stunde? — How much does the course cost per hour?"
         options:
           - { key: a, text: "Zehn Euro." }
           - { key: b, text: "Fünfzehn Euro." }
@@ -689,42 +689,42 @@ exercises:
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
-      - q: "Am Samstag (1) ____ ich Freunde — wir spielen Fußball im Park."
+      - q: "Am Samstag (1) ____ ich Freunde — wir spielen Fußball im Park. — On Saturdays I (1) ____ friends — we play football in the park."
         options:
           - { key: a, text: "treffe" }
           - { key: b, text: "triffst" }
           - { key: c, text: "trifft" }
         answer: a
         why: "ich-Form: treffe."
-      - q: "Das Wetter ist schön: Die Sonne (2) ____ und es ist warm."
+      - q: "Das Wetter ist schön: Die Sonne (2) ____ und es ist warm. — The weather is nice: the sun (2) ____ and it is warm."
         options:
           - { key: a, text: "regnet" }
           - { key: b, text: "scheint" }
           - { key: c, text: "schneit" }
         answer: b
         why: 'the sun shines — it doesn''t rain in a „schön" weather report.'
-      - q: "Am Sonntag (3) ____ Bruno und ich Rad fahren."
+      - q: "Am Sonntag (3) ____ Bruno und ich Rad fahren. — On Sundays Bruno and I (3) ____ go cycling."
         options:
           - { key: a, text: "kann" }
           - { key: b, text: "können" }
           - { key: c, text: "könnt" }
         answer: b
         why: "Bruno und ich = wir → können."
-      - q: "Ich schwimme gern, aber ich fahre (4) ____ Rad."
+      - q: "Ich schwimme gern, aber ich fahre (4) ____ Rad. — I like swimming, but I (4) ____ cycle."
         options:
           - { key: a, text: "lieber" }
           - { key: b, text: "liebsten" }
           - { key: c, text: "am" }
         answer: a
         why: 'preference after „aber" — lieber.'
-      - q: "Hast du (5) ____? Wir können zusammen Fußball spielen."
+      - q: "Hast du (5) ____? Wir können zusammen Fußball spielen. — Do you feel like (5) ____? We can play football together."
         options:
           - { key: a, text: "Lust" }
           - { key: b, text: "Durst" }
           - { key: c, text: "Wetter" }
         answer: a
         why: "Hast du Lust? = the suggestion chunk."
-      - q: "Bis (6) ____!"
+      - q: "Bis (6) ____! — See you (6) ____!"
         options:
           - { key: a, text: "bald" }
           - { key: b, text: "gern" }
@@ -782,19 +782,19 @@ exercises:
 
       Richtig (R) oder falsch (F)?
     items:
-      - q: "Anna liest am liebsten Krimis."
+      - q: "Anna liest am liebsten Krimis. — Anna likes reading crime novels most of all."
         answer: true
         why: "Anna liest sehr gern — am liebsten Krimis."
-      - q: "Felix macht gern Sport."
+      - q: "Felix macht gern Sport. — Felix likes doing sports."
         answer: false
         why: "Felix findet Sport langweilig."
-      - q: "Lena fährt im Winter Ski."
+      - q: "Lena fährt im Winter Ski. — Lena skis in winter."
         answer: true
         why: "Lena fährt im Winter Ski."
-      - q: "Oma Erika wandert auch im Herbst."
+      - q: "Oma Erika wandert auch im Herbst. — Grandma Erika also hikes in autumn."
         answer: false
         why: "Oma Erika wandert nur im Frühling und im Sommer."
-      - q: "Im Winter liest Oma Erika oder sieht fern."
+      - q: "Im Winter liest Oma Erika oder sieht fern. — In winter Grandma Erika reads or watches TV."
         answer: true
         why: "Im Winter liest Oma Erika oder sieht fern."
 
@@ -816,28 +816,28 @@ exercises:
 
       Wähle a, b oder c.
     items:
-      - q: "Das Schwimmbad ist am Samstag …"
+      - q: "Das Schwimmbad ist am Samstag … — The swimming pool on Saturday is …"
         options:
           - { key: a, text: "von 7 bis 22 Uhr" }
           - { key: b, text: "von 9 bis 20 Uhr" }
           - { key: c, text: "von 18 bis 20 Uhr" }
         answer: b
         why: "am Wochenende (Samstag) von 9 bis 20 Uhr."
-      - q: "Ein Kind zahlt im Schwimmbad …"
+      - q: "Ein Kind zahlt im Schwimmbad … — A child pays at the swimming pool …"
         options:
           - { key: a, text: "4,50 €" }
           - { key: b, text: "10 €" }
           - { key: c, text: "2,50 €" }
         answer: c
         why: "Kinder 2,50 €."
-      - q: "Der Tenniskurs ist …"
+      - q: "Der Tenniskurs ist … — The tennis course is …"
         options:
           - { key: a, text: "am Montag" }
           - { key: b, text: "am Mittwoch" }
           - { key: c, text: "am Sonntag" }
         answer: b
         why: "Tenniskurs am Mittwoch."
-      - q: "Das Kino im Park gibt es …"
+      - q: "Das Kino im Park gibt es … — The cinema in the park is …"
         options:
           - { key: a, text: "im Winter" }
           - { key: b, text: "am Morgen" }

@@ -57,6 +57,20 @@ buildsOn:
 > **Bruno:** Toll! Ich kann nicht singen und ich kann kein Instrument spielen.  
 > Aber ich koche sehr gern — am liebsten brasilianisch!
 
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Anna:** Bruno, what do you like doing in your free time?  
+> **Bruno:** I like playing football! On Saturdays I always play with friends in the park.\* And I like swimming. And you?  
+> **Anna:** I really like reading — most of all crime novels. And I like cycling.  
+> **Bruno:** Can you swim too?  
+> **Anna:** Yes, but not very well. And I only go swimming in summer — in winter the water is too cold!  
+> **Bruno:** Do you play an instrument?  
+> **Anna:** Yes, I play guitar. And my brother Felix can play piano really well.  
+> **Bruno:** Cool! I can't sing and I can't play any instrument. But I really like cooking — most of all Brazilian food!  
+
+</details>
+
 \* `mit Freunden`, `im Park` — preposition chunks for now; the preposition
 system starts in Lektion 8.
 
@@ -77,6 +91,25 @@ system starts in Lektion 8.
 > **Anna:** Tut mir leid,\*\* ich kann heute nicht. Ich treffe meine Schwester.  
 > **Bruno:** Schade! Vielleicht am Sonntag?  
 > **Anna:** Ja, gern! Bis Sonntag!
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Paula:** Bruno, what's the weather like today?  
+> **Bruno:** Not good. It's raining and it's windy — it's only twelve degrees.  
+> **Paula:** Too bad! Then we can't go swimming.  
+> **Bruno:** No. But we can go to the movies! There's a film for kids on.  
+> **Paula:** Good idea! Sofia likes watching films. What time does the film start?  
+> **Bruno:** At half past two.  
+> **Paula:** Perfect. And tomorrow the sun is shining — then we'll go cycling!  
+>
+> *(later, on the phone)*  
+> **Bruno:** Hello Anna! We're going to the movies today. Do you feel like it?\* Are you coming along?  
+> **Anna:** Sorry,\*\* I can't today. I'm meeting my sister.  
+> **Bruno:** Too bad! Maybe on Sunday?  
+> **Anna:** Yes, gladly! See you Sunday!  
+
+</details>
 
 \* `Hast du Lust?` (Do you feel like it?) — learn as a chunk. The full pattern
 (`Lust auf etwas haben`) comes at A2.  
@@ -580,6 +613,13 @@ an — für Oma Erika ist das auch ein Hobby!
 > ist im Park. Anna sieht lieber fern oder hört Musik. Am Abend
 > kochen sie zusammen und essen Pizza. Bruno kann gut kochen — Anna
 > nicht so gut.
+
+</details>
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> On Saturday Bruno likes playing football in the park. Sometimes he also plays tennis with Anna. On Sunday he goes swimming — the swimming pool is in the park. Anna prefers to watch TV or listen to music. In the evening they cook together and eat pizza. Bruno can cook well — Anna not so much.
 
 </details>
 
