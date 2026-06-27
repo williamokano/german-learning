@@ -367,7 +367,13 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Wie funktioniert deutsche Wortbildung?)
 
-Lies den Lesetext in lesson.md, §7. Richtig (R) oder falsch (F)?
+> Wer eine neue Sprache lernt, kennt das Problem: Man stößt auf unbekannte Wörter, schlägt sie nach, vergisst sie, schlägt sie erneut nach. Bei einer **flektierenden** Sprache wie dem Deutschen gibt es jedoch einen Ausweg — das **Wortbildungssystem**. Wer die Bausteine kennt, kann aus bekannten Wörtern unbekannte ableiten und umgekehrt.
+> Das System hat drei große Säulen. Die erste sind die **Vorsilben** (Präfixe): kleine Silben vor dem Verbstamm, die die Bedeutung verändern. *Ver-* steht oft für „Veränderung oder Abschluss" (*verändern, verreisen, verschwinden*). *Zer-* bedeutet „Trennung" (*zerbrechen, zerreißen, zerstören*). *Ent-* bedeutet „Entfernung" (*entfernen, entschuldigen, entwickeln*). *Miss-* markiert das Negative (*missverstehen, missachten, Misserfolg*). Wer diese vier Vorsilben sicher kennt, kann die Bedeutung vieler unbekannter Verben erraten.
+> Die zweite Säule sind die **Nachsilben** (Suffixe). Sie bestimmen, welche Wortart aus einem Stamm entsteht. *-ung* macht aus jedem transitiven Verb ein Nomen (*lösen → Lösung, entscheiden → Entscheidung, bezahlen → Bezahlung*). *-heit* und *-keit* machen aus Adjektiven abstrakte Nomen (*frei → Freiheit, pünktlich → Pünktlichkeit*). *-bar* macht aus Verben Adjektive mit passiver Bedeutung (*bezahlen → bezahlbar, vergleichen → vergleichbar*). *-los* bildet das Gegenteil (*arbeitslos, sprachlos*).
+> Die dritte Säule sind die **Komposita** — zusammengesetzte Wörter. Das Deutsche liebt sie, und sie sind oft der Schlüssel zu langen Fachbegriffen. *Verkehrswende = Verkehr + Wende*. *Entscheidungsträgerin = Entscheidung + Träger + -in*. *Klimaschutz = Klima + Schutz*. Der Grundbegriff steht immer rechts, der Bestimmbegriff links, dazwischen oft ein Fugenelement (*-s-, -n-, -en-, -er-*). Wer diese drei Säulen beherrscht, hat nicht nur Tausende neuer Wörter zur Hand, sondern kann auch selbst lange, präzise Komposita bilden.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Im Deutschen kann man aus bekannten Wörtern unbekannte ableiten. ( )
 2. Laut Text gibt es im Deutschen nur zwei Säulen der Wortbildung. ( )
