@@ -406,7 +406,16 @@ Ten words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Brunos Reisebericht)
 
-Read „Brunos Reisebericht" in lesson.md, section 5. Richtig (R) oder falsch (F)?
+> Bruno ist letztes Wochenende mit Anna nach Hamburg gefahren. Die Fahrt mit dem Zug von Berlin nach Hamburg hat genau eine Stunde und fünfzig Minuten gedauert. Sie sind am Hauptbahnhof angekommen und haben ihr Gepäck direkt ins Hotel gebracht. Das Hotel lag am Hafen, zwischen dem Fischmarkt und einem kleinen Park.
+>
+> Am ersten Tag sind sie zuerst auf den Fischmarkt gegangen. Der Markt findet jeden Sonntagmorgen am frühen Morgen statt — er liegt direkt am Wasser, an der Elbe. Danach sind sie in die Speicherstadt gefahren, ein altes Lagerviertel im Süden des Hafens. Die roten Backsteingebäude stehen direkt an den Kanälen. Bruno hat viele Fotos gemacht.
+>
+> Am zweiten Tag haben sie die Elbphilharmonie besichtigt. Das Konzerthaus liegt auf einer kleinen Halbinsel im Hafen. Vom Aussichtspunkt oben auf dem Gebäude kann man weit über die Stadt sehen — bei klarem Wetter bis zu den Feldern nördlich von Hamburg. Anna hat gesagt: „Diesen Ausblick hätte ich mir nie so schön vorgestellt!"
+>
+> Am Abend haben sie in einem Restaurant in der Nähe des Bahnhofs gegessen. Das Essen war lecker und nicht zu teuer. Schließlich sind sie am Sonntag mit dem Zug zurück nach Berlin gefahren. Bruno würde Hamburg sofort wieder besuchen — er empfiehlt die Stadt wärmstens.
+
+Richtig (R) oder falsch (F)?
+
 
 1. Bruno ist mit dem Auto nach Hamburg gefahren. ( )
 2. Das Hotel lag am Hafen, zwischen dem Fischmarkt und einem Park. ( )
