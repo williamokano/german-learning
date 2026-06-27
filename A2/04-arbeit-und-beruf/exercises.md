@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Bruno sucht einen neuen Job. ( )
 2. Bruno hat noch keine Bewerbungen geschickt. ( )
@@ -21,7 +21,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Frau Weber möchte sich für welche Stelle bewerben?  a) als Koordinatorin  b) als Projektleiterin  c) als Managerin
 2. Wie lange hat Frau Weber als Koordinatorin gearbeitet?  a) zwei Jahre  b) drei Jahre  c) fünf Jahre
@@ -32,7 +32,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 6 missing words. Three words in the box are not needed.
+Höre und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Yuki arbeitet seit drei Monaten als (1) ______ in einem (2) ______ in München. Wenn sie früh (3) ______, beginnt ihr Tag um sechs Uhr (4) ______. Sie macht eine (5) ______, wenn es ruhig ist. Nach der Arbeit lernt sie Deutsch in einem (6) ______.
 
@@ -42,7 +42,7 @@ Listen and fill in the 6 missing words. Three words in the box are not needed.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the phone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Telefonansage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Von welcher Firma ruft Frau Schäfer an?  a) Von der Personalagentur „Jobwelt".  b) Von der Firma „Jobfinder".  c) Vom IT-Unternehmen „Future".
 2. Für welche Stelle hat sich der Bewerber beworben?  a) Als Kellner.  b) Als Projektleiter.  c) Als IT-Assistent.
@@ -79,7 +79,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 
 ## Übung A1 — `wenn`-Sätze: Verben ans Ende
 
-Move the verb to the correct position in the `wenn`-clause. Write the final verb.
+Bringe das Verb an die richtige Position im `wenn`-Satz. Schreibe das Verb am Ende.
 
 1. Er ruft an. → Er ruft an, wenn er fertig ______.
 2. Wir fangen an. → Wir fangen an, wenn alle da ______.
@@ -90,7 +90,7 @@ Move the verb to the correct position in the `wenn`-clause. Write the final verb
 
 ## Übung A2 — `wenn`-Satz vorne: Inversion
 
-Rewrite each sentence with the `wenn`-clause first. The gap is the main-clause verb (which comes immediately after the comma).
+Schreibe jeden Satz mit dem `wenn`-Satz vorne. Die Lücke ist das Verb des Hauptsatzes (es steht direkt nach dem Komma).
 
 1. Bruno ist pünktlich, wenn der Zug kommt. → Wenn der Zug kommt, ______ Bruno pünktlich.
 2. Sie lernt schnell, wenn sie jeden Tag übt. → Wenn sie jeden Tag übt, ______ sie schnell.
@@ -101,7 +101,7 @@ Rewrite each sentence with the `wenn`-clause first. The gap is the main-clause v
 
 ## Übung A3 — `wenn`-Satz mit Modalverb
 
-Complete the `wenn`-clause with the correct form of the modal verb (infinitive before modal, both at the end).
+Ergänze den `wenn`-Satz mit der richtigen Form des Modalverbs (Infinitiv vor Modalverb, beide am Ende).
 
 1. Wenn ich früher aufhören ______ (aufhören können), komme ich pünktlich.
 2. Wenn man einen Termin ______ (vereinbaren wollen), muss man anrufen.
@@ -111,7 +111,7 @@ Complete the `wenn`-clause with the correct form of the modal verb (infinitive b
 
 ## Übung A4 — `wenn`-Satz mit Perfekt
 
-Complete the `wenn`-clause using the Perfekt. Each item has two gaps (Partizip II + auxiliary).
+Ergänze den `wenn`-Satz im Perfekt. Jede Aufgabe hat zwei Lücken (Partizip II + Hilfsverb).
 
 1. Wenn Bruno die E-Mail ______ ______, wartet er auf eine Antwort.
 2. Wenn Frau Weber die Unterlagen ______ ______, vereinbaren wir einen Termin.
@@ -121,7 +121,7 @@ Complete the `wenn`-clause using the Perfekt. Each item has two gaps (Partizip I
 
 ## Übung A5 — `als` + Berufsbezeichnung
 
-Fill in the correct profession noun (no article!) after `als`.
+Ergänze die richtige Berufsbezeichnung (ohne Artikel!) nach `als`.
 
 1. Er hat fünf Jahre als ______ in einem Restaurant gearbeitet.
 2. Sie ist als ______ bei einer Softwarefirma tätig.
@@ -132,7 +132,7 @@ Fill in the correct profession noun (no article!) after `als`.
 
 ## Übung A6 — `als` mit Verb: richtig oder falsch?
 
-Mark each sentence R (richtig) or F (falsch).
+Markiere jeden Satz mit R (richtig) oder F (falsch).
 
 1. Ich arbeite als eine Ärztin. ( )
 2. Er hat als Journalist gearbeitet. ( )
@@ -143,7 +143,7 @@ Mark each sentence R (richtig) or F (falsch).
 
 ## Übung A7 — Berufe: welche Form?
 
-Give the opposite-gender form of each profession.
+Nenne die Form mit dem anderen Geschlecht für jeden Beruf.
 
 1. der Lehrer → die ______
 2. die Ärztin → der ______
@@ -156,7 +156,7 @@ Give the opposite-gender form of each profession.
 
 ## Übung A8 — Wortschatz Arbeitswelt: was passt?
 
-Match each definition (1–8) to the correct noun (a–h).
+Ordne jede Definition (1–8) dem passenden Nomen (a–h) zu.
 
 | Links | | Rechts |
 |---|---|---|

@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - { q: "Bruno sucht einen neuen Job.", answer: true, why: "Bruno sucht einen neuen Job." }
       - { q: "Bruno hat noch keine Bewerbungen geschickt.", answer: false, why: "He says he has already sent three applications." }
@@ -28,7 +29,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Frau Weber möchte sich für welche Stelle bewerben?"
         options:
@@ -64,7 +66,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Yuki arbeitet seit drei Monaten als {1} in einem {2} in München. Wenn sie früh {3}, beginnt ihr Tag um sechs Uhr {4}. Sie macht eine {5}, wenn es ruhig ist. Nach der Arbeit lernt sie Deutsch in einem {6}.
     bank: [anfängt, Kellnerin, Abendkurs, müde, Pause, versteht, schläfrig, Café, morgens]
@@ -81,7 +84,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Anruf von der Personalagentur"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the phone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Telefonansage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the phone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Guten Tag, hier ist Frau Schäfer von der Personalagentur „Jobwelt". Ich rufe an wegen Ihrer Bewerbung als IT-Assistent. Wir hätten nächste Woche einen freien Termin für ein Vorstellungsgespräch. Das Gespräch findet am Mittwoch, dem achtzehnten Juni, um zehn Uhr in unserem Büro in der Friedrichstraße statt. Bitte bringen Sie Ihren Lebenslauf und Ihre Zeugnisse mit. Bitte rufen Sie uns bis Freitag an, um den Termin zu bestätigen. Vielen Dank und bis bald!'
     items:
       - q: "Von welcher Firma ruft Frau Schäfer an?"
@@ -119,6 +123,7 @@ exercises:
     title: "Tabelle ausfüllen: Dialog B (Bewerbungsgespräch)"
     audio: dialog1_b.mp3
     instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    instructionsEn: "Listen to the dialog once and fill in the table. In each row, **one** piece of information is missing — the clues in the other cells will help you."
     columns: ["Person / Position", "Erfahrung", "Frist"]
     rows:
       - label: "Frau Weber"
@@ -149,7 +154,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`wenn`-Sätze: Verben ans Ende"
-    instructions: "Move the verb to the correct position in the `wenn`-clause. Write the final verb."
+    instructions: "Bringe das Verb an die richtige Position im `wenn`-Satz. Schreibe das Verb am Ende."
+    instructionsEn: "Move the verb to the correct position in the `wenn`-clause. Write the final verb."
     text: |
       1. Er ruft an. → Er ruft an, wenn er fertig {1}.
       2. Wir fangen an. → Wir fangen an, wenn alle da {2}.
@@ -170,7 +176,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`wenn`-Satz vorne: Inversion"
-    instructions: "Rewrite each sentence with the `wenn`-clause first. The gap is the main-clause verb (which comes immediately after the comma)."
+    instructions: "Schreibe jeden Satz mit dem `wenn`-Satz vorne. Die Lücke ist das Verb des Hauptsatzes (es steht direkt nach dem Komma)."
+    instructionsEn: "Rewrite each sentence with the `wenn`-clause first. The gap is the main-clause verb (which comes immediately after the comma)."
     text: |
       1. Bruno ist pünktlich, wenn der Zug kommt. → Wenn der Zug kommt, {1} Bruno pünktlich.
       2. Sie lernt schnell, wenn sie jeden Tag übt. → Wenn sie jeden Tag übt, {2} sie schnell.
@@ -191,7 +198,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`wenn`-Satz mit Modalverb"
-    instructions: "Complete the `wenn`-clause with the correct form of the modal verb (infinitive before modal, both at the end)."
+    instructions: "Ergänze den `wenn`-Satz mit der richtigen Form des Modalverbs (Infinitiv vor Modalverb, beide am Ende)."
+    instructionsEn: "Complete the `wenn`-clause with the correct form of the modal verb (infinitive before modal, both at the end)."
     text: |
       1. Wenn ich früher aufhören {1} (aufhören können), komme ich pünktlich.
       2. Wenn man einen Termin {2} (vereinbaren wollen), muss man anrufen.
@@ -210,7 +218,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`wenn`-Satz mit Perfekt"
-    instructions: "Complete the `wenn`-clause using the Perfekt. Each item has two gaps (Partizip II + auxiliary)."
+    instructions: "Ergänze den `wenn`-Satz im Perfekt. Jede Aufgabe hat zwei Lücken (Partizip II + Hilfsverb)."
+    instructionsEn: "Complete the `wenn`-clause using the Perfekt. Each item has two gaps (Partizip II + auxiliary)."
     text: |
       1. Wenn Bruno die E-Mail {1} {2}, wartet er auf eine Antwort.
       2. Wenn Frau Weber die Unterlagen {3} {4}, vereinbaren wir einen Termin.
@@ -234,7 +243,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`als` + Berufsbezeichnung"
-    instructions: "Fill in the correct profession noun (no article!) after `als`."
+    instructions: "Ergänze die richtige Berufsbezeichnung (ohne Artikel!) nach `als`."
+    instructionsEn: "Fill in the correct profession noun (no article!) after `als`."
     text: |
       1. Er hat fünf Jahre als {1} in einem Restaurant gearbeitet.
       2. Sie ist als {2} bei einer Softwarefirma tätig.
@@ -254,7 +264,8 @@ exercises:
     block: A
     type: true-false
     title: "`als` mit Verb: richtig oder falsch?"
-    instructions: "Mark each sentence R (richtig) or F (falsch)."
+    instructions: "Markiere jeden Satz mit R (richtig) oder F (falsch)."
+    instructionsEn: "Mark each sentence R (richtig) or F (falsch)."
     items:
       - { q: "Ich arbeite als eine Ärztin.", answer: false, why: 'Ich arbeite als **Ärztin** (no article after `als` with profession).' }
       - { q: "Er hat als Journalist gearbeitet.", answer: true, why: "Correct." }
@@ -268,7 +279,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Berufe: welche Form?"
-    instructions: "Give the opposite-gender form of each profession."
+    instructions: "Nenne die Form mit dem anderen Geschlecht für jeden Beruf."
+    instructionsEn: "Give the opposite-gender form of each profession."
     text: |
       1. der Lehrer → die {1}
       2. die Ärztin → der {2}
@@ -292,7 +304,8 @@ exercises:
     block: A
     type: matching
     title: "Wortschatz Arbeitswelt: was passt?"
-    instructions: "Match each definition (1–8) to the correct noun (a–h)."
+    instructions: "Ordne jede Definition (1–8) dem passenden Nomen (a–h) zu."
+    instructionsEn: "Match each definition (1–8) to the correct noun (a–h)."
     left:
       - { key: "1", text: "Das schreibe ich und schicke es an die Firma, wenn ich mich bewerbe." }
       - { key: "2", text: "Dort arbeiten viele Leute an Schreibtischen." }
