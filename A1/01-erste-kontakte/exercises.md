@@ -437,7 +437,15 @@ Five words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Yuki-Lesetext)
 
-Read the Yuki text in lesson.md, section 5. Richtig (R) oder falsch (F)?
+> Hallo! Ich heiße Yuki Tanaka. Ich komme aus Japan, aus Osaka.
+> Ich wohne jetzt in München und lerne Deutsch. Ich spreche
+> Japanisch, Englisch und ein bisschen Deutsch. Mein Deutschkurs
+> ist super! Die Lehrerin heißt Frau Schmidt. Sie kommt aus
+> Hamburg. Im Kurs sind elf Frauen und neun Männer. Und du?
+> Wer bist du, woher kommst du und welche Sprachen sprichst du?
+
+Richtig (R) oder falsch (F)?
+
 
 1. Yuki kommt aus China. ( )
 2. Sie wohnt in München. ( )
