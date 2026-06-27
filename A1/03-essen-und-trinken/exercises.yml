@@ -37,7 +37,8 @@ exercises:
     block: H
     type: single-choice
     title: "Aussprache-Check"
-    instructions: "Listen to the Hör zu clips in lesson.md (Wortschatz → 🔊 Aussprache) and pick the matching answer."
+    instructions: "Höre den Hör-zu-Clip und wähle die passende Antwort."
+    instructionsEn: "Listen to the Hör zu clip and choose the matching answer."
     items:
       - q: "Hör zu 1 (Lebensmittel) — which one is a fruit?"
         audio: hoerzu1.mp3
@@ -795,7 +796,28 @@ exercises:
     block: C
     type: true-false
     title: "Lesen Text 1 — Frühstück in Deutschland"
-    instructions: 'Read „Frühstück in Deutschland" in lesson.md, section 5. Richtig (R) oder falsch (F)?'
+    instructions: |
+      > Was essen die Deutschen zum Frühstück? Viele essen Brot oder
+      > Brötchen mit Butter, Käse oder Wurst. Auch Müsli mit Joghurt
+      > und Obst ist sehr beliebt. Die Deutschen trinken morgens
+      > Kaffee — sehr viel Kaffee! — oder Tee. Am Wochenende ist
+      > das Frühstück groß und lang: dann gibt es auch Eier,
+      > frischen Orangensaft und manchmal sogar Kuchen. Die Familie
+      > oder die Freunde sitzen zusammen, lesen die Zeitung und
+      > sprechen. Das Frühstück dauert eine Stunde oder mehr.
+      >
+      > Das Mittagessen ist oft warm: Kartoffeln, Nudeln oder Reis
+      > mit Fleisch oder Fisch und Gemüse. In vielen deutschen
+      > Kantinen und Restaurants gibt es ein günstiges Mittagsmenü
+      > für fünf bis acht Euro. Kinder essen mittags in der Schule.
+      >
+      > Das Abendessen heißt „Abendbrot" — das Wort sagt es schon:
+      > es ist oft Brot mit Käse, Wurst und Salat. Warm kochen am
+      > Abend ist in vielen deutschen Haushalten weniger üblich als
+      > in Brasilien oder Russland. Anna und Bruno finden das ein
+      > bisschen seltsam, aber sie essen gern das deutsche Abendbrot.
+
+      Richtig (R) oder falsch (F)?
     items:
       - { q: "Die Deutschen essen zum Frühstück oft Brot oder Brötchen.", answer: true, why: "Brot und Brötchen sind klassisches deutsches Frühstück." }
       - { q: "Müsli ist nicht populär.", answer: false, why: "Müsli ist populär." }
