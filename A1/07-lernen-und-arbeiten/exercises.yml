@@ -17,16 +17,16 @@ exercises:
     audio: dialog1_a.mp3
     instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
     items:
-      - q: "Bruno muss um acht Uhr im Büro sein."
+      - q: "Bruno muss um acht Uhr im Büro sein. — Bruno has to be at the office at eight."
         answer: true
         why: 'Bruno sagt: „Ich muss um acht Uhr im Büro sein."'
-      - q: "Anna muss auch um acht Uhr arbeiten."
+      - q: "Anna muss auch um acht Uhr arbeiten. — Anna also has to work at eight."
         answer: false
         why: "Anna arbeitet von neun bis fünf, nicht um acht."
-      - q: "Anna will heute Abend einen Computerkurs machen."
+      - q: "Anna will heute Abend einen Computerkurs machen. — Anna wants to take a computer course tonight."
         answer: false
         why: "Der Kurs ist morgen — heute Abend will Anna lernen."
-      - q: "Bruno will auch den Kurs machen."
+      - q: "Bruno will auch den Kurs machen. — Bruno also wants to take the course."
         answer: true
         why: 'Bruno sagt: „Darf ich auch mitmachen? Dann will ich heute noch den Kurs buchen."'
 
@@ -37,16 +37,16 @@ exercises:
     audio: dialog1_b.mp3
     instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
     items:
-      - q: "Frau Yilmaz sagt, Anna muss das Meeting vorbereiten."
+      - q: "Frau Yilmaz sagt, Anna muss das Meeting vorbereiten. — Frau Yilmaz says Anna has to prepare the meeting."
         answer: true
         why: 'Frau Yilmaz sagt: „Sie müssen heute das Meeting vorbereiten."'
-      - q: "Das Meeting fängt um neun Uhr an."
+      - q: "Das Meeting fängt um neun Uhr an. — The meeting starts at nine."
         answer: false
         why: "Das Meeting fängt um zehn Uhr an, nicht um neun."
-      - q: "Herr Brandt darf heute früher gehen."
+      - q: "Herr Brandt darf heute früher gehen. — Mr. Brandt may leave early today."
         answer: true
         why: 'Frau Yilmaz sagt: „Herr Brandt darf heute früher gehen — er hat einen Arzttermin."'
-      - q: "Anna will das Meeting morgen vorbereiten."
+      - q: "Anna will das Meeting morgen vorbereiten. — Anna wants to prepare the meeting tomorrow."
         answer: false
         why: 'Anna sagt: „Ich beginne sofort." (nicht morgen)'
 
@@ -79,28 +79,28 @@ exercises:
     instructionsEn: "Listen to the message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Hallo Anna, hier ist Maria. Ich rufe an wegen dem Computerkurs am Montag. Der Kurs fängt leider erst um neunzehn Uhr an, nicht um achtzehn Uhr. Du musst deinen Laptop mitbringen. Du darfst auch eine Freundin mitbringen — der Kurs hat noch freie Plätze. Bitte ruf mich zurück, wenn du Fragen hast. Vielen Dank!"
     items:
-      - q: "Wessen Nachricht ist das?"
+      - q: "Wessen Nachricht ist das? — Whose message is this?"
         options:
           - { key: a, text: "Von Anna." }
           - { key: b, text: "Von Maria." }
           - { key: c, text: "Von Bruno." }
         answer: b
         why: '„Hallo Anna, hier ist Maria."'
-      - q: "Worum geht es in der Nachricht?"
+      - q: "Worum geht es in der Nachricht? — What is the message about?"
         options:
           - { key: a, text: "Um einen Computerkurs." }
           - { key: b, text: "Um einen Sprachkurs." }
           - { key: c, text: "Um einen Yogakurs." }
         answer: a
         why: '„Ich rufe an wegen dem Computerkurs am Montag."'
-      - q: "Wann fängt der Kurs an?"
+      - q: "Wann fängt der Kurs an? — What time does the course start?"
         options:
           - { key: a, text: "Um achtzehn Uhr." }
           - { key: b, text: "Um neunzehn Uhr." }
           - { key: c, text: "Um zwanzig Uhr." }
         answer: b
         why: '„Der Kurs fängt leider erst um neunzehn Uhr an, nicht um achtzehn Uhr."'
-      - q: "Was soll Anna mitbringen?"
+      - q: "Was soll Anna mitbringen? — What should Anna bring?"
         options:
           - { key: a, text: "Einen Laptop." }
           - { key: b, text: "Ein Buch." }
@@ -648,42 +648,42 @@ exercises:
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
-      - q: "Ich habe jetzt eine neue Stelle. Ich (1) ______ als Ingenieurin bei einer großen Firma."
+      - q: "Ich habe jetzt eine neue Stelle. Ich (1) ______ als Ingenieurin bei einer großen Firma. — I have a new job now. I (1) ______ as an engineer at a big company."
         options:
           - { key: a, text: "bin" }
           - { key: b, text: "arbeite" }
           - { key: c, text: "werde" }
         answer: b
         why: "ich arbeite als Ingenieurin — profession follows als without article."
-      - q: "Ich (2) ______ jeden Tag von acht bis fünf arbeiten — das ist viel."
+      - q: "Ich (2) ______ jeden Tag von acht bis fünf arbeiten — das ist viel. — I (2) ______ work every day from eight to five — that's a lot."
         options:
           - { key: a, text: "muss" }
           - { key: b, text: "darf" }
           - { key: c, text: "will" }
         answer: a
         why: "obligation (every day, set hours) → muss."
-      - q: "Ich (3) ______ auch samstags arbeiten, aber nur einmal im Monat."
+      - q: "Ich (3) ______ auch samstags arbeiten, aber nur einmal im Monat. — I (3) ______ also work on Saturdays, but only once a month."
         options:
           - { key: a, text: "müssen" }
           - { key: b, text: "dürfen" }
           - { key: c, text: "wollen" }
         answer: b
         why: "permission (allowed to work Saturdays, but not obliged) → dürfen."
-      - q: "Zum Glück (4) ______ ich mit dem Fahrrad zur Arbeit fahren — das Büro ist nicht weit."
+      - q: "Zum Glück (4) ______ ich mit dem Fahrrad zur Arbeit fahren — das Büro ist nicht weit. — Luckily, I (4) ______ bike to work — the office isn't far."
         options:
           - { key: a, text: "darf" }
           - { key: b, text: "muss" }
           - { key: c, text: "will" }
         answer: a
         why: "permission (allowed to bike to work) → darf."
-      - q: "Nächsten Monat (5) ______ wir alle einen Computerkurs machen — auch die Chefin nimmt teil!"
+      - q: "Nächsten Monat (5) ______ wir alle einen Computerkurs machen — auch die Chefin nimmt teil! — Next month, we all (5) ______ take a computer course — the boss is joining too!"
         options:
           - { key: a, text: "dürfen" }
           - { key: b, text: "wollen" }
           - { key: c, text: "müssen" }
         answer: c
         why: "obligation (everyone has to do it) → müssen."
-      - q: "(6) Die Chefin will auch teilnehmen — sie ______ mitmachen!"
+      - q: "(6) Die Chefin will auch teilnehmen — sie ______ mitmachen! — (6) The boss wants to take part too — she ______ to join in!"
         options:
           - { key: a, text: "muss" }
           - { key: b, text: "will" }
@@ -741,22 +741,22 @@ exercises:
 
       Richtig (R) oder falsch (F)?
     items:
-      - q: "Sofia arbeitet im Büro."
+      - q: "Sofia arbeitet im Büro. — Sofia works in an office."
         answer: false
         why: "Sofia arbeitet im Krankenhaus, nicht im Büro."
-      - q: "Sofia will Kinderärztin werden."
+      - q: "Sofia will Kinderärztin werden. — Sofia wants to become a pediatrician."
         answer: true
         why: "Sofia will Kinderärztin werden."
-      - q: "Felix unterrichtet Mathematik."
+      - q: "Felix unterrichtet Mathematik. — Felix teaches math."
         answer: false
         why: "Felix unterrichtet Deutsch und Geschichte."
-      - q: "Felix darf kreativ sein."
+      - q: "Felix darf kreativ sein. — Felix is allowed to be creative."
         answer: true
         why: "Felix darf kreativ sein."
-      - q: "Paula arbeitet bei einer Softwarefirma."
+      - q: "Paula arbeitet bei einer Softwarefirma. — Paula works at a software company."
         answer: true
         why: "Paula arbeitet bei einer Softwarefirma."
-      - q: "Paula darf nicht von zu Hause arbeiten."
+      - q: "Paula darf nicht von zu Hause arbeiten. — Paula is not allowed to work from home."
         answer: false
         why: "Paula darf oft von zu Hause arbeiten."
 
@@ -779,28 +779,28 @@ exercises:
 
       Wähle a, b oder c.
     items:
-      - q: "Die Sprachschule sucht …"
+      - q: "Die Sprachschule sucht … — The language school is looking for …"
         options:
           - { key: a, text: "eine Vollzeitkraft" }
           - { key: b, text: "eine Teilzeitkraft" }
           - { key: c, text: "einen Programmierer" }
         answer: b
         why: "Die Stelle ist Teilzeit: 15 Stunden pro Woche."
-      - q: "Bewerber müssen …"
+      - q: "Bewerber müssen … — Applicants must …"
         options:
           - { key: a, text: "Englisch sprechen" }
           - { key: b, text: "Deutsch sehr gut können" }
           - { key: c, text: "Informatik studiert haben" }
         answer: b
         why: "Muttersprache oder C2-Zertifikat = Deutsch sehr gut."
-      - q: "Wie viele Stunden pro Woche muss man arbeiten?"
+      - q: "Wie viele Stunden pro Woche muss man arbeiten? — How many hours per week does one have to work?"
         options:
           - { key: a, text: "40" }
           - { key: b, text: "20" }
           - { key: c, text: "15" }
         answer: c
         why: "15 Stunden pro Woche."
-      - q: "Wo muss man die Bewerbung hinschicken?"
+      - q: "Wo muss man die Bewerbung hinschicken? — Where does one have to send the application?"
         options:
           - { key: a, text: "per Post" }
           - { key: b, text: "per E-Mail" }
