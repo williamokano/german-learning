@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen and decide: Richtig (R) oder Falsch (F)?
+Höre und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Annas Geburtstag ist am dreizehnten Mai. — Anna's birthday is on the thirteenth of May. ( )
 2. Die Party findet am Sonntag, dem fünfzehnten Mai, statt. — The party takes place on Sunday, the fifteenth of May. ( )
@@ -21,7 +21,7 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen and decide: Richtig (R) oder Falsch (F)?
+Höre und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Frau Weber ruft die Praxis Dr. Bauer an. — Mrs. Weber is calling Dr. Bauer's practice. ( )
 2. Der angebotene Termin ist am Mittwoch, dem achtzehnten Oktober. — The offered appointment is on Wednesday, the eighteenth of October. ( )
@@ -70,14 +70,14 @@ Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einma
 
 ## Übung A1 — Monate: Lücken füllen
 
-Fill in the missing months in the correct order.
+Ergänze die fehlenden Monate in der richtigen Reihenfolge.
 
 1. Januar · ______ · März · April · ______ · Juni
 2. ______ · August · ______ · Oktober · November · ______
 
 ## Übung A2 — Ordinalzahlen: Stamm + Nominativform
 
-Write the ordinal number stem and the full nominative form.
+Schreibe den Ordinalstamm und die volle Nominativform.
 
 | Ordinalstamm | Der/Die/Das … (Nominativ) |
 |---|---|
@@ -93,7 +93,7 @@ Write the ordinal number stem and the full nominative form.
 
 ## Übung A3 — Datum lesen: „am + Dativ"
 
-Write out the dates using `am + ordinal (dative form)`. Example: 3. Mai → am dritten Mai.
+Schreibe die Daten mit „am + Ordinalzahl (Dativform)". Beispiel: 3. Mai → am dritten Mai.
 
 1. 1. Januar → am ______ Januar
 2. 2. März → am ______ März
@@ -108,7 +108,7 @@ Write out the dates using `am + ordinal (dative form)`. Example: 3. Mai → am d
 
 ## Übung A4 — Datum schreiben: Wörter → Ziffern
 
-Write the date in digits (e.g., am dritten Mai → 3. Mai).
+Schreibe das Datum in Ziffern (z. B. am dritten Mai → 3. Mai).
 
 1. am ersten Oktober → ______
 2. am zwölften März → ______
@@ -118,7 +118,7 @@ Write the date in digits (e.g., am dritten Mai → 3. Mai).
 
 ## Übung A5 — Präposition: im, am, um, vor, nach?
 
-Fill in the correct temporal preposition.
+Ergänze die richtige temporale Präposition.
 
 1. ______ Montag habe ich einen Termin.
 2. ______ Januar ist es kalt.
@@ -133,7 +133,7 @@ Fill in the correct temporal preposition.
 
 ## Übung A6 — Präposition + Nomen: vor oder nach?
 
-Fill in `vor dem`, `vor der`, `nach dem`, or `nach der`.
+Ergänze „vor dem", „vor der", „nach dem" oder „nach der".
 
 1. ______ Essen trinke ich einen Kaffee.
 2. Die Feier ist ______ Konzert.
@@ -144,7 +144,7 @@ Fill in `vor dem`, `vor der`, `nach dem`, or `nach der`.
 
 ## Übung A7 — `einladen`: konjugieren
 
-Fill in the correct form of `einladen` (separable!).
+Ergänze die richtige Form von „einladen" (trennbar!).
 
 1. Ich ______ meine Familie ______.
 2. ______ du auch Bruno ______?
@@ -155,7 +155,7 @@ Fill in the correct form of `einladen` (separable!).
 
 ## Übung A8 — Verben im Satz: passen, feiern, schicken, planen, absagen
 
-Fill in the correct form of the verb in brackets.
+Ergänze die richtige Form des Verbs in Klammern.
 
 1. Das ______ (passen) mir gut. Der Termin ist okay.
 2. Wir ______ (feiern) heute Annas Geburtstag.
@@ -168,7 +168,7 @@ Fill in the correct form of the verb in brackets.
 
 ## Übung A9 — Termine ablehnen: Sätze ergänzen
 
-Fill in the appropriate word from the bracket.
+Ergänze das passende Wort aus der Klammer.
 
 1. Das ______ leider nicht. (kommt / geht / macht)
 2. Ich ______ leider nicht kommen. (habe / kann / will) — polite refusal
@@ -179,7 +179,7 @@ Fill in the appropriate word from the bracket.
 
 ## Übung A10 — Datum + Uhrzeit kombinieren
 
-Write full sentences with the date and time given. Example: (Party — 14. Juni — 20:00) → Die Party findet am vierzehnten Juni um zwanzig Uhr statt.
+Schreibe vollständige Sätze mit Datum und Uhrzeit. Beispiel: (Party — 14. Juni — 20:00) → Die Party findet am vierzehnten Juni um zwanzig Uhr statt.
 
 1. Arzttermin — Mittwoch, 3. Oktober — 10:30 → ______
 2. Deutschkurs — Dienstag, 8. November — 18:00 → ______
@@ -188,7 +188,7 @@ Write full sentences with the date and time given. Example: (Party — 14. Juni 
 
 ## Übung A11 — Glückwünsche: Welcher Anlass?
 
-Match the phrase with the occasion.
+Ordne die Phrase dem passenden Anlass zu.
 
 | Links | | Rechts |
 |---|---|---|
@@ -205,7 +205,7 @@ Match the phrase with the occasion.
 
 ## Übung B1 — Dialog ergänzen: Einladung zur Party
 
-Fill in the blanks.
+Fülle die Lücken.
 
 — He, Luisa! Ich mache eine ______ am Samstag.
 — Oh, toll! Wann ______?
@@ -230,7 +230,7 @@ Fill in the blanks.
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
+Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form.
 
 1. Mein Geburtstag ist ______ dreizehnten Mai. (im → ?)
 2. Die Party findet am ______ Juni statt. (zwanzig → ?)
@@ -258,7 +258,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 ## Übung B5 — Satzbau
 
-Put the words in the correct order. Verb in position 2.
+Bringe die Wörter in die richtige Reihenfolge. Verb auf Position 2.
 
 1. am – Termin – Montag – einen – habe – ich
 2. wir – feiern – Geburtstag – im – Juli
@@ -273,7 +273,7 @@ Put the words in the correct order. Verb in position 2.
 
 ## Übung B6 — Jahreszeiten und Monate
 
-Fill in the season, then answer: Which German holiday falls in that season?
+Ergänze die Jahreszeit und antworte: Welcher deutsche Feiertag fällt in diese Jahreszeit?
 
 | Jahreszeit | Deutsch-Feiertag (Beispiel) |
 |---|---|
@@ -324,7 +324,7 @@ Self-check:
 
 ## Übung C1 — Lückentext (10 Lücken)
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Hallo, ich (1) ______ Anna und ich mache eine Party! Mein Geburtstag (2) ______ am dreizehnten Mai. Die Feier ist (3) ______ Samstag, dem vierzehnten Mai, (4) ______ neunzehn Uhr. Sie findet (5) ______ mir zu Hause statt. Ich lade alle meine Freunde (6) ______. Kannst du (7) ______ kommen? Ich (8) ______ dir eine Einladung. Bitte sag mir (9) ______ Bescheid, ob du kommen kannst. Ich freue mich (10) ______ die Party!
 
@@ -341,7 +341,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortkasten, 10 Lücken, 5 Distraktoren)
 
-Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden.
 
 > — Wann (1) ______ Luisas Party eigentlich?
 > — Die Feier findet (2) ______ Samstagabend (3) ______. Sie schreibt im Chat,
@@ -428,7 +428,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest (15 Punkte)
 
-One answer per item. No notes.
+Eine Antwort pro Aufgabe. Keine Notizen.
 
 1. „am" + Datum: „am dreizehnten ______" — which month comes after Mai? → ______
 2. 3. Oktober spoken → ______
@@ -448,7 +448,7 @@ One answer per item. No notes.
 
 ## Übung D2 — Odd one out (6 Gruppen)
 
-Cross out the word that doesn't fit and say why.
+Streiche das Wort durch, das nicht passt, und sage warum.
 
 1. Januar – März – Sommer – Oktober
 2. Geburtstag – Weihnachten – Ostern – Kalender
