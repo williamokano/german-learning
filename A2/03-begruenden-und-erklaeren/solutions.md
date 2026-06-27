@@ -29,6 +29,14 @@
 3. **b) Eine technische Störung am Gleis.** — „Grund dafür ist eine technische Störung am Gleis."
 4. **c) Auf die U 6.** — „Bitte weichen Sie, wenn möglich, auf die Linie U 6 aus."
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Wien-Abschied)
+
+| Satz / Aussage | Konnektor (weil/dass/darum) | Ergänzung |
+|---|---|---|
+| Kurs verlassen | Ich verlasse den Kurs | **weil** | ich eine neue Stelle in Wien angenommen habe |
+| Nach Wien gehen | Ich gehe dorthin | **weil** | meine Familie dort lebt |
+| Dankbar sein | Ich bin sehr dankbar | **darum** | dieser Kurs mir sehr geholfen hat |
+
 ---
 
 # Block A — Basistraining
