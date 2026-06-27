@@ -807,7 +807,24 @@ exercises:
     block: C
     type: true-false
     title: "Leseverstehen: Annas Interview (Richtig / Falsch)"
-    instructions: "Read the Lesetext (lesson.md section 7). Decide: Richtig (R) oder Falsch (F)?"
+    instructions: |
+      > **Gründerzeit:** Frau Kowalski, worüber haben Sie sich in Ihrem ersten Jahr am meisten gefreut?
+      >
+      > **Anna:** Ich habe mich darüber gefreut, dass mein Team mir von Anfang an vertraut hat. Ich komme aus Russland, und ich war zunächst davon überzeugt, dass die Sprache eine große Hürde sein würde. Aber es hat gut geklappt. Ich freue mich jeden Tag darauf, ins Büro zu kommen.
+      >
+      > **Gründerzeit:** Worum kümmern Sie sich hauptsächlich?
+      >
+      > **Anna:** Ich kümmere mich darum, dass alle Projektschritte klar dokumentiert sind. Außerdem sorge ich dafür, dass die Kommunikation zwischen den Teams funktioniert. Es kommt oft darauf an, schnell auf neue Anforderungen zu reagieren. Das finde ich spannend.
+      >
+      > **Gründerzeit:** Wovon hängt Ihrer Meinung nach der Erfolg eines Projekts ab?
+      >
+      > **Anna:** Er hängt davon ab, wie sehr sich die Menschen aufeinander verlassen können. Ich achte immer darauf, eine vertrauensvolle Atmosphäre zu schaffen. Ich glaube fest daran, dass Transparenz entscheidend ist.
+      >
+      > **Gründerzeit:** Was empfehlen Sie anderen Berufseinsteigern?
+      >
+      > **Anna:** Ich warne davor, sich zu sehr unter Druck zu setzen. Gleichzeitig rate ich dazu, Fragen zu stellen — auch wenn man Angst davor hat, unwissend zu wirken. Ich interessiere mich sehr für offene Lernkulturen in Unternehmen, und ich bin davon überzeugt, dass sie den Unterschied machen.
+
+      Richtig (R) oder Falsch (F)?
     items:
       - q: "Anna arbeitet seit zwei Jahren als Projektkoordinatorin."
         answer: false
