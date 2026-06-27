@@ -56,6 +56,21 @@ buildsOn:
 > **Anna:** Ja, gerne. Vielen Dank!  
 > **Sachbearbeiterin:** Auf Wiederhören!  
 
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Clerk:** Bürgeramt Mitte, good day.
+> **Anna:** Good day. My name is Bergmann, Anna Bergmann. I have a question about registration.
+> **Clerk:** Yes, of course. What can I do for you?
+> **Anna:** I would like to register. Which documents do I need?
+> **Clerk:** You need your ID card or passport and a current landlord's confirmation of tenancy.
+> **Anna:** And how long does the appointment take?
+> **Clerk:** About twenty minutes. Would you like to book an appointment online?
+> **Anna:** Yes, please. Thank you very much!
+> **Clerk:** Goodbye! (on the phone)
+
+</details>
+
 ### Dialog B: E-Mail an den Vermieter
 
 > **Betreff:** Frage zur Anmeldung  
@@ -71,6 +86,22 @@ buildsOn:
 > Mit freundlichen Grüßen
 > Anna Bergmann
 
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Subject:** Question about registration
+>
+> Dear Mr. Keller,
+>
+> my name is Anna Bergmann. I have been living in your apartment at Mozartstraße 12 since the 1st of October. I would like to register at the Bürgeramt (residents' registration office). Could you please issue me the landlord's confirmation of tenancy? I need it for the registration.
+>
+> Thank you in advance.
+>
+> Kind regards
+> Anna Bergmann
+
+</details>
+
 🎧 **Audio:** [dialog1_c.mp3](audio/dialog1_c.mp3)
 
 
@@ -82,6 +113,18 @@ buildsOn:
 > **Anna:** Kein Problem. Können wir uns um fünf Uhr treffen?  
 > **Bruno:** Ja, das passt. Bis dann!  
 > **Anna:** Tschüss, Bruno!  
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> **Bruno:** Hi, Anna! It's Bruno. Am I disturbing you?
+> **Anna:** No, no. What's up?
+> **Bruno:** I'm afraid I can't come at three o'clock. I have a doctor's appointment.
+> **Anna:** No problem. Can we meet at five o'clock?
+> **Bruno:** Yes, that works. See you then!
+> **Anna:** Bye, Bruno!
+
+</details>  
 
 ---
 
@@ -581,6 +624,17 @@ angemeldet.
 > ihren Personalausweis und einen Wohnungsgebernachweis. Den
 > Wohnungsgebernachweis bekommt sie von ihrem Vermieter, Herrn Keller.
 > Der Termin ist am Montag um zehn Uhr.
+
+</details>
+
+<details>
+<summary>🇬🇧 English translation</summary>
+
+> Anna has moved to Berlin. She needs to register at the Bürgeramt.
+> First she calls the Bürgeramt and makes an appointment. She needs
+> her ID card and a landlord's confirmation of tenancy. She gets
+> the confirmation of tenancy from her landlord, Mr. Keller.
+> The appointment is on Monday at ten o'clock.
 
 </details>
 

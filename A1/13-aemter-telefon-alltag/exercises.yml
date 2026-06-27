@@ -17,10 +17,10 @@ exercises:
     audio: dialog1_a.mp3
     instructions: "Listen and decide: richtig (R) oder falsch (F)?"
     items:
-      - { q: "Anna ruft das Bürgeramt an, um sich anzumelden.", answer: true, why: 'Anna says: „Ich möchte mich anmelden. Welche Dokumente brauche ich?"' }
-      - { q: "Anna braucht einen Personalausweis und einen Reisepass.", answer: false, why: 'Anna braucht Personalausweis **oder** Reisepass, nicht beides.' }
-      - { q: "Der Termin dauert ungefähr eine Stunde.", answer: false, why: "Der Termin dauert etwa zwanzig Minuten, nicht eine Stunde." }
-      - { q: "Anna möchte den Termin online buchen.", answer: true, why: 'Anna says: „Ja, gerne." when asked about online booking.' }
+      - { q: "Anna ruft das Bürgeramt an, um sich anzumelden. — Anna calls the Bürgeramt to register.", answer: true, why: 'Anna says: „Ich möchte mich anmelden. Welche Dokumente brauche ich?"' }
+      - { q: "Anna braucht einen Personalausweis und einen Reisepass. — Anna needs an ID card and a passport.", answer: false, why: 'Anna braucht Personalausweis **oder** Reisepass, nicht beides.' }
+      - { q: "Der Termin dauert ungefähr eine Stunde. — The appointment lasts about one hour.", answer: false, why: "Der Termin dauert etwa zwanzig Minuten, nicht eine Stunde." }
+      - { q: "Anna möchte den Termin online buchen. — Anna wants to book the appointment online.", answer: true, why: 'Anna says: „Ja, gerne." when asked about online booking.' }
 
   - id: H1b
     block: H
@@ -29,10 +29,10 @@ exercises:
     audio: dialog1_c.mp3
     instructions: "Listen and decide: richtig (R) oder falsch (F)?"
     items:
-      - { q: "Bruno ruft Anna an.", answer: true, why: 'Bruno: „Hallo, Anna! Hier ist Bruno."' }
-      - { q: "Bruno hat einen Arzttermin.", answer: true, why: 'Bruno says: „Ich habe einen Termin beim Arzt."' }
-      - { q: "Anna und Bruno treffen sich um drei Uhr.", answer: false, why: "Sie treffen sich um fünf Uhr, nicht um drei Uhr." }
-      - { q: "Bruno sagt, der neue Termin passt ihm gut.", answer: true, why: 'Bruno: „Ja, das passt. Bis dann!"' }
+      - { q: "Bruno ruft Anna an. — Bruno calls Anna.", answer: true, why: 'Bruno: „Hallo, Anna! Hier ist Bruno."' }
+      - { q: "Bruno hat einen Arzttermin. — Bruno has a doctor's appointment.", answer: true, why: 'Bruno says: „Ich habe einen Termin beim Arzt."' }
+      - { q: "Anna und Bruno treffen sich um drei Uhr. — Anna and Bruno are meeting at three o'clock.", answer: false, why: "Sie treffen sich um fünf Uhr, nicht um drei Uhr." }
+      - { q: "Bruno sagt, der neue Termin passt ihm gut. — Bruno says the new appointment works well for him.", answer: true, why: 'Bruno: „Ja, das passt. Bis dann!"' }
 
   - id: H3
     block: H
@@ -61,28 +61,28 @@ exercises:
     instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Achtung, eine Durchsage. Liebe Bürgerinnen und Bürger, das Bürgeramt öffnet heute ausnahmsweise erst um zehn Uhr. Grund ist eine Fortbildung der Mitarbeiter. Wir bitten um Ihr Verständnis. Bitte informieren Sie sich über die neuen Öffnungszeiten auf unserer Webseite. Termine können Sie weiterhin online buchen. Vielen Dank für Ihre Geduld."
     items:
-      - q: "Was ist das für eine Durchsage?"
+      - q: "Was ist das für eine Durchsage? — What kind of announcement is this?"
         options:
           - { key: a, text: "Vom Supermarkt." }
           - { key: b, text: "Vom Bürgeramt." }
           - { key: c, text: "Vom Bahnhof." }
         answer: b
         why: '„das Bürgeramt öffnet heute ausnahmsweise erst um zehn Uhr."'
-      - q: "Wann öffnet das Bürgeramt heute?"
+      - q: "Wann öffnet das Bürgeramt heute? — When does the Bürgeramt open today?"
         options:
           - { key: a, text: "Um acht Uhr." }
           - { key: b, text: "Um neun Uhr." }
           - { key: c, text: "Um zehn Uhr." }
         answer: c
         why: '„das Bürgeramt öffnet heute ausnahmsweise erst um zehn Uhr."'
-      - q: "Warum öffnet das Bürgeramt später?"
+      - q: "Warum öffnet das Bürgeramt später? — Why is the Bürgeramt opening later?"
         options:
           - { key: a, text: "Wegen einer Fortbildung." }
           - { key: b, text: "Wegen eines Feiertags." }
           - { key: c, text: "Wegen einer Reparatur." }
         answer: a
         why: '„Grund ist eine Fortbildung der Mitarbeiter."'
-      - q: "Wie kann man einen Termin buchen?"
+      - q: "Wie kann man einen Termin buchen? — How can you book an appointment?"
         options:
           - { key: a, text: "Nur telefonisch." }
           - { key: b, text: "Online." }
@@ -701,42 +701,42 @@ exercises:
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
-      - q: "Ich rufe (1) ____ der Anmeldung an."
+      - q: "Ich rufe (1) ____ der Anmeldung an. — I'm calling (1) ____ the registration."
         options:
           - { key: a, text: "seit" }
           - { key: b, text: "wegen" }
           - { key: c, text: "nach" }
         answer: b
         why: "Ich rufe wegen … an — chunk for I'm calling about …."
-      - q: "Haben Sie (2) ____ Termin?"
+      - q: "Haben Sie (2) ____ Termin? — Do you have (2) ____ appointment?"
         options:
           - { key: a, text: "einen" }
           - { key: b, text: "ein" }
           - { key: c, text: "eine" }
         answer: a
         why: "masc. indef. Akk."
-      - q: "(3) ____ ich bitte online buchen?"
+      - q: "(3) ____ ich bitte online buchen? — (3) ____ I please book online?"
         options:
           - { key: a, text: "Darf" }
           - { key: b, text: "Kann" }
           - { key: c, text: "Muss" }
         answer: b
         why: "Kann ich = Can I (asking for ability/permission)."
-      - q: "Sie (4) ____ Ihren Reisepass und einen Wohnungsgebernachweis mitbringen."
+      - q: "Sie (4) ____ Ihren Reisepass und einen Wohnungsgebernachweis mitbringen. — You (4) ____ bring your passport and a landlord's confirmation of tenancy."
         options:
           - { key: a, text: "müsst" }
           - { key: b, text: "müssen" }
           - { key: c, text: "muss" }
         answer: b
         why: "Sie-form of müssen."
-      - q: "Und wie lange (5) ____ das?"
+      - q: "Und wie lange (5) ____ das? — And how long does (5) ____ that take?"
         options:
           - { key: a, text: "dauern" }
           - { key: b, text: "dauert" }
           - { key: c, text: "dauern Sie" }
         answer: b
         why: "er/sie/es-form of dauern."
-      - q: "Möchten Sie (6) ____ jetzt online buchen?"
+      - q: "Möchten Sie (6) ____ jetzt online buchen? — Would you like to book (6) ____ online now?"
         options:
           - { key: a, text: "das" }
           - { key: b, text: "sich" }
@@ -798,11 +798,11 @@ exercises:
 
       Richtig (R) oder falsch (F)?
     items:
-      - { q: "Bruno wohnt in Mitte.", answer: false, why: "Bruno wohnt in Friedrichshain, not Mitte." }
-      - { q: "Sein Vermieter heißt Herr Koch.", answer: true, why: "Sein Vermieter heißt Herr Koch." }
-      - { q: "Bruno hat keinen Wohnungsgebernachweis.", answer: false, why: "Er hat einen Wohnungsgebernachweis von Herrn Koch." }
-      - { q: "Bruno bucht einen Termin für Dienstag.", answer: true, why: "Dienstag, 8. November, 9 Uhr." }
-      - { q: "Bruno muss kein Formular ausfüllen.", answer: false, why: "Er füllt ein Formular aus." }
+      - { q: "Bruno wohnt in Mitte. — Bruno lives in Mitte.", answer: false, why: "Bruno wohnt in Friedrichshain, not Mitte." }
+      - { q: "Sein Vermieter heißt Herr Koch. — His landlord's name is Mr. Koch.", answer: true, why: "Sein Vermieter heißt Herr Koch." }
+      - { q: "Bruno hat keinen Wohnungsgebernachweis. — Bruno doesn't have a landlord's confirmation of tenancy.", answer: false, why: "Er hat einen Wohnungsgebernachweis von Herrn Koch." }
+      - { q: "Bruno bucht einen Termin für Dienstag. — Bruno books an appointment for Tuesday.", answer: true, why: "Dienstag, 8. November, 9 Uhr." }
+      - { q: "Bruno muss kein Formular ausfüllen. — Bruno doesn't have to fill out a form.", answer: false, why: "Er füllt ein Formular aus." }
 
   - id: C4b
     block: C
@@ -818,28 +818,28 @@ exercises:
 
       Wähle a, b oder c.
     items:
-      - q: "Den Wohnungsgebernachweis bekommt man von …"
+      - q: "Den Wohnungsgebernachweis bekommt man von … — You get the landlord's confirmation of tenancy from …"
         options:
           - { key: a, text: "dem Bürgeramt." }
           - { key: b, text: "dem Vermieter." }
           - { key: c, text: "dem Finanzamt." }
         answer: b
         why: "vom Vermieter."
-      - q: "Ohne Termin …"
+      - q: "Ohne Termin … — Without an appointment …"
         options:
           - { key: a, text: "kann man kommen." }
           - { key: b, text: "kostet es mehr." }
           - { key: c, text: "ist keine Beratung möglich." }
         answer: c
         why: "Ohne Termin können wir Sie leider nicht beraten."
-      - q: "Die Anmeldung kostet …"
+      - q: "Die Anmeldung kostet … — Registration costs …"
         options:
           - { key: a, text: "15 Euro." }
           - { key: b, text: "20 Euro." }
           - { key: c, text: "nichts." }
         answer: c
         why: "kostenlos = free."
-      - q: "Ein Termin dauert …"
+      - q: "Ein Termin dauert … — An appointment lasts …"
         options:
           - { key: a, text: "ungefähr eine Stunde." }
           - { key: b, text: "ungefähr 15–20 Minuten." }
