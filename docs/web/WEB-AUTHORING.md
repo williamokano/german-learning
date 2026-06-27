@@ -78,7 +78,7 @@ generator produces it, then reference that file).
 ## 3. Exercises — one worked `exercises.yml` example per type
 
 Full field reference: `CONTENT-MODEL.md §3`. Keep ids aligned with AUTHORING's block
-architecture (H1–H4, A1–A12, B1–B10, C1–C5, D1–D4). Answers may be a string or a
+architecture (H1–H6, A1–A12, B1–B10, C1–C5, D1–D4). Answers may be a string or a
 list of accepted alternatives.
 
 > **Standalone rule:** the exercises page must work entirely on its own — it cannot
@@ -125,6 +125,36 @@ alternatives list for "also fine" and `notes`/`why` for the explanation.
     - { label: "sein", cells: [
         { gap: 1, answer: bin }, { gap: 2, answer: bist }, { gap: 3, answer: ist },
         { gap: 4, answer: sind }, { gap: 5, answer: seid }, { gap: 6, answer: sind } ] }
+```
+
+### `table-fill` — H5 listening-grid (reuses dialog audio)
+Block H5 (A2+) uses `table-fill` with **exercise-level `audio:`** pointing at an
+existing `dialog1_a.mp3` or `dialog1_b.mp3` (no new TTS). Columns are lesson-specific
+facts from the dialog (Person / Was / Wann / Wo / Highlight); each row has one empty
+cell (`gap` + `answer`) and the rest are pre-filled `given:` hints:
+```yaml
+- id: H5
+  block: H
+  type: table-fill
+  title: "Tabelle ausfüllen: Dialog B (Wien-Reise)"
+  audio: dialog1_b.mp3           # reuse existing dialog clip — do NOT generate new TTS
+  instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt eine Information."
+  columns: ["Person", "Was", "Wann", "Wo", "Highlight"]
+  rows:
+    - label: "Herr Steinmeyer"
+      cells:
+        - { given: "Herr Steinmeyer" }
+        - { gap: 1, answer: "Museumsbesuch" }
+        - { given: "zuerst" }
+        - { given: "Kunsthistorisches Museum" }
+        - { given: "—" }
+    - label: "die Tochter"
+      cells:
+        - { given: "die Tochter" }
+        - { given: "Film schauen" }
+        - { gap: 2, answer: "während" }
+        - { gap: 3, answer: "Hotel" }
+        - { given: "—" }
 ```
 
 ### `gap-bank` — word bank (drag/click)

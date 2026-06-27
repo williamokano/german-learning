@@ -450,7 +450,7 @@ with literal English glosses for tricky structures.
 
 ### Block H — Hören (comes FIRST, before Block A; not counted in 28–32 target)
 
-Block H contains **four exercise types** (H1, H3, H4 every lesson; H2 A1/01–04 only):
+Block H contains **six exercise types** (H1, H3, H4 every lesson; H2 A1/01–04 only; H5 every lesson from A2 onwards; H6 spec-defined, retrofit TBD):
 
 **H1 — Dialog Hör-Check** (every lesson)
 One exercise per dialog clip. If the lesson has `dialog1_a` + `dialog1_b`,
@@ -534,6 +534,71 @@ Listen to the voice message. Then choose the correct answer (a, b, or c).
 
 After writing H4, run: `python3 scripts/generate_audio.py <lesson>/exercises.md`
 (separate from the lesson.md run — exercises.md audio is generated independently).
+
+**H5 — Tabelle ausfüllen (Table Completion)** (every lesson from A2 onwards)
+Students listen to an existing dialog clip (`dialog1_a.mp3` or `dialog1_b.mp3` — never generate new TTS) and fill in a 4–5 column grid (e.g. *Person / Was / Wann / Wo / Wie*). The widget is the existing `table-fill` exercise type (per `docs/web/WEB-AUTHORING.md`). Use 3–4 rows; for each row, leave one cell empty (the other cells are `given:` hints, so the student can focus on the missing fact per row).
+
+*Why this format:* H1 / H4 test comprehension with whole-sentence statements ("Warum ruft X an?", "Was hat Y besucht?"). H5 instead tests **extracting a structured row of facts** from running speech — the same listening sub-skill the telc / Goethe *Hören Teil 2* tables and *Hören Teil 3* matching exercises directly use. Tabular extraction is also how learners take real-world notes (a phone call, a meeting summary, a travel itinerary) — a transfer skill, not just an exam trick.
+
+*Design rules:*
+
+- **Pick a dialog with 4–5 distinguishable facts.** Per row: who did what, when, where, how (and a fifth if natural — price, transport, company, etc.). If neither dialog has enough, fall back to the Hörtext (`hoertext.mp3`).
+- **4–5 columns, 3–4 rows.** Smaller is better: the format tests extraction, not transcribing.
+- **One empty cell per row.** Pre-fill 3–4 cells as `given:` so the student fills only the gap. Avoid fully-empty rows (too open-ended for an A2 listening task) or fully-given rows (zero listening load).
+- **Audio is the existing dialog clip** (`dialog1_a.mp3` or `dialog1_b.mp3`). Do **not** generate new TTS for H5. The H5 audio link reuses the same filename as the H1 clip it pairs with — students hear familiar voices, the table just frames what to listen for.
+- **Column headers are lesson-specific.** Don't reuse the same 4 columns across all lessons; pick headers that match the dialog's facts (e.g. *Person / Reiseziel / Dauer / Highlight* for a travel dialog; *Beruf / Firma / Aufgabe / Kollegen* for a workplace dialog).
+
+*YAML pattern:*
+
+```yaml
+- id: H5
+  block: H
+  type: table-fill
+  title: "Tabelle ausfüllen: Dialog B (Vienna trip)"
+  audio: dialog1_b.mp3          # reuse the existing dialog clip — no new TTS
+  columns: ["Person", "Was", "Wann", "Wo", "Highlight"]
+  rows:
+    - label: "Herr Steinmeyer"
+      cells:
+        - { given: "Herr Steinmeyer",          gap: 1, answer: "Museumsbesuch" }
+        - { given: "zuerst",                  gap: 2, answer: "zuerst" }  # etc.
+```
+
+(Schema reference: `docs/web/WEB-AUTHORING.md` §3 — `table-fill`.)
+
+*Instructions template:* "Hör den Dialog einmal und fülle die Tabelle aus. In jeder Zeile fehlt **eine** Information."
+
+*Validation gate:* `npx tsx build/gen-exercises.ts <lesson> --check` must exit 0. The schema requires `columns: [...]` and `rows: [{ label, cells: [...] }]`; each cell is either `null` (blank) or `{ gap, answer, given? }`.
+
+**H6 — Ereignisse sortieren (Sequencing)** (spec-defined; retrofit deferred)
+Students listen to a short dialog or Hörtext clip and **order 4–6 events** chronologically or logically (e.g. "what happened first / next / after that / finally"). Uses the existing `order` exercise type with timeline-style tiles.
+
+*Why this format:* complements H5's "extract facts" with "sequence facts" — both are core Hören Teil 2 / Teil 3 sub-skills, and together they cover the listening sub-skill matrix more completely than H1 + H3 + H4 alone.
+
+*Design rules:*
+
+- **4–6 events** as `tiles`. Each tile is a short German clause (5–10 words) that names a single event ("sie sind in die Oper gegangen", "sie haben im Café gefrühstückt").
+- **One audio clip** for the whole exercise — reuse a dialog or the Hörtext (no new TTS). Optionally exercise-level `audio:` field; or per-tile audio is not needed because the whole sequence comes from one clip.
+- **`answer:` is the permutation indices** `[0, 1, 3, 2, 4]` etc. matching the chronological order.
+- **Allow one `alt:` permutation** for "either order is fine" cases (e.g. two events close in time).
+
+*Status:* the format is **spec-defined and widget-ready** (it uses the existing `order` exercise type). Retrofit to A2/01–A2/14 is **deferred** — see issue #2 for the roadmap. Do not retrofit H6 without an explicit instruction.
+
+*YAML pattern (illustrative):*
+
+```yaml
+- id: H6
+  block: H
+  type: order
+  title: "Ereignisse sortieren: Wien-Reise"
+  audio: dialog1_b.mp3          # reuse existing clip
+  instructions: "Hör den Dialog und bringe die Ereignisse in die richtige Reihenfolge."
+  items:
+    - tiles: ["sie haben im Café gefrühstückt", "sie haben das Museum besucht",
+              "die Tochter hat einen Film geschaut", "sie sind in die Oper gegangen"]
+      answer: [1, 3, 2, 0]
+      note: "Museum → Oper → Tochter (Hotel) → Café"
+```
 
 ### Block A — Basistraining (10–12 exercises)
 
@@ -678,6 +743,10 @@ What the yml needs to provide for the generated solutions to be useful:
   - [ ] H4 Kurze Ansage: 3–4 MC/R-F questions, `transcript:` field set so
         the generator emits the `<details>` + `**Ansage 1 — Transcript**`
         block, `audio: transcript_ansage1.mp3`
+  - [ ] H5 Tabelle ausfüllen (A2+ only): 4–5 columns × 3–4 rows reusing
+        the existing `dialog1_a.mp3` or `dialog1_b.mp3` (no new TTS); one
+        empty cell per row as the gap; column headers match the dialog's
+        facts. Type: `table-fill`.
 - [ ] Tier 1 only (A1/01–04): `### 🔊 Aussprache` with `Hör zu` lines in Wortschatz
 - [ ] Tier 3 (all lessons): `## 6. Hörtext` with `<details>` spoiler, 4–6 sentences
   - [ ] Hörtext scene is DIFFERENT from the Lesetext scene

@@ -388,6 +388,16 @@ In addition to the v1 definition of done in `AUTHORING.md`:
 - [ ] If `lesson-short.md` also exists: dialogs, Hörtext, and Wortschatz
       agree word-for-word between the two files.
 
+## 7a. Block H exercises — v2 note
+
+The full Block H spec (H1 Dialog Hör-Check, H2 Aussprache-Check, H3 Hörtext-
+Lückentext, H4 Kurze Ansage, H5 Tabelle ausfüllen, H6 Ereignisse sortieren)
+lives in `AUTHORING.md` § "Block H — Hören" and `docs/web/WEB-AUTHORING.md`.
+The exercises yml is identical for v1 and v2 lessons — the Block H structure
+does not change between lesson versions. When you retrofit an A2+ lesson with
+H5, just insert the new exercise between H4 and Block A in `exercises.yml`;
+no `lesson.md` or `lesson-short.md` changes are required.
+
 ---
 
 ## 8. Dispatch template (for the orchestrator)
