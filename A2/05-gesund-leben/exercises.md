@@ -60,6 +60,19 @@ Listen to the answerphone message. Then choose the correct answer (a, b, or c). 
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Apotheken-Beratung)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Problem / Thema | Empfehlung | Wann / Wie oft |
+|---|---|---|
+| Müde + Kopfschmerzen | Müdigkeit und Kopfschmerzen | ______ | abends vor dem Schlafen |
+| Schlafprobleme | Schlafprobleme durch Stress | mehr Schlaf | ______ |
+| Entspannung | fünfzehn Minuten ohne Bildschirm | ______ | ______ |
+| Bewegung | regelmäßige Bewegung | mehr spazieren gehen | ______ |
+
 ---
 
 # Block A — Basistraining
