@@ -64,6 +64,19 @@ Listen to the voice message. Then choose the correct answer (a, b, or c). Listen
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Laptop-Vergleich)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Laptop | Preis | Eigenschaft |
+|---|---|---|
+| Günstiges Modell (grau) | 449 Euro | ______ | graues Modell |
+| Schwarzes Modell | 599 Euro (ca.) | ______ | schwarzes Modell |
+| Akku-Vorteil | sechs Stunden länger | ______ | schwarzes Modell |
+| Kaufentscheidung | Frau Weber | ______ | wegen Akku |
+
 ---
 
 # Block A — Basistraining

@@ -118,6 +118,35 @@ exercises:
         answer: a
         why: "Bitte ruf mich zurück und sag mir, was du denkst."
 
+  - id: H5
+    block: H
+    type: table-fill
+    title: "Tabelle ausfüllen: Dialog B (Laptop-Vergleich)"
+    audio: dialog1_b.mp3
+    instructions: "Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir."
+    columns: ["Laptop", "Preis", "Eigenschaft"]
+    rows:
+      - label: "Günstiges Modell (grau)"
+        cells:
+          - { gap: 1, answer: "449 Euro", given: "449 Euro" }
+          - { gap: 2, answer: "am günstigsten" }
+          - { gap: 3, answer: "graues Modell", given: "graues Modell" }
+      - label: "Schwarzes Modell"
+        cells:
+          - { gap: 4, answer: "599 Euro (ca.)", given: "599 Euro (ca.)" }
+          - { gap: 5, answer: "moderner und schneller" }
+          - { gap: 6, answer: "schwarzes Modell", given: "schwarzes Modell" }
+      - label: "Akku-Vorteil"
+        cells:
+          - { gap: 7, answer: "sechs Stunden länger", given: "sechs Stunden länger" }
+          - { gap: 8, answer: "besten Akku" }
+          - { gap: 9, answer: "schwarzes Modell", given: "schwarzes Modell" }
+      - label: "Kaufentscheidung"
+        cells:
+          - { gap: 10, answer: "Frau Weber", given: "Frau Weber" }
+          - { gap: 11, answer: "schwarzes Modell" }
+          - { gap: 12, answer: "wegen Akku", given: "wegen Akku" }
+
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
   - id: A1

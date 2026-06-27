@@ -29,6 +29,15 @@
 3. **a) Der blaue.** — Der blaue ist günstiger und sparsamer.
 4. **a) Zurückrufen und ihre Meinung sagen.** — Bitte ruf mich zurück und sag mir, was du denkst.
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Laptop-Vergleich)
+
+| Laptop | Preis | Eigenschaft |
+|---|---|---|
+| Günstiges Modell (grau) | 449 Euro | **am günstigsten** | graues Modell |
+| Schwarzes Modell | 599 Euro (ca.) | **moderner und schneller** | schwarzes Modell |
+| Akku-Vorteil | sechs Stunden länger | **besten Akku** | schwarzes Modell |
+| Kaufentscheidung | Frau Weber | **schwarzes Modell** | wegen Akku |
+
 ---
 
 # Block A — Basistraining
