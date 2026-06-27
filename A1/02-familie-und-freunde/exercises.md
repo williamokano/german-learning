@@ -30,7 +30,7 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 ## Übung H2 — Aussprache-Check
 
-Listen to the Hör zu clips in lesson.md (Wortschatz → 🔊 Aussprache) and pick the matching answer.
+Höre den Hör-zu-Clip und wähle die passende Antwort.
 
 1. Hör zu 1 (Familie) — who is the father of your mother?  
    a) der Bruder  b) der Großvater  c) der Onkel
