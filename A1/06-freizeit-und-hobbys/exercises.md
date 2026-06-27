@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre und entscheide: richtig (R) oder falsch (F)?
 
 1. Bruno spielt gern Fußball. — Bruno likes playing football. ( )
 2. Anna geht auch gern ins Schwimmbad. — Anna also likes going to the pool. ( )
@@ -19,7 +19,7 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre und entscheide: richtig (R) oder falsch (F)?
 
 1. Im zweiten Dialog regnet es. — In the second dialog it is raining. ( )
 2. Am Ende gehen Anna und Bruno ins Kino. — At the end Anna and Bruno go to the movies. ( )
@@ -28,7 +28,7 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill each gap with one word from the bank. Three words are not needed.
+Höre und fülle jede Lücke mit einem Wort aus dem Kasten. Drei Wörter werden nicht gebraucht.
 
 > Am (1) ______ spielt Bruno gern (2) ______ im Park. Manchmal spielt er auch mit
 > Anna Tennis. Am (3) ______ geht er schwimmen — das (4) ______ ist im Park.
@@ -75,7 +75,7 @@ Höre die Nachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einma
 
 ## Übung A2 — Build the bracket
 
-Rewrite with `können`. The second verb goes to the END as an infinitive! Example: Ich schwimme gut. → Ich kann gut schwimmen.
+Bilde die Sätze mit "können". Das zweite Verb steht am ENDE als Infinitiv! Beispiel: Ich schwimme gut. → Ich kann gut schwimmen.
 
 1. Ich schwimme gut. → ______
 2. Er kocht sehr gut. → ______
@@ -125,7 +125,7 @@ Rewrite with `können`. The second verb goes to the END as an infinitive! Exampl
 
 ## Übung A6 — `fernsehen`: separable AND e → ie
 
-Two gaps per sentence!
+Zwei Lücken pro Satz!
 
 1. Ich ______ abends gern ______.
 2. ______ du viel ______?
@@ -136,7 +136,7 @@ Two gaps per sentence!
 
 ## Übung A7 — Stem changes mixed (incl. earlier lessons)
 
-Write the correct form.
+Schreibe die richtige Form.
 
 1. du (lesen) → du ______
 2. er (sehen) → er ______
@@ -175,7 +175,7 @@ Write the correct form.
 
 ## Übung A10 — Die Jahreszeiten
 
-Which season is it? Fill in `im` + season for the second part.
+Welche Jahreszeit ist es? Ergänze für den zweiten Teil „im" + Jahreszeit.
 
 1. Es schneit und es ist sehr kalt: der ______
 2. Die Sonne scheint und es ist heiß: der ______
@@ -188,7 +188,7 @@ Which season is it? Fill in `im` + season for the second part.
 
 ## Übung A11 — Which verb fits?
 
-Verbs can be used more than once: spielen · hören · fahren · sehen · treffen · lesen · gehen
+Verben können mehrfach verwendet werden: spielen · hören · fahren · sehen · treffen · lesen · gehen
 
 1. Fußball ______
 2. Musik ______
@@ -203,7 +203,7 @@ Verbs can be used more than once: spielen · hören · fahren · sehen · treffe
 
 ## Übung A12 — Build sentences with gern
 
-Example: ich / gern / Musik hören → Ich höre gern Musik.
+Beispiel: ich / gern / Musik hören → Ich höre gern Musik.
 
 1. ich / gern / Musik hören → ______
 2. Anna / lieber / Rad fahren → ______
@@ -242,7 +242,7 @@ Example: ich / gern / Musik hören → Ich höre gern Musik.
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
+Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form.
 
 1. Ich kann gut ______. (schwimme → ?)
 2. Er ______ sehr gut kochen. (kannt → ?)
@@ -283,7 +283,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 ## Übung B6 — Kategorien
 
-Sort the 12 words: Sport · Musik · Wetter · Jahreszeiten
+Sortiere die 12 Wörter: Sport · Musik · Wetter · Jahreszeiten
 
 > Fußball · schwimmen · joggen · Gitarre · singen · Musik · Regen · Schnee · Wind · Frühling · Herbst · Winter
 
@@ -338,7 +338,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Jonas wohnt in Köln. Er hat viele Hobbys: Er (1) ______ sehr gern
 Bücher, am liebsten Krimis. Er hört auch gern (2) ______ und
@@ -362,7 +362,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Five words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > — Hallo Anna! Wie ist das Wetter in Berlin?
 > — Es (1) ______ und es ist kalt — nur zehn (2) ______.

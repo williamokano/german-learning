@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog 1: Was machst du gern?"
     audio: dialog1.mp3
-    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    instructions: "Höre und entscheide: richtig (R) oder falsch (F)?"
+    instructionsEn: "Listen and decide: true (R) or false (F)?"
     items:
       - q: "Bruno spielt gern Fußball. — Bruno likes playing football."
         answer: true
@@ -29,7 +30,8 @@ exercises:
     type: true-false
     title: "Dialog 2: Das Wetter ist schlecht"
     audio: dialog2.mp3
-    instructions: "Listen and decide: richtig (R) oder falsch (F)?"
+    instructions: "Höre und entscheide: richtig (R) oder falsch (F)?"
+    instructionsEn: "Listen and decide: true (R) or false (F)?"
     items:
       - q: "Im zweiten Dialog regnet es. — In the second dialog it is raining."
         answer: true
@@ -43,7 +45,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen and fill each gap with one word from the bank. Three words are not needed."
+    instructions: "Höre und fülle jede Lücke mit einem Wort aus dem Kasten. Drei Wörter werden nicht gebraucht."
+    instructionsEn: "Listen and fill each gap with one word from the bank. Three words are not needed."
     text: |
       Am {1} spielt Bruno gern {2} im Park. Manchmal spielt er auch mit
       Anna Tennis. Am {3} geht er schwimmen — das {4} ist im Park.
@@ -130,7 +133,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Build the bracket"
-    instructions: "Rewrite with `können`. The second verb goes to the END as an infinitive! Example: Ich schwimme gut. → Ich kann gut schwimmen."
+    instructions: "Bilde die Sätze mit \"können\". Das zweite Verb steht am ENDE als Infinitiv! Beispiel: Ich schwimme gut. → Ich kann gut schwimmen."
+    instructionsEn: "Rewrite with `können`. The second verb goes to the END as an infinitive! Example: Ich schwimme gut. → Ich kann gut schwimmen."
     text: |
       1. Ich schwimme gut. → {1}
       2. Er kocht sehr gut. → {2}
@@ -235,7 +239,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`fernsehen`: separable AND e → ie"
-    instructions: "Two gaps per sentence!"
+    instructions: "Zwei Lücken pro Satz!"
+    instructionsEn: "Two gaps per sentence!"
     text: |
       1. Ich {1} abends gern {2}.
       2. {3} du viel {4}?
@@ -262,7 +267,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Stem changes mixed (incl. earlier lessons)"
-    instructions: "Write the correct form."
+    instructions: "Schreibe die richtige Form."
+    instructionsEn: "Write the correct form."
     text: |
       1. du (lesen) → du {1}
       2. er (sehen) → er {2}
@@ -342,7 +348,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Die Jahreszeiten"
-    instructions: "Which season is it? Fill in `im` + season for the second part."
+    instructions: "Welche Jahreszeit ist es? Ergänze für den zweiten Teil „im\" + Jahreszeit."
+    instructionsEn: "Which season is it? Fill in `im` + season for the second part."
     text: |
       1. Es schneit und es ist sehr kalt: der {1}
       2. Die Sonne scheint und es ist heiß: der {2}
@@ -371,7 +378,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Which verb fits?"
-    instructions: "Verbs can be used more than once: spielen · hören · fahren · sehen · treffen · lesen · gehen"
+    instructions: "Verben können mehrfach verwendet werden: spielen · hören · fahren · sehen · treffen · lesen · gehen"
+    instructionsEn: "Verbs can be used more than once: spielen · hören · fahren · sehen · treffen · lesen · gehen"
     text: |
       1. Fußball {1}
       2. Musik {2}
@@ -400,7 +408,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Build sentences with gern"
-    instructions: "Example: ich / gern / Musik hören → Ich höre gern Musik."
+    instructions: "Beispiel: ich / gern / Musik hören → Ich höre gern Musik."
+    instructionsEn: "Example: ich / gern / Musik hören → Ich höre gern Musik."
     text: |
       1. ich / gern / Musik hören → {1}
       2. Anna / lieber / Rad fahren → {2}
@@ -473,7 +482,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler"
-    instructions: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
+    instructions: "Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form."
+    instructionsEn: "Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form."
     text: |
       1. Ich kann gut {1}. (schwimme → ?)
       2. Er {2} sehr gut kochen. (kannt → ?)
@@ -569,7 +579,8 @@ exercises:
     block: B
     type: categorize
     title: "Kategorien"
-    instructions: "Sort the 12 words: Sport · Musik · Wetter · Jahreszeiten"
+    instructions: "Sortiere die 12 Wörter: Sport · Musik · Wetter · Jahreszeiten"
+    instructionsEn: "Sort the 12 words: Sport · Musik · Wetter · Jahreszeiten"
     buckets:
       - { key: sport, label: "Sport" }
       - { key: musik, label: "Musik" }
@@ -660,7 +671,8 @@ exercises:
     block: C
     type: gap-text
     title: "Lückentext"
-    instructions: "Fill each gap with one word."
+    instructions: "Fülle jede Lücke mit einem Wort."
+    instructionsEn: "Fill each gap with one word."
     text: |
       Jonas wohnt in Köln. Er hat viele Hobbys: Er {1} sehr gern
       Bücher, am liebsten Krimis. Er hört auch gern {2} und
@@ -736,7 +748,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal."
+    instructionsEn: "Fill the 10 gaps from the box. Five words are not needed. Each word once."
     text: |
       — Hallo Anna! Wie ist das Wetter in Berlin?
       — Es {1} und es ist kalt — nur zehn {2}.
