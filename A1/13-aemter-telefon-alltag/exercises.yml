@@ -775,7 +775,28 @@ exercises:
     block: C
     type: true-false
     title: 'Lesen Text 1 — „Die Anmeldung"'
-    instructions: 'Read „Die Anmeldung" in lesson.md, section 7. Richtig (R) oder falsch (F)?'
+    instructions: |
+      > Bruno ist neu in Berlin. Er kommt aus Blumenau (Santa Catarina) und
+      > wohnt jetzt in Friedrichshain. Sein Vermieter heißt Herr Koch. Herr
+      > Koch hat ihm schon einen Wohnungsgebernachweis gegeben.
+      >
+      > Jetzt ruft Bruno das Bürgeramt an. Die Sachbearbeiterin sagt: „Sie
+      > brauchen Ihren Reisepass und den Wohnungsgebernachweis. Möchten Sie
+      > online einen Termin buchen?" Bruno sagt ja und bucht einen Termin
+      > für Dienstag, den achten November, um neun Uhr.
+      >
+      > Am Dienstag geht Bruno ins Bürgeramt. Er wartet im Warteraum. Dann
+      > kommt er an den Schalter. Die Beamtin sagt: „Guten Morgen! Bitte
+      > füllen Sie dieses Formular aus." Bruno füllt das Formular aus:
+      > Vorname, Familienname, Geburtsdatum, Geburtsort, Staatsangehörigkeit,
+      > Adresse in Berlin. Er unterschreibt und gibt der Beamtin die
+      > Dokumente.
+      >
+      > Die Beamtin prüft alles und sagt: „Alles in Ordnung. Willkommen in
+      > Berlin, Herr Rodrigues!" — „Vielen Dank!" sagt Bruno. Er ist jetzt
+      > offiziell in Berlin angemeldet.
+
+      Richtig (R) oder falsch (F)?
     items:
       - { q: "Bruno wohnt in Mitte.", answer: false, why: "Bruno wohnt in Friedrichshain, not Mitte." }
       - { q: "Sein Vermieter heißt Herr Koch.", answer: true, why: "Sein Vermieter heißt Herr Koch." }
