@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1.mp3](audio/dialog1.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre und entscheide: richtig (R) oder falsch (F)?
 
 1. Anna sucht eine rote Jacke. — Anna is looking for a red jacket. ( )
 2. Die Jacke passt Anna gut. — The jacket fits Anna well. ( )
@@ -21,7 +21,7 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 🎧 **Audio:** [dialog2.mp3](audio/dialog2.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre und entscheide: richtig (R) oder falsch (F)?
 
 1. Bruno sucht Sportschuhe. — Bruno is looking for sports shoes. ( )
 2. Bruno probiert die Schuhe in Größe 42 an. — Bruno tries on the shoes in size 42. ( )
@@ -32,7 +32,7 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen and fill in the 5 missing words. Three words in the box are not needed.
+Höre und fülle die 5 fehlenden Wörter ein. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Bruno sucht ein (1) ______ für seine Mutter.
 > Er geht in ein (2) ______ und findet eine schöne Tasche.
@@ -75,7 +75,7 @@ Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einma
 
 ## Übung A2 — `gefallen`: complete the sentences
 
-Use the correct form of `gefallen` and the correct dative pronoun.
+Verwende die richtige Form von „gefallen" und das richtige Dativpronomen.
 
 1. Es ______ ______ (I like it).
 2. Sie ______ ______ gut. (We like them.)
@@ -88,7 +88,7 @@ Use the correct form of `gefallen` and the correct dative pronoun.
 
 ## Übung A3 — `passen` und `stehen`: dative drill
 
-Fill in `passt` or `steht` AND the correct dative pronoun.
+Ergänze „passt" oder „steht" UND das richtige Dativpronomen.
 
 1. Die Hose ______ ______ gut. (it fits me)
 2. Der Hut ______ ______ sehr gut! (it suits you — informal)
@@ -101,7 +101,7 @@ Fill in `passt` or `steht` AND the correct dative pronoun.
 
 ## Übung A4 — `gehören` und `helfen`: dative
 
-Fill in the correct form of the verb and the correct dative pronoun.
+Ergänze die richtige Form des Verbs und das passende Dativpronomen.
 
 1. Wem ______ diese Tasche? — Sie ______ ______ (to me).
 2. Kann ich ______ helfen? (you — formal)
@@ -114,7 +114,7 @@ Fill in the correct form of the verb and the correct dative pronoun.
 
 ## Übung A5 — `dieser/diese/dieses`: nominative and accusative
 
-Choose the correct form of `dieser`.
+Wähle die richtige Form von „dieser".
 
 1. ______ Pullover (m) ist sehr schön. (Nom)
 2. Ich nehme ______ Jacke (f). (Akk)
@@ -127,7 +127,7 @@ Choose the correct form of `dieser`.
 
 ## Übung A6 — `welcher?/welche?/welches?`
 
-Fill in the correct form of `welcher`.
+Ergänze die richtige Form von „welcher".
 
 1. ______ Pullover gefällt dir? (m)
 2. ______ Jacke nimmst du? (f)
@@ -140,7 +140,7 @@ Fill in the correct form of `welcher`.
 
 ## Übung A7 — `tragen` (e → ä irregular): conjugation table
 
-`tragen` (to wear) is irregular: the vowel changes **a → ä** for `du` and `er/sie/es`.
+„tragen" (to wear) ist unregelmäßig: der Vokal ändert sich **a → ä** bei „du" und „er/sie/es".
 
 ich trage · du ______ · er/sie/es ______ · wir tragen · ihr tragt · sie/Sie tragen
 3. Ich ______ heute ein neues T-Shirt.
@@ -152,14 +152,14 @@ ich trage · du ______ · er/sie/es ______ · wir tragen · ihr tragt · sie/Sie
 
 ## Übung A8 — Kleidung + Artikel: der, die oder das?
 
-Write the article and the plural.
+Schreibe den Artikel und die Pluralform.
 
 1. ______ Jacke, ______  2. ______ Pullover, ______  3. ______ Kleid, ______  4. ______ Schuh, ______  5. ______ Hose, ______
 6. ______ Hemd, ______  7. ______ Mantel, ______  8. ______ Rock, ______  9. ______ Bluse, ______  10. ______ Stiefel, ______
 
 ## Übung A9 — Separable verbs: `anprobieren` und `einpacken`
 
-Rewrite with the correct verb position. Remember: the prefix goes to the END.
+Schreibe mit der richtigen Verbposition. Merke: die Vorsilbe steht am ENDE.
 
 1. Ich möchte diese Jacke ______. (anprobieren)
 2. Darf ich den Mantel ______? (anprobieren)
@@ -170,7 +170,7 @@ Rewrite with the correct verb position. Remember: the prefix goes to the END.
 
 ## Übung A10 — Dative pronoun substitution
 
-Replace the underlined phrase with the correct dative pronoun.
+Ersetze die unterstrichene Phrase durch das richtige Dativpronomen.
 
 1. Das Kleid gefällt ______. (meiner Mutter)
 2. Die Jacke passt ______ nicht. (meinem Bruder)
@@ -192,7 +192,7 @@ Replace the underlined phrase with the correct dative pronoun.
 
 ## Übung A12 — Farben: match or fill in
 
-Write the color in German. Then make sentences using the color as a predicative adjective.
+Schreibe die Farbe auf Deutsch. Bilde dann Sätze mit der Farbe als prädikatives Adjektiv.
 
 1. red → ______  2. blue → ______  3. green → ______  4. black → ______
 5. white → ______  6. yellow → ______  7. grey → ______  8. brown → ______
@@ -207,7 +207,7 @@ Write the color in German. Then make sentences using the color as a predicative 
 
 ## Übung B1 — Dialog ergänzen: Im Kaufhaus
 
-Fill in the gaps with one word each.
+Ergänze die Lücken mit je einem Wort.
 
 — Guten Tag! (1) ______ ich Ihnen helfen?
 — Ja, gern. Ich (2) ______ eine Hose für die Arbeit.
@@ -264,7 +264,7 @@ Jeder Satz enthält genau einen Fehler. Finden und korrigieren Sie ihn.
 
 ## Übung B5 — Satzbau (word order)
 
-Build correct sentences. Watch verb position and dative pronoun placement.
+Bilde korrekte Sätze. Achte auf die Verbposition und die Stellung des Dativpronomens.
 
 1. gefällt – Jacke – mir – sehr – diese
 2. nimmst – Mantel – ? – welchen – du
@@ -279,7 +279,7 @@ Build correct sentences. Watch verb position and dative pronoun placement.
 
 ## Übung B6 — Kategorien: Kleidung sortieren
 
-Sort the 12 words into four categories: Oberbekleidung · Unterbekleidung & Accessoires · Schuhe · Farben
+Sortiere die 12 Wörter in vier Kategorien: Oberbekleidung · Unterbekleidung & Accessoires · Schuhe · Farben
 
 > Jacke · Socke · rot · Stiefel · Bluse · Krawatte · schwarz · Schuh · Pullover · Hemd · blau · Gürtel
 
@@ -330,7 +330,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Anna ist im Kaufhaus. Sie sucht eine Hose für die Arbeit. Die Verkäuferin
 fragt: „Kann ich (1) ______ helfen?" Anna sagt: „Ja, gern. Ich (2) ______ eine
@@ -354,7 +354,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Five words are not needed. Each word once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort nur einmal.
 
 > — Guten Tag! Kann ich (1) ______ helfen?
 > — Ja, danke. Ich (2) ______ ein Geschenk für meinen Bruder.
