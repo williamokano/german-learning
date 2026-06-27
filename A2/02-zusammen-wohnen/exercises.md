@@ -66,6 +66,19 @@ Listen to the phone message. Then choose the correct answer (a, b, or c). Listen
 
 </details>
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Wohnung Steinmeyers)
+
+🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
+
+Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Information — die Hinweise in den anderen Zellen helfen dir.
+
+| Was (Möbel) | Wo (Lage) | Verb |
+|---|---|---|
+| Sofa | Sofa | vor dem Fernseher | ______ |
+| Esstisch | Esstisch | in der Mitte des Wohnzimmers | ______ |
+| Bilder | Bilder | an der Wand | ______ |
+| Bett (Tochter) | Bett | unter dem Fenster | ______ |
+
 ---
 
 # Block A — Basistraining

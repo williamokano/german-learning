@@ -29,6 +29,15 @@
 3. **a) Eine Mietschuldenfreiheitsbescheinigung und den Personalausweis.** — „Bitte bringen Sie eine Mietschuldenfreiheitsbescheinigung und Ihren Personalausweis mit."
 4. **b) Bis morgen Abend.** — „Bitte rufen Sie mich bis morgen Abend zurück, um den Termin zu bestätigen."
 
+## Übung H5 — Tabelle ausfüllen: Dialog B (Wohnung Steinmeyers)
+
+| Was (Möbel) | Wo (Lage) | Verb |
+|---|---|---|
+| Sofa | Sofa | vor dem Fernseher | **steht** |
+| Esstisch | Esstisch | in der Mitte des Wohnzimmers | **steht** |
+| Bilder | Bilder | an der Wand | **hängen** |
+| Bett (Tochter) | Bett | unter dem Fenster | **steht** |
+
 ---
 
 # Block A — Basistraining
