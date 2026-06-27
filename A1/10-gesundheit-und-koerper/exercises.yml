@@ -17,16 +17,16 @@ exercises:
     audio: dialog1.mp3
     instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
     items:
-      - q: "Der Patient hat Halsschmerzen und Kopfschmerzen."
+      - q: "Der Patient hat Halsschmerzen und Kopfschmerzen. — The patient has a sore throat and a headache."
         answer: true
         why: 'Der Patient sagt: „Ich habe Halsschmerzen und Kopfschmerzen."'
-      - q: "Der Arzt sagt, der Patient soll ins Krankenhaus."
+      - q: "Der Arzt sagt, der Patient soll ins Krankenhaus. — The doctor says the patient should go to the hospital."
         answer: false
         why: 'Der Arzt sagt: „Ruhen Sie sich aus" — kein Krankenhaus.'
-      - q: "Der Arzt schreibt dem Patienten ein Rezept."
+      - q: "Der Arzt schreibt dem Patienten ein Rezept. — The doctor writes the patient a prescription."
         answer: true
         why: 'Der Arzt sagt: „Ich schreibe Ihnen ein Rezept."'
-      - q: "Der Patient hat 38,5 Grad Fieber."
+      - q: "Der Patient hat 38,5 Grad Fieber. — The patient has a fever of 38.5 degrees."
         answer: true
         why: 'Der Patient sagt: „38,5 Grad."'
 
@@ -37,16 +37,16 @@ exercises:
     audio: dialog2.mp3
     instructions: "Listen and decide: Richtig (R) oder Falsch (F)?"
     items:
-      - q: "Anna kauft Tabletten ohne Rezept."
+      - q: "Anna kauft Tabletten ohne Rezept. — Anna buys tablets without a prescription."
         answer: true
         why: "Anna hat kein Rezept und sucht etwas ohne Rezept."
-      - q: "Anna soll die Tabletten dreimal täglich nehmen."
+      - q: "Anna soll die Tabletten dreimal täglich nehmen. — Anna should take the tablets three times a day."
         answer: true
         why: 'Die Apothekerin sagt: „Nehmen Sie zwei Tabletten, dreimal täglich."'
-      - q: "Die Tabletten kosten fünfzehn Euro."
+      - q: "Die Tabletten kosten fünfzehn Euro. — The tablets cost fifteen euros."
         answer: false
         why: "Die Tabletten kosten sieben Euro neunzig, nicht fünfzehn Euro."
-      - q: "Anna darf die Tabletten nicht bei Magenschmerzen nehmen."
+      - q: "Anna darf die Tabletten nicht bei Magenschmerzen nehmen. — Anna is not allowed to take the tablets when she has a stomachache."
         answer: false
         why: 'Die Apothekerin sagt: „Ja, aber essen Sie vorher etwas" — Anna darf sie nehmen.'
 
@@ -81,28 +81,28 @@ exercises:
     instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: "Achtung, eine Durchsage. Liebe Kundinnen und Kunden, die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet. Unsere Öffnungszeiten am Sonntag sind von zehn bis achtzehn Uhr. Wir bieten auch einen kostenlosen Blutdruckmess-Service an. Ab nächster Woche haben wir auch einen Grippeimpf-Service. Kommen Sie einfach vorbei — wir beraten Sie gern. Vielen Dank und bleiben Sie gesund."
     items:
-      - q: "Wo ist die Apotheke?"
+      - q: "Wo ist die Apotheke? — Where is the pharmacy?"
         options:
           - { key: a, text: "Im Stadtzentrum." }
           - { key: b, text: "Im Hauptbahnhof." }
           - { key: c, text: "Im Einkaufszentrum." }
         answer: b
         why: '„die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet."'
-      - q: "Bis wann hat die Apotheke heute geöffnet?"
+      - q: "Bis wann hat die Apotheke heute geöffnet? — Until when is the pharmacy open today?"
         options:
           - { key: a, text: "Bis achtzehn Uhr." }
           - { key: b, text: "Bis neunzehn Uhr." }
           - { key: c, text: "Bis zwanzig Uhr." }
         answer: c
         why: '„die Apotheke im Hauptbahnhof hat heute bis zwanzig Uhr geöffnet."'
-      - q: "Welchen Service bietet die Apotheke jetzt schon an?"
+      - q: "Welchen Service bietet die Apotheke jetzt schon an? — Which service does the pharmacy already offer?"
         options:
           - { key: a, text: "Einen Zahnarzt-Service." }
           - { key: b, text: "Einen Blutdruckmess-Service." }
           - { key: c, text: "Einen Grippeimpf-Service." }
         answer: b
         why: '„Wir bieten auch einen kostenlosen Blutdruckmess-Service an."'
-      - q: "Welchen Service bietet die Apotheke ab nächster Woche an?"
+      - q: "Welchen Service bietet die Apotheke ab nächster Woche an? — Which service will the pharmacy offer starting next week?"
         options:
           - { key: a, text: "Einen Grippeimpf-Service." }
           - { key: b, text: "Einen Blutdruckmess-Service." }
@@ -726,14 +726,14 @@ exercises:
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
-      - q: "Guten Tag! Ich (1) ______ Schmerzen in meinem Rücken."
+      - q: "Guten Tag! Ich (1) ______ Schmerzen in meinem Rücken. — Good day! I (have) pain in my back."
         options:
           - { key: a, text: "habe" }
           - { key: b, text: "bin" }
           - { key: c, text: "nehme" }
         answer: a
         why: "ich-Form von haben: habe."
-      - q: "Mein Arzt (2) ______ , ich soll viel (3) ______ und nicht arbeiten."
+      - q: "Mein Arzt (2) ______ , ich soll viel (3) ______ und nicht arbeiten. — My doctor says I should sleep a lot and not work."
         options:
           - { key: a, text: "sagt" }
           - { key: b, text: "meint" }
@@ -747,21 +747,21 @@ exercises:
           - { key: c, text: "schläfst" }
         answer: a
         why: "Infinitiv nach Modal `soll`: schlafen."
-      - q: "Er hat mir ein Rezept (4) ______."
+      - q: "Er hat mir ein Rezept (4) ______. — He has given me a prescription."
         options:
           - { key: a, text: "gegeben" }
           - { key: b, text: "schreiben" }
           - { key: c, text: "geschrieben" }
         answer: a
         why: "Partizip II für Perfekt: gegeben (hat … gegeben)."
-      - q: "Ich gehe jetzt in die (5) ______."
+      - q: "Ich gehe jetzt in die (5) ______. — I'm going to the (pharmacy) now."
         options:
           - { key: a, text: "Krankenhaus" }
           - { key: b, text: "Apotheke" }
           - { key: c, text: "Rezept" }
         answer: b
         why: "In die Apotheke = to the pharmacy (to pick up the Rezept)."
-      - q: "Was kostet das — (6) ______ ich eine Krankenversicherung?"
+      - q: "Was kostet das — (6) ______ ich eine Krankenversicherung? — How much does that cost — (do) I have health insurance?"
         options:
           - { key: a, text: "soll" }
           - { key: b, text: "habe" }
@@ -833,19 +833,19 @@ exercises:
 
       Richtig (R) oder falsch (F)?
     items:
-      - q: "Bruno hat Kopfschmerzen und Fieber."
+      - q: "Bruno hat Kopfschmerzen und Fieber. — Bruno has a headache and a fever."
         answer: false
         why: "Bruno hat Kopfschmerzen, aber Fieber wird im Text nicht erwähnt (nur sein Hals ist rot)."
-      - q: 'Anna sagt: „Geh zum Arzt!"'
+      - q: 'Anna sagt: „Geh zum Arzt!" — Anna says: "Go to the doctor!"'
         answer: true
         why: 'Anna sagt: „Du siehst schlecht aus! Geh zum Arzt!"'
-      - q: "Bruno hat einen Termin um 14 Uhr."
+      - q: "Bruno hat einen Termin um 14 Uhr. — Bruno has an appointment at 2 pm."
         answer: false
         why: "Der Termin ist um 15 Uhr, nicht 14 Uhr."
-      - q: "Der Arzt sagt, Bruno soll ins Krankenhaus."
+      - q: "Der Arzt sagt, Bruno soll ins Krankenhaus. — The doctor says Bruno should go to the hospital."
         answer: false
         why: 'Der Arzt sagt: „Bleiben Sie zu Hause" — kein Krankenhaus.'
-      - q: "Bruno trinkt zu Hause Tee mit Honig."
+      - q: "Bruno trinkt zu Hause Tee mit Honig. — At home, Bruno drinks tea with honey."
         answer: true
         why: "Bruno trinkt zu Hause Tee mit Honig."
 
@@ -860,28 +860,28 @@ exercises:
 
       Wähle a, b oder c.
     items:
-      - q: "Lisa hatte …"
+      - q: "Lisa hatte … — Lisa had …"
         options:
           - { key: a, text: "eine Erkältung" }
           - { key: b, text: "nur Husten" }
           - { key: c, text: "39 Grad Fieber und Halsschmerzen" }
         answer: c
         why: "39 Grad Fieber und Halsschmerzen — beides wird erwähnt."
-      - q: "Die Ärztin hat gesagt, Lisa soll …"
+      - q: "Die Ärztin hat gesagt, Lisa soll … — The doctor said Lisa should …"
         options:
           - { key: a, text: "ins Krankenhaus" }
           - { key: b, text: "zu Hause bleiben" }
           - { key: c, text: "sofort zur Apotheke" }
         answer: b
         why: 'Die Ärztin: „Bleib zu Hause, trink viel Tee und nimm diese Tabletten."'
-      - q: "Lisa hat …"
+      - q: "Lisa hat … — Lisa has …"
         options:
           - { key: a, text: "eine Woche gearbeitet" }
           - { key: b, text: "nicht gearbeitet" }
           - { key: c, text: "im Krankenhaus geschlafen" }
         answer: b
         why: "Ich habe auch eine Woche nicht gearbeitet."
-      - q: "Was empfiehlt Lisa?"
+      - q: "Was empfiehlt Lisa? — What does Lisa recommend?"
         options:
           - { key: a, text: "Sofort zum Arzt gehen" }
           - { key: b, text: "Beim ersten Zeichen viel trinken und schlafen" }

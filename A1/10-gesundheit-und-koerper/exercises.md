@@ -12,10 +12,10 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen and decide: Richtig (R) oder Falsch (F)?
 
-1. Der Patient hat Halsschmerzen und Kopfschmerzen. ( )
-2. Der Arzt sagt, der Patient soll ins Krankenhaus. ( )
-3. Der Arzt schreibt dem Patienten ein Rezept. ( )
-4. Der Patient hat 38,5 Grad Fieber. ( )
+1. Der Patient hat Halsschmerzen und Kopfschmerzen. — The patient has a sore throat and a headache. ( )
+2. Der Arzt sagt, der Patient soll ins Krankenhaus. — The doctor says the patient should go to the hospital. ( )
+3. Der Arzt schreibt dem Patienten ein Rezept. — The doctor writes the patient a prescription. ( )
+4. Der Patient hat 38,5 Grad Fieber. — The patient has a fever of 38.5 degrees. ( )
 
 ## Übung H1b — Dialog Hör-Check: In der Apotheke
 
@@ -23,10 +23,10 @@ Listen and decide: Richtig (R) oder Falsch (F)?
 
 Listen and decide: Richtig (R) oder Falsch (F)?
 
-1. Anna kauft Tabletten ohne Rezept. ( )
-2. Anna soll die Tabletten dreimal täglich nehmen. ( )
-3. Die Tabletten kosten fünfzehn Euro. ( )
-4. Anna darf die Tabletten nicht bei Magenschmerzen nehmen. ( )
+1. Anna kauft Tabletten ohne Rezept. — Anna buys tablets without a prescription. ( )
+2. Anna soll die Tabletten dreimal täglich nehmen. — Anna should take the tablets three times a day. ( )
+3. Die Tabletten kosten fünfzehn Euro. — The tablets cost fifteen euros. ( )
+4. Anna darf die Tabletten nicht bei Magenschmerzen nehmen. — Anna is not allowed to take the tablets when she has a stomachache. ( )
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -47,10 +47,10 @@ Hör zu und fülle die Lücken. Zwei Wörter passen nicht.
 
 Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Wo ist die Apotheke?  a) Im Stadtzentrum.  b) Im Hauptbahnhof.  c) Im Einkaufszentrum.
-2. Bis wann hat die Apotheke heute geöffnet?  a) Bis achtzehn Uhr.  b) Bis neunzehn Uhr.  c) Bis zwanzig Uhr.
-3. Welchen Service bietet die Apotheke jetzt schon an?  a) Einen Zahnarzt-Service.  b) Einen Blutdruckmess-Service.  c) Einen Grippeimpf-Service.
-4. Welchen Service bietet die Apotheke ab nächster Woche an?  a) Einen Grippeimpf-Service.  b) Einen Blutdruckmess-Service.  c) Einen Zahnarzt-Service.
+1. Wo ist die Apotheke? — Where is the pharmacy?  a) Im Stadtzentrum.  b) Im Hauptbahnhof.  c) Im Einkaufszentrum.
+2. Bis wann hat die Apotheke heute geöffnet? — Until when is the pharmacy open today?  a) Bis achtzehn Uhr.  b) Bis neunzehn Uhr.  c) Bis zwanzig Uhr.
+3. Welchen Service bietet die Apotheke jetzt schon an? — Which service does the pharmacy already offer?  a) Einen Zahnarzt-Service.  b) Einen Blutdruckmess-Service.  c) Einen Grippeimpf-Service.
+4. Welchen Service bietet die Apotheke ab nächster Woche an? — Which service will the pharmacy offer starting next week?  a) Einen Grippeimpf-Service.  b) Einen Blutdruckmess-Service.  c) Einen Zahnarzt-Service.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -358,12 +358,12 @@ Tabletten ______ täglich." Bruno kauft die ______ in der Apotheke.
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Guten Tag! Ich (1) ______ Schmerzen in meinem Rücken.  a) habe  b) bin  c) nehme
-2. Mein Arzt (2) ______ , ich soll viel (3) ______ und nicht arbeiten.  a) sagt  b) meint  c) sollen
+1. Guten Tag! Ich (1) ______ Schmerzen in meinem Rücken. — Good day! I (have) pain in my back.  a) habe  b) bin  c) nehme
+2. Mein Arzt (2) ______ , ich soll viel (3) ______ und nicht arbeiten. — My doctor says I should sleep a lot and not work.  a) sagt  b) meint  c) sollen
 3. (see above) — infinitive after modal `soll`: (3) ______  a) schlafen  b) Schlaf  c) schläfst
-4. Er hat mir ein Rezept (4) ______.  a) gegeben  b) schreiben  c) geschrieben
-5. Ich gehe jetzt in die (5) ______.  a) Krankenhaus  b) Apotheke  c) Rezept
-6. Was kostet das — (6) ______ ich eine Krankenversicherung?  a) soll  b) habe  c) darf
+4. Er hat mir ein Rezept (4) ______. — He has given me a prescription.  a) gegeben  b) schreiben  c) geschrieben
+5. Ich gehe jetzt in die (5) ______. — I'm going to the (pharmacy) now.  a) Krankenhaus  b) Apotheke  c) Rezept
+6. Was kostet das — (6) ______ ich eine Krankenversicherung? — How much does that cost — (do) I have health insurance?  a) soll  b) habe  c) darf
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -417,11 +417,11 @@ Five words are not needed.
 Richtig (R) oder falsch (F)?
 
 
-1. Bruno hat Kopfschmerzen und Fieber. ( )
-2. Anna sagt: „Geh zum Arzt!" ( )
-3. Bruno hat einen Termin um 14 Uhr. ( )
-4. Der Arzt sagt, Bruno soll ins Krankenhaus. ( )
-5. Bruno trinkt zu Hause Tee mit Honig. ( )
+1. Bruno hat Kopfschmerzen und Fieber. — Bruno has a headache and a fever. ( )
+2. Anna sagt: „Geh zum Arzt!" — Anna says: "Go to the doctor!" ( )
+3. Bruno hat einen Termin um 14 Uhr. — Bruno has an appointment at 2 pm. ( )
+4. Der Arzt sagt, Bruno soll ins Krankenhaus. — The doctor says Bruno should go to the hospital. ( )
+5. Bruno trinkt zu Hause Tee mit Honig. — At home, Bruno drinks tea with honey. ( )
 
 ## Übung C4b — Lesen Text 2 — Forumspost
 
@@ -431,10 +431,10 @@ Text 2 (Forumspost):
 
 Wähle a, b oder c.
 
-1. Lisa hatte …  a) eine Erkältung  b) nur Husten  c) 39 Grad Fieber und Halsschmerzen
-2. Die Ärztin hat gesagt, Lisa soll …  a) ins Krankenhaus  b) zu Hause bleiben  c) sofort zur Apotheke
-3. Lisa hat …  a) eine Woche gearbeitet  b) nicht gearbeitet  c) im Krankenhaus geschlafen
-4. Was empfiehlt Lisa?  a) Sofort zum Arzt gehen  b) Beim ersten Zeichen viel trinken und schlafen  c) Tabletten kaufen ohne Rezept
+1. Lisa hatte … — Lisa had …  a) eine Erkältung  b) nur Husten  c) 39 Grad Fieber und Halsschmerzen
+2. Die Ärztin hat gesagt, Lisa soll … — The doctor said Lisa should …  a) ins Krankenhaus  b) zu Hause bleiben  c) sofort zur Apotheke
+3. Lisa hat … — Lisa has …  a) eine Woche gearbeitet  b) nicht gearbeitet  c) im Krankenhaus geschlafen
+4. Was empfiehlt Lisa? — What does Lisa recommend?  a) Sofort zum Arzt gehen  b) Beim ersten Zeichen viel trinken und schlafen  c) Tabletten kaufen ohne Rezept
 
 ## Übung C5 — Schreiben: Entschuldigung an die Lehrerin
 
