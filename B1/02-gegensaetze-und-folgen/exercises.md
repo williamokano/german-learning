@@ -284,7 +284,14 @@ Rewrite each pair of sentences using `zwar … aber`. 4 items.
 
 ## Übung B8 — Leseverstehen: Lesetext (Tomáš und das Berlin-Experiment)
 
-Read the Lesetext in lesson.md, section 5. Choose the correct answer (a, b, or c).
+> Tomáš Novák gründete sein E-Scooter-Startup vor drei Jahren in Prag. Zwar war der Prager Markt bekannt und vertraut, aber Tomáš erkannte schnell, dass Berlin eine wichtige strategische Erweiterung war. Obwohl Berlin bereits viele Mobilitätsanbieter hatte, entschied er sich, trotzdem in die Stadt zu expandieren — mit einem wichtigen Unterschied: Er konzentrierte sich auf die Randbezirke, wo das Angebot minimal war.
+>
+> Die ersten Monate waren nicht einfach. Tomáš reiste fast jede Woche von Prag nach Berlin. Er schlief oft bei seinem Bruder Pavel in Wedding. Das Netzwerk wuchs jedoch langsam, obwohl die bürokratischen Hürden enorm waren. Deshalb schloss er eine Partnerschaft mit einem lokalen Berliner Unternehmen ab — das war der entscheidende Schritt.
+>
+> Heute hat das Startup 200 Scooter in Marzahn, Spandau und Lichtenberg. Die Nutzerzahlen sind zwar noch überschaubar, aber die Tendenz ist klar positiv. Tomáš ist überzeugt: Nachhaltigkeit und wirtschaftlicher Erfolg schließen sich nicht aus. Deswegen investiert er weiter — auch wenn er jeden Donnerstag wieder nach Prag fliegt.
+
+Wähle a, b oder c.
+
 
 1. Wo hat Tomáš sein Startup gegründet?  a) In Berlin.  b) In Prag.  c) In Wien.
 2. Was unterscheidet Tomáš' Berliner Strategie von anderen Anbietern?  a) Er konzentriert sich auf das Stadtzentrum.  b) Er hat nur sehr wenige Scooter.  c) Er fokussiert auf Randbezirke mit minimalem Angebot.
