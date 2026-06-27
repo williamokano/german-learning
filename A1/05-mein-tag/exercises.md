@@ -12,10 +12,10 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 Listen and decide: richtig (R) oder falsch (F)?
 
-1. Anna steht um 6:30 Uhr auf. ( )
-2. Annas Arbeit fängt um neun Uhr an. ( )
-3. Die Mittagspause ist von halb eins bis halb zwei. ( )
-4. Am Abend sieht Anna immer fern. ( )
+1. Anna steht um 6:30 Uhr auf. — Anna gets up at 6:30. ( )
+2. Annas Arbeit fängt um neun Uhr an. — Anna's work starts at nine o'clock. ( )
+3. Die Mittagspause ist von halb eins bis halb zwei. — The lunch break is from 12:30 to 1:30. ( )
+4. Am Abend sieht Anna immer fern. — In the evening Anna always watches TV. ( )
 
 ## Übung H1b — Dialog B: Pläne am Telefon
 
@@ -23,10 +23,10 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 Listen and decide: richtig (R) oder falsch (F)?
 
-1. Anna fragt Bruno: Hast du am Samstag Zeit? ( )
-2. Der Film fängt um halb acht an. ( )
-3. Anna ruft Bruno am Samstagmorgen noch einmal an. ( )
-4. Bruno und Anna gehen am Sonntag ins Kino. ( )
+1. Anna fragt Bruno: Hast du am Samstag Zeit? — Anna asks Bruno: Do you have time on Saturday? ( )
+2. Der Film fängt um halb acht an. — The film starts at 7:30. ( )
+3. Anna ruft Bruno am Samstagmorgen noch einmal an. — Anna calls Bruno again on Saturday morning. ( )
+4. Bruno und Anna gehen am Sonntag ins Kino. — Bruno and Anna go to the cinema on Sunday. ( )
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -48,10 +48,10 @@ Höre den Text und fülle die Lücken. Zwei Wörter passen nicht.
 
 Höre die Nachrichten. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript liest.
 
-1. Welcher Tag ist heute?  a) Dienstag, der fünfzehnte April.  b) Mittwoch, der sechzehnte April.  c) Montag, der vierzehnte April.
-2. Wie ist das Wetter am Morgen?  a) Kalt.  b) Sonnig.  c) Warm.
-3. Was gibt es im Verkehr?  a) Viele Staus.  b) Keine größeren Probleme.  c) Eine Sperrung.
-4. Was soll man nicht vergessen?  a) Der Einkauf.  b) Der Termin beim Arzt.  c) Der Feiertag morgen.
+1. Welcher Tag ist heute? — What day is it today?  a) Dienstag, der fünfzehnte April.  b) Mittwoch, der sechzehnte April.  c) Montag, der vierzehnte April.
+2. Wie ist das Wetter am Morgen? — How is the weather in the morning?  a) Kalt.  b) Sonnig.  c) Warm.
+3. Was gibt es im Verkehr? — What's happening with traffic?  a) Viele Staus.  b) Keine größeren Probleme.  c) Eine Sperrung.
+4. Was soll man nicht vergessen? — What should one not forget?  a) Der Einkauf.  b) Der Termin beim Arzt.  c) Der Feiertag morgen.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -383,12 +383,12 @@ Deine Anna
 Choose the correct option (a, b, or c) for each gap.
 
 
-1. Ich arbeite (1) ____ Montag bis Freitag  a) von  b) am  c) um
-2. von neun (2) ____ fünf  a) zu  b) bis  c) nach
-3. Ich stehe immer (3) ____ halb sieben auf  a) um  b) am  c) in
-4. (4) ____ Wochenende schlafe ich lange  a) Im  b) Am  c) Um
-5. Hast du (5) ____ Samstag Zeit?  a) am  b) um  c) in der
-6. der Film fängt um acht Uhr (6) ____  a) auf  b) ein  c) an
+1. Ich arbeite (1) ____ Montag bis Freitag — I work (1) ____ Monday to Friday  a) von  b) am  c) um
+2. von neun (2) ____ fünf — from nine (2) ____ five  a) zu  b) bis  c) nach
+3. Ich stehe immer (3) ____ halb sieben auf — I always get up (3) ____ at 6:30  a) um  b) am  c) in
+4. (4) ____ Wochenende schlafe ich lange — (4) ____ the weekend I sleep in  a) Im  b) Am  c) Um
+5. Hast du (5) ____ Samstag Zeit? — Do you have time (5) ____ Saturday?  a) am  b) um  c) in der
+6. der Film fängt um acht Uhr (6) ____ — the film starts at eight o'clock (6) ____  a) auf  b) ein  c) an
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
@@ -433,11 +433,11 @@ Five words are not needed.
 Richtig (R) oder falsch (F)?
 
 
-1. Tom steht um drei Uhr auf. ( )
-2. Seine Arbeit fängt um halb vier an. ( )
-3. Er schläft von eins bis drei. ( )
-4. Abends sieht er oft fern. ( )
-5. Am Sonntag steht Tom um zehn Uhr auf. ( )
+1. Tom steht um drei Uhr auf. — Tom gets up at three o'clock. ( )
+2. Seine Arbeit fängt um halb vier an. — His work starts at 3:30. ( )
+3. Er schläft von eins bis drei. — He sleeps from one to three. ( )
+4. Abends sieht er oft fern. — In the evening he often watches TV. ( )
+5. Am Sonntag steht Tom um zehn Uhr auf. — On Sunday Tom gets up at ten o'clock. ( )
 
 ## Übung C4b — Lesen Text 2 — Öffnungszeiten
 
@@ -451,10 +451,10 @@ Kino am Markt: Film „Berlin bei Nacht" — Samstag, 20:30 Uhr
 Wähle a, b oder c.
 
 
-1. Das Schwimmbad ist am Montag …  a) von 7 bis 21 Uhr offen.  b) geschlossen.  c) von 9 bis 18 Uhr offen.
-2. Am Mittwoch ist das Schwimmbad von …  a) sieben bis einundzwanzig Uhr offen.  b) neun bis achtzehn Uhr offen.  c) acht bis zwanzig Uhr offen.
-3. Der Film fängt am Samstag um … an.  a) halb acht.  b) halb neun.  c) Viertel nach acht.
-4. Am Sonntag ist das Schwimmbad …  a) bis sechs Uhr abends offen.  b) geschlossen.  c) bis 21 Uhr offen.
+1. Das Schwimmbad ist am Montag … — The swimming pool is on Monday …  a) von 7 bis 21 Uhr offen.  b) geschlossen.  c) von 9 bis 18 Uhr offen.
+2. Am Mittwoch ist das Schwimmbad von … — On Wednesday the swimming pool is from …  a) sieben bis einundzwanzig Uhr offen.  b) neun bis achtzehn Uhr offen.  c) acht bis zwanzig Uhr offen.
+3. Der Film fängt am Samstag um … an. — The film starts on Saturday at …  a) halb acht.  b) halb neun.  c) Viertel nach acht.
+4. Am Sonntag ist das Schwimmbad … — On Sunday the swimming pool is …  a) bis sechs Uhr abends offen.  b) geschlossen.  c) bis 21 Uhr offen.
 
 ## Übung C5 — Schreiben: Mein Tag
 
