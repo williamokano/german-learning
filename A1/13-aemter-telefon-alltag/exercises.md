@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre und entscheide: richtig (R) oder falsch (F)?
 
 1. Anna ruft das Bürgeramt an, um sich anzumelden. — Anna calls the Bürgeramt to register. ( )
 2. Anna braucht einen Personalausweis und einen Reisepass. — Anna needs an ID card and a passport. ( )
@@ -21,7 +21,7 @@ Listen and decide: richtig (R) oder falsch (F)?
 
 🎧 **Audio:** [dialog1_c.mp3](audio/dialog1_c.mp3)
 
-Listen and decide: richtig (R) oder falsch (F)?
+Höre und entscheide: richtig (R) oder falsch (F)?
 
 1. Bruno ruft Anna an. — Bruno calls Anna. ( )
 2. Bruno hat einen Arzttermin. — Bruno has a doctor's appointment. ( )
@@ -66,7 +66,7 @@ Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einma
 
 ## Übung A1 — Case recap: Nominativ or Akkusativ?
 
-Label each noun as N (Nominativ) or A (Akkusativ), then write the correct article. Each item has two gaps.
+Markiere jedes Nomen als N (Nominativ) oder A (Akkusativ) und schreibe den richtigen Artikel. Jede Aufgabe hat zwei Lücken.
 
 1. ______ Sachbearbeiterin (f) fragt. (N / A: ______)
 2. Ich brauche ______ Personalausweis (m). (N / A: ______)
@@ -79,7 +79,7 @@ Label each noun as N (Nominativ) or A (Akkusativ), then write the correct articl
 
 ## Übung A2 — Dative articles: dem, der, einem, einer
 
-Fill the gap with the correct dative article (definite or indefinite as indicated).
+Ergänze den richtigen Dativartikel (bestimmt oder unbestimmt, wie angegeben).
 
 1. Bruno wartet an ______ Schalter (m, def.).
 2. Ich arbeite bei ______ Arztpraxis (f, def.).
@@ -94,7 +94,7 @@ Fill the gap with the correct dative article (definite or indefinite as indicate
 
 ## Übung A3 — Dative personal pronouns
 
-Rewrite, replacing the underlined noun with a dative personal pronoun.
+Schreibe um und ersetze das unterstrichene Nomen durch ein Dativ-Personalpronomen.
 
 1. Könnten Sie ______ (der Frau) helfen?
 2. Ich schicke ______ (Herrn Keller) das Formular.
@@ -106,7 +106,7 @@ Rewrite, replacing the underlined noun with a dative personal pronoun.
 
 ## Übung A4 — Separable verbs: anrufen, ausfüllen, ausstellen, anmelden
 
-Fill in the correct form of the separable verb. Follow the Satzklammer rule (conjugated verb in position 2, prefix at the end).
+Ergänze die richtige Form des trennbaren Verbs. Beachte die Satzklammer (Verb auf Position 2, Vorsilbe am Ende).
 
 1. Ich ______ das Bürgeramt ______. (anrufen, ich)
 2. Bitte ______ Sie das Formular ______. (ausfüllen, Sie-imperative)
@@ -119,7 +119,7 @@ Fill in the correct form of the separable verb. Follow the Satzklammer rule (con
 
 ## Übung A5 — Separable verbs in the Perfekt
 
-Rewrite each sentence in the Perfekt. Remember: ge- goes between the prefix and the stem.
+Schreibe jeden Satz im Perfekt. Merke: „ge-" steht zwischen Vorsilbe und Stamm.
 
 1. Ich rufe das Bürgeramt an. → Ich habe das Bürgeramt ______.
 2. Du füllst das Formular aus. → Du hast das Formular ______.
@@ -142,7 +142,7 @@ Rewrite each sentence in the Perfekt. Remember: ge- goes between the prefix and 
 
 ## Übung A7 — Telephone phrases: fill in the verb
 
-Fill in the missing verb from: anrufen, sprechen, hinterlassen, stören, dauern, warten.
+Ergänze das fehlende Verb aus: anrufen, sprechen, hinterlassen, stören, dauern, warten.
 
 1. Ich ______ später noch einmal ______.
 2. Kann ich mit Frau Müller ______?
@@ -166,7 +166,7 @@ Fill in the missing verb from: anrufen, sprechen, hinterlassen, stören, dauern,
 
 ## Übung A9 — Mixed article drill: Nominativ / Akkusativ / Dativ
 
-Choose the correct article (definite: der/die/das/den/dem; or as prompted).
+Wähle den richtigen Artikel (bestimmt: der/die/das/den/dem; oder wie angegeben).
 
 1. ______ Termin (m, Nom.) beginnt um neun Uhr.
 2. Ich brauche ______ Reisepass (m, Akk., indef.).
@@ -192,7 +192,7 @@ Choose the correct article (definite: der/die/das/den/dem; or as prompted).
 
 ## Übung A11 — E-mail formulaic phrases: formal or informal?
 
-Mark each phrase F (formal) or I (informal). Bonus: write the other register version below the gap.
+Markiere jede Phrase mit F (formell) oder I (informell). Bonus: schreibe die jeweils andere Variante unter die Lücke.
 
 1. Sehr geehrte Frau Müller, → ______
 2. Lieber Tom, → ______
@@ -203,7 +203,7 @@ Mark each phrase F (formal) or I (informal). Bonus: write the other register ver
 
 ## Übung A12 — Numbers: dates (revision from L12)
 
-Write the date in words (spoken form: *am … ten/sten*).
+Schreibe das Datum in Worten (gesprochene Form: „am … ten/sten").
 
 1. 1.3. → am ______
 2. 8.11. → am ______
@@ -218,7 +218,7 @@ Write the date in words (spoken form: *am … ten/sten*).
 
 ## Übung B1 — Dialog ergänzen: Am Telefon
 
-Fill in the gaps with one word each.
+Ergänze die Lücken mit je einem Wort.
 
 — Bürgeramt Mitte, guten ______.
 — Guten Tag! Mein ______ ist Petra Sommer. Ich ______ eine Frage.
@@ -243,7 +243,7 @@ Fill in the gaps with one word each.
 
 ## Übung B3 — Finde den Fehler
 
-Each sentence has exactly one mistake. The wrong word is shown as a gap — write the correct form.
+Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form.
 
 1. Könnten Sie mir das Formular ______? (schickt → ?)
 2. Ich rufe das Bürgeramt morgen ______. (an → prefix to end)
@@ -271,7 +271,7 @@ Each sentence has exactly one mistake. The wrong word is shown as a gap — writ
 
 ## Übung B5 — Satzbau (word order)
 
-Build correct German sentences. Remember: separable prefix goes to the end; verb in position 2.
+Bilde korrekte deutsche Sätze. Merke: die trennbare Vorsilbe steht am Ende; das Verb auf Position 2.
 
 1. ich – morgen – rufe – an – das Bürgeramt
 2. das – Sie – füllen – aus – bitte – Formular
@@ -284,7 +284,7 @@ Build correct German sentences. Remember: separable prefix goes to the end; verb
 
 ## Übung B6 — Categorizing: Amt, Telefon, or E-Mail?
 
-Sort these 12 words or phrases into three columns. Note: Termin can appear in both Amt and Telefon contexts — accept in either.
+Sortiere diese 12 Wörter oder Phrasen in drei Spalten. Hinweis: „Termin" kann sowohl im Amt- als auch im Telefon-Kontext vorkommen — beides ist okay.
 
 > Betreff · Schalter · Auf Wiederhören · Unterschrift · Mit freundlichen Grüßen · Formular ausfüllen · Nachricht hinterlassen · Warteraum · Anhang · Termin · Sehr geehrte Damen und Herren · Warteschlange
 
@@ -294,7 +294,7 @@ Sort these 12 words or phrases into three columns. Note: Termin can appear in bo
 
 ## Übung B7 — Finde den Fehler: Akkusativ oder Dativ?
 
-In each sentence one case is wrong. Correct it. Items 4 and 5 are correct (write C).
+In jedem Satz ist ein Fall falsch. Korrigiere ihn. Aufgaben 4 und 5 sind korrekt (schreibe C).
 
 1. Ich gebe ______ Mann das Formular. (der → should be Dativ)
 2. Sie hilft ______ Frau. (den → should be der, Dativ fem.)
@@ -357,7 +357,7 @@ Self-check:
 
 ## Übung C1 — Lückentext
 
-Fill each gap with one word.
+Fülle jede Lücke mit einem Wort.
 
 Ich heiße Layla Hassan und ich wohne ______ dem 1. September in Berlin.
 Jetzt muss ich ______ beim Bürgeramt anmelden. Ich ______ das Amt an
@@ -380,7 +380,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps from the box. Five words are not needed. Each word may be used once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden.
 
 > — Guten Morgen! (1) ______ Sie dieses Formular bitte ausfüllen?
 > — Ja, natürlich. Aber ich verstehe Frage 5 (2) ______.
@@ -469,7 +469,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest (incl. earlier lessons)
 
-One answer per item. No notes.
+Eine Antwort pro Aufgabe. Keine Notizen.
 
 1. anmelden (ich, present): Ich melde mich ______.
 2. (L8) dative preposition for "with": ______
@@ -489,7 +489,7 @@ One answer per item. No notes.
 
 ## Übung D2 — Odd one out
 
-Cross out the word that does not fit.
+Streiche das Wort durch, das nicht passt.
 
 1. anrufen – ausfüllen – anmelden – kaufen
 2. Reisepass – Personalausweis – Formular – Kuchen
