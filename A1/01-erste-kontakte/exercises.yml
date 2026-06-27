@@ -124,7 +124,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Anruf von Petra"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Hallo, hier ist Petra. Ich bin deine neue Kollegin aus dem Deutschkurs. Bitte ruf mich zurück, wenn du Zeit hast. Ich möchte mich gerne mit dir treffen. Wir können zusammen einen Kaffee trinken. Meine Nummer ist vier-sieben-eins-eins. Vielen Dank und bis bald!'
     items:
       - q: "Warum ruft Petra an? — Why is Petra calling?"
@@ -163,7 +164,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "sein: conjugation table"
-    instructions: "Fill the table from memory."
+    instructions: "Fülle die Tabelle aus dem Gedächtnis."
+    instructionsEn: "Fill the table from memory."
     text: |
       1. ich: {1}
       2. du: {2}
@@ -184,7 +186,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "sein: in sentences"
-    instructions: "Fill in the correct form of sein. 10 items."
+    instructions: "Ergänze die richtige Form von sein. 10 Lücken."
+    instructionsEn: "Fill in the correct form of sein. 10 items."
     text: |
       1. Ich {1} aus Brasilien.
       2. Du {2} sehr nett.
@@ -213,7 +216,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Regular verbs: full conjugation table"
-    instructions: "Fill in all 24 cells."
+    instructions: "Fülle alle 24 Zellen aus."
+    instructionsEn: "Fill in all 24 cells."
     text: |
       **kommen:** ich: {1} · du: {2} · er/sie/es: {3} · wir: {4} · ihr: {5} · sie/Sie: {6}
       **wohnen:** ich: {7} · du: {8} · er/sie/es: {9} · wir: {10} · ihr: {11} · sie/Sie: {12}
@@ -250,7 +254,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "kommen"
-    instructions: "Fill in the correct form of kommen. 8 items."
+    instructions: "Ergänze die richtige Form von kommen. 8 Lücken."
+    instructionsEn: "Fill in the correct form of kommen. 8 items."
     text: |
       1. Woher {1} du?
       2. Ich {2} aus Italien.
@@ -275,7 +280,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "wohnen und heißen (mixed)"
-    instructions: "Fill in the correct form of the verb in brackets. 10 items."
+    instructions: "Ergänze die richtige Form des Verbs in Klammern. 10 Lücken."
+    instructionsEn: "Fill in the correct form of the verb in brackets. 10 items."
     text: |
       1. Ich {1} (wohnen) in Köln.
       2. Wie {2} (heißen) du?
@@ -308,7 +314,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "sprechen (watch the e → i!)"
-    instructions: "Fill in the correct form of sprechen. 8 items."
+    instructions: "Ergänze die richtige Form von sprechen. 8 Lücken."
+    instructionsEn: "Fill in the correct form of sprechen. 8 items."
     text: |
       1. Ich {1} Englisch.
       2. {2} du Deutsch?
@@ -333,7 +340,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Pronouns: which one fits?"
-    instructions: "Fill in: ich, du, er, sie, wir, ihr, sie, Sie. 10 items."
+    instructions: "Ergänze: ich, du, er, sie, wir, ihr, sie, Sie. 10 Lücken."
+    instructionsEn: "Fill in: ich, du, er, sie, wir, ihr, sie, Sie. 10 items."
     text: |
       1. Das ist Bruno. {1} kommt aus Brasilien.
       2. Das ist Anna. {2} wohnt in Berlin.
@@ -415,7 +423,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "W-Wörter: wo, woher, wie, wer, was, welche"
-    instructions: "Fill in the correct W-Wort. 10 items."
+    instructions: "Ergänze das richtige W-Wort. 10 Lücken."
+    instructionsEn: "Fill in the correct W-Wort. 10 items."
     text: |
       1. {1} heißt du?
       2. {2} kommst du?
@@ -444,7 +453,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Zahlen"
-    instructions: "Write as words (0, 2, 5, 8, 13, 14, 15, 18, 19), then as digits (sechzehn, zwölf, siebzehn). 12 items."
+    instructions: "Schreibe als Wörter (0, 2, 5, 8, 13, 14, 15, 18, 19), dann als Ziffern (sechzehn, zwölf, siebzehn). 12 Lücken."
+    instructionsEn: "Write as words (0, 2, 5, 8, 13, 14, 15, 18, 19), then as digits (sechzehn, zwölf, siebzehn). 12 items."
     text: |
       Write as words:
       1. 0 = {1}
@@ -504,7 +514,8 @@ exercises:
     block: B
     type: gap-bank
     title: "Dialog ergänzen (informal)"
-    instructions: "Fill in the 8 blanks with the correct form."
+    instructions: "Fülle die 8 Lücken mit der richtigen Form."
+    instructionsEn: "Fill in the 8 blanks with the correct form."
     text: |
       — Hallo! Ich heiße Lena. Und wie {1} du?
       — {2}, Lena! Ich bin Marco.
@@ -529,7 +540,8 @@ exercises:
     block: B
     type: gap-bank
     title: "Dialog ergänzen (formal)"
-    instructions: "Fill in the 8 blanks with the correct form."
+    instructions: "Fülle die 8 Lücken mit der richtigen Form."
+    instructionsEn: "Fill in the 8 blanks with the correct form."
     text: |
       — Guten Tag! Mein {1} ist Schneider. Wie heißen {2}?
       — Guten Tag, Frau Schneider. {3} heiße Pavel Novak.
@@ -583,7 +595,8 @@ exercises:
     block: B
     type: matching
     title: "Frage und Antwort verbinden"
-    instructions: "Match each question (1–8) with the correct answer (a–h)."
+    instructions: "Ordne jede Frage (1–8) der richtigen Antwort (a–h) zu."
+    instructionsEn: "Match each question (1–8) with the correct answer (a–h)."
     left:
       - { key: "1", text: "Wie heißt du?" }
       - { key: "2", text: "Woher kommen Sie?" }
@@ -645,7 +658,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Länder, Sprachen, Personen"
-    instructions: "Complete the table. 8 items."
+    instructions: "Ergänze die Tabelle. 8 Lücken."
+    instructionsEn: "Complete the table. 8 items."
     text: |
       1. Brasilien — Sprache: {1}
       2. {2} — Sprache: Französisch
@@ -669,7 +683,8 @@ exercises:
     block: B
     type: categorize
     title: "Begrüßung oder Abschied?"
-    instructions: 'Sort the 10 expressions into the two columns. Mark each as formal (F), informal (I) or both (F/I).'
+    instructions: 'Sortiere die 10 Ausdrücke in die zwei Spalten. Markiere jede als formell (F), informell (I) oder beides (F/I).'
+    instructionsEn: 'Sort the 10 expressions into the two columns. Mark each as formal (F), informal (I) or both (F/I).'
     buckets:
       - { key: begruessung, label: "Begrüßung (greeting)" }
       - { key: abschied, label: "Abschied (farewell)" }
@@ -812,7 +827,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once."
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once."
     text: |
       — Guten Morgen! Ich {1} Frau Müller von der Sprachschule. {2}
       heißen Sie?
@@ -938,7 +954,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per item. No notes. 15 items."
+    instructions: "Eine Minute pro Aufgabe. Keine Notizen. 15 Lücken."
+    instructionsEn: "One minute per item. No notes. 15 items."
     text: |
       1. Formal "What is your name?" → {1}
       2. „Ich komme {2} der Schweiz." (preposition + article)
@@ -976,7 +993,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Wortschatz-Check: odd one out"
-    instructions: "Cross out the word that doesn't fit."
+    instructions: "Streiche das Wort durch, das nicht passt."
+    instructionsEn: "Cross out the word that doesn't fit."
     groups:
       - items: [Hallo, "Guten Tag", Tschüss, "Guten Morgen"]
         odd: 2

@@ -60,7 +60,7 @@ Höre den Text und fülle die Lücken mit Wörtern aus dem Kasten.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Warum ruft Petra an? — Why is Petra calling?  a) Sie hat ein neues Buch.  b) Sie möchte sich mit der Person treffen.  c) Sie hat eine Prüfung.
 2. Wo lernt Petra die Person kennen? — Where does Petra meet this person?  a) Im Büro.  b) Im Deutschkurs.  c) Im Park.
@@ -84,7 +84,7 @@ Listen to the voice message. Then choose the correct answer (a, b, or c). Listen
 
 ## Übung A1 — sein: conjugation table
 
-Fill the table from memory.
+Fülle die Tabelle aus dem Gedächtnis.
 
 1. ich: ______
 2. du: ______
@@ -95,7 +95,7 @@ Fill the table from memory.
 
 ## Übung A2 — sein: in sentences
 
-Fill in the correct form of sein. 10 items.
+Ergänze die richtige Form von sein. 10 Lücken.
 
 1. Ich ______ aus Brasilien.
 2. Du ______ sehr nett.
@@ -110,7 +110,7 @@ Fill in the correct form of sein. 10 items.
 
 ## Übung A3 — Regular verbs: full conjugation table
 
-Fill in all 24 cells.
+Fülle alle 24 Zellen aus.
 
 **kommen:** ich: ______ · du: ______ · er/sie/es: ______ · wir: ______ · ihr: ______ · sie/Sie: ______
 **wohnen:** ich: ______ · du: ______ · er/sie/es: ______ · wir: ______ · ihr: ______ · sie/Sie: ______
@@ -119,7 +119,7 @@ Fill in all 24 cells.
 
 ## Übung A4 — kommen
 
-Fill in the correct form of kommen. 8 items.
+Ergänze die richtige Form von kommen. 8 Lücken.
 
 1. Woher ______ du?
 2. Ich ______ aus Italien.
@@ -132,7 +132,7 @@ Fill in the correct form of kommen. 8 items.
 
 ## Übung A5 — wohnen und heißen (mixed)
 
-Fill in the correct form of the verb in brackets. 10 items.
+Ergänze die richtige Form des Verbs in Klammern. 10 Lücken.
 
 1. Ich ______ (wohnen) in Köln.
 2. Wie ______ (heißen) du?
@@ -147,7 +147,7 @@ Fill in the correct form of the verb in brackets. 10 items.
 
 ## Übung A6 — sprechen (watch the e → i!)
 
-Fill in the correct form of sprechen. 8 items.
+Ergänze die richtige Form von sprechen. 8 Lücken.
 
 1. Ich ______ Englisch.
 2. ______ du Deutsch?
@@ -160,7 +160,7 @@ Fill in the correct form of sprechen. 8 items.
 
 ## Übung A7 — Pronouns: which one fits?
 
-Fill in: ich, du, er, sie, wir, ihr, sie, Sie. 10 items.
+Ergänze: ich, du, er, sie, wir, ihr, sie, Sie. 10 Lücken.
 
 1. Das ist Bruno. ______ kommt aus Brasilien.
 2. Das ist Anna. ______ wohnt in Berlin.
@@ -208,7 +208,7 @@ And:
 
 ## Übung A10 — W-Wörter: wo, woher, wie, wer, was, welche
 
-Fill in the correct W-Wort. 10 items.
+Ergänze das richtige W-Wort. 10 Lücken.
 
 1. ______ heißt du?
 2. ______ kommst du?
@@ -223,7 +223,7 @@ Fill in the correct W-Wort. 10 items.
 
 ## Übung A11 — Zahlen
 
-Write as words (0, 2, 5, 8, 13, 14, 15, 18, 19), then as digits (sechzehn, zwölf, siebzehn). 12 items.
+Schreibe als Wörter (0, 2, 5, 8, 13, 14, 15, 18, 19), dann als Ziffern (sechzehn, zwölf, siebzehn). 12 Lücken.
 
 Write as words:
 1. 0 = ______
@@ -262,7 +262,7 @@ Spell out loud:
 
 ## Übung B1 — Dialog ergänzen (informal)
 
-Fill in the 8 blanks with the correct form.
+Fülle die 8 Lücken mit der richtigen Form.
 
 > — Hallo! Ich heiße Lena. Und wie (1) ______ du?
 > — (2) ______, Lena! Ich bin Marco.
@@ -277,7 +277,7 @@ Fill in the 8 blanks with the correct form.
 
 ## Übung B2 — Dialog ergänzen (formal)
 
-Fill in the 8 blanks with the correct form.
+Fülle die 8 Lücken mit der richtigen Form.
 
 > — Guten Tag! Mein (1) ______ ist Schneider. Wie heißen (2) ______?
 > — Guten Tag, Frau Schneider. (3) ______ heiße Pavel Novak.
@@ -309,7 +309,7 @@ Fill in the 8 blanks with the correct form.
 
 ## Übung B4 — Frage und Antwort verbinden
 
-Match each question (1–8) with the correct answer (a–h).
+Ordne jede Frage (1–8) der richtigen Antwort (a–h) zu.
 
 | Links | | Rechts |
 |---|---|---|
@@ -340,7 +340,7 @@ Match each question (1–8) with the correct answer (a–h).
 
 ## Übung B6 — Länder, Sprachen, Personen
 
-Complete the table. 8 items.
+Ergänze die Tabelle. 8 Lücken.
 
 1. Brasilien — Sprache: ______
 2. ______ — Sprache: Französisch
@@ -353,7 +353,7 @@ Complete the table. 8 items.
 
 ## Übung B7 — Begrüßung oder Abschied?
 
-Sort the 10 expressions into the two columns. Mark each as formal (F), informal (I) or both (F/I).
+Sortiere die 10 Ausdrücke in die zwei Spalten. Markiere jede als formell (F), informell (I) oder beides (F/I).
 
 > Hallo (I) · Tschüss (I) · Guten Morgen (F/I) · Auf Wiedersehen (F) · Grüß Gott (F/I, Süden) · Bis morgen (F/I) · Servus (I, Süden) — works as both, either column if (I) · Gute Nacht (F/I, before sleep) · Guten Abend (F/I) · Bis bald (F/I)
 
@@ -417,7 +417,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once.
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden.
 
 > — Guten Morgen! Ich (1) ______ Frau Müller von der Sprachschule. (2) ______
 > heißen Sie?
@@ -492,7 +492,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes. 15 items.
+Eine Minute pro Aufgabe. Keine Notizen. 15 Lücken.
 
 1. Formal "What is your name?" → ______
 2. „Ich komme ______ der Schweiz." (preposition + article)
@@ -512,7 +512,7 @@ One minute per item. No notes. 15 items.
 
 ## Übung D2 — Wortschatz-Check: odd one out
 
-Cross out the word that doesn't fit.
+Streiche das Wort durch, das nicht passt.
 
 1. Hallo – Guten Tag – Tschüss – Guten Morgen
 2. Deutsch – Spanien – Englisch – Türkisch
