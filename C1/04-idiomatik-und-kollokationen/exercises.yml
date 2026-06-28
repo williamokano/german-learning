@@ -1,0 +1,1152 @@
+lesson: C1/04
+title: 'C1 · Lektion 4 — Übungen (Idiomatik und Kollokationen)'
+intro: >
+  Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Die Lösungen findest du in solutions.md.
+  Tipp: Verteil die Blöcke über mehrere Tage — H und A am Tag 1, B am Tag 2,
+  C am Tag 3, D am Tag 4 nach einer Pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: 'Dialog Hör-Check: Dialog A (Spieleabend)'
+    audio: dialog1_a.mp3
+    instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    items:
+      - q: 'Tomáš hat in der vergangenen Woche einen Investor für sein Startup gewonnen.'
+        answer: false
+        why: 'Tomáš: „Der hat kalte Füße bekommen und ist abgesprungen".'
+      - q: 'Lukas hatte Ärger mit seinem Chef, weil er angeblich zu langsam arbeitet.'
+        answer: true
+        why: 'Lukas: „der hat mir die Hölle heiß gemacht, weil ich angeblich zu langsam arbeite".'
+      - q: 'Lukas hat sich bei seiner Schwester für etwas entschuldigt.'
+        answer: false
+        why: 'Lukas: „Da hab ich ihr mal die Meinung gegeigt" — er hat ihr die Meinung gesagt, nicht entschuldigt.'
+      - q: 'Mia lobt Tomáš dafür, dass er viele deutsche Sprichwörter benutzt.'
+        answer: true
+        why: 'Mia: „Du klingst ja schon wie ein richtiger Deutscher mit deinen Sprichwörtern".'
+      - q: 'Tomáš erwähnt ein tschechisches Sprichwort, das die gleiche Bedeutung hat wie „Wer zuletzt lacht, lacht am besten".'
+        answer: true
+        why: 'Tomáš zitiert das tschechische Sprichwort und stellt fest: „Ist doch dasselbe in Grün, oder?".'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: 'Dialog Hör-Check: Dialog B (Vorstellungsgespräch)'
+    audio: dialog1_b.mp3
+    instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    optionLayout: block
+    items:
+      - q: 'In welcher Branche ist die Kanzlei tätig, in der das Gespräch stattfindet?'
+        options:
+          - { key: a, text: 'IT-Beratung.' }
+          - { key: b, text: 'Unternehmensberatung.' }
+          - { key: c, text: 'Rechtsanwaltskanzlei.' }
+        answer: b
+        why: '„mittelständischen Unternehmensberatung in Frankfurt" — es geht um ein ESG-Projekt.'
+      - q: 'Wie viel Zeit hatte das Team in der früheren Krisensituation, um eine Lösung zu finden?'
+        options:
+          - { key: a, text: '24 Stunden.' }
+          - { key: b, text: '48 Stunden.' }
+          - { key: c, text: 'Eine Woche.' }
+        answer: b
+        why: 'Frau Yilmaz: „wir hatten nur 48 Stunden Zeit, um eine Lösung auf die Beine zu stellen".'
+      - q: 'Welche Eigenschaft betont Frau Yilmaz im Hinblick auf ihre Zusammenarbeit mit Vorgesetzten?'
+        options:
+          - { key: a, text: 'Transparente Kommunikation.' }
+          - { key: b, text: 'Möglichst wenig Kontakt.' }
+          - { key: c, text: 'Unterwürfiges Auftreten.' }
+        answer: a
+        why: 'Frau Yilmaz: „Ich lege Wert auf transparente Kommunikation".'
+      - q: 'Welche Redewendung benutzt Frau Yilmaz, um Konfliktmanagement zu beschreiben?'
+        options:
+          - { key: a, text: 'die Wogen glätten' }
+          - { key: b, text: 'Öl ins Feuer gießen' }
+          - { key: c, text: 'die Füße stillhalten' }
+        answer: a
+        why: 'Frau Yilmaz: „Ich versuche, die Wogen zu glätten, wenn Konflikte im Keim entstehen".'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: 'Hörtext-Lückentext: Investor mit kalten Füßen'
+    audio: hoertext.mp3
+    instructions: 'Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.'
+    text: |
+      Liebe Hörerinnen und Hörer, in unserer Reihe „Sprache und Wirtschaft"
+      sprechen wir heute über ein Phänomen, das in jeder Verhandlung
+      vorkommt: den Moment, in dem ein Verhandlungspartner plötzlich
+      {1} Füße bekommt. Man hat sich auf einen Vertrag geeinigt —
+      und dann, kurz vor der Unterschrift, springt der Investor ab.
+      Es war alles unter {2} und Fach, sagten beide Seiten. Wenn
+      eine Entscheidung konkret wird, schlägt das Unterbewusstsein
+      Alarm. Kein {3} ohne Feuer, sagen die einen. {4} Köche
+      verderben den Brei. Wer A sagt, muss auch {5} sagen. Was
+      können wir daraus lernen? Besser spät als {6}.
+    bank: [kalte, Dach, Rauch, Viele, B, nie, kalten, ohne, schlecht]
+    answers:
+      "1": kalte
+      "2": Dach
+      "3": Rauch
+      "4": Viele
+      "5": B
+      "6": nie
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: 'Kurze Ansage: Anrufbeantworter einer PR-Agentur'
+    audio: transcript_ansage1.mp3
+    instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    optionLayout: block
+    transcript: 'Guten Tag, Sie haben die PR-Agentur Wortkraft in Hamburg-Altona erreicht. Wir sind heute, am Donnerstag, dem 19. Juni, leider nicht persönlich für Sie da. Aufgrund einer kurzfristigen Klausurtagung der Geschäftsführung ist unser Büro bis einschließlich Freitag nicht besetzt. Für dringende Medienanfragen wenden Sie sich bitte an die Pressehotline 040-89 12 34. Für Anfragen zu laufenden Kundenprojekten hinterlassen Sie bitte Ihren Namen, Ihre Telefonnummer und den Namen des betreuten Unternehmens nach dem Signalton. Wir rufen Sie am darauffolgenden Werktag zurück. Bitte rufen Sie mich zurück unter dieser Nummer. Vielen Dank für Ihr Verständnis.'
+    items:
+      - q: 'Welche Einheit ist auf dem Anrufbeantworter zu hören?'
+        options:
+          - { key: a, text: 'Eine PR-Agentur.' }
+          - { key: b, text: 'Eine Werbeagentur.' }
+          - { key: c, text: 'Eine Rechtsanwaltskanzlei.' }
+        answer: a
+        why: '„Sie haben die PR-Agentur Wortkraft erreicht".'
+      - q: 'Warum ist das Büro nicht besetzt?'
+        options:
+          - { key: a, text: 'Wegen einer technischen Störung.' }
+          - { key: b, text: 'Wegen einer kurzfristigen Klausurtagung der Geschäftsführung.' }
+          - { key: c, text: 'Wegen eines Feiertags.' }
+        answer: b
+        why: '„Aufgrund einer kurzfristigen Klausurtagung der Geschäftsführung ist unser Büro … nicht besetzt".'
+      - q: 'Welche Information soll der Anrufer für Kundenprojekte hinterlassen?'
+        options:
+          - { key: a, text: 'Seinen Namen, seine Telefonnummer und den Namen des betreuten Unternehmens.' }
+          - { key: b, text: 'Sein Geburtsdatum und seine Adresse.' }
+          - { key: c, text: 'Seine Kreditkartennummer.' }
+        answer: a
+        why: '„hinterlassen Sie bitte Ihren Namen, Ihre Telefonnummer und den Namen des betreuten Unternehmens".'
+      - q: 'Welche Hotline gilt für dringende Medienanfragen?'
+        options:
+          - { key: a, text: '040-12 34 56.' }
+          - { key: b, text: '040-89 12 34.' }
+          - { key: c, text: '040-98 76 54.' }
+        answer: b
+        why: '„Für dringende Medienanfragen wenden Sie sich bitte an die Pressehotline 040-89 12 34".'
+
+  - id: H5
+    block: H
+    type: table-fill
+    title: 'Tabelle ausfüllen: Dialog A (Spieleabend)'
+    audio: dialog1_a.mp3
+    instructions: 'Hör Dialog A noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    columns: ['Person', 'Wendung', 'Bedeutung', 'Kontext']
+    rows:
+      - label: 'Tomáš'
+        cells:
+          - { gap: 1, answer: 'Tomáš', given: 'Tomáš' }
+          - { gap: 1, answer: 'kalte Füße bekommen', given: 'kalte Füße bekommen' }
+          - { gap: 1, answer: 'Angst bekommen' }
+          - { gap: 1, answer: 'Investor springt ab', given: 'Investor springt ab' }
+      - label: 'Lukas'
+        cells:
+          - { gap: 2, answer: 'Lukas', given: 'Lukas' }
+          - { gap: 2, answer: 'jemandem die Hölle heiß machen' }
+          - { gap: 2, answer: 'jemanden massiv unter Druck setzen', given: 'jemanden massiv unter Druck setzen' }
+          - { gap: 2, answer: 'Streit mit dem Chef', given: 'Streit mit dem Chef' }
+      - label: 'Lukas'
+        cells:
+          - { gap: 3, answer: 'Lukas', given: 'Lukas' }
+          - { gap: 3, answer: 'jemanden auf die Palme bringen' }
+          - { gap: 3, answer: 'jemanden sehr verärgern', given: 'jemanden sehr verärgern' }
+          - { gap: 3, answer: 'Streit mit der Schwester', given: 'Streit mit der Schwester' }
+      - label: 'Tomáš'
+        cells:
+          - { gap: 4, answer: 'Tomáš', given: 'Tomáš' }
+          - { gap: 4, answer: 'Blut ist dicker als Wasser', given: 'Blut ist dicker als Wasser' }
+          - { gap: 4, answer: 'Familie ist wichtiger als Freunde' }
+          - { gap: 4, answer: 'Ratschlag an Lukas', given: 'Ratschlag an Lukas' }
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: single-choice
+    title: 'Was bedeutet die Redewendung?'
+    instructions: 'Wähle die Bedeutung (a, b oder c) der jeweiligen Redewendung.'
+    items:
+      - q: '„Die Daumen drücken"'
+        options:
+          - { key: a, text: 'jemanden ärgern' }
+          - { key: b, text: 'jemandes Glück wünschen' }
+          - { key: c, text: 'jemanden umarmen' }
+        answer: b
+        why: '„Die Daumen drücken" = jemandes Glück wünschen (Bild: Daumen als Glücksbringer).'
+      - q: '„Kalte Füße bekommen"'
+        options:
+          - { key: a, text: 'Angst bekommen' }
+          - { key: b, text: 'eine Erkältung bekommen' }
+          - { key: c, text: 'sportlich aktiv werden' }
+        answer: a
+        why: '„Kalte Füße bekommen" = Angst bekommen, zögern.'
+      - q: '„Ins Wasser fallen"'
+        options:
+          - { key: a, text: 'in einen See fallen' }
+          - { key: b, text: 'scheitern, nicht zustande kommen' }
+          - { key: c, text: 'Schwimmen üben' }
+        answer: b
+        why: '„Ins Wasser fallen" = scheitern, nicht zustande kommen.'
+      - q: '„Jemanden auf die Palme bringen"'
+        options:
+          - { key: a, text: 'jemanden auf einen Baum setzen' }
+          - { key: b, text: 'jemanden überraschen' }
+          - { key: c, text: 'jemanden sehr verärgern' }
+        answer: c
+        why: '„Jemanden auf die Palme bringen" = jemanden sehr verärgern.'
+      - q: '„Die Fliege machen"'
+        options:
+          - { key: a, text: 'Insekten jagen' }
+          - { key: b, text: 'schnell verschwinden' }
+          - { key: c, text: 'eine Pause machen' }
+        answer: b
+        why: '„Die Fliege machen" = schnell verschwinden, gehen.'
+      - q: '„Jemandem die Meinung geigen"'
+        options:
+          - { key: a, text: 'jemanden musizieren lassen' }
+          - { key: b, text: 'jemanden deutlich kritisieren' }
+          - { key: c, text: 'jemandem zustimmen' }
+        answer: b
+        why: '„Jemandem die Meinung geigen" = jemanden deutlich kritisieren.'
+      - q: '„Tomaten auf den Augen haben"'
+        options:
+          - { key: a, text: 'etwas Offensichtliches nicht sehen' }
+          - { key: b, text: 'Gemüse einkaufen' }
+          - { key: c, text: 'eine Allergie haben' }
+        answer: a
+        why: '„Tomaten auf den Augen haben" = etwas Offensichtliches nicht sehen.'
+      - q: '„Den Nagel auf den Kopf treffen"'
+        options:
+          - { key: a, text: 'Handwerker sein' }
+          - { key: b, text: 'etwas haargenau richtig sagen' }
+          - { key: c, text: 'sich verletzen' }
+        answer: b
+        why: '„Den Nagel auf den Kopf treffen" = etwas haargenau richtig sagen.'
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: 'Redewendungen in Sätze einsetzen'
+    instructions: 'Setze die passende Redewendung ein. 8 Items.'
+    text: |
+      1. „Ich {1} dir die Daumen für deine Prüfung!" (Glück wünschen)
+      2. „Er hat {2} und den Vertrag nicht unterschrieben." (Angst bekommen)
+      3. „Der ganze Plan ist {3} — wir müssen neu anfangen." (gescheitert)
+      4. „Sie hat mich {4} mit ihrer ständigen Nörgelei." (verärgert)
+      5. „Mach {5}, es ist schon spät!" (verschwinden)
+      6. „Ich habe ihm {6} — er soll nie wieder mein Auto nehmen." (deutlich gesagt)
+      7. „Du hast ja {7} — die Lösung liegt direkt vor dir!" (etwas Offensichtliches nicht sehen)
+      8. „Sie hat mit ihrer Bemerkung {8}." (genau richtig)
+    answers:
+      "1": drücke
+      "2": kalte Füße bekommen
+      "3": ins Wasser gefallen
+      "4": auf die Palme gebracht
+      "5": die Fliege
+      "6": die Meinung gegeigt
+      "7": Tomaten auf den Augen
+      "8": den Nagel auf den Kopf getroffen
+
+  - id: A3
+    block: A
+    type: matching
+    title: 'Redewendung — Bedeutung — Beispielsatz'
+    instructions: 'Ordne jeder Redewendung (1–6) das passende Bedeutungs-Wort (a–f) zu.'
+    left:
+      - { key: '1', text: 'die Daumen drücken' }
+      - { key: '2', text: 'kalte Füße bekommen' }
+      - { key: '3', text: 'ins Wasser fallen' }
+      - { key: '4', text: 'auf die Palme bringen' }
+      - { key: '5', text: 'die Fliege machen' }
+      - { key: '6', text: 'die Meinung geigen' }
+    right:
+      - { key: a, text: 'jmds. Glück wünschen' }
+      - { key: b, text: 'Angst bekommen' }
+      - { key: c, text: 'scheitern' }
+      - { key: d, text: 'verärgern' }
+      - { key: e, text: 'verschwinden' }
+      - { key: f, text: 'deutlich kritisieren' }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+
+  - id: A4
+    block: A
+    type: single-choice
+    title: 'Welches Sprichwort passt zur Situation?'
+    instructions: 'Wähle das passende Sprichwort (a, b oder c) zur beschriebenen Situation.'
+    items:
+      - q: 'Jemand beginnt ein neues Projekt und klagt über Schwierigkeiten. Welches Sprichwort passt als Aufmunterung?'
+        options:
+          - { key: a, text: 'Ende gut, alles gut.' }
+          - { key: b, text: 'Aller Anfang ist schwer.' }
+          - { key: c, text: 'Viele Köche verderben den Brei.' }
+        answer: b
+        why: '„Aller Anfang ist schwer" — passt zum Beginn eines neuen Projekts.'
+      - q: 'Ein Freund bricht ein Versprechen, das er gegeben hat. Welches Sprichwort passt?'
+        options:
+          - { key: a, text: 'Übung macht den Meister.' }
+          - { key: b, text: 'Wer A sagt, muss auch B sagen.' }
+          - { key: c, text: 'Besser spät als nie.' }
+        answer: b
+        why: '„Wer A sagt, muss auch B sagen" — wer ein Versprechen gibt, muss es halten.'
+      - q: 'In einer Familie gibt es Konflikte, aber am Ende hält man zusammen. Welches Sprichwort passt?'
+        options:
+          - { key: a, text: 'Blut ist dicker als Wasser.' }
+          - { key: b, text: 'Kein Rauch ohne Feuer.' }
+          - { key: c, text: 'Man ist, was man isst.' }
+        answer: a
+        why: '„Blut ist dicker als Wasser" — Familie ist wichtiger.'
+      - q: 'Ein Verdacht erweist sich als berechtigt. Welches Sprichwort passt?'
+        options:
+          - { key: a, text: 'Besser spät als nie.' }
+          - { key: b, text: 'Wer zuletzt lacht, lacht am besten.' }
+          - { key: c, text: 'Kein Rauch ohne Feuer.' }
+        answer: c
+        why: '„Kein Rauch ohne Feuer" — es gibt keinen Verdacht ohne Grund.'
+      - q: 'Ein Schüler hat nach langem Üben endlich Fortschritte gemacht. Welches Sprichwort passt?'
+        options:
+          - { key: a, text: 'Viele Köche verderben den Brei.' }
+          - { key: b, text: 'Übung macht den Meister.' }
+          - { key: c, text: 'Aller Anfang ist schwer.' }
+        answer: b
+        why: '„Übung macht den Meister" — durch Übung wird man besser.'
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: 'Sprichwörter ergänzen'
+    instructions: 'Ergänze die Sprichwörter mit dem passenden Wort. 5 Items.'
+    text: |
+      1. Aller {1} ist schwer. (Beginn)
+      2. {2} macht den Meister. (Wiederholtes Tun)
+      3. Wer A {3}, muss auch B sagen. (Aussprache)
+      4. {4} ist dicker als Wasser. (Familie)
+      5. Viele {5} verderben den Brei. (Mitarbeiter)
+    answers:
+      "1": Anfang
+      "2": Übung
+      "3": sagt
+      "4": Blut
+      "5": Köche
+
+  - id: A6
+    block: A
+    type: single-choice
+    title: 'Falsche Freunde: Was bedeutet das Wort im Deutschen?'
+    instructions: 'Wähle die richtige deutsche Bedeutung (a, b oder c).'
+    items:
+      - q: '„aktuell"'
+        options:
+          - { key: a, text: 'tatsächlich (like „actually")' }
+          - { key: b, text: 'derzeitig, gegenwärtig' }
+          - { key: c, text: 'modern, neu' }
+        answer: b
+        why: '„aktuell" = derzeitig, gegenwärtig. „tatsächlich" = tatsächlich. „modern" = modern.'
+      - q: '„realisieren"'
+        options:
+          - { key: a, text: 'erkennen, begreifen' }
+          - { key: b, text: 'verwirklichen, umsetzen' }
+          - { key: c, text: 'wiederholen' }
+        answer: b
+        why: '„realisieren" = verwirklichen, umsetzen. „erkennen" = begreifen.'
+      - q: '„sensibel"'
+        options:
+          - { key: a, text: 'vernünftig' }
+          - { key: b, text: 'klug' }
+          - { key: c, text: 'empfindlich, heikel' }
+        answer: c
+        why: '„sensibel" = empfindlich, heikel. „vernünftig" = sinnvoll, durchdacht.'
+      - q: '„eventuell"'
+        options:
+          - { key: a, text: 'schließlich' }
+          - { key: b, text: 'möglicherweise, vielleicht' }
+          - { key: c, text: 'regelmäßig' }
+        answer: b
+        why: '„eventuell" = möglicherweise. „schließlich" = letztendlich.'
+      - q: '„genial"'
+        options:
+          - { key: a, text: 'grausam' }
+          - { key: b, text: 'großartig, einfallsreich' }
+          - { key: c, text: 'genervt' }
+        answer: b
+        why: '„genial" = großartig, einfallsreich. „grausam" = brutal, schlimm.'
+
+  - id: A7
+    block: A
+    type: matching
+    title: 'Falsche Freunde: Wort — richtige Bedeutung'
+    instructions: 'Ordne jedem falschen Freund (1–6) die richtige deutsche Bedeutung (a–f) zu.'
+    left:
+      - { key: '1', text: 'aktuell' }
+      - { key: '2', text: 'realisieren' }
+      - { key: '3', text: 'sensibel' }
+      - { key: '4', text: 'eventuell' }
+      - { key: '5', text: 'Sympathisant' }
+      - { key: '6', text: 'konsequent' }
+    right:
+      - { key: a, text: 'derzeitig, gegenwärtig' }
+      - { key: b, text: 'verwirklichen, umsetzen' }
+      - { key: c, text: 'empfindlich, heikel' }
+      - { key: d, text: 'möglicherweise' }
+      - { key: e, text: '(politischer) Mitläufer, Unterstützer' }
+      - { key: f, text: 'folgerichtig, beharrlich' }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+
+  - id: A8
+    block: A
+    type: gap-bank
+    title: 'Starke Kollokationen: Verb + Nomen'
+    instructions: 'Füll die 6 Lücken mit der passenden Kollokation aus dem Kasten. Drei Elemente sind zu viel.'
+    text: |
+      1. Wir müssen eine {1} Entscheidung {2}.
+      2. Sie hat einen {3} {4} zum Projekt geleistet.
+      3. Ich möchte einen {5} mit der Situation von 2010 {6}.
+    bank:
+      - 'fundierte'
+      - 'treffen'
+      - 'wesentlichen'
+      - 'Beitrag'
+      - 'leisten'
+      - 'weitreichenden'
+      - 'Vergleich'
+      - 'ziehen'
+      - 'scharfe'
+    answers:
+      "1": 'fundierte'
+      "2": 'treffen'
+      "3": 'wesentlichen'
+      "4": 'Beitrag'
+      "5": 'Vergleich'
+      "6": 'ziehen'
+
+  - id: A9
+    block: A
+    type: single-choice
+    title: 'Kollokationsbruch: Welche Formulierung passt?'
+    instructions: 'Wähle die kollokativ richtige Formulierung (a, b oder c).'
+    items:
+      - q: 'Welche Formulierung ist kollokativ richtig?'
+        options:
+          - { key: a, text: 'eine gute Entscheidung machen' }
+          - { key: b, text: 'eine fundierte Entscheidung treffen' }
+          - { key: c, text: 'eine große Entscheidung geben' }
+        answer: b
+        why: '„fundierte Entscheidung treffen" ist die korrekte Kollokation.'
+      - q: 'Welche Formulierung ist kollokativ richtig?'
+        options:
+          - { key: a, text: 'einen großen Beitrag geben' }
+          - { key: b, text: 'einen wesentlichen Beitrag leisten' }
+          - { key: c, text: 'einen guten Beitrag ziehen' }
+        answer: b
+        why: '„wesentlichen Beitrag leisten" ist die korrekte Kollokation.'
+      - q: 'Welche Formulierung ist kollokativ richtig?'
+        options:
+          - { key: a, text: 'eine scharfe Rolle spielen' }
+          - { key: b, text: 'eine wichtige Rolle spielen' }
+          - { key: c, text: 'eine starke Rolle ziehen' }
+        answer: b
+        why: '„wichtige Rolle spielen" ist die korrekte Kollokation.'
+      - q: 'Welche Formulierung ist kollokativ richtig?'
+        options:
+          - { key: a, text: 'eine feste Meinung machen' }
+          - { key: b, text: 'eine starke Meinung vertreten' }
+          - { key: c, text: 'eine feste Meinung vertreten' }
+        answer: c
+        why: '„feste Meinung vertreten" ist die korrekte Kollokation. „starke Meinung" kollokiert nicht.'
+      - q: 'Welche Formulierung ist kollokativ richtig?'
+        options:
+          - { key: a, text: 'scharfe Kritik üben' }
+          - { key: b, text: 'große Kritik machen' }
+          - { key: c, text: 'starke Kritik ziehen' }
+        answer: a
+        why: '„scharfe Kritik üben" ist die korrekte Kollokation.'
+
+  - id: A10
+    block: A
+    type: order
+    title: 'Satzbau: Redewendung im Mittelfeld'
+    instructions: 'Bring die Wörter in die richtige Reihenfolge.'
+    items:
+      - tiles: [Ich, drücke, dir, die, Daumen]
+        answer: [0, 1, 2, 3, 4]
+        note: 'Ich drücke dir die Daumen.'
+      - tiles: [Er, hat, kalte, Füße, bekommen]
+        answer: [0, 1, 2, 3, 4]
+        note: 'Er hat kalte Füße bekommen.'
+      - tiles: [Der, Plan, ist, ins, Wasser, gefallen]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: 'Der Plan ist ins Wasser gefallen.'
+      - tiles: [Sie, hat, mich, auf, die, Palme, gebracht]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: 'Sie hat mich auf die Palme gebracht.'
+
+  # ── Block B — Vertiefung ─────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: 'Starke Kollokationen in einer E-Mail'
+    instructions: 'Setze die passende Kollokation ein. 6 Items.'
+    text: |
+      Sehr geehrte Frau Doktor Hoffmann,
+      vielen Dank für Ihre Nachricht. Ich habe die {1} gesichtet
+      und werde Ihnen die Unterlagen bis morgen {2}. Wir
+      müssen eine {3} Entscheidung {4}, ob wir das Angebot
+      annehmen. Ich werde mit dem Team ein {5} {6}, um die
+      Risiken abzuwägen. Mit freundlichen Grüßen, Tomáš Novák.
+    answers:
+      "1": Faktenlage
+      "2": zur Verfügung stellen
+      "3": fundierte
+      "4": treffen
+      "5": Brainstorming
+      "6": ansetzen
+
+  - id: B2
+    block: B
+    type: free-write
+    title: 'Formelle E-Mail mit starken Kollokationen'
+    prompt: 'Schreibe eine kurze formelle E-Mail (5–7 Sätze) an einen Vorgesetzten, in der du eine schnelle Entscheidung zu einem Projekt vorschlägst. Verwende mindestens vier starke Kollokationen aus dem Lektion (z. B. „eine fundierte Entscheidung treffen", „in Frage stellen", „in Kauf nehmen", „Wert auf etwas legen").'
+    stimulus: |
+      Ausgangslage: Du hast Bedenken gegen einen Vorschlag des Kunden und brauchst die Entscheidung des Chefs.
+    use:
+      - 'Sie-Anrede, vollständige Sätze, Konjunktiv II für Höflichkeit'
+      - 'Mindestens 4 starke Kollokationen (FVG, Verb-Nomen, Adjektiv-Nomen)'
+      - 'Schlussformel „Mit freundlichen Grüßen"'
+    selfCheck:
+      - 'Werden mindestens 4 Kollokationen korrekt gebildet?'
+      - 'Bleibt das Register durchgehend formell?'
+      - 'Wird die Bitte klar formuliert?'
+      - 'Werden keine Kollokationsbrüche verwendet?'
+    model: |
+      „Sehr geehrte Frau Doktor Hoffmann, ich möchte Sie höflich auf eine heikle Lage im Mandat Müller aufmerksam machen. Der Kunde hat einen Vorschlag unterbreitet, den ich aus fachlicher Sicht in Frage stellen möchte. Wir müssen in Kauf nehmen, dass eine kurzfristige Umsetzung einige Risiken birgt. Ich würde Ihnen daher vorschlagen, eine fundierte Entscheidung erst nach einer kurzen internen Abstimmung zu treffen. Könnten wir für morgen Vormittag ein Brainstorming ansetzen, um die Vor- und Nachteile zu erörtern? Ich lege Wert auf eine transparente Diskussion und stehe Ihnen für Rückfragen selbstverständlich jederzeit zur Verfügung. Mit freundlichen Grüßen, Tomáš Novák."
+
+  - id: B3
+    block: B
+    type: single-choice
+    title: 'Welche Wendung passt im Kontext?'
+    instructions: 'Wähle die Wendung (a, b oder c), die im Kontext am besten passt.'
+    items:
+      - q: '„Ich wünsche dir viel Erfolg bei der Präsentation — ich {1} dir die Daumen!"'
+        options:
+          - { key: a, text: 'drücke' }
+          - { key: b, text: 'ziehe' }
+          - { key: c, text: 'lege' }
+        answer: a
+        why: '„die Daumen drücken" = Glück wünschen.'
+      - q: '„Der Investor ist abgesprungen — das ganze Projekt ist {1}!"'
+        options:
+          - { key: a, text: 'ins Wasser gefallen' }
+          - { key: b, text: 'auf den Putz gehauen' }
+          - { key: c, text: 'in die Suppe gefallen' }
+        answer: a
+        why: '„ins Wasser fallen" = scheitern.'
+      - q: '„Mein Chef hat mich {1}, weil ich den Bericht zu spät abgegeben habe."'
+        options:
+          - { key: a, text: 'auf die Palme gebracht' }
+          - { key: b, text: 'die Hölle heiß gemacht' }
+          - { key: c, text: 'die Daumen gedrückt' }
+        answer: b
+        why: '„jemandem die Hölle heiß machen" = massiv unter Druck setzen.'
+      - q: '„Ich habe ihm {1}, dass er nie wieder unangemeldet in mein Büro kommen soll."'
+        options:
+          - { key: a, text: 'die Meinung gegeigt' }
+          - { key: b, text: 'kalte Füße gemacht' }
+          - { key: c, text: 'den Nagel auf den Kopf getroffen' }
+        answer: a
+        why: '„jemandem die Meinung geigen" = deutlich kritisieren.'
+      - q: '„Bei der Prüfung wurde {1} festgestellt."'
+        options:
+          - { key: a, text: 'das Gelbe vom Ei' }
+          - { key: b, text: 'die Daumen gedrückt' }
+          - { key: c, text: 'die Fliege gemacht' }
+        answer: a
+        why: '„das Gelbe vom Ei" = perfekt (ironisch oder zustimmend).'
+
+  - id: B4
+    block: B
+    type: matching
+    title: 'Motivkreise: Welche Redewendung gehört zu welchem Kreis?'
+    instructions: 'Ordne jeder Redewendung (1–5) den passenden Motivkreis (a–e) zu.'
+    left:
+      - { key: '1', text: 'die Daumen drücken' }
+      - { key: '2', text: 'die Fliege machen' }
+      - { key: '3', text: 'ins Blaue reden' }
+      - { key: '4', text: 'die Suppe auslöffeln' }
+      - { key: '5', text: 'ein Sturm im Wasserglas' }
+    right:
+      - { key: a, text: 'Körper' }
+      - { key: b, text: 'Tiere' }
+      - { key: c, text: 'Farben' }
+      - { key: d, text: 'Essen / Trinken' }
+      - { key: e, text: 'Natur / Wetter' }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+
+  - id: B5
+    block: B
+    type: single-choice
+    title: 'Registerbruch: Welche Formulierung passt zum Register?'
+    instructions: 'Wähle die Formulierung, die zum angegebenen Register passt.'
+    items:
+      - q: 'In einer formellen E-Mail an einen Geschäftspartner:'
+        options:
+          - { key: a, text: '„Das ist doch Quatsch!"' }
+          - { key: b, text: '„Diese Aussage ist nicht zutreffend."' }
+          - { key: c, text: '„Das ist echt ätzend."' }
+        answer: b
+        why: '„nicht zutreffend" ist formell; „Quatsch" und „ätzend" sind umgangssprachlich.'
+      - q: 'In einer Bewerbung:'
+        options:
+          - { key: a, text: '„Ich bin halt teamfähig."' }
+          - { key: b, text: '„Ich bin echt gut in Mathe."' }
+          - { key: c, text: '„Ich verfüge über ausgezeichnete Kenntnisse in Mathematik."' }
+        answer: c
+        why: '„verfüge über ausgezeichnete Kenntnisse" ist formell; die anderen Varianten sind umgangssprachlich.'
+      - q: 'In einer Todesanzeige:'
+        options:
+          - { key: a, text: '„Er ist halt gestorben."' }
+          - { key: b, text: '„Er ist verstorben."' }
+          - { key: c, text: '„Er hat die Fliege gemacht."' }
+        answer: b
+        why: '„verstorben" ist die angemessene Form; „gestorben" zu direkt; „die Fliege gemacht" respektlos.'
+      - q: 'In einem Aufsatz über Goethe:'
+        options:
+          - { key: a, text: '„Goethe war halt ein Genie."' }
+          - { key: b, text: '„Goethe war voll cool."' }
+          - { key: c, text: '„Goethe war zweifellos eine herausragende Persönlichkeit."' }
+        answer: c
+        why: '„zweifellos eine herausragende Persönlichkeit" ist gehoben; die anderen Varianten sind umgangssprachlich.'
+      - q: 'In einem WhatsApp an einen Freund:'
+        options:
+          - { key: a, text: '„Ich würde Sie bitten, die Frist zu verschieben."' }
+          - { key: b, text: '„Kannst du mir mal die Frist verschieben?"' }
+          - { key: c, text: '„Hiermit möchte ich höflichst eine Fristverlängerung beantragen."' }
+        answer: b
+        why: '„kannst du mal" ist informell; die anderen Varianten sind zu förmlich für WhatsApp.'
+
+  - id: B6
+    block: B
+    type: gap-bank
+    title: 'Sprichwörter — Original und Modifikation'
+    instructions: 'Füll die 6 Lücken. Drei Elemente sind zu viel.'
+    text: |
+      1. Aller Anfang ist {1}. — Modifikation: Aller {2} war, ist und bleibt schwer.
+      2. {3} macht den {4}. — Verneinung: Ohne Übung wird man {5} {6}.
+    bank:
+      - 'schwer'
+      - 'Anfang'
+      - 'Übung'
+      - 'Meister'
+      - 'Meister'
+      - 'kein'
+      - 'Wurst'
+      - 'Lehrer'
+      - 'leicht'
+      - 'Tinte'
+    answers:
+      "1": 'schwer'
+      "2": 'Anfang'
+      "3": 'Übung'
+      "4": 'Meister'
+      "5": 'kein'
+      "6": 'Meister'
+
+  - id: B7
+    block: B
+    type: single-choice
+    title: 'Wörtliche Übersetzung: Welche deutsche Entsprechung passt?'
+    instructions: 'Wähle die korrekte deutsche Entsprechung (a, b oder c) des englischen Idioms.'
+    items:
+      - q: '„It''s not my cup of tea."'
+        options:
+          - { key: a, text: 'Das ist nicht meine Tasse Tee.' }
+          - { key: b, text: 'Das ist nicht mein Fall.' }
+          - { key: c, text: 'Das ist nicht mein Bier.' }
+        answer: b
+        why: '„Das ist nicht mein Fall" ist die idiomatische Entsprechung. „Tasse Tee" und „Bier" sind wörtliche Übersetzungen.'
+      - q: '„I have other fish to fry."'
+        options:
+          - { key: a, text: 'Ich habe andere Fische zu braten.' }
+          - { key: b, text: 'Ich habe Wichtigeres zu tun.' }
+          - { key: c, text: 'Ich habe andere Hosen anzuziehen.' }
+        answer: b
+        why: '„Ich habe Wichtigeres zu tun" ist die idiomatische Entsprechung.'
+      - q: '„Don''t beat around the bush."'
+        options:
+          - { key: a, text: 'Schlag nicht um den Busch.' }
+          - { key: b, text: 'Schlag nicht den Baum.' }
+          - { key: c, text: 'Red nicht um den heißen Brei herum.' }
+        answer: c
+        why: '„Nicht um den heißen Brei herumreden" ist die idiomatische Entsprechung.'
+      - q: '„It''s a piece of cake."'
+        options:
+          - { key: a, text: 'Es ist ein Stück Kuchen.' }
+          - { key: b, text: 'Es ist ein Kinderspiel.' }
+          - { key: c, text: 'Es ist eine Torte.' }
+        answer: b
+        why: '„Es ist ein Kinderspiel" ist die idiomatische Entsprechung.'
+      - q: '„Break a leg!"'
+        options:
+          - { key: a, text: 'Brich ein Bein!' }
+          - { key: b, text: 'Viel Glück!' }
+          - { key: c, text: 'Hals- und Beinbruch!' }
+        answer: c
+        why: '„Hals- und Beinbruch!" ist die idiomatische Theater-Entsprechung.'
+
+  - id: B8
+    block: B
+    type: free-write
+    title: 'Idiom im eigenen Text einsetzen'
+    prompt: 'Schreibe einen kurzen Blogpost (5–7 Sätze) über eine alltägliche Situation aus deinem Leben (z. B. eine gescheiterte Verabredung, ein überraschender Erfolg, ein Streit mit einem Freund). Verwende mindestens fünf Redewendungen aus der Lektion.'
+    stimulus: |
+      Ausgangslage: Du erzählst einem Freund, wie dein Versuch gelaufen ist, eine neue Sprache zu lernen.
+    use:
+      - 'Mindestens 5 Redewendungen aus der Lektion (Daumen drücken, kalte Füße, ins Wasser fallen, auf die Palme, Fliege machen, Tomaten auf den Augen …)'
+      - 'Mindestens 1 Sprichwort'
+      - 'Mindestens 1 starke Kollokation'
+    selfCheck:
+      - 'Werden mindestens 5 Redewendungen korrekt eingesetzt?'
+      - 'Passt das Register zum lockeren Blogpost-Ton?'
+      - 'Wird mindestens 1 Sprichwort passend verwendet?'
+      - 'Wird mindestens 1 Kollokation richtig gebildet?'
+    model: |
+      „Heute möchte ich euch erzählen, wie ich versucht habe, innerhalb von drei Monaten Schwedisch zu lernen. Anfangs war ich optimistisch — ich dachte, das wird ein Kinderspiel. Aber Aller Anfang ist schwer. Nach zwei Wochen habe ich mir einen abgebrochen, weil ich einfach keine Fortschritte gemacht habe. Mein Lehrer hat mir dann die Daumen gedrückt und gesagt, ich soll nicht gleich kalte Füße bekommen. Aber ehrlich gesagt: Ich habe die Fliege gemacht und das Lernen erstmal auf Eis gelegt. Mein Plan ist erstmal ins Wasser gefallen — aber Übung macht den Meister. Ich versuche es nochmal."
+
+  - id: B9
+    block: B
+    type: free-write
+    title: 'Dieselbe Aussage in zwei Registern'
+    prompt: 'Schreibe dieselbe Bitte in zwei Registern: (1) eine WhatsApp an einen Freund / eine Freundin (informell, 2–3 Sätze, mit mindestens zwei Redewendungen); (2) eine kurze formelle E-Mail (4–6 Sätze, mit höchstens einer Wendung). Situation: Du brauchst Hilfe bei einem Projekt.'
+    stimulus: |
+      Ausgangslage: Du brauchst Unterstützung bei der Vorbereitung einer wichtigen Präsentation.
+    use:
+      - '(1) WhatsApp: Du-Anrede, kurze Sätze, mindestens 2 Redewendungen'
+      - '(2) E-Mail: Sie-Anrede, vollständige Sätze, Konjunktiv II, höchstens 1 Wendung, mindestens 2 starke Kollokationen'
+      - '(2) E-Mail: Schlussformel „Mit freundlichen Grüßen"'
+    selfCheck:
+      - 'Bleibt Version 1 konsequent informell?'
+      - 'Bleibt Version 2 konsequent formell?'
+      - 'Werden in Version 1 mindestens 2 Redewendungen richtig verwendet?'
+      - 'Werden in Version 2 mindestens 2 Kollokationen richtig gebildet?'
+    model: |
+      (1) WhatsApp: „Hey Anna! Sag mal, kannst du mir mal bei der Präsentation helfen? Ich habe total kalte Füße bekommen und blicke da nicht mehr durch. Wäre echt cool, wenn du mal drüberschauen könntest — ich drück dir die Daumen für deine Hilfe!"
+      (2) E-Mail: „Sehr geehrte Frau Doktor Hoffmann, ich möchte Sie höflich um eine kurze Rückmeldung zu dem Entwurf der Präsentation bitten. Aufgrund der Komplexität des Themas wäre es mir eine große Hilfe, wenn Sie eine fundierte Einschätzung zu den Kernthesen abgeben könnten. Ich stehe Ihnen für Rückfragen selbstverständlich jederzeit zur Verfügung und bedanke mich schon jetzt für Ihre Unterstützung. Mit freundlichen Grüßen, Tomáš Novák."
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: 'Lückentext: Idiomatik und Kollokationen'
+    instructions: 'Füll jede Lücke mit **einem** passenden Wort (Redewendung, Sprichwort, Kollokation oder Verbform). 10 Items.'
+    text: |
+      Redewendungen und starke Kollokationen sind das, was eine Sprache
+      kulturell macht. Wer *„die Daumen {1}"* sagt, wünscht Glück; wer
+      *„kalte {2} bekommt"*, bekommt Angst; wer *„ins {3} fällt"*,
+      dessen Plan ist gescheitert. Diese Wendungen sind nicht
+      {4} — sie haben eine bildhafte, feste Form und lassen sich
+      nicht übersetzen. Auch {5} spielen eine wichtige Rolle:
+      *„eine fundierte Entscheidung {6}"*, *„einen wesentlichen
+      Beitrag {7}"*, *„Wert auf etwas {8}"*. Wer die Paare
+      (Verb + Nomen, Adjektiv + Nomen) beherrscht, klingt
+      authentisch. Wer sie nicht beherrscht, macht
+      Kollokationsbrüche und klingt wie eine {9}. Und schließlich
+      gibt es die {10} Freunde: *aktuell ≠ actually*, *realisieren
+      ≠ to realize*. Wer diese kennt, vermeidet die schlimmsten
+      Stolperfallen.
+    answers:
+      "1": drücken
+      "2": Füße
+      "3": Wasser
+      "4": wörtlich
+      "5": Kollokationen
+      "6": treffen
+      "7": leisten
+      "8": legen
+      "9": Übersetzung
+      "10": falschen
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: 'Sprachbausteine Teil 1'
+    instructions: 'Wähle die idiomatisch und grammatisch passende Option (a, b oder c) für jede Lücke.'
+    items:
+      - q: '„Ich wünsche dir viel Erfolg — ich {1} dir die Daumen!"'
+        options:
+          - { key: a, text: 'ziehe' }
+          - { key: b, text: 'drücke' }
+          - { key: c, text: 'lege' }
+        answer: b
+        why: '„die Daumen drücken" = Glück wünschen.'
+      - q: '„Diese Aussage ist nicht {1}."'
+        options:
+          - { key: a, text: 'Quatsch' }
+          - { key: b, text: 'zutreffend' }
+          - { key: c, text: 'echt ätzend' }
+        answer: b
+        why: '„nicht zutreffend" ist formell; die anderen Varianten sind umgangssprachlich.'
+      - q: '„Das Projekt ist {1} — wir müssen neu planen."'
+        options:
+          - { key: a, text: 'ins Wasser gefallen' }
+          - { key: b, text: 'auf die Palme gegangen' }
+          - { key: c, text: 'in die Suppe gefallen' }
+        answer: a
+        why: '„ins Wasser fallen" = scheitern.'
+      - q: '„Wir müssen eine {1} Entscheidung {2}."'
+        options:
+          - { key: a, text: 'gute … machen' }
+          - { key: b, text: 'fundierte … treffen' }
+          - { key: c, text: 'große … geben' }
+        answer: b
+        why: '„fundierte Entscheidung treffen" ist die korrekte Kollokation.'
+      - q: '„Das ist nicht {1} — ich habe andere Pläne."'
+        options:
+          - { key: a, text: 'mein Bier' }
+          - { key: b, text: 'mein Fall' }
+          - { key: c, text: 'meine Tasse Tee' }
+        answer: b
+        why: '„nicht mein Fall" ist die idiomatische deutsche Entsprechung.'
+      - q: '„Er ist im Alter von 87 Jahren {1}."'
+        options:
+          - { key: a, text: 'gestorben' }
+          - { key: b, text: 'verstorben' }
+          - { key: c, text: 'hat die Fliege gemacht' }
+        answer: b
+        why: '„verstorben" ist die angemessene Form in einer Todesanzeige.'
+
+  - id: C3
+    block: C
+    type: gap-bank
+    bankCase: upper
+    bankSort: true
+    title: 'Sprachbausteine Teil 2 (Wortbank)'
+    instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    text: |
+      Aus einem Sprachratgeber: „Redewendungen sind nicht {1}, sondern
+      haben eine {2} Bedeutung, die sich nicht aus den Einzelbedeutungen
+      erschließt. *Kalte Füße bekommen* {3} ‚Angst bekommen‘.
+      Auch {4} spielen eine Rolle: *eine fundierte Entscheidung
+      treffen* {5} *eine gute Entscheidung machen*. Schließlich
+      gibt es die {6} Freunde: *aktuell* {7} nicht *actually*,
+      sondern ‚derzeitig‘. *Realisieren* {8} *to realize*,
+      sondern ‚umsetzen‘. Wer diese {9} kennt, klingt
+      {10}."
+    bank: [WÖRTLICH, BILDHAFTE, HEISST, KOLLOKATIONEN, STATT, FALSCHEN, HEISST, BEDEUTET, STOLPERFALLEN, AUTHENTISCH, AKTUELL, WÖRTLICHE, NATÜRLICH, RICHTIG, SELTEN]
+    answers:
+      "1": WÖRTLICH
+      "2": BILDHAFTE
+      "3": HEISST
+      "4": KOLLOKATIONEN
+      "5": STATT
+      "6": FALSCHEN
+      "7": HEISST
+      "8": BEDEUTET
+      "9": STOLPERFALLEN
+      "10": AUTHENTISCH
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: 'Lesen Text 1 (Lesetext: Idiomatik im Feuilleton)'
+    instructions: |
+      > Die deutsche Sprache ist voller Wendungen, die man nicht übersetzen kann. Wer „eine Extrawurst verlangt", will nicht wirklich eine zusätzliche Wurst — er möchte eine Sonderbehandlung. Wer „die Daumen drückt", hält keine physischen Daumen zusammen — er wünscht jemandem Glück. Wer „kalte Füße bekommt", leidet nicht an einer medizinischen Störung — er bekommt Angst. Diese Wendungen sind das, was die deutsche Sprache kulturell macht. Sie sind ein Code, den nur diejenigen verstehen, die ihn gelernt haben — und sie sind der Grund, warum selbst perfekte Grammatik allein nicht ausreicht, um wie ein Muttersprachler zu klingen.
+      >
+      > Feuilletonisten und Sprachkritiker haben sich in den letzten Jahren verstärkt mit der Frage beschäftigt, wie viel Idiomatik ein Text verträgt. Die Antwort ist: Es kommt auf das Register an. In einem Sachbuch über Linguistik wird man kaum Redewendungen finden — höchstens als Beispiel zitiert und analysiert. In einem Roman sind sie allgegenwärtig. In einem Geschäftsbrief sind sie verpönt — wer schreibt „Das ist doch Quatsch", hat das Register verfehlt. Die Faustregel lautet: So viel Idiomatik wie nötig, so wenig wie möglich im geschriebenen, so viel wie möglich im gesprochenen Deutsch.
+      >
+      > Aber nicht nur die Registerfrage macht die Sache kompliziert. Auch die Kollokationen spielen eine Rolle. Wer „eine gute Entscheidung macht", ist grammatisch korrekt — und kollokativ falsch. Es heißt eine fundierte Entscheidung treffen. Wer „eine große Meinung hat", klingt zwar verständlich, aber „daneben" — es heißt eine feste Meinung vertreten. Wer „einen wichtigen Beitrag gibt", bringt die Kollokation durcheinander — es heißt einen wesentlichen Beitrag leisten.
+      >
+      > Hinzu kommen die falschen Freunde: Wörter, die im Englischen ähnlich klingen, aber eine andere Bedeutung haben. „Aktuell" bedeutet nicht actually (tatsächlich), sondern derzeitig. „Realisieren" bedeutet nicht to realize (erkennen), sondern umsetzen. „Sensibel" bedeutet nicht sensible (vernünftig), sondern heikel. Wer diese Stolperfallen kennt, vermeidet die schlimmsten Patzer.
+
+      Richtig (R) oder Falsch (F)?
+    items:
+      - q: 'Laut Text sind Redewendungen ein kultureller Code, den nur Eingeweihte verstehen.'
+        answer: true
+        why: '„Diese Wendungen sind das, was die deutsche Sprache kulturell macht. Sie sind ein Code, den nur diejenigen verstehen, die ihn gelernt haben".'
+      - q: 'Im Text wird empfohlen, in einem Geschäftsbrief viele Redewendungen zu verwenden.'
+        answer: false
+        why: '„In einem Geschäftsbrief sind sie verpönt".'
+      - q: '„Eine gute Entscheidung machen" wird im Text als kollokativ richtig beschrieben.'
+        answer: false
+        why: '„Wer ‚eine gute Entscheidung macht‘, ist grammatisch korrekt — und kollokativ falsch".'
+      - q: '„Aktuell" wird im Text als falscher Freund beschrieben.'
+        answer: true
+        why: '„Hinzu kommen die falschen Freunde: … ‚Aktuell‘ bedeutet nicht actually".'
+      - q: 'Der Text vertritt die These, dass perfekte Grammatik allein ausreicht, um wie ein Muttersprachler zu klingen.'
+        answer: false
+        why: '„selbst perfekte Grammatik allein nicht ausreicht, um wie ein Muttersprachler zu klingen".'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: 'Lesen Text 2 (Forumsdiskussion: Idiomatik im Berufsleben)'
+    instructions: |
+      Lies die folgenden Forumsbeiträge und wähle a, b oder c.
+
+      > **Beitrag 1 — Markus_K (Moderator):**
+      > Liebe Forenmitglieder, das Thema „Idiomatik im Berufsleben" wird seit Jahren kontrovers diskutiert. Wir möchten Sie einladen, Ihre Erfahrungen mit starken Kollokationen und Redewendungen im Arbeitsalltag zu teilen. Bitte beachten Sie, dass Beiträge mit mehr als fünf Umgangssprache-Wendungen pro Absatz möglicherweise gekürzt werden.
+      >
+      > **Beitrag 2 — Anna_B:**
+      > Leute, ich benutze im Büro ständig „kalte Füße bekommen" und „Daumen drücken". Das lockert die Stimmung auf und klingt ja nicht so trocken wie „aufgrund interner Bedenken" oder so. Wer schreibt heute noch ohne diese Wendungen?
+      >
+      > **Beitrag 3 — Dr. Yusuf El-Sayed:**
+      > Ich würde anregen, zwischen mündlicher und schriftlicher Kommunikation zu differenzieren. Im informellen Gespräch am Arbeitsplatz sind Redewendungen Ausdruck von Authentizität; in formellen Mitteilungen hingegen wirken sie deplatziert. Beide Register haben ihre Berechtigung.
+      >
+      > **Beitrag 4 — Tomáš_N (User):**
+      > Eigentlich finde ich, dass die Diskussion viel zu theoretisch geführt wird. Wer schreibt, sollte halt auf sein Sprachgefühl hören — dann passt das schon.
+    items:
+      - q: 'Welche Redewendungen benutzt Anna_B (Beitrag 2) im Büro besonders häufig?'
+        options:
+          - { key: a, text: '„Daumen drücken" und „kalte Füße bekommen"' }
+          - { key: b, text: '„ins Wasser fallen" und „die Fliege machen"' }
+          - { key: c, text: '„auf die Palme bringen" und „die Meinung geigen"' }
+        answer: a
+        why: '„ich benutze im Büro ständig ‚kalte Füße bekommen‘ und ‚Daumen drücken‘".'
+      - q: 'Welches Argument bringt Yusuf (Beitrag 3) für den differenzierten Einsatz von Redewendungen?'
+        options:
+          - { key: a, text: 'Redewendungen sollten in keinem Register verwendet werden.' }
+          - { key: b, text: 'Im informellen Gespräch sind sie Ausdruck von Authentizität; in formellen Mitteilungen deplatziert.' }
+          - { key: c, text: 'Redewendungen gehören nur in die Literatur.' }
+        answer: b
+        why: '„Im informellen Gespräch am Arbeitsplatz sind Redewendungen Ausdruck von Authentizität; in formellen Mitteilungen hingegen wirken sie deplatziert".'
+      - q: 'Welche Wendung benutzt Tomáš_N (Beitrag 4), um seine Meinung einzuleiten?'
+        options:
+          - { key: a, text: '„Eigentlich finde ich"' }
+          - { key: b, text: '„Ich würde mal sagen"' }
+          - { key: c, text: '„Aller Anfang ist schwer"' }
+        answer: a
+        why: '„Eigentlich finde ich, dass die Diskussion viel zu theoretisch geführt wird".'
+      - q: 'Welches Register benutzt Markus_K (Beitrag 1)?'
+        options:
+          - { key: a, text: 'Umgangssprachlich.' }
+          - { key: b, text: 'Standardsprachlich.' }
+          - { key: c, text: 'Gehoben / formell.' }
+        answer: c
+        why: '„höflich darauf hinweisen" / „Beiträge mit mehr als fünf Umgangssprache-Wendungen … möglicherweise gekürzt werden" — gehoben-formelles Register, passend zur Moderatorenrolle.'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: 'Schreiben: Zwei Versionen einer Stellungnahme'
+    prompt: 'Verfasse zwei Versionen einer Stellungnahme (5–7 Sätze pro Version) zum gleichen Thema. (1) Eine informelle Version per WhatsApp an eine Freundin / einen Freund (Du-Anrede, kurze Sätze, mindestens 4 Redewendungen). (2) Eine formelle Version als Leserbrief an eine Zeitung (Sie-Anrede, vollständige Sätze, Konjunktiv II, mindestens 4 starke Kollokationen, höchstens 1 Redewendung). Thema: Stellungnahme zur Digitalisierung in Schulen.'
+    use:
+      - '(1) Informelle Version: Du-Anrede, mindestens 4 Redewendungen (Daumen drücken, kalte Füße, ins Wasser fallen, auf die Palme …)'
+      - '(2) Formelle Version: Sie-Anrede, mindestens 4 starke Kollokationen (fundierte Entscheidung, in Frage stellen, Wert auf etwas legen, zur Verfügung stellen …)'
+      - '(2) Formelle Version: sachliche Begründung, kein Umgangssprache-Idiom'
+      - '(2) Formelle Version: Schlussformel „Mit freundlichen Grüßen"'
+    selfCheck:
+      - 'Bleibt Version 1 konsequent informell?'
+      - 'Bleibt Version 2 konsequent formell?'
+      - 'Werden in Version 1 mindestens 4 Redewendungen richtig verwendet?'
+      - 'Werden in Version 2 mindestens 4 Kollokationen richtig gebildet?'
+      - 'Wird in Version 2 höchstens 1 Redewendung verwendet?'
+    model: |
+      (1) WhatsApp: „Hey Anna! Sag mal, was hältst du eigentlich von der Digitalisierung an Schulen? Ich hab da so meine Zweifel — die haben das alles ins Wasser fallen lassen, weil keiner mehr Zeit hat. Meiner Schwester haben sie ein Tablet gegeben, aber dann hat keiner gezeigt, wie es geht. Ich hab richtig kalte Füße bekommen, als ich gesehen hab, wie die Kinder damit umgehen. Die Lehrer sind total auf die Palme gebracht. Echt — Daumen drücken für die, die es trotzdem versuchen."
+      (2) Leserbrief: „Sehr geehrte Redaktion, mit großem Interesse habe ich Ihren Artikel zur Digitalisierung an Schulen gelesen. Als jemand, der seit Jahren im Bildungsbereich tätig ist, möchte ich einige Aspekte in Frage stellen. Die Einführung digitaler Medien ist eine weitreichende Entscheidung, die nicht ohne fundierte Vorbereitung getroffen werden sollte. Ich lege Wert darauf, dass die Lehrkräfte in die Entscheidungsprozesse einbezogen werden. Bisher wurden digitale Endgeräte zwar zur Verfügung gestellt, eine nachhaltige Schulung des Personals blieb jedoch aus. Es wäre wünschenswert, wenn die Verantwortlichen die Wogen glätten und einen konstruktiven Dialog mit allen Beteiligten führen würden. Mit freundlichen Grüßen, Tomáš Novák."
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: 'Gemischter Schnelltest'
+    instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items.'
+    text: |
+      **Redewendungen (C1/04):**
+      1. Glück wünschen: Ich {1} dir die Daumen.
+      2. Angst bekommen: Er hat {2}.
+      3. scheitern: Der Plan ist {3}.
+      4. jemanden verärgern: Sie hat mich {4}.
+      5. verschwinden: Mach {5}.
+
+      **Sprichwörter (C1/04):**
+      6. Beginn: {6} ist schwer.
+      7. Übung: {7} macht den Meister.
+      8. Familie: Blut ist {8} als Wasser.
+      9. Konsequenz: Wer A sagt, muss auch {9} sagen.
+      10. Verdacht: {10} Rauch ohne Feuer.
+
+      **Wiederholung (B2/08 Funktionsverbgefüge):**
+      11. (B2/08) bezweifeln: in {11} stellen.
+      12. (B2/08) anbieten: zur {12} stellen.
+
+      **Wiederholung (B2/09 Wortbildung):**
+      13. (B2/09) Vorsilbe mit Bedeutung „verkehrt": {13}-.
+      14. (B2/09) Vorsilbe mit Bedeutung „zerstören": {14}-.
+
+      **Wiederholung (C1/03 Modalpartikeln):**
+      15. (C1/03) Modalpartikel für Bekräftigung: {15}.
+    answers:
+      "1": drücke
+      "2": kalte Füße bekommen
+      "3": ins Wasser gefallen
+      "4": auf die Palme gebracht
+      "5": die Fliege
+      "6": Aller Anfang
+      "7": Übung
+      "8": dicker
+      "9": B
+      "10": Kein
+      "11": Frage
+      "12": Verfügung
+      "13": 'miss-'
+      "14": 'zer-'
+      "15": doch
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: 'Odd one out: Redewendungen und ähnliche Wörter'
+    instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    groups:
+      - items: [Daumen, Füße, Kopf, Tisch]
+        odd: 3
+        why: '„Tisch" ist kein Körperteil; die anderen drei sind Motivkreis „Körper".'
+      - items: [Fliege, Kater, Schwein, Wolke]
+        odd: 3
+        why: '„Wolke" gehört zum Motivkreis „Natur/Wetter"; die anderen drei sind „Tiere".'
+      - items: [aktuell, realisieren, sensibel, konsequent]
+        odd: 3
+        why: '„konsequent" ist kein falscher Freund; die anderen drei sind typische false friends.'
+      - items: [allerdings, vermutlich, wahrscheinlich, möglicherweise]
+        odd: 0
+        why: '„allerdings" ist ein Konjunktionaladverb; die anderen drei sind Modalpartikel-unabhängige Adverbien.'
+      - items: [Blut, Wasser, Feuer, Brei]
+        odd: 1
+        why: '„Wasser" kommt zwar in Sprichwörtern vor, aber nicht als zentrales Bild im Sprichwort „Blut ist dicker als Wasser".'
+      - items: [entscheiden, treffen, geben, leisten]
+        odd: 2
+        why: '„geben" kollokiert nicht mit „Beitrag"; die anderen drei sind korrekt (Entscheidung treffen, Beitrag leisten).'
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: 'Rückblick: B2/08, B2/09, C1/01, C1/03'
+    instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    text: |
+      **Aus B2/08 (Funktionsverbgefüge):**
+      1. bezweifeln: in Frage {1}.
+      2. anbieten: zur Verfügung {2}.
+
+      **Aus B2/09 (Wortbildung):**
+      3. Vorsilbe mit Bedeutung „verkehrt": {3}-.
+      4. Vorsilbe mit Bedeutung „zerstören": {4}-.
+
+      **Aus C1/01 (Register):**
+      5. Register der WhatsApp unter Freunden: {5}.
+      6. Register der E-Mail an den Vorgesetzten: {6}.
+
+      **Aus C1/03 (Modalpartikeln):**
+      7. Modalpartikel für Bekräftigung: {7}.
+      8. Modalpartikel für vorsichtige Vermutung: {8}.
+
+      **Aus C1/04 (Idiomatik — vertieft):**
+      9. Starke Kollokation: eine fundierte Entscheidung {9}.
+      10. Falscher Freund: „aktuell" bedeutet {10}.
+    answers:
+      "1": stellen
+      "2": stellen
+      "3": 'miss-'
+      "4": 'zer-'
+      "5": umgangssprachlich
+      "6": gehoben
+      "7": doch
+      "8": wohl
+      "9": treffen
+      "10": derzeitig
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: 'Selbsttest (bewerte dich /20)'
+    notes: '16+ / 20 → Lektion C1/05. Unter 16 → wiederhol morgen Block A (A1–A10) und Block B (B1–B9), dann mach D4 noch einmal.'
+    text: |
+      **Redewendungen zuordnen:**
+      1. „Ich {1} dir die Daumen!" (Glück wünschen)
+      2. „Er hat {2} und den Vertrag nicht unterschrieben." (Angst bekommen)
+      3. „Das Projekt ist {3}." (gescheitert)
+      4. „Sie hat mich {4} mit ihrer Nörgelei." (verärgert)
+
+      **Sprichwörter:**
+      5. Anfang: {5} ist schwer.
+      6. Übung: {6} macht den Meister.
+      7. Familie: Blut ist {7} als Wasser.
+
+      **Starke Kollokationen:**
+      8. eine {8} Entscheidung treffen
+      9. einen wesentlichen Beitrag {9}
+      10. Wert auf etwas {10}
+
+      **Falsche Freunde:**
+      11. „aktuell" bedeutet {11}, nicht *tatsächlich*.
+      12. „realisieren" bedeutet {12}, nicht *erkennen*.
+
+      **Wiederholung (B2/08):**
+      13. (B2/08) bezweifeln: in {13} stellen.
+      14. (B2/08) anbieten: zur {14} stellen.
+
+      **Wiederholung (C1/01):**
+      15. (C1/01) Euphemismus für „sterben": {15}.
+      16. (C1/01) Konjunktiv II als {16}-Marker.
+
+      **Wiederholung (C1/03):**
+      17. (C1/03) Modalpartikel für Resignation: {17}.
+      18. (C1/03) Modalpartikel für vorsichtige Vermutung: {18}.
+
+      **Wiederholung (C1/04):**
+      19. (C1/04) Typischer Fehler: Idiom im {19} = Registerbruch.
+      20. (C1/04) Typischer Fehler: *starke Meinung* = {20}-Bruch.
+    answers:
+      "1": drücke
+      "2": kalte Füße bekommen
+      "3": ins Wasser gefallen
+      "4": auf die Palme gebracht
+      "5": Aller Anfang
+      "6": Übung
+      "7": dicker
+      "8": fundierte
+      "9": leisten
+      "10": legen
+      "11": derzeitig
+      "12": umsetzen
+      "13": Frage
+      "14": Verfügung
+      "15": verstorben
+      "16": Distanz
+      "17": halt
+      "18": wohl
+      "19": Geschäftsbrief
+      "20": Kollokations
