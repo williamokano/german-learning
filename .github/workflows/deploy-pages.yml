@@ -9,6 +9,7 @@ on:
       - 'A2/**'
       - 'B1/**'
       - 'B2/**'
+      - 'C1/**'
       - 'docs/web/**'
   workflow_dispatch:
 
