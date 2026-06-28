@@ -66,7 +66,7 @@ Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör 
 
 **Ansage 1 — Transcript**
 
-> Guten Tag, Sie haben die PR-Agentur Wortkraft in Hamburg-Altona erreicht. Wir sind heute, am Donnerstag, dem 19. Juni, leider nicht persönlich für Sie da. Aufgrund einer kurzfristigen Klausurtagung der Geschäftsführung ist unser Büro bis einschließlich Freitag nicht besetzt. Für dringende Medienanfragen wenden Sie sich bitte an die Pressehotline 040-89 12 34. Für Anfragen zu laufenden Kundenprojekten hinterlassen Sie bitte Ihren Namen, Ihre Telefonnummer und den Namen des betreuten Unternehmens nach dem Signalton. Wir rufen Sie am darauffolgenden Werktag zurück. Bitte rufen Sie mich zurück unter dieser Nummer. Vielen Dank für Ihr Verständnis.
+> Guten Tag, Sie haben die PR-Agentur Wortkraft in Hamburg-Altona erreicht. Wir sind heute, am Donnerstag, dem 19. Juni, leider nicht persönlich für Sie da. Aufgrund einer kurzfristigen Klausurtagung der Geschäftsführung ist unser Büro bis einschließlich Freitag nicht besetzt. Für dringende Medienanfragen wenden Sie sich bitte an die Pressehotline 040-89 12 34. Für Anfragen zu laufenden Kundenprojekten hinterlassen Sie bitte Ihren Namen, Ihre Telefonnummer und den Namen des betreuten Unternehmens nach dem Signalton. Wir rufen Sie am darauffolgenden Werktag zurück. Vielen Dank für Ihr Verständnis.
 
 </details>
 
@@ -142,7 +142,7 @@ Ergänze die Sprichwörter mit dem passenden Wort. 5 Items.
 
 1. Aller ______ ist schwer. (Beginn)
 2. ______ macht den Meister. (Wiederholtes Tun)
-3. Wer A ______, muss auch B sagen. (Aussprache)
+3. Wer A ______, muss auch B sagen. (äußern)
 4. ______ ist dicker als Wasser. (Familie)
 5. Viele ______ verderben den Brei. (Mitarbeiter)
 
@@ -154,7 +154,7 @@ Wähle die richtige deutsche Bedeutung (a, b oder c).
 2. „realisieren"  a) erkennen, begreifen  b) verwirklichen, umsetzen  c) wiederholen
 3. „sensibel"  a) vernünftig  b) klug  c) empfindlich, heikel
 4. „eventuell"  a) schließlich  b) möglicherweise, vielleicht  c) regelmäßig
-5. „genial"  a) grausam  b) großartig, einfallsreich  c) genervt
+5. „genial"  a) freundlich, herzlich  b) großartig, einfallsreich  c) genervt
 
 ## Übung A7 — Falsche Freunde: Wort — richtige Bedeutung
 
@@ -265,7 +265,7 @@ Wähle die Formulierung, die zum angegebenen Register passt.
 
 ## Übung B6 — Sprichwörter — Original und Modifikation
 
-Füll die 6 Lücken. Drei Elemente sind zu viel.
+Füll die 6 Lücken. Vier Elemente sind zu viel.
 
 > 1. Aller Anfang ist (1) ______. — Modifikation: Aller (2) ______ war, ist und bleibt schwer.
 > 2. (3) ______ macht den (4) ______. — Verneinung: Ohne Übung wird man (5) ______ (6) ______.
@@ -362,7 +362,7 @@ Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Je
 > Auch (4) ______ spielen eine Rolle: *eine fundierte Entscheidung
 > treffen* (5) ______ *eine gute Entscheidung machen*. Schließlich
 > gibt es die (6) ______ Freunde: *aktuell* (7) ______ nicht *actually*,
-> sondern ‚derzeitig‘. *Realisieren* (8) ______ *to realize*,
+> sondern ‚derzeitig‘. *Realisieren* (8) ______ nicht *to realize*,
 > sondern ‚umsetzen‘. Wer diese (9) ______ kennt, klingt
 > (10) ______."
 
@@ -467,10 +467,10 @@ Streiche das Wort, das nicht passt, und erkläre warum.
 
 1. Daumen – Füße – Kopf – Tisch
 2. Fliege – Kater – Schwein – Wolke
-3. aktuell – realisieren – sensibel – konsequent
+3. aktuell – realisieren – sensibel – intelligent
 4. allerdings – vermutlich – wahrscheinlich – möglicherweise
 5. Blut – Wasser – Feuer – Brei
-6. entscheiden – treffen – geben – leisten
+6. ziehen – treffen – geben – leisten
 
 ## Übung D3 — Rückblick: B2/08, B2/09, C1/01, C1/03
 

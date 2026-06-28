@@ -104,7 +104,7 @@ exercises:
     audio: transcript_ansage1.mp3
     instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
     optionLayout: block
-    transcript: 'Guten Tag, Sie haben die PR-Agentur Wortkraft in Hamburg-Altona erreicht. Wir sind heute, am Donnerstag, dem 19. Juni, leider nicht persönlich für Sie da. Aufgrund einer kurzfristigen Klausurtagung der Geschäftsführung ist unser Büro bis einschließlich Freitag nicht besetzt. Für dringende Medienanfragen wenden Sie sich bitte an die Pressehotline 040-89 12 34. Für Anfragen zu laufenden Kundenprojekten hinterlassen Sie bitte Ihren Namen, Ihre Telefonnummer und den Namen des betreuten Unternehmens nach dem Signalton. Wir rufen Sie am darauffolgenden Werktag zurück. Bitte rufen Sie mich zurück unter dieser Nummer. Vielen Dank für Ihr Verständnis.'
+    transcript: 'Guten Tag, Sie haben die PR-Agentur Wortkraft in Hamburg-Altona erreicht. Wir sind heute, am Donnerstag, dem 19. Juni, leider nicht persönlich für Sie da. Aufgrund einer kurzfristigen Klausurtagung der Geschäftsführung ist unser Büro bis einschließlich Freitag nicht besetzt. Für dringende Medienanfragen wenden Sie sich bitte an die Pressehotline 040-89 12 34. Für Anfragen zu laufenden Kundenprojekten hinterlassen Sie bitte Ihren Namen, Ihre Telefonnummer und den Namen des betreuten Unternehmens nach dem Signalton. Wir rufen Sie am darauffolgenden Werktag zurück. Vielen Dank für Ihr Verständnis.'
     items:
       - q: 'Welche Einheit ist auf dem Anrufbeantworter zu hören?'
         options:
@@ -336,7 +336,7 @@ exercises:
     text: |
       1. Aller {1} ist schwer. (Beginn)
       2. {2} macht den Meister. (Wiederholtes Tun)
-      3. Wer A {3}, muss auch B sagen. (Aussprache)
+      3. Wer A {3}, muss auch B sagen. (äußern)
       4. {4} ist dicker als Wasser. (Familie)
       5. Viele {5} verderben den Brei. (Mitarbeiter)
     answers:
@@ -382,11 +382,11 @@ exercises:
         why: '„eventuell" = möglicherweise. „schließlich" = letztendlich.'
       - q: '„genial"'
         options:
-          - { key: a, text: 'grausam' }
+          - { key: a, text: 'freundlich, herzlich' }
           - { key: b, text: 'großartig, einfallsreich' }
           - { key: c, text: 'genervt' }
         answer: b
-        why: '„genial" = großartig, einfallsreich. „grausam" = brutal, schlimm.'
+        why: '„genial" = großartig, einfallsreich. Das englische „genial" bedeutet dagegen „freundlich, herzlich" (falscher Freund).'
 
   - id: A7
     block: A
@@ -657,7 +657,7 @@ exercises:
     block: B
     type: gap-bank
     title: 'Sprichwörter — Original und Modifikation'
-    instructions: 'Füll die 6 Lücken. Drei Elemente sind zu viel.'
+    instructions: 'Füll die 6 Lücken. Vier Elemente sind zu viel.'
     text: |
       1. Aller Anfang ist {1}. — Modifikation: Aller {2} war, ist und bleibt schwer.
       2. {3} macht den {4}. — Verneinung: Ohne Übung wird man {5} {6}.
@@ -859,7 +859,7 @@ exercises:
       Auch {4} spielen eine Rolle: *eine fundierte Entscheidung
       treffen* {5} *eine gute Entscheidung machen*. Schließlich
       gibt es die {6} Freunde: *aktuell* {7} nicht *actually*,
-      sondern ‚derzeitig‘. *Realisieren* {8} *to realize*,
+      sondern ‚derzeitig‘. *Realisieren* {8} nicht *to realize*,
       sondern ‚umsetzen‘. Wer diese {9} kennt, klingt
       {10}."
     bank: [WÖRTLICH, BILDHAFTE, HEISST, KOLLOKATIONEN, STATT, FALSCHEN, HEISST, BEDEUTET, STOLPERFALLEN, AUTHENTISCH, AKTUELL, WÖRTLICHE, NATÜRLICH, RICHTIG, SELTEN]
@@ -952,7 +952,7 @@ exercises:
           - { key: b, text: 'Standardsprachlich.' }
           - { key: c, text: 'Gehoben / formell.' }
         answer: c
-        why: '„höflich darauf hinweisen" / „Beiträge mit mehr als fünf Umgangssprache-Wendungen … möglicherweise gekürzt werden" — gehoben-formelles Register, passend zur Moderatorenrolle.'
+        why: '„Wir möchten Sie einladen … Bitte beachten Sie, dass Beiträge … möglicherweise gekürzt werden" — gehoben-formelles Register, passend zur Moderatorenrolle.'
 
   - id: C5
     block: C
@@ -1036,18 +1036,18 @@ exercises:
       - items: [Fliege, Kater, Schwein, Wolke]
         odd: 3
         why: '„Wolke" gehört zum Motivkreis „Natur/Wetter"; die anderen drei sind „Tiere".'
-      - items: [aktuell, realisieren, sensibel, konsequent]
+      - items: [aktuell, realisieren, sensibel, intelligent]
         odd: 3
-        why: '„konsequent" ist kein falscher Freund; die anderen drei sind typische false friends.'
+        why: '„intelligent" ist kein falscher Freund (gleiche Bedeutung im Deutschen und Englischen); die anderen drei sind typische false friends (aktuell ≠ actually, realisieren ≠ to realize, sensibel ≠ sensible).'
       - items: [allerdings, vermutlich, wahrscheinlich, möglicherweise]
         odd: 0
-        why: '„allerdings" ist ein Konjunktionaladverb; die anderen drei sind Modalpartikel-unabhängige Adverbien.'
+        why: '„allerdings" ist ein einräumendes Konnektoradverb; die anderen drei sind Wahrscheinlichkeitsadverbien (sie drücken eine Vermutung aus).'
       - items: [Blut, Wasser, Feuer, Brei]
         odd: 1
-        why: '„Wasser" kommt zwar in Sprichwörtern vor, aber nicht als zentrales Bild im Sprichwort „Blut ist dicker als Wasser".'
-      - items: [entscheiden, treffen, geben, leisten]
+        why: 'Blut, Feuer und Brei stehen jeweils im Zentrum eines eigenen Sprichworts (Blut ist dicker als Wasser, Kein Rauch ohne Feuer, Viele Köche verderben den Brei); „Wasser" kommt nur als Vergleichswort vor.'
+      - items: [ziehen, treffen, geben, leisten]
         odd: 2
-        why: '„geben" kollokiert nicht mit „Beitrag"; die anderen drei sind korrekt (Entscheidung treffen, Beitrag leisten).'
+        why: '„geben" bildet keine starke Kollokation; ziehen (Vergleich ziehen), treffen (Entscheidung treffen) und leisten (Beitrag leisten) sind korrekte Kollokationsverben.'
 
   - id: D3
     block: D

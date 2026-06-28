@@ -80,7 +80,7 @@
 2. **b) verwirklichen, umsetzen** — „realisieren" = verwirklichen, umsetzen. „erkennen" = begreifen.
 3. **c) empfindlich, heikel** — „sensibel" = empfindlich, heikel. „vernünftig" = sinnvoll, durchdacht.
 4. **b) möglicherweise, vielleicht** — „eventuell" = möglicherweise. „schließlich" = letztendlich.
-5. **b) großartig, einfallsreich** — „genial" = großartig, einfallsreich. „grausam" = brutal, schlimm.
+5. **b) großartig, einfallsreich** — „genial" = großartig, einfallsreich. Das englische „genial" bedeutet dagegen „freundlich, herzlich" (falscher Freund).
 
 ## Übung A7 — Falsche Freunde: Wort — richtige Bedeutung
 
@@ -220,7 +220,7 @@ Selbstkorrektur:
 1. **a) „Daumen drücken" und „kalte Füße bekommen"** — „ich benutze im Büro ständig ‚kalte Füße bekommen‘ und ‚Daumen drücken‘".
 2. **b) Im informellen Gespräch sind sie Ausdruck von Authentizität; in formellen Mitteilungen deplatziert.** — „Im informellen Gespräch am Arbeitsplatz sind Redewendungen Ausdruck von Authentizität; in formellen Mitteilungen hingegen wirken sie deplatziert".
 3. **a) „Eigentlich finde ich"** — „Eigentlich finde ich, dass die Diskussion viel zu theoretisch geführt wird".
-4. **c) Gehoben / formell.** — „höflich darauf hinweisen" / „Beiträge mit mehr als fünf Umgangssprache-Wendungen … möglicherweise gekürzt werden" — gehoben-formelles Register, passend zur Moderatorenrolle.
+4. **c) Gehoben / formell.** — „Wir möchten Sie einladen … Bitte beachten Sie, dass Beiträge … möglicherweise gekürzt werden" — gehoben-formelles Register, passend zur Moderatorenrolle.
 
 ## Übung C5 — Schreiben: Zwei Versionen einer Stellungnahme
 
@@ -248,10 +248,10 @@ Selbstkorrektur:
 
 1. ~~Tisch~~ — „Tisch" ist kein Körperteil; die anderen drei sind Motivkreis „Körper".
 2. ~~Wolke~~ — „Wolke" gehört zum Motivkreis „Natur/Wetter"; die anderen drei sind „Tiere".
-3. ~~konsequent~~ — „konsequent" ist kein falscher Freund; die anderen drei sind typische false friends.
-4. ~~allerdings~~ — „allerdings" ist ein Konjunktionaladverb; die anderen drei sind Modalpartikel-unabhängige Adverbien.
-5. ~~Wasser~~ — „Wasser" kommt zwar in Sprichwörtern vor, aber nicht als zentrales Bild im Sprichwort „Blut ist dicker als Wasser".
-6. ~~geben~~ — „geben" kollokiert nicht mit „Beitrag"; die anderen drei sind korrekt (Entscheidung treffen, Beitrag leisten).
+3. ~~intelligent~~ — „intelligent" ist kein falscher Freund (gleiche Bedeutung im Deutschen und Englischen); die anderen drei sind typische false friends (aktuell ≠ actually, realisieren ≠ to realize, sensibel ≠ sensible).
+4. ~~allerdings~~ — „allerdings" ist ein einräumendes Konnektoradverb; die anderen drei sind Wahrscheinlichkeitsadverbien (sie drücken eine Vermutung aus).
+5. ~~Wasser~~ — Blut, Feuer und Brei stehen jeweils im Zentrum eines eigenen Sprichworts (Blut ist dicker als Wasser, Kein Rauch ohne Feuer, Viele Köche verderben den Brei); „Wasser" kommt nur als Vergleichswort vor.
+6. ~~geben~~ — „geben" bildet keine starke Kollokation; ziehen (Vergleich ziehen), treffen (Entscheidung treffen) und leisten (Beitrag leisten) sind korrekte Kollokationsverben.
 
 ## Übung D3 — Rückblick: B2/08, B2/09, C1/01, C1/03
 

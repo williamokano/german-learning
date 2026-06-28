@@ -14,7 +14,7 @@ grammar:
   - "Redewendungen mit Körper, Natur, Farben, Tieren — Motivkreise und ihre Bedeutungen"
   - "Sprichwörter: Aufbau, Aussagekraft, Modifikation (Wer A sagt, muss auch B sagen)"
   - "Starke Kollokationen: Funktionsverbgefüge (in Frage stellen, zur Verfügung stehen), Adjektiv-Nomen-Verbindungen (tiefe Freundschaft, harte Kritik), Verb-Nomen-Kollokationen (einen Beitrag leisten)"
-  - "Falsche Freunde: aktuell, realisieren, sensibel, Sympathisant, provisionell, exponieren"
+  - "Falsche Freunde: aktuell, realisieren, sensibel, Sympathisant, eventuell, exponieren"
   - "Typische Fehler Fortgeschrittener: Kollokationsbruch (starke Meinung), Registerbruch (Idiom im Geschäftsbrief), wörtliche Übersetzung englischer Idiome"
 buildsOn:
   - C1/01 (Stil und Register — gehoben vs. umgangssprachlich)
@@ -47,7 +47,7 @@ buildsOn:
 > **Mia:** Na, dann mal los. Ich hol mal die Karten. Sag mal, Tomáš, wie war eigentlich Prag letzte Woche? Ich hab gehört, du hattest **die Daumen gedrückt** für irgendeinen Investor.  
 > **Tomáš:** Ach, das hat leider nicht geklappt. Der hat **kalte Füße** bekommen und ist abgesprungen — eine Stunde vor Vertragsschluss.  
 > **Lukas:** Das tut mir leid. Da hast du dir **einen abgebrochen**, oder?  
-> **Tomáš:** Ja, voll. Drei Wochen Verhandlung, und dann **ins Wasser gefallen**. Aber was soll's. Jetzt mach ich erstmal **die Fliege** und genieß den Abend.  
+> **Tomáš:** Ja, voll. Drei Wochen Verhandlung, und dann **ins Wasser gefallen**. Aber was soll's. Jetzt mach ich erstmal **Feierabend** und genieß den Abend.  
 > **Mia:** Du Armer. Aber **Kopf hoch!** — der nächste Investor kommt bestimmt.  
 > **Tomáš:** Ja, ja, **wird schon**. Sag mal, Lukas — du hast doch neulich gesagt, dein Chef hat dich **aufs Korn genommen**. Was war denn da los?  
 > **Lukas:** Ach, der hat mir **die Hölle heiß gemacht**, weil ich angeblich zu langsam arbeite. Ich hab dann aber **die Kurve gekriegt** und geliefert.  
@@ -67,13 +67,13 @@ buildsOn:
 
 > **Frau Hoffmann:** Frau Yilmaz, schön, dass Sie unserer Einladung gefolgt sind. Bevor wir ins Detail gehen, möchte ich mir ein Bild von Ihrer Arbeitsweise machen: Könnten Sie mir ein Beispiel nennen, in dem Sie unter Druck eine **schnelle und fundierte Entscheidung** treffen mussten?  
 > **Frau Yilmaz:** Sehr gerne. In meiner letzten Position hatten wir eine **heikle Lage**: Ein wichtiger Mandant stand kurz vor dem Vertragsbruch, und wir hatten nur 48 Stunden Zeit, um eine Lösung **auf die Beine zu stellen**.  
-> **Frau Hoffmann:** Wie sind Sie damals **zu Potte** gekommen?  
+> **Frau Hoffmann:** Wie sind Sie damals konkret **vorgegangen**?  
 > **Frau Yilmaz:** Ich habe zunächst die **Faktenlage gesichtet** und parallel ein **kurzfristiges Brainstorming** mit dem Kernteam **angesetzt**. Wir haben die Risiken abgewogen und eine **tragfähige Lösung** erarbeitet.  
 > **Frau Hoffmann:** Das klingt **durchdacht**. Wie würden Sie Ihre **Zusammenarbeit mit Vorgesetzten** beschreiben?  
 > **Frau Yilmaz:** Ich **lege Wert auf** transparente Kommunikation. Wenn ich einen **anderen Standpunkt** vertrete, bringe ich das **auf den Tisch** — sachlich und begründet. Ich **stehe zu meinem Wort**, und ich erwarte das auch von anderen.  
 > **Frau Hoffmann:** Das schätze ich. Eine Frage noch: Wie gehen Sie mit **Meinungsverschiedenheiten im Team** um?  
 > **Frau Yilmaz:** Ich versuche, **die Wogen zu glätten**, wenn Konflikte **im Keim** entstehen, und **stehe für klare Absprachen**. Wenn nötig, **hole ich mir Rat** bei Kolleginnen und Kollegen, die **über mehr Erfahrung verfügen**. **Niemand ist allwissend.**  
-> **Frau Doktor Hoffmann:** Gut formuliert. Frau Yilmaz, ich danke Ihnen für das Gespräch. Wir **melden uns bei Ihnen** **im Laufe der nächsten Woche**.  
+> **Frau Hoffmann:** Gut formuliert. Frau Yilmaz, ich danke Ihnen für das Gespräch. Wir **melden uns bei Ihnen** **im Laufe der nächsten Woche**.  
 > **Frau Yilmaz:** Vielen Dank, Frau Doktor Hoffmann. Ich freue mich auf Ihre Rückmeldung und **stehe Ihnen für Rückfragen selbstverständlich jederzeit zur Verfügung.**
 
 ---
@@ -137,7 +137,7 @@ In dieser Lektion lernst du die wichtigsten **Redewendungen**, **Sprichwörter**
 | *etwas **auf den Tisch bringen*** | etwas offen ansprechen |
 | *zu seinem **Wort stehen*** | ein Versprechen halten |
 | *Wert auf etwas **legen*** | etwas wichtig finden |
-| *jemandem **Rat holen*** | jemanden um Rat fragen |
+| *sich (bei jdm.) **Rat holen*** | jemanden um Rat fragen |
 
 ---
 
@@ -171,7 +171,7 @@ In dieser Lektion lernst du die wichtigsten **Redewendungen**, **Sprichwörter**
 | Motivkreis | Beispiele | Bedeutung |
 |---|---|---|
 | **Körper** | *Daumen drücken, kalte Füße bekommen, Kopf hoch, auf die Palme bringen, das Herz auf der Zunge tragen* | meist bildlich für innere Zustände |
-| **Tiere** | *die Fliege machen, einen Kater haben, eine Ente sein, die Daumen drücken* | verschiedene Bedeutungen — vom Verschwinden bis zum Pech |
+| **Tiere** | *die Fliege machen, einen Kater haben, eine Ente sein, Schwein haben* | verschiedene Bedeutungen — vom Verschwinden bis zum Glück |
 | **Farben** | *ins Blaue reden, das Gelbe vom Ei, grün hinter den Ohren sein* | Unbestimmtheit, Perfektion, Naivität |
 | **Natur/Wetter** | *ins Wasser fallen, ein Sturm im Wasserglas, auf Wolke sieben sein* | Scheitern, übertriebene Aufregung, Glück |
 | **Essen/Trinken** | *die Suppe auslöffeln, die Sahne abschöpfen, den Löffel abgeben* | Konsequenzen tragen, Profit machen, sterben |
@@ -185,7 +185,7 @@ In dieser Lektion lernst du die wichtigsten **Redewendungen**, **Sprichwörter**
 | *sensibel* | *sensible* | **empfindlich** (*ein sensibles Thema*, nicht *vernünftig*) |
 | *Sympathisant* | *sympathizer* | **Mitläufer, Unterstützer** (oft politisch negativ konnotiert) |
 | *eventuell* | *eventually* | **möglicherweise** (*eventuell komme ich*, nicht *schließlich*) |
-| *genial* | *genial* | **großartig, einfallsreich** (*eine geniale Idee*, nicht *grausam*) |
+| *genial* | *genial* | **großartig, einfallsreich** (*eine geniale Idee*; engl. *genial* = freundlich, herzlich) |
 | *exponieren* | *to expose* | **herausstellen, positionieren** (*sich exponieren*, nicht *belichten*) |
 | *konsequent* | *consequent* | **folgerichtig, beharrlich** (*konsequent handeln*, nicht *folgend*) |
 
@@ -199,7 +199,7 @@ Tomáš sitzt am Samstagmorgen in der Küche seiner Berliner Ferienwohnung und s
 
 Beim Kaffee klingelt das Telefon. Seine Chefin aus Prag ist dran. *„Tomáši, ich habe eine gute und eine schlechte Nachricht."* Tomáš **schluckt** und fragt: *„Schieß los."* — *„Der Investor aus Berlin hat **kalte Füße bekommen**. Er springt ab."* Tomáš **fällt aus allen Wolken**. *„Aber wir hatten doch alles **unter Dach und Fach**!"* — *„Eben nicht. Es gibt **einen Haken** an dem Vertrag: Die Due-Diligence-Prüfung steht noch aus. Wir müssen **nachverhandeln**."* Tomáš **geht an die Decke**, aber dann **atmet er tief durch**. *„Gut. Ich kümmere mich darum. **Man muss die Dinge nehmen, wie sie kommen.**"*
 
-Er ruft Lukas an. *„Lukas, ich bräuchte deine **Hilfe**. Ich habe den **Vertrag an mich gerissen** und komme nicht weiter. Hast du **einen Moment Zeit**?"* Lukas lacht. *„Klar. **Du Armer.** Ich **schau mal drüber**. **Wo der Schuh drückt**, sehen wir dann schon."* — *„Danke. **Du bist ein echter Freund.**"*
+Er ruft Lukas an. *„Lukas, ich bräuchte deine **Hilfe**. Ich habe den **Vertrag übernommen** und komme nicht weiter. Hast du **einen Moment Zeit**?"* Lukas lacht. *„Klar. **Du Armer.** Ich **schau mal drüber**. **Wo der Schuh drückt**, sehen wir dann schon."* — *„Danke. **Du bist ein echter Freund.**"*
 
 Nach zwei Stunden **haben sie den Knoten durchgeschlagen**. Lukas hatte **den richtigen Riecher**: Die Due-Diligence-Klausel ließ sich **in trockene Tücher bringen**, weil sie auf eine bereits abgeschlossene Prüfung verweisen konnte. Tomáš **fällt ein Stein vom Herzen**. *„Lukas, **ich stehe tief in deiner Schuld.**"*
 
@@ -208,8 +208,8 @@ Am Abend sitzen die beiden in Mias Wohnung und stoßen mit einem Bier an. *„**
 <details>
 <summary>📝 Lese-Check — beantworte in einem Satz</summary>
 
-> **1. Welche zwei Redewendungen mit „kalt" enthält der Text, und was bedeuten sie?**
-> *„kalte Füße bekommen" (Angst bekommen, zögern) und „kalt lassen" ist hier nicht enthalten — aber „kalt" als Verstärker von Ablehnung kommt vor.*
+> **1. Welche Redewendung mit „kalt" enthält der Text, und was bedeutet sie?**
+> *„kalte Füße bekommen" — Angst bekommen, zögern (der Investor springt kurz vor Vertragsschluss ab).*
 >
 > **2. Welches Sprichwort kommt im Text vor?**
 > *„Man muss die Dinge nehmen, wie sie kommen."*
@@ -305,7 +305,7 @@ Am Abend sitzen die beiden in Mias Wohnung und stoßen mit einem Bier an. *„**
 **Beispiele zu jedem Motivkreis:**
 
 1. **Körper:** *„Ich **drücke** dir die **Daumen**"* (Glück wünschen). / *„Ich habe **kalte Füße** **bekommen**"* (Angst). / *„**Kopf hoch!**"* (Aufmunterung).
-2. **Tiere:** *„Ich mache **die Fliege**"* (gehen). / *„Ich habe einen **Kater**"* (verkatert sein). / *„Das war **die Lösung des Kolumbus-Eies**"* (einfache, geniale Lösung).
+2. **Tiere:** *„Ich mache **die Fliege**"* (gehen). / *„Ich habe einen **Kater**"* (verkatert sein). / *„Das war **das Ei des Kolumbus**"* (einfache, geniale Lösung).
 3. **Farben:** *„Ich rede mal **ins Blaue**"* (unverbindlich spekulieren). / *„Das war **das Gelbe vom Ei**"* (perfekt). / *„Er ist noch **grün hinter den Ohren**"* (unerfahren).
 4. **Natur/Wetter:** *„Der Plan ist **ins Wasser gefallen**"* (gescheitert). / *„Das war **ein Sturm im Wasserglas**"* (übertriebene Aufregung). / *„**Wie aus heiterem Himmel**"* (plötzlich).
 5. **Essen/Trinken:** *„**Die Suppe** muss er **auslöffeln**"* (Konsequenzen tragen). / *„Er **schöpft die Sahne ab**"* (Profit machen). / *„**Eine Extrawurst verlangen**"* (Sonderwünsche haben).
@@ -321,12 +321,12 @@ Am Abend sitzen die beiden in Mias Wohnung und stoßen mit einem Bier an. *„**
 
 > 💡 **Lerntipp:** Führe eine **Idiom-Liste nach Motivkreisen**. Wenn du eine neue Wendung lernst, ordne sie einem Kreis zu und überlege, welche **gleichen Bilder** noch zu diesem Kreis gehören. So baust du dir **Netzwerke** im Kopf — und kannst beim Sprechen leichter auf den passenden Kreis zugreifen.
 
-**Versuch es selbst.** Ordne die folgenden Redewendungen dem richtigen Motivkreis zu: *„Das war das Tüpfelchen auf dem i"* (a) Tiere, (b) Farben, (c) Essen/Trinken. *„Er hat Schwein gehabt"* (a) Tiere, (b) Farben, (c) Natur. *„Mir wird schwarz vor Augen"* (a) Farben, (b) Natur, (c) Körper.
+**Versuch es selbst.** Ordne die folgenden Redewendungen dem richtigen Motivkreis zu: *„Die Suppe muss er auslöffeln"* (a) Körper, (b) Essen/Trinken, (c) Tiere. *„Er hat Schwein gehabt"* (a) Tiere, (b) Farben, (c) Natur. *„Mir wird schwarz vor Augen"* (a) Farben, (b) Natur, (c) Körper.
 
 <details>
 <summary>📝 Lösung</summary>
 
-> *„Das war das Tüpfelchen auf dem i"* — **(b) Farben** (Schrift/Form). *„Er hat Schwein gehabt"* — **(a) Tiere**. *„Mir wird schwarz vor Augen"* — **(a) Farben** (Schwarz als Ohnmachts-Symbol).
+> *„Die Suppe muss er auslöffeln"* — **(b) Essen/Trinken** (die Konsequenzen tragen). *„Er hat Schwein gehabt"* — **(a) Tiere** (Glück haben). *„Mir wird schwarz vor Augen"* — **(a) Farben** (Schwarz als Ohnmachts-Symbol).
 >
 > </details>
 
@@ -352,7 +352,7 @@ Am Abend sitzen die beiden in Mias Wohnung und stoßen mit einem Bier an. *„**
 | Form | Beispiel |
 |---|---|
 | Subjekt + Prädikat | *Aller Anfang **ist** schwer.* / *Übung **macht** den Meister.* |
-| Kausalsatz | *Was du nicht willst, **das** man dir tu, **das** füg auch keinem andern zu.* |
+| Relativsatz | *Was du nicht willst, **das** man dir tu, **das** füg auch keinem andern zu.* |
 | Konditionalsatz | *Wer A **sagt**, **muss** auch B **sagen**.* |
 | Nominalphrase | *Blut **ist** dicker als Wasser.* |
 
@@ -504,11 +504,10 @@ Am Abend sitzen die beiden in Mias Wohnung und stoßen mit einem Bier an. *„**
 | *sensibel* | sensible | **empfindlich, heikel** | sensible (vernünftig) |
 | *eventuell* | eventually | **möglicherweise** | eventually (schließlich) |
 | *Sympathisant* | sympathizer | **(politischer) Mitläufer** | sympathizer (jemand, der sympathisch findet) |
-| *genial* | genial | **großartig, einfallsreich** | genial (grausam) |
+| *genial* | genial | **großartig, einfallsreich** | genial (freundlich, herzlich) |
 | *exponieren* | to expose | **herausstellen, positionieren** | to expose (aussetzen, belichten) |
 | *konsequent* | consequent | **folgerichtig, beharrlich** | consequent (folgend, sich ergebend) |
 | *mobil* | mobile | **beweglich, einsatzbereit** | mobile (tragbar, ortsunabhängig) |
-| *plausibel* | plausible | **einleuchtend, glaubwürdig** | plausible (ähnlich) |
 
 **Beispiele in Kontexten — typische Fehler:**
 
