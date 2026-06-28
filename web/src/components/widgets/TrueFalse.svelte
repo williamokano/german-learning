@@ -77,7 +77,7 @@
     <div class="item" class:has-audio={!!item.audio}>
       {#if item.audio}
         <div class="item-audio">
-          <audio-play data-src="{audioDir}{item.audio}"></audio-play>
+          <audio-play data-src="{audioDir}{item.audio}" data-enable-replay="1" data-replay-limit="2"></audio-play>
         </div>
       {/if}
       <span class="statement">{i + 1}. {item.q}</span>

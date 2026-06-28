@@ -75,7 +75,7 @@
     <div class="item" class:graded-item={graded}>
       {#if item.audio}
         <div class="item-audio">
-          <audio-play data-src="{audioDir}{item.audio}"></audio-play>
+          <audio-play data-src="{audioDir}{item.audio}" data-enable-replay="1" data-replay-limit="2"></audio-play>
         </div>
       {/if}
       <p class="question"><strong>{i + 1}.</strong> {item.q}</p>
