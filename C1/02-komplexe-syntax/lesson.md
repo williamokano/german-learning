@@ -7,7 +7,7 @@ canDo:
   - lange, geschachtelte Sätze aus Zeitung, Literatur und Wissenschaft sicher entschlüsseln
   - Appositionen, Parenthesen und Attribute korrekt bilden und mit Kommas abgrenzen
   - vorangestellte und nachgestellte Attribute stilistisch gezielt einsetzen
-  - Satzperioden planen: Hauptsatz mit Nebensätzen, Klammerkonstruktionen, Ausklammerung
+  - "Satzperioden planen: Hauptsatz mit Nebensätzen, Klammerkonstruktionen, Ausklammerung"
   - Ellipsen als Stilmittel erkennen und produktiv verwenden
 grammar:
   - "Satzperiode: Hauptsatz + mehrere Nebensätze, Satzklammer und Verb-Endstellung"
@@ -16,7 +16,7 @@ grammar:
   - "Vorangestelltes Attribut: erweitertes Partizipialattribut, Genitivattribut (die 1990 gegründete Firma)"
   - "Nachgestelltes Attribut: erweiterter Relativsatz, Präpositionalattribut (der Mann, mit dem ich …)"
   - "Ellipse: Auslassung des finiten Verbs oder wiederholter Satzteile (Sie nach Berlin, er nach Paris)"
-  - "Ausklammerung: Verb-Letzt-Stellung von Gliedsätzen, die im Hauptsatz „ausgeklammert" werden"
+  - "Ausklammerung: Verb-Letzt-Stellung von Gliedsätzen, die im Hauptsatz „ausgeklammert“ werden"
 buildsOn:
   - B2/05 (Partizipien als Attribute)
   - B2/01 (Nominalstil und Verbalstil)
