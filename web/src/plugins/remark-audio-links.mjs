@@ -21,7 +21,7 @@ export default function remarkAudioLinks() {
 
       parent.children.splice(index, 1, {
         type: 'html',
-        value: `<audio-play data-src="${audioDir}${src}"></audio-play>`,
+        value: `<audio-play data-src="${audioDir}${src}" data-enable-seeking="1" data-enable-replay="1"></audio-play>`,
       });
       return [SKIP, index];
     });

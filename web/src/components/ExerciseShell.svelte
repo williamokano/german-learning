@@ -52,7 +52,7 @@
   {/if}
   {#if exercise.audio}
     <div class="exercise-audio">
-      <audio-play data-src="{audioDir}{exercise.audio}"></audio-play>
+      <audio-play data-src="{audioDir}{exercise.audio}" data-enable-replay="1" data-replay-limit="2"></audio-play>
     </div>
   {/if}
 
