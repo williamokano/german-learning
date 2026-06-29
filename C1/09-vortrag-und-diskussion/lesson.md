@@ -65,7 +65,7 @@ buildsOn:
 
 *Szene: Abendveranstaltung in einem Wissenschaftszentrum. Dr. Yusuf El-Sayed moderiert eine Podiumsdiskussion; Dr. Sabine Weber, Kommunikationsforscherin, ist als Expertin geladen.*
 
-> **Yusuf:** Meine Damen und Herren, herzlich willkommen zu unserer Podiumsdiskussion „Wissenschaft für alle?". Mein Name ist Yusuf El-Sayed, ich darf Sie heute Abend durch den Abend führen. Bei uns auf dem Podium: Dr. Sabine Weber, Kommunikationsforscherin. Frau Weber, ich würde Sie bitten, mit einem kurzen Eingangsstatement zu beginnen.  
+> **Yusuf:** Meine Damen und Herren, herzlich willkommen zu unserer Podiumsdiskussion „Wissenschaft für alle?". Mein Name ist Yusuf El-Sayed, ich darf Sie durch den heutigen Abend führen. Bei uns auf dem Podium: Dr. Sabine Weber, Kommunikationsforscherin. Frau Weber, ich würde Sie bitten, mit einem kurzen Eingangsstatement zu beginnen.  
 > **Frau Weber:** Sehr gern, und vielen Dank für die Einladung. Meine These lautet: Forschung, die niemand versteht, bleibt wirkungslos. Zwar ist die Fachsprache für die Präzision unverzichtbar, dennoch müssen Forschende lernen, ihre Ergebnisse auch allgemein verständlich darzustellen — zumal das Vertrauen in die Wissenschaft davon abhängt.  
 > **Yusuf:** Ein klares Plädoyer. Nun ließe sich einwenden, dass jede Vereinfachung zugleich eine Verfälschung ist. Wie würden Sie diesem Einwand begegnen?  
 > **Frau Weber:** Da würde ich widersprechen. Verständlich heißt nicht ungenau. Man kann durchaus präzise bleiben und trotzdem klar formulieren — beides schließt sich keineswegs aus. Einer aktuellen Studie zufolge steigt das Vertrauen sogar, wenn Forschende offen über Unsicherheiten sprechen.  

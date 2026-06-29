@@ -48,7 +48,7 @@ exercises:
           - { key: b, text: 'Er ist der Hauptredner.' }
           - { key: c, text: 'Er ist ein Zuschauer.' }
         answer: a
-        why: 'Yusuf: „ich darf Sie heute Abend durch den Abend führen" — er moderiert.'
+        why: 'Yusuf: „ich darf Sie durch den heutigen Abend führen" — er moderiert.'
       - q: 'Wie lautet Frau Webers These?'
         options:
           - { key: a, text: 'Fachsprache sollte ganz abgeschafft werden.' }

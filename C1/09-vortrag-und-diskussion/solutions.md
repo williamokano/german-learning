@@ -14,7 +14,7 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (Podiumsdiskussion)
 
-1. **a) Er ist der Moderator.** — Yusuf: „ich darf Sie heute Abend durch den Abend führen" — er moderiert.
+1. **a) Er ist der Moderator.** — Yusuf: „ich darf Sie durch den heutigen Abend führen" — er moderiert.
 2. **b) Forschung, die niemand versteht, bleibt wirkungslos.** — Frau Weber: „Meine These lautet: Forschung, die niemand versteht, bleibt wirkungslos."
 3. **b) Sie widerspricht: verständlich heiße nicht ungenau.** — Frau Weber: „Da würde ich widersprechen. Verständlich heißt nicht ungenau."
 4. **a) Weil die Zeit begrenzt ist.** — Yusuf: „Gestatten Sie, dass ich an dieser Stelle einhake — unsere Zeit ist leider begrenzt."
