@@ -66,7 +66,7 @@ Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör 
 
 **Ansage 1 — Transcript**
 
-> Guten Tag, Sie haben den Anrufbeantworter des Schreibzentrums der Humboldt-Universität zu Berlin erreicht. Während der Vorlesungszeit bieten wir persönliche Sprechstunden zu wissenschaftlichem Schreiben dienstags von zehn bis sechzehn Uhr an. Für eine Online-Sprechstunde vereinbaren Sie bitte einen Termin per E-Mail unter schreibzentrum at hu-berlin.de. Bitte beachten Sie: Anmeldungen für den akademischen Schreibkurs „Erörterung und Abstract" sind bis spätestens 15. Juli möglich, spätere Anmeldungen können leider nicht berücksichtigt werden. Weitere Informationen finden Sie auf unserer Internetseite unter dem Menüpunkt Service. Vielen Dank und bitte ruf mich zurück auf der angegebenen Nummer.
+> Guten Tag, Sie haben den Anrufbeantworter des Schreibzentrums der Humboldt-Universität zu Berlin erreicht. Während der Vorlesungszeit bieten wir persönliche Sprechstunden zu wissenschaftlichem Schreiben dienstags von zehn bis sechzehn Uhr an. Für eine Online-Sprechstunde vereinbaren Sie bitte einen Termin per E-Mail unter schreibzentrum at hu-berlin.de. Bitte beachten Sie: Anmeldungen für den akademischen Schreibkurs „Erörterung und Abstract" sind bis spätestens 15. Juli möglich, spätere Anmeldungen können leider nicht berücksichtigt werden. Weitere Informationen finden Sie auf unserer Internetseite unter dem Menüpunkt Service. Vielen Dank für Ihren Anruf.
 
 </details>
 
@@ -102,7 +102,7 @@ Wähle die korrekte Reihenfolge der Bestandteile einer linearen Erörterung.
 Setze das passende Pendant ein. 6 Items.
 
 1. Einerseits spricht für den KI-Einsatz, ______ ______ (Stichprobenvorteil).
-2. ______ birgt der Einsatz Risiken, ______ ______ für die Datensicherheit.
+2. ______ birgt der Einsatz Risiken; ______ ______ für die Datensicherheit.
 3. Lernen braucht ______ Wissen, ______ ______ soziale Bindung.
 
 ## Übung A3 — Zusammenfassung — linear oder selektiv?
@@ -139,7 +139,7 @@ Füll die 5 Lücken mit den passenden Bausteinen aus dem Kasten. Drei Wörter si
 
 > 1. Vor dem Hintergrund der wachsenden KI-Verbreitung (1) ______ der Frage nachgegangen, ob
 > KI den Unterricht ergänzen kann.
-> 2. Es (2) ______, zu untersuchen, inwiefern KI-Tutoren die Lernmotivation steigern.
+> 2. Es (2) ______ zu untersuchen, inwiefern KI-Tutoren die Lernmotivation steigern.
 > 3. Methodisch (3) ______ die Arbeit auf eine Online-Befragung von 200 Studierenden.
 > 4. Die Ergebnisse (4) ______ darauf hin, dass die Lernmotivation leicht gesteigert wurde.
 > 5. Daraus (5) ______ sich der Schluss ziehen, dass weitere Studien nötig sind.
@@ -167,7 +167,7 @@ Setze die passende Form ein (diese/jene/dieser, im Folgenden, wie oben, abschlie
 3. Wie ______ dargelegt wurde, ist die Datenlage noch dünn.
 4. ______ lässt sich festhalten, dass weitere Studien nötig sind.
 5. ______ Befunde werfen eine neue Frage auf.
-6. ______ es gilt, jene Befunde kritisch zu prüfen.
+6. ______ gilt es, jene Befunde kritisch zu prüfen.
 
 ## Übung A9 — Häufige Fehler in der Textproduktion — Korrektur wählen
 
@@ -206,7 +206,7 @@ Wähle die Zusammenfassung, die das Original am besten reduziert.
 2. Original: „Im Schulversuch in Karlsruhe, Bremen und Hamburg zeigte sich, dass …" — beste Zusammenfassung:  a) In Karlsruhe zeigte sich, dass …  b) Erste Schulversuche deuten darauf hin, dass …  c) Schulversuche sind super.
 3. Original: „Das völlig missglückte Experiment zeigt, dass …" — beste Zusammenfassung:  a) Das völlig missglückte Experiment zeigt …  b) Das Experiment zeigt, dass …  c) Das Experiment war doof.
 4. Original: „Im Artikel geht es um KI und dann wird erklärt, was KI kann und wo KI Grenzen hat." — beste Zusammenfassung:  a) Im Artikel geht es um KI und dann wird erklärt, was KI kann und wo KI Grenzen hat.  b) Der Autor behandelt die Möglichkeiten und Grenzen von KI.  c) KI kann alles und ist super.
-5. Original: „Schmidt sagt, dass KI die Zukunft gehört." — beste Zusammenfassung:  a) Schmidt sagt, KI ist die Zukunft.  b) Schmidt schreibt, KI gehöre die Zukunft.  c) KI ist die Zukunft.
+5. Original: „Schmidt sagt, dass die Zukunft KI gehört." — beste Zusammenfassung:  a) Schmidt sagt, KI ist die Zukunft.  b) Schmidt schreibt, die Zukunft gehöre KI.  c) KI ist die Zukunft.
 
 ## Übung B3 — Stellungnahme: Strukturbausteine zuordnen
 
@@ -343,12 +343,12 @@ Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Je
 > Einleitung, These, Hauptteil und (2) ______. Im Hauptteil werden
 > (3) ______ und Gegenargumente (4) ______. Die Schlussfolgerung darf die
 > These **nicht** (5) ______, sondern **neu** (6) ______. Auch das Abstract
-> folgt einem festen (7) ______ — (8) ______ für (9) ______. Wer all diese
+> folgt einem festen (7) ______ — (8) ______, das für fünf Bausteine (9) ______. Wer all diese
 > Anforderungen (10) ______ umsetzt, schreibt auf C1-Niveau."
 
-> ABWÄGEN · BEWERTEN · ERÖRTERUNG · GEZIELT · IMRD · PRO · SCHEMA · SCHLUSS · STEHT · WIEDERHOLEN · WIRKEN · ZEIT
+> ABGEWOGEN · ABWÄGEN · BEWERTEN · ERÖRTERUNG · GEZIELT · IMRD · PRO · SCHEMA · SCHLUSS · STEHT · WIEDERHOLEN · WIRKEN · ZEIT
 
-Two words are not needed.
+Three words are not needed.
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Drei Standpunkte zur Zukunft des Lesens — Beitrag 1)
 
@@ -427,10 +427,10 @@ Eine Minute pro Item. Keine Notizen. Items mit (B2/..) oder (C1/..) wiederholen 
 12. (B2/13) Eine ______ kann auch eine Meinungsäußerung enthalten.
 
 **Wiederholung (B2/04 Indirekte Rede):**
-13. (B2/04) Konjunktiv I: Schmidt schreibt, KI ______ die Zukunft.
+13. (B2/04) Konjunktiv I: Schmidt schreibt, die Zukunft ______ KI.
 
 **Wiederholung (C1/02 Komplexe Syntax):**
-15. (C1/02) Satzperiode mit eingebettetem Nebensatz: ______.
+14. (C1/02) Satzperiode mit eingebettetem Nebensatz: ______.
 
 ## Übung D2 — Odd one out: Textsorten und Kohärenz
 

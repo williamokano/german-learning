@@ -107,7 +107,7 @@ exercises:
     audio: transcript_ansage1.mp3
     optionLayout: block
     instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
-    transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Schreibzentrums der Humboldt-Universität zu Berlin erreicht. Während der Vorlesungszeit bieten wir persönliche Sprechstunden zu wissenschaftlichem Schreiben dienstags von zehn bis sechzehn Uhr an. Für eine Online-Sprechstunde vereinbaren Sie bitte einen Termin per E-Mail unter schreibzentrum at hu-berlin.de. Bitte beachten Sie: Anmeldungen für den akademischen Schreibkurs „Erörterung und Abstract" sind bis spätestens 15. Juli möglich, spätere Anmeldungen können leider nicht berücksichtigt werden. Weitere Informationen finden Sie auf unserer Internetseite unter dem Menüpunkt Service. Vielen Dank und bitte ruf mich zurück auf der angegebenen Nummer.'
+    transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Schreibzentrums der Humboldt-Universität zu Berlin erreicht. Während der Vorlesungszeit bieten wir persönliche Sprechstunden zu wissenschaftlichem Schreiben dienstags von zehn bis sechzehn Uhr an. Für eine Online-Sprechstunde vereinbaren Sie bitte einen Termin per E-Mail unter schreibzentrum at hu-berlin.de. Bitte beachten Sie: Anmeldungen für den akademischen Schreibkurs „Erörterung und Abstract" sind bis spätestens 15. Juli möglich, spätere Anmeldungen können leider nicht berücksichtigt werden. Weitere Informationen finden Sie auf unserer Internetseite unter dem Menüpunkt Service. Vielen Dank für Ihren Anruf.'
     items:
       - q: 'Welche Einrichtung ist auf dem Anrufbeantworter zu hören?'
         options:
@@ -224,14 +224,14 @@ exercises:
     instructions: 'Setze das passende Pendant ein. 6 Items.'
     text: |
       1. Einerseits spricht für den KI-Einsatz, {1} {2} (Stichprobenvorteil).
-      2. {3} birgt der Einsatz Risiken, {4} {5} für die Datensicherheit.
+      2. {3} birgt der Einsatz Risiken; {4} {5} für die Datensicherheit.
       3. Lernen braucht {6} Wissen, {7} {8} soziale Bindung.
     answers:
       "1": dass
       "2": Schüler individuell gefördert werden können
       "3": Andererseits
       "4": jedoch
-      "5": er birgt Risiken
+      "5": birgt er Risiken
       "6": nicht
       "7": sondern
       "8": auch
@@ -347,7 +347,7 @@ exercises:
     text: |
       1. Vor dem Hintergrund der wachsenden KI-Verbreitung {1} der Frage nachgegangen, ob
       KI den Unterricht ergänzen kann.
-      2. Es {2}, zu untersuchen, inwiefern KI-Tutoren die Lernmotivation steigern.
+      2. Es {2} zu untersuchen, inwiefern KI-Tutoren die Lernmotivation steigern.
       3. Methodisch {3} die Arbeit auf eine Online-Befragung von 200 Studierenden.
       4. Die Ergebnisse {4} darauf hin, dass die Lernmotivation leicht gesteigert wurde.
       5. Daraus {5} sich der Schluss ziehen, dass weitere Studien nötig sind.
@@ -395,7 +395,7 @@ exercises:
       3. Wie {3} dargelegt wurde, ist die Datenlage noch dünn.
       4. {4} lässt sich festhalten, dass weitere Studien nötig sind.
       5. {5} Befunde werfen eine neue Frage auf.
-      6. {6} es gilt, jene Befunde kritisch zu prüfen.
+      6. {6} gilt es, jene Befunde kritisch zu prüfen.
     answers:
       "1": oben
       "2": "Im Folgenden"
@@ -520,10 +520,10 @@ exercises:
           - { key: c, text: 'KI kann alles und ist super.' }
         answer: b
         why: 'Verdichtung: zwei Aspekte (Möglichkeiten und Grenzen) statt linearer Aufzählung.'
-      - q: 'Original: „Schmidt sagt, dass KI die Zukunft gehört." — beste Zusammenfassung:'
+      - q: 'Original: „Schmidt sagt, dass die Zukunft KI gehört." — beste Zusammenfassung:'
         options:
           - { key: a, text: 'Schmidt sagt, KI ist die Zukunft.' }
-          - { key: b, text: 'Schmidt schreibt, KI gehöre die Zukunft.' }
+          - { key: b, text: 'Schmidt schreibt, die Zukunft gehöre KI.' }
           - { key: c, text: 'KI ist die Zukunft.' }
         answer: b
         why: 'Indirekte Wiedergabe im Konjunktiv I: „gehöre".'
@@ -792,19 +792,19 @@ exercises:
       Einleitung, These, Hauptteil und {2}. Im Hauptteil werden
       {3} und Gegenargumente {4}. Die Schlussfolgerung darf die
       These **nicht** {5}, sondern **neu** {6}. Auch das Abstract
-      folgt einem festen {7} — {8} für {9}. Wer all diese
+      folgt einem festen {7} — {8}, das für fünf Bausteine {9}. Wer all diese
       Anforderungen {10} umsetzt, schreibt auf C1-Niveau."
-    bank: [ERÖRTERUNG, SCHLUSS, PRO, ABWÄGEN, WIEDERHOLEN, BEWERTEN, SCHEMA, IMRD, STEHT, ZEIT, WIRKEN, GEZIELT]
+    bank: [ERÖRTERUNG, SCHLUSS, PRO, ABGEWOGEN, ABWÄGEN, WIEDERHOLEN, BEWERTEN, SCHEMA, IMRD, STEHT, ZEIT, WIRKEN, GEZIELT]
     answers:
       "1": ERÖRTERUNG
       "2": SCHLUSS
       "3": PRO
-      "4": ABWÄGEN
+      "4": ABGEWOGEN
       "5": WIEDERHOLEN
       "6": BEWERTEN
       "7": SCHEMA
       "8": IMRD
-      "9": ZEIT
+      "9": STEHT
       "10": GEZIELT
 
   - id: C4a
@@ -926,10 +926,10 @@ exercises:
       12. (B2/13) Eine {13} kann auch eine Meinungsäußerung enthalten.
 
       **Wiederholung (B2/04 Indirekte Rede):**
-      13. (B2/04) Konjunktiv I: Schmidt schreibt, KI {14} die Zukunft.
+      13. (B2/04) Konjunktiv I: Schmidt schreibt, die Zukunft {14} KI.
 
       **Wiederholung (C1/02 Komplexe Syntax):**
-      15. (C1/02) Satzperiode mit eingebettetem Nebensatz: {15}.
+      14. (C1/02) Satzperiode mit eingebettetem Nebensatz: {15}.
     answers:
       "1": "Erörterung"
       "2": IMRD

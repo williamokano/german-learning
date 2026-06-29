@@ -54,7 +54,7 @@
 
 ## Übung A2 — Konnektorenpaare ergänzen
 
-1. **dass**  2. **Schüler individuell gefördert werden können**  3. **Andererseits**  4. **jedoch**  5. **er birgt Risiken**  6. **nicht**  7. **sondern**  8. **auch**
+1. **dass**  2. **Schüler individuell gefördert werden können**  3. **Andererseits**  4. **jedoch**  5. **birgt er Risiken**  6. **nicht**  7. **sondern**  8. **auch**
 
 ## Übung A3 — Zusammenfassung — linear oder selektiv?
 
@@ -115,7 +115,7 @@
 2. **b) Erste Schulversuche deuten darauf hin, dass …** — Drei konkrete Beispiele werden zu einer allgemeinen Aussage zusammengefasst.
 3. **b) Das Experiment zeigt, dass …** — Wertung herausfiltern; neutraler Sachverhalt bleibt.
 4. **b) Der Autor behandelt die Möglichkeiten und Grenzen von KI.** — Verdichtung: zwei Aspekte (Möglichkeiten und Grenzen) statt linearer Aufzählung.
-5. **b) Schmidt schreibt, KI gehöre die Zukunft.** — Indirekte Wiedergabe im Konjunktiv I: „gehöre".
+5. **b) Schmidt schreibt, die Zukunft gehöre KI.** — Indirekte Wiedergabe im Konjunktiv I: „gehöre".
 
 ## Übung B3 — Stellungnahme: Strukturbausteine zuordnen
 
@@ -187,7 +187,7 @@ Selbstkorrektur:
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-1. **ERÖRTERUNG**  2. **SCHLUSS**  3. **PRO**  4. **ABWÄGEN**  5. **WIEDERHOLEN**  6. **BEWERTEN**  7. **SCHEMA**  8. **IMRD**  9. **ZEIT**  10. **GEZIELT**
+1. **ERÖRTERUNG**  2. **SCHLUSS**  3. **PRO**  4. **ABGEWOGEN**  5. **WIEDERHOLEN**  6. **BEWERTEN**  7. **SCHEMA**  8. **IMRD**  9. **STEHT**  10. **GEZIELT**
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Drei Standpunkte zur Zukunft des Lesens — Beitrag 1)
 

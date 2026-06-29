@@ -524,7 +524,7 @@ Als sie den Text noch einmal liest, fällt ihr auf, dass die Schlussfolgerung **
 1. *„**Einerseits** spricht für den Einsatz von KI, dass Lehrkräfte entlastet werden. **Andererseits** ist einzuwenden, dass …"* (Konnektorenpaar)
 2. *„Diese / **Jene** Befunde werfen die Frage auf, inwiefern …"* (Demonstrativpronomen)
 3. *„Wie **bereits dargelegt** wurde, stützt sich die Arbeit auf …"* (Adverbiale Anknüpfung)
-4. *„Im Folgenden wird die Methodik **erlautert**."* (Themenführung — Achtung: Tippfehler? *erlautert* → *erlautert* ist falsch — richtig *erläutert*)
+4. *„Im Folgenden wird die Methodik **erlautert**."* (Themenführung — Achtung: Tippfehler? *erlautert* ist falsch — richtig *erläutert*)
 5. *„Im **Anschluss an** die oben erwähnten Befunde wird die Schlussfolgerung gezogen."* (Themenführung + Rückverweis)
 
 > ⚠️ **Häufige Fehler**
