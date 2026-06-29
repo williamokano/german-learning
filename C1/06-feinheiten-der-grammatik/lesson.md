@@ -10,7 +10,7 @@ canDo:
   - die verschiedenen es-Konstruktionen erkennen und stilistisch passend verwenden
   - eigene Texte grammatisch präzise und stilistisch abgewogen formulieren
 grammar:
-  - "Konjunktiv-Feinheiten: Konjunktiv I in der indirekten Rede, würde + Infinitiv II als Ersatz, Konjunktiv II für irreale Wünsche und Vergleiche"
+  - "Konjunktiv-Feinheiten: Konjunktiv I in der indirekten Rede, würde + Infinitiv als Ersatz, Konjunktiv II für irreale Wünsche und Vergleiche"
   - "Negationsnuancen: nicht vs. kein (faktisch vs. existential), doppelte Verneinung mit nicht, Korrelate weder … noch / nicht nur … sondern auch / keinesfalls/keineswegs"
   - "Wortstellung im Mittelfeld: Tekamalo-Regel, Modalpartikeln im Mittelfeld, scrambling (schwere Glieder nach rechts)"
   - "es-Konstruktionen: Vorfeld-es, Korrelat-es, es gibt, unpersönliches es"
@@ -27,9 +27,9 @@ buildsOn:
 
 # C1 · Lektion 6 — Feinheiten der Grammatik
 
-> **Das lernst du:** Du sprichst seit Jahren Deutsch, du kennst Konjunktiv, Passiv, alle Nebensätze — und trotzdem passieren dir noch **kleine** Fehler, die ein Muttersprachler sofort hört: ein falsch gesetztes *nicht*, ein deplatziertes *es*, eine Wortstellung, die im Mittelfeld „klingt komisch". Das ist kein Anfängerproblem mehr — das sind **Feinheiten**, die nur auf den unteren Stufen niemand erklärt, die aber **ab B2** den Unterschied zwischen „gutes Deutsch" und „wirklich gutes Deutsch" ausmachen. In dieser Lektion schauen wir uns vier Bereiche an, in denen C1-Sprecher noch einmal deutlich dazulernen können: die **Konjunktiv-Feinheiten** (Konjunktiv I für Redewiedergabe, Konjunktiv II für Irrealis, *würde* + Infinitiv II als Ersatzform), die **Negationsnuancen** (*nicht* vs. *kein*, doppelte Verneinung, *weder … noch*, *nicht nur … sondern auch*), die **Wortstellung im Mittelfeld** (die berühmte „te-kamalo"-Regel, Modalpartikeln im Mittelfeld, das *Scrambling* schwerer Glieder) und die **es-Konstruktionen** (Vorfeld-*es*, Korrelat-*es*, *es gibt*, unpersönliches *es*). Am Ende der Lektion wirst du genauer hören, wo dein Deutsch noch „rutscht" — und du wirst die Werkzeuge haben, das zu reparieren.
+> **Das lernst du:** Du sprichst seit Jahren Deutsch, du kennst Konjunktiv, Passiv, alle Nebensätze — und trotzdem passieren dir noch **kleine** Fehler, die ein Muttersprachler sofort hört: ein falsch gesetztes *nicht*, ein deplatziertes *es*, eine Wortstellung, die im Mittelfeld „klingt komisch". Das ist kein Anfängerproblem mehr — das sind **Feinheiten**, die nur auf den unteren Stufen niemand erklärt, die aber **ab B2** den Unterschied zwischen „gutes Deutsch" und „wirklich gutes Deutsch" ausmachen. In dieser Lektion schauen wir uns vier Bereiche an, in denen C1-Sprecher noch einmal deutlich dazulernen können: die **Konjunktiv-Feinheiten** (Konjunktiv I für Redewiedergabe, Konjunktiv II für Irrealis, *würde* + Infinitiv als Ersatzform), die **Negationsnuancen** (*nicht* vs. *kein*, doppelte Verneinung, *weder … noch*, *nicht nur … sondern auch*), die **Wortstellung im Mittelfeld** (die berühmte „Tekamalo"-Regel, Modalpartikeln im Mittelfeld, das *Scrambling* schwerer Glieder) und die **es-Konstruktionen** (Vorfeld-*es*, Korrelat-*es*, *es gibt*, unpersönliches *es*). Am Ende der Lektion wirst du genauer hören, wo dein Deutsch noch „rutscht" — und du wirst die Werkzeuge haben, das zu reparieren.
 >
-> **Grammatik:** **Konjunktiv-Feinheiten** (Konjunktiv I / II, *würde* + Infinitiv II, irreale Vergleiche) · **Negationsnuancen** (*nicht* vs. *kein*, *nicht nur … sondern auch*, *weder … noch*, *keinesfalls/keineswegs*) · **Wortstellung im Mittelfeld** (Tekamalo, Modalpartikeln, Scrambling) · **es-Konstruktionen** (Vorfeld-*es*, Korrelat-*es*, *es gibt*, unpersönliches *es*).
+> **Grammatik:** **Konjunktiv-Feinheiten** (Konjunktiv I / II, *würde* + Infinitiv, irreale Vergleiche) · **Negationsnuancen** (*nicht* vs. *kein*, *nicht nur … sondern auch*, *weder … noch*, *keinesfalls/keineswegs*) · **Wortstellung im Mittelfeld** (Tekamalo, Modalpartikeln, Scrambling) · **es-Konstruktionen** (Vorfeld-*es*, Korrelat-*es*, *es gibt*, unpersönliches *es*).
 >
 > **Builds on:** C1/02 (Komplexe Syntax), C1/03 (Modalpartikeln), C1/05 (Wissenschaftssprache — Hedging & Konjunktiv I), B2/04 (Indirekte Rede), B2/03 (Konjunktiv II), B1/06 (Modalpartikel *mal/doch/wohl*).
 
@@ -48,7 +48,7 @@ buildsOn:
 > **Mia:** Genau. „Habe" statt „hat" macht die Aussage vorsichtiger. Es ist, als würde der Sprecher sagen: Ich geb das nur weiter.  
 > **Lukas:** Aber wäre „würde verändern" nicht einfacher? Das hört man doch viel öfter.  
 > **Tomáš:** Schon. Aber „würde" ist Konjunktiv II — den benutzt man eher für irreale Sachen. „Ich würde morgen kommen, wenn ich könnte." Hier geht es um eine vermutete Tatsache, nicht um etwas Unwirkliches. Konjunktiv I ist da eigentlich genauer.  
-> **Mia:** Stimmt. „Würde + Infinitiv II" ist im gesprochenen Deutsch gang und gäbe, aber im gehobenen Stil bleibt man bei der echten Konjunktiv-I-Form, wo sie noch existiert.  
+> **Mia:** Stimmt. „würde + Infinitiv" ist im gesprochenen Deutsch gang und gäbe, aber im gehobenen Stil bleibt man bei der echten Konjunktiv-I-Form, wo sie noch existiert.  
 > **Lukas:** Und wenn die Form mit dem Indikativ zusammenfällt? Dann muss man sowieso „würde" sagen, oder?  
 > **Mia:** Ja, genau. Bei *er hat → er habe* geht's noch. Aber bei *er ist → er sei* und *er wird → er werde* — da wird's heikel. Wenn die Form mit dem normalen Präsens identisch ist, weicht man auf „würde" aus.  
 > **Tomáš:** Eben. Und beim Hören muss man aus dem Kontext schließen, was gemeint ist. Da gibt es keine Eindeutigkeit.  
@@ -95,7 +95,7 @@ Vier Bereiche schauen wir uns an. Erstens: **Konjunktiv-Feinheiten**. Du kennst 
 | Irrealis ausdrücken (Konjunktiv II) | *Ich **würde** gern mitkommen.* / *Wenn ich Zeit **hätte**, **würde** ich mehr lesen.* |
 | höflicher Wunsch (Konjunktiv II) | *Ich **hätte** gern eine Tasse Kaffee.* / *Ich **würde** Sie bitten, …* |
 | irreale Vergleiche | *Er tut so, als **ob** er **wüsste**, worum es geht.* / *Sie **verhielt** sich, als **wäre** nichts gewesen.* |
-| Ersatzform (würde + Infinitiv II) | *Er **würde** sagen, dass …* / *Sie **würde** sich freuen, wenn …* |
+| Ersatzform (würde + Infinitiv) | *Er **würde** sagen, dass …* / *Sie **würde** sich freuen, wenn …* |
 
 ### Negation — Nuancen setzen
 
@@ -182,7 +182,7 @@ Vier Bereiche schauen wir uns an. Erstens: **Konjunktiv-Feinheiten**. Du kennst 
 | das Korrelat-es (Sg.) | *es* als Stellvertreter für ein anderes Satzglied |
 | das Existenz-es (Sg.) | *es* in der Wendung *es gibt* |
 | das unpersönliche es (Sg.) | *es* als formales Subjekt bei unpersönlichen Verben |
-| das formales Subjekt, -e | *es*, das nur die Stelle des Subjekts besetzt, ohne inhaltliche Bedeutung |
+| das formale Subjekt, -e | *es*, das nur die Stelle des Subjekts besetzt, ohne inhaltliche Bedeutung |
 | die Leerstelle, -n | die syntaktische Position, die *es* ausfüllt |
 
 ---
@@ -257,7 +257,7 @@ Am Sonntag fährt er zurück. Im Zug denkt er über die Worte seines Vaters nach
 1. *„Sie sagt, sie **komme** morgen."* (Konjunktiv I — *kommen* ist sicher)
 2. *„Er meinte, das **sei** nicht so geplant."* (Konjunktiv I — *sei* ist sicher)
 3. *„Müller betont, die Methode **sei** umstritten."* (Konjunktiv I — *sei*)
-4. *„Sie sagte, sie **würde** morgen **kommen**."* (Ersatzform — weil *sie komme* zwar möglich, aber seltener ist)
+4. *„Sie sagte, sie **würde** morgen **kommen**."* (Ersatzform — im gesprochenen Deutsch die idiomatischere Form)
 5. *„Er behauptet, er **würde** das **machen**."* (Ersatzform — *er mache* klingt gestelzt)
 6. *„Der Autor schreibt, die Leute **würden** sich nur **dann** umgewöhnen, wenn die Politik **mithelfe**."* (gemischt: *würden* + *mithelfe*)
 
@@ -327,7 +327,7 @@ Am Sonntag fährt er zurück. Im Zug denkt er über die Worte seines Vaters nach
 |---|---|
 | Er weiß nichts. | *Er tut so, als **ob** er **wüsste**, worum es geht.* |
 | Sie ist nicht da. | *Sie **verhielt** sich, als **wäre** sie nie weg gewesen.* |
-| Es ist kalt. | *Es sieht aus, als **ob** es **würde** schneien.* |
+| Es ist kalt. | *Es sieht aus, als **ob** es schneien **würde**.* |
 | Du bist nicht mein Chef. | *Du **redest**, als **wärst** du mein Chef.* |
 
 > ⚠️ **Häufige Fehler**
@@ -347,7 +347,7 @@ Am Sonntag fährt er zurück. Im Zug denkt er über die Worte seines Vaters nach
 <details>
 <summary>📝 Lösung</summary>
 
-> (a) *„Er **verhielt** sich, als **wäre** er nie weg gewesen."* (b) *„Sie **redete** darüber, als **hätte** sie das Buch **gelesen**."* (c) *„Es **sieht** aus, als **ob** es **würde** schneien."* / *„…, als **würde** es schneien."*
+> (a) *„Er **verhielt** sich, als **wäre** er nie weg gewesen."* (b) *„Sie **redete** darüber, als **hätte** sie das Buch **gelesen**."* (c) *„Es **sieht** aus, als **ob** es schneien **würde**."* / *„…, als **würde** es schneien."*
 >
 > </details>
 

@@ -76,7 +76,7 @@ exercises:
     type: gap-bank
     title: 'Hörtext-Lückentext: Sprache und Stil'
     audio: hoertext.mp3
-    instructions: 'Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.'
+    instructions: 'Hör den Hörtext und füll die 6 Lücken. Vier Wörter im Kasten sind zu viel.'
     text: |
       Liebe Hörerinnen und Hörer, willkommen bei „Sprachzeit". In der
       heutigen Sendung geht es um die Frage, ob das Deutsche eine
@@ -142,26 +142,23 @@ exercises:
     title: 'Tabelle ausfüllen: Dialog A (Sprachdebatte)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
-    columns: ['Sprecher', 'Beobachtung', 'Begründung', 'Stichwort']
+    columns: ['Beobachtung', 'Begründung', 'Stichwort']
     rows:
       - label: 'Lukas'
         cells:
-          - { gap: 1, answer: 'Lukas', given: 'Lukas' }
           - { gap: 1, answer: 'Frage zum Feuilleton-Satz', given: 'Frage zum Feuilleton-Satz' }
-          - { gap: 1, answer: 'warum „habe" statt „hat"?' }
-          - { gap: 1, answer: 'Konjunktiv I', given: 'Konjunktiv I' }
+          - { gap: 2, answer: 'warum „habe" statt „hat"?' }
+          - { gap: 3, answer: 'Konjunktiv I', given: 'Konjunktiv I' }
       - label: 'Tomáš'
         cells:
-          - { gap: 2, answer: 'Tomáš', given: 'Tomáš' }
-          - { gap: 2, answer: 'Konjunktiv I ist genauer' }
-          - { gap: 2, answer: '„würde" ist Konjunktiv II', given: '„würde" ist Konjunktiv II' }
-          - { gap: 2, answer: 'Indirekte Rede', given: 'Indirekte Rede' }
+          - { gap: 4, answer: 'Konjunktiv I ist genauer' }
+          - { gap: 5, answer: '„würde" ist Konjunktiv II', given: '„würde" ist Konjunktiv II' }
+          - { gap: 6, answer: 'Indirekte Rede', given: 'Indirekte Rede' }
       - label: 'Mia'
         cells:
-          - { gap: 3, answer: 'Mia', given: 'Mia' }
-          - { gap: 3, answer: 'Echte Konjunktiv-I-Form bevorzugt', given: 'Echte Konjunktiv-I-Form bevorzugt' }
-          - { gap: 3, answer: 'wo noch unterscheidbar' }
-          - { gap: 3, answer: 'Gehobener Stil', given: 'Gehobener Stil' }
+          - { gap: 7, answer: 'Echte Konjunktiv-I-Form bevorzugt', given: 'Echte Konjunktiv-I-Form bevorzugt' }
+          - { gap: 8, answer: 'wo noch unterscheidbar' }
+          - { gap: 9, answer: 'Gehobener Stil', given: 'Gehobener Stil' }
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
 
@@ -607,10 +604,10 @@ exercises:
       dazu, sie {3}, dass die deutsche Grammatik mehr Raum für Nuancen
       biete. Wenn man diese Werkzeuge beherrsche, {4} man viel
       differenzierter formulieren. Es {5} schade, wenn man sie nicht
-      nutze. Der Professor betont, dass {6} jeder Sprecher diese
-      Feinheiten brauche — {7} in der Wissenschaft, {7} auch im
-      Alltag. Er fügt hinzu, er {8} sich freuen, wenn mehr Leute
-      diese Werkzeuge bewusst einsetzen würden.
+      nutze. Der Professor betont, dass diese Feinheiten {6} in der
+      Wissenschaft wichtig seien, {7} auch im Alltag. Er fügt
+      hinzu, er {8} sich freuen, wenn mehr Leute diese Werkzeuge
+      bewusst einsetzen würden.
     answers:
       "1": habe
       "2": kenne
@@ -977,7 +974,7 @@ exercises:
         why: '„die doppelte Verneinung — ‚Das ist nicht uninteressant‘ —, die im Deutschen eine elegante Bejahung ist".'
       - q: 'Die Wortstellung im Mittelfeld ist nach dem Text völlig beliebig.'
         answer: false
-        why: '„Sie ist im Deutschen freier als im Englischen, aber nicht beliebig."'
+        why: 'Der Text sagt: „Die Tekamalo-Reihenfolge gibt einen Rahmen" — die Wortstellung folgt also klaren Regeln, sie ist nicht beliebig.'
 
   - id: C4b
     block: C

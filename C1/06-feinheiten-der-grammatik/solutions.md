@@ -32,11 +32,11 @@
 
 ## Übung H5 — Tabelle ausfüllen: Dialog A (Sprachdebatte)
 
-| Sprecher | Beobachtung | Begründung | Stichwort |
-|---|---|---|---|
-| Lukas | Lukas | Frage zum Feuilleton-Satz | **warum „habe" statt „hat"?** | Konjunktiv I |
-| Tomáš | Tomáš | **Konjunktiv I ist genauer** | „würde" ist Konjunktiv II | Indirekte Rede |
-| Mia | Mia | Echte Konjunktiv-I-Form bevorzugt | **wo noch unterscheidbar** | Gehobener Stil |
+| Beobachtung | Begründung | Stichwort |
+|---|---|---|
+| Lukas | Frage zum Feuilleton-Satz | **warum „habe" statt „hat"?** | Konjunktiv I |
+| Tomáš | **Konjunktiv I ist genauer** | „würde" ist Konjunktiv II | Indirekte Rede |
+| Mia | Echte Konjunktiv-I-Form bevorzugt | **wo noch unterscheidbar** | Gehobener Stil |
 
 ---
 
@@ -220,7 +220,7 @@ Selbstkorrektur:
 2. **F** — „Wer schreibt: ‚Ich würde das nicht so sagen‘ statt ‚Das ist falsch‘, schwächt ab". „Das ist falsch" markiert KEINE Distanz.
 3. **R** — „‚Weder A noch B‘ ist stärker als ‚Nicht A und nicht B‘".
 4. **R** — „die doppelte Verneinung — ‚Das ist nicht uninteressant‘ —, die im Deutschen eine elegante Bejahung ist".
-5. **F** — „Sie ist im Deutschen freier als im Englischen, aber nicht beliebig."
+5. **F** — Der Text sagt: „Die Tekamalo-Reihenfolge gibt einen Rahmen" — die Wortstellung folgt also klaren Regeln, sie ist nicht beliebig.
 
 ## Übung C4b — Lesen Text 2 (Forumsdiskussion: Brauchen wir den Konjunktiv noch?)
 

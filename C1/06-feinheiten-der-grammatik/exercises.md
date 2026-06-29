@@ -33,7 +33,7 @@ Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.
+Hör den Hörtext und füll die 6 Lücken. Vier Wörter im Kasten sind zu viel.
 
 > Liebe Hörerinnen und Hörer, willkommen bei „Sprachzeit". In der
 > heutigen Sendung geht es um die Frage, ob das Deutsche eine
@@ -77,11 +77,11 @@ Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör 
 
 Hör Dialog A noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.
 
-| Sprecher | Beobachtung | Begründung | Stichwort |
-|---|---|---|---|
-| Lukas | Lukas | Frage zum Feuilleton-Satz | ______ | Konjunktiv I |
-| Tomáš | Tomáš | ______ | „würde" ist Konjunktiv II | Indirekte Rede |
-| Mia | Mia | Echte Konjunktiv-I-Form bevorzugt | ______ | Gehobener Stil |
+| Beobachtung | Begründung | Stichwort |
+|---|---|---|
+| Lukas | Frage zum Feuilleton-Satz | ______ | Konjunktiv I |
+| Tomáš | ______ | „würde" ist Konjunktiv II | Indirekte Rede |
+| Mia | Echte Konjunktiv-I-Form bevorzugt | ______ | Gehobener Stil |
 
 ---
 
@@ -237,10 +237,10 @@ keinen Konjunktiv II in derselben Weise. Eine Sprecherin sagte
 dazu, sie ______, dass die deutsche Grammatik mehr Raum für Nuancen
 biete. Wenn man diese Werkzeuge beherrsche, ______ man viel
 differenzierter formulieren. Es ______ schade, wenn man sie nicht
-nutze. Der Professor betont, dass ______ jeder Sprecher diese
-Feinheiten brauche — ______ in der Wissenschaft, ______ auch im
-Alltag. Er fügt hinzu, er ______ sich freuen, wenn mehr Leute
-diese Werkzeuge bewusst einsetzen würden.
+nutze. Der Professor betont, dass diese Feinheiten ______ in der
+Wissenschaft wichtig seien, ______ auch im Alltag. Er fügt
+hinzu, er ______ sich freuen, wenn mehr Leute diese Werkzeuge
+bewusst einsetzen würden.
 
 ## Übung B3 — Negations-Korrelate und doppelte Verneinung
 
