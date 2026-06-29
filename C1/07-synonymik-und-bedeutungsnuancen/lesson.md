@@ -204,7 +204,6 @@ Synonymik auf C1-Niveau ist keine Wortschatz-Liste, sondern eine **Bewegung**: v
 | *versterben, das Ableben, das Zeitliche segnen* | gehoben, feierlich | würdevoll, oft ironisch |
 | *sterben* | neutral | sachlich, klar |
 | *ins Gras beißen, den Löffel abgeben* | salopp, derb | abwertend, respektlos |
-| *den Löffel abgeben* | salopp, abwertend | umgangssprachlich, oft despektierlich |
 | *Bedenken tragen, sich sorgen um* | förmlich, besonnen | höflich, abwägend |
 | *Angst haben vor* | alltagsnah | direkt, subjektiv |
 | *Schiss haben vor* | salopp, jugendsprachlich | übertrieben, wertend |

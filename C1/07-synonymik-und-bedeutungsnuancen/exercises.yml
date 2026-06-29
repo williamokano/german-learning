@@ -150,29 +150,25 @@ exercises:
     title: 'Tabelle ausfüllen: Dialog B (Lektorin)'
     audio: dialog1_b.mp3
     instructions: 'Hör Dialog B noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
-    columns: ['Falsches Wort', 'Falsche Bedeutung (aus dem Englischen)', 'Korrekte deutsche Entsprechung', 'Register-Problem']
+    columns: ['Wort', 'Falsche Bedeutung (aus dem Englischen)', 'Korrekte deutsche Entsprechung', 'Register-Problem']
     rows:
       - label: 'aktuell'
         cells:
-          - { gap: 1, answer: 'aktuell', given: 'aktuell' }
           - { gap: 1, answer: 'actually (= eigentlich)', given: 'actually (= eigentlich)' }
           - { gap: 1, answer: 'eigentlich / tatsächlich' }
           - { gap: 1, answer: 'registerfremd im Achtsamkeits-Kontext', given: 'registerfremd im Achtsamkeits-Kontext' }
       - label: 'realisieren'
         cells:
-          - { gap: 2, answer: 'realisieren', given: 'realisieren' }
           - { gap: 2, answer: 'to realize (= begreifen)', given: 'to realize (= begreifen)' }
           - { gap: 2, answer: 'erkennen / bemerken' }
           - { gap: 2, answer: 'falscher Freund', given: 'falscher Freund' }
       - label: 'eventuell'
         cells:
-          - { gap: 3, answer: 'eventuell', given: 'eventuell' }
           - { gap: 3, answer: 'eventually (= schließlich)', given: 'eventually (= schließlich)' }
           - { gap: 3, answer: 'mögliche / denkbare' }
           - { gap: 3, answer: 'verzerrt die Wahrscheinlichkeit', given: 'verzerrt die Wahrscheinlichkeit' }
       - label: 'bald'
         cells:
-          - { gap: 4, answer: 'bald', given: 'bald' }
           - { gap: 4, answer: 'soon (anytime soon)' }
           - { gap: 4, answer: 'zeitnah / in Kürze', given: 'zeitnah / in Kürze' }
           - { gap: 4, answer: 'unpassend bei Sechs-Monats-Frist', given: 'unpassend bei Sechs-Monats-Frist' }
@@ -281,8 +277,8 @@ exercises:
         why: '„aktuell" = gegenwärtig, derzeit. NICHT „actually".'
       - q: 'Was bedeutet „eventuell" im Deutschen?'
         options:
-          - { key: b, text: 'schließlich, am Ende' }
           - { key: a, text: 'vielleicht, möglicherweise' }
+          - { key: b, text: 'schließlich, am Ende' }
           - { key: c, text: 'gegeben, sicher' }
         answer: a
         why: '„eventuell" = vielleicht. NICHT „eventually".'
@@ -341,14 +337,14 @@ exercises:
       3. Wir freuen uns auf die {3}, mit einem internationalen Team zu arbeiten.
       4. Beim Umzug gab es einige {4}.
       5. Die {5} ist, dass die Serverlast zu hoch ist.
-      6. Das ist eine {6}, die wir schnell lösen müssen.
+      6. Das ist ein {6}, das wir schnell lösen müssen.
     answers:
       "1": Problem
       "2": Aufgabe
       "3": Herausforderung
       "4": Schwierigkeiten
       "5": Ursache
-      "6": Aufgabe
+      "6": Problem
 
   - id: A6
     block: A
@@ -605,14 +601,14 @@ exercises:
       2. (sehr förmlich, amtlich) Die Behörde {2} die Veranstaltung.
       3. (kooperativ, anerkennend) Im Gespräch {3} der Professor ein: „Das ist ein guter Punkt."
       4. (passiv, juristisch) Das Verfahren {4} keine Ausnahmen.
-      5. (förmlich, gehoben) Das Gericht {5} dem Kläger Schadensersatz.
+      5. (förmlich, gehoben) Das Gericht {5} dem Kläger die Berufung.
       6. (neutral, sachlich) Wir {6} den Schülern, ihre Jacken an der Garderobe aufzuhängen.
     answers:
       "1": erlaubt
       "2": gestattet
       "3": räumt
       "4": lässt
-      "5": spricht
+      "5": gestattet
       "6": erlauben
 
   - id: B3
@@ -934,7 +930,7 @@ exercises:
         options:
           - { key: a, text: 'Schließlich' }
           - { key: b, text: 'Eventuell' }
-          - { key: c, text: 'Möglicherweise' }
+          - { key: c, text: 'Keinesfalls' }
         answer: b
         why: '„eventuell" heißt „vielleicht"; „schließlich" entspricht „eventually".'
 
@@ -957,7 +953,7 @@ exercises:
       *{7}* ist praktisch. Auch {8} zählen: *aktuell*
       heißt NICHT ‚{9}‘, und *realisieren* heißt ‚verwirklichen‘,
       nicht ‚{10}‘. Wer das beachtet, schreibt präzise."
-    bank: [ERSATZ, PROBLEM, BEWERTET, LÖST, NIMMT, UNTERSUCHEN, TESTEN, FALSCHE_FREUNDE, EIGENTLICH, ERKENNEN, REGISTER, VERMEIDEN, KONTEXT, FOLGE, BEGREIFEN]
+    bank: [ERSATZ, PROBLEM, BEWERTET, LÖST, NIMMT, UNTERSUCHEN, TESTEN, FALSCHE_FREUNDE, EIGENTLICH, ERKENNEN, REGISTER, VERMEIDEN, KONTEXT, FOLGE, ÜBERNEHMEN]
     answers:
       "1": ERSATZ
       "2": PROBLEM
@@ -1217,7 +1213,7 @@ exercises:
       14. Eine starke {14} hat man nicht — richtig: eine dezidierte Meinung.
 
       **Wortfeld:**
-      15. „Ursache" / „Anlass" / „Veranlassung" / „Grund" — die Frage {15} die Wahl.
+      15. „Ursache" / „Anlass" / „Veranlassung" / „Grund" — die Frage nach dem {15} entscheidet die Wahl.
 
       **Typische Fehler:**
       16. Saloppe Wörter im Fachtext = {16}-bruch.
@@ -1244,7 +1240,7 @@ exercises:
       "12": salopp
       "13": positiv
       "14": Meinung
-      "15": nach Kontext
+      "15": Kontext
       "16": Register
       "17": Kollokations
       "18": deuten

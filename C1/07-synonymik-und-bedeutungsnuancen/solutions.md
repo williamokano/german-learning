@@ -33,12 +33,12 @@
 
 ## Übung H5 — Tabelle ausfüllen: Dialog B (Lektorin)
 
-| Falsches Wort | Falsche Bedeutung (aus dem Englischen) | Korrekte deutsche Entsprechung | Register-Problem |
+| Wort | Falsche Bedeutung (aus dem Englischen) | Korrekte deutsche Entsprechung | Register-Problem |
 |---|---|---|---|
-| aktuell | aktuell | actually (= eigentlich) | **eigentlich / tatsächlich** | registerfremd im Achtsamkeits-Kontext |
-| realisieren | realisieren | to realize (= begreifen) | **erkennen / bemerken** | falscher Freund |
-| eventuell | eventuell | eventually (= schließlich) | **mögliche / denkbare** | verzerrt die Wahrscheinlichkeit |
-| bald | bald | **soon (anytime soon)** | zeitnah / in Kürze | unpassend bei Sechs-Monats-Frist |
+| aktuell | actually (= eigentlich) | **eigentlich / tatsächlich** | registerfremd im Achtsamkeits-Kontext |
+| realisieren | to realize (= begreifen) | **erkennen / bemerken** | falscher Freund |
+| eventuell | eventually (= schließlich) | **mögliche / denkbare** | verzerrt die Wahrscheinlichkeit |
+| bald | **soon (anytime soon)** | zeitnah / in Kürze | unpassend bei Sechs-Monats-Frist |
 
 ---
 
@@ -74,7 +74,7 @@
 
 ## Übung A5 — Nomen einsetzen: Problem / Aufgabe / Herausforderung / Schwierigkeit
 
-1. **Problem**  2. **Aufgabe**  3. **Herausforderung**  4. **Schwierigkeiten**  5. **Ursache**  6. **Aufgabe**
+1. **Problem**  2. **Aufgabe**  3. **Herausforderung**  4. **Schwierigkeiten**  5. **Ursache**  6. **Problem**
 
 ## Übung A6 — Verben: Bedeutung zuordnen
 
@@ -138,7 +138,7 @@
 
 ## Übung B2 — Erlaubnis-Verben im richtigen Register
 
-1. **erlaubt**  2. **gestattet**  3. **räumt**  4. **lässt**  5. **spricht**  6. **erlauben**
+1. **erlaubt**  2. **gestattet**  3. **räumt**  4. **lässt**  5. **gestattet**  6. **erlauben**
 
 ## Übung B3 — Das richtige Nomen im Kontext
 
@@ -267,7 +267,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (bewerte dich /20)
 
-1. **erforschen**  2. **prüfen**  3. **testen**  4. **unterbinden**  5. **ernst**  6. **Ursache**  7. **Auffassung**  8. **gegenwärtig**  9. **verwirklichen**  10. **vielleicht**  11. **gehoben**  12. **salopp**  13. **positiv**  14. **Meinung**  15. **nach Kontext**  16. **Register**  17. **Kollokations**  18. **deuten**  19. **Nomen**  20. **durchführen**
+1. **erforschen**  2. **prüfen**  3. **testen**  4. **unterbinden**  5. **ernst**  6. **Ursache**  7. **Auffassung**  8. **gegenwärtig**  9. **verwirklichen**  10. **vielleicht**  11. **gehoben**  12. **salopp**  13. **positiv**  14. **Meinung**  15. **Kontext**  16. **Register**  17. **Kollokations**  18. **deuten**  19. **Nomen**  20. **durchführen**
 
 ---
 

@@ -79,12 +79,12 @@ Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör 
 
 Hör Dialog B noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.
 
-| Falsches Wort | Falsche Bedeutung (aus dem Englischen) | Korrekte deutsche Entsprechung | Register-Problem |
+| Wort | Falsche Bedeutung (aus dem Englischen) | Korrekte deutsche Entsprechung | Register-Problem |
 |---|---|---|---|
-| aktuell | aktuell | actually (= eigentlich) | ______ | registerfremd im Achtsamkeits-Kontext |
-| realisieren | realisieren | to realize (= begreifen) | ______ | falscher Freund |
-| eventuell | eventuell | eventually (= schließlich) | ______ | verzerrt die Wahrscheinlichkeit |
-| bald | bald | ______ | zeitnah / in Kürze | unpassend bei Sechs-Monats-Frist |
+| aktuell | actually (= eigentlich) | ______ | registerfremd im Achtsamkeits-Kontext |
+| realisieren | to realize (= begreifen) | ______ | falscher Freund |
+| eventuell | eventually (= schließlich) | ______ | verzerrt die Wahrscheinlichkeit |
+| bald | ______ | zeitnah / in Kürze | unpassend bei Sechs-Monats-Frist |
 
 ---
 
@@ -115,7 +115,7 @@ Wähle das Nomen, das am besten passt (a, b oder c).
 Wähle die korrekte deutsche Bedeutung (a, b oder c).
 
 1. Was bedeutet „aktuell" im Deutschen?  a) tatsächlich, eigentlich  b) gegenwärtig, derzeit  c) aktuell im Sinne von „in Mode"
-2. Was bedeutet „eventuell" im Deutschen?  b) schließlich, am Ende  a) vielleicht, möglicherweise  c) gegeben, sicher
+2. Was bedeutet „eventuell" im Deutschen?  a) vielleicht, möglicherweise  b) schließlich, am Ende  c) gegeben, sicher
 3. Was bedeutet „realisieren" im Deutschen?  a) sich bewusst werden  b) begreifen, verstehen  c) verwirklichen, in die Tat umsetzen
 4. Was bedeutet „sympathisieren" im Deutschen?  a) mitfühlen, bemitleiden  b) sich positiv zeigen für  c) jemanden sympathisch finden
 5. Was bedeutet „sensibel" im Deutschen?  a) vernünftig  b) empfindlich, feinfühlig  c) sensationalistisch
@@ -140,7 +140,7 @@ Setze das passende Nomen ein. 6 Items.
 3. Wir freuen uns auf die ______, mit einem internationalen Team zu arbeiten.
 4. Beim Umzug gab es einige ______.
 5. Die ______ ist, dass die Serverlast zu hoch ist.
-6. Das ist eine ______, die wir schnell lösen müssen.
+6. Das ist ein ______, das wir schnell lösen müssen.
 
 ## Übung A6 — Verben: Bedeutung zuordnen
 
@@ -239,7 +239,7 @@ Setze das passende Verb ein (erlauben / gestatten / zulassen / einräumen). 6 It
 2. (sehr förmlich, amtlich) Die Behörde ______ die Veranstaltung.
 3. (kooperativ, anerkennend) Im Gespräch ______ der Professor ein: „Das ist ein guter Punkt."
 4. (passiv, juristisch) Das Verfahren ______ keine Ausnahmen.
-5. (förmlich, gehoben) Das Gericht ______ dem Kläger Schadensersatz.
+5. (förmlich, gehoben) Das Gericht ______ dem Kläger die Berufung.
 6. (neutral, sachlich) Wir ______ den Schülern, ihre Jacken an der Garderobe aufzuhängen.
 
 ## Übung B3 — Das richtige Nomen im Kontext
@@ -356,7 +356,7 @@ Wähle die passende Option (a, b oder c) für jede Lücke.
 3. Diese Woche steht eine schwere {1} an.  a) Herausforderung  b) Aufgabe  c) Schwierigkeit
 4. Wir freuen uns auf die {1} mit dem internationalen Team.  a) Schwierigkeit  b) Herausforderung  c) Aufgabe
 5. Die {1} des Erdbebens ist unklar.  a) Gründe  b) Ursachen  c) Anlässe
-6. „{1}“ bedeutet im Deutschen „vielleicht".  a) Schließlich  b) Eventuell  c) Möglicherweise
+6. „{1}“ bedeutet im Deutschen „vielleicht".  a) Schließlich  b) Eventuell  c) Keinesfalls
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
@@ -374,7 +374,7 @@ Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Je
 > heißt NICHT ‚(9) ______‘, und *realisieren* heißt ‚verwirklichen‘,
 > nicht ‚(10) ______‘. Wer das beachtet, schreibt präzise."
 
-> BEGREIFEN · BEWERTET · EIGENTLICH · ERKENNEN · ERSATZ · FALSCHE_FREUNDE · FOLGE · KONTEXT · LÖST · NIMMT · PROBLEM · REGISTER · TESTEN · UNTERSUCHEN · VERMEIDEN
+> BEWERTET · EIGENTLICH · ERKENNEN · ERSATZ · FALSCHE_FREUNDE · FOLGE · KONTEXT · LÖST · NIMMT · PROBLEM · REGISTER · TESTEN · ÜBERNEHMEN · UNTERSUCHEN · VERMEIDEN
 
 Five words are not needed.
 
@@ -534,7 +534,7 @@ Wiederholung früherer Lektionen. 10 Items.
 14. Eine starke ______ hat man nicht — richtig: eine dezidierte Meinung.
 
 **Wortfeld:**
-15. „Ursache" / „Anlass" / „Veranlassung" / „Grund" — die Frage ______ die Wahl.
+15. „Ursache" / „Anlass" / „Veranlassung" / „Grund" — die Frage nach dem ______ entscheidet die Wahl.
 
 **Typische Fehler:**
 16. Saloppe Wörter im Fachtext = ______-bruch.
