@@ -50,7 +50,7 @@ buildsOn:
 > **Tomáš:** Schon. Aber „würde" ist Konjunktiv II — den benutzt man eher für irreale Sachen. „Ich würde morgen kommen, wenn ich könnte." Hier geht es um eine vermutete Tatsache, nicht um etwas Unwirkliches. Konjunktiv I ist da eigentlich genauer.  
 > **Mia:** Stimmt. „würde + Infinitiv" ist im gesprochenen Deutsch gang und gäbe, aber im gehobenen Stil bleibt man bei der echten Konjunktiv-I-Form, wo sie noch existiert.  
 > **Lukas:** Und wenn die Form mit dem Indikativ zusammenfällt? Dann muss man sowieso „würde" sagen, oder?  
-> **Mia:** Ja, genau. Bei *er hat → er habe* geht's noch. Aber bei *er ist → er sei* und *er wird → er werde* — da wird's heikel. Wenn die Form mit dem normalen Präsens identisch ist, weicht man auf „würde" aus.  
+> **Mia:** Ja, genau. Bei *er hat → er habe* und *er ist → er sei* geht's noch — die Form ist klar erkennbar. Aber bei *er geht → er gehe* und *er macht → er mache* — da wird's heikel, weil die Form klingt wie das normale Präsens. Da weicht man auf „würde" aus.  
 > **Tomáš:** Eben. Und beim Hören muss man aus dem Kontext schließen, was gemeint ist. Da gibt es keine Eindeutigkeit.  
 > **Lukas:** Ach so. Das macht's natürlich nicht einfacher. Aber ich find's spannend — man merkt, wie viel das Deutsche mit einer einzigen Verbform ausdrücken kann.  
 > **Mia:** Ja. Und jetzt mach uns mal einen Kaffee. Wir haben uns das verdient.
@@ -326,7 +326,7 @@ Am Sonntag fährt er zurück. Im Zug denkt er über die Worte seines Vaters nach
 | Realität | Irrealer Vergleich |
 |---|---|
 | Er weiß nichts. | *Er tut so, als **ob** er **wüsste**, worum es geht.* |
-| Sie ist nicht da. | *Sie **verhielt** sich, als **wäre** sie nie weg gewesen.* |
+| Sie ist nicht da. | *Sie **verhielt** sich, als **wäre** sie nie weggewesen.* |
 | Es ist kalt. | *Es sieht aus, als **ob** es schneien **würde**.* |
 | Du bist nicht mein Chef. | *Du **redest**, als **wärst** du mein Chef.* |
 
@@ -347,7 +347,7 @@ Am Sonntag fährt er zurück. Im Zug denkt er über die Worte seines Vaters nach
 <details>
 <summary>📝 Lösung</summary>
 
-> (a) *„Er **verhielt** sich, als **wäre** er nie weg gewesen."* (b) *„Sie **redete** darüber, als **hätte** sie das Buch **gelesen**."* (c) *„Es **sieht** aus, als **ob** es schneien **würde**."* / *„…, als **würde** es schneien."*
+> (a) *„Er **verhielt** sich, als **wäre** er nie weggewesen."* (b) *„Sie **redete** darüber, als **hätte** sie das Buch **gelesen**."* (c) *„Es **sieht** aus, als **ob** es schneien **würde**."* / *„…, als **würde** es schneien."*
 >
 > </details>
 

@@ -142,7 +142,7 @@ exercises:
     title: 'Tabelle ausfüllen: Dialog A (Sprachdebatte)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
-    columns: ['Beobachtung', 'Begründung', 'Stichwort']
+    columns: ['Sprecher', 'Beobachtung', 'Begründung', 'Stichwort']
     rows:
       - label: 'Lukas'
         cells:
@@ -466,7 +466,7 @@ exercises:
     block: A
     type: gap-bank
     title: 'Modalpartikeln im Mittelfeld'
-    instructions: 'Füll die 6 Lücken mit der passenden Modalpartikel aus dem Kasten. Drei Wörter sind zu viel.'
+    instructions: 'Füll die 6 Lücken mit der passenden Modalpartikel aus dem Kasten. Vier Wörter sind zu viel.'
     text: |
       1. Das ist {1} ganz einfach! (Erwartung enttäuschen)
       2. Du hast {2} keine Zeit, oder? (Erwartung enttäuschen)
@@ -679,9 +679,9 @@ exercises:
         options:
           - { key: a, text: 'Gestern bin ich wegen des Regens mit dem Auto nach Hause gefahren.' }
           - { key: b, text: 'Wegen des Regens bin ich gestern mit dem Auto nach Hause gefahren.' }
-          - { key: c, text: 'Mit dem Auto bin ich gestern wegen des Regens nach Hause gefahren.' }
-        answer: a
-        why: 'In (a) steht „wegen des Regens" zwischen „bin" und „gestern" — klingt holprig. Die idiomatischste Reihenfolge ist Tekamalo-konform: Temporal > Kausal > Modal > Lokal. Variante (b) ist am idiomatischsten.'
+          - { key: c, text: 'Ich bin mit dem Auto wegen des Regens gestern nach Hause gefahren.' }
+        answer: c
+        why: 'In (c) steht „gestern" zwischen „wegen des Regens" und „nach Hause"; die Temporal-Angabe kommt erst an vorletzter Stelle. Tekamalo: T > Ka > Mo > Lo — das Temporal gehört weiter nach vorn. Klingt holprig.'
       - q: 'Welche Version klingt schwerfällig?'
         options:
           - { key: a, text: 'Den Roman, den ich seit Monaten gesucht habe, habe ich gestern gefunden.' }
@@ -988,7 +988,7 @@ exercises:
       > Liebe Community, heute diskutieren wir: Brauchen wir den Konjunktiv noch? Wer schreibt noch Konjunktiv I in der indirekten Rede?
       >
       > **Beitrag 2 — Mia_B:**
-      > Im Alltag höre ich fast nur „würde + Infinitiv". Aber wer auf Civeau schreibt, sollte den echten Konjunktiv I beherrschen — gerade in der indirekten Rede ist er nötig.
+      > Im Alltag höre ich fast nur „würde + Infinitiv". Aber wer auf C-Niveau schreibt, sollte den echten Konjunktiv I beherrschen — gerade in der indirekten Rede ist er nötig.
       >
       > **Beitrag 3 — Lukas_T:**
       > Ich finde, „würde + Infinitiv" reicht völlig. Wer versteht schon den Unterschied zwischen „sei" und „wäre"? Das macht die Sprache nur komplizierter.

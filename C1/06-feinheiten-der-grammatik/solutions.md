@@ -32,8 +32,8 @@
 
 ## Übung H5 — Tabelle ausfüllen: Dialog A (Sprachdebatte)
 
-| Beobachtung | Begründung | Stichwort |
-|---|---|---|
+| Sprecher | Beobachtung | Begründung | Stichwort |
+|---|---|---|---|
 | Lukas | Frage zum Feuilleton-Satz | **warum „habe" statt „hat"?** | Konjunktiv I |
 | Tomáš | **Konjunktiv I ist genauer** | „würde" ist Konjunktiv II | Indirekte Rede |
 | Mia | Echte Konjunktiv-I-Form bevorzugt | **wo noch unterscheidbar** | Gehobener Stil |
@@ -148,7 +148,7 @@
 ## Übung B4 — Wortstellung — Fehler erkennen
 
 1. **c) Ich habe keine Zeit ja.** — Modalpartikel „ja" muss direkt nach dem Verb stehen, nicht am Satzende.
-2. **a) Gestern bin ich wegen des Regens mit dem Auto nach Hause gefahren.** — In (a) steht „wegen des Regens" zwischen „bin" und „gestern" — klingt holprig. Die idiomatischste Reihenfolge ist Tekamalo-konform: Temporal > Kausal > Modal > Lokal. Variante (b) ist am idiomatischsten.
+2. **c) Ich bin mit dem Auto wegen des Regens gestern nach Hause gefahren.** — In (c) steht „gestern" zwischen „wegen des Regens" und „nach Hause"; die Temporal-Angabe kommt erst an vorletzter Stelle. Tekamalo: T > Ka > Mo > Lo — das Temporal gehört weiter nach vorn. Klingt holprig.
 3. **c) Ich habe gestern den Roman, den ich seit Monaten gesucht habe, gefunden.** — Schwere Glieder (langer Relativsatz) gehören nicht mittig, sondern vorne (Thema) oder ans Ende.
 4. **b) Das im Jahr 2020 erschienene Buch über die deutsche Grammatik habe ich gestern gelesen.** — Schweres Partizipialattribut als Thema vorne — idiomatisch.
 5. **a) Komm mal her.** — Modalpartikel direkt nach dem Imperativ-Verb (Komm + mal).

@@ -77,8 +77,8 @@ Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör 
 
 Hör Dialog A noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.
 
-| Beobachtung | Begründung | Stichwort |
-|---|---|---|
+| Sprecher | Beobachtung | Begründung | Stichwort |
+|---|---|---|---|
 | Lukas | Frage zum Feuilleton-Satz | ______ | Konjunktiv I |
 | Tomáš | ______ | „würde" ist Konjunktiv II | Indirekte Rede |
 | Mia | Echte Konjunktiv-I-Form bevorzugt | ______ | Gehobener Stil |
@@ -182,7 +182,7 @@ Ordne jedem Satz (1–5) die richtige Funktion (a–e) zu.
 
 ## Übung A10 — Modalpartikeln im Mittelfeld
 
-Füll die 6 Lücken mit der passenden Modalpartikel aus dem Kasten. Drei Wörter sind zu viel.
+Füll die 6 Lücken mit der passenden Modalpartikel aus dem Kasten. Vier Wörter sind zu viel.
 
 > 1. Das ist (1) ______ ganz einfach! (Erwartung enttäuschen)
 > 2. Du hast (2) ______ keine Zeit, oder? (Erwartung enttäuschen)
@@ -257,7 +257,7 @@ Wähle die korrekte Form (a, b oder c).
 Welcher Satz ist UNIDIOMATISCH? Wähle die schiefe Version (a, b oder c).
 
 1. Welche Version klingt „komisch"?  a) Das ist doch ganz einfach.  b) Ich habe ja keine Zeit.  c) Ich habe keine Zeit ja.
-2. Welche Reihenfolge ist „komisch"?  a) Gestern bin ich wegen des Regens mit dem Auto nach Hause gefahren.  b) Wegen des Regens bin ich gestern mit dem Auto nach Hause gefahren.  c) Mit dem Auto bin ich gestern wegen des Regens nach Hause gefahren.
+2. Welche Reihenfolge ist „komisch"?  a) Gestern bin ich wegen des Regens mit dem Auto nach Hause gefahren.  b) Wegen des Regens bin ich gestern mit dem Auto nach Hause gefahren.  c) Ich bin mit dem Auto wegen des Regens gestern nach Hause gefahren.
 3. Welche Version klingt schwerfällig?  a) Den Roman, den ich seit Monaten gesucht habe, habe ich gestern gefunden.  b) Ich habe gestern den lang gesuchten Roman gefunden.  c) Ich habe gestern den Roman, den ich seit Monaten gesucht habe, gefunden.
 4. Welcher Satz hat das schwere Glied richtig platziert?  a) Ich habe gestern das im Jahr 2020 erschienene Buch über die deutsche Grammatik gelesen.  b) Das im Jahr 2020 erschienene Buch über die deutsche Grammatik habe ich gestern gelesen.  c) Gelesen habe ich gestern das im Jahr 2020 erschienene Buch über die deutsche Grammatik.
 5. Welcher Satz hat die Modalpartikel richtig?  a) Komm mal her.  b) Komm her mal.  c) Mal komm her.
@@ -410,7 +410,7 @@ Lies die folgenden Forumsbeiträge und wähle a, b oder c.
 > Liebe Community, heute diskutieren wir: Brauchen wir den Konjunktiv noch? Wer schreibt noch Konjunktiv I in der indirekten Rede?
 >
 > **Beitrag 2 — Mia_B:**
-> Im Alltag höre ich fast nur „würde + Infinitiv". Aber wer auf Civeau schreibt, sollte den echten Konjunktiv I beherrschen — gerade in der indirekten Rede ist er nötig.
+> Im Alltag höre ich fast nur „würde + Infinitiv". Aber wer auf C-Niveau schreibt, sollte den echten Konjunktiv I beherrschen — gerade in der indirekten Rede ist er nötig.
 >
 > **Beitrag 3 — Lukas_T:**
 > Ich finde, „würde + Infinitiv" reicht völlig. Wer versteht schon den Unterschied zwischen „sei" und „wäre"? Das macht die Sprache nur komplizierter.
