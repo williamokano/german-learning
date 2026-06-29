@@ -1,0 +1,1217 @@
+lesson: C1/06
+title: 'C1 · Lektion 6 — Übungen (Feinheiten der Grammatik)'
+intro: >
+  Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Die Lösungen findest du in solutions.md.
+  Tipp: Verteil die Blöcke über mehrere Tage — H und A am Tag 1, B am Tag 2,
+  C am Tag 3, D am Tag 4 nach einer Pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: 'Dialog Hör-Check: Dialog A (Sprachdebatte)'
+    audio: dialog1_a.mp3
+    instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    items:
+      - q: 'Lukas liest einen Satz aus dem Feuilleton vor, in dem „verändert habe" steht.'
+        answer: true
+        why: 'Lukas zitiert den Satz: „die Digitalisierung die Lesegewohnheiten verändert habe".'
+      - q: 'Tomáš erklärt, dass „würde" der bevorzugte Konjunktiv für indirekte Rede sei.'
+        answer: false
+        why: 'Tomáš sagt: „Konjunktiv I ist da eigentlich genauer" — also die echte Form, nicht „würde".'
+      - q: 'Mia meint, im gehobenen Stil bleibe man bei der echten Konjunktiv-I-Form, wo sie noch existiere.'
+        answer: true
+        why: 'Mia: „im gehobenen Stil bleibt man bei der echten Konjunktiv-I-Form, wo sie noch existiert".'
+      - q: 'Wenn die Konjunktiv-I-Form mit dem Indikativ zusammenfällt, weicht man auf „würde" aus.'
+        answer: true
+        why: 'Mia: „Wenn die Form mit dem normalen Präsens identisch ist, weicht man auf ‚würde‘ aus".'
+      - q: 'Am Ende bittet Lukas Mia, einen Kaffee zu machen.'
+        answer: false
+        why: 'Mia bittet Lukas: „mach uns mal einen Kaffee".'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: 'Dialog Hör-Check: Dialog B (Beratungsgespräch)'
+    audio: dialog1_b.mp3
+    optionLayout: block
+    instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    items:
+      - q: 'Worum geht es im Beratungsgespräch?'
+        options:
+          - { key: a, text: 'Um einen A2-Kurs.' }
+          - { key: b, text: 'Um einen C1-Kurs.' }
+          - { key: c, text: 'Um eine Stelle als Lehrer.' }
+        answer: b
+        why: 'Frau Weber: „unseren C1-Kurs".'
+      - q: 'Welche beiden Hauptfunktionen des Konjunktivs II nennt Frau Weber?'
+        options:
+          - { key: a, text: 'Irrealis und Höflichkeit.' }
+          - { key: b, text: 'Indirekte Rede und Wunsch.' }
+          - { key: c, text: 'Passiv und Aktiv.' }
+        answer: a
+        why: 'Frau Weber: „Konjunktiv II für Irrealis … und Konjunktiv II für Höflichkeit".'
+      - q: 'Bei welchem Verb weicht man NICHT auf „würde" aus?'
+        options:
+          - { key: a, text: 'bei „er macht"' }
+          - { key: b, text: 'bei „er hat"' }
+          - { key: c, text: 'bei „er geht"' }
+        answer: b
+        why: '„er habe" (Konjunktiv I von „haben") bleibt im gehobenen Stil erhalten — nicht „würde haben".'
+      - q: 'Welche vier Funktionen des „es" nennt Frau Weber?'
+        options:
+          - { key: a, text: 'Vorfeld, Korrelat, Existenz, unpersönlich.' }
+          - { key: b, text: 'Subjekt, Objekt, Prädikat, Adverbial.' }
+          - { key: c, text: 'Temporal, Kausal, Modal, Lokal.' }
+        answer: a
+        why: 'Frau Weber nennt die vier „es"-Funktionen explizit: Vorfeld, Korrelat, Existenz, unpersönlich.'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: 'Hörtext-Lückentext: Sprache und Stil'
+    audio: hoertext.mp3
+    instructions: 'Hör den Hörtext und füll die 6 Lücken. Vier Wörter im Kasten sind zu viel.'
+    text: |
+      Liebe Hörerinnen und Hörer, willkommen bei „Sprachzeit". In der
+      heutigen Sendung geht es um die Frage, ob das Deutsche eine
+      besonders schwierige Grammatik {1}. Der Linguist Professor Berger
+      meint, es {2} kaum eine Sprache, in der so viele kleine Werkzeuge
+      so viel ausrichten könnten. Weder die englische noch die
+      französische Grammatik {3} über ein so differenziertes System von
+      Konjunktiven. Der Konjunktiv I erlaube es, fremde Aussagen
+      elegant wiederzugeben; der Konjunktiv II {4} einen Raum des
+      Irrealen. Nicht nur in der Wissenschaft, sondern auch in der
+      Literatur {5} diese Feinheit eine zentrale Rolle. {6} lohne sich,
+      so der Professor, diese Werkzeuge bewusst zu üben.
+    bank: [habe, gebe, verfüge, eröffne, spiele, Es, ist, gibt, würden, müsse]
+    answers:
+      "1": habe
+      "2": gebe
+      "3": verfüge
+      "4": eröffne
+      "5": spiele
+      "6": Es
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: 'Kurze Ansage: Anrufbeantworter des Sprachinstituts'
+    audio: transcript_ansage1.mp3
+    optionLayout: block
+    instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Sprachinstituts „Lingua Berlin" erreicht. Wir sind telefonisch erreichbar von Montag bis Freitag zwischen neun und siebzehn Uhr. Aktuell bieten wir einen Vorbereitungskurs auf das C1-Zertifikat an. Der Kurs beginnt am 15. September und findet zweimal wöchentlich statt, dienstags und donnerstags von achtzehn bis zwanzig Uhr. Die Anmeldung ist nur online möglich unter www.lingua-berlin.de. Für eine persönliche Beratung vereinbaren Sie bitte einen Termin per E-Mail. Bitte ruf mich zurück, falls weitere Fragen bestehen. Vielen Dank.'
+    items:
+      - q: 'Welche Einrichtung ist auf dem Anrufbeantworter zu hören?'
+        options:
+          - { key: a, text: 'Das Goethe-Institut.' }
+          - { key: b, text: 'Das Sprachinstitut „Lingua Berlin".' }
+          - { key: c, text: 'Die Humboldt-Universität.' }
+        answer: b
+        why: '„Sie haben den Anrufbeantworter des Sprachinstituts ‚Lingua Berlin‘ erreicht."'
+      - q: 'Wie ist das Institut telefonisch erreichbar?'
+        options:
+          - { key: a, text: 'Täglich rund um die Uhr.' }
+          - { key: b, text: 'Montag bis Freitag von neun bis siebzehn Uhr.' }
+          - { key: c, text: 'Nur am Wochenende.' }
+        answer: b
+        why: '„Wir sind telefonisch erreichbar von Montag bis Freitag zwischen neun und siebzehn Uhr."'
+      - q: 'Wann beginnt der C1-Vorbereitungskurs?'
+        options:
+          - { key: a, text: 'Am 1. September.' }
+          - { key: b, text: 'Am 15. September.' }
+          - { key: c, text: 'Am 1. Oktober.' }
+        answer: b
+        why: '„Der Kurs beginnt am 15. September".'
+      - q: 'Wie kann man sich anmelden?'
+        options:
+          - { key: a, text: 'Nur persönlich vor Ort.' }
+          - { key: b, text: 'Nur online unter www.lingua-berlin.de.' }
+          - { key: c, text: 'Nur telefonisch.' }
+        answer: b
+        why: '„Die Anmeldung ist nur online möglich unter www.lingua-berlin.de".'
+
+  - id: H5
+    block: H
+    type: table-fill
+    title: 'Tabelle ausfüllen: Dialog A (Sprachdebatte)'
+    audio: dialog1_a.mp3
+    instructions: 'Hör Dialog A noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    columns: ['Sprecher', 'Beobachtung', 'Begründung', 'Stichwort']
+    rows:
+      - label: 'Lukas'
+        cells:
+          - { gap: 1, answer: 'Frage zum Feuilleton-Satz', given: 'Frage zum Feuilleton-Satz' }
+          - { gap: 2, answer: 'warum „habe" statt „hat"?' }
+          - { gap: 3, answer: 'Konjunktiv I', given: 'Konjunktiv I' }
+      - label: 'Tomáš'
+        cells:
+          - { gap: 4, answer: 'Konjunktiv I ist genauer' }
+          - { gap: 5, answer: '„würde" ist Konjunktiv II', given: '„würde" ist Konjunktiv II' }
+          - { gap: 6, answer: 'Indirekte Rede', given: 'Indirekte Rede' }
+      - label: 'Mia'
+        cells:
+          - { gap: 7, answer: 'Echte Konjunktiv-I-Form bevorzugt', given: 'Echte Konjunktiv-I-Form bevorzugt' }
+          - { gap: 8, answer: 'wo noch unterscheidbar' }
+          - { gap: 9, answer: 'Gehobener Stil', given: 'Gehobener Stil' }
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: single-choice
+    title: 'Konjunktiv I — welche Form ist richtig?'
+    optionLayout: block
+    instructions: 'Wähle die korrekte Konjunktiv-I-Form (a, b oder c).'
+    items:
+      - q: 'Sie sagt, sie komme morgen. — Welche Form ist das?'
+        options:
+          - { key: a, text: 'Indikativ Präsens.' }
+          - { key: b, text: 'Konjunktiv I.' }
+          - { key: c, text: 'Konjunktiv II.' }
+        answer: b
+        why: '„komme" ist Konjunktiv I von „kommen" — Signal für indirekte Rede.'
+      - q: 'Er behauptet, er habe keine Zeit. — „habe" steht für …'
+        options:
+          - { key: a, text: 'Indikativ Präsens.' }
+          - { key: b, text: 'Konjunktiv I von „haben".' }
+          - { key: c, text: 'Konjunktiv II von „haben".' }
+        answer: b
+        why: '„habe" (Konjunktiv I) ≠ „hätte" (Konjunktiv II); Konjunktiv I markiert die indirekte Rede.'
+      - q: 'Bei welchem Verb weicht man im 3. Pers. Sg. auf „würde" aus?'
+        options:
+          - { key: a, text: 'bei „sein"' }
+          - { key: b, text: 'bei „haben"' }
+          - { key: c, text: 'bei „machen"' }
+        answer: c
+        why: '„er mache" klingt wie „er macht" → man nimmt „würde machen".'
+      - q: 'Welche Form ist die Ersatzform für Konjunktiv I?'
+        options:
+          - { key: a, text: '„hätte + Infinitiv"' }
+          - { key: b, text: '„wäre + Infinitiv"' }
+          - { key: c, text: '„würde + Infinitiv"' }
+        answer: c
+        why: '„würde + Infinitiv" ist die idiomatische Ersatzform.'
+      - q: 'Welche Konjunktiv-I-Form bleibt sicher erhalten (klingt nie wie Indikativ)?'
+        options:
+          - { key: a, text: '„er gebe"' }
+          - { key: b, text: '„er sei"' }
+          - { key: c, text: '„er mache"' }
+        answer: b
+        why: '„er sei" ist eindeutig (Indikativ „er ist" klingt anders); „er gebe" und „er mache" sind homophon mit dem Indikativ.'
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: 'Konjunktiv I bilden'
+    instructions: 'Setze die passende Konjunktiv-I-Form ein (oder „würde + Infinitiv" bei Homophonie). 6 Items.'
+    text: |
+      1. Müller schreibt, die Methode {1} umstritten. (sein)
+      2. Weber stellt fest, es {2} keine eindeutigen Belege. (geben)
+      3. Schmidt betont, man {3} die Daten neu erheben. (müssen)
+      4. Klein sagt, er {4} morgen zur Konferenz. (gehen)
+      5. Der Autor behauptet, die Leute {5} sich nicht umgewöhnen. (wollen — Konjunktiv I 3. Pers. Pl.)
+      6. Sie sagte, sie {6} krank. (sein)
+    answers:
+      "1": sei
+      "2": gebe
+      "3": müsse
+      "4": würde gehen
+      "5": würden
+      "6": sei
+
+  - id: A3
+    block: A
+    type: single-choice
+    title: 'Konjunktiv II — Irrealis oder Höflichkeit?'
+    optionLayout: block
+    instructions: 'Wähle die korrekte Bedeutung (a, b oder c).'
+    items:
+      - q: '„Wenn ich Zeit hätte, würde ich mehr lesen." — Das ist …'
+        options:
+          - { key: a, text: 'eine reale Bedingung.' }
+          - { key: b, text: 'ein Irrealis (Gegenwart).' }
+          - { key: c, text: 'eine Höflichkeitsbitte.' }
+        answer: b
+        why: 'Irrealis Gegenwart: Bedingung steht im Konjunktiv II, Folge mit „würde".'
+      - q: '„Ich hätte gern eine Tasse Kaffee." — Das ist …'
+        options:
+          - { key: a, text: 'ein Irrealis.' }
+          - { key: b, text: 'eine Höflichkeitsbitte.' }
+          - { key: c, text: 'eine Feststellung.' }
+        answer: b
+        why: 'Konjunktiv II zur Höflichkeit — die Bitte wird abgeschwächt.'
+      - q: '„Er tut so, als ob er wüsste, worum es geht." — Das ist …'
+        options:
+          - { key: a, text: 'ein realer Vergleich.' }
+          - { key: b, text: 'eine Höflichkeitsbitte.' }
+          - { key: c, text: 'ein irrealer Vergleich.' }
+        answer: c
+        why: '„als ob + Konjunktiv II" = irrealer Vergleich; die Realität ist das Gegenteil.'
+      - q: '„Wenn ich Zeit gehabt hätte, hätte ich mehr gelesen." — Das ist …'
+        options:
+          - { key: a, text: 'Irrealis Gegenwart.' }
+          - { key: b, text: 'Irrealis Vergangenheit.' }
+          - { key: c, text: 'Höflichkeitsbitte.' }
+        answer: b
+        why: '„hätte + Partizip II" (Konjunktiv II Perfekt) = Irrealis Vergangenheit.'
+      - q: 'Welche Form ist KEIN Konjunktiv II?'
+        options:
+          - { key: a, text: '„hätte"' }
+          - { key: b, text: '„wäre"' }
+          - { key: c, text: '„möchte"' }
+        answer: c
+        why: '„möchte" ist zwar höflich, aber eine eigene Verbform (Präteritum von „mögen"), nicht Konjunktiv II.'
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: 'Konjunktiv II einsetzen'
+    instructions: 'Setze die passende Konjunktiv-II-Form ein. 6 Items.'
+    text: |
+      1. Wenn ich Zeit {1}, würde ich mehr lesen. (Irrealis Gegenwart)
+      2. Ich {2} gern eine Tasse Kaffee. (Höflichkeitsbitte)
+      3. Wenn ich Zeit gehabt {3}, hätte ich mehr gelesen. (Irrealis Vergangenheit)
+      4. Er tut so, als ob er {4}, worum es geht. (irrealer Vergleich)
+      5. Sie verhielt sich, als {5} nichts gewesen. (irrealer Vergleich)
+      6. Ich würde Ihnen {6}, den Kurs zu besuchen. (Höflichkeitsvorschlag)
+    answers:
+      "1": hätte
+      "2": hätte
+      "3": hätte
+      "4": wüsste
+      "5": wäre
+      "6": empfehlen
+
+  - id: A5
+    block: A
+    type: single-choice
+    title: 'Negation — nicht oder kein?'
+    optionLayout: block
+    instructions: 'Wähle die korrekte Verneinung (a, b oder c).'
+    items:
+      - q: 'Ich habe Zeit. — Verneinung:'
+        options:
+          - { key: a, text: 'Ich habe nicht Zeit.' }
+          - { key: b, text: 'Ich habe kein Zeit.' }
+          - { key: c, text: 'Ich habe keine Zeit.' }
+        answer: c
+        why: '„Zeit" ist feminin → „keine" (ersetzt „eine").'
+      - q: 'Er hat ein Auto. — Verneinung:'
+        options:
+          - { key: a, text: 'Er hat nicht ein Auto.' }
+          - { key: b, text: 'Er hat kein Auto.' }
+          - { key: c, text: 'Er hat keinen Auto.' }
+        answer: b
+        why: '„kein" ersetzt den unbestimmten Artikel „ein".'
+      - q: 'Es gibt einen Ausweg. — Verneinung:'
+        options:
+          - { key: a, text: 'Es gibt nicht einen Ausweg.' }
+          - { key: b, text: 'Es gibt keinen Ausweg.' }
+          - { key: c, text: 'Es gibt kein Ausweg.' }
+        answer: b
+        why: '„Es gibt keinen" — maskulin Akkusativ.'
+      - q: 'Das ist wahr. — Verneinung:'
+        options:
+          - { key: a, text: 'Das ist kein wahr.' }
+          - { key: b, text: 'Das ist nicht wahr.' }
+          - { key: c, text: 'Das ist kein.' }
+        answer: b
+        why: '„wahr" ist ein Adjektiv → „nicht", nicht „kein".'
+      - q: 'Ich gehe mit. — Verneinung:'
+        options:
+          - { key: a, text: 'Ich gehe kein.' }
+          - { key: b, text: 'Ich gehe nicht mit.' }
+          - { key: c, text: 'Ich gehe kein mit.' }
+        answer: b
+        why: 'Bei Verben: „nicht", nicht „kein".'
+
+  - id: A6
+    block: A
+    type: gap-text
+    listLayout: true
+    title: 'Negation — Korrelate und Verstärkung'
+    instructions: 'Setze das passende Wort ein. 6 Items.'
+    text: |
+      1. {1} der Vater {2} die Mutter wollten umkehren. (Korrelat: „weder" / „noch")
+      2. {3} er, {4} auch sie kommt. (Hervorhebung + Ergänzung)
+      3. Das darfst du auf {5} Fall tun. (Verstärkung)
+      4. Das ist {6} unmöglich. (doppelte Verneinung = Bejahung)
+    answers:
+      "1": Weder
+      "2": noch
+      "3": Nicht nur
+      "4": sondern
+      "5": keinen
+      "6": nicht
+
+  - id: A7
+    block: A
+    type: single-choice
+    title: 'Wortstellung im Mittelfeld — Tekamalo'
+    optionLayout: block
+    instructions: 'Wähle die idiomatische Reihenfolge (a, b oder c).'
+    items:
+      - q: 'Welche Reihenfolge ist idiomatisch?'
+        options:
+          - { key: a, text: 'Ich bin gestern wegen des Regens mit dem Auto nach Hause gefahren.' }
+          - { key: b, text: 'Ich bin wegen des Regens gestern mit dem Auto nach Hause gefahren.' }
+          - { key: c, text: 'Ich bin mit dem Auto nach Hause gestern wegen des Regens gefahren.' }
+        answer: a
+        why: 'Tekamalo: Temporal > Kausal > Modal > Lokal. (a) entspricht dieser Reihenfolge.'
+      - q: 'Wo steht die Modalpartikel „doch"?'
+        options:
+          - { key: a, text: 'am Satzanfang.' }
+          - { key: b, text: 'direkt nach dem finiten Verb.' }
+          - { key: c, text: 'am Satzende.' }
+        answer: b
+        why: 'Modalpartikeln stehen direkt nach dem finiten Verb (Position 2).'
+      - q: 'Welche Version klingt idiomatisch (Scrambling)?'
+        options:
+          - { key: a, text: 'Ich habe gestern den Roman, den ich seit Monaten gesucht habe, gefunden.' }
+          - { key: b, text: 'Den Roman, den ich seit Monaten gesucht habe, habe ich gestern gefunden.' }
+          - { key: c, text: 'Den Roman habe ich gestern den, den ich seit Monaten gesucht habe, gefunden.' }
+        answer: b
+        why: 'Schwere Glieder (lange Relativsätze) stehen vorne als Thema; „gestern" + Verb am Ende.'
+      - q: 'Welcher Satz nutzt das schwere Glied richtig (rechts)?'
+        options:
+          - { key: a, text: 'Gestern habe ich das im Jahr 2020 erschienene Buch gelesen.' }
+          - { key: b, text: 'Das im Jahr 2020 erschienene Buch habe ich gestern gelesen.' }
+          - { key: c, text: 'Ich habe gestern gelesen das im Jahr 2020 erschienene Buch.' }
+        answer: b
+        why: 'Schwere Glieder (Partizipialattribute) stehen rechts oder als Thema vorne; nicht mittig.'
+      - q: 'Welcher Satz ist syntaktisch schief?'
+        options:
+          - { key: a, text: 'Das ist doch ganz einfach.' }
+          - { key: b, text: 'Das ist ja ganz einfach.' }
+          - { key: c, text: 'Das ist ganz einfach doch.' }
+        answer: c
+        why: '„doch" steht direkt nach dem Verb (Position 2), nicht am Satzende.'
+
+  - id: A8
+    block: A
+    type: single-choice
+    title: 'es-Konstruktionen — welcher Typ?'
+    optionLayout: block
+    instructions: 'Entscheide, welche Funktion das „es" hat (a, b oder c).'
+    items:
+      - q: '„Es regnet." — Was für ein „es"?'
+        options:
+          - { key: a, text: 'Vorfeld-es.' }
+          - { key: b, text: 'Korrelat-es.' }
+          - { key: c, text: 'Existenz-es.' }
+        answer: a
+        why: 'Vorfeld-es — bloßer Platzhalter, damit das Verb an Position 2 stehen kann.'
+      - q: '„Es freut mich, dass Sie da sind." — Was für ein „es"?'
+        options:
+          - { key: a, text: 'Vorfeld-es.' }
+          - { key: b, text: 'Korrelat-es.' }
+          - { key: c, text: 'Existenz-es.' }
+        answer: b
+        why: 'Korrelat-es — vertritt das Subjekt „die Tatsache, dass Sie da sind".'
+      - q: '„Es gibt einen Ausweg." — Was für ein „es"?'
+        options:
+          - { key: a, text: 'Vorfeld-es.' }
+          - { key: b, text: 'Korrelat-es.' }
+          - { key: c, text: 'Existenz-es.' }
+        answer: c
+        why: 'Existenz-es — „es gibt" kündigt die Existenz von „einen Ausweg" an.'
+      - q: '„Es kommt darauf an, dass wir pünktlich sind." — Was für ein „es"?'
+        options:
+          - { key: a, text: 'Vorfeld-es.' }
+          - { key: b, text: 'Korrelat-es.' }
+          - { key: c, text: 'unpersönliches es.' }
+        answer: c
+        why: 'Unpersönliches es — formelles Subjekt bei „kommen" in der Wendung „es kommt darauf an".'
+      - q: 'Welche Version ist stilistisch aktiver (Korrelat-es umbauen)?'
+        options:
+          - { key: a, text: 'Es ist wichtig, dass wir das schaffen.' }
+          - { key: b, text: 'Wichtig ist, dass wir das schaffen.' }
+          - { key: c, text: 'Es ist das Wichtige, dass wir das schaffen.' }
+        answer: b
+        why: 'Adjektiv vorne ziehen + Korrelat-es weglassen → aktiver Stil.'
+
+  - id: A9
+    block: A
+    type: matching
+    title: 'Konjunktiv-Funktion zuordnen'
+    instructions: 'Ordne jedem Satz (1–5) die richtige Funktion (a–e) zu.'
+    left:
+      - { key: '1', text: 'Sie sagt, sie komme morgen.' }
+      - { key: '2', text: 'Wenn ich Zeit hätte, würde ich mehr lesen.' }
+      - { key: '3', text: 'Ich hätte gern eine Tasse Kaffee.' }
+      - { key: '4', text: 'Er tut so, als ob er wüsste, worum es geht.' }
+      - { key: '5', text: 'Er behauptet, er würde das morgen machen.' }
+    right:
+      - { key: a, text: 'Konjunktiv I — indirekte Rede' }
+      - { key: b, text: 'Konjunktiv II — Irrealis Gegenwart' }
+      - { key: c, text: 'Konjunktiv II — Höflichkeit' }
+      - { key: d, text: 'Konjunktiv II — irrealer Vergleich' }
+      - { key: e, text: 'würde + Infinitiv — Ersatzform für Konjunktiv I' }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+
+  - id: A10
+    block: A
+    type: gap-bank
+    title: 'Modalpartikeln im Mittelfeld'
+    instructions: 'Füll die 6 Lücken mit der passenden Modalpartikel aus dem Kasten. Vier Wörter sind zu viel.'
+    text: |
+      1. Das ist {1} ganz einfach! (Erwartung enttäuschen)
+      2. Du hast {2} keine Zeit, oder? (Erwartung enttäuschen)
+      3. Das wissen Sie {3}. (Bekanntes markieren)
+      4. Das ist {4} so. (Resignation)
+      5. Er hat {5} keine Lust. (Vermutung)
+      6. Komm {6} her. (Aufforderung abmildern)
+    bank: [doch, doch, halt, ja, eben, wohl, mal, eigentlich, schon, vielleicht]
+    answers:
+      "1": doch
+      "2": doch
+      "3": ja
+      "4": eben
+      "5": wohl
+      "6": mal
+
+  - id: A11
+    block: A
+    type: single-choice
+    title: 'Irreale Vergleiche mit als ob / als'
+    optionLayout: block
+    instructions: 'Wähle die korrekte Form (a, b oder c).'
+    items:
+      - q: 'Er ist nicht da, aber er redet, als wäre er da.'
+        options:
+          - { key: a, text: 'Er redet, als wäre er da.' }
+          - { key: b, text: 'Er redet, als ob er da ist.' }
+          - { key: c, text: 'Er redet, als ob er da wäre.' }
+        answer: c
+        why: '„als ob" + Konjunktiv II („wäre"); auch „als + wäre" ist möglich.'
+      - q: 'Sie hat das Buch nicht gelesen, aber sie redet darüber, als hätte sie es gelesen.'
+        options:
+          - { key: a, text: 'als ob sie es gelesen hat.' }
+          - { key: b, text: 'als hätte sie es gelesen.' }
+          - { key: c, text: 'als ob sie es lesen würde.' }
+        answer: b
+        why: '„als + Konjunktiv II Perfekt" = „hätte + Partizip II".'
+      - q: 'Du bist nicht mein Chef, aber du redest, als …'
+        options:
+          - { key: a, text: 'als ob du mein Chef wärst.' }
+          - { key: b, text: 'als ob du mein Chef bist.' }
+          - { key: c, text: 'als ob du mein Chef gewesen wärst.' }
+        answer: a
+        why: 'Irrealer Vergleich (Gegenwart): „als ob + Konjunktiv II" („wärst").'
+      - q: 'Es ist Sommer, aber es sieht aus, als …'
+        options:
+          - { key: a, text: 'als ob es schneit.' }
+          - { key: b, text: 'als ob es schneien würde.' }
+          - { key: c, text: 'als ob es schneien wird.' }
+        answer: b
+        why: '„würde + Infinitiv" als Ersatzform im irrealen Vergleich.'
+      - q: 'Welche Form passt in einen irrealen Vergleich?'
+        options:
+          - { key: a, text: 'Indikativ.' }
+          - { key: b, text: 'Konjunktiv I.' }
+          - { key: c, text: 'Konjunktiv II.' }
+        answer: c
+        why: 'Irreale Vergleiche stehen im Konjunktiv II (ggf. mit „würde" als Ersatz).'
+
+  - id: A12
+    block: A
+    type: order
+    title: 'Satzbau: idiomatische Mittelfeld-Reihenfolge'
+    instructions: 'Bring die Wörter in die idiomatische Reihenfolge.'
+    items:
+      - tiles: [ist, 'Das', 'doch', 'ganz', 'einfach']
+        answer: [1, 0, 2, 3, 4]
+        note: '„Das ist doch ganz einfach." (Modalpartikel direkt nach dem Verb.)'
+      - tiles: [bin, 'Ich', 'gestern', 'wegen', 'des', 'Regens', 'nach', 'Hause', 'gefahren']
+        answer: [1, 0, 2, 3, 4, 5, 6, 7, 8]
+        note: '„Ich bin gestern wegen des Regens nach Hause gefahren." (Tekamalo.)'
+      - tiles: [habe, 'Ich', 'mir', 'gestern', 'das', 'Buch', 'gekauft']
+        answer: [1, 0, 2, 3, 4, 5, 6]
+        note: '„Ich habe mir gestern das Buch gekauft." (Temporal im Mittelfeld.)'
+      - tiles: [gibt, 'Es', 'einen', 'Ausweg']
+        answer: [1, 0, 2, 3]
+        note: '„Es gibt einen Ausweg." (Existenz-es + Vorfeld-es fallen zusammen.)'
+
+  # ── Block B — Vertiefung ─────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: single-choice
+    title: 'Konjunktiv I oder II — Wahl der richtigen Form'
+    optionLayout: block
+    instructions: 'Wähle die korrekte Wiedergabe (a, b oder c).'
+    items:
+      - q: 'Schmidt: „Die Methode ist umstritten." — Indirekte Rede:'
+        options:
+          - { key: a, text: 'Schmidt schreibt, die Methode ist umstritten.' }
+          - { key: b, text: 'Schmidt schreibt, die Methode sei umstritten.' }
+          - { key: c, text: 'Schmidt schreibt, die Methode wäre umstritten.' }
+        answer: b
+        why: 'Konjunktiv I („sei") für indirekte Rede; „wäre" ist Konjunktiv II (Irrealis).'
+      - q: 'Müller: „Es gibt keine eindeutigen Belege." — Indirekte Rede:'
+        options:
+          - { key: a, text: 'Müller stellt fest, es gibt keine eindeutigen Belege.' }
+          - { key: b, text: 'Müller stellt fest, es gebe keine eindeutigen Belege.' }
+          - { key: c, text: 'Müller stellt fest, es gäbe keine eindeutigen Belege.' }
+        answer: b
+        why: 'Konjunktiv I von „gibt" → „gebe"; „gäbe" ist Konjunktiv II (Irrealis).'
+      - q: 'Eine vorsichtige Aussage (Hedging):'
+        options:
+          - { key: a, text: 'Das beweist eindeutig, dass …' }
+          - { key: b, text: 'Das deutet darauf hin, dass …' }
+          - { key: c, text: 'Das ist auf jeden Fall so.' }
+        answer: b
+        why: '„deutet darauf hin" = Hedging (siehe C1/05).'
+      - q: 'Eine Höflichkeitsbitte:'
+        options:
+          - { key: a, text: 'Ich will einen Kaffee.' }
+          - { key: b, text: 'Ich hätte gern einen Kaffee.' }
+          - { key: c, text: 'Ich werde einen Kaffee wollen.' }
+        answer: b
+        why: '„Ich hätte gern" ist die idiomatische Höflichkeitsbitte mit Konjunktiv II.'
+      - q: 'Ein irrealer Vergleich (Gegenwart):'
+        options:
+          - { key: a, text: 'Er tut so, als ob er alles weiß.' }
+          - { key: b, text: 'Er tut so, als ob er alles wüsste.' }
+          - { key: c, text: 'Er tut so, als ob er alles wisse.' }
+        answer: b
+        why: 'Irrealer Vergleich: Konjunktiv II („wüsste"); „wisse" ist Konjunktiv I (hier falsch).'
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: 'Konjunktiv I und II in einem Text'
+    instructions: 'Setze die passende Konjunktiv-Form ein. 8 Items.'
+    text: |
+      Der Linguist Professor Berger erklärt: „Das Deutsche verfüge über
+      einzigartige Werkzeuge." Er meint, kaum eine andere Sprache {1}
+      so viele Feinheiten. Die englische Grammatik {2} zum Beispiel
+      keinen Konjunktiv II in derselben Weise. Eine Sprecherin sagte
+      dazu, sie {3}, dass die deutsche Grammatik mehr Raum für Nuancen
+      biete. Wenn man diese Werkzeuge beherrsche, {4} man viel
+      differenzierter formulieren. Es {5} schade, wenn man sie nicht
+      nutze. Der Professor betont, dass diese Feinheiten {6} in der
+      Wissenschaft wichtig seien, {7} auch im Alltag. Er fügt
+      hinzu, er {8} sich freuen, wenn mehr Leute diese Werkzeuge
+      bewusst einsetzen würden.
+    answers:
+      "1": habe
+      "2": kenne
+      "3": finde
+      "4": könne
+      "5": sei
+      "6": nicht nur
+      "7": sondern
+      "8": würde
+
+  - id: B3
+    block: B
+    type: single-choice
+    title: 'Negations-Korrelate und doppelte Verneinung'
+    optionLayout: block
+    instructions: 'Wähle die korrekte Form (a, b oder c).'
+    items:
+      - q: 'Welcher Satz verneint zwei Glieder korrekt?'
+        options:
+          - { key: a, text: 'Nicht Anna und nicht Bruno kommen.' }
+          - { key: b, text: 'Weder Anna noch Bruno kommen.' }
+          - { key: c, text: 'Anna nicht Bruno kommen.' }
+        answer: b
+        why: 'Korrelat „weder … noch" verneint zwei Glieder.'
+      - q: 'Welcher Satz drückt „A und auch B" aus?'
+        options:
+          - { key: a, text: 'Weder A noch B.' }
+          - { key: b, text: 'Nicht nur A, sondern auch B.' }
+          - { key: c, text: 'Zwar A, aber B.' }
+        answer: b
+        why: '„Nicht nur … sondern auch" = Hervorhebung + Ergänzung.'
+      - q: 'Was bedeutet „Das ist nicht uninteressant"?'
+        options:
+          - { key: a, text: 'Das ist uninteressant.' }
+          - { key: b, text: 'Das ist interessant.' }
+          - { key: c, text: 'Das ist sehr uninteressant.' }
+        answer: b
+        why: 'Doppelte Verneinung mit „nicht" → einfache Bejahung: „interessant".'
+      - q: 'Welche Verstärkung der Verneinung passt?'
+        options:
+          - { key: a, text: 'Das ist nicht ein bisschen wahr.' }
+          - { key: b, text: 'Das ist keineswegs wahr.' }
+          - { key: c, text: 'Das ist wahr nicht.' }
+        answer: b
+        why: '„keineswegs" = „ganz und gar nicht" (betonte Verneinung).'
+      - q: 'Welcher Satz hat KEIN Korrelat?'
+        options:
+          - { key: a, text: 'Sowohl Anna als auch Bruno kommen.' }
+          - { key: b, text: 'Weder Anna noch Bruno kommen.' }
+          - { key: c, text: 'Anna und Bruno kommen.' }
+        answer: c
+        why: '„Anna und Bruno kommen" ist eine einfache Aufzählung, kein Korrelat.'
+
+  - id: B4
+    block: B
+    type: single-choice
+    title: 'Wortstellung — Fehler erkennen'
+    optionLayout: block
+    instructions: 'Welcher Satz ist UNIDIOMATISCH? Wähle die schiefe Version (a, b oder c).'
+    items:
+      - q: 'Welche Version klingt „komisch"?'
+        options:
+          - { key: a, text: 'Das ist doch ganz einfach.' }
+          - { key: b, text: 'Ich habe ja keine Zeit.' }
+          - { key: c, text: 'Ich habe keine Zeit ja.' }
+        answer: c
+        why: 'Modalpartikel „ja" muss direkt nach dem Verb stehen, nicht am Satzende.'
+      - q: 'Welche Reihenfolge ist „komisch"?'
+        options:
+          - { key: a, text: 'Gestern bin ich wegen des Regens mit dem Auto nach Hause gefahren.' }
+          - { key: b, text: 'Wegen des Regens bin ich gestern mit dem Auto nach Hause gefahren.' }
+          - { key: c, text: 'Ich bin mit dem Auto wegen des Regens gestern nach Hause gefahren.' }
+        answer: c
+        why: 'In (c) steht „gestern" zwischen „wegen des Regens" und „nach Hause"; die Temporal-Angabe kommt erst an vorletzter Stelle. Tekamalo: T > Ka > Mo > Lo — das Temporal gehört weiter nach vorn. Klingt holprig.'
+      - q: 'Welche Version klingt schwerfällig?'
+        options:
+          - { key: a, text: 'Den Roman, den ich seit Monaten gesucht habe, habe ich gestern gefunden.' }
+          - { key: b, text: 'Ich habe gestern den lang gesuchten Roman gefunden.' }
+          - { key: c, text: 'Ich habe gestern den Roman, den ich seit Monaten gesucht habe, gefunden.' }
+        answer: c
+        why: 'Schwere Glieder (langer Relativsatz) gehören nicht mittig, sondern vorne (Thema) oder ans Ende.'
+      - q: 'Welcher Satz hat das schwere Glied richtig platziert?'
+        options:
+          - { key: a, text: 'Ich habe gestern das im Jahr 2020 erschienene Buch über die deutsche Grammatik gelesen.' }
+          - { key: b, text: 'Das im Jahr 2020 erschienene Buch über die deutsche Grammatik habe ich gestern gelesen.' }
+          - { key: c, text: 'Gelesen habe ich gestern das im Jahr 2020 erschienene Buch über die deutsche Grammatik.' }
+        answer: b
+        why: 'Schweres Partizipialattribut als Thema vorne — idiomatisch.'
+      - q: 'Welcher Satz hat die Modalpartikel richtig?'
+        options:
+          - { key: a, text: 'Komm mal her.' }
+          - { key: b, text: 'Komm her mal.' }
+          - { key: c, text: 'Mal komm her.' }
+        answer: a
+        why: 'Modalpartikel direkt nach dem Imperativ-Verb (Komm + mal).'
+
+  - id: B5
+    block: B
+    type: gap-text
+    listLayout: true
+    title: 'es-Konstruktionen unterscheiden'
+    instructions: 'Setze das passende Wort ein (Vorfeld-es, Korrelat-es, Existenz-es, unpersönliches es). 6 Items.'
+    text: |
+      1. {1} regnet. (Vorfeld-es)
+      2. {2} gibt einen Ausweg. (Existenz-es)
+      3. {3} kommt darauf an, dass wir pünktlich sind. (unpersönliches es)
+      4. {4} freut mich, dass Sie da sind. (Korrelat-es)
+      5. {5} ist wichtig, dass wir das schaffen. (Korrelat-es)
+      6. {6} zeigt sich, dass die Hypothese stimmt. (unpersönliches es)
+    answers:
+      "1": Es
+      "2": Es
+      "3": Es
+      "4": Es
+      "5": Es
+      "6": Es
+
+  - id: B6
+    block: B
+    type: single-choice
+    title: 'Vier es-Typen — Fehlverwendung erkennen'
+    optionLayout: block
+    instructions: 'Welcher Satz verwechselt die „es"-Typen? Wähle die falsche Version.'
+    items:
+      - q: 'Welcher Satz ist KORREKT?'
+        options:
+          - { key: a, text: 'Es gibt heute regnet es nicht.' }
+          - { key: b, text: 'Heute regnet es nicht.' }
+          - { key: c, text: 'Es regnet heute nicht.' }
+        answer: b
+        why: '„Es regnet" (Vorfeld-es) — „Es gibt … regnet" ist eine Verwechslung der Typen.'
+      - q: 'Welcher Satz ist KORREKT?'
+        options:
+          - { key: a, text: 'Es ist wichtig, dass wir das schaffen.' }
+          - { key: b, text: 'Wichtig ist, dass wir das schaffen.' }
+          - { key: c, text: 'Beide Versionen sind korrekt.' }
+        answer: c
+        why: 'Beides ist korrekt: (a) mit Korrelat-es, (b) mit Adjektiv vorne.'
+      - q: 'Welcher Satz verwechselt Existenz-es mit etwas anderem?'
+        options:
+          - { key: a, text: 'Es gibt Situationen, in denen …' }
+          - { key: b, text: 'Es gibt wichtig, dass …' }
+          - { key: c, text: 'Es gibt einen Ausweg.' }
+        answer: b
+        why: '„Es gibt wichtig" ist falsch — „es gibt" hat kein Adjektiv als Komplement.'
+      - q: 'Welches „es" ist ein formales Subjekt (unpersönliches es)?'
+        options:
+          - { key: a, text: 'Es regnet.' }
+          - { key: b, text: 'Es freut mich.' }
+          - { key: c, text: 'Es kommt darauf an.' }
+        answer: c
+        why: '„Es kommt darauf an" — unpersönliche Wendung mit „es" als formalem Subjekt.'
+      - q: 'Welcher Satz braucht KEIN Korrelat-es?'
+        options:
+          - { key: a, text: 'Es ist traurig, dass er geht.' }
+          - { key: b, text: 'Es regnet stark.' }
+          - { key: c, text: 'Es freut mich, dass du kommst.' }
+        answer: b
+        why: '„Es regnet" — Vorfeld-es, kein Korrelat nötig.'
+
+  - id: B7
+    block: B
+    type: matching
+    title: 'es-Konstruktion — Typ zuordnen'
+    instructions: 'Ordne jedem Satz (1–5) den passenden es-Typ (a–e) zu.'
+    left:
+      - { key: '1', text: 'Es regnet.' }
+      - { key: '2', text: 'Es freut mich, dass du da bist.' }
+      - { key: '3', text: 'Es gibt keine einfache Lösung.' }
+      - { key: '4', text: 'Es kommt darauf an, dass wir pünktlich sind.' }
+      - { key: '5', text: 'Es zeigt sich, dass die Methode funktioniert.' }
+    right:
+      - { key: a, text: 'Vorfeld-es (Platzhalter)' }
+      - { key: b, text: 'Korrelat-es (vertritt ein Satzglied)' }
+      - { key: c, text: 'Existenz-es (es gibt)' }
+      - { key: d, text: 'unpersönliches es (formales Subjekt)' }
+      - { key: e, text: 'unpersönliches es (in Wendung)' }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+
+  - id: B8
+    block: B
+    type: free-write
+    title: 'Einen Feuilleton-Satz schreiben'
+    prompt: 'Schreibe einen kurzen Feuilleton-Satz (5–7 Zeilen) zu einem Thema deiner Wahl. Setze gezielt ein: mindestens eine Konjunktiv-Form (I oder II), eine Negation mit Korrelat (z. B. „weder … noch", „nicht nur … sondern auch"), eine Modalpartikel direkt nach dem Verb und ein „es" (gleich welcher Typ).'
+    stimulus: |
+      Themen-Vorschläge: KI in der Arbeitswelt, Lesen in der digitalen Zeit, Wohnen in der Stadt, Wochenendpläne, das Wetter, ein aktuelles Buch.
+    use:
+      - 'Mindestens eine Konjunktiv-Form (Konjunktiv I für indirekte Rede ODER Konjunktiv II für Irrealis / Höflichkeit)'
+      - 'Mindestens ein Negations-Korrelat (weder … noch / nicht nur … sondern auch)'
+      - 'Mindestens eine Modalpartikel direkt nach dem Verb (doch, ja, eben, halt, wohl, schon, mal, eigentlich)'
+      - 'Mindestens ein „es" (Vorfeld, Korrelat, Existenz oder unpersönlich)'
+    selfCheck:
+      - 'Steht die Modalpartikel DIREKT nach dem finiten Verb?'
+      - 'Ist die Verneinung mit dem richtigen Korrelat gebildet (nicht zwei Verneinungen ohne Korrelat)?'
+      - 'Ist der Konjunktiv korrekt — oder verwende ich „würde + Infinitiv" als sichere Ersatzform?'
+      - 'Ist die Wortstellung idiomatisch (Tekamalo, schwere Glieder rechts)?'
+    model: |
+      „Dass KI die Arbeitswelt verändert habe, dürfte mittlerweile unstrittig sein — doch weder die Politik noch die Wirtschaft wollen das wahrhaben. Eigentlich müsste man hier ehrlicher sein: Es fehlt nicht an Erkenntnissen, sondern am Willen, sie umzusetzen. Keinesfalls darf man sagen, das Problem sei neu — nicht nur die Tech-Branche, sondern auch die Gesellschaft ist gefordert. Es liegt nahe, dass sich in den nächsten Jahren einiges ändern wird."
+
+  - id: B9
+    block: B
+    type: free-write
+    title: 'Konjunktiv in einer Rezension'
+    prompt: 'Du hast ein Buch gelesen und schreibst eine kurze Rezension (6–8 Sätze). Baue mindestens drei indirekte Zitate ein (Konjunktiv I oder „würde + Infinitiv"), eine Höflichkeitsbitte, eine Negation mit Korrelat und mindestens eine Modalpartikel.'
+    stimulus: |
+      Buch: „Sprachwandel" von Prof. Dr. Berger (ein erfundenes linguistisches Werk). Du gibst die Thesen des Autors wieder und nimmst gleichzeitig höflich Stellung.
+    use:
+      - 'Mindestens 3 indirekte Zitate (Konjunktiv I oder „würde")'
+      - 'Eine Höflichkeitsbitte (Konjunktiv II: „Ich hätte gern …" oder „Ich würde mir wünschen …")'
+      - 'Eine Negation mit Korrelat („weder … noch" oder „nicht nur … sondern auch")'
+      - 'Mindestens eine Modalpartikel direkt nach dem Verb'
+    selfCheck:
+      - 'Habe ich wirklich Konjunktiv I verwendet — oder bin ich in den Indikativ zurückgefallen?'
+      - 'Klingt mein Text durchgehend wie eine Rezension, nicht wie eine Inhaltsangabe?'
+      - 'Wird meine eigene Meinung klar von der Wiedergabe des Autors getrennt?'
+      - 'Steht die Modalpartikel direkt nach dem Verb?'
+    model: |
+      „Prof. Berger argumentiert, der Sprachwandel sei kein Verfall, sondern eine Anpassung an veränderte Lebenswelten. Er schreibt, das Englische verdränge das Deutsche nicht — vielmehr verändere sich die Rolle des Deutschen in einer mehrsprachigen Welt. Ich würde dem Autor in den meisten Punkten zustimmen; nur in seiner Einschätzung der Jugendsprache hätte ich gern mehr Differenzierung gesehen. Weder die These noch das Material sind neu, nicht nur für Sprachwissenschaftler, sondern auch für interessierte Laien ist das Buch lesenswert. Berger betont, weitere Studien seien nötig — und ich kann dem nur beipflichten."
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: 'Lückentext: Feinheiten der Grammatik'
+    instructions: 'Füll jede Lücke mit **einem** passenden Wort. 10 Items.'
+    text: |
+      Auf C1-Niveau beherrscht man die {1} Feinheiten der deutschen
+      Grammatik. Der {2} I markiert in der indirekten Rede
+      Distanz: „Sie sagt, sie {3} morgen." Bei Verben, deren
+      Konjunktiv-I-Form mit dem {4} identisch klingt,
+      weicht man auf „würde + {5}" aus. Der Konjunktiv II
+      dient dem {6} („Wenn ich Zeit hätte, würde ich mehr
+      lesen") und der Höflichkeit („Ich {7} gern eine Tasse
+      Kaffee"). Verneinung folgt klaren Regeln: „{8}" ersetzt
+      den unbestimmten Artikel, „nicht" verneint alles andere.
+      Im Mittelfeld gilt die Tekamalo-Reihenfolge: {9} vor
+      Kausal, Modal vor Lokal. Das Wörtchen „{10}" hat vier
+      wichtige Funktionen: Vorfeld, Korrelat, Existenz, unpersönlich.
+    answers:
+      "1": kleinen
+      "2": Konjunktiv
+      "3": komme
+      "4": Indikativ
+      "5": Infinitiv
+      "6": Irrealis
+      "7": hätte
+      "8": kein
+      "9": Temporal
+      "10": es
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: 'Sprachbausteine Teil 1'
+    optionLayout: block
+    instructions: 'Wähle die passende Option (a, b oder c) für jede Lücke.'
+    items:
+      - q: 'Sie sagt, sie {1} morgen.'
+        options:
+          - { key: a, text: 'kommt' }
+          - { key: b, text: 'komme' }
+          - { key: c, text: 'würde kommen' }
+        answer: b
+        why: 'Konjunktiv I („komme") ist die direkte Wiedergabe der indirekten Rede.'
+      - q: 'Wenn ich Zeit {1}, würde ich mehr lesen.'
+        options:
+          - { key: a, text: 'habe' }
+          - { key: b, text: 'hätte' }
+          - { key: c, text: 'hatte' }
+        answer: b
+        why: 'Irrealis Bedingung: Konjunktiv II („hätte").'
+      - q: '{1} der Vater noch die Mutter wollten umkehren.'
+        options:
+          - { key: a, text: 'Weder' }
+          - { key: b, text: 'Nicht' }
+          - { key: c, text: 'Kein' }
+        answer: a
+        why: '„Weder … noch" verneint zwei Glieder.'
+      - q: 'Es {1} einen Ausweg.'
+        options:
+          - { key: a, text: 'regnet' }
+          - { key: b, text: 'gibt' }
+          - { key: c, text: 'ist' }
+        answer: b
+        why: '„Es gibt" = Existenz-es.'
+      - q: 'Das ist {1} unmöglich.'
+        options:
+          - { key: a, text: 'nicht' }
+          - { key: b, text: 'kein' }
+          - { key: c, text: 'keine' }
+        answer: a
+        why: 'Doppelte Verneinung: „nicht unmöglich" = „möglich".'
+      - q: 'Er tut so, {1} er alles wüsste.'
+        options:
+          - { key: a, text: 'als ob' }
+          - { key: b, text: 'wenn' }
+          - { key: c, text: 'weil' }
+        answer: a
+        why: '„als ob + Konjunktiv II" = irrealer Vergleich.'
+
+  - id: C3
+    block: C
+    type: gap-bank
+    bankCase: upper
+    bankSort: true
+    title: 'Sprachbausteine Teil 2 (Wortbank)'
+    instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    text: |
+      Auf C1-Niveau nutzt man den {1} I für die indirekte Rede:
+      „Sie sagt, sie {2} morgen." Wenn die Form gleich klingt
+      wie der {3}, weicht man auf „würde + Infinitiv" aus. Der
+      Konjunktiv II {4} für Irrealis und Höflichkeit: „Ich
+      {5} gern einen Kaffee." Verneinung mit „{6}" ersetzt den
+      unbestimmten Artikel; „nicht" verneint alles andere. Im
+      {7} gilt Tekamalo: Temporal vor Kausal. Das „{8}" hat
+      vier Funktionen: Vorfeld, Korrelat, {9} und unpersönlich.
+      Wer alle Werkzeuge kombiniert, schreibt {10} und idiomatisch.
+    bank: [KONJUNKTIV, KOMME, INDIKATIV, DIENT, HÄTTE, KEIN, MITTELFELD, ES, EXISTENZ, GEHOBEN, WÜRDE, MÖCHTE, KEINE, NACHFELD, VERBALSTIL]
+    answers:
+      "1": KONJUNKTIV
+      "2": KOMME
+      "3": INDIKATIV
+      "4": DIENT
+      "5": HÄTTE
+      "6": KEIN
+      "7": MITTELFELD
+      "8": ES
+      "9": EXISTENZ
+      "10": GEHOBEN
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: 'Lesen Text 1 (Lesetext: Grammatik als Stilmittel)'
+    instructions: |
+      > Wer eine Sprache wirklich beherrscht, beherrscht nicht nur ihre Wörter, sondern auch die kleinen Werkzeuge, die zwischen den Wörtern stehen: den Konjunktiv, die Negation, die Wortstellung, das Wörtchen „es". Auf den unteren Stufen lernt man, was ein Satz bedeutet. Auf C1 lernt man, wie er klingt — und das macht den Unterschied.
+      >
+      > Besonders wirksam ist der Konjunktiv. Wer „Sie sagt, sie habe Zeit" statt „sie hat Zeit" schreibt, markiert Distanz. Wer „Ich würde das nicht so sagen" statt „Das ist falsch" sagt, schwächt ab. Wer „Es wäre schön, wenn wir uns treffen könnten" schreibt, öffnet eine Möglichkeit, ohne sie aufzuzwingen.
+      >
+      > Ebenso wirksam ist die Negation mit Korrelat. „Weder A noch B" ist stärker als „Nicht A und nicht B"; „Nicht nur A, sondern auch B" ist eindrucksvoller als „A und auch B". Dazu kommt die doppelte Verneinung — „Das ist nicht uninteressant" —, die im Deutschen eine elegante Bejahung ist.
+      >
+      > Schließlich die Wortstellung im Mittelfeld. Die Tekamalo-Reihenfolge gibt einen Rahmen; die Modalpartikeln direkt nach dem Verb setzen Nuancen; das Scrambling schwerer Glieder nach rechts macht den Satz flüssig. Wer diese drei Mechanismen versteht, kann einen grammatisch korrekten Satz nehmen und ihn klingen lassen — wie ein Musikstück, bei dem nicht die Noten, sondern die Phrasierung den Unterschied macht.
+
+      Richtig (R) oder Falsch (F)?
+    items:
+      - q: 'Laut Text lernt man auf C1 nicht nur, was ein Satz bedeutet, sondern auch, wie er klingt.'
+        answer: true
+        why: '„Auf C1 lernt man, wie er klingt — und das macht den Unterschied."'
+      - q: 'Wer „Das ist falsch" sagt, markiert Distanz zur eigenen Aussage.'
+        answer: false
+        why: '„Wer schreibt: ‚Ich würde das nicht so sagen‘ statt ‚Das ist falsch‘, schwächt ab". „Das ist falsch" markiert KEINE Distanz.'
+      - q: '„Weder A noch B" ist laut Text stärker als „Nicht A und nicht B".'
+        answer: true
+        why: '„‚Weder A noch B‘ ist stärker als ‚Nicht A und nicht B‘".'
+      - q: 'Die doppelte Verneinung ist im Deutschen eine elegante Bejahung.'
+        answer: true
+        why: '„die doppelte Verneinung — ‚Das ist nicht uninteressant‘ —, die im Deutschen eine elegante Bejahung ist".'
+      - q: 'Die Wortstellung im Mittelfeld ist nach dem Text völlig beliebig.'
+        answer: false
+        why: 'Der Text sagt: „Die Tekamalo-Reihenfolge gibt einen Rahmen" — die Wortstellung folgt also klaren Regeln, sie ist nicht beliebig.'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: 'Lesen Text 2 (Forumsdiskussion: Brauchen wir den Konjunktiv noch?)'
+    optionLayout: block
+    instructions: |
+      Lies die folgenden Forumsbeiträge und wähle a, b oder c.
+
+      > **Beitrag 1 — Redaktion (Moderation):**
+      > Liebe Community, heute diskutieren wir: Brauchen wir den Konjunktiv noch? Wer schreibt noch Konjunktiv I in der indirekten Rede?
+      >
+      > **Beitrag 2 — Mia_B:**
+      > Im Alltag höre ich fast nur „würde + Infinitiv". Aber wer auf C-Niveau schreibt, sollte den echten Konjunktiv I beherrschen — gerade in der indirekten Rede ist er nötig.
+      >
+      > **Beitrag 3 — Lukas_T:**
+      > Ich finde, „würde + Infinitiv" reicht völlig. Wer versteht schon den Unterschied zwischen „sei" und „wäre"? Das macht die Sprache nur komplizierter.
+      >
+      > **Beitrag 4 — Dr_Berger (Linguist):**
+      > Die Frage ist nicht „brauchen wir ihn", sondern „wann ist er nötig". In der gehobenen Schriftsprache ist der echte Konjunktiv I nicht ersetzbar; im Mündlichen ist die Ersatzform idiomatisch.
+    items:
+      - q: 'Was ist die Leitfrage der Diskussion?'
+        options:
+          - { key: a, text: 'Brauchen wir den Konjunktiv noch?' }
+          - { key: b, text: 'Ist Deutsch eine schwierige Sprache?' }
+          - { key: c, text: 'Wer schreibt die besten Texte?' }
+        answer: a
+        why: '„heute diskutieren wir: Brauchen wir den Konjunktiv noch?"'
+      - q: 'Welche Position vertritt Mia (Beitrag 2)?'
+        options:
+          - { key: a, text: '„würde + Infinitiv" reicht völlig.' }
+          - { key: b, text: 'Wer auf C-Niveau schreibt, sollte den echten Konjunktiv I beherrschen.' }
+          - { key: c, text: 'Konjunktiv ist überflüssig.' }
+        answer: b
+        why: '„Wer auf C-Niveau schreibt, sollte den echten Konjunktiv I beherrschen".'
+      - q: 'Was kritisiert Lukas (Beitrag 3)?'
+        options:
+          - { key: a, text: 'Dass „würde + Infinitiv" zu selten verwendet wird.' }
+          - { key: b, text: 'Dass der Unterschied zwischen „sei" und „wäre" zu kompliziert ist.' }
+          - { key: c, text: 'Dass Konjunktiv zu leicht zu lernen ist.' }
+        answer: b
+        why: '„Wer versteht schon den Unterschied zwischen ‚sei‘ und ‚wäre‘? Das macht die Sprache nur komplizierter".'
+      - q: 'Welche Position vertritt Dr. Berger (Beitrag 4)?'
+        options:
+          - { key: a, text: 'Konjunktiv I ist überflüssig.' }
+          - { key: b, text: 'Konjunktiv ist situationsabhängig nötig (Schriftsprache vs. Mündlich).' }
+          - { key: c, text: 'Nur Konjunktiv II ist wichtig.' }
+        answer: b
+        why: '„In der gehobenen Schriftsprache ist der echte Konjunktiv I nicht ersetzbar; im Mündlichen ist die Ersatzform idiomatisch".'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: 'Schreiben: grammatisch präzise Stellungnahme'
+    prompt: 'Verfasse eine kurze Stellungnahme (10–14 Sätze) zu der Frage: „Brauchen wir den Konjunktiv noch — oder reicht ‚würde + Infinitiv‘?" Argumentiere sachlich und abgewogen. Setze gezielt ein: Konjunktiv I (für indirekte Zitate) und/oder Konjunktiv II (für Irrealis oder Höflichkeit), mindestens eine Negation mit Korrelat (weder … noch, nicht nur … sondern auch), mindestens zwei Modalpartikeln und mindestens ein „es". Schließe mit einer vorsichtigen Folgerung.'
+    use:
+      - 'Mindestens 2 indirekte Zitate (Konjunktiv I oder „würde + Infinitiv")'
+      - 'Mindestens 1 Konjunktiv II (Irrealis oder Höflichkeit)'
+      - 'Mindestens 1 Korrelat (weder … noch / nicht nur … sondern auch)'
+      - 'Mindestens 2 Modalpartikeln (doch, ja, eben, halt, wohl, schon, mal, eigentlich)'
+      - 'Mindestens 1 „es" (Vorfeld, Korrelat, Existenz oder unpersönlich)'
+      - 'Hedging-Mittel (dürfte, vermutlich, tendenziell) — siehe C1/05'
+    selfCheck:
+      - 'Habe ich indirekte Rede wirklich im Konjunktiv I wiedergegeben (oder in den Indikativ gefallen)?'
+      - 'Stehen die Modalpartikeln direkt nach dem Verb (nicht am Satzende)?'
+      - 'Ist die Wortstellung idiomatisch (Tekamalo, schwere Glieder rechts)?'
+      - 'Wird meine eigene Meinung klar von den zitierten Positionen getrennt?'
+      - 'Schließt der Text mit einer vorsichtigen, abgewogenen Folgerung?'
+    model: |
+      „Die Frage, ob wir den Konjunktiv noch brauchen, wird seit Jahren kontrovers diskutiert. Im Alltag hört man tatsächlich fast nur noch ‚würde + Infinitiv‘ — und es wäre verfehrt, diese Ersatzform zu verteufeln. Sie ist idiomatisch, unmissverständlich und in der gesprochenen Sprache oft die bessere Wahl. Andererseits gilt: Wer im gehobenen Register schreibt, kommt am echten Konjunktiv I nicht vorbei. Wer behauptet, die indirekte Rede brauche keinen Konjunktiv mehr, ignoriert, dass die Schriftsprache andere Mittel verlangt als die Umgangssprache. Einer verbreiteten Ansicht zufolge reiche ‚würde + Infinitiv‘ — doch weder die Linguistik noch die literarische Tradition stützen diese These. Nicht nur in der Wissenschaft, sondern auch im Feuilleton spielt der Konjunktiv I eine zentrale Rolle. Es dürfte daher sinnvoller sein, beide Formen zu beherrschen und je nach Situation die passende zu wählen. Abschließend lässt sich der Schluss ziehen, dass der Konjunktiv nicht ersetzt, wohl aber ergänzt werden sollte."
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: 'Gemischter Schnelltest'
+    instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (B2/..) oder (C1/..) wiederholen frühere Lektionen. 15 Items.'
+    text: |
+      **Konjunktiv (C1/06):**
+      1. Indirekte Rede: Sie sagt, sie {1} morgen. (Konjunktiv I)
+      2. Irrealis: Wenn ich Zeit {2}, würde ich mehr lesen. (Konjunktiv II)
+      3. Höflichkeit: Ich {3} gern eine Tasse Kaffee. (Konjunktiv II)
+      4. Ersatzform: Er sagt, er {4} morgen kommen. (würde + Infinitiv)
+
+      **Negation (C1/06):**
+      5. Existenz: Ich habe {5} Zeit. (kein / keine / keinen)
+      6. Korrelat: {6} Anna {7} Bruno kommen. (weder / noch)
+
+      **Wortstellung (C1/06):**
+      7. Tekamalo-Reihenfolge (Stichworte): {8} > Kausal > Modal > {9}.
+      8. Modalpartikel steht direkt {10} dem Verb.
+
+      **es-Konstruktionen (C1/06):**
+      9. „Es regnet." — {11}-es.
+      10. „Es freut mich, dass …" — {12}-es.
+
+      **Wiederholung (B2/04 Indirekte Rede):**
+      11. (B2/04) Indikativ „ist" → Konjunktiv I: {13}.
+      12. (B2/04) Indikativ „geht" → Konjunktiv I: {14} (oft durch „würde gehen" ersetzt).
+
+      **Wiederholung (C1/03 Modalpartikeln):**
+      13. (C1/03) Erwartung enttäuschen: {15}.
+    answers:
+      "1": komme
+      "2": hätte
+      "3": hätte
+      "4": würde
+      "5": keine
+      "6": Weder
+      "7": noch
+      "8": Temporal
+      "9": Lokal
+      "10": nach
+      "11": Vorfeld
+      "12": Korrelat
+      "13": sei
+      "14": gehe
+      "15": doch
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: 'Odd one out: Grammatik-Feinheiten'
+    instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    groups:
+      - items: ['sei', 'habe', 'werde', 'möchte']
+        odd: 3
+        why: '„sei / habe / werde" sind Konjunktiv I (indirekte Rede); „möchte" ist eine eigene Verbform (Präteritum von „mögen").'
+      - items: ['hätte', 'wäre', 'würde', 'wisse']
+        odd: 3
+        why: '„hätte / wäre / würde" sind die sicheren Konjunktiv-II-Formen; „wisse" ist Konjunktiv I (oft durch „würde wissen" ersetzt).'
+      - items: ['nicht', 'kein', 'keinesfalls', 'sicher']
+        odd: 3
+        why: '„nicht / kein / keinesfalls" sind Negationsmittel; „sicher" ist ein Verstärker, keine Verneinung.'
+      - items: ['weder … noch', 'nicht nur … sondern auch', 'zwar … aber', 'und']
+        odd: 3
+        why: '„weder … noch / nicht nur … sondern auch / zwar … aber" sind Korrelate; „und" ist eine einfache Konjunktion.'
+      - items: ['Vorfeld-es', 'Korrelat-es', 'Existenz-es', 'Subjekt-es']
+        odd: 3
+        why: '„Vorfeld / Korrelat / Existenz-es" sind drei der vier es-Typen; „Subjekt-es" ist KEIN offizieller Typ.'
+      - items: ['Temporal', 'Kausal', 'Modal', 'Final']
+        odd: 3
+        why: '„Temporal / Kausal / Modal" sind die ersten drei Stellen der Tekamalo-Reihenfolge; „Final" gehört nicht dazu.'
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: 'Rückblick: B2/03, B2/04, C1/03, C1/05, C1/06'
+    instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    text: |
+      **Aus B2/03 (Konjunktiv II):**
+      1. Höflichkeitsbitte: Ich {1} gern einen Kaffee.
+      2. Irrealis: Wenn ich Zeit {2}, würde ich mehr lesen.
+
+      **Aus B2/04 (Indirekte Rede):**
+      3. „er hat" → Konjunktiv I: {3}.
+      4. „er ist" → Konjunktiv I: {4}.
+
+      **Aus C1/03 (Modalpartikeln):**
+      5. Erwartung enttäuschen: {5}.
+      6. Vermutung: Er hat {6} keine Lust.
+
+      **Aus C1/05 (Wissenschaftssprache):**
+      7. Hedging-Modalverb: Das {7} zutreffen.
+      8. Hedging-Wendung: Die Daten {8} darauf hin.
+
+      **Aus C1/06 (Feinheiten):**
+      9. Korrelat: {9} Anna {10} Bruno kommen. (weder / noch)
+    answers:
+      "1": hätte
+      "2": hätte
+      "3": habe
+      "4": sei
+      "5": doch
+      "6": wohl
+      "7": dürfte
+      "8": deuten
+      "9": Weder
+      "10": noch
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: 'Selbsttest (bewerte dich /20)'
+    notes: '16+ / 20 → Lektion C1/07. Unter 16 → wiederhol morgen Block A (A1–A12) und Block B (B1–B9), dann mach D4 noch einmal.'
+    text: |
+      **Konjunktiv I:**
+      1. Indirekte Rede: Sie sagt, sie {1} morgen.
+      2. „er ist" → Konjunktiv I: {2}.
+      3. Ersatzform bei Homophonie: „würde + {3}".
+
+      **Konjunktiv II:**
+      4. Höflichkeit: Ich {4} gern einen Kaffee.
+      5. Irrealis Vergangenheit: Wenn ich Zeit gehabt {5}, hätte ich gelesen.
+      6. Irrealer Vergleich: als {6} + Konjunktiv II.
+
+      **Negation:**
+      7. Existenz: Ich habe {7} Zeit.
+      8. Korrelat: {8} Anna {9} Bruno kommen.
+      9. Doppelte Verneinung: Das ist {10} unmöglich (= möglich).
+
+      **Wortstellung:**
+      10. Tekamalo-Reihenfolge: {11} > Kausal > Modal > Lokal.
+      11. Modalpartikel steht direkt {12} dem Verb.
+
+      **es-Konstruktionen:**
+      12. „Es regnet" → {13}-es.
+      13. „Es freut mich, dass …" → {14}-es.
+      14. „Es gibt einen Ausweg" → {15}-es.
+      15. „Es kommt darauf an, dass …" → {16} {17}-es.
+
+      **Wiederholung (C1/05):**
+      16. (C1/05) Hedging-Modalverb: Das {18} zutreffen.
+      17. (C1/05) FVG: zu dem Schluss {19}.
+      18. (C1/05) Redewiedergabe in der Wissenschaft: {20}.
+    answers:
+      "1": komme
+      "2": sei
+      "3": Infinitiv
+      "4": hätte
+      "5": hätte
+      "6": ob
+      "7": keine
+      "8": Weder
+      "9": noch
+      "10": nicht
+      "11": Temporal
+      "12": nach
+      "13": Vorfeld
+      "14": Korrelat
+      "15": Existenz
+      "16": unpersönliches
+      "17": es
+      "18": dürfte
+      "19": kommen
+      "20": Konjunktiv I
