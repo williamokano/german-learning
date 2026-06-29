@@ -58,7 +58,7 @@ buildsOn:
 > **Mia:** Genau. Die Schlussfolgerung darf deine These weder wiederholen noch ablehnen — sie soll sie **begründet einordnen**. Vielleicht so: „KI kann den Unterricht ergänzen, aber nur unter der Voraussetzung, dass die Lehrerrolle gestärkt und die Datenschutzfragen geklärt werden."  
 > **Lukas:** Und vergiss die Kohärenz nicht: **Einerseits** ermöglicht KI Individualisierung, **andererseits** verstärkt sie Ungleichheit; **zwar** ist KI inzwischen leistungsfähig, **aber** sie halluziniert; **nicht nur** der Lernfortschritt zählt, **sondern auch** die soziale Dimension.  
 > **Anna:** Aha, das bringt Struktur. Danke euch beiden! Dann schreib ich heute Abend die Einleitung und morgen den Hauptteil.  
-> **Mia:** Bring mir den Entwurf morgen mit. Ich les die Konnektoren Korrektur — die müssen **doppelt gepaart** sein, sonst wirkt es holprig.
+> **Mia:** Bring mir den Entwurf morgen mit. Ich korrigiere nachher die Konnektoren — die müssen **doppelt gepaart** sein, sonst wirkt es holprig.
 
 ### Dialog B: Frau Weber und Yusuf arbeiten an einem Abstract (formell — Sie, 2 Personen)
 
@@ -176,7 +176,7 @@ Du wirst dich dabei auf die Werkzeuge aus **C1/05** stützen: unpersönliches Fo
 
 *Lies den Text einmal zügig, einmal langsam. Unterstreiche jede Struktur: Einleitung, These, Pro-Argumente, Contra-Argumente, Schlussfolgerung. Markiere auch die Kohärenzmittel (Konnektoren, Rückverweise, Themenführungen).*
 
-Am Mittwochabend sitzt Anna an ihrem Schreibtisch und starrt auf den Laptop. Die lineare Erörterung zu Künstlicher Intelligenz im Schulunterricht — sie hat sie schon dreimal umgeschrieben. **Im ersten Versuch** schrieb sie alles aus dem Bauch heraus, ohne Struktur: erst zwei Seiten Pro-Argumente, dann plötzlich drei Seiten Contra, dann eine Art Schluss, der weder zur These noch zu den Argumenten passte. **Im zweiten Versuch** baute sie die ganze Erörterung als reine Pro-und-Contra-Liste auf — was zwar geordnet wirkte, aber **weder einleitung noch schlussfolgerung richtig verband**. **Nun, im dritten Anlauf**, geht sie systematisch vor.
+Am Mittwochabend sitzt Anna an ihrem Schreibtisch und starrt auf den Laptop. Die lineare Erörterung zu Künstlicher Intelligenz im Schulunterricht — sie hat sie schon dreimal umgeschrieben. **Im ersten Versuch** schrieb sie alles aus dem Bauch heraus, ohne Struktur: erst zwei Seiten Pro-Argumente, dann plötzlich drei Seiten Contra, dann eine Art Schluss, der weder zur These noch zu den Argumenten passte. **Im zweiten Versuch** baute sie die ganze Erörterung als reine Pro-und-Contra-Liste auf — was zwar geordnet wirkte, aber **weder Einleitung noch Schlussfolgerung richtig verband**. **Nun, im dritten Anlauf**, geht sie systematisch vor.
 
 **Zunächst** schreibt sie die Einleitung. Sie beginnt mit einer knappen Hinführung — keine ausschweifende Vorgeschichte, sondern ein präziser Hinweis auf den aktuellen Diskurs: *„Seit der Verbreitung leistungsfähiger KI-Systeme wird auch in Deutschland diskutiert, ob diese den Präsenzunterricht an Schulen ergänzen oder ersetzen können."* Dann nennt sie ihre These: *„Die vorliegende Arbeit vertritt die These, dass KI den Präsenzunterricht ergänzen, jedoch nicht ersetzen kann."* Eine **These**, die weder reine Zustimmung noch pauschale Ablehnung ist.
 

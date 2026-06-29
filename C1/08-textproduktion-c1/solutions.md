@@ -54,7 +54,7 @@
 
 ## Übung A2 — Konnektorenpaare ergänzen
 
-1. **dass**  2. **Schüler individuell gefördert werden können**  3. **Andererseits**  4. **jedoch**  5. **birgt er Risiken**  6. **nicht**  7. **sondern**  8. **auch**
+1. **dass**  2. **Schüler individuell gefördert werden können**  3. **Andererseits**  4. **jedoch**  5. **fehlt eine klare Regelung**  6. **nicht**  7. **sondern**  8. **auch**
 
 ## Übung A3 — Zusammenfassung — linear oder selektiv?
 
@@ -98,7 +98,7 @@
 
 ## Übung A10 — Eine Erörterung in die richtige Reihenfolge bringen
 
-1. Im Folgenden wird die Frage untersucht, ob KI den Präsenzunterricht ersetzen sollte. Die vorliegende Arbeit vertritt die These, dass KI den Unterricht ergänzen, jedoch nicht ersetzen kann. Zunächst spricht für den Einsatz, dass KI-Tutoren individuelles Lernen ermöglichen. Demnach lässt sich festhalten, dass die These nur bedingt aufrechterhalten werden kann. Andererseits ist einzuwenden, dass KI halluziniert und so verlässliche Aussagen gefährdet.
+1. Im Folgenden wird die Frage untersucht, ob KI den Präsenzunterricht ersetzen sollte. Die vorliegende Arbeit vertritt die These, dass KI den Unterricht ergänzen, jedoch nicht ersetzen kann. Zunächst spricht für den Einsatz, dass KI-Tutoren individuelles Lernen ermöglichen. Andererseits ist einzuwenden, dass KI halluziniert und so verlässliche Aussagen gefährdet. Demnach lässt sich festhalten, dass die These nur bedingt aufrechterhalten werden kann.
    _Einleitung/These → Pro → Contra → Schlussfolgerung._
 
 ---
@@ -174,16 +174,16 @@ Selbstkorrektur:
 
 ## Übung C1 — Lückentext: Die vier Textsorten im Vergleich
 
-1. **Erörterung**  2. **Schlussfolgerung**  3. **Zusammenfassung**  4. **verfälschen**  5. **Stellungnahme**  6. **mit Argumenten**  7. **IMRD**  8. **Methoden**  9. **unpersönlich**  10. **Verständlichkeit**
+1. **Erörterung**  2. **Schlussfolgerung**  3. **Zusammenfassung**  4. **verfälschen**  5. **Stellungnahme**  6. **mit Argumenten**  7. **IMRD**  8. **Methoden**  9. **sachlich**  10. **Verständlichkeit**
 
 ## Übung C2 — Sprachbausteine Teil 1
 
 1. **b) wird** — Vorgangspassiv Präsens: „wird … untersucht".
 2. **b) vertritt die These** — „Die These vertreten" ist die Standardformulierung für die Hauptbehauptung.
-3. **b) dass KI (in untersorgten Regionen eine Brücke sein) kann** — „Einerseits …, dass …" — Pro-Argument mit Konjunktion „dass".
+3. **b) dass KI in untersorgten Regionen eine Brücke sein kann** — „Einerseits …, dass …" — Pro-Argument mit Konjunktion „dass".
 4. **b) sei** — Konjunktiv I der Redewiedergabe: „sei".
 5. **b) deuten** — Hedging: „deuten darauf hin".
-6. **c) enthält die fünf** — „… enthält …" — Verb an der dritten Stelle; Subjekt „die fünf Bausteine".
+6. **c) enthält** — „… enthält …" — Verb an der zweiten Stelle; Subjekt „die fünf Bausteine".
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 

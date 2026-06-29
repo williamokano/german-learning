@@ -34,7 +34,7 @@ Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.
+Hör den Hörtext und füll die 6 Lücken. Vier Wörter im Kasten sind zu viel.
 
 > Liebe Teilnehmerinnen und Teilnehmer, willkommen zur Schreibwerkstatt
 > „Erörterung leicht gemacht". Heute geht es um drei (1) ______. Erstens:
@@ -99,7 +99,7 @@ Wähle die korrekte Reihenfolge der Bestandteile einer linearen Erörterung.
 
 ## Übung A2 — Konnektorenpaare ergänzen
 
-Setze das passende Pendant ein. 6 Items.
+Setze das passende Pendant ein. 8 Lücken.
 
 1. Einerseits spricht für den KI-Einsatz, ______ ______ (Stichprobenvorteil).
 2. ______ birgt der Einsatz Risiken; ______ ______ für die Datensicherheit.
@@ -117,7 +117,7 @@ Wähle die korrekte Antwort (a, b oder c).
 
 ## Übung A4 — Stellungnahme: Bausteine einsetzen
 
-Setze die passenden Redemittel ein (Position, Begründung, Gegenposition, Schluss). 6 Items.
+Setze die passenden Redemittel ein (Position, Begründung, Gegenposition, Schluss). 5 Lücken.
 
 1. ______ nach sollte KI nicht verboten, sondern curricular eingebettet werden.
 2. Dies lässt sich vor allem ______ begründen, dass Verbote den reflektierten Umgang verhindern.
@@ -135,7 +135,7 @@ Welcher IMRD-Baustein passt an der markierten Stelle?
 
 ## Übung A6 — Abstract: IMRD-Bausteine in der richtigen Reihenfolge
 
-Füll die 5 Lücken mit den passenden Bausteinen aus dem Kasten. Drei Wörter sind zu viel.
+Füll die 5 Lücken mit den passenden Bausteinen aus dem Kasten. Sechs Wörter sind zu viel.
 
 > 1. Vor dem Hintergrund der wachsenden KI-Verbreitung (1) ______ der Frage nachgegangen, ob
 > KI den Unterricht ergänzen kann.
@@ -160,7 +160,7 @@ Ordne jedes Kohärenzmittel (1–5) dem passenden Beispiel (a–e) zu.
 
 ## Übung A8 — Kohärenz: Rückverweise und Themenführungen
 
-Setze die passende Form ein (diese/jene/dieser, im Folgenden, wie oben, abschließend). 6 Items.
+Setze die passende Form ein (Diese, im Folgenden, wie oben, abschließend, Anschließend). 6 Lücken.
 
 1. Die ______ genannte Stichprobe umfasste 200 Personen.
 2. ______ wird die Methodik erläutert.
@@ -240,7 +240,7 @@ Wähle die kohärenteste Formulierung.
 
 ## Übung B6 — Eine Erörterung kohärent ergänzen
 
-Füll die 6 Lücken mit Wörtern aus dem Kasten. Drei Wörter sind zu viel.
+Füll die 5 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel.
 
 > Im Folgenden (1) ______ die Frage untersucht, ob KI den Präsenzunterricht
 > ersetzen sollte. (2) ______ spricht für den KI-Einsatz, dass
@@ -330,14 +330,14 @@ Wähle die passende Option (a, b oder c) für jede Lücke.
 
 1. Im Folgenden {1} die Frage untersucht, ob KI den Unterricht ergänzen kann.  a) werde  b) wird  c) wurde
 2. Die vorliegende Arbeit {1}, dass KI den Unterricht ergänzen, aber nicht ersetzen kann.  a) argumentiert dafür  b) vertritt die These  c) sagt, dass
-3. Einerseits spricht für KI, {1} {2} {3} (Brückenfunktion).  a) andererseits (spricht sie dagegen)  b) dass KI (in untersorgten Regionen eine Brücke sein) kann  c) Zwar sie (brückt) Lücken
+3. Einerseits spricht für KI, {1} (Brückenfunktion).  a) andererseits spreche die Sicherheit dagegen  b) dass KI in untersorgten Regionen eine Brücke sein kann  c) Zwar brückt KI die Lücken nicht
 4. Schmidt schreibt, die Methode {1} umstritten.  a) ist  b) sei  c) wäre
 5. Die Ergebnisse {1} darauf hin, dass ein Zusammenhang besteht.  a) beweisen  b) deuten  c) zeigen klar
-6. Im Abstract {1} {2} der Bausteine Hintergrund, Ziel, Methoden, Ergebnisse und Schlussfolgerung {3} (Verb am Ende).  a) behandelt die Studie die fünf  b) sind die fünf wichtig  c) enthält die fünf
+6. Im Abstract {1} die fünf Bausteine Hintergrund, Ziel, Methoden, Ergebnisse und Schlussfolgerung.  a) behandelt die Studie  b) sind wichtig  c) enthält
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.
+Füll die 10 Lücken mit Wörtern aus dem Kasten. Drei Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.
 
 > Aus einem Schreibratgeber: „Eine gelungene (1) ______ verbindet
 > Einleitung, These, Hauptteil und (2) ______. Im Hauptteil werden

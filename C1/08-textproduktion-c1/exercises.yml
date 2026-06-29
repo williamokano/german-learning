@@ -80,7 +80,7 @@ exercises:
     type: gap-bank
     title: 'Hörtext-Lückentext: Schreibwerkstatt Erörterung'
     audio: hoertext.mp3
-    instructions: 'Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.'
+    instructions: 'Hör den Hörtext und füll die 6 Lücken. Vier Wörter im Kasten sind zu viel.'
     text: |
       Liebe Teilnehmerinnen und Teilnehmer, willkommen zur Schreibwerkstatt
       „Erörterung leicht gemacht". Heute geht es um drei {1}. Erstens:
@@ -221,7 +221,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Konnektorenpaare ergänzen'
-    instructions: 'Setze das passende Pendant ein. 6 Items.'
+    instructions: 'Setze das passende Pendant ein. 8 Lücken.'
     text: |
       1. Einerseits spricht für den KI-Einsatz, {1} {2} (Stichprobenvorteil).
       2. {3} birgt der Einsatz Risiken; {4} {5} für die Datensicherheit.
@@ -231,7 +231,7 @@ exercises:
       "2": Schüler individuell gefördert werden können
       "3": Andererseits
       "4": jedoch
-      "5": birgt er Risiken
+      "5": fehlt eine klare Regelung
       "6": nicht
       "7": sondern
       "8": auch
@@ -284,7 +284,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Stellungnahme: Bausteine einsetzen'
-    instructions: 'Setze die passenden Redemittel ein (Position, Begründung, Gegenposition, Schluss). 6 Items.'
+    instructions: 'Setze die passenden Redemittel ein (Position, Begründung, Gegenposition, Schluss). 5 Lücken.'
     text: |
       1. {1} nach sollte KI nicht verboten, sondern curricular eingebettet werden.
       2. Dies lässt sich vor allem {2} begründen, dass Verbote den reflektierten Umgang verhindern.
@@ -343,7 +343,7 @@ exercises:
     block: A
     type: gap-bank
     title: 'Abstract: IMRD-Bausteine in der richtigen Reihenfolge'
-    instructions: 'Füll die 5 Lücken mit den passenden Bausteinen aus dem Kasten. Drei Wörter sind zu viel.'
+    instructions: 'Füll die 5 Lücken mit den passenden Bausteinen aus dem Kasten. Sechs Wörter sind zu viel.'
     text: |
       1. Vor dem Hintergrund der wachsenden KI-Verbreitung {1} der Frage nachgegangen, ob
       KI den Unterricht ergänzen kann.
@@ -388,7 +388,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Kohärenz: Rückverweise und Themenführungen'
-    instructions: 'Setze die passende Form ein (diese/jene/dieser, im Folgenden, wie oben, abschließend). 6 Items.'
+    instructions: 'Setze die passende Form ein (Diese, im Folgenden, wie oben, abschließend, Anschließend). 6 Lücken.'
     text: |
       1. Die {1} genannte Stichprobe umfasste 200 Personen.
       2. {2} wird die Methodik erläutert.
@@ -459,7 +459,7 @@ exercises:
           - 'Andererseits ist einzuwenden, dass KI halluziniert und so verlässliche Aussagen gefährdet.'
           - 'Zunächst spricht für den Einsatz, dass KI-Tutoren individuelles Lernen ermöglichen.'
           - 'Die vorliegende Arbeit vertritt die These, dass KI den Unterricht ergänzen, jedoch nicht ersetzen kann.'
-        answer: [1, 4, 3, 0, 2]
+        answer: [1, 4, 3, 2, 0]
         note: 'Einleitung/These → Pro → Contra → Schlussfolgerung.'
 
   # ── Block B — Vertiefung ─────────────────────────────────────────────────
@@ -617,7 +617,7 @@ exercises:
     block: B
     type: gap-bank
     title: 'Eine Erörterung kohärent ergänzen'
-    instructions: 'Füll die 6 Lücken mit Wörtern aus dem Kasten. Drei Wörter sind zu viel.'
+    instructions: 'Füll die 5 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel.'
     text: |
       Im Folgenden {1} die Frage untersucht, ob KI den Präsenzunterricht
       ersetzen sollte. {2} spricht für den KI-Einsatz, dass
@@ -727,7 +727,7 @@ exercises:
       "6": "mit Argumenten"
       "7": "IMRD"
       "8": "Methoden"
-      "9": "unpersönlich"
+      "9": "sachlich"
       "10": "Verständlichkeit"
 
   - id: C2
@@ -751,11 +751,11 @@ exercises:
           - { key: c, text: 'sagt, dass' }
         answer: b
         why: '„Die These vertreten" ist die Standardformulierung für die Hauptbehauptung.'
-      - q: 'Einerseits spricht für KI, {1} {2} {3} (Brückenfunktion).'
+      - q: 'Einerseits spricht für KI, {1} (Brückenfunktion).'
         options:
-          - { key: a, text: 'andererseits (spricht sie dagegen)' }
-          - { key: b, text: 'dass KI (in untersorgten Regionen eine Brücke sein) kann' }
-          - { key: c, text: 'Zwar sie (brückt) Lücken' }
+          - { key: a, text: 'andererseits spreche die Sicherheit dagegen' }
+          - { key: b, text: 'dass KI in untersorgten Regionen eine Brücke sein kann' }
+          - { key: c, text: 'Zwar brückt KI die Lücken nicht' }
         answer: b
         why: '„Einerseits …, dass …" — Pro-Argument mit Konjunktion „dass".'
       - q: 'Schmidt schreibt, die Methode {1} umstritten.'
@@ -772,13 +772,13 @@ exercises:
           - { key: c, text: 'zeigen klar' }
         answer: b
         why: 'Hedging: „deuten darauf hin".'
-      - q: 'Im Abstract {1} {2} der Bausteine Hintergrund, Ziel, Methoden, Ergebnisse und Schlussfolgerung {3} (Verb am Ende).'
+      - q: 'Im Abstract {1} die fünf Bausteine Hintergrund, Ziel, Methoden, Ergebnisse und Schlussfolgerung.'
         options:
-          - { key: a, text: 'behandelt die Studie die fünf' }
-          - { key: b, text: 'sind die fünf wichtig' }
-          - { key: c, text: 'enthält die fünf' }
+          - { key: a, text: 'behandelt die Studie' }
+          - { key: b, text: 'sind wichtig' }
+          - { key: c, text: 'enthält' }
         answer: c
-        why: '„… enthält …" — Verb an der dritten Stelle; Subjekt „die fünf Bausteine".'
+        why: '„… enthält …" — Verb an der zweiten Stelle; Subjekt „die fünf Bausteine".'
 
   - id: C3
     block: C
@@ -786,7 +786,7 @@ exercises:
     bankCase: upper
     bankSort: true
     title: 'Sprachbausteine Teil 2 (Wortbank)'
-    instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Drei Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
     text: |
       Aus einem Schreibratgeber: „Eine gelungene {1} verbindet
       Einleitung, These, Hauptteil und {2}. Im Hauptteil werden
