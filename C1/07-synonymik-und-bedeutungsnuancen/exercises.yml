@@ -30,9 +30,9 @@ exercises:
       - q: 'Anna schlägt am Ende vor, „dringende Aufgabe" zu schreiben.'
         answer: true
         why: 'Anna: „Ich schreib meiner Chefin einfach: ‚Das Tool-Problem ist eine dringende Aufgabe, die wir gemeinsam lösen‘."'
-      - q: 'Mia findet, dass man mit dem falschen Wort „defätistisch" klingt.'
+      - q: 'Anna findet, dass man mit dem falschen Wort „defätistisch" klingt.'
         answer: true
-        why: 'Mia: „Dann sag: ‚Das ist eine Schwierigkeit, die wir aus dem Weg räumen müssen‘." Das klingt sachlich, nicht defätistisch.'
+        why: 'Anna: „Aber wenn ich in meiner Antwort schreibe ‚Das sehe ich als Problem‘, klingt das defätistisch."'
 
   - id: H1b
     block: H
@@ -113,7 +113,7 @@ exercises:
     audio: transcript_ansage1.mp3
     optionLayout: block
     instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
-    transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Sprachzentrums Berlin erreicht. Wir sind erreichbar von Montag bis Freitag, jeweils von zehn bis achtzehn Uhr. Außerhalb dieser Zeiten können Sie uns eine Nachricht hinterlassen — bitte ruf mich zurück, wenn Sie eine persönliche Beratung wünschen. Aktuell bieten wir Kurse auf den Niveaustufen A1 bis C1 an, darunter auch einen Vorbereitungskurs auf das Goethe-Zertifikat C1. Wenn Sie sich für einen Kurs anmelden möchten, schicken Sie uns bitte eine E-Mail mit Ihrem vollständigen Namen, Ihrem aktuellen Sprachniveau und Ihrem Wunschtermin. Vielen Dank für Ihren Anruf.'
+    transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Sprachzentrums Berlin erreicht. Wir sind erreichbar von Montag bis Freitag, jeweils von zehn bis achtzehn Uhr. Außerhalb dieser Zeiten können Sie uns eine Nachricht hinterlassen — bitte rufen Sie mich zurück, wenn Sie eine persönliche Beratung wünschen. Aktuell bieten wir Kurse auf den Niveaustufen A1 bis C1 an, darunter auch einen Vorbereitungskurs auf das Goethe-Zertifikat C1. Wenn Sie sich für einen Kurs anmelden möchten, schicken Sie uns bitte eine E-Mail mit Ihrem vollständigen Namen, Ihrem aktuellen Sprachniveau und Ihrem Wunschtermin. Vielen Dank für Ihren Anruf.'
     items:
       - q: 'Welche Einrichtung ist auf dem Anrufbeantworter zu hören?'
         options:
@@ -329,7 +329,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
-    title: 'Nomen einsetzen: Problem / Aufgabe / Herausforderung / Schwierigkeit'
+    title: 'Nomen einsetzen: Problem / Aufgabe / Herausforderung / Schwierigkeit / Ursache'
     instructions: 'Setze das passende Nomen ein. 6 Items.'
     text: |
       1. Das {1} ist, dass die Software jeden Tag abstürzt.
@@ -990,7 +990,7 @@ exercises:
       - q: '„Aufgabe" klingt laut Text motivierend und wertend.'
         answer: false
         why: '„Aufgabe klingt sachlich und zu bearbeiten"; „Herausforderung" klingt motivierend und wertend.'
-      - q: '„Veranlassung" stammt laut Text aus der Verwaltungssprache des 18. Jahrhunderts.'
+      - q: '„Veranlassung" stammt laut Text aus der Verwaltungssprache.'
         answer: true
         why: '„Veranlassung aus der Verwaltungssprache."'
       - q: 'Der Text behauptet, die Wortwahl sei eine rein grammatische Frage.'

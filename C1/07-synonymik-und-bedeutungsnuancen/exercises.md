@@ -16,7 +16,7 @@ Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 2. Mia erklärt, „Herausforderung" sei ein Codewort für „Chance". ( )
 3. Bruno hält „Aufgabe" für das Wort, das die Chefin benutzen würde. ( )
 4. Anna schlägt am Ende vor, „dringende Aufgabe" zu schreiben. ( )
-5. Mia findet, dass man mit dem falschen Wort „defätistisch" klingt. ( )
+5. Anna findet, dass man mit dem falschen Wort „defätistisch" klingt. ( )
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (Lektorin und Autorin)
 
@@ -69,7 +69,7 @@ Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör 
 
 **Ansage 1 — Transcript**
 
-> Guten Tag, Sie haben den Anrufbeantworter des Sprachzentrums Berlin erreicht. Wir sind erreichbar von Montag bis Freitag, jeweils von zehn bis achtzehn Uhr. Außerhalb dieser Zeiten können Sie uns eine Nachricht hinterlassen — bitte ruf mich zurück, wenn Sie eine persönliche Beratung wünschen. Aktuell bieten wir Kurse auf den Niveaustufen A1 bis C1 an, darunter auch einen Vorbereitungskurs auf das Goethe-Zertifikat C1. Wenn Sie sich für einen Kurs anmelden möchten, schicken Sie uns bitte eine E-Mail mit Ihrem vollständigen Namen, Ihrem aktuellen Sprachniveau und Ihrem Wunschtermin. Vielen Dank für Ihren Anruf.
+> Guten Tag, Sie haben den Anrufbeantworter des Sprachzentrums Berlin erreicht. Wir sind erreichbar von Montag bis Freitag, jeweils von zehn bis achtzehn Uhr. Außerhalb dieser Zeiten können Sie uns eine Nachricht hinterlassen — bitte rufen Sie mich zurück, wenn Sie eine persönliche Beratung wünschen. Aktuell bieten wir Kurse auf den Niveaustufen A1 bis C1 an, darunter auch einen Vorbereitungskurs auf das Goethe-Zertifikat C1. Wenn Sie sich für einen Kurs anmelden möchten, schicken Sie uns bitte eine E-Mail mit Ihrem vollständigen Namen, Ihrem aktuellen Sprachniveau und Ihrem Wunschtermin. Vielen Dank für Ihren Anruf.
 
 </details>
 
@@ -131,7 +131,7 @@ Setze das passende Verb ein. 6 Items.
 5. Ein Historiker ______ die Ursachen des Ersten Weltkriegs.
 6. Das Gericht ______ die Verfassungsmäßigkeit des neuen Gesetzes.
 
-## Übung A5 — Nomen einsetzen: Problem / Aufgabe / Herausforderung / Schwierigkeit
+## Übung A5 — Nomen einsetzen: Problem / Aufgabe / Herausforderung / Schwierigkeit / Ursache
 
 Setze das passende Nomen ein. 6 Items.
 
@@ -394,7 +394,7 @@ Richtig (R) oder Falsch (F)?
 1. Laut Text sind die vielen scheinbar synonymen Wörter im Deutschen wirklich austauschbar. ( )
 2. „Problem" klingt laut Text ernst und zu lösen. ( )
 3. „Aufgabe" klingt laut Text motivierend und wertend. ( )
-4. „Veranlassung" stammt laut Text aus der Verwaltungssprache des 18. Jahrhunderts. ( )
+4. „Veranlassung" stammt laut Text aus der Verwaltungssprache. ( )
 5. Der Text behauptet, die Wortwahl sei eine rein grammatische Frage. ( )
 
 ## Übung C4b — Lesen Text 2 (Forumsdiskussion: Wortreichtum — Bereicherung oder Ballast?)

@@ -10,7 +10,7 @@
 2. **R** — Mia: „In der Wirtschaftssprache ist ‚Herausforderung‘ ein Codewort für ‚Problem, an dem du wachsen sollst‘."
 3. **F** — Bruno: „Deine Chefin würde ‚Aufgabe‘ nicht sagen, das klingt ihr zu wenig nach Strategie."
 4. **R** — Anna: „Ich schreib meiner Chefin einfach: ‚Das Tool-Problem ist eine dringende Aufgabe, die wir gemeinsam lösen‘."
-5. **R** — Mia: „Dann sag: ‚Das ist eine Schwierigkeit, die wir aus dem Weg räumen müssen‘." Das klingt sachlich, nicht defätistisch.
+5. **R** — Anna: „Aber wenn ich in meiner Antwort schreibe ‚Das sehe ich als Problem‘, klingt das defätistisch."
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (Lektorin und Autorin)
 
@@ -72,7 +72,7 @@
 
 1. **untersucht**  2. **erforscht**  3. **prüft**  4. **testen**  5. **erforscht**  6. **prüft**
 
-## Übung A5 — Nomen einsetzen: Problem / Aufgabe / Herausforderung / Schwierigkeit
+## Übung A5 — Nomen einsetzen: Problem / Aufgabe / Herausforderung / Schwierigkeit / Ursache
 
 1. **Problem**  2. **Aufgabe**  3. **Herausforderung**  4. **Schwierigkeiten**  5. **Ursache**  6. **Problem**
 

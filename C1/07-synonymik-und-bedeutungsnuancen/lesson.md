@@ -122,7 +122,7 @@ Synonymik auf C1-Niveau ist keine Wortschatz-Liste, sondern eine **Bewegung**: v
 |---|---|---|---|
 | **untersuchen** | eine Frage systematisch erforschen | Wissenschaft, Diagnostik, Behörden | sachlich, gründlich |
 | **erforschen** | einen Bereich wissenschaftlich neu erschließen | Wissenschaft, Anthropologie, Soziologie | gehoben, kreativ |
-| **prüfen** | eine Sache auf ihre Eignung testen | Recht, Studium, Verwaltung, Qualität | formal, kontrollierend |
+| **prüfen** | eine Sache auf Korrektheit und Eignung kontrollieren | Recht, Studium, Verwaltung, Qualität | formal, kontrollierend |
 | **testen** | eine Sache unter realen Bedingungen erproben | Software, Produkte, Verfahren | technisch, praktisch |
 
 | Verb | Typische Bedeutung | Typischer Kontext | Konnotation |
@@ -135,7 +135,7 @@ Synonymik auf C1-Niveau ist keine Wortschatz-Liste, sondern eine **Bewegung**: v
 | Verb | Typische Bedeutung | Typischer Kontext | Konnotation |
 |---|---|---|---|
 | **erlauben** | offiziell gestatten, zulassen | Eltern, Behörden, Spielregeln | sachlich, alltagsnah |
-| **gestatten** | förmlich erlauben, einräumen | gehoben, förmlich, Recht | sehr förmlich |
+| **gestatten** | förmlich erlauben | gehoben, förmlich, Recht | sehr förmlich |
 | **zulassen** | dulden, nicht verhindern | Recht, Verfahren, Prüfung | passiv, oft amtlich |
 | **einräumen** | etwas zugestehen, anerkennen | Diskussion, Argumentation | positiv, kooperativ |
 
@@ -159,9 +159,9 @@ Synonymik auf C1-Niveau ist keine Wortschatz-Liste, sondern eine **Bewegung**: v
 
 | Nomen | Bedeutung | Typisches Verb | Konnotation |
 |---|---|---|---|
-| **der Grund, -̈e** | die Ursache im logischen Sinn | *angeben, nennen, vermuten* | neutral |
+| **der Grund, -e (Gründe)** | die Ursache im logischen Sinn | *angeben, nennen, vermuten* | neutral |
 | **die Ursache, -n** | der Auslöser eines Vorgangs | *suchen, ermitteln, beseitigen* | sachlich, oft fachlich |
-| **der Anlass, -̈e** | der äußere Auslöser, Anstoß | *geben, bieten, sehen* | neutral bis förmlich |
+| **der Anlass, -e (Anlässe)** | der äußere Auslöser, Anstoß | *geben, bieten, sehen* | neutral bis förmlich |
 | **die Veranlassung, -en** | die bewusste Initiative | *treffen, ergreifen, haben* | sehr förmlich, amtlich |
 
 | Nomen | Bedeutung | Typisches Verb | Konnotation |
@@ -438,7 +438,8 @@ Zum Schluss liest sie die Mail noch einmal laut vor und ist zufrieden: keine fal
 > | *„Ich **realisiere** jetzt erst, dass …"* | *„Ich **erkenne** jetzt erst, dass …"* / *„Mir wird jetzt erst **bewusst**, dass …"* | *Realisieren* = verwirklichen. |
 > | *„**Bald** werde ich mein Studium beenden."* | *„**In Kürze** werde ich mein Studium beenden."* / *„**Irgendwann** werde ich …"* | *Bald* = wenige Tage/Wochen; nicht: irgendwann. |
 > | *„Ich **sympathisiere** mit ihr."* (wenn ich mitfühle) | *„Ich **fühle mit** ihr."* / *„Ich habe **Mitgefühl**."* | *Sympathisieren* = sich positiv zeigen für; nicht: mitfühlen. |
-> | *„Das ist ein **sensibles** Thema."* (richtig!) | *„Das ist ein **heikles** Thema."* | Im Deutschen bedeutet *sensibel* oft *heikel, delikat*. |
+>
+> 💡 **Eine Ausnahme, die du kennen musst:** *Sensibel* kann im Deutschen neben *empfindlich* auch *heikel, delikat* bedeuten — *„Das ist ein sensibles Thema"* (= heikles Thema). In dieser Bedeutung deckt sich *sensibel* mit dem englischen *sensitive*. Die Verwechslung mit *sensible* (= vernünftig) betrifft **nur** die Person-Bedeutung.
 >
 > 💡 **Lerntipp:** Falsche Freunde **erkennst du**, wenn ein deutsches Wort in einem englischen Satz **automatisch** falsch wäre. *„The **actual** weather is mild"* klingt im Englischen falsch — also ist *aktuell* im Deutschen **nicht** *actual*. Nutze diese **Rückübersetzung** als Test: Wenn das deutsche Wort im Englischen falsch wäre, ist es vermutlich auch im Deutschen falsch gemeint.
 >
