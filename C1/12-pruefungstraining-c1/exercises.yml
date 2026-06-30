@@ -1,0 +1,527 @@
+lesson: C1/12
+title: 'C1 · Lektion 12 — Modelltest: Wiederholung & Prüfungstraining C1'
+intro: >
+  Vollständiger Modelltest im Format Goethe-Zertifikat C1 / telc Deutsch C1 Hochschule.
+  Bearbeiten Sie den ganzen Test in einer Sitzung unter realistischen Bedingungen:
+  Hören ca. 40 Min. · Lesen ca. 70 Min. · Schreiben ca. 80 Min. · Sprechen ca. 15 Min.
+  Schauen Sie erst nach dem Abschluss aller Module in solutions.md.
+
+exam:
+  skills:
+    - key: hoeren
+      label: "Teil 1 · Hören"
+      maxPoints: 25
+      passPoints: 15
+      exerciseIds: [exam-H1, exam-H2, exam-H3, exam-H4]
+    - key: lesen
+      label: "Teil 2 · Lesen"
+      maxPoints: 25
+      passPoints: 15
+      exerciseIds: [exam-L5, exam-L6, exam-L7, exam-L8]
+    - key: schreiben
+      label: "Teil 3 · Schreiben"
+      maxPoints: 25
+      passPoints: 15
+      exerciseIds: [exam-S9, exam-S10]
+      selfAssessed: true
+    - key: sprechen
+      label: "Teil 4 · Sprechen"
+      maxPoints: 25
+      passPoints: 15
+      exerciseIds: [exam-Sp11]
+      selfAssessed: true
+  totalPass: 60
+  rule: "≥60/100 (Gesamt) UND in jedem Modul ≥60 %"
+
+exercises:
+
+  # ── Teil 1 — Hören ────────────────────────────────────────────────────────
+
+  - id: exam-H1
+    block: exam
+    type: single-choice
+    title: "Aufgabe 1 — Kurze Gespräche im Alltag"
+    instructions: "Hören Sie die fünf Gespräche (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Warum wurde die Fachkonferenz verschoben?"
+        audio: aufgabe1_gespraech1.mp3
+        options:
+          - { key: a, text: "Es gab zu wenige Anmeldungen." }
+          - { key: b, text: "Die Hauptrednerin ist erkrankt." }
+          - { key: c, text: "Der Veranstaltungsraum war belegt." }
+        answer: b
+        why: 'Die Kollegin sagt: „Die Hauptrednerin ist kurzfristig erkrankt."'
+      - q: "Was darf der Student mit der Dissertation tun?"
+        audio: aufgabe1_gespraech2.mp3
+        options:
+          - { key: a, text: "Sie nach Hause ausleihen." }
+          - { key: b, text: "Sie nur im Lesesaal einsehen." }
+          - { key: c, text: "Sie vollständig online herunterladen." }
+        answer: b
+        why: 'Die Bibliothekarin: „ausleihen können Sie die nicht. Aber Sie dürfen sie im Lesesaal einsehen …"'
+      - q: "Was fehlt noch bei dem Antrag?"
+        audio: aufgabe1_gespraech3.mp3
+        options:
+          - { key: a, text: "Eine beglaubigte Übersetzung des Zeugnisses." }
+          - { key: b, text: "Die Bearbeitungsgebühr." }
+          - { key: c, text: "Ein aktuelles Passfoto." }
+        answer: a
+        why: 'Die Sachbearbeiterin: „es fehlt noch eine beglaubigte Übersetzung Ihres Zeugnisses."'
+      - q: "Wozu rät der Berater der Studentin?"
+        audio: aufgabe1_gespraech4.mp3
+        options:
+          - { key: a, text: "Vom Auslandssemester abzusehen." }
+          - { key: b, text: "Ein Auslandssemester mit guter Planung zu machen." }
+          - { key: c, text: "Zuerst das Studium zu beenden." }
+        answer: b
+        why: 'Der Berater: „Eindeutig. Planen Sie nur frühzeitig, dann verlieren Sie auch keine Zeit."'
+      - q: "Wofür entscheiden sich die beiden Freunde?"
+        audio: aufgabe1_gespraech5.mp3
+        options:
+          - { key: a, text: "Für den Science Slam." }
+          - { key: b, text: "Für die Podiumsdiskussion." }
+          - { key: c, text: "Für beide Veranstaltungen." }
+        answer: b
+        why: 'Sie sagt: „Einverstanden, die Diskussion. Den Slam holen wir nächstes Mal nach."'
+
+  - id: exam-H2
+    block: exam
+    type: true-false
+    title: "Aufgabe 2 — Radiobeitrag: Ein Mehrgenerationenhaus in Leipzig"
+    instructions: "Hören Sie den Radiobeitrag (zweimal) und entscheiden Sie: richtig (R) oder falsch (F)?"
+    audio: aufgabe2.mp3
+    items:
+      - q: "Im Mehrgenerationenhaus leben ausschließlich ältere Menschen."
+        answer: false
+        why: 'Es heißt: „in dem Jung und Alt unter einem Dach leben."'
+      - q: "Die Studierenden zahlen wenig Miete und übernehmen dafür Aufgaben für die älteren Bewohner."
+        answer: true
+        why: '„Studierende mieten günstig ein Zimmer und übernehmen im Gegenzug Aufgaben für die älteren Bewohner."'
+      - q: "Die Nachfrage nach solchen Wohnplätzen ist in den letzten Jahren gesunken."
+        answer: false
+        why: 'Frau Brandt berichtet, „die Nachfrage sei in den letzten Jahren stark gestiegen."'
+      - q: "Anfangs hatte man erwartet, dass die Bewohner mehr gemeinsam unternehmen."
+        answer: true
+        why: '„Anfangs habe man gedacht, die Bewohner würden viel mehr gemeinsam unternehmen."'
+      - q: "Frau Brandt zieht insgesamt eine negative Bilanz."
+        answer: false
+        why: '„Dennoch zieht Frau Brandt eine positive Bilanz."'
+      - q: "Die Stadt Leipzig will nach diesem Vorbild weitere Häuser eröffnen."
+        answer: true
+        why: '„Die Stadt Leipzig plant nun, nach diesem Vorbild zwei weitere Häuser zu eröffnen."'
+
+  - id: exam-H3
+    block: exam
+    type: single-choice
+    title: "Aufgabe 3 — Kurze Ansagen"
+    instructions: "Hören Sie die fünf Ansagen (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Was wird über den ICE 1027 nach München mitgeteilt?"
+        audio: aufgabe3_ansage1.mp3
+        options:
+          - { key: a, text: "Er hat 20 Minuten Verspätung." }
+          - { key: b, text: "Er fällt aus." }
+          - { key: c, text: "Er fährt von einem anderen Gleis." }
+        answer: b
+        why: '„der ICE 1027 nach München fällt heute aufgrund einer technischen Störung leider aus."'
+      - q: "Was hat sich an der Vorlesung geändert?"
+        audio: aufgabe3_ansage2.mp3
+        options:
+          - { key: a, text: "Nur der Raum." }
+          - { key: b, text: "Nur die Uhrzeit." }
+          - { key: c, text: "Raum und Uhrzeit." }
+        answer: c
+        why: '„nicht im Hörsaal B, sondern im Hörsaal C … die Vorlesung ausnahmsweise erst um Viertel nach zehn beginnt."'
+      - q: "Was gilt für Studierende in der Sonderausstellung?"
+        audio: aufgabe3_ansage3.mp3
+        options:
+          - { key: a, text: "Freier Eintritt mit Studierendenausweis." }
+          - { key: b, text: "Der halbe Eintrittspreis." }
+          - { key: c, text: "Eintritt nur am Wochenende." }
+        answer: a
+        why: '„Für Studierende ist der Eintritt an allen Wochentagen frei; bitte halten Sie Ihren Studierendenausweis bereit."'
+      - q: "Was ist trotz des Feiertags möglich?"
+        audio: aufgabe3_ansage4.mp3
+        options:
+          - { key: a, text: "Das Büro persönlich zu besuchen." }
+          - { key: b, text: "Sich online für den C1-Kurs anzumelden." }
+          - { key: c, text: "Eine SMS an die Schule zu schicken." }
+        answer: b
+        why: '„Anmeldungen für den C1-Kurs sind weiterhin online möglich."'
+      - q: "Warum schließt die Bibliothek heute früher?"
+        audio: aufgabe3_ansage5.mp3
+        options:
+          - { key: a, text: "Wegen einer Abendveranstaltung." }
+          - { key: b, text: "Wegen eines Streiks." }
+          - { key: c, text: "Wegen einer Renovierung." }
+        answer: a
+        why: '„wir schließen heute ausnahmsweise bereits um 18 Uhr, da eine Abendveranstaltung stattfindet."'
+
+  - id: exam-H4
+    block: exam
+    type: single-choice
+    title: "Aufgabe 4 — Vortrag: Sprachenlernen im Zeitalter der KI"
+    instructions: "Hören Sie den Vortrag (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    audio: aufgabe4.mp3
+    items:
+      - q: "Womit beschäftigt sich Dr. Mendes in ihrem Vortrag?"
+        options:
+          - { key: a, text: "Mit der Geschichte der maschinellen Übersetzung." }
+          - { key: b, text: "Mit der Frage, wie die KI das Sprachenlernen verändert." }
+          - { key: c, text: "Mit der Programmierung von Sprach-Apps." }
+        answer: b
+        why: '„Wie verändert die künstliche Intelligenz das Sprachenlernen?"'
+      - q: "Welche These vertritt die Vortragende?"
+        options:
+          - { key: a, text: "Übersetzungsprogramme machen das Sprachenlernen überflüssig." }
+          - { key: b, text: "Übersetzungsprogramme verändern nur die Art, wie wir lernen." }
+          - { key: c, text: "Übersetzungsprogramme sind völlig nutzlos." }
+        answer: b
+        why: '„Übersetzungsprogramme werden das Sprachenlernen nicht überflüssig machen — … sie verändern nur die Art, wie wir lernen."'
+      - q: "Was kann ein Programm laut Dr. Mendes bis heute oft NICHT leisten?"
+        options:
+          - { key: a, text: "Wörter schnell übersetzen." }
+          - { key: b, text: "Nuancen, Ironie und kulturelle Anspielungen erfassen." }
+          - { key: c, text: "Ganze Sätze erkennen." }
+        answer: b
+        why: '„versteht Nuancen, Ironie und kulturelle Anspielungen, die ein Programm bis heute oft verfehlt."'
+      - q: "Welche Sorge äußert die Vortragende?"
+        options:
+          - { key: a, text: "Dass die Technik zu teuer wird." }
+          - { key: b, text: "Dass man verlernt, eigenständig zu formulieren." }
+          - { key: c, text: "Dass zu wenige Menschen Sprachen lernen." }
+        answer: b
+        why: '„Wer sich blind auf die Technik verlässt, verlernt womöglich, eigenständig zu formulieren."'
+      - q: "Womit beendet die Vortragende ihren Vortrag?"
+        options:
+          - { key: a, text: "Mit einer Aufforderung an die Bildungspolitik." }
+          - { key: b, text: "Mit einem literarischen Zitat." }
+          - { key: c, text: "Mit einem Beispiel aus ihrer Kindheit." }
+        answer: a
+        why: '„möchte ich die Bildungspolitik auffordern, den kritischen Umgang mit solchen Werkzeugen fest in den Unterricht zu integrieren."'
+
+  # ── Teil 2 — Lesen ────────────────────────────────────────────────────────
+
+  - id: exam-L5
+    block: exam
+    type: true-false
+    title: "Aufgabe 5 — Zeitungsartikel (Text 1): Richtig / Falsch"
+    instructions: |
+      > **Mehrsprachigkeit als Chance — warum Deutschland umdenken sollte**
+      >
+      > *Berlin* — Rund ein Drittel der Kinder in deutschen Großstädten wächst heute mit mehr als einer Sprache auf. Lange galt diese Mehrsprachigkeit als Hindernis; inzwischen hat sich die Forschung weitgehend von dieser Auffassung verabschiedet. „Mehrsprachig aufzuwachsen ist kein Nachteil, sondern ein kognitiver Vorteil", erklärt die Sprachwissenschaftlerin Dr. Carla Mendes. Studien deuteten darauf hin, dass mehrsprachige Kinder Aufgaben, die geistige Flexibilität verlangen, im Durchschnitt besser bewältigten.
+      >
+      > Dennoch werde dieses Potenzial im deutschen Bildungssystem bislang kaum genutzt. Während Englisch und Französisch als Schulfächer hohes Ansehen genießen, würden die Herkunftssprachen vieler Kinder — etwa Türkisch, Arabisch oder Polnisch — selten gefördert. „Wir verschenken eine Ressource", so Mendes. Sie fordert, Herkunftssprachen stärker in den Unterricht einzubinden und zweisprachige Angebote auszubauen.
+      >
+      > Kritiker wenden ein, die Schulen seien bereits überlastet und es fehle an qualifizierten Lehrkräften. Mendes hält dem entgegen, dass sich der Aufwand langfristig auszahle: Wer seine Herkunftssprache schriftlich beherrsche, lerne auch das Deutsche und weitere Fremdsprachen leichter.
+
+      Richtig (R) oder falsch (F)?
+    items:
+      - q: "Etwa ein Drittel der Kinder in deutschen Großstädten wächst mehrsprachig auf."
+        answer: true
+        why: '„Rund ein Drittel der Kinder in deutschen Großstädten wächst heute mit mehr als einer Sprache auf."'
+      - q: "Die Forschung sieht Mehrsprachigkeit heute überwiegend als Hindernis."
+        answer: false
+        why: '„inzwischen hat sich die Forschung weitgehend von dieser Auffassung verabschiedet."'
+      - q: "Laut Dr. Mendes bewältigen mehrsprachige Kinder Aufgaben mit geistiger Flexibilität im Durchschnitt besser."
+        answer: true
+        why: '„dass mehrsprachige Kinder Aufgaben, die geistige Flexibilität verlangen, im Durchschnitt besser bewältigten."'
+      - q: "Herkunftssprachen wie Türkisch oder Arabisch werden im deutschen Bildungssystem stark gefördert."
+        answer: false
+        why: '„würden die Herkunftssprachen vieler Kinder … selten gefördert."'
+      - q: "Kritiker wenden ein, es fehle an qualifizierten Lehrkräften."
+        answer: true
+        why: '„Kritiker wenden ein, die Schulen seien bereits überlastet und es fehle an qualifizierten Lehrkräften."'
+      - q: "Mendes ist überzeugt, dass sich der Aufwand langfristig nicht lohnt."
+        answer: false
+        why: '„Mendes hält dem entgegen, dass sich der Aufwand langfristig auszahle."'
+
+  - id: exam-L6
+    block: exam
+    type: single-choice
+    title: "Aufgabe 6 — Zeitungsartikel (Text 1): Leseverstehen"
+    instructions: "Beziehen Sie sich auf Text 1 (Aufgabe 5) und wählen Sie die richtige Antwort (a, b oder c)."
+    items:
+      - q: "Wie hat sich die Sicht der Forschung auf Mehrsprachigkeit verändert?"
+        options:
+          - { key: a, text: "Sie gilt heute als kognitiver Vorteil." }
+          - { key: b, text: "Sie gilt heute als noch größeres Hindernis." }
+          - { key: c, text: "Die Forschung hat dazu keine Meinung." }
+        answer: a
+        why: '„Mehrsprachig aufzuwachsen ist kein Nachteil, sondern ein kognitiver Vorteil."'
+      - q: "Was kritisiert Dr. Mendes am deutschen Bildungssystem?"
+        options:
+          - { key: a, text: "Dass zu wenig Englisch unterrichtet wird." }
+          - { key: b, text: "Dass die Herkunftssprachen vieler Kinder kaum gefördert werden." }
+          - { key: c, text: "Dass es zu viele Schulfächer gibt." }
+        answer: b
+        why: '„würden die Herkunftssprachen vieler Kinder … selten gefördert. Wir verschenken eine Ressource."'
+      - q: "Was fordert Mendes konkret?"
+        options:
+          - { key: a, text: "Herkunftssprachen stärker in den Unterricht einzubinden." }
+          - { key: b, text: "Mehr Stunden Englischunterricht." }
+          - { key: c, text: "Fremdsprachen ganz abzuschaffen." }
+        answer: a
+        why: '„Sie fordert, Herkunftssprachen stärker in den Unterricht einzubinden …"'
+      - q: "Welches Argument bringen die Kritiker vor?"
+        options:
+          - { key: a, text: "Mehrsprachigkeit schade den Kindern." }
+          - { key: b, text: "Die Schulen seien überlastet und es fehle an Lehrkräften." }
+          - { key: c, text: "Die Eltern seien dagegen." }
+        answer: b
+        why: '„die Schulen seien bereits überlastet und es fehle an qualifizierten Lehrkräften."'
+      - q: "Wie bewertet Mendes den nötigen Aufwand?"
+        options:
+          - { key: a, text: "Er zahlt sich langfristig aus." }
+          - { key: b, text: "Er ist reine Verschwendung." }
+          - { key: c, text: "Er ist praktisch unmöglich." }
+        answer: a
+        why: '„dass sich der Aufwand langfristig auszahle."'
+
+  - id: exam-L7
+    block: exam
+    type: matching
+    title: "Aufgabe 7 — Forumsbeiträge zuordnen (Text 2)"
+    instructions: |
+      > **Thema: Sollte an Universitäten mehr auf Deutsch oder auf Englisch gelehrt werden?**
+      >
+      > **Beitrag 1 — Prof. A. Berger (Hochschullehrer):**
+      > Englisch ist die Sprache der internationalen Forschung. Wer wissenschaftlich sichtbar sein will, muss auf Englisch publizieren. Deshalb halte ich englischsprachige Studiengänge für unverzichtbar — sie ziehen die besten Köpfe aus aller Welt an.
+      >
+      > **Beitrag 2 — Mia_B (Studentin):**
+      > Mir fällt es in englischsprachigen Vorlesungen oft schwer, komplexe Inhalte wirklich zu durchdringen. In meiner Muttersprache verstehe ich Nuancen, die mir auf Englisch entgehen. Ein gewisser Anteil an Lehre auf Deutsch wäre mir wichtig.
+      >
+      > **Beitrag 3 — Dr. Yusuf El-Sayed (Dozent):**
+      > Beide Seiten haben recht. Aus meiner Sicht braucht es ein ausgewogenes Verhältnis: Fachsprache auf Englisch dort, wo die internationale Anschlussfähigkeit zählt, und Deutsch dort, wo es um die Vermittlung im Land geht.
+      >
+      > **Beitrag 4 — Tomáš_N (ausländischer Student):**
+      > Für mich als Studierenden aus dem Ausland war gerade die deutschsprachige Lehre der Grund, hierherzukommen. Ich wollte die Sprache im Fach lernen, nicht nur im Sprachkurs.
+
+      Welche Aussage (a–e) passt zu welchem Forumsbeitrag (1–4)? Eine Aussage passt nicht.
+    left:
+      - { key: "1", text: "Beitrag 1 — Prof. A. Berger (Hochschullehrer)" }
+      - { key: "2", text: "Beitrag 2 — Mia_B (Studentin)" }
+      - { key: "3", text: "Beitrag 3 — Dr. Yusuf El-Sayed (Dozent)" }
+      - { key: "4", text: "Beitrag 4 — Tomáš_N (ausländischer Student)" }
+    right:
+      - { key: a, text: "A — Hält englischsprachige Studiengänge für unverzichtbar, weil Englisch die Sprache der Forschung ist." }
+      - { key: b, text: "B — Versteht in der Muttersprache mehr Nuancen und wünscht sich einen Anteil deutscher Lehre." }
+      - { key: c, text: "C — Plädiert für ein ausgewogenes Verhältnis von Deutsch und Englisch." }
+      - { key: d, text: "D — Kam gerade wegen der deutschsprachigen Lehre zum Studium nach Deutschland." }
+      - { key: e, text: "E — Fordert, Fremdsprachen an der Universität ganz abzuschaffen." }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+
+  - id: exam-L8
+    block: exam
+    type: single-choice
+    title: "Aufgabe 8 — Wissenschaftlicher Text (Text 3): Lücken ergänzen"
+    instructions: |
+      > **Wie verändert das Vorlesen das Sprachgefühl?**
+      >
+      > Eine Studie der Universität Wien aus dem Jahr 2025 ist der Frage nachgegangen, welchen Einfluss regelmäßiges lautes Vorlesen auf das Sprachgefühl von Fremdsprachenlernenden hat. Untersucht wurden 90 Deutschlernende auf C1-Niveau über einen Zeitraum von zwölf Wochen.
+      >
+      > Die Ergebnisse legen nahe, dass diejenigen, die täglich zehn Minuten laut vorlasen, in Tests zur Wortstellung und zur Intonation deutlich besser abschnitten. Die Forschenden führen dies darauf zurück, dass beim Vorlesen Aussprache, Rhythmus und Satzbau zugleich trainiert werden.
+      >
+      > Die Autorinnen und Autoren betonen jedoch, die Befunde dürften nicht überbewertet werden: Die Stichprobe sei klein gewesen. Gleichwohl empfehlen sie lautes Vorlesen als einfache, wirksame Übung.
+
+      Wählen Sie für jede Lücke (1–6) die grammatisch richtige Variante (a, b oder c).
+    items:
+      - q: "Eine Studie der Universität Wien _______ (1) der Frage nachgegangen, welchen Einfluss Vorlesen hat."
+        options:
+          - { key: a, text: "ist" }
+          - { key: b, text: "hat" }
+          - { key: c, text: "wird" }
+        answer: a
+        why: '„nachgehen" bildet das Perfekt mit „sein": „ist … nachgegangen".'
+      - q: "Die Ergebnisse _______ (2) nahe, dass tägliches Vorlesen hilft."
+        options:
+          - { key: a, text: "legen" }
+          - { key: b, text: "liegen" }
+          - { key: c, text: "stellen" }
+        answer: a
+        why: 'Funktionsverbgefüge „nahelegen": „die Ergebnisse legen nahe".'
+      - q: "Die Forschenden führen dies _______ (3) zurück, dass mehrere Fähigkeiten zugleich trainiert werden."
+        options:
+          - { key: a, text: "darauf" }
+          - { key: b, text: "darüber" }
+          - { key: c, text: "daran" }
+        answer: a
+        why: '„zurückführen auf + Akk." → Pronominaladverb „darauf".'
+      - q: "Die Befunde _______ (4) laut den Autoren nicht überbewertet werden."
+        options:
+          - { key: a, text: "dürfen" }
+          - { key: b, text: "dürfte" }
+          - { key: c, text: "durften" }
+        answer: a
+        why: 'Pluralsubjekt „die Befunde" → „dürfen"; Hedging im Präsens.'
+      - q: "Die Stichprobe _______ (5) klein gewesen, betonen die Autoren."
+        options:
+          - { key: a, text: "sei" }
+          - { key: b, text: "ist" }
+          - { key: c, text: "wäre" }
+        answer: a
+        why: 'Redewiedergabe → Konjunktiv I: „sei".'
+      - q: "_______ (6) empfehlen die Autoren lautes Vorlesen als wirksame Übung."
+        options:
+          - { key: a, text: "Gleichwohl" }
+          - { key: b, text: "Deshalb weil" }
+          - { key: c, text: "Indem" }
+        answer: a
+        why: '„Gleichwohl" (= dennoch) leitet die Einräumung ein und steht auf Position 1 (Verb an Position 2).'
+
+  # ── Teil 3 — Schreiben ────────────────────────────────────────────────────
+
+  - id: exam-S9
+    block: exam
+    type: free-write
+    title: "Aufgabe 9 — Stellungnahme (Forumsbeitrag)"
+    instructions: "Schreiben Sie eine Stellungnahme (ca. 150–180 Wörter) als Forumsbeitrag."
+    prompt: |
+      In einem Online-Forum haben Sie folgenden Beitrag gelesen:
+
+      „Herkunftssprachen wie Türkisch oder Arabisch an deutschen Schulen zu
+      fördern, ist reine Geldverschwendung. Die Kinder leben hier, also sollen
+      sie gefälligst Deutsch lernen — alles andere ist Privatsache der Familien.
+      — kritischer_Buerger"
+
+      Schreiben Sie eine sachliche Stellungnahme. Gehen Sie auf folgende Punkte ein:
+      - Wie stehen Sie zu der Aussage? Stimmen Sie zu oder widersprechen Sie?
+      - Welche Vorteile könnte die Förderung von Herkunftssprachen haben?
+      - Welchen Einwand können Sie nachvollziehen, und wie entkräften Sie ihn?
+
+      Formulieren Sie unpersönlich und vorsichtig (Hedging), räumen Sie einen
+      Gegenpunkt ein (Konzession) und vermeiden Sie Killerphrasen.
+    use:
+      - 'Eine klare Positionierung („Meiner Ansicht nach …", „Ich vertrete den Standpunkt, dass …")'
+      - "Mindestens ein Argument mit Begründung oder Beleg"
+      - "Eine Konzession (Da ist zwar … recht, dennoch …)"
+      - "Hedging an mindestens einer Stelle (dürfte, deutet darauf hin, tendenziell)"
+      - 'Ein abschließender Satz („Insgesamt lässt sich festhalten, dass …")'
+    selfCheck:
+      - "Ist meine Position klar und begründet, nicht nur behauptet?"
+      - "Habe ich einen Gegenpunkt eingeräumt, bevor ich ihn entkräfte?"
+      - "Habe ich starke Behauptungen mit Hedging abgefedert?"
+      - "Habe ich jede Killerphrase und jedes umgangssprachliche Wort vermieden?"
+      - "Ist der Beitrag zwischen 150 und 180 Wörter lang?"
+    model: |
+      Der Beitrag von „kritischer_Buerger" greift zu kurz. Zwar ist es richtig,
+      dass das Beherrschen des Deutschen für die Teilhabe entscheidend ist —
+      dennoch schließt das die Förderung der Herkunftssprachen keineswegs aus.
+      Im Gegenteil: Einer Studie zufolge lernt das Deutsche leichter, wer seine
+      Herkunftssprache auch schriftlich beherrscht. Die beiden Ziele stehen also
+      nicht im Widerspruch, sondern ergänzen einander.
+
+      Darüber hinaus dürfte die Mehrsprachigkeit langfristig auch ein
+      wirtschaftlicher Vorteil sein, da international tätige Unternehmen genau
+      solche Kompetenzen suchen. Der Einwand, die Schulen seien überlastet, ist
+      durchaus nachvollziehbar. Allerdings ließe sich dieses Problem durch
+      gezielte Zusatzangebote entschärfen, statt das Potenzial gänzlich
+      ungenutzt zu lassen.
+
+      Insgesamt lässt sich festhalten, dass die Förderung von Herkunftssprachen
+      keine Verschwendung, sondern eine Investition ist — in die Bildung der
+      Kinder und in die Gesellschaft als Ganzes.
+    maxScore: 10
+
+  - id: exam-S10
+    block: exam
+    type: free-write
+    title: "Aufgabe 10 — Erörterung"
+    instructions: "Schreiben Sie eine Erörterung (ca. 180–220 Wörter)."
+    prompt: |
+      Sie haben im Kurs folgende These diskutiert:
+
+      „An deutschen Universitäten sollte deutlich mehr auf Englisch gelehrt
+      werden, um international konkurrenzfähig zu bleiben."
+
+      Schreiben Sie eine ausführliche Erörterung. Gehen Sie auf folgende Punkte ein:
+      - Eine Einleitung, die das Thema und Ihre Leitfrage benennt
+      - Mindestens zwei Pro-Argumente (mit Begründung oder Beispiel)
+      - Mindestens ein Contra-Argument
+      - Ein Fazit mit Ihrer persönlichen, abgewogenen Stellungnahme
+
+      Verwenden Sie eine formelle, wissenschaftsnahe Sprache (Passiv, Nominalstil,
+      Funktionsverbgefüge) und C1-Konnektoren (zumal, sofern, insofern,
+      einerseits … andererseits, zwar … dennoch).
+    use:
+      - "Einleitung mit klarer Leitfrage"
+      - "Mindestens zwei Pro-Argumente mit Begründung"
+      - "Mindestens ein Contra-Argument"
+      - 'Mindestens zwei Funktionsverbgefüge (eine Rolle spielen, in Betracht ziehen, Bezug nehmen auf)'
+      - "Mindestens eine Passiv-Alternative (sich lassen / -bar / man)"
+      - "Mindestens zwei C1-Konnektoren (zumal, sofern, insofern, zwar … dennoch)"
+      - "Fazit mit abgewogener Stellungnahme"
+    selfCheck:
+      - "Hat der Text eine klare Struktur (Einleitung → Pro → Contra → Fazit)?"
+      - "Steht das Verb in Nebensätzen (weil / dass / obwohl) am Ende?"
+      - "Sind die Funktionsverbgefüge korrekt gebildet (Bedeutung im Nomen)?"
+      - "Habe ich Nominal- und Verbalstil gemischt, ohne zu übernominalisieren?"
+      - 'Bleibt der Text durchgehend sachlich und abgewogen (kein „beweist eindeutig")?'
+      - "Ist die Erörterung zwischen 180 und 220 Wörter lang?"
+    model: |
+      Sprache der Lehre — Deutsch, Englisch oder beides?
+
+      Die Frage, ob an deutschen Universitäten deutlich mehr auf Englisch
+      gelehrt werden sollte, wird seit Jahren kontrovers diskutiert. Im
+      Folgenden werden die wichtigsten Argumente gegeneinander abgewogen.
+
+      Für eine Ausweitung der englischsprachigen Lehre spricht zunächst die
+      internationale Anschlussfähigkeit: Da die Forschung überwiegend auf
+      Englisch stattfindet, spielt die Fremdsprache eine zentrale Rolle für
+      die wissenschaftliche Karriere. Hinzu kommt, dass englischsprachige
+      Studiengänge talentierte Studierende aus aller Welt anziehen, zumal der
+      internationale Wettbewerb um die besten Köpfe zunimmt.
+
+      Andererseits darf nicht übersehen werden, dass komplexe Inhalte in der
+      Muttersprache oft tiefer durchdrungen werden. Sofern die Lehre
+      ausschließlich auf Englisch erfolgt, besteht zudem die Gefahr, dass die
+      Wissenschaftssprache Deutsch an Bedeutung verliert.
+
+      Insgesamt lässt sich festhalten, dass weder ein vollständiger Verzicht
+      auf Deutsch noch eine reine Beschränkung darauf sinnvoll wäre. Ein
+      ausgewogenes Verhältnis, das beide Sprachen ihrem Zweck entsprechend
+      einsetzt, erscheint demnach am tragfähigsten.
+    maxScore: 15
+
+  # ── Teil 4 — Sprechen ─────────────────────────────────────────────────────
+
+  - id: exam-Sp11
+    block: exam
+    type: speaking-prompt
+    title: "Aufgabe 11 — Sprechen (2 Teile)"
+    instructions: "Führen Sie beide Sprechaufgaben durch — mit einem Partner oder als Monolog (Aufnahme). Bewerten Sie sich anschließend selbst anhand der Kriterien."
+    parts:
+      - label: "Teil 4a — Vortrag (ca. 3–4 Minuten)"
+        prompt: "Ziehen Sie ein Thema und halten Sie einen kurzen, strukturierten Vortrag. Beginnen Sie mit einer rhetorischen Frage, kündigen Sie Ihre Gliederung an und schließen Sie mit einer Zusammenfassung."
+        bullets:
+          - "Thema 1: Sollten Herkunftssprachen an Schulen gefördert werden?"
+          - "Thema 2: Verändert die künstliche Intelligenz das Lernen zum Guten?"
+          - "Thema 3: Sollte an Universitäten mehr auf Englisch gelehrt werden?"
+          - "Struktur: Einstieg (rhetorische Frage) → Gliederung ankündigen → Pro → Contra → Fazit"
+          - "Verwenden Sie: Zunächst … anschließend … abschließend …; Damit komme ich zu …"
+          - "Verwenden Sie Hedging: Es deutet einiges darauf hin, dass …; … dürfte … sein"
+          - "Verwenden Sie ein rhetorisches Mittel (rhetorische Frage, Dreierfigur)"
+      - label: "Teil 4b — Diskussion (ca. 4–5 Minuten)"
+        prompt: "Diskutieren Sie mit Ihrem Partner über das Thema Ihres Vortrags. Vertreten Sie Ihre Position, gehen Sie auf Einwände ein und versuchen Sie, zu einem gemeinsamen Fazit zu kommen."
+        bullets:
+          - "Stimmen Sie zu oder widersprechen Sie: Dem kann ich nur zustimmen … / Da würde ich widersprechen …"
+          - "Räumen Sie ein und widersprechen Sie diplomatisch: Da haben Sie zwar recht, dennoch …"
+          - "Reagieren Sie auf Argumente: Wie meinen Sie das genau? / Man könnte einwenden, dass …"
+          - 'Vermeiden Sie Killerphrasen (kein „Das ist Unsinn")'
+          - "Verwenden Sie C1-Konnektoren: zumal, sofern, insofern, einerseits … andererseits"
+          - "Fassen Sie am Ende einen Konsens zusammen: Wir sind uns also einig, dass …"
+    criteria:
+      - "4a — Struktur erkennbar (Einstieg → Gliederung → Pro → Contra → Fazit): stark 2 Pkt. / ausreichend 1 Pkt. / schwach 0 Pkt."
+      - "4a — Gliederungssignale und Übergänge korrekt verwendet: stark / ausreichend / schwach"
+      - "4a — Mindestens ein rhetorisches Mittel sinnvoll eingesetzt: stark / ausreichend / schwach"
+      - "4a — Hedging / vorsichtiges Formulieren: stark / ausreichend / schwach"
+      - "4a — Flüssigkeit, Tempo und Pausen: stark / ausreichend / schwach"
+      - "4b — Eigene Position klar vertreten und begründet: stark / ausreichend / schwach"
+      - "4b — Diplomatisch widersprochen und eingeräumt (keine Killerphrasen): stark / ausreichend / schwach"
+      - "4b — Auf den Partner reagiert und einen Konsens gesucht: stark / ausreichend / schwach"
+      - "4b — C1-Konnektoren korrekt verwendet: stark / ausreichend / schwach"
+      - 'Gesamt Sprechen: BESTANDEN = in beiden Teilen mindestens „ausreichend"'
