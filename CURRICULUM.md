@@ -147,4 +147,4 @@ C1 in ~4 → roughly 20 months total at a steady hobby pace. Faster is fine.
 
 ## Progress
 
-Track progress in **`https://github.com/williamokano/german-learning/issues`** (the dispatch board, replaced `tasks/todo.md` on 2026-06-15). Current status: **A1 (14/14) + A2 (14/14) + B1/01 (1/14) complete — 29 lessons total, B1 in progress!** Next up: B1/02. See `MEMORY.md` for the resume instructions and issue #47 (B1 master) for the remaining 13 B1 lessons.
+Track progress in **`https://github.com/williamokano/german-learning/issues`** (the dispatch board, replaced `tasks/todo.md` on 2026-06-15). Current status: **A1 (14/14) + A2 (14/14) + B1 (14/14) + B2 (14/14) + C1 (12/12) — 68 lessons total, course COMPLETE!** See `MEMORY.md` for the resume instructions and the open tracking issues (#1 Sprechen tasks; #49 C1 master — closing after this section updates).
