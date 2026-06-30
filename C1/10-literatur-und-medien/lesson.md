@@ -23,7 +23,7 @@ buildsOn:
   - C1/03 (Modalpartikeln und Nuancen)
   - C1/05 (Wissenschaftssprache — Hedging, Konjunktiv I, Unpersönlichkeit)
   - C1/07 (Synonymik und Bedeutungsnuancen — Konnotationen)
-  - C1/09 (Vortrag und Diskussion — rhetorische Mittel: Anapher, Dreierfigur, Metapher)
+  - "C1/09 (Vortrag und Diskussion — rhetorische Mittel: Anapher, Dreierfigur, Metapher)"
   - B2/05 (Erörterung — lineare Argumentation)
   - B2/07 (Konnektoren für Profis — einerseits/andererseits, zumal, sofern)
   - B2/09 (Wortbildung — Komposita, Suffixe)

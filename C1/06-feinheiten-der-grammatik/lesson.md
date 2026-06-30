@@ -4,7 +4,7 @@ number: 6
 slug: feinheiten-der-grammatik
 title: Feinheiten der Grammatik
 canDo:
-  - Konjunktiv I und II differenziert einsetzen: indirekte Rede, Irrealis, höfliche Distanz
+  - "Konjunktiv I und II differenziert einsetzen: indirekte Rede, Irrealis, höfliche Distanz"
   - "Negationsnuancen sicher unterscheiden: nicht vs. kein, doppelte Verneinung, weder … noch, nicht nur … sondern auch"
   - Wortstellung im Mittelfeld kontrollieren (Tekamalo, Modalpartikel, schwere Glieder)
   - die verschiedenen es-Konstruktionen erkennen und stilistisch passend verwenden

@@ -6,7 +6,7 @@ title: Gesellschaft, Politik, Zukunft
 canDo:
   - zentrale Begriffe der politischen und gesellschaftlichen Debatte im deutschsprachigen Raum verstehen und differenziert verwenden (Politik, Globalisierung, KI, Demografie)
   - argumentative Texte zu gesellschaftlichen Zukunftsfragen strukturiert verfassen (Erörterung, Stellungnahme, Kommentar)
-  - diskursive Strukturen sicher einsetzen: Pro-Contra-Abwägung, Konjunktiv I für Positionen Dritter, Hedging bei Prognosen
+  - "diskursive Strukturen sicher einsetzen: Pro-Contra-Abwägung, Konjunktiv I für Positionen Dritter, Hedging bei Prognosen"
   - "statistische und demografische Informationen versprachlichen (Tendenzen, Entwicklungen, Prognosen)"
   - idiomatische Wendungen und Kollokationen aus dem politisch-gesellschaftlichen Diskurs korrekt und registergerecht verwenden
 grammar:
