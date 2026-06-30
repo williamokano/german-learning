@@ -1,0 +1,1153 @@
+lesson: C1/11
+title: 'C1 · Lektion 11 — Übungen (Gesellschaft, Politik, Zukunft)'
+intro: >
+  Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Die Lösungen findest du in solutions.md.
+  Tipp: Verteil die Blöcke über mehrere Tage — H und A am Tag 1, B am Tag 2,
+  C am Tag 3, D am Tag 4 nach einer Pause. Argumentiere schriftlich mit
+  Konjunktiv I und Hedging.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: 'Dialog Hör-Check: Dialog A (KI-Debatte)'
+    audio: dialog1_a.mp3
+    instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    items:
+      - q: 'In Hessen soll eine KI Lehrkräfte in einem Pilotprojekt vollständig ersetzen.'
+        answer: false
+        why: 'Im Podcast geht es um Entlastung im Lehrkräftemangel, nicht um vollständigen Ersatz.'
+      - q: 'Lukas findet es schwer zu akzeptieren, dass eine KI Lehrkräfte ersetzen soll.'
+        answer: true
+        why: 'Lukas: „Ich finde das schwer zu akzeptieren … Das kann ein Algorithmus nicht."'
+      - q: 'Anna sorgt sich vor allem um den Datenschutz minderjähriger Schüler*innen.'
+        answer: true
+        why: 'Anna: „was ist mit Datenschutz? Minderjährige Schüler*innen geben Daten in ein System …"'
+      - q: 'Mia will die Debatte versachlichen und schlägt vor, den Einsatzbereich differenziert zu betrachten.'
+        answer: true
+        why: 'Mia: „Es geht nicht um KI vs. Lehrkraft, sondern um den Einsatzbereich."'
+      - q: 'Am Ende einigen sich alle drei auf eine klare Pro- oder Contra-Position.'
+        answer: false
+        why: 'Lukas ordnet am Ende drei Positionen: Mia „bedingt ja", er „eher nein", Anna „mit Bauchschmerzen" — kein Konsens.'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: 'Dialog Hör-Check: Dialog B (Demografie-Interview)'
+    audio: dialog1_b.mp3
+    optionLayout: block
+    instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    items:
+      - q: 'Was prognostiziert Frau Schäfer für Köln bis 2040?'
+        options:
+          - { key: a, text: 'Einen Anstieg der über 65-Jährigen um rund 25 Prozent.' }
+          - { key: b, text: 'Einen Rückgang der über 65-Jährigen um 25 Prozent.' }
+          - { key: c, text: 'Ein Ende des demografischen Wandels.' }
+        answer: a
+        why: 'Frau Schäfer: „Die Zahl der über 65-Jährigen wird voraussichtlich bis 2040 um rund 25 Prozent steigen."'
+      - q: 'Was gehört nach Frau Schäfers Worten zur „doppelten Belastung" der Kommunen?'
+        options:
+          - { key: a, text: 'Weniger Einnahmen und mehr Ausgaben.' }
+          - { key: b, text: 'Mehr Einnahmen und weniger Ausgaben.' }
+          - { key: c, text: 'Höhere Steuern und sinkende Mieten.' }
+        answer: a
+        why: '„Eine doppelte Belastung: weniger Einnahmen, mehr Ausgaben."'
+      - q: 'Welche Strategie verfolgt Köln nach Frau Schäfer?'
+        options:
+          - { key: a, text: 'Stärkung der Zuwanderung ohne Integrationsangebote.' }
+          - { key: b, text: 'Familien gewinnen UND Integration verbessern.' }
+          - { key: c, text: 'Nur Pflegeeinrichtungen ausbauen.' }
+        answer: b
+        why: '„Zum einen versuchen wir, Familien zu gewinnen … Zum anderen müssen wir die Integration der Zugewanderten verbessern."'
+      - q: 'Was wünscht sich Frau Schäfer von der nächsten Bundesregierung?'
+        options:
+          - { key: a, text: 'Eine kohärente Demografiepolitik, die Politikfelder verzahnt.' }
+          - { key: b, text: 'Eine reine Sparpolitik.' }
+          - { key: c, text: 'Höhere Renten ohne Reform.' }
+        answer: a
+        why: 'Frau Schäfer: „eine kohärente Demografiepolitik … ein Gesamtkonzept, das die verschiedenen Politikfelder miteinander verzahnt."'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: 'Hörtext-Lückentext: KI in der Berufswelt'
+    audio: hoertext.mp3
+    instructions: 'Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.'
+    text: |
+      Liebe Hörerinnen und Hörer, willkommen zu „Wirtschaft und Gesellschaft".
+      Eine neue {1} des Instituts für Arbeitsmarkt- und Berufsforschung hat
+      untersucht, wie sich Künstliche Intelligenz auf die Berufswelt auswirkt.
+      Den Ergebnissen {2} dürfte sich der Anteil der Tätigkeiten, die durch
+      KI ersetzt werden könnten, bis 2030 auf etwa 25 {3} erhöhen. Die
+      Forschenden betonen jedoch, dass dies nicht automatisch mit dem
+      {4} von Arbeitsplätzen gleichzusetzen sei. Vielmehr {5} sich das
+      Berufsbild vieler Menschen grundlegend verändern. Die Autorin der
+      Studie erklärte, man {6} daher verstärkt in Weiterbildung investieren.
+    bank: [Studie, zufolge, Prozent, Wegfall, werde, müsse, halbieren, wegen, müsste]
+    answers:
+      "1": Studie
+      "2": zufolge
+      "3": Prozent
+      "4": Wegfall
+      "5": werde
+      "6": müsse
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: 'Kurze Ansage: Anrufbeantworter einer Kommunalverwaltung'
+    audio: transcript_ansage1.mp3
+    optionLayout: block
+    instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Bürgeramtes der Stadt Köln erreicht. Unsere Sprechzeiten sind montags bis freitags von acht bis dreizehn Uhr, donnerstags zusätzlich bis achtzehn Uhr. Bitte vereinbaren Sie für Anmeldungen, Ummeldungen und Passangelegenheiten vorab einen Termin online unter www.stadt-koeln.de oder telefonisch unter 0221-1234567. Am Mittwoch, den 15. Oktober, bleibt das Bürgeramt wegen einer internen Schulung geschlossen. Für eilige Anliegen rund um das Thema Wohnsitz wenden Sie sich bitte direkt an die Servicestelle im Erdgeschoss. Bitte beachten Sie: Eine telefonische Beratung zu Sozialleistungen ist nicht möglich. Bitte ruf mich zurück — ich wiederhole: 0221-1234567. Vielen Dank für Ihr Verständnis.'
+    items:
+      - q: 'Welche Einrichtung ist auf dem Anrufbeantworter zu hören?'
+        options:
+          - { key: a, text: 'Das Bürgeramt der Stadt Köln.' }
+          - { key: b, text: 'Das Finanzamt Bonn.' }
+          - { key: c, text: 'Die Universitätsbibliothek.' }
+        answer: a
+        why: '„Sie haben den Anrufbeantworter des Bürgeramtes der Stadt Köln erreicht."'
+      - q: 'Wie sind die regulären Sprechzeiten?'
+        options:
+          - { key: a, text: 'Montags bis freitags von acht bis dreizehn Uhr, donnerstags bis achtzehn Uhr.' }
+          - { key: b, text: 'Täglich von acht bis achtzehn Uhr.' }
+          - { key: c, text: 'Nur am Wochenende.' }
+        answer: a
+        why: '„Unsere Sprechzeiten sind montags bis freitags von acht bis dreizehn Uhr, donnerstags zusätzlich bis achtzehn Uhr."'
+      - q: 'Warum ist das Bürgeramt am 15. Oktober geschlossen?'
+        options:
+          - { key: a, text: 'Wegen einer internen Schulung.' }
+          - { key: b, text: 'Wegen eines Feiertags.' }
+          - { key: c, text: 'Wegen einer Demonstration.' }
+        answer: a
+        why: '„Am Mittwoch, den 15. Oktober, bleibt das Bürgeramt wegen einer internen Schulung geschlossen."'
+      - q: 'Für welches Anliegen bekommt man KEINE telefonische Beratung?'
+        options:
+          - { key: a, text: 'Wohnsitzanliegen.' }
+          - { key: b, text: 'Sozialleistungen.' }
+          - { key: c, text: 'Passangelegenheiten.' }
+        answer: b
+        why: '„Eine telefonische Beratung zu Sozialleistungen ist nicht möglich."'
+
+  - id: H5
+    block: H
+    type: table-fill
+    title: 'Tabelle ausfüllen: Dialog B (Demografie-Interview)'
+    audio: dialog1_b.mp3
+    instructions: 'Hör Dialog B noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    columns: ['Problem', 'Zahl / Beispiel', 'Strategie']
+    rows:
+      - label: 'Demografie'
+        cells:
+          - { gap: 1, answer: 'mehr Pflegebedarf', given: 'mehr Pflegebedarf' }
+          - { gap: 1, answer: 'plus 25 Prozent bis 2040' }
+          - { gap: 1, answer: 'kohärente Demografiepolitik', given: 'kohärente Demografiepolitik' }
+      - label: 'Kommunalfinanzen'
+        cells:
+          - { gap: 2, answer: 'doppelte Belastung' }
+          - { gap: 2, answer: 'weniger Einnahmen', given: 'weniger Einnahmen' }
+          - { gap: 2, answer: 'doppelte Strategie', given: 'doppelte Strategie' }
+      - label: 'Integration'
+        cells:
+          - { gap: 3, answer: 'Sprache als Schlüssel', given: 'Sprache als Schlüssel' }
+          - { gap: 3, answer: 'Sprach- und Integrationskurse' }
+          - { gap: 3, answer: 'bürgerschaftliches Engagement', given: 'bürgerschaftliches Engagement' }
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: single-choice
+    title: 'Zweiteilige Konnektoren — welche Form passt?'
+    optionLayout: block
+    instructions: 'Wähle die Formulierung mit dem passenden zweiteiligen Konnektor.'
+    items:
+      - q: 'Welcher Satz verwendet „einerseits … andererseits" korrekt?'
+        options:
+          - { key: a, text: 'Einerseits KI ermöglicht mehr Individualisierung, andererseits verändert sie die Lehrkraft.' }
+          - { key: b, text: 'Einerseits ermöglicht KI mehr Individualisierung, andererseits verändert sie die Lehrkraft grundlegend.' }
+          - { key: c, text: 'Einerseits ermöglicht KI mehr Individualisierung, die Lehrkraft verändert sich andererseits.' }
+        answer: b
+        why: 'Nach vorangestelltem „einerseits" muss die Inversion folgen: „ermöglicht KI …".'
+      - q: 'Welcher Satz verwendet „zwar … aber/dennoch" korrekt?'
+        options:
+          - { key: a, text: 'Zwar ist Fachsprache nötig, aber sie ist nicht immer verständlich.' }
+          - { key: b, text: 'Zwar Fachsprache ist nötig, aber sie ist nicht verständlich.' }
+          - { key: c, text: 'Zwar ist Fachsprache nötig, aber nicht alle versteht sie.' }
+        answer: a
+        why: '„Zwar" leitet einen normalen Hauptsatz ein; nach „aber" folgt ein neuer Hauptsatz.'
+      - q: 'Welcher Satz verwendet „nicht nur … sondern auch" korrekt?'
+        options:
+          - { key: a, text: 'Lernen ist nicht nur Informationsaufnahme, sondern auch Beziehungsarbeit.' }
+          - { key: b, text: 'Lernen ist nicht nur Informationsaufnahme, aber auch Beziehungsarbeit.' }
+          - { key: c, text: 'Lernen ist nicht nur Informationsaufnahme, auch Beziehungsarbeit.' }
+        answer: a
+        why: 'Paarform: „nicht nur … sondern auch" — beides muss parallel stehen.'
+      - q: 'Welcher Satz verwendet „sowohl … als auch" korrekt?'
+        options:
+          - { key: a, text: 'Datenschutz ist sowohl rechtliche Frage und auch pädagogische Frage.' }
+          - { key: b, text: 'Datenschutz ist sowohl rechtliche als auch pädagogische Frage.' }
+          - { key: c, text: 'Datenschutz ist sowohl rechtliche Frage, als auch pädagogisch.' }
+        answer: b
+        why: 'Streng paralleler Aufbau: „sowohl … als auch" verbindet gleiche Satzglieder.'
+      - q: 'Welcher Satz verwendet „weder … noch" korrekt?'
+        options:
+          - { key: a, text: 'Weder das eine noch das andere ist richtig; vielmehr kommt es auf den Kontext an.' }
+          - { key: b, text: 'Weder das eine noch das andere ist richtig, sondern auf den Kontext kommt es an.' }
+          - { key: c, text: 'Weder das eine oder das andere ist richtig; vielmehr kommt es auf den Kontext an.' }
+        answer: a
+        why: '„Weder … noch" — beides verneint; nach „vielmehr" folgt die eigene Position.'
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: 'Konjunktiv I für fremde Positionen'
+    instructions: 'Setze die Verben in den Konjunktiv I (Wiederholung C1/05). 8 Items.'
+    text: |
+      1. (sein, Sg.) Der Bundesrechnungshof betont, die Reform {1} unzureichend.
+      2. (sein, Pl.) Kritiker bezweifeln, dass diese Trennung {2} aufrechtzuerhalten.
+      3. (haben) Befürworter argumentieren, die KI {3} entlastende Wirkung.
+      4. (müssen) Sie sagen, man {4} stärker in Weiterbildung investieren.
+      5. (geben) Die Autorin betont, es {5} verlässliche Daten.
+      6. (sein, Sg.) Sie meint, der Datenschutz {6} nicht verhandelbar.
+      7. (werden) Die Forschenden erklären, das Berufsbild {7} sich verändern.
+      8. (können, 3. Pl.) Sie behaupten, KI {8} Lehrkräfte nicht ersetzen.
+    answers:
+      "1": sei
+      "2": seien
+      "3": habe
+      "4": müsse
+      "5": gebe
+      "6": sei
+      "7": werde
+      "8": können
+
+  - id: A3
+    block: A
+    type: single-choice
+    title: 'Hedging bei Prognosen — welche Formulierung ist vorsichtig?'
+    optionLayout: block
+    instructions: 'Wähle die vorsichtige Prognose.'
+    items:
+      - q: 'Wie formuliert man eine Prognose am vorsichtigsten?'
+        options:
+          - { key: a, text: 'Im Jahr 2040 wird die Zahl um 30 Prozent steigen.' }
+          - { key: b, text: 'Die Zahl dürfte bis 2040 um rund 30 Prozent steigen.' }
+          - { key: c, text: 'Die Zahl steigt auf jeden Fall um 30 Prozent.' }
+        answer: b
+        why: '„dürfte" (Modalverb der Vermutung) + „rund" (Bandbreite) + „bis" (Zeithorizont) — drei Hedging-Elemente.'
+      - q: 'Welche Formulierung gibt eine Bandbreite an?'
+        options:
+          - { key: a, text: 'Der Anteil steigt deutlich.' }
+          - { key: b, text: 'Der Anteil dürfte zwischen 25 und 30 Prozent liegen.' }
+          - { key: c, text: 'Der Anteil beträgt 27 Prozent.' }
+        answer: b
+        why: '„zwischen 25 und 30 Prozent" gibt eine Bandbreite an.'
+      - q: 'Welche Formulierung nennt eine Bedingung?'
+        options:
+          - { key: a, text: 'Es ist damit zu rechnen, dass die Zahl steigt.' }
+          - { key: b, text: 'Die Zahl steigt.' }
+          - { key: c, text: 'Sofern die Zuwanderung konstant bleibt, dürfte die Bevölkerungszahl stabil bleiben.' }
+        answer: c
+        why: '„sofern" leitet eine Bedingung ein; „dürfte" markiert die Vermutung.'
+      - q: 'Welche Formulierung unterscheidet Szenarien?'
+        options:
+          - { key: a, text: 'Die Entwicklung ist ungewiss.' }
+          - { key: b, text: 'Im besten Fall stabilisiert sich die Zahl, im schlechtesten Fall halbiert sie sich.' }
+          - { key: c, text: 'Die Zahl wird sich verändern.' }
+        answer: b
+        why: '„im besten Fall …, im schlechtesten Fall …" = zwei Szenarien.'
+      - q: 'Welche Formulierung stapelt zu viele Hedges?'
+        options:
+          - { key: a, text: 'Die Zahl dürfte voraussichtlich vermutlich steigen.' }
+          - { key: b, text: 'Die Zahl dürfte vermutlich steigen.' }
+          - { key: c, text: 'Die Zahl steigt.' }
+        answer: a
+        why: 'Mehrere Hedges hintereinander wirken unsicher statt vorsichtig — ein Hedge genügt.'
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: 'Hedging-Mittel einsetzen'
+    instructions: 'Setze das passende Hedging-Mittel ein. 6 Items.'
+    text: |
+      1. Modalverb: Die Zahl {1} bis 2040 um rund 30 Prozent steigen.
+      2. Adverb: {2} wird auch der Pflegebedarf zunehmen.
+      3. Wendung: Es ist {3} zu rechnen, dass die Kosten steigen.
+      4. Bandbreite: Der Anteil {4} zwischen 25 und 30 Prozent liegen.
+      5. Bedingung: {5} die Zuwanderung konstant bleibt, dürfte sich die Lage stabilisieren.
+      6. Szenario: {6} Fall dürfte der Anteil sinken, im schlechtesten Fall stagnieren.
+    answers:
+      "1": dürfte
+      "2": Voraussichtlich
+      "3": damit
+      "4": dürfte
+      "5": Sofern
+      "6": Im besten
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: 'Statistik versprachlichen'
+    instructions: 'Setze die passende Präposition (um, auf, von, auf …) oder den passenden Anteil ein. 8 Items.'
+    text: |
+      1. Die Zahl steigt {1} 5 Prozent. (Veränderung)
+      2. Die Zahl steigt {2} 30 Prozent. (neuer Stand)
+      3. Die Bevölkerung wuchs von 80 {3} 83 Millionen.
+      4. Der Anteil liegt bei {4} Viertel der Bevölkerung.
+      5. Nahezu {5} Drittel der Erwerbstätigen arbeitet im Homeoffice.
+      6. {6} die Hälfte der Befragten stimmte zu.
+      7. Der Anteil hat sich gegenüber 1990 {7} verdoppelt.
+      8. Die Arbeitslosigkeit {8} seit Jahren kontinuierlich.
+    answers:
+      "1": um
+      "2": auf
+      "3": auf
+      "4": einem
+      "5": ein
+      "6": Knapp
+      "7": ""
+      "8": sinkt
+
+  - id: A6
+    block: A
+    type: single-choice
+    title: 'Register: registergerechte vs. registerunscharfe Lexik'
+    optionLayout: block
+    instructions: 'Wähle die registergerechte (sachliche) Formulierung.'
+    items:
+      - q: 'Welche Formulierung passt in einen Sachtext?'
+        options:
+          - { key: a, text: 'Wir müssen die Flüchtlingswelle stoppen.' }
+          - { key: b, text: 'Wir müssen die Zuwanderung steuern.' }
+          - { key: c, text: 'Wir müssen die Ausländer draußen halten.' }
+        answer: b
+        why: '„Zuwanderung steuern" ist sachlich; „Flüchtlingswelle" ist emotional aufgeladen, „Ausländer draußen halten" ist diskreditierend.'
+      - q: 'Welche Formulierung passt in einen Kommentar?'
+        options:
+          - { key: a, text: 'Die Alten kosten zu viel.' }
+          - { key: b, text: 'Der Anteil älterer Menschen nimmt weiter zu.' }
+          - { key: c, text: 'Die Alten werden immer mehr.' }
+        answer: b
+        why: '„Anteil … nimmt weiter zu" ist sachliche Statistikversprachlichung; die anderen Varianten sind registerunscharf oder reduktiv.'
+      - q: 'Welche Formulierung passt in eine Erörterung?'
+        options:
+          - { key: a, text: 'Multikulti ist gescheitert.' }
+          - { key: b, text: 'Die plurale Gesellschaft steht vor Herausforderungen.' }
+          - { key: c, text: 'Die Multikulti-Träume sind aus.' }
+        answer: b
+        why: '„plurale Gesellschaft" ist registergerecht; „Multikulti" ist umgangssprachlich und oft ironisch.'
+      - q: 'Welche Formulierung passt in einen politischen Sachtext?'
+        options:
+          - { key: a, text: 'Wir haben ein Asylantenproblem.' }
+          - { key: b, text: 'Die Migrationspolitik steht vor großen Herausforderungen.' }
+          - { key: c, text: 'Die Asylanten überschwemmen das Land.' }
+        answer: b
+        why: '„Migrationspolitik" ist sachlich; die anderen Varianten sind diskreditierend.'
+      - q: 'Welche Formulierung passt in einen wirtschaftspolitischen Text?'
+        options:
+          - { key: a, text: 'Wir machen jetzt einen Plan gegen den Fachkräftemangel.' }
+          - { key: b, text: 'Es wird eine kohärente Strategie zur Bekämpfung des Fachkräftemangels entwickelt.' }
+          - { key: c, text: 'Wir tun jetzt was gegen den Personalmangel.' }
+        answer: b
+        why: '„kohärente Strategie" + Passiv ist registergerecht; die anderen Varianten sind umgangssprachlich.'
+
+  - id: A7
+    block: A
+    type: matching
+    title: 'Wortschatz: Begriffe und Erklärungen'
+    instructions: 'Ordne jedem Begriff (1–5) die passende Erklärung (a–e) zu.'
+    left:
+      - { key: '1', text: 'die Demografie' }
+      - { key: '2', text: 'die Integration' }
+      - { key: '3', text: 'die Assimilation' }
+      - { key: '4', text: 'der Generationenvertrag' }
+      - { key: '5', text: 'die Nachhaltigkeit' }
+    right:
+      - { key: a, text: 'die Wissenschaft und Beschreibung der Bevölkerungsstruktur' }
+      - { key: b, text: 'die Teilhabe von Zugewanderten am gesellschaftlichen Leben unter Wahrung der Identität' }
+      - { key: c, text: 'die Anpassung an die Mehrheitsgesellschaft' }
+      - { key: d, text: 'die implizite Vereinbarung, dass Erwerbstätige die Renten der Älteren finanzieren' }
+      - { key: e, text: 'das Prinzip, heutige Bedürfnisse zu erfüllen, ohne künftige Generationen zu beeinträchtigen' }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+
+  - id: A8
+    block: A
+    type: gap-bank
+    title: 'Kollokationen des Diskurses'
+    instructions: 'Füll die 6 Lücken mit dem passenden Wort aus dem Kasten. Drei Wörter sind zu viel.'
+    text: |
+      1. Die Reform hat eine heftige Debatte {1}.
+      2. Wir müssen den Diskurs wieder {2}.
+      3. Die Politikerin hat klar {3} bezogen.
+      4. Wir müssen den gesellschaftlichen Wandel aktiv {4}.
+      5. Die Politik muss jetzt die {5} stellen.
+      6. Es besteht dringender {6} Handlungsbedarf.
+    bank: [ausgelöst, versachlichen, Stellung, gestalten, Weichen, politischer, gelenkt, beigetragen, soziale]
+    answers:
+      "1": ausgelöst
+      "2": versachlichen
+      "3": Stellung
+      "4": gestalten
+      "5": Weichen
+      "6": politischer
+
+  - id: A9
+    block: A
+    type: single-choice
+    title: 'Konjunktiv II als vorsichtige Distanzierung'
+    optionLayout: block
+    instructions: 'Wähle die Formulierung mit höflicher Distanzierung.'
+    items:
+      - q: 'Welche Formulierung signalisiert höfliche Distanz?'
+        options:
+          - { key: a, text: 'Diese Position ist falsch.' }
+          - { key: b, text: 'Diese Position wäre zu kurz gegriffen.' }
+          - { key: c, text: 'Diese Position ist Quatsch.' }
+        answer: b
+        why: '„wäre" (Konjunktiv II) signalisiert Distanz ohne direkte Kritik.'
+      - q: 'Welche Formulierung ist ein höflicher Widerspruch?'
+        options:
+          - { key: a, text: 'Ich muss Ihnen widersprechen.' }
+          - { key: b, text: 'Da würde ich widersprechen.' }
+          - { key: c, text: 'Das stimmt nicht.' }
+        answer: b
+        why: '„würde … widersprechen" ist Konjunktiv II als Höflichkeitsform.'
+      - q: 'Welche Formulierung drückt eine hypothetische Schlussfolgerung aus?'
+        options:
+          - { key: a, text: 'Wenn man so argumentiert, hat man recht.' }
+          - { key: b, text: 'Wenn man so argumentiert, würde das heißen, dass KI jede Verantwortung übernimmt.' }
+          - { key: c, text: 'Wenn man so argumentiert, ist das schlecht.' }
+        answer: b
+        why: '„würde das heißen" = Konjunktiv II in einer irrealen Schlussfolgerung.'
+      - q: 'Welche Formulierung ist eine höfliche Bitte um Klärung?'
+        options:
+          - { key: a, text: 'Was meinen Sie damit?' }
+          - { key: b, text: 'Dürfte ich fragen, was Sie damit meinen?' }
+          - { key: c, text: 'Erklären Sie das!' }
+        answer: b
+        why: '„Dürfte ich fragen …" = Konjunktiv II als Höflichkeit.'
+      - q: 'Welche Formulierung ist eine vorsichtige Vermutung?'
+        options:
+          - { key: a, text: 'Er ist schuld.' }
+          - { key: b, text: 'Er könnte schuld sein.' }
+          - { key: c, text: 'Er ist definitiv schuld.' }
+        answer: b
+        why: '„könnte sein" = Konjunktiv II als Vermutung.'
+
+  - id: A10
+    block: A
+    type: order
+    title: 'Satzbau: diskursive Strukturen'
+    instructions: 'Bring die Wörter in die richtige Reihenfolge.'
+    items:
+      - tiles: [Einerseits, ermöglicht, KI, mehr, Individualisierung, andererseits, verändert, sie, die, Rolle, der, Lehrkraft]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        note: 'Einerseits ermöglicht KI mehr Individualisierung, andererseits verändert sie die Rolle der Lehrkraft.'
+      - tiles: [Zwar, ist, die, Fachsprache, nötig, dennoch, muss, sie, verständlich, sein]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        note: 'Zwar ist die Fachsprache nötig, dennoch muss sie verständlich sein.'
+      - tiles: [Der, Bundesrechnungshof, betont, die, Reform, sei, unzureichend]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: 'Der Bundesrechnungshof betont, die Reform sei unzureichend.'
+      - tiles: [Diese, Position, wäre, zu, kurz, gegriffen]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: 'Diese Position wäre zu kurz gegriffen.'
+
+  - id: A11
+    block: A
+    type: gap-text
+    listLayout: true
+    title: 'Versprachlichung von Anteilen und Veränderungen'
+    instructions: 'Setze das passende Wort ein. 6 Items.'
+    text: |
+      1. {1} einem Viertel der Bevölkerung ist über 65.
+      2. Die Zahl der Pflegebedürftigen {2} sich um rund 30 Prozent {3}.
+      3. Im Vergleich zu 1990 hat sich der Anteil der über 65-Jährigen {4}.
+      4. Seit {5} ist ein Trend zur Überalterung zu beobachten.
+      5. Die Einnahmen {6} seit Jahren kontinuierlich.
+    answers:
+      "1": Knapp
+      "2": dürfte
+      "3": erhöhen
+      "4": verdoppelt
+      "5": Jahrzehnten
+      "6": sinken
+
+  - id: A12
+    block: A
+    type: matching
+    title: 'Register: sachlich vs. umgangssprachlich'
+    instructions: 'Ordne jeder sachlichen Formulierung (1–5) die registerunscharfe Variante (a–e) zu.'
+    left:
+      - { key: '1', text: 'gesellschaftliche Teilhabe ermöglichen' }
+      - { key: '2', text: 'Zuwanderung steuern' }
+      - { key: '3', text: 'eine kohärente Strategie entwickeln' }
+      - { key: '4', text: 'demografischer Wandel' }
+      - { key: '5', text: 'bürgerschaftliches Engagement' }
+    right:
+      - { key: a, text: 'Leute integrieren' }
+      - { key: b, text: 'Ausländer stoppen' }
+      - { key: c, text: 'einen Plan machen' }
+      - { key: d, text: 'Alter-werden' }
+      - { key: e, text: 'Leute, die was tun' }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+
+  # ── Block B — Vertiefung ─────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-text
+    listLayout: true
+    title: 'Eine Erörterung vervollständigen'
+    instructions: 'Setze die passende Form ein (Konnektoren, Konjunktiv I, Hedging, Statistik). 8 Items.'
+    text: |
+      **Einleitung:**
+      Die Frage, {1} KI an Schulen erprobt werden sollte, wird seit Jahren kontrovers diskutiert.
+
+      **Pro-Argumente:**
+      Für den Einsatz spricht, dass KI die {2} (= Anpassung an den Einzelnen) ermöglicht. {3} (= wenn eine Bedingung erfüllt ist) der Lehrkräftemangel anhält, könnte KI zudem entlasten.
+
+      **Contra-Argumente (Konjunktiv I):**
+      Kritiker betonen, die Reform {4} (Konjunktiv I von „ist") unzureichend. Sie bezweifeln, dass KI die Beziehungsarbeit {5} (Konjunktiv I von „kann").
+
+      **Statistik:**
+      Laut einer Studie dürfte der Anteil der Tätigkeiten, die KI übernehmen kann, bis 2030 auf etwa 25 {6} steigen.
+
+      **Schlussfolgerung:**
+      Weder ein klares Ja {7} ein klares Nein ist angemessen; vielmehr kommt es auf den konkreten {8} an.
+    answers:
+      "1": ob
+      "2": Individualisierung
+      "3": Sofern
+      "4": sei
+      "5": könne
+      "6": Prozent
+      "7": noch
+      "8": Einsatzbereich
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: 'Diskursive Strukturen: Abwägen'
+    optionLayout: block
+    instructions: 'Wähle die ausgewogene Formulierung.'
+    items:
+      - q: 'Welche Formulierung wägt sachlich ab?'
+        options:
+          - { key: a, text: 'KI ist gut, weil sie alles besser macht.' }
+          - { key: b, text: 'Einerseits bietet KI Chancen für die Individualisierung, andererseits wirft sie Fragen zum Datenschutz auf.' }
+          - { key: c, text: 'KI ist schlecht, weil sie die Lehrkraft ersetzt.' }
+        answer: b
+        why: 'Einerseits-Andererseits mit konkreten Argumenten statt wertender Schwarz-Weiß-Malerei.'
+      - q: 'Welche Formulierung räumt ein, ohne die eigene Position aufzugeben?'
+        options:
+          - { key: a, text: 'Das Gegenargument ist falsch.' }
+          - { key: b, text: 'Da ist zwar etwas dran, dennoch überwiegen für mich die Vorteile.' }
+          - { key: c, text: 'Das verstehe ich nicht.' }
+        answer: b
+        why: '„Da ist zwar etwas dran" (Einräumen), „dennoch" (Widerspruch) — Formel für ausgewogenes Argumentieren.'
+      - q: 'Welche Formulierung gibt eine fremde Position korrekt wieder (Konjunktiv I)?'
+        options:
+          - { key: a, text: 'Befürworter sagen, KI ist sinnvoll.' }
+          - { key: b, text: 'Befürworter sagen, KI sei sinnvoll.' }
+          - { key: c, text: 'Befürworter würden sagen, KI sei sinnvoll.' }
+        answer: b
+        why: 'Konjunktiv I „sei" markiert die fremde Position; „würden sagen" wäre Konjunktiv II und doppelt abgeschwächt.'
+      - q: 'Welche Formulierung unterscheidet Szenarien?'
+        options:
+          - { key: a, text: 'Die Zukunft ist ungewiss.' }
+          - { key: b, text: 'Im besten Fall steigt die Beschäftigung, im schlechtesten Fall sinkt sie.' }
+          - { key: c, text: 'Man weiß nicht, was passiert.' }
+        answer: b
+        why: '„Im besten Fall …, im schlechtesten Fall …" unterscheidet zwei Szenarien.'
+      - q: 'Welche Formulierung macht eine vorsichtige Prognose mit Bandbreite und Bedingung?'
+        options:
+          - { key: a, text: 'Bis 2040 sinkt die Erwerbstätigenzahl um 5 Millionen.' }
+          - { key: b, text: 'Sofern die Zuwanderung konstant bleibt, dürfte die Erwerbstätigenzahl bis 2040 um etwa 5 Millionen sinken.' }
+          - { key: c, text: 'Die Erwerbstätigenzahl wird sinken.' }
+        answer: b
+        why: 'Bedingung („sofern") + Hedging („dürfte") + Bandbreite („etwa") + Zeithorizont („bis 2040").'
+
+  - id: B3
+    block: B
+    type: matching
+    title: 'Hedging-Mittel zuordnen'
+    instructions: 'Ordne jedem Hedging-Beispiel (1–6) die richtige Kategorie (a–f) zu.'
+    left:
+      - { key: '1', text: 'Die Zahl dürfte um 30 Prozent steigen.' }
+      - { key: '2', text: 'Vermutlich spielt auch der soziale Hintergrund eine Rolle.' }
+      - { key: '3', text: 'Es ist damit zu rechnen, dass die Kosten steigen.' }
+      - { key: '4', text: 'Die Zahl liegt zwischen 25 und 30 Prozent.' }
+      - { key: '5', text: 'Sofern die Politik handelt, dürfte sich die Lage stabilisieren.' }
+      - { key: '6', text: 'Im besten Fall stabilisiert sich die Lage.' }
+    right:
+      - { key: a, text: 'Modalverb der Vermutung' }
+      - { key: b, text: 'epistemisches Adverb' }
+      - { key: c, text: 'distanzierende Wendung' }
+      - { key: d, text: 'Bandbreite' }
+      - { key: e, text: 'Bedingung' }
+      - { key: f, text: 'Szenario' }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+
+  - id: B4
+    block: B
+    type: gap-text
+    listLayout: true
+    title: 'Statistik-Versprachlichung im Kontext'
+    instructions: 'Setze das passende Wort ein. 6 Items.'
+    text: |
+      1. Die Zahl der Pflegebedürftigen dürfte bis 2040 {1} rund 30 Prozent {2}.
+      2. Im Vergleich zu 1990 hat sich der Anteil der über 65-Jährigen {3}.
+      3. Die Zahl der Erwerbstätigen {4} seit Jahren {5}.
+      4. Nahezu ein {6} der Bevölkerung ist über 65.
+    answers:
+      "1": um
+      "2": steigen
+      "3": verdoppelt
+      "4": sinkt
+      "5": kontinuierlich
+      "6": Fünftel
+
+  - id: B5
+    block: B
+    type: single-choice
+    title: 'Registerbruch erkennen'
+    optionLayout: block
+    instructions: 'Wähle die registergerechte Formulierung.'
+    items:
+      - q: 'In einem politischen Kommentar:'
+        options:
+          - { key: a, text: 'Die Politiker labern ja nur rum.' }
+          - { key: b, text: 'Die Politiker vermeiden es, die unangenehmen Wahrheiten auszusprechen.' }
+          - { key: c, text: 'Die Politiker reden wie immer dummes Zeug.' }
+        answer: b
+        why: '„vermeiden es, die unangenehmen Wahrheiten auszusprechen" ist sachlich; die anderen Varianten sind umgangssprachlich.'
+      - q: 'In einer Stellungnahme:'
+        options:
+          - { key: a, text: 'Die Asylantenflut ist nicht zu stoppen.' }
+          - { key: b, text: 'Die Zuwanderung erfordert eine kohärente politische Steuerung.' }
+          - { key: c, text: 'Die Ausländer kommen einfach immer mehr.' }
+        answer: b
+        why: '„Zuwanderung erfordert kohärente Steuerung" ist sachlich; die anderen Varianten sind emotional aufgeladen oder diskreditierend.'
+      - q: 'In einer wirtschaftspolitischen Analyse:'
+        options:
+          - { key: a, text: 'Die Wirtschaft brummt, alles ist super.' }
+          - { key: b, text: 'Die wirtschaftliche Lage zeigt sich insgesamt stabil, wenngleich Risiken bestehen.' }
+          - { key: c, text: 'Es läuft alles mega.' }
+        answer: b
+        why: '„zeigt sich insgesamt stabil, wenngleich Risiken bestehen" ist sachlich; die anderen Varianten sind umgangssprachlich.'
+      - q: 'In einem leserbrief an eine Zeitung:'
+        options:
+          - { key: a, text: 'Ihr Artikel ist der totale Schwachsinn.' }
+          - { key: b, text: 'Ihr Artikel wirft wichtige Fragen auf, lässt aber einige Aspekte unberücksichtigt.' }
+          - { key: c, text: 'Ihr Artikel ist echt schlecht.' }
+        answer: b
+        why: '„wirft wichtige Fragen auf, lässt aber … unberücksichtigt" ist höflich und sachlich; die anderen Varianten sind beleidigend.'
+      - q: 'In einer Diskussionssendung:'
+        options:
+          - { key: a, text: 'Das ist doch eh alles Quatsch.' }
+          - { key: b, text: 'Diese These ließe sich kritisch hinterfragen.' }
+          - { key: c, text: 'Das ist vollkommener Blödsinn.' }
+        answer: b
+        why: '„ließe sich kritisch hinterfragen" ist sachlich; die anderen Varianten sind polemisch und registerunscharf.'
+
+  - id: B6
+    block: B
+    type: gap-text
+    listLayout: true
+    title: 'Eine Erörterung über KI an Schulen — Schluss'
+    instructions: 'Setze die passende Form ein. 6 Items.'
+    text: |
+      Im Folgenden werden die wichtigsten Argumente {1} (zusammenfassend).
+      Einerseits verspricht KI mehr {2} (Anpassung an den Einzelnen),
+      andererseits verändert sie die Rolle der {3} grundlegend.
+      Einer aktuellen Studie {4} dürfte der Anteil der durch KI
+      veränderbaren Tätigkeiten bis 2030 auf etwa 25 Prozent {5}.
+      Demnach sollte KI weder ersetzen noch ablehnen, sondern als
+      {6} in einem pädagogisch verantworteten Rahmen dienen.
+    answers:
+      "1": zusammengefasst
+      "2": Individualisierung
+      "3": Lehrkraft
+      "4": zufolge
+      "5": steigen
+      "6": Ergänzung
+
+  - id: B7
+    block: B
+    type: categorize
+    title: 'Begriffe: neutral oder wertend?'
+    instructions: 'Sortiere die Begriffe in die richtige Kategorie.'
+    buckets:
+      - { key: neutral, label: 'Neutral / sachlich' }
+      - { key: wertend, label: 'Wertend / registerunscharf' }
+    tokens:
+      - { text: 'die Zuwanderung', bucket: neutral }
+      - { text: 'die plurale Gesellschaft', bucket: neutral }
+      - { text: 'die Integration', bucket: neutral }
+      - { text: 'die Flüchtlingswelle', bucket: wertend }
+      - { text: 'die Multikulti-Träume', bucket: wertend }
+      - { text: 'die Asylanten', bucket: wertend }
+      - { text: 'die Überalterung', bucket: neutral }
+      - { text: 'die Rentnerschwemme', bucket: wertend }
+
+  - id: B8
+    block: B
+    type: free-write
+    title: 'Eine kurze Stellungnahme verfassen'
+    prompt: 'Schreibe eine kurze Stellungnahme (6–8 Sätze) zu folgender Frage: „Sollte KI an Schulen erprobt werden?" Argumentiere differenziert und abgewogen. Nutze mindestens zwei zweiteilige Konnektoren, einmal Konjunktiv I für eine fremde Position, einmal Hedging für eine Prognose, einmal eine Statistik-Versprachlichung und vermeide registerunscharfe Lexik.'
+    stimulus: |
+      Ausgangslage: Du schreibst für die Schülerzeitung. Dein Physiklehrer hat einen Artikel zum Thema „KI an Schulen" angekündigt und bittet um Leserbriefe.
+    use:
+      - 'Mindestens 2 zweiteilige Konnektoren (einerseits/andererseits, zwar/aber, nicht nur/sondern auch)'
+      - 'Mindestens 1 Konjunktiv I für eine fremde Position („X sagt/argumentiert, Y sei …")'
+      - 'Mindestens 1 Hedging-Mittel (dürfte, vermutlich, voraussichtlich)'
+      - 'Mindestens 1 Statistik-Versprachlichung (um … Prozent, ein Drittel, sich verdoppeln)'
+      - 'Sachliche Lexik (kein „Multikulti", „Flüchtlingswelle", „Asylanten")'
+    selfCheck:
+      - 'Habe ich mindestens zwei zweiteilige Konnektoren korrekt eingesetzt?'
+      - 'Habe ich mindestens eine fremde Position im Konjunktiv I wiedergegeben?'
+      - 'Ist meine Prognose vorsichtig formuliert (Hedging)?'
+      - 'Habe ich mindestens eine Statistik korrekt versprachlicht?'
+      - 'Ist meine Wortwahl durchgehend sachlich (kein Registerbruch)?'
+    model: |
+      „Die Frage, ob KI an Schulen erprobt werden sollte, wird in Deutschland kontrovers diskutiert. Einerseits verspricht der Einsatz mehr Individualisierung, andererseits wirft er erhebliche Fragen zum Datenschutz auf. Befürworter argumentieren, KI könne Lehrkräfte entlasten — laut einer Studie des Instituts für Arbeitsmarkt- und Berufsforschung dürften bis 2030 rund 25 Prozent der Tätigkeiten durch KI verändert werden. Kritiker betonen hingegen, dass die Beziehungsarbeit zwischen Lehrkraft und Schüler*innen nicht ersetzbar sei. Zwar lässt sich der Lehrkräftemangel nicht wegdiskutieren, dennoch ist der Datenschutz nicht verhandelbar. Weder ein klares Ja noch ein klares Nein ist angemessen; vielmehr kommt es auf den konkreten Einsatzbereich und auf klare rechtliche Rahmenbedingungen an."
+
+  - id: B9
+    block: B
+    type: free-write
+    title: 'Vom Boulevard-Jargon in die politische Sprache'
+    prompt: 'Eine Bekannte postet in den sozialen Medien eine sehr zugespitzte Aussage zum Thema Zuwanderung. Schreib die Aussage in eine sachliche, ausgewogene Formulierung um (5–6 Sätze). Verwende mindestens eine sachliche Lexik (statt des Boulevard-Wortes), mindestens einen zweiteiligen Konnektor und mindestens ein Hedging-Mittel.'
+    stimulus: |
+      Facebook-Post von Bekannter:
+      „Die Asylantenflut muss endlich gestoppt werden. Wir haben kein Platz mehr, und die kosten uns eh nur Geld!!!"
+    use:
+      - 'Sachliche Lexik statt „Asylantenflut" und „Platz" und „kosten"'
+      - 'Mindestens 1 zweiteiliger Konnektor (zwar/aber, einerseits/andererseits)'
+      - 'Mindestens 1 Hedging-Mittel'
+      - 'Mindestens 1 Statistik-Versprachlichung oder sachliches Argument'
+    selfCheck:
+      - 'Ist die Wortwahl durchgehend sachlich (kein Boulevard-Jargon)?'
+      - 'Wird die Position differenziert dargestellt, nicht platt umgedreht?'
+      - 'Wird mindestens eine fremde Position anerkannt?'
+      - 'Wird die Frage nicht polemisch, sondern abgewogen formuliert?'
+    model: |
+      „Die öffentliche Debatte über Zuwanderung ist oft von Polemik geprägt. Sachlich betrachtet, stellt Zuwanderung sowohl eine Herausforderung als auch eine Chance dar. Einerseits erfordert die Integration der Zugewanderten erhebliche Investitionen — etwa in Sprach- und Berufsanerkennungskurse —, andererseits könnte sie langfristig dem Fachkräftemangel entgegenwirken. Zwar lassen sich die Kosten nicht wegdiskutieren, dennoch sollte man auch die positiven Effekte berücksichtigen. Eine kohärente Migrationspolitik, die Integration, Fachkräftesicherung und gesellschaftlichen Zusammenhalt miteinander verzahnt, dürfte wirksamer sein als plakative Forderungen."
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: 'Lückentext: Demografie und Gesellschaft'
+    instructions: 'Füll jede Lücke mit **einem** passenden Wort. 10 Items.'
+    text: |
+      Der demografische Wandel gehört zu den beständigsten Themen der
+      politischen Debatte. Die Zahl der {1} 65-Jährigen dürfte bis 2040
+      um rund 25 Prozent {2}, während die Zahl der Erwerbstätigen
+      tendenziell {3}. Diese Entwicklung hat {4} Auswirkungen auf
+      die Kommunalfinanzen. {5} die Zuwanderung konstant bleibt,
+      dürfte sich die Lage zwar abmildern, {6} nicht vollständig
+      kompensieren. Die {7} (sachliche Wortwahl für „Alte") ist
+      daher kein Schreckensszenario, sondern eine demografische
+      Realität. Politischer {8} ist nötig: bezahlbarer Wohnraum,
+      gute Kitas, verlässliche {9} (Öffentlicher Personennahverkehr).
+      Eine kohärente {10} muss diese Politikfelder verzahnen.
+    answers:
+      "1": über
+      "2": steigen
+      "3": sinkt
+      "4": erhebliche
+      "5": Sofern
+      "6": aber
+      "7": Überalterung
+      "8": Handlungsbedarf
+      "9": ÖPNV-Anbindung
+      "10": Demografiepolitik
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: 'Sprachbausteine Teil 1'
+    optionLayout: block
+    instructions: 'Wähle die passende Option (a, b oder c) für jede Lücke.'
+    items:
+      - q: 'Einerseits {1} KI mehr Individualisierung.'
+        options:
+          - { key: a, text: 'ermöglicht' }
+          - { key: b, text: 'ermöglichte' }
+          - { key: c, text: 'zu ermöglichen' }
+        answer: a
+        why: 'Präsens (Hauptsatz) nach „Einerseits …".'
+      - q: 'Kritiker betonen, KI {1} die Lehrkraft nicht ersetzen.'
+        options:
+          - { key: a, text: 'kann' }
+          - { key: b, text: 'könne' }
+          - { key: c, text: 'könnte' }
+        answer: b
+        why: 'Konjunktiv I („könne") für die fremde Position.'
+      - q: 'Die Zahl der Pflegebedürftigen {1} bis 2040 um 30 Prozent steigen.'
+        options:
+          - { key: a, text: 'wird' }
+          - { key: b, text: 'dürfte' }
+          - { key: c, text: 'müsste' }
+        answer: b
+        why: '„dürfte" — Modalverb der Vermutung (Hedging).'
+      - q: '{1} der Bevölkerung ist über 65.'
+        options:
+          - { key: a, text: 'Ein Viertel' }
+          - { key: b, text: 'Eine Viertel' }
+          - { key: c, text: 'Eines Viertels' }
+        answer: a
+        why: '„Viertel" ist sächlich → „Ein Viertel" (nicht „Eine").'
+      - q: 'Die Reform {1} unzureichend.'
+        options:
+          - { key: a, text: 'ist' }
+          - { key: b, text: 'sei' }
+          - { key: c, text: 'wäre' }
+        answer: b
+        why: 'Konjunktiv I („sei") für die fremde Position.'
+      - q: 'Die Einnahmen {1} sich verschlechtern.'
+        options:
+          - { key: a, text: 'werden' }
+          - { key: b, text: 'dürften' }
+          - { key: c, text: 'müssten' }
+        answer: b
+        why: '„dürften" + Verb — Modalverb der Vermutung.'
+
+  - id: C3
+    block: C
+    type: gap-bank
+    bankCase: upper
+    bankSort: true
+    title: 'Sprachbausteine Teil 2 (Wortbank)'
+    instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    text: |
+      Aus einem Zeitungsartikel: „Die Frage, ob KI an Schulen erprobt
+      werden sollte, ist {1}. Einerseits {2} KI mehr Individualisierung,
+      andererseits verändert sie die {3} der Lehrkraft grundlegend.
+      Befürworter {4}, KI {5} Lehrkräfte entlasten — Kritiker
+      bezweifeln, dass diese Trennung {6} aufrechtzuerhalten sei.
+      Einer aktuellen Studie {7} dürfte der Anteil der durch KI
+      veränderbaren Tätigkeiten bis 2030 auf etwa 25 Prozent
+      {8}. Demnach sollte KI weder ersetzen noch ablehnen,
+      sondern als {9} in einem pädagogisch verantworteten Rahmen
+      dienen. Es besteht {10} Handlungsbedarf."
+    bank: [KONTROVERS, ERMÖGLICHT, ROLLE, ARGUMENTIEREN, KÖNNE, SEI, ZUFOLGE, STEIGEN, ERGÄNZUNG, POLITISCHER, EINVERSTANDEN, MÜSSE, AUFGABE, VERÄNDERT]
+    answers:
+      "1": KONTROVERS
+      "2": ERMÖGLICHT
+      "3": ROLLE
+      "4": ARGUMENTIEREN
+      "5": KÖNNE
+      "6": SEI
+      "7": ZUFOLGE
+      "8": STEIGEN
+      "9": ERGÄNZUNG
+      "10": POLITISCHER
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: 'Lesen Text 1 (Lesetext: Generationengerechtigkeit)'
+    instructions: |
+      > Der demografische Wandel gehört zu den beständigsten Themen der politischen Debatte in Deutschland. Seit Jahrzehnten zeichnet sich ein Trend ab: Die Bevölkerung altert, die Zahl der Erwerbstätigen sinkt, und die Kosten für Rente, Pflege und Gesundheit steigen. Was bedeutet das konkret — und wer trägt die Lasten?
+      >
+      > Die Faktenlage ist eindeutig: Laut Statistischem Bundesamt dürfte der Anteil der über 65-Jährigen an der Gesamtbevölkerung bis 2040 von rund 22 auf etwa 27 Prozent steigen. Die Zahl der Pflegebedürftigen könnte im gleichen Zeitraum um rund 30 Prozent zunehmen. Gleichzeitig sinkt die Zahl der Erwerbstätigen seit Jahren kontinuierlich. Diese Entwicklung ist nicht umkehrbar — sie lässt sich allenfalls abmildern.
+      >
+      > Was bedeutet das für die Finanzierung des Sozialstaats? Das Umlageverfahren, also die Finanzierung der laufenden Renten aus den Beiträgen der jetzigen Erwerbstätigen, gerät zunehmend unter Druck. Wenn weniger Beitragszahler*innen immer mehr Rentner*innen finanzieren müssen, droht eine Lücke — es sei denn, die Politik reagiert. Einerseits könnten die Beiträge steigen, andererseits ließe sich das Rentenniveau senken, und schließlich könnte man stärker auf private Vorsorge setzen. Alle drei Wege haben Vor- und Nachteile.
+      >
+      > Eine zweite, oft übersehene Dimension ist die Generationengerechtigkeit: Wer heute jung ist, wird in den nächsten Jahrzehnten sowohl für die jetzige Rentnergeneration als auch für die eigene Altersversorgung vorsorgen müssen. Zwar lässt sich der demografische Wandel durch Zuwanderung teilweise abfedern — doch ohne eine kohärente Integrationspolitik nützt die Zuwanderung wenig. Wer hier nur an Zuwanderung denkt, verlagert das Problem lediglich.
+      >
+      > Die öffentliche Debatte ist oft polemisch: Schlagworte wie „Generationenkrieg" oder „Rentnersitze räumen" ersetzen die sachliche Auseinandersetzung. Dabei ist die Frage, wie die Gesellschaft mit dem demografischen Wandel umgeht, eine der zentralen politischen Fragen unserer Zeit. Sie verdient eine ebenso differenzierte wie mutige Antwort — und vielleicht ist genau das die größte Herausforderung: die Bereitschaft, langfristig zu denken, statt kurzfristige Slogans zu produzieren.
+
+      Richtig (R) oder Falsch (F)?
+    items:
+      - q: 'Laut Text dürfte der Anteil der über 65-Jährigen bis 2040 auf etwa 27 Prozent steigen.'
+        answer: true
+        why: '„dürfte der Anteil der über 65-Jährigen an der Gesamtbevölkerung bis 2040 von rund 22 auf etwa 27 Prozent steigen."'
+      - q: 'Der Text behauptet, der demografische Wandel sei vollständig umkehrbar.'
+        answer: false
+        why: '„Diese Entwicklung ist nicht umkehrbar — sie lässt sich allenfalls abmildern."'
+      - q: 'Der Text nennt drei mögliche Reaktionen auf den demografischen Wandel: Beiträge erhöhen, Rentenniveau senken, private Vorsorge stärken.'
+        answer: true
+        why: '„Einerseits könnten die Beiträge steigen, andererseits ließe sich das Rentenniveau senken, und schließlich könnte man stärker auf private Vorsorge setzen."'
+      - q: 'Der Text sieht Zuwanderung als vollständige Lösung des demografischen Problems.'
+        answer: false
+        why: '„ohne eine kohärente Integrationspolitik nützt die Zuwanderung wenig. Wer hier nur an Zuwanderung denkt, verlagert das Problem lediglich."'
+      - q: 'Der Text kritisiert, dass die öffentliche Debatte oft polemisch geführt wird.'
+        answer: true
+        why: '„Die öffentliche Debatte ist oft polemisch: Schlagworte … ersetzen die sachliche Auseinandersetzung."'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: 'Lesen Text 2 (Forumsdiskussion: Brauchen wir eine KI-Pause?)'
+    optionLayout: block
+    instructions: |
+      Lies die folgenden Forumsbeiträge und wähle a, b oder c.
+
+      > **Beitrag 1 — Redaktion:**
+      > Liebe Community, in dieser Woche diskutieren wir die Frage: Sollte es eine Pause bei der Einführung von KI an Schulen geben? Bitte belegen Sie Ihre Beiträge nach Möglichkeit mit Quellen.
+      >
+      > **Beitrag 2 — Mia_B:**
+      > Eine vollständige Pause wäre zu kurz gedacht. Wir brauchen eine kohärente Strategie, die Datenschutz, pädagogische Qualität und gesellschaftliche Verantwortung miteinander verzahnt. Pausen verlagern das Problem nur.
+      >
+      > **Beitrag 3 — Lukas_T:**
+      > Einer Studie zufolge dürften bis 2030 rund 25 Prozent der Bürotätigkeiten durch KI verändert werden. Wer jetzt pausiert, verspielt den Anschluss.
+      >
+      > **Beitrag 4 — Anna_M:**
+      > Ich bin für eine Pause, aber nur so lange, bis Datenschutz und Transparenz gesetzlich geregelt sind. Erst dann kann man Erprobung verantworten.
+    items:
+      - q: 'Was ist die Leitfrage der Diskussion?'
+        options:
+          - { key: a, text: 'Sollte es eine Pause bei der Einführung von KI an Schulen geben?' }
+          - { key: b, text: 'Sollte KI ganz verboten werden?' }
+          - { key: c, text: 'Welche KI-Firma ist die beste?' }
+        answer: a
+        why: 'Beitrag 1: „Sollte es eine Pause bei der Einführung von KI an Schulen geben?"'
+      - q: 'Welche Position vertritt Mia (Beitrag 2)?'
+        options:
+          - { key: a, text: 'Für eine vollständige Pause.' }
+          - { key: b, text: 'Gegen eine Pause — stattdessen eine kohärente Strategie.' }
+          - { key: c, text: 'KI sollte komplett verboten werden.' }
+        answer: b
+        why: '„Eine vollständige Pause wäre zu kurz gedacht … kohärente Strategie."'
+      - q: 'Welches Argument bringt Lukas (Beitrag 3)?'
+        options:
+          - { key: a, text: 'Pausen seien generell sinnvoll.' }
+          - { key: b, text: 'Wer jetzt pausiert, verspielt den wirtschaftlichen Anschluss.' }
+          - { key: c, text: 'KI sei gefährlich.' }
+        answer: b
+        why: '„Wer jetzt pausiert, verspielt den Anschluss."'
+      - q: 'Welche Bedingung nennt Anna (Beitrag 4) für eine verantwortete Erprobung?'
+        options:
+          - { key: a, text: 'Eine Pause, bis Datenschutz und Transparenz gesetzlich geregelt sind.' }
+          - { key: b, text: 'Eine vollständige Abschaffung der KI.' }
+          - { key: c, text: 'Eine unbegrenzte Erprobung ohne Regeln.' }
+        answer: a
+        why: '„Ich bin für eine Pause, aber nur so lange, bis Datenschutz und Transparenz gesetzlich geregelt sind."'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: 'Schreiben: Erörterung zu gesellschaftspolitischem Thema'
+    prompt: 'Verfasse eine lineare Erörterung (10–14 Sätze) zu der Frage: „Sollte KI an Schulen erprobt werden?" Strukturiere mit Einleitung, These, Hauptteil (Pro-Contra) und Schluss. Nutze mindestens drei zweiteilige Konnektoren, Konjunktiv I für mindestens eine fremde Position, Hedging für Prognosen, Statistik-Versprachlichung und registergerechte Lexik. Schließe mit einer abgewogenen Schlussfolgerung.'
+    use:
+      - 'Struktur: Einleitung → These → Hauptteil (mind. 2 Pro, mind. 2 Contra) → Schlussfolgerung'
+      - 'Mindestens 3 zweiteilige Konnektoren'
+      - 'Mindestens 1 Konjunktiv I für eine fremde Position'
+      - 'Mindestens 1 Hedging-Mittel (dürfte, vermutlich, voraussichtlich)'
+      - 'Mindestens 1 Statistik-Versprachlichung (um … Prozent, sich verdoppeln, Anteil)'
+      - 'Durchgehend registergerechte Lexik (kein Boulevard-Jargon)'
+    selfCheck:
+      - 'Hat der Text eine klare Struktur (Einleitung, These, Hauptteil, Schluss)?'
+      - 'Werden mindestens drei zweiteilige Konnektoren korrekt verwendet?'
+      - 'Wird mindestens eine fremde Position im Konjunktiv I wiedergegeben?'
+      - 'Wird mindestens eine Statistik korrekt versprachlicht?'
+      - 'Ist die Lexik durchgehend sachlich?'
+      - 'Schließt der Text mit einer abgewogenen (nicht platt wertenden) Schlussfolgerung?'
+    model: |
+      „Die Frage, ob KI an Schulen erprobt werden sollte, wird in Deutschland kontrovers diskutiert. Im Folgenden werden die wichtigsten Pro- und Contra-Argumente gegeneinander abgewogen. These der Erörterung ist, dass KI unter klaren rechtlichen Rahmenbedingungen erprobt werden sollte, jedoch weder als Ersatz für Lehrkräfte noch als kurzfristige Sparmaßnahme.
+
+      Für den Einsatz spricht zunächst, dass KI die Individualisierung des Lernens erheblich verbessern kann. Einer Studie des Instituts für Arbeitsmarkt- und Berufsforschung zufolge dürften bis 2030 rund 25 Prozent der Tätigkeiten durch KI verändert werden. Auch die Entlastung im Lehrkräftemangel ist ein gewichtiges Argument — laut Statistischem Bundesamt fehlen bis 2030 voraussichtlich rund 70 000 Lehrkräfte. Befürworter argumentieren, KI könne Routineaufgaben übernehmen und Lehrkräfte entlasten, sodass diese sich auf die pädagogische Beziehungsarbeit konzentrieren könnten.
+
+      Gegen den Einsatz spricht indessen, dass Datenschutz und Transparenz bisher nicht hinreichend geregelt sind. Minderjährige Schüler*innen geben Daten in Systeme, deren Algorithmen niemand vollständig durchschaut. Kritiker betonen, KI könne die pädagogische Beziehungsarbeit nicht ersetzen, da Lernen nicht nur kognitive Informationsverarbeitung sei, sondern auch soziale Beziehungsarbeit. Zwar ließen sich manche Aufgaben automatisieren, dennoch bleibt die Lehrkraft als Vertrauensperson unverzichtbar.
+
+      Einerseits verspricht KI also mehr Individualisierung, andererseits wirft sie Fragen zum Datenschutz und zur Rolle der Lehrkraft auf. Weder ein vollständiges Ja noch ein klares Nein ist angemessen. Vielmehr sollte eine kohärente Strategie entwickelt werden, die Datenschutz, pädagogische Qualität und gesellschaftliche Verantwortung miteinander verzahnt. KI darf weder Ersatz noch Alibi sein, sondern muss als Ergänzung in einem pädagogisch verantworteten Rahmen dienen."
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: 'Gemischter Schnelltest'
+    instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (C1/..) oder (B2/..) wiederholen frühere Lektionen. 15 Items.'
+    text: |
+      **Diskursive Strukturen (C1/11):**
+      1. {1} ermöglicht KI mehr Individualisierung.
+      2. {2} ist die Fachsprache nötig, {3} muss sie verständlich sein.
+      3. Kritiker betonen, KI {4} die Lehrkraft nicht ersetzen. (Konjunktiv I)
+      4. Diese Position {5} zu kurz gegriffen. (Konjunktiv II)
+
+      **Hedging (C1/11):**
+      5. Die Zahl {6} bis 2040 um rund 30 Prozent steigen. (Modalverb)
+      6. {7} spielt auch der soziale Hintergrund eine Rolle. (Adverb)
+
+      **Statistik (C1/11):**
+      7. Die Zahl steigt {8} 5 Prozent. (Veränderung)
+      8. Die Zahl steigt {9} 30 Prozent. (neuer Stand)
+      9. {10} einem Viertel der Bevölkerung ist über 65.
+
+      **Register (C1/11):**
+      10. „Flüchtlingswelle" → {11}.
+
+      **Wiederholung (C1/05 Wissenschaftssprache):**
+      11. (C1/05) Unpersönlich: Die These {12} sich belegen.
+      12. (C1/05) Hedging-Wendung: Die Daten {13} darauf hin.
+
+      **Wiederholung (C1/09 Vortrag und Diskussion):**
+      13. (C1/09) Höflicher Widerspruch: Da {14} ich widersprechen.
+      14. (C1/09) These einleiten: Meine These {15}, dass …
+    answers:
+      "1": Einerseits
+      "2": Zwar
+      "3": aber
+      "4": könne
+      "5": wäre
+      "6": dürfte
+      "7": Vermutlich
+      "8": um
+      "9": auf
+      "10": Knapp
+      "11": Zuwanderung
+      "12": lässt
+      "13": deuten
+      "14": würde
+      "15": lautet
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: 'Odd one out: Diskurssprache'
+    instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    groups:
+      - items: [Einerseits, Zwar, Weder, Dennoch]
+        odd: 2
+        why: '„Einerseits" leitet eine Aufzählung ein, „Zwar" und „Dennoch" bilden ein Paar; „Weder" verneint beides.'
+      - items: [dürfte, könnte, müsste, ist]
+        odd: 3
+        why: '„dürfte/könnte/müsste" sind Modalverben der Vermutung; „ist" ist Indikativ (Gewissheit).'
+      - items: [Demografie, Migration, Assimilation, Globalisierung]
+        odd: 3
+        why: 'Demografie, Migration und Assimilation betreffen Bevölkerungsstruktur; Globalisierung betrifft weltweite Vernetzung.'
+      - items: [vermutlich, voraussichtlich, tendenziell, definitiv]
+        odd: 3
+        why: '„vermutlich/voraussichtlich/tendenziell" sind Hedging-Adverbien; „definitiv" ist ein Verstärker.'
+      - items: [Zuwanderung, Flüchtlingswelle, plurale Gesellschaft, Integration]
+        odd: 1
+        why: '„Zuwanderung", „plurale Gesellschaft", „Integration" sind sachlich; „Flüchtlingswelle" ist emotional aufgeladen.'
+      - items: [Stellung beziehen, den Wandel gestalten, eine Strategie versachlichen, eine Lösung googeln]
+        odd: 3
+        why: 'Die ersten drei sind Kollokationen des politischen Diskurses; „googeln" ist umgangssprachlich und passt nicht ins Register.'
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: 'Rückblick: C1/05, C1/08, C1/09, C1/11'
+    instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    text: |
+      **Aus C1/05 (Wissenschaftssprache):**
+      1. Unpersönlich: Die Daten {1} ausgewertet. (Passiv)
+      2. Hedging-Modalverb: Das {2} zutreffen.
+
+      **Aus C1/08 (Textproduktion):**
+      3. Erörterung-These: Meine These {3}, dass …
+      4. Kohärenz: {4} ermöglicht KI Individualisierung, {5} verstärkt sie Ungleichheit.
+
+      **Aus C1/09 (Vortrag und Diskussion):**
+      5. Höflicher Widerspruch: Da {6} ich widersprechen.
+      6. Überleitung: Damit {7} ich zu meinem zweiten Punkt.
+
+      **Aus C1/11 (Gesellschaft, Politik, Zukunft):**
+      7. Statistik-Versprachlichung: Die Zahl steigt {8} 5 Prozent.
+      8. Konjunktiv I: Befürworter betonen, KI {9} Lehrkräfte entlasten.
+      9. Registergerecht: Asylanten → {10}.
+    answers:
+      "1": werden
+      "2": dürfte
+      "3": lautet
+      "4": Einerseits
+      "5": andererseits
+      "6": würde
+      "7": komme
+      "8": um
+      "9": könne
+      "10": Schutzsuchende
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: 'Selbsttest (bewerte dich /20)'
+    notes: '16+ / 20 → Lektion C1/12. Unter 16 → wiederhol morgen Block A (A1–A12) und Block B (B1–B9), dann mach D4 noch einmal.'
+    text: |
+      **Diskursive Strukturen:**
+      1. {1} bietet KI Chancen, {2} wirft sie Fragen auf.
+      2. {3} ist die Fachsprache nötig, {4} muss sie verständlich sein.
+      3. Lernen ist {5} Informationsaufnahme, {6} auch Beziehungsarbeit.
+
+      **Konjunktiv I und II:**
+      4. Kritiker betonen, KI {7} die Lehrkraft nicht ersetzen. (Konjunktiv I)
+      5. Diese Position {8} zu kurz gegriffen. (Konjunktiv II)
+
+      **Hedging:**
+      6. Die Zahl {9} bis 2040 um rund 30 Prozent steigen. (Modalverb)
+      7. {10} wird auch der Pflegebedarf zunehmen. (Adverb)
+      8. Es ist {11} zu rechnen, dass die Kosten steigen.
+
+      **Statistik:**
+      9. Die Zahl steigt {12} 5 Prozent. (Veränderung)
+      10. {13} einem Viertel der Bevölkerung ist über 65.
+
+      **Register:**
+      11. „Flüchtlingswelle" → {14}.
+      12. „Asylanten" → {15}.
+
+      **Wiederholung (C1/05):**
+      13. (C1/05) Unpersönlich: Die These {16} sich belegen.
+      14. (C1/05) Hedging: Die Daten {17} darauf hin.
+
+      **Wiederholung (C1/08):**
+      15. (C1/08) These: Meine These {18}, dass …
+      16. (C1/08) Abwägung: {19} ermöglicht KI Individualisierung, {20} verstärkt sie Ungleichheit.
+    answers:
+      "1": Einerseits
+      "2": andererseits
+      "3": Zwar
+      "4": aber
+      "5": nicht nur
+      "6": sondern
+      "7": könne
+      "8": wäre
+      "9": dürfte
+      "10": Voraussichtlich
+      "11": damit
+      "12": um
+      "13": Knapp
+      "14": Zuwanderung
+      "15": Schutzsuchende
+      "16": lässt
+      "17": deuten
+      "18": lautet
+      "19": Einerseits
+      "20": andererseits
