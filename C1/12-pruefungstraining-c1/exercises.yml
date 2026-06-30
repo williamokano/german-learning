@@ -164,7 +164,7 @@ exercises:
     instructions: "Hören Sie den Vortrag (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
     audio: aufgabe4.mp3
     items:
-      - q: "Womit beschäftigt sich Dr. Mendes in ihrem Vortrag?"
+      - q: "Womit beschäftigt sich die Vortragende?"
         options:
           - { key: a, text: "Mit der Geschichte der maschinellen Übersetzung." }
           - { key: b, text: "Mit der Frage, wie die KI das Sprachenlernen verändert." }
@@ -178,7 +178,7 @@ exercises:
           - { key: c, text: "Übersetzungsprogramme sind völlig nutzlos." }
         answer: b
         why: '„Übersetzungsprogramme werden das Sprachenlernen nicht überflüssig machen — … sie verändern nur die Art, wie wir lernen."'
-      - q: "Was kann ein Programm laut Dr. Mendes bis heute oft NICHT leisten?"
+      - q: "Was kann ein Programm laut der Vortragenden bis heute oft NICHT leisten?"
         options:
           - { key: a, text: "Wörter schnell übersetzen." }
           - { key: b, text: "Nuancen, Ironie und kulturelle Anspielungen erfassen." }
@@ -354,10 +354,10 @@ exercises:
       - q: "Die Befunde _______ (4) laut den Autoren nicht überbewertet werden."
         options:
           - { key: a, text: "dürfen" }
-          - { key: b, text: "dürfte" }
+          - { key: b, text: "dürften" }
           - { key: c, text: "durften" }
-        answer: a
-        why: 'Pluralsubjekt „die Befunde" → „dürfen"; Hedging im Präsens.'
+        answer: b
+        why: 'Konjunktiv II Plural („die Befunde" → „dürften") für Hedging; entspricht der Originalformulierung in Text 3.'
       - q: "Die Stichprobe _______ (5) klein gewesen, betonen die Autoren."
         options:
           - { key: a, text: "sei" }

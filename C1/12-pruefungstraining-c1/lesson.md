@@ -55,7 +55,7 @@ buildsOn:
 > **Bruno:** Atme einfach und mach Pausen. Eine Pause wirkt nie so lang, wie sie sich anfühlt — das hast du uns doch selbst beigebracht, beim Referat.  
 > **Mia:** Genau. Und denk an deine Redemittel: „Meiner Ansicht nach …", „Da würde ich widersprechen …", „Zusammenfassend lässt sich sagen …". Wenn die sitzen, klingst du gleich souverän.  
 > **Anna:** Ihr habt recht. Komm, ich geb einen Kaffee aus — auf die bestandene Prüfung, hoffentlich!  
-> **Bruno:** Auf uns alle drei. Und beim nächsten Mal lesen wir zuerst die Fragen.
+> **Bruno:** Auf uns alle drei. Und beim nächsten Mal lesen wir zuerst die Fragen.  
 
 ### Dialog B: Beratung vor der Prüfung (formell — Sie, 2 Personen)
 
@@ -72,7 +72,7 @@ buildsOn:
 > **Hannah:** Das leuchtet mir ein. Und wie bereite ich mich auf das Sprechen vor?  
 > **Herr Steinmeyer:** Üben Sie laut. Nehmen Sie sich mit dem Handy auf und hören Sie sich kritisch zu — auf Füllwörter, auf das Tempo, auf die Gliederung. Im Sprechen zählt nicht nur, *was* Sie sagen, sondern auch *wie* Sie es strukturieren.  
 > **Hannah:** Vielen Dank, das hilft mir sehr weiter. Dann melde ich mich für den Termin im nächsten Monat an.  
-> **Herr Steinmeyer:** Sehr gern. Ich drücke Ihnen die Daumen — und denken Sie daran: Eine gute Vorbereitung ist die halbe Prüfung.
+> **Herr Steinmeyer:** Sehr gern. Ich drücke Ihnen die Daumen — und denken Sie daran: Eine gute Vorbereitung ist die halbe Prüfung.  
 
 ---
 

@@ -61,7 +61,7 @@
 1. **a) ist** — „nachgehen" bildet das Perfekt mit „sein": „ist … nachgegangen".
 2. **a) legen** — Funktionsverbgefüge „nahelegen": „die Ergebnisse legen nahe".
 3. **a) darauf** — „zurückführen auf + Akk." → Pronominaladverb „darauf".
-4. **a) dürfen** — Pluralsubjekt „die Befunde" → „dürfen"; Hedging im Präsens.
+4. **b) dürften** — Konjunktiv II Plural („die Befunde" → „dürften") für Hedging; entspricht der Originalformulierung in Text 3.
 5. **a) sei** — Redewiedergabe → Konjunktiv I: „sei".
 6. **a) Gleichwohl** — „Gleichwohl" (= dennoch) leitet die Einräumung ein und steht auf Position 1 (Verb an Position 2).
 
