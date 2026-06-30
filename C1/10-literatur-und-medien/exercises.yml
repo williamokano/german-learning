@@ -1,0 +1,1193 @@
+lesson: C1/10
+title: 'C1 · Lektion 10 — Übungen (Literatur und Medien)'
+intro: >
+  Blöcke: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining →
+  D Wiederholung & Selbsttest. Die Lösungen findest du in solutions.md.
+  Tipp: Verteil die Blöcke über mehrere Tage — H und A am Tag 1, B am Tag 2,
+  C am Tag 3, D am Tag 4 nach einer Pause.
+exam: null
+
+exercises:
+
+  # ── Block H — Hören ──────────────────────────────────────────────────────
+
+  - id: H1a
+    block: H
+    type: true-false
+    title: 'Dialog Hör-Check: Dialog A (Feuilleton-Diskussion)'
+    audio: dialog1_a.mp3
+    instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    items:
+      - q: 'Anna liest einen Feuilleton-Artikel über einen Roman von Helga Schubert.'
+        answer: true
+        why: 'Anna: „Habt ihr schon den Artikel von Reichelt in der FAZ gelesen? Über den Schubert-Roman?"'
+      - q: 'Mia erklärt, das Wort „entrückt" habe im Feuilleton-Kontext nur eine Bedeutungsschicht.'
+        answer: false
+        why: 'Bruno: „hat aber noch eine zweite Bedeutungsschicht: leicht entrückt von der Wirklichkeit, also auch ein bisschen entrückt von Gott".'
+      - q: 'Mia hält das Bild „Die Sätze fallen wie fallende Blätter" für ein Klischee, das im konkreten Kontext trotzdem funktioniert.'
+        answer: true
+        why: 'Mia: „ein Klischée ist es — aber hier funktioniert es, weil Schubert selbst in diesem Tonfall schreibt."'
+      - q: 'Bruno sagt, Reichelts Spitze gegen den Glavic-Roman sei eine Satire, kein Sachurteil.'
+        answer: true
+        why: 'Bruno: „Das ist eine Satire, kein Sachurteil."'
+      - q: 'Mia zufolge ist Ironie stärker als Direktheit, weil sie den Leser klüger fühlen lässt.'
+        answer: true
+        why: 'Mia: „Weil Ironie stärker ist als Direktheit — der Leser fühlt sich klug, wenn er die Pointe mitkriegt."'
+
+  - id: H1b
+    block: H
+    type: single-choice
+    title: 'Dialog Hör-Check: Dialog B (Literaturkritik und Hörfunk)'
+    audio: dialog1_b.mp3
+    optionLayout: block
+    instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    items:
+      - q: 'Worin sieht Frau Hoffmann den größten Reibungspunkt zwischen Feuilleton und Literaturwissenschaft?'
+        options:
+          - { key: a, text: 'In der Bezahlung der Kritikerinnen.' }
+          - { key: b, text: 'Darin, dass das Feuilleton Schnelligkeit belohnt, die Wissenschaft aber Differenzierung.' }
+          - { key: c, text: 'Darin, dass das Feuilleton nie Satire einsetzt.' }
+        answer: b
+        why: 'Frau Hoffmann: „Das Feuilleton belohnt Schnelligkeit, Pointe und Zuspitzung — die Wissenschaft belohnt Differenzierung."'
+      - q: 'Wie unterscheidet Frau Hoffmann Satire von Polemik?'
+        options:
+          - { key: a, text: 'Satire greift immer Personen an, Polemik immer Institutionen.' }
+          - { key: b, text: 'Polemik kann persönlich werden; die deutsche Satiretradition arbeitet mit Übertreibung, gegen plumpe Beleidigung.' }
+          - { key: c, text: 'Satire ist immer lustig, Polemik immer traurig.' }
+        answer: b
+        why: 'Frau Hoffmann: „Die deutsche Satiretradition … arbeitet mit der Übertreibung, gegen die plumpe Beleidigung."'
+      - q: 'Welches Problem sieht Yusuf bei Radio-Features zu Satire?'
+        options:
+          - { key: a, text: 'Dass die O-Töne im Radio nie authentisch klingen.' }
+          - { key: b, text: 'Dass die Auswahl der O-Töne bereits eine Deutung ist.' }
+          - { key: c, text: 'Dass das Radio keine Satire senden darf.' }
+        answer: b
+        why: 'Yusuf: „welche O-Töne wähle ich? Eine Auswahl ist bereits eine Deutung."'
+      - q: 'Was empfiehlt Frau Hoffmann gegen die sogenannte „Glättung" der Satire?'
+        options:
+          - { key: a, text: 'Man solle den satirischen Witz im Radio grundsätzlich erklären.' }
+          - { key: b, text: 'Man solle die Satire im Radio durch Hintergrundmusik überdecken.' }
+          - { key: c, text: 'Die Ironie in der Stimme sei subtil genug und brauche keine Erklärung; was den Hörer verwirre, sei die schlechte Anmoderation.' }
+        answer: c
+        why: 'Frau Hoffmann: „Ironie in der Stimme eines Schauspielers … ist subtil genug; sie muss nicht erklärt werden."'
+      - q: 'Wie sieht laut Frau Hoffmann die ideale Anmoderation für ein Satire-Feature aus?'
+        options:
+          - { key: a, text: 'Lang, detailliert, mit Biografie der Autorin.' }
+          - { key: b, text: 'Kurz, kontextstiftend, leichtfüßig — drei Sätze — und dann den O-Ton das Wort überlassen.' }
+          - { key: c, text: 'Reine Inhaltsangabe des Romans.' }
+        answer: b
+        why: 'Frau Hoffmann: „kurz, kontextstiftend und leichtfüßig — drei Sätze, vielleicht vier."'
+
+  - id: H3
+    block: H
+    type: gap-bank
+    title: 'Hörtext-Lückentext: Ein Radio-Feature zur Gegenwartsliteratur'
+    audio: hoertext.mp3
+    instructions: 'Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.'
+    text: |
+      Liebe Hörerinnen und Hörer, willkommen zu „Stimmen der Nacht". Drei
+      {1} sprechen heute über das Licht in ihren Texten. Mara Lunau aus
+      Leipzig sagt, sie schreibe {2} das Vergessen. Helga Schubert aus
+      Berlin sagt, sie schreibe die Sätze, die ihr abends in den Sinn
+      kommen, {3} mehr und nicht weniger. Leonie Schuller aus München
+      sagt, sie schreibe, weil sie das Schweigen nicht {4}. Wir hören
+      zuerst Mara Lunau. Sie sitzt in einem Leipziger Café, der Regen
+      {5} leise gegen die Scheibe. „Ich glaube, ein Roman kann immer nur
+      eine Frage ernst {6}. Alles andere ist Geschwätz."
+    bank: [Autorinnen, gegen, nicht, aushalte, klopft, nehmen, Romane, hallte, weckte]
+    answers:
+      "1": Autorinnen
+      "2": gegen
+      "3": nicht
+      "4": aushalte
+      "5": klopft
+      "6": nehmen
+
+  - id: H4
+    block: H
+    type: single-choice
+    title: 'Kurze Ansage: Anrufbeantworter eines Literaturhauses'
+    audio: transcript_ansage1.mp3
+    optionLayout: block
+    instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Literaturhauses Berlin erreicht. Wir sind bis einschließlich Samstag, 16 Uhr, geöffnet. Am Sonntag bleibt das Haus geschlossen. Für die Lesung mit Helga Schubert am Dienstag, 19 Uhr, sind alle Plätze vergriffen — eine Warteliste ist eingerichtet. Bitte rufen Sie uns zurück unter der Nummer 030-5512-0817, oder schreiben Sie uns an lesungen@literaturhaus-berlin.de. Die neue Anthologie „Stimmen der Nacht" liegt an der Kasse zum Preis von zweiundzwanzig Euro bereit. Vielen Dank für Ihren Anruf.'
+    items:
+      - q: 'Welche Einrichtung spricht auf dem Anrufbeantworter?'
+        options:
+          - { key: a, text: 'Eine Buchhandlung mit eigenem Verlagsprogramm.' }
+          - { key: b, text: 'Das Literaturhaus Berlin.' }
+          - { key: c, text: 'Die Stadtbibliothek Berlin.' }
+        answer: b
+        why: '„Sie haben den Anrufbeantworter desLiteraturhauses Berlin erreicht."'
+      - q: 'Bis wann ist das Literaturhaus geöffnet?'
+        options:
+          - { key: a, text: 'Bis einschließlich Samstag, 16 Uhr.' }
+          - { key: b, text: 'Bis einschließlich Freitag, 18 Uhr.' }
+          - { key: c, text: 'Täglich bis 20 Uhr.' }
+        answer: a
+        why: '„Wir sind bis einschließlich Samstag, 16 Uhr, geöffnet."'
+      - q: 'Was gilt für die Lesung mit Helga Schubert am Dienstag, 19 Uhr?'
+        options:
+          - { key: a, text: 'Es gibt noch Karten an der Abendkasse.' }
+          - { key: b, text: 'Alle Plätze sind vergriffen; eine Warteliste ist eingerichtet.' }
+          - { key: c, text: 'Die Lesung fällt aus.' }
+        answer: b
+        why: '„sind alle Plätze vergriffen — eine Warteliste ist eingerichtet."'
+      - q: 'Wie können Interessierte das Literaturhaus erreichen?'
+        options:
+          - { key: a, text: 'Nur persönlich vor Ort.' }
+          - { key: b, text: 'Per Telefon unter 030-5512-0817 oder per E-Mail.' }
+          - { key: c, text: 'Ausschließlich über die Webseite.' }
+        answer: b
+        why: '„Bitte rufen Sie uns zurück unter der Nummer 030-5512-0817, oder schreiben Sie uns an lesungen@literaturhaus-berlin.de."'
+
+  - id: H5
+    block: H
+    type: table-fill
+    title: 'Tabelle ausfüllen: Dialog B (Satire und Hörfunk)'
+    audio: dialog1_b.mp3
+    instructions: 'Hör Dialog B noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    columns: ['Thema', 'Position Frau Hoffmann', 'Empfehlung', 'Stichwort']
+    rows:
+      - label: 'Feuilleton vs. Wissenschaft'
+        cells:
+          - { gap: 1, answer: 'Feuilleton vs. Wissenschaft', given: 'Feuilleton vs. Wissenschaft' }
+          - { gap: 1, answer: 'belohnt Differenzierung' }
+          - { gap: 1, answer: 'Differenzierung statt Schnelligkeit', given: 'Differenzierung statt Schnelligkeit' }
+          - { gap: 1, answer: 'Schnelligkeit vs. Differenzierung', given: 'Schnelligkeit vs. Differenzierung' }
+      - label: 'Satire und Polemik'
+        cells:
+          - { gap: 2, answer: 'Satire und Polemik', given: 'Satire und Polemik' }
+          - { gap: 2, answer: 'arbeitet mit Übertreibung, gegen plumpe Beleidigung', given: 'arbeitet mit Übertreibung, gegen plumpe Beleidigung' }
+          - { gap: 2, answer: 'Übertreibung statt Beleidigung' }
+          - { gap: 2, answer: 'Satiretradition Lichtenberg/Tucholsky', given: 'Satiretradition Lichtenberg/Tucholsky' }
+      - label: 'Anmoderation'
+        cells:
+          - { gap: 3, answer: 'Anmoderation', given: 'Anmoderation' }
+          - { gap: 3, answer: 'kurz, kontextstiftend, leichtfüßig' }
+          - { gap: 3, answer: 'drei bis vier Sätze', given: 'drei bis vier Sätze' }
+          - { gap: 3, answer: 'Pointe dem O-Ton überlassen', given: 'Pointe dem O-Ton überlassen' }
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: single-choice
+    title: 'Sprachliche Bilder: welcher Tropus?'
+    optionLayout: block
+    instructions: 'Wähle die zutreffende Bezeichnung (a, b oder c).'
+    items:
+      - q: '„Die Stadt schläft."'
+        options:
+          - { key: a, text: 'Metapher' }
+          - { key: b, text: 'Vergleich' }
+          - { key: c, text: 'Symbol' }
+        answer: a
+        why: 'Die Stadt wird ohne „wie" mit dem Schlafen gleichgesetzt — Metapher.'
+      - q: '„Ihr Haar glänzte wie schwarze Seide."'
+        options:
+          - { key: b, text: 'Vergleich' }
+          - { key: a, text: 'Metapher' }
+          - { key: c, text: 'Personifikation' }
+        answer: b
+        why: '„wie" markiert den Vergleich; ohne „wie" wäre es eine Metapher.'
+      - q: '„Berlin hat entschieden." (für die Regierung)'
+        options:
+          - { key: a, text: 'Symbol' }
+          - { key: b, text: 'Vergleich' }
+          - { key: c, text: 'Metonymie' }
+        answer: c
+        why: '„Berlin" steht für die Bundesregierung — Metonymie (benachbarter Begriff).'
+      - q: '„Die Taube schwebte über dem Platz."'
+        options:
+          - { key: a, text: 'Personifikation' }
+          - { key: b, text: 'Symbol' }
+          - { key: c, text: 'Metapher' }
+        answer: b
+        why: 'Die Taube verweist kulturell auf den Frieden — Symbol.'
+      - q: '„Der Himmel weint."'
+        options:
+          - { key: a, text: 'Vergleich' }
+          - { key: b, text: 'Metonymie' }
+          - { key: c, text: 'Personifikation' }
+        answer: c
+        why: 'Der Himmel bekommt eine menschliche Eigenschaft (weinen) — Personifikation.'
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: 'Metapher, Vergleich, Personifikation einsetzen'
+    instructions: 'Setze das passende Bildelement ein. 6 Items.'
+    text: |
+      1. Die Stadt ist ein {1}. (Metapher: Bezug auf Gefahr)
+      2. Ihr Haar glänzte {2} schwarze Seide. (Vergleich mit „wie")
+      3. Der Himmel {3}. (Personifikation: menschliche Tätigkeit)
+      4. Die Nacht {4} die Straßen. (Metapher: menschliches Verb auf Abstraktes)
+      5. Die {5} auf dem Dach steht für den Frieden. (Symbol)
+      6. „Das Weiße Haus dementierte" — {6} für die US-Regierung. (Metonymie)
+    answers:
+      "1": Dschungel
+      "2": wie
+      "3": weint
+      "4": verschluckt
+      "5": Taube
+      "6": Metonymie
+
+  - id: A3
+    block: A
+    type: matching
+    title: 'Erzählperspektive: auktorial, personal, Ich-Erzähler'
+    instructions: 'Ordne jeden Romanausschnitt (1–5) der passenden Erzählperspektive (a–c) zu.'
+    left:
+      - { key: '1', text: '„Ich erzähle heute, wie es anfing — im Herbst 1989."' }
+      - { key: '2', text: '„Er ging durch den Park und ahnte nicht, dass sie ihm folgte."' }
+      - { key: '3', text: '„Manche Leser glauben, der Autor wisse alles; in Wahrheit weiß nur die Hauptfigur es."' }
+      - { key: '4', text: '„Sie öffnete die Tür. Wer dort stand, werden wir später erfahren."' }
+      - { key: '5', text: '„Gregor blickte von seinem Bett aus auf die finstere Wohnung."' }
+    right:
+      - { key: a, text: 'Ich-Erzähler' }
+      - { key: b, text: 'personal' }
+      - { key: c, text: 'auktorial' }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": c
+      "5": b
+
+  - id: A4
+    block: A
+    type: single-choice
+    title: 'Konnotation erkennen'
+    optionLayout: block
+    instructions: 'Welche Konnotation hat das Wort im gegebenen Kontext?'
+    items:
+      - q: '„Die Stille nach dem Urteil" — welche Konnotation hat „Stille"?'
+        options:
+          - { key: a, text: 'emotional — Geborgenheit' }
+          - { key: b, text: 'emotional — Bangigkeit oder Dräuung' }
+          - { key: c, text: 'stilistisch — gehoben' }
+        answer: b
+        why: 'Im Kontext eines Urteils schwingt Dräuung, Drohung mit — nicht Geborgenheit.'
+      - q: '„Stille der Bibliothek" — welche Konnotation hat „Stille"?'
+        options:
+          - { key: a, text: 'feierlich-bedrohlich' }
+          - { key: b, text: 'freundlich, konzentriert' }
+          - { key: c, text: 'ideologisch — konservativ' }
+        answer: b
+        why: 'In der Bibliothek konnotiert „Stille" Konzentration und Ruhe — freundlich.'
+      - q: '„Heimat" in einem AfD-Programm — welche Konnotation dominiert?'
+        options:
+          - { key: a, text: 'kulturell — Nostalgie' }
+          - { key: b, text: 'ideologisch — Schutz, Abgrenzung' }
+          - { key: c, text: 'stilistisch — gehoben' }
+        answer: b
+        why: 'In einem AfD-Programm dominiert die ideologische Schutz- und Abgrenzungskonnotation.'
+      - q: '„Das Heim der Familie" — welche Konnotation schwingt mit?'
+        options:
+          - { key: a, text: 'Staatlich-institutionelle Konnotation (Internat, Altenheim)' }
+          - { key: b, text: 'Touristische Konnotation' }
+          - { key: c, text: 'Wild-ökonomische Konnotation' }
+        answer: a
+        why: '„Heim" denotiert „Wohnung mit Versorgung" und konnotiert Institution — im Gegensatz zu „Zuhause".'
+      - q: '„entschlummern" für „sterben" — welche Konnotation ist beabsichtigt?'
+        options:
+          - { key: a, text: 'emotional — Trauer' }
+          - { key: b, text: 'stilistisch — Euphemismus, gehoben' }
+          - { key: c, text: 'ideologisch — politisch' }
+        answer: b
+        why: '„entschlummern" ist Euphemismus, gehoben — eine Verschleierung des Todes.'
+
+  - id: A5
+    block: A
+    type: gap-text
+    listLayout: true
+    title: 'Rhetorische Figuren einsetzen'
+    instructions: 'Setze die passende Figur ein (Anapher, Trikolon, Antithese, Oxymoron, Chiasmus). 6 Items.'
+    text: |
+      1. Die Stadt {1}. Die Stadt {1}. Die Stadt {1}. (Anapher — gleicher Satzanfang)
+      2. „Ehre, Pflicht, {2}." (Trikolon — das dritte Glied fehlt)
+      3. „Die einen für die {3}, die anderen für die Sicherheit." (Antithese — Gegenüberstellung)
+      4. „{4} Schweigen." (Oxymoron — widersprüchliche Adjektiv-Substantiv-Verbindung)
+      5. „Die Kunst ist lang, und kurz {5} unser Leben." (Chiasmus — spiegelbildliche Verschränkung)
+      6. „Er kam, er sah, er {6}." (Trikolon — drittes Glied)
+    answers:
+      "1": schweigt
+      "2": Vaterland
+      "3": Freiheit
+      "4": Beredtes
+      "5": ist
+      "6": siegte
+
+  - id: A6
+    block: A
+    type: matching
+    title: 'Rhetorische Figuren: Definition zuordnen'
+    instructions: 'Ordne jede Figur (1–5) der passenden Definition (a–e) zu.'
+    left:
+      - { key: '1', text: 'Anapher' }
+      - { key: '2', text: 'Trikolon' }
+      - { key: '3', text: 'Antithese' }
+      - { key: '4', text: 'Oxymoron' }
+      - { key: '5', text: 'Chiasmus' }
+    right:
+      - { key: a, text: 'Aufzählung in drei Teilen' }
+      - { key: b, text: 'widersprüchliche Verbindung zweier Wörter' }
+      - { key: c, text: 'Gegenüberstellung zweier Gegensätze' }
+      - { key: d, text: 'Wiederholung am Satzanfang' }
+      - { key: e, text: 'spiegelbildliche Verschränkung' }
+    answers:
+      "1": d
+      "2": a
+      "3": c
+      "4": b
+      "5": e
+
+  - id: A7
+    block: A
+    type: single-choice
+    title: 'Satirische Mittel: welches Mittel liegt vor?'
+    optionLayout: block
+    instructions: 'Wähle das passende satirische Mittel (a, b oder c).'
+    items:
+      - q: '„Das Buch liest sich wie ein Manuskript, das im Random-House-Algorithmus entstanden ist."'
+        options:
+          - { key: a, text: 'Sarkasmus' }
+          - { key: b, text: 'Übertreibung mit ironischem Unterton' }
+          - { key: c, text: 'Wortspiel' }
+        answer: b
+        why: 'Die Vorstellung, ein Buch stamme aus einem Algorithmus, ist **übertrieben** und transportiert eine **ironische** Bewertung.'
+      - q: '„Oh, wie großzügig — Sie haben die Hälfte Ihres Vermögens gespendet."'
+        options:
+          - { key: a, text: 'Übertreibung' }
+          - { key: b, text: 'Sarkasmus' }
+          - { key: c, text: 'Indirektheit' }
+        answer: b
+        why: '„Oh, wie großzügig" ist eine **sarkastische** Ironie — mit spitzer Stimme.'
+      - q: '„Der bekannte Schwiegersohn der bekannten Partei"'
+        options:
+          - { key: a, text: 'Wortspiel' }
+          - { key: b, text: 'Sarkasmus' }
+          - { key: c, text: 'Indirektheit' }
+        answer: c
+        why: 'Die Person wird nicht namentlich genannt, sondern umschrieben — das ist **Indirektheit**.'
+      - q: '„Die Wahl ist wählbar — wenn die Wähler es wählen."'
+        options:
+          - { key: a, text: 'Wortspiel' }
+          - { key: b, text: 'Ironie' }
+          - { key: c, text: 'Übertreibung' }
+        answer: a
+        why: 'Die klangliche Wiederholung („Wahl/wählbar/Wähler/wählen") ist ein **Wortspiel**.'
+      - q: '„Diese Stadt hat die dümmste Verwaltung diesseits und jenseits des Atlantiks."'
+        options:
+          - { key: a, text: 'Wortspiel' }
+          - { key: b, text: 'Indirektheit' }
+          - { key: c, text: 'Übertreibung (Hyperbel)' }
+        answer: c
+        why: '„diesseits und jenseits des Atlantiks" ist eine **Übertreibung** — kein konkreter Vergleich, sondern absolute Aufladung.'
+
+  - id: A8
+    block: A
+    type: gap-bank
+    title: 'Hörfunk-Bausteine: passendes Wort einsetzen'
+    instructions: 'Füll die 6 Lücken mit dem passenden Wort aus dem Kasten. Drei Wörter sind zu viel.'
+    text: |
+      Ein Radio-Feature besteht aus mehreren Bausteinen. Den Anfang macht
+      die {1}: Sie liefert den Kontext, nennt das Thema und gibt
+      eine kleine Spannungsfigur mit. Das Herzstück ist der {2}: die
+      wörtliche Originalstimme einer interviewten Person. Die {3} bildet
+      die akustische Bühne — Café-Geräusche, Wind, Schritte. Zwischen
+      den O-Tönen steht der {4}, der die Szenen verbindet und erklärt.
+      Den Abschluss bildet die {5}: ein kurzer Bilanzsatz, oft mit
+      einer offenen Frage. Wer diese fünf Bausteine beherrscht, kann
+      ein {6} so collagieren, dass es wie eine kleine Hör-Erzählung
+      wirkt.
+    bank: [Anmoderation, O-Ton, Atmo, Sprecher, Pointe, Reportage, Bericht, Feature, Schluss]
+    answers:
+      "1": Anmoderation
+      "2": O-Ton
+      "3": Atmo
+      "4": Sprecher
+      "5": Pointe
+      "6": Feature
+
+  - id: A9
+    block: A
+    type: single-choice
+    title: 'Journalistische Hörfunk-Form erkennen'
+    optionLayout: block
+    instructions: 'Entscheide, welche journalistische Hörfunk-Form vorliegt (a, b oder c).'
+    items:
+      - q: '„Um 14 Uhr versammelten sich 200 Personen vor dem Rathaus."'
+        options:
+          - { key: a, text: 'Bericht' }
+          - { key: b, text: 'Reportage' }
+          - { key: c, text: 'Feature' }
+        answer: a
+        why: 'Sachlich, kurz, referierend — das ist ein **Bericht**.'
+      - q: '„Ich stehe im Morgengrauen vor der Fabrik. Der Wind weht mir den Pfeffergeruch herüber."'
+        options:
+          - { key: a, text: 'Bericht' }
+          - { key: b, text: 'Reportage' }
+          - { key: c, text: 'Feature' }
+        answer: b
+        why: 'Ich-Perspektive, szenisches Detail, **selbst** gesehen — das ist eine **Reportage**.'
+      - q: '[Atmo: Schreibmaschine] — [O-Ton: „Ich schreibe gegen die Wand."] — [Sprecher: „Else Lasker-Schüler, 1933."]'
+        options:
+          - { key: a, text: 'Bericht' }
+          - { key: b, text: 'Reportage' }
+          - { key: c, text: 'Feature' }
+        answer: c
+        why: 'Die Collage aus Atmo, O-Ton und Sprecher ist ein **Feature**.'
+      - q: '„Das Bundesverfassungsgericht hat heute die Klage abgewiesen."'
+        options:
+          - { key: a, text: 'Reportage' }
+          - { key: b, text: 'Feature' }
+          - { key: c, text: 'Bericht' }
+        answer: c
+        why: 'Knapp, sachlich, ein Sprecher — klassischer **Bericht**.'
+      - q: '„Wir fahren mit der Straßenbahn 4 bis zum Hauptbahnhof."'
+        options:
+          - { key: a, text: 'Bericht' }
+          - { key: b, text: 'Reportage' }
+          - { key: c, text: 'Feature' }
+        answer: b
+        why: '„Wir" und eigenes Erleben — das ist **Reportage** (subjektiv).'
+
+  - id: A10
+    block: A
+    type: gap-text
+    listLayout: true
+    title: 'Konnotationen bestimmen'
+    instructions: 'Setze den passenden Konnotationstyp ein. 6 Items.'
+    text: |
+      1. „Heimat" ruft Bilder von „Dorf, Wald, Kindheit" hervor = {1}.
+      2. „Heimat" weckt Gefühle von „Geborgenheit, Verlust" = {2}.
+      3. „Heimat" signalisiert in einem AfD-Programm „Schutz" = {3}.
+      4. „Heimat" klingt emotional aufgeladen = {4}.
+      5. „entschlummern" statt „sterben" = gehoben, also {5}.
+      6. „November 1938" steht für die Pogromnacht = {6}.
+    answers:
+      "1": Sachkonnotation
+      "2": Emotionskonnotation
+      "3": Ideologiekonnotation
+      "4": Register
+      "5": Euphemismus
+      "6": historisch
+
+  - id: A11
+    block: A
+    type: order
+    title: 'Aufbau eines Hörfunk-Features'
+    instructions: 'Bring die Bausteine eines Hörfunk-Features in die richtige Reihenfolge (vom Anfang bis zum Schluss).'
+    items:
+      - tiles: [Anmoderation, erste Szene mit O-Ton, Sprecher-Brücke, zentrale Pointe, Schluss-Satz]
+        answer: [0, 1, 2, 3, 4]
+        note: 'Anmoderation → erste Szene → Brücke → zentrale Pointe → Schluss.'
+
+  - id: A12
+    block: A
+    type: single-choice
+    title: 'Typische Fehler im Feuilleton'
+    optionLayout: block
+    instructions: 'Wähle die zutreffende Fehlerkategorie (a, b oder c).'
+    items:
+      - q: '„Heimat ist ein Dach über dem Kopf."'
+        options:
+          - { key: a, text: 'Klischee' }
+          - { key: b, text: 'Registerbruch' }
+          - { key: c, text: 'unechte Ironie' }
+        answer: a
+        why: '„Ein Dach über dem Kopf" ist ein **abgegriffenes** Bild.'
+      - q: '„Das war wieder sehr klug." (ohne Kontext)'
+        options:
+          - { key: a, text: 'Klischee' }
+          - { key: b, text: 'unechte Ironie' }
+          - { key: c, text: 'Registerbruch' }
+        answer: b
+        why: 'Ohne Markierung klingt der Satz ernst gemeint — das ist **unechte Ironie**.'
+      - q: '„Der Roman ist der absolute Hammer." (im Feuilleton)'
+        options:
+          - { key: a, text: 'Klischee' }
+          - { key: b, text: 'unechte Ironie' }
+          - { key: c, text: 'Registerbruch' }
+        answer: c
+        why: '„Der absolute Hammer" ist umgangssprachlich — **Registerbruch** im Feuilleton.'
+      - q: '„Die Zeit heilt alle Wunden."'
+        options:
+          - { key: a, text: 'unechte Ironie' }
+          - { key: b, text: 'Registerbruch' }
+          - { key: c, text: 'Klischee' }
+        answer: c
+        why: 'Ein verbrauchtes Bild ohne neue Funktion — **Klischee**.'
+      - q: '„Er ist so bescheiden, dass er lauter spricht als alle anderen."'
+        options:
+          - { key: a, text: 'Registerbruch' }
+          - { key: b, text: 'scharfe Ironie / Paradoxon' }
+          - { key: c, text: 'unechte Ironie' }
+        answer: b
+        why: 'Die Verbindung „bescheiden" + „lauter" ist eine **Ironie** mit Biss.'
+
+  # ── Block B — Vertiefung ─────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: matching
+    title: 'Wirkungsabsicht der Satire: Mittel zuordnen'
+    instructions: 'Ordne jede Wirkungsabsicht (1–5) dem typischen Mittel (a–e) zu.'
+    left:
+      - { key: '1', text: 'Bloßstellung' }
+      - { key: '2', text: 'Warnung' }
+      - { key: '3', text: 'Empörung' }
+      - { key: '4', text: 'Belustigung' }
+      - { key: '5', text: 'Solidarisierung' }
+    right:
+      - { key: a, text: 'Übertreibung + Ironie' }
+      - { key: b, text: 'Indirektheit + Wortspiel' }
+      - { key: c, text: 'geteilte Ironie unter Verbündeten' }
+      - { key: d, text: 'Übertreibung (ohne Angriff)' }
+      - { key: e, text: 'Sarkasmus' }
+    answers:
+      "1": a
+      "2": b
+      "3": e
+      "4": d
+      "5": c
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: 'Register: Feuilleton oder Umgangssprache?'
+    optionLayout: block
+    instructions: 'Entscheide, welche Formulierung in einen Feuilleton-Artikel passt.'
+    items:
+      - q: 'In einem Feuilleton-Essay über ein neues Buch:'
+        options:
+          - { key: a, text: 'Das Buch ist echt krass.' }
+          - { key: b, text: 'Das Buch ist bemerkenswert.' }
+          - { key: c, text: 'Das Buch ist der absolute Wahnsinn.' }
+        answer: b
+        why: '„bemerkenswert" ist Feuilleton-Register; „echt krass" und „absoluter Wahnsinn" sind umgangssprachlich.'
+      - q: 'In einer Besprechung einer Theaterinszenierung:'
+        options:
+          - { key: a, text: 'Die Inszenierung war mega.' }
+          - { key: b, text: 'Die Inszenierung war hinreißend.' }
+          - { key: c, text: 'Die Inszenierung war voll cool.' }
+        answer: b
+        why: '„hinreißend" passt ins Feuilleton; „mega" und „voll cool" sind umgangssprachlich.'
+      - q: 'In einem Feuilleton-Beitrag zur Fernsehkritik:'
+        options:
+          - { key: a, text: 'Die Sendung ist der Oberhammer.' }
+          - { key: b, text: 'Die Sendung ist aufschlussreich.' }
+          - { key: c, text: 'Die Sendung ist einfach affig.' }
+        answer: b
+        why: '„aufschlussreich" ist Feuilleton-Standardsprache; die anderen Varianten sind umgangssprachlich.'
+      - q: 'Im literarischen Feuilleton über einen Roman:'
+        options:
+          - { key: a, text: 'Das Buch ist echt nice.' }
+          - { key: b, text: 'Das Buch ist eine lohnende Lektüre.' }
+          - { key: c, text: 'Das Buch ist der Knaller.' }
+        answer: b
+        why: '„eine lohnende Lektüre" ist Feuilleton-Stil; „nice" und „Knaller" sind umgangssprachlich.'
+      - q: 'In einem Essay über eine Ausstellung:'
+        options:
+          - { key: a, text: 'Die Schau ist voll abgefahren.' }
+          - { key: b, text: 'Die Schau ist extravagant und sehenswert.' }
+          - { key: c, text: 'Die Schau ist einfach nur krass.' }
+        answer: b
+        why: '„extravagant und sehenswert" ist sachlich und gehoben — Feuilleton-Register.'
+
+  - id: B3
+    block: B
+    type: single-choice
+    title: 'Erzählperspektive: Wirkung beschreiben'
+    optionLayout: block
+    instructions: 'Wähle die zutreffende Aussage zur Wirkung.'
+    items:
+      - q: 'Ein Roman wird in Ich-Form erzählt. Welche Wirkung entsteht?'
+        options:
+          - { key: a, text: 'Überblick und Wertung durch einen allwissenden Erzähler.' }
+          - { key: b, text: 'Intimität und manchmal die Möglichkeit, dass der Erzähler sich selbst täuscht.' }
+          - { key: c, text: 'Filmische Unmittelbarkeit, aber immer neutral.' }
+        answer: b
+        why: 'Ich-Erzähler wirken intim; sie können **unzuverlässig** sein.'
+      - q: 'Ein Roman wird auktorial erzählt. Welche Wirkung entsteht?'
+        options:
+          - { key: a, text: 'Wir wissen alles — auch die Gedanken aller Figuren; auktoriales Erzählen wirkt oft klassisch.' }
+          - { key: b, text: 'Wir sehen die Welt nur durch eine Hauptfigur.' }
+          - { key: c, text: 'Wir verstehen den Text nie, weil er zu kompliziert ist.' }
+        answer: a
+        why: 'Auktorial = allwissend; kann heute leicht altmodisch wirken, wenn Kommentare zu viel werden.'
+      - q: 'Ein Roman wird personal erzählt. Welche Wirkung entsteht?'
+        options:
+          - { key: a, text: 'Filmische Unmittelbarkeit, aber rätselhaft — der Leser arbeitet mit.' }
+          - { key: b, text: 'Wir können jede Figur beurteilen.' }
+          - { key: c, text: 'Wir wissen stets, was die Hauptfigur denkt.' }
+        answer: a
+        why: 'Personal = Kamera auf einer Figur; **anspruchsvoll**, weil der Leser miträtseln muss.'
+      - q: 'Welche Perspektive eignet sich besonders für Geheimnisse?'
+        options:
+          - { key: a, text: 'Auktorial, weil der Erzähler das Geheimnis schon kennt.' }
+          - { key: b, text: 'Personal, weil wir nur erfahren, was eine Figur wahrnimmt — Spannung durch Verbergen.' }
+          - { key: c, text: 'Nur Ich-Erzähler funktionieren.' }
+        answer: b
+        why: 'Personal hält Informationen zurück und erzeugt so Spannung.'
+      - q: 'Welche Perspektive eignet sich, um mehrere Handlungsstränge parallel zu erzählen?'
+        options:
+          - { key: a, text: 'Ich-Erzähler mit festem Standpunkt.' }
+          - { key: b, text: 'Personal, weil sie nur eine Figur kennt.' }
+          - { key: c, text: 'Auktorial, weil sie alle Stränge überblicken kann.' }
+        answer: c
+        why: 'Auktorial kann mehrere Stränge **parallel** führen.'
+
+  - id: B4
+    block: B
+    type: gap-text
+    listLayout: true
+    title: 'Klischee durch frisches Bild ersetzen'
+    instructions: 'Ersetze das Klischee durch ein **frischeres** Bild. 6 Items.'
+    text: |
+      1. „Ihre Augen funkelten." → „Ihre Augen {1} das Licht **fest**, ohne es zurückzugeben."
+      2. „Die Stadt schlief." → „Die Stadt {2} den Atem an."
+      3. „Die Zeit heilt alle Wunden." → „Die Zeit {3} Schichten übereinander, ohne sie aufzulösen."
+      4. „Die Heimat ist ein Dach über dem Kopf." → „Heimat {4} den Blick."
+      5. „Er war wie ein Fels in der Brandung." → „Er stand, {5} die Welle an ihm vorbeiging."
+      6. „Ihr Lächeln war wie die Sonne." → „Ihr Lächeln {6} den Raum, ohne ihn zu blenden."
+    answers:
+      "1": nahmen
+      "2": hielt
+      "3": legt
+      "4": verlangsamt
+      "5": während
+      "6": erwärmte
+
+  - id: B5
+    block: B
+    type: matching
+    title: 'Sprachliche Bilder: Funktion zuordnen'
+    instructions: 'Ordne jeder Aussageabsicht (1–5) die passende Figur (a–e) zu.'
+    left:
+      - { key: '1', text: 'Verdichten — in einem Bild viel sagen' }
+      - { key: '2', text: 'Kenntlich machen — Vergleich markieren, Distanz wahren' }
+      - { key: '3', text: 'Verlebendigen — Abstraktes menschlich machen' }
+      - { key: '4', text: 'Weltdeutung — über das Einzelne hinaus verweisen' }
+      - { key: '5', text: 'Verschweigen — eine Person oder Institution andeuten' }
+    right:
+      - { key: a, text: 'Personifikation' }
+      - { key: b, text: 'Metonymie' }
+      - { key: c, text: 'Metapher' }
+      - { key: d, text: 'Symbol' }
+      - { key: e, text: 'Vergleich' }
+    answers:
+      "1": c
+      "2": e
+      "3": a
+      "4": d
+      "5": b
+
+  - id: B6
+    block: B
+    type: single-choice
+    title: 'Hörfunk-Analyse: was leistet die Anmoderation?'
+    optionLayout: block
+    instructions: 'Wähle die zutreffende Aussage zur Anmoderation.'
+    items:
+      - q: 'Eine Anmoderation für ein Satire-Feature sollte vor allem:'
+        options:
+          - { key: a, text: 'Den satirischen Witz **glattbügeln**, damit der Hörer mitkommt.' }
+          - { key: b, text: 'Drei bis vier Sätze liefern, die Kontext und Pointe ankündigen — ohne den Witz vorwegzunehmen.' }
+          - { key: c, text: 'Eine fünfseitige Inhaltsangabe bieten.' }
+        answer: b
+        why: 'Frau Hoffmann: „kurz, kontextstiftend und leichtfüßig — drei Sätze, vielleicht vier".'
+      - q: 'Was ist die häufigste Falle bei der Anmoderation?'
+        options:
+          - { key: a, text: 'Sie ist zu lang, zu detailliert, zu trocken.' }
+          - { key: b, text: 'Sie erklärt den Witz — und nimmt ihm damit die Wirkung.' }
+          - { key: c, text: 'Sie kommt erst nach dem O-Ton.' }
+        answer: b
+        why: 'Den Witz zu erklären heißt, ihn zu nehmen — eine häufige Anfängerfalle.'
+      - q: 'Welche Wirkung hat eine schlechte Anmoderation auf den Hörer?'
+        options:
+          - { key: a, text: 'Der Hörer ist begeistert, weil alles erklärt wurde.' }
+          - { key: b, text: 'Der Hörer ist verwirrt, weil der Kontext fehlt.' }
+          - { key: c, text: 'Der Hörer schaltet automatisch um.' }
+        answer: b
+        why: 'Ohne Kontext wirkt das Feature wie eine Collage ohne Faden — der Hörer verliert sich.'
+      - q: 'Was leistet die Atmo in einem Feature?'
+        options:
+          - { key: a, text: 'Sie ersetzt die O-Töne, wenn diese fehlen.' }
+          - { key: b, text: 'Sie ist die akustische Bühne, die die Szene atmosphärisch einbettet.' }
+          - { key: c, text: 'Sie lenkt vom Inhalt ab.' }
+        answer: b
+        why: 'Atmo bildet den **Hintergrund**, ohne den das Feature wie ein Bericht klingt.'
+      - q: 'Wann sollte ein Feature lieber auf mehrere O-Töne setzen?'
+        options:
+          - { key: a, text: 'Wenn die interviewten Personen etwas **spezifisch Eigenes** sagen — Affekte, Pointen, Einzelerfahrungen.' }
+          - { key: b, text: 'Wenn der Sprecher zu lang ist.' }
+          - { key: c, text: 'Wenn die Atmo fehlt.' }
+        answer: a
+        why: 'Mehrere O-Töne lohnen sich, wenn jede Stimme etwas **eigenes** beiträgt.'
+
+  - id: B7
+    block: B
+    type: gap-text
+    listLayout: true
+    title: 'Angriffsziel und Wirkungsabsicht einer Satire'
+    instructions: 'Setze das passende Wort ein (Angriffsziel / Wirkungsabsicht / Indirektheit / Übertreibung / Sarkasmus / Wortspiel). 6 Items.'
+    text: |
+      1. „Er ist so klug, dass er die Frage schon beantwortet hat, bevor sie gestellt wurde." — das ist eine {1}.
+      2. „Das Buch liest sich wie ein Manuskript aus dem Random-House-Algorithmus." — das ist eine {2}.
+      3. „Der Bundeskanzler der Herzen bleibt eine Herzensangelegenheit." — das ist ein {3}.
+      4. „Der bekannte Schwiegersohn der bekannten Partei" — das ist {4}.
+      5. Eine Satire braucht ein klares {5}.
+      6. Die {6} kann Bloßstellung, Warnung, Empörung oder Belustigung sein.
+    answers:
+      "1": Übertreibung
+      "2": Übertreibung
+      "3": Wortspiel
+      "4": Indirektheit
+      "5": Angriffsziel
+      "6": Wirkungsabsicht
+
+  - id: B8
+    block: B
+    type: free-write
+    title: 'Eine Anmoderation schreiben'
+    prompt: 'Verfasse eine kurze Anmoderation (3–4 Sätze) für ein Radio-Feature zu einem satirischen Roman einer fiktiven Autorin. Nenne Werk und Thema in einem Bild, einer rhetorischen Frage oder einem Zitat — aber erkläre den Witz nicht.'
+    stimulus: |
+      Ausgangslage: Du arbeitest im Kulturprogramm eines Senders. Du sollst ein 20-minütiges Feature zu einem neuen Roman der Schriftstellerin Vera Lessing ankündigen. Der Roman heißt „Die unsichtbare Sitzung" und porträtiert eine Behörde, die beschließt, **nichts** zu beschließen. Es ist eine politische Satire.
+    use:
+      - 'Erwähne Werk, Autorin und das zentrale Bild des Romans'
+      - 'Setze eine rhetorische Frage oder ein Bild als Spannungsfigur'
+      - 'Drei bis vier Sätze — keine Inhaltsangabe'
+      - 'Erkläre den satirischen Witz nicht — überlasse ihn dem O-Ton'
+    selfCheck:
+      - 'Bleibt die Anmoderation wirklich bei **drei bis vier** Sätzen?'
+      - 'Wird das Werk knapp benannt (Titel, Autorin)?'
+      - 'Wird das Bild / die rhetorische Frage **vor** der Pointe gesetzt?'
+      - 'Wird der Witz erklärt oder offen gelassen?'
+    model: |
+      „Willkommen zu „Stimmen der Nacht". In unserer heutigen Folge begegnen wir einer Behörde, die beschlossen hat, **nichts** zu beschließen — und genau daraus macht Vera Lessing einen Roman. „Die unsichtbare Sitzung" liest sich wie das Protokoll einer Sitzung, die nie stattfand — und die trotzdem Folgen hat. Wir hören die Autorin, wir hören ihre schärfste Kritikerin, und wir hören einen Verwaltungsjuristen, der sich fragt, was eigentlich beschlossen wurde. Ich bin Yusuf El-Sayed, ich wünsche Ihnen gute Unterhaltung."
+
+  - id: B9
+    block: B
+    type: free-write
+    title: 'Eine Mini-Satire verfassen'
+    prompt: 'Verfasse eine kurze Mini-Satire (5–6 Sätze) zu einem gesellschaftlichen Phänomen deiner Wahl. Wähle ein **klares** Angriffsziel, setze **eine** rhetorische Figur ein und vermeide platte Beleidigungen.'
+    stimulus: |
+      Ausgangslage: Du bist auf einer literarischen Veranstaltung gebeten worden, eine Mini-Satire beizusteuern. Sie wird im Newsletter eines kleinen Verlags abgedruckt. Wähle ein Phänomen aus dem Alltag — z. B. „Sonntagsreden", „Online-Vorstellungsgespräche", „Konferenz-Sprache", „Zeitungs-App-Bezahlmauern" — und schreibe eine zugespitzte, aber treffsichere Satire.
+    use:
+      - 'Ein **klares** Angriffsziel (nenne es ruhig beim Namen oder umschreibe es indirekt)'
+      - 'Mindestens **eine** rhetorische Figur (Übertreibung, Sarkasmus, Wortspiel, Antithese)'
+      - 'Mindestens **eine** Pointe am Schluss'
+      - 'Vermeide direkte Beleidigungen — auch im satirischen Register'
+      - 'Mindestens eine Wendung mit **Konnotation** (z. B. „beredtes Schweigen", „die übliche Sonntagsrhetorik")'
+    selfCheck:
+      - 'Ist das Angriffsziel klar?'
+      - 'Steckt **eine** rhetorische Figur drin (nicht fünf)?'
+      - 'Gibt es eine Pointe — und kommt sie erst am Schluss?'
+      - 'Bleibt der Text im **literarisch-feuilletonistischen** Register?'
+      - 'Wird niemand **persönlich** beleidigt?'
+    model: |
+      „Es gibt Reden, die so klingen, als wären sie für ein Publikum geschrieben, das nicht da ist. Sonntagsreden reden so, wie das Wetter **redet** — eigentlich sagt es nichts, aber es klingt wichtig. Wer zuhört, nickt, weil das Nicken **die** Sonntagsgebärde ist; es kostet weniger als Zustimmung. Die Pointe bleibt aus — und das **ist** die Pointe. Wer so redet, hat sein Publikum **nie** ganz verloren, weil er es **nie ganz hatte**. Das Schweigen danach ist das **beredteste** der ganzen Woche."
+
+  # ── Block C — Prüfungstraining ───────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: gap-text
+    listLayout: true
+    title: 'Lückentext: Werkzeuge der literarischen Sprache'
+    instructions: 'Füll jede Lücke mit **einem** passenden Wort. 10 Items.'
+    text: |
+      Literatur lebt von {1}. Wer „die Stadt schläft" schreibt, nutzt eine
+      {2} — Städte schlafen nicht, also wird ein menschliches Verb auf ein
+      Abstraktes übertragen. Eine {3} wie „wie ein Dschungel" markiert
+      den Vergleich; eine Metapher {4} ohne „wie". Wer eine Taube auf
+      einem Platz zeigt, arbeitet mit einem {5}: die Taube steht für
+      den Frieden. „Berlin hat entschieden" ist eine {6} — Berlin steht
+      für die Regierung. Der {7} — der Erzähler — kann Ich-Erzähler,
+      personal oder {8} sein; jede Perspektive erzeugt eine andere
+      Wirkung. Im {9} zählt jede Konnotation, im Feuilleton jede Pointe.
+      Wichtig: auf C1 dosieren — wer {10} Bilder stapelt, klingt nicht
+      poetisch, sondern nur überladen.
+    answers:
+      "1": "Bildern"
+      "2": Personifikation
+      "3": Vergleich
+      "4": arbeitet
+      "5": Symbol
+      "6": Metonymie
+      "7": Erzähler
+      "8": auktorial
+      "9": Feuilleton
+      "10": zu viele
+
+  - id: C2
+    block: C
+    type: single-choice
+    title: 'Sprachbausteine Teil 1'
+    optionLayout: block
+    instructions: 'Wähle die passende Option (a, b oder c) für jede Lücke.'
+    items:
+      - q: '„Berlin hat entschieden" ist ein Beispiel für eine {1}.'
+        options:
+          - { key: a, text: 'Metapher' }
+          - { key: b, text: 'Personifikation' }
+          - { key: c, text: 'Metonymie' }
+        answer: c
+        why: 'Berlin steht für die Regierung — Metonymie (benachbarter Begriff).'
+      - q: '„Die Stadt ist **wie** ein Dschungel" ist ein Beispiel für {1}.'
+        options:
+          - { key: a, text: 'einen Vergleich' }
+          - { key: b, text: 'eine Metapher' }
+          - { key: c, text: 'eine Personifikation' }
+        answer: a
+        why: '„wie" markiert den Vergleich.'
+      - q: 'Eine gute Satire {1} sich selbst — sie braucht keine Erklärung.'
+        options:
+          - { key: a, text: 'erklärt nicht' }
+          - { key: b, text: 'verdeutlicht' }
+          - { key: c, text: 'begründet ausführlich' }
+        answer: a
+        why: 'Eine gute Satire „erklärt sich selbst"; sie braucht keine Glättung.'
+      - q: '„Berlin hat entschieden" {1} eine Metapher.'
+        options:
+          - { key: a, text: 'ist nicht' }
+          - { key: b, text: 'kann auch sein' }
+          - { key: c, text: 'ist auf keinen Fall' }
+        answer: a
+        why: 'Es ist eine Metonymie, **nicht** eine Metapher — die Begriffe trennen.'
+      - q: 'In der Anmoderation {1} man den Witz — er kommt aus dem O-Ton.'
+        options:
+          - { key: a, text: 'erklärt' }
+          - { key: b, text: 'überlässt' }
+          - { key: c, text: 'verschiebt' }
+        answer: b
+        why: 'Den Witz überlässt man dem O-Ton — Erklären würde ihn zerstören.'
+      - q: 'Ein Feature besteht aus O-Ton, Atmo, Sprecher und {1}.'
+        options:
+          - { key: a, text: 'Kommentar' }
+          - { key: b, text: 'Anmoderation und Schluss' }
+          - { key: c, text: 'nur Musik' }
+        answer: b
+        why: 'Anmoderation + Schluss ergänzen die fünf Bausteine.'
+
+  - id: C3
+    block: C
+    type: gap-bank
+    bankCase: upper
+    bankSort: true
+    title: 'Sprachbausteine Teil 2 (Wortbank)'
+    instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    text: |
+      Aus einem Feuilleton-Essay: „Literaturkritik braucht {1} —
+      nicht jede Pointe, aber ein Gespür für die {2} Schicht eines
+      Wortes. Wer „Heimat" benutzt, sollte die {3} Konnotation
+      mitbedenken; wer „entschlummern" schreibt, signalisiert {4}
+      Register. Die {5} eines Feuilletons ist es, eine Position
+      zu beziehen — aber {6}, mit Hedging und Verweis. Satire
+      arbeitet mit {7}, {8} oder Wortspiel; niemals aber als
+      {9} Beleidigung. Das ist die schmale {10} zwischen Polemik
+      und künstlerischer Form."
+    bank: [DIFFERENZIERUNG, HISTORISCH, IDEOLOGISCH, GEHOBEN, AUFGABE, DIFFERENZIERT, ÜBERTREIBUNG, IRONIE, PLUMPE, GRAT, METAPHER, VERGLEICH, SYMBOL, POINTEN, LITERARISCHE]
+    answers:
+      "1": DIFFERENZIERUNG
+      "2": LITERARISCHE
+      "3": IDEOLOGISCH
+      "4": GEHOBEN
+      "5": AUFGABE
+      "6": DIFFERENZIERT
+      "7": ÜBERTREIBUNG
+      "8": IRONIE
+      "9": PLUMPE
+      "10": GRAT
+
+  - id: C4a
+    block: C
+    type: true-false
+    title: 'Lesen Text 1 (Lesetext: Wer rettet das Feuilleton?)'
+    instructions: |
+      > *Die deutsche Feuilleton-Kultur ist in einer Schieflage, die niemand offen aussprechen will. Einst war die Zeitung der Ort, an dem eine gebildete Öffentlichkeit über Geschmack und über Werte verhandelte — Kafka wurde hier von einem einzigen mutigen Kritiker entdeckt, die Romane Thomas Manns wurden hier zerrieben oder gefeiert, die deutsche Sprache wurde hier gepflegt und beansprucht. Heute ist das Feuilleton ein Ort der Eile geworden: Es twittert, bevor es nachgedacht hat; es empört sich, wo es gelesen hätte; es urteilt, wo es hätte verstanden werden können. Wer nicht in vierundzwanzig Stunden mit einem Dreizeiler reagiert, hat schon verloren.*
+      >
+      > *Die Folge ist eine sprachliche Inflation: Man kann heute nicht mehr „interessant" finden, ohne „höchst bemerkenswert" zu sagen; man kann nicht mehr „schlecht" finden, ohne „eine Katastrophe" zu diagnostizieren. Die Sprache selbst wird ungenießbar — nicht weil sie zu gelehrt wäre, sondern weil sie zu laut ist. Eine Besprechung, die einmal „lobend" oder „ablehnend" lautete, muss heute „umjubelt" oder „vernichtend" sein. Die Differenzierung, einst das Markenzeichen des Genres, verschwindet hinter dem Dreiklang aus Hype, Häme und Hast.*
+      >
+      > *Aber man darf nicht nur klagen. Man darf auch fragen, was das Feuilleton selbst dazu beigetragen hat. Die Ökonomie der Aufmerksamkeit ist eine gemeinsame Verantwortung von Verlag und Kritiker. Wer den algorithmischen Klick belohnt, darf sich nicht wundern, wenn der Klick den Gehalt verdrängt. Was bleibt, ist die Erinnerung daran, dass guter Journalismus langsam sein darf, ja langsam sein muss. Die Satire, oft genug das einzige Gegenmittel zur Lautheit, lebt von der Pointe, nicht vom Tempo. Ein einziger klug gesetzter Satz — „Das Buch liest sich, als hätte der Verlagslektor den Laptop angelassen" — wiegt schwerer als fünf Absätze Lob oder Tadel.*
+      >
+      > *Es liegt an einer neuen Generation von Kritikerinnen und Kritikern, das Gleichgewicht wiederzufinden. Sie müssen nicht schneller sein als die sozialen Medien; sie müssen genauer sein. Sie müssen nicht lauter sein als die Algorithmen; sie müssen klarer sein. Wer das verstanden hat, braucht kein Feuilleton, das schreit. Wer das verstanden hat, kann in leiser Stimme mehr bewegen als mit jeder Überschrift, die nach Aufmerksamkeit schreit.*
+
+      Richtig (R) oder Falsch (F)?
+    items:
+      - q: 'Der Text beklagt, dass die Feuilleton-Sprache zu gelehrt geworden sei.'
+        answer: false
+        why: '„Die Sprache selbst wird ungenießbar — nicht weil sie zu gelehrt wäre, sondern weil sie zu laut ist."'
+      - q: 'Der Text nennt den „Dreiklang aus Hype, Häme und Hast" als Kennzeichen der aktuellen Feuilleton-Kultur.'
+        answer: true
+        why: '„Die Differenzierung … verschwindet hinter dem Dreiklang aus Hype, Häme und Hast."'
+      - q: 'Der Text wirft dem Feuilleton vor, sich zu wenig um die Ökonomie der Aufmerksamkeit zu kümmern.'
+        answer: false
+        why: 'Der Text wirft dem Feuilleton **Mitverantwortung** vor — „die Ökonomie … ist eine gemeinsame Verantwortung".'
+      - q: 'Der Text sieht in der Satire das einzige Gegenmittel gegen die Lautheit der Feuilleton-Kultur.'
+        answer: true
+        why: '„Die Satire, oft genug das einzige Gegenmittel zur Lautheit, lebt von der Pointe."'
+      - q: 'Der Text fordert, dass Kritikerinnen lauter sein müssen als die sozialen Medien.'
+        answer: false
+        why: '„Sie müssen nicht lauter sein als die Algorithmen; sie müssen klarer sein."'
+
+  - id: C4b
+    block: C
+    type: single-choice
+    title: 'Lesen Text 2 (Forumsdiskussion: Feuilleton in der Krise)'
+    optionLayout: block
+    instructions: |
+      Lies die folgenden Forumsbeiträge und wähle a, b oder c.
+
+      > **Beitrag 1 — Redaktion (Moderation):**
+      > Liebe Community, in dieser Woche diskutieren wir die Frage: Brauchen wir das Feuilleton noch? Bitte belegen Sie Ihre Beiträge nach Möglichkeit mit Beispielen.
+      >
+      > **Beitrag 2 — Mara Lunau (Leipziger Autorin):**
+      > Ich finde, das Feuilleton schuldet uns mehr Geduld. Schnelle Verrisse helfen niemandem. Aber ohne das Feuilleton hätte man mich 2018 nicht entdeckt — also: ja, wir brauchen es.
+      >
+      > **Beitrag 3 — Bruno_S:**
+      > Das Feuilleton war einmal. Heute zählt nur noch der Algorithmus. Wer noch liest, ist ohnehin Teil der alten Generation.
+      >
+      > **Beitrag 4 — Hannah (Literaturwissenschaftlerin):**
+      > Ich widerspreche. Das Feuilleton verändert sich gerade — von der schnellen Pointe zur längeren Essayform. Diese Entwicklung kommt mir entgegen. Wir sollten sie unterstützen, nicht beklagen.
+
+      Was ist die Leitfrage der Diskussion?
+
+    items:
+      - q: 'Was ist die Leitfrage der Diskussion?'
+        options:
+          - { key: a, text: 'Wie viele Feuilletons gibt es in Deutschland?' }
+          - { key: b, text: 'Brauchen wir das Feuilleton noch?' }
+          - { key: c, text: 'Wer schreibt die besten Feuilleton-Texte?' }
+        answer: b
+        why: '„In dieser Woche diskutieren wir die Frage: Brauchen wir das Feuilleton noch?" (Beitrag 1).'
+      - q: 'Welche Position vertritt Mara Lunau (Beitrag 2)?'
+        options:
+          - { key: a, text: 'Das Feuilleton ist überflüssig.' }
+          - { key: b, text: 'Das Feuilleton schuldet Geduld, aber ohne es würde vieles fehlen — sie braucht es.' }
+          - { key: c, text: 'Nur das Feuilleton rettet die Literatur.' }
+        answer: b
+        why: '„das Feuilleton schuldet uns mehr Geduld … ohne das Feuilleton hätte man mich 2018 nicht entdeckt — also: ja, wir brauchen es."'
+      - q: 'Welche Position vertritt Bruno (Beitrag 3)?'
+        options:
+          - { key: a, text: 'Das Feuilleton ist durch den Algorithmus ersetzt; nur eine alte Generation liest noch.' }
+          - { key: b, text: 'Das Feuilleton hat zu viel Geduld mit schlechten Texten.' }
+          - { key: c, text: 'Bruno will das Feuilleton reformieren.' }
+        answer: a
+        why: '„Das Feuilleton war einmal. Heute zählt nur noch der Algorithmus. Wer noch liest, ist ohnehin Teil der alten Generation."'
+      - q: 'Welche Position vertritt Hannah (Beitrag 4)?'
+        options:
+          - { key: a, text: 'Das Feuilleton verändert sich gerade zum Besseren (längere Essayform); das sollten wir unterstützen.' }
+          - { key: b, text: 'Das Feuilleton ist ein Auslaufmodell.' }
+          - { key: c, text: 'Nur die Essayform rettet die Literatur.' }
+        answer: a
+        why: '„Das Feuilleton verändert sich gerade — von der schnellen Pointe zur längeren Essayform. Diese Entwicklung kommt mir entgegen. Wir sollten sie unterstützen."'
+
+  - id: C5
+    block: C
+    type: free-write
+    title: 'Schreiben: literarisches Feuilleton'
+    prompt: 'Verfasse einen kurzen Feuilleton-Beitrag (8–12 Sätze) zu einem Werk deiner Wahl — einem Buch, einem Film oder einer Theaterinszenierung. Beziehe Position (mit Hedging aus C1/05), arbeite mit mindestens **einer** rhetorischen Figur und mindestens **einer** Pointe am Schluss. Schließe mit einer abgewogenen Schlussfolgerung.'
+    use:
+      - 'Position beziehen — aber **differenziert**, mit Hedging (dürfte, vermutlich, scheint)'
+      - 'Mindestens **eine** rhetorische Figur (Anapher, Trikolon, Antithese, Oxymoron, Chiasmus)'
+      - 'Mindestens **eine** Pointe am Schluss'
+      - 'Mindestens ein **sprachliches Bild**, das nicht klischeehaft ist'
+      - 'Strukturwörter: einerseits/andererseits, zwar/aber, zunächst/anschließend/abschließend'
+    selfCheck:
+      - 'Bezieht der Text eine **Position** oder bleibt er unverbindlich?'
+      - 'Wird die Position **differenziert** formuliert (Hedging)?'
+      - 'Steckt **eine** rhetorische Figur drin — nicht fünf?'
+      - 'Gibt es eine **Pointe** am Schluss?'
+      - 'Bleibt das Register **literarisch-feuilletonistisch** (keine Umgangssprache)?'
+    model: |
+      „Der neue Roman der Schweizer Autorin Lioba Werth — „Stillleben mit Kuckuck" — ist ein leises Buch in einer lauten Zeit. Zwar könnte man ihm vorwerfen, **zu** leise zu sein; dennoch widersteht er der Versuchung, **laut** zu werden, **mit** Bedacht. Werth arbeitet mit einer **lakonischen** Stimme, die ihre Figuren nicht **erklärt**, sondern **zeigt** — und das ist, in einer Epoche der plakativen Charaktere, eine **poetische** Geste. **Einerseits** wirken die Sätze karg, **andererseits** sind sie voll von dem, was sie **auslassen**: Andeutungen, Blicke, kleine Verschiebungen. **Zwar** ist „Stillleben mit Kuckuck" kein Buch, das man an einem Sonntag verschlingt; **aber** es ist ein Buch, das man **liest** und dann **einmal mehr** zur Hand nimmt. **Liest** man es zu Ende, bleibt das Bild eines schiefen Spiegels — und die Frage, ob die Kuckucksuhr die Zeit **misst** oder sie **erklärt**. **Wer** das Buch entdeckt, mag es zu Recht loben. **Wer** über sein Fehlen urteilt, hat es wahrscheinlich nicht **zu Ende** gelesen."
+
+  # ── Block D — Wiederholung & Selbsttest ─────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: 'Gemischter Schnelltest'
+    instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (B2/..) oder (C1/..) wiederholen frühere Lektionen. 15 Items.'
+    text: |
+      **Literatur und Medien (C1/10):**
+      1. „Die Stadt schläft" ist eine {1}. (Tropus)
+      2. „Ihr Haar glänzte wie Seide" ist ein {2}. (Tropus)
+      3. „Berlin hat entschieden" ist eine {3}. (Tropus)
+      4. „Er kam, er sah, er siegte" ist ein {4}. (Figur)
+      5. „Beredtes Schweigen" ist ein {5}. (Figur)
+
+      **Wiederholung (C1/05 Wissenschaftssprache):**
+      6. (C1/05) Hedging-Modalverb: Das {6} zutreffen.
+      7. (C1/05) Hedging-Wendung: Die Daten {7} darauf hin.
+
+      **Wiederholung (B2/04 Indirekte Rede):**
+      8. (B2/04) Indikativ „hat" → Konjunktiv I: {8}.
+      9. (B2/04) Indikativ „gibt" → Konjunktiv I: {9}.
+
+      **Wiederholung (C1/09 Vortrag und Diskussion):**
+      10. (C1/09) „Ich würde Sie bitten, kurz zu beginnen" — Register: {10}.
+
+      **Wiederholung (C1/07 Synonymik):**
+      11. (C1/07) „aktuelle Daten" heißt übersetzt: {11} Daten (current).
+      12. (C1/07) „realisieren" heißt übersetzt: {12} (verwirklichen).
+
+      **Wiederholung (C1/02 Komplexe Syntax):**
+      13. (C1/02) Ein Satz im Satz heißt {13}.
+      14. (C1/02) Die deutsche Entsprechung von „Münze" und „Münzturm" ist {14}.
+
+      **Wiederholung (C1/03 Modalpartikeln):**
+      15. (C1/03) „Komm {15} her!" — freundliche Aufforderung.
+    answers:
+      "1": Metapher
+      "2": Vergleich
+      "3": Metonymie
+      "4": Trikolon
+      "5": Oxymoron
+      "6": dürfte
+      "7": deuten
+      "8": habe
+      "9": gebe
+      "10": höflich
+      "11": aktuelle
+      "12": verwirklichen
+      "13": Nebensatz
+      "14": Kompositum
+      "15": mal
+
+  - id: D2
+    block: D
+    type: odd-one-out
+    title: 'Odd one out: Tropen und Figuren'
+    instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    groups:
+      - items: [Metapher, Vergleich, Allegorie, Personifikation]
+        odd: 2
+        why: 'Metapher, Vergleich und Personifikation sind die drei Standardtropen; Allegorie ist eine eigene, komplexere Figur (fortlaufende bildliche Darstellung).'
+      - items: [Anapher, Trikolon, Antithese, Allegro]
+        odd: 3
+        why: 'Anapher, Trikolon und Antithese sind rhetorische Figuren; „Allegro" gehört zur Musik (schnelles Tempo).'
+      - items: [Übertreibung, Ironie, Sarkasmus, Ballade]
+        odd: 3
+        why: 'Übertreibung, Ironie und Sarkasmus sind satirische Mittel; Ballade ist eine literarische Gattung.'
+      - items: [O-Ton, Atmo, Anmoderation, Sarkasmus]
+        odd: 3
+        why: 'O-Ton, Atmo und Anmoderation sind Bausteine eines Features; Sarkasmus gehört zur Satire.'
+      - items: [Konnotation, Denotation, Polysemie, Feuilleton]
+        odd: 3
+        why: 'Konnotation, Denotation und Polysemie sind semantische Begriffe; Feuilleton ist eine Textsorte / ein Zeitungsteil.'
+      - items: [Symbol, Metonymie, Personifikation, Konnotation]
+        odd: 3
+        why: 'Symbol, Metonymie und Personifikation sind Tropen; Konnotation ist ein semantischer Begriff.'
+
+  - id: D3
+    block: D
+    type: gap-text
+    listLayout: true
+    title: 'Rückblick: B2/04, B2/05, B2/07, B2/09, C1/05, C1/09, C1/10'
+    instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    text: |
+      **Aus C1/10 (Literatur und Medien):**
+      1. „Berlin hat entschieden" ist eine {1}.
+      2. „Wir kamen, wir sahen, wir siegten" ist ein {2}.
+      3. „Beredtes Schweigen" ist ein {3}.
+
+      **Aus C1/09 (Vortrag und Diskussion):**
+      4. „Ich **würde** Sie bitten" — höfliche Form = {4}.
+      5. Aufzählung in drei Teilen = {5}.
+
+      **Aus C1/05 (Wissenschaftssprache):**
+      6. Hedging-Modalverb = {6}.
+      7. „Schmidt schreibt, die Methode **sei** …" = {7}.
+
+      **Aus C1/07 (Synonymik):**
+      8. „realisieren" = {8}.
+
+      **Aus B2/09 (Wortbildung):**
+      9. „Münzstapel" und „Stapelmünze" sind {9} (Wortbildung).
+
+      **Aus B2/05 (Erörterung):**
+      10. Einleitung — Hauptteil — Schlussfolge­rung = Aufbau einer {10}.
+    answers:
+      "1": Metonymie
+      "2": Trikolon
+      "3": Oxymoron
+      "4": Konjunktiv II
+      "5": Trikolon
+      "6": dürfte
+      "7": Konjunktiv I
+      "8": verwirklichen
+      "9": Komposita
+      "10": Erörterung
+
+  - id: D4
+    block: D
+    type: gap-text
+    listLayout: true
+    title: 'Selbsttest (bewerte dich /20)'
+    notes: '16+ / 20 → Lektion C1/11. Unter 16 → wiederhol morgen Block A (A1–A12) und Block B (B1–B9), dann mach D4 noch einmal.'
+    text: |
+      **Tropen:**
+      1. „Die Stadt **schläft**" — menschliches Verb auf Abstraktes = {1}.
+      2. „Ihr Haar glänzt **wie** Seide" — Bild **mit** Vergleichspartikel = {2}.
+      3. „Berlin hat entschieden" — Nachbarbegriff steht für etwas anderes = {3}.
+
+      **Rhetorische Figuren:**
+      4. „Er **kam**, er **sah**, er **siegte**" — Aufzählung in **drei** Teilen = {4}.
+      5. „Beredtes Schweigen" — Verbindung zweier Widersprüche = {5}.
+      6. „Die Stadt **schläft**. Die Stadt **schweigt**. Die Stadt **vergisst**." — gleicher Satzanfang = {6}.
+
+      **Satirische Mittel:**
+      7. „Das ist ja **großartig**" (scharf, verletzend) = {7}.
+      8. „Das Weiße Haus **dementierte**" — Angriffsziel umschrieben = {8}.
+
+      **Erzählperspektive:**
+      9. Auktorial: der Erzähler weiß **alles** über die Figuren — auch ihre {9}.
+      10. Personal: der Leser sieht die Welt durch **eine** {10}.
+
+      **Hörfunk-Feature:**
+      11. Die wörtliche Originalstimme heißt {11}.
+      12. Die Hintergrundgeräusche heißen {12}.
+      13. Den Anfang macht die {13}.
+
+      **Feuilleton:**
+      14. Eine **klischeehafte** Wendung ersetzt man durch eine {14} Bildsprache.
+      15. Eine {15} im Feuilleton trägt oft eine deutliche Konnotation.
+
+      **Konnotation:**
+      16. Die wörtliche Bedeutung heißt {16}.
+      17. Der emotionale Beiklang heißt {17}.
+
+      **Typische Fehler:**
+      18. „Der Roman ist der absolute Hammer" = {18}-bruch im Feuilleton.
+      19. „Die Heimat ist ein Dach über dem Kopf" = {19}.
+
+      **Wiederholung (C1/05):**
+      20. (C1/05) Hedging-Modalverb: Das {20} zutreffen.
+    answers:
+      "1": Personifikation
+      "2": Vergleich
+      "3": Metonymie
+      "4": Trikolon
+      "5": Oxymoron
+      "6": Anapher
+      "7": Sarkasmus
+      "8": Indirektheit
+      "9": Gedanken
+      "10": Figur
+      "11": O-Ton
+      "12": Atmo
+      "13": Anmoderation
+      "14": frischere
+      "15": Wendung
+      "16": Denotation
+      "17": Konnotation
+      "18": Register
+      "19": Klischee
+      "20": dürfte
