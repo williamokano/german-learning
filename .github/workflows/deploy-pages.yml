@@ -47,6 +47,9 @@ jobs:
       - name: Assert exercises.md/solutions.md are in sync with exercises.yml
         run: npx --yes tsx build/gen-exercises.ts --all --check
 
+      - name: Validate vocab.yml and assert no needsReview markers remain
+        run: npx --yes tsx build/import-vocab.ts --all --check
+
       - run: pnpm -C web build
 
       - uses: actions/upload-pages-artifact@v3

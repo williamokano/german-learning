@@ -1,6 +1,7 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { ExerciseSet } from './core/content/schema';
+import { VocabSet } from './core/content/vocab';
 
 const lessonSchema = z.object({
   level:    z.enum(['A1','A2','B1','B2','C1']).optional(),
@@ -34,4 +35,9 @@ const exercises = defineCollection({
   schema: ExerciseSet,
 });
 
-export const collections = { lessons, 'lessons-short': lessonsShort, exercises };
+const vocab = defineCollection({
+  loader: glob({ pattern: '*/*/vocab.yml', base: '../' }),
+  schema: VocabSet,
+});
+
+export const collections = { lessons, 'lessons-short': lessonsShort, exercises, vocab };
