@@ -1,0 +1,204 @@
+# Reviewed from B2/12 lesson.md §4 Wortschatz.
+# Note: all 3 tables use German paraphrase (Bedeutung), not English glosses —
+# every gloss below is a hand-written English translation.
+#
+# Section headers in lesson.md:
+#   Das Vokabular der Argumentation (argumentation structure)  — 8 nouns
+#   Position, Haltung und Meinung (opinion vocabulary)          — 8 nouns
+#   Pro und Contra ausdrücken (agree/disagree pairs)            — 2 nouns + 8 verbs
+lesson: B2/12
+
+entries:
+  # ── Das Vokabular der Argumentation — 8 nouns ──────────────────────────────
+  # Ordered per the lesson's argumentation chain: These → Argument → Beleg →
+  # Beispiel → Schlussfolgerung → Fazit.
+  - de: These
+    article: die
+    plural: Thesen
+    en: thesis
+    pos: noun
+    tags: [logic, argument, abstract]
+    core: true
+  - de: Argument
+    article: das
+    plural: Argumente
+    en: argument
+    pos: noun
+    tags: [logic, argument, abstract]
+    core: true
+  - de: Beleg
+    article: der
+    plural: Belege
+    en: evidence; proof
+    pos: noun
+    tags: [logic, argument, abstract]
+    core: true
+  - de: Beispiel
+    article: das
+    plural: Beispiele
+    en: example
+    pos: noun
+    tags: [logic, argument, abstract]
+    core: true
+  - de: Gegenargument
+    article: das
+    plural: Gegenargumente
+    en: counter-argument
+    pos: noun
+    tags: [logic, argument, abstract]
+    core: true
+  - de: Widerlegung
+    article: die
+    plural: Widerlegungen
+    en: refutation
+    pos: noun
+    tags: [logic, argument, abstract]
+    core: true
+  - de: Schlussfolgerung
+    article: die
+    plural: Schlussfolgerungen
+    en: conclusion
+    pos: noun
+    tags: [logic, argument, abstract]
+    core: true
+  - de: Fazit
+    article: das
+    plural: Fazits
+    en: final conclusion; summary
+    pos: noun
+    tags: [logic, argument, abstract]
+    core: true
+
+  # ── Position, Haltung und Meinung — 8 nouns ────────────────────────────────
+  - de: Standpunkt
+    article: der
+    plural: Standpunkte
+    en: point of view (factual, objective)
+    pos: noun
+    tags: [opinion, abstract]
+    core: true
+  - de: Position
+    article: die
+    plural: Positionen
+    en: position (in a discussion)
+    pos: noun
+    tags: [opinion, abstract]
+    core: true
+  - de: Haltung
+    article: die
+    plural: Haltungen
+    en: attitude (personal, fundamental stance)
+    pos: noun
+    tags: [opinion, abstract]
+    core: true
+  - de: Meinung
+    article: die
+    plural: Meinungen
+    en: opinion (general term)
+    pos: noun
+    tags: [opinion, abstract]
+    core: true
+  - de: Auffassung
+    article: die
+    plural: Auffassungen
+    en: (well-considered) view (elevated register)
+    pos: noun
+    tags: [opinion, abstract]
+    core: true
+  - de: Ansicht
+    article: die
+    plural: Ansichten
+    en: view (formal, = Auffassung)
+    pos: noun
+    tags: [opinion, abstract]
+    core: true
+  - de: Überzeugung
+    article: die
+    plural: Überzeugungen
+    en: conviction
+    pos: noun
+    tags: [opinion, abstract]
+    core: true
+  - de: Vorurteil
+    article: das
+    plural: Vorurteile
+    en: prejudice (opinion without examination or evidence)
+    pos: noun
+    tags: [opinion, abstract]
+    core: true
+
+  # ── Pro und Contra ausdrücken — 2 nouns + 8 verbs (opposite pairs) ─────────
+  - de: Vorteil
+    article: der
+    plural: Vorteile
+    en: advantage
+    pos: noun
+    tags: [logic, contrast, abstract]
+    core: true
+  - de: Nachteil
+    article: der
+    plural: Nachteile
+    en: disadvantage
+    pos: noun
+    tags: [logic, contrast, abstract]
+    core: true
+  - de: befürworten
+    article: null
+    plural: null
+    en: to be in favor of; to endorse
+    pos: verb
+    tags: [verb, opinion]
+    core: true
+  - de: ablehnen
+    article: null
+    plural: null
+    en: to reject; to be against
+    pos: verb
+    tags: [verb, opinion, separable]
+    core: true
+  - de: kritisieren
+    article: null
+    plural: null
+    en: to criticize
+    pos: verb
+    tags: [verb, opinion]
+    core: true
+    example: "einen Nachteil benennen"
+  - de: loben
+    article: null
+    plural: null
+    en: to praise
+    pos: verb
+    tags: [verb, opinion]
+    core: true
+    example: "einen Vorteil benennen"
+  - de: einwenden
+    article: null
+    plural: null
+    en: to object; to raise a counter-argument
+    pos: verb
+    tags: [verb, opinion, separable]
+    core: true
+  - de: bezweifeln
+    article: null
+    plural: null
+    en: to doubt
+    pos: verb
+    tags: [verb, opinion]
+    core: true
+  - de: bestätigen
+    article: null
+    plural: null
+    en: to confirm
+    pos: verb
+    tags: [verb, opinion]
+    core: true
+    example: "eine These stützen"
+  - de: widerlegen
+    article: null
+    plural: null
+    en: to refute
+    pos: verb
+    tags: [verb, opinion, strong]
+    core: true
+    example: "ein Argument als falsch darstellen"
