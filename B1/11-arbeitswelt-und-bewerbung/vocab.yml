@@ -1,0 +1,235 @@
+# Reviewed from B1/11 lesson.md §4 Wortschatz.
+# Note: V2 parser captured the first and third tables well. `Lebenslauf, die
+# Lebensläufe` lost its plural (parser expects a comma plural-code, not a full second
+# word). `Anschreiben`/`Bewerbungsschreiben` false-umlauted. `Gehalt, die Gehälter`
+# same issue as Lebenslauf. `Kollege`/`Abteilungsleiter`/`Personalchef(in)` m/f pairs
+# were captured as single entries; split. 3 verb-phrases (`sich bewerben um`,
+# `Überstunden machen`, `eine Stelle antreten`) were typed `pos: phrase`; re-typed.
+#
+# Section headers in lesson.md:
+#   Bewerbung und Arbeitsstelle (application and job)  — 17 nouns (3 m/f pairs)
+#   Lebenslauf-Abschnitte (CV structure)                — SKIPPED (reference table,
+#     not vocabulary — Abschnitt/Inhalt column headers list CV section categories,
+#     same convention as A1/12 weekday/ordinal exclusion)
+#   Arbeitswelt-Verben (verbs in the world of work)     — 8 verbs + 2 phrases
+lesson: B1/11
+
+entries:
+  # ── Bewerbung und Arbeitsstelle — 17 nouns ─────────────────────────────────
+  - de: Stelle
+    article: die
+    plural: Stellen
+    en: position; job
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Bewerbung
+    article: die
+    plural: Bewerbungen
+    en: application
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Vorstellungsgespräch
+    article: das
+    plural: Vorstellungsgespräche
+    en: job interview
+    pos: noun
+    tags: [career, event]
+    core: true
+  - de: Lebenslauf
+    article: der
+    plural: Lebensläufe
+    en: CV; résumé
+    pos: noun
+    tags: [career, document]
+    core: true
+  - de: Anschreiben
+    article: das
+    plural: null
+    en: cover letter
+    pos: noun
+    tags: [career, document]
+    core: true
+  - de: Bewerbungsschreiben
+    article: das
+    plural: null
+    en: application letter (= Anschreiben)
+    pos: noun
+    tags: [career, document]
+    core: true
+  - de: Bewerbungsunterlagen
+    article: die
+    plural: null
+    en: application documents
+    pos: noun
+    tags: [career, document, plural-tantum]
+    core: true
+  - de: Stellenangebot
+    article: das
+    plural: Stellenangebote
+    en: job posting; vacancy notice
+    pos: noun
+    tags: [career, document]
+    core: true
+  - de: Kündigung
+    article: die
+    plural: Kündigungen
+    en: dismissal; resignation; notice
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Kündigungsfrist
+    article: die
+    plural: Kündigungsfristen
+    en: notice period
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Gehaltserhöhung
+    article: die
+    plural: Gehaltserhöhungen
+    en: pay rise
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Gehalt
+    article: das
+    plural: Gehälter
+    en: salary
+    pos: noun
+    tags: [career, abstract]
+    core: true
+    example: "Das Gehalt wurde erhöht."
+  - de: Kollege
+    article: der
+    plural: Kollegen
+    en: colleague (male)
+    pos: noun
+    tags: [career, person, concrete, n-decl]
+    core: true
+  - de: Kollegin
+    article: die
+    plural: Kolleginnen
+    en: colleague (female)
+    pos: noun
+    tags: [career, person, concrete]
+    core: true
+  - de: Abteilungsleiter
+    article: der
+    plural: null
+    en: department head (male)
+    pos: noun
+    tags: [career, person, concrete]
+    core: true
+  - de: Abteilungsleiterin
+    article: die
+    plural: Abteilungsleiterinnen
+    en: department head (female)
+    pos: noun
+    tags: [career, person, concrete]
+    core: true
+  - de: Überstunden
+    article: die
+    plural: null
+    en: overtime
+    pos: noun
+    tags: [career, plural-tantum]
+    core: true
+  - de: Einarbeitung
+    article: die
+    plural: Einarbeitungen
+    en: onboarding; induction
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Personalchef
+    article: der
+    plural: Personalchefs
+    en: HR manager; head of HR (male)
+    pos: noun
+    tags: [career, person, concrete]
+    core: true
+  - de: Personalchefin
+    article: die
+    plural: Personalchefinnen
+    en: HR manager; head of HR (female)
+    pos: noun
+    tags: [career, person, concrete]
+    core: true
+
+  # ── Arbeitswelt-Verben — 8 verbs + 2 phrases ───────────────────────────────
+  - de: bewerben
+    article: null
+    plural: null
+    en: to apply for
+    pos: verb
+    tags: [verb, reflexive, prep-um, accusative]
+    core: true
+    example: "Ich bewerbe mich um die Stelle."
+  - de: einstellen
+    article: null
+    plural: null
+    en: to hire; to employ
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Bewerber werden eingestellt."
+  - de: kündigen
+    article: null
+    plural: null
+    en: to resign; to give notice; to dismiss
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: befördern
+    article: null
+    plural: null
+    en: to promote
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Mitarbeiter werden befördert."
+  - de: verhandeln
+    article: null
+    plural: null
+    en: to negotiate
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: koordinieren
+    article: null
+    plural: null
+    en: to coordinate
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Projekte werden koordiniert."
+  - de: leiten
+    article: null
+    plural: null
+    en: to lead; to manage
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: einarbeiten
+    article: null
+    plural: null
+    en: to onboard; to induct
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: Überstunden machen
+    article: null
+    plural: null
+    en: to do overtime
+    pos: phrase
+    tags: [career, phrase]
+    core: false
+  - de: eine Stelle antreten
+    article: null
+    plural: null
+    en: to start a job
+    pos: phrase
+    tags: [career, phrase]
+    core: false
