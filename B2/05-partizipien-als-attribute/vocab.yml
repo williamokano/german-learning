@@ -1,0 +1,159 @@
+# Reviewed from B2/05 lesson.md §4 Wortschatz.
+# Note: table 1 (Infinitiv | Partizip I | Partizip II) has NO English column at all —
+# it's a pure grammar-forms drill. All 8 verbs are basic, already-known lemmas
+# (lachen, kochen, ...); the NEW content this lesson adds is the participle forms,
+# noted in `example:`. Table 2 uses German paraphrase (Erklärung), not English —
+# hand-translated throughout.
+#
+# Section headers in lesson.md:
+#   Verb → Partizip I → Partizip II            — 8 verbs (both participle forms noted)
+#   Wortschatz für Sach- und Zeitungstexte      — 10 nouns (1 m/f pair: Künstler/-in)
+lesson: B2/05
+
+entries:
+  # ── Verb → Partizip I → Partizip II — 8 verbs ──────────────────────────────
+  - de: lachen
+    article: null
+    plural: null
+    en: to laugh
+    pos: verb
+    tags: [verb, participle]
+    core: true
+    example: "Partizip I: lachend · Partizip II: gelacht"
+  - de: kochen
+    article: null
+    plural: null
+    en: to cook
+    pos: verb
+    tags: [verb, participle]
+    core: true
+    example: "Partizip I: kochend · Partizip II: gekocht"
+  - de: gründen
+    article: null
+    plural: null
+    en: to found; to establish
+    pos: verb
+    tags: [verb, participle]
+    core: true
+    example: "Partizip I: gründend · Partizip II: gegründet"
+  - de: eröffnen
+    article: null
+    plural: null
+    en: to open (officially)
+    pos: verb
+    tags: [verb, participle]
+    core: true
+    example: "Partizip I: eröffnend · Partizip II: eröffnet"
+  - de: steigen
+    article: null
+    plural: null
+    en: to rise; to climb
+    pos: verb
+    tags: [verb, participle, strong]
+    core: true
+    example: "Partizip I: steigend · Partizip II: gestiegen"
+  - de: wachsen
+    article: null
+    plural: null
+    en: to grow
+    pos: verb
+    tags: [verb, participle, strong]
+    core: true
+    example: "Partizip I: wachsend · Partizip II: gewachsen"
+  - de: schlafen
+    article: null
+    plural: null
+    en: to sleep
+    pos: verb
+    tags: [verb, participle, strong]
+    core: true
+    example: "Partizip I: schlafend · Partizip II: geschlafen"
+  - de: entstehen
+    article: null
+    plural: null
+    en: to arise; to come into being
+    pos: verb
+    tags: [verb, participle, strong]
+    core: true
+    example: "Partizip I: entstehend · Partizip II: entstanden"
+
+  # ── Wortschatz für Sach- und Zeitungstexte — 10 nouns ──────────────────────
+  - de: Ausstellung
+    article: die
+    plural: Ausstellungen
+    en: exhibition
+    pos: noun
+    tags: [art, event, abstract]
+    core: true
+    example: "Die wachsende Nachfrage nach der Ausstellung."
+  - de: Werk
+    article: das
+    plural: Werke
+    en: work (of art, book)
+    pos: noun
+    tags: [art, concrete]
+    core: true
+  - de: Gemälde
+    article: das
+    plural: null
+    en: painting
+    pos: noun
+    tags: [art, concrete]
+    core: true
+  - de: Galerie
+    article: die
+    plural: Galerien
+    en: gallery
+    pos: noun
+    tags: [art, place, concrete]
+    core: true
+    example: "Die renovierte Galerie."
+  - de: Künstler
+    article: der
+    plural: Künstler
+    en: artist (male)
+    pos: noun
+    tags: [art, person, concrete]
+    core: true
+  - de: Künstlerin
+    article: die
+    plural: Künstlerinnen
+    en: artist (female)
+    pos: noun
+    tags: [art, person, concrete]
+    core: true
+  - de: Nachfrage
+    article: die
+    plural: Nachfragen
+    en: demand
+    pos: noun
+    tags: [business, market, abstract]
+    core: true
+  - de: Bericht
+    article: der
+    plural: Berichte
+    en: report (factual account)
+    pos: noun
+    tags: [media, document]
+    core: true
+  - de: Mitteilung
+    article: die
+    plural: Mitteilungen
+    en: official notice; announcement
+    pos: noun
+    tags: [media, document]
+    core: true
+  - de: Forschung
+    article: die
+    plural: Forschungen
+    en: research
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Entwicklung
+    article: die
+    plural: Entwicklungen
+    en: development; process of change
+    pos: noun
+    tags: [change, abstract]
+    core: true
