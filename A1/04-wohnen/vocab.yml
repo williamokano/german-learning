@@ -1,0 +1,493 @@
+# Reviewed from A1/04 lesson.md §4 Wortschatz. Bootstrapped with build/import-vocab.ts.
+#
+# Parser gap (consistent with A1/01, A1/03): the "Die Räume" table at §4.1 uses an
+# empty header (`| | | |`) rather than a `| der (m) | die (f) | das (n) |` header,
+# so the gender-table extractor skips it and only logs a warning. All 15 room
+# nouns below were added by hand. The Möbel table (§4.2) IS a gender table and the
+# parser captured it correctly, but it dropped umlaut plurals (–e → "Schranke"
+# instead of "Schränke") — every noun below carries a hand-verified plural.
+#
+# The parser also routed every bare-lowercase word (adjectives, colors) through
+# `pos: other` (needsReview: "confirm part of speech") and merged each opposite
+# pair into a single `pos: phrase` entry ("hell ↔ dunkel"). The hand pass splits
+# every pair into two `pos: adjective` entries and re-types the colors as
+# [color, adjective]. All `needsReview` flags and `reviewNote` hints are cleared.
+lesson: A1/04
+
+entries:
+  # ── Die Räume (rooms) ────────────────────────────────────────────────────
+  # 15 nouns from §4.1. Empty-header 3-column table — parser skipped, hand-written.
+  - de: Wohnung
+    article: die
+    plural: Wohnungen
+    en: flat (apartment)
+    pos: noun
+    tags: [room, concrete]
+    core: true
+    example: "Die Wohnung ist klein."
+  - de: Haus
+    article: das
+    plural: Häuser
+    en: house
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Zimmer
+    article: das
+    plural: Zimmer
+    en: room
+    pos: noun
+    tags: [room, concrete]
+    core: true
+    example: "Das Zimmer ist groß und hell."
+  - de: Wohnzimmer
+    article: das
+    plural: Wohnzimmer
+    en: living room
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Schlafzimmer
+    article: das
+    plural: Schlafzimmer
+    en: bedroom
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Kinderzimmer
+    article: das
+    plural: Kinderzimmer
+    en: children's room
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Küche
+    article: die
+    plural: Küchen
+    en: kitchen
+    pos: noun
+    tags: [room, concrete]
+    core: true
+    example: "Die Küche ist klein."
+  - de: Bad
+    article: das
+    plural: Bäder
+    en: bathroom
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Toilette
+    article: die
+    plural: Toiletten
+    en: toilet
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Flur
+    article: der
+    plural: Flure
+    en: hallway
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Balkon
+    article: der
+    plural: Balkone
+    en: balcony
+    pos: noun
+    tags: [room, concrete]
+    core: true
+    example: "Es gibt einen Balkon."
+  - de: Garten
+    article: der
+    plural: Gärten
+    en: garden
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Garage
+    article: die
+    plural: Garagen
+    en: garage
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Keller
+    article: der
+    plural: Keller
+    en: basement
+    pos: noun
+    tags: [room, concrete]
+    core: true
+    example: "Gibt es einen Keller?"
+  - de: Aufzug
+    article: der
+    plural: Aufzüge
+    en: elevator
+    pos: noun
+    tags: [room, concrete]
+    core: true
+
+  # ── Die Möbel (furniture) ─────────────────────────────────────────────────
+  # 16 nouns from §4.2. Parser captured most correctly but produced umlaut-less
+  # plurals for Schrank ("Schranke" → Schränke) and Kühlschrank ("Kühlschranke" →
+  # Kühlschränke); hand-corrected.
+  - de: Tisch
+    article: der
+    plural: Tische
+    en: table
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+    example: "Der Tisch ist groß."
+  - de: Lampe
+    article: die
+    plural: Lampen
+    en: lamp
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Sofa
+    article: das
+    plural: Sofas
+    en: sofa
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Stuhl
+    article: der
+    plural: Stühle
+    en: chair
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Tür
+    article: die
+    plural: Türen
+    en: door
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Bett
+    article: das
+    plural: Betten
+    en: bed
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+    example: "Das Bett ist bequem."
+  - de: Schrank
+    article: der
+    plural: Schränke
+    en: wardrobe
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Waschmaschine
+    article: die
+    plural: Waschmaschinen
+    en: washing machine
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Regal
+    article: das
+    plural: Regale
+    en: shelf
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Sessel
+    article: der
+    plural: Sessel
+    en: armchair
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Bild
+    article: das
+    plural: Bilder
+    en: picture
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Teppich
+    article: der
+    plural: Teppiche
+    en: carpet
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Fenster
+    article: das
+    plural: Fenster
+    en: window
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+    example: "Das Fenster ist groß."
+  - de: Fernseher
+    article: der
+    plural: Fernseher
+    en: TV (television)
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Kühlschrank
+    article: der
+    plural: Kühlschränke
+    en: fridge
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Herd
+    article: der
+    plural: Herde
+    en: stove
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+
+  # ── Adjektive (adjectives) ────────────────────────────────────────────────
+  # §4.3 lists 6 opposite pairs + 3 standalones. Parser merged each pair into one
+  # phrase entry ("hell ↔ dunkel") with pos: phrase; hand pass splits every pair
+  # into two pos: adjective entries. Bare predicative adjectives — no ending, no
+  # article, no plural. Tags: [adjective] only (not concrete — not picturable on
+  # their own).
+  - de: hell
+    article: null
+    plural: null
+    en: bright
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das Zimmer ist hell."
+  - de: dunkel
+    article: null
+    plural: null
+    en: dark
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: groß
+    article: null
+    plural: null
+    en: big
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: klein
+    article: null
+    plural: null
+    en: small
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: neu
+    article: null
+    plural: null
+    en: new
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: alt
+    article: null
+    plural: null
+    en: old
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: teuer
+    article: null
+    plural: null
+    en: expensive
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Die Miete ist zu teuer."
+  - de: billig
+    article: null
+    plural: null
+    en: cheap
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: schön
+    article: null
+    plural: null
+    en: beautiful (pretty)
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: hässlich
+    article: null
+    plural: null
+    en: ugly
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: laut
+    article: null
+    plural: null
+    en: loud
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: ruhig
+    article: null
+    plural: null
+    en: quiet
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: modern
+    article: null
+    plural: null
+    en: modern
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: gemütlich
+    article: null
+    plural: null
+    en: cozy
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: frei
+    article: null
+    plural: null
+    en: free (available)
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Die Wohnung ist frei."
+
+  # ── Die Farben (colors) ───────────────────────────────────────────────────
+  # §4.4 lists 10 colors. Adjectives in German (no article, no ending in
+  # predicative use). Tagged [color, adjective] — semantic category + pos tag,
+  # following the A1/03 pattern of [food, concrete] / [drink, concrete].
+  - de: rot
+    article: null
+    plural: null
+    en: red
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: blau
+    article: null
+    plural: null
+    en: blue
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: grün
+    article: null
+    plural: null
+    en: green
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: gelb
+    article: null
+    plural: null
+    en: yellow
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: orange
+    article: null
+    plural: null
+    en: orange
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: rosa
+    article: null
+    plural: null
+    en: pink
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: schwarz
+    article: null
+    plural: null
+    en: black
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: weiß
+    article: null
+    plural: null
+    en: white
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: grau
+    article: null
+    plural: null
+    en: grey
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: braun
+    article: null
+    plural: null
+    en: brown
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+
+  # ── Wohnungssuche (flat-hunting) ──────────────────────────────────────────
+  # §4.5 — 3 housing nouns + 2 verbs + 1 time noun. Parser mangled the Monat
+  # entry: "der Monat, -e — **im Monat** (per month)" became de:Monat, plural:null,
+  # en:"per month". Hand pass: de:Monat, plural:Monate, en:"month".
+  - de: Miete
+    article: die
+    plural: Mieten
+    en: rent
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+    example: "Die Miete ist 680 Euro."
+  - de: Quadratmeter
+    article: der
+    plural: Quadratmeter
+    en: square metre (m²)
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+  - de: Anzeige
+    article: die
+    plural: Anzeigen
+    en: advertisement (ad)
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+    example: "Er sieht viele Anzeigen."
+  - de: Monat
+    article: der
+    plural: Monate
+    en: month
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "680 Euro im Monat."
+
+  # ── Verben (verbs) ───────────────────────────────────────────────────────
+  - de: suchen
+    article: null
+    plural: null
+    en: to look for (to search)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Er sucht eine neue Wohnung."
+  - de: finden
+    article: null
+    plural: null
+    en: to find (to think of)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich finde die Wohnung schön."
