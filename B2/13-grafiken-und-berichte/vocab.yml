@@ -1,0 +1,297 @@
+# Reviewed from B2/13 lesson.md §4 Wortschatz.
+# Note: both tables use German paraphrase (Bedeutung/Erklärung), not English
+# glosses — every gloss below is a hand-written English translation.
+#
+# Section headers in lesson.md:
+#   Datenverben (Tendenz und Wert)     — 10 data-trend verbs
+#   Nomen — Grafik und Statistik       — 29 nouns
+lesson: B2/13
+
+entries:
+  # ── Datenverben (Tendenz und Wert) — 10 verbs ──────────────────────────────
+  - de: steigen
+    article: null
+    plural: null
+    en: to rise; to go up
+    pos: verb
+    tags: [verb, data-trend, strong]
+    core: true
+    example: "Die Nutzung steigt seit 2020."
+  - de: sinken
+    article: null
+    plural: null
+    en: to fall; to go down
+    pos: verb
+    tags: [verb, data-trend, strong]
+    core: true
+    example: "Der Anteil sinkt leicht."
+  - de: zunehmen
+    article: null
+    plural: null
+    en: to increase; to grow
+    pos: verb
+    tags: [verb, data-trend, separable, strong]
+    core: true
+    example: "Die Bedeutung nimmt zu."
+  - de: abnehmen
+    article: null
+    plural: null
+    en: to decrease; to decline
+    pos: verb
+    tags: [verb, data-trend, separable, strong]
+    core: true
+    example: "Die Zahl nimmt ab."
+  - de: stagnieren
+    article: null
+    plural: null
+    en: to stagnate; to remain flat
+    pos: verb
+    tags: [verb, data-trend]
+    core: true
+    example: "Die Kurve stagniert seit zwei Jahren."
+  - de: verdoppeln
+    article: null
+    plural: null
+    en: to double
+    pos: verb
+    tags: [verb, data-trend, reflexive]
+    core: true
+    example: "Die Nutzung hat sich verdoppelt. (× 2)"
+  - de: halbieren
+    article: null
+    plural: null
+    en: to halve
+    pos: verb
+    tags: [verb, data-trend, reflexive]
+    core: true
+    example: "Der Wert hat sich halbiert. (÷ 2)"
+  - de: betragen
+    article: null
+    plural: null
+    en: to amount to; to total
+    pos: verb
+    tags: [verb, data-trend, strong]
+    core: true
+    example: "Der Anteil beträgt 32 Prozent."
+  - de: ausmachen
+    article: null
+    plural: null
+    en: to constitute; to make up (a share)
+    pos: verb
+    tags: [verb, data-trend, separable]
+    core: true
+    example: "Der Anteil macht 32 Prozent aus."
+  - de: liegen bei
+    article: null
+    plural: null
+    en: to be around; to be approximately
+    pos: phrase
+    tags: [data-trend, phrase]
+    core: true
+    example: "Die Werte liegen bei rund 12 Prozent."
+
+  # ── Nomen — Grafik und Statistik — 29 nouns ────────────────────────────────
+  - de: Grafik
+    article: die
+    plural: Grafiken
+    en: graphic; chart
+    pos: noun
+    tags: [statistics, document]
+    core: true
+  - de: Diagramm
+    article: das
+    plural: Diagramme
+    en: diagram; chart
+    pos: noun
+    tags: [statistics, document]
+    core: true
+    example: "Linien-, Balken-, Kreisdiagramm"
+  - de: Schaubild
+    article: das
+    plural: Schaubilder
+    en: illustrative diagram; chart
+    pos: noun
+    tags: [statistics, document]
+    core: true
+  - de: Tabelle
+    article: die
+    plural: Tabellen
+    en: table
+    pos: noun
+    tags: [statistics, document]
+    core: true
+  - de: Statistik
+    article: die
+    plural: Statistiken
+    en: statistics
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Kurve
+    article: die
+    plural: Kurven
+    en: curve (in a line chart)
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Achse
+    article: die
+    plural: Achsen
+    en: axis
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Skala
+    article: die
+    plural: Skalen
+    en: scale
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Beschriftung
+    article: die
+    plural: Beschriftungen
+    en: labeling
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Legende
+    article: die
+    plural: Legenden
+    en: legend; key
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Wert
+    article: der
+    plural: Werte
+    en: value
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Daten
+    article: die
+    plural: null
+    en: data
+    pos: noun
+    tags: [statistics, plural-tantum]
+    core: true
+  - de: Ergebnis
+    article: das
+    plural: Ergebnisse
+    en: result
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Quelle
+    article: die
+    plural: Quellen
+    en: source
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Zeitraum
+    article: der
+    plural: Zeiträume
+    en: period; timeframe
+    pos: noun
+    tags: [statistics, time, abstract]
+    core: true
+  - de: Aussage
+    article: die
+    plural: Aussagen
+    en: statement
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Vergleich
+    article: der
+    plural: Vergleiche
+    en: comparison
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Entwicklung
+    article: die
+    plural: Entwicklungen
+    en: development; trend over time
+    pos: noun
+    tags: [statistics, change, abstract]
+    core: true
+  - de: Anstieg
+    article: der
+    plural: Anstiege
+    en: increase; rise
+    pos: noun
+    tags: [statistics, change, abstract]
+    core: true
+  - de: Rückgang
+    article: der
+    plural: Rückgänge
+    en: decrease; decline
+    pos: noun
+    tags: [statistics, change, abstract]
+    core: true
+  - de: Zunahme
+    article: die
+    plural: Zunahmen
+    en: increase
+    pos: noun
+    tags: [statistics, change, abstract]
+    core: true
+  - de: Abnahme
+    article: die
+    plural: Abnahmen
+    en: decrease
+    pos: noun
+    tags: [statistics, change, abstract]
+    core: true
+  - de: Höchststand
+    article: der
+    plural: Höchststände
+    en: peak; maximum
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Tiefststand
+    article: der
+    plural: Tiefststände
+    en: low point; minimum
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Durchschnitt
+    article: der
+    plural: Durchschnitte
+    en: average
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Anteil
+    article: der
+    plural: Anteile
+    en: share; percentage
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Tendenz
+    article: die
+    plural: Tendenzen
+    en: tendency; basic direction
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Trend
+    article: der
+    plural: Trends
+    en: trend
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Wachstum
+    article: das
+    plural: null
+    en: growth
+    pos: noun
+    tags: [statistics, change, abstract]
+    core: true
