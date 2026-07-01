@@ -1,0 +1,200 @@
+# Reviewed from B2/01 lesson.md §4 Wortschatz.
+# Note: V3's new noun-verb-pair table kind correctly extracted BOTH members of
+# every Verb→Nomen row (previously only the verb survived, noun silently
+# dropped). No English column exists in this table — every gloss below was
+# written by hand from the lesson's own Lerntipp context. The second table
+# (Nomen | Deutsch / Erklärung) has German paraphrase text, not English — V3's
+# 2-col fallback used it verbatim as `en`, which is not wrong content but not
+# an English gloss either; replaced with real English translations.
+#
+# Section headers in lesson.md:
+#   Nominalisierungen aus typischen Verben (verb → noun pairs)  — 8 pairs (16 entries)
+#   Behörden- und Verwaltungssprache (administration vocab)     — 9 nouns
+lesson: B2/01
+
+entries:
+  # ── Nominalisierungen aus typischen Verben — 8 verb→noun pairs ────────────
+  - de: prüfen
+    article: null
+    plural: null
+    en: to check; to examine
+    pos: verb
+    tags: [verb, nominalization]
+    core: true
+  - de: Prüfung
+    article: die
+    plural: Prüfungen
+    en: check; examination
+    pos: noun
+    tags: [noun, nominalization, abstract]
+    core: true
+    example: "Die Prüfung des Antrags dauert zwei Wochen."
+  - de: verbessern
+    article: null
+    plural: null
+    en: to improve
+    pos: verb
+    tags: [verb, nominalization]
+    core: true
+  - de: Verbesserung
+    article: die
+    plural: Verbesserungen
+    en: improvement
+    pos: noun
+    tags: [noun, nominalization, abstract]
+    core: true
+  - de: entscheiden
+    article: null
+    plural: null
+    en: to decide
+    pos: verb
+    tags: [verb, nominalization, strong]
+    core: true
+  - de: Entscheidung
+    article: die
+    plural: Entscheidungen
+    en: decision
+    pos: noun
+    tags: [noun, nominalization, abstract]
+    core: true
+  - de: beantragen
+    article: null
+    plural: null
+    en: to apply for (formally)
+    pos: verb
+    tags: [verb, nominalization]
+    core: true
+    example: "Ich beantrage eine Genehmigung."
+  - de: Antrag
+    article: der
+    plural: Anträge
+    en: application; request
+    pos: noun
+    tags: [noun, nominalization, document, abstract]
+    core: true
+  - de: ablehnen
+    article: null
+    plural: null
+    en: to reject; to decline
+    pos: verb
+    tags: [verb, nominalization, separable]
+    core: true
+  - de: Ablehnung
+    article: die
+    plural: Ablehnungen
+    en: rejection
+    pos: noun
+    tags: [noun, nominalization, abstract]
+    core: true
+  - de: genehmigen
+    article: null
+    plural: null
+    en: to approve; to authorize
+    pos: verb
+    tags: [verb, nominalization]
+    core: true
+  - de: Genehmigung
+    article: die
+    plural: Genehmigungen
+    en: approval; authorization
+    pos: noun
+    tags: [noun, nominalization, document, abstract]
+    core: true
+  - de: anmelden
+    article: null
+    plural: null
+    en: to register
+    pos: verb
+    tags: [verb, nominalization, separable, reflexive]
+    core: true
+    example: "Ich melde mich beim Bürgeramt an."
+  - de: Anmeldung
+    article: die
+    plural: Anmeldungen
+    en: registration
+    pos: noun
+    tags: [noun, nominalization, abstract]
+    core: true
+  - de: lesen
+    article: null
+    plural: null
+    en: to read
+    pos: verb
+    tags: [verb, nominalization, strong]
+    core: true
+  - de: Lesen
+    article: das
+    plural: null
+    en: reading
+    pos: noun
+    tags: [noun, nominalization, abstract]
+    core: true
+    example: "Das Lesen fällt mir leicht."
+
+  # ── Behörden- und Verwaltungssprache — 9 nouns ─────────────────────────────
+  - de: Behörde
+    article: die
+    plural: Behörden
+    en: (public) authority; office
+    pos: noun
+    tags: [administration, place, concrete]
+    core: true
+    example: "Das Bürgeramt ist eine Behörde."
+  - de: Unterlage
+    article: die
+    plural: Unterlagen
+    en: document (to be submitted)
+    pos: noun
+    tags: [administration, document]
+    core: true
+  - de: Bescheid
+    article: der
+    plural: Bescheide
+    en: official notice; decision
+    pos: noun
+    tags: [administration, document]
+    core: true
+    example: "Ich warte auf den Bescheid."
+  - de: Frist
+    article: die
+    plural: Fristen
+    en: deadline
+    pos: noun
+    tags: [administration, abstract]
+    core: true
+    example: "Die Frist läuft nächste Woche ab."
+  - de: Verfahren
+    article: das
+    plural: null
+    en: procedure; process
+    pos: noun
+    tags: [administration, abstract]
+    core: true
+  - de: Nachfrage
+    article: die
+    plural: Nachfragen
+    en: demand; inquiry
+    pos: noun
+    tags: [administration, abstract]
+    core: true
+  - de: Einhaltung
+    article: die
+    plural: null
+    en: compliance; observance (of a deadline/rule)
+    pos: noun
+    tags: [administration, abstract]
+    core: true
+  - de: Vorlage
+    article: die
+    plural: Vorlagen
+    en: submission (of a document); template
+    pos: noun
+    tags: [administration, document]
+    core: true
+  - de: Maßnahme
+    article: die
+    plural: Maßnahmen
+    en: measure; action
+    pos: noun
+    tags: [administration, abstract]
+    core: true
