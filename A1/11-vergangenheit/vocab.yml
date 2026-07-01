@@ -1,0 +1,418 @@
+# Reviewed from A1/11 lesson.md §4 Wortschatz.
+# The parser captured only the 15-row Nomen table ("der/die/das" header) and
+# dropped every other §4 sub-table because none of them advertises a der/die/das
+# header — the parser classifies them as "non-gender tables" and skips them.
+# Manually added below: 11 Freizeitaktivitäten verbs, 7 Verben-mit-sein verbs,
+# 11 Zeitausdrücke (adverbs + prepositional phrases), and 8 Adjektive. The
+# 15 nouns were taken from the parser draft after filling `en` and resolving
+# tags. Tag taxonomy mirrors the A1/03 pilot + A1/01/A1/02 reviewed vocab
+# (issue #337). One entry per lemma: Partizip-II forms (gekauft, gekommen…)
+# are properties of the verb form, NOT separate vocab entries — glossed as
+# infinitives ("to play", "to come") per the lesson's English column.
+#
+# Section headers in lesson.md:
+#   Freizeitaktivitäten (leisure activities)       — 11 verbs (haben-Perfekt)
+#   Verben mit `sein` (motion & change of state)   — 7 verbs (sein-Perfekt)
+#   Nomen zum Thema Freizeit und Urlaub            — 15 nouns
+#   Zeitausdrücke (time expressions)               — 11 adverbs/phrases
+#   Adjektive zur Beschreibung                     — 8 adjective stems
+lesson: A1/11
+
+entries:
+  # ── Freizeitaktivitäten (leisure verbs, haben-Perfekt) ────────────────────
+  # Glossed as infinitives from the lesson's English column. The Partizip II
+  # (gespielt, gemacht, geschlafen, gekauft, gekocht, gelernt, gearbeitet,
+  # besucht, gehört, getanzt, fotografiert) is shown alongside the infinitive
+  # in the lesson but never gets its own vocab entry.
+  - de: spielen
+    article: null
+    plural: null
+    en: to play
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir haben Fußball gespielt."
+  - de: machen
+    article: null
+    plural: null
+    en: to do; to make
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: schlafen
+    article: null
+    plural: null
+    en: to sleep
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: kaufen
+    article: null
+    plural: null
+    en: to buy
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: kochen
+    article: null
+    plural: null
+    en: to cook
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: lernen
+    article: null
+    plural: null
+    en: to learn; to study
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: arbeiten
+    article: null
+    plural: null
+    en: to work
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: besuchen
+    article: null
+    plural: null
+    en: to visit
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: hören
+    article: null
+    plural: null
+    en: to listen to
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: tanzen
+    article: null
+    plural: null
+    en: to dance
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: fotografieren
+    article: null
+    plural: null
+    en: to take photos
+    pos: verb
+    tags: [verb]
+    core: true
+
+  # ── Verben mit `sein` (motion & change-of-state verbs) ────────────────────
+  # All strong verbs with vowel-gradation in the past. Glossed as infinitives
+  # from the lesson's English column. Tag `[motion]` flags the semantic class
+  # (Bewegung von A nach B / Zustandsveränderung) that triggers sein-Perfekt.
+  - de: gehen
+    article: null
+    plural: null
+    en: to go
+    pos: verb
+    tags: [verb, motion]
+    core: true
+    example: "Wir sind ins Kino gegangen."
+  - de: fahren
+    article: null
+    plural: null
+    en: to drive; to travel
+    pos: verb
+    tags: [verb, motion]
+    core: true
+    example: "Ich bin nach Berlin gefahren."
+  - de: kommen
+    article: null
+    plural: null
+    en: to come
+    pos: verb
+    tags: [verb, motion]
+    core: true
+  - de: laufen
+    article: null
+    plural: null
+    en: to run; to walk
+    pos: verb
+    tags: [verb, motion]
+    core: true
+  - de: bleiben
+    article: null
+    plural: null
+    en: to stay
+    pos: verb
+    tags: [verb, motion]
+    core: true
+  - de: schwimmen
+    article: null
+    plural: null
+    en: to swim
+    pos: verb
+    tags: [verb, motion]
+    core: true
+  - de: aufstehen
+    article: null
+    plural: null
+    en: to get up
+    pos: verb
+    tags: [verb, motion]
+    core: true
+
+  # ── Nomen zum Thema Freizeit und Urlaub (from parser, now glossed) ───────
+  # `Museum` plural is "Museen" (lesson cell: "das Museum, Museen" — direct
+  # plural, not a suffix code, so the parser couldn't infer it). `Natur` is
+  # plural-only ("no pl." → plural: null).
+  - de: Urlaub
+    article: der
+    plural: Urlaube
+    en: vacation; holiday
+    pos: noun
+    tags: [leisure, concrete]
+    core: true
+    example: "Im Urlaub war ich am Strand."
+  - de: Reise
+    article: die
+    plural: Reisen
+    en: trip; journey
+    pos: noun
+    tags: [leisure, concrete]
+    core: true
+  - de: Wochenende
+    article: das
+    plural: Wochenenden
+    en: weekend
+    pos: noun
+    tags: [time, concrete]
+    core: true
+  - de: Film
+    article: der
+    plural: Filme
+    en: film; movie
+    pos: noun
+    tags: [leisure, concrete]
+    core: true
+  - de: Party
+    article: die
+    plural: Partys
+    en: party
+    pos: noun
+    tags: [leisure, concrete]
+    core: true
+  - de: Konzert
+    article: das
+    plural: Konzerte
+    en: concert
+    pos: noun
+    tags: [leisure, concrete]
+    core: true
+  - de: Strand
+    article: der
+    plural: Strände
+    en: beach
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Stadt
+    article: die
+    plural: Städte
+    en: city
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Museum
+    article: das
+    plural: Museen
+    en: museum
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Park
+    article: der
+    plural: Parks
+    en: park
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Natur
+    article: die
+    plural: null
+    en: nature
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Kino
+    article: das
+    plural: Kinos
+    en: cinema
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Berg
+    article: der
+    plural: Berge
+    en: mountain
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Ausstellung
+    article: die
+    plural: Ausstellungen
+    en: exhibition
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Restaurant
+    article: das
+    plural: Restaurants
+    en: restaurant
+    pos: noun
+    tags: [place, concrete]
+    core: true
+
+  # ── Zeitausdrücke (time expressions) ──────────────────────────────────────
+  # Single-word temporal adverbs → pos: adverb. Prepositional / multi-word
+  # anchors (am/im + day/place, letzte + week) → pos: phrase. The lesson
+  # presents "dann / danach" as an alternative pair (one entry, both forms
+  # in `de` and both glosses in `en`).
+  - de: gestern
+    article: null
+    plural: null
+    en: yesterday
+    pos: adverb
+    tags: [time]
+    core: true
+    example: "Gestern bin ich ins Kino gegangen."
+  - de: vorgestern
+    article: null
+    plural: null
+    en: the day before yesterday
+    pos: adverb
+    tags: [time]
+    core: true
+  - de: am Wochenende
+    article: null
+    plural: null
+    en: at the weekend
+    pos: phrase
+    tags: [time]
+    core: true
+  - de: am Samstag / Sonntag
+    article: null
+    plural: null
+    en: on Saturday / Sunday
+    pos: phrase
+    tags: [time]
+    core: true
+  - de: letzten Montag
+    article: null
+    plural: null
+    en: last Monday
+    pos: phrase
+    tags: [time]
+    core: true
+  - de: letzte Woche
+    article: null
+    plural: null
+    en: last week
+    pos: phrase
+    tags: [time]
+    core: true
+  - de: im Urlaub
+    article: null
+    plural: null
+    en: on holiday
+    pos: phrase
+    tags: [time]
+    core: true
+  - de: zuerst
+    article: null
+    plural: null
+    en: first (of all)
+    pos: adverb
+    tags: [time]
+    core: true
+  - de: dann / danach
+    article: null
+    plural: null
+    en: then; after that
+    pos: adverb
+    tags: [time]
+    core: true
+  - de: schließlich
+    article: null
+    plural: null
+    en: finally; in the end
+    pos: adverb
+    tags: [time]
+    core: true
+  - de: erst um Mitternacht
+    article: null
+    plural: null
+    en: not until midnight
+    pos: phrase
+    tags: [time]
+    core: true
+
+  # ── Adjektive zur Beschreibung (predicative adjectives) ──────────────────
+  # Predicative stems used after sein / fand ich … — no article, no plural.
+  # Lesson presents wunderbar/herrlich and toll/super as alternative pairs;
+  # split into separate entries (different lemmas, same meaning).
+  - de: müde
+    article: null
+    plural: null
+    en: tired
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Ich bin müde."
+  - de: anstrengend
+    article: null
+    plural: null
+    en: exhausting; tiring
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: langweilig
+    article: null
+    plural: null
+    en: boring
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: wunderbar
+    article: null
+    plural: null
+    en: wonderful
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: herrlich
+    article: null
+    plural: null
+    en: magnificent; glorious
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: toll
+    article: null
+    plural: null
+    en: great; fantastic
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: super
+    article: null
+    plural: null
+    en: great (informal)
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: schön
+    article: null
+    plural: null
+    en: nice; beautiful
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das war schön!"
