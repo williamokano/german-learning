@@ -1,0 +1,439 @@
+# Reviewed from A2/06 lesson.md §4 Wortschatz and §6.1 verb+preposition chunks.
+# Note: the V2-parser draft had 45 entries — 3 of those were parser garbage
+# (the separable-verb footnote ⚠️ text and a stray example sentence got
+# emitted as `pos: phrase` entries). All three were dropped here.
+#
+# Tags:
+#   - [phone], [email] for communication channels
+#   - [media, concrete] for tangible media devices & content
+#   - [media] for abstract media concepts (no concrete item to picture)
+#   - [verb] for the 13 standalone Verben in §4
+#   - [verb-prep] for the 10 verb+fixed-preposition chunks in §6.1
+#     (`core: false` so they don't double-count the headword)
+#
+# §4 lists "Nachricht" twice (once in Kommunikationsmittel as "message; news
+# (item)", once in Medien as "news item; message") — same lemma, kept once.
+lesson: A2/06
+
+entries:
+  # ── Kommunikationsmittel (means of communication) ──────────────────────────
+  - de: Smartphone
+    article: das
+    plural: Smartphones
+    en: smartphone
+    pos: noun
+    tags: [phone, concrete]
+    core: true
+    example: "Mein neues Smartphone hat eine gute Kamera."
+  - de: Handy
+    article: das
+    plural: Handys
+    en: mobile phone, cell phone
+    pos: noun
+    tags: [phone, concrete]
+    core: true
+    example: "Hast du mein Handy gesehen?"
+  - de: Telefon
+    article: das
+    plural: Telefone
+    en: telephone
+    pos: noun
+    tags: [phone, concrete]
+    core: true
+    example: "Geh bitte ans Telefon."
+  - de: Nachricht
+    article: die
+    plural: Nachrichten
+    en: message; news (item)
+    pos: noun
+    tags: [media, concrete]
+    core: true
+    example: "Ich schicke dir eine Nachricht."
+  - de: SMS
+    article: die
+    plural: SMS
+    en: text message
+    pos: noun
+    tags: [phone, concrete]
+    core: true
+    example: "Schick mir eine SMS."
+  - de: E-Mail
+    article: die
+    plural: E-Mails
+    en: email
+    pos: noun
+    tags: [email]
+    core: true
+    example: "Ich schicke Ihnen eine E-Mail."
+  - de: Anruf
+    article: der
+    plural: Anrufe
+    en: phone call
+    pos: noun
+    tags: [phone]
+    core: true
+    example: "Ich erwarte einen Anruf."
+  - de: Videoanruf
+    article: der
+    plural: Videoanrufe
+    en: video call
+    pos: noun
+    tags: [phone, concrete]
+    core: true
+    example: "Wir machen heute einen Videoanruf."
+  - de: Verbindung
+    article: die
+    plural: Verbindungen
+    en: connection
+    pos: noun
+    tags: [phone]
+    core: true
+    example: "Die Internetverbindung ist heute langsam."
+  - de: Internet
+    article: das
+    plural: null
+    en: internet
+    pos: noun
+    tags: [media]
+    core: true
+    example: "Im Internet finde ich alles."
+  - de: WLAN
+    article: das
+    plural: null
+    en: Wi-Fi
+    pos: noun
+    tags: [media]
+    core: true
+    example: "Das WLAN im Café ist kostenlos."
+  - de: App
+    article: die
+    plural: Apps
+    en: app
+    pos: noun
+    tags: [media]
+    core: true
+    example: "Diese App ist sehr nützlich."
+  - de: Chat
+    article: der
+    plural: Chats
+    en: chat
+    pos: noun
+    tags: [media, concrete]
+    core: true
+    example: "Wir schreiben im Gruppenchat."
+  - de: Passwort
+    article: das
+    plural: Passwörter
+    en: password
+    pos: noun
+    tags: [digital, concrete]
+    core: true
+    example: "Vergiss nicht dein Passwort!"
+  - de: Plattform
+    article: die
+    plural: Plattformen
+    en: platform
+    pos: noun
+    tags: [digital]
+    core: true
+    example: "Die Plattform hat viele Nutzer."
+
+  # ── Medien (media) ────────────────────────────────────────────────────────
+  - de: Fernsehen
+    article: das
+    plural: null
+    en: television
+    pos: noun
+    tags: [media]
+    core: true
+    example: "Ich schaue abends gern Fernsehen."
+  - de: Fernseher
+    article: der
+    plural: Fernseher
+    en: TV set
+    pos: noun
+    tags: [media, concrete]
+    core: true
+    example: "Der Fernseher steht im Wohnzimmer."
+  - de: Serie
+    article: die
+    plural: Serien
+    en: series, TV show
+    pos: noun
+    tags: [media]
+    core: true
+    example: "Diese Serie ist spannend."
+  - de: Folge
+    article: die
+    plural: Folgen
+    en: episode
+    pos: noun
+    tags: [media]
+    core: true
+    example: "Die letzte Folge war sehr gut."
+  - de: Film
+    article: der
+    plural: Filme
+    en: film, movie
+    pos: noun
+    tags: [media, concrete]
+    core: true
+    example: "Wir schauen heute einen Film."
+  - de: Streaming
+    article: das
+    plural: null
+    en: streaming
+    pos: noun
+    tags: [media]
+    core: true
+    example: "Streaming ist heute sehr beliebt."
+  - de: Podcast
+    article: der
+    plural: Podcasts
+    en: podcast
+    pos: noun
+    tags: [media, concrete]
+    core: true
+    example: "Hörst du diesen Podcast?"
+  - de: Radio
+    article: das
+    plural: Radios
+    en: radio
+    pos: noun
+    tags: [media, concrete]
+    core: true
+    example: "Im Radio läuft gerade Musik."
+  - de: Zeitung
+    article: die
+    plural: Zeitungen
+    en: newspaper
+    pos: noun
+    tags: [media, concrete]
+    core: true
+    example: "Ich lese die Zeitung am Morgen."
+  - de: Zeitschrift
+    article: die
+    plural: Zeitschriften
+    en: magazine
+    pos: noun
+    tags: [media, concrete]
+    core: true
+    example: "Diese Zeitschrift ist monatlich."
+  - de: Sendung
+    article: die
+    plural: Sendungen
+    en: programme, broadcast
+    pos: noun
+    tags: [media]
+    core: true
+    example: "Die Sendung beginnt um acht."
+  - de: Werbung
+    article: die
+    plural: Werbungen
+    en: advertising, commercial
+    pos: noun
+    tags: [media]
+    core: true
+    example: "Die Werbung ist zu laut."
+  - de: Empfehlung
+    article: die
+    plural: Empfehlungen
+    en: recommendation
+    pos: noun
+    tags: [media]
+    core: true
+    example: "Hast du eine Empfehlung für mich?"
+
+  # ── Verben für Kommunikation und Medien ───────────────────────────────────
+  # ⚠️ separable/inseparable notes from §4 are dropped (lemma convention);
+  # see A1/13 for the same treatment of anrufen / herunterladen.
+  - de: anrufen
+    article: null
+    plural: null
+    en: to call (phone)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich rufe dich heute Abend an."
+  - de: auflegen
+    article: null
+    plural: null
+    en: to hang up
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Er legt nach zehn Minuten auf."
+  - de: schicken
+    article: null
+    plural: null
+    en: to send
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich schicke dir ein Foto."
+  - de: tippen
+    article: null
+    plural: null
+    en: to type
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Sie tippt eine Nachricht."
+  - de: chatten
+    article: null
+    plural: null
+    en: to chat (online)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir chatten jeden Tag."
+  - de: streamen
+    article: null
+    plural: null
+    en: to stream
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich streame gerne Filme."
+  - de: herunterladen
+    article: null
+    plural: null
+    en: to download
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Lade die App herunter."
+  - de: hochladen
+    article: null
+    plural: null
+    en: to upload
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Sie lädt das Video hoch."
+  - de: abonnieren
+    article: null
+    plural: null
+    en: to subscribe
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich abonniere den Kanal."
+  - de: kommentieren
+    article: null
+    plural: null
+    en: to comment
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Er kommentiert den Beitrag."
+  - de: teilen
+    article: null
+    plural: null
+    en: to share
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Teile den Artikel mit deinen Freunden."
+  - de: liken
+    article: null
+    plural: null
+    en: to like (a post)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Sie liked das Foto."
+  - de: empfehlen
+    article: null
+    plural: null
+    en: to recommend
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich empfehle diese Serie."
+
+  # ── Verben mit festen Präpositionen (§6.1) ─────────────────────────────────
+  # Chunks: verb + preposition. Listed as `pos: phrase` with `core: false`
+  # so they don't double-count the headwords above (parallels quantity
+  # collocations in A1/03). The `tags: [verb-prep]` flag lets drills key on
+  # the right subset.
+  - de: warten auf
+    article: null
+    plural: null
+    en: to wait for (Akk)
+    pos: phrase
+    tags: [verb-prep]
+    core: false
+    example: "Ich warte auf deine Nachricht."
+  - de: sich freuen über
+    article: null
+    plural: null
+    en: to be glad about (Akk) — present joy
+    pos: phrase
+    tags: [verb-prep]
+    core: false
+    example: "Ich freue mich über dein Geschenk."
+  - de: sich freuen auf
+    article: null
+    plural: null
+    en: to look forward to (Akk) — anticipation
+    pos: phrase
+    tags: [verb-prep]
+    core: false
+    example: "Wir freuen uns auf das Wochenende."
+  - de: denken an
+    article: null
+    plural: null
+    en: to think about / of (Akk)
+    pos: phrase
+    tags: [verb-prep]
+    core: false
+    example: "Bruno denkt oft an seine Familie."
+  - de: sprechen über
+    article: null
+    plural: null
+    en: to talk about (Akk)
+    pos: phrase
+    tags: [verb-prep]
+    core: false
+    example: "Wir sprechen über das neue Projekt."
+  - de: fragen nach
+    article: null
+    plural: null
+    en: to ask about (Dat)
+    pos: phrase
+    tags: [verb-prep]
+    core: false
+    example: "Sie fragt nach dem Termin."
+  - de: antworten auf
+    article: null
+    plural: null
+    en: to reply to (Akk)
+    pos: phrase
+    tags: [verb-prep]
+    core: false
+    example: "Herr Steinmeyer antwortet auf die E-Mail."
+  - de: sich interessieren für
+    article: null
+    plural: null
+    en: to be interested in (Akk)
+    pos: phrase
+    tags: [verb-prep]
+    core: false
+    example: "Anna interessiert sich für deutsche Serien."
+  - de: sich ärgern über
+    article: null
+    plural: null
+    en: to be annoyed about (Akk)
+    pos: phrase
+    tags: [verb-prep]
+    core: false
+    example: "Ich ärgere mich über das langsame WLAN."
+  - de: schreiben an
+    article: null
+    plural: null
+    en: to write to (Akk) — a person
+    pos: phrase
+    tags: [verb-prep]
+    core: false
+    example: "Ich schreibe an meine Schwester."
