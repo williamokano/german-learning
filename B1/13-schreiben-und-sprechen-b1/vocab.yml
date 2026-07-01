@@ -1,0 +1,212 @@
+# Reviewed from B1/13 lesson.md §4 Wortschatz.
+# Note: V2 parser captured most of the two noun tables. `Bezugssatz`/`Forenbeitrag`/
+# `Großstadt` lost their plurals — the lesson spells the plural as a full second word
+# after the comma (`die Großstadt, die Großstädte`) rather than a suffix code, same
+# gap as B1/11's Lebenslauf. `Anliegen` false-umlauted. The "Konnektoren für Schreiben
+# und Sprechen" table (3-col: Konnektor | Funktion | Beispiel) was dropped entirely —
+# no der/die/das header, no noun-english/verb-english match. All 8 connectors added
+# by hand as `pos: conjunction`/`pos: phrase`; 2 marked `core: false` since the
+# lesson explicitly cross-references them as review from B1/10.
+#
+# Section headers in lesson.md:
+#   Schreiben — wichtige Begriffe (formal email structure)  — 10 nouns
+#   Konnektoren für Schreiben und Sprechen                  — 8 connectors
+#   Sprechen — Themenbereich Großstädte                     — 8 nouns
+lesson: B1/13
+
+entries:
+  # ── Schreiben — wichtige Begriffe — 10 nouns ───────────────────────────────
+  - de: Betreff
+    article: der
+    plural: Betreffe
+    en: subject line
+    pos: noun
+    tags: [writing, document]
+    core: true
+  - de: Anrede
+    article: die
+    plural: Anreden
+    en: salutation; greeting
+    pos: noun
+    tags: [writing, document]
+    core: true
+  - de: Bezugssatz
+    article: der
+    plural: Bezugssätze
+    en: opening reference sentence
+    pos: noun
+    tags: [writing, document]
+    core: true
+  - de: Grußformel
+    article: die
+    plural: Grußformeln
+    en: closing formula
+    pos: noun
+    tags: [writing, document]
+    core: true
+  - de: Anliegen
+    article: das
+    plural: null
+    en: concern; matter; request
+    pos: noun
+    tags: [writing, abstract]
+    core: true
+  - de: Beschwerde
+    article: die
+    plural: Beschwerden
+    en: complaint
+    pos: noun
+    tags: [writing, document]
+    core: true
+  - de: Anfrage
+    article: die
+    plural: Anfragen
+    en: enquiry
+    pos: noun
+    tags: [writing, document]
+    core: true
+  - de: Register
+    article: das
+    plural: null
+    en: register (formal/informal style)
+    pos: noun
+    tags: [writing, abstract]
+    core: true
+  - de: Formulierung
+    article: die
+    plural: Formulierungen
+    en: phrasing; wording
+    pos: noun
+    tags: [writing, abstract]
+    core: true
+  - de: Forenbeitrag
+    article: der
+    plural: Forenbeiträge
+    en: forum post
+    pos: noun
+    tags: [writing, document]
+    core: true
+
+  # ── Konnektoren für Schreiben und Sprechen — 8 connectors ──────────────────
+  - de: zum einen … zum anderen
+    article: null
+    plural: null
+    en: on the one hand … on the other hand
+    pos: phrase
+    tags: [connector, argument]
+    core: true
+    example: "Zum einen ist es praktisch, zum anderen ist es teuer."
+  - de: einerseits … andererseits
+    article: null
+    plural: null
+    en: on the one hand … on the other hand
+    pos: phrase
+    tags: [connector, argument]
+    core: true
+    example: "Einerseits bietet die Stadt Jobs, andererseits sind die Mieten hoch."
+  - de: außerdem
+    article: null
+    plural: null
+    en: furthermore; besides
+    pos: conjunction
+    tags: [connector, addition]
+    core: true
+    example: "Außerdem gibt es viele Kulturangebote."
+  - de: allerdings
+    article: null
+    plural: null
+    en: however; though
+    pos: conjunction
+    tags: [connector, concession]
+    core: true
+    example: "Allerdings ist der Lärm ein Problem."
+  - de: insgesamt
+    article: null
+    plural: null
+    en: overall; in summary
+    pos: adverb
+    tags: [connector, summary]
+    core: true
+    example: "Insgesamt denke ich, dass …"
+  - de: abschließend
+    article: null
+    plural: null
+    en: in conclusion
+    pos: adverb
+    tags: [connector, summary]
+    core: true
+    example: "Abschließend möchte ich sagen, dass …"
+  - de: zwar … aber
+    article: null
+    plural: null
+    en: admittedly … but
+    pos: phrase
+    tags: [connector, concession]
+    core: false
+    example: "Das Leben ist zwar teuer, aber interessant."
+  - de: sowohl … als auch
+    article: null
+    plural: null
+    en: both … and
+    pos: phrase
+    tags: [connector, addition]
+    core: false
+    example: "Sowohl Vorteile als auch Nachteile gibt es."
+
+  # ── Sprechen — Themenbereich Großstädte — 8 nouns ──────────────────────────
+  - de: Großstadt
+    article: die
+    plural: Großstädte
+    en: large city; metropolis
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Lebenshaltungskosten
+    article: die
+    plural: null
+    en: cost of living
+    pos: noun
+    tags: [housing, plural-tantum]
+    core: true
+  - de: Kulturangebot
+    article: das
+    plural: Kulturangebote
+    en: cultural offering; scene
+    pos: noun
+    tags: [culture, abstract]
+    core: true
+  - de: Verkehrsnetz
+    article: das
+    plural: Verkehrsnetze
+    en: transport network
+    pos: noun
+    tags: [transport, abstract]
+    core: true
+  - de: Konkurrenz
+    article: die
+    plural: null
+    en: competition
+    pos: noun
+    tags: [economy, abstract]
+    core: true
+  - de: Lärm
+    article: der
+    plural: null
+    en: noise
+    pos: noun
+    tags: [housing, abstract]
+    core: true
+  - de: Möglichkeit
+    article: die
+    plural: Möglichkeiten
+    en: opportunity; possibility
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Branche
+    article: die
+    plural: Branchen
+    en: industry; sector
+    pos: noun
+    tags: [economy, career, abstract]
+    core: true
