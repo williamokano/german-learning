@@ -1,0 +1,494 @@
+# Reviewed from A1/01 lesson.md §4 Wortschatz.
+# Note: the parser captured only 4 spurious entries (footnote paragraph, alphabet code
+# line, "Special letters" sentence) and dropped the Länder/Sprachen/Person table AND
+# the Zahlen 0–20 table because neither advertises a der/die/das header. Every entry
+# below was added by hand. Tag taxonomy mirrors the A1/03 pilot (issue #337).
+#
+# Section headers in lesson.md:
+#   Länder und Sprachen (countries and languages)   — 12 + 12 + 12 entries
+#   Die Zahlen 0–20 (numbers)                       — 21 entries
+#   Das Alphabet + special letters                  — skipped (phonetics reference, not vocab)
+lesson: A1/01
+
+entries:
+  # ── Länder (countries) ─────────────────────────────────────────────────────
+  # Most countries take no article (aus Brasilien). Only die Schweiz, die Türkei
+  # and die USA do — these are the three where article is part of the lemma.
+  - de: Deutschland
+    article: null
+    plural: null
+    en: Germany
+    pos: noun
+    tags: [country, concrete]
+    core: true
+    example: "Ich komme aus Deutschland."
+  - de: Österreich
+    article: null
+    plural: null
+    en: Austria
+    pos: noun
+    tags: [country, concrete]
+    core: true
+  - de: Schweiz
+    article: die
+    plural: null
+    en: Switzerland
+    pos: noun
+    tags: [country, concrete]
+    core: true
+    example: "Anna kommt aus der Schweiz."
+  - de: Brasilien
+    article: null
+    plural: null
+    en: Brazil
+    pos: noun
+    tags: [country, concrete]
+    core: true
+  - de: Portugal
+    article: null
+    plural: null
+    en: Portugal
+    pos: noun
+    tags: [country, concrete]
+    core: true
+  - de: England
+    article: null
+    plural: null
+    en: England
+    pos: noun
+    tags: [country, concrete]
+    core: true
+  - de: USA
+    article: die
+    plural: null
+    en: USA
+    pos: noun
+    tags: [country, concrete]
+    core: true
+    example: "Bruno kommt aus den USA."
+  - de: Frankreich
+    article: null
+    plural: null
+    en: France
+    pos: noun
+    tags: [country, concrete]
+    core: true
+  - de: Spanien
+    article: null
+    plural: null
+    en: Spain
+    pos: noun
+    tags: [country, concrete]
+    core: true
+  - de: Italien
+    article: null
+    plural: null
+    en: Italy
+    pos: noun
+    tags: [country, concrete]
+    core: true
+  - de: Türkei
+    article: die
+    plural: null
+    en: Turkey
+    pos: noun
+    tags: [country, concrete]
+    core: true
+    example: "Frau Yilmaz kommt aus der Türkei."
+  - de: Japan
+    article: null
+    plural: null
+    en: Japan
+    pos: noun
+    tags: [country, concrete]
+    core: true
+
+  # ── Sprachen (languages) ───────────────────────────────────────────────────
+  # Used as nouns without article in "Ich spreche Deutsch" (capitalised, mass noun).
+  # Not concrete: you can't draw a language.
+  - de: Deutsch
+    article: null
+    plural: null
+    en: German (language)
+    pos: noun
+    tags: [language]
+    core: true
+    example: "Ich spreche ein bisschen Deutsch."
+  - de: Portugiesisch
+    article: null
+    plural: null
+    en: Portuguese (language)
+    pos: noun
+    tags: [language]
+    core: true
+  - de: Englisch
+    article: null
+    plural: null
+    en: English (language)
+    pos: noun
+    tags: [language]
+    core: true
+  - de: Französisch
+    article: null
+    plural: null
+    en: French (language)
+    pos: noun
+    tags: [language]
+    core: true
+  - de: Spanisch
+    article: null
+    plural: null
+    en: Spanish (language)
+    pos: noun
+    tags: [language]
+    core: true
+  - de: Italienisch
+    article: null
+    plural: null
+    en: Italian (language)
+    pos: noun
+    tags: [language]
+    core: true
+  - de: Türkisch
+    article: null
+    plural: null
+    en: Turkish (language)
+    pos: noun
+    tags: [language]
+    core: true
+  - de: Japanisch
+    article: null
+    plural: null
+    en: Japanese (language)
+    pos: noun
+    tags: [language]
+    core: true
+
+  # ── Personen — männlich (male nationality nouns) ───────────────────────────
+  # All take der + weak-noun (n-declension) plural: die Deutschen, die Brasilianer…
+  - de: Deutsche
+    article: der
+    plural: Deutschen
+    en: German (man)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+    example: "Er ist Deutscher."
+  - de: Österreicher
+    article: der
+    plural: Österreicher
+    en: Austrian (man)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Schweizer
+    article: der
+    plural: Schweizer
+    en: Swiss (man)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Brasilianer
+    article: der
+    plural: Brasilianer
+    en: Brazilian (man)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Portugiese
+    article: der
+    plural: Portugiesen
+    en: Portuguese (man)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Engländer
+    article: der
+    plural: Engländer
+    en: Englishman
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Amerikaner
+    article: der
+    plural: Amerikaner
+    en: American (man)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Franzose
+    article: der
+    plural: Franzosen
+    en: Frenchman
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Spanier
+    article: der
+    plural: Spanier
+    en: Spaniard
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Italiener
+    article: der
+    plural: Italiener
+    en: Italian (man)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Türke
+    article: der
+    plural: Türken
+    en: Turk (man)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Japaner
+    article: der
+    plural: Japaner
+    en: Japanese (man)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+
+  # ── Personen — weiblich (female nationality nouns) ────────────────────────
+  # All take die + -in suffix; plural in -innen.
+  - de: Deutsche
+    article: die
+    plural: Deutschen
+    en: German (woman)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+    example: "Sie ist Deutsche."
+  - de: Österreicherin
+    article: die
+    plural: Österreicherinnen
+    en: Austrian (woman)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Schweizerin
+    article: die
+    plural: Schweizerinnen
+    en: Swiss (woman)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Brasilianerin
+    article: die
+    plural: Brasilianerinnen
+    en: Brazilian (woman)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Portugiesin
+    article: die
+    plural: Portugiesinnen
+    en: Portuguese (woman)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Engländerin
+    article: die
+    plural: Engländerinnen
+    en: Englishwoman
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Amerikanerin
+    article: die
+    plural: Amerikanerinnen
+    en: American (woman)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Französin
+    article: die
+    plural: Französinnen
+    en: Frenchwoman
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Spanierin
+    article: die
+    plural: Spanierinnen
+    en: Spanish (woman)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Italienerin
+    article: die
+    plural: Italienerinnen
+    en: Italian (woman)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Türkin
+    article: die
+    plural: Türkinnen
+    en: Turkish (woman)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Japanerin
+    article: die
+    plural: Japanerinnen
+    en: Japanese (woman)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+
+  # ── Zahlen 0–20 (numbers) ──────────────────────────────────────────────────
+  # pos: number (not noun). No article, no plural. Not concrete (abstract).
+  - de: "null"
+    article: null
+    plural: null
+    en: zero
+    pos: number
+    tags: [number]
+    core: true
+  - de: eins
+    article: null
+    plural: null
+    en: one
+    pos: number
+    tags: [number]
+    core: true
+    example: "Eins, zwei, drei …"
+  - de: zwei
+    article: null
+    plural: null
+    en: two
+    pos: number
+    tags: [number]
+    core: true
+  - de: drei
+    article: null
+    plural: null
+    en: three
+    pos: number
+    tags: [number]
+    core: true
+  - de: vier
+    article: null
+    plural: null
+    en: four
+    pos: number
+    tags: [number]
+    core: true
+  - de: fünf
+    article: null
+    plural: null
+    en: five
+    pos: number
+    tags: [number]
+    core: true
+  - de: sechs
+    article: null
+    plural: null
+    en: six
+    pos: number
+    tags: [number]
+    core: true
+  - de: sieben
+    article: null
+    plural: null
+    en: seven
+    pos: number
+    tags: [number]
+    core: true
+  - de: acht
+    article: null
+    plural: null
+    en: eight
+    pos: number
+    tags: [number]
+    core: true
+  - de: neun
+    article: null
+    plural: null
+    en: nine
+    pos: number
+    tags: [number]
+    core: true
+  - de: zehn
+    article: null
+    plural: null
+    en: ten
+    pos: number
+    tags: [number]
+    core: true
+  - de: elf
+    article: null
+    plural: null
+    en: eleven
+    pos: number
+    tags: [number]
+    core: true
+  - de: zwölf
+    article: null
+    plural: null
+    en: twelve
+    pos: number
+    tags: [number]
+    core: true
+  - de: dreizehn
+    article: null
+    plural: null
+    en: thirteen
+    pos: number
+    tags: [number]
+    core: true
+  - de: vierzehn
+    article: null
+    plural: null
+    en: fourteen
+    pos: number
+    tags: [number]
+    core: true
+  - de: fünfzehn
+    article: null
+    plural: null
+    en: fifteen
+    pos: number
+    tags: [number]
+    core: true
+  - de: sechzehn
+    article: null
+    plural: null
+    en: sixteen
+    pos: number
+    tags: [number]
+    core: true
+    example: "⚠️ not *sechszehn*."
+  - de: siebzehn
+    article: null
+    plural: null
+    en: seventeen
+    pos: number
+    tags: [number]
+    core: true
+    example: "⚠️ not *siebenzehn*."
+  - de: achtzehn
+    article: null
+    plural: null
+    en: eighteen
+    pos: number
+    tags: [number]
+    core: true
+  - de: neunzehn
+    article: null
+    plural: null
+    en: nineteen
+    pos: number
+    tags: [number]
+    core: true
+  - de: zwanzig
+    article: null
+    plural: null
+    en: twenty
+    pos: number
+    tags: [number]
+    core: true
