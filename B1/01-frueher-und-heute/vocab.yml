@@ -1,0 +1,316 @@
+# Reviewed from B1/01 lesson.md §4 Wortschatz.
+# Note: V2-parser draft mis-routed the 3-col table (Nomen | Verb | Adjektiv/Adverb)
+# — every "Verb" cell got jammed into the preceding noun's `en` field, and the
+# 3 "Adjektiv/Adverb" cells landed in the wrong noun's `en` too. Plural
+# `Anfänge` and `Unternehmen (no pl.)` were mis-derived. The middot-list
+# table (Berufliche Stationen) survived but with article+plural stripped.
+# Every entry below was re-derived from the source markdown.
+#
+# Section headers in lesson.md:
+#   Veränderung und Wandel (change and transformation)  — 3-col noun/verb/adj
+#   Berufliche Stationen (career stages)                — middot list
+#   Hörtext-Vokabular (Vorhersage, Dorf)               — bilingual 2-col
+lesson: B1/01
+
+entries:
+  # ── Veränderung und Wandel — Nomen ─────────────────────────────────────────
+  - de: Veränderung
+    article: die
+    plural: Veränderungen
+    en: change
+    pos: noun
+    tags: [change]
+    core: true
+    example: "Die Veränderung war langsam."
+  - de: Wandel
+    article: der
+    plural: null
+    en: transformation; transition
+    pos: noun
+    tags: [change]
+    core: true
+  - de: Entwicklung
+    article: die
+    plural: Entwicklungen
+    en: development
+    pos: noun
+    tags: [change]
+    core: true
+  - de: Unterschied
+    article: der
+    plural: Unterschiede
+    en: difference
+    pos: noun
+    tags: [change]
+    core: true
+  - de: Erinnerung
+    article: die
+    plural: Erinnerungen
+    en: memory
+    pos: noun
+    tags: [change, memory]
+    core: true
+  - de: Erfahrung
+    article: die
+    plural: Erfahrungen
+    en: experience
+    pos: noun
+    tags: [change, experience]
+    core: true
+
+  # ── Veränderung und Wandel — Verben ────────────────────────────────────────
+  - de: verändern
+    article: null
+    plural: null
+    en: to change
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Die Stadt verändert sich schnell."
+  - de: wandeln
+    article: null
+    plural: null
+    en: to transform
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+  - de: entwickeln
+    article: null
+    plural: null
+    en: to develop
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Das Land entwickelt sich weiter."
+  - de: unterscheiden
+    article: null
+    plural: null
+    en: to distinguish; to separate
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: erinnern
+    article: null
+    plural: null
+    en: to remember
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Ich erinnere mich an meine Kindheit."
+  - de: erfahren
+    article: null
+    plural: null
+    en: to experience; to learn
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich habe viel erfahren."
+
+  # ── Veränderung und Wandel — Adjektiv / Adverb ──────────────────────────────
+  - de: anders
+    article: null
+    plural: null
+    en: different
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das Leben ist jetzt anders."
+  - de: völlig
+    article: null
+    plural: null
+    en: completely
+    pos: adverb
+    tags: [adverb]
+    core: true
+  - de: total
+    article: null
+    plural: null
+    en: completely
+    pos: adverb
+    tags: [adverb]
+    core: true
+  - de: früher
+    article: null
+    plural: null
+    en: earlier; in the past
+    pos: adverb
+    tags: [adverb, time]
+    core: true
+  - de: heutzutage
+    article: null
+    plural: null
+    en: these days
+    pos: adverb
+    tags: [adverb, time]
+    core: true
+  - de: gestresst
+    article: null
+    plural: null
+    en: stressed
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: damals
+    article: null
+    plural: null
+    en: back then
+    pos: adverb
+    tags: [adverb, time]
+    core: true
+    example: "Damals war alles anders."
+
+  # ── Berufliche Stationen (middot list) ────────────────────────────────────
+  - de: Anfang
+    article: der
+    plural: Anfänge
+    en: beginning
+    pos: noun
+    tags: [time, sequence]
+    core: true
+    example: "Am Anfang arbeitete ich bei einem kleinen Unternehmen."
+  - de: Mitte
+    article: die
+    plural: null
+    en: middle
+    pos: noun
+    tags: [time, sequence]
+    core: true
+  - de: Ende
+    article: das
+    plural: Enden
+    en: end
+    pos: noun
+    tags: [time, sequence]
+    core: true
+    example: "Am Ende hat alles gut geklappt."
+  - de: Karriere
+    article: die
+    plural: Karrieren
+    en: career
+    pos: noun
+    tags: [career]
+    core: true
+  - de: Wechsel
+    article: der
+    plural: null
+    en: change; job change
+    pos: noun
+    tags: [career]
+    core: true
+    example: "Der Wechsel fiel mir nicht leicht."
+  - de: Stelle
+    article: die
+    plural: Stellen
+    en: position; job
+    pos: noun
+    tags: [career]
+    core: true
+  - de: Unternehmen
+    article: das
+    plural: null
+    en: company
+    pos: noun
+    tags: [career, place, concrete]
+    core: true
+  - de: Chef
+    article: der
+    plural: Chefs
+    en: boss (male)
+    pos: noun
+    tags: [career, person, concrete]
+    core: true
+  - de: Chefin
+    article: die
+    plural: Chefinnen
+    en: boss (female)
+    pos: noun
+    tags: [career, person, concrete]
+    core: true
+  - de: Kollege
+    article: der
+    plural: Kollegen
+    en: colleague (male)
+    pos: noun
+    tags: [career, person, concrete]
+    core: true
+  - de: Kollegin
+    article: die
+    plural: Kolleginnen
+    en: colleague (female)
+    pos: noun
+    tags: [career, person, concrete]
+    core: true
+  - de: Nachbar
+    article: der
+    plural: Nachbarn
+    en: neighbor (male)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Nachbarin
+    article: die
+    plural: Nachbarinnen
+    en: neighbor (female)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+
+  # ── Hörtext-Vokabular (Vorhersage, Dorf) — bilingual 2-col ─────────────────
+  - de: Dorf
+    article: das
+    plural: Dörfer
+    en: village
+    pos: noun
+    tags: [place, concrete, rural]
+    core: true
+    example: "Lukas' Mutter lebt in einem kleinen Dorf."
+  - de: Hof
+    article: der
+    plural: Höfe
+    en: farm; courtyard
+    pos: noun
+    tags: [place, concrete, rural]
+    core: true
+  - de: Acker
+    article: der
+    plural: Äcker
+    en: field
+    pos: noun
+    tags: [place, concrete, rural]
+    core: true
+  - de: Vieh
+    article: das
+    plural: null
+    en: livestock; cattle
+    pos: noun
+    tags: [rural]
+    core: true
+  - de: Wettervorhersage
+    article: die
+    plural: Wettervorhersagen
+    en: weather forecast
+    pos: noun
+    tags: [weather]
+    core: true
+  - de: Sturm
+    article: der
+    plural: Stürme
+    en: storm
+    pos: noun
+    tags: [weather]
+    core: true
+  - de: Ernte
+    article: die
+    plural: Ernten
+    en: harvest
+    pos: noun
+    tags: [rural]
+    core: true
+  - de: vermissen
+    article: null
+    plural: null
+    en: to miss
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich vermisse meine alte Heimat."
