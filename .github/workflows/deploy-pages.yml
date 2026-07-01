@@ -1,4 +1,4 @@
-name: Deploy site
+name: CI & Deploy
 
 on:
   push:
@@ -11,6 +11,8 @@ on:
       - 'B2/**'
       - 'C1/**'
       - 'docs/web/**'
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -19,7 +21,8 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  # Per-ref so a PR's check run and a main deploy never cancel each other.
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -28,9 +31,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          lfs: true
+          # Real audio (LFS) is only needed to publish; PR builds validate fine with the
+          # pointer files, so skip the fetch to keep pull-request checks fast.
+          lfs: ${{ github.event_name != 'pull_request' }}
 
-      - run: git lfs pull
+      - if: github.event_name != 'pull_request'
+        run: git lfs pull
 
       - uses: pnpm/action-setup@v4
         with:
@@ -56,11 +62,13 @@ jobs:
       - run: pnpm -C web build
 
       - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
         with:
           path: web/dist
 
   deploy:
     needs: build
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
