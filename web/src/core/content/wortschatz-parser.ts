@@ -636,7 +636,12 @@ export function parseToken(rawInput: string, defaultEn?: string): DraftEntry | n
 function englishGloss(paren: string | null): string {
   if (!paren) return '';
   const p = paren.trim();
-  if (/no pl|\bpl\b|plural|usually|meist/i.test(p)) return '';
+  // "(nur Sg.)"/"(Sg.)"/"(nur Singular)" is a grammar annotation (singular-only),
+  // not a gloss — same class of bug as the plural annotations below. Found while
+  // reviewing B2/03: "das Bedauern, – (nur Sg.)" was consuming "nur Sg." as the
+  // gloss, which then blocked the real English column from ever being applied via
+  // the `defaultEn` fallback (only fires when `en` is still empty).
+  if (/no pl|\bpl\b|plural|usually|meist|\bsg\.?\b|singular/i.test(p)) return '';
   if (/^[A-ZÄÖÜ]/.test(p)) return '';            // capitalized German plural hint
   return /^[a-z]/.test(p) ? p : '';              // lowercase → English gloss
 }
