@@ -177,10 +177,59 @@ describe('parseToken plural expansion', () => {
     expect(parseToken('der Ofen, –e')).toMatchObject({ plural: 'Öfen', needsReview: true });
   });
 
-  it('does a best-effort umlaut-only plural (no suffix)', () => {
-    // V2 umlauts the first vowel, no suffix added. Still flagged for review.
-    expect(parseToken('der Apfel, –')).toMatchObject({ plural: 'Äpfel', needsReview: true });
-    expect(parseToken('der Bauer, –')).toMatchObject({ plural: 'Bäuer', needsReview: true });
+  it('resolves bare "–" (no suffix) via a closed list of umlaut-only nouns (V3)', () => {
+    // Bare "–" is ambiguous in the wild: some lessons use it for "umlaut, no
+    // suffix" (Vater → Väter), others for "invariant, no plural at all"
+    // (der Wandel, –). V1/V2 always guessed umlaut, producing false positives
+    // across the B1 rollout (Klimawandel → Klimäwandel, etc.). V3 checks a
+    // closed list of the actual German nouns that pluralize this way instead —
+    // a match is now confident enough to drop the plural-related needsReview.
+    // (A gloss is supplied so needsReview reflects ONLY the plural signal —
+    // it's also set when `en` is empty, which is a separate, unrelated reason.)
+    expect(parseToken('der Apfel, – (fruit)')).toMatchObject({ plural: 'Äpfel', needsReview: false });
+    expect(parseToken('der Vater, – (father)')).toMatchObject({ plural: 'Väter', needsReview: false });
+    expect(parseToken('die Mutter, – (mother)')).toMatchObject({ plural: 'Mütter', needsReview: false });
+  });
+
+  it('treats bare "–" as invariant (no plural) for nouns outside the closed list (V3)', () => {
+    // `der Bauer` is NOT in the closed umlaut-only class (real plural: Bauern,
+    // with -n, no umlaut) — under the old guess-always-umlaut behavior this
+    // produced the wrong answer "Bäuer". V3's safer default (no plural) is
+    // also wrong here, but at least doesn't fabricate an incorrect umlaut form,
+    // and a human reviewer can supply the real -n plural.
+    expect(parseToken('der Bauer, – (farmer)')).toMatchObject({ plural: null, needsReview: false });
+    // The actual B1/12 regression case: `der Wandel, –` really has no plural.
+    expect(parseToken('der Wandel, – (change)')).toMatchObject({ plural: null, needsReview: false });
+  });
+
+  it('recognizes an explicit umlaut-spelled plural code ("-ä-e") alongside the terse "–e" shorthand (V3)', () => {
+    // Some lessons spell the umlaut out (e.g. "-ä-e") instead of using the terse
+    // "–e" shorthand. Real lesson data shows the spelled-out vowel is NOT a
+    // reliable literal target — the same "-ä-e" code is used across a→ä, o→ö,
+    // AND au→äu plurals alike (authors write it as a generic "there's an
+    // umlaut" marker). So this delegates to the same best-effort LAST-vowel-
+    // cluster guesser as the bare "–e" case, which correctly finds the compound
+    // noun's head-stem vowel rather than a modifier prefix's vowel.
+    expect(parseToken('der CO₂-Ausstoß, -ä-e')).toMatchObject({ plural: 'CO₂-Ausstöße', needsReview: true });
+    expect(parseToken('der Rückgang, -ä-e')).toMatchObject({ plural: 'Rückgänge', needsReview: true });
+    expect(parseToken('der Verbrauch, -ä-e')).toMatchObject({ plural: 'Verbräuche', needsReview: true });
+    expect(parseToken('der Mindestlohn, -ä-e')).toMatchObject({ plural: 'Mindestlöhne', needsReview: true });
+  });
+
+  it('umlauts the LAST vowel cluster, not the first — matters for compounds (V3)', () => {
+    // A direct regression test for the CO₂-Ausstoß case: the modifier prefix
+    // "Aus-" has an 'au' cluster, but the plural-relevant vowel is the 'o' in
+    // the head noun "-stoß". Scanning for the first vowel-cluster (V2 behavior)
+    // would umlaut the wrong one ("CO₂-Äusstoße"); V3 scans for the last.
+    expect(parseToken('der Ausstoß, –e')).toMatchObject({ plural: 'Ausstöße', needsReview: true });
+  });
+
+  it('recognizes a full second word as the plural instead of a suffix code (V3)', () => {
+    // "die Großstadt, die Großstädte" spells the whole plural out rather than
+    // using a suffix code. All German plural nouns take "die" regardless of the
+    // singular's gender, so a leading article after the comma is the signal.
+    expect(parseToken('die Großstadt, die Großstädte (metropolis)')).toMatchObject({ plural: 'Großstädte', needsReview: false });
+    expect(parseToken('der Lebenslauf, die Lebensläufe (résumé)')).toMatchObject({ plural: 'Lebensläufe', needsReview: false });
   });
 
   it('disambiguates a plural hint from an English gloss', () => {
@@ -332,6 +381,58 @@ describe('parseWortschatz section handling', () => {
     const by = (de: string) => r.entries.find(e => e.de === de);
     expect(by('arbeiten')).toMatchObject({ pos: 'verb', en: 'to work' });
     expect(by('vergleichen')).toMatchObject({ pos: 'verb', en: 'to compare' });
+  });
+
+  it('extracts BOTH members of a noun+verb pair table, column order Verb|Nomen (V3)', () => {
+    // B2/01-style nominalization table. Before V3 this header matched
+    // 'verb-english' (any cell containing "verb") and only captured column 0,
+    // silently dropping the noun entirely.
+    const md = [
+      '## Wortschatz',
+      '| Verb | Nomen |',
+      '|---|---|',
+      '| prüfen | die Prüfung, -en |',
+      '| ablehnen | die Ablehnung, -en |',
+    ].join('\n');
+    const r = parseWortschatz(md, 'B2/01');
+    expect(r.warnings).toEqual([]);
+    const by = (de: string) => r.entries.find(e => e.de === de);
+    expect(by('prüfen')).toMatchObject({ pos: 'verb' });
+    expect(by('Prüfung')).toMatchObject({ pos: 'noun', article: 'die', plural: 'Prüfungen' });
+    expect(by('ablehnen')).toMatchObject({ pos: 'verb' });
+    expect(by('Ablehnung')).toMatchObject({ pos: 'noun', article: 'die' });
+  });
+
+  it('extracts BOTH members of a noun+verb pair table, column order Nomen|Verb|English (V3)', () => {
+    // B2/02-style: 3 columns, noun first, with a shared meaning column applied
+    // to whichever entry doesn't already have its own gloss.
+    const md = [
+      '## Wortschatz',
+      '| Nomen | Verb | English |',
+      '|---|---|---|',
+      '| die Forschung, -en | forschen | research |',
+    ].join('\n');
+    const r = parseWortschatz(md, 'B2/02');
+    expect(r.warnings).toEqual([]);
+    const by = (de: string) => r.entries.find(e => e.de === de);
+    expect(by('Forschung')).toMatchObject({ pos: 'noun', en: 'research' });
+    expect(by('forschen')).toMatchObject({ pos: 'verb', en: 'research' });
+  });
+
+  it('extracts a connector table (Konnektor | Funktion | Beispiel) (V3)', () => {
+    // Was dropped entirely pre-V3 (no recognized header shape).
+    const md = [
+      '## Wortschatz',
+      '| Konnektor | Funktion | Beispiel |',
+      '|---|---|---|',
+      '| `einerseits … andererseits` | two-sided contrast | Einerseits bietet die Stadt Jobs, andererseits sind die Mieten hoch. |',
+      '| außerdem | addition | Außerdem gibt es viele Kulturangebote. |',
+    ].join('\n');
+    const r = parseWortschatz(md, 'B1/13');
+    expect(r.warnings).toEqual([]);
+    const by = (de: string) => r.entries.find(e => e.de === de);
+    expect(by('einerseits … andererseits')).toMatchObject({ pos: 'phrase', en: 'two-sided contrast' });
+    expect(by('außerdem')).toMatchObject({ pos: 'conjunction', en: 'addition' });
   });
 
   it('warns once for a still-untouched table shape (e.g. price/grammar)', () => {
