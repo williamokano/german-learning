@@ -1,0 +1,249 @@
+# Reviewed from C1/01 lesson.md §4 Wortschatz.
+# Note: all 3 tables use German-only paraphrase (Erklärung/Register column, no
+# English at all — not even German-with-English-mixed like most B2 lessons). The
+# parser correctly identified none of the 3 header shapes and dropped every row
+# with a warning (0 entries extracted). Every entry below is hand-derived and
+# hand-translated from the source markdown, not a patch of any draft.
+#
+# Section headers in lesson.md:
+#   Kernwortschatz: Stilebenen und Register       — 15 nouns (register/style theory)
+#   Verbwahl als Registermarker                    — 7 colloquial→standard verb pairs (14)
+#   Funktionsverbgefüge als Marker gehobener Sprache — 8 FVG phrases (formal register)
+lesson: C1/01
+
+entries:
+  # ── Kernwortschatz: Stilebenen und Register — 15 nouns ─────────────────────
+  - de: Stilebene
+    article: die
+    plural: Stilebenen
+    en: register; style level
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+    example: 'Die sprachliche „Höhenlage" eines Textes oder Gesprächs.'
+  - de: Register
+    article: das
+    plural: null
+    en: register (linguistic variety by situation)
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+  - de: Umgangssprache
+    article: die
+    plural: null
+    en: colloquial language; everyday speech
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+    example: "Alltägliche gesprochene Sprache, oft dialektal gefärbt."
+  - de: Standardsprache
+    article: die
+    plural: null
+    en: standard language
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+  - de: Hochsprache
+    article: die
+    plural: null
+    en: formal/elevated standard language
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+  - de: Fachsprache
+    article: die
+    plural: Fachsprachen
+    en: technical/specialist language
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+  - de: Jargon
+    article: der
+    plural: Jargons
+    en: jargon (often slightly pejorative)
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+  - de: Höflichkeitsfloskel
+    article: die
+    plural: Höflichkeitsfloskeln
+    en: polite fixed phrase
+    pos: noun
+    tags: [linguistics, register, phrase, abstract]
+    core: true
+  - de: Distanz
+    article: die
+    plural: Distanzen
+    en: distance (emotional/factual, in conversation)
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+  - de: Distanzierung
+    article: die
+    plural: Distanzierungen
+    en: distancing (deliberate, via Passiv/Nominalstil/Konjunktiv II)
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+  - de: Euphemismus
+    article: der
+    plural: Euphemismen
+    en: euphemism
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+    example: "verstorben statt gestorben"
+  - de: Untertreibung
+    article: die
+    plural: Untertreibungen
+    en: understatement
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+    example: "nicht so optimal statt schlecht"
+  - de: Hyperbel
+    article: die
+    plural: Hyperbeln
+    en: hyperbole; exaggeration
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+    example: "tausendmal gefragt statt oft gefragt"
+  - de: Marker
+    article: der
+    plural: Marker
+    en: (linguistic) marker
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+  - de: Modalpartikel
+    article: die
+    plural: Modalpartikeln
+    en: modal particle
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+    example: "doch, mal, halt"
+
+  # ── Verbwahl als Registermarker — 7 colloquial→standard pairs ──────────────
+  - de: kriegen
+    article: null
+    plural: null
+    en: to get (colloquial)
+    pos: verb
+    tags: [verb, register, colloquial]
+    core: true
+    example: "= bekommen, erhalten (standard)"
+  - de: bekommen
+    article: null
+    plural: null
+    en: to get; to receive (standard)
+    pos: verb
+    tags: [verb, register, standard]
+    core: true
+  - de: frühstücken
+    article: null
+    plural: null
+    en: to have breakfast (standard)
+    pos: verb
+    tags: [verb, register, standard]
+    core: true
+    example: "colloquial: essen (morgens)"
+  - de: verreisen
+    article: null
+    plural: null
+    en: to go on a trip; to depart (standard)
+    pos: verb
+    tags: [verb, register, standard]
+    core: true
+    example: "colloquial: weggehen"
+  - de: klauen
+    article: null
+    plural: null
+    en: to steal (colloquial)
+    pos: verb
+    tags: [verb, register, colloquial]
+    core: true
+    example: "= stehlen (standard)"
+  - de: labern
+    article: null
+    plural: null
+    en: to talk; to chatter (colloquial)
+    pos: verb
+    tags: [verb, register, colloquial]
+    core: true
+    example: "= sprechen, reden (standard)"
+  - de: knobeln
+    article: null
+    plural: null
+    en: to ponder; to puzzle over (colloquial)
+    pos: verb
+    tags: [verb, register, colloquial]
+    core: true
+    example: "= nachdenken, überlegen (standard)"
+
+  # ── Funktionsverbgefüge als Marker gehobener Sprache — 8 FVG phrases ───────
+  - de: eine Entscheidung treffen
+    article: null
+    plural: null
+    en: to make a decision
+    pos: phrase
+    tags: [fvg, register, formal, phrase]
+    core: true
+    example: "= entscheiden (simple verb)"
+  - de: in Frage stellen
+    article: null
+    plural: null
+    en: to call into question
+    pos: phrase
+    tags: [fvg, register, formal, phrase]
+    core: true
+    example: "= bezweifeln"
+  - de: zur Verfügung stellen
+    article: null
+    plural: null
+    en: to provide; to make available
+    pos: phrase
+    tags: [fvg, register, formal, phrase]
+    core: true
+    example: "= geben, anbieten"
+  - de: in Kauf nehmen
+    article: null
+    plural: null
+    en: to accept; to put up with
+    pos: phrase
+    tags: [fvg, register, formal, phrase]
+    core: true
+    example: "= akzeptieren"
+  - de: in Betracht ziehen
+    article: null
+    plural: null
+    en: to take into consideration
+    pos: phrase
+    tags: [fvg, register, formal, phrase]
+    core: true
+    example: "= erwägen, überlegen"
+  - de: eine Rolle spielen
+    article: null
+    plural: null
+    en: to play a role; to matter
+    pos: phrase
+    tags: [fvg, register, formal, phrase]
+    core: true
+    example: "= wichtig sein"
+  - de: zur Sprache bringen
+    article: null
+    plural: null
+    en: to bring up (a topic)
+    pos: phrase
+    tags: [fvg, register, formal, phrase]
+    core: true
+    example: "= ansprechen"
+  - de: einen Beitrag leisten
+    article: null
+    plural: null
+    en: to make a contribution
+    pos: phrase
+    tags: [fvg, register, formal, phrase]
+    core: true
+    example: "= mithelfen, beitragen"
