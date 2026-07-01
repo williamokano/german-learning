@@ -1,0 +1,239 @@
+# Reviewed from B1/10 lesson.md §4 Wortschatz.
+# Note: V2 parser captured nearly everything cleanly (this table format is 2-col
+# noun-english/verb-english, well-handled by V2). Only fix needed: `Einwand` paren
+# plural bled into `en`; 5 nouns flagged `check plural` are all correctly plural-only
+# (Lebenshaltungskosten, Lebensqualität, Vielfalt, Lärm — Singular-only per lesson).
+#
+# Section headers in lesson.md:
+#   Argumentation und Diskussion    — 13 nouns
+#   Verben für Argumentation        — 10 verbs
+#   Lebenssituationen (Dialog A)    — 8 nouns
+lesson: B1/10
+
+entries:
+  # ── Argumentation und Diskussion — 13 nouns ────────────────────────────────
+  - de: Argument
+    article: das
+    plural: Argumente
+    en: argument
+    pos: noun
+    tags: [logic, argument]
+    core: true
+  - de: These
+    article: die
+    plural: Thesen
+    en: thesis; claim
+    pos: noun
+    tags: [logic, argument]
+    core: true
+  - de: Gegenargument
+    article: das
+    plural: Gegenargumente
+    en: counter-argument
+    pos: noun
+    tags: [logic, argument]
+    core: true
+  - de: Standpunkt
+    article: der
+    plural: Standpunkte
+    en: point of view; stance
+    pos: noun
+    tags: [logic, argument]
+    core: true
+  - de: Perspektive
+    article: die
+    plural: Perspektiven
+    en: perspective
+    pos: noun
+    tags: [logic, argument]
+    core: true
+  - de: Beispiel
+    article: das
+    plural: Beispiele
+    en: example
+    pos: noun
+    tags: [logic, argument]
+    core: true
+  - de: Einwand
+    article: der
+    plural: Einwände
+    en: objection
+    pos: noun
+    tags: [logic, contrast]
+    core: true
+    example: "Ich habe einen Einwand."
+  - de: Kompromiss
+    article: der
+    plural: Kompromisse
+    en: compromise
+    pos: noun
+    tags: [logic, agreement]
+    core: true
+  - de: Entscheidung
+    article: die
+    plural: Entscheidungen
+    en: decision
+    pos: noun
+    tags: [logic, decision]
+    core: true
+  - de: Nachteil
+    article: der
+    plural: Nachteile
+    en: disadvantage
+    pos: noun
+    tags: [logic, contrast]
+    core: true
+    example: "Ich sehe sowohl den Vorteil als auch den Nachteil."
+  - de: Vorteil
+    article: der
+    plural: Vorteile
+    en: advantage
+    pos: noun
+    tags: [logic, contrast]
+    core: true
+  - de: Schlussfolgerung
+    article: die
+    plural: Schlussfolgerungen
+    en: conclusion
+    pos: noun
+    tags: [logic, argument]
+    core: true
+  - de: Fazit
+    article: das
+    plural: Fazits
+    en: conclusion; summary
+    pos: noun
+    tags: [logic, argument]
+    core: true
+
+  # ── Verben für Argumentation — 10 verbs ────────────────────────────────────
+  - de: argumentieren
+    article: null
+    plural: null
+    en: to argue; to make an argument
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: behaupten
+    article: null
+    plural: null
+    en: to claim; to assert
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: widersprechen
+    article: null
+    plural: null
+    en: to contradict; to object
+    pos: verb
+    tags: [verb, dative, strong]
+    core: true
+    example: "Ich widerspreche dem Argument."
+  - de: zustimmen
+    article: null
+    plural: null
+    en: to agree
+    pos: verb
+    tags: [verb, dative, separable]
+    core: true
+    example: "Ich stimme dir zu."
+  - de: einräumen
+    article: null
+    plural: null
+    en: to concede; to admit
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: belegen
+    article: null
+    plural: null
+    en: to prove; to substantiate
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: einschränken
+    article: null
+    plural: null
+    en: to qualify; to restrict
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: abwägen
+    article: null
+    plural: null
+    en: to weigh up (pros and cons)
+    pos: verb
+    tags: [verb, separable, strong]
+    core: true
+  - de: überzeugen
+    article: null
+    plural: null
+    en: to convince; to persuade
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: schlussfolgern
+    article: null
+    plural: null
+    en: to conclude
+    pos: verb
+    tags: [verb]
+    core: true
+
+  # ── Lebenssituationen (Dialog A) — 8 nouns ─────────────────────────────────
+  - de: Miete
+    article: die
+    plural: Mieten
+    en: rent
+    pos: noun
+    tags: [housing, abstract]
+    core: true
+  - de: Lebenshaltungskosten
+    article: die
+    plural: null
+    en: cost of living
+    pos: noun
+    tags: [housing, plural-tantum]
+    core: true
+  - de: Lebensqualität
+    article: die
+    plural: null
+    en: quality of life
+    pos: noun
+    tags: [housing, abstract]
+    core: true
+  - de: Netzwerk
+    article: das
+    plural: Netzwerke
+    en: network
+    pos: noun
+    tags: [social, abstract]
+    core: true
+  - de: Infrastruktur
+    article: die
+    plural: Infrastrukturen
+    en: infrastructure
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+  - de: Vielfalt
+    article: die
+    plural: null
+    en: diversity; variety
+    pos: noun
+    tags: [housing, abstract]
+    core: true
+  - de: Lärm
+    article: der
+    plural: null
+    en: noise
+    pos: noun
+    tags: [housing, abstract]
+    core: true
+  - de: Veränderung
+    article: die
+    plural: Veränderungen
+    en: change
+    pos: noun
+    tags: [change, abstract]
+    core: true
