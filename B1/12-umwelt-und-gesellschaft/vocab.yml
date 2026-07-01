@@ -1,0 +1,279 @@
+# Reviewed from B1/12 lesson.md §4 Wortschatz.
+# Note: V2 parser's umlaut heuristic misfired on 8 entries whose plural code is a bare
+# `–` (en dash = "no plural", same convention as B1/01's `der Wandel, –`) — V2 treats
+# any `–`-prefixed code as an umlaut signal and force-umlauted the FIRST vowel even
+# with no suffix (Klimawandel → Klimäwandel, Luftverschmutzung → Lüftverschmutzung,
+# etc.). All 8 restored to `plural: null`. 3 entries use the lesson's own explicit
+# umlaut spelling `-ä-e` (CO₂-Ausstoß, Rückgang, Verbrauch, Mindestlohn) which V2
+# doesn't parse at all (non-standard code shape); derived by hand from German
+# morphology. 2 attributive-adjective+noun phrases (`erneuerbare Energien`, `soziale
+# Gerechtigkeit`) kept as non-core phrases. 4 verb entries mistyped `pos: phrase`
+# (2 separable + `überarbeiten`); re-typed.
+#
+# Section headers in lesson.md:
+#   Umwelt und Klimawandel         — 16 nouns (2 phrases: erneuerbare Energien)
+#   Gesellschaft und Sozialpolitik — 11 nouns (1 phrase: soziale Gerechtigkeit)
+#   Schlüsselverben                — 9 (7 verbs + 1 adjective + 1 duplicate note)
+lesson: B1/12
+
+entries:
+  # ── Umwelt und Klimawandel — 16 nouns/phrases ──────────────────────────────
+  - de: Klimawandel
+    article: der
+    plural: null
+    en: climate change
+    pos: noun
+    tags: [environment, abstract]
+    core: true
+  - de: Emission
+    article: die
+    plural: Emissionen
+    en: emission
+    pos: noun
+    tags: [environment, abstract]
+    core: true
+  - de: Treibhausgas
+    article: das
+    plural: Treibhausgase
+    en: greenhouse gas
+    pos: noun
+    tags: [environment, concrete]
+    core: true
+  - de: Luftverschmutzung
+    article: die
+    plural: null
+    en: air pollution
+    pos: noun
+    tags: [environment, abstract]
+    core: true
+  - de: CO₂-Ausstoß
+    article: der
+    plural: CO₂-Ausstöße
+    en: CO₂ output; emissions
+    pos: noun
+    tags: [environment, abstract]
+    core: true
+  - de: Recycling
+    article: das
+    plural: null
+    en: recycling
+    pos: noun
+    tags: [environment, abstract]
+    core: true
+  - de: Nachhaltigkeit
+    article: die
+    plural: null
+    en: sustainability
+    pos: noun
+    tags: [environment, abstract]
+    core: true
+  - de: Verkehrswende
+    article: die
+    plural: null
+    en: shift in transport policy
+    pos: noun
+    tags: [environment, policy, abstract]
+    core: true
+  - de: Elektroauto
+    article: das
+    plural: Elektroautos
+    en: electric car
+    pos: noun
+    tags: [environment, transport, concrete]
+    core: true
+  - de: erneuerbare Energien
+    article: null
+    plural: null
+    en: renewable energies
+    pos: phrase
+    tags: [environment, phrase]
+    core: false
+    example: "Wir setzen auf erneuerbare Energien."
+  - de: Rückgang
+    article: der
+    plural: Rückgänge
+    en: decrease; decline
+    pos: noun
+    tags: [change, abstract]
+    core: true
+    example: "Der Rückgang ist deutlich."
+  - de: Anstieg
+    article: der
+    plural: Anstiege
+    en: increase; rise
+    pos: noun
+    tags: [change, abstract]
+    core: true
+  - de: Verbrauch
+    article: der
+    plural: Verbräuche
+    en: consumption; use
+    pos: noun
+    tags: [environment, abstract]
+    core: true
+  - de: Maßnahme
+    article: die
+    plural: Maßnahmen
+    en: measure; step
+    pos: noun
+    tags: [policy, abstract]
+    core: true
+  - de: Ausbau
+    article: der
+    plural: Ausbauten
+    en: expansion; development
+    pos: noun
+    tags: [policy, abstract]
+    core: true
+  - de: Einführung
+    article: die
+    plural: Einführungen
+    en: introduction; implementation
+    pos: noun
+    tags: [policy, abstract]
+    core: true
+
+  # ── Gesellschaft und Sozialpolitik — 11 nouns/phrases ──────────────────────
+  - de: Gleichstellung
+    article: die
+    plural: null
+    en: equality (gender equality)
+    pos: noun
+    tags: [society, abstract]
+    core: true
+  - de: Integration
+    article: die
+    plural: Integrationen
+    en: integration
+    pos: noun
+    tags: [society, abstract]
+    core: true
+  - de: Wohnungsnot
+    article: die
+    plural: null
+    en: housing shortage
+    pos: noun
+    tags: [society, housing, abstract]
+    core: true
+  - de: Gentrifizierung
+    article: die
+    plural: Gentrifizierungen
+    en: gentrification
+    pos: noun
+    tags: [society, housing, abstract]
+    core: true
+  - de: Mindestlohn
+    article: der
+    plural: Mindestlöhne
+    en: minimum wage
+    pos: noun
+    tags: [society, economy, abstract]
+    core: true
+  - de: Digitalisierung
+    article: die
+    plural: null
+    en: digitalisation
+    pos: noun
+    tags: [society, abstract]
+    core: true
+  - de: soziale Gerechtigkeit
+    article: null
+    plural: null
+    en: social justice
+    pos: phrase
+    tags: [society, phrase]
+    core: false
+    example: "Soziale Gerechtigkeit ist wichtig."
+  - de: Wohnungspolitik
+    article: die
+    plural: Wohnungspolitiken
+    en: housing policy
+    pos: noun
+    tags: [society, housing, policy, abstract]
+    core: true
+  - de: Förderung
+    article: die
+    plural: Förderungen
+    en: promotion; support; funding
+    pos: noun
+    tags: [policy, abstract]
+    core: true
+  - de: Belastung
+    article: die
+    plural: Belastungen
+    en: burden; strain
+    pos: noun
+    tags: [society, abstract]
+    core: true
+  - de: Notwendigkeit
+    article: die
+    plural: Notwendigkeiten
+    en: necessity
+    pos: noun
+    tags: [society, abstract]
+    core: true
+
+  # ── Schlüsselverben — 7 verbs + 1 adjective ────────────────────────────────
+  - de: einführen
+    article: null
+    plural: null
+    en: to introduce; to implement
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: ausbauen
+    article: null
+    plural: null
+    en: to expand; to develop
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: reduzieren
+    article: null
+    plural: null
+    en: to reduce
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: senken
+    article: null
+    plural: null
+    en: to lower; to reduce
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: verringern
+    article: null
+    plural: null
+    en: to diminish; to reduce
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: fördern
+    article: null
+    plural: null
+    en: to promote; to fund; to support
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: begleiten
+    article: null
+    plural: null
+    en: to accompany
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: überfällig
+    article: null
+    plural: null
+    en: overdue
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: überarbeiten
+    article: null
+    plural: null
+    en: to revise
+    pos: verb
+    tags: [verb]
+    core: true
