@@ -1,0 +1,120 @@
+# Reviewed from B2/09 lesson.md §4 Wortschatz.
+# Note: tables 1+2 (Vorsilben/Präfixe, Nachsilben/Suffixe) are morphology reference
+# material, not headword vocabulary — the lesson teaches the PATTERN each affix
+# carries (ver- = change, zer- = separation, -ung = verbal noun, -bar = possibility),
+# not a closed list of specific words to memorize. Same convention as A1/12's
+# excluded weekday table and B1/11's excluded CV-section-names table. The affix
+# tables' own "Beispiele" columns list ~74 real German words, but these are
+# illustrations of the pattern (mostly already-known basics: verändern, bezahlen,
+# erlauben, Erfahrung, ...), not this lesson's new vocabulary target. Table 3 (Nomen
+# mit fester Form) IS standard vocabulary — the terminology for talking ABOUT word
+# formation — and is fully included below.
+#
+# Section headers in lesson.md:
+#   Die wichtigsten Vorsilben (Präfixe)   — EXCLUDED (morphology reference)
+#   Wichtige Nachsilben (Suffixe)          — EXCLUDED (morphology reference)
+#   Nomen mit fester Form (Artikel + Plural) — 14 nouns (all included)
+lesson: B2/09
+
+entries:
+  # ── Nomen mit fester Form — 14 nouns ────────────────────────────────────────
+  - de: Vorsilbe
+    article: die
+    plural: Vorsilben
+    en: prefix
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+    example: "Präfix; kommt vor dem Verbstamm."
+  - de: Nachsilbe
+    article: die
+    plural: Nachsilben
+    en: suffix
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+    example: "Suffix; kommt nach dem Verbstamm."
+  - de: Endung
+    article: die
+    plural: Endungen
+    en: ending
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Kompositum
+    article: das
+    plural: Komposita
+    en: compound word
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Wortfamilie
+    article: die
+    plural: Wortfamilien
+    en: word family
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Bestimmbegriff
+    article: der
+    plural: Bestimmbegriffe
+    en: determinant (left member of a compound)
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Grundbegriff
+    article: der
+    plural: Grundbegriffe
+    en: base term (right member of a compound, carries the core meaning)
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Fugenelement
+    article: das
+    plural: Fugenelemente
+    en: linking element (between compound members, e.g. -s-, -n-, -en-, -er-)
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Verwandlung
+    article: die
+    plural: Verwandlungen
+    en: transformation
+    pos: noun
+    tags: [change, abstract]
+    core: true
+  - de: Zerstörung
+    article: die
+    plural: Zerstörungen
+    en: destruction
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Entwicklung
+    article: die
+    plural: Entwicklungen
+    en: development
+    pos: noun
+    tags: [change, abstract]
+    core: true
+  - de: Erfahrung
+    article: die
+    plural: Erfahrungen
+    en: experience
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Misserfolg
+    article: der
+    plural: Misserfolge
+    en: failure
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Erlaubnis
+    article: die
+    plural: Erlaubnisse
+    en: permission
+    pos: noun
+    tags: [abstract]
+    core: true
