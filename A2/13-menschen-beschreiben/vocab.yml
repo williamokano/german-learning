@@ -1,0 +1,495 @@
+# Reviewed from A2/13 lesson.md §4 Wortschatz.
+# Bootstrapped with build/import-vocab.ts (V2-parser draft). The parser
+# extracted all 59 entries across the four §4 tables (Aussehen / Charakter /
+# Familie / Verben), but flag-by-flag cleanup was needed:
+#
+#   1. Adjectives (22): parser still emits a stale reviewNote
+#      "adjective — confirm pos / fill gloss" when the gloss happens to be
+#      filled in. That note is a V2 working-note for the human reviewer;
+#      once needsReview is false, the note must go (CommittedVocabSet invariant).
+#   2. `offen` / `schüchtern`: parsed as `verb` because they end in "-en".
+#      Both are predicative adjectives (used after *sein*).
+#   3. `aussehen`: parser read the "sieht … aus" footnote as the English gloss.
+#      Correct gloss is "to look (like)"; tags: verb, separable (trennbar),
+#      strong (e→ie).
+#   4. `erzählen` / `kennenlernen` / `meinen` / `vorstellen`: parser picked the
+#      "Perfekt" column header value (e.g. "hat erzählt") as the gloss instead
+#      of the "Meaning" column. Correct glosses from the table's middle column.
+#   5. `sich (Dat) anfreunden`: parser left the (Dat) annotation glued to the
+#      lemma. Cleaned to `sich anfreunden`, changed pos from `phrase` → `verb`,
+#      added `reflexive` tag.
+#   6. `Verwandten`: parser flagged the missing plural with "check plural", but
+#      *die Verwandten* is a Plural-tantum (the lesson explicitly marks "(pl.)"
+#      in the lemma cell). `plural: null` is correct, no review needed.
+#
+# Tag taxonomy mirrors the A1/02 + A1/03 gold standards (issue #337):
+#   - all body / family nouns tagged `[<domain>, concrete]`
+#   - adjectives tagged `[adjective]`
+#   - verbs tagged `[verb]` ± `[separable]` / `[reflexive]` / `[strong]`
+#
+# Section headers in lesson.md:
+#   Aussehen (appearance)                 — 10 body nouns
+#   Charaktereigenschaften (personality) — 22 adjectives
+#   Familie (family)                      — 19 nouns (incl. 1 Plural-tantum)
+#   Verben (verbs)                        — 8 verbs (1 reflexive)
+lesson: A2/13
+
+entries:
+  # ── Aussehen (appearance) ─────────────────────────────────────────────────
+  # Predicative-usage body nouns: *Er hat kurze Haare / blaue Augen*. All
+  # picturable (concrete). `das Haar` is singular; the plural *die Haare* is
+  # the common usage, but the lemma stays singular.
+  - de: Auge
+    article: das
+    plural: Augen
+    en: eye
+    pos: noun
+    tags: [body, concrete]
+    core: true
+    example: "Sie hat blaue Augen."
+  - de: Haar
+    article: das
+    plural: Haare
+    en: hair
+    pos: noun
+    tags: [body, concrete]
+    core: true
+    example: "Er hat kurze dunkle Haare."
+  - de: Nase
+    article: die
+    plural: Nasen
+    en: nose
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Mund
+    article: der
+    plural: Münder
+    en: mouth
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Bart
+    article: der
+    plural: Bärte
+    en: beard
+    pos: noun
+    tags: [body, concrete]
+    core: true
+    example: "Er trägt einen großen Bart."
+  - de: Kinn
+    article: das
+    plural: Kinne
+    en: chin
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Stirn
+    article: die
+    plural: Stirnen
+    en: forehead
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Figur
+    article: die
+    plural: Figuren
+    en: figure; build
+    pos: noun
+    tags: [body, concrete]
+    core: true
+    example: "Sie hat eine schlanke Figur."
+  - de: Größe
+    article: die
+    plural: Größen
+    en: height
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Brille
+    article: die
+    plural: Brillen
+    en: (pair of) glasses
+    pos: noun
+    tags: [body, concrete]
+    core: true
+    example: "Er trägt eine Brille."
+
+  # ── Charaktereigenschaften (personality) ─────────────────────────────────
+  # Used predicatively: *Er ist freundlich*. No article, no plural.
+  - de: freundlich
+    article: null
+    plural: null
+    en: friendly
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Meine Mutter ist sehr freundlich."
+  - de: nett
+    article: null
+    plural: null
+    en: nice; kind
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Sie ist sehr nett."
+  - de: lustig
+    article: null
+    plural: null
+    en: funny
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: humorvoll
+    article: null
+    plural: null
+    en: humorous
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Mein Kollege ist sehr humorvoll."
+  - de: ernst
+    article: null
+    plural: null
+    en: serious
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: ruhig
+    article: null
+    plural: null
+    en: calm; quiet
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: geduldig
+    article: null
+    plural: null
+    en: patient
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Er ist ein geduldiger Mensch."
+  - de: ungeduldig
+    article: null
+    plural: null
+    en: impatient
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: intelligent
+    article: null
+    plural: null
+    en: intelligent
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: klug
+    article: null
+    plural: null
+    en: clever; smart
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: fleißig
+    article: null
+    plural: null
+    en: hard-working
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: faul
+    article: null
+    plural: null
+    en: lazy
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Er ist ein bisschen faul."
+  - de: ehrlich
+    article: null
+    plural: null
+    en: honest
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Ich mag ehrliche Menschen."
+  - de: unehrlich
+    article: null
+    plural: null
+    en: dishonest
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: hilfsbereit
+    article: null
+    plural: null
+    en: helpful
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Marko ist sehr hilfsbereit."
+  - de: zuverlässig
+    article: null
+    plural: null
+    en: reliable
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: kreativ
+    article: null
+    plural: null
+    en: creative
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: sportlich
+    article: null
+    plural: null
+    en: sporty; athletic
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Sie ist sehr sportlich."
+  - de: offen
+    article: null
+    plural: null
+    en: open; outgoing
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: schüchtern
+    article: null
+    plural: null
+    en: shy
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: stur
+    article: null
+    plural: null
+    en: stubborn
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Mein Onkel ist ziemlich stur."
+  - de: eingebildet
+    article: null
+    plural: null
+    en: conceited; big-headed
+    pos: adjective
+    tags: [adjective]
+    core: true
+
+  # ── Familie (family) ─────────────────────────────────────────────────────
+  - de: Familie
+    article: die
+    plural: Familien
+    en: family
+    pos: noun
+    tags: [family, concrete]
+    core: true
+    example: "Das ist meine Familie."
+  - de: Vater
+    article: der
+    plural: Väter
+    en: father
+    pos: noun
+    tags: [family, concrete]
+    core: true
+    example: "Mein Vater ist Lehrer."
+  - de: Mutter
+    article: die
+    plural: Mütter
+    en: mother
+    pos: noun
+    tags: [family, concrete]
+    core: true
+    example: "Meine Mutter kommt aus Wien."
+  - de: Bruder
+    article: der
+    plural: Brüder
+    en: brother
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Schwester
+    article: die
+    plural: Schwestern
+    en: sister
+    pos: noun
+    tags: [family, concrete]
+    core: true
+    example: "Ich habe eine kleine Schwester."
+  - de: Onkel
+    article: der
+    plural: Onkel
+    en: uncle
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Tante
+    article: die
+    plural: Tanten
+    en: aunt
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Cousin
+    article: der
+    plural: Cousins
+    en: (male) cousin
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Cousine
+    article: die
+    plural: Cousinen
+    en: (female) cousin
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Ehemann
+    article: der
+    plural: Ehemänner
+    en: husband
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Ehefrau
+    article: die
+    plural: Ehefrauen
+    en: wife
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Freund
+    article: der
+    plural: Freunde
+    en: (boy)friend; friend (m)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Freundin
+    article: die
+    plural: Freundinnen
+    en: (girl)friend; friend (f)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Kind
+    article: das
+    plural: Kinder
+    en: child
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Sohn
+    article: der
+    plural: Söhne
+    en: son
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Tochter
+    article: die
+    plural: Töchter
+    en: daughter
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Großvater
+    article: der
+    plural: Großväter
+    en: grandfather
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Großmutter
+    article: die
+    plural: Großmütter
+    en: grandmother
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  # Plural-tantum: singular *der Verwandte* exists but is rare at A2. The
+  # lesson presents the lemma as plural-only ("die Verwandten (pl.)").
+  - de: Verwandte
+    article: die
+    plural: null
+    en: relatives; relations
+    pos: noun
+    tags: [family, concrete]
+    core: true
+    example: "Wir besuchen unsere Verwandten."
+
+  # ── Verben (verbs) ───────────────────────────────────────────────────────
+  # aussehen is separable (sieht … aus) AND strong (e→ie: er sieht … aus,
+  # hat ausgesehen). It governs Dativ when comparing: *Er sieht seinem Bruder
+  # ähnlich.*
+  - de: aussehen
+    article: null
+    plural: null
+    en: to look (like)
+    pos: verb
+    tags: [verb, separable, strong]
+    core: true
+    example: "Wie sieht sie aus?"
+  - de: beschreiben
+    article: null
+    plural: null
+    en: to describe
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Kannst du ihn beschreiben?"
+  - de: erzählen
+    article: null
+    plural: null
+    en: to tell; narrate
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Erzähl mir von deinem Kollegen!"
+  - de: kennenlernen
+    article: null
+    plural: null
+    en: to get to know; meet
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Ich habe ihn gestern kennengelernt."
+  # Reflexive verb: *sich (Dat) anfreunden mit + Dat*. The lesson's "(Dat)"
+  # marks the case of *sich*; not part of the lemma.
+  - de: sich anfreunden
+    article: null
+    plural: null
+    en: to make friends
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Sie hat sich schnell angefreundet."
+  - de: mögen
+    article: null
+    plural: null
+    en: to like
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich mag meinen neuen Kollegen."
+  - de: meinen
+    article: null
+    plural: null
+    en: to mean; think
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Was meinst du?"
+  - de: vorstellen
+    article: null
+    plural: null
+    en: to introduce (oneself); imagine
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Darf ich mich vorstellen?"
