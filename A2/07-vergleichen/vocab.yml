@@ -1,0 +1,369 @@
+# Reviewed from A2/07 lesson.md §4 Wortschatz. Bootstrapped with build/import-vocab.ts.
+# Tag taxonomy mirrors the A1/02 (adjectives) and A1/03 (nouns) gold standards.
+#
+# Note: the parser dropped several things — fixed below:
+#   1. The §4.1 adjective table is `| Adjektiv | English | Comparative | Superlative |`
+#      (4-col). The parser captured `de` + the shortest English cell correctly, but
+#      the comparative/superlative forms had nowhere to live. Stored in `example:`
+#      per the F1 review convention.
+#   2. `findEnglishCellIndex` heuristics picked the comparative as the gloss for
+#      rows where the base-form English cell was longer than the comparative
+#      ("teuer / teurer", "leicht / leichter", …). Fixed per lemma.
+#   3. `günstig / billig` were merged into one phrase entry with double space
+#      (the parser strips `/` from cells). Split into two lemma entries.
+#   4. The descriptive prose line beginning "Umlaut changes: many one-syllable
+#      adjectives add an umlaut in comparative and superlative (…)" was
+#      captured as a single `pos: phrase` entry with empty gloss. Deleted —
+#      it's grammar commentary, not vocab. The umlaut pairs themselves are
+#      preserved as `example:` notes on each umlaut-taking lemma.
+#   5. Several adjectives ending in single `-n` (klein, modern, schön, gern)
+#      got `tags: [verb]` from the parser's regex `/^[a-zäöü][a-zäöüß]*(en|n)$/`.
+#      Fixed to `tags: [adjective]` (gern also gets `comparative` for its
+#      irregular lieber/am liebsten forms).
+#   6. The verb table's "Notes" column carried Perfekt forms ("ist gestiegen",
+#      "hat übertreffen") as the English gloss. Replaced with proper to-infinitives.
+#
+# Section headers in lesson.md:
+#   Adjektive für Vergleiche (adjectives for comparing) — 21 rows; the
+#     günstig/billig synonym pair counts as two.
+#   Nomen für Statistiken und Einkaufen — 14 nouns.
+#   Verben und Ausdrücke (verbs and expressions) — 5 verbs + 1 phrase.
+lesson: A2/07
+
+entries:
+  # ── Adjektive für Vergleiche (adjectives for comparing) ───────────────────
+  # Base → Comparative → Superlative stored in `example:` (parser doesn't capture
+  # 4th-col superlative or 3rd-col comparative anywhere). Umlaut / irregular
+  # forms flagged in parentheses.
+  - de: schnell
+    article: null
+    plural: null
+    en: fast
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "schneller / am schnellsten"
+  - de: langsam
+    article: null
+    plural: null
+    en: slow
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "langsamer / am langsamsten"
+  - de: groß
+    article: null
+    plural: null
+    en: big
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "größer / am größten (umlaut)"
+  - de: klein
+    article: null
+    plural: null
+    en: small
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "kleiner / am kleinsten"
+  - de: teuer
+    article: null
+    plural: null
+    en: expensive
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "teurer / am teuersten (drops inner -e-)"
+  - de: günstig
+    article: null
+    plural: null
+    en: affordable
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "günstiger / am günstigsten"
+  - de: billig
+    article: null
+    plural: null
+    en: cheap
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "billiger / am billigsten (synonym of günstig)"
+  - de: leicht
+    article: null
+    plural: null
+    en: light; easy
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "leichter / am leichtesten"
+  - de: schwer
+    article: null
+    plural: null
+    en: heavy; difficult
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "schwerer / am schwersten"
+  - de: neu
+    article: null
+    plural: null
+    en: new
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "neuer / am neuesten"
+  - de: alt
+    article: null
+    plural: null
+    en: old
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "älter / am ältesten (umlaut)"
+  - de: jung
+    article: null
+    plural: null
+    en: young
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "jünger / am jüngsten (umlaut)"
+  - de: warm
+    article: null
+    plural: null
+    en: warm
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "wärmer / am wärmsten (umlaut)"
+  - de: kalt
+    article: null
+    plural: null
+    en: cold
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "kälter / am kältesten (umlaut)"
+  - de: modern
+    article: null
+    plural: null
+    en: modern
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "moderner / am modernsten"
+  - de: elegant
+    article: null
+    plural: null
+    en: elegant
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "eleganter / am elegantesten (extra -e- after -t)"
+  - de: laut
+    article: null
+    plural: null
+    en: loud
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "lauter / am lautesten"
+  - de: ruhig
+    article: null
+    plural: null
+    en: quiet
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "ruhiger / am ruhigsten"
+  - de: schön
+    article: null
+    plural: null
+    en: beautiful; nice
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "schöner / am schönsten"
+  - de: gut
+    article: null
+    plural: null
+    en: good
+    pos: adjective
+    tags: [adjective, comparative]
+    core: true
+    example: "besser / am besten (irregular)"
+  - de: viel
+    article: null
+    plural: null
+    en: much; many
+    pos: adjective
+    tags: [adjective, comparative]
+    core: true
+    example: "mehr / am meisten (irregular)"
+  - de: gern
+    article: null
+    plural: null
+    en: gladly; like to
+    pos: adjective
+    tags: [adjective, comparative]
+    core: true
+    example: "lieber / am liebsten (irregular — strictly an adverb)"
+
+  # ── Nomen für Statistiken und Einkaufen (nouns for statistics & shopping) ─
+  # Concrete = picturable (F6 picture-association eligible); abstract = not.
+  - de: Preis
+    article: der
+    plural: Preise
+    en: price
+    pos: noun
+    tags: [shopping, concrete]
+    core: true
+  - de: Modell
+    article: das
+    plural: Modelle
+    en: model
+    pos: noun
+    tags: [shopping, concrete]
+    core: true
+  - de: Qualität
+    article: die
+    plural: Qualitäten
+    en: quality
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Akku
+    article: der
+    plural: Akkus
+    en: battery (rechargeable)
+    pos: noun
+    tags: [technology, concrete]
+    core: true
+  - de: Vergleich
+    article: der
+    plural: Vergleiche
+    en: comparison
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Einwohnerzahl
+    article: die
+    plural: Einwohnerzahlen
+    en: population count
+    pos: noun
+    tags: [statistics, abstract]
+    core: true
+  - de: Einwohner
+    article: der
+    plural: null
+    en: inhabitant (m)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+    example: "Deutschland hat 83 Millionen Einwohner."
+  - de: Einwohnerin
+    article: die
+    plural: Einwohnerinnen
+    en: inhabitant (f)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Fläche
+    article: die
+    plural: Flächen
+    en: area; surface
+    pos: noun
+    tags: [geography, concrete]
+    core: true
+  - de: Entfernung
+    article: die
+    plural: Entfernungen
+    en: distance
+    pos: noun
+    tags: [geography, abstract]
+    core: true
+  - de: Unterschied
+    article: der
+    plural: Unterschiede
+    en: difference
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Ähnlichkeit
+    article: die
+    plural: Ähnlichkeiten
+    en: similarity
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Vorteil
+    article: der
+    plural: Vorteile
+    en: advantage
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Nachteil
+    article: der
+    plural: Nachteile
+    en: disadvantage
+    pos: noun
+    tags: [abstract]
+    core: true
+
+  # ── Verben und Ausdrücke (verbs and expressions) ──────────────────────────
+  # Perfekt forms (hat/ist + Partizip II) preserved in `example:` since they're
+  # in the lesson's Notes column and the parser mis-routed them to `en`.
+  - de: vergleichen
+    article: null
+    plural: null
+    en: to compare
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich vergleiche die Preise. (hat verglichen)"
+  - de: bevorzugen
+    article: null
+    plural: null
+    en: to prefer
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich bevorzuge das blaue Modell. (hat bevorzugt)"
+  - de: übertreffen
+    article: null
+    plural: null
+    en: to surpass, exceed
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Hamburg übertrifft Dresden bei den Museen. (hat übertroffen)"
+  - de: steigen
+    article: null
+    plural: null
+    en: to rise, increase
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Die Preise steigen. (ist gestiegen)"
+  - de: sinken
+    article: null
+    plural: null
+    en: to fall, decrease
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Die Temperaturen sinken. (ist gesunken)"
+
+  # ── Phrase ───────────────────────────────────────────────────────────────
+  - de: es kommt darauf an
+    article: null
+    plural: null
+    en: it depends
+    pos: phrase
+    tags: [phrase]
+    core: true
+    example: "Das kommt darauf an, wie viel du ausgeben willst."
