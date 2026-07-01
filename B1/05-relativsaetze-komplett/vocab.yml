@@ -1,0 +1,166 @@
+# Reviewed from B1/05 lesson.md §4 Wortschatz.
+# Note: V2 parser dropped the 4-col verb+prep table (no der/die/das header → non-gender
+# table, skipped entirely) and parsed only the 12-noun table. Header text leaked into
+# the entries as a phrase. `Eindruck` plural bled into en (`die Eindrücke`).
+# `Empfehlungsschreiben` was false-umlauted to `Empfehlüngsschreiben`. All 8 verb+prep
+# entries written by hand.
+#
+# Section headers in lesson.md:
+#   Verben für Relativsätze mit Präpositionen   — 8 verbs (verb + preposition + case)
+#   Nomen für Definitionen und Beschreibungen    — 12 nouns
+lesson: B1/05
+
+entries:
+  # ── Verben für Relativsätze mit Präpositionen — 8 verbs ────────────────────
+  - de: kümmern
+    article: null
+    plural: null
+    en: to take care of
+    pos: verb
+    tags: [verb, prep-um, accusative, reflexive]
+    core: true
+    example: "die Kunden, um die er sich kümmert"
+  - de: abhängen
+    article: null
+    plural: null
+    en: to depend on
+    pos: verb
+    tags: [verb, prep-von, dative, separable]
+    core: true
+    example: "das Ergebnis, von dem alles abhängt"
+  - de: bestehen
+    article: null
+    plural: null
+    en: to consist of
+    pos: verb
+    tags: [verb, prep-aus, dative]
+    core: true
+    example: "das Team, aus dem das Startup besteht"
+  - de: verfügen
+    article: null
+    plural: null
+    en: to have at one's disposal
+    pos: verb
+    tags: [verb, prep-über, accusative]
+    core: true
+    example: "die Ressourcen, über die sie verfügen"
+  - de: verlassen
+    article: null
+    plural: null
+    en: to rely on
+    pos: verb
+    tags: [verb, prep-auf, accusative, reflexive]
+    core: true
+    example: "die Person, auf die man sich verlassen kann"
+  - de: achten
+    article: null
+    plural: null
+    en: to pay attention to
+    pos: verb
+    tags: [verb, prep-auf, accusative]
+    core: true
+    example: "die Details, auf die man achten muss"
+  - de: beitragen
+    article: null
+    plural: null
+    en: to contribute to
+    pos: verb
+    tags: [verb, prep-zu, dative, separable, strong]
+    core: true
+    example: "das Projekt, zu dem sie beigetragen hat"
+  - de: bewerben
+    article: null
+    plural: null
+    en: to apply for
+    pos: verb
+    tags: [verb, prep-um, accusative, reflexive]
+    core: true
+    example: "die Stelle, um die sie sich bewirbt"
+
+  # ── Nomen für Definitionen und Beschreibungen — 12 nouns ───────────────────
+  - de: Formulierung
+    article: die
+    plural: Formulierungen
+    en: formulation; phrasing
+    pos: noun
+    tags: [communication, document]
+    core: true
+  - de: Beschreibung
+    article: die
+    plural: Beschreibungen
+    en: description
+    pos: noun
+    tags: [communication, document]
+    core: true
+  - de: Merkmal
+    article: das
+    plural: Merkmale
+    en: characteristic; feature
+    pos: noun
+    tags: [characteristic]
+    core: true
+  - de: Eigenschaft
+    article: die
+    plural: Eigenschaften
+    en: property; quality
+    pos: noun
+    tags: [characteristic]
+    core: true
+  - de: Hinweis
+    article: der
+    plural: Hinweise
+    en: hint; note; pointer
+    pos: noun
+    tags: [communication]
+    core: true
+  - de: Zuverlässigkeit
+    article: die
+    plural: null
+    en: reliability
+    pos: noun
+    tags: [virtue, abstract]
+    core: true
+    example: "Zuverlässigkeit ist mir wichtig."
+  - de: Eindruck
+    article: der
+    plural: Eindrücke
+    en: impression
+    pos: noun
+    tags: [perception]
+    core: true
+    example: "Er machte einen guten Eindruck."
+  - de: Bewerbungsunterlagen
+    article: die
+    plural: null
+    en: application documents
+    pos: noun
+    tags: [career, document, plural-tantum]
+    core: true
+  - de: Anmerkung
+    article: die
+    plural: Anmerkungen
+    en: comment; annotation; remark
+    pos: noun
+    tags: [communication]
+    core: true
+  - de: Empfehlungsschreiben
+    article: das
+    plural: null
+    en: letter of recommendation
+    pos: noun
+    tags: [career, document]
+    core: true
+  - de: Randbezirk
+    article: der
+    plural: Randbezirke
+    en: outlying district
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Nachfrage
+    article: die
+    plural: Nachfragen
+    en: demand
+    pos: noun
+    tags: [business, market]
+    core: true
