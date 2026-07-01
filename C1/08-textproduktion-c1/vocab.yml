@@ -1,0 +1,145 @@
+# Reviewed from C1/08 lesson.md §4 Wortschatz.
+# Note: both tables use German-only paraphrase — no draft to patch, every entry
+# hand-derived and hand-translated from source. Some table-1 nouns (These,
+# Argument, Gegenargument, Schlussfolgerung) share headwords with B2/12 and C1/05
+# — kept here since the source does NOT flag them as backward references (unlike
+# C1/06's explicit "siehe C1/03"); this lesson re-teaches them as text-production
+# building blocks in a new pedagogical context (essay/abstract structure).
+#
+# Section headers in lesson.md:
+#   Textsorten und ihre Bestandteile              — 10 nouns (text-type structure)
+#   Kohärenzmittel und argumentative Wendungen     — 8 nouns (coherence devices)
+lesson: C1/08
+
+entries:
+  # ── Textsorten und ihre Bestandteile — 10 nouns ────────────────────────────
+  - de: Erörterung
+    article: die
+    plural: Erörterungen
+    en: discursive essay (argumentative text systematically testing a thesis)
+    pos: noun
+    tags: [text-type, document, abstract]
+    core: true
+  - de: These
+    article: die
+    plural: Thesen
+    en: thesis (the main claim to be substantiated)
+    pos: noun
+    tags: [text-type, argument, abstract]
+    core: true
+  - de: Argument
+    article: das
+    plural: Argumente
+    en: argument (a reason for or against a position)
+    pos: noun
+    tags: [text-type, argument, abstract]
+    core: true
+  - de: Gegenargument
+    article: das
+    plural: Gegenargumente
+    en: counter-argument
+    pos: noun
+    tags: [text-type, argument, abstract]
+    core: true
+  - de: Stellungnahme
+    article: die
+    plural: Stellungnahmen
+    en: (personal, reasoned) statement of position
+    pos: noun
+    tags: [text-type, document, abstract]
+    core: true
+  - de: Zusammenfassung
+    article: die
+    plural: Zusammenfassungen
+    en: summary (a shortened, neutral rendering of a text)
+    pos: noun
+    tags: [text-type, document, abstract]
+    core: true
+  - de: Abstract
+    article: das
+    plural: Abstracts
+    en: abstract (a short, structured summary of an academic text)
+    pos: noun
+    tags: [text-type, document, science, abstract]
+    core: true
+  - de: Einleitung
+    article: die
+    plural: Einleitungen
+    en: introduction
+    pos: noun
+    tags: [text-type, document, abstract]
+    core: true
+  - de: Hauptteil
+    article: der
+    plural: Hauptteile
+    en: main body (the argumentative core of a text)
+    pos: noun
+    tags: [text-type, document, abstract]
+    core: true
+  - de: Schlussfolgerung
+    article: die
+    plural: Schlussfolgerungen
+    en: conclusion (the balanced result of the argumentation)
+    pos: noun
+    tags: [text-type, argument, abstract]
+    core: true
+
+  # ── Kohärenzmittel und argumentative Wendungen — 8 nouns ───────────────────
+  - de: Konnektor
+    article: der
+    plural: Konnektoren
+    en: connector (a signal word linking sentences)
+    pos: noun
+    tags: [text-type, coherence, abstract]
+    core: true
+    example: "einerseits, weil, zwar; also called das Bindewort"
+  - de: Überleitung
+    article: die
+    plural: Überleitungen
+    en: transition (a sentence introducing a new section)
+    pos: noun
+    tags: [text-type, coherence, abstract]
+    core: true
+  - de: Rückverweis
+    article: der
+    plural: Rückverweise
+    en: back-reference (referring to earlier content)
+    pos: noun
+    tags: [text-type, coherence, abstract]
+    core: true
+    example: "wie oben dargelegt, jener, besagte"
+  - de: Themenführung
+    article: die
+    plural: Themenführungen
+    en: topic sentence (introducing what follows)
+    pos: noun
+    tags: [text-type, coherence, abstract]
+    core: true
+  - de: Pro und Contra
+    article: das
+    plural: null
+    en: pros and cons
+    pos: noun
+    tags: [text-type, argument, abstract]
+    core: true
+  - de: Abwägung
+    article: die
+    plural: Abwägungen
+    en: weighing up (careful examination of arguments)
+    pos: noun
+    tags: [text-type, argument, abstract]
+    core: true
+  - de: Verweis
+    article: der
+    plural: Verweise
+    en: reference (to a source or earlier content)
+    pos: noun
+    tags: [text-type, coherence, abstract]
+    core: true
+  - de: Resümee
+    article: das
+    plural: Resümees
+    en: résumé; brief summary (at the end of a text)
+    pos: noun
+    tags: [text-type, document, abstract]
+    core: true
