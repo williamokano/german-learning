@@ -1,0 +1,238 @@
+# Reviewed from B1/07 lesson.md §4 Wortschatz.
+# Note: V2 parser captured most entries. 4 umlaut+er plurals (`Eigentum`→`Eigentümer`,
+# `Umzug`→`Umzüge`, `Zustand`→`Zustände`, `Schloss`→`Schlösser`) were lost or
+# wrong — V2's best-effort umlaut only handles a/o/u vowels; `i`→`ü` (Eigentum) is
+# out of scope. Hand-corrected. `Artikel` false-umlauted to `Ärtikel`. n-Dekl.
+# footnote got parsed as phrase. `empfehlen` de field had trailing ` empfiehlt`
+# annotation. All hand-fixed.
+#
+# Section headers in lesson.md:
+#   Besitz und formelle Beschreibung (ownership)         — 10 nouns (5 m/f pairs)
+#   Akademische und formelle Sprache                     — 10 nouns (4 n-Dekl.)
+#   Verben für formelle Texte                            — 5 verbs
+lesson: B1/07
+
+entries:
+  # ── Besitz und formelle Beschreibung — 10 nouns ────────────────────────────
+  - de: Verkäufer
+    article: der
+    plural: null
+    en: seller (male)
+    pos: noun
+    tags: [person, concrete, career]
+    core: true
+    example: "Der Verkäufer hat das Auto verkauft."
+  - de: Verkäuferin
+    article: die
+    plural: Verkäuferinnen
+    en: seller (female)
+    pos: noun
+    tags: [person, concrete, career]
+    core: true
+  - de: Vorbesitzer
+    article: der
+    plural: null
+    en: previous owner (male)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Vorbesitzerin
+    article: die
+    plural: Vorbesitzerinnen
+    en: previous owner (female)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Besitzer
+    article: der
+    plural: null
+    en: owner (male)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Besitzerin
+    article: die
+    plural: Besitzerinnen
+    en: owner (female)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Besitz
+    article: der
+    plural: Besitze
+    en: possession; property
+    pos: noun
+    tags: [abstract, legal]
+    core: true
+  - de: Zugehörigkeit
+    article: die
+    plural: null
+    en: belonging; affiliation
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Eigentum
+    article: das
+    plural: Eigentümer
+    en: property; ownership
+    pos: noun
+    tags: [abstract, legal]
+    core: true
+    example: "Das ist mein Eigentum."
+  - de: Umzug
+    article: der
+    plural: Umzüge
+    en: move; relocation
+    pos: noun
+    tags: [event, abstract]
+    core: true
+    example: "Wann ist dein Umzug?"
+  - de: Schnäppchen
+    article: das
+    plural: null
+    en: bargain
+    pos: noun
+    tags: [concrete]
+    core: true
+    example: "Das Schnäppchen war günstig."
+  - de: Zustand
+    article: der
+    plural: Zustände
+    en: condition; state
+    pos: noun
+    tags: [abstract]
+    core: true
+    example: "Das Auto ist in gutem Zustand."
+  - de: Schloss
+    article: das
+    plural: Schlösser
+    en: lock; castle
+    pos: noun
+    tags: [concrete]
+    core: true
+
+  # ── Akademische und formelle Sprache — 10 nouns ────────────────────────────
+  - de: Artikel
+    article: der
+    plural: null
+    en: article (academic/news)
+    pos: noun
+    tags: [academic, document]
+    core: true
+    example: "Der Artikel wurde veröffentlicht."
+  - de: Abstract
+    article: das
+    plural: Abstracts
+    en: abstract
+    pos: noun
+    tags: [academic, document]
+    core: true
+    example: "Bitte schicken Sie ein Abstract."
+  - de: Argumentation
+    article: die
+    plural: Argumentationen
+    en: argumentation; line of argument
+    pos: noun
+    tags: [academic, abstract]
+    core: true
+  - de: Wandel
+    article: der
+    plural: null
+    en: change; transformation
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Druck
+    article: der
+    plural: null
+    en: pressure
+    pos: noun
+    tags: [abstract]
+    core: true
+    example: "Ich stehe unter Druck."
+  - de: Symposium
+    article: das
+    plural: Symposien
+    en: symposium; conference
+    pos: noun
+    tags: [academic, event]
+    core: true
+  - de: Kollege
+    article: der
+    plural: Kollegen
+    en: colleague (male)
+    pos: noun
+    tags: [person, concrete, n-decl]
+    core: true
+    example: "Mein Kollege hilft mir."
+  - de: Kollegin
+    article: die
+    plural: Kolleginnen
+    en: colleague (female)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Mensch
+    article: der
+    plural: Menschen
+    en: person; human being
+    pos: noun
+    tags: [person, concrete, n-decl]
+    core: true
+    example: "Was für ein Mensch bist du?"
+  - de: Student
+    article: der
+    plural: Studenten
+    en: student (male)
+    pos: noun
+    tags: [person, concrete, n-decl]
+    core: true
+  - de: Herr
+    article: der
+    plural: Herren
+    en: gentleman; Mr.
+    pos: noun
+    tags: [person, concrete, n-decl]
+    core: true
+    example: "Guten Tag, Herr Schmidt."
+
+  # ── Verben für formelle Texte — 5 verbs ────────────────────────────────────
+  - de: überarbeiten
+    article: null
+    plural: null
+    en: to revise
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Ich überarbeite meinen Text."
+  - de: anmerken
+    article: null
+    plural: null
+    en: to note; to remark
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Darf ich etwas anmerken?"
+  - de: regieren
+    article: null
+    plural: null
+    en: to govern (case)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Diese Verben regieren den Akkusativ."
+  - de: empfehlen
+    article: null
+    plural: null
+    en: to recommend
+    pos: verb
+    tags: [verb, strong]
+    core: true
+    example: "Ich empfehle dieses Buch."
+  - de: prüfen
+    article: null
+    plural: null
+    en: to check; to test
+    pos: verb
+    tags: [verb]
+    core: true
