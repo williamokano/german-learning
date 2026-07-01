@@ -1,0 +1,450 @@
+# Reviewed from B1/08 lesson.md §4 Wortschatz.
+# Note: V2 parser classified the verb+prep+case table as a 2-col bilingual and used the
+# preposition column as the `en` field (so `denken` got `en: "an"`). All 35 verb entries
+# re-derived by hand, with each tagged by preposition + case so F2/F3 can later drive
+# prep-drill cards. The third column (Beispiel) was lost; example sentences added in
+# the `example:` field.
+#
+# Section headers in lesson.md:
+#   Verben mit festen Präpositionen — Vollständige B1-Liste  — 35 verbs (verb + prep + case)
+#   Gefühle und Reaktionen                                  — 10 nouns
+#   Interview- und Bewerbungswortschatz                     — 10 nouns
+lesson: B1/08
+
+entries:
+  # ── Verben mit festen Präpositionen — 35 verbs ────────────────────────────
+  # All entries tagged with their preposition + case for downstream drilling.
+
+  # an + Akkusativ
+  - de: denken
+    article: null
+    plural: null
+    en: to think (about)
+    pos: verb
+    tags: [verb, prep-an, accusative]
+    core: true
+    example: "Ich denke an den Film."
+  - de: erinnern
+    article: null
+    plural: null
+    en: to remember
+    pos: verb
+    tags: [verb, prep-an, accusative, reflexive]
+    core: true
+    example: "Erinnerst du dich daran?"
+  - de: glauben
+    article: null
+    plural: null
+    en: to believe (in)
+    pos: verb
+    tags: [verb, prep-an, accusative]
+    core: true
+    example: "Ich glaube an die Zukunft."
+
+  # an + Dativ
+  - de: teilnehmen
+    article: null
+    plural: null
+    en: to participate (in)
+    pos: verb
+    tags: [verb, prep-an, dative, separable]
+    core: true
+    example: "Er nimmt an dem Kurs teil."
+  - de: arbeiten
+    article: null
+    plural: null
+    en: to work (on)
+    pos: verb
+    tags: [verb, prep-an, dative]
+    core: true
+    example: "Sie arbeitet an dem Projekt."
+
+  # auf + Akkusativ
+  - de: warten
+    article: null
+    plural: null
+    en: to wait (for)
+    pos: verb
+    tags: [verb, prep-auf, accusative]
+    core: true
+    example: "Wir warten auf eine Antwort."
+  - de: freuen
+    article: null
+    plural: null
+    en: to look forward (to) / to be happy (about)
+    pos: verb
+    tags: [verb, prep-auf, accusative, prep-über, accusative, reflexive]
+    core: true
+    example: "Ich freue mich auf das Wochenende / darüber."
+  - de: verlassen
+    article: null
+    plural: null
+    en: to rely (on)
+    pos: verb
+    tags: [verb, prep-auf, accusative, reflexive]
+    core: true
+    example: "Ich verlasse mich auf dich."
+  - de: reagieren
+    article: null
+    plural: null
+    en: to react (to)
+    pos: verb
+    tags: [verb, prep-auf, accusative]
+    core: true
+    example: "Wie reagierst du darauf?"
+  - de: achten
+    article: null
+    plural: null
+    en: to pay attention (to)
+    pos: verb
+    tags: [verb, prep-auf, accusative]
+    core: true
+    example: "Ich achte auf die Qualität."
+
+  # auf + Dativ
+  - de: bestehen
+    article: null
+    plural: null
+    en: to insist (on)
+    pos: verb
+    tags: [verb, prep-auf, dative]
+    core: true
+    example: "Er besteht auf seinem Recht."
+
+  # für + Akkusativ
+  - de: interessieren
+    article: null
+    plural: null
+    en: to be interested (in)
+    pos: verb
+    tags: [verb, prep-für, accusative, reflexive]
+    core: true
+    example: "Sie interessiert sich für Kunst."
+  - de: bedanken
+    article: null
+    plural: null
+    en: to thank (for)
+    pos: verb
+    tags: [verb, prep-für, accusative, reflexive]
+    core: true
+    example: "Ich bedanke mich dafür."
+  - de: entscheiden
+    article: null
+    plural: null
+    en: to decide (on/for)
+    pos: verb
+    tags: [verb, prep-für, accusative, reflexive]
+    core: true
+    example: "Sie entscheidet sich dafür."
+  - de: sorgen
+    article: null
+    plural: null
+    en: to take care (of)
+    pos: verb
+    tags: [verb, prep-für, accusative]
+    core: true
+    example: "Er sorgt für die Familie."
+
+  # mit + Dativ
+  - de: beschäftigen
+    article: null
+    plural: null
+    en: to deal (with)
+    pos: verb
+    tags: [verb, prep-mit, dative, reflexive]
+    core: true
+    example: "Ich beschäftige mich damit."
+  - de: rechnen
+    article: null
+    plural: null
+    en: to expect (from)
+    pos: verb
+    tags: [verb, prep-mit, dative]
+    core: true
+    example: "Wir rechnen damit."
+  - de: sprechen
+    article: null
+    plural: null
+    en: to speak (with / about)
+    pos: verb
+    tags: [verb, prep-mit, dative, prep-über, accusative]
+    core: true
+    example: "Ich spreche mit ihr / über das Thema."
+
+  # über + Akkusativ
+  - de: ärgern
+    article: null
+    plural: null
+    en: to be annoyed (about)
+    pos: verb
+    tags: [verb, prep-über, accusative, reflexive]
+    core: true
+    example: "Er ärgert sich darüber."
+  - de: nachdenken
+    article: null
+    plural: null
+    en: to think (about)
+    pos: verb
+    tags: [verb, prep-über, accusative, separable]
+    core: true
+    example: "Ich denke darüber nach."
+  - de: beschweren
+    article: null
+    plural: null
+    en: to complain (about)
+    pos: verb
+    tags: [verb, prep-über, accusative, reflexive]
+    core: true
+    example: "Er beschwert sich darüber."
+
+  # um + Akkusativ
+  - de: kümmern
+    article: null
+    plural: null
+    en: to take care (of)
+    pos: verb
+    tags: [verb, prep-um, accusative, reflexive]
+    core: true
+    example: "Sie kümmert sich darum."
+  - de: bewerben
+    article: null
+    plural: null
+    en: to apply (for)
+    pos: verb
+    tags: [verb, prep-um, accusative, prep-für, reflexive]
+    core: true
+    example: "Er bewirbt sich darum / dafür."
+  - de: bitten
+    article: null
+    plural: null
+    en: to ask (for)
+    pos: verb
+    tags: [verb, prep-um, accusative, strong]
+    core: true
+    example: "Ich bitte Sie darum."
+
+  # von + Dativ
+  - de: träumen
+    article: null
+    plural: null
+    en: to dream (of)
+    pos: verb
+    tags: [verb, prep-von, dative]
+    core: true
+    example: "Ich träume davon."
+  - de: abhängen
+    article: null
+    plural: null
+    en: to depend (on)
+    pos: verb
+    tags: [verb, prep-von, dative, separable]
+    core: true
+    example: "Es hängt davon ab."
+  - de: verabschieden
+    article: null
+    plural: null
+    en: to say goodbye (to)
+    pos: verb
+    tags: [verb, prep-von, dative, reflexive]
+    core: true
+    example: "Sie verabschiedet sich davon."
+
+  # vor + Dativ
+  - de: fürchten
+    article: null
+    plural: null
+    en: to be afraid (of)
+    pos: verb
+    tags: [verb, prep-vor, dative, reflexive, strong]
+    core: true
+    example: "Er fürchtet sich davor."
+  - de: warnen
+    article: null
+    plural: null
+    en: to warn (about)
+    pos: verb
+    tags: [verb, prep-vor, dative, accusative]
+    core: true
+    example: "Ich warne dich davor."
+
+  # zu + Dativ
+  - de: gehören
+    article: null
+    plural: null
+    en: to belong (to)
+    pos: verb
+    tags: [verb, prep-zu, dative]
+    core: true
+    example: "Das gehört dazu."
+  - de: beitragen
+    article: null
+    plural: null
+    en: to contribute (to)
+    pos: verb
+    tags: [verb, prep-zu, dative, separable, strong]
+    core: true
+    example: "Es trägt dazu bei."
+  - de: führen
+    article: null
+    plural: null
+    en: to lead (to)
+    pos: verb
+    tags: [verb, prep-zu, dative]
+    core: true
+    example: "Das führt dazu."
+
+  # Special forms (idiomatic expressions)
+  - de: überzeugt
+    article: null
+    plural: null
+    en: to be convinced (of)
+    pos: adjective
+    tags: [adjective, prep-von, dative, idiomatic]
+    core: true
+    example: "Ich bin davon überzeugt."
+
+  # ── Gefühle und Reaktionen — 10 nouns ─────────────────────────────────────
+  - de: Meinung
+    article: die
+    plural: Meinungen
+    en: opinion
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+    example: "Meiner Meinung nach…"
+  - de: Reaktion
+    article: die
+    plural: Reaktionen
+    en: reaction
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+  - de: Gefühl
+    article: das
+    plural: Gefühle
+    en: feeling
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+  - de: Überzeugung
+    article: die
+    plural: Überzeugungen
+    en: conviction; belief
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+  - de: Einstellung
+    article: die
+    plural: Einstellungen
+    en: attitude
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+  - de: Begeisterung
+    article: die
+    plural: null
+    en: enthusiasm
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+  - de: Enttäuschung
+    article: die
+    plural: Enttäuschungen
+    en: disappointment
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+  - de: Neugier
+    article: die
+    plural: null
+    en: curiosity
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+  - de: Bedenken
+    article: die
+    plural: null
+    en: concerns; reservations
+    pos: noun
+    tags: [emotion, abstract, plural-tantum]
+    core: true
+  - de: Eindruck
+    article: der
+    plural: Eindrücke
+    en: impression
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+
+  # ── Interview- und Bewerbungswortschatz — 10 nouns ─────────────────────────
+  - de: Stelle
+    article: die
+    plural: Stellen
+    en: position; job
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Teilbereich
+    article: der
+    plural: Teilbereiche
+    en: sub-area; component area
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Anforderung
+    article: die
+    plural: Anforderungen
+    en: requirement
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Deadline
+    article: die
+    plural: Deadlines
+    en: deadline
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Struktur
+    article: die
+    plural: Strukturen
+    en: structure
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Priorität
+    article: die
+    plural: Prioritäten
+    en: priority
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Dokumentation
+    article: die
+    plural: Dokumentationen
+    en: documentation
+    pos: noun
+    tags: [career, document]
+    core: true
+  - de: Erfahrung
+    article: die
+    plural: Erfahrungen
+    en: experience
+    pos: noun
+    tags: [career, experience]
+    core: true
+  - de: Erfolg
+    article: der
+    plural: Erfolge
+    en: success
+    pos: noun
+    tags: [career, abstract]
+    core: true
+    example: "Das war ein großer Erfolg."
+  - de: Zusammenarbeit
+    article: die
+    plural: null
+    en: collaboration
+    pos: noun
+    tags: [career, abstract]
+    core: true
