@@ -1,0 +1,214 @@
+# Reviewed from B2/03 lesson.md §4 Wortschatz.
+# Note: V3.1+V3.2 fixed the two parser hiccups this lesson surfaced (Partizip II
+# column mistaken for gloss on verpassen/versäumen/erkennen; "(nur Sg.)" mistaken
+# for gloss on Bedauern/Reue/Schuld) — after those patches the draft was already
+# clean apart from cosmetic tag/pos polish and a footnote-noise line.
+#
+# Section headers in lesson.md:
+#   Bedauern, Vorwurf, Chance (regret, reproach, chance)   — 10 nouns
+#   Verben rund um Versäumnisse (verbs about missing out)  — 8 verbs (Partizip II noted)
+#   Adjektive und Adverbien für Spekulation                — 6 speculation markers
+lesson: B2/03
+
+entries:
+  # ── Bedauern, Vorwurf, Chance — 10 nouns ────────────────────────────────────
+  - de: Bedauern
+    article: das
+    plural: null
+    en: regret
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+    example: "Mein Bedauern ist groß."
+  - de: Vorwurf
+    article: der
+    plural: Vorwürfe
+    en: reproach; accusation
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+    example: "Er macht mir einen Vorwurf."
+  - de: Reue
+    article: die
+    plural: null
+    en: remorse
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+  - de: Chance
+    article: die
+    plural: Chancen
+    en: chance; opportunity
+    pos: noun
+    tags: [opportunity, abstract]
+    core: true
+  - de: Gelegenheit
+    article: die
+    plural: Gelegenheiten
+    en: opportunity; occasion
+    pos: noun
+    tags: [opportunity, abstract]
+    core: true
+  - de: Fehler
+    article: der
+    plural: null
+    en: mistake
+    pos: noun
+    tags: [abstract]
+    core: true
+    example: "Einen Fehler machen."
+  - de: Verzögerung
+    article: die
+    plural: Verzögerungen
+    en: delay
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Entscheidung
+    article: die
+    plural: Entscheidungen
+    en: decision
+    pos: noun
+    tags: [decision, abstract]
+    core: true
+  - de: Schuld
+    article: die
+    plural: null
+    en: guilt; fault
+    pos: noun
+    tags: [emotion, abstract]
+    core: true
+  - de: Folge
+    article: die
+    plural: Folgen
+    en: consequence
+    pos: noun
+    tags: [logic, consequence]
+    core: true
+
+  # ── Verben rund um Versäumnisse — 8 verbs ──────────────────────────────────
+  # Partizip II forms noted in `example:` since this lesson's grammar point
+  # (Konjunktiv II der Vergangenheit) hinges on them.
+  - de: verpassen
+    article: null
+    plural: null
+    en: to miss (a chance, a train)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Partizip II: verpasst"
+  - de: versäumen
+    article: null
+    plural: null
+    en: to neglect; to fail to do
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Partizip II: versäumt"
+  - de: bereuen
+    article: null
+    plural: null
+    en: to regret
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Partizip II: bereut"
+  - de: wagen
+    article: null
+    plural: null
+    en: to dare
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Partizip II: gewagt"
+  - de: ahnen
+    article: null
+    plural: null
+    en: to suspect; to have an inkling
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Partizip II: geahnt"
+  - de: beschweren
+    article: null
+    plural: null
+    en: to complain
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Partizip II: beschwert"
+  - de: vermeiden
+    article: null
+    plural: null
+    en: to avoid
+    pos: verb
+    tags: [verb, strong]
+    core: true
+    example: "Partizip II: vermieden (unregelmäßig)"
+  - de: erkennen
+    article: null
+    plural: null
+    en: to realize; to recognize
+    pos: verb
+    tags: [verb, strong]
+    core: true
+    example: "Partizip II: erkannt (unregelmäßig)"
+
+  # ── Adjektive und Adverbien für Spekulation — 6 markers ────────────────────
+  - de: vielleicht
+    article: null
+    plural: null
+    en: maybe; perhaps
+    pos: adverb
+    tags: [adverb, speculation]
+    core: true
+  - de: beinahe
+    article: null
+    plural: null
+    en: almost
+    pos: adverb
+    tags: [adverb, speculation]
+    core: true
+  - de: fast
+    article: null
+    plural: null
+    en: almost
+    pos: adverb
+    tags: [adverb, speculation]
+    core: true
+  - de: eigentlich
+    article: null
+    plural: null
+    en: actually; in fact
+    pos: adverb
+    tags: [adverb, speculation]
+    core: true
+  - de: im Nachhinein
+    article: null
+    plural: null
+    en: in hindsight
+    pos: phrase
+    tags: [phrase, speculation]
+    core: true
+  - de: bloß
+    article: null
+    plural: null
+    en: only; just (in wishes)
+    pos: adverb
+    tags: [adverb, speculation]
+    core: true
+    example: "Wäre ich bloß früher gegangen!"
+  - de: nur
+    article: null
+    plural: null
+    en: only; just (in wishes)
+    pos: adverb
+    tags: [adverb, speculation]
+    core: true
+  - de: anscheinend
+    article: null
+    plural: null
+    en: apparently
+    pos: adverb
+    tags: [adverb, speculation]
+    core: true
