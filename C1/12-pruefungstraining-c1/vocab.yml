@@ -1,0 +1,129 @@
+# Reviewed from C1/12 lesson.md §4 Wortschatz — FINAL C1 lesson, completes the
+# C1 rollout (12 of 12) and the full A1-C1 F1 keystone (68 lessons total).
+# Note: both tables use German-only paraphrase — no draft to patch, every entry
+# hand-derived and hand-translated from source. "Stellungnahme"/"Erörterung"
+# overlap C1/08, "Gliederung" overlaps C1/09 — kept per the established rule
+# (exam-format framing here differs from essay-writing/presentation framing there;
+# source doesn't flag any as backward references).
+#
+# Section headers in lesson.md:
+#   Prüfungssituation      — 9 nouns (exam-format vocabulary)
+#   Strategievokabular      — 7 nouns (exam-strategy vocabulary)
+lesson: C1/12
+
+entries:
+  # ── Prüfungssituation — 9 nouns ─────────────────────────────────────────────
+  - de: Modul
+    article: das
+    plural: Module
+    en: module (an independent exam section — reading, listening, writing, speaking)
+    pos: noun
+    tags: [exam, abstract]
+    core: true
+  - de: Aufgabenstellung
+    article: die
+    plural: Aufgabenstellungen
+    en: task instruction (the precise directive of what to do)
+    pos: noun
+    tags: [exam, abstract]
+    core: true
+  - de: Leseverstehen
+    article: das
+    plural: null
+    en: reading comprehension (the module where texts are read and questions answered)
+    pos: noun
+    tags: [exam, abstract]
+    core: true
+  - de: Hörverstehen
+    article: das
+    plural: null
+    en: listening comprehension (the module where audio is heard and questions answered)
+    pos: noun
+    tags: [exam, abstract]
+    core: true
+  - de: Stellungnahme
+    article: die
+    plural: Stellungnahmen
+    en: statement of position (a text in which one argues a reasoned position)
+    pos: noun
+    tags: [exam, text-type, abstract]
+    core: true
+  - de: Erörterung
+    article: die
+    plural: Erörterungen
+    en: discursive essay (a text weighing pros and cons and reaching a conclusion)
+    pos: noun
+    tags: [exam, text-type, abstract]
+    core: true
+  - de: Bewertungskriterien
+    article: die
+    plural: null
+    en: evaluation criteria (the standards examiners use to grade)
+    pos: noun
+    tags: [exam, plural-tantum, abstract]
+    core: true
+  - de: Bestehensgrenze
+    article: die
+    plural: Bestehensgrenzen
+    en: passing threshold (the minimum score to pass, here 60%)
+    pos: noun
+    tags: [exam, abstract]
+    core: true
+  - de: Erwartungshorizont
+    article: der
+    plural: null
+    en: expected answer key (the model solution against which answers are measured)
+    pos: noun
+    tags: [exam, abstract]
+    core: true
+
+  # ── Strategievokabular — 7 nouns ────────────────────────────────────────────
+  - de: Zeitmanagement
+    article: das
+    plural: null
+    en: time management (sensible allocation of available time)
+    pos: noun
+    tags: [exam, strategy, abstract]
+    core: true
+  - de: Selektivlesen
+    article: das
+    plural: null
+    en: selective reading (targeted reading for specific information)
+    pos: noun
+    tags: [exam, strategy, abstract]
+    core: true
+  - de: Globalverstehen
+    article: das
+    plural: null
+    en: global comprehension (grasping the main point without every detail)
+    pos: noun
+    tags: [exam, strategy, abstract]
+    core: true
+  - de: Schlüsselwort
+    article: das
+    plural: Schlüsselwörter
+    en: keyword (a central word that reveals the answer)
+    pos: noun
+    tags: [exam, strategy, abstract]
+    core: true
+  - de: Gliederung
+    article: die
+    plural: Gliederungen
+    en: outline (the planned structure of a text or talk)
+    pos: noun
+    tags: [exam, strategy, abstract]
+    core: true
+  - de: Eigenkorrektur
+    article: die
+    plural: Eigenkorrekturen
+    en: self-correction (checking one's own text for errors)
+    pos: noun
+    tags: [exam, strategy, abstract]
+    core: true
+  - de: Generalprobe
+    article: die
+    plural: Generalproben
+    en: dress rehearsal (a complete trial run before the real thing)
+    pos: noun
+    tags: [exam, strategy, abstract]
+    core: true
