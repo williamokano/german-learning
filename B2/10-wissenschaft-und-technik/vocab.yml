@@ -1,0 +1,395 @@
+# Reviewed from B2/10 lesson.md §4 Wortschatz.
+# Note: table 2's header ("Verb ⚠️ = unregelmäßig | Nominalisierung") isn't
+# recognized by the noun-verb-pair classifier (needs a cell matching exactly
+# "nomen"/"noun"; "Nominalisierung" doesn't match) — falls back to verb-english,
+# which (for a 2-col table) blindly uses column 2 as `en`, drafting the German
+# nominalized noun literally into the gloss field. All 14 pairs hand-derived
+# instead, verb + its own noun entry with proper English glosses. Tables 1+3 use
+# German paraphrase — hand-translated throughout.
+#
+# Section headers in lesson.md:
+#   Kernwortschatz: Forschung und Wissenschaft   — 18 nouns (2 m/f pairs)
+#   Verben und ihre Nominalisierung               — 14 verb+noun pairs (28 entries)
+#   Technologie und Digitalisierung                — 10 nouns
+lesson: B2/10
+
+entries:
+  # ── Kernwortschatz: Forschung und Wissenschaft — 18 nouns ──────────────────
+  - de: Forschung
+    article: die
+    plural: Forschungen
+    en: research
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Wissenschaft
+    article: die
+    plural: Wissenschaften
+    en: science
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Studie
+    article: die
+    plural: Studien
+    en: study
+    pos: noun
+    tags: [science, document]
+    core: true
+  - de: Untersuchung
+    article: die
+    plural: Untersuchungen
+    en: investigation; examination
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Hypothese
+    article: die
+    plural: Hypothesen
+    en: hypothesis
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Versuch
+    article: der
+    plural: Versuche
+    en: experiment; trial
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Versuchsreihe
+    article: die
+    plural: Versuchsreihen
+    en: series of experiments
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Proband
+    article: der
+    plural: Probanden
+    en: (study) participant; test subject (male)
+    pos: noun
+    tags: [science, person, concrete, n-decl]
+    core: true
+  - de: Probandin
+    article: die
+    plural: Probandinnen
+    en: (study) participant; test subject (female)
+    pos: noun
+    tags: [science, person, concrete]
+    core: true
+  - de: Ergebnis
+    article: das
+    plural: Ergebnisse
+    en: result; finding
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Erkenntnis
+    article: die
+    plural: Erkenntnisse
+    en: (scientific) insight; finding
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Evidenz
+    article: die
+    plural: Evidenzen
+    en: evidence
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Veröffentlichung
+    article: die
+    plural: Veröffentlichungen
+    en: publication
+    pos: noun
+    tags: [science, document]
+    core: true
+  - de: Verfasser
+    article: der
+    plural: Verfasser
+    en: author (male)
+    pos: noun
+    tags: [science, person, concrete]
+    core: true
+  - de: Verfasserin
+    article: die
+    plural: Verfasserinnen
+    en: author (female)
+    pos: noun
+    tags: [science, person, concrete]
+    core: true
+  - de: Quelle
+    article: die
+    plural: Quellen
+    en: source
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Innovation
+    article: die
+    plural: Innovationen
+    en: innovation
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Patent
+    article: das
+    plural: Patente
+    en: patent
+    pos: noun
+    tags: [science, document]
+    core: true
+  - de: Digitalisierung
+    article: die
+    plural: null
+    en: digitalization
+    pos: noun
+    tags: [technology, abstract]
+    core: true
+  - de: Künstliche Intelligenz
+    article: die
+    plural: null
+    en: artificial intelligence (AI)
+    pos: noun
+    tags: [technology, abstract]
+    core: true
+
+  # ── Verben und ihre Nominalisierung — 14 verb+noun pairs ────────────────────
+  - de: forschen
+    article: null
+    plural: null
+    en: to research
+    pos: verb
+    tags: [verb, nominalization, science]
+    core: true
+  - de: untersuchen
+    article: null
+    plural: null
+    en: to investigate
+    pos: verb
+    tags: [verb, nominalization, science]
+    core: true
+  - de: veröffentlichen
+    article: null
+    plural: null
+    en: to publish
+    pos: verb
+    tags: [verb, nominalization, science]
+    core: true
+    example: "die Veröffentlichung → die Ergebnisse wurden veröffentlicht."
+  - de: durchführen
+    article: null
+    plural: null
+    en: to carry out; to implement
+    pos: verb
+    tags: [verb, nominalization, science, separable]
+    core: true
+  - de: entwickeln
+    article: null
+    plural: null
+    en: to develop
+    pos: verb
+    tags: [verb, nominalization, science]
+    core: true
+  - de: herausfinden
+    article: null
+    plural: null
+    en: to find out
+    pos: verb
+    tags: [verb, nominalization, science, separable, strong]
+    core: true
+    example: "die Herausfindung / der Befund"
+  - de: widerlegen
+    article: null
+    plural: null
+    en: to disprove; to refute
+    pos: verb
+    tags: [verb, nominalization, science, strong]
+    core: true
+  - de: bestätigen
+    article: null
+    plural: null
+    en: to confirm
+    pos: verb
+    tags: [verb, nominalization, science]
+    core: true
+  - de: nachweisen
+    article: null
+    plural: null
+    en: to prove; to demonstrate
+    pos: verb
+    tags: [verb, nominalization, science, separable, strong]
+    core: true
+  - de: überprüfen
+    article: null
+    plural: null
+    en: to verify
+    pos: verb
+    tags: [verb, nominalization, science, separable]
+    core: true
+  - de: auswerten
+    article: null
+    plural: null
+    en: to analyze
+    pos: verb
+    tags: [verb, nominalization, science, separable]
+    core: true
+  - de: erheben
+    article: null
+    plural: null
+    en: to collect (data)
+    pos: verb
+    tags: [verb, nominalization, science, strong]
+    core: true
+    example: "Daten erheben"
+  - de: belegen
+    article: null
+    plural: null
+    en: to substantiate
+    pos: verb
+    tags: [verb, nominalization, science]
+    core: true
+  - de: patentieren
+    article: null
+    plural: null
+    en: to patent
+    pos: verb
+    tags: [verb, nominalization, science]
+    core: true
+  - de: Durchführung
+    article: die
+    plural: Durchführungen
+    en: implementation; execution
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: Widerlegung
+    article: die
+    plural: Widerlegungen
+    en: refutation
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: Bestätigung
+    article: die
+    plural: Bestätigungen
+    en: confirmation
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: Nachweis
+    article: der
+    plural: Nachweise
+    en: proof
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: Überprüfung
+    article: die
+    plural: Überprüfungen
+    en: verification
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: Auswertung
+    article: die
+    plural: Auswertungen
+    en: analysis
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: Erhebung
+    article: die
+    plural: Erhebungen
+    en: (data) collection
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: Beleg
+    article: der
+    plural: Belege
+    en: evidence; documentation
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: Patentierung
+    article: die
+    plural: null
+    en: patenting
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+
+  # ── Technologie und Digitalisierung — 10 nouns ─────────────────────────────
+  - de: Technologie
+    article: die
+    plural: Technologien
+    en: technology
+    pos: noun
+    tags: [technology, abstract]
+    core: true
+  - de: Anwendung
+    article: die
+    plural: Anwendungen
+    en: application
+    pos: noun
+    tags: [technology, abstract]
+    core: true
+  - de: Algorithmus
+    article: der
+    plural: Algorithmen
+    en: algorithm
+    pos: noun
+    tags: [technology, abstract]
+    core: true
+  - de: Daten
+    article: die
+    plural: null
+    en: data
+    pos: noun
+    tags: [technology, plural-tantum]
+    core: true
+  - de: Datensatz
+    article: der
+    plural: Datensätze
+    en: data set
+    pos: noun
+    tags: [technology, abstract]
+    core: true
+  - de: Stichprobe
+    article: die
+    plural: Stichproben
+    en: sample
+    pos: noun
+    tags: [science, technology, abstract]
+    core: true
+  - de: Methodik
+    article: die
+    plural: Methodiken
+    en: methodology
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Modell
+    article: das
+    plural: Modelle
+    en: model
+    pos: noun
+    tags: [science, technology, abstract]
+    core: true
+  - de: Sprachmodell
+    article: das
+    plural: Sprachmodelle
+    en: language model (AI system for text processing)
+    pos: noun
+    tags: [technology, abstract]
+    core: true
+  - de: Fehlinformation
+    article: die
+    plural: Fehlinformationen
+    en: misinformation
+    pos: noun
+    tags: [media, technology, abstract]
+    core: true
