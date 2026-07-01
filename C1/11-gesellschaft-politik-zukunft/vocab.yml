@@ -1,0 +1,345 @@
+# Reviewed from C1/11 lesson.md §4 Wortschatz.
+# Note: all tables use German-only paraphrase — no draft to patch, every entry
+# hand-derived and hand-translated from source. Several headwords overlap B1/12
+# (Nachhaltigkeit, Klimawandel, Digitalisierung, Integration) — kept since this
+# lesson provides substantially richer C1-level nuance (e.g. Integration explicitly
+# contrasted with Assimilation, a distinction B1/12 never covered).
+#
+# Section headers in lesson.md:
+#   Politik und Gesellschaft — Kernbegriffe                  — 7 nouns
+#   Globalisierung, Digitalisierung und Nachhaltigkeit         — 8 nouns
+#   Demografie und Migration                                   — 9 nouns
+#   Wirtschaft, Arbeit und Sozialstaat                         — 7 nouns
+#   Idiomatische Kollokationen des Diskurses                   — 14 items
+lesson: C1/11
+
+entries:
+  # ── Politik und Gesellschaft — Kernbegriffe — 7 nouns ──────────────────────
+  - de: Politik
+    article: die
+    plural: Politiken
+    en: politics; policy (a single policy field, e.g. climate policy)
+    pos: noun
+    tags: [politics, abstract]
+    core: true
+    example: "die Klimapolitik"
+  - de: Gesellschaft
+    article: die
+    plural: Gesellschaften
+    en: society (neutral, non-evaluative — the totality of people in a community)
+    pos: noun
+    tags: [society, abstract]
+    core: true
+  - de: Staat
+    article: der
+    plural: Staaten
+    en: state (the political-organizational unit — federal, state, local levels)
+    pos: noun
+    tags: [politics, abstract]
+    core: true
+  - de: Demokratie
+    article: die
+    plural: Demokratien
+    en: democracy (rule of the people via majority decisions and minority protection)
+    pos: noun
+    tags: [politics, abstract]
+    core: true
+  - de: Legitimation
+    article: die
+    plural: Legitimationen
+    en: legitimation (recognition of a political order or measure as justified)
+    pos: noun
+    tags: [politics, abstract]
+    core: true
+  - de: Teilhabe
+    article: die
+    plural: Teilhaben
+    en: participation (the ability to take part in social life — education, work, politics)
+    pos: noun
+    tags: [society, abstract]
+    core: true
+  - de: Gerechtigkeit
+    article: die
+    plural: null
+    en: justice (fair distribution of opportunities, goods and rights)
+    pos: noun
+    tags: [society, abstract]
+    core: true
+    example: "Generationengerechtigkeit, Verteilungsgerechtigkeit"
+
+  # ── Globalisierung, Digitalisierung und Nachhaltigkeit — 8 nouns ──────────
+  - de: Globalisierung
+    article: die
+    plural: null
+    en: globalization
+    pos: noun
+    tags: [society, technology, abstract]
+    core: true
+    example: "wertneutral — positive/negative je nach Kontext"
+  - de: Digitalisierung
+    article: die
+    plural: null
+    en: digitalization (conversion of analog processes to digital, across all areas of life)
+    pos: noun
+    tags: [society, technology, abstract]
+    core: true
+  - de: Künstliche Intelligenz
+    article: die
+    plural: null
+    en: artificial intelligence (AI)
+    pos: noun
+    tags: [technology, abstract]
+    core: true
+  - de: Automatisierung
+    article: die
+    plural: Automatisierungen
+    en: automation (replacing human labor with machines or software)
+    pos: noun
+    tags: [technology, society, abstract]
+    core: true
+  - de: Nachhaltigkeit
+    article: die
+    plural: null
+    en: sustainability (meeting today's needs without harming future generations)
+    pos: noun
+    tags: [environment, society, abstract]
+    core: true
+  - de: Klimawandel
+    article: der
+    plural: null
+    en: climate change
+    pos: noun
+    tags: [environment, abstract]
+    core: true
+  - de: Energiewende
+    article: die
+    plural: null
+    en: energy transition (shift to renewable energy sources)
+    pos: noun
+    tags: [environment, politics, abstract]
+    core: true
+  - de: Vernetzung
+    article: die
+    plural: Vernetzungen
+    en: networking (connecting people, devices, data via digital networks)
+    pos: noun
+    tags: [technology, society, abstract]
+    core: true
+
+  # ── Demografie und Migration — 9 nouns ──────────────────────────────────────
+  - de: Demografie
+    article: die
+    plural: null
+    en: demography (the science and description of population structure)
+    pos: noun
+    tags: [society, abstract]
+    core: true
+  - de: demografischer Wandel
+    article: der
+    plural: null
+    en: demographic change (shift in age structure — aging, shrinking population)
+    pos: noun
+    tags: [society, abstract]
+    core: true
+  - de: Überalterung
+    article: die
+    plural: null
+    en: population aging (rising share of older people in the total population)
+    pos: noun
+    tags: [society, abstract]
+    core: true
+  - de: Migration
+    article: die
+    plural: Migrationen
+    en: migration (movement of people across borders, or within a country)
+    pos: noun
+    tags: [society, politics, abstract]
+    core: true
+    example: "Binnenmigration = internal migration"
+  - de: Integration
+    article: die
+    plural: Integrationen
+    en: integration (participation of immigrants in society while preserving cultural identity)
+    pos: noun
+    tags: [society, politics, abstract]
+    core: true
+    example: "NOT the same as Assimilation"
+  - de: Assimilation
+    article: die
+    plural: Assimilationen
+    en: assimilation (adaptation to the majority society — today often used critically)
+    pos: noun
+    tags: [society, politics, abstract]
+    core: true
+  - de: Zuwanderung
+    article: die
+    plural: null
+    en: immigration (into a country; neutral term)
+    pos: noun
+    tags: [society, politics, abstract]
+    core: true
+  - de: Lehrkräftemangel
+    article: der
+    plural: null
+    en: teacher shortage (esp. in STEM subjects and rural areas)
+    pos: noun
+    tags: [society, education, abstract]
+    core: true
+  - de: Fachkräftemangel
+    article: der
+    plural: null
+    en: skilled-worker shortage (across all industries)
+    pos: noun
+    tags: [society, economy, abstract]
+    core: true
+
+  # ── Wirtschaft, Arbeit und Sozialstaat — 7 nouns ────────────────────────────
+  - de: Wohlstand
+    article: der
+    plural: null
+    en: prosperity (wealth of goods and services, often measured by GDP)
+    pos: noun
+    tags: [economy, abstract]
+    core: true
+  - de: Einnahmesituation
+    article: die
+    plural: Einnahmesituationen
+    en: revenue situation (financial position on the income side — taxes, levies)
+    pos: noun
+    tags: [economy, abstract]
+    core: true
+  - de: Kommunalfinanzen
+    article: die
+    plural: null
+    en: municipal finances
+    pos: noun
+    tags: [economy, politics, plural-tantum]
+    core: true
+  - de: Sozialstaat
+    article: der
+    plural: Sozialstaaten
+    en: welfare state (guarantees social security — pensions, health, care)
+    pos: noun
+    tags: [politics, society, abstract]
+    core: true
+  - de: Rente
+    article: die
+    plural: Renten
+    en: pension (regular payment to former workers in old age)
+    pos: noun
+    tags: [economy, society, abstract]
+    core: true
+  - de: Generationenvertrag
+    article: der
+    plural: null
+    en: generational contract (implicit agreement that workers fund pensions for the old)
+    pos: noun
+    tags: [economy, society, abstract]
+    core: true
+  - de: Pflege
+    article: die
+    plural: Pflegen
+    en: "care (of people needing help; also: caregiving profession)"
+    pos: noun
+    tags: [society, abstract]
+    core: true
+
+  # ── Idiomatische Kollokationen des Diskurses — 14 items ─────────────────────
+  - de: eine Debatte auslösen
+    article: null
+    plural: null
+    en: to trigger a debate (often unintended; heated, uncontrolled)
+    pos: phrase
+    tags: [politics, discourse, phrase]
+    core: true
+  - de: eine Debatte anstoßen
+    article: null
+    plural: null
+    en: to initiate a debate (deliberate; active, intentional)
+    pos: phrase
+    tags: [politics, discourse, phrase]
+    core: true
+  - de: den Diskurs versachlichen
+    article: null
+    plural: null
+    en: to make the discourse more factual (calm it down, free it of emotion)
+    pos: phrase
+    tags: [politics, discourse, phrase]
+    core: true
+  - de: Stellung beziehen
+    article: null
+    plural: null
+    en: to take a stand (publicly state an opinion)
+    pos: phrase
+    tags: [politics, discourse, phrase]
+    core: true
+  - de: den gesellschaftlichen Wandel gestalten
+    article: null
+    plural: null
+    en: to actively shape social change
+    pos: phrase
+    tags: [politics, discourse, phrase]
+    core: true
+  - de: die politischen Weichen stellen
+    article: null
+    plural: null
+    en: to set the political course (make decisions with long-term consequences)
+    pos: phrase
+    tags: [politics, discourse, phrase]
+    core: true
+  - de: in der öffentlichen Debatte stehen
+    article: null
+    plural: null
+    en: to be publicly debated (a topic under public discussion)
+    pos: phrase
+    tags: [politics, discourse, phrase]
+    core: true
+  - de: politischer Handlungsbedarf
+    article: der
+    plural: null
+    en: need for political action
+    pos: noun
+    tags: [politics, discourse, abstract]
+    core: true
+  - de: bürgerschaftliches Engagement
+    article: das
+    plural: null
+    en: civic engagement (volunteer work for the common good)
+    pos: noun
+    tags: [politics, society, abstract]
+    core: true
+  - de: kohärent
+    article: null
+    plural: null
+    en: coherent; consistent
+    pos: adjective
+    tags: [discourse, adjective]
+    core: true
+  - de: inkohärent
+    article: null
+    plural: null
+    en: incoherent; inconsistent
+    pos: adjective
+    tags: [discourse, adjective]
+    core: true
+  - de: Panikmache
+    article: die
+    plural: null
+    en: fearmongering (colloquial; exaggerated, emotionalizing warnings, often used to discredit)
+    pos: noun
+    tags: [discourse, politics, abstract]
+    core: true
+  - de: Vereinfachung
+    article: die
+    plural: Vereinfachungen
+    en: simplification (a simplified account of a complex matter)
+    pos: noun
+    tags: [discourse, abstract]
+    core: true
+  - de: Klischee
+    article: das
+    plural: Klischees
+    en: cliché
+    pos: noun
+    tags: [discourse, abstract]
+    core: true
