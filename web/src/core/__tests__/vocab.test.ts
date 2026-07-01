@@ -167,12 +167,20 @@ describe('parseToken plural expansion', () => {
     expect(parseToken(input)).toMatchObject({ plural });
   });
 
-  it('flags an umlaut-suffix plural with no paren rather than guess', () => {
-    expect(parseToken('der Saft, –e')).toMatchObject({ plural: 'Safte', needsReview: true });
+  it('does a best-effort umlaut of the first vowel for a suffix code', () => {
+    // V2 umlauts the FIRST vowel cluster (Sa-a-ft → Sä-fte) and flags needsReview so a
+    // human confirms. Still flags the plural — even though the result is correct, the
+    // parser has no way to know for sure without the paren hint.
+    expect(parseToken('der Saft, –e')).toMatchObject({ plural: 'Säfte', needsReview: true });
+    expect(parseToken('der Apfel, –e')).toMatchObject({ plural: 'Äpfel', needsReview: true });
+    expect(parseToken('der Vater, –e')).toMatchObject({ plural: 'Väter', needsReview: true });
+    expect(parseToken('der Ofen, –e')).toMatchObject({ plural: 'Öfen', needsReview: true });
   });
 
-  it('flags an umlaut-only plural with no paren', () => {
-    expect(parseToken('der Apfel, –')).toMatchObject({ plural: 'Apfel', needsReview: true });
+  it('does a best-effort umlaut-only plural (no suffix)', () => {
+    // V2 umlauts the first vowel, no suffix added. Still flagged for review.
+    expect(parseToken('der Apfel, –')).toMatchObject({ plural: 'Äpfel', needsReview: true });
+    expect(parseToken('der Bauer, –')).toMatchObject({ plural: 'Bäuer', needsReview: true });
   });
 
   it('disambiguates a plural hint from an English gloss', () => {
@@ -194,17 +202,33 @@ describe('parseToken pos routing', () => {
     expect(parseToken('Frühstück')).toMatchObject({ pos: 'noun', article: null, needsReview: true });
   });
 
-  it('routes a bare lowercase word to pos:other', () => {
-    expect(parseToken('schnell')).toMatchObject({ pos: 'other', needsReview: true });
+  it('routes a bare lowercase word to pos:adjective (the common A1/A2 case)', () => {
+    // V2: bare lowercase single words are almost always predicative adjectives used
+    // after `sein`. V1 routed these to `pos: other`, which left reviewers re-tagging
+    // most adjectives by hand.
+    // Without a gloss → needsReview (the gloss is the missing piece).
+    expect(parseToken('schnell')).toMatchObject({ pos: 'adjective', tags: ['adjective'], needsReview: true });
+    // With a gloss in parens → ready for human review of the pos tag, gloss itself present.
+    expect(parseToken('groß (big)')).toMatchObject({ pos: 'adjective', en: 'big', needsReview: false });
+  });
+
+  it('handles reflexive "sich <verb>" with a reflexive tag', () => {
+    const e = parseToken('sich anmelden');
+    expect(e).toMatchObject({ de: 'anmelden', pos: 'verb', tags: ['verb', 'reflexive'] });
+  });
+
+  it('strips pipe separators in separable verbs and tags them separable', () => {
+    const e = parseToken('ein|steigen');
+    expect(e).toMatchObject({ de: 'einsteigen', pos: 'verb' });
   });
 
   it('treats a bold infinitive as a verb', () => {
     expect(parseToken('**essen** (to eat)')).toMatchObject({ pos: 'verb', en: 'to eat', needsReview: false });
   });
 
-  it('does NOT assert verb for a bold non-infinitive', () => {
-    // bold is overloaded; "wichtig" is an adjective, not a verb → flag, don't mislabel.
-    expect(parseToken('**wichtig** (important)')).toMatchObject({ pos: 'other', needsReview: true });
+  it('routes a bold non-infinitive single word to adjective', () => {
+    // V2: bold+wichtig → adjective (the common V1 reviewers' correction).
+    expect(parseToken('**wichtig** (important)')).toMatchObject({ pos: 'adjective', en: 'important', needsReview: false });
   });
 });
 
@@ -233,19 +257,117 @@ describe('parseWortschatz section handling', () => {
     expect(r.entries.map(e => e.de)).toEqual(['Hund', 'Katze', 'Pferd']);
   });
 
-  it('warns once when it has to skip a non-gender table', () => {
+  it('extracts a 2-col bilingual table (| Deutsch | English |)', () => {
     const md = [
       '## Wortschatz',
-      '| Deutsch | Englisch |',
+      '| Deutsch | English |',
       '|---|---|',
       '| schnell | fast |',
       '| langsam | slow |',
     ].join('\n');
     const r = parseWortschatz(md, 'A1/01');
-    expect(r.entries).toEqual([]);
     expect(r.sectionFound).toBe(true);
+    expect(r.warnings).toEqual([]);
+    expect(r.entries.map(e => `${e.de}=${e.en}`)).toEqual(['schnell=fast', 'langsam=slow']);
+  });
+
+  it('extracts a maskulin-feminin table (| Beruf (m) | Beruf (f) | … |)', () => {
+    const md = [
+      '## Wortschatz',
+      '| Beruf (m) | Beruf (f) | English |',
+      '|---|---|---|',
+      '| der Lehrer, - | die Lehrerin, -nen | teacher |',
+      '| der Arzt, –e | die Ärztin, -nen | doctor |',
+    ].join('\n');
+    const r = parseWortschatz(md, 'A2/04');
+    expect(r.warnings).toEqual([]);
+    // 2 entries per row × 2 rows = 4
+    const by = (de: string) => r.entries.find(e => e.de === de);
+    expect(by('Lehrer')).toMatchObject({ article: 'der', pos: 'noun' });
+    expect(by('Lehrerin')).toMatchObject({ article: 'die', plural: 'Lehrerinnen', pos: 'noun', en: 'teacher' });
+    expect(by('Arzt')).toMatchObject({ article: 'der', plural: 'Ärzte', pos: 'noun' });
+    expect(by('Ärztin')).toMatchObject({ article: 'die', pos: 'noun', en: 'doctor' });
+  });
+
+  it('extracts a noun-english table with article+plural encoded in the cell', () => {
+    const md = [
+      '## Wortschatz',
+      '| Noun (article + plural) | English |',
+      '|---|---|',
+      '| der Preis, -e | price |',
+      '| die Qualität, -en | quality |',
+    ].join('\n');
+    const r = parseWortschatz(md, 'A2/07');
+    expect(r.warnings).toEqual([]);
+    const by = (de: string) => r.entries.find(e => e.de === de);
+    expect(by('Preis')).toMatchObject({ article: 'der', plural: 'Preise', en: 'price', pos: 'noun' });
+    expect(by('Qualität')).toMatchObject({ article: 'die', plural: 'Qualitäten', en: 'quality', pos: 'noun' });
+  });
+
+  it('extracts an adj-english table (4-col with Comparative + Superlative)', () => {
+    const md = [
+      '## Wortschatz',
+      '| Adjektiv | English | Comparative | Superlative |',
+      '|---|---|---|---|',
+      '| schnell | fast | schneller | am schnellsten |',
+      '| groß | big | größer | am größten |',
+    ].join('\n');
+    const r = parseWortschatz(md, 'A2/07');
+    expect(r.warnings).toEqual([]);
+    const by = (de: string) => r.entries.find(e => e.de === de);
+    expect(by('schnell')).toMatchObject({ pos: 'adjective', en: 'fast', tags: ['adjective'] });
+    expect(by('groß')).toMatchObject({ pos: 'adjective', en: 'big', tags: ['adjective'] });
+  });
+
+  it('extracts a verb-english table with Perfekt in a Notes column', () => {
+    const md = [
+      '## Wortschatz',
+      '| Verb | English | Perfekt |',
+      '|---|---|---|',
+      '| arbeiten | to work | hat gearbeitet |',
+      '| vergleichen | to compare | hat verglichen |',
+    ].join('\n');
+    const r = parseWortschatz(md, 'A2/04');
+    expect(r.warnings).toEqual([]);
+    const by = (de: string) => r.entries.find(e => e.de === de);
+    expect(by('arbeiten')).toMatchObject({ pos: 'verb', en: 'to work' });
+    expect(by('vergleichen')).toMatchObject({ pos: 'verb', en: 'to compare' });
+  });
+
+  it('warns once for a still-untouched table shape (e.g. price/grammar)', () => {
+    const md = [
+      '## Wortschatz',
+      '| | |',
+      '|---|---|',
+      '| €/hour | €/day |',
+    ].join('\n');
+    const r = parseWortschatz(md, 'A1/01');
+    expect(r.entries).toEqual([]);
     expect(r.warnings).toHaveLength(1);
-    expect(r.warnings[0]).toMatch(/non-gender table/);
+    expect(r.warnings[0]).toMatch(/non-vocab/);
+  });
+
+  it('splits connector pairs (↔) into two entries', () => {
+    const md = [
+      '## Wortschatz',
+      '',
+      'kalt ↔ warm',
+      '',
+    ].join('\n');
+    const r = parseWortschatz(md, 'A1/04');
+    expect(r.entries.map(e => e.de)).toEqual(['kalt', 'warm']);
+    expect(r.entries.every(e => e.pos === 'adjective')).toBe(true);
+  });
+
+  it('splits multi-option chunks (/) into individual phrases', () => {
+    const md = [
+      '## Wortschatz',
+      '',
+      'Fußball / Tennis / Karten spielen',
+      '',
+    ].join('\n');
+    const r = parseWortschatz(md, 'A1/06');
+    expect(r.entries.map(e => e.de)).toEqual(['Fußball', 'Tennis', 'Karten spielen']);
   });
 });
 
