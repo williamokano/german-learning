@@ -1,0 +1,420 @@
+# Reviewed from A1/03 lesson.md §4 Wortschatz. Bootstrapped with build/import-vocab.ts.
+lesson: A1/03
+entries:
+  # ── Lebensmittel (groceries) ──────────────────────────────────────────────
+  - de: Apfel
+    article: der
+    plural: Äpfel
+    en: apple
+    pos: noun
+    tags: [food, concrete]
+    core: true
+    example: "Ich kaufe einen Apfel."
+  - de: Banane
+    article: die
+    plural: Bananen
+    en: banana
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Brot
+    article: das
+    plural: Brote
+    en: bread
+    pos: noun
+    tags: [food, concrete]
+    core: true
+    example: "Das Brot kostet zwei Euro."
+  - de: Käse
+    article: der
+    plural: null
+    en: cheese
+    pos: noun
+    tags: [food, concrete]
+    core: true
+    example: "Was kostet der Käse?"
+  - de: Tomate
+    article: die
+    plural: Tomaten
+    en: tomato
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Brötchen
+    article: das
+    plural: Brötchen
+    en: bread roll
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Schinken
+    article: der
+    plural: Schinken
+    en: ham
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Kartoffel
+    article: die
+    plural: Kartoffeln
+    en: potato
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Ei
+    article: das
+    plural: Eier
+    en: egg
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Fisch
+    article: der
+    plural: Fische
+    en: fish
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Wurst
+    article: die
+    plural: Würste
+    en: sausage
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Fleisch
+    article: das
+    plural: null
+    en: meat
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Reis
+    article: der
+    plural: null
+    en: rice
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Butter
+    article: die
+    plural: null
+    en: butter
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Obst
+    article: das
+    plural: null
+    en: fruit
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Salat
+    article: der
+    plural: Salate
+    en: salad
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Milch
+    article: die
+    plural: null
+    en: milk
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Gemüse
+    article: das
+    plural: null
+    en: vegetables
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Kuchen
+    article: der
+    plural: Kuchen
+    en: cake
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Schokolade
+    article: die
+    plural: Schokoladen
+    en: chocolate
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Müsli
+    article: das
+    plural: Müslis
+    en: muesli
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Joghurt
+    article: der
+    plural: Joghurts
+    en: yoghurt
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Nudel
+    article: die
+    plural: Nudeln
+    en: noodle
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Salz
+    article: das
+    plural: null
+    en: salt
+    pos: noun
+    tags: [food, concrete]
+    core: true
+  - de: Zucker
+    article: der
+    plural: null
+    en: sugar
+    pos: noun
+    tags: [food, concrete]
+    core: true
+
+  # ── Getränke (drinks) ─────────────────────────────────────────────────────
+  - de: Kaffee
+    article: der
+    plural: null
+    en: coffee
+    pos: noun
+    tags: [drink, concrete]
+    core: true
+    example: "Ich möchte einen Kaffee, bitte."
+  - de: Tee
+    article: der
+    plural: null
+    en: tea
+    pos: noun
+    tags: [drink, concrete]
+    core: true
+    example: "Trinkst du Tee oder Kaffee?"
+  - de: Saft
+    article: der
+    plural: Säfte
+    en: juice
+    pos: noun
+    tags: [drink, concrete]
+    core: true
+  - de: Wein
+    article: der
+    plural: Weine
+    en: wine
+    pos: noun
+    tags: [drink, concrete]
+    core: true
+  - de: Cola
+    article: die
+    plural: Colas
+    en: cola
+    pos: noun
+    tags: [drink, concrete]
+    core: true
+  - de: Wasser
+    article: das
+    plural: null
+    en: water
+    pos: noun
+    tags: [drink, concrete]
+    core: true
+    example: "Eine Flasche Wasser, bitte."
+  - de: Bier
+    article: das
+    plural: Biere
+    en: beer
+    pos: noun
+    tags: [drink, concrete]
+    core: true
+
+  # ── Behälter (containers) ─────────────────────────────────────────────────
+  - de: Glas
+    article: das
+    plural: Gläser
+    en: glass
+    pos: noun
+    tags: [container, concrete]
+    core: true
+  - de: Flasche
+    article: die
+    plural: Flaschen
+    en: bottle
+    pos: noun
+    tags: [container, concrete]
+    core: true
+  - de: Tasse
+    article: die
+    plural: Tassen
+    en: cup
+    pos: noun
+    tags: [container, concrete]
+    core: true
+    example: "Ich trinke eine Tasse Kaffee."
+
+  # ── Mahlzeiten (meals) ────────────────────────────────────────────────────
+  - de: Frühstück
+    article: das
+    plural: null
+    en: breakfast
+    pos: noun
+    tags: [meal, concrete]
+    core: true
+    example: "Zum Frühstück esse ich ein Brötchen."
+  - de: Mittagessen
+    article: das
+    plural: null
+    en: lunch
+    pos: noun
+    tags: [meal, concrete]
+    core: true
+  - de: Abendessen
+    article: das
+    plural: null
+    en: dinner
+    pos: noun
+    tags: [meal, concrete]
+    core: true
+
+  # ── Verben ────────────────────────────────────────────────────────────────
+  - de: essen
+    article: null
+    plural: null
+    en: to eat
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich esse gern Obst."
+  - de: trinken
+    article: null
+    plural: null
+    en: to drink
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: nehmen
+    article: null
+    plural: null
+    en: to take
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich nehme den Salat."
+  - de: kaufen
+    article: null
+    plural: null
+    en: to buy
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir kaufen Käse und Brot."
+  - de: kosten
+    article: null
+    plural: null
+    en: to cost
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: brauchen
+    article: null
+    plural: null
+    en: to need
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: möchten
+    article: null
+    plural: null
+    en: would like
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich möchte ein Stück Kuchen."
+  - de: zahlen
+    article: null
+    plural: null
+    en: to pay
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich möchte zahlen, bitte."
+  - de: schmecken
+    article: null
+    plural: null
+    en: to taste
+    pos: verb
+    tags: [verb]
+    core: true
+
+  # ── Mengen und Verpackungen (quantities & packaging) ──────────────────────
+  # Collocations built from headwords above → core: false so they don't double-count.
+  - de: ein Kilo Äpfel
+    article: null
+    plural: null
+    en: a kilo of apples
+    pos: phrase
+    tags: [quantity]
+    core: false
+  - de: ein Liter Milch
+    article: null
+    plural: null
+    en: a litre of milk
+    pos: phrase
+    tags: [quantity]
+    core: false
+  - de: eine Flasche Wasser
+    article: null
+    plural: null
+    en: a bottle of water
+    pos: phrase
+    tags: [quantity]
+    core: false
+  - de: ein Glas Saft
+    article: null
+    plural: null
+    en: a glass of juice
+    pos: phrase
+    tags: [quantity]
+    core: false
+  - de: eine Tasse Kaffee
+    article: null
+    plural: null
+    en: a cup of coffee
+    pos: phrase
+    tags: [quantity]
+    core: false
+  - de: ein Stück Kuchen
+    article: null
+    plural: null
+    en: a piece of cake
+    pos: phrase
+    tags: [quantity]
+    core: false
+  - de: eine Dose Cola
+    article: null
+    plural: null
+    en: a can of cola
+    pos: phrase
+    tags: [quantity]
+    core: false
+  - de: eine Packung Reis
+    article: null
+    plural: null
+    en: a packet of rice
+    pos: phrase
+    tags: [quantity]
+    core: false
+  - de: ein Becher Joghurt
+    article: null
+    plural: null
+    en: a tub of yoghurt
+    pos: phrase
+    tags: [quantity]
+    core: false
