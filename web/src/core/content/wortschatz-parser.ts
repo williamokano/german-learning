@@ -1,15 +1,18 @@
-// wortschatz-parser.ts — V2 (F1 issue #337 follow-up).
+// wortschatz-parser.ts — V3 (F1 issue #337 follow-up, post-B1 rollout).
 //
 // Parses the heterogeneous "## … Wortschatz" markdown section of a lesson.md into
-// draft vocab entries. The Wortschatz markdown comes in many shapes; V2 recognises
-// the ones that came up across A1–A2:
+// draft vocab entries. The Wortschatz markdown comes in many shapes; V3 recognises
+// the ones that came up across A1–B1 plus the new B2 patterns:
 //
 //   TABLES (data row → entries):
 //     - 3-gender           | der (m) | die (f) | das (n) |
 //     - maskulin-feminin   | Beruf (m) | Beruf (f) | (English?) |   (cell starts with der/die/das)
+//     - noun-verb-pair     | Verb | Nomen | (English/Bedeutung?) |  (B2 nominalization pairs;
+//                            order varies — checked BEFORE the single-purpose verb/noun kinds)
 //     - noun-english       | Noun (article + plural) | English |   (cell starts with der/die/das)
 //     - adj-english        | Adjektiv | English | Comparative | Superlative |
 //     - verb-english       | Verb | English | Notes |
+//     - connector          | Konnektor | Funktion | Beispiel |     (fixed discourse-marker phrases)
 //     - bilingual          | Deutsch | English |   (general 2-col)
 //     - middot-list        | (empty) | (empty) | … |   (data row holds middot-separated tokens)
 //
@@ -25,7 +28,19 @@
 // garbage. To extend coverage: add a branch to `classifyTableHeader()` and a
 // row-parser in `parseTableDataRow()`.
 //
-// V2 is also DRAFT: it extracts what it can (de / article / plural / pos) and
+// V3 plural-code fixes (all found during the B1 rollout — see #337 comments):
+//   - Bare "–" (en dash, no suffix) is ambiguous in the wild: some lessons use it
+//     for "umlaut, no suffix" (A1: `der Vater, –` → Väter), others for "invariant,
+//     no plural at all" (B1: `der Wandel, –`). V3 resolves this via a closed-class
+//     lookup of the ~20 German nouns that actually pluralize by pure umlaut
+//     (UMLAUT_ONLY_PLURAL_NOUNS) instead of guessing — anything not on the list
+//     defaults to "no plural" (the safer, more common case).
+//   - Explicit umlaut-spelled codes ("-ä-e", "-ö-e", "-ü-e", "-äu-e") are now
+//     recognized as an alternative to the terse "–e" shorthand.
+//   - A full second word after the comma ("die Großstadt, die Großstädte") is now
+//     recognized as a literal plural instead of being misread as a suffix code.
+//
+// V3 is also DRAFT: it extracts what it can (de / article / plural / pos) and
 // flags uncertain rows with `needsReview: true` + a `reviewNote`. A human pass
 // fills `en` / `tags` / `example` and clears the flags.
 //
@@ -47,12 +62,17 @@ export interface ParseResult {
 export type TableKind =
   | 'gender'
   | 'maskulin-feminin'
+  | 'noun-verb-pair'
   | 'noun-english'
   | 'adj-english'
   | 'verb-english'
+  | 'connector'
   | 'bilingual'
   | 'middot-list'
   | null;
+
+const isNounHeader = (c: string) => /^(noun|nomen)$/.test(c);
+const isVerbHeader = (c: string) => /\b(verb|infinitive|verben|infinitiv)\b/.test(c);
 
 /** Decide which kind of vocab table a header row advertises, or null to skip. */
 function classifyTableHeader(headerCells: string[]): TableKind {
@@ -72,30 +92,44 @@ function classifyTableHeader(headerCells: string[]): TableKind {
     return 'maskulin-feminin';
   }
 
-  // 3. Verb (header mentions "verb" or "infinitive")
-  if (h.some(c => /\b(verb|infinitive|verben|infinitiv)\b/.test(c))) {
+  // 3. Noun+Verb pair (B2 nominalization drills: "prüfen → die Prüfung"). Column
+  //    order varies ("Verb | Nomen" in B2/01, "Nomen | Verb | English" in B2/02) —
+  //    checked BEFORE the single-purpose verb-english/noun-english kinds below,
+  //    since a header with BOTH cells would otherwise match verb-english first
+  //    and silently drop the noun column (or vice versa).
+  if (h.some(isNounHeader) && h.some(isVerbHeader)) {
+    return 'noun-verb-pair';
+  }
+
+  // 4. Verb (header mentions "verb" or "infinitive")
+  if (h.some(isVerbHeader)) {
     return 'verb-english';
   }
 
-  // 4. Adjective (header mentions "adjektiv" or "comparative" / "superlative")
+  // 5. Adjective (header mentions "adjektiv" or "comparative" / "superlative")
   if (h.some(c => /\b(adjektiv|comparative|superlative|komparativ|superlativ)\b/.test(c))) {
     return 'adj-english';
   }
 
-  // 5. Noun (header mentions noun-ish keywords or an "article + plural" pattern).
+  // 6. Noun (header mentions noun-ish keywords or an "article + plural" pattern).
   //    Sources vary English/German: "Noun (article + plural)", "Nomen (Artikel + Plural)".
-  if (h.some(c => /^(noun|nomen|artikel(\s*\+?\s*plural)?|artikel.*plural|lemma|wort)$/.test(c) ||
+  if (h.some(c => isNounHeader(c) || /^(artikel(\s*\+?\s*plural)?|artikel.*plural|lemma|wort)$/.test(c) ||
                    /artikel\s*\+?\s*plural/.test(c) ||
                    /article\s*\+?\s*plural/.test(c))) {
     return 'noun-english';
   }
 
-  // 6. Bilingual 2-column (Deutsch/German | English/Englisch)
+  // 7. Connector / discourse-marker tables (Konnektor | Funktion | Beispiel).
+  if (h.some(c => /\bkonnektor(en)?\b|\bconnector\b/.test(c))) {
+    return 'connector';
+  }
+
+  // 8. Bilingual 2-column (Deutsch/German | English/Englisch)
   if (h.length === 2 && /^(deutsch|german|wort|german word)/.test(h[0]) && /^(english|englisch)/.test(h[1])) {
     return 'bilingual';
   }
 
-  // 7. Empty header cells → middot-list (data row holds middot-separated tokens)
+  // 9. Empty header cells → middot-list (data row holds middot-separated tokens)
   if (h.length > 0 && h.every(c => c === '')) {
     return 'middot-list';
   }
@@ -231,6 +265,50 @@ function parseTableDataRow(row: string, kind: NonNullable<TableKind>): DraftEntr
       return out;
     }
 
+    case 'noun-verb-pair': {
+      // 2 or 3 col: [Nomen-or-Verb cell, Nomen-or-Verb cell, optional meaning cell].
+      // Column order varies by lesson. Each of the first two cells is independently
+      // parsed via parseToken (which auto-detects noun vs. verb from the leading
+      // article), producing TWO entries per row instead of the ONE that the old
+      // verb-english/noun-english misclassification produced.
+      const out: DraftEntry[] = [];
+      for (const raw of [cells[0], cells[1]]) {
+        if (!raw) continue;
+        const e = parseToken(raw);
+        if (e) out.push(e);
+      }
+      const meaning = cells.length >= 3 ? cells[2]?.trim() : undefined;
+      if (meaning) {
+        for (const e of out) {
+          if (e.en.trim() === '') e.en = meaning;
+        }
+      }
+      return out;
+    }
+
+    case 'connector': {
+      // cells: [connector phrase (may be `backtick`-quoted), function/meaning, example?]
+      const deRaw = cells[0]?.replace(/`/g, '').trim();
+      if (!deRaw) return [];
+      const meaning = cells[1]?.trim() ?? '';
+      const example = cells.length >= 3 ? cells[2]?.trim() : undefined;
+      const isPhrase = /…|\.\.\.|\s/.test(deRaw); // multi-word or ellipsis → phrase, not a single conjunction
+      const e = finalize({
+        de: deRaw,
+        article: null,
+        plural: null,
+        en: meaning,
+        pos: isPhrase ? 'phrase' : 'conjunction',
+        tags: ['connector'],
+        needsReview: meaning === '',
+        reviewNote: meaning === ''
+          ? 'fill English gloss'
+          : (isPhrase ? undefined : 'connector — confirm pos (conjunction/adverb)'),
+      });
+      if (example) e.example = example;
+      return [e];
+    }
+
     case 'noun-english': {
       const nounCell = cells[0];
       const enIdx = findEnglishCellIndex(cells);
@@ -285,6 +363,21 @@ function splitOnConnectors(input: string): string[] {
     .filter(s => s !== '');
 }
 
+/** Closed class of German masculine nouns whose plural is PURE UMLAUT with no
+ *  suffix (Vater → Väter, Apfel → Äpfel, …). This list is what a bare "–" plural
+ *  code (no explicit suffix) should trigger against — everything else with a bare
+ *  "–" is invariant / has no plural (e.g. `der Wandel, –`). The two meanings are
+ *  visually identical in the source markdown; V1/V2 guessed "always umlaut" and
+ *  produced false positives across the whole B1 rollout (Klimawandel→Klimäwandel,
+ *  Luftverschmutzung→Lüftverschmutzung, …). The class is small and closed (Duden),
+ *  so a lookup is both more accurate AND lets us drop the needsReview flag.
+ */
+const UMLAUT_ONLY_PLURAL_NOUNS = new Set([
+  'acker', 'apfel', 'boden', 'bruder', 'faden', 'garten', 'graben', 'hafen',
+  'hammer', 'kasten', 'laden', 'magen', 'mangel', 'mantel', 'mutter', 'nagel',
+  'ofen', 'sattel', 'schaden', 'schnabel', 'tochter', 'vater', 'vogel',
+]);
+
 /** Pull a German plural out of a code (-n, -e, …) and/or a parenthetical hint. */
 function resolvePlural(de: string, code: string | null, paren: string | null): {
   plural: string | null;
@@ -294,28 +387,63 @@ function resolvePlural(de: string, code: string | null, paren: string | null): {
   if ((code && /no pl/i.test(code)) || (paren && /no pl/i.test(paren))) {
     return { plural: null, needsReview: false };
   }
+  if (!code) return { plural: null, needsReview: true };
+
+  // Full second word spelled out after the comma ("die Großstadt, die Großstädte",
+  // "der Lebenslauf, die Lebensläufe") instead of a suffix code. All German plural
+  // nouns take "die" regardless of the singular's gender, so a leading article here
+  // is the reliable signal that this is a literal plural, not a suffix.
+  const fullWord = code.match(/^(?:der|die|das)\s+(.+)$/i);
+  if (fullWord) {
+    return { plural: fullWord[1].trim(), needsReview: false };
+  }
+
   // A capitalized parenthetical spells the plural out, e.g. "(Äpfel)", "(usually pl.:
   // Nudeln)" — but only trust it alongside a comma plural-code ("der Saft, –e (Säfte)").
   // Without a code the paren is an English gloss, and a capitalized word inside it
   // ("a town in Bavaria") must not be mistaken for a plural.
-  if (paren && code) {
+  if (paren) {
     const m = paren.match(/([A-ZÄÖÜ][A-Za-zÄÖÜäöüß]+)\s*$/);
     if (m) return { plural: m[1], needsReview: false };
   }
-  if (!code) return { plural: null, needsReview: true };
+
+  // Explicit umlaut-spelled code: "-ä-e", "-ö-e", "-ü-e", "-äu-e", "-ä-er", etc.
+  // Some lessons spell the umlaut out instead of using the terse "–e" shorthand.
+  // IMPORTANT: the spelled-out vowel is NOT a reliable literal target — real lesson
+  // data shows the same "-ä-e" code used for a→ä (Rückgang→Rückgänge), o→ö
+  // (Ausstoß→Ausstöße, Mindestlohn→Mindestlöhne), AND au→äu (Verbrauch→Verbräuche)
+  // plurals alike. Authors write "-ä-e" as a generic "there's an umlaut, plus -e"
+  // marker, not a precise vowel spec. So this is treated exactly like the bare
+  // "–" + suffix case: delegate to the same best-effort guesser.
+  const explicit = code.match(/^-(?:ä|ö|ü|äu)-([a-zäöüß]*)$/);
+  if (explicit) {
+    const suffix = explicit[1];
+    const stemEndsWeak = /(el|er|en|e)$/i.test(de);
+    if (stemEndsWeak) return { plural: bestEffortUmlautOnly(de), needsReview: true };
+    return { plural: bestEffortUmlautSuffix(de, suffix), needsReview: true };
+  }
 
   // Suffix codes: "-n", "-e", "-er", "-s", "-nen", "-" (unchanged), "–" (umlaut only)
   const m = code.match(/^[-–]([a-zäöü]*)$/);
   if (m) {
     const suffix = m[1];
     const umlaut = code.startsWith('–');
-    // Stems ending in a "weak" syllable (e/el/er/en) typically DON'T add the plural
-    // suffix on top — the suffix is already part of the stem (`Apfel` already ends in
-    // `-el`; plural `Äpfel` adds no letter). Common plurals: Vater → Väter, Apfel → Äpfel,
-    // Bruder → Brüder, Garten → Gärten. Detect this and skip the suffix.
-    const stemEndsWeak = /(el|er|en|e)$/i.test(de);
     if (umlaut) {
-      if (suffix === '' || stemEndsWeak) {
+      if (suffix === '') {
+        // Bare "–" with no suffix is ambiguous: pure-umlaut plural (closed class,
+        // see UMLAUT_ONLY_PLURAL_NOUNS) vs. invariant / no plural at all (every
+        // other noun). Resolve via lookup instead of guessing.
+        if (UMLAUT_ONLY_PLURAL_NOUNS.has(de.toLowerCase())) {
+          return { plural: bestEffortUmlautOnly(de), needsReview: false };
+        }
+        return { plural: null, needsReview: false };
+      }
+      // Stems ending in a "weak" syllable (e/el/er/en) typically DON'T add the
+      // plural suffix on top — the suffix is already part of the stem (`Apfel`
+      // already ends in `-el`; plural `Äpfel` adds no letter). Detect this and
+      // skip the suffix.
+      const stemEndsWeak = /(el|er|en|e)$/i.test(de);
+      if (stemEndsWeak) {
         return { plural: bestEffortUmlautOnly(de), needsReview: true };
       }
       return { plural: bestEffortUmlautSuffix(de, suffix), needsReview: true };
@@ -325,32 +453,33 @@ function resolvePlural(de: string, code: string | null, paren: string | null): {
   return { plural: null, needsReview: true };
 }
 
-/** Umlaut the FIRST vowel cluster of `de` (a → ä, o → ö, u → ü, au → äu). This is the
- *  common German plural pattern (`Apfel → Äpfel`, `Vater → Väter`, `Bauer → Bauern`).
+/** Umlaut the LAST vowel cluster of `de` (a → ä, o → ö, u → ü, au → äu), then append
+ *  `suffix`. This is the common German plural pattern (`Apfel → Äpfel`, `Vater →
+ *  Väter`, `Bauer → Bauern`). Scanning for the LAST occurrence (not the first)
+ *  matters for compound nouns: German umlaut plurals affect the head noun's stem
+ *  vowel, which sits at the end of the compound, not a modifier prefix earlier in
+ *  the word (`CO₂-Ausstoß → CO₂-Ausstöße`, not `CO₂-Äusstoße` — the relevant vowel
+ *  is the 'o' in "-stoß", not the 'Au' in "Aus-"). For simple non-compound nouns
+ *  (Vater, Apfel, Saft, Ofen) there's only one candidate vowel, so first == last
+ *  and this scan is unaffected by the change.
  *  Note: not every a/o/u-stem umlauts (e.g. `Bauer → Bauern`, no umlaut) — we still
  *  emit a guess and let `needsReview` flag it for human confirmation. */
 function bestEffortUmlautSuffix(de: string, suffix: string): string {
-  // au cluster anywhere: catches both `au` at start and inside the stem.
-  // Preserves case (capital → Äu, lowercase → äu).
-  const auM = de.match(/au/i);
-  if (auM) {
-    const idx = auM.index!;
-    const isUpper = auM[0] >= 'A' && auM[0] <= 'Z' && auM[0][0] >= 'A' && auM[0][0] <= 'Z';
-    const u = isUpper ? 'Äu' : 'äu';
-    return de.slice(0, idx) + u + de.slice(idx + 2) + suffix;
-  }
-  // First single a/o/u anywhere in the stem.
-  const m = de.match(/[aou]/i);
-  if (m) {
-    const idx = m.index!;
-    const vowel = m[0];
-    const isUpper = vowel >= 'A' && vowel <= 'Z';
-    const u = isUpper
-      ? ({ A: 'Ä', O: 'Ö', U: 'Ü' } as Record<string, string>)[vowel.toUpperCase()]!
-      : ({ a: 'ä', o: 'ö', u: 'ü' } as Record<string, string>)[vowel]!;
-    return de.slice(0, idx) + u + de.slice(idx + 1) + suffix;
-  }
-  return de + suffix;
+  let last: RegExpExecArray | null = null;
+  const re = /au|[aou]/gi;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(de)) !== null) last = m;
+  if (!last) return de + suffix;
+
+  const idx = last.index;
+  const matched = last[0];
+  const isUpper = /^[A-Z]/.test(matched);
+  const umlaut = matched.length === 2
+    ? (isUpper ? 'Äu' : 'äu')
+    : (isUpper
+        ? ({ A: 'Ä', O: 'Ö', U: 'Ü' } as Record<string, string>)[matched.toUpperCase()]!
+        : ({ a: 'ä', o: 'ö', u: 'ü' } as Record<string, string>)[matched]!);
+  return de.slice(0, idx) + umlaut + de.slice(idx + matched.length) + suffix;
 }
 
 function bestEffortUmlautOnly(de: string): string {
