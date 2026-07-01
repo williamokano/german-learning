@@ -1,0 +1,564 @@
+# Reviewed from A1/06 lesson.md §4 Wortschatz.
+# Bootstrapped with build/import-vocab.ts; the parser captured 57 entries (46
+# needsReview). The human review pass cleans up:
+#   - all English glosses (parser left them blank except for a few parentheticals)
+#   - two umlaut plurals the parser dropped (Fahrrad → Fahrräder, Schwimmbad → Schwimmbäder)
+#   - bare-lowercase verbs/adjectives the parser mis-routed to pos: other (now split
+#     into the correct verb entries; bare adjectives get pos: adjective)
+#   - the verb chunk "Fußball / Tennis / Karten spielen" → three phrase entries
+#   - five prose lines the parser mis-recognised as vocab:
+#       * "Also: der Freund, -e / die Freundin, -nen (L2) · das Kino, -s und der Film, -e (L5)"
+#       * "Adjectives: kalt ↔ warm"
+#       * "schön ↔ schlecht"
+#       * "Winter — die Jahreszeit, -en"
+#       * "Always with im: im Sommer, im Winter (like am Montag, L5)"
+#     The L2/L5 references and connector pairs were dropped; only the lemma words
+#     remain. "die Jahreszeit" was promoted to its own noun entry (with the plural
+#     Jahreszeiten).
+#
+# Sections in lesson.md:
+#   Hobbys und Sport — 17 nouns in a 3-gender table
+#   Aktivitäten      — verb chunks and bare infinitives (verbs and chunks split below)
+#   Das Wetter       — 7 nouns + 3 weather verbs
+#   Adjectives       — 7 weather/quality adjectives
+#   Die Jahreszeiten — 4 seasons + Jahreszeit
+lesson: A1/06
+
+entries:
+  # ── Hobbys und Sport ─────────────────────────────────────────────────────
+  - de: Sport
+    article: der
+    plural: null
+    en: sport
+    pos: noun
+    tags: [sport, concrete]
+    core: true
+    example: "Sport macht Spaß."
+  - de: Freizeit
+    article: die
+    plural: null
+    en: free time
+    pos: noun
+    tags: [leisure]
+    core: true
+    example: "Was machst du gern in deiner Freizeit?"
+  - de: Hobby
+    article: das
+    plural: Hobbys
+    en: hobby
+    pos: noun
+    tags: [hobby, concrete]
+    core: true
+    example: "Mein Hobby ist Lesen."
+  - de: Fußball
+    article: der
+    plural: Fußbälle
+    en: football
+    pos: noun
+    tags: [sport, concrete]
+    core: true
+    example: "Ich spiele gern Fußball."
+  - de: Musik
+    article: die
+    plural: null
+    en: music
+    pos: noun
+    tags: [music]
+    core: true
+    example: "Ich höre gern Musik."
+  - de: Buch
+    article: das
+    plural: Bücher
+    en: book
+    pos: noun
+    tags: [book, concrete]
+    core: true
+    example: "Ich lese gern Bücher."
+  - de: Krimi
+    article: der
+    plural: Krimis
+    en: crime novel
+    pos: noun
+    tags: [book, concrete]
+    core: true
+  - de: Gitarre
+    article: die
+    plural: Gitarren
+    en: guitar
+    pos: noun
+    tags: [music, concrete]
+    core: true
+    example: "Ich spiele Gitarre."
+  - de: Klavier
+    article: das
+    plural: Klaviere
+    en: piano
+    pos: noun
+    tags: [music, concrete]
+    core: true
+    example: "Felix kann Klavier spielen."
+  - de: Park
+    article: der
+    plural: Parks
+    en: park
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Wir spielen im Park."
+  - de: Karte
+    article: die
+    plural: Karten
+    en: card
+    pos: noun
+    tags: [game, concrete]
+    core: true
+    example: "Karten spielen macht Spaß."
+  - de: Instrument
+    article: das
+    plural: Instrumente
+    en: instrument
+    pos: noun
+    tags: [music, concrete]
+    core: true
+    example: "Spielst du ein Instrument?"
+  - de: See
+    article: der
+    plural: Seen
+    en: lake
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Idee
+    article: die
+    plural: Ideen
+    en: idea
+    pos: noun
+    tags: [abstract]
+    core: true
+    example: "Gute Idee!"
+  - de: Schwimmbad
+    article: das
+    plural: Schwimmbäder
+    en: swimming pool
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Berg
+    article: der
+    plural: Berge
+    en: mountain
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Im Sommer wandern wir gern in den Bergen."
+  - de: Fahrrad
+    article: das
+    plural: Fahrräder
+    en: bicycle
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+    example: "Mein Fahrrad ist neu."
+  - de: Kino
+    article: das
+    plural: Kinos
+    en: cinema
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Tennis
+    article: das
+    plural: null
+    en: tennis
+    pos: noun
+    tags: [sport]
+    core: true
+    example: "Wir spielen gern Tennis."
+
+  # ── Das Wetter ────────────────────────────────────────────────────────────
+  - de: Wetter
+    article: das
+    plural: null
+    en: weather
+    pos: noun
+    tags: [weather]
+    core: true
+    example: "Wie ist das Wetter heute?"
+  - de: Sonne
+    article: die
+    plural: Sonnen
+    en: sun
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+    example: "Die Sonne scheint."
+  - de: Regen
+    article: der
+    plural: null
+    en: rain
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+  - de: Schnee
+    article: der
+    plural: null
+    en: snow
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+  - de: Wind
+    article: der
+    plural: Winde
+    en: wind
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+  - de: Wolke
+    article: die
+    plural: Wolken
+    en: cloud
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+  - de: Grad
+    article: der
+    plural: Grade
+    en: degree
+    pos: noun
+    tags: [weather]
+    core: true
+    example: "Es sind zwölf Grad."
+
+  # ── Die Jahreszeiten ──────────────────────────────────────────────────────
+  - de: Frühling
+    article: der
+    plural: null
+    en: spring
+    pos: noun
+    tags: [season, concrete]
+    core: true
+    example: "Im Frühling wird es warm."
+  - de: Sommer
+    article: der
+    plural: null
+    en: summer
+    pos: noun
+    tags: [season, concrete]
+    core: true
+    example: "Im Sommer ist es warm."
+  - de: Herbst
+    article: der
+    plural: null
+    en: autumn
+    pos: noun
+    tags: [season, concrete]
+    core: true
+    example: "Im Herbst regnet es oft."
+  - de: Winter
+    article: der
+    plural: null
+    en: winter
+    pos: noun
+    tags: [season, concrete]
+    core: true
+    example: "Im Winter ist es kalt."
+  - de: Jahreszeit
+    article: die
+    plural: Jahreszeiten
+    en: season
+    pos: noun
+    tags: [season]
+    core: true
+
+  # ── Verben ────────────────────────────────────────────────────────────────
+  # Includes the bare infinitives from §4 (lesen, fernsehen, schwimmen, tanzen,
+  # singen, joggen, wandern, fotografieren, kochen) plus the verbs implied by the
+  # chunks (spielen / hören / fahren / treffen / gehen / bleiben). Modal verb
+  # können is in §6 grammar, not §4 Wortschatz — excluded.
+  - de: spielen
+    article: null
+    plural: null
+    en: to play
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich spiele Fußball."
+  - de: hören
+    article: null
+    plural: null
+    en: to listen
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich höre gern Musik."
+  - de: lesen
+    article: null
+    plural: null
+    en: to read
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich lese gern Krimis."
+  - de: fernsehen
+    article: null
+    plural: null
+    en: to watch TV
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich sehe abends fern."
+  - de: fahren
+    article: null
+    plural: null
+    en: to drive
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir fahren Rad."
+  - de: treffen
+    article: null
+    plural: null
+    en: to meet
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich treffe Freunde."
+  - de: schwimmen
+    article: null
+    plural: null
+    en: to swim
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich schwimme gern."
+  - de: tanzen
+    article: null
+    plural: null
+    en: to dance
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: singen
+    article: null
+    plural: null
+    en: to sing
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: joggen
+    article: null
+    plural: null
+    en: to jog
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: wandern
+    article: null
+    plural: null
+    en: to hike
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Im Herbst wandern wir gern."
+  - de: fotografieren
+    article: null
+    plural: null
+    en: to photograph
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: kochen
+    article: null
+    plural: null
+    en: to cook
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich koche gern."
+  - de: gehen
+    article: null
+    plural: null
+    en: to go
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir gehen ins Kino."
+  - de: bleiben
+    article: null
+    plural: null
+    en: to stay
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich bleibe zu Hause."
+  - de: regnen
+    article: null
+    plural: null
+    en: to rain
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Es regnet."
+  - de: schneien
+    article: null
+    plural: null
+    en: to snow
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Es schneit."
+  - de: scheinen
+    article: null
+    plural: null
+    en: to shine
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Die Sonne scheint."
+
+  # ── Adjektive ─────────────────────────────────────────────────────────────
+  # kalt ↔ warm · heiß (hot) · windig · schön ↔ schlecht (bad) · langweilig (boring)
+  - de: kalt
+    article: null
+    plural: null
+    en: cold
+    pos: adjective
+    tags: [weather-adjective]
+    core: true
+    example: "Im Winter ist es kalt."
+  - de: warm
+    article: null
+    plural: null
+    en: warm
+    pos: adjective
+    tags: [weather-adjective]
+    core: true
+    example: "Im Sommer ist es warm."
+  - de: heiß
+    article: null
+    plural: null
+    en: hot
+    pos: adjective
+    tags: [weather-adjective]
+    core: true
+    example: "Im August ist es heiß."
+  - de: windig
+    article: null
+    plural: null
+    en: windy
+    pos: adjective
+    tags: [weather-adjective]
+    core: true
+    example: "Heute ist es windig."
+  - de: schön
+    article: null
+    plural: null
+    en: nice
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das Wetter ist schön."
+  - de: schlecht
+    article: null
+    plural: null
+    en: bad
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das Wetter ist schlecht."
+  - de: langweilig
+    article: null
+    plural: null
+    en: boring
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Sport finde ich langweilig."
+
+  # ── Verbchunks (built from headwords above) ───────────────────────────────
+  # core: false so they don't double-count toward the Wortschatz total (F4).
+  # The §4 Lerntipp is explicit: learn hobbies as verb chunks, not as bare nouns.
+  - de: Fußball spielen
+    article: null
+    plural: null
+    en: to play football
+    pos: phrase
+    tags: [chunk]
+    core: false
+  - de: Tennis spielen
+    article: null
+    plural: null
+    en: to play tennis
+    pos: phrase
+    tags: [chunk]
+    core: false
+  - de: Karten spielen
+    article: null
+    plural: null
+    en: to play cards
+    pos: phrase
+    tags: [chunk]
+    core: false
+  - de: Gitarre spielen
+    article: null
+    plural: null
+    en: to play guitar
+    pos: phrase
+    tags: [chunk]
+    core: false
+  - de: Klavier spielen
+    article: null
+    plural: null
+    en: to play piano
+    pos: phrase
+    tags: [chunk]
+    core: false
+  - de: Musik hören
+    article: null
+    plural: null
+    en: to listen to music
+    pos: phrase
+    tags: [chunk]
+    core: false
+  - de: Rad fahren
+    article: null
+    plural: null
+    en: to cycle
+    pos: phrase
+    tags: [chunk]
+    core: false
+  - de: Ski fahren
+    article: null
+    plural: null
+    en: to ski
+    pos: phrase
+    tags: [chunk]
+    core: false
+  - de: Freunde treffen
+    article: null
+    plural: null
+    en: to meet friends
+    pos: phrase
+    tags: [chunk]
+    core: false
+  - de: schwimmen gehen
+    article: null
+    plural: null
+    en: to go swimming
+    pos: phrase
+    tags: [chunk]
+    core: false
+  - de: ins Kino gehen
+    article: null
+    plural: null
+    en: to go to the cinema
+    pos: phrase
+    tags: [chunk]
+    core: false
+  - de: zu Hause bleiben
+    article: null
+    plural: null
+    en: to stay at home
+    pos: phrase
+    tags: [chunk]
+    core: false
