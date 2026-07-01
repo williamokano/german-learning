@@ -1,0 +1,502 @@
+# Reviewed from A1/05 lesson.md §4 Wortschatz. Bootstrapped with build/import-vocab.ts
+# and then hand-corrected — the parser (wortschatz-parser.ts) drops non-3-gender
+# tables (the §4.4 Tageszeiten noun↔adverb map was lost entirely), misroutes bare
+# separable tokens (auf|stehen, ein|kaufen, …) to pos:other because they aren't
+# bolded in source (only the double-bold "Chunks:" line was caught), concatenates
+# the four "Chunks:" into a single token ("**schlafen gehen** …"), mangles "früh
+# ↔ spät" into one phrase, and folds the four frequency adverbs into one line.
+# Every entry below was filled by hand from §4. Tag taxonomy mirrors A1/03 + A1/01:
+#   [time] for measurement/category nouns, [time, concrete] for the noun-of-a-day,
+#   [verb] for routine verbs, [chunk] for inseparable verb phrases, [frequency] for
+#   frequency adverbs.
+lesson: A1/05
+
+entries:
+  # ── Tagesablauf-Verben (daily routine verbs) ────────────────────────────────
+  # Separable verbs are written with | in the source (auf|stehen) as a teaching
+  # device for §6.1; the lemma is the clean infinitive (aufstehen) and the example
+  # illustrates the bracket: "Ich stehe um sieben auf." Separability is conveyed by
+  # the example sentence, not in `tags`, so this list stays comparable to A1/03.
+  - de: aufstehen
+    article: null
+    plural: null
+    en: to get up
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Ich stehe um halb sieben auf."
+  - de: aufwachen
+    article: null
+    plural: null
+    en: to wake up
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Ich wache um sechs Uhr auf."
+  - de: einkaufen
+    article: null
+    plural: null
+    en: to shop
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Anna kauft am Samstag ein."
+  - de: anrufen
+    article: null
+    plural: null
+    en: to call
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Ich rufe meine Eltern an."
+  - de: anfangen
+    article: null
+    plural: null
+    en: to start
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Der Film fängt um acht an."
+  - de: aufräumen
+    article: null
+    plural: null
+    en: to tidy up
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Bruno räumt seine Wohnung auf."
+  - de: fernsehen
+    article: null
+    plural: null
+    en: to watch TV
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Ich sehe abends manchmal fern."
+  - de: mitkommen
+    article: null
+    plural: null
+    en: to come along
+    pos: verb
+    tags: [verb, motion]
+    core: true
+    example: "Kommst du mit?"
+  - de: ausgehen
+    article: null
+    plural: null
+    en: to go out
+    pos: verb
+    tags: [verb, motion]
+    core: true
+    example: "Wir gehen am Samstag aus."
+  - de: duschen
+    article: null
+    plural: null
+    en: to shower
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Anna duscht am Morgen."
+  - de: frühstücken
+    article: null
+    plural: null
+    en: to have breakfast
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Ich frühstücke um halb sieben."
+  - de: arbeiten
+    article: null
+    plural: null
+    en: to work
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Anna arbeitet von acht bis fünf."
+  - de: kochen
+    article: null
+    plural: null
+    en: to cook
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Bruno kocht am Abend."
+  - de: machen
+    article: null
+    plural: null
+    en: to do
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Was machst du am Wochenende?"
+  - de: schlafen
+    article: null
+    plural: null
+    en: to sleep
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Bruno schläft am Samstag lange."
+  - de: lernen
+    article: null
+    plural: null
+    en: to learn
+    pos: verb
+    tags: [verb, routine]
+    core: true
+    example: "Ich lerne jeden Abend Deutsch."
+  - de: beginnen
+    article: null
+    plural: null
+    en: to begin
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Der Kurs beginnt um neun."
+  - de: enden
+    article: null
+    plural: null
+    en: to end
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Der Kurs endet um fünf."
+
+  # ── Chunks (verb phrases, learned as units) ─────────────────────────────────
+  # These pair a motion verb with a destination noun — teach them as one chunk.
+  # Mirror A1/03 phrase style: pos: phrase, core: false so they don't double-count
+  # against the headword verbs above.
+  - de: schlafen gehen
+    article: null
+    plural: null
+    en: to go to sleep
+    pos: phrase
+    tags: [chunk, verb]
+    core: false
+    example: "Ich gehe um elf schlafen."
+  - de: zu Mittag essen
+    article: null
+    plural: null
+    en: to have lunch
+    pos: phrase
+    tags: [chunk, verb]
+    core: false
+    example: "Anna isst zu Mittag um halb eins."
+  - de: zu Abend essen
+    article: null
+    plural: null
+    en: to have dinner
+    pos: phrase
+    tags: [chunk, verb]
+    core: false
+    example: "Wir essen zu Abend um acht."
+  - de: ins Kino gehen
+    article: null
+    plural: null
+    en: to go to the movies
+    pos: phrase
+    tags: [chunk, verb]
+    core: false
+    example: "Wir gehen am Samstag ins Kino."
+  - de: zur Arbeit gehen
+    article: null
+    plural: null
+    en: to go to work
+    pos: phrase
+    tags: [chunk, verb]
+    core: false
+    example: "Bruno geht um acht zur Arbeit."
+
+  # ── Die Zeit (time vocabulary) ──────────────────────────────────────────────
+  # Both senses of "die Uhr" (clock / o'clock) are intentional; the lesson's Lerntipp
+  # highlights that double meaning. `plural: null` for die Zeit (mass noun).
+  - de: Uhr
+    article: die
+    plural: Uhren
+    en: clock
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Es ist acht Uhr."
+  - de: Stunde
+    article: die
+    plural: Stunden
+    en: hour
+    pos: noun
+    tags: [time]
+    core: true
+    example: "Ich arbeite acht Stunden am Tag."
+  - de: Minute
+    article: die
+    plural: Minuten
+    en: minute
+    pos: noun
+    tags: [time]
+    core: true
+    example: "Es ist fünf Minuten nach sieben."
+  - de: Zeit
+    article: die
+    plural: null
+    en: time
+    pos: noun
+    tags: [time]
+    core: true
+    example: "Hast du am Samstag Zeit?"
+  - de: Mittagspause
+    article: die
+    plural: Mittagspausen
+    en: lunch break
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Anna hat von halb eins bis halb zwei Mittagspause."
+  - de: Tag
+    article: der
+    plural: Tage
+    en: day
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Das ist mein freier Tag."
+  - de: Woche
+    article: die
+    plural: Wochen
+    en: week
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Ich lerne jede Woche Deutsch."
+  - de: Wochenende
+    article: das
+    plural: Wochenenden
+    en: weekend
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Am Wochenende schlafe ich lange."
+  - de: Film
+    article: der
+    plural: Filme
+    en: film
+    pos: noun
+    tags: [media, concrete]
+    core: true
+    example: "Der Film fängt um acht an."
+  - de: Kino
+    article: das
+    plural: Kinos
+    en: cinema
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Wir gehen ins Kino."
+
+  # ── Adjektive (antonym pair from the §4 Zeit group) ────────────────────────
+  # früh & spät work as both adjective ("der frühe Morgen") and adverb ("früh
+  # aufstehen"); we model them as adjectives so the -s adverb form (morgens etc.)
+  # below isn't a homograph collision.
+  - de: früh
+    article: null
+    plural: null
+    en: early
+    pos: adjective
+    tags: [time, adjective]
+    core: true
+    example: "Ich stehe früh auf."
+  - de: spät
+    article: null
+    plural: null
+    en: late
+    pos: adjective
+    tags: [time, adjective]
+    core: true
+    example: "Bruno steht am Samstag spät auf."
+
+  # ── Wochentage (days of the week — all masculine, used with `am`) ──────────
+  - de: Montag
+    article: der
+    plural: null
+    en: Monday
+    pos: noun
+    tags: [time, concrete, day]
+    core: true
+    example: "Am Montag habe ich einen Kurs."
+  - de: Dienstag
+    article: der
+    plural: null
+    en: Tuesday
+    pos: noun
+    tags: [time, concrete, day]
+    core: true
+  - de: Mittwoch
+    article: der
+    plural: null
+    en: Wednesday
+    pos: noun
+    tags: [time, concrete, day]
+    core: true
+  - de: Donnerstag
+    article: der
+    plural: null
+    en: Thursday
+    pos: noun
+    tags: [time, concrete, day]
+    core: true
+  - de: Freitag
+    article: der
+    plural: null
+    en: Friday
+    pos: noun
+    tags: [time, concrete, day]
+    core: true
+  - de: Samstag
+    article: der
+    plural: null
+    en: Saturday
+    pos: noun
+    tags: [time, concrete, day]
+    core: true
+    example: "Hast du am Samstag Zeit?"
+  - de: Sonntag
+    article: der
+    plural: null
+    en: Sunday
+    pos: noun
+    tags: [time, concrete, day]
+    core: true
+    example: "Sonntag ist mein bester Tag."
+
+  # ── Tageszeiten (parts of day — nouns) ─────────────────────────────────────
+  # All masculine except die Nacht. Tag/Abend/Morgen take `am`; Nacht takes `in der`
+  # — the lesson's Lerntipp flags the exception.
+  - de: Morgen
+    article: der
+    plural: Morgen
+    en: morning
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Am Morgen dusche ich."
+  - de: Vormittag
+    article: der
+    plural: Vormittage
+    en: late morning
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Am Vormittag lerne ich."
+  - de: Mittag
+    article: der
+    plural: Mittage
+    en: noon
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Am Mittag esse ich zu Mittag."
+  - de: Nachmittag
+    article: der
+    plural: Nachmittage
+    en: afternoon
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Am Nachmittag rufe ich meine Eltern an."
+  - de: Abend
+    article: der
+    plural: Abende
+    en: evening
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Am Abend koche ich."
+  - de: Nacht
+    article: die
+    plural: Nächte
+    en: night
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "In der Nacht schlafe ich."
+
+  # ── Tageszeiten (parts of day — adverbs, -s form) ──────────────────────────
+  # The -s form turns the noun into an adverbial that replaces am/in der + noun:
+  # "am Morgen" → "morgens"; "in der Nacht" → "nachts". Listed separately so the
+  # noun/adverb pair is searchable by either form.
+  - de: morgens
+    article: null
+    plural: null
+    en: in the morning
+    pos: adverb
+    tags: [time, adverb]
+    core: true
+    example: "Ich stehe morgens um sieben auf."
+  - de: vormittags
+    article: null
+    plural: null
+    en: in the late morning
+    pos: adverb
+    tags: [time, adverb]
+    core: true
+  - de: mittags
+    article: null
+    plural: null
+    en: at noon
+    pos: adverb
+    tags: [time, adverb]
+    core: true
+  - de: nachmittags
+    article: null
+    plural: null
+    en: in the afternoon
+    pos: adverb
+    tags: [time, adverb]
+    core: true
+  - de: abends
+    article: null
+    plural: null
+    en: in the evening
+    pos: adverb
+    tags: [time, adverb]
+    core: true
+    example: "Abends sehe ich nicht fern."
+  - de: nachts
+    article: null
+    plural: null
+    en: at night
+    pos: adverb
+    tags: [time, adverb]
+    core: true
+
+  # ── Häufigkeit (frequency adverbs) ─────────────────────────────────────────
+  # The four words of the "scale" in the lesson's Lerntipp: immer → oft → manchmal → nie.
+  - de: immer
+    article: null
+    plural: null
+    en: always
+    pos: adverb
+    tags: [frequency]
+    core: true
+    example: "Ich stehe immer um sechs auf."
+  - de: oft
+    article: null
+    plural: null
+    en: often
+    pos: adverb
+    tags: [frequency]
+    core: true
+  - de: manchmal
+    article: null
+    plural: null
+    en: sometimes
+    pos: adverb
+    tags: [frequency]
+    core: true
+    example: "Manchmal rufe ich meine Eltern an."
+  - de: nie
+    article: null
+    plural: null
+    en: never
+    pos: adverb
+    tags: [frequency]
+    core: true
+    example: "Bruno kocht nie."
