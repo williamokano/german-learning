@@ -1,0 +1,252 @@
+# Reviewed from B1/09 lesson.md §4 Wortschatz.
+# Note: V2 parser captured most entries. `Bürgeramt, -ä-er` lost its umlaut+er plural
+# (V2 flagged check plural instead). `Aufenthaltstitel` false-umlauted to
+# `Äufenthaltstitel` (der Titel never umlauts). `Antrag, -ä-e` lost its plural.
+# `Dolmetscher, –` (unchanged plural) was flagged needsReview. All hand-fixed.
+#
+# Section headers in lesson.md:
+#   Servicegespräche (service situations)                — 14 nouns
+#   Verben für höfliche Kommunikation                     — 10 verbs
+#   Adjektive und Adverbien                               — 7 adjectives
+lesson: B1/09
+
+entries:
+  # ── Servicegespräche — 14 nouns ────────────────────────────────────────────
+  - de: Bürgeramt
+    article: das
+    plural: Bürgerämter
+    en: registration office; civic office
+    pos: noun
+    tags: [office, place, concrete]
+    core: true
+    example: "Ich muss zum Bürgeramt."
+  - de: Aufenthaltstitel
+    article: der
+    plural: null
+    en: residence permit
+    pos: noun
+    tags: [office, document]
+    core: true
+  - de: Antrag
+    article: der
+    plural: Anträge
+    en: application; form
+    pos: noun
+    tags: [office, document]
+    core: true
+    example: "Ist mein Antrag schon bearbeitet?"
+  - de: Termin
+    article: der
+    plural: Termine
+    en: appointment
+    pos: noun
+    tags: [office, abstract]
+    core: true
+  - de: Dokument
+    article: das
+    plural: Dokumente
+    en: document
+    pos: noun
+    tags: [office, document]
+    core: true
+  - de: Missverständnis
+    article: das
+    plural: Missverständnisse
+    en: misunderstanding
+    pos: noun
+    tags: [communication, abstract]
+    core: true
+    example: "Das war ein Missverständnis."
+  - de: Anweisung
+    article: die
+    plural: Anweisungen
+    en: instruction; directive
+    pos: noun
+    tags: [communication, abstract]
+    core: true
+  - de: Version
+    article: die
+    plural: Versionen
+    en: version
+    pos: noun
+    tags: [work, abstract]
+    core: true
+  - de: Präsentation
+    article: die
+    plural: Präsentationen
+    en: presentation
+    pos: noun
+    tags: [work, abstract]
+    core: true
+  - de: Format
+    article: das
+    plural: Formate
+    en: format
+    pos: noun
+    tags: [work, abstract]
+    core: true
+  - de: Diskussion
+    article: die
+    plural: Diskussionen
+    en: discussion
+    pos: noun
+    tags: [communication, abstract]
+    core: true
+  - de: Geduld
+    article: die
+    plural: null
+    en: patience
+    pos: noun
+    tags: [virtue, abstract]
+    core: true
+    example: "Bitte haben Sie etwas Geduld."
+  - de: Gespräch
+    article: das
+    plural: Gespräche
+    en: conversation
+    pos: noun
+    tags: [communication, abstract]
+    core: true
+  - de: Dolmetscher
+    article: der
+    plural: null
+    en: interpreter (male)
+    pos: noun
+    tags: [person, concrete, career]
+    core: true
+  - de: Dolmetscherin
+    article: die
+    plural: Dolmetscherinnen
+    en: interpreter (female)
+    pos: noun
+    tags: [person, concrete, career]
+    core: true
+
+  # ── Verben für höfliche Kommunikation — 10 verbs ────────────────────────────
+  - de: klären
+    article: null
+    plural: null
+    en: to clarify
+    pos: verb
+    tags: [verb, polite]
+    core: true
+    example: "Ein Missverständnis klären."
+  - de: erklären
+    article: null
+    plural: null
+    en: to explain
+    pos: verb
+    tags: [verb, polite]
+    core: true
+    example: "Könnten Sie das erklären?"
+  - de: wiederholen
+    article: null
+    plural: null
+    en: to repeat
+    pos: verb
+    tags: [verb, polite]
+    core: true
+    example: "Würden Sie das wiederholen?"
+  - de: buchstabieren
+    article: null
+    plural: null
+    en: to spell
+    pos: verb
+    tags: [verb, polite]
+    core: true
+  - de: verbinden
+    article: null
+    plural: null
+    en: to connect (phone)
+    pos: verb
+    tags: [verb, polite, strong]
+    core: true
+  - de: stören
+    article: null
+    plural: null
+    en: to disturb
+    pos: verb
+    tags: [verb, polite]
+    core: true
+    example: "Störe ich?"
+  - de: einreichen
+    article: null
+    plural: null
+    en: to submit
+    pos: verb
+    tags: [verb, separable, office]
+    core: true
+    example: "Dürfte ich das einreichen?"
+  - de: bearbeiten
+    article: null
+    plural: null
+    en: to process
+    pos: verb
+    tags: [verb, office]
+    core: true
+  - de: einbinden
+    article: null
+    plural: null
+    en: to incorporate
+    pos: verb
+    tags: [verb, separable, strong]
+    core: true
+  - de: recherchieren
+    article: null
+    plural: null
+    en: to research
+    pos: verb
+    tags: [verb]
+    core: true
+
+  # ── Adjektive und Adverbien — 7 words ───────────────────────────────────────
+  - de: endgültig
+    article: null
+    plural: null
+    en: final; definitive
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: unklar
+    article: null
+    plural: null
+    en: unclear
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das ist mir noch unklar."
+  - de: persönlich
+    article: null
+    plural: null
+    en: in person; personal
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: selbstverständlich
+    article: null
+    plural: null
+    en: of course; certainly
+    pos: adverb
+    tags: [adverb]
+    core: true
+  - de: höflich
+    article: null
+    plural: null
+    en: polite
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: direkt
+    article: null
+    plural: null
+    en: direct
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: genau
+    article: null
+    plural: null
+    en: exactly; precisely
+    pos: adverb
+    tags: [adverb]
+    core: true
