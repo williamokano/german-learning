@@ -1,0 +1,484 @@
+# Reviewed from A2/02 lesson.md §4 Wortschatz. Bootstrapped with build/import-vocab.ts.
+#
+# Parser gaps (consistent with V2 findings across A1):
+#   1. "die Decke" appears in two tables (§4.1 blanket / §4.2 ceiling) — parser kept
+#      both, producing a duplicate entry that the schema rejects. Hand pass keeps one
+#      entry with the polysemy captured in the gloss (the lesson gloss §4.1 already
+#      says "blanket; also: ceiling").
+#   2. "der Stock / Stockwerk, -e" — the forward slash is stripped by DECORATION
+#      so the parser produced one mangled entry `de: "Stock Stockwerk"`. Hand pass
+#      splits into Stock (der, regional) and Stockwerk (das, standard).
+#   3. "der Mitbewohner, - / die Mitbewohnerin, -nen" — parser extracted only the
+#      masculine lemma. Hand pass adds the feminine Mitbewohnerin (parallel to A1/02
+#      family table which split Maskulin/Feminin into two entries each).
+#   4. "der Vermieter, - / die Vermieterin, -nen" — same pattern as #3; split.
+#   5. Verb table (Verb | Meaning | Perfekt) — the `findEnglishCellIndex` heuristic
+#      picked whichever cell was shorter. For verbs whose Meaning is longer than the
+#      Perfekt (stellen, stehen, legen, liegen, hängen, einrichten), the Perfekt
+#      leaked into `en`. Hand pass writes the correct Meaning column.
+#   6. "hängen bleiben" — parser routed the multi-word token to `pos: phrase`
+#      because the space wasn't the | pipe typography. Linguistically this is a
+#      separable verb (trennbares Verb); hand pass retags to pos: verb + separable.
+#   7. "die Wohngemeinschaft, -en (WG)" — parser put `plural: "WG"` (the
+#      abbreviation in parentheses). Hand pass corrects plural to
+#      "Wohngemeinschaften"; the WG abbreviation is captured in the gloss.
+#
+# All `needsReview` flags and `reviewNote` hints are cleared.
+lesson: A2/02
+
+entries:
+  # ── Möbel und Einrichtung (furniture and furnishings) ────────────────────
+  # 19 nouns from §4.1. Parser captured gender + plural correctly. Hand pass adds
+  # tag taxonomy ([furniture, concrete] mirrors A1/04) and a few illustrative
+  # examples from §1 dialogs + §5 mini-story.
+  - de: Bett
+    article: das
+    plural: Betten
+    en: bed
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+    example: "Das Bett steht unter dem Fenster."
+  - de: Schrank
+    article: der
+    plural: Schränke
+    en: wardrobe, cupboard
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Kleiderschrank
+    article: der
+    plural: Kleiderschränke
+    en: wardrobe
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Regal
+    article: das
+    plural: Regale
+    en: shelf, bookcase
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Tisch
+    article: der
+    plural: Tische
+    en: table
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+    example: "Der Tisch steht am Fenster."
+  - de: Stuhl
+    article: der
+    plural: Stühle
+    en: chair
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Sofa
+    article: das
+    plural: Sofas
+    en: sofa
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+    example: "Das Sofa steht vor dem Fernseher."
+  - de: Sessel
+    article: der
+    plural: Sessel
+    en: armchair
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Lampe
+    article: die
+    plural: Lampen
+    en: lamp
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+    example: "Die Lampe hängt über dem Schreibtisch."
+  - de: Bücherregal
+    article: das
+    plural: Bücherregale
+    en: bookshelf
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Schreibtisch
+    article: der
+    plural: Schreibtische
+    en: desk
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Fernseher
+    article: der
+    plural: Fernseher
+    en: television
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Bild
+    article: das
+    plural: Bilder
+    en: picture, painting
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+    example: "Das Bild hängt an der Wand."
+  - de: Spiegel
+    article: der
+    plural: Spiegel
+    en: mirror
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Kommode
+    article: die
+    plural: Kommoden
+    en: chest of drawers
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Teppich
+    article: der
+    plural: Teppiche
+    en: rug, carpet
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Kissen
+    article: das
+    plural: Kissen
+    en: cushion, pillow
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+  - de: Decke
+    article: die
+    plural: Decken
+    en: "blanket; also: ceiling"
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+    example: "Die Decke liegt auf dem Bett."
+  - de: Vorhang
+    article: der
+    plural: Vorhänge
+    en: curtain
+    pos: noun
+    tags: [furniture, concrete]
+    core: true
+
+  # ── Räume und Teile der Wohnung (rooms and parts of the flat) ─────────────
+  # 15 noun lines from §4.2. Hand pass: (a) drops the duplicate "die Decke" (the
+  # §4.2 ceiling sense is captured in the §4.1 entry's gloss), (b) splits the
+  # combined "Stock / Stockwerk" cell into two lemmas with their respective
+  # articles.
+  - de: Wohnung
+    article: die
+    plural: Wohnungen
+    en: flat, apartment
+    pos: noun
+    tags: [room, concrete]
+    core: true
+    example: "Die Wohnung ist im dritten Stock."
+  - de: Zimmer
+    article: das
+    plural: Zimmer
+    en: room
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Küche
+    article: die
+    plural: Küchen
+    en: kitchen
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Badezimmer
+    article: das
+    plural: Badezimmer
+    en: bathroom
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Wohnzimmer
+    article: das
+    plural: Wohnzimmer
+    en: living room
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Schlafzimmer
+    article: das
+    plural: Schlafzimmer
+    en: bedroom
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Kinderzimmer
+    article: das
+    plural: Kinderzimmer
+    en: children's room
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Flur
+    article: der
+    plural: Flure
+    en: hallway, corridor
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Wand
+    article: die
+    plural: Wände
+    en: wall
+    pos: noun
+    tags: [room, concrete]
+    core: true
+    example: "Das Regal steht an der Wand."
+  - de: Boden
+    article: der
+    plural: Böden
+    en: floor
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Fenster
+    article: das
+    plural: Fenster
+    en: window
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Tür
+    article: die
+    plural: Türen
+    en: door
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Treppe
+    article: die
+    plural: Treppen
+    en: stairs
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  # Two separate lemmas; the lesson listed them in one cell with a slash.
+  - de: Stock
+    article: der
+    plural: Stöcke
+    en: floor, storey (regional)
+    pos: noun
+    tags: [room, concrete]
+    core: true
+  - de: Stockwerk
+    article: das
+    plural: Stockwerke
+    en: floor, storey
+    pos: noun
+    tags: [room, concrete]
+    core: true
+
+  # ── Zusammenwohnen (living together) ─────────────────────────────────────
+  # 11 noun lines from §4.3. Hand pass: (a) split Mitbewohner / Mitbewohnerin
+  # into two entries (parallel to A1/02 family table), (b) split Vermieter /
+  # Vermieterin likewise, (c) correct Wohngemeinschaft plural from the WG
+  # abbreviation to the actual plural form.
+  - de: Wohngemeinschaft
+    article: die
+    plural: Wohngemeinschaften
+    en: flat share (abbr. WG)
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+    example: "Ich wohne in einer Wohngemeinschaft."
+  - de: Mitbewohner
+    article: der
+    plural: null
+    en: flatmate (male)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Mitbewohnerin
+    article: die
+    plural: Mitbewohnerinnen
+    en: flatmate (female)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Hausregel
+    article: die
+    plural: Hausregeln
+    en: house rule
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+    example: "Keine Musik nach 22 Uhr — das ist eine Hausregel."
+  - de: Haushalt
+    article: der
+    plural: Haushalte
+    en: household
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+  - de: Miete
+    article: die
+    plural: Mieten
+    en: rent
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+  - de: Vermieter
+    article: der
+    plural: null
+    en: landlord
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Vermieterin
+    article: die
+    plural: Vermieterinnen
+    en: landlady
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Mietvertrag
+    article: der
+    plural: Mietverträge
+    en: rental contract
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+  - de: Kiste
+    article: die
+    plural: Kisten
+    en: box, crate
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+  - de: Karton
+    article: der
+    plural: Kartons
+    en: cardboard box
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+  - de: Einzug
+    article: der
+    plural: null
+    en: move-in
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+  - de: Auszug
+    article: der
+    plural: null
+    en: move-out
+    pos: noun
+    tags: [housing, concrete]
+    core: true
+
+  # ── Verben (verbs) ───────────────────────────────────────────────────────
+  # 12 verbs from §4.4 (placement verbs + einrichten / einziehen / ausziehen /
+  # teilen / putzen / aufräumen / hängen bleiben). Hand pass: every `en` is the
+  # Meaning column (parser sometimes grabbed the shorter Perfekt cell);
+  # "hängen bleiben" reclassified from pos: phrase to pos: verb + separable
+  # (trennbares Verb).
+  - de: stellen
+    article: null
+    plural: null
+    en: to put (upright)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich stelle das Buch ins Regal."
+  - de: stehen
+    article: null
+    plural: null
+    en: to stand (be upright)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Das Regal steht an der Wand."
+  - de: legen
+    article: null
+    plural: null
+    en: to lay (put flat)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich lege die Zeitung auf den Tisch."
+  - de: liegen
+    article: null
+    plural: null
+    en: to lie (be flat)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Das Buch liegt auf dem Tisch."
+  - de: hängen
+    article: null
+    plural: null
+    en: "to hang (transitive / intransitive)"
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Die Lampe hängt über dem Bett."
+  - de: einrichten
+    article: null
+    plural: null
+    en: to furnish, set up
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: einziehen
+    article: null
+    plural: null
+    en: to move in
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Anna ist in eine neue WG eingezogen."
+  - de: ausziehen
+    article: null
+    plural: null
+    en: to move out
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: teilen
+    article: null
+    plural: null
+    en: to share
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: putzen
+    article: null
+    plural: null
+    en: to clean
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Jeder putzt die Küche einmal pro Woche."
+  - de: aufräumen
+    article: null
+    plural: null
+    en: to tidy up
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: hängen bleiben
+    article: null
+    plural: null
+    en: to get stuck
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Das Foto bleibt an der Wand hängen."
