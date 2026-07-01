@@ -1,0 +1,300 @@
+# Reviewed from B1/04 lesson.md §4 Wortschatz.
+# Note: V2 parser captured most entries cleanly. False-umlaut on `Verfahren` (→ `Verfähren`),
+# `Partizip II` form bled into `en` for 4 separable/irregular verbs (`freigeben`,
+# `vornehmen`, `bekannt geben`, `beschließen`), and the reminder footnote got picked up
+# as a phrase. All hand-fixed.
+#
+# Section headers in lesson.md:
+#   Prozesse und Produktion (processes and production) — 15 nouns + 11 verbs (passive-relevant)
+#   Nachrichtensprache (news language)               — 7 verbs + 4 nouns
+lesson: B1/04
+
+entries:
+  # ── Prozesse und Produktion — 15 nouns ─────────────────────────────────────
+  - de: Herstellung
+    article: die
+    plural: Herstellungen
+    en: production; manufacturing
+    pos: noun
+    tags: [work, process]
+    core: true
+    example: "Die Herstellung wurde überprüft."
+  - de: Prozess
+    article: der
+    plural: Prozesse
+    en: process
+    pos: noun
+    tags: [work, process]
+    core: true
+  - de: Produktion
+    article: die
+    plural: Produktionen
+    en: production
+    pos: noun
+    tags: [work, process]
+    core: true
+  - de: Verfahren
+    article: das
+    plural: null
+    en: procedure; process
+    pos: noun
+    tags: [work, process]
+    core: true
+  - de: Anlage
+    article: die
+    plural: Anlagen
+    en: plant; facility
+    pos: noun
+    tags: [work, process, place, concrete]
+    core: true
+  - de: Rohstoff
+    article: der
+    plural: Rohstoffe
+    en: raw material
+    pos: noun
+    tags: [work, process, concrete]
+    core: true
+  - de: Bauteil
+    article: das
+    plural: Bauteile
+    en: component; part
+    pos: noun
+    tags: [work, process, concrete]
+    core: true
+  - de: Fabrik
+    article: die
+    plural: Fabriken
+    en: factory
+    pos: noun
+    tags: [work, process, place, concrete]
+    core: true
+  - de: Qualität
+    article: die
+    plural: Qualitäten
+    en: quality
+    pos: noun
+    tags: [work, process]
+    core: true
+  - de: Kontrolle
+    article: die
+    plural: Kontrollen
+    en: check; inspection
+    pos: noun
+    tags: [work, process]
+    core: true
+  - de: Genehmigung
+    article: die
+    plural: Genehmigungen
+    en: approval; permit
+    pos: noun
+    tags: [work, process]
+    core: true
+  - de: Bericht
+    article: der
+    plural: Berichte
+    en: report
+    pos: noun
+    tags: [work, document]
+    core: true
+  - de: Vorlage
+    article: die
+    plural: Vorlagen
+    en: template; submission
+    pos: noun
+    tags: [work, document]
+    core: true
+  - de: Fehler
+    article: der
+    plural: null
+    en: error; mistake
+    pos: noun
+    tags: [work, abstract]
+    core: true
+    example: "Ein Fehler wurde gefunden."
+  - de: Schulung
+    article: die
+    plural: Schulungen
+    en: training (course)
+    pos: noun
+    tags: [work, education]
+    core: true
+
+  # ── Prozesse und Produktion — 11 verbs (passive-relevant) ──────────────────
+  - de: herstellen
+    article: null
+    plural: null
+    en: to manufacture; to produce
+    pos: verb
+    tags: [verb, separable, strong]
+    core: true
+    example: "Das Produkt wird in der Fabrik hergestellt."
+  - de: verarbeiten
+    article: null
+    plural: null
+    en: to process
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: bauen
+    article: null
+    plural: null
+    en: to build
+    pos: verb
+    tags: [verb, strong]
+    core: true
+    example: "Das Haus wird gerade gebaut."
+  - de: prüfen
+    article: null
+    plural: null
+    en: to check; to test
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: genehmigen
+    article: null
+    plural: null
+    en: to approve
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Der Antrag wurde genehmigt."
+  - de: zusammenstellen
+    article: null
+    plural: null
+    en: to compile; to assemble
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: überprüfen
+    article: null
+    plural: null
+    en: to verify; to review
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: korrigieren
+    article: null
+    plural: null
+    en: to correct
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Der Fehler wurde korrigiert."
+  - de: einführen
+    article: null
+    plural: null
+    en: to introduce; to implement
+    pos: verb
+    tags: [verb, separable, strong]
+    core: true
+    example: "Das neue System wird eingeführt."
+  - de: freigeben
+    article: null
+    plural: null
+    en: to release; to approve
+    pos: verb
+    tags: [verb, separable, strong]
+    core: true
+    example: "Der Bericht wurde freigegeben."
+  - de: vornehmen
+    article: null
+    plural: null
+    en: to carry out; to make (changes)
+    pos: verb
+    tags: [verb, separable, strong]
+    core: true
+
+  # ── Nachrichtensprache — 7 verbs ───────────────────────────────────────────
+  - de: berichten
+    article: null
+    plural: null
+    en: to report (on)
+    pos: verb
+    tags: [verb, accusative]
+    core: true
+    example: "Er berichtet über den Vorfall."
+  - de: bekannt geben
+    article: null
+    plural: null
+    en: to announce
+    pos: verb
+    tags: [verb, separable, strong]
+    core: true
+    example: "Das Ergebnis wird bekannt gegeben."
+  - de: ankündigen
+    article: null
+    plural: null
+    en: to announce in advance
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Die Eröffnung wurde angekündigt."
+  - de: veröffentlichen
+    article: null
+    plural: null
+    en: to publish
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Der Bericht wurde veröffentlicht."
+  - de: bestätigen
+    article: null
+    plural: null
+    en: to confirm
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Die Meldung wurde bestätigt."
+  - de: eröffnen
+    article: null
+    plural: null
+    en: to open (officially)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Die Ausstellung wurde eröffnet."
+  - de: beschließen
+    article: null
+    plural: null
+    en: to decide; to resolve
+    pos: verb
+    tags: [verb, strong]
+    core: true
+    example: "Es wurde beschlossen, das Projekt zu stoppen."
+
+  # ── Nachrichtensprache — 4 nouns ───────────────────────────────────────────
+  - de: Meldung
+    article: die
+    plural: Meldungen
+    en: report; news item
+    pos: noun
+    tags: [news, abstract]
+    core: true
+  - de: Ankündigung
+    article: die
+    plural: Ankündigungen
+    en: announcement
+    pos: noun
+    tags: [news, abstract]
+    core: true
+  - de: Veröffentlichung
+    article: die
+    plural: Veröffentlichungen
+    en: publication
+    pos: noun
+    tags: [news, abstract]
+    core: true
+  - de: Maßnahme
+    article: die
+    plural: Maßnahmen
+    en: measure; step
+    pos: noun
+    tags: [news, abstract]
+    core: true
+  - de: Entscheidung
+    article: die
+    plural: Entscheidungen
+    en: decision
+    pos: noun
+    tags: [news, abstract]
+    core: true
