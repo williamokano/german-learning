@@ -1,0 +1,318 @@
+# Reviewed from A2/09 lesson.md §4 Wortschatz. Bootstrapped with build/import-vocab.ts.
+#
+# Section headers in lesson.md:
+#   Im Restaurant (at the restaurant)  — 14 nouns (incl. Nachspeise plural Nachspeisen
+#                                        restored from the lesson's "-n" plural form
+#                                        which the parser flagged needsReview)
+#   Im Geschäft (at the shop)         — 7 nouns (commercial / complaint vocabulary)
+#   Einladungen (invitations)          — 5 nouns (social / correspondence)
+#   Wichtige Verben (important verbs)  — 8 verbs (3 separable, 1 reflexive,
+#                                        1 e→ie vowel change, 3 regular -ieren verbs)
+#
+# Konjunktiv II politeness forms (würde, könnte, hätte, wäre) are GRAMMAR (§6) and
+# not lemmas, so they don't appear here. Same for the modal particles (doch, mal, ja) —
+# they live in §3 Redemittel rather than §4 Wortschatz and are out of scope for this
+# vocab file. K II forms will get their own grammar-anchored vocab entries in a later
+# iteration if needed (likely B1, not A2 — Konjunktiv II unreal past is B1 scope).
+lesson: A2/09
+
+entries:
+  # ── Im Restaurant — der (m) ─────────────────────────────────────────────────
+  - de: Kellner
+    article: der
+    plural: null
+    en: waiter
+    pos: noun
+    tags: [restaurant, person]
+    core: true
+    example: "Der Kellner bringt die Speisekarte."
+  - de: Kellnerin
+    article: die
+    plural: Kellnerinnen
+    en: waitress
+    pos: noun
+    tags: [restaurant, person]
+    core: true
+    example: "Die Kellnerin lächelt freundlich."
+  - de: Platz
+    article: der
+    plural: Plätze
+    en: seat; place; square
+    pos: noun
+    tags: [restaurant, concrete]
+    core: true
+    example: "Haben Sie noch einen Platz frei?"
+  - de: Fensterplatz
+    article: der
+    plural: Fensterplätze
+    en: window seat
+    pos: noun
+    tags: [restaurant, concrete]
+    core: true
+    example: "Wir hätten gern einen Fensterplatz."
+
+  # ── Im Restaurant — das (n) ─────────────────────────────────────────────────
+  - de: Tagesgericht
+    article: das
+    plural: Tagesgerichte
+    en: dish of the day; daily special
+    pos: noun
+    tags: [restaurant, food]
+    core: true
+    example: "Was ist heute das Tagesgericht?"
+  - de: Hauptgericht
+    article: das
+    plural: Hauptgerichte
+    en: main course
+    pos: noun
+    tags: [restaurant, food]
+    core: true
+    example: "Als Hauptgericht nehme ich den Lachs."
+  - de: Trinkgeld
+    article: das
+    plural: Trinkgelder
+    en: tip; gratuity
+    pos: noun
+    tags: [restaurant, concrete]
+    core: true
+    example: "In Deutschland gibt man 5–10 % Trinkgeld."
+  - de: Gericht
+    article: das
+    plural: Gerichte
+    en: dish; meal; court (of law)
+    pos: noun
+    tags: [restaurant, food]
+    core: true
+    example: "Das vegetarische Gericht schmeckt super."
+
+  # ── Im Restaurant — die (f) ─────────────────────────────────────────────────
+  - de: Speisekarte
+    article: die
+    plural: Speisekarten
+    en: menu
+    pos: noun
+    tags: [restaurant, food]
+    core: true
+    example: "Darf ich Ihnen die Speisekarte bringen?"
+  - de: Vorspeise
+    article: die
+    plural: Vorspeisen
+    en: starter; appetiser
+    pos: noun
+    tags: [restaurant, food]
+    core: true
+  - de: Nachspeise
+    article: die
+    plural: Nachspeisen
+    en: dessert; sweet (course)
+    pos: noun
+    tags: [restaurant, food]
+    core: true
+    example: "Als Nachspeise hätte ich gern ein Stück Kuchen."
+  - de: Rechnung
+    article: die
+    plural: Rechnungen
+    en: bill; check
+    pos: noun
+    tags: [restaurant, concrete]
+    core: true
+    example: "Die Rechnung, bitte!"
+  - de: Reservierung
+    article: die
+    plural: Reservierungen
+    en: reservation; booking
+    pos: noun
+    tags: [restaurant, concrete]
+    core: true
+    example: "Ich hätte gern eine Reservierung für zwei Personen."
+  - de: Bestellung
+    article: die
+    plural: Bestellungen
+    en: order
+    pos: noun
+    tags: [restaurant, concrete]
+    core: true
+    example: "Ihre Bestellung kommt sofort."
+  - de: Soße
+    article: die
+    plural: Soßen
+    en: sauce; gravy
+    pos: noun
+    tags: [restaurant, food]
+    core: true
+    example: "Könnten Sie die Soße ohne Knoblauch machen?"
+
+  # ── Im Geschäft — der / das ─────────────────────────────────────────────────
+  - de: Umtausch
+    article: der
+    plural: null
+    en: exchange (of goods)
+    pos: noun
+    tags: [shopping, concrete]
+    core: true
+    example: "Ohne Quittung kein Umtausch."
+  - de: Kassenbon
+    article: der
+    plural: Kassenbons
+    en: receipt (from a till)
+    pos: noun
+    tags: [shopping, concrete]
+    core: true
+    example: "Haben Sie den Kassenbon noch?"
+  - de: Artikel
+    article: der
+    plural: Artikel
+    en: item; article
+    pos: noun
+    tags: [shopping, concrete]
+    core: true
+  - de: Angebot
+    article: das
+    plural: Angebote
+    en: offer; special deal
+    pos: noun
+    tags: [shopping, concrete]
+    core: true
+    example: "Dieser Artikel ist heute im Angebot."
+
+  # ── Im Geschäft — die (f) ──────────────────────────────────────────────────
+  - de: Quittung
+    article: die
+    plural: Quittungen
+    en: receipt
+    pos: noun
+    tags: [shopping, concrete]
+    core: true
+    example: "Hätten Sie die Quittung dabei?"
+  - de: Reklamation
+    article: die
+    plural: Reklamationen
+    en: formal complaint (about goods)
+    pos: noun
+    tags: [shopping, concrete]
+    core: true
+    example: "Ich möchte eine Reklamation anmelden."
+  - de: Größe
+    article: die
+    plural: Größen
+    en: size
+    pos: noun
+    tags: [shopping, concrete]
+    core: true
+    example: "Haben Sie Größe L?"
+
+  # ── Einladungen ─────────────────────────────────────────────────────────────
+  - de: Vorschlag
+    article: der
+    plural: Vorschläge
+    en: suggestion; proposal
+    pos: noun
+    tags: [social, concrete]
+    core: true
+    example: "Hast du einen Vorschlag für ein Restaurant?"
+  - de: Einladung
+    article: die
+    plural: Einladungen
+    en: invitation
+    pos: noun
+    tags: [social, concrete]
+    core: true
+    example: "Vielen Dank für die Einladung!"
+  - de: Verabredung
+    article: die
+    plural: Verabredungen
+    en: date; appointment (social)
+    pos: noun
+    tags: [social, concrete]
+    core: true
+    example: "Wir haben eine Verabredung zum Essen."
+  - de: Absage
+    article: die
+    plural: Absagen
+    en: cancellation; polite decline
+    pos: noun
+    tags: [social, concrete]
+    core: true
+    example: "Ich muss leider eine Absage schicken."
+  - de: Zusage
+    article: die
+    plural: Zusagen
+    en: acceptance; confirmation
+    pos: noun
+    tags: [social, concrete]
+    core: true
+    example: "Hast du schon eine Zusage bekommen?"
+
+  # ── Wichtige Verben ─────────────────────────────────────────────────────────
+  # empfehlen has e→ie vowel change in present: er empfiehlt. Not separable.
+  - de: empfehlen
+    article: null
+    plural: null
+    en: to recommend (er empfiehlt; e→ie)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Was würden Sie empfehlen?"
+  # Regular weak verb.
+  - de: bestellen
+    article: null
+    plural: null
+    en: to order (food, drink, item)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich möchte einen Kaffee bestellen."
+  # Regular -ieren verb; always weak.
+  - de: reservieren
+    article: null
+    plural: null
+    en: to reserve; to book
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir würden gern einen Tisch reservieren."
+  # Regular -ieren verb; always weak.
+  - de: reklamieren
+    article: null
+    plural: null
+    en: to make a formal complaint
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich möchte die Jacke reklamieren."
+  # Separable verb: prefix "ab" moves to the end. Ich lehne die Einladung ab.
+  - de: ab|lehnen
+    article: null
+    plural: null
+    en: to decline; to refuse (separable)
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Ich muss die Einladung leider ablehnen."
+  # Separable verb with e→ie change: er nimmt an. Ich nehme das Angebot an.
+  - de: an|nehmen
+    article: null
+    plural: null
+    en: to accept (separable; er nimmt an; e→ie)
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Ich nehme die Einladung gern an."
+  # Separable verb with e→i umlaut: er lädt ein. Ich lade dich ein.
+  - de: ein|laden
+    article: null
+    plural: null
+    en: to invite (separable; er lädt ein; e→i umlaut)
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Anna lädt Bruno ins Konzert ein."
+  # Reflexive verb — always used with "sich" (Akk).
+  - de: entschuldigen
+    article: null
+    plural: null
+    en: "to apologise (reflexive: sich entschuldigen)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Ich möchte mich für den Fehler entschuldigen."
