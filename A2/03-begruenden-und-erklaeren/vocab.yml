@@ -1,0 +1,311 @@
+# Reviewed from A2/03 lesson.md §4 Wortschatz. Bootstrapped with build/import-vocab.ts.
+#
+# Section headers in lesson.md:
+#   Meinungen und Gefühle (opinions and feelings) — 10 abstract nouns
+#   Verben zum Thema (topic verbs)                — 12 verbs (incl. 1 prepositional)
+#   Nützliche Adjektive (useful adjectives)       — 10 rows → 13 entries (3 slash-pairs split)
+#
+# Parser gaps hit by this lesson:
+#   1. The `Adjective | English` table header doesn't match any of the parser's known
+#      table kinds ("Adjektiv" / "Comparative" / "Superlative" are required for
+#      `adj-english`; "Deutsch" / "English" for `bilingual`). The whole adjectives
+#      table was skipped with a warning → all 10 rows were added by hand.
+#   2. The verb table `Verb | English | Perfekt` is classified `verb-english`, but the
+#      English detector picked the *shortest* non-capitalised cell — which is the
+#      Perfekt column ("hat begründet", "hat gemeint", "hat geglaubt", "hat widersprochen")
+#      whenever the English gloss is longer than the Perfekt form. Affected entries
+#      were corrected by hand. (Same Perfekt-vs-English confusion the V2 parser spec
+#      called out as a future fix; V2 did not add a Perfekt-column detector.)
+#   3. The connector / glue words for the lesson (weil, dass, deshalb, darum, deswegen)
+#      live in §3 Redemittel and §6 Grammatik, not in the §4 Wortschatz table, so they
+#      are intentionally not included here.
+lesson: A2/03
+
+entries:
+  # ── Meinungen und Gefühle — der (m) ────────────────────────────────────────
+  - de: Grund
+    article: der
+    plural: Gründe
+    en: reason; cause
+    pos: noun
+    tags: [argument]
+    core: true
+    example: "Das ist der Grund, warum ich komme."
+  - de: Vorteil
+    article: der
+    plural: Vorteile
+    en: advantage
+    pos: noun
+    tags: [argument]
+    core: true
+    example: "Das ist ein großer Vorteil."
+  - de: Nachteil
+    article: der
+    plural: Nachteile
+    en: disadvantage
+    pos: noun
+    tags: [argument]
+    core: true
+    example: "Der Nachteil ist, dass es teuer ist."
+
+  # ── Meinungen und Gefühle — die (f) ────────────────────────────────────────
+  - de: Meinung
+    article: die
+    plural: Meinungen
+    en: opinion
+    pos: noun
+    tags: [argument]
+    core: true
+    example: "Meiner Meinung nach ist das richtig."
+  - de: Entscheidung
+    article: die
+    plural: Entscheidungen
+    en: decision
+    pos: noun
+    tags: [argument]
+    core: true
+    example: "Das ist eine wichtige Entscheidung."
+  - de: Erklärung
+    article: die
+    plural: Erklärungen
+    en: explanation
+    pos: noun
+    tags: [argument]
+    core: true
+    example: "Kannst du mir eine Erklärung geben?"
+  - de: Diskussion
+    article: die
+    plural: Diskussionen
+    en: discussion
+    pos: noun
+    tags: [argument]
+    core: true
+  - de: Aussage
+    article: die
+    plural: Aussagen
+    en: statement
+    pos: noun
+    tags: [argument]
+    core: true
+  - de: Begründung
+    article: die
+    plural: Begründungen
+    en: justification; reason given
+    pos: noun
+    tags: [argument]
+    core: true
+    example: "Gib mir bitte eine Begründung."
+
+  # ── Meinungen und Gefühle — das (n) ────────────────────────────────────────
+  - de: Argument
+    article: das
+    plural: Argumente
+    en: argument
+    pos: noun
+    tags: [argument]
+    core: true
+    example: "Das ist ein gutes Argument."
+
+  # ── Verben zum Thema (topic verbs) ─────────────────────────────────────────
+  # Strong/mixed Perfekt forms (hat gedacht, hat verstanden, hat widersprochen,
+  # hat entschieden) are flagged in the lesson table; not duplicated here.
+  - de: begründen
+    article: null
+    plural: null
+    en: to justify; to give a reason
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Kannst du das bitte begründen?"
+  - de: erklären
+    article: null
+    plural: null
+    en: to explain
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Erkläre mir bitte, warum."
+  - de: diskutieren
+    article: null
+    plural: null
+    en: to discuss
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: meinen
+    article: null
+    plural: null
+    en: to think; to be of the opinion
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich meine, das ist keine gute Idee."
+  - de: denken
+    article: null
+    plural: null
+    en: to think
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Was denkst du?"
+  - de: glauben
+    article: null
+    plural: null
+    en: to believe; to think
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich glaube, er hat recht."
+  - de: verstehen
+    article: null
+    plural: null
+    en: to understand
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich verstehe das gut."
+  - de: zustimmen
+    article: null
+    plural: null
+    en: to agree
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich stimme dir zu."
+  - de: widersprechen
+    article: null
+    plural: null
+    en: to disagree; to contradict
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich muss dir leider widersprechen."
+  - de: entscheiden
+    article: null
+    plural: null
+    en: to decide
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich kann mich nicht entscheiden."
+  - de: überzeugen
+    article: null
+    plural: null
+    en: to convince
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: zweifeln
+    article: null
+    plural: null
+    en: to doubt (an + Dat)
+    pos: verb
+    tags: [verb, prepositional]
+    core: true
+    example: "Ich zweifle an seiner Aussage."
+
+  # ── Nützliche Adjektive (useful adjectives) ────────────────────────────────
+  # Lerntipp: als Gegensatzpaare lernen (richtig ↔ falsch, fair ↔ unfair,
+  # möglich ↔ unmöglich, sicher ↔ unsicher). Slash-pairs aus der Lektionstabelle
+  # sind unten in je zwei Einträge aufgeteilt.
+  - de: wichtig
+    article: null
+    plural: null
+    en: important
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das ist mir wichtig."
+  - de: richtig
+    article: null
+    plural: null
+    en: right; correct
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das ist richtig."
+  - de: falsch
+    article: null
+    plural: null
+    en: wrong; incorrect
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Die Antwort ist falsch."
+  - de: fair
+    article: null
+    plural: null
+    en: fair
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das ist nicht fair."
+  - de: unfair
+    article: null
+    plural: null
+    en: unfair
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: typisch
+    article: null
+    plural: null
+    en: typical
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: deutlich
+    article: null
+    plural: null
+    en: clear; obvious
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das ist deutlich zu sehen."
+  - de: möglich
+    article: null
+    plural: null
+    en: possible
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Ist das möglich?"
+  - de: unmöglich
+    article: null
+    plural: null
+    en: impossible
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das ist unmöglich!"
+  - de: sicher
+    article: null
+    plural: null
+    en: sure; safe
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Ich bin nicht sicher."
+  - de: unsicher
+    article: null
+    plural: null
+    en: unsure; unsafe
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: interessant
+    article: null
+    plural: null
+    en: interesting
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das ist sehr interessant."
+  - de: seltsam
+    article: null
+    plural: null
+    en: strange; odd
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das finde ich seltsam."
