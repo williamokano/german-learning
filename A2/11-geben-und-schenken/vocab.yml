@@ -1,0 +1,405 @@
+# Reviewed from A2/11 lesson.md §4 Wortschatz. Bootstrapped with build/import-vocab.ts (V2).
+# Lesson anchor: verbs with dative + accusative object, position of objects, pronoun order.
+# Tag taxonomy mirrors the A1/03 pilot + A1/01/A1/02 vocab (issue #337).
+#
+# Parser artefact fixes (V2 captured 43 entries with 11 needsReview; review pass):
+#   - Person split: "Kollegen (pl.) der Kollege" was collapsed by the parser into one
+#     row with a confused plural; split back into Kollege + Kollegin.
+#   - Person split: Nachbar — added the feminine Nachbarin (also in source).
+#   - Person split: Empfänger — added the feminine Empfängerin (also in source).
+#   - Plurals: Verwandten (plural-only → plural: null), Beschenkte (adj. declension →
+#     plural: Beschenkten), Empfänger (n-declension weak → plural: Empfänger),
+#     Kollege (n-declension → plural: Kollegen), Nachbar (n-declension → plural: Nachbarn).
+#   - Verb glosses: schmücken had `en: regular` (parser picked up the grammar note
+#     instead of the meaning); corrected to `to decorate`.
+#   - Verb glosses: bedanken, sich → re-classified from `phrase` to `verb` (it IS a
+#     reflexive verb, not a set phrase); cleaned to `sich bedanken` with a
+#     `reflexive` tag.
+#   - Phrases: "Bitte schön / Gern geschehen." was joined on one line; split into two
+#     standalone phrases (they ARE two idioms, both meaning "You're welcome").
+#   - Phrases: "ist eine Überraschung!" was wrongly routed as a noun by the parser
+#     (it grabbed the noun article `das`); corrected to the full phrase "Das ist
+#     eine Überraschung!".
+#   - All reviewNote hints removed on commit (per CommittedVocabSet invariant).
+lesson: A2/11
+
+entries:
+  # ── Geschenke und Feiern (gifts and celebrations) ──────────────────────────
+  # All physical / picturable → `concrete`. Wrapping items (Geschenkpapier, Schleife)
+  # and the card itself also carry `gift`; the rest are celebration / event nouns.
+  - de: Geschenk
+    article: das
+    plural: Geschenke
+    en: present, gift
+    pos: noun
+    tags: [gift, concrete]
+    core: true
+    example: "Ich schenke meiner Mutter ein Geschenk."
+  - de: Überraschung
+    article: die
+    plural: Überraschungen
+    en: surprise
+    pos: noun
+    tags: [concrete]
+    core: true
+    example: "Das ist eine schöne Überraschung!"
+  - de: Wunsch
+    article: der
+    plural: Wünsche
+    en: wish
+    pos: noun
+    tags: [concrete]
+    core: true
+    example: "Ich wünsche dir alles Gute!"
+  - de: Feier
+    article: die
+    plural: Feiern
+    en: celebration, party
+    pos: noun
+    tags: [concrete]
+    core: true
+  - de: Fest
+    article: das
+    plural: Feste
+    en: festival, celebration
+    pos: noun
+    tags: [concrete]
+    core: true
+  - de: Geburtstag
+    article: der
+    plural: Geburtstage
+    en: birthday
+    pos: noun
+    tags: [concrete]
+    core: true
+    example: "Herzlichen Glückwunsch zum Geburtstag!"
+  - de: Hochzeit
+    article: die
+    plural: Hochzeiten
+    en: wedding
+    pos: noun
+    tags: [concrete]
+    core: true
+  - de: Jahrestag
+    article: der
+    plural: Jahrestage
+    en: anniversary
+    pos: noun
+    tags: [concrete]
+    core: true
+  - de: Party
+    article: die
+    plural: Partys
+    en: party
+    pos: noun
+    tags: [concrete]
+    core: true
+  - de: Einladung
+    article: die
+    plural: Einladungen
+    en: invitation
+    pos: noun
+    tags: [concrete]
+    core: true
+  - de: Gast
+    article: der
+    plural: Gäste
+    en: guest
+    pos: noun
+    tags: [person, concrete]
+    core: true
+    example: "Wir bringen den Gästen Getränke."
+  - de: Kuchen
+    article: der
+    plural: Kuchen
+    en: cake
+    pos: noun
+    tags: [gift, concrete]
+    core: true
+    example: "Ich bringe einen Kuchen mit."
+  - de: Kerze
+    article: die
+    plural: Kerzen
+    en: candle
+    pos: noun
+    tags: [gift, concrete]
+    core: true
+  - de: Karte
+    article: die
+    plural: Karten
+    en: card; map; menu
+    pos: noun
+    tags: [gift, concrete]
+    core: true
+    example: "Ich schreibe ihr eine Karte."
+  - de: Geschenkpapier
+    article: das
+    plural: null
+    en: wrapping paper
+    pos: noun
+    tags: [gift, concrete]
+    core: true
+    example: "Anna packt das Buch in Geschenkpapier ein."
+  - de: Schleife
+    article: die
+    plural: Schleifen
+    en: bow, ribbon
+    pos: noun
+    tags: [gift, concrete]
+    core: true
+
+  # ── Personen (people — frequently the Dativobjekt / recipient) ─────────────
+  # All nouns here are typically the *recipient* (Dativ) of schenken/geben etc.
+  # Empfänger / Kollege / Nachbar are weak nouns (n-declension); Beschenkte /
+  # Verwandte are adjective-declined.
+  - de: Empfänger
+    article: der
+    plural: Empfänger
+    en: recipient
+    pos: noun
+    tags: [person, concrete]
+    core: true
+    example: "Der Empfänger des Pakets ist meine Schwester."
+  - de: Empfängerin
+    article: die
+    plural: Empfängerinnen
+    en: recipient (female)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Beschenkte
+    article: der
+    plural: Beschenkten
+    en: the person receiving the gift (adj.-declined)
+    pos: noun
+    tags: [person]
+    core: true
+    example: "Der Beschenkte freut sich sehr."
+  - de: Verwandte
+    article: die
+    plural: null
+    en: relatives (plural only)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+    example: "Wir besuchen die Verwandten am Sonntag."
+  - de: Kollege
+    article: der
+    plural: Kollegen
+    en: colleague (male)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+    example: "Ich schenke dem Kollegen eine Karte."
+  - de: Kollegin
+    article: die
+    plural: Kolleginnen
+    en: colleague (female)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Nachbar
+    article: der
+    plural: Nachbarn
+    en: neighbour (male)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+  - de: Nachbarin
+    article: die
+    plural: Nachbarinnen
+    en: neighbour (female)
+    pos: noun
+    tags: [person, concrete]
+    core: true
+
+  # ── Verben (verbs) ─────────────────────────────────────────────────────────
+  # Every verb here is a giving / communication verb, all of them tagged `giving`.
+  # `two-object` marks the verbs that take Dativ + Akkusativ (the lesson's
+  # grammatical heart). `kaufen` is intentionally NOT two-object — it takes
+  # `für + Akk`, called out explicitly in §6.1.
+  - de: schenken
+    article: null
+    plural: null
+    en: to give (as a gift)
+    pos: verb
+    tags: [verb, giving, two-object]
+    core: true
+    example: "Ich schenke meiner Mutter ein Buch."
+  - de: geben
+    article: null
+    plural: null
+    en: to give
+    pos: verb
+    tags: [verb, giving, two-object, strong]
+    core: true
+    example: "Er gibt dem Kind einen Apfel."
+  - de: schicken
+    article: null
+    plural: null
+    en: to send
+    pos: verb
+    tags: [verb, giving, two-object]
+    core: true
+    example: "Ich schicke meiner Freundin eine Karte."
+  - de: bringen
+    article: null
+    plural: null
+    en: to bring
+    pos: verb
+    tags: [verb, giving, two-object, strong]
+    core: true
+    example: "Bruno bringt das Geschenk zu seiner Mutter."
+  - de: zeigen
+    article: null
+    plural: null
+    en: to show
+    pos: verb
+    tags: [verb, giving, two-object]
+    core: true
+    example: "Ich zeige meinem Bruder das Foto."
+  - de: erklären
+    article: null
+    plural: null
+    en: to explain
+    pos: verb
+    tags: [verb, giving, two-object]
+    core: true
+    example: "Ich erkläre es den Schülern."
+  - de: sagen
+    article: null
+    plural: null
+    en: to say
+    pos: verb
+    tags: [verb, giving, two-object]
+    core: true
+    example: "Er sagt ihr die Wahrheit."
+  - de: schreiben
+    article: null
+    plural: null
+    en: to write
+    pos: verb
+    tags: [verb, giving, two-object, strong]
+    core: true
+    example: "Anna schreibt ihrer Freundin eine Karte."
+  - de: wünschen
+    article: null
+    plural: null
+    en: to wish
+    pos: verb
+    tags: [verb, giving, two-object]
+    core: true
+    example: "Ich wünsche dir alles Gute!"
+  - de: empfehlen
+    article: null
+    plural: null
+    en: to recommend
+    pos: verb
+    tags: [verb, giving, two-object, strong]
+    core: true
+    example: "Kannst du mir ein Buch empfehlen?"
+  - de: leihen
+    article: null
+    plural: null
+    en: to lend
+    pos: verb
+    tags: [verb, giving, two-object, strong]
+    core: true
+    example: "Ich leihe ihr mein Buch."
+  - de: kaufen
+    article: null
+    plural: null
+    en: to buy (recipient uses `für + Akk`, NOT dative)
+    pos: verb
+    tags: [verb, giving]
+    core: true
+    example: "Ich kaufe für meinen Bruder ein Geschenk."
+  - de: schmücken
+    article: null
+    plural: null
+    en: to decorate
+    pos: verb
+    tags: [verb, giving]
+    core: true
+    example: "Wir schmücken den Tisch."
+  - de: einpacken
+    article: null
+    plural: null
+    en: "to wrap (up) — separable: er packt ein"
+    pos: verb
+    tags: [verb, giving, separable]
+    core: true
+    example: "Anna packt das Buch schön ein."
+  - de: überreichen
+    article: null
+    plural: null
+    en: to present, hand over (formal)
+    pos: verb
+    tags: [verb, giving, two-object]
+    core: true
+    example: "Sie überreichen Frau Weber das Geschenk."
+  - de: sich bedanken
+    article: null
+    plural: null
+    en: "to say thank you (reflexive: sich bei + Dat bedanken)"
+    pos: verb
+    tags: [verb, giving, reflexive]
+    core: true
+    example: "Ich bedanke mich bei dir für das Geschenk."
+
+  # ── Nützliche Ausdrücke (useful expressions) ───────────────────────────────
+  # Social phrases — gratitude, congratulations, politeness. None are picturable;
+  # marked `phrase` so the cards test the idiom as a chunk.
+  - de: Alles Gute!
+    article: null
+    plural: null
+    en: All the best!
+    pos: phrase
+    tags: [phrase, congratulation]
+    core: true
+    example: "Alles Gute zum Geburtstag!"
+  - de: Herzlichen Glückwunsch!
+    article: null
+    plural: null
+    en: Congratulations! / Happy birthday!
+    pos: phrase
+    tags: [phrase, congratulation]
+    core: true
+    example: "Herzlichen Glückwunsch zur Hochzeit!"
+  - de: Vielen Dank!
+    article: null
+    plural: null
+    en: Thank you very much!
+    pos: phrase
+    tags: [phrase, gratitude]
+    core: true
+    example: "Vielen Dank für das Geschenk!"
+  - de: Bitte schön.
+    article: null
+    plural: null
+    en: You're welcome. (informal)
+    pos: phrase
+    tags: [phrase, gratitude]
+    core: true
+  - de: Gern geschehen.
+    article: null
+    plural: null
+    en: You're welcome.
+    pos: phrase
+    tags: [phrase, gratitude]
+    core: true
+    example: '„Vielen Dank!" — „Gern geschehen!"'
+  - de: Das ist eine Überraschung!
+    article: null
+    plural: null
+    en: That's a surprise!
+    pos: phrase
+    tags: [phrase]
+    core: true
+  - de: Was darf es kosten?
+    article: null
+    plural: null
+    en: How much may it cost? / What's the budget?
+    pos: phrase
+    tags: [phrase]
+    core: true
