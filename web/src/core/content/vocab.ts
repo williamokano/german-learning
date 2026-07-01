@@ -40,10 +40,9 @@ export const VocabSet = z.object({
 }).superRefine((set, ctx) => {
   const seen = new Set<string>();
   for (const e of set.entries) {
-    // Every noun carries der/die/das; non-nouns never do.
-    if (e.pos === 'noun' && e.article === null) {
-      ctx.addIssue({ code: z.ZodIssueCode.custom, message: `"${e.de}": noun must have an article` });
-    }
+    // Nouns MAY omit the article (country names: Deutschland; languages: Deutsch; mass
+    // nouns; proper names). The reciprocal check below is the one that catches real
+    // schema misuse: a verb/adjective with der/die/das is almost certainly a typo.
     if (e.pos !== 'noun' && e.article !== null) {
       ctx.addIssue({ code: z.ZodIssueCode.custom, message: `"${e.de}": only nouns may have an article (pos=${e.pos})` });
     }

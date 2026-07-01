@@ -33,12 +33,17 @@ describe('VocabSet schema', () => {
     expect(r.success).toBe(false);
   });
 
-  it('rejects a noun without an article', () => {
+  it('accepts a noun without an article (countries, languages, proper nouns)', () => {
+    // German nouns often omit the article: country names (Deutschland, Brasilien),
+    // language names (Deutsch, Englisch), proper names (Anna), and mass nouns.
     const r = VocabSet.safeParse({
-      lesson: 'A1/03',
-      entries: [{ de: 'Apfel', en: 'apple', pos: 'noun' }],
+      lesson: 'A1/01',
+      entries: [
+        { de: 'Deutschland', en: 'Germany', pos: 'noun' },
+        { de: 'Deutsch',     en: 'German (language)', pos: 'noun' },
+      ],
     });
-    expect(r.success).toBe(false);
+    expect(r.success).toBe(true);
   });
 
   it('rejects a non-noun carrying an article', () => {
