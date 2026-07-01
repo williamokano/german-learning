@@ -1,0 +1,251 @@
+# Reviewed from C1/05 lesson.md §4 Wortschatz.
+# Note: all 3 tables use German-only paraphrase — no draft to patch, every entry
+# hand-derived and hand-translated from source.
+#
+# Section headers in lesson.md:
+#   Kernwortschatz: Wissenschaft und Forschung          — 14 nouns
+#   Abstrakter Wortschatz und Stilbegriffe               — 8 nouns
+#   Häufige Funktionsverbgefüge der Wissenschaftssprache — 10 FVG phrases
+lesson: C1/05
+
+entries:
+  # ── Kernwortschatz: Wissenschaft und Forschung — 14 nouns ─────────────────
+  - de: Wissenschaftssprache
+    article: die
+    plural: null
+    en: academic/scientific register (language of research and teaching)
+    pos: noun
+    tags: [linguistics, science, abstract]
+    core: true
+  - de: Hypothese
+    article: die
+    plural: Hypothesen
+    en: hypothesis (a reasoned assumption still to be tested)
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: These
+    article: die
+    plural: Thesen
+    en: thesis (a claim one argues and defends)
+    pos: noun
+    tags: [science, argument, abstract]
+    core: true
+  - de: Annahme
+    article: die
+    plural: Annahmen
+    en: assumption (provisionally taken as given)
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Befund
+    article: der
+    plural: Befunde
+    en: finding (a single result of an investigation)
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Ergebnis
+    article: das
+    plural: Ergebnisse
+    en: result
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Beleg
+    article: der
+    plural: Belege
+    en: evidence (proof for a claim, e.g. source, data)
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Quelle
+    article: die
+    plural: Quellen
+    en: source (a text/work one cites)
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Untersuchung
+    article: die
+    plural: Untersuchungen
+    en: investigation; study
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Erhebung
+    article: die
+    plural: Erhebungen
+    en: data collection (survey, measurement)
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Stichprobe
+    article: die
+    plural: Stichproben
+    en: sample (the subset on which the data collection is carried out)
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Erkenntnis
+    article: die
+    plural: Erkenntnisse
+    en: (verified) new insight; finding
+    pos: noun
+    tags: [science, abstract]
+    core: true
+  - de: Schlussfolgerung
+    article: die
+    plural: Schlussfolgerungen
+    en: conclusion (the logical inference from the findings)
+    pos: noun
+    tags: [science, argument, abstract]
+    core: true
+  - de: Einschränkung
+    article: die
+    plural: Einschränkungen
+    en: limitation (the boundary of a statement's validity)
+    pos: noun
+    tags: [science, abstract]
+    core: true
+
+  # ── Abstrakter Wortschatz und Stilbegriffe — 8 nouns ───────────────────────
+  - de: Nominalstil
+    article: der
+    plural: null
+    en: nominal style (expressing actions mainly through nouns)
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+  - de: Verbalstil
+    article: der
+    plural: null
+    en: verbal style (expressing actions mainly through verbs/subordinate clauses)
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+  - de: Nominalisierung
+    article: die
+    plural: Nominalisierungen
+    en: nominalization (turning a verb/adjective into a noun)
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Hedging
+    article: das
+    plural: null
+    en: hedging (cautious, softening phrasing)
+    pos: noun
+    tags: [linguistics, science, abstract]
+    core: true
+  - de: Abtönung
+    article: die
+    plural: Abtönungen
+    en: shading; nuancing (of a statement)
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Objektivität
+    article: die
+    plural: null
+    en: objectivity
+    pos: noun
+    tags: [linguistics, science, abstract]
+    core: true
+  - de: Verständlichkeit
+    article: die
+    plural: null
+    en: comprehensibility; readability
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Funktionsverbgefüge
+    article: das
+    plural: Funktionsverbgefüge
+    en: support-verb construction (fixed abstract verb + noun pairing)
+    pos: noun
+    tags: [linguistics, fvg, abstract]
+    core: true
+    example: "in Frage stellen"
+
+  # ── Häufige Funktionsverbgefüge der Wissenschaftssprache — 10 FVG phrases ──
+  - de: eine Studie durchführen
+    article: null
+    plural: null
+    en: to carry out a study
+    pos: phrase
+    tags: [fvg, science, phrase]
+    core: true
+    example: "= untersuchen"
+  - de: zu dem Schluss kommen
+    article: null
+    plural: null
+    en: to come to the conclusion
+    pos: phrase
+    tags: [fvg, science, phrase]
+    core: true
+    example: "= schlussfolgern"
+  - de: etwas in Betracht ziehen
+    article: null
+    plural: null
+    en: to take something into consideration
+    pos: phrase
+    tags: [fvg, science, phrase]
+    core: true
+    example: "= erwägen, berücksichtigen"
+  - de: etwas in Frage stellen
+    article: null
+    plural: null
+    en: to call something into question
+    pos: phrase
+    tags: [fvg, science, phrase]
+    core: true
+    example: "= bezweifeln, hinterfragen"
+  - de: Bezug nehmen auf
+    article: null
+    plural: null
+    en: to refer to
+    pos: phrase
+    tags: [fvg, science, phrase, prep-auf, accusative]
+    core: true
+    example: "= sich beziehen auf"
+  - de: eine Rolle spielen
+    article: null
+    plural: null
+    en: to play a role; to matter
+    pos: phrase
+    tags: [fvg, science, phrase]
+    core: true
+    example: "= wichtig/relevant sein"
+  - de: Aufschluss geben über
+    article: null
+    plural: null
+    en: to shed light on
+    pos: phrase
+    tags: [fvg, science, phrase, prep-über, accusative]
+    core: true
+    example: "= etwas erklären, erhellen"
+  - de: in Zusammenhang stehen mit
+    article: null
+    plural: null
+    en: to be connected with
+    pos: phrase
+    tags: [fvg, science, phrase, prep-mit, dative]
+    core: true
+    example: "= zusammenhängen mit"
+  - de: zur Anwendung kommen
+    article: null
+    plural: null
+    en: to be applied; to come into use
+    pos: phrase
+    tags: [fvg, science, phrase]
+    core: true
+    example: "= angewendet werden"
+  - de: Berücksichtigung finden
+    article: null
+    plural: null
+    en: to be taken into account
+    pos: phrase
+    tags: [fvg, science, phrase]
+    core: true
+    example: "= berücksichtigt werden"
