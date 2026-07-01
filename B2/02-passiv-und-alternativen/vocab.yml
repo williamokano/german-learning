@@ -1,0 +1,328 @@
+# Reviewed from B2/02 lesson.md §4 Wortschatz.
+# Note: V3's noun-verb-pair table kind correctly extracted both noun+verb members
+# of every row. One parser hiccup found (not yet fixed, hand-corrected here): when
+# the verb cell carries a trailing "⚠️ (sep.)" or "⚠️ (bewies, bewiesen)" annotation,
+# the annotation's paren gets misread as the verb's own English gloss ("sep.",
+# "bewies, bewiesen") INSTEAD of falling through to the real English column — since
+# the noun-verb-pair fallback only applies the shared meaning cell when `en` is
+# still empty, and the annotation paren is (wrongly) treated as non-empty content.
+# All such glosses replaced with the correct English translation by hand below.
+#
+# Section headers in lesson.md:
+#   Wissenschaft und Forschung (research)         — 10 verb+noun pairs (20 entries)
+#   Nachrichten und Vorschriften (regulations)    — 7 verb+noun pairs (14) + 1 solo noun
+#   Adjektive der Möglichkeit (Passiversatz)      — 7 adjectives (können + Passiv shorthand)
+lesson: B2/02
+
+entries:
+  # ── Wissenschaft und Forschung — 10 verb+noun pairs ────────────────────────
+  - de: Forschung
+    article: die
+    plural: Forschungen
+    en: research
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: forschen
+    article: null
+    plural: null
+    en: to research
+    pos: verb
+    tags: [verb, nominalization, science]
+    core: true
+  - de: Untersuchung
+    article: die
+    plural: Untersuchungen
+    en: study; investigation
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: untersuchen
+    article: null
+    plural: null
+    en: to study; to investigate
+    pos: verb
+    tags: [verb, nominalization, science]
+    core: true
+  - de: Ergebnis
+    article: das
+    plural: Ergebnisse
+    en: result; finding
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: ergeben
+    article: null
+    plural: null
+    en: to result (in); to turn out
+    pos: verb
+    tags: [verb, nominalization, science, reflexive, strong]
+    core: true
+    example: "Die Studie hat sich als hilfreich ergeben."
+  - de: Beweis
+    article: der
+    plural: Beweise
+    en: proof; evidence
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: beweisen
+    article: null
+    plural: null
+    en: to prove
+    pos: verb
+    tags: [verb, nominalization, science, strong]
+    core: true
+    example: "bewies, bewiesen"
+  - de: Auswertung
+    article: die
+    plural: Auswertungen
+    en: analysis; evaluation
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: auswerten
+    article: null
+    plural: null
+    en: to analyze; to evaluate
+    pos: verb
+    tags: [verb, nominalization, science, separable]
+    core: true
+  - de: Hypothese
+    article: die
+    plural: Hypothesen
+    en: hypothesis
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: annehmen
+    article: null
+    plural: null
+    en: to assume
+    pos: verb
+    tags: [verb, nominalization, science, separable, strong]
+    core: true
+  - de: Probe
+    article: die
+    plural: Proben
+    en: sample
+    pos: noun
+    tags: [noun, nominalization, science, concrete]
+    core: true
+  - de: entnehmen
+    article: null
+    plural: null
+    en: to take (a sample)
+    pos: verb
+    tags: [verb, nominalization, science, separable, strong]
+    core: true
+    example: "eine Probe entnehmen"
+  - de: Versuch
+    article: der
+    plural: Versuche
+    en: experiment; trial
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: durchführen
+    article: null
+    plural: null
+    en: to carry out
+    pos: verb
+    tags: [verb, nominalization, science, separable]
+    core: true
+  - de: Methode
+    article: die
+    plural: Methoden
+    en: method
+    pos: noun
+    tags: [noun, nominalization, science, abstract]
+    core: true
+  - de: anwenden
+    article: null
+    plural: null
+    en: to apply
+    pos: verb
+    tags: [verb, nominalization, science, separable]
+    core: true
+  - de: Studie
+    article: die
+    plural: Studien
+    en: study (published)
+    pos: noun
+    tags: [noun, nominalization, science, document]
+    core: true
+  - de: veröffentlichen
+    article: null
+    plural: null
+    en: to publish
+    pos: verb
+    tags: [verb, nominalization, science]
+    core: true
+
+  # ── Nachrichten und Vorschriften — 7 verb+noun pairs + 1 solo noun ─────────
+  - de: Vorschrift
+    article: die
+    plural: Vorschriften
+    en: regulation
+    pos: noun
+    tags: [noun, nominalization, regulation, abstract]
+    core: true
+  - de: vorschreiben
+    article: null
+    plural: null
+    en: to stipulate; to prescribe
+    pos: verb
+    tags: [verb, nominalization, regulation, separable, strong]
+    core: true
+  - de: Pflicht
+    article: die
+    plural: Pflichten
+    en: duty; obligation
+    pos: noun
+    tags: [noun, nominalization, regulation, abstract]
+    core: true
+  - de: verpflichten
+    article: null
+    plural: null
+    en: to obligate
+    pos: verb
+    tags: [verb, nominalization, regulation]
+    core: true
+  - de: Verbot
+    article: das
+    plural: Verbote
+    en: ban; prohibition
+    pos: noun
+    tags: [noun, nominalization, regulation, abstract]
+    core: true
+  - de: verbieten
+    article: null
+    plural: null
+    en: to forbid; to ban
+    pos: verb
+    tags: [verb, nominalization, regulation, strong]
+    core: true
+    example: "verbot, verboten"
+  - de: Maßnahme
+    article: die
+    plural: Maßnahmen
+    en: measure
+    pos: noun
+    tags: [noun, nominalization, regulation, abstract]
+    core: true
+  - de: ergreifen
+    article: null
+    plural: null
+    en: to take (a measure)
+    pos: verb
+    tags: [verb, nominalization, regulation, strong]
+    core: true
+    example: "ergriff, ergriffen"
+  - de: Genehmigung
+    article: die
+    plural: Genehmigungen
+    en: approval; permit
+    pos: noun
+    tags: [noun, nominalization, regulation, document]
+    core: true
+  - de: genehmigen
+    article: null
+    plural: null
+    en: to approve
+    pos: verb
+    tags: [verb, nominalization, regulation]
+    core: true
+  - de: Frist
+    article: die
+    plural: Fristen
+    en: deadline
+    pos: noun
+    tags: [noun, nominalization, regulation, abstract]
+    core: true
+  - de: einhalten
+    article: null
+    plural: null
+    en: to meet; to observe (a deadline)
+    pos: verb
+    tags: [verb, nominalization, regulation, separable, strong]
+    core: true
+  - de: Antrag
+    article: der
+    plural: Anträge
+    en: application
+    pos: noun
+    tags: [noun, nominalization, regulation, document]
+    core: true
+  - de: einreichen
+    article: null
+    plural: null
+    en: to submit
+    pos: verb
+    tags: [verb, nominalization, regulation, separable]
+    core: true
+  - de: Behörde
+    article: die
+    plural: Behörden
+    en: (public) authority
+    pos: noun
+    tags: [noun, regulation, place, concrete]
+    core: true
+
+  # ── Adjektive der Möglichkeit (Passiversatz: können + Passiv shorthand) ────
+  - de: lösbar
+    article: null
+    plural: null
+    en: solvable
+    pos: adjective
+    tags: [adjective, passive-alternative]
+    core: true
+    example: "… kann gelöst werden."
+  - de: machbar
+    article: null
+    plural: null
+    en: feasible; doable
+    pos: adjective
+    tags: [adjective, passive-alternative]
+    core: true
+    example: "… kann gemacht werden."
+  - de: essbar
+    article: null
+    plural: null
+    en: edible
+    pos: adjective
+    tags: [adjective, passive-alternative]
+    core: true
+    example: "… kann gegessen werden."
+  - de: messbar
+    article: null
+    plural: null
+    en: measurable
+    pos: adjective
+    tags: [adjective, passive-alternative]
+    core: true
+    example: "… kann gemessen werden."
+  - de: erkennbar
+    article: null
+    plural: null
+    en: recognizable
+    pos: adjective
+    tags: [adjective, passive-alternative]
+    core: true
+    example: "… kann erkannt werden."
+  - de: verständlich
+    article: null
+    plural: null
+    en: comprehensible
+    pos: adjective
+    tags: [adjective, passive-alternative]
+    core: true
+    example: "… kann verstanden werden."
+  - de: unverzichtbar
+    article: null
+    plural: null
+    en: indispensable
+    pos: adjective
+    tags: [adjective, passive-alternative]
+    core: true
+    example: "… kann nicht verzichtet werden."
