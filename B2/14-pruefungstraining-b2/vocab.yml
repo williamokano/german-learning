@@ -1,0 +1,187 @@
+# Reviewed from B2/14 lesson.md §4 Wortschatz.
+# Note: unlike most B2 lessons, table 1's "Erklärung" column is already written in
+# English, so the draft was mostly clean. Fixes: Prüfer got its Prüferin fem
+# counterpart added; Nervosität/Lampenfieber (Sg.) confirmed plural:null;
+# Schließfach's plain "-er" suffix code produced "Schließfacher" — real plural
+# needs an umlaut the source didn't mark (Schließfächer), corrected by hand.
+# Table 2 ("Ausdruck | Erklärung") isn't a recognized header shape — dropped
+# entirely by the parser; all 9 phrases hand-added (English glosses were already
+# given in the source, just needed transcribing).
+#
+# Section headers in lesson.md:
+#   Prüfungssituation (exam-day vocabulary)   — 14 nouns (1 m/f pair: Prüfer/-in)
+#   Strategievokabular (exam strategy phrases) — 9 phrases
+lesson: B2/14
+
+entries:
+  # ── Prüfungssituation — 14 nouns ────────────────────────────────────────────
+  - de: Prüfung
+    article: die
+    plural: Prüfungen
+    en: exam
+    pos: noun
+    tags: [exam, abstract]
+    core: true
+  - de: Zertifikat
+    article: das
+    plural: Zertifikate
+    en: certificate
+    pos: noun
+    tags: [exam, document]
+    core: true
+  - de: Prüfling
+    article: der
+    plural: Prüflinge
+    en: candidate
+    pos: noun
+    tags: [exam, person, concrete]
+    core: true
+  - de: Prüfer
+    article: der
+    plural: Prüfer
+    en: examiner (male)
+    pos: noun
+    tags: [exam, person, concrete]
+    core: true
+  - de: Prüferin
+    article: die
+    plural: Prüferinnen
+    en: examiner (female)
+    pos: noun
+    tags: [exam, person, concrete]
+    core: true
+  - de: Auswertung
+    article: die
+    plural: Auswertungen
+    en: evaluation; marking
+    pos: noun
+    tags: [exam, abstract]
+    core: true
+  - de: Ergebnis
+    article: das
+    plural: Ergebnisse
+    en: result
+    pos: noun
+    tags: [exam, abstract]
+    core: true
+  - de: Aufgabe
+    article: die
+    plural: Aufgaben
+    en: task; exercise
+    pos: noun
+    tags: [exam, abstract]
+    core: true
+  - de: Gliederung
+    article: die
+    plural: Gliederungen
+    en: outline; structure
+    pos: noun
+    tags: [exam, abstract]
+    core: true
+  - de: Nervosität
+    article: die
+    plural: null
+    en: nervousness
+    pos: noun
+    tags: [exam, emotion, abstract]
+    core: true
+  - de: Lampenfieber
+    article: das
+    plural: null
+    en: stage fright
+    pos: noun
+    tags: [exam, emotion, abstract]
+    core: true
+  - de: Anmeldung
+    article: die
+    plural: Anmeldungen
+    en: registration
+    pos: noun
+    tags: [exam, abstract]
+    core: true
+  - de: Teilnahmebestätigung
+    article: die
+    plural: Teilnahmebestätigungen
+    en: confirmation of participation
+    pos: noun
+    tags: [exam, document]
+    core: true
+  - de: Wartebereich
+    article: der
+    plural: Wartebereiche
+    en: waiting area
+    pos: noun
+    tags: [exam, place, concrete]
+    core: true
+  - de: Schließfach
+    article: das
+    plural: Schließfächer
+    en: locker
+    pos: noun
+    tags: [exam, concrete]
+    core: true
+
+  # ── Strategievokabular — 9 exam-strategy phrases ────────────────────────────
+  - de: Schlüsselwörter markieren
+    article: null
+    plural: null
+    en: to highlight key words
+    pos: phrase
+    tags: [exam, strategy, phrase]
+    core: true
+  - de: die Hauptidee erfassen
+    article: null
+    plural: null
+    en: to grasp the main idea
+    pos: phrase
+    tags: [exam, strategy, phrase]
+    core: true
+  - de: nach dem Kontext suchen
+    article: null
+    plural: null
+    en: to use context clues
+    pos: phrase
+    tags: [exam, strategy, phrase]
+    core: true
+  - de: eine Gliederung machen
+    article: null
+    plural: null
+    en: to make an outline
+    pos: phrase
+    tags: [exam, strategy, phrase]
+    core: true
+  - de: Zeit einteilen
+    article: null
+    plural: null
+    en: to manage time
+    pos: phrase
+    tags: [exam, strategy, phrase]
+    core: true
+  - de: bei einer Frage nachfragen
+    article: null
+    plural: null
+    en: to ask a clarifying question
+    pos: phrase
+    tags: [exam, strategy, phrase]
+    core: true
+  - de: die Aufgabe wiederholen lassen
+    article: null
+    plural: null
+    en: to have the task repeated
+    pos: phrase
+    tags: [exam, strategy, phrase]
+    core: true
+  - de: Pro-Contra-Argumente sammeln
+    article: null
+    plural: null
+    en: to collect pros and cons
+    pos: phrase
+    tags: [exam, strategy, phrase]
+    core: true
+  - de: einen Text zusammenfassen
+    article: null
+    plural: null
+    en: to summarise a text
+    pos: phrase
+    tags: [exam, strategy, phrase]
+    core: true
