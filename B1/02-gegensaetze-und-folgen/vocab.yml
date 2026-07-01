@@ -1,0 +1,212 @@
+# Reviewed from B1/02 lesson.md §4 Wortschatz.
+# Note: V2-parser draft sent a footnote ("`widersprechen` takes Dativ: *Ich widerspreche
+# dir / Ihnen.*") through the textBlock join → emitted as 2 noise phrase entries. The
+# `, -ä-e` plural code gave correct paren-trusted plurals for Gegensatz/Einwand/Markt
+# but the parser reused those paren strings as the English gloss (`en: "die
+# Gegensätze"`). Three Dativ verbs (`widersprechen`, `zustimmen`, `sich unterscheiden
+# von`) were parsed as `pos: phrase` because they carry preposition annotations. Several
+# `A → Ä` best-effort umlauts (Anbieter → Änbieter) were wrong (no umlaut). All hand-fixed.
+#
+# Section headers in lesson.md:
+#   Konnektoren und Logik (connectors and logic)        — 2-col noun-english
+#   Diskussionsvokabular (discussion vocabulary)        — 2-col verb-english, 3 Dativ-taking
+#   Mobilität und Startup                                — 2-col noun-english, 1 m/f pair
+lesson: B1/02
+
+entries:
+  # ── Konnektoren und Logik (connectors and logic) ────────────────────────────
+  - de: Gegensatz
+    article: der
+    plural: Gegensätze
+    en: contrast; opposite
+    pos: noun
+    tags: [logic, contrast]
+    core: true
+    example: "Im Gegensatz zu heute war damals alles anders."
+  - de: Folge
+    article: die
+    plural: Folgen
+    en: consequence; result
+    pos: noun
+    tags: [logic, consequence]
+    core: true
+    example: "Die Folgen des Streits waren gravierend."
+  - de: Konsequenz
+    article: die
+    plural: Konsequenzen
+    en: consequence (formal)
+    pos: noun
+    tags: [logic, consequence]
+    core: true
+  - de: Argument
+    article: das
+    plural: Argumente
+    en: argument
+    pos: noun
+    tags: [logic, argument]
+    core: true
+    example: "Das ist ein starkes Argument."
+  - de: Einwand
+    article: der
+    plural: Einwände
+    en: objection
+    pos: noun
+    tags: [logic, contrast]
+    core: true
+    example: "Hast du einen Einwand?"
+  - de: Gegenargument
+    article: das
+    plural: Gegenargumente
+    en: counter-argument
+    pos: noun
+    tags: [logic, argument]
+    core: true
+  - de: Kompromiss
+    article: der
+    plural: Kompromisse
+    en: compromise
+    pos: noun
+    tags: [logic, agreement]
+    core: true
+    example: "Wir haben einen Kompromiss gefunden."
+  - de: Einschränkung
+    article: die
+    plural: Einschränkungen
+    en: restriction; qualification
+    pos: noun
+    tags: [logic, qualification]
+    core: true
+
+  # ── Diskussionsvokabular (verbs — 3 take Dativ) ─────────────────────────────
+  - de: widersprechen
+    article: null
+    plural: null
+    en: to contradict; to disagree
+    pos: verb
+    tags: [verb, dative]
+    core: true
+    example: "Ich widerspreche dir."
+  - de: zustimmen
+    article: null
+    plural: null
+    en: to agree (with)
+    pos: verb
+    tags: [verb, dative, separable]
+    core: true
+    example: "Ich stimme dir zu."
+  - de: überzeugen
+    article: null
+    plural: null
+    en: to convince
+    pos: verb
+    tags: [verb, accusative]
+    core: true
+    example: "Er hat mich überzeugt."
+  - de: argumentieren
+    article: null
+    plural: null
+    en: to argue (a case)
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: beweisen
+    article: null
+    plural: null
+    en: to prove
+    pos: verb
+    tags: [verb, strong]
+    core: true
+    example: "Das kann ich beweisen."
+  - de: scheitern
+    article: null
+    plural: null
+    en: to fail
+    pos: verb
+    tags: [verb, ist-perfekt]
+    core: true
+    example: "Der Plan ist gescheitert."
+  - de: unterscheiden
+    article: null
+    plural: null
+    en: to differ from
+    pos: verb
+    tags: [verb, reflexive, dative]
+    core: true
+    example: "Diese Meinungen unterscheiden sich stark voneinander."
+
+  # ── Mobilität und Startup (business / market vocabulary) ───────────────────
+  - de: Anbieter
+    article: der
+    plural: Anbieter
+    en: provider; supplier
+    pos: noun
+    tags: [business, person, concrete]
+    core: true
+    example: "Der Anbieter hat ein gutes Angebot."
+  - de: Nachfrage
+    article: die
+    plural: Nachfragen
+    en: demand
+    pos: noun
+    tags: [business, market]
+    core: true
+    example: "Die Nachfrage ist groß."
+  - de: Angebot
+    article: das
+    plural: Angebote
+    en: supply; offer
+    pos: noun
+    tags: [business, market]
+    core: true
+    example: "Das Angebot ist begrenzt."
+  - de: Markt
+    article: der
+    plural: Märkte
+    en: market
+    pos: noun
+    tags: [business, place, concrete]
+    core: true
+  - de: Investition
+    article: die
+    plural: Investitionen
+    en: investment
+    pos: noun
+    tags: [business]
+    core: true
+  - de: Investor
+    article: der
+    plural: Investoren
+    en: investor (male)
+    pos: noun
+    tags: [business, person, concrete]
+    core: true
+    example: "Der Investor hat das Startup finanziert."
+  - de: Investorin
+    article: die
+    plural: Investorinnen
+    en: investor (female)
+    pos: noun
+    tags: [business, person, concrete]
+    core: true
+  - de: Förderung
+    article: die
+    plural: Förderungen
+    en: funding; subsidy
+    pos: noun
+    tags: [business]
+    core: true
+  - de: Infrastruktur
+    article: die
+    plural: Infrastrukturen
+    en: infrastructure
+    pos: noun
+    tags: [business, concrete]
+    core: true
+  - de: Randbezirk
+    article: der
+    plural: Randbezirke
+    en: outlying district
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Er wohnt in einem Randbezirk."
