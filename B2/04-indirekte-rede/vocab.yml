@@ -1,0 +1,212 @@
+# Reviewed from B2/04 lesson.md §4 Wortschatz.
+# Note: all 3 tables use German paraphrase (Erklärung/Bedeutung), not English
+# glosses — V3's 2-col fallback drafted the German text verbatim into `en`. Every
+# gloss below is a hand-written English translation, not a patch of the draft.
+#
+# Section headers in lesson.md:
+#   Nachrichten und Berichterstattung (news reporting)  — 10 nouns (1 m/f pair)
+#   Verben des Sagens und Berichtens (verbs of saying)  — 10 verbs
+#   Adjektive und Adverbien der Distanz (hedging words) — 6 words
+lesson: B2/04
+
+entries:
+  # ── Nachrichten und Berichterstattung — 10 nouns ────────────────────────────
+  - de: Nachricht
+    article: die
+    plural: Nachrichten
+    en: news; message
+    pos: noun
+    tags: [media, abstract]
+    core: true
+  - de: Bericht
+    article: der
+    plural: Berichte
+    en: report
+    pos: noun
+    tags: [media, document]
+    core: true
+  - de: Quelle
+    article: die
+    plural: Quellen
+    en: source
+    pos: noun
+    tags: [media, abstract]
+    core: true
+    example: "Die Quelle ist unbekannt."
+  - de: Aussage
+    article: die
+    plural: Aussagen
+    en: statement
+    pos: noun
+    tags: [media, abstract]
+    core: true
+  - de: Sprecher
+    article: der
+    plural: Sprecher
+    en: spokesperson (male)
+    pos: noun
+    tags: [media, person, concrete]
+    core: true
+  - de: Sprecherin
+    article: die
+    plural: Sprecherinnen
+    en: spokesperson (female)
+    pos: noun
+    tags: [media, person, concrete]
+    core: true
+  - de: Gewerkschaft
+    article: die
+    plural: Gewerkschaften
+    en: (labor) union
+    pos: noun
+    tags: [media, organization, concrete]
+    core: true
+  - de: Streik
+    article: der
+    plural: Streiks
+    en: strike
+    pos: noun
+    tags: [media, event, abstract]
+    core: true
+  - de: Pressekonferenz
+    article: die
+    plural: Pressekonferenzen
+    en: press conference
+    pos: noun
+    tags: [media, event, concrete]
+    core: true
+  - de: Gerücht
+    article: das
+    plural: Gerüchte
+    en: rumor
+    pos: noun
+    tags: [media, abstract]
+    core: true
+    example: "Ein Gerücht verbreiten."
+  - de: Glaubwürdigkeit
+    article: die
+    plural: null
+    en: credibility
+    pos: noun
+    tags: [media, abstract]
+    core: true
+
+  # ── Verben des Sagens und Berichtens — 10 verbs ─────────────────────────────
+  # All introduce indirect speech (Konjunktiv I). Third-person Konjunktiv I
+  # example given for each to reinforce the grammar point.
+  - de: behaupten
+    article: null
+    plural: null
+    en: to claim; to assert (without proof)
+    pos: verb
+    tags: [verb, reported-speech]
+    core: true
+    example: "Er behauptet, er habe nichts gewusst."
+  - de: betonen
+    article: null
+    plural: null
+    en: to emphasize
+    pos: verb
+    tags: [verb, reported-speech]
+    core: true
+    example: "Sie betonte, sie sei unschuldig."
+  - de: erklären
+    article: null
+    plural: null
+    en: to explain; to state
+    pos: verb
+    tags: [verb, reported-speech]
+    core: true
+  - de: ankündigen
+    article: null
+    plural: null
+    en: to announce (in advance)
+    pos: verb
+    tags: [verb, reported-speech, separable]
+    core: true
+  - de: mitteilen
+    article: null
+    plural: null
+    en: to inform; to notify (officially)
+    pos: verb
+    tags: [verb, reported-speech, separable]
+    core: true
+  - de: bestreiten
+    article: null
+    plural: null
+    en: to dispute; to deny
+    pos: verb
+    tags: [verb, reported-speech, strong]
+    core: true
+  - de: zugeben
+    article: null
+    plural: null
+    en: to admit
+    pos: verb
+    tags: [verb, reported-speech, separable, strong]
+    core: true
+  - de: auffordern
+    article: null
+    plural: null
+    en: to call upon; to urge (to do something)
+    pos: verb
+    tags: [verb, reported-speech, separable, prep-zu]
+    core: true
+  - de: wiedergeben
+    article: null
+    plural: null
+    en: to report; to relay (what was said)
+    pos: verb
+    tags: [verb, reported-speech, separable, strong]
+    core: true
+  - de: referieren
+    article: null
+    plural: null
+    en: to report objectively; to summarize
+    pos: verb
+    tags: [verb, reported-speech]
+    core: true
+
+  # ── Adjektive und Adverbien der Distanz — 6 hedging words ──────────────────
+  - de: angeblich
+    article: null
+    plural: null
+    en: allegedly; supposedly (with doubt)
+    pos: adverb
+    tags: [adverb, hedging]
+    core: true
+  - de: anscheinend
+    article: null
+    plural: null
+    en: apparently (more credible than angeblich)
+    pos: adverb
+    tags: [adverb, hedging]
+    core: true
+  - de: offenbar
+    article: null
+    plural: null
+    en: evidently; apparently
+    pos: adverb
+    tags: [adverb, hedging]
+    core: true
+  - de: neutral
+    article: null
+    plural: null
+    en: neutral
+    pos: adjective
+    tags: [adjective, hedging]
+    core: true
+  - de: sachlich
+    article: null
+    plural: null
+    en: objective; factual
+    pos: adjective
+    tags: [adjective, hedging]
+    core: true
+  - de: umstritten
+    article: null
+    plural: null
+    en: controversial; disputed
+    pos: adjective
+    tags: [adjective, hedging]
+    core: true
