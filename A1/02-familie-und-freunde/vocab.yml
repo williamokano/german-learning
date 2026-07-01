@@ -1,0 +1,406 @@
+# Reviewed from A1/02 lesson.md §4 Wortschatz.
+# Note: the parser dropped the family table (columns: Maskulin | Feminin | Plural;
+# no der/die/das header → "non-gender table") and the numbers 20–1000 table (same
+# reason). It also mis-routed the 8 predicative adjectives to pos:other (bare
+# lowercase word path). Every entry below was added by hand from §4. Tag taxonomy
+# mirrors the A1/03 pilot + A1/01 vocab (issue #337).
+#
+# Section headers in lesson.md:
+#   Die Familie                — 30 nouns (9 masc + 9 fem + 6 plural-only + 4 single-cell + 2 split forms)
+#   Die Zahlen 20–1000         — 12 numbers
+#   Useful adjectives          — 8 predicative adjectives
+#   Possessivpronomen & Adjektive (Hörtext, §8)  — skipped (separate section, not §4)
+lesson: A1/02
+
+entries:
+  # ── Die Familie — Maskulin ─────────────────────────────────────────────────
+  - de: Vater
+    article: der
+    plural: Väter
+    en: father
+    pos: noun
+    tags: [family, concrete]
+    core: true
+    example: "Mein Vater heißt Bruno."
+  - de: Bruder
+    article: der
+    plural: Brüder
+    en: brother
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Sohn
+    article: der
+    plural: Söhne
+    en: son
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Mann
+    article: der
+    plural: Männer
+    en: man; husband
+    pos: noun
+    tags: [family, concrete]
+    core: true
+    example: "Ihr Mann kommt aus Berlin."
+  - de: Opa
+    article: der
+    plural: Opas
+    en: grandpa (informal)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Großvater
+    article: der
+    plural: Großväter
+    en: grandfather (formal)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Onkel
+    article: der
+    plural: Onkel
+    en: uncle
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Cousin
+    article: der
+    plural: Cousins
+    en: cousin (male)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Enkel
+    article: der
+    plural: Enkel
+    en: grandson
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Freund
+    article: der
+    plural: Freunde
+    en: friend (male); boyfriend
+    pos: noun
+    tags: [family, concrete]
+    core: true
+
+  # ── Die Familie — Feminin ──────────────────────────────────────────────────
+  - de: Mutter
+    article: die
+    plural: Mütter
+    en: mother
+    pos: noun
+    tags: [family, concrete]
+    core: true
+    example: "Meine Mutter kommt aus Jaroslawl."
+  - de: Schwester
+    article: die
+    plural: Schwestern
+    en: sister
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Tochter
+    article: die
+    plural: Töchter
+    en: daughter
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Frau
+    article: die
+    plural: Frauen
+    en: woman; wife
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Oma
+    article: die
+    plural: Omas
+    en: grandma (informal)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Großmutter
+    article: die
+    plural: Großmütter
+    en: grandmother (formal)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Tante
+    article: die
+    plural: Tanten
+    en: aunt
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Cousine
+    article: die
+    plural: Cousinen
+    en: cousin (female)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Enkelin
+    article: die
+    plural: Enkelinnen
+    en: granddaughter
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Freundin
+    article: die
+    plural: Freundinnen
+    en: friend (female); girlfriend
+    pos: noun
+    tags: [family, concrete]
+    core: true
+
+  # ── Die Familie — Plural-only groups ───────────────────────────────────────
+  # These nouns exist only in the plural (no singular form). `plural: null` is
+  # correct for both "no plural" and "no singular" cases.
+  - de: Eltern
+    article: die
+    plural: null
+    en: parents (plural only)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+    example: "Meine Eltern wohnen in Berlin."
+  - de: Geschwister
+    article: die
+    plural: null
+    en: siblings (plural only)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Kinder
+    article: die
+    plural: null
+    en: children (collective plural)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+    example: "Die Kinder spielen im Park."
+  - de: Ehepaar
+    article: das
+    plural: Ehepaare
+    en: married couple
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Großeltern
+    article: die
+    plural: null
+    en: grandparents (plural only)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Enkelkinder
+    article: die
+    plural: null
+    en: grandchildren (plural only)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Freunde
+    article: die
+    plural: null
+    en: friends (collective plural)
+    pos: noun
+    tags: [family, concrete]
+    core: true
+
+  # ── Die Familie — neuter + single-cell row ─────────────────────────────────
+  - de: Kind
+    article: das
+    plural: Kinder
+    en: child
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Baby
+    article: das
+    plural: Babys
+    en: baby
+    pos: noun
+    tags: [family, concrete]
+    core: true
+  - de: Familie
+    article: die
+    plural: Familien
+    en: family
+    pos: noun
+    tags: [family, concrete]
+    core: true
+    example: "Meine Familie ist groß."
+  - de: Foto
+    article: das
+    plural: Fotos
+    en: photo
+    pos: noun
+    tags: [family, concrete]
+    core: true
+    example: "Bruno zeigt ein Foto."
+
+  # ── Die Zahlen 20–1000 ─────────────────────────────────────────────────────
+  # pos: number; no article, no plural. Compound numbers 21+ written as one
+  # word (ein-und-zwan-zig pattern). Parenthesised "ein" in 100/1000 is optional.
+  - de: zwanzig
+    article: null
+    plural: null
+    en: twenty
+    pos: number
+    tags: [number]
+    core: true
+  - de: einundzwanzig
+    article: null
+    plural: null
+    en: twenty-one
+    pos: number
+    tags: [number]
+    core: true
+    example: "21 = ein-und-zwanzig (units before tens)."
+  - de: zweiundzwanzig
+    article: null
+    plural: null
+    en: twenty-two
+    pos: number
+    tags: [number]
+    core: true
+  - de: dreißig
+    article: null
+    plural: null
+    en: thirty
+    pos: number
+    tags: [number]
+    core: true
+    example: "⚠️ dreißig (ßig, not zig)."
+  - de: vierzig
+    article: null
+    plural: null
+    en: forty
+    pos: number
+    tags: [number]
+    core: true
+  - de: fünfzig
+    article: null
+    plural: null
+    en: fifty
+    pos: number
+    tags: [number]
+    core: true
+  - de: sechzig
+    article: null
+    plural: null
+    en: sixty
+    pos: number
+    tags: [number]
+    core: true
+    example: "⚠️ sechzig (no s)."
+  - de: siebzig
+    article: null
+    plural: null
+    en: seventy
+    pos: number
+    tags: [number]
+    core: true
+    example: "⚠️ siebzig (no en)."
+  - de: achtzig
+    article: null
+    plural: null
+    en: eighty
+    pos: number
+    tags: [number]
+    core: true
+  - de: neunzig
+    article: null
+    plural: null
+    en: ninety
+    pos: number
+    tags: [number]
+    core: true
+  - de: hundert
+    article: null
+    plural: null
+    en: hundred
+    pos: number
+    tags: [number]
+    core: true
+    example: "(ein)hundert — the 'ein' is optional."
+  - de: tausend
+    article: null
+    plural: null
+    en: thousand
+    pos: number
+    tags: [number]
+    core: true
+    example: "(ein)tausend — the 'ein' is optional."
+
+  # ── Useful adjectives (predicative) ────────────────────────────────────────
+  # Used after sein (predicative position). Adjective endings before nouns come
+  # in Lektion 4 — these are the lemma forms only.
+  - de: groß
+    article: null
+    plural: null
+    en: big; tall
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Er ist groß."
+  - de: klein
+    article: null
+    plural: null
+    en: small
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: alt
+    article: null
+    plural: null
+    en: old
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Mein Opa ist alt."
+  - de: jung
+    article: null
+    plural: null
+    en: young
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: nett
+    article: null
+    plural: null
+    en: nice
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Sie ist nett."
+  - de: fit
+    article: null
+    plural: null
+    en: fit
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: süß
+    article: null
+    plural: null
+    en: sweet; cute
+    pos: adjective
+    tags: [adjective]
+    core: true
+  - de: toll
+    article: null
+    plural: null
+    en: great
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das ist toll!"
