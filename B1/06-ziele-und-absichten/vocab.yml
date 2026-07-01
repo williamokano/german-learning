@@ -1,0 +1,307 @@
+# Reviewed from B1/06 lesson.md §4 Wortschatz.
+# Note: V2 parser captured most entries. Paren-trusted plurals (`die Vorsätze`,
+# `die Anträge`, `die Lebensläufe`, `die Projektanträge`) bled into `en`. 12 verb+zu
+# entries were tagged `pos: phrase` instead of `verb`; their 3rd-person forms
+# (`vergisst`, `empfiehlt`, `bittet`, `schlägt vor`) leaked as English glosses.
+# `Vorhaben`/`Anschreiben` falsely umlauted (no-pl. → `plural: null`). All hand-fixed.
+#
+# Section headers in lesson.md:
+#   Ziele und Pläne (goals and plans)                — 14 nouns
+#   Verben mit Infinitiv mit zu                       — 12 verbs (zu-infinitiv pattern)
+#   Bewerbung und Beruf (application and job)         — 12 nouns
+lesson: B1/06
+
+entries:
+  # ── Ziele und Pläne — 14 nouns ────────────────────────────────────────────
+  - de: Ziel
+    article: das
+    plural: Ziele
+    en: goal; objective; destination
+    pos: noun
+    tags: [goal, abstract]
+    core: true
+    example: "Das Ziel, etwas zu erreichen."
+  - de: Absicht
+    article: die
+    plural: Absichten
+    en: intention; purpose
+    pos: noun
+    tags: [goal, abstract]
+    core: true
+    example: "Die Absicht, zu kündigen."
+  - de: Plan
+    article: der
+    plural: Pläne
+    en: plan
+    pos: noun
+    tags: [goal, abstract]
+    core: true
+  - de: Vorsatz
+    article: der
+    plural: Vorsätze
+    en: resolution; intention
+    pos: noun
+    tags: [goal, abstract]
+    core: true
+    example: "Mein Vorsatz für dieses Jahr."
+  - de: Zweck
+    article: der
+    plural: Zwecke
+    en: purpose; aim
+    pos: noun
+    tags: [goal, abstract]
+    core: true
+  - de: Motivation
+    article: die
+    plural: null
+    en: motivation
+    pos: noun
+    tags: [strategy, abstract]
+    core: true
+    example: "Ich brauche mehr Motivation."
+  - de: Vorhaben
+    article: das
+    plural: null
+    en: project; plan; intention
+    pos: noun
+    tags: [goal, abstract]
+    core: true
+  - de: Bewerbung
+    article: die
+    plural: Bewerbungen
+    en: application (job, course)
+    pos: noun
+    tags: [career, abstract]
+    core: true
+    example: "Die Bewerbung wurde eingereicht."
+  - de: Antrag
+    article: der
+    plural: Anträge
+    en: application; request (official)
+    pos: noun
+    tags: [career, official]
+    core: true
+  - de: Konzept
+    article: das
+    plural: Konzepte
+    en: concept; plan
+    pos: noun
+    tags: [strategy, abstract]
+    core: true
+  - de: Strategie
+    article: die
+    plural: Strategien
+    en: strategy
+    pos: noun
+    tags: [strategy, abstract]
+    core: true
+  - de: Ergebnis
+    article: das
+    plural: Ergebnisse
+    en: result; outcome
+    pos: noun
+    tags: [outcome, abstract]
+    core: true
+    example: "Das Ergebnis war überraschend."
+  - de: Maßnahme
+    article: die
+    plural: Maßnahmen
+    en: measure; step (action taken)
+    pos: noun
+    tags: [outcome, abstract]
+    core: true
+  - de: Schritt
+    article: der
+    plural: Schritte
+    en: step
+    pos: noun
+    tags: [outcome, abstract]
+    core: true
+
+  # ── Verben mit Infinitiv mit zu — 12 verbs ────────────────────────────────
+  # These all take a `zu`-infinitive complement. Lesson Lerntipp: separable verbs
+  # put the `zu` in the middle (anzufangen, aufzuhören, vorzuhaben).
+  - de: versuchen
+    article: null
+    plural: null
+    en: to try to …
+    pos: verb
+    tags: [verb, zu-infinitiv]
+    core: true
+    example: "Ich versuche, pünktlich zu kommen."
+  - de: anfangen
+    article: null
+    plural: null
+    en: to begin to …; to start …
+    pos: verb
+    tags: [verb, zu-infinitiv, separable, strong]
+    core: true
+    example: "Ich fange an, Deutsch zu lernen."
+  - de: aufhören
+    article: null
+    plural: null
+    en: to stop …; to quit …
+    pos: verb
+    tags: [verb, zu-infinitiv, separable]
+    core: true
+    example: "Hör auf, so laut zu sprechen!"
+  - de: vergessen
+    article: null
+    plural: null
+    en: to forget to …
+    pos: verb
+    tags: [verb, zu-infinitiv, strong]
+    core: true
+    example: "Vergiss nicht, das Buch mitzubringen."
+  - de: hoffen
+    article: null
+    plural: null
+    en: to hope to …
+    pos: verb
+    tags: [verb, zu-infinitiv]
+    core: true
+    example: "Ich hoffe, dich bald zu sehen."
+  - de: planen
+    article: null
+    plural: null
+    en: to plan to …
+    pos: verb
+    tags: [verb, zu-infinitiv]
+    core: true
+  - de: vorhaben
+    article: null
+    plural: null
+    en: to intend to …; to plan to …
+    pos: verb
+    tags: [verb, zu-infinitiv, separable, strong]
+    core: true
+    example: "Ich habe vor, morgen zu kommen."
+  - de: empfehlen
+    article: null
+    plural: null
+    en: to recommend …
+    pos: verb
+    tags: [verb, zu-infinitiv, strong]
+    core: true
+    example: "Ich empfehle, das Buch zu lesen."
+  - de: bitten
+    article: null
+    plural: null
+    en: to ask (someone) to …
+    pos: verb
+    tags: [verb, zu-infinitiv, strong]
+    core: true
+    example: "Ich bitte dich, mir zu helfen."
+  - de: vorschlagen
+    article: null
+    plural: null
+    en: to suggest …
+    pos: verb
+    tags: [verb, zu-infinitiv, separable, strong]
+    core: true
+    example: "Ich schlage vor, morgen zu gehen."
+  - de: beschließen
+    article: null
+    plural: null
+    en: to decide to …
+    pos: verb
+    tags: [verb, zu-infinitiv, strong]
+    core: true
+    example: "Ich habe beschlossen, zu bleiben."
+  - de: vornehmen
+    article: null
+    plural: null
+    en: to resolve to …; to set out to …
+    pos: verb
+    tags: [verb, zu-infinitiv, separable, strong, reflexive]
+    core: true
+    example: "Ich nehme mir vor, mehr Sport zu machen."
+
+  # ── Bewerbung und Beruf — 12 nouns ───────────────────────────────────────
+  - de: Ausbildung
+    article: die
+    plural: Ausbildungen
+    en: training; apprenticeship
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Kurs
+    article: der
+    plural: Kurse
+    en: course
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Praktikum
+    article: das
+    plural: Praktika
+    en: internship
+    pos: noun
+    tags: [career, abstract]
+    core: true
+    example: "Ich mache ein Praktikum."
+  - de: Stelle
+    article: die
+    plural: Stellen
+    en: position; job
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Fähigkeit
+    article: die
+    plural: Fähigkeiten
+    en: skill; ability
+    pos: noun
+    tags: [career, characteristic]
+    core: true
+  - de: Erfahrung
+    article: die
+    plural: Erfahrungen
+    en: experience
+    pos: noun
+    tags: [career, experience]
+    core: true
+  - de: Qualifikation
+    article: die
+    plural: Qualifikationen
+    en: qualification
+    pos: noun
+    tags: [career, characteristic]
+    core: true
+  - de: Lebenslauf
+    article: der
+    plural: Lebensläufe
+    en: CV; résumé
+    pos: noun
+    tags: [career, document]
+    core: true
+    example: "Mein Lebenslauf ist aktuell."
+  - de: Anschreiben
+    article: das
+    plural: null
+    en: cover letter
+    pos: noun
+    tags: [career, document]
+    core: true
+  - de: Projektantrag
+    article: der
+    plural: Projektanträge
+    en: project proposal
+    pos: noun
+    tags: [career, official]
+    core: true
+  - de: Ressource
+    article: die
+    plural: Ressourcen
+    en: resource
+    pos: noun
+    tags: [career, abstract]
+    core: true
+  - de: Budget
+    article: das
+    plural: Budgets
+    en: budget
+    pos: noun
+    tags: [career, abstract]
+    core: true
+    example: "Das Budget ist begrenzt."
