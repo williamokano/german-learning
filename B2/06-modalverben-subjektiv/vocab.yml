@@ -1,0 +1,239 @@
+# Reviewed from B2/06 lesson.md §4 Wortschatz.
+# Note: table 1 (Nomen|Verb|Bedeutung) uses German paraphrase; all 12 glosses
+# hand-translated. Table 2 is a middot list (no table syntax), mostly bare words
+# with no inline gloss — hand-translated. Table 3 (Deutsch|English) parsed cleanly.
+#
+# Section headers in lesson.md:
+#   Vermutung, Gerücht und Gewissheit (certainty scale)  — 6 noun+verb pairs (12)
+#   Einschätzen und distanzieren (hedging vocabulary)    — 11 items (middot list)
+#   Hörtext-Vokabular (Radio, Promi)                     — 8 items
+lesson: B2/06
+
+entries:
+  # ── Vermutung, Gerücht und Gewissheit — 6 noun+verb pairs ──────────────────
+  # Ordered by certainty (per the lesson's own Lerntipp): Gewissheit (sure) >
+  # Beweis (proven) > Verdacht/Behauptung (claimed) > Vermutung/Gerücht (unverified).
+  - de: Vermutung
+    article: die
+    plural: Vermutungen
+    en: assumption; guess
+    pos: noun
+    tags: [noun, nominalization, certainty, abstract]
+    core: true
+  - de: vermuten
+    article: null
+    plural: null
+    en: to assume; to guess (uncertain)
+    pos: verb
+    tags: [verb, nominalization, certainty]
+    core: true
+  - de: Gewissheit
+    article: die
+    plural: null
+    en: certainty
+    pos: noun
+    tags: [noun, nominalization, certainty, abstract]
+    core: true
+  - de: wissen
+    article: null
+    plural: null
+    en: to know
+    pos: verb
+    tags: [verb, nominalization, certainty, strong]
+    core: true
+  - de: Verdacht
+    article: der
+    plural: Verdächte
+    en: suspicion
+    pos: noun
+    tags: [noun, nominalization, certainty, abstract]
+    core: true
+  - de: verdächtigen
+    article: null
+    plural: null
+    en: to suspect (someone)
+    pos: verb
+    tags: [verb, nominalization, certainty]
+    core: true
+  - de: Gerücht
+    article: das
+    plural: Gerüchte
+    en: rumor
+    pos: noun
+    tags: [noun, nominalization, certainty, media, abstract]
+    core: true
+  - de: verbreiten
+    article: null
+    plural: null
+    en: to spread (a rumor)
+    pos: verb
+    tags: [verb, nominalization, certainty, media]
+    core: true
+    example: "ein Gerücht verbreiten"
+  - de: Behauptung
+    article: die
+    plural: Behauptungen
+    en: claim; assertion
+    pos: noun
+    tags: [noun, nominalization, certainty, abstract]
+    core: true
+  - de: behaupten
+    article: null
+    plural: null
+    en: to claim; to assert
+    pos: verb
+    tags: [verb, nominalization, certainty]
+    core: true
+  - de: Beweis
+    article: der
+    plural: Beweise
+    en: proof
+    pos: noun
+    tags: [noun, nominalization, certainty, abstract]
+    core: true
+  - de: beweisen
+    article: null
+    plural: null
+    en: to prove
+    pos: verb
+    tags: [verb, nominalization, certainty, strong]
+    core: true
+
+  # ── Einschätzen und distanzieren — 11 items (middot list) ──────────────────
+  - de: Eindruck
+    article: der
+    plural: Eindrücke
+    en: impression
+    pos: noun
+    tags: [noun, perception, abstract]
+    core: true
+  - de: Einschätzung
+    article: die
+    plural: Einschätzungen
+    en: assessment; estimation
+    pos: noun
+    tags: [noun, perception, abstract]
+    core: true
+  - de: Zweifel
+    article: der
+    plural: null
+    en: doubt
+    pos: noun
+    tags: [noun, perception, abstract]
+    core: true
+    example: "Ich habe Zweifel."
+  - de: Quelle
+    article: die
+    plural: Quellen
+    en: source
+    pos: noun
+    tags: [noun, media, abstract]
+    core: true
+  - de: Distanz
+    article: die
+    plural: Distanzen
+    en: distance; detachment
+    pos: noun
+    tags: [noun, perception, abstract]
+    core: true
+  - de: skeptisch
+    article: null
+    plural: null
+    en: skeptical
+    pos: adjective
+    tags: [adjective, hedging]
+    core: true
+    example: "Ich bin skeptisch."
+  - de: misstrauisch
+    article: null
+    plural: null
+    en: distrustful; suspicious
+    pos: adjective
+    tags: [adjective, hedging]
+    core: true
+  - de: glaubwürdig
+    article: null
+    plural: null
+    en: credible; believable
+    pos: adjective
+    tags: [adjective, hedging]
+    core: true
+  - de: angeblich
+    article: null
+    plural: null
+    en: allegedly; supposedly
+    pos: adverb
+    tags: [adverb, hedging]
+    core: true
+  - de: vermutlich
+    article: null
+    plural: null
+    en: presumably
+    pos: adverb
+    tags: [adverb, hedging]
+    core: true
+  - de: offenbar
+    article: null
+    plural: null
+    en: evidently; apparently
+    pos: adverb
+    tags: [adverb, hedging]
+    core: true
+
+  # ── Hörtext-Vokabular (Radio, Promi) — 8 items ─────────────────────────────
+  - de: Schlagzeile
+    article: die
+    plural: Schlagzeilen
+    en: headline
+    pos: noun
+    tags: [media, document]
+    core: true
+  - de: Boulevardblatt
+    article: das
+    plural: Boulevardblätter
+    en: tabloid
+    pos: noun
+    tags: [media, document]
+    core: true
+  - de: Star
+    article: der
+    plural: Stars
+    en: celebrity; star
+    pos: noun
+    tags: [media, person, concrete]
+    core: true
+  - de: Trennung
+    article: die
+    plural: Trennungen
+    en: break-up; separation
+    pos: noun
+    tags: [media, abstract]
+    core: true
+  - de: dementieren
+    article: null
+    plural: null
+    en: to deny (officially)
+    pos: verb
+    tags: [verb, media]
+    core: true
+  - de: Dementi
+    article: das
+    plural: Dementis
+    en: official denial
+    pos: noun
+    tags: [media, abstract]
+    core: true
+  - de: Spekulation
+    article: die
+    plural: Spekulationen
+    en: speculation
+    pos: noun
+    tags: [media, certainty, abstract]
+    core: true
+  - de: anonym
+    article: null
+    plural: null
+    en: anonymous
+    pos: adjective
+    tags: [adjective, media]
+    core: true
