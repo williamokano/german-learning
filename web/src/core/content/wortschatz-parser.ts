@@ -11,16 +11,28 @@
 // This is a DRAFT generator: it extracts what it can (de / article / plural / pos) and
 // flags everything uncertain with `needsReview: true` + a `reviewNote` rather than
 // guessing. A human review pass fills `en` / `tags` / `example` and clears the flags.
+// It also returns `warnings` for content it could not parse (e.g. a non-gender table it
+// had to skip), so the importer can tell a reviewer that words may be missing rather than
+// silently dropping them.
 //
 // Pure module — no fs, no astro:content — so build/import-vocab.ts and vitest share it.
 
-import type { VocabEntryType, VocabSetType, ArticleType, PartOfSpeechType } from './vocab';
+import type { VocabEntryType, ArticleType, PartOfSpeechType } from './vocab';
 
-// A draft entry is a VocabEntry that may still carry a reviewNote.
+// Draft = parser output before human review: same shape as a VocabEntry, but may carry a
+// reviewNote and may (intentionally) violate committed invariants like noun⇔article.
 type DraftEntry = VocabEntryType;
+
+export interface ParseResult {
+  lesson: string;
+  entries: DraftEntry[];
+  warnings: string[];
+  sectionFound: boolean; // was a "## … Wortschatz" section present at all?
+}
 
 const ARTICLES = new Set(['der', 'die', 'das']);
 const DECORATION = /[⚠️🔊✏️💡🎧✅❗❓→·]/gu;
+const ARTICLE_WORD: Record<string, RegExp> = { der: /\bder\b/, die: /\bdie\b/, das: /\bdas\b/ };
 
 /** Slice out the `## … Wortschatz` section (until the next `## ` heading). */
 export function extractWortschatzSection(markdown: string): string | null {
@@ -52,9 +64,9 @@ function isSkippable(line: string): boolean {
 /** True for a markdown table whose header advertises der/die/das columns. */
 function isGenderTableHeader(line: string): boolean {
   const cells = splitTableRow(line).map(c => c.toLowerCase());
-  return cells.some(c => c.includes('der')) &&
-         cells.some(c => c.includes('die')) &&
-         cells.some(c => c.includes('das'));
+  // Whole-word match so "oder"/"wieder"/"Medien" don't masquerade as der/die.
+  const hasArticle = (re: RegExp) => cells.some(c => re.test(c));
+  return hasArticle(ARTICLE_WORD.der) && hasArticle(ARTICLE_WORD.die) && hasArticle(ARTICLE_WORD.das);
 }
 
 function splitTableRow(line: string): string[] {
@@ -65,15 +77,18 @@ function isTableSeparator(line: string): boolean {
   return /^\|?\s*:?-{2,}/.test(line.trim()) && line.includes('-');
 }
 
-/** Parse the full Wortschatz markdown into a VocabSet. */
-export function parseWortschatz(markdown: string, lesson: string): VocabSetType {
+/** Parse the full Wortschatz markdown into draft entries + parse warnings. */
+export function parseWortschatz(markdown: string, lesson: string): ParseResult {
   const section = extractWortschatzSection(markdown);
   const entries: DraftEntry[] = [];
-  if (section === null) return { lesson, entries };
+  const warnings: string[] = [];
+  const sectionFound = section !== null;
+  if (section === null) return { lesson, entries, warnings, sectionFound };
 
   const lines = section.split('\n');
   let i = 0;
-  let inGenderTable = false;
+  // A contiguous table block is in exactly one of these states.
+  let tableState: 'none' | 'gender' | 'skipped' = 'none';
   let textBlock: string[] = [];
 
   const flushTextBlock = () => {
@@ -94,26 +109,34 @@ export function parseWortschatz(markdown: string, lesson: string): VocabSetType 
     if (t.startsWith('|')) {
       flushTextBlock();
       if (isTableSeparator(t)) { i++; continue; }
-      if (!inGenderTable) {
-        // First row of a fresh table: a der/die/das header opens a vocab table.
-        // (Non-gender tables stay un-flagged, so their rows are skipped below.)
-        if (isGenderTableHeader(t)) inGenderTable = true;
-        i++;                       // the header row itself holds no entries
+      if (tableState === 'none') {
+        // First row of a fresh table block. A der/die/das header opens a vocab table;
+        // any other table is one we can't parse — warn once so the reviewer knows words
+        // may be missing. Either way the header row itself holds no entries.
+        if (isGenderTableHeader(t)) {
+          tableState = 'gender';
+        } else {
+          tableState = 'skipped';
+          warnings.push(`skipped non-gender table (first row: ${t.slice(0, 60)})`);
+        }
+        i++;
         continue;
       }
-      // Inside a gender table → this is a data row.
-      for (const cell of splitTableRow(t)) {
-        if (cell === '') continue;
-        for (const part of cell.split('/')) {             // "das Salz / der Zucker"
-          const e = parseToken(part);
-          if (e) entries.push(e);
+      // Data row. Only a gender table yields entries; a skipped table's rows are dropped.
+      if (tableState === 'gender') {
+        for (const cell of splitTableRow(t)) {
+          if (cell === '') continue;
+          for (const part of cell.split('/')) {           // "das Salz / der Zucker"
+            const e = parseToken(part);
+            if (e) entries.push(e);
+          }
         }
       }
       i++;
       continue;
     }
 
-    inGenderTable = false;
+    tableState = 'none';          // leaving the table; a later table is classified afresh
 
     if (isSkippable(line)) {
       flushTextBlock();           // a blank line / skippable line ends a list block
@@ -126,7 +149,7 @@ export function parseWortschatz(markdown: string, lesson: string): VocabSetType 
   }
   flushTextBlock();
 
-  return { lesson, entries };
+  return { lesson, entries, warnings, sectionFound };
 }
 
 /** Pull a German plural out of a code (-n, -e, …) and/or a parenthetical hint. */
@@ -138,8 +161,11 @@ function resolvePlural(de: string, code: string | null, paren: string | null): {
   if ((code && /no pl/i.test(code)) || (paren && /no pl/i.test(paren))) {
     return { plural: null, needsReview: false };
   }
-  // Parenthetical that spells the plural out, e.g. "(Äpfel)", "(usually pl.: Nudeln)"
-  if (paren) {
+  // A capitalized parenthetical spells the plural out, e.g. "(Äpfel)", "(usually pl.:
+  // Nudeln)" — but only trust it alongside a comma plural-code ("der Saft, –e (Säfte)").
+  // Without a code the paren is an English gloss, and a capitalized word inside it
+  // ("a town in Bavaria") must not be mistaken for a plural.
+  if (paren && code) {
     const m = paren.match(/([A-ZÄÖÜ][A-Za-zÄÖÜäöüß]+)\s*$/);
     if (m) return { plural: m[1], needsReview: false };
   }
@@ -149,11 +175,18 @@ function resolvePlural(de: string, code: string | null, paren: string | null): {
   const m = code.match(/^[-–]([a-zä]*)$/);
   if (m) {
     const suffix = m[1];
-    const umlautOnly = code.startsWith('–') && suffix === '';
-    if (umlautOnly) return { plural: de, needsReview: true }; // can't auto-umlaut safely
-    return { plural: de + suffix, needsReview: code.startsWith('–') };
+    const umlaut = code.startsWith('–');
+    if (umlaut && suffix === '') return { plural: de, needsReview: true }; // can't auto-umlaut safely
+    return { plural: de + suffix, needsReview: umlaut };
   }
   return { plural: null, needsReview: true };
+}
+
+/** The review note for a noun draft: an empty gloss outranks a shaky plural. */
+function nounReviewNote(en: string, pluralReview: boolean): string | undefined {
+  if (en === '') return 'fill English gloss';
+  if (pluralReview) return 'check plural';
+  return undefined;
 }
 
 /**
@@ -177,6 +210,8 @@ export function parseToken(rawInput: string): DraftEntry | null {
     raw = raw.slice(0, parenMatch.index).trim();
   }
 
+  // The gloss is branch-independent — it's derived from `paren`, which is now fixed.
+  const en = englishGloss(paren);
   const words = raw.split(/\s+/);
   const lead = words[0]?.toLowerCase();
 
@@ -188,29 +223,35 @@ export function parseToken(rawInput: string): DraftEntry | null {
     const de = head.trim();
     if (de === '') return null;
     const { plural, needsReview: pluralReview } = resolvePlural(de, code, paren);
-
-    const en = englishGloss(paren);
-    const needsReview = en === '' || pluralReview;
     return finalize({
-      de, article, plural, en, pos: 'noun', needsReview,
-      reviewNote: en === '' ? 'fill English gloss' : pluralReview ? 'check plural' : undefined,
+      de, article, plural, en, pos: 'noun',
+      needsReview: en === '' || pluralReview,
+      reviewNote: nounReviewNote(en, pluralReview),
     });
   }
 
   // ── Verb: bolded item ────────────────────────────────────────────────────
+  // Bold is overloaded (verbs, but also key nouns/adjectives), so only assert `verb`
+  // when the lemma looks like a lowercase infinitive (…en / …n). Otherwise flag it.
   if (wasBold) {
     const de = words.join(' ').replace(/,.*$/, '').trim();
-    const en = englishGloss(paren);
+    const looksLikeInfinitive = /^[a-zäöü][a-zäöüß]*(en|n)$/.test(de);
+    if (looksLikeInfinitive) {
+      return finalize({
+        de, article: null, plural: null, en, pos: 'verb',
+        needsReview: en === '',
+        reviewNote: en === '' ? 'fill English gloss' : undefined,
+      });
+    }
     return finalize({
-      de, article: null, plural: null, en, pos: 'verb',
-      needsReview: en === '',
-      reviewNote: en === '' ? 'fill English gloss' : undefined,
+      de, article: null, plural: null, en, pos: 'other',
+      needsReview: true,
+      reviewNote: 'bold item — confirm part of speech',
     });
   }
 
   // ── Phrase: starts with ein/eine/… or is multi-word ──────────────────────
   if (/^(ein|eine|einen|einem|einer)$/.test(lead) || words.length > 1) {
-    const en = englishGloss(paren);
     return finalize({
       de: raw, article: null, plural: null, en, pos: 'phrase',
       needsReview: true,
@@ -219,7 +260,6 @@ export function parseToken(rawInput: string): DraftEntry | null {
   }
 
   // ── Single bare word: ambiguous (verb? adjective? noun missing article?) ──
-  const en = englishGloss(paren);
   const capitalized = /^[A-ZÄÖÜ]/.test(raw);
   return finalize({
     de: raw,
@@ -234,8 +274,10 @@ export function parseToken(rawInput: string): DraftEntry | null {
 
 /**
  * A parenthetical is an English gloss when it starts lowercase ("to eat", "breakfast").
- * Plural hints — "(Äpfel)", "(no pl.)", "(usually pl.: Nudeln)" — are not glosses, even
- * when they start lowercase, so they fall through to needsReview rather than masquerade.
+ * Two kinds of plural hint are rejected instead: capitalized ones ("(Äpfel)") via the
+ * uppercase guard, and lowercase-but-not-a-gloss ones ("(no pl.)", "(usually pl.:
+ * Nudeln)") via the keyword guard — both fall through to needsReview rather than
+ * masquerade as an English translation.
  */
 function englishGloss(paren: string | null): string {
   if (!paren) return '';

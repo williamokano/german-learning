@@ -50,6 +50,9 @@ jobs:
       - name: Validate vocab.yml and assert no needsReview markers remain
         run: npx --yes tsx build/import-vocab.ts --all --check
 
+      - name: Run unit tests
+        run: pnpm -C web test
+
       - run: pnpm -C web build
 
       - uses: actions/upload-pages-artifact@v3

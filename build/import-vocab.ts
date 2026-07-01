@@ -23,7 +23,7 @@ import { fileURLToPath } from 'node:url';
 
 // Direct path imports so this script runs from the repo root without a root node_modules.
 import { parse as parseYaml, stringify as stringifyYaml } from '../web/node_modules/yaml/dist/index.js';
-import { VocabSet } from '../web/src/core/content/vocab.ts';
+import { CommittedVocabSet } from '../web/src/core/content/vocab.ts';
 import { parseWortschatz } from '../web/src/core/content/wortschatz-parser.ts';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -49,19 +49,33 @@ function main() {
   }
 
   let failures = 0;
+  let checked = 0; // vocab.yml files actually validated in --check mode
   for (const dir of dirs) {
     try {
-      const ok = checkMode ? checkLesson(dir) : importLesson(dir, force);
-      if (!ok) failures++;
+      if (checkMode) {
+        const res = checkLesson(dir);
+        if (res === null) continue; // no vocab.yml in this dir
+        checked++;
+        if (!res) failures++;
+      } else if (!importLesson(dir, force)) {
+        failures++;
+      }
     } catch (e) {
       console.error(`[import-vocab] ERROR: ${dir}: ${(e as Error).message}`);
       failures++;
     }
   }
+  // A green --check that validated nothing is a false pass (broken discovery, wrong cwd,
+  // LEVELS typo). Fail loudly rather than silently certify zero files.
+  if (checkMode && allMode && checked === 0) {
+    console.error('[import-vocab] --check validated 0 vocab.yml files — directory discovery is likely broken');
+    process.exit(1);
+  }
   if (failures > 0) process.exit(1);
 }
 
-/** Lesson dirs that have a lesson.md (import) or a vocab.yml (check). */
+/** Every subdirectory under each level (A1..C1). The lesson.md / vocab.yml gate is
+ *  applied per-dir downstream by importLesson / checkLesson. */
 function findAllLessonDirs(): string[] {
   const dirs: string[] = [];
   for (const level of LEVELS) {
@@ -96,16 +110,24 @@ function importLesson(dir: string, force: boolean): boolean {
 
   const lesson = lessonIdForDir(dir);
   const md = readFileSync(lessonPath, 'utf8');
-  const set = parseWortschatz(md, lesson);
+  const { entries, warnings, sectionFound } = parseWortschatz(md, lesson);
+  for (const w of warnings) console.warn(`[import-vocab] WARN ${dir}: ${w}`);
 
-  if (set.entries.length === 0) {
-    console.warn(`[import-vocab] no Wortschatz found, skipping: ${dir}`);
+  if (entries.length === 0) {
+    // Distinguish "this lesson genuinely has no Wortschatz" from "we couldn't parse it",
+    // so an unrecognized markdown shape doesn't masquerade as an empty lesson.
+    if (!sectionFound) {
+      console.warn(`[import-vocab] no Wortschatz section, skipping: ${dir}`);
+    } else {
+      console.warn(`[import-vocab] Wortschatz section present but 0 entries extracted (unrecognized markdown), skipping: ${dir}`);
+    }
     return true;
   }
 
-  writeFileSync(vocabPath, renderYaml(set));
-  const flagged = set.entries.filter(e => e.needsReview).length;
-  console.log(`[import-vocab] wrote: ${vocabPath} (${set.entries.length} entries, ${flagged} needsReview)`);
+  writeFileSync(vocabPath, renderYaml({ lesson, entries }));
+  const flagged = entries.filter(e => e.needsReview).length;
+  const warnSuffix = warnings.length ? `, ${warnings.length} warning(s)` : '';
+  console.log(`[import-vocab] wrote: ${vocabPath} (${entries.length} entries, ${flagged} needsReview${warnSuffix})`);
   return true;
 }
 
@@ -116,12 +138,16 @@ function renderYaml(set: { lesson: string; entries: unknown[] }): string {
 
 // ─── check (CI gate) ─────────────────────────────────────────────────────────
 
-function checkLesson(dir: string): boolean {
+// Returns true (valid), false (invalid), or null (no vocab.yml — nothing to check).
+function checkLesson(dir: string): boolean | null {
   const vocabPath = join(dir, 'vocab.yml');
-  if (!existsSync(vocabPath)) return true; // vocab is optional per lesson
+  if (!existsSync(vocabPath)) return null; // vocab is optional per lesson
 
+  // CommittedVocabSet carries every data invariant (structural + review-quality: no
+  // needsReview, gloss present, no stale reviewNote). Only the lesson-id-vs-path check
+  // is path-dependent, so it stays here.
   const raw = parseYaml(readFileSync(vocabPath, 'utf8'));
-  const result = VocabSet.safeParse(raw);
+  const result = CommittedVocabSet.safeParse(raw);
   if (!result.success) {
     console.error(`[import-vocab] INVALID: ${vocabPath}`);
     for (const issue of result.error.issues) {
@@ -131,23 +157,14 @@ function checkLesson(dir: string): boolean {
   }
 
   const data = result.data;
-  let ok = true;
-
   const expected = lessonIdForDir(dir);
   if (data.lesson !== expected) {
     console.error(`[import-vocab] LESSON MISMATCH: ${vocabPath} has "${data.lesson}", expected "${expected}"`);
-    ok = false;
+    return false;
   }
 
-  const flagged = data.entries.filter(e => e.needsReview);
-  if (flagged.length > 0) {
-    console.error(`[import-vocab] NEEDS REVIEW (${flagged.length}): ${vocabPath}`);
-    for (const e of flagged) console.error(`  - ${e.de}${e.reviewNote ? ` (${e.reviewNote})` : ''}`);
-    ok = false;
-  }
-
-  if (ok) console.log(`[import-vocab] OK: ${vocabPath} (${data.entries.length} entries)`);
-  return ok;
+  console.log(`[import-vocab] OK: ${vocabPath} (${data.entries.length} entries)`);
+  return true;
 }
 
 main();
