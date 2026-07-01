@@ -1,0 +1,437 @@
+# Reviewed from A1/09 lesson.md §4 Wortschatz.
+# Bootstrapped with build/import-vocab.ts; the parser captured 47 entries (39
+# needsReview). The human review pass cleans up:
+#   - all English glosses (parser left every noun blank, only filled a few parentheticals)
+#   - the 12 Farben (colors), which the parser mis-routed to pos: other (bare
+#     lowercase token path) — they are adjectives and live under tags: [color, adjective]
+#   - two bold-chunk separable verbs (anprobieren, einpacken): the lesson formats
+#     these as "**anprobieren** (to try on) ⚠️ separable" so the trailing word
+#     "separable" blocks the paren-at-end regex, leaving en: "" and pos: other.
+#     Resolved to pos: verb with the A1/08 pipe convention (an|probieren, ein|packen)
+#   - three stray prose chunks the parser caught as vocab rows (the §4 "die Hose
+#     and die Jeans are singular…" warning, the §4 "Color names in German are
+#     adjectives…" warning, the §4 "Kleidungsgrößen: 36 – 38 – 40 – 42 – 44 – 46"
+#     sizes block) — dropped, these are notes not lemmas
+#   - das Tuch, which the lesson gives as "das Tuch, –er (Tücher)" — the parser
+#     captured the lemma but dropped the plural; restored to Tücher
+#
+# Sections in lesson.md:
+#   Kleidung (clothes)                       — 21 nouns from the 3-gender table
+#   Farben (colors)                          — 12 predicative color adjectives
+#   Accessoires und Materialien              — 5 accessory nouns + 5 material phrases
+#   Größen und Zahlen fürs Einkaufen         — skipped (sizing reference, not vocab lemmas)
+#   Verben rund ums Einkaufen                — 10 verbs (2 separable + 8 regular)
+lesson: A1/09
+
+entries:
+  # ── Kleidung — der (m) ─────────────────────────────────────────────────────
+  - de: Anzug
+    article: der
+    plural: Anzüge
+    en: suit (men's)
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Er trägt einen schwarzen Anzug."
+  - de: Gürtel
+    article: der
+    plural: Gürtel
+    en: belt
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Hut
+    article: der
+    plural: Hüte
+    en: hat
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Mantel
+    article: der
+    plural: Mäntel
+    en: coat
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Im Winter trage ich einen Mantel."
+  - de: Pullover
+    article: der
+    plural: Pullover
+    en: pullover / sweater
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Rock
+    article: der
+    plural: Röcke
+    en: skirt
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Schuh
+    article: der
+    plural: Schuhe
+    en: shoe
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Stiefel
+    article: der
+    plural: Stiefel
+    en: boot
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+
+  # ── Kleidung — die (f) ─────────────────────────────────────────────────────
+  # "die Hose" and "die Jeans" are grammatically singular but mean "a pair of
+  # trousers / jeans". Plural: null follows the A1/02 plural-only convention
+  # (Eltern, Geschwister) for "no separate singular" / "no plural" interchangeably.
+  - de: Bluse
+    article: die
+    plural: Blusen
+    en: blouse
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Hose
+    article: die
+    plural: null
+    en: trousers (singular in form; "eine Hose" = "a pair of trousers")
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Ich kaufe eine Hose, nicht eine Hosen."
+  - de: Jacke
+    article: die
+    plural: Jacken
+    en: jacket (casual)
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Jeans
+    article: die
+    plural: null
+    en: jeans (singular in form; "eine Jeans" = "a pair of jeans")
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Krawatte
+    article: die
+    plural: Krawatten
+    en: tie (necktie)
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Mütze
+    article: die
+    plural: Mützen
+    en: cap; beanie
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Socke
+    article: die
+    plural: Socken
+    en: sock
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+
+  # ── Kleidung — das (n) ─────────────────────────────────────────────────────
+  - de: Hemd
+    article: das
+    plural: Hemden
+    en: shirt (button-up)
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Jackett
+    article: das
+    plural: Jacketts
+    en: jacket (formal blazer)
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Kleid
+    article: das
+    plural: Kleider
+    en: dress
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Das Kleid ist schön."
+  - de: Kostüm
+    article: das
+    plural: Kostüme
+    en: costume; women's suit
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Sweatshirt
+    article: das
+    plural: Sweatshirts
+    en: sweatshirt
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: T-Shirt
+    article: das
+    plural: T-Shirts
+    en: T-shirt
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+
+  # ── Farben (colors) ────────────────────────────────────────────────────────
+  # All lowercase in German; upper-case only when used as a noun (das Rot, das Blau).
+  # Used predicatively after sein: "Das T-Shirt ist blau." Tag taxonomy mirrors A1/04.
+  - de: rot
+    article: null
+    plural: null
+    en: red
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+    example: "Die Jacke ist rot."
+  - de: orange
+    article: null
+    plural: null
+    en: orange
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: gelb
+    article: null
+    plural: null
+    en: yellow
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: grün
+    article: null
+    plural: null
+    en: green
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: blau
+    article: null
+    plural: null
+    en: blue
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: lila
+    article: null
+    plural: null
+    en: purple
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: rosa
+    article: null
+    plural: null
+    en: pink
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: weiß
+    article: null
+    plural: null
+    en: white
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: schwarz
+    article: null
+    plural: null
+    en: black
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: grau
+    article: null
+    plural: null
+    en: grey
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: braun
+    article: null
+    plural: null
+    en: brown
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+  - de: bunt
+    article: null
+    plural: null
+    en: colourful; multi-coloured
+    pos: adjective
+    tags: [color, adjective]
+    core: true
+
+  # ── Accessoires (accessories) ──────────────────────────────────────────────
+  - de: Tasche
+    article: die
+    plural: Taschen
+    en: bag; pocket
+    pos: noun
+    tags: [accessory, concrete]
+    core: true
+  - de: Tuch
+    article: das
+    plural: Tücher
+    en: scarf / cloth
+    pos: noun
+    tags: [accessory, concrete]
+    core: true
+  - de: Schal
+    article: der
+    plural: Schals
+    en: scarf (knitted/woven)
+    pos: noun
+    tags: [accessory, concrete]
+    core: true
+  - de: Ring
+    article: der
+    plural: Ringe
+    en: ring
+    pos: noun
+    tags: [accessory, concrete]
+    core: true
+  - de: Uhr
+    article: die
+    plural: Uhren
+    en: watch; clock
+    pos: noun
+    tags: [accessory, concrete]
+    core: true
+    example: "Meine neue Uhr ist schön."
+
+  # ── Materialien (material phrases) ──────────────────────────────────────────
+  # Materials in the lesson appear only as fixed "aus + dative" phrases (the
+  # dative looks like the nominative — no article change). core: false so they
+  # don't double-count against the headword materials (Baumwolle, Wolle, …).
+  # The bare materials (Baumwolle, Wolle, Leder, Seide, Polyester) are nouns in
+  # their own right but the lesson never introduces them in isolation.
+  - de: aus Baumwolle
+    article: null
+    plural: null
+    en: made of cotton
+    pos: phrase
+    tags: [material]
+    core: false
+  - de: aus Wolle
+    article: null
+    plural: null
+    en: made of wool
+    pos: phrase
+    tags: [material]
+    core: false
+  - de: aus Leder
+    article: null
+    plural: null
+    en: made of leather
+    pos: phrase
+    tags: [material]
+    core: false
+  - de: aus Seide
+    article: null
+    plural: null
+    en: made of silk
+    pos: phrase
+    tags: [material]
+    core: false
+  - de: aus Polyester
+    article: null
+    plural: null
+    en: made of polyester
+    pos: phrase
+    tags: [material]
+    core: false
+
+  # ── Verben rund ums Einkaufen ──────────────────────────────────────────────
+  # Two are separable (the lesson explicitly flags them with ⚠️ separable).
+  # The A1/08 pipe convention (an|probieren) marks the split point so the prefix
+  # is searchable but stays out of the lemma form.
+  - de: an|probieren
+    article: null
+    plural: null
+    en: to try on
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Ich probiere die Jacke an."
+  - de: ein|packen
+    article: null
+    plural: null
+    en: to wrap up; to pack
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Die Verkäuferin packt das Hemd ein."
+  - de: suchen
+    article: null
+    plural: null
+    en: to look for; to search
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: finden
+    article: null
+    plural: null
+    en: to find
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich finde den Pullover schön."
+  - de: tragen
+    article: null
+    plural: null
+    en: to wear; to carry
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Er trägt eine schwarze Hose."
+  - de: stehen
+    article: null
+    plural: null
+    en: to suit (clothing) — dative!
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Der Rock steht dir gut."
+  - de: passen
+    article: null
+    plural: null
+    en: to fit (size) — dative!
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Die Schuhe passen mir."
+  - de: gefallen
+    article: null
+    plural: null
+    en: to like (thing = subject, person = dative!)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Das Kleid gefällt mir."
+  - de: gehören
+    article: null
+    plural: null
+    en: to belong to
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: helfen
+    article: null
+    plural: null
+    en: to help
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Kann ich Ihnen helfen?"
