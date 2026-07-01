@@ -1,0 +1,175 @@
+# Reviewed from C1/03 lesson.md §4 Wortschatz.
+# Note: both included tables use German-only paraphrase — no draft to patch, every
+# entry hand-derived and hand-translated from source. Table 3 ("Falsche
+# Verwechslung: Modalpartikel ≠ Konjunktion ≠ Adverb") intentionally EXCLUDED: it's
+# a grammatical-contrast clarification using already-known words from earlier
+# levels (weil/dass/obwohl = B1, vielleicht/wahrscheinlich/wirklich = B1/B2), not
+# new headword vocabulary — same convention as B2/09's excluded prefix/suffix
+# reference tables.
+#
+# Section headers in lesson.md:
+#   Kernwortschatz: Modalpartikeln und Nuancen  — 12 theory nouns
+#   Modalpartikeln im Überblick (Übersicht)      — 8 modal particles (the lesson's core content)
+#   Falsche Verwechslung: ...                    — EXCLUDED (grammar-contrast reference)
+lesson: C1/03
+
+entries:
+  # ── Kernwortschatz: Modalpartikeln und Nuancen — 12 theory nouns ──────────
+  - de: Modalpartikel
+    article: die
+    plural: Modalpartikeln
+    en: modal particle
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+    example: "Kleines Wort, das die Sprechhaltung färbt."
+  - de: Abtönungspartikel
+    article: die
+    plural: Abtönungspartikeln
+    en: modal particle (technical term, = Modalpartikel)
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: Nuance
+    article: die
+    plural: Nuancen
+    en: nuance
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Sprechhaltung
+    article: die
+    plural: Sprechhaltungen
+    en: speaker's attitude; tone
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Stimmung
+    article: die
+    plural: Stimmungen
+    en: mood; emotional atmosphere
+    pos: noun
+    tags: [linguistics, emotion, abstract]
+    core: true
+  - de: Bekräftigung
+    article: die
+    plural: Bekräftigungen
+    en: emphatic confirmation
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+    example: "Das ist doch so!"
+  - de: Resignation
+    article: die
+    plural: Resignationen
+    en: resignation (giving in, accepting)
+    pos: noun
+    tags: [linguistics, emotion, abstract]
+    core: true
+    example: "Das ist halt so."
+  - de: Vermutung
+    article: die
+    plural: Vermutungen
+    en: assumption; guess
+    pos: noun
+    tags: [linguistics, certainty, abstract]
+    core: true
+    example: "Er wird wohl kommen."
+  - de: Zugeständnis
+    article: das
+    plural: Zugeständnisse
+    en: concession
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+    example: "Das stimmt schon, aber …"
+  - de: Aufmunterung
+    article: die
+    plural: Aufmunterungen
+    en: encouragement
+    pos: noun
+    tags: [linguistics, emotion, abstract]
+    core: true
+    example: "Komm, Kopf hoch!"
+  - de: Ironie
+    article: die
+    plural: null
+    en: irony
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+    example: 'Das ist ja „toll"!'
+  - de: Hervorhebung
+    article: die
+    plural: Hervorhebungen
+    en: emphasis
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+    example: "Das war ja ein Erlebnis!"
+
+  # ── Modalpartikeln im Überblick — 8 particles (core lesson content) ────────
+  - de: doch
+    article: null
+    plural: null
+    en: after all; really (emphatic confirmation / gentle urging)
+    pos: adverb
+    tags: [modal-particle]
+    core: true
+    example: "Komm doch mit! / Das ist doch Quatsch!"
+  - de: ja
+    article: null
+    plural: null
+    en: as you know (shared knowledge marker)
+    pos: adverb
+    tags: [modal-particle]
+    core: true
+    example: "Du weißt ja, wie das ist."
+  - de: mal
+    article: null
+    plural: null
+    en: just (softening; casual request)
+    pos: adverb
+    tags: [modal-particle]
+    core: true
+    example: "Schau mal … / Komm mal her."
+  - de: halt
+    article: null
+    plural: null
+    en: just; that's just how it is (resignation; justification)
+    pos: adverb
+    tags: [modal-particle]
+    core: true
+    example: "Das ist halt so."
+  - de: eben
+    article: null
+    plural: null
+    en: simply; just (resignation; confirmation)
+    pos: adverb
+    tags: [modal-particle]
+    core: true
+    example: "Das ist eben nicht einfach."
+  - de: wohl
+    article: null
+    plural: null
+    en: probably (cautious assumption)
+    pos: adverb
+    tags: [modal-particle]
+    core: true
+    example: "Er wird wohl krank sein."
+  - de: schon
+    article: null
+    plural: null
+    en: sure; granted (concession, with a limitation to follow)
+    pos: adverb
+    tags: [modal-particle]
+    core: true
+    example: "Das stimmt schon, aber …"
+  - de: eigentlich
+    article: null
+    plural: null
+    en: actually (correction; reflection)
+    pos: adverb
+    tags: [modal-particle]
+    core: true
+    example: "Eigentlich wollte ich das ja nicht."
