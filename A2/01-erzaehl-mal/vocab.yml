@@ -1,0 +1,348 @@
+# Reviewed from A2/01 lesson.md §4 Wortschatz. Bootstrapped with build/import-vocab.ts.
+# All 38 entries extracted, 5 still flagged `needsReview` — every one resolved here.
+#
+# Parser gaps surfaced and fixed by hand:
+#   1. findEnglishCellIndex (shortest non-capitalised non-lemma cell) is fooled by the
+#      3-col verb table when the Perfekt column is shorter than the Meaning column:
+#      "hat erzählt" beat "to tell, narrate"; "hat erlebt" beat "to experience";
+#      "hat bekommen" beat "to receive, get"; "hat studiert" beat "to study (at university)";
+#      "hat reserviert" beat "to reserve, book"; "hat telefoniert" beat "to telephone, call".
+#      All six glosses corrected to the infinitive-style English from the lesson's
+#      Meaning column.
+#   2. Bare lowercase single words route to `pos: adjective` — but in this lesson
+#      "früher", "damals", "irgendwann", "plötzlich", "endlich" are temporal adverbs
+#      (time connectors), not adjectives. Re-tagged to `pos: adverb, tags: [time]`.
+#   3. `gestern` and `vorgestern` route to `pos: verb` because the lowercase-stem regex
+#      `^[a-zäöü][a-zäöüß]*(en|n)$` matches their `…n` ending. Re-tagged to
+#      `pos: adverb, tags: [time]`.
+#   4. `Studium` plural — lesson cell "das Studium, Studien" gave the code "," (empty
+#      suffix code) + paren "(university) studies" which is English, so the plural
+#      resolver returned null + needsReview. Fixed to plural: "Studien".
+#   5. The 4 multi-word time phrases (letzte Woche, letzten Monat, letztes Jahr,
+#      vor drei Jahren) carry filled en but the phrase path of parseToken still
+#      flags needsReview. All four now needReview: false.
+#
+# Section headers in lesson.md:
+#   Lebensgeschichte und Lebensphasen (life story and stages)  — 12 nouns
+#   Verben für Geschichten (story verbs)                        — 15 verbs
+#   Zeitausdrücke (time expressions)                            — 11 adverbs/phrases
+lesson: A2/01
+
+entries:
+  # ── Lebensgeschichte und Lebensphasen (life stages) ────────────────────────
+  # Glossed from the lesson's English column. Tagged [life, concrete] — every
+  # entry is a picturable concept (a period, an event, or a role), even when the
+  # lemma itself is abstract (Kindheit, Jugend). Plural: Studium → "Studien"
+  # (lesson cell). All other plurals auto-resolved from the comma codes.
+  - de: Kindheit
+    article: die
+    plural: Kindheiten
+    en: childhood
+    pos: noun
+    tags: [life, concrete]
+    core: true
+    example: "Meine Kindheit war in Jaroslawl."
+  - de: Jugend
+    article: die
+    plural: null
+    en: youth; adolescence
+    pos: noun
+    tags: [life, concrete]
+    core: true
+    example: "In meiner Jugend habe ich viel gereist."
+  - de: Studium
+    article: das
+    plural: Studien
+    en: (university) studies
+    pos: noun
+    tags: [life, concrete]
+    core: true
+    example: "Das Studium hat vier Jahre gedauert."
+  - de: Abschluss
+    article: der
+    plural: Abschlüsse
+    en: graduation; qualification
+    pos: noun
+    tags: [life, concrete]
+    core: true
+  - de: Job
+    article: der
+    plural: Jobs
+    en: job
+    pos: noun
+    tags: [work, concrete]
+    core: true
+    example: "Ich habe einen neuen Job in Berlin."
+  - de: Stelle
+    article: die
+    plural: Stellen
+    en: position; post
+    pos: noun
+    tags: [work, concrete]
+    core: true
+    example: "Ich habe eine Stelle in Moskau bekommen."
+  - de: Umzug
+    article: der
+    plural: Umzüge
+    en: move; relocation
+    pos: noun
+    tags: [life, concrete]
+    core: true
+    example: "Der Umzug nach Berlin war stressig."
+  - de: Reise
+    article: die
+    plural: Reisen
+    en: trip; journey
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Die Reise nach Wien war wunderschön."
+  - de: Erlebnis
+    article: das
+    plural: Erlebnisse
+    en: experience; event
+    pos: noun
+    tags: [life, concrete]
+    core: true
+  - de: Erinnerung
+    article: die
+    plural: Erinnerungen
+    en: memory; recollection
+    pos: noun
+    tags: [life, concrete]
+    core: true
+    example: "Ich habe schöne Erinnerungen an meine Kindheit."
+  - de: Abenteuer
+    article: das
+    plural: Abenteuer
+    en: adventure
+    pos: noun
+    tags: [life, concrete]
+    core: true
+    example: "Berlin war ein großes Abenteuer."
+  - de: Traum
+    article: der
+    plural: Träume
+    en: dream
+    pos: noun
+    tags: [life, concrete]
+    core: true
+    example: "Ich hatte den Traum, ins Ausland zu gehen."
+
+  # ── Verben für Geschichten (story verbs) ────────────────────────────────────
+  # Glossed as infinitives from the lesson's Meaning column (NOT the Perfekt
+  # column — see parser-gap 1 above). Separable verbs (umziehen, einziehen,
+  # ausgehen) keep the bare stem per the A1/11 gold convention; the Partizip II
+  # form is a property of the verb, not a separate vocab entry. All verbs tagged
+  # [verb] (the bare minimum the loader needs for filtering).
+  - de: erzählen
+    article: null
+    plural: null
+    en: to tell; to narrate
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Erzähl mal — wie war dein Wochenende?"
+  - de: passieren
+    article: null
+    plural: null
+    en: to happen
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Was ist passiert?"
+  - de: erleben
+    article: null
+    plural: null
+    en: to experience
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir haben viel erlebt."
+  - de: entscheiden
+    article: null
+    plural: null
+    en: to decide
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Hast du das schon entschieden?"
+  - de: beginnen
+    article: null
+    plural: null
+    en: to begin
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Die Reise hat begonnen."
+  - de: besuchen
+    article: null
+    plural: null
+    en: to visit
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich habe meinen Cousin besucht."
+  - de: bekommen
+    article: null
+    plural: null
+    en: to receive; to get
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich habe eine E-Mail bekommen."
+  - de: verstehen
+    article: null
+    plural: null
+    en: to understand
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich habe alles verstanden."
+  - de: studieren
+    article: null
+    plural: null
+    en: to study (at university)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich habe in Jaroslawl studiert."
+  - de: reservieren
+    article: null
+    plural: null
+    en: to reserve; to book
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir haben einen Tisch reserviert."
+  - de: fotografieren
+    article: null
+    plural: null
+    en: to photograph; to take photos
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Er hat die Stadt fotografiert."
+  - de: telefonieren
+    article: null
+    plural: null
+    en: to telephone; to call
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich habe zwei Stunden telefoniert."
+  - de: umziehen
+    article: null
+    plural: null
+    en: to move (house)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Schließlich bin ich nach Berlin umgezogen."
+  - de: einziehen
+    article: null
+    plural: null
+    en: to move in
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir sind in die neue Wohnung eingezogen."
+  - de: ausgehen
+    article: null
+    plural: null
+    en: to go out
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Am Samstag sind wir ausgegangen."
+
+  # ── Zeitausdrücke (time expressions) ──────────────────────────────────────
+  # Single-word temporal adverbs → pos: adverb. Multi-word anchors (letzte + week,
+  # vor drei Jahren) → pos: phrase. All tagged [time]. The 11 entries come from
+  # the bilingual table in §4 — the parser filled the English correctly from the
+  # adjacent cell, but mis-routed gestern/vorgestern/irgendwann to pos:verb and
+  # früher/damals/plötzlich/endlich to pos:adjective (see parser-gaps 2 + 3).
+  - de: gestern
+    article: null
+    plural: null
+    en: yesterday
+    pos: adverb
+    tags: [time]
+    core: true
+    example: "Gestern habe ich meine Freundin besucht."
+  - de: vorgestern
+    article: null
+    plural: null
+    en: the day before yesterday
+    pos: adverb
+    tags: [time]
+    core: true
+  - de: letzte Woche
+    article: null
+    plural: null
+    en: last week
+    pos: phrase
+    tags: [time]
+    core: true
+    example: "Letzte Woche waren wir in Wien."
+  - de: letzten Monat
+    article: null
+    plural: null
+    en: last month
+    pos: phrase
+    tags: [time]
+    core: true
+  - de: letztes Jahr
+    article: null
+    plural: null
+    en: last year
+    pos: phrase
+    tags: [time]
+    core: true
+    example: "Letztes Jahr habe ich in Berlin gewohnt."
+  - de: vor drei Jahren
+    article: null
+    plural: null
+    en: three years ago
+    pos: phrase
+    tags: [time]
+    core: true
+  - de: früher
+    article: null
+    plural: null
+    en: earlier; in the past
+    pos: adverb
+    tags: [time]
+    core: true
+    example: "Früher habe ich in Russland gewohnt."
+  - de: damals
+    article: null
+    plural: null
+    en: back then; at that time
+    pos: adverb
+    tags: [time]
+    core: true
+  - de: irgendwann
+    article: null
+    plural: null
+    en: at some point
+    pos: adverb
+    tags: [time]
+    core: true
+    example: "Irgendwann wollte ich immer nach Berlin."
+  - de: plötzlich
+    article: null
+    plural: null
+    en: suddenly
+    pos: adverb
+    tags: [time]
+    core: true
+    example: "Plötzlich hat es geregnet."
+  - de: endlich
+    article: null
+    plural: null
+    en: finally; at last
+    pos: adverb
+    tags: [time]
+    core: true
+    example: "Endlich hat es geklappt!"
