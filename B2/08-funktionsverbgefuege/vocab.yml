@@ -1,0 +1,176 @@
+# Reviewed from B2/08 lesson.md §4 Wortschatz.
+# Note: table 1 (Funktionsverbgefüge | feste Präposition/Kasus | = Vollverb) lists
+# fixed support-verb constructions. Per the lesson's own Lerntipp ("Lern ein FVG
+# NIEMALS als einzelnes Wort, sondern immer als GANZEN BLOCK"), the whole phrase is
+# the vocabulary unit — captured as core:true phrase entries, with the equivalent
+# simple verb + fixed preposition noted in `example:` rather than split into
+# separate headwords. Table 2 (German Erklärung) hand-translated.
+#
+# Section headers in lesson.md:
+#   Funktionsverben und ihre Nomen   — 11 fixed FVG phrases
+#   Nomen mit fester Form            — 10 nouns (2 are FVG-only: Betracht, Verfügung)
+lesson: B2/08
+
+entries:
+  # ── Funktionsverben und ihre Nomen — 11 fixed FVG phrases ──────────────────
+  - de: eine Entscheidung treffen
+    article: null
+    plural: null
+    en: to make a decision
+    pos: phrase
+    tags: [fvg, phrase]
+    core: true
+    example: "= entscheiden"
+  - de: eine Frage stellen
+    article: null
+    plural: null
+    en: to ask a question
+    pos: phrase
+    tags: [fvg, phrase]
+    core: true
+    example: "= fragen"
+  - de: Kritik üben
+    article: null
+    plural: null
+    en: to criticize
+    pos: phrase
+    tags: [fvg, phrase, prep-an, dative]
+    core: true
+    example: "an + Dativ. = kritisieren"
+  - de: eine Rolle spielen
+    article: null
+    plural: null
+    en: to play a role; to matter
+    pos: phrase
+    tags: [fvg, phrase]
+    core: true
+    example: "= wichtig sein"
+  - de: in Betracht ziehen
+    article: null
+    plural: null
+    en: to take into consideration
+    pos: phrase
+    tags: [fvg, phrase]
+    core: true
+    example: "= berücksichtigen"
+  - de: Bezug nehmen
+    article: null
+    plural: null
+    en: to refer to
+    pos: phrase
+    tags: [fvg, phrase, prep-auf, accusative]
+    core: true
+    example: "auf + Akkusativ. = sich beziehen auf"
+  - de: zum Ausdruck bringen
+    article: null
+    plural: null
+    en: to express
+    pos: phrase
+    tags: [fvg, phrase]
+    core: true
+    example: "= ausdrücken / sagen"
+  - de: in Kauf nehmen
+    article: null
+    plural: null
+    en: to accept; to put up with
+    pos: phrase
+    tags: [fvg, phrase]
+    core: true
+    example: "= hinnehmen / akzeptieren"
+  - de: Anwendung finden
+    article: null
+    plural: null
+    en: to be applied; to apply
+    pos: phrase
+    tags: [fvg, phrase]
+    core: true
+    example: "= angewendet werden / gelten"
+  - de: eine Rede halten
+    article: null
+    plural: null
+    en: to give a speech
+    pos: phrase
+    tags: [fvg, phrase]
+    core: true
+    example: "= reden / sprechen"
+  - de: Abschied nehmen
+    article: null
+    plural: null
+    en: to say goodbye
+    pos: phrase
+    tags: [fvg, phrase, prep-von, dative]
+    core: true
+    example: "von + Dativ. = sich verabschieden von"
+
+  # ── Nomen mit fester Form — 10 nouns ────────────────────────────────────────
+  - de: Entscheidung
+    article: die
+    plural: Entscheidungen
+    en: decision
+    pos: noun
+    tags: [noun, fvg, abstract]
+    core: true
+  - de: Frage
+    article: die
+    plural: Fragen
+    en: question
+    pos: noun
+    tags: [noun, fvg, abstract]
+    core: true
+  - de: Kritik
+    article: die
+    plural: null
+    en: criticism
+    pos: noun
+    tags: [noun, fvg, abstract]
+    core: true
+  - de: Rolle
+    article: die
+    plural: Rollen
+    en: role
+    pos: noun
+    tags: [noun, fvg, abstract]
+    core: true
+  - de: Betracht
+    article: der
+    plural: null
+    en: consideration (only used in the fixed phrase in Betracht ziehen/kommen)
+    pos: noun
+    tags: [noun, fvg, abstract]
+    core: true
+  - de: Bezug
+    article: der
+    plural: Bezüge
+    en: connection; reference
+    pos: noun
+    tags: [noun, fvg, abstract]
+    core: true
+  - de: Ausdruck
+    article: der
+    plural: Ausdrücke
+    en: expression
+    pos: noun
+    tags: [noun, fvg, abstract]
+    core: true
+  - de: Verfügung
+    article: die
+    plural: Verfügungen
+    en: availability; disposal (only used in the fixed phrase zur Verfügung stehen/stellen)
+    pos: noun
+    tags: [noun, fvg, abstract]
+    core: true
+    example: "zur Verfügung stehen — not zu der Verfügung"
+  - de: Anwendung
+    article: die
+    plural: Anwendungen
+    en: application; use
+    pos: noun
+    tags: [noun, fvg, abstract]
+    core: true
+  - de: Abschied
+    article: der
+    plural: Abschiede
+    en: farewell; goodbye
+    pos: noun
+    tags: [noun, fvg, abstract]
+    core: true
