@@ -1,0 +1,308 @@
+# Reviewed from C1/04 lesson.md §4 Wortschatz.
+# Note: all 3 tables use German-only paraphrase — no draft to patch, every entry
+# hand-derived and hand-translated from source. Table 2 (Motivkreise) groups
+# multiple idioms per row under ONE shared, vague "Bedeutung" — individual glosses
+# for each idiom were derived from standard German usage, not copied verbatim from
+# the source (the source doesn't gloss them individually). Two idioms overlap
+# between table 1 (Daumen drücken, kalte Füße bekommen) and table 2's Körper
+# group — captured once, not duplicated.
+#
+# Section headers in lesson.md:
+#   Kernwortschatz: Idiomatik und Kollokationen  — 12 theory nouns + 2 idiom examples
+#   Motivkreise der Redewendungen                 — 5 idiom groups, ~18 unique idioms (2 dedup'd)
+#   Falsche Freunde (Auswahl)                      — 8 false-friend word pairs
+lesson: C1/04
+
+entries:
+  # ── Kernwortschatz: Idiomatik und Kollokationen — 12 theory nouns ─────────
+  - de: Redewendung
+    article: die
+    plural: Redewendungen
+    en: idiom; set phrase
+    pos: noun
+    tags: [linguistics, idiom, abstract]
+    core: true
+    example: "Daumen drücken, kalte Füße bekommen"
+  - de: Sprichwort
+    article: das
+    plural: Sprichwörter
+    en: proverb
+    pos: noun
+    tags: [linguistics, idiom, abstract]
+    core: true
+    example: "Aller Anfang ist schwer."
+  - de: Kollokation
+    article: die
+    plural: Kollokationen
+    en: collocation
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+    example: "fundierte Entscheidung"
+  - de: Idiom
+    article: das
+    plural: Idiome
+    en: idiom (technical term, = Redewendung)
+    pos: noun
+    tags: [linguistics, idiom, abstract]
+    core: true
+  - de: Bildhaftigkeit
+    article: die
+    plural: null
+    en: figurativeness; vividness
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Übertragung
+    article: die
+    plural: Übertragungen
+    en: figurative transfer (concrete → abstract meaning)
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Motivkreis
+    article: der
+    plural: Motivkreise
+    en: thematic group (of idioms sharing an image)
+    pos: noun
+    tags: [linguistics, idiom, abstract]
+    core: true
+    example: "Körper, Tier, Farbe"
+  - de: Frequenz
+    article: die
+    plural: null
+    en: frequency
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Kollokationsbruch
+    article: der
+    plural: Kollokationsbrüche
+    en: collocation error; wrong word combination
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+    example: "starke Meinung (falsch)"
+  - de: Registerbruch
+    article: der
+    plural: Registerbrüche
+    en: register violation; wrong register
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+    example: "Idiom im Geschäftsbrief"
+  - de: falscher Freund
+    article: der
+    plural: falsche Freunde
+    en: false friend (a word that looks similar in another language but means something different)
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+  - de: Übertretung
+    article: die
+    plural: Übertretungen
+    en: transgression; overstepping (a rule)
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+
+  # ── Idioms — Körper (body) — 5 idioms (2 from table 1) ─────────────────────
+  - de: die Daumen drücken
+    article: null
+    plural: null
+    en: to keep one's fingers crossed
+    pos: phrase
+    tags: [idiom, motivkreis-koerper, phrase]
+    core: true
+  - de: kalte Füße bekommen
+    article: null
+    plural: null
+    en: to get cold feet
+    pos: phrase
+    tags: [idiom, motivkreis-koerper, phrase]
+    core: true
+  - de: Kopf hoch
+    article: null
+    plural: null
+    en: chin up; keep your spirits up
+    pos: phrase
+    tags: [idiom, motivkreis-koerper, phrase]
+    core: true
+  - de: auf die Palme bringen
+    article: null
+    plural: null
+    en: to drive someone up the wall
+    pos: phrase
+    tags: [idiom, motivkreis-koerper, phrase]
+    core: true
+  - de: das Herz auf der Zunge tragen
+    article: null
+    plural: null
+    en: to wear one's heart on one's sleeve
+    pos: phrase
+    tags: [idiom, motivkreis-koerper, phrase]
+    core: true
+
+  # ── Idioms — Tiere (animals) — 4 idioms ─────────────────────────────────────
+  - de: die Fliege machen
+    article: null
+    plural: null
+    en: to scram; to take off
+    pos: phrase
+    tags: [idiom, motivkreis-tiere, phrase]
+    core: true
+  - de: einen Kater haben
+    article: null
+    plural: null
+    en: to have a hangover
+    pos: phrase
+    tags: [idiom, motivkreis-tiere, phrase]
+    core: true
+  - de: eine Ente sein
+    article: null
+    plural: null
+    en: to be a hoax (news story)
+    pos: phrase
+    tags: [idiom, motivkreis-tiere, phrase]
+    core: true
+  - de: Schwein haben
+    article: null
+    plural: null
+    en: to be lucky
+    pos: phrase
+    tags: [idiom, motivkreis-tiere, phrase]
+    core: true
+
+  # ── Idioms — Farben (colors) — 3 idioms ─────────────────────────────────────
+  - de: ins Blaue reden
+    article: null
+    plural: null
+    en: to talk nonsense; to speculate wildly
+    pos: phrase
+    tags: [idiom, motivkreis-farben, phrase]
+    core: true
+  - de: das Gelbe vom Ei
+    article: null
+    plural: null
+    en: "the best thing (often used ironically: not exactly the best)"
+    pos: phrase
+    tags: [idiom, motivkreis-farben, phrase]
+    core: true
+  - de: grün hinter den Ohren sein
+    article: null
+    plural: null
+    en: to be wet behind the ears; inexperienced
+    pos: phrase
+    tags: [idiom, motivkreis-farben, phrase]
+    core: true
+
+  # ── Idioms — Natur/Wetter (nature/weather) — 3 idioms ───────────────────────
+  - de: ins Wasser fallen
+    article: null
+    plural: null
+    en: to fall through (plans)
+    pos: phrase
+    tags: [idiom, motivkreis-natur, phrase]
+    core: true
+  - de: ein Sturm im Wasserglas
+    article: null
+    plural: null
+    en: a storm in a teacup
+    pos: phrase
+    tags: [idiom, motivkreis-natur, phrase]
+    core: true
+  - de: auf Wolke sieben sein
+    article: null
+    plural: null
+    en: to be on cloud nine
+    pos: phrase
+    tags: [idiom, motivkreis-natur, phrase]
+    core: true
+
+  # ── Idioms — Essen/Trinken (food/drink) — 3 idioms ──────────────────────────
+  - de: die Suppe auslöffeln
+    article: null
+    plural: null
+    en: to face the consequences (of one's own actions)
+    pos: phrase
+    tags: [idiom, motivkreis-essen, phrase]
+    core: true
+  - de: die Sahne abschöpfen
+    article: null
+    plural: null
+    en: to skim the cream; to take the best part/profit
+    pos: phrase
+    tags: [idiom, motivkreis-essen, phrase]
+    core: true
+  - de: den Löffel abgeben
+    article: null
+    plural: null
+    en: to kick the bucket (to die, colloquial)
+    pos: phrase
+    tags: [idiom, motivkreis-essen, phrase]
+    core: true
+
+  # ── Falsche Freunde — 8 false-friend pairs ─────────────────────────────────
+  - de: aktuell
+    article: null
+    plural: null
+    en: current; up to date (NOT "actual")
+    pos: adjective
+    tags: [false-friend, adjective]
+    core: true
+    example: "die aktuelle Lage — resembles English 'actual' but means 'current'"
+  - de: realisieren
+    article: null
+    plural: null
+    en: to implement; to carry out (NOT "to realize")
+    pos: verb
+    tags: [false-friend, verb]
+    core: true
+    example: "einen Plan realisieren"
+  - de: sensibel
+    article: null
+    plural: null
+    en: sensitive (NOT "sensible")
+    pos: adjective
+    tags: [false-friend, adjective]
+    core: true
+    example: "ein sensibles Thema"
+  - de: Sympathisant
+    article: der
+    plural: Sympathisanten
+    en: supporter; fellow traveler (often negative, political) (NOT neutral "sympathizer")
+    pos: noun
+    tags: [false-friend, person, concrete, n-decl]
+    core: true
+  - de: eventuell
+    article: null
+    plural: null
+    en: possibly; maybe (NOT "eventually")
+    pos: adverb
+    tags: [false-friend, adverb]
+    core: true
+    example: "eventuell komme ich"
+  - de: genial
+    article: null
+    plural: null
+    en: brilliant; ingenious (NOT "genial/friendly")
+    pos: adjective
+    tags: [false-friend, adjective]
+    core: true
+    example: "eine geniale Idee"
+  - de: exponieren
+    article: null
+    plural: null
+    en: to expose oneself; to take a stand; to position oneself (NOT "to expose" photographically)
+    pos: verb
+    tags: [false-friend, verb, reflexive]
+    core: true
+    example: "sich exponieren"
+  - de: konsequent
+    article: null
+    plural: null
+    en: consistent; resolute (NOT "consequent/following")
+    pos: adjective
+    tags: [false-friend, adjective]
+    core: true
+    example: "konsequent handeln"
