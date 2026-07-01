@@ -1,0 +1,348 @@
+# Reviewed from C1/10 lesson.md §4 Wortschatz.
+# Note: all 5 tables use German-only paraphrase — no draft to patch, every entry
+# hand-derived and hand-translated from source. Two near-verbatim duplicates
+# excluded: "Anapher" (identical core definition to C1/09's entry, different but
+# equally generic example — no new content); "Ironie" (identical core definition
+# to C1/01's entry, no new example given in this lesson's table at all). "Ellipse"
+# kept despite overlapping C1/02 — genuinely new framing (rhetorical/suggestive
+# effect vs. syntactic theory) with a new example. "Übertreibung" kept even though
+# glossed as a synonym of C1/01's "Hyperbel" — it's a headword never previously
+# introduced on its own.
+#
+# Section headers in lesson.md:
+#   Sprachliche Bilder — die fünf wichtigsten Tropen  — 5 nouns
+#   Rhetorische Figuren                                — 6 nouns (Anapher excluded, dup)
+#   Feuilleton und Literaturkritik                      — 18 items (nouns + adjectives)
+#   Satire — Mittel und Wirkung                         — 7 nouns (Ironie excluded, dup)
+#   Hörfunk — journalistische Formen                    — 8 nouns
+lesson: C1/10
+
+entries:
+  # ── Sprachliche Bilder — die fünf wichtigsten Tropen — 5 nouns ─────────────
+  - de: Metapher
+    article: die
+    plural: Metaphern
+    en: metaphor (an image without a comparison word — the literal is replaced by something else)
+    pos: noun
+    tags: [literature, rhetoric, abstract]
+    core: true
+    example: "Die Stadt ist ein Dschungel."
+  - de: Vergleich
+    article: der
+    plural: Vergleiche
+    en: simile (an image WITH a comparison word — wie, als, als ob)
+    pos: noun
+    tags: [literature, rhetoric, abstract]
+    core: true
+    example: "Die Stadt ist wie ein Dschungel."
+  - de: Personifikation
+    article: die
+    plural: Personifikationen
+    en: personification (human traits attributed to a thing)
+    pos: noun
+    tags: [literature, rhetoric, abstract]
+    core: true
+    example: "Die Stadt atmet / schläft / beobachtet."
+  - de: Symbol
+    article: das
+    plural: Symbole
+    en: symbol (an image pointing beyond itself to a larger context)
+    pos: noun
+    tags: [literature, rhetoric, abstract]
+    core: true
+    example: "Die Taube auf dem Dach steht für die Sehnsucht nach Frieden."
+  - de: Metonymie
+    article: die
+    plural: Metonymien
+    en: metonymy (a term standing for a neighboring, not identical, concept)
+    pos: noun
+    tags: [literature, rhetoric, abstract]
+    core: true
+    example: '"Berlin hat entschieden" — Berlin steht für die deutsche Bundesregierung.'
+
+  # ── Rhetorische Figuren — 6 nouns (Anapher excluded, dup of C1/09) ────────
+  - de: Trikolon
+    article: das
+    plural: Trikola
+    en: tricolon (a list of three parts — rhythmically effective; = Dreierfigur)
+    pos: noun
+    tags: [literature, rhetoric, abstract]
+    core: true
+    example: "Wir kommen, wir sehen, wir siegen."
+  - de: Antithese
+    article: die
+    plural: Antithesen
+    en: antithesis (juxtaposing two opposing ideas)
+    pos: noun
+    tags: [literature, rhetoric, abstract]
+    core: true
+    example: "Die einen glauben an Gott, die anderen an gar nichts."
+  - de: Oxymoron
+    article: das
+    plural: Oxymora
+    en: oxymoron (combining two contradictory words)
+    pos: noun
+    tags: [literature, rhetoric, abstract]
+    core: true
+    example: "beredtes Schweigen"
+  - de: Chiasmus
+    article: der
+    plural: Chiasmen
+    en: chiasmus (mirror-image structure, A B B A)
+    pos: noun
+    tags: [literature, rhetoric, abstract]
+    core: true
+    example: "Die Kunst ist lang, und kurz ist unser Leben."
+  - de: Ellipse
+    article: die
+    plural: Ellipsen
+    en: ellipsis (a sentence missing an expected part — used for suggestive effect)
+    pos: noun
+    tags: [literature, rhetoric, abstract]
+    core: true
+    example: "Nichts. Gar nichts."
+  - de: Litotes
+    article: die
+    plural: null
+    en: litotes (double negation as understatement)
+    pos: noun
+    tags: [literature, rhetoric, abstract]
+    core: true
+    example: "Das war nicht unbedingt sein bester Abend."
+
+  # ── Feuilleton und Literaturkritik — 18 items ──────────────────────────────
+  - de: Feuilleton
+    article: das
+    plural: Feuilletons
+    en: feuilleton (the cultural section of a newspaper; also the text genre itself)
+    pos: noun
+    tags: [journalism, criticism, abstract]
+    core: true
+  - de: Feuilletonist
+    article: der
+    plural: Feuilletonisten
+    en: feuilleton writer (male)
+    pos: noun
+    tags: [journalism, criticism, person, concrete, n-decl]
+    core: true
+  - de: Feuilletonistin
+    article: die
+    plural: Feuilletonistinnen
+    en: feuilleton writer (female)
+    pos: noun
+    tags: [journalism, criticism, person, concrete]
+    core: true
+  - de: Rezension
+    article: die
+    plural: Rezensionen
+    en: review (a critical assessment of a book, film, exhibition)
+    pos: noun
+    tags: [journalism, criticism, document, abstract]
+    core: true
+  - de: Besprechung
+    article: die
+    plural: Besprechungen
+    en: review (a slightly more neutral synonym of Rezension)
+    pos: noun
+    tags: [journalism, criticism, document, abstract]
+    core: true
+  - de: polemisch
+    article: null
+    plural: null
+    en: polemical (sharply pointed, with attack)
+    pos: adjective
+    tags: [journalism, criticism, adjective]
+    core: true
+  - de: lakonisch
+    article: null
+    plural: null
+    en: laconic (terse and dry, without pathos)
+    pos: adjective
+    tags: [journalism, criticism, adjective]
+    core: true
+  - de: manieriert
+    article: null
+    plural: null
+    en: mannered (deliberately artful, overwrought — often pejorative)
+    pos: adjective
+    tags: [journalism, criticism, adjective]
+    core: true
+  - de: karg
+    article: null
+    plural: null
+    en: sparse; spare (deliberately reduced, with much left out)
+    pos: adjective
+    tags: [journalism, criticism, adjective]
+    core: true
+  - de: sparsam
+    article: null
+    plural: null
+    en: sparing; economical (deliberately reduced, with much left out)
+    pos: adjective
+    tags: [journalism, criticism, adjective]
+    core: true
+  - de: pointiert
+    article: null
+    plural: null
+    en: pointed (phrased toward a sharp, focused statement)
+    pos: adjective
+    tags: [journalism, criticism, adjective]
+    core: true
+  - de: pointillistisch
+    article: null
+    plural: null
+    en: pointillistic (composed of many small, precise observations)
+    pos: adjective
+    tags: [journalism, criticism, adjective]
+    core: true
+  - de: abgegriffen
+    article: null
+    plural: null
+    en: hackneyed; worn out (an image or phrase used too often, saying nothing anymore)
+    pos: adjective
+    tags: [journalism, criticism, adjective]
+    core: true
+  - de: klischeehaft
+    article: null
+    plural: null
+    en: clichéd (reduced to a formula, without distinct character)
+    pos: adjective
+    tags: [journalism, criticism, adjective]
+    core: true
+  - de: differenziert
+    article: null
+    plural: null
+    en: nuanced (finely distinguished, considering multiple aspects)
+    pos: adjective
+    tags: [journalism, criticism, adjective]
+    core: true
+  - de: schillernd
+    article: null
+    plural: null
+    en: iridescent; multifaceted (not clearly definable, many-layered)
+    pos: adjective
+    tags: [journalism, criticism, adjective]
+    core: true
+  - de: vielschichtig
+    article: null
+    plural: null
+    en: multi-layered (with several levels of meaning)
+    pos: adjective
+    tags: [journalism, criticism, adjective]
+    core: true
+  - de: Beifang
+    article: der
+    plural: null
+    en: incidental catch (an argument one picks up along the way, not pursued primarily — from fishing)
+    pos: noun
+    tags: [journalism, criticism, abstract]
+    core: true
+
+  # ── Satire — Mittel und Wirkung — 7 nouns (Ironie excluded, dup of C1/01) ─
+  - de: Satire
+    article: die
+    plural: Satiren
+    en: satire (an art form criticizing societal conditions through exaggeration or irony)
+    pos: noun
+    tags: [literature, satire, abstract]
+    core: true
+  - de: Sarkasmus
+    article: der
+    plural: null
+    en: sarcasm (sharp, hurtful irony — irony with teeth)
+    pos: noun
+    tags: [literature, satire, abstract]
+    core: true
+  - de: Übertreibung
+    article: die
+    plural: Übertreibungen
+    en: exaggeration (= Hyperbel; deliberately overshoots reality)
+    pos: noun
+    tags: [literature, satire, abstract]
+    core: true
+  - de: Wortspiel
+    article: das
+    plural: Wortspiele
+    en: pun; wordplay
+    pos: noun
+    tags: [literature, satire, abstract]
+    core: true
+  - de: Indirektheit
+    article: die
+    plural: null
+    en: indirectness (the target isn't named, but circumscribed)
+    pos: noun
+    tags: [literature, satire, abstract]
+    core: true
+  - de: Angriffsziel
+    article: das
+    plural: Angriffsziele
+    en: target (of the satire — a person, institution, attitude)
+    pos: noun
+    tags: [literature, satire, abstract]
+    core: true
+  - de: Wirkungsabsicht
+    article: die
+    plural: Wirkungsabsichten
+    en: intended effect (what the satire aims to achieve — exposure, warning, outrage, amusement)
+    pos: noun
+    tags: [literature, satire, abstract]
+    core: true
+
+  # ── Hörfunk — journalistische Formen — 8 nouns ─────────────────────────────
+  - de: Reportage
+    article: die
+    plural: Reportagen
+    en: on-the-scene report (subjectively narrated, with the reporter's own observations)
+    pos: noun
+    tags: [journalism, radio, document, abstract]
+    core: true
+  - de: Bericht
+    article: der
+    plural: Berichte
+    en: report (an objective account of a matter)
+    pos: noun
+    tags: [journalism, radio, document, abstract]
+    core: true
+  - de: Feature
+    article: das
+    plural: Features
+    en: radio feature (a collage of interview clips, ambient sound, narrator and music — the most elaborate radio form)
+    pos: noun
+    tags: [journalism, radio, document, abstract]
+    core: true
+  - de: O-Ton
+    article: der
+    plural: O-Töne
+    en: original sound bite (verbatim recording of an interviewed person's own voice)
+    pos: noun
+    tags: [journalism, radio, abstract]
+    core: true
+  - de: Atmo
+    article: die
+    plural: Atmos
+    en: ambient sound (background noise — street, café, wind — the acoustic "stage")
+    pos: noun
+    tags: [journalism, radio, abstract]
+    core: true
+  - de: Anmoderation
+    article: die
+    plural: Anmoderationen
+    en: lead-in (the moderator's opening announcing context, topic and punchline)
+    pos: noun
+    tags: [journalism, radio, abstract]
+    core: true
+  - de: Sendung
+    article: die
+    plural: Sendungen
+    en: broadcast; program episode
+    pos: noun
+    tags: [journalism, radio, abstract]
+    core: true
+  - de: Collage
+    article: die
+    plural: Collagen
+    en: collage (assembling different audio building blocks into a whole)
+    pos: noun
+    tags: [journalism, radio, abstract]
+    core: true
