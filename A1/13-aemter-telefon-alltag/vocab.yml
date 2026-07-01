@@ -1,0 +1,383 @@
+# Reviewed from A1/13 lesson.md §4 Wortschatz.
+# Note: no draft existed — the importer found nothing parseable. Every entry
+# was added by hand.
+#
+# Section headers in lesson.md §4:
+#   Ämter und Institutionen        — 12 nouns
+#   Dokumente und Formulare        — 12 nouns (incl. weak-noun der Name, irregular plural das Datum)
+#   Telefon und E-Mail             — 9 nouns (incl. der Betreff with no plural)
+#   Nützliche Verben               — 12 verbs (separable/inseparable prefix notes dropped; lemma only)
+#
+# Tag taxonomy follows A1/01 + A1/02 + A1/03: single thematic tag plus `concrete`
+# for picturable nouns. Verbs get `[verb]`. Abstract metadata nouns (Name, Adresse,
+# Datum, Nationalität, Gebühr, Anmeldung, Betreff) skip `concrete` — they are info
+# concepts, not objects you can pick up.
+lesson: A1/13
+
+entries:
+  # ── Ämter und Institutionen (offices and institutions) ────────────────────
+  - de: Bürgeramt
+    article: das
+    plural: Bürgerämter
+    en: residents' registration office
+    pos: noun
+    tags: [office, concrete]
+    core: true
+    example: "Ich gehe zum Bürgeramt."
+  - de: Einwohnermeldeamt
+    article: das
+    plural: Einwohnermeldeämter
+    en: registration office (older name)
+    pos: noun
+    tags: [office, concrete]
+    core: true
+    example: "Das Einwohnermeldeamt ist in der Stadtmitte."
+  - de: Rathaus
+    article: das
+    plural: Rathäuser
+    en: town hall
+    pos: noun
+    tags: [office, concrete]
+    core: true
+    example: "Das Standesamt ist im Rathaus."
+  - de: Arztpraxis
+    article: die
+    plural: Arztpraxen
+    en: doctor's practice
+    pos: noun
+    tags: [office, concrete]
+    core: true
+  - de: Krankenhaus
+    article: das
+    plural: Krankenhäuser
+    en: hospital
+    pos: noun
+    tags: [office, concrete]
+    core: true
+    example: "Das Krankenhaus ist in der Innenstadt."
+  - de: Botschaft
+    article: die
+    plural: Botschaften
+    en: embassy
+    pos: noun
+    tags: [office, concrete]
+    core: true
+    example: "Die Botschaft ist am Montag geschlossen."
+  - de: Finanzamt
+    article: das
+    plural: Finanzämter
+    en: tax office
+    pos: noun
+    tags: [office, concrete]
+    core: true
+  - de: Ausländerbehörde
+    article: die
+    plural: Ausländerbehörden
+    en: foreigners' registration authority
+    pos: noun
+    tags: [office, concrete]
+    core: true
+    example: "Ich gehe morgen zur Ausländerbehörde."
+  - de: Schalter
+    article: der
+    plural: null
+    en: counter, window
+    pos: noun
+    tags: [office, concrete]
+    core: true
+    example: "Bitte am Schalter 3 anstehen."
+  - de: Warteraum
+    article: der
+    plural: Warteräume
+    en: waiting room
+    pos: noun
+    tags: [office, concrete]
+    core: true
+  - de: Termin
+    article: der
+    plural: Termine
+    en: appointment
+    pos: noun
+    tags: [office, concrete]
+    core: true
+    example: "Haben Sie einen Termin?"
+  - de: Warteschlange
+    article: die
+    plural: Warteschlangen
+    en: queue
+    pos: noun
+    tags: [office, concrete]
+    core: true
+    example: "Die Warteschlange ist heute sehr lang."
+
+  # ── Dokumente und Formulare (documents and forms) ──────────────────────────
+  - de: Personalausweis
+    article: der
+    plural: Personalausweise
+    en: identity card
+    pos: noun
+    tags: [document, concrete]
+    core: true
+    example: "Haben Sie Ihren Personalausweis dabei?"
+  - de: Reisepass
+    article: der
+    plural: Reisepässe
+    en: passport
+    pos: noun
+    tags: [document, concrete]
+    core: true
+    example: "Mein Reisepass ist noch gültig."
+  - de: Anmeldung
+    article: die
+    plural: Anmeldungen
+    en: registration
+    pos: noun
+    tags: [document]
+    core: true
+    example: "Ich möchte mich anmelden."
+  - de: Formular
+    article: das
+    plural: Formulare
+    en: form
+    pos: noun
+    tags: [document, concrete]
+    core: true
+    example: "Bitte füllen Sie dieses Formular aus."
+  - de: Antrag
+    article: der
+    plural: Anträge
+    en: application
+    pos: noun
+    tags: [document]
+    core: true
+    example: "Ich stelle einen Antrag auf …"
+  - de: Unterschrift
+    article: die
+    plural: Unterschriften
+    en: signature
+    pos: noun
+    tags: [document, concrete]
+    core: true
+    example: "Bitte unterschreiben Sie hier."
+  - de: Wohnungsgebernachweis
+    article: der
+    plural: Wohnungsgebernachweise
+    en: landlord's confirmation of tenancy
+    pos: noun
+    tags: [document, concrete]
+    core: true
+  - de: Gebühr
+    article: die
+    plural: Gebühren
+    en: fee
+    pos: noun
+    tags: [document]
+    core: true
+    example: "Die Gebühr beträgt 10 Euro."
+  - de: Name
+    article: der
+    plural: Namen
+    en: name
+    pos: noun
+    tags: [document]
+    core: true
+    example: "⚠️ weak noun: der Name, plural die Namen (-n)."
+  - de: Adresse
+    article: die
+    plural: Adressen
+    en: address
+    pos: noun
+    tags: [document]
+    core: true
+    example: "Wie ist Ihre Adresse?"
+  - de: Datum
+    article: das
+    plural: Daten
+    en: date
+    pos: noun
+    tags: [document]
+    core: true
+    example: "⚠️ Plural: Daten (not Datums)."
+  - de: Nationalität
+    article: die
+    plural: Nationalitäten
+    en: nationality
+    pos: noun
+    tags: [document]
+    core: true
+    example: "Welche Nationalität haben Sie?"
+
+  # ── Telefon und E-Mail ─────────────────────────────────────────────────────
+  - de: Telefon
+    article: das
+    plural: Telefone
+    en: telephone
+    pos: noun
+    tags: [phone, concrete]
+    core: true
+    example: "Geh bitte ans Telefon."
+  - de: Handy
+    article: das
+    plural: Handys
+    en: mobile phone
+    pos: noun
+    tags: [phone, concrete]
+    core: true
+    example: "Mein Handy ist kaputt."
+  - de: Nummer
+    article: die
+    plural: Nummern
+    en: number
+    pos: noun
+    tags: [phone]
+    core: true
+    example: "Wie ist Ihre Nummer?"
+  - de: Telefonnummer
+    article: die
+    plural: Telefonnummern
+    en: telephone number
+    pos: noun
+    tags: [phone]
+    core: true
+    example: "Haben Sie meine Telefonnummer?"
+  - de: Nachricht
+    article: die
+    plural: Nachrichten
+    en: message
+    pos: noun
+    tags: [phone, concrete]
+    core: true
+    example: "Hinterlassen Sie eine Nachricht."
+  - de: Rückruf
+    article: der
+    plural: Rückrufe
+    en: callback
+    pos: noun
+    tags: [phone]
+    core: true
+    example: "Wir vereinbaren einen Rückruf."
+  - de: E-Mail
+    article: die
+    plural: E-Mails
+    en: e-mail
+    pos: noun
+    tags: [email]
+    core: true
+    example: "Ich schicke Ihnen eine E-Mail."
+  - de: Betreff
+    article: der
+    plural: null
+    en: subject (of e-mail)
+    pos: noun
+    tags: [email]
+    core: true
+    example: "Im Betreff schreiben Sie bitte …"
+  - de: Anhang
+    article: der
+    plural: Anhänge
+    en: attachment
+    pos: noun
+    tags: [email, concrete]
+    core: true
+    example: "Im Anhang finden Sie das Foto."
+
+  # ── Nützliche Verben (useful verbs) ────────────────────────────────────────
+  # All 12 are infinitives; the separable/inseparable notes from lesson.md are
+  # dropped per lemma convention. Sich-marked reflexives (anmelden, abmelden) keep
+  # the bare verb as headword — the `sich` is a usage marker, not part of the lemma.
+  - de: anrufen
+    article: null
+    plural: null
+    en: to call, phone
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich rufe das Bürgeramt an."
+  - de: ausfüllen
+    article: null
+    plural: null
+    en: to fill in
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Bitte füllen Sie das Formular aus."
+  - de: ausstellen
+    article: null
+    plural: null
+    en: to issue
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Das Standesamt stellt die Urkunde aus."
+  - de: anmelden
+    article: null
+    plural: null
+    en: to register
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich melde mich morgen beim Bürgeramt an."
+  - de: abmelden
+    article: null
+    plural: null
+    en: to deregister
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Er meldet sich vor dem Umzug ab."
+  - de: hinterlassen
+    article: null
+    plural: null
+    en: to leave (a message)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Kann ich eine Nachricht hinterlassen?"
+  - de: buchen
+    article: null
+    plural: null
+    en: to book
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir buchen einen Termin online."
+  - de: dauern
+    article: null
+    plural: null
+    en: to last, take (time)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wie lange dauert das?"
+  - de: stören
+    article: null
+    plural: null
+    en: to disturb
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Störe ich gerade?"
+  - de: unterschreiben
+    article: null
+    plural: null
+    en: to sign
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Unterschreiben Sie hier, bitte."
+  - de: schicken
+    article: null
+    plural: null
+    en: to send
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Könnten Sie mir die Unterlagen schicken?"
+  - de: warten
+    article: null
+    plural: null
+    en: to wait (for)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich warte auf eine Antwort."
