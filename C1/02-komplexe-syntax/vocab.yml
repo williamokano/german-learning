@@ -1,0 +1,188 @@
+# Reviewed from C1/02 lesson.md §4 Wortschatz.
+# Note: both tables use German-only paraphrase (no English column) — no draft to
+# patch, every entry hand-derived and hand-translated from source.
+#
+# Section headers in lesson.md:
+#   Kernwortschatz: Komplexe Syntax                 — 16 syntax-terminology nouns
+#   Konnektoren und Klammerer für lange Sätze        — 7 two-part connectors
+lesson: C1/02
+
+entries:
+  # ── Kernwortschatz: Komplexe Syntax — 16 nouns ─────────────────────────────
+  - de: Satzperiode
+    article: die
+    plural: Satzperioden
+    en: long sentence period (main clause + several subordinate clauses)
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+  - de: Hauptsatz
+    article: der
+    plural: Hauptsätze
+    en: main clause
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+    example: "Independent clause with finite verb in position 2."
+  - de: Nebensatz
+    article: der
+    plural: Nebensätze
+    en: subordinate clause
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+    example: "Dependent clause with finite verb at the end."
+  - de: Apposition
+    article: die
+    plural: Appositionen
+    en: apposition
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+    example: "Hamburg, die Hansestadt."
+  - de: Parenthese
+    article: die
+    plural: Parenthesen
+    en: parenthesis; inserted aside
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+  - de: Attribut
+    article: das
+    plural: Attribute
+    en: attribute; modifier (to a noun)
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+  - de: Partizipialattribut
+    article: das
+    plural: Partizipialattribute
+    en: participial attribute
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+    example: "cf. B2/05"
+  - de: Genitivattribut
+    article: das
+    plural: Genitivattribute
+    en: genitive attribute
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+    example: "die Stadt Berlins"
+  - de: Präpositionalattribut
+    article: das
+    plural: Präpositionalattribute
+    en: prepositional attribute
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+    example: "das Haus am Markt"
+  - de: Relativsatz
+    article: der
+    plural: Relativsätze
+    en: relative clause
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+    example: "cf. B1/05"
+  - de: Ellipse
+    article: die
+    plural: Ellipsen
+    en: ellipsis (deliberate omission)
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+  - de: Satzklammer
+    article: die
+    plural: Satzklammern
+    en: sentence bracket (verbal frame)
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+  - de: Ausklammerung
+    article: die
+    plural: Ausklammerungen
+    en: extraposition (shift into the Nachfeld)
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+    example: "cf. B2/01"
+  - de: Schachtelsatz
+    article: der
+    plural: Schachtelsätze
+    en: nested/convoluted sentence (colloquial for Satzperiode)
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+  - de: Verschachtelung
+    article: die
+    plural: Verschachtelungen
+    en: nesting; embedding (of subordinate clauses)
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+  - de: Verdichtung
+    article: die
+    plural: Verdichtungen
+    en: condensation (into participial or nominal style)
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+    example: "cf. B2/01"
+
+  # ── Konnektoren und Klammerer für lange Sätze — 7 two-part connectors ─────
+  - de: einerseits … andererseits
+    article: null
+    plural: null
+    en: on the one hand … on the other hand
+    pos: phrase
+    tags: [connector, contrast, phrase]
+    core: true
+    example: "zweigliedrige Gegenüberstellung"
+  - de: zum einen … zum anderen
+    article: null
+    plural: null
+    en: for one thing … for another
+    pos: phrase
+    tags: [connector, addition, phrase]
+    core: true
+    example: "Aufzählung in Begründungen"
+  - de: nicht nur … sondern auch
+    article: null
+    plural: null
+    en: not only … but also
+    pos: phrase
+    tags: [connector, addition, phrase]
+    core: true
+  - de: sowohl … als auch
+    article: null
+    plural: null
+    en: both … and
+    pos: phrase
+    tags: [connector, addition, phrase]
+    core: true
+    example: "gleichzeitige Geltung"
+  - de: weder … noch
+    article: null
+    plural: null
+    en: neither … nor
+    pos: phrase
+    tags: [connector, negation, phrase]
+    core: true
+    example: "doppelte Negation"
+  - de: zwar … aber
+    article: null
+    plural: null
+    en: admittedly … but
+    pos: phrase
+    tags: [connector, concession, phrase]
+    core: true
+  - de: was … betrifft
+    article: null
+    plural: null
+    en: as far as … is concerned
+    pos: phrase
+    tags: [connector, topic, phrase]
+    core: true
+    example: "Themeneinstieg; also: anbelangt, angeht"
