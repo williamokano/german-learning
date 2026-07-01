@@ -1,0 +1,445 @@
+# Reviewed from A2/10 lesson.md §4 Wortschatz. Bootstrapped with build/import-vocab.ts.
+#
+# The parser captured 50 entries; the human review pass fixes:
+#   - all `tags: []` → taxonomy (travel / transport / place + concrete)
+#   - Museum plural (parser dropped "Museen", only the lemma hit) → Museen
+#   - Berge plural — the source table gives "die Berge (pl.)" which is the plural
+#     form itself (no singular); plural stays null
+#   - 5 verb glosses where the parser latched onto the third table column
+#     (Perfekt column) instead of the English column:
+#       umsteigen → "to change (transport)"
+#       besichtigen → "to visit (a sight)"
+#       übernachten → "to spend the night"
+#       abbiegen → "to turn (direction)"
+#       weitergehen → "to continue (on foot)"
+#   - Haltestelle gloss "(bus/tram) stop" — reworded to "stop (bus/tram)"
+#   - all `reviewNote` fields removed (CommittedVocabSet refuses them)
+#
+# Sections in lesson.md:
+#   Reise und Transport (travel and transport) — 20 nouns split across the
+#     travel (Reise, Urlaub, Unterkunft, Buchung, Ticket, Gepäck, Koffer, Rucksack…)
+#     and transport (Zug, Bus, Straßenbahn, U-Bahn) sub-flavours, plus three place
+#     nouns (Bahnhof, Flughafen, Haltestelle)
+#   Stadtleben und Orientierung (city life and orientation) — 17 nouns (Stadt,
+#     Altstadt, Kirche, Museum, Schloss, Strand, Meer, Berge, Tal…)
+#   Verben (verbs) — 12 verbs: 7 trennbare (ankommen, abfahren, umsteigen,
+#     empfehlen, abbiegen, weitergehen, besichtigen) + 5 regular (reisen, buchen,
+#     reservieren, übernachten, stornieren)
+lesson: A2/10
+
+entries:
+  # ── Reise und Transport — Reise/Trip-Abstrakta (travel nouns) ──────────────
+  - de: Reise
+    article: die
+    plural: Reisen
+    en: trip; journey
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Wir planen eine Reise nach Italien."
+  - de: Urlaub
+    article: der
+    plural: Urlaube
+    en: holiday; vacation
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Im Urlaub fahre ich ans Meer."
+  - de: Ausflug
+    article: der
+    plural: Ausflüge
+    en: day trip; excursion
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Am Sonntag machen wir einen Ausflug."
+  - de: Ziel
+    article: das
+    plural: Ziele
+    en: destination; goal
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Das Ziel unserer Reise ist Wien."
+  - de: Unterkunft
+    article: die
+    plural: Unterkünfte
+    en: accommodation
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Die Unterkunft ist günstig."
+
+  # ── Reise und Transport — Unterkunft (lodging) ─────────────────────────────
+  - de: Hotel
+    article: das
+    plural: Hotels
+    en: hotel
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Das Hotel liegt am Hafen."
+  - de: Pension
+    article: die
+    plural: Pensionen
+    en: guesthouse; B&B
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+  - de: Hostel
+    article: das
+    plural: Hostels
+    en: hostel
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+  - de: Buchung
+    article: die
+    plural: Buchungen
+    en: booking; reservation
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Ich bestätige die Buchung."
+  - de: Ticket
+    article: das
+    plural: Tickets
+    en: ticket
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Ich kaufe ein Ticket."
+
+  # ── Reise und Transport — Gepäck (luggage) ─────────────────────────────────
+  - de: Gepäck
+    article: das
+    plural: null
+    en: luggage; baggage
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Das Gepäck ist im Kofferraum."
+  - de: Koffer
+    article: der
+    plural: Koffer
+    en: suitcase
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Mein Koffer ist schwer."
+  - de: Rucksack
+    article: der
+    plural: Rucksäcke
+    en: backpack
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+
+  # ── Reise und Transport — Verkehrsmittel (means of transport) ──────────────
+  - de: Flug
+    article: der
+    plural: Flüge
+    en: flight
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Der Flug nach Japan dauert zwölf Stunden."
+  - de: Zug
+    article: der
+    plural: Züge
+    en: train
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+    example: "Ich fahre mit dem Zug nach Berlin."
+  - de: Bus
+    article: der
+    plural: Busse
+    en: bus
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+    example: "Der Bus fährt um acht ab."
+  - de: Straßenbahn
+    article: die
+    plural: Straßenbahnen
+    en: tram
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+  - de: U-Bahn
+    article: die
+    plural: U-Bahnen
+    en: underground; metro
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+    example: "Ich fahre mit der U-Bahn."
+
+  # ── Reise und Transport — Stationen (stations / stops) ─────────────────────
+  - de: Bahnhof
+    article: der
+    plural: Bahnhöfe
+    en: train station
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Ich gehe zum Bahnhof."
+  - de: Flughafen
+    article: der
+    plural: Flughäfen
+    en: airport
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Wir fahren zum Flughafen."
+  - de: Haltestelle
+    article: die
+    plural: Haltestellen
+    en: stop (bus/tram)
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Die Haltestelle ist hier bei der Post."
+
+  # ── Stadtleben — Stadt & Land (city & countryside) ─────────────────────────
+  - de: Stadt
+    article: die
+    plural: Städte
+    en: city; town
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Berlin ist eine große Stadt."
+  - de: Land
+    article: das
+    plural: Länder
+    en: country; countryside
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Auf dem Land ist es ruhig."
+  - de: Altstadt
+    article: die
+    plural: Altstädte
+    en: old town
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Die Altstadt liegt im Herzen der Stadt."
+  - de: Marktplatz
+    article: der
+    plural: Marktplätze
+    en: market square
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Stadtmitte
+    article: die
+    plural: Stadtmitten
+    en: city centre
+    pos: noun
+    tags: [place, concrete]
+    core: true
+
+  # ── Stadtleben — Sehenswürdigkeiten (sights) ───────────────────────────────
+  - de: Kirche
+    article: die
+    plural: Kirchen
+    en: church
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Museum
+    article: das
+    plural: Museen
+    en: museum
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Wir besuchen das Museum."
+  - de: Schloss
+    article: das
+    plural: Schlösser
+    en: castle; palace
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Sehenswürdigkeit
+    article: die
+    plural: Sehenswürdigkeiten
+    en: sight; tourist attraction
+    pos: noun
+    tags: [place, concrete]
+    core: true
+
+  # ── Stadtleben — Natur & Landschaft (nature & landscape) ──────────────────
+  - de: Hafen
+    article: der
+    plural: Häfen
+    en: harbour; port
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Das Hotel liegt am Hafen."
+  - de: Strand
+    article: der
+    plural: Strände
+    en: beach
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Wir gehen an den Strand."
+  - de: Meer
+    article: das
+    plural: Meere
+    en: sea; ocean
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Ich fahre ans Meer."
+  - de: Berge
+    article: die
+    plural: null
+    en: mountains (plural only)
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Die Schweiz hat hohe Berge."
+  - de: Tal
+    article: das
+    plural: Täler
+    en: valley
+    pos: noun
+    tags: [place, concrete]
+    core: true
+
+  # ── Stadtleben — Orientierung (orientation / directions) ──────────────────
+  - de: Richtung
+    article: die
+    plural: Richtungen
+    en: direction
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Kreuzung
+    article: die
+    plural: Kreuzungen
+    en: intersection; crossroads
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Biegen Sie an der Kreuzung links ab."
+  - de: Ampel
+    article: die
+    plural: Ampeln
+    en: traffic light
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Warten Sie an der Ampel."
+
+  # ── Verben — regelmäßig (regular verbs) ───────────────────────────────────
+  - de: reisen
+    article: null
+    plural: null
+    en: to travel
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir reisen nach Italien."
+  - de: buchen
+    article: null
+    plural: null
+    en: to book
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich buche ein Hotel."
+  - de: reservieren
+    article: null
+    plural: null
+    en: to reserve
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich reserviere einen Tisch."
+  - de: übernachten
+    article: null
+    plural: null
+    en: to spend the night
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir übernachten in einem Hotel."
+  - de: stornieren
+    article: null
+    plural: null
+    en: to cancel
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich möchte die Buchung stornieren."
+  - de: besichtigen
+    article: null
+    plural: null
+    en: to visit (a sight)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir besichtigen die Altstadt."
+
+  # ── Verben — trennbar (separable verbs) ───────────────────────────────────
+  # Movement verbs form Perfekt with sein (an|kommen, ab|fahren, um|steigen,
+  # ab|biegen, weiter|gehen). Pipe typography from A1/08 convention.
+  - de: an|kommen
+    article: null
+    plural: null
+    en: to arrive
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Wir kommen um acht in Berlin an."
+  - de: ab|fahren
+    article: null
+    plural: null
+    en: to depart
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Der Zug fährt um zehn ab."
+  - de: um|steigen
+    article: null
+    plural: null
+    en: to change (transport)
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Ich steige in Basel um."
+  - de: ab|biegen
+    article: null
+    plural: null
+    en: to turn (direction)
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Biegen Sie links ab."
+  - de: weiter|gehen
+    article: null
+    plural: null
+    en: to continue (on foot)
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Gehen Sie geradeaus weiter."
+
+  # ── Verben — unregelmäßig (strong/mixed verbs) ───────────────────────────
+  # empfehlen is irregular (e→ie) and forms Perfekt with haben.
+  - de: empfehlen
+    article: null
+    plural: null
+    en: to recommend
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich empfehle dieses Hotel."
