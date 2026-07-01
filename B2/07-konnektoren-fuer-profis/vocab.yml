@@ -1,0 +1,218 @@
+# Reviewed from B2/07 lesson.md §4 Wortschatz.
+# Note: this lesson's tables mix nouns, verbs, AND multi-word connector phrases in
+# the same cells (e.g. "voraussetzen / sofern" — a real verb plus an unrelated
+# connector, slash-joined). Rather than force the table parser's noun-verb-pair kind
+# onto this irregular shape, every entry was hand-derived from the source markdown,
+# splitting each row into its distinct lexical items. Table 3 (register/style
+# variants: obgleich vs. obwohl) is genuinely reference material about STYLE, but
+# the words themselves ARE core B2 vocabulary the lesson explicitly teaches, so
+# they're included (unlike A1/12's weekday table, which was pure metadata).
+#
+# Section headers in lesson.md:
+#   Argumentation und Logik (logic relation nouns + their connectors)  — 6 nouns +
+#     1 verb (voraussetzen) + 8 connectors + 2 phrase chunks
+#   Verben für Planung und Diskussion (planning verbs, mostly separable) — 6 verbs
+#     (voraussetzen deduped against table 1)
+#   Konzessiv-Wortschatz (gehobener Stil) — 6 formal concessive-connector synonyms
+lesson: B2/07
+
+entries:
+  # ── Argumentation und Logik — 6 nouns for logical relations ────────────────
+  - de: Bedingung
+    article: die
+    plural: Bedingungen
+    en: condition; precondition
+    pos: noun
+    tags: [logic, condition, abstract]
+    core: true
+  - de: Folge
+    article: die
+    plural: Folgen
+    en: consequence
+    pos: noun
+    tags: [logic, consequence, abstract]
+    core: true
+  - de: Mittel
+    article: das
+    plural: null
+    en: method; way; means
+    pos: noun
+    tags: [logic, means, abstract]
+    core: true
+  - de: Voraussetzung
+    article: die
+    plural: Voraussetzungen
+    en: precondition; prerequisite
+    pos: noun
+    tags: [logic, condition, abstract]
+    core: true
+  - de: Gegensatz
+    article: der
+    plural: Gegensätze
+    en: contradiction; contrast
+    pos: noun
+    tags: [logic, contrast, abstract]
+    core: true
+  - de: Ausnahme
+    article: die
+    plural: Ausnahmen
+    en: exception; special case
+    pos: noun
+    tags: [logic, abstract]
+    core: true
+
+  # ── Argumentation und Logik — connectors + phrase chunks ────────────────────
+  - de: falls
+    article: null
+    plural: null
+    en: if; in case
+    pos: conjunction
+    tags: [connector, condition]
+    core: true
+  - de: unter der Bedingung, dass
+    article: null
+    plural: null
+    en: on the condition that
+    pos: phrase
+    tags: [connector, condition, phrase]
+    core: false
+  - de: sodass
+    article: null
+    plural: null
+    en: so that; with the result that
+    pos: conjunction
+    tags: [connector, consequence]
+    core: true
+  - de: infolgedessen
+    article: null
+    plural: null
+    en: as a result; consequently
+    pos: adverb
+    tags: [connector, consequence]
+    core: true
+  - de: indem
+    article: null
+    plural: null
+    en: by (doing something)
+    pos: conjunction
+    tags: [connector, means]
+    core: true
+    example: "Wir beschleunigen den Prozess, indem wir parallel arbeiten."
+  - de: dadurch, dass
+    article: null
+    plural: null
+    en: by the fact that
+    pos: phrase
+    tags: [connector, means, phrase]
+    core: false
+  - de: sofern
+    article: null
+    plural: null
+    en: provided that; as long as
+    pos: conjunction
+    tags: [connector, condition]
+    core: true
+  - de: es sei denn
+    article: null
+    plural: null
+    en: unless
+    pos: phrase
+    tags: [connector, condition, phrase]
+    core: true
+
+  # ── Verben für Planung und Diskussion — 6 verbs (voraussetzen deduped) ─────
+  - de: vorankommen
+    article: null
+    plural: null
+    en: to make progress
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: beschleunigen
+    article: null
+    plural: null
+    en: to speed up; to accelerate
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: aufteilen
+    article: null
+    plural: null
+    en: to divide up; to split
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: vernachlässigen
+    article: null
+    plural: null
+    en: to neglect
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: einplanen
+    article: null
+    plural: null
+    en: to factor in; to plan for
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: vorliegen
+    article: null
+    plural: null
+    en: to be available; to be on hand (e.g. data)
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: voraussetzen
+    article: null
+    plural: null
+    en: to presuppose; to assume as given
+    pos: verb
+    tags: [verb, separable]
+    core: true
+
+  # ── Konzessiv-Wortschatz (gehobener Stil) — 6 formal concessive synonyms ──
+  # Subjunktionen (verb-final subordinate clause) vs. Konjunktionaladverbien
+  # (Position 1, triggers inversion) — same meaning as obwohl/trotzdem, higher register.
+  - de: obgleich
+    article: null
+    plural: null
+    en: although (formal, = obwohl)
+    pos: conjunction
+    tags: [connector, concession, formal]
+    core: true
+  - de: wenngleich
+    article: null
+    plural: null
+    en: although (formal, = obwohl)
+    pos: conjunction
+    tags: [connector, concession, formal]
+    core: true
+  - de: dennoch
+    article: null
+    plural: null
+    en: nevertheless (formal, = trotzdem)
+    pos: adverb
+    tags: [connector, concession, formal]
+    core: true
+  - de: gleichwohl
+    article: null
+    plural: null
+    en: nevertheless (very formal, = trotzdem)
+    pos: adverb
+    tags: [connector, concession, formal]
+    core: true
+  - de: nichtsdestotrotz
+    article: null
+    plural: null
+    en: nonetheless (very formal, = trotzdem)
+    pos: adverb
+    tags: [connector, concession, formal]
+    core: true
+  - de: nichtsdestoweniger
+    article: null
+    plural: null
+    en: nonetheless (very formal, = trotzdem)
+    pos: adverb
+    tags: [connector, concession, formal]
+    core: true
