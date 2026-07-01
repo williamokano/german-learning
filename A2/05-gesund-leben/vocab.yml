@@ -1,0 +1,454 @@
+# Reviewed from A2/05 lesson.md §4 Wortschatz.
+# Parser V2 (build/import-vocab.ts) handled the noun tables cleanly (15 + 13 entries
+# pulled with correct articles and plurals) and split the 14 Akkusativ reflexives
+# into bare-verb entries with tags: [verb, reflexive]. Two parser gaps filled by
+# hand below: (1) the four cells that collapsed the (f/m) gender pair Apothekerin /
+# Apotheker and Arzt / Ärztin into one row — split into 4 separate entries, mirroring
+# A1/10's Arzt / Ärztin pattern; (2) the 6 Dativ reflexives ("sich etwas X") were
+# captured as pos: phrase with needsReview because the parser only strips `sich` on
+# exactly 2-word tokens — collapsed each one to the bare verb (wünschen / vorstellen
+# / putzen / ansehen / kaufen / merken) and tagged `reflexive`, using the example to
+# teach the "sich [Dat] + Akk-Objekt" pattern. Tag taxonomy mirrors the A1/03 / A1/10
+# pilots (issue #337): [health] for abstract wellness states (Gesundheit, Stress,
+# Erschöpfung, Schlaf, Ernährung, Energie); [symptom] for illnesses / pain-compounds
+# (Erkältung, Kopfschmerz, Bauchschmerz, Rückenschmerz); [healthcare, concrete] for
+# pharmacy / profession / medication nouns (Medikament, Tablette, Apotheke,
+# Apothekerin, Apotheker, Arzt, Ärztin, Rezept); [food] / [drink] / [sport] reused
+# from A1/03 / A1/09; [reflexive] on every sich-verb; [separable] stacked on the
+# verbs that are also separable in the lesson (ausruhen, anziehen, ausziehen,
+# ansehen).
+lesson: A2/05
+entries:
+  # ── Gesundheit und Körperpflege (health and personal care) ─────────────────
+  # Abstract wellness states — [health] tag (not concrete; not pictureable).
+  - de: Gesundheit
+    article: die
+    plural: null
+    en: health
+    pos: noun
+    tags: [health]
+    core: true
+    example: "Gesundheit ist wichtig."
+  - de: Stress
+    article: der
+    plural: null
+    en: stress
+    pos: noun
+    tags: [health]
+    core: true
+    example: "Ich habe viel Stress."
+  - de: Erschöpfung
+    article: die
+    plural: null
+    en: exhaustion
+    pos: noun
+    tags: [health]
+    core: true
+  - de: Schlaf
+    article: der
+    plural: null
+    en: sleep
+    pos: noun
+    tags: [health]
+    core: true
+    example: "Ich brauche mehr Schlaf."
+
+  # Illnesses & pain-compounds — [symptom] tag. Lesson teaches the singular lemma
+  # with plural -en (e.g. "der Kopfschmerz, -en (usually pl.)") but in practice the
+  # plural Kopfschmerzen is what learners hear ("Ich habe Kopfschmerzen"). Plural
+  # column carries the real plural form; the example shows the actually-used plural
+  # so flashcards drill the form learners will produce.
+  - de: Erkältung
+    article: die
+    plural: Erkältungen
+    en: cold (illness)
+    pos: noun
+    tags: [symptom]
+    core: true
+    example: "Ich habe eine Erkältung."
+  - de: Kopfschmerz
+    article: der
+    plural: Kopfschmerzen
+    en: headache
+    pos: noun
+    tags: [symptom]
+    core: true
+    example: "Ich habe Kopfschmerzen."
+  - de: Bauchschmerz
+    article: der
+    plural: Bauchschmerzen
+    en: stomachache
+    pos: noun
+    tags: [symptom]
+    core: true
+    example: "Ich habe Bauchschmerzen."
+  - de: Rückenschmerz
+    article: der
+    plural: Rückenschmerzen
+    en: backache
+    pos: noun
+    tags: [symptom]
+    core: true
+    example: "Ich habe Rückenschmerzen."
+  - de: Allergie
+    article: die
+    plural: Allergien
+    en: allergy
+    pos: noun
+    tags: [healthcare]
+    core: true
+    example: "Ich bin gegen Pollen allergisch."
+
+  # Pharmacy / medication / prescription — [healthcare, concrete] (you can hand
+  # someone a Tablette or point at the Apotheke). Allergie is abstract (the
+  # condition itself, not a pill), so [healthcare] only.
+  - de: Medikament
+    article: das
+    plural: Medikamente
+    en: medicine, medication
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+    example: "Nehmen Sie dieses Medikament dreimal täglich."
+  - de: Tablette
+    article: die
+    plural: Tabletten
+    en: tablet, pill
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+    example: "Ich nehme eine Tablette."
+  - de: Apotheke
+    article: die
+    plural: Apotheken
+    en: pharmacy
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+    example: "Ich gehe in die Apotheke."
+  # Rezept is a polyseme: "prescription" AND "cooking recipe". Lesson §4 carries
+  # both senses in one gloss; same approach as A1/10's Rezept entry.
+  - de: Rezept
+    article: das
+    plural: Rezepte
+    en: "prescription; also: recipe (cooking)"
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+
+  # Healthcare professionals — split into separate m/f entries with correct plurals
+  # (lesson §4 collapses them onto one row "Apothekerin / Apotheker"; A1/10's
+  # Arzt / Ärztin pattern is the model). Apotheker has no plural suffix ("der
+  # Apotheker, -" in the lesson — male weak-noun / unchanged plural); Apothekerin
+  # takes the standard -innen suffix.
+  - de: Apothekerin
+    article: die
+    plural: Apothekerinnen
+    en: pharmacist (female)
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+  - de: Apotheker
+    article: der
+    plural: null
+    en: pharmacist (male)
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+    example: "Der Apotheker empfiehlt Magnesium."
+  # Arzt → Ärzte (umlaut-only plural, lesson spells it out). Ärztin → Ärztinnen.
+  - de: Arzt
+    article: der
+    plural: Ärzte
+    en: doctor (male)
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+    example: "Ich gehe zum Arzt."
+  - de: Ärztin
+    article: die
+    plural: Ärztinnen
+    en: doctor (female)
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+
+  # ── Fitness und Ernährung (fitness and nutrition) ──────────────────────────
+  # Ernährung / Energie are abstract (wellness states, not objects) → [health].
+  # All food/drink nouns here are already covered by A1/03 / A1/09 lessons, but
+  # §4 of this lesson explicitly re-teaches them in the wellness context, so they
+  # stay in this vocab set (per A1/03's re-teach precedent: e.g. Brot, Wasser).
+  - de: Ernährung
+    article: die
+    plural: null
+    en: nutrition, diet
+    pos: noun
+    tags: [health]
+    core: true
+    example: "Eine ausgewogene Ernährung ist wichtig."
+  - de: Energie
+    article: die
+    plural: null
+    en: energy
+    pos: noun
+    tags: [health]
+    core: true
+    example: "Ich wünsche mir mehr Energie."
+  - de: Gemüse
+    article: das
+    plural: null
+    en: vegetables
+    pos: noun
+    tags: [food]
+    core: true
+    example: "Iss viel Gemüse!"
+  - de: Obst
+    article: das
+    plural: null
+    en: fruit
+    pos: noun
+    tags: [food]
+    core: true
+  - de: Zucker
+    article: der
+    plural: null
+    en: sugar
+    pos: noun
+    tags: [food]
+    core: true
+    example: "Iss wenig Zucker!"
+  # Fett is countable in German ("die Fette" = types of fat); lesson spells plural
+  # as -e. Mass-noun usage "wenig Fett" also common.
+  - de: Fett
+    article: das
+    plural: Fette
+    en: fat
+    pos: noun
+    tags: [food]
+    core: true
+  - de: Protein
+    article: das
+    plural: Proteine
+    en: protein
+    pos: noun
+    tags: [food]
+    core: true
+  - de: Wasser
+    article: das
+    plural: null
+    en: water
+    pos: noun
+    tags: [drink]
+    core: true
+  - de: Sport
+    article: der
+    plural: null
+    en: sport, exercise
+    pos: noun
+    tags: [sport]
+    core: true
+    example: "Ich mache gern Sport."
+  - de: Training
+    article: das
+    plural: Trainings
+    en: training, workout
+    pos: noun
+    tags: [sport]
+    core: true
+  - de: Yogakurs
+    article: der
+    plural: Yogakurse
+    en: yoga class
+    pos: noun
+    tags: [sport, concrete]
+    core: true
+    example: "Anna freut sich auf ihren Yogakurs."
+  - de: Fitnessstudio
+    article: das
+    plural: Fitnessstudios
+    en: gym
+    pos: noun
+    tags: [sport, concrete]
+    core: true
+  - de: Pause
+    article: die
+    plural: Pausen
+    en: break
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Machen wir eine Pause."
+
+  # ── Reflexive verbs (Akkusativ) ────────────────────────────────────────────
+  # Parser V2 strips the leading `sich` on 2-word tokens and tags the verb
+  # `reflexive`. The bare-verb lemma is what flashcards drill; the example teaches
+  # the actual `sich ... ` usage. Separable verbs (aus|ruhen, an|ziehen,
+  # aus|ziehen) carry the `separable` tag in addition, matching the A1/10
+  # convention for `aus|ruhen` and `auf|machen`.
+  - de: fühlen
+    article: null
+    plural: null
+    en: "to feel (reflexive: sich fühlen)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Ich fühle mich gut."
+  - de: aus|ruhen
+    article: null
+    plural: null
+    en: "to rest (reflexive, separable: sich ausruhen)"
+    pos: verb
+    tags: [verb, reflexive, separable]
+    core: true
+    example: "Ruh dich aus!"
+  - de: ärgern
+    article: null
+    plural: null
+    en: "to be annoyed (reflexive: sich ärgern über + Akk)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Er ärgert sich über den Stress."
+  - de: freuen
+    article: null
+    plural: null
+    en: "to look forward to / be glad (reflexive: sich freuen auf + Akk / über + Akk)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Ich freue mich auf das Wochenende."
+  - de: waschen
+    article: null
+    plural: null
+    en: "to wash oneself (reflexive: sich waschen)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Ich wasche mich morgens mit kaltem Wasser."
+  - de: an|ziehen
+    article: null
+    plural: null
+    en: "to get dressed (reflexive, separable: sich anziehen)"
+    pos: verb
+    tags: [verb, reflexive, separable]
+    core: true
+    example: "Ich ziehe mich schnell an."
+  - de: aus|ziehen
+    article: null
+    plural: null
+    en: "to get undressed (reflexive, separable: sich ausziehen)"
+    pos: verb
+    tags: [verb, reflexive, separable]
+    core: true
+    example: "Zieh dich aus!"
+  - de: bewegen
+    article: null
+    plural: null
+    en: "to move, exercise (reflexive: sich bewegen)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Wir bewegen uns jeden Tag."
+  - de: entspannen
+    article: null
+    plural: null
+    en: "to relax (reflexive: sich entspannen)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Entspann dich!"
+  - de: ernähren
+    article: null
+    plural: null
+    en: "to eat, feed oneself (reflexive: sich ernähren)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Ich ernähre mich ausgewogen."
+  - de: erkälten
+    article: null
+    plural: null
+    en: "to catch a cold (reflexive: sich erkälten)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Yuki hat sich erkältet."
+  - de: bemühen
+    article: null
+    plural: null
+    en: "to make an effort (reflexive: sich bemühen um + Akk)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Er bemüht sich um mehr Sport."
+  - de: beeilen
+    article: null
+    plural: null
+    en: "to hurry (reflexive: sich beeilen)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Beeil dich!"
+  - de: setzen
+    article: null
+    plural: null
+    en: "to sit down (reflexive: sich setzen)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Setzen Sie sich, bitte."
+
+  # ── Reflexive verbs (Dativ) ────────────────────────────────────────────────
+  # Parser V2 only strips `sich` on exactly 2-word tokens ("sich fühlen" → fühlen),
+  # so the 4-word "sich etwas wünschen" pattern fell through to pos: phrase with
+  # needsReview. Each Dativ reflexive is collapsed to the bare verb here so the
+  # lemma is consistent with the Akkusativ set above; the gloss + example teach
+  # the "sich [Dat] + Akkusativ-Objekt" pattern (mir / dir / sich + Ding).
+  - de: wünschen
+    article: null
+    plural: null
+    en: "to wish for (reflexive, dative: sich etwas wünschen)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Ich wünsche mir mehr Schlaf."
+  - de: vorstellen
+    article: null
+    plural: null
+    en: "to imagine (reflexive, dative: sich etwas vorstellen)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Ich kann mir das kaum vorstellen."
+  - de: putzen
+    article: null
+    plural: null
+    en: "to brush (reflexive, dative: sich die Zähne putzen)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Ich putze mir die Zähne."
+  - de: an|sehen
+    article: null
+    plural: null
+    en: "to look at (reflexive, separable, dative: sich etwas ansehen)"
+    pos: verb
+    tags: [verb, reflexive, separable]
+    core: true
+    example: "Sieh dir den Text noch einmal an!"
+  - de: kaufen
+    article: null
+    plural: null
+    en: "to buy for oneself (reflexive, dative: sich etwas kaufen)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Ich kaufe mir ein Fahrrad."
+  - de: merken
+    article: null
+    plural: null
+    en: "to remember (reflexive, dative: sich etwas merken)"
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Merk dir das!"
