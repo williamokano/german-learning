@@ -1,0 +1,273 @@
+# Reviewed from B2/11 lesson.md §4 Wortschatz.
+# Note: all 4 tables use German paraphrase (Erklärung), not English glosses —
+# every gloss below is a hand-written English translation.
+#
+# Section headers in lesson.md:
+#   Unternehmen und Rechtsformen (company legal forms)     — 8 nouns
+#   Geschäftszahlen und Finanzen (business figures)        — 8 nouns
+#   Geschäftsbeziehungen (business relationships)          — 8 nouns (3 m/f pairs)
+#   Vertrags- und Zahlungsbedingungen (contract/payment)   — 8 nouns
+lesson: B2/11
+
+entries:
+  # ── Unternehmen und Rechtsformen — 8 nouns ─────────────────────────────────
+  - de: Unternehmen
+    article: das
+    plural: null
+    en: company; business (neutral general term)
+    pos: noun
+    tags: [business, place, concrete]
+    core: true
+  - de: Firma
+    article: die
+    plural: Firmen
+    en: firm; company (informal)
+    pos: noun
+    tags: [business, place, concrete]
+    core: true
+  - de: Betrieb
+    article: der
+    plural: Betriebe
+    en: plant; business operation (factory, works)
+    pos: noun
+    tags: [business, place, concrete]
+    core: true
+  - de: Konzern
+    article: der
+    plural: Konzerne
+    en: corporate group; conglomerate
+    pos: noun
+    tags: [business, place, concrete]
+    core: true
+  - de: GmbH
+    article: die
+    plural: GmbHs
+    en: limited liability company
+    pos: noun
+    tags: [business, legal, abstract]
+    core: true
+    example: "Gesellschaft mit beschränkter Haftung — mittelgroß, Haftung begrenzt."
+  - de: AG
+    article: die
+    plural: AGs
+    en: public limited company; stock corporation
+    pos: noun
+    tags: [business, legal, abstract]
+    core: true
+    example: "Aktiengesellschaft — groß, börsennotiert."
+  - de: Branche
+    article: die
+    plural: Branchen
+    en: industry; sector
+    pos: noun
+    tags: [business, abstract]
+    core: true
+  - de: Markt
+    article: der
+    plural: Märkte
+    en: market
+    pos: noun
+    tags: [business, abstract]
+    core: true
+
+  # ── Geschäftszahlen und Finanzen — 8 nouns ─────────────────────────────────
+  - de: Umsatz
+    article: der
+    plural: Umsätze
+    en: revenue; turnover
+    pos: noun
+    tags: [business, finance, abstract]
+    core: true
+    example: "Der Umsatz steigt/fällt."
+  - de: Gewinn
+    article: der
+    plural: Gewinne
+    en: profit
+    pos: noun
+    tags: [business, finance, abstract]
+    core: true
+    example: "Der Gewinn wächst/sinkt."
+  - de: Verlust
+    article: der
+    plural: Verluste
+    en: loss
+    pos: noun
+    tags: [business, finance, abstract]
+    core: true
+    example: "Verlust schreiben/machen."
+  - de: Bilanz
+    article: die
+    plural: Bilanzen
+    en: balance sheet
+    pos: noun
+    tags: [business, finance, document]
+    core: true
+    example: "Bilanz ziehen."
+  - de: Investition
+    article: die
+    plural: Investitionen
+    en: investment
+    pos: noun
+    tags: [business, finance, abstract]
+    core: true
+  - de: Kosten
+    article: die
+    plural: null
+    en: costs
+    pos: noun
+    tags: [business, finance, plural-tantum]
+    core: true
+  - de: Personal
+    article: das
+    plural: null
+    en: staff; personnel
+    pos: noun
+    tags: [business, abstract]
+    core: true
+  - de: Steuer
+    article: die
+    plural: Steuern
+    en: tax
+    pos: noun
+    tags: [business, finance, abstract]
+    core: true
+
+  # ── Geschäftsbeziehungen — 8 nouns (3 m/f pairs) ───────────────────────────
+  - de: Mitarbeiter
+    article: der
+    plural: Mitarbeiter
+    en: employee (male)
+    pos: noun
+    tags: [business, person, concrete]
+    core: true
+  - de: Mitarbeiterin
+    article: die
+    plural: Mitarbeiterinnen
+    en: employee (female)
+    pos: noun
+    tags: [business, person, concrete]
+    core: true
+  - de: Kunde
+    article: der
+    plural: Kunden
+    en: customer (male)
+    pos: noun
+    tags: [business, person, concrete, n-decl]
+    core: true
+  - de: Kundin
+    article: die
+    plural: Kundinnen
+    en: customer (female)
+    pos: noun
+    tags: [business, person, concrete]
+    core: true
+  - de: Auftrag
+    article: der
+    plural: Aufträge
+    en: order; assignment
+    pos: noun
+    tags: [business, abstract]
+    core: true
+  - de: Lieferant
+    article: der
+    plural: Lieferanten
+    en: supplier (male)
+    pos: noun
+    tags: [business, person, concrete, n-decl]
+    core: true
+  - de: Lieferantin
+    article: die
+    plural: Lieferantinnen
+    en: supplier (female)
+    pos: noun
+    tags: [business, person, concrete]
+    core: true
+  - de: Angebot
+    article: das
+    plural: Angebote
+    en: offer; quote
+    pos: noun
+    tags: [business, abstract]
+    core: true
+  - de: Nachfrage
+    article: die
+    plural: null
+    en: demand
+    pos: noun
+    tags: [business, market, abstract]
+    core: true
+  - de: Konkurrenz
+    article: die
+    plural: null
+    en: competition
+    pos: noun
+    tags: [business, market, abstract]
+    core: true
+  - de: Wettbewerb
+    article: der
+    plural: Wettbewerbe
+    en: competition; contest
+    pos: noun
+    tags: [business, market, abstract]
+    core: true
+
+  # ── Vertrags- und Zahlungsbedingungen — 8 nouns ────────────────────────────
+  - de: Verhandlung
+    article: die
+    plural: Verhandlungen
+    en: negotiation
+    pos: noun
+    tags: [business, legal, abstract]
+    core: true
+  - de: Vertrag
+    article: der
+    plural: Verträge
+    en: contract
+    pos: noun
+    tags: [business, legal, document]
+    core: true
+    example: "einen Vertrag abschließen / unterzeichnen / kündigen"
+  - de: Bedingung
+    article: die
+    plural: Bedingungen
+    en: condition; clause
+    pos: noun
+    tags: [business, legal, abstract]
+    core: true
+  - de: Frist
+    article: die
+    plural: Fristen
+    en: deadline
+    pos: noun
+    tags: [business, legal, abstract]
+    core: true
+  - de: Rabatt
+    article: der
+    plural: Rabatte
+    en: discount
+    pos: noun
+    tags: [business, finance, abstract]
+    core: true
+  - de: Skonto
+    article: das
+    plural: Skonti
+    en: early-payment discount
+    pos: noun
+    tags: [business, finance, abstract]
+    core: true
+  - de: Mahnung
+    article: die
+    plural: Mahnungen
+    en: payment reminder; dunning notice
+    pos: noun
+    tags: [business, finance, document]
+    core: true
+    example: "eine Mahnung schicken / erhalten"
+  - de: Rechnung
+    article: die
+    plural: Rechnungen
+    en: invoice; bill
+    pos: noun
+    tags: [business, finance, document]
+    core: true
+    example: "eine Rechnung schreiben / begleichen / prüfen"
