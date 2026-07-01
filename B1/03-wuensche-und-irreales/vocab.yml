@@ -1,0 +1,257 @@
+# Reviewed from B1/03 lesson.md §4 Wortschatz.
+# Note: V2 parser captured most of the lexical skeleton but routed 4 verb rows with
+# `⚠️ irregular` annotations through as 3rd-person forms (`empfiehlt`, `fängt an`,
+# `unternimmt`, `schlägt ein`) instead of the infinitive English. Paren-trusted plurals
+# (`die Träume`, `die Wünsche`) bled into the `en` field of 2 nouns. `Bedauern` was
+# false-umlauted to `Bedäuern`. `Mut, – (nur Singular)` produced `plural: "Singular"`.
+# `Auslandspraktikum, -praktika` glued `-praktika` onto the stem (`Auslandspraktikum
+# praktika`). All hand-fixed.
+#
+# Section headers in lesson.md:
+#   Träume und Wünsche (dreams and wishes)         — 12 nouns
+#   Verben für Wünsche und Hypothesen              — 9 verbs (4 irregular)
+#   Adjektive für Hypothesen und Träume            — 9 adjectives (3 contrast pairs)
+lesson: B1/03
+
+entries:
+  # ── Träume und Wünsche (dreams and wishes) — 12 nouns ──────────────────────
+  - de: Traum
+    article: der
+    plural: Träume
+    en: dream
+    pos: noun
+    tags: [dream, abstract]
+    core: true
+    example: "Ich habe einen Traum."
+  - de: Wunsch
+    article: der
+    plural: Wünsche
+    en: wish
+    pos: noun
+    tags: [dream, abstract]
+    core: true
+    example: "Ich habe einen Wunsch."
+  - de: Hoffnung
+    article: die
+    plural: Hoffnungen
+    en: hope
+    pos: noun
+    tags: [dream, abstract]
+    core: true
+    example: "Ich habe Hoffnung."
+  - de: Bedauern
+    article: das
+    plural: null
+    en: regret
+    pos: noun
+    tags: [dream, abstract]
+    core: true
+    example: "Mein Bedauern ist groß."
+  - de: Möglichkeit
+    article: die
+    plural: Möglichkeiten
+    en: possibility; opportunity
+    pos: noun
+    tags: [opportunity]
+    core: true
+    example: "Das ist eine gute Möglichkeit."
+  - de: Entscheidung
+    article: die
+    plural: Entscheidungen
+    en: decision
+    pos: noun
+    tags: [decision]
+    core: true
+    example: "Die Entscheidung fiel mir schwer."
+  - de: Mut
+    article: der
+    plural: null
+    en: courage
+    pos: noun
+    tags: [abstract, virtue]
+    core: true
+    example: "Ich hatte nicht den Mut."
+  - de: Chance
+    article: die
+    plural: Chancen
+    en: chance; opportunity
+    pos: noun
+    tags: [opportunity]
+    core: true
+    example: "Das ist eine tolle Chance."
+  - de: Bedingung
+    article: die
+    plural: Bedingungen
+    en: condition
+    pos: noun
+    tags: [decision, abstract]
+    core: true
+    example: "Unter einer Bedingung."
+  - de: Umweg
+    article: der
+    plural: Umwege
+    en: detour; roundabout route
+    pos: noun
+    tags: [travel, concrete]
+    core: true
+    example: "Nimm diesen Umweg."
+  - de: Praxiserfahrung
+    article: die
+    plural: Praxiserfahrungen
+    en: practical experience
+    pos: noun
+    tags: [experience, abstract]
+    core: true
+  - de: Auslandspraktikum
+    article: das
+    plural: Auslandspraktika
+    en: internship abroad
+    pos: noun
+    tags: [career, abstract]
+    core: true
+
+  # ── Verben für Wünsche und Hypothesen — 9 verbs ──────────────────────────
+  - de: wünschen
+    article: null
+    plural: null
+    en: to wish
+    pos: verb
+    tags: [verb, dative]
+    core: true
+    example: "Ich wünsche dir alles Gute."
+  - de: vorstellen
+    article: null
+    plural: null
+    en: to imagine
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Ich stelle mir eine andere Welt vor."
+  - de: bereuen
+    article: null
+    plural: null
+    en: to regret
+    pos: verb
+    core: true
+    example: "Ich bereue meine Entscheidung."
+  - de: wagen
+    article: null
+    plural: null
+    en: to dare; to venture
+    pos: verb
+    core: true
+    example: "Ich würde es wagen."
+  - de: empfehlen
+    article: null
+    plural: null
+    en: to recommend
+    pos: verb
+    tags: [verb, strong]
+    core: true
+    example: "Ich empfehle, du empfiehlst, er empfiehlt."
+  - de: ausprobieren
+    article: null
+    plural: null
+    en: to try (out)
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Ich probiere es aus."
+  - de: anfangen
+    article: null
+    plural: null
+    en: to start; to begin
+    pos: verb
+    tags: [verb, separable, strong]
+    core: true
+    example: "Ich fange morgen an."
+  - de: unternehmen
+    article: null
+    plural: null
+    en: to undertake; to do
+    pos: verb
+    tags: [verb, separable, strong]
+    core: true
+    example: "Wir unternehmen viel."
+  - de: einschlagen
+    article: null
+    plural: null
+    en: to take (a path)
+    pos: verb
+    tags: [verb, separable, strong]
+    core: true
+    example: "Schlagen wir diesen Weg ein."
+
+  # ── Adjektive für Hypothesen und Träume — 9 adjectives ───────────────────
+  - de: mutig
+    article: null
+    plural: null
+    en: brave; courageous
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das war mutig."
+  - de: frei
+    article: null
+    plural: null
+    en: free
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Ich bin frei."
+  - de: möglich
+    article: null
+    plural: null
+    en: possible
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Ist das möglich?"
+  - de: unmöglich
+    article: null
+    plural: null
+    en: impossible
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das ist unmöglich."
+  - de: hypothetisch
+    article: null
+    plural: null
+    en: hypothetical
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das ist nur hypothetisch."
+  - de: realistisch
+    article: null
+    plural: null
+    en: realistic
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das klingt realistisch."
+  - de: utopisch
+    article: null
+    plural: null
+    en: utopian; unrealistic
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Das klingt utopisch."
+  - de: bereit
+    article: null
+    plural: null
+    en: ready; willing
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Ich bin bereit."
+  - de: konkret
+    article: null
+    plural: null
+    en: concrete; specific
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Hast du einen konkreten Vorschlag?"
