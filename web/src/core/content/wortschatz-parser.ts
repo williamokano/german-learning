@@ -184,10 +184,20 @@ function looksLikeNonVocabRow(cells: string[]): boolean {
 }
 
 /** Identify the English cell in a data row. Returns the cell index, or -1.
- *  Heuristic: the cell whose value is the shortest (typical English glosses are 1–3 words)
- *  AND that is NOT the lemma column (col 0). For 2-col tables, col 1 is always English. */
+ *  Heuristic, in priority order:
+ *   1. A cell starting with "to " — the infinitive-verb-gloss marker never appears in
+ *      German, so this beats everything else even if a shorter German cell (Perfekt/
+ *      Partizip II form, e.g. "verpasst") is also a candidate. Found by trial across
+ *      several B2 lessons: 3-col `Verb | Partizip II | English` tables regularly
+ *      picked the (shorter) Partizip II form instead of the real gloss.
+ *   2. Otherwise, the shortest remaining cell (typical English glosses are 1–3 words)
+ *      that is NOT capitalised (capitalised → likely German) and NOT the lemma column
+ *      (col 0). For 2-col tables, col 1 is always English. */
 function findEnglishCellIndex(cells: string[]): number {
   if (cells.length === 2) return 1;
+  for (let i = 1; i < cells.length; i++) {
+    if (/^to\s/i.test(cells[i].trim())) return i;
+  }
   let best = -1;
   let bestLen = Infinity;
   for (let i = 1; i < cells.length; i++) {
@@ -277,10 +287,17 @@ function parseTableDataRow(row: string, kind: NonNullable<TableKind>): DraftEntr
         const e = parseToken(raw);
         if (e) out.push(e);
       }
+      // A dedicated 3rd meaning column is authoritative and ALWAYS wins, even over
+      // an `en` that parseToken already filled in from one cell's own trailing
+      // annotation paren (e.g. "annehmen ⚠️ (sep.)" → parseToken misreads "sep." as
+      // a gloss). Both members of a nominalization pair share essentially the same
+      // core meaning anyway; a human review pass refines noun vs. "to X" verb phrasing.
       const meaning = cells.length >= 3 ? cells[2]?.trim() : undefined;
       if (meaning) {
         for (const e of out) {
-          if (e.en.trim() === '') e.en = meaning;
+          e.en = meaning;
+          e.needsReview = false;
+          e.reviewNote = undefined;
         }
       }
       return out;
