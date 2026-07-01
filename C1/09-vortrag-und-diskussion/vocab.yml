@@ -1,0 +1,216 @@
+# Reviewed from C1/09 lesson.md §4 Wortschatz.
+# Note: all 3 tables use German-only paraphrase — no draft to patch, every entry
+# hand-derived and hand-translated from source. "Hyperbel" excluded — near-verbatim
+# duplicate of C1/01's entry (identical definition, near-identical example: "tausendmal
+# gesagt" here vs. "tausendmal gefragt" there — zero new content). "Überleitung"
+# overlaps with C1/08 but is kept: distinct context (presentation transitions here vs.
+# essay transitions there). Other shared headwords (These, Argument, Einwand,
+# Standpunkt — cf. B1/02, B1/10, B2/12, C1/05, C1/08) kept per the same-source-not-
+# flagged rule established in C1/08.
+#
+# Section headers in lesson.md:
+#   Kernwortschatz: Vortrag und Präsentation  — 10 nouns
+#   Kernwortschatz: Diskussion und Moderation — 10 nouns
+#   Rhetorik und Wirkung                       — 7 nouns (Hyperbel excluded, dup)
+lesson: C1/09
+
+entries:
+  # ── Kernwortschatz: Vortrag und Präsentation — 10 nouns ────────────────────
+  - de: Vortrag
+    article: der
+    plural: Vorträge
+    en: talk; lecture (a coherent oral presentation to an audience)
+    pos: noun
+    tags: [presentation, event, abstract]
+    core: true
+    example: "einen Vortrag halten"
+  - de: Referat
+    article: das
+    plural: Referate
+    en: (student) presentation on a defined topic
+    pos: noun
+    tags: [presentation, event, abstract]
+    core: true
+  - de: Präsentation
+    article: die
+    plural: Präsentationen
+    en: presentation (usually with visual support)
+    pos: noun
+    tags: [presentation, event, abstract]
+    core: true
+  - de: Gliederung
+    article: die
+    plural: Gliederungen
+    en: outline (the planned structure of a talk)
+    pos: noun
+    tags: [presentation, abstract]
+    core: true
+  - de: Folie
+    article: die
+    plural: Folien
+    en: slide (a single image of the presentation, on a projector)
+    pos: noun
+    tags: [presentation, concrete]
+    core: true
+    example: "eine Folie zeigen"
+  - de: Handout
+    article: das
+    plural: Handouts
+    en: handout (a sheet with the key points for the audience)
+    pos: noun
+    tags: [presentation, document, concrete]
+    core: true
+  - de: Publikum
+    article: das
+    plural: null
+    en: audience
+    pos: noun
+    tags: [presentation, person, concrete]
+    core: true
+  - de: Überleitung
+    article: die
+    plural: Überleitungen
+    en: transition (the linguistic bridge between two parts of a talk)
+    pos: noun
+    tags: [presentation, coherence, abstract]
+    core: true
+  - de: Stichwort
+    article: das
+    plural: Stichwörter
+    en: keyword; cue word (a single memory-jogging note)
+    pos: noun
+    tags: [presentation, abstract]
+    core: true
+  - de: Lampenfieber
+    article: das
+    plural: null
+    en: stage fright
+    pos: noun
+    tags: [presentation, emotion, abstract]
+    core: true
+
+  # ── Kernwortschatz: Diskussion und Moderation — 10 nouns ───────────────────
+  - de: Diskussion
+    article: die
+    plural: Diskussionen
+    en: discussion (oral exchange of arguments)
+    pos: noun
+    tags: [discussion, event, abstract]
+    core: true
+  - de: Moderation
+    article: die
+    plural: Moderationen
+    en: moderation (leading and steering a discussion)
+    pos: noun
+    tags: [discussion, abstract]
+    core: true
+  - de: Moderatorin
+    article: die
+    plural: Moderatorinnen
+    en: moderator (female; the person leading a discussion)
+    pos: noun
+    tags: [discussion, person, concrete]
+    core: true
+  - de: Podium
+    article: das
+    plural: Podien
+    en: podium; panel stage (the raised stage with the discussion participants)
+    pos: noun
+    tags: [discussion, place, concrete]
+    core: true
+  - de: These
+    article: die
+    plural: Thesen
+    en: thesis (a pointed claim that one defends)
+    pos: noun
+    tags: [discussion, argument, abstract]
+    core: true
+  - de: Argument
+    article: das
+    plural: Argumente
+    en: argument (a reasoned thought for or against a thesis)
+    pos: noun
+    tags: [discussion, argument, abstract]
+    core: true
+  - de: Einwand
+    article: der
+    plural: Einwände
+    en: objection (a counter-argument, a concern)
+    pos: noun
+    tags: [discussion, argument, abstract]
+    core: true
+  - de: Entgegnung
+    article: die
+    plural: Entgegnungen
+    en: retort; response (to an objection)
+    pos: noun
+    tags: [discussion, argument, abstract]
+    core: true
+  - de: Standpunkt
+    article: der
+    plural: Standpunkte
+    en: point of view; position (that someone holds)
+    pos: noun
+    tags: [discussion, argument, abstract]
+    core: true
+  - de: Redebeitrag
+    article: der
+    plural: Redebeiträge
+    en: (individual) contribution to a discussion
+    pos: noun
+    tags: [discussion, abstract]
+    core: true
+
+  # ── Rhetorik und Wirkung — 7 nouns (Hyperbel excluded, dup of C1/01) ──────
+  - de: Rhetorik
+    article: die
+    plural: null
+    en: rhetoric (the art of effective speech)
+    pos: noun
+    tags: [rhetoric, abstract]
+    core: true
+  - de: rhetorische Frage
+    article: die
+    plural: rhetorische Fragen
+    en: rhetorical question (a question expecting no answer, used for effect)
+    pos: noun
+    tags: [rhetoric, abstract]
+    core: true
+  - de: Dreierfigur
+    article: die
+    plural: Dreierfiguren
+    en: rule of three (a list of three parallel elements)
+    pos: noun
+    tags: [rhetoric, abstract]
+    core: true
+    example: "kurz, klar, kraftvoll"
+  - de: Anapher
+    article: die
+    plural: Anaphern
+    en: anaphora (repetition at the start of successive sentences)
+    pos: noun
+    tags: [rhetoric, abstract]
+    core: true
+    example: "Wir wollen … Wir wollen …"
+  - de: Metapher
+    article: die
+    plural: Metaphern
+    en: metaphor
+    pos: noun
+    tags: [rhetoric, abstract]
+    core: true
+    example: "ein Meer von Daten"
+  - de: Pointe
+    article: die
+    plural: Pointen
+    en: punchline (a pointed, often surprising closing statement)
+    pos: noun
+    tags: [rhetoric, abstract]
+    core: true
+  - de: Überzeugungskraft
+    article: die
+    plural: null
+    en: power of persuasion
+    pos: noun
+    tags: [rhetoric, abstract]
+    core: true
