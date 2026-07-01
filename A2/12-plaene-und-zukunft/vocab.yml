@@ -1,0 +1,328 @@
+# Reviewed from A2/12 lesson.md §4 Wortschatz. Bootstrapped with
+# build/import-vocab.ts (39 entries, 1 needsReview). The human review pass fixes:
+#   - the last "entry" which was actually the ⚠️ warning paragraph mis-routed as a
+#     phrase (parser gap #4: bold-chunk prose joins)
+#   - three verbs whose English gloss came from the Perfekt column instead of the
+#     Meaning column (vor|haben → "hat vorgehabt", vor|her·sagen → "hat vorhergesagt",
+#     er·reichen → "hat erreicht"). Lesson §4 carries them as "to intend, have
+#     planned", "to predict, forecast", "to reach, achieve".
+#   - hoffen → "auf + Akk" became the gloss; replaced with "to hope (for)"
+#   - sich vornehmen → parser captured bare "vornehmen" but lost the sich;
+#     reflected in the gloss + example (mirrors A1/10 reflexive handling)
+#   - all empty `tags: []` filled; all reviewNote/needsReview cleared
+#
+# Section headers in lesson.md:
+#   Zukunft und Pläne               — 12 abstract planning nouns (no concrete:
+#                                      you cannot picture "die Hoffnung")
+#   Wetter und Vorhersage           — 14 weather nouns (visible phenomena = concrete;
+#                                      Wetter / Vorhersage / Wetterbericht stay abstract)
+#   Verben zur Zukunft              — 12 verbs (mixed regular + strong/reflexive)
+lesson: A2/12
+
+entries:
+  # ── Zukunft und Pläne (the future and plans) ──────────────────────────────
+  # "die Zukunft" is the headline noun for this lesson — the time-honoured concept
+  # of the future itself; abstract (cannot picture it).
+  - de: Zukunft
+    article: die
+    plural: null
+    en: future
+    pos: noun
+    tags: [time, future]
+    core: true
+    example: "Die Zukunft wird spannend."
+  - de: Plan
+    article: der
+    plural: Pläne
+    en: plan
+    pos: noun
+    tags: [plan]
+    core: true
+    example: "Ich habe einen Plan für das Wochenende."
+  - de: Vorsatz
+    article: der
+    plural: Vorsätze
+    en: resolution (New Year's)
+    pos: noun
+    tags: [plan]
+    core: true
+    example: "Mein Vorsatz ist: mehr Sport."
+  - de: Ziel
+    article: das
+    plural: Ziele
+    en: goal
+    pos: noun
+    tags: [plan]
+    core: true
+    example: "Nächstes Jahr erreiche ich mein Ziel."
+  - de: Absicht
+    article: die
+    plural: Absichten
+    en: intention
+    pos: noun
+    tags: [plan, abstract]
+    core: true
+  - de: Hoffnung
+    article: die
+    plural: Hoffnungen
+    en: hope
+    pos: noun
+    tags: [abstract]
+    core: true
+    example: "Ich habe große Hoffnung."
+  - de: Wunsch
+    article: der
+    plural: Wünsche
+    en: wish
+    pos: noun
+    tags: [abstract]
+    core: true
+  - de: Traum
+    article: der
+    plural: Träume
+    en: dream
+    pos: noun
+    tags: [abstract]
+    core: true
+    example: "Mein Traum ist Programmierer zu werden."
+  - de: Gelegenheit
+    article: die
+    plural: Gelegenheiten
+    en: opportunity
+    pos: noun
+    tags: [plan]
+    core: true
+  - de: Entscheidung
+    article: die
+    plural: Entscheidungen
+    en: decision
+    pos: noun
+    tags: [plan]
+    core: true
+    example: "Das war eine gute Entscheidung."
+  # Verabredung = meeting with someone (informal, date with friends); Termin =
+  # scheduled slot (formal/medical/business). Lesson labels them both.
+  - de: Verabredung
+    article: die
+    plural: Verabredungen
+    en: appointment (informal), date
+    pos: noun
+    tags: [plan, event]
+    core: true
+  - de: Termin
+    article: der
+    plural: Termine
+    en: appointment, deadline
+    pos: noun
+    tags: [plan, event]
+    core: true
+    example: "Ich habe am Mittwoch einen Termin."
+
+  # ── Wetter und Vorhersage (weather and forecast) ──────────────────────────
+  # das Wetter is the umbrella abstract; die Vorhersage + der Wetterbericht
+  # carry the same idea — none of the three is concrete.
+  - de: Wetter
+    article: das
+    plural: null
+    en: weather
+    pos: noun
+    tags: [weather]
+    core: true
+    example: "Wie ist das Wetter heute?"
+  # Visible things → concrete (image-association eligible in F6 drills).
+  - de: Sonne
+    article: die
+    plural: null
+    en: sun
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+    example: "Die Sonne scheint."
+  - de: Regen
+    article: der
+    plural: null
+    en: rain
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+  - de: Schnee
+    article: der
+    plural: null
+    en: snow
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+  - de: Sturm
+    article: der
+    plural: Stürme
+    en: storm
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+  - de: Gewitter
+    article: das
+    plural: Gewitter
+    en: thunderstorm
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+    example: "Am Freitag wird es Gewitter geben."
+  # der Schauer / die Schauer — same form in singular and plural; lesson writes "-"
+  # but die Schauer (pl) is in active use. Plural kept as the singular form.
+  - de: Schauer
+    article: der
+    plural: Schauer
+    en: shower (rain)
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+  - de: Nebel
+    article: der
+    plural: null
+    en: fog
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+  - de: Wolke
+    article: die
+    plural: Wolken
+    en: cloud
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+  - de: Wind
+    article: der
+    plural: null
+    en: wind
+    pos: noun
+    tags: [weather, concrete]
+    core: true
+  - de: Temperatur
+    article: die
+    plural: Temperaturen
+    en: temperature
+    pos: noun
+    tags: [weather]
+    core: true
+    example: "Die Temperatur wird 25 Grad sein."
+  - de: Grad
+    article: der
+    plural: Grad
+    en: degree
+    pos: noun
+    tags: [weather]
+    core: true
+  - de: Wetterbericht
+    article: der
+    plural: Wetterberichte
+    en: weather report
+    pos: noun
+    tags: [weather]
+    core: true
+  - de: Vorhersage
+    article: die
+    plural: Vorhersagen
+    en: forecast, prediction
+    pos: noun
+    tags: [weather]
+    core: true
+
+  # ── Verben zur Zukunft (verbs for the future) ──────────────────────────────
+  # Two regular, the rest mix of separable / strong / reflexive. Bare-infinitive
+  # lemma + English gloss follows the A1/10 pattern (reflexive + separable info
+  # in the gloss/example, not in `tags`).
+  - de: planen
+    article: null
+    plural: null
+    en: to plan
+    pos: verb
+    tags: [verb, plan]
+    core: true
+    example: "Wir planen eine Reise nach Italien."
+  - de: vorhaben
+    article: null
+    plural: null
+    en: "to intend, have planned (separable: vor|haben)"
+    pos: verb
+    tags: [verb, plan]
+    core: true
+    example: "Ich habe viel vor."
+  - de: vornehmen
+    article: null
+    plural: null
+    en: "to resolve (reflexive: sich vornehmen)"
+    pos: verb
+    tags: [verb, plan]
+    core: true
+    example: "Ich nehme mir viel vor."
+  - de: beschließen
+    article: null
+    plural: null
+    en: "to decide (strong: beschließen → beschloss)"
+    pos: verb
+    tags: [verb, plan]
+    core: true
+    example: "Ich beschließe, mehr Sport zu machen."
+  - de: hoffen
+    article: null
+    plural: null
+    en: to hope (for) (auf + Akk)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich hoffe auf gutes Wetter."
+  - de: erwarten
+    article: null
+    plural: null
+    en: to expect
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich erwarte dich um acht."
+  - de: vorhersagen
+    article: null
+    plural: null
+    en: "to predict, forecast (separable: vor|her·sagen)"
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: versprechen
+    article: null
+    plural: null
+    en: "to promise (strong: versprechen → versprach)"
+    pos: verb
+    tags: [verb, plan]
+    core: true
+    example: "Ich verspreche, pünktlich zu sein."
+  - de: erreichen
+    article: null
+    plural: null
+    en: to reach, achieve
+    pos: verb
+    tags: [verb, plan]
+    core: true
+    example: "Ich erreiche mein Ziel."
+  - de: scheinen
+    article: null
+    plural: null
+    en: to seem, to shine
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Das Wetter scheint schön zu werden."
+  - de: gelingen
+    article: null
+    plural: null
+    en: "to succeed (ist gelungen — takes Dativ: es gelingt mir)"
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Es ist mir gelungen, den Termin zu verschieben."
+  - de: klappen
+    article: null
+    plural: null
+    en: to work out
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wenn alles klappt, komme ich mit."
