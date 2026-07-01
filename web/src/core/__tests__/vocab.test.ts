@@ -236,6 +236,14 @@ describe('parseToken plural expansion', () => {
     expect(parseToken('die Nudel, -n (usually pl.: Nudeln)')).toMatchObject({ plural: 'Nudeln', en: '' });
   });
 
+  it('disambiguates a singular-only annotation ("nur Sg.") from an English gloss (V3.1)', () => {
+    // Found reviewing B2/03: "das Bedauern, – (nur Sg.)" consumed "nur Sg." as the
+    // gloss, blocking the real English column (passed as defaultEn) from ever being
+    // applied. Same bug class as the plural-hint case above, singular side.
+    expect(parseToken('das Bedauern, – (nur Sg.)', 'regret')).toMatchObject({ plural: null, en: 'regret' });
+    expect(parseToken('die Reue, – (nur Sg.)', 'remorse')).toMatchObject({ plural: null, en: 'remorse' });
+  });
+
   it('does not mistake a capitalized word in a gloss for a plural', () => {
     // No comma plural-code → the paren is a gloss, "Bayern" must not become the plural.
     expect(parseToken('die Stadt (a town in Bayern)')).toMatchObject({ plural: null, en: 'a town in Bayern' });
