@@ -1,0 +1,193 @@
+# Reviewed from C1/06 lesson.md §4 Wortschatz.
+# Note: all 4 tables use German-only paraphrase — no draft to patch, every entry
+# hand-derived and hand-translated from source. Table 3's "Abtönungspartikel" row
+# is explicitly marked "siehe C1/03" in the source (a backward cross-reference to
+# already-committed vocab, not new content this lesson introduces) — excluded to
+# avoid a pointless duplicate entry.
+#
+# Section headers in lesson.md:
+#   Konjunktiv und Modalität       — 8 nouns
+#   Negation                        — 5 nouns
+#   Wortstellung im Mittelfeld      — 5 nouns (Abtönungspartikel excluded, cross-ref only)
+#   es-Konstruktionen               — 6 nouns
+lesson: C1/06
+
+entries:
+  # ── Konjunktiv und Modalität — 8 nouns ─────────────────────────────────────
+  - de: indirekte Rede
+    article: die
+    plural: null
+    en: reported/indirect speech
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+    example: "often uses Konjunktiv I"
+  - de: Irrealis
+    article: der
+    plural: null
+    en: the irreal; the unreal (Konjunktiv II for hypothetical/unreal statements)
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: Konjunktiv I
+    article: der
+    plural: null
+    en: subjunctive I (verb form for indirect speech and detached reporting)
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: Konjunktiv II
+    article: der
+    plural: null
+    en: subjunctive II (verb form for unreal wishes, comparisons, politeness)
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: Höflichkeitsform
+    article: die
+    plural: Höflichkeitsformen
+    en: polite form (softened request with Konjunktiv II)
+    pos: noun
+    tags: [linguistics, grammar, register, abstract]
+    core: true
+    example: "Ich hätte gern …"
+  - de: Vergleich
+    article: der
+    plural: Vergleiche
+    en: comparison (the als ob / als + Konjunktiv II form)
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: Distanz
+    article: die
+    plural: Distanzen
+    en: distance (inner/stylistic remove from what is said)
+    pos: noun
+    tags: [linguistics, register, abstract]
+    core: true
+  - de: Ersatz
+    article: der
+    plural: Ersätze
+    en: substitute form (würde + infinitive instead of Konjunktiv I)
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+
+  # ── Negation — 5 nouns ──────────────────────────────────────────────────────
+  - de: Verneinung
+    article: die
+    plural: Verneinungen
+    en: negation
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: Existenz
+    article: die
+    plural: Existenzen
+    en: existence
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: Doppelverneinung
+    article: die
+    plural: Doppelverneinungen
+    en: double negation (two negations canceling each other out)
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: Korrelat
+    article: das
+    plural: Korrelate
+    en: correlate (a word that fills a syntactic gap)
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+    example: "weder … noch"
+  - de: Schwerpunkt
+    article: der
+    plural: Schwerpunkte
+    en: main point; focus
+    pos: noun
+    tags: [linguistics, abstract]
+    core: true
+
+  # ── Wortstellung im Mittelfeld — 5 nouns ────────────────────────────────────
+  - de: Wortstellung
+    article: die
+    plural: null
+    en: word order
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+  - de: Mittelfeld
+    article: das
+    plural: Mittelfelder
+    en: middle field (the area between the finite verb and the sentence end)
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+  - de: Vorfeld
+    article: das
+    plural: null
+    en: pre-field (the position before the finite verb — room for one element)
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+  - de: Nachfeld
+    article: das
+    plural: null
+    en: post-field (the area after the sentence end, for heavy elements)
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+  - de: Klammer
+    article: die
+    plural: Klammern
+    en: sentence bracket (Satzklammer — the left + right bracket)
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
+
+  # ── es-Konstruktionen — 6 nouns ──────────────────────────────────────────────
+  - de: Vorfeld-es
+    article: das
+    plural: null
+    en: 'dummy "es" in the Vorfeld (a placeholder with no meaning of its own)'
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: Korrelat-es
+    article: das
+    plural: null
+    en: '"es" as a correlate (standing in for another sentence element)'
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: Existenz-es
+    article: das
+    plural: null
+    en: '"es" in the phrase "es gibt" (there is/are)'
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: unpersönliches es
+    article: das
+    plural: null
+    en: 'impersonal "es" (formal subject with impersonal verbs)'
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: formales Subjekt
+    article: das
+    plural: formale Subjekte
+    en: 'formal subject ("es" that only fills the subject slot, without meaning)'
+    pos: noun
+    tags: [linguistics, grammar, abstract]
+    core: true
+  - de: Leerstelle
+    article: die
+    plural: Leerstellen
+    en: 'empty slot (the syntactic position that "es" fills)'
+    pos: noun
+    tags: [linguistics, syntax, abstract]
+    core: true
