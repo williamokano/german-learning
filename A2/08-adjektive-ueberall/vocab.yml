@@ -1,0 +1,425 @@
+# Reviewed from A2/08 lesson.md §4 Wortschatz.
+# Bootstrapped with build/import-vocab.ts; the parser captured 48 entries.
+#
+# Parser gap findings (lesson-specific):
+#   - The lesson's three Wortschatz tables all use a bilingual header
+#     (`| Noun (article + plural) | English |` for clothing,
+#      `| German | English |` for colors/patterns, and the descriptive-adjective
+#     table is also bilingual). They parse correctly as `noun-english` /
+#     `bilingual`, BUT:
+#       • colors and descriptive adjectives that the parser routes as "bare
+#         lowercase single word" get a stale `reviewNote` of
+#         "adjective — confirm pos / fill gloss" even when the gloss IS filled
+#         (the bilingual-table path doesn't carry a gloss into the bare-lowercase
+#         fallback the way noun-english does).
+#       • Four adjectives were misclassified as `pos: verb` by the bare-lowercase
+#         fallback path: `braun`, `grün`, `schön`, `dünn`. None of them are verbs
+#         — they're all adjective lemmas from the colors/descriptive tables.
+#         Hand-passed back to `pos: adjective`.
+#       • Two "double entries" cells — `dunkelblau / hellblau` and `lila / violett`
+#         — were captured as one `pos: phrase` row with a double-space artefact
+#         ("dunkelblau  hellblau"). Split into two adjective entries each.
+#       • `die Stiefel (pl.) / der Stiefel` — the clothing-table cell starts with
+#         "die Stiefel (pl.)" (the plural-first listing the lesson uses), but the
+#         singular masculine "der Stiefel" is the lemma form learners actually
+#         need. Hand-corrected to `der Stiefel, Stiefel` (matching the A1/09
+#         convention: singular masculine, plural = singular).
+#       • `der Schal` was captured with `plural: null` + `needsReview: true` +
+#         "check plural" because the lesson uses `der Schal, -s / -e` (either
+#         plural acceptable). Set to `Schals` (matches A1/09).
+#
+# Section structure in lesson.md:
+#   Kleidungsstücke (clothing items)        — 16 nouns from §4.1
+#   Farben und Muster (colors & patterns)   — 16 adjective lemmas from §4.2
+#                                             (2 split cells → 18 entries)
+#   Beschreibende Adjektive (descriptive)   — 16 adjective lemmas from §4.3
+lesson: A2/08
+
+entries:
+  # ── Kleidungsstücke (clothing items) ───────────────────────────────────────
+  # All nouns tagged [clothing, concrete] per the A1/09 einkaufen convention.
+  # Plurals hand-verified (the parser captured most correctly; umlaut plurals
+  # for Mantel/Rock/Anzug carry the explicit form from the lesson).
+  - de: Jacke
+    article: die
+    plural: Jacken
+    en: jacket
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Ich nehme die schwarze Jacke."
+  - de: Mantel
+    article: der
+    plural: Mäntel
+    en: coat
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Der warme Mantel passt gut."
+  - de: Hemd
+    article: das
+    plural: Hemden
+    en: shirt
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Ein weißes Hemd ist klassisch."
+  - de: Bluse
+    article: die
+    plural: Blusen
+    en: blouse
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Die elegante Bluse passt zur Jacke."
+  - de: Pullover
+    article: der
+    plural: Pullover
+    en: sweater, pullover
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Schal
+    article: der
+    plural: Schals
+    en: scarf
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Der grüne Schal ist schick."
+  - de: Hose
+    article: die
+    plural: Hosen
+    en: trousers, pants
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Eine schwarze Hose und ein weißes Hemd."
+  - de: Rock
+    article: der
+    plural: Röcke
+    en: skirt
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Kleid
+    article: das
+    plural: Kleider
+    en: dress
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Das rote Kleid ist schön."
+  - de: Anzug
+    article: der
+    plural: Anzüge
+    en: suit
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Krawatte
+    article: die
+    plural: Krawatten
+    en: tie
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Schuh
+    article: der
+    plural: Schuhe
+    en: shoe
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Stiefel
+    article: der
+    plural: Stiefel
+    en: boot
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Die neuen Stiefel sind bequem."
+  - de: Mütze
+    article: die
+    plural: Mützen
+    en: beanie, woolly hat
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Kragen
+    article: der
+    plural: Kragen
+    en: collar
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+  - de: Tasche
+    article: die
+    plural: Taschen
+    en: bag; pocket
+    pos: noun
+    tags: [clothing, concrete]
+    core: true
+    example: "Die schwarze Tasche ist neu."
+
+  # ── Farben und Muster (colors & patterns) ──────────────────────────────────
+  # Adjectives in German — no article, no plural in predicative use. Tagged
+  # [color, adjective, declension]: semantic category (color), pos tag
+  # (adjective), and this lesson's grammar focus (weak/mixed declension).
+  # The lesson's Lerntipp makes the declension use explicit:
+  #   "der **rote** Schal, ein **rotes** Kleid".
+  - de: schwarz
+    article: null
+    plural: null
+    en: black
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+    example: "Die Jacke ist schwarz."
+  - de: weiß
+    article: null
+    plural: null
+    en: white
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+    example: "Das weiße Hemd ist schön."
+  - de: grau
+    article: null
+    plural: null
+    en: grey
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+  - de: braun
+    article: null
+    plural: null
+    en: brown
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+  - de: blau
+    article: null
+    plural: null
+    en: blue
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+    example: "Der blaue Schal passt gut."
+  - de: marineblau
+    article: null
+    plural: null
+    en: navy blue
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+  - de: dunkelblau
+    article: null
+    plural: null
+    en: dark blue
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+  - de: hellblau
+    article: null
+    plural: null
+    en: light blue
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+  - de: rot
+    article: null
+    plural: null
+    en: red
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+    example: "Der rote Kragen ist hübsch."
+  - de: grün
+    article: null
+    plural: null
+    en: green
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+    example: "Der grüne Schal passt perfekt."
+  - de: gelb
+    article: null
+    plural: null
+    en: yellow
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+  - de: orange
+    article: null
+    plural: null
+    en: orange
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+  - de: lila
+    article: null
+    plural: null
+    en: purple
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+  - de: violett
+    article: null
+    plural: null
+    en: violet
+    pos: adjective
+    tags: [color, adjective, declension]
+    core: true
+  - de: gestreift
+    article: null
+    plural: null
+    en: striped
+    pos: adjective
+    tags: [pattern, adjective, declension]
+    core: true
+  - de: kariert
+    article: null
+    plural: null
+    en: checked, plaid
+    pos: adjective
+    tags: [pattern, adjective, declension]
+    core: true
+  - de: gepunktet
+    article: null
+    plural: null
+    en: polka-dotted
+    pos: adjective
+    tags: [pattern, adjective, declension]
+    core: true
+  - de: einfarbig
+    article: null
+    plural: null
+    en: plain, single-color
+    pos: adjective
+    tags: [pattern, adjective, declension]
+    core: true
+
+  # ── Beschreibende Adjektive (descriptive adjectives) ──────────────────────
+  # Tag taxonomy [adjective, declension] — every adjective in this lesson is
+  # studied for its weak/mixed declension endings. Note the lesson's explicit
+  # warning about *dunkel* / *teuer*: "Wenn eine Endung kommt, fällt das
+  # innere -e- weg — ein dunkles Hemd". The bare form is the dictionary lemma.
+  - de: elegant
+    article: null
+    plural: null
+    en: elegant
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+    example: "Die elegante Bluse passt gut."
+  - de: modisch
+    article: null
+    plural: null
+    en: fashionable
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+  - de: klassisch
+    article: null
+    plural: null
+    en: classic
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+    example: "Ein klassischer Anzug."
+  - de: sportlich
+    article: null
+    plural: null
+    en: sporty, casual
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+  - de: schick
+    article: null
+    plural: null
+    en: stylish, chic
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+    example: "Du siehst richtig schick aus."
+  - de: hübsch
+    article: null
+    plural: null
+    en: pretty, nice
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+  - de: schön
+    article: null
+    plural: null
+    en: beautiful, nice
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+    example: "Das schöne Kleid gefällt mir."
+  - de: praktisch
+    article: null
+    plural: null
+    en: practical
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+  - de: bequem
+    article: null
+    plural: null
+    en: comfortable
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+    example: "Die bequemen Schuhe passen gut."
+  - de: eng
+    article: null
+    plural: null
+    en: tight, narrow
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+  - de: weit
+    article: null
+    plural: null
+    en: loose, wide
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+  - de: leicht
+    article: null
+    plural: null
+    en: light (weight or color)
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+  - de: dunkel
+    article: null
+    plural: null
+    en: dark
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+    example: "Ein dunkles Hemd, bitte."
+  - de: hell
+    article: null
+    plural: null
+    en: light, bright
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+  - de: warm
+    article: null
+    plural: null
+    en: warm
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
+  - de: dünn
+    article: null
+    plural: null
+    en: thin
+    pos: adjective
+    tags: [adjective, declension]
+    core: true
