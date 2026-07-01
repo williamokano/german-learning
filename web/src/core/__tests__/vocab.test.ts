@@ -419,6 +419,42 @@ describe('parseWortschatz section handling', () => {
     expect(by('forschen')).toMatchObject({ pos: 'verb', en: 'research' });
   });
 
+  it('the noun-verb-pair meaning column overrides a verb\'s own misread annotation paren (V3.1)', () => {
+    // Regression test for a bug found reviewing B2/02: "annehmen ⚠️ (sep.)" gets
+    // parsed by parseToken(cells[1]) BEFORE the row-parser's meaning fallback runs,
+    // and "(sep.)" is misread as the verb's own gloss (englishGloss() accepts any
+    // lowercase-starting paren). Since `en` was then non-empty, the real meaning
+    // from column 3 never got applied. Fixed by making the meaning column always
+    // win, not just when `en` is still empty.
+    const md = [
+      '## Wortschatz',
+      '| Nomen | Verb | English |',
+      '|---|---|---|',
+      '| die Hypothese, -n | annehmen ⚠️ (sep.) | hypothesis |',
+    ].join('\n');
+    const r = parseWortschatz(md, 'B2/02');
+    const by = (de: string) => r.entries.find(e => e.de === de);
+    expect(by('annehmen')).toMatchObject({ pos: 'verb', en: 'hypothesis', needsReview: false });
+  });
+
+  it('prefers a cell starting with "to " over a shorter Partizip II cell for the English gloss (V3.1)', () => {
+    // Regression test for a bug found reviewing B2/03: a 3-col `Verb | Partizip II |
+    // English` table sometimes picked the (shorter) Partizip II form as the gloss
+    // instead of the real English column, purely because it happened to be fewer
+    // characters than the English phrase ("verpasst" vs. "to miss (a chance, a
+    // train)"). A cell starting with "to " is an unambiguous verb-gloss marker that
+    // never appears in German, so it now wins regardless of length.
+    const md = [
+      '## Wortschatz',
+      '| Verb | Partizip II | English |',
+      '|---|---|---|',
+      '| verpassen | verpasst | to miss (a chance, a train) |',
+    ].join('\n');
+    const r = parseWortschatz(md, 'B2/03');
+    const by = (de: string) => r.entries.find(e => e.de === de);
+    expect(by('verpassen')).toMatchObject({ pos: 'verb', en: 'to miss (a chance, a train)' });
+  });
+
   it('extracts a connector table (Konnektor | Funktion | Beispiel) (V3)', () => {
     // Was dropped entirely pre-V3 (no recognized header shape).
     const md = [
