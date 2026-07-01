@@ -1,0 +1,425 @@
+# Reviewed from A1/07 lesson.md §4 Wortschatz. Hand-written: the parser dropped
+# the bulk (Wortschatz here uses four 2-column and one 3-column tables whose
+# headers — "Beruf (m) | Beruf (f) | English", "German | English" — don't match
+# the 3-gender pattern, plus an inline-bold verb list the parser doesn't
+# recognise in this layout). Every entry below was added by hand.
+#
+# Section headers in lesson.md:
+#   Berufe (professions, m/f pairs)               — 12 + 12 entries
+#   Arbeitsplatz (workplace nouns)                —  8 entries
+#   Schulfächer (school subjects)                 — 10 +  2 abbrev entries
+#   Verben rund um Arbeit und Lernen              — 10 entries
+lesson: A1/07
+
+entries:
+  # ── Berufe — männlich (male professions) ───────────────────────────────────
+  # Umlaut plurals noted with `needsReview`-style care: written explicitly.
+  # All plurals match Duden (Lehrer, Ingenieure, Journalisten, etc.).
+  - de: Lehrer
+    article: der
+    plural: Lehrer
+    en: teacher (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+    example: "Ich bin Lehrer."
+  - de: Arzt
+    article: der
+    plural: Ärzte
+    en: doctor (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+    example: "Er ist Arzt von Beruf."
+  - de: Ingenieur
+    article: der
+    plural: Ingenieure
+    en: engineer (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Koch
+    article: der
+    plural: Köche
+    en: cook / chef (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Verkäufer
+    article: der
+    plural: Verkäufer
+    en: sales assistant (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Kellner
+    article: der
+    plural: Kellner
+    en: waiter (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Programmierer
+    article: der
+    plural: Programmierer
+    en: programmer (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Journalist
+    article: der
+    plural: Journalisten
+    en: journalist (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Student
+    article: der
+    plural: Studenten
+    en: university student (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Schüler
+    article: der
+    plural: Schüler
+    en: school pupil (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Chef
+    article: der
+    plural: Chefs
+    en: boss (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Kollege
+    article: der
+    plural: Kollegen
+    en: colleague (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+
+  # ── Berufe — weiblich (female professions) ─────────────────────────────────
+  # All -in suffix; plural in -innen.
+  - de: Lehrerin
+    article: die
+    plural: Lehrerinnen
+    en: teacher (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+    example: "Ich bin Lehrerin."
+  - de: Ärztin
+    article: die
+    plural: Ärztinnen
+    en: doctor (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Ingenieurin
+    article: die
+    plural: Ingenieurinnen
+    en: engineer (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Köchin
+    article: die
+    plural: Köchinnen
+    en: cook / chef (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Verkäuferin
+    article: die
+    plural: Verkäuferinnen
+    en: sales assistant (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Kellnerin
+    article: die
+    plural: Kellnerinnen
+    en: waitress
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Programmiererin
+    article: die
+    plural: Programmiererinnen
+    en: programmer (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Journalistin
+    article: die
+    plural: Journalistinnen
+    en: journalist (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Studentin
+    article: die
+    plural: Studentinnen
+    en: university student (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Schülerin
+    article: die
+    plural: Schülerinnen
+    en: school pupil (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Chefin
+    article: die
+    plural: Chefinnen
+    en: boss (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Kollegin
+    article: die
+    plural: Kolleginnen
+    en: colleague (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+
+  # ── Arbeitsplatz (workplace nouns) ─────────────────────────────────────────
+  # Mostly Komposita (Kranken + Haus = Krankenhaus) — concrete, drawable.
+  - de: Büro
+    article: das
+    plural: Büros
+    en: office
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Ich arbeite im Büro."
+  - de: Schule
+    article: die
+    plural: Schulen
+    en: school
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+  - de: Universität
+    article: die
+    plural: Universitäten
+    en: university
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Ich studiere an der Universität."
+  - de: Uni
+    article: die
+    plural: Unis
+    en: university (colloquial)
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+  - de: Krankenhaus
+    article: das
+    plural: Krankenhäuser
+    en: hospital
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Sie arbeitet im Krankenhaus."
+  - de: Restaurant
+    article: das
+    plural: Restaurants
+    en: restaurant
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+  - de: Firma
+    article: die
+    plural: Firmen
+    en: company / firm
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Ich arbeite bei einer Firma."
+  - de: Betrieb
+    article: der
+    plural: Betriebe
+    en: business / plant
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+  - de: Geschäft
+    article: das
+    plural: Geschäfte
+    en: shop / business
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+
+  # ── Schulfächer (school subjects) ──────────────────────────────────────────
+  # All mass nouns in German — used without article ("Mathematik ist schwer",
+  # "Ich lerne Englisch"). Same pattern as the language names in A1/01.
+  - de: Deutsch
+    article: null
+    plural: null
+    en: German (school subject)
+    pos: noun
+    tags: [subject]
+    core: true
+    example: "Deutsch ist mein Lieblingsfach."
+  - de: Mathematik
+    article: null
+    plural: null
+    en: mathematics
+    pos: noun
+    tags: [subject]
+    core: true
+  - de: Mathe
+    article: null
+    plural: null
+    en: maths (colloquial)
+    pos: noun
+    tags: [subject]
+    core: true
+    example: "Mathe ist schwer."
+  - de: Englisch
+    article: null
+    plural: null
+    en: English (school subject)
+    pos: noun
+    tags: [subject]
+    core: true
+  - de: Geschichte
+    article: null
+    plural: null
+    en: history
+    pos: noun
+    tags: [subject]
+    core: true
+  - de: Biologie
+    article: null
+    plural: null
+    en: biology
+    pos: noun
+    tags: [subject]
+    core: true
+  - de: Sport
+    article: null
+    plural: null
+    en: PE / sport
+    pos: noun
+    tags: [subject]
+    core: true
+  - de: Musik
+    article: null
+    plural: null
+    en: music
+    pos: noun
+    tags: [subject]
+    core: true
+  - de: Informatik
+    article: null
+    plural: null
+    en: computer science
+    pos: noun
+    tags: [subject]
+    core: true
+  - de: Kunst
+    article: null
+    plural: null
+    en: art
+    pos: noun
+    tags: [subject]
+    core: true
+  - de: Physik
+    article: null
+    plural: null
+    en: physics
+    pos: noun
+    tags: [subject]
+    core: true
+
+  # ── Verben rund um Arbeit und Lernen ───────────────────────────────────────
+  # All infinitives; no article, no plural. Includes three separable verbs
+  # (vorbereiten, anmelden, aufhören) — the prefix is a usage note, not part of
+  # the lemma.
+  - de: arbeiten
+    article: null
+    plural: null
+    en: to work
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich arbeite bei einer Firma."
+  - de: lernen
+    article: null
+    plural: null
+    en: to learn / study
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich lerne Deutsch."
+  - de: studieren
+    article: null
+    plural: null
+    en: to study (at university)
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: unterrichten
+    article: null
+    plural: null
+    en: to teach
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: beginnen
+    article: null
+    plural: null
+    en: to begin
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Der Kurs beginnt um vier Uhr."
+  - de: vorbereiten
+    article: null
+    plural: null
+    en: to prepare
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Ich muss das Meeting vorbereiten."
+  - de: anmelden
+    article: null
+    plural: null
+    en: to register / sign up
+    pos: verb
+    tags: [verb, separable, reflexive]
+    core: true
+    example: "Ich melde mich für den Kurs an."
+  - de: aufhören
+    article: null
+    plural: null
+    en: to stop / finish
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Er muss früher aufhören."
+  - de: verdienen
+    article: null
+    plural: null
+    en: to earn
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: erklären
+    article: null
+    plural: null
+    en: to explain
+    pos: verb
+    tags: [verb]
+    core: true
