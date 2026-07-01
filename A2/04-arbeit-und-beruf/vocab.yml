@@ -1,0 +1,430 @@
+# Reviewed from A2/04 lesson.md §4 Wortschatz.
+# The V2 parser captured 51 entries from the three tables (Berufe m/f pairs,
+# Arbeitswelt nouns, Verben). Hand-review findings:
+#   - Spurious phrase entry: the n-Deklination footnote paragraph ("`der Journalist`
+#     and `der Student` are n-Deklination nouns…") was scraped as a single `phrase`
+#     entry. Deleted.
+#   - Missing feminine forms: the parser does not split cells with the slash
+#     notation `der Kollege, -n / die Kollegin, -nen`. Hand-added Kollegin and
+#     Chefin (both appear in §1 dialogs and §7 reading text).
+#   - Plural needsReview false alarms: Firma→Firmen, Kollege→Kollegen, Chef→Chefs.
+#     All are listed in §4 with the correct plural; just not what the parser
+#     guessed (null).
+#   - Verb English gloss: the parser captured Perfekt forms (e.g. "hat gekündigt")
+#     or parenthetical uses (e.g. "als + job", "sich") instead of the English
+#     column. Hand-fixed all 10 verbs from the third column.
+#   - n-Deklination flag: Journalist and Student get an extra `weak-noun` tag
+#     so downstream cards can highlight the genitive/dative -en ending
+#     (fully taught at B1).
+#
+# Section headers in lesson.md:
+#   Berufe (m/f pairs, 12 + 12)           — 24 entries
+#   Arbeitswelt (workplace, 14 nouns + 2 split-form rows) — 16 entries
+#   Verben zur Arbeit                      — 10 entries
+#                                        Total: 50 entries
+lesson: A2/04
+
+entries:
+  # ── Berufe — männlich (male professions) ───────────────────────────────────
+  # All plurals match Duden. Umlaut plurals spelled out (Köche, Ärzte, Ingenieure).
+  - de: Lehrer
+    article: der
+    plural: Lehrer
+    en: teacher
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+    example: "Ich bin Lehrer."
+  - de: Ingenieur
+    article: der
+    plural: Ingenieure
+    en: engineer
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Arzt
+    article: der
+    plural: Ärzte
+    en: doctor
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+    example: "Er ist Arzt von Beruf."
+  - de: Krankenpfleger
+    article: der
+    plural: Krankenpfleger
+    en: nurse (male)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Verkäufer
+    article: der
+    plural: Verkäufer
+    en: sales assistant
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Koch
+    article: der
+    plural: Köche
+    en: cook, chef
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Mechaniker
+    article: der
+    plural: Mechaniker
+    en: mechanic
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Programmierer
+    article: der
+    plural: Programmierer
+    en: programmer
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Buchhalter
+    article: der
+    plural: Buchhalter
+    en: accountant
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Manager
+    article: der
+    plural: Manager
+    en: manager
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  # ⚠ n-Deklination: add -en in all cases except Nominativ. Fully taught at B1;
+  # at A2 treat as a chunk. The plural form Journalisten is regular, but the
+  # singular takes -en in Gen./Dat./Akk. (den Journalisten, des Journalisten…).
+  - de: Journalist
+    article: der
+    plural: Journalisten
+    en: journalist
+    pos: noun
+    tags: [profession, concrete, weak-noun]
+    core: true
+  - de: Student
+    article: der
+    plural: Studenten
+    en: university student
+    pos: noun
+    tags: [profession, concrete, weak-noun]
+    core: true
+    example: "Ich bin Student."
+
+  # ── Berufe — weiblich (female professions) ─────────────────────────────────
+  # All -in suffix; plural in -innen.
+  - de: Lehrerin
+    article: die
+    plural: Lehrerinnen
+    en: teacher (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+    example: "Ich bin Lehrerin."
+  - de: Ingenieurin
+    article: die
+    plural: Ingenieurinnen
+    en: engineer (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Ärztin
+    article: die
+    plural: Ärztinnen
+    en: doctor (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Krankenpflegerin
+    article: die
+    plural: Krankenpflegerinnen
+    en: nurse (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Verkäuferin
+    article: die
+    plural: Verkäuferinnen
+    en: sales assistant (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Köchin
+    article: die
+    plural: Köchinnen
+    en: cook, chef (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Mechanikerin
+    article: die
+    plural: Mechanikerinnen
+    en: mechanic (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Programmiererin
+    article: die
+    plural: Programmiererinnen
+    en: programmer (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+    example: "Meine Kollegin arbeitet als Programmiererin."
+  - de: Buchhalterin
+    article: die
+    plural: Buchhalterinnen
+    en: accountant (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Managerin
+    article: die
+    plural: Managerinnen
+    en: manager (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Journalistin
+    article: die
+    plural: Journalistinnen
+    en: journalist (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+  - de: Studentin
+    article: die
+    plural: Studentinnen
+    en: university student (female)
+    pos: noun
+    tags: [profession, concrete]
+    core: true
+    example: "Ich bin Studentin."
+
+  # ── Arbeitswelt — nouns (the workplace) ────────────────────────────────────
+  # Mostly Komposita (Vorstellungs+gespräch, Bewerbungs+unterlagen) and chunked
+  # m/f pairs (Kollege/Kollegin, Chef/Chefin). Concrete = drawable.
+  - de: Stelle
+    article: die
+    plural: Stellen
+    en: position, job post
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Ich bewerbe mich für die Stelle."
+  - de: Bewerbung
+    article: die
+    plural: Bewerbungen
+    en: application
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Ich schicke meine Bewerbung."
+  - de: Lebenslauf
+    article: der
+    plural: Lebensläufe
+    en: CV, résumé
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Mein Lebenslauf ist auf Deutsch."
+  - de: Vorstellungsgespräch
+    article: das
+    plural: Vorstellungsgespräche
+    en: job interview
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+  - de: Arbeitgeber
+    article: der
+    plural: Arbeitgeber
+    en: employer
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+  - de: Arbeitnehmer
+    article: der
+    plural: Arbeitnehmer
+    en: employee
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+  - de: Berufserfahrung
+    article: die
+    plural: null
+    en: professional experience
+    pos: noun
+    tags: [workplace]
+    core: true
+    example: "Ich habe drei Jahre Berufserfahrung."
+  - de: Arbeitszeit
+    article: die
+    plural: Arbeitszeiten
+    en: working hours
+    pos: noun
+    tags: [workplace]
+    core: true
+  - de: Gehalt
+    article: das
+    plural: Gehälter
+    en: salary
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Das Gehalt ist gut."
+  - de: Pause
+    article: die
+    plural: Pausen
+    en: break
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Ich mache eine Pause."
+  - de: Büro
+    article: das
+    plural: Büros
+    en: office
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Ich arbeite im Büro."
+  - de: Firma
+    article: die
+    plural: Firmen
+    en: company, firm
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Ich arbeite bei einer Firma."
+  - de: Abteilung
+    article: die
+    plural: Abteilungen
+    en: department
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+  # Kollege is itself an n-Deklination weak noun (Gen./Dat./Akk. add -en):
+  # "mit dem Kollegen", "des Kollegen". Plural Kollegen is regular.
+  - de: Kollege
+    article: der
+    plural: Kollegen
+    en: colleague (male)
+    pos: noun
+    tags: [workplace, concrete, weak-noun]
+    core: true
+  - de: Kollegin
+    article: die
+    plural: Kolleginnen
+    en: colleague (female)
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Meine Kollegin arbeitet als Programmiererin."
+  - de: Chef
+    article: der
+    plural: Chefs
+    en: boss (male)
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+  - de: Chefin
+    article: die
+    plural: Chefinnen
+    en: boss (female)
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+    example: "Die Chefin ist sehr nett."
+  - de: Besprechung
+    article: die
+    plural: Besprechungen
+    en: meeting
+    pos: noun
+    tags: [workplace, concrete]
+    core: true
+
+  # ── Verben zur Arbeit (work verbs) ─────────────────────────────────────────
+  # English glosses from the lesson's third column. Perfekt forms noted in
+  # the example field where they're irregular or learner-relevant.
+  - de: arbeiten
+    article: null
+    plural: null
+    en: to work (as a job)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich arbeite als Lehrerin."
+  - de: bewerben
+    article: null
+    plural: null
+    en: to apply (for a job)
+    pos: verb
+    tags: [verb, reflexive]
+    core: true
+    example: "Ich bewerbe mich für die Stelle."
+  - de: einreichen
+    article: null
+    plural: null
+    en: to submit
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Ich reiche die Unterlagen ein."
+  - de: verdienen
+    article: null
+    plural: null
+    en: to earn
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: kündigen
+    article: null
+    plural: null
+    en: to resign, to terminate
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Er hat gestern gekündigt."
+  - de: einstellen
+    article: null
+    plural: null
+    en: to hire, to employ
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: anfangen
+    article: null
+    plural: null
+    en: to start, to begin
+    pos: verb
+    tags: [verb, separable]
+    core: true
+    example: "Die Arbeit fängt um neun Uhr an."
+  - de: aufhören
+    article: null
+    plural: null
+    en: to stop, to finish
+    pos: verb
+    tags: [verb, separable]
+    core: true
+  - de: beschreiben
+    article: null
+    plural: null
+    en: to describe
+    pos: verb
+    tags: [verb, inseparable]
+    core: true
+  - de: vereinbaren
+    article: null
+    plural: null
+    en: to arrange, to agree on
+    pos: verb
+    tags: [verb, inseparable]
+    core: true
