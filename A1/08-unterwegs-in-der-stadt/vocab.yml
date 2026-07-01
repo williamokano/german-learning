@@ -1,0 +1,427 @@
+# Reviewed from A1/08 lesson.md §4 Wortschatz. Bootstrapped with build/import-vocab.ts.
+#
+# Section headers in lesson.md:
+#   Verkehrsmittel (means of transport) — 8 nouns (der/die/das) + 1 phrase (zu Fuß)
+#   Verkehrsinfrastruktur                — 6 nouns (Bahnhof, Haltestelle, Flughafen, Fahrkarte, Fahrt, Linie)
+#   In der Stadt (city places)           — 18 nouns (incl. Post no-pl + Bank split from the parser's
+#                                         merged "Post (no pl.) die Bank" row; Museum plural Museen
+#                                         added by hand because the parser can't extract a "Museen" suffix)
+#   Richtungen (directions)             — 5 adverbs (geradeaus/links/rechts/direkt) + 1 adjective
+#                                         (weit) + 1 preposition (bis) + 1 phrase (da vorne / da hinten)
+#   Verben (verbs)                      — 5 trennbare Verben (ein|steigen, aus|steigen, um|steigen,
+#                                         ab|fahren, an|kommen) + 6 regular verbs (dauern, warten,
+#                                         nehmen, fahren, gehen, suchen)
+lesson: A1/08
+
+entries:
+  # ── Verkehrsmittel — der (m) ────────────────────────────────────────────────
+  - de: Bus
+    article: der
+    plural: Busse
+    en: bus
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+    example: "Ich fahre mit dem Bus."
+  - de: Zug
+    article: der
+    plural: Züge
+    en: train
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+    example: "Der Zug fährt um zehn ab."
+  - de: Bahnhof
+    article: der
+    plural: Bahnhöfe
+    en: train station
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Ich gehe zum Bahnhof."
+  - de: Flughafen
+    article: der
+    plural: Flughäfen
+    en: airport
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Wir fahren zum Flughafen."
+  - de: Platz
+    article: der
+    plural: Plätze
+    en: square; plaza
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Der Platz ist bei der Kirche."
+  - de: Supermarkt
+    article: der
+    plural: Supermärkte
+    en: supermarket
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Ich gehe zum Supermarkt."
+  - de: Park
+    article: der
+    plural: Parks
+    en: park
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Die Kinder spielen im Park."
+  - de: Weg
+    article: der
+    plural: Wege
+    en: way; path
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Der Weg dauert zehn Minuten."
+
+  # ── Verkehrsmittel — die (f) ───────────────────────────────────────────────
+  - de: U-Bahn
+    article: die
+    plural: U-Bahnen
+    en: subway; underground rail
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+    example: "Ich fahre mit der U-Bahn."
+  - de: S-Bahn
+    article: die
+    plural: S-Bahnen
+    en: suburban rail (S-Bahn)
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+  - de: Straßenbahn
+    article: die
+    plural: Straßenbahnen
+    en: tram; streetcar
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+  - de: Haltestelle
+    article: die
+    plural: Haltestellen
+    en: stop (bus/tram stop)
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Die Haltestelle ist hier bei der Post."
+  - de: Fahrkarte
+    article: die
+    plural: Fahrkarten
+    en: ticket (for transport)
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+    example: "Ich kaufe eine Fahrkarte."
+  - de: Fahrt
+    article: die
+    plural: Fahrten
+    en: trip; ride
+    pos: noun
+    tags: [transport]
+    core: true
+    example: "Die Fahrt dauert zwanzig Minuten."
+  - de: Linie
+    article: die
+    plural: Linien
+    en: line (e.g. bus line)
+    pos: noun
+    tags: [transport]
+    core: true
+    example: "Nehmen Sie die Linie 5."
+
+  # ── In der Stadt — die (f) ─────────────────────────────────────────────────
+  - de: Stadt
+    article: die
+    plural: Städte
+    en: city; town
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Berlin ist eine große Stadt."
+  - de: Straße
+    article: die
+    plural: Straßen
+    en: street
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "die erste Straße links."
+  - de: Ampel
+    article: die
+    plural: Ampeln
+    en: traffic light
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Warten Sie an der Ampel."
+  - de: Kreuzung
+    article: die
+    plural: Kreuzungen
+    en: crossroads; intersection
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Gehen Sie bis zur Kreuzung."
+  - de: Brücke
+    article: die
+    plural: Brücken
+    en: bridge
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Post
+    article: die
+    plural: null
+    en: post office
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Die Haltestelle ist bei der Post."
+  - de: Bank
+    article: die
+    plural: Banken
+    en: bank
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Er hat einen Termin bei der Bank."
+  - de: Apotheke
+    article: die
+    plural: Apotheken
+    en: pharmacy
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Ich gehe zur Apotheke."
+  - de: Kirche
+    article: die
+    plural: Kirchen
+    en: church
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Die Haltestelle ist an der Kirche."
+
+  # ── Verkehrsmittel + Stadt — das (n) ───────────────────────────────────────
+  - de: Auto
+    article: das
+    plural: Autos
+    en: car
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+    example: "Ich fahre mit dem Auto."
+  - de: Fahrrad
+    article: das
+    plural: Fahrräder
+    en: bicycle; bike
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+    example: "Ich fahre mit dem Fahrrad."
+  - de: Taxi
+    article: das
+    plural: Taxis
+    en: taxi
+    pos: noun
+    tags: [transport, concrete]
+    core: true
+    example: "Ich nehme ein Taxi."
+  - de: Krankenhaus
+    article: das
+    plural: Krankenhäuser
+    en: hospital
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Sie fährt zum Krankenhaus."
+  - de: Hotel
+    article: das
+    plural: Hotels
+    en: hotel
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Restaurant
+    article: das
+    plural: Restaurants
+    en: restaurant
+    pos: noun
+    tags: [place, concrete]
+    core: true
+  - de: Museum
+    article: das
+    plural: Museen
+    en: museum
+    pos: noun
+    tags: [place, concrete]
+    core: true
+    example: "Ich gehe zum Museum."
+
+  # ── Phrase (transport) ─────────────────────────────────────────────────────
+  - de: zu Fuß
+    article: null
+    plural: null
+    en: on foot
+    pos: phrase
+    tags: [transport]
+    core: true
+    example: "Ich gehe zu Fuß."
+
+  # ── Richtungen (directions) ────────────────────────────────────────────────
+  - de: geradeaus
+    article: null
+    plural: null
+    en: straight ahead
+    pos: adverb
+    tags: [adverb]
+    core: true
+    example: "Gehen Sie geradeaus."
+  - de: links
+    article: null
+    plural: null
+    en: left (direction)
+    pos: adverb
+    tags: [adverb]
+    core: true
+    example: "Biegen Sie links ab."
+  - de: rechts
+    article: null
+    plural: null
+    en: right (direction)
+    pos: adverb
+    tags: [adverb]
+    core: true
+    example: "Biegen Sie rechts ab."
+  - de: weit
+    article: null
+    plural: null
+    en: far; a long way
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Ist es weit?"
+  - de: direkt
+    article: null
+    plural: null
+    en: direct; directly
+    pos: adverb
+    tags: [adverb]
+    core: true
+    example: "Das Museum ist direkt bei der Brücke."
+  - de: bis
+    article: null
+    plural: null
+    en: until; up to; as far as
+    pos: preposition
+    tags: [preposition]
+    core: true
+    example: "Gehen Sie bis zur Ampel."
+  - de: da vorne / da hinten
+    article: null
+    plural: null
+    en: up there / back there
+    pos: phrase
+    tags: [direction]
+    core: true
+    example: "Die Haltestelle ist da vorne."
+
+  # ── Verben — trennbar (separable) ──────────────────────────────────────────
+  # Prefix flies to the end of the clause (Lektion 5). a→ä stem-change flagged in note.
+  - de: ein|steigen
+    article: null
+    plural: null
+    en: to board; to get on (vehicle)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich steige in den Bus ein."
+  - de: aus|steigen
+    article: null
+    plural: null
+    en: to get off (vehicle)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich steige am Bahnhof aus."
+  - de: um|steigen
+    article: null
+    plural: null
+    en: to change (transport)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich steige am Dom um."
+  - de: ab|fahren
+    article: null
+    plural: null
+    en: to depart (train, bus)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Der Zug fährt um zehn ab."
+  - de: an|kommen
+    article: null
+    plural: null
+    en: to arrive
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir kommen um acht an."
+
+  # ── Verben — regular / strong / mixed ──────────────────────────────────────
+  - de: dauern
+    article: null
+    plural: null
+    en: to last; to take (time)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wie lange dauert das?"
+  - de: warten
+    article: null
+    plural: null
+    en: to wait (auf + acc)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Er wartet auf den Bus."
+  - de: nehmen
+    article: null
+    plural: null
+    en: to take
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Nehmen Sie die Linie 5."
+  - de: fahren
+    article: null
+    plural: null
+    en: to go (by vehicle); to drive
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich fahre mit dem Bus."
+  - de: gehen
+    article: null
+    plural: null
+    en: to go (on foot); to walk
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich gehe zu Fuß."
+  - de: suchen
+    article: null
+    plural: null
+    en: to look for; to search for
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich suche das Museum."
