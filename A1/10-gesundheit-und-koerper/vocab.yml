@@ -1,0 +1,436 @@
+# Reviewed from A1/10 lesson.md §4 Wortschatz.
+# Note: the importer dropped the body-parts table — §4 advertises it with a plain
+# two-column "German | English" header (no der/die/das), so it is classified as a
+# non-gender table and skipped. Every entry below was added by hand from §4.
+# Tag taxonomy mirrors the A1/03 / A1/01 / A1/02 pilots (issue #337).
+#
+# Section headers in lesson.md:
+#   Der Körper (body parts)              — 20 nouns
+#   Krankheiten und Symptome (illnesses) — 6 mass nouns + 6 plural-only pain-compounds + 3 adjectives
+#   Im Gesundheitswesen (healthcare)     — 8 nouns (Arzt/Ärztin as separate articles)
+#   Verben (verbs)                       — 10 verbs (incl. separable + reflexive + 2 irregular ⚠️)
+lesson: A1/10
+
+entries:
+  # ── Der Körper (body parts) ────────────────────────────────────────────────
+  # All concrete — picture-association eligible in F6 drills (cf. A1/03 tag policy).
+  - de: Kopf
+    article: der
+    plural: Köpfe
+    en: head
+    pos: noun
+    tags: [body, concrete]
+    core: true
+    example: "Mein Kopf tut weh."
+  - de: Gesicht
+    article: das
+    plural: Gesichter
+    en: face
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Auge
+    article: das
+    plural: Augen
+    en: eye
+    pos: noun
+    tags: [body, concrete]
+    core: true
+    example: "Meine Augen tun weh."
+  - de: Ohr
+    article: das
+    plural: Ohren
+    en: ear
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Nase
+    article: die
+    plural: Nasen
+    en: nose
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Mund
+    article: der
+    plural: Münder
+    en: mouth
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Zahn
+    article: der
+    plural: Zähne
+    en: tooth
+    pos: noun
+    tags: [body, concrete]
+    core: true
+    example: "Meine Zähne tun weh."
+  - de: Hals
+    article: der
+    plural: Hälse
+    en: throat; neck
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Schulter
+    article: die
+    plural: Schultern
+    en: shoulder
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Arm
+    article: der
+    plural: Arme
+    en: arm
+    pos: noun
+    tags: [body, concrete]
+    core: true
+    example: "Ich bewege meinen Arm."
+  - de: Ellbogen
+    article: der
+    plural: null
+    en: elbow
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Hand
+    article: die
+    plural: Hände
+    en: hand
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Finger
+    article: der
+    plural: null
+    en: finger
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Rücken
+    article: der
+    plural: null
+    en: back
+    pos: noun
+    tags: [body, concrete]
+    core: true
+    example: "Ich habe Schmerzen in meinem Rücken."
+  - de: Bauch
+    article: der
+    plural: Bäuche
+    en: stomach; belly
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Bein
+    article: das
+    plural: Beine
+    en: leg
+    pos: noun
+    tags: [body, concrete]
+    core: true
+    example: "Meine Beine tun weh."
+  - de: Knie
+    article: das
+    plural: null
+    en: knee
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Fuß
+    article: der
+    plural: Füße
+    en: foot
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Brust
+    article: die
+    plural: Brüste
+    en: chest
+    pos: noun
+    tags: [body, concrete]
+    core: true
+  - de: Herz
+    article: das
+    plural: Herzen
+    en: heart
+    pos: noun
+    tags: [body, concrete]
+    core: true
+    example: "Mein Herz schlägt schnell."
+
+  # ── Krankheiten und Symptome — singular mass nouns ─────────────────────────
+  # All uncountable nouns used in the singular only (no plural). Tagged [symptom]
+  # (not concrete — they are conditions/states, not picturable objects).
+  - de: Erkältung
+    article: die
+    plural: Erkältungen
+    en: cold
+    pos: noun
+    tags: [symptom]
+    core: true
+    example: "Ich habe eine Erkältung."
+  - de: Grippe
+    article: die
+    plural: null
+    en: flu
+    pos: noun
+    tags: [symptom]
+    core: true
+  - de: Husten
+    article: der
+    plural: null
+    en: cough
+    pos: noun
+    tags: [symptom]
+    core: true
+    example: "Ich habe Husten."
+  - de: Schnupfen
+    article: der
+    plural: null
+    en: runny nose; head cold
+    pos: noun
+    tags: [symptom]
+    core: true
+  - de: Fieber
+    article: das
+    plural: null
+    en: fever
+    pos: noun
+    tags: [symptom]
+    core: true
+    example: "Ich habe 38 Grad Fieber."
+  # Schmerzen (plural-only noun = "pain" in general; the singular "Schmerz" exists
+  # in formal/poetic use but is not taught at A1).
+  - de: Schmerzen
+    article: die
+    plural: null
+    en: pain (plural only)
+    pos: noun
+    tags: [symptom]
+    core: true
+    example: "Ich habe Schmerzen."
+
+  # ── Krankheiten und Symptome — plural-only compound *-schmerzen ─────────────
+  # *Schmerzen is always plural (sag nie "die Kopfschmerz"). `plural: null` because
+  # the singular form is not in productive A1 use; same pattern as A1/02 Eltern /
+  # Geschwister / Großeltern.
+  - de: Kopfschmerzen
+    article: die
+    plural: null
+    en: headache (plural only)
+    pos: noun
+    tags: [symptom]
+    core: true
+    example: "Ich habe Kopfschmerzen."
+  - de: Halsschmerzen
+    article: die
+    plural: null
+    en: sore throat (plural only)
+    pos: noun
+    tags: [symptom]
+    core: true
+  - de: Bauchschmerzen
+    article: die
+    plural: null
+    en: stomachache (plural only)
+    pos: noun
+    tags: [symptom]
+    core: true
+  - de: Rückenschmerzen
+    article: die
+    plural: null
+    en: back pain (plural only)
+    pos: noun
+    tags: [symptom]
+    core: true
+  - de: Zahnschmerzen
+    article: die
+    plural: null
+    en: toothache (plural only)
+    pos: noun
+    tags: [symptom]
+    core: true
+
+  # ── Krankheiten und Symptome — predicative adjectives ──────────────────────
+  # Used after sein (predicative position); attributive endings come later.
+  - de: müde
+    article: null
+    plural: null
+    en: tired
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Ich bin müde."
+  - de: krank
+    article: null
+    plural: null
+    en: sick; ill
+    pos: adjective
+    tags: [adjective]
+    core: true
+    example: "Ich bin krank."
+  - de: gesund
+    article: null
+    plural: null
+    en: healthy
+    pos: adjective
+    tags: [adjective]
+    core: true
+
+  # ── Im Gesundheitswesen — nouns (healthcare setting) ───────────────────────
+  # Arzt / Ärztin are gender pairs, modelled the same way as A1/01 Personennationalität.
+  - de: Arzt
+    article: der
+    plural: Ärzte
+    en: doctor (male)
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+  - de: Ärztin
+    article: die
+    plural: Ärztinnen
+    en: doctor (female)
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+  - de: Krankenhaus
+    article: das
+    plural: Krankenhäuser
+    en: hospital
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+  - de: Apotheke
+    article: die
+    plural: Apotheken
+    en: pharmacy
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+    example: "Ich gehe in die Apotheke."
+  # Rezept = BOTH "prescription" AND "cooking recipe" (das Rezept is one of those
+  # elegant polysemes — context disambiguates). Gloss keeps both senses.
+  - de: Rezept
+    article: das
+    plural: Rezepte
+    en: prescription; recipe (cooking)
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+  - de: Tablette
+    article: die
+    plural: Tabletten
+    en: tablet; pill
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+    example: "Nehmen Sie diese Tabletten dreimal täglich."
+  - de: Medizin
+    article: die
+    plural: Medikamente
+    en: medicine (the drug itself)
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+    example: "Anna bringt Bruno die Medizin."
+  - de: Termin
+    article: der
+    plural: Termine
+    en: appointment
+    pos: noun
+    tags: [healthcare, concrete]
+    core: true
+  # Krankenversicherung is abstract (you can't touch it) → no concrete tag.
+  - de: Krankenversicherung
+    article: die
+    plural: Krankenversicherungen
+    en: health insurance
+    pos: noun
+    tags: [healthcare]
+    core: true
+
+  # ── Verben ─────────────────────────────────────────────────────────────────
+  # weh tun and schlafen carry the ⚠️ marker in lesson §4 (irregular / idiom).
+  # Verbs that are listed as reflexive in §4 (sich fühlen, sich ausruhen) are stored
+  # as bare infinitives with a usage note in the example; the lemma shape is what
+  # the deck needs to recall. Separable verbs keep the | spelling from the lesson.
+  - de: weh tun
+    article: null
+    plural: null
+    en: to hurt; to ache
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Mein Kopf tut weh. (plural: tun)"
+  - de: fühlen
+    article: null
+    plural: null
+    en: "to feel (reflexive: sich fühlen)"
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich fühle mich nicht gut."
+  - de: auf|machen
+    article: null
+    plural: null
+    en: to open (separable)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Mach den Mund auf!"
+  - de: zu|machen
+    article: null
+    plural: null
+    en: to close (separable)
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: aus|ruhen
+    article: null
+    plural: null
+    en: "to rest (reflexive separable: sich ausruhen)"
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ruh dich aus!"
+  - de: schlafen
+    article: null
+    plural: null
+    en: to sleep
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "du schläfst, er schläft (irregular like fahren, L6)."
+  - de: husten
+    article: null
+    plural: null
+    en: to cough
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: nehmen
+    article: null
+    plural: null
+    en: to take (a pill)
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Nimm diese Tabletten!"
+  - de: schreiben
+    article: null
+    plural: null
+    en: to write (a prescription)
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: untersuchen
+    article: null
+    plural: null
+    en: to examine
+    pos: verb
+    tags: [verb]
+    core: true
