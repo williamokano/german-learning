@@ -1,0 +1,402 @@
+# Reviewed from C1/07 lesson.md §4 Wortschatz.
+# Note: all tables use German-only paraphrase — no draft to patch, every entry
+# hand-derived and hand-translated from source. 5 of the 10 "Falsche Freunde für
+# Fortgeschrittene" (aktuell, sensibel, eventuell, realisieren, genial) duplicate
+# headwords already committed in C1/04 — only the 5 genuinely NEW false friends
+# are included here (bald, konservativ, liberal, sympathisieren, extravagant).
+# 1 of the register-spectrum idioms (den Löffel abgeben) duplicates C1/04's
+# Essen/Trinken motivkreis entry — excluded here too.
+#
+# Section headers in lesson.md:
+#   Nahezu-synonyme Verben (4 groups of 4)     — 16 verbs (meaning/context/connotation)
+#   Nahezu-synonyme Nomen (4 groups of 4)      — 16 nouns (meaning/collocation/connotation)
+#   Falsche Freunde für Fortgeschrittene       — 5 new (5 dup'd with C1/04, excluded)
+#   Konnotation und Register                    — 9 register-spectrum items (1 dup'd, excluded)
+lesson: C1/07
+
+entries:
+  # ── Nahezu-synonyme Verben — Gruppe 1: research/testing — 4 verbs ─────────
+  - de: untersuchen
+    article: null
+    plural: null
+    en: to investigate (systematically research a question)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-forschen]
+    core: true
+    example: "Kontext: Wissenschaft, Diagnostik, Behörden. Konnotation: sachlich, gründlich."
+  - de: erforschen
+    article: null
+    plural: null
+    en: to explore; to research (open up a new field of knowledge)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-forschen]
+    core: true
+    example: "Kontext: Wissenschaft, Anthropologie, Soziologie. Konnotation: gehoben, kreativ."
+  - de: prüfen
+    article: null
+    plural: null
+    en: to check; to examine (for correctness/suitability)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-forschen]
+    core: true
+    example: "Kontext: Recht, Studium, Verwaltung, Qualität. Konnotation: formal, kontrollierend."
+  - de: testen
+    article: null
+    plural: null
+    en: to test (try out under real conditions)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-forschen]
+    core: true
+    example: "Kontext: Software, Produkte, Verfahren. Konnotation: technisch, praktisch."
+
+  # ── Nahezu-synonyme Verben — Gruppe 2: avoiding/stopping — 4 verbs ─────────
+  - de: vermeiden
+    article: null
+    plural: null
+    en: to avoid (deliberately not do; stay away from)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-vermeiden]
+    core: true
+    example: "Kontext: Alltag, Strategie. Konnotation: neutral, willentlich."
+  - de: umgehen
+    article: null
+    plural: null
+    en: to circumvent (cleverly get around a point)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-vermeiden]
+    core: true
+    example: "Kontext: Strategie, Recht, Politik. Konnotation: negativ (oft: tricksen)."
+  - de: unterbinden
+    article: null
+    plural: null
+    en: to stop; to suppress (actively stop, not allow)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-vermeiden]
+    core: true
+    example: "Kontext: Behörden, Sicherheit, Eltern. Konnotation: stark, obrigkeitlich."
+  - de: unterlassen
+    article: null
+    plural: null
+    en: to refrain from (deliberately not do)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-vermeiden]
+    core: true
+    example: "Kontext: Recht, Verwaltung, Disziplin. Konnotation: neutral bis förmlich."
+
+  # ── Nahezu-synonyme Verben — Gruppe 3: permitting — 4 verbs ─────────────────
+  - de: erlauben
+    article: null
+    plural: null
+    en: to allow; to permit (officially grant, allow)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-erlauben]
+    core: true
+    example: "Kontext: Eltern, Behörden, Spielregeln. Konnotation: sachlich, alltagsnah."
+  - de: gestatten
+    article: null
+    plural: null
+    en: to permit (formal)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-erlauben]
+    core: true
+    example: "Kontext: gehoben, förmlich, Recht. Konnotation: sehr förmlich."
+  - de: zulassen
+    article: null
+    plural: null
+    en: to permit; to tolerate (not prevent)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-erlauben]
+    core: true
+    example: "Kontext: Recht, Verfahren, Prüfung. Konnotation: passiv, oft amtlich."
+  - de: einräumen
+    article: null
+    plural: null
+    en: to concede; to grant (admit, acknowledge)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-erlauben]
+    core: true
+    example: "Kontext: Diskussion, Argumentation. Konnotation: positiv, kooperativ."
+
+  # ── Nahezu-synonyme Verben — Gruppe 4: requiring — 4 verbs ──────────────────
+  - de: verlangen
+    article: null
+    plural: null
+    en: to demand (insistently ask for)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-verlangen]
+    core: true
+    example: "Kontext: Recht, Alltag, Forderung. Konnotation: stark, subjektiv."
+  - de: erfordern
+    article: null
+    plural: null
+    en: to require (make necessary)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-verlangen]
+    core: true
+    example: "Kontext: sachlich, fachlich, objektiv. Konnotation: neutral, formell."
+  - de: bedürfen
+    article: null
+    plural: null
+    en: to need (elevated register)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-verlangen]
+    core: true
+    example: "Kontext: Verwaltung, Recht, Medizin. Konnotation: sehr gehoben, altmodisch."
+  - de: voraussetzen
+    article: null
+    plural: null
+    en: to presuppose (take as given, expect)
+    pos: verb
+    tags: [verb, near-synonym, synonym-group-verlangen, separable]
+    core: true
+    example: "Kontext: Lehre, Bedingung. Konnotation: neutral, logisch."
+
+  # ── Nahezu-synonyme Nomen — Gruppe 1: task/problem — 4 nouns ────────────────
+  - de: Problem
+    article: das
+    plural: Probleme
+    en: problem (a difficulty to be solved)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-problem, abstract]
+    core: true
+    example: "typisches Verb: lösen, bewältigen, angehen. Konnotation: neutral bis negativ."
+  - de: Aufgabe
+    article: die
+    plural: Aufgaben
+    en: task (a duty to be worked on)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-problem, abstract]
+    core: true
+    example: "typisches Verb: bearbeiten, erledigen, übernehmen. Konnotation: neutral, sachlich."
+  - de: Herausforderung
+    article: die
+    plural: Herausforderungen
+    en: challenge (a difficult but appealing task)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-problem, abstract]
+    core: true
+    example: "typisches Verb: annehmen, meistern, bestehen. Konnotation: positiv, wertend."
+  - de: Schwierigkeit
+    article: die
+    plural: Schwierigkeiten
+    en: difficulty (an obstacle in a process)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-problem, abstract]
+    core: true
+    example: "typisches Verb: bereiten, überwinden, umgehen. Konnotation: vorsichtig, abwägend."
+
+  # ── Nahezu-synonyme Nomen — Gruppe 2: cause — 4 nouns ────────────────────────
+  - de: Grund
+    article: der
+    plural: Gründe
+    en: reason (the cause in a logical sense)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-grund, abstract]
+    core: true
+    example: "typisches Verb: angeben, nennen, vermuten. Konnotation: neutral."
+  - de: Ursache
+    article: die
+    plural: Ursachen
+    en: cause (the trigger of an event)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-grund, abstract]
+    core: true
+    example: "typisches Verb: suchen, ermitteln, beseitigen. Konnotation: sachlich, oft fachlich."
+  - de: Anlass
+    article: der
+    plural: Anlässe
+    en: occasion; trigger (the external prompt)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-grund, abstract]
+    core: true
+    example: "typisches Verb: geben, bieten, sehen. Konnotation: neutral bis förmlich."
+  - de: Veranlassung
+    article: die
+    plural: Veranlassungen
+    en: initiative (a deliberate prompting)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-grund, abstract]
+    core: true
+    example: "typisches Verb: treffen, ergreifen, haben. Konnotation: sehr förmlich, amtlich."
+
+  # ── Nahezu-synonyme Nomen — Gruppe 3: opinion — 4 nouns ──────────────────────
+  - de: Meinung
+    article: die
+    plural: Meinungen
+    en: opinion (a personal view)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-meinung, abstract]
+    core: true
+    example: "typisches Verb: haben, vertreten, äußern. Konnotation: alltagsnah, subjektiv."
+  - de: Auffassung
+    article: die
+    plural: Auffassungen
+    en: view (a considered, often-held opinion)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-meinung, abstract]
+    core: true
+    example: "typisches Verb: vertreten, sein, wonach … Konnotation: gehoben, klar konturiert."
+  - de: Ansicht
+    article: die
+    plural: Ansichten
+    en: view (a factually phrased opinion)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-meinung, abstract]
+    core: true
+    example: "typisches Verb: äußern, teilen, vertreten. Konnotation: neutral bis förmlich."
+  - de: Überzeugung
+    article: die
+    plural: Überzeugungen
+    en: conviction (a firm, established opinion)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-meinung, abstract]
+    core: true
+    example: "typisches Verb: gewinnen, vertreten, fest … Konnotation: stark, wertend."
+
+  # ── Nahezu-synonyme Nomen — Gruppe 4: consequence — 4 nouns ──────────────────
+  - de: Ergebnis
+    article: das
+    plural: Ergebnisse
+    en: result (the outcome of an action or calculation)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-ergebnis, abstract]
+    core: true
+    example: "typisches Verb: liefern, erzielen, kommen zu … Konnotation: sachlich."
+  - de: Folge
+    article: die
+    plural: Folgen
+    en: consequence (the temporal or logical aftermath)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-ergebnis, abstract]
+    core: true
+    example: "typisches Verb: haben, ziehen, nach sich ziehen. Konnotation: neutral bis negativ."
+  - de: Konsequenz
+    article: die
+    plural: Konsequenzen
+    en: consequence (a negatively evaluated result)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-ergebnis, abstract]
+    core: true
+    example: "typisches Verb: tragen, ziehen, sich ergeben. Konnotation: wertend, oft warnend."
+  - de: Auswirkung
+    article: die
+    plural: Auswirkungen
+    en: effect (the perceptible impact in some area)
+    pos: noun
+    tags: [noun, near-synonym, synonym-group-ergebnis, abstract]
+    core: true
+    example: "typisches Verb: haben, zeigen, auf … haben. Konnotation: sachlich, oft fachlich."
+
+  # ── Falsche Freunde für Fortgeschrittene — 5 NEW (5 dup'd with C1/04) ──────
+  - de: bald
+    article: null
+    plural: null
+    en: soon (in a short time — days to a few weeks; NOT the vague English "anytime soon")
+    pos: adverb
+    tags: [false-friend, adverb]
+    core: true
+  - de: konservativ
+    article: null
+    plural: null
+    en: conservative (preserving, traditional; also politically right-leaning)
+    pos: adjective
+    tags: [false-friend, adjective]
+    core: true
+    example: "Meaning can be political depending on context."
+  - de: liberal
+    article: null
+    plural: null
+    en: liberal (freedom-oriented, tolerant; also economically liberal)
+    pos: adjective
+    tags: [false-friend, adjective]
+    core: true
+    example: "Meaning can be political depending on context."
+  - de: sympathisieren
+    article: null
+    plural: null
+    en: to sympathize with (show favor toward — NOT "to feel sorry for" / "to pity")
+    pos: verb
+    tags: [false-friend, verb]
+    core: true
+  - de: extravagant
+    article: null
+    plural: null
+    en: extravagant; flamboyant (unusual, often fashionable or pricey — NOT "eccentric" in a negative sense)
+    pos: adjective
+    tags: [false-friend, adjective]
+    core: true
+
+  # ── Konnotation und Register — "to die" spectrum — 5 items (1 dup'd) ───────
+  - de: versterben
+    article: null
+    plural: null
+    en: to pass away (elevated, solemn register)
+    pos: verb
+    tags: [verb, register, formal, register-sterben]
+    core: true
+  - de: Ableben
+    article: das
+    plural: null
+    en: passing; demise (elevated, solemn register)
+    pos: noun
+    tags: [noun, register, formal, abstract, register-sterben]
+    core: true
+  - de: das Zeitliche segnen
+    article: null
+    plural: null
+    en: to shuffle off this mortal coil (elevated, often used ironically)
+    pos: phrase
+    tags: [idiom, register, formal, register-sterben, phrase]
+    core: true
+  - de: sterben
+    article: null
+    plural: null
+    en: to die (neutral register)
+    pos: verb
+    tags: [verb, register, neutral, register-sterben]
+    core: true
+  - de: ins Gras beißen
+    article: null
+    plural: null
+    en: to bite the dust (crude, colloquial register)
+    pos: phrase
+    tags: [idiom, register, colloquial, register-sterben, phrase]
+    core: true
+
+  # ── Konnotation und Register — "to worry/fear" spectrum — 5 items ──────────
+  - de: Bedenken tragen
+    article: null
+    plural: null
+    en: to have reservations (formal, cautious register)
+    pos: phrase
+    tags: [phrase, register, formal, register-sorge]
+    core: true
+  - de: sorgen
+    article: null
+    plural: null
+    en: to worry about (formal, cautious register)
+    pos: verb
+    tags: [verb, register, formal, reflexive, register-sorge]
+    core: true
+    example: "sich sorgen um"
+  - de: Angst haben vor
+    article: null
+    plural: null
+    en: to be afraid of (everyday register)
+    pos: phrase
+    tags: [phrase, register, neutral, register-sorge]
+    core: true
+  - de: Schiss haben vor
+    article: null
+    plural: null
+    en: to be scared stiff of (crude, youth-slang register)
+    pos: phrase
+    tags: [phrase, register, colloquial, register-sorge]
+    core: true
+  - de: Befürchtung hegen
+    article: null
+    plural: null
+    en: to harbor a fear/concern (formal, reserved register)
+    pos: phrase
+    tags: [phrase, register, formal, register-sorge]
+    core: true
