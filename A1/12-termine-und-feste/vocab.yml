@@ -1,0 +1,333 @@
+# Reviewed from A1/12 lesson.md §4 Wortschatz.
+# Hand-written; the parser captured only a single junk entry from §4 because the
+# three sub-tables (Monate grid, German/English/Wann? table, Verb table) all fail
+# the "gender table" header shape (§4 has no der/die/das columns). The gold
+# standard below mirrors the A1/01/A1/03 tag taxonomy (issue #337).
+#
+# Section headers in lesson.md:
+#   Die Monate                       — 12 entries
+#   Jahreszeiten und Feste           — 19 entries
+#   Nützliche Verben                 —  9 entries
+lesson: A1/12
+entries:
+  # ── Monate (months) ───────────────────────────────────────────────────────
+  # All 12 months are masculine (der). Months are used essentially only in
+  # singular — the general plural "die Monate" is a separate word. Plural: null.
+  - de: Januar
+    article: der
+    plural: null
+    en: January
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Im Januar ist es kalt."
+  - de: Februar
+    article: der
+    plural: null
+    en: February
+    pos: noun
+    tags: [time, concrete]
+    core: true
+  - de: März
+    article: der
+    plural: null
+    en: March
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Der Geburtstag ist am dreizehnten März."
+  - de: April
+    article: der
+    plural: null
+    en: April
+    pos: noun
+    tags: [time, concrete]
+    core: true
+  - de: Mai
+    article: der
+    plural: null
+    en: May
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Im Mai mache ich eine Party."
+  - de: Juni
+    article: der
+    plural: null
+    en: June
+    pos: noun
+    tags: [time, concrete]
+    core: true
+  - de: Juli
+    article: der
+    plural: null
+    en: July
+    pos: noun
+    tags: [time, concrete]
+    core: true
+  - de: August
+    article: der
+    plural: null
+    en: August
+    pos: noun
+    tags: [time, concrete]
+    core: true
+  - de: September
+    article: der
+    plural: null
+    en: September
+    pos: noun
+    tags: [time, concrete]
+    core: true
+  - de: Oktober
+    article: der
+    plural: null
+    en: October
+    pos: noun
+    tags: [time, concrete]
+    core: true
+  - de: November
+    article: der
+    plural: null
+    en: November
+    pos: noun
+    tags: [time, concrete]
+    core: true
+  - de: Dezember
+    article: der
+    plural: null
+    en: December
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Weihnachten ist im Dezember."
+
+  # ── Jahreszeiten (seasons) ────────────────────────────────────────────────
+  - de: Frühling
+    article: der
+    plural: Frühlinge
+    en: spring
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Im Frühling blühen die Blumen."
+  - de: Sommer
+    article: der
+    plural: null
+    en: summer
+    pos: noun
+    tags: [time, concrete]
+    core: true
+  - de: Herbst
+    article: der
+    plural: Herbste
+    en: autumn
+    pos: noun
+    tags: [time, concrete]
+    core: true
+  - de: Winter
+    article: der
+    plural: null
+    en: winter
+    pos: noun
+    tags: [time, concrete]
+    core: true
+    example: "Weihnachten feiern wir im Winter."
+
+  # ── Feste und Ereignisse (celebrations and events) ────────────────────────
+  - de: Feiertag
+    article: der
+    plural: Feiertage
+    en: public holiday
+    pos: noun
+    tags: [event, concrete]
+    core: true
+    example: "Der erste Mai ist ein Feiertag."
+  - de: Geburtstag
+    article: der
+    plural: Geburtstage
+    en: birthday
+    pos: noun
+    tags: [event, concrete]
+    core: true
+    example: "Mein Geburtstag ist am dreizehnten Mai."
+  - de: Party
+    article: die
+    plural: Partys
+    en: party
+    pos: noun
+    tags: [event, concrete]
+    core: true
+  - de: Fest
+    article: das
+    plural: Feste
+    en: celebration, festival
+    pos: noun
+    tags: [event, concrete]
+    core: true
+  - de: Weihnachten
+    article: das
+    plural: null
+    en: Christmas
+    pos: noun
+    tags: [event, concrete]
+    core: true
+    example: "Frohe Weihnachten!"
+  - de: Ostern
+    article: das
+    plural: null
+    en: Easter
+    pos: noun
+    tags: [event, concrete]
+    core: true
+    example: "Frohe Ostern!"
+  - de: Silvester
+    article: das
+    plural: null
+    en: New Year's Eve
+    pos: noun
+    tags: [event, concrete]
+    core: true
+    example: "Guten Rutsch! — Frohes neues Jahr!"
+  - de: Neujahr
+    article: das
+    plural: null
+    en: New Year
+    pos: noun
+    tags: [event, concrete]
+    core: true
+    example: "Frohes neues Jahr!"
+  - de: Karneval
+    article: der
+    plural: null
+    en: carnival
+    pos: noun
+    tags: [event, concrete]
+    core: true
+    example: "Karneval beginnt am elften November."
+  - de: Fasching
+    article: der
+    plural: null
+    en: carnival
+    pos: noun
+    tags: [event, concrete]
+    core: true
+    example: "In Bayern sagt man Fasching, im Rheinland Karneval."
+  - de: Termin
+    article: der
+    plural: Termine
+    en: appointment
+    pos: noun
+    tags: [event, concrete]
+    core: true
+    example: "Ich habe am Mittwoch einen Termin."
+  - de: Einladung
+    article: die
+    plural: Einladungen
+    en: invitation
+    pos: noun
+    tags: [event, concrete]
+    core: true
+  - de: Feier
+    article: die
+    plural: Feiern
+    en: celebration, party
+    pos: noun
+    tags: [event, concrete]
+    core: true
+  - de: Kalender
+    article: der
+    plural: null
+    en: calendar
+    pos: noun
+    tags: [event, concrete]
+    core: true
+  - de: Karte
+    article: die
+    plural: Karten
+    en: card
+    pos: noun
+    tags: [event, concrete]
+    core: true
+    example: "Ich schicke dir eine Karte zum Geburtstag."
+  - de: Geschenk
+    article: das
+    plural: Geschenke
+    en: gift, present
+    pos: noun
+    tags: [event, concrete]
+    core: true
+    example: "Das Notizbuch ist ein schönes Geschenk."
+
+  # ── Verben ────────────────────────────────────────────────────────────────
+  - de: feiern
+    article: null
+    plural: null
+    en: to celebrate
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Wir feiern heute Geburtstag."
+  - de: einladen
+    article: null
+    plural: null
+    en: to invite
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich lade dich zu meiner Party ein."
+  - de: schicken
+    article: null
+    plural: null
+    en: to send
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich schicke dir eine Einladung."
+  - de: gratulieren
+    article: null
+    plural: null
+    en: to congratulate
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich gratuliere dir zum Geburtstag!"
+  - de: passen
+    article: null
+    plural: null
+    en: to suit, to be convenient
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Mittwoch passt mir gut."
+  - de: absagen
+    article: null
+    plural: null
+    en: to cancel, decline
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich muss leider absagen."
+  - de: planen
+    article: null
+    plural: null
+    en: to plan
+    pos: verb
+    tags: [verb]
+    core: true
+  - de: stattfinden
+    article: null
+    plural: null
+    en: to take place
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Die Party findet am Samstag statt."
+  - de: wünschen
+    article: null
+    plural: null
+    en: to wish
+    pos: verb
+    tags: [verb]
+    core: true
+    example: "Ich wünsche dir alles Gute!"
