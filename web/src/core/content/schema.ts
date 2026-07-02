@@ -12,6 +12,16 @@ export const DrillSkill = z.enum([
 ]);
 export type DrillSkillType = z.infer<typeof DrillSkill>;
 
+// Grammar-specialization track tag (issue #342, F5a) — a separate axis from `skill`:
+// skill answers "what widget-drill category is this," track answers "what deep
+// grammar concept is this." An exercise can carry both, independently. Starter
+// tracks only (issue's explicit scope) — extensible later (Konjunktiv II, Genitiv,
+// Konnektoren/word-order, Komparativ, reflexives, n-Dekl.) without an enum rewrite.
+export const GrammarTrack = z.enum([
+  'adjektivdeklination', 'akkusativ', 'dativ', 'praepositionen', 'vergangenheit',
+]);
+export type GrammarTrackType = z.infer<typeof GrammarTrack>;
+
 const Base = z.object({
   id: z.string().regex(/^[HABCD]\d+[a-z]?$|^exam-/),
   block: z.enum(['H', 'A', 'B', 'C', 'D', 'exam']),
@@ -27,6 +37,7 @@ const Base = z.object({
   strictUmlaut: z.boolean().optional(),
   keepPunctuation: z.boolean().optional(),
   skill: DrillSkill.optional(),
+  track: GrammarTrack.optional(),
 });
 
 // ---- per type ----

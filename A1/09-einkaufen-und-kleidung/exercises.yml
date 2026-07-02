@@ -116,6 +116,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: dativ
     title: "Dative pronouns"
     text: |-
       1. ich — mich — {1}  2. du — dich — {2}  3. er — ihn — {3}
@@ -136,6 +137,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: dativ
     title: "`gefallen`: complete the sentences"
     instructions: "Verwende die richtige Form von „gefallen\" und das richtige Dativpronomen."
     instructionsEn: "Use the correct form of `gefallen` and the correct dative pronoun."

@@ -108,6 +108,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Partizip II: regular verbs (ge-…-t)"
     text: |
       1. machen → {1}  2. spielen → {2}  3. kaufen → {3}  4. kochen → {4}
@@ -131,6 +132,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Partizip II: irregular verbs (ge-…-en)"
     text: |
       1. essen → {1}  2. trinken → {2}  3. schlafen → {3}  4. lesen → {4}

@@ -1,0 +1,35 @@
+---
+import { getCollection } from 'astro:content';
+import { GrammarTrack } from '@core/content/schema';
+import { trackBank } from '@core/content/drills';
+import DrillRunner from '../../components/DrillRunner.svelte';
+
+export async function getStaticPaths() {
+  return GrammarTrack.options.map(track => ({ params: { track } }));
+}
+
+const { track } = Astro.params;
+const all = await getCollection('exercises');
+const items = trackBank(all, track as (typeof GrammarTrack.options)[number]);
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{track} — Grammatik-Gym</title>
+    <style>
+      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1rem; }
+      nav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
+      h1 { font-size: 1.5rem; }
+    </style>
+  </head>
+  <body>
+    <nav><a href={`${base}/gym/`}>← Strecke wählen</a></nav>
+    <h1>{track}</h1>
+    <DrillRunner items={items} sessionSize={10} client:load />
+  </body>
+</html>

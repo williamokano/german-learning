@@ -247,6 +247,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: akkusativ
     title: "Akkusativ maskulin: den, einen, keinen"
     instructions: "Alle Nomen hier sind maskulin. Der Grundartikel steht in Klammern."
     instructionsEn: "All nouns here are masculine. The base article is in brackets."
