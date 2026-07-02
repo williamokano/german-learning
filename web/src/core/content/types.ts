@@ -14,6 +14,7 @@ export type {
   SpeakingPromptExercise,
   ExerciseSetType,
   ExamGridType,
+  ExamFormatType,
   DrillSkillType,
   GrammarTrackType,
 } from './schema';

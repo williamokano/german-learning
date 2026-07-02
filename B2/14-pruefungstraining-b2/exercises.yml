@@ -32,6 +32,10 @@ exam:
       selfAssessed: true
   totalPass: 60
   rule: "≥60/100 (Gesamt) UND in jedem Modul ≥60 %"
+  # 30 (Hören) + 80 (Lesen) + 80 (Schreiben) + 15 (Sprechen) min, per the intro above —
+  # matches the real Goethe-Zertifikat B2 written+oral timing (issue #348 pilot).
+  durationMinutes: 205
+  format: goethe
 
 exercises:
 

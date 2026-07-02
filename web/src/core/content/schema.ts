@@ -168,10 +168,19 @@ export const ExamSkill = z.object({
   selfAssessed: z.boolean().default(false),
 });
 
+// Presentational only (issue #348) — one scoring engine (scoreExam) serves every
+// format. `format` picks a display label/convention, it does not branch grading.
+export const ExamFormat = z.enum(['telc', 'goethe', 'oesd']);
+export type ExamFormatType = z.infer<typeof ExamFormat>;
+
 export const ExamGrid = z.object({
   skills: z.array(ExamSkill),
   totalPass: z.number().int().min(0),
   rule: z.string().optional(),
+  // Overall exam-simulator countdown (issue #348). Optional: not every exam grid
+  // has been given a researched value yet; ExamSimulator falls back to a default.
+  durationMinutes: z.number().int().positive().optional(),
+  format: ExamFormat.optional(),
 });
 
 export const Exercise = z.discriminatedUnion('type', [
