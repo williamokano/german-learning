@@ -154,6 +154,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: adjektivdeklination
     title: "Schwache Deklination: Tabelle ausfüllen (groß, def. art.)"
     instructions: "Ergänze die schwache Endung nach dem bestimmten Artikel. Die Lücke ist der/die Endbuchstaben."
     instructionsEn: "Fill in the weak ending after the definite article. The gap is the ending letter(s)."
@@ -300,6 +301,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: adjektivdeklination
     title: "Adjektivendungen nach dem unbestimmten Artikel (Nominativ)"
     instructions: "Ergänze die richtige Endung. 10 Aufgaben."
     instructionsEn: "Add the correct ending. 10 items."

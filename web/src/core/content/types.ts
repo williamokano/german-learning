@@ -15,6 +15,7 @@ export type {
   ExerciseSetType,
   ExamGridType,
   DrillSkillType,
+  GrammarTrackType,
 } from './schema';
 
 export type Block = 'H' | 'A' | 'B' | 'C' | 'D' | 'exam';
