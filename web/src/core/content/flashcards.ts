@@ -19,8 +19,21 @@ export function vocabCardKey(entry: VocabEntryType, face: CardFace): string {
   return `${vocabDedupKey(entry)}|${face}`;
 }
 
-function pickMeaningFace(entry: VocabEntryType, rng: () => number): CardFace {
-  return rng() < 0.5 ? 'meaning-de-en' : 'meaning-en-de';
+// Due-aware: DE→EN and EN→DE are independently-scheduled cards (F3), so naive random
+// picking could silently skip a genuinely due card if the roll landed on its not-due
+// sibling direction. Deterministic when only one direction qualifies; falls back to
+// the original random 50/50 when both do (or neither is filtered, the default case).
+function pickMeaningFace(
+  entry: VocabEntryType,
+  rng: () => number,
+  isIncluded: (cardKey: string) => boolean,
+): CardFace | null {
+  const deEnOk = isIncluded(vocabCardKey(entry, 'meaning-de-en'));
+  const enDeOk = isIncluded(vocabCardKey(entry, 'meaning-en-de'));
+  if (deEnOk && enDeOk) return rng() < 0.5 ? 'meaning-de-en' : 'meaning-en-de';
+  if (deEnOk) return 'meaning-de-en';
+  if (enDeOk) return 'meaning-en-de';
+  return null;
 }
 
 /**
@@ -59,18 +72,28 @@ export function shuffle<T>(arr: T[], rng: () => number = Math.random): T[] {
 }
 
 /**
- * One session's shuffled card order: dedupe entries by word, pick ONE random meaning
+ * One session's shuffled card order: dedupe entries by word, pick ONE meaning
  * direction per unique word (both directions still exist as separate card identities
  * for later sessions — see possibleCards), add the article card iff the word has one.
+ * `isIncluded` optionally restricts which specific cards may appear (F3's due-queue);
+ * default includes everything, so legacy callers are unaffected.
  */
-export function buildSessionCardKeys(entries: VocabEntryType[], rng: () => number = Math.random): string[] {
+export function buildSessionCardKeys(
+  entries: VocabEntryType[],
+  rng: () => number = Math.random,
+  isIncluded: (cardKey: string) => boolean = () => true,
+): string[] {
   const byWord = new Map<string, VocabEntryType>();
   for (const entry of entries) byWord.set(vocabDedupKey(entry), entry);
 
   const keys: string[] = [];
   for (const entry of byWord.values()) {
-    keys.push(vocabCardKey(entry, pickMeaningFace(entry, rng)));
-    if (entry.article !== null) keys.push(vocabCardKey(entry, 'article'));
+    const face = pickMeaningFace(entry, rng, isIncluded);
+    if (face) keys.push(vocabCardKey(entry, face));
+    if (entry.article !== null) {
+      const articleKey = vocabCardKey(entry, 'article');
+      if (isIncluded(articleKey)) keys.push(articleKey);
+    }
   }
   return shuffle(keys, rng);
 }

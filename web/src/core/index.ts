@@ -7,7 +7,7 @@ import { ProgressService } from '@core/services/progress';
 import { AudioService } from '@core/services/audio';
 import { ContentService } from '@core/services/content';
 import { SrsService } from '@core/services/srs';
-import { FlashcardSessionService } from '@core/services/flashcard-session';
+import { FlashcardSessionService, DEEP_REVIEW_DECK_KEY } from '@core/services/flashcard-session';
 
 import.meta.env.BASE_URL;
 
@@ -16,9 +16,9 @@ const progress = new ProgressService(storage);
 const audio    = new AudioService(import.meta.env.BASE_URL);
 const content  = new ContentService();
 const srs             = new SrsService(storage);
-const flashcardSession = new FlashcardSessionService(storage);
+const flashcardSession = new FlashcardSessionService(storage, srs);
 
-export { storage, progress, audio, content, srs, flashcardSession };
+export { storage, progress, audio, content, srs, flashcardSession, DEEP_REVIEW_DECK_KEY };
 export type { StorageService }   from '@core/services/storage';
 export type { CourseProgress }   from '@core/services/progress';
 export type { AudioServiceInterface } from '@core/services/audio';
