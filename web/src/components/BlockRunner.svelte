@@ -3,7 +3,7 @@
   import type { ExerciseScore } from '@core/engine/scoring';
   import type { Block } from '@core/content/types';
   import { aggregateLesson, type LessonScore } from '@core/engine/scoring';
-  import { progress } from '@core/index';
+  import { progress, fehlerbuch } from '@core/index';
   import ExerciseShell from './ExerciseShell.svelte';
 
   let {
@@ -28,6 +28,7 @@
       if (!shell) continue;
       const results = shell.check();
       const scoreable = results.filter(r => r.scoreable);
+      fehlerbuch.captureExerciseResults(lessonId, exercises[i], scoreable);
       scores.push({
         id: exercises[i].id,
         block: exercises[i].block as Block,

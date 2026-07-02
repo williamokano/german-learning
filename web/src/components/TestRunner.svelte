@@ -4,7 +4,7 @@
   import type { ExerciseScore } from '@core/engine/scoring';
   import type { Block } from '@core/content/types';
   import { scoreExam, type ExamResult } from '@core/engine/scoring';
-  import { progress } from '@core/index';
+  import { progress, fehlerbuch } from '@core/index';
   import ExerciseShell from './ExerciseShell.svelte';
 
   let {
@@ -22,7 +22,7 @@
   let graded = $state(false);
   let autoScores: ExerciseScore[] = $state([]);
   let selfScores: Record<string, number> = $state({});
-  let shellRefs: Array<{ check(): { scoreable: boolean; correct: boolean }[]; reset(): void }> = [];
+  let shellRefs: Array<{ check(): ReturnType<ExerciseShell['check']>; reset(): void }> = [];
 
   const examResult = $derived.by<ExamResult | null>(() => {
     if (!graded || autoScores.length === 0) return null;
@@ -36,6 +36,7 @@
       if (!shell) continue;
       const results = shell.check();
       const scoreable = results.filter(r => r.scoreable);
+      fehlerbuch.captureExerciseResults(lessonId, exercises[i], scoreable);
       scores.push({
         id: exercises[i].id,
         block: exercises[i].block as Block,
