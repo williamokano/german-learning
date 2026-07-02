@@ -549,6 +549,7 @@ exercises:
   - id: B5
     block: B
     type: order
+    skill: word-order
     title: "Satzbau"
     instructions: "Bilde korrekte Sätze. Verb auf Position 2 bei Aussagen."
     instructionsEn: "Build correct sentences. Verb in position 2 for statements."

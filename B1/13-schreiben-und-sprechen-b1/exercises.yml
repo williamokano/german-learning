@@ -330,6 +330,7 @@ exercises:
   - id: A9
     block: A
     type: gap-bank
+    skill: cloze-in-context
     title: "Formelle Beschwerdemail: Lücken füllen"
     instructions: "Fill the 8 gaps in the formal complaint email. Three words in the box are not needed."
     bankCase: upper
@@ -384,6 +385,7 @@ exercises:
     block: A
     type: gap-text
     layout: list
+    skill: redemittel
     title: "Präsentation-Redemittel einsetzen (Sprechen B1 Teil 2)"
     instructions: "Complete each presentation phrase with the correct word or phrase. 8 items."
     text: |
