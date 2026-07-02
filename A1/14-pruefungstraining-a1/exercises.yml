@@ -32,6 +32,10 @@ exam:
       selfAssessed: true
   totalPass: 29
   rule: "Gesamt ≥ 29/55 UND Teilschwelle in mindestens 3 von 4 Prüfungsteilen erreicht"
+  # 20 (Hören) + 25 (Lesen) + 20 (Schreiben) + 15 (Sprechen) min, per the intro above —
+  # matches the real telc A1 / Start Deutsch 1 written+oral timing (issue #348 pilot).
+  durationMinutes: 80
+  format: telc
 
 exercises:
 

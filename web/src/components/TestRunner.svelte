@@ -12,11 +12,17 @@
     lessonId,
     audioDir,
     examGrid,
+    onGraded,
   }: {
     exercises: ExerciseUnion[];
     lessonId: string;
     audioDir: string;
     examGrid: ExamGridType;
+    // Optional callback (issue #348, ExamSimulator) — fires with the current
+    // ExamResult (or null pre-grading / after "Nochmal") every time it changes,
+    // including self-assessment edits. Lets a wrapper add countdown/remediation
+    // chrome without duplicating the grading/derivation logic below.
+    onGraded?: (result: ExamResult | null) => void;
   } = $props();
 
   let graded = $state(false);
@@ -29,7 +35,9 @@
     return scoreExam(examGrid, autoScores, { ...selfScores });
   });
 
-  function auswerten() {
+  // Exported so a wrapper (ExamSimulator) can trigger grading imperatively on
+  // timer expiry — mirrors ExerciseShell's exported check()/reset().
+  export function auswerten() {
     const scores: ExerciseScore[] = [];
     for (let i = 0; i < exercises.length; i++) {
       const shell = shellRefs[i];
@@ -57,6 +65,12 @@
   }
 
   const selfSkills = $derived(examGrid.skills.filter(sk => sk.selfAssessed));
+
+  // Reactive, not one-shot: fires on the initial grade AND on every self-assessment
+  // edit afterwards, same as the score panel below re-renders live.
+  $effect(() => {
+    onGraded?.(examResult);
+  });
 </script>
 
 <div class="test-runner">
