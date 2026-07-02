@@ -2,16 +2,18 @@
   import { onMount } from 'svelte';
   import type { VocabEntryType } from '@core/content/vocab';
   import { possibleCards, deckKey, type FlashCard } from '@core/content/flashcards';
-  import { srs, flashcardSession, type Rating, type FlashcardSession } from '@core/index';
+  import { srs, flashcardSession, DEEP_REVIEW_DECK_KEY, type Rating, type FlashcardSession } from '@core/index';
 
   let {
-    lessonEntries,
-    cumulativeEntries,
-    deckLessonId,
+    lessonEntries = [],
+    cumulativeEntries = [],
+    deckLessonId = '',
+    allEntries = [],
   }: {
-    lessonEntries: VocabEntryType[];
-    cumulativeEntries: VocabEntryType[];
-    deckLessonId: string;
+    lessonEntries?: VocabEntryType[];
+    cumulativeEntries?: VocabEntryType[];
+    deckLessonId?: string;
+    allEntries?: VocabEntryType[]; // non-empty => this is the global deep-review page
   } = $props();
 
   let mounted = $state(false);
@@ -20,12 +22,22 @@
   let flipped = $state(false);
 
   onMount(() => {
+    if (allEntries.length > 0) {
+      cardMap = possibleCards(allEntries);
+      session = flashcardSession.startDeepReview(allEntries);
+      mounted = true;
+      return;
+    }
+
     const params = new URLSearchParams(window.location.search);
     const mode: 'lesson' | 'cumulative' = params.get('mode') === 'cumulative' ? 'cumulative' : 'lesson';
     const entries = mode === 'cumulative' ? cumulativeEntries : lessonEntries;
     cardMap = possibleCards(entries);
 
-    let s = flashcardSession.getOrStart(deckKey(deckLessonId, mode), entries);
+    // Only the cumulative deck filters to due/new cards — "Nur diese Lektion" always
+    // shows everything (it was never the deck that scaled badly, and changing what it
+    // means with no visible signal would be a bad surprise).
+    let s = flashcardSession.getOrStart(deckKey(deckLessonId, mode), entries, undefined, mode === 'cumulative');
     // Defensive: if the lesson's vocab.yml changed since this session was saved,
     // drop stale card keys rather than crash on a missing lookup.
     const validKeys = s.cardKeys.filter(k => cardMap.has(k));
@@ -84,9 +96,14 @@
 
   function restart(): void {
     if (!session) return;
+    if (session.deckKey === DEEP_REVIEW_DECK_KEY) {
+      session = flashcardSession.startDeepReview(allEntries);
+      flipped = false;
+      return;
+    }
     const mode: 'lesson' | 'cumulative' = session.deckKey.endsWith(':cumulative') ? 'cumulative' : 'lesson';
     const entries = mode === 'cumulative' ? cumulativeEntries : lessonEntries;
-    session = flashcardSession.restart(session.deckKey, entries);
+    session = flashcardSession.restart(session.deckKey, entries, undefined, mode === 'cumulative');
     flipped = false;
   }
 </script>

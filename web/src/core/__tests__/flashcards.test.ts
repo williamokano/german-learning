@@ -86,6 +86,33 @@ describe('buildSessionCardKeys', () => {
   });
 });
 
+describe('buildSessionCardKeys isIncluded predicate (F3 due-filtering)', () => {
+  it('default isIncluded is a no-op — identical to the unfiltered call', () => {
+    const withDefault = buildSessionCardKeys([apfel], () => 0);
+    const explicit = buildSessionCardKeys([apfel], () => 0, () => true);
+    expect(withDefault.sort()).toEqual(explicit.sort());
+  });
+
+  it('picks the one qualifying meaning direction deterministically, ignoring rng', () => {
+    const onlyEnDe = (key: string) => key !== vocabCardKey(apfel, 'meaning-de-en');
+    // rng would pick meaning-de-en at 0, but it's excluded, so meaning-en-de must win.
+    const keys = buildSessionCardKeys([apfel], () => 0, onlyEnDe);
+    expect(keys).toContain(vocabCardKey(apfel, 'meaning-en-de'));
+    expect(keys).not.toContain(vocabCardKey(apfel, 'meaning-de-en'));
+  });
+
+  it('includes only the article card when neither meaning direction is included', () => {
+    const onlyArticle = (key: string) => key === vocabCardKey(apfel, 'article');
+    const keys = buildSessionCardKeys([apfel], () => 0, onlyArticle);
+    expect(keys).toEqual([vocabCardKey(apfel, 'article')]);
+  });
+
+  it('contributes nothing for a word where no card is included', () => {
+    const keys = buildSessionCardKeys([apfel], () => 0, () => false);
+    expect(keys).toEqual([]);
+  });
+});
+
 describe('shuffle', () => {
   it('preserves the same set of elements', () => {
     const input = [1, 2, 3, 4, 5];

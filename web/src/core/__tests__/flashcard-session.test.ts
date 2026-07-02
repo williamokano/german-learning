@@ -2,6 +2,8 @@ import { describe, it, expect } from 'vitest';
 import type { StorageService } from '@core/services/storage';
 import { VocabEntry } from '@core/content/vocab';
 import type { VocabEntryType } from '@core/content/vocab';
+import { vocabCardKey } from '@core/content/flashcards';
+import { SrsService } from '@core/services/srs';
 import { FlashcardSessionService } from '@core/services/flashcard-session';
 
 function fakeStorage(): StorageService {
@@ -81,5 +83,79 @@ describe('FlashcardSessionService', () => {
     const restarted = svc.restart('A1/03:lesson', entries, () => 0);
     expect(restarted.position).toBe(0);
     expect(restarted.sessionRatings).toEqual({});
+  });
+});
+
+describe('FlashcardSessionService due-filtering (F3)', () => {
+  it('dueOnly=true is a no-op on a first pass (nothing rated yet = everything due)', () => {
+    const storage = fakeStorage();
+    const srs = new SrsService(storage);
+    const svc = new FlashcardSessionService(storage, srs);
+    const unfiltered = svc.restart('A1/03:lesson', entries, () => 0, false);
+    const filtered = svc.restart('A1/03:cumulative', entries, () => 0, true);
+    expect(filtered.cardKeys.sort()).toEqual(unfiltered.cardKeys.sort());
+  });
+
+  it('dueOnly=true excludes a card just rated good (not due again tomorrow)', () => {
+    const storage = fakeStorage();
+    const srs = new SrsService(storage);
+    const svc = new FlashcardSessionService(storage, srs);
+    const meaningKey = vocabCardKey(apfel, 'meaning-de-en'); // rng ()=>0 picks this direction
+    srs.recordRating(meaningKey, 'good');
+    const session = svc.restart('A1/03:cumulative', entries, () => 0, true);
+    expect(session.cardKeys).not.toContain(meaningKey);
+  });
+
+  it('dueOnly=true with no srs wired degrades to unfiltered rather than throwing', () => {
+    const svc = new FlashcardSessionService(fakeStorage()); // no srs passed
+    const session = svc.restart('A1/03:cumulative', entries, () => 0, true);
+    expect(session.cardKeys.length).toBeGreaterThan(0);
+  });
+});
+
+describe('FlashcardSessionService.startDeepReview', () => {
+  it('the candidate pool is restricted to previously-rated cards only', () => {
+    const storage = fakeStorage();
+    const srs = new SrsService(storage);
+    const svc = new FlashcardSessionService(storage, srs);
+    const apfelKey = vocabCardKey(apfel, 'meaning-de-en');
+    srs.recordRating(apfelKey, 'good');
+    const session = svc.startDeepReview(entries, 30, () => 0);
+    expect(session.cardKeys).toEqual([apfelKey]);
+  });
+
+  it('caps the session at the given size', () => {
+    const storage = fakeStorage();
+    const srs = new SrsService(storage);
+    const svc = new FlashcardSessionService(storage, srs);
+    for (const face of ['meaning-de-en', 'meaning-en-de', 'article'] as const) {
+      srs.recordRating(vocabCardKey(apfel, face), 'good');
+      srs.recordRating(vocabCardKey(banane, face), 'good');
+    }
+    const session = svc.startDeepReview(entries, 2, () => 0);
+    expect(session.cardKeys.length).toBe(2);
+  });
+
+  it('returns an empty session when nothing has been rated yet', () => {
+    const storage = fakeStorage();
+    const srs = new SrsService(storage);
+    const svc = new FlashcardSessionService(storage, srs);
+    const session = svc.startDeepReview(entries, 30, () => 0);
+    expect(session.cardKeys).toEqual([]);
+    expect(session.deckKey).toBe('deep-review');
+  });
+
+  it('always rebuilds fresh, even mid-progress (no resume)', () => {
+    const storage = fakeStorage();
+    const srs = new SrsService(storage);
+    const svc = new FlashcardSessionService(storage, srs);
+    const key = vocabCardKey(apfel, 'meaning-de-en');
+    srs.recordRating(key, 'good');
+    let session = svc.startDeepReview(entries, 30, () => 0);
+    session = svc.rate(session, key, 'easy');
+    expect(session.position).toBe(1);
+
+    const restarted = svc.startDeepReview(entries, 30, () => 0);
+    expect(restarted.position).toBe(0);
   });
 });
