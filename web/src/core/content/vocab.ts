@@ -120,3 +120,17 @@ export function unlockedVocab(sets: VocabSetType[], uptoLesson: string): VocabEn
     .sort((a, b) => lessonRank(a.lesson) - lessonRank(b.lesson))
     .flatMap(s => s.entries);
 }
+
+/** Dedup-key set of core:true words from a flat pool of entries, no unlock cutoff —
+ *  the whole-course universe, used by the homepage Wortschatz counter (F4). */
+export function coreDedupKeys(entries: VocabEntryType[]): string[] {
+  const keys = new Set<string>();
+  for (const e of entries) if (e.core) keys.add(vocabDedupKey(e));
+  return [...keys];
+}
+
+/** Same, scoped to lessons unlocked up to (and including) uptoLesson — used by the
+ *  lesson-header Wortschatz counter (F4). */
+export function coreDedupKeysUpTo(sets: VocabSetType[], uptoLesson: string): string[] {
+  return coreDedupKeys(unlockedVocab(sets, uptoLesson));
+}

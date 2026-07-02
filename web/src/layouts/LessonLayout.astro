@@ -1,11 +1,14 @@
 ---
+import WortschatzCounter from '../components/WortschatzCounter.svelte';
+
 interface Props {
   title: string;
   level: string;
   hasShort?: boolean;
   shortTitle?: string;
+  wortschatzDedupKeys?: string[];
 }
-const { title, level, hasShort = false, shortTitle = '' } = Astro.props;
+const { title, level, hasShort = false, shortTitle = '', wortschatzDedupKeys = [] } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const displayLevel = level.toUpperCase();
 ---
@@ -195,6 +198,9 @@ const displayLevel = level.toUpperCase();
       <a href={`${base}/${level}/`}>{displayLevel}</a>
       <span>›</span>
       <span>{title}</span>
+      {wortschatzDedupKeys.length > 0 && (
+        <WortschatzCounter dedupKeys={wortschatzDedupKeys} client:load />
+      )}
       {hasShort && (
         <div class="view-toggle" role="group" aria-label="Lektionsansicht wechseln">
           <button type="button" data-view-btn="full" aria-pressed="true">Ausführlich</button>
