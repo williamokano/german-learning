@@ -98,6 +98,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: akkusativ
     title: "Case recap: Nominativ or Akkusativ?"
     instructions: "Markiere jedes Nomen als N (Nominativ) oder A (Akkusativ) und schreibe den richtigen Artikel. Jede Aufgabe hat zwei Lücken."
     instructionsEn: "Label each noun as N (Nominativ) or A (Akkusativ), then write the correct article. Each item has two gaps."
