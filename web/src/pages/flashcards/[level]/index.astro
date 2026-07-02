@@ -1,0 +1,58 @@
+---
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const all = await getCollection('vocab');
+  const levels = [...new Set(all.map(e => e.id.split('/')[0]))];
+  return levels.map(level => ({
+    params: { level },
+    props:  { entries: all.filter(e => e.id.startsWith(level + '/')) },
+  }));
+}
+
+const { level }   = Astro.params;
+const { entries } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const sorted = entries
+  .map(e => ({ entry: e, slug: e.id.split('/')[1] }))
+  .sort((a, b) => a.slug.localeCompare(b.slug));
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{level} — Karteikarten</title>
+    <style>
+      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1rem; }
+      nav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
+      ul { list-style: none; padding: 0; margin-top: 1.5rem; }
+      li { display: flex; align-items: center; gap: 0.5rem; padding: 0.4rem 0; }
+      li a { display: block; padding: 0.5rem 0.75rem; border-radius: 6px; color: #1a1a1a; text-decoration: none; }
+      li a:hover { background: #eff6ff; }
+
+      .lesson-name { flex: 1; }
+      .btn-deck { flex-shrink: 0; padding: 0.25rem 0.6rem; border: 1.5px solid #2563eb; border-radius: 6px; color: #2563eb; text-decoration: none; font-size: 0.8rem; white-space: nowrap; }
+      .btn-deck:hover { background: #eff6ff; }
+      .btn-deck-cumulative { border-color: #6b7280; color: #6b7280; }
+      .btn-deck-cumulative:hover { background: #f3f4f6; }
+    </style>
+  </head>
+  <body>
+    <nav><a href={`${base}/flashcards/`}>← Level wählen</a></nav>
+    <h1>{level.toUpperCase()} — Karteikarten</h1>
+    <ul>
+      {sorted.map(({ slug }) => (
+        <li>
+          <a class="lesson-name" href={`${base}/flashcards/${level}/${slug}/`}>
+            {(([num, ...rest]) => `${num} — ${rest.join('-').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}`)(slug.split('-'))}
+          </a>
+          <a class="btn-deck" href={`${base}/flashcards/${level}/${slug}/`}>Nur diese Lektion</a>
+          <a class="btn-deck btn-deck-cumulative" href={`${base}/flashcards/${level}/${slug}/?mode=cumulative`}>+ Wiederholung</a>
+        </li>
+      ))}
+    </ul>
+  </body>
+</html>
