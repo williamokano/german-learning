@@ -3,15 +3,21 @@ import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const all = await getCollection('lessons');
+  const vocab = await getCollection('vocab');
   const levels = [...new Set(all.map(e => e.id.split('/')[0]))];
   return levels.map(level => ({
     params: { level },
-    props:  { lessons: all.filter(e => e.id.startsWith(level + '/')) },
+    props:  {
+      lessons: all.filter(e => e.id.startsWith(level + '/')),
+      // entry.id is "<level>/<slug>/vocab" — keep only the level/slug prefix so it
+      // matches the level/slug pairs this page renders links for.
+      vocabIds: new Set(vocab.map(e => e.id.split('/').slice(0, 2).join('/'))),
+    },
   }));
 }
 
 const { level }   = Astro.params;
-const { lessons } = Astro.props;
+const { lessons, vocabIds } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 const sorted = lessons
@@ -35,6 +41,8 @@ const sorted = lessons
 
       .btn-uebungen { margin-left: auto; flex-shrink: 0; padding: 0.25rem 0.6rem; border: 1.5px solid #2563eb; border-radius: 6px; color: #2563eb; text-decoration: none; font-size: 0.8rem; white-space: nowrap; }
       .btn-uebungen:hover { background: #eff6ff; }
+      .btn-flashcards { flex-shrink: 0; padding: 0.25rem 0.6rem; border: 1.5px solid #6b7280; border-radius: 6px; color: #6b7280; text-decoration: none; font-size: 0.8rem; white-space: nowrap; }
+      .btn-flashcards:hover { background: #f3f4f6; }
     </style>
   </head>
   <body>
@@ -46,6 +54,9 @@ const sorted = lessons
           <a href={`${base}/${level}/${slug}/`}>
             {(([num, ...rest]) => `${num} — ${rest.join('-').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}`)(slug.split('-'))}
           </a>
+          {vocabIds.has(`${level}/${slug}`) && (
+            <a class="btn-flashcards" href={`${base}/flashcards/${level}/${slug}/`}>Karteikarten</a>
+          )}
           <a class="btn-uebungen" href={`${base}/${level}/${slug}/uebungen/`}>Übungen →</a>
         </li>
       ))}

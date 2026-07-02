@@ -33,6 +33,15 @@ export const VocabEntry = z.object({
   reviewNote: z.string().optional(),           // importer hint to the human reviewer (why flagged)
 });
 
+// Identifies a word regardless of which lesson teaches it: de+pos+article. Article is
+// part of the key so legitimate gender homographs (der See "lake" vs die See "sea") are
+// distinct. Shared by VocabSet's own duplicate check (within one lesson) and by the
+// flashcard layer's card keys (across all lessons — the same headword taught in two
+// lessons must resolve to ONE reviewable card, not two independent SRS histories).
+export function vocabDedupKey(entry: VocabEntryType): string {
+  return `${entry.de.toLowerCase()} ${entry.pos} ${entry.article ?? ''}`;
+}
+
 export const VocabSet = z.object({
   // Levels A1–C1 only — kept in lockstep with LEVEL_ORDER below (used by lessonRank).
   lesson: z.string().regex(/^(A1|A2|B1|B2|C1)\/\d{2}$/),
@@ -47,9 +56,8 @@ export const VocabSet = z.object({
       ctx.addIssue({ code: z.ZodIssueCode.custom, message: `"${e.de}": only nouns may have an article (pos=${e.pos})` });
     }
 
-    // Flag accidental duplicates. Article is part of the key so legitimate gender
-    // homographs (der See "lake" vs die See "sea") are not treated as duplicates.
-    const key = `${e.de.toLowerCase()} ${e.pos} ${e.article ?? ''}`;
+    // Flag accidental duplicates within this lesson.
+    const key = vocabDedupKey(e);
     if (seen.has(key)) {
       ctx.addIssue({ code: z.ZodIssueCode.custom, message: `Duplicate entry: ${e.de} (${e.pos})` });
     }
