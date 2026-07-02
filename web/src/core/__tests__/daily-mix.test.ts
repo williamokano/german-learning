@@ -429,4 +429,27 @@ describe('buildDailyMix — cross-pool dedup', () => {
       .map(it => `${it.entry.de}|${it.face}`);
     expect(new Set(entryKeys).size).toBe(entryKeys.length);
   });
+
+  it('when a never-rated word is eligible in both pools, new-pills wins (precedence pinned)', () => {
+    // Pin the asymmetric dedup: never-rated (null schedule) entries are eligible
+    // in BOTH the new and the due pool. The cross-pool dedup says new wins —
+    // a future refactor that flips the precedence would silently change the user
+    // experience (fresh users see no "Neu" badge on first run).
+    const vocabSets = [set('A1/01', essen)]; // verb, never-rated, eligible for both
+    const r = buildDailyMix({
+      currentLessonId: 'A1/01',
+      vocabSets,
+      cardStates: {},
+      exerciseEntries: [],
+      fehlerbuchEntries: [],
+      goal: 'regular',
+      now: NOW,
+      rng: () => 0,
+    });
+    const essenItems = r.items.filter(it => it.kind === 'vocab-card' && it.entry.de === 'essen');
+    expect(essenItems).toHaveLength(1);
+    if (essenItems[0]?.kind === 'vocab-card') {
+      expect(essenItems[0].source).toBe('new');
+    }
+  });
 });
