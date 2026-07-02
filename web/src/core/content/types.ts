@@ -14,6 +14,7 @@ export type {
   SpeakingPromptExercise,
   ExerciseSetType,
   ExamGridType,
+  DrillSkillType,
 } from './schema';
 
 export type Block = 'H' | 'A' | 'B' | 'C' | 'D' | 'exam';

@@ -128,6 +128,7 @@ exercises:
   - id: A1
     block: A
     type: table-fill
+    skill: case-endings
     title: "Die vier Fälle — vollständige Artikeltabelle (Genitiv ergänzen)"
     instructions: "Complete the full 4-case table. The Nominativ/Akkusativ/Dativ rows are given; fill in all Genitiv cells and the noun endings."
     columns: ["", "maskulin", "feminin", "neutral", "Plural"]
@@ -161,6 +162,7 @@ exercises:
     block: A
     type: gap-text
     layout: list
+    skill: case-endings
     title: "Genitivartikel einsetzen (des/der/eines/einer/keines/keiner)"
     instructions: "Fill each gap with the correct Genitiv article. Pay attention to gender."
     text: |
@@ -186,6 +188,7 @@ exercises:
     block: A
     type: gap-text
     layout: list
+    skill: case-endings
     title: "Nominalendung im Genitiv: -es oder -s?"
     instructions: "Add the correct Genitiv ending to each noun in bold. Write the complete Genitiv form."
     text: |

@@ -166,6 +166,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    skill: article-gender
     title: "der, die oder das?"
     text: |
       1. {1} Küche  2. {2} Sofa  3. {3} Balkon  4. {4} Bett
@@ -189,6 +190,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    skill: plural
     title: "Plural"
     text: |
       der Tisch → die {1} · der Stuhl → die {2} · das Bett → die {3} ·

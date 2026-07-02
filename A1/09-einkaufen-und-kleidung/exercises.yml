@@ -282,6 +282,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    skill: conjugation
     title: "`tragen` (e → ä irregular): conjugation table"
     instructions: "„tragen\" (to wear) ist unregelmäßig: der Vokal ändert sich **a → ä** bei „du\" und „er/sie/es\"."
     instructionsEn: "`tragen` (to wear) is irregular: the vowel changes **a → ä** for `du` and `er/sie/es`."
@@ -307,6 +308,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    skill: article-gender
     title: "Kleidung + Artikel: der, die oder das?"
     instructions: "Schreibe den Artikel und die Pluralform."
     instructionsEn: "Write the article and the plural."

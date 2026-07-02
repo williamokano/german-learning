@@ -538,6 +538,7 @@ exercises:
   - id: B5
     block: B
     type: order
+    skill: word-order
     title: "Satzbau"
     instructions: "Bringe die Wörter in die richtige Reihenfolge. Verb auf Position 2."
     instructionsEn: "Put the words in the correct order. Verb in position 2."

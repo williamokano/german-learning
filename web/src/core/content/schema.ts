@@ -4,6 +4,14 @@ import { z } from 'zod';
 const Answer = z.union([z.string(), z.array(z.string()).min(1)]);
 const GapMap = z.record(z.string(), Answer); // keys: "1", "2", …
 
+// Cross-lesson drill-bank tag (issue #341) — exactly the 8 categories the issue
+// names. A 9th skill is a new scope decision, not just a new enum value.
+export const DrillSkill = z.enum([
+  'article-gender', 'plural', 'conjugation', 'word-order',
+  'case-endings', 'cloze-in-context', 'numbers-time-date', 'redemittel',
+]);
+export type DrillSkillType = z.infer<typeof DrillSkill>;
+
 const Base = z.object({
   id: z.string().regex(/^[HABCD]\d+[a-z]?$|^exam-/),
   block: z.enum(['H', 'A', 'B', 'C', 'D', 'exam']),
@@ -18,6 +26,7 @@ const Base = z.object({
   caseSensitive: z.boolean().optional(),
   strictUmlaut: z.boolean().optional(),
   keepPunctuation: z.boolean().optional(),
+  skill: DrillSkill.optional(),
 });
 
 // ---- per type ----

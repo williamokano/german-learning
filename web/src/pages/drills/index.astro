@@ -1,0 +1,56 @@
+---
+import { getCollection } from 'astro:content';
+import { DrillSkill } from '@core/content/schema';
+import { drillCounts } from '@core/content/drills';
+
+const all = await getCollection('exercises');
+const counts = drillCounts(all);
+
+const LABELS: Record<string, string> = {
+  'article-gender': 'Artikel & Genus (der/die/das)',
+  'plural': 'Plural',
+  'conjugation': 'Konjugation',
+  'word-order': 'Satzbau',
+  'case-endings': 'Fallendungen',
+  'cloze-in-context': 'Lückentext im Kontext',
+  'numbers-time-date': 'Zahlen, Uhrzeit & Datum',
+  'redemittel': 'Redemittel',
+};
+
+const skills = DrillSkill.options.map(skill => ({ skill, label: LABELS[skill] ?? skill, count: counts[skill] }));
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Drill-Modus — Deutsch lernen</title>
+    <style>
+      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 4rem auto; padding: 0 1rem; color: #1a1a1a; }
+      h1 { font-size: 2rem; }
+      nav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
+      ul { list-style: none; padding: 0; margin-top: 1.5rem; display: flex; flex-direction: column; gap: 0.5rem; }
+      li a { display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid #e5e7eb; color: #1a1a1a; text-decoration: none; font-weight: 500; }
+      li a:hover { border-color: #2563eb; background: #eff6ff; }
+      li.empty a { color: #9ca3af; pointer-events: none; border-color: #f3f4f6; }
+      .count { font-size: 0.8rem; color: #6b7280; font-weight: 400; }
+    </style>
+  </head>
+  <body>
+    <nav><a href={`${base}/`}>← Startseite</a></nav>
+    <h1>Drill-Modus</h1>
+    <p>Wähle eine Fertigkeit, um gezielt zu üben — Übungen aus dem ganzen Kurs.</p>
+    <ul>
+      {skills.map(s => (
+        <li class:list={{ empty: s.count === 0 }}>
+          <a href={s.count > 0 ? `${base}/drills/${s.skill}/` : undefined}>
+            <span>{s.label}</span>
+            <span class="count">{s.count} Übungen</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </body>
+</html>

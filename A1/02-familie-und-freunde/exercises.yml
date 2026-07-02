@@ -164,6 +164,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    skill: conjugation
     title: "`haben`: Konjugationstabelle"
     text: "ich {1} · du {2} · er/sie/es {3} · wir {4} · ihr {5} · sie/Sie {6}"
     answers:
@@ -281,6 +282,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    skill: plural
     title: "Plural"
     text: |
       der Bruder → die {1} · die Schwester → die {2} · das Kind → die {3} ·
@@ -443,6 +445,7 @@ exercises:
     block: B
     type: gap-text
     listLayout: true
+    skill: cloze-in-context
     title: "Dialog ergänzen"
     text: |
       — Ist das {1} Familie auf dem Foto, Maria?

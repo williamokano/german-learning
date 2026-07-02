@@ -262,6 +262,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    skill: redemittel
     title: "Telephone phrases: fill in the verb"
     instructions: "Ergänze das fehlende Verb aus: anrufen, sprechen, hinterlassen, stören, dauern, warten."
     instructionsEn: "Fill in the missing verb from: anrufen, sprechen, hinterlassen, stören, dauern, warten."
