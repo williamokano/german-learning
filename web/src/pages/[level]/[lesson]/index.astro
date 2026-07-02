@@ -1,13 +1,16 @@
 ---
 import { getCollection, render } from 'astro:content';
+import { coreDedupKeysUpTo } from '@core/content/vocab';
 import LessonLayout from '../../../layouts/LessonLayout.astro';
 
 export async function getStaticPaths() {
-  const [allLessons, allShort, allExercises] = await Promise.all([
+  const [allLessons, allShort, allExercises, allVocab] = await Promise.all([
     getCollection('lessons'),
     getCollection('lessons-short'),
     getCollection('exercises'),
+    getCollection('vocab'),
   ]);
+  const vocabSets = allVocab.map(e => e.data);
 
   return allLessons.map(entry => {
     const parts = entry.id.split('/');
@@ -16,6 +19,7 @@ export async function getStaticPaths() {
     const lessonKey = `${level}/${slug}`;
     const shortId = `${level}/${slug}/lesson-short`;
     const shortEntry = allShort.find(e => e.id === shortId) ?? null;
+    const lessonId = `${level.toUpperCase()}/${slug.split('-')[0]}`;
     return {
       params: { level, lesson: slug },
       props: {
@@ -23,12 +27,13 @@ export async function getStaticPaths() {
         hasExercises: allExercises.some(e => e.id.startsWith(lessonKey + '/')),
         hasShort: shortEntry !== null,
         shortEntry,
+        wortschatzDedupKeys: coreDedupKeysUpTo(vocabSets, lessonId),
       },
     };
   });
 }
 
-const { entry, hasExercises, hasShort, shortEntry } = Astro.props;
+const { entry, hasExercises, hasShort, shortEntry, wortschatzDedupKeys } = Astro.props;
 const { level, lesson } = Astro.params;
 
 const title =
@@ -48,6 +53,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   {title}
   {level}
   {hasShort}
+  {wortschatzDedupKeys}
   shortTitle={`${title} — Kurzfassung`}
 >
   <section data-view="full">

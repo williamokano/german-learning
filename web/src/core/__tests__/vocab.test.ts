@@ -2,7 +2,7 @@ import { describe, it, expect } from 'vitest';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { parse as parseYaml } from 'yaml';
-import { VocabSet, CommittedVocabSet, unlockedVocab, lessonRank } from '@core/content/vocab';
+import { VocabSet, CommittedVocabSet, unlockedVocab, lessonRank, coreDedupKeys, coreDedupKeysUpTo } from '@core/content/vocab';
 import type { VocabSetType } from '@core/content/vocab';
 import { parseWortschatz, parseToken } from '@core/content/wortschatz-parser';
 
@@ -538,6 +538,38 @@ describe('unlockedVocab', () => {
     expect(lessonRank('A1/3')).toBe(-1);
     expect(lessonRank('C2/01')).toBe(-1);
     expect(unlockedVocab([mk('A1/01', 'a')], 'nonsense')).toEqual([]);
+  });
+});
+
+// ── Wortschatz counter helpers (F4) ───────────────────────────────────────────
+describe('coreDedupKeys / coreDedupKeysUpTo', () => {
+  const mkEntry = (de: string, core = true): VocabSetType['entries'][number] => ({
+    de, article: null, plural: null, en: de, pos: 'other', tags: [], core, needsReview: false,
+  });
+  const mk = (lesson: string, entries: VocabSetType['entries']): VocabSetType => ({ lesson, entries });
+
+  it('dedupes recurring words across lessons', () => {
+    const sets = [mk('A1/01', [mkEntry('a')]), mk('A1/02', [mkEntry('a'), mkEntry('b')])];
+    const keys = coreDedupKeys(sets.flatMap(s => s.entries));
+    expect(keys).toHaveLength(2);
+  });
+
+  it('excludes core:false entries', () => {
+    const entries = [mkEntry('a', true), mkEntry('b', false)];
+    const keys = coreDedupKeys(entries);
+    expect(keys).toHaveLength(1);
+  });
+
+  it('coreDedupKeysUpTo respects the unlock cutoff', () => {
+    const sets = [mk('A1/01', [mkEntry('a')]), mk('A1/03', [mkEntry('c')]), mk('A2/01', [mkEntry('z')])];
+    const keys = coreDedupKeysUpTo(sets, 'A1/03');
+    expect(keys).toHaveLength(2); // 'a' and 'c', not 'z'
+  });
+
+  it('coreDedupKeysUpTo also excludes core:false words within the unlocked range', () => {
+    const sets = [mk('A1/01', [mkEntry('a', true), mkEntry('hard-word', false)])];
+    const keys = coreDedupKeysUpTo(sets, 'A1/01');
+    expect(keys).toHaveLength(1);
   });
 });
 

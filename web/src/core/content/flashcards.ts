@@ -13,10 +13,17 @@ export interface FlashCard {
   entry: VocabEntryType;
 }
 
+/** Build a card key from a dedup key directly (no VocabEntryType needed) — for
+ *  callers that only carry word identity, e.g. the Wortschatz counter (F4), which
+ *  ships lightweight dedup-key strings to the client instead of full vocab entries. */
+export function cardKeyFromDedupKey(dedupKey: string, face: CardFace): string {
+  return `${dedupKey}|${face}`;
+}
+
 /** Stable id for one card. No lesson component: the same headword recurring across
  *  lessons must resolve to ONE card with one rating history (see vocabDedupKey). */
 export function vocabCardKey(entry: VocabEntryType, face: CardFace): string {
-  return `${vocabDedupKey(entry)}|${face}`;
+  return cardKeyFromDedupKey(vocabDedupKey(entry), face);
 }
 
 // Due-aware: DE→EN and EN→DE are independently-scheduled cards (F3), so naive random
