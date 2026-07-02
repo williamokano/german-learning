@@ -1,0 +1,82 @@
+---
+import { getCollection } from 'astro:content';
+import DailyMixRunner from '../components/DailyMixRunner.svelte';
+
+// F9 /today — daily mix session (issue #344).
+//
+// Frontmatter pre-bakes the static content collections. DailyMixRunner.svelte
+// mixes them on mount with reactive storage state (srs, fehlerbuch, pillSettings,
+// path), walks the session one item at a time, and renders a tally summary on
+// completion. Pairs with /path/, the navigation surface that lets the learner see
+// where they are in the curriculum.
+
+const [lessons, vocab, exercises] = await Promise.all([
+  getCollection('lessons'),
+  getCollection('vocab'),
+  getCollection('exercises'),
+]);
+
+// Project to the minimal structural shapes DailyMixRunner accepts — keeps the
+// runner from importing 'astro:content'. `lesson.md` frontmatter has no `lesson`
+// field; derive it from `data.number` (padded) for canonical matching with vocab
+// sets' `data.lesson`. Same robustness as `path.astro`: fall back to deriving
+// `level` and `slug` from the entry id when frontmatter omits them (e.g. A1/01).
+const lessonsProjected = lessons
+  .map(e => {
+    const idSegments = e.id.split('/');
+    const levelRaw = e.data.level ?? idSegments[0] ?? '';
+    const slugRaw = e.data.slug ?? idSegments[1] ?? '';
+    const level = levelRaw.toUpperCase();
+    const number = e.data.number;
+    if (!level || !slugRaw || number == null) return null;
+    return {
+      id: e.id,
+      data: {
+        lesson: `${level}/${String(number).padStart(2, '0')}`,
+        slug: slugRaw,
+        title: e.data.title ?? '(unbenannt)',
+        // path.ts's projectLesson gates `level` against /^[A-C][12]$/ (uppercase only).
+        // Always store the uppercased form so lessons with lowercase `level:` frontmatter
+        // (or none at all, like A1/01) survive the projection.
+        level: level,
+        number,
+      },
+    };
+  })
+  .filter((x): x is NonNullable<typeof x> => x !== null);
+const vocabProjected = vocab.map(e => ({
+  id: e.id, lesson: e.data.lesson, entries: e.data.entries,
+}));
+const exerciseEntries = exercises.map(e => ({ id: e.id, data: e.data }));
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Daily Mix · Deutsch lernen</title>
+    <style>
+      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 4rem auto; padding: 0 1rem; color: #1a1a1a; }
+      h1 { font-size: 1.6rem; margin: 0 0 0.5rem; }
+      .subtitle { color: #6b7280; margin: 0 0 1.5rem; }
+      nav.topnav { display: flex; gap: 0.6rem; margin-bottom: 1.5rem; }
+      nav.topnav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; padding: 0.3rem 0.6rem; border-radius: 6px; }
+      nav.topnav a:hover { background: #eff6ff; }
+    </style>
+  </head>
+  <body>
+    <nav class="topnav">
+      <a href={`${base}/`}>← Startseite</a>
+      <a href={`${base}/path/`}>Pfad</a>
+    </nav>
+    <h1>Daily Mix</h1>
+    <p class="subtitle">Eine kurze, gemischte Einheit aus neuen Wörtern, Wiederholungen und Drills.</p>
+    <DailyMixRunner
+      lessons={lessonsProjected}
+      vocabSets={vocabProjected}
+      exerciseEntries={exerciseEntries}
+      client:load
+    />
+  </body>
+</html>

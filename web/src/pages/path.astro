@@ -1,0 +1,76 @@
+---
+import { getCollection } from 'astro:content';
+import PathMap from '../components/PathMap.svelte';
+import { buildPathManifest } from '@core/content/path';
+
+// F9 /path — learning path map (issue #344). Statically renders the 68-node manifest
+// at build time. PathMap.svelte adds a client-side overlay (done ✓ / current ◉ /
+// locked —) from PathService.
+
+const [lessons, vocab] = await Promise.all([
+  getCollection('lessons'),
+  getCollection('vocab'),
+]);
+
+// `lesson.md` frontmatter carries `level` + `slug` + `number` but NOT the canonical
+// `lesson` id (e.g. "A1/03") — that field lives on vocab.yml and exercises.yml.
+// Derive it here so `buildPathManifest`'s projection can match against the vocab
+// set's `data.lesson`. Uses `data.number` directly (padded) instead of parsing
+// `slug.split('-')[0]`, which would break on Prüfungstraining slugs like
+// `pruefungstraining-a1` (first dash-segment is "pruefungstraining", not "14").
+//
+// Robustness: some lessons (e.g. A1/01) are missing `level:` and/or `slug:` in
+// frontmatter — fall back to deriving both from the entry id so the projection
+// never silently drops a lesson.
+const lessonsProjected = lessons
+  .map(e => {
+    const idSegments = e.id.split('/');
+    const levelRaw = e.data.level ?? idSegments[0] ?? '';
+    const slugRaw = e.data.slug ?? idSegments[1] ?? '';
+    const level = levelRaw.toUpperCase();
+    const number = e.data.number;
+    if (!level || !slugRaw || number == null) return null;
+    return {
+      id: e.id,
+      data: {
+        lesson: `${level}/${String(number).padStart(2, '0')}`,
+        slug: slugRaw,
+        title: e.data.title ?? '(unbenannt)',
+        // path.ts's projectLesson gates `level` against /^[A-C][12]$/ (uppercase only).
+        // Always store the uppercased form so lessons with lowercase `level:` frontmatter
+        // (or none at all, like A1/01) survive the projection.
+        level: level,
+        number,
+      },
+    };
+  })
+  .filter((x): x is NonNullable<typeof x> => x !== null);
+const vocabProjected = vocab.map(e => ({
+  id: e.id, lesson: e.data.lesson, entries: e.data.entries,
+}));
+
+const manifest = buildPathManifest({ lessons: lessonsProjected, vocabSets: vocabProjected });
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Pfad · Deutsch lernen</title>
+    <style>
+      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 4rem auto; padding: 0 1rem; color: #1a1a1a; }
+      h1 { font-size: 1.6rem; margin: 0 0 1rem; }
+      nav.topnav { display: flex; gap: 0.6rem; margin-bottom: 1.5rem; }
+      nav.topnav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; padding: 0.3rem 0.6rem; border-radius: 6px; }
+      nav.topnav a:hover { background: #eff6ff; }
+    </style>
+  </head>
+  <body>
+    <nav class="topnav">
+      <a href={`${base}/`}>← Startseite</a>
+      <a href={`${base}/today/`}>Daily Mix →</a>
+    </nav>
+    <h1>Lernpfad</h1>
+    <PathMap manifest={manifest} base={base} client:load />
+  </body>
+</html>

@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import { coreDedupKeys } from '@core/content/vocab';
 import WortschatzCounter from '../components/WortschatzCounter.svelte';
+import DailyGoalPicker from '../components/DailyGoalPicker.svelte';
 
 const all = await getCollection('lessons');
 const levelIds = [...new Set(all.map(e => e.id.split('/')[0]))].sort();
@@ -14,7 +15,7 @@ const LABELS: Record<string, string> = {
   a2: 'A2 — Grundlegende Kenntnisse',
   b1: 'B1 — Fortgeschrittene Grundkenntnisse',
   b2: 'B2 — Selbstständige Sprachverwendung',
-  c1: 'C1 — Fachkundige Sprachkenntnisse',
+  c1: 'C1 — Fachkundige Sprachverwendung',
   c2: 'C2 — Mastery',
 };
 
@@ -33,21 +34,37 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
       ul { list-style: none; padding: 0; margin-top: 1.5rem; display: flex; flex-direction: column; gap: 0.5rem; }
       li a { display: block; padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid #e5e7eb; color: #1a1a1a; text-decoration: none; font-weight: 500; }
       li a:hover { border-color: #2563eb; background: #eff6ff; }
-      .btn-review { display: inline-block; margin-top: 1rem; margin-right: 0.5rem; padding: 0.6rem 1.2rem; border-radius: 8px; background: #2563eb; color: #fff; text-decoration: none; font-weight: 600; }
-      .btn-review:hover { background: #1d4ed8; }
+      .pill-cta { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem; align-items: center; }
+      .btn-primary { display: inline-block; padding: 0.6rem 1.2rem; border-radius: 8px; background: #2563eb; color: #fff; text-decoration: none; font-weight: 600; }
+      .btn-primary:hover { background: #1d4ed8; }
+      .btn-secondary { display: inline-block; padding: 0.6rem 1.2rem; border-radius: 8px; background: #fff; color: #2563eb; text-decoration: none; font-weight: 600; border: 1.5px solid #2563eb; }
+      .btn-secondary:hover { background: #eff6ff; }
+      .btn-review { display: inline-block; padding: 0.5rem 1rem; border-radius: 8px; background: #f3f4f6; color: #374151; text-decoration: none; font-weight: 500; font-size: 0.875rem; }
+      .btn-review:hover { background: #e5e7eb; }
+      .pill-secondary-row { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.6rem; }
+      .picker-row { margin-top: 1.5rem; }
     </style>
   </head>
   <body>
     <h1>Deutsch lernen</h1>
     <p>Ein interaktiver Deutschkurs für Selbstlernende.</p>
     <WortschatzCounter dedupKeys={wortschatzDedupKeys} client:load />
+    <div class="picker-row">
+      <DailyGoalPicker client:load />
+    </div>
+    <div class="pill-cta">
+      <a class="btn-primary" href={`${base}/today/`}>Daily Mix →</a>
+      <a class="btn-secondary" href={`${base}/path/`}>Pfad ansehen →</a>
+    </div>
+    <div class="pill-secondary-row">
+      <a class="btn-review" href={`${base}/review/`}>Fehlerbuch</a>
+      <a class="btn-review" href={`${base}/drills/`}>Drill-Modus</a>
+      <a class="btn-review" href={`${base}/gym/`}>Grammatik-Gym</a>
+    </div>
     <ul>
       {levels.map(l => (
         <li><a href={`${base}/${l.id}/`}>{l.label}</a></li>
       ))}
     </ul>
-    <a class="btn-review" href={`${base}/review/`}>Fehlerbuch →</a>
-    <a class="btn-review" href={`${base}/drills/`}>Drill-Modus →</a>
-    <a class="btn-review" href={`${base}/gym/`}>Grammatik-Gym →</a>
   </body>
 </html>

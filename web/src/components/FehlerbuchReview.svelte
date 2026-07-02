@@ -6,6 +6,17 @@
 
   // No FlashcardSessionService / resume here — mirrors the "deep review always
   // rebuilds fresh" precedent already established for flashcards' deep-review deck.
+  //
+  // `externalEntries` (F9, Daily Mix) — when the caller has already curated the
+  // entry list (e.g. picked the exact K due items), skip the internal startReview()
+  // call and use the prop instead. Confusion pairs are still computed locally;
+  // they're derived from ALL stored mistakes, so a curated slice doesn't change them.
+  // `onItemRated` fires after each rate() so an outer orchestrator (Daily Mix) can
+  // advance its own position counter — without this the orchestrator would wait
+  // forever since FehlerbuchReview manages its own internal position.
+  let { externalEntries = null, onItemRated = null }:
+    { externalEntries?: FehlerbuchEntry[] | null; onItemRated?: ((rating: Rating) => void) | null } = $props();
+
   let mounted = $state(false);
   let entries: FehlerbuchEntry[] = $state([]);
   let confusionPairs: ConfusionPair[] = $state([]);
@@ -13,7 +24,7 @@
   let flipped = $state(false);
 
   function load(): void {
-    entries = fehlerbuch.startReview();
+    entries = externalEntries ?? fehlerbuch.startReview();
     confusionPairs = fehlerbuch.getConfusionPairs();
     position = 0;
     flipped = false;
@@ -33,6 +44,7 @@
     fehlerbuch.rate(current.key, rating);
     position += 1;
     flipped = false;
+    if (onItemRated) onItemRated(rating);
   }
 </script>
 
