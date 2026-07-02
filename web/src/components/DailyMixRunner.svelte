@@ -32,6 +32,10 @@
   let items: MixItem[] = $state([]);
   let position = $state(0);
   let stats = $state({ newPills: 0, dueCards: 0, interleavedDrills: 0, fehlerbuch: 0, total: 0 });
+  // Surface build failures inline instead of throwing — otherwise the user would
+  // see "Lade Daily Mix …" forever (mounted stays false), with no UI feedback and
+  // no log. Cleared on every `computeMix` call.
+  let mixError: string | null = $state(null);
 
   // Per-tally running count
   let tally = $state({
@@ -41,6 +45,7 @@
   });
 
   function computeMix(): void {
+    mixError = null;
     try {
       manifest = buildPathManifest({ lessons, vocabSets: vocabSets as PathManifestVocabSetInput[] });
       const goal: DailyGoal = pillSettings.get().dailyGoal;
@@ -67,9 +72,13 @@
         fehlerbuch: { again: 0, hard: 0, good: 0, easy: 0 },
       };
     } catch (err) {
-      // Bubble — the page-level error is informative; we just want to make sure
-      // a runtime bug doesn't render silently broken.
-      throw err;
+      // Surface the failure inline (mounted is set later in onMount regardless)
+      // so the user sees an actionable message + developer sees a stack trace in
+      // the console. Reset items so an empty-state UI doesn't render stale data.
+      mixError = 'Daily Mix konnte nicht geladen werden. Bitte Seite aktualisieren (F5).';
+      items = [];
+      stats = { newPills: 0, dueCards: 0, interleavedDrills: 0, fehlerbuch: 0, total: 0 };
+      console.error('[DailyMixRunner] computeMix failed:', err);
     }
   }
 
@@ -110,6 +119,11 @@
 <div class="daily-mix-runner">
   {#if !mounted}
     <p class="status">Lade Daily Mix …</p>
+  {:else if mixError}
+    <div class="error">
+      <h2>Fehler</h2>
+      <p>{mixError}</p>
+    </div>
   {:else if noItems}
     <div class="empty">
       <h2>Nichts zu tun 🎉</h2>
@@ -190,6 +204,10 @@
   .empty { text-align: center; padding: 3rem 1rem; }
   .empty h2 { margin: 0 0 0.5rem; color: #1a1a1a; }
   .empty p { color: #6b7280; margin: 0 0 1.5rem; }
+
+  .error { text-align: center; padding: 3rem 1rem; background: #fef2f2; border-radius: 8px; border: 1px solid #fecaca; max-width: 32rem; margin: 0 auto; }
+  .error h2 { margin: 0 0 0.5rem; color: #b91c1c; font-size: 1.05rem; }
+  .error p { color: #7f1d1d; margin: 0; }
 
   .btn-primary {
     display: inline-block;

@@ -12,6 +12,15 @@
   // Svelte 5's two-way binding, the bind:value runs first and updates `goal` to
   // the new value BEFORE onchange fires, so any "value !== goal" guard in the
   // handler would short-circuit and skip the persist call.
+  //
+  // Runtime check on the <select> value: an unchecked `as DailyGoal` cast would
+  // silently accept an unknown string if the <option> list ever drifts from the
+  // literal union (PillSettingsService.set would then no-op), producing an
+  // empty-state mix with zero diagnostic. Validate against the same closed set
+  // the service uses, log + early-return on drift.
+
+  const VALID_GOALS: ReadonlySet<DailyGoal> = new Set<DailyGoal>(['casual', 'regular', 'serious']);
+  const isDailyGoal = (v: string): v is DailyGoal => VALID_GOALS.has(v as DailyGoal);
 
   let goal = $state<DailyGoal>('regular');
 
@@ -20,7 +29,11 @@
   });
 
   function onChange(event: Event): void {
-    const value = (event.target as HTMLSelectElement).value as DailyGoal;
+    const value = (event.target as HTMLSelectElement).value;
+    if (!isDailyGoal(value)) {
+      console.warn('[DailyGoalPicker] unknown goal value, ignoring:', value);
+      return;
+    }
     pillSettings.set(value);
     goal = value;
   }

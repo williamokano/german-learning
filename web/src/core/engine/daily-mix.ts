@@ -10,12 +10,13 @@
 // lives above the storage layer.
 
 import type { VocabEntryType } from '@core/content/vocab';
-import { vocabDedupKey, unlockedVocab, type VocabSetType } from '@core/content/vocab';
+import { vocabDedupKey, unlockedVocab, lessonRank, type VocabSetType } from '@core/content/vocab';
 import { possibleCards, vocabCardKey, shuffle, type CardFace, type FlashCard } from '@core/content/flashcards';
 import { drillBank } from '@core/content/drills';
 import type { DrillItem, ExerciseSetEntry } from '@core/content/drills';
 import { selectBurst, type DueCandidate } from '@core/engine/sm2';
 import type { FehlerbuchEntry } from '@core/engine/fehlerbuch';
+import { DrillSkill } from '@core/content/schema';
 
 export type DailyGoal = 'casual' | 'regular' | 'serious';
 
@@ -169,13 +170,19 @@ export function selectNewPillsForLesson(input: SelectNewPillsInput): Array<{ kin
     fresh.push(entry);
   }
   const sampled = shuffle(fresh, rng).slice(0, input.size);
-  return sampled.map(entry => ({
-    kind: 'vocab-card' as const,
-    entry,
-    face: pickNewEntryFace(rng),
-    source: 'new' as const,
-    cardKey: vocabCardKey(entry, pickNewEntryFace(rng)),
-  }));
+  return sampled.map(entry => {
+    // Draw face once. Two separate rng() calls could disagree — `face` would
+    // render one card while `cardKey` schedules a *different* card for SRS,
+    // silently desynchronizing what's shown from what gets rated.
+    const face = pickNewEntryFace(rng);
+    return {
+      kind: 'vocab-card' as const,
+      entry,
+      face,
+      source: 'new' as const,
+      cardKey: vocabCardKey(entry, face),
+    };
+  });
 }
 
 export interface SelectDueCardsInput {
@@ -245,21 +252,18 @@ export interface SelectInterleavedDrillsInput {
 
 /** Older-lesson interleaved drills — every tagged exercise across every skill whose
  *  source lesson is strictly OLDER than `currentLessonId` in `lessonRank` order.
- *  Returns [] when there are no older lessons (e.g. user still on A1/01). The
- *  per-skill pool is small (8 skills) so we just union the 8 `drillBank` results. */
+ *  Returns [] when there are no older lessons (e.g. user still on A1/01). */
 export function selectInterleavedDrills(input: SelectInterleavedDrillsInput): Array<{ kind: 'drill'; item: DrillItem; source: 'interleaved'; }> {
   if (input.currentLessonId == null) return [];
   const rng = input.rng ?? Math.random;
-  const currentRank = rankOrMinusOne(input.currentLessonId);
-  if (currentRank <= 0) return []; // no strictly-lesser lesson exists
+  const currentRank = lessonRank(input.currentLessonId);
+  if (currentRank < 0) return []; // malformed id → empty pool, no throws
 
   const all: DrillItem[] = [];
-  // F5 skills — issue's exact 8 values. Hardcoded here to keep this file a leaf;
-  // could be lifted to schema.DrillSkill.options if it ever changes.
-  const skillPool = ['article-gender','plural','conjugation','word-order','case-endings','cloze-in-context','numbers-time-date','redemittel'] as const;
-  for (const skill of skillPool) {
+  // Iterate the live DrillSkill enum from schema so adding a 9th skill is automatic.
+  for (const skill of DrillSkill.options) {
     for (const item of drillBank(input.exerciseEntries as ExerciseSetEntry[], skill)) {
-      if (rankOrMinusOne(item.lessonId) < currentRank) all.push(item);
+      if (lessonRank(item.lessonId) < currentRank) all.push(item);
     }
   }
 
@@ -275,16 +279,6 @@ export function selectFehlerbuchItems(entries: ReadonlyArray<FehlerbuchEntry>, s
 }
 
 // ---- Main builder ----
-
-function rankOrMinusOne(lessonId: string): number {
-  // Reuse lessonRank via a small inline that doesn't require re-importing vocab.ts types.
-  const m = lessonId.match(/^([A-C][12])\/(\d{2})$/);
-  if (!m) return -1;
-  const levelOrder: Record<string, number> = { A1: 0, A2: 1, B1: 2, B2: 3, C1: 4 };
-  const lvl = levelOrder[m[1]];
-  if (lvl === undefined) return -1;
-  return lvl * 100 + Number(m[2]);
-}
 
 function roundAllocations(total: number, budget: DailyMixBudget): { n: number; d: number; i: number; f: number; } {
   return {

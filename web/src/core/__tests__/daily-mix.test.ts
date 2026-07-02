@@ -187,6 +187,31 @@ describe('selectNewPillsForLesson', () => {
     });
     expect(r).toHaveLength(0);
   });
+
+  it('item.face and item.cardKey always agree (no rng double-call bug)', () => {
+    // Regression guard: an earlier version of this code called pickNewEntryFace(rng)
+    // twice — once for `face`, again for `cardKey` — which produced silent desync
+    // when rng() returned different values on consecutive calls (e.g. alternating
+    // 0.4 / 0.9). With a stateful rng that flips its return, the bug surfaces
+    // immediately: face is one direction, cardKey encodes the OTHER direction,
+    // and the SRS schedules a card the learner never actually saw.
+    const vocabSets = [set('A1/01', apfel, banane, essen)];
+    let i = 0;
+    const alternating = () => (i++ % 2 === 0 ? 0.4 : 0.9);
+    const r = selectNewPillsForLesson({
+      currentLessonId: 'A1/01',
+      vocabSets,
+      cardStates: {},
+      size: 10,
+      rng: alternating,
+    });
+    for (const it of r) {
+      // The cardKey must encode the same face as `face`. If they disagree, the
+      // rendered card and the SRS-updated card differ — silent data corruption.
+      const encodedFace = it.cardKey.split('|')[1]; // "apfel noun der|meaning-de-en" → "meaning-de-en"
+      expect(encodedFace).toBe(it.face);
+    }
+  });
 });
 
 describe('selectDueCards', () => {

@@ -20,7 +20,15 @@ export class PathService {
   private readAll(): Record<PathNodeId, true> {
     const raw = this.storage.get<unknown>(KEY);
     if (raw == null || typeof raw !== 'object' || Array.isArray(raw)) return {};
-    return raw as Record<PathNodeId, true>;
+    // Filter to well-formed entries: each key must be a string and each value must
+    // be exactly `true` (the shape `markComplete` writes). A valid object with
+    // arbitrary values (e.g. `{ ... , 'foo': 'bar' }` from a buggy future write)
+    // would otherwise silently rewind user progress.
+    const out: Record<PathNodeId, true> = {};
+    for (const [k, v] of Object.entries(raw)) {
+      if (typeof k === 'string' && v === true) out[k] = true;
+    }
+    return out;
   }
 
   private writeAll(all: Record<PathNodeId, true>): void {
