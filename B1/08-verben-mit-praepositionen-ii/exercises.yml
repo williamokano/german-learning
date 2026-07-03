@@ -164,6 +164,7 @@ exercises:
     block: A
     type: gap-text
     layout: list
+    track: praepositionen
     title: "Kasus nach Präposition — Artikel ergänzen"
     instructions: "Fill in the correct article (definite or indefinite) after the preposition. Watch the case! 8 items."
     text: |
@@ -188,6 +189,7 @@ exercises:
   - id: A3
     block: A
     type: categorize
+    track: praepositionen
     title: "Verben sortieren — welche Präposition?"
     instructions: "Sort each verb into the correct preposition category."
     buckets:
@@ -217,6 +219,7 @@ exercises:
     block: A
     type: gap-text
     layout: list
+    track: praepositionen
     title: "Pronominaladverb bilden: `da(r)- + Präposition`"
     instructions: "Replace the underlined phrase with the correct Pronominaladverb. 10 items."
     text: |
@@ -246,6 +249,7 @@ exercises:
     block: A
     type: gap-text
     layout: list
+    track: praepositionen
     title: "`wo(r)- + Präposition` — Fragen bilden"
     instructions: "Form the correct `wo(r)-` question word for the underlined element. 8 items."
     text: |
@@ -270,6 +274,7 @@ exercises:
   - id: A6
     block: A
     type: true-false
+    track: praepositionen
     title: "Person oder Sache? Richtig oder Falsch?"
     instructions: "Is the pronoun/Pronominaladverb used correctly? Answer Richtig (R) oder Falsch (F)."
     items:
@@ -296,6 +301,7 @@ exercises:
     block: A
     type: gap-text
     layout: list
+    track: praepositionen
     title: "Anticipatory `da(r)-` + `dass`-Satz"
     instructions: "Fill in the correct Pronominaladverb before the dass-clause. 8 items."
     text: |
@@ -329,6 +335,7 @@ exercises:
     block: A
     type: gap-text
     layout: list
+    track: praepositionen
     title: "Anticipatory `da(r)-` + `zu`-Infinitiv"
     instructions: "Fill in the correct Pronominaladverb before the zu-Infinitive phrase. 6 items."
     text: |
@@ -355,6 +362,7 @@ exercises:
   - id: A9
     block: A
     type: matching
+    track: praepositionen
     title: "Verb + Präposition kombinieren"
     instructions: "Match each verb (1–8) with its fixed preposition (a–j). Two right-side options are not needed."
     left:
@@ -390,6 +398,7 @@ exercises:
   - id: A10
     block: A
     type: order
+    track: praepositionen
     title: "Satzbau: Satz mit Pronominaladverb richtig ordnen"
     instructions: "Put the words in the correct order."
     items:
@@ -413,6 +422,7 @@ exercises:
     block: A
     type: gap-text
     layout: list
+    track: praepositionen
     title: "`sich freuen auf` vs. `sich freuen über` — richtig wählen"
     instructions: "Choose `darauf` or `darüber` and the correct preposition. 6 items."
     text: |
@@ -442,6 +452,7 @@ exercises:
     block: B
     type: gap-text
     layout: list
+    track: praepositionen
     title: "Pronominaladverbien im Dialog — Gespräch über den Film"
     instructions: "Fill in the correct Pronominaladverb. Context: Mia, Pavel und Tomáš nach dem Film. 8 items."
     text: |
@@ -466,6 +477,7 @@ exercises:
   - id: B2
     block: B
     type: single-choice
+    track: praepositionen
     title: "Person oder Sache? Richtige Form wählen"
     instructions: "Choose the correct form (a, b, or c)."
     items:
@@ -516,6 +528,7 @@ exercises:
     block: B
     type: gap-text
     layout: list
+    track: praepositionen
     title: "Finde den Fehler — Pronominaladverbien"
     instructions: "Each sentence contains exactly one error. Find it and write the corrected sentence. 6 items."
     text: |
@@ -542,6 +555,7 @@ exercises:
   - id: B4
     block: B
     type: order
+    track: praepositionen
     title: "Satzbau: `da(r)-` + `dass`-Satz / `zu`-Infinitiv"
     instructions: "Put the words in the correct order."
     items:
@@ -562,6 +576,7 @@ exercises:
     block: B
     type: gap-text
     layout: list
+    track: praepositionen
     title: "Umformung: Satz mit Nomen → Satz mit Pronominaladverb"
     instructions: "Replace the underlined prepositional phrase with the correct Pronominaladverb. Rewrite the full sentence. 6 items."
     text: |
@@ -589,6 +604,7 @@ exercises:
     block: B
     type: gap-text
     layout: list
+    track: praepositionen
     title: "Dialog ergänzen: Interview-Sprache mit Pronominaladverbien"
     instructions: "Fill in the 8 blanks with the correct Pronominaladverb or wo(r)-form. Context: Anna's job interview."
     text: |
@@ -613,6 +629,7 @@ exercises:
   - id: B7
     block: B
     type: matching
+    track: praepositionen
     title: "Frage und Antwort verbinden"
     instructions: "Match each question (1–6) with the correct answer (a–g). One answer is not needed."
     left:
@@ -642,6 +659,7 @@ exercises:
     block: B
     type: gap-text
     layout: list
+    track: praepositionen
     title: "Leseverstehen: Annas Interview (Lesetext §7)"
     instructions: "Answer each question with a full sentence using a Pronominaladverb. 5 items."
     text: |
@@ -665,6 +683,7 @@ exercises:
   - id: B9
     block: B
     type: free-write
+    track: praepositionen
     title: "WhatsApp-Nachricht: Reaktion auf einen Film"
     prompt: "Schreib 5–6 Sätze als Antwort auf Mias Nachricht. Benutze Verben mit Präpositionen und Pronominaladverbien."
     stimulus: |
@@ -698,6 +717,7 @@ exercises:
     block: C
     type: gap-text
     layout: false
+    track: praepositionen
     title: "Lückentext: Annas Interview"
     instructions: "Fill each gap with one word. 10 gaps."
     text: |
@@ -730,6 +750,7 @@ exercises:
   - id: C2
     block: C
     type: single-choice
+    track: praepositionen
     title: "Sprachbausteine Teil 1"
     instructions: "Choose the correct option (a, b, or c) for each gap."
     items:
@@ -779,6 +800,7 @@ exercises:
   - id: C3
     block: C
     type: gap-bank
+    track: praepositionen
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Fill the 10 gaps. Five words are not needed."
     bankCase: upper
@@ -892,6 +914,7 @@ exercises:
   - id: C5
     block: C
     type: free-write
+    track: praepositionen
     title: "Schreiben: E-Mail nach einem Vorstellungsgespräch"
     prompt: "Write a formal follow-up e-mail (5–6 sentences) after a job interview. Use verbs with fixed prepositions and Pronominaladverbien naturally."
     minSentences: 5
@@ -963,6 +986,7 @@ exercises:
   - id: D2
     block: D
     type: odd-one-out
+    track: praepositionen
     title: "Wortschatz-Check: Das passt nicht!"
     instructions: "Circle the word or phrase that does not belong. 6 groups."
     groups:
@@ -1021,6 +1045,7 @@ exercises:
     block: D
     type: gap-text
     layout: list
+    track: praepositionen
     title: "Selbsttest: Verben mit Präpositionen + Pronominaladverbien (20 Punkte)"
     instructions: "Fill in the correct form. 1 point per gap. 20 items."
     notes: "16+ / 20 → proceed to B1/09. Below 16: redo Block A4–A8 tomorrow, then retest D4."

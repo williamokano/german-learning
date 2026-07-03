@@ -140,6 +140,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Präteritum: regular verbs"
     instructions: "Fill in the correct Präteritum form. 8 items."
     text: |
@@ -165,6 +166,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Präteritum: sein, haben, werden"
     instructions: "Fill in the correct Präteritum form of the verb in brackets. 8 items."
     text: |
@@ -190,6 +192,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Präteritum: Modalverben"
     instructions: "Fill in the correct Präteritum form. ⚠️ no umlaut. 6 items."
     text: |
@@ -211,6 +214,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Präteritum in Fragen"
     instructions: "Put the verb in brackets into Präteritum. 6 items."
     text: |
@@ -232,6 +236,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Plusquamperfekt: 'had done'"
     instructions: "Fill in the correct Plusquamperfekt form. 6 items."
     text: |
@@ -248,6 +253,7 @@ exercises:
   - id: A6
     block: A
     type: free-write
+    track: vergangenheit
     title: "Mini-Story: 5 Sätze im Präteritum"
     prompt: "Write a short 5-sentence story about something that happened to you in the past. Use Präteritum throughout."
     stimulus: |
@@ -280,6 +286,7 @@ exercises:
   - id: A8
     block: A
     type: free-write
+    track: vergangenheit
     title: "Plusquamperfekt-Sätze"
     prompt: "Complete each sentence with a Plusquamperfekt clause (had + past participle)."
     stimulus: |
@@ -300,6 +307,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Früher vs. heute — Vergleich"
     instructions: "Choose the correct form (Präteritum or Präsens). 6 items."
     text: |
@@ -318,6 +326,7 @@ exercises:
   - id: A10
     block: A
     type: free-write
+    track: vergangenheit
     title: "Mini-Biografie: 6 Sätze"
     prompt: "Write a 6-sentence mini-biography of a person you know (real or invented). Use Präteritum throughout."
     stimulus: |
@@ -340,6 +349,7 @@ exercises:
   - id: B1
     block: B
     type: gap-bank
+    track: vergangenheit
     title: "Dialog ergänzen: Erinnerungen an das Studium"
     instructions: "Fill in the 10 blanks with the correct verb form (Präteritum or Präsens as context requires)."
     text: |
@@ -367,6 +377,7 @@ exercises:
   - id: B2
     block: B
     type: free-write
+    track: vergangenheit
     title: "Finde den Fehler"
     prompt: 'Not every sentence has a mistake. Find the sentences that are wrong and rewrite them correctly. If a sentence is already correct, write "richtig".'
     stimulus: |
@@ -392,6 +403,7 @@ exercises:
   - id: B3
     block: B
     type: matching
+    track: vergangenheit
     title: "Frage und Antwort verbinden"
     instructions: "Match each question (1–6) with the correct answer (a–f)."
     left:
@@ -419,6 +431,7 @@ exercises:
   - id: B4
     block: B
     type: free-write
+    track: vergangenheit
     title: "Satzbau: Plusquamperfekt im Nebensatz"
     prompt: "Build a correct German sentence from the cues. Use Nachdem or Bevor as the conjunction."
     stimulus: |
@@ -456,6 +469,7 @@ exercises:
   - id: B6
     block: B
     type: free-write
+    track: vergangenheit
     title: "Übersetzen (EN → DE) — Präteritum"
     prompt: "Translate into German using Präteritum."
     stimulus: |
@@ -476,6 +490,7 @@ exercises:
   - id: B7
     block: B
     type: order
+    track: vergangenheit
     title: "Satzbau: Wörter ordnen"
     prompt: "Reorder the words to make a correct German sentence using Präteritum."
     stimulus: |
@@ -519,6 +534,7 @@ exercises:
   - id: B9
     block: B
     type: free-write
+    track: vergangenheit
     title: "Früher und heute: WhatsApp an deine Schwester"
     prompt: 'Schreib eine WhatsApp an deine Schwester (oder einen guten Freund) in 4–5 Sätzen. Erzähl ihr, wie sich dein Leben in den letzten 10 Jahren verändert hat. Verwende Präteritum und Plusquamperfekt.'
     use:
@@ -544,6 +560,7 @@ exercises:
     block: C
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Lückentext: Lukas' Fotoalbum"
     instructions: "Fill each gap with one word. 10 items."
     text: |
@@ -574,6 +591,7 @@ exercises:
   - id: C2
     block: C
     type: single-choice
+    track: vergangenheit
     title: "Sprachbausteine Teil 1"
     instructions: "Choose the correct option (a, b, or c) for each gap."
     items:
@@ -623,6 +641,7 @@ exercises:
   - id: C3
     block: C
     type: gap-bank
+    track: vergangenheit
     title: "Sprachbausteine Teil 2 (word bank)"
     instructions: "Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once."
     text: |
@@ -724,6 +743,7 @@ exercises:
   - id: C5
     block: C
     type: free-write
+    track: vergangenheit
     title: "Schreiben: Eine kurze Geschichte aus der Vergangenheit"
     prompt: "Write a short story (8–10 sentences) about an important moment in your life. Use Präteritum and at least 2 sentences with Plusquamperfekt."
     use:

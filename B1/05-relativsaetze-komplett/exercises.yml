@@ -298,6 +298,7 @@ exercises:
   - id: A8
     block: A
     type: order
+    skill: word-order
     title: "Satzbau — Relativsatz rekonstruieren"
     instructions: "Bring die Wörter in die richtige Reihenfolge. Das Verb im Relativsatz steht am Ende!"
     items:
@@ -493,6 +494,7 @@ exercises:
   - id: B5
     block: B
     type: order
+    skill: word-order
     title: "Wortstellung im Relativsatz — Verb ans Ende"
     instructions: "Bringe die Wörter in die richtige Reihenfolge. Das Verb im Relativsatz steht am Ende!"
     items:

@@ -163,6 +163,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    skill: word-order
     title: "je … desto: Verbposition vervollständigen"
     instructions: "Setz das Verb aus der Klammer an die richtige Stelle. ⚠️ je-Teil: Verb am Ende; desto-Teil: Verb direkt nach dem Komparativ. 6 Items."
     text: |
@@ -233,6 +234,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    skill: word-order
     title: "indem / sodass: Verb am Ende"
     instructions: "Setz das Verb aus der Klammer ans Ende des Nebensatzes. 6 Items."
     text: |
@@ -296,6 +298,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    skill: word-order
     title: "Bedingung: Verbposition"
     instructions: "Setz das Verb aus der Klammer an die richtige Stelle. ⚠️ falls/sofern: Verb am Ende; nach „es sei denn“ ohne „dass“: Verb in Position 2. 6 Items."
     text: |
@@ -316,6 +319,7 @@ exercises:
   - id: A7
     block: A
     type: single-choice
+    skill: word-order
     title: "Konzessiv: welche Klasse, welche Wortstellung?"
     instructions: "Wähle die korrekte Form (a, b oder c)."
     items:
@@ -359,6 +363,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    skill: word-order
     title: "Konzessiv: Verbposition"
     instructions: "Setz das Verb aus der Klammer an die richtige Stelle. ⚠️ obwohl/obgleich/wenngleich: Verb am Ende; trotzdem/dennoch/gleichwohl in Position 1: Inversion. 6 Items."
     text: |
@@ -406,6 +411,7 @@ exercises:
   - id: A10
     block: A
     type: categorize
+    skill: word-order
     title: "Welche Konnektor-Klasse?"
     instructions: "Ordne jeden Konnektor seiner Wortstellungs-Klasse zu."
     buckets:
@@ -427,6 +433,7 @@ exercises:
   - id: A11
     block: A
     type: order
+    skill: word-order
     title: "Satzbau: je … desto richtig stellen"
     instructions: "Bring die Wörter in die richtige Reihenfolge. ⚠️ je-Teil: Verb am Ende; desto-Teil: Verb direkt nach dem Komparativ."
     items:
@@ -446,6 +453,7 @@ exercises:
   - id: A12
     block: A
     type: order
+    skill: word-order
     title: "Satzbau: Konnektor-Nebensatz und Hauptsatz"
     instructions: "Bring die Wörter in die richtige Reihenfolge. Im Nebensatz steht das Verb am Ende; nach einem Adverb in Position 1 folgt Inversion."
     items:
@@ -467,6 +475,7 @@ exercises:
   - id: B1
     block: B
     type: free-write
+    skill: word-order
     title: "Sätze verbinden: je … desto"
     prompt: "Verbinde die beiden Aussagen zu einem je … desto-Satz."
     stimulus: |
@@ -487,6 +496,7 @@ exercises:
   - id: B2
     block: B
     type: free-write
+    skill: word-order
     title: "Umformen: Subjunktion ↔ Konjunktionaladverb"
     prompt: "Drück denselben konzessiven Gedanken anders aus. Achte auf die Wortstellung."
     stimulus: |
@@ -507,6 +517,7 @@ exercises:
   - id: B3
     block: B
     type: free-write
+    skill: word-order
     title: "Finde den Fehler"
     prompt: "Jeder Satz hat genau einen Fehler (Wortstellung, Komparativ oder Konnektor). Finde ihn und schreib den Satz korrekt."
     stimulus: |
@@ -554,6 +565,7 @@ exercises:
   - id: B5
     block: B
     type: gap-bank
+    skill: word-order
     title: "Dialog ergänzen: der Sprachabend"
     instructions: "Füll die 8 Lücken mit dem passenden Konnektor. Ein Wort ist zu viel."
     text: |
@@ -578,6 +590,7 @@ exercises:
   - id: B6
     block: B
     type: order
+    skill: word-order
     title: "Satzbau: indem, sodass, falls, es sei denn"
     instructions: "Bring die Wörter in die richtige Reihenfolge. Im Nebensatz steht das Verb am Ende; nach „es sei denn“ ohne „dass“ steht das Verb in Position 2."
     items:
@@ -597,6 +610,7 @@ exercises:
   - id: B7
     block: B
     type: odd-one-out
+    skill: word-order
     title: "Wortschatz: Was passt nicht?"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
     groups:
@@ -616,6 +630,7 @@ exercises:
   - id: B8
     block: B
     type: single-choice
+    skill: word-order
     title: "Welcher Konnektor passt in den Kontext?"
     instructions: "Wähle die logisch und grammatisch passende Variante (a, b oder c)."
     items:
@@ -651,6 +666,7 @@ exercises:
   - id: B9
     block: B
     type: free-write
+    skill: word-order
     title: "Forenbeitrag: Wie lernt man eine Sprache?"
     prompt: 'In einem Sprachlern-Forum stellt jemand eine Frage. Antworte in 5–6 Sätzen und gib deinen besten Tipp.'
     stimulus: |
@@ -681,6 +697,7 @@ exercises:
     block: C
     type: gap-text
     listLayout: true
+    skill: word-order
     title: "Lückentext: Wie man wirklich eine Sprache lernt (Lesetext)"
     instructions: "Füll jede Lücke mit einem Konnektor. 10 Items."
     text: |
@@ -709,6 +726,7 @@ exercises:
   - id: C2
     block: C
     type: single-choice
+    skill: word-order
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     items:
@@ -760,6 +778,7 @@ exercises:
     type: gap-bank
     bankCase: upper
     bankSort: true
+    skill: word-order
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
     text: |
@@ -857,6 +876,7 @@ exercises:
   - id: C5
     block: C
     type: free-write
+    skill: word-order
     title: "Schreiben: Eine kurze Erörterung"
     prompt: "Schreib einen kurzen Text (8–10 Sätze) zum Thema „Wie lernt man eine Sprache am besten?“. Nutze die Konnektoren dieser Lektion und variiere bewusst zwischen den Klassen."
     use:
@@ -924,6 +944,7 @@ exercises:
   - id: D2
     block: D
     type: odd-one-out
+    skill: word-order
     title: "Odd one out"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
     groups:

@@ -156,6 +156,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "`haben` or `sein`?"
     instructions: "Schreibe die richtige Form von „haben\" oder „sein\" in die Lücke. Richte sie nach dem Subjekt."
     instructionsEn: "Write the correct form of `haben` or `sein` in the gap. Match the subject."
@@ -186,6 +187,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Perfekt: full conjugation table (machen)"
     text: |
       1. ich {1} {2}  2. du {3} {4}  3. er/sie/es {5} {6}
@@ -208,6 +210,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Perfekt: full conjugation table (gehen)"
     text: |
       1. ich {1} {2}  2. du {3} {4}  3. er/sie/es {5} {6}
@@ -230,6 +233,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "`war` and `hatte`: conjugation tables"
     text: |
       1. ich (war) {1} · ich (hatte) {2}
@@ -256,6 +260,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "`war` or `hatte`?"
     text: |
       1. Das Wetter {1} sehr schön.
@@ -284,6 +289,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Separable verbs in the Perfekt"
     instructions: "Schreibe das Partizip II jedes trennbaren Verbs. Das „ge-\" steht zwischen Vorsilbe und Stamm."
     instructionsEn: "Write the Partizip II of each separable verb. The ge- goes between the prefix and the stem."
@@ -304,6 +310,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Build the Perfekt sentence"
     instructions: "Setze die Elemente zu einem vollständigen Perfektsatz zusammen."
     instructionsEn: "Combine the elements into a complete Perfekt sentence."
@@ -330,6 +337,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Transformation drill: present → Perfekt"
     instructions: "Schreibe den Satz im Perfekt."
     instructionsEn: "Rewrite the sentence in the Perfekt."
@@ -383,6 +391,7 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Mixed drill: Perfekt with sein and haben"
     instructions: "Ergänze die richtige Hilfsverbform (habe/hat/haben/bin/ist/sind) und das Partizip II."
     instructionsEn: "Fill in the correct auxiliary (habe/hat/haben/bin/ist/sind) and the Partizip II."
@@ -419,6 +428,7 @@ exercises:
     block: B
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Dialog ergänzen: Nach dem Wochenende"
     text: |
       — Hallo Anna! Wie {1} dein Wochenende?
@@ -443,6 +453,7 @@ exercises:
     block: B
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Dialog ergänzen: Urlaub erzählen"
     text: |
       — Wie {1} Ihr Urlaub, Herr Yilmaz?
@@ -468,6 +479,7 @@ exercises:
   - id: B3
     block: B
     type: free-write
+    track: vergangenheit
     title: "Finde den Fehler"
     instructions: "Jeder Satz hat genau einen Fehler. Finde ihn und schreibe den ganzen Satz korrigiert."
     instructionsEn: "Each sentence has exactly one mistake. Find the error and write the full corrected sentence."
@@ -498,6 +510,7 @@ exercises:
   - id: B4
     block: B
     type: matching
+    track: vergangenheit
     title: "Frage und Antwort verbinden"
     left:
       - { key: "1", text: "Was hast du gestern gemacht?" }
@@ -530,6 +543,7 @@ exercises:
   - id: B5
     block: B
     type: order
+    track: vergangenheit
     title: "Satzbau"
     instructions: "Bilde korrekte Perfektsätze. Achte auf die Verbposition und das Partizip II am Ende."
     instructionsEn: "Build correct Perfekt sentences. Pay attention to verb position and Partizip II at the end."
@@ -571,6 +585,7 @@ exercises:
   - id: B6
     block: B
     type: categorize
+    track: vergangenheit
     title: "Kategorien: `haben` oder `sein`?"
     instructions: "Sortiere diese 12 Verben in die zwei Spalten."
     instructionsEn: "Sort these 12 verbs into the two columns."
@@ -594,6 +609,7 @@ exercises:
   - id: B7
     block: B
     type: free-write
+    track: vergangenheit
     title: "Fragen schreiben"
     instructions: "Schreibe die Frage, die zur Antwort passt. Verwende die du-Form, wenn nicht (Sie) markiert ist."
     instructionsEn: "Write the question that fits each answer. Use the du-form unless marked (Sie)."
@@ -618,6 +634,7 @@ exercises:
   - id: B8
     block: B
     type: free-write
+    track: vergangenheit
     title: "Answer with the cues"
     instructions: "Antworte in einem vollständigen Perfektsatz mit dem Stichwort in Klammern."
     instructionsEn: "Answer in a full Perfekt sentence using the cue in brackets."
@@ -644,6 +661,7 @@ exercises:
   - id: B9
     block: B
     type: free-write
+    track: vergangenheit
     title: "Was hast du gestern gemacht?"
     instructions: "Du telefonierst mit deinem Bruder/deiner Schwester, der/die dich nach deinem Tag fragt. Schreib 3–4 Sätze und erzähl, was du gestern alles gemacht hast."
     instructionsEn: "You are on the phone with your brother/sister, who is asking about your day. Write 3–4 sentences telling them what you did yesterday."
@@ -666,6 +684,7 @@ exercises:
   - id: B10
     block: B
     type: free-write
+    track: vergangenheit
     title: "Urlaub beschreiben"
     instructions: "Lies die Stichwörter und schreibe 4–5 Perfektsätze zu diesem imaginären Urlaub."
     instructionsEn: "Read the cues and write 4–5 Perfekt sentences about this imaginary holiday."
@@ -683,6 +702,7 @@ exercises:
   - id: C1
     block: C
     type: gap-bank
+    track: vergangenheit
     title: "Lückentext"
     instructions: "Fülle jede Lücke mit einem Wort aus dem Kasten. Fünf Wörter werden nicht gebraucht."
     instructionsEn: "Fill each gap with one word from the box. Five words are not needed."
@@ -704,6 +724,7 @@ exercises:
   - id: C2
     block: C
     type: single-choice
+    track: vergangenheit
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
     instructionsEn: "Choose the correct option (a, b, or c) for each gap."
@@ -754,6 +775,7 @@ exercises:
   - id: C3
     block: C
     type: gap-bank
+    track: vergangenheit
     title: "Sprachbausteine Teil 2 (word bank)"
     instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
     instructionsEn: "Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once."
@@ -861,6 +883,7 @@ exercises:
   - id: C5
     block: C
     type: free-write
+    track: vergangenheit
     title: "Schreiben: Mein Wochenende / meine Reise"
     instructions: "Schreibe eine kurze Nachricht (6–8 Sätze) an einen Freund über dein letztes Wochenende oder eine kürzliche Reise. Nenne: wohin du gegangen bist, was du gemacht hast, wie das Wetter war, eine Sache, die du gegessen oder getrunken hast, und wie du dich gefühlt hast."
     instructionsEn: "Write a short message (6–8 sentences) to a friend about your last weekend or a recent trip. Include: where you went, what you did, how the weather was, one thing you ate or drank, and how you felt."
@@ -929,6 +952,7 @@ exercises:
   - id: D2
     block: D
     type: odd-one-out
+    track: vergangenheit
     title: "Odd one out"
     instructions: "Streiche das Wort durch, das nicht passt, und sage warum."
     instructionsEn: "Cross out the word that doesn't fit and say why."
@@ -984,6 +1008,7 @@ exercises:
     block: D
     type: gap-text
     listLayout: true
+    track: vergangenheit
     title: "Selbsttest (score yourself /20)"
     notes: "16+ / 20 → Lektion 12. Below: redo Block A (especially A1–A6) and Block A9–A10 tomorrow, then retake the Selbsttest."
     text: |
