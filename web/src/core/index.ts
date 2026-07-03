@@ -11,6 +11,7 @@ import { FlashcardSessionService, DEEP_REVIEW_DECK_KEY } from '@core/services/fl
 import { FehlerbuchService } from '@core/services/fehlerbuch';
 import { PathService } from '@core/services/path-service';
 import { PillSettingsService } from '@core/services/pill-settings-service';
+import { StudyPlanService } from '@core/services/study-plan-service';
 
 import.meta.env.BASE_URL;
 
@@ -23,8 +24,9 @@ const flashcardSession = new FlashcardSessionService(storage, srs);
 const fehlerbuch        = new FehlerbuchService(storage, srs);
 const path              = new PathService(storage);
 const pillSettings      = new PillSettingsService(storage);
+const studyPlan          = new StudyPlanService(storage);
 
-export { storage, progress, audio, content, srs, flashcardSession, DEEP_REVIEW_DECK_KEY, fehlerbuch, path, pillSettings };
+export { storage, progress, audio, content, srs, flashcardSession, DEEP_REVIEW_DECK_KEY, fehlerbuch, path, pillSettings, studyPlan };
 export type { StorageService }   from '@core/services/storage';
 export type { CourseProgress }   from '@core/services/progress';
 export type { AudioServiceInterface } from '@core/services/audio';
@@ -35,3 +37,5 @@ export type { ConfusionPair } from '@core/engine/confusion-pairs';
 export type { PathNode, PathNodeId, LessonPillNode, CheckpointQuizNode, PathNodeKind } from '@core/content/path';
 export type { MixItem, DailyGoal } from '@core/engine/daily-mix';
 export type { PillSettings } from '@core/services/pill-settings-service';
+export type { StudyPlan, StudyPlanDay } from '@core/engine/study-plan';
+export type { StudyPlanTarget } from '@core/services/study-plan-service';
