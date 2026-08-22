@@ -1,0 +1,77 @@
+---
+import { getCollection } from 'astro:content';
+
+// Standalone topic-drill sets (EXTRA/, see EXTRA/README.md) — not part of the
+// A1–C1 roadmap, so unlike the level index pages this groups by `data.topic`
+// (shared across a theme's per-level variants) instead of by lesson number.
+const all = await getCollection('exercises');
+const extraSets = all.filter(e => e.id.startsWith('extra/'));
+
+const LEVEL_ORDER: Record<string, number> = { A1: 0, A2: 1, B1: 2, B2: 3, C1: 4 };
+
+interface TopicGroup {
+  topic: string;
+  variants: { id: string; level: string; title: string }[];
+}
+
+const groups = new Map<string, TopicGroup>();
+for (const entry of extraSets) {
+  const topic = entry.data.topic ?? entry.data.title;
+  if (!groups.has(topic)) groups.set(topic, { topic, variants: [] });
+  groups.get(topic)!.variants.push({
+    id: entry.id,
+    level: entry.data.level ?? '',
+    title: entry.data.title,
+  });
+}
+
+const topicGroups = [...groups.values()].map(g => ({
+  ...g,
+  variants: g.variants.sort((a, b) => (LEVEL_ORDER[a.level] ?? 99) - (LEVEL_ORDER[b.level] ?? 99)),
+})).sort((a, b) => a.topic.localeCompare(b.topic, 'de'));
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Zusatzübungen — Deutsch lernen</title>
+    <style>
+      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 4rem auto; padding: 0 1rem; color: #1a1a1a; }
+      h1 { font-size: 2rem; }
+      p.lead { color: #4b5563; }
+      nav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
+      ul.topics { list-style: none; padding: 0; margin-top: 1.5rem; display: flex; flex-direction: column; gap: 0.75rem; }
+      li.topic-card { border: 1px solid #e5e7eb; border-radius: 8px; padding: 0.9rem 1.1rem; }
+      .topic-title { font-weight: 600; margin: 0 0 0.5rem; }
+      .level-row { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+      .level-badge { display: inline-block; padding: 0.3rem 0.7rem; border-radius: 999px; background: #eff6ff; color: #2563eb; text-decoration: none; font-weight: 600; font-size: 0.8rem; border: 1px solid #bfdbfe; }
+      .level-badge:hover { background: #dbeafe; }
+      .empty { color: #9ca3af; margin-top: 2rem; }
+    </style>
+  </head>
+  <body>
+    <nav><a href={`${base}/`}>← Startseite</a></nav>
+    <h1>Zusatzübungen</h1>
+    <p class="lead">
+      Gezielte Übungssets zu einzelnen Grammatikthemen — unabhängig vom
+      Lehrplan, ohne zugehörige Lektion. Wähle ein Thema und dein Niveau.
+    </p>
+    {topicGroups.length === 0 && <p class="empty">Noch keine Zusatzübungen verfügbar.</p>}
+    <ul class="topics">
+      {topicGroups.map(g => (
+        <li class="topic-card">
+          <p class="topic-title">{g.topic}</p>
+          <div class="level-row">
+            {g.variants.map(v => (
+              <a class="level-badge" href={`${base}/${v.id}/uebungen/`}>{v.level || v.title}</a>
+            ))}
+          </div>
+        </li>
+      ))}
+    </ul>
+  </body>
+</html>

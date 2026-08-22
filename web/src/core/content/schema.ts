@@ -194,10 +194,18 @@ function extractGapKeys(text: string): Set<string> {
   return keys;
 }
 
+// `lesson` accepts two shapes: a real curriculum slot ("A1/04") or a standalone
+// topic-drill set living under EXTRA/ ("EX/<dir-slug>"), not tied to any lesson —
+// see EXTRA/README.md. The EXTRA/ page derives {level} from `data.level` below.
 export const ExerciseSet = z.object({
-  lesson: z.string().regex(/^[A-C][12]\/\d{2}$/),
+  lesson: z.string().regex(/^(?:[A-C][12]\/\d{2}|EX\/[a-z0-9][a-z0-9-]*)$/),
   title: z.string(),
   intro: z.string().optional(),
+  // Standalone-only metadata (EXTRA/ sets). `topic` groups the same theme's per-level
+  // variants on the /extra/ index (e.g. all "Personalpronomen" sets share one topic
+  // string); `level` is its CEFR level. Both unused/omitted for curriculum lessons.
+  topic: z.string().optional(),
+  level: z.enum(['A1', 'A2', 'B1', 'B2', 'C1']).optional(),
   partial: z.boolean().default(false), // true = fixture only; gen-exercises skips writing md files
   exam: ExamGrid.nullable().default(null),
   exercises: z.array(Exercise),
