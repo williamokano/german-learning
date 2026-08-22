@@ -1,0 +1,251 @@
+lesson: "EX/02-possessivpronomen-a1"
+title: "Possessivartikel: mein, dein, sein, ihr … — A1"
+topic: "Possessivpronomen (mein, dein, sein, ihr, unser, euer, Ihr)"
+level: A1
+intro: >
+  Standalone drill set, not tied to any lesson. The main trap for
+  Portuguese/Spanish/English speakers: German picks sein vs. ihr by the
+  GENDER OF THE OWNER (his vs. her), not by the gender of the thing owned —
+  the opposite of "seu/sua". Blocks: A Basistraining (the full table, then
+  sein-vs-ihr) → B Vertiefung → C Sprachbausteine → D Wiederholung.
+  Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    skill: case-endings
+    title: "Die Possessivartikel-Tabelle (Nominativ)"
+    instructions: "Ergänze die Tabelle."
+    instructionsEn: "Complete the table."
+    columns: ["", "der Bruder", "die Schwester"]
+    rows:
+      - label: "ich"
+        cells: [{ gap: 1, answer: "mein Bruder" }, { gap: 2, answer: "meine Schwester" }]
+      - label: "du"
+        cells: [{ gap: 3, answer: "dein Bruder" }, { gap: 4, answer: "deine Schwester" }]
+      - label: "er"
+        cells: [{ gap: 5, answer: "sein Bruder" }, { gap: 6, answer: "seine Schwester" }]
+      - label: "sie (sg.)"
+        cells: [{ gap: 7, answer: "ihr Bruder" }, { gap: 8, answer: "ihre Schwester" }]
+      - label: "es"
+        cells: [{ gap: 9, answer: "sein Bruder" }, { gap: 10, answer: "seine Schwester" }]
+      - label: "wir"
+        cells: [{ gap: 11, answer: "unser Bruder" }, { gap: 12, answer: "unsere Schwester" }]
+      - label: "ihr"
+        cells: [{ gap: 13, answer: "euer Bruder" }, { gap: 14, answer: "eure Schwester" }]
+      - label: "sie (pl.)"
+        cells: [{ gap: 15, answer: "ihr Bruder" }, { gap: 16, answer: "ihre Schwester" }]
+      - label: "Sie"
+        cells: [{ gap: 17, answer: "Ihr Bruder" }, { gap: 18, answer: "Ihre Schwester" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    skill: case-endings
+    title: "sein oder ihr? Wer ist der Besitzer?"
+    instructions: "Ergänze den richtigen Possessivartikel. Die Person, die etwas besitzt, entscheidet — nicht das Wort danach."
+    instructionsEn: "Fill in the possessive that matches the OWNER's gender (his = sein, her = ihr) — not the gender of the thing owned."
+    text: |
+      1. Das ist Peter. {1} Auto ist neu.
+      2. Das ist Anna. {2} Fahrrad ist auch neu.
+      3. Peter und Anna haben einen Hund. {3} Hund heißt Bello.
+      4. Ich habe eine Schwester. {4} Name ist Lisa.
+      5. Du hast einen Bruder. Wie heißt {5} Bruder?
+      6. Wir haben ein Haus. {6} Haus ist groß.
+    answers:
+      "1": Sein
+      "2": Ihr
+      "3": Ihr
+      "4": mein
+      "5": dein
+      "6": Unser
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Familie Wagner"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten."
+    instructionsEn: "Fill the 8 gaps using the words in the box."
+    text: |
+      Das ist Familie Wagner. {1} Haus steht am Stadtrand. Herr Wagner hat
+      einen Bruder. {2} Bruder wohnt in München. Frau Wagner hat eine
+      Schwester. {3} Schwester besucht sie oft. Die Kinder heißen Mia und
+      Ben. {4} Zimmer sind im ersten Stock. Mia hat eine Katze. {5} Katze
+      heißt Minka. Ben hat einen Hund. {6} Hund heißt Rex. Am Wochenende
+      besuchen die Großeltern die Familie. {7} Auto ist alt, aber es fährt
+      noch gut. „Wo ist {8} Geschenk für die Kinder?", fragt Opa Wagner
+      seine Frau.
+    bank: [ihr, sein, ihre, ihre, ihre, sein, ihr, unser, mein, dein]
+    answers:
+      "1": ihr
+      "2": sein
+      "3": ihre
+      "4": ihre
+      "5": ihre
+      "6": sein
+      "7": ihr
+      "8": unser
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Die richtige Endung"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Frau Klein hat einen Sohn. ___ Sohn studiert in Berlin."
+        options: [{ key: a, text: "Sein" }, { key: b, text: "Ihr" }, { key: c, text: "Ihre" }]
+        answer: b
+        why: "Besitzerin ist weiblich → ihr; Sohn ist maskulin → keine Endung."
+      - q: "Herr Klein hat eine Tochter. ___ Tochter lebt in Hamburg."
+        options: [{ key: a, text: "Sein" }, { key: b, text: "Seine" }, { key: c, text: "Ihre" }]
+        answer: b
+        why: "Besitzer ist männlich → sein; Tochter ist feminin → -e."
+      - q: "Wir haben zwei Autos. ___ Autos stehen in der Garage."
+        options: [{ key: a, text: "Unser" }, { key: b, text: "Unsere" }, { key: c, text: "Uns" }]
+        answer: b
+        why: "Autos = Plural → unsere."
+      - q: "Ihr habt einen großen Garten. ___ Garten ist wirklich schön."
+        options: [{ key: a, text: "Euer" }, { key: b, text: "Eure" }, { key: c, text: "Euere" }]
+        answer: a
+        why: "Garten ist maskulin → keine Endung → euer (nicht 'euere')."
+      - q: "Kinder, wo sind ___ Schuhe?"
+        options: [{ key: a, text: "euer" }, { key: b, text: "euren" }, { key: c, text: "eure" }]
+        answer: c
+        why: "Schuhe = Plural → eure. Achtung: euer verliert das zweite e vor der Endung (eure, nicht euere)."
+      - q: "Das sind Maria und Tom. ___ Wohnung ist im dritten Stock."
+        options: [{ key: a, text: "Sein" }, { key: b, text: "Ihr" }, { key: c, text: "Ihre" }]
+        answer: c
+        why: "Besitzer = Maria und Tom (Plural) → ihre; Wohnung ist feminin → -e."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Meine Familie stellt sich vor"
+    instructions: "Choose the correct word for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Ich heiße Laura. ___ Familie kommt aus Portugal."
+        options: [{ key: a, text: "Meine" }, { key: b, text: "Mein" }, { key: c, text: "Meinen" }]
+        answer: a
+        why: "Familie ist feminin → meine."
+      - q: "Mein Vater heißt Carlos. ___ Beruf ist Ingenieur."
+        options: [{ key: a, text: "Sein" }, { key: b, text: "Seine" }, { key: c, text: "Ihr" }]
+        answer: a
+        why: "Beruf ist maskulin, Besitzer ist mein Vater → sein."
+      - q: "Meine Mutter heißt Rita. ___ Hobby ist Malen."
+        options: [{ key: a, text: "Ihre" }, { key: b, text: "Ihr" }, { key: c, text: "Sein" }]
+        answer: b
+        why: "Hobby ist neutrum → keine Endung → ihr."
+      - q: "Ich habe einen Bruder und eine Schwester. ___ Namen sind Diego und Sofia."
+        options: [{ key: a, text: "Meine" }, { key: b, text: "Mein" }, { key: c, text: "Meinen" }]
+        answer: a
+        why: "Namen = Plural → meine."
+      - q: "Diego und Sofia wohnen noch bei unseren Eltern. ___ Zimmer sind im Erdgeschoss."
+        options: [{ key: a, text: "Ihre" }, { key: b, text: "Ihr" }, { key: c, text: "Sein" }]
+        answer: a
+        why: "Zimmer = Plural, Besitzer = Diego und Sofia → ihre."
+      - q: "Und du? Wie heißt ___ Familie?"
+        options: [{ key: a, text: "dein" }, { key: b, text: "deine" }, { key: c, text: "deinen" }]
+        answer: b
+        why: "Familie ist feminin → deine."
+      - q: "Hast du Geschwister? Wie alt sind ___ Geschwister?"
+        options: [{ key: a, text: "deine" }, { key: b, text: "dein" }, { key: c, text: "deinen" }]
+        answer: a
+        why: "Geschwister = Plural → deine."
+      - q: "Wir alle lieben ___ Großmutter sehr, sie kocht immer für uns."
+        options: [{ key: a, text: "unser" }, { key: b, text: "unsere" }, { key: c, text: "unseren" }]
+        answer: b
+        why: "Großmutter ist feminin → unsere."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — In der Klasse (Wortbank)"
+    instructions: "Fill the 10 gaps. Three words in the box are not needed."
+    text: |
+      Frau Hoffmann ist Lehrerin. In {1} Klasse sind 20 Schüler. {2}
+      Unterricht macht allen Spaß. Ein Schüler, Kevin, hat {3} Hausaufgaben
+      vergessen. {4} Mutter muss die Schule anrufen. Zwei Mädchen, Lina und
+      Emma, sitzen zusammen. {5} Plätze sind ganz vorne. Lina hat {6} Buch
+      verloren. „Wo ist {7} Buch?", fragt Frau Hoffmann. Am Ende der Stunde
+      packen alle Schüler {8} Sachen ein. Kevin findet {9} Heft nicht mehr.
+      Die Lehrerin sagt: „Sucht in {10} Taschen!"
+    bank: [IHRE, IHR, SEINE, SEINE, IHRE, IHR, IHR, IHRE, SEIN, EURE, MEIN, DEINE, UNSER]
+    answers:
+      "1": IHRE
+      "2": IHR
+      "3": SEINE
+      "4": SEINE
+      "5": IHRE
+      "6": IHR
+      "7": IHR
+      "8": IHRE
+      "9": SEIN
+      "10": EURE
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze die richtigen Possessivartikel. Satz 3 und 6 brauchen die Akkusativ-Endung -en."
+    instructionsEn: "Fill in the correct possessives. Sentences 3 and 6 need the Akkusativ -en ending (masculine object)."
+    text: |
+      1. Das ist mein Bruder. {1} Frau heißt Petra.
+      2. Ich rufe {2} Eltern jeden Sonntag an.
+      3. Kennst du {3} neuen Nachbarn?
+      4. Wir lieben {4} Heimat.
+      5. Habt ihr {5} Hausaufgaben schon gemacht?
+      6. Frau Meier sucht {6} Schlüssel. Hat jemand {7} Handtasche gesehen?
+    answers:
+      "1": seine
+      "2": meine
+      "3": deinen
+      "4": unsere
+      "5": eure
+      "6": ihren
+      "7": ihre
+    notes: "Satz 3/6: maskuline Nomen im Akkusativ bekommen die Endung -en (deinen, ihren)."
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Herr Bauer hat einen Sohn. ___ Sohn heißt Max."
+        options: [{ key: a, text: "Sein" }, { key: b, text: "Seine" }, { key: c, text: "Ihr" }]
+        answer: a
+        why: "Sohn ist maskulin → keine Endung → Sein."
+      - q: "Wir feiern heute ___ Hochzeitstag."
+        options: [{ key: a, text: "unser" }, { key: b, text: "unseren" }, { key: c, text: "unsere" }]
+        answer: b
+        why: "Hochzeitstag ist maskulin und Akkusativobjekt von feiern → unseren."
+      - q: "Kinder, packt bitte ___ Spielzeug weg!"
+        options: [{ key: a, text: "euer" }, { key: b, text: "eure" }, { key: c, text: "euren" }]
+        answer: a
+        why: "Spielzeug ist neutrum → auch im Akkusativ keine Endung → euer."
+      - q: "Lisa und Tom sind Geschwister. ___ Eltern wohnen in Wien."
+        options: [{ key: a, text: "Ihre" }, { key: b, text: "Ihr" }, { key: c, text: "Sein" }]
+        answer: a
+        why: "Eltern = Plural → Ihre."
+      - q: "Ich suche ___ Handy. Hast du es gesehen?"
+        options: [{ key: a, text: "mein" }, { key: b, text: "meine" }, { key: c, text: "meinen" }]
+        answer: a
+        why: "Handy ist neutrum, auch im Akkusativ keine Endung → mein."
+      - q: "Das ist nicht meine Tasche, das ist ___ Tasche."
+        options: [{ key: a, text: "dein" }, { key: b, text: "deine" }, { key: c, text: "deinen" }]
+        answer: b
+        why: "Tasche ist feminin → deine."
+    notes: "5–6 von 6 richtig? Weiter geht's mit der A2-Version. Weniger als 5? Schau dir Block A noch einmal an."
