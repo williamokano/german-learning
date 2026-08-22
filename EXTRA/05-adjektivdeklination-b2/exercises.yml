@@ -1,0 +1,244 @@
+lesson: "EX/05-adjektivdeklination-b2"
+title: "Adjektive nach Quantoren & Partizipien als Adjektive — B2"
+topic: "Adjektivdeklination (schwach, gemischt, stark)"
+level: B2
+intro: >
+  Standalone drill set, not tied to any lesson. Closes out the
+  Adjektivdeklination topic with two pieces: quantifiers before a
+  Plural noun split into two groups — alle/beide act like a der-word,
+  so the adjective after them takes the WEAK ending -en (alle guten
+  Freunde); viele/einige/wenige/manche don't, so the adjective takes
+  the STRONG ending -e in Nominativ/Akkusativ (viele gute Freunde,
+  not viele guten Freunde) — and Partizip I (-end, "the laughing man")
+  / Partizip II ("the written letter") used as adjectives, which
+  decline exactly like any other adjective once formed. Blocks: A
+  Basistraining → B Vertiefung → C Sprachbausteine → D Wiederholung —
+  a full-topic mix. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    skill: case-endings
+    title: "viele (stark) vs. alle (schwach)"
+    instructions: "Ergänze die Tabelle mit gut + Freunde."
+    instructionsEn: "Complete the table with gut + Freunde."
+    columns: ["", "viele (stark)", "alle (schwach)"]
+    rows:
+      - label: "Nom."
+        cells: [{ gap: 1, answer: "viele gute Freunde" }, { gap: 2, answer: "alle guten Freunde" }]
+      - label: "Akk."
+        cells: [{ gap: 3, answer: "viele gute Freunde" }, { gap: 4, answer: "alle guten Freunde" }]
+      - label: "Dat."
+        cells: [{ gap: 5, answer: "vielen guten Freunden" }, { gap: 6, answer: "allen guten Freunden" }]
+      - label: "Gen."
+        cells: [{ gap: 7, answer: "vieler guter Freunde" }, { gap: 8, answer: "aller guten Freunde" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    skill: case-endings
+    title: "Partizip I und II als Adjektiv"
+    instructions: "Ergänze die Endung. Das Partizip verhält sich wie jedes andere Adjektiv."
+    instructionsEn: "Fill in the ending — once formed, a participle declines exactly like any other adjective."
+    text: |
+      1. Das ist ein faszinierend{1} Buch.
+      2. Ich lese den geschrieben{2} Brief.
+      3. Die untergehend{3} Sonne ist wunderschön.
+      4. Das gebraten{4} Fleisch schmeckt gut.
+      5. Wir sehen einen schlafend{5} Hund.
+      6. Wir beobachten die spielend{6} Kinder im Park.
+    answers:
+      "1": es
+      "2": en
+      "3": e
+      "4": e
+      "5": en
+      "6": en
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Meine Party"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten."
+    instructionsEn: "Fill the 8 gaps using the words in the box."
+    text: |
+      Zu meiner Party kommen viele nett{1} Leute. Alle eingeladen{2}
+      Gäste haben zugesagt. Einige alt{3} Freunde bringen ihre Partner
+      mit. Wenige neu{4} Kollegen kenne ich noch nicht gut. Beide
+      besten{5} Freunde helfen mir beim Vorbereiten. Ich habe mit
+      vielen verschieden{6} Leuten telefoniert. Manche gut{7} Ideen
+      kamen von meinen Freunden. Am Ende waren alle glücklich{8} Gäste
+      zufrieden.
+    bank: [e, en, e, e, en, en, e, en]
+    answers:
+      "1": e
+      "2": en
+      "3": e
+      "4": e
+      "5": en
+      "6": en
+      "7": e
+      "8": en
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "viele/einige/wenige (-e) vs. alle/beide (-en)"
+    instructions: "Wähle die richtige Endung (a, b oder c)."
+    instructionsEn: "Choose the correct ending (a, b, or c)."
+    items:
+      - q: "Viele jung___ Menschen reisen gern."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "viele → stark, Plural → -e."
+      - q: "Alle jung___ Menschen brauchen einen Pass."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "alle → schwach, Plural → -en."
+      - q: "Einige interessant___ Bücher stehen im Regal."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "einige → stark, Plural → -e."
+      - q: "Beide interessant___ Bücher gehören mir."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "beide → schwach, Plural → -en."
+      - q: "Wenige alt___ Häuser sind noch original."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "wenige → stark, Plural → -e."
+      - q: "Mit allen alt___ Häusern verbindet man Geschichte."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "Dativ Plural ist immer -en, egal ob stark oder schwach."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Auf der Konferenz"
+    instructions: "Choose the correct ending for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Viele bekannt___ Forscher nehmen an der Konferenz teil."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "viele → stark, Plural → -e."
+      - q: "Alle teilnehmend___ Forscher stellen ihre Arbeit vor."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "alle → schwach, Plural → -en."
+      - q: "Einige spannend___ Vorträge beginnen um neun Uhr."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "einige → stark, Plural → -e."
+      - q: "Der überfüllt___ Saal wird schnell laut."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "schwach (der), Nominativ maskulin → -e."
+      - q: "Beide bekannt___ Professoren diskutieren miteinander."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "beide → schwach, Plural → -en."
+      - q: "Ich habe mit wenigen anwesend___ Studenten gesprochen."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "Dativ Plural ist immer -en."
+      - q: "Die präsentiert___ Ergebnisse überzeugen alle."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "schwach (die), Plural → -en."
+      - q: "Manche überraschend___ Fragen kommen vom Publikum."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "manche → stark, Plural → -e."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Die Ausstellung (Wortbank)"
+    instructions: "Fill the 10 gaps. Three words in the box are not needed."
+    text: |
+      Die Galerie zeigt viele beeindruckend{1} Gemälde. Alle
+      ausgestellt{2} Werke stammen von jung{3} Künstlern. Einige
+      bekannt{4} Sammler besuchen die Eröffnung. Der lächelnd{5}
+      Künstler begrüßt die Gäste persönlich. Beide führend{6} Kritiker
+      loben die Ausstellung. Wenige enttäuscht{7} Besucher gibt es
+      kaum. Am Ende kaufen manche begeistert{8} Besucher ein Gemälde.
+      Die verkauft{9} Bilder werden sofort verpackt. Es war ein
+      gelungen{10} Abend.
+    bank: [BEEINDRUCKENDE, AUSGESTELLTEN, JUNGEN, BEKANNTE, LÄCHELNDE, FÜHRENDEN, ENTTÄUSCHTE, BEGEISTERTE, VERKAUFTEN, GELUNGENER, BEEINDRUCKENDEN, JUNGE, LÄCHELND]
+    answers:
+      "1": BEEINDRUCKENDE
+      "2": AUSGESTELLTEN
+      "3": JUNGEN
+      "4": BEKANNTE
+      "5": LÄCHELNDE
+      "6": FÜHRENDEN
+      "7": ENTTÄUSCHTE
+      "8": BEGEISTERTE
+      "9": VERKAUFTEN
+      "10": GELUNGENER
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung: das ganze Thema"
+    instructions: "Ergänze die richtige Endung."
+    text: |
+      1. Viele klein{1} Kinder spielen im Park.
+      2. Alle klein{2} Kinder tragen Mützen.
+      3. Das ist ein lachend{3} Baby.
+      4. Die geöffnet{4} Tür lässt kalte Luft herein.
+      5. Einige neu{5} Häuser wurden gebaut.
+      6. Beide neu{6} Häuser sind schon verkauft.
+      7. Mit wenigen bekannt{7} Freunden feiere ich.
+    answers:
+      "1": e
+      "2": en
+      "3": es
+      "4": e
+      "5": e
+      "6": en
+      "7": en
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct ending (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Viele fleißig___ Studenten bestehen die Prüfung."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "viele → stark, Plural → -e."
+      - q: "Alle fleißig___ Studenten haben gelernt."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "alle → schwach, Plural → -en."
+      - q: "Das ist ein schlafend___ Kind."
+        options: [{ key: a, text: "e" }, { key: b, text: "es" }, { key: c, text: "en" }]
+        answer: b
+        why: "gemischt, neutrum → -es."
+      - q: "Die geschrieben___ Nachricht war kurz."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "es" }]
+        answer: a
+        why: "schwach (die), feminin → -e."
+      - q: "Einige interessiert___ Zuschauer blieben bis zum Schluss."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "einige → stark, Plural → -e."
+      - q: "Beide interessiert___ Zuschauer stellten Fragen."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "beide → schwach, Plural → -en."
+    notes: "5–6 von 6 richtig, und alle Adjektivdeklinations-Übungen (A2/B1/B2) sauber gelöst? Dann sitzt das ganze Endungssystem."

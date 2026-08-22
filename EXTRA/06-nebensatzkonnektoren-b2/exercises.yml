@@ -1,0 +1,251 @@
+lesson: "EX/06-nebensatzkonnektoren-b2"
+title: "je … desto, indem, sodass, falls, sofern, es sei denn — B2"
+topic: "Nebensatzkonnektoren"
+level: B2
+intro: >
+  Standalone drill set, not tied to any lesson. Closes out the
+  Nebensatzkonnektoren topic with six advanced connectors: je … desto
+  (the je-clause is verb-final, the desto-clause has normal
+  Verb-Zweit with desto+comparative in position 1); indem (method —
+  "by doing X") vs. sodass (result — "with the consequence that"),
+  easy to mix up since both translate loosely as "so that" in English;
+  falls/sofern (both "if/provided that", falls more everyday, sofern
+  more formal); and es sei denn ("unless"), which — unlike every other
+  connector here — is followed by a normal Verb-Zweit clause, not a
+  Nebensatz. Blocks: A Basistraining → B Vertiefung → C Sprachbausteine
+  → D Wiederholung — a full-topic mix. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: order
+    title: "je … desto"
+    instructions: "Put the tiles in the correct order — the je-clause is verb-final; the desto-clause starts with desto+comparative, then the verb."
+    items:
+      - tiles: ["Je mehr", "ich", "lerne,", "desto besser", "verstehe", "ich", "es."]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Je mehr ich lerne, desto besser verstehe ich es."
+      - tiles: ["Je älter", "man", "wird,", "desto weiser", "wird", "man."]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Je älter man wird, desto weiser wird man."
+      - tiles: ["Je schneller", "du", "arbeitest,", "desto früher", "bist", "du", "fertig."]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Je schneller du arbeitest, desto früher bist du fertig."
+      - tiles: ["Je mehr Geld", "er", "verdient,", "desto mehr", "gibt", "er", "aus."]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Je mehr Geld er verdient, desto mehr gibt er aus."
+      - tiles: ["Je länger", "die Reise", "dauert,", "desto müder", "werden", "wir."]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Je länger die Reise dauert, desto müder werden wir."
+      - tiles: ["Je später", "es", "wird,", "desto ruhiger", "wird", "die Stadt."]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Je später es wird, desto ruhiger wird die Stadt."
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "indem (Methode) oder sodass (Folge)?"
+    instructions: "Ergänze indem oder sodass."
+    instructionsEn: "Fill in indem (how something is done) or sodass (what happens as a result)."
+    text: |
+      1. Er verbessert sein Deutsch, {1} er jeden Tag übt.
+      2. Es war sehr laut, {2} niemand schlafen konnte.
+      3. Sie spart Geld, {3} sie weniger einkaufen geht.
+      4. Der Zug hatte Verspätung, {4} wir den Anschluss verpassten.
+      5. Man lernt eine Sprache, {5} man sie regelmäßig spricht.
+      6. Das Konzert wurde abgesagt, {6} viele Fans enttäuscht waren.
+    answers:
+      "1": indem
+      "2": sodass
+      "3": indem
+      "4": sodass
+      "5": indem
+      "6": sodass
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Ein Wanderausflug"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Wir planen einen Ausflug, {1} das Wetter gut ist. Wir nehmen
+      Regenschirme mit, {2} es doch regnet. {3} genug Zeit bleibt,
+      besuchen wir auch das Museum. Es hat lange nicht geregnet, {4}
+      die Wanderwege trocken sind. Wir verbessern unsere Kondition, {5}
+      wir jede Woche wandern. Der Weg war steil, {6} wir öfter Pausen
+      machten. Wir erreichen den Bus pünktlich, {7} es gibt unerwartete
+      Verzögerungen. Wir kommen sicher an, {8} nichts Unerwartetes
+      passiert.
+    bank: [falls, falls, Sofern, sodass, indem, sodass, "es sei denn", sofern, obwohl, trotzdem]
+    answers:
+      "1": falls
+      "2": falls
+      "3": Sofern
+      "4": sodass
+      "5": indem
+      "6": sodass
+      "7": "es sei denn"
+      "8": sofern
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "es sei denn: Verb-Zweit, nicht Nebensatz"
+    instructions: "Wähle die richtige Fortsetzung (a, b oder c)."
+    instructionsEn: "Choose the correct continuation (a, b, or c) — unlike other connectors here, es sei denn is followed by normal Verb-Zweit word order."
+    items:
+      - q: "Wir gehen spazieren, es sei denn, ___."
+        options: [{ key: a, text: "es regnet" }, { key: b, text: "regnet es" }, { key: c, text: "es regnet zu" }]
+        answer: a
+        why: "Verb-Zweit, nicht Nebensatz → es regnet."
+      - q: "Ich komme zur Party, es sei denn, ___."
+        options: [{ key: a, text: "bin ich krank" }, { key: b, text: "ich bin krank" }, { key: c, text: "ich krank bin" }]
+        answer: b
+        why: "Verb-Zweit → ich bin krank."
+      - q: "Was bedeutet 'es sei denn'?"
+        options: [{ key: a, text: "und" }, { key: b, text: "unless / außer wenn" }, { key: c, text: "weil" }]
+        answer: b
+        why: "es sei denn = unless / außer wenn."
+      - q: "Er kauft das Auto, es sei denn, ___."
+        options: [{ key: a, text: "der Preis zu hoch ist" }, { key: b, text: "ist der Preis zu hoch" }, { key: c, text: "der Preis ist zu hoch" }]
+        answer: c
+        why: "Verb-Zweit → der Preis ist zu hoch."
+      - q: "Sie bleibt zu Hause, es sei denn, ___."
+        options: [{ key: a, text: "jemand ruft sie an" }, { key: b, text: "ruft sie jemand an" }, { key: c, text: "jemand sie anruft" }]
+        answer: a
+        why: "Verb-Zweit → jemand ruft sie an."
+      - q: "Wir fahren mit dem Auto, es sei denn, ___."
+        options: [{ key: a, text: "gibt es keinen Parkplatz" }, { key: b, text: "es gibt keinen Parkplatz" }, { key: c, text: "es keinen Parkplatz gibt" }]
+        answer: b
+        why: "Verb-Zweit → es gibt keinen Parkplatz."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Ein Sprachlerntipp"
+    instructions: "Choose the correct connector for each gap (a, b, or c)."
+    items:
+      - q: "Man lernt eine Sprache am besten, ___ man sie täglich benutzt."
+        options: [{ key: a, text: "indem" }, { key: b, text: "sodass" }, { key: c, text: "falls" }]
+        answer: a
+        why: "Methode → indem."
+      - q: "Ich übe viel, ___ ich mich stetig verbessere."
+        options: [{ key: a, text: "indem" }, { key: b, text: "sodass" }, { key: c, text: "falls" }]
+        answer: b
+        why: "Folge → sodass."
+      - q: "Je mehr man übt, ___ schneller lernt man."
+        options: [{ key: a, text: "je" }, { key: b, text: "desto" }, { key: c, text: "sodass" }]
+        answer: b
+        why: "Zweiter Teil der Struktur → desto."
+      - q: "___ du motiviert bleibst, wirst du Fortschritte machen."
+        options: [{ key: a, text: "Sofern" }, { key: b, text: "Sodass" }, { key: c, text: "Indem" }]
+        answer: a
+        why: "Bedingung (formal) → Sofern."
+      - q: "Ich lerne jeden Tag Vokabeln, ___ ich eine App benutze."
+        options: [{ key: a, text: "indem" }, { key: b, text: "sodass" }, { key: c, text: "falls" }]
+        answer: a
+        why: "Methode → indem."
+      - q: "Ich mache weiter, ___ ich die Motivation verliere."
+        options: [{ key: a, text: "falls" }, { key: b, text: "es sei denn" }, { key: c, text: "sodass" }]
+        answer: b
+        why: "Ausnahme ('unless') → es sei denn."
+      - q: "___ du Fragen hast, kannst du mich anrufen."
+        options: [{ key: a, text: "Falls" }, { key: b, text: "Sodass" }, { key: c, text: "Indem" }]
+        answer: a
+        why: "Bedingung → Falls."
+      - q: "Je öfter man spricht, ___ sicherer wird man."
+        options: [{ key: a, text: "je" }, { key: b, text: "desto" }, { key: c, text: "falls" }]
+        answer: b
+        why: "Zweiter Teil der Struktur → desto."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Erfolgreich Deutsch lernen (Wortbank)"
+    instructions: "Fill the 10 gaps. Three words in the box are not needed."
+    text: |
+      Je mehr man Deutsch übt, {1} schneller lernt man es. Man
+      verbessert seine Aussprache, {2} man Muttersprachlern zuhört. Ich
+      habe viel geübt, {3} ich jetzt fließend spreche. {4} du weiter
+      übst, wirst du bald fließend sprechen. Ich lerne jeden Abend, {5}
+      ich zu müde bin. {6} man Fehler macht, ist das kein Problem — man
+      lernt daraus. Je öfter man übt, {7} leichter wird es. Man kann
+      auch Filme schauen, {8} man neue Wörter lernt. Am Ende hast du
+      Erfolg, {9} du konsequent dranbleibst. Ich werde weitermachen,
+      {10} ich krank werde.
+    bank: [DESTO, INDEM, SODASS, FALLS, "ES SEI DENN", FALLS, DESTO, INDEM, SOFERN, "ES SEI DENN", OBWOHL, DAMIT, WEIL]
+    answers:
+      "1": DESTO
+      "2": INDEM
+      "3": SODASS
+      "4": FALLS
+      "5": "ES SEI DENN"
+      "6": FALLS
+      "7": DESTO
+      "8": INDEM
+      "9": SOFERN
+      "10": "ES SEI DENN"
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: order
+    title: "Wiederholung: Satzbau"
+    instructions: "Put the tiles in the correct order."
+    items:
+      - tiles: ["Je mehr", "du", "liest,", "desto besser", "wird", "dein Wortschatz."]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Je mehr du liest, desto besser wird dein Wortschatz."
+      - tiles: ["Er lernt Deutsch,", "indem", "er", "deutsche Musik", "hört."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Er lernt Deutsch, indem er deutsche Musik hört."
+      - tiles: ["Es war so kalt,", "sodass", "wir", "zu Hause", "blieben."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Es war so kalt, sodass wir zu Hause blieben."
+      - tiles: ["Falls", "du", "Hilfe", "brauchst,", "ruf", "mich", "an."]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Falls du Hilfe brauchst, ruf mich an."
+      - tiles: ["Wir gehen wandern,", "es sei denn,", "es", "regnet."]
+        answer: [0, 1, 2, 3]
+        note: "Wir gehen wandern, es sei denn, es regnet."
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct connector (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Je mehr Vitamine du isst, ___ gesünder bist du."
+        options: [{ key: a, text: "je" }, { key: b, text: "desto" }, { key: c, text: "sodass" }]
+        answer: b
+        why: "Zweiter Teil der Struktur → desto."
+      - q: "Man bleibt fit, ___ man regelmäßig Sport treibt."
+        options: [{ key: a, text: "indem" }, { key: b, text: "sodass" }, { key: c, text: "falls" }]
+        answer: a
+        why: "Methode → indem."
+      - q: "Der Stau war lang, ___ wir zwei Stunden zu spät kamen."
+        options: [{ key: a, text: "indem" }, { key: b, text: "sodass" }, { key: c, text: "falls" }]
+        answer: b
+        why: "Folge → sodass."
+      - q: "___ es morgen regnet, bleiben wir drinnen."
+        options: [{ key: a, text: "Falls" }, { key: b, text: "Sodass" }, { key: c, text: "Indem" }]
+        answer: a
+        why: "Bedingung → Falls."
+      - q: "Wir gehen ins Kino, ___ der Film ist ausverkauft."
+        options: [{ key: a, text: "falls" }, { key: b, text: "es sei denn" }, { key: c, text: "sodass" }]
+        answer: b
+        why: "Ausnahme ('unless') → es sei denn."
+      - q: "___ du Zeit hast, können wir uns treffen."
+        options: [{ key: a, text: "Sofern" }, { key: b, text: "Sodass" }, { key: c, text: "Indem" }]
+        answer: a
+        why: "Bedingung (formal) → Sofern."
+    notes: "5–6 von 6 richtig, und alle Nebensatzkonnektoren-Übungen (A2/B1/B2) sauber gelöst? Dann ist das ganze Konnektorensystem sicher."

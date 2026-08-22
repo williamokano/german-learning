@@ -1,0 +1,243 @@
+lesson: "EX/04-relativsatz-b2"
+title: "Relativsätze: Genitiv (dessen/deren) — B2"
+topic: "Relativsätze und Relativpronomen"
+level: B2
+intro: >
+  Standalone drill set, not tied to any lesson. Closes out the
+  Relativsätze topic with the Genitiv relative pronoun: dessen (after a
+  maskulin or neutral antecedent) and deren (after a feminin or Plural
+  antecedent) — "whose". Unlike der/die/das, dessen/deren never change
+  for the case of the following noun's own role, and NO article ever
+  follows them (der Mann, dessen Auto — not dessen das Auto). Blocks: A
+  Basistraining (full capstone table, then dessen/deren) → B Vertiefung
+  → C Sprachbausteine → D Wiederholung — a full-topic mix. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    skill: case-endings
+    title: "Die Relativpronomen-Tabelle (vollständig)"
+    instructions: "Ergänze die Tabelle."
+    instructionsEn: "Complete the table."
+    columns: ["", "maskulin", "feminin", "neutral", "Plural"]
+    rows:
+      - label: "Nominativ"
+        cells: [{ gap: 1, answer: "der" }, { gap: 2, answer: "die" }, { gap: 3, answer: "das" }, { gap: 4, answer: "die" }]
+      - label: "Akkusativ"
+        cells: [{ gap: 5, answer: "den" }, { gap: 6, answer: "die" }, { gap: 7, answer: "das" }, { gap: 8, answer: "die" }]
+      - label: "Dativ"
+        cells: [{ gap: 9, answer: "dem" }, { gap: 10, answer: "der" }, { gap: 11, answer: "dem" }, { gap: 12, answer: "denen" }]
+      - label: "Genitiv"
+        cells: [{ gap: 13, answer: "dessen" }, { gap: 14, answer: "deren" }, { gap: 15, answer: "dessen" }, { gap: 16, answer: "deren" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    skill: case-endings
+    title: "dessen oder deren?"
+    instructions: "Ergänze dessen oder deren. Kein Artikel folgt danach."
+    instructionsEn: "Fill in dessen or deren — no article follows it."
+    text: |
+      1. Das ist mein Kollege, {1} Frau Ärztin ist.
+      2. Ich kenne eine Frau, {2} Sohn in meiner Klasse ist.
+      3. Das ist das Haus, {3} Dach neu ist.
+      4. Wir haben Nachbarn, {4} Garten riesig ist.
+      5. Er ist ein Autor, {5} Bücher ich alle gelesen habe.
+      6. Das ist die Familie, {6} Haus wir gekauft haben.
+    answers:
+      "1": dessen
+      "2": deren
+      "3": dessen
+      "4": deren
+      "5": dessen
+      "6": deren
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Meine Nachbarschaft"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Ich habe einen Nachbarn, {1} Hund immer bellt. Er hat eine Frau,
+      {2} Auto jeden Morgen laut startet. Sie haben zwei Kinder, {3}
+      Fahrräder im Hof stehen. Meine andere Nachbarin, {4} Katze oft in
+      meinem Garten ist, entschuldigt sich immer. Ich kenne auch einen
+      älteren Herrn, {5} Garten wunderschön ist. Seine Frau, {6} Blumen
+      überall blühen, gewinnt jedes Jahr einen Preis. Wir haben ein
+      Ehepaar getroffen, {7} Sohn Musiker ist. Die Straße, {8} Häuser
+      alle sehr alt sind, ist sehr ruhig.
+    bank: [dessen, deren, deren, deren, dessen, deren, dessen, deren, der, den]
+    answers:
+      "1": dessen
+      "2": deren
+      "3": deren
+      "4": deren
+      "5": dessen
+      "6": deren
+      "7": dessen
+      "8": deren
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "dessen, deren — und nie ein Artikel danach"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Das ist der Lehrer, ___ Schüler die Prüfung bestanden haben."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "der" }]
+        answer: a
+        why: "Bezugswort ist maskulin (der Lehrer) → dessen."
+      - q: "Ich kenne die Studentin, ___ Referat sehr gut war."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "die" }]
+        answer: b
+        why: "Bezugswort ist feminin (die Studentin) → deren."
+      - q: "Das Unternehmen, ___ Produkte weltweit bekannt sind, wächst schnell."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "das" }]
+        answer: a
+        why: "Bezugswort ist neutrum (das Unternehmen) → dessen."
+      - q: "Die Eltern, ___ Kinder hier zur Schule gehen, sind sehr engagiert."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "die" }]
+        answer: b
+        why: "Bezugswort ist Plural (die Eltern) → deren."
+      - q: "Der Schriftsteller, ___ neuestes Buch ich lese, lebt in Berlin."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "den" }]
+        answer: a
+        why: "Bezugswort ist maskulin (der Schriftsteller) → dessen."
+      - q: "Das ist mein Chef, dessen ___ Meinung mir wichtig ist."
+        options: [{ key: a, text: "die" }, { key: b, text: "(kein Artikel)" }, { key: c, text: "der" }]
+        answer: b
+        why: "Nach dessen/deren steht nie ein Artikel."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Der Nobelpreisträger"
+    instructions: "Choose the correct word for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Das ist der Wissenschaftler, ___ Entdeckung die Welt verändert hat."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "der" }]
+        answer: a
+        why: "maskulin → dessen."
+      - q: "Er arbeitet an einer Universität, ___ Ruf exzellent ist."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "die" }]
+        answer: b
+        why: "feminin → deren."
+      - q: "Seine Kollegin, ___ Forschung ähnlich ist, hat auch einen Preis gewonnen."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "die" }]
+        answer: b
+        why: "feminin → deren."
+      - q: "Die beiden Forscher, ___ Studien viel zitiert werden, arbeiten oft zusammen."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "die" }]
+        answer: b
+        why: "Plural → deren."
+      - q: "Der Preis, ___ Bedeutung enorm ist, wird jedes Jahr vergeben."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "der" }]
+        answer: a
+        why: "maskulin → dessen."
+      - q: "Das Institut, ___ Direktor sehr bekannt ist, liegt in München."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "das" }]
+        answer: a
+        why: "neutrum → dessen."
+      - q: "Die Studenten, ___ Professor den Preis bekommen hat, sind sehr stolz."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "die" }]
+        answer: b
+        why: "Plural → deren."
+      - q: "Das Team, ___ Arbeit jahrelang dauerte, feierte den Erfolg zusammen."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "das" }]
+        answer: a
+        why: "neutrum → dessen."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Ein besonderer Lehrer (Wortbank)"
+    instructions: "Fill the 10 gaps. Three words in the box are not needed."
+    text: |
+      Ich hatte einen Lehrer, {1} ich nie vergessen werde. Er war ein
+      Mann, {2} Geduld unendlich schien. Seine Schüler, {3} er immer
+      half, liebten ihn. Er hatte eine Tochter, {4} Namen ich vergessen
+      habe. Die Schule, {5} er arbeitete, war klein aber besonders.
+      Alles, {6} er uns beibrachte, war nützlich. Er kam aus einer
+      Stadt, {7} es keine große Universität gab. Das war das Beste, {8}
+      uns passieren konnte. Seine Frau, {9} Kochkünste berühmt waren,
+      lud uns oft ein. Nichts, {10} er sagte, war jemals langweilig.
+    bank: [DEN, DESSEN, DENEN, DEREN, WO, WAS, WO, WAS, DEREN, WAS, DER, DAS, DIE]
+    answers:
+      "1": DEN
+      "2": DESSEN
+      "3": DENEN
+      "4": DEREN
+      "5": WO
+      "6": WAS
+      "7": WO
+      "8": WAS
+      "9": DEREN
+      "10": WAS
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung: das ganze Thema"
+    instructions: "Ergänze das richtige Relativpronomen oder was/wo."
+    text: |
+      1. Ich habe einen Freund, {1} Schwester Ärztin ist.
+      2. Das ist die Frau, {2} ich gestern getroffen habe.
+      3. Wir kennen ein Ehepaar, {3} Kinder schon erwachsen sind.
+      4. Die Stadt, {4} ich wohne, ist sehr grün.
+      5. Er hat mir etwas gegeben, {5} mich sehr gefreut hat.
+      6. Meine Nachbarin, {6} ich oft helfe, ist sehr nett.
+      7. Die Kollegen, {7} ich vertraue, sind sehr zuverlässig.
+    answers:
+      "1": dessen
+      "2": die
+      "3": dessen
+      "4": wo
+      "5": was
+      "6": der
+      "7": denen
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Das ist der Autor, ___ Roman einen Preis gewonnen hat."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "der" }]
+        answer: a
+        why: "maskulin → dessen."
+      - q: "Die Firma, ___ ich seit fünf Jahren arbeite, ist erfolgreich."
+        options: [{ key: a, text: "die" }, { key: b, text: "der" }, { key: c, text: "bei der" }]
+        answer: c
+        why: "arbeiten bei + Dativ feminin → bei der."
+      - q: "Das ist alles, ___ ich dazu sagen kann."
+        options: [{ key: a, text: "das" }, { key: b, text: "was" }, { key: c, text: "die" }]
+        answer: b
+        why: "was nach alles."
+      - q: "Meine Freundin, ___ Bruder Arzt ist, kommt aus Köln."
+        options: [{ key: a, text: "dessen" }, { key: b, text: "deren" }, { key: c, text: "die" }]
+        answer: b
+        why: "feminin → deren."
+      - q: "Die Kinder, ___ ich Geschenke gekauft habe, waren sehr glücklich."
+        options: [{ key: a, text: "die" }, { key: b, text: "denen" }, { key: c, text: "deren" }]
+        answer: b
+        why: "kaufen für + Dativ Plural → denen."
+      - q: "Das Dorf, ___ ich aufgewachsen bin, liegt in den Bergen."
+        options: [{ key: a, text: "das" }, { key: b, text: "wo" }, { key: c, text: "was" }]
+        answer: b
+        why: "wo für einen Ort."
+    notes: "5–6 von 6 richtig, und alle Relativsatz-Übungen (A2/B1/B2) sauber gelöst? Dann ist das ganze Relativpronomen-System sicher."

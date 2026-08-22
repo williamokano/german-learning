@@ -1,0 +1,255 @@
+lesson: "EX/01-personalpronomen-b1"
+title: "Personalpronomen: Nominativ, Akkusativ, Dativ — B1"
+topic: "Personalpronomen (Nominativ, Akkusativ, Dativ)"
+level: B1
+intro: >
+  Standalone drill set, not tied to any lesson. Builds on the A1/A2 sets
+  with the piece B1 adds: word order when a sentence has two objects. Two
+  full nouns → Dativ before Akkusativ. Two pronouns → Akkusativ before
+  Dativ. One noun + one pronoun → the pronoun always comes first,
+  regardless of its case. Blocks: A Basistraining (case review in longer
+  text) → B Vertiefung (the word-order rule, drilled with reordering and
+  rewriting) → C Sprachbausteine → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    skill: case-endings
+    title: "Herr Fischer und Frau Berg"
+    instructions: "Fill in the correct personal pronouns as you read the story."
+    text: |
+      Herr Fischer arbeitet seit zehn Jahren in der Firma. Seine Kollegen
+      schätzen {1} sehr, weil er immer hilfsbereit ist. Letzte Woche hatte
+      eine neue Kollegin, Frau Berg, Probleme mit dem System. Herr Fischer
+      hat {2} geholfen, obwohl er selbst viel zu tun hatte. Frau Berg war
+      {3} sehr dankbar und hat {4} eine Karte geschrieben. Frau Berg
+      freute sich für {5}, dass er von allen so gelobt wurde. Sie selbst
+      fühlt sich in der neuen Firma noch unsicher, aber ihre Kollegen
+      haben {6} von Anfang an gut aufgenommen. Das freut {7} sehr. Am
+      Abend erzählte Herr Fischer seiner Frau von dem Lob. Sie war stolz
+      auf {8}.
+    answers:
+      "1": ihn
+      "2": ihr
+      "3": ihm
+      "4": ihm
+      "5": ihn
+      "6": sie
+      "7": sie
+      "8": ihn
+
+  - id: A2
+    block: A
+    type: single-choice
+    title: "Präposition + Pronomen"
+    instructions: "Choose the correct answer (a, b, or c) — the preposition decides the case."
+    items:
+      - q: "Ich habe lange auf die Antwort gewartet. Ohne ___ hätte ich nicht weitergemacht."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihnen" }]
+        answer: a
+        why: "ohne + Akkusativ; die Antwort ist feminin → sie."
+      - q: "Mein Chef ist sehr streng. Ich habe Angst vor ___."
+        options: [{ key: a, text: "er" }, { key: b, text: "ihn" }, { key: c, text: "ihm" }]
+        answer: c
+        why: "vor + Dativ (immer) → ihm."
+      - q: "Das Projekt ist wichtig für das Team. Wir arbeiten alle für ___."
+        options: [{ key: a, text: "es" }, { key: b, text: "ihm" }, { key: c, text: "ihn" }]
+        answer: a
+        why: "für + Akkusativ (immer); das Projekt ist neutrum → es."
+      - q: "Die neuen Kollegen sind nett. Ich sitze oft mit ___ in der Kantine."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihnen" }, { key: c, text: "ihr" }]
+        answer: b
+        why: "mit + Dativ (immer); Kollegen = Plural → ihnen."
+      - q: "Herr Weber hat viel Erfahrung. Ohne ___ hätten wir das Problem nicht gelöst."
+        options: [{ key: a, text: "ihn" }, { key: b, text: "ihm" }, { key: c, text: "er" }]
+        answer: a
+        why: "ohne + Akkusativ (immer) → ihn."
+      - q: "Die Party ist bei meiner Schwester. Kommst du auch zu ___?"
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihren" }]
+        answer: b
+        why: "zu + Dativ (immer) → ihr."
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: order
+    title: "Zwei Objekte: die richtige Reihenfolge"
+    instructions: "Put the tiles in the correct order. Each note explains which rule applies."
+    items:
+      - tiles: ["Ich", "schenke", "meinem Vater", "ein Buch"]
+        answer: [0, 1, 2, 3]
+        note: "Zwei Nomen: Dativ (meinem Vater) vor Akkusativ (ein Buch)."
+      - tiles: ["Ich", "schenke", "es", "ihm"]
+        answer: [0, 1, 2, 3]
+        note: "Zwei Pronomen: Akkusativ (es) vor Dativ (ihm)."
+      - tiles: ["Ich", "schenke", "es", "meinem Vater"]
+        answer: [0, 1, 2, 3]
+        note: "Pronomen + Nomen: das Pronomen (es) kommt immer zuerst, egal welcher Fall."
+      - tiles: ["Ich", "schenke", "ihm", "ein Buch"]
+        answer: [0, 1, 2, 3]
+        note: "Pronomen + Nomen: das Pronomen (ihm) kommt immer zuerst, egal welcher Fall."
+      - tiles: ["Der Lehrer", "erklärt", "den Schülern", "die Aufgabe"]
+        answer: [0, 1, 2, 3]
+        note: "Zwei Nomen: Dativ (den Schülern) vor Akkusativ (die Aufgabe)."
+      - tiles: ["Ich", "möchte", "es", "ihr", "geben"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Modalverb + zwei Pronomen (Akk vor Dat) + Infinitiv am Satzende."
+
+  - id: B2
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Beide Objekte durch Pronomen ersetzen"
+    instructions: "Replace both objects with pronouns, in the correct order (see Übung B1)."
+    text: |
+      1. Ich gebe meinem Bruder das Auto. → Ich gebe {1} {2}.
+      2. Wir zeigen den Gästen die Wohnung. → Wir zeigen {3} {4}.
+      3. Er erzählt seiner Frau die Geschichte. → Er erzählt {5} {6}.
+      4. Ich schicke meinem Kollegen den Bericht. → Ich schicke {7} {8}.
+      5. Die Firma bietet den Kunden einen Rabatt. → Die Firma bietet {9} {10}.
+      6. Ich leihe meiner Nachbarin mein Fahrrad. → Ich leihe {11} {12}.
+    answers:
+      "1": es
+      "2": ihm
+      "3": sie
+      "4": ihnen
+      "5": sie
+      "6": ihr
+      "7": ihn
+      "8": ihm
+      "9": ihn
+      "10": ihnen
+      "11": es
+      "12": ihr
+    notes: "In jedem Satz zuerst das Akkusativ-Pronomen, dann das Dativ-Pronomen."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Frau Kleins Präsentation"
+    instructions: "Choose the correct word for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Frau Klein hat eine wichtige Präsentation. Ihr Team unterstützt ___ dabei."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihnen" }]
+        answer: a
+        why: "unterstützen + Akkusativ → sie."
+      - q: "Die Präsentation ist am Montag. Alle Kollegen helfen ___ bei der Vorbereitung."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihren" }]
+        answer: b
+        why: "helfen + Dativ → ihr."
+      - q: "Der Kunde hat viele Fragen. Frau Klein beantwortet ___ geduldig."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihnen" }]
+        answer: a
+        why: "beantworten + Akkusativ; Objekt ist 'die Fragen' (Plural) → sie."
+      - q: "Der Kunde ist zufrieden. Frau Klein dankt ___ für sein Vertrauen."
+        options: [{ key: a, text: "ihn" }, { key: b, text: "ihm" }, { key: c, text: "ihr" }]
+        answer: b
+        why: "danken + Dativ → ihm."
+      - q: "Nach dem Meeting spricht der Chef mit Frau Klein. Er lobt ___ für die gute Arbeit."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihre" }]
+        answer: a
+        why: "loben + Akkusativ → sie."
+      - q: "Frau Klein ist bescheiden. Das Lob ist ___ etwas unangenehm."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihre" }]
+        answer: b
+        why: "unangenehm sein + Dativ → ihr."
+      - q: "Ihre Kollegen freuen sich mit ___, denn sie hat lange dafür gearbeitet."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihren" }]
+        answer: b
+        why: "sich freuen mit + Dativ (immer) → ihr."
+      - q: "Am Ende ruft Frau Klein ihren Mann an und erzählt ___ von ihrem Erfolg."
+        options: [{ key: a, text: "ihn" }, { key: b, text: "ihm" }, { key: c, text: "er" }]
+        answer: b
+        why: "erzählen + Dativ → ihm."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Geschäftsbrief (Wortbank)"
+    instructions: "Fill the 10 gaps. Three words in the box are not needed."
+    text: |
+      Sehr geehrte Frau Berg, vielen Dank für Ihre Anfrage vom 3. Mai. Gern
+      senden wir {1} weitere Informationen zu unserem Angebot. Unser
+      Kollege, Herr Neumann, hat sich bereits mit {2} in Verbindung
+      gesetzt — vielleicht haben Sie schon von {3} gehört. Falls Sie noch
+      Fragen haben, können Sie {4} jederzeit kontaktieren. Wir haben {5}
+      Ihre Unterlagen bereits weitergeleitet und werden {6} sorgfältig
+      prüfen. Herr Neumann wird {7} über das Ergebnis informieren. Wir
+      danken {8} herzlich für Ihr Vertrauen. Herr Neumann freut sich schon
+      auf das nächste Gespräch mit {9}. Das ganze Team unterstützt {10}
+      gerne bei weiteren Fragen.
+    bank: [IHNEN, IHNEN, IHM, IHN, IHM, SIE, SIE, IHNEN, IHNEN, SIE, IHR, UNS, DICH]
+    answers:
+      "1": IHNEN
+      "2": IHNEN
+      "3": IHM
+      "4": IHN
+      "5": IHM
+      "6": SIE
+      "7": SIE
+      "8": IHNEN
+      "9": IHNEN
+      "10": SIE
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: order
+    title: "Wiederholung: Wortstellung"
+    instructions: "Put the tiles in the correct order — mixing all three patterns from Block B."
+    items:
+      - tiles: ["Der Verkäufer", "zeigt", "dem Kunden", "das neue Modell"]
+        answer: [0, 1, 2, 3]
+        note: "Zwei Nomen: Dativ vor Akkusativ."
+      - tiles: ["Der Verkäufer", "zeigt", "es", "ihm"]
+        answer: [0, 1, 2, 3]
+        note: "Zwei Pronomen: Akkusativ vor Dativ."
+      - tiles: ["Der Verkäufer", "zeigt", "es", "dem Kunden"]
+        answer: [0, 1, 2, 3]
+        note: "Pronomen (es) vor Nomen (dem Kunden)."
+      - tiles: ["Ich", "kann", "ihr", "das Geschenk", "nicht", "geben"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Pronomen (ihr) vor Nomen (das Geschenk); nicht vor dem Infinitiv."
+      - tiles: ["Weil", "er", "es", "ihr", "schon", "erklärt", "hat"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Nebensatz: Verb ans Ende; im Mittelfeld Akkusativ (es) vor Dativ (ihr)."
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Die Firma hat ein neues Angebot. Wir informieren die Kunden über ___."
+        options: [{ key: a, text: "es" }, { key: b, text: "ihm" }, { key: c, text: "ihn" }]
+        answer: a
+        why: "über + Akkusativ; das Angebot ist neutrum → es."
+      - q: "Mein Nachbar zieht um. Ich helfe ___ beim Tragen der Kisten."
+        options: [{ key: a, text: "ihn" }, { key: b, text: "ihm" }, { key: c, text: "er" }]
+        answer: b
+        why: "helfen + Dativ → ihm."
+      - q: "Die Rechnung ist noch offen. Können Sie ___ bis Freitag bezahlen?"
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihnen" }]
+        answer: a
+        why: "bezahlen + Akkusativ; die Rechnung ist feminin → sie."
+      - q: "Herr und Frau Klein sind unsere neuen Nachbarn. Wir haben ___ schon eingeladen."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihnen" }, { key: c, text: "ihr" }]
+        answer: a
+        why: "einladen + Akkusativ; Plural → sie."
+      - q: "Mein Kollege wartet auf eine Antwort. Ich schreibe ___ eine Nachricht, sobald ich Zeit habe."
+        options: [{ key: a, text: "ihn" }, { key: b, text: "ihm" }, { key: c, text: "er" }]
+        answer: b
+        why: "schreiben + Dativ (jemandem etwas schreiben) → ihm."
+      - q: "Die Idee war gut. Der Chef hat ___ sofort akzeptiert."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihnen" }]
+        answer: a
+        why: "akzeptieren + Akkusativ; die Idee ist feminin → sie."
+    notes: "5–6 von 6 richtig, und alle Block-B-Übungen sauber gelöst? Dann sitzt die Wortstellung mit zwei Objekten."

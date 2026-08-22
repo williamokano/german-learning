@@ -1,0 +1,312 @@
+lesson: "EX/01-personalpronomen-a1"
+title: "Personalpronomen: Nominativ, Akkusativ, Dativ — A1"
+topic: "Personalpronomen (Nominativ, Akkusativ, Dativ)"
+level: A1
+intro: >
+  Standalone drill set, not tied to any lesson. Blocks: A Basistraining (one
+  case at a time) → B Vertiefung (mixed cases in context) → C
+  Sprachbausteine (exam-style: 3-option gaps + word-bank cloze) → D
+  Wiederholung (mixed review, including sentences with two pronouns).
+  Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    skill: case-endings
+    title: "Die Personalpronomen-Tabelle"
+    instructions: "Ergänze die Tabelle. Nominativ ist vorgegeben."
+    instructionsEn: "Complete the table. Nominativ is given."
+    columns: ["", "Akkusativ", "Dativ"]
+    rows:
+      - label: "ich"
+        cells:
+          - { gap: 1, answer: "mich" }
+          - { gap: 2, answer: "mir" }
+      - label: "du"
+        cells:
+          - { gap: 3, answer: "dich" }
+          - { gap: 4, answer: "dir" }
+      - label: "er"
+        cells:
+          - { gap: 5, answer: "ihn" }
+          - { gap: 6, answer: "ihm" }
+      - label: "sie (sg.)"
+        cells:
+          - { gap: 7, answer: "sie" }
+          - { gap: 8, answer: "ihr" }
+      - label: "es"
+        cells:
+          - { gap: 9, answer: "es" }
+          - { gap: 10, answer: "ihm" }
+      - label: "wir"
+        cells:
+          - { gap: 11, answer: "uns" }
+          - { gap: 12, answer: "uns" }
+      - label: "ihr"
+        cells:
+          - { gap: 13, answer: "euch" }
+          - { gap: 14, answer: "euch" }
+      - label: "sie (pl.)"
+        cells:
+          - { gap: 15, answer: "sie" }
+          - { gap: 16, answer: "ihnen" }
+      - label: "Sie"
+        cells:
+          - { gap: 17, answer: "Sie" }
+          - { gap: 18, answer: "Ihnen" }
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    skill: case-endings
+    title: "Nominativ: Ersetze die Person"
+    instructions: "Ersetze die unterstrichene Person durch das richtige Personalpronomen."
+    instructionsEn: "Replace the underlined person with the correct personal pronoun (Nominativ)."
+    text: |
+      1. Peter kommt aus München. {1} kommt aus München.
+      2. Frau Müller wohnt in Berlin. {2} wohnt in Berlin.
+      3. Das Auto ist neu. {3} ist neu.
+      4. Meine Eltern kommen aus Italien. {4} kommen aus Italien.
+      5. Anna und ich lernen Deutsch. {5} lernen Deutsch.
+      6. Du und Peter, kommt {6} heute mit?
+    answers:
+      "1": er
+      "2": sie
+      "3": es
+      "4": sie
+      "5": wir
+      "6": ihr
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    skill: case-endings
+    title: "Akkusativ: Ersetze das Objekt"
+    instructions: "Ersetze das Objekt durch das richtige Personalpronomen."
+    instructionsEn: "Replace the object with the correct personal pronoun (Akkusativ)."
+    text: |
+      1. Ich sehe den Lehrer. Ich sehe {1}.
+      2. Sie kauft die Tasche. Sie kauft {2}.
+      3. Wir suchen das Buch. Wir suchen {3}.
+      4. Er kennt die Studenten. Er kennt {4}.
+      5. Kennst du mich? — Ja, ich kenne {5}.
+      6. Liebst du deinen Bruder? — Ja, ich liebe {6}.
+    answers:
+      "1": ihn
+      "2": sie
+      "3": es
+      "4": sie
+      "5": dich
+      "6": ihn
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    skill: case-endings
+    title: "Dativ: Ersetze die Person"
+    instructions: "Ergänze das richtige Personalpronomen im Dativ."
+    instructionsEn: "Fill in the correct personal pronoun (Dativ). These verbs always take a dative object: helfen, danken, gefallen, gehören, schmecken."
+    text: |
+      1. Mein Bruder hat ein Problem. Ich helfe {1}.
+      2. Unsere Lehrerin hat uns viel geholfen. Wir danken {2}.
+      3. Ich mag das Kleid. Es gefällt {3} sehr gut.
+      4. Meine Eltern haben einen Hund. Der Hund gehört {4}.
+      5. Ich verstehe die Aufgabe nicht. Kannst du {5} helfen?
+      6. Wir wohnen gern hier. Die Wohnung gefällt {6}.
+    answers:
+      "1": ihm
+      "2": ihr
+      "3": mir
+      "4": ihnen
+      "5": mir
+      "6": uns
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Lisa und Paul"
+    instructions: "Fülle die 10 Lücken mit den Wörtern aus dem Kasten."
+    instructionsEn: "Fill the 10 gaps using the words in the box."
+    text: |
+      Lisa und Paul sind gute Freunde. {1} kennen sich seit der Schule. Paul hat
+      morgen einen wichtigen Termin. Lisa hilft {2} bei der Vorbereitung. Paul
+      sagt: „Danke, das ist sehr nett von {3}!" Lisa antwortet: „Kein Problem,
+      ich helfe {4} gern." Pauls Eltern kommen aus Spanien. Paul besucht {5}
+      jeden Sommer. Seine Mutter kocht immer für {6}. Das Essen schmeckt {7}
+      sehr gut. Herr Weber ist Pauls Chef. Paul dankt {8} für die Geduld.
+      „Kann ich {9} kurz etwas fragen?", sagt Paul zu Herrn Weber. Am Ende
+      sagt Lisa zu Paul: „Ruf {10} an, wenn du Hilfe brauchst!"
+    bank: [sie, ihm, ihm, ihm, dir, dir, sie, ihn, dich, mich, uns, euch]
+    answers:
+      "1": sie
+      "2": ihm
+      "3": dir
+      "4": dir
+      "5": sie
+      "6": ihn
+      "7": ihm
+      "8": ihm
+      "9": sie
+      "10": dich
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Welches Pronomen passt?"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Frau Klein hat eine Frage. Kannst du ___ helfen?"
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihn" }]
+        answer: b
+        why: "helfen + Dativ; Frau Klein ist feminin → ihr."
+      - q: "Wir haben ein neues Auto. ___ gefällt uns sehr."
+        options: [{ key: a, text: "Es" }, { key: b, text: "Ihm" }, { key: c, text: "Ihn" }]
+        answer: a
+        why: "Subjekt von gefallen (Nominativ); das Auto ist neutrum → es."
+      - q: "Meine Schwester kommt heute. Ich hole ___ vom Bahnhof ab."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihm" }]
+        answer: a
+        why: "abholen + Akkusativ; Schwester ist feminin → sie."
+      - q: "Das ist Herr Bauer. Ich kenne ___ schon lange."
+        options: [{ key: a, text: "er" }, { key: b, text: "ihm" }, { key: c, text: "ihn" }]
+        answer: c
+        why: "kennen + Akkusativ; Herr Bauer ist maskulin → ihn."
+      - q: "Kinder, hört ihr mich? — Ja, wir hören ___ gut!"
+        options: [{ key: a, text: "dich" }, { key: b, text: "dir" }, { key: c, text: "Sie" }]
+        answer: a
+        why: "hören + Akkusativ; die Kinder antworten der fragenden Person (du) → dich."
+      - q: "Herr und Frau Krause helfen uns oft. Wir danken ___ herzlich."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihnen" }, { key: c, text: "ihr" }]
+        answer: b
+        why: "danken + Dativ; Herr und Frau Krause = Plural → ihnen."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Mein Freund Ali"
+    instructions: "Choose the correct word for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Das ist mein Freund Ali. ___ kommt aus Ägypten."
+        options: [{ key: a, text: "Er" }, { key: b, text: "Ihn" }, { key: c, text: "Ihm" }]
+        answer: a
+        why: "Subjekt (Nominativ) → Er."
+      - q: "Ali wohnt seit einem Jahr in Berlin. Ich besuche ___ oft."
+        options: [{ key: a, text: "er" }, { key: b, text: "ihn" }, { key: c, text: "ihm" }]
+        answer: b
+        why: "besuchen + Akkusativ → ihn."
+      - q: "Ali hat eine Schwester. Ich kenne ___ auch gut."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "es" }]
+        answer: a
+        why: "kennen + Akkusativ; Schwester ist feminin → sie."
+      - q: "Alis Eltern leben noch in Kairo. Ali schreibt ___ jede Woche eine E-Mail."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihnen" }, { key: c, text: "ihr" }]
+        answer: b
+        why: "schreiben + Dativ (jemandem schreiben); Eltern = Plural → ihnen."
+      - q: "Gestern habe ich Ali angerufen. Er hat ___ nicht gehört."
+        options: [{ key: a, text: "mich" }, { key: b, text: "mir" }, { key: c, text: "ich" }]
+        answer: a
+        why: "hören + Akkusativ → mich."
+      - q: 'Ali sagt: „Entschuldigung, kannst du ___ das noch einmal erklären?"'
+        options: [{ key: a, text: "mich" }, { key: b, text: "mir" }, { key: c, text: "ich" }]
+        answer: b
+        why: "erklären + Dativ (jemandem etwas erklären) → mir."
+      - q: "Ali und ich gehen oft ins Kino. Der neue Film gefällt ___ beiden sehr gut."
+        options: [{ key: a, text: "wir" }, { key: b, text: "uns" }, { key: c, text: "unser" }]
+        answer: b
+        why: "gefallen + Dativ → uns."
+      - q: 'Ali sagt oft: „Ich mag Berlin. Die Stadt gefällt ___ sehr."'
+        options: [{ key: a, text: "mich" }, { key: b, text: "ich" }, { key: c, text: "mir" }]
+        answer: c
+        why: "gefallen + Dativ; Ali spricht über sich selbst → mir."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Mein Wochenende (Wortbank)"
+    instructions: "Fill the 10 gaps. Three words in the box are not needed."
+    text: |
+      Am Samstag habe ich meine Freundin Julia besucht. {1} wohnt jetzt in
+      Köln. Julia hat mich vom Bahnhof abgeholt und {2} nach Hause gefahren.
+      Ihre Wohnung gefällt {3} sehr gut. Julias Bruder war auch da. Ich kenne
+      {4} schon seit der Schule. Er hat uns geholfen und {5} viele Witze
+      erzählt. Am Sonntag hat Julia gesagt: „Besuch {6} bald wieder!" Ich
+      habe {7} versprochen, im nächsten Monat zurückzukommen. Ihre Eltern
+      waren auch kurz da. Ich habe {8} nicht gekannt, aber sie waren sehr
+      nett zu {9}. Am Ende habe ich gesagt: „Danke, dass ich bei {10}
+      übernachten durfte!"
+    bank: [SIE, MICH, MICH, MIR, MIR, IHN, UNS, IHR, SIE, DIR, DICH, EUCH, IHM]
+    answers:
+      "1": SIE
+      "2": MICH
+      "3": MIR
+      "4": IHN
+      "5": UNS
+      "6": MICH
+      "7": IHR
+      "8": SIE
+      "9": MIR
+      "10": DIR
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze die richtigen Personalpronomen. Satz 5 hat zwei Lücken."
+    instructionsEn: "Fill in the correct pronouns. Sentence 5 has two gaps — remember: when both objects are pronouns, the Akkusativ pronoun comes before the Dativ pronoun (Er gibt es ihr, not Er gibt ihr es)."
+    text: |
+      1. Ich habe einen Bruder. {1} heißt Jonas.
+      2. Mama kauft einen Kuchen. {2} schmeckt lecker.
+      3. Wir treffen unsere Freunde. {3} sind schon da.
+      4. Mein Opa braucht Hilfe. Kannst du {4} bitte helfen?
+      5. Seine Schwester wollte das Buch lesen. Er gibt {5} {6}.
+    answers:
+      "1": er
+      "2": er
+      "3": sie
+      "4": ihm
+      "5": es
+      "6": ihr
+    notes: "Satz 5/6: Akkusativ-Pronomen (es) vor Dativ-Pronomen (ihr) — das ist die Grundregel, wenn beide Objekte Pronomen sind."
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: '„Wie geht es ___?" – „Danke, gut!"'
+        options: [{ key: a, text: "du" }, { key: b, text: "dir" }, { key: c, text: "dich" }]
+        answer: b
+        why: "wie geht es + Dativ → dir."
+      - q: "Wir laden ___ zur Party ein."
+        options: [{ key: a, text: "ihr" }, { key: b, text: "euch" }, { key: c, text: "euer" }]
+        answer: b
+        why: "einladen + Akkusativ → euch."
+      - q: "Das ist nicht mein Auto. Es gehört meinem Vater. Das Auto gehört ___."
+        options: [{ key: a, text: "er" }, { key: b, text: "ihn" }, { key: c, text: "ihm" }]
+        answer: c
+        why: "gehören + Dativ → ihm."
+      - q: "Siehst du ___ dort? Das ist meine Chefin."
+        options: [{ key: a, text: "sie" }, { key: b, text: "ihr" }, { key: c, text: "ihre" }]
+        answer: a
+        why: "sehen + Akkusativ → sie."
+      - q: "___ kommen aus Frankreich. Das sind meine Kollegen."
+        options: [{ key: a, text: "Sie" }, { key: b, text: "Ihnen" }, { key: c, text: "Ihr" }]
+        answer: a
+        why: "Subjekt (Nominativ), Plural → Sie/sie."
+    notes: "4–5 von 5 richtig? Weiter geht's mit der A2-Version. Weniger als 4? Schau dir Block A noch einmal an, bevor du weitermachst."

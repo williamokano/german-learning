@@ -1,0 +1,236 @@
+lesson: "EX/05-adjektivdeklination-b1"
+title: "Adjektivendungen ohne Artikel, im Genitiv & mehrere Adjektive — B1"
+topic: "Adjektivdeklination (schwach, gemischt, stark)"
+level: B1
+intro: >
+  Standalone drill set, not tied to any lesson. Builds on the A2 set
+  with what's left: the Nullartikel / "starke" declension — no article
+  at all (frischer Fisch, kaltes Wasser), where the adjective carries
+  the FULL der-word ending, including a Plural -e that is easy to
+  confuse with the -en you learned after der/ein (gute Kinder, not
+  guten Kinder — Nullartikel plural is the one place -e, not -en,
+  shows up); the Genitiv adjective ending (-en almost everywhere,
+  -er only in feminin/Plural); and multiple adjectives in a row, which
+  all take the SAME ending. Blocks: A Basistraining → B Vertiefung → C
+  Sprachbausteine → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    skill: case-endings
+    title: "Starke Endung ohne Artikel"
+    instructions: "Ergänze die Tabelle mit gut + Wein/Milch/Brot/Kinder."
+    instructionsEn: "Complete the table with gut + Wein/Milch/Brot/Kinder — note Plural Nom/Akk is -e here, not -en."
+    columns: ["", "maskulin", "feminin", "neutral", "Plural"]
+    rows:
+      - label: "Nom."
+        cells: [{ gap: 1, answer: "guter Wein" }, { gap: 2, answer: "gute Milch" }, { gap: 3, answer: "gutes Brot" }, { gap: 4, answer: "gute Kinder" }]
+      - label: "Akk."
+        cells: [{ gap: 5, answer: "guten Wein" }, { gap: 6, answer: "gute Milch" }, { gap: 7, answer: "gutes Brot" }, { gap: 8, answer: "gute Kinder" }]
+      - label: "Dat."
+        cells: [{ gap: 9, answer: "gutem Wein" }, { gap: 10, answer: "guter Milch" }, { gap: 11, answer: "gutem Brot" }, { gap: 12, answer: "guten Kindern" }]
+      - label: "Gen."
+        cells: [{ gap: 13, answer: "guten Weins" }, { gap: 14, answer: "guter Milch" }, { gap: 15, answer: "guten Brots" }, { gap: 16, answer: "guter Kinder" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    skill: case-endings
+    title: "Mehrere Adjektive: dieselbe Endung"
+    instructions: "Ergänze die Endung. Beide Adjektive im selben Satz bekommen dieselbe Endung."
+    instructionsEn: "Fill in the ending — both adjectives in the same phrase take the same ending."
+    text: |
+      1. Ich trinke gern kalt{1}, frisch{2} Wasser.
+      2. Das ist ein klein{3}, freundlich{4} Hund.
+      3. Die alt{5}, schön{6} Kirche steht im Zentrum.
+    answers:
+      "1": es
+      "2": es
+      "3": er
+      "4": er
+      "5": e
+      "6": e
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Einkaufen ohne Artikel"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten."
+    instructionsEn: "Fill the 8 gaps using the words in the box — all Nullartikel endings."
+    text: |
+      Ich kaufe frisch{1} Obst und billig{2} Gemüse. Der Verkäufer
+      empfiehlt mir süß{3} Äpfel. Ich nehme auch gut{4} Käse. Zu Hause
+      koche ich mit frisch{5} Zutaten. Das Rezept braucht kalt{6}
+      Wasser. Ich liebe deutsch{7} Brot. Am Ende esse ich gern süß{8}
+      Kuchen.
+    bank: [es, es, e, en, en, es, es, en]
+    answers:
+      "1": es
+      "2": es
+      "3": e
+      "4": en
+      "5": en
+      "6": es
+      "7": es
+      "8": en
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Nullartikel-Plural (-e) vs. der/ein-Plural (-en)"
+    instructions: "Wähle die richtige Endung (a, b oder c)."
+    instructionsEn: "Choose the correct ending (a, b, or c)."
+    items:
+      - q: "Ich mag frisch___ Blumen."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "Kein Artikel, Plural → -e."
+      - q: "Ich mag die frisch___ Blumen."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "Nach die (schwach), Plural → -en."
+      - q: "Das ist der Duft gut___ Weins."
+        options: [{ key: a, text: "er" }, { key: b, text: "en" }, { key: c, text: "es" }]
+        answer: b
+        why: "Genitiv maskulin, kein Artikel → -en."
+      - q: "Das ist die Farbe frisch___ Milch."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: c
+        why: "Genitiv feminin, kein Artikel → -er."
+      - q: "Kinder mögen bunt___ Luftballons."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "Kein Artikel, Plural → -e."
+      - q: "Die bunt___ Luftballons hängen an der Decke."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "Nach die (schwach), Plural → -en."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Auf dem Markt"
+    instructions: "Choose the correct ending for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Auf dem Markt gibt es frisch___ Fisch."
+        options: [{ key: a, text: "er" }, { key: b, text: "en" }, { key: c, text: "e" }]
+        answer: b
+        why: "Kein Artikel, Akkusativ maskulin → -en."
+      - q: "Ich kaufe auch reif___ Tomaten."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "Kein Artikel, Plural → -e."
+      - q: "Die reif___ Tomaten sind sehr rot."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "Nach die (schwach), Plural → -en."
+      - q: "Der Verkäufer hat auch ausländisch___ Käse."
+        options: [{ key: a, text: "er" }, { key: b, text: "e" }, { key: c, text: "en" }]
+        answer: c
+        why: "Kein Artikel, Akkusativ maskulin → -en."
+      - q: "Ich probiere ein Stück würzig___ Käse."
+        options: [{ key: a, text: "en" }, { key: b, text: "er" }, { key: c, text: "e" }]
+        answer: a
+        why: "Kein Artikel vor Käse, Akkusativ maskulin → -en."
+      - q: "Zum Schluss kaufe ich noch süß___ Honig."
+        options: [{ key: a, text: "e" }, { key: b, text: "er" }, { key: c, text: "en" }]
+        answer: c
+        why: "Kein Artikel, Akkusativ maskulin → -en."
+      - q: "Der süß___ Honig schmeckt nach Blumen."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "Nach der (schwach), Nominativ maskulin → -e."
+      - q: "Guter Honig kommt von fleißig___ Bienen."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "von + Dativ, kein Artikel, Plural → -en."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Ein Picknick im Park (Wortbank)"
+    instructions: "Fill the 10 gaps. Three words in the box are not needed."
+    text: |
+      Wir machen ein Picknick mit frisch{1} Brot und reif{2} Obst. Ich
+      bringe kalt{3}, süß{4} Limonade mit. Mein Freund bringt
+      hausgemacht{5} Kuchen. Der {6} Kuchen schmeckt fantastisch. Wir
+      sitzen unter groß{7}, alt{8} Bäumen. Die {9} Bäume spenden viel
+      Schatten. Es ist ein perfekt{10} Tag.
+    bank: [FRISCHEM, REIFEM, KALTE, SÜSSE, HAUSGEMACHTEN, HAUSGEMACHTE, GROSSEN, ALTEN, ALTEN, PERFEKTER, GROSSE, ALTE, FRISCHE]
+    answers:
+      "1": FRISCHEM
+      "2": REIFEM
+      "3": KALTE
+      "4": SÜSSE
+      "5": HAUSGEMACHTEN
+      "6": HAUSGEMACHTE
+      "7": GROSSEN
+      "8": ALTEN
+      "9": ALTEN
+      "10": PERFEKTER
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze die richtige Endung."
+    text: |
+      1. Ich esse gern warm{1} Suppe.
+      2. Die warm{2} Suppe schmeckt gut.
+      3. Er kauft ein warm{3} Brot.
+      4. Kinder lieben bunt{4} Bilder.
+      5. Die bunt{5} Bilder hängen im Flur.
+      6. Das ist der Preis gut{6} Weins.
+      7. Frisch{7}, kalt{8} Luft weht durch das Fenster.
+    answers:
+      "1": e
+      "2": e
+      "3": es
+      "4": e
+      "5": en
+      "6": en
+      "7": e
+      "8": e
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct ending (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Ich mag stark___ Kaffee."
+        options: [{ key: a, text: "er" }, { key: b, text: "e" }, { key: c, text: "en" }]
+        answer: c
+        why: "Kein Artikel, Akkusativ maskulin → -en."
+      - q: "Der stark___ Kaffee weckt mich auf."
+        options: [{ key: a, text: "e" }, { key: b, text: "er" }, { key: c, text: "en" }]
+        answer: a
+        why: "Nach der (schwach), Nominativ maskulin → -e."
+      - q: "Kinder brauchen viel___ Liebe."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "Kein Artikel, Akkusativ feminin → -e."
+      - q: "Das ist die Kraft groß___ Liebe."
+        options: [{ key: a, text: "e" }, { key: b, text: "er" }, { key: c, text: "en" }]
+        answer: b
+        why: "Genitiv feminin, kein Artikel → -er."
+      - q: "Wir sehen bunt___ Vögel im Garten."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: a
+        why: "Kein Artikel, Plural → -e."
+      - q: "Die bunt___ Vögel singen laut."
+        options: [{ key: a, text: "e" }, { key: b, text: "en" }, { key: c, text: "er" }]
+        answer: b
+        why: "Nach die (schwach), Plural → -en."
+    notes: "5–6 von 6 richtig? Weiter geht's mit der B2-Version (Quantoren, Partizipien als Adjektive). Weniger als 5? Schau dir Block A noch einmal an."

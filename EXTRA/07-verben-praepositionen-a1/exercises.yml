@@ -1,0 +1,242 @@
+lesson: "EX/07-verben-praepositionen-a1"
+title: "Verben mit festem Kasus: helfen, danken, gefallen, gehören … — A1"
+topic: "Verben mit Kasus und Präpositionen"
+level: A1
+intro: >
+  Standalone drill set, not tied to any lesson. Some German verbs
+  simply require a fixed case, and you have to learn it with the verb
+  — it has nothing to do with meaning. helfen, danken, gefallen,
+  gehören always take the Dativ; sehen, kennen always take the
+  Akkusativ. This set drills that with full noun phrases (not just
+  pronouns), so the case shows on the article, not just on a pronoun
+  form. Blocks: A Basistraining → B Vertiefung → C Sprachbausteine →
+  D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Welcher Fall? Eine Verbliste"
+    instructions: "Ergänze den Fall und ein Beispiel."
+    instructionsEn: "Fill in the case and an example."
+    columns: ["", "Fall", "Beispiel"]
+    rows:
+      - label: "helfen"
+        cells: [{ gap: 1, answer: "Dativ" }, { gap: 2, answer: "Ich helfe dem Mann." }]
+      - label: "danken"
+        cells: [{ gap: 3, answer: "Dativ" }, { gap: 4, answer: "Ich danke der Frau." }]
+      - label: "gefallen"
+        cells: [{ gap: 5, answer: "Dativ" }, { gap: 6, answer: "Das gefällt mir." }]
+      - label: "gehören"
+        cells: [{ gap: 7, answer: "Dativ" }, { gap: 8, answer: "Das gehört ihm." }]
+      - label: "sehen"
+        cells: [{ gap: 9, answer: "Akkusativ" }, { gap: 10, answer: "Ich sehe den Mann." }]
+      - label: "kennen"
+        cells: [{ gap: 11, answer: "Akkusativ" }, { gap: 12, answer: "Ich kenne die Frau." }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Der richtige Artikel nach dem Verb"
+    instructions: "Ergänze den richtigen Artikel."
+    instructionsEn: "Fill in the correct article — check which case the verb needs."
+    text: |
+      1. Ich helfe {1} Lehrer.
+      2. Wir danken {2} Lehrerin.
+      3. Das Buch gehört {3} Kind.
+      4. Ich sehe {4} Freund.
+      5. Ich kenne {5} Freundin gut.
+      6. Die Musik gefällt {6} Kindern.
+    answers:
+      "1": dem
+      "2": der
+      "3": dem
+      "4": den
+      "5": die
+      "6": den
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Familie Bauer zieht um"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Familie Bauer zieht in eine neue Wohnung. Die Nachbarn helfen {1}
+      Familie beim Tragen der Kisten. Frau Bauer dankt {2} Nachbarn
+      herzlich. Die neue Wohnung gefällt {3} Kindern sehr gut. Der
+      Balkon gehört {4} Wohnung im dritten Stock. Herr Bauer kennt {5}
+      Hausmeister schon von früher. Die Kinder sehen {6} neuen
+      Spielplatz vor dem Haus. Die Farbe der Wände gefällt {7} Mutter
+      besonders gut. Am Ende dankt die Familie {8} Umzugshelfern für
+      die Hilfe.
+    bank: [der, den, den, der, den, den, der, den, dem, die]
+    answers:
+      "1": der
+      "2": den
+      "3": den
+      "4": der
+      "5": den
+      "6": den
+      "7": der
+      "8": den
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Dativ oder Akkusativ?"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Ich helfe ___."
+        options: [{ key: a, text: "meinen Bruder" }, { key: b, text: "meinem Bruder" }, { key: c, text: "mein Bruder" }]
+        answer: b
+        why: "helfen + Dativ → meinem Bruder."
+      - q: "Ich sehe ___."
+        options: [{ key: a, text: "meinen Bruder" }, { key: b, text: "meinem Bruder" }, { key: c, text: "mein Bruder" }]
+        answer: a
+        why: "sehen + Akkusativ → meinen Bruder."
+      - q: "Das Auto gehört ___."
+        options: [{ key: a, text: "meine Schwester" }, { key: b, text: "meiner Schwester" }, { key: c, text: "meinen Schwester" }]
+        answer: b
+        why: "gehören + Dativ → meiner Schwester."
+      - q: "Ich kenne ___ gut."
+        options: [{ key: a, text: "meine Schwester" }, { key: b, text: "meiner Schwester" }, { key: c, text: "meinen Schwester" }]
+        answer: a
+        why: "kennen + Akkusativ → meine Schwester."
+      - q: "Wir danken ___."
+        options: [{ key: a, text: "unsere Lehrerin" }, { key: b, text: "unserer Lehrerin" }, { key: c, text: "unseren Lehrerin" }]
+        answer: b
+        why: "danken + Dativ → unserer Lehrerin."
+      - q: "Das Geschenk gefällt ___."
+        options: [{ key: a, text: "die Kinder" }, { key: b, text: "der Kinder" }, { key: c, text: "den Kindern" }]
+        answer: c
+        why: "gefallen + Dativ Plural → den Kindern."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Im Kindergarten"
+    instructions: "Choose the correct answer (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Die Erzieherin hilft ___."
+        options: [{ key: a, text: "die Kinder" }, { key: b, text: "den Kindern" }, { key: c, text: "der Kinder" }]
+        answer: b
+        why: "helfen + Dativ Plural → den Kindern."
+      - q: "Die Kinder danken ___."
+        options: [{ key: a, text: "die Erzieherin" }, { key: b, text: "der Erzieherin" }, { key: c, text: "den Erzieherin" }]
+        answer: b
+        why: "danken + Dativ → der Erzieherin."
+      - q: "Das neue Spielzeug gehört ___."
+        options: [{ key: a, text: "der Kindergarten" }, { key: b, text: "den Kindergarten" }, { key: c, text: "dem Kindergarten" }]
+        answer: c
+        why: "gehören + Dativ → dem Kindergarten."
+      - q: "Die Kinder sehen ___ zum ersten Mal."
+        options: [{ key: a, text: "der neue Spielplatz" }, { key: b, text: "den neuen Spielplatz" }, { key: c, text: "dem neuen Spielplatz" }]
+        answer: b
+        why: "sehen + Akkusativ → den neuen Spielplatz."
+      - q: "Die Erzieherin kennt ___ schon lange."
+        options: [{ key: a, text: "die Eltern" }, { key: b, text: "den Eltern" }, { key: c, text: "der Eltern" }]
+        answer: a
+        why: "kennen + Akkusativ Plural → die Eltern."
+      - q: "Das bunte Bild gefällt ___."
+        options: [{ key: a, text: "alle Kinder" }, { key: b, text: "allen Kindern" }, { key: c, text: "aller Kinder" }]
+        answer: b
+        why: "gefallen + Dativ Plural → allen Kindern."
+      - q: "Ein Junge hilft ___ beim Aufräumen."
+        options: [{ key: a, text: "sein Freund" }, { key: b, text: "seinen Freund" }, { key: c, text: "seinem Freund" }]
+        answer: c
+        why: "helfen + Dativ → seinem Freund."
+      - q: "Die Eltern danken ___ am Ende des Tages."
+        options: [{ key: a, text: "die Erzieherin" }, { key: b, text: "der Erzieherin" }, { key: c, text: "den Erzieherin" }]
+        answer: b
+        why: "danken + Dativ → der Erzieherin."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Ein Geburtstag (Wortbank)"
+    instructions: "Fill the 10 gaps. Three words in the box are not needed."
+    text: |
+      Heute hilft Tim {1} Mutter beim Kuchenbacken. Der Kuchen gehört
+      {2} Geburtstagskind. Alle Gäste danken {3} Gastgeberin für die
+      Einladung. Die Kinder sehen {4} großen Kuchen mit Kerzen. Das
+      Geschenk gefällt {5} Kind sehr gut. Tim kennt {6} andere Kinder
+      schon aus der Schule. Die Musik gefällt {7} Erwachsenen auch. Am
+      Ende hilft Tim {8} Gastgeberin beim Aufräumen. Er dankt {9}
+      Eltern für die schöne Feier. Die Eltern kennen {10} anderen
+      Eltern schon lange.
+    bank: [DER, DEM, DER, DEN, DEM, DIE, DEN, DER, DEN, DIE, EINEN, EINER, DAS]
+    answers:
+      "1": DER
+      "2": DEM
+      "3": DER
+      "4": DEN
+      "5": DEM
+      "6": DIE
+      "7": DEN
+      "8": DER
+      "9": DEN
+      "10": DIE
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze den richtigen Artikel."
+    text: |
+      1. Ich helfe {1} Oma.
+      2. Ich sehe {2} Oma jeden Sonntag.
+      3. Das Haus gehört {3} Onkel.
+      4. Ich kenne {4} Onkel gut.
+      5. Wir danken {5} Ärzten.
+      6. Der Film gefällt {6} Zuschauern.
+    answers:
+      "1": meiner
+      "2": meine
+      "3": meinem
+      "4": meinen
+      "5": den
+      "6": den
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Ich helfe ___."
+        options: [{ key: a, text: "meine Schwester" }, { key: b, text: "meiner Schwester" }, { key: c, text: "meinen Schwester" }]
+        answer: b
+        why: "helfen + Dativ → meiner Schwester."
+      - q: "Ich sehe ___ jeden Tag."
+        options: [{ key: a, text: "mein Kollege" }, { key: b, text: "meinem Kollegen" }, { key: c, text: "meinen Kollegen" }]
+        answer: c
+        why: "sehen + Akkusativ → meinen Kollegen."
+      - q: "Das Auto gehört ___."
+        options: [{ key: a, text: "meine Eltern" }, { key: b, text: "meinen Eltern" }, { key: c, text: "meiner Eltern" }]
+        answer: b
+        why: "gehören + Dativ Plural → meinen Eltern."
+      - q: "Wir kennen ___ schon lange."
+        options: [{ key: a, text: "der Nachbar" }, { key: b, text: "den Nachbarn" }, { key: c, text: "dem Nachbarn" }]
+        answer: b
+        why: "kennen + Akkusativ → den Nachbarn."
+      - q: "Ich danke ___ für die Hilfe."
+        options: [{ key: a, text: "der Lehrer" }, { key: b, text: "den Lehrer" }, { key: c, text: "dem Lehrer" }]
+        answer: c
+        why: "danken + Dativ → dem Lehrer."
+      - q: "Das Geschenk gefällt ___ sehr."
+        options: [{ key: a, text: "das Kind" }, { key: b, text: "dem Kind" }, { key: c, text: "den Kind" }]
+        answer: b
+        why: "gefallen + Dativ → dem Kind."
+    notes: "5–6 von 6 richtig? Weiter geht's mit der A2-Version (Verben mit festen Präpositionen: warten auf, sich freuen über …). Weniger als 5? Schau dir Block A noch einmal an."
