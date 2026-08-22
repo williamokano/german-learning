@@ -1,0 +1,240 @@
+lesson: "EX/07-verben-praepositionen-a2"
+title: "Verben mit fester Präposition: warten auf, sich freuen, denken an … — A2"
+topic: "Verben mit Kasus und Präpositionen"
+level: A2
+intro: >
+  Standalone drill set, not tied to any lesson. Many German verbs pair
+  with a fixed preposition whose meaning you can't guess (warten AUF,
+  denken AN, sich freuen AUF for something ahead vs. ÜBER for
+  something that already happened). To ask or refer back to a THING,
+  use a wo-/da-compound (worauf/darauf, woran/daran, worüber/darüber).
+  For a PERSON, never use these compounds — use preposition + wen/wem
+  in the question and preposition + pronoun in the answer (auf wen? —
+  auf ihn). Blocks: A Basistraining → B Vertiefung → C Sprachbausteine
+  → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Verb + Präposition + Fall"
+    instructions: "Ergänze die Präposition (+ Fall) und ein Beispiel."
+    instructionsEn: "Fill in the preposition (+ case) and an example."
+    columns: ["", "Präposition + Fall", "Beispiel"]
+    rows:
+      - label: "warten"
+        cells: [{ gap: 1, answer: "auf + Akkusativ" }, { gap: 2, answer: "Ich warte auf den Bus." }]
+      - label: "sich freuen (Zukunft)"
+        cells: [{ gap: 3, answer: "auf + Akkusativ" }, { gap: 4, answer: "Ich freue mich auf die Ferien." }]
+      - label: "sich freuen (Vergangenheit)"
+        cells: [{ gap: 5, answer: "über + Akkusativ" }, { gap: 6, answer: "Ich freue mich über das Geschenk." }]
+      - label: "denken"
+        cells: [{ gap: 7, answer: "an + Akkusativ" }, { gap: 8, answer: "Ich denke an dich." }]
+      - label: "sprechen"
+        cells: [{ gap: 9, answer: "über + Akkusativ" }, { gap: 10, answer: "Wir sprechen über das Wetter." }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "wo(r)- für Sachen, Präposition + wen/wem für Personen"
+    instructions: "Ergänze die richtige Frage."
+    instructionsEn: "Fill in the correct question — a wo(r)-compound for things, preposition + wen/wem for people."
+    text: |
+      1. Ich warte auf den Bus. — {1} wartest du?
+      2. Ich warte auf meinen Freund. — {2} wartest du?
+      3. Ich denke an die Prüfung. — {3} denkst du?
+      4. Ich denke an meine Mutter. — {4} denkst du?
+      5. Wir sprechen über das Buch. — {5} sprecht ihr?
+      6. Wir sprechen über den Lehrer. — {6} sprecht ihr?
+    answers:
+      "1": Worauf
+      "2": "Auf wen"
+      "3": Woran
+      "4": "An wen"
+      "5": Worüber
+      "6": "Über wen"
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Unser Wochenende"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Ich freue mich {1} das Wochenende. Meine Freunde warten schon {2}
+      mich. Wir sprechen oft {3} unsere Pläne. Ich denke schon jetzt
+      {4} den Ausflug. Am Samstag scheint die Sonne. Wir freuen uns {5}
+      das schöne Wetter. Meine Schwester wartet {6} eine Nachricht von
+      mir. Wir denken auch {7} ein Picknick. Am Ende sprechen alle {8}
+      den schönen Tag.
+    bank: [auf, auf, über, an, über, auf, an, über, mit, für]
+    answers:
+      "1": auf
+      "2": auf
+      "3": über
+      "4": an
+      "5": über
+      "6": auf
+      "7": an
+      "8": über
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "da(r)-Kompositum (Sache) oder Präposition + Pronomen (Person)?"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Ich warte auf den Bus. Ich warte ___."
+        options: [{ key: a, text: "darauf" }, { key: b, text: "auf ihn" }, { key: c, text: "auf ihm" }]
+        answer: a
+        why: "Sache → darauf."
+      - q: "Ich warte auf meine Schwester. Ich warte ___."
+        options: [{ key: a, text: "darauf" }, { key: b, text: "auf sie" }, { key: c, text: "auf ihr" }]
+        answer: b
+        why: "Person → auf sie (nicht darauf)."
+      - q: "Er denkt an das Problem. Er denkt ___."
+        options: [{ key: a, text: "daran" }, { key: b, text: "an ihn" }, { key: c, text: "an es" }]
+        answer: a
+        why: "Sache → daran."
+      - q: "Er denkt an seinen Freund. Er denkt ___."
+        options: [{ key: a, text: "daran" }, { key: b, text: "an ihn" }, { key: c, text: "an er" }]
+        answer: b
+        why: "Person → an ihn."
+      - q: "Wir sprechen über die Ferien. Wir sprechen ___."
+        options: [{ key: a, text: "darüber" }, { key: b, text: "über sie" }, { key: c, text: "über ihnen" }]
+        answer: a
+        why: "Sache → darüber."
+      - q: "Wir sprechen über unsere Lehrerin. Wir sprechen ___."
+        options: [{ key: a, text: "darüber" }, { key: b, text: "über sie" }, { key: c, text: "über ihr" }]
+        answer: b
+        why: "Person → über sie."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Meine beste Freundin"
+    instructions: "Choose the correct answer (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Ich denke oft ___ meine beste Freundin."
+        options: [{ key: a, text: "an" }, { key: b, text: "auf" }, { key: c, text: "über" }]
+        answer: a
+        why: "denken an."
+      - q: "Wir sprechen viel ___ unsere Zukunftspläne."
+        options: [{ key: a, text: "an" }, { key: b, text: "auf" }, { key: c, text: "über" }]
+        answer: c
+        why: "sprechen über."
+      - q: "Sie wartet immer geduldig ___ mich, wenn ich zu spät bin."
+        options: [{ key: a, text: "an" }, { key: b, text: "auf" }, { key: c, text: "über" }]
+        answer: b
+        why: "warten auf."
+      - q: "Ich freue mich sehr ___ unser nächstes Treffen."
+        options: [{ key: a, text: "an" }, { key: b, text: "auf" }, { key: c, text: "über" }]
+        answer: b
+        why: "sich freuen auf (Zukunft)."
+      - q: "Letzte Woche hat sie mir geschrieben. Ich habe mich sehr ___ die Nachricht gefreut."
+        options: [{ key: a, text: "an" }, { key: b, text: "auf" }, { key: c, text: "über" }]
+        answer: c
+        why: "sich freuen über (Vergangenheit)."
+      - q: "Kennst du meine Freundin? — Ja, ich denke oft ___."
+        options: [{ key: a, text: "daran" }, { key: b, text: "an sie" }, { key: c, text: "an es" }]
+        answer: b
+        why: "Person → an sie (nicht daran)."
+      - q: "Wartest du auf den Zug? — Nein, ich warte nicht ___, ich warte auf meine Freundin."
+        options: [{ key: a, text: "darauf" }, { key: b, text: "auf ihn" }, { key: c, text: "auf es" }]
+        answer: a
+        why: "Sache → darauf."
+      - q: "Sprichst du über das Wetter? — Nein, wir sprechen nicht ___, wir sprechen über unsere Pläne."
+        options: [{ key: a, text: "darüber" }, { key: b, text: "über es" }, { key: c, text: "über ihm" }]
+        answer: a
+        why: "Sache → darüber."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Der Umzug meines Freundes (Wortbank)"
+    instructions: "Fill the 10 gaps. Three words in the box are not needed."
+    text: |
+      Mein Freund zieht bald um. Ich freue mich {1} seinen Besuch in
+      der neuen Stadt. Er wartet gerade {2} das Umzugsunternehmen. Ich
+      denke oft {3} ihn und seine neue Wohnung. Wir sprechen viel {4}
+      seine Pläne. Gestern hat er mir Fotos geschickt. Ich habe mich
+      {5} die Fotos gefreut. Er wartet auch {6} eine Antwort vom
+      Vermieter. Ich denke schon {7} unseren ersten Besuch bei ihm. Er
+      spricht ständig {8} seine neuen Pläne. Ich warte gespannt {9}
+      seine erste Nachricht aus der neuen Stadt. Wir freuen uns beide
+      {10} das Abenteuer.
+    bank: [AUF, AUF, AN, ÜBER, ÜBER, AUF, AN, ÜBER, AUF, AUF, MIT, FÜR, VON]
+    answers:
+      "1": AUF
+      "2": AUF
+      "3": AN
+      "4": ÜBER
+      "5": ÜBER
+      "6": AUF
+      "7": AN
+      "8": ÜBER
+      "9": AUF
+      "10": AUF
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze die richtige Präposition, das Fragewort oder das da(r)-Kompositum."
+    text: |
+      1. Ich warte auf das Ergebnis. — {1} wartest du?
+      2. Ich warte auf meinen Chef. — {2} wartest du?
+      3. Wir denken an den Urlaub. Wir denken {3}.
+      4. Wir denken an unsere Großmutter. Wir denken {4}.
+      5. Sie freut sich {5} die Party.
+      6. Er freut sich über das Geschenk. Er hat sich sehr {6} gefreut.
+    answers:
+      "1": Worauf
+      "2": "Auf wen"
+      "3": daran
+      "4": "an sie"
+      "5": auf
+      "6": darüber
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Ich freue mich schon ___ die Ferien."
+        options: [{ key: a, text: "an" }, { key: b, text: "auf" }, { key: c, text: "über" }]
+        answer: b
+        why: "sich freuen auf (Zukunft)."
+      - q: "Wir haben uns sehr ___ den Erfolg gefreut."
+        options: [{ key: a, text: "an" }, { key: b, text: "auf" }, { key: c, text: "über" }]
+        answer: c
+        why: "sich freuen über (Vergangenheit)."
+      - q: "Ich denke oft ___ meine Kindheit."
+        options: [{ key: a, text: "an" }, { key: b, text: "auf" }, { key: c, text: "über" }]
+        answer: a
+        why: "denken an."
+      - q: "Worauf wartest du? — Ich warte ___ den Zug."
+        options: [{ key: a, text: "an" }, { key: b, text: "auf" }, { key: c, text: "über" }]
+        answer: b
+        why: "warten auf."
+      - q: "Kennst du Herrn Meier? Ich denke oft ___."
+        options: [{ key: a, text: "daran" }, { key: b, text: "an ihn" }, { key: c, text: "an es" }]
+        answer: b
+        why: "Person → an ihn."
+      - q: "Sprecht ihr über das Projekt? — Ja, wir sprechen oft ___."
+        options: [{ key: a, text: "darüber" }, { key: b, text: "über es" }, { key: c, text: "über ihm" }]
+        answer: a
+        why: "Sache → darüber."
+    notes: "5–6 von 6 richtig? Weiter geht's mit der B1-Version (vollständige da-/wo-Komposita, erweiterte Verbliste). Weniger als 5? Schau dir Block A noch einmal an."
