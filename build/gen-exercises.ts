@@ -498,11 +498,15 @@ function renderSolutionsMd(data: ExerciseSetType): string {
         lines.push(...renderExerciseSol(ex));
       }
     }
-    // Selbsttest threshold for normal lessons
-    lines.push('---');
-    lines.push('');
-    lines.push('**16+ / 20 → go to the next Lektion.**');
-    lines.push('');
+    // Selbsttest threshold for curriculum lessons — doesn't apply to standalone
+    // EXTRA/ sets (EX/... lesson id), which have no "next Lektion" and no fixed
+    // 20-item D-block shape.
+    if (!data.lesson.startsWith('EX/')) {
+      lines.push('---');
+      lines.push('');
+      lines.push('**16+ / 20 → go to the next Lektion.**');
+      lines.push('');
+    }
   } else {
     // Exam: no block grouping
     lines.push('---');
