@@ -1,0 +1,238 @@
+lesson: "EX/04-relativsatz-a2"
+title: "Relativsätze: Nominativ und Akkusativ — A2"
+topic: "Relativsätze und Relativpronomen"
+level: A2
+intro: >
+  Standalone drill set, not tied to any lesson. The Relativpronomen
+  (der/die/das/die) matches the antecedent's GENDER and NUMBER, but its
+  CASE comes only from its own job inside the relative clause — not
+  from whatever article the antecedent had. This set deliberately uses
+  "ein/einen" antecedents a lot, because "einen Bruder, der ..." (not
+  "den ...") is the exact trap where learners copy the antecedent's
+  case by mistake. Blocks: A Basistraining → B Vertiefung → C
+  Sprachbausteine → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    skill: case-endings
+    title: "Die Relativpronomen-Tabelle (Nominativ, Akkusativ)"
+    instructions: "Ergänze die Tabelle."
+    instructionsEn: "Complete the table."
+    columns: ["", "maskulin", "feminin", "neutral", "Plural"]
+    rows:
+      - label: "Nominativ"
+        cells: [{ gap: 1, answer: "der" }, { gap: 2, answer: "die" }, { gap: 3, answer: "das" }, { gap: 4, answer: "die" }]
+      - label: "Akkusativ"
+        cells: [{ gap: 5, answer: "den" }, { gap: 6, answer: "die" }, { gap: 7, answer: "das" }, { gap: 8, answer: "die" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    skill: case-endings
+    title: "Achtung, Falle: ein Bruder, der … (nicht den …)"
+    instructions: "Ergänze das richtige Relativpronomen. Der Fall des Pronomens kommt vom Nebensatz, nicht vom Artikel davor."
+    instructionsEn: "Fill in the correct relative pronoun. Its case comes from its role inside the relative clause, not from the article before it — 'einen Bruder' does not mean the pronoun must be 'den'."
+    text: |
+      1. Ich habe einen Bruder, {1} in Berlin wohnt.
+      2. Das ist eine Frau, {2} ich gut kenne.
+      3. Ich sehe einen Mann, {3} ein Buch liest.
+      4. Das ist ein Kind, {4} ich noch nicht kenne.
+      5. Ich habe einen Freund, {5} mir oft hilft.
+      6. Wir kennen eine Familie, {6} drei Kinder hat.
+    answers:
+      "1": der
+      "2": die
+      "3": der
+      "4": das
+      "5": der
+      "6": die
+    notes: "Sätze 1, 3, 5: 'einen' im Hauptsatz, aber 'der' im Nebensatz — das Pronomen ist Subjekt seines eigenen Satzes."
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Leute, die ich kenne"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Ich habe einen Kollegen, {1} sehr lustig ist. Er hat einen Hund,
+      {2} ich oft ausführe. Meine Nachbarin hat eine Tochter, {3} Ärztin
+      werden möchte. Ich kenne einen Mann, {4} in meiner Straße wohnt.
+      Er hat ein Auto, {5} sehr laut ist. Die Frau, {6} neben mir sitzt,
+      liest ein Buch. Das Buch, {7} sie liest, ist sehr dick. Ich habe
+      eine Freundin, {8} ich schon zehn Jahre kenne.
+    bank: [der, den, die, der, das, die, das, die, den, das]
+    answers:
+      "1": der
+      "2": den
+      "3": die
+      "4": der
+      "5": das
+      "6": die
+      "7": das
+      "8": die
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Nominativ oder Akkusativ?"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Ich habe einen Onkel, ___ in Amerika lebt."
+        options: [{ key: a, text: "den" }, { key: b, text: "der" }, { key: c, text: "dem" }]
+        answer: b
+        why: "Subjekt von lebt (Nominativ) → der."
+      - q: "Das ist ein Film, ___ ich gestern gesehen habe."
+        options: [{ key: a, text: "der" }, { key: b, text: "den" }, { key: c, text: "dem" }]
+        answer: b
+        why: "Objekt von gesehen habe (Akkusativ) → den."
+      - q: "Wir haben einen Nachbarn, ___ immer laute Musik hört."
+        options: [{ key: a, text: "den" }, { key: b, text: "der" }, { key: c, text: "dem" }]
+        answer: b
+        why: "Subjekt von hört (Nominativ) → der."
+      - q: "Ich lese ein Buch, ___ sehr spannend ist."
+        options: [{ key: a, text: "das" }, { key: b, text: "den" }, { key: c, text: "der" }]
+        answer: a
+        why: "Subjekt von ist (Nominativ neutrum) → das."
+      - q: "Das ist eine Kollegin, ___ ich sehr schätze."
+        options: [{ key: a, text: "die" }, { key: b, text: "der" }, { key: c, text: "den" }]
+        answer: a
+        why: "Objekt von schätze (Akkusativ feminin) → die."
+      - q: "Er hat einen Sohn, ___ Medizin studiert."
+        options: [{ key: a, text: "den" }, { key: b, text: "der" }, { key: c, text: "dem" }]
+        answer: b
+        why: "Subjekt von studiert (Nominativ) → der."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Meine Stadt"
+    instructions: "Choose the correct word for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Ich wohne in einer Stadt, ___ sehr alt ist."
+        options: [{ key: a, text: "die" }, { key: b, text: "der" }, { key: c, text: "den" }]
+        answer: a
+        why: "Subjekt (Nominativ feminin) → die."
+      - q: "Es gibt einen Park, ___ ich oft besuche."
+        options: [{ key: a, text: "der" }, { key: b, text: "den" }, { key: c, text: "dem" }]
+        answer: b
+        why: "Objekt (Akkusativ) → den."
+      - q: "Im Park gibt es einen See, ___ sehr klar ist."
+        options: [{ key: a, text: "der" }, { key: b, text: "den" }, { key: c, text: "dem" }]
+        answer: a
+        why: "Subjekt (Nominativ) → der."
+      - q: "Ich habe einen Freund, ___ am See wohnt."
+        options: [{ key: a, text: "den" }, { key: b, text: "der" }, { key: c, text: "dem" }]
+        answer: b
+        why: "Subjekt (Nominativ) → der."
+      - q: "Er hat ein Boot, ___ er selbst gebaut hat."
+        options: [{ key: a, text: "das" }, { key: b, text: "den" }, { key: c, text: "der" }]
+        answer: a
+        why: "Objekt (Akkusativ neutrum) → das."
+      - q: "Wir kennen eine Familie, ___ auch dort wohnt."
+        options: [{ key: a, text: "die" }, { key: b, text: "der" }, { key: c, text: "den" }]
+        answer: a
+        why: "Subjekt (Nominativ) → die."
+      - q: "Ihr Haus, ___ direkt am Wasser steht, ist wunderschön."
+        options: [{ key: a, text: "der" }, { key: b, text: "das" }, { key: c, text: "die" }]
+        answer: b
+        why: "Subjekt (Nominativ neutrum) → das."
+      - q: "Ich habe einen Nachbarn, ___ mir das Haus gezeigt hat."
+        options: [{ key: a, text: "den" }, { key: b, text: "der" }, { key: c, text: "dem" }]
+        answer: b
+        why: "Subjekt (Nominativ) → der."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Meine Familie (Wortbank)"
+    instructions: "Fill the 10 gaps. Three words in the box are not needed."
+    text: |
+      Ich habe eine Schwester, {1} in München lebt. Sie hat einen Mann,
+      {2} ich sehr sympathisch finde. Sie haben ein Kind, {3} schon in
+      die Schule geht. Das Kind, {4} Lina heißt, lernt gerade Englisch.
+      Ich habe auch einen Bruder, {5} noch bei unseren Eltern wohnt. Er
+      hat einen Hund, {6} sehr verspielt ist. Meine Eltern haben ein
+      Haus, {7} sie vor zwanzig Jahren gekauft haben. Die Nachbarn, {8}
+      sehr freundlich sind, kommen oft zu Besuch. Ich habe einen Onkel,
+      {9} in Kanada lebt. Wir haben eine Tante, {10} uns jedes Jahr
+      besucht.
+    bank: [DIE, DEN, DAS, DAS, DER, DER, DAS, DIE, DER, DIE, DEM, DES, DEREN]
+    answers:
+      "1": DIE
+      "2": DEN
+      "3": DAS
+      "4": DAS
+      "5": DER
+      "6": DER
+      "7": DAS
+      "8": DIE
+      "9": DER
+      "10": DIE
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Zwei Sätze zu einem verbinden"
+    instructions: "Ergänze das Relativpronomen, das die zwei Sätze verbindet."
+    instructionsEn: "Fill in the relative pronoun that joins the two sentences shown."
+    text: |
+      1. Ich habe einen Kollegen. Der Kollege arbeitet viel. → Ich habe einen Kollegen, {1} viel arbeitet.
+      2. Ich lese ein Buch. Ich habe das Buch gestern gekauft. → Ich lese ein Buch, {2} ich gestern gekauft habe.
+      3. Wir haben einen Nachbarn. Der Nachbar ist sehr nett. → Wir haben einen Nachbarn, {3} sehr nett ist.
+      4. Sie hat ein Auto. Sie fährt das Auto jeden Tag. → Sie hat ein Auto, {4} sie jeden Tag fährt.
+      5. Ich kenne eine Familie. Die Familie hat drei Kinder. → Ich kenne eine Familie, {5} drei Kinder hat.
+      6. Er hat einen Sohn. Er liebt den Sohn sehr. → Er hat einen Sohn, {6} er sehr liebt.
+    answers:
+      "1": der
+      "2": das
+      "3": der
+      "4": das
+      "5": die
+      "6": den
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Ich habe eine Tante, ___ in Spanien lebt."
+        options: [{ key: a, text: "die" }, { key: b, text: "der" }, { key: c, text: "den" }]
+        answer: a
+        why: "Subjekt (Nominativ feminin) → die."
+      - q: "Das ist ein Restaurant, ___ ich sehr mag."
+        options: [{ key: a, text: "das" }, { key: b, text: "der" }, { key: c, text: "den" }]
+        answer: a
+        why: "Objekt (Akkusativ neutrum) → das."
+      - q: "Wir haben einen Lehrer, ___ sehr streng ist."
+        options: [{ key: a, text: "den" }, { key: b, text: "der" }, { key: c, text: "dem" }]
+        answer: b
+        why: "Subjekt (Nominativ) → der."
+      - q: "Ich lese einen Roman, ___ sehr bekannt ist."
+        options: [{ key: a, text: "den" }, { key: b, text: "der" }, { key: c, text: "dem" }]
+        answer: b
+        why: "Subjekt (Nominativ) → der."
+      - q: "Sie hat eine Katze, ___ sie sehr liebt."
+        options: [{ key: a, text: "die" }, { key: b, text: "der" }, { key: c, text: "den" }]
+        answer: a
+        why: "Objekt (Akkusativ feminin) → die."
+      - q: "Er kennt einen Arzt, ___ ihm sehr geholfen hat."
+        options: [{ key: a, text: "den" }, { key: b, text: "der" }, { key: c, text: "dem" }]
+        answer: b
+        why: "Subjekt (Nominativ) → der."
+    notes: "5–6 von 6 richtig? Weiter geht's mit der B1-Version (Dativ, Präpositionen, was/wo). Weniger als 5? Schau dir Block A noch einmal an."
