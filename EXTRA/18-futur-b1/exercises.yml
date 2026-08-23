@@ -1,0 +1,244 @@
+lesson: "EX/18-futur-b1"
+title: "Futur II: bis dahin abgeschlossen — B1"
+topic: "Futur I und II"
+level: B1
+intro: >
+  Standalone drill set, not tied to any lesson. Futur II (werden +
+  Partizip II + haben/sein) says something will be DONE by a certain
+  future point — not just happening, but finished: Bis nächsten Montag
+  werde ich das Projekt beendet haben. It contrasts with Futur I
+  (werden + bare Infinitiv), which just predicts the action itself:
+  Morgen werde ich das Projekt beenden. Both stay rarer than Präsens +
+  time word in everyday speech, but Futur II is genuinely useful for
+  "by then, X will already have happened." Blocks: A Basistraining →
+  B Vertiefung → C Sprachbausteine → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "werden + Partizip II + haben/sein"
+    instructions: "Ergänze die Tabelle."
+    instructionsEn: "Complete the table."
+    columns: ["", "werden + Partizip II + haben (machen)", "werden + Partizip II + sein (ankommen)"]
+    rows:
+      - label: "ich"
+        cells: [{ gap: 1, answer: "werde gemacht haben" }, { gap: 2, answer: "werde angekommen sein" }]
+      - label: "du"
+        cells: [{ gap: 3, answer: "wirst gemacht haben" }, { gap: 4, answer: "wirst angekommen sein" }]
+      - label: "er/sie/es"
+        cells: [{ gap: 5, answer: "wird gemacht haben" }, { gap: 6, answer: "wird angekommen sein" }]
+      - label: "wir"
+        cells: [{ gap: 7, answer: "werden gemacht haben" }, { gap: 8, answer: "werden angekommen sein" }]
+      - label: "ihr"
+        cells: [{ gap: 9, answer: "werdet gemacht haben" }, { gap: 10, answer: "werdet angekommen sein" }]
+      - label: "sie/Sie"
+        cells: [{ gap: 11, answer: "werden gemacht haben" }, { gap: 12, answer: "werden angekommen sein" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Futur II bilden"
+    instructions: "Ergänze die richtige Form von werden."
+    instructionsEn: "Fill in the correct form of werden."
+    text: |
+      1. Bis nächsten Montag {1} ich das Projekt beendet haben.
+      2. In zwei Stunden {2} der Zug angekommen sein.
+      3. Bis Ende des Jahres {3} wir das Haus gebaut haben.
+      4. Bis dahin {4} du sicher schon gegessen haben.
+      5. Bis morgen {5} sie die Prüfung bestanden haben.
+      6. Bis zum Abend {6} ihr die Arbeit erledigt haben.
+    answers:
+      "1": werde
+      "2": wird
+      "3": werden
+      "4": wirst
+      "5": wird
+      "6": werdet
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Bis zum Ende des Jahres"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Bis zum Ende des Jahres {1} ich mein Studium beendet haben.
+      Meine Schwester {2} bis dahin schon geheiratet haben. Meine
+      Eltern {3} bis Weihnachten das neue Haus gebaut haben. Wir {4}
+      bis dann sicher schon umgezogen sein. Mein Bruder {5} bis Sommer
+      seinen Führerschein gemacht haben. Ich {6} bis dahin auch schon
+      einen Job gefunden haben. Meine Freunde {7} bis dahin viele
+      neue Erfahrungen gesammelt haben. Das Jahr {8} bestimmt
+      spannend gewesen sein.
+    bank: [werde, werde, wird, wird, wird, werden, werden, werden, wirst, werdet]
+    answers:
+      "1": werde
+      "2": wird
+      "3": werden
+      "4": werden
+      "5": wird
+      "6": werde
+      "7": werden
+      "8": wird
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Futur I oder Futur II?"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Bilde den Satz im Futur I: Ich (das Auto / kaufen) — morgen."
+        options: [{ key: a, text: "Ich werde das Auto morgen kaufen." }, { key: b, text: "Ich werde das Auto morgen gekauft haben." }, { key: c, text: "Ich habe das Auto morgen gekauft." }]
+        answer: a
+        why: "Futur I (einfache Vorhersage) → werden + Infinitiv."
+      - q: "Bilde den Satz im Futur II: Ich (das Auto / kaufen) — bis nächste Woche."
+        options: [{ key: a, text: "Ich habe das Auto bis nächste Woche gekauft." }, { key: b, text: "Ich werde das Auto bis nächste Woche gekauft haben." }, { key: c, text: "Ich werde das Auto bis nächste Woche kaufen." }]
+        answer: b
+        why: "Futur II (abgeschlossen bis zu einem Zeitpunkt) → werden + Partizip II + haben."
+      - q: "Bilde den Satz im Futur I: Der Zug (ankommen) — in einer Stunde."
+        options: [{ key: a, text: "Der Zug ist in einer Stunde angekommen." }, { key: b, text: "Der Zug wird in einer Stunde angekommen sein." }, { key: c, text: "Der Zug wird in einer Stunde ankommen." }]
+        answer: c
+        why: "Futur I (einfache Vorhersage) → werden + Infinitiv."
+      - q: "Bilde den Satz im Futur II: Der Zug (ankommen) — bis 18 Uhr."
+        options: [{ key: a, text: "Der Zug wird bis 18 Uhr angekommen sein." }, { key: b, text: "Der Zug wird bis 18 Uhr ankommen." }, { key: c, text: "Der Zug ist bis 18 Uhr angekommen." }]
+        answer: a
+        why: "Futur II (abgeschlossen bis zu einem Zeitpunkt) → werden + Partizip II + sein."
+      - q: "Bilde den Satz im Futur I: Wir (das Projekt / beenden) — nächstes Jahr."
+        options: [{ key: a, text: "Wir haben das Projekt nächstes Jahr beendet." }, { key: b, text: "Wir werden das Projekt nächstes Jahr beenden." }, { key: c, text: "Wir werden das Projekt nächstes Jahr beendet haben." }]
+        answer: b
+        why: "Futur I (einfache Vorhersage) → werden + Infinitiv."
+      - q: "Bilde den Satz im Futur II: Wir (das Projekt / beenden) — bis Ende des Jahres."
+        options: [{ key: a, text: "Wir werden das Projekt bis Ende des Jahres beenden." }, { key: b, text: "Wir haben das Projekt bis Ende des Jahres beendet." }, { key: c, text: "Wir werden das Projekt bis Ende des Jahres beendet haben." }]
+        answer: c
+        why: "Futur II (abgeschlossen bis zu einem Zeitpunkt) → werden + Partizip II + haben."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Zukunftspläne einer Firma"
+    instructions: "Choose the correct verb ending for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Bis Ende des Jahres wird die Firma ein neues Produkt ___."
+        options: [{ key: a, text: "auf den Markt gebracht haben" }, { key: b, text: "auf den Markt bringen" }, { key: c, text: "auf den Markt gebracht" }]
+        answer: a
+        why: "Futur II (abgeschlossen bis Ende des Jahres) → Partizip II + haben."
+      - q: "Nächsten Monat wird die Firma eine neue Filiale ___."
+        options: [{ key: a, text: "eröffnet haben" }, { key: b, text: "eröffnen" }, { key: c, text: "eröffnet" }]
+        answer: b
+        why: "Futur I (einfache Vorhersage) → Infinitiv."
+      - q: "Bis 2030 werden die Mitarbeiter mehr Erfahrung ___."
+        options: [{ key: a, text: "sammeln" }, { key: b, text: "gesammelt" }, { key: c, text: "gesammelt haben" }]
+        answer: c
+        why: "Futur II (abgeschlossen bis 2030) → Partizip II + haben."
+      - q: "Morgen wird der Chef eine wichtige Entscheidung ___."
+        options: [{ key: a, text: "treffen" }, { key: b, text: "getroffen haben" }, { key: c, text: "getroffen" }]
+        answer: a
+        why: "Futur I (einfache Vorhersage) → Infinitiv."
+      - q: "Bis nächsten Freitag werden wir das Angebot ___."
+        options: [{ key: a, text: "fertigstellen" }, { key: b, text: "fertiggestellt haben" }, { key: c, text: "fertiggestellt" }]
+        answer: b
+        why: "Futur II (abgeschlossen bis Freitag) → Partizip II + haben."
+      - q: "Übermorgen wird das Team die Präsentation ___."
+        options: [{ key: a, text: "gehalten haben" }, { key: b, text: "gehalten" }, { key: c, text: "halten" }]
+        answer: c
+        why: "Futur I (einfache Vorhersage) → Infinitiv."
+      - q: "Bis zum nächsten Quartal werden sie den Umsatz ___."
+        options: [{ key: a, text: "steigern" }, { key: b, text: "gesteigert haben" }, { key: c, text: "gesteigert" }]
+        answer: b
+        why: "Futur II (abgeschlossen bis zum Quartal) → Partizip II + haben."
+      - q: "Nächste Woche wird der Kunde ___."
+        options: [{ key: a, text: "anrufen" }, { key: b, text: "angerufen haben" }, { key: c, text: "angerufen" }]
+        answer: a
+        why: "Futur I (einfache Vorhersage) → Infinitiv."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Persönliche Meilensteine bis 2030 (Wortbank)"
+    instructions: "Fill the 10 gaps. Two words in the box are not needed."
+    text: |
+      Bis 2030 {1} ich viele Ziele erreicht haben. Ich {2} mein
+      eigenes Unternehmen gegründet haben. Meine Familie {3} mich
+      dabei unterstützt haben. Wir {4} zusammen viele Erfolge
+      gefeiert haben. Ich {5} auch eine neue Sprache gelernt haben.
+      Meine Freunde {6} mich sicher besucht haben. Ich {7} hoffentlich
+      gesund geblieben sein. Die Welt {8} sich bis dahin verändert
+      haben. Ich {9} stolz auf meinen Weg zurückblicken. Am Ende {10}
+      ich zufrieden gewesen sein.
+    bank: [werde, werde, werde, werde, werde, werde, wird, wird, werden, werden, wirst, werdet]
+    answers:
+      "1": werde
+      "2": werde
+      "3": wird
+      "4": werden
+      "5": werde
+      "6": werden
+      "7": werde
+      "8": wird
+      "9": werde
+      "10": werde
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze die richtige Form von werden."
+    text: |
+      1. Bis morgen {1} ich das Buch gelesen haben.
+      2. Der Zug {2} in einer Stunde ankommen.
+      3. Bis Ende des Jahres {3} wir das Haus gebaut haben.
+      4. Morgen {4} ich einkaufen gehen.
+      5. Bis Freitag {5} sie die Prüfung bestanden haben.
+      6. Nächste Woche {6} ihr uns besuchen.
+    answers:
+      "1": werde
+      "2": wird
+      "3": werden
+      "4": werde
+      "5": wird
+      "6": werdet
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct verb ending (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Bis nächste Woche wird sie das Projekt ___."
+        options: [{ key: a, text: "fertiggestellt haben" }, { key: b, text: "fertigstellen" }, { key: c, text: "fertiggestellt" }]
+        answer: a
+        why: "Futur II (abgeschlossen bis nächste Woche) → Partizip II + haben."
+      - q: "Morgen wird er uns ___."
+        options: [{ key: a, text: "angerufen haben" }, { key: b, text: "anrufen" }, { key: c, text: "angerufen" }]
+        answer: b
+        why: "Futur I (einfache Vorhersage) → Infinitiv."
+      - q: "Bis 2025 werden wir viel ___."
+        options: [{ key: a, text: "erreichen" }, { key: b, text: "erreicht" }, { key: c, text: "erreicht haben" }]
+        answer: c
+        why: "Futur II (abgeschlossen bis 2025) → Partizip II + haben."
+      - q: "Nächste Woche wird das Team die Arbeit ___."
+        options: [{ key: a, text: "beginnen" }, { key: b, text: "begonnen haben" }, { key: c, text: "begonnen" }]
+        answer: a
+        why: "Futur I (einfache Vorhersage) → Infinitiv."
+      - q: "Bis Freitag werden sie die Entscheidung ___."
+        options: [{ key: a, text: "treffen" }, { key: b, text: "getroffen haben" }, { key: c, text: "getroffen" }]
+        answer: b
+        why: "Futur II (abgeschlossen bis Freitag) → Partizip II + haben."
+      - q: "Übermorgen wird sie die Prüfung ___."
+        options: [{ key: a, text: "geschrieben haben" }, { key: b, text: "geschrieben" }, { key: c, text: "schreiben" }]
+        answer: c
+        why: "Futur I (einfache Vorhersage) → Infinitiv."
+    notes: "5–6 von 6 richtig? Futur I (werden + Infinitiv) für einfache Vorhersagen und Futur II (werden + Partizip II + haben/sein) für bis-zu-einem-Zeitpunkt-abgeschlossene Handlungen sitzen jetzt sicher."
