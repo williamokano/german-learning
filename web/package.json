@@ -6,14 +6,15 @@
     "node": ">=22.12.0"
   },
   "scripts": {
-    "prebuild":     "node ../build/mirror-audio.mjs",
-    "predev":       "node ../build/mirror-audio.mjs",
-    "dev":          "astro dev",
-    "build":        "astro build",
-    "preview":      "astro preview",
-    "astro":        "astro",
-    "test":         "vitest run",
-    "gen-exercises":"npx tsx ../build/gen-exercises.ts",
+    "prebuild": "node ../build/mirror-audio.mjs",
+    "predev": "node ../build/mirror-audio.mjs",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "test": "vitest run",
+    "typecheck": "astro check",
+    "gen-exercises": "npx tsx ../build/gen-exercises.ts",
     "strip-lesson": "npx tsx ../build/strip-lesson.ts"
   },
   "dependencies": {
@@ -25,6 +26,7 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
+    "@astrojs/check": "^0.9.10",
     "@types/node": "^25.9.3",
     "typescript": "^6.0.3",
     "unist-util-visit": "^5.1.0",
