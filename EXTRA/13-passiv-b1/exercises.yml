@@ -1,0 +1,239 @@
+lesson: "EX/13-passiv-b1"
+title: "Passiv: Vorgang, Zustand und Modalverben — B1"
+topic: "Passiv"
+level: B1
+intro: >
+  Standalone drill set, not tied to any lesson. The Passiv shifts focus
+  from who does something to what happens to it: Der Lehrer korrigiert
+  die Tests (Aktiv) → Die Tests werden korrigiert (Passiv) — the doer
+  can still be named with von + Dativ, but is often left out entirely.
+  Vorgangspassiv (werden + Partizip II) describes the process itself
+  across every tense (wird/wurde/ist … worden gebaut). A separate form,
+  Zustandspassiv (sein + Partizip II), describes only the resulting
+  state (Die Tür ist geöffnet — it's already open, no more opening
+  happening). Modal verbs combine with the Passiv too: Die Aufgabe muss
+  erledigt werden. Blocks: A Basistraining → B Vertiefung →
+  C Sprachbausteine → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Ein Satz, alle Zeitformen"
+    instructions: "Ergänze den ganzen Passivsatz in der angegebenen Zeitform."
+    instructionsEn: "Fill in the whole passive sentence in the given tense."
+    columns: ["Zeitform", "Passivsatz (das Haus / bauen)"]
+    rows:
+      - label: "Präsens"
+        cells: [{ gap: 1, answer: "Das Haus wird gebaut." }]
+      - label: "Präteritum"
+        cells: [{ gap: 2, answer: "Das Haus wurde gebaut." }]
+      - label: "Perfekt"
+        cells: [{ gap: 3, answer: "Das Haus ist gebaut worden." }]
+      - label: "Futur I"
+        cells: [{ gap: 4, answer: "Das Haus wird gebaut werden." }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Aktiv → Passiv"
+    instructions: "Ergänze das Passiv-Hilfsverb (wird, werden, wurde oder ist)."
+    instructionsEn: "Fill in the passive auxiliary (wird, werden, wurde, or ist)."
+    text: |
+      1. Der Lehrer korrigiert die Tests. → Die Tests {1} korrigiert.
+      2. Die Firma stellt neue Mitarbeiter ein. → Neue Mitarbeiter {2} eingestellt.
+      3. Man baute die Brücke 1990. → Die Brücke {3} 1990 gebaut.
+      4. Die Sekretärin hat den Brief geschrieben. → Der Brief {4} geschrieben worden.
+      5. Der Koch kocht das Essen. → Das Essen {5} gekocht.
+      6. Die Kinder haben die Blumen gepflanzt. → Die Blumen {6} gepflanzt worden.
+    answers:
+      "1": werden
+      "2": werden
+      "3": wurde
+      "4": ist
+      "5": wird
+      "6": sind
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Die neue Bäckerei"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      In dieser Bäckerei {1} jeden Morgen frisches Brot gebacken. Der
+      Teig {2} schon um vier Uhr vorbereitet. Früher {3} das Brot noch
+      von Hand geknetet. Heute {4} eine Maschine benutzt. Letztes Jahr
+      {5} ein neuer Ofen gekauft. Die Rezepte {6} seit Generationen
+      weitergegeben. Nächstes Jahr {7} die Bäckerei renoviert werden.
+      Die Kunden sagen, hier {8} das beste Brot der Stadt gebacken.
+    bank: [wird, wird, wurde, wird, wurde, werden, soll, wird, war, waren]
+    answers:
+      "1": wird
+      "2": wird
+      "3": wurde
+      "4": wird
+      "5": wurde
+      "6": werden
+      "7": soll
+      "8": wird
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Vorgangspassiv oder Zustandspassiv?"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Der Laden ___ gerade geöffnet. (Der Verkäufer macht die Tür gerade auf.)"
+        options: [{ key: a, text: "wird" }, { key: b, text: "ist" }, { key: c, text: "wurde" }]
+        answer: a
+        why: "Vorgang (Prozess) → werden."
+      - q: "Der Laden ___ schon geöffnet. (Die Tür steht schon offen.)"
+        options: [{ key: a, text: "wird" }, { key: b, text: "ist" }, { key: c, text: "war" }]
+        answer: b
+        why: "Zustand (Ergebnis) → sein."
+      - q: "Das Fenster ___ gestern repariert. (Der Handwerker hat es gemacht.)"
+        options: [{ key: a, text: "wird" }, { key: b, text: "ist" }, { key: c, text: "wurde" }]
+        answer: c
+        why: "Vorgang, Präteritum → wurde."
+      - q: "Das Fenster ___ jetzt repariert. (Man sieht das fertige Ergebnis.)"
+        options: [{ key: a, text: "ist" }, { key: b, text: "wird" }, { key: c, text: "wurde" }]
+        answer: a
+        why: "Zustand → sein."
+      - q: "Die Party ___ gerade vorbereitet."
+        options: [{ key: a, text: "ist" }, { key: b, text: "wird" }, { key: c, text: "war" }]
+        answer: b
+        why: "Vorgang → werden."
+      - q: "Alles ___ schon vorbereitet, die Gäste können kommen."
+        options: [{ key: a, text: "wird" }, { key: b, text: "wurde" }, { key: c, text: "ist" }]
+        answer: c
+        why: "Zustand → sein."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Die Autofabrik"
+    instructions: "Choose the correct answer for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "In dieser Fabrik ___ täglich 500 Autos produziert."
+        options: [{ key: a, text: "werden" }, { key: b, text: "wurden" }, { key: c, text: "sind" }]
+        answer: a
+        why: "Vorgang, Präsens → werden."
+      - q: "Früher ___ hier nur 100 Autos pro Tag hergestellt."
+        options: [{ key: a, text: "werden" }, { key: b, text: "wurden" }, { key: c, text: "sind" }]
+        answer: b
+        why: "Vorgang, Präteritum → wurden."
+      - q: "Die neue Maschine ___ letzten Monat installiert worden."
+        options: [{ key: a, text: "wird" }, { key: b, text: "wurde" }, { key: c, text: "ist" }]
+        answer: c
+        why: "Vorgang, Perfekt → ist … worden."
+      - q: "Die Qualität ___ streng kontrolliert."
+        options: [{ key: a, text: "wird" }, { key: b, text: "wurde" }, { key: c, text: "ist" }]
+        answer: a
+        why: "Vorgang, Präsens → wird."
+      - q: "Jedes Auto ___ vor der Auslieferung getestet werden."
+        options: [{ key: a, text: "kann" }, { key: b, text: "muss" }, { key: c, text: "darf" }]
+        answer: b
+        why: "Notwendigkeit im Passiv mit Modalverb → müssen."
+      - q: "Fehlerhafte Teile ___ sofort ersetzt werden."
+        options: [{ key: a, text: "müssen" }, { key: b, text: "sollen" }, { key: c, text: "können" }]
+        answer: c
+        why: "Möglichkeit im Passiv mit Modalverb → können."
+      - q: "Die Produktion ___ nächstes Jahr erhöht werden."
+        options: [{ key: a, text: "kann" }, { key: b, text: "soll" }, { key: c, text: "darf" }]
+        answer: b
+        why: "Plan/Absicht im Passiv mit Modalverb → sollen."
+      - q: "Am Ende des Tages ___ die Maschinen ausgeschaltet."
+        options: [{ key: a, text: "werden" }, { key: b, text: "wurden" }, { key: c, text: "sind" }]
+        answer: a
+        why: "Vorgang, Präsens → werden."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Die Berliner Mauer (Wortbank)"
+    instructions: "Fill the 10 gaps. Two words in the box are not needed."
+    text: |
+      Die Berliner Mauer {1} 1961 gebaut. Sie {2} fast 30 Jahre lang
+      bewacht. Viele Menschen {3} an der Flucht gehindert. 1989 {4}
+      die Mauer geöffnet. Seitdem {5} große Teile der Mauer abgerissen
+      worden. Ein kleiner Teil {6} als Denkmal erhalten. Heute {7} die
+      East Side Gallery von Touristen besucht. Viele Kunstwerke {8}
+      dort gemalt worden. Die Mauer {9} weltweit als Symbol der
+      Teilung gesehen. Ihr Fall {10} als historisches Ereignis
+      gefeiert.
+    bank: [wurde, wurde, wurde, wurden, sind, sind, wird, wird, wird, wird, war, waren]
+    answers:
+      "1": wurde
+      "2": wurde
+      "3": wurden
+      "4": wurde
+      "5": sind
+      "6": wird
+      "7": wird
+      "8": sind
+      "9": wird
+      "10": wird
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze das Passiv-Hilfsverb oder das passende Modalverb."
+    text: |
+      1. Das Brot {1} jeden Morgen frisch gebacken.
+      2. Gestern {2} das Auto repariert.
+      3. Der Brief {3} schon geschrieben worden.
+      4. Die Aufgabe {4} bis Freitag erledigt werden.
+      5. Die Tür {5} schon geöffnet, du kannst reingehen.
+      6. Die Fenster {6} gerade geputzt.
+    answers:
+      "1": wird
+      "2": wurde
+      "3": ist
+      "4": muss
+      "5": ist
+      "6": werden
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Das Essen ___ gerade gekocht."
+        options: [{ key: a, text: "wird" }, { key: b, text: "ist" }, { key: c, text: "wurde" }]
+        answer: a
+        why: "Vorgang → werden."
+      - q: "Das Essen ___ schon fertig gekocht, wir können essen."
+        options: [{ key: a, text: "wird" }, { key: b, text: "ist" }, { key: c, text: "wurde" }]
+        answer: b
+        why: "Zustand → sein."
+      - q: "Die Rechnung ___ letzte Woche bezahlt."
+        options: [{ key: a, text: "wird" }, { key: b, text: "ist" }, { key: c, text: "wurde" }]
+        answer: c
+        why: "Vorgang, Präteritum → wurde."
+      - q: "Die Aufgabe ___ heute noch fertig gemacht werden."
+        options: [{ key: a, text: "muss" }, { key: b, text: "kann" }, { key: c, text: "darf" }]
+        answer: a
+        why: "Notwendigkeit im Passiv mit Modalverb → müssen."
+      - q: "Das Fenster ___ nicht geöffnet werden, es ist kaputt."
+        options: [{ key: a, text: "muss" }, { key: b, text: "kann" }, { key: c, text: "soll" }]
+        answer: b
+        why: "Möglichkeit (negiert) im Passiv mit Modalverb → können."
+      - q: "Der Kuchen ___ schon gegessen."
+        options: [{ key: a, text: "wird" }, { key: b, text: "wurde" }, { key: c, text: "ist" }]
+        answer: c
+        why: "Zustand → sein."
+    notes: "5–6 von 6 richtig? Vorgangspassiv (werden), Zustandspassiv (sein) und Passiv mit Modalverben sitzen jetzt sicher."
