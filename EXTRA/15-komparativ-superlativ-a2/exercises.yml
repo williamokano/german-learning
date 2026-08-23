@@ -1,0 +1,239 @@
+lesson: "EX/15-komparativ-superlativ-a2"
+title: "Komparativ und Superlativ — A2"
+topic: "Komparativ und Superlativ"
+level: A2
+intro: >
+  Standalone drill set, not tied to any lesson. Most adjectives just add
+  -er (Komparativ) or -st (Superlativ): schnell → schneller → am
+  schnellsten. A small group of common one-syllable adjectives also add
+  an umlaut: groß → größer → am größten, jung → jünger → am jüngsten.
+  A handful are irregular: gut → besser → am besten, viel → mehr → am
+  meisten. The form also depends on position: predicative (after sein,
+  no ending: Der Wagen ist schneller) vs. attributive (before a noun,
+  with a normal adjective ending: der schnellere Wagen). Blocks:
+  A Basistraining → B Vertiefung → C Sprachbausteine → D Wiederholung.
+  Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Positiv, Komparativ, Superlativ"
+    instructions: "Ergänze die Tabelle."
+    instructionsEn: "Complete the table."
+    columns: ["Positiv", "Komparativ", "Superlativ (am …)"]
+    rows:
+      - label: "schnell"
+        cells: [{ gap: 1, answer: "schneller" }, { gap: 2, answer: "am schnellsten" }]
+      - label: "groß"
+        cells: [{ gap: 3, answer: "größer" }, { gap: 4, answer: "am größten" }]
+      - label: "jung"
+        cells: [{ gap: 5, answer: "jünger" }, { gap: 6, answer: "am jüngsten" }]
+      - label: "gut"
+        cells: [{ gap: 7, answer: "besser" }, { gap: 8, answer: "am besten" }]
+      - label: "viel"
+        cells: [{ gap: 9, answer: "mehr" }, { gap: 10, answer: "am meisten" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Komparativ oder Superlativ?"
+    instructions: "Ergänze die richtige Form."
+    instructionsEn: "Fill in the correct form."
+    text: |
+      1. Mein Auto ist schnell, aber dein Auto ist noch {1}.
+      2. Das ist das {2} Auto von allen.
+      3. Berlin ist groß, aber Tokio ist noch {3}.
+      4. Der Mount Everest ist der {4} Berg der Welt.
+      5. Ich bin jung, aber mein Bruder ist {5}.
+      6. Das war das {6} Konzert, das ich je gesehen habe.
+    answers:
+      "1": schneller
+      "2": schnellste
+      "3": größer
+      "4": höchste
+      "5": jünger
+      "6": beste
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Die drei Geschwister"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Anna ist 20 Jahre alt, Ben ist 22 und Clara ist 25. Clara ist die
+      {1} von den dreien. Anna ist die {2}. Ben ist {3} als Anna, aber
+      {4} als Clara. Clara ist auch die {5} in der Familie, sie hat
+      den höchsten Abschluss. Anna ist die {6}, sie macht immer
+      Witze. Ben ist der {7}, er sitzt am liebsten zu Hause. Aber alle
+      sagen: Clara kocht am {8}.
+    bank: [älteste, jüngste, älter, jünger, klügste, lustigste, ruhigste, besten, größte, kleinste]
+    answers:
+      "1": älteste
+      "2": jüngste
+      "3": älter
+      "4": jünger
+      "5": klügste
+      "6": lustigste
+      "7": ruhigste
+      "8": besten
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Attributiv oder prädikativ?"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Der Wagen ist ___."
+        options: [{ key: a, text: "schneller" }, { key: b, text: "schnellere" }, { key: c, text: "schnellerer" }]
+        answer: a
+        why: "Prädikativ (nach sein) → keine Endung."
+      - q: "Das ist der ___ Wagen."
+        options: [{ key: a, text: "schneller" }, { key: b, text: "schnellere" }, { key: c, text: "schnelleren" }]
+        answer: b
+        why: "Attributiv (der Wagen, Nom. Mask.) → -e."
+      - q: "Mein Auto ist ___."
+        options: [{ key: a, text: "das schnellste" }, { key: b, text: "schnellste" }, { key: c, text: "am schnellsten" }]
+        answer: c
+        why: "Prädikativ Superlativ → am + -sten."
+      - q: "Das ist das ___ Auto."
+        options: [{ key: a, text: "schnellste" }, { key: b, text: "am schnellsten" }, { key: c, text: "schnellsten" }]
+        answer: a
+        why: "Attributiv Superlativ (das Auto, Nom. Neutr.) → -e."
+      - q: "Sie ist ___ als ich."
+        options: [{ key: a, text: "klügere" }, { key: b, text: "klüger" }, { key: c, text: "am klügsten" }]
+        answer: b
+        why: "Prädikativ Komparativ + als → keine Endung."
+      - q: "Er hat den ___ Wagen gekauft."
+        options: [{ key: a, text: "klüger" }, { key: b, text: "klügere" }, { key: c, text: "klügeren" }]
+        answer: c
+        why: "Attributiv (den Wagen, Akk. Mask.) → -en."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Der Vergleichstest"
+    instructions: "Choose the correct form for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Dieses Handy ist ___ als das alte Modell."
+        options: [{ key: a, text: "schneller" }, { key: b, text: "schnellere" }, { key: c, text: "schnellste" }]
+        answer: a
+        why: "Prädikativ Komparativ + als → keine Endung."
+      - q: "Es hat den ___ Akku von allen Handys."
+        options: [{ key: a, text: "größer" }, { key: b, text: "größten" }, { key: c, text: "größte" }]
+        answer: b
+        why: "Attributiv Superlativ (den Akku, Akk. Mask.) → -en."
+      - q: "Die Kamera ist auch ___."
+        options: [{ key: a, text: "beste" }, { key: b, text: "am besten" }, { key: c, text: "besser" }]
+        answer: c
+        why: "Prädikativ Komparativ → keine Endung."
+      - q: "Das ist die ___ Kamera, die ich je getestet habe."
+        options: [{ key: a, text: "beste" }, { key: b, text: "besser" }, { key: c, text: "am besten" }]
+        answer: a
+        why: "Attributiv Superlativ (die Kamera, Nom. Fem.) → -e."
+      - q: "Der Bildschirm ist ___ als beim Vorgängermodell."
+        options: [{ key: a, text: "am größten" }, { key: b, text: "größer" }, { key: c, text: "größte" }]
+        answer: b
+        why: "Prädikativ Komparativ + als → keine Endung."
+      - q: "Das Design ist ___ geworden."
+        options: [{ key: a, text: "modernste" }, { key: b, text: "modernere" }, { key: c, text: "moderner" }]
+        answer: c
+        why: "Prädikativ Komparativ → keine Endung."
+      - q: "Trotzdem bleibt der Preis das ___ Problem."
+        options: [{ key: a, text: "größer" }, { key: b, text: "größte" }, { key: c, text: "am größten" }]
+        answer: b
+        why: "Attributiv Superlativ (das Problem, Nom. Neutr.) → -e."
+      - q: "Am Ende ist es das ___ Handy auf dem Markt."
+        options: [{ key: a, text: "beste" }, { key: b, text: "besser" }, { key: c, text: "am besten" }]
+        answer: a
+        why: "Attributiv Superlativ (das Handy, Nom. Neutr.) → -e."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Drei Städte im Vergleich (Wortbank)"
+    instructions: "Fill the 10 gaps. Two words in the box are not needed."
+    text: |
+      Berlin ist {1} als München. Hamburg ist die {2} Hafenstadt
+      Deutschlands. München hat das {3} Wetter von den dreien. Berlin
+      ist auch {4} als Hamburg. Aber Hamburg ist {5} als Berlin.
+      München ist die {6} von den dreien, viele Menschen ziehen
+      dorthin. Berlin hat die {7} Museen. Hamburg hat den {8} Hafen
+      Deutschlands. Am Ende sagt jeder: seine Stadt ist die {9}.
+      Trotzdem bleibt Berlin die {10} Hauptstadt.
+    bank: [größer, größte, schönste, schönste, bekannter, ruhiger, teuerste, meisten, größten, bekannteste, kleiner, ältesten]
+    answers:
+      "1": größer
+      "2": größte
+      "3": schönste
+      "4": bekannter
+      "5": ruhiger
+      "6": teuerste
+      "7": meisten
+      "8": größten
+      "9": schönste
+      "10": bekannteste
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze die richtige Form."
+    text: |
+      1. Mein Haus ist groß, aber dein Haus ist noch {1}.
+      2. Das ist das {2} Haus in der Straße.
+      3. Sie ist jung, aber ich bin {3}.
+      4. Er ist der {4} Schüler in der Klasse.
+      5. Diese Übung ist schwer, aber die nächste ist noch {5}.
+      6. Das war das {6} Spiel der Saison.
+    answers:
+      "1": größer
+      "2": größte
+      "3": jünger
+      "4": beste
+      "5": schwerer
+      "6": beste
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Dieses Buch ist ___ als das andere."
+        options: [{ key: a, text: "spannender" }, { key: b, text: "spannendere" }, { key: c, text: "am spannendsten" }]
+        answer: a
+        why: "Prädikativ Komparativ + als → keine Endung."
+      - q: "Das ist das ___ Buch, das ich gelesen habe."
+        options: [{ key: a, text: "spannender" }, { key: b, text: "spannendste" }, { key: c, text: "am spannendsten" }]
+        answer: b
+        why: "Attributiv Superlativ (das Buch, Nom. Neutr.) → -e."
+      - q: "Von allen Filmen war dieser ___."
+        options: [{ key: a, text: "beste" }, { key: b, text: "besser" }, { key: c, text: "am besten" }]
+        answer: c
+        why: "Prädikativ Superlativ → am + -sten."
+      - q: "Sie hat die ___ Idee von allen."
+        options: [{ key: a, text: "beste" }, { key: b, text: "besser" }, { key: c, text: "am besten" }]
+        answer: a
+        why: "Attributiv Superlativ (die Idee, Akk. Fem.) → -e."
+      - q: "Mein Bruder ist ___ als ich."
+        options: [{ key: a, text: "am ältesten" }, { key: b, text: "älter" }, { key: c, text: "älteste" }]
+        answer: b
+        why: "Prädikativ Komparativ + als → keine Endung."
+      - q: "Das ist der ___ Tag meines Lebens."
+        options: [{ key: a, text: "schöner" }, { key: b, text: "am schönsten" }, { key: c, text: "schönste" }]
+        answer: c
+        why: "Attributiv Superlativ (der Tag, Nom. Mask.) → -e."
+    notes: "5–6 von 6 richtig? Komparativ und Superlativ — regelmäßig, mit Umlaut und unregelmäßig (gut/besser/best-, viel/mehr/meist-) — sitzen jetzt sicher, attributiv und prädikativ."
