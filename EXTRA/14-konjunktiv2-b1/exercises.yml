@@ -1,0 +1,241 @@
+lesson: "EX/14-konjunktiv2-b1"
+title: "Konjunktiv II: Irreale Bedingungssätze — B1"
+topic: "Konjunktiv II"
+level: B1
+intro: >
+  Standalone drill set, not tied to any lesson. Beyond polite requests,
+  Konjunktiv II builds the unreal conditional: wenn + Konjunktiv II in
+  the wenn-clause, würde/könnte/hätte/wäre (+ Infinitiv) in the main
+  clause — Wenn ich Zeit hätte, würde ich dich besuchen (but I don't
+  have time, so I won't). A handful of common verbs still use their own
+  irregular Konjunktiv II form instead of würde + Infinitiv even in
+  spoken German: käme (kommen), ginge (gehen), wüsste (wissen), gäbe
+  (geben), fände (finden), bliebe (bleiben) — everything else prefers
+  würde. Blocks: A Basistraining → B Vertiefung → C Sprachbausteine →
+  D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Unregelmäßige Konjunktiv-II-Formen"
+    instructions: "Ergänze die Konjunktiv-II-Form (ich)."
+    instructionsEn: "Fill in the Konjunktiv II form (ich)."
+    columns: ["Infinitiv", "Konjunktiv II (ich)"]
+    rows:
+      - label: "kommen"
+        cells: [{ gap: 1, answer: "käme" }]
+      - label: "gehen"
+        cells: [{ gap: 2, answer: "ginge" }]
+      - label: "wissen"
+        cells: [{ gap: 3, answer: "wüsste" }]
+      - label: "geben"
+        cells: [{ gap: 4, answer: "gäbe" }]
+      - label: "finden"
+        cells: [{ gap: 5, answer: "fände" }]
+      - label: "bleiben"
+        cells: [{ gap: 6, answer: "bliebe" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Irreale Bedingungssätze"
+    instructions: "Ergänze die richtige Konjunktiv-II-Form."
+    instructionsEn: "Fill in the correct Konjunktiv-II form."
+    text: |
+      1. Wenn ich Zeit hätte, {1} ich dich besuchen.
+      2. Wenn das Wetter besser wäre, {2} wir spazieren gehen.
+      3. Wenn ich mehr Geld hätte, {3} ich mir ein neues Auto kaufen.
+      4. Wenn er mehr lernen würde, {4} er bessere Noten bekommen.
+      5. Wenn ich du {5}, würde ich das nicht machen.
+      6. Wenn wir jetzt losfahren würden, {6} wir pünktlich ankommen.
+    answers:
+      "1": würde
+      "2": würden
+      "3": würde
+      "4": würde
+      "5": wäre
+      "6": würden
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Wenn ich im Lotto gewinnen würde"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Wenn ich im Lotto gewinnen {1}, würde ich zuerst meine Schulden
+      bezahlen. Ich {2} mir ein Haus kaufen. Meine Familie {3} sich
+      sehr freuen. Wenn ich genug Geld {4}, würde ich auch reisen. Ich
+      {5} gern nach Japan fliegen. Wenn ich Zeit {6}, würde ich die
+      ganze Welt bereisen. Meine Freunde {7} das toll finden. Aber ich
+      {8} auch etwas spenden.
+    bank: [würde, würde, würde, würde, würde, hätte, hätte, würden, wäre, käme]
+    answers:
+      "1": würde
+      "2": würde
+      "3": würde
+      "4": hätte
+      "5": würde
+      "6": hätte
+      "7": würden
+      "8": würde
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Wenn-Satz: Form und Wortstellung"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Wenn ich reich ___, würde ich ein Haus kaufen."
+        options: [{ key: a, text: "wäre" }, { key: b, text: "bin" }, { key: c, text: "war" }]
+        answer: a
+        why: "Irrealer Bedingungssatz → Konjunktiv II (wäre)."
+      - q: "___ ich mehr Zeit hätte, würde ich öfter Sport machen."
+        options: [{ key: a, text: "Ob" }, { key: b, text: "Wenn" }, { key: c, text: "Als" }]
+        answer: b
+        why: "Bedingungssatz → wenn."
+      - q: "Wenn du mich fragen würdest, ___ ich dir helfen."
+        options: [{ key: a, text: "habe" }, { key: b, text: "bin" }, { key: c, text: "würde" }]
+        answer: c
+        why: "Hauptsatz im irrealen Bedingungssatz → würde."
+      - q: "Wenn es regnen ___, würden wir zu Hause bleiben."
+        options: [{ key: a, text: "würde" }, { key: b, text: "wäre" }, { key: c, text: "hätte" }]
+        answer: a
+        why: "würde + Infinitiv auch im Nebensatz möglich."
+      - q: "Wenn wir jetzt gehen ___, kämen wir pünktlich an."
+        options: [{ key: a, text: "hätten" }, { key: b, text: "würden" }, { key: c, text: "wären" }]
+        answer: b
+        why: "würde + Infinitiv im Nebensatz."
+      - q: "Wenn ich du wäre, ___ ich das nicht sagen."
+        options: [{ key: a, text: "habe" }, { key: b, text: "bin" }, { key: c, text: "würde" }]
+        answer: c
+        why: "Hauptsatz im irrealen Bedingungssatz → würde."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Ein perfekter Tag"
+    instructions: "Choose the correct answer for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Wenn ich frei ___, würde ich lange schlafen."
+        options: [{ key: a, text: "hätte" }, { key: b, text: "wäre" }, { key: c, text: "würde" }]
+        answer: a
+        why: "frei haben → hätte."
+      - q: "___ es regnen würde, würde ich trotzdem rausgehen."
+        options: [{ key: a, text: "Ob" }, { key: b, text: "Wenn" }, { key: c, text: "Als" }]
+        answer: b
+        why: "Bedingungssatz → wenn."
+      - q: "Wenn die Sonne scheinen würde, ___ ich an den Strand gehen."
+        options: [{ key: a, text: "hätte" }, { key: b, text: "wäre" }, { key: c, text: "würde" }]
+        answer: c
+        why: "Hauptsatz → würde."
+      - q: "Wenn ich könnte, ___ ich den ganzen Tag lesen."
+        options: [{ key: a, text: "würde" }, { key: b, text: "hätte" }, { key: c, text: "wäre" }]
+        answer: a
+        why: "Hauptsatz → würde."
+      - q: "Wenn meine Freunde Zeit ___, würden wir zusammen kochen."
+        options: [{ key: a, text: "wären" }, { key: b, text: "hätten" }, { key: c, text: "würden" }]
+        answer: b
+        why: "Zeit haben → hätten."
+      - q: "Wenn wir ein Boot ___, würden wir aufs Meer fahren."
+        options: [{ key: a, text: "wären" }, { key: b, text: "würden" }, { key: c, text: "hätten" }]
+        answer: c
+        why: "ein Boot haben → hätten."
+      - q: "___ ich einen Wunsch frei hätte, würde ich mir diesen Tag wünschen."
+        options: [{ key: a, text: "Ob" }, { key: b, text: "Wenn" }, { key: c, text: "Als" }]
+        answer: b
+        why: "Bedingungssatz → wenn."
+      - q: "Am Ende ___ ich sehr glücklich sein."
+        options: [{ key: a, text: "würde" }, { key: b, text: "hätte" }, { key: c, text: "wäre" }]
+        answer: a
+        why: "Hauptsatz → würde."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Wenn ich Bürgermeister wäre (Wortbank)"
+    instructions: "Fill the 10 gaps. Two words in the box are not needed."
+    text: |
+      Wenn ich Bürgermeister {1}, würde ich viel verändern. Ich {2}
+      mehr Parks bauen lassen. Die Straßen {3} sauberer sein. Wenn
+      genug Geld da {4}, würde ich auch die Schulen renovieren. Ich
+      {5} mehr Bäume pflanzen. Die Bürger {6} sich sicher freuen. Wenn
+      ich Zeit {7}, würde ich jede Woche mit den Bürgern sprechen.
+      Meine Stadt {8} noch schöner werden. Ich {9} stolz auf meine
+      Arbeit sein. Das {10} mein größter Wunsch.
+    bank: [wäre, wäre, wäre, wäre, würde, würde, würde, würden, würden, hätte, hätten, käme]
+    answers:
+      "1": wäre
+      "2": würde
+      "3": würden
+      "4": wäre
+      "5": würde
+      "6": würden
+      "7": hätte
+      "8": würde
+      "9": wäre
+      "10": wäre
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze die richtige Konjunktiv-II-Form."
+    text: |
+      1. Wenn ich Zeit {1}, würde ich dich besuchen.
+      2. Wenn das Wetter schön {2}, würden wir picknicken.
+      3. Wenn ich reich {3}, würde ich ein Haus kaufen.
+      4. Wenn du mich fragen würdest, {4} ich dir helfen.
+      5. Wenn wir jetzt losfahren würden, {5} wir pünktlich ankommen.
+      6. Wenn ich du wäre, {6} ich das nicht machen.
+    answers:
+      "1": hätte
+      "2": wäre
+      "3": wäre
+      "4": würde
+      "5": würden
+      "6": würde
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Wenn ich Geld ___, würde ich reisen."
+        options: [{ key: a, text: "hätte" }, { key: b, text: "wäre" }, { key: c, text: "würde" }]
+        answer: a
+        why: "Geld haben → hätte."
+      - q: "___ ich mehr Zeit hätte, würde ich öfter kochen."
+        options: [{ key: a, text: "Ob" }, { key: b, text: "Wenn" }, { key: c, text: "Als" }]
+        answer: b
+        why: "Bedingungssatz → wenn."
+      - q: "Wenn es kalt wäre, ___ ich eine Jacke anziehen."
+        options: [{ key: a, text: "hätte" }, { key: b, text: "wäre" }, { key: c, text: "würde" }]
+        answer: c
+        why: "Hauptsatz → würde."
+      - q: "Wenn wir ein Auto ___, würden wir öfter verreisen."
+        options: [{ key: a, text: "hätten" }, { key: b, text: "wären" }, { key: c, text: "würden" }]
+        answer: a
+        why: "ein Auto haben → hätten."
+      - q: "Wenn du mich fragen würdest, ___ ich ja sagen."
+        options: [{ key: a, text: "hätte" }, { key: b, text: "würde" }, { key: c, text: "wäre" }]
+        answer: b
+        why: "Hauptsatz → würde."
+      - q: "Wenn ich du wäre, ___ ich früher schlafen gehen."
+        options: [{ key: a, text: "hätte" }, { key: b, text: "wäre" }, { key: c, text: "würde" }]
+        answer: c
+        why: "Hauptsatz → würde."
+    notes: "5–6 von 6 richtig? Irreale Bedingungssätze mit wenn + Konjunktiv II sitzen jetzt sicher."
