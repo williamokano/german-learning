@@ -1,0 +1,240 @@
+lesson: "EX/11-wechselpraepositionen-a2"
+title: "Wechselpräpositionen: Wo? und Wohin? — A2"
+topic: "Wechselpräpositionen (Dativ/Akkusativ)"
+level: A2
+intro: >
+  Standalone drill set, not tied to any lesson. Nine prepositions — in, an,
+  auf, über, unter, vor, hinter, neben, zwischen — can take either Dativ or
+  Akkusativ, depending on the question: Wo? (location, no movement) →
+  Dativ; Wohin? (movement into/onto/toward a place) → Akkusativ. The verb
+  is the giveaway: stehen/liegen/hängen/sitzen describe a resulting state
+  (Wo? → Dativ), while stellen/legen/hängen/setzen describe the movement
+  that creates it (Wohin? → Akkusativ). Blocks: A Basistraining →
+  B Vertiefung → C Sprachbausteine → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Wo? (Dativ) vs. Wohin? (Akkusativ)"
+    instructions: "Ergänze Präposition + Artikel im Dativ (Wo?) und im Akkusativ (Wohin?)."
+    instructionsEn: "Fill in the preposition + article in the Dativ (Wo?) and the Akkusativ (Wohin?)."
+    columns: ["", "Wo? (Dativ)", "Wohin? (Akkusativ)"]
+    rows:
+      - label: "in / der Park"
+        cells: [{ gap: 1, answer: "im Park" }, { gap: 2, answer: "in den Park" }]
+      - label: "an / die Wand"
+        cells: [{ gap: 3, answer: "an der Wand" }, { gap: 4, answer: "an die Wand" }]
+      - label: "auf / der Tisch"
+        cells: [{ gap: 5, answer: "auf dem Tisch" }, { gap: 6, answer: "auf den Tisch" }]
+      - label: "unter / das Bett"
+        cells: [{ gap: 7, answer: "unter dem Bett" }, { gap: 8, answer: "unter das Bett" }]
+      - label: "vor / die Tür"
+        cells: [{ gap: 9, answer: "vor der Tür" }, { gap: 10, answer: "vor die Tür" }]
+      - label: "zwischen / die Bücher"
+        cells: [{ gap: 11, answer: "zwischen den Büchern" }, { gap: 12, answer: "zwischen die Bücher" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Wo oder wohin?"
+    instructions: "Ergänze Präposition + Artikel. Achte auf das Verb: Zustand (Wo?) oder Bewegung (Wohin?)."
+    instructionsEn: "Fill in preposition + article. Watch the verb: a state (Wo?) or a movement (Wohin?)."
+    text: |
+      1. Das Auto steht {1} Straße.
+      2. Fahr bitte {2} Straße!
+      3. Die Lampe hängt {3} Decke.
+      4. Häng die Lampe bitte {4} Decke!
+      5. Das Kind sitzt {5} Stuhl.
+      6. Setz dich bitte {6} Stuhl!
+    answers:
+      "1": "in der"
+      "2": "in die"
+      "3": "an der"
+      "4": "an die"
+      "5": "auf dem"
+      "6": "auf den"
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Mein chaotisches Zimmer"
+    instructions: "Fülle die 8 Lücken mit dem richtigen Artikel aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps with the correct article from the box. Two words are not needed."
+    text: |
+      Mein Zimmer ist chaotisch! Meine Bücher liegen auf {1} Boden. Ich
+      lege sie jetzt in {2} Regal. Die Poster hängen an {3} Wand. Der
+      Schreibtisch steht vor {4} Fenster. Ich stelle die Lampe auf {5}
+      Schreibtisch. Die Katze schläft gern unter {6} Bett. Manchmal
+      läuft sie unter {7} Bett. Am Ende stelle ich die Schuhe vor {8}
+      Tür.
+    bank: [der, dem, das, dem, den, dem, das, die, den, der]
+    answers:
+      "1": dem
+      "2": das
+      "3": der
+      "4": dem
+      "5": den
+      "6": dem
+      "7": das
+      "8": die
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Zustand oder Bewegung?"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Die Schuhe stehen ___ Bett. (Zustand)"
+        options: [{ key: a, text: "unter dem Bett" }, { key: b, text: "unter das Bett" }, { key: c, text: "unter den Bett" }]
+        answer: a
+        why: "stehen (Zustand, Wo?) → Dativ."
+      - q: "Er stellt die Schuhe ___ Bett. (Bewegung)"
+        options: [{ key: a, text: "unter dem Bett" }, { key: b, text: "unter des Bett" }, { key: c, text: "unter das Bett" }]
+        answer: c
+        why: "stellen (Bewegung, Wohin?) → Akkusativ."
+      - q: "Die Kinder spielen ___ Garten. (Zustand)"
+        options: [{ key: a, text: "in den Garten" }, { key: b, text: "in der Garten" }, { key: c, text: "in dem Garten" }]
+        answer: c
+        why: "spielen (Zustand, Wo?) → Dativ (in dem = im)."
+      - q: "Die Kinder laufen ___ Garten. (Bewegung)"
+        options: [{ key: a, text: "in den Garten" }, { key: b, text: "in dem Garten" }, { key: c, text: "in die Garten" }]
+        answer: a
+        why: "laufen (Bewegung, Wohin?) → Akkusativ."
+      - q: "Das Bild hängt ___ Wand. (Zustand)"
+        options: [{ key: a, text: "an die Wand" }, { key: b, text: "an der Wand" }, { key: c, text: "an dem Wand" }]
+        answer: b
+        why: "hängen (Zustand, Wo?) → Dativ."
+      - q: "Ich hänge das Bild ___ Wand. (Bewegung)"
+        options: [{ key: a, text: "an die Wand" }, { key: b, text: "an der Wand" }, { key: c, text: "an das Wand" }]
+        answer: a
+        why: "hängen (Bewegung, Wohin?) → Akkusativ."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Das neue Büro"
+    instructions: "Choose the correct preposition + article for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Ich stelle den Schreibtisch ___ Fenster."
+        options: [{ key: a, text: "vor das Fenster" }, { key: b, text: "vor dem Fenster" }, { key: c, text: "vor des Fenster" }]
+        answer: a
+        why: "stellen (Bewegung) → Akkusativ."
+      - q: "Jetzt steht der Schreibtisch ___ Fenster."
+        options: [{ key: a, text: "vor das Fenster" }, { key: b, text: "vor dem Fenster" }, { key: c, text: "vor die Fenster" }]
+        answer: b
+        why: "stehen (Zustand) → Dativ."
+      - q: "Ich lege die Unterlagen ___ Schreibtisch."
+        options: [{ key: a, text: "auf dem Schreibtisch" }, { key: b, text: "auf der Schreibtisch" }, { key: c, text: "auf den Schreibtisch" }]
+        answer: c
+        why: "legen (Bewegung) → Akkusativ."
+      - q: "Die Unterlagen liegen jetzt ___ Schreibtisch."
+        options: [{ key: a, text: "auf dem Schreibtisch" }, { key: b, text: "auf den Schreibtisch" }, { key: c, text: "auf das Schreibtisch" }]
+        answer: a
+        why: "liegen (Zustand) → Dativ."
+      - q: "Ich hänge das Bild ___ Wand."
+        options: [{ key: a, text: "an der Wand" }, { key: b, text: "an die Wand" }, { key: c, text: "an dem Wand" }]
+        answer: b
+        why: "hängen (Bewegung) → Akkusativ."
+      - q: "Das Bild hängt jetzt ___ Wand."
+        options: [{ key: a, text: "an die Wand" }, { key: b, text: "an dem Wand" }, { key: c, text: "an der Wand" }]
+        answer: c
+        why: "hängen (Zustand) → Dativ."
+      - q: "Ich stelle den Stuhl ___ Tisch."
+        options: [{ key: a, text: "neben dem Tisch" }, { key: b, text: "neben den Tisch" }, { key: c, text: "neben die Tisch" }]
+        answer: b
+        why: "stellen (Bewegung) → Akkusativ."
+      - q: "Der Stuhl steht jetzt ___ Tisch."
+        options: [{ key: a, text: "neben dem Tisch" }, { key: b, text: "neben den Tisch" }, { key: c, text: "neben der Tisch" }]
+        answer: a
+        why: "stehen (Zustand) → Dativ."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Umzug ins neue Büro (Wortbank)"
+    instructions: "Fill the 10 gaps with the correct article. Three words in the box are not needed."
+    text: |
+      Heute ziehe ich in mein neues Büro um. Ich stelle den Computer
+      auf {1} Schreibtisch. Jetzt steht der Computer auf {2}
+      Schreibtisch. Ich lege die Bücher in {3} Regal. Die Bücher
+      liegen jetzt in {4} Regal. Ich hänge die Uhr an {5} Wand. Die
+      Uhr hängt jetzt an {6} Wand. Ich stelle die Pflanze vor {7}
+      Fenster. Die Pflanze steht jetzt vor {8} Fenster. Am Ende
+      setze ich mich auf {9} Stuhl. Ich sitze jetzt auf {10} Stuhl.
+    bank: [den, dem, das, dem, die, der, das, dem, den, dem, der, die, den]
+    answers:
+      "1": den
+      "2": dem
+      "3": das
+      "4": dem
+      "5": die
+      "6": der
+      "7": das
+      "8": dem
+      "9": den
+      "10": dem
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze Präposition + Artikel."
+    text: |
+      1. Der Hund liegt {1} Sofa.
+      2. Der Hund springt {2} Sofa.
+      3. Die Kinder stehen {3} Tür.
+      4. Die Kinder laufen {4} Tür.
+      5. Das Poster hängt {5} Wand.
+      6. Ich hänge das Poster {6} Wand.
+    answers:
+      "1": "auf dem"
+      "2": "auf das"
+      "3": "vor der"
+      "4": "vor die"
+      "5": "an der"
+      "6": "an die"
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Die Vase steht ___ Tisch."
+        options: [{ key: a, text: "auf den Tisch" }, { key: b, text: "auf dem Tisch" }, { key: c, text: "auf der Tisch" }]
+        answer: b
+        why: "stehen (Zustand) → Dativ."
+      - q: "Ich stelle die Vase ___ Tisch."
+        options: [{ key: a, text: "auf den Tisch" }, { key: b, text: "auf dem Tisch" }, { key: c, text: "auf das Tisch" }]
+        answer: a
+        why: "stellen (Bewegung) → Akkusativ."
+      - q: "Die Katze schläft ___ Bett."
+        options: [{ key: a, text: "unter das Bett" }, { key: b, text: "unter dem Bett" }, { key: c, text: "unter den Bett" }]
+        answer: b
+        why: "schlafen (Zustand) → Dativ."
+      - q: "Die Katze läuft ___ Bett."
+        options: [{ key: a, text: "unter das Bett" }, { key: b, text: "unter dem Bett" }, { key: c, text: "unter der Bett" }]
+        answer: a
+        why: "laufen (Bewegung) → Akkusativ."
+      - q: "Wir sitzen ___ Baum."
+        options: [{ key: a, text: "unter den Baum" }, { key: b, text: "unter dem Baum" }, { key: c, text: "unter die Baum" }]
+        answer: b
+        why: "sitzen (Zustand) → Dativ."
+      - q: "Setzt euch bitte ___ Baum!"
+        options: [{ key: a, text: "unter den Baum" }, { key: b, text: "unter dem Baum" }, { key: c, text: "unter das Baum" }]
+        answer: a
+        why: "sich setzen (Bewegung) → Akkusativ."
+    notes: "5–6 von 6 richtig? Wo? = Dativ, Wohin? = Akkusativ — die Wechselpräpositionen sitzen sicher."
