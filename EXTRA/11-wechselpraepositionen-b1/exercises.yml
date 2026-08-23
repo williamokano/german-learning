@@ -1,0 +1,239 @@
+lesson: "EX/11-wechselpraepositionen-b1"
+title: "Wechselpräpositionen: Ort, Zeit und da-/wo-Komposita — B1"
+topic: "Wechselpräpositionen (Dativ/Akkusativ)"
+level: B1
+intro: >
+  Standalone drill set, not tied to any lesson. Builds on the A2 set's
+  Wo?/Wohin? spatial system with three B1 extensions: (1) the standard
+  written contractions (in dem → im, in das → ins, an dem → am, an das →
+  ans, auf das → aufs); (2) time expressions with the same nine
+  prepositions, which are almost always Dativ regardless of movement,
+  since time doesn't have a "direction" the way space does (am Montag,
+  im Frühling, vor zwei Jahren); and (3) da(r)-/wo(r)-compounds used for
+  location when the reference is a THING, not a person (Der Schlüssel
+  liegt auf dem Tisch. Wo liegt er? — Er liegt darauf.). Blocks:
+  A Basistraining → B Vertiefung → C Sprachbausteine → D Wiederholung.
+  Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Vollform und Kurzform"
+    instructions: "Ergänze die zusammengezogene Kurzform (Präposition + Artikel)."
+    instructionsEn: "Fill in the contracted short form (preposition + article)."
+    columns: ["Vollform", "Kurzform"]
+    rows:
+      - label: "in dem Haus"
+        cells: [{ gap: 1, answer: "im Haus" }]
+      - label: "in das Haus"
+        cells: [{ gap: 2, answer: "ins Haus" }]
+      - label: "an dem Tisch"
+        cells: [{ gap: 3, answer: "am Tisch" }]
+      - label: "an das Meer"
+        cells: [{ gap: 4, answer: "ans Meer" }]
+      - label: "auf das Land"
+        cells: [{ gap: 5, answer: "aufs Land" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Wo oder wohin? (Wiederholung)"
+    instructions: "Ergänze Präposition + Artikel."
+    instructionsEn: "Fill in preposition + article."
+    text: |
+      1. Der Koffer liegt {1} Schrank.
+      2. Ich lege den Koffer {2} Schrank.
+      3. Die Schlüssel liegen {3} Schublade.
+      4. Leg die Schlüssel bitte {4} Schublade!
+      5. Der Vogel sitzt {5} Baum.
+      6. Der Vogel fliegt {6} Baum.
+    answers:
+      "1": "in dem"
+      "2": "in den"
+      "3": "in der"
+      "4": "in die"
+      "5": "über dem"
+      "6": "über den"
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Mein Wochenplan (Zeitangaben)"
+    instructions: "Fülle die 8 Lücken mit dem richtigen Wort aus dem Kasten. Zwei Einträge sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps with the correct word from the box. Two entries are not needed."
+    text: |
+      Mein Wochenplan: {1} Montag habe ich Deutschkurs. {2} Nachmittag
+      arbeite ich. {3} Ferien fahre ich nach Italien. Das plane ich
+      schon {4} zwei Jahren. {5} Frühling beginnt mein neuer Kurs. {6}
+      Wochenende treffe ich Freunde. {7} Nacht schlafe ich schlecht vor
+      Aufregung. Mein Geburtstag ist {8} Sommer.
+    bank: [Am, Am, Am, In den, Vor, Im, In der, im, Um, Bei]
+    answers:
+      "1": Am
+      "2": Am
+      "3": In den
+      "4": Vor
+      "5": Im
+      "6": Am
+      "7": In der
+      "8": im
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "da(r)-Komposita für Sachen"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Die Katze schläft unter dem Bett. Wo schläft sie?"
+        options: [{ key: a, text: "Sie schläft darüber." }, { key: b, text: "Sie schläft darunter." }, { key: c, text: "Sie schläft davor." }]
+        answer: b
+        why: "unter dem Bett → darunter."
+      - q: "Das Bild hängt über dem Sofa. Wo hängt es?"
+        options: [{ key: a, text: "Es hängt darüber." }, { key: b, text: "Es hängt darunter." }, { key: c, text: "Es hängt daneben." }]
+        answer: a
+        why: "über dem Sofa → darüber."
+      - q: "Der Stuhl steht vor dem Tisch. Wo steht er?"
+        options: [{ key: a, text: "Er steht dahinter." }, { key: b, text: "Er steht daneben." }, { key: c, text: "Er steht davor." }]
+        answer: c
+        why: "vor dem Tisch → davor."
+      - q: "Die Lampe steht zwischen den Büchern. Wo steht sie?"
+        options: [{ key: a, text: "Sie steht dazwischen." }, { key: b, text: "Sie steht daneben." }, { key: c, text: "Sie steht darauf." }]
+        answer: a
+        why: "zwischen den Büchern → dazwischen."
+      - q: "Der Baum steht hinter dem Haus. Wo steht er?"
+        options: [{ key: a, text: "Er steht davor." }, { key: b, text: "Er steht dahinter." }, { key: c, text: "Er steht darunter." }]
+        answer: b
+        why: "hinter dem Haus → dahinter."
+      - q: "Die Vase steht auf dem Regal. Wo steht sie?"
+        options: [{ key: a, text: "Sie steht daneben." }, { key: b, text: "Sie steht darunter." }, { key: c, text: "Sie steht darauf." }]
+        answer: c
+        why: "auf dem Regal → darauf."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Die Wohnungssuche"
+    instructions: "Choose the correct answer for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Ich stelle das Sofa ___ Fenster."
+        options: [{ key: a, text: "vor das Fenster" }, { key: b, text: "vor dem Fenster" }, { key: c, text: "vor des Fenster" }]
+        answer: a
+        why: "stellen (Bewegung) → Akkusativ."
+      - q: "Jetzt steht das Sofa ___ Fenster."
+        options: [{ key: a, text: "vor das Fenster" }, { key: b, text: "vor dem Fenster" }, { key: c, text: "vor die Fenster" }]
+        answer: b
+        why: "stehen (Zustand) → Dativ."
+      - q: "Ich habe die Wohnung ___ gefunden."
+        options: [{ key: a, text: "in den Frühling" }, { key: b, text: "in der Frühling" }, { key: c, text: "im Frühling" }]
+        answer: c
+        why: "Zeitangabe mit Jahreszeit: in dem = im, immer Dativ."
+      - q: "Der Schrank steht in der Ecke. Wo steht er?"
+        options: [{ key: a, text: "Er steht darin." }, { key: b, text: "Er steht daran." }, { key: c, text: "Er steht darauf." }]
+        answer: a
+        why: "in der Ecke → darin."
+      - q: "Ich hänge die Bilder ___ Wand."
+        options: [{ key: a, text: "an der Wand" }, { key: b, text: "an die Wand" }, { key: c, text: "an das Wand" }]
+        answer: b
+        why: "hängen (Bewegung) → Akkusativ."
+      - q: "Jetzt hängen die Bilder ___ Wand."
+        options: [{ key: a, text: "an die Wand" }, { key: b, text: "an dem Wand" }, { key: c, text: "an der Wand" }]
+        answer: c
+        why: "hängen (Zustand) → Dativ."
+      - q: "Der Umzug war ___."
+        options: [{ key: a, text: "für zwei Wochen" }, { key: b, text: "vor zwei Wochen" }, { key: c, text: "seit zwei Wochen" }]
+        answer: b
+        why: "vor + Dativ: ein Zeitpunkt in der Vergangenheit."
+      - q: "Zwischen den Kisten finde ich endlich meine Bücher. Wo finde ich sie?"
+        options: [{ key: a, text: "Ich finde sie dazwischen." }, { key: b, text: "Ich finde sie darüber." }, { key: c, text: "Ich finde sie daneben." }]
+        answer: a
+        why: "zwischen den Kisten → dazwischen."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Das neue Zimmer (Wortbank)"
+    instructions: "Fill the 10 gaps. Two entries in the box are not needed."
+    text: |
+      Mein neues Zimmer wird immer schöner. Ich stelle die Kiste {1}
+      Ecke. „{2} ist die Kiste?" „Sie ist {3}." Ich lege die Bücher
+      {4} Regal. Der Teppich liegt {5} Boden. Die Lampe steht {6}
+      Tisch. „{7} steht die Lampe?" „Sie steht {8}." Der Stuhl steht
+      {9} Fenster. Die Katze schläft {10} Bett.
+    bank: ["in die", Worin, darin, "in das", "auf dem", "auf dem", Worauf, darauf, "vor dem", "unter dem", "an dem", "unter das"]
+    answers:
+      "1": "in die"
+      "2": Worin
+      "3": darin
+      "4": "in das"
+      "5": "auf dem"
+      "6": "auf dem"
+      "7": Worauf
+      "8": darauf
+      "9": "vor dem"
+      "10": "unter dem"
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze Präposition + Artikel."
+    text: |
+      1. Der Schlüssel liegt {1} Tisch.
+      2. Ich lege den Schlüssel {2} Tisch.
+      3. {3} Sommer fahre ich ans Meer.
+      4. Das Auto steht {4} Haus.
+      5. Ich fahre das Auto {5} Haus.
+      6. Meine Prüfung ist {6} zwei Wochen.
+      7. Die Bilder hängen {7} Wand.
+    answers:
+      "1": "auf dem"
+      "2": "auf den"
+      "3": "Im"
+      "4": "vor dem"
+      "5": "vor das"
+      "6": "in"
+      "7": "an der"
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Der Ball liegt ___ Tisch."
+        options: [{ key: a, text: "unter den Tisch" }, { key: b, text: "unter dem Tisch" }, { key: c, text: "unter das Tisch" }]
+        answer: b
+        why: "liegen (Zustand) → Dativ."
+      - q: "Ich lege den Ball ___ Tisch."
+        options: [{ key: a, text: "unter dem Tisch" }, { key: b, text: "unter das Tisch" }, { key: c, text: "unter den Tisch" }]
+        answer: c
+        why: "legen (Bewegung) → Akkusativ."
+      - q: "Der Schlüssel liegt auf dem Regal. Wo liegt er?"
+        options: [{ key: a, text: "Er liegt darauf." }, { key: b, text: "Er liegt darunter." }, { key: c, text: "Er liegt davor." }]
+        answer: a
+        why: "auf dem Regal → darauf."
+      - q: "Meine Ferien beginnen ___."
+        options: [{ key: a, text: "vor zwei Tagen" }, { key: b, text: "in zwei Tagen" }, { key: c, text: "an zwei Tagen" }]
+        answer: b
+        why: "in + Dativ: ein Zeitpunkt in der Zukunft."
+      - q: "Das Poster hängt ___ Tür."
+        options: [{ key: a, text: "an die Tür" }, { key: b, text: "an dem Tür" }, { key: c, text: "an der Tür" }]
+        answer: c
+        why: "hängen (Zustand) → Dativ."
+      - q: "Wir treffen uns ___ Bahnhof."
+        options: [{ key: a, text: "vor dem Bahnhof" }, { key: b, text: "vor den Bahnhof" }, { key: c, text: "vor die Bahnhof" }]
+        answer: a
+        why: "sich treffen (Zustand/Ort) → Dativ."
+    notes: "5–6 von 6 richtig? Die Wechselpräpositionen bei Ort UND Zeit sitzen jetzt sicher — inklusive der da-/wo-Komposita."

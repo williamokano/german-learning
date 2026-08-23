@@ -1,0 +1,246 @@
+lesson: "EX/14-konjunktiv2-b2"
+title: "Konjunktiv II der Vergangenheit — B2"
+topic: "Konjunktiv II"
+level: B2
+intro: >
+  Standalone drill set, not tied to any lesson. To talk about the past
+  unreal — regrets, missed chances, things that didn't happen —
+  Konjunktiv II uses hätte/wäre + Partizip II: Wenn ich das gewusst
+  hätte, hätte ich anders gehandelt (but I didn't know, so I didn't).
+  Modal verbs join in with a double-infinitive construction: Ich hätte
+  das machen sollen (I should have done that, but didn't) / Ich hätte
+  kommen können (I could have come, but didn't). Blocks: A Basistraining
+  → B Vertiefung → C Sprachbausteine → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "hätte oder wäre + Partizip II"
+    instructions: "Ergänze die Konjunktiv-II-Vergangenheit-Form (ich)."
+    instructionsEn: "Fill in the Konjunktiv II past form (ich)."
+    columns: ["Infinitiv", "Konjunktiv II Vergangenheit (ich)"]
+    rows:
+      - label: "machen"
+        cells: [{ gap: 1, answer: "hätte gemacht" }]
+      - label: "gehen"
+        cells: [{ gap: 2, answer: "wäre gegangen" }]
+      - label: "sehen"
+        cells: [{ gap: 3, answer: "hätte gesehen" }]
+      - label: "kommen"
+        cells: [{ gap: 4, answer: "wäre gekommen" }]
+      - label: "kaufen"
+        cells: [{ gap: 5, answer: "hätte gekauft" }]
+      - label: "bleiben"
+        cells: [{ gap: 6, answer: "wäre geblieben" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Reue und verpasste Chancen"
+    instructions: "Ergänze hätte oder wäre (bzw. hätten/wären)."
+    instructionsEn: "Fill in hätte or wäre (or hätten/wären)."
+    text: |
+      1. Wenn ich früher aufgestanden wäre, {1} ich den Bus nicht verpasst.
+      2. Wenn du mich gefragt hättest, {2} ich dir geholfen.
+      3. Wenn wir das gewusst hätten, {3} wir anders reagiert.
+      4. Wenn sie mehr gelernt hätte, {4} sie die Prüfung bestanden.
+      5. Wenn ich Zeit gehabt hätte, {5} ich dich besucht.
+      6. Wenn er nicht so spät losgefahren wäre, {6} er pünktlich angekommen.
+    answers:
+      "1": hätte
+      "2": hätte
+      "3": hätten
+      "4": hätte
+      "5": hätte
+      "6": wäre
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Rückblick auf mein Studium"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Wenn ich damals mehr Sprachen gelernt {1}, hätte ich später
+      bessere Jobchancen gehabt. Ich {2} mehr reisen sollen, um andere
+      Kulturen kennenzulernen. Wenn ich fleißiger gewesen {3}, hätte
+      ich bessere Noten bekommen. Ich {4} auch mehr Freunde finden
+      können, wenn ich offener gewesen wäre. Wenn ich das damals
+      gewusst {5}, hätte ich anders studiert. Meine Eltern {6} stolz
+      gewesen, wenn ich früher fertig geworden wäre. Ich {7} vieles
+      anders gemacht, wenn ich die Zeit zurückdrehen könnte. Aber im
+      Rückblick {8} ich es wahrscheinlich genauso wieder machen.
+    bank: [hätte, hätte, hätte, hätte, hätte, wäre, wären, würde, hätten, wärst]
+    answers:
+      "1": hätte
+      "2": hätte
+      "3": wäre
+      "4": hätte
+      "5": hätte
+      "6": wären
+      "7": hätte
+      "8": würde
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Gegenwart, Vergangenheit oder Modalverb?"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Wenn ich das gewusst ___, hätte ich anders gehandelt."
+        options: [{ key: a, text: "hätte" }, { key: b, text: "wäre" }, { key: c, text: "würde" }]
+        answer: a
+        why: "Konjunktiv II Vergangenheit → hätte + Partizip II."
+      - q: "Wenn ich Zeit hätte, ___ ich kommen."
+        options: [{ key: a, text: "hätte" }, { key: b, text: "würde" }, { key: c, text: "wäre" }]
+        answer: b
+        why: "Konjunktiv II Gegenwart → würde + Infinitiv."
+      - q: "Ich ___ das machen sollen, aber ich habe es nicht getan."
+        options: [{ key: a, text: "würde" }, { key: b, text: "wäre" }, { key: c, text: "hätte" }]
+        answer: c
+        why: "Modalverb-Konstruktion (Reue) → hätte … sollen."
+      - q: "Wenn er früher losgefahren ___, wäre er nicht zu spät gekommen."
+        options: [{ key: a, text: "wäre" }, { key: b, text: "hätte" }, { key: c, text: "würde" }]
+        answer: a
+        why: "Konjunktiv II Vergangenheit → wäre + Partizip II."
+      - q: "Sie ___ die Prüfung bestehen können, wenn sie mehr gelernt hätte."
+        options: [{ key: a, text: "wäre" }, { key: b, text: "hätte" }, { key: c, text: "würde" }]
+        answer: b
+        why: "Modalverb-Konstruktion → hätte … können."
+      - q: "Wenn wir das gewusst hätten, ___ wir anders reagiert."
+        options: [{ key: a, text: "wären" }, { key: b, text: "würden" }, { key: c, text: "hätten" }]
+        answer: c
+        why: "Konjunktiv II Vergangenheit → hätten + Partizip II."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Verpasste Chancen"
+    instructions: "Choose the correct answer for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Wenn ich mutiger gewesen ___, hätte ich den Job angenommen."
+        options: [{ key: a, text: "wäre" }, { key: b, text: "hätte" }, { key: c, text: "würde" }]
+        answer: a
+        why: "Konjunktiv II Vergangenheit → wäre + Partizip II."
+      - q: "Ich ___ die Stelle nehmen sollen, aber ich hatte Angst."
+        options: [{ key: a, text: "wäre" }, { key: b, text: "hätte" }, { key: c, text: "würde" }]
+        answer: b
+        why: "Modalverb-Konstruktion (Reue) → hätte … sollen."
+      - q: "Wenn ich damals nach Amerika gegangen ___, hätte sich mein Leben verändert."
+        options: [{ key: a, text: "hätte" }, { key: b, text: "würde" }, { key: c, text: "wäre" }]
+        answer: c
+        why: "Konjunktiv II Vergangenheit → wäre + Partizip II."
+      - q: "Ich ___ mutiger sein können, aber ich habe gezögert."
+        options: [{ key: a, text: "hätte" }, { key: b, text: "wäre" }, { key: c, text: "würde" }]
+        answer: a
+        why: "Modalverb-Konstruktion → hätte … können."
+      - q: "Wenn ich die Chance genutzt ___, wäre alles anders gekommen."
+        options: [{ key: a, text: "wäre" }, { key: b, text: "hätte" }, { key: c, text: "würde" }]
+        answer: b
+        why: "Konjunktiv II Vergangenheit → hätte + Partizip II."
+      - q: "Meine Familie ___ mich unterstützt, wenn ich sie gefragt hätte."
+        options: [{ key: a, text: "wäre" }, { key: b, text: "würde" }, { key: c, text: "hätte" }]
+        answer: c
+        why: "Konjunktiv II Vergangenheit → hätte + Partizip II."
+      - q: "Ich ___ nicht so lange warten sollen."
+        options: [{ key: a, text: "wäre" }, { key: b, text: "hätte" }, { key: c, text: "würde" }]
+        answer: b
+        why: "Modalverb-Konstruktion (Reue) → hätte … sollen."
+      - q: "Im Rückblick ___ ich es anders machen."
+        options: [{ key: a, text: "würde" }, { key: b, text: "hätte" }, { key: c, text: "wäre" }]
+        answer: a
+        why: "Konjunktiv II Gegenwart → würde + Infinitiv."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Rückblick auf die Schulzeit (Wortbank)"
+    instructions: "Fill the 10 gaps. Two words in the box are not needed."
+    text: |
+      Wenn ich in der Schule fleißiger {1}, hätte ich bessere Noten
+      bekommen. Ich {2} mehr für die Prüfungen lernen sollen. Wenn ich
+      mehr Sport gemacht {3}, wäre ich fitter gewesen. Meine Lehrer
+      {4} stolz gewesen, wenn ich mich mehr angestrengt hätte. Ich {5}
+      öfter Fragen stellen können, aber ich war schüchtern. Wenn ich
+      das damals gewusst {6}, hätte ich alles anders gemacht. Meine
+      Eltern {7} sich gefreut, wenn ich bessere Noten gehabt hätte.
+      Ich {8} mehr lesen sollen, das hätte mir sehr geholfen. Im
+      Rückblick {9} ich vieles ändern. Aber ich {10} auch stolz auf
+      das sein, was ich erreicht habe.
+    bank: [wäre, hätte, hätte, hätte, hätte, hätte, wären, hätten, würde, würde, wärst, würden]
+    answers:
+      "1": wäre
+      "2": hätte
+      "3": hätte
+      "4": wären
+      "5": hätte
+      "6": hätte
+      "7": hätten
+      "8": hätte
+      "9": würde
+      "10": würde
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze hätte, wäre, hätten oder würde."
+    text: |
+      1. Wenn ich früher aufgestanden {1}, hätte ich den Bus nicht verpasst.
+      2. Ich {2} das anders machen sollen.
+      3. Wenn wir das gewusst hätten, {3} wir anders reagiert.
+      4. Sie {4} die Prüfung bestehen können, wenn sie mehr gelernt hätte.
+      5. Wenn er früher losgefahren wäre, {5} er pünktlich angekommen.
+      6. Im Rückblick {6} ich es anders machen.
+    answers:
+      "1": wäre
+      "2": hätte
+      "3": hätten
+      "4": hätte
+      "5": wäre
+      "6": würde
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Wenn ich das gewusst ___, hätte ich anders gehandelt."
+        options: [{ key: a, text: "hätte" }, { key: b, text: "wäre" }, { key: c, text: "würde" }]
+        answer: a
+        why: "Konjunktiv II Vergangenheit → hätte + Partizip II."
+      - q: "Wenn ich Zeit hätte, ___ ich kommen."
+        options: [{ key: a, text: "hätte" }, { key: b, text: "würde" }, { key: c, text: "wäre" }]
+        answer: b
+        why: "Konjunktiv II Gegenwart → würde + Infinitiv."
+      - q: "Ich ___ das machen sollen, aber ich habe es nicht getan."
+        options: [{ key: a, text: "würde" }, { key: b, text: "wäre" }, { key: c, text: "hätte" }]
+        answer: c
+        why: "Modalverb-Konstruktion (Reue) → hätte … sollen."
+      - q: "Wenn sie früher losgefahren ___, wäre sie nicht zu spät gekommen."
+        options: [{ key: a, text: "wäre" }, { key: b, text: "hätte" }, { key: c, text: "würde" }]
+        answer: a
+        why: "Konjunktiv II Vergangenheit → wäre + Partizip II."
+      - q: "Er ___ die Prüfung bestehen können, wenn er mehr gelernt hätte."
+        options: [{ key: a, text: "wäre" }, { key: b, text: "hätte" }, { key: c, text: "würde" }]
+        answer: b
+        why: "Modalverb-Konstruktion → hätte … können."
+      - q: "Wenn wir das gewusst hätten, ___ wir anders reagiert."
+        options: [{ key: a, text: "wären" }, { key: b, text: "würden" }, { key: c, text: "hätten" }]
+        answer: c
+        why: "Konjunktiv II Vergangenheit → hätten + Partizip II."
+    notes: "5–6 von 6 richtig? Der Konjunktiv II der Vergangenheit (hätte/wäre + Partizip II) für Reue und verpasste Chancen sitzt jetzt sicher."

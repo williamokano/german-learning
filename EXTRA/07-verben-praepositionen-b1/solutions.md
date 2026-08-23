@@ -45,11 +45,11 @@
 1. **a) für** — sich interessieren für.
 2. **c) über** — sich ärgern über.
 3. **b) von** — träumen von.
-4. **a) vor** — Angst haben vor.
-5. **a) an** — sich erinnern an.
+4. **b) vor** — Angst haben vor.
+5. **c) an** — sich erinnern an.
 6. **a) an** — teilnehmen an.
-7. **a) auf** — sich freuen auf (Zukunft).
-8. **a) für** — sich interessieren für.
+7. **b) auf** — sich freuen auf (Zukunft).
+8. **c) für** — sich interessieren für.
 
 ## Übung C2 — Sprachbausteine Teil 2 — Der Fotokurs (Wortbank)
 

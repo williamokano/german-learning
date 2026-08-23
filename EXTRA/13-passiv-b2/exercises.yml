@@ -1,0 +1,240 @@
+lesson: "EX/13-passiv-b2"
+title: "Passiversatz — Alternativen zum Passiv — B2"
+topic: "Passiv"
+level: B2
+intro: >
+  Standalone drill set, not tied to any lesson. Native speakers often
+  avoid the Passiv-mit-Modalverb construction (Das Problem kann gelöst
+  werden) in favor of four everyday alternatives that say the same
+  thing: man + Aktiv (Man kann das Problem lösen), sich lassen +
+  Infinitiv (Das Problem lässt sich lösen), sein + zu + Infinitiv (Das
+  Problem ist zu lösen — leans necessity when the original had müssen),
+  and -bar adjectives (Das Problem ist lösbar). All four normally carry
+  a possibility/necessity sense close to können/müssen. Blocks:
+  A Basistraining → B Vertiefung → C Sprachbausteine → D Wiederholung.
+  Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Ein Satz, vier Formen"
+    instructions: "Ergänze den ganzen Satz in der angegebenen Form."
+    instructionsEn: "Fill in the whole sentence in the given form."
+    columns: ["Form", "Satz (das Problem / lösen)"]
+    rows:
+      - label: "Passiv mit können"
+        cells: [{ gap: 1, answer: "Das Problem kann gelöst werden." }]
+      - label: "man + Aktiv"
+        cells: [{ gap: 2, answer: "Man kann das Problem lösen." }]
+      - label: "sich lassen + Infinitiv"
+        cells: [{ gap: 3, answer: "Das Problem lässt sich lösen." }]
+      - label: "sein + zu + Infinitiv"
+        cells: [{ gap: 4, answer: "Das Problem ist zu lösen." }]
+      - label: "-bar-Adjektiv"
+        cells: [{ gap: 5, answer: "Das Problem ist lösbar." }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Passiv → Passiversatz"
+    instructions: "Ergänze das fehlende Wort (lässt, kann, ist oder muss)."
+    instructionsEn: "Fill in the missing word (lässt, kann, ist, or muss)."
+    text: |
+      1. Die Frage kann beantwortet werden. → Die Frage {1} sich beantworten.
+      2. Der Fehler kann korrigiert werden. → Man {2} den Fehler korrigieren.
+      3. Das Formular muss ausgefüllt werden. → Das Formular {3} auszufüllen.
+      4. Das Auto kann repariert werden. → Das Auto ist {4}.
+      5. Das Wasser kann getrunken werden. → Das Wasser ist {5}.
+      6. Der Vertrag muss unterschrieben werden. → Der Vertrag {6} zu unterschreiben.
+    answers:
+      "1": lässt
+      "2": kann
+      "3": ist
+      "4": reparierbar
+      "5": trinkbar
+      "6": ist
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Das Müllproblem"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Das Müllproblem {1} sich nicht einfach lösen. Man {2} viel
+      Plastik vermeiden. Die Verpackung {3} oft wiederverwendbar.
+      Manche Materialien {4} nicht recycelbar. Die Regeln {5} klar zu
+      verstehen. Jeder {6} seinen Teil beitragen. Das Problem {7} zu
+      lösen, wenn alle mitmachen. Die Zukunft {8} sich positiv
+      gestalten, wenn wir jetzt handeln.
+    bank: [lässt, lässt, kann, kann, ist, ist, sind, sind, muss, können]
+    answers:
+      "1": lässt
+      "2": kann
+      "3": ist
+      "4": sind
+      "5": sind
+      "6": kann
+      "7": ist
+      "8": lässt
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Welche Umschreibung passt?"
+    instructions: "Wähle die richtige Umschreibung (a, b oder c)."
+    instructionsEn: "Choose the correct paraphrase (a, b, or c)."
+    items:
+      - q: "Die Aufgabe kann leicht gelöst werden."
+        options: [{ key: a, text: "Die Aufgabe lässt sich leicht lösen." }, { key: b, text: "Die Aufgabe ist leicht gelöst worden." }, { key: c, text: "Die Aufgabe muss leicht gelöst werden." }]
+        answer: a
+        why: "sich lassen + Infinitiv = Möglichkeit (können)."
+      - q: "Das Fenster muss geschlossen werden."
+        options: [{ key: a, text: "Das Fenster lässt sich schließen." }, { key: b, text: "Das Fenster ist zu schließen." }, { key: c, text: "Das Fenster kann geschlossen werden." }]
+        answer: b
+        why: "sein + zu + Infinitiv = Notwendigkeit (müssen)."
+      - q: "Man kann den Text gut lesen."
+        options: [{ key: a, text: "Der Text muss gut gelesen werden." }, { key: b, text: "Der Text ist gut gelesen worden." }, { key: c, text: "Der Text ist gut lesbar." }]
+        answer: c
+        why: "-bar-Adjektiv = Möglichkeit (können)."
+      - q: "Der Termin kann nicht geändert werden."
+        options: [{ key: a, text: "Der Termin lässt sich nicht ändern." }, { key: b, text: "Der Termin wird nicht geändert." }, { key: c, text: "Der Termin muss geändert werden." }]
+        answer: a
+        why: "sich lassen + Infinitiv (negiert) = Möglichkeit (können)."
+      - q: "Diese Regel muss beachtet werden."
+        options: [{ key: a, text: "Diese Regel lässt sich beachten." }, { key: b, text: "Diese Regel ist zu beachten." }, { key: c, text: "Diese Regel kann beachtet werden." }]
+        answer: b
+        why: "sein + zu + Infinitiv = Notwendigkeit (müssen)."
+      - q: "Man kann dieses Wasser trinken."
+        options: [{ key: a, text: "Dieses Wasser muss getrunken werden." }, { key: b, text: "Dieses Wasser ist getrunken worden." }, { key: c, text: "Dieses Wasser ist trinkbar." }]
+        answer: c
+        why: "-bar-Adjektiv = Möglichkeit (können)."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Die Wohnungsrenovierung"
+    instructions: "Choose the correct paraphrase for each sentence (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Original: Die Küche muss komplett renoviert werden."
+        options: [{ key: a, text: "Die Küche ist komplett zu renovieren." }, { key: b, text: "Die Küche lässt sich komplett renovieren." }, { key: c, text: "Die Küche kann komplett renoviert werden." }]
+        answer: a
+        why: "sein + zu + Infinitiv = Notwendigkeit (müssen)."
+      - q: "Original: Der alte Teppich kann leicht entfernt werden."
+        options: [{ key: a, text: "Der Teppich ist leicht zu entfernen." }, { key: b, text: "Der Teppich lässt sich leicht entfernen." }, { key: c, text: "Der Teppich muss leicht entfernt werden." }]
+        answer: b
+        why: "sich lassen + Infinitiv = Möglichkeit (können)."
+      - q: "Original: Man kann diese Farbe gut mit Weiß kombinieren."
+        options: [{ key: a, text: "Diese Farbe muss mit Weiß kombiniert werden." }, { key: b, text: "Diese Farbe ist mit Weiß kombiniert worden." }, { key: c, text: "Diese Farbe ist gut mit Weiß kombinierbar." }]
+        answer: c
+        why: "-bar-Adjektiv = Möglichkeit (können)."
+      - q: "Original: Die neuen Möbel müssen noch bestellt werden."
+        options: [{ key: a, text: "Die neuen Möbel sind noch zu bestellen." }, { key: b, text: "Die neuen Möbel lassen sich noch bestellen." }, { key: c, text: "Die neuen Möbel können noch bestellt werden." }]
+        answer: a
+        why: "sein + zu + Infinitiv = Notwendigkeit (müssen)."
+      - q: "Original: Man kann die Fenster leicht öffnen."
+        options: [{ key: a, text: "Die Fenster müssen leicht geöffnet werden." }, { key: b, text: "Die Fenster lassen sich leicht öffnen." }, { key: c, text: "Die Fenster sind leicht geöffnet worden." }]
+        answer: b
+        why: "sich lassen + Infinitiv = Möglichkeit (können)."
+      - q: "Original: Man kann diese Aufgabe in einem Tag machen."
+        options: [{ key: a, text: "Diese Aufgabe muss in einem Tag gemacht werden." }, { key: b, text: "Diese Aufgabe ist in einem Tag gemacht worden." }, { key: c, text: "Diese Aufgabe ist in einem Tag machbar." }]
+        answer: c
+        why: "-bar-Adjektiv = Möglichkeit (können)."
+      - q: "Original: Der Schaden muss sofort gemeldet werden."
+        options: [{ key: a, text: "Der Schaden lässt sich sofort melden." }, { key: b, text: "Der Schaden ist sofort zu melden." }, { key: c, text: "Der Schaden kann sofort gemeldet werden." }]
+        answer: b
+        why: "sein + zu + Infinitiv = Notwendigkeit (müssen)."
+      - q: "Original: Man kann das Angebot online buchen."
+        options: [{ key: a, text: "Das Angebot lässt sich online buchen." }, { key: b, text: "Das Angebot muss online gebucht werden." }, { key: c, text: "Das Angebot ist online gebucht worden." }]
+        answer: a
+        why: "sich lassen + Infinitiv = Möglichkeit (können)."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Das neue Handy (Wortbank)"
+    instructions: "Fill the 10 gaps. Two words in the box are not needed."
+    text: |
+      Dieses Handy {1} sich leicht bedienen. Man {2} viele Apps
+      installieren. Der Akku {3} schnell aufzuladen. Die Fotos {4}
+      sich einfach teilen. Die wichtigsten Funktionen {5} intuitiv zu
+      finden. Jeder {6} das Handy schnell einrichten. Die
+      Einstellungen {7} sich individuell anpassen. Das Gerät {8}
+      leicht zu reinigen. Die Updates {9} automatisch zu
+      installieren. Am Ende {10} sich jeder schnell mit dem Handy
+      zurechtfinden.
+    bank: [lässt, lässt, lässt, kann, kann, ist, ist, lassen, sind, sind, muss, können]
+    answers:
+      "1": lässt
+      "2": kann
+      "3": ist
+      "4": lassen
+      "5": sind
+      "6": kann
+      "7": lässt
+      "8": ist
+      "9": sind
+      "10": lässt
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze das fehlende Wort (lässt, kann, ist oder sind)."
+    text: |
+      1. Das Problem {1} sich schnell lösen.
+      2. Man {2} diesen Fehler leicht vermeiden.
+      3. Die Miete {3} pünktlich zu zahlen.
+      4. Diese Übung {4} gut machbar.
+      5. Die Regeln {5} klar zu verstehen.
+      6. Der Text {6} sich in fünf Minuten lesen.
+    answers:
+      "1": lässt
+      "2": kann
+      "3": ist
+      "4": ist
+      "5": sind
+      "6": lässt
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct paraphrase (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Man kann dieses Problem schnell lösen."
+        options: [{ key: a, text: "Dieses Problem lässt sich schnell lösen." }, { key: b, text: "Dieses Problem muss schnell gelöst werden." }, { key: c, text: "Dieses Problem ist schnell gelöst worden." }]
+        answer: a
+        why: "sich lassen + Infinitiv = Möglichkeit (können)."
+      - q: "Die Regeln müssen befolgt werden."
+        options: [{ key: a, text: "Die Regeln lassen sich befolgen." }, { key: b, text: "Die Regeln sind zu befolgen." }, { key: c, text: "Die Regeln können befolgt werden." }]
+        answer: b
+        why: "sein + zu + Infinitiv = Notwendigkeit (müssen)."
+      - q: "Man kann dieses Brot gut essen."
+        options: [{ key: a, text: "Dieses Brot muss gut gegessen werden." }, { key: b, text: "Dieses Brot ist gut gegessen worden." }, { key: c, text: "Dieses Brot ist gut essbar." }]
+        answer: c
+        why: "-bar-Adjektiv = Möglichkeit (können)."
+      - q: "Die Tür kann nicht geöffnet werden."
+        options: [{ key: a, text: "Die Tür lässt sich nicht öffnen." }, { key: b, text: "Die Tür wird nicht geöffnet." }, { key: c, text: "Die Tür muss geöffnet werden." }]
+        answer: a
+        why: "sich lassen + Infinitiv (negiert) = Möglichkeit (können)."
+      - q: "Der Bericht muss bis Montag fertiggestellt werden."
+        options: [{ key: a, text: "Der Bericht lässt sich bis Montag fertigstellen." }, { key: b, text: "Der Bericht ist bis Montag fertigzustellen." }, { key: c, text: "Der Bericht kann bis Montag fertiggestellt werden." }]
+        answer: b
+        why: "sein + zu + Infinitiv = Notwendigkeit (müssen)."
+      - q: "Man kann diesen Wein gut trinken."
+        options: [{ key: a, text: "Dieser Wein muss gut getrunken werden." }, { key: b, text: "Dieser Wein ist gut getrunken worden." }, { key: c, text: "Dieser Wein ist gut trinkbar." }]
+        answer: c
+        why: "-bar-Adjektiv = Möglichkeit (können)."
+    notes: "5–6 von 6 richtig? Die vier Passiversatz-Formen (man, sich lassen, sein + zu, -bar) sitzen jetzt sicher."

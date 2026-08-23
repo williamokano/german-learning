@@ -1,0 +1,244 @@
+lesson: "EX/12-modalverben-a2"
+title: "Modalverben im Präteritum — A2"
+topic: "Modalverben"
+level: A2
+intro: >
+  Standalone drill set, not tied to any lesson. Unlike most verbs, modal
+  verbs almost always use the Präteritum even in spoken German (ich
+  musste gehen, not ich habe gehen müssen) — so this is the one
+  Präteritum you need for everyday conversation, not just writing. The
+  forms drop the umlaut from the infinitive (können → konnte, müssen →
+  musste, dürfen → durfte) and take regular weak-verb endings. One trap:
+  möchten has no Präteritum of its own — for "wanted to" in the past you
+  switch to wollte, while mochte (from mögen) means "liked", a different
+  meaning entirely. Blocks: A Basistraining → B Vertiefung →
+  C Sprachbausteine → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Präteritum: können, müssen, dürfen"
+    instructions: "Ergänze die Tabelle."
+    instructionsEn: "Complete the table."
+    columns: ["", "können", "müssen", "dürfen"]
+    rows:
+      - label: "ich"
+        cells: [{ gap: 1, answer: "konnte" }, { gap: 2, answer: "musste" }, { gap: 3, answer: "durfte" }]
+      - label: "du"
+        cells: [{ gap: 4, answer: "konntest" }, { gap: 5, answer: "musstest" }, { gap: 6, answer: "durftest" }]
+      - label: "er/sie/es"
+        cells: [{ gap: 7, answer: "konnte" }, { gap: 8, answer: "musste" }, { gap: 9, answer: "durfte" }]
+      - label: "wir"
+        cells: [{ gap: 10, answer: "konnten" }, { gap: 11, answer: "mussten" }, { gap: 12, answer: "durften" }]
+      - label: "ihr"
+        cells: [{ gap: 13, answer: "konntet" }, { gap: 14, answer: "musstet" }, { gap: 15, answer: "durftet" }]
+      - label: "sie/Sie"
+        cells: [{ gap: 16, answer: "konnten" }, { gap: 17, answer: "mussten" }, { gap: 18, answer: "durften" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Welches Modalverb im Präteritum?"
+    instructions: "Ergänze das passende Modalverb im Präteritum."
+    instructionsEn: "Fill in the appropriate modal verb in the Präteritum."
+    text: |
+      1. Als Kind {1} ich nicht gut schwimmen.
+      2. Wir {2} gestern früh aufstehen, der Flug ging um sechs.
+      3. {3} ich als Kind draußen spielen? Ja, klar.
+      4. Er {4} unbedingt Fußballspieler werden.
+      5. Meine Mutter sagte, ich {5} mein Zimmer aufräumen.
+      6. Ich {6} keinen Fisch, als ich klein war.
+      7. Ich {7} gestern zur Party gehen, aber ich hatte keine Zeit.
+    answers:
+      "1": konnte
+      "2": mussten
+      "3": Durfte
+      "4": wollte
+      "5": sollte
+      "6": mochte
+      "7": wollte
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Meine Kindheit"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Als Kind {1} ich sehr gern draußen spielen. Ich {2} jeden Tag um
+      acht Uhr zu Hause sein. Meine Eltern sagten, ich {3} nicht zu
+      spät kommen. Manchmal {4} ich bei Freunden übernachten. Ich {5}
+      schon mit fünf Jahren Fahrrad fahren. Mein Bruder {6} immer
+      Fußballspieler werden. Wir {7} in den Ferien nicht fernsehen.
+      Am Wochenende {8} wir lange schlafen.
+    bank: [mochte, musste, sollte, durfte, konnte, wollte, durften, durften, mussten, wollten]
+    answers:
+      "1": mochte
+      "2": musste
+      "3": sollte
+      "4": durfte
+      "5": konnte
+      "6": wollte
+      "7": durften
+      "8": durften
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "mochte oder wollte? — Bedeutung im Präteritum"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Ich ___ als Kind keinen Spinat."
+        options: [{ key: a, text: "mochte" }, { key: b, text: "wollte" }, { key: c, text: "musste" }]
+        answer: a
+        why: "mögen im Präteritum = etwas gern haben/mögen."
+      - q: "Ich ___ gestern ins Kino gehen, aber ich hatte keine Zeit."
+        options: [{ key: a, text: "mochte" }, { key: b, text: "wollte" }, { key: c, text: "durfte" }]
+        answer: b
+        why: "wollen im Präteritum = einen Wunsch/eine Absicht haben."
+      - q: "Als Kind ___ ich schon Klavier spielen."
+        options: [{ key: a, text: "sollte" }, { key: b, text: "durfte" }, { key: c, text: "konnte" }]
+        answer: c
+        why: "können im Präteritum = eine Fähigkeit haben."
+      - q: "___ du früher Fußball spielen?"
+        options: [{ key: a, text: "Durftest" }, { key: b, text: "Solltest" }, { key: c, text: "Musstest" }]
+        answer: a
+        why: "dürfen im Präteritum = eine Erlaubnis haben."
+      - q: "Wir ___ gestern zur Arbeit, obwohl wir krank waren."
+        options: [{ key: a, text: "durften" }, { key: b, text: "mussten" }, { key: c, text: "wollten" }]
+        answer: b
+        why: "müssen im Präteritum = eine Notwendigkeit."
+      - q: "Der Lehrer sagte, wir ___ leiser sein."
+        options: [{ key: a, text: "durften" }, { key: b, text: "konnten" }, { key: c, text: "sollten" }]
+        answer: c
+        why: "sollen im Präteritum = die Erwartung einer anderen Person."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Der erste Arbeitstag"
+    instructions: "Choose the correct modal verb for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Am ersten Arbeitstag ___ ich sehr früh aufstehen."
+        options: [{ key: a, text: "musste" }, { key: b, text: "durfte" }, { key: c, text: "wollte" }]
+        answer: a
+        why: "Notwendigkeit → müssen."
+      - q: "Ich ___ nicht zu spät kommen."
+        options: [{ key: a, text: "musste" }, { key: b, text: "durfte" }, { key: c, text: "sollte" }]
+        answer: b
+        why: "Erlaubnis (negiert) → nicht dürfen."
+      - q: "Mein neuer Chef sagte, ich ___ viele Fragen stellen."
+        options: [{ key: a, text: "musste" }, { key: b, text: "durfte" }, { key: c, text: "sollte" }]
+        answer: c
+        why: "Erwartung des Chefs → sollen."
+      - q: "Ich ___ schon gut mit dem neuen Programm umgehen, ich hatte es vorher gelernt."
+        options: [{ key: a, text: "konnte" }, { key: b, text: "wollte" }, { key: c, text: "sollte" }]
+        answer: a
+        why: "Fähigkeit → können."
+      - q: "Meine Kollegen ___ mir gern helfen."
+        options: [{ key: a, text: "mussten" }, { key: b, text: "wollten" }, { key: c, text: "durften" }]
+        answer: b
+        why: "Bereitschaft/Wunsch → wollen."
+      - q: "Ich ___ am ersten Tag noch nicht allein arbeiten."
+        options: [{ key: a, text: "musste" }, { key: b, text: "wollte" }, { key: c, text: "durfte" }]
+        answer: c
+        why: "Erlaubnis (negiert) → noch nicht dürfen."
+      - q: "Am Ende des Tages ___ ich noch eine E-Mail schreiben."
+        options: [{ key: a, text: "durfte" }, { key: b, text: "musste" }, { key: c, text: "wollte" }]
+        answer: b
+        why: "Notwendigkeit → müssen."
+      - q: "Ich ___ unbedingt einen guten Eindruck machen."
+        options: [{ key: a, text: "wollte" }, { key: b, text: "musste" }, { key: c, text: "durfte" }]
+        answer: a
+        why: "Starker Wunsch → wollen."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Meine Reise (Wortbank)"
+    instructions: "Fill the 10 gaps. Two words in the box are not needed."
+    text: |
+      Letztes Jahr {1} ich eine große Reise machen. Ich {2} lange
+      sparen, um genug Geld zu haben. Meine Eltern {3} das am Anfang
+      nicht verstehen. Später {4} sie mich total unterstützen. Im
+      Flugzeug {5} ich nicht schlafen, ich war zu aufgeregt. Am
+      Zielort {6} ich viele neue Menschen kennenlernen. Ich {7} leider
+      nicht so lange bleiben, wie ich {8}. Trotzdem {9} ich
+      unglaublich viel erleben. Diese Reise {10} ich am liebsten
+      sofort wiederholen.
+    bank: [wollte, wollte, wollte, konnte, konnte, konnte, konnten, wollten, musste, durfte, sollte, durften]
+    answers:
+      "1": wollte
+      "2": musste
+      "3": konnten
+      "4": wollten
+      "5": konnte
+      "6": konnte
+      "7": durfte
+      "8": wollte
+      "9": konnte
+      "10": wollte
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze das passende Modalverb im Präteritum."
+    text: |
+      1. Als Kind {1} ich nicht Auto fahren.
+      2. Ich {2} gestern zum Arzt gehen.
+      3. {3} ich als Kind spät ins Bett gehen? Nein, nie.
+      4. Sie {4} unbedingt Ärztin werden.
+      5. Der Trainer sagte, wir {5} mehr üben.
+      6. Ich {6} als Kind keine Milch.
+    answers:
+      "1": konnte
+      "2": musste
+      "3": Durfte
+      "4": wollte
+      "5": sollten
+      "6": mochte
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Ich ___ als Kind sehr gut zeichnen."
+        options: [{ key: a, text: "konnte" }, { key: b, text: "durfte" }, { key: c, text: "sollte" }]
+        answer: a
+        why: "Fähigkeit → können."
+      - q: "___ du früher lange fernsehen?"
+        options: [{ key: a, text: "Musstest" }, { key: b, text: "Durftest" }, { key: c, text: "Solltest" }]
+        answer: b
+        why: "Erlaubnis → dürfen."
+      - q: "Wir ___ jeden Sonntag die Großeltern besuchen."
+        options: [{ key: a, text: "durften" }, { key: b, text: "wollten" }, { key: c, text: "mussten" }]
+        answer: c
+        why: "Notwendigkeit → müssen."
+      - q: "Er ___ unbedingt Pilot werden."
+        options: [{ key: a, text: "wollte" }, { key: b, text: "musste" }, { key: c, text: "sollte" }]
+        answer: a
+        why: "Starker Wunsch → wollen."
+      - q: "Der Arzt sagte, ich ___ mich ausruhen."
+        options: [{ key: a, text: "durfte" }, { key: b, text: "sollte" }, { key: c, text: "konnte" }]
+        answer: b
+        why: "Erwartung/Rat des Arztes → sollen."
+      - q: "Ich ___ als Kind keinen Fisch."
+        options: [{ key: a, text: "wollte" }, { key: b, text: "konnte" }, { key: c, text: "mochte" }]
+        answer: c
+        why: "mögen im Präteritum = etwas gern haben/mögen."
+    notes: "5–6 von 6 richtig? Modalverben im Präteritum — auch gesprochen die häufigste Vergangenheitsform für können, müssen, wollen, sollen, dürfen und mögen — sitzen jetzt sicher."
