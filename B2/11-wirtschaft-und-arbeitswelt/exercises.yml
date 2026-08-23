@@ -59,16 +59,16 @@ exercises:
       - q: "Wie viel Skonto verlangt Frau Yilmaz bei Zahlung binnen zehn Tagen?"
         options:
           - { key: a, text: "Ein Prozent." }
-          - { key: b, text: "Zwei Prozent." }
-          - { key: c, text: "Fünf Prozent." }
-        answer: b
+          - { key: b, text: "Fünf Prozent." }
+          - { key: c, text: "Zwei Prozent." }
+        answer: c
         why: 'Frau Yilmaz: „Bei Zahlung innerhalb von zehn Tagen erwarten wir zwei Prozent Skonto".'
       - q: "Welche Vertragsstrafe schlägt Herr Steinmeyer vor?"
         options:
-          - { key: a, text: "0,5 % pro Woche Verspätung." }
-          - { key: b, text: "1 % pro Woche, maximal 5 % der Auftragssumme." }
+          - { key: a, text: "1 % pro Woche, maximal 5 % der Auftragssumme." }
+          - { key: b, text: "0,5 % pro Woche Verspätung." }
           - { key: c, text: "10 % pauschal." }
-        answer: b
+        answer: a
         why: 'Herr Steinmeyer: „Eine Vertragsstrafe von einem Prozent pro Woche Verspätung, maximal fünf Prozent der Auftragssumme".'
 
   - id: H3

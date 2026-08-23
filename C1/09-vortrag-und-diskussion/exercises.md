@@ -289,9 +289,9 @@ Setze das passende Konzessiv-/Adversativwort ein. 6 Items.
 
 Wähle die korrekte Form (a, b oder c).
 
-1. Welche höfliche Bitte ist grammatisch korrekt?  a) Ich würde Sie bitten zu beginnen Sie.  b) Ich würde Sie bitten, zu beginnen.  c) Ich würde Sie bitten, beginnen.
+1. Welche höfliche Bitte ist grammatisch korrekt?  a) Ich würde Sie bitten, zu beginnen.  b) Ich würde Sie bitten zu beginnen Sie.  c) Ich würde Sie bitten, beginnen.
 2. Welcher Satz nach „zwar" ist korrekt (Inversion)?  a) Zwar es ist präzise, aber schwer.  b) Zwar ist es präzise, aber schwer.  c) Zwar das ist präzise, aber schwer.
-3. Welcher Konnektor ist korrekt verwendet?  a) Forschung sollte zugänglich sein, zumal weil sie öffentlich finanziert wird.  b) Forschung sollte zugänglich sein, zumal sie öffentlich finanziert wird.  c) Forschung sollte zugänglich sein, zumal dass sie öffentlich finanziert wird.
+3. Welcher Konnektor ist korrekt verwendet?  a) Forschung sollte zugänglich sein, zumal weil sie öffentlich finanziert wird.  b) Forschung sollte zugänglich sein, zumal dass sie öffentlich finanziert wird.  c) Forschung sollte zugänglich sein, zumal sie öffentlich finanziert wird.
 4. Welcher dass-Satz beim Einhaken ist korrekt?  a) Gestatten Sie, dass ich einhake.  b) Gestatten Sie, dass ich einhaken.  c) Gestatten Sie, dass ich einhaken tue.
 5. Welche Korrelat-Verbindung ist korrekt?  a) nicht nur inhaltlich, aber auch rhetorisch  b) nicht nur inhaltlich, sondern auch rhetorisch  c) nicht nur inhaltlich, sowie auch rhetorisch
 
@@ -424,8 +424,8 @@ Lies die folgenden Forumsbeiträge und wähle a, b oder c.
 
 
 1. Was ist die Leitfrage der Diskussion?  a) Sollte freies Reden fester Bestandteil von Schule und Studium sein?  b) Sollte man Rhetorikkurse verbieten?  c) Wer hält die besten Vorträge?
-2. Womit begründet Hannah ihre Zustimmung?  a) Mit der Chancengleichheit — sonst kommen kluge Leute nicht zu Wort.  b) Mit dem Spaßfaktor.  c) Mit niedrigeren Kosten.
-3. Wie positioniert sich Tomáš?  a) Er lehnt das Reden-Üben völlig ab.  b) Er stimmt grundsätzlich zu, betont aber: erst der Inhalt, dann die Form.  c) Er hält Inhalt für unwichtig.
+2. Womit begründet Hannah ihre Zustimmung?  a) Mit dem Spaßfaktor.  b) Mit der Chancengleichheit — sonst kommen kluge Leute nicht zu Wort.  c) Mit niedrigeren Kosten.
+3. Wie positioniert sich Tomáš?  a) Er lehnt das Reden-Üben völlig ab.  b) Er hält Inhalt für unwichtig.  c) Er stimmt grundsätzlich zu, betont aber: erst der Inhalt, dann die Form.
 4. Welches Argument bringt Pavel?  a) Inhalt und Form gehören zusammen; ein unverständlicher Gedanke bleibt wirkungslos.  b) Form ist völlig egal.  c) Nur der Inhalt zählt.
 
 ## Übung C5 — Schreiben: argumentative Stellungnahme

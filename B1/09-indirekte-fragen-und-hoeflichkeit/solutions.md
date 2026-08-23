@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Sie sagt: „Hier spricht Anna Kowalski" und fragt, ob Frau Weber Zeit hat.** — Anna says "Hier spricht Anna Kowalski" and then "hätten Sie einen Moment?"
+1. **a) Sie sagt: „Hier spricht Anna Kowalski" und fragt, ob Frau Weber Zeit hat.** — Anna says "Hier spricht Anna Kowalski" and then "hätten Sie einen Moment?"
 2. **b) Ob die 30 Minuten die Diskussion einschließen.** — Anna asks whether the 30 minutes include a discussion or not.
-3. **b) Eine Liste mit empfohlenen Quellen.** — "Ich schicke Ihnen bis morgen eine Liste mit empfohlenen Quellen."
-4. **c) Bis Donnerstagmittag.** — "Ich würde die Datei gerne bis Donnerstagmittag einreichen."
+3. **c) Eine Liste mit empfohlenen Quellen.** — "Ich schicke Ihnen bis morgen eine Liste mit empfohlenen Quellen."
+4. **a) Bis Donnerstagmittag.** — "Ich würde die Datei gerne bis Donnerstagmittag einreichen."
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Hotelreservierung per Telefon
 
-1. **b) Um Fragen zur Buchungsanfrage zu stellen.** — "Wir rufen an, weil wir eine Frage zu Ihrer Buchungsanfrage haben."
+1. **a) Um Fragen zur Buchungsanfrage zu stellen.** — "Wir rufen an, weil wir eine Frage zu Ihrer Buchungsanfrage haben."
 2. **b) Ob der Gast Frühstück möchte oder nicht.** — "Wir möchten wissen, ob Sie ein Zimmer mit Frühstück oder ohne Frühstück wünschen."
-3. **b) Um eventuell einen Parkplatz zu reservieren.** — "da wir wissen müssen, ob wir einen Parkplatz reservieren sollen."
-4. **b) Bis heute Abend.** — "Könnten Sie uns bitte bis heute Abend zurückrufen?"
+3. **c) Um eventuell einen Parkplatz zu reservieren.** — "da wir wissen müssen, ob wir einen Parkplatz reservieren sollen."
+4. **a) Bis heute Abend.** — "Könnten Sie uns bitte bis heute Abend zurückrufen?"
 
 ---
 
@@ -136,10 +136,10 @@
 
 ## Übung B8 — Leseverstehen: Annas Brief ans Hotel
 
-1. **b) Ob noch Zimmer für ihren Zeitraum frei sind.** — "Zunächst möchte ich wissen, ob noch Zimmer für diesen Zeitraum verfügbar sind."
-2. **c) Weil sie nicht sicher ist, ob ein Fahrrad für das Stadtzentrum sinnvoll wäre.** — "Ich bin mir nicht sicher, ob es sinnvoll wäre, ein Fahrrad zu mieten."
-3. **b) Weil sie nicht sicher ist, ob sie den dritten Tag dabei sein wird.** — "Ich weiß noch nicht genau, ob ich den dritten Tag (17. Juli) tatsächlich dabei sein werde."
-4. **b) Ein Einzelzimmer.** — "würde ich gerne ein Einzelzimmer buchen."
+1. **a) Ob noch Zimmer für ihren Zeitraum frei sind.** — "Zunächst möchte ich wissen, ob noch Zimmer für diesen Zeitraum verfügbar sind."
+2. **b) Weil sie nicht sicher ist, ob ein Fahrrad für das Stadtzentrum sinnvoll wäre.** — "Ich bin mir nicht sicher, ob es sinnvoll wäre, ein Fahrrad zu mieten."
+3. **c) Weil sie nicht sicher ist, ob sie den dritten Tag dabei sein wird.** — "Ich weiß noch nicht genau, ob ich den dritten Tag (17. Juli) tatsächlich dabei sein werde."
+4. **a) Ein Einzelzimmer.** — "würde ich gerne ein Einzelzimmer buchen."
 
 ## Übung B9 — E-Mail: Fragen an einen Kurs
 
@@ -180,10 +180,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Leseverstehen: Hotelwebseite — Häufige Fragen (neuer Text)
 
-1. **b) Ab 15:00 Uhr.** — "das Zimmer ab 15:00 Uhr bereitsteht."
+1. **a) Ab 15:00 Uhr.** — "das Zimmer ab 15:00 Uhr bereitsteht."
 2. **b) Kleine Hunde und Katzen sind willkommen, wenn man es vorher angibt.** — "kleine Hunde und Katzen sind willkommen, wenn Sie das bei der Buchung angeben."
 3. **c) 500 Meter.** — "Das Hotel liegt nur 500 Meter vom Westbahnhof entfernt."
-4. **b) Damit der Aufenthalt optimal vorbereitet werden kann.** — "damit wir Ihren Aufenthalt optimal vorbereiten können."
+4. **a) Damit der Aufenthalt optimal vorbereitet werden kann.** — "damit wir Ihren Aufenthalt optimal vorbereiten können."
 
 ## Übung C5 — Schreiben: Formelle Anfrage per E-Mail
 

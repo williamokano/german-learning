@@ -209,7 +209,7 @@ Selbstkorrektur:
 
 1. **a) zwei Zimmer** — Anzeige 1 sagt 2-Zimmer-Wohnung.
 2. **b) 950 €** — Anzeige 2 (Spandau) sagt Miete: 950 Euro.
-3. **a) Anzeige 1** — Anzeige 1 erwähnt einen Balkon; Anzeige 2 hat Garten und Garage.
+3. **c) Anzeige 1** — Anzeige 1 erwähnt einen Balkon; Anzeige 2 hat Garten und Garage.
 4. **a) eine Garage** — Anzeige 2 (Spandau) erwähnt eine Garage.
 
 ## Übung C5 — Schreiben: Dein Zuhause

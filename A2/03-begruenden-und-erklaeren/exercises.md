@@ -347,10 +347,10 @@ Self-check:
 
 Wähle die richtige Option. Der Infinitiv muss vor dem Modalverb stehen, beide am Ende des „weil"-Satzes.
 
-1. Ich gehe früh schlafen, weil ich morgen früh aufstehen ___.  a) muss aufstehen  b) aufstehen muss  c) muss
+1. Ich gehe früh schlafen, weil ich morgen früh aufstehen ___.  a) aufstehen muss  b) muss aufstehen  c) muss
 2. Er kommt nicht, weil er arbeiten ___.  a) muss  b) arbeiten muss  c) muss arbeiten
-3. Wir nehmen das Taxi, weil wir schnell ankommen ___.  a) wollen  b) ankommen wollen  c) wollen ankommen
-4. Sie bleibt zu Hause, weil sie sich ausruhen ___.  a) soll ausruhen  b) ausruhen soll  c) soll ausruhen
+3. Wir nehmen das Taxi, weil wir schnell ankommen ___.  a) wollen  b) wollen ankommen  c) ankommen wollen
+4. Sie bleibt zu Hause, weil sie sich ausruhen ___.  a) ausruhen soll  b) soll ausruhen  c) soll ausruhen
 
 ---
 

@@ -1,3 +1,10 @@
 allowBuilds:
   esbuild: true
   sharp: true
+
+# fast-uri@3.1.6 (a transitive dep of ajv, pulled in by @astrojs/check) was
+# published only hours before this lockfile — pnpm's supply-chain
+# minimumReleaseAge policy rejects it in CI until it ages past the cutoff.
+# Pin to the last release that's already well past that window.
+overrides:
+  fast-uri: 3.1.5

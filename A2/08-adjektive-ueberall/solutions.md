@@ -13,10 +13,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) ihren Mann** — ihren Mann.
+1. **a) ihren Mann** — ihren Mann.
 2. **b) Dunkle Farben wie Marineblau und Schwarz** — Dunkle Farben wie Marineblau und Schwarz.
 3. **c) Einen marineblauen Pullover** — Einen marineblauen Pullover.
-4. **b) Den Pullover und das Hemd** — Den Pullover und das Hemd.
+4. **a) Den Pullover und das Hemd** — Den Pullover und das Hemd.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -184,11 +184,11 @@ Selbstkorrektur:
 ## Übung C2 — Sprachbausteine Teil 1
 
 1. **a) neuen** — Akk Mask def.: einen neuen Mantel → -en.
-2. **a) absolute** — Nom Fem indef. (meine = poss): meine absolute → -e.
-3. **b) freundliche** — Nom Fem indef.: eine freundliche → -e.
+2. **b) absolute** — Nom Fem indef. (meine = poss): meine absolute → -e.
+3. **c) freundliche** — Nom Fem indef.: eine freundliche → -e.
 4. **a) schönes** — Nom/Akk Neut indef.: ein schönes → -es.
-5. **a) neuen** — Dat Neut def. (mit dem): dem neuen Outfit → -en.
-6. **a) langen** — Akk Mask poss.: meinen langen → -en.
+5. **b) neuen** — Dat Neut def. (mit dem): dem neuen Outfit → -en.
+6. **c) langen** — Akk Mask poss.: meinen langen → -en.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 

@@ -43,10 +43,10 @@ exercises:
     items:
       - q: "Was kritisiert Frau Yilmaz an der Pressemitteilung?"
         options:
-          - { key: a, text: "Den Inhalt." }
-          - { key: b, text: "Dass zwei Relativsätze hintereinanderstehen." }
+          - { key: a, text: "Dass zwei Relativsätze hintereinanderstehen." }
+          - { key: b, text: "Den Inhalt." }
           - { key: c, text: "Die Rechtschreibung." }
-        answer: b
+        answer: a
         why: 'Frau Yilmaz: „Das sind zwei Relativsätze hintereinander … zu lang".'
       - q: 'Wie soll Herr Steinmeyer „die Ausstellung, die im Mai eröffnet wurde" umformen?'
         options:
@@ -57,17 +57,17 @@ exercises:
         why: 'Die Ausstellung wurde eröffnet → passiv → Partizip II: „die im Mai eröffnete Ausstellung".'
       - q: 'Warum soll „die viele Besucher angezogen hat" ein Relativsatz bleiben?'
         options:
-          - { key: a, text: "Weil es aktiv ist und ein Partizip I schwer lesbar wäre." }
+          - { key: a, text: "Weil es kein Verb enthält." }
           - { key: b, text: "Weil es passiv ist." }
-          - { key: c, text: "Weil es kein Verb enthält." }
-        answer: a
+          - { key: c, text: "Weil es aktiv ist und ein Partizip I schwer lesbar wäre." }
+        answer: c
         why: 'Frau Yilmaz: „denn das ist aktiv … Ein Partizip I wäre … korrekt, aber schwer lesbar".'
       - q: 'Wie wird aus „der Künstler, der 2018 verstarb" ein Attribut?'
         options:
-          - { key: a, text: "der 2018 versterbende Künstler" }
-          - { key: b, text: "der 2018 verstorbene Künstler" }
+          - { key: a, text: "der 2018 verstorbene Künstler" }
+          - { key: b, text: "der 2018 versterbende Künstler" }
           - { key: c, text: "der Künstler 2018 verstorben" }
-        answer: b
+        answer: a
         why: '„sterben" bildet das Perfekt mit „sein", also Partizip II: „der 2018 verstorbene Künstler".'
 
   - id: H3

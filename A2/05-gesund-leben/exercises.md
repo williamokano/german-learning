@@ -23,10 +23,10 @@ Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Herr Steinmeyer fühlt sich müde, weil …  a) er sich nicht ausreichend bewegt hat.  b) er sich bei der Arbeit sehr gestresst fühlt.  c) er sich erkältet hat.
-2. Was empfiehlt die Apothekerin gegen den Stress?  a) Dreimal täglich eine Tablette nehmen.  b) Mehr Wasser trinken und Sport machen.  c) Ein Magnesiumpräparat nehmen und sich jeden Abend entspannen.
-3. Wie lange hat Herr Steinmeyer die Beschwerden schon?  a) Seit einer Woche.  b) Seit drei Tagen.  c) Seit zwei Wochen.
-4. Was sagt die Apothekerin über Bildschirme?  a) Herr Steinmeyer soll mehr fernsehen, um sich zu entspannen.  b) Er soll sich abends ohne Bildschirm entspannen.  c) Er soll sich nur noch eine Stunde pro Tag mit dem Bildschirm beschäftigen.
+1. Herr Steinmeyer fühlt sich müde, weil …  a) er sich bei der Arbeit sehr gestresst fühlt.  b) er sich nicht ausreichend bewegt hat.  c) er sich erkältet hat.
+2. Was empfiehlt die Apothekerin gegen den Stress?  a) Dreimal täglich eine Tablette nehmen.  b) Ein Magnesiumpräparat nehmen und sich jeden Abend entspannen.  c) Mehr Wasser trinken und Sport machen.
+3. Wie lange hat Herr Steinmeyer die Beschwerden schon?  a) Seit einer Woche.  b) Seit zwei Wochen.  c) Seit drei Tagen.
+4. Was sagt die Apothekerin über Bildschirme?  a) Er soll sich abends ohne Bildschirm entspannen.  b) Herr Steinmeyer soll mehr fernsehen, um sich zu entspannen.  c) Er soll sich nur noch eine Stunde pro Tag mit dem Bildschirm beschäftigen.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -44,10 +44,10 @@ Höre und ergänze die 7 fehlenden Wörter. Drei Wörter im Kasten werden nicht 
 
 Höre die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
-1. Wo arbeitet Dr. Berger?  a) In einer Apotheke.  b) In einer Arztpraxis.  c) In einem Krankenhaus.
-2. Wann ist der Termin?  a) Am Donnerstag, dem zwölften Juni.  b) Am Dienstag, dem zehnten Juni.  c) Am Freitag, dem dreizehnten Juni.
-3. Was soll man mitbringen?  a) Einen Ausweis und Bargeld.  b) Die Versichertenkarte und den Impfpass.  c) Nur den Personalausweis.
-4. Wie viele Stunden vorher muss man absagen?  a) Zwölf Stunden.  b) Vierundzwanzig Stunden.  c) Achtundvierzig Stunden.
+1. Wo arbeitet Dr. Berger?  a) In einer Arztpraxis.  b) In einer Apotheke.  c) In einem Krankenhaus.
+2. Wann ist der Termin?  a) Am Dienstag, dem zehnten Juni.  b) Am Donnerstag, dem zwölften Juni.  c) Am Freitag, dem dreizehnten Juni.
+3. Was soll man mitbringen?  a) Einen Ausweis und Bargeld.  b) Nur den Personalausweis.  c) Die Versichertenkarte und den Impfpass.
+4. Wie viele Stunden vorher muss man absagen?  a) Vierundzwanzig Stunden.  b) Zwölf Stunden.  c) Achtundvierzig Stunden.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

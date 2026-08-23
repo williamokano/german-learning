@@ -393,10 +393,10 @@ Text:
 Wähle a, b oder c.
 
 
-1. Die Sprachschule sucht … — The language school is looking for …  a) eine Vollzeitkraft  b) eine Teilzeitkraft  c) einen Programmierer
+1. Die Sprachschule sucht … — The language school is looking for …  a) eine Teilzeitkraft  b) eine Vollzeitkraft  c) einen Programmierer
 2. Bewerber müssen … — Applicants must …  a) Englisch sprechen  b) Deutsch sehr gut können  c) Informatik studiert haben
 3. Wie viele Stunden pro Woche muss man arbeiten? — How many hours per week does one have to work?  a) 40  b) 20  c) 15
-4. Wo muss man die Bewerbung hinschicken? — Where does one have to send the application?  a) per Post  b) per E-Mail  c) per Telefon
+4. Wo muss man die Bewerbung hinschicken? — Where does one have to send the application?  a) per E-Mail  b) per Post  c) per Telefon
 
 ## Übung C5 — Schreiben: Mein Beruf / mein Traumjob
 

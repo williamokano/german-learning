@@ -37,13 +37,13 @@ Hören Sie den Radiobeitrag (zweimal) und entscheiden Sie: richtig (R) oder fals
 Hören Sie die Ansagen (zweimal) und wählen Sie die richtige Antwort (a, b oder c).
 
 1. Wie viel Verspätung hat der ICE 78 nach Hamburg?  
-   a) Etwa 15 Minuten  b) Etwa 25 Minuten  c) Etwa 35 Minuten
+   a) Etwa 25 Minuten  b) Etwa 15 Minuten  c) Etwa 35 Minuten
 2. Wann öffnet das Stadtmuseum morgen?  
    a) Um 9 Uhr  b) Um 10 Uhr  c) Um 11 Uhr
 3. Welche Veranstaltung wird heute Abend in der Buchhandlung angekündigt?  
-   a) Eine Lesung mit dem Autor Ferdinand Klein  b) Eine Signierstunde mit der Autorin Eva Nowak  c) Ein Konzert mit der Band Quartett Plus
+   a) Eine Lesung mit dem Autor Ferdinand Klein  b) Ein Konzert mit der Band Quartett Plus  c) Eine Signierstunde mit der Autorin Eva Nowak
 4. Wo findet das Treffen der Wandergruppe statt?  
-   a) Am Hauptbahnhof  b) Am Marktplatz vor dem Rathaus  c) Am Wanderparkplatz am Stadtrand
+   a) Am Wanderparkplatz am Stadtrand  b) Am Marktplatz vor dem Rathaus  c) Am Hauptbahnhof
 5. Wie lange ist die Bibliothek am Samstag geöffnet?  
    a) Von 9 bis 14 Uhr  b) Von 10 bis 16 Uhr  c) Von 11 bis 17 Uhr
 
@@ -140,11 +140,11 @@ Wählen Sie für jede Lücke (1–6) die richtige Antwort (a, b oder c).
 
 
 1. Eine Studie der Universität Zürich _______ (1), dass Schlaf eine entscheidende Rolle spielt.  a) kommt zu dem Ergebnis  b) geht zu dem Ergebnis  c) macht zu dem Ergebnis
-2. Die Probandinnen und Probanden _______ (2) im Durchschnitt 23 Prozent besser ab.  a) schnitten  b) schnitteten  c) haben geschnitten
-3. Die Forscherinnen und Forscher führen das _______ (3), dass im Schlaf Vokabeln verfestigt werden.  a) darüber zurück  b) darauf zurück  c) daran zurück
+2. Die Probandinnen und Probanden _______ (2) im Durchschnitt 23 Prozent besser ab.  a) schnitteten  b) schnitten  c) haben geschnitten
+3. Die Forscherinnen und Forscher führen das _______ (3), dass im Schlaf Vokabeln verfestigt werden.  a) darüber zurück  b) daran zurück  c) darauf zurück
 4. Insbesondere die Tiefschlafphasen _______ (4) dabei von Bedeutung zu sein.  a) scheinen  b) scheint  c) scheinen sich
-5. Die Autorinnen und Autoren empfehlen, neue Lerninhalte kurz _______ (5) dem Schlafengehen zu wiederholen.  a) vor  b) bevor  c) während
-6. So _______ (6) die Konsolidierung unterstützt.  a) wird  b) wurde  c) worden
+5. Die Autorinnen und Autoren empfehlen, neue Lerninhalte kurz _______ (5) dem Schlafengehen zu wiederholen.  a) bevor  b) vor  c) während
+6. So _______ (6) die Konsolidierung unterstützt.  a) worden  b) wurde  c) wird
 
 ## Übung exam-S9 — Aufgabe 9 — Forumsbeitrag schreiben
 

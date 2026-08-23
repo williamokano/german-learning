@@ -377,10 +377,10 @@ Richtig (R) oder Falsch (F)?
 Wähl a, b oder c.
 
 
-1. Wo wurde das neue Verfahren entwickelt?  a) In einer Fabrik.  b) An der Technischen Universität.  c) In einer Behörde.
-2. Was lässt sich mit der Methode machen?  a) Plastikmüll fast vollständig in Grundstoffe zerlegen.  b) Plastik komplett verbrennen.  c) Neuen Kunststoff herstellen.
-3. Was sagt die Projektleiterin über den Müll, der früher kaum zu trennen war?  a) Er ist immer noch nicht trennbar.  b) Er ist jetzt trennbar.  c) Er muss verbrannt werden.
-4. Was muss passieren, bevor das Verfahren im großen Maßstab eingesetzt wird?  a) Es muss veröffentlicht werden.  b) Es muss von einer Behörde genehmigt werden.  c) Es muss verboten werden.
+1. Wo wurde das neue Verfahren entwickelt?  a) An der Technischen Universität.  b) In einer Fabrik.  c) In einer Behörde.
+2. Was lässt sich mit der Methode machen?  a) Plastik komplett verbrennen.  b) Plastikmüll fast vollständig in Grundstoffe zerlegen.  c) Neuen Kunststoff herstellen.
+3. Was sagt die Projektleiterin über den Müll, der früher kaum zu trennen war?  a) Er ist immer noch nicht trennbar.  b) Er muss verbrannt werden.  c) Er ist jetzt trennbar.
+4. Was muss passieren, bevor das Verfahren im großen Maßstab eingesetzt wird?  a) Es muss von einer Behörde genehmigt werden.  b) Es muss veröffentlicht werden.  c) Es muss verboten werden.
 
 ## Übung C5 — Schreiben: Anleitung oder Vorschrift verfassen
 

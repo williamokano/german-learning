@@ -346,11 +346,11 @@ nur fünfzig Euro." Das ist (9) ______! Anna ist glücklich: „Die (10) ______ 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Ich (1) ____ gern Kleidung kaufen, aber es ist nicht immer einfach. — I (1) ____ like buying clothes, but it's not always easy.  a) kaufe  b) kaufen  c) kaufst
-2. Ich suche immer zuerst (2) ____ Farbe, die mir gut steht. — I always look first for a (2) ____ color that suits me.  a) eine  b) einen  c) ein
-3. Schwarz (3) ____ mir sehr gut. — Black (3) ____ me very well.  a) stehen  b) steht  c) passen
+2. Ich suche immer zuerst (2) ____ Farbe, die mir gut steht. — I always look first for a (2) ____ color that suits me.  a) einen  b) eine  c) ein
+3. Schwarz (3) ____ mir sehr gut. — Black (3) ____ me very well.  a) stehen  b) passen  c) steht
 4. Im Geschäft probiere ich viele Sachen an — das (4) ____ mir Spaß! — In the shop I try on many things — that's (4) ____ fun for me!  a) macht  b) mache  c) machen
-5. Manchmal (5) ____ mir der Verkäufer oder die Verkäuferin. — Sometimes the salesperson (5) ____ me.  a) hilft  b) helfen  c) helfe
-6. Sie sagen: „Das (6) ____ Ihnen sehr gut!" — They say: "That (6) ____ you very well!"  a) steht  b) stehen  c) passt
+5. Manchmal (5) ____ mir der Verkäufer oder die Verkäuferin. — Sometimes the salesperson (5) ____ me.  a) helfen  b) hilft  c) helfe
+6. Sie sagen: „Das (6) ____ Ihnen sehr gut!" — They say: "That (6) ____ you very well!"  a) passt  b) stehen  c) steht
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 

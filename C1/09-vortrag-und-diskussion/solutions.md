@@ -160,9 +160,9 @@
 
 ## Übung B7 — Korrekt moderieren und argumentieren
 
-1. **b) Ich würde Sie bitten, zu beginnen.** — „bitten" + Komma + „zu"-Infinitiv: „Ich würde Sie bitten, zu beginnen."
+1. **a) Ich würde Sie bitten, zu beginnen.** — „bitten" + Komma + „zu"-Infinitiv: „Ich würde Sie bitten, zu beginnen."
 2. **b) Zwar ist es präzise, aber schwer.** — Nach „zwar" steht das Verb an Position 2: „Zwar ist es …".
-3. **b) Forschung sollte zugänglich sein, zumal sie öffentlich finanziert wird.** — „zumal" ersetzt „weil" — nicht beides zusammen, kein „dass".
+3. **c) Forschung sollte zugänglich sein, zumal sie öffentlich finanziert wird.** — „zumal" ersetzt „weil" — nicht beides zusammen, kein „dass".
 4. **a) Gestatten Sie, dass ich einhake.** — Im dass-Satz steht das Verb am Ende und wird konjugiert: „… dass ich einhake".
 5. **b) nicht nur inhaltlich, sondern auch rhetorisch** — Das Korrelat lautet „nicht nur … sondern auch".
 
@@ -222,8 +222,8 @@ Selbstkorrektur:
 ## Übung C4b — Lesen Text 2 (Forumsdiskussion: Sollte man Reden üben?)
 
 1. **a) Sollte freies Reden fester Bestandteil von Schule und Studium sein?** — „Sollte freies Reden ein fester Bestandteil von Schule und Studium sein?" (Beitrag 1).
-2. **a) Mit der Chancengleichheit — sonst kommen kluge Leute nicht zu Wort.** — „Rhetorik gibt ihnen dieses Werkzeug — das ist eine Frage der Chancengleichheit."
-3. **b) Er stimmt grundsätzlich zu, betont aber: erst der Inhalt, dann die Form.** — „Ich stimme im Grundsatz zu, würde aber differenzieren … Erst der Inhalt, dann die Form."
+2. **b) Mit der Chancengleichheit — sonst kommen kluge Leute nicht zu Wort.** — „Rhetorik gibt ihnen dieses Werkzeug — das ist eine Frage der Chancengleichheit."
+3. **c) Er stimmt grundsätzlich zu, betont aber: erst der Inhalt, dann die Form.** — „Ich stimme im Grundsatz zu, würde aber differenzieren … Erst der Inhalt, dann die Form."
 4. **a) Inhalt und Form gehören zusammen; ein unverständlicher Gedanke bleibt wirkungslos.** — „Ein guter Gedanke, den niemand versteht, bleibt wirkungslos."
 
 ## Übung C5 — Schreiben: argumentative Stellungnahme

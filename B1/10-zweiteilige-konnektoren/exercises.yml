@@ -42,31 +42,31 @@ exercises:
     items:
       - q: "Was ist Hannahs Hauptziel für den neuen Lehrplan?"
         options:
-          - { key: a, text: "Mehr Unterrichtsstunden zu bekommen." }
-          - { key: b, text: "Nicht nur Fachwissen, sondern auch kritisches Denken zu fördern." }
+          - { key: a, text: "Nicht nur Fachwissen, sondern auch kritisches Denken zu fördern." }
+          - { key: b, text: "Mehr Unterrichtsstunden zu bekommen." }
           - { key: c, text: "Nur Primärquellen im Unterricht zu verwenden." }
-        answer: b
+        answer: a
         why: 'Hannah: "Mein Lehrplan zielt nicht nur auf die Vermittlung von Fachwissen ab, sondern auch auf die Entwicklung kritischen Denkens."'
       - q: "In welchen Fächern arbeitet Hannah mit Primärquellen?"
         options:
           - { key: a, text: "Nur im Deutschunterricht." }
-          - { key: b, text: "Nur im Geschichtsunterricht." }
-          - { key: c, text: "Sowohl im Deutsch- als auch im Geschichtsunterricht." }
-        answer: c
+          - { key: b, text: "Sowohl im Deutsch- als auch im Geschichtsunterricht." }
+          - { key: c, text: "Nur im Geschichtsunterricht." }
+        answer: b
         why: 'Hannah: "Sowohl im Deutschunterricht als auch im Geschichtsunterricht arbeite ich mit Primärquellen."'
       - q: "Wie sieht Hannah das Verhältnis von Breite und Tiefe im Unterricht?"
         options:
           - { key: a, text: "Sie bevorzugt Breite, weil es mehr Stoff abdeckt." }
-          - { key: b, text: "Entweder man strebt nach Breite und verliert Tiefe, oder man wählt Tiefe und gewinnt Verständnis." }
-          - { key: c, text: "Sie findet, dass weder Breite noch Tiefe wichtig ist." }
-        answer: b
+          - { key: b, text: "Sie findet, dass weder Breite noch Tiefe wichtig ist." }
+          - { key: c, text: "Entweder man strebt nach Breite und verliert Tiefe, oder man wählt Tiefe und gewinnt Verständnis." }
+        answer: c
         why: 'Hannah: "Entweder wir streben nach Breite und verlieren an Tiefe, oder wir wählen Tiefe und gewinnen echtes Verständnis."'
       - q: "Was sagt Herr Steinmeyer am Ende über Hannahs Entwurf?"
         options:
-          - { key: a, text: "Der Entwurf ist vollständig und kann sofort umgesetzt werden." }
-          - { key: b, text: "Der Entwurf ist zwar noch nicht vollständig, aber er zeigt eine überzeugende Grundlogik." }
+          - { key: a, text: "Der Entwurf ist zwar noch nicht vollständig, aber er zeigt eine überzeugende Grundlogik." }
+          - { key: b, text: "Der Entwurf ist vollständig und kann sofort umgesetzt werden." }
           - { key: c, text: "Er lehnt den Entwurf wegen zu wenig empirischer Belege ab." }
-        answer: b
+        answer: a
         why: 'Herr Steinmeyer: "Der Entwurf ist zwar noch nicht vollständig, aber er zeigt eine überzeugende Grundlogik."'
 
   - id: H3
@@ -678,10 +678,10 @@ exercises:
     items:
       - q: "Was sagt Lukas über Berlin?"
         options:
-          - { key: a, text: "Er liebt Berlin und sieht nur die Vorteile." }
-          - { key: b, text: "Er sieht sowohl die Vorzüge als auch die Schattenseiten." }
+          - { key: a, text: "Er sieht sowohl die Vorzüge als auch die Schattenseiten." }
+          - { key: b, text: "Er liebt Berlin und sieht nur die Vorteile." }
           - { key: c, text: "Er möchte sofort nach Leipzig umziehen." }
-        answer: b
+        answer: a
         why: '"Lukas … sieht sowohl die Vorzüge als auch die Schattenseiten der Hauptstadt."'
       - q: 'Was meint Mia mit „Entweder-oder-Denken hilft hier nicht"?'
         options:
@@ -693,16 +693,16 @@ exercises:
       - q: "Wie beschreibt Yusuf seine Erfahrung mit zwei Großstädten?"
         options:
           - { key: a, text: "Kairo ist besser als Berlin." }
-          - { key: b, text: "Weder Berlin noch Kairo ist perfekt, aber beide sind lebendig." }
-          - { key: c, text: "Berlin ist die beste Stadt der Welt." }
-        answer: b
+          - { key: b, text: "Berlin ist die beste Stadt der Welt." }
+          - { key: c, text: "Weder Berlin noch Kairo ist perfekt, aber beide sind lebendig." }
+        answer: c
         why: '"Weder Berlin noch Kairo ist perfekt. Aber beide sind lebendig — und das ist das Entscheidende."'
       - q: "Was ist das Fazit des Lesetexts?"
         options:
-          - { key: a, text: "Nur Daten können eine Stadt fair bewerten." }
-          - { key: b, text: "Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung." }
+          - { key: a, text: "Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung." }
+          - { key: b, text: "Nur Daten können eine Stadt fair bewerten." }
           - { key: c, text: "Es gibt nur eine richtige Antwort auf die Frage der Lebensqualität." }
-        answer: b
+        answer: a
         why: '"Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung."'
 
   - id: B9

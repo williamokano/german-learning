@@ -24,10 +24,10 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Wie beginnt Anna das Telefongespräch?  a) Sie sagt nur: „Guten Tag, ich bin Anna."  b) Sie sagt: „Hier spricht Anna Kowalski" und fragt, ob Frau Weber Zeit hat.  c) Sie fragt sofort nach den Anweisungen.
+1. Wie beginnt Anna das Telefongespräch?  a) Sie sagt: „Hier spricht Anna Kowalski" und fragt, ob Frau Weber Zeit hat.  b) Sie sagt nur: „Guten Tag, ich bin Anna."  c) Sie fragt sofort nach den Anweisungen.
 2. Was möchte Anna über die Präsentation wissen?  a) Wie lange sie sprechen soll.  b) Ob die 30 Minuten die Diskussion einschließen.  c) Ob sie auf Englisch präsentieren darf.
-3. Was schickt Frau Weber Anna bis morgen?  a) Den Stundenplan.  b) Eine Liste mit empfohlenen Quellen.  c) Das fertige PowerPoint-Dokument.
-4. Bis wann möchte Anna die Datei einreichen?  a) Bis Donnerstagabend.  b) Bis Freitagmorgen.  c) Bis Donnerstagmittag.
+3. Was schickt Frau Weber Anna bis morgen?  a) Den Stundenplan.  b) Das fertige PowerPoint-Dokument.  c) Eine Liste mit empfohlenen Quellen.
+4. Bis wann möchte Anna die Datei einreichen?  a) Bis Donnerstagmittag.  b) Bis Freitagmorgen.  c) Bis Donnerstagabend.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -51,10 +51,10 @@ Listen to the Hörtext (Bruno's call to the Bürgeramt) and fill in the 6 missin
 
 Listen to the phone message. Then choose the correct answer (a, b, or c).
 
-1. Warum ruft das Hotel an?  a) Um eine Buchung zu bestätigen.  b) Um Fragen zur Buchungsanfrage zu stellen.  c) Um einen Termin abzusagen.
+1. Warum ruft das Hotel an?  a) Um Fragen zur Buchungsanfrage zu stellen.  b) Um eine Buchung zu bestätigen.  c) Um einen Termin abzusagen.
 2. Was möchte das Hotel über das Frühstück wissen?  a) Um wie viel Uhr das Frühstück stattfindet.  b) Ob der Gast Frühstück möchte oder nicht.  c) Was der Gast zum Frühstück essen möchte.
-3. Warum fragt das Hotel nach der Anreise?  a) Um den Anreisetag zu kennen.  b) Um eventuell einen Parkplatz zu reservieren.  c) Um den Zug zu buchen.
-4. Bis wann soll der Gast zurückrufen?  a) Bis morgen früh.  b) Bis heute Abend.  c) Bis nächste Woche.
+3. Warum fragt das Hotel nach der Anreise?  a) Um den Anreisetag zu kennen.  b) Um den Zug zu buchen.  c) Um eventuell einen Parkplatz zu reservieren.
+4. Bis wann soll der Gast zurückrufen?  a) Bis heute Abend.  b) Bis morgen früh.  c) Bis nächste Woche.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -325,10 +325,10 @@ Fill in the 6 gaps in this formal phone conversation.
 Wähle a, b oder c.
 
 
-1. Was möchte Anna zuerst wissen?  a) Ob das Hotel einen Pool hat.  b) Ob noch Zimmer für ihren Zeitraum frei sind.  c) Wie viel die Reise nach Wien kostet.
-2. Warum fragt Anna nach einem Fahrrad?  a) Weil sie kein Auto hat.  b) Weil sie das Fahrrad günstig findet.  c) Weil sie nicht sicher ist, ob ein Fahrrad für das Stadtzentrum sinnvoll wäre.
-3. Warum fragt Anna nach dem Stornierungsrecht?  a) Weil sie das Hotel nicht mag.  b) Weil sie nicht sicher ist, ob sie den dritten Tag dabei sein wird.  c) Weil das Hotel zu teuer ist.
-4. Welche Zimmerart möchte Anna buchen?  a) Ein Doppelzimmer.  b) Ein Einzelzimmer.  c) Eine Suite.
+1. Was möchte Anna zuerst wissen?  a) Ob noch Zimmer für ihren Zeitraum frei sind.  b) Ob das Hotel einen Pool hat.  c) Wie viel die Reise nach Wien kostet.
+2. Warum fragt Anna nach einem Fahrrad?  a) Weil sie kein Auto hat.  b) Weil sie nicht sicher ist, ob ein Fahrrad für das Stadtzentrum sinnvoll wäre.  c) Weil sie das Fahrrad günstig findet.
+3. Warum fragt Anna nach dem Stornierungsrecht?  a) Weil sie das Hotel nicht mag.  b) Weil das Hotel zu teuer ist.  c) Weil sie nicht sicher ist, ob sie den dritten Tag dabei sein wird.
+4. Welche Zimmerart möchte Anna buchen?  a) Ein Einzelzimmer.  b) Ein Doppelzimmer.  c) Eine Suite.
 
 ## Übung B9 — E-Mail: Fragen an einen Kurs
 
@@ -426,10 +426,10 @@ Richtig (R) oder Falsch (F)?
 
 Read the FAQ text below. Choose the correct answer (a, b, or c).
 
-1. Ab wann ist das Zimmer normalerweise bereit?  a) Ab 12:00 Uhr.  b) Ab 15:00 Uhr.  c) Ab 18:00 Uhr.
+1. Ab wann ist das Zimmer normalerweise bereit?  a) Ab 15:00 Uhr.  b) Ab 12:00 Uhr.  c) Ab 18:00 Uhr.
 2. Was gilt für Haustiere?  a) Haustiere sind grundsätzlich verboten.  b) Kleine Hunde und Katzen sind willkommen, wenn man es vorher angibt.  c) Nur Katzen sind erlaubt.
 3. Wie weit ist der nächste Bahnhof?  a) 2 km.  b) 1 km.  c) 500 Meter.
-4. Warum bittet das Hotel die Gäste, besondere Anforderungen mitzuteilen?  a) Um den Preis anzupassen.  b) Damit der Aufenthalt optimal vorbereitet werden kann.  c) Weil das gesetzlich vorgeschrieben ist.
+4. Warum bittet das Hotel die Gäste, besondere Anforderungen mitzuteilen?  a) Damit der Aufenthalt optimal vorbereitet werden kann.  b) Um den Preis anzupassen.  c) Weil das gesetzlich vorgeschrieben ist.
 
 ## Übung C5 — Schreiben: Formelle Anfrage per E-Mail
 

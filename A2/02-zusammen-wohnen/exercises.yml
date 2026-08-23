@@ -792,10 +792,10 @@ exercises:
     items:
       - q: "Sie (1) ______ im zweiten Stock."
         options:
-          - { key: a, text: "liegt" }
-          - { key: b, text: "steht" }
+          - { key: a, text: "steht" }
+          - { key: b, text: "liegt" }
           - { key: c, text: "hängt" }
-        answer: b
+        answer: a
         why: 'Wohnungen stehen; „Die Wohnung steht im zweiten Stock" ✓'
       - q: "Das Sofa (2) ______ jetzt vor dem Fernseher."
         options:
@@ -807,30 +807,30 @@ exercises:
       - q: "Ich habe den Schreibtisch (3) ______ Fenster gestellt."
         options:
           - { key: a, text: "am" }
-          - { key: b, text: "ans" }
-          - { key: c, text: "in" }
-        answer: b
+          - { key: b, text: "in" }
+          - { key: c, text: "ans" }
+        answer: c
         why: "an + das → ans (Wohin? → Akkusativ: ans Fenster)."
       - q: "Die Bücher (4) ______ schon im Regal."
         options:
-          - { key: a, text: "liegen" }
-          - { key: b, text: "stehen" }
+          - { key: a, text: "stehen" }
+          - { key: b, text: "liegen" }
           - { key: c, text: "hängen" }
-        answer: b
+        answer: a
         why: "Bücher im Regal → stehen (upright)."
       - q: "Meine Jacken hänge ich (5) ______ den Haken im Flur."
         options:
-          - { key: a, text: "an" }
-          - { key: b, text: "auf" }
+          - { key: a, text: "auf" }
+          - { key: b, text: "an" }
           - { key: c, text: "über" }
-        answer: a
+        answer: b
         why: "an den Haken (Wohin? + Akk)."
       - q: "Es ist noch nicht alles fertig, aber ich bin schon (6) ______ der neuen Wohnung sehr zufrieden."
         options:
           - { key: a, text: "in" }
-          - { key: b, text: "mit" }
-          - { key: c, text: "über" }
-        answer: b
+          - { key: b, text: "über" }
+          - { key: c, text: "mit" }
+        answer: c
         why: 'zufrieden mit + Dativ — fixed collocation (A1/08: mit + Dat).'
 
   - id: C3

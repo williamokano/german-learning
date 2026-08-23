@@ -45,31 +45,31 @@ exercises:
     items:
       - q: "Wie lange wohnt Klaus schon im Haus?"
         options:
-          - { key: a, text: "Seit drei Wochen." }
-          - { key: b, text: "Seit einer Woche." }
+          - { key: a, text: "Seit einer Woche." }
+          - { key: b, text: "Seit drei Wochen." }
           - { key: c, text: "Seit einem Monat." }
-        answer: b
+        answer: a
         why: 'Herr Steinmeyer: „Er ist vor einer Woche eingezogen".'
       - q: "Was ist Klaus von Beruf?"
         options:
           - { key: a, text: "Er ist Lehrer." }
-          - { key: b, text: "Er ist Arzt." }
-          - { key: c, text: "Er ist Architekt." }
-        answer: c
+          - { key: b, text: "Er ist Architekt." }
+          - { key: c, text: "Er ist Arzt." }
+        answer: b
         why: 'Herr Steinmeyer: „Er ist Architekt".'
       - q: "Woher kommt Klaus' Frau?"
         options:
           - { key: a, text: "Aus Berlin." }
-          - { key: b, text: "Aus Wien." }
-          - { key: c, text: "Aus Hamburg." }
-        answer: b
+          - { key: b, text: "Aus Hamburg." }
+          - { key: c, text: "Aus Wien." }
+        answer: c
         why: 'Herr Steinmeyer: „Seine Frau kommt aus Wien".'
       - q: "Was sagt Frau Weber am Ende des Gesprächs?"
         options:
-          - { key: a, text: "Sie möchte die Familie nicht kennenlernen." }
-          - { key: b, text: "Sie freut sich auf eine gute Nachbarschaft." }
+          - { key: a, text: "Sie freut sich auf eine gute Nachbarschaft." }
+          - { key: b, text: "Sie möchte die Familie nicht kennenlernen." }
           - { key: c, text: "Sie findet die Familie nicht sympathisch." }
-        answer: b
+        answer: a
         why: 'Frau Weber: „Freuen wir uns auf gute Nachbarschaft!".'
 
   - id: H3
@@ -104,31 +104,31 @@ exercises:
     items:
       - q: "Warum ruft Anna an?"
         options:
-          - { key: a, text: "Sie kann Bruno nicht vom Bahnhof abholen." }
-          - { key: b, text: "Sie kommt ein bisschen später als geplant." }
+          - { key: a, text: "Sie kommt ein bisschen später als geplant." }
+          - { key: b, text: "Sie kann Bruno nicht vom Bahnhof abholen." }
           - { key: c, text: "Sie hat Brunos Bruder am Bahnhof getroffen." }
-        answer: b
+        answer: a
         why: 'Anna: „Ich komme leider ein bisschen später zum Bahnhof".'
       - q: "Wen soll Bruno abholen?"
         options:
           - { key: a, text: "Einen Kollegen von Anna." }
-          - { key: b, text: "Annas Freund Marko." }
-          - { key: c, text: "Annas Bruder Sergej." }
-        answer: c
+          - { key: b, text: "Annas Bruder Sergej." }
+          - { key: c, text: "Annas Freund Marko." }
+        answer: b
         why: 'Anna: „Kannst du bitte meinen Bruder Sergej abholen?".'
       - q: "Welche Beschreibung passt zu Sergej?"
         options:
           - { key: a, text: "Klein, kräftig, lange blonde Haare, blaue Jacke." }
-          - { key: b, text: "Groß, schlank, kurze dunkle Haare, rote Jacke." }
-          - { key: c, text: "Mittelgroß, braune Haare, schwarze Jacke." }
-        answer: b
+          - { key: b, text: "Mittelgroß, braune Haare, schwarze Jacke." }
+          - { key: c, text: "Groß, schlank, kurze dunkle Haare, rote Jacke." }
+        answer: c
         why: 'Anna: „Er ist … groß und schlank … kurze dunkle Haare … eine rote Jacke".'
       - q: "Was soll Bruno tun, wenn er Sergej gefunden hat?"
         options:
-          - { key: a, text: "Er soll Anna eine SMS schreiben." }
-          - { key: b, text: "Er soll Anna anrufen." }
+          - { key: a, text: "Er soll Anna anrufen." }
+          - { key: b, text: "Er soll Anna eine SMS schreiben." }
           - { key: c, text: "Er soll am Ausgang warten." }
-        answer: b
+        answer: a
         why: 'Anna: „Bitte ruf mich zurück, wenn du ihn gefunden hast!".'
 
   - id: H5

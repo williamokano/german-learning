@@ -24,10 +24,10 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Was hat Herr Steinmeyer bereits gelesen?  a) Annas Bewerbung für eine neue Stelle.  b) Das Empfehlungsschreiben, das Anna ihm geschickt hat.  c) Annas Lebenslauf.
+1. Was hat Herr Steinmeyer bereits gelesen?  a) Das Empfehlungsschreiben, das Anna ihm geschickt hat.  b) Annas Bewerbung für eine neue Stelle.  c) Annas Lebenslauf.
 2. Was kritisiert Herr Steinmeyer an Annas erster Formulierung?  a) Sie ist zu formell.  b) Sie ist zu allgemein.  c) Sie enthält einen Grammatikfehler.
-3. Was sagt Herr Steinmeyer über das Wort `worauf`?  a) Es ist hier korrekt und passt gut.  b) Es gehört zu einer anderen Kategorie — man schreibt stattdessen `auf das`.  c) Es ist zu informell für ein Empfehlungsschreiben.
-4. Wie bewertet Herr Steinmeyer am Ende das überarbeitete Schreiben?  a) Er findet es noch zu informell.  b) Er ist sicher, dass es einen sehr guten Eindruck machen wird.  c) Er will noch mehr Änderungen besprechen.
+3. Was sagt Herr Steinmeyer über das Wort `worauf`?  a) Es ist hier korrekt und passt gut.  b) Es ist zu informell für ein Empfehlungsschreiben.  c) Es gehört zu einer anderen Kategorie — man schreibt stattdessen `auf das`.
+4. Wie bewertet Herr Steinmeyer am Ende das überarbeitete Schreiben?  a) Er ist sicher, dass es einen sehr guten Eindruck machen wird.  b) Er findet es noch zu informell.  c) Er will noch mehr Änderungen besprechen.
 
 ## Übung H3 — Hörtext-Lückentext: Mias Traumwohnung
 
@@ -50,10 +50,10 @@ Listen to the Hörtext (Mia describes her ideal apartment) and fill in the 6 mis
 
 Listen to Pavel's voice message. Then choose the correct answer (a, b, or c).
 
-1. Warum ruft Pavel an?  a) Um Anna zu einer Konferenz einzuladen.  b) Um Anna ein neues Café zu empfehlen.  c) Um Anna nach einem Rezept zu fragen.
+1. Warum ruft Pavel an?  a) Um Anna ein neues Café zu empfehlen.  b) Um Anna zu einer Konferenz einzuladen.  c) Um Anna nach einem Rezept zu fragen.
 2. Was sagt Pavel über die Barista?  a) Sie arbeitet schon seit Jahren dort.  b) Sie ist unglaublich gut und kennt viele Methoden.  c) Sie kommt aus Äthiopien.
-3. Was ist laut Pavel das Beste, was die Barista macht?  a) Ein Espresso aus Brasilien.  b) Ein Filterkaffee aus Äthiopien.  c) Ein Cappuccino aus Berlin.
-4. Was soll Anna tun?  a) Eine Reservierung machen.  b) Pavel zurückrufen, wenn sie hingeht.  c) Das Café alleine besuchen.
+3. Was ist laut Pavel das Beste, was die Barista macht?  a) Ein Espresso aus Brasilien.  b) Ein Cappuccino aus Berlin.  c) Ein Filterkaffee aus Äthiopien.
+4. Was soll Anna tun?  a) Pavel zurückrufen, wenn sie hingeht.  b) Eine Reservierung machen.  c) Das Café alleine besuchen.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -223,10 +223,10 @@ Wähle das richtige Relativpronomen (a, b oder c).
 
 1. Das ist die App, ______ ich täglich nutze.  a) die  b) das  c) den
 2. Das sind Leute, ______ wir wirklich helfen können.  a) die  b) denen  c) dem
-3. Das ist das Stadtgebiet, ______ die Nachfrage am größten ist.  a) in der  b) in dem  c) in den
-4. Das Wichtigste, ______ wir brauchen, ist Ausdauer.  a) das  b) was  c) die
+3. Das ist das Stadtgebiet, ______ die Nachfrage am größten ist.  a) in der  b) in den  c) in dem
+4. Das Wichtigste, ______ wir brauchen, ist Ausdauer.  a) was  b) das  c) die
 5. Das ist die Stadt, ______ Pavel seit drei Jahren lebt.  a) die  b) wo  c) dem
-6. Das ist der Grund, ______ wir expandieren.  a) für dem  b) für den  c) für die
+6. Das ist der Grund, ______ wir expandieren.  a) für dem  b) für die  c) für den
 
 ## Übung B4 — Satzhälften verbinden — Relativsätze
 
@@ -277,10 +277,10 @@ Schreib eine Definition mit einem Relativsatz. 6 Sätze.
 
 Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c).
 
-1. Worauf konzentriert sich das Startup?  a) Auf das Stadtzentrum, das gut erschlossen ist.  b) Auf Stadtgebiete, in denen der öffentliche Nahverkehr unzureichend ist.  c) Auf Stadtgebiete, wo viele Autos fahren.
-2. Was unterscheidet das Startup von anderen Anbietern?  a) Der günstige Preis.  b) Die schnelle Lieferung.  c) Der Fokus auf Randbezirke.
-3. Was sagt das Startup über sein Team?  a) Das Team besteht aus internationalen Experten.  b) Das Team besteht aus Leuten, auf die man sich verlassen kann.  c) Das Team arbeitet nur in Berlin.
-4. Was ist das Beste, was die Nutzer über das Startup sagen?  a) Die App ist die günstigste auf dem Markt.  b) Endlich eine Lösung, die wirklich zum Alltag passt.  c) Das Startup kümmert sich um die Umwelt.
+1. Worauf konzentriert sich das Startup?  a) Auf Stadtgebiete, in denen der öffentliche Nahverkehr unzureichend ist.  b) Auf das Stadtzentrum, das gut erschlossen ist.  c) Auf Stadtgebiete, wo viele Autos fahren.
+2. Was unterscheidet das Startup von anderen Anbietern?  a) Der günstige Preis.  b) Der Fokus auf Randbezirke.  c) Die schnelle Lieferung.
+3. Was sagt das Startup über sein Team?  a) Das Team besteht aus internationalen Experten.  b) Das Team arbeitet nur in Berlin.  c) Das Team besteht aus Leuten, auf die man sich verlassen kann.
+4. Was ist das Beste, was die Nutzer über das Startup sagen?  a) Endlich eine Lösung, die wirklich zum Alltag passt.  b) Die App ist die günstigste auf dem Markt.  c) Das Startup kümmert sich um die Umwelt.
 
 ## Übung B9 — WhatsApp-Nachricht: Mein idealer Job
 
@@ -388,10 +388,10 @@ Bewerben Sie sich bei uns — in einem Team, dem Ihre Entwicklung am Herzen lieg
 Wähle a, b oder c.
 
 
-1. Was sucht die Sprachschule?  a) Eine Verwaltungskraft mit DaF-Erfahrung.  b) Eine Lehrkraft, die Freude am Unterrichten hat und DaF-Erfahrung mitbringt.  c) Einen Schulleiter mit internationalem Hintergrund.
-2. Was ist an dieser Schule besonders?  a) Die Schule hat nur deutschsprachige Lernende.  b) Die Schule liegt im Stadtzentrum.  c) Lernende aus über 40 Nationen lernen dort zusammen.
-3. Was kann die Schule nicht bieten?  a) Fortbildungen für Lehrkräfte.  b) Vollzeitbeschäftigung.  c) Unterrichtsmaterialien.
-4. Welcher Relativsatz im Text steht im Dativ?  a) eine engagierte Person, die Freude am Unterrichten hat  b) in einem Team, dem Ihre Entwicklung am Herzen liegt  c) Alles, was wir von Ihnen erwarten
+1. Was sucht die Sprachschule?  a) Eine Lehrkraft, die Freude am Unterrichten hat und DaF-Erfahrung mitbringt.  b) Eine Verwaltungskraft mit DaF-Erfahrung.  c) Einen Schulleiter mit internationalem Hintergrund.
+2. Was ist an dieser Schule besonders?  a) Die Schule hat nur deutschsprachige Lernende.  b) Lernende aus über 40 Nationen lernen dort zusammen.  c) Die Schule liegt im Stadtzentrum.
+3. Was kann die Schule nicht bieten?  a) Fortbildungen für Lehrkräfte.  b) Unterrichtsmaterialien.  c) Vollzeitbeschäftigung.
+4. Welcher Relativsatz im Text steht im Dativ?  a) in einem Team, dem Ihre Entwicklung am Herzen liegt  b) eine engagierte Person, die Freude am Unterrichten hat  c) Alles, was wir von Ihnen erwarten
 
 ## Übung C5 — Schreiben B1: Produktbeschreibung
 

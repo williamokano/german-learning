@@ -203,10 +203,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2 — Forumspost
 
-1. **c) 39 Grad Fieber und Halsschmerzen** — 39 Grad Fieber und Halsschmerzen — beides wird erwähnt.
+1. **a) 39 Grad Fieber und Halsschmerzen** — 39 Grad Fieber und Halsschmerzen — beides wird erwähnt.
 2. **b) zu Hause bleiben** — Die Ärztin: „Bleib zu Hause, trink viel Tee und nimm diese Tabletten."
-3. **b) nicht gearbeitet** — Ich habe auch eine Woche nicht gearbeitet.
-4. **b) Beim ersten Zeichen viel trinken und schlafen** — „Beim ersten Zeichen einer Erkältung sofort viel trinken und schlafen!"
+3. **c) nicht gearbeitet** — Ich habe auch eine Woche nicht gearbeitet.
+4. **a) Beim ersten Zeichen viel trinken und schlafen** — „Beim ersten Zeichen einer Erkältung sofort viel trinken und schlafen!"
 
 ## Übung C5 — Schreiben: Entschuldigung an die Lehrerin
 

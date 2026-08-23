@@ -102,31 +102,31 @@ exercises:
     items:
       - q: "Warum meldet Pavel sich für den Rösterkurs an?"
         options:
-          - { key: a, text: "Weil sein Chef es verlangt." }
-          - { key: b, text: "Um seinen eigenen Röstbetrieb zu gründen." }
+          - { key: a, text: "Um seinen eigenen Röstbetrieb zu gründen." }
+          - { key: b, text: "Weil sein Chef es verlangt." }
           - { key: c, text: "Um mehr Geld zu verdienen." }
-        answer: b
+        answer: a
         why: '"Ich habe vor, meine Ausbildung zu erweitern, um eines Tages einen eigenen Röstbetrieb zu gründen."'
       - q: "Wann beginnt der Kurs?"
         options:
           - { key: a, text: "Im Oktober." }
-          - { key: b, text: "Im August." }
-          - { key: c, text: "Im September." }
-        answer: c
+          - { key: b, text: "Im September." }
+          - { key: c, text: "Im August." }
+        answer: b
         why: '"Der Kurs beginnt im September."'
       - q: "Warum versucht Pavel, sein Deutsch zu verbessern?"
         options:
           - { key: a, text: "Weil er eine Prüfung ablegen muss." }
-          - { key: b, text: "Weil der Kurs komplett auf Deutsch ist." }
-          - { key: c, text: "Weil seine Mutter kein Tschechisch spricht." }
-        answer: b
+          - { key: b, text: "Weil seine Mutter kein Tschechisch spricht." }
+          - { key: c, text: "Weil der Kurs komplett auf Deutsch ist." }
+        answer: c
         why: '"Ich versuche auch, mein Deutsch zu verbessern, weil der Kurs komplett auf Deutsch ist."'
       - q: "Was hofft Pavel noch?"
         options:
-          - { key: a, text: "Einen neuen Job zu finden." }
-          - { key: b, text: "Die Aufnahmeprüfung zu bestehen." }
+          - { key: a, text: "Die Aufnahmeprüfung zu bestehen." }
+          - { key: b, text: "Einen neuen Job zu finden." }
           - { key: c, text: "Nach Brünn zurückzukehren." }
-        answer: b
+        answer: a
         why: '"Ich hoffe natürlich, die Aufnahmeprüfung zu bestehen."'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
@@ -566,31 +566,31 @@ exercises:
     items:
       - q: "Wofür bewirbt sich Pavel?"
         options:
-          - { key: a, text: "Für eine Stelle als Barista." }
-          - { key: b, text: "Für einen Kaffeeroaster-Kurs." }
+          - { key: a, text: "Für einen Kaffeeroaster-Kurs." }
+          - { key: b, text: "Für eine Stelle als Barista." }
           - { key: c, text: "Für ein Praktikum in einer Bäckerei." }
-        answer: b
+        answer: a
         why: '"Pavel Novák bewirbt sich um einen Platz in einem Kaffeeroaster-Kurs."'
       - q: "Was ist Pavels langfristiges Ziel?"
         options:
           - { key: a, text: "In einem Café in Prenzlauer Berg zu arbeiten." }
-          - { key: b, text: "Eine offizielle Zertifizierung zu bekommen." }
-          - { key: c, text: "Seinen eigenen Röstbetrieb zu gründen." }
-        answer: c
+          - { key: b, text: "Seinen eigenen Röstbetrieb zu gründen." }
+          - { key: c, text: "Eine offizielle Zertifizierung zu bekommen." }
+        answer: b
         why: '"Mein langfristiges Ziel ist es, meinen eigenen Röstbetrieb zu gründen."'
       - q: "Warum möchte Pavel die Zertifizierung?"
         options:
           - { key: a, text: "Um mehr Geld zu verdienen." }
-          - { key: b, text: "Damit seine Kunden wissen, dass seine Arbeit Standards entspricht." }
-          - { key: c, text: "Um die Ausbildung schneller abzuschließen." }
-        answer: b
+          - { key: b, text: "Um die Ausbildung schneller abzuschließen." }
+          - { key: c, text: "Damit seine Kunden wissen, dass seine Arbeit Standards entspricht." }
+        answer: c
         why: '"damit meine Kunden wissen, dass meine Arbeit geprüften Standards entspricht."'
       - q: "Was hat Pavel vor, außer dem Kurs zu machen?"
         options:
-          - { key: a, text: "Einen neuen Job zu suchen." }
-          - { key: b, text: "Regelmäßig an Branchenevents teilzunehmen." }
+          - { key: a, text: "Regelmäßig an Branchenevents teilzunehmen." }
+          - { key: b, text: "Einen neuen Job zu suchen." }
           - { key: c, text: "Nach Brünn zurückzukehren." }
-        answer: b
+        answer: a
         why: '"Ich habe außerdem vor, regelmäßig an Branchenevents teilzunehmen."'
 
   - id: B9
@@ -786,10 +786,10 @@ exercises:
     items:
       - q: "Für wen ist der Kurs geeignet?"
         options:
-          - { key: a, text: "Für Anfänger ohne Erfahrung." }
-          - { key: b, text: "Für erfahrene Baristas." }
+          - { key: a, text: "Für erfahrene Baristas." }
+          - { key: b, text: "Für Anfänger ohne Erfahrung." }
           - { key: c, text: "Für Studenten der Lebensmitteltechnologie." }
-        answer: b
+        answer: a
         why: '"Der Kurs richtet sich an erfahrene Baristas."'
       - q: "Warum findet der Kurs in kleinen Gruppen statt?"
         options:
@@ -801,16 +801,16 @@ exercises:
       - q: "Was empfiehlt die Akademie bezüglich der Bewerbung?"
         options:
           - { key: a, text: "Sich direkt am ersten Tag des Kurses anzumelden." }
-          - { key: b, text: "Sich mindestens drei Monate im Voraus zu bewerben." }
-          - { key: c, text: "Eine Warteliste zu kontaktieren." }
-        answer: b
+          - { key: b, text: "Eine Warteliste zu kontaktieren." }
+          - { key: c, text: "Sich mindestens drei Monate im Voraus zu bewerben." }
+        answer: c
         why: '"Wir empfehlen Ihnen, sich mindestens drei Monate im Voraus zu bewerben."'
       - q: "Was müssen Teilnehmer tun, um den Kurs erfolgreich abzuschließen?"
         options:
-          - { key: a, text: "Einen Lebenslauf einreichen." }
+          - { key: a, text: "Eine Abschlussprüfung ablegen." }
           - { key: b, text: "Fünf Röstprofile entwickeln." }
-          - { key: c, text: "Eine Abschlussprüfung ablegen." }
-        answer: c
+          - { key: c, text: "Einen Lebenslauf einreichen." }
+        answer: a
         why: '"ist eine Abschlussprüfung abzulegen."'
 
   - id: C5

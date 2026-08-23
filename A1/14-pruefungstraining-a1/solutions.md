@@ -20,11 +20,11 @@
 
 ## Übung exam-H3 — Aufgabe 3 — Kurze Ansagen
 
-1. **b) Gleis 7** — Der Zug fährt von Gleis 7 ab — nicht Gleis 5 (das alte Gleis).
+1. **a) Gleis 7** — Der Zug fährt von Gleis 7 ab — nicht Gleis 5 (das alte Gleis).
 2. **b) Von 9 bis 18 Uhr** — Samstags von 9 bis 18 Uhr (Mo–Fr 9–20, So geschlossen).
-3. **b) 0,99 €** — Neunundneunzig Cent = 0,99 €.
-4. **b) Die Lehrerin ist krank.** — Frau Hoffmann ist krank — deshalb kein Kurs heute.
-5. **c) 6 Euro** — Eintritt: sechs Euro. Kinder unter 12 Jahren zahlen nichts.
+3. **c) 0,99 €** — Neunundneunzig Cent = 0,99 €.
+4. **a) Die Lehrerin ist krank.** — Frau Hoffmann ist krank — deshalb kein Kurs heute.
+5. **b) 6 Euro** — Eintritt: sechs Euro. Kinder unter 12 Jahren zahlen nichts.
 
 ## Übung exam-L4 — Aufgabe 4 — Anzeigen und Aushänge
 

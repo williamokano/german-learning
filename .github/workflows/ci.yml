@@ -40,8 +40,14 @@ jobs:
       - name: Assert exercises.md/solutions.md are in sync with exercises.yml
         run: npx --yes tsx build/gen-exercises.ts --all --check
 
+      - name: Check single-choice answer-letter balance
+        run: npx --yes tsx build/check-answer-balance.ts --all
+
       - name: Validate vocab.yml and assert no needsReview markers remain
         run: npx --yes tsx build/import-vocab.ts --all --check
+
+      - name: Typecheck
+        run: pnpm -C web typecheck
 
       - name: Run unit tests
         run: pnpm -C web test

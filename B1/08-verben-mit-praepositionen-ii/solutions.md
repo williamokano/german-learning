@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Für digitales Projektmanagement und internationale Teamarbeit.** — Anna: "Ich interessiere mich sehr für digitales Projektmanagement und für internationale Teamarbeit."
+1. **a) Für digitales Projektmanagement und internationale Teamarbeit.** — Anna: "Ich interessiere mich sehr für digitales Projektmanagement und für internationale Teamarbeit."
 2. **b) Auf klare Strukturen und frühe Prioritätensetzung.** — Anna: "Ich verlasse mich darauf, klare Strukturen zu haben. Ich achte immer darauf, Prioritäten früh zu setzen."
 3. **c) Davon, wie gut sich die Teammitglieder aufeinander verlassen können.** — Anna: "Der Erfolg hängt vor allem davon ab, wie gut sich die Teammitglieder aufeinander verlassen können."
-4. **b) Weil sie sich um einen Umzug kümmern musste.** — Anna: "ich bin leider nicht dazu gekommen, das Gespräch zu führen — ich musste mich damals um einen Umzug kümmern."
+4. **a) Weil sie sich um einen Umzug kümmern musste.** — Anna: "ich bin leider nicht dazu gekommen, das Gespräch zu führen — ich musste mich damals um einen Umzug kümmern."
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -106,12 +106,12 @@
 
 ## Übung B2 — Person oder Sache? Richtige Form wählen
 
-1. **b) Auf wen** — Person (Bruder) → Auf wen? Not worauf (things only).
+1. **a) Auf wen** — Person (Bruder) → Auf wen? Not worauf (things only).
 2. **b) Worauf** — Thing (Zug) → Worauf? Not auf wen (persons only).
-3. **b) an sie** — Person (Mutter) → Präp + Pronomen: an sie. Daran is for things.
-4. **c) daran** — Thing (Urlaub) → Pronominaladverb: daran.
+3. **c) an sie** — Person (Mutter) → Präp + Pronomen: an sie. Daran is for things.
+4. **a) daran** — Thing (Urlaub) → Pronominaladverb: daran.
 5. **b) Mit wem** — Frau Weber is a person → Mit wem? Womit = with what (thing).
-6. **b) Womit** — Thing (Bericht) → Womit? Mit wem = with whom (person).
+6. **c) Womit** — Thing (Bericht) → Womit? Mit wem = with whom (person).
 
 ## Übung B3 — Finde den Fehler — Pronominaladverbien
 

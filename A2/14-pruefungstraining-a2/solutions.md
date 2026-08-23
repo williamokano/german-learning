@@ -20,10 +20,10 @@
 
 ## Übung exam-H3 — Aufgabe 3 — Kurze Ansagen
 
-1. **b) 20 Minuten** — "circa zwanzig Minuten Verspätung"
+1. **a) 20 Minuten** — "circa zwanzig Minuten Verspätung"
 2. **b) Montags bis samstags von 9 bis 18 Uhr** — Mo–Sa geöffnet, Sonntags geschlossen — nicht täglich.
-3. **b) Äpfel und Lachs** — "Frische Äpfel … frischen Lachs aus Norwegen"
-4. **c) Sonnig** — "Am Nachmittag kommt dann die Sonne heraus."
+3. **c) Äpfel und Lachs** — "Frische Äpfel … frischen Lachs aus Norwegen"
+4. **a) Sonnig** — "Am Nachmittag kommt dann die Sonne heraus."
 5. **b) Bis zum 25. Februar** — "Bitte melden Sie sich bis zum 25. Februar an." (3. März = Kursbeginn)
 
 ## Übung exam-L4 — Aufgabe 4 — Anzeigen zuordnen
@@ -45,8 +45,8 @@
 ## Übung exam-L7 — Aufgabe 7 — E-Mail ergänzen
 
 1. **a) dir** — gehen + Dativ: "Wie geht es dir?" — fester Ausdruck.
-2. **a) ob** — Indirekte Ja/Nein-Frage → ob (Verb am Ende).
-3. **a) die** — Hotels = Plural, Nom. Relativpronomen → die.
+2. **b) ob** — Indirekte Ja/Nein-Frage → ob (Verb am Ende).
+3. **c) die** — Hotels = Plural, Nom. Relativpronomen → die.
 4. **a) weil** — Grund → weil (Verb ans Ende: "weil ich Kunst … liebe").
 5. **b) denkst** — Subjekt du (2. Pers. Sg.) → denkst.
 

@@ -19,10 +19,10 @@
 
 ## Übung H4 — Kurze Ansage: Anmeldung Goethe B1 — Prüfungsinformation
 
-1. **b) Am Samstag, dem 28. Juni um 9 Uhr.** — "Ihre Goethe B1-Prüfung findet am Samstag, dem 28. Juni 2026, um 9 Uhr statt."
-2. **c) Mindestens 15 Minuten vorher.** — "Bitte erscheinen Sie mindestens 15 Minuten vorher."
-3. **b) Einen Personalausweis oder Reisepass.** — "Bringen Sie bitte Ihren Personalausweis oder Reisepass mit — andere Dokumente werden nicht akzeptiert."
-4. **b) Wenn man die Anmeldebestätigung noch nicht erhalten hat.** — "Bitte rufen Sie uns zurück, wenn Sie Ihre Anmeldebestätigung noch nicht erhalten haben."
+1. **a) Am Samstag, dem 28. Juni um 9 Uhr.** — "Ihre Goethe B1-Prüfung findet am Samstag, dem 28. Juni 2026, um 9 Uhr statt."
+2. **b) Mindestens 15 Minuten vorher.** — "Bitte erscheinen Sie mindestens 15 Minuten vorher."
+3. **c) Einen Personalausweis oder Reisepass.** — "Bringen Sie bitte Ihren Personalausweis oder Reisepass mit — andere Dokumente werden nicht akzeptiert."
+4. **a) Wenn man die Anmeldebestätigung noch nicht erhalten hat.** — "Bitte rufen Sie uns zurück, wenn Sie Ihre Anmeldebestätigung noch nicht erhalten haben."
 
 ---
 
@@ -89,10 +89,10 @@
 
 ## Übung B2 — Sprachbausteine — B1/02 obwohl / trotzdem
 
-1. **b) obwohl** — 'obwohl' (although) introduces a subordinate clause — verb goes to the end.
-2. **c) Trotzdem** — 'Trotzdem' (nevertheless) is an adverb — triggers subject-verb inversion.
-3. **b) Obwohl** — 'Obwohl' starts a subordinate clause (verb at end).
-4. **b) Trotzdem** — 'Trotzdem' (nevertheless) connects two main clauses as an adverb.
+1. **a) obwohl** — 'obwohl' (although) introduces a subordinate clause — verb goes to the end.
+2. **b) Trotzdem** — 'Trotzdem' (nevertheless) is an adverb — triggers subject-verb inversion.
+3. **c) Obwohl** — 'Obwohl' starts a subordinate clause (verb at end).
+4. **a) Trotzdem** — 'Trotzdem' (nevertheless) connects two main clauses as an adverb.
 
 ## Übung B3 — Sprachbausteine — B1/03 Konjunktiv II
 

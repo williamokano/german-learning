@@ -398,10 +398,10 @@ Richtig (R) oder falsch (F)?
 Choose a, b, or c.
 
 
-1. Was wird am 5. August gefeiert? — What is being celebrated on August 5th?  a) Ein Geburtstag  b) Eine Hochzeit  c) Ostern
-2. Wo findet die Feier statt? — Where is the celebration taking place?  a) Zu Hause  b) Im Park  c) Im Restaurant
-3. Um wie viel Uhr beginnt die Veranstaltung? — At what time does the event start?  a) Um 12 Uhr  b) Um 15 Uhr  c) Um 20 Uhr
-4. Bis wann muss man antworten? — By when does one have to reply?  a) Bis zum 5. August  b) Bis zum 20. Juli  c) Bis zum 12. August
+1. Was wird am 5. August gefeiert? — What is being celebrated on August 5th?  a) Eine Hochzeit  b) Ein Geburtstag  c) Ostern
+2. Wo findet die Feier statt? — Where is the celebration taking place?  a) Zu Hause  b) Im Restaurant  c) Im Park
+3. Um wie viel Uhr beginnt die Veranstaltung? — At what time does the event start?  a) Um 12 Uhr  b) Um 20 Uhr  c) Um 15 Uhr
+4. Bis wann muss man antworten? — By when does one have to reply?  a) Bis zum 20. Juli  b) Bis zum 5. August  c) Bis zum 12. August
 
 ## Übung C5 — Schreiben: kurze Einladung
 

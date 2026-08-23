@@ -415,12 +415,12 @@ Die Hausregeln (9) ______ einfach: Man spült das Geschirr sofort, und jeder
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Sie (1) ______ im zweiten Stock.  a) liegt  b) steht  c) hängt
+1. Sie (1) ______ im zweiten Stock.  a) steht  b) liegt  c) hängt
 2. Das Sofa (2) ______ jetzt vor dem Fernseher.  a) liegt  b) steht  c) hängt
-3. Ich habe den Schreibtisch (3) ______ Fenster gestellt.  a) am  b) ans  c) in
-4. Die Bücher (4) ______ schon im Regal.  a) liegen  b) stehen  c) hängen
-5. Meine Jacken hänge ich (5) ______ den Haken im Flur.  a) an  b) auf  c) über
-6. Es ist noch nicht alles fertig, aber ich bin schon (6) ______ der neuen Wohnung sehr zufrieden.  a) in  b) mit  c) über
+3. Ich habe den Schreibtisch (3) ______ Fenster gestellt.  a) am  b) in  c) ans
+4. Die Bücher (4) ______ schon im Regal.  a) stehen  b) liegen  c) hängen
+5. Meine Jacken hänge ich (5) ______ den Haken im Flur.  a) auf  b) an  c) über
+6. Es ist noch nicht alles fertig, aber ich bin schon (6) ______ der neuen Wohnung sehr zufrieden.  a) in  b) über  c) mit
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 

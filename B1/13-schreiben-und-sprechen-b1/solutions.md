@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Sprachkurs-Anmeldung
 
-1. **b) Bis Freitag, den 20. Juni.** — "die Anmeldung … noch bis Freitag, den 20. Juni möglich ist."
+1. **a) Bis Freitag, den 20. Juni.** — "die Anmeldung … noch bis Freitag, den 20. Juni möglich ist."
 2. **b) Dienstags und donnerstags.** — "findet jeweils dienstags und donnerstags … statt."
-3. **b) Einen Ausweis und einen Stift.** — "Bitte bring beim ersten Termin deinen Ausweis und einen Stift mit."
-4. **c) 180 Euro.** — "Die Kursgebühr beträgt 180 Euro."
+3. **c) Einen Ausweis und einen Stift.** — "Bitte bring beim ersten Termin deinen Ausweis und einen Stift mit."
+4. **a) 180 Euro.** — "Die Kursgebühr beträgt 180 Euro."
 
 ---
 
@@ -134,10 +134,10 @@
 
 ## Übung B8 — Leseverstehen: Forenbeitrag (Lesetext §7)
 
-1. **b) Großstädte bieten mehr Möglichkeiten, als man auf den ersten Blick sieht.** — "Meiner Meinung nach bieten Großstädte mehr Möglichkeiten, als man auf den ersten Blick sieht."
-2. **c) Die Lebenshaltungskosten sind deutlich höher.** — "Allerdings sind die Lebenshaltungskosten in einer Großstadt deutlich höher."
-3. **b) Für einige Jahre.** — "zumindest für einige Jahre"
-4. **b) Themenaussage, Begründung, Konzession, Fazit und Call to action.** — All five elements are present: Themenaussage (Meinung), Begründung (Vorteile), Konzession (Allerdings), Fazit (Insgesamt), Call to action (Was meinen Sie?).
+1. **a) Großstädte bieten mehr Möglichkeiten, als man auf den ersten Blick sieht.** — "Meiner Meinung nach bieten Großstädte mehr Möglichkeiten, als man auf den ersten Blick sieht."
+2. **b) Die Lebenshaltungskosten sind deutlich höher.** — "Allerdings sind die Lebenshaltungskosten in einer Großstadt deutlich höher."
+3. **c) Für einige Jahre.** — "zumindest für einige Jahre"
+4. **a) Themenaussage, Begründung, Konzession, Fazit und Call to action.** — All five elements are present: Themenaussage (Meinung), Begründung (Vorteile), Konzession (Allerdings), Fazit (Insgesamt), Call to action (Was meinen Sie?).
 
 ## Übung B9 — Forenbeitrag schreiben: Homeoffice
 
@@ -167,12 +167,12 @@ Selbstkorrektur:
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-1. **b) bezüglich** — 'bezüglich' (+ Genitiv) is the standard formal opening: Ich schreibe Ihnen bezüglich …
-2. **a) wünschen** — Fixed phrase: 'zu wünschen übrig lassen' — the infinitive 'wünschen' is required here.
-3. **b) daher** — 'daher' (therefore) is the standard connector before the request in formal complaints. 'deshalb' is also possible but 'daher' is more formal.
-4. **b) Insgesamt** — 'Insgesamt' (overall / all in all) introduces the final assessment in a presentation or forum post.
+1. **a) bezüglich** — 'bezüglich' (+ Genitiv) is the standard formal opening: Ich schreibe Ihnen bezüglich …
+2. **b) wünschen** — Fixed phrase: 'zu wünschen übrig lassen' — the infinitive 'wünschen' is required here.
+3. **c) daher** — 'daher' (therefore) is the standard connector before the request in formal complaints. 'deshalb' is also possible but 'daher' is more formal.
+4. **a) Insgesamt** — 'Insgesamt' (overall / all in all) introduces the final assessment in a presentation or forum post.
 5. **b) weil** — 'weil' introduces a subordinate clause (verb at end). 'wegen' takes Genitiv + noun phrase, not a clause.
-6. **b) Damen** — The fixed formula is 'Sehr geehrte Damen und Herren,' — plural Damen is required.
+6. **c) Damen** — The fixed formula is 'Sehr geehrte Damen und Herren,' — plural Damen is required.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
@@ -188,10 +188,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Leseverstehen: Neue Beschwerdemail (neuer Text)
 
-1. **b) Er hat das falsche Produkt erhalten.** — "ich schreibe Ihnen bezüglich meiner Bestellung … ich habe statt des bestellten Laptops ein völlig anderes Gerät erhalten."
+1. **a) Er hat das falsche Produkt erhalten.** — "ich schreibe Ihnen bezüglich meiner Bestellung … ich habe statt des bestellten Laptops ein völlig anderes Gerät erhalten."
 2. **b) Es war das falsche Gerät und bereits benutzt.** — "statt des bestellten Laptops ein völlig anderes Gerät … bereits benutzt und wies deutliche Gebrauchsspuren auf."
-3. **b) Eine vollständige Rückerstattung.** — "Falls dies nicht möglich ist, bitte ich um eine vollständige Rückerstattung des Kaufpreises."
-4. **c) Bis zum 25. Juni.** — "Ich erwarte Ihre Rückmeldung bis zum 25. Juni 2026."
+3. **c) Eine vollständige Rückerstattung.** — "Falls dies nicht möglich ist, bitte ich um eine vollständige Rückerstattung des Kaufpreises."
+4. **a) Bis zum 25. Juni.** — "Ich erwarte Ihre Rückmeldung bis zum 25. Juni 2026."
 
 ## Übung C5 — Schreiben: Formelle Beschwerdemail
 

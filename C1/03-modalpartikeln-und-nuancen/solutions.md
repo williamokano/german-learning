@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell — Telefonat)
 
-1. **b) Sie ist die Senior-Partnerin und erkundigt sich nach dem Schriftsatz.** — Frau Hoffmann ist Senior-Partnerin der Kanzlei und ruft Tomáš an, um den Stand des Schriftsatzes zu erfahren.
+1. **a) Sie ist die Senior-Partnerin und erkundigt sich nach dem Schriftsatz.** — Frau Hoffmann ist Senior-Partnerin der Kanzlei und ruft Tomáš an, um den Stand des Schriftsatzes zu erfahren.
 2. **b) Heute Nachmittag.** — Tomáš: „Ich würde Ihnen das Manuskript gern heute Nachmittag zukommen lassen".
-3. **b) Eine kurze Zusammenfassung mit den Kernthesen.** — Frau Hoffmann: „Könnten Sie mir bis 16 Uhr eine kurze Zusammenfassung mit den Kernthesen mailen?".
-4. **b) Ob der Ton des Schriftsatzes sachlich oder locker sein soll.** — Tomáš: „Die Mandantin hatte ja ursprünglich einen anderen Ton gewünscht — sollen wir den jetzt beibehalten oder eher zurücknehmen?".
+3. **c) Eine kurze Zusammenfassung mit den Kernthesen.** — Frau Hoffmann: „Könnten Sie mir bis 16 Uhr eine kurze Zusammenfassung mit den Kernthesen mailen?".
+4. **a) Ob der Ton des Schriftsatzes sachlich oder locker sein soll.** — Tomáš: „Die Mandantin hatte ja ursprünglich einen anderen Ton gewünscht — sollen wir den jetzt beibehalten oder eher zurücknehmen?".
 
 ## Übung H3 — Hörtext-Lückentext: Ein Podcast über Sprache und Höflichkeit
 
@@ -27,8 +27,8 @@
 
 1. **a) Eine Sprachschule.** — „Sie haben die Sprachschule Lingua Viva erreicht".
 2. **b) Wegen einer internen Fortbildung.** — „Aufgrund einer internen Fortbildung ist unsere telefonische Erreichbarkeit derzeit eingeschränkt".
-3. **b) Seinen Namen, seine Telefonnummer und das gewünschte Sprachniveau.** — „Bitte hinterlassen Sie Ihren Namen, Ihre Telefonnummer und das gewünschte Sprachniveau".
-4. **b) 030-44 55 66.** — „Für Anfragen zu unseren C1-Kursen wenden Sie sich bitte an die Hotline 030-44 55 66".
+3. **c) Seinen Namen, seine Telefonnummer und das gewünschte Sprachniveau.** — „Bitte hinterlassen Sie Ihren Namen, Ihre Telefonnummer und das gewünschte Sprachniveau".
+4. **a) 030-44 55 66.** — „Für Anfragen zu unseren C1-Kursen wenden Sie sich bitte an die Hotline 030-44 55 66".
 
 ## Übung H5 — Tabelle ausfüllen: Dialog B (Telefonat Schriftsatz)
 

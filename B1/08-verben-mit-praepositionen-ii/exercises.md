@@ -24,10 +24,10 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Wofür interessiert sich Anna laut Dialog B?  a) Für Finanzprojekte und Buchhaltung.  b) Für digitales Projektmanagement und internationale Teamarbeit.  c) Für Marketing und Social Media.
+1. Wofür interessiert sich Anna laut Dialog B?  a) Für digitales Projektmanagement und internationale Teamarbeit.  b) Für Finanzprojekte und Buchhaltung.  c) Für Marketing und Social Media.
 2. Worauf verlässt sich Anna, wenn sie unter Druck arbeitet?  a) Auf ihr Netzwerk und ihre Kontakte.  b) Auf klare Strukturen und frühe Prioritätensetzung.  c) Auf ihre Erfahrung in der Buchhaltung.
 3. Wovon hängt laut Anna der Erfolg eines Projekts ab?  a) Von einem großen Budget.  b) Von den technischen Werkzeugen.  c) Davon, wie gut sich die Teammitglieder aufeinander verlassen können.
-4. Warum hatte Anna das Vorstellungsgespräch für die frühere Stelle nicht führen können?  a) Weil sie keine Erfahrung hatte.  b) Weil sie sich um einen Umzug kümmern musste.  c) Weil die Stelle bereits besetzt war.
+4. Warum hatte Anna das Vorstellungsgespräch für die frühere Stelle nicht führen können?  a) Weil sie sich um einen Umzug kümmern musste.  b) Weil sie keine Erfahrung hatte.  c) Weil die Stelle bereits besetzt war.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -250,12 +250,12 @@ Tomáš: Ich träume (8) ______, einen Film wie diesen selbst zu drehen. (von)
 
 Choose the correct form (a, b, or c).
 
-1. _____ wartest du? — Auf meinen Bruder.  a) Worauf  b) Auf wen  c) Auf was
+1. _____ wartest du? — Auf meinen Bruder.  a) Auf wen  b) Worauf  c) Auf was
 2. _____ wartest du? — Auf den nächsten Zug.  a) Auf wen  b) Worauf  c) Was
-3. Ich denke an meine Mutter. → Ich denke _____.  a) daran  b) an sie  c) daran sie
-4. Ich denke an den Urlaub. → Ich denke _____.  a) an es  b) an ihn  c) daran
+3. Ich denke an meine Mutter. → Ich denke _____.  a) daran  b) daran sie  c) an sie
+4. Ich denke an den Urlaub. → Ich denke _____.  a) daran  b) an ihn  c) an es
 5. _____ sprichst du? — Mit Frau Weber. (mit wem oder womit?)  a) Womit  b) Mit wem  c) Worüber
-6. _____ beschäftigst du dich? — Mit dem Bericht.  a) Mit wem  b) Womit  c) Worum
+6. _____ beschäftigst du dich? — Mit dem Bericht.  a) Mit wem  b) Worum  c) Womit
 
 ## Übung B3 — Finde den Fehler — Pronominaladverbien
 

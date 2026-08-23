@@ -26,9 +26,9 @@
 ## Übung H4 — Kurze Ansage: Nachricht aus dem Sekretariat
 
 1. **a) Um die Sitzung am Donnerstag.** — „Es geht um die Sitzung am Donnerstag".
-2. **a) Die Frage des neuen Lieferanten.** — „die Frage des neuen Lieferanten unbedingt zur Sprache kommen soll".
-3. **a) Seine Unterlagen zur Verfügung stellen.** — „stellen Sie uns Ihre Unterlagen vorher zur Verfügung".
-4. **b) Nein, sie kommt nicht in Frage.** — „Eine Verschiebung der Sitzung kommt leider nicht in Frage".
+2. **b) Die Frage des neuen Lieferanten.** — „die Frage des neuen Lieferanten unbedingt zur Sprache kommen soll".
+3. **c) Seine Unterlagen zur Verfügung stellen.** — „stellen Sie uns Ihre Unterlagen vorher zur Verfügung".
+4. **a) Nein, sie kommt nicht in Frage.** — „Eine Verschiebung der Sitzung kommt leider nicht in Frage".
 
 ---
 

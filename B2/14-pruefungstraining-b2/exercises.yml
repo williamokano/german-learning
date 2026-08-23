@@ -132,10 +132,10 @@ exercises:
       - q: "Wie viel Verspätung hat der ICE 78 nach Hamburg?"
         audio: aufgabe3_ansage1.mp3
         options:
-          - { key: a, text: "Etwa 15 Minuten" }
-          - { key: b, text: "Etwa 25 Minuten" }
+          - { key: a, text: "Etwa 25 Minuten" }
+          - { key: b, text: "Etwa 15 Minuten" }
           - { key: c, text: "Etwa 35 Minuten" }
-        answer: b
+        answer: a
         why: '"circa 25 Minuten Verspätung"'
       - q: "Wann öffnet das Stadtmuseum morgen?"
         audio: aufgabe3_ansage2.mp3
@@ -149,17 +149,17 @@ exercises:
         audio: aufgabe3_ansage3.mp3
         options:
           - { key: a, text: "Eine Lesung mit dem Autor Ferdinand Klein" }
-          - { key: b, text: "Eine Signierstunde mit der Autorin Eva Nowak" }
-          - { key: c, text: "Ein Konzert mit der Band Quartett Plus" }
-        answer: b
+          - { key: b, text: "Ein Konzert mit der Band Quartett Plus" }
+          - { key: c, text: "Eine Signierstunde mit der Autorin Eva Nowak" }
+        answer: c
         why: '"Heute Abend liest die Autorin Eva Nowak aus ihrem neuen Roman."'
       - q: "Wo findet das Treffen der Wandergruppe statt?"
         audio: aufgabe3_ansage4.mp3
         options:
-          - { key: a, text: "Am Hauptbahnhof" }
+          - { key: a, text: "Am Wanderparkplatz am Stadtrand" }
           - { key: b, text: "Am Marktplatz vor dem Rathaus" }
-          - { key: c, text: "Am Wanderparkplatz am Stadtrand" }
-        answer: c
+          - { key: c, text: "Am Hauptbahnhof" }
+        answer: a
         why: '"Treffpunkt ist um 9 Uhr am Wanderparkplatz am Stadtrand."'
       - q: "Wie lange ist die Bibliothek am Samstag geöffnet?"
         audio: aufgabe3_ansage5.mp3
@@ -414,18 +414,18 @@ exercises:
 
       - q: "Die Probandinnen und Probanden _______ (2) im Durchschnitt 23 Prozent besser ab."
         options:
-          - { key: a, text: "schnitten" }
-          - { key: b, text: "schnitteten" }
+          - { key: a, text: "schnitteten" }
+          - { key: b, text: "schnitten" }
           - { key: c, text: "haben geschnitten" }
-        answer: a
+        answer: b
         why: 'Präteritum von *abschneiden* ist *schnitt(en) ab* — starkes Verb (schneiden → schnitt), Plural *schnitten*.'
 
       - q: "Die Forscherinnen und Forscher führen das _______ (3), dass im Schlaf Vokabeln verfestigt werden."
         options:
           - { key: a, text: "darüber zurück" }
-          - { key: b, text: "darauf zurück" }
-          - { key: c, text: "daran zurück" }
-        answer: b
+          - { key: b, text: "daran zurück" }
+          - { key: c, text: "darauf zurück" }
+        answer: c
         why: '„zurückführen auf + Akk." → Pronominaladverb *darauf* (Sache).'
 
       - q: "Insbesondere die Tiefschlafphasen _______ (4) dabei von Bedeutung zu sein."
@@ -438,18 +438,18 @@ exercises:
 
       - q: "Die Autorinnen und Autoren empfehlen, neue Lerninhalte kurz _______ (5) dem Schlafengehen zu wiederholen."
         options:
-          - { key: a, text: "vor" }
-          - { key: b, text: "bevor" }
+          - { key: a, text: "bevor" }
+          - { key: b, text: "vor" }
           - { key: c, text: "während" }
-        answer: a
+        answer: b
         why: 'Präposition *vor* + Dativ: *vor dem Schlafengehen*.'
 
       - q: "So _______ (6) die Konsolidierung unterstützt."
         options:
-          - { key: a, text: "wird" }
+          - { key: a, text: "worden" }
           - { key: b, text: "wurde" }
-          - { key: c, text: "worden" }
-        answer: a
+          - { key: c, text: "wird" }
+        answer: c
         why: 'Generelles Statement (Präsens) → Passiv Präsens: *wird … unterstützt*.'
 
 

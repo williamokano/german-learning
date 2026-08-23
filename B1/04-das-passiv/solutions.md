@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Alle monatlichen Berichte werden automatisch erstellt.** — Frau Weber: "Ab nächsten Monat werden alle monatlichen Berichte automatisch erstellt."
+1. **a) Alle monatlichen Berichte werden automatisch erstellt.** — Frau Weber: "Ab nächsten Monat werden alle monatlichen Berichte automatisch erstellt."
 2. **b) Alle Zahlen im Bericht vor der Freigabe.** — Frau Weber: "Alle Zahlen müssen vorher von Ihnen überprüft werden."
 3. **c) Bis zum 5. jedes Monats.** — Frau Weber: "Er muss bis zum 5. jedes Monats abgeschlossen ... werden."
-4. **b) Ja, alle Teams sind bereits benachrichtigt worden.** — Frau Weber: "Ja, alle Teams sind bereits benachrichtigt worden."
+4. **a) Ja, alle Teams sind bereits benachrichtigt worden.** — Frau Weber: "Ja, alle Teams sind bereits benachrichtigt worden."
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Bahnhofsdurchsage
 
-1. **b) Die Abfahrt wird um 15 Minuten verschoben.** — "Die Abfahrt des ICE 743 nach München wird um 15 Minuten verschoben."
-2. **c) Auf Gleis 7.** — "Der Zug wird jetzt auf Gleis 7 bereitgestellt."
-3. **b) Gleis 5 wird wegen Bauarbeiten gesperrt.** — "Gleis 5 wird wegen Bauarbeiten gesperrt."
-4. **b) Auf den IC 280 umsteigen.** — "Reisende nach Frankfurt werden gebeten, auf den IC 280 umzusteigen."
+1. **a) Die Abfahrt wird um 15 Minuten verschoben.** — "Die Abfahrt des ICE 743 nach München wird um 15 Minuten verschoben."
+2. **b) Auf Gleis 7.** — "Der Zug wird jetzt auf Gleis 7 bereitgestellt."
+3. **c) Gleis 5 wird wegen Bauarbeiten gesperrt.** — "Gleis 5 wird wegen Bauarbeiten gesperrt."
+4. **a) Auf den IC 280 umsteigen.** — "Reisende nach Frankfurt werden gebeten, auf den IC 280 umzusteigen."
 
 ---
 
@@ -138,10 +138,10 @@
 
 ## Übung B8 — Leseverstehen: Lesetext — Passivformen verstehen
 
-1. **b) Aus mehreren Ländern.** — Text: Lithium und Kobalt werden aus mehreren Ländern importiert.
+1. **a) Aus mehreren Ländern.** — Text: Lithium und Kobalt werden aus mehreren Ländern importiert.
 2. **b) Von Robotern.** — Text: Sie werden von Robotern zusammengesetzt.
 3. **c) Die Batteriekapazität.** — Text: Seit 2020 ist die Batteriekapazität erheblich gesteigert worden.
-4. **b) Erst wenn alle Prüfungen bestanden worden sind.** — Text: Erst wenn alle Prüfungen bestanden worden sind, darf das Fahrzeug das Werk verlassen.
+4. **a) Erst wenn alle Prüfungen bestanden worden sind.** — Text: Erst wenn alle Prüfungen bestanden worden sind, darf das Fahrzeug das Werk verlassen.
 
 ## Übung B9 — E-Mail: Einen Arbeitsprozess beschreiben
 
@@ -185,10 +185,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Leseverstehen Teil 2: Regeln im Museum
 
-1. **b) Das Fotografieren.** — Text: Im Museum darf nicht fotografiert werden.
-2. **c) Jeden Samstag um 10 Uhr.** — Text: Kinderführungen werden jeden Samstag um 10 Uhr angeboten.
-3. **b) Der Eingang des Museums.** — Text: Der Eingang des Museums wurde 2023 renoviert.
-4. **b) Sich mindestens zwei Wochen vorher anmelden.** — Text: Gruppen von mehr als 15 Personen werden gebeten, sich mindestens zwei Wochen vorher anzumelden.
+1. **a) Das Fotografieren.** — Text: Im Museum darf nicht fotografiert werden.
+2. **b) Jeden Samstag um 10 Uhr.** — Text: Kinderführungen werden jeden Samstag um 10 Uhr angeboten.
+3. **c) Der Eingang des Museums.** — Text: Der Eingang des Museums wurde 2023 renoviert.
+4. **a) Sich mindestens zwei Wochen vorher anmelden.** — Text: Gruppen von mehr als 15 Personen werden gebeten, sich mindestens zwei Wochen vorher anzumelden.
 
 ## Übung C5 — Schreiben: Forenbeitrag über Prozesse
 

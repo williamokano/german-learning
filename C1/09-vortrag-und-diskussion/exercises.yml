@@ -745,10 +745,10 @@ exercises:
     items:
       - q: 'Welche höfliche Bitte ist grammatisch korrekt?'
         options:
-          - { key: a, text: 'Ich würde Sie bitten zu beginnen Sie.' }
-          - { key: b, text: 'Ich würde Sie bitten, zu beginnen.' }
+          - { key: a, text: 'Ich würde Sie bitten, zu beginnen.' }
+          - { key: b, text: 'Ich würde Sie bitten zu beginnen Sie.' }
           - { key: c, text: 'Ich würde Sie bitten, beginnen.' }
-        answer: b
+        answer: a
         why: '„bitten" + Komma + „zu"-Infinitiv: „Ich würde Sie bitten, zu beginnen."'
       - q: 'Welcher Satz nach „zwar" ist korrekt (Inversion)?'
         options:
@@ -760,9 +760,9 @@ exercises:
       - q: 'Welcher Konnektor ist korrekt verwendet?'
         options:
           - { key: a, text: 'Forschung sollte zugänglich sein, zumal weil sie öffentlich finanziert wird.' }
-          - { key: b, text: 'Forschung sollte zugänglich sein, zumal sie öffentlich finanziert wird.' }
-          - { key: c, text: 'Forschung sollte zugänglich sein, zumal dass sie öffentlich finanziert wird.' }
-        answer: b
+          - { key: b, text: 'Forschung sollte zugänglich sein, zumal dass sie öffentlich finanziert wird.' }
+          - { key: c, text: 'Forschung sollte zugänglich sein, zumal sie öffentlich finanziert wird.' }
+        answer: c
         why: '„zumal" ersetzt „weil" — nicht beides zusammen, kein „dass".'
       - q: 'Welcher dass-Satz beim Einhaken ist korrekt?'
         options:
@@ -996,17 +996,17 @@ exercises:
         why: '„Sollte freies Reden ein fester Bestandteil von Schule und Studium sein?" (Beitrag 1).'
       - q: 'Womit begründet Hannah ihre Zustimmung?'
         options:
-          - { key: a, text: 'Mit der Chancengleichheit — sonst kommen kluge Leute nicht zu Wort.' }
-          - { key: b, text: 'Mit dem Spaßfaktor.' }
+          - { key: a, text: 'Mit dem Spaßfaktor.' }
+          - { key: b, text: 'Mit der Chancengleichheit — sonst kommen kluge Leute nicht zu Wort.' }
           - { key: c, text: 'Mit niedrigeren Kosten.' }
-        answer: a
+        answer: b
         why: '„Rhetorik gibt ihnen dieses Werkzeug — das ist eine Frage der Chancengleichheit."'
       - q: 'Wie positioniert sich Tomáš?'
         options:
           - { key: a, text: 'Er lehnt das Reden-Üben völlig ab.' }
-          - { key: b, text: 'Er stimmt grundsätzlich zu, betont aber: erst der Inhalt, dann die Form.' }
-          - { key: c, text: 'Er hält Inhalt für unwichtig.' }
-        answer: b
+          - { key: b, text: 'Er hält Inhalt für unwichtig.' }
+          - { key: c, text: 'Er stimmt grundsätzlich zu, betont aber: erst der Inhalt, dann die Form.' }
+        answer: c
         why: '„Ich stimme im Grundsatz zu, würde aber differenzieren … Erst der Inhalt, dann die Form."'
       - q: 'Welches Argument bringt Pavel?'
         options:

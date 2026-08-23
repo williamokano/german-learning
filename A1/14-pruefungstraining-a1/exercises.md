@@ -36,15 +36,15 @@ Hören Sie die Nachricht auf dem Anrufbeantworter (zweimal) und entscheiden Sie:
 Hören Sie die Ansagen (zweimal) und wählen Sie die richtige Antwort (a, b oder c).
 
 1. Von welchem Gleis fährt der Zug?  
-   a) Gleis 5  b) Gleis 7  c) Gleis 12
+   a) Gleis 7  b) Gleis 5  c) Gleis 12
 2. Wann hat das Kaufhaus am Samstag geöffnet?  
    a) Von 9 bis 20 Uhr  b) Von 9 bis 18 Uhr  c) Es ist am Samstag geschlossen.
 3. Was kostet ein Kilo Tomaten?  
-   a) 1,20 €  b) 0,99 €  c) 1,99 €
+   a) 1,20 €  b) 1,99 €  c) 0,99 €
 4. Warum findet der Kurs heute nicht statt?  
-   a) Es ist ein Feiertag.  b) Die Lehrerin ist krank.  c) Der Raum ist besetzt.
+   a) Die Lehrerin ist krank.  b) Es ist ein Feiertag.  c) Der Raum ist besetzt.
 5. Wie viel kostet der Eintritt für Erwachsene?  
-   a) Nichts  b) 10 Euro  c) 6 Euro
+   a) Nichts  b) 6 Euro  c) 10 Euro
 
 ## Übung exam-L4 — Aufgabe 4 — Anzeigen und Aushänge
 

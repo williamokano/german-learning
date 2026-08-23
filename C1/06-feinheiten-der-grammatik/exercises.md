@@ -55,10 +55,10 @@ Hör den Hörtext und füll die 6 Lücken. Vier Wörter im Kasten sind zu viel.
 
 Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.
 
-1. Welche Einrichtung ist auf dem Anrufbeantworter zu hören?  a) Das Goethe-Institut.  b) Das Sprachinstitut „Lingua Berlin".  c) Die Humboldt-Universität.
+1. Welche Einrichtung ist auf dem Anrufbeantworter zu hören?  a) Das Sprachinstitut „Lingua Berlin".  b) Das Goethe-Institut.  c) Die Humboldt-Universität.
 2. Wie ist das Institut telefonisch erreichbar?  a) Täglich rund um die Uhr.  b) Montag bis Freitag von neun bis siebzehn Uhr.  c) Nur am Wochenende.
-3. Wann beginnt der C1-Vorbereitungskurs?  a) Am 1. September.  b) Am 15. September.  c) Am 1. Oktober.
-4. Wie kann man sich anmelden?  a) Nur persönlich vor Ort.  b) Nur online unter www.lingua-berlin.de.  c) Nur telefonisch.
+3. Wann beginnt der C1-Vorbereitungskurs?  a) Am 1. September.  b) Am 1. Oktober.  c) Am 15. September.
+4. Wie kann man sich anmelden?  a) Nur online unter www.lingua-berlin.de.  b) Nur persönlich vor Ort.  c) Nur telefonisch.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -133,10 +133,10 @@ Setze die passende Konjunktiv-II-Form ein. 6 Items.
 
 Wähle die korrekte Verneinung (a, b oder c).
 
-1. Ich habe Zeit. — Verneinung:  a) Ich habe nicht Zeit.  b) Ich habe kein Zeit.  c) Ich habe keine Zeit.
+1. Ich habe Zeit. — Verneinung:  a) Ich habe keine Zeit.  b) Ich habe kein Zeit.  c) Ich habe nicht Zeit.
 2. Er hat ein Auto. — Verneinung:  a) Er hat nicht ein Auto.  b) Er hat kein Auto.  c) Er hat keinen Auto.
-3. Es gibt einen Ausweg. — Verneinung:  a) Es gibt nicht einen Ausweg.  b) Es gibt keinen Ausweg.  c) Es gibt kein Ausweg.
-4. Das ist wahr. — Verneinung:  a) Das ist kein wahr.  b) Das ist nicht wahr.  c) Das ist kein.
+3. Es gibt einen Ausweg. — Verneinung:  a) Es gibt nicht einen Ausweg.  b) Es gibt kein Ausweg.  c) Es gibt keinen Ausweg.
+4. Das ist wahr. — Verneinung:  a) Das ist nicht wahr.  b) Das ist kein wahr.  c) Das ist kein.
 5. Ich gehe mit. — Verneinung:  a) Ich gehe kein.  b) Ich gehe nicht mit.  c) Ich gehe kein mit.
 
 ## Übung A6 — Negation — Korrelate und Verstärkung
@@ -220,10 +220,10 @@ Bring die Wörter in die idiomatische Reihenfolge.
 
 Wähle die korrekte Wiedergabe (a, b oder c).
 
-1. Schmidt: „Die Methode ist umstritten." — Indirekte Rede:  a) Schmidt schreibt, die Methode ist umstritten.  b) Schmidt schreibt, die Methode sei umstritten.  c) Schmidt schreibt, die Methode wäre umstritten.
+1. Schmidt: „Die Methode ist umstritten." — Indirekte Rede:  a) Schmidt schreibt, die Methode sei umstritten.  b) Schmidt schreibt, die Methode ist umstritten.  c) Schmidt schreibt, die Methode wäre umstritten.
 2. Müller: „Es gibt keine eindeutigen Belege." — Indirekte Rede:  a) Müller stellt fest, es gibt keine eindeutigen Belege.  b) Müller stellt fest, es gebe keine eindeutigen Belege.  c) Müller stellt fest, es gäbe keine eindeutigen Belege.
-3. Eine vorsichtige Aussage (Hedging):  a) Das beweist eindeutig, dass …  b) Das deutet darauf hin, dass …  c) Das ist auf jeden Fall so.
-4. Eine Höflichkeitsbitte:  a) Ich will einen Kaffee.  b) Ich hätte gern einen Kaffee.  c) Ich werde einen Kaffee wollen.
+3. Eine vorsichtige Aussage (Hedging):  a) Das beweist eindeutig, dass …  b) Das ist auf jeden Fall so.  c) Das deutet darauf hin, dass …
+4. Eine Höflichkeitsbitte:  a) Ich hätte gern einen Kaffee.  b) Ich will einen Kaffee.  c) Ich werde einen Kaffee wollen.
 5. Ein irrealer Vergleich (Gegenwart):  a) Er tut so, als ob er alles weiß.  b) Er tut so, als ob er alles wüsste.  c) Er tut so, als ob er alles wisse.
 
 ## Übung B2 — Konjunktiv I und II in einem Text
@@ -246,11 +246,11 @@ bewusst einsetzen würden.
 
 Wähle die korrekte Form (a, b oder c).
 
-1. Welcher Satz verneint zwei Glieder korrekt?  a) Nicht Anna und nicht Bruno kommen.  b) Weder Anna noch Bruno kommen.  c) Anna nicht Bruno kommen.
+1. Welcher Satz verneint zwei Glieder korrekt?  a) Weder Anna noch Bruno kommen.  b) Nicht Anna und nicht Bruno kommen.  c) Anna nicht Bruno kommen.
 2. Welcher Satz drückt „A und auch B" aus?  a) Weder A noch B.  b) Nicht nur A, sondern auch B.  c) Zwar A, aber B.
-3. Was bedeutet „Das ist nicht uninteressant"?  a) Das ist uninteressant.  b) Das ist interessant.  c) Das ist sehr uninteressant.
-4. Welche Verstärkung der Verneinung passt?  a) Das ist nicht ein bisschen wahr.  b) Das ist keineswegs wahr.  c) Das ist wahr nicht.
-5. Welcher Satz hat KEIN Korrelat?  a) Sowohl Anna als auch Bruno kommen.  b) Weder Anna noch Bruno kommen.  c) Anna und Bruno kommen.
+3. Was bedeutet „Das ist nicht uninteressant"?  a) Das ist uninteressant.  b) Das ist sehr uninteressant.  c) Das ist interessant.
+4. Welche Verstärkung der Verneinung passt?  a) Das ist keineswegs wahr.  b) Das ist nicht ein bisschen wahr.  c) Das ist wahr nicht.
+5. Welcher Satz hat KEIN Korrelat?  a) Sowohl Anna als auch Bruno kommen.  b) Anna und Bruno kommen.  c) Weder Anna noch Bruno kommen.
 
 ## Übung B4 — Wortstellung — Fehler erkennen
 
@@ -421,8 +421,8 @@ Lies die folgenden Forumsbeiträge und wähle a, b oder c.
 
 1. Was ist die Leitfrage der Diskussion?  a) Brauchen wir den Konjunktiv noch?  b) Ist Deutsch eine schwierige Sprache?  c) Wer schreibt die besten Texte?
 2. Welche Position vertritt Mia (Beitrag 2)?  a) „würde + Infinitiv" reicht völlig.  b) Wer auf C-Niveau schreibt, sollte den echten Konjunktiv I beherrschen.  c) Konjunktiv ist überflüssig.
-3. Was kritisiert Lukas (Beitrag 3)?  a) Dass „würde + Infinitiv" zu selten verwendet wird.  b) Dass der Unterschied zwischen „sei" und „wäre" zu kompliziert ist.  c) Dass Konjunktiv zu leicht zu lernen ist.
-4. Welche Position vertritt Dr. Berger (Beitrag 4)?  a) Konjunktiv I ist überflüssig.  b) Konjunktiv ist situationsabhängig nötig (Schriftsprache vs. Mündlich).  c) Nur Konjunktiv II ist wichtig.
+3. Was kritisiert Lukas (Beitrag 3)?  a) Dass „würde + Infinitiv" zu selten verwendet wird.  b) Dass Konjunktiv zu leicht zu lernen ist.  c) Dass der Unterschied zwischen „sei" und „wäre" zu kompliziert ist.
+4. Welche Position vertritt Dr. Berger (Beitrag 4)?  a) Konjunktiv ist situationsabhängig nötig (Schriftsprache vs. Mündlich).  b) Konjunktiv I ist überflüssig.  c) Nur Konjunktiv II ist wichtig.
 
 ## Übung C5 — Schreiben: grammatisch präzise Stellungnahme
 

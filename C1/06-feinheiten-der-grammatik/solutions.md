@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Anrufbeantworter des Sprachinstituts
 
-1. **b) Das Sprachinstitut „Lingua Berlin".** — „Sie haben den Anrufbeantworter des Sprachinstituts ‚Lingua Berlin‘ erreicht."
+1. **a) Das Sprachinstitut „Lingua Berlin".** — „Sie haben den Anrufbeantworter des Sprachinstituts ‚Lingua Berlin‘ erreicht."
 2. **b) Montag bis Freitag von neun bis siebzehn Uhr.** — „Wir sind telefonisch erreichbar von Montag bis Freitag zwischen neun und siebzehn Uhr."
-3. **b) Am 15. September.** — „Der Kurs beginnt am 15. September".
-4. **b) Nur online unter www.lingua-berlin.de.** — „Die Anmeldung ist nur online möglich unter www.lingua-berlin.de".
+3. **c) Am 15. September.** — „Der Kurs beginnt am 15. September".
+4. **a) Nur online unter www.lingua-berlin.de.** — „Die Anmeldung ist nur online möglich unter www.lingua-berlin.de".
 
 ## Übung H5 — Tabelle ausfüllen: Dialog A (Sprachdebatte)
 
@@ -68,10 +68,10 @@
 
 ## Übung A5 — Negation — nicht oder kein?
 
-1. **c) Ich habe keine Zeit.** — „Zeit" ist feminin → „keine" (ersetzt „eine").
+1. **a) Ich habe keine Zeit.** — „Zeit" ist feminin → „keine" (ersetzt „eine").
 2. **b) Er hat kein Auto.** — „kein" ersetzt den unbestimmten Artikel „ein".
-3. **b) Es gibt keinen Ausweg.** — „Es gibt keinen" — maskulin Akkusativ.
-4. **b) Das ist nicht wahr.** — „wahr" ist ein Adjektiv → „nicht", nicht „kein".
+3. **c) Es gibt keinen Ausweg.** — „Es gibt keinen" — maskulin Akkusativ.
+4. **a) Das ist nicht wahr.** — „wahr" ist ein Adjektiv → „nicht", nicht „kein".
 5. **b) Ich gehe nicht mit.** — Bei Verben: „nicht", nicht „kein".
 
 ## Übung A6 — Negation — Korrelate und Verstärkung
@@ -127,10 +127,10 @@
 
 ## Übung B1 — Konjunktiv I oder II — Wahl der richtigen Form
 
-1. **b) Schmidt schreibt, die Methode sei umstritten.** — Konjunktiv I („sei") für indirekte Rede; „wäre" ist Konjunktiv II (Irrealis).
+1. **a) Schmidt schreibt, die Methode sei umstritten.** — Konjunktiv I („sei") für indirekte Rede; „wäre" ist Konjunktiv II (Irrealis).
 2. **b) Müller stellt fest, es gebe keine eindeutigen Belege.** — Konjunktiv I von „gibt" → „gebe"; „gäbe" ist Konjunktiv II (Irrealis).
-3. **b) Das deutet darauf hin, dass …** — „deutet darauf hin" = Hedging (siehe C1/05).
-4. **b) Ich hätte gern einen Kaffee.** — „Ich hätte gern" ist die idiomatische Höflichkeitsbitte mit Konjunktiv II.
+3. **c) Das deutet darauf hin, dass …** — „deutet darauf hin" = Hedging (siehe C1/05).
+4. **a) Ich hätte gern einen Kaffee.** — „Ich hätte gern" ist die idiomatische Höflichkeitsbitte mit Konjunktiv II.
 5. **b) Er tut so, als ob er alles wüsste.** — Irrealer Vergleich: Konjunktiv II („wüsste"); „wisse" ist Konjunktiv I (hier falsch).
 
 ## Übung B2 — Konjunktiv I und II in einem Text
@@ -139,11 +139,11 @@
 
 ## Übung B3 — Negations-Korrelate und doppelte Verneinung
 
-1. **b) Weder Anna noch Bruno kommen.** — Korrelat „weder … noch" verneint zwei Glieder.
+1. **a) Weder Anna noch Bruno kommen.** — Korrelat „weder … noch" verneint zwei Glieder.
 2. **b) Nicht nur A, sondern auch B.** — „Nicht nur … sondern auch" = Hervorhebung + Ergänzung.
-3. **b) Das ist interessant.** — Doppelte Verneinung mit „nicht" → einfache Bejahung: „interessant".
-4. **b) Das ist keineswegs wahr.** — „keineswegs" = „ganz und gar nicht" (betonte Verneinung).
-5. **c) Anna und Bruno kommen.** — „Anna und Bruno kommen" ist eine einfache Aufzählung, kein Korrelat.
+3. **c) Das ist interessant.** — Doppelte Verneinung mit „nicht" → einfache Bejahung: „interessant".
+4. **a) Das ist keineswegs wahr.** — „keineswegs" = „ganz und gar nicht" (betonte Verneinung).
+5. **b) Anna und Bruno kommen.** — „Anna und Bruno kommen" ist eine einfache Aufzählung, kein Korrelat.
 
 ## Übung B4 — Wortstellung — Fehler erkennen
 
@@ -226,8 +226,8 @@ Selbstkorrektur:
 
 1. **a) Brauchen wir den Konjunktiv noch?** — „heute diskutieren wir: Brauchen wir den Konjunktiv noch?"
 2. **b) Wer auf C-Niveau schreibt, sollte den echten Konjunktiv I beherrschen.** — „Wer auf C-Niveau schreibt, sollte den echten Konjunktiv I beherrschen".
-3. **b) Dass der Unterschied zwischen „sei" und „wäre" zu kompliziert ist.** — „Wer versteht schon den Unterschied zwischen ‚sei‘ und ‚wäre‘? Das macht die Sprache nur komplizierter".
-4. **b) Konjunktiv ist situationsabhängig nötig (Schriftsprache vs. Mündlich).** — „In der gehobenen Schriftsprache ist der echte Konjunktiv I nicht ersetzbar; im Mündlichen ist die Ersatzform idiomatisch".
+3. **c) Dass der Unterschied zwischen „sei" und „wäre" zu kompliziert ist.** — „Wer versteht schon den Unterschied zwischen ‚sei‘ und ‚wäre‘? Das macht die Sprache nur komplizierter".
+4. **a) Konjunktiv ist situationsabhängig nötig (Schriftsprache vs. Mündlich).** — „In der gehobenen Schriftsprache ist der echte Konjunktiv I nicht ersetzbar; im Mündlichen ist die Ersatzform idiomatisch".
 
 ## Übung C5 — Schreiben: grammatisch präzise Stellungnahme
 

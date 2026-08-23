@@ -127,10 +127,10 @@ exercises:
       - q: "Von welchem Gleis fährt der Zug?"
         audio: aufgabe3_ansage1.mp3
         options:
-          - { key: a, text: "Gleis 5" }
-          - { key: b, text: "Gleis 7" }
+          - { key: a, text: "Gleis 7" }
+          - { key: b, text: "Gleis 5" }
           - { key: c, text: "Gleis 12" }
-        answer: b
+        answer: a
         why: "Der Zug fährt von Gleis 7 ab — nicht Gleis 5 (das alte Gleis)."
       - q: "Wann hat das Kaufhaus am Samstag geöffnet?"
         audio: aufgabe3_ansage2.mp3
@@ -144,25 +144,25 @@ exercises:
         audio: aufgabe3_ansage3.mp3
         options:
           - { key: a, text: "1,20 €" }
-          - { key: b, text: "0,99 €" }
-          - { key: c, text: "1,99 €" }
-        answer: b
+          - { key: b, text: "1,99 €" }
+          - { key: c, text: "0,99 €" }
+        answer: c
         why: "Neunundneunzig Cent = 0,99 €."
       - q: "Warum findet der Kurs heute nicht statt?"
         audio: aufgabe3_ansage4.mp3
         options:
-          - { key: a, text: "Es ist ein Feiertag." }
-          - { key: b, text: "Die Lehrerin ist krank." }
+          - { key: a, text: "Die Lehrerin ist krank." }
+          - { key: b, text: "Es ist ein Feiertag." }
           - { key: c, text: "Der Raum ist besetzt." }
-        answer: b
+        answer: a
         why: "Frau Hoffmann ist krank — deshalb kein Kurs heute."
       - q: "Wie viel kostet der Eintritt für Erwachsene?"
         audio: aufgabe3_ansage5.mp3
         options:
           - { key: a, text: "Nichts" }
-          - { key: b, text: "10 Euro" }
-          - { key: c, text: "6 Euro" }
-        answer: c
+          - { key: b, text: "6 Euro" }
+          - { key: c, text: "10 Euro" }
+        answer: b
         why: "Eintritt: sechs Euro. Kinder unter 12 Jahren zahlen nichts."
 
   # ── Teil 2 — Lesen ────────────────────────────────────────────────────────

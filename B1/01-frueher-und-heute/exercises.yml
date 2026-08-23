@@ -107,10 +107,10 @@ exercises:
     items:
       - q: "Wann haben Mia und Lukas sich kennengelernt?"
         options:
-          - { key: a, text: "Im Mai 2018." }
-          - { key: b, text: "Im Mai 2019." }
+          - { key: a, text: "Im Mai 2019." }
+          - { key: b, text: "Im Mai 2018." }
           - { key: c, text: "Im Mai 2020." }
-        answer: b
+        answer: a
         why: '„Das war 2019, im Mai".'
       - q: "Was hat Lukas gerade gefunden?"
         options:
@@ -122,16 +122,16 @@ exercises:
       - q: "Was hatte Lukas kurz vor dem Kennenlernen gemacht?"
         options:
           - { key: a, text: "Er war nach Barcelona gezogen." }
-          - { key: b, text: "Er hatte seine Stelle in Moabit aufgegeben." }
-          - { key: c, text: "Er hatte geheiratet." }
-        answer: b
+          - { key: b, text: "Er hatte geheiratet." }
+          - { key: c, text: "Er hatte seine Stelle in Moabit aufgegeben." }
+        answer: c
         why: '„Ich hatte damals gerade meine alte Stelle in Moabit aufgegeben".'
       - q: "Was hat Lukas bei ihrem ersten Treffen sofort gewusst?"
         options:
-          - { key: a, text: "Dass Mia nach Berlin zurückkommen würde." }
+          - { key: a, text: "Dass Mia etwas Besonderes ist." }
           - { key: b, text: "Dass Mia in Barcelona bleiben würde." }
-          - { key: c, text: "Dass Mia etwas Besonderes ist." }
-        answer: c
+          - { key: c, text: "Dass Mia nach Berlin zurückkommen würde." }
+        answer: a
         why: '„Das war der Moment, in dem ich wusste: Diese Frau ist etwas Besonderes".'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────

@@ -23,10 +23,10 @@ Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Was sucht Frau Weber?  a) Ein Kleid  b) Einen Laptop  c) Ein Smartphone
-2. Welcher Laptop ist am günstigsten?  a) Der schwarze  b) Der graue  c) Der mit 449 Euro
-3. Was ist besser beim schwarzen Laptop?  a) Das Design  b) Der Akku  c) Der Preis
-4. Was kauft Frau Weber am Ende?  a) Den günstigsten Laptop  b) Den schwarzen Laptop  c) Keinen Laptop
+1. Was sucht Frau Weber?  a) Einen Laptop  b) Ein Kleid  c) Ein Smartphone
+2. Welcher Laptop ist am günstigsten?  a) Der schwarze  b) Der mit 449 Euro  c) Der graue
+3. Was ist besser beim schwarzen Laptop?  a) Das Design  b) Der Preis  c) Der Akku
+4. Was kauft Frau Weber am Ende?  a) Den schwarzen Laptop  b) Den günstigsten Laptop  c) Keinen Laptop
 
 ## Übung H3 — Hörtext-Lückentext
 

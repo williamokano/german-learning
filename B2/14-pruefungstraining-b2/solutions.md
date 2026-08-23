@@ -21,10 +21,10 @@
 
 ## Übung exam-H3 — Aufgabe 3 — Kurze Ansagen
 
-1. **b) Etwa 25 Minuten** — "circa 25 Minuten Verspätung"
+1. **a) Etwa 25 Minuten** — "circa 25 Minuten Verspätung"
 2. **b) Um 10 Uhr** — "Das Stadtmuseum öffnet morgen erst um zehn Uhr."
-3. **b) Eine Signierstunde mit der Autorin Eva Nowak** — "Heute Abend liest die Autorin Eva Nowak aus ihrem neuen Roman."
-4. **c) Am Wanderparkplatz am Stadtrand** — "Treffpunkt ist um 9 Uhr am Wanderparkplatz am Stadtrand."
+3. **c) Eine Signierstunde mit der Autorin Eva Nowak** — "Heute Abend liest die Autorin Eva Nowak aus ihrem neuen Roman."
+4. **a) Am Wanderparkplatz am Stadtrand** — "Treffpunkt ist um 9 Uhr am Wanderparkplatz am Stadtrand."
 5. **b) Von 10 bis 16 Uhr** — "Am Samstag öffnen wir von zehn bis sechzehn Uhr."
 
 ## Übung exam-H4 — Aufgabe 4 — Vortrag: Die Zukunft der Arbeit
@@ -56,11 +56,11 @@
 ## Übung exam-L8 — Aufgabe 8 — Wissenschaftlicher Text (Text 3): Lücken ergänzen
 
 1. **a) kommt zu dem Ergebnis** — "kommt zu dem Ergebnis" ist die feste Verbindung — *zu dem Ergebnis kommen*.
-2. **a) schnitten** — Präteritum von *abschneiden* ist *schnitt(en) ab* — starkes Verb (schneiden → schnitt), Plural *schnitten*.
-3. **b) darauf zurück** — „zurückführen auf + Akk." → Pronominaladverb *darauf* (Sache).
+2. **b) schnitten** — Präteritum von *abschneiden* ist *schnitt(en) ab* — starkes Verb (schneiden → schnitt), Plural *schnitten*.
+3. **c) darauf zurück** — „zurückführen auf + Akk." → Pronominaladverb *darauf* (Sache).
 4. **a) scheinen** — „scheinen + zu + Inf." mit Pluralsubjekt (*die Tiefschlafphasen*) → *scheinen* (nicht *scheint*); *scheinen* ist nicht reflexiv (also nicht *scheinen sich*).
-5. **a) vor** — Präposition *vor* + Dativ: *vor dem Schlafengehen*.
-6. **a) wird** — Generelles Statement (Präsens) → Passiv Präsens: *wird … unterstützt*.
+5. **b) vor** — Präposition *vor* + Dativ: *vor dem Schlafengehen*.
+6. **c) wird** — Generelles Statement (Präsens) → Passiv Präsens: *wird … unterstützt*.
 
 ## Übung exam-S9 — Aufgabe 9 — Forumsbeitrag schreiben
 

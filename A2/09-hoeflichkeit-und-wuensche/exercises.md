@@ -23,10 +23,10 @@ Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Herr Steinmeyer und Frau Weber möchten …  a) einen Tisch in der Mitte  b) einen ruhigen Tisch  c) einen Tisch am Fenster
+1. Herr Steinmeyer und Frau Weber möchten …  a) einen ruhigen Tisch  b) einen Tisch in der Mitte  c) einen Tisch am Fenster
 2. Das Tagesgericht ist …  a) Hähnchen mit Salat  b) gegrillter Lachs mit Gemüse  c) vegetarische Pasta
 3. Was möchte Frau Weber nicht in ihrer Soße?  a) Zwiebeln  b) Pfeffer  c) Knoblauch
-4. Herr Steinmeyer bestellt als Getränk …  a) ein Glas Weißwein  b) eine Flasche Mineralwasser  c) einen Kaffee
+4. Herr Steinmeyer bestellt als Getränk …  a) eine Flasche Mineralwasser  b) ein Glas Weißwein  c) einen Kaffee
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -49,10 +49,10 @@ Höre und ergänze die 6 fehlenden Wörter. Vier Wörter im Kasten werden nicht 
 
 Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
-1. Von wem kommt die Nachricht?  a) Von Anna.  b) Von Maria.  c) Vom Restaurant.
-2. Für wann ist der Tisch reserviert?  a) Für Samstag um neunzehn Uhr.  b) Für Freitag um neunzehn Uhr.  c) Für Samstag um zwanzig Uhr.
-3. Für wie viele Personen ist der Tisch?  a) Für eine Person.  b) Für zwei Personen.  c) Für vier Personen.
-4. Was soll Anna tun, wenn sie den Termin bestätigen kann?  a) Eine E-Mail schreiben.  b) Zurückrufen.  c) Im Restaurant anrufen.
+1. Von wem kommt die Nachricht?  a) Von Maria.  b) Von Anna.  c) Vom Restaurant.
+2. Für wann ist der Tisch reserviert?  a) Für Freitag um neunzehn Uhr.  b) Für Samstag um neunzehn Uhr.  c) Für Samstag um zwanzig Uhr.
+3. Für wie viele Personen ist der Tisch?  a) Für eine Person.  b) Für vier Personen.  c) Für zwei Personen.
+4. Was soll Anna tun, wenn sie den Termin bestätigen kann?  a) Zurückrufen.  b) Eine E-Mail schreiben.  c) Im Restaurant anrufen.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -376,11 +376,11 @@ die Rechnung bringen?"
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Hey Bruno! (1) ____ du am Freitagabend Zeit?  a) Hast  b) Wärst  c) Hättest
-2. Ich (2) ____ gern ins Konzert gehen.  a) würde  b) könnte  c) hätte
-3. (3) ____ wirklich toll sein!  a) Wäre  b) Würde  c) Hätte
-4. Wenn du mitkommen (4) ____, wäre ich sehr froh.  a) würdest  b) könntest  c) hättest
-5. Wir (5) ____ danach auch noch essen gehen.  a) könnten  b) wären  c) hätten
-6. das (6) ____ doch schön, oder?  a) wäre  b) würde  c) hätte
+2. Ich (2) ____ gern ins Konzert gehen.  a) könnte  b) würde  c) hätte
+3. (3) ____ wirklich toll sein!  a) Hätte  b) Würde  c) Wäre
+4. Wenn du mitkommen (4) ____, wäre ich sehr froh.  a) könntest  b) würdest  c) hättest
+5. Wir (5) ____ danach auch noch essen gehen.  a) wären  b) könnten  c) hätten
+6. das (6) ____ doch schön, oder?  a) hätte  b) würde  c) wäre
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 

@@ -119,10 +119,10 @@ exercises:
         why: '„Je früher Sie sich entscheiden, desto besser können wir planen".'
       - q: "Wie meldet man sich an?"
         options:
-          - { key: a, text: "Indem man im Sekretariat Bescheid gibt." }
+          - { key: a, text: "Indem man anruft." }
           - { key: b, text: "Indem man eine E-Mail schreibt." }
-          - { key: c, text: "Indem man anruft." }
-        answer: a
+          - { key: c, text: "Indem man im Sekretariat Bescheid gibt." }
+        answer: c
         why: '„Sie können sich anmelden, indem Sie kurz im Sekretariat Bescheid geben".'
       - q: "Was gilt trotz des Ausfalls?"
         options:

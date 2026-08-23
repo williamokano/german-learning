@@ -32,10 +32,10 @@ exercises:
     items:
       - q: "Frau Weber möchte sich für welche Stelle bewerben?"
         options:
-          - { key: a, text: "als Koordinatorin" }
-          - { key: b, text: "als Projektleiterin" }
+          - { key: a, text: "als Projektleiterin" }
+          - { key: b, text: "als Koordinatorin" }
           - { key: c, text: "als Managerin" }
-        answer: b
+        answer: a
         why: "Frau Weber möchte sich als Projektleiterin bewerben."
       - q: "Wie lange hat Frau Weber als Koordinatorin gearbeitet?"
         options:
@@ -47,16 +47,16 @@ exercises:
       - q: "Was soll Frau Weber tun, um einen Termin zu bekommen?"
         options:
           - { key: a, text: "anrufen" }
-          - { key: b, text: "Unterlagen einreichen" }
-          - { key: c, text: "eine E-Mail schreiben" }
-        answer: b
+          - { key: b, text: "eine E-Mail schreiben" }
+          - { key: c, text: "Unterlagen einreichen" }
+        answer: c
         why: "Unterlagen einreichen."
       - q: "Bis wann soll Frau Weber die Unterlagen schicken?"
         options:
-          - { key: a, text: "bis Freitag" }
+          - { key: a, text: "bis Montag" }
           - { key: b, text: "bis Samstag" }
-          - { key: c, text: "bis Montag" }
-        answer: c
+          - { key: c, text: "bis Freitag" }
+        answer: a
         why: "Bis Montag."
 
   - id: H3

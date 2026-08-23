@@ -13,10 +13,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) einen ruhigen Tisch** — Einen ruhigen Tisch.
+1. **a) einen ruhigen Tisch** — Einen ruhigen Tisch.
 2. **b) gegrillter Lachs mit Gemüse** — Gegrillter Lachs mit Gemüse.
 3. **c) Knoblauch** — Knoblauch.
-4. **b) eine Flasche Mineralwasser** — Eine Flasche Mineralwasser.
+4. **a) eine Flasche Mineralwasser** — Eine Flasche Mineralwasser.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -24,10 +24,10 @@
 
 ## Übung H4 — Kurze Ansage: Eine Einladung zum Abendessen
 
-1. **b) Von Maria.** — Von Maria.
-2. **a) Für Samstag um neunzehn Uhr.** — Samstag um neunzehn Uhr.
-3. **b) Für zwei Personen.** — Für zwei Personen.
-4. **b) Zurückrufen.** — Bitte ruf mich zurück.
+1. **a) Von Maria.** — Von Maria.
+2. **b) Für Samstag um neunzehn Uhr.** — Samstag um neunzehn Uhr.
+3. **c) Für zwei Personen.** — Für zwei Personen.
+4. **a) Zurückrufen.** — Bitte ruf mich zurück.
 
 ## Übung H5 — Tabelle ausfüllen: Dialog B (Restaurant-Bestellung)
 
@@ -215,11 +215,11 @@ Selbstkorrektur:
 ## Übung C2 — Sprachbausteine Teil 1
 
 1. **a) Hast** — Hast (du Zeit? — normal present question).
-2. **a) würde** — würde gern (würde + Infinitiv).
-3. **a) Wäre** — Wäre (hypothetical).
-4. **b) könntest** — könntest (polite conditional).
-5. **a) könnten** — könnten (polite suggestion).
-6. **a) wäre** — wäre (hypothetical).
+2. **b) würde** — würde gern (würde + Infinitiv).
+3. **c) Wäre** — Wäre (hypothetical).
+4. **a) könntest** — könntest (polite conditional).
+5. **b) könnten** — könnten (polite suggestion).
+6. **c) wäre** — wäre (hypothetical).
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 

@@ -101,10 +101,10 @@ exercises:
     items:
       - q: "Bis wann kann man sich für den Kurs anmelden?"
         options:
-          - { key: a, text: "Bis Donnerstag, den 19. Juni." }
-          - { key: b, text: "Bis Freitag, den 20. Juni." }
+          - { key: a, text: "Bis Freitag, den 20. Juni." }
+          - { key: b, text: "Bis Donnerstag, den 19. Juni." }
           - { key: c, text: "Bis Montag, den 23. Juni." }
-        answer: b
+        answer: a
         why: '"die Anmeldung … noch bis Freitag, den 20. Juni möglich ist."'
       - q: "An welchen Tagen findet der Kurs statt?"
         options:
@@ -116,16 +116,16 @@ exercises:
       - q: "Was soll man zum ersten Termin mitbringen?"
         options:
           - { key: a, text: "Einen Laptop und ein Heft." }
-          - { key: b, text: "Einen Ausweis und einen Stift." }
-          - { key: c, text: "Ein Wörterbuch und Papier." }
-        answer: b
+          - { key: b, text: "Ein Wörterbuch und Papier." }
+          - { key: c, text: "Einen Ausweis und einen Stift." }
+        answer: c
         why: '"Bitte bring beim ersten Termin deinen Ausweis und einen Stift mit."'
       - q: "Wie hoch ist die Kursgebühr?"
         options:
-          - { key: a, text: "150 Euro." }
+          - { key: a, text: "180 Euro." }
           - { key: b, text: "200 Euro." }
-          - { key: c, text: "180 Euro." }
-        answer: c
+          - { key: c, text: "150 Euro." }
+        answer: a
         why: '"Die Kursgebühr beträgt 180 Euro."'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
@@ -617,31 +617,31 @@ exercises:
     items:
       - q: "Was ist das Hauptargument des Autors?"
         options:
-          - { key: a, text: "Großstädte sind nur für reiche Menschen geeignet." }
-          - { key: b, text: "Großstädte bieten mehr Möglichkeiten, als man auf den ersten Blick sieht." }
+          - { key: a, text: "Großstädte bieten mehr Möglichkeiten, als man auf den ersten Blick sieht." }
+          - { key: b, text: "Großstädte sind nur für reiche Menschen geeignet." }
           - { key: c, text: "Brünn ist besser als Berlin." }
-        answer: b
+        answer: a
         why: '"Meiner Meinung nach bieten Großstädte mehr Möglichkeiten, als man auf den ersten Blick sieht."'
       - q: "Was ist laut dem Autor ein Nachteil der Großstadt?"
         options:
           - { key: a, text: "Es gibt zu wenig Jobs." }
-          - { key: b, text: "Das Kulturangebot ist klein." }
-          - { key: c, text: "Die Lebenshaltungskosten sind deutlich höher." }
-        answer: c
+          - { key: b, text: "Die Lebenshaltungskosten sind deutlich höher." }
+          - { key: c, text: "Das Kulturangebot ist klein." }
+        answer: b
         why: '"Allerdings sind die Lebenshaltungskosten in einer Großstadt deutlich höher."'
       - q: "Wie lange soll man laut dem Autor in einer Großstadt leben?"
         options:
           - { key: a, text: "Für immer." }
-          - { key: b, text: "Für einige Jahre." }
-          - { key: c, text: "Nur für ein Jahr." }
-        answer: b
+          - { key: b, text: "Nur für ein Jahr." }
+          - { key: c, text: "Für einige Jahre." }
+        answer: c
         why: '"zumindest für einige Jahre"'
       - q: "Welche Struktur-Elemente eines Forenbeitrags kommen im Text vor?"
         options:
-          - { key: a, text: "Nur Themenaussage und Fazit." }
-          - { key: b, text: "Themenaussage, Begründung, Konzession, Fazit und Call to action." }
+          - { key: a, text: "Themenaussage, Begründung, Konzession, Fazit und Call to action." }
+          - { key: b, text: "Nur Themenaussage und Fazit." }
           - { key: c, text: "Nur Begründung und Konzession." }
-        answer: b
+        answer: a
         why: "All five elements are present: Themenaussage (Meinung), Begründung (Vorteile), Konzession (Allerdings), Fazit (Insgesamt), Call to action (Was meinen Sie?)."
 
   - id: B9
@@ -714,31 +714,31 @@ exercises:
     items:
       - q: "Ich schreibe Ihnen ______ meines Aufenthalts in Ihrem Hotel."
         options:
-          - { key: a, text: "über" }
-          - { key: b, text: "bezüglich" }
+          - { key: a, text: "bezüglich" }
+          - { key: b, text: "über" }
           - { key: c, text: "wegen von" }
-        answer: b
+        answer: a
         why: "'bezüglich' (+ Genitiv) is the standard formal opening: Ich schreibe Ihnen bezüglich …"
       - q: "Der Service ließ leider zu ______ übrig."
         options:
-          - { key: a, text: "wünschen" }
-          - { key: b, text: "wünscht" }
+          - { key: a, text: "wünscht" }
+          - { key: b, text: "wünschen" }
           - { key: c, text: "wünsche" }
-        answer: a
+        answer: b
         why: "Fixed phrase: 'zu wünschen übrig lassen' — the infinitive 'wünschen' is required here."
       - q: "Ich bitte Sie ______ um eine Rückerstattung."
         options:
           - { key: a, text: "dann" }
-          - { key: b, text: "daher" }
-          - { key: c, text: "deshalb" }
-        answer: b
+          - { key: b, text: "deshalb" }
+          - { key: c, text: "daher" }
+        answer: c
         why: "'daher' (therefore) is the standard connector before the request in formal complaints. 'deshalb' is also possible but 'daher' is more formal."
       - q: "______ denke ich, dass ein Umzug in die Stadt wertvoll ist."
         options:
-          - { key: a, text: "Abschließend" }
-          - { key: b, text: "Insgesamt" }
+          - { key: a, text: "Insgesamt" }
+          - { key: b, text: "Abschließend" }
           - { key: c, text: "Außerdem" }
-        answer: b
+        answer: a
         why: "'Insgesamt' (overall / all in all) introduces the final assessment in a presentation or forum post."
       - q: "Das Thema ist wichtig, ______ viele Menschen in Großstädten leben."
         options:
@@ -750,9 +750,9 @@ exercises:
       - q: "Sehr geehrte ______ und Herren,"
         options:
           - { key: a, text: "Dame" }
-          - { key: b, text: "Damen" }
-          - { key: c, text: "Dämchen" }
-        answer: b
+          - { key: b, text: "Dämchen" }
+          - { key: c, text: "Damen" }
+        answer: c
         why: "The fixed formula is 'Sehr geehrte Damen und Herren,' — plural Damen is required."
 
   - id: C3
@@ -850,10 +850,10 @@ exercises:
     items:
       - q: "Warum schreibt Bruno diese E-Mail?"
         options:
-          - { key: a, text: "Er möchte einen Laptop bestellen." }
-          - { key: b, text: "Er hat das falsche Produkt erhalten." }
+          - { key: a, text: "Er hat das falsche Produkt erhalten." }
+          - { key: b, text: "Er möchte einen Laptop bestellen." }
           - { key: c, text: "Er möchte den Preis verhandeln." }
-        answer: b
+        answer: a
         why: '"ich schreibe Ihnen bezüglich meiner Bestellung … ich habe statt des bestellten Laptops ein völlig anderes Gerät erhalten."'
       - q: "Was war das Problem mit dem gelieferten Gerät?"
         options:
@@ -865,16 +865,16 @@ exercises:
       - q: "Was fordert Bruno als Alternative zur Rücksendung?"
         options:
           - { key: a, text: "Einen Gutschein." }
-          - { key: b, text: "Eine vollständige Rückerstattung." }
-          - { key: c, text: "Ein neues Gerät in anderer Farbe." }
-        answer: b
+          - { key: b, text: "Ein neues Gerät in anderer Farbe." }
+          - { key: c, text: "Eine vollständige Rückerstattung." }
+        answer: c
         why: '"Falls dies nicht möglich ist, bitte ich um eine vollständige Rückerstattung des Kaufpreises."'
       - q: "Bis wann erwartet Bruno eine Antwort?"
         options:
-          - { key: a, text: "Bis zum 12. Juni." }
+          - { key: a, text: "Bis zum 25. Juni." }
           - { key: b, text: "Bis zum 30. Juni." }
-          - { key: c, text: "Bis zum 25. Juni." }
-        answer: c
+          - { key: c, text: "Bis zum 12. Juni." }
+        answer: a
         why: '"Ich erwarte Ihre Rückmeldung bis zum 25. Juni 2026."'
 
   - id: C5

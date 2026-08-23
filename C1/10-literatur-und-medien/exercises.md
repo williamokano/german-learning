@@ -24,10 +24,10 @@ Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Worin sieht Frau Hoffmann den größten Reibungspunkt zwischen Feuilleton und Literaturwissenschaft?  a) In der Bezahlung der Kritikerinnen.  b) Darin, dass das Feuilleton Schnelligkeit belohnt, die Wissenschaft aber Differenzierung.  c) Darin, dass das Feuilleton nie Satire einsetzt.
+1. Worin sieht Frau Hoffmann den größten Reibungspunkt zwischen Feuilleton und Literaturwissenschaft?  a) Darin, dass das Feuilleton Schnelligkeit belohnt, die Wissenschaft aber Differenzierung.  b) In der Bezahlung der Kritikerinnen.  c) Darin, dass das Feuilleton nie Satire einsetzt.
 2. Wie unterscheidet Frau Hoffmann Satire von Polemik?  a) Satire greift immer Personen an, Polemik immer Institutionen.  b) Polemik kann persönlich werden; die deutsche Satiretradition arbeitet mit Übertreibung, gegen plumpe Beleidigung.  c) Satire ist immer lustig, Polemik immer traurig.
-3. Welches Problem sieht Yusuf bei Radio-Features zu Satire?  a) Dass die O-Töne im Radio nie authentisch klingen.  b) Dass die Auswahl der O-Töne bereits eine Deutung ist.  c) Dass das Radio keine Satire senden darf.
-4. Was empfiehlt Frau Hoffmann gegen die sogenannte „Glättung" der Satire?  a) Man solle den satirischen Witz im Radio grundsätzlich erklären.  b) Man solle die Satire im Radio durch Hintergrundmusik überdecken.  c) Die Ironie in der Stimme sei subtil genug und brauche keine Erklärung; was den Hörer verwirre, sei die schlechte Anmoderation.
+3. Welches Problem sieht Yusuf bei Radio-Features zu Satire?  a) Dass die O-Töne im Radio nie authentisch klingen.  b) Dass das Radio keine Satire senden darf.  c) Dass die Auswahl der O-Töne bereits eine Deutung ist.
+4. Was empfiehlt Frau Hoffmann gegen die sogenannte „Glättung" der Satire?  a) Die Ironie in der Stimme sei subtil genug und brauche keine Erklärung; was den Hörer verwirre, sei die schlechte Anmoderation.  b) Man solle die Satire im Radio durch Hintergrundmusik überdecken.  c) Man solle den satirischen Witz im Radio grundsätzlich erklären.
 5. Wie sieht laut Frau Hoffmann die ideale Anmoderation für ein Satire-Feature aus?  a) Lang, detailliert, mit Biografie der Autorin.  b) Kurz, kontextstiftend, leichtfüßig — drei Sätze — und dann den O-Ton das Wort überlassen.  c) Reine Inhaltsangabe des Romans.
 
 ## Übung H3 — Hörtext-Lückentext: Ein Radio-Feature zur Gegenwartsliteratur
@@ -54,10 +54,10 @@ Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.
 
 Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.
 
-1. Welche Einrichtung spricht auf dem Anrufbeantworter?  a) Eine Buchhandlung mit eigenem Verlagsprogramm.  b) Das Literaturhaus Berlin.  c) Die Stadtbibliothek Berlin.
-2. Bis wann ist das Literaturhaus geöffnet?  a) Bis einschließlich Samstag, 16 Uhr.  b) Bis einschließlich Freitag, 18 Uhr.  c) Täglich bis 20 Uhr.
-3. Was gilt für die Lesung mit Helga Schubert am Dienstag, 19 Uhr?  a) Es gibt noch Karten an der Abendkasse.  b) Alle Plätze sind vergriffen; eine Warteliste ist eingerichtet.  c) Die Lesung fällt aus.
-4. Wie können Interessierte das Literaturhaus erreichen?  a) Nur persönlich vor Ort.  b) Per Telefon unter 030-5512-0817 oder per E-Mail.  c) Ausschließlich über die Webseite.
+1. Welche Einrichtung spricht auf dem Anrufbeantworter?  a) Das Literaturhaus Berlin.  b) Eine Buchhandlung mit eigenem Verlagsprogramm.  c) Die Stadtbibliothek Berlin.
+2. Bis wann ist das Literaturhaus geöffnet?  a) Bis einschließlich Freitag, 18 Uhr.  b) Bis einschließlich Samstag, 16 Uhr.  c) Täglich bis 20 Uhr.
+3. Was gilt für die Lesung mit Helga Schubert am Dienstag, 19 Uhr?  a) Es gibt noch Karten an der Abendkasse.  b) Die Lesung fällt aus.  c) Alle Plätze sind vergriffen; eine Warteliste ist eingerichtet.
+4. Wie können Interessierte das Literaturhaus erreichen?  a) Per Telefon unter 030-5512-0817 oder per E-Mail.  b) Nur persönlich vor Ort.  c) Ausschließlich über die Webseite.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -123,9 +123,9 @@ Ordne jeden Romanausschnitt (1–5) der passenden Erzählperspektive (a–c) zu.
 
 Welche Konnotation hat das Wort im gegebenen Kontext?
 
-1. „Die Stille nach dem Urteil" — welche Konnotation hat „Stille"?  a) emotional — Geborgenheit  b) emotional — Bangigkeit oder Dräuung  c) stilistisch — gehoben
+1. „Die Stille nach dem Urteil" — welche Konnotation hat „Stille"?  a) emotional — Bangigkeit oder Dräuung  b) emotional — Geborgenheit  c) stilistisch — gehoben
 2. „Stille der Bibliothek" — welche Konnotation hat „Stille"?  a) feierlich-bedrohlich  b) freundlich, konzentriert  c) ideologisch — konservativ
-3. „Heimat" in einem AfD-Programm — welche Konnotation dominiert?  a) kulturell — Nostalgie  b) ideologisch — Schutz, Abgrenzung  c) stilistisch — gehoben
+3. „Heimat" in einem AfD-Programm — welche Konnotation dominiert?  a) kulturell — Nostalgie  b) stilistisch — gehoben  c) ideologisch — Schutz, Abgrenzung
 4. „Das Heim der Familie" — welche Konnotation schwingt mit?  a) Staatlich-institutionelle Konnotation (Internat, Altenheim)  b) Touristische Konnotation  c) Wild-ökonomische Konnotation
 5. „entschlummern" für „sterben" — welche Konnotation ist beabsichtigt?  a) emotional — Trauer  b) stilistisch — Euphemismus, gehoben  c) ideologisch — politisch
 
@@ -236,10 +236,10 @@ Ordne jede Wirkungsabsicht (1–5) dem typischen Mittel (a–e) zu.
 
 Entscheide, welche Formulierung in einen Feuilleton-Artikel passt.
 
-1. In einem Feuilleton-Essay über ein neues Buch:  a) Das Buch ist echt krass.  b) Das Buch ist bemerkenswert.  c) Das Buch ist der absolute Wahnsinn.
+1. In einem Feuilleton-Essay über ein neues Buch:  a) Das Buch ist bemerkenswert.  b) Das Buch ist echt krass.  c) Das Buch ist der absolute Wahnsinn.
 2. In einer Besprechung einer Theaterinszenierung:  a) Die Inszenierung war mega.  b) Die Inszenierung war hinreißend.  c) Die Inszenierung war voll cool.
-3. In einem Feuilleton-Beitrag zur Fernsehkritik:  a) Die Sendung ist der Oberhammer.  b) Die Sendung ist aufschlussreich.  c) Die Sendung ist einfach affig.
-4. Im literarischen Feuilleton über einen Roman:  a) Das Buch ist echt nice.  b) Das Buch ist eine lohnende Lektüre.  c) Das Buch ist der Knaller.
+3. In einem Feuilleton-Beitrag zur Fernsehkritik:  a) Die Sendung ist der Oberhammer.  b) Die Sendung ist einfach affig.  c) Die Sendung ist aufschlussreich.
+4. Im literarischen Feuilleton über einen Roman:  a) Das Buch ist eine lohnende Lektüre.  b) Das Buch ist echt nice.  c) Das Buch ist der Knaller.
 5. In einem Essay über eine Ausstellung:  a) Die Schau ist voll abgefahren.  b) Die Schau ist extravagant und sehenswert.  c) Die Schau ist einfach nur krass.
 
 ## Übung B3 — Erzählperspektive: Wirkung beschreiben
@@ -279,11 +279,11 @@ Ordne jeder Aussageabsicht (1–5) die passende Figur (a–e) zu.
 
 Wähle die zutreffende Aussage zur Anmoderation.
 
-1. Eine Anmoderation für ein Satire-Feature sollte vor allem:  a) Den satirischen Witz **glattbügeln**, damit der Hörer mitkommt.  b) Drei bis vier Sätze liefern, die Kontext und Pointe ankündigen — ohne den Witz vorwegzunehmen.  c) Eine fünfseitige Inhaltsangabe bieten.
+1. Eine Anmoderation für ein Satire-Feature sollte vor allem:  a) Drei bis vier Sätze liefern, die Kontext und Pointe ankündigen — ohne den Witz vorwegzunehmen.  b) Den satirischen Witz **glattbügeln**, damit der Hörer mitkommt.  c) Eine fünfseitige Inhaltsangabe bieten.
 2. Was ist die häufigste Falle bei der Anmoderation?  a) Sie ist zu lang, zu detailliert, zu trocken.  b) Sie erklärt den Witz — und nimmt ihm damit die Wirkung.  c) Sie kommt erst nach dem O-Ton.
-3. Welche Wirkung hat eine schlechte Anmoderation auf den Hörer?  a) Der Hörer ist begeistert, weil alles erklärt wurde.  b) Der Hörer ist verwirrt, weil der Kontext fehlt.  c) Der Hörer schaltet automatisch um.
-4. Was leistet die Atmo in einem Feature?  a) Sie ersetzt die O-Töne, wenn diese fehlen.  b) Sie ist die akustische Bühne, die die Szene atmosphärisch einbettet.  c) Sie lenkt vom Inhalt ab.
-5. Wann sollte ein Feature lieber auf mehrere O-Töne setzen?  a) Wenn die interviewten Personen etwas **spezifisch Eigenes** sagen — Affekte, Pointen, Einzelerfahrungen.  b) Wenn der Sprecher zu lang ist.  c) Wenn die Atmo fehlt.
+3. Welche Wirkung hat eine schlechte Anmoderation auf den Hörer?  a) Der Hörer ist begeistert, weil alles erklärt wurde.  b) Der Hörer schaltet automatisch um.  c) Der Hörer ist verwirrt, weil der Kontext fehlt.
+4. Was leistet die Atmo in einem Feature?  a) Sie ist die akustische Bühne, die die Szene atmosphärisch einbettet.  b) Sie ersetzt die O-Töne, wenn diese fehlen.  c) Sie lenkt vom Inhalt ab.
+5. Wann sollte ein Feature lieber auf mehrere O-Töne setzen?  a) Wenn der Sprecher zu lang ist.  b) Wenn die interviewten Personen etwas **spezifisch Eigenes** sagen — Affekte, Pointen, Einzelerfahrungen.  c) Wenn die Atmo fehlt.
 
 ## Übung B7 — Angriffsziel und Wirkungsabsicht einer Satire
 

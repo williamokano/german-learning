@@ -431,10 +431,10 @@ Text 2 (Forumspost):
 
 Wähle a, b oder c.
 
-1. Lisa hatte … — Lisa had …  a) eine Erkältung  b) nur Husten  c) 39 Grad Fieber und Halsschmerzen
+1. Lisa hatte … — Lisa had …  a) 39 Grad Fieber und Halsschmerzen  b) nur Husten  c) eine Erkältung
 2. Die Ärztin hat gesagt, Lisa soll … — The doctor said Lisa should …  a) ins Krankenhaus  b) zu Hause bleiben  c) sofort zur Apotheke
-3. Lisa hat … — Lisa has …  a) eine Woche gearbeitet  b) nicht gearbeitet  c) im Krankenhaus geschlafen
-4. Was empfiehlt Lisa? — What does Lisa recommend?  a) Sofort zum Arzt gehen  b) Beim ersten Zeichen viel trinken und schlafen  c) Tabletten kaufen ohne Rezept
+3. Lisa hat … — Lisa has …  a) eine Woche gearbeitet  b) im Krankenhaus geschlafen  c) nicht gearbeitet
+4. Was empfiehlt Lisa? — What does Lisa recommend?  a) Beim ersten Zeichen viel trinken und schlafen  b) Sofort zum Arzt gehen  c) Tabletten kaufen ohne Rezept
 
 ## Übung C5 — Schreiben: Entschuldigung an die Lehrerin
 

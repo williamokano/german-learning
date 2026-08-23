@@ -43,10 +43,10 @@ exercises:
     items:
       - q: "Worauf konzentriert sich Tomáš' Startup in Berlin?"
         options:
-          - { key: a, text: "Auf das Stadtzentrum." }
-          - { key: b, text: "Auf die Randbezirke." }
+          - { key: a, text: "Auf die Randbezirke." }
+          - { key: b, text: "Auf das Stadtzentrum." }
           - { key: c, text: "Auf ganz Berlin." }
-        answer: b
+        answer: a
         why: 'Tomáš: "Wir konzentrieren uns ausschließlich auf Randbezirke."'
       - q: "Wie viel Prozent der Mittel hat das Startup bereits gesichert?"
         options:
@@ -58,16 +58,16 @@ exercises:
       - q: "Was will Frau Weber am Ende des Gesprächs sehen?"
         options:
           - { key: a, text: "Eine Kundenliste." }
-          - { key: b, text: "Eine detaillierte Finanzprognose." }
-          - { key: c, text: "Eine Karte der Randbezirke." }
-        answer: b
+          - { key: b, text: "Eine Karte der Randbezirke." }
+          - { key: c, text: "Eine detaillierte Finanzprognose." }
+        answer: c
         why: 'Frau Weber: "Ich würde gern eine detaillierte Finanzprognose sehen."'
       - q: "Wie reagiert Frau Weber auf die Präsentation?"
         options:
-          - { key: a, text: "Sie lehnt die Investition sofort ab." }
-          - { key: b, text: "Sie ist grundsätzlich überzeugt, hat aber noch Fragen." }
+          - { key: a, text: "Sie ist grundsätzlich überzeugt, hat aber noch Fragen." }
+          - { key: b, text: "Sie lehnt die Investition sofort ab." }
           - { key: c, text: "Sie sagt sofort zu." }
-        answer: b
+        answer: a
         why: 'Frau Weber: "Zwar habe ich noch einige Fragen zur Skalierbarkeit, aber der Ansatz überzeugt mich grundsätzlich."'
 
   - id: H3
@@ -104,10 +104,10 @@ exercises:
     items:
       - q: "Warum ruft Tomáš an?"
         options:
-          - { key: a, text: "Weil die Berliner Präsentation sehr gut gelaufen ist." }
-          - { key: b, text: "Weil es ein Problem mit der Genehmigung gibt." }
+          - { key: a, text: "Weil es ein Problem mit der Genehmigung gibt." }
+          - { key: b, text: "Weil die Berliner Präsentation sehr gut gelaufen ist." }
           - { key: c, text: "Weil er mehr Investoren gefunden hat." }
-        answer: b
+        answer: a
         why: '"Weil wir heute ein Problem mit der Berliner Genehmigung haben."'
       - q: "Was ist mit den eingereichten Dokumenten passiert?"
         options:
@@ -119,16 +119,16 @@ exercises:
       - q: "Wie ist Tomáš' Stimmung trotz des Problems?"
         options:
           - { key: a, text: "Er ist sehr pessimistisch." }
-          - { key: b, text: "Er ist noch optimistisch." }
-          - { key: c, text: "Er will aufgeben." }
-        answer: b
+          - { key: b, text: "Er will aufgeben." }
+          - { key: c, text: "Er ist noch optimistisch." }
+        answer: c
         why: '"Trotzdem bin ich noch optimistisch."'
       - q: "Was soll Pavel morgen früh tun?"
         options:
-          - { key: a, text: "Zum Amt fahren." }
+          - { key: a, text: "Ins Büro kommen." }
           - { key: b, text: "Den Anwalt anrufen." }
-          - { key: c, text: "Ins Büro kommen." }
-        answer: c
+          - { key: c, text: "Zum Amt fahren." }
+        answer: a
         why: '"Kannst du morgen früh ins Büro kommen?"'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
@@ -811,31 +811,31 @@ exercises:
     items:
       - q: "Was macht Wien trotz seines guten U-Bahn-Netzes?"
         options:
-          - { key: a, text: "Wien baut das U-Bahn-Netz nicht weiter aus." }
-          - { key: b, text: "Wien fördert E-Bike-Sharing in den Außenbezirken." }
+          - { key: a, text: "Wien fördert E-Bike-Sharing in den Außenbezirken." }
+          - { key: b, text: "Wien baut das U-Bahn-Netz nicht weiter aus." }
           - { key: c, text: "Wien verbietet Autos im Stadtzentrum." }
-        answer: b
+        answer: a
         why: '"Wien hat zwar bereits ein hervorragendes U-Bahn-Netz, aber die Stadt fördert trotzdem zusätzlich E-Bike-Sharing-Programme in den Außenbezirken."'
       - q: "Warum hat Amsterdam strenge Parkgebühren eingeführt?"
         options:
           - { key: a, text: "Weil es zu viele Fahrräder gibt." }
-          - { key: b, text: "Weil das öffentliche Netz zu gut ist." }
-          - { key: c, text: "Wegen des wachsenden Autoverkehrs." }
-        answer: c
+          - { key: b, text: "Wegen des wachsenden Autoverkehrs." }
+          - { key: c, text: "Weil das öffentliche Netz zu gut ist." }
+        answer: b
         why: '"Obwohl Amsterdam als Vorbild für Fahrradkultur gilt, kämpft auch diese Stadt mit wachsendem Autoverkehr. Deshalb hat die Stadt strenge Parkgebühren eingeführt."'
       - q: "Was ist das Problem in Berlins Randbezirken?"
         options:
           - { key: a, text: "Es gibt zu viele Sharing-Angebote." }
-          - { key: b, text: "Sie sind oft schlecht angebunden." }
-          - { key: c, text: "Die Parkgebühren sind zu hoch." }
-        answer: b
+          - { key: b, text: "Die Parkgebühren sind zu hoch." }
+          - { key: c, text: "Sie sind oft schlecht angebunden." }
+        answer: c
         why: '"die Randbezirke oft schlecht angebunden [sind]".'
       - q: "Welche Frage bleibt am Ende des Textes offen?"
         options:
-          - { key: a, text: "Ob Wien das beste Verkehrsnetz hat." }
-          - { key: b, text: "Ob private Startups allein die Lücken schließen können." }
+          - { key: a, text: "Ob private Startups allein die Lücken schließen können." }
+          - { key: b, text: "Ob Wien das beste Verkehrsnetz hat." }
           - { key: c, text: "Ob Amsterdam Fahrräder verbieten wird." }
-        answer: b
+        answer: a
         why: '"ob private Startups allein die Lücken schließen können — oder ob die Politik handeln muss".'
 
   - id: C5

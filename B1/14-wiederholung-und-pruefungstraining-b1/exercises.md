@@ -69,10 +69,10 @@ Listen to the announcement (Durchsage) and fill in the 6 missing words. Three wo
 
 Listen to the telephone message from the Goethe-Institut. Then choose the correct answer (a, b, or c).
 
-1. Wann findet die Prüfung statt?  a) Am Freitag, dem 27. Juni um 9 Uhr.  b) Am Samstag, dem 28. Juni um 9 Uhr.  c) Am Sonntag, dem 29. Juni um 10 Uhr.
-2. Wie früh soll man erscheinen?  a) 30 Minuten vorher.  b) Pünktlich um 9 Uhr.  c) Mindestens 15 Minuten vorher.
-3. Welches Dokument muss man mitbringen?  a) Einen Führerschein oder eine Kundenkarte.  b) Einen Personalausweis oder Reisepass.  c) Nur eine Prüfungsanmeldung ist nötig.
-4. Warum soll man zurückrufen?  a) Um einen neuen Termin zu vereinbaren.  b) Wenn man die Anmeldebestätigung noch nicht erhalten hat.  c) Um das Testergebnis zu erfragen.
+1. Wann findet die Prüfung statt?  a) Am Samstag, dem 28. Juni um 9 Uhr.  b) Am Freitag, dem 27. Juni um 9 Uhr.  c) Am Sonntag, dem 29. Juni um 10 Uhr.
+2. Wie früh soll man erscheinen?  a) 30 Minuten vorher.  b) Mindestens 15 Minuten vorher.  c) Pünktlich um 9 Uhr.
+3. Welches Dokument muss man mitbringen?  a) Einen Führerschein oder eine Kundenkarte.  b) Nur eine Prüfungsanmeldung ist nötig.  c) Einen Personalausweis oder Reisepass.
+4. Warum soll man zurückrufen?  a) Wenn man die Anmeldebestätigung noch nicht erhalten hat.  b) Um einen neuen Termin zu vereinbaren.  c) Um das Testergebnis zu erfragen.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -238,10 +238,10 @@ Fill in the Präteritum form of each verb in brackets. 6 items.
 
 Choose the correct connector (a, b, or c) for each gap. 4 items.
 
-1. Pavel war nervös, ______ er sich gut vorbereitet hatte.  a) trotzdem  b) obwohl  c) deshalb
-2. Er hatte wenig geschlafen. ______ war er konzentriert.  a) Obwohl  b) Weil  c) Trotzdem
-3. ______ die Aufgabe schwer war, löste Bruno sie richtig.  a) Trotzdem  b) Obwohl  c) Darum
-4. Anna hatte Lampenfieber. ______ sprach sie sehr fließend.  a) Obwohl  b) Trotzdem  c) Weil
+1. Pavel war nervös, ______ er sich gut vorbereitet hatte.  a) obwohl  b) trotzdem  c) deshalb
+2. Er hatte wenig geschlafen. ______ war er konzentriert.  a) Obwohl  b) Trotzdem  c) Weil
+3. ______ die Aufgabe schwer war, löste Bruno sie richtig.  a) Trotzdem  b) Darum  c) Obwohl
+4. Anna hatte Lampenfieber. ______ sprach sie sehr fließend.  a) Trotzdem  b) Obwohl  c) Weil
 
 ## Übung B3 — Sprachbausteine — B1/03 Konjunktiv II
 

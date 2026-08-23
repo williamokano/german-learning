@@ -42,10 +42,10 @@ exercises:
     items:
       - q: "Wofür bewirbt sich Anna?"
         options:
-          - { key: a, text: "Für eine Stelle als Marketing-Managerin." }
-          - { key: b, text: "Für eine Stelle als Projektkoordinatorin." }
+          - { key: a, text: "Für eine Stelle als Projektkoordinatorin." }
+          - { key: b, text: "Für eine Stelle als Marketing-Managerin." }
           - { key: c, text: "Für eine Stelle als IT-Consultant." }
-        answer: b
+        answer: a
         why: "Scene description of Dialog B states Anna applies for a Projektkoordinatorin role; the position is also confirmed by Annas Anschreiben (Lesetext §7: 'Bewerbung als Projektkoordinatorin')."
       - q: "Was war Annas letzte Stelle?"
         options:
@@ -63,10 +63,10 @@ exercises:
         why: 'Anna: "Meiner Vorstellung nach läge das Gehalt bei etwa 52.000 bis 58.000 Euro brutto jährlich."'
       - q: "Welche Frage stellt Anna am Ende des Gesprächs?"
         options:
-          - { key: a, text: "Wie hoch ist das Gehalt genau?" }
-          - { key: b, text: "Wie ist die Einarbeitung bei Ihnen strukturiert?" }
+          - { key: a, text: "Wie ist die Einarbeitung bei Ihnen strukturiert?" }
+          - { key: b, text: "Wie hoch ist das Gehalt genau?" }
           - { key: c, text: "Kann ich sofort anfangen?" }
-        answer: b
+        answer: a
         why: 'Anna: "wie die Einarbeitung neuer Projektkoordinatorinnen bei Ihnen strukturiert ist."'
 
   - id: H3
@@ -102,31 +102,31 @@ exercises:
     items:
       - q: "Welche Stelle wird gesucht?"
         options:
-          - { key: a, text: "Eine IT-Consultant-Stelle." }
-          - { key: b, text: "Eine Projektkoordinatorin." }
+          - { key: a, text: "Eine Projektkoordinatorin." }
+          - { key: b, text: "Eine IT-Consultant-Stelle." }
           - { key: c, text: "Eine Abteilungsleiterin." }
-        answer: b
+        answer: a
         why: '"wir gerade eine Stelle als Projektkoordinatorin ausgeschrieben haben."'
       - q: "Ab wann ist die Stelle zu besetzen?"
         options:
           - { key: a, text: "Ab dem 1. August." }
-          - { key: b, text: "Ab dem 1. November." }
-          - { key: c, text: "Ab dem 1. Oktober." }
-        answer: c
+          - { key: b, text: "Ab dem 1. Oktober." }
+          - { key: c, text: "Ab dem 1. November." }
+        answer: b
         why: '"Die Stelle ist ab dem 1. Oktober zu besetzen."'
       - q: "Wann endet die Bewerbungsfrist?"
         options:
           - { key: a, text: "Am 30. Juli." }
-          - { key: b, text: "Am 30. Juni." }
-          - { key: c, text: "Am 15. Juni." }
-        answer: b
+          - { key: b, text: "Am 15. Juni." }
+          - { key: c, text: "Am 30. Juni." }
+        answer: c
         why: '"Die Bewerbungsfrist endet am 30. Juni."'
       - q: "Warum ruft Frau Weber an?"
         options:
-          - { key: a, text: "Um eine Bewerberin einzuladen." }
-          - { key: b, text: "Um Kandidatinnen-Empfehlungen zu erbitten." }
+          - { key: a, text: "Um Kandidatinnen-Empfehlungen zu erbitten." }
+          - { key: b, text: "Um eine Bewerberin einzuladen." }
           - { key: c, text: "Um eine Absage zu erteilen." }
-        answer: b
+        answer: a
         why: '"Bitte ruf mich zurück, wenn Sie Kandidatinnen empfehlen können."'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
@@ -381,31 +381,31 @@ exercises:
     items:
       - q: "Welche Erfahrung wird erwartet?"
         options:
-          - { key: a, text: "Mindestens fünf Jahre." }
-          - { key: b, text: "Mindestens zwei Jahre." }
+          - { key: a, text: "Mindestens zwei Jahre." }
+          - { key: b, text: "Mindestens fünf Jahre." }
           - { key: c, text: "Keine Erfahrung nötig." }
-        answer: b
+        answer: a
         why: '"Von den Bewerberinnen und Bewerbern werden mindestens zwei Jahre Berufserfahrung erwartet."'
       - q: "Welches Englischniveau wird vorausgesetzt?"
         options:
           - { key: a, text: "C1." }
-          - { key: b, text: "A2." }
-          - { key: c, text: "B2." }
-        answer: c
+          - { key: b, text: "B2." }
+          - { key: c, text: "A2." }
+        answer: b
         why: '"Englischkenntnisse auf B2-Niveau werden vorausgesetzt."'
       - q: "Ab wann ist die Stelle zu besetzen?"
         options:
           - { key: a, text: "Ab sofort." }
-          - { key: b, text: "Ab dem 1. Oktober." }
-          - { key: c, text: "Ab dem 1. Januar." }
-        answer: b
+          - { key: b, text: "Ab dem 1. Januar." }
+          - { key: c, text: "Ab dem 1. Oktober." }
+        answer: c
         why: '"Die Stelle wird ab dem 1. Oktober besetzt."'
       - q: 'Welche Funktion hat das Verb „werden" in den Sätzen der Anzeige, die „werden" enthalten?'
         options:
-          - { key: a, text: "Es ist ein Futur I." }
-          - { key: b, text: "Es ist das Passiv-Hilfsverb." }
+          - { key: a, text: "Es ist das Passiv-Hilfsverb." }
+          - { key: b, text: "Es ist ein Futur I." }
           - { key: c, text: "Es ist das Modalverb wollen." }
-        answer: b
+        answer: a
         why: "In job ads, werden + Partizip II = Passiv (e.g. werden erwartet, werden vorausgesetzt)."
       - q: "Bis wann muss man sich bewerben?"
         options:
@@ -658,31 +658,31 @@ exercises:
     items:
       - q: "Für welche Stelle bewirbt sich Anna?"
         options:
-          - { key: a, text: "Als Marketing-Managerin." }
-          - { key: b, text: "Als Projektkoordinatorin." }
+          - { key: a, text: "Als Projektkoordinatorin." }
+          - { key: b, text: "Als Marketing-Managerin." }
           - { key: c, text: "Als IT-Consultant." }
-        answer: b
+        answer: a
         why: '"Betreff: Bewerbung als Projektkoordinatorin."'
       - q: "Was wurde von Anna in ihrer letzten Stelle koordiniert?"
         options:
           - { key: a, text: "Ein neues IT-System." }
-          - { key: b, text: "Kundenbewertungen." }
-          - { key: c, text: "Mehrere Projekte gleichzeitig." }
-        answer: c
+          - { key: b, text: "Mehrere Projekte gleichzeitig." }
+          - { key: c, text: "Kundenbewertungen." }
+        answer: b
         why: '"wurden mehrere Projekte gleichzeitig von mir koordiniert."'
       - q: "Welches Projekt nennt Anna als Beispiel?"
         options:
           - { key: a, text: "Eine Social-Media-Kampagne." }
-          - { key: b, text: "Die Einführung eines CRM-Systems." }
-          - { key: c, text: "Ein Onboarding-Programm." }
-        answer: b
+          - { key: b, text: "Ein Onboarding-Programm." }
+          - { key: c, text: "Die Einführung eines CRM-Systems." }
+        answer: c
         why: '"darunter die Einführung eines neuen CRM-Systems."'
       - q: "Welche Genitiv-Phrase benutzt Anna im Hauptteil?"
         options:
-          - { key: a, text: "die Stärke meiner Bewerbung" }
-          - { key: b, text: "die Qualität meiner Arbeit" }
+          - { key: a, text: "die Qualität meiner Arbeit" }
+          - { key: b, text: "die Stärke meiner Bewerbung" }
           - { key: c, text: "Beide Varianten erscheinen im Text." }
-        answer: b
+        answer: a
         why: '"Die Qualität meiner Arbeit" appears in the letter. "die Stärke meiner Bewerbung" (option a) does not appear.'
 
   - id: B9
@@ -761,10 +761,10 @@ exercises:
     items:
       - q: "Ich ______ mich sehr, Sie in einem Gespräch zu überzeugen."
         options:
-          - { key: a, text: "würde freuen" }
-          - { key: b, text: "würde mich freuen" }
+          - { key: a, text: "würde mich freuen" }
+          - { key: b, text: "würde freuen" }
           - { key: c, text: "freue würde mich" }
-        answer: b
+        answer: a
         why: "freuen is reflexive: sich freuen. With Konjunktiv II: Ich würde mich freuen."
       - q: "Ich ______ über fünf Jahre Erfahrung in der Projektleitung."
         options:
@@ -775,17 +775,17 @@ exercises:
         why: "verfügen über is the formal application phrase. habe is too informal; besitze is for things."
       - q: "Während ______ Tätigkeit koordinierte ich drei Projekte."
         options:
-          - { key: a, text: "meiner" }
+          - { key: a, text: "meinen" }
           - { key: b, text: "meine" }
-          - { key: c, text: "meinen" }
-        answer: a
+          - { key: c, text: "meiner" }
+        answer: c
         why: "während + Genitiv: während meiner Tätigkeit (feminine Genitiv)."
       - q: "Die Stelle ______ ab Oktober besetzt."
         options:
-          - { key: a, text: "ist" }
-          - { key: b, text: "wird" }
+          - { key: a, text: "wird" }
+          - { key: b, text: "ist" }
           - { key: c, text: "hat" }
-        answer: b
+        answer: a
         why: "Passiv Präsens requires werden as auxiliary: Die Stelle wird besetzt. Not ist (Zustandspassiv) — the context is a future event."
       - q: "Meiner Vorstellung nach ______ das Gehalt bei 56.000 Euro brutto."
         options:
@@ -797,9 +797,9 @@ exercises:
       - q: "Mit ______ Grüßen,"
         options:
           - { key: a, text: "freundliche" }
-          - { key: b, text: "freundlichen" }
-          - { key: c, text: "freundlichem" }
-        answer: b
+          - { key: b, text: "freundlichem" }
+          - { key: c, text: "freundlichen" }
+        answer: c
         why: "mit + Dativ Plural: freundlichen Grüßen. This formula is fixed."
 
   - id: C3
@@ -898,10 +898,10 @@ exercises:
     items:
       - q: "Was wird von Bewerberinnen und Bewerbern erwartet?"
         options:
-          - { key: a, text: "Mindestens fünf Jahre Berufserfahrung." }
-          - { key: b, text: "Ein abgeschlossenes Hochschulstudium." }
+          - { key: a, text: "Ein abgeschlossenes Hochschulstudium." }
+          - { key: b, text: "Mindestens fünf Jahre Berufserfahrung." }
           - { key: c, text: "Kenntnisse in Python." }
-        answer: b
+        answer: a
         why: '"Von den Bewerberinnen und Bewerbern wird ein abgeschlossenes Hochschulstudium erwartet."'
       - q: "Welches Deutschniveau ist Mindestanforderung?"
         options:
@@ -913,16 +913,16 @@ exercises:
       - q: "Was passiert mit Überstunden?"
         options:
           - { key: a, text: "Sie werden extra bezahlt." }
-          - { key: b, text: "Sie werden als Freizeit ausgeglichen." }
-          - { key: c, text: "Sie sind nicht erlaubt." }
-        answer: b
+          - { key: b, text: "Sie sind nicht erlaubt." }
+          - { key: c, text: "Sie werden als Freizeit ausgeglichen." }
+        answer: c
         why: '"Überstunden werden auf Wunsch als Freizeit ausgeglichen."'
       - q: "Bis wann muss man sich bewerben?"
         options:
-          - { key: a, text: "Bis zum 30. Juni." }
+          - { key: a, text: "Bis zum 15. Juli." }
           - { key: b, text: "Bis zum 31. Juli." }
-          - { key: c, text: "Bis zum 15. Juli." }
-        answer: c
+          - { key: c, text: "Bis zum 30. Juni." }
+        answer: a
         why: '"Bewerbungen werden bis zum 15. Juli entgegengenommen."'
 
   - id: C5

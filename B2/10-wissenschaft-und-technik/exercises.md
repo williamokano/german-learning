@@ -26,8 +26,8 @@ Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Womit beschäftigt sich die Studie von Herrn Dr. Steinmeyer?  a) Mit KI-gestützter Diagnostik.  b) Mit klassischer Schulmedizin.  c) Mit einer neuen App für Patienten.
 2. Wie viele Versuchsreihen wurden gemacht?  a) Zwei.  b) Drei.  c) Fünf.
-3. Welche Kritik wurde an der Studie geübt?  a) Die Ergebnisse seien uninteressant.  b) Die Stichprobe sei zu klein.  c) Das Team sei zu groß.
-4. Was wird mit den Originaldaten gemacht?  a) Sie werden gelöscht.  b) Sie werden Open Access zur Verfügung gestellt.  c) Sie werden geheim gehalten.
+3. Welche Kritik wurde an der Studie geübt?  a) Die Ergebnisse seien uninteressant.  b) Das Team sei zu groß.  c) Die Stichprobe sei zu klein.
+4. Was wird mit den Originaldaten gemacht?  a) Sie werden Open Access zur Verfügung gestellt.  b) Sie werden gelöscht.  c) Sie werden geheim gehalten.
 
 ## Übung H3 — Hörtext-Lückentext: Kurzinterview mit dem Forschungsleiter
 
@@ -405,10 +405,10 @@ Lies das folgende Schreiben und wähle a, b oder c.
 > dafür und zwei dagegen angenommen.
 
 
-1. Was wurde in der Sitzung geprüft?  a) Ein Zeitschriftenartikel.  b) Ein Antrag auf Förderung eines Forschungsprojekts.  c) Eine Patientendatenbank.
+1. Was wurde in der Sitzung geprüft?  a) Ein Antrag auf Förderung eines Forschungsprojekts.  b) Ein Zeitschriftenartikel.  c) Eine Patientendatenbank.
 2. Wo sollen die Daten erhoben werden?  a) An einer einzigen Klinik.  b) An drei Universitätskliniken.  c) In einem Online-Portal.
-3. Welche Kritik wurde geübt?  a) Die Methodik sei zu kompliziert.  b) Die Stichprobe sei möglicherweise zu klein.  c) Das Team sei zu groß.
-4. Wie wurde der Antrag entschieden?  a) Einstimmig angenommen.  b) Einstimmig abgelehnt.  c) Mit drei Stimmen dafür und zwei dagegen angenommen.
+3. Welche Kritik wurde geübt?  a) Die Methodik sei zu kompliziert.  b) Das Team sei zu groß.  c) Die Stichprobe sei möglicherweise zu klein.
+4. Wie wurde der Antrag entschieden?  a) Mit drei Stimmen dafür und zwei dagegen angenommen.  b) Einstimmig abgelehnt.  c) Einstimmig angenommen.
 
 ## Übung C5 — Schreiben: Kurze Pressemitteilung zu einer Forschungsstudie verfassen
 

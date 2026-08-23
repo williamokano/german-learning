@@ -51,9 +51,9 @@ Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel.
 Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.
 
 1. Worum geht es in der Nachricht?  a) Um die Sitzung am Donnerstag.  b) Um einen neuen Arbeitsvertrag.  c) Um eine Reisekostenabrechnung.
-2. Was soll bei der Sitzung zur Sprache kommen?  a) Die Frage des neuen Lieferanten.  b) Das Urlaubsthema.  c) Die Gehaltserhöhung.
-3. Was soll Herr Berger vorher tun?  a) Seine Unterlagen zur Verfügung stellen.  b) Den Lieferanten anrufen.  c) Die Sitzung verschieben.
-4. Kommt eine Verschiebung der Sitzung in Frage?  a) Ja, problemlos.  b) Nein, sie kommt nicht in Frage.  c) Nur um eine Woche.
+2. Was soll bei der Sitzung zur Sprache kommen?  a) Das Urlaubsthema.  b) Die Frage des neuen Lieferanten.  c) Die Gehaltserhöhung.
+3. Was soll Herr Berger vorher tun?  a) Die Sitzung verschieben.  b) Den Lieferanten anrufen.  c) Seine Unterlagen zur Verfügung stellen.
+4. Kommt eine Verschiebung der Sitzung in Frage?  a) Nein, sie kommt nicht in Frage.  b) Ja, problemlos.  c) Nur um eine Woche.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

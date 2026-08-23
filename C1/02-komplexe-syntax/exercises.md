@@ -24,10 +24,10 @@ Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Welche Funktion hat Frau Hoffmann im Dialog?  a) Sie ist die Verlagsleiterin und stellt das Buch vor.  b) Sie ist erfahrene Lektorin und gibt Feedback zum Manuskript.  c) Sie ist die Agentin des Autors.
+1. Welche Funktion hat Frau Hoffmann im Dialog?  a) Sie ist erfahrene Lektorin und gibt Feedback zum Manuskript.  b) Sie ist die Verlagsleiterin und stellt das Buch vor.  c) Sie ist die Agentin des Autors.
 2. Was kritisiert Frau Hoffmann am Satz auf Seite 47?  a) Er ist grammatisch falsch.  b) Er ist zu lang und enthält zu viele Nebensätze.  c) Er enthält falsche Informationen über den Protagonisten.
-3. Welche Lösung schlägt Frau Hoffmann für den langen Satz vor?  a) Den ganzen Absatz streichen.  b) Die Apposition herausziehen und in zwei Sätze aufteilen.  c) Den Roman neu schreiben.
-4. Welche Korrektur schlägt Frau Hoffmann für die Parenthese auf Seite 112 vor?  a) Die Parenthese ganz streichen.  b) Die Parenthese in einen eigenen Satz umwandeln oder Gedankenstriche verwenden.  c) Die Parenthese durch Klammern ersetzen.
+3. Welche Lösung schlägt Frau Hoffmann für den langen Satz vor?  a) Den ganzen Absatz streichen.  b) Den Roman neu schreiben.  c) Die Apposition herausziehen und in zwei Sätze aufteilen.
+4. Welche Korrektur schlägt Frau Hoffmann für die Parenthese auf Seite 112 vor?  a) Die Parenthese in einen eigenen Satz umwandeln oder Gedankenstriche verwenden.  b) Die Parenthese ganz streichen.  c) Die Parenthese durch Klammern ersetzen.
 
 ## Übung H3 — Hörtext-Lückentext: Ein Literaturkritiker im Radio
 
@@ -208,10 +208,10 @@ Füll die 8 Lücken mit passenden Satzteilen, um eine Satzperiode zu bilden. Dre
 
 Welche Apposition steht im richtigen Kasus? Wähle (a) für den ersten Satz, (b) für den zweiten Satz.
 
-1. (1) „Ich kenne Herrn Schneider, ein erfahrener Anwalt.“ (2) „Ich kenne Herrn Schneider, einen erfahrenen Anwalt.“  a) Satz 1 ist richtig (Apposition im Nominativ).  b) Satz 2 ist richtig (Apposition im Akkusativ).  c) Beide Sätze sind richtig.
+1. (1) „Ich kenne Herrn Schneider, ein erfahrener Anwalt.“ (2) „Ich kenne Herrn Schneider, einen erfahrenen Anwalt.“  a) Satz 2 ist richtig (Apposition im Akkusativ).  b) Satz 1 ist richtig (Apposition im Nominativ).  c) Beide Sätze sind richtig.
 2. (1) „Ich arbeite seit Jahren mit Frau Müller, die neue Chefin.“ (2) „Ich arbeite seit Jahren mit Frau Müller, der neuen Chefin.“  a) Satz 1 ist richtig (Apposition im Nominativ).  b) Satz 2 ist richtig (Apposition im Dativ).  c) Beide Sätze sind richtig.
-3. (1) „Das Buch, ein spannender Roman, hat mir gefallen.“ (2) „Das Buch, ein spannenden Roman, hat mir gefallen.“  a) Satz 1 ist richtig (Apposition im Nominativ).  b) Satz 2 ist richtig (Apposition im Akkusativ).  c) Beide Sätze sind richtig.
-4. (1) „Wir trafen den Direktor, der neuen Leiter der Abteilung.“ (2) „Wir trafen den Direktor, den neuen Leiter der Abteilung.“  a) Satz 1 ist richtig (Apposition im Nominativ).  b) Satz 2 ist richtig (Apposition im Akkusativ).  c) Beide Sätze sind richtig.
+3. (1) „Das Buch, ein spannender Roman, hat mir gefallen.“ (2) „Das Buch, ein spannenden Roman, hat mir gefallen.“  a) Beide Sätze sind richtig.  b) Satz 2 ist richtig (Apposition im Akkusativ).  c) Satz 1 ist richtig (Apposition im Nominativ).
+4. (1) „Wir trafen den Direktor, der neuen Leiter der Abteilung.“ (2) „Wir trafen den Direktor, den neuen Leiter der Abteilung.“  a) Satz 2 ist richtig (Apposition im Akkusativ).  b) Satz 1 ist richtig (Apposition im Nominativ).  c) Beide Sätze sind richtig.
 
 ## Übung B3 — Eine Satzperiode planen und schreiben
 
@@ -297,9 +297,9 @@ Self-check:
 
 Welche Version ist korrekt? Wähle (a) oder (b).
 
-1. „Das Buch, das sie mir empfohlen hatte war ausverkauft.“ vs. „Das Buch, das sie mir empfohlen hatte, war ausverkauft.“  a) Version 1 (kein Komma nach dem Relativsatz).  b) Version 2 (Komma nach dem Relativsatz).
+1. „Das Buch, das sie mir empfohlen hatte war ausverkauft.“ vs. „Das Buch, das sie mir empfohlen hatte, war ausverkauft.“  a) Version 2 (Komma nach dem Relativsatz).  b) Version 1 (kein Komma nach dem Relativsatz).
 2. „Berlin die Hauptstadt Deutschlands hat 3,6 Millionen Einwohner.“ vs. „Berlin, die Hauptstadt Deutschlands, hat 3,6 Millionen Einwohner.“  a) Version 1 (keine Kommas).  b) Version 2 (Kommas um die Apposition).
-3. „Sein Bruder ein stiller Beobachter bemerkte die Szene.“ vs. „Sein Bruder — ein stiller Beobachter — bemerkte die Szene.“  a) Version 1 (keine Klammer).  b) Version 2 (Gedankenstriche).
+3. „Sein Bruder ein stiller Beobachter bemerkte die Szene.“ vs. „Sein Bruder — ein stiller Beobachter — bemerkte die Szene.“  a) Version 2 (Gedankenstriche).  b) Version 1 (keine Klammer).
 4. „Der Bürgermeister der dies versprochen hatte trat zurück.“ vs. „Der Bürgermeister, der dies versprochen hatte, trat zurück.“  a) Version 1 (keine Kommas).  b) Version 2 (Kommas um den Relativsatz).
 
 ## Übung B9 — Drei Werkzeuge in einem kurzen Aufsatz
@@ -405,10 +405,10 @@ Lies die folgenden Forumsbeiträge und wähle a, b oder c.
 > Ich find's ehrlich gesagt schade, dass die Kunst des langen Satzes verloren geht. Auf Tschechisch ist das übrigens genauso — wer gut schreibt, kann auch gut schachteln. Aber im Netz, ja, da gewinnt der kurze Satz.
 
 
-1. Welche syntaktische Konstruktion dominiert in Beitrag 1 (Markus_K)?  a) Ellipsen und Telegrammstil.  b) Lange Satzperiode mit Nebensätzen, Appositionen und Passivkonstruktionen.  c) Ausschließlich kurze Hauptsätze.
+1. Welche syntaktische Konstruktion dominiert in Beitrag 1 (Markus_K)?  a) Lange Satzperiode mit Nebensätzen, Appositionen und Passivkonstruktionen.  b) Ellipsen und Telegrammstil.  c) Ausschließlich kurze Hauptsätze.
 2. Welche syntaktische Strategie vertritt Beitrag 2 (Anna_B)?  a) Sie verteidigt den langen Satz.  b) Sie bevorzugt kurze Sätze und Telegrammstil.  c) Sie schlägt mehr Appositionen vor.
-3. Welche These vertritt Beitrag 3 (Yusuf)?  a) Wissenschaft und Alltag sollen das gleiche Register benutzen.  b) Unterschiedliche Diskursdomänen verlangen unterschiedliche syntaktische Mittel.  c) Lange Sätze sollten ganz abgeschafft werden.
-4. Welches Werkzeug der komplexen Syntax erwähnt Tomáš_N (Beitrag 4) explizit?  a) Die Apposition.  b) Das Schachteln von Sätzen.  c) Die Ausklammerung.
+3. Welche These vertritt Beitrag 3 (Yusuf)?  a) Wissenschaft und Alltag sollen das gleiche Register benutzen.  b) Lange Sätze sollten ganz abgeschafft werden.  c) Unterschiedliche Diskursdomänen verlangen unterschiedliche syntaktische Mittel.
+4. Welches Werkzeug der komplexen Syntax erwähnt Tomáš_N (Beitrag 4) explizit?  a) Das Schachteln von Sätzen.  b) Die Apposition.  c) Die Ausklammerung.
 
 ## Übung C5 — Schreiben: Einen Zeitungsartikel mit komplexer Syntax verfassen
 

@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (Yusuf und Hannah)
 
-1. **b) Er liest Hannah seinen Entwurf vor.** — Yusuf: "Ich lese dir meinen ersten Entwurf vor."
+1. **a) Er liest Hannah seinen Entwurf vor.** — Yusuf: "Ich lese dir meinen ersten Entwurf vor."
 2. **b) Er klingt zu journalistisch und anklagend.** — Hannah: "er klingt journalistisch, fast anklagend."
 3. **c) Neutrum (das)** — Hannah: "alle nominalisierten Verben sind Neutrum: das Recyceln, das Heizen, das Fliegen."
-4. **b) die Möglichkeit** — Hannah: "möglich → die Möglichkeit" — Adjektive + -keit/-heit.
+4. **a) die Möglichkeit** — Hannah: "möglich → die Möglichkeit" — Adjektive + -keit/-heit.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Radiobeitrag über Berliner Klimapaket
 
-1. **b) Ein neues Klimapaket.** — "Das Berliner Abgeordnetenhaus hat heute ein neues Klimapaket verabschiedet."
-2. **c) Bis 2028.** — "der öffentliche Nahverkehr soll bis 2028 vollständig elektrifiziert werden."
-3. **b) Dass Geringverdiener zusätzlich belastet werden.** — "Kritiker warnen jedoch vor einer zusätzlichen Belastung für Geringverdiener."
-4. **b) Die Reduzierung der Emissionen.** — "die Reduzierung der Emissionen sei das oberste Ziel."
+1. **a) Ein neues Klimapaket.** — "Das Berliner Abgeordnetenhaus hat heute ein neues Klimapaket verabschiedet."
+2. **b) Bis 2028.** — "der öffentliche Nahverkehr soll bis 2028 vollständig elektrifiziert werden."
+3. **c) Dass Geringverdiener zusätzlich belastet werden.** — "Kritiker warnen jedoch vor einer zusätzlichen Belastung für Geringverdiener."
+4. **a) Die Reduzierung der Emissionen.** — "die Reduzierung der Emissionen sei das oberste Ziel."
 
 ---
 

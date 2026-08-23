@@ -50,17 +50,17 @@ exercises:
         why: 'Frau Yilmaz: „über das Projekt sprechen, das letzte Woche schiefgelaufen ist".'
       - q: "Was hätte man laut Frau Yilmaz anders machen müssen?"
         options:
-          - { key: a, text: "Den Kunden früher kontaktieren." }
-          - { key: b, text: "Mehr Geld ausgeben." }
+          - { key: a, text: "Mehr Geld ausgeben." }
+          - { key: b, text: "Den Kunden früher kontaktieren." }
           - { key: c, text: "Das Projekt absagen." }
-        answer: a
+        answer: b
         why: 'Frau Yilmaz: „Wir hätten ihn früher kontaktieren müssen".'
       - q: "Was hätte Anna selbst früher tun sollen?"
         options:
           - { key: a, text: "Den Kunden anrufen." }
-          - { key: b, text: "Das Team um Hilfe bitten." }
-          - { key: c, text: "Den Zeitplan ignorieren." }
-        answer: b
+          - { key: b, text: "Den Zeitplan ignorieren." }
+          - { key: c, text: "Das Team um Hilfe bitten." }
+        answer: c
         why: 'Anna: „Ich hätte außerdem das Team früher um Hilfe bitten sollen".'
       - q: "Was wird ab jetzt eingeführt?"
         options:

@@ -25,8 +25,8 @@ Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Worüber sprechen Frau Yilmaz und Frau Kowalski?  a) Über ein Projekt, das schiefgelaufen ist.  b) Über eine Gehaltserhöhung.  c) Über einen neuen Kunden.
-2. Was hätte man laut Frau Yilmaz anders machen müssen?  a) Den Kunden früher kontaktieren.  b) Mehr Geld ausgeben.  c) Das Projekt absagen.
-3. Was hätte Anna selbst früher tun sollen?  a) Den Kunden anrufen.  b) Das Team um Hilfe bitten.  c) Den Zeitplan ignorieren.
+2. Was hätte man laut Frau Yilmaz anders machen müssen?  a) Mehr Geld ausgeben.  b) Den Kunden früher kontaktieren.  c) Das Projekt absagen.
+3. Was hätte Anna selbst früher tun sollen?  a) Den Kunden anrufen.  b) Den Zeitplan ignorieren.  c) Das Team um Hilfe bitten.
 4. Was wird ab jetzt eingeführt?  a) Ein wöchentliches Gespräch.  b) Eine neue Software.  c) Mehr Pausen.
 
 ## Übung H3 — Hörtext-Lückentext

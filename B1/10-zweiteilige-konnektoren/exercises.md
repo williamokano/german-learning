@@ -24,10 +24,10 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Was ist Hannahs Hauptziel für den neuen Lehrplan?  a) Mehr Unterrichtsstunden zu bekommen.  b) Nicht nur Fachwissen, sondern auch kritisches Denken zu fördern.  c) Nur Primärquellen im Unterricht zu verwenden.
-2. In welchen Fächern arbeitet Hannah mit Primärquellen?  a) Nur im Deutschunterricht.  b) Nur im Geschichtsunterricht.  c) Sowohl im Deutsch- als auch im Geschichtsunterricht.
-3. Wie sieht Hannah das Verhältnis von Breite und Tiefe im Unterricht?  a) Sie bevorzugt Breite, weil es mehr Stoff abdeckt.  b) Entweder man strebt nach Breite und verliert Tiefe, oder man wählt Tiefe und gewinnt Verständnis.  c) Sie findet, dass weder Breite noch Tiefe wichtig ist.
-4. Was sagt Herr Steinmeyer am Ende über Hannahs Entwurf?  a) Der Entwurf ist vollständig und kann sofort umgesetzt werden.  b) Der Entwurf ist zwar noch nicht vollständig, aber er zeigt eine überzeugende Grundlogik.  c) Er lehnt den Entwurf wegen zu wenig empirischer Belege ab.
+1. Was ist Hannahs Hauptziel für den neuen Lehrplan?  a) Nicht nur Fachwissen, sondern auch kritisches Denken zu fördern.  b) Mehr Unterrichtsstunden zu bekommen.  c) Nur Primärquellen im Unterricht zu verwenden.
+2. In welchen Fächern arbeitet Hannah mit Primärquellen?  a) Nur im Deutschunterricht.  b) Sowohl im Deutsch- als auch im Geschichtsunterricht.  c) Nur im Geschichtsunterricht.
+3. Wie sieht Hannah das Verhältnis von Breite und Tiefe im Unterricht?  a) Sie bevorzugt Breite, weil es mehr Stoff abdeckt.  b) Sie findet, dass weder Breite noch Tiefe wichtig ist.  c) Entweder man strebt nach Breite und verliert Tiefe, oder man wählt Tiefe und gewinnt Verständnis.
+4. Was sagt Herr Steinmeyer am Ende über Hannahs Entwurf?  a) Der Entwurf ist zwar noch nicht vollständig, aber er zeigt eine überzeugende Grundlogik.  b) Der Entwurf ist vollständig und kann sofort umgesetzt werden.  c) Er lehnt den Entwurf wegen zu wenig empirischer Belege ab.
 
 ## Übung H3 — Hörtext-Lückentext: Yusuf auf einer Akademikerkonferenz
 
@@ -307,10 +307,10 @@ in beidem.
 Wähle a, b oder c.
 
 
-1. Was sagt Lukas über Berlin?  a) Er liebt Berlin und sieht nur die Vorteile.  b) Er sieht sowohl die Vorzüge als auch die Schattenseiten.  c) Er möchte sofort nach Leipzig umziehen.
+1. Was sagt Lukas über Berlin?  a) Er sieht sowohl die Vorzüge als auch die Schattenseiten.  b) Er liebt Berlin und sieht nur die Vorteile.  c) Er möchte sofort nach Leipzig umziehen.
 2. Was meint Mia mit „Entweder-oder-Denken hilft hier nicht"?  a) Man muss sich zwischen Berlin und einer Kleinstadt entscheiden.  b) Man kann Berlin sowohl lieben als auch kritisch sehen — beides gleichzeitig.  c) Entweder man zieht weg, oder man hört auf zu klagen.
-3. Wie beschreibt Yusuf seine Erfahrung mit zwei Großstädten?  a) Kairo ist besser als Berlin.  b) Weder Berlin noch Kairo ist perfekt, aber beide sind lebendig.  c) Berlin ist die beste Stadt der Welt.
-4. Was ist das Fazit des Lesetexts?  a) Nur Daten können eine Stadt fair bewerten.  b) Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung.  c) Es gibt nur eine richtige Antwort auf die Frage der Lebensqualität.
+3. Wie beschreibt Yusuf seine Erfahrung mit zwei Großstädten?  a) Kairo ist besser als Berlin.  b) Berlin ist die beste Stadt der Welt.  c) Weder Berlin noch Kairo ist perfekt, aber beide sind lebendig.
+4. Was ist das Fazit des Lesetexts?  a) Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung.  b) Nur Daten können eine Stadt fair bewerten.  c) Es gibt nur eine richtige Antwort auf die Frage der Lebensqualität.
 
 ## Übung B9 — Forenbeitrag: Deine Meinung zu einer Lebensentscheidung
 

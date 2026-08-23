@@ -34,31 +34,31 @@ exercises:
     items:
       - q: "Herr Steinmeyer fühlt sich müde, weil …"
         options:
-          - { key: a, text: "er sich nicht ausreichend bewegt hat." }
-          - { key: b, text: "er sich bei der Arbeit sehr gestresst fühlt." }
+          - { key: a, text: "er sich bei der Arbeit sehr gestresst fühlt." }
+          - { key: b, text: "er sich nicht ausreichend bewegt hat." }
           - { key: c, text: "er sich erkältet hat." }
-        answer: b
+        answer: a
         why: "Er fühlt sich bei der Arbeit sehr gestresst."
       - q: "Was empfiehlt die Apothekerin gegen den Stress?"
         options:
           - { key: a, text: "Dreimal täglich eine Tablette nehmen." }
-          - { key: b, text: "Mehr Wasser trinken und Sport machen." }
-          - { key: c, text: "Ein Magnesiumpräparat nehmen und sich jeden Abend entspannen." }
-        answer: c
+          - { key: b, text: "Ein Magnesiumpräparat nehmen und sich jeden Abend entspannen." }
+          - { key: c, text: "Mehr Wasser trinken und Sport machen." }
+        answer: b
         why: "Magnesiumpräparat + 15 Min. ohne Bildschirm."
       - q: "Wie lange hat Herr Steinmeyer die Beschwerden schon?"
         options:
           - { key: a, text: "Seit einer Woche." }
-          - { key: b, text: "Seit drei Tagen." }
-          - { key: c, text: "Seit zwei Wochen." }
-        answer: b
+          - { key: b, text: "Seit zwei Wochen." }
+          - { key: c, text: "Seit drei Tagen." }
+        answer: c
         why: "Seit drei Tagen."
       - q: "Was sagt die Apothekerin über Bildschirme?"
         options:
-          - { key: a, text: "Herr Steinmeyer soll mehr fernsehen, um sich zu entspannen." }
-          - { key: b, text: "Er soll sich abends ohne Bildschirm entspannen." }
+          - { key: a, text: "Er soll sich abends ohne Bildschirm entspannen." }
+          - { key: b, text: "Herr Steinmeyer soll mehr fernsehen, um sich zu entspannen." }
           - { key: c, text: "Er soll sich nur noch eine Stunde pro Tag mit dem Bildschirm beschäftigen." }
-        answer: b
+        answer: a
         why: "Sich abends ohne Bildschirm entspannen."
 
   - id: H3
@@ -91,31 +91,31 @@ exercises:
     items:
       - q: "Wo arbeitet Dr. Berger?"
         options:
-          - { key: a, text: "In einer Apotheke." }
-          - { key: b, text: "In einer Arztpraxis." }
+          - { key: a, text: "In einer Arztpraxis." }
+          - { key: b, text: "In einer Apotheke." }
           - { key: c, text: "In einem Krankenhaus." }
-        answer: b
+        answer: a
         why: '„Sie haben den Anrufbeantworter der Praxis Dr. Berger erreicht."'
       - q: "Wann ist der Termin?"
         options:
-          - { key: a, text: "Am Donnerstag, dem zwölften Juni." }
-          - { key: b, text: "Am Dienstag, dem zehnten Juni." }
+          - { key: a, text: "Am Dienstag, dem zehnten Juni." }
+          - { key: b, text: "Am Donnerstag, dem zwölften Juni." }
           - { key: c, text: "Am Freitag, dem dreizehnten Juni." }
-        answer: a
+        answer: b
         why: "Donnerstag, dem zwölften Juni."
       - q: "Was soll man mitbringen?"
         options:
           - { key: a, text: "Einen Ausweis und Bargeld." }
-          - { key: b, text: "Die Versichertenkarte und den Impfpass." }
-          - { key: c, text: "Nur den Personalausweis." }
-        answer: b
+          - { key: b, text: "Nur den Personalausweis." }
+          - { key: c, text: "Die Versichertenkarte und den Impfpass." }
+        answer: c
         why: "Versichertenkarte und Impfpass."
       - q: "Wie viele Stunden vorher muss man absagen?"
         options:
-          - { key: a, text: "Zwölf Stunden." }
-          - { key: b, text: "Vierundzwanzig Stunden." }
+          - { key: a, text: "Vierundzwanzig Stunden." }
+          - { key: b, text: "Zwölf Stunden." }
           - { key: c, text: "Achtundvierzig Stunden." }
-        answer: b
+        answer: a
         why: "Vierundzwanzig Stunden."
 
   - id: H5

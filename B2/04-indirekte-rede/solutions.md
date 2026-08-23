@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Er klinge wie die eigene Behauptung des Journalisten.** — Frau Yilmaz: „Das ist Ihre eigene Behauptung." — Besser Konjunktiv I.
-2. **a) Die Ministerin erklärte, sie senke die Steuern.** — Frau Yilmaz schlägt den Konjunktiv I vor: „sie senke die Steuern".
-3. **b) Man weicht auf den Konjunktiv II aus (forderten / würden fordern).** — Bei Formgleichheit weicht man auf Konjunktiv II aus.
-4. **b) Die Ministerin sagte, man solle sachlich bleiben.** — Aufforderungen werden mit sollen wiedergegeben: „man solle sachlich bleiben".
+1. **a) Er klinge wie die eigene Behauptung des Journalisten.** — Frau Yilmaz: „Das ist Ihre eigene Behauptung." — Besser Konjunktiv I.
+2. **b) Die Ministerin erklärte, sie senke die Steuern.** — Frau Yilmaz schlägt den Konjunktiv I vor: „sie senke die Steuern".
+3. **c) Man weicht auf den Konjunktiv II aus (forderten / würden fordern).** — Bei Formgleichheit weicht man auf Konjunktiv II aus.
+4. **a) Die Ministerin sagte, man solle sachlich bleiben.** — Aufforderungen werden mit sollen wiedergegeben: „man solle sachlich bleiben".
 
 ## Übung H3 — Hörtext-Lückentext: Die Nachrichten um zwölf
 
@@ -185,10 +185,10 @@ Selbstkorrektur:
 
 1. **a) kenne** — 3. Sg. → Konjunktiv I „kenne".
 2. **b) seien** — „sein" ist auch im Plural eindeutig → Konjunktiv I „seien".
-3. **b) wüssten** — Plural „wissen" = Indikativ → Konjunktiv II „wüssten".
-4. **b) werde** — 3. Sg. von werden → „werde".
+3. **c) wüssten** — Plural „wissen" = Indikativ → Konjunktiv II „wüssten".
+4. **a) werde** — 3. Sg. von werden → „werde".
 5. **b) ob** — Ja-Nein-Frage → „ob".
-6. **b) solle** — Aufforderung in indirekter Rede → „solle".
+6. **c) solle** — Aufforderung in indirekter Rede → „solle".
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wörterkasten)
 
@@ -206,8 +206,8 @@ Selbstkorrektur:
 
 1. **a) Dass der Bau endgültig beschlossen sei.** — „der Stadtrat habe den Bau … endgültig beschlossen. Das war ein Fehler."
 2. **b) Sie sei noch nicht gefallen.** — „eine Entscheidung sei noch nicht gefallen".
-3. **b) Sie seien noch gar nicht berechnet.** — „Laut dem Sprecher seien die Kosten noch gar nicht berechnet."
-4. **b) der Konjunktiv I/II (habe, gebe, sei, lägen)** — Die Redewiedergabe steht im Konjunktiv: habe, gebe, sei, lägen.
+3. **c) Sie seien noch gar nicht berechnet.** — „Laut dem Sprecher seien die Kosten noch gar nicht berechnet."
+4. **a) der Konjunktiv I/II (habe, gebe, sei, lägen)** — Die Redewiedergabe steht im Konjunktiv: habe, gebe, sei, lägen.
 
 ## Übung C5 — Schreiben: Eine kurze Nachrichtenmeldung
 

@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Voicemail von Pavel an seine Mutter
 
-1. **b) Um seinen eigenen Röstbetrieb zu gründen.** — "Ich habe vor, meine Ausbildung zu erweitern, um eines Tages einen eigenen Röstbetrieb zu gründen."
-2. **c) Im September.** — "Der Kurs beginnt im September."
-3. **b) Weil der Kurs komplett auf Deutsch ist.** — "Ich versuche auch, mein Deutsch zu verbessern, weil der Kurs komplett auf Deutsch ist."
-4. **b) Die Aufnahmeprüfung zu bestehen.** — "Ich hoffe natürlich, die Aufnahmeprüfung zu bestehen."
+1. **a) Um seinen eigenen Röstbetrieb zu gründen.** — "Ich habe vor, meine Ausbildung zu erweitern, um eines Tages einen eigenen Röstbetrieb zu gründen."
+2. **b) Im September.** — "Der Kurs beginnt im September."
+3. **c) Weil der Kurs komplett auf Deutsch ist.** — "Ich versuche auch, mein Deutsch zu verbessern, weil der Kurs komplett auf Deutsch ist."
+4. **a) Die Aufnahmeprüfung zu bestehen.** — "Ich hoffe natürlich, die Aufnahmeprüfung zu bestehen."
 
 ---
 
@@ -138,10 +138,10 @@ Modellantwort:
 
 ## Übung B8 — Leseverstehen: Pavels Bewerbungsschreiben
 
-1. **b) Für einen Kaffeeroaster-Kurs.** — "Pavel Novák bewirbt sich um einen Platz in einem Kaffeeroaster-Kurs."
-2. **c) Seinen eigenen Röstbetrieb zu gründen.** — "Mein langfristiges Ziel ist es, meinen eigenen Röstbetrieb zu gründen."
-3. **b) Damit seine Kunden wissen, dass seine Arbeit Standards entspricht.** — "damit meine Kunden wissen, dass meine Arbeit geprüften Standards entspricht."
-4. **b) Regelmäßig an Branchenevents teilzunehmen.** — "Ich habe außerdem vor, regelmäßig an Branchenevents teilzunehmen."
+1. **a) Für einen Kaffeeroaster-Kurs.** — "Pavel Novák bewirbt sich um einen Platz in einem Kaffeeroaster-Kurs."
+2. **b) Seinen eigenen Röstbetrieb zu gründen.** — "Mein langfristiges Ziel ist es, meinen eigenen Röstbetrieb zu gründen."
+3. **c) Damit seine Kunden wissen, dass seine Arbeit Standards entspricht.** — "damit meine Kunden wissen, dass meine Arbeit geprüften Standards entspricht."
+4. **a) Regelmäßig an Branchenevents teilzunehmen.** — "Ich habe außerdem vor, regelmäßig an Branchenevents teilzunehmen."
 
 ## Übung B9 — Forenbeitrag: Deutsch lernen — Warum und Wie?
 
@@ -192,10 +192,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Leseverstehen: Kursbroschüre (neuer Text)
 
-1. **b) Für erfahrene Baristas.** — "Der Kurs richtet sich an erfahrene Baristas."
+1. **a) Für erfahrene Baristas.** — "Der Kurs richtet sich an erfahrene Baristas."
 2. **b) Damit die Dozenten individuell auf jeden eingehen können.** — "damit die Dozenten individuell auf jeden Teilnehmer eingehen können."
-3. **b) Sich mindestens drei Monate im Voraus zu bewerben.** — "Wir empfehlen Ihnen, sich mindestens drei Monate im Voraus zu bewerben."
-4. **c) Eine Abschlussprüfung ablegen.** — "ist eine Abschlussprüfung abzulegen."
+3. **c) Sich mindestens drei Monate im Voraus zu bewerben.** — "Wir empfehlen Ihnen, sich mindestens drei Monate im Voraus zu bewerben."
+4. **a) Eine Abschlussprüfung ablegen.** — "ist eine Abschlussprüfung abzulegen."
 
 ## Übung C5 — Schreiben: Kurzes Motivationsschreiben
 

@@ -204,10 +204,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2 — Einladungskarte
 
-1. **b) Eine Hochzeit** — „wir feiern … unsere Hochzeit".
-2. **c) Im Restaurant** — „im Restaurant „Zur Sonne"".
-3. **b) Um 15 Uhr** — 15:00 Uhr.
-4. **b) Bis zum 20. Juli** — „bis zum 20. Juli Bescheid".
+1. **a) Eine Hochzeit** — „wir feiern … unsere Hochzeit".
+2. **b) Im Restaurant** — „im Restaurant „Zur Sonne"".
+3. **c) Um 15 Uhr** — 15:00 Uhr.
+4. **a) Bis zum 20. Juli** — „bis zum 20. Juli Bescheid".
 
 ## Übung C5 — Schreiben: kurze Einladung
 

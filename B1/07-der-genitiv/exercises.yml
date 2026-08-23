@@ -406,17 +406,17 @@ exercises:
         why: "Genitiv maskulin n-Deklination: des Philosophen."
       - q: "Wegen ______ kommt er nicht."
         options:
-          - { key: a, text: "der Grippe" }
-          - { key: b, text: "die Grippe" }
+          - { key: a, text: "die Grippe" }
+          - { key: b, text: "der Grippe" }
           - { key: c, text: "dem Grippe" }
-        answer: a
+        answer: b
         why: "wegen + Genitiv; die Grippe → der Grippe."
       - q: "Statt ______ nehmen wir den Bus."
         options:
-          - { key: a, text: "des Zuges" }
+          - { key: a, text: "den Zug" }
           - { key: b, text: "dem Zug" }
-          - { key: c, text: "den Zug" }
-        answer: a
+          - { key: c, text: "des Zuges" }
+        answer: c
         why: "statt + Genitiv; der Zug → des Zuges."
       - q: "Die Ergebnisse ______ werden veröffentlicht."
         options:
@@ -427,17 +427,17 @@ exercises:
         why: "Genitiv feminin: die Forschung → der Forschung."
       - q: "Während ______ ist Ruhe Pflicht."
         options:
-          - { key: a, text: "des Konzerts" }
-          - { key: b, text: "dem Konzert" }
+          - { key: a, text: "dem Konzert" }
+          - { key: b, text: "des Konzerts" }
           - { key: c, text: "das Konzert" }
-        answer: a
+        answer: b
         why: "während + Genitiv; das Konzert → des Konzerts."
       - q: "Das ist ______ Buch. (Hans)"
         options:
           - { key: a, text: "Hansens" }
-          - { key: b, text: "Hans'" }
-          - { key: c, text: "Hans's" }
-        answer: b
+          - { key: b, text: "Hans's" }
+          - { key: c, text: "Hans'" }
+        answer: c
         why: "Namen auf -s: Apostrophe, kein zusätzliches -s."
 
   - id: B4
@@ -527,10 +527,10 @@ exercises:
     items:
       - q: "Was muss der Mieter wegen etwaiger Mängel tun?"
         options:
-          - { key: a, text: "Er muss den Vermieter persönlich aufsuchen." }
-          - { key: b, text: "Er muss die Hausverwaltung unverzüglich informieren." }
+          - { key: a, text: "Er muss die Hausverwaltung unverzüglich informieren." }
+          - { key: b, text: "Er muss den Vermieter persönlich aufsuchen." }
           - { key: c, text: "Er muss selbst reparieren." }
-        answer: b
+        answer: a
         why: '"Wegen etwaiger Mängel des Gebäudes ist die Hausverwaltung unverzüglich zu informieren."'
       - q: "Welche Form der Mitteilung wird bevorzugt?"
         options:
@@ -548,10 +548,10 @@ exercises:
         why: '"trägt der Vermieter die Kosten notwendiger Reparaturen des Daches."'
       - q: "Unter welcher Bedingung darf der Mieter untervermieten?"
         options:
-          - { key: a, text: "Ohne Bedingungen." }
-          - { key: b, text: "Mit schriftlicher Genehmigung des Vermieters." }
+          - { key: a, text: "Mit schriftlicher Genehmigung des Vermieters." }
+          - { key: b, text: "Ohne Bedingungen." }
           - { key: c, text: "Nur während der Kündigungsfrist." }
-        answer: b
+        answer: a
         why: '"mit schriftlicher Genehmigung des Vermieters Untervermietungen vorzunehmen."'
 
   - id: B9
@@ -752,10 +752,10 @@ exercises:
     items:
       - q: "Warum werden die Parkplätze gesperrt?"
         options:
-          - { key: a, text: "Wegen eines Stadtfestes." }
-          - { key: b, text: "Wegen der Sanierungsarbeiten des Bürgersteigs." }
+          - { key: a, text: "Wegen der Sanierungsarbeiten des Bürgersteigs." }
+          - { key: b, text: "Wegen eines Stadtfestes." }
           - { key: c, text: "Wegen Sicherheitsproblemen." }
-        answer: b
+        answer: a
         why: '"wegen der Sanierungsarbeiten des Bürgersteigs vor dem Bürgeramt"'
       - q: "Wo kann man während der Sperrung parken?"
         options:
@@ -773,10 +773,10 @@ exercises:
         why: '"Statt des gewohnten Eingangs nutzen Sie bitte den Seiteneingang der Goethestraße."'
       - q: "Wie lange dauert die Sperrung?"
         options:
-          - { key: a, text: "Vom 1. bis 31. Juli." }
-          - { key: b, text: "Vom 1. bis 15. Juli." }
+          - { key: a, text: "Vom 1. bis 15. Juli." }
+          - { key: b, text: "Vom 1. bis 31. Juli." }
           - { key: c, text: "Nur eine Woche." }
-        answer: b
+        answer: a
         why: '"in der Zeit vom 1. bis 15. Juli gesperrt."'
 
   - id: C5

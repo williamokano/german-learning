@@ -418,16 +418,16 @@ exercises:
       - q: 'Im Smalltalk:'
         options:
           - { key: a, text: 'Ich hege Befürchtungen.' }
-          - { key: b, text: 'Ich mache mir Sorgen.' }
-          - { key: c, text: 'Ich trage Bedenken.' }
-        answer: b
+          - { key: b, text: 'Ich trage Bedenken.' }
+          - { key: c, text: 'Ich mache mir Sorgen.' }
+        answer: c
         why: '„Sorgen machen" passt zum Smalltalk; „Befürchtungen hegen" und „Bedenken tragen" sind zu förmlich.'
       - q: 'In einer wissenschaftlichen Hausarbeit:'
         options:
-          - { key: a, text: 'Die Daten sind krass.' }
-          - { key: b, text: 'Die Daten sind bemerkenswert.' }
+          - { key: a, text: 'Die Daten sind bemerkenswert.' }
+          - { key: b, text: 'Die Daten sind krass.' }
           - { key: c, text: 'Die Daten sind der Hammer.' }
-        answer: b
+        answer: a
         why: '„bemerkenswert" passt ins wissenschaftliche Register.'
       - q: 'In einer Pressemitteilung:'
         options:
@@ -687,10 +687,10 @@ exercises:
     items:
       - q: 'Englisch: „That is actually a good idea." — Deutscher Ersatz:'
         options:
-          - { key: a, text: 'Das ist aktuell eine gute Idee.' }
+          - { key: a, text: 'Das ist tatsächlich eine gute Idee.' }
           - { key: b, text: 'Das ist eigentlich eine gute Idee.' }
-          - { key: c, text: 'Das ist tatsächlich eine gute Idee.' }
-        answer: c
+          - { key: c, text: 'Das ist aktuell eine gute Idee.' }
+        answer: a
         why: '„tatsächlich" entspricht „actually" (= „in Wirklichkeit"). „eigentlich" ist auch möglich.'
       - q: 'Englisch: „Eventually we will arrive." — Deutscher Ersatz:'
         options:
@@ -702,16 +702,16 @@ exercises:
       - q: 'Englisch: „I finally realized the truth." — Deutscher Ersatz:'
         options:
           - { key: a, text: 'Ich habe die Wahrheit endlich realisiert.' }
-          - { key: b, text: 'Ich habe die Wahrheit endlich erkannt.' }
-          - { key: c, text: 'Ich habe die Wahrheit endlich verwirklicht.' }
-        answer: b
+          - { key: b, text: 'Ich habe die Wahrheit endlich verwirklicht.' }
+          - { key: c, text: 'Ich habe die Wahrheit endlich erkannt.' }
+        answer: c
         why: '„to realize" (im Sinn von „begreifen") = „erkennen", nicht „verwirklichen".'
       - q: 'Englisch: „He is a sensible person." — Deutscher Ersatz:'
         options:
-          - { key: a, text: 'Er ist ein sensibler Mensch.' }
-          - { key: b, text: 'Er ist ein vernünftiger Mensch.' }
+          - { key: a, text: 'Er ist ein vernünftiger Mensch.' }
+          - { key: b, text: 'Er ist ein sensibler Mensch.' }
           - { key: c, text: 'Er ist ein empfindlicher Mensch.' }
-        answer: b
+        answer: a
         why: '„sensible" (EN) = „vernünftig", nicht „sensibel" (= empfindlich).'
       - q: 'Englisch: „I sympathize with you." — Deutscher Ersatz:'
         options:
@@ -893,31 +893,31 @@ exercises:
     items:
       - q: 'Das Gericht {1} die Verfassungsmäßigkeit des Gesetzes.'
         options:
-          - { key: a, text: 'untersucht' }
-          - { key: b, text: 'prüft' }
+          - { key: a, text: 'prüft' }
+          - { key: b, text: 'untersucht' }
           - { key: c, text: 'testet' }
-        answer: b
+        answer: a
         why: 'Gerichte „prüfen" — formal, kontrollierend.'
       - q: 'Wir {1} die App mit zwanzig Nutzern.'
         options:
           - { key: a, text: 'prüfen' }
-          - { key: b, text: 'erforschen' }
-          - { key: c, text: 'testen' }
-        answer: c
+          - { key: b, text: 'testen' }
+          - { key: c, text: 'erforschen' }
+        answer: b
         why: 'Apps „testet" man — praktisch, unter realen Bedingungen.'
       - q: 'Diese Woche steht eine schwere {1} an.'
         options:
           - { key: a, text: 'Herausforderung' }
-          - { key: b, text: 'Aufgabe' }
-          - { key: c, text: 'Schwierigkeit' }
-        answer: b
+          - { key: b, text: 'Schwierigkeit' }
+          - { key: c, text: 'Aufgabe' }
+        answer: c
         why: 'Sachlich, zu bearbeiten: „Aufgabe".'
       - q: 'Wir freuen uns auf die {1} mit dem internationalen Team.'
         options:
-          - { key: a, text: 'Schwierigkeit' }
-          - { key: b, text: 'Herausforderung' }
+          - { key: a, text: 'Herausforderung' }
+          - { key: b, text: 'Schwierigkeit' }
           - { key: c, text: 'Aufgabe' }
-        answer: b
+        answer: a
         why: 'Positiv, wertend: „Herausforderung".'
       - q: 'Die {1} des Erdbebens ist unklar.'
         options:
@@ -929,9 +929,9 @@ exercises:
       - q: '„{1}“ bedeutet im Deutschen „vielleicht".'
         options:
           - { key: a, text: 'Schließlich' }
-          - { key: b, text: 'Eventuell' }
-          - { key: c, text: 'Keinesfalls' }
-        answer: b
+          - { key: b, text: 'Keinesfalls' }
+          - { key: c, text: 'Eventuell' }
+        answer: c
         why: '„eventuell" heißt „vielleicht"; „schließlich" entspricht „eventually".'
 
   - id: C3

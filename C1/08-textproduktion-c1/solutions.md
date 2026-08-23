@@ -15,10 +15,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (Abstract-Sprechstunde)
 
-1. **b) IMRD (Hintergrund-Ziel-Methoden-Ergebnisse-Schlussfolgerung)** — Yusuf: „Dann orientieren wir uns am IMRD-Schema."
+1. **a) IMRD (Hintergrund-Ziel-Methoden-Ergebnisse-Schlussfolgerung)** — Yusuf: „Dann orientieren wir uns am IMRD-Schema."
 2. **b) „Ein Großteil der Studierenden …"** — Yusuf: „Statt ‚Alle Studierenden …‘ besser ‚Ein Großteil der Studierenden …‘."
-3. **b) Den Konjunktiv I, um die fremde Aussage von der eigenen abzugrenzen.** — Yusuf: „Verwenden Sie den Konjunktiv I. … So grenzen Sie die fremde Aussage von Ihrer eigenen ab."
-4. **b) Themenführungs-Sätze und Rückverweise.** — Yusuf: „Verwenden Sie Themenführungs-Sätze … und Rückverweise."
+3. **c) Den Konjunktiv I, um die fremde Aussage von der eigenen abzugrenzen.** — Yusuf: „Verwenden Sie den Konjunktiv I. … So grenzen Sie die fremde Aussage von Ihrer eigenen ab."
+4. **a) Themenführungs-Sätze und Rückverweise.** — Yusuf: „Verwenden Sie Themenführungs-Sätze … und Rückverweise."
 
 ## Übung H3 — Hörtext-Lückentext: Schreibwerkstatt Erörterung
 
@@ -46,11 +46,11 @@
 
 ## Übung A1 — Erörterung — welche Reihenfolge ist korrekt?
 
-1. **b) Einleitung → These → Hauptteil (Pro/Contra) → Schlussfolgerung** — Standard: Einleitung + These → Hauptteil (Pro und Contra) → Schlussfolgerung (Synthese).
+1. **a) Einleitung → These → Hauptteil (Pro/Contra) → Schlussfolgerung** — Standard: Einleitung + These → Hauptteil (Pro und Contra) → Schlussfolgerung (Synthese).
 2. **b) Insgesamt zeigt sich, dass die These nur bedingt aufrechterhalten werden kann.** — Schlussfolgerung = begründete Neubewertung (Synthese), nicht Wiederholung der Meinung.
-3. **b) Sie führt zum Thema hin und nennt die These.** — Einleitung: Hinführung zum Thema + Formulierung der These.
-4. **b) Eine differenzierte Hauptbehauptung, die im Hauptteil geprüft wird.** — Eine These ist eine differenzierte, begründete Hauptbehauptung, die der Hauptteil prüft.
-5. **c) KI kann den Präsenzunterricht ergänzen, aber nicht ersetzen — nur unter klaren Bedingungen.** — Differenzierte Thesen nennen Bedingungen, schränken ein und sind weder eindeutig Ja noch eindeutig Nein.
+3. **c) Sie führt zum Thema hin und nennt die These.** — Einleitung: Hinführung zum Thema + Formulierung der These.
+4. **a) Eine differenzierte Hauptbehauptung, die im Hauptteil geprüft wird.** — Eine These ist eine differenzierte, begründete Hauptbehauptung, die der Hauptteil prüft.
+5. **b) KI kann den Präsenzunterricht ergänzen, aber nicht ersetzen — nur unter klaren Bedingungen.** — Differenzierte Thesen nennen Bedingungen, schränken ein und sind weder eindeutig Ja noch eindeutig Nein.
 
 ## Übung A2 — Konnektorenpaare ergänzen
 
@@ -58,10 +58,10 @@
 
 ## Übung A3 — Zusammenfassung — linear oder selektiv?
 
-1. **b) Linear = in der Reihenfolge des Originals; selektiv = nach Wichtigkeit geordnet.** — Linear folgt der Reihenfolge; selektiv sortiert nach Wichtigkeit (für Abstract/Thesenpapier).
+1. **a) Linear = in der Reihenfolge des Originals; selektiv = nach Wichtigkeit geordnet.** — Linear folgt der Reihenfolge; selektiv sortiert nach Wichtigkeit (für Abstract/Thesenpapier).
 2. **b) Generalisieren** — Drei konkrete Beispiele werden zu einer allgemeinen Aussage zusammengefasst — Generalisierung.
 3. **c) Wertungen herausfiltern** — Die Wertung „völlig missglückt" wird herausgefiltert; nur der neutrale Sachverhalt bleibt.
-4. **b) Den Originaltext reduzieren, ohne ihn zu verfälschen.** — Zusammenfassen = Reduktion (typisch 1/5 bis 1/10 des Originalumfangs).
+4. **a) Den Originaltext reduzieren, ohne ihn zu verfälschen.** — Zusammenfassen = Reduktion (typisch 1/5 bis 1/10 des Originalumfangs).
 5. **b) Im Mittelpunkt steht die These, dass KI ergänzen, aber nicht ersetzen kann.** — Zusammenfassungen berichten neutral; sie bewerten nicht mit „super" oder „schlecht".
 
 ## Übung A4 — Stellungnahme: Bausteine einsetzen
@@ -90,10 +90,10 @@
 
 ## Übung A9 — Häufige Fehler in der Textproduktion — Korrektur wählen
 
-1. **b) Es lässt sich argumentieren, dass KI Risiken birgt, die einer Regulierung bedürfen.** — Unpersönliche, vorsichtige Formulierung statt persönlicher Meinungsäußerung.
+1. **a) Es lässt sich argumentieren, dass KI Risiken birgt, die einer Regulierung bedürfen.** — Unpersönliche, vorsichtige Formulierung statt persönlicher Meinungsäußerung.
 2. **b) Die Ergebnisse deuten darauf hin, dass KI den Unterricht in Zukunft verändern könnte.** — Hedging durch „deuten darauf hin" + Modalverb „könnte".
-3. **b) Schmidt schreibt, KI verändere alle Bereiche.** — Konjunktiv I „verändere" markiert die fremde Aussage.
-4. **b) Die Argumentation des Autors bleibt an mehreren Stellen vage.** — Zusammenfassen = berichten, nicht bewerten.
+3. **c) Schmidt schreibt, KI verändere alle Bereiche.** — Konjunktiv I „verändere" markiert die fremde Aussage.
+4. **a) Die Argumentation des Autors bleibt an mehreren Stellen vage.** — Zusammenfassen = berichten, nicht bewerten.
 5. **b) Einerseits ermöglicht KI Individualisierung, andererseits verstärkt sie Bildungsungleichheit.** — Ein Konnektorenpaar muss gegensätzliche Richtungen markieren.
 
 ## Übung A10 — Eine Erörterung in die richtige Reihenfolge bringen
@@ -113,8 +113,8 @@
 
 1. **a) Die Autorin nennt verschiedene Einsatzmöglichkeiten von KI im Unterricht.** — Generalisierung statt bloßer Wiedergabe der Beispielliste.
 2. **b) Erste Schulversuche deuten darauf hin, dass …** — Drei konkrete Beispiele werden zu einer allgemeinen Aussage zusammengefasst.
-3. **b) Das Experiment zeigt, dass …** — Wertung herausfiltern; neutraler Sachverhalt bleibt.
-4. **b) Der Autor behandelt die Möglichkeiten und Grenzen von KI.** — Verdichtung: zwei Aspekte (Möglichkeiten und Grenzen) statt linearer Aufzählung.
+3. **c) Das Experiment zeigt, dass …** — Wertung herausfiltern; neutraler Sachverhalt bleibt.
+4. **a) Der Autor behandelt die Möglichkeiten und Grenzen von KI.** — Verdichtung: zwei Aspekte (Möglichkeiten und Grenzen) statt linearer Aufzählung.
 5. **b) Schmidt schreibt, die Zukunft gehöre KI.** — Indirekte Wiedergabe im Konjunktiv I: „gehöre".
 
 ## Übung B3 — Stellungnahme: Strukturbausteine zuordnen
@@ -127,9 +127,9 @@
 
 ## Übung B5 — Kohärenz im Text — welche Version ist kohärent?
 
-1. **b) Im Folgenden wird die Methode erläutert. Die oben erwähnte Stichprobe umfasste 200 Personen.** — Themenführung („Im Folgenden wird … erläutert") + Rückverweis („Die oben erwähnte …").
+1. **a) Im Folgenden wird die Methode erläutert. Die oben erwähnte Stichprobe umfasste 200 Personen.** — Themenführung („Im Folgenden wird … erläutert") + Rückverweis („Die oben erwähnte …").
 2. **b) Einerseits ermöglicht KI Individualisierung, andererseits verstärkt sie Bildungsungleichheit.** — Gegensätzliche Richtungen im Konnektorenpaar.
-3. **b) Wie bereits dargelegt wurde, stützt sich die Arbeit auf eine Online-Befragung.** — Adverbiale Anknüpfung verweist auf den vorherigen Abschnitt.
+3. **c) Wie bereits dargelegt wurde, stützt sich die Arbeit auf eine Online-Befragung.** — Adverbiale Anknüpfung verweist auf den vorherigen Abschnitt.
 4. **a) Mit Blick auf die eingangs formulierte These lässt sich nun eine Antwort geben.** — „Mit Blick auf die eingangs formulierte These …" greift die einleitende These wieder auf.
 5. **b) KI kann das und jenes. Diese Technologie ist überall und überaus nützlich.** — Rückverweis durch Demonstrativpronomen + Variation („diese Technologie").
 
@@ -178,10 +178,10 @@ Selbstkorrektur:
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-1. **b) wird** — Vorgangspassiv Präsens: „wird … untersucht".
+1. **a) wird** — Vorgangspassiv Präsens: „wird … untersucht".
 2. **b) vertritt die These** — „Die These vertreten" ist die Standardformulierung für die Hauptbehauptung.
-3. **b) dass KI in untersorgten Regionen eine Brücke sein kann** — „Einerseits …, dass …" — Pro-Argument mit Konjunktion „dass".
-4. **b) sei** — Konjunktiv I der Redewiedergabe: „sei".
+3. **c) dass KI in untersorgten Regionen eine Brücke sein kann** — „Einerseits …, dass …" — Pro-Argument mit Konjunktion „dass".
+4. **a) sei** — Konjunktiv I der Redewiedergabe: „sei".
 5. **b) deuten** — Hedging: „deuten darauf hin".
 6. **c) enthält** — „… enthält …" — Verb an der zweiten Stelle; Subjekt „die fünf Bausteine".
 
@@ -199,10 +199,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2 (Beitrag 2 von Dr. El-Sayed: Sammelband-Rezension)
 
-1. **b) Das gedruckte Buch hat den Kindle nicht verdrängt — und umgekehrt.** — „Das gedruckte Buch hat den Kindle nicht verdrängt — und der Kindle wird das Buch nicht verdrängen."
-2. **a) Kulturkonservativ, marktwirtschaftlich, bildungswissenschaftlich.** — „ein kulturkonservativer, ein marktwirtschaftlicher und ein bildungswissenschaftlicher [Blickwinkel]."
-3. **b) Es ist ein kulturelles Artefakt mit eigener Würde.** — „ist das Buch mehr als ein Informationsträger; es sei ein kulturelles Artefakt, das durch seine Materialität eine eigene Würde erhält."
-4. **b) Junge Leser\*innen bevorzugen zwar digitale Texte, wählen aber für längere Lektüren weiterhin das gedruckte Buch.** — „dass junge Leser\*innen zwar digitale Texte bevorzugen, aber für längere Lektüren weiterhin das gedruckte Buch wählen."
+1. **a) Das gedruckte Buch hat den Kindle nicht verdrängt — und umgekehrt.** — „Das gedruckte Buch hat den Kindle nicht verdrängt — und der Kindle wird das Buch nicht verdrängen."
+2. **b) Kulturkonservativ, marktwirtschaftlich, bildungswissenschaftlich.** — „ein kulturkonservativer, ein marktwirtschaftlicher und ein bildungswissenschaftlicher [Blickwinkel]."
+3. **c) Es ist ein kulturelles Artefakt mit eigener Würde.** — „ist das Buch mehr als ein Informationsträger; es sei ein kulturelles Artefakt, das durch seine Materialität eine eigene Würde erhält."
+4. **a) Junge Leser\*innen bevorzugen zwar digitale Texte, wählen aber für längere Lektüren weiterhin das gedruckte Buch.** — „dass junge Leser\*innen zwar digitale Texte bevorzugen, aber für längere Lektüren weiterhin das gedruckte Buch wählen."
 
 ## Übung C5 — Schreiben: lineare Erörterung (C1-Prüfungsformat)
 

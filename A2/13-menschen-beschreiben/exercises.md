@@ -24,10 +24,10 @@ Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Wie lange wohnt Klaus schon im Haus?  a) Seit drei Wochen.  b) Seit einer Woche.  c) Seit einem Monat.
-2. Was ist Klaus von Beruf?  a) Er ist Lehrer.  b) Er ist Arzt.  c) Er ist Architekt.
-3. Woher kommt Klaus' Frau?  a) Aus Berlin.  b) Aus Wien.  c) Aus Hamburg.
-4. Was sagt Frau Weber am Ende des Gesprächs?  a) Sie möchte die Familie nicht kennenlernen.  b) Sie freut sich auf eine gute Nachbarschaft.  c) Sie findet die Familie nicht sympathisch.
+1. Wie lange wohnt Klaus schon im Haus?  a) Seit einer Woche.  b) Seit drei Wochen.  c) Seit einem Monat.
+2. Was ist Klaus von Beruf?  a) Er ist Lehrer.  b) Er ist Architekt.  c) Er ist Arzt.
+3. Woher kommt Klaus' Frau?  a) Aus Berlin.  b) Aus Hamburg.  c) Aus Wien.
+4. Was sagt Frau Weber am Ende des Gesprächs?  a) Sie freut sich auf eine gute Nachbarschaft.  b) Sie möchte die Familie nicht kennenlernen.  c) Sie findet die Familie nicht sympathisch.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -48,10 +48,10 @@ Höre und ergänze die 6 fehlenden Wörter. Vier Wörter im Kasten werden nicht 
 
 Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
-1. Warum ruft Anna an?  a) Sie kann Bruno nicht vom Bahnhof abholen.  b) Sie kommt ein bisschen später als geplant.  c) Sie hat Brunos Bruder am Bahnhof getroffen.
-2. Wen soll Bruno abholen?  a) Einen Kollegen von Anna.  b) Annas Freund Marko.  c) Annas Bruder Sergej.
-3. Welche Beschreibung passt zu Sergej?  a) Klein, kräftig, lange blonde Haare, blaue Jacke.  b) Groß, schlank, kurze dunkle Haare, rote Jacke.  c) Mittelgroß, braune Haare, schwarze Jacke.
-4. Was soll Bruno tun, wenn er Sergej gefunden hat?  a) Er soll Anna eine SMS schreiben.  b) Er soll Anna anrufen.  c) Er soll am Ausgang warten.
+1. Warum ruft Anna an?  a) Sie kommt ein bisschen später als geplant.  b) Sie kann Bruno nicht vom Bahnhof abholen.  c) Sie hat Brunos Bruder am Bahnhof getroffen.
+2. Wen soll Bruno abholen?  a) Einen Kollegen von Anna.  b) Annas Bruder Sergej.  c) Annas Freund Marko.
+3. Welche Beschreibung passt zu Sergej?  a) Klein, kräftig, lange blonde Haare, blaue Jacke.  b) Mittelgroß, braune Haare, schwarze Jacke.  c) Groß, schlank, kurze dunkle Haare, rote Jacke.
+4. Was soll Bruno tun, wenn er Sergej gefunden hat?  a) Er soll Anna anrufen.  b) Er soll Anna eine SMS schreiben.  c) Er soll am Ausgang warten.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

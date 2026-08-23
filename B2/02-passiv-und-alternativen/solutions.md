@@ -200,10 +200,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2 (Auszug aus einer Pressemitteilung)
 
-1. **b) An der Technischen Universität.** — „ist an der Technischen Universität entwickelt worden."
-2. **a) Plastikmüll fast vollständig in Grundstoffe zerlegen.** — „lässt sich Plastikmüll fast vollständig in seine Grundstoffe zerlegen."
-3. **b) Er ist jetzt trennbar.** — „Mit unserem Verfahren ist er nun trennbar."
-4. **b) Es muss von einer Behörde genehmigt werden.** — „muss es von einer Behörde genehmigt werden."
+1. **a) An der Technischen Universität.** — „ist an der Technischen Universität entwickelt worden."
+2. **b) Plastikmüll fast vollständig in Grundstoffe zerlegen.** — „lässt sich Plastikmüll fast vollständig in seine Grundstoffe zerlegen."
+3. **c) Er ist jetzt trennbar.** — „Mit unserem Verfahren ist er nun trennbar."
+4. **a) Es muss von einer Behörde genehmigt werden.** — „muss es von einer Behörde genehmigt werden."
 
 ## Übung C5 — Schreiben: Anleitung oder Vorschrift verfassen
 

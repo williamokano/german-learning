@@ -42,10 +42,10 @@ exercises:
     items:
       - q: "Wie beginnt Anna das Telefongespräch?"
         options:
-          - { key: a, text: 'Sie sagt nur: „Guten Tag, ich bin Anna."' }
-          - { key: b, text: 'Sie sagt: „Hier spricht Anna Kowalski" und fragt, ob Frau Weber Zeit hat.' }
+          - { key: a, text: 'Sie sagt: „Hier spricht Anna Kowalski" und fragt, ob Frau Weber Zeit hat.' }
+          - { key: b, text: 'Sie sagt nur: „Guten Tag, ich bin Anna."' }
           - { key: c, text: "Sie fragt sofort nach den Anweisungen." }
-        answer: b
+        answer: a
         why: 'Anna says "Hier spricht Anna Kowalski" and then "hätten Sie einen Moment?"'
       - q: "Was möchte Anna über die Präsentation wissen?"
         options:
@@ -57,16 +57,16 @@ exercises:
       - q: "Was schickt Frau Weber Anna bis morgen?"
         options:
           - { key: a, text: "Den Stundenplan." }
-          - { key: b, text: "Eine Liste mit empfohlenen Quellen." }
-          - { key: c, text: "Das fertige PowerPoint-Dokument." }
-        answer: b
+          - { key: b, text: "Das fertige PowerPoint-Dokument." }
+          - { key: c, text: "Eine Liste mit empfohlenen Quellen." }
+        answer: c
         why: '"Ich schicke Ihnen bis morgen eine Liste mit empfohlenen Quellen."'
       - q: "Bis wann möchte Anna die Datei einreichen?"
         options:
-          - { key: a, text: "Bis Donnerstagabend." }
+          - { key: a, text: "Bis Donnerstagmittag." }
           - { key: b, text: "Bis Freitagmorgen." }
-          - { key: c, text: "Bis Donnerstagmittag." }
-        answer: c
+          - { key: c, text: "Bis Donnerstagabend." }
+        answer: a
         why: '"Ich würde die Datei gerne bis Donnerstagmittag einreichen."'
 
   - id: H3
@@ -102,10 +102,10 @@ exercises:
     items:
       - q: "Warum ruft das Hotel an?"
         options:
-          - { key: a, text: "Um eine Buchung zu bestätigen." }
-          - { key: b, text: "Um Fragen zur Buchungsanfrage zu stellen." }
+          - { key: a, text: "Um Fragen zur Buchungsanfrage zu stellen." }
+          - { key: b, text: "Um eine Buchung zu bestätigen." }
           - { key: c, text: "Um einen Termin abzusagen." }
-        answer: b
+        answer: a
         why: '"Wir rufen an, weil wir eine Frage zu Ihrer Buchungsanfrage haben."'
       - q: "Was möchte das Hotel über das Frühstück wissen?"
         options:
@@ -117,16 +117,16 @@ exercises:
       - q: "Warum fragt das Hotel nach der Anreise?"
         options:
           - { key: a, text: "Um den Anreisetag zu kennen." }
-          - { key: b, text: "Um eventuell einen Parkplatz zu reservieren." }
-          - { key: c, text: "Um den Zug zu buchen." }
-        answer: b
+          - { key: b, text: "Um den Zug zu buchen." }
+          - { key: c, text: "Um eventuell einen Parkplatz zu reservieren." }
+        answer: c
         why: '"da wir wissen müssen, ob wir einen Parkplatz reservieren sollen."'
       - q: "Bis wann soll der Gast zurückrufen?"
         options:
-          - { key: a, text: "Bis morgen früh." }
-          - { key: b, text: "Bis heute Abend." }
+          - { key: a, text: "Bis heute Abend." }
+          - { key: b, text: "Bis morgen früh." }
           - { key: c, text: "Bis nächste Woche." }
-        answer: b
+        answer: a
         why: '"Könnten Sie uns bitte bis heute Abend zurückrufen?"'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
@@ -607,31 +607,31 @@ exercises:
     items:
       - q: "Was möchte Anna zuerst wissen?"
         options:
-          - { key: a, text: "Ob das Hotel einen Pool hat." }
-          - { key: b, text: "Ob noch Zimmer für ihren Zeitraum frei sind." }
+          - { key: a, text: "Ob noch Zimmer für ihren Zeitraum frei sind." }
+          - { key: b, text: "Ob das Hotel einen Pool hat." }
           - { key: c, text: "Wie viel die Reise nach Wien kostet." }
-        answer: b
+        answer: a
         why: '"Zunächst möchte ich wissen, ob noch Zimmer für diesen Zeitraum verfügbar sind."'
       - q: "Warum fragt Anna nach einem Fahrrad?"
         options:
           - { key: a, text: "Weil sie kein Auto hat." }
-          - { key: b, text: "Weil sie das Fahrrad günstig findet." }
-          - { key: c, text: "Weil sie nicht sicher ist, ob ein Fahrrad für das Stadtzentrum sinnvoll wäre." }
-        answer: c
+          - { key: b, text: "Weil sie nicht sicher ist, ob ein Fahrrad für das Stadtzentrum sinnvoll wäre." }
+          - { key: c, text: "Weil sie das Fahrrad günstig findet." }
+        answer: b
         why: '"Ich bin mir nicht sicher, ob es sinnvoll wäre, ein Fahrrad zu mieten."'
       - q: "Warum fragt Anna nach dem Stornierungsrecht?"
         options:
           - { key: a, text: "Weil sie das Hotel nicht mag." }
-          - { key: b, text: "Weil sie nicht sicher ist, ob sie den dritten Tag dabei sein wird." }
-          - { key: c, text: "Weil das Hotel zu teuer ist." }
-        answer: b
+          - { key: b, text: "Weil das Hotel zu teuer ist." }
+          - { key: c, text: "Weil sie nicht sicher ist, ob sie den dritten Tag dabei sein wird." }
+        answer: c
         why: '"Ich weiß noch nicht genau, ob ich den dritten Tag (17. Juli) tatsächlich dabei sein werde."'
       - q: "Welche Zimmerart möchte Anna buchen?"
         options:
-          - { key: a, text: "Ein Doppelzimmer." }
-          - { key: b, text: "Ein Einzelzimmer." }
+          - { key: a, text: "Ein Einzelzimmer." }
+          - { key: b, text: "Ein Doppelzimmer." }
           - { key: c, text: "Eine Suite." }
-        answer: b
+        answer: a
         why: '"würde ich gerne ein Einzelzimmer buchen."'
 
   - id: B9
@@ -818,10 +818,10 @@ exercises:
     items:
       - q: "Ab wann ist das Zimmer normalerweise bereit?"
         options:
-          - { key: a, text: "Ab 12:00 Uhr." }
-          - { key: b, text: "Ab 15:00 Uhr." }
+          - { key: a, text: "Ab 15:00 Uhr." }
+          - { key: b, text: "Ab 12:00 Uhr." }
           - { key: c, text: "Ab 18:00 Uhr." }
-        answer: b
+        answer: a
         why: '"das Zimmer ab 15:00 Uhr bereitsteht."'
       - q: "Was gilt für Haustiere?"
         options:
@@ -839,10 +839,10 @@ exercises:
         why: '"Das Hotel liegt nur 500 Meter vom Westbahnhof entfernt."'
       - q: "Warum bittet das Hotel die Gäste, besondere Anforderungen mitzuteilen?"
         options:
-          - { key: a, text: "Um den Preis anzupassen." }
-          - { key: b, text: "Damit der Aufenthalt optimal vorbereitet werden kann." }
+          - { key: a, text: "Damit der Aufenthalt optimal vorbereitet werden kann." }
+          - { key: b, text: "Um den Preis anzupassen." }
           - { key: c, text: "Weil das gesetzlich vorgeschrieben ist." }
-        answer: b
+        answer: a
         why: '"damit wir Ihren Aufenthalt optimal vorbereiten können."'
 
   - id: C5

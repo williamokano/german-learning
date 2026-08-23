@@ -172,10 +172,10 @@ exercises:
     items:
       - q: 'Welcher Satz passt in eine Hausarbeit?'
         options:
-          - { key: a, text: 'Ich habe 200 Personen befragt.' }
-          - { key: b, text: 'Es wurden 200 Personen befragt.' }
+          - { key: a, text: 'Es wurden 200 Personen befragt.' }
+          - { key: b, text: 'Ich habe 200 Personen befragt.' }
           - { key: c, text: 'Ich glaube, 200 Leute oder so wurden gefragt.' }
-        answer: b
+        answer: a
         why: 'Das Passiv „Es wurden … befragt" rückt die Person in den Hintergrund.'
       - q: 'Welcher Satz ist am sachlichsten?'
         options:
@@ -186,17 +186,17 @@ exercises:
         why: '„Das lässt sich nicht eindeutig beantworten" ist unpersönlich und vorsichtig.'
       - q: 'Welche Formulierung ist im Fachstil korrekt?'
         options:
-          - { key: a, text: 'In dieser Arbeit wird untersucht, ob …' }
+          - { key: a, text: 'Ich tu in dieser Arbeit untersuchen, ob …' }
           - { key: b, text: 'In dieser Arbeit untersuche ich von mir, ob …' }
-          - { key: c, text: 'Ich tu in dieser Arbeit untersuchen, ob …' }
-        answer: a
+          - { key: c, text: 'In dieser Arbeit wird untersucht, ob …' }
+        answer: c
         why: 'Im Passiv lässt man den Urheber gerade weg: „wird untersucht".'
       - q: 'Welcher Satz nutzt einen korrekten Passiversatz?'
         options:
-          - { key: a, text: 'Die These ist sich belegen.' }
-          - { key: b, text: 'Die These lässt sich belegen.' }
+          - { key: a, text: 'Die These lässt sich belegen.' }
+          - { key: b, text: 'Die These ist sich belegen.' }
           - { key: c, text: 'Die These wird sich belegt.' }
-        answer: b
+        answer: a
         why: 'Passiversatz: „sich lassen" + Infinitiv → „lässt sich belegen".'
       - q: 'Welcher Satz ist ein korrektes Zustandspassiv?'
         options:
@@ -268,17 +268,17 @@ exercises:
         why: '„aufgrund" + Genitiv-Nomen: „aufgrund der Datenerhebung".'
       - q: '„nachdem die Studie durchgeführt wurde" — nominal:'
         options:
-          - { key: a, text: 'nach Durchführung der Studie' }
-          - { key: b, text: 'nach durchführen die Studie' }
+          - { key: a, text: 'nach durchführen die Studie' }
+          - { key: b, text: 'nach Durchführung der Studie' }
           - { key: c, text: 'nachdem der Durchführung' }
-        answer: a
+        answer: b
         why: '„nach Durchführung der Studie" verdichtet den Nebensatz.'
       - q: '„obwohl die Stichprobe klein war" — nominal:'
         options:
-          - { key: a, text: 'trotz der kleinen Stichprobe' }
+          - { key: a, text: 'trotz die kleine Stichprobe' }
           - { key: b, text: 'wegen der kleinen Stichprobe' }
-          - { key: c, text: 'trotz die kleine Stichprobe' }
-        answer: a
+          - { key: c, text: 'trotz der kleinen Stichprobe' }
+        answer: c
         why: '„trotz" + Genitiv: „trotz der kleinen Stichprobe".'
       - q: '„wenn die Methode angewendet wird" — nominal:'
         options:
@@ -323,10 +323,10 @@ exercises:
     items:
       - q: 'Welcher Satz formuliert vorsichtig (Hedging)?'
         options:
-          - { key: a, text: 'Das beweist eindeutig, dass Schlaf wichtig ist.' }
-          - { key: b, text: 'Die Daten deuten darauf hin, dass Schlaf wichtig ist.' }
+          - { key: a, text: 'Die Daten deuten darauf hin, dass Schlaf wichtig ist.' }
+          - { key: b, text: 'Das beweist eindeutig, dass Schlaf wichtig ist.' }
           - { key: c, text: 'Schlaf ist zu 100 % am wichtigsten.' }
-        answer: b
+        answer: a
         why: '„deuten darauf hin" schwächt die Aussage angemessen ab.'
       - q: 'Welcher Satz ist angemessen vorsichtig?'
         options:
@@ -338,23 +338,23 @@ exercises:
       - q: 'Welche Vermutung ist korrekt mit einem Modalverb formuliert?'
         options:
           - { key: a, text: 'Das ist definitiv der Grund.' }
-          - { key: b, text: 'Das dürfte ein wesentlicher Grund sein.' }
-          - { key: c, text: 'Das ist hundertprozentig der Grund.' }
-        answer: b
+          - { key: b, text: 'Das ist hundertprozentig der Grund.' }
+          - { key: c, text: 'Das dürfte ein wesentlicher Grund sein.' }
+        answer: c
         why: '„dürfte … sein" drückt eine begründete Vermutung aus.'
       - q: 'Welcher Satz ist NICHT übertrieben gehedgt?'
         options:
-          - { key: a, text: 'Das könnte eventuell vielleicht unter Umständen so sein.' }
-          - { key: b, text: 'Das könnte zutreffen.' }
+          - { key: a, text: 'Das könnte zutreffen.' }
+          - { key: b, text: 'Das könnte eventuell vielleicht unter Umständen so sein.' }
           - { key: c, text: 'Das deutet darauf hin, dass es definitiv so ist.' }
-        answer: b
+        answer: a
         why: 'Ein Hedge genügt: „Das könnte zutreffen." Mehrere widersprechen sich.'
       - q: 'Welche Wendung markiert Distanz zu einer Behauptung?'
         options:
-          - { key: a, text: 'Es spricht einiges dafür, dass …' }
-          - { key: b, text: 'Es ist sonnenklar, dass …' }
+          - { key: a, text: 'Es ist sonnenklar, dass …' }
+          - { key: b, text: 'Es spricht einiges dafür, dass …' }
           - { key: c, text: 'Jeder weiß doch, dass …' }
-        answer: a
+        answer: b
         why: '„Es spricht einiges dafür" ist eine typische Hedging-Wendung.'
 
   - id: A7

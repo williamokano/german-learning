@@ -793,10 +793,10 @@ exercises:
     items:
       - q: "Die Sprachschule sucht … — The language school is looking for …"
         options:
-          - { key: a, text: "eine Vollzeitkraft" }
-          - { key: b, text: "eine Teilzeitkraft" }
+          - { key: a, text: "eine Teilzeitkraft" }
+          - { key: b, text: "eine Vollzeitkraft" }
           - { key: c, text: "einen Programmierer" }
-        answer: b
+        answer: a
         why: "Die Stelle ist Teilzeit: 15 Stunden pro Woche."
       - q: "Bewerber müssen … — Applicants must …"
         options:
@@ -814,10 +814,10 @@ exercises:
         why: "15 Stunden pro Woche."
       - q: "Wo muss man die Bewerbung hinschicken? — Where does one have to send the application?"
         options:
-          - { key: a, text: "per Post" }
-          - { key: b, text: "per E-Mail" }
+          - { key: a, text: "per E-Mail" }
+          - { key: b, text: "per Post" }
           - { key: c, text: "per Telefon" }
-        answer: b
+        answer: a
         why: "Bitte bewerben Sie sich per E-Mail: jobs@lingua-schule.de."
 
   - id: C5

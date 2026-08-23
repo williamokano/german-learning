@@ -43,10 +43,10 @@ exercises:
     items:
       - q: "Was hat Herr Steinmeyer bereits gelesen?"
         options:
-          - { key: a, text: "Annas Bewerbung für eine neue Stelle." }
-          - { key: b, text: "Das Empfehlungsschreiben, das Anna ihm geschickt hat." }
+          - { key: a, text: "Das Empfehlungsschreiben, das Anna ihm geschickt hat." }
+          - { key: b, text: "Annas Bewerbung für eine neue Stelle." }
           - { key: c, text: "Annas Lebenslauf." }
-        answer: b
+        answer: a
         why: '"Ich habe das Schreiben gelesen, das Sie mir gestern geschickt haben."'
       - q: "Was kritisiert Herr Steinmeyer an Annas erster Formulierung?"
         options:
@@ -58,16 +58,16 @@ exercises:
       - q: "Was sagt Herr Steinmeyer über das Wort `worauf`?"
         options:
           - { key: a, text: "Es ist hier korrekt und passt gut." }
-          - { key: b, text: "Es gehört zu einer anderen Kategorie — man schreibt stattdessen `auf das`." }
-          - { key: c, text: "Es ist zu informell für ein Empfehlungsschreiben." }
-        answer: b
+          - { key: b, text: "Es ist zu informell für ein Empfehlungsschreiben." }
+          - { key: c, text: "Es gehört zu einer anderen Kategorie — man schreibt stattdessen `auf das`." }
+        answer: c
         why: '"`worauf` gehört zu einer anderen Kategorie. Auf diesem Niveau schreibt man: `auf das wir sehr stolz sind`."'
       - q: "Wie bewertet Herr Steinmeyer am Ende das überarbeitete Schreiben?"
         options:
-          - { key: a, text: "Er findet es noch zu informell." }
-          - { key: b, text: "Er ist sicher, dass es einen sehr guten Eindruck machen wird." }
+          - { key: a, text: "Er ist sicher, dass es einen sehr guten Eindruck machen wird." }
+          - { key: b, text: "Er findet es noch zu informell." }
           - { key: c, text: "Er will noch mehr Änderungen besprechen." }
-        answer: b
+        answer: a
         why: '"Das Schreiben, das Sie dann einreichen, wird sicher einen sehr guten Eindruck machen."'
 
   - id: H3
@@ -102,10 +102,10 @@ exercises:
     items:
       - q: "Warum ruft Pavel an?"
         options:
-          - { key: a, text: "Um Anna zu einer Konferenz einzuladen." }
-          - { key: b, text: "Um Anna ein neues Café zu empfehlen." }
+          - { key: a, text: "Um Anna ein neues Café zu empfehlen." }
+          - { key: b, text: "Um Anna zu einer Konferenz einzuladen." }
           - { key: c, text: "Um Anna nach einem Rezept zu fragen." }
-        answer: b
+        answer: a
         why: '"Ich wollte dir kurz einen Tipp geben. In unserem Kiez gibt es jetzt ein neues Café, das du unbedingt kennen musst."'
       - q: "Was sagt Pavel über die Barista?"
         options:
@@ -117,16 +117,16 @@ exercises:
       - q: "Was ist laut Pavel das Beste, was die Barista macht?"
         options:
           - { key: a, text: "Ein Espresso aus Brasilien." }
-          - { key: b, text: "Ein Filterkaffee aus Äthiopien." }
-          - { key: c, text: "Ein Cappuccino aus Berlin." }
-        answer: b
+          - { key: b, text: "Ein Cappuccino aus Berlin." }
+          - { key: c, text: "Ein Filterkaffee aus Äthiopien." }
+        answer: c
         why: '"Das Beste, was sie macht, ist ein Filterkaffee aus Äthiopien."'
       - q: "Was soll Anna tun?"
         options:
-          - { key: a, text: "Eine Reservierung machen." }
-          - { key: b, text: "Pavel zurückrufen, wenn sie hingeht." }
+          - { key: a, text: "Pavel zurückrufen, wenn sie hingeht." }
+          - { key: b, text: "Eine Reservierung machen." }
           - { key: c, text: "Das Café alleine besuchen." }
-        answer: b
+        answer: a
         why: '"Bitte ruf mich zurück, wenn du hingehst — ich komme gern mit!"'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
@@ -437,16 +437,16 @@ exercises:
       - q: "Das ist das Stadtgebiet, ______ die Nachfrage am größten ist."
         options:
           - { key: a, text: "in der" }
-          - { key: b, text: "in dem" }
-          - { key: c, text: "in den" }
-        answer: b
+          - { key: b, text: "in den" }
+          - { key: c, text: "in dem" }
+        answer: c
         why: "das Stadtgebiet (n.) + preposition in → Dativ → in dem."
       - q: "Das Wichtigste, ______ wir brauchen, ist Ausdauer."
         options:
-          - { key: a, text: "das" }
-          - { key: b, text: "was" }
+          - { key: a, text: "was" }
+          - { key: b, text: "das" }
           - { key: c, text: "die" }
-        answer: b
+        answer: a
         why: "das Wichtigste is a neuter superlative → relative pronoun is was."
       - q: "Das ist die Stadt, ______ Pavel seit drei Jahren lebt."
         options:
@@ -458,9 +458,9 @@ exercises:
       - q: "Das ist der Grund, ______ wir expandieren."
         options:
           - { key: a, text: "für dem" }
-          - { key: b, text: "für den" }
-          - { key: c, text: "für die" }
-        answer: b
+          - { key: b, text: "für die" }
+          - { key: c, text: "für den" }
+        answer: c
         why: "der Grund (m.) + für (Akkusativ) → für den."
 
   - id: B4
@@ -561,31 +561,31 @@ exercises:
     items:
       - q: "Worauf konzentriert sich das Startup?"
         options:
-          - { key: a, text: "Auf das Stadtzentrum, das gut erschlossen ist." }
-          - { key: b, text: "Auf Stadtgebiete, in denen der öffentliche Nahverkehr unzureichend ist." }
+          - { key: a, text: "Auf Stadtgebiete, in denen der öffentliche Nahverkehr unzureichend ist." }
+          - { key: b, text: "Auf das Stadtzentrum, das gut erschlossen ist." }
           - { key: c, text: "Auf Stadtgebiete, wo viele Autos fahren." }
-        answer: b
+        answer: a
         why: '"Wir konzentrieren uns auf die Stadtgebiete, in denen der öffentliche Nahverkehr bisher unzureichend ist."'
       - q: "Was unterscheidet das Startup von anderen Anbietern?"
         options:
           - { key: a, text: "Der günstige Preis." }
-          - { key: b, text: "Die schnelle Lieferung." }
-          - { key: c, text: "Der Fokus auf Randbezirke." }
-        answer: c
+          - { key: b, text: "Der Fokus auf Randbezirke." }
+          - { key: c, text: "Die schnelle Lieferung." }
+        answer: b
         why: '"Das Einzige, was uns von anderen Anbietern unterscheidet, ist unser Fokus."'
       - q: "Was sagt das Startup über sein Team?"
         options:
           - { key: a, text: "Das Team besteht aus internationalen Experten." }
-          - { key: b, text: "Das Team besteht aus Leuten, auf die man sich verlassen kann." }
-          - { key: c, text: "Das Team arbeitet nur in Berlin." }
-        answer: b
+          - { key: b, text: "Das Team arbeitet nur in Berlin." }
+          - { key: c, text: "Das Team besteht aus Leuten, auf die man sich verlassen kann." }
+        answer: c
         why: '"Unser Team besteht aus Leuten, auf die du dich wirklich verlassen kannst."'
       - q: "Was ist das Beste, was die Nutzer über das Startup sagen?"
         options:
-          - { key: a, text: "Die App ist die günstigste auf dem Markt." }
-          - { key: b, text: "Endlich eine Lösung, die wirklich zum Alltag passt." }
+          - { key: a, text: "Endlich eine Lösung, die wirklich zum Alltag passt." }
+          - { key: b, text: "Die App ist die günstigste auf dem Markt." }
           - { key: c, text: "Das Startup kümmert sich um die Umwelt." }
-        answer: b
+        answer: a
         why: '"Das Beste, was unsere Nutzer über uns sagen, ist: Endlich eine Lösung, die wirklich zu meinem Alltag passt."'
 
   - id: B9
@@ -779,31 +779,31 @@ exercises:
     items:
       - q: "Was sucht die Sprachschule?"
         options:
-          - { key: a, text: "Eine Verwaltungskraft mit DaF-Erfahrung." }
-          - { key: b, text: "Eine Lehrkraft, die Freude am Unterrichten hat und DaF-Erfahrung mitbringt." }
+          - { key: a, text: "Eine Lehrkraft, die Freude am Unterrichten hat und DaF-Erfahrung mitbringt." }
+          - { key: b, text: "Eine Verwaltungskraft mit DaF-Erfahrung." }
           - { key: c, text: "Einen Schulleiter mit internationalem Hintergrund." }
-        answer: b
+        answer: a
         why: '"Wir suchen eine engagierte Person, die Freude am Unterrichten hat und über nachgewiesene Erfahrung im DaF-Bereich verfügt."'
       - q: "Was ist an dieser Schule besonders?"
         options:
           - { key: a, text: "Die Schule hat nur deutschsprachige Lernende." }
-          - { key: b, text: "Die Schule liegt im Stadtzentrum." }
-          - { key: c, text: "Lernende aus über 40 Nationen lernen dort zusammen." }
-        answer: c
+          - { key: b, text: "Lernende aus über 40 Nationen lernen dort zusammen." }
+          - { key: c, text: "Die Schule liegt im Stadtzentrum." }
+        answer: b
         why: '"Wir sind eine Sprachschule, in der Lernende aus über 40 Nationen zusammenkommen."'
       - q: "Was kann die Schule nicht bieten?"
         options:
           - { key: a, text: "Fortbildungen für Lehrkräfte." }
-          - { key: b, text: "Vollzeitbeschäftigung." }
-          - { key: c, text: "Unterrichtsmaterialien." }
-        answer: b
+          - { key: b, text: "Unterrichtsmaterialien." }
+          - { key: c, text: "Vollzeitbeschäftigung." }
+        answer: c
         why: '"Das Einzige, was wir nicht bieten können, ist Vollzeitbeschäftigung."'
       - q: "Welcher Relativsatz im Text steht im Dativ?"
         options:
-          - { key: a, text: "eine engagierte Person, die Freude am Unterrichten hat" }
-          - { key: b, text: "in einem Team, dem Ihre Entwicklung am Herzen liegt" }
+          - { key: a, text: "in einem Team, dem Ihre Entwicklung am Herzen liegt" }
+          - { key: b, text: "eine engagierte Person, die Freude am Unterrichten hat" }
           - { key: c, text: "Alles, was wir von Ihnen erwarten" }
-        answer: b
+        answer: a
         why: '"einem Team, dem Ihre Entwicklung am Herzen liegt" — dem = Dativ (n.) with the dative expression am Herzen liegen.'
 
   - id: C5

@@ -16,8 +16,8 @@
 
 1. **a) Auf das Angebot vom letzten Donnerstag.** — Frau Yilmaz: „Ich darf noch einmal auf das Angebot vom letzten Donnerstag Bezug nehmen".
 2. **b) Sechs Wochen.** — Frau Yilmaz: „Wir brauchen die Ware spätestens nach sechs Wochen".
-3. **b) Zwei Prozent.** — Frau Yilmaz: „Bei Zahlung innerhalb von zehn Tagen erwarten wir zwei Prozent Skonto".
-4. **b) 1 % pro Woche, maximal 5 % der Auftragssumme.** — Herr Steinmeyer: „Eine Vertragsstrafe von einem Prozent pro Woche Verspätung, maximal fünf Prozent der Auftragssumme".
+3. **c) Zwei Prozent.** — Frau Yilmaz: „Bei Zahlung innerhalb von zehn Tagen erwarten wir zwei Prozent Skonto".
+4. **a) 1 % pro Woche, maximal 5 % der Auftragssumme.** — Herr Steinmeyer: „Eine Vertragsstrafe von einem Prozent pro Woche Verspätung, maximal fünf Prozent der Auftragssumme".
 
 ## Übung H3 — Hörtext-Lückentext: Nachricht aus dem Sekretariat
 

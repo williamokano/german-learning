@@ -16,8 +16,8 @@
 
 1. **a) Zum Thema Verkehrswende.** — Frau Yilmaz: „in den letzten Wochen erreichen uns immer mehr Leserbriefe zum Thema Verkehrswende".
 2. **b) um- und un-.** — Herr Steinmeyer: „Viele Leser verwechseln umleitbar und unleugbar" — also die Vorsilben um- und un-.
-3. **b) Die Frage, ob sich die Menschen das noch leisten können.** — Herr Steinmeyer: „das meint schlicht: Können sich die Menschen das noch leisten?"
-4. **b) Grundbegriff des Kompositums.** — Herr Steinmeyer: „Wende ist hier ein Grundbegriff mit der Bedeutung grundlegende Veränderung".
+3. **c) Die Frage, ob sich die Menschen das noch leisten können.** — Herr Steinmeyer: „das meint schlicht: Können sich die Menschen das noch leisten?"
+4. **a) Grundbegriff des Kompositums.** — Herr Steinmeyer: „Wende ist hier ein Grundbegriff mit der Bedeutung grundlegende Veränderung".
 
 ## Übung H3 — Hörtext-Lückentext: Annas Erklärung im Sprachkurs
 
@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Ansage aus dem Sprachzentrum
 
-1. **b) Um einen Wortbildungs-Workshop.** — „Wir möchten Sie auf unseren neuen Wortbildungs-Workshop aufmerksam machen".
+1. **a) Um einen Wortbildungs-Workshop.** — „Wir möchten Sie auf unseren neuen Wortbildungs-Workshop aufmerksam machen".
 2. **b) Unbekannte Wörter über Vorsilben, Nachsilben und Komposita entschlüsseln.** — „unbekannte Wörter selbst zu entschlüsseln: mit Vorsilben …, mit Nachsilben … und mit Komposita".
-3. **a) Nächsten Samstag von 10 bis 16 Uhr.** — „Der Workshop findet nächsten Samstag von zehn bis vier Uhr statt".
-4. **b) Nein, die Teilnahme ist kostenlos und ohne Anmeldung.** — „Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich".
+3. **c) Nächsten Samstag von 10 bis 16 Uhr.** — „Der Workshop findet nächsten Samstag von zehn bis vier Uhr statt".
+4. **a) Nein, die Teilnahme ist kostenlos und ohne Anmeldung.** — „Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich".
 
 ---
 
@@ -219,10 +219,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2 (neuer Text: Auszug aus einem Ratgeber)
 
-1. **b) Aus Bestimmbegriff Verkehr- und Grundbegriff Wende.** — „Das Kompositum besteht aus dem Bestimmbegriff Verkehr- und dem Grundbegriff Wende".
+1. **a) Aus Bestimmbegriff Verkehr- und Grundbegriff Wende.** — „Das Kompositum besteht aus dem Bestimmbegriff Verkehr- und dem Grundbegriff Wende".
 2. **b) Es erleichtert die Aussprache.** — Fugenelemente haben keine eigene Bedeutung, sie erleichtern die Aussprache.
-3. **a) Es macht aus dem Adjektiv bezahlbar ein abstraktes Nomen.** — „Suffix -keit (macht daraus ein Nomen)".
-4. **b) Klimaschutz.** — „Klimaschutz = Klima + Schutz" — kein Fugenelement zwischen den Teilen.
+3. **c) Es macht aus dem Adjektiv bezahlbar ein abstraktes Nomen.** — „Suffix -keit (macht daraus ein Nomen)".
+4. **a) Klimaschutz.** — „Klimaschutz = Klima + Schutz" — kein Fugenelement zwischen den Teilen.
 
 ## Übung C5 — Schreiben: Ein Lexikon-Eintrag zur Wortbildung
 

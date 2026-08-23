@@ -62,10 +62,10 @@ Höre den Text und fülle die Lücken mit Wörtern aus dem Kasten.
 
 Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
-1. Warum ruft Petra an? — Why is Petra calling?  a) Sie hat ein neues Buch.  b) Sie möchte sich mit der Person treffen.  c) Sie hat eine Prüfung.
+1. Warum ruft Petra an? — Why is Petra calling?  a) Sie möchte sich mit der Person treffen.  b) Sie hat ein neues Buch.  c) Sie hat eine Prüfung.
 2. Wo lernt Petra die Person kennen? — Where does Petra meet this person?  a) Im Büro.  b) Im Deutschkurs.  c) Im Park.
-3. Was möchten sie zusammen machen? — What do they want to do together?  a) Ins Kino gehen.  b) Einen Kaffee trinken.  c) Einen Spaziergang.
-4. Was ist Petras Telefonnummer? — What is Petra's phone number?  a) Eins-zwei-drei.  b) Vier-fünf-sechs.  c) Vier-sieben-eins-eins.
+3. Was möchten sie zusammen machen? — What do they want to do together?  a) Ins Kino gehen.  b) Einen Spaziergang.  c) Einen Kaffee trinken.
+4. Was ist Petras Telefonnummer? — What is Petra's phone number?  a) Vier-sieben-eins-eins.  b) Vier-fünf-sechs.  c) Eins-zwei-drei.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

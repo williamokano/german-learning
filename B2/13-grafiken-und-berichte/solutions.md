@@ -48,12 +48,12 @@
 
 ## Übung A4 — Welche Beschreibung passt?
 
-1. **b) Die Zahl steigt seit 2020.** — steigen ist intransitiv (ohne Akkusativ-Objekt): „Die Zahl steigt seit 2020".
+1. **a) Die Zahl steigt seit 2020.** — steigen ist intransitiv (ohne Akkusativ-Objekt): „Die Zahl steigt seit 2020".
 2. **b) Im Vergleich zu 2023 ist der Wert gesunken.** — Feste Präposition: im Vergleich zu + Dativ.
-3. **b) Zwischen 2020 und 2024 ist die Zahl gestiegen.** — zwischen verlangt immer „und" — nie „bis" oder „oder".
-4. **b) Der Anteil beträgt 32 Prozent.** — betragen + Wert (Akkusativ), kein „zu"; ausmachen braucht „aus" am Ende.
+3. **c) Zwischen 2020 und 2024 ist die Zahl gestiegen.** — zwischen verlangt immer „und" — nie „bis" oder „oder".
+4. **a) Der Anteil beträgt 32 Prozent.** — betragen + Wert (Akkusativ), kein „zu"; ausmachen braucht „aus" am Ende.
 5. **b) Es zeigt sich, dass die Werte stagnieren.** — Immer reflexiv: es zeigt sich, dass …
-6. **b) Aus der Grafik ergibt sich, dass die Nutzung sinkt.** — Immer reflexiv: es ergibt sich, dass …
+6. **c) Aus der Grafik ergibt sich, dass die Nutzung sinkt.** — Immer reflexiv: es ergibt sich, dass …
 
 ## Übung A5 — Vergleichsstrukturen korrekt ergänzen
 
@@ -78,10 +78,10 @@
 
 ## Übung A10 — Welche Ableitungsstruktur passt?
 
-1. **b) Aus der Grafik ergibt sich, dass die Zahlen rückläufig sind.** — Formelle Berichtssprache: Aus + Dat. ergibt sich, dass …
-2. **a) Aus der Kurve lässt sich ablesen, dass der Wert 2022 am höchsten war.** — Komma vor dem dass-Satz; sich lassen + Infinitiv ist die korrekte Form.
-3. **b) Die Daten stehen zur Verfügung.** — Funktionsverbgefüge: zur Verfügung stehen = verfügbar sein.
-4. **b) Es lässt sich feststellen, dass die Tendenz sich ändert.** — Formelle Passiv-Eröffnung: es lässt sich + Infinitiv.
+1. **a) Aus der Grafik ergibt sich, dass die Zahlen rückläufig sind.** — Formelle Berichtssprache: Aus + Dat. ergibt sich, dass …
+2. **b) Aus der Kurve lässt sich ablesen, dass der Wert 2022 am höchsten war.** — Komma vor dem dass-Satz; sich lassen + Infinitiv ist die korrekte Form.
+3. **c) Die Daten stehen zur Verfügung.** — Funktionsverbgefüge: zur Verfügung stehen = verfügbar sein.
+4. **a) Es lässt sich feststellen, dass die Tendenz sich ändert.** — Formelle Passiv-Eröffnung: es lässt sich + Infinitiv.
 
 ## Übung A11 — Satzbau: Datenverb + Zeitraum + Wert
 
@@ -214,10 +214,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2 (neuer Text: Auszug aus einem Statistischen Bericht)
 
-1. **c) Rund 195 000 Fahrten.** — „Der Höchststand wurde im Juli 2022 mit rund 195 000 Fahrten erreicht".
+1. **a) Rund 195 000 Fahrten.** — „Der Höchststand wurde im Juli 2022 mit rund 195 000 Fahrten erreicht".
 2. **b) Sie hat sich fast verfünffacht.** — „Die monatliche Nutzung … hat sich im Zeitraum von 2020 bis 2022 fast verfünffacht".
-3. **b) Die Nutzung stagniert seit Ende 2022 und ist seit 2024 leicht rückläufig.** — „Ab Ende 2022 stagniert die Nutzung … Im Vergleich zum Vorjahr ist die durchschnittliche Nutzung 2024 um acht Prozent zurückgegangen".
-4. **b) Eine abschließende Bewertung ist nicht möglich.** — „Eine abschließende Bewertung ist auf Basis dieser Daten allein nicht möglich".
+3. **c) Die Nutzung stagniert seit Ende 2022 und ist seit 2024 leicht rückläufig.** — „Ab Ende 2022 stagniert die Nutzung … Im Vergleich zum Vorjahr ist die durchschnittliche Nutzung 2024 um acht Prozent zurückgegangen".
+4. **a) Eine abschließende Bewertung ist nicht möglich.** — „Eine abschließende Bewertung ist auf Basis dieser Daten allein nicht möglich".
 
 ## Übung C5 — Schreiben: Einen kurzen Datenbericht verfassen
 

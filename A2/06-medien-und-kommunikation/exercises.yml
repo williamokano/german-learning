@@ -34,10 +34,10 @@ exercises:
     items:
       - q: "Frau Weber wartet auf …"
         options:
-          - { key: a, text: "einen Anruf von Herrn Steinmeyer." }
-          - { key: b, text: "Herrn Steinmeyers Antwort zur Präsentation." }
+          - { key: a, text: "Herrn Steinmeyers Antwort zur Präsentation." }
+          - { key: b, text: "einen Anruf von Herrn Steinmeyer." }
           - { key: c, text: "eine neue E-Mail-Adresse." }
-        answer: b
+        answer: a
         why: "Frau Weber wartet auf Herrn Steinmeyers Antwort zur Präsentation."
       - q: "Warum hat Frau Weber Herrn Steinmeyers E-Mail nicht bekommen?"
         options:
@@ -49,9 +49,9 @@ exercises:
       - q: "Worüber spricht Frau Webers Team gerade viel?"
         options:
           - { key: a, text: "Über neue Streaming-Plattformen." }
-          - { key: b, text: "Über digitale Kommunikation im Büro." }
-          - { key: c, text: "Über Termine und Präsentationen." }
-        answer: b
+          - { key: b, text: "Über Termine und Präsentationen." }
+          - { key: c, text: "Über digitale Kommunikation im Büro." }
+        answer: c
         why: "Über digitale Kommunikation im Büro."
       - q: "Was schlägt Herr Steinmeyer am Ende vor?"
         options:

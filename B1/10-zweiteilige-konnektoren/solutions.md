@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Nicht nur Fachwissen, sondern auch kritisches Denken zu fördern.** — Hannah: "Mein Lehrplan zielt nicht nur auf die Vermittlung von Fachwissen ab, sondern auch auf die Entwicklung kritischen Denkens."
-2. **c) Sowohl im Deutsch- als auch im Geschichtsunterricht.** — Hannah: "Sowohl im Deutschunterricht als auch im Geschichtsunterricht arbeite ich mit Primärquellen."
-3. **b) Entweder man strebt nach Breite und verliert Tiefe, oder man wählt Tiefe und gewinnt Verständnis.** — Hannah: "Entweder wir streben nach Breite und verlieren an Tiefe, oder wir wählen Tiefe und gewinnen echtes Verständnis."
-4. **b) Der Entwurf ist zwar noch nicht vollständig, aber er zeigt eine überzeugende Grundlogik.** — Herr Steinmeyer: "Der Entwurf ist zwar noch nicht vollständig, aber er zeigt eine überzeugende Grundlogik."
+1. **a) Nicht nur Fachwissen, sondern auch kritisches Denken zu fördern.** — Hannah: "Mein Lehrplan zielt nicht nur auf die Vermittlung von Fachwissen ab, sondern auch auf die Entwicklung kritischen Denkens."
+2. **b) Sowohl im Deutsch- als auch im Geschichtsunterricht.** — Hannah: "Sowohl im Deutschunterricht als auch im Geschichtsunterricht arbeite ich mit Primärquellen."
+3. **c) Entweder man strebt nach Breite und verliert Tiefe, oder man wählt Tiefe und gewinnt Verständnis.** — Hannah: "Entweder wir streben nach Breite und verlieren an Tiefe, oder wir wählen Tiefe und gewinnen echtes Verständnis."
+4. **a) Der Entwurf ist zwar noch nicht vollständig, aber er zeigt eine überzeugende Grundlogik.** — Herr Steinmeyer: "Der Entwurf ist zwar noch nicht vollständig, aber er zeigt eine überzeugende Grundlogik."
 
 ## Übung H3 — Hörtext-Lückentext: Yusuf auf einer Akademikerkonferenz
 
@@ -140,10 +140,10 @@ a → 1 · b → 2 · c → 3 · d → 4 · e → 5 · f → 6
 
 ## Übung B8 — Leseverstehen: Zwei Seiten einer Stadt (Lesetext)
 
-1. **b) Er sieht sowohl die Vorzüge als auch die Schattenseiten.** — "Lukas … sieht sowohl die Vorzüge als auch die Schattenseiten der Hauptstadt."
+1. **a) Er sieht sowohl die Vorzüge als auch die Schattenseiten.** — "Lukas … sieht sowohl die Vorzüge als auch die Schattenseiten der Hauptstadt."
 2. **b) Man kann Berlin sowohl lieben als auch kritisch sehen — beides gleichzeitig.** — Mia: "Entweder man liebt Berlin bedingungslos, oder man sieht die Realität. Ich tue beides."
-3. **b) Weder Berlin noch Kairo ist perfekt, aber beide sind lebendig.** — "Weder Berlin noch Kairo ist perfekt. Aber beide sind lebendig — und das ist das Entscheidende."
-4. **b) Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung.** — "Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung."
+3. **c) Weder Berlin noch Kairo ist perfekt, aber beide sind lebendig.** — "Weder Berlin noch Kairo ist perfekt. Aber beide sind lebendig — und das ist das Entscheidende."
+4. **a) Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung.** — "Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung."
 
 ## Übung B9 — Forenbeitrag: Deine Meinung zu einer Lebensentscheidung
 

@@ -740,17 +740,17 @@ exercises:
         why: "ich-Form of kaufen → kaufe."
       - q: "Ich suche immer zuerst (2) ____ Farbe, die mir gut steht. — I always look first for a (2) ____ color that suits me."
         options:
-          - { key: a, text: "eine" }
-          - { key: b, text: "einen" }
+          - { key: a, text: "einen" }
+          - { key: b, text: "eine" }
           - { key: c, text: "ein" }
-        answer: a
+        answer: b
         why: "die Farbe = feminine → eine."
       - q: "Schwarz (3) ____ mir sehr gut. — Black (3) ____ me very well."
         options:
           - { key: a, text: "stehen" }
-          - { key: b, text: "steht" }
-          - { key: c, text: "passen" }
-        answer: b
+          - { key: b, text: "passen" }
+          - { key: c, text: "steht" }
+        answer: c
         why: "Schwarz = singular subject → steht; the standard phrase is Schwarz steht mir."
       - q: "Im Geschäft probiere ich viele Sachen an — das (4) ____ mir Spaß! — In the shop I try on many things — that's (4) ____ fun for me!"
         options:
@@ -761,17 +761,17 @@ exercises:
         why: "das macht mir Spaß = that's fun for me; er/es-Form → macht."
       - q: "Manchmal (5) ____ mir der Verkäufer oder die Verkäuferin. — Sometimes the salesperson (5) ____ me."
         options:
-          - { key: a, text: "hilft" }
-          - { key: b, text: "helfen" }
+          - { key: a, text: "helfen" }
+          - { key: b, text: "hilft" }
           - { key: c, text: "helfe" }
-        answer: a
+        answer: b
         why: "helfen is irregular: er/sie/es hilft (e → i)."
       - q: 'Sie sagen: „Das (6) ____ Ihnen sehr gut!" — They say: "That (6) ____ you very well!"'
         options:
-          - { key: a, text: "steht" }
+          - { key: a, text: "passt" }
           - { key: b, text: "stehen" }
-          - { key: c, text: "passt" }
-        answer: a
+          - { key: c, text: "steht" }
+        answer: c
         why: 'subject is „das" → steht (3rd person singular).'
 
   - id: C3

@@ -207,10 +207,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2 — Steckbrief
 
-1. **b) Köln** — Sie wohnen jetzt in Köln.
+1. **a) Köln** — Sie wohnen jetzt in Köln.
 2. **b) sechs** — Deniz (6).
-3. **b) Elifs Mutter** — Elifs Mutter wohnt auch in Köln.
-4. **c) verwitwet** — Sie ist verwitwet.
+3. **c) Elifs Mutter** — Elifs Mutter wohnt auch in Köln.
+4. **a) verwitwet** — Sie ist verwitwet.
 
 ## Übung C5 — Schreiben: Meine Familie
 

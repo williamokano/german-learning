@@ -23,10 +23,10 @@ Höre Dialog A und entscheide: **Richtig (R)** oder **Falsch (F)**?
 
 Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Herr Steinmeyer war im Urlaub in …  a) Salzburg  b) Wien  c) Berlin
+1. Herr Steinmeyer war im Urlaub in …  a) Wien  b) Salzburg  c) Berlin
 2. Was haben Herr und Frau Steinmeyer zuerst gemacht?  a) Sie sind in die Oper gegangen.  b) Sie haben das Kunsthistorische Museum besucht.  c) Sie haben im Café gefrühstückt.
-3. Was hat die Tochter gemacht, während die Eltern in der Oper waren?  a) Sie ist ins Hotel gegangen und hat einen Film geschaut.  b) Sie hat im Café gewartet.  c) Sie hat auch die Oper besucht.
-4. Wie lange waren sie in Wien?  a) drei Tage  b) eine Woche  c) zwei Wochen
+3. Was hat die Tochter gemacht, während die Eltern in der Oper waren?  a) Sie hat auch die Oper besucht.  b) Sie hat im Café gewartet.  c) Sie ist ins Hotel gegangen und hat einen Film geschaut.
+4. Wie lange waren sie in Wien?  a) eine Woche  b) drei Tage  c) zwei Wochen
 
 ## Übung H3 — Hörtext-Lückentext
 

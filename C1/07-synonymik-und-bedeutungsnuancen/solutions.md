@@ -88,8 +88,8 @@
 
 1. **a) Er ist verstorben.** — „verstorben" ist gehoben und passt in eine Todesanzeige.
 2. **b) Das ist nicht haltbar.** — „nicht haltbar" ist sachlich; „Quatsch" und „mega daneben" sind Registerbrüche.
-3. **b) Ich mache mir Sorgen.** — „Sorgen machen" passt zum Smalltalk; „Befürchtungen hegen" und „Bedenken tragen" sind zu förmlich.
-4. **b) Die Daten sind bemerkenswert.** — „bemerkenswert" passt ins wissenschaftliche Register.
+3. **c) Ich mache mir Sorgen.** — „Sorgen machen" passt zum Smalltalk; „Befürchtungen hegen" und „Bedenken tragen" sind zu förmlich.
+4. **a) Die Daten sind bemerkenswert.** — „bemerkenswert" passt ins wissenschaftliche Register.
 5. **b) Das war ein wichtiger Erfolg.** — „wichtiger Erfolg" ist sachlich und angemessen für eine Pressemitteilung.
 
 ## Übung A9 — Falsche Freunde korrigieren
@@ -154,10 +154,10 @@
 
 ## Übung B5 — Finde den richtigen Ersatz (falsche Freunde)
 
-1. **c) Das ist tatsächlich eine gute Idee.** — „tatsächlich" entspricht „actually" (= „in Wirklichkeit"). „eigentlich" ist auch möglich.
+1. **a) Das ist tatsächlich eine gute Idee.** — „tatsächlich" entspricht „actually" (= „in Wirklichkeit"). „eigentlich" ist auch möglich.
 2. **b) Schließlich kommen wir an.** — „eventually" = „schließlich" / „am Ende", nicht „eventuell" (= vielleicht).
-3. **b) Ich habe die Wahrheit endlich erkannt.** — „to realize" (im Sinn von „begreifen") = „erkennen", nicht „verwirklichen".
-4. **b) Er ist ein vernünftiger Mensch.** — „sensible" (EN) = „vernünftig", nicht „sensibel" (= empfindlich).
+3. **c) Ich habe die Wahrheit endlich erkannt.** — „to realize" (im Sinn von „begreifen") = „erkennen", nicht „verwirklichen".
+4. **a) Er ist ein vernünftiger Mensch.** — „sensible" (EN) = „vernünftig", nicht „sensibel" (= empfindlich).
 5. **b) Ich fühle mit dir.** — „to sympathize" = „mitfühlen", nicht „sympathisieren" (= sich positiv zeigen für).
 
 ## Übung B6 — Konnotation im Satz — Register anpassen
@@ -205,12 +205,12 @@ Selbstkorrektur:
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-1. **b) prüft** — Gerichte „prüfen" — formal, kontrollierend.
-2. **c) testen** — Apps „testet" man — praktisch, unter realen Bedingungen.
-3. **b) Aufgabe** — Sachlich, zu bearbeiten: „Aufgabe".
-4. **b) Herausforderung** — Positiv, wertend: „Herausforderung".
+1. **a) prüft** — Gerichte „prüfen" — formal, kontrollierend.
+2. **b) testen** — Apps „testet" man — praktisch, unter realen Bedingungen.
+3. **c) Aufgabe** — Sachlich, zu bearbeiten: „Aufgabe".
+4. **a) Herausforderung** — Positiv, wertend: „Herausforderung".
 5. **b) Ursachen** — Physischer Auslöser: „Ursache".
-6. **b) Eventuell** — „eventuell" heißt „vielleicht"; „schließlich" entspricht „eventually".
+6. **c) Eventuell** — „eventuell" heißt „vielleicht"; „schließlich" entspricht „eventually".
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 

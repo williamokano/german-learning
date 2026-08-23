@@ -203,12 +203,12 @@ Selbstkorrektur:
 
 ## Übung C2 — Sprachbausteine Teil 1 (multiple choice)
 
-1. **b) steht** — Wohnungen stehen; „Die Wohnung steht im zweiten Stock" ✓
+1. **a) steht** — Wohnungen stehen; „Die Wohnung steht im zweiten Stock" ✓
 2. **b) steht** — Sofa is upright furniture → steht.
-3. **b) ans** — an + das → ans (Wohin? → Akkusativ: ans Fenster).
-4. **b) stehen** — Bücher im Regal → stehen (upright).
-5. **a) an** — an den Haken (Wohin? + Akk).
-6. **b) mit** — zufrieden mit + Dativ — fixed collocation (A1/08: mit + Dat).
+3. **c) ans** — an + das → ans (Wohin? → Akkusativ: ans Fenster).
+4. **a) stehen** — Bücher im Regal → stehen (upright).
+5. **b) an** — an den Haken (Wohin? + Akk).
+6. **c) mit** — zufrieden mit + Dativ — fixed collocation (A1/08: mit + Dat).
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 

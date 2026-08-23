@@ -27,7 +27,7 @@
 
 1. **a) Er fällt aus, wenn sich nicht genug Leute anmelden.** — „Der Konversationskurs … fällt heute leider aus, es sei denn, genügend Personen melden sich noch … an".
 2. **b) Je früher man sich entscheidet, desto besser kann das Zentrum planen.** — „Je früher Sie sich entscheiden, desto besser können wir planen".
-3. **a) Indem man im Sekretariat Bescheid gibt.** — „Sie können sich anmelden, indem Sie kurz im Sekretariat Bescheid geben".
+3. **c) Indem man im Sekretariat Bescheid gibt.** — „Sie können sich anmelden, indem Sie kurz im Sekretariat Bescheid geben".
 4. **a) Die Bibliothek bleibt geöffnet.** — „Trotz des Ausfalls bleibt die Bibliothek für alle geöffnet".
 
 ---

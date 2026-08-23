@@ -109,10 +109,10 @@ exercises:
     items:
       - q: 'Welche Einrichtung ist auf dem Anrufbeantworter zu hören?'
         options:
-          - { key: a, text: 'Das Goethe-Institut.' }
-          - { key: b, text: 'Das Sprachinstitut „Lingua Berlin".' }
+          - { key: a, text: 'Das Sprachinstitut „Lingua Berlin".' }
+          - { key: b, text: 'Das Goethe-Institut.' }
           - { key: c, text: 'Die Humboldt-Universität.' }
-        answer: b
+        answer: a
         why: '„Sie haben den Anrufbeantworter des Sprachinstituts ‚Lingua Berlin‘ erreicht."'
       - q: 'Wie ist das Institut telefonisch erreichbar?'
         options:
@@ -124,16 +124,16 @@ exercises:
       - q: 'Wann beginnt der C1-Vorbereitungskurs?'
         options:
           - { key: a, text: 'Am 1. September.' }
-          - { key: b, text: 'Am 15. September.' }
-          - { key: c, text: 'Am 1. Oktober.' }
-        answer: b
+          - { key: b, text: 'Am 1. Oktober.' }
+          - { key: c, text: 'Am 15. September.' }
+        answer: c
         why: '„Der Kurs beginnt am 15. September".'
       - q: 'Wie kann man sich anmelden?'
         options:
-          - { key: a, text: 'Nur persönlich vor Ort.' }
-          - { key: b, text: 'Nur online unter www.lingua-berlin.de.' }
+          - { key: a, text: 'Nur online unter www.lingua-berlin.de.' }
+          - { key: b, text: 'Nur persönlich vor Ort.' }
           - { key: c, text: 'Nur telefonisch.' }
-        answer: b
+        answer: a
         why: '„Die Anmeldung ist nur online möglich unter www.lingua-berlin.de".'
 
   - id: H5
@@ -299,10 +299,10 @@ exercises:
     items:
       - q: 'Ich habe Zeit. — Verneinung:'
         options:
-          - { key: a, text: 'Ich habe nicht Zeit.' }
+          - { key: a, text: 'Ich habe keine Zeit.' }
           - { key: b, text: 'Ich habe kein Zeit.' }
-          - { key: c, text: 'Ich habe keine Zeit.' }
-        answer: c
+          - { key: c, text: 'Ich habe nicht Zeit.' }
+        answer: a
         why: '„Zeit" ist feminin → „keine" (ersetzt „eine").'
       - q: 'Er hat ein Auto. — Verneinung:'
         options:
@@ -314,16 +314,16 @@ exercises:
       - q: 'Es gibt einen Ausweg. — Verneinung:'
         options:
           - { key: a, text: 'Es gibt nicht einen Ausweg.' }
-          - { key: b, text: 'Es gibt keinen Ausweg.' }
-          - { key: c, text: 'Es gibt kein Ausweg.' }
-        answer: b
+          - { key: b, text: 'Es gibt kein Ausweg.' }
+          - { key: c, text: 'Es gibt keinen Ausweg.' }
+        answer: c
         why: '„Es gibt keinen" — maskulin Akkusativ.'
       - q: 'Das ist wahr. — Verneinung:'
         options:
-          - { key: a, text: 'Das ist kein wahr.' }
-          - { key: b, text: 'Das ist nicht wahr.' }
+          - { key: a, text: 'Das ist nicht wahr.' }
+          - { key: b, text: 'Das ist kein wahr.' }
           - { key: c, text: 'Das ist kein.' }
-        answer: b
+        answer: a
         why: '„wahr" ist ein Adjektiv → „nicht", nicht „kein".'
       - q: 'Ich gehe mit. — Verneinung:'
         options:
@@ -556,10 +556,10 @@ exercises:
     items:
       - q: 'Schmidt: „Die Methode ist umstritten." — Indirekte Rede:'
         options:
-          - { key: a, text: 'Schmidt schreibt, die Methode ist umstritten.' }
-          - { key: b, text: 'Schmidt schreibt, die Methode sei umstritten.' }
+          - { key: a, text: 'Schmidt schreibt, die Methode sei umstritten.' }
+          - { key: b, text: 'Schmidt schreibt, die Methode ist umstritten.' }
           - { key: c, text: 'Schmidt schreibt, die Methode wäre umstritten.' }
-        answer: b
+        answer: a
         why: 'Konjunktiv I („sei") für indirekte Rede; „wäre" ist Konjunktiv II (Irrealis).'
       - q: 'Müller: „Es gibt keine eindeutigen Belege." — Indirekte Rede:'
         options:
@@ -571,16 +571,16 @@ exercises:
       - q: 'Eine vorsichtige Aussage (Hedging):'
         options:
           - { key: a, text: 'Das beweist eindeutig, dass …' }
-          - { key: b, text: 'Das deutet darauf hin, dass …' }
-          - { key: c, text: 'Das ist auf jeden Fall so.' }
-        answer: b
+          - { key: b, text: 'Das ist auf jeden Fall so.' }
+          - { key: c, text: 'Das deutet darauf hin, dass …' }
+        answer: c
         why: '„deutet darauf hin" = Hedging (siehe C1/05).'
       - q: 'Eine Höflichkeitsbitte:'
         options:
-          - { key: a, text: 'Ich will einen Kaffee.' }
-          - { key: b, text: 'Ich hätte gern einen Kaffee.' }
+          - { key: a, text: 'Ich hätte gern einen Kaffee.' }
+          - { key: b, text: 'Ich will einen Kaffee.' }
           - { key: c, text: 'Ich werde einen Kaffee wollen.' }
-        answer: b
+        answer: a
         why: '„Ich hätte gern" ist die idiomatische Höflichkeitsbitte mit Konjunktiv II.'
       - q: 'Ein irrealer Vergleich (Gegenwart):'
         options:
@@ -627,10 +627,10 @@ exercises:
     items:
       - q: 'Welcher Satz verneint zwei Glieder korrekt?'
         options:
-          - { key: a, text: 'Nicht Anna und nicht Bruno kommen.' }
-          - { key: b, text: 'Weder Anna noch Bruno kommen.' }
+          - { key: a, text: 'Weder Anna noch Bruno kommen.' }
+          - { key: b, text: 'Nicht Anna und nicht Bruno kommen.' }
           - { key: c, text: 'Anna nicht Bruno kommen.' }
-        answer: b
+        answer: a
         why: 'Korrelat „weder … noch" verneint zwei Glieder.'
       - q: 'Welcher Satz drückt „A und auch B" aus?'
         options:
@@ -642,23 +642,23 @@ exercises:
       - q: 'Was bedeutet „Das ist nicht uninteressant"?'
         options:
           - { key: a, text: 'Das ist uninteressant.' }
-          - { key: b, text: 'Das ist interessant.' }
-          - { key: c, text: 'Das ist sehr uninteressant.' }
-        answer: b
+          - { key: b, text: 'Das ist sehr uninteressant.' }
+          - { key: c, text: 'Das ist interessant.' }
+        answer: c
         why: 'Doppelte Verneinung mit „nicht" → einfache Bejahung: „interessant".'
       - q: 'Welche Verstärkung der Verneinung passt?'
         options:
-          - { key: a, text: 'Das ist nicht ein bisschen wahr.' }
-          - { key: b, text: 'Das ist keineswegs wahr.' }
+          - { key: a, text: 'Das ist keineswegs wahr.' }
+          - { key: b, text: 'Das ist nicht ein bisschen wahr.' }
           - { key: c, text: 'Das ist wahr nicht.' }
-        answer: b
+        answer: a
         why: '„keineswegs" = „ganz und gar nicht" (betonte Verneinung).'
       - q: 'Welcher Satz hat KEIN Korrelat?'
         options:
           - { key: a, text: 'Sowohl Anna als auch Bruno kommen.' }
-          - { key: b, text: 'Weder Anna noch Bruno kommen.' }
-          - { key: c, text: 'Anna und Bruno kommen.' }
-        answer: c
+          - { key: b, text: 'Anna und Bruno kommen.' }
+          - { key: c, text: 'Weder Anna noch Bruno kommen.' }
+        answer: b
         why: '„Anna und Bruno kommen" ist eine einfache Aufzählung, kein Korrelat.'
 
   - id: B4
@@ -1013,16 +1013,16 @@ exercises:
       - q: 'Was kritisiert Lukas (Beitrag 3)?'
         options:
           - { key: a, text: 'Dass „würde + Infinitiv" zu selten verwendet wird.' }
-          - { key: b, text: 'Dass der Unterschied zwischen „sei" und „wäre" zu kompliziert ist.' }
-          - { key: c, text: 'Dass Konjunktiv zu leicht zu lernen ist.' }
-        answer: b
+          - { key: b, text: 'Dass Konjunktiv zu leicht zu lernen ist.' }
+          - { key: c, text: 'Dass der Unterschied zwischen „sei" und „wäre" zu kompliziert ist.' }
+        answer: c
         why: '„Wer versteht schon den Unterschied zwischen ‚sei‘ und ‚wäre‘? Das macht die Sprache nur komplizierter".'
       - q: 'Welche Position vertritt Dr. Berger (Beitrag 4)?'
         options:
-          - { key: a, text: 'Konjunktiv I ist überflüssig.' }
-          - { key: b, text: 'Konjunktiv ist situationsabhängig nötig (Schriftsprache vs. Mündlich).' }
+          - { key: a, text: 'Konjunktiv ist situationsabhängig nötig (Schriftsprache vs. Mündlich).' }
+          - { key: b, text: 'Konjunktiv I ist überflüssig.' }
           - { key: c, text: 'Nur Konjunktiv II ist wichtig.' }
-        answer: b
+        answer: a
         why: '„In der gehobenen Schriftsprache ist der echte Konjunktiv I nicht ersetzbar; im Mündlichen ist die Ersatzform idiomatisch".'
 
   - id: C5

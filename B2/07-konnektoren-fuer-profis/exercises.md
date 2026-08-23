@@ -53,7 +53,7 @@ Hör die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Hör einmal,
 
 1. Was passiert mit dem Konversationskurs am Donnerstag?  a) Er fällt aus, wenn sich nicht genug Leute anmelden.  b) Er findet auf jeden Fall statt.  c) Er wird auf nächste Woche verschoben.
 2. Warum soll man sich früh entscheiden?  a) Weil der Kurs teurer wird.  b) Je früher man sich entscheidet, desto besser kann das Zentrum planen.  c) Weil danach niemand mehr da ist.
-3. Wie meldet man sich an?  a) Indem man im Sekretariat Bescheid gibt.  b) Indem man eine E-Mail schreibt.  c) Indem man anruft.
+3. Wie meldet man sich an?  a) Indem man anruft.  b) Indem man eine E-Mail schreibt.  c) Indem man im Sekretariat Bescheid gibt.
 4. Was gilt trotz des Ausfalls?  a) Die Bibliothek bleibt geöffnet.  b) Das ganze Zentrum bleibt geschlossen.  c) Alle Kurse fallen aus.
 
 <details>

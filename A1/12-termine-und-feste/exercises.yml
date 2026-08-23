@@ -821,31 +821,31 @@ exercises:
     items:
       - q: "Was wird am 5. August gefeiert? — What is being celebrated on August 5th?"
         options:
-          - { key: a, text: "Ein Geburtstag" }
-          - { key: b, text: "Eine Hochzeit" }
+          - { key: a, text: "Eine Hochzeit" }
+          - { key: b, text: "Ein Geburtstag" }
           - { key: c, text: "Ostern" }
-        answer: b
+        answer: a
         why: '„wir feiern … unsere Hochzeit".'
       - q: "Wo findet die Feier statt? — Where is the celebration taking place?"
         options:
           - { key: a, text: "Zu Hause" }
-          - { key: b, text: "Im Park" }
-          - { key: c, text: "Im Restaurant" }
-        answer: c
+          - { key: b, text: "Im Restaurant" }
+          - { key: c, text: "Im Park" }
+        answer: b
         why: '„im Restaurant „Zur Sonne"".'
       - q: "Um wie viel Uhr beginnt die Veranstaltung? — At what time does the event start?"
         options:
           - { key: a, text: "Um 12 Uhr" }
-          - { key: b, text: "Um 15 Uhr" }
-          - { key: c, text: "Um 20 Uhr" }
-        answer: b
+          - { key: b, text: "Um 20 Uhr" }
+          - { key: c, text: "Um 15 Uhr" }
+        answer: c
         why: "15:00 Uhr."
       - q: "Bis wann muss man antworten? — By when does one have to reply?"
         options:
-          - { key: a, text: "Bis zum 5. August" }
-          - { key: b, text: "Bis zum 20. Juli" }
+          - { key: a, text: "Bis zum 20. Juli" }
+          - { key: b, text: "Bis zum 5. August" }
           - { key: c, text: "Bis zum 12. August" }
-        answer: b
+        answer: a
         why: '„bis zum 20. Juli Bescheid".'
 
   - id: C5
