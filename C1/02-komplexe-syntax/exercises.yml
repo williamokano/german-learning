@@ -44,10 +44,10 @@ exercises:
     items:
       - q: "Welche Funktion hat Frau Hoffmann im Dialog?"
         options:
-          - { key: a, text: "Sie ist die Verlagsleiterin und stellt das Buch vor." }
-          - { key: b, text: "Sie ist erfahrene Lektorin und gibt Feedback zum Manuskript." }
+          - { key: a, text: "Sie ist erfahrene Lektorin und gibt Feedback zum Manuskript." }
+          - { key: b, text: "Sie ist die Verlagsleiterin und stellt das Buch vor." }
           - { key: c, text: "Sie ist die Agentin des Autors." }
-        answer: b
+        answer: a
         why: "Frau Hoffmann ist Lektorin; sie liest das Manuskript und gibt stilistisches Feedback."
       - q: "Was kritisiert Frau Hoffmann am Satz auf Seite 47?"
         options:
@@ -59,16 +59,16 @@ exercises:
       - q: "Welche Lösung schlägt Frau Hoffmann für den langen Satz vor?"
         options:
           - { key: a, text: "Den ganzen Absatz streichen." }
-          - { key: b, text: "Die Apposition herausziehen und in zwei Sätze aufteilen." }
-          - { key: c, text: "Den Roman neu schreiben." }
-        answer: b
+          - { key: b, text: "Den Roman neu schreiben." }
+          - { key: c, text: "Die Apposition herausziehen und in zwei Sätze aufteilen." }
+        answer: c
         why: 'Frau Hoffmann: „Wir könnten die Apposition herausziehen — ‚Der Protagonist — ein vor dem Krieg geborener Intellektueller — beginnt ein neues Leben. Er hatte die ganze Nazizeit im Exil verbracht"."'
       - q: "Welche Korrektur schlägt Frau Hoffmann für die Parenthese auf Seite 112 vor?"
         options:
-          - { key: a, text: "Die Parenthese ganz streichen." }
-          - { key: b, text: "Die Parenthese in einen eigenen Satz umwandeln oder Gedankenstriche verwenden." }
+          - { key: a, text: "Die Parenthese in einen eigenen Satz umwandeln oder Gedankenstriche verwenden." }
+          - { key: b, text: "Die Parenthese ganz streichen." }
           - { key: c, text: "Die Parenthese durch Klammern ersetzen." }
-        answer: b
+        answer: a
         why: 'Frau Hoffmann: „Oder Sie arbeiten mit Gedankenstrichen — wirken im Druck eleganter".'
 
   - id: H3
@@ -494,10 +494,10 @@ exercises:
     items:
       - q: '(1) „Ich kenne Herrn Schneider, ein erfahrener Anwalt.“ (2) „Ich kenne Herrn Schneider, einen erfahrenen Anwalt.“'
         options:
-          - { key: a, text: "Satz 1 ist richtig (Apposition im Nominativ)." }
-          - { key: b, text: "Satz 2 ist richtig (Apposition im Akkusativ)." }
+          - { key: a, text: "Satz 2 ist richtig (Apposition im Akkusativ)." }
+          - { key: b, text: "Satz 1 ist richtig (Apposition im Nominativ)." }
           - { key: c, text: "Beide Sätze sind richtig." }
-        answer: b
+        answer: a
         why: '„Herrn Schneider" steht im Akkusativ (Bezugswort), also muss die Apposition auch im Akkusativ stehen: „einen erfahrenen Anwalt". „ein erfahrener Anwalt" (Nominativ) wäre falsch.'
       - q: '(1) „Ich arbeite seit Jahren mit Frau Müller, die neue Chefin.“ (2) „Ich arbeite seit Jahren mit Frau Müller, der neuen Chefin.“'
         options:
@@ -508,17 +508,17 @@ exercises:
         why: '„mit Frau Müller" steht im Dativ, also muss die Apposition auch im Dativ stehen: „der neuen Chefin".'
       - q: '(1) „Das Buch, ein spannender Roman, hat mir gefallen.“ (2) „Das Buch, ein spannenden Roman, hat mir gefallen.“'
         options:
-          - { key: a, text: "Satz 1 ist richtig (Apposition im Nominativ)." }
+          - { key: a, text: "Beide Sätze sind richtig." }
           - { key: b, text: "Satz 2 ist richtig (Apposition im Akkusativ)." }
-          - { key: c, text: "Beide Sätze sind richtig." }
-        answer: a
+          - { key: c, text: "Satz 1 ist richtig (Apposition im Nominativ)." }
+        answer: c
         why: '„Das Buch" steht im Nominativ (Bezugswort), also muss die Apposition „ein spannender Roman" auch im Nominativ stehen (männlich, Nominativ Singular mit unbestimmtem Artikel: „-er").'
       - q: '(1) „Wir trafen den Direktor, der neuen Leiter der Abteilung.“ (2) „Wir trafen den Direktor, den neuen Leiter der Abteilung.“'
         options:
-          - { key: a, text: "Satz 1 ist richtig (Apposition im Nominativ)." }
-          - { key: b, text: "Satz 2 ist richtig (Apposition im Akkusativ)." }
+          - { key: a, text: "Satz 2 ist richtig (Apposition im Akkusativ)." }
+          - { key: b, text: "Satz 1 ist richtig (Apposition im Nominativ)." }
           - { key: c, text: "Beide Sätze sind richtig." }
-        answer: b
+        answer: a
         why: '„den Direktor" steht im Akkusativ, also muss die Apposition „den neuen Leiter" auch im Akkusativ stehen.'
 
   - id: B3
@@ -647,9 +647,9 @@ exercises:
     items:
       - q: '„Das Buch, das sie mir empfohlen hatte war ausverkauft.“ vs. „Das Buch, das sie mir empfohlen hatte, war ausverkauft.“'
         options:
-          - { key: a, text: "Version 1 (kein Komma nach dem Relativsatz)." }
-          - { key: b, text: "Version 2 (Komma nach dem Relativsatz)." }
-        answer: b
+          - { key: a, text: "Version 2 (Komma nach dem Relativsatz)." }
+          - { key: b, text: "Version 1 (kein Komma nach dem Relativsatz)." }
+        answer: a
         why: "Ein Relativsatz wird durch Kommas vom Hauptsatz abgetrennt, wenn er in der Mitte steht."
       - q: '„Berlin die Hauptstadt Deutschlands hat 3,6 Millionen Einwohner.“ vs. „Berlin, die Hauptstadt Deutschlands, hat 3,6 Millionen Einwohner.“'
         options:
@@ -659,9 +659,9 @@ exercises:
         why: "Appositionen werden mit Kommas abgetrennt."
       - q: '„Sein Bruder ein stiller Beobachter bemerkte die Szene.“ vs. „Sein Bruder — ein stiller Beobachter — bemerkte die Szene.“'
         options:
-          - { key: a, text: "Version 1 (keine Klammer)." }
-          - { key: b, text: "Version 2 (Gedankenstriche)." }
-        answer: b
+          - { key: a, text: "Version 2 (Gedankenstriche)." }
+          - { key: b, text: "Version 1 (keine Klammer)." }
+        answer: a
         why: "Eine Parenthese muss durch zwei Gedankenstriche oder Klammern abgetrennt sein."
       - q: '„Der Bürgermeister der dies versprochen hatte trat zurück.“ vs. „Der Bürgermeister, der dies versprochen hatte, trat zurück.“'
         options:
@@ -860,10 +860,10 @@ exercises:
     items:
       - q: "Welche syntaktische Konstruktion dominiert in Beitrag 1 (Markus_K)?"
         options:
-          - { key: a, text: "Ellipsen und Telegrammstil." }
-          - { key: b, text: "Lange Satzperiode mit Nebensätzen, Appositionen und Passivkonstruktionen." }
+          - { key: a, text: "Lange Satzperiode mit Nebensätzen, Appositionen und Passivkonstruktionen." }
+          - { key: b, text: "Ellipsen und Telegrammstil." }
           - { key: c, text: "Ausschließlich kurze Hauptsätze." }
-        answer: b
+        answer: a
         why: '„die Frage, ob der lange Satz … noch zeitgemäß ist" + „Bitte beachten Sie, dass Beiträge mit mehr als drei verschachtelten Nebensätzen möglicherweise gekürzt werden" — lange Satzperiode, gehoben-formelles Register.'
       - q: "Welche syntaktische Strategie vertritt Beitrag 2 (Anna_B)?"
         options:
@@ -875,16 +875,16 @@ exercises:
       - q: "Welche These vertritt Beitrag 3 (Yusuf)?"
         options:
           - { key: a, text: "Wissenschaft und Alltag sollen das gleiche Register benutzen." }
-          - { key: b, text: "Unterschiedliche Diskursdomänen verlangen unterschiedliche syntaktische Mittel." }
-          - { key: c, text: "Lange Sätze sollten ganz abgeschafft werden." }
-        answer: b
+          - { key: b, text: "Lange Sätze sollten ganz abgeschafft werden." }
+          - { key: c, text: "Unterschiedliche Diskursdomänen verlangen unterschiedliche syntaktische Mittel." }
+        answer: c
         why: '„zwischen den verschiedenen Diskursdomänen zu differenzieren … Beide Register haben ihre Berechtigung".'
       - q: "Welches Werkzeug der komplexen Syntax erwähnt Tomáš_N (Beitrag 4) explizit?"
         options:
-          - { key: a, text: "Die Apposition." }
-          - { key: b, text: "Das Schachteln von Sätzen." }
+          - { key: a, text: "Das Schachteln von Sätzen." }
+          - { key: b, text: "Die Apposition." }
           - { key: c, text: "Die Ausklammerung." }
-        answer: b
+        answer: a
         why: '„wer gut schreibt, kann auch gut schachteln" — Verweis auf verschachtelte Sätze (Schachtelsätze).'
 
   - id: C5

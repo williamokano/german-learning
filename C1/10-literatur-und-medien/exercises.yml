@@ -44,10 +44,10 @@ exercises:
     items:
       - q: 'Worin sieht Frau Hoffmann den größten Reibungspunkt zwischen Feuilleton und Literaturwissenschaft?'
         options:
-          - { key: a, text: 'In der Bezahlung der Kritikerinnen.' }
-          - { key: b, text: 'Darin, dass das Feuilleton Schnelligkeit belohnt, die Wissenschaft aber Differenzierung.' }
+          - { key: a, text: 'Darin, dass das Feuilleton Schnelligkeit belohnt, die Wissenschaft aber Differenzierung.' }
+          - { key: b, text: 'In der Bezahlung der Kritikerinnen.' }
           - { key: c, text: 'Darin, dass das Feuilleton nie Satire einsetzt.' }
-        answer: b
+        answer: a
         why: 'Frau Hoffmann: „Das Feuilleton belohnt Schnelligkeit, Pointe und Zuspitzung — die Wissenschaft belohnt Differenzierung."'
       - q: 'Wie unterscheidet Frau Hoffmann Satire von Polemik?'
         options:
@@ -59,16 +59,16 @@ exercises:
       - q: 'Welches Problem sieht Yusuf bei Radio-Features zu Satire?'
         options:
           - { key: a, text: 'Dass die O-Töne im Radio nie authentisch klingen.' }
-          - { key: b, text: 'Dass die Auswahl der O-Töne bereits eine Deutung ist.' }
-          - { key: c, text: 'Dass das Radio keine Satire senden darf.' }
-        answer: b
+          - { key: b, text: 'Dass das Radio keine Satire senden darf.' }
+          - { key: c, text: 'Dass die Auswahl der O-Töne bereits eine Deutung ist.' }
+        answer: c
         why: 'Yusuf: „welche O-Töne wähle ich? Eine Auswahl ist bereits eine Deutung."'
       - q: 'Was empfiehlt Frau Hoffmann gegen die sogenannte „Glättung" der Satire?'
         options:
-          - { key: a, text: 'Man solle den satirischen Witz im Radio grundsätzlich erklären.' }
+          - { key: a, text: 'Die Ironie in der Stimme sei subtil genug und brauche keine Erklärung; was den Hörer verwirre, sei die schlechte Anmoderation.' }
           - { key: b, text: 'Man solle die Satire im Radio durch Hintergrundmusik überdecken.' }
-          - { key: c, text: 'Die Ironie in der Stimme sei subtil genug und brauche keine Erklärung; was den Hörer verwirre, sei die schlechte Anmoderation.' }
-        answer: c
+          - { key: c, text: 'Man solle den satirischen Witz im Radio grundsätzlich erklären.' }
+        answer: a
         why: 'Frau Hoffmann: „Ironie in der Stimme eines Schauspielers … ist subtil genug; sie muss nicht erklärt werden."'
       - q: 'Wie sieht laut Frau Hoffmann die ideale Anmoderation für ein Satire-Feature aus?'
         options:
@@ -114,31 +114,31 @@ exercises:
     items:
       - q: 'Welche Einrichtung spricht auf dem Anrufbeantworter?'
         options:
-          - { key: a, text: 'Eine Buchhandlung mit eigenem Verlagsprogramm.' }
-          - { key: b, text: 'Das Literaturhaus Berlin.' }
+          - { key: a, text: 'Das Literaturhaus Berlin.' }
+          - { key: b, text: 'Eine Buchhandlung mit eigenem Verlagsprogramm.' }
           - { key: c, text: 'Die Stadtbibliothek Berlin.' }
-        answer: b
+        answer: a
         why: '„Sie haben den Anrufbeantworter desLiteraturhauses Berlin erreicht."'
       - q: 'Bis wann ist das Literaturhaus geöffnet?'
         options:
-          - { key: a, text: 'Bis einschließlich Samstag, 16 Uhr.' }
-          - { key: b, text: 'Bis einschließlich Freitag, 18 Uhr.' }
+          - { key: a, text: 'Bis einschließlich Freitag, 18 Uhr.' }
+          - { key: b, text: 'Bis einschließlich Samstag, 16 Uhr.' }
           - { key: c, text: 'Täglich bis 20 Uhr.' }
-        answer: a
+        answer: b
         why: '„Wir sind bis einschließlich Samstag, 16 Uhr, geöffnet."'
       - q: 'Was gilt für die Lesung mit Helga Schubert am Dienstag, 19 Uhr?'
         options:
           - { key: a, text: 'Es gibt noch Karten an der Abendkasse.' }
-          - { key: b, text: 'Alle Plätze sind vergriffen; eine Warteliste ist eingerichtet.' }
-          - { key: c, text: 'Die Lesung fällt aus.' }
-        answer: b
+          - { key: b, text: 'Die Lesung fällt aus.' }
+          - { key: c, text: 'Alle Plätze sind vergriffen; eine Warteliste ist eingerichtet.' }
+        answer: c
         why: '„sind alle Plätze vergriffen — eine Warteliste ist eingerichtet."'
       - q: 'Wie können Interessierte das Literaturhaus erreichen?'
         options:
-          - { key: a, text: 'Nur persönlich vor Ort.' }
-          - { key: b, text: 'Per Telefon unter 030-5512-0817 oder per E-Mail.' }
+          - { key: a, text: 'Per Telefon unter 030-5512-0817 oder per E-Mail.' }
+          - { key: b, text: 'Nur persönlich vor Ort.' }
           - { key: c, text: 'Ausschließlich über die Webseite.' }
-        answer: b
+        answer: a
         why: '„Bitte rufen Sie uns zurück unter der Nummer 030-5512-0817, oder schreiben Sie uns an lesungen@literaturhaus-berlin.de."'
 
   - id: H5
@@ -265,10 +265,10 @@ exercises:
     items:
       - q: '„Die Stille nach dem Urteil" — welche Konnotation hat „Stille"?'
         options:
-          - { key: a, text: 'emotional — Geborgenheit' }
-          - { key: b, text: 'emotional — Bangigkeit oder Dräuung' }
+          - { key: a, text: 'emotional — Bangigkeit oder Dräuung' }
+          - { key: b, text: 'emotional — Geborgenheit' }
           - { key: c, text: 'stilistisch — gehoben' }
-        answer: b
+        answer: a
         why: 'Im Kontext eines Urteils schwingt Dräuung, Drohung mit — nicht Geborgenheit.'
       - q: '„Stille der Bibliothek" — welche Konnotation hat „Stille"?'
         options:
@@ -280,9 +280,9 @@ exercises:
       - q: '„Heimat" in einem AfD-Programm — welche Konnotation dominiert?'
         options:
           - { key: a, text: 'kulturell — Nostalgie' }
-          - { key: b, text: 'ideologisch — Schutz, Abgrenzung' }
-          - { key: c, text: 'stilistisch — gehoben' }
-        answer: b
+          - { key: b, text: 'stilistisch — gehoben' }
+          - { key: c, text: 'ideologisch — Schutz, Abgrenzung' }
+        answer: c
         why: 'In einem AfD-Programm dominiert die ideologische Schutz- und Abgrenzungskonnotation.'
       - q: '„Das Heim der Familie" — welche Konnotation schwingt mit?'
         options:
@@ -564,10 +564,10 @@ exercises:
     items:
       - q: 'In einem Feuilleton-Essay über ein neues Buch:'
         options:
-          - { key: a, text: 'Das Buch ist echt krass.' }
-          - { key: b, text: 'Das Buch ist bemerkenswert.' }
+          - { key: a, text: 'Das Buch ist bemerkenswert.' }
+          - { key: b, text: 'Das Buch ist echt krass.' }
           - { key: c, text: 'Das Buch ist der absolute Wahnsinn.' }
-        answer: b
+        answer: a
         why: '„bemerkenswert" ist Feuilleton-Register; „echt krass" und „absoluter Wahnsinn" sind umgangssprachlich.'
       - q: 'In einer Besprechung einer Theaterinszenierung:'
         options:
@@ -579,16 +579,16 @@ exercises:
       - q: 'In einem Feuilleton-Beitrag zur Fernsehkritik:'
         options:
           - { key: a, text: 'Die Sendung ist der Oberhammer.' }
-          - { key: b, text: 'Die Sendung ist aufschlussreich.' }
-          - { key: c, text: 'Die Sendung ist einfach affig.' }
-        answer: b
+          - { key: b, text: 'Die Sendung ist einfach affig.' }
+          - { key: c, text: 'Die Sendung ist aufschlussreich.' }
+        answer: c
         why: '„aufschlussreich" ist Feuilleton-Standardsprache; die anderen Varianten sind umgangssprachlich.'
       - q: 'Im literarischen Feuilleton über einen Roman:'
         options:
-          - { key: a, text: 'Das Buch ist echt nice.' }
-          - { key: b, text: 'Das Buch ist eine lohnende Lektüre.' }
+          - { key: a, text: 'Das Buch ist eine lohnende Lektüre.' }
+          - { key: b, text: 'Das Buch ist echt nice.' }
           - { key: c, text: 'Das Buch ist der Knaller.' }
-        answer: b
+        answer: a
         why: '„eine lohnende Lektüre" ist Feuilleton-Stil; „nice" und „Knaller" sind umgangssprachlich.'
       - q: 'In einem Essay über eine Ausstellung:'
         options:
@@ -695,10 +695,10 @@ exercises:
     items:
       - q: 'Eine Anmoderation für ein Satire-Feature sollte vor allem:'
         options:
-          - { key: a, text: 'Den satirischen Witz **glattbügeln**, damit der Hörer mitkommt.' }
-          - { key: b, text: 'Drei bis vier Sätze liefern, die Kontext und Pointe ankündigen — ohne den Witz vorwegzunehmen.' }
+          - { key: a, text: 'Drei bis vier Sätze liefern, die Kontext und Pointe ankündigen — ohne den Witz vorwegzunehmen.' }
+          - { key: b, text: 'Den satirischen Witz **glattbügeln**, damit der Hörer mitkommt.' }
           - { key: c, text: 'Eine fünfseitige Inhaltsangabe bieten.' }
-        answer: b
+        answer: a
         why: 'Frau Hoffmann: „kurz, kontextstiftend und leichtfüßig — drei Sätze, vielleicht vier".'
       - q: 'Was ist die häufigste Falle bei der Anmoderation?'
         options:
@@ -710,23 +710,23 @@ exercises:
       - q: 'Welche Wirkung hat eine schlechte Anmoderation auf den Hörer?'
         options:
           - { key: a, text: 'Der Hörer ist begeistert, weil alles erklärt wurde.' }
-          - { key: b, text: 'Der Hörer ist verwirrt, weil der Kontext fehlt.' }
-          - { key: c, text: 'Der Hörer schaltet automatisch um.' }
-        answer: b
+          - { key: b, text: 'Der Hörer schaltet automatisch um.' }
+          - { key: c, text: 'Der Hörer ist verwirrt, weil der Kontext fehlt.' }
+        answer: c
         why: 'Ohne Kontext wirkt das Feature wie eine Collage ohne Faden — der Hörer verliert sich.'
       - q: 'Was leistet die Atmo in einem Feature?'
         options:
-          - { key: a, text: 'Sie ersetzt die O-Töne, wenn diese fehlen.' }
-          - { key: b, text: 'Sie ist die akustische Bühne, die die Szene atmosphärisch einbettet.' }
+          - { key: a, text: 'Sie ist die akustische Bühne, die die Szene atmosphärisch einbettet.' }
+          - { key: b, text: 'Sie ersetzt die O-Töne, wenn diese fehlen.' }
           - { key: c, text: 'Sie lenkt vom Inhalt ab.' }
-        answer: b
+        answer: a
         why: 'Atmo bildet den **Hintergrund**, ohne den das Feature wie ein Bericht klingt.'
       - q: 'Wann sollte ein Feature lieber auf mehrere O-Töne setzen?'
         options:
-          - { key: a, text: 'Wenn die interviewten Personen etwas **spezifisch Eigenes** sagen — Affekte, Pointen, Einzelerfahrungen.' }
-          - { key: b, text: 'Wenn der Sprecher zu lang ist.' }
+          - { key: a, text: 'Wenn der Sprecher zu lang ist.' }
+          - { key: b, text: 'Wenn die interviewten Personen etwas **spezifisch Eigenes** sagen — Affekte, Pointen, Einzelerfahrungen.' }
           - { key: c, text: 'Wenn die Atmo fehlt.' }
-        answer: a
+        answer: b
         why: 'Mehrere O-Töne lohnen sich, wenn jede Stimme etwas **eigenes** beiträgt.'
 
   - id: B7

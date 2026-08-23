@@ -59,16 +59,16 @@ exercises:
       - q: "Welche Kritik wurde an der Studie geübt?"
         options:
           - { key: a, text: "Die Ergebnisse seien uninteressant." }
-          - { key: b, text: "Die Stichprobe sei zu klein." }
-          - { key: c, text: "Das Team sei zu groß." }
-        answer: b
+          - { key: b, text: "Das Team sei zu groß." }
+          - { key: c, text: "Die Stichprobe sei zu klein." }
+        answer: c
         why: 'Dr. Steinmeyer: „Vor allem an der Größe der Stichprobe".'
       - q: "Was wird mit den Originaldaten gemacht?"
         options:
-          - { key: a, text: "Sie werden gelöscht." }
-          - { key: b, text: "Sie werden Open Access zur Verfügung gestellt." }
+          - { key: a, text: "Sie werden Open Access zur Verfügung gestellt." }
+          - { key: b, text: "Sie werden gelöscht." }
           - { key: c, text: "Sie werden geheim gehalten." }
-        answer: b
+        answer: a
         why: 'Dr. Steinmeyer: „Sämtliche Daten werden dann wieder Open Access zur Verfügung gestellt".'
 
   - id: H3
@@ -819,10 +819,10 @@ exercises:
     items:
       - q: "Was wurde in der Sitzung geprüft?"
         options:
-          - { key: a, text: "Ein Zeitschriftenartikel." }
-          - { key: b, text: "Ein Antrag auf Förderung eines Forschungsprojekts." }
+          - { key: a, text: "Ein Antrag auf Förderung eines Forschungsprojekts." }
+          - { key: b, text: "Ein Zeitschriftenartikel." }
           - { key: c, text: "Eine Patientendatenbank." }
-        answer: b
+        answer: a
         why: '„Der Antrag auf Förderung des Forschungsprojekts … wurde in der Sitzung … eingehend geprüft".'
       - q: "Wo sollen die Daten erhoben werden?"
         options:
@@ -834,16 +834,16 @@ exercises:
       - q: "Welche Kritik wurde geübt?"
         options:
           - { key: a, text: "Die Methodik sei zu kompliziert." }
-          - { key: b, text: "Die Stichprobe sei möglicherweise zu klein." }
-          - { key: c, text: "Das Team sei zu groß." }
-        answer: b
+          - { key: b, text: "Das Team sei zu groß." }
+          - { key: c, text: "Die Stichprobe sei möglicherweise zu klein." }
+        answer: c
         why: '„ob die geplante Stichprobe von 800 Patienten ausreicht, um statistisch signifikante Ergebnisse zu erzielen".'
       - q: "Wie wurde der Antrag entschieden?"
         options:
-          - { key: a, text: "Einstimmig angenommen." }
+          - { key: a, text: "Mit drei Stimmen dafür und zwei dagegen angenommen." }
           - { key: b, text: "Einstimmig abgelehnt." }
-          - { key: c, text: "Mit drei Stimmen dafür und zwei dagegen angenommen." }
-        answer: c
+          - { key: c, text: "Einstimmig angenommen." }
+        answer: a
         why: '„Der Antrag wurde mit drei Stimmen dafür und zwei dagegen angenommen".'
 
   - id: C5

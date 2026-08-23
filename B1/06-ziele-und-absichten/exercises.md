@@ -51,10 +51,10 @@ Listen to the Hörtext (Tomáš's voice message) and fill in the 6 missing words
 
 Listen to Pavel's voice message to his mother. Then choose the correct answer (a, b, or c).
 
-1. Warum meldet Pavel sich für den Rösterkurs an?  a) Weil sein Chef es verlangt.  b) Um seinen eigenen Röstbetrieb zu gründen.  c) Um mehr Geld zu verdienen.
-2. Wann beginnt der Kurs?  a) Im Oktober.  b) Im August.  c) Im September.
-3. Warum versucht Pavel, sein Deutsch zu verbessern?  a) Weil er eine Prüfung ablegen muss.  b) Weil der Kurs komplett auf Deutsch ist.  c) Weil seine Mutter kein Tschechisch spricht.
-4. Was hofft Pavel noch?  a) Einen neuen Job zu finden.  b) Die Aufnahmeprüfung zu bestehen.  c) Nach Brünn zurückzukehren.
+1. Warum meldet Pavel sich für den Rösterkurs an?  a) Um seinen eigenen Röstbetrieb zu gründen.  b) Weil sein Chef es verlangt.  c) Um mehr Geld zu verdienen.
+2. Wann beginnt der Kurs?  a) Im Oktober.  b) Im September.  c) Im August.
+3. Warum versucht Pavel, sein Deutsch zu verbessern?  a) Weil er eine Prüfung ablegen muss.  b) Weil seine Mutter kein Tschechisch spricht.  c) Weil der Kurs komplett auf Deutsch ist.
+4. Was hofft Pavel noch?  a) Die Aufnahmeprüfung zu bestehen.  b) Einen neuen Job zu finden.  c) Nach Brünn zurückzukehren.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -294,10 +294,10 @@ Rewrite with `um … zu` where the subjects are the same. If subjects differ, ke
 
 Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c).
 
-1. Wofür bewirbt sich Pavel?  a) Für eine Stelle als Barista.  b) Für einen Kaffeeroaster-Kurs.  c) Für ein Praktikum in einer Bäckerei.
-2. Was ist Pavels langfristiges Ziel?  a) In einem Café in Prenzlauer Berg zu arbeiten.  b) Eine offizielle Zertifizierung zu bekommen.  c) Seinen eigenen Röstbetrieb zu gründen.
-3. Warum möchte Pavel die Zertifizierung?  a) Um mehr Geld zu verdienen.  b) Damit seine Kunden wissen, dass seine Arbeit Standards entspricht.  c) Um die Ausbildung schneller abzuschließen.
-4. Was hat Pavel vor, außer dem Kurs zu machen?  a) Einen neuen Job zu suchen.  b) Regelmäßig an Branchenevents teilzunehmen.  c) Nach Brünn zurückzukehren.
+1. Wofür bewirbt sich Pavel?  a) Für einen Kaffeeroaster-Kurs.  b) Für eine Stelle als Barista.  c) Für ein Praktikum in einer Bäckerei.
+2. Was ist Pavels langfristiges Ziel?  a) In einem Café in Prenzlauer Berg zu arbeiten.  b) Seinen eigenen Röstbetrieb zu gründen.  c) Eine offizielle Zertifizierung zu bekommen.
+3. Warum möchte Pavel die Zertifizierung?  a) Um mehr Geld zu verdienen.  b) Um die Ausbildung schneller abzuschließen.  c) Damit seine Kunden wissen, dass seine Arbeit Standards entspricht.
+4. Was hat Pavel vor, außer dem Kurs zu machen?  a) Regelmäßig an Branchenevents teilzunehmen.  b) Einen neuen Job zu suchen.  c) Nach Brünn zurückzukehren.
 
 ## Übung B9 — Forenbeitrag: Deutsch lernen — Warum und Wie?
 
@@ -396,10 +396,10 @@ Richtig (R) oder Falsch (F)?
 
 Read the course brochure text below. Choose the correct answer (a, b, or c).
 
-1. Für wen ist der Kurs geeignet?  a) Für Anfänger ohne Erfahrung.  b) Für erfahrene Baristas.  c) Für Studenten der Lebensmitteltechnologie.
+1. Für wen ist der Kurs geeignet?  a) Für erfahrene Baristas.  b) Für Anfänger ohne Erfahrung.  c) Für Studenten der Lebensmitteltechnologie.
 2. Warum findet der Kurs in kleinen Gruppen statt?  a) Um Kosten zu sparen.  b) Damit die Dozenten individuell auf jeden eingehen können.  c) Weil die Räume klein sind.
-3. Was empfiehlt die Akademie bezüglich der Bewerbung?  a) Sich direkt am ersten Tag des Kurses anzumelden.  b) Sich mindestens drei Monate im Voraus zu bewerben.  c) Eine Warteliste zu kontaktieren.
-4. Was müssen Teilnehmer tun, um den Kurs erfolgreich abzuschließen?  a) Einen Lebenslauf einreichen.  b) Fünf Röstprofile entwickeln.  c) Eine Abschlussprüfung ablegen.
+3. Was empfiehlt die Akademie bezüglich der Bewerbung?  a) Sich direkt am ersten Tag des Kurses anzumelden.  b) Eine Warteliste zu kontaktieren.  c) Sich mindestens drei Monate im Voraus zu bewerben.
+4. Was müssen Teilnehmer tun, um den Kurs erfolgreich abzuschließen?  a) Eine Abschlussprüfung ablegen.  b) Fünf Röstprofile entwickeln.  c) Einen Lebenslauf einreichen.
 
 ## Übung C5 — Schreiben: Kurzes Motivationsschreiben
 

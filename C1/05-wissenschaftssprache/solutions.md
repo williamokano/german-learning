@@ -44,10 +44,10 @@
 
 ## Übung A1 — Unpersönlich formulieren — welcher Satz ist wissenschaftlich?
 
-1. **b) Es wurden 200 Personen befragt.** — Das Passiv „Es wurden … befragt" rückt die Person in den Hintergrund.
+1. **a) Es wurden 200 Personen befragt.** — Das Passiv „Es wurden … befragt" rückt die Person in den Hintergrund.
 2. **b) Das lässt sich nicht eindeutig beantworten.** — „Das lässt sich nicht eindeutig beantworten" ist unpersönlich und vorsichtig.
-3. **a) In dieser Arbeit wird untersucht, ob …** — Im Passiv lässt man den Urheber gerade weg: „wird untersucht".
-4. **b) Die These lässt sich belegen.** — Passiversatz: „sich lassen" + Infinitiv → „lässt sich belegen".
+3. **c) In dieser Arbeit wird untersucht, ob …** — Im Passiv lässt man den Urheber gerade weg: „wird untersucht".
+4. **a) Die These lässt sich belegen.** — Passiversatz: „sich lassen" + Infinitiv → „lässt sich belegen".
 5. **b) Die Auswertung ist abgeschlossen.** — Zustandspassiv: „sein" + Partizip II → „ist abgeschlossen".
 
 ## Übung A2 — Passiv und Passiversatz bilden
@@ -61,8 +61,8 @@
 ## Übung A4 — Nominalstil oder Verbalstil?
 
 1. **a) aufgrund der Datenerhebung** — „aufgrund" + Genitiv-Nomen: „aufgrund der Datenerhebung".
-2. **a) nach Durchführung der Studie** — „nach Durchführung der Studie" verdichtet den Nebensatz.
-3. **a) trotz der kleinen Stichprobe** — „trotz" + Genitiv: „trotz der kleinen Stichprobe".
+2. **b) nach Durchführung der Studie** — „nach Durchführung der Studie" verdichtet den Nebensatz.
+3. **c) trotz der kleinen Stichprobe** — „trotz" + Genitiv: „trotz der kleinen Stichprobe".
 4. **a) bei Anwendung der Methode** — „bei Anwendung der Methode" steht für den wenn-Satz.
 5. **b) Die Vornahme der Durchführung der Auswertung der Daten erfolgte.** — Vier gestapelte Nomen sind unlesbar — das ist die C1-Falle.
 
@@ -72,11 +72,11 @@
 
 ## Übung A6 — Hedging — welche Formulierung ist vorsichtig?
 
-1. **b) Die Daten deuten darauf hin, dass Schlaf wichtig ist.** — „deuten darauf hin" schwächt die Aussage angemessen ab.
+1. **a) Die Daten deuten darauf hin, dass Schlaf wichtig ist.** — „deuten darauf hin" schwächt die Aussage angemessen ab.
 2. **b) Die meisten Menschen reagieren ähnlich.** — „Die meisten" statt „alle" — Hedging durch Quantifizierung.
-3. **b) Das dürfte ein wesentlicher Grund sein.** — „dürfte … sein" drückt eine begründete Vermutung aus.
-4. **b) Das könnte zutreffen.** — Ein Hedge genügt: „Das könnte zutreffen." Mehrere widersprechen sich.
-5. **a) Es spricht einiges dafür, dass …** — „Es spricht einiges dafür" ist eine typische Hedging-Wendung.
+3. **c) Das dürfte ein wesentlicher Grund sein.** — „dürfte … sein" drückt eine begründete Vermutung aus.
+4. **a) Das könnte zutreffen.** — Ein Hedge genügt: „Das könnte zutreffen." Mehrere widersprechen sich.
+5. **b) Es spricht einiges dafür, dass …** — „Es spricht einiges dafür" ist eine typische Hedging-Wendung.
 
 ## Übung A7 — Hedging-Mittel einsetzen
 

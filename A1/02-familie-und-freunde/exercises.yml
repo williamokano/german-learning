@@ -813,10 +813,10 @@ exercises:
     items:
       - q: "Familie Yilmaz wohnt in … — The Yilmaz family lives in …"
         options:
-          - { key: a, text: "Izmir" }
-          - { key: b, text: "Köln" }
+          - { key: a, text: "Köln" }
+          - { key: b, text: "Izmir" }
           - { key: c, text: "Berlin" }
-        answer: b
+        answer: a
         why: "Sie wohnen jetzt in Köln."
       - q: "Deniz ist … — Deniz is …"
         options:
@@ -828,16 +828,16 @@ exercises:
       - q: "Wer wohnt auch in Köln? — Who also lives in Cologne?"
         options:
           - { key: a, text: "Akins Eltern" }
-          - { key: b, text: "Elifs Mutter" }
-          - { key: c, text: "Elifs Vater" }
-        answer: b
+          - { key: b, text: "Elifs Vater" }
+          - { key: c, text: "Elifs Mutter" }
+        answer: c
         why: "Elifs Mutter wohnt auch in Köln."
       - q: "Elifs Mutter ist … — Elif's mother is …"
         options:
-          - { key: a, text: "verheiratet" }
+          - { key: a, text: "verwitwet" }
           - { key: b, text: "geschieden" }
-          - { key: c, text: "verwitwet" }
-        answer: c
+          - { key: c, text: "verheiratet" }
+        answer: a
         why: "Sie ist verwitwet."
 
   - id: C5

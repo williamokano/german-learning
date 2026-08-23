@@ -42,10 +42,10 @@ exercises:
     items:
       - q: "Was macht Yusuf am Anfang des Dialogs?"
         options:
-          - { key: a, text: "Er liest einen fertigen Artikel vor." }
-          - { key: b, text: "Er liest Hannah seinen Entwurf vor." }
+          - { key: a, text: "Er liest Hannah seinen Entwurf vor." }
+          - { key: b, text: "Er liest einen fertigen Artikel vor." }
           - { key: c, text: "Er schreibt zum ersten Mal." }
-        answer: b
+        answer: a
         why: 'Yusuf: "Ich lese dir meinen ersten Entwurf vor."'
       - q: "Was kritisiert Hannah an Yusufs erstem Satz?"
         options:
@@ -63,10 +63,10 @@ exercises:
         why: 'Hannah: "alle nominalisierten Verben sind Neutrum: das Recyceln, das Heizen, das Fliegen."'
       - q: 'Wie bildet man aus dem Adjektiv „möglich" ein Nomen?'
         options:
-          - { key: a, text: "die Möglichung" }
-          - { key: b, text: "die Möglichkeit" }
+          - { key: a, text: "die Möglichkeit" }
+          - { key: b, text: "die Möglichung" }
           - { key: c, text: "das Möglich" }
-        answer: b
+        answer: a
         why: 'Hannah: "möglich → die Möglichkeit" — Adjektive + -keit/-heit.'
 
   - id: H3
@@ -103,31 +103,31 @@ exercises:
     items:
       - q: "Was wurde heute im Abgeordnetenhaus verabschiedet?"
         options:
-          - { key: a, text: "Ein neues Verkehrsgesetz." }
-          - { key: b, text: "Ein neues Klimapaket." }
+          - { key: a, text: "Ein neues Klimapaket." }
+          - { key: b, text: "Ein neues Verkehrsgesetz." }
           - { key: c, text: "Ein Stadtentwicklungsplan." }
-        answer: b
+        answer: a
         why: '"Das Berliner Abgeordnetenhaus hat heute ein neues Klimapaket verabschiedet."'
       - q: "Bis wann soll der ÖPNV vollständig elektrifiziert werden?"
         options:
           - { key: a, text: "Bis 2025." }
-          - { key: b, text: "Bis 2030." }
-          - { key: c, text: "Bis 2028." }
-        answer: c
+          - { key: b, text: "Bis 2028." }
+          - { key: c, text: "Bis 2030." }
+        answer: b
         why: '"der öffentliche Nahverkehr soll bis 2028 vollständig elektrifiziert werden."'
       - q: "Was warnen Kritiker?"
         options:
           - { key: a, text: "Dass die Maßnahmen nicht wirken." }
-          - { key: b, text: "Dass Geringverdiener zusätzlich belastet werden." }
-          - { key: c, text: "Dass Solaranlagen zu teuer sind." }
-        answer: b
+          - { key: b, text: "Dass Solaranlagen zu teuer sind." }
+          - { key: c, text: "Dass Geringverdiener zusätzlich belastet werden." }
+        answer: c
         why: '"Kritiker warnen jedoch vor einer zusätzlichen Belastung für Geringverdiener."'
       - q: "Was ist laut Umweltsenatorin das oberste Ziel?"
         options:
-          - { key: a, text: "Die Förderung des Fahrrads." }
-          - { key: b, text: "Die Reduzierung der Emissionen." }
+          - { key: a, text: "Die Reduzierung der Emissionen." }
+          - { key: b, text: "Die Förderung des Fahrrads." }
           - { key: c, text: "Die Einführung von Elektroautos." }
-        answer: b
+        answer: a
         why: '"die Reduzierung der Emissionen sei das oberste Ziel."'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────

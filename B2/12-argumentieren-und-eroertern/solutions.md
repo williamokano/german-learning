@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Nachricht auf dem Anrufbeantworter einer Zeitung
 
-1. **b) Um Hinweise zum Einsenden von Leserbriefen.** — „Wenn Sie einen Leserbrief einsenden möchten, nutzen Sie bitte unsere Online-Adresse."
+1. **a) Um Hinweise zum Einsenden von Leserbriefen.** — „Wenn Sie einen Leserbrief einsenden möchten, nutzen Sie bitte unsere Online-Adresse."
 2. **b) An die Online-Adresse der Zeitung.** — „nutzen Sie bitte unsere Online-Adresse."
-3. **a) Bis zu zehn Werktage.** — „müssen Sie mit einer Wartezeit von bis zu zehn Werktagen rechnen."
-4. **b) Sachliche Formulierung und Beispiele als Belege.** — „Meiner Erfahrung nach lohnt es sich, den Brief sachlich zu formulieren und die wichtigsten Argumente mit Beispielen zu belegen."
+3. **c) Bis zu zehn Werktage.** — „müssen Sie mit einer Wartezeit von bis zu zehn Werktagen rechnen."
+4. **a) Sachliche Formulierung und Beispiele als Belege.** — „Meiner Erfahrung nach lohnt es sich, den Brief sachlich zu formulieren und die wichtigsten Argumente mit Beispielen zu belegen."
 
 ---
 
@@ -218,12 +218,12 @@ Selbstkorrektur:
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-1. **b) bin** — "Ich bin der Ansicht, dass …" ist die formelle Standardformel.
-2. **a) nach** — "Meiner Meinung nach" ist eine feste Präpositionalkonstruktion.
-3. **a) Als Beispiel** — "Als Beleg/Beispiel dient …" ist die korrekte Formel.
+1. **a) bin** — "Ich bin der Ansicht, dass …" ist die formelle Standardformel.
+2. **b) nach** — "Meiner Meinung nach" ist eine feste Präpositionalkonstruktion.
+3. **c) Als Beispiel** — "Als Beleg/Beispiel dient …" ist die korrekte Formel.
 4. **a) Zusammenfassend** — "Zusammenfassend lässt sich sagen, dass …" ist die Standard-Fazit-Formel.
-5. **a) Obwohl** — "Obwohl" leitet einen Nebensatz ein (Verb am Ende); „trotzdem" und „dennoch" sind Hauptsatz-Adverbien.
-6. **a) ist** — "Diesem Argument ist entgegenzuhalten, dass …" ist die feste Passiv-Formel.
+5. **b) Obwohl** — "Obwohl" leitet einen Nebensatz ein (Verb am Ende); „trotzdem" und „dennoch" sind Hauptsatz-Adverbien.
+6. **c) ist** — "Diesem Argument ist entgegenzuhalten, dass …" ist die feste Passiv-Formel.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 

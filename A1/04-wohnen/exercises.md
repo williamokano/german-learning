@@ -420,7 +420,7 @@ Wähle a, b oder c.
 
 1. Anzeige 1: Die Wohnung hat … — Ad 1: The flat has …  a) zwei Zimmer  b) drei Zimmer  c) einen Garten
 2. Was kostet die Wohnung in Spandau? — How much is the flat in Spandau?  a) 780 €  b) 950 €  c) 78 €
-3. Welche Wohnung hat einen Balkon? — Which flat has a balcony?  a) Anzeige 1  b) Anzeige 2  c) beide
+3. Welche Wohnung hat einen Balkon? — Which flat has a balcony?  a) beide  b) Anzeige 2  c) Anzeige 1
 4. Die Wohnung in Spandau hat … — The flat in Spandau has …  a) eine Garage  b) einen Balkon  c) 55 m²
 
 ## Übung C5 — Schreiben: Dein Zuhause

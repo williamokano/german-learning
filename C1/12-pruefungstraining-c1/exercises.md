@@ -9,13 +9,13 @@ Vollständiger Modelltest im Format Goethe-Zertifikat C1 / telc Deutsch C1 Hochs
 Hören Sie die fünf Gespräche (zweimal) und wählen Sie die richtige Antwort (a, b oder c).
 
 1. Warum wurde die Fachkonferenz verschoben?  
-   a) Es gab zu wenige Anmeldungen.  b) Die Hauptrednerin ist erkrankt.  c) Der Veranstaltungsraum war belegt.
+   a) Die Hauptrednerin ist erkrankt.  b) Es gab zu wenige Anmeldungen.  c) Der Veranstaltungsraum war belegt.
 2. Was darf der Student mit der Dissertation tun?  
    a) Sie nach Hause ausleihen.  b) Sie nur im Lesesaal einsehen.  c) Sie vollständig online herunterladen.
 3. Was fehlt noch bei dem Antrag?  
-   a) Eine beglaubigte Übersetzung des Zeugnisses.  b) Die Bearbeitungsgebühr.  c) Ein aktuelles Passfoto.
+   a) Ein aktuelles Passfoto.  b) Die Bearbeitungsgebühr.  c) Eine beglaubigte Übersetzung des Zeugnisses.
 4. Wozu rät der Berater der Studentin?  
-   a) Vom Auslandssemester abzusehen.  b) Ein Auslandssemester mit guter Planung zu machen.  c) Zuerst das Studium zu beenden.
+   a) Ein Auslandssemester mit guter Planung zu machen.  b) Vom Auslandssemester abzusehen.  c) Zuerst das Studium zu beenden.
 5. Wofür entscheiden sich die beiden Freunde?  
    a) Für den Science Slam.  b) Für die Podiumsdiskussion.  c) Für beide Veranstaltungen.
 
@@ -53,11 +53,11 @@ Hören Sie die fünf Ansagen (zweimal) und wählen Sie die richtige Antwort (a, 
 
 Hören Sie den Vortrag (zweimal) und wählen Sie die richtige Antwort (a, b oder c).
 
-1. Womit beschäftigt sich die Vortragende?  a) Mit der Geschichte der maschinellen Übersetzung.  b) Mit der Frage, wie die KI das Sprachenlernen verändert.  c) Mit der Programmierung von Sprach-Apps.
+1. Womit beschäftigt sich die Vortragende?  a) Mit der Frage, wie die KI das Sprachenlernen verändert.  b) Mit der Geschichte der maschinellen Übersetzung.  c) Mit der Programmierung von Sprach-Apps.
 2. Welche These vertritt die Vortragende?  a) Übersetzungsprogramme machen das Sprachenlernen überflüssig.  b) Übersetzungsprogramme verändern nur die Art, wie wir lernen.  c) Übersetzungsprogramme sind völlig nutzlos.
-3. Was kann ein Programm laut der Vortragenden bis heute oft NICHT leisten?  a) Wörter schnell übersetzen.  b) Nuancen, Ironie und kulturelle Anspielungen erfassen.  c) Ganze Sätze erkennen.
-4. Welche Sorge äußert die Vortragende?  a) Dass die Technik zu teuer wird.  b) Dass man verlernt, eigenständig zu formulieren.  c) Dass zu wenige Menschen Sprachen lernen.
-5. Womit beendet die Vortragende ihren Vortrag?  a) Mit einer Aufforderung an die Bildungspolitik.  b) Mit einem literarischen Zitat.  c) Mit einem Beispiel aus ihrer Kindheit.
+3. Was kann ein Programm laut der Vortragenden bis heute oft NICHT leisten?  a) Wörter schnell übersetzen.  b) Ganze Sätze erkennen.  c) Nuancen, Ironie und kulturelle Anspielungen erfassen.
+4. Welche Sorge äußert die Vortragende?  a) Dass man verlernt, eigenständig zu formulieren.  b) Dass die Technik zu teuer wird.  c) Dass zu wenige Menschen Sprachen lernen.
+5. Womit beendet die Vortragende ihren Vortrag?  a) Mit einem literarischen Zitat.  b) Mit einer Aufforderung an die Bildungspolitik.  c) Mit einem Beispiel aus ihrer Kindheit.
 
 ## Übung exam-L5 — Aufgabe 5 — Zeitungsartikel (Text 1): Richtig / Falsch
 
@@ -130,11 +130,11 @@ Wählen Sie für jede Lücke (1–6) die grammatisch richtige Variante (a, b ode
 
 
 1. Eine Studie der Universität Wien _______ (1) der Frage nachgegangen, welchen Einfluss Vorlesen hat.  a) ist  b) hat  c) wird
-2. Die Ergebnisse _______ (2) nahe, dass tägliches Vorlesen hilft.  a) legen  b) liegen  c) stellen
-3. Die Forschenden führen dies _______ (3) zurück, dass mehrere Fähigkeiten zugleich trainiert werden.  a) darauf  b) darüber  c) daran
-4. Die Befunde _______ (4) laut den Autoren nicht überbewertet werden.  a) dürfen  b) dürften  c) durften
-5. Die Stichprobe _______ (5) klein gewesen, betonen die Autoren.  a) sei  b) ist  c) wäre
-6. _______ (6) empfehlen die Autoren lautes Vorlesen als wirksame Übung.  a) Gleichwohl  b) Deshalb weil  c) Indem
+2. Die Ergebnisse _______ (2) nahe, dass tägliches Vorlesen hilft.  a) liegen  b) legen  c) stellen
+3. Die Forschenden führen dies _______ (3) zurück, dass mehrere Fähigkeiten zugleich trainiert werden.  a) daran  b) darüber  c) darauf
+4. Die Befunde _______ (4) laut den Autoren nicht überbewertet werden.  a) dürften  b) dürfen  c) durften
+5. Die Stichprobe _______ (5) klein gewesen, betonen die Autoren.  a) ist  b) sei  c) wäre
+6. _______ (6) empfehlen die Autoren lautes Vorlesen als wirksame Übung.  a) Indem  b) Deshalb weil  c) Gleichwohl
 
 ## Übung exam-S9 — Aufgabe 9 — Stellungnahme (Forumsbeitrag)
 

@@ -4,10 +4,10 @@
 
 ## Übung exam-H1 — Aufgabe 1 — Kurze Gespräche im Alltag
 
-1. **b) Die Hauptrednerin ist erkrankt.** — Die Kollegin sagt: „Die Hauptrednerin ist kurzfristig erkrankt."
+1. **a) Die Hauptrednerin ist erkrankt.** — Die Kollegin sagt: „Die Hauptrednerin ist kurzfristig erkrankt."
 2. **b) Sie nur im Lesesaal einsehen.** — Die Bibliothekarin: „ausleihen können Sie die nicht. Aber Sie dürfen sie im Lesesaal einsehen …"
-3. **a) Eine beglaubigte Übersetzung des Zeugnisses.** — Die Sachbearbeiterin: „es fehlt noch eine beglaubigte Übersetzung Ihres Zeugnisses."
-4. **b) Ein Auslandssemester mit guter Planung zu machen.** — Der Berater: „Eindeutig. Planen Sie nur frühzeitig, dann verlieren Sie auch keine Zeit."
+3. **c) Eine beglaubigte Übersetzung des Zeugnisses.** — Die Sachbearbeiterin: „es fehlt noch eine beglaubigte Übersetzung Ihres Zeugnisses."
+4. **a) Ein Auslandssemester mit guter Planung zu machen.** — Der Berater: „Eindeutig. Planen Sie nur frühzeitig, dann verlieren Sie auch keine Zeit."
 5. **b) Für die Podiumsdiskussion.** — Sie sagt: „Einverstanden, die Diskussion. Den Slam holen wir nächstes Mal nach."
 
 ## Übung exam-H2 — Aufgabe 2 — Radiobeitrag: Ein Mehrgenerationenhaus in Leipzig
@@ -29,11 +29,11 @@
 
 ## Übung exam-H4 — Aufgabe 4 — Vortrag: Sprachenlernen im Zeitalter der KI
 
-1. **b) Mit der Frage, wie die KI das Sprachenlernen verändert.** — „Wie verändert die künstliche Intelligenz das Sprachenlernen?"
+1. **a) Mit der Frage, wie die KI das Sprachenlernen verändert.** — „Wie verändert die künstliche Intelligenz das Sprachenlernen?"
 2. **b) Übersetzungsprogramme verändern nur die Art, wie wir lernen.** — „Übersetzungsprogramme werden das Sprachenlernen nicht überflüssig machen — … sie verändern nur die Art, wie wir lernen."
-3. **b) Nuancen, Ironie und kulturelle Anspielungen erfassen.** — „versteht Nuancen, Ironie und kulturelle Anspielungen, die ein Programm bis heute oft verfehlt."
-4. **b) Dass man verlernt, eigenständig zu formulieren.** — „Wer sich blind auf die Technik verlässt, verlernt womöglich, eigenständig zu formulieren."
-5. **a) Mit einer Aufforderung an die Bildungspolitik.** — „möchte ich die Bildungspolitik auffordern, den kritischen Umgang mit solchen Werkzeugen fest in den Unterricht zu integrieren."
+3. **c) Nuancen, Ironie und kulturelle Anspielungen erfassen.** — „versteht Nuancen, Ironie und kulturelle Anspielungen, die ein Programm bis heute oft verfehlt."
+4. **a) Dass man verlernt, eigenständig zu formulieren.** — „Wer sich blind auf die Technik verlässt, verlernt womöglich, eigenständig zu formulieren."
+5. **b) Mit einer Aufforderung an die Bildungspolitik.** — „möchte ich die Bildungspolitik auffordern, den kritischen Umgang mit solchen Werkzeugen fest in den Unterricht zu integrieren."
 
 ## Übung exam-L5 — Aufgabe 5 — Zeitungsartikel (Text 1): Richtig / Falsch
 
@@ -59,11 +59,11 @@
 ## Übung exam-L8 — Aufgabe 8 — Wissenschaftlicher Text (Text 3): Lücken ergänzen
 
 1. **a) ist** — „nachgehen" bildet das Perfekt mit „sein": „ist … nachgegangen".
-2. **a) legen** — Funktionsverbgefüge „nahelegen": „die Ergebnisse legen nahe".
-3. **a) darauf** — „zurückführen auf + Akk." → Pronominaladverb „darauf".
-4. **b) dürften** — Konjunktiv II Plural („die Befunde" → „dürften") für Hedging; entspricht der Originalformulierung in Text 3.
-5. **a) sei** — Redewiedergabe → Konjunktiv I: „sei".
-6. **a) Gleichwohl** — „Gleichwohl" (= dennoch) leitet die Einräumung ein und steht auf Position 1 (Verb an Position 2).
+2. **b) legen** — Funktionsverbgefüge „nahelegen": „die Ergebnisse legen nahe".
+3. **c) darauf** — „zurückführen auf + Akk." → Pronominaladverb „darauf".
+4. **a) dürften** — Konjunktiv II Plural („die Befunde" → „dürften") für Hedging; entspricht der Originalformulierung in Text 3.
+5. **b) sei** — Redewiedergabe → Konjunktiv I: „sei".
+6. **c) Gleichwohl** — „Gleichwohl" (= dennoch) leitet die Einräumung ein und steht auf Position 1 (Verb an Position 2).
 
 ## Übung exam-S9 — Aufgabe 9 — Stellungnahme (Forumsbeitrag)
 

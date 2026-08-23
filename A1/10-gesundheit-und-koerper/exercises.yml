@@ -883,10 +883,10 @@ exercises:
     items:
       - q: "Lisa hatte … — Lisa had …"
         options:
-          - { key: a, text: "eine Erkältung" }
+          - { key: a, text: "39 Grad Fieber und Halsschmerzen" }
           - { key: b, text: "nur Husten" }
-          - { key: c, text: "39 Grad Fieber und Halsschmerzen" }
-        answer: c
+          - { key: c, text: "eine Erkältung" }
+        answer: a
         why: "39 Grad Fieber und Halsschmerzen — beides wird erwähnt."
       - q: "Die Ärztin hat gesagt, Lisa soll … — The doctor said Lisa should …"
         options:
@@ -898,16 +898,16 @@ exercises:
       - q: "Lisa hat … — Lisa has …"
         options:
           - { key: a, text: "eine Woche gearbeitet" }
-          - { key: b, text: "nicht gearbeitet" }
-          - { key: c, text: "im Krankenhaus geschlafen" }
-        answer: b
+          - { key: b, text: "im Krankenhaus geschlafen" }
+          - { key: c, text: "nicht gearbeitet" }
+        answer: c
         why: "Ich habe auch eine Woche nicht gearbeitet."
       - q: "Was empfiehlt Lisa? — What does Lisa recommend?"
         options:
-          - { key: a, text: "Sofort zum Arzt gehen" }
-          - { key: b, text: "Beim ersten Zeichen viel trinken und schlafen" }
+          - { key: a, text: "Beim ersten Zeichen viel trinken und schlafen" }
+          - { key: b, text: "Sofort zum Arzt gehen" }
           - { key: c, text: "Tabletten kaufen ohne Rezept" }
-        answer: b
+        answer: a
         why: '„Beim ersten Zeichen einer Erkältung sofort viel trinken und schlafen!"'
 
   - id: C5

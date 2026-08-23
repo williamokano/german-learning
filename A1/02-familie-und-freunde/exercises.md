@@ -382,10 +382,10 @@ Text: Familie Yilmaz: Akin Yilmaz (34) und Elif Yilmaz (31) kommen aus der Türk
 Wähle a, b oder c.
 
 
-1. Familie Yilmaz wohnt in … — The Yilmaz family lives in …  a) Izmir  b) Köln  c) Berlin
+1. Familie Yilmaz wohnt in … — The Yilmaz family lives in …  a) Köln  b) Izmir  c) Berlin
 2. Deniz ist … — Deniz is …  a) drei  b) sechs  c) sechzehn
-3. Wer wohnt auch in Köln? — Who also lives in Cologne?  a) Akins Eltern  b) Elifs Mutter  c) Elifs Vater
-4. Elifs Mutter ist … — Elif's mother is …  a) verheiratet  b) geschieden  c) verwitwet
+3. Wer wohnt auch in Köln? — Who also lives in Cologne?  a) Akins Eltern  b) Elifs Vater  c) Elifs Mutter
+4. Elifs Mutter ist … — Elif's mother is …  a) verwitwet  b) geschieden  c) verheiratet
 
 ## Übung C5 — Schreiben: Meine Familie
 

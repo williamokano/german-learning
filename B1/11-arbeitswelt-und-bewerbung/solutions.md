@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Für eine Stelle als Projektkoordinatorin.** — Scene description of Dialog B states Anna applies for a Projektkoordinatorin role; the position is also confirmed by Annas Anschreiben (Lesetext §7: 'Bewerbung als Projektkoordinatorin').
+1. **a) Für eine Stelle als Projektkoordinatorin.** — Scene description of Dialog B states Anna applies for a Projektkoordinatorin role; the position is also confirmed by Annas Anschreiben (Lesetext §7: 'Bewerbung als Projektkoordinatorin').
 2. **b) Junior Marketing-Managerin.** — Anna: "Zuletzt war ich als Junior Marketing-Managerin tätig."
 3. **c) 52.000 bis 58.000 Euro brutto.** — Anna: "Meiner Vorstellung nach läge das Gehalt bei etwa 52.000 bis 58.000 Euro brutto jährlich."
-4. **b) Wie ist die Einarbeitung bei Ihnen strukturiert?** — Anna: "wie die Einarbeitung neuer Projektkoordinatorinnen bei Ihnen strukturiert ist."
+4. **a) Wie ist die Einarbeitung bei Ihnen strukturiert?** — Anna: "wie die Einarbeitung neuer Projektkoordinatorinnen bei Ihnen strukturiert ist."
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Anruf von Frau Weber bei einer Agentur
 
-1. **b) Eine Projektkoordinatorin.** — "wir gerade eine Stelle als Projektkoordinatorin ausgeschrieben haben."
-2. **c) Ab dem 1. Oktober.** — "Die Stelle ist ab dem 1. Oktober zu besetzen."
-3. **b) Am 30. Juni.** — "Die Bewerbungsfrist endet am 30. Juni."
-4. **b) Um Kandidatinnen-Empfehlungen zu erbitten.** — "Bitte ruf mich zurück, wenn Sie Kandidatinnen empfehlen können."
+1. **a) Eine Projektkoordinatorin.** — "wir gerade eine Stelle als Projektkoordinatorin ausgeschrieben haben."
+2. **b) Ab dem 1. Oktober.** — "Die Stelle ist ab dem 1. Oktober zu besetzen."
+3. **c) Am 30. Juni.** — "Die Bewerbungsfrist endet am 30. Juni."
+4. **a) Um Kandidatinnen-Empfehlungen zu erbitten.** — "Bitte ruf mich zurück, wenn Sie Kandidatinnen empfehlen können."
 
 ---
 
@@ -80,10 +80,10 @@
 
 ## Übung A10 — Stellenanzeige lesen: Wähle die richtige Antwort
 
-1. **b) Mindestens zwei Jahre.** — "Von den Bewerberinnen und Bewerbern werden mindestens zwei Jahre Berufserfahrung erwartet."
-2. **c) B2.** — "Englischkenntnisse auf B2-Niveau werden vorausgesetzt."
-3. **b) Ab dem 1. Oktober.** — "Die Stelle wird ab dem 1. Oktober besetzt."
-4. **b) Es ist das Passiv-Hilfsverb.** — In job ads, werden + Partizip II = Passiv (e.g. werden erwartet, werden vorausgesetzt).
+1. **a) Mindestens zwei Jahre.** — "Von den Bewerberinnen und Bewerbern werden mindestens zwei Jahre Berufserfahrung erwartet."
+2. **b) B2.** — "Englischkenntnisse auf B2-Niveau werden vorausgesetzt."
+3. **c) Ab dem 1. Oktober.** — "Die Stelle wird ab dem 1. Oktober besetzt."
+4. **a) Es ist das Passiv-Hilfsverb.** — In job ads, werden + Partizip II = Passiv (e.g. werden erwartet, werden vorausgesetzt).
 5. **b) Bis zum 30. Juni.** — "Bewerbungen werden bis zum 30. Juni entgegengenommen."
 
 ## Übung A11 — Arbeitswelt-Wortschatz: Definitionen ergänzen
@@ -133,10 +133,10 @@
 
 ## Übung B8 — Leseverstehen: Annas Bewerbungsschreiben (Lesetext §7)
 
-1. **b) Als Projektkoordinatorin.** — "Betreff: Bewerbung als Projektkoordinatorin."
-2. **c) Mehrere Projekte gleichzeitig.** — "wurden mehrere Projekte gleichzeitig von mir koordiniert."
-3. **b) Die Einführung eines CRM-Systems.** — "darunter die Einführung eines neuen CRM-Systems."
-4. **b) die Qualität meiner Arbeit** — "Die Qualität meiner Arbeit" appears in the letter. "die Stärke meiner Bewerbung" (option a) does not appear.
+1. **a) Als Projektkoordinatorin.** — "Betreff: Bewerbung als Projektkoordinatorin."
+2. **b) Mehrere Projekte gleichzeitig.** — "wurden mehrere Projekte gleichzeitig von mir koordiniert."
+3. **c) Die Einführung eines CRM-Systems.** — "darunter die Einführung eines neuen CRM-Systems."
+4. **a) die Qualität meiner Arbeit** — "Die Qualität meiner Arbeit" appears in the letter. "die Stärke meiner Bewerbung" (option a) does not appear.
 
 ## Übung B9 — Anschreiben-Abschnitt schreiben
 
@@ -171,12 +171,12 @@ Selbstkorrektur:
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-1. **b) würde mich freuen** — freuen is reflexive: sich freuen. With Konjunktiv II: Ich würde mich freuen.
+1. **a) würde mich freuen** — freuen is reflexive: sich freuen. With Konjunktiv II: Ich würde mich freuen.
 2. **b) verfüge** — verfügen über is the formal application phrase. habe is too informal; besitze is for things.
-3. **a) meiner** — während + Genitiv: während meiner Tätigkeit (feminine Genitiv).
-4. **b) wird** — Passiv Präsens requires werden as auxiliary: Die Stelle wird besetzt. Not ist (Zustandspassiv) — the context is a future event.
+3. **c) meiner** — während + Genitiv: während meiner Tätigkeit (feminine Genitiv).
+4. **a) wird** — Passiv Präsens requires werden as auxiliary: Die Stelle wird besetzt. Not ist (Zustandspassiv) — the context is a future event.
 5. **b) läge** — Konjunktiv II of liegen = läge. Used here for a polite, indirect salary statement.
-6. **b) freundlichen** — mit + Dativ Plural: freundlichen Grüßen. This formula is fixed.
+6. **c) freundlichen** — mit + Dativ Plural: freundlichen Grüßen. This formula is fixed.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
@@ -192,10 +192,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Leseverstehen: Stellenanzeige (neuer Text)
 
-1. **b) Ein abgeschlossenes Hochschulstudium.** — "Von den Bewerberinnen und Bewerbern wird ein abgeschlossenes Hochschulstudium erwartet."
+1. **a) Ein abgeschlossenes Hochschulstudium.** — "Von den Bewerberinnen und Bewerbern wird ein abgeschlossenes Hochschulstudium erwartet."
 2. **b) C1.** — "Sehr gute Deutschkenntnisse (mindestens C1) werden vorausgesetzt."
-3. **b) Sie werden als Freizeit ausgeglichen.** — "Überstunden werden auf Wunsch als Freizeit ausgeglichen."
-4. **c) Bis zum 15. Juli.** — "Bewerbungen werden bis zum 15. Juli entgegengenommen."
+3. **c) Sie werden als Freizeit ausgeglichen.** — "Überstunden werden auf Wunsch als Freizeit ausgeglichen."
+4. **a) Bis zum 15. Juli.** — "Bewerbungen werden bis zum 15. Juli entgegengenommen."
 
 ## Übung C5 — Schreiben: Vorstellungsgespräch-Antworten
 

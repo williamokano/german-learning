@@ -24,10 +24,10 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Was ändert sich ab nächsten Monat im Büro?  a) Die Mitarbeiter bekommen neue Computer.  b) Alle monatlichen Berichte werden automatisch erstellt.  c) Anna bekommt eine neue Aufgabe in einer anderen Abteilung.
+1. Was ändert sich ab nächsten Monat im Büro?  a) Alle monatlichen Berichte werden automatisch erstellt.  b) Die Mitarbeiter bekommen neue Computer.  c) Anna bekommt eine neue Aufgabe in einer anderen Abteilung.
 2. Was muss Anna überprüfen?  a) Die Struktur des CRM-Systems.  b) Alle Zahlen im Bericht vor der Freigabe.  c) Die Vorlagen für die nächste Woche.
 3. Bis wann muss der Bericht abgeschlossen sein?  a) Bis zum 1. jedes Monats.  b) Bis zum 10. jedes Monats.  c) Bis zum 5. jedes Monats.
-4. Wurden die anderen Abteilungen schon informiert?  a) Nein, noch nicht.  b) Ja, alle Teams sind bereits benachrichtigt worden.  c) Nur die Marketingabteilung wurde informiert.
+4. Wurden die anderen Abteilungen schon informiert?  a) Ja, alle Teams sind bereits benachrichtigt worden.  b) Nein, noch nicht.  c) Nur die Marketingabteilung wurde informiert.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -51,10 +51,10 @@ Listen to the radio news bulletin and fill in the 6 missing words. Three words i
 
 Listen to the PA announcement at the train station. Then choose the correct answer (a, b, or c).
 
-1. Warum wird der ICE 743 nach München verspätet?  a) Wegen eines technischen Problems am Zug.  b) Die Abfahrt wird um 15 Minuten verschoben.  c) Der Zug fällt heute aus.
-2. Auf welchem Gleis wird der ICE 743 bereitgestellt?  a) Auf Gleis 5.  b) Auf Gleis 3.  c) Auf Gleis 7.
-3. Warum kann Gleis 5 heute nicht benutzt werden?  a) Ein Zug steht dort und blockiert das Gleis.  b) Gleis 5 wird wegen Bauarbeiten gesperrt.  c) Gleis 5 ist für ICE-Züge reserviert.
-4. Was sollen Reisende nach Frankfurt tun?  a) Auf den ICE 743 warten.  b) Auf den IC 280 umsteigen.  c) Einen anderen Bahnhof aufsuchen.
+1. Warum wird der ICE 743 nach München verspätet?  a) Die Abfahrt wird um 15 Minuten verschoben.  b) Wegen eines technischen Problems am Zug.  c) Der Zug fällt heute aus.
+2. Auf welchem Gleis wird der ICE 743 bereitgestellt?  a) Auf Gleis 5.  b) Auf Gleis 7.  c) Auf Gleis 3.
+3. Warum kann Gleis 5 heute nicht benutzt werden?  a) Ein Zug steht dort und blockiert das Gleis.  b) Gleis 5 ist für ICE-Züge reserviert.  c) Gleis 5 wird wegen Bauarbeiten gesperrt.
+4. Was sollen Reisende nach Frankfurt tun?  a) Auf den IC 280 umsteigen.  b) Auf den ICE 743 warten.  c) Einen anderen Bahnhof aufsuchen.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -293,10 +293,10 @@ Transform each active modal sentence into a passive one. Fill in the full passiv
 
 Answer the questions about the Lesetext (Wie ein Elektroauto entsteht).
 
-1. Woher werden Lithium und Kobalt importiert?  a) Aus Deutschland.  b) Aus mehreren Ländern.  c) Aus China.
+1. Woher werden Lithium und Kobalt importiert?  a) Aus mehreren Ländern.  b) Aus Deutschland.  c) Aus China.
 2. Von wem werden die Karosserieteile zusammengesetzt?  a) Von spezialisierten Technikern.  b) Von Robotern.  c) Von Ingenieuren.
 3. Was ist seit 2020 erheblich gesteigert worden?  a) Die Ladezeit.  b) Die Anzahl der Fabriken.  c) Die Batteriekapazität.
-4. Wann darf das Fahrzeug das Werk verlassen?  a) Wenn der Roboter fertig ist.  b) Erst wenn alle Prüfungen bestanden worden sind.  c) Wenn der Kunde bezahlt hat.
+4. Wann darf das Fahrzeug das Werk verlassen?  a) Erst wenn alle Prüfungen bestanden worden sind.  b) Wenn der Roboter fertig ist.  c) Wenn der Kunde bezahlt hat.
 
 ## Übung B9 — E-Mail: Einen Arbeitsprozess beschreiben
 
@@ -383,10 +383,10 @@ Read the following text and choose the correct answer (a, b, or c).
 Im Museum darf nicht fotografiert werden. Handys müssen auf lautlos gestellt werden, bevor der Ausstellungsraum betreten wird. Getränke und Speisen dürfen nicht in die Ausstellungsräume mitgenommen werden. Kinderführungen werden jeden Samstag um 10 Uhr angeboten und müssen im Voraus gebucht werden. Gruppen von mehr als 15 Personen werden gebeten, sich mindestens zwei Wochen vorher anzumelden. Der Eingang des Museums wurde 2023 renoviert und ist seitdem barrierefrei zugänglich gemacht worden.
 
 
-1. Was ist im Museum verboten?  a) Das Telefonieren.  b) Das Fotografieren.  c) Das Essen auf dem Museumsgelände.
-2. Wann werden Kinderführungen angeboten?  a) Täglich um 10 Uhr.  b) Jeden Sonntag um 10 Uhr.  c) Jeden Samstag um 10 Uhr.
-3. Was wurde 2023 renoviert?  a) Die Ausstellungsräume.  b) Der Eingang des Museums.  c) Die Kinderführungsräume.
-4. Was müssen Gruppen von mehr als 15 Personen tun?  a) Einen Audioguide kaufen.  b) Sich mindestens zwei Wochen vorher anmelden.  c) Einen speziellen Gruppenausweis vorzeigen.
+1. Was ist im Museum verboten?  a) Das Fotografieren.  b) Das Telefonieren.  c) Das Essen auf dem Museumsgelände.
+2. Wann werden Kinderführungen angeboten?  a) Täglich um 10 Uhr.  b) Jeden Samstag um 10 Uhr.  c) Jeden Sonntag um 10 Uhr.
+3. Was wurde 2023 renoviert?  a) Die Ausstellungsräume.  b) Die Kinderführungsräume.  c) Der Eingang des Museums.
+4. Was müssen Gruppen von mehr als 15 Personen tun?  a) Sich mindestens zwei Wochen vorher anmelden.  b) Einen Audioguide kaufen.  c) Einen speziellen Gruppenausweis vorzeigen.
 
 ## Übung C5 — Schreiben: Forenbeitrag über Prozesse
 

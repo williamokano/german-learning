@@ -13,10 +13,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) als Projektleiterin** — Frau Weber möchte sich als Projektleiterin bewerben.
+1. **a) als Projektleiterin** — Frau Weber möchte sich als Projektleiterin bewerben.
 2. **b) drei Jahre** — drei Jahre als Koordinatorin.
-3. **b) Unterlagen einreichen** — Unterlagen einreichen.
-4. **c) bis Montag** — Bis Montag.
+3. **c) Unterlagen einreichen** — Unterlagen einreichen.
+4. **a) bis Montag** — Bis Montag.
 
 ## Übung H3 — Hörtext-Lückentext
 

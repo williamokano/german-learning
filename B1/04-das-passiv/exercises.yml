@@ -43,10 +43,10 @@ exercises:
     items:
       - q: "Was ändert sich ab nächsten Monat im Büro?"
         options:
-          - { key: a, text: "Die Mitarbeiter bekommen neue Computer." }
-          - { key: b, text: "Alle monatlichen Berichte werden automatisch erstellt." }
+          - { key: a, text: "Alle monatlichen Berichte werden automatisch erstellt." }
+          - { key: b, text: "Die Mitarbeiter bekommen neue Computer." }
           - { key: c, text: "Anna bekommt eine neue Aufgabe in einer anderen Abteilung." }
-        answer: b
+        answer: a
         why: 'Frau Weber: "Ab nächsten Monat werden alle monatlichen Berichte automatisch erstellt."'
       - q: "Was muss Anna überprüfen?"
         options:
@@ -64,10 +64,10 @@ exercises:
         why: 'Frau Weber: "Er muss bis zum 5. jedes Monats abgeschlossen ... werden."'
       - q: "Wurden die anderen Abteilungen schon informiert?"
         options:
-          - { key: a, text: "Nein, noch nicht." }
-          - { key: b, text: "Ja, alle Teams sind bereits benachrichtigt worden." }
+          - { key: a, text: "Ja, alle Teams sind bereits benachrichtigt worden." }
+          - { key: b, text: "Nein, noch nicht." }
           - { key: c, text: "Nur die Marketingabteilung wurde informiert." }
-        answer: b
+        answer: a
         why: 'Frau Weber: "Ja, alle Teams sind bereits benachrichtigt worden."'
 
   - id: H3
@@ -104,31 +104,31 @@ exercises:
     items:
       - q: "Warum wird der ICE 743 nach München verspätet?"
         options:
-          - { key: a, text: "Wegen eines technischen Problems am Zug." }
-          - { key: b, text: "Die Abfahrt wird um 15 Minuten verschoben." }
+          - { key: a, text: "Die Abfahrt wird um 15 Minuten verschoben." }
+          - { key: b, text: "Wegen eines technischen Problems am Zug." }
           - { key: c, text: "Der Zug fällt heute aus." }
-        answer: b
+        answer: a
         why: '"Die Abfahrt des ICE 743 nach München wird um 15 Minuten verschoben."'
       - q: "Auf welchem Gleis wird der ICE 743 bereitgestellt?"
         options:
           - { key: a, text: "Auf Gleis 5." }
-          - { key: b, text: "Auf Gleis 3." }
-          - { key: c, text: "Auf Gleis 7." }
-        answer: c
+          - { key: b, text: "Auf Gleis 7." }
+          - { key: c, text: "Auf Gleis 3." }
+        answer: b
         why: '"Der Zug wird jetzt auf Gleis 7 bereitgestellt."'
       - q: "Warum kann Gleis 5 heute nicht benutzt werden?"
         options:
           - { key: a, text: "Ein Zug steht dort und blockiert das Gleis." }
-          - { key: b, text: "Gleis 5 wird wegen Bauarbeiten gesperrt." }
-          - { key: c, text: "Gleis 5 ist für ICE-Züge reserviert." }
-        answer: b
+          - { key: b, text: "Gleis 5 ist für ICE-Züge reserviert." }
+          - { key: c, text: "Gleis 5 wird wegen Bauarbeiten gesperrt." }
+        answer: c
         why: '"Gleis 5 wird wegen Bauarbeiten gesperrt."'
       - q: "Was sollen Reisende nach Frankfurt tun?"
         options:
-          - { key: a, text: "Auf den ICE 743 warten." }
-          - { key: b, text: "Auf den IC 280 umsteigen." }
+          - { key: a, text: "Auf den IC 280 umsteigen." }
+          - { key: b, text: "Auf den ICE 743 warten." }
           - { key: c, text: "Einen anderen Bahnhof aufsuchen." }
-        answer: b
+        answer: a
         why: '"Reisende nach Frankfurt werden gebeten, auf den IC 280 umzusteigen."'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
@@ -576,10 +576,10 @@ exercises:
     items:
       - q: "Woher werden Lithium und Kobalt importiert?"
         options:
-          - { key: a, text: "Aus Deutschland." }
-          - { key: b, text: "Aus mehreren Ländern." }
+          - { key: a, text: "Aus mehreren Ländern." }
+          - { key: b, text: "Aus Deutschland." }
           - { key: c, text: "Aus China." }
-        answer: b
+        answer: a
         why: "Text: Lithium und Kobalt werden aus mehreren Ländern importiert."
       - q: "Von wem werden die Karosserieteile zusammengesetzt?"
         options:
@@ -597,10 +597,10 @@ exercises:
         why: "Text: Seit 2020 ist die Batteriekapazität erheblich gesteigert worden."
       - q: "Wann darf das Fahrzeug das Werk verlassen?"
         options:
-          - { key: a, text: "Wenn der Roboter fertig ist." }
-          - { key: b, text: "Erst wenn alle Prüfungen bestanden worden sind." }
+          - { key: a, text: "Erst wenn alle Prüfungen bestanden worden sind." }
+          - { key: b, text: "Wenn der Roboter fertig ist." }
           - { key: c, text: "Wenn der Kunde bezahlt hat." }
-        answer: b
+        answer: a
         why: "Text: Erst wenn alle Prüfungen bestanden worden sind, darf das Fahrzeug das Werk verlassen."
 
   - id: B9
@@ -767,31 +767,31 @@ exercises:
     items:
       - q: "Was ist im Museum verboten?"
         options:
-          - { key: a, text: "Das Telefonieren." }
-          - { key: b, text: "Das Fotografieren." }
+          - { key: a, text: "Das Fotografieren." }
+          - { key: b, text: "Das Telefonieren." }
           - { key: c, text: "Das Essen auf dem Museumsgelände." }
-        answer: b
+        answer: a
         why: "Text: Im Museum darf nicht fotografiert werden."
       - q: "Wann werden Kinderführungen angeboten?"
         options:
           - { key: a, text: "Täglich um 10 Uhr." }
-          - { key: b, text: "Jeden Sonntag um 10 Uhr." }
-          - { key: c, text: "Jeden Samstag um 10 Uhr." }
-        answer: c
+          - { key: b, text: "Jeden Samstag um 10 Uhr." }
+          - { key: c, text: "Jeden Sonntag um 10 Uhr." }
+        answer: b
         why: "Text: Kinderführungen werden jeden Samstag um 10 Uhr angeboten."
       - q: "Was wurde 2023 renoviert?"
         options:
           - { key: a, text: "Die Ausstellungsräume." }
-          - { key: b, text: "Der Eingang des Museums." }
-          - { key: c, text: "Die Kinderführungsräume." }
-        answer: b
+          - { key: b, text: "Die Kinderführungsräume." }
+          - { key: c, text: "Der Eingang des Museums." }
+        answer: c
         why: "Text: Der Eingang des Museums wurde 2023 renoviert."
       - q: "Was müssen Gruppen von mehr als 15 Personen tun?"
         options:
-          - { key: a, text: "Einen Audioguide kaufen." }
-          - { key: b, text: "Sich mindestens zwei Wochen vorher anmelden." }
+          - { key: a, text: "Sich mindestens zwei Wochen vorher anmelden." }
+          - { key: b, text: "Einen Audioguide kaufen." }
           - { key: c, text: "Einen speziellen Gruppenausweis vorzeigen." }
-        answer: b
+        answer: a
         why: "Text: Gruppen von mehr als 15 Personen werden gebeten, sich mindestens zwei Wochen vorher anzumelden."
 
   - id: C5

@@ -43,31 +43,31 @@ exercises:
     items:
       - q: 'Was kritisiert Frau Yilmaz an dem Satz „Die Ministerin senkt die Steuern“?'
         options:
-          - { key: a, text: "Er sei grammatisch falsch." }
-          - { key: b, text: "Er klinge wie die eigene Behauptung des Journalisten." }
+          - { key: a, text: "Er klinge wie die eigene Behauptung des Journalisten." }
+          - { key: b, text: "Er sei grammatisch falsch." }
           - { key: c, text: "Er sei zu lang." }
-        answer: b
+        answer: a
         why: 'Frau Yilmaz: „Das ist Ihre eigene Behauptung." — Besser Konjunktiv I.'
       - q: "Wie soll der Satz korrekt heißen?"
         options:
-          - { key: a, text: "Die Ministerin erklärte, sie senke die Steuern." }
-          - { key: b, text: "Die Ministerin senkt die Steuern." }
+          - { key: a, text: "Die Ministerin senkt die Steuern." }
+          - { key: b, text: "Die Ministerin erklärte, sie senke die Steuern." }
           - { key: c, text: "Die Ministerin hat die Steuern gesenkt." }
-        answer: a
+        answer: b
         why: 'Frau Yilmaz schlägt den Konjunktiv I vor: „sie senke die Steuern".'
       - q: 'Was tut man, wenn der Konjunktiv I wie der Indikativ aussieht (z. B. „fordern“)?'
         options:
           - { key: a, text: "Man lässt den Konjunktiv weg." }
-          - { key: b, text: "Man weicht auf den Konjunktiv II aus (forderten / würden fordern)." }
-          - { key: c, text: "Man benutzt den Imperativ." }
-        answer: b
+          - { key: b, text: "Man benutzt den Imperativ." }
+          - { key: c, text: "Man weicht auf den Konjunktiv II aus (forderten / würden fordern)." }
+        answer: c
         why: 'Bei Formgleichheit weicht man auf Konjunktiv II aus.'
       - q: 'Wie gibt man die Aufforderung „Bleiben Sie sachlich!“ wieder?'
         options:
-          - { key: a, text: "Die Ministerin sagte, man bleibe sachlich." }
-          - { key: b, text: "Die Ministerin sagte, man solle sachlich bleiben." }
+          - { key: a, text: "Die Ministerin sagte, man solle sachlich bleiben." }
+          - { key: b, text: "Die Ministerin sagte, man bleibe sachlich." }
           - { key: c, text: "Die Ministerin sagte, ob man sachlich bleibe." }
-        answer: b
+        answer: a
         why: 'Aufforderungen werden mit sollen wiedergegeben: „man solle sachlich bleiben".'
 
   - id: H3
@@ -594,16 +594,16 @@ exercises:
       - q: "Er behauptete, die Kollegen (3) ____ nichts davon. (wissen)"
         options:
           - { key: a, text: "wissen" }
-          - { key: b, text: "wüssten" }
-          - { key: c, text: "wussten" }
-        answer: b
+          - { key: b, text: "wussten" }
+          - { key: c, text: "wüssten" }
+        answer: c
         why: 'Plural „wissen" = Indikativ → Konjunktiv II „wüssten".'
       - q: "Sie sagte, sie (4) ____ den Bericht bis morgen schicken. (werden)"
         options:
-          - { key: a, text: "wird" }
-          - { key: b, text: "werde" }
+          - { key: a, text: "werde" }
+          - { key: b, text: "wird" }
           - { key: c, text: "wurde" }
-        answer: b
+        answer: a
         why: '3. Sg. von werden → „werde".'
       - q: "Sie fragte, (5) ____ es noch offene Punkte gebe."
         options:
@@ -615,9 +615,9 @@ exercises:
       - q: "Er sagte, ich (6) ____ die Unterlagen einreichen. (Aufforderung)"
         options:
           - { key: a, text: "soll" }
-          - { key: b, text: "solle" }
-          - { key: c, text: "sollte gern" }
-        answer: b
+          - { key: b, text: "sollte gern" }
+          - { key: c, text: "solle" }
+        answer: c
         why: 'Aufforderung in indirekter Rede → „solle".'
 
   - id: C3
@@ -708,16 +708,16 @@ exercises:
       - q: "Was stimmt über die Kosten?"
         options:
           - { key: a, text: "Sie liegen bei zwei Millionen Euro." }
-          - { key: b, text: "Sie seien noch gar nicht berechnet." }
-          - { key: c, text: "Sie seien höher als zwei Millionen." }
-        answer: b
+          - { key: b, text: "Sie seien höher als zwei Millionen." }
+          - { key: c, text: "Sie seien noch gar nicht berechnet." }
+        answer: c
         why: '„Laut dem Sprecher seien die Kosten noch gar nicht berechnet."'
       - q: "Welche Verbform zeigt im Text die indirekte Rede an?"
         options:
-          - { key: a, text: "der Indikativ (ist, liegt)" }
-          - { key: b, text: "der Konjunktiv I/II (habe, gebe, sei, lägen)" }
+          - { key: a, text: "der Konjunktiv I/II (habe, gebe, sei, lägen)" }
+          - { key: b, text: "der Indikativ (ist, liegt)" }
           - { key: c, text: "der Imperativ" }
-        answer: b
+        answer: a
         why: 'Die Redewiedergabe steht im Konjunktiv: habe, gebe, sei, lägen.'
 
   - id: C5

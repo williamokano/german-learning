@@ -112,24 +112,24 @@ exercises:
         why: '„Es geht um die Sitzung am Donnerstag".'
       - q: "Was soll bei der Sitzung zur Sprache kommen?"
         options:
-          - { key: a, text: "Die Frage des neuen Lieferanten." }
-          - { key: b, text: "Das Urlaubsthema." }
+          - { key: a, text: "Das Urlaubsthema." }
+          - { key: b, text: "Die Frage des neuen Lieferanten." }
           - { key: c, text: "Die Gehaltserhöhung." }
-        answer: a
+        answer: b
         why: '„die Frage des neuen Lieferanten unbedingt zur Sprache kommen soll".'
       - q: "Was soll Herr Berger vorher tun?"
         options:
-          - { key: a, text: "Seine Unterlagen zur Verfügung stellen." }
+          - { key: a, text: "Die Sitzung verschieben." }
           - { key: b, text: "Den Lieferanten anrufen." }
-          - { key: c, text: "Die Sitzung verschieben." }
-        answer: a
+          - { key: c, text: "Seine Unterlagen zur Verfügung stellen." }
+        answer: c
         why: '„stellen Sie uns Ihre Unterlagen vorher zur Verfügung".'
       - q: "Kommt eine Verschiebung der Sitzung in Frage?"
         options:
-          - { key: a, text: "Ja, problemlos." }
-          - { key: b, text: "Nein, sie kommt nicht in Frage." }
+          - { key: a, text: "Nein, sie kommt nicht in Frage." }
+          - { key: b, text: "Ja, problemlos." }
           - { key: c, text: "Nur um eine Woche." }
-        answer: b
+        answer: a
         why: '„Eine Verschiebung der Sitzung kommt leider nicht in Frage".'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────

@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Auf die Randbezirke.** — Tomáš: "Wir konzentrieren uns ausschließlich auf Randbezirke."
+1. **a) Auf die Randbezirke.** — Tomáš: "Wir konzentrieren uns ausschließlich auf Randbezirke."
 2. **b) 40 %.** — Tomáš: "Wir haben bereits 40 % der benötigten Mittel durch EU-Förderprogramme gesichert."
-3. **b) Eine detaillierte Finanzprognose.** — Frau Weber: "Ich würde gern eine detaillierte Finanzprognose sehen."
-4. **b) Sie ist grundsätzlich überzeugt, hat aber noch Fragen.** — Frau Weber: "Zwar habe ich noch einige Fragen zur Skalierbarkeit, aber der Ansatz überzeugt mich grundsätzlich."
+3. **c) Eine detaillierte Finanzprognose.** — Frau Weber: "Ich würde gern eine detaillierte Finanzprognose sehen."
+4. **a) Sie ist grundsätzlich überzeugt, hat aber noch Fragen.** — Frau Weber: "Zwar habe ich noch einige Fragen zur Skalierbarkeit, aber der Ansatz überzeugt mich grundsätzlich."
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Voicemail von Tomáš
 
-1. **b) Weil es ein Problem mit der Genehmigung gibt.** — "Weil wir heute ein Problem mit der Berliner Genehmigung haben."
+1. **a) Weil es ein Problem mit der Genehmigung gibt.** — "Weil wir heute ein Problem mit der Berliner Genehmigung haben."
 2. **b) Das Amt hat die Anfrage abgelehnt.** — "Obwohl wir alle Dokumente rechtzeitig eingereicht haben, hat das Amt unsere Anfrage abgelehnt."
-3. **b) Er ist noch optimistisch.** — "Trotzdem bin ich noch optimistisch."
-4. **c) Ins Büro kommen.** — "Kannst du morgen früh ins Büro kommen?"
+3. **c) Er ist noch optimistisch.** — "Trotzdem bin ich noch optimistisch."
+4. **a) Ins Büro kommen.** — "Kannst du morgen früh ins Büro kommen?"
 
 ---
 
@@ -196,10 +196,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2: Grüne Mobilität in Europa (Zeitungsartikel)
 
-1. **b) Wien fördert E-Bike-Sharing in den Außenbezirken.** — "Wien hat zwar bereits ein hervorragendes U-Bahn-Netz, aber die Stadt fördert trotzdem zusätzlich E-Bike-Sharing-Programme in den Außenbezirken."
-2. **c) Wegen des wachsenden Autoverkehrs.** — "Obwohl Amsterdam als Vorbild für Fahrradkultur gilt, kämpft auch diese Stadt mit wachsendem Autoverkehr. Deshalb hat die Stadt strenge Parkgebühren eingeführt."
-3. **b) Sie sind oft schlecht angebunden.** — "die Randbezirke oft schlecht angebunden [sind]".
-4. **b) Ob private Startups allein die Lücken schließen können.** — "ob private Startups allein die Lücken schließen können — oder ob die Politik handeln muss".
+1. **a) Wien fördert E-Bike-Sharing in den Außenbezirken.** — "Wien hat zwar bereits ein hervorragendes U-Bahn-Netz, aber die Stadt fördert trotzdem zusätzlich E-Bike-Sharing-Programme in den Außenbezirken."
+2. **b) Wegen des wachsenden Autoverkehrs.** — "Obwohl Amsterdam als Vorbild für Fahrradkultur gilt, kämpft auch diese Stadt mit wachsendem Autoverkehr. Deshalb hat die Stadt strenge Parkgebühren eingeführt."
+3. **c) Sie sind oft schlecht angebunden.** — "die Randbezirke oft schlecht angebunden [sind]".
+4. **a) Ob private Startups allein die Lücken schließen können.** — "ob private Startups allein die Lücken schließen können — oder ob die Politik handeln muss".
 
 ## Übung C5 — Schreiben B1: Forumsbeitrag
 

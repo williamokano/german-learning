@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Durchsage am Flughafen
 
-1. **b) LH 401 von Berlin nach Lissabon.** — „Der Flug LH 401 von Berlin nach Lissabon hat eine Verspätung".
+1. **a) LH 401 von Berlin nach Lissabon.** — „Der Flug LH 401 von Berlin nach Lissabon hat eine Verspätung".
 2. **b) Zwei Stunden.** — „hat eine Verspätung von zwei Stunden".
 3. **c) Um sechzehn Uhr dreißig.** — „Der neue Abflug ist um sechzehn Uhr dreißig".
-4. **b) Gate B 17.** — „Passagiere dieses Fluges finden Sie am Gate B 17".
+4. **a) Gate B 17.** — „Passagiere dieses Fluges finden Sie am Gate B 17".
 
 ## Übung H5 — Tabelle ausfüllen: Dialog B (Hotelreservierung)
 
@@ -209,11 +209,11 @@ Selbstkorrektur:
 ## Übung C2 — Sprachbausteine Teil 1
 
 1. **a) nach** — Cities without article → nach.
-2. **c) Vom** — Vom Flughafen (von + dem = vom, origin from place).
-3. **a) zum** — zum Hotel (zu + dem = zum, motion to a place).
+2. **b) Vom** — Vom Flughafen (von + dem = vom, origin from place).
+3. **c) zum** — zum Hotel (zu + dem = zum, motion to a place).
 4. **a) am** — am Donaukanal (an + dem = am, location at the side of a waterway).
-5. **a) ins** — ins Museum (in + das = ins, motion into a neuter noun).
-6. **a) Am** — Am Ende (an + dem = am, time expression).
+5. **b) ins** — ins Museum (in + das = ins, motion into a neuter noun).
+6. **c) Am** — Am Ende (an + dem = am, time expression).
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 

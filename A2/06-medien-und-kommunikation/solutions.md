@@ -13,9 +13,9 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Herrn Steinmeyers Antwort zur Präsentation.** — Frau Weber wartet auf Herrn Steinmeyers Antwort zur Präsentation.
+1. **a) Herrn Steinmeyers Antwort zur Präsentation.** — Frau Weber wartet auf Herrn Steinmeyers Antwort zur Präsentation.
 2. **b) Das ist unklar — sie hat nichts erhalten.** — She did not receive anything; the reason is unclear.
-3. **b) Über digitale Kommunikation im Büro.** — Über digitale Kommunikation im Büro.
+3. **c) Über digitale Kommunikation im Büro.** — Über digitale Kommunikation im Büro.
 4. **a) Er schreibt eine neue E-Mail und schlägt einen Termin vor.** — Er schreibt eine neue E-Mail und schlägt einen Termin vor.
 
 ## Übung H3 — Hörtext-Lückentext

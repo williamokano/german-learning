@@ -49,10 +49,10 @@ Listen to the Hörtext (Mia gibt Ratschläge fürs Schreiben) and fill in the 5 
 
 Listen to the telephone message. Then choose the correct answer (a, b, or c).
 
-1. Bis wann kann man sich für den Kurs anmelden?  a) Bis Donnerstag, den 19. Juni.  b) Bis Freitag, den 20. Juni.  c) Bis Montag, den 23. Juni.
+1. Bis wann kann man sich für den Kurs anmelden?  a) Bis Freitag, den 20. Juni.  b) Bis Donnerstag, den 19. Juni.  c) Bis Montag, den 23. Juni.
 2. An welchen Tagen findet der Kurs statt?  a) Montags und mittwochs.  b) Dienstags und donnerstags.  c) Montags und freitags.
-3. Was soll man zum ersten Termin mitbringen?  a) Einen Laptop und ein Heft.  b) Einen Ausweis und einen Stift.  c) Ein Wörterbuch und Papier.
-4. Wie hoch ist die Kursgebühr?  a) 150 Euro.  b) 200 Euro.  c) 180 Euro.
+3. Was soll man zum ersten Termin mitbringen?  a) Einen Laptop und ein Heft.  b) Ein Wörterbuch und Papier.  c) Einen Ausweis und einen Stift.
+4. Wie hoch ist die Kursgebühr?  a) 180 Euro.  b) 200 Euro.  c) 150 Euro.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -308,10 +308,10 @@ dass Homeoffice gut funktioniert, wenn man sich selbst gut organisieren kann.
 Wähle a, b oder c.
 
 
-1. Was ist das Hauptargument des Autors?  a) Großstädte sind nur für reiche Menschen geeignet.  b) Großstädte bieten mehr Möglichkeiten, als man auf den ersten Blick sieht.  c) Brünn ist besser als Berlin.
-2. Was ist laut dem Autor ein Nachteil der Großstadt?  a) Es gibt zu wenig Jobs.  b) Das Kulturangebot ist klein.  c) Die Lebenshaltungskosten sind deutlich höher.
-3. Wie lange soll man laut dem Autor in einer Großstadt leben?  a) Für immer.  b) Für einige Jahre.  c) Nur für ein Jahr.
-4. Welche Struktur-Elemente eines Forenbeitrags kommen im Text vor?  a) Nur Themenaussage und Fazit.  b) Themenaussage, Begründung, Konzession, Fazit und Call to action.  c) Nur Begründung und Konzession.
+1. Was ist das Hauptargument des Autors?  a) Großstädte bieten mehr Möglichkeiten, als man auf den ersten Blick sieht.  b) Großstädte sind nur für reiche Menschen geeignet.  c) Brünn ist besser als Berlin.
+2. Was ist laut dem Autor ein Nachteil der Großstadt?  a) Es gibt zu wenig Jobs.  b) Die Lebenshaltungskosten sind deutlich höher.  c) Das Kulturangebot ist klein.
+3. Wie lange soll man laut dem Autor in einer Großstadt leben?  a) Für immer.  b) Nur für ein Jahr.  c) Für einige Jahre.
+4. Welche Struktur-Elemente eines Forenbeitrags kommen im Text vor?  a) Themenaussage, Begründung, Konzession, Fazit und Call to action.  b) Nur Themenaussage und Fazit.  c) Nur Begründung und Konzession.
 
 ## Übung B9 — Forenbeitrag schreiben: Homeoffice
 
@@ -361,12 +361,12 @@ sollte man aber finanziell gut (10) ______ sein.
 
 Choose the correct option (a, b, or c) for each gap.
 
-1. Ich schreibe Ihnen ______ meines Aufenthalts in Ihrem Hotel.  a) über  b) bezüglich  c) wegen von
-2. Der Service ließ leider zu ______ übrig.  a) wünschen  b) wünscht  c) wünsche
-3. Ich bitte Sie ______ um eine Rückerstattung.  a) dann  b) daher  c) deshalb
-4. ______ denke ich, dass ein Umzug in die Stadt wertvoll ist.  a) Abschließend  b) Insgesamt  c) Außerdem
+1. Ich schreibe Ihnen ______ meines Aufenthalts in Ihrem Hotel.  a) bezüglich  b) über  c) wegen von
+2. Der Service ließ leider zu ______ übrig.  a) wünscht  b) wünschen  c) wünsche
+3. Ich bitte Sie ______ um eine Rückerstattung.  a) dann  b) deshalb  c) daher
+4. ______ denke ich, dass ein Umzug in die Stadt wertvoll ist.  a) Insgesamt  b) Abschließend  c) Außerdem
 5. Das Thema ist wichtig, ______ viele Menschen in Großstädten leben.  a) wegen  b) weil  c) deshalb
-6. Sehr geehrte ______ und Herren,  a) Dame  b) Damen  c) Dämchen
+6. Sehr geehrte ______ und Herren,  a) Dame  b) Dämchen  c) Damen
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
@@ -415,10 +415,10 @@ Richtig (R) oder Falsch (F)?
 
 Read the formal complaint email below. Choose the correct answer (a, b, or c).
 
-1. Warum schreibt Bruno diese E-Mail?  a) Er möchte einen Laptop bestellen.  b) Er hat das falsche Produkt erhalten.  c) Er möchte den Preis verhandeln.
+1. Warum schreibt Bruno diese E-Mail?  a) Er hat das falsche Produkt erhalten.  b) Er möchte einen Laptop bestellen.  c) Er möchte den Preis verhandeln.
 2. Was war das Problem mit dem gelieferten Gerät?  a) Es war kaputt und nicht reparierbar.  b) Es war das falsche Gerät und bereits benutzt.  c) Es war zu teuer.
-3. Was fordert Bruno als Alternative zur Rücksendung?  a) Einen Gutschein.  b) Eine vollständige Rückerstattung.  c) Ein neues Gerät in anderer Farbe.
-4. Bis wann erwartet Bruno eine Antwort?  a) Bis zum 12. Juni.  b) Bis zum 30. Juni.  c) Bis zum 25. Juni.
+3. Was fordert Bruno als Alternative zur Rücksendung?  a) Einen Gutschein.  b) Ein neues Gerät in anderer Farbe.  c) Eine vollständige Rückerstattung.
+4. Bis wann erwartet Bruno eine Antwort?  a) Bis zum 25. Juni.  b) Bis zum 30. Juni.  c) Bis zum 12. Juni.
 
 ## Übung C5 — Schreiben: Formelle Beschwerdemail
 

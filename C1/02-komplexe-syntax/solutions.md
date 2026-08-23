@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell — Lektorin und Autor)
 
-1. **b) Sie ist erfahrene Lektorin und gibt Feedback zum Manuskript.** — Frau Hoffmann ist Lektorin; sie liest das Manuskript und gibt stilistisches Feedback.
+1. **a) Sie ist erfahrene Lektorin und gibt Feedback zum Manuskript.** — Frau Hoffmann ist Lektorin; sie liest das Manuskript und gibt stilistisches Feedback.
 2. **b) Er ist zu lang und enthält zu viele Nebensätze.** — Frau Hoffmann: „Er enthält — lassen Sie mich zählen — drei Relativsätze, eine Apposition und ein nachgestelltes Attribut. Das ist grammatisch korrekt, aber stilistisch eine Zumutung".
-3. **b) Die Apposition herausziehen und in zwei Sätze aufteilen.** — Frau Hoffmann: „Wir könnten die Apposition herausziehen — ‚Der Protagonist — ein vor dem Krieg geborener Intellektueller — beginnt ein neues Leben. Er hatte die ganze Nazizeit im Exil verbracht"."
-4. **b) Die Parenthese in einen eigenen Satz umwandeln oder Gedankenstriche verwenden.** — Frau Hoffmann: „Oder Sie arbeiten mit Gedankenstrichen — wirken im Druck eleganter".
+3. **c) Die Apposition herausziehen und in zwei Sätze aufteilen.** — Frau Hoffmann: „Wir könnten die Apposition herausziehen — ‚Der Protagonist — ein vor dem Krieg geborener Intellektueller — beginnt ein neues Leben. Er hatte die ganze Nazizeit im Exil verbracht"."
+4. **a) Die Parenthese in einen eigenen Satz umwandeln oder Gedankenstriche verwenden.** — Frau Hoffmann: „Oder Sie arbeiten mit Gedankenstrichen — wirken im Druck eleganter".
 
 ## Übung H3 — Hörtext-Lückentext: Ein Literaturkritiker im Radio
 
@@ -105,10 +105,10 @@
 
 ## Übung B2 — Apposition im richtigen Kasus?
 
-1. **b) Satz 2 ist richtig (Apposition im Akkusativ).** — „Herrn Schneider" steht im Akkusativ (Bezugswort), also muss die Apposition auch im Akkusativ stehen: „einen erfahrenen Anwalt". „ein erfahrener Anwalt" (Nominativ) wäre falsch.
+1. **a) Satz 2 ist richtig (Apposition im Akkusativ).** — „Herrn Schneider" steht im Akkusativ (Bezugswort), also muss die Apposition auch im Akkusativ stehen: „einen erfahrenen Anwalt". „ein erfahrener Anwalt" (Nominativ) wäre falsch.
 2. **b) Satz 2 ist richtig (Apposition im Dativ).** — „mit Frau Müller" steht im Dativ, also muss die Apposition auch im Dativ stehen: „der neuen Chefin".
-3. **a) Satz 1 ist richtig (Apposition im Nominativ).** — „Das Buch" steht im Nominativ (Bezugswort), also muss die Apposition „ein spannender Roman" auch im Nominativ stehen (männlich, Nominativ Singular mit unbestimmtem Artikel: „-er").
-4. **b) Satz 2 ist richtig (Apposition im Akkusativ).** — „den Direktor" steht im Akkusativ, also muss die Apposition „den neuen Leiter" auch im Akkusativ stehen.
+3. **c) Satz 1 ist richtig (Apposition im Nominativ).** — „Das Buch" steht im Nominativ (Bezugswort), also muss die Apposition „ein spannender Roman" auch im Nominativ stehen (männlich, Nominativ Singular mit unbestimmtem Artikel: „-er").
+4. **a) Satz 2 ist richtig (Apposition im Akkusativ).** — „den Direktor" steht im Akkusativ, also muss die Apposition „den neuen Leiter" auch im Akkusativ stehen.
 
 ## Übung B3 — Eine Satzperiode planen und schreiben
 
@@ -148,9 +148,9 @@ Selbstkorrektur:
 
 ## Übung B8 — Komma-Setzung: korrekt oder falsch?
 
-1. **b) Version 2 (Komma nach dem Relativsatz).** — Ein Relativsatz wird durch Kommas vom Hauptsatz abgetrennt, wenn er in der Mitte steht.
+1. **a) Version 2 (Komma nach dem Relativsatz).** — Ein Relativsatz wird durch Kommas vom Hauptsatz abgetrennt, wenn er in der Mitte steht.
 2. **b) Version 2 (Kommas um die Apposition).** — Appositionen werden mit Kommas abgetrennt.
-3. **b) Version 2 (Gedankenstriche).** — Eine Parenthese muss durch zwei Gedankenstriche oder Klammern abgetrennt sein.
+3. **a) Version 2 (Gedankenstriche).** — Eine Parenthese muss durch zwei Gedankenstriche oder Klammern abgetrennt sein.
 4. **b) Version 2 (Kommas um den Relativsatz).** — Relativsätze in der Satzmitte werden durch Kommas abgetrennt.
 
 ## Übung B9 — Drei Werkzeuge in einem kurzen Aufsatz
@@ -199,10 +199,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2 (Forumsdiskussion: Sind lange Sätze noch zeitgemäß?)
 
-1. **b) Lange Satzperiode mit Nebensätzen, Appositionen und Passivkonstruktionen.** — „die Frage, ob der lange Satz … noch zeitgemäß ist" + „Bitte beachten Sie, dass Beiträge mit mehr als drei verschachtelten Nebensätzen möglicherweise gekürzt werden" — lange Satzperiode, gehoben-formelles Register.
+1. **a) Lange Satzperiode mit Nebensätzen, Appositionen und Passivkonstruktionen.** — „die Frage, ob der lange Satz … noch zeitgemäß ist" + „Bitte beachten Sie, dass Beiträge mit mehr als drei verschachtelten Nebensätzen möglicherweise gekürzt werden" — lange Satzperiode, gehoben-formelles Register.
 2. **b) Sie bevorzugt kurze Sätze und Telegrammstil.** — „Telegrammstil, kurze Sätze, fertig." — explizite Präferenz für Kürze.
-3. **b) Unterschiedliche Diskursdomänen verlangen unterschiedliche syntaktische Mittel.** — „zwischen den verschiedenen Diskursdomänen zu differenzieren … Beide Register haben ihre Berechtigung".
-4. **b) Das Schachteln von Sätzen.** — „wer gut schreibt, kann auch gut schachteln" — Verweis auf verschachtelte Sätze (Schachtelsätze).
+3. **c) Unterschiedliche Diskursdomänen verlangen unterschiedliche syntaktische Mittel.** — „zwischen den verschiedenen Diskursdomänen zu differenzieren … Beide Register haben ihre Berechtigung".
+4. **a) Das Schachteln von Sätzen.** — „wer gut schreibt, kann auch gut schachteln" — Verweis auf verschachtelte Sätze (Schachtelsätze).
 
 ## Übung C5 — Schreiben: Einen Zeitungsartikel mit komplexer Syntax verfassen
 

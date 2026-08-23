@@ -43,10 +43,10 @@ exercises:
     items:
       - q: "Was wünscht sich Anna im Gespräch mit Herr Steinmeyer?"
         options:
-          - { key: a, text: "Mehr Urlaub." }
-          - { key: b, text: "Mehr Praxiserfahrung im Studium." }
+          - { key: a, text: "Mehr Praxiserfahrung im Studium." }
+          - { key: b, text: "Mehr Urlaub." }
           - { key: c, text: "Eine neue Stelle." }
-        answer: b
+        answer: a
         why: 'Anna: "Ich wünschte, ich hätte schon im Studium mehr Praxiserfahrung gesammelt."'
       - q: "Was empfiehlt Herr Steinmeyer als ersten Schritt?"
         options:
@@ -64,10 +64,10 @@ exercises:
         why: 'Anna: "Wenn ich von vorne anfangen könnte, würde ich vielleicht eher in die Forschung gehen."'
       - q: "Was sagt Herr Steinmeyer über Karrierewege?"
         options:
-          - { key: a, text: "Jeder Karriereweg ist gerade und ohne Umwege." }
-          - { key: b, text: "Jeder Karriereweg hat Umwege." }
+          - { key: a, text: "Jeder Karriereweg hat Umwege." }
+          - { key: b, text: "Jeder Karriereweg ist gerade und ohne Umwege." }
           - { key: c, text: "Man sollte den Karriereweg nie wechseln." }
-        answer: b
+        answer: a
         why: 'Herr Steinmeyer: "Jeder Karriereweg hat Umwege. Die Frage ist, was man daraus lernt."'
 
   - id: H3
@@ -103,10 +103,10 @@ exercises:
     items:
       - q: "Warum ruft Anna an?"
         options:
-          - { key: a, text: "Um zu fragen, ob sie mitkommen darf." }
-          - { key: b, text: "Um zu sagen, dass sie nicht mitkommen kann." }
+          - { key: a, text: "Um zu sagen, dass sie nicht mitkommen kann." }
+          - { key: b, text: "Um zu fragen, ob sie mitkommen darf." }
           - { key: c, text: "Um den Ausflug abzusagen." }
-        answer: b
+        answer: a
         why: '"Ich kann es leider nicht zu eurem Wochenendausflug nach Leipzig schaffen."'
       - q: "Warum kann Anna nicht mitfahren?"
         options:
@@ -117,17 +117,17 @@ exercises:
         why: '"Wenn ich nicht so viel Arbeit hätte, würde ich sofort mitkommen."'
       - q: "Was wünscht sich Anna für das nächste Mal?"
         options:
-          - { key: a, text: "Früher Bescheid zu bekommen, damit sie sich freinehmen kann." }
+          - { key: a, text: "Dass Mia ihr einen anderen Termin schickt." }
           - { key: b, text: "Dass der Ausflug nach München geht." }
-          - { key: c, text: "Dass Mia ihr einen anderen Termin schickt." }
-        answer: a
+          - { key: c, text: "Früher Bescheid zu bekommen, damit sie sich freinehmen kann." }
+        answer: c
         why: '"würde ich gern früher Bescheid wissen, damit ich mir den Termin freinehmen kann"'
       - q: "Was soll Mia tun?"
         options:
-          - { key: a, text: "Den Ausflug verschieben." }
-          - { key: b, text: "Anna zurückrufen, wenn sie wieder da ist." }
+          - { key: a, text: "Anna zurückrufen, wenn sie wieder da ist." }
+          - { key: b, text: "Den Ausflug verschieben." }
           - { key: c, text: "Anna eine E-Mail schicken." }
-        answer: b
+        answer: a
         why: '"Bitte ruf mich zurück, wenn ihr wieder da seid."'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
@@ -638,10 +638,10 @@ exercises:
     items:
       - q: "Was wünscht sich Anna, wenn es um Sprachen geht?"
         options:
-          - { key: a, text: "Sie wünschte, sie hätte früher Portugiesisch gelernt." }
-          - { key: b, text: "Sie wünschte, sie hätte früher Deutsch gelernt." }
+          - { key: a, text: "Sie wünschte, sie hätte früher Deutsch gelernt." }
+          - { key: b, text: "Sie wünschte, sie hätte früher Portugiesisch gelernt." }
           - { key: c, text: "Sie wünschte, sie hätte Japanisch gelernt." }
-        answer: b
+        answer: a
         why: '"Ich wünschte, ich hätte schon früher Deutsch gelernt — nicht erst mit 22."'
       - q: "Was würde Anna tun, wenn sie komplett frei wäre?"
         options:
@@ -659,10 +659,10 @@ exercises:
         why: '"wie viele Chancen ich nicht ergriffen habe, weil ich Angst hatte zu scheitern — das ist mein größtes Bedauern"'
       - q: "Was ist der wichtigste Wunsch, den Anna am Ende nennt?"
         options:
-          - { key: a, text: "Mehr Geld zu haben." }
-          - { key: b, text: "Nicht zu warten, bis alles perfekt ist." }
+          - { key: a, text: "Nicht zu warten, bis alles perfekt ist." }
+          - { key: b, text: "Mehr Geld zu haben." }
           - { key: c, text: "Einen neuen Job zu finden." }
-        answer: b
+        answer: a
         why: '"Vielleicht ist das der wichtigste Wunsch: nicht warten, bis alles perfekt ist."'
 
   - id: B9
@@ -866,10 +866,10 @@ exercises:
     items:
       - q: "Was empfiehlt der Coach als ersten Schritt?"
         options:
-          - { key: a, text: "Sofort kündigen und einen neuen Job suchen." }
-          - { key: b, text: "Ein klares Bild davon entwickeln, was man wirklich will." }
+          - { key: a, text: "Ein klares Bild davon entwickeln, was man wirklich will." }
+          - { key: b, text: "Sofort kündigen und einen neuen Job suchen." }
           - { key: c, text: "Den Vorgesetzten sofort ansprechen." }
-        answer: b
+        answer: a
         why: '"An Ihrer Stelle würde ich zunächst ein klares Bild davon entwickeln, was Sie wirklich wollen."'
       - q: "Was sollte man tun, bevor man große Entscheidungen trifft?"
         options:
@@ -881,9 +881,9 @@ exercises:
       - q: "Was sagt der Coach über einen Karrierewechsel?"
         options:
           - { key: a, text: "Er ist immer einfach und risikolos." }
-          - { key: b, text: "Er wäre riskant, aber in einer unglücklichen Situation zu bleiben, wäre riskanter." }
-          - { key: c, text: "Er ist nur für junge Leute sinnvoll." }
-        answer: b
+          - { key: b, text: "Er ist nur für junge Leute sinnvoll." }
+          - { key: c, text: "Er wäre riskant, aber in einer unglücklichen Situation zu bleiben, wäre riskanter." }
+        answer: c
         why: '"wäre ein Wechsel riskant, aber wenn Sie … in einer Situation bleiben würden … wäre das noch riskanter"'
       - q: "Was empfiehlt der Coach noch zusätzlich?"
         options:

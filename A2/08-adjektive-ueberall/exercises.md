@@ -23,10 +23,10 @@ Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Frau Weber sucht ein Geschenk für …  a) ihre Tochter  b) ihren Mann  c) ihren Sohn
+1. Frau Weber sucht ein Geschenk für …  a) ihren Mann  b) ihre Tochter  c) ihren Sohn
 2. Welche Farbe bevorzugt Frau Webers Mann?  a) Helle Farben wie Weiß und Gelb  b) Dunkle Farben wie Marineblau und Schwarz  c) Bunte Farben wie Rot und Grün
 3. Was empfiehlt Herr Steinmeyer zuerst?  a) Ein weißes Hemd  b) Einen marineblauen Anzug  c) Einen marineblauen Pullover
-4. Was nimmt Frau Weber am Ende?  a) Nur den Pullover  b) Den Pullover und das Hemd  c) Den Pullover und eine Krawatte
+4. Was nimmt Frau Weber am Ende?  a) Den Pullover und das Hemd  b) Nur den Pullover  c) Den Pullover und eine Krawatte
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -388,11 +388,11 @@ ist aus ______ Seide und passt gut zum ______ Kleid.
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. Ich habe gestern einen (1) ____ Mantel gekauft.  a) neuen  b) neue  c) neuer
-2. Er ist dunkelblau — das ist meine (2) ____ Lieblingsfarbe.  a) absolute  b) absoluter  c) absolutes
-3. Im Laden hat mir eine (3) ____ Verkäuferin geholfen.  a) freundlichen  b) freundliche  c) freundlicher
+2. Er ist dunkelblau — das ist meine (2) ____ Lieblingsfarbe.  a) absoluter  b) absolute  c) absolutes
+3. Im Laden hat mir eine (3) ____ Verkäuferin geholfen.  a) freundlichen  b) freundlicher  c) freundliche
 4. Sie hat mir auch ein (4) ____ weißes Hemd gezeigt.  a) schönes  b) schöne  c) schöner
-5. Mit dem (5) ____ Outfit sehe ich wirklich gut aus.  a) neuen  b) neue  c) neues
-6. Ich trage jetzt auch meinen (6) ____ Schal dazu — den hellen grauen.  a) langen  b) langer  c) lange
+5. Mit dem (5) ____ Outfit sehe ich wirklich gut aus.  a) neue  b) neuen  c) neues
+6. Ich trage jetzt auch meinen (6) ____ Schal dazu — den hellen grauen.  a) lange  b) langer  c) langen
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 

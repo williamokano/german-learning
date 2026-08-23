@@ -180,11 +180,11 @@ Selbstkorrektur:
 ## Übung C2 — Sprachbausteine Teil 1
 
 1. **a) kaufe** — ich-Form of kaufen → kaufe.
-2. **a) eine** — die Farbe = feminine → eine.
-3. **b) steht** — Schwarz = singular subject → steht; the standard phrase is Schwarz steht mir.
+2. **b) eine** — die Farbe = feminine → eine.
+3. **c) steht** — Schwarz = singular subject → steht; the standard phrase is Schwarz steht mir.
 4. **a) macht** — das macht mir Spaß = that's fun for me; er/es-Form → macht.
-5. **a) hilft** — helfen is irregular: er/sie/es hilft (e → i).
-6. **a) steht** — subject is „das" → steht (3rd person singular).
+5. **b) hilft** — helfen is irregular: er/sie/es hilft (e → i).
+6. **c) steht** — subject is „das" → steht (3rd person singular).
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 

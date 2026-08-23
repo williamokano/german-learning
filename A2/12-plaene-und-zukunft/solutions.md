@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Ein Anruf aus Lissabon
 
-1. **b) Am Flughafen in Lissabon.** — „Ich bin gerade am Flughafen in Lissabon gelandet".
+1. **a) Am Flughafen in Lissabon.** — „Ich bin gerade am Flughafen in Lissabon gelandet".
 2. **b) Weil ihr Flug am Sonntag gestrichen wurde.** — „Mein Flug nach Berlin am Sonntag wurde gestrichen".
-3. **a) Sie wird ihr ein Hotel für zwei Nächte bezahlen.** — „Die Airline wird mir ein Hotel für zwei Nächte bezahlen".
-4. **b) Am Dienstag um achtzehn Uhr.** — „Ich werde am Dienstag um achtzehn Uhr in Berlin landen".
+3. **c) Sie wird ihr ein Hotel für zwei Nächte bezahlen.** — „Die Airline wird mir ein Hotel für zwei Nächte bezahlen".
+4. **a) Am Dienstag um achtzehn Uhr.** — „Ich werde am Dienstag um achtzehn Uhr in Berlin landen".
 
 ## Übung H5 — Tabelle ausfüllen: Dialog B (Projekt März)
 

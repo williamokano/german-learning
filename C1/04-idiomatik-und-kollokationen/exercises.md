@@ -150,10 +150,10 @@ Ergänze die Sprichwörter mit dem passenden Wort. 5 Items.
 
 Wähle die richtige deutsche Bedeutung (a, b oder c).
 
-1. „aktuell"  a) tatsächlich (like „actually")  b) derzeitig, gegenwärtig  c) modern, neu
+1. „aktuell"  a) derzeitig, gegenwärtig  b) tatsächlich (like „actually")  c) modern, neu
 2. „realisieren"  a) erkennen, begreifen  b) verwirklichen, umsetzen  c) wiederholen
 3. „sensibel"  a) vernünftig  b) klug  c) empfindlich, heikel
-4. „eventuell"  a) schließlich  b) möglicherweise, vielleicht  c) regelmäßig
+4. „eventuell"  a) möglicherweise, vielleicht  b) schließlich  c) regelmäßig
 5. „genial"  a) freundlich, herzlich  b) großartig, einfallsreich  c) genervt
 
 ## Übung A7 — Falsche Freunde: Wort — richtige Bedeutung
@@ -236,10 +236,10 @@ Self-check:
 Wähle die Wendung (a, b oder c), die im Kontext am besten passt.
 
 1. „Ich wünsche dir viel Erfolg bei der Präsentation — ich {1} dir die Daumen!"  a) drücke  b) ziehe  c) lege
-2. „Der Investor ist abgesprungen — das ganze Projekt ist {1}!"  a) ins Wasser gefallen  b) auf den Putz gehauen  c) in die Suppe gefallen
-3. „Mein Chef hat mich {1}, weil ich den Bericht zu spät abgegeben habe."  a) auf die Palme gebracht  b) die Hölle heiß gemacht  c) die Daumen gedrückt
+2. „Der Investor ist abgesprungen — das ganze Projekt ist {1}!"  a) auf den Putz gehauen  b) ins Wasser gefallen  c) in die Suppe gefallen
+3. „Mein Chef hat mich {1}, weil ich den Bericht zu spät abgegeben habe."  a) auf die Palme gebracht  b) die Daumen gedrückt  c) die Hölle heiß gemacht
 4. „Ich habe ihm {1}, dass er nie wieder unangemeldet in mein Büro kommen soll."  a) die Meinung gegeigt  b) kalte Füße gemacht  c) den Nagel auf den Kopf getroffen
-5. „Bei der Prüfung wurde {1} festgestellt."  a) das Gelbe vom Ei  b) die Daumen gedrückt  c) die Fliege gemacht
+5. „Bei der Prüfung wurde {1} festgestellt."  a) die Daumen gedrückt  b) das Gelbe vom Ei  c) die Fliege gemacht
 
 ## Übung B4 — Motivkreise: Welche Redewendung gehört zu welchem Kreis?
 
@@ -345,12 +345,12 @@ Stolperfallen.
 
 Wähle die idiomatisch und grammatisch passende Option (a, b oder c) für jede Lücke.
 
-1. „Ich wünsche dir viel Erfolg — ich {1} dir die Daumen!"  a) ziehe  b) drücke  c) lege
+1. „Ich wünsche dir viel Erfolg — ich {1} dir die Daumen!"  a) drücke  b) ziehe  c) lege
 2. „Diese Aussage ist nicht {1}."  a) Quatsch  b) zutreffend  c) echt ätzend
-3. „Das Projekt ist {1} — wir müssen neu planen."  a) ins Wasser gefallen  b) auf die Palme gegangen  c) in die Suppe gefallen
-4. „Wir müssen eine {1} Entscheidung {2}."  a) gute … machen  b) fundierte … treffen  c) große … geben
+3. „Das Projekt ist {1} — wir müssen neu planen."  a) in die Suppe gefallen  b) auf die Palme gegangen  c) ins Wasser gefallen
+4. „Wir müssen eine {1} Entscheidung {2}."  a) fundierte … treffen  b) gute … machen  c) große … geben
 5. „Das ist nicht {1} — ich habe andere Pläne."  a) mein Bier  b) mein Fall  c) meine Tasse Tee
-6. „Er ist im Alter von 87 Jahren {1}."  a) gestorben  b) verstorben  c) hat die Fliege gemacht
+6. „Er ist im Alter von 87 Jahren {1}."  a) gestorben  b) hat die Fliege gemacht  c) verstorben
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 

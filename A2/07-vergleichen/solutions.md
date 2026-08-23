@@ -13,10 +13,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Einen Laptop** — Einen Laptop.
-2. **c) Der mit 449 Euro** — Der mit 449 Euro.
-3. **b) Der Akku** — Der Akku (sechs Stunden länger).
-4. **b) Den schwarzen Laptop** — Den schwarzen Laptop.
+1. **a) Einen Laptop** — Einen Laptop.
+2. **b) Der mit 449 Euro** — Der mit 449 Euro.
+3. **c) Der Akku** — Der Akku (sechs Stunden länger).
+4. **a) Den schwarzen Laptop** — Den schwarzen Laptop.
 
 ## Übung H3 — Hörtext-Lückentext
 

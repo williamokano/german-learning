@@ -42,10 +42,10 @@ exercises:
     items:
       - q: "Herr Steinmeyer war im Urlaub in …"
         options:
-          - { key: a, text: "Salzburg" }
-          - { key: b, text: "Wien" }
+          - { key: a, text: "Wien" }
+          - { key: b, text: "Salzburg" }
           - { key: c, text: "Berlin" }
-        answer: b
+        answer: a
         why: "Herr Steinmeyer war im Urlaub in Wien."
       - q: "Was haben Herr und Frau Steinmeyer zuerst gemacht?"
         options:
@@ -56,17 +56,17 @@ exercises:
         why: "Zuerst haben sie das Kunsthistorische Museum besucht."
       - q: "Was hat die Tochter gemacht, während die Eltern in der Oper waren?"
         options:
-          - { key: a, text: "Sie ist ins Hotel gegangen und hat einen Film geschaut." }
+          - { key: a, text: "Sie hat auch die Oper besucht." }
           - { key: b, text: "Sie hat im Café gewartet." }
-          - { key: c, text: "Sie hat auch die Oper besucht." }
-        answer: a
+          - { key: c, text: "Sie ist ins Hotel gegangen und hat einen Film geschaut." }
+        answer: c
         why: "Die Tochter ist ins Hotel gegangen und hat einen Film geschaut."
       - q: "Wie lange waren sie in Wien?"
         options:
-          - { key: a, text: "drei Tage" }
-          - { key: b, text: "eine Woche" }
+          - { key: a, text: "eine Woche" }
+          - { key: b, text: "drei Tage" }
           - { key: c, text: "zwei Wochen" }
-        answer: b
+        answer: a
         why: "Sie waren eine Woche in Wien."
 
   - id: H3

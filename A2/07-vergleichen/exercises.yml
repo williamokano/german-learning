@@ -34,31 +34,31 @@ exercises:
     items:
       - q: "Was sucht Frau Weber?"
         options:
-          - { key: a, text: "Ein Kleid" }
-          - { key: b, text: "Einen Laptop" }
+          - { key: a, text: "Einen Laptop" }
+          - { key: b, text: "Ein Kleid" }
           - { key: c, text: "Ein Smartphone" }
-        answer: b
+        answer: a
         why: "Einen Laptop."
       - q: "Welcher Laptop ist am günstigsten?"
         options:
           - { key: a, text: "Der schwarze" }
-          - { key: b, text: "Der graue" }
-          - { key: c, text: "Der mit 449 Euro" }
-        answer: c
+          - { key: b, text: "Der mit 449 Euro" }
+          - { key: c, text: "Der graue" }
+        answer: b
         why: "Der mit 449 Euro."
       - q: "Was ist besser beim schwarzen Laptop?"
         options:
           - { key: a, text: "Das Design" }
-          - { key: b, text: "Der Akku" }
-          - { key: c, text: "Der Preis" }
-        answer: b
+          - { key: b, text: "Der Preis" }
+          - { key: c, text: "Der Akku" }
+        answer: c
         why: "Der Akku (sechs Stunden länger)."
       - q: "Was kauft Frau Weber am Ende?"
         options:
-          - { key: a, text: "Den günstigsten Laptop" }
-          - { key: b, text: "Den schwarzen Laptop" }
+          - { key: a, text: "Den schwarzen Laptop" }
+          - { key: b, text: "Den günstigsten Laptop" }
           - { key: c, text: "Keinen Laptop" }
-        answer: b
+        answer: a
         why: "Den schwarzen Laptop."
 
   - id: H3

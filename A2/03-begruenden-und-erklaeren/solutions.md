@@ -175,10 +175,10 @@ Selbstkorrektur:
 
 ## Übung B10 — `weil`-Satz: Modalverben im Nebensatz
 
-1. **b) aufstehen muss** — Infinitive before modal, both at end.
+1. **a) aufstehen muss** — Infinitive before modal, both at end.
 2. **b) arbeiten muss** — Infinitive before modal.
-3. **b) ankommen wollen** — Infinitive before modal.
-4. **b) ausruhen soll** — Infinitive before modal.
+3. **c) ankommen wollen** — Infinitive before modal.
+4. **a) ausruhen soll** — Infinitive before modal.
 
 ---
 

@@ -55,10 +55,10 @@ Listen to the Hörtext and fill in the 6 missing words. Three words in the box a
 
 Listen to Lukas's voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
 
-1. Wann haben Mia und Lukas sich kennengelernt?  a) Im Mai 2018.  b) Im Mai 2019.  c) Im Mai 2020.
+1. Wann haben Mia und Lukas sich kennengelernt?  a) Im Mai 2019.  b) Im Mai 2018.  c) Im Mai 2020.
 2. Was hat Lukas gerade gefunden?  a) Sein altes Handy.  b) Sein altes Fotoalbum.  c) Seinen alten Wohnungsschlüssel.
-3. Was hatte Lukas kurz vor dem Kennenlernen gemacht?  a) Er war nach Barcelona gezogen.  b) Er hatte seine Stelle in Moabit aufgegeben.  c) Er hatte geheiratet.
-4. Was hat Lukas bei ihrem ersten Treffen sofort gewusst?  a) Dass Mia nach Berlin zurückkommen würde.  b) Dass Mia in Barcelona bleiben würde.  c) Dass Mia etwas Besonderes ist.
+3. Was hatte Lukas kurz vor dem Kennenlernen gemacht?  a) Er war nach Barcelona gezogen.  b) Er hatte geheiratet.  c) Er hatte seine Stelle in Moabit aufgegeben.
+4. Was hat Lukas bei ihrem ersten Treffen sofort gewusst?  a) Dass Mia etwas Besonderes ist.  b) Dass Mia in Barcelona bleiben würde.  c) Dass Mia nach Berlin zurückkommen würde.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

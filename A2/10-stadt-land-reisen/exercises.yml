@@ -107,10 +107,10 @@ exercises:
     items:
       - q: "Welcher Flug hat Verspätung?"
         options:
-          - { key: a, text: "LH 401 von Berlin nach München." }
-          - { key: b, text: "LH 401 von Berlin nach Lissabon." }
+          - { key: a, text: "LH 401 von Berlin nach Lissabon." }
+          - { key: b, text: "LH 401 von Berlin nach München." }
           - { key: c, text: "LH 410 von Berlin nach Wien." }
-        answer: b
+        answer: a
         why: '„Der Flug LH 401 von Berlin nach Lissabon hat eine Verspätung".'
       - q: "Wie viel Verspätung hat der Flug?"
         options:
@@ -128,10 +128,10 @@ exercises:
         why: '„Der neue Abflug ist um sechzehn Uhr dreißig".'
       - q: "An welchem Gate sollen die Passagiere sein?"
         options:
-          - { key: a, text: "Gate B 14." }
-          - { key: b, text: "Gate B 17." }
+          - { key: a, text: "Gate B 17." }
+          - { key: b, text: "Gate B 14." }
           - { key: c, text: "Gate B 41." }
-        answer: b
+        answer: a
         why: '„Passagiere dieses Fluges finden Sie am Gate B 17".'
 
   - id: H5
@@ -746,16 +746,16 @@ exercises:
       - q: "{2} Flughafen habe ich ein Taxi {3} Hotel genommen."
         options:
           - { key: a, text: "Am" }
-          - { key: b, text: "Im" }
-          - { key: c, text: "Vom" }
-        answer: c
+          - { key: b, text: "Vom" }
+          - { key: c, text: "Im" }
+        answer: b
         why: "Vom Flughafen (von + dem = vom, origin from place)."
       - q: "(continuation) Taxi {3} Hotel genommen."
         options:
-          - { key: a, text: "zum" }
+          - { key: a, text: "ans" }
           - { key: b, text: "ins" }
-          - { key: c, text: "ans" }
-        answer: a
+          - { key: c, text: "zum" }
+        answer: c
         why: "zum Hotel (zu + dem = zum, motion to a place)."
       - q: "Das Hotel lag {4} Donaukanal."
         options:
@@ -766,17 +766,17 @@ exercises:
         why: "am Donaukanal (an + dem = am, location at the side of a waterway)."
       - q: "Am ersten Tag bin ich {5} das Kunsthistorische Museum gegangen."
         options:
-          - { key: a, text: "ins" }
-          - { key: b, text: "ans" }
+          - { key: a, text: "ans" }
+          - { key: b, text: "ins" }
           - { key: c, text: "zum" }
-        answer: a
+        answer: b
         why: "ins Museum (in + das = ins, motion into a neuter noun)."
       - q: "{6} Ende habe ich eine wunderbare Woche in Wien verbracht."
         options:
-          - { key: a, text: "Am" }
+          - { key: a, text: "Beim" }
           - { key: b, text: "Im" }
-          - { key: c, text: "Beim" }
-        answer: a
+          - { key: c, text: "Am" }
+        answer: c
         why: "Am Ende (an + dem = am, time expression)."
 
   - id: C3

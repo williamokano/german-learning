@@ -15,8 +15,8 @@
 ## Übung H1b — Dialog Hör-Check: Dialog B (Demografie-Interview)
 
 1. **a) Einen Anstieg der über 65-Jährigen um rund 25 Prozent.** — Frau Schäfer: „Die Zahl der über 65-Jährigen wird voraussichtlich bis 2040 um rund 25 Prozent steigen."
-2. **a) Weniger Einnahmen und mehr Ausgaben.** — „Eine doppelte Belastung: weniger Einnahmen, mehr Ausgaben."
-3. **b) Familien gewinnen UND Integration verbessern.** — „Zum einen versuchen wir, Familien zu gewinnen … Zum anderen müssen wir die Integration der Zugewanderten verbessern."
+2. **b) Weniger Einnahmen und mehr Ausgaben.** — „Eine doppelte Belastung: weniger Einnahmen, mehr Ausgaben."
+3. **c) Familien gewinnen UND Integration verbessern.** — „Zum einen versuchen wir, Familien zu gewinnen … Zum anderen müssen wir die Integration der Zugewanderten verbessern."
 4. **a) Eine kohärente Demografiepolitik, die Politikfelder verzahnt.** — Frau Schäfer: „eine kohärente Demografiepolitik … ein Gesamtkonzept, das die verschiedenen Politikfelder miteinander verzahnt."
 
 ## Übung H3 — Hörtext-Lückentext: KI in der Berufswelt
@@ -26,9 +26,9 @@
 ## Übung H4 — Kurze Ansage: Anrufbeantworter einer Kommunalverwaltung
 
 1. **a) Das Bürgeramt der Stadt Köln.** — „Sie haben den Anrufbeantworter des Bürgeramtes der Stadt Köln erreicht."
-2. **a) Montags bis freitags von acht bis dreizehn Uhr, donnerstags bis achtzehn Uhr.** — „Unsere Sprechzeiten sind montags bis freitags von acht bis dreizehn Uhr, donnerstags zusätzlich bis achtzehn Uhr."
-3. **a) Wegen einer internen Schulung.** — „Am Mittwoch, den 15. Oktober, bleibt das Bürgeramt wegen einer internen Schulung geschlossen."
-4. **b) Sozialleistungen.** — „Eine telefonische Beratung zu Sozialleistungen ist nicht möglich."
+2. **b) Montags bis freitags von acht bis dreizehn Uhr, donnerstags bis achtzehn Uhr.** — „Unsere Sprechzeiten sind montags bis freitags von acht bis dreizehn Uhr, donnerstags zusätzlich bis achtzehn Uhr."
+3. **c) Wegen einer internen Schulung.** — „Am Mittwoch, den 15. Oktober, bleibt das Bürgeramt wegen einer internen Schulung geschlossen."
+4. **a) Sozialleistungen.** — „Eine telefonische Beratung zu Sozialleistungen ist nicht möglich."
 
 ## Übung H5 — Tabelle ausfüllen: Dialog B (Demografie-Interview)
 
@@ -72,10 +72,10 @@
 
 ## Übung A6 — Register: registergerechte vs. registerunscharfe Lexik
 
-1. **b) Wir müssen die Zuwanderung steuern.** — „Zuwanderung steuern" ist sachlich; „Flüchtlingswelle" ist emotional aufgeladen, „Ausländer draußen halten" ist diskreditierend.
+1. **a) Wir müssen die Zuwanderung steuern.** — „Zuwanderung steuern" ist sachlich; „Flüchtlingswelle" ist emotional aufgeladen, „Ausländer draußen halten" ist diskreditierend.
 2. **b) Der Anteil älterer Menschen nimmt weiter zu.** — „Anteil … nimmt weiter zu" ist sachliche Statistikversprachlichung; die anderen Varianten sind registerunscharf oder reduktiv.
-3. **b) Die plurale Gesellschaft steht vor Herausforderungen.** — „plurale Gesellschaft" ist registergerecht; „Multikulti" ist umgangssprachlich und oft ironisch.
-4. **b) Die Migrationspolitik steht vor großen Herausforderungen.** — „Migrationspolitik" ist sachlich; die anderen Varianten sind diskreditierend.
+3. **c) Die plurale Gesellschaft steht vor Herausforderungen.** — „plurale Gesellschaft" ist registergerecht; „Multikulti" ist umgangssprachlich und oft ironisch.
+4. **a) Die Migrationspolitik steht vor großen Herausforderungen.** — „Migrationspolitik" ist sachlich; die anderen Varianten sind diskreditierend.
 5. **b) Es wird eine kohärente Strategie zur Bekämpfung des Fachkräftemangels entwickelt.** — „kohärente Strategie" + Passiv ist registergerecht; die anderen Varianten sind umgangssprachlich.
 
 ## Übung A7 — Wortschatz: Begriffe und Erklärungen
@@ -88,10 +88,10 @@
 
 ## Übung A9 — Konjunktiv II als vorsichtige Distanzierung
 
-1. **b) Diese Position wäre zu kurz gegriffen.** — „wäre" (Konjunktiv II) signalisiert Distanz ohne direkte Kritik.
+1. **a) Diese Position wäre zu kurz gegriffen.** — „wäre" (Konjunktiv II) signalisiert Distanz ohne direkte Kritik.
 2. **b) Da würde ich widersprechen.** — „würde … widersprechen" ist Konjunktiv II als Höflichkeitsform.
-3. **b) Wenn man so argumentiert, würde das heißen, dass KI jede Verantwortung übernimmt.** — „würde das heißen" = Konjunktiv II in einer irrealen Schlussfolgerung.
-4. **b) Dürfte ich fragen, was Sie damit meinen?** — „Dürfte ich fragen …" = Konjunktiv II als Höflichkeit.
+3. **c) Wenn man so argumentiert, würde das heißen, dass KI jede Verantwortung übernimmt.** — „würde das heißen" = Konjunktiv II in einer irrealen Schlussfolgerung.
+4. **a) Dürfte ich fragen, was Sie damit meinen?** — „Dürfte ich fragen …" = Konjunktiv II als Höflichkeit.
 5. **b) Er könnte schuld sein.** — „könnte sein" = Konjunktiv II als Vermutung.
 
 ## Übung A10 — Satzbau: diskursive Strukturen
@@ -123,10 +123,10 @@
 
 ## Übung B2 — Diskursive Strukturen: Abwägen
 
-1. **b) Einerseits bietet KI Chancen für die Individualisierung, andererseits wirft sie Fragen zum Datenschutz auf.** — Einerseits-Andererseits mit konkreten Argumenten statt wertender Schwarz-Weiß-Malerei.
+1. **a) Einerseits bietet KI Chancen für die Individualisierung, andererseits wirft sie Fragen zum Datenschutz auf.** — Einerseits-Andererseits mit konkreten Argumenten statt wertender Schwarz-Weiß-Malerei.
 2. **b) Da ist zwar etwas dran, dennoch überwiegen für mich die Vorteile.** — „Da ist zwar etwas dran" (Einräumen), „dennoch" (Widerspruch) — Formel für ausgewogenes Argumentieren.
-3. **b) Befürworter sagen, KI sei sinnvoll.** — Konjunktiv I „sei" markiert die fremde Position; „würden sagen" wäre Konjunktiv II und doppelt abgeschwächt.
-4. **b) Im besten Fall steigt die Beschäftigung, im schlechtesten Fall sinkt sie.** — „Im besten Fall …, im schlechtesten Fall …" unterscheidet zwei Szenarien.
+3. **c) Befürworter sagen, KI sei sinnvoll.** — Konjunktiv I „sei" markiert die fremde Position; „würden sagen" wäre Konjunktiv II und doppelt abgeschwächt.
+4. **a) Im besten Fall steigt die Beschäftigung, im schlechtesten Fall sinkt sie.** — „Im besten Fall …, im schlechtesten Fall …" unterscheidet zwei Szenarien.
 5. **b) Sofern die Zuwanderung konstant bleibt, dürfte die Erwerbstätigenzahl bis 2040 um etwa 5 Millionen sinken.** — Bedingung („sofern") + Hedging („dürfte") + Bandbreite („etwa") + Zeithorizont („bis 2040").
 
 ## Übung B3 — Hedging-Mittel zuordnen
@@ -139,10 +139,10 @@
 
 ## Übung B5 — Registerbruch erkennen
 
-1. **b) Die Politiker vermeiden es, die unangenehmen Wahrheiten auszusprechen.** — „vermeiden es, die unangenehmen Wahrheiten auszusprechen" ist sachlich; die anderen Varianten sind umgangssprachlich.
+1. **a) Die Politiker vermeiden es, die unangenehmen Wahrheiten auszusprechen.** — „vermeiden es, die unangenehmen Wahrheiten auszusprechen" ist sachlich; die anderen Varianten sind umgangssprachlich.
 2. **b) Die Zuwanderung erfordert eine kohärente politische Steuerung.** — „Zuwanderung erfordert kohärente Steuerung" ist sachlich; die anderen Varianten sind emotional aufgeladen oder diskreditierend.
-3. **b) Die wirtschaftliche Lage zeigt sich insgesamt stabil, wenngleich Risiken bestehen.** — „zeigt sich insgesamt stabil, wenngleich Risiken bestehen" ist sachlich; die anderen Varianten sind umgangssprachlich.
-4. **b) Ihr Artikel wirft wichtige Fragen auf, lässt aber einige Aspekte unberücksichtigt.** — „wirft wichtige Fragen auf, lässt aber … unberücksichtigt" ist höflich und sachlich; die anderen Varianten sind beleidigend.
+3. **c) Die wirtschaftliche Lage zeigt sich insgesamt stabil, wenngleich Risiken bestehen.** — „zeigt sich insgesamt stabil, wenngleich Risiken bestehen" ist sachlich; die anderen Varianten sind umgangssprachlich.
+4. **a) Ihr Artikel wirft wichtige Fragen auf, lässt aber einige Aspekte unberücksichtigt.** — „wirft wichtige Fragen auf, lässt aber … unberücksichtigt" ist höflich und sachlich; die anderen Varianten sind beleidigend.
 5. **b) Diese These ließe sich kritisch hinterfragen.** — „ließe sich kritisch hinterfragen" ist sachlich; die anderen Varianten sind polemisch und registerunscharf.
 
 ## Übung B6 — Eine Erörterung über KI an Schulen — Schluss

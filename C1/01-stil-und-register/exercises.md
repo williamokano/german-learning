@@ -24,10 +24,10 @@ Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Welche Frage stellt Frau Hoffmann zu Beginn?  a) Sie fragt nach dem Privatleben des Bewerbers.  b) Sie bittet um eine kurze Selbsteinschätzung.  c) Sie fragt nach dem Gehaltswunsch.
+1. Welche Frage stellt Frau Hoffmann zu Beginn?  a) Sie bittet um eine kurze Selbsteinschätzung.  b) Sie fragt nach dem Privatleben des Bewerbers.  c) Sie fragt nach dem Gehaltswunsch.
 2. Was hebt der Bewerber als seine besondere Stärke hervor?  a) Seine Promotion in Wirtschaftsinformatik.  b) Komplexe Sachverhalte für Laien verständlich zu machen.  c) Seine mehrjährige Erfahrung in der IT-Branche.
-3. Welches Beispiel nennt der Bewerber für seine Übersetzungsleistung?  a) Eine neue Software-Einführung.  b) Eine Sanierung mit misstrauischer Belegschaft.  c) Ein internationales M&A-Projekt.
-4. Welchen Punkt spricht Frau Hoffmann am Ende kritisch an?  a) Die Sprachkenntnisse des Bewerbers.  b) Die Vereinbarkeit von Promotion und Vollzeitstelle.  c) Die fehlende Erfahrung im DACH-Raum.
+3. Welches Beispiel nennt der Bewerber für seine Übersetzungsleistung?  a) Eine neue Software-Einführung.  b) Ein internationales M&A-Projekt.  c) Eine Sanierung mit misstrauischer Belegschaft.
+4. Welchen Punkt spricht Frau Hoffmann am Ende kritisch an?  a) Die Vereinbarkeit von Promotion und Vollzeitstelle.  b) Die Sprachkenntnisse des Bewerbers.  c) Die fehlende Erfahrung im DACH-Raum.
 
 ## Übung H3 — Hörtext-Lückentext: Rede auf der Mitarbeiterversammlung
 
@@ -50,10 +50,10 @@ Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.
 
 Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.
 
-1. Welche Einheit ist auf dem Anrufbeantworter zu hören?  a) Eine Arztpraxis.  b) Die Bürgerinformation der Stadt München.  c) Eine Versicherungsgesellschaft.
+1. Welche Einheit ist auf dem Anrufbeantworter zu hören?  a) Die Bürgerinformation der Stadt München.  b) Eine Arztpraxis.  c) Eine Versicherungsgesellschaft.
 2. Warum ist die telefonische Erreichbarkeit eingeschränkt?  a) Wegen einer technischen Störung.  b) Wegen personeller Engpässe.  c) Wegen einer Betriebsversammlung.
-3. Welche Information soll der Anrufer hinterlassen?  a) Sein Geburtsdatum und seine Adresse.  b) Seinen Namen, seine Telefonnummer und sein Anliegen.  c) Seine Versicherungsnummer.
-4. Was sollen Anrufer bei dringenden Angelegenheiten tun?  a) Eine E-Mail schreiben.  b) Die Hotline 089-12 34 56 anrufen.  c) Am nächsten Tag noch einmal anrufen.
+3. Welche Information soll der Anrufer hinterlassen?  a) Sein Geburtsdatum und seine Adresse.  b) Seine Versicherungsnummer.  c) Seinen Namen, seine Telefonnummer und sein Anliegen.
+4. Was sollen Anrufer bei dringenden Angelegenheiten tun?  a) Die Hotline 089-12 34 56 anrufen.  b) Eine E-Mail schreiben.  c) Am nächsten Tag noch einmal anrufen.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -161,8 +161,8 @@ Forme die umgangssprachlichen Sätze in standardsprachliche um. Drei Satzteile s
 Welcher Satz hat einen Registerbruch? Wähle (a) für den ersten Satz, (b) für den zweiten Satz, (c) wenn beide korrekt sind.
 
 1. (1) „Könnten Sie mir mal kurz das Salz reichen?“ (2) „Würden Sie mir bitte das Salz reichen?“  a) Satz 1 hat einen Registerbruch (Konjunktiv II + Modalpartikel mal).  b) Satz 2 hat einen Registerbruch (Konjunktiv II + Bitte).  c) Beide Sätze sind registerkonform.
-2. (1) „Sehr geehrte Frau Weber, ich wollte dich mal was fragen.“ (2) „Sehr geehrte Frau Weber, ich möchte Sie um eine Auskunft bitten.“  a) Satz 1 hat einen Registerbruch (förmliche Anrede + du + Modalpartikel).  b) Satz 2 hat einen Registerbruch (förmliche Anrede + Konjunktiv).  c) Beide Sätze sind registerkonform.
-3. (1) „Ich würde sagen, das ist halt Quatsch.“ (2) „Ich würde sagen, das ist nicht ganz zutreffend.“  a) Satz 1 hat einen Registerbruch (Konjunktiv II + Modalpartikel halt).  b) Satz 2 hat einen Registerbruch (Konjunktiv II + Untertreibung).  c) Beide Sätze sind registerkonform.
+2. (1) „Sehr geehrte Frau Weber, ich wollte dich mal was fragen.“ (2) „Sehr geehrte Frau Weber, ich möchte Sie um eine Auskunft bitten.“  a) Satz 2 hat einen Registerbruch (förmliche Anrede + Konjunktiv).  b) Satz 1 hat einen Registerbruch (förmliche Anrede + du + Modalpartikel).  c) Beide Sätze sind registerkonform.
+3. (1) „Ich würde sagen, das ist halt Quatsch.“ (2) „Ich würde sagen, das ist nicht ganz zutreffend.“  a) Beide Sätze sind registerkonform.  b) Satz 2 hat einen Registerbruch (Konjunktiv II + Untertreibung).  c) Satz 1 hat einen Registerbruch (Konjunktiv II + Modalpartikel halt).
 4. (1) „Er ist gestorben.“ (in einer Todesanzeige) (2) „Er ist verstorben.“ (in einer Todesanzeige)  a) Satz 1 hat einen Registerbruch (direkt im Trauerkontext).  b) Satz 2 hat einen Registerbruch (Euphemismus).  c) Beide Sätze sind registerkonform.
 5. (1) „Lass das!“ (in einer WhatsApp an den Partner) (2) „Ich möchte Sie bitten, das zu unterlassen.“ (in einer WhatsApp an den Partner)  a) Satz 1 hat einen Registerbruch (zu direkt).  b) Satz 2 hat einen Registerbruch (zu förmlich).  c) Beide Sätze sind registerkonform.
 
@@ -252,10 +252,10 @@ Ordne jedem Funktionsverbgefüge (1–6) das einfachere Verb (a–f) zu, das es 
 
 Welche Sätze stapeln den Konjunktiv II (Registerfehler)? Wähle den Satz mit dem Fehler.
 
-1. (1) „Würden Sie das machen?“ (2) „Würden Sie das könnten machen?“  a) Satz 1 ist falsch (Konjunktiv II ohne Hauptverb).  b) Satz 2 ist falsch (Konjunktiv II gestapelt: würden + könnten).  c) Beide Sätze sind korrekt.
-2. (1) „Könnten Sie mir helfen?“ (2) „Würden Sie mir helfen können?“  a) Satz 1 ist falsch (Konjunktiv II von können).  b) Satz 2 ist falsch (würden + Infinitiv mit Endstellung — korrekt, aber Konjunktiv II von „werden“ ist hier nicht nötig).  c) Beide Sätze sind korrekt.
-3. (1) „Ich würde sagen, dass die Ergebnisse vielversprechend sind.“ (2) „Ich würde Sie bitten, dass Sie das prüfen.“  a) Satz 1 ist falsch (Konjunktiv + Indikativ im Nebensatz).  b) Satz 2 ist falsch (würde + bitten + Indikativ im Nebensatz — Mischung).  c) Beide Sätze sind korrekt.
-4. (1) „Würden Sie bitte Platz nehmen?“ (2) „Würden Sie bitte nehmen Platz?“  a) Satz 1 ist falsch (Konjunktiv II von werden + Infinitiv).  b) Satz 2 ist falsch (Wortstellung: trennbares Verb nicht getrennt).  c) Beide Sätze sind korrekt.
+1. (1) „Würden Sie das machen?“ (2) „Würden Sie das könnten machen?“  a) Satz 2 ist falsch (Konjunktiv II gestapelt: würden + könnten).  b) Satz 1 ist falsch (Konjunktiv II ohne Hauptverb).  c) Beide Sätze sind korrekt.
+2. (1) „Könnten Sie mir helfen?“ (2) „Würden Sie mir helfen können?“  a) Satz 1 ist falsch (Konjunktiv II von können).  b) Beide Sätze sind korrekt.  c) Satz 2 ist falsch (würden + Infinitiv mit Endstellung — korrekt, aber Konjunktiv II von „werden“ ist hier nicht nötig).
+3. (1) „Ich würde sagen, dass die Ergebnisse vielversprechend sind.“ (2) „Ich würde Sie bitten, dass Sie das prüfen.“  a) Satz 1 ist falsch (Konjunktiv + Indikativ im Nebensatz).  b) Beide Sätze sind korrekt.  c) Satz 2 ist falsch (würde + bitten + Indikativ im Nebensatz — Mischung).
+4. (1) „Würden Sie bitte Platz nehmen?“ (2) „Würden Sie bitte nehmen Platz?“  a) Satz 2 ist falsch (Wortstellung: trennbares Verb nicht getrennt).  b) Satz 1 ist falsch (Konjunktiv II von werden + Infinitiv).  c) Beide Sätze sind korrekt.
 
 ## Übung B6 — Modalpartikeln und Höflichkeit: E-Mail ergänzen
 
@@ -287,9 +287,9 @@ Wähle die stilistisch passendere Variante (a oder b) für den Kontext.
 
 1. In einer WhatsApp an eine Kollegin (informell):  a) Hast du mal kurz Zeit für mich?  b) Würden Sie mir bitte kurz Ihre Zeit zur Verfügung stellen?
 2. In einer E-Mail an einen neuen Mandanten (formell):  a) Wir schicken Ihnen die Unterlagen morgen.  b) Selbstverständlich werden Ihnen die Unterlagen morgen zugestellt.
-3. In einem Zeitungsartikel über eine politische Entscheidung (sachlich):  a) Die Regierung schmeißt 500 Leute raus.  b) Die Regierung plant einen Personalabbau von 500 Stellen.
+3. In einem Zeitungsartikel über eine politische Entscheidung (sachlich):  a) Die Regierung plant einen Personalabbau von 500 Stellen.  b) Die Regierung schmeißt 500 Leute raus.
 4. In einem Brief an einen trauernden Freund (warm, aber nicht floskelhaft):  a) Er ist halt gestorben, das ist halt so.  b) Es tut mir sehr leid. Ich denke an dich.
-5. In einer E-Mail an einen Bewerber, der abgelehnt wird (höflich, aber klar):  a) Sie sind halt nicht gut genug.  b) Leider müssen wir Ihnen mitteilen, dass wir Ihre Bewerbung nicht berücksichtigen können.
+5. In einer E-Mail an einen Bewerber, der abgelehnt wird (höflich, aber klar):  a) Leider müssen wir Ihnen mitteilen, dass wir Ihre Bewerbung nicht berücksichtigen können.  b) Sie sind halt nicht gut genug.
 
 ## Übung B9 — E-Mail: Zwei Versionen — eine informelle, eine formelle
 

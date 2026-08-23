@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Lukas' Erinnerungen
 
-1. **b) Im Mai 2019.** — „Das war 2019, im Mai".
+1. **a) Im Mai 2019.** — „Das war 2019, im Mai".
 2. **b) Sein altes Fotoalbum.** — „Ich habe im Auto mein altes Fotoalbum gefunden".
-3. **b) Er hatte seine Stelle in Moabit aufgegeben.** — „Ich hatte damals gerade meine alte Stelle in Moabit aufgegeben".
-4. **c) Dass Mia etwas Besonderes ist.** — „Das war der Moment, in dem ich wusste: Diese Frau ist etwas Besonderes".
+3. **c) Er hatte seine Stelle in Moabit aufgegeben.** — „Ich hatte damals gerade meine alte Stelle in Moabit aufgegeben".
+4. **a) Dass Mia etwas Besonderes ist.** — „Das war der Moment, in dem ich wusste: Diese Frau ist etwas Besonderes".
 
 ---
 

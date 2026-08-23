@@ -16,8 +16,8 @@
 
 1. **a) Mit KI-gestützter Diagnostik.** — Moderatorin: „In Ihrer Studie wurde die Wirksamkeit von KI-gestützter Diagnostik untersucht".
 2. **b) Drei.** — Dr. Steinmeyer: „Es wurden drei Versuchsreihen gemacht".
-3. **b) Die Stichprobe sei zu klein.** — Dr. Steinmeyer: „Vor allem an der Größe der Stichprobe".
-4. **b) Sie werden Open Access zur Verfügung gestellt.** — Dr. Steinmeyer: „Sämtliche Daten werden dann wieder Open Access zur Verfügung gestellt".
+3. **c) Die Stichprobe sei zu klein.** — Dr. Steinmeyer: „Vor allem an der Größe der Stichprobe".
+4. **a) Sie werden Open Access zur Verfügung gestellt.** — Dr. Steinmeyer: „Sämtliche Daten werden dann wieder Open Access zur Verfügung gestellt".
 
 ## Übung H3 — Hörtext-Lückentext: Kurzinterview mit dem Forschungsleiter
 
@@ -209,10 +209,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2 (neuer Text: Auszug aus einer Stellungnahme)
 
-1. **b) Ein Antrag auf Förderung eines Forschungsprojekts.** — „Der Antrag auf Förderung des Forschungsprojekts … wurde in der Sitzung … eingehend geprüft".
+1. **a) Ein Antrag auf Förderung eines Forschungsprojekts.** — „Der Antrag auf Förderung des Forschungsprojekts … wurde in der Sitzung … eingehend geprüft".
 2. **b) An drei Universitätskliniken.** — „Die Erhebung der Daten soll an drei Universitätskliniken durchgeführt werden".
-3. **b) Die Stichprobe sei möglicherweise zu klein.** — „ob die geplante Stichprobe von 800 Patienten ausreicht, um statistisch signifikante Ergebnisse zu erzielen".
-4. **c) Mit drei Stimmen dafür und zwei dagegen angenommen.** — „Der Antrag wurde mit drei Stimmen dafür und zwei dagegen angenommen".
+3. **c) Die Stichprobe sei möglicherweise zu klein.** — „ob die geplante Stichprobe von 800 Patienten ausreicht, um statistisch signifikante Ergebnisse zu erzielen".
+4. **a) Mit drei Stimmen dafür und zwei dagegen angenommen.** — „Der Antrag wurde mit drei Stimmen dafür und zwei dagegen angenommen".
 
 ## Übung C5 — Schreiben: Kurze Pressemitteilung zu einer Forschungsstudie verfassen
 

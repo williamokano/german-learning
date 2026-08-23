@@ -23,9 +23,9 @@ Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Frau Weber wartet auf …  a) einen Anruf von Herrn Steinmeyer.  b) Herrn Steinmeyers Antwort zur Präsentation.  c) eine neue E-Mail-Adresse.
+1. Frau Weber wartet auf …  a) Herrn Steinmeyers Antwort zur Präsentation.  b) einen Anruf von Herrn Steinmeyer.  c) eine neue E-Mail-Adresse.
 2. Warum hat Frau Weber Herrn Steinmeyers E-Mail nicht bekommen?  a) Weil Herr Steinmeyer sie noch nicht geschickt hat.  b) Das ist unklar — sie hat nichts erhalten.  c) Weil sie das falsche Postfach geprüft hat.
-3. Worüber spricht Frau Webers Team gerade viel?  a) Über neue Streaming-Plattformen.  b) Über digitale Kommunikation im Büro.  c) Über Termine und Präsentationen.
+3. Worüber spricht Frau Webers Team gerade viel?  a) Über neue Streaming-Plattformen.  b) Über Termine und Präsentationen.  c) Über digitale Kommunikation im Büro.
 4. Was schlägt Herr Steinmeyer am Ende vor?  a) Er schreibt eine neue E-Mail und schlägt einen Termin vor.  b) Er ruft Frau Weber sofort an.  c) Er fragt nach einem anderen Projekt.
 
 ## Übung H3 — Hörtext-Lückentext

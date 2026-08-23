@@ -109,31 +109,31 @@ exercises:
     items:
       - q: "Wann findet die Prüfung statt?"
         options:
-          - { key: a, text: "Am Freitag, dem 27. Juni um 9 Uhr." }
-          - { key: b, text: "Am Samstag, dem 28. Juni um 9 Uhr." }
+          - { key: a, text: "Am Samstag, dem 28. Juni um 9 Uhr." }
+          - { key: b, text: "Am Freitag, dem 27. Juni um 9 Uhr." }
           - { key: c, text: "Am Sonntag, dem 29. Juni um 10 Uhr." }
-        answer: b
+        answer: a
         why: '"Ihre Goethe B1-Prüfung findet am Samstag, dem 28. Juni 2026, um 9 Uhr statt."'
       - q: "Wie früh soll man erscheinen?"
         options:
           - { key: a, text: "30 Minuten vorher." }
-          - { key: b, text: "Pünktlich um 9 Uhr." }
-          - { key: c, text: "Mindestens 15 Minuten vorher." }
-        answer: c
+          - { key: b, text: "Mindestens 15 Minuten vorher." }
+          - { key: c, text: "Pünktlich um 9 Uhr." }
+        answer: b
         why: '"Bitte erscheinen Sie mindestens 15 Minuten vorher."'
       - q: "Welches Dokument muss man mitbringen?"
         options:
           - { key: a, text: "Einen Führerschein oder eine Kundenkarte." }
-          - { key: b, text: "Einen Personalausweis oder Reisepass." }
-          - { key: c, text: "Nur eine Prüfungsanmeldung ist nötig." }
-        answer: b
+          - { key: b, text: "Nur eine Prüfungsanmeldung ist nötig." }
+          - { key: c, text: "Einen Personalausweis oder Reisepass." }
+        answer: c
         why: '"Bringen Sie bitte Ihren Personalausweis oder Reisepass mit — andere Dokumente werden nicht akzeptiert."'
       - q: "Warum soll man zurückrufen?"
         options:
-          - { key: a, text: "Um einen neuen Termin zu vereinbaren." }
-          - { key: b, text: "Wenn man die Anmeldebestätigung noch nicht erhalten hat." }
+          - { key: a, text: "Wenn man die Anmeldebestätigung noch nicht erhalten hat." }
+          - { key: b, text: "Um einen neuen Termin zu vereinbaren." }
           - { key: c, text: "Um das Testergebnis zu erfragen." }
-        answer: b
+        answer: a
         why: '"Bitte rufen Sie uns zurück, wenn Sie Ihre Anmeldebestätigung noch nicht erhalten haben."'
 
   # ── Block A — Lesen (Exam Simulation) ────────────────────────────────────
@@ -414,31 +414,31 @@ exercises:
     items:
       - q: "Pavel war nervös, ______ er sich gut vorbereitet hatte."
         options:
-          - { key: a, text: "trotzdem" }
-          - { key: b, text: "obwohl" }
+          - { key: a, text: "obwohl" }
+          - { key: b, text: "trotzdem" }
           - { key: c, text: "deshalb" }
-        answer: b
+        answer: a
         why: "'obwohl' (although) introduces a subordinate clause — verb goes to the end."
       - q: "Er hatte wenig geschlafen. ______ war er konzentriert."
-        options:
-          - { key: a, text: "Obwohl" }
-          - { key: b, text: "Weil" }
-          - { key: c, text: "Trotzdem" }
-        answer: c
-        why: "'Trotzdem' (nevertheless) is an adverb — triggers subject-verb inversion."
-      - q: "______ die Aufgabe schwer war, löste Bruno sie richtig."
-        options:
-          - { key: a, text: "Trotzdem" }
-          - { key: b, text: "Obwohl" }
-          - { key: c, text: "Darum" }
-        answer: b
-        why: "'Obwohl' starts a subordinate clause (verb at end)."
-      - q: "Anna hatte Lampenfieber. ______ sprach sie sehr fließend."
         options:
           - { key: a, text: "Obwohl" }
           - { key: b, text: "Trotzdem" }
           - { key: c, text: "Weil" }
         answer: b
+        why: "'Trotzdem' (nevertheless) is an adverb — triggers subject-verb inversion."
+      - q: "______ die Aufgabe schwer war, löste Bruno sie richtig."
+        options:
+          - { key: a, text: "Trotzdem" }
+          - { key: b, text: "Darum" }
+          - { key: c, text: "Obwohl" }
+        answer: c
+        why: "'Obwohl' starts a subordinate clause (verb at end)."
+      - q: "Anna hatte Lampenfieber. ______ sprach sie sehr fließend."
+        options:
+          - { key: a, text: "Trotzdem" }
+          - { key: b, text: "Obwohl" }
+          - { key: c, text: "Weil" }
+        answer: a
         why: "'Trotzdem' (nevertheless) connects two main clauses as an adverb."
 
   - id: B3

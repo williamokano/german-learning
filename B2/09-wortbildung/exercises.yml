@@ -59,16 +59,16 @@ exercises:
       - q: "Was bedeutet Bezahlbarkeit von Wohnraum schlicht?"
         options:
           - { key: a, text: "Wohnungen, die bezahlt werden müssen." }
-          - { key: b, text: "Die Frage, ob sich die Menschen das noch leisten können." }
-          - { key: c, text: "Eine staatliche Förderung." }
-        answer: b
+          - { key: b, text: "Eine staatliche Förderung." }
+          - { key: c, text: "Die Frage, ob sich die Menschen das noch leisten können." }
+        answer: c
         why: 'Herr Steinmeyer: „das meint schlicht: Können sich die Menschen das noch leisten?"'
       - q: "Welche Wortbildungs-Kategorie ist Wende in Verkehrswende?"
         options:
-          - { key: a, text: "Vorsilbe." }
-          - { key: b, text: "Grundbegriff des Kompositums." }
+          - { key: a, text: "Grundbegriff des Kompositums." }
+          - { key: b, text: "Vorsilbe." }
           - { key: c, text: "Nachsilbe." }
-        answer: b
+        answer: a
         why: 'Herr Steinmeyer: „Wende ist hier ein Grundbegriff mit der Bedeutung grundlegende Veränderung".'
 
   - id: H3
@@ -108,10 +108,10 @@ exercises:
     items:
       - q: "Worum geht es in der Ansage?"
         options:
-          - { key: a, text: "Um einen neuen Grammatik-Kurs." }
-          - { key: b, text: "Um einen Wortbildungs-Workshop." }
+          - { key: a, text: "Um einen Wortbildungs-Workshop." }
+          - { key: b, text: "Um einen neuen Grammatik-Kurs." }
           - { key: c, text: "Um eine Konferenz zur Verkehrswende." }
-        answer: b
+        answer: a
         why: '„Wir möchten Sie auf unseren neuen Wortbildungs-Workshop aufmerksam machen".'
       - q: "Was lernen die Teilnehmenden im Workshop?"
         options:
@@ -122,17 +122,17 @@ exercises:
         why: '„unbekannte Wörter selbst zu entschlüsseln: mit Vorsilben …, mit Nachsilben … und mit Komposita".'
       - q: "Wann findet der Workshop statt?"
         options:
-          - { key: a, text: "Nächsten Samstag von 10 bis 16 Uhr." }
+          - { key: a, text: "Nächsten Sonntag von 8 bis 14 Uhr." }
           - { key: b, text: "Diesen Samstag von 10 bis 12 Uhr." }
-          - { key: c, text: "Nächsten Sonntag von 8 bis 14 Uhr." }
-        answer: a
+          - { key: c, text: "Nächsten Samstag von 10 bis 16 Uhr." }
+        answer: c
         why: '„Der Workshop findet nächsten Samstag von zehn bis vier Uhr statt".'
       - q: "Ist eine Anmeldung erforderlich?"
         options:
-          - { key: a, text: "Ja, man muss sich vorher anmelden." }
-          - { key: b, text: "Nein, die Teilnahme ist kostenlos und ohne Anmeldung." }
+          - { key: a, text: "Nein, die Teilnahme ist kostenlos und ohne Anmeldung." }
+          - { key: b, text: "Ja, man muss sich vorher anmelden." }
           - { key: c, text: "Ja, und sie kostet fünfzig Euro." }
-        answer: b
+        answer: a
         why: '„Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich".'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
@@ -798,10 +798,10 @@ exercises:
     items:
       - q: "Woraus besteht das Kompositum Verkehrswende laut Text?"
         options:
-          - { key: a, text: "Aus Grundbegriff Verkehr und Bestimmbegriff Wende." }
-          - { key: b, text: "Aus Bestimmbegriff Verkehr- und Grundbegriff Wende." }
+          - { key: a, text: "Aus Bestimmbegriff Verkehr- und Grundbegriff Wende." }
+          - { key: b, text: "Aus Grundbegriff Verkehr und Bestimmbegriff Wende." }
           - { key: c, text: "Aus zwei Grundbegriffen." }
-        answer: b
+        answer: a
         why: '„Das Kompositum besteht aus dem Bestimmbegriff Verkehr- und dem Grundbegriff Wende".'
       - q: "Welche Funktion hat das Fugenelement -s- in Verkehrswende?"
         options:
@@ -812,17 +812,17 @@ exercises:
         why: 'Fugenelemente haben keine eigene Bedeutung, sie erleichtern die Aussprache.'
       - q: "Was bedeutet -keit in Bezahlbarkeit?"
         options:
-          - { key: a, text: "Es macht aus dem Adjektiv bezahlbar ein abstraktes Nomen." }
+          - { key: a, text: 'Es bedeutet „sehr".' }
           - { key: b, text: "Es ist ein Synonym für -bar." }
-          - { key: c, text: 'Es bedeutet „sehr".' }
-        answer: a
+          - { key: c, text: "Es macht aus dem Adjektiv bezahlbar ein abstraktes Nomen." }
+        answer: c
         why: '„Suffix -keit (macht daraus ein Nomen)".'
       - q: "Welches Kompositum im Text hat kein Fugenelement?"
         options:
-          - { key: a, text: "Verkehrswende." }
-          - { key: b, text: "Klimaschutz." }
+          - { key: a, text: "Klimaschutz." }
+          - { key: b, text: "Verkehrswende." }
           - { key: c, text: "Bezahlbarkeit." }
-        answer: b
+        answer: a
         why: '„Klimaschutz = Klima + Schutz" — kein Fugenelement zwischen den Teilen.'
 
   - id: C5

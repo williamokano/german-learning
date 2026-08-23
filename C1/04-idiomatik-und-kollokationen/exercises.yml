@@ -354,10 +354,10 @@ exercises:
     items:
       - q: '„aktuell"'
         options:
-          - { key: a, text: 'tatsächlich (like „actually")' }
-          - { key: b, text: 'derzeitig, gegenwärtig' }
+          - { key: a, text: 'derzeitig, gegenwärtig' }
+          - { key: b, text: 'tatsächlich (like „actually")' }
           - { key: c, text: 'modern, neu' }
-        answer: b
+        answer: a
         why: '„aktuell" = derzeitig, gegenwärtig. „tatsächlich" = tatsächlich. „modern" = modern.'
       - q: '„realisieren"'
         options:
@@ -375,10 +375,10 @@ exercises:
         why: '„sensibel" = empfindlich, heikel. „vernünftig" = sinnvoll, durchdacht.'
       - q: '„eventuell"'
         options:
-          - { key: a, text: 'schließlich' }
-          - { key: b, text: 'möglicherweise, vielleicht' }
+          - { key: a, text: 'möglicherweise, vielleicht' }
+          - { key: b, text: 'schließlich' }
           - { key: c, text: 'regelmäßig' }
-        answer: b
+        answer: a
         why: '„eventuell" = möglicherweise. „schließlich" = letztendlich.'
       - q: '„genial"'
         options:
@@ -560,17 +560,17 @@ exercises:
         why: '„die Daumen drücken" = Glück wünschen.'
       - q: '„Der Investor ist abgesprungen — das ganze Projekt ist {1}!"'
         options:
-          - { key: a, text: 'ins Wasser gefallen' }
-          - { key: b, text: 'auf den Putz gehauen' }
+          - { key: a, text: 'auf den Putz gehauen' }
+          - { key: b, text: 'ins Wasser gefallen' }
           - { key: c, text: 'in die Suppe gefallen' }
-        answer: a
+        answer: b
         why: '„ins Wasser fallen" = scheitern.'
       - q: '„Mein Chef hat mich {1}, weil ich den Bericht zu spät abgegeben habe."'
         options:
           - { key: a, text: 'auf die Palme gebracht' }
-          - { key: b, text: 'die Hölle heiß gemacht' }
-          - { key: c, text: 'die Daumen gedrückt' }
-        answer: b
+          - { key: b, text: 'die Daumen gedrückt' }
+          - { key: c, text: 'die Hölle heiß gemacht' }
+        answer: c
         why: '„jemandem die Hölle heiß machen" = massiv unter Druck setzen.'
       - q: '„Ich habe ihm {1}, dass er nie wieder unangemeldet in mein Büro kommen soll."'
         options:
@@ -581,10 +581,10 @@ exercises:
         why: '„jemandem die Meinung geigen" = deutlich kritisieren.'
       - q: '„Bei der Prüfung wurde {1} festgestellt."'
         options:
-          - { key: a, text: 'das Gelbe vom Ei' }
-          - { key: b, text: 'die Daumen gedrückt' }
+          - { key: a, text: 'die Daumen gedrückt' }
+          - { key: b, text: 'das Gelbe vom Ei' }
           - { key: c, text: 'die Fliege gemacht' }
-        answer: a
+        answer: b
         why: '„das Gelbe vom Ei" = perfekt (ironisch oder zustimmend).'
 
   - id: B4
@@ -804,10 +804,10 @@ exercises:
     items:
       - q: '„Ich wünsche dir viel Erfolg — ich {1} dir die Daumen!"'
         options:
-          - { key: a, text: 'ziehe' }
-          - { key: b, text: 'drücke' }
+          - { key: a, text: 'drücke' }
+          - { key: b, text: 'ziehe' }
           - { key: c, text: 'lege' }
-        answer: b
+        answer: a
         why: '„die Daumen drücken" = Glück wünschen.'
       - q: '„Diese Aussage ist nicht {1}."'
         options:
@@ -818,17 +818,17 @@ exercises:
         why: '„nicht zutreffend" ist formell; die anderen Varianten sind umgangssprachlich.'
       - q: '„Das Projekt ist {1} — wir müssen neu planen."'
         options:
-          - { key: a, text: 'ins Wasser gefallen' }
+          - { key: a, text: 'in die Suppe gefallen' }
           - { key: b, text: 'auf die Palme gegangen' }
-          - { key: c, text: 'in die Suppe gefallen' }
-        answer: a
+          - { key: c, text: 'ins Wasser gefallen' }
+        answer: c
         why: '„ins Wasser fallen" = scheitern.'
       - q: '„Wir müssen eine {1} Entscheidung {2}."'
         options:
-          - { key: a, text: 'gute … machen' }
-          - { key: b, text: 'fundierte … treffen' }
+          - { key: a, text: 'fundierte … treffen' }
+          - { key: b, text: 'gute … machen' }
           - { key: c, text: 'große … geben' }
-        answer: b
+        answer: a
         why: '„fundierte Entscheidung treffen" ist die korrekte Kollokation.'
       - q: '„Das ist nicht {1} — ich habe andere Pläne."'
         options:
@@ -840,9 +840,9 @@ exercises:
       - q: '„Er ist im Alter von 87 Jahren {1}."'
         options:
           - { key: a, text: 'gestorben' }
-          - { key: b, text: 'verstorben' }
-          - { key: c, text: 'hat die Fliege gemacht' }
-        answer: b
+          - { key: b, text: 'hat die Fliege gemacht' }
+          - { key: c, text: 'verstorben' }
+        answer: c
         why: '„verstorben" ist die angemessene Form in einer Todesanzeige.'
 
   - id: C3

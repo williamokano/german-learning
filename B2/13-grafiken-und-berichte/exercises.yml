@@ -211,10 +211,10 @@ exercises:
     items:
       - q: "Welcher Satz ist korrekt?"
         options:
-          - { key: a, text: "Die Zahl steigert seit 2020." }
-          - { key: b, text: "Die Zahl steigt seit 2020." }
+          - { key: a, text: "Die Zahl steigt seit 2020." }
+          - { key: b, text: "Die Zahl steigert seit 2020." }
           - { key: c, text: "Die Zahl steigt sich seit 2020." }
-        answer: b
+        answer: a
         why: 'steigen ist intransitiv (ohne Akkusativ-Objekt): „Die Zahl steigt seit 2020".'
       - q: "Welcher Satz ist korrekt?"
         options:
@@ -226,16 +226,16 @@ exercises:
       - q: "Welcher Satz ist korrekt?"
         options:
           - { key: a, text: "Zwischen 2020 bis 2024 ist die Zahl gestiegen." }
-          - { key: b, text: "Zwischen 2020 und 2024 ist die Zahl gestiegen." }
-          - { key: c, text: "Zwischen 2020 oder 2024 ist die Zahl gestiegen." }
-        answer: b
+          - { key: b, text: "Zwischen 2020 oder 2024 ist die Zahl gestiegen." }
+          - { key: c, text: "Zwischen 2020 und 2024 ist die Zahl gestiegen." }
+        answer: c
         why: 'zwischen verlangt immer „und" — nie „bis" oder „oder".'
       - q: "Welcher Satz ist korrekt?"
         options:
-          - { key: a, text: "Der Anteil beträgt zu 32 Prozent." }
-          - { key: b, text: "Der Anteil beträgt 32 Prozent." }
+          - { key: a, text: "Der Anteil beträgt 32 Prozent." }
+          - { key: b, text: "Der Anteil beträgt zu 32 Prozent." }
           - { key: c, text: "Der Anteil macht 32 Prozent." }
-        answer: b
+        answer: a
         why: 'betragen + Wert (Akkusativ), kein „zu"; ausmachen braucht „aus" am Ende.'
       - q: "Welcher Satz ist korrekt?"
         options:
@@ -247,9 +247,9 @@ exercises:
       - q: "Welcher Satz ist korrekt?"
         options:
           - { key: a, text: "Aus der Grafik ergibt, dass die Nutzung sinkt." }
-          - { key: b, text: "Aus der Grafik ergibt sich, dass die Nutzung sinkt." }
-          - { key: c, text: "Aus der Grafik ist zu ergeben, dass die Nutzung sinkt." }
-        answer: b
+          - { key: b, text: "Aus der Grafik ist zu ergeben, dass die Nutzung sinkt." }
+          - { key: c, text: "Aus der Grafik ergibt sich, dass die Nutzung sinkt." }
+        answer: c
         why: "Immer reflexiv: es ergibt sich, dass …"
 
   - id: A5
@@ -367,31 +367,31 @@ exercises:
     items:
       - q: "Welche Eröffnung passt zu einem formellen Bericht?"
         options:
-          - { key: a, text: "Ich finde, dass die Zahlen schlecht sind." }
-          - { key: b, text: "Aus der Grafik ergibt sich, dass die Zahlen rückläufig sind." }
+          - { key: a, text: "Aus der Grafik ergibt sich, dass die Zahlen rückläufig sind." }
+          - { key: b, text: "Ich finde, dass die Zahlen schlecht sind." }
           - { key: c, text: "Da kann man sehen, dass die Zahlen schlecht sind." }
-        answer: b
+        answer: a
         why: "Formelle Berichtssprache: Aus + Dat. ergibt sich, dass …"
       - q: "Welche Form ist korrekt?"
         options:
-          - { key: a, text: "Aus der Kurve lässt sich ablesen, dass der Wert 2022 am höchsten war." }
-          - { key: b, text: "Aus der Kurve lässt sich ablesen dass der Wert 2022 am höchsten war." }
+          - { key: a, text: "Aus der Kurve lässt sich ablesen dass der Wert 2022 am höchsten war." }
+          - { key: b, text: "Aus der Kurve lässt sich ablesen, dass der Wert 2022 am höchsten war." }
           - { key: c, text: "Aus der Kurve ist zu ablesen, dass der Wert 2022 am höchsten war." }
-        answer: a
+        answer: b
         why: "Komma vor dem dass-Satz; sich lassen + Infinitiv ist die korrekte Form."
       - q: "Welche Form ist korrekt?"
         options:
           - { key: a, text: "Die Daten sind zur Verfügung gestellt." }
-          - { key: b, text: "Die Daten stehen zur Verfügung." }
-          - { key: c, text: "Die Daten werden zur Verfügung stehen." }
-        answer: b
+          - { key: b, text: "Die Daten werden zur Verfügung stehen." }
+          - { key: c, text: "Die Daten stehen zur Verfügung." }
+        answer: c
         why: "Funktionsverbgefüge: zur Verfügung stehen = verfügbar sein."
       - q: "Welche Form ist korrekt?"
         options:
-          - { key: a, text: "Man kann feststellen, dass die Tendenz sich ändert." }
-          - { key: b, text: "Es lässt sich feststellen, dass die Tendenz sich ändert." }
+          - { key: a, text: "Es lässt sich feststellen, dass die Tendenz sich ändert." }
+          - { key: b, text: "Man kann feststellen, dass die Tendenz sich ändert." }
           - { key: c, text: "Es ist zu feststellen, dass die Tendenz sich ändert." }
-        answer: b
+        answer: a
         why: "Formelle Passiv-Eröffnung: es lässt sich + Infinitiv."
 
   - id: A11
@@ -777,10 +777,10 @@ exercises:
     items:
       - q: "Welcher Wert wurde im Juli 2022 erreicht?"
         options:
-          - { key: a, text: "Rund 40 000 Fahrten." }
+          - { key: a, text: "Rund 195 000 Fahrten." }
           - { key: b, text: "Rund 180 000 Fahrten." }
-          - { key: c, text: "Rund 195 000 Fahrten." }
-        answer: c
+          - { key: c, text: "Rund 40 000 Fahrten." }
+        answer: a
         why: '„Der Höchststand wurde im Juli 2022 mit rund 195 000 Fahrten erreicht".'
       - q: "Wie hat sich die Nutzung zwischen 2020 und 2022 entwickelt?"
         options:
@@ -792,16 +792,16 @@ exercises:
       - q: "Welche Aussage lässt sich aus dem Bericht ableiten?"
         options:
           - { key: a, text: "Die Nutzung ist seit 2020 ungebrochen gestiegen." }
-          - { key: b, text: "Die Nutzung stagniert seit Ende 2022 und ist seit 2024 leicht rückläufig." }
-          - { key: c, text: "Die neuen Regelungen haben keinerlei Auswirkung." }
-        answer: b
+          - { key: b, text: "Die neuen Regelungen haben keinerlei Auswirkung." }
+          - { key: c, text: "Die Nutzung stagniert seit Ende 2022 und ist seit 2024 leicht rückläufig." }
+        answer: c
         why: '„Ab Ende 2022 stagniert die Nutzung … Im Vergleich zum Vorjahr ist die durchschnittliche Nutzung 2024 um acht Prozent zurückgegangen".'
       - q: "Welche Einschränkung macht der Bericht?"
         options:
-          - { key: a, text: "Die Daten sind unzuverlässig." }
-          - { key: b, text: "Eine abschließende Bewertung ist nicht möglich." }
+          - { key: a, text: "Eine abschließende Bewertung ist nicht möglich." }
+          - { key: b, text: "Die Daten sind unzuverlässig." }
           - { key: c, text: "Es fehlen Vergleichsdaten aus dem Ausland." }
-        answer: b
+        answer: a
         why: '„Eine abschließende Bewertung ist auf Basis dieser Daten allein nicht möglich".'
 
   - id: C5

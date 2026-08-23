@@ -34,10 +34,10 @@ exercises:
     items:
       - q: "Herr Steinmeyer und Frau Weber möchten …"
         options:
-          - { key: a, text: "einen Tisch in der Mitte" }
-          - { key: b, text: "einen ruhigen Tisch" }
+          - { key: a, text: "einen ruhigen Tisch" }
+          - { key: b, text: "einen Tisch in der Mitte" }
           - { key: c, text: "einen Tisch am Fenster" }
-        answer: b
+        answer: a
         why: "Einen ruhigen Tisch."
       - q: "Das Tagesgericht ist …"
         options:
@@ -55,10 +55,10 @@ exercises:
         why: "Knoblauch."
       - q: "Herr Steinmeyer bestellt als Getränk …"
         options:
-          - { key: a, text: "ein Glas Weißwein" }
-          - { key: b, text: "eine Flasche Mineralwasser" }
+          - { key: a, text: "eine Flasche Mineralwasser" }
+          - { key: b, text: "ein Glas Weißwein" }
           - { key: c, text: "einen Kaffee" }
-        answer: b
+        answer: a
         why: "Eine Flasche Mineralwasser."
 
   - id: H3
@@ -95,31 +95,31 @@ exercises:
     items:
       - q: "Von wem kommt die Nachricht?"
         options:
-          - { key: a, text: "Von Anna." }
-          - { key: b, text: "Von Maria." }
+          - { key: a, text: "Von Maria." }
+          - { key: b, text: "Von Anna." }
           - { key: c, text: "Vom Restaurant." }
-        answer: b
+        answer: a
         why: "Von Maria."
       - q: "Für wann ist der Tisch reserviert?"
         options:
-          - { key: a, text: "Für Samstag um neunzehn Uhr." }
-          - { key: b, text: "Für Freitag um neunzehn Uhr." }
+          - { key: a, text: "Für Freitag um neunzehn Uhr." }
+          - { key: b, text: "Für Samstag um neunzehn Uhr." }
           - { key: c, text: "Für Samstag um zwanzig Uhr." }
-        answer: a
+        answer: b
         why: "Samstag um neunzehn Uhr."
       - q: "Für wie viele Personen ist der Tisch?"
         options:
           - { key: a, text: "Für eine Person." }
-          - { key: b, text: "Für zwei Personen." }
-          - { key: c, text: "Für vier Personen." }
-        answer: b
+          - { key: b, text: "Für vier Personen." }
+          - { key: c, text: "Für zwei Personen." }
+        answer: c
         why: "Für zwei Personen."
       - q: "Was soll Anna tun, wenn sie den Termin bestätigen kann?"
         options:
-          - { key: a, text: "Eine E-Mail schreiben." }
-          - { key: b, text: "Zurückrufen." }
+          - { key: a, text: "Zurückrufen." }
+          - { key: b, text: "Eine E-Mail schreiben." }
           - { key: c, text: "Im Restaurant anrufen." }
-        answer: b
+        answer: a
         why: "Bitte ruf mich zurück."
 
   - id: H5
@@ -694,38 +694,38 @@ exercises:
         why: "Hast (du Zeit? — normal present question)."
       - q: "Ich (2) ____ gern ins Konzert gehen."
         options:
-          - { key: a, text: "würde" }
-          - { key: b, text: "könnte" }
+          - { key: a, text: "könnte" }
+          - { key: b, text: "würde" }
           - { key: c, text: "hätte" }
-        answer: a
+        answer: b
         why: "würde gern (würde + Infinitiv)."
       - q: "(3) ____ wirklich toll sein!"
         options:
-          - { key: a, text: "Wäre" }
+          - { key: a, text: "Hätte" }
           - { key: b, text: "Würde" }
-          - { key: c, text: "Hätte" }
-        answer: a
+          - { key: c, text: "Wäre" }
+        answer: c
         why: "Wäre (hypothetical)."
       - q: "Wenn du mitkommen (4) ____, wäre ich sehr froh."
         options:
-          - { key: a, text: "würdest" }
-          - { key: b, text: "könntest" }
+          - { key: a, text: "könntest" }
+          - { key: b, text: "würdest" }
           - { key: c, text: "hättest" }
-        answer: b
+        answer: a
         why: "könntest (polite conditional)."
       - q: "Wir (5) ____ danach auch noch essen gehen."
         options:
-          - { key: a, text: "könnten" }
-          - { key: b, text: "wären" }
+          - { key: a, text: "wären" }
+          - { key: b, text: "könnten" }
           - { key: c, text: "hätten" }
-        answer: a
+        answer: b
         why: "könnten (polite suggestion)."
       - q: "das (6) ____ doch schön, oder?"
         options:
-          - { key: a, text: "wäre" }
+          - { key: a, text: "hätte" }
           - { key: b, text: "würde" }
-          - { key: c, text: "hätte" }
-        answer: a
+          - { key: c, text: "wäre" }
+        answer: c
         why: "wäre (hypothetical)."
 
   - id: C3

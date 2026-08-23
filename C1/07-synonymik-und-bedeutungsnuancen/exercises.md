@@ -172,8 +172,8 @@ Wähle die Variante mit der passenden Konnotation für den Kontext.
 
 1. In einer Todesanzeige:  a) Er ist verstorben.  b) Er hat ins Gras gebissen.  c) Er ist abgekratzt.
 2. Im Geschäftsbrief:  a) Das ist doch Quatsch.  b) Das ist nicht haltbar.  c) Das ist mega daneben.
-3. Im Smalltalk:  a) Ich hege Befürchtungen.  b) Ich mache mir Sorgen.  c) Ich trage Bedenken.
-4. In einer wissenschaftlichen Hausarbeit:  a) Die Daten sind krass.  b) Die Daten sind bemerkenswert.  c) Die Daten sind der Hammer.
+3. Im Smalltalk:  a) Ich hege Befürchtungen.  b) Ich trage Bedenken.  c) Ich mache mir Sorgen.
+4. In einer wissenschaftlichen Hausarbeit:  a) Die Daten sind bemerkenswert.  b) Die Daten sind krass.  c) Die Daten sind der Hammer.
 5. In einer Pressemitteilung:  a) Das war der totale Triumph.  b) Das war ein wichtiger Erfolg.  c) Das war ein riesen Sieg.
 
 ## Übung A9 — Falsche Freunde korrigieren
@@ -268,10 +268,10 @@ Ordne jedem Wort (1–5) die korrekte deutsche Bedeutung (a–e) zu.
 
 Wähle das deutsche Wort, das die Bedeutung des englischen Wortes korrekt wiedergibt.
 
-1. Englisch: „That is actually a good idea." — Deutscher Ersatz:  a) Das ist aktuell eine gute Idee.  b) Das ist eigentlich eine gute Idee.  c) Das ist tatsächlich eine gute Idee.
+1. Englisch: „That is actually a good idea." — Deutscher Ersatz:  a) Das ist tatsächlich eine gute Idee.  b) Das ist eigentlich eine gute Idee.  c) Das ist aktuell eine gute Idee.
 2. Englisch: „Eventually we will arrive." — Deutscher Ersatz:  a) Eventuell kommen wir an.  b) Schließlich kommen wir an.  c) Schlussendlich kommen wir an.
-3. Englisch: „I finally realized the truth." — Deutscher Ersatz:  a) Ich habe die Wahrheit endlich realisiert.  b) Ich habe die Wahrheit endlich erkannt.  c) Ich habe die Wahrheit endlich verwirklicht.
-4. Englisch: „He is a sensible person." — Deutscher Ersatz:  a) Er ist ein sensibler Mensch.  b) Er ist ein vernünftiger Mensch.  c) Er ist ein empfindlicher Mensch.
+3. Englisch: „I finally realized the truth." — Deutscher Ersatz:  a) Ich habe die Wahrheit endlich realisiert.  b) Ich habe die Wahrheit endlich verwirklicht.  c) Ich habe die Wahrheit endlich erkannt.
+4. Englisch: „He is a sensible person." — Deutscher Ersatz:  a) Er ist ein vernünftiger Mensch.  b) Er ist ein sensibler Mensch.  c) Er ist ein empfindlicher Mensch.
 5. Englisch: „I sympathize with you." — Deutscher Ersatz:  a) Ich sympathisiere mit dir.  b) Ich fühle mit dir.  c) Ich mag dich.
 
 ## Übung B6 — Konnotation im Satz — Register anpassen
@@ -351,12 +351,12 @@ schreibt nicht nur korrekt, sondern ______.
 
 Wähle die passende Option (a, b oder c) für jede Lücke.
 
-1. Das Gericht {1} die Verfassungsmäßigkeit des Gesetzes.  a) untersucht  b) prüft  c) testet
-2. Wir {1} die App mit zwanzig Nutzern.  a) prüfen  b) erforschen  c) testen
-3. Diese Woche steht eine schwere {1} an.  a) Herausforderung  b) Aufgabe  c) Schwierigkeit
-4. Wir freuen uns auf die {1} mit dem internationalen Team.  a) Schwierigkeit  b) Herausforderung  c) Aufgabe
+1. Das Gericht {1} die Verfassungsmäßigkeit des Gesetzes.  a) prüft  b) untersucht  c) testet
+2. Wir {1} die App mit zwanzig Nutzern.  a) prüfen  b) testen  c) erforschen
+3. Diese Woche steht eine schwere {1} an.  a) Herausforderung  b) Schwierigkeit  c) Aufgabe
+4. Wir freuen uns auf die {1} mit dem internationalen Team.  a) Herausforderung  b) Schwierigkeit  c) Aufgabe
 5. Die {1} des Erdbebens ist unklar.  a) Gründe  b) Ursachen  c) Anlässe
-6. „{1}“ bedeutet im Deutschen „vielleicht".  a) Schließlich  b) Eventuell  c) Keinesfalls
+6. „{1}“ bedeutet im Deutschen „vielleicht".  a) Schließlich  b) Keinesfalls  c) Eventuell
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 

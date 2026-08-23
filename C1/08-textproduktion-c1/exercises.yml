@@ -48,10 +48,10 @@ exercises:
     items:
       - q: 'Welches Schema empfiehlt Yusuf für den Aufbau des Abstracts?'
         options:
-          - { key: a, text: 'Pro-Contra-Schluss' }
-          - { key: b, text: 'IMRD (Hintergrund-Ziel-Methoden-Ergebnisse-Schlussfolgerung)' }
+          - { key: a, text: 'IMRD (Hintergrund-Ziel-Methoden-Ergebnisse-Schlussfolgerung)' }
+          - { key: b, text: 'Pro-Contra-Schluss' }
           - { key: c, text: 'Zusammenfassung-Bewertung-Empfehlung' }
-        answer: b
+        answer: a
         why: 'Yusuf: „Dann orientieren wir uns am IMRD-Schema."'
       - q: 'Welches Beispiel nennt Yusuf für Hedging in der Schlussfolgerung?'
         options:
@@ -63,16 +63,16 @@ exercises:
       - q: 'Was empfiehlt Yusuf zur Wiedergabe früherer Befunde?'
         options:
           - { key: a, text: 'Den Indikativ, um Klarheit zu schaffen.' }
-          - { key: b, text: 'Den Konjunktiv I, um die fremde Aussage von der eigenen abzugrenzen.' }
-          - { key: c, text: 'Direkte Zitate mit Anführungszeichen und Seitenangabe.' }
-        answer: b
+          - { key: b, text: 'Direkte Zitate mit Anführungszeichen und Seitenangabe.' }
+          - { key: c, text: 'Den Konjunktiv I, um die fremde Aussage von der eigenen abzugrenzen.' }
+        answer: c
         why: 'Yusuf: „Verwenden Sie den Konjunktiv I. … So grenzen Sie die fremde Aussage von Ihrer eigenen ab."'
       - q: 'Welche Kohärenzmittel sind laut Yusuf besonders im Abstract wichtig?'
         options:
-          - { key: a, text: 'Metaphern und Wortspiele.' }
-          - { key: b, text: 'Themenführungs-Sätze und Rückverweise.' }
+          - { key: a, text: 'Themenführungs-Sätze und Rückverweise.' }
+          - { key: b, text: 'Metaphern und Wortspiele.' }
           - { key: c, text: 'Übergangswörter wie „und", „dann", „also".' }
-        answer: b
+        answer: a
         why: 'Yusuf: „Verwenden Sie Themenführungs-Sätze … und Rückverweise."'
 
   - id: H3
@@ -182,10 +182,10 @@ exercises:
     items:
       - q: 'Welche Reihenfolge gehört zu einer linearen Erörterung?'
         options:
-          - { key: a, text: 'Einleitung → These → Schluss → Hauptteil (Pro/Contra)' }
-          - { key: b, text: 'Einleitung → These → Hauptteil (Pro/Contra) → Schlussfolgerung' }
+          - { key: a, text: 'Einleitung → These → Hauptteil (Pro/Contra) → Schlussfolgerung' }
+          - { key: b, text: 'Einleitung → These → Schluss → Hauptteil (Pro/Contra)' }
           - { key: c, text: 'These → Einleitung → Hauptteil → Schluss' }
-        answer: b
+        answer: a
         why: 'Standard: Einleitung + These → Hauptteil (Pro und Contra) → Schlussfolgerung (Synthese).'
       - q: 'Welche Formulierung gehört in die Schlussfolgerung einer Erörterung?'
         options:
@@ -197,23 +197,23 @@ exercises:
       - q: 'Welche Funktion hat die Einleitung einer Erörterung?'
         options:
           - { key: a, text: 'Sie listet alle Argumente auf.' }
-          - { key: b, text: 'Sie führt zum Thema hin und nennt die These.' }
-          - { key: c, text: 'Sie formuliert die Schlussfolgerung.' }
-        answer: b
+          - { key: b, text: 'Sie formuliert die Schlussfolgerung.' }
+          - { key: c, text: 'Sie führt zum Thema hin und nennt die These.' }
+        answer: c
         why: 'Einleitung: Hinführung zum Thema + Formulierung der These.'
       - q: 'Welche Aussage beschreibt eine These?'
         options:
-          - { key: a, text: 'Eine zufällige Behauptung ohne Begründung.' }
-          - { key: b, text: 'Eine differenzierte Hauptbehauptung, die im Hauptteil geprüft wird.' }
+          - { key: a, text: 'Eine differenzierte Hauptbehauptung, die im Hauptteil geprüft wird.' }
+          - { key: b, text: 'Eine zufällige Behauptung ohne Begründung.' }
           - { key: c, text: 'Eine reine Meinung im Indikativ Präsens.' }
-        answer: b
+        answer: a
         why: 'Eine These ist eine differenzierte, begründete Hauptbehauptung, die der Hauptteil prüft.'
       - q: 'Welche These ist am differenziertesten formuliert?'
         options:
           - { key: a, text: 'KI ist schlecht.' }
-          - { key: b, text: 'KI ist gut.' }
-          - { key: c, text: 'KI kann den Präsenzunterricht ergänzen, aber nicht ersetzen — nur unter klaren Bedingungen.' }
-        answer: c
+          - { key: b, text: 'KI kann den Präsenzunterricht ergänzen, aber nicht ersetzen — nur unter klaren Bedingungen.' }
+          - { key: c, text: 'KI ist gut.' }
+        answer: b
         why: 'Differenzierte Thesen nennen Bedingungen, schränken ein und sind weder eindeutig Ja noch eindeutig Nein.'
 
   - id: A2
@@ -245,10 +245,10 @@ exercises:
     items:
       - q: 'Was ist der Unterschied zwischen linearer und selektiver Zusammenfassung?'
         options:
-          - { key: a, text: 'Linear = nach Wichtigkeit; selektiv = nach Reihenfolge des Originals.' }
-          - { key: b, text: 'Linear = in der Reihenfolge des Originals; selektiv = nach Wichtigkeit geordnet.' }
+          - { key: a, text: 'Linear = in der Reihenfolge des Originals; selektiv = nach Wichtigkeit geordnet.' }
+          - { key: b, text: 'Linear = nach Wichtigkeit; selektiv = nach Reihenfolge des Originals.' }
           - { key: c, text: 'Linear = nur Einleitung; selektiv = nur Schluss.' }
-        answer: b
+        answer: a
         why: 'Linear folgt der Reihenfolge; selektiv sortiert nach Wichtigkeit (für Abstract/Thesenpapier).'
       - q: 'Welche Reduktionsstrategie passt: „Im Schulversuch in Karlsruhe, Bremen und Hamburg" → „Erste Schulversuche deuten darauf hin"?'
         options:
@@ -266,10 +266,10 @@ exercises:
         why: 'Die Wertung „völlig missglückt" wird herausgefiltert; nur der neutrale Sachverhalt bleibt.'
       - q: 'Welche Aufgabe hat die Zusammenfassung?'
         options:
-          - { key: a, text: 'Den Originaltext bewerten.' }
-          - { key: b, text: 'Den Originaltext reduzieren, ohne ihn zu verfälschen.' }
+          - { key: a, text: 'Den Originaltext reduzieren, ohne ihn zu verfälschen.' }
+          - { key: b, text: 'Den Originaltext bewerten.' }
           - { key: c, text: 'Den Originaltext 1:1 mit anderen Worten wiederholen.' }
-        answer: b
+        answer: a
         why: 'Zusammenfassen = Reduktion (typisch 1/5 bis 1/10 des Originalumfangs).'
       - q: 'Welche Formulierung gehört in eine Zusammenfassung?'
         options:
@@ -413,10 +413,10 @@ exercises:
     items:
       - q: '„Ich finde, KI ist schlecht." — Korrektur:'
         options:
-          - { key: a, text: 'Ich finde, KI ist doof.' }
-          - { key: b, text: 'Es lässt sich argumentieren, dass KI Risiken birgt, die einer Regulierung bedürfen.' }
+          - { key: a, text: 'Es lässt sich argumentieren, dass KI Risiken birgt, die einer Regulierung bedürfen.' }
+          - { key: b, text: 'Ich finde, KI ist doof.' }
           - { key: c, text: 'KI ist echt krass.' }
-        answer: b
+        answer: a
         why: 'Unpersönliche, vorsichtige Formulierung statt persönlicher Meinungsäußerung.'
       - q: '„Das beweist eindeutig, dass KI den Unterricht verdrängt." — Korrektur:'
         options:
@@ -428,16 +428,16 @@ exercises:
       - q: '„Schmidt sagt, dass KI alles verändert." — Korrektur:'
         options:
           - { key: a, text: 'Schmidt sagt, dass KI alles verändert.' }
-          - { key: b, text: 'Schmidt schreibt, KI verändere alle Bereiche.' }
-          - { key: c, text: 'Schmidt meint, KI verändert alles total.' }
-        answer: b
+          - { key: b, text: 'Schmidt meint, KI verändert alles total.' }
+          - { key: c, text: 'Schmidt schreibt, KI verändere alle Bereiche.' }
+        answer: c
         why: 'Konjunktiv I „verändere" markiert die fremde Aussage.'
       - q: '„Leider ist der Artikel schlecht." — Korrektur (in einer Zusammenfassung):'
         options:
-          - { key: a, text: 'Ich finde den Artikel doof.' }
-          - { key: b, text: 'Die Argumentation des Autors bleibt an mehreren Stellen vage.' }
+          - { key: a, text: 'Die Argumentation des Autors bleibt an mehreren Stellen vage.' }
+          - { key: b, text: 'Ich finde den Artikel doof.' }
           - { key: c, text: 'Die Wertung des Autors ist streng.' }
-        answer: b
+        answer: a
         why: 'Zusammenfassen = berichten, nicht bewerten.'
       - q: '„Einerseits ist KI gut, andererseits ist KI gut." — Korrektur:'
         options:
@@ -509,16 +509,16 @@ exercises:
       - q: 'Original: „Das völlig missglückte Experiment zeigt, dass …" — beste Zusammenfassung:'
         options:
           - { key: a, text: 'Das völlig missglückte Experiment zeigt …' }
-          - { key: b, text: 'Das Experiment zeigt, dass …' }
-          - { key: c, text: 'Das Experiment war doof.' }
-        answer: b
+          - { key: b, text: 'Das Experiment war doof.' }
+          - { key: c, text: 'Das Experiment zeigt, dass …' }
+        answer: c
         why: 'Wertung herausfiltern; neutraler Sachverhalt bleibt.'
       - q: 'Original: „Im Artikel geht es um KI und dann wird erklärt, was KI kann und wo KI Grenzen hat." — beste Zusammenfassung:'
         options:
-          - { key: a, text: 'Im Artikel geht es um KI und dann wird erklärt, was KI kann und wo KI Grenzen hat.' }
-          - { key: b, text: 'Der Autor behandelt die Möglichkeiten und Grenzen von KI.' }
+          - { key: a, text: 'Der Autor behandelt die Möglichkeiten und Grenzen von KI.' }
+          - { key: b, text: 'Im Artikel geht es um KI und dann wird erklärt, was KI kann und wo KI Grenzen hat.' }
           - { key: c, text: 'KI kann alles und ist super.' }
-        answer: b
+        answer: a
         why: 'Verdichtung: zwei Aspekte (Möglichkeiten und Grenzen) statt linearer Aufzählung.'
       - q: 'Original: „Schmidt sagt, dass die Zukunft KI gehört." — beste Zusammenfassung:'
         options:
@@ -579,10 +579,10 @@ exercises:
     items:
       - q: 'Welche Version nutzt Themenführung und Rückverweis am besten?'
         options:
-          - { key: a, text: 'Jetzt komme ich zur Methode. Hier ist sie: 200 Personen wurden befragt.' }
-          - { key: b, text: 'Im Folgenden wird die Methode erläutert. Die oben erwähnte Stichprobe umfasste 200 Personen.' }
+          - { key: a, text: 'Im Folgenden wird die Methode erläutert. Die oben erwähnte Stichprobe umfasste 200 Personen.' }
+          - { key: b, text: 'Jetzt komme ich zur Methode. Hier ist sie: 200 Personen wurden befragt.' }
           - { key: c, text: 'Methode. 200. Befragung. Fertig.' }
-        answer: b
+        answer: a
         why: 'Themenführung („Im Folgenden wird … erläutert") + Rückverweis („Die oben erwähnte …").'
       - q: 'Welche Version nutzt doppelt gepaarte Konnektoren korrekt?'
         options:
@@ -594,9 +594,9 @@ exercises:
       - q: 'Welche Version nutzt adverbiale Anknüpfung („wie bereits dargelegt") korrekt?'
         options:
           - { key: a, text: 'Das weiß man doch.' }
-          - { key: b, text: 'Wie bereits dargelegt wurde, stützt sich die Arbeit auf eine Online-Befragung.' }
-          - { key: c, text: 'Online-Befragung. Das war die Methode. Sie wurde gemacht.' }
-        answer: b
+          - { key: b, text: 'Online-Befragung. Das war die Methode. Sie wurde gemacht.' }
+          - { key: c, text: 'Wie bereits dargelegt wurde, stützt sich die Arbeit auf eine Online-Befragung.' }
+        answer: c
         why: 'Adverbiale Anknüpfung verweist auf den vorherigen Abschnitt.'
       - q: 'Welche Version nutzt thematische Wiederaufnahme?'
         options:
@@ -739,10 +739,10 @@ exercises:
     items:
       - q: 'Im Folgenden {1} die Frage untersucht, ob KI den Unterricht ergänzen kann.'
         options:
-          - { key: a, text: 'werde' }
-          - { key: b, text: 'wird' }
+          - { key: a, text: 'wird' }
+          - { key: b, text: 'werde' }
           - { key: c, text: 'wurde' }
-        answer: b
+        answer: a
         why: 'Vorgangspassiv Präsens: „wird … untersucht".'
       - q: 'Die vorliegende Arbeit {1}, dass KI den Unterricht ergänzen, aber nicht ersetzen kann.'
         options:
@@ -754,16 +754,16 @@ exercises:
       - q: 'Einerseits spricht für KI, {1} (Brückenfunktion).'
         options:
           - { key: a, text: 'andererseits spreche die Sicherheit dagegen' }
-          - { key: b, text: 'dass KI in untersorgten Regionen eine Brücke sein kann' }
-          - { key: c, text: 'Zwar brückt KI die Lücken nicht' }
-        answer: b
+          - { key: b, text: 'Zwar brückt KI die Lücken nicht' }
+          - { key: c, text: 'dass KI in untersorgten Regionen eine Brücke sein kann' }
+        answer: c
         why: '„Einerseits …, dass …" — Pro-Argument mit Konjunktion „dass".'
       - q: 'Schmidt schreibt, die Methode {1} umstritten.'
         options:
-          - { key: a, text: 'ist' }
-          - { key: b, text: 'sei' }
+          - { key: a, text: 'sei' }
+          - { key: b, text: 'ist' }
           - { key: c, text: 'wäre' }
-        answer: b
+        answer: a
         why: 'Konjunktiv I der Redewiedergabe: „sei".'
       - q: 'Die Ergebnisse {1} darauf hin, dass ein Zusammenhang besteht.'
         options:
@@ -843,31 +843,31 @@ exercises:
     items:
       - q: 'Welche Hauptaussage trifft der Sammelband?'
         options:
-          - { key: a, text: 'Das gedruckte Buch ist tot.' }
-          - { key: b, text: 'Das gedruckte Buch hat den Kindle nicht verdrängt — und umgekehrt.' }
+          - { key: a, text: 'Das gedruckte Buch hat den Kindle nicht verdrängt — und umgekehrt.' }
+          - { key: b, text: 'Das gedruckte Buch ist tot.' }
           - { key: c, text: 'Nur das E-Book hat eine Zukunft.' }
-        answer: b
+        answer: a
         why: '„Das gedruckte Buch hat den Kindle nicht verdrängt — und der Kindle wird das Buch nicht verdrängen."'
       - q: 'Welche drei Blickwinkel nennt der Text?'
         options:
-          - { key: a, text: 'Kulturkonservativ, marktwirtschaftlich, bildungswissenschaftlich.' }
-          - { key: b, text: 'Pädagogisch, soziologisch, technologisch.' }
+          - { key: a, text: 'Pädagogisch, soziologisch, technologisch.' }
+          - { key: b, text: 'Kulturkonservativ, marktwirtschaftlich, bildungswissenschaftlich.' }
           - { key: c, text: 'Historisch, literarisch, ökonomisch.' }
-        answer: a
+        answer: b
         why: '„ein kulturkonservativer, ein marktwirtschaftlicher und ein bildungswissenschaftlicher [Blickwinkel]."'
       - q: 'Welche Funktion hat das Buch laut kulturkonservativem Beitrag?'
         options:
           - { key: a, text: 'Es ist ein bloßer Informationsträger.' }
-          - { key: b, text: 'Es ist ein kulturelles Artefakt mit eigener Würde.' }
-          - { key: c, text: 'Es ist eine historische Quelle.' }
-        answer: b
+          - { key: b, text: 'Es ist eine historische Quelle.' }
+          - { key: c, text: 'Es ist ein kulturelles Artefakt mit eigener Würde.' }
+        answer: c
         why: '„ist das Buch mehr als ein Informationsträger; es sei ein kulturelles Artefakt, das durch seine Materialität eine eigene Würde erhält."'
       - q: 'Was betont der bildungswissenschaftliche Beitrag?'
         options:
-          - { key: a, text: 'Junge Leser\*innen lesen nur digital.' }
-          - { key: b, text: 'Junge Leser\*innen bevorzugen zwar digitale Texte, wählen aber für längere Lektüren weiterhin das gedruckte Buch.' }
+          - { key: a, text: 'Junge Leser\*innen bevorzugen zwar digitale Texte, wählen aber für längere Lektüren weiterhin das gedruckte Buch.' }
+          - { key: b, text: 'Junge Leser\*innen lesen nur digital.' }
           - { key: c, text: 'Längere Lektüren finden ausschließlich digital statt.' }
-        answer: b
+        answer: a
         why: '„dass junge Leser\*innen zwar digitale Texte bevorzugen, aber für längere Lektüren weiterhin das gedruckte Buch wählen."'
 
   - id: C5

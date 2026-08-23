@@ -130,10 +130,10 @@ exercises:
     items:
       - q: "Warum ruft Petra an? — Why is Petra calling?"
         options:
-          - { key: a, text: "Sie hat ein neues Buch." }
-          - { key: b, text: "Sie möchte sich mit der Person treffen." }
+          - { key: a, text: "Sie möchte sich mit der Person treffen." }
+          - { key: b, text: "Sie hat ein neues Buch." }
           - { key: c, text: "Sie hat eine Prüfung." }
-        answer: b
+        answer: a
         why: '„Ich möchte mich gerne mit dir treffen".'
       - q: "Wo lernt Petra die Person kennen? — Where does Petra meet this person?"
         options:
@@ -145,16 +145,16 @@ exercises:
       - q: "Was möchten sie zusammen machen? — What do they want to do together?"
         options:
           - { key: a, text: "Ins Kino gehen." }
-          - { key: b, text: "Einen Kaffee trinken." }
-          - { key: c, text: "Einen Spaziergang." }
-        answer: b
+          - { key: b, text: "Einen Spaziergang." }
+          - { key: c, text: "Einen Kaffee trinken." }
+        answer: c
         why: '„Wir können zusammen einen Kaffee trinken".'
       - q: "Was ist Petras Telefonnummer? — What is Petra's phone number?"
         options:
-          - { key: a, text: "Eins-zwei-drei." }
+          - { key: a, text: "Vier-sieben-eins-eins." }
           - { key: b, text: "Vier-fünf-sechs." }
-          - { key: c, text: "Vier-sieben-eins-eins." }
-        answer: c
+          - { key: c, text: "Eins-zwei-drei." }
+        answer: a
         why: '„Meine Nummer ist vier-sieben-eins-eins".'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────

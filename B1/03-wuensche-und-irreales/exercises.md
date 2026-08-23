@@ -24,10 +24,10 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Was wünscht sich Anna im Gespräch mit Herr Steinmeyer?  a) Mehr Urlaub.  b) Mehr Praxiserfahrung im Studium.  c) Eine neue Stelle.
+1. Was wünscht sich Anna im Gespräch mit Herr Steinmeyer?  a) Mehr Praxiserfahrung im Studium.  b) Mehr Urlaub.  c) Eine neue Stelle.
 2. Was empfiehlt Herr Steinmeyer als ersten Schritt?  a) Sofort kündigen und in die Forschung gehen.  b) Prüfen, ob das Unternehmen Mobilitätsprogramme anbietet.  c) Ein Auslandspraktikum sofort absolvieren.
 3. Was würde Anna machen, wenn sie von vorne anfangen könnte?  a) Marketing studieren.  b) Nach Lissabon ziehen.  c) In die Forschung gehen.
-4. Was sagt Herr Steinmeyer über Karrierewege?  a) Jeder Karriereweg ist gerade und ohne Umwege.  b) Jeder Karriereweg hat Umwege.  c) Man sollte den Karriereweg nie wechseln.
+4. Was sagt Herr Steinmeyer über Karrierewege?  a) Jeder Karriereweg hat Umwege.  b) Jeder Karriereweg ist gerade und ohne Umwege.  c) Man sollte den Karriereweg nie wechseln.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -51,10 +51,10 @@ Listen to the Hörtext (Bruno's call to Yuki) and fill in the 6 missing words. T
 
 Listen to Anna's voice message to Mia. Then choose the correct answer (a, b, or c).
 
-1. Warum ruft Anna an?  a) Um zu fragen, ob sie mitkommen darf.  b) Um zu sagen, dass sie nicht mitkommen kann.  c) Um den Ausflug abzusagen.
+1. Warum ruft Anna an?  a) Um zu sagen, dass sie nicht mitkommen kann.  b) Um zu fragen, ob sie mitkommen darf.  c) Um den Ausflug abzusagen.
 2. Warum kann Anna nicht mitfahren?  a) Weil sie krank ist.  b) Weil sie zu viel Arbeit hat.  c) Weil sie kein Ticket hat.
-3. Was wünscht sich Anna für das nächste Mal?  a) Früher Bescheid zu bekommen, damit sie sich freinehmen kann.  b) Dass der Ausflug nach München geht.  c) Dass Mia ihr einen anderen Termin schickt.
-4. Was soll Mia tun?  a) Den Ausflug verschieben.  b) Anna zurückrufen, wenn sie wieder da ist.  c) Anna eine E-Mail schicken.
+3. Was wünscht sich Anna für das nächste Mal?  a) Dass Mia ihr einen anderen Termin schickt.  b) Dass der Ausflug nach München geht.  c) Früher Bescheid zu bekommen, damit sie sich freinehmen kann.
+4. Was soll Mia tun?  a) Anna zurückrufen, wenn sie wieder da ist.  b) Den Ausflug verschieben.  c) Anna eine E-Mail schicken.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -294,10 +294,10 @@ Rewrite each sentence using the structure given in brackets. 6 items.
 Wähle a, b oder c.
 
 
-1. Was wünscht sich Anna, wenn es um Sprachen geht?  a) Sie wünschte, sie hätte früher Portugiesisch gelernt.  b) Sie wünschte, sie hätte früher Deutsch gelernt.  c) Sie wünschte, sie hätte Japanisch gelernt.
+1. Was wünscht sich Anna, wenn es um Sprachen geht?  a) Sie wünschte, sie hätte früher Deutsch gelernt.  b) Sie wünschte, sie hätte früher Portugiesisch gelernt.  c) Sie wünschte, sie hätte Japanisch gelernt.
 2. Was würde Anna tun, wenn sie komplett frei wäre?  a) In einem Café arbeiten.  b) Ein Jahr durch Europa reisen.  c) Nach Lissabon ziehen.
 3. Was ist Annas größtes Bedauern?  a) Dass sie zu früh angefangen hat zu reisen.  b) Dass sie zu viele Chancen genommen hat.  c) Dass sie viele Chancen nicht ergriffen hat, weil sie Angst hatte.
-4. Was ist der wichtigste Wunsch, den Anna am Ende nennt?  a) Mehr Geld zu haben.  b) Nicht zu warten, bis alles perfekt ist.  c) Einen neuen Job zu finden.
+4. Was ist der wichtigste Wunsch, den Anna am Ende nennt?  a) Nicht zu warten, bis alles perfekt ist.  b) Mehr Geld zu haben.  c) Einen neuen Job zu finden.
 
 ## Übung B9 — WhatsApp-Ratschlag: Brunos Karriereentscheidung
 
@@ -415,9 +415,9 @@ unglücklich macht, wäre das noch riskanter.
 Wähle a, b oder c.
 
 
-1. Was empfiehlt der Coach als ersten Schritt?  a) Sofort kündigen und einen neuen Job suchen.  b) Ein klares Bild davon entwickeln, was man wirklich will.  c) Den Vorgesetzten sofort ansprechen.
+1. Was empfiehlt der Coach als ersten Schritt?  a) Ein klares Bild davon entwickeln, was man wirklich will.  b) Sofort kündigen und einen neuen Job suchen.  c) Den Vorgesetzten sofort ansprechen.
 2. Was sollte man tun, bevor man große Entscheidungen trifft?  a) Eine Kündigung einreichen.  b) Informelle Gespräche mit Leuten in der Wunschbranche führen.  c) Den Karrierecoach täglich konsultieren.
-3. Was sagt der Coach über einen Karrierewechsel?  a) Er ist immer einfach und risikolos.  b) Er wäre riskant, aber in einer unglücklichen Situation zu bleiben, wäre riskanter.  c) Er ist nur für junge Leute sinnvoll.
+3. Was sagt der Coach über einen Karrierewechsel?  a) Er ist immer einfach und risikolos.  b) Er ist nur für junge Leute sinnvoll.  c) Er wäre riskant, aber in einer unglücklichen Situation zu bleiben, wäre riskanter.
 4. Was empfiehlt der Coach noch zusätzlich?  a) Den Vorgesetzten offen ansprechen.  b) Sofort in eine andere Stadt ziehen.  c) Eine Pause von der Arbeit nehmen.
 
 ## Übung C5 — Schreiben B1: Forumsbeitrag

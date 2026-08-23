@@ -52,17 +52,17 @@ exercises:
         why: 'Frau Schäfer: „Die Zahl der über 65-Jährigen wird voraussichtlich bis 2040 um rund 25 Prozent steigen."'
       - q: 'Was gehört nach Frau Schäfers Worten zur „doppelten Belastung" der Kommunen?'
         options:
-          - { key: a, text: 'Weniger Einnahmen und mehr Ausgaben.' }
-          - { key: b, text: 'Mehr Einnahmen und weniger Ausgaben.' }
+          - { key: a, text: 'Mehr Einnahmen und weniger Ausgaben.' }
+          - { key: b, text: 'Weniger Einnahmen und mehr Ausgaben.' }
           - { key: c, text: 'Höhere Steuern und sinkende Mieten.' }
-        answer: a
+        answer: b
         why: '„Eine doppelte Belastung: weniger Einnahmen, mehr Ausgaben."'
       - q: 'Welche Strategie verfolgt Köln nach Frau Schäfer?'
         options:
           - { key: a, text: 'Stärkung der Zuwanderung ohne Integrationsangebote.' }
-          - { key: b, text: 'Familien gewinnen UND Integration verbessern.' }
-          - { key: c, text: 'Nur Pflegeeinrichtungen ausbauen.' }
-        answer: b
+          - { key: b, text: 'Nur Pflegeeinrichtungen ausbauen.' }
+          - { key: c, text: 'Familien gewinnen UND Integration verbessern.' }
+        answer: c
         why: '„Zum einen versuchen wir, Familien zu gewinnen … Zum anderen müssen wir die Integration der Zugewanderten verbessern."'
       - q: 'Was wünscht sich Frau Schäfer von der nächsten Bundesregierung?'
         options:
@@ -115,24 +115,24 @@ exercises:
         why: '„Sie haben den Anrufbeantworter des Bürgeramtes der Stadt Köln erreicht."'
       - q: 'Wie sind die regulären Sprechzeiten?'
         options:
-          - { key: a, text: 'Montags bis freitags von acht bis dreizehn Uhr, donnerstags bis achtzehn Uhr.' }
-          - { key: b, text: 'Täglich von acht bis achtzehn Uhr.' }
+          - { key: a, text: 'Täglich von acht bis achtzehn Uhr.' }
+          - { key: b, text: 'Montags bis freitags von acht bis dreizehn Uhr, donnerstags bis achtzehn Uhr.' }
           - { key: c, text: 'Nur am Wochenende.' }
-        answer: a
+        answer: b
         why: '„Unsere Sprechzeiten sind montags bis freitags von acht bis dreizehn Uhr, donnerstags zusätzlich bis achtzehn Uhr."'
       - q: 'Warum ist das Bürgeramt am 15. Oktober geschlossen?'
         options:
-          - { key: a, text: 'Wegen einer internen Schulung.' }
+          - { key: a, text: 'Wegen einer Demonstration.' }
           - { key: b, text: 'Wegen eines Feiertags.' }
-          - { key: c, text: 'Wegen einer Demonstration.' }
-        answer: a
+          - { key: c, text: 'Wegen einer internen Schulung.' }
+        answer: c
         why: '„Am Mittwoch, den 15. Oktober, bleibt das Bürgeramt wegen einer internen Schulung geschlossen."'
       - q: 'Für welches Anliegen bekommt man KEINE telefonische Beratung?'
         options:
-          - { key: a, text: 'Wohnsitzanliegen.' }
-          - { key: b, text: 'Sozialleistungen.' }
+          - { key: a, text: 'Sozialleistungen.' }
+          - { key: b, text: 'Wohnsitzanliegen.' }
           - { key: c, text: 'Passangelegenheiten.' }
-        answer: b
+        answer: a
         why: '„Eine telefonische Beratung zu Sozialleistungen ist nicht möglich."'
 
   - id: H5
@@ -327,10 +327,10 @@ exercises:
     items:
       - q: 'Welche Formulierung passt in einen Sachtext?'
         options:
-          - { key: a, text: 'Wir müssen die Flüchtlingswelle stoppen.' }
-          - { key: b, text: 'Wir müssen die Zuwanderung steuern.' }
+          - { key: a, text: 'Wir müssen die Zuwanderung steuern.' }
+          - { key: b, text: 'Wir müssen die Flüchtlingswelle stoppen.' }
           - { key: c, text: 'Wir müssen die Ausländer draußen halten.' }
-        answer: b
+        answer: a
         why: '„Zuwanderung steuern" ist sachlich; „Flüchtlingswelle" ist emotional aufgeladen, „Ausländer draußen halten" ist diskreditierend.'
       - q: 'Welche Formulierung passt in einen Kommentar?'
         options:
@@ -342,16 +342,16 @@ exercises:
       - q: 'Welche Formulierung passt in eine Erörterung?'
         options:
           - { key: a, text: 'Multikulti ist gescheitert.' }
-          - { key: b, text: 'Die plurale Gesellschaft steht vor Herausforderungen.' }
-          - { key: c, text: 'Die Multikulti-Träume sind aus.' }
-        answer: b
+          - { key: b, text: 'Die Multikulti-Träume sind aus.' }
+          - { key: c, text: 'Die plurale Gesellschaft steht vor Herausforderungen.' }
+        answer: c
         why: '„plurale Gesellschaft" ist registergerecht; „Multikulti" ist umgangssprachlich und oft ironisch.'
       - q: 'Welche Formulierung passt in einen politischen Sachtext?'
         options:
-          - { key: a, text: 'Wir haben ein Asylantenproblem.' }
-          - { key: b, text: 'Die Migrationspolitik steht vor großen Herausforderungen.' }
+          - { key: a, text: 'Die Migrationspolitik steht vor großen Herausforderungen.' }
+          - { key: b, text: 'Wir haben ein Asylantenproblem.' }
           - { key: c, text: 'Die Asylanten überschwemmen das Land.' }
-        answer: b
+        answer: a
         why: '„Migrationspolitik" ist sachlich; die anderen Varianten sind diskreditierend.'
       - q: 'Welche Formulierung passt in einen wirtschaftspolitischen Text?'
         options:
@@ -415,10 +415,10 @@ exercises:
     items:
       - q: 'Welche Formulierung signalisiert höfliche Distanz?'
         options:
-          - { key: a, text: 'Diese Position ist falsch.' }
-          - { key: b, text: 'Diese Position wäre zu kurz gegriffen.' }
+          - { key: a, text: 'Diese Position wäre zu kurz gegriffen.' }
+          - { key: b, text: 'Diese Position ist falsch.' }
           - { key: c, text: 'Diese Position ist Quatsch.' }
-        answer: b
+        answer: a
         why: '„wäre" (Konjunktiv II) signalisiert Distanz ohne direkte Kritik.'
       - q: 'Welche Formulierung ist ein höflicher Widerspruch?'
         options:
@@ -430,16 +430,16 @@ exercises:
       - q: 'Welche Formulierung drückt eine hypothetische Schlussfolgerung aus?'
         options:
           - { key: a, text: 'Wenn man so argumentiert, hat man recht.' }
-          - { key: b, text: 'Wenn man so argumentiert, würde das heißen, dass KI jede Verantwortung übernimmt.' }
-          - { key: c, text: 'Wenn man so argumentiert, ist das schlecht.' }
-        answer: b
+          - { key: b, text: 'Wenn man so argumentiert, ist das schlecht.' }
+          - { key: c, text: 'Wenn man so argumentiert, würde das heißen, dass KI jede Verantwortung übernimmt.' }
+        answer: c
         why: '„würde das heißen" = Konjunktiv II in einer irrealen Schlussfolgerung.'
       - q: 'Welche Formulierung ist eine höfliche Bitte um Klärung?'
         options:
-          - { key: a, text: 'Was meinen Sie damit?' }
-          - { key: b, text: 'Dürfte ich fragen, was Sie damit meinen?' }
+          - { key: a, text: 'Dürfte ich fragen, was Sie damit meinen?' }
+          - { key: b, text: 'Was meinen Sie damit?' }
           - { key: c, text: 'Erklären Sie das!' }
-        answer: b
+        answer: a
         why: '„Dürfte ich fragen …" = Konjunktiv II als Höflichkeit.'
       - q: 'Welche Formulierung ist eine vorsichtige Vermutung?'
         options:
@@ -554,10 +554,10 @@ exercises:
     items:
       - q: 'Welche Formulierung wägt sachlich ab?'
         options:
-          - { key: a, text: 'KI ist gut, weil sie alles besser macht.' }
-          - { key: b, text: 'Einerseits bietet KI Chancen für die Individualisierung, andererseits wirft sie Fragen zum Datenschutz auf.' }
+          - { key: a, text: 'Einerseits bietet KI Chancen für die Individualisierung, andererseits wirft sie Fragen zum Datenschutz auf.' }
+          - { key: b, text: 'KI ist gut, weil sie alles besser macht.' }
           - { key: c, text: 'KI ist schlecht, weil sie die Lehrkraft ersetzt.' }
-        answer: b
+        answer: a
         why: 'Einerseits-Andererseits mit konkreten Argumenten statt wertender Schwarz-Weiß-Malerei.'
       - q: 'Welche Formulierung räumt ein, ohne die eigene Position aufzugeben?'
         options:
@@ -569,16 +569,16 @@ exercises:
       - q: 'Welche Formulierung gibt eine fremde Position korrekt wieder (Konjunktiv I)?'
         options:
           - { key: a, text: 'Befürworter sagen, KI ist sinnvoll.' }
-          - { key: b, text: 'Befürworter sagen, KI sei sinnvoll.' }
-          - { key: c, text: 'Befürworter würden sagen, KI sei sinnvoll.' }
-        answer: b
+          - { key: b, text: 'Befürworter würden sagen, KI sei sinnvoll.' }
+          - { key: c, text: 'Befürworter sagen, KI sei sinnvoll.' }
+        answer: c
         why: 'Konjunktiv I „sei" markiert die fremde Position; „würden sagen" wäre Konjunktiv II und doppelt abgeschwächt.'
       - q: 'Welche Formulierung unterscheidet Szenarien?'
         options:
-          - { key: a, text: 'Die Zukunft ist ungewiss.' }
-          - { key: b, text: 'Im besten Fall steigt die Beschäftigung, im schlechtesten Fall sinkt sie.' }
+          - { key: a, text: 'Im besten Fall steigt die Beschäftigung, im schlechtesten Fall sinkt sie.' }
+          - { key: b, text: 'Die Zukunft ist ungewiss.' }
           - { key: c, text: 'Man weiß nicht, was passiert.' }
-        answer: b
+        answer: a
         why: '„Im besten Fall …, im schlechtesten Fall …" unterscheidet zwei Szenarien.'
       - q: 'Welche Formulierung macht eine vorsichtige Prognose mit Bandbreite und Bedingung?'
         options:
@@ -643,10 +643,10 @@ exercises:
     items:
       - q: 'In einem politischen Kommentar:'
         options:
-          - { key: a, text: 'Die Politiker labern ja nur rum.' }
-          - { key: b, text: 'Die Politiker vermeiden es, die unangenehmen Wahrheiten auszusprechen.' }
+          - { key: a, text: 'Die Politiker vermeiden es, die unangenehmen Wahrheiten auszusprechen.' }
+          - { key: b, text: 'Die Politiker labern ja nur rum.' }
           - { key: c, text: 'Die Politiker reden wie immer dummes Zeug.' }
-        answer: b
+        answer: a
         why: '„vermeiden es, die unangenehmen Wahrheiten auszusprechen" ist sachlich; die anderen Varianten sind umgangssprachlich.'
       - q: 'In einer Stellungnahme:'
         options:
@@ -658,16 +658,16 @@ exercises:
       - q: 'In einer wirtschaftspolitischen Analyse:'
         options:
           - { key: a, text: 'Die Wirtschaft brummt, alles ist super.' }
-          - { key: b, text: 'Die wirtschaftliche Lage zeigt sich insgesamt stabil, wenngleich Risiken bestehen.' }
-          - { key: c, text: 'Es läuft alles mega.' }
-        answer: b
+          - { key: b, text: 'Es läuft alles mega.' }
+          - { key: c, text: 'Die wirtschaftliche Lage zeigt sich insgesamt stabil, wenngleich Risiken bestehen.' }
+        answer: c
         why: '„zeigt sich insgesamt stabil, wenngleich Risiken bestehen" ist sachlich; die anderen Varianten sind umgangssprachlich.'
       - q: 'In einem leserbrief an eine Zeitung:'
         options:
-          - { key: a, text: 'Ihr Artikel ist der totale Schwachsinn.' }
-          - { key: b, text: 'Ihr Artikel wirft wichtige Fragen auf, lässt aber einige Aspekte unberücksichtigt.' }
+          - { key: a, text: 'Ihr Artikel wirft wichtige Fragen auf, lässt aber einige Aspekte unberücksichtigt.' }
+          - { key: b, text: 'Ihr Artikel ist der totale Schwachsinn.' }
           - { key: c, text: 'Ihr Artikel ist echt schlecht.' }
-        answer: b
+        answer: a
         why: '„wirft wichtige Fragen auf, lässt aber … unberücksichtigt" ist höflich und sachlich; die anderen Varianten sind beleidigend.'
       - q: 'In einer Diskussionssendung:'
         options:

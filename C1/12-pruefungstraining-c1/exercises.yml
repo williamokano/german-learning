@@ -46,10 +46,10 @@ exercises:
       - q: "Warum wurde die Fachkonferenz verschoben?"
         audio: aufgabe1_gespraech1.mp3
         options:
-          - { key: a, text: "Es gab zu wenige Anmeldungen." }
-          - { key: b, text: "Die Hauptrednerin ist erkrankt." }
+          - { key: a, text: "Die Hauptrednerin ist erkrankt." }
+          - { key: b, text: "Es gab zu wenige Anmeldungen." }
           - { key: c, text: "Der Veranstaltungsraum war belegt." }
-        answer: b
+        answer: a
         why: 'Die Kollegin sagt: „Die Hauptrednerin ist kurzfristig erkrankt."'
       - q: "Was darf der Student mit der Dissertation tun?"
         audio: aufgabe1_gespraech2.mp3
@@ -62,18 +62,18 @@ exercises:
       - q: "Was fehlt noch bei dem Antrag?"
         audio: aufgabe1_gespraech3.mp3
         options:
-          - { key: a, text: "Eine beglaubigte Übersetzung des Zeugnisses." }
+          - { key: a, text: "Ein aktuelles Passfoto." }
           - { key: b, text: "Die Bearbeitungsgebühr." }
-          - { key: c, text: "Ein aktuelles Passfoto." }
-        answer: a
+          - { key: c, text: "Eine beglaubigte Übersetzung des Zeugnisses." }
+        answer: c
         why: 'Die Sachbearbeiterin: „es fehlt noch eine beglaubigte Übersetzung Ihres Zeugnisses."'
       - q: "Wozu rät der Berater der Studentin?"
         audio: aufgabe1_gespraech4.mp3
         options:
-          - { key: a, text: "Vom Auslandssemester abzusehen." }
-          - { key: b, text: "Ein Auslandssemester mit guter Planung zu machen." }
+          - { key: a, text: "Ein Auslandssemester mit guter Planung zu machen." }
+          - { key: b, text: "Vom Auslandssemester abzusehen." }
           - { key: c, text: "Zuerst das Studium zu beenden." }
-        answer: b
+        answer: a
         why: 'Der Berater: „Eindeutig. Planen Sie nur frühzeitig, dann verlieren Sie auch keine Zeit."'
       - q: "Wofür entscheiden sich die beiden Freunde?"
         audio: aufgabe1_gespraech5.mp3
@@ -166,10 +166,10 @@ exercises:
     items:
       - q: "Womit beschäftigt sich die Vortragende?"
         options:
-          - { key: a, text: "Mit der Geschichte der maschinellen Übersetzung." }
-          - { key: b, text: "Mit der Frage, wie die KI das Sprachenlernen verändert." }
+          - { key: a, text: "Mit der Frage, wie die KI das Sprachenlernen verändert." }
+          - { key: b, text: "Mit der Geschichte der maschinellen Übersetzung." }
           - { key: c, text: "Mit der Programmierung von Sprach-Apps." }
-        answer: b
+        answer: a
         why: '„Wie verändert die künstliche Intelligenz das Sprachenlernen?"'
       - q: "Welche These vertritt die Vortragende?"
         options:
@@ -181,23 +181,23 @@ exercises:
       - q: "Was kann ein Programm laut der Vortragenden bis heute oft NICHT leisten?"
         options:
           - { key: a, text: "Wörter schnell übersetzen." }
-          - { key: b, text: "Nuancen, Ironie und kulturelle Anspielungen erfassen." }
-          - { key: c, text: "Ganze Sätze erkennen." }
-        answer: b
+          - { key: b, text: "Ganze Sätze erkennen." }
+          - { key: c, text: "Nuancen, Ironie und kulturelle Anspielungen erfassen." }
+        answer: c
         why: '„versteht Nuancen, Ironie und kulturelle Anspielungen, die ein Programm bis heute oft verfehlt."'
       - q: "Welche Sorge äußert die Vortragende?"
         options:
-          - { key: a, text: "Dass die Technik zu teuer wird." }
-          - { key: b, text: "Dass man verlernt, eigenständig zu formulieren." }
+          - { key: a, text: "Dass man verlernt, eigenständig zu formulieren." }
+          - { key: b, text: "Dass die Technik zu teuer wird." }
           - { key: c, text: "Dass zu wenige Menschen Sprachen lernen." }
-        answer: b
+        answer: a
         why: '„Wer sich blind auf die Technik verlässt, verlernt womöglich, eigenständig zu formulieren."'
       - q: "Womit beendet die Vortragende ihren Vortrag?"
         options:
-          - { key: a, text: "Mit einer Aufforderung an die Bildungspolitik." }
-          - { key: b, text: "Mit einem literarischen Zitat." }
+          - { key: a, text: "Mit einem literarischen Zitat." }
+          - { key: b, text: "Mit einer Aufforderung an die Bildungspolitik." }
           - { key: c, text: "Mit einem Beispiel aus ihrer Kindheit." }
-        answer: a
+        answer: b
         why: '„möchte ich die Bildungspolitik auffordern, den kritischen Umgang mit solchen Werkzeugen fest in den Unterricht zu integrieren."'
 
   # ── Teil 2 — Lesen ────────────────────────────────────────────────────────
@@ -339,38 +339,38 @@ exercises:
         why: '„nachgehen" bildet das Perfekt mit „sein": „ist … nachgegangen".'
       - q: "Die Ergebnisse _______ (2) nahe, dass tägliches Vorlesen hilft."
         options:
-          - { key: a, text: "legen" }
-          - { key: b, text: "liegen" }
+          - { key: a, text: "liegen" }
+          - { key: b, text: "legen" }
           - { key: c, text: "stellen" }
-        answer: a
+        answer: b
         why: 'Funktionsverbgefüge „nahelegen": „die Ergebnisse legen nahe".'
       - q: "Die Forschenden führen dies _______ (3) zurück, dass mehrere Fähigkeiten zugleich trainiert werden."
         options:
-          - { key: a, text: "darauf" }
+          - { key: a, text: "daran" }
           - { key: b, text: "darüber" }
-          - { key: c, text: "daran" }
-        answer: a
+          - { key: c, text: "darauf" }
+        answer: c
         why: '„zurückführen auf + Akk." → Pronominaladverb „darauf".'
       - q: "Die Befunde _______ (4) laut den Autoren nicht überbewertet werden."
         options:
-          - { key: a, text: "dürfen" }
-          - { key: b, text: "dürften" }
+          - { key: a, text: "dürften" }
+          - { key: b, text: "dürfen" }
           - { key: c, text: "durften" }
-        answer: b
+        answer: a
         why: 'Konjunktiv II Plural („die Befunde" → „dürften") für Hedging; entspricht der Originalformulierung in Text 3.'
       - q: "Die Stichprobe _______ (5) klein gewesen, betonen die Autoren."
         options:
-          - { key: a, text: "sei" }
-          - { key: b, text: "ist" }
+          - { key: a, text: "ist" }
+          - { key: b, text: "sei" }
           - { key: c, text: "wäre" }
-        answer: a
+        answer: b
         why: 'Redewiedergabe → Konjunktiv I: „sei".'
       - q: "_______ (6) empfehlen die Autoren lautes Vorlesen als wirksame Übung."
         options:
-          - { key: a, text: "Gleichwohl" }
+          - { key: a, text: "Indem" }
           - { key: b, text: "Deshalb weil" }
-          - { key: c, text: "Indem" }
-        answer: a
+          - { key: c, text: "Gleichwohl" }
+        answer: c
         why: '„Gleichwohl" (= dennoch) leitet die Einräumung ein und steht auf Position 1 (Verb an Position 2).'
 
   # ── Teil 3 — Schreiben ────────────────────────────────────────────────────

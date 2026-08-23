@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell — Bewerbungsgespräch)
 
-1. **b) Sie bittet um eine kurze Selbsteinschätzung.** — Frau Hoffmann: „möchte ich Sie um eine kurze Selbsteinschätzung bitten".
+1. **a) Sie bittet um eine kurze Selbsteinschätzung.** — Frau Hoffmann: „möchte ich Sie um eine kurze Selbsteinschätzung bitten".
 2. **b) Komplexe Sachverhalte für Laien verständlich zu machen.** — Tomáš: „meine Fähigkeit, komplexe Sachverhalte auch einem nicht fachkundigen Publikum zugänglich zu machen".
-3. **b) Eine Sanierung mit misstrauischer Belegschaft.** — Tomáš: „Sanierungsmandat … Restrukturierungsmaßnahmen … Belegschaft … Kommunikationsoffensive".
-4. **b) Die Vereinbarkeit von Promotion und Vollzeitstelle.** — Frau Hoffmann: „die Vereinbarkeit von Projektarbeit und akademischer Forschung. Sie haben ja Ihre Promotion noch nicht abgeschlossen".
+3. **c) Eine Sanierung mit misstrauischer Belegschaft.** — Tomáš: „Sanierungsmandat … Restrukturierungsmaßnahmen … Belegschaft … Kommunikationsoffensive".
+4. **a) Die Vereinbarkeit von Promotion und Vollzeitstelle.** — Frau Hoffmann: „die Vereinbarkeit von Projektarbeit und akademischer Forschung. Sie haben ja Ihre Promotion noch nicht abgeschlossen".
 
 ## Übung H3 — Hörtext-Lückentext: Rede auf der Mitarbeiterversammlung
 
@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Anrufbeantworter einer Behörde
 
-1. **b) Die Bürgerinformation der Stadt München.** — „Sie haben die Bürgerinformation der Stadt München erreicht".
+1. **a) Die Bürgerinformation der Stadt München.** — „Sie haben die Bürgerinformation der Stadt München erreicht".
 2. **b) Wegen personeller Engpässe.** — „Aufgrund der aktuellen personellen Engpässe ist unsere telefonische Erreichbarkeit derzeit eingeschränkt".
-3. **b) Seinen Namen, seine Telefonnummer und sein Anliegen.** — „Bitte hinterlassen Sie Ihren Namen, Ihre Telefonnummer und Ihr Anliegen".
-4. **b) Die Hotline 089-12 34 56 anrufen.** — „Für dringende Angelegenheiten wenden Sie sich bitte an die Hotline 089-12 34 56".
+3. **c) Seinen Namen, seine Telefonnummer und sein Anliegen.** — „Bitte hinterlassen Sie Ihren Namen, Ihre Telefonnummer und Ihr Anliegen".
+4. **a) Die Hotline 089-12 34 56 anrufen.** — „Für dringende Angelegenheiten wenden Sie sich bitte an die Hotline 089-12 34 56".
 
 ---
 
@@ -72,8 +72,8 @@
 ## Übung A8 — Registerbruch erkennen
 
 1. **a) Satz 1 hat einen Registerbruch (Konjunktiv II + Modalpartikel mal).** — Satz 1 mischt Konjunktiv II (gehoben) mit Modalpartikel „mal“ (umgangssprachlich). Satz 2 bleibt durchgehend im gehobenen Register.
-2. **a) Satz 1 hat einen Registerbruch (förmliche Anrede + du + Modalpartikel).** — Satz 1 mischt „Sehr geehrte“ + Pronomen „dich“ + „mal“ — drei Registerbrüche. Satz 2 ist registerkonform.
-3. **a) Satz 1 hat einen Registerbruch (Konjunktiv II + Modalpartikel halt).** — Satz 1: Konjunktiv II „würde“ ist gehoben, „halt“ + „Quatsch“ sind umgangssprachlich. Satz 2 bleibt im gehobenen Register.
+2. **b) Satz 1 hat einen Registerbruch (förmliche Anrede + du + Modalpartikel).** — Satz 1 mischt „Sehr geehrte“ + Pronomen „dich“ + „mal“ — drei Registerbrüche. Satz 2 ist registerkonform.
+3. **c) Satz 1 hat einen Registerbruch (Konjunktiv II + Modalpartikel halt).** — Satz 1: Konjunktiv II „würde“ ist gehoben, „halt“ + „Quatsch“ sind umgangssprachlich. Satz 2 bleibt im gehobenen Register.
 4. **a) Satz 1 hat einen Registerbruch (direkt im Trauerkontext).** — In einer Todesanzeige ist „verstorben“ das erwartete Register; „gestorben“ wirkt dort direkt und unangemessen.
 5. **b) Satz 2 hat einen Registerbruch (zu förmlich).** — In einer WhatsApp unter Partnern ist „Ich möchte Sie bitten, das zu unterlassen“ zu förmlich — Register passt nicht zur Messenger-Form und zur Du-Anrede.
 
@@ -147,10 +147,10 @@ Modellantwort:
 
 ## Übung B5 — Konjunktiv II: nur einer pro Satz
 
-1. **b) Satz 2 ist falsch (Konjunktiv II gestapelt: würden + könnten).** — Konjunktiv II wird im Deutschen nicht gestapelt. „Würden + könnten“ zusammen in einem Satz ist falsch.
-2. **c) Beide Sätze sind korrekt.** — Beide Sätze sind korrekter Konjunktiv II: „könnten + Infinitiv“ oder „würden + Infinitiv“. Nur „würden + könnten“ wäre gestapelt.
-3. **b) Satz 2 ist falsch (würde + bitten + Indikativ im Nebensatz — Mischung).** — „Ich würde Sie bitten, das zu prüfen“ — der dass-Satz mit Indikativ ist eine Mischung aus Konjunktiv und Indikativ. Besser: „Ich bitte Sie, das zu prüfen“ (ohne würde) oder Infinitivkonstruktion.
-4. **b) Satz 2 ist falsch (Wortstellung: trennbares Verb nicht getrennt).** — „Platz nehmen“ ist ein trennbares Verb und muss im Hauptsatz getrennt werden: „nehmen … Platz“.
+1. **a) Satz 2 ist falsch (Konjunktiv II gestapelt: würden + könnten).** — Konjunktiv II wird im Deutschen nicht gestapelt. „Würden + könnten“ zusammen in einem Satz ist falsch.
+2. **b) Beide Sätze sind korrekt.** — Beide Sätze sind korrekter Konjunktiv II: „könnten + Infinitiv“ oder „würden + Infinitiv“. Nur „würden + könnten“ wäre gestapelt.
+3. **c) Satz 2 ist falsch (würde + bitten + Indikativ im Nebensatz — Mischung).** — „Ich würde Sie bitten, das zu prüfen“ — der dass-Satz mit Indikativ ist eine Mischung aus Konjunktiv und Indikativ. Besser: „Ich bitte Sie, das zu prüfen“ (ohne würde) oder Infinitivkonstruktion.
+4. **a) Satz 2 ist falsch (Wortstellung: trennbares Verb nicht getrennt).** — „Platz nehmen“ ist ein trennbares Verb und muss im Hauptsatz getrennt werden: „nehmen … Platz“.
 
 ## Übung B6 — Modalpartikeln und Höflichkeit: E-Mail ergänzen
 
@@ -167,9 +167,9 @@ Modellantwort:
 
 1. **a) Hast du mal kurz Zeit für mich?** — Messenger unter Kolleginnen = informell. Variante a passt. Variante b ist viel zu förmlich.
 2. **b) Selbstverständlich werden Ihnen die Unterlagen morgen zugestellt.** — Erstkontakt mit Mandanten = gehoben + förmlich. Variante b mit „selbstverständlich“, Passiv und „zugestellt“ passt.
-3. **b) Die Regierung plant einen Personalabbau von 500 Stellen.** — Zeitungssprache ist sachlich. Variante b mit „plant“ und „Personalabbau“ ist angemessen.
+3. **a) Die Regierung plant einen Personalabbau von 500 Stellen.** — Zeitungssprache ist sachlich. Variante b mit „plant“ und „Personalabbau“ ist angemessen.
 4. **b) Es tut mir sehr leid. Ich denke an dich.** — Im Trauerkontext sind Modalpartikeln („halt“) unangemessen. Variante b ist warm, kurz und registerkonform.
-5. **b) Leider müssen wir Ihnen mitteilen, dass wir Ihre Bewerbung nicht berücksichtigen können.** — Auch in einer Absage bleibt das Register höflich-förmlich. Variante a ist direkt beleidigend.
+5. **a) Leider müssen wir Ihnen mitteilen, dass wir Ihre Bewerbung nicht berücksichtigen können.** — Auch in einer Absage bleibt das Register höflich-förmlich. Variante a ist direkt beleidigend.
 
 ## Übung B9 — E-Mail: Zwei Versionen — eine informelle, eine formelle
 

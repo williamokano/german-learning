@@ -26,8 +26,8 @@ Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Worauf möchte Frau Yilmaz zu Beginn Bezug nehmen?  a) Auf das Angebot vom letzten Donnerstag.  b) Auf einen alten Vertrag.  c) Auf eine Mahnung.
 2. Welche Lieferzeit verlangt Frau Yilmaz?  a) Acht Wochen.  b) Sechs Wochen.  c) Vier Wochen.
-3. Wie viel Skonto verlangt Frau Yilmaz bei Zahlung binnen zehn Tagen?  a) Ein Prozent.  b) Zwei Prozent.  c) Fünf Prozent.
-4. Welche Vertragsstrafe schlägt Herr Steinmeyer vor?  a) 0,5 % pro Woche Verspätung.  b) 1 % pro Woche, maximal 5 % der Auftragssumme.  c) 10 % pauschal.
+3. Wie viel Skonto verlangt Frau Yilmaz bei Zahlung binnen zehn Tagen?  a) Ein Prozent.  b) Fünf Prozent.  c) Zwei Prozent.
+4. Welche Vertragsstrafe schlägt Herr Steinmeyer vor?  a) 1 % pro Woche, maximal 5 % der Auftragssumme.  b) 0,5 % pro Woche Verspätung.  c) 10 % pauschal.
 
 ## Übung H3 — Hörtext-Lückentext: Nachricht aus dem Sekretariat
 

@@ -888,10 +888,10 @@ exercises:
         why: "Anzeige 2 (Spandau) sagt Miete: 950 Euro."
       - q: "Welche Wohnung hat einen Balkon? — Which flat has a balcony?"
         options:
-          - { key: a, text: "Anzeige 1" }
+          - { key: a, text: "beide" }
           - { key: b, text: "Anzeige 2" }
-          - { key: c, text: "beide" }
-        answer: a
+          - { key: c, text: "Anzeige 1" }
+        answer: c
         why: "Anzeige 1 erwähnt einen Balkon; Anzeige 2 hat Garten und Garage."
       - q: "Die Wohnung in Spandau hat … — The flat in Spandau has …"
         options:

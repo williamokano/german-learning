@@ -44,10 +44,10 @@ exercises:
     items:
       - q: 'Welche Funktion hat Frau Hoffmann im Dialog?'
         options:
-          - { key: a, text: 'Sie ist die Mandantin und fragt nach dem Stand.' }
-          - { key: b, text: 'Sie ist die Senior-Partnerin und erkundigt sich nach dem Schriftsatz.' }
+          - { key: a, text: 'Sie ist die Senior-Partnerin und erkundigt sich nach dem Schriftsatz.' }
+          - { key: b, text: 'Sie ist die Mandantin und fragt nach dem Stand.' }
           - { key: c, text: 'Sie ist die Assistentin von Tomáš.' }
-        answer: b
+        answer: a
         why: 'Frau Hoffmann ist Senior-Partnerin der Kanzlei und ruft Tomáš an, um den Stand des Schriftsatzes zu erfahren.'
       - q: 'Wann will Tomáš der Mandantin das Manuskript zukommen lassen?'
         options:
@@ -59,16 +59,16 @@ exercises:
       - q: 'Was bittet Frau Hoffmann Tomáš, bis 16 Uhr zu mailen?'
         options:
           - { key: a, text: 'Den fertigen Schriftsatz.' }
-          - { key: b, text: 'Eine kurze Zusammenfassung mit den Kernthesen.' }
-          - { key: c, text: 'Den Lebenslauf der Mandantin.' }
-        answer: b
+          - { key: b, text: 'Den Lebenslauf der Mandantin.' }
+          - { key: c, text: 'Eine kurze Zusammenfassung mit den Kernthesen.' }
+        answer: c
         why: 'Frau Hoffmann: „Könnten Sie mir bis 16 Uhr eine kurze Zusammenfassung mit den Kernthesen mailen?".'
       - q: 'Welche Frage stellt Tomáš am Ende des Gesprächs?'
         options:
-          - { key: a, text: 'Ob er den Termin verschieben kann.' }
-          - { key: b, text: 'Ob der Ton des Schriftsatzes sachlich oder locker sein soll.' }
+          - { key: a, text: 'Ob der Ton des Schriftsatzes sachlich oder locker sein soll.' }
+          - { key: b, text: 'Ob er den Termin verschieben kann.' }
           - { key: c, text: 'Ob er Urlaub nehmen kann.' }
-        answer: b
+        answer: a
         why: 'Tomáš: „Die Mandantin hatte ja ursprünglich einen anderen Ton gewünscht — sollen wir den jetzt beibehalten oder eher zurücknehmen?".'
 
   - id: H3
@@ -119,16 +119,16 @@ exercises:
       - q: 'Welche Information soll der Anrufer hinterlassen?'
         options:
           - { key: a, text: 'Sein Geburtsdatum und seine Adresse.' }
-          - { key: b, text: 'Seinen Namen, seine Telefonnummer und das gewünschte Sprachniveau.' }
-          - { key: c, text: 'Seine Kreditkartennummer.' }
-        answer: b
+          - { key: b, text: 'Seine Kreditkartennummer.' }
+          - { key: c, text: 'Seinen Namen, seine Telefonnummer und das gewünschte Sprachniveau.' }
+        answer: c
         why: '„Bitte hinterlassen Sie Ihren Namen, Ihre Telefonnummer und das gewünschte Sprachniveau".'
       - q: 'Welche Hotline gilt für C1-Kurs-Anfragen?'
         options:
-          - { key: a, text: '030-12 34 56.' }
-          - { key: b, text: '030-44 55 66.' }
+          - { key: a, text: '030-44 55 66.' }
+          - { key: b, text: '030-12 34 56.' }
           - { key: c, text: '030-98 76 54.' }
-        answer: b
+        answer: a
         why: '„Für Anfragen zu unseren C1-Kursen wenden Sie sich bitte an die Hotline 030-44 55 66".'
 
   - id: H5

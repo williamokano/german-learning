@@ -31,10 +31,10 @@
 
 ## Übung H4 — Kurze Ansage: Anruf von Petra
 
-1. **b) Sie möchte sich mit der Person treffen.** — „Ich möchte mich gerne mit dir treffen".
+1. **a) Sie möchte sich mit der Person treffen.** — „Ich möchte mich gerne mit dir treffen".
 2. **b) Im Deutschkurs.** — „Ich bin deine neue Kollegin aus dem Deutschkurs".
-3. **b) Einen Kaffee trinken.** — „Wir können zusammen einen Kaffee trinken".
-4. **c) Vier-sieben-eins-eins.** — „Meine Nummer ist vier-sieben-eins-eins".
+3. **c) Einen Kaffee trinken.** — „Wir können zusammen einen Kaffee trinken".
+4. **a) Vier-sieben-eins-eins.** — „Meine Nummer ist vier-sieben-eins-eins".
 
 ---
 

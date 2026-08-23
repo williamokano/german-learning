@@ -668,10 +668,10 @@ exercises:
     items:
       - q: "Ich gehe früh schlafen, weil ich morgen früh aufstehen ___."
         options:
-          - { key: a, text: "muss aufstehen" }
-          - { key: b, text: "aufstehen muss" }
+          - { key: a, text: "aufstehen muss" }
+          - { key: b, text: "muss aufstehen" }
           - { key: c, text: "muss" }
-        answer: b
+        answer: a
         why: "Infinitive before modal, both at end."
       - q: "Er kommt nicht, weil er arbeiten ___."
         options:
@@ -683,16 +683,16 @@ exercises:
       - q: "Wir nehmen das Taxi, weil wir schnell ankommen ___."
         options:
           - { key: a, text: "wollen" }
-          - { key: b, text: "ankommen wollen" }
-          - { key: c, text: "wollen ankommen" }
-        answer: b
+          - { key: b, text: "wollen ankommen" }
+          - { key: c, text: "ankommen wollen" }
+        answer: c
         why: "Infinitive before modal."
       - q: "Sie bleibt zu Hause, weil sie sich ausruhen ___."
         options:
-          - { key: a, text: "soll ausruhen" }
-          - { key: b, text: "ausruhen soll" }
+          - { key: a, text: "ausruhen soll" }
+          - { key: b, text: "soll ausruhen" }
           - { key: c, text: "soll ausruhen" }
-        answer: b
+        answer: a
         why: "Infinitive before modal."
 
   # ── Block C — Prüfungstraining ───────────────────────────────────────────

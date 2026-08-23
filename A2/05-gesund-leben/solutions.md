@@ -13,10 +13,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) er sich bei der Arbeit sehr gestresst fühlt.** — Er fühlt sich bei der Arbeit sehr gestresst.
-2. **c) Ein Magnesiumpräparat nehmen und sich jeden Abend entspannen.** — Magnesiumpräparat + 15 Min. ohne Bildschirm.
-3. **b) Seit drei Tagen.** — Seit drei Tagen.
-4. **b) Er soll sich abends ohne Bildschirm entspannen.** — Sich abends ohne Bildschirm entspannen.
+1. **a) er sich bei der Arbeit sehr gestresst fühlt.** — Er fühlt sich bei der Arbeit sehr gestresst.
+2. **b) Ein Magnesiumpräparat nehmen und sich jeden Abend entspannen.** — Magnesiumpräparat + 15 Min. ohne Bildschirm.
+3. **c) Seit drei Tagen.** — Seit drei Tagen.
+4. **a) Er soll sich abends ohne Bildschirm entspannen.** — Sich abends ohne Bildschirm entspannen.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -24,10 +24,10 @@
 
 ## Übung H4 — Kurze Ansage: Anrufbeantworter Arztpraxis
 
-1. **b) In einer Arztpraxis.** — „Sie haben den Anrufbeantworter der Praxis Dr. Berger erreicht."
-2. **a) Am Donnerstag, dem zwölften Juni.** — Donnerstag, dem zwölften Juni.
-3. **b) Die Versichertenkarte und den Impfpass.** — Versichertenkarte und Impfpass.
-4. **b) Vierundzwanzig Stunden.** — Vierundzwanzig Stunden.
+1. **a) In einer Arztpraxis.** — „Sie haben den Anrufbeantworter der Praxis Dr. Berger erreicht."
+2. **b) Am Donnerstag, dem zwölften Juni.** — Donnerstag, dem zwölften Juni.
+3. **c) Die Versichertenkarte und den Impfpass.** — Versichertenkarte und Impfpass.
+4. **a) Vierundzwanzig Stunden.** — Vierundzwanzig Stunden.
 
 ## Übung H5 — Tabelle ausfüllen: Dialog B (Apotheken-Beratung)
 

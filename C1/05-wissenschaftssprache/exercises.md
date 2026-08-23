@@ -89,10 +89,10 @@ Hör Dialog B noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine I
 
 Wähle die unpersönliche, wissenschaftliche Formulierung (a, b oder c).
 
-1. Welcher Satz passt in eine Hausarbeit?  a) Ich habe 200 Personen befragt.  b) Es wurden 200 Personen befragt.  c) Ich glaube, 200 Leute oder so wurden gefragt.
+1. Welcher Satz passt in eine Hausarbeit?  a) Es wurden 200 Personen befragt.  b) Ich habe 200 Personen befragt.  c) Ich glaube, 200 Leute oder so wurden gefragt.
 2. Welcher Satz ist am sachlichsten?  a) Man kann das ja wohl kaum bestreiten.  b) Das lässt sich nicht eindeutig beantworten.  c) Ich finde, das ist total klar.
-3. Welche Formulierung ist im Fachstil korrekt?  a) In dieser Arbeit wird untersucht, ob …  b) In dieser Arbeit untersuche ich von mir, ob …  c) Ich tu in dieser Arbeit untersuchen, ob …
-4. Welcher Satz nutzt einen korrekten Passiversatz?  a) Die These ist sich belegen.  b) Die These lässt sich belegen.  c) Die These wird sich belegt.
+3. Welche Formulierung ist im Fachstil korrekt?  a) Ich tu in dieser Arbeit untersuchen, ob …  b) In dieser Arbeit untersuche ich von mir, ob …  c) In dieser Arbeit wird untersucht, ob …
+4. Welcher Satz nutzt einen korrekten Passiversatz?  a) Die These lässt sich belegen.  b) Die These ist sich belegen.  c) Die These wird sich belegt.
 5. Welcher Satz ist ein korrektes Zustandspassiv?  a) Die Auswertung wird abgeschlossen geworden.  b) Die Auswertung ist abgeschlossen.  c) Die Auswertung hat abgeschlossen.
 
 ## Übung A2 — Passiv und Passiversatz bilden
@@ -124,8 +124,8 @@ Forme den Passiversatz. Setze das fehlende Wort ein. 6 Items.
 Wähle die korrekte nominale Entsprechung (a, b oder c).
 
 1. „weil die Daten erhoben wurden" — nominal:  a) aufgrund der Datenerhebung  b) wegen die Daten erheben  c) aufgrund dass Daten erhoben
-2. „nachdem die Studie durchgeführt wurde" — nominal:  a) nach Durchführung der Studie  b) nach durchführen die Studie  c) nachdem der Durchführung
-3. „obwohl die Stichprobe klein war" — nominal:  a) trotz der kleinen Stichprobe  b) wegen der kleinen Stichprobe  c) trotz die kleine Stichprobe
+2. „nachdem die Studie durchgeführt wurde" — nominal:  a) nach durchführen die Studie  b) nach Durchführung der Studie  c) nachdem der Durchführung
+3. „obwohl die Stichprobe klein war" — nominal:  a) trotz die kleine Stichprobe  b) wegen der kleinen Stichprobe  c) trotz der kleinen Stichprobe
 4. „wenn die Methode angewendet wird" — nominal:  a) bei Anwendung der Methode  b) bei anwenden die Methode  c) wenn der Anwendung
 5. Welcher Satz ist übernominalisiert (zu viele Nomen)?  a) Die Daten wurden ausgewertet.  b) Die Vornahme der Durchführung der Auswertung der Daten erfolgte.  c) Nach der Auswertung zeigt sich, dass …
 
@@ -143,11 +143,11 @@ Forme in den Nominalstil um. Setze das fehlende Wort ein. 5 Items.
 
 Wähle die wissenschaftlich vorsichtige (abgeschwächte) Formulierung.
 
-1. Welcher Satz formuliert vorsichtig (Hedging)?  a) Das beweist eindeutig, dass Schlaf wichtig ist.  b) Die Daten deuten darauf hin, dass Schlaf wichtig ist.  c) Schlaf ist zu 100 % am wichtigsten.
+1. Welcher Satz formuliert vorsichtig (Hedging)?  a) Die Daten deuten darauf hin, dass Schlaf wichtig ist.  b) Das beweist eindeutig, dass Schlaf wichtig ist.  c) Schlaf ist zu 100 % am wichtigsten.
 2. Welcher Satz ist angemessen vorsichtig?  a) Alle Menschen reagieren gleich.  b) Die meisten Menschen reagieren ähnlich.  c) Jeder Mensch reagiert garantiert gleich.
-3. Welche Vermutung ist korrekt mit einem Modalverb formuliert?  a) Das ist definitiv der Grund.  b) Das dürfte ein wesentlicher Grund sein.  c) Das ist hundertprozentig der Grund.
-4. Welcher Satz ist NICHT übertrieben gehedgt?  a) Das könnte eventuell vielleicht unter Umständen so sein.  b) Das könnte zutreffen.  c) Das deutet darauf hin, dass es definitiv so ist.
-5. Welche Wendung markiert Distanz zu einer Behauptung?  a) Es spricht einiges dafür, dass …  b) Es ist sonnenklar, dass …  c) Jeder weiß doch, dass …
+3. Welche Vermutung ist korrekt mit einem Modalverb formuliert?  a) Das ist definitiv der Grund.  b) Das ist hundertprozentig der Grund.  c) Das dürfte ein wesentlicher Grund sein.
+4. Welcher Satz ist NICHT übertrieben gehedgt?  a) Das könnte zutreffen.  b) Das könnte eventuell vielleicht unter Umständen so sein.  c) Das deutet darauf hin, dass es definitiv so ist.
+5. Welche Wendung markiert Distanz zu einer Behauptung?  a) Es ist sonnenklar, dass …  b) Es spricht einiges dafür, dass …  c) Jeder weiß doch, dass …
 
 ## Übung A7 — Hedging-Mittel einsetzen
 

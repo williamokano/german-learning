@@ -107,10 +107,10 @@ exercises:
     items:
       - q: "Wo ist Lisa gerade?"
         options:
-          - { key: a, text: "Am Flughafen in Berlin." }
-          - { key: b, text: "Am Flughafen in Lissabon." }
+          - { key: a, text: "Am Flughafen in Lissabon." }
+          - { key: b, text: "Am Flughafen in Berlin." }
           - { key: c, text: "Am Flughafen in Wien." }
-        answer: b
+        answer: a
         why: '„Ich bin gerade am Flughafen in Lissabon gelandet".'
       - q: "Warum wird Lisa erst am Dienstag zurückfliegen?"
         options:
@@ -121,17 +121,17 @@ exercises:
         why: '„Mein Flug nach Berlin am Sonntag wurde gestrichen".'
       - q: "Was wird die Airline für Lisa tun?"
         options:
-          - { key: a, text: "Sie wird ihr ein Hotel für zwei Nächte bezahlen." }
+          - { key: a, text: "Sie wird sie mit dem Bus nach Hause bringen." }
           - { key: b, text: "Sie wird ihr ein neues Flugticket schenken." }
-          - { key: c, text: "Sie wird sie mit dem Bus nach Hause bringen." }
-        answer: a
+          - { key: c, text: "Sie wird ihr ein Hotel für zwei Nächte bezahlen." }
+        answer: c
         why: '„Die Airline wird mir ein Hotel für zwei Nächte bezahlen".'
       - q: "Wann wird Lisa in Berlin landen?"
         options:
-          - { key: a, text: "Am Sonntag um achtzehn Uhr." }
-          - { key: b, text: "Am Dienstag um achtzehn Uhr." }
+          - { key: a, text: "Am Dienstag um achtzehn Uhr." }
+          - { key: b, text: "Am Sonntag um achtzehn Uhr." }
           - { key: c, text: "Am Mittwoch um achtzehn Uhr." }
-        answer: b
+        answer: a
         why: '„Ich werde am Dienstag um achtzehn Uhr in Berlin landen".'
 
   - id: H5

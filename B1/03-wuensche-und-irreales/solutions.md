@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Mehr Praxiserfahrung im Studium.** — Anna: "Ich wünschte, ich hätte schon im Studium mehr Praxiserfahrung gesammelt."
+1. **a) Mehr Praxiserfahrung im Studium.** — Anna: "Ich wünschte, ich hätte schon im Studium mehr Praxiserfahrung gesammelt."
 2. **b) Prüfen, ob das Unternehmen Mobilitätsprogramme anbietet.** — Herr Steinmeyer: "An Ihrer Stelle würde ich zunächst prüfen, ob Ihr Unternehmen interne Mobilitätsprogramme anbietet."
 3. **c) In die Forschung gehen.** — Anna: "Wenn ich von vorne anfangen könnte, würde ich vielleicht eher in die Forschung gehen."
-4. **b) Jeder Karriereweg hat Umwege.** — Herr Steinmeyer: "Jeder Karriereweg hat Umwege. Die Frage ist, was man daraus lernt."
+4. **a) Jeder Karriereweg hat Umwege.** — Herr Steinmeyer: "Jeder Karriereweg hat Umwege. Die Frage ist, was man daraus lernt."
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Voicemail von Anna an Mia
 
-1. **b) Um zu sagen, dass sie nicht mitkommen kann.** — "Ich kann es leider nicht zu eurem Wochenendausflug nach Leipzig schaffen."
+1. **a) Um zu sagen, dass sie nicht mitkommen kann.** — "Ich kann es leider nicht zu eurem Wochenendausflug nach Leipzig schaffen."
 2. **b) Weil sie zu viel Arbeit hat.** — "Wenn ich nicht so viel Arbeit hätte, würde ich sofort mitkommen."
-3. **a) Früher Bescheid zu bekommen, damit sie sich freinehmen kann.** — "würde ich gern früher Bescheid wissen, damit ich mir den Termin freinehmen kann"
-4. **b) Anna zurückrufen, wenn sie wieder da ist.** — "Bitte ruf mich zurück, wenn ihr wieder da seid."
+3. **c) Früher Bescheid zu bekommen, damit sie sich freinehmen kann.** — "würde ich gern früher Bescheid wissen, damit ich mir den Termin freinehmen kann"
+4. **a) Anna zurückrufen, wenn sie wieder da ist.** — "Bitte ruf mich zurück, wenn ihr wieder da seid."
 
 ---
 
@@ -142,10 +142,10 @@
 
 ## Übung B8 — Leseverstehen: Lesetext (Was ich mir für die Zukunft wünsche)
 
-1. **b) Sie wünschte, sie hätte früher Deutsch gelernt.** — "Ich wünschte, ich hätte schon früher Deutsch gelernt — nicht erst mit 22."
+1. **a) Sie wünschte, sie hätte früher Deutsch gelernt.** — "Ich wünschte, ich hätte schon früher Deutsch gelernt — nicht erst mit 22."
 2. **b) Ein Jahr durch Europa reisen.** — "Wenn ich komplett frei wäre, würde ich ein Jahr lang durch Europa reisen."
 3. **c) Dass sie viele Chancen nicht ergriffen hat, weil sie Angst hatte.** — "wie viele Chancen ich nicht ergriffen habe, weil ich Angst hatte zu scheitern — das ist mein größtes Bedauern"
-4. **b) Nicht zu warten, bis alles perfekt ist.** — "Vielleicht ist das der wichtigste Wunsch: nicht warten, bis alles perfekt ist."
+4. **a) Nicht zu warten, bis alles perfekt ist.** — "Vielleicht ist das der wichtigste Wunsch: nicht warten, bis alles perfekt ist."
 
 ## Übung B9 — WhatsApp-Ratschlag: Brunos Karriereentscheidung
 
@@ -196,9 +196,9 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2: Ratgeberkolumne — Karrierewechsel
 
-1. **b) Ein klares Bild davon entwickeln, was man wirklich will.** — "An Ihrer Stelle würde ich zunächst ein klares Bild davon entwickeln, was Sie wirklich wollen."
+1. **a) Ein klares Bild davon entwickeln, was man wirklich will.** — "An Ihrer Stelle würde ich zunächst ein klares Bild davon entwickeln, was Sie wirklich wollen."
 2. **b) Informelle Gespräche mit Leuten in der Wunschbranche führen.** — "Es wäre besser, wenn Sie informelle Gespräche mit Leuten in Ihrer Wunschbranche führen würden."
-3. **b) Er wäre riskant, aber in einer unglücklichen Situation zu bleiben, wäre riskanter.** — "wäre ein Wechsel riskant, aber wenn Sie … in einer Situation bleiben würden … wäre das noch riskanter"
+3. **c) Er wäre riskant, aber in einer unglücklichen Situation zu bleiben, wäre riskanter.** — "wäre ein Wechsel riskant, aber wenn Sie … in einer Situation bleiben würden … wäre das noch riskanter"
 4. **a) Den Vorgesetzten offen ansprechen.** — "Ich würde Ihnen außerdem empfehlen, Ihren Vorgesetzten offen anzusprechen."
 
 ## Übung C5 — Schreiben B1: Forumsbeitrag

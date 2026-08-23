@@ -107,10 +107,10 @@ exercises:
     items:
       - q: "Worum geht es in der Nachricht?"
         options:
-          - { key: a, text: "Um eine Einladung zu einer Lesung." }
-          - { key: b, text: "Um Hinweise zum Einsenden von Leserbriefen." }
+          - { key: a, text: "Um Hinweise zum Einsenden von Leserbriefen." }
+          - { key: b, text: "Um eine Einladung zu einer Lesung." }
           - { key: c, text: "Um eine Spendenbitte." }
-        answer: b
+        answer: a
         why: '„Wenn Sie einen Leserbrief einsenden möchten, nutzen Sie bitte unsere Online-Adresse."'
       - q: "Wohin soll man einen Leserbrief schicken?"
         options:
@@ -121,17 +121,17 @@ exercises:
         why: '„nutzen Sie bitte unsere Online-Adresse."'
       - q: "Mit welcher Wartezeit muss man bei einer Antwort rechnen?"
         options:
-          - { key: a, text: "Bis zu zehn Werktage." }
+          - { key: a, text: "Sofort." }
           - { key: b, text: "Bis zu zehn Wochen." }
-          - { key: c, text: "Sofort." }
-        answer: a
+          - { key: c, text: "Bis zu zehn Werktage." }
+        answer: c
         why: '„müssen Sie mit einer Wartezeit von bis zu zehn Werktagen rechnen."'
       - q: "Was empfiehlt die Redaktion für gute Leserbriefe?"
         options:
-          - { key: a, text: "Viele Ausrufezeichen und Großbuchstaben." }
-          - { key: b, text: "Sachliche Formulierung und Beispiele als Belege." }
+          - { key: a, text: "Sachliche Formulierung und Beispiele als Belege." }
+          - { key: b, text: "Viele Ausrufezeichen und Großbuchstaben." }
           - { key: c, text: "Möglichst kurze Briefe mit einem Satz." }
-        answer: b
+        answer: a
         why: '„Meiner Erfahrung nach lohnt es sich, den Brief sachlich zu formulieren und die wichtigsten Argumente mit Beispielen zu belegen."'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
@@ -715,24 +715,24 @@ exercises:
     items:
       - q: "Ich _______ der Ansicht, dass Homeoffice mehr Vorteile als Nachteile hat."
         options:
-          - { key: a, text: "glaube" }
-          - { key: b, text: "bin" }
+          - { key: a, text: "bin" }
+          - { key: b, text: "glaube" }
           - { key: c, text: "habe" }
-        answer: b
+        answer: a
         why: '"Ich bin der Ansicht, dass …" ist die formelle Standardformel.'
       - q: "Meiner Meinung _______ überwiegen die Vorteile."
         options:
-          - { key: a, text: "nach" }
-          - { key: b, text: "zu" }
+          - { key: a, text: "zu" }
+          - { key: b, text: "nach" }
           - { key: c, text: "von" }
-        answer: a
+        answer: b
         why: '"Meiner Meinung nach" ist eine feste Präpositionalkonstruktion.'
       - q: "_______ dient eine Studie der TU Berlin aus dem Jahr 2024."
         options:
-          - { key: a, text: "Als Beispiel" }
+          - { key: a, text: "Für Beispiel" }
           - { key: b, text: "Zum Beispiel" }
-          - { key: c, text: "Für Beispiel" }
-        answer: a
+          - { key: c, text: "Als Beispiel" }
+        answer: c
         why: '"Als Beleg/Beispiel dient …" ist die korrekte Formel.'
       - q: "_______ lässt sich sagen, dass die Vorteile überwiegen."
         options:
@@ -743,17 +743,17 @@ exercises:
         why: '"Zusammenfassend lässt sich sagen, dass …" ist die Standard-Fazit-Formel.'
       - q: "_______ nicht jeder Leserbrief perfekt sein muss, so steigt die Qualität der Debatte."
         options:
-          - { key: a, text: "Obwohl" }
-          - { key: b, text: "Trotzdem" }
+          - { key: a, text: "Trotzdem" }
+          - { key: b, text: "Obwohl" }
           - { key: c, text: "Dennoch" }
-        answer: a
+        answer: b
         why: '"Obwohl" leitet einen Nebensatz ein (Verb am Ende); „trotzdem" und „dennoch" sind Hauptsatz-Adverbien.'
       - q: "Diesem Argument _______ entgegenzuhalten, dass die Erfahrung das Gegenteil zeigt."
         options:
-          - { key: a, text: "ist" }
+          - { key: a, text: "wird" }
           - { key: b, text: "hat" }
-          - { key: c, text: "wird" }
-        answer: a
+          - { key: c, text: "ist" }
+        answer: c
         why: '"Diesem Argument ist entgegenzuhalten, dass …" ist die feste Passiv-Formel.'
 
   - id: C3

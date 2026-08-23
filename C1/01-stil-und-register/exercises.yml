@@ -45,10 +45,10 @@ exercises:
     items:
       - q: "Welche Frage stellt Frau Hoffmann zu Beginn?"
         options:
-          - { key: a, text: "Sie fragt nach dem Privatleben des Bewerbers." }
-          - { key: b, text: "Sie bittet um eine kurze Selbsteinschätzung." }
+          - { key: a, text: "Sie bittet um eine kurze Selbsteinschätzung." }
+          - { key: b, text: "Sie fragt nach dem Privatleben des Bewerbers." }
           - { key: c, text: "Sie fragt nach dem Gehaltswunsch." }
-        answer: b
+        answer: a
         why: 'Frau Hoffmann: „möchte ich Sie um eine kurze Selbsteinschätzung bitten".'
       - q: "Was hebt der Bewerber als seine besondere Stärke hervor?"
         options:
@@ -60,16 +60,16 @@ exercises:
       - q: "Welches Beispiel nennt der Bewerber für seine Übersetzungsleistung?"
         options:
           - { key: a, text: "Eine neue Software-Einführung." }
-          - { key: b, text: "Eine Sanierung mit misstrauischer Belegschaft." }
-          - { key: c, text: "Ein internationales M&A-Projekt." }
-        answer: b
+          - { key: b, text: "Ein internationales M&A-Projekt." }
+          - { key: c, text: "Eine Sanierung mit misstrauischer Belegschaft." }
+        answer: c
         why: 'Tomáš: „Sanierungsmandat … Restrukturierungsmaßnahmen … Belegschaft … Kommunikationsoffensive".'
       - q: "Welchen Punkt spricht Frau Hoffmann am Ende kritisch an?"
         options:
-          - { key: a, text: "Die Sprachkenntnisse des Bewerbers." }
-          - { key: b, text: "Die Vereinbarkeit von Promotion und Vollzeitstelle." }
+          - { key: a, text: "Die Vereinbarkeit von Promotion und Vollzeitstelle." }
+          - { key: b, text: "Die Sprachkenntnisse des Bewerbers." }
           - { key: c, text: "Die fehlende Erfahrung im DACH-Raum." }
-        answer: b
+        answer: a
         why: 'Frau Hoffmann: „die Vereinbarkeit von Projektarbeit und akademischer Forschung. Sie haben ja Ihre Promotion noch nicht abgeschlossen".'
 
   - id: H3
@@ -105,10 +105,10 @@ exercises:
     items:
       - q: "Welche Einheit ist auf dem Anrufbeantworter zu hören?"
         options:
-          - { key: a, text: "Eine Arztpraxis." }
-          - { key: b, text: "Die Bürgerinformation der Stadt München." }
+          - { key: a, text: "Die Bürgerinformation der Stadt München." }
+          - { key: b, text: "Eine Arztpraxis." }
           - { key: c, text: "Eine Versicherungsgesellschaft." }
-        answer: b
+        answer: a
         why: '„Sie haben die Bürgerinformation der Stadt München erreicht".'
       - q: "Warum ist die telefonische Erreichbarkeit eingeschränkt?"
         options:
@@ -120,16 +120,16 @@ exercises:
       - q: "Welche Information soll der Anrufer hinterlassen?"
         options:
           - { key: a, text: "Sein Geburtsdatum und seine Adresse." }
-          - { key: b, text: "Seinen Namen, seine Telefonnummer und sein Anliegen." }
-          - { key: c, text: "Seine Versicherungsnummer." }
-        answer: b
+          - { key: b, text: "Seine Versicherungsnummer." }
+          - { key: c, text: "Seinen Namen, seine Telefonnummer und sein Anliegen." }
+        answer: c
         why: '„Bitte hinterlassen Sie Ihren Namen, Ihre Telefonnummer und Ihr Anliegen".'
       - q: "Was sollen Anrufer bei dringenden Angelegenheiten tun?"
         options:
-          - { key: a, text: "Eine E-Mail schreiben." }
-          - { key: b, text: "Die Hotline 089-12 34 56 anrufen." }
+          - { key: a, text: "Die Hotline 089-12 34 56 anrufen." }
+          - { key: b, text: "Eine E-Mail schreiben." }
           - { key: c, text: "Am nächsten Tag noch einmal anrufen." }
-        answer: b
+        answer: a
         why: '„Für dringende Angelegenheiten wenden Sie sich bitte an die Hotline 089-12 34 56".'
 
   # ── Block A — Basistraining ───────────────────────────────────────────────
@@ -366,17 +366,17 @@ exercises:
         why: "Satz 1 mischt Konjunktiv II (gehoben) mit Modalpartikel „mal“ (umgangssprachlich). Satz 2 bleibt durchgehend im gehobenen Register."
       - q: "(1) „Sehr geehrte Frau Weber, ich wollte dich mal was fragen.“ (2) „Sehr geehrte Frau Weber, ich möchte Sie um eine Auskunft bitten.“"
         options:
-          - { key: a, text: "Satz 1 hat einen Registerbruch (förmliche Anrede + du + Modalpartikel)." }
-          - { key: b, text: "Satz 2 hat einen Registerbruch (förmliche Anrede + Konjunktiv)." }
+          - { key: a, text: "Satz 2 hat einen Registerbruch (förmliche Anrede + Konjunktiv)." }
+          - { key: b, text: "Satz 1 hat einen Registerbruch (förmliche Anrede + du + Modalpartikel)." }
           - { key: c, text: "Beide Sätze sind registerkonform." }
-        answer: a
+        answer: b
         why: "Satz 1 mischt „Sehr geehrte“ + Pronomen „dich“ + „mal“ — drei Registerbrüche. Satz 2 ist registerkonform."
       - q: "(1) „Ich würde sagen, das ist halt Quatsch.“ (2) „Ich würde sagen, das ist nicht ganz zutreffend.“"
         options:
-          - { key: a, text: "Satz 1 hat einen Registerbruch (Konjunktiv II + Modalpartikel halt)." }
+          - { key: a, text: "Beide Sätze sind registerkonform." }
           - { key: b, text: "Satz 2 hat einen Registerbruch (Konjunktiv II + Untertreibung)." }
-          - { key: c, text: "Beide Sätze sind registerkonform." }
-        answer: a
+          - { key: c, text: "Satz 1 hat einen Registerbruch (Konjunktiv II + Modalpartikel halt)." }
+        answer: c
         why: "Satz 1: Konjunktiv II „würde“ ist gehoben, „halt“ + „Quatsch“ sind umgangssprachlich. Satz 2 bleibt im gehobenen Register."
       - q: "(1) „Er ist gestorben.“ (in einer Todesanzeige) (2) „Er ist verstorben.“ (in einer Todesanzeige)"
         options:
@@ -541,31 +541,31 @@ exercises:
     items:
       - q: "(1) „Würden Sie das machen?“ (2) „Würden Sie das könnten machen?“"
         options:
-          - { key: a, text: "Satz 1 ist falsch (Konjunktiv II ohne Hauptverb)." }
-          - { key: b, text: "Satz 2 ist falsch (Konjunktiv II gestapelt: würden + könnten)." }
+          - { key: a, text: "Satz 2 ist falsch (Konjunktiv II gestapelt: würden + könnten)." }
+          - { key: b, text: "Satz 1 ist falsch (Konjunktiv II ohne Hauptverb)." }
           - { key: c, text: "Beide Sätze sind korrekt." }
-        answer: b
+        answer: a
         why: "Konjunktiv II wird im Deutschen nicht gestapelt. „Würden + könnten“ zusammen in einem Satz ist falsch."
       - q: "(1) „Könnten Sie mir helfen?“ (2) „Würden Sie mir helfen können?“"
         options:
           - { key: a, text: "Satz 1 ist falsch (Konjunktiv II von können)." }
-          - { key: b, text: "Satz 2 ist falsch (würden + Infinitiv mit Endstellung — korrekt, aber Konjunktiv II von „werden“ ist hier nicht nötig)." }
-          - { key: c, text: "Beide Sätze sind korrekt." }
-        answer: c
+          - { key: b, text: "Beide Sätze sind korrekt." }
+          - { key: c, text: "Satz 2 ist falsch (würden + Infinitiv mit Endstellung — korrekt, aber Konjunktiv II von „werden“ ist hier nicht nötig)." }
+        answer: b
         why: "Beide Sätze sind korrekter Konjunktiv II: „könnten + Infinitiv“ oder „würden + Infinitiv“. Nur „würden + könnten“ wäre gestapelt."
       - q: "(1) „Ich würde sagen, dass die Ergebnisse vielversprechend sind.“ (2) „Ich würde Sie bitten, dass Sie das prüfen.“"
         options:
           - { key: a, text: "Satz 1 ist falsch (Konjunktiv + Indikativ im Nebensatz)." }
-          - { key: b, text: "Satz 2 ist falsch (würde + bitten + Indikativ im Nebensatz — Mischung)." }
-          - { key: c, text: "Beide Sätze sind korrekt." }
-        answer: b
+          - { key: b, text: "Beide Sätze sind korrekt." }
+          - { key: c, text: "Satz 2 ist falsch (würde + bitten + Indikativ im Nebensatz — Mischung)." }
+        answer: c
         why: "„Ich würde Sie bitten, das zu prüfen“ — der dass-Satz mit Indikativ ist eine Mischung aus Konjunktiv und Indikativ. Besser: „Ich bitte Sie, das zu prüfen“ (ohne würde) oder Infinitivkonstruktion."
       - q: "(1) „Würden Sie bitte Platz nehmen?“ (2) „Würden Sie bitte nehmen Platz?“"
         options:
-          - { key: a, text: "Satz 1 ist falsch (Konjunktiv II von werden + Infinitiv)." }
-          - { key: b, text: "Satz 2 ist falsch (Wortstellung: trennbares Verb nicht getrennt)." }
+          - { key: a, text: "Satz 2 ist falsch (Wortstellung: trennbares Verb nicht getrennt)." }
+          - { key: b, text: "Satz 1 ist falsch (Konjunktiv II von werden + Infinitiv)." }
           - { key: c, text: "Beide Sätze sind korrekt." }
-        answer: b
+        answer: a
         why: "„Platz nehmen“ ist ein trennbares Verb und muss im Hauptsatz getrennt werden: „nehmen … Platz“."
 
   - id: B6
@@ -631,9 +631,9 @@ exercises:
         why: "Erstkontakt mit Mandanten = gehoben + förmlich. Variante b mit „selbstverständlich“, Passiv und „zugestellt“ passt."
       - q: "In einem Zeitungsartikel über eine politische Entscheidung (sachlich):"
         options:
-          - { key: a, text: "Die Regierung schmeißt 500 Leute raus." }
-          - { key: b, text: "Die Regierung plant einen Personalabbau von 500 Stellen." }
-        answer: b
+          - { key: a, text: "Die Regierung plant einen Personalabbau von 500 Stellen." }
+          - { key: b, text: "Die Regierung schmeißt 500 Leute raus." }
+        answer: a
         why: "Zeitungssprache ist sachlich. Variante b mit „plant“ und „Personalabbau“ ist angemessen."
       - q: "In einem Brief an einen trauernden Freund (warm, aber nicht floskelhaft):"
         options:
@@ -643,9 +643,9 @@ exercises:
         why: "Im Trauerkontext sind Modalpartikeln („halt“) unangemessen. Variante b ist warm, kurz und registerkonform."
       - q: "In einer E-Mail an einen Bewerber, der abgelehnt wird (höflich, aber klar):"
         options:
-          - { key: a, text: "Sie sind halt nicht gut genug." }
-          - { key: b, text: "Leider müssen wir Ihnen mitteilen, dass wir Ihre Bewerbung nicht berücksichtigen können." }
-        answer: b
+          - { key: a, text: "Leider müssen wir Ihnen mitteilen, dass wir Ihre Bewerbung nicht berücksichtigen können." }
+          - { key: b, text: "Sie sind halt nicht gut genug." }
+        answer: a
         why: "Auch in einer Absage bleibt das Register höflich-förmlich. Variante a ist direkt beleidigend."
 
   - id: B9

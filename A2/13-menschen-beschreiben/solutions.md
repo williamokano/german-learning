@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Seit einer Woche.** — Herr Steinmeyer: „Er ist vor einer Woche eingezogen".
-2. **c) Er ist Architekt.** — Herr Steinmeyer: „Er ist Architekt".
-3. **b) Aus Wien.** — Herr Steinmeyer: „Seine Frau kommt aus Wien".
-4. **b) Sie freut sich auf eine gute Nachbarschaft.** — Frau Weber: „Freuen wir uns auf gute Nachbarschaft!".
+1. **a) Seit einer Woche.** — Herr Steinmeyer: „Er ist vor einer Woche eingezogen".
+2. **b) Er ist Architekt.** — Herr Steinmeyer: „Er ist Architekt".
+3. **c) Aus Wien.** — Herr Steinmeyer: „Seine Frau kommt aus Wien".
+4. **a) Sie freut sich auf eine gute Nachbarschaft.** — Frau Weber: „Freuen wir uns auf gute Nachbarschaft!".
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Wer soll ich abholen?
 
-1. **b) Sie kommt ein bisschen später als geplant.** — Anna: „Ich komme leider ein bisschen später zum Bahnhof".
-2. **c) Annas Bruder Sergej.** — Anna: „Kannst du bitte meinen Bruder Sergej abholen?".
-3. **b) Groß, schlank, kurze dunkle Haare, rote Jacke.** — Anna: „Er ist … groß und schlank … kurze dunkle Haare … eine rote Jacke".
-4. **b) Er soll Anna anrufen.** — Anna: „Bitte ruf mich zurück, wenn du ihn gefunden hast!".
+1. **a) Sie kommt ein bisschen später als geplant.** — Anna: „Ich komme leider ein bisschen später zum Bahnhof".
+2. **b) Annas Bruder Sergej.** — Anna: „Kannst du bitte meinen Bruder Sergej abholen?".
+3. **c) Groß, schlank, kurze dunkle Haare, rote Jacke.** — Anna: „Er ist … groß und schlank … kurze dunkle Haare … eine rote Jacke".
+4. **a) Er soll Anna anrufen.** — Anna: „Bitte ruf mich zurück, wenn du ihn gefunden hast!".
 
 ## Übung H5 — Tabelle ausfüllen: Dialog B (Neuer Nachbar)
 

@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Dass zwei Relativsätze hintereinanderstehen.** — Frau Yilmaz: „Das sind zwei Relativsätze hintereinander … zu lang".
+1. **a) Dass zwei Relativsätze hintereinanderstehen.** — Frau Yilmaz: „Das sind zwei Relativsätze hintereinander … zu lang".
 2. **b) die im Mai eröffnete Ausstellung** — Die Ausstellung wurde eröffnet → passiv → Partizip II: „die im Mai eröffnete Ausstellung".
-3. **a) Weil es aktiv ist und ein Partizip I schwer lesbar wäre.** — Frau Yilmaz: „denn das ist aktiv … Ein Partizip I wäre … korrekt, aber schwer lesbar".
-4. **b) der 2018 verstorbene Künstler** — „sterben" bildet das Perfekt mit „sein", also Partizip II: „der 2018 verstorbene Künstler".
+3. **c) Weil es aktiv ist und ein Partizip I schwer lesbar wäre.** — Frau Yilmaz: „denn das ist aktiv … Ein Partizip I wäre … korrekt, aber schwer lesbar".
+4. **a) der 2018 verstorbene Künstler** — „sterben" bildet das Perfekt mit „sein", also Partizip II: „der 2018 verstorbene Künstler".
 
 ## Übung H3 — Hörtext-Lückentext: Durchsage im Museum
 

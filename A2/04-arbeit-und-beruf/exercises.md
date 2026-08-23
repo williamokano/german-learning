@@ -23,10 +23,10 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Frau Weber möchte sich für welche Stelle bewerben?  a) als Koordinatorin  b) als Projektleiterin  c) als Managerin
+1. Frau Weber möchte sich für welche Stelle bewerben?  a) als Projektleiterin  b) als Koordinatorin  c) als Managerin
 2. Wie lange hat Frau Weber als Koordinatorin gearbeitet?  a) zwei Jahre  b) drei Jahre  c) fünf Jahre
-3. Was soll Frau Weber tun, um einen Termin zu bekommen?  a) anrufen  b) Unterlagen einreichen  c) eine E-Mail schreiben
-4. Bis wann soll Frau Weber die Unterlagen schicken?  a) bis Freitag  b) bis Samstag  c) bis Montag
+3. Was soll Frau Weber tun, um einen Termin zu bekommen?  a) anrufen  b) eine E-Mail schreiben  c) Unterlagen einreichen
+4. Bis wann soll Frau Weber die Unterlagen schicken?  a) bis Montag  b) bis Samstag  c) bis Freitag
 
 ## Übung H3 — Hörtext-Lückentext
 

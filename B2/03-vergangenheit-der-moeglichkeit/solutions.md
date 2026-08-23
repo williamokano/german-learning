@@ -15,8 +15,8 @@
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
 1. **a) Über ein Projekt, das schiefgelaufen ist.** — Frau Yilmaz: „über das Projekt sprechen, das letzte Woche schiefgelaufen ist".
-2. **a) Den Kunden früher kontaktieren.** — Frau Yilmaz: „Wir hätten ihn früher kontaktieren müssen".
-3. **b) Das Team um Hilfe bitten.** — Anna: „Ich hätte außerdem das Team früher um Hilfe bitten sollen".
+2. **b) Den Kunden früher kontaktieren.** — Frau Yilmaz: „Wir hätten ihn früher kontaktieren müssen".
+3. **c) Das Team um Hilfe bitten.** — Anna: „Ich hätte außerdem das Team früher um Hilfe bitten sollen".
 4. **a) Ein wöchentliches Gespräch.** — Anna schlägt „ein kurzes wöchentliches Gespräch" vor, Frau Yilmaz: „Genau das führen wir ab jetzt ein".
 
 ## Übung H3 — Hörtext-Lückentext

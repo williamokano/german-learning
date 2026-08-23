@@ -36,13 +36,13 @@ Hören Sie den Radiobeitrag (zweimal) und entscheiden Sie: richtig (R) oder fals
 Hören Sie die Ansagen (zweimal) und wählen Sie die richtige Antwort (a, b oder c).
 
 1. Wie viel Verspätung hat der Zug?  
-   a) 10 Minuten  b) 20 Minuten  c) 30 Minuten
+   a) 20 Minuten  b) 10 Minuten  c) 30 Minuten
 2. Wann hat das Museum ab nächster Woche geöffnet?  
    a) Täglich von 9 bis 18 Uhr  b) Montags bis samstags von 9 bis 18 Uhr  c) Montags bis freitags von 9 bis 18 Uhr
 3. Was ist diese Woche im Angebot?  
-   a) Orangen und Lachs  b) Äpfel und Lachs  c) Äpfel und Käse
+   a) Orangen und Lachs  b) Äpfel und Käse  c) Äpfel und Lachs
 4. Wie wird das Wetter morgen Nachmittag?  
-   a) Bewölkt und kalt  b) Regnerisch  c) Sonnig
+   a) Sonnig  b) Regnerisch  c) Bewölkt und kalt
 5. Bis wann muss man sich für den Kurs anmelden?  
    a) Bis zum 3. März  b) Bis zum 25. Februar  c) Bis zum 18. Februar
 
@@ -90,8 +90,8 @@ Welches Thema (A–G) passt zu welchem Forumsbeitrag (1–5)? Zwei Themen passen
 Lesen Sie die E-Mail und wählen Sie für jede Lücke (1–5) die richtige Antwort (a, b oder c).
 
 1. Wie geht es (1) ___?  a) dir  b) dich  c) ihm
-2. Ich weiß noch nicht genau, (2) ___ ich wirklich Zeit haben werde.  a) ob  b) weil  c) dass
-3. ein paar gute Hotels, (3) ___ nicht zu teuer sind  a) die  b) das  c) den
+2. Ich weiß noch nicht genau, (2) ___ ich wirklich Zeit haben werde.  a) weil  b) ob  c) dass
+3. ein paar gute Hotels, (3) ___ nicht zu teuer sind  a) den  b) das  c) die
 4. für Museen und Ausstellungen, (4) ___ ich Kunst sehr liebe  a) weil  b) deshalb  c) aber
 5. Schreib mir, was du (5) ___!  a) denkt  b) denkst  c) denken
 

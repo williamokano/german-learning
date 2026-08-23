@@ -729,31 +729,31 @@ exercises:
     items:
       - q: "Wo wurde das neue Verfahren entwickelt?"
         options:
-          - { key: a, text: "In einer Fabrik." }
-          - { key: b, text: "An der Technischen Universität." }
+          - { key: a, text: "An der Technischen Universität." }
+          - { key: b, text: "In einer Fabrik." }
           - { key: c, text: "In einer Behörde." }
-        answer: b
+        answer: a
         why: '„ist an der Technischen Universität entwickelt worden."'
       - q: "Was lässt sich mit der Methode machen?"
         options:
-          - { key: a, text: "Plastikmüll fast vollständig in Grundstoffe zerlegen." }
-          - { key: b, text: "Plastik komplett verbrennen." }
+          - { key: a, text: "Plastik komplett verbrennen." }
+          - { key: b, text: "Plastikmüll fast vollständig in Grundstoffe zerlegen." }
           - { key: c, text: "Neuen Kunststoff herstellen." }
-        answer: a
+        answer: b
         why: '„lässt sich Plastikmüll fast vollständig in seine Grundstoffe zerlegen."'
       - q: "Was sagt die Projektleiterin über den Müll, der früher kaum zu trennen war?"
         options:
           - { key: a, text: "Er ist immer noch nicht trennbar." }
-          - { key: b, text: "Er ist jetzt trennbar." }
-          - { key: c, text: "Er muss verbrannt werden." }
-        answer: b
+          - { key: b, text: "Er muss verbrannt werden." }
+          - { key: c, text: "Er ist jetzt trennbar." }
+        answer: c
         why: '„Mit unserem Verfahren ist er nun trennbar."'
       - q: "Was muss passieren, bevor das Verfahren im großen Maßstab eingesetzt wird?"
         options:
-          - { key: a, text: "Es muss veröffentlicht werden." }
-          - { key: b, text: "Es muss von einer Behörde genehmigt werden." }
+          - { key: a, text: "Es muss von einer Behörde genehmigt werden." }
+          - { key: b, text: "Es muss veröffentlicht werden." }
           - { key: c, text: "Es muss verboten werden." }
-        answer: b
+        answer: a
         why: '„muss es von einer Behörde genehmigt werden."'
 
   - id: C5

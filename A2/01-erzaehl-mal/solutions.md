@@ -13,10 +13,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Wien** — Herr Steinmeyer war im Urlaub in Wien.
+1. **a) Wien** — Herr Steinmeyer war im Urlaub in Wien.
 2. **b) Sie haben das Kunsthistorische Museum besucht.** — Zuerst haben sie das Kunsthistorische Museum besucht.
-3. **a) Sie ist ins Hotel gegangen und hat einen Film geschaut.** — Die Tochter ist ins Hotel gegangen und hat einen Film geschaut.
-4. **b) eine Woche** — Sie waren eine Woche in Wien.
+3. **c) Sie ist ins Hotel gegangen und hat einen Film geschaut.** — Die Tochter ist ins Hotel gegangen und hat einen Film geschaut.
+4. **a) eine Woche** — Sie waren eine Woche in Wien.
 
 ## Übung H3 — Hörtext-Lückentext
 

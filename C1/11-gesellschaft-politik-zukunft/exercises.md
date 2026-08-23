@@ -25,8 +25,8 @@ Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Was prognostiziert Frau Schäfer für Köln bis 2040?  a) Einen Anstieg der über 65-Jährigen um rund 25 Prozent.  b) Einen Rückgang der über 65-Jährigen um 25 Prozent.  c) Ein Ende des demografischen Wandels.
-2. Was gehört nach Frau Schäfers Worten zur „doppelten Belastung" der Kommunen?  a) Weniger Einnahmen und mehr Ausgaben.  b) Mehr Einnahmen und weniger Ausgaben.  c) Höhere Steuern und sinkende Mieten.
-3. Welche Strategie verfolgt Köln nach Frau Schäfer?  a) Stärkung der Zuwanderung ohne Integrationsangebote.  b) Familien gewinnen UND Integration verbessern.  c) Nur Pflegeeinrichtungen ausbauen.
+2. Was gehört nach Frau Schäfers Worten zur „doppelten Belastung" der Kommunen?  a) Mehr Einnahmen und weniger Ausgaben.  b) Weniger Einnahmen und mehr Ausgaben.  c) Höhere Steuern und sinkende Mieten.
+3. Welche Strategie verfolgt Köln nach Frau Schäfer?  a) Stärkung der Zuwanderung ohne Integrationsangebote.  b) Nur Pflegeeinrichtungen ausbauen.  c) Familien gewinnen UND Integration verbessern.
 4. Was wünscht sich Frau Schäfer von der nächsten Bundesregierung?  a) Eine kohärente Demografiepolitik, die Politikfelder verzahnt.  b) Eine reine Sparpolitik.  c) Höhere Renten ohne Reform.
 
 ## Übung H3 — Hörtext-Lückentext: KI in der Berufswelt
@@ -54,9 +54,9 @@ Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.
 Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.
 
 1. Welche Einrichtung ist auf dem Anrufbeantworter zu hören?  a) Das Bürgeramt der Stadt Köln.  b) Das Finanzamt Bonn.  c) Die Universitätsbibliothek.
-2. Wie sind die regulären Sprechzeiten?  a) Montags bis freitags von acht bis dreizehn Uhr, donnerstags bis achtzehn Uhr.  b) Täglich von acht bis achtzehn Uhr.  c) Nur am Wochenende.
-3. Warum ist das Bürgeramt am 15. Oktober geschlossen?  a) Wegen einer internen Schulung.  b) Wegen eines Feiertags.  c) Wegen einer Demonstration.
-4. Für welches Anliegen bekommt man KEINE telefonische Beratung?  a) Wohnsitzanliegen.  b) Sozialleistungen.  c) Passangelegenheiten.
+2. Wie sind die regulären Sprechzeiten?  a) Täglich von acht bis achtzehn Uhr.  b) Montags bis freitags von acht bis dreizehn Uhr, donnerstags bis achtzehn Uhr.  c) Nur am Wochenende.
+3. Warum ist das Bürgeramt am 15. Oktober geschlossen?  a) Wegen einer Demonstration.  b) Wegen eines Feiertags.  c) Wegen einer internen Schulung.
+4. Für welches Anliegen bekommt man KEINE telefonische Beratung?  a) Sozialleistungen.  b) Wohnsitzanliegen.  c) Passangelegenheiten.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -146,10 +146,10 @@ Setze die passende Präposition (um, auf, von, auf …) oder den passenden Antei
 
 Wähle die registergerechte (sachliche) Formulierung.
 
-1. Welche Formulierung passt in einen Sachtext?  a) Wir müssen die Flüchtlingswelle stoppen.  b) Wir müssen die Zuwanderung steuern.  c) Wir müssen die Ausländer draußen halten.
+1. Welche Formulierung passt in einen Sachtext?  a) Wir müssen die Zuwanderung steuern.  b) Wir müssen die Flüchtlingswelle stoppen.  c) Wir müssen die Ausländer draußen halten.
 2. Welche Formulierung passt in einen Kommentar?  a) Die Alten kosten zu viel.  b) Der Anteil älterer Menschen nimmt weiter zu.  c) Die Alten werden immer mehr.
-3. Welche Formulierung passt in eine Erörterung?  a) Multikulti ist gescheitert.  b) Die plurale Gesellschaft steht vor Herausforderungen.  c) Die Multikulti-Träume sind aus.
-4. Welche Formulierung passt in einen politischen Sachtext?  a) Wir haben ein Asylantenproblem.  b) Die Migrationspolitik steht vor großen Herausforderungen.  c) Die Asylanten überschwemmen das Land.
+3. Welche Formulierung passt in eine Erörterung?  a) Multikulti ist gescheitert.  b) Die Multikulti-Träume sind aus.  c) Die plurale Gesellschaft steht vor Herausforderungen.
+4. Welche Formulierung passt in einen politischen Sachtext?  a) Die Migrationspolitik steht vor großen Herausforderungen.  b) Wir haben ein Asylantenproblem.  c) Die Asylanten überschwemmen das Land.
 5. Welche Formulierung passt in einen wirtschaftspolitischen Text?  a) Wir machen jetzt einen Plan gegen den Fachkräftemangel.  b) Es wird eine kohärente Strategie zur Bekämpfung des Fachkräftemangels entwickelt.  c) Wir tun jetzt was gegen den Personalmangel.
 
 ## Übung A7 — Wortschatz: Begriffe und Erklärungen
@@ -181,10 +181,10 @@ Füll die 6 Lücken mit dem passenden Wort aus dem Kasten. Drei Wörter sind zu 
 
 Wähle die Formulierung mit höflicher Distanzierung.
 
-1. Welche Formulierung signalisiert höfliche Distanz?  a) Diese Position ist falsch.  b) Diese Position wäre zu kurz gegriffen.  c) Diese Position ist Quatsch.
+1. Welche Formulierung signalisiert höfliche Distanz?  a) Diese Position wäre zu kurz gegriffen.  b) Diese Position ist falsch.  c) Diese Position ist Quatsch.
 2. Welche Formulierung ist ein höflicher Widerspruch?  a) Ich muss Ihnen widersprechen.  b) Da würde ich widersprechen.  c) Das stimmt nicht.
-3. Welche Formulierung drückt eine hypothetische Schlussfolgerung aus?  a) Wenn man so argumentiert, hat man recht.  b) Wenn man so argumentiert, würde das heißen, dass KI jede Verantwortung übernimmt.  c) Wenn man so argumentiert, ist das schlecht.
-4. Welche Formulierung ist eine höfliche Bitte um Klärung?  a) Was meinen Sie damit?  b) Dürfte ich fragen, was Sie damit meinen?  c) Erklären Sie das!
+3. Welche Formulierung drückt eine hypothetische Schlussfolgerung aus?  a) Wenn man so argumentiert, hat man recht.  b) Wenn man so argumentiert, ist das schlecht.  c) Wenn man so argumentiert, würde das heißen, dass KI jede Verantwortung übernimmt.
+4. Welche Formulierung ist eine höfliche Bitte um Klärung?  a) Dürfte ich fragen, was Sie damit meinen?  b) Was meinen Sie damit?  c) Erklären Sie das!
 5. Welche Formulierung ist eine vorsichtige Vermutung?  a) Er ist schuld.  b) Er könnte schuld sein.  c) Er ist definitiv schuld.
 
 ## Übung A10 — Satzbau: diskursive Strukturen
@@ -245,10 +245,10 @@ Weder ein klares Ja ______ ein klares Nein ist angemessen; vielmehr kommt es auf
 
 Wähle die ausgewogene Formulierung.
 
-1. Welche Formulierung wägt sachlich ab?  a) KI ist gut, weil sie alles besser macht.  b) Einerseits bietet KI Chancen für die Individualisierung, andererseits wirft sie Fragen zum Datenschutz auf.  c) KI ist schlecht, weil sie die Lehrkraft ersetzt.
+1. Welche Formulierung wägt sachlich ab?  a) Einerseits bietet KI Chancen für die Individualisierung, andererseits wirft sie Fragen zum Datenschutz auf.  b) KI ist gut, weil sie alles besser macht.  c) KI ist schlecht, weil sie die Lehrkraft ersetzt.
 2. Welche Formulierung räumt ein, ohne die eigene Position aufzugeben?  a) Das Gegenargument ist falsch.  b) Da ist zwar etwas dran, dennoch überwiegen für mich die Vorteile.  c) Das verstehe ich nicht.
-3. Welche Formulierung gibt eine fremde Position korrekt wieder (Konjunktiv I)?  a) Befürworter sagen, KI ist sinnvoll.  b) Befürworter sagen, KI sei sinnvoll.  c) Befürworter würden sagen, KI sei sinnvoll.
-4. Welche Formulierung unterscheidet Szenarien?  a) Die Zukunft ist ungewiss.  b) Im besten Fall steigt die Beschäftigung, im schlechtesten Fall sinkt sie.  c) Man weiß nicht, was passiert.
+3. Welche Formulierung gibt eine fremde Position korrekt wieder (Konjunktiv I)?  a) Befürworter sagen, KI ist sinnvoll.  b) Befürworter würden sagen, KI sei sinnvoll.  c) Befürworter sagen, KI sei sinnvoll.
+4. Welche Formulierung unterscheidet Szenarien?  a) Im besten Fall steigt die Beschäftigung, im schlechtesten Fall sinkt sie.  b) Die Zukunft ist ungewiss.  c) Man weiß nicht, was passiert.
 5. Welche Formulierung macht eine vorsichtige Prognose mit Bandbreite und Bedingung?  a) Bis 2040 sinkt die Erwerbstätigenzahl um 5 Millionen.  b) Sofern die Zuwanderung konstant bleibt, dürfte die Erwerbstätigenzahl bis 2040 um etwa 5 Millionen sinken.  c) Die Erwerbstätigenzahl wird sinken.
 
 ## Übung B3 — Hedging-Mittel zuordnen
@@ -277,10 +277,10 @@ Setze das passende Wort ein. 6 Items.
 
 Wähle die registergerechte Formulierung.
 
-1. In einem politischen Kommentar:  a) Die Politiker labern ja nur rum.  b) Die Politiker vermeiden es, die unangenehmen Wahrheiten auszusprechen.  c) Die Politiker reden wie immer dummes Zeug.
+1. In einem politischen Kommentar:  a) Die Politiker vermeiden es, die unangenehmen Wahrheiten auszusprechen.  b) Die Politiker labern ja nur rum.  c) Die Politiker reden wie immer dummes Zeug.
 2. In einer Stellungnahme:  a) Die Asylantenflut ist nicht zu stoppen.  b) Die Zuwanderung erfordert eine kohärente politische Steuerung.  c) Die Ausländer kommen einfach immer mehr.
-3. In einer wirtschaftspolitischen Analyse:  a) Die Wirtschaft brummt, alles ist super.  b) Die wirtschaftliche Lage zeigt sich insgesamt stabil, wenngleich Risiken bestehen.  c) Es läuft alles mega.
-4. In einem leserbrief an eine Zeitung:  a) Ihr Artikel ist der totale Schwachsinn.  b) Ihr Artikel wirft wichtige Fragen auf, lässt aber einige Aspekte unberücksichtigt.  c) Ihr Artikel ist echt schlecht.
+3. In einer wirtschaftspolitischen Analyse:  a) Die Wirtschaft brummt, alles ist super.  b) Es läuft alles mega.  c) Die wirtschaftliche Lage zeigt sich insgesamt stabil, wenngleich Risiken bestehen.
+4. In einem leserbrief an eine Zeitung:  a) Ihr Artikel wirft wichtige Fragen auf, lässt aber einige Aspekte unberücksichtigt.  b) Ihr Artikel ist der totale Schwachsinn.  c) Ihr Artikel ist echt schlecht.
 5. In einer Diskussionssendung:  a) Das ist doch eh alles Quatsch.  b) Diese These ließe sich kritisch hinterfragen.  c) Das ist vollkommener Blödsinn.
 
 ## Übung B6 — Eine Erörterung über KI an Schulen — Schluss

@@ -51,10 +51,10 @@ Höre und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht 
 
 Höre die Sprachnachricht. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
-1. Wo ist Lisa gerade?  a) Am Flughafen in Berlin.  b) Am Flughafen in Lissabon.  c) Am Flughafen in Wien.
+1. Wo ist Lisa gerade?  a) Am Flughafen in Lissabon.  b) Am Flughafen in Berlin.  c) Am Flughafen in Wien.
 2. Warum wird Lisa erst am Dienstag zurückfliegen?  a) Weil sie länger Urlaub machen will.  b) Weil ihr Flug am Sonntag gestrichen wurde.  c) Weil die Airline keine Plätze mehr hat.
-3. Was wird die Airline für Lisa tun?  a) Sie wird ihr ein Hotel für zwei Nächte bezahlen.  b) Sie wird ihr ein neues Flugticket schenken.  c) Sie wird sie mit dem Bus nach Hause bringen.
-4. Wann wird Lisa in Berlin landen?  a) Am Sonntag um achtzehn Uhr.  b) Am Dienstag um achtzehn Uhr.  c) Am Mittwoch um achtzehn Uhr.
+3. Was wird die Airline für Lisa tun?  a) Sie wird sie mit dem Bus nach Hause bringen.  b) Sie wird ihr ein neues Flugticket schenken.  c) Sie wird ihr ein Hotel für zwei Nächte bezahlen.
+4. Wann wird Lisa in Berlin landen?  a) Am Dienstag um achtzehn Uhr.  b) Am Sonntag um achtzehn Uhr.  c) Am Mittwoch um achtzehn Uhr.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

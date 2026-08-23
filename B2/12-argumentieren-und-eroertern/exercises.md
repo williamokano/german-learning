@@ -52,10 +52,10 @@ Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel.
 
 Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.
 
-1. Worum geht es in der Nachricht?  a) Um eine Einladung zu einer Lesung.  b) Um Hinweise zum Einsenden von Leserbriefen.  c) Um eine Spendenbitte.
+1. Worum geht es in der Nachricht?  a) Um Hinweise zum Einsenden von Leserbriefen.  b) Um eine Einladung zu einer Lesung.  c) Um eine Spendenbitte.
 2. Wohin soll man einen Leserbrief schicken?  a) An die Privatadresse des Redakteurs.  b) An die Online-Adresse der Zeitung.  c) In den Briefkasten neben dem Eingang.
-3. Mit welcher Wartezeit muss man bei einer Antwort rechnen?  a) Bis zu zehn Werktage.  b) Bis zu zehn Wochen.  c) Sofort.
-4. Was empfiehlt die Redaktion für gute Leserbriefe?  a) Viele Ausrufezeichen und Großbuchstaben.  b) Sachliche Formulierung und Beispiele als Belege.  c) Möglichst kurze Briefe mit einem Satz.
+3. Mit welcher Wartezeit muss man bei einer Antwort rechnen?  a) Sofort.  b) Bis zu zehn Wochen.  c) Bis zu zehn Werktage.
+4. Was empfiehlt die Redaktion für gute Leserbriefe?  a) Sachliche Formulierung und Beispiele als Belege.  b) Viele Ausrufezeichen und Großbuchstaben.  c) Möglichst kurze Briefe mit einem Satz.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -361,12 +361,12 @@ veröffentlicht. (10) ______ mehr gute Briefe erscheinen, desto lebendiger wird 
 
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
-1. Ich _______ der Ansicht, dass Homeoffice mehr Vorteile als Nachteile hat.  a) glaube  b) bin  c) habe
-2. Meiner Meinung _______ überwiegen die Vorteile.  a) nach  b) zu  c) von
-3. _______ dient eine Studie der TU Berlin aus dem Jahr 2024.  a) Als Beispiel  b) Zum Beispiel  c) Für Beispiel
+1. Ich _______ der Ansicht, dass Homeoffice mehr Vorteile als Nachteile hat.  a) bin  b) glaube  c) habe
+2. Meiner Meinung _______ überwiegen die Vorteile.  a) zu  b) nach  c) von
+3. _______ dient eine Studie der TU Berlin aus dem Jahr 2024.  a) Für Beispiel  b) Zum Beispiel  c) Als Beispiel
 4. _______ lässt sich sagen, dass die Vorteile überwiegen.  a) Zusammenfassend  b) Zusammengefasst  c) Zusammen
-5. _______ nicht jeder Leserbrief perfekt sein muss, so steigt die Qualität der Debatte.  a) Obwohl  b) Trotzdem  c) Dennoch
-6. Diesem Argument _______ entgegenzuhalten, dass die Erfahrung das Gegenteil zeigt.  a) ist  b) hat  c) wird
+5. _______ nicht jeder Leserbrief perfekt sein muss, so steigt die Qualität der Debatte.  a) Trotzdem  b) Obwohl  c) Dennoch
+6. Diesem Argument _______ entgegenzuhalten, dass die Erfahrung das Gegenteil zeigt.  a) wird  b) hat  c) ist
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 

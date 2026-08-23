@@ -24,10 +24,10 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Was macht Yusuf am Anfang des Dialogs?  a) Er liest einen fertigen Artikel vor.  b) Er liest Hannah seinen Entwurf vor.  c) Er schreibt zum ersten Mal.
+1. Was macht Yusuf am Anfang des Dialogs?  a) Er liest Hannah seinen Entwurf vor.  b) Er liest einen fertigen Artikel vor.  c) Er schreibt zum ersten Mal.
 2. Was kritisiert Hannah an Yusufs erstem Satz?  a) Er ist zu lang.  b) Er klingt zu journalistisch und anklagend.  c) Er enthält einen Grammatikfehler.
 3. Welches Grammatikgeschlecht haben nominalisierte Verben (Gerundium)?  a) Maskulinum (der)  b) Femininum (die)  c) Neutrum (das)
-4. Wie bildet man aus dem Adjektiv „möglich" ein Nomen?  a) die Möglichung  b) die Möglichkeit  c) das Möglich
+4. Wie bildet man aus dem Adjektiv „möglich" ein Nomen?  a) die Möglichkeit  b) die Möglichung  c) das Möglich
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -52,10 +52,10 @@ Listen to the Hörtext (Anna und Bruno im Supermarkt) and fill in the 6 missing 
 
 Listen to the radio news clip. Then choose the correct answer (a, b, or c).
 
-1. Was wurde heute im Abgeordnetenhaus verabschiedet?  a) Ein neues Verkehrsgesetz.  b) Ein neues Klimapaket.  c) Ein Stadtentwicklungsplan.
-2. Bis wann soll der ÖPNV vollständig elektrifiziert werden?  a) Bis 2025.  b) Bis 2030.  c) Bis 2028.
-3. Was warnen Kritiker?  a) Dass die Maßnahmen nicht wirken.  b) Dass Geringverdiener zusätzlich belastet werden.  c) Dass Solaranlagen zu teuer sind.
-4. Was ist laut Umweltsenatorin das oberste Ziel?  a) Die Förderung des Fahrrads.  b) Die Reduzierung der Emissionen.  c) Die Einführung von Elektroautos.
+1. Was wurde heute im Abgeordnetenhaus verabschiedet?  a) Ein neues Klimapaket.  b) Ein neues Verkehrsgesetz.  c) Ein Stadtentwicklungsplan.
+2. Bis wann soll der ÖPNV vollständig elektrifiziert werden?  a) Bis 2025.  b) Bis 2028.  c) Bis 2030.
+3. Was warnen Kritiker?  a) Dass die Maßnahmen nicht wirken.  b) Dass Solaranlagen zu teuer sind.  c) Dass Geringverdiener zusätzlich belastet werden.
+4. Was ist laut Umweltsenatorin das oberste Ziel?  a) Die Reduzierung der Emissionen.  b) Die Förderung des Fahrrads.  c) Die Einführung von Elektroautos.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

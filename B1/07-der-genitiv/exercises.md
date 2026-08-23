@@ -213,11 +213,11 @@ Each sentence contains a Genitiv error (Dativ used instead of Genitiv, or wrong 
 Wähle die richtige Antwort (a, b oder c).
 
 1. Das ist die Theorie ______.  a) des Philosophen  b) dem Philosophen  c) der Philosophen
-2. Wegen ______ kommt er nicht.  a) der Grippe  b) die Grippe  c) dem Grippe
-3. Statt ______ nehmen wir den Bus.  a) des Zuges  b) dem Zug  c) den Zug
+2. Wegen ______ kommt er nicht.  a) die Grippe  b) der Grippe  c) dem Grippe
+3. Statt ______ nehmen wir den Bus.  a) den Zug  b) dem Zug  c) des Zuges
 4. Die Ergebnisse ______ werden veröffentlicht.  a) der Forschung  b) die Forschung  c) dem Forschung
-5. Während ______ ist Ruhe Pflicht.  a) des Konzerts  b) dem Konzert  c) das Konzert
-6. Das ist ______ Buch. (Hans)  a) Hansens  b) Hans'  c) Hans's
+5. Während ______ ist Ruhe Pflicht.  a) dem Konzert  b) des Konzerts  c) das Konzert
+6. Das ist ______ Buch. (Hans)  a) Hansens  b) Hans's  c) Hans'
 
 ## Übung B4 — Genitivpräposition zum richtigen Kontext
 
@@ -266,10 +266,10 @@ Transform each informal phrase into formal Genitiv.
 
 Based on the Lesetext (Mietvertrag), choose the correct answer.
 
-1. Was muss der Mieter wegen etwaiger Mängel tun?  a) Er muss den Vermieter persönlich aufsuchen.  b) Er muss die Hausverwaltung unverzüglich informieren.  c) Er muss selbst reparieren.
+1. Was muss der Mieter wegen etwaiger Mängel tun?  a) Er muss die Hausverwaltung unverzüglich informieren.  b) Er muss den Vermieter persönlich aufsuchen.  c) Er muss selbst reparieren.
 2. Welche Form der Mitteilung wird bevorzugt?  a) Die mündliche Mitteilung.  b) Die schriftliche Form.  c) Eine E-Mail an den Vermieter.
 3. Wer trägt die Kosten für Reparaturen des Daches?  a) Der Mieter.  b) Die Hausverwaltung.  c) Der Vermieter.
-4. Unter welcher Bedingung darf der Mieter untervermieten?  a) Ohne Bedingungen.  b) Mit schriftlicher Genehmigung des Vermieters.  c) Nur während der Kündigungsfrist.
+4. Unter welcher Bedingung darf der Mieter untervermieten?  a) Mit schriftlicher Genehmigung des Vermieters.  b) Ohne Bedingungen.  c) Nur während der Kündigungsfrist.
 
 ## Übung B9 — Formelle Beschreibung eines Kollegen
 
@@ -378,10 +378,10 @@ Mit freundlichen Grüßen
 Das Bezirksamt
 
 
-1. Warum werden die Parkplätze gesperrt?  a) Wegen eines Stadtfestes.  b) Wegen der Sanierungsarbeiten des Bürgersteigs.  c) Wegen Sicherheitsproblemen.
+1. Warum werden die Parkplätze gesperrt?  a) Wegen der Sanierungsarbeiten des Bürgersteigs.  b) Wegen eines Stadtfestes.  c) Wegen Sicherheitsproblemen.
 2. Wo kann man während der Sperrung parken?  a) Auf der Straße vor dem Bürgeramt.  b) Auf den Parkplätzen des benachbarten Einkaufszentrums.  c) Parken ist nicht möglich.
 3. Welcher Eingang soll benutzt werden?  a) Der Haupteingang wie gewohnt.  b) Ein provisorischer Eingang.  c) Der Seiteneingang der Goethestraße.
-4. Wie lange dauert die Sperrung?  a) Vom 1. bis 31. Juli.  b) Vom 1. bis 15. Juli.  c) Nur eine Woche.
+4. Wie lange dauert die Sperrung?  a) Vom 1. bis 15. Juli.  b) Vom 1. bis 31. Juli.  c) Nur eine Woche.
 
 ## Übung C5 — Schreiben — Formeller Absatz mit Genitiv
 

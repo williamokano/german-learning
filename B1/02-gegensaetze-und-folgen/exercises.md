@@ -24,10 +24,10 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Worauf konzentriert sich Tomáš' Startup in Berlin?  a) Auf das Stadtzentrum.  b) Auf die Randbezirke.  c) Auf ganz Berlin.
+1. Worauf konzentriert sich Tomáš' Startup in Berlin?  a) Auf die Randbezirke.  b) Auf das Stadtzentrum.  c) Auf ganz Berlin.
 2. Wie viel Prozent der Mittel hat das Startup bereits gesichert?  a) 20 %.  b) 40 %.  c) 60 %.
-3. Was will Frau Weber am Ende des Gesprächs sehen?  a) Eine Kundenliste.  b) Eine detaillierte Finanzprognose.  c) Eine Karte der Randbezirke.
-4. Wie reagiert Frau Weber auf die Präsentation?  a) Sie lehnt die Investition sofort ab.  b) Sie ist grundsätzlich überzeugt, hat aber noch Fragen.  c) Sie sagt sofort zu.
+3. Was will Frau Weber am Ende des Gesprächs sehen?  a) Eine Kundenliste.  b) Eine Karte der Randbezirke.  c) Eine detaillierte Finanzprognose.
+4. Wie reagiert Frau Weber auf die Präsentation?  a) Sie ist grundsätzlich überzeugt, hat aber noch Fragen.  b) Sie lehnt die Investition sofort ab.  c) Sie sagt sofort zu.
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -52,10 +52,10 @@ Listen to the Hörtext (Pavel's phone call) and fill in the 6 missing words. Thr
 
 Listen to Tomáš's voice message to Pavel. Then choose the correct answer (a, b, or c).
 
-1. Warum ruft Tomáš an?  a) Weil die Berliner Präsentation sehr gut gelaufen ist.  b) Weil es ein Problem mit der Genehmigung gibt.  c) Weil er mehr Investoren gefunden hat.
+1. Warum ruft Tomáš an?  a) Weil es ein Problem mit der Genehmigung gibt.  b) Weil die Berliner Präsentation sehr gut gelaufen ist.  c) Weil er mehr Investoren gefunden hat.
 2. Was ist mit den eingereichten Dokumenten passiert?  a) Das Amt hat sie angenommen.  b) Das Amt hat die Anfrage abgelehnt.  c) Die Dokumente wurden verloren.
-3. Wie ist Tomáš' Stimmung trotz des Problems?  a) Er ist sehr pessimistisch.  b) Er ist noch optimistisch.  c) Er will aufgeben.
-4. Was soll Pavel morgen früh tun?  a) Zum Amt fahren.  b) Den Anwalt anrufen.  c) Ins Büro kommen.
+3. Wie ist Tomáš' Stimmung trotz des Problems?  a) Er ist sehr pessimistisch.  b) Er will aufgeben.  c) Er ist noch optimistisch.
+4. Was soll Pavel morgen früh tun?  a) Ins Büro kommen.  b) Den Anwalt anrufen.  c) Zum Amt fahren.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -410,10 +410,10 @@ schließen können — oder ob die Politik handeln muss.
 Wähle a, b oder c.
 
 
-1. Was macht Wien trotz seines guten U-Bahn-Netzes?  a) Wien baut das U-Bahn-Netz nicht weiter aus.  b) Wien fördert E-Bike-Sharing in den Außenbezirken.  c) Wien verbietet Autos im Stadtzentrum.
-2. Warum hat Amsterdam strenge Parkgebühren eingeführt?  a) Weil es zu viele Fahrräder gibt.  b) Weil das öffentliche Netz zu gut ist.  c) Wegen des wachsenden Autoverkehrs.
-3. Was ist das Problem in Berlins Randbezirken?  a) Es gibt zu viele Sharing-Angebote.  b) Sie sind oft schlecht angebunden.  c) Die Parkgebühren sind zu hoch.
-4. Welche Frage bleibt am Ende des Textes offen?  a) Ob Wien das beste Verkehrsnetz hat.  b) Ob private Startups allein die Lücken schließen können.  c) Ob Amsterdam Fahrräder verbieten wird.
+1. Was macht Wien trotz seines guten U-Bahn-Netzes?  a) Wien fördert E-Bike-Sharing in den Außenbezirken.  b) Wien baut das U-Bahn-Netz nicht weiter aus.  c) Wien verbietet Autos im Stadtzentrum.
+2. Warum hat Amsterdam strenge Parkgebühren eingeführt?  a) Weil es zu viele Fahrräder gibt.  b) Wegen des wachsenden Autoverkehrs.  c) Weil das öffentliche Netz zu gut ist.
+3. Was ist das Problem in Berlins Randbezirken?  a) Es gibt zu viele Sharing-Angebote.  b) Die Parkgebühren sind zu hoch.  c) Sie sind oft schlecht angebunden.
+4. Welche Frage bleibt am Ende des Textes offen?  a) Ob private Startups allein die Lücken schließen können.  b) Ob Wien das beste Verkehrsnetz hat.  c) Ob Amsterdam Fahrräder verbieten wird.
 
 ## Übung C5 — Schreiben B1: Forumsbeitrag
 

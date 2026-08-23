@@ -24,10 +24,10 @@ Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Was kritisiert Frau Yilmaz an dem Satz „Die Ministerin senkt die Steuern“?  a) Er sei grammatisch falsch.  b) Er klinge wie die eigene Behauptung des Journalisten.  c) Er sei zu lang.
-2. Wie soll der Satz korrekt heißen?  a) Die Ministerin erklärte, sie senke die Steuern.  b) Die Ministerin senkt die Steuern.  c) Die Ministerin hat die Steuern gesenkt.
-3. Was tut man, wenn der Konjunktiv I wie der Indikativ aussieht (z. B. „fordern“)?  a) Man lässt den Konjunktiv weg.  b) Man weicht auf den Konjunktiv II aus (forderten / würden fordern).  c) Man benutzt den Imperativ.
-4. Wie gibt man die Aufforderung „Bleiben Sie sachlich!“ wieder?  a) Die Ministerin sagte, man bleibe sachlich.  b) Die Ministerin sagte, man solle sachlich bleiben.  c) Die Ministerin sagte, ob man sachlich bleibe.
+1. Was kritisiert Frau Yilmaz an dem Satz „Die Ministerin senkt die Steuern“?  a) Er klinge wie die eigene Behauptung des Journalisten.  b) Er sei grammatisch falsch.  c) Er sei zu lang.
+2. Wie soll der Satz korrekt heißen?  a) Die Ministerin senkt die Steuern.  b) Die Ministerin erklärte, sie senke die Steuern.  c) Die Ministerin hat die Steuern gesenkt.
+3. Was tut man, wenn der Konjunktiv I wie der Indikativ aussieht (z. B. „fordern“)?  a) Man lässt den Konjunktiv weg.  b) Man benutzt den Imperativ.  c) Man weicht auf den Konjunktiv II aus (forderten / würden fordern).
+4. Wie gibt man die Aufforderung „Bleiben Sie sachlich!“ wieder?  a) Die Ministerin sagte, man solle sachlich bleiben.  b) Die Ministerin sagte, man bleibe sachlich.  c) Die Ministerin sagte, ob man sachlich bleibe.
 
 ## Übung H3 — Hörtext-Lückentext: Die Nachrichten um zwölf
 
@@ -311,10 +311,10 @@ Wähle für jede Lücke die richtige Option (a, b oder c).
 
 1. Der Minister erklärte, er (1) ____ das Problem. (kennen)  a) kenne  b) kennt  c) kannte
 2. Die Abgeordneten sagten, sie (2) ____ dagegen. (sein)  a) sind  b) seien  c) wären
-3. Er behauptete, die Kollegen (3) ____ nichts davon. (wissen)  a) wissen  b) wüssten  c) wussten
-4. Sie sagte, sie (4) ____ den Bericht bis morgen schicken. (werden)  a) wird  b) werde  c) wurde
+3. Er behauptete, die Kollegen (3) ____ nichts davon. (wissen)  a) wissen  b) wussten  c) wüssten
+4. Sie sagte, sie (4) ____ den Bericht bis morgen schicken. (werden)  a) werde  b) wird  c) wurde
 5. Sie fragte, (5) ____ es noch offene Punkte gebe.  a) wenn  b) ob  c) dass
-6. Er sagte, ich (6) ____ die Unterlagen einreichen. (Aufforderung)  a) soll  b) solle  c) sollte gern
+6. Er sagte, ich (6) ____ die Unterlagen einreichen. (Aufforderung)  a) soll  b) sollte gern  c) solle
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wörterkasten)
 
@@ -363,8 +363,8 @@ Lies den folgenden Text und wähle a, b oder c.
 
 1. Was wurde in der gestrigen Ausgabe falsch berichtet?  a) Dass der Bau endgültig beschlossen sei.  b) Dass es nur einen Vorschlag gebe.  c) Dass das Schwimmbad eröffnet sei.
 2. Was sagt der Sprecher der Stadt zur Entscheidung?  a) Sie sei bereits gefallen.  b) Sie sei noch nicht gefallen.  c) Sie werde nie fallen.
-3. Was stimmt über die Kosten?  a) Sie liegen bei zwei Millionen Euro.  b) Sie seien noch gar nicht berechnet.  c) Sie seien höher als zwei Millionen.
-4. Welche Verbform zeigt im Text die indirekte Rede an?  a) der Indikativ (ist, liegt)  b) der Konjunktiv I/II (habe, gebe, sei, lägen)  c) der Imperativ
+3. Was stimmt über die Kosten?  a) Sie liegen bei zwei Millionen Euro.  b) Sie seien höher als zwei Millionen.  c) Sie seien noch gar nicht berechnet.
+4. Welche Verbform zeigt im Text die indirekte Rede an?  a) der Konjunktiv I/II (habe, gebe, sei, lägen)  b) der Indikativ (ist, liegt)  c) der Imperativ
 
 ## Übung C5 — Schreiben: Eine kurze Nachrichtenmeldung
 

@@ -126,10 +126,10 @@ exercises:
       - q: "Wie viel Verspätung hat der Zug?"
         audio: aufgabe3_ansage1.mp3
         options:
-          - { key: a, text: "10 Minuten" }
-          - { key: b, text: "20 Minuten" }
+          - { key: a, text: "20 Minuten" }
+          - { key: b, text: "10 Minuten" }
           - { key: c, text: "30 Minuten" }
-        answer: b
+        answer: a
         why: '"circa zwanzig Minuten Verspätung"'
 
       - q: "Wann hat das Museum ab nächster Woche geöffnet?"
@@ -144,18 +144,18 @@ exercises:
         audio: aufgabe3_ansage3.mp3
         options:
           - { key: a, text: "Orangen und Lachs" }
-          - { key: b, text: "Äpfel und Lachs" }
-          - { key: c, text: "Äpfel und Käse" }
-        answer: b
+          - { key: b, text: "Äpfel und Käse" }
+          - { key: c, text: "Äpfel und Lachs" }
+        answer: c
         why: '"Frische Äpfel … frischen Lachs aus Norwegen"'
 
       - q: "Wie wird das Wetter morgen Nachmittag?"
         audio: aufgabe3_ansage4.mp3
         options:
-          - { key: a, text: "Bewölkt und kalt" }
+          - { key: a, text: "Sonnig" }
           - { key: b, text: "Regnerisch" }
-          - { key: c, text: "Sonnig" }
-        answer: c
+          - { key: c, text: "Bewölkt und kalt" }
+        answer: a
         why: '"Am Nachmittag kommt dann die Sonne heraus."'
 
       - q: "Bis wann muss man sich für den Kurs anmelden?"
@@ -292,17 +292,17 @@ exercises:
 
       - q: "Ich weiß noch nicht genau, (2) ___ ich wirklich Zeit haben werde."
         options:
-          - { key: a, text: "ob" }
-          - { key: b, text: "weil" }
+          - { key: a, text: "weil" }
+          - { key: b, text: "ob" }
           - { key: c, text: "dass" }
-        answer: a
+        answer: b
         why: "Indirekte Ja/Nein-Frage → ob (Verb am Ende)."
       - q: "ein paar gute Hotels, (3) ___ nicht zu teuer sind"
         options:
-          - { key: a, text: "die" }
+          - { key: a, text: "den" }
           - { key: b, text: "das" }
-          - { key: c, text: "den" }
-        answer: a
+          - { key: c, text: "die" }
+        answer: c
         why: "Hotels = Plural, Nom. Relativpronomen → die."
       - q: "für Museen und Ausstellungen, (4) ___ ich Kunst sehr liebe"
         options:

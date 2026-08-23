@@ -24,10 +24,10 @@ Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Was kritisiert Frau Yilmaz an der Pressemitteilung?  a) Den Inhalt.  b) Dass zwei Relativsätze hintereinanderstehen.  c) Die Rechtschreibung.
+1. Was kritisiert Frau Yilmaz an der Pressemitteilung?  a) Dass zwei Relativsätze hintereinanderstehen.  b) Den Inhalt.  c) Die Rechtschreibung.
 2. Wie soll Herr Steinmeyer „die Ausstellung, die im Mai eröffnet wurde" umformen?  a) die im Mai eröffnende Ausstellung  b) die im Mai eröffnete Ausstellung  c) die Ausstellung im Mai eröffnet
-3. Warum soll „die viele Besucher angezogen hat" ein Relativsatz bleiben?  a) Weil es aktiv ist und ein Partizip I schwer lesbar wäre.  b) Weil es passiv ist.  c) Weil es kein Verb enthält.
-4. Wie wird aus „der Künstler, der 2018 verstarb" ein Attribut?  a) der 2018 versterbende Künstler  b) der 2018 verstorbene Künstler  c) der Künstler 2018 verstorben
+3. Warum soll „die viele Besucher angezogen hat" ein Relativsatz bleiben?  a) Weil es kein Verb enthält.  b) Weil es passiv ist.  c) Weil es aktiv ist und ein Partizip I schwer lesbar wäre.
+4. Wie wird aus „der Künstler, der 2018 verstarb" ein Attribut?  a) der 2018 verstorbene Künstler  b) der 2018 versterbende Künstler  c) der Künstler 2018 verstorben
 
 ## Übung H3 — Hörtext-Lückentext: Durchsage im Museum
 

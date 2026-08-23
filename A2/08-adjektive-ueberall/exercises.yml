@@ -34,10 +34,10 @@ exercises:
     items:
       - q: "Frau Weber sucht ein Geschenk für …"
         options:
-          - { key: a, text: "ihre Tochter" }
-          - { key: b, text: "ihren Mann" }
+          - { key: a, text: "ihren Mann" }
+          - { key: b, text: "ihre Tochter" }
           - { key: c, text: "ihren Sohn" }
-        answer: b
+        answer: a
         why: "ihren Mann."
       - q: "Welche Farbe bevorzugt Frau Webers Mann?"
         options:
@@ -55,10 +55,10 @@ exercises:
         why: "Einen marineblauen Pullover."
       - q: "Was nimmt Frau Weber am Ende?"
         options:
-          - { key: a, text: "Nur den Pullover" }
-          - { key: b, text: "Den Pullover und das Hemd" }
+          - { key: a, text: "Den Pullover und das Hemd" }
+          - { key: b, text: "Nur den Pullover" }
           - { key: c, text: "Den Pullover und eine Krawatte" }
-        answer: b
+        answer: a
         why: "Den Pullover und das Hemd."
 
   - id: H3
@@ -780,17 +780,17 @@ exercises:
         why: "Akk Mask def.: einen neuen Mantel → -en."
       - q: "Er ist dunkelblau — das ist meine (2) ____ Lieblingsfarbe."
         options:
-          - { key: a, text: "absolute" }
-          - { key: b, text: "absoluter" }
+          - { key: a, text: "absoluter" }
+          - { key: b, text: "absolute" }
           - { key: c, text: "absolutes" }
-        answer: a
+        answer: b
         why: "Nom Fem indef. (meine = poss): meine absolute → -e."
       - q: "Im Laden hat mir eine (3) ____ Verkäuferin geholfen."
         options:
           - { key: a, text: "freundlichen" }
-          - { key: b, text: "freundliche" }
-          - { key: c, text: "freundlicher" }
-        answer: b
+          - { key: b, text: "freundlicher" }
+          - { key: c, text: "freundliche" }
+        answer: c
         why: "Nom Fem indef.: eine freundliche → -e."
       - q: "Sie hat mir auch ein (4) ____ weißes Hemd gezeigt."
         options:
@@ -801,17 +801,17 @@ exercises:
         why: "Nom/Akk Neut indef.: ein schönes → -es."
       - q: "Mit dem (5) ____ Outfit sehe ich wirklich gut aus."
         options:
-          - { key: a, text: "neuen" }
-          - { key: b, text: "neue" }
+          - { key: a, text: "neue" }
+          - { key: b, text: "neuen" }
           - { key: c, text: "neues" }
-        answer: a
+        answer: b
         why: "Dat Neut def. (mit dem): dem neuen Outfit → -en."
       - q: "Ich trage jetzt auch meinen (6) ____ Schal dazu — den hellen grauen."
         options:
-          - { key: a, text: "langen" }
+          - { key: a, text: "lange" }
           - { key: b, text: "langer" }
-          - { key: c, text: "lange" }
-        answer: a
+          - { key: c, text: "langen" }
+        answer: c
         why: "Akk Mask poss.: meinen langen → -en."
 
   - id: C3

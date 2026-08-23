@@ -25,10 +25,10 @@ Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Welches Schema empfiehlt Yusuf für den Aufbau des Abstracts?  a) Pro-Contra-Schluss  b) IMRD (Hintergrund-Ziel-Methoden-Ergebnisse-Schlussfolgerung)  c) Zusammenfassung-Bewertung-Empfehlung
+1. Welches Schema empfiehlt Yusuf für den Aufbau des Abstracts?  a) IMRD (Hintergrund-Ziel-Methoden-Ergebnisse-Schlussfolgerung)  b) Pro-Contra-Schluss  c) Zusammenfassung-Bewertung-Empfehlung
 2. Welches Beispiel nennt Yusuf für Hedging in der Schlussfolgerung?  a) „Alle Studierenden …"  b) „Ein Großteil der Studierenden …"  c) „Kein einziger Studierender …"
-3. Was empfiehlt Yusuf zur Wiedergabe früherer Befunde?  a) Den Indikativ, um Klarheit zu schaffen.  b) Den Konjunktiv I, um die fremde Aussage von der eigenen abzugrenzen.  c) Direkte Zitate mit Anführungszeichen und Seitenangabe.
-4. Welche Kohärenzmittel sind laut Yusuf besonders im Abstract wichtig?  a) Metaphern und Wortspiele.  b) Themenführungs-Sätze und Rückverweise.  c) Übergangswörter wie „und", „dann", „also".
+3. Was empfiehlt Yusuf zur Wiedergabe früherer Befunde?  a) Den Indikativ, um Klarheit zu schaffen.  b) Direkte Zitate mit Anführungszeichen und Seitenangabe.  c) Den Konjunktiv I, um die fremde Aussage von der eigenen abzugrenzen.
+4. Welche Kohärenzmittel sind laut Yusuf besonders im Abstract wichtig?  a) Themenführungs-Sätze und Rückverweise.  b) Metaphern und Wortspiele.  c) Übergangswörter wie „und", „dann", „also".
 
 ## Übung H3 — Hörtext-Lückentext: Schreibwerkstatt Erörterung
 
@@ -91,11 +91,11 @@ Hör Dialog A noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine I
 
 Wähle die korrekte Reihenfolge der Bestandteile einer linearen Erörterung.
 
-1. Welche Reihenfolge gehört zu einer linearen Erörterung?  a) Einleitung → These → Schluss → Hauptteil (Pro/Contra)  b) Einleitung → These → Hauptteil (Pro/Contra) → Schlussfolgerung  c) These → Einleitung → Hauptteil → Schluss
+1. Welche Reihenfolge gehört zu einer linearen Erörterung?  a) Einleitung → These → Hauptteil (Pro/Contra) → Schlussfolgerung  b) Einleitung → These → Schluss → Hauptteil (Pro/Contra)  c) These → Einleitung → Hauptteil → Schluss
 2. Welche Formulierung gehört in die Schlussfolgerung einer Erörterung?  a) Ich finde, KI ist schlecht.  b) Insgesamt zeigt sich, dass die These nur bedingt aufrechterhalten werden kann.  c) Zum Schluss kann man sagen, dass KI schlecht ist.
-3. Welche Funktion hat die Einleitung einer Erörterung?  a) Sie listet alle Argumente auf.  b) Sie führt zum Thema hin und nennt die These.  c) Sie formuliert die Schlussfolgerung.
-4. Welche Aussage beschreibt eine These?  a) Eine zufällige Behauptung ohne Begründung.  b) Eine differenzierte Hauptbehauptung, die im Hauptteil geprüft wird.  c) Eine reine Meinung im Indikativ Präsens.
-5. Welche These ist am differenziertesten formuliert?  a) KI ist schlecht.  b) KI ist gut.  c) KI kann den Präsenzunterricht ergänzen, aber nicht ersetzen — nur unter klaren Bedingungen.
+3. Welche Funktion hat die Einleitung einer Erörterung?  a) Sie listet alle Argumente auf.  b) Sie formuliert die Schlussfolgerung.  c) Sie führt zum Thema hin und nennt die These.
+4. Welche Aussage beschreibt eine These?  a) Eine differenzierte Hauptbehauptung, die im Hauptteil geprüft wird.  b) Eine zufällige Behauptung ohne Begründung.  c) Eine reine Meinung im Indikativ Präsens.
+5. Welche These ist am differenziertesten formuliert?  a) KI ist schlecht.  b) KI kann den Präsenzunterricht ergänzen, aber nicht ersetzen — nur unter klaren Bedingungen.  c) KI ist gut.
 
 ## Übung A2 — Konnektorenpaare ergänzen
 
@@ -109,10 +109,10 @@ Setze das passende Pendant ein. 8 Lücken.
 
 Wähle die korrekte Antwort (a, b oder c).
 
-1. Was ist der Unterschied zwischen linearer und selektiver Zusammenfassung?  a) Linear = nach Wichtigkeit; selektiv = nach Reihenfolge des Originals.  b) Linear = in der Reihenfolge des Originals; selektiv = nach Wichtigkeit geordnet.  c) Linear = nur Einleitung; selektiv = nur Schluss.
+1. Was ist der Unterschied zwischen linearer und selektiver Zusammenfassung?  a) Linear = in der Reihenfolge des Originals; selektiv = nach Wichtigkeit geordnet.  b) Linear = nach Wichtigkeit; selektiv = nach Reihenfolge des Originals.  c) Linear = nur Einleitung; selektiv = nur Schluss.
 2. Welche Reduktionsstrategie passt: „Im Schulversuch in Karlsruhe, Bremen und Hamburg" → „Erste Schulversuche deuten darauf hin"?  a) Paraphrasieren  b) Generalisieren  c) Wertung herausfiltern
 3. Welche Strategie ist es, „Das völlig missglückte Experiment zeigt, dass …" → „Das Experiment zeigt, dass …" umzuwandeln?  a) Paraphrasieren  b) Generalisieren  c) Wertungen herausfiltern
-4. Welche Aufgabe hat die Zusammenfassung?  a) Den Originaltext bewerten.  b) Den Originaltext reduzieren, ohne ihn zu verfälschen.  c) Den Originaltext 1:1 mit anderen Worten wiederholen.
+4. Welche Aufgabe hat die Zusammenfassung?  a) Den Originaltext reduzieren, ohne ihn zu verfälschen.  b) Den Originaltext bewerten.  c) Den Originaltext 1:1 mit anderen Worten wiederholen.
 5. Welche Formulierung gehört in eine Zusammenfassung?  a) Ich finde den Artikel super.  b) Im Mittelpunkt steht die These, dass KI ergänzen, aber nicht ersetzen kann.  c) Leider ist der Artikel schlecht.
 
 ## Übung A4 — Stellungnahme: Bausteine einsetzen
@@ -173,10 +173,10 @@ Setze die passende Form ein (Diese, im Folgenden, wie oben, abschließend, Ansch
 
 Wähle die wissenschaftlich-register-adäquate Korrektur.
 
-1. „Ich finde, KI ist schlecht." — Korrektur:  a) Ich finde, KI ist doof.  b) Es lässt sich argumentieren, dass KI Risiken birgt, die einer Regulierung bedürfen.  c) KI ist echt krass.
+1. „Ich finde, KI ist schlecht." — Korrektur:  a) Es lässt sich argumentieren, dass KI Risiken birgt, die einer Regulierung bedürfen.  b) Ich finde, KI ist doof.  c) KI ist echt krass.
 2. „Das beweist eindeutig, dass KI den Unterricht verdrängt." — Korrektur:  a) Das beweist zu 100 %, dass KI den Unterricht verdrängt.  b) Die Ergebnisse deuten darauf hin, dass KI den Unterricht in Zukunft verändern könnte.  c) KI verdrängt definitiv den Unterricht.
-3. „Schmidt sagt, dass KI alles verändert." — Korrektur:  a) Schmidt sagt, dass KI alles verändert.  b) Schmidt schreibt, KI verändere alle Bereiche.  c) Schmidt meint, KI verändert alles total.
-4. „Leider ist der Artikel schlecht." — Korrektur (in einer Zusammenfassung):  a) Ich finde den Artikel doof.  b) Die Argumentation des Autors bleibt an mehreren Stellen vage.  c) Die Wertung des Autors ist streng.
+3. „Schmidt sagt, dass KI alles verändert." — Korrektur:  a) Schmidt sagt, dass KI alles verändert.  b) Schmidt meint, KI verändert alles total.  c) Schmidt schreibt, KI verändere alle Bereiche.
+4. „Leider ist der Artikel schlecht." — Korrektur (in einer Zusammenfassung):  a) Die Argumentation des Autors bleibt an mehreren Stellen vage.  b) Ich finde den Artikel doof.  c) Die Wertung des Autors ist streng.
 5. „Einerseits ist KI gut, andererseits ist KI gut." — Korrektur:  a) Einerseits ist KI gut, andererseits ist KI gut.  b) Einerseits ermöglicht KI Individualisierung, andererseits verstärkt sie Bildungsungleichheit.  c) KI ist super.
 
 ## Übung A10 — Eine Erörterung in die richtige Reihenfolge bringen
@@ -204,8 +204,8 @@ Wähle die Zusammenfassung, die das Original am besten reduziert.
 
 1. Original: „KI kann Vokabeln erklären, Texte zusammenfassen, Rechenwege vorrechnen und Prüfungsfragen generieren." — beste Zusammenfassung:  a) Die Autorin nennt verschiedene Einsatzmöglichkeiten von KI im Unterricht.  b) KI kann Vokabeln erklären, Texte zusammenfassen, Rechenwege vorrechnen und Prüfungsfragen generieren.  c) KI ist ein Alleskönner.
 2. Original: „Im Schulversuch in Karlsruhe, Bremen und Hamburg zeigte sich, dass …" — beste Zusammenfassung:  a) In Karlsruhe zeigte sich, dass …  b) Erste Schulversuche deuten darauf hin, dass …  c) Schulversuche sind super.
-3. Original: „Das völlig missglückte Experiment zeigt, dass …" — beste Zusammenfassung:  a) Das völlig missglückte Experiment zeigt …  b) Das Experiment zeigt, dass …  c) Das Experiment war doof.
-4. Original: „Im Artikel geht es um KI und dann wird erklärt, was KI kann und wo KI Grenzen hat." — beste Zusammenfassung:  a) Im Artikel geht es um KI und dann wird erklärt, was KI kann und wo KI Grenzen hat.  b) Der Autor behandelt die Möglichkeiten und Grenzen von KI.  c) KI kann alles und ist super.
+3. Original: „Das völlig missglückte Experiment zeigt, dass …" — beste Zusammenfassung:  a) Das völlig missglückte Experiment zeigt …  b) Das Experiment war doof.  c) Das Experiment zeigt, dass …
+4. Original: „Im Artikel geht es um KI und dann wird erklärt, was KI kann und wo KI Grenzen hat." — beste Zusammenfassung:  a) Der Autor behandelt die Möglichkeiten und Grenzen von KI.  b) Im Artikel geht es um KI und dann wird erklärt, was KI kann und wo KI Grenzen hat.  c) KI kann alles und ist super.
 5. Original: „Schmidt sagt, dass die Zukunft KI gehört." — beste Zusammenfassung:  a) Schmidt sagt, KI ist die Zukunft.  b) Schmidt schreibt, die Zukunft gehöre KI.  c) KI ist die Zukunft.
 
 ## Übung B3 — Stellungnahme: Strukturbausteine zuordnen
@@ -232,9 +232,9 @@ Setze die passenden Bausteine ein. 6 Items.
 
 Wähle die kohärenteste Formulierung.
 
-1. Welche Version nutzt Themenführung und Rückverweis am besten?  a) Jetzt komme ich zur Methode. Hier ist sie: 200 Personen wurden befragt.  b) Im Folgenden wird die Methode erläutert. Die oben erwähnte Stichprobe umfasste 200 Personen.  c) Methode. 200. Befragung. Fertig.
+1. Welche Version nutzt Themenführung und Rückverweis am besten?  a) Im Folgenden wird die Methode erläutert. Die oben erwähnte Stichprobe umfasste 200 Personen.  b) Jetzt komme ich zur Methode. Hier ist sie: 200 Personen wurden befragt.  c) Methode. 200. Befragung. Fertig.
 2. Welche Version nutzt doppelt gepaarte Konnektoren korrekt?  a) Einerseits ist KI gut. Andererseits ist KI gut.  b) Einerseits ermöglicht KI Individualisierung, andererseits verstärkt sie Bildungsungleichheit.  c) KI ist gut und schlecht.
-3. Welche Version nutzt adverbiale Anknüpfung („wie bereits dargelegt") korrekt?  a) Das weiß man doch.  b) Wie bereits dargelegt wurde, stützt sich die Arbeit auf eine Online-Befragung.  c) Online-Befragung. Das war die Methode. Sie wurde gemacht.
+3. Welche Version nutzt adverbiale Anknüpfung („wie bereits dargelegt") korrekt?  a) Das weiß man doch.  b) Online-Befragung. Das war die Methode. Sie wurde gemacht.  c) Wie bereits dargelegt wurde, stützt sich die Arbeit auf eine Online-Befragung.
 4. Welche Version nutzt thematische Wiederaufnahme?  a) Mit Blick auf die eingangs formulierte These lässt sich nun eine Antwort geben.  b) Also: ja oder nein?  c) KI. Schulen. Schluss.
 5. Welche Version vermeidet Häufungen von Pronomen? (Rückverweis)  a) KI kann das. KI kann jenes. KI ist überall. KI ist toll.  b) KI kann das und jenes. Diese Technologie ist überall und überaus nützlich.  c) Das ist so. Das ist auch so. Das war schon immer so.
 
@@ -328,10 +328,10 @@ die ______.
 
 Wähle die passende Option (a, b oder c) für jede Lücke.
 
-1. Im Folgenden {1} die Frage untersucht, ob KI den Unterricht ergänzen kann.  a) werde  b) wird  c) wurde
+1. Im Folgenden {1} die Frage untersucht, ob KI den Unterricht ergänzen kann.  a) wird  b) werde  c) wurde
 2. Die vorliegende Arbeit {1}, dass KI den Unterricht ergänzen, aber nicht ersetzen kann.  a) argumentiert dafür  b) vertritt die These  c) sagt, dass
-3. Einerseits spricht für KI, {1} (Brückenfunktion).  a) andererseits spreche die Sicherheit dagegen  b) dass KI in untersorgten Regionen eine Brücke sein kann  c) Zwar brückt KI die Lücken nicht
-4. Schmidt schreibt, die Methode {1} umstritten.  a) ist  b) sei  c) wäre
+3. Einerseits spricht für KI, {1} (Brückenfunktion).  a) andererseits spreche die Sicherheit dagegen  b) Zwar brückt KI die Lücken nicht  c) dass KI in untersorgten Regionen eine Brücke sein kann
+4. Schmidt schreibt, die Methode {1} umstritten.  a) sei  b) ist  c) wäre
 5. Die Ergebnisse {1} darauf hin, dass ein Zusammenhang besteht.  a) beweisen  b) deuten  c) zeigen klar
 6. Im Abstract {1} die fünf Bausteine Hintergrund, Ziel, Methoden, Ergebnisse und Schlussfolgerung.  a) behandelt die Studie  b) sind wichtig  c) enthält
 
@@ -369,10 +369,10 @@ Lies den folgenden Text und wähle a, b oder c.
 > *„Das gedruckte Buch hat den Kindle nicht verdrängt — und der Kindle wird das Buch nicht verdrängen."* So lautet die These eines neuen Sammelbandes zur Zukunft des Lesens. Im Folgenden werden drei Blickwinkel miteinander versöhnt: ein kulturkonservativer, ein marktwirtschaftlicher und ein bildungswissenschaftlicher. Dem kulturkonservativen Beitrag zufolge ist das Buch mehr als ein Informationsträger; es sei ein kulturelles Artefakt, das durch seine Materialität eine eigene Würde erhält. Der marktwirtschaftliche Beitrag argumentiert, dass Verlage sowohl gedruckte als auch digitale Formate anbieten müssen, um beide Zielgruppen zu erreichen. Der bildungswissenschaftliche Beitrag schließlich betont, dass junge Leser\*innen zwar digitale Texte bevorzugen, aber für längere Lektüren weiterhin das gedruckte Buch wählen — eine Beobachtung, die in mehreren empirischen Studien Bestätigung findet.
 
 
-1. Welche Hauptaussage trifft der Sammelband?  a) Das gedruckte Buch ist tot.  b) Das gedruckte Buch hat den Kindle nicht verdrängt — und umgekehrt.  c) Nur das E-Book hat eine Zukunft.
-2. Welche drei Blickwinkel nennt der Text?  a) Kulturkonservativ, marktwirtschaftlich, bildungswissenschaftlich.  b) Pädagogisch, soziologisch, technologisch.  c) Historisch, literarisch, ökonomisch.
-3. Welche Funktion hat das Buch laut kulturkonservativem Beitrag?  a) Es ist ein bloßer Informationsträger.  b) Es ist ein kulturelles Artefakt mit eigener Würde.  c) Es ist eine historische Quelle.
-4. Was betont der bildungswissenschaftliche Beitrag?  a) Junge Leser\*innen lesen nur digital.  b) Junge Leser\*innen bevorzugen zwar digitale Texte, wählen aber für längere Lektüren weiterhin das gedruckte Buch.  c) Längere Lektüren finden ausschließlich digital statt.
+1. Welche Hauptaussage trifft der Sammelband?  a) Das gedruckte Buch hat den Kindle nicht verdrängt — und umgekehrt.  b) Das gedruckte Buch ist tot.  c) Nur das E-Book hat eine Zukunft.
+2. Welche drei Blickwinkel nennt der Text?  a) Pädagogisch, soziologisch, technologisch.  b) Kulturkonservativ, marktwirtschaftlich, bildungswissenschaftlich.  c) Historisch, literarisch, ökonomisch.
+3. Welche Funktion hat das Buch laut kulturkonservativem Beitrag?  a) Es ist ein bloßer Informationsträger.  b) Es ist eine historische Quelle.  c) Es ist ein kulturelles Artefakt mit eigener Würde.
+4. Was betont der bildungswissenschaftliche Beitrag?  a) Junge Leser\*innen bevorzugen zwar digitale Texte, wählen aber für längere Lektüren weiterhin das gedruckte Buch.  b) Junge Leser\*innen lesen nur digital.  c) Längere Lektüren finden ausschließlich digital statt.
 
 ## Übung C5 — Schreiben: lineare Erörterung (C1-Prüfungsformat)
 

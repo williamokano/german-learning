@@ -24,10 +24,10 @@ Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
-1. Welche Funktion hat Frau Hoffmann im Dialog?  a) Sie ist die Mandantin und fragt nach dem Stand.  b) Sie ist die Senior-Partnerin und erkundigt sich nach dem Schriftsatz.  c) Sie ist die Assistentin von Tomáš.
+1. Welche Funktion hat Frau Hoffmann im Dialog?  a) Sie ist die Senior-Partnerin und erkundigt sich nach dem Schriftsatz.  b) Sie ist die Mandantin und fragt nach dem Stand.  c) Sie ist die Assistentin von Tomáš.
 2. Wann will Tomáš der Mandantin das Manuskript zukommen lassen?  a) Morgen früh.  b) Heute Nachmittag.  c) Bis Ende der Woche.
-3. Was bittet Frau Hoffmann Tomáš, bis 16 Uhr zu mailen?  a) Den fertigen Schriftsatz.  b) Eine kurze Zusammenfassung mit den Kernthesen.  c) Den Lebenslauf der Mandantin.
-4. Welche Frage stellt Tomáš am Ende des Gesprächs?  a) Ob er den Termin verschieben kann.  b) Ob der Ton des Schriftsatzes sachlich oder locker sein soll.  c) Ob er Urlaub nehmen kann.
+3. Was bittet Frau Hoffmann Tomáš, bis 16 Uhr zu mailen?  a) Den fertigen Schriftsatz.  b) Den Lebenslauf der Mandantin.  c) Eine kurze Zusammenfassung mit den Kernthesen.
+4. Welche Frage stellt Tomáš am Ende des Gesprächs?  a) Ob der Ton des Schriftsatzes sachlich oder locker sein soll.  b) Ob er den Termin verschieben kann.  c) Ob er Urlaub nehmen kann.
 
 ## Übung H3 — Hörtext-Lückentext: Ein Podcast über Sprache und Höflichkeit
 
@@ -52,8 +52,8 @@ Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör 
 
 1. Welche Einheit ist auf dem Anrufbeantworter zu hören?  a) Eine Sprachschule.  b) Ein Übersetzungsbüro.  c) Ein Kulturzentrum.
 2. Warum ist die telefonische Erreichbarkeit eingeschränkt?  a) Wegen einer technischen Störung.  b) Wegen einer internen Fortbildung.  c) Wegen eines Feiertags.
-3. Welche Information soll der Anrufer hinterlassen?  a) Sein Geburtsdatum und seine Adresse.  b) Seinen Namen, seine Telefonnummer und das gewünschte Sprachniveau.  c) Seine Kreditkartennummer.
-4. Welche Hotline gilt für C1-Kurs-Anfragen?  a) 030-12 34 56.  b) 030-44 55 66.  c) 030-98 76 54.
+3. Welche Information soll der Anrufer hinterlassen?  a) Sein Geburtsdatum und seine Adresse.  b) Seine Kreditkartennummer.  c) Seinen Namen, seine Telefonnummer und das gewünschte Sprachniveau.
+4. Welche Hotline gilt für C1-Kurs-Anfragen?  a) 030-44 55 66.  b) 030-12 34 56.  c) 030-98 76 54.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>

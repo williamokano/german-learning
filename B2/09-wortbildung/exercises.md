@@ -26,8 +26,8 @@ Hör Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. In welchen Leserbriefen sehen Frau Yilmaz und Herr Steinmeyer ein neues Thema?  a) Zum Thema Verkehrswende.  b) Zum Thema Mietpreise.  c) Zum Thema Digitalisierung.
 2. Welche Vorsilben verwechseln laut Herr Steinmeyer viele Leser?  a) ver- und zer-.  b) um- und un-.  c) er- und ent-.
-3. Was bedeutet Bezahlbarkeit von Wohnraum schlicht?  a) Wohnungen, die bezahlt werden müssen.  b) Die Frage, ob sich die Menschen das noch leisten können.  c) Eine staatliche Förderung.
-4. Welche Wortbildungs-Kategorie ist Wende in Verkehrswende?  a) Vorsilbe.  b) Grundbegriff des Kompositums.  c) Nachsilbe.
+3. Was bedeutet Bezahlbarkeit von Wohnraum schlicht?  a) Wohnungen, die bezahlt werden müssen.  b) Eine staatliche Förderung.  c) Die Frage, ob sich die Menschen das noch leisten können.
+4. Welche Wortbildungs-Kategorie ist Wende in Verkehrswende?  a) Grundbegriff des Kompositums.  b) Vorsilbe.  c) Nachsilbe.
 
 ## Übung H3 — Hörtext-Lückentext: Annas Erklärung im Sprachkurs
 
@@ -53,10 +53,10 @@ Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel.
 
 Hör die Ansage. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.
 
-1. Worum geht es in der Ansage?  a) Um einen neuen Grammatik-Kurs.  b) Um einen Wortbildungs-Workshop.  c) Um eine Konferenz zur Verkehrswende.
+1. Worum geht es in der Ansage?  a) Um einen Wortbildungs-Workshop.  b) Um einen neuen Grammatik-Kurs.  c) Um eine Konferenz zur Verkehrswende.
 2. Was lernen die Teilnehmenden im Workshop?  a) Nur neue Vokabeln auswendig lernen.  b) Unbekannte Wörter über Vorsilben, Nachsilben und Komposita entschlüsseln.  c) Aussprache und Hörtraining.
-3. Wann findet der Workshop statt?  a) Nächsten Samstag von 10 bis 16 Uhr.  b) Diesen Samstag von 10 bis 12 Uhr.  c) Nächsten Sonntag von 8 bis 14 Uhr.
-4. Ist eine Anmeldung erforderlich?  a) Ja, man muss sich vorher anmelden.  b) Nein, die Teilnahme ist kostenlos und ohne Anmeldung.  c) Ja, und sie kostet fünfzig Euro.
+3. Wann findet der Workshop statt?  a) Nächsten Sonntag von 8 bis 14 Uhr.  b) Diesen Samstag von 10 bis 12 Uhr.  c) Nächsten Samstag von 10 bis 16 Uhr.
+4. Ist eine Anmeldung erforderlich?  a) Nein, die Teilnahme ist kostenlos und ohne Anmeldung.  b) Ja, man muss sich vorher anmelden.  c) Ja, und sie kostet fünfzig Euro.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -396,10 +396,10 @@ Lies den folgenden Text und wähle a, b oder c.
 > Wer diese Bausteine kennt, hat das System in der Hand.
 
 
-1. Woraus besteht das Kompositum Verkehrswende laut Text?  a) Aus Grundbegriff Verkehr und Bestimmbegriff Wende.  b) Aus Bestimmbegriff Verkehr- und Grundbegriff Wende.  c) Aus zwei Grundbegriffen.
+1. Woraus besteht das Kompositum Verkehrswende laut Text?  a) Aus Bestimmbegriff Verkehr- und Grundbegriff Wende.  b) Aus Grundbegriff Verkehr und Bestimmbegriff Wende.  c) Aus zwei Grundbegriffen.
 2. Welche Funktion hat das Fugenelement -s- in Verkehrswende?  a) Es macht das Wort zu einem Verb.  b) Es erleichtert die Aussprache.  c) Es bedeutet „neu".
-3. Was bedeutet -keit in Bezahlbarkeit?  a) Es macht aus dem Adjektiv bezahlbar ein abstraktes Nomen.  b) Es ist ein Synonym für -bar.  c) Es bedeutet „sehr".
-4. Welches Kompositum im Text hat kein Fugenelement?  a) Verkehrswende.  b) Klimaschutz.  c) Bezahlbarkeit.
+3. Was bedeutet -keit in Bezahlbarkeit?  a) Es bedeutet „sehr".  b) Es ist ein Synonym für -bar.  c) Es macht aus dem Adjektiv bezahlbar ein abstraktes Nomen.
+4. Welches Kompositum im Text hat kein Fugenelement?  a) Klimaschutz.  b) Verkehrswende.  c) Bezahlbarkeit.
 
 ## Übung C5 — Schreiben: Ein Lexikon-Eintrag zur Wortbildung
 

@@ -51,10 +51,10 @@ Höre und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht 
 
 Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
-1. Welcher Flug hat Verspätung?  a) LH 401 von Berlin nach München.  b) LH 401 von Berlin nach Lissabon.  c) LH 410 von Berlin nach Wien.
+1. Welcher Flug hat Verspätung?  a) LH 401 von Berlin nach Lissabon.  b) LH 401 von Berlin nach München.  c) LH 410 von Berlin nach Wien.
 2. Wie viel Verspätung hat der Flug?  a) Eine Stunde.  b) Zwei Stunden.  c) Drei Stunden.
 3. Wann ist der neue Abflug?  a) Um vierzehn Uhr dreißig.  b) Um fünfzehn Uhr dreißig.  c) Um sechzehn Uhr dreißig.
-4. An welchem Gate sollen die Passagiere sein?  a) Gate B 14.  b) Gate B 17.  c) Gate B 41.
+4. An welchem Gate sollen die Passagiere sein?  a) Gate B 17.  b) Gate B 14.  c) Gate B 41.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -395,11 +395,11 @@ eine ______ Stadt!" Sie ______ gerne wiederkommen.
 Wähle die richtige Option (a, b oder c) für jede Lücke.
 
 1. „Letzten Sommer bin ich {1} Wien geflogen.  a) nach  b) zu  c) in
-2. {2} Flughafen habe ich ein Taxi {3} Hotel genommen.  a) Am  b) Im  c) Vom
-3. (continuation) Taxi {3} Hotel genommen.  a) zum  b) ins  c) ans
+2. {2} Flughafen habe ich ein Taxi {3} Hotel genommen.  a) Am  b) Vom  c) Im
+3. (continuation) Taxi {3} Hotel genommen.  a) ans  b) ins  c) zum
 4. Das Hotel lag {4} Donaukanal.  a) am  b) in  c) an
-5. Am ersten Tag bin ich {5} das Kunsthistorische Museum gegangen.  a) ins  b) ans  c) zum
-6. {6} Ende habe ich eine wunderbare Woche in Wien verbracht.  a) Am  b) Im  c) Beim
+5. Am ersten Tag bin ich {5} das Kunsthistorische Museum gegangen.  a) ans  b) ins  c) zum
+6. {6} Ende habe ich eine wunderbare Woche in Wien verbracht.  a) Beim  b) Im  c) Am
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 

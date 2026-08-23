@@ -24,10 +24,10 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 Listen to Dialog B and choose the correct answer (a, b, or c).
 
-1. Wofür bewirbt sich Anna?  a) Für eine Stelle als Marketing-Managerin.  b) Für eine Stelle als Projektkoordinatorin.  c) Für eine Stelle als IT-Consultant.
+1. Wofür bewirbt sich Anna?  a) Für eine Stelle als Projektkoordinatorin.  b) Für eine Stelle als Marketing-Managerin.  c) Für eine Stelle als IT-Consultant.
 2. Was war Annas letzte Stelle?  a) Projektkoordinatorin.  b) Junior Marketing-Managerin.  c) Abteilungsleiterin.
 3. Welche Gehaltsvorstellung nennt Anna?  a) 45.000 bis 50.000 Euro brutto.  b) 60.000 bis 65.000 Euro brutto.  c) 52.000 bis 58.000 Euro brutto.
-4. Welche Frage stellt Anna am Ende des Gesprächs?  a) Wie hoch ist das Gehalt genau?  b) Wie ist die Einarbeitung bei Ihnen strukturiert?  c) Kann ich sofort anfangen?
+4. Welche Frage stellt Anna am Ende des Gesprächs?  a) Wie ist die Einarbeitung bei Ihnen strukturiert?  b) Wie hoch ist das Gehalt genau?  c) Kann ich sofort anfangen?
 
 ## Übung H3 — Hörtext-Lückentext
 
@@ -51,10 +51,10 @@ Listen to the Hörtext (Bruno prepares his CV) and fill in the 6 missing words. 
 
 Listen to the voicemail left by Frau Weber. Then choose the correct answer (a, b, or c).
 
-1. Welche Stelle wird gesucht?  a) Eine IT-Consultant-Stelle.  b) Eine Projektkoordinatorin.  c) Eine Abteilungsleiterin.
-2. Ab wann ist die Stelle zu besetzen?  a) Ab dem 1. August.  b) Ab dem 1. November.  c) Ab dem 1. Oktober.
-3. Wann endet die Bewerbungsfrist?  a) Am 30. Juli.  b) Am 30. Juni.  c) Am 15. Juni.
-4. Warum ruft Frau Weber an?  a) Um eine Bewerberin einzuladen.  b) Um Kandidatinnen-Empfehlungen zu erbitten.  c) Um eine Absage zu erteilen.
+1. Welche Stelle wird gesucht?  a) Eine Projektkoordinatorin.  b) Eine IT-Consultant-Stelle.  c) Eine Abteilungsleiterin.
+2. Ab wann ist die Stelle zu besetzen?  a) Ab dem 1. August.  b) Ab dem 1. Oktober.  c) Ab dem 1. November.
+3. Wann endet die Bewerbungsfrist?  a) Am 30. Juli.  b) Am 15. Juni.  c) Am 30. Juni.
+4. Warum ruft Frau Weber an?  a) Um Kandidatinnen-Empfehlungen zu erbitten.  b) Um eine Bewerberin einzuladen.  c) Um eine Absage zu erteilen.
 
 <details>
 <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
@@ -202,10 +202,10 @@ Is each phrase suitable for a formal cover letter or job interview? Answer F (fo
 
 Read the job posting text below and choose the correct answer (a, b, or c). 5 items.
 
-1. Welche Erfahrung wird erwartet?  a) Mindestens fünf Jahre.  b) Mindestens zwei Jahre.  c) Keine Erfahrung nötig.
-2. Welches Englischniveau wird vorausgesetzt?  a) C1.  b) A2.  c) B2.
-3. Ab wann ist die Stelle zu besetzen?  a) Ab sofort.  b) Ab dem 1. Oktober.  c) Ab dem 1. Januar.
-4. Welche Funktion hat das Verb „werden" in den Sätzen der Anzeige, die „werden" enthalten?  a) Es ist ein Futur I.  b) Es ist das Passiv-Hilfsverb.  c) Es ist das Modalverb wollen.
+1. Welche Erfahrung wird erwartet?  a) Mindestens zwei Jahre.  b) Mindestens fünf Jahre.  c) Keine Erfahrung nötig.
+2. Welches Englischniveau wird vorausgesetzt?  a) C1.  b) B2.  c) A2.
+3. Ab wann ist die Stelle zu besetzen?  a) Ab sofort.  b) Ab dem 1. Januar.  c) Ab dem 1. Oktober.
+4. Welche Funktion hat das Verb „werden" in den Sätzen der Anzeige, die „werden" enthalten?  a) Es ist das Passiv-Hilfsverb.  b) Es ist ein Futur I.  c) Es ist das Modalverb wollen.
 5. Bis wann muss man sich bewerben?  a) Bis zum 15. Juli.  b) Bis zum 30. Juni.  c) Bis zum 1. Oktober.
 
 ## Übung A11 — Arbeitswelt-Wortschatz: Definitionen ergänzen
@@ -336,10 +336,10 @@ Is each statement about German interview conventions correct? Answer R (richtig)
 Wähle a, b oder c.
 
 
-1. Für welche Stelle bewirbt sich Anna?  a) Als Marketing-Managerin.  b) Als Projektkoordinatorin.  c) Als IT-Consultant.
-2. Was wurde von Anna in ihrer letzten Stelle koordiniert?  a) Ein neues IT-System.  b) Kundenbewertungen.  c) Mehrere Projekte gleichzeitig.
-3. Welches Projekt nennt Anna als Beispiel?  a) Eine Social-Media-Kampagne.  b) Die Einführung eines CRM-Systems.  c) Ein Onboarding-Programm.
-4. Welche Genitiv-Phrase benutzt Anna im Hauptteil?  a) die Stärke meiner Bewerbung  b) die Qualität meiner Arbeit  c) Beide Varianten erscheinen im Text.
+1. Für welche Stelle bewirbt sich Anna?  a) Als Projektkoordinatorin.  b) Als Marketing-Managerin.  c) Als IT-Consultant.
+2. Was wurde von Anna in ihrer letzten Stelle koordiniert?  a) Ein neues IT-System.  b) Mehrere Projekte gleichzeitig.  c) Kundenbewertungen.
+3. Welches Projekt nennt Anna als Beispiel?  a) Eine Social-Media-Kampagne.  b) Ein Onboarding-Programm.  c) Die Einführung eines CRM-Systems.
+4. Welche Genitiv-Phrase benutzt Anna im Hauptteil?  a) die Qualität meiner Arbeit  b) die Stärke meiner Bewerbung  c) Beide Varianten erscheinen im Text.
 
 ## Übung B9 — Anschreiben-Abschnitt schreiben
 
@@ -390,12 +390,12 @@ Gespräch zu überzeugen, und bittet um eine Einladung zum (10) ______.
 
 Choose the correct option (a, b, or c) for each gap.
 
-1. Ich ______ mich sehr, Sie in einem Gespräch zu überzeugen.  a) würde freuen  b) würde mich freuen  c) freue würde mich
+1. Ich ______ mich sehr, Sie in einem Gespräch zu überzeugen.  a) würde mich freuen  b) würde freuen  c) freue würde mich
 2. Ich ______ über fünf Jahre Erfahrung in der Projektleitung.  a) habe  b) verfüge  c) besitze
-3. Während ______ Tätigkeit koordinierte ich drei Projekte.  a) meiner  b) meine  c) meinen
-4. Die Stelle ______ ab Oktober besetzt.  a) ist  b) wird  c) hat
+3. Während ______ Tätigkeit koordinierte ich drei Projekte.  a) meinen  b) meine  c) meiner
+4. Die Stelle ______ ab Oktober besetzt.  a) wird  b) ist  c) hat
 5. Meiner Vorstellung nach ______ das Gehalt bei 56.000 Euro brutto.  a) liegt  b) läge  c) liegen
-6. Mit ______ Grüßen,  a) freundliche  b) freundlichen  c) freundlichem
+6. Mit ______ Grüßen,  a) freundliche  b) freundlichem  c) freundlichen
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
@@ -453,10 +453,10 @@ Richtig (R) oder Falsch (F)?
 
 Read the job ad below. Choose the correct answer (a, b, or c).
 
-1. Was wird von Bewerberinnen und Bewerbern erwartet?  a) Mindestens fünf Jahre Berufserfahrung.  b) Ein abgeschlossenes Hochschulstudium.  c) Kenntnisse in Python.
+1. Was wird von Bewerberinnen und Bewerbern erwartet?  a) Ein abgeschlossenes Hochschulstudium.  b) Mindestens fünf Jahre Berufserfahrung.  c) Kenntnisse in Python.
 2. Welches Deutschniveau ist Mindestanforderung?  a) B2.  b) C1.  c) B1.
-3. Was passiert mit Überstunden?  a) Sie werden extra bezahlt.  b) Sie werden als Freizeit ausgeglichen.  c) Sie sind nicht erlaubt.
-4. Bis wann muss man sich bewerben?  a) Bis zum 30. Juni.  b) Bis zum 31. Juli.  c) Bis zum 15. Juli.
+3. Was passiert mit Überstunden?  a) Sie werden extra bezahlt.  b) Sie sind nicht erlaubt.  c) Sie werden als Freizeit ausgeglichen.
+4. Bis wann muss man sich bewerben?  a) Bis zum 15. Juli.  b) Bis zum 31. Juli.  c) Bis zum 30. Juni.
 
 ## Übung C5 — Schreiben: Vorstellungsgespräch-Antworten
 

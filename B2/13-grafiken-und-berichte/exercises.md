@@ -110,12 +110,12 @@ Setze die passende Struktur ein (im Zeitraum von, zwischen, seit, im Vergleich z
 
 Wähle die korrekte Beschreibung (a, b oder c). ⚠️ Achte auf Datenverb, Zeitraum und Satzstellung.
 
-1. Welcher Satz ist korrekt?  a) Die Zahl steigert seit 2020.  b) Die Zahl steigt seit 2020.  c) Die Zahl steigt sich seit 2020.
+1. Welcher Satz ist korrekt?  a) Die Zahl steigt seit 2020.  b) Die Zahl steigert seit 2020.  c) Die Zahl steigt sich seit 2020.
 2. Welcher Satz ist korrekt?  a) Im Vergleich mit 2023 ist der Wert gesunken.  b) Im Vergleich zu 2023 ist der Wert gesunken.  c) Im Vergleich von 2023 ist der Wert gesunken.
-3. Welcher Satz ist korrekt?  a) Zwischen 2020 bis 2024 ist die Zahl gestiegen.  b) Zwischen 2020 und 2024 ist die Zahl gestiegen.  c) Zwischen 2020 oder 2024 ist die Zahl gestiegen.
-4. Welcher Satz ist korrekt?  a) Der Anteil beträgt zu 32 Prozent.  b) Der Anteil beträgt 32 Prozent.  c) Der Anteil macht 32 Prozent.
+3. Welcher Satz ist korrekt?  a) Zwischen 2020 bis 2024 ist die Zahl gestiegen.  b) Zwischen 2020 oder 2024 ist die Zahl gestiegen.  c) Zwischen 2020 und 2024 ist die Zahl gestiegen.
+4. Welcher Satz ist korrekt?  a) Der Anteil beträgt 32 Prozent.  b) Der Anteil beträgt zu 32 Prozent.  c) Der Anteil macht 32 Prozent.
 5. Welcher Satz ist korrekt?  a) Es zeigt, dass die Werte stagnieren.  b) Es zeigt sich, dass die Werte stagnieren.  c) Es zeigt auf, dass die Werte stagnieren.
-6. Welcher Satz ist korrekt?  a) Aus der Grafik ergibt, dass die Nutzung sinkt.  b) Aus der Grafik ergibt sich, dass die Nutzung sinkt.  c) Aus der Grafik ist zu ergeben, dass die Nutzung sinkt.
+6. Welcher Satz ist korrekt?  a) Aus der Grafik ergibt, dass die Nutzung sinkt.  b) Aus der Grafik ist zu ergeben, dass die Nutzung sinkt.  c) Aus der Grafik ergibt sich, dass die Nutzung sinkt.
 
 ## Übung A5 — Vergleichsstrukturen korrekt ergänzen
 
@@ -178,10 +178,10 @@ Wähle die passende Ableitungsstruktur (ergibt sich, zeigt sich, lässt sich abl
 
 Wähle die stilistisch korrekte und passende Form (a, b oder c).
 
-1. Welche Eröffnung passt zu einem formellen Bericht?  a) Ich finde, dass die Zahlen schlecht sind.  b) Aus der Grafik ergibt sich, dass die Zahlen rückläufig sind.  c) Da kann man sehen, dass die Zahlen schlecht sind.
-2. Welche Form ist korrekt?  a) Aus der Kurve lässt sich ablesen, dass der Wert 2022 am höchsten war.  b) Aus der Kurve lässt sich ablesen dass der Wert 2022 am höchsten war.  c) Aus der Kurve ist zu ablesen, dass der Wert 2022 am höchsten war.
-3. Welche Form ist korrekt?  a) Die Daten sind zur Verfügung gestellt.  b) Die Daten stehen zur Verfügung.  c) Die Daten werden zur Verfügung stehen.
-4. Welche Form ist korrekt?  a) Man kann feststellen, dass die Tendenz sich ändert.  b) Es lässt sich feststellen, dass die Tendenz sich ändert.  c) Es ist zu feststellen, dass die Tendenz sich ändert.
+1. Welche Eröffnung passt zu einem formellen Bericht?  a) Aus der Grafik ergibt sich, dass die Zahlen rückläufig sind.  b) Ich finde, dass die Zahlen schlecht sind.  c) Da kann man sehen, dass die Zahlen schlecht sind.
+2. Welche Form ist korrekt?  a) Aus der Kurve lässt sich ablesen dass der Wert 2022 am höchsten war.  b) Aus der Kurve lässt sich ablesen, dass der Wert 2022 am höchsten war.  c) Aus der Kurve ist zu ablesen, dass der Wert 2022 am höchsten war.
+3. Welche Form ist korrekt?  a) Die Daten sind zur Verfügung gestellt.  b) Die Daten werden zur Verfügung stehen.  c) Die Daten stehen zur Verfügung.
+4. Welche Form ist korrekt?  a) Es lässt sich feststellen, dass die Tendenz sich ändert.  b) Man kann feststellen, dass die Tendenz sich ändert.  c) Es ist zu feststellen, dass die Tendenz sich ändert.
 
 ## Übung A11 — Satzbau: Datenverb + Zeitraum + Wert
 
@@ -382,10 +382,10 @@ Lies das folgende Textstück und wähle a, b oder c.
 > Eine abschließende Bewertung ist auf Basis dieser Daten allein nicht möglich.
 
 
-1. Welcher Wert wurde im Juli 2022 erreicht?  a) Rund 40 000 Fahrten.  b) Rund 180 000 Fahrten.  c) Rund 195 000 Fahrten.
+1. Welcher Wert wurde im Juli 2022 erreicht?  a) Rund 195 000 Fahrten.  b) Rund 180 000 Fahrten.  c) Rund 40 000 Fahrten.
 2. Wie hat sich die Nutzung zwischen 2020 und 2022 entwickelt?  a) Sie hat sich fast verdoppelt.  b) Sie hat sich fast verfünffacht.  c) Sie ist gleich geblieben.
-3. Welche Aussage lässt sich aus dem Bericht ableiten?  a) Die Nutzung ist seit 2020 ungebrochen gestiegen.  b) Die Nutzung stagniert seit Ende 2022 und ist seit 2024 leicht rückläufig.  c) Die neuen Regelungen haben keinerlei Auswirkung.
-4. Welche Einschränkung macht der Bericht?  a) Die Daten sind unzuverlässig.  b) Eine abschließende Bewertung ist nicht möglich.  c) Es fehlen Vergleichsdaten aus dem Ausland.
+3. Welche Aussage lässt sich aus dem Bericht ableiten?  a) Die Nutzung ist seit 2020 ungebrochen gestiegen.  b) Die neuen Regelungen haben keinerlei Auswirkung.  c) Die Nutzung stagniert seit Ende 2022 und ist seit 2024 leicht rückläufig.
+4. Welche Einschränkung macht der Bericht?  a) Eine abschließende Bewertung ist nicht möglich.  b) Die Daten sind unzuverlässig.  c) Es fehlen Vergleichsdaten aus dem Ausland.
 
 ## Übung C5 — Schreiben: Einen kurzen Datenbericht verfassen
 

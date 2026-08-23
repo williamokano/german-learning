@@ -192,10 +192,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2 — Stellenanzeige
 
-1. **b) eine Teilzeitkraft** — Die Stelle ist Teilzeit: 15 Stunden pro Woche.
+1. **a) eine Teilzeitkraft** — Die Stelle ist Teilzeit: 15 Stunden pro Woche.
 2. **b) Deutsch sehr gut können** — Muttersprache oder C2-Zertifikat = Deutsch sehr gut.
 3. **c) 15** — 15 Stunden pro Woche.
-4. **b) per E-Mail** — Bitte bewerben Sie sich per E-Mail: jobs@lingua-schule.de.
+4. **a) per E-Mail** — Bitte bewerben Sie sich per E-Mail: jobs@lingua-schule.de.
 
 ## Übung C5 — Schreiben: Mein Beruf / mein Traumjob
 

@@ -76,10 +76,10 @@
 
 ## Übung A6 — Falsche Freunde: Was bedeutet das Wort im Deutschen?
 
-1. **b) derzeitig, gegenwärtig** — „aktuell" = derzeitig, gegenwärtig. „tatsächlich" = tatsächlich. „modern" = modern.
+1. **a) derzeitig, gegenwärtig** — „aktuell" = derzeitig, gegenwärtig. „tatsächlich" = tatsächlich. „modern" = modern.
 2. **b) verwirklichen, umsetzen** — „realisieren" = verwirklichen, umsetzen. „erkennen" = begreifen.
 3. **c) empfindlich, heikel** — „sensibel" = empfindlich, heikel. „vernünftig" = sinnvoll, durchdacht.
-4. **b) möglicherweise, vielleicht** — „eventuell" = möglicherweise. „schließlich" = letztendlich.
+4. **a) möglicherweise, vielleicht** — „eventuell" = möglicherweise. „schließlich" = letztendlich.
 5. **b) großartig, einfallsreich** — „genial" = großartig, einfallsreich. Das englische „genial" bedeutet dagegen „freundlich, herzlich" (falscher Freund).
 
 ## Übung A7 — Falsche Freunde: Wort — richtige Bedeutung
@@ -132,10 +132,10 @@ Selbstkorrektur:
 ## Übung B3 — Welche Wendung passt im Kontext?
 
 1. **a) drücke** — „die Daumen drücken" = Glück wünschen.
-2. **a) ins Wasser gefallen** — „ins Wasser fallen" = scheitern.
-3. **b) die Hölle heiß gemacht** — „jemandem die Hölle heiß machen" = massiv unter Druck setzen.
+2. **b) ins Wasser gefallen** — „ins Wasser fallen" = scheitern.
+3. **c) die Hölle heiß gemacht** — „jemandem die Hölle heiß machen" = massiv unter Druck setzen.
 4. **a) die Meinung gegeigt** — „jemandem die Meinung geigen" = deutlich kritisieren.
-5. **a) das Gelbe vom Ei** — „das Gelbe vom Ei" = perfekt (ironisch oder zustimmend).
+5. **b) das Gelbe vom Ei** — „das Gelbe vom Ei" = perfekt (ironisch oder zustimmend).
 
 ## Übung B4 — Motivkreise: Welche Redewendung gehört zu welchem Kreis?
 
@@ -196,12 +196,12 @@ Selbstkorrektur:
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-1. **b) drücke** — „die Daumen drücken" = Glück wünschen.
+1. **a) drücke** — „die Daumen drücken" = Glück wünschen.
 2. **b) zutreffend** — „nicht zutreffend" ist formell; die anderen Varianten sind umgangssprachlich.
-3. **a) ins Wasser gefallen** — „ins Wasser fallen" = scheitern.
-4. **b) fundierte … treffen** — „fundierte Entscheidung treffen" ist die korrekte Kollokation.
+3. **c) ins Wasser gefallen** — „ins Wasser fallen" = scheitern.
+4. **a) fundierte … treffen** — „fundierte Entscheidung treffen" ist die korrekte Kollokation.
 5. **b) mein Fall** — „nicht mein Fall" ist die idiomatische deutsche Entsprechung.
-6. **b) verstorben** — „verstorben" ist die angemessene Form in einer Todesanzeige.
+6. **c) verstorben** — „verstorben" ist die angemessene Form in einer Todesanzeige.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 

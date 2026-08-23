@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (Literaturkritik und Hörfunk)
 
-1. **b) Darin, dass das Feuilleton Schnelligkeit belohnt, die Wissenschaft aber Differenzierung.** — Frau Hoffmann: „Das Feuilleton belohnt Schnelligkeit, Pointe und Zuspitzung — die Wissenschaft belohnt Differenzierung."
+1. **a) Darin, dass das Feuilleton Schnelligkeit belohnt, die Wissenschaft aber Differenzierung.** — Frau Hoffmann: „Das Feuilleton belohnt Schnelligkeit, Pointe und Zuspitzung — die Wissenschaft belohnt Differenzierung."
 2. **b) Polemik kann persönlich werden; die deutsche Satiretradition arbeitet mit Übertreibung, gegen plumpe Beleidigung.** — Frau Hoffmann: „Die deutsche Satiretradition … arbeitet mit der Übertreibung, gegen die plumpe Beleidigung."
-3. **b) Dass die Auswahl der O-Töne bereits eine Deutung ist.** — Yusuf: „welche O-Töne wähle ich? Eine Auswahl ist bereits eine Deutung."
-4. **c) Die Ironie in der Stimme sei subtil genug und brauche keine Erklärung; was den Hörer verwirre, sei die schlechte Anmoderation.** — Frau Hoffmann: „Ironie in der Stimme eines Schauspielers … ist subtil genug; sie muss nicht erklärt werden."
+3. **c) Dass die Auswahl der O-Töne bereits eine Deutung ist.** — Yusuf: „welche O-Töne wähle ich? Eine Auswahl ist bereits eine Deutung."
+4. **a) Die Ironie in der Stimme sei subtil genug und brauche keine Erklärung; was den Hörer verwirre, sei die schlechte Anmoderation.** — Frau Hoffmann: „Ironie in der Stimme eines Schauspielers … ist subtil genug; sie muss nicht erklärt werden."
 5. **b) Kurz, kontextstiftend, leichtfüßig — drei Sätze — und dann den O-Ton das Wort überlassen.** — Frau Hoffmann: „kurz, kontextstiftend und leichtfüßig — drei Sätze, vielleicht vier."
 
 ## Übung H3 — Hörtext-Lückentext: Ein Radio-Feature zur Gegenwartsliteratur
@@ -26,10 +26,10 @@
 
 ## Übung H4 — Kurze Ansage: Anrufbeantworter eines Literaturhauses
 
-1. **b) Das Literaturhaus Berlin.** — „Sie haben den Anrufbeantworter desLiteraturhauses Berlin erreicht."
-2. **a) Bis einschließlich Samstag, 16 Uhr.** — „Wir sind bis einschließlich Samstag, 16 Uhr, geöffnet."
-3. **b) Alle Plätze sind vergriffen; eine Warteliste ist eingerichtet.** — „sind alle Plätze vergriffen — eine Warteliste ist eingerichtet."
-4. **b) Per Telefon unter 030-5512-0817 oder per E-Mail.** — „Bitte rufen Sie uns zurück unter der Nummer 030-5512-0817, oder schreiben Sie uns an lesungen@literaturhaus-berlin.de."
+1. **a) Das Literaturhaus Berlin.** — „Sie haben den Anrufbeantworter desLiteraturhauses Berlin erreicht."
+2. **b) Bis einschließlich Samstag, 16 Uhr.** — „Wir sind bis einschließlich Samstag, 16 Uhr, geöffnet."
+3. **c) Alle Plätze sind vergriffen; eine Warteliste ist eingerichtet.** — „sind alle Plätze vergriffen — eine Warteliste ist eingerichtet."
+4. **a) Per Telefon unter 030-5512-0817 oder per E-Mail.** — „Bitte rufen Sie uns zurück unter der Nummer 030-5512-0817, oder schreiben Sie uns an lesungen@literaturhaus-berlin.de."
 
 ## Übung H5 — Tabelle ausfüllen: Dialog B (Satire und Hörfunk)
 
@@ -61,9 +61,9 @@
 
 ## Übung A4 — Konnotation erkennen
 
-1. **b) emotional — Bangigkeit oder Dräuung** — Im Kontext eines Urteils schwingt Dräuung, Drohung mit — nicht Geborgenheit.
+1. **a) emotional — Bangigkeit oder Dräuung** — Im Kontext eines Urteils schwingt Dräuung, Drohung mit — nicht Geborgenheit.
 2. **b) freundlich, konzentriert** — In der Bibliothek konnotiert „Stille" Konzentration und Ruhe — freundlich.
-3. **b) ideologisch — Schutz, Abgrenzung** — In einem AfD-Programm dominiert die ideologische Schutz- und Abgrenzungskonnotation.
+3. **c) ideologisch — Schutz, Abgrenzung** — In einem AfD-Programm dominiert die ideologische Schutz- und Abgrenzungskonnotation.
 4. **a) Staatlich-institutionelle Konnotation (Internat, Altenheim)** — „Heim" denotiert „Wohnung mit Versorgung" und konnotiert Institution — im Gegensatz zu „Zuhause".
 5. **b) stilistisch — Euphemismus, gehoben** — „entschlummern" ist Euphemismus, gehoben — eine Verschleierung des Todes.
 
@@ -122,10 +122,10 @@
 
 ## Übung B2 — Register: Feuilleton oder Umgangssprache?
 
-1. **b) Das Buch ist bemerkenswert.** — „bemerkenswert" ist Feuilleton-Register; „echt krass" und „absoluter Wahnsinn" sind umgangssprachlich.
+1. **a) Das Buch ist bemerkenswert.** — „bemerkenswert" ist Feuilleton-Register; „echt krass" und „absoluter Wahnsinn" sind umgangssprachlich.
 2. **b) Die Inszenierung war hinreißend.** — „hinreißend" passt ins Feuilleton; „mega" und „voll cool" sind umgangssprachlich.
-3. **b) Die Sendung ist aufschlussreich.** — „aufschlussreich" ist Feuilleton-Standardsprache; die anderen Varianten sind umgangssprachlich.
-4. **b) Das Buch ist eine lohnende Lektüre.** — „eine lohnende Lektüre" ist Feuilleton-Stil; „nice" und „Knaller" sind umgangssprachlich.
+3. **c) Die Sendung ist aufschlussreich.** — „aufschlussreich" ist Feuilleton-Standardsprache; die anderen Varianten sind umgangssprachlich.
+4. **a) Das Buch ist eine lohnende Lektüre.** — „eine lohnende Lektüre" ist Feuilleton-Stil; „nice" und „Knaller" sind umgangssprachlich.
 5. **b) Die Schau ist extravagant und sehenswert.** — „extravagant und sehenswert" ist sachlich und gehoben — Feuilleton-Register.
 
 ## Übung B3 — Erzählperspektive: Wirkung beschreiben
@@ -146,11 +146,11 @@
 
 ## Übung B6 — Hörfunk-Analyse: was leistet die Anmoderation?
 
-1. **b) Drei bis vier Sätze liefern, die Kontext und Pointe ankündigen — ohne den Witz vorwegzunehmen.** — Frau Hoffmann: „kurz, kontextstiftend und leichtfüßig — drei Sätze, vielleicht vier".
+1. **a) Drei bis vier Sätze liefern, die Kontext und Pointe ankündigen — ohne den Witz vorwegzunehmen.** — Frau Hoffmann: „kurz, kontextstiftend und leichtfüßig — drei Sätze, vielleicht vier".
 2. **b) Sie erklärt den Witz — und nimmt ihm damit die Wirkung.** — Den Witz zu erklären heißt, ihn zu nehmen — eine häufige Anfängerfalle.
-3. **b) Der Hörer ist verwirrt, weil der Kontext fehlt.** — Ohne Kontext wirkt das Feature wie eine Collage ohne Faden — der Hörer verliert sich.
-4. **b) Sie ist die akustische Bühne, die die Szene atmosphärisch einbettet.** — Atmo bildet den **Hintergrund**, ohne den das Feature wie ein Bericht klingt.
-5. **a) Wenn die interviewten Personen etwas **spezifisch Eigenes** sagen — Affekte, Pointen, Einzelerfahrungen.** — Mehrere O-Töne lohnen sich, wenn jede Stimme etwas **eigenes** beiträgt.
+3. **c) Der Hörer ist verwirrt, weil der Kontext fehlt.** — Ohne Kontext wirkt das Feature wie eine Collage ohne Faden — der Hörer verliert sich.
+4. **a) Sie ist die akustische Bühne, die die Szene atmosphärisch einbettet.** — Atmo bildet den **Hintergrund**, ohne den das Feature wie ein Bericht klingt.
+5. **b) Wenn die interviewten Personen etwas **spezifisch Eigenes** sagen — Affekte, Pointen, Einzelerfahrungen.** — Mehrere O-Töne lohnen sich, wenn jede Stimme etwas **eigenes** beiträgt.
 
 ## Übung B7 — Angriffsziel und Wirkungsabsicht einer Satire
 

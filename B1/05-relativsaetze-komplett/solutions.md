@@ -14,10 +14,10 @@
 
 ## Übung H1b — Dialog Hör-Check: Dialog B (formell)
 
-1. **b) Das Empfehlungsschreiben, das Anna ihm geschickt hat.** — "Ich habe das Schreiben gelesen, das Sie mir gestern geschickt haben."
+1. **a) Das Empfehlungsschreiben, das Anna ihm geschickt hat.** — "Ich habe das Schreiben gelesen, das Sie mir gestern geschickt haben."
 2. **b) Sie ist zu allgemein.** — "Das ist zu allgemein."
-3. **b) Es gehört zu einer anderen Kategorie — man schreibt stattdessen `auf das`.** — "`worauf` gehört zu einer anderen Kategorie. Auf diesem Niveau schreibt man: `auf das wir sehr stolz sind`."
-4. **b) Er ist sicher, dass es einen sehr guten Eindruck machen wird.** — "Das Schreiben, das Sie dann einreichen, wird sicher einen sehr guten Eindruck machen."
+3. **c) Es gehört zu einer anderen Kategorie — man schreibt stattdessen `auf das`.** — "`worauf` gehört zu einer anderen Kategorie. Auf diesem Niveau schreibt man: `auf das wir sehr stolz sind`."
+4. **a) Er ist sicher, dass es einen sehr guten Eindruck machen wird.** — "Das Schreiben, das Sie dann einreichen, wird sicher einen sehr guten Eindruck machen."
 
 ## Übung H3 — Hörtext-Lückentext: Mias Traumwohnung
 
@@ -25,10 +25,10 @@
 
 ## Übung H4 — Kurze Ansage: Voicemail von Pavel an Anna
 
-1. **b) Um Anna ein neues Café zu empfehlen.** — "Ich wollte dir kurz einen Tipp geben. In unserem Kiez gibt es jetzt ein neues Café, das du unbedingt kennen musst."
+1. **a) Um Anna ein neues Café zu empfehlen.** — "Ich wollte dir kurz einen Tipp geben. In unserem Kiez gibt es jetzt ein neues Café, das du unbedingt kennen musst."
 2. **b) Sie ist unglaublich gut und kennt viele Methoden.** — "Die Barista, die dort arbeitet, ist unglaublich gut — sie kennt jede Methode, über die man in der Specialty-Kaffeewelt spricht."
-3. **b) Ein Filterkaffee aus Äthiopien.** — "Das Beste, was sie macht, ist ein Filterkaffee aus Äthiopien."
-4. **b) Pavel zurückrufen, wenn sie hingeht.** — "Bitte ruf mich zurück, wenn du hingehst — ich komme gern mit!"
+3. **c) Ein Filterkaffee aus Äthiopien.** — "Das Beste, was sie macht, ist ein Filterkaffee aus Äthiopien."
+4. **a) Pavel zurückrufen, wenn sie hingeht.** — "Bitte ruf mich zurück, wenn du hingehst — ich komme gern mit!"
 
 ---
 
@@ -105,10 +105,10 @@
 
 1. **a) die** — die App (f.) as direct object → Akkusativ feminine → die.
 2. **b) denen** — Leute (pl.) with dative verb helfen → Dativ plural → denen.
-3. **b) in dem** — das Stadtgebiet (n.) + preposition in → Dativ → in dem.
-4. **b) was** — das Wichtigste is a neuter superlative → relative pronoun is was.
+3. **c) in dem** — das Stadtgebiet (n.) + preposition in → Dativ → in dem.
+4. **a) was** — das Wichtigste is a neuter superlative → relative pronoun is was.
 5. **b) wo** — wo is the standard relative pronoun after place nouns (Stadt, Ort, Land…).
-6. **b) für den** — der Grund (m.) + für (Akkusativ) → für den.
+6. **c) für den** — der Grund (m.) + für (Akkusativ) → für den.
 
 ## Übung B4 — Satzhälften verbinden — Relativsätze
 
@@ -135,10 +135,10 @@
 
 ## Übung B8 — Leseverstehen: Lesetext (Über uns — die Website des Startups)
 
-1. **b) Auf Stadtgebiete, in denen der öffentliche Nahverkehr unzureichend ist.** — "Wir konzentrieren uns auf die Stadtgebiete, in denen der öffentliche Nahverkehr bisher unzureichend ist."
-2. **c) Der Fokus auf Randbezirke.** — "Das Einzige, was uns von anderen Anbietern unterscheidet, ist unser Fokus."
-3. **b) Das Team besteht aus Leuten, auf die man sich verlassen kann.** — "Unser Team besteht aus Leuten, auf die du dich wirklich verlassen kannst."
-4. **b) Endlich eine Lösung, die wirklich zum Alltag passt.** — "Das Beste, was unsere Nutzer über uns sagen, ist: Endlich eine Lösung, die wirklich zu meinem Alltag passt."
+1. **a) Auf Stadtgebiete, in denen der öffentliche Nahverkehr unzureichend ist.** — "Wir konzentrieren uns auf die Stadtgebiete, in denen der öffentliche Nahverkehr bisher unzureichend ist."
+2. **b) Der Fokus auf Randbezirke.** — "Das Einzige, was uns von anderen Anbietern unterscheidet, ist unser Fokus."
+3. **c) Das Team besteht aus Leuten, auf die man sich verlassen kann.** — "Unser Team besteht aus Leuten, auf die du dich wirklich verlassen kannst."
+4. **a) Endlich eine Lösung, die wirklich zum Alltag passt.** — "Das Beste, was unsere Nutzer über uns sagen, ist: Endlich eine Lösung, die wirklich zu meinem Alltag passt."
 
 ## Übung B9 — WhatsApp-Nachricht: Mein idealer Job
 
@@ -187,10 +187,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Lesen Text 2: Stellenausschreibung — Sprachschule Berlin
 
-1. **b) Eine Lehrkraft, die Freude am Unterrichten hat und DaF-Erfahrung mitbringt.** — "Wir suchen eine engagierte Person, die Freude am Unterrichten hat und über nachgewiesene Erfahrung im DaF-Bereich verfügt."
-2. **c) Lernende aus über 40 Nationen lernen dort zusammen.** — "Wir sind eine Sprachschule, in der Lernende aus über 40 Nationen zusammenkommen."
-3. **b) Vollzeitbeschäftigung.** — "Das Einzige, was wir nicht bieten können, ist Vollzeitbeschäftigung."
-4. **b) in einem Team, dem Ihre Entwicklung am Herzen liegt** — "einem Team, dem Ihre Entwicklung am Herzen liegt" — dem = Dativ (n.) with the dative expression am Herzen liegen.
+1. **a) Eine Lehrkraft, die Freude am Unterrichten hat und DaF-Erfahrung mitbringt.** — "Wir suchen eine engagierte Person, die Freude am Unterrichten hat und über nachgewiesene Erfahrung im DaF-Bereich verfügt."
+2. **b) Lernende aus über 40 Nationen lernen dort zusammen.** — "Wir sind eine Sprachschule, in der Lernende aus über 40 Nationen zusammenkommen."
+3. **c) Vollzeitbeschäftigung.** — "Das Einzige, was wir nicht bieten können, ist Vollzeitbeschäftigung."
+4. **a) in einem Team, dem Ihre Entwicklung am Herzen liegt** — "einem Team, dem Ihre Entwicklung am Herzen liegt" — dem = Dativ (n.) with the dative expression am Herzen liegen.
 
 ## Übung C5 — Schreiben B1: Produktbeschreibung
 

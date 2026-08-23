@@ -42,10 +42,10 @@ exercises:
     items:
       - q: "Wofür interessiert sich Anna laut Dialog B?"
         options:
-          - { key: a, text: "Für Finanzprojekte und Buchhaltung." }
-          - { key: b, text: "Für digitales Projektmanagement und internationale Teamarbeit." }
+          - { key: a, text: "Für digitales Projektmanagement und internationale Teamarbeit." }
+          - { key: b, text: "Für Finanzprojekte und Buchhaltung." }
           - { key: c, text: "Für Marketing und Social Media." }
-        answer: b
+        answer: a
         why: 'Anna: "Ich interessiere mich sehr für digitales Projektmanagement und für internationale Teamarbeit."'
       - q: "Worauf verlässt sich Anna, wenn sie unter Druck arbeitet?"
         options:
@@ -63,10 +63,10 @@ exercises:
         why: 'Anna: "Der Erfolg hängt vor allem davon ab, wie gut sich die Teammitglieder aufeinander verlassen können."'
       - q: "Warum hatte Anna das Vorstellungsgespräch für die frühere Stelle nicht führen können?"
         options:
-          - { key: a, text: "Weil sie keine Erfahrung hatte." }
-          - { key: b, text: "Weil sie sich um einen Umzug kümmern musste." }
+          - { key: a, text: "Weil sie sich um einen Umzug kümmern musste." }
+          - { key: b, text: "Weil sie keine Erfahrung hatte." }
           - { key: c, text: "Weil die Stelle bereits besetzt war." }
-        answer: b
+        answer: a
         why: 'Anna: "ich bin leider nicht dazu gekommen, das Gespräch zu führen — ich musste mich damals um einen Umzug kümmern."'
 
   - id: H3
@@ -483,10 +483,10 @@ exercises:
     items:
       - q: "_____ wartest du? — Auf meinen Bruder."
         options:
-          - { key: a, text: "Worauf" }
-          - { key: b, text: "Auf wen" }
+          - { key: a, text: "Auf wen" }
+          - { key: b, text: "Worauf" }
           - { key: c, text: "Auf was" }
-        answer: b
+        answer: a
         why: "Person (Bruder) → Auf wen? Not worauf (things only)."
       - q: "_____ wartest du? — Auf den nächsten Zug."
         options:
@@ -498,16 +498,16 @@ exercises:
       - q: "Ich denke an meine Mutter. → Ich denke _____."
         options:
           - { key: a, text: "daran" }
-          - { key: b, text: "an sie" }
-          - { key: c, text: "daran sie" }
-        answer: b
+          - { key: b, text: "daran sie" }
+          - { key: c, text: "an sie" }
+        answer: c
         why: "Person (Mutter) → Präp + Pronomen: an sie. Daran is for things."
       - q: "Ich denke an den Urlaub. → Ich denke _____."
         options:
-          - { key: a, text: "an es" }
+          - { key: a, text: "daran" }
           - { key: b, text: "an ihn" }
-          - { key: c, text: "daran" }
-        answer: c
+          - { key: c, text: "an es" }
+        answer: a
         why: "Thing (Urlaub) → Pronominaladverb: daran."
       - q: "_____ sprichst du? — Mit Frau Weber. (mit wem oder womit?)"
         options:
@@ -519,9 +519,9 @@ exercises:
       - q: "_____ beschäftigst du dich? — Mit dem Bericht."
         options:
           - { key: a, text: "Mit wem" }
-          - { key: b, text: "Womit" }
-          - { key: c, text: "Worum" }
-        answer: b
+          - { key: b, text: "Worum" }
+          - { key: c, text: "Womit" }
+        answer: c
         why: "Thing (Bericht) → Womit? Mit wem = with whom (person)."
 
   - id: B3

@@ -100,11 +100,11 @@
 ## Übung B3 — Die richtige Genitivform wählen
 
 1. **a) des Philosophen** — Genitiv maskulin n-Deklination: des Philosophen.
-2. **a) der Grippe** — wegen + Genitiv; die Grippe → der Grippe.
-3. **a) des Zuges** — statt + Genitiv; der Zug → des Zuges.
+2. **b) der Grippe** — wegen + Genitiv; die Grippe → der Grippe.
+3. **c) des Zuges** — statt + Genitiv; der Zug → des Zuges.
 4. **a) der Forschung** — Genitiv feminin: die Forschung → der Forschung.
-5. **a) des Konzerts** — während + Genitiv; das Konzert → des Konzerts.
-6. **b) Hans'** — Namen auf -s: Apostrophe, kein zusätzliches -s.
+5. **b) des Konzerts** — während + Genitiv; das Konzert → des Konzerts.
+6. **c) Hans'** — Namen auf -s: Apostrophe, kein zusätzliches -s.
 
 ## Übung B4 — Genitivpräposition zum richtigen Kontext
 
@@ -127,10 +127,10 @@
 
 ## Übung B8 — Leseverständnis: Mietvertrag (Lesetext)
 
-1. **b) Er muss die Hausverwaltung unverzüglich informieren.** — "Wegen etwaiger Mängel des Gebäudes ist die Hausverwaltung unverzüglich zu informieren."
+1. **a) Er muss die Hausverwaltung unverzüglich informieren.** — "Wegen etwaiger Mängel des Gebäudes ist die Hausverwaltung unverzüglich zu informieren."
 2. **b) Die schriftliche Form.** — "Statt einer mündlichen Mitteilung ist grundsätzlich die schriftliche Form zu bevorzugen."
 3. **c) Der Vermieter.** — "trägt der Vermieter die Kosten notwendiger Reparaturen des Daches."
-4. **b) Mit schriftlicher Genehmigung des Vermieters.** — "mit schriftlicher Genehmigung des Vermieters Untervermietungen vorzunehmen."
+4. **a) Mit schriftlicher Genehmigung des Vermieters.** — "mit schriftlicher Genehmigung des Vermieters Untervermietungen vorzunehmen."
 
 ## Übung B9 — Formelle Beschreibung eines Kollegen
 
@@ -181,10 +181,10 @@ Selbstkorrektur:
 
 ## Übung C4b — Leseverstehen — Offizielles Schreiben (zweiter Text)
 
-1. **b) Wegen der Sanierungsarbeiten des Bürgersteigs.** — "wegen der Sanierungsarbeiten des Bürgersteigs vor dem Bürgeramt"
+1. **a) Wegen der Sanierungsarbeiten des Bürgersteigs.** — "wegen der Sanierungsarbeiten des Bürgersteigs vor dem Bürgeramt"
 2. **b) Auf den Parkplätzen des benachbarten Einkaufszentrums.** — "stehen die Parkplätze des benachbarten Einkaufszentrums kostenfrei zur Verfügung."
 3. **c) Der Seiteneingang der Goethestraße.** — "Statt des gewohnten Eingangs nutzen Sie bitte den Seiteneingang der Goethestraße."
-4. **b) Vom 1. bis 15. Juli.** — "in der Zeit vom 1. bis 15. Juli gesperrt."
+4. **a) Vom 1. bis 15. Juli.** — "in der Zeit vom 1. bis 15. Juli gesperrt."
 
 ## Übung C5 — Schreiben — Formeller Absatz mit Genitiv
 
