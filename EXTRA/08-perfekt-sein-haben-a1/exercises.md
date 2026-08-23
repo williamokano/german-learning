@@ -69,12 +69,12 @@ Choose the correct auxiliary for each gap (a, b, or c). The sentences form one s
 
 1. Am Samstag ___ wir einen Ausflug gemacht.  a) haben  b) sind  c) hat
 2. Wir ___ mit dem Zug gefahren.  a) haben  b) sind  c) hat
-3. In der Stadt ___ wir ein Museum besucht.  a) sind  b) haben  c) hat
-4. Danach ___ ich ein Eis gegessen.  a) bin  b) habe  c) hat
-5. Meine Schwester ___ Fotos gemacht.  a) ist  b) hat  c) haben
-6. Am Abend ___ wir müde nach Hause gekommen.  a) haben  b) sind  c) hat
-7. Ich ___ sofort eingeschlafen.  a) bin  b) habe  c) hat
-8. Es ___ ein schöner Tag gewesen.  a) hat  b) ist  c) haben
+3. In der Stadt ___ wir ein Museum besucht.  a) sind  b) hat  c) haben
+4. Danach ___ ich ein Eis gegessen.  a) habe  b) bin  c) hat
+5. Meine Schwester ___ Fotos gemacht.  a) ist  b) haben  c) hat
+6. Am Abend ___ wir müde nach Hause gekommen.  a) sind  b) haben  c) hat
+7. Ich ___ sofort eingeschlafen.  a) hat  b) bin  c) habe
+8. Es ___ ein schöner Tag gewesen.  a) hat  b) haben  c) ist
 
 ## Übung C2 — Sprachbausteine Teil 2 — Meine Woche (Wortbank)
 
@@ -111,11 +111,11 @@ Ergänze das richtige Hilfsverb.
 
 Choose the correct answer (a, b, or c). This is your final check for this set.
 
-1. Ich ___ ins Kino gegangen.  a) habe  b) bin  c) ist
+1. Ich ___ ins Kino gegangen.  a) bin  b) habe  c) ist
 2. Wir ___ Pizza gegessen.  a) sind  b) haben  c) hat
-3. Er ___ mit dem Fahrrad gefahren.  a) hat  b) ist  c) habe
-4. Sie (Plural) ___ lange geschlafen.  a) sind  b) haben  c) hat
+3. Er ___ mit dem Fahrrad gefahren.  a) hat  b) habe  c) ist
+4. Sie (Plural) ___ lange geschlafen.  a) haben  b) sind  c) hat
 5. Das Kind ___ eingeschlafen.  a) hat  b) ist  c) habe
-6. Ich ___ meine Hausaufgaben gemacht.  a) bin  b) habe  c) ist
+6. Ich ___ meine Hausaufgaben gemacht.  a) bin  b) ist  c) habe
 
 _5–6 von 6 richtig? Weiter geht's mit der A2-Version (mehr unregelmäßige Partizipien). Weniger als 5? Schau dir Block A noch einmal an._

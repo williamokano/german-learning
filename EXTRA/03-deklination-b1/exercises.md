@@ -65,13 +65,13 @@ Wähle die richtige Antwort (a, b oder c).
 Choose the correct word for each gap (a, b, or c). The sentences form one short story.
 
 1. Der Bäcker begrüßt ___ freundlich, als er den Laden betritt.  a) der Kunde  b) den Kunden  c) dem Kunden
-2. Er zeigt ___ die frischen Brötchen.  a) den Kunden  b) dem Kunden  c) der Kunde
-3. Trotz ___ Regens kommen viele Kunden.  a) der  b) des  c) dem
-4. Ein Junge steht auch in der Schlange. Der Bäcker kennt ___ gut.  a) der Junge  b) den Jungen  c) dem Jungen
-5. Er gibt ___ ein kostenloses Brötchen.  a) den Jungen  b) dem Jungen  c) der Junge
+2. Er zeigt ___ die frischen Brötchen.  a) dem Kunden  b) der Kunde  c) den Kunden
+3. Trotz ___ Regens kommen viele Kunden.  a) der  b) dem  c) des
+4. Ein Junge steht auch in der Schlange. Der Bäcker kennt ___ gut.  a) den Jungen  b) der Junge  c) dem Jungen
+5. Er gibt ___ ein kostenloses Brötchen.  a) der Junge  b) den Jungen  c) dem Jungen
 6. Wegen ___ großen Andrangs muss der Bäcker mehr backen.  a) der  b) des  c) dem
 7. Statt ___ Brötchen kauft eine Kundin heute nur Brot.  a) der  b) des  c) dem
-8. Am Ende des Tages dankt der Bäcker ___ für ihre Treue.  a) die Kunden  b) den Kunden  c) der Kunden
+8. Am Ende des Tages dankt der Bäcker ___ für ihre Treue.  a) die Kunden  b) der Kunden  c) den Kunden
 
 ## Übung C2 — Sprachbausteine Teil 2 — Der neue Nachbar (Wortbank)
 

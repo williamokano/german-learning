@@ -98,24 +98,24 @@ exercises:
         answer: a
         why: "fahren: starkes Verb → fuhr, kein -te."
       - q: "sehen → du ___"
-        options: [{ key: a, text: "sahst" }, { key: b, text: "sehtest" }, { key: c, text: "sehst" }]
-        answer: a
+        options: [{ key: a, text: "sehtest" }, { key: b, text: "sahst" }, { key: c, text: "sehst" }]
+        answer: b
         why: "sehen: starkes Verb → sahst."
       - q: "essen → er ___"
-        options: [{ key: a, text: "aß" }, { key: b, text: "esste" }, { key: c, text: "essete" }]
-        answer: a
+        options: [{ key: a, text: "esste" }, { key: b, text: "essete" }, { key: c, text: "aß" }]
+        answer: c
         why: "essen: starkes Verb → aß, kein -te und keine Endung in er/sie/es."
       - q: "trinken → wir ___"
         options: [{ key: a, text: "trunken" }, { key: b, text: "tranken" }, { key: c, text: "trinkten" }]
         answer: b
         why: "trinken: starkes Verb → tranken."
       - q: "schreiben → ihr ___"
-        options: [{ key: a, text: "schriebt" }, { key: b, text: "schreibtet" }, { key: c, text: "schribt" }]
-        answer: a
+        options: [{ key: a, text: "schreibtet" }, { key: b, text: "schribt" }, { key: c, text: "schriebt" }]
+        answer: c
         why: "schreiben: starkes Verb → schriebt."
       - q: "sprechen → sie (Plural) ___"
-        options: [{ key: a, text: "sprachen" }, { key: b, text: "sprechten" }, { key: c, text: "sprochen" }]
-        answer: a
+        options: [{ key: a, text: "sprechten" }, { key: b, text: "sprachen" }, { key: c, text: "sprochen" }]
+        answer: b
         why: "sprechen: starkes Verb → sprachen."
 
   # ── Block C — Sprachbausteine ─────────────────────────────────────────────
@@ -220,23 +220,23 @@ exercises:
         answer: a
         why: "Zustand → war."
       - q: "Er ___ mir ein Geschenk."
-        options: [{ key: a, text: "gab" }, { key: b, text: "gabte" }, { key: c, text: "gebte" }]
-        answer: a
+        options: [{ key: a, text: "gabte" }, { key: b, text: "gab" }, { key: c, text: "gebte" }]
+        answer: b
         why: "geben: starkes Verb → gab."
       - q: "Wir ___ lange auf den Bus."
-        options: [{ key: a, text: "warteten" }, { key: b, text: "wartten" }, { key: c, text: "wartet" }]
-        answer: a
+        options: [{ key: a, text: "wartten" }, { key: b, text: "wartet" }, { key: c, text: "warteten" }]
+        answer: c
         why: "warten: schwaches Verb → warteten."
       - q: "Sie öffnete das Fenster, weil es ihr zu warm ___."
-        options: [{ key: a, text: "war" }, { key: b, text: "wurde" }, { key: c, text: "hatte" }]
-        answer: a
+        options: [{ key: a, text: "wurde" }, { key: b, text: "hatte" }, { key: c, text: "war" }]
+        answer: c
         why: "Zustand → war."
       - q: "Ich ___ nicht, was ich sagen sollte."
-        options: [{ key: a, text: "wusste" }, { key: b, text: "wisste" }, { key: c, text: "wusstete" }]
-        answer: a
+        options: [{ key: a, text: "wisste" }, { key: b, text: "wusste" }, { key: c, text: "wusstete" }]
+        answer: b
         why: "wissen: gemischtes Verb (Vokalwechsel + -te) → wusste."
       - q: "Die Kinder ___ im Garten."
-        options: [{ key: a, text: "spielten" }, { key: b, text: "spielen" }, { key: c, text: "spielt" }]
-        answer: a
+        options: [{ key: a, text: "spielen" }, { key: b, text: "spielt" }, { key: c, text: "spielten" }]
+        answer: c
         why: "spielen: schwaches Verb → spielten."
     notes: "5–6 von 6 richtig? Präteritum und Perfekt zusammen sitzen jetzt sicher. Weniger als 5? Schau dir Block A noch einmal an."

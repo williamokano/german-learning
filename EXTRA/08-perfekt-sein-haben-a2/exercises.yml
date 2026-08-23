@@ -101,24 +101,24 @@ exercises:
         answer: b
         why: "verstehen: untrennbares Präfix ver- → kein ge-."
       - q: "Er hat drei Sprachen ___."
-        options: [{ key: a, text: "studiert" }, { key: b, text: "gestudiert" }, { key: c, text: "studieren" }]
-        answer: a
+        options: [{ key: a, text: "gestudiert" }, { key: b, text: "studieren" }, { key: c, text: "studiert" }]
+        answer: c
         why: "-ieren-Verben bekommen nie ge-."
       - q: "Wir haben das Auto ___."
-        options: [{ key: a, text: "verkauft" }, { key: b, text: "geverkauft" }, { key: c, text: "verkaufen" }]
-        answer: a
+        options: [{ key: a, text: "verkaufen" }, { key: b, text: "verkauft" }, { key: c, text: "geverkauft" }]
+        answer: b
         why: "verkaufen: untrennbares Präfix ver- → kein ge-."
       - q: "Sie ist gestern ___."
-        options: [{ key: a, text: "angekommen" }, { key: b, text: "gekommt an" }, { key: c, text: "ankommt" }]
-        answer: a
+        options: [{ key: a, text: "gekommt an" }, { key: b, text: "ankommt" }, { key: c, text: "angekommen" }]
+        answer: c
         why: "ankommen: trennbares Präfix → ge- zwischen Präfix und Stamm (an-ge-kommen)."
       - q: "Ich habe den Film schon ___."
         options: [{ key: a, text: "gesehen" }, { key: b, text: "sehen" }, { key: c, text: "geseht" }]
         answer: a
         why: "sehen ist unregelmäßig → gesehen."
       - q: "Er hat mir die Regel ___."
-        options: [{ key: a, text: "erklärt" }, { key: b, text: "geerklärt" }, { key: c, text: "erklären" }]
-        answer: a
+        options: [{ key: a, text: "geerklärt" }, { key: b, text: "erklärt" }, { key: c, text: "erklären" }]
+        answer: b
         why: "erklären: untrennbares Präfix er- → kein ge-."
 
   # ── Block C — Sprachbausteine ─────────────────────────────────────────────
@@ -225,23 +225,23 @@ exercises:
         answer: a
         why: "vergessen: untrennbares Präfix ver- → kein ge-."
       - q: "Er hat mir die Wahrheit ___."
-        options: [{ key: a, text: "gesagt" }, { key: b, text: "sagt" }, { key: c, text: "sagen" }]
-        answer: a
+        options: [{ key: a, text: "sagt" }, { key: b, text: "gesagt" }, { key: c, text: "sagen" }]
+        answer: b
         why: "sagen: regelmäßig → gesagt."
       - q: "Sie ist nach Hause ___."
-        options: [{ key: a, text: "gehen" }, { key: b, text: "gegangen" }, { key: c, text: "gegeht" }]
-        answer: b
+        options: [{ key: a, text: "gehen" }, { key: b, text: "gegeht" }, { key: c, text: "gegangen" }]
+        answer: c
         why: "gehen: unregelmäßig → gegangen."
       - q: "Ich habe das Auto ___."
-        options: [{ key: a, text: "repariert" }, { key: b, text: "gerepariert" }, { key: c, text: "reparieren" }]
-        answer: a
+        options: [{ key: a, text: "gerepariert" }, { key: b, text: "reparieren" }, { key: c, text: "repariert" }]
+        answer: c
         why: "-ieren-Verben bekommen nie ge-."
       - q: "Wir haben lange ___."
         options: [{ key: a, text: "diskutiert" }, { key: b, text: "gediskutiert" }, { key: c, text: "diskutieren" }]
         answer: a
         why: "-ieren-Verben bekommen nie ge-."
       - q: "Das Konzert hat mir sehr ___."
-        options: [{ key: a, text: "gefallen" }, { key: b, text: "gegefallen" }, { key: c, text: "gefallt" }]
-        answer: a
+        options: [{ key: a, text: "gegefallen" }, { key: b, text: "gefallen" }, { key: c, text: "gefallt" }]
+        answer: b
         why: "gefallen: untrennbares Präfix ge- (schon im Stamm) → kein zusätzliches ge-."
     notes: "5–6 von 6 richtig? Weiter geht's mit dem Präteritum (B1), der geschriebenen Vergangenheitsform. Weniger als 5? Schau dir Block A noch einmal an."

@@ -39,14 +39,14 @@
 
 ## Übung C1 — Sprachbausteine Teil 1 — Wessen ist das?
 
-1. **b) meiner** — Substantivisch, maskulin Nominativ → meiner.
-2. **b) unsere** — Substantivisch, Plural → unsere.
+1. **c) meiner** — Substantivisch, maskulin Nominativ → meiner.
+2. **a) unsere** — Substantivisch, Plural → unsere.
 3. **b) meins** — Substantivisch, neutral → meins (nicht mein — das Artikel-'mein' braucht ein Nomen).
 4. **a) meiner** — Genitiv feminin → meiner.
 5. **c) deinen** — Substantivisch, maskulin Akkusativ → deinen (gleiche Form wie der Artikel im Akkusativ).
-6. **b) deine** — Substantivisch, feminin → deine (gleiche Form wie der Artikel).
+6. **a) deine** — Substantivisch, feminin → deine (gleiche Form wie der Artikel).
 7. **b) meiner** — Genitiv Plural → meiner.
-8. **b) eures** — Substantivisch, neutral Akkusativ → eures.
+8. **c) eures** — Substantivisch, neutral Akkusativ → eures.
 
 ## Übung C2 — Sprachbausteine Teil 2 — Der Flohmarkt (Wortbank)
 

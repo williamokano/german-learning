@@ -137,28 +137,28 @@ exercises:
         answer: b
         why: "fahren → sein."
       - q: "In der Stadt ___ wir ein Museum besucht."
-        options: [{ key: a, text: "sind" }, { key: b, text: "haben" }, { key: c, text: "hat" }]
-        answer: b
+        options: [{ key: a, text: "sind" }, { key: b, text: "hat" }, { key: c, text: "haben" }]
+        answer: c
         why: "besuchen → haben."
       - q: "Danach ___ ich ein Eis gegessen."
-        options: [{ key: a, text: "bin" }, { key: b, text: "habe" }, { key: c, text: "hat" }]
-        answer: b
+        options: [{ key: a, text: "habe" }, { key: b, text: "bin" }, { key: c, text: "hat" }]
+        answer: a
         why: "essen → haben."
       - q: "Meine Schwester ___ Fotos gemacht."
-        options: [{ key: a, text: "ist" }, { key: b, text: "hat" }, { key: c, text: "haben" }]
-        answer: b
+        options: [{ key: a, text: "ist" }, { key: b, text: "haben" }, { key: c, text: "hat" }]
+        answer: c
         why: "machen → haben."
       - q: "Am Abend ___ wir müde nach Hause gekommen."
-        options: [{ key: a, text: "haben" }, { key: b, text: "sind" }, { key: c, text: "hat" }]
-        answer: b
+        options: [{ key: a, text: "sind" }, { key: b, text: "haben" }, { key: c, text: "hat" }]
+        answer: a
         why: "kommen → sein."
       - q: "Ich ___ sofort eingeschlafen."
-        options: [{ key: a, text: "bin" }, { key: b, text: "habe" }, { key: c, text: "hat" }]
-        answer: a
+        options: [{ key: a, text: "hat" }, { key: b, text: "bin" }, { key: c, text: "habe" }]
+        answer: b
         why: "einschlafen: Zustandswechsel → sein."
       - q: "Es ___ ein schöner Tag gewesen."
-        options: [{ key: a, text: "hat" }, { key: b, text: "ist" }, { key: c, text: "haben" }]
-        answer: b
+        options: [{ key: a, text: "hat" }, { key: b, text: "haben" }, { key: c, text: "ist" }]
+        answer: c
         why: "sein → sein (Ausnahme, immer sein als Hilfsverb)."
 
   - id: C2
@@ -218,27 +218,27 @@ exercises:
     instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
     items:
       - q: "Ich ___ ins Kino gegangen."
-        options: [{ key: a, text: "habe" }, { key: b, text: "bin" }, { key: c, text: "ist" }]
-        answer: b
+        options: [{ key: a, text: "bin" }, { key: b, text: "habe" }, { key: c, text: "ist" }]
+        answer: a
         why: "gehen → sein."
       - q: "Wir ___ Pizza gegessen."
         options: [{ key: a, text: "sind" }, { key: b, text: "haben" }, { key: c, text: "hat" }]
         answer: b
         why: "essen → haben."
       - q: "Er ___ mit dem Fahrrad gefahren."
-        options: [{ key: a, text: "hat" }, { key: b, text: "ist" }, { key: c, text: "habe" }]
-        answer: b
+        options: [{ key: a, text: "hat" }, { key: b, text: "habe" }, { key: c, text: "ist" }]
+        answer: c
         why: "fahren → sein."
       - q: "Sie (Plural) ___ lange geschlafen."
-        options: [{ key: a, text: "sind" }, { key: b, text: "haben" }, { key: c, text: "hat" }]
-        answer: b
+        options: [{ key: a, text: "haben" }, { key: b, text: "sind" }, { key: c, text: "hat" }]
+        answer: a
         why: "schlafen: kein Bewegungsverb → haben."
       - q: "Das Kind ___ eingeschlafen."
         options: [{ key: a, text: "hat" }, { key: b, text: "ist" }, { key: c, text: "habe" }]
         answer: b
         why: "einschlafen: Zustandswechsel → sein."
       - q: "Ich ___ meine Hausaufgaben gemacht."
-        options: [{ key: a, text: "bin" }, { key: b, text: "habe" }, { key: c, text: "ist" }]
-        answer: b
+        options: [{ key: a, text: "bin" }, { key: b, text: "ist" }, { key: c, text: "habe" }]
+        answer: c
         why: "machen → haben."
     notes: "5–6 von 6 richtig? Weiter geht's mit der A2-Version (mehr unregelmäßige Partizipien). Weniger als 5? Schau dir Block A noch einmal an."

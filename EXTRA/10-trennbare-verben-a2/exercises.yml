@@ -1,0 +1,246 @@
+lesson: "EX/10-trennbare-verben-a2"
+title: "Perfekt trennbarer/untrennbarer Verben & Präfixe mit zwei Bedeutungen — A2"
+topic: "Trennbare und untrennbare Verben"
+level: A2
+intro: >
+  Standalone drill set, not tied to any lesson. Builds on the A1 set
+  with the Perfekt: a separable verb inserts -ge- BETWEEN the prefix
+  and the stem (aufstehen -> aufgestanden), an inseparable verb never
+  takes ge- at all (verstehen -> verstanden). A handful of prefixes
+  (um-, über-, durch-, unter-) can be EITHER, with a different meaning
+  each way — umfahren separable ("fährt … um") means to knock
+  something over; umfahren inseparable ("umfährt") means to drive
+  around it. Blocks: A Basistraining → B Vertiefung → C Sprachbausteine
+  → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    skill: conjugation
+    title: "Partizip II: trennbar vs. untrennbar"
+    instructions: "Ergänze das Partizip II und das Hilfsverb."
+    instructionsEn: "Fill in the Partizip II and the auxiliary."
+    columns: ["", "Partizip II", "Hilfsverb"]
+    rows:
+      - label: "aufstehen"
+        cells: [{ gap: 1, answer: "aufgestanden" }, { gap: 2, answer: "sein" }]
+      - label: "einkaufen"
+        cells: [{ gap: 3, answer: "eingekauft" }, { gap: 4, answer: "haben" }]
+      - label: "anrufen"
+        cells: [{ gap: 5, answer: "angerufen" }, { gap: 6, answer: "haben" }]
+      - label: "ankommen"
+        cells: [{ gap: 7, answer: "angekommen" }, { gap: 8, answer: "sein" }]
+      - label: "verstehen"
+        cells: [{ gap: 9, answer: "verstanden" }, { gap: 10, answer: "haben" }]
+      - label: "besuchen"
+        cells: [{ gap: 11, answer: "besucht" }, { gap: 12, answer: "haben" }]
+      - label: "erklären"
+        cells: [{ gap: 13, answer: "erklärt" }, { gap: 14, answer: "haben" }]
+      - label: "wegfahren"
+        cells: [{ gap: 15, answer: "weggefahren" }, { gap: 16, answer: "sein" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Präfixe mit zwei Bedeutungen: umfahren, übersetzen"
+    instructions: "Ergänze das richtige Partizip II. Der Kontext entscheidet, ob das Präfix trennbar oder untrennbar ist."
+    instructionsEn: "Fill in the correct Partizip II — context decides whether the prefix is separable or inseparable here."
+    text: |
+      1. Er ist mit dem Auto um den Stau herum gefahren. Er hat den Stau {1}.
+      2. Der Lastwagen hat das Verkehrsschild {2}.
+      3. Die Dolmetscherin hat den Vortrag simultan {3}.
+      4. Der Bootsführer hat die Touristen zur Insel {4}.
+      5. Der Fahrer hat vorsichtig das Loch in der Straße {5}.
+      6. Bei dem Unfall hat der Bus fast einen Baum {6}.
+    answers:
+      "1": umfahren
+      "2": umgefahren
+      "3": übersetzt
+      "4": übergesetzt
+      "5": umfahren
+      "6": umgefahren
+    notes: "umfahren (untrennbar, umfährt) = 'um etwas herumfahren'; umfahren (trennbar, fährt … um) = 'etwas anfahren/umstoßen'. Genauso: übersetzen (untrennbar) = 'in eine andere Sprache übertragen'; übersetzen (trennbar, setzt … über) = 'mit einem Boot ans andere Ufer bringen'."
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Ein chaotischer Tag"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Heute Morgen bin ich spät {1}. Ich habe schnell die Wohnung {2}.
+      Auf dem Weg zur Arbeit habe ich meine Chefin {3}. Sie hat meine
+      Verspätung sofort {4}. Ich bin pünktlich im Büro {5}. Nach der
+      Arbeit habe ich noch Brot {6}. Am Abend habe ich einen Freund
+      {7}. Wir haben lange {8}.
+    bank: [aufgestanden, aufgeräumt, angerufen, verstanden, angekommen, eingekauft, besucht, geredet, erklärt, gekauft]
+    answers:
+      "1": aufgestanden
+      "2": aufgeräumt
+      "3": angerufen
+      "4": verstanden
+      "5": angekommen
+      "6": eingekauft
+      "7": besucht
+      "8": geredet
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Das richtige Partizip II bilden"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Ich habe das Fenster ___."
+        options: [{ key: a, text: "geaufmacht" }, { key: b, text: "aufgemacht" }, { key: c, text: "aufmachtgen" }]
+        answer: b
+        why: "trennbar: ge- zwischen Präfix und Stamm."
+      - q: "Er hat die Aufgabe ___."
+        options: [{ key: a, text: "geerklärt" }, { key: b, text: "erklärtge" }, { key: c, text: "erklärt" }]
+        answer: c
+        why: "untrennbar (er-): kein ge-."
+      - q: "Wir sind spät ___."
+        options: [{ key: a, text: "angekommen" }, { key: b, text: "gekommenan" }, { key: c, text: "ankommgen" }]
+        answer: a
+        why: "trennbar: ge- zwischen Präfix und Stamm."
+      - q: "Sie hat ihre Oma ___."
+        options: [{ key: a, text: "gebesucht" }, { key: b, text: "besucht" }, { key: c, text: "besuchtge" }]
+        answer: b
+        why: "untrennbar (be-): kein ge-."
+      - q: "Ich bin heute früh ___."
+        options: [{ key: a, text: "gestandenauf" }, { key: b, text: "aufstandgen" }, { key: c, text: "aufgestanden" }]
+        answer: c
+        why: "trennbar: ge- zwischen Präfix und Stamm."
+      - q: "Wir haben das Museum ___."
+        options: [{ key: a, text: "besichtigt" }, { key: b, text: "besichtigtge" }, { key: c, text: "gebesichtigt" }]
+        answer: a
+        why: "untrennbar (be-): kein ge-."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Ein Umzug"
+    instructions: "Choose the correct Partizip II for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Wir haben letzten Monat unsere Wohnung ___."
+        options: [{ key: a, text: "geaufräumt" }, { key: b, text: "aufgeräumt" }, { key: c, text: "räumtaufge" }]
+        answer: b
+        why: "aufräumen: trennbar → aufgeräumt."
+      - q: "Ich habe alle Kisten ___."
+        options: [{ key: a, text: "gepacktein" }, { key: b, text: "geeinpackt" }, { key: c, text: "eingepackt" }]
+        answer: c
+        why: "einpacken: trennbar → eingepackt."
+      - q: "Meine Freunde haben mir ___."
+        options: [{ key: a, text: "geholfen" }, { key: b, text: "helfgen" }, { key: c, text: "gehilft" }]
+        answer: a
+        why: "helfen: unregelmäßig → geholfen."
+      - q: "Wir haben den Umzugswagen ___."
+        options: [{ key: a, text: "gebestellt" }, { key: b, text: "bestellt" }, { key: c, text: "bestelltge" }]
+        answer: b
+        why: "bestellen: untrennbar (be-) → kein ge-."
+      - q: "Am Umzugstag sind wir früh ___."
+        options: [{ key: a, text: "gestandenauf" }, { key: b, text: "aufstandgen" }, { key: c, text: "aufgestanden" }]
+        answer: c
+        why: "aufstehen: trennbar → aufgestanden."
+      - q: "Die Nachbarn haben uns ___."
+        options: [{ key: a, text: "begrüßt" }, { key: b, text: "gebegrüßt" }, { key: c, text: "begrüßtge" }]
+        answer: a
+        why: "begrüßen: untrennbar (be-) → kein ge-."
+      - q: "Wir sind in die neue Wohnung ___."
+        options: [{ key: a, text: "gezogenein" }, { key: b, text: "eingezogen" }, { key: c, text: "einziehtgen" }]
+        answer: b
+        why: "einziehen: trennbar → eingezogen."
+      - q: "Am Ende haben wir alles ___."
+        options: [{ key: a, text: "gebautauf" }, { key: b, text: "aufbautgen" }, { key: c, text: "aufgebaut" }]
+        answer: c
+        why: "aufbauen: trennbar → aufgebaut."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Ein Verkehrsunfall (Wortbank)"
+    instructions: "Fill the 10 gaps. Three words in the box are not needed."
+    text: |
+      Gestern habe ich einen Unfall {1}. Ein Fahrer ist zu schnell {2}.
+      Er hat ein Verkehrsschild {3}. Zum Glück hat er die Fußgänger
+      {4}. Die Polizei ist schnell {5}. Ein Beamter hat den Unfall
+      genau {6}. Die Zeugen haben alles genau {7}. Der Fahrer hat sich
+      sofort {8}. Ein anderer Zeuge hat Fotos {9}. Am Ende hat die
+      Polizei den Bericht {10}.
+    bank: [BEOBACHTET, GEFAHREN, UMGEFAHREN, UMFAHREN, ANGEKOMMEN, UNTERSUCHT, BESCHRIEBEN, ENTSCHULDIGT, GEMACHT, AUFGENOMMEN, GEUMFAHREN, BESUCHTGE, ANGERUFEN]
+    answers:
+      "1": BEOBACHTET
+      "2": GEFAHREN
+      "3": UMGEFAHREN
+      "4": UMFAHREN
+      "5": ANGEKOMMEN
+      "6": UNTERSUCHT
+      "7": BESCHRIEBEN
+      "8": ENTSCHULDIGT
+      "9": GEMACHT
+      "10": AUFGENOMMEN
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze das Partizip II."
+    text: |
+      1. Ich habe die Tür {1}. (aufmachen)
+      2. Wir sind pünktlich {2}. (ankommen)
+      3. Er hat mir alles {3}. (erklären)
+      4. Sie haben das Auto {4}. (verkaufen)
+      5. Ich bin früh {5}. (aufstehen)
+      6. Wir haben unsere Oma {6}. (besuchen)
+      7. Der Fahrer hat den Ball fast {7}. (umfahren, trennbar)
+    answers:
+      "1": aufgemacht
+      "2": angekommen
+      "3": erklärt
+      "4": verkauft
+      "5": aufgestanden
+      "6": besucht
+      "7": umgefahren
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Ich habe das Licht ___."
+        options: [{ key: a, text: "geanmacht" }, { key: b, text: "anmachtge" }, { key: c, text: "angemacht" }]
+        answer: c
+        why: "anmachen: trennbar → angemacht."
+      - q: "Er hat die Frage ___."
+        options: [{ key: a, text: "beantwortet" }, { key: b, text: "gebeantwortet" }, { key: c, text: "beantwortetge" }]
+        answer: a
+        why: "beantworten: untrennbar (be-) → kein ge-."
+      - q: "Wir sind zu spät ___."
+        options: [{ key: a, text: "gekommen" }, { key: b, text: "angekommen" }, { key: c, text: "ankgekommen" }]
+        answer: b
+        why: "ankommen: trennbar → angekommen."
+      - q: "Sie hat den Termin ___."
+        options: [{ key: a, text: "gevergessen" }, { key: b, text: "vergessenge" }, { key: c, text: "vergessen" }]
+        answer: c
+        why: "vergessen: untrennbar (ver-) → kein ge-."
+      - q: "Ich habe die Kiste ___."
+        options: [{ key: a, text: "aufgemacht" }, { key: b, text: "geaufmacht" }, { key: c, text: "machtaufge" }]
+        answer: a
+        why: "aufmachen: trennbar → aufgemacht."
+      - q: "Wir haben den Chef ___."
+        options: [{ key: a, text: "geinformiert" }, { key: b, text: "informiert" }, { key: c, text: "informiertge" }]
+        answer: b
+        why: "-ieren-Verben bekommen nie ge-."
+    notes: "5–6 von 6 richtig? Das ganze trennbar/untrennbar-System — inklusive der Doppeldeutigen — sitzt jetzt sicher."

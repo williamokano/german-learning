@@ -69,11 +69,11 @@ Choose the correct preposition for each gap (a, b, or c). The sentences form one
 1. Ich interessiere mich seit Kurzem ___ Yoga.  a) für  b) an  c) über
 2. Meine Familie ärgert sich manchmal ___ meine neue Leidenschaft.  a) für  b) an  c) über
 3. Ich träume schon ___ einem eigenen Yogastudio.  a) an  b) von  c) über
-4. Am Anfang hatte ich Angst ___ den schwierigen Übungen.  a) vor  b) an  c) über
-5. Jetzt erinnere ich mich kaum noch ___ diese Angst.  a) an  b) von  c) vor
+4. Am Anfang hatte ich Angst ___ den schwierigen Übungen.  a) an  b) vor  c) über
+5. Jetzt erinnere ich mich kaum noch ___ diese Angst.  a) von  b) vor  c) an
 6. Nächsten Monat nehme ich ___ einem Yoga-Retreat teil.  a) an  b) für  c) von
-7. Ich freue mich schon sehr ___ das Retreat.  a) auf  b) über  c) an
-8. Meine Lehrerin interessiert sich auch ___ Meditation.  a) für  b) an  c) über
+7. Ich freue mich schon sehr ___ das Retreat.  a) über  b) auf  c) an
+8. Meine Lehrerin interessiert sich auch ___ Meditation.  a) an  b) über  c) für
 
 ## Übung C2 — Sprachbausteine Teil 2 — Der Fotokurs (Wortbank)
 

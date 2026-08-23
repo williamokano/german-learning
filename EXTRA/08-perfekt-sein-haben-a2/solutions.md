@@ -32,11 +32,11 @@
 ## Übung B2 — Das richtige Partizip II
 
 1. **b) verstanden** — verstehen: untrennbares Präfix ver- → kein ge-.
-2. **a) studiert** — -ieren-Verben bekommen nie ge-.
-3. **a) verkauft** — verkaufen: untrennbares Präfix ver- → kein ge-.
-4. **a) angekommen** — ankommen: trennbares Präfix → ge- zwischen Präfix und Stamm (an-ge-kommen).
+2. **c) studiert** — -ieren-Verben bekommen nie ge-.
+3. **b) verkauft** — verkaufen: untrennbares Präfix ver- → kein ge-.
+4. **c) angekommen** — ankommen: trennbares Präfix → ge- zwischen Präfix und Stamm (an-ge-kommen).
 5. **a) gesehen** — sehen ist unregelmäßig → gesehen.
-6. **a) erklärt** — erklären: untrennbares Präfix er- → kein ge-.
+6. **b) erklärt** — erklären: untrennbares Präfix er- → kein ge-.
 
 ---
 
@@ -68,8 +68,8 @@
 ## Übung D2 — Selbsttest
 
 1. **a) vergessen** — vergessen: untrennbares Präfix ver- → kein ge-.
-2. **a) gesagt** — sagen: regelmäßig → gesagt.
-3. **b) gegangen** — gehen: unregelmäßig → gegangen.
-4. **a) repariert** — -ieren-Verben bekommen nie ge-.
+2. **b) gesagt** — sagen: regelmäßig → gesagt.
+3. **c) gegangen** — gehen: unregelmäßig → gegangen.
+4. **c) repariert** — -ieren-Verben bekommen nie ge-.
 5. **a) diskutiert** — -ieren-Verben bekommen nie ge-.
-6. **a) gefallen** — gefallen: untrennbares Präfix ge- (schon im Stamm) → kein zusätzliches ge-.
+6. **b) gefallen** — gefallen: untrennbares Präfix ge- (schon im Stamm) → kein zusätzliches ge-.

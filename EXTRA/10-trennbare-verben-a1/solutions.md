@@ -61,7 +61,7 @@
 
 1. **a) Ich stehe um sechs auf.** — aufstehen: trennbar → Präfix ans Satzende.
 2. **b) Wir besuchen dich morgen.** — besuchen: untrennbar, bleibt immer zusammen.
-3. **a) Er kauft Milch ein.** — einkaufen: trennbar → Präfix ans Satzende.
-4. **a) Sie erklärt mir die Regel.** — erklären: untrennbar, bleibt immer zusammen.
-5. **a) Mach die Tür zu!** — zumachen: trennbar → Präfix ans Satzende.
+3. **c) Er kauft Milch ein.** — einkaufen: trennbar → Präfix ans Satzende.
+4. **b) Sie erklärt mir die Regel.** — erklären: untrennbar, bleibt immer zusammen.
+5. **c) Mach die Tür zu!** — zumachen: trennbar → Präfix ans Satzende.
 6. **a) Ich verkaufe mein altes Auto.** — verkaufen: untrennbar, bleibt immer zusammen.

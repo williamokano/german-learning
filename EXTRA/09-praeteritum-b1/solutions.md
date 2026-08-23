@@ -30,11 +30,11 @@
 ## Übung B2 — Der Vokalwechsel bei starken Verben
 
 1. **a) fuhr** — fahren: starkes Verb → fuhr, kein -te.
-2. **a) sahst** — sehen: starkes Verb → sahst.
-3. **a) aß** — essen: starkes Verb → aß, kein -te und keine Endung in er/sie/es.
+2. **b) sahst** — sehen: starkes Verb → sahst.
+3. **c) aß** — essen: starkes Verb → aß, kein -te und keine Endung in er/sie/es.
 4. **b) tranken** — trinken: starkes Verb → tranken.
-5. **a) schriebt** — schreiben: starkes Verb → schriebt.
-6. **a) sprachen** — sprechen: starkes Verb → sprachen.
+5. **c) schriebt** — schreiben: starkes Verb → schriebt.
+6. **b) sprachen** — sprechen: starkes Verb → sprachen.
 
 ---
 
@@ -66,8 +66,8 @@
 ## Übung D2 — Selbsttest
 
 1. **a) war** — Zustand → war.
-2. **a) gab** — geben: starkes Verb → gab.
-3. **a) warteten** — warten: schwaches Verb → warteten.
-4. **a) war** — Zustand → war.
-5. **a) wusste** — wissen: gemischtes Verb (Vokalwechsel + -te) → wusste.
-6. **a) spielten** — spielen: schwaches Verb → spielten.
+2. **b) gab** — geben: starkes Verb → gab.
+3. **c) warteten** — warten: schwaches Verb → warteten.
+4. **c) war** — Zustand → war.
+5. **b) wusste** — wissen: gemischtes Verb (Vokalwechsel + -te) → wusste.
+6. **c) spielten** — spielen: schwaches Verb → spielten.

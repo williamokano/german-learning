@@ -137,24 +137,24 @@ exercises:
         answer: b
         why: "träumen von."
       - q: "Am Anfang hatte ich Angst ___ den schwierigen Übungen."
-        options: [{ key: a, text: "vor" }, { key: b, text: "an" }, { key: c, text: "über" }]
-        answer: a
+        options: [{ key: a, text: "an" }, { key: b, text: "vor" }, { key: c, text: "über" }]
+        answer: b
         why: "Angst haben vor."
       - q: "Jetzt erinnere ich mich kaum noch ___ diese Angst."
-        options: [{ key: a, text: "an" }, { key: b, text: "von" }, { key: c, text: "vor" }]
-        answer: a
+        options: [{ key: a, text: "von" }, { key: b, text: "vor" }, { key: c, text: "an" }]
+        answer: c
         why: "sich erinnern an."
       - q: "Nächsten Monat nehme ich ___ einem Yoga-Retreat teil."
         options: [{ key: a, text: "an" }, { key: b, text: "für" }, { key: c, text: "von" }]
         answer: a
         why: "teilnehmen an."
       - q: "Ich freue mich schon sehr ___ das Retreat."
-        options: [{ key: a, text: "auf" }, { key: b, text: "über" }, { key: c, text: "an" }]
-        answer: a
+        options: [{ key: a, text: "über" }, { key: b, text: "auf" }, { key: c, text: "an" }]
+        answer: b
         why: "sich freuen auf (Zukunft)."
       - q: "Meine Lehrerin interessiert sich auch ___ Meditation."
-        options: [{ key: a, text: "für" }, { key: b, text: "an" }, { key: c, text: "über" }]
-        answer: a
+        options: [{ key: a, text: "an" }, { key: b, text: "über" }, { key: c, text: "für" }]
+        answer: c
         why: "sich interessieren für."
 
   - id: C2

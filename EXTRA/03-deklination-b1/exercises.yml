@@ -127,20 +127,20 @@ exercises:
         answer: b
         why: "begrüßen + Akkusativ, schwacher Nomen → den Kunden."
       - q: "Er zeigt ___ die frischen Brötchen."
-        options: [{ key: a, text: "den Kunden" }, { key: b, text: "dem Kunden" }, { key: c, text: "der Kunde" }]
-        answer: b
+        options: [{ key: a, text: "dem Kunden" }, { key: b, text: "der Kunde" }, { key: c, text: "den Kunden" }]
+        answer: a
         why: "zeigen + Dativ, schwacher Nomen → dem Kunden."
       - q: "Trotz ___ Regens kommen viele Kunden."
-        options: [{ key: a, text: "der" }, { key: b, text: "des" }, { key: c, text: "dem" }]
-        answer: b
+        options: [{ key: a, text: "der" }, { key: b, text: "dem" }, { key: c, text: "des" }]
+        answer: c
         why: "Genitiv maskulin → des."
       - q: "Ein Junge steht auch in der Schlange. Der Bäcker kennt ___ gut."
-        options: [{ key: a, text: "der Junge" }, { key: b, text: "den Jungen" }, { key: c, text: "dem Jungen" }]
-        answer: b
+        options: [{ key: a, text: "den Jungen" }, { key: b, text: "der Junge" }, { key: c, text: "dem Jungen" }]
+        answer: a
         why: "kennen + Akkusativ, schwacher Nomen → den Jungen."
       - q: "Er gibt ___ ein kostenloses Brötchen."
-        options: [{ key: a, text: "den Jungen" }, { key: b, text: "dem Jungen" }, { key: c, text: "der Junge" }]
-        answer: b
+        options: [{ key: a, text: "der Junge" }, { key: b, text: "den Jungen" }, { key: c, text: "dem Jungen" }]
+        answer: c
         why: "geben + Dativ, schwacher Nomen → dem Jungen."
       - q: "Wegen ___ großen Andrangs muss der Bäcker mehr backen."
         options: [{ key: a, text: "der" }, { key: b, text: "des" }, { key: c, text: "dem" }]
@@ -151,8 +151,8 @@ exercises:
         answer: a
         why: "Genitiv Plural → der."
       - q: "Am Ende des Tages dankt der Bäcker ___ für ihre Treue."
-        options: [{ key: a, text: "die Kunden" }, { key: b, text: "den Kunden" }, { key: c, text: "der Kunden" }]
-        answer: b
+        options: [{ key: a, text: "die Kunden" }, { key: b, text: "der Kunden" }, { key: c, text: "den Kunden" }]
+        answer: c
         why: "danken + Dativ Plural, schwacher Nomen → den Kunden."
 
   - id: C2

@@ -50,11 +50,11 @@ Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht n�
 Wähle die richtige Antwort (a, b oder c).
 
 1. fahren → ich ___  a) fuhr  b) fahrte  c) fahrete
-2. sehen → du ___  a) sahst  b) sehtest  c) sehst
-3. essen → er ___  a) aß  b) esste  c) essete
+2. sehen → du ___  a) sehtest  b) sahst  c) sehst
+3. essen → er ___  a) esste  b) essete  c) aß
 4. trinken → wir ___  a) trunken  b) tranken  c) trinkten
-5. schreiben → ihr ___  a) schriebt  b) schreibtet  c) schribt
-6. sprechen → sie (Plural) ___  a) sprachen  b) sprechten  c) sprochen
+5. schreiben → ihr ___  a) schreibtet  b) schribt  c) schriebt
+6. sprechen → sie (Plural) ___  a) sprechten  b) sprachen  c) sprochen
 
 ---
 
@@ -109,10 +109,10 @@ Ergänze das Verb im Präteritum.
 Choose the correct answer (a, b, or c). This is your final check for this set.
 
 1. Gestern ___ ich sehr beschäftigt.  a) war  b) wurde  c) hatte
-2. Er ___ mir ein Geschenk.  a) gab  b) gabte  c) gebte
-3. Wir ___ lange auf den Bus.  a) warteten  b) wartten  c) wartet
-4. Sie öffnete das Fenster, weil es ihr zu warm ___.  a) war  b) wurde  c) hatte
-5. Ich ___ nicht, was ich sagen sollte.  a) wusste  b) wisste  c) wusstete
-6. Die Kinder ___ im Garten.  a) spielten  b) spielen  c) spielt
+2. Er ___ mir ein Geschenk.  a) gabte  b) gab  c) gebte
+3. Wir ___ lange auf den Bus.  a) wartten  b) wartet  c) warteten
+4. Sie öffnete das Fenster, weil es ihr zu warm ___.  a) wurde  b) hatte  c) war
+5. Ich ___ nicht, was ich sagen sollte.  a) wisste  b) wusste  c) wusstete
+6. Die Kinder ___ im Garten.  a) spielen  b) spielt  c) spielten
 
 _5–6 von 6 richtig? Präteritum und Perfekt zusammen sitzen jetzt sicher. Weniger als 5? Schau dir Block A noch einmal an._

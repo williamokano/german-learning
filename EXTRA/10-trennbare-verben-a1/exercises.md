@@ -108,9 +108,9 @@ Choose the grammatically correct sentence (a, b, or c). This is your final check
 
 1. Wie sagt man richtig?  a) Ich stehe um sechs auf.  b) Ich aufstehe um sechs.  c) Ich stehe auf um sechs.
 2. Wie sagt man richtig?  a) Wir besuchen dich morgen be.  b) Wir besuchen dich morgen.  c) Wir be dich morgen suchen.
-3. Wie sagt man richtig?  a) Er kauft Milch ein.  b) Er einkauft Milch.  c) Er kauft ein Milch.
-4. Wie sagt man richtig?  a) Sie erklärt mir die Regel.  b) Sie klärt mir die Regel er.  c) Sie er mir die Regel klärt.
-5. Wie sagt man richtig?  a) Mach die Tür zu!  b) Zu mach die Tür!  c) Machzu die Tür!
+3. Wie sagt man richtig?  a) Er einkauft Milch.  b) Er kauft ein Milch.  c) Er kauft Milch ein.
+4. Wie sagt man richtig?  a) Sie klärt mir die Regel er.  b) Sie erklärt mir die Regel.  c) Sie er mir die Regel klärt.
+5. Wie sagt man richtig?  a) Zu mach die Tür!  b) Machzu die Tür!  c) Mach die Tür zu!
 6. Wie sagt man richtig?  a) Ich verkaufe mein altes Auto.  b) Ich kaufe mein altes Auto ver.  c) Ich ver mein altes Auto kaufe.
 
 _5–6 von 6 richtig? Weiter geht's mit der A2-Version (Perfekt der trennbaren/untrennbaren Verben, Präfixe mit zwei Bedeutungen). Weniger als 5? Schau dir Block A noch einmal an._

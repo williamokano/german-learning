@@ -46,12 +46,12 @@
 
 1. **a) haben** — machen → haben.
 2. **b) sind** — fahren → sein.
-3. **b) haben** — besuchen → haben.
-4. **b) habe** — essen → haben.
-5. **b) hat** — machen → haben.
-6. **b) sind** — kommen → sein.
-7. **a) bin** — einschlafen: Zustandswechsel → sein.
-8. **b) ist** — sein → sein (Ausnahme, immer sein als Hilfsverb).
+3. **c) haben** — besuchen → haben.
+4. **a) habe** — essen → haben.
+5. **c) hat** — machen → haben.
+6. **a) sind** — kommen → sein.
+7. **b) bin** — einschlafen: Zustandswechsel → sein.
+8. **c) ist** — sein → sein (Ausnahme, immer sein als Hilfsverb).
 
 ## Übung C2 — Sprachbausteine Teil 2 — Meine Woche (Wortbank)
 
@@ -67,9 +67,9 @@
 
 ## Übung D2 — Selbsttest
 
-1. **b) bin** — gehen → sein.
+1. **a) bin** — gehen → sein.
 2. **b) haben** — essen → haben.
-3. **b) ist** — fahren → sein.
-4. **b) haben** — schlafen: kein Bewegungsverb → haben.
+3. **c) ist** — fahren → sein.
+4. **a) haben** — schlafen: kein Bewegungsverb → haben.
 5. **b) ist** — einschlafen: Zustandswechsel → sein.
-6. **b) habe** — machen → haben.
+6. **c) habe** — machen → haben.

@@ -220,16 +220,16 @@ exercises:
         answer: b
         why: "besuchen: untrennbar, bleibt immer zusammen."
       - q: "Wie sagt man richtig?"
-        options: [{ key: a, text: "Er kauft Milch ein." }, { key: b, text: "Er einkauft Milch." }, { key: c, text: "Er kauft ein Milch." }]
-        answer: a
+        options: [{ key: a, text: "Er einkauft Milch." }, { key: b, text: "Er kauft ein Milch." }, { key: c, text: "Er kauft Milch ein." }]
+        answer: c
         why: "einkaufen: trennbar → Präfix ans Satzende."
       - q: "Wie sagt man richtig?"
-        options: [{ key: a, text: "Sie erklärt mir die Regel." }, { key: b, text: "Sie klärt mir die Regel er." }, { key: c, text: "Sie er mir die Regel klärt." }]
-        answer: a
+        options: [{ key: a, text: "Sie klärt mir die Regel er." }, { key: b, text: "Sie erklärt mir die Regel." }, { key: c, text: "Sie er mir die Regel klärt." }]
+        answer: b
         why: "erklären: untrennbar, bleibt immer zusammen."
       - q: "Wie sagt man richtig?"
-        options: [{ key: a, text: "Mach die Tür zu!" }, { key: b, text: "Zu mach die Tür!" }, { key: c, text: "Machzu die Tür!" }]
-        answer: a
+        options: [{ key: a, text: "Zu mach die Tür!" }, { key: b, text: "Machzu die Tür!" }, { key: c, text: "Mach die Tür zu!" }]
+        answer: c
         why: "zumachen: trennbar → Präfix ans Satzende."
       - q: "Wie sagt man richtig?"
         options: [{ key: a, text: "Ich verkaufe mein altes Auto." }, { key: b, text: "Ich kaufe mein altes Auto ver." }, { key: c, text: "Ich ver mein altes Auto kaufe." }]

@@ -65,14 +65,14 @@ Wähle die richtige Antwort (a, b oder c).
 
 Choose the correct word for each gap (a, b, or c). The sentences form one short story.
 
-1. Ist das dein Mantel? — Ja, das ist ___.  a) mein  b) meiner  c) meinen
-2. Sind das eure Fahrräder? — Nein, das sind nicht ___.  a) unser  b) unsere  c) unseren
+1. Ist das dein Mantel? — Ja, das ist ___.  a) mein  b) meinen  c) meiner
+2. Sind das eure Fahrräder? — Nein, das sind nicht ___.  a) unsere  b) unser  c) unseren
 3. Welches Auto ist deins? — Das rote ist ___.  a) mein  b) meins  c) meinen
 4. Das Büro ___ neuen Kollegin ist gleich neben meinem.  a) meiner  b) meine  c) meinen
 5. Ich habe meinen Regenschirm vergessen. Kannst du mir ___ leihen?  a) deiner  b) deins  c) deinen
-6. Wessen Tasche ist das? Ist das ___?  a) dein  b) deine  c) deinen
+6. Wessen Tasche ist das? Ist das ___?  a) deine  b) dein  c) deinen
 7. Das Restaurant ___ Eltern ist sehr bekannt in der Stadt.  a) meine  b) meiner  c) meinen
-8. Unser Auto ist in der Werkstatt. Können wir ___ benutzen?  a) euer  b) eures  c) eurem
+8. Unser Auto ist in der Werkstatt. Können wir ___ benutzen?  a) euer  b) eurem  c) eures
 
 ## Übung C2 — Sprachbausteine Teil 2 — Der Flohmarkt (Wortbank)
 

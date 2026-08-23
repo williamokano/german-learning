@@ -136,12 +136,12 @@ exercises:
     instructions: "Choose the correct word for each gap (a, b, or c). The sentences form one short story."
     items:
       - q: "Ist das dein Mantel? — Ja, das ist ___."
-        options: [{ key: a, text: "mein" }, { key: b, text: "meiner" }, { key: c, text: "meinen" }]
-        answer: b
+        options: [{ key: a, text: "mein" }, { key: b, text: "meinen" }, { key: c, text: "meiner" }]
+        answer: c
         why: "Substantivisch, maskulin Nominativ → meiner."
       - q: "Sind das eure Fahrräder? — Nein, das sind nicht ___."
-        options: [{ key: a, text: "unser" }, { key: b, text: "unsere" }, { key: c, text: "unseren" }]
-        answer: b
+        options: [{ key: a, text: "unsere" }, { key: b, text: "unser" }, { key: c, text: "unseren" }]
+        answer: a
         why: "Substantivisch, Plural → unsere."
       - q: "Welches Auto ist deins? — Das rote ist ___."
         options: [{ key: a, text: "mein" }, { key: b, text: "meins" }, { key: c, text: "meinen" }]
@@ -156,16 +156,16 @@ exercises:
         answer: c
         why: "Substantivisch, maskulin Akkusativ → deinen (gleiche Form wie der Artikel im Akkusativ)."
       - q: "Wessen Tasche ist das? Ist das ___?"
-        options: [{ key: a, text: "dein" }, { key: b, text: "deine" }, { key: c, text: "deinen" }]
-        answer: b
+        options: [{ key: a, text: "deine" }, { key: b, text: "dein" }, { key: c, text: "deinen" }]
+        answer: a
         why: "Substantivisch, feminin → deine (gleiche Form wie der Artikel)."
       - q: "Das Restaurant ___ Eltern ist sehr bekannt in der Stadt."
         options: [{ key: a, text: "meine" }, { key: b, text: "meiner" }, { key: c, text: "meinen" }]
         answer: b
         why: "Genitiv Plural → meiner."
       - q: "Unser Auto ist in der Werkstatt. Können wir ___ benutzen?"
-        options: [{ key: a, text: "euer" }, { key: b, text: "eures" }, { key: c, text: "eurem" }]
-        answer: b
+        options: [{ key: a, text: "euer" }, { key: b, text: "eurem" }, { key: c, text: "eures" }]
+        answer: c
         why: "Substantivisch, neutral Akkusativ → eures."
 
   - id: C2

@@ -41,13 +41,13 @@
 ## Übung C1 — Sprachbausteine Teil 1 — Beim Bäcker
 
 1. **b) den Kunden** — begrüßen + Akkusativ, schwacher Nomen → den Kunden.
-2. **b) dem Kunden** — zeigen + Dativ, schwacher Nomen → dem Kunden.
-3. **b) des** — Genitiv maskulin → des.
-4. **b) den Jungen** — kennen + Akkusativ, schwacher Nomen → den Jungen.
-5. **b) dem Jungen** — geben + Dativ, schwacher Nomen → dem Jungen.
+2. **a) dem Kunden** — zeigen + Dativ, schwacher Nomen → dem Kunden.
+3. **c) des** — Genitiv maskulin → des.
+4. **a) den Jungen** — kennen + Akkusativ, schwacher Nomen → den Jungen.
+5. **c) dem Jungen** — geben + Dativ, schwacher Nomen → dem Jungen.
 6. **b) des** — Genitiv maskulin → des.
 7. **a) der** — Genitiv Plural → der.
-8. **b) den Kunden** — danken + Dativ Plural, schwacher Nomen → den Kunden.
+8. **c) den Kunden** — danken + Dativ Plural, schwacher Nomen → den Kunden.
 
 ## Übung C2 — Sprachbausteine Teil 2 — Der neue Nachbar (Wortbank)
 

@@ -55,11 +55,11 @@ Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht n�
 Wähle die richtige Antwort (a, b oder c).
 
 1. Ich habe das Problem sofort ___.  a) verstehen  b) verstanden  c) geverstanden
-2. Er hat drei Sprachen ___.  a) studiert  b) gestudiert  c) studieren
-3. Wir haben das Auto ___.  a) verkauft  b) geverkauft  c) verkaufen
-4. Sie ist gestern ___.  a) angekommen  b) gekommt an  c) ankommt
+2. Er hat drei Sprachen ___.  a) gestudiert  b) studieren  c) studiert
+3. Wir haben das Auto ___.  a) verkaufen  b) verkauft  c) geverkauft
+4. Sie ist gestern ___.  a) gekommt an  b) ankommt  c) angekommen
 5. Ich habe den Film schon ___.  a) gesehen  b) sehen  c) geseht
-6. Er hat mir die Regel ___.  a) erklärt  b) geerklärt  c) erklären
+6. Er hat mir die Regel ___.  a) geerklärt  b) erklärt  c) erklären
 
 ---
 
@@ -116,10 +116,10 @@ Ergänze das Partizip II des Verbs in Klammern.
 Choose the correct answer (a, b, or c). This is your final check for this set.
 
 1. Ich habe den Termin ___.  a) vergessen  b) gevergessen  c) vergesst
-2. Er hat mir die Wahrheit ___.  a) gesagt  b) sagt  c) sagen
-3. Sie ist nach Hause ___.  a) gehen  b) gegangen  c) gegeht
-4. Ich habe das Auto ___.  a) repariert  b) gerepariert  c) reparieren
+2. Er hat mir die Wahrheit ___.  a) sagt  b) gesagt  c) sagen
+3. Sie ist nach Hause ___.  a) gehen  b) gegeht  c) gegangen
+4. Ich habe das Auto ___.  a) gerepariert  b) reparieren  c) repariert
 5. Wir haben lange ___.  a) diskutiert  b) gediskutiert  c) diskutieren
-6. Das Konzert hat mir sehr ___.  a) gefallen  b) gegefallen  c) gefallt
+6. Das Konzert hat mir sehr ___.  a) gegefallen  b) gefallen  c) gefallt
 
 _5–6 von 6 richtig? Weiter geht's mit dem Präteritum (B1), der geschriebenen Vergangenheitsform. Weniger als 5? Schau dir Block A noch einmal an._
