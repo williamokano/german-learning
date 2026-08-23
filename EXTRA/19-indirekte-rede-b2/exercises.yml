@@ -1,0 +1,243 @@
+lesson: "EX/19-indirekte-rede-b2"
+title: "Indirekte Rede: Konjunktiv I — B2"
+topic: "Indirekte Rede"
+level: B2
+intro: >
+  Standalone drill set, not tied to any lesson. Formal written German
+  reports what someone said using Konjunktiv I, not just "dass" +
+  Indikativ: Er sagt, er SEI müde (not: er ist müde) — it signals "this
+  is a claim, not a fact I'm vouching for," which is exactly why
+  newspapers use it. sein is fully irregular (sei, seist, sei, seien,
+  seiet, seien); most other verbs just add -e to the stem for
+  er/sie/es: er habe, er komme, er gehe, er könne, er müsse. This set
+  sticks to the common, unambiguous 3rd-person-singular case. Blocks:
+  A Basistraining → B Vertiefung → C Sprachbausteine → D Wiederholung.
+  Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Konjunktiv I von sein"
+    instructions: "Ergänze die Tabelle."
+    instructionsEn: "Complete the table."
+    columns: ["", "Konjunktiv I (sein)"]
+    rows:
+      - label: "ich"
+        cells: [{ gap: 1, answer: "sei" }]
+      - label: "du"
+        cells: [{ gap: 2, answer: "seist" }]
+      - label: "er/sie/es"
+        cells: [{ gap: 3, answer: "sei" }]
+      - label: "wir"
+        cells: [{ gap: 4, answer: "seien" }]
+      - label: "ihr"
+        cells: [{ gap: 5, answer: "seiet" }]
+      - label: "sie/Sie"
+        cells: [{ gap: 6, answer: "seien" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Direkte Rede → Indirekte Rede"
+    instructions: "Ergänze die Konjunktiv-I-Form."
+    instructionsEn: "Fill in the Konjunktiv I form."
+    text: |
+      1. Er sagt: "Ich bin müde." → Er sagt, er {1} müde.
+      2. Sie sagt: "Ich habe keine Zeit." → Sie sagt, sie {2} keine Zeit.
+      3. Er sagt: "Ich komme morgen." → Er sagt, er {3} morgen.
+      4. Sie sagt: "Ich gehe jetzt." → Sie sagt, sie {4} jetzt.
+      5. Er sagt: "Ich bin fertig." → Er sagt, er {5} fertig.
+      6. Sie sagt: "Ich habe Hunger." → Sie sagt, sie {6} Hunger.
+    answers:
+      "1": sei
+      "2": habe
+      "3": komme
+      "4": gehe
+      "5": sei
+      "6": habe
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Pressekonferenz"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht nötig."
+    instructionsEn: "Fill the 8 gaps using the words in the box. Two words are not needed."
+    text: |
+      Der Minister sagte, die Wirtschaft {1} sich langsam. Er
+      erklärte, die Lage {2} weiterhin ernst. Die Sprecherin sagte,
+      sie {3} zuversichtlich. Der Experte meinte, der Aufschwung {4}
+      bald. Ein Journalist fragte, ob die Regierung genug {5}. Der
+      Minister antwortete, er {6} sein Bestes. Die Presse berichtete,
+      das Land {7} vor großen Herausforderungen. Am Ende sagte der
+      Minister, er {8} Hoffnung.
+    bank: [erhole, sei, sei, komme, tue, gebe, stehe, habe, seien, haben]
+    answers:
+      "1": erhole
+      "2": sei
+      "3": sei
+      "4": komme
+      "5": tue
+      "6": gebe
+      "7": stehe
+      "8": habe
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Die richtige Konjunktiv-I-Form"
+    instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Er sagt: 'Ich bin krank.' → Er sagt, er ___ krank."
+        options: [{ key: a, text: "sei" }, { key: b, text: "ist" }, { key: c, text: "war" }]
+        answer: a
+        why: "Konjunktiv I von sein → sei."
+      - q: "Sie sagt: 'Ich habe recht.' → Sie sagt, sie ___ recht."
+        options: [{ key: a, text: "hat" }, { key: b, text: "habe" }, { key: c, text: "hatte" }]
+        answer: b
+        why: "Konjunktiv I von haben → habe."
+      - q: "Er sagt: 'Ich weiß es nicht.' → Er sagt, er ___ es nicht."
+        options: [{ key: a, text: "weiß" }, { key: b, text: "wusste" }, { key: c, text: "wisse" }]
+        answer: c
+        why: "Konjunktiv I von wissen → wisse."
+      - q: "Sie sagt: 'Ich kann kommen.' → Sie sagt, sie ___ kommen."
+        options: [{ key: a, text: "könne" }, { key: b, text: "kann" }, { key: c, text: "konnte" }]
+        answer: a
+        why: "Konjunktiv I von können → könne."
+      - q: "Er sagt: 'Ich will helfen.' → Er sagt, er ___ helfen."
+        options: [{ key: a, text: "will" }, { key: b, text: "wolle" }, { key: c, text: "wollte" }]
+        answer: b
+        why: "Konjunktiv I von wollen → wolle."
+      - q: "Sie sagt: 'Ich muss gehen.' → Sie sagt, sie ___ gehen."
+        options: [{ key: a, text: "muss" }, { key: b, text: "musste" }, { key: c, text: "müsse" }]
+        answer: c
+        why: "Konjunktiv I von müssen → müsse."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Zeugenaussage"
+    instructions: "Choose the correct Konjunktiv-I form for each gap (a, b, or c). The sentences form one short story."
+    items:
+      - q: "Der Zeuge sagte, er ___ nichts gesehen."
+        options: [{ key: a, text: "habe" }, { key: b, text: "hat" }, { key: c, text: "hatte" }]
+        answer: a
+        why: "Konjunktiv I von haben → habe."
+      - q: "Er berichtete, das Auto ___ sehr schnell gefahren."
+        options: [{ key: a, text: "ist" }, { key: b, text: "sei" }, { key: c, text: "war" }]
+        answer: b
+        why: "Konjunktiv I von sein → sei."
+      - q: "Die Polizistin fragte, ob er die Person ___."
+        options: [{ key: a, text: "kennt" }, { key: b, text: "kannte" }, { key: c, text: "kenne" }]
+        answer: c
+        why: "Konjunktiv I von kennen → kenne."
+      - q: "Der Zeuge antwortete, er ___ sie nicht."
+        options: [{ key: a, text: "kenne" }, { key: b, text: "kennt" }, { key: c, text: "kannte" }]
+        answer: a
+        why: "Konjunktiv I von kennen → kenne."
+      - q: "Er sagte, er ___ um zehn Uhr dort gewesen."
+        options: [{ key: a, text: "ist" }, { key: b, text: "sei" }, { key: c, text: "war" }]
+        answer: b
+        why: "Konjunktiv I von sein → sei."
+      - q: "Die Anwältin erklärte, ihr Mandant ___ unschuldig."
+        options: [{ key: a, text: "ist" }, { key: b, text: "war" }, { key: c, text: "sei" }]
+        answer: c
+        why: "Konjunktiv I von sein → sei."
+      - q: "Der Richter sagte, er ___ das Urteil bald fällen."
+        options: [{ key: a, text: "wird" }, { key: b, text: "werde" }, { key: c, text: "wurde" }]
+        answer: b
+        why: "Konjunktiv I von werden → werde."
+      - q: "Am Ende sagte der Zeuge, er ___ nichts mehr hinzuzufügen."
+        options: [{ key: a, text: "habe" }, { key: b, text: "hat" }, { key: c, text: "hatte" }]
+        answer: a
+        why: "Konjunktiv I von haben → habe."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Interview mit einer Sportlerin (Wortbank)"
+    instructions: "Fill the 10 gaps. Two words in the box are not needed."
+    text: |
+      Die Sportlerin sagte, sie {1} sehr zufrieden mit ihrer Leistung.
+      Sie erklärte, das Training {2} hart gewesen. Sie berichtete,
+      sie {3} jeden Tag trainiert. Der Trainer sagte, er {4} stolz
+      auf das Team. Er meinte, die nächste Saison {5} noch besser.
+      Die Sportlerin sagte, sie {6} an ihre Chancen. Sie fügte hinzu,
+      sie {7} keine Angst vor der Konkurrenz. Der Trainer sagte, das
+      Team {8} hart gearbeitet. Die Sportlerin sagte, sie {9} bereit
+      für den Wettkampf. Am Ende sagte sie, sie {10} auf den Sieg.
+    bank: [sei, sei, sei, sei, habe, habe, habe, werde, glaube, hoffe, seien, haben]
+    answers:
+      "1": sei
+      "2": sei
+      "3": habe
+      "4": sei
+      "5": werde
+      "6": glaube
+      "7": habe
+      "8": habe
+      "9": sei
+      "10": hoffe
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Gemischte Wiederholung"
+    instructions: "Ergänze die Konjunktiv-I-Form."
+    text: |
+      1. Er sagt, er {1} müde.
+      2. Sie sagt, sie {2} keine Zeit.
+      3. Er sagt, er {3} morgen.
+      4. Sie sagt, sie {4} es nicht.
+      5. Er sagt, er {5} helfen.
+      6. Sie sagt, sie {6} gehen.
+    answers:
+      "1": sei
+      "2": habe
+      "3": komme
+      "4": wisse
+      "5": könne
+      "6": müsse
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Er sagt, er ___ zufrieden."
+        options: [{ key: a, text: "sei" }, { key: b, text: "ist" }, { key: c, text: "war" }]
+        answer: a
+        why: "Konjunktiv I von sein → sei."
+      - q: "Sie sagt, sie ___ recht."
+        options: [{ key: a, text: "hat" }, { key: b, text: "habe" }, { key: c, text: "hatte" }]
+        answer: b
+        why: "Konjunktiv I von haben → habe."
+      - q: "Er sagt, er ___ es nicht."
+        options: [{ key: a, text: "weiß" }, { key: b, text: "wusste" }, { key: c, text: "wisse" }]
+        answer: c
+        why: "Konjunktiv I von wissen → wisse."
+      - q: "Sie sagt, sie ___ kommen."
+        options: [{ key: a, text: "könne" }, { key: b, text: "kann" }, { key: c, text: "konnte" }]
+        answer: a
+        why: "Konjunktiv I von können → könne."
+      - q: "Er sagt, er ___ helfen."
+        options: [{ key: a, text: "will" }, { key: b, text: "wolle" }, { key: c, text: "wollte" }]
+        answer: b
+        why: "Konjunktiv I von wollen → wolle."
+      - q: "Sie sagt, sie ___ gehen."
+        options: [{ key: a, text: "muss" }, { key: b, text: "musste" }, { key: c, text: "müsse" }]
+        answer: c
+        why: "Konjunktiv I von müssen → müsse."
+    notes: "5–6 von 6 richtig? Konjunktiv I für indirekte Rede in seiner formellen Form (er sei, sie habe) sitzt jetzt sicher."
