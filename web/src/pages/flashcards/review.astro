@@ -1,32 +1,21 @@
 ---
 import { getCollection } from 'astro:content';
 import FlashcardDeck from '../../components/FlashcardDeck.svelte';
+import AppShell from '../../layouts/AppShell.astro';
 
 const all = await getCollection('vocab');
 const allEntries = all.flatMap(e => e.data.entries);
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
-<!doctype html>
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Fälliges wiederholen — Karteikarten</title>
-    <style>
-      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1rem; }
-      nav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
-      h1 { font-size: 1.5rem; }
-      p.intro { color: #6b7280; font-size: 0.9rem; }
-    </style>
-  </head>
-  <body>
-    <nav><a href={`${base}/flashcards/`}>← Karteikarten</a></nav>
+<AppShell title="Fälliges wiederholen — Karteikarten" navKey="flashcards" variant="app" crumbs={[{ label: 'Karteikarten', href: `${base}/flashcards/` }, { label: 'Fälliges wiederholen' }]}>
+  <header class="page-head">
     <h1>Fälliges wiederholen</h1>
-    <p class="intro">
+    <p class="lead">
       Eine Auswahl bereits geübter Wörter, priorisiert nach Fälligkeit — quer
       durch den ganzen Kurs.
     </p>
-    <FlashcardDeck allEntries={allEntries} client:load />
-  </body>
-</html>
+  </header>
+
+  <FlashcardDeck allEntries={allEntries} client:load />
+</AppShell>

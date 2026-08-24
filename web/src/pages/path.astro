@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import PathMap from '../components/PathMap.svelte';
 import { buildPathManifest } from '@core/content/path';
+import AppShell from '../layouts/AppShell.astro';
 
 // F9 /path — learning path map (issue #344). Statically renders the 68-node manifest
 // at build time. PathMap.svelte adds a client-side overlay (done ✓ / current ◉ /
@@ -52,25 +53,14 @@ const vocabProjected = vocab.map(e => ({
 const manifest = buildPathManifest({ lessons: lessonsProjected, vocabSets: vocabProjected });
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Pfad · Deutsch lernen</title>
-    <style>
-      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 4rem auto; padding: 0 1rem; color: #1a1a1a; }
-      h1 { font-size: 1.6rem; margin: 0 0 1rem; }
-      nav.topnav { display: flex; gap: 0.6rem; margin-bottom: 1.5rem; }
-      nav.topnav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; padding: 0.3rem 0.6rem; border-radius: 6px; }
-      nav.topnav a:hover { background: #eff6ff; }
-    </style>
-  </head>
-  <body>
-    <nav class="topnav">
-      <a href={`${base}/`}>← Startseite</a>
-      <a href={`${base}/today/`}>Daily Mix →</a>
-    </nav>
+
+<AppShell title="Lernpfad · Deutsch lernen" navKey="path" variant="app">
+  <header class="page-head">
     <h1>Lernpfad</h1>
-    <PathMap manifest={manifest} base={base} client:load />
-  </body>
-</html>
+    <p class="lead">
+      Alle Lektionen von A1 bis C1 in Reihenfolge — mit deinem Fortschritt.
+    </p>
+  </header>
+
+  <PathMap manifest={manifest} base={base} client:load />
+</AppShell>

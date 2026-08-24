@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import AppShell from '../../layouts/AppShell.astro';
 
 const all = await getCollection('vocab');
 const levelIds = [...new Set(all.map(e => e.id.split('/')[0]))].sort();
@@ -16,32 +17,25 @@ const levels = levelIds.map(id => ({ id, label: LABELS[id] ?? id.toUpperCase() }
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
-<!doctype html>
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Karteikarten — Deutsch lernen</title>
-    <style>
-      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 4rem auto; padding: 0 1rem; color: #1a1a1a; }
-      h1 { font-size: 2rem; }
-      nav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
-      ul { list-style: none; padding: 0; margin-top: 1.5rem; display: flex; flex-direction: column; gap: 0.5rem; }
-      li a { display: block; padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid #e5e7eb; color: #1a1a1a; text-decoration: none; font-weight: 500; }
-      li a:hover { border-color: #2563eb; background: #eff6ff; }
-      .btn-review { display: inline-block; margin-top: 1rem; padding: 0.6rem 1.2rem; border-radius: 8px; background: #2563eb; color: #fff; text-decoration: none; font-weight: 600; }
-      .btn-review:hover { background: #1d4ed8; }
-    </style>
-  </head>
-  <body>
-    <nav><a href={`${base}/`}>← Startseite</a></nav>
+<AppShell title="Karteikarten — Deutsch lernen" navKey="flashcards" variant="app" crumbs={[{ label: 'Karteikarten' }]}>
+  <header class="page-head">
     <h1>Karteikarten</h1>
-    <p>Wähle ein Level, um Vokabeln zu wiederholen.</p>
-    <ul>
-      {levels.map(l => (
-        <li><a href={`${base}/flashcards/${l.id}/`}>{l.label}</a></li>
-      ))}
-    </ul>
-    <a class="btn-review" href={`${base}/flashcards/review/`}>Fälliges wiederholen →</a>
-  </body>
-</html>
+    <p class="lead">Wähle ein Level, um Vokabeln zu wiederholen.</p>
+  </header>
+
+  <p class="due-row">
+    <a class="btn btn-primary" href={`${base}/flashcards/review/`}>
+      Fälliges wiederholen →
+    </a>
+  </p>
+
+  <ul class="link-list">
+    {levels.map(l => (
+      <li><a href={`${base}/flashcards/${l.id}/`}>{l.label}</a></li>
+    ))}
+  </ul>
+</AppShell>
+
+<style>
+  .due-row { margin: 0 0 var(--space-5); }
+</style>

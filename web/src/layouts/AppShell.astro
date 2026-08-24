@@ -8,6 +8,7 @@
  *   "prose" — narrower measure for long-form reading (lesson text)
  */
 import '../styles/theme.css';
+import '../styles/audio-play.css';
 import ThemeToggle from '../components/shell/ThemeToggle.astro';
 import SidebarNav from '../components/shell/SidebarNav.astro';
 
@@ -111,6 +112,11 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         </div>
       </main>
     </div>
+
+    {/* Registers the <audio-play> custom element used by lessons and exercises. */}
+    <script>
+      import '../scripts/audio-play.js';
+    </script>
 
     <style is:global>
       .skip-link {

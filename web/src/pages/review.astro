@@ -1,29 +1,18 @@
 ---
 import FehlerbuchReview from '../components/FehlerbuchReview.svelte';
+import AppShell from '../layouts/AppShell.astro';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
-<!doctype html>
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Fehlerbuch — Deutsch lernen</title>
-    <style>
-      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1rem; }
-      nav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
-      h1 { font-size: 1.5rem; }
-      p.intro { color: #6b7280; font-size: 0.9rem; }
-    </style>
-  </head>
-  <body>
-    <nav><a href={`${base}/`}>← Startseite</a></nav>
+<AppShell title="Fehlerbuch — Deutsch lernen" navKey="review" variant="app">
+  <header class="page-head">
     <h1>Fehlerbuch</h1>
-    <p class="intro">
+    <p class="lead">
       Wörter und Antworten, die du zuletzt falsch hattest — automatisch gesammelt
       aus deinen Übungen.
     </p>
-    <FehlerbuchReview client:load />
-  </body>
-</html>
+  </header>
+
+  <FehlerbuchReview client:load />
+</AppShell>

@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import StudyPlanView from '../components/StudyPlanView.svelte';
 import { buildPathManifest } from '@core/content/path';
+import AppShell from '../layouts/AppShell.astro';
 
 // F14 /plan — exam-date study plan (issue #347). Reuses F9's path manifest
 // projection verbatim (see path.astro) so the two pages never drift on how a
@@ -39,28 +40,14 @@ const vocabProjected = vocab.map(e => ({
 const manifest = buildPathManifest({ lessons: lessonsProjected, vocabSets: vocabProjected });
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Lernplan · Deutsch lernen</title>
-    <style>
-      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 4rem auto; padding: 0 1rem; color: #1a1a1a; }
-      h1 { font-size: 1.6rem; margin: 0 0 0.4rem; }
-      p.intro { color: #6b7280; margin: 0 0 1.25rem; }
-      nav.topnav { display: flex; gap: 0.6rem; margin-bottom: 1.5rem; }
-      nav.topnav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; padding: 0.3rem 0.6rem; border-radius: 6px; }
-      nav.topnav a:hover { background: #eff6ff; }
-    </style>
-  </head>
-  <body>
-    <nav class="topnav">
-      <a href={`${base}/`}>← Startseite</a>
-      <a href={`${base}/path/`}>Pfad ansehen →</a>
-      <a href={`${base}/today/`}>Daily Mix →</a>
-    </nav>
+
+<AppShell title="Lernplan · Deutsch lernen" navKey="plan" variant="app">
+  <header class="page-head">
     <h1>Lernplan</h1>
-    <p class="intro">Wähle ein Prüfungsziel und ein Datum — wir rechnen dir einen Tagesplan aus.</p>
-    <StudyPlanView manifest={manifest} base={base} client:load />
-  </body>
-</html>
+    <p class="lead">
+      Wähle ein Prüfungsziel und ein Datum — wir rechnen dir einen Tagesplan aus.
+    </p>
+  </header>
+
+  <StudyPlanView manifest={manifest} base={base} client:load />
+</AppShell>
