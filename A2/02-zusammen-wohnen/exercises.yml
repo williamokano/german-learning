@@ -1111,7 +1111,11 @@ exercises:
       "17": liegt
       "18": hängt
       "19": hängt
-      "20": "die Wohngemeinschaft / WG"
+      "20":
+        - "die Wohngemeinschaft"
+        - "Wohngemeinschaft"
+        - "die WG"
+        - "WG"
       "21": "der Mitbewohner"
       "22": "der Vermieter"
       "23": einziehen

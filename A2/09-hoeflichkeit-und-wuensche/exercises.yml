@@ -999,7 +999,10 @@ exercises:
       "9": Könnten
       "10": würden
       "11": "die Speisekarte"
-      "12": "starter / first course"
+      "12":
+        - "starter"
+        - "first course"
+        - "appetizer"
       "13": "to order"
       "14": "die Absage"
       "15": "Ich hätte gern das Tagesgericht, bitte."

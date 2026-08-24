@@ -259,7 +259,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Gemischter Schnelltest
 
-1. **als**  2. **last**  3. **before**  4. **weil**  5. **Deshalb** (auch richtig: **Darum**, **Deswegen**)  6. **Lehrerin**  7. **Arzt**  8. **the job interview**  9. **CV / résumé**  10. **wollte**  11. **eingereicht**  12. **bekommen hat**  13. **aufgestanden**  14. **2**  15. **dass**  16. **ist**
+1. **als**  2. **last**  3. **before**  4. **weil**  5. **Deshalb** (auch richtig: **Darum**, **Deswegen**)  6. **Lehrerin**  7. **Arzt**  8. **the job interview**  9. **CV** (auch richtig: **résumé**, **resume**)  10. **wollte**  11. **eingereicht**  12. **bekommen hat**  13. **aufgestanden**  14. **2**  15. **dass**  16. **ist**
 
 ## Übung D2 — Odd one out
 
@@ -276,7 +276,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-1. **die Bewerbung**  2. **der Lebenslauf**  3. **das Vorstellungsgespräch**  4. **das Gehalt**  5. **die Kollegin**  6. **Sie arbeitet als Krankenpflegerin.**  7. **Er hat als Student in Berlin studiert.**  8. **Ich habe als Manager gearbeitet.**  9. **wenn**  10. **bekommen hat**  11. **Wenn die Stelle frei ist**  12. **komme ich sofort**  13. **weil**  14. **weil**  15. **last / final**  16. **Er ist müde, weil er viel gearbeitet hat.**  17. **Ich habe keine Erfahrung. Deshalb lerne ich viel.**  18. **Seid**  19. **beworben**  20. **musste**  21. **hört**
+1. **die Bewerbung**  2. **der Lebenslauf**  3. **das Vorstellungsgespräch**  4. **das Gehalt**  5. **die Kollegin**  6. **Sie arbeitet als Krankenpflegerin.**  7. **Er hat als Student in Berlin studiert.**  8. **Ich habe als Manager gearbeitet.**  9. **wenn**  10. **bekommen hat**  11. **Wenn die Stelle frei ist**  12. **komme ich sofort**  13. **weil**  14. **weil**  15. **last** (auch richtig: **final**)  16. **Er ist müde, weil er viel gearbeitet hat.**  17. **Ich habe keine Erfahrung. Deshalb lerne ich viel.**  18. **Seid**  19. **beworben**  20. **musste**  21. **hört**
 
 ---
 

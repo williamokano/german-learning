@@ -145,43 +145,77 @@
     gap: 0.35rem;
     min-height: 44px;
     padding: 0.4rem 0.6rem;
-    border: 1.5px solid #d1d5db;
-    border-radius: 6px;
-    background: #f9fafb;
-    transition: border-color 0.1s;
+    border: 1.5px solid var(--border-strong, #cbd5e1);
+    border-radius: var(--radius-sm, 6px);
+    background: var(--surface-2, #f8fafc);
+    transition: border-color 0.12s, background 0.12s;
   }
-  .strip.correct { border-color: #16a34a; background: #f0fdf4; }
-  .strip.wrong   { border-color: #dc2626; background: #fef2f2; }
-  .strip-placeholder { color: #9ca3af; font-size: 0.875rem; font-style: italic; align-self: center; }
+  .strip.correct { border-color: var(--ok-border, #86efac); background: var(--ok-bg, #f0fdf4); }
+  .strip.wrong   { border-color: var(--err-border, #fca5a5); background: var(--err-bg, #fef2f2); }
+  .strip-placeholder {
+    color: var(--text-faint, #94a3b8);
+    font-size: var(--text-sm, 0.8125rem);
+    font-style: italic;
+    align-self: center;
+  }
   .pool {
     display: flex;
     flex-wrap: wrap;
     gap: 0.35rem;
     padding: 0.4rem 0.6rem;
-    background: #fff;
-    border: 1px dashed #d1d5db;
-    border-radius: 6px;
+    background: var(--surface, #fff);
+    border: 1px dashed var(--border-strong, #cbd5e1);
+    border-radius: var(--radius-sm, 6px);
     min-height: 40px;
   }
   .tile {
     padding: 4px 10px;
-    border: 1.5px solid #d1d5db;
-    border-radius: 4px;
-    background: #fff;
+    border: 1.5px solid var(--border-strong, #cbd5e1);
+    border-radius: var(--radius-sm, 6px);
+    background: var(--surface, #fff);
+    color: var(--text, #0f172a);
     cursor: pointer;
     font: inherit;
     font-size: 0.9rem;
-    transition: all 0.1s;
+    transition: border-color 0.12s, background 0.12s, color 0.12s;
   }
-  .pool-tile:hover  { border-color: #2563eb; background: #eff6ff; }
-  .strip-tile { border-color: #6366f1; background: #eef2ff; }
-  .strip-tile:hover:not(:disabled) { border-color: #dc2626; background: #fee2e2; }
+  .tile:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px var(--focus-ring, rgba(53, 98, 246, 0.25));
+  }
+  .pool-tile:hover {
+    border-color: var(--brand-500, #3562f6);
+    background: var(--brand-50, #eef4ff);
+    color: var(--brand-700, #1a34d8);
+  }
+  /* Already in the sentence — filled, so the strip reads as the answer taking
+     shape rather than as more options. */
+  .strip-tile {
+    border-color: var(--brand-300, #8eb0ff);
+    background: var(--brand-50, #eef4ff);
+    color: var(--brand-800, #1c2eaf);
+  }
+  .strip-tile:hover:not(:disabled) {
+    border-color: var(--err-border, #fca5a5);
+    background: var(--err-bg, #fef2f2);
+    color: var(--err-fg, #b91c1c);
+  }
   .strip-tile:disabled { cursor: default; }
-  .strip.correct .strip-tile { border-color: #16a34a; background: #dcfce7; cursor: default; }
-  .strip.wrong .strip-tile   { border-color: #dc2626; background: #fee2e2; cursor: default; }
-  .feedback { font-size: 0.875rem; padding-left: 0.2rem; }
-  .ok  { color: #16a34a; font-weight: 700; }
-  .err { color: #dc2626; font-weight: 600; }
-  .correction { color: #374151; }
-  .note { color: #6b7280; font-style: italic; }
+  .strip.correct .strip-tile {
+    border-color: var(--ok-border, #86efac);
+    background: var(--ok-bg, #f0fdf4);
+    color: var(--ok-fg, #15803d);
+    cursor: default;
+  }
+  .strip.wrong .strip-tile {
+    border-color: var(--err-border, #fca5a5);
+    background: var(--err-bg, #fef2f2);
+    color: var(--err-fg, #b91c1c);
+    cursor: default;
+  }
+  .feedback { font-size: var(--text-base, 0.9375rem); padding-left: 0.2rem; }
+  .ok  { color: var(--ok-fg, #15803d); font-weight: 700; }
+  .err { color: var(--err-fg, #b91c1c); font-weight: 600; }
+  .correction { color: var(--text-muted, #475569); }
+  .note { color: var(--text-subtle, #64748b); font-style: italic; }
 </style>

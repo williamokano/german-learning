@@ -282,7 +282,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-1. **würde**  2. **könntest**  3. **hätte**  4. **wären**  5. **würden**  6. **Könntest**  7. **hätte**  8. **wäre**  9. **Könnten**  10. **würden**  11. **die Speisekarte**  12. **starter / first course**  13. **to order**  14. **die Absage**  15. **Ich hätte gern das Tagesgericht, bitte.**  16. **Könnten Sie bitte die Rechnung prüfen?**  17. **Das wäre ideal!**  18. **Würden Sie gern etwas trinken?**  19. **Würdest du am Freitag gern ins Konzert kommen?**  20. **Ich könnte leider nicht kommen — ich hätte keine Zeit.**
+1. **würde**  2. **könntest**  3. **hätte**  4. **wären**  5. **würden**  6. **Könntest**  7. **hätte**  8. **wäre**  9. **Könnten**  10. **würden**  11. **die Speisekarte**  12. **starter** (auch richtig: **first course**, **appetizer**)  13. **to order**  14. **die Absage**  15. **Ich hätte gern das Tagesgericht, bitte.**  16. **Könnten Sie bitte die Rechnung prüfen?**  17. **Das wäre ideal!**  18. **Würden Sie gern etwas trinken?**  19. **Würdest du am Freitag gern ins Konzert kommen?**  20. **Ich könnte leider nicht kommen — ich hätte keine Zeit.**
 
 ---
 

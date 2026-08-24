@@ -264,7 +264,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-1. **dem**  2. **Dativ**  3. **den**  4. **Akkusativ**  5. **dem**  6. **Dativ**  7. **das**  8. **Akkusativ**  9. **der**  10. **Dativ**  11. **im**  12. **ans**  13. **ins**  14. **stelle**  15. **steht**  16. **legt**  17. **liegt**  18. **hängt**  19. **hängt**  20. **die Wohngemeinschaft / WG**  21. **der Mitbewohner**  22. **der Vermieter**  23. **einziehen**  24. **Der Teppich liegt unter dem Tisch.**  25. **Stell den Stuhl neben das Fenster!**
+1. **dem**  2. **Dativ**  3. **den**  4. **Akkusativ**  5. **dem**  6. **Dativ**  7. **das**  8. **Akkusativ**  9. **der**  10. **Dativ**  11. **im**  12. **ans**  13. **ins**  14. **stelle**  15. **steht**  16. **legt**  17. **liegt**  18. **hängt**  19. **hängt**  20. **die Wohngemeinschaft** (auch richtig: **Wohngemeinschaft**, **die WG**, **WG**)  21. **der Mitbewohner**  22. **der Vermieter**  23. **einziehen**  24. **Der Teppich liegt unter dem Tisch.**  25. **Stell den Stuhl neben das Fenster!**
 
 ---
 

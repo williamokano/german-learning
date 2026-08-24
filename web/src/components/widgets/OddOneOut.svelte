@@ -94,26 +94,67 @@
 <style>
   .odd-one-out { display: flex; flex-direction: column; gap: 1rem; }
   .group { display: flex; align-items: flex-start; flex-wrap: wrap; gap: 0.4rem; }
-  .group-num { font-weight: 600; min-width: 1.5rem; padding-top: 0.35rem; }
+  .group-num {
+    font-weight: 600;
+    min-width: 1.5rem;
+    padding-top: 0.35rem;
+    color: var(--text-subtle, #64748b);
+    font-variant-numeric: tabular-nums;
+  }
   .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; flex: 1; }
   .chip {
     padding: 0.35rem 0.75rem;
-    border: 1.5px solid #d1d5db;
-    border-radius: 20px;
-    background: #fff;
+    border: 1.5px solid var(--border-strong, #cbd5e1);
+    border-radius: 999px;
+    background: var(--surface, #fff);
+    color: var(--text, #0f172a);
     cursor: pointer;
     font: inherit;
     font-size: 0.9rem;
-    transition: all 0.1s;
+    transition: border-color 0.12s, background 0.12s, color 0.12s;
   }
-  .chip:hover:not(:disabled) { border-color: #2563eb; background: #eff6ff; }
+  .chip:hover:not(:disabled) {
+    border-color: var(--brand-500, #3562f6);
+    background: var(--brand-50, #eef4ff);
+    color: var(--brand-700, #1a34d8);
+  }
+  .chip:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px var(--focus-ring, rgba(53, 98, 246, 0.25));
+  }
   .chip:disabled { cursor: default; }
-  .chip.selected { border-color: #2563eb; background: #eff6ff; font-weight: 600; }
-  .chip.graded-correct { border-color: #16a34a; background: #dcfce7; font-weight: 700; }
-  .chip.graded-wrong   { border-color: #dc2626; background: #fee2e2; }
-  .chip.graded-reveal  { border: 2px dashed #16a34a; background: #f0fdf4; }
-  .feedback { width: 100%; padding-left: 1.5rem; font-size: 0.875rem; }
-  .ok  { color: #16a34a; font-weight: 700; }
-  .err { color: #dc2626; font-weight: 600; }
-  .why { color: #4b5563; }
+  .chip.selected,
+  .chip.selected:hover:not(:disabled) {
+    border-color: var(--brand-500, #3562f6);
+    background: var(--brand-500, #3562f6);
+    color: var(--text-invert, #fff);
+    font-weight: 600;
+  }
+  .chip.graded-correct {
+    border-color: var(--ok-border, #86efac);
+    background: var(--ok-bg, #f0fdf4);
+    color: var(--ok-fg, #15803d);
+    font-weight: 700;
+  }
+  .chip.graded-wrong {
+    border-color: var(--err-border, #fca5a5);
+    background: var(--err-bg, #fef2f2);
+    color: var(--err-fg, #b91c1c);
+  }
+  /* The odd one out the learner did not pick — dashed, so it reads as
+     "this was it" rather than "you got this". */
+  .chip.graded-reveal {
+    border: 2px dashed var(--ok-fg, #15803d);
+    background: var(--ok-bg, #f0fdf4);
+    color: var(--ok-fg, #15803d);
+  }
+  .feedback {
+    width: 100%;
+    padding-left: 1.5rem;
+    font-size: var(--text-base, 0.9375rem);
+    color: var(--text-muted, #475569);
+  }
+  .ok  { color: var(--ok-fg, #15803d); font-weight: 700; }
+  .err { color: var(--err-fg, #b91c1c); font-weight: 600; }
+  .why { color: var(--text-muted, #475569); }
 </style>

@@ -3,6 +3,8 @@
   import type { ItemResult } from '@core/content/types';
   import type { FreeWriteExercise } from '@core/content/types';
   import { progress } from '@core/index';
+  import PassageBody from '../PassageBody.svelte';
+  import { parsePassage } from '@core/content/instructions';
 
   let { exercise, graded, lessonId }: {
     exercise: FreeWriteExercise;
@@ -33,7 +35,9 @@
 
 <div class="free-write">
   {#if exercise.stimulus}
-    <blockquote class="stimulus">{exercise.stimulus}</blockquote>
+    <blockquote class="stimulus">
+      <PassageBody paragraphs={parsePassage(exercise.stimulus)} />
+    </blockquote>
   {/if}
 
   <p class="prompt">{exercise.prompt}</p>
@@ -64,7 +68,9 @@
     {#if exercise.model}
       <details class="model-spoiler">
         <summary>📄 Musterantwort (erst nach dem Schreiben öffnen!)</summary>
-        <blockquote class="model">{exercise.model}</blockquote>
+        <blockquote class="model">
+          <PassageBody paragraphs={parsePassage(exercise.model)} />
+        </blockquote>
       </details>
     {/if}
   {/if}
@@ -72,44 +78,71 @@
 
 <style>
   .free-write { display: flex; flex-direction: column; gap: 0.75rem; }
+  /* stimulus/model carry numbered transformation drills or a sample text.
+     PassageBody keeps each drill item on its own line and breaks running
+     prose one thought per line — see core/content/instructions.ts. */
   .stimulus {
     margin: 0;
-    padding: 0.5rem 0.75rem;
-    border-left: 3px solid #93c5fd;
-    background: #eff6ff;
-    font-style: italic;
-    border-radius: 0 4px 4px 0;
+    padding: 0.7rem 1rem;
+    border-left: 4px solid var(--brand-400, #5985fc);
+    background: var(--surface-2, #f8fafc);
+    color: var(--text, #0f172a);
+    border-radius: 0 var(--radius, 10px) var(--radius, 10px) 0;
+    line-height: 1.7;
   }
-  .prompt { margin: 0; font-weight: 500; }
-  .use-list { margin: 0; padding-left: 1.25rem; font-size: 0.9rem; color: #374151; }
+  .prompt { margin: 0; font-weight: 550; }
+  .use-list {
+    margin: 0;
+    padding-left: 1.25rem;
+    font-size: 0.9rem;
+    color: var(--text-muted, #475569);
+  }
   .answer-area {
     width: 100%;
-    padding: 0.5rem 0.75rem;
+    padding: 0.6rem 0.8rem;
     font: inherit;
     font-size: 0.95rem;
-    border: 1.5px solid #9ca3af;
-    border-radius: 6px;
+    border: 1.5px solid var(--border-input, #b6c2d2);
+    border-radius: var(--radius-sm, 6px);
+    background: var(--surface, #fff);
+    color: var(--text, #0f172a);
     resize: vertical;
     box-sizing: border-box;
-    line-height: 1.5;
+    line-height: 1.6;
+    transition: border-color 0.12s, box-shadow 0.12s;
   }
-  .answer-area:focus { outline: none; border-color: #2563eb; }
-  .answer-area:disabled { background: #f9fafb; color: #374151; }
+  .answer-area:focus {
+    outline: none;
+    border-color: var(--brand-500, #3562f6);
+    box-shadow: 0 0 0 3px var(--focus-ring, rgba(53, 98, 246, 0.25));
+  }
+  .answer-area:disabled { background: var(--surface-2, #f8fafc); color: var(--text-muted, #475569); }
   .self-check {
-    background: #f0fdf4;
-    border: 1px solid #bbf7d0;
-    border-radius: 6px;
-    padding: 0.5rem 0.75rem;
+    background: var(--ok-bg, #f0fdf4);
+    border: 1px solid var(--ok-border, #86efac);
+    border-radius: var(--radius, 10px);
+    padding: 0.6rem 0.85rem;
   }
-  .self-check-title { margin: 0 0 0.25rem; font-weight: 600; color: #15803d; font-size: 0.9rem; }
+  .self-check-title {
+    margin: 0 0 0.25rem;
+    font-weight: 650;
+    color: var(--ok-fg, #15803d);
+    font-size: 0.9rem;
+  }
   .self-check ul { margin: 0; padding-left: 1.25rem; font-size: 0.875rem; }
   .model-spoiler { font-size: 0.9rem; }
-  .model-spoiler summary { cursor: pointer; color: #374151; padding: 0.25rem 0; }
+  .model-spoiler summary {
+    cursor: pointer;
+    color: var(--text-muted, #475569);
+    padding: 0.25rem 0;
+  }
   .model {
     margin: 0.5rem 0 0;
-    padding: 0.5rem 0.75rem;
-    border-left: 3px solid #d1d5db;
-    font-style: italic;
-    background: #f9fafb;
+    padding: 0.7rem 1rem;
+    border-left: 4px solid var(--ok-border, #86efac);
+    background: var(--surface-2, #f8fafc);
+    color: var(--text, #0f172a);
+    border-radius: 0 var(--radius, 10px) var(--radius, 10px) 0;
+    line-height: 1.7;
   }
 </style>

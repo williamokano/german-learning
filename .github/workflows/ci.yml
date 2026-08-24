@@ -43,6 +43,9 @@ jobs:
       - name: Check single-choice answer-letter balance
         run: npx --yes tsx build/check-answer-balance.ts --all
 
+      - name: Check answers do not spell alternatives inline
+        run: npx --yes tsx build/check-answer-alternatives.ts --all
+
       - name: Validate vocab.yml and assert no needsReview markers remain
         run: npx --yes tsx build/import-vocab.ts --all --check
 
