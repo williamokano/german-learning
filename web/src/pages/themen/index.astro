@@ -2,11 +2,11 @@
 import { getCollection } from 'astro:content';
 import AppShell from '../../layouts/AppShell.astro';
 
-// Standalone topic-drill sets (EXTRA/, see EXTRA/README.md) — not part of the
-// A1–C1 roadmap, so unlike the level index pages this groups by `data.topic`
+// Standalone grammar-drill sets (THEMEN/, see THEMEN/README.md) — not part of
+// the A1–C1 roadmap, so unlike the level index pages this groups by `data.topic`
 // (shared across a theme's per-level variants) instead of by lesson number.
 const all = await getCollection('exercises');
-const extraSets = all.filter(e => e.id.startsWith('extra/'));
+const themenSets = all.filter(e => e.id.startsWith('themen/'));
 
 const LEVEL_ORDER: Record<string, number> = { A1: 0, A2: 1, B1: 2, B2: 3, C1: 4 };
 
@@ -16,7 +16,7 @@ interface TopicGroup {
 }
 
 const groups = new Map<string, TopicGroup>();
-for (const entry of extraSets) {
+for (const entry of themenSets) {
   const topic = entry.data.topic ?? entry.data.title;
   if (!groups.has(topic)) groups.set(topic, { topic, variants: [] });
   // uebungen.astro's own getStaticPaths only reads parts[0]/parts[1] of the
@@ -39,18 +39,18 @@ const topicGroups = [...groups.values()].map(g => ({
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
-<AppShell title="Zusatzübungen — Deutsch lernen" navKey="extra" variant="app" crumbs={[{ label: 'Zusatzübungen' }]}>
+<AppShell title="Grammatikthemen — Deutsch lernen" navKey="themen" variant="app" crumbs={[{ label: 'Grammatikthemen' }]}>
   <header class="page-head">
-    <span class="badge badge-level" data-level="extra">EXTRA</span>
-    <h1>Zusatzübungen</h1>
+    <span class="badge badge-level" data-level="themen">THEMEN</span>
+    <h1>Grammatikthemen</h1>
     <p class="lead">
       Gezielte Übungssets zu einzelnen Grammatikthemen — unabhängig vom
       Lehrplan, ohne zugehörige Lektion. Wähle ein Thema und dein Niveau.
     </p>
-    <p class="count">{topicGroups.length} Themen · {extraSets.length} Sets</p>
+    <p class="count">{topicGroups.length} Themen · {themenSets.length} Sets</p>
   </header>
 
-  {topicGroups.length === 0 && <p class="empty">Noch keine Zusatzübungen verfügbar.</p>}
+  {topicGroups.length === 0 && <p class="empty">Noch keine Grammatikthemen verfügbar.</p>}
 
   <ul class="topics">
     {topicGroups.map(g => (

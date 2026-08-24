@@ -1,0 +1,143 @@
+---
+import { getCollection } from 'astro:content';
+import AppShell from '../../layouts/AppShell.astro';
+
+// Situation sets (SITUATIONEN/, see SITUATIONEN/README.md). Unlike /themen/,
+// which groups by grammar point, these group by `data.category` — the shelf a
+// situation sits on (Einkaufen, Behörden, …) — because what a learner wants
+// here is "the thing I have to do this week", not a grammar label.
+const all = await getCollection('exercises');
+const sets = all.filter(e => e.id.startsWith('situationen/'));
+
+const LEVEL_ORDER: Record<string, number> = { A1: 0, A2: 1, B1: 2, B2: 3, C1: 4 };
+
+// Fixed order: everyday-and-easy first, officialdom and big-ticket decisions
+// last. A category with no sets yet simply doesn't render.
+const CATEGORY_ORDER = [
+  'Essen & Trinken',
+  'Einkaufen',
+  'Unterwegs',
+  'Freizeit & Kultur',
+  'Sport & Gesundheit',
+  'Wohnen & Nachbarschaft',
+  'Behörden & Formelles',
+  'Geld & Verträge',
+  'Wenn etwas schiefgeht',
+];
+
+interface Item { id: string; level: string; title: string; topic: string }
+
+const byCategory = new Map<string, Item[]>();
+for (const entry of sets) {
+  const category = entry.data.category ?? 'Sonstiges';
+  // uebungen.astro's getStaticPaths reads only parts[0]/parts[1] of the entry
+  // id; the glob loader keeps the filename stem as a 3rd segment, which would
+  // leak into this href and 404.
+  const [level, lesson] = entry.id.split('/');
+  const list = byCategory.get(category) ?? [];
+  list.push({
+    id: `${level}/${lesson}`,
+    level: entry.data.level ?? '',
+    title: entry.data.title,
+    topic: entry.data.topic ?? entry.data.title,
+  });
+  byCategory.set(category, list);
+}
+
+const categories = [...byCategory.entries()]
+  .map(([name, items]) => ({
+    name,
+    items: items.sort((a, b) =>
+      (LEVEL_ORDER[a.level] ?? 99) - (LEVEL_ORDER[b.level] ?? 99) ||
+      a.topic.localeCompare(b.topic, 'de')),
+  }))
+  .sort((a, b) => {
+    const ia = CATEGORY_ORDER.indexOf(a.name);
+    const ib = CATEGORY_ORDER.indexOf(b.name);
+    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.name.localeCompare(b.name, 'de');
+  });
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<AppShell
+  title="Alltagssituationen — Deutsch lernen"
+  navKey="situationen"
+  variant="app"
+  crumbs={[{ label: 'Alltagssituationen' }]}
+>
+  <header class="page-head">
+    <span class="badge badge-level" data-level="situationen">SITUATIONEN</span>
+    <h1>Alltagssituationen</h1>
+    <p class="lead">
+      Übungssets rund um eine konkrete Situation: der Wortschatz, die
+      Redemittel und die Sätze, die du im Café, beim Amt oder in der Werkstatt
+      wirklich brauchst — samt der Momente, in denen etwas schiefgeht.
+    </p>
+    <p class="count">{categories.length} Bereiche · {sets.length} Situationen</p>
+  </header>
+
+  {categories.length === 0 && <p class="empty">Noch keine Situationen verfügbar.</p>}
+
+  {categories.map(c => (
+    <section class="category">
+      <h2 class="category-name">{c.name}</h2>
+      <ul class="cards">
+        {c.items.map(i => (
+          <li>
+            <a class="situation-card card" href={`${base}/${i.id}/uebungen/`} data-level={(i.level || '').toLowerCase()}>
+              <span class="badge badge-level">{i.level}</span>
+              <span class="situation-title">{i.topic}</span>
+              <span class="situation-sub">{i.title}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</AppShell>
+
+<style>
+  .page-head { margin-bottom: var(--space-6); max-width: 62ch; }
+  .page-head h1 { margin: var(--space-3) 0 var(--space-3); font-size: var(--text-3xl); letter-spacing: -0.02em; }
+  .lead { margin: 0; color: var(--text-muted); }
+  .count {
+    margin: var(--space-3) 0 0;
+    font-size: var(--text-sm);
+    color: var(--text-faint);
+    font-variant-numeric: tabular-nums;
+  }
+  .empty { color: var(--text-faint); margin-top: var(--space-6); }
+
+  .category { margin-bottom: var(--space-6); }
+  .category-name {
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-lg);
+    letter-spacing: -0.01em;
+  }
+  .cards {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+    gap: var(--space-3);
+  }
+  .situation-card {
+    height: 100%;
+    padding: var(--space-4);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-2);
+    color: inherit;
+    transition: border-color var(--transition), box-shadow var(--transition);
+  }
+  .situation-card:hover {
+    border-color: var(--level-color, var(--brand-300));
+    box-shadow: var(--shadow-sm);
+    text-decoration: none;
+  }
+  .situation-title { font-weight: 650; }
+  .situation-sub { font-size: var(--text-sm); color: var(--text-muted); }
+</style>

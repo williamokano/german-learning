@@ -70,7 +70,8 @@
   --level-b1: #3562f6;
   --level-b2: #7c3aed;
   --level-c1: #c026d3;
-  --level-extra: #d97706;
+  --level-themen: #d97706;
+  --level-situationen: #0f766e;
 
   /* ---- typography ------------------------------------------------------ */
   --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
@@ -177,7 +178,8 @@
     --level-b1: #7fa0ff;
     --level-b2: #a78bfa;
     --level-c1: #e879f9;
-    --level-extra: #fbbf24;
+    --level-themen: #fbbf24;
+    --level-situationen: #2dd4bf;
 
     --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.4);
     --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.45), 0 1px 2px rgba(0, 0, 0, 0.3);
@@ -239,7 +241,8 @@
   --level-b1: #7fa0ff;
   --level-b2: #a78bfa;
   --level-c1: #e879f9;
-  --level-extra: #fbbf24;
+  --level-themen: #fbbf24;
+  --level-situationen: #2dd4bf;
 
   --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.4);
   --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.45), 0 1px 2px rgba(0, 0, 0, 0.3);
@@ -383,7 +386,8 @@ code {
 [data-level="b1"], [data-level="B1"] { --level-color: var(--level-b1); }
 [data-level="b2"], [data-level="B2"] { --level-color: var(--level-b2); }
 [data-level="c1"], [data-level="C1"] { --level-color: var(--level-c1); }
-[data-level="extra"], [data-level="EXTRA"] { --level-color: var(--level-extra); }
+[data-level="themen"], [data-level="THEMEN"] { --level-color: var(--level-themen); }
+[data-level="situationen"], [data-level="SITUATIONEN"] { --level-color: var(--level-situationen); }
 
 /* ============================================================================
    Shared page patterns — used by the simpler index/runner pages so they don't

@@ -1,4 +1,4 @@
-# EXTRA — Standalone Grammar Drill Sets
+# THEMEN — Standalone Grammar Drill Sets
 
 This directory holds **topic-focused exercise batteries that are not part of
 the A1→C1 curriculum**. They don't belong to any `lesson.md`/roadmap slot —
@@ -16,18 +16,19 @@ or `audio/`.
 
 ## Where they live on the site
 
-Each topic set is served at `/EXTRA/<dir-slug>/uebungen/` (built by the same
+Each topic set is served at `/themen/<dir-slug>/uebungen/` (built by the same
 `[level]/[lesson]/uebungen.astro` route the curriculum lessons use — it
 derives its route purely from the `exercises` content collection, so a
 directory here needs nothing but `exercises.yml` to become a working page).
-A landing page at `/extra/` lists every set, grouped by topic and CEFR level.
+A landing page at `/themen/` lists every set, grouped by topic and CEFR
+level. (`/extra/` was the old address and still redirects there.)
 
 ## File layout and naming
 
 ```
-EXTRA/<NN>-<topic-slug>-<level>/
+THEMEN/<NN>-<topic-slug>-<level>/
 └── exercises.yml   # hand-authored source
-└── exercises.md    # generated — npx tsx build/gen-exercises.ts EXTRA/<dir>
+└── exercises.md    # generated — npx tsx build/gen-exercises.ts THEMEN/<dir>
 └── solutions.md    # generated
 ```
 
@@ -38,14 +39,14 @@ EXTRA/<NN>-<topic-slug>-<level>/
   level, e.g. `01-personalpronomen-a1/`, `01-personalpronomen-a2/`,
   `01-personalpronomen-b1/`.
 
-## `exercises.yml` fields specific to EXTRA sets
+## `exercises.yml` fields specific to THEMEN sets
 
 Two optional `ExerciseSet` fields exist only for this use case (curriculum
 lessons never set them):
 
 - `topic:` — a human-readable group label shared by every level-variant of
   the same theme (e.g. `"Personalpronomen (Nominativ, Akkusativ, Dativ)"`).
-  The `/extra/` index groups by this string.
+  The `/themen/` index groups by this string.
 - `level:` — the CEFR level (`A1`…`C1`), used for the level badge and for
   sorting variants of the same topic on the index page.
 
@@ -53,6 +54,11 @@ lessons never set them):
 shape instead of a real `LEVEL/NN` slot (e.g. `EX/01-personalpronomen-a1`) —
 this keeps the id namespace-disjoint from real lessons, so localStorage
 progress/Fehlerbuch keys never collide with an actual curriculum lesson.
+
+The prefix stayed `EX/` when the directory was renamed from `EXTRA/` to
+`THEMEN/`: these ids **are** the localStorage keys, so renaming them would
+silently orphan every answer and Fehlerbuch entry a learner already has.
+`SIT/` is the sibling prefix used by `SITUATIONEN/`.
 
 ## Workflow for adding a new set
 
@@ -63,7 +69,7 @@ Same discipline as a curriculum `exercises.yml`, scaled to a single topic:
 2. Write `exercises.yml` (Block A Basistraining → B Vertiefung → C
    Sprachbausteine/Prüfungstraining → D Wiederholung).
 3. Review every item and its answer key by hand for correctness.
-4. `npx tsx build/gen-exercises.ts EXTRA/<dir>` to generate the `.md` files.
+4. `npx tsx build/gen-exercises.ts THEMEN/<dir>` to generate the `.md` files.
 5. `npx tsx build/gen-exercises.ts --all --check` to confirm no drift.
 6. Commit and push before moving to the next set.
 
@@ -116,5 +122,5 @@ Nothing queued right now — the list above (01–20) covers pronouns, case,
 adjective declension, the two-way prepositions, the whole verb-tense system
 (Perfekt/Präteritum/Futur), Passiv, Konjunktiv II, indirect speech, and
 sentence-level connectors. Suggest a new grammar point here when one comes
-up; it'll follow the same `EXTRA/<NN>-<topic-slug>-<level>/` layout and
+up; it'll follow the same `THEMEN/<NN>-<topic-slug>-<level>/` layout and
 A/B/C/D block workflow as everything above.

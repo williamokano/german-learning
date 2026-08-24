@@ -28,13 +28,15 @@ const levelCards = levelIds.map(id => ({
   count: lessons.filter(l => l.id.startsWith(`${id}/`)).length,
 }));
 
-const extraCount = exercises.filter(e => e.id.startsWith('extra/')).length;
+const themenCount = exercises.filter(e => e.id.startsWith('themen/')).length;
+const situationenCount = exercises.filter(e => e.id.startsWith('situationen/')).length;
 
 const practice = [
-  { href: `${base}/extra/`,  title: 'Zusatzübungen', desc: `${extraCount} eigenständige Grammatik-Sets`, tone: 'extra' },
-  { href: `${base}/drills/`, title: 'Drill-Modus',   desc: 'Kurze, gezielte Wiederholung',            tone: 'b1' },
-  { href: `${base}/gym/`,    title: 'Grammatik-Gym', desc: 'Ein Thema, viele Sätze',                  tone: 'b2' },
-  { href: `${base}/review/`, title: 'Fehlerbuch',    desc: 'Deine Fehler gezielt nacharbeiten',       tone: 'c1' },
+  { href: `${base}/themen/`,      title: 'Grammatikthemen',    desc: `${themenCount} eigenständige Grammatik-Sets`,      tone: 'themen' },
+  { href: `${base}/situationen/`, title: 'Alltagssituationen', desc: `${situationenCount} Situationen zum Durchspielen`, tone: 'situationen' },
+  { href: `${base}/drills/`,      title: 'Drill-Modus',        desc: 'Kurze, gezielte Wiederholung',                     tone: 'b1' },
+  { href: `${base}/gym/`,         title: 'Grammatik-Gym',      desc: 'Ein Thema, viele Sätze',                           tone: 'b2' },
+  { href: `${base}/review/`,      title: 'Fehlerbuch',         desc: 'Deine Fehler gezielt nacharbeiten',                tone: 'c1' },
 ];
 ---
 
@@ -72,8 +74,8 @@ const practice = [
     </div>
     <div class="stat card">
       <span class="stat-label">Zusatzübungen</span>
-      <span class="stat-value">{extraCount}</span>
-      <span class="stat-note">eigenständige Sets</span>
+      <span class="stat-value">{themenCount + situationenCount}</span>
+      <span class="stat-note">Themen + Situationen</span>
     </div>
     <div class="stat card">
       <span class="stat-label">Wortschatz</span>
