@@ -56,6 +56,15 @@
     const first = Array.isArray(answer) ? answer[0] : answer;
     return Math.max(6, (first?.length ?? 6) + 2);
   }
+
+  // `columns` conventionally starts with "" as a placeholder for the row-label
+  // slot (mirroring how a markdown table header reads: | | col1 | col2 |).
+  // That slot is already rendered below as the hardcoded row-label-head <th>,
+  // so drop the leading "" here to avoid a duplicate blank column that shifts
+  // every real header one position to the right of its data.
+  let displayColumns = $derived(
+    exercise.columns[0] === '' ? exercise.columns.slice(1) : exercise.columns,
+  );
 </script>
 
 <div class="table-fill">
@@ -64,7 +73,7 @@
       <thead>
         <tr>
           <th class="row-label-head"></th>
-          {#each exercise.columns as col}<th>{col}</th>{/each}
+          {#each displayColumns as col}<th>{col}</th>{/each}
         </tr>
       </thead>
       <tbody>
