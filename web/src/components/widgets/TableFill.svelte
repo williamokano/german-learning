@@ -57,13 +57,18 @@
     return Math.max(6, (first?.length ?? 6) + 2);
   }
 
-  // `columns` conventionally starts with "" as a placeholder for the row-label
-  // slot (mirroring how a markdown table header reads: | | col1 | col2 |).
-  // That slot is already rendered below as the hardcoded row-label-head <th>,
-  // so drop the leading "" here to avoid a duplicate blank column that shifts
-  // every real header one position to the right of its data.
+  // `columns` sometimes captions the row-label column itself as its first
+  // entry — either blank ("") or a real label like "Nominativ" — mirroring
+  // how a markdown table header reads: | | col1 | col2 | or | Nominativ |
+  // col1 | col2 |. Detect that structurally (one more column than each row
+  // has cells) rather than only for "", so a named caption renders too;
+  // otherwise every column is real data and lines up with its own cell.
+  const hasRowLabelCaption = $derived(
+    exercise.columns.length === (exercise.rows[0]?.cells.length ?? 0) + 1,
+  );
+  let rowLabelCaption = $derived(hasRowLabelCaption ? exercise.columns[0] : '');
   let displayColumns = $derived(
-    exercise.columns[0] === '' ? exercise.columns.slice(1) : exercise.columns,
+    hasRowLabelCaption ? exercise.columns.slice(1) : exercise.columns,
   );
 </script>
 
@@ -72,7 +77,7 @@
     <table>
       <thead>
         <tr>
-          <th class="row-label-head"></th>
+          <th class="row-label-head">{rowLabelCaption}</th>
           {#each displayColumns as col}<th>{col}</th>{/each}
         </tr>
       </thead>
