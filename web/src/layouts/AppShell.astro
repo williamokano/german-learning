@@ -1,0 +1,361 @@
+---
+/**
+ * AppShell — the site-wide chrome: sticky top bar, collapsible left sidebar,
+ * and a content area that uses the full page width.
+ *
+ * Two content widths, chosen with `variant`:
+ *   "app"   — wide (dashboards, exercise pages, indexes)
+ *   "prose" — narrower measure for long-form reading (lesson text)
+ */
+import '../styles/theme.css';
+import ThemeToggle from '../components/shell/ThemeToggle.astro';
+import SidebarNav from '../components/shell/SidebarNav.astro';
+
+interface Props {
+  title: string;
+  /** Key of the active sidebar entry, e.g. "today" | "a1" | "extra". */
+  navKey?: string;
+  /** Content width. */
+  variant?: 'app' | 'prose';
+  /** Breadcrumb trail rendered in the top bar. */
+  crumbs?: { label: string; href?: string }[];
+}
+
+const { title, navKey = '', variant = 'app', crumbs = [] } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>{title}</title>
+    {/* Set the theme before first paint so there is no light/dark flash. */}
+    <script is:inline>
+      (function () {
+        try {
+          var t = localStorage.getItem('theme');
+          if (t === 'dark' || t === 'light') {
+            document.documentElement.setAttribute('data-theme', t);
+          }
+          if (localStorage.getItem('sidebarCollapsed') === '1') {
+            document.documentElement.setAttribute('data-sidebar', 'collapsed');
+          }
+        } catch (e) { /* private mode / blocked storage — fall back to defaults */ }
+      })();
+    </script>
+  </head>
+
+  <body>
+    <a class="skip-link" href="#main">Zum Inhalt springen</a>
+
+    <div class="shell">
+      <!-- ── top bar ────────────────────────────────────────────────── -->
+      <header class="topbar">
+        <button
+          type="button"
+          class="icon-btn nav-toggle"
+          aria-label="Navigation öffnen"
+          aria-expanded="false"
+          data-drawer-open
+        >
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+        </button>
+
+        <a class="wordmark" href={`${base}/`}>
+          <span class="wordmark-badge" aria-hidden="true">DE</span>
+          <span class="wordmark-text">Deutsch&nbsp;lernen</span>
+        </a>
+
+        {crumbs.length > 0 && (
+          <nav class="crumbs" aria-label="Brotkrumen">
+            {crumbs.map((c, i) => (
+              <>
+                {i > 0 && <span class="crumb-sep" aria-hidden="true">/</span>}
+                {c.href
+                  ? <a href={c.href}>{c.label}</a>
+                  : <span aria-current="page">{c.label}</span>}
+              </>
+            ))}
+          </nav>
+        )}
+
+        <div class="topbar-right">
+          <slot name="topbar-extra" />
+          <ThemeToggle />
+        </div>
+      </header>
+
+      <!-- ── sidebar ────────────────────────────────────────────────── -->
+      <div class="drawer-scrim" data-drawer-close aria-hidden="true"></div>
+
+      <aside class="sidebar" data-sidebar-el>
+        <SidebarNav navKey={navKey} />
+        <button
+          type="button"
+          class="sidebar-collapse"
+          data-sidebar-collapse
+          aria-label="Seitenleiste ein-/ausklappen"
+        >
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
+          <span class="sidebar-collapse-label">Einklappen</span>
+        </button>
+      </aside>
+
+      <!-- ── content ────────────────────────────────────────────────── -->
+      <main id="main" class="content" data-variant={variant}>
+        <div class="content-inner">
+          <slot />
+        </div>
+      </main>
+    </div>
+
+    <style is:global>
+      .skip-link {
+        position: absolute;
+        left: -9999px;
+        top: var(--space-2);
+        z-index: 100;
+        padding: 0.5rem 1rem;
+        background: var(--surface);
+        border: 1px solid var(--border-strong);
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+      }
+      .skip-link:focus { left: var(--space-2); }
+
+      .shell {
+        display: grid;
+        grid-template-columns: var(--sidebar-w) minmax(0, 1fr);
+        grid-template-rows: var(--topbar-h) minmax(0, 1fr);
+        grid-template-areas:
+          "topbar topbar"
+          "sidebar content";
+        min-height: 100vh;
+      }
+      :root[data-sidebar="collapsed"] .shell { --sidebar-w: 4.25rem; }
+
+      /* ---- top bar ---- */
+      .topbar {
+        grid-area: topbar;
+        position: sticky;
+        top: 0;
+        z-index: 40;
+        display: flex;
+        align-items: center;
+        gap: var(--space-3);
+        padding: 0 var(--space-4);
+        background: color-mix(in srgb, var(--surface) 88%, transparent);
+        backdrop-filter: blur(10px);
+        border-bottom: 1px solid var(--border);
+      }
+
+      .wordmark {
+        display: inline-flex;
+        align-items: center;
+        gap: var(--space-2);
+        font-weight: 750;
+        font-size: var(--text-md);
+        color: var(--text);
+        letter-spacing: -0.01em;
+        flex-shrink: 0;
+      }
+      .wordmark:hover { text-decoration: none; }
+      .wordmark-badge {
+        display: grid;
+        place-items: center;
+        width: 1.75rem;
+        height: 1.75rem;
+        border-radius: 8px;
+        background: linear-gradient(135deg, var(--brand-500), var(--brand-700));
+        color: #fff;
+        font-size: 0.7rem;
+        font-weight: 800;
+        letter-spacing: 0.03em;
+      }
+
+      .crumbs {
+        display: flex;
+        align-items: center;
+        gap: var(--space-2);
+        font-size: var(--text-sm);
+        color: var(--text-subtle);
+        min-width: 0;
+        overflow: hidden;
+        white-space: nowrap;
+        margin-left: var(--space-2);
+        padding-left: var(--space-3);
+        border-left: 1px solid var(--border);
+      }
+      .crumbs a { color: var(--text-muted); }
+      .crumbs a:hover { color: var(--brand-600); }
+      .crumbs [aria-current="page"] {
+        color: var(--text);
+        font-weight: 600;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .crumb-sep { color: var(--text-faint); }
+
+      .topbar-right {
+        margin-left: auto;
+        display: flex;
+        align-items: center;
+        gap: var(--space-2);
+        flex-shrink: 0;
+      }
+
+      .icon-btn {
+        display: grid;
+        place-items: center;
+        width: 2.25rem;
+        height: 2.25rem;
+        border-radius: var(--radius);
+        border: 1px solid transparent;
+        background: transparent;
+        color: var(--text-muted);
+        cursor: pointer;
+        transition: background var(--transition), color var(--transition);
+      }
+      .icon-btn:hover { background: var(--surface-hover); color: var(--text); }
+      .icon-btn svg {
+        width: 1.15rem; height: 1.15rem;
+        fill: none; stroke: currentColor;
+        stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;
+      }
+      .nav-toggle { display: none; }
+
+      /* ---- sidebar ---- */
+      .sidebar {
+        grid-area: sidebar;
+        position: sticky;
+        top: var(--topbar-h);
+        align-self: start;
+        height: calc(100vh - var(--topbar-h));
+        display: flex;
+        flex-direction: column;
+        background: var(--surface);
+        border-right: 1px solid var(--border);
+        overflow-y: auto;
+        overscroll-behavior: contain;
+      }
+
+      .sidebar-collapse {
+        margin-top: auto;
+        display: flex;
+        align-items: center;
+        gap: var(--space-2);
+        padding: var(--space-3) var(--space-4);
+        border: none;
+        border-top: 1px solid var(--border);
+        background: transparent;
+        color: var(--text-subtle);
+        font: inherit;
+        font-size: var(--text-sm);
+        cursor: pointer;
+        transition: background var(--transition), color var(--transition);
+      }
+      .sidebar-collapse:hover { background: var(--surface-hover); color: var(--text); }
+      .sidebar-collapse svg {
+        width: 1rem; height: 1rem; flex-shrink: 0;
+        fill: none; stroke: currentColor;
+        stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;
+        transition: transform var(--transition);
+      }
+      :root[data-sidebar="collapsed"] .sidebar-collapse svg { transform: rotate(180deg); }
+      :root[data-sidebar="collapsed"] .sidebar-collapse-label { display: none; }
+      :root[data-sidebar="collapsed"] .sidebar-collapse { justify-content: center; }
+
+      .drawer-scrim { display: none; }
+
+      /* ---- content ---- */
+      .content {
+        grid-area: content;
+        min-width: 0;
+        padding: var(--space-6) var(--space-6) var(--space-8);
+      }
+      .content-inner {
+        margin: 0 auto;
+        max-width: var(--content-max);
+      }
+      .content[data-variant="prose"] .content-inner { max-width: var(--prose-max); }
+
+      /* ---- responsive: sidebar becomes an overlay drawer ---- */
+      @media (max-width: 900px) {
+        .shell {
+          grid-template-columns: minmax(0, 1fr);
+          grid-template-areas:
+            "topbar"
+            "content";
+        }
+        .nav-toggle { display: grid; }
+        .crumbs { display: none; }
+
+        .sidebar {
+          position: fixed;
+          top: 0;
+          left: 0;
+          height: 100vh;
+          width: min(19rem, 84vw);
+          z-index: 60;
+          transform: translateX(-100%);
+          transition: transform var(--transition);
+          box-shadow: var(--shadow-lg);
+        }
+        :root[data-drawer="open"] .sidebar { transform: translateX(0); }
+        :root[data-sidebar="collapsed"] .shell { --sidebar-w: 0; }
+        .sidebar-collapse { display: none; }
+
+        :root[data-drawer="open"] .drawer-scrim {
+          display: block;
+          position: fixed;
+          inset: 0;
+          z-index: 50;
+          background: rgba(2, 6, 23, 0.5);
+        }
+        :root[data-drawer="open"] { overflow: hidden; }
+
+        .content { padding: var(--space-5) var(--space-4) var(--space-8); }
+      }
+    </style>
+
+    <script is:inline>
+      (function () {
+        var root = document.documentElement;
+
+        // Mobile drawer
+        function setDrawer(open) {
+          if (open) root.setAttribute('data-drawer', 'open');
+          else root.removeAttribute('data-drawer');
+          var btn = document.querySelector('[data-drawer-open]');
+          if (btn) btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        }
+        var openBtn = document.querySelector('[data-drawer-open]');
+        if (openBtn) openBtn.addEventListener('click', function () {
+          setDrawer(root.getAttribute('data-drawer') !== 'open');
+        });
+        var scrim = document.querySelector('[data-drawer-close]');
+        if (scrim) scrim.addEventListener('click', function () { setDrawer(false); });
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape') setDrawer(false);
+        });
+        // A tap on any nav link inside the drawer should close it.
+        var sidebarEl = document.querySelector('[data-sidebar-el]');
+        if (sidebarEl) sidebarEl.addEventListener('click', function (e) {
+          if (e.target.closest('a')) setDrawer(false);
+        });
+
+        // Desktop collapse (persisted)
+        var collapseBtn = document.querySelector('[data-sidebar-collapse]');
+        if (collapseBtn) collapseBtn.addEventListener('click', function () {
+          var next = root.getAttribute('data-sidebar') === 'collapsed' ? '' : 'collapsed';
+          if (next) root.setAttribute('data-sidebar', next);
+          else root.removeAttribute('data-sidebar');
+          try { localStorage.setItem('sidebarCollapsed', next ? '1' : '0'); } catch (e) {}
+        });
+      })();
+    </script>
+  </body>
+</html>
