@@ -83,30 +83,31 @@
 
 <style>
   .exercise-shell {
-    margin: 2rem 0;
-    padding: 1.25rem 1.5rem 1.5rem;
-    border: 1px solid #e5e7eb;
-    border-radius: 10px;
-    background: #fff;
+    margin: 1.5rem 0;
+    padding: 1.35rem 1.6rem 1.6rem;
+    border: 1px solid var(--border, #e2e8f0);
+    border-radius: var(--radius-lg, 14px);
+    background: var(--surface, #fff);
+    box-shadow: var(--shadow-sm, 0 1px 3px rgba(15, 23, 42, 0.07));
   }
   .exercise-title {
     font-size: 1.05rem;
     font-weight: 700;
-    margin: 0 0 0.4rem;
-    color: #1a1a1a;
-    border-bottom: 1px solid #f3f4f6;
-    padding-bottom: 0.4rem;
+    margin: 0 0 0.5rem;
+    color: var(--text, #0f172a);
+    border-bottom: 1px solid var(--border, #e2e8f0);
+    padding-bottom: 0.55rem;
   }
   .exercise-instructions {
-    margin: 0.4rem 0 0.75rem;
+    margin: 0.5rem 0 0.9rem;
     font-size: 0.925rem;
-    color: #374151;
+    color: var(--text-muted, #475569);
   }
   .exercise-instructions-en {
     display: block;
     font-size: 0.8rem;
-    color: #9ca3af;
-    margin-top: 0.15rem;
+    color: var(--text-faint, #94a3b8);
+    margin-top: 0.2rem;
   }
   .exercise-audio { margin-bottom: 0.75rem; }
 </style>

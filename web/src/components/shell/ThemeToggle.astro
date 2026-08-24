@@ -1,0 +1,54 @@
+---
+/**
+ * ThemeToggle — cycles light → dark → system and persists the choice.
+ * The pre-paint script in AppShell applies the stored value before first
+ * render, so this only has to handle clicks and keep its own label in sync.
+ */
+---
+
+<button
+  type="button"
+  class="icon-btn theme-toggle"
+  data-theme-toggle
+  aria-label="Farbschema wechseln"
+  title="Farbschema wechseln"
+>
+  <svg class="i-sun" viewBox="0 0 24 24" aria-hidden="true">
+    <circle cx="12" cy="12" r="4.2"/>
+    <path d="M12 2v2.2M12 19.8V22M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2 12h2.2M19.8 12H22M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"/>
+  </svg>
+  <svg class="i-moon" viewBox="0 0 24 24" aria-hidden="true">
+    <path d="M20 14.5A8.2 8.2 0 019.5 4a8.5 8.5 0 1010.5 10.5z"/>
+  </svg>
+  <svg class="i-auto" viewBox="0 0 24 24" aria-hidden="true">
+    <circle cx="12" cy="12" r="8.2"/>
+    <path d="M12 3.8v16.4a8.2 8.2 0 000-16.4z" fill="currentColor" stroke="none"/>
+  </svg>
+</button>
+
+<style>
+  .theme-toggle svg { display: none; }
+  /* No explicit choice stored → "system" mode. */
+  :global(:root:not([data-theme])) .theme-toggle .i-auto { display: block; }
+  :global(:root[data-theme="light"]) .theme-toggle .i-sun { display: block; }
+  :global(:root[data-theme="dark"])  .theme-toggle .i-moon { display: block; }
+</style>
+
+<script is:inline>
+  (function () {
+    var btn = document.querySelector('[data-theme-toggle]');
+    if (!btn) return;
+    var root = document.documentElement;
+    // system → light → dark → system
+    btn.addEventListener('click', function () {
+      var cur = root.getAttribute('data-theme');
+      var next = cur === 'light' ? 'dark' : cur === 'dark' ? '' : 'light';
+      if (next) root.setAttribute('data-theme', next);
+      else root.removeAttribute('data-theme');
+      try {
+        if (next) localStorage.setItem('theme', next);
+        else localStorage.removeItem('theme');
+      } catch (e) { /* storage blocked — the choice just won't persist */ }
+    });
+  })();
+</script>
