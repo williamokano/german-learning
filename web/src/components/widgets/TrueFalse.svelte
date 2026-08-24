@@ -114,29 +114,60 @@
     flex-wrap: wrap;
     gap: 0.5rem;
     padding: 0.4rem 0;
-    border-bottom: 1px solid #f3f4f6;
+    border-bottom: 1px solid var(--border, #e2e8f0);
   }
   .item.has-audio { flex-direction: column; align-items: flex-start; }
   .item-audio { margin-bottom: 0.2rem; }
   .item:last-child { border-bottom: none; }
-  .statement { flex: 1 1 14rem; }
-  .toggle { display: inline-flex; border-radius: 6px; overflow: hidden; border: 1.5px solid #e5e7eb; }
+  .statement { flex: 1 1 14rem; color: var(--text, #0f172a); }
+  .toggle {
+    display: inline-flex;
+    border-radius: var(--radius-sm, 6px);
+    overflow: hidden;
+    border: 1.5px solid var(--border-strong, #cbd5e1);
+  }
   .btn {
     padding: 0.25rem 0.85rem;
     font: inherit;
     font-size: 0.9rem;
     border: none;
-    background: #f9fafb;
+    background: var(--surface-2, #f8fafc);
+    color: var(--text, #0f172a);
     cursor: pointer;
     transition: background 0.1s, color 0.1s;
   }
-  .btn:first-child { border-right: 1.5px solid #e5e7eb; }
-  .btn:hover:not(:disabled) { background: #eff6ff; }
-  .btn.active { background: #2563eb; color: #fff; font-weight: 600; }
+  .btn:first-child { border-right: 1.5px solid var(--border-strong, #cbd5e1); }
+  .btn:hover:not(:disabled) {
+    background: var(--brand-50, #eef4ff);
+    color: var(--brand-700, #1a34d8);
+  }
+  .btn:focus-visible {
+    outline: none;
+    box-shadow: inset 0 0 0 2px var(--brand-500, #3562f6);
+  }
+  .btn.active,
+  .btn.active:hover:not(:disabled) {
+    background: var(--brand-600, #2043eb);
+    color: var(--text-invert, #fff);
+    font-weight: 600;
+  }
   .btn:disabled { cursor: default; }
-  .btn.graded-correct { background: #dcfce7; color: #15803d; font-weight: 700; }
-  .btn.graded-wrong   { background: #fee2e2; color: #dc2626; font-weight: 700; }
-  .btn.graded-reveal  { background: #f0fdf4; color: #15803d; outline: 2px dashed #16a34a; outline-offset: -2px; }
-  .verdict { font-size: 0.85rem; color: #374151; font-style: italic; flex-basis: 100%; padding-left: 0.25rem; }
-  .verdict.ok { color: #16a34a; font-style: normal; font-weight: 700; }
+  .btn.graded-correct { background: var(--ok-bg, #f0fdf4); color: var(--ok-fg, #15803d); font-weight: 700; }
+  .btn.graded-wrong   { background: var(--err-bg, #fef2f2); color: var(--err-fg, #b91c1c); font-weight: 700; }
+  /* The right answer the learner did not pick — dashed, so it reads as
+     "this was it" rather than "you got this". */
+  .btn.graded-reveal {
+    background: var(--ok-bg, #f0fdf4);
+    color: var(--ok-fg, #15803d);
+    outline: 2px dashed var(--ok-fg, #15803d);
+    outline-offset: -2px;
+  }
+  .verdict {
+    font-size: var(--text-base, 0.9375rem);
+    color: var(--text-muted, #475569);
+    font-style: italic;
+    flex-basis: 100%;
+    padding-left: 0.25rem;
+  }
+  .verdict.ok { color: var(--ok-fg, #15803d); font-style: normal; font-weight: 700; }
 </style>

@@ -124,7 +124,10 @@
               disabled={graded}
             >{word}</button>
           {:else}
-            <span class="slot-blank">_____</span>
+            <!-- The rule is drawn by the border alone. Underscore glyphs used
+                 to sit inside it, so a blank wider than the glyphs showed a
+                 thin line for part of its width and a thick one for the rest. -->
+            <span class="slot-blank" aria-label="Lücke {seg.key}, leer" role="img"></span>
           {/if}
           {#if graded && r != null && !r.correct}
             <span class="expected">{r.expected}</span>
@@ -156,7 +159,7 @@
   .slot { display: inline-flex; align-items: center; gap: 4px; vertical-align: middle; }
   .slot-blank {
     display: inline-block;
-    min-width: 70px;
+    width: 5.5em;
     height: 1.8em;
     border-bottom: 2px solid var(--border-input, #b6c2d2);
     background: transparent;

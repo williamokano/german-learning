@@ -74,6 +74,13 @@
     return results.find(r => r.ref === key);
   }
 
+  /** Gaps answered with an accepted alternative rather than the target form. */
+  const acceptedNotes = $derived(
+    results
+      .filter(r => r.correct && r.note)
+      .map(r => ({ key: r.ref, given: r.given, note: r.note as string })),
+  );
+
   function inputSize(key: string): number {
     const ans = exercise.answers[key];
     const first = Array.isArray(ans) ? ans[0] : ans;
@@ -92,7 +99,8 @@
           <input
             type="text"
             class="gap-input"
-            class:correct={graded && r?.correct}
+            class:correct={graded && r?.correct && !r?.note}
+            class:accepted={graded && r?.correct && !!r?.note}
             class:wrong={graded && r != null && !r.correct}
             size={inputSize(seg.key)}
             bind:value={answers[seg.key]}
@@ -104,10 +112,9 @@
           {/if}
           {#if graded && r != null}
             {#if r.correct}
-              <span class="mark ok">✓</span>
-              {#if r.note}
-                <span class="alt-note">💡 {r.note}</span>
-              {/if}
+              <!-- "≈" rather than "✓": accepted, but not the form being drilled.
+                   The reason goes in the note list below, out of the sentence. -->
+              <span class="mark" class:ok={!r.note} class:alt={!!r.note}>{r.note ? '≈' : '✓'}</span>
             {:else}
               <span class="mark err">✗</span>
               <span class="expected">{r.expected}</span>
@@ -117,6 +124,18 @@
       {/if}
     {/each}
   </p>
+
+  {#if acceptedNotes.length > 0}
+    <ul class="alt-notes">
+      {#each acceptedNotes as n}
+        <li>
+          <span class="alt-gap">Lücke {n.key}</span>
+          <span class="alt-word">„{n.given}“</span>
+          <span class="alt-text">{n.note}</span>
+        </li>
+      {/each}
+    </ul>
+  {/if}
 </div>
 
 <style>
@@ -154,24 +173,48 @@
     background: var(--ok-bg, #f0fdf4);
     color: var(--ok-fg, #15803d);
   }
+  /* Accepted, but not the target form — amber, so it reads apart from a
+     plain correct answer at a glance. */
+  .gap-input.accepted {
+    border-color: var(--warn-border, #fcd34d);
+    background: var(--warn-bg, #fffbeb);
+    color: var(--warn-fg, #b45309);
+  }
   .gap-input.wrong {
     border-color: var(--err-border, #fca5a5);
     background: var(--err-bg, #fef2f2);
     color: var(--err-fg, #b91c1c);
   }
   .cue { font-size: 0.85em; color: var(--text-subtle, #64748b); margin-left: 2px; }
-  .alt-note {
-    font-size: 0.78em;
-    color: var(--warn-fg, #b45309);
-    background: var(--warn-bg, #fffbeb);
-    border: 1px solid var(--warn-border, #fcd34d);
-    border-radius: 4px;
-    padding: 0 4px;
-    margin-left: 4px;
-  }
   .mark { font-size: 0.9em; font-weight: 700; margin-left: 2px; }
   .mark.ok  { color: var(--ok-fg, #15803d); }
+  .mark.alt { color: var(--warn-fg, #b45309); }
   .mark.err { color: var(--err-fg, #b91c1c); }
+
+  /* Accepted alternatives are explained here rather than inline: a sentence
+     with an explanation spliced into the middle of it is unreadable, and the
+     note is about the answer, not about that point in the text. */
+  .alt-notes {
+    list-style: none;
+    margin: 0.9rem 0 0;
+    padding: 0.6rem 0.85rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    line-height: var(--leading-snug, 1.4);
+    font-size: 0.85em;
+    color: var(--text-muted, #475569);
+    background: var(--warn-bg, #fffbeb);
+    border: 1px solid var(--warn-border, #fcd34d);
+    border-left-width: 4px;
+    border-radius: var(--radius-sm, 6px);
+  }
+  .alt-gap {
+    font-weight: 650;
+    color: var(--warn-fg, #b45309);
+    margin-right: 0.25rem;
+  }
+  .alt-word { font-weight: 600; color: var(--text, #0f172a); margin-right: 0.25rem; }
   .expected {
     font-size: 0.82em;
     color: var(--ok-fg, #15803d);

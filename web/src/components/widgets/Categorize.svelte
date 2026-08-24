@@ -155,38 +155,40 @@
 
 <style>
   .categorize { display: flex; flex-direction: column; gap: 1rem; }
-  .hint { margin: 0; font-size: 0.875rem; color: #6b7280; font-style: italic; }
+  .hint { margin: 0; font-size: var(--text-sm, 0.8125rem); color: var(--text-subtle, #64748b); }
   .pool {
     display: flex;
     flex-wrap: wrap;
     gap: 0.4rem;
     padding: 0.5rem 0.6rem;
-    background: #f9fafb;
-    border: 1px dashed #d1d5db;
-    border-radius: 6px;
+    background: var(--surface-2, #f8fafc);
+    border: 1px dashed var(--border-strong, #cbd5e1);
+    border-radius: var(--radius-sm, 6px);
     min-height: 44px;
   }
-  .pool-empty { font-size: 0.875rem; color: #9ca3af; font-style: italic; }
+  .pool-empty { font-size: var(--text-sm, 0.8125rem); color: var(--text-faint, #94a3b8); font-style: italic; }
   .buckets {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
     gap: 0.75rem;
   }
   .bucket {
-    border: 1.5px solid #e5e7eb;
-    border-radius: 8px;
+    border: 1.5px solid var(--border, #e2e8f0);
+    border-radius: var(--radius, 10px);
+    background: var(--surface, #fff);
     overflow: hidden;
     cursor: default;
-    transition: border-color 0.1s;
+    transition: border-color 0.12s, background 0.12s;
   }
-  .bucket.targetable { border-color: #6366f1; cursor: pointer; }
-  .bucket.targetable:hover { background: #f5f3ff; }
+  .bucket.targetable { border-color: var(--brand-400, #5985fc); cursor: pointer; }
+  .bucket.targetable:hover { background: var(--brand-50, #eef4ff); }
   .bucket-label {
-    background: #f3f4f6;
+    background: var(--surface-3, #f1f5f9);
+    color: var(--text, #0f172a);
     padding: 0.35rem 0.6rem;
     font-weight: 700;
-    font-size: 0.875rem;
-    border-bottom: 1px solid #e5e7eb;
+    font-size: var(--text-base, 0.9375rem);
+    border-bottom: 1px solid var(--border, #e2e8f0);
     pointer-events: none;
   }
   .bucket-content {
@@ -201,22 +203,53 @@
     align-items: center;
     gap: 4px;
     padding: 4px 10px;
-    border: 1.5px solid #d1d5db;
-    border-radius: 4px;
-    background: #fff;
+    border: 1.5px solid var(--border-strong, #cbd5e1);
+    border-radius: var(--radius-sm, 6px);
+    background: var(--surface, #fff);
+    color: var(--text, #0f172a);
     cursor: pointer;
     font: inherit;
     font-size: 0.9rem;
-    transition: all 0.1s;
+    transition: border-color 0.12s, background 0.12s, color 0.12s;
   }
-  .token:hover:not(:disabled) { border-color: #6366f1; background: #eef2ff; }
-  .token.selected { border-color: #6366f1; background: #eef2ff; font-weight: 700; }
-  .token.placed { border-color: #93c5fd; background: #eff6ff; }
-  .token.graded-correct { border-color: #16a34a; background: #dcfce7; cursor: default; }
-  .token.graded-wrong   { border-color: #dc2626; background: #fee2e2; cursor: default; }
+  .token:hover:not(:disabled) {
+    border-color: var(--brand-500, #3562f6);
+    background: var(--brand-50, #eef4ff);
+    color: var(--brand-700, #1a34d8);
+  }
+  .token:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px var(--focus-ring, rgba(53, 98, 246, 0.25));
+  }
+  /* Picked up and waiting for a bucket — the one thing waiting on the learner,
+     so it gets the strongest state on screen. */
+  .token.selected,
+  .token.selected:hover:not(:disabled) {
+    border-color: var(--brand-500, #3562f6);
+    background: var(--brand-500, #3562f6);
+    color: var(--text-invert, #fff);
+    font-weight: 650;
+  }
+  .token.placed {
+    border-color: var(--brand-200, #bcd0ff);
+    background: var(--brand-50, #eef4ff);
+    color: var(--brand-800, #1c2eaf);
+  }
+  .token.graded-correct {
+    border-color: var(--ok-border, #86efac);
+    background: var(--ok-bg, #f0fdf4);
+    color: var(--ok-fg, #15803d);
+    cursor: default;
+  }
+  .token.graded-wrong {
+    border-color: var(--err-border, #fca5a5);
+    background: var(--err-bg, #fef2f2);
+    color: var(--err-fg, #b91c1c);
+    cursor: default;
+  }
   .mark { font-size: 0.8em; font-weight: 700; }
-  .mark.ok  { color: #16a34a; }
-  .mark.err { color: #dc2626; }
-  .correction { font-size: 0.8em; color: #16a34a; font-weight: 600; }
-  .tag { font-size: 0.75em; color: #6b7280; }
+  .mark.ok  { color: var(--ok-fg, #15803d); }
+  .mark.err { color: var(--err-fg, #b91c1c); }
+  .correction { font-size: 0.8em; color: var(--ok-fg, #15803d); font-weight: 600; }
+  .tag { font-size: 0.75em; color: var(--text-subtle, #64748b); }
 </style>

@@ -973,7 +973,9 @@ exercises:
       14. „Servus!" sagt man in: a) Norddeutschland b) Bayern und Österreich → {14}
       15. „{15} ihr aus Italien?" (sein)
     answers:
-      "1": "Wie heißen Sie? / Wie ist Ihr Name?"
+      "1":
+        - "Wie heißen Sie?"
+        - "Wie ist Ihr Name?"
       "2": "aus"
       "3": seid
       "4": wo
@@ -1061,7 +1063,9 @@ exercises:
       "7": Woher
       "8": Wo
       "9": Welche
-      "10": "Wie heißen Sie? / Wie ist Ihr Name?"
+      "10":
+        - "Wie heißen Sie?"
+        - "Wie ist Ihr Name?"
       "11": vierzehn
       "12": sechzehn
       "13": "12"

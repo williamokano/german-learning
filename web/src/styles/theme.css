@@ -135,6 +135,9 @@
     --text-muted:  #b2becd;
     --text-subtle: #94a3b8;
     --text-faint:  #6b7a8f;
+    /* Text on a brand fill. On dark the brand ramp is light, so the
+       contrasting colour is dark — the token inverts with the theme. */
+    --text-invert: #0b1120;
 
     --border:        #243044;
     --border-strong: #33425c;
@@ -148,6 +151,10 @@
     --brand-500: #7fa0ff;
     --brand-600: #96b3ff;
     --brand-700: #b3c8ff;
+    /* 800/900 continue the inversion: on dark they are the lightest tints,
+       so text set in them stays legible on a --brand-50 fill. */
+    --brand-800: #cbd9ff;
+    --brand-900: #e2eaff;
 
     --ok-fg:     #6ee7a8;
     --ok-bg:     #06281a;
@@ -192,6 +199,9 @@
   --text-muted:  #b2becd;
   --text-subtle: #94a3b8;
   --text-faint:  #6b7a8f;
+  /* Text on a brand fill. On dark the brand ramp is light, so the
+     contrasting colour is dark — the token inverts with the theme. */
+  --text-invert: #0b1120;
 
   --border:        #243044;
   --border-strong: #33425c;
@@ -205,6 +215,8 @@
   --brand-500: #7fa0ff;
   --brand-600: #96b3ff;
   --brand-700: #b3c8ff;
+  --brand-800: #cbd9ff;
+  --brand-900: #e2eaff;
 
   --ok-fg:     #6ee7a8;
   --ok-bg:     #06281a;

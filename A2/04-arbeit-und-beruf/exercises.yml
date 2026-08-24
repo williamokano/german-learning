@@ -908,7 +908,10 @@ exercises:
       "6": Lehrerin
       "7": Arzt
       "8": "the job interview"
-      "9": "CV / résumé"
+      "9":
+        - "CV"
+        - "résumé"
+        - "resume"
       "10": wollte
       "11": eingereicht
       "12": "bekommen hat"
@@ -1034,7 +1037,9 @@ exercises:
       "12": "komme ich sofort"
       "13": weil
       "14": weil
-      "15": "last / final"
+      "15":
+        - "last"
+        - "final"
       "16": "Er ist müde, weil er viel gearbeitet hat."
       "17": "Ich habe keine Erfahrung. Deshalb lerne ich viel."
       "18": Seid
