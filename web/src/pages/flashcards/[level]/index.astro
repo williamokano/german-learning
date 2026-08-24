@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import AppShell from '../../../layouts/AppShell.astro';
 
 export async function getStaticPaths() {
   const all = await getCollection('vocab');
@@ -19,40 +20,52 @@ const sorted = entries
   .sort((a, b) => a.slug.localeCompare(b.slug));
 ---
 
-<!doctype html>
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>{level} — Karteikarten</title>
-    <style>
-      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1rem; }
-      nav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
-      ul { list-style: none; padding: 0; margin-top: 1.5rem; }
-      li { display: flex; align-items: center; gap: 0.5rem; padding: 0.4rem 0; }
-      li a { display: block; padding: 0.5rem 0.75rem; border-radius: 6px; color: #1a1a1a; text-decoration: none; }
-      li a:hover { background: #eff6ff; }
-
-      .lesson-name { flex: 1; }
-      .btn-deck { flex-shrink: 0; padding: 0.25rem 0.6rem; border: 1.5px solid #2563eb; border-radius: 6px; color: #2563eb; text-decoration: none; font-size: 0.8rem; white-space: nowrap; }
-      .btn-deck:hover { background: #eff6ff; }
-      .btn-deck-cumulative { border-color: #6b7280; color: #6b7280; }
-      .btn-deck-cumulative:hover { background: #f3f4f6; }
-    </style>
-  </head>
-  <body>
-    <nav><a href={`${base}/flashcards/`}>← Level wählen</a></nav>
+<AppShell title={`${level.toUpperCase()} — Karteikarten`} navKey="flashcards" variant="app" crumbs={[{ label: 'Karteikarten', href: `${base}/flashcards/` }, { label: level.toUpperCase() }]}>
+  <header class="page-head">
     <h1>{level.toUpperCase()} — Karteikarten</h1>
-    <ul>
-      {sorted.map(({ slug }) => (
-        <li>
-          <a class="lesson-name" href={`${base}/flashcards/${level}/${slug}/`}>
-            {(([num, ...rest]) => `${num} — ${rest.join('-').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}`)(slug.split('-'))}
-          </a>
-          <a class="btn-deck" href={`${base}/flashcards/${level}/${slug}/`}>Nur diese Lektion</a>
-          <a class="btn-deck btn-deck-cumulative" href={`${base}/flashcards/${level}/${slug}/?mode=cumulative`}>+ Wiederholung</a>
-        </li>
-      ))}
-    </ul>
-  </body>
-</html>
+    <p class="lead">
+      „Nur diese Lektion" übt den neuen Wortschatz. „+ Wiederholung" mischt
+      frühere Lektionen mit dazu.
+    </p>
+  </header>
+
+  <ul class="deck-list">
+    {sorted.map(({ slug }) => (
+      <li class="deck-row card">
+        <a class="deck-name" href={`${base}/flashcards/${level}/${slug}/`}>
+          {(([num, ...rest]) => `${num} — ${rest.join('-').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}`)(slug.split('-'))}
+        </a>
+        <span class="deck-actions">
+          <a class="btn btn-ghost btn-sm" href={`${base}/flashcards/${level}/${slug}/`}>Nur diese Lektion</a>
+          <a class="btn btn-secondary btn-sm" href={`${base}/flashcards/${level}/${slug}/?mode=cumulative`}>+ Wiederholung</a>
+        </span>
+      </li>
+    ))}
+  </ul>
+</AppShell>
+
+<style>
+  .deck-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+  .deck-row {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-3) var(--space-4);
+    transition: border-color var(--transition), box-shadow var(--transition);
+  }
+  .deck-row:hover { border-color: var(--brand-300); box-shadow: var(--shadow-sm); }
+  .deck-name { flex: 1; min-width: 0; color: inherit; font-weight: 600; }
+  .deck-name:hover { text-decoration: none; color: var(--brand-600); }
+  .deck-actions { display: flex; gap: var(--space-2); flex-shrink: 0; }
+
+  @media (max-width: 700px) {
+    .deck-row { flex-wrap: wrap; }
+  }
+</style>

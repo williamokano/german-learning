@@ -1,65 +1,171 @@
 ---
 import { getCollection } from 'astro:content';
+import AppShell from '../../layouts/AppShell.astro';
 
 export async function getStaticPaths() {
   const all = await getCollection('lessons');
   const vocab = await getCollection('vocab');
+  const exercises = await getCollection('exercises');
   const levels = [...new Set(all.map(e => e.id.split('/')[0]))];
   return levels.map(level => ({
     params: { level },
-    props:  {
+    props: {
       lessons: all.filter(e => e.id.startsWith(level + '/')),
       // entry.id is "<level>/<slug>/vocab" — keep only the level/slug prefix so it
       // matches the level/slug pairs this page renders links for.
       vocabIds: new Set(vocab.map(e => e.id.split('/').slice(0, 2).join('/'))),
+      exerciseIds: new Set(exercises.map(e => e.id.split('/').slice(0, 2).join('/'))),
     },
   }));
 }
 
-const { level }   = Astro.params;
-const { lessons, vocabIds } = Astro.props;
+const { level } = Astro.params;
+const { lessons, vocabIds, exerciseIds } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
+const LEVEL_BLURB: Record<string, string> = {
+  a1: 'Erste Kontakte, Familie, Alltag — der Einstieg ins Deutsche.',
+  a2: 'Erzählen, vergleichen und begründen im Alltag.',
+  b1: 'Passiv, Konjunktiv II und Relativsätze — die Mittelstufe.',
+  b2: 'Nominalstil, indirekte Rede und Argumentation.',
+  c1: 'Register, Idiomatik und Wissenschaftssprache.',
+};
+
 const sorted = lessons
-  .map(e => ({ entry: e, slug: e.id.split('/')[1] }))
+  .map(e => {
+    const slug = e.id.split('/')[1];
+    return {
+      slug,
+      number: e.data.number,
+      title:
+        e.data.title ??
+        slug.replace(/^\d+-/, '').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
+      titleEn: e.data.titleEn,
+      hasVocab: vocabIds.has(`${level}/${slug}`),
+      hasExercises: exerciseIds.has(`${level}/${slug}`),
+    };
+  })
   .sort((a, b) => a.slug.localeCompare(b.slug));
 ---
 
-<!doctype html>
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>{level} — Deutsch lernen</title>
-    <style>
-      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1rem; }
-      nav a { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
-      ul { list-style: none; padding: 0; margin-top: 1.5rem; }
-      li { display: flex; align-items: center; }
-      li a { display: block; padding: 0.5rem 0.75rem; border-radius: 6px; color: #1a1a1a; text-decoration: none; }
-      li a:hover { background: #eff6ff; }
+<AppShell
+  title={`${level.toUpperCase()} — Deutsch lernen`}
+  navKey={level}
+  variant="app"
+  crumbs={[{ label: level.toUpperCase() }]}
+>
+  <header class="level-head" data-level={level}>
+    <span class="level-chip">{level.toUpperCase()}</span>
+    <div>
+      <h1>Niveau {level.toUpperCase()}</h1>
+      <p>{LEVEL_BLURB[level] ?? ''}</p>
+      <p class="level-count">{sorted.length} Lektionen</p>
+    </div>
+  </header>
 
-      .btn-uebungen { margin-left: auto; flex-shrink: 0; padding: 0.25rem 0.6rem; border: 1.5px solid #2563eb; border-radius: 6px; color: #2563eb; text-decoration: none; font-size: 0.8rem; white-space: nowrap; }
-      .btn-uebungen:hover { background: #eff6ff; }
-      .btn-flashcards { flex-shrink: 0; padding: 0.25rem 0.6rem; border: 1.5px solid #6b7280; border-radius: 6px; color: #6b7280; text-decoration: none; font-size: 0.8rem; white-space: nowrap; }
-      .btn-flashcards:hover { background: #f3f4f6; }
-    </style>
-  </head>
-  <body>
-    <nav><a href={`${base}/`}>← Startseite</a></nav>
-    <h1>{level.toUpperCase()}</h1>
-    <ul>
-      {sorted.map(({ slug }) => (
-        <li>
-          <a href={`${base}/${level}/${slug}/`}>
-            {(([num, ...rest]) => `${num} — ${rest.join('-').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())}`)(slug.split('-'))}
-          </a>
-          {vocabIds.has(`${level}/${slug}`) && (
-            <a class="btn-flashcards" href={`${base}/flashcards/${level}/${slug}/`}>Karteikarten</a>
+  <ol class="lesson-list" data-level={level}>
+    {sorted.map(l => (
+      <li class="lesson-row card">
+        <a class="lesson-link" href={`${base}/${level}/${l.slug}/`}>
+          <span class="lesson-num">{String(l.number ?? '').padStart(2, '0')}</span>
+          <span class="lesson-text">
+            <span class="lesson-title">{l.title}</span>
+            {l.titleEn && <span class="lesson-title-en">{l.titleEn}</span>}
+          </span>
+        </a>
+        <span class="lesson-actions">
+          {l.hasVocab && (
+            <a class="btn btn-ghost btn-sm" href={`${base}/flashcards/${level}/${l.slug}/`}>
+              Karteikarten
+            </a>
           )}
-          <a class="btn-uebungen" href={`${base}/${level}/${slug}/uebungen/`}>Übungen →</a>
-        </li>
-      ))}
-    </ul>
-  </body>
-</html>
+          {l.hasExercises && (
+            <a class="btn btn-secondary btn-sm" href={`${base}/${level}/${l.slug}/uebungen/`}>
+              Übungen →
+            </a>
+          )}
+        </span>
+      </li>
+    ))}
+  </ol>
+</AppShell>
+
+<style>
+  .level-head {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-5);
+    margin-bottom: var(--space-6);
+  }
+  .level-chip {
+    display: grid;
+    place-items: center;
+    width: 3.5rem; height: 3.5rem;
+    flex-shrink: 0;
+    border-radius: var(--radius-lg);
+    background: var(--level-color, var(--brand-600));
+    color: #fff;
+    font-weight: 800;
+    font-size: var(--text-xl);
+  }
+  .level-head h1 { margin: 0 0 var(--space-2); font-size: var(--text-2xl); letter-spacing: -0.02em; }
+  .level-head p { margin: 0; color: var(--text-muted); }
+  .level-count {
+    margin-top: var(--space-2) !important;
+    font-size: var(--text-sm);
+    color: var(--text-faint);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .lesson-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+  .lesson-row {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-2) var(--space-4) var(--space-2) 0;
+    transition: border-color var(--transition), box-shadow var(--transition);
+  }
+  .lesson-row:hover {
+    border-color: var(--level-color, var(--brand-400));
+    box-shadow: var(--shadow-sm);
+  }
+  .lesson-link {
+    display: flex;
+    align-items: center;
+    gap: var(--space-4);
+    flex: 1;
+    min-width: 0;
+    padding: var(--space-3) 0 var(--space-3) var(--space-4);
+    color: inherit;
+  }
+  .lesson-link:hover { text-decoration: none; }
+  .lesson-num {
+    font-variant-numeric: tabular-nums;
+    font-weight: 750;
+    font-size: var(--text-base);
+    color: var(--level-color, var(--brand-600));
+    flex-shrink: 0;
+    min-width: 1.75rem;
+  }
+  .lesson-text { display: flex; flex-direction: column; min-width: 0; }
+  .lesson-title { font-weight: 600; }
+  .lesson-title-en { font-size: var(--text-sm); color: var(--text-faint); }
+  .lesson-actions {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 700px) {
+    .lesson-row { flex-wrap: wrap; padding-bottom: var(--space-3); }
+    .lesson-actions { padding-left: var(--space-4); }
+  }
+</style>

@@ -373,6 +373,71 @@ code {
 [data-level="c1"], [data-level="C1"] { --level-color: var(--level-c1); }
 [data-level="extra"], [data-level="EXTRA"] { --level-color: var(--level-extra); }
 
+/* ============================================================================
+   Shared page patterns — used by the simpler index/runner pages so they don't
+   each re-declare a header and a link list.
+   ========================================================================= */
+
+.page-head { margin-bottom: var(--space-6); max-width: 64ch; }
+.page-head h1 {
+  margin: 0 0 var(--space-3);
+  font-size: var(--text-3xl);
+  letter-spacing: -0.02em;
+}
+.page-head .lead { margin: 0; color: var(--text-muted); }
+.page-head .badge + h1 { margin-top: var(--space-3); }
+
+/* Vertical list of navigable cards (levels, skills, tracks, decks). */
+.link-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+  gap: var(--space-3);
+}
+.link-list > li { display: flex; }
+.link-list a {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  width: 100%;
+  padding: var(--space-4) var(--space-5);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-xs);
+  color: var(--text);
+  font-weight: 550;
+  transition: transform var(--transition), box-shadow var(--transition),
+              border-color var(--transition);
+}
+.link-list a:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow);
+  border-color: var(--brand-300);
+  text-decoration: none;
+}
+.link-list .count {
+  margin-left: auto;
+  padding-left: var(--space-2);
+  font-size: var(--text-sm);
+  color: var(--text-faint);
+  font-variant-numeric: tabular-nums;
+  font-weight: 500;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+/* Disabled entry: nothing to practise yet. */
+.link-list > li.empty a,
+.link-list > li.empty a:hover {
+  opacity: 0.55;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: var(--shadow-xs);
+  border-color: var(--border);
+}
+
 /* Utility */
 .visually-hidden {
   position: absolute;

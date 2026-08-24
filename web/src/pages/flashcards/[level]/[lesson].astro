@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import { unlockedVocab } from '@core/content/vocab';
 import FlashcardDeck from '../../../components/FlashcardDeck.svelte';
+import AppShell from '../../../layouts/AppShell.astro';
 
 export async function getStaticPaths() {
   const all = await getCollection('vocab');
@@ -22,30 +23,18 @@ const cumulativeEntries = unlockedVocab(all.map(e => e.data), data.lesson);
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
-<!doctype html>
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>{data.lesson} — Karteikarten</title>
-    <style>
-      body { font-family: system-ui, sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1rem; }
-      nav { display: flex; gap: 0.75rem; font-size: 0.875rem; }
-      nav a { color: #2563eb; text-decoration: none; }
-      h1 { font-size: 1.5rem; }
-    </style>
-  </head>
-  <body>
-    <nav>
-      <a href={`${base}/flashcards/${level}/`}>← Lektion wählen</a>
-      <a href={`${base}/${level}/${lesson}/`}>Zur Lektion</a>
-    </nav>
+<AppShell title={`${data.lesson} — Karteikarten`} navKey="flashcards" variant="app" crumbs={[{ label: 'Karteikarten', href: `${base}/flashcards/` }, { label: level.toUpperCase(), href: `${base}/flashcards/${level}/` }, { label: data.lesson }]}>
+  <header class="page-head">
     <h1>{data.lesson} — Karteikarten</h1>
-    <FlashcardDeck
-      lessonEntries={data.entries}
-      cumulativeEntries={cumulativeEntries}
-      deckLessonId={data.lesson}
-      client:load
-    />
-  </body>
-</html>
+    <p class="lead">
+      <a href={`${base}/${level}/${lesson}/`}>Zur Lektion →</a>
+    </p>
+  </header>
+
+  <FlashcardDeck
+    lessonEntries={data.entries}
+    cumulativeEntries={cumulativeEntries}
+    deckLessonId={data.lesson}
+    client:load
+  />
+</AppShell>

@@ -1,7 +1,9 @@
 ---
 import { getCollection, render } from 'astro:content';
 import { coreDedupKeysUpTo } from '@core/content/vocab';
-import LessonLayout from '../../../layouts/LessonLayout.astro';
+import AppShell from '../../../layouts/AppShell.astro';
+import WortschatzCounter from '../../../components/WortschatzCounter.svelte';
+import '../../../styles/prose.css';
 
 export async function getStaticPaths() {
   const [allLessons, allShort, allExercises, allVocab] = await Promise.all([
@@ -40,53 +42,239 @@ const title =
   entry.data.title ??
   lesson.replace(/^\d+-/, '').replace(/-/g, ' ')
         .replace(/\b\w/g, c => c.toUpperCase());
+const titleEn = entry.data.titleEn;
+const lessonNumber = entry.data.number;
 
-const { Content } = await render(entry);
+const { Content, headings } = await render(entry);
 const { Content: ShortContent } = shortEntry
   ? await render(shortEntry)
   : { Content: null };
 
+// Only h2s make a useful table of contents; h3s would make it noisy.
+const toc = headings.filter(h => h.depth === 2);
+
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
-<LessonLayout
-  {title}
-  {level}
-  {hasShort}
-  {wortschatzDedupKeys}
-  shortTitle={`${title} — Kurzfassung`}
+<AppShell
+  title={`${title} · ${level.toUpperCase()}`}
+  navKey={level}
+  variant="app"
+  crumbs={[
+    { label: level.toUpperCase(), href: `${base}/${level}/` },
+    { label: title },
+  ]}
 >
-  <section data-view="full">
-    <Content />
-  </section>
+  <div slot="topbar-extra">
+    <WortschatzCounter dedupKeys={wortschatzDedupKeys} client:load />
+  </div>
 
-  {hasShort && ShortContent && (
-    <section data-view="short" hidden>
-      <ShortContent />
-    </section>
-  )}
+  <div class="lesson-layout" data-has-short={hasShort ? 'true' : 'false'}>
+    <article class="lesson-main">
+      <header class="lesson-head" data-level={level}>
+        <div class="lesson-head-top">
+          <span class="badge badge-level">{level.toUpperCase()}</span>
+          {lessonNumber != null && (
+            <span class="badge badge-soft">Lektion {String(lessonNumber).padStart(2, '0')}</span>
+          )}
+        </div>
+        <h1>{title}</h1>
+        {titleEn && <p class="lesson-title-en">{titleEn}</p>}
+        <div class="lesson-actions">
+          {hasExercises && (
+            <a class="btn btn-primary btn-sm" href={`${base}/${level}/${lesson}/uebungen/`}>
+              Zu den Übungen
+              <svg viewBox="0 0 24 24" aria-hidden="true" class="btn-i"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+            </a>
+          )}
+          {hasShort && (
+            <div class="view-toggle" role="group" aria-label="Lektionsansicht wechseln">
+              <button type="button" data-view-btn="full" aria-pressed="true">Ausführlich</button>
+              <button type="button" data-view-btn="short" aria-pressed="false">Kurzfassung</button>
+            </div>
+          )}
+        </div>
+      </header>
 
-  {hasExercises && (
-    <nav class="exercises-cta">
-      <a href={`${base}/${level}/${lesson}/uebungen/`} class="btn-uebungen">
-        Übungen →
-      </a>
-    </nav>
+      <section class="prose" data-view="full">
+        <Content />
+      </section>
+
+      {hasShort && ShortContent && (
+        <section class="prose" data-view="short" hidden>
+          <ShortContent />
+        </section>
+      )}
+
+      {hasExercises && (
+        <nav class="lesson-foot">
+          <a class="btn btn-primary" href={`${base}/${level}/${lesson}/uebungen/`}>
+            Zu den Übungen
+            <svg viewBox="0 0 24 24" aria-hidden="true" class="btn-i"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          </a>
+        </nav>
+      )}
+    </article>
+
+    {toc.length > 0 && (
+      <aside class="lesson-toc">
+        <h2 class="toc-title">Auf dieser Seite</h2>
+        <nav>
+          <ul>
+            {toc.map(h => (
+              <li><a href={`#${h.slug}`}>{h.text}</a></li>
+            ))}
+          </ul>
+        </nav>
+      </aside>
+    )}
+  </div>
+
+  {hasShort && (
+    <script is:inline>
+      (function () {
+        var STORAGE_KEY = 'germanLessonView';
+        var fullSection = document.querySelector('section[data-view="full"]');
+        var shortSection = document.querySelector('section[data-view="short"]');
+        var fullBtn = document.querySelector('[data-view-btn="full"]');
+        var shortBtn = document.querySelector('[data-view-btn="short"]');
+        if (!fullSection || !shortSection || !fullBtn || !shortBtn) return;
+
+        function readView() {
+          var fromUrl = null;
+          try {
+            var params = new URLSearchParams(window.location.search);
+            var v = params.get('view');
+            if (v === 'full' || v === 'short') fromUrl = v;
+          } catch (e) {}
+          var fromStorage = null;
+          try { fromStorage = localStorage.getItem(STORAGE_KEY); } catch (e) {}
+          return fromUrl || fromStorage || 'full';
+        }
+
+        function applyView(view) {
+          var isFull = view !== 'short';
+          fullSection.hidden = !isFull;
+          shortSection.hidden = isFull;
+          fullBtn.setAttribute('aria-pressed', isFull ? 'true' : 'false');
+          shortBtn.setAttribute('aria-pressed', isFull ? 'false' : 'true');
+        }
+
+        function persistView(view) {
+          try { localStorage.setItem(STORAGE_KEY, view); } catch (e) {}
+        }
+
+        applyView(readView());
+        fullBtn.addEventListener('click', function () { applyView('full'); persistView('full'); });
+        shortBtn.addEventListener('click', function () { applyView('short'); persistView('short'); });
+      })();
+    </script>
   )}
-</LessonLayout>
+</AppShell>
 
 <style>
-  .exercises-cta { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid #e5e7eb; }
-  .btn-uebungen {
-    display: inline-block;
-    padding: 0.55rem 1.4rem;
-    background: #2563eb;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 8px;
-    font-weight: 600;
-    font-size: 0.95rem;
-    transition: background 0.12s;
+  .lesson-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 15rem;
+    gap: var(--space-7);
+    align-items: start;
   }
-  .btn-uebungen:hover { background: #1d4ed8; }
+  /* Reading measure stays comfortable even though the shell is full-width. */
+  .lesson-main { min-width: 0; max-width: 46rem; }
+
+  .lesson-head {
+    padding-bottom: var(--space-4);
+    margin-bottom: var(--space-5);
+    border-bottom: 1px solid var(--border);
+  }
+  .lesson-head-top {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-bottom: var(--space-3);
+  }
+  .lesson-head h1 { margin: 0; font-size: var(--text-3xl); letter-spacing: -0.025em; }
+  .lesson-title-en { margin: var(--space-1) 0 0; color: var(--text-subtle); font-size: var(--text-lg); }
+  .lesson-actions {
+    margin-top: var(--space-4);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-3);
+  }
+  .btn-i {
+    width: 1rem; height: 1rem;
+    fill: none; stroke: currentColor;
+    stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;
+  }
+
+  /* The markdown repeats the title as its own h1 ("A1 · Lektion 1 — …").
+     The page header above already carries it, with the English gloss from
+     frontmatter, so the duplicate is suppressed. */
+  .lesson-main :global(.prose > h1:first-of-type) { display: none; }
+
+  .view-toggle {
+    display: inline-flex;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-pill);
+    padding: 2px;
+    background: var(--surface-2);
+  }
+  .view-toggle button {
+    border: none;
+    background: transparent;
+    padding: 0.3rem 0.85rem;
+    border-radius: var(--radius-pill);
+    cursor: pointer;
+    color: var(--text-muted);
+    font: inherit;
+    font-weight: 550;
+    font-size: var(--text-sm);
+    transition: background var(--transition), color var(--transition);
+  }
+  .view-toggle button[aria-pressed="true"] {
+    background: var(--surface);
+    color: var(--text);
+    box-shadow: var(--shadow-xs);
+  }
+  .view-toggle button:hover:not([aria-pressed="true"]) { color: var(--text); }
+
+  .lesson-foot {
+    margin-top: var(--space-7);
+    padding-top: var(--space-5);
+    border-top: 1px solid var(--border);
+  }
+
+  .lesson-toc {
+    position: sticky;
+    top: calc(var(--topbar-h) + var(--space-6));
+    font-size: var(--text-base);
+  }
+  .toc-title {
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+  }
+  .lesson-toc ul { list-style: none; margin: 0; padding: 0; }
+  .lesson-toc a {
+    display: block;
+    padding: 0.35rem var(--space-3);
+    border-left: 2px solid var(--border);
+    color: var(--text-muted);
+    line-height: 1.45;
+  }
+  .lesson-toc a:hover {
+    border-left-color: var(--brand-500);
+    color: var(--brand-600);
+    background: var(--surface-hover);
+    text-decoration: none;
+  }
+
+  @media (max-width: 1100px) {
+    .lesson-layout { grid-template-columns: minmax(0, 1fr); }
+    .lesson-toc { display: none; }
+  }
 </style>
