@@ -51,6 +51,15 @@ const BOLD_HEADING = /^\*\*.+\*\*[.!?]?$/;
 /** Bulleted item: "- …", "• …". A bullet never starts a wrapped sentence. */
 const BULLET_ITEM = /^[-–—*•]\s+\S/;
 
+/**
+ * Show a bullet as a bullet. The source marker is markdown ("- Kaffee 2,80 €")
+ * and would otherwise reach the screen as a literal hyphen, since a passage
+ * renders as lines of text rather than as a list.
+ */
+function normaliseBullet(line: string): string {
+  return BULLET_ITEM.test(line) ? line.replace(/^[-–—*•]\s+/, '• ') : line;
+}
+
 /** Numbered item: "1. …", "2) …" — ambiguous with a wrapped "5. September". */
 const NUMBERED_ITEM = /^\d+[.)]\s+\S/;
 
@@ -265,7 +274,7 @@ function buildParagraphs(lines: string[]): PassageParagraph[] {
     const deliberate = prev !== undefined && isDeliberateBreak(prev.lastLen, wrapWidth);
     if (prev === undefined || structured || prev.heading || deliberate) {
       current.push({
-        text: line,
+        text: normaliseBullet(line),
         structured,
         heading: BOLD_HEADING.test(line) || ASIDE_LINE.test(line),
         lastLen: line.length,

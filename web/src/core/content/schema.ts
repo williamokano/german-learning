@@ -215,6 +215,9 @@ export const ExerciseSet = z.object({
   topic: z.string().optional(),
   level: z.enum(['A1', 'A2', 'B1', 'B2', 'C1']).optional(),
   category: z.string().optional(),
+  // One line of what this set gets you through, for the /situationen/ card.
+  // `title` there is only "<topic> — <level>", which the card already shows.
+  summary: z.string().optional(),
   partial: z.boolean().default(false), // true = fixture only; gen-exercises skips writing md files
   exam: ExamGrid.nullable().default(null),
   exercises: z.array(Exercise),

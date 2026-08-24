@@ -11,12 +11,6 @@ export default defineConfig({
   site: 'https://williamokano.github.io',
   base: '/german-learning',
   output: 'static',
-  // /extra/ was the grammar-drill index before it was renamed to /themen/.
-  // Static builds emit a meta-refresh page for these, so old links and
-  // bookmarks keep working instead of 404ing on Pages.
-  redirects: {
-    '/extra': '/themen',
-  },
   integrations: [mdx(), svelte()],
   markdown: {
     // Apply to ALL markdown (both .md lesson files and .mdx if any).

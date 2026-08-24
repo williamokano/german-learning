@@ -25,7 +25,7 @@ const CATEGORY_ORDER = [
   'Wenn etwas schiefgeht',
 ];
 
-interface Item { id: string; level: string; title: string; topic: string }
+interface Item { id: string; level: string; summary: string; topic: string }
 
 const byCategory = new Map<string, Item[]>();
 for (const entry of sets) {
@@ -38,7 +38,7 @@ for (const entry of sets) {
   list.push({
     id: `${level}/${lesson}`,
     level: entry.data.level ?? '',
-    title: entry.data.title,
+    summary: entry.data.summary ?? '',
     topic: entry.data.topic ?? entry.data.title,
   });
   byCategory.set(category, list);
@@ -88,7 +88,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
             <a class="situation-card card" href={`${base}/${i.id}/uebungen/`} data-level={(i.level || '').toLowerCase()}>
               <span class="badge badge-level">{i.level}</span>
               <span class="situation-title">{i.topic}</span>
-              <span class="situation-sub">{i.title}</span>
+              {i.summary && <span class="situation-sub">{i.summary}</span>}
             </a>
           </li>
         ))}

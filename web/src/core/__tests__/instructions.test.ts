@@ -149,7 +149,14 @@ describe('parseInstructions — structured lines keep their own line', () => {
   it('keeps numbered and bulleted items on their own lines', () => {
     const raw = ['> 1. Erste Zeile', '> 2. Zweite Zeile', '> - Ein Punkt'].join('\n');
     const [passage] = parseInstructions(raw);
-    expect(lines(passage)).toEqual(['1. Erste Zeile', '2. Zweite Zeile', '- Ein Punkt']);
+    expect(lines(passage)).toEqual(['1. Erste Zeile', '2. Zweite Zeile', '• Ein Punkt']);
+  });
+
+  it('renders a markdown bullet as a bullet, not a literal hyphen', () => {
+    // Real shape from SITUATIONEN/01-im-cafe-a1 B4 (the Speisekarte).
+    const raw = ['> - Kaffee 2,80 €', '> - Cappuccino 3,60 €'].join('\n');
+    const [passage] = parseInstructions(raw);
+    expect(lines(passage)).toEqual(['• Kaffee 2,80 €', '• Cappuccino 3,60 €']);
   });
 });
 

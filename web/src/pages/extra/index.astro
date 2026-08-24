@@ -1,0 +1,22 @@
+---
+// /extra/ was the grammar-drill index before it was renamed to /themen/.
+// Old links and bookmarks land here and are forwarded.
+//
+// Written as a page rather than an `astro.config` redirect because that config
+// emits the target verbatim — it does not prepend `base`, so on GitHub Pages
+// the redirect would point at /themen instead of /german-learning/themen.
+const target = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/themen/`;
+---
+
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <title>Weiterleitung zu den Grammatikthemen</title>
+    <meta http-equiv="refresh" content={`0;url=${target}`} />
+    <meta name="robots" content="noindex" />
+    <link rel="canonical" href={target} />
+  </head>
+  <body>
+    <p>Diese Seite heißt jetzt <a href={target}>Grammatikthemen</a>.</p>
+  </body>
+</html>
