@@ -1,6 +1,7 @@
 <script lang="ts">
   import type { ItemResult } from '@core/content/types';
   import type { ExerciseUnion } from '@core/content/types';
+  import InstructionBlocks from './InstructionBlocks.svelte';
   import GapText from './widgets/GapText.svelte';
   import TableFill from './widgets/TableFill.svelte';
   import GapBank from './widgets/GapBank.svelte';
@@ -43,17 +44,26 @@
 <section class="exercise-shell">
   <h2 class="exercise-title">Übung {exercise.id} — {exercise.title}</h2>
   {#if exercise.instructions}
-    <p class="exercise-instructions">
-      {exercise.instructions}
+    <div class="exercise-instructions">
+      <InstructionBlocks source={exercise.instructions} />
       {#if exercise.instructionsEn}
-        <span class="exercise-instructions-en">{exercise.instructionsEn}</span>
+        <div class="exercise-instructions-en">
+          <InstructionBlocks source={exercise.instructionsEn} />
+        </div>
       {/if}
-    </p>
+    </div>
   {/if}
   {#if exercise.audio}
     <div class="exercise-audio">
       <audio-play data-src="{audioDir}{exercise.audio}" data-enable-replay="1" data-replay-limit="2"></audio-play>
     </div>
+  {/if}
+
+  {#if exercise.transcript}
+    <details class="transcript">
+      <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
+      <blockquote class="transcript-body">{exercise.transcript}</blockquote>
+    </details>
   {/if}
 
   {#if exercise.type === 'gap-text'}
@@ -110,4 +120,26 @@
     margin-top: 0.2rem;
   }
   .exercise-audio { margin-bottom: 0.75rem; }
+
+  /* The instructions tell the learner to listen before reading this, so it
+     stays collapsed by default — mirroring the generated markdown. */
+  .transcript {
+    margin: 0 0 0.9rem;
+    font-size: 0.925rem;
+  }
+  .transcript summary {
+    cursor: pointer;
+    color: var(--text-muted, #475569);
+    padding: 0.25rem 0;
+  }
+  .transcript-body {
+    margin: 0.5rem 0 0;
+    padding: 0.7rem 1rem;
+    border-left: 4px solid var(--border-strong, #cbd5e1);
+    background: var(--surface-2, #f8fafc);
+    color: var(--text, #0f172a);
+    border-radius: 0 var(--radius, 10px) var(--radius, 10px) 0;
+    white-space: pre-wrap;
+    line-height: 1.7;
+  }
 </style>
