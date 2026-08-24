@@ -19,7 +19,7 @@ exercises:
     title: "Die Personalpronomen-Tabelle"
     instructions: "Ergänze die Tabelle. Nominativ ist vorgegeben."
     instructionsEn: "Complete the table. Nominativ is given."
-    columns: ["", "Akkusativ", "Dativ"]
+    columns: ["Nominativ", "Akkusativ", "Dativ"]
     rows:
       - label: "ich"
         cells:

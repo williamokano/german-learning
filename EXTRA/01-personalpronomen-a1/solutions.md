@@ -6,7 +6,7 @@
 
 ## Übung A1 — Die Personalpronomen-Tabelle
 
-|  | Akkusativ | Dativ |
+| Nominativ | Akkusativ | Dativ |
 |---|---|---|
 | ich | **mich** | **mir** |
 | du | **dich** | **dir** |

@@ -56,6 +56,20 @@
     const first = Array.isArray(answer) ? answer[0] : answer;
     return Math.max(6, (first?.length ?? 6) + 2);
   }
+
+  // `columns` sometimes captions the row-label column itself as its first
+  // entry — either blank ("") or a real label like "Nominativ" — mirroring
+  // how a markdown table header reads: | | col1 | col2 | or | Nominativ |
+  // col1 | col2 |. Detect that structurally (one more column than each row
+  // has cells) rather than only for "", so a named caption renders too;
+  // otherwise every column is real data and lines up with its own cell.
+  const hasRowLabelCaption = $derived(
+    exercise.columns.length === (exercise.rows[0]?.cells.length ?? 0) + 1,
+  );
+  let rowLabelCaption = $derived(hasRowLabelCaption ? exercise.columns[0] : '');
+  let displayColumns = $derived(
+    hasRowLabelCaption ? exercise.columns.slice(1) : exercise.columns,
+  );
 </script>
 
 <div class="table-fill">
@@ -63,8 +77,8 @@
     <table>
       <thead>
         <tr>
-          <th class="row-label-head"></th>
-          {#each exercise.columns as col}<th>{col}</th>{/each}
+          <th class="row-label-head">{rowLabelCaption}</th>
+          {#each displayColumns as col}<th>{col}</th>{/each}
         </tr>
       </thead>
       <tbody>

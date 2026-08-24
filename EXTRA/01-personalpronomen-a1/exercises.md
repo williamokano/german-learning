@@ -10,7 +10,7 @@ Standalone drill set, not tied to any lesson. Blocks: A Basistraining (one case 
 
 Ergänze die Tabelle. Nominativ ist vorgegeben.
 
-|  | Akkusativ | Dativ |
+| Nominativ | Akkusativ | Dativ |
 |---|---|---|
 | ich | ______ | ______ |
 | du | ______ | ______ |
