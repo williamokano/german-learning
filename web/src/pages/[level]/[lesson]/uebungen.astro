@@ -30,7 +30,13 @@ const data = entry.data;
 const audioDir = `audio/${level.toUpperCase()}/${lesson}/`;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
-const isExtra = level === 'extra';
+// Standalone sets (THEMEN/, SITUATIONEN/) have no lesson page above them, so
+// their breadcrumb goes straight back to their own index instead of a level.
+const STANDALONE: Record<string, { label: string; href: string }> = {
+  themen:      { label: 'Grammatikthemen',    href: 'themen' },
+  situationen: { label: 'Alltagssituationen', href: 'situationen' },
+};
+const standalone = STANDALONE[level];
 const displayLevel = (data.level ?? level).toUpperCase();
 
 const BLOCK_NAMES: Record<string, string> = {
@@ -49,8 +55,8 @@ const blocks = ['H', 'A', 'B', 'C', 'D', 'exam']
   }))
   .filter(b => b.count > 0);
 
-const crumbs = isExtra
-  ? [{ label: 'Zusatzübungen', href: `${base}/extra/` }, { label: data.title }]
+const crumbs = standalone
+  ? [{ label: standalone.label, href: `${base}/${standalone.href}/` }, { label: data.title }]
   : [
       { label: displayLevel, href: `${base}/${level}/` },
       { label: data.title, href: `${base}/${level}/${lesson}/` },
@@ -60,7 +66,7 @@ const crumbs = isExtra
 
 <AppShell
   title={`${data.title} · Übungen`}
-  navKey={isExtra ? 'extra' : level}
+  navKey={level}
   variant="app"
   crumbs={crumbs}
 >
@@ -77,7 +83,7 @@ const crumbs = isExtra
         </div>
         <h1>{data.title}</h1>
         {data.intro && <p class="ex-intro">{data.intro}</p>}
-        {!isExtra && (
+        {!standalone && (
           <a class="ex-back" href={`${base}/${level}/${lesson}/`}>← Zur Lektion</a>
         )}
       </header>

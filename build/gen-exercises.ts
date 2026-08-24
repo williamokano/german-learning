@@ -83,7 +83,7 @@ function main() {
 
 function findAllLessonDirs(): string[] {
   const dirs: string[] = [];
-  const levels = ['A1', 'A2', 'B1', 'B2', 'C1', 'EXTRA'];
+  const levels = ['A1', 'A2', 'B1', 'B2', 'C1', 'THEMEN', 'SITUATIONEN'];
   for (const level of levels) {
     const levelDir = join(REPO_ROOT, level);
     if (!existsSync(levelDir)) continue;

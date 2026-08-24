@@ -1,0 +1,471 @@
+lesson: "SIT/03-beim-finanzamt-b1"
+title: "Beim Finanzamt — B1"
+topic: "Beim Finanzamt"
+category: "Behörden & Formelles"
+level: B1
+summary: "Einen Bescheid lesen, am Telefon nachfragen, Einspruch einlegen und eine Ratenzahlung beantragen."
+intro: >
+  Steuererklärung, Steuer-ID, Bescheid, Einspruch: das Vokabular, an dem
+  auch Leute scheitern, die sonst gut Deutsch sprechen. Du übst das
+  Behördendeutsch zu verstehen (Nominalstil, Passiv, Fristen) und selbst
+  in normalen Sätzen zu antworten — am Telefon, am Schalter und
+  schriftlich. Block C ist der Ernstfall: der Bescheid ist falsch, die
+  Frist läuft ab, Unterlagen fehlen. Blocks: A Wortschatz & Redemittel →
+  B Dialoge → C Wenn es schiefgeht → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: matching
+    title: "Behördenwort und Erklärung"
+    instructions: "Ordne jeden Begriff (1–10) seiner Erklärung (a–j) zu."
+    instructionsEn: "Match each term (1–10) with its explanation (a–j)."
+    left:
+      - { key: "1", text: "die Steuer-Identifikationsnummer" }
+      - { key: "2", text: "die Steuererklärung" }
+      - { key: "3", text: "der Steuerbescheid" }
+      - { key: "4", text: "die Nachzahlung" }
+      - { key: "5", text: "die Erstattung" }
+      - { key: "6", text: "der Einspruch" }
+      - { key: "7", text: "die Frist" }
+      - { key: "8", text: "die Werbungskosten" }
+      - { key: "9", text: "ELSTER" }
+      - { key: "10", text: "die Lohnsteuerbescheinigung" }
+    right:
+      - { key: a, text: "Das Online-Portal des Finanzamts." }
+      - { key: b, text: "Geld, das du dem Finanzamt noch schuldest." }
+      - { key: c, text: "Der Zeitpunkt, bis zu dem etwas eingereicht sein muss." }
+      - { key: d, text: "Eine lebenslange Nummer, die jede Person in Deutschland bekommt." }
+      - { key: e, text: "Der schriftliche Widerspruch gegen einen Bescheid." }
+      - { key: f, text: "Geld, das du vom Finanzamt zurückbekommst." }
+      - { key: g, text: "Die jährliche Aufstellung deiner Einkünfte für das Finanzamt." }
+      - { key: h, text: "Kosten, die durch deine Arbeit entstehen — Fahrten, Fachbücher, Arbeitsmittel." }
+      - { key: i, text: "Der Brief mit dem Ergebnis: Nachzahlung oder Erstattung." }
+      - { key: j, text: "Die Jahresübersicht vom Arbeitgeber über Lohn und gezahlte Steuer." }
+    answers:
+      "1": d
+      "2": g
+      "3": i
+      "4": b
+      "5": f
+      "6": e
+      "7": c
+      "8": h
+      "9": a
+      "10": j
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Behördendeutsch in normales Deutsch übersetzen"
+    instructions: "Ergänze das Verb, das den Nominalausdruck auflöst."
+    instructionsEn: "Fill in the verb that resolves the nominal expression."
+    text: |
+      1. „nach Eingang Ihrer Unterlagen" → sobald Ihre Unterlagen {1}
+      2. „bei Nichtvorlage der Belege" → wenn Sie die Belege nicht {2}
+      3. „zur Bearbeitung Ihres Antrags" → damit wir Ihren Antrag {3} können
+      4. „nach Prüfung des Sachverhalts" → nachdem wir den Sachverhalt {4} haben
+      5. „unter Beifügung der Nachweise" → indem Sie die Nachweise {5}
+      6. „nach Ablauf der Frist" → nachdem die Frist {6} ist
+      7. „zur Vermeidung von Rückfragen" → damit wir nicht {7} müssen
+      8. „bei Überschreitung des Freibetrags" → wenn Sie den Freibetrag {8}
+    answers:
+      "1": eingehen
+      "2": vorlegen
+      "3": bearbeiten
+      "4": geprüft
+      "5": beifügen
+      "6": abgelaufen
+      "7": nachfragen
+      "8": überschreiten
+
+  - id: A3
+    block: A
+    type: categorize
+    title: "Wer schreibt so: Amt oder Bürger?"
+    instructions: "Sortiere die Formulierungen: Kommt der Satz vom Finanzamt oder von dir?"
+    instructionsEn: "Sort the phrasings: does the sentence come from the tax office or from you?"
+    buckets:
+      - { key: amt, label: "Finanzamt" }
+      - { key: buerger, label: "Bürger/in" }
+    tokens:
+      - { text: "Ihr Antrag wird derzeit bearbeitet.", bucket: amt }
+      - { text: "Hiermit lege ich Einspruch gegen den Bescheid vom 12.05.2026 ein.", bucket: buerger }
+      - { text: "Die Unterlagen sind bis zum 31.07. einzureichen.", bucket: amt }
+      - { text: "Könnten Sie mir bitte sagen, welche Unterlagen noch fehlen?", bucket: buerger }
+      - { text: "Über Ihren Einspruch wird gesondert entschieden.", bucket: amt }
+      - { text: "Ich bitte um eine Fristverlängerung bis zum 30.09.", bucket: buerger }
+      - { text: "Der Bescheid ergeht nach § 165 AO vorläufig.", bucket: amt }
+      - { text: "Leider ist mir bei der Eingabe ein Fehler unterlaufen.", bucket: buerger }
+      - { text: "Bitte legen Sie die entsprechenden Nachweise vor.", bucket: amt }
+      - { text: "Ich habe den Bescheid erhalten, verstehe aber die Berechnung nicht.", bucket: buerger }
+
+  - id: A4
+    block: A
+    type: odd-one-out
+    title: "Was passt nicht?"
+    instructions: "Ein Begriff passt nicht in die Gruppe. Klicke ihn an."
+    instructionsEn: "One term does not belong in the group. Click it."
+    groups:
+      - items: ["die Steuererklärung", "der Steuerbescheid", "der Einspruch", "der Mietvertrag"]
+        odd: 3
+        why: "Mietvertrag hat mit dem Finanzamt nichts zu tun."
+      - items: ["die Frist", "der Termin", "das Datum", "das Formular"]
+        odd: 3
+        why: "Formular ist ein Dokument, die anderen sind Zeitangaben."
+      - items: ["einreichen", "vorlegen", "abgeben", "verlieren"]
+        odd: 3
+        why: "Die anderen drei heißen alle „dem Amt geben“."
+      - items: ["die Nachzahlung", "die Erstattung", "der Freibetrag", "die Kaution"]
+        odd: 3
+        why: "Kaution zahlt man beim Mieten, nicht beim Finanzamt."
+      - items: ["ELSTER", "das Elterngeld", "die Steuer-ID", "die Lohnsteuerbescheinigung"]
+        odd: 1
+        why: "Elterngeld kommt von der Elterngeldstelle, nicht vom Finanzamt."
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Telefonat mit dem Finanzamt"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Finanzamt Berlin-Mitte, Krüger, guten Tag.
+      — Guten Tag, mein Name ist Yilmaz. Es geht um meinen {1}
+      vom zwölften Mai.
+      — Nennen Sie mir bitte Ihre {2}?
+      — Ja, gern: 12 345 678 901.
+      — Danke. Worum geht es genau?
+      — Ich verstehe die {3} nicht. Laut Bescheid soll ich 480 Euro
+      {4}, aber im letzten Jahr habe ich eine Erstattung bekommen.
+      — Haben Sie Ihre Werbungskosten diesmal {5}?
+      — Nein, das habe ich vergessen.
+      — Dann können Sie {6} einlegen. Die {7} beträgt einen Monat
+      ab Bekanntgabe des Bescheids.
+      — Und wie mache ich das?
+      — Schriftlich oder über {8}. Bitte {9} Sie die Belege bei.
+      — Alles klar. Und wenn ich es nicht rechtzeitig {10}?
+      — Dann wird der Bescheid bestandskräftig — eine Änderung ist dann
+      kaum noch möglich.
+    bank: [BESCHEID, STEUERNUMMER, BERECHNUNG, NACHZAHLEN, ANGEGEBEN, EINSPRUCH, FRIST, ELSTER, FÜGEN, SCHAFFE, ANTRAG, ERSTATTUNG, PRÜFEN, WOHER]
+    answers:
+      "1": BESCHEID
+      "2": STEUERNUMMER
+      "3": BERECHNUNG
+      "4": NACHZAHLEN
+      "5": ANGEGEBEN
+      "6": EINSPRUCH
+      "7": FRIST
+      "8": ELSTER
+      "9": FÜGEN
+      "10": SCHAFFE
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Formell genug?"
+    instructions: "Welche Formulierung passt gegenüber dem Finanzamt?"
+    instructionsEn: "Which phrasing works with the tax office?"
+    items:
+      - q: "Du schreibst eine E-Mail und kennst die Sachbearbeiterin nicht. — You're writing an e-mail and don't know the case worker."
+        options:
+          - { key: a, text: "Hallo, ich habe da mal eine Frage." }
+          - { key: b, text: "Sehr geehrte Damen und Herren," }
+          - { key: c, text: "Liebes Finanzamt," }
+        answer: b
+        why: "„Sehr geehrte Damen und Herren“ ist die Standardanrede, wenn kein Name bekannt ist."
+      - q: "Du willst mehr Zeit für die Steuererklärung. — You want more time for your tax return."
+        options:
+          - { key: a, text: "Ich brauche mehr Zeit." }
+          - { key: b, text: "Ich schaffe das nicht bis Juli." }
+          - { key: c, text: "Ich bitte um eine Fristverlängerung bis zum 30.09.2026." }
+        answer: c
+        why: "Konkret: worum du bittest und bis wann. „Ich bitte um …“ ist die formelle Wendung."
+      - q: "Du widersprichst dem Bescheid. — You're contesting the assessment."
+        options:
+          - { key: a, text: "Hiermit lege ich Einspruch gegen den Steuerbescheid vom 12.05.2026 ein." }
+          - { key: b, text: "Der Bescheid ist falsch." }
+          - { key: c, text: "Ich bin damit nicht einverstanden." }
+        answer: a
+        why: "Der Einspruch braucht die feste Formel plus Datum des Bescheids — sonst ist unklar, wogegen er sich richtet."
+      - q: "Du hast bei ELSTER eine falsche Zahl eingetragen. — You entered a wrong figure in ELSTER."
+        options:
+          - { key: a, text: "Da ist mir leider ein Fehler unterlaufen. Ich reiche die korrigierten Angaben nach." }
+          - { key: b, text: "Das System ist schuld." }
+          - { key: c, text: "Ich habe mich vertippt, sorry." }
+        answer: a
+        why: "Fehler einräumen und sofort sagen, was du tust — „nachreichen“ ist das passende Verb."
+      - q: "Du willst wissen, welche Unterlagen fehlen. — You want to know which documents are missing."
+        options:
+          - { key: a, text: "Was fehlt denn noch?" }
+          - { key: b, text: "Könnten Sie mir bitte mitteilen, welche Unterlagen noch fehlen?" }
+          - { key: c, text: "Schicken Sie mir eine Liste." }
+        answer: b
+        why: "„Könnten Sie mir bitte mitteilen, …“ + Nebensatz ist die höfliche Standardfrage."
+      - q: "Du schließt den Brief ab. — You're closing the letter."
+        options:
+          - { key: a, text: "Viele Grüße" }
+          - { key: b, text: "Liebe Grüße" }
+          - { key: c, text: "Mit freundlichen Grüßen" }
+        answer: c
+        why: "„Mit freundlichen Grüßen“ ist die formelle Schlussformel; „Liebe Grüße“ wäre zu privat."
+
+  - id: B3
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Einspruch schreiben: die Bausteine"
+    instructions: "Ergänze die fehlenden Wörter im formellen Schreiben."
+    instructionsEn: "Fill in the missing words in the formal letter."
+    text: |
+      Sehr geehrte Damen und Herren,
+
+      hiermit {1} ich Einspruch gegen den Steuerbescheid vom 12.05.2026
+      {2}. Meine Steuernummer lautet 12/345/67890.
+
+      Zur {3}: In der Berechnung wurden meine Werbungskosten in Höhe von
+      1.240 Euro nicht {4}. Die entsprechenden Belege {5} ich diesem
+      Schreiben bei.
+
+      Ich {6} Sie daher, den Bescheid entsprechend zu {7}.
+
+      Für Rückfragen {8} ich Ihnen gern zur Verfügung.
+
+      Mit freundlichen Grüßen
+      Akin Yilmaz
+    answers:
+      "1": lege
+      "2": ein
+      "3": Begründung
+      "4": berücksichtigt
+      "5": füge
+      "6": bitte
+      "7": ändern
+      "8": stehe
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Einen Bescheid lesen"
+    instructions: |
+      > **Finanzamt Berlin-Mitte — Bescheid für 2025 über Einkommensteuer**
+      > Steuernummer: 12/345/67890
+      > Datum der Bekanntgabe: 12.05.2026
+      >
+      > Festgesetzte Einkommensteuer: 4.820,00 €
+      > Bereits einbehaltene Lohnsteuer: 4.340,00 €
+      > **Nachzahlung: 480,00 €**
+      > Fällig am: 15.06.2026
+      >
+      > Die geltend gemachten Werbungskosten konnten mangels Nachweis
+      > nicht berücksichtigt werden.
+      >
+      > Rechtsbehelfsbelehrung: Gegen diesen Bescheid kann innerhalb eines
+      > Monats nach Bekanntgabe Einspruch eingelegt werden. Der Einspruch
+      > ist schriftlich oder elektronisch beim Finanzamt einzureichen.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Herr Yilmaz bekommt Geld zurück. — Mr Yilmaz gets money back."
+        answer: false
+        why: "Es ist eine Nachzahlung von 480 € — er muss zahlen."
+      - q: "Die Werbungskosten wurden abgelehnt, weil Belege fehlten. — The work-related expenses were rejected because proof was missing."
+        answer: true
+        why: "„mangels Nachweis“ = weil der Nachweis fehlt."
+      - q: "Der Einspruch muss bis zum 15.06.2026 eingehen. — The appeal must arrive by 15 June 2026."
+        answer: false
+        why: "Der 15.06. ist das Zahlungsziel. Die Einspruchsfrist ist ein Monat ab Bekanntgabe, also bis zum 12.06.2026."
+      - q: "Ein Einspruch per E-Mail über ELSTER ist möglich. — An appeal by e-mail via ELSTER is possible."
+        answer: true
+        why: "„schriftlich oder elektronisch“ — elektronisch schließt ELSTER ein."
+      - q: "Sein Arbeitgeber hat 2025 schon Steuer für ihn abgeführt. — His employer already paid tax for him in 2025."
+        answer: true
+        why: "„Bereits einbehaltene Lohnsteuer: 4.340,00 €“."
+      - q: "Ein Anruf beim Finanzamt reicht als Einspruch. — A phone call to the tax office counts as an appeal."
+        answer: false
+        why: "Der Einspruch muss schriftlich oder elektronisch sein — telefonisch reicht nicht."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Der Ernstfall"
+    instructions: "Was machst oder sagst du? Wähle a, b oder c."
+    instructionsEn: "What do you do or say? Choose a, b, or c."
+    items:
+      - q: "Die Frist läuft in drei Tagen ab und dir fehlt ein Beleg. — The deadline is in three days and you're missing one receipt."
+        options:
+          - { key: a, text: "Einspruch fristgerecht einlegen und den Beleg ankündigen: „Die Begründung reiche ich nach.“" }
+          - { key: b, text: "Warten, bis der Beleg da ist, und dann schreiben." }
+          - { key: c, text: "Anrufen und um Verständnis bitten." }
+        answer: a
+        why: "Die Frist gilt für den Einspruch selbst, nicht für die Begründung. Erst fristwahrend einlegen, dann nachreichen."
+      - q: "Du verstehst die Berechnung im Bescheid nicht. — You don't understand the calculation in the assessment."
+        options:
+          - { key: a, text: "Sofort Einspruch einlegen, ohne Begründung." }
+          - { key: b, text: "Anrufen und um Erläuterung der Berechnung bitten — die Frist läuft aber weiter." }
+          - { key: c, text: "Den Bescheid ignorieren." }
+        answer: b
+        why: "Nachfragen ist richtig — aber der Anruf hält die Einspruchsfrist nicht an. Beides parallel tun."
+      - q: "Das Finanzamt fordert Unterlagen an, die du nicht mehr hast. — The tax office asks for documents you no longer have."
+        options:
+          - { key: a, text: "Nichts schicken und hoffen." }
+          - { key: b, text: "Irgendetwas Ähnliches schicken." }
+          - { key: c, text: "Mitteilen, dass die Unterlagen nicht mehr vorliegen, und Ersatznachweise anbieten." }
+        answer: c
+        why: "Schweigen wird als Nichtmitwirkung gewertet. Sagen, was fehlt, und eine Alternative anbieten."
+      - q: "Du kannst die Nachzahlung nicht auf einmal bezahlen. — You can't pay the back tax in one go."
+        options:
+          - { key: a, text: "Einen Antrag auf Ratenzahlung stellen, bevor die Zahlung fällig wird." }
+          - { key: b, text: "Zahlen, wenn du kannst." }
+          - { key: c, text: "Einspruch einlegen." }
+        answer: a
+        why: "Ratenzahlung (Stundung) muss man beantragen — und zwar vor der Fälligkeit, sonst kommen Säumniszuschläge."
+      - q: "Du hast die Steuererklärung nie abgegeben und bekommst eine Erinnerung. — You never filed and get a reminder."
+        options:
+          - { key: a, text: "Antworten, eine Fristverlängerung beantragen und einen realistischen Termin nennen." }
+          - { key: b, text: "Nicht reagieren." }
+          - { key: c, text: "Schreiben, dass du keine Zeit hattest." }
+        answer: a
+        why: "Reagieren und ein konkretes Datum nennen — sonst schätzt das Finanzamt, meist zu deinen Ungunsten."
+      - q: "Der Bescheid ist tatsächlich richtig, dein Einspruch war ein Irrtum. — The assessment is actually correct; your appeal was a mistake."
+        options:
+          - { key: a, text: "Den Einspruch einfach vergessen." }
+          - { key: b, text: "Den Einspruch schriftlich zurücknehmen." }
+          - { key: c, text: "Auf die Entscheidung warten." }
+        answer: b
+        why: "Die Rücknahme beendet das Verfahren sauber — sonst entscheidet das Amt und es kann teurer werden."
+
+  - id: C2
+    block: C
+    type: order
+    title: "Formelle Sätze bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Hiermit", "lege", "ich", "Einspruch", "gegen", "den", "Bescheid", "ein"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Trennverb ein·legen: ein am Satzende"
+      - tiles: ["Ich", "bitte", "um", "eine", "Fristverlängerung", "bis", "zum", "30.09."]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "bitten um + Akkusativ"
+      - tiles: ["Die", "Belege", "füge", "ich", "diesem", "Schreiben", "bei"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Objekt an Position 1, Verb an Position 2, bei am Ende"
+      - tiles: ["Könnten", "Sie", "mir", "mitteilen", ",", "welche", "Unterlagen", "fehlen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Indirekte Frage: Verb am Ende des Nebensatzes"
+      - tiles: ["Für", "Rückfragen", "stehe", "ich", "Ihnen", "gern", "zur", "Verfügung"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Feste Wendung: zur Verfügung stehen"
+      - tiles: ["Leider", "ist", "mir", "ein", "Fehler", "unterlaufen"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Perfekt mit sein: unterlaufen + Dativ der Person"
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    notes: "11+ / 14 → du kommst mit dem Finanzamt klar. Unter 11: Block A und B noch einmal."
+    instructions: "Ergänze die Lücken."
+    instructionsEn: "Fill in the gaps."
+    text: |
+      **Wortschatz (5 Punkte):**
+      1. Der Brief mit dem Ergebnis: der {1}
+      2. Geld, das du zurückbekommst: die {2}
+      3. Geld, das du noch zahlen musst: die {3}
+      4. Kosten durch deine Arbeit: die {4}
+      5. Das Online-Portal des Finanzamts: {5}
+
+      **Formelle Redemittel (5 Punkte):**
+      6. Anrede ohne Namen: „Sehr geehrte {6} und Herren,"
+      7. Widerspruch: „Hiermit {7} ich Einspruch gegen den Bescheid vom … ein."
+      8. Mehr Zeit: „Ich {8} um eine Fristverlängerung bis zum 30.09."
+      9. Angebot am Briefende: „Für Rückfragen stehe ich Ihnen gern zur {9}."
+      10. Schlussformel: „Mit {10} Grüßen"
+
+      **Behördendeutsch auflösen (4 Punkte):**
+      11. „nach Eingang Ihrer Unterlagen" → sobald Ihre Unterlagen {11}
+      12. „bei Nichtvorlage der Belege" → wenn Sie die Belege nicht {12}
+      13. „nach Ablauf der Frist" → nachdem die Frist {13} ist
+      14. „unter Beifügung der Nachweise" → indem Sie die Nachweise {14}
+    answers:
+      "1": Steuerbescheid
+      "2": Erstattung
+      "3": Nachzahlung
+      "4": Werbungskosten
+      "5": ELSTER
+      "6": Damen
+      "7": lege
+      "8": bitte
+      "9": Verfügung
+      "10": freundlichen
+      "11": eingehen
+      "12": vorlegen
+      "13": abgelaufen
+      "14": beifügen
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Einspruch gegen den Bescheid schreiben"
+    prompt: "Schreib den vollständigen Einspruch als formellen Brief. 10–14 Sätze."
+    stimulus: |
+      Deine Situation:
+
+      Steuerbescheid für 2025, Datum der Bekanntgabe: 12.05.2026
+      Steuernummer: 12/345/67890
+      Nachzahlung laut Bescheid: 480,00 €
+
+      Das Problem: Deine Werbungskosten (1.240 € — Fahrtkosten zur Arbeit,
+      ein Fachbuch, ein Laptop) wurden nicht berücksichtigt, weil du die
+      Belege vergessen hast. Die Belege hast du jetzt.
+
+      Zusätzlich: Du kannst die 480 € nicht auf einmal zahlen und möchtest
+      in drei Raten zahlen.
+    use:
+      - "`Hiermit lege ich Einspruch gegen … ein.`"
+      - "`Zur Begründung:` vor der Erklärung"
+      - "`Ich bitte Sie daher, …` für die Bitte"
+      - "`Für Rückfragen stehe ich Ihnen gern zur Verfügung.`"
+      - "eine Bitte um Ratenzahlung"
+    selfCheck:
+      - "Stehen Steuernummer UND Datum des Bescheids im Brief?"
+      - "Ist klar, wogegen sich der Einspruch richtet und warum?"
+      - "Hast du Anrede und Schlussformel formell gewählt?"
+      - "Hast du die Ratenzahlung als eigene Bitte formuliert?"
+    model: |
+      Sehr geehrte Damen und Herren,
+
+      hiermit lege ich Einspruch gegen den Einkommensteuerbescheid für 2025 vom
+      12.05.2026 ein. Meine Steuernummer lautet 12/345/67890.
+
+      Zur Begründung: In der Berechnung wurden meine Werbungskosten in Höhe von
+      1.240 Euro nicht berücksichtigt. Es handelt sich um Fahrtkosten zur
+      Arbeitsstätte, ein Fachbuch und einen Laptop, den ich beruflich nutze.
+      Die entsprechenden Belege hatte ich versehentlich nicht eingereicht; sie
+      liegen diesem Schreiben nun bei.
+
+      Ich bitte Sie daher, den Bescheid entsprechend zu ändern und die
+      Nachzahlung neu zu berechnen.
+
+      Darüber hinaus bitte ich um die Möglichkeit einer Ratenzahlung. Die
+      festgesetzte Nachzahlung von 480,00 Euro kann ich nicht in einer Summe
+      begleichen. Ich schlage drei monatliche Raten von je 160,00 Euro vor,
+      beginnend am 15.06.2026.
+
+      Für Rückfragen stehe ich Ihnen gern zur Verfügung.
+
+      Mit freundlichen Grüßen
+      Akin Yilmaz

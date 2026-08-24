@@ -70,7 +70,7 @@ function main() {
 
 function findAllLessonDirs(): string[] {
   const dirs: string[] = [];
-  for (const level of ['A1', 'A2', 'B1', 'B2', 'C1', 'EXTRA']) {
+  for (const level of ['A1', 'A2', 'B1', 'B2', 'C1', 'THEMEN', 'SITUATIONEN']) {
     const levelDir = join(REPO_ROOT, level);
     if (!existsSync(levelDir)) continue;
     for (const entry of readdirSync(levelDir, { withFileTypes: true })) {

@@ -194,18 +194,30 @@ function extractGapKeys(text: string): Set<string> {
   return keys;
 }
 
-// `lesson` accepts two shapes: a real curriculum slot ("A1/04") or a standalone
-// topic-drill set living under EXTRA/ ("EX/<dir-slug>"), not tied to any lesson —
-// see EXTRA/README.md. The EXTRA/ page derives {level} from `data.level` below.
+// `lesson` accepts three shapes: a real curriculum slot ("A1/04"); a standalone
+// grammar-drill set under THEMEN/ ("EX/<dir-slug>"); or a situation set under
+// SITUATIONEN/ ("SIT/<dir-slug>"). Neither standalone kind is tied to a lesson —
+// see THEMEN/README.md and SITUATIONEN/README.md. Their index pages derive
+// {level} from `data.level` below.
+//
+// THEMEN/ keeps the "EX/" prefix its directory used to imply: these ids are the
+// localStorage keys for progress and Fehlerbuch entries, so renaming them would
+// silently orphan everything a learner has already done.
 export const ExerciseSet = z.object({
-  lesson: z.string().regex(/^(?:[A-C][12]\/\d{2}|EX\/[a-z0-9][a-z0-9-]*)$/),
+  lesson: z.string().regex(/^(?:[A-C][12]\/\d{2}|(?:EX|SIT)\/[a-z0-9][a-z0-9-]*)$/),
   title: z.string(),
   intro: z.string().optional(),
-  // Standalone-only metadata (EXTRA/ sets). `topic` groups the same theme's per-level
-  // variants on the /extra/ index (e.g. all "Personalpronomen" sets share one topic
-  // string); `level` is its CEFR level. Both unused/omitted for curriculum lessons.
+  // Standalone-only metadata (THEMEN/ and SITUATIONEN/ sets). `topic` groups a
+  // theme's per-level variants on the index page (e.g. all "Personalpronomen" sets
+  // share one topic string); `level` is its CEFR level; `category` is the shelf a
+  // situation sits on ("Behörden", "Einkaufen", …), used only by /situationen/.
+  // All three unused/omitted for curriculum lessons.
   topic: z.string().optional(),
   level: z.enum(['A1', 'A2', 'B1', 'B2', 'C1']).optional(),
+  category: z.string().optional(),
+  // One line of what this set gets you through, for the /situationen/ card.
+  // `title` there is only "<topic> — <level>", which the card already shows.
+  summary: z.string().optional(),
   partial: z.boolean().default(false), // true = fixture only; gen-exercises skips writing md files
   exam: ExamGrid.nullable().default(null),
   exercises: z.array(Exercise),

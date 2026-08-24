@@ -1,0 +1,455 @@
+lesson: "SIT/01-im-cafe-a1"
+title: "Im Café — A1"
+topic: "Im Café"
+category: "Essen & Trinken"
+level: A1
+summary: "Nach einem Platz fragen, bestellen, bezahlen — und reklamieren, wenn der falsche Kuchen kommt."
+intro: >
+  Eine Situation, kein Grammatikthema: bestellen, fragen, bezahlen. Du
+  lernst die Sätze, die im Café wirklich fallen — „Ich hätte gern einen
+  Kaffee“, „Zusammen oder getrennt?“, „Nur Bargeld, bitte“ — und die
+  Wörter dazu. Grammatik nur so weit, wie die Situation sie braucht:
+  Präsens, der bestimmte und unbestimmte Artikel im Akkusativ, und die
+  feste Wendung „ich hätte gern“. Blocks: A Wortschatz & Redemittel →
+  B Dialoge → C Wenn es schiefgeht → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Wer sagt das: Gast oder Bedienung?"
+    instructions: "Sortiere die Sätze: Sagt das der Gast oder die Bedienung?"
+    instructionsEn: "Sort the sentences: does the guest or the server say this?"
+    buckets:
+      - { key: gast, label: "Gast" }
+      - { key: bedienung, label: "Bedienung" }
+    tokens:
+      - { text: "Ich hätte gern einen Kaffee.", bucket: gast }
+      - { text: "Was möchten Sie trinken?", bucket: bedienung }
+      - { text: "Die Rechnung, bitte!", bucket: gast }
+      - { text: "Zusammen oder getrennt?", bucket: bedienung }
+      - { text: "Ist hier noch frei?", bucket: gast }
+      - { text: "Sonst noch etwas?", bucket: bedienung }
+      - { text: "Was können Sie empfehlen?", bucket: gast }
+      - { text: "Das macht 7,40 Euro.", bucket: bedienung }
+      - { text: "Stimmt so, danke.", bucket: gast }
+      - { text: "Möchten Sie hier essen oder zum Mitnehmen?", bucket: bedienung }
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Der, die oder das? — Wörter im Café"
+    instructions: "Ergänze den bestimmten Artikel (der, die, das)."
+    instructionsEn: "Fill in the definite article (der, die, das)."
+    text: |
+      1. {1} Kaffee
+      2. {2} Tee
+      3. {3} Wasser
+      4. {4} Milch
+      5. {5} Rechnung
+      6. {6} Kuchen
+      7. {7} Trinkgeld
+      8. {8} Speisekarte
+      9. {9} Tisch
+      10. {10} Bedienung
+    answers:
+      "1": der
+      "2": der
+      "3": das
+      "4": die
+      "5": die
+      "6": der
+      "7": das
+      "8": die
+      "9": der
+      "10": die
+
+  - id: A3
+    block: A
+    type: matching
+    title: "Frage und Antwort im Café"
+    instructions: "Ordne jede Frage (1–8) der passenden Antwort (a–h) zu."
+    instructionsEn: "Match each question (1–8) with the fitting answer (a–h)."
+    left:
+      - { key: "1", text: "Was möchten Sie trinken?" }
+      - { key: "2", text: "Ist hier noch frei?" }
+      - { key: "3", text: "Zusammen oder getrennt?" }
+      - { key: "4", text: "Möchten Sie den Kuchen mit Sahne?" }
+      - { key: "5", text: "Sonst noch etwas?" }
+      - { key: "6", text: "Hier oder zum Mitnehmen?" }
+      - { key: "7", text: "Wie viel macht das?" }
+      - { key: "8", text: "Kann ich mit Karte zahlen?" }
+    right:
+      - { key: a, text: "Getrennt, bitte." }
+      - { key: b, text: "Zum Mitnehmen, bitte." }
+      - { key: c, text: "Ja, gern — aber nur wenig." }
+      - { key: d, text: "Einen Cappuccino, bitte." }
+      - { key: e, text: "Tut mir leid, wir nehmen nur Bargeld." }
+      - { key: f, text: "Nein, danke. Das ist alles." }
+      - { key: g, text: "Ja, bitte, setzen Sie sich." }
+      - { key: h, text: "Sechs Euro achtzig." }
+    answers:
+      "1": d
+      "2": g
+      "3": a
+      "4": c
+      "5": f
+      "6": b
+      "7": h
+      "8": e
+
+  - id: A4
+    block: A
+    type: odd-one-out
+    title: "Was passt nicht?"
+    instructions: "Ein Wort passt nicht in die Gruppe. Klicke es an."
+    instructionsEn: "One word does not belong in the group. Click it."
+    groups:
+      - items: ["der Kaffee", "der Tee", "der Saft", "der Löffel"]
+        odd: 3
+        why: "Löffel ist Besteck, die anderen sind Getränke."
+      - items: ["die Tasse", "das Glas", "die Rechnung", "der Teller"]
+        odd: 2
+        why: "Rechnung ist kein Geschirr."
+      - items: ["bestellen", "bezahlen", "schlafen", "trinken"]
+        odd: 2
+        why: "schlafen macht man nicht im Café."
+      - items: ["der Kuchen", "das Croissant", "das Trinkgeld", "der Keks"]
+        odd: 2
+        why: "Trinkgeld isst man nicht."
+      - items: ["zusammen", "getrennt", "bar", "morgen"]
+        odd: 3
+        why: "morgen ist eine Zeitangabe, die anderen gehören zum Bezahlen."
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Dialog: bestellen"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Guten Tag! Ist hier noch {1}?
+      — Ja, bitte. Hier ist die {2}.
+      — Danke. Ich {3} gern einen Cappuccino.
+      — Gern. {4} noch etwas?
+      — Ja, ein Stück Apfelkuchen, {5}.
+      — Mit Sahne?
+      — Nein, {6}.
+      — Kommt sofort.
+      — Entschuldigung, die {7}, bitte!
+      — Zusammen oder {8}?
+      — Zusammen. {9} ich mit Karte zahlen?
+      — Ja, natürlich. Das {10} 8,20 Euro.
+    bank: [FREI, SPEISEKARTE, HÄTTE, SONST, BITTE, DANKE, RECHNUNG, GETRENNT, KANN, MACHT, TISCH, TRINKEN, WOHER, ZUSAMMEN]
+    answers:
+      "1": FREI
+      "2": SPEISEKARTE
+      "3": HÄTTE
+      "4": SONST
+      "5": BITTE
+      "6": DANKE
+      "7": RECHNUNG
+      "8": GETRENNT
+      "9": KANN
+      "10": MACHT
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Höflich bestellen — welche Form?"
+    instructions: "Wähle die Variante, die im Café am besten passt."
+    instructionsEn: "Choose the variant that fits best in a café."
+    items:
+      - q: "Du bestellst bei der Bedienung. — You order from the server."
+        options:
+          - { key: a, text: "Gib mir einen Kaffee." }
+          - { key: b, text: "Ich hätte gern einen Kaffee." }
+          - { key: c, text: "Ich will Kaffee." }
+        answer: b
+        why: '„Ich hätte gern …“ ist die normale höfliche Bestellung. „Ich will“ klingt unhöflich.'
+      - q: "Die Bedienung ist etwa 50 Jahre alt und du kennst sie nicht. — The server is about 50 and you don't know them."
+        options:
+          - { key: a, text: "Kannst du mir die Karte bringen?" }
+          - { key: b, text: "Bring mir die Karte." }
+          - { key: c, text: "Könnten Sie mir bitte die Karte bringen?" }
+        answer: c
+        why: 'Fremde Erwachsene: Sie. „Könnten Sie bitte …“ ist die höfliche Bitte.'
+      - q: "Du willst die Rechnung. — You want the bill."
+        options:
+          - { key: a, text: "Die Rechnung, bitte." }
+          - { key: b, text: "Ich brauche Geld." }
+          - { key: c, text: "Wo ist mein Geld?" }
+        answer: a
+        why: '„Die Rechnung, bitte“ (oder „Zahlen, bitte“) ist die feste Wendung.'
+      - q: "Die Rechnung ist 9,20 €. Du gibst 10 € und willst kein Wechselgeld. — The bill is €9.20. You hand over €10 and don't want change."
+        options:
+          - { key: a, text: "Behalten Sie alles." }
+          - { key: b, text: "Stimmt so." }
+          - { key: c, text: "Kein Wechselgeld." }
+        answer: b
+        why: '„Stimmt so“ ist die übliche Formel für Trinkgeld.'
+      - q: "Du sitzt am Tisch, aber du weißt nicht, ob der Platz frei ist. — You're at a table but don't know if the seat is free."
+        options:
+          - { key: a, text: "Ich sitze hier." }
+          - { key: b, text: "Dieser Platz gehört mir." }
+          - { key: c, text: "Entschuldigung, ist hier noch frei?" }
+        answer: c
+        why: '„Ist hier noch frei?“ fragt höflich nach dem Platz.'
+      - q: "Du möchtest den Kaffee mitnehmen. — You want the coffee to go."
+        options:
+          - { key: a, text: "Zum Mitnehmen, bitte." }
+          - { key: b, text: "Ich gehe jetzt." }
+          - { key: c, text: "Kaffee für draußen." }
+        answer: a
+        why: '„Zum Mitnehmen“ ist der feste Ausdruck (englisch: to go).'
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze im Café bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "hätte", "gern", "einen", "Kaffee"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Verb an Position 2"
+      - tiles: ["Können", "Sie", "mir", "die", "Karte", "bringen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Ja/Nein-Frage: Verb an Position 1, Infinitiv am Ende"
+      - tiles: ["Wir", "möchten", "bitte", "zahlen"]
+        answer: [0, 1, 2, 3]
+        note: "Modalverb an Position 2, Infinitiv am Ende"
+      - tiles: ["Was", "können", "Sie", "empfehlen", "?"]
+        answer: [0, 1, 2, 3, 4]
+        note: "W-Frage: Fragewort, dann Verb"
+      - tiles: ["Der", "Kuchen", "schmeckt", "sehr", "gut"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Verb an Position 2"
+      - tiles: ["Ich", "trinke", "den", "Tee", "ohne", "Zucker"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "ohne + Akkusativ, hier ohne Artikel"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Speisekarte lesen"
+    instructions: |
+      > **Café Morgenrot — Karte**
+      >
+      > **Getränke**
+      > - Kaffee 2,80 €
+      > - Cappuccino 3,60 €
+      > - Latte Macchiato 3,90 €
+      > - Tee (verschiedene Sorten) 2,90 €
+      > - Apfelsaft 3,20 €
+      > - Mineralwasser 2,50 €
+      >
+      > **Kuchen & Gebäck**
+      > - Apfelkuchen (Stück) 3,80 €
+      > - Käsekuchen (Stück) 4,10 €
+      > - Croissant 2,20 €
+      > - Käsebrötchen 3,50 €
+      >
+      > - Frühstück (bis 11:30 Uhr) 9,90 €
+      >
+      > Geöffnet: Mo–Fr 8:00–19:00, Sa–So 9:00–18:00
+      > Hinweis: Wir nehmen nur Bargeld.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Ein Cappuccino kostet mehr als ein Kaffee. — A cappuccino costs more than a coffee."
+        answer: true
+        why: "Cappuccino 3,60 € > Kaffee 2,80 €."
+      - q: "Man kann im Café Morgenrot mit Karte zahlen. — You can pay by card at Café Morgenrot."
+        answer: false
+        why: '„Wir nehmen nur Bargeld.“'
+      - q: "Am Sonntag öffnet das Café um 8 Uhr. — On Sunday the café opens at 8."
+        answer: false
+        why: "Sa–So erst um 9:00 Uhr."
+      - q: "Um 12 Uhr bekommt man noch Frühstück. — At 12 you can still get breakfast."
+        answer: false
+        why: "Frühstück gibt es nur bis 11:30 Uhr."
+      - q: "Käsekuchen ist teurer als Apfelkuchen. — Cheesecake is more expensive than apple cake."
+        answer: true
+        why: "4,10 € > 3,80 €."
+      - q: "Mineralwasser ist das günstigste Getränk auf der Karte. — Sparkling water is the cheapest drink on the menu."
+        answer: true
+        why: "2,50 € — billiger als Kaffee (2,80 €) und Tee (2,90 €)."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Etwas stimmt nicht"
+    instructions: "Was sagst du in dieser Situation? Wähle a, b oder c."
+    instructionsEn: "What do you say in this situation? Choose a, b, or c."
+    items:
+      - q: "Du hast Tee bestellt, aber du bekommst Kaffee. — You ordered tea but got coffee."
+        options:
+          - { key: a, text: "Entschuldigung, ich habe einen Tee bestellt." }
+          - { key: b, text: "Das ist falsch!" }
+          - { key: c, text: "Ich trinke das nicht." }
+        answer: a
+        why: "Freundlich und sachlich: sagen, was du bestellt hast."
+      - q: "Auf der Rechnung stehen drei Kaffee, du hattest zwei. — The bill lists three coffees, you had two."
+        options:
+          - { key: a, text: "Sie haben falsch gerechnet." }
+          - { key: b, text: "Ich glaube, da ist ein Fehler — wir hatten nur zwei Kaffee." }
+          - { key: c, text: "Ich zahle das nicht." }
+        answer: b
+        why: '„Ich glaube, da ist ein Fehler“ ist höflich und nennt gleich den Grund.'
+      - q: "Du willst mit Karte zahlen, aber das Café nimmt nur Bargeld. — You want to pay by card but the café takes cash only."
+        options:
+          - { key: a, text: "Dann zahle ich nicht." }
+          - { key: b, text: "Warum denn nicht?" }
+          - { key: c, text: "Oh, tut mir leid. Wo ist der nächste Geldautomat?" }
+        answer: c
+        why: "Praktische Lösung: nach dem Geldautomaten fragen."
+      - q: "Deine Karte funktioniert nicht. — Your card doesn't work."
+        options:
+          - { key: a, text: "Die Karte geht nicht. Kann ich bar zahlen?" }
+          - { key: b, text: "Ihre Maschine ist kaputt." }
+          - { key: c, text: "Das Problem ist Ihr Problem." }
+        answer: a
+        why: "Problem nennen und selbst eine Lösung anbieten."
+      - q: "Der Kuchen ist alt und schmeckt nicht. — The cake is stale and doesn't taste good."
+        options:
+          - { key: a, text: "Der Kuchen ist schlecht!" }
+          - { key: b, text: "Entschuldigung, der Kuchen schmeckt leider nicht frisch." }
+          - { key: c, text: "Ich esse das nicht, das ist schrecklich." }
+        answer: b
+        why: '„leider“ und „schmeckt nicht frisch“ bleiben höflich, sagen aber klar, was los ist.'
+      - q: "Du hast dein Portemonnaie vergessen. — You've forgotten your wallet."
+        options:
+          - { key: a, text: "Ich gehe kurz weg." }
+          - { key: b, text: "Ich habe kein Geld dabei." }
+          - { key: c, text: "Entschuldigung, ich habe mein Portemonnaie vergessen. Ich hole es und komme gleich zurück." }
+        answer: c
+        why: "Erklären und sagen, was du jetzt machst — das ist die Information, die die Bedienung braucht."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Reklamieren, aber freundlich"
+    instructions: "Ergänze das fehlende Wort."
+    instructionsEn: "Fill in the missing word."
+    text: |
+      1. {1}, ich habe einen Tee bestellt, keinen Kaffee. (höfliche Einleitung)
+      2. Ich {2}, da ist ein Fehler auf der Rechnung. (glauben)
+      3. Der Kuchen schmeckt {3} nicht frisch. (bedauernd)
+      4. {4} Sie das bitte noch einmal prüfen? (höfliche Bitte mit können)
+      5. Wir hatten nur zwei Kaffee, {5} drei. (Gegensatz)
+      6. Kann ich {6} zahlen? Meine Karte funktioniert nicht. (mit Geld, nicht mit Karte)
+      7. Wo ist der {7} Geldautomat? (der Automat in der Nähe)
+      8. Entschuldigung, ich habe mein Portemonnaie {8}. (vergessen, Partizip II)
+    answers:
+      "1":
+        - "Entschuldigung"
+        - "Entschuldigen Sie"
+      "2": glaube
+      "3": leider
+      "4": Könnten
+      "5": nicht
+      "6": bar
+      "7":
+        - "nächste"
+        - "nächstgelegene"
+      "8": vergessen
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /12)"
+    notes: "10+ / 12 → du kommst im Café klar. Unter 10: Block A und B noch einmal."
+    instructions: "Ergänze die Lücken."
+    instructionsEn: "Fill in the gaps."
+    text: |
+      **Redemittel (6 Punkte):**
+      1. Höfliche Bestellung: „Ich {1} gern einen Kaffee.“
+      2. Nach einem Platz fragen: „Ist hier noch {2}?“
+      3. Nach der Rechnung fragen: „Die {3}, bitte!“
+      4. Die Bedienung fragt beim Bezahlen: „Zusammen oder {4}?“
+      5. Trinkgeld geben: „{5} so.“
+      6. Kaffee für draußen: „Zum {6}, bitte.“
+
+      **Wortschatz (4 Punkte):**
+      7. {7} Rechnung (Artikel)
+      8. {8} Trinkgeld (Artikel)
+      9. Geld in Scheinen und Münzen: das {9}
+      10. Die Karte mit den Preisen: die {10}
+
+      **Wenn es schiefgeht (2 Punkte):**
+      11. „Ich {11}, da ist ein Fehler auf der Rechnung.“
+      12. „Der Kuchen schmeckt {12} nicht frisch.“
+    answers:
+      "1": hätte
+      "2": frei
+      "3": Rechnung
+      "4": getrennt
+      "5": Stimmt
+      "6": Mitnehmen
+      "7": die
+      "8": das
+      "9": Bargeld
+      "10": Speisekarte
+      "11": glaube
+      "12": leider
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Rollenspiel: ein Besuch im Café"
+    prompt: "Schreib den ganzen Dialog: Du kommst ins Café, bestellst, es gibt ein kleines Problem, und du bezahlst. 10–14 Sätze."
+    stimulus: |
+      Du bist der Gast. Schreib beide Rollen (Gast und Bedienung).
+
+      Diese Schritte müssen vorkommen:
+      1. nach einem freien Platz fragen
+      2. die Speisekarte bekommen
+      3. ein Getränk und etwas zu essen bestellen
+      4. die Bedienung fragt „Sonst noch etwas?“
+      5. etwas stimmt nicht (falsche Bestellung ODER Fehler auf der Rechnung)
+      6. das Problem freundlich ansprechen
+      7. bezahlen — und die Frage „zusammen oder getrennt?“ beantworten
+      8. Trinkgeld geben und dich verabschieden
+    use:
+      - "`Ich hätte gern …` für die Bestellung"
+      - "`Entschuldigung, …` beim Problem"
+      - "`Stimmt so.` beim Trinkgeld"
+      - "Sie-Form für die Bedienung"
+    selfCheck:
+      - "Steht das Verb in den Aussagesätzen an Position 2?"
+      - "Hast du durchgehend Sie (nicht du) benutzt?"
+      - "Hast du „einen/eine/ein“ im Akkusativ richtig verwendet?"
+      - "Kommen alle 8 Schritte vor?"
+    model: |
+      Gast: Guten Tag! Entschuldigung, ist hier noch frei?
+      Bedienung: Ja, bitte, setzen Sie sich. Hier ist die Speisekarte.
+      Gast: Danke schön.
+      Bedienung: Was möchten Sie trinken?
+      Gast: Ich hätte gern einen Cappuccino, bitte.
+      Bedienung: Sonst noch etwas?
+      Gast: Ja, ein Stück Apfelkuchen, bitte. Ohne Sahne.
+      Bedienung: Gern, kommt sofort.
+      (später)
+      Gast: Entschuldigung, ich habe einen Apfelkuchen bestellt, das ist Käsekuchen.
+      Bedienung: Oh, das tut mir leid! Ich bringe Ihnen sofort den richtigen.
+      Gast: Danke. Und dann die Rechnung, bitte.
+      Bedienung: Zusammen oder getrennt?
+      Gast: Zusammen, bitte. Kann ich mit Karte zahlen?
+      Bedienung: Tut mir leid, wir nehmen nur Bargeld. Das macht 7,40 Euro.
+      Gast: Hier sind acht Euro. Stimmt so.
+      Bedienung: Vielen Dank! Schönen Tag noch.
+      Gast: Danke, Ihnen auch. Auf Wiedersehen!
