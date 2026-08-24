@@ -2,6 +2,8 @@
   import type { ItemResult } from '@core/content/types';
   import type { ExerciseUnion } from '@core/content/types';
   import InstructionBlocks from './InstructionBlocks.svelte';
+  import PassageBody from './PassageBody.svelte';
+  import { parsePassage } from '@core/content/instructions';
   import GapText from './widgets/GapText.svelte';
   import TableFill from './widgets/TableFill.svelte';
   import GapBank from './widgets/GapBank.svelte';
@@ -62,7 +64,9 @@
   {#if exercise.transcript}
     <details class="transcript">
       <summary>📄 Transkript (erst nach dem Hören öffnen!)</summary>
-      <blockquote class="transcript-body">{exercise.transcript}</blockquote>
+      <blockquote class="transcript-body">
+        <PassageBody paragraphs={parsePassage(exercise.transcript)} />
+      </blockquote>
     </details>
   {/if}
 
@@ -139,7 +143,6 @@
     background: var(--surface-2, #f8fafc);
     color: var(--text, #0f172a);
     border-radius: 0 var(--radius, 10px) var(--radius, 10px) 0;
-    white-space: pre-wrap;
     line-height: 1.7;
   }
 </style>

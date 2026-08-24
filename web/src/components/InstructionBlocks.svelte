@@ -5,6 +5,7 @@
    * wrapping undone. See core/content/instructions.ts for the parsing rules.
    */
   import { parseInstructions } from '@core/content/instructions';
+  import PassageBody from './PassageBody.svelte';
 
   let { source }: { source: string } = $props();
 
@@ -16,16 +17,7 @@
     <p class="instruction-text">{block.text}</p>
   {:else}
     <blockquote class="passage">
-      {#each block.paragraphs as paragraph}
-        <p>
-          {#each paragraph as line, i}
-            {#if i > 0}<br />{/if}
-            {#each line as run}
-              {#if run.bold}<strong>{run.text}</strong>{:else}{run.text}{/if}
-            {/each}
-          {/each}
-        </p>
-      {/each}
+      <PassageBody paragraphs={block.paragraphs} />
     </blockquote>
   {/if}
 {/each}
@@ -46,7 +38,4 @@
     font-size: var(--text-md, 1rem);
     line-height: 1.7;
   }
-  .passage p { margin: 0 0 0.7rem; }
-  .passage p:last-child { margin-bottom: 0; }
-  .passage strong { font-weight: 650; }
 </style>

@@ -3,6 +3,8 @@
   import type { ItemResult } from '@core/content/types';
   import type { FreeWriteExercise } from '@core/content/types';
   import { progress } from '@core/index';
+  import PassageBody from '../PassageBody.svelte';
+  import { parsePassage } from '@core/content/instructions';
 
   let { exercise, graded, lessonId }: {
     exercise: FreeWriteExercise;
@@ -33,7 +35,9 @@
 
 <div class="free-write">
   {#if exercise.stimulus}
-    <blockquote class="stimulus">{exercise.stimulus}</blockquote>
+    <blockquote class="stimulus">
+      <PassageBody paragraphs={parsePassage(exercise.stimulus)} />
+    </blockquote>
   {/if}
 
   <p class="prompt">{exercise.prompt}</p>
@@ -64,7 +68,9 @@
     {#if exercise.model}
       <details class="model-spoiler">
         <summary>📄 Musterantwort (erst nach dem Schreiben öffnen!)</summary>
-        <blockquote class="model">{exercise.model}</blockquote>
+        <blockquote class="model">
+          <PassageBody paragraphs={parsePassage(exercise.model)} />
+        </blockquote>
       </details>
     {/if}
   {/if}
@@ -72,9 +78,9 @@
 
 <style>
   .free-write { display: flex; flex-direction: column; gap: 0.75rem; }
-  /* stimulus/model are YAML block scalars: numbered transformation drills,
-     one item per line. Without pre-wrap they collapse into a single
-     unreadable run-on line. */
+  /* stimulus/model carry numbered transformation drills or a sample text.
+     PassageBody keeps each drill item on its own line and breaks running
+     prose one thought per line — see core/content/instructions.ts. */
   .stimulus {
     margin: 0;
     padding: 0.7rem 1rem;
@@ -82,7 +88,6 @@
     background: var(--surface-2, #f8fafc);
     color: var(--text, #0f172a);
     border-radius: 0 var(--radius, 10px) var(--radius, 10px) 0;
-    white-space: pre-wrap;
     line-height: 1.7;
   }
   .prompt { margin: 0; font-weight: 550; }
@@ -138,7 +143,6 @@
     background: var(--surface-2, #f8fafc);
     color: var(--text, #0f172a);
     border-radius: 0 var(--radius, 10px) var(--radius, 10px) 0;
-    white-space: pre-wrap;
     line-height: 1.7;
   }
 </style>
