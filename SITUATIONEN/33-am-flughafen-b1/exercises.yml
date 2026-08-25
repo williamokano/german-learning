@@ -1,0 +1,486 @@
+lesson: "SIT/33-am-flughafen-b1"
+title: "Am Flughafen — B1"
+topic: "Flugreise"
+category: "Unterwegs"
+level: B1
+summary: "Check-in und Gepäck, Sicherheitskontrolle, Verspätung und verpasster Anschluss, verlorener Koffer und Entschädigung."
+intro: >
+  Solange alles läuft, braucht man am Flughafen kaum Deutsch. Interessant
+  wird es genau dann, wenn etwas schiefgeht: Das Gepäck ist zwei Kilo zu
+  schwer, der Flug hat Verspätung, der Anschluss ist weg, der Koffer
+  kommt nicht auf dem Band. Dann zählt, ob du die richtigen Wörter
+  hast — Umbuchung, Ersatzbeförderung, Verspätungsmeldung, PIR — und ob
+  du weißt, worauf du Anspruch hast: Betreuungsleistungen ab bestimmten
+  Wartezeiten und eine Ausgleichszahlung ab drei Stunden Ankunftsverspätung.
+  Grammatik nach Bedarf: Passiv, indirekte Fragen, Konjunktiv II,
+  Nebensätze mit da und sodass. Blocks: A Wortschatz & Redemittel →
+  B Dialoge → C Wenn es schiefgeht → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Vor dem Flug, im Flug, nach dem Flug?"
+    instructions: "Sortiere die 12 Begriffe."
+    instructionsEn: "Sort the 12 terms."
+    buckets:
+      - { key: vorher, label: "Check-in & Kontrolle" }
+      - { key: warten, label: "Wenn es sich verzögert" }
+      - { key: danach, label: "Nach der Landung" }
+    tokens:
+      - { text: "die Bordkarte", bucket: vorher }
+      - { text: "die Verspätung", bucket: warten }
+      - { text: "das Gepäckband", bucket: danach }
+      - { text: "das Handgepäck", bucket: vorher }
+      - { text: "die Umbuchung", bucket: warten }
+      - { text: "die Verlustmeldung", bucket: danach }
+      - { text: "die Sicherheitskontrolle", bucket: vorher }
+      - { text: "der Ersatzflug", bucket: warten }
+      - { text: "die Ausgleichszahlung", bucket: danach }
+      - { text: "das Übergepäck", bucket: vorher }
+      - { text: "der Verpflegungsgutschein", bucket: warten }
+      - { text: "die Zollkontrolle", bucket: danach }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "das Übergepäck" }
+      - { key: "2", text: "die Bordkarte" }
+      - { key: "3", text: "die Umbuchung" }
+      - { key: "4", text: "die Betreuungsleistungen" }
+      - { key: "5", text: "die Ausgleichszahlung" }
+      - { key: "6", text: "die Verlustmeldung (PIR)" }
+      - { key: "7", text: "der Anschlussflug" }
+      - { key: "8", text: "die Ersatzbeförderung" }
+    right:
+      - { key: a, text: "das Gewicht über der Freigrenze, das extra kostet" }
+      - { key: b, text: "das Dokument, mit dem du an Bord darfst" }
+      - { key: c, text: "die Änderung auf einen anderen Flug" }
+      - { key: d, text: "Getränke, Essen und notfalls ein Hotel während des Wartens" }
+      - { key: e, text: "die pauschale Zahlung bei mehr als drei Stunden Verspätung" }
+      - { key: f, text: "das Formular, mit dem du fehlendes Gepäck meldest" }
+      - { key: g, text: "der zweite Flug, den du am selben Ticket erreichen musst" }
+      - { key: h, text: "der Transport zum Ziel auf einem anderen Weg" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Passiv am Schalter"
+    instructions: "Ergänze die Passivform."
+    instructionsEn: "Fill in the passive form."
+    text: |
+      1. Der Flug {1} wegen des Wetters verschoben. (werden, Präsens Singular)
+      2. Alle Passagiere {2} am Gate informiert. (werden, Präsens Plural)
+      3. Ihr Koffer {3} in Lissabon nicht verladen. (werden, Präteritum Singular)
+      4. Die Verlustmeldung {4} sofort aufgenommen. (werden, Präsens Singular)
+      5. Sie {5} auf den Flug um 18:40 umgebucht. (werden, Präsens Plural — Sie)
+      6. Das Gepäck {6} morgen zu Ihrer Adresse gebracht. (werden, Präsens Singular)
+      7. Verpflegungsgutscheine {7} ab zwei Stunden Wartezeit ausgegeben. (werden, Präsens Plural)
+      8. Der Antrag {8} innerhalb von vier Wochen bearbeitet. (werden, Präsens Singular)
+    answers:
+      "1": wird
+      "2": werden
+      "3": wurde
+      "4": wird
+      "5": werden
+      "6": wird
+      "7": werden
+      "8": wird
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Indirekt und höflich fragen"
+    instructions: "Ergänze das Fragewort, ob oder die Verbform."
+    instructionsEn: "Fill in the question word, ob, or the verb form."
+    text: |
+      1. Können Sie mir sagen, {1} der Flug voraussichtlich geht? (Zeitpunkt)
+      2. Wissen Sie, {2} mein Anschluss noch zu schaffen ist? (Ja/Nein-Frage)
+      3. Dürfte ich fragen, {3} hoch die Gebühr für Übergepäck {4}? (Menge / sein)
+      4. Ich wüsste gern, {5} ich mich für den Ersatzflug melden muss. (Ort)
+      5. Könnten Sie mir sagen, {6} das Gepäck nachgeliefert wird? (Zeitpunkt)
+      6. Wissen Sie, {7} ich Anspruch auf eine Ausgleichszahlung habe? (Ja/Nein-Frage)
+    answers:
+      "1": wann
+      "2": ob
+      "3": wie
+      "4": ist
+      "5": wo
+      "6": wann
+      "7": ob
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Am Umbuchungsschalter"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Guten Tag, mein Flug nach Lissabon hat zwei Stunden
+      {1}, dadurch verpasse ich meinen {2} in Frankfurt.
+      — Zeigen Sie mir bitte Ihre {3}. … Ja, das wird knapp. Ich buche
+      Sie auf den Flug um 18:40 {4}.
+      — Komme ich dann heute noch an?
+      — Ja, Ankunft 21:15. Sie {5} automatisch neu eingecheckt, das
+      Gepäck läuft durch.
+      — Gut. Bekomme ich etwas für die {6}?
+      — Ab zwei Stunden gibt es {7}, hier sind zwei Stück.
+      — Danke. Und wenn ich mit über drei Stunden ankomme — habe ich
+      dann {8} auf eine Ausgleichszahlung?
+      — Grundsätzlich ja, außer bei außergewöhnlichen Umständen. Den
+      {9} stellen Sie online.
+      — Verstehe. Kann ich mir das mit der Verspätung {10} lassen?
+      — Natürlich, ich drucke Ihnen eine Bestätigung aus.
+    bank: [VERSPÄTUNG, ANSCHLUSS, BORDKARTE, UM, WERDEN, WARTEZEIT, VERPFLEGUNGSGUTSCHEINE, ANSPRUCH, ANTRAG, BESTÄTIGEN, KOFFER, GATE, ZURÜCK, SIND]
+    answers:
+      "1": VERSPÄTUNG
+      "2": ANSCHLUSS
+      "3": BORDKARTE
+      "4": UM
+      "5": WERDEN
+      "6": WARTEZEIT
+      "7": VERPFLEGUNGSGUTSCHEINE
+      "8": ANSPRUCH
+      "9": ANTRAG
+      "10": BESTÄTIGEN
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Wie formulierst du das?"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Dein Koffer ist zwei Kilo zu schwer. — Your suitcase is two kilos overweight."
+        options:
+          - { key: a, text: "Kann ich zwei Kilo ins Handgepäck umpacken, oder was kostet das Übergepäck?" }
+          - { key: b, text: "Das sind doch nur zwei Kilo." }
+          - { key: c, text: "Dann lasse ich etwas hier." }
+        answer: a
+        why: "Beide Auswege in einer Frage — umpacken ist meistens erlaubt und kostenlos."
+      - q: "Der Flug hat Verspätung, du willst wissen, was das für dich heißt. — The flight is delayed and you want to know what it means for you."
+        options:
+          - { key: a, text: "Wann geht es endlich los?" }
+          - { key: b, text: "Können Sie mir sagen, wann der Flug voraussichtlich geht und ob mein Anschluss noch zu schaffen ist?" }
+          - { key: c, text: "Das ist eine Unverschämtheit." }
+        answer: b
+        why: "Zwei indirekte Fragen in einem Satz — Abflug und Anschluss sind genau die zwei Dinge, die dein Weiterkommen entscheiden."
+      - q: "Du willst die Verspätung schriftlich haben. — You want the delay confirmed in writing."
+        options:
+          - { key: a, text: "Ich merke mir das." }
+          - { key: b, text: "Sie haben das ja selbst gesagt." }
+          - { key: c, text: "Könnten Sie mir die Verspätung bitte schriftlich bestätigen? Ich brauche es für den Antrag." }
+        answer: c
+        why: "Ohne Beleg wird der Antrag mühsam; am Schalter wird die Bestätigung meist sofort gedruckt."
+      - q: "Dein Koffer kommt nicht auf dem Band. — Your suitcase doesn't come out on the belt."
+        options:
+          - { key: a, text: "Warten und morgen anrufen." }
+          - { key: b, text: "Am Schalter im Ankunftsbereich sofort eine Verlustmeldung aufnehmen lassen und die Nummer mitnehmen." }
+          - { key: c, text: "Bei der Airline eine Mail schreiben." }
+        answer: b
+        why: "Die Meldung muss vor Verlassen des Flughafens aufgenommen werden — die PIR-Nummer ist danach dein Zugang zu allem."
+      - q: "Man sagt dir, es habe außergewöhnliche Umstände gegeben. — You're told there were extraordinary circumstances."
+        options:
+          - { key: a, text: "Das glaube ich Ihnen nicht." }
+          - { key: b, text: "Dann eben nicht." }
+          - { key: c, text: "Dürfte ich fragen, welcher Grund genau eingetragen ist? Das brauche ich für meinen Antrag." }
+        answer: c
+        why: "Nach dem eingetragenen Grund fragen — Wetter und Streik sind nicht dasselbe wie ein technischer Defekt."
+      - q: "Du brauchst dringend etwas aus dem aufgegebenen Koffer. — You urgently need something from your checked bag."
+        options:
+          - { key: a, text: "Ich brauche meinen Koffer." }
+          - { key: b, text: "Im Koffer sind meine Medikamente — was können Sie mir für heute Nacht anbieten?" }
+          - { key: c, text: "Das ist Ihr Problem." }
+        answer: b
+        why: "Den Bedarf konkret nennen: bei Medikamenten und Nötigstem gibt es Sofortleistungen."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Formelle Sätze bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Mein", "Flug", "hat", "zwei", "Stunden", "Verspätung"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Verspätung haben — die Standardformel"
+      - tiles: ["Können", "Sie", "mir", "sagen", ",", "wann", "der", "Flug", "geht", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        note: "Indirekte Frage: Verb am Ende"
+      - tiles: ["Ich", "werde", "auf", "den", "Flug", "um", "18:40", "umgebucht"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Passiv: werde + Partizip am Ende"
+      - tiles: ["Da", "der", "Anschluss", "nicht", "zu", "schaffen", "ist", ",", "brauche", "ich", "einen", "Ersatzflug"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        note: "Nebensatz mit da zuerst, dann das Verb des Hauptsatzes"
+      - tiles: ["Könnten", "Sie", "mir", "die", "Verspätung", "schriftlich", "bestätigen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Konjunktiv II an Position 1, Infinitiv am Ende"
+      - tiles: ["Ich", "möchte", "eine", "Verlustmeldung", "aufgeben"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Modalverb an Position 2, Infinitiv am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Passagierinformation lesen"
+    instructions: |
+      > **Fluggastrechte — Aushang am Schalter**
+      >
+      > - **Betreuungsleistungen** (Getränke, Mahlzeiten, zwei
+      >   Telefonate) ab **2 Stunden** Verspätung bei Kurzstrecke,
+      >   ab **3 Stunden** bei Mittelstrecke.
+      > - Bei Abflug **am Folgetag**: Hotel und Transfer werden
+      >   gestellt.
+      > - **Ausgleichszahlung** bei **mehr als 3 Stunden**
+      >   Ankunftsverspätung: 250–600 € je nach Entfernung. **Nicht**
+      >   bei außergewöhnlichen Umständen (z. B. Unwetter, Streik der
+      >   Flugsicherung).
+      > - Ab **5 Stunden** Verspätung: Wahl zwischen **Erstattung** des
+      >   Ticketpreises und **Ersatzbeförderung**.
+      > - **Gepäckschaden oder -verlust:** Meldung **vor Verlassen**
+      >   des Flughafens (PIR). Schriftliche Reklamation innerhalb von
+      >   **7 Tagen** bei Schaden, **21 Tagen** bei Verspätung.
+      > - Gepäck gilt nach **21 Tagen** als verloren.
+      > - Anträge auf Ausgleichszahlung: **online**, Bearbeitung bis zu
+      >   **4 Wochen**.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Bei 2,5 Stunden Verspätung auf der Kurzstrecke stehen Getränke zu. — With a 2.5-hour delay on a short haul you're entitled to drinks."
+        answer: true
+        why: "Betreuungsleistungen gibt es dort ab 2 Stunden."
+      - q: "Eine Ausgleichszahlung gibt es immer ab drei Stunden. — Compensation is always due from three hours."
+        answer: false
+        why: "Nicht bei außergewöhnlichen Umständen wie Unwetter oder Streik der Flugsicherung."
+      - q: "Ab fünf Stunden kann man sich das Ticket erstatten lassen. — From five hours you can have the ticket refunded."
+        answer: true
+        why: "„Ab 5 Stunden … Wahl zwischen Erstattung und Ersatzbeförderung.“"
+      - q: "Fehlendes Gepäck kann man auch am nächsten Tag noch melden. — Missing luggage can still be reported the next day."
+        answer: false
+        why: "Die Meldung muss vor Verlassen des Flughafens erfolgen."
+      - q: "Nach drei Wochen gilt der Koffer als verloren. — After three weeks the case counts as lost."
+        answer: true
+        why: "„Gepäck gilt nach 21 Tagen als verloren.“"
+      - q: "Den Antrag auf Ausgleichszahlung stellt man am Schalter. — The compensation claim is filed at the desk."
+        answer: false
+        why: "„Anträge auf Ausgleichszahlung: online.“"
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Der Tag, an dem nichts klappt"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Der Anschluss ist weg und am Schalter stehen sechzig Leute. — Your connection is gone and sixty people are queuing."
+        options:
+          - { key: a, text: "Anstellen und parallel in der App oder telefonisch umbuchen — wer zuerst durchkommt, gewinnt." }
+          - { key: b, text: "Nur anstehen." }
+          - { key: c, text: "Ein neues Ticket kaufen." }
+        answer: a
+        why: "Zwei Wege gleichzeitig: die freien Plätze auf dem Ersatzflug sind in zwanzig Minuten vergeben."
+      - q: "Man bietet dir einen Flug erst übermorgen an. — You're offered a flight only the day after tomorrow."
+        options:
+          - { key: a, text: "Das ist inakzeptabel." }
+          - { key: b, text: "Gibt es heute noch eine Verbindung über ein anderes Drehkreuz — oder eine andere Airline?" }
+          - { key: c, text: "Annehmen." }
+        answer: b
+        why: "Ersatzbeförderung heißt nicht „nur unsere eigenen Flüge“ — nach Umsteigeverbindungen zu fragen lohnt sich."
+      - q: "Dein Koffer ist beschädigt angekommen. — Your case arrived damaged."
+        options:
+          - { key: a, text: "Zu Hause Fotos machen und in zwei Wochen schreiben." }
+          - { key: b, text: "Nichts tun." }
+          - { key: c, text: "Noch am Flughafen melden und die Reklamation innerhalb von sieben Tagen schriftlich nachreichen." }
+        answer: c
+        why: "Bei Schaden läuft eine Sieben-Tage-Frist — und die Meldung am Flughafen ist der Anfang der Kette."
+      - q: "Am Gate wird gesagt, das Handgepäck müsse in den Frachtraum. — At the gate you're told your cabin bag must be checked in."
+        options:
+          - { key: a, text: "Sich weigern." }
+          - { key: b, text: "Okay — dann nehme ich nur schnell Laptop, Medikamente und Papiere heraus." }
+          - { key: c, text: "Alles drin lassen." }
+        answer: b
+        why: "Gegen das Verladen kommst du nicht an; Wertsachen und Medikamente gehören aber immer zu dir."
+      - q: "Die Airline verweist dich für die Entschädigung an ein Formular, das nicht funktioniert. — The airline points you to a form that doesn't work."
+        options:
+          - { key: a, text: "Aufgeben." }
+          - { key: b, text: "Täglich anrufen." }
+          - { key: c, text: "Screenshot machen und den Anspruch schriftlich per Mail geltend machen — mit Flugnummer, Datum und Bestätigung der Verspätung." }
+        answer: c
+        why: "Schriftlich mit den drei Angaben ist der Anspruch wirksam gestellt, auch ohne ihr Formular."
+      - q: "Du bist müde, wütend und der Mitarbeiter kann nichts dafür. — You're tired, angry, and the staff member isn't to blame."
+        options:
+          - { key: a, text: "Ihn spüren lassen, wie schlecht die Airline ist." }
+          - { key: b, text: "Ruhig bleiben und sagen: „Ich weiß, Sie können nichts dafür — was ist von hier aus die beste Option für mich?“" }
+          - { key: c, text: "Nach dem Vorgesetzten verlangen." }
+        answer: b
+        why: "Der Mensch am Schalter hat Spielraum — und benutzt ihn eher für jemanden, der ihn nicht angreift."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Mein Flug hat zwei Stunden {1}. (er kommt später)
+      2. Dadurch verpasse ich meinen {2}. (der zweite Flug)
+      3. Ab zwei Stunden gibt es {3}. (Essen und Trinken auf Kosten der Airline)
+      4. Ich werde auf 18:40 {4}. (auf einen anderen Flug gesetzt)
+      5. Für den fehlenden Koffer gebe ich eine {5} auf. (Meldung über verlorenes Gepäck)
+      6. Ab drei Stunden habe ich Anspruch auf eine {6}. (pauschales Geld)
+    answers:
+      "1": Verspätung
+      "2": Anschluss
+      "3": Verpflegungsgutscheine
+      "4": umgebucht
+      "5": Verlustmeldung
+      "6": Ausgleichszahlung
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Mein Flug hat zwei Stunden {1}. (delay)
+      2. Ich verpasse meinen {2}. (connecting flight)
+      3. Der Koffer ist zwei Kilo {3}. (overweight — Substantiv)
+      4. Hier ist meine {4}. (boarding pass)
+      5. Ich werde auf 18:40 {5}. (rebooked)
+      6. Ab zwei Stunden gibt es {6}. (meal vouchers)
+      7. Ich habe {7} auf eine Ausgleichszahlung. (a claim / entitlement)
+      8. Den {8} stelle ich online. (application)
+      9. Ich möchte eine {9} aufgeben. (lost-luggage report)
+      10. Der Flug {10} wegen des Wetters verschoben. (Passiv: is)
+      11. Können Sie mir sagen, {11} der Flug geht? (when)
+      12. Wissen Sie, {12} ich den Anschluss schaffe? (whether)
+      13. {13} Sie mir die Verspätung bitte bestätigen? (could you)
+      14. {14} der Anschluss weg ist, brauche ich einen Ersatzflug. (since — formal)
+    answers:
+      "1": Verspätung
+      "2": Anschluss
+      "3": Übergepäck
+      "4": Bordkarte
+      "5": umgebucht
+      "6": Verpflegungsgutscheine
+      "7": Anspruch
+      "8": Antrag
+      "9": Verlustmeldung
+      "10": wird
+      "11": wann
+      "12": ob
+      "13": Könnten
+      "14": Da
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Der Tag am Flughafen, dokumentiert"
+    prompt: "Schreib erst die Gespräche am Flughafen (10–12 Sätze), dann die Mail an die Airline (8–10 Sätze)."
+    stimulus: |
+      Flug LH 1234 Berlin–Frankfurt am 14.03., planmäßig 15:20, tatsächlich
+      17:35. Dein Anschluss LH 1180 nach Lissabon war damit weg. Du wurdest
+      auf 18:40 umgebucht und bist um 21:15 angekommen — drei Stunden
+      fünfzig nach der planmäßigen Ankunft. Der Koffer kam nicht mit; du
+      hast noch am Flughafen eine Verlustmeldung aufgegeben, PIR-Nummer
+      LIS12345.
+
+      In den Gesprächen müssen vorkommen:
+      1. die Verspätung ansprechen und nach dem Anschluss fragen
+      2. dich umbuchen lassen
+      3. nach Betreuungsleistungen fragen
+      4. um eine schriftliche Bestätigung bitten
+      5. den fehlenden Koffer melden
+      6. sagen, was du dringend brauchst
+
+      In der Mail müssen vorkommen:
+      7. Flugnummer, Datum und die beiden Zeiten nennen
+      8. den Anspruch auf Ausgleichszahlung geltend machen
+      9. die PIR-Nummer und den Gepäckstand nennen
+      10. eine konkrete Frist setzen
+    use:
+      - "Sie-Form durchgehend"
+      - "indirekte Fragen: `Können Sie mir sagen, wann …?`, `Wissen Sie, ob …?`"
+      - "Passiv: `Ich werde auf … umgebucht.`"
+      - "`Da der Anschluss weg ist, …`"
+      - "`Sehr geehrte Damen und Herren` / `Mit freundlichen Grüßen`"
+    selfCheck:
+      - "Steht bei jeder indirekten Frage das Verb am Ende?"
+      - "Nennt die Mail Flugnummer, Datum und beide Uhrzeiten?"
+      - "Hast du eine konkrete Frist gesetzt — nicht nur „bald“?"
+      - "Kommen alle 10 Punkte vor?"
+    model: |
+      **Am Flughafen**
+
+      Ich: Guten Tag, mein Flug nach Frankfurt hat über zwei Stunden Verspätung. Wissen Sie, ob ich meinen Anschluss nach Lissabon noch schaffe?
+      Schalter: Das wird nichts, der geht um 18:05. Ich buche Sie auf 18:40 um.
+      Ich: Komme ich damit heute noch an?
+      Schalter: Ja, Ankunft 21:15. Sie werden automatisch neu eingecheckt.
+      Ich: Gut. Bekomme ich etwas für die Wartezeit?
+      Schalter: Ab zwei Stunden gibt es Verpflegungsgutscheine, hier sind zwei.
+      Ich: Danke. Könnten Sie mir die Verspätung bitte schriftlich bestätigen? Ich brauche es für den Antrag.
+      Schalter: Natürlich, ich drucke Ihnen das aus.
+
+      (in Lissabon)
+
+      Ich: Guten Abend, mein Koffer ist nicht auf dem Band gekommen. Ich möchte eine Verlustmeldung aufgeben.
+      Gepäckschalter: Gern, Bordkarte und Gepäckschein bitte. … Hier ist Ihre PIR-Nummer: LIS12345.
+      Ich: Danke. Im Koffer sind meine Medikamente — was können Sie mir für heute Nacht anbieten?
+      Gepäckschalter: Sie bekommen ein Notfallpaket und können Nötigstes bis 100 € einreichen.
+
+      **Die Mail**
+
+      Betreff: Ausgleichszahlung und Gepäckverspätung — LH 1234 / LH 1180
+      am 14.03., PIR LIS12345
+
+      Sehr geehrte Damen und Herren,
+
+      am 14.03. war ich auf den Flügen LH 1234 (Berlin–Frankfurt,
+      planmäßig 15:20, tatsächlich 17:35) und LH 1180 (Frankfurt–Lissabon)
+      gebucht. Da sich der erste Flug verspätete, habe ich den Anschluss
+      nicht erreicht und wurde auf den Flug um 18:40 umgebucht. Die
+      Ankunft in Lissabon erfolgte um 21:15 und damit drei Stunden und
+      fünfzig Minuten nach der planmäßigen Ankunftszeit.
+
+      Ich mache hiermit meinen Anspruch auf die Ausgleichszahlung
+      geltend. Die Bestätigung der Verspätung durch Ihren Schalter füge
+      ich bei.
+
+      Außerdem ist mein aufgegebenes Gepäck nicht angekommen. Die
+      Verlustmeldung habe ich noch am Flughafen aufgenommen,
+      PIR-Nummer LIS12345; der Koffer ist bis heute nicht zugestellt.
+
+      Ich bitte Sie um eine Rückmeldung bis zum 05.04. sowie um
+      Mitteilung, wann das Gepäck nachgeliefert wird.
+
+      Mit freundlichen Grüßen
+      C. Marchetti

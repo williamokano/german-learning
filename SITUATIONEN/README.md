@@ -211,14 +211,26 @@ Same discipline as a `THEMEN/` set:
   Unterschied zwischen Kulanz und Mangel, Bon, Gutschein statt Geld.
 - **29 — Beim Zahnarzt** (A2) — Schmerzen genau schildern, Notfalltermin,
   Betäubung, Heil- und Kostenplan, Bonusheft und Eigenanteil.
+- **30 — Beim Bäcker am Morgen** (A1) — die zehn Sätze, die jeden Morgen
+  funktionieren müssen: anstehen, Zahl und Sorte, Preis, vorbestellen.
+- **31 — Im Kino** (A2) — sich verabreden, Karten und Plätze, OmU oder
+  synchronisiert, um Ruhe bitten, hinterher über den Film reden.
+- **32 — Im Hotel** (A2) — einchecken, Frühstück und WLAN, ein Problem im
+  Zimmer melden, später auschecken, die Rechnung prüfen.
+- **33 — Am Flughafen** (B1) — Übergepäck, Verspätung und verpasster
+  Anschluss, Umbuchung und Betreuungsleistungen, verlorener Koffer,
+  Ausgleichszahlung.
+- **34 — Eine Reise mit Freunden planen** (B1) — Termin festlegen, Budget
+  offen ansprechen, Aufgaben verteilen, absagen, sauber abrechnen.
+- **35 — Vorstellungsgespräch** (B1) — die sechs Standardfragen, eine
+  Lücke im Lebenslauf erklären, Gehalt nennen, selbst fragen, nachfassen.
 
 ## Themenspeicher
 
 Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
 wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 
-**Essen & Trinken** — Beim Bäcker am Morgen: Schlange, Vorbestellung,
-Sonntagsbrötchen (A1) · Tisch reservieren und umbuchen · Lieferdienst:
+**Essen & Trinken** — Tisch reservieren und umbuchen · Lieferdienst:
 falsche Bestellung · Biergarten und Volksfest · Die Rechnung: zusammen oder
 getrennt? · Im Imbiss und am Dönerstand · Beim Eismann mit Kindern
 
@@ -227,14 +239,12 @@ Online bestellt, falsch geliefert: Widerruf · Ein Buch kaufen · Ein Auto kaufe
 (B1) · Eine Wohnung kaufen (B2)
 
 **Unterwegs** — Größere Reparatur in der Werkstatt · Am Bahnhof: Verspätung, Anschluss verpasst, Fahrgastrechte
-(B1) · Am Flughafen: Check-in, Gepäck weg, Flug annulliert · Tanken und E-Auto laden ·
+(B1) · Tanken und E-Auto laden ·
 Mietwagen abholen und Schaden melden · Falsch geparkt: Knöllchen und
-Abschleppdienst · Verkehrskontrolle und Unfall melden · Führerschein machen ·
-Hotel: buchen, einchecken, reklamieren · Eine Reise mit Freunden planen
+Abschleppdienst · Verkehrskontrolle und Unfall melden · Führerschein machen
 
-**Freizeit & Kultur** — Im Kino · Am See und im Freibad · Einem Verein
-beitreten · Wandern und Klettern · Im Zoo mit Kindern · Ein Fußballspiel
-im Stadion
+**Freizeit & Kultur** — Am See und im Freibad · Einem Verein beitreten ·
+Wandern und Klettern · Im Zoo mit Kindern · Ein Fußballspiel im Stadion
 
 **Sport & Gesundheit** — Im Fitnessstudio: trainieren, Gerät abgeben, um
 Hilfestellung bitten, Tipps geben und abwehren (A2) ·
@@ -258,7 +268,7 @@ Geldautomat behält die Karte · Handy verloren: Anzeige bei der Polizei ·
 Internet fällt aus: Anruf beim Anbieter · Fundbüro · Portemonnaie vergessen
 
 **Arbeit & Studium** — In der Schule: Elterngespräch, Entschuldigung,
-Klassenfahrt (A2) · Vorstellungsgespräch (B1) · Erster Arbeitstag ·
+Klassenfahrt (A2) · Erster Arbeitstag ·
 Um eine Gehaltserhöhung bitten (B2) · Urlaub beantragen · Konflikt mit
 Kolleginnen ansprechen (B2) · Kündigung schreiben · Uni: Immatrikulation,
 Prüfungsamt, BAföG
