@@ -111,11 +111,11 @@ when writing a set:
 ## German quotes in YAML — the one recurring trap
 
 German quotation marks are `„…“`, and the closing one is **not** a straight
-`"`. Writing `„so"` inside a double-quoted YAML scalar ends the scalar early
+`"`. Writing `„so“` inside a double-quoted YAML scalar ends the scalar early
 and the file fails to parse:
 
 ```yaml
-why: "„Stimmt so" ist die Formel."   # breaks: the " after `so` closes it
+why: "„Stimmt so“ ist die Formel."   # breaks: the " after `so` closes it
 ```
 
 Two ways out, both fine:
@@ -170,23 +170,45 @@ Same discipline as a `THEMEN/` set:
   Begegnungen: nach der Abteilung fragen, ein ausgeliehenes Buch
   vormerken, um Ruhe bitten, den Platz freihalten lassen.
 - **13 — Trainieren im Studio** (A2) — auf der Trainingsfläche statt am
-  Vertrag: „Bist du hier noch dran?", abwechseln, Hilfestellung, Tipps
+  Vertrag: „Bist du hier noch dran?“, abwechseln, Hilfestellung, Tipps
   annehmen und abwehren, Gerät abwischen.
+
+- **14 — Beim Metzger** (A2) — Fleischsorten und Schnitte, Menge und
+  Verpackung, „haben wir gerade nicht“, Bestellung für das Wochenende.
+- **15 — Hausverwaltung und Hausmeister im Alltag** (A2) — der brummende
+  Exhaustor, das Ablesen des Wasserzählers, ein Hund im Vertrag, eine
+  zweite Person auf dem Mietvertrag.
+- **16 — Der Handwerker kommt** (A2) — Termin annehmen, einlassen, zeigen
+  wo es ist, Rückfragen beantworten, am Ende unterschreiben; Zähler,
+  Rauchmelder, verstopfter Abfluss.
+- **17 — Am Tresen** (A2) — Bäckerei und Coffee to go: hier essen oder
+  mitnehmen, warm machen, sonst noch etwas, Tüte, zahlen; falscher
+  Kaffee, fehlendes Brötchen, ein Teil doch nicht.
+- **18 — Nebenan** (A2) — sich vorstellen, ein Paket annehmen, etwas
+  ausleihen, wegen Lärm klingeln, ein Fest ankündigen, absagen.
+- **19 — Auszug** (B1) — fristgerecht kündigen, Übergabetermin,
+  Protokoll lesen, Kaution einfordern.
+- **20 — An der Uni** (A2) — ist der Platz frei, welcher Raum, was habe
+  ich verpasst, Notizen leihen, Lerngruppe, verpasste Abgabe.
+- **21 — Wohnungsbesichtigung** (B1) — Inserat lesen, die richtigen
+  Fragen stellen, überzeugen ohne sich anzubiedern, nachfassen.
+- **22 — Beim Bürgeramt** (A2) — Termin, Formular, am Schalter
+  buchstabieren, Unterlage nachreichen, Meldebescheinigung.
+- **23 — Verträge kündigen** (B1) — Frist und Form, Kündigungsbutton,
+  Sonderkündigungsrecht, Rückhalteanruf, Bestätigung einfordern.
 
 ## Themenspeicher
 
 Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
 wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 
-**Essen & Trinken** — Beim Metzger: Fleischsorten, Schnittstärke, Verpackung,
-"haben wir gerade nicht" (A2) · Beim Bäcker (A1) · Im Café, die zweite Runde:
-aufwärmen lassen, hier essen oder mitnehmen, Tüte, ein Teil der Bestellung
-stimmt nicht, umtauschen (A2) · Tisch reservieren und umbuchen · Lieferdienst: falsche Bestellung ·
-Biergarten und Volksfest · Die Rechnung: zusammen oder getrennt?
+**Essen & Trinken** — Beim Bäcker am Morgen: Schlange, Vorbestellung,
+Sonntagsbrötchen (A1) · Tisch reservieren und umbuchen · Lieferdienst:
+falsche Bestellung · Biergarten und Volksfest · Die Rechnung: zusammen oder
+getrennt? · Im Imbiss und am Dönerstand · Beim Eismann mit Kindern
 
 **Einkaufen** — Im Einkaufszentrum / in den Arcaden · Kleidung umtauschen und
-reklamieren · Paket abholen (Packstation, Nachbarn) · Handyvertrag abschließen
-und kündigen · Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
+reklamieren · Paket abholen (Packstation, Nachbarn) · Handyvertrag abschließen · Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
 Online bestellt, falsch geliefert: Widerruf · Ein Buch kaufen · Ein Auto kaufen
 (B1) · Eine Wohnung kaufen (B2)
 
@@ -204,33 +226,24 @@ Wandern und Klettern
 Hilfestellung bitten, Tipps geben und abwehren (A2) · In der Apotheke (A2) ·
 Notaufnahme und Notruf · Beim Zahnarzt · Krankschreibung beim Arbeitgeber
 
-**Wohnen & Nachbarschaft** — Mit der Hausverwaltung und dem Hausmeister:
-Kleinigkeiten melden, Termin ausmachen, jemanden in den Vertrag aufnehmen,
-fragen, ob ein Hund erlaubt ist (A2/B1) · Handwerkerbesuch: Termin, Zugang zur
-Wohnung, Ablesen des Wasserzählers, Rauchmelder prüfen, verstopfter Abfluss
-(A2) · Auszug: Kündigung, Übergabe, Kaution zurück (B1) ·
-Gespräch mit den Nachbarn (A2) ·
-Wohnungsbesichtigung und Bewerbung um eine Wohnung (B1) · Mängel melden:
+**Wohnen & Nachbarschaft** — Mängel melden:
 Heizung, Schimmel, Wasserschaden (B1) · Hausordnung: Ruhezeiten, Waschküche,
 Mülltrennung · Umzug organisieren · Handwerker bestellen ·
 Nebenkostenabrechnung prüfen und widersprechen (B2)
 
-**Behörden & Formelles** — Bürgeramt: An-, Um- und Abmeldung (A2) ·
-Krankenkasse: anmelden und wechseln · Bank: Konto eröffnen, Karte gesperrt · Rundfunkbeitrag ·
+**Behörden & Formelles** — Krankenkasse: anmelden und wechseln · Bank: Konto eröffnen, Karte gesperrt · Rundfunkbeitrag ·
 Standesamt · Kita-Platz beantragen · Führungszeugnis · Anerkennung
 ausländischer Abschlüsse · Arbeitsagentur und Jobcenter
 
-**Geld & Verträge** — Vertrag kündigen (Handy, Strom, Fitness) ·
-Stromanbieter wechseln · Versicherung: Schaden melden · Falsche Mahnung ·
+**Geld & Verträge** — Stromanbieter wechseln · Versicherung: Schaden melden · Falsche Mahnung ·
 Betrug und Phishing melden
 
 **Wenn etwas schiefgeht** — Karte wird abgelehnt, nur Bargeld ·
 Geldautomat behält die Karte · Handy verloren: Anzeige bei der Polizei ·
 Internet fällt aus: Anruf beim Anbieter · Fundbüro · Portemonnaie vergessen
 
-**Arbeit & Studium** — Uni und Schule im Alltag: jemanden nach dem Raum fragen,
-Mitschrift leihen, sich für eine Gruppenarbeit verabreden, eine Frage in der
-Sprechstunde (A2/B1) · Vorstellungsgespräch (B1) · Erster Arbeitstag ·
+**Arbeit & Studium** — In der Schule: Elterngespräch, Entschuldigung,
+Klassenfahrt (A2) · Vorstellungsgespräch (B1) · Erster Arbeitstag ·
 Um eine Gehaltserhöhung bitten (B2) · Urlaub beantragen · Konflikt mit
 Kolleginnen ansprechen (B2) · Kündigung schreiben · Uni: Immatrikulation,
 Prüfungsamt, BAföG
@@ -240,5 +253,5 @@ Einladen und absagen · Sich höflich beschweren · Sich entschuldigen und ein
 Missverständnis klären · Gratulieren und kondolieren · Jemanden kennenlernen ·
 Elternabend
 
-Die Kategorien `Arbeit & Studium` und `Soziales` stehen noch nicht in
-`CATEGORY_ORDER` — beim ersten Set dort ergänzen.
+Die Kategorie `Soziales` steht noch nicht in `CATEGORY_ORDER` — beim
+ersten Set dort ergänzen. `Arbeit & Studium` ist mit Set 20 dazugekommen.
