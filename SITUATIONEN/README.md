@@ -196,6 +196,21 @@ Same discipline as a `THEMEN/` set:
   buchstabieren, Unterlage nachreichen, Meldebescheinigung.
 - **23 — Verträge kündigen** (B1) — Frist und Form, Kündigungsbutton,
   Sonderkündigungsrecht, Rückhalteanruf, Bestätigung einfordern.
+- **24 — In der Apotheke** (A2) — Rezept einlösen, sich ohne Rezept
+  beraten lassen, Dosierung verstehen; nicht lieferbar, Nebenwirkungen,
+  Notdienst.
+- **25 — Auf dem Wochenmarkt** (A2) — Mengen, Reife, probieren, was man
+  mit einem unbekannten Gemüse macht, Tüte und Wechselgeld, der kurze
+  Plausch am Stand.
+- **26 — Im Museum** (A2) — Ticket und Ermäßigung, Garderobe und
+  Audioguide, fotografieren dürfen, den Saal finden, über ein Bild reden.
+- **27 — Auf einem Konzert** (B1) — personalisiertes Ticket und
+  Zweitmarkt, Einlass und Bändchen, Sicht und Gedränge, Treffpunkt
+  ausmachen, hinterher darüber erzählen.
+- **28 — Kleidung** (A2) — anprobieren, umtauschen und reklamieren: der
+  Unterschied zwischen Kulanz und Mangel, Bon, Gutschein statt Geld.
+- **29 — Beim Zahnarzt** (A2) — Schmerzen genau schildern, Notfalltermin,
+  Betäubung, Heil- und Kostenplan, Bonusheft und Eigenanteil.
 
 ## Themenspeicher
 
@@ -207,8 +222,7 @@ Sonntagsbrötchen (A1) · Tisch reservieren und umbuchen · Lieferdienst:
 falsche Bestellung · Biergarten und Volksfest · Die Rechnung: zusammen oder
 getrennt? · Im Imbiss und am Dönerstand · Beim Eismann mit Kindern
 
-**Einkaufen** — Im Einkaufszentrum / in den Arcaden · Kleidung umtauschen und
-reklamieren · Paket abholen (Packstation, Nachbarn) · Handyvertrag abschließen · Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
+**Einkaufen** — Im Einkaufszentrum / in den Arcaden · Paket abholen (Packstation, Nachbarn) · Handyvertrag abschließen · Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
 Online bestellt, falsch geliefert: Widerruf · Ein Buch kaufen · Ein Auto kaufen
 (B1) · Eine Wohnung kaufen (B2)
 
@@ -218,13 +232,14 @@ Mietwagen abholen und Schaden melden · Falsch geparkt: Knöllchen und
 Abschleppdienst · Verkehrskontrolle und Unfall melden · Führerschein machen ·
 Hotel: buchen, einchecken, reklamieren · Eine Reise mit Freunden planen
 
-**Freizeit & Kultur** — Im Museum · Im Kino · Am See und im Freibad ·
-In der Bibliothek (A2) · Auf einem Konzert · Einem Verein beitreten ·
-Wandern und Klettern
+**Freizeit & Kultur** — Im Kino · Am See und im Freibad · Einem Verein
+beitreten · Wandern und Klettern · Im Zoo mit Kindern · Ein Fußballspiel
+im Stadion
 
 **Sport & Gesundheit** — Im Fitnessstudio: trainieren, Gerät abgeben, um
-Hilfestellung bitten, Tipps geben und abwehren (A2) · In der Apotheke (A2) ·
-Notaufnahme und Notruf · Beim Zahnarzt · Krankschreibung beim Arbeitgeber
+Hilfestellung bitten, Tipps geben und abwehren (A2) ·
+Notaufnahme und Notruf · Krankschreibung beim Arbeitgeber ·
+Physiotherapie: Rezept, Termine, Übungen
 
 **Wohnen & Nachbarschaft** — Mängel melden:
 Heizung, Schimmel, Wasserschaden (B1) · Hausordnung: Ruhezeiten, Waschküche,
