@@ -137,7 +137,7 @@ Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht geb
 
 > — Entschuldigung, in welcher (1) ______ finde ich Romane auf Deutsch?
 > — Erster Stock, (2) ______ den Fenstern. Suchen Sie etwas Bestimmtes?
-> — Ja, „Der Vorleser". Steht der da?
+> — Ja, „Der Vorleser“. Steht der da?
 > — Moment, ich schaue nach … Der ist gerade (3) ______.
 > — Und wann kommt er (4) ______?
 > — Am Donnerstag. Soll ich ihn für Sie (5) ______?
@@ -212,9 +212,9 @@ Ergänze die Lücken.
 9. Die Bibliothek macht um zehn Uhr ______. (aufmachen)
 
 **Redemittel (3 Punkte):**
-10. „Kann ich die Leihfrist online ______?"
-11. „Könnte ich das Buch ______ lassen?"
-12. „Wäre eine ______ möglich?"
+10. „Kann ich die Leihfrist online ______?“
+11. „Könnte ich das Buch ______ lassen?“
+12. „Wäre eine ______ möglich?“
 
 _10+ / 12 → du kommst in der Bibliothek klar. Unter 10: Block A und B4 noch einmal._
 

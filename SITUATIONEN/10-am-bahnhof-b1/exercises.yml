@@ -9,7 +9,7 @@ intro: >
   Minuten zu spät ist, der Anschluss weg ist und niemand am Schalter
   steht. Dann zählt, ob du die Fahrgastrechte kennst und den Antrag
   richtig ausfüllst. Grammatik nach Bedarf: Passiv und Nominalstil in
-  Durchsagen („wird bereitgestellt", „mit einer Verspätung von"),
+  Durchsagen („wird bereitgestellt“, „mit einer Verspätung von“),
   Konjunktiv II für höfliche Bitten, Perfekt für den Ablauf. Blocks:
   A Wortschatz & Redemittel → B Dialoge → C Wenn es schiefgeht →
   D Wiederholung. Answers in solutions.md.
@@ -65,14 +65,14 @@ exercises:
     instructions: "Ergänze das fehlende Wort."
     instructionsEn: "Fill in the missing word."
     text: |
-      1. „Der ICE 573 nach München hat voraussichtlich 40 Minuten {1}."
-      2. „Der Zug {2} heute von Gleis 8 statt Gleis 3."
-      3. „Bitte beachten Sie die {3} Wagenreihung."
-      4. „Der Anschlusszug nach Nürnberg wird {4}."
-      5. „Wegen einer Streckensperrung {5} zwischen Fulda und Kassel Busse."
-      6. „Wir bitten um Ihr {6} für die Unannehmlichkeiten."
-      7. „Der Zug endet hier. Bitte {7} Sie alle aus."
-      8. „Bitte {8} Sie Ihre Fahrkarten bereit."
+      1. „Der ICE 573 nach München hat voraussichtlich 40 Minuten {1}.“
+      2. „Der Zug {2} heute von Gleis 8 statt Gleis 3.“
+      3. „Bitte beachten Sie die {3} Wagenreihung.“
+      4. „Der Anschlusszug nach Nürnberg wird {4}.“
+      5. „Wegen einer Streckensperrung {5} zwischen Fulda und Kassel Busse.“
+      6. „Wir bitten um Ihr {6} für die Unannehmlichkeiten.“
+      7. „Der Zug endet hier. Bitte {7} Sie alle aus.“
+      8. „Bitte {8} Sie Ihre Fahrkarten bereit.“
     answers:
       "1": Verspätung
       "2": fährt
@@ -395,11 +395,11 @@ exercises:
       9. Der gebuchte Platz im Zug: die {9}
 
       **Redemittel (5 Punkte):**
-      10. Am Schalter: „Welche Verbindung {10} Sie mir anbieten?"
-      11. Beleg: „Ich hätte gern eine {11} über die Verspätung."
-      12. Antrag: „Ich möchte eine Entschädigung {12}."
-      13. Anlagen: „Bitte {13} Sie die Belege bei."
-      14. Ablehnung: „Ich {14} der Ablehnung."
+      10. Am Schalter: „Welche Verbindung {10} Sie mir anbieten?“
+      11. Beleg: „Ich hätte gern eine {11} über die Verspätung.“
+      12. Antrag: „Ich möchte eine Entschädigung {12}.“
+      13. Anlagen: „Bitte {13} Sie die Belege bei.“
+      14. Ablehnung: „Ich {14} der Ablehnung.“
     answers:
       "1": "60"
       "2": "120"

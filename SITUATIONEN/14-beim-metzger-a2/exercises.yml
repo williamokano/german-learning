@@ -1,0 +1,446 @@
+lesson: "SIT/14-beim-metzger-a2"
+title: "Beim Metzger — A2"
+topic: "Beim Metzger"
+category: "Essen & Trinken"
+level: A2
+summary: "Fleischsorten und Schnitte, Menge und Dicke, einschweißen lassen — und was man sagt, wenn es gerade aus ist."
+intro: >
+  An der Theke wird nicht gezeigt, sondern gesagt: welche Sorte, welcher
+  Schnitt, wie viel, wie dick, wie verpackt. Genau das übt dieses Set —
+  plus die kleinen Gespräche, die dazugehören: eine Empfehlung erfragen,
+  nach der Zubereitung fragen, hören, dass etwas heute aus ist, und
+  etwas anderes nehmen. Grammatik nach Bedarf: Mengenangaben ohne
+  Artikel, Komparativ (dünner, dicker, magerer), höfliche Bitten.
+  Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn es schiefgeht →
+  D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Welches Tier?"
+    instructions: "Sortiere die 12 Produkte."
+    instructionsEn: "Sort the 12 products."
+    buckets:
+      - { key: rind, label: "Rind" }
+      - { key: schwein, label: "Schwein" }
+      - { key: gefluegel, label: "Geflügel" }
+    tokens:
+      - { text: "das Rumpsteak", bucket: rind }
+      - { text: "das Kotelett", bucket: schwein }
+      - { text: "die Hähnchenbrust", bucket: gefluegel }
+      - { text: "die Rinderroulade", bucket: rind }
+      - { text: "der Schweinebraten", bucket: schwein }
+      - { text: "die Putenschnitzel", bucket: gefluegel }
+      - { text: "das Gulasch vom Rind", bucket: rind }
+      - { text: "der Schinken", bucket: schwein }
+      - { text: "die Hähnchenkeule", bucket: gefluegel }
+      - { text: "die Rinderbrühe", bucket: rind }
+      - { text: "die Bratwurst", bucket: schwein }
+      - { text: "das Entenbrustfilet", bucket: gefluegel }
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Menge, Schnitt, Verpackung"
+    instructions: "Ergänze das fehlende Wort."
+    instructionsEn: "Fill in the missing word."
+    text: |
+      1. Ich hätte gern 300 {1} Hackfleisch. (Gewichtseinheit)
+      2. Bitte vier {2} Schnitzel. (einzelne Stücke)
+      3. Können Sie es etwas {3} schneiden? (nicht so dick)
+      4. Bitte {4} Sie es mir ein. (luftdicht verpacken)
+      5. Ein {5} Bratwürste, bitte. (zwei Stück zusammen)
+      6. Nehmen Sie lieber das {6} Fleisch, das ist weniger fett. (mager)
+      7. Darf es ein bisschen {7} sein? (etwas über der gewünschten Menge)
+      8. Bitte alles {8} verpacken. (getrennt, nicht zusammen)
+    answers:
+      "1": Gramm
+      "2": Stück
+      "3": dünner
+      "4": schweißen
+      "5": Paar
+      "6": magere
+      "7": mehr
+      "8": einzeln
+
+  - id: A3
+    block: A
+    type: matching
+    title: "Frage und Antwort an der Theke"
+    instructions: "Ordne jede Äußerung (1–8) der passenden Reaktion (a–h) zu."
+    instructionsEn: "Match each utterance (1–8) with the fitting response (a–h)."
+    left:
+      - { key: "1", text: "Was darf es sein?" }
+      - { key: "2", text: "Darf es ein bisschen mehr sein?" }
+      - { key: "3", text: "Was können Sie heute empfehlen?" }
+      - { key: "4", text: "Wie lange muss das in den Ofen?" }
+      - { key: "5", text: "Sonst noch etwas?" }
+      - { key: "6", text: "Möchten Sie es eingeschweißt?" }
+      - { key: "7", text: "Haben Sie auch Lammfleisch?" }
+      - { key: "8", text: "Soll ich es in Scheiben schneiden?" }
+    right:
+      - { key: a, text: "Ja, gern — ich friere die Hälfte ein." }
+      - { key: b, text: "Ich hätte gern 300 Gramm Hackfleisch, gemischt." }
+      - { key: c, text: "Etwa 90 Minuten bei 180 Grad." }
+      - { key: d, text: "Nur wenn es nicht viel teurer wird." }
+      - { key: e, text: "Nein danke, das war's." }
+      - { key: f, text: "Der Schweinebraten ist heute besonders gut." }
+      - { key: g, text: "Ja bitte, nicht zu dick." }
+      - { key: h, text: "Nur auf Bestellung, freitags." }
+    answers:
+      "1": b
+      "2": d
+      "3": f
+      "4": c
+      "5": e
+      "6": a
+      "7": h
+      "8": g
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Komparativ an der Theke"
+    instructions: "Ergänze den Komparativ."
+    instructionsEn: "Fill in the comparative."
+    text: |
+      1. Könnten Sie die Scheiben etwas {1} schneiden? (dünn)
+      2. Haben Sie auch ein {2} Stück? (groß)
+      3. Ich hätte gern etwas {3} Fleisch. (mager)
+      4. Rind ist meistens {4} als Schwein. (teuer)
+      5. Nehmen Sie die Keule — die ist {5} als die Brust. (saftig)
+      6. Geht es auch ein bisschen {6}? (wenig)
+    answers:
+      "1": dünner
+      "2": größeres
+      "3": magereres
+      "4": teurer
+      "5": saftiger
+      "6": weniger
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "An der Theke: die ganze Bestellung"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Der Nächste, bitte! Was darf es {1}?
+      — Guten Tag. Ich hätte gern 300 {2} Hackfleisch, gemischt.
+      — Gern. … Es sind 320 Gramm geworden — darf es ein bisschen
+      {3} sein?
+      — Ja, passt. Dann noch vier {4} Schnitzel vom Schwein.
+      — Soll ich die {5} klopfen?
+      — Ja, bitte. Und nicht zu {6}.
+      — Alles klar. {7} noch etwas?
+      — Was können Sie heute {8}?
+      — Der Rinderbraten ist sehr gut. Für vier Personen etwa ein Kilo.
+      — Dann nehme ich ein Kilo. Können Sie mir sagen, wie lange der in
+      den {9} muss?
+      — Etwa 90 Minuten bei 180 Grad. Möchten Sie alles {10}
+      verpackt?
+      — Ja bitte, dann kann ich die Hälfte einfrieren.
+    bank: [SEIN, GRAMM, MEHR, STÜCK, SCHNITZEL, DICK, SONST, EMPFEHLEN, OFEN, EINZELN, WOHER, KILO, KAUFEN, SCHNEIDEN]
+    answers:
+      "1": SEIN
+      "2": GRAMM
+      "3": MEHR
+      "4": STÜCK
+      "5": SCHNITZEL
+      "6": DICK
+      "7": SONST
+      "8": EMPFEHLEN
+      "9": OFEN
+      "10": EINZELN
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Wie sagt man das?"
+    instructions: "Wähle die Variante, die an der Theke natürlich klingt."
+    instructionsEn: "Choose the variant that sounds natural at the counter."
+    items:
+      - q: "Du willst 300 g Hackfleisch. — You want 300 g of mince."
+        options:
+          - { key: a, text: "Geben Sie mir Hackfleisch." }
+          - { key: b, text: "Ich hätte gern 300 Gramm Hackfleisch." }
+          - { key: c, text: "300 Gramm." }
+        answer: b
+        why: '„Ich hätte gern“ plus Menge plus Ware — die Standardbestellung an jeder deutschen Theke.'
+      - q: "Es sind 340 g statt 300 g geworden. — It came to 340 g instead of 300 g."
+        options:
+          - { key: a, text: "Nein, genau 300." }
+          - { key: b, text: "Das ist zu viel." }
+          - { key: c, text: "Ja, das passt so." }
+        answer: c
+        why: '„Darf es ein bisschen mehr sein?“ ist eine echte Frage — man darf ruhig ja oder nein sagen, aber freundlich.'
+      - q: "Du weißt nicht, welches Stück du brauchst. — You don't know which cut you need."
+        options:
+          - { key: a, text: "Ich möchte Fleisch für einen Braten für vier Personen. Was würden Sie nehmen?" }
+          - { key: b, text: "Irgendwas zum Braten." }
+          - { key: c, text: "Was ist billig?" }
+        answer: a
+        why: 'Sag, wofür und für wie viele — dann bekommst du den passenden Schnitt und die richtige Menge.'
+      - q: "Du willst dünnere Scheiben. — You want thinner slices."
+        options:
+          - { key: a, text: "Könnten Sie die Scheiben etwas dünner schneiden?" }
+          - { key: b, text: "Nicht so dick!" }
+          - { key: c, text: "Schneiden Sie dünn." }
+        answer: a
+        why: 'Höfliche Bitte im Konjunktiv plus Komparativ — genau die Form für Sonderwünsche.'
+      - q: "Du willst die Hälfte einfrieren. — You want to freeze half of it."
+        options:
+          - { key: a, text: "Ich friere das ein." }
+          - { key: b, text: "Könnten Sie es bitte einzeln einschweißen? Ich friere die Hälfte ein." }
+          - { key: c, text: "In zwei Tüten, bitte." }
+        answer: b
+        why: '„Einzeln einschweißen“ ist die genaue Bitte — und der Grund macht sie sofort verständlich.'
+      - q: "Du willst wissen, ob das Fleisch aus der Region kommt. — You want to know if the meat is local."
+        options:
+          - { key: a, text: "Ist das gutes Fleisch?" }
+          - { key: b, text: "Wo kommt das Fleisch her?" }
+          - { key: c, text: "Woher stammt das Rindfleisch?" }
+        answer: c
+        why: '„Woher stammt …?“ ist die übliche Frage nach der Herkunft — Metzger antworten darauf gern und genau.'
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze an der Theke bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "hätte", "gern", "300", "Gramm", "Hackfleisch"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Mengenangabe ohne Artikel vor der Ware"
+      - tiles: ["Könnten", "Sie", "die", "Scheiben", "etwas", "dünner", "schneiden", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Höfliche Bitte, Infinitiv am Ende"
+      - tiles: ["Bitte", "schweißen", "Sie", "alles", "einzeln", "ein"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Trennverb ein·schweißen: ein am Satzende"
+      - tiles: ["Was", "können", "Sie", "heute", "empfehlen", "?"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "W-Frage mit Modalverb, Infinitiv am Ende"
+      - tiles: ["Wie", "lange", "muss", "der", "Braten", "in", "den", "Ofen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "in + Akkusativ: Richtung"
+      - tiles: ["Woher", "stammt", "das", "Rindfleisch", "?"]
+        answer: [0, 1, 2, 3, 4]
+        note: "W-Frage: Fragewort, dann Verb"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Das Schild an der Theke lesen"
+    instructions: |
+      > **Metzgerei Kern — Angebote diese Woche**
+      >
+      > - Hackfleisch gemischt (Rind/Schwein) — 9,90 € / kg
+      > - Schweineschnitzel — 12,50 € / kg
+      > - Rinderbraten aus der Region — 18,90 € / kg
+      > - Bratwurst, das Paar — 3,20 €
+      > - Hähnchenbrust — 14,40 € / kg
+      >
+      > Mittagstisch: Di–Fr ab 11:30 Uhr, solange der Vorrat reicht.
+      > Lammfleisch nur auf Vorbestellung, Abholung freitags.
+      > Wir schweißen auf Wunsch ein — bitte an der Theke sagen.
+      >
+      > Öffnungszeiten: Di–Fr 7:00–18:00, Sa 7:00–12:30. Montag Ruhetag.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "500 g Hackfleisch kosten 4,95 €. — 500 g of mince costs €4.95."
+        answer: true
+        why: "9,90 € pro Kilo, also die Hälfte für 500 g."
+      - q: "Lammfleisch liegt immer in der Theke. — Lamb is always in the display."
+        answer: false
+        why: "„nur auf Vorbestellung, Abholung freitags“."
+      - q: "Am Montag kann man dort einkaufen. — You can shop there on Monday."
+        answer: false
+        why: "„Montag Ruhetag.“"
+      - q: "Einschweißen kostet extra. — Vacuum-packing costs extra."
+        answer: false
+        why: "„Wir schweißen auf Wunsch ein“ — von Kosten steht nichts da."
+      - q: "Rinderbraten ist das teuerste Angebot pro Kilo. — Beef roast is the most expensive item per kilo."
+        answer: true
+        why: "18,90 € — mehr als Hähnchenbrust (14,40 €) und Schnitzel (12,50 €)."
+      - q: "Am Samstagnachmittag ist noch geöffnet. — They're still open on Saturday afternoon."
+        answer: false
+        why: "Sa nur bis 12:30 Uhr."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn es nicht klappt"
+    instructions: "Was sagst du? Wähle a, b oder c."
+    instructionsEn: "What do you say? Choose a, b, or c."
+    items:
+      - q: "Der Rinderbraten ist heute aus. — The beef roast is sold out today."
+        options:
+          - { key: a, text: "Schade. Was hätten Sie stattdessen für einen Braten?" }
+          - { key: b, text: "Dann nichts." }
+          - { key: c, text: "Warum haben Sie das nicht?" }
+        answer: a
+        why: 'Nach einer Alternative fragen — der Metzger kennt sein Sortiment und schlägt dir etwas Passendes vor.'
+      - q: "Du hast zu Hause gemerkt, dass es das falsche Stück ist. — At home you notice it's the wrong cut."
+        options:
+          - { key: a, text: "Es trotzdem verwenden." }
+          - { key: b, text: "Mit dem Kassenbon zurückgehen und es freundlich ansprechen." }
+          - { key: c, text: "Beim nächsten Mal genauer sagen, was du willst." }
+        answer: b
+        why: 'Bei frischer Ware klärt man das am selben Tag mit dem Bon — kleine Metzgereien regeln das unkompliziert.'
+      - q: "Du weißt nicht, wie das deutsche Wort für den Schnitt heißt. — You don't know the German word for the cut."
+        options:
+          - { key: a, text: "Auf ein anderes Stück zeigen." }
+          - { key: b, text: "Ein anderes Fleisch nehmen." }
+          - { key: c, text: "Beschreiben, wofür du es brauchst: „Ich möchte etwas zum Schmoren, für vier Personen.“" }
+        answer: c
+        why: 'Über die Zubereitung zu beschreiben funktioniert immer — der Metzger übersetzt es in den richtigen Schnitt.'
+      - q: "Vor dir stehen sechs Leute und du hast es eilig. — Six people are ahead of you and you're in a hurry."
+        options:
+          - { key: a, text: "Vordrängeln." }
+          - { key: b, text: "Anstellen — oder wiederkommen. An der Fleischtheke gibt es keine Ausnahme." }
+          - { key: c, text: "Laut rufen, was du willst." }
+        answer: b
+        why: 'An der Theke wird der Reihe nach bedient. „Der Nächste, bitte“ ist die einzige Reihenfolge.'
+      - q: "Die Verkäuferin fragt etwas und du hast es nicht verstanden. — The assistant asks something and you didn't understand."
+        options:
+          - { key: a, text: "Einfach ja sagen." }
+          - { key: b, text: "Entschuldigung, könnten Sie das bitte wiederholen?" }
+          - { key: c, text: "Nicken." }
+        answer: b
+        why: 'Nachfragen ist besser als „ja“ auf eine Frage, die vielleicht „darf es das Doppelte sein?“ war.'
+      - q: "Du möchtest nur ein kleines Stück, es wirkt dir peinlich. — You only want a small piece and feel awkward."
+        options:
+          - { key: a, text: "Mehr kaufen als nötig." }
+          - { key: b, text: "Ruhig sagen: „Nur ein kleines Stück, bitte — für eine Person.“" }
+          - { key: c, text: "In den Supermarkt gehen." }
+        answer: b
+        why: 'Kleine Mengen sind völlig normal. Mit dem Zusatz „für eine Person“ ist alles gesagt.'
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das fehlende Wort."
+    instructionsEn: "Fill in the missing word."
+    text: |
+      1. Der Braten ist heute leider {1}. (nicht mehr da)
+      2. Was hätten Sie {2}? (als Ersatz)
+      3. Ich möchte etwas zum {3}, für vier Personen. (langsam garen)
+      4. Könnten Sie das bitte {4}? (noch einmal sagen)
+      5. Nur ein kleines Stück, bitte — für eine {5}.
+      6. Lammfleisch gibt es nur auf {6}. (vorher bestellen)
+      7. Ich hätte gern alles {7} eingeschweißt. (getrennt)
+      8. Hier ist mein {8}. (Beleg von der Kasse)
+    answers:
+      "1": aus
+      "2": stattdessen
+      "3": Schmoren
+      "4": wiederholen
+      "5": Person
+      "6": Vorbestellung
+      "7": einzeln
+      "8": Kassenbon
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /12)"
+    notes: "10+ / 12 → du kommst an der Theke klar. Unter 10: Block A und B2 noch einmal."
+    instructions: "Ergänze die Lücken."
+    instructionsEn: "Fill in the gaps."
+    text: |
+      **Bestellen (5 Punkte):**
+      1. „Ich {1} gern 300 Gramm Hackfleisch.“
+      2. „Bitte vier {2} Schnitzel.“
+      3. „Könnten Sie die Scheiben etwas {3} schneiden?“
+      4. „Bitte alles {4} einschweißen.“
+      5. „Was können Sie heute {5}?“
+
+      **Wortschatz (4 Punkte):**
+      6. Zwei Bratwürste zusammen: ein {6}
+      7. Fleisch mit wenig Fett: {7}
+      8. Luftdicht verpacken: {8}
+      9. Vorher bestellen, weil es nicht in der Theke liegt: die {9}
+
+      **Wenn es klemmt (3 Punkte):**
+      10. „Der Braten ist heute leider {10}.“
+      11. „Was hätten Sie {11}?“
+      12. „Ich möchte etwas zum {12}, für vier Personen.“
+    answers:
+      "1": hätte
+      "2": Stück
+      "3": dünner
+      "4": einzeln
+      "5": empfehlen
+      "6": Paar
+      "7": mager
+      "8": einschweißen
+      "9": Vorbestellung
+      "10": aus
+      "11": stattdessen
+      "12": Schmoren
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Rollenspiel: Samstagvormittag beim Metzger"
+    prompt: "Schreib das ganze Gespräch an der Theke. 14–18 Sätze."
+    stimulus: |
+      Du kochst am Sonntag für vier Personen. Schreib beide Rollen.
+
+      Diese Momente müssen vorkommen:
+      1. begrüßt werden („Was darf es sein?“)
+      2. eine Menge Hackfleisch bestellen
+      3. auf „Darf es ein bisschen mehr sein?“ antworten
+      4. Schnitzel bestellen und einen Sonderwunsch äußern (dünner, geklopft)
+      5. nach einer Empfehlung für den Sonntagsbraten fragen
+      6. hören, dass das Empfohlene heute aus ist
+      7. nach einer Alternative fragen
+      8. nach der Zubereitung fragen (Zeit und Temperatur)
+      9. einzeln einschweißen lassen und den Grund nennen
+      10. bezahlen und dich verabschieden
+    use:
+      - "`Ich hätte gern … Gramm …`"
+      - "`Könnten Sie …?` für die Sonderwünsche"
+      - "Komparativ (dünner, magerer, größer)"
+      - "Sie-Form durchgehend"
+    selfCheck:
+      - "Stehen die Mengenangaben ohne Artikel (300 Gramm Hackfleisch)?"
+      - "Hast du auf „ein bisschen mehr?“ tatsächlich geantwortet?"
+      - "Hast du nach der Alternative gefragt, als das Erste aus war?"
+      - "Kommen alle 10 Momente vor?"
+    model: |
+      Metzgerin: Der Nächste, bitte! Was darf es sein?
+      Ich: Guten Tag. Ich hätte gern 300 Gramm Hackfleisch, gemischt.
+      Metzgerin: Es sind 330 Gramm geworden — darf es ein bisschen mehr sein?
+      Ich: Ja, das passt so.
+      Metzgerin: Sonst noch etwas?
+      Ich: Vier Stück Schnitzel vom Schwein, bitte. Könnten Sie die etwas dünner schneiden und klopfen?
+      Metzgerin: Mache ich gern.
+      Ich: Ich koche am Sonntag für vier Personen. Was würden Sie für einen Braten empfehlen?
+      Metzgerin: Normalerweise den Rinderbraten aus der Region — der ist heute leider aus.
+      Ich: Schade. Was hätten Sie stattdessen?
+      Metzgerin: Der Schweinebraten ist sehr gut, etwa ein Kilo für vier Personen.
+      Ich: Dann nehme ich ein Kilo. Wie lange muss der in den Ofen?
+      Metzgerin: Etwa 90 Minuten bei 180 Grad.
+      Ich: Danke. Könnten Sie mir bitte alles einzeln einschweißen? Ich friere die Schnitzel ein.
+      Metzgerin: Natürlich. Das macht zusammen 27,40 Euro.
+      Ich: Hier bitte. Vielen Dank und ein schönes Wochenende!
+      Metzgerin: Danke, Ihnen auch. Auf Wiedersehen!

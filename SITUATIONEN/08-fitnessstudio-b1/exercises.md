@@ -27,14 +27,14 @@ Ordne jeden Begriff (1–10) seiner Erklärung (a–j) zu.
 
 Ergänze das Verb, das den Nominalausdruck auflöst.
 
-1. „bei Nichtkündigung" → wenn niemand ______
-2. „nach Ablauf der Mindestlaufzeit" → nachdem die Mindestlaufzeit ______ ist
-3. „unter Vorlage einer Meldebescheinigung" → indem Sie eine Meldebescheinigung ______
-4. „zur Wahrung der Frist" → damit die Frist ______ wird
-5. „bei Zahlungsverzug" → wenn Sie nicht rechtzeitig ______
-6. „nach Eingang der Kündigung" → sobald die Kündigung ______
-7. „bei Vorlage eines ärztlichen Attests" → wenn Sie ein ärztliches Attest ______
-8. „zur Bestätigung des Vertragsendes" → damit wir das Vertragsende ______
+1. „bei Nichtkündigung“ → wenn niemand ______
+2. „nach Ablauf der Mindestlaufzeit“ → nachdem die Mindestlaufzeit ______ ist
+3. „unter Vorlage einer Meldebescheinigung“ → indem Sie eine Meldebescheinigung ______
+4. „zur Wahrung der Frist“ → damit die Frist ______ wird
+5. „bei Zahlungsverzug“ → wenn Sie nicht rechtzeitig ______
+6. „nach Eingang der Kündigung“ → sobald die Kündigung ______
+7. „bei Vorlage eines ärztlichen Attests“ → wenn Sie ein ärztliches Attest ______
+8. „zur Bestätigung des Vertragsendes“ → damit wir das Vertragsende ______
 
 ## Übung A3 — Wer schreibt so: Studio oder Mitglied?
 
@@ -191,17 +191,17 @@ Ergänze die Lücken.
 5. Nachweis, dass die Kündigung ankam: die ______
 
 **Redemittel (5 Punkte):**
-6. Kündigen: „Hiermit ______ ich meinen Vertrag zum nächstmöglichen Termin."
-7. Bestätigung: „Bitte ______ Sie mir das Vertragsende schriftlich."
-8. Sonderkündigung: „Ich mache von meinem Sonderkündigungsrecht ______."
-9. Nachreichen: „Die Meldebescheinigung reiche ich umgehend ______."
-10. Mahnung: „Ich ______ der Forderung."
+6. Kündigen: „Hiermit ______ ich meinen Vertrag zum nächstmöglichen Termin.“
+7. Bestätigung: „Bitte ______ Sie mir das Vertragsende schriftlich.“
+8. Sonderkündigung: „Ich mache von meinem Sonderkündigungsrecht ______.“
+9. Nachreichen: „Die Meldebescheinigung reiche ich umgehend ______.“
+10. Mahnung: „Ich ______ der Forderung.“
 
 **Vertragsdeutsch (4 Punkte):**
-11. „bei Nichtkündigung" → wenn niemand ______
-12. „nach Ablauf der Mindestlaufzeit" → nachdem die Mindestlaufzeit ______ ist
-13. „bei Zahlungsverzug" → wenn Sie nicht rechtzeitig ______
-14. „nach Eingang der Kündigung" → sobald die Kündigung ______
+11. „bei Nichtkündigung“ → wenn niemand ______
+12. „nach Ablauf der Mindestlaufzeit“ → nachdem die Mindestlaufzeit ______ ist
+13. „bei Zahlungsverzug“ → wenn Sie nicht rechtzeitig ______
+14. „nach Eingang der Kündigung“ → sobald die Kündigung ______
 
 _11+ / 14 → du kommst aus dem Vertrag wieder heraus. Unter 11: Block A und B4 noch einmal._
 

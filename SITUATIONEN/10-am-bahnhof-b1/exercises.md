@@ -1,6 +1,6 @@
 # Am Bahnhof: Verspätung und Fahrgastrechte — B1
 
-Ein Ticket kaufen kann jeder. Interessant wird es, wenn der Zug 70 Minuten zu spät ist, der Anschluss weg ist und niemand am Schalter steht. Dann zählt, ob du die Fahrgastrechte kennst und den Antrag richtig ausfüllst. Grammatik nach Bedarf: Passiv und Nominalstil in Durchsagen („wird bereitgestellt", „mit einer Verspätung von"), Konjunktiv II für höfliche Bitten, Perfekt für den Ablauf. Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn es schiefgeht → D Wiederholung. Answers in solutions.md.
+Ein Ticket kaufen kann jeder. Interessant wird es, wenn der Zug 70 Minuten zu spät ist, der Anschluss weg ist und niemand am Schalter steht. Dann zählt, ob du die Fahrgastrechte kennst und den Antrag richtig ausfüllst. Grammatik nach Bedarf: Passiv und Nominalstil in Durchsagen („wird bereitgestellt“, „mit einer Verspätung von“), Konjunktiv II für höfliche Bitten, Perfekt für den Ablauf. Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn es schiefgeht → D Wiederholung. Answers in solutions.md.
 
 ---
 
@@ -27,14 +27,14 @@ Ordne jeden Begriff (1–10) seiner Erklärung (a–j) zu.
 
 Ergänze das fehlende Wort.
 
-1. „Der ICE 573 nach München hat voraussichtlich 40 Minuten ______."
-2. „Der Zug ______ heute von Gleis 8 statt Gleis 3."
-3. „Bitte beachten Sie die ______ Wagenreihung."
-4. „Der Anschlusszug nach Nürnberg wird ______."
-5. „Wegen einer Streckensperrung ______ zwischen Fulda und Kassel Busse."
-6. „Wir bitten um Ihr ______ für die Unannehmlichkeiten."
-7. „Der Zug endet hier. Bitte ______ Sie alle aus."
-8. „Bitte ______ Sie Ihre Fahrkarten bereit."
+1. „Der ICE 573 nach München hat voraussichtlich 40 Minuten ______.“
+2. „Der Zug ______ heute von Gleis 8 statt Gleis 3.“
+3. „Bitte beachten Sie die ______ Wagenreihung.“
+4. „Der Anschlusszug nach Nürnberg wird ______.“
+5. „Wegen einer Streckensperrung ______ zwischen Fulda und Kassel Busse.“
+6. „Wir bitten um Ihr ______ für die Unannehmlichkeiten.“
+7. „Der Zug endet hier. Bitte ______ Sie alle aus.“
+8. „Bitte ______ Sie Ihre Fahrkarten bereit.“
 
 ## Übung A3 — Wo klärst du das?
 
@@ -186,11 +186,11 @@ Ergänze die Lücken.
 9. Der gebuchte Platz im Zug: die ______
 
 **Redemittel (5 Punkte):**
-10. Am Schalter: „Welche Verbindung ______ Sie mir anbieten?"
-11. Beleg: „Ich hätte gern eine ______ über die Verspätung."
-12. Antrag: „Ich möchte eine Entschädigung ______."
-13. Anlagen: „Bitte ______ Sie die Belege bei."
-14. Ablehnung: „Ich ______ der Ablehnung."
+10. Am Schalter: „Welche Verbindung ______ Sie mir anbieten?“
+11. Beleg: „Ich hätte gern eine ______ über die Verspätung.“
+12. Antrag: „Ich möchte eine Entschädigung ______.“
+13. Anlagen: „Bitte ______ Sie die Belege bei.“
+14. Ablehnung: „Ich ______ der Ablehnung.“
 
 _11+ / 14 → du bekommst dein Geld zurück. Unter 11: Block B4 und C noch einmal._
 

@@ -108,6 +108,26 @@ when writing a set:
   extractor fan is broken, when can someone come?" are different situations
   and should not be crammed together.
 
+## German quotes in YAML — the one recurring trap
+
+German quotation marks are `„…“`, and the closing one is **not** a straight
+`"`. Writing `„so"` inside a double-quoted YAML scalar ends the scalar early
+and the file fails to parse:
+
+```yaml
+why: "„Stimmt so" ist die Formel."   # breaks: the " after `so` closes it
+```
+
+Two ways out, both fine:
+
+```yaml
+why: '„Stimmt so“ ist die Formel.'   # single-quoted scalar
+why: "„Stimmt so“ ist die Formel."   # proper closing „…“
+```
+
+Inside a block scalar (`text: |`, `stimulus: |`) a straight `"` parses fine,
+but use `„…“` there too so the rendered text is consistent across sets.
+
 ## Workflow for adding a new set
 
 Same discipline as a `THEMEN/` set:

@@ -65,14 +65,14 @@ exercises:
     instructions: "Ergänze das Verb, das den Nominalausdruck auflöst."
     instructionsEn: "Fill in the verb that resolves the nominal expression."
     text: |
-      1. „nach Eingang Ihrer Unterlagen" → sobald Ihre Unterlagen {1}
-      2. „bei Nichtvorlage der Belege" → wenn Sie die Belege nicht {2}
-      3. „zur Bearbeitung Ihres Antrags" → damit wir Ihren Antrag {3} können
-      4. „nach Prüfung des Sachverhalts" → nachdem wir den Sachverhalt {4} haben
-      5. „unter Beifügung der Nachweise" → indem Sie die Nachweise {5}
-      6. „nach Ablauf der Frist" → nachdem die Frist {6} ist
-      7. „zur Vermeidung von Rückfragen" → damit wir nicht {7} müssen
-      8. „bei Überschreitung des Freibetrags" → wenn Sie den Freibetrag {8}
+      1. „nach Eingang Ihrer Unterlagen“ → sobald Ihre Unterlagen {1}
+      2. „bei Nichtvorlage der Belege“ → wenn Sie die Belege nicht {2}
+      3. „zur Bearbeitung Ihres Antrags“ → damit wir Ihren Antrag {3} können
+      4. „nach Prüfung des Sachverhalts“ → nachdem wir den Sachverhalt {4} haben
+      5. „unter Beifügung der Nachweise“ → indem Sie die Nachweise {5}
+      6. „nach Ablauf der Frist“ → nachdem die Frist {6} ist
+      7. „zur Vermeidung von Rückfragen“ → damit wir nicht {7} müssen
+      8. „bei Überschreitung des Freibetrags“ → wenn Sie den Freibetrag {8}
     answers:
       "1": eingehen
       "2": vorlegen
@@ -389,17 +389,17 @@ exercises:
       5. Das Online-Portal des Finanzamts: {5}
 
       **Formelle Redemittel (5 Punkte):**
-      6. Anrede ohne Namen: „Sehr geehrte {6} und Herren,"
-      7. Widerspruch: „Hiermit {7} ich Einspruch gegen den Bescheid vom … ein."
-      8. Mehr Zeit: „Ich {8} um eine Fristverlängerung bis zum 30.09."
-      9. Angebot am Briefende: „Für Rückfragen stehe ich Ihnen gern zur {9}."
-      10. Schlussformel: „Mit {10} Grüßen"
+      6. Anrede ohne Namen: „Sehr geehrte {6} und Herren,“
+      7. Widerspruch: „Hiermit {7} ich Einspruch gegen den Bescheid vom … ein.“
+      8. Mehr Zeit: „Ich {8} um eine Fristverlängerung bis zum 30.09.“
+      9. Angebot am Briefende: „Für Rückfragen stehe ich Ihnen gern zur {9}.“
+      10. Schlussformel: „Mit {10} Grüßen“
 
       **Behördendeutsch auflösen (4 Punkte):**
-      11. „nach Eingang Ihrer Unterlagen" → sobald Ihre Unterlagen {11}
-      12. „bei Nichtvorlage der Belege" → wenn Sie die Belege nicht {12}
-      13. „nach Ablauf der Frist" → nachdem die Frist {13} ist
-      14. „unter Beifügung der Nachweise" → indem Sie die Nachweise {14}
+      11. „nach Eingang Ihrer Unterlagen“ → sobald Ihre Unterlagen {11}
+      12. „bei Nichtvorlage der Belege“ → wenn Sie die Belege nicht {12}
+      13. „nach Ablauf der Frist“ → nachdem die Frist {13} ist
+      14. „unter Beifügung der Nachweise“ → indem Sie die Nachweise {14}
     answers:
       "1": Steuerbescheid
       "2": Erstattung

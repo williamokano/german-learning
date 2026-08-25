@@ -6,9 +6,9 @@ level: A2
 summary: "Ist das Gerät noch besetzt, wie viele Sätze noch, kannst du mir Hilfestellung geben — die Sätze, die auf der Trainingsfläche wirklich fallen."
 intro: >
   Nicht der Vertrag, sondern die Trainingsfläche. Hier geht es um die
-  kurzen Sätze, die im Studio dauernd fallen: „Bist du hier noch dran?",
-  „Wie viele Sätze hast du noch?", „Kann ich mich dazwischenlegen?",
-  „Kannst du mir kurz Hilfestellung geben?" — dazu Tipps geben, Tipps
+  kurzen Sätze, die im Studio dauernd fallen: „Bist du hier noch dran?“,
+  „Wie viele Sätze hast du noch?“, „Kann ich mich dazwischenlegen?“,
+  „Kannst du mir kurz Hilfestellung geben?“ — dazu Tipps geben, Tipps
   höflich abwehren und die ungeschriebenen Regeln (Gerät abwischen,
   Scheiben wegräumen). Grammatik nach Bedarf: du-Form, trennbare Verben,
   Modalverben für Bitten. Blocks: A Wortschatz & Redemittel → B Dialoge →
@@ -370,12 +370,12 @@ exercises:
     instructionsEn: "Fill in the gaps."
     text: |
       **Die Standardsätze (6 Punkte):**
-      1. „Bist du hier noch {1}?"
-      2. „Wie viele {2} hast du noch?"
-      3. „Können wir uns {3}?"
-      4. „Kannst du mir kurz {4} geben?"
-      5. „Wie viel hast du {5}?"
-      6. „Brauchst du die Scheiben {6}?"
+      1. „Bist du hier noch {1}?“
+      2. „Wie viele {2} hast du noch?“
+      3. „Können wir uns {3}?“
+      4. „Kannst du mir kurz {4} geben?“
+      5. „Wie viel hast du {5}?“
+      6. „Brauchst du die Scheiben {6}?“
 
       **Wortschatz (4 Punkte):**
       7. Ein Trainingsdurchgang: der {7}

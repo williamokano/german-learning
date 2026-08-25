@@ -170,12 +170,12 @@ Ergänze das fehlende Wort.
 Ergänze die Lücken.
 
 **Redemittel (6 Punkte):**
-1. Tisch am Telefon: „Ich möchte einen Tisch ______."
-2. Noch nicht gewählt: „Könnten Sie uns noch einen ______ geben?"
-3. Sonderwunsch: „Könnten Sie das bitte ______ Zwiebeln machen?"
-4. Empfehlung erfragen: „Was können Sie ______?"
-5. Kompliment: „Es hat sehr gut ______."
-6. Zahlen: „Wir möchten ______, bitte."
+1. Tisch am Telefon: „Ich möchte einen Tisch ______.“
+2. Noch nicht gewählt: „Könnten Sie uns noch einen ______ geben?“
+3. Sonderwunsch: „Könnten Sie das bitte ______ Zwiebeln machen?“
+4. Empfehlung erfragen: „Was können Sie ______?“
+5. Kompliment: „Es hat sehr gut ______.“
+6. Zahlen: „Wir möchten ______, bitte.“
 
 **Wortschatz (4 Punkte):**
 7. der erste Gang: die ______
@@ -184,10 +184,10 @@ Ergänze die Lücken.
 10. Wer kein Fleisch isst, ist ______.
 
 **Wenn es schiefgeht (4 Punkte):**
-11. „Das ist leider nicht meine ______."
-12. „Hier ______ etwas nicht — wir hatten nur zwei Bier."
-13. „Ich hatte eine Nussallergie ______."
-14. „Könnten Sie bitte ______, wo unsere Bestellung bleibt?"
+11. „Das ist leider nicht meine ______.“
+12. „Hier ______ etwas nicht — wir hatten nur zwei Bier.“
+13. „Ich hatte eine Nussallergie ______.“
+14. „Könnten Sie bitte ______, wo unsere Bestellung bleibt?“
 
 _11+ / 14 → du kommst im Restaurant klar. Unter 11: Block A und C noch einmal._
 

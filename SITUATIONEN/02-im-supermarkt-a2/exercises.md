@@ -155,12 +155,12 @@ Ergänze das fehlende Wort.
 Ergänze die Lücken.
 
 **Redemittel (6 Punkte):**
-1. Etwas suchen: „Entschuldigung, wo ______ ich die Nudeln?"
-2. An der Theke bestellen: „Ich ______ gern 200 Gramm Gouda."
-3. Vorlassen bitten: „______ ich vielleicht vor? Ich habe nur drei Sachen."
-4. Nach den Öffnungszeiten fragen: „Haben Sie sonntags ______?"
-5. Karte abgelehnt: „Könnten Sie es noch einmal ______?"
-6. Preisfehler melden: „Am Regal ______ 1,99 €."
+1. Etwas suchen: „Entschuldigung, wo ______ ich die Nudeln?“
+2. An der Theke bestellen: „Ich ______ gern 200 Gramm Gouda.“
+3. Vorlassen bitten: „______ ich vielleicht vor? Ich habe nur drei Sachen.“
+4. Nach den Öffnungszeiten fragen: „Haben Sie sonntags ______?“
+5. Karte abgelehnt: „Könnten Sie es noch einmal ______?“
+6. Preisfehler melden: „Am Regal ______ 1,99 €.“
 
 **Wortschatz (5 Punkte):**
 7. eine ______ Milch (1 Liter, aus Papier)

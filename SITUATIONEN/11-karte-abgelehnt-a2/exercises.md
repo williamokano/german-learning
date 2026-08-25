@@ -164,12 +164,12 @@ Ergänze das fehlende Wort.
 Ergänze die Lücken.
 
 **Redemittel (6 Punkte):**
-1. Vorher fragen: „Kann ich bei Ihnen mit ______ zahlen?"
-2. Zweiter Versuch: „______ Sie es bitte noch einmal versuchen?"
-3. Weniger kaufen: „Können Sie zwei Sachen wieder ______?"
-4. Automat suchen: „Wo ist hier der nächste ______?"
-5. Karte sperren: „Ich möchte meine Karte ______ lassen."
-6. Vergessen: „Ich habe mein ______ vergessen."
+1. Vorher fragen: „Kann ich bei Ihnen mit ______ zahlen?“
+2. Zweiter Versuch: „______ Sie es bitte noch einmal versuchen?“
+3. Weniger kaufen: „Können Sie zwei Sachen wieder ______?“
+4. Automat suchen: „Wo ist hier der nächste ______?“
+5. Karte sperren: „Ich möchte meine Karte ______ lassen.“
+6. Vergessen: „Ich habe mein ______ vergessen.“
 
 **Wortschatz (4 Punkte):**
 7. Die Karte wurde nicht akzeptiert: sie wurde ______.

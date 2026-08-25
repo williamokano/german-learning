@@ -377,12 +377,12 @@ exercises:
     instructionsEn: "Fill in the gaps."
     text: |
       **Redemittel (6 Punkte):**
-      1. Tisch am Telefon: „Ich möchte einen Tisch {1}."
-      2. Noch nicht gewählt: „Könnten Sie uns noch einen {2} geben?"
-      3. Sonderwunsch: „Könnten Sie das bitte {3} Zwiebeln machen?"
-      4. Empfehlung erfragen: „Was können Sie {4}?"
-      5. Kompliment: „Es hat sehr gut {5}."
-      6. Zahlen: „Wir möchten {6}, bitte."
+      1. Tisch am Telefon: „Ich möchte einen Tisch {1}.“
+      2. Noch nicht gewählt: „Könnten Sie uns noch einen {2} geben?“
+      3. Sonderwunsch: „Könnten Sie das bitte {3} Zwiebeln machen?“
+      4. Empfehlung erfragen: „Was können Sie {4}?“
+      5. Kompliment: „Es hat sehr gut {5}.“
+      6. Zahlen: „Wir möchten {6}, bitte.“
 
       **Wortschatz (4 Punkte):**
       7. der erste Gang: die {7}
@@ -391,10 +391,10 @@ exercises:
       10. Wer kein Fleisch isst, ist {10}.
 
       **Wenn es schiefgeht (4 Punkte):**
-      11. „Das ist leider nicht meine {11}."
-      12. „Hier {12} etwas nicht — wir hatten nur zwei Bier."
-      13. „Ich hatte eine Nussallergie {13}."
-      14. „Könnten Sie bitte {14}, wo unsere Bestellung bleibt?"
+      11. „Das ist leider nicht meine {11}.“
+      12. „Hier {12} etwas nicht — wir hatten nur zwei Bier.“
+      13. „Ich hatte eine Nussallergie {13}.“
+      14. „Könnten Sie bitte {14}, wo unsere Bestellung bleibt?“
     answers:
       "1": reservieren
       "2": Moment

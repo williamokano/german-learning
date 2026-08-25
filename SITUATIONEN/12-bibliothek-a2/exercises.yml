@@ -291,7 +291,7 @@ exercises:
     text: |
       — Entschuldigung, in welcher {1} finde ich Romane auf Deutsch?
       — Erster Stock, {2} den Fenstern. Suchen Sie etwas Bestimmtes?
-      — Ja, „Der Vorleser". Steht der da?
+      — Ja, „Der Vorleser“. Steht der da?
       — Moment, ich schaue nach … Der ist gerade {3}.
       — Und wann kommt er {4}?
       — Am Donnerstag. Soll ich ihn für Sie {5}?
@@ -468,9 +468,9 @@ exercises:
       9. Die Bibliothek macht um zehn Uhr {9}. (aufmachen)
 
       **Redemittel (3 Punkte):**
-      10. „Kann ich die Leihfrist online {10}?"
-      11. „Könnte ich das Buch {11} lassen?"
-      12. „Wäre eine {12} möglich?"
+      10. „Kann ich die Leihfrist online {10}?“
+      11. „Könnte ich das Buch {11} lassen?“
+      12. „Wäre eine {12} möglich?“
     answers:
       "1": Bibliotheksausweis
       "2": Leihfrist

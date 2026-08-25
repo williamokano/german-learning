@@ -1,6 +1,6 @@
 # Im Fitnessstudio: trainieren und reden — A2
 
-Nicht der Vertrag, sondern die Trainingsfläche. Hier geht es um die kurzen Sätze, die im Studio dauernd fallen: „Bist du hier noch dran?", „Wie viele Sätze hast du noch?", „Kann ich mich dazwischenlegen?", „Kannst du mir kurz Hilfestellung geben?" — dazu Tipps geben, Tipps höflich abwehren und die ungeschriebenen Regeln (Gerät abwischen, Scheiben wegräumen). Grammatik nach Bedarf: du-Form, trennbare Verben, Modalverben für Bitten. Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn es schiefgeht → D Wiederholung. Answers in solutions.md.
+Nicht der Vertrag, sondern die Trainingsfläche. Hier geht es um die kurzen Sätze, die im Studio dauernd fallen: „Bist du hier noch dran?“, „Wie viele Sätze hast du noch?“, „Kann ich mich dazwischenlegen?“, „Kannst du mir kurz Hilfestellung geben?“ — dazu Tipps geben, Tipps höflich abwehren und die ungeschriebenen Regeln (Gerät abwischen, Scheiben wegräumen). Grammatik nach Bedarf: du-Form, trennbare Verben, Modalverben für Bitten. Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn es schiefgeht → D Wiederholung. Answers in solutions.md.
 
 ---
 
@@ -165,12 +165,12 @@ Ergänze das fehlende Wort.
 Ergänze die Lücken.
 
 **Die Standardsätze (6 Punkte):**
-1. „Bist du hier noch ______?"
-2. „Wie viele ______ hast du noch?"
-3. „Können wir uns ______?"
-4. „Kannst du mir kurz ______ geben?"
-5. „Wie viel hast du ______?"
-6. „Brauchst du die Scheiben ______?"
+1. „Bist du hier noch ______?“
+2. „Wie viele ______ hast du noch?“
+3. „Können wir uns ______?“
+4. „Kannst du mir kurz ______ geben?“
+5. „Wie viel hast du ______?“
+6. „Brauchst du die Scheiben ______?“
 
 **Wortschatz (4 Punkte):**
 7. Ein Trainingsdurchgang: der ______

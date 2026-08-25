@@ -27,14 +27,14 @@ Ordne jeden Begriff (1–10) seiner Erklärung (a–j) zu.
 
 Ergänze das Verb, das den Nominalausdruck auflöst.
 
-1. „nach Vorlage aller Unterlagen" → sobald Sie alle Unterlagen ______
-2. „bei Ablauf des Titels" → wenn der Titel ______
-3. „zur Bearbeitung Ihres Antrags" → damit wir Ihren Antrag ______ können
-4. „unter Vorlage des Reisepasses" → indem Sie den Reisepass ______
-5. „nach Prüfung der Voraussetzungen" → nachdem wir die Voraussetzungen ______ haben
-6. „bei Nichterscheinen zum Termin" → wenn Sie nicht zum Termin ______
-7. „zur Vermeidung von Verzögerungen" → damit sich nichts ______
-8. „nach Eingang der Gebühr" → sobald die Gebühr ______
+1. „nach Vorlage aller Unterlagen“ → sobald Sie alle Unterlagen ______
+2. „bei Ablauf des Titels“ → wenn der Titel ______
+3. „zur Bearbeitung Ihres Antrags“ → damit wir Ihren Antrag ______ können
+4. „unter Vorlage des Reisepasses“ → indem Sie den Reisepass ______
+5. „nach Prüfung der Voraussetzungen“ → nachdem wir die Voraussetzungen ______ haben
+6. „bei Nichterscheinen zum Termin“ → wenn Sie nicht zum Termin ______
+7. „zur Vermeidung von Verzögerungen“ → damit sich nichts ______
+8. „nach Eingang der Gebühr“ → sobald die Gebühr ______
 
 ## Übung A3 — Wer schreibt so: Behörde oder Antragsteller?
 
@@ -189,17 +189,17 @@ Ergänze die Lücken.
 5. Die Nummer, unter der dein Vorgang läuft: das ______
 
 **Formelle Redemittel (5 Punkte):**
-6. Anrede ohne Namen: „Sehr geehrte ______ und Herren,"
-7. Bitte: „Ich ______ um eine Fiktionsbescheinigung."
-8. Nachfrage: „Könnten Sie mir bitte ______, welche Unterlagen fehlen?"
-9. Absage: „Leider kann ich den Termin nicht ______."
-10. Schlussformel: „Mit ______ Grüßen"
+6. Anrede ohne Namen: „Sehr geehrte ______ und Herren,“
+7. Bitte: „Ich ______ um eine Fiktionsbescheinigung.“
+8. Nachfrage: „Könnten Sie mir bitte ______, welche Unterlagen fehlen?“
+9. Absage: „Leider kann ich den Termin nicht ______.“
+10. Schlussformel: „Mit ______ Grüßen“
 
 **Behördendeutsch (4 Punkte):**
-11. „nach Vorlage aller Unterlagen" → sobald Sie alle Unterlagen ______
-12. „bei Ablauf des Titels" → wenn der Titel ______
-13. „bei Nichterscheinen zum Termin" → wenn Sie nicht zum Termin ______
-14. „nach Eingang der Gebühr" → sobald die Gebühr ______
+11. „nach Vorlage aller Unterlagen“ → sobald Sie alle Unterlagen ______
+12. „bei Ablauf des Titels“ → wenn der Titel ______
+13. „bei Nichterscheinen zum Termin“ → wenn Sie nicht zum Termin ______
+14. „nach Eingang der Gebühr“ → sobald die Gebühr ______
 
 _11+ / 14 → du kommst mit der Behörde klar. Unter 11: Block A und B noch einmal._
 
