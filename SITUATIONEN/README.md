@@ -77,6 +77,37 @@ is a situation rather than a structure:
 
 Block H (Hören) is skipped: these sets ship no `audio/` directory.
 
+## Alltag beats Ernstfall
+
+The first sets leaned too far towards the transactional core of a situation —
+signing the contract, filing the appeal, claiming the refund. That is the part
+worth knowing, but it is not the part that happens most often. What actually
+happens most often is the small talk around it:
+
+> in the gym, asking whether someone is still using a machine, how many sets
+> they have left, whether you can work in, or asking for a spot — not signing
+> up. In the library, asking which section a book is in, being told it is out
+> until Thursday, asking someone to keep it down. At the butcher's, which cut,
+> how thick, vacuum-packed or not, and what to do when they are out of it. At
+> the café, whether to warm it up, eat in or take away, a bag, and one item of
+> the order being wrong.
+
+So: **the ordinary exchange is the main course, not the garnish.** Concretely,
+when writing a set:
+
+- Put the everyday back-and-forth in Block B and give it room — several short
+  dialogues beat one long one, because that is how these encounters happen.
+- Include at least one exchange with an ordinary person (another customer, a
+  fellow student, a neighbour), not only with staff behind a counter.
+- Block C stays, but "goes wrong" can be small and social: someone takes the
+  machine you were using, the person next to you is loud, your order is wrong
+  by one item. It does not have to be a legal deadline.
+- A place can carry more than one set. `08 Fitnessstudio` is the contract and
+  the Kündigung; the everyday training-floor set is its own file. Same for the
+  Hausverwaltung: the escalation after a break-in and the ordinary "the
+  extractor fan is broken, when can someone come?" are different situations
+  and should not be crammed together.
+
 ## Workflow for adding a new set
 
 Same discipline as a `THEMEN/` set:
@@ -111,13 +142,26 @@ Same discipline as a `THEMEN/` set:
 - **09 — Probleme im Haus** (B1) — Einbruch im Keller schildern, die
   Hausverwaltung mit Frist auffordern, Anzeige und Versicherung.
 
+- **10 — Am Bahnhof** (B1) — Verspätung, verpasster Anschluss,
+  Fahrgastrechte und der Antrag auf Entschädigung.
+- **11 — Wenn das Geld klemmt** (A2) — Karte abgelehnt, Automat zieht die
+  Karte ein, Portemonnaie vergessen, Phishing-SMS.
+- **12 — In der Bibliothek** (A2) — Ausweis und Ausleihe, dazu die
+  Begegnungen: nach der Abteilung fragen, ein ausgeliehenes Buch
+  vormerken, um Ruhe bitten, den Platz freihalten lassen.
+- **13 — Trainieren im Studio** (A2) — auf der Trainingsfläche statt am
+  Vertrag: „Bist du hier noch dran?", abwechseln, Hilfestellung, Tipps
+  annehmen und abwehren, Gerät abwischen.
+
 ## Themenspeicher
 
 Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
 wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 
-**Essen & Trinken** — Tisch reservieren und umbuchen ·
-Beim Bäcker und beim Metzger (A1) · Lieferdienst: falsche Bestellung ·
+**Essen & Trinken** — Beim Metzger: Fleischsorten, Schnittstärke, Verpackung,
+"haben wir gerade nicht" (A2) · Beim Bäcker (A1) · Im Café, die zweite Runde:
+aufwärmen lassen, hier essen oder mitnehmen, Tüte, ein Teil der Bestellung
+stimmt nicht, umtauschen (A2) · Tisch reservieren und umbuchen · Lieferdienst: falsche Bestellung ·
 Biergarten und Volksfest · Die Rechnung: zusammen oder getrennt?
 
 **Einkaufen** — Im Einkaufszentrum / in den Arcaden · Kleidung umtauschen und
@@ -136,10 +180,16 @@ Hotel: buchen, einchecken, reklamieren · Eine Reise mit Freunden planen
 In der Bibliothek (A2) · Auf einem Konzert · Einem Verein beitreten ·
 Wandern und Klettern
 
-**Sport & Gesundheit** — In der Apotheke (A2) · Notaufnahme und Notruf ·
-Beim Zahnarzt · Krankschreibung beim Arbeitgeber
+**Sport & Gesundheit** — Im Fitnessstudio: trainieren, Gerät abgeben, um
+Hilfestellung bitten, Tipps geben und abwehren (A2) · In der Apotheke (A2) ·
+Notaufnahme und Notruf · Beim Zahnarzt · Krankschreibung beim Arbeitgeber
 
-**Wohnen & Nachbarschaft** — Gespräch mit den Nachbarn (A2) ·
+**Wohnen & Nachbarschaft** — Mit der Hausverwaltung und dem Hausmeister:
+Kleinigkeiten melden, Termin ausmachen, jemanden in den Vertrag aufnehmen,
+fragen, ob ein Hund erlaubt ist (A2/B1) · Handwerkerbesuch: Termin, Zugang zur
+Wohnung, Ablesen des Wasserzählers, Rauchmelder prüfen, verstopfter Abfluss
+(A2) · Auszug: Kündigung, Übergabe, Kaution zurück (B1) ·
+Gespräch mit den Nachbarn (A2) ·
 Wohnungsbesichtigung und Bewerbung um eine Wohnung (B1) · Mängel melden:
 Heizung, Schimmel, Wasserschaden (B1) · Hausordnung: Ruhezeiten, Waschküche,
 Mülltrennung · Umzug organisieren · Handwerker bestellen ·
@@ -158,7 +208,9 @@ Betrug und Phishing melden
 Geldautomat behält die Karte · Handy verloren: Anzeige bei der Polizei ·
 Internet fällt aus: Anruf beim Anbieter · Fundbüro · Portemonnaie vergessen
 
-**Arbeit & Studium** — Vorstellungsgespräch (B1) · Erster Arbeitstag ·
+**Arbeit & Studium** — Uni und Schule im Alltag: jemanden nach dem Raum fragen,
+Mitschrift leihen, sich für eine Gruppenarbeit verabreden, eine Frage in der
+Sprechstunde (A2/B1) · Vorstellungsgespräch (B1) · Erster Arbeitstag ·
 Um eine Gehaltserhöhung bitten (B2) · Urlaub beantragen · Konflikt mit
 Kolleginnen ansprechen (B2) · Kündigung schreiben · Uni: Immatrikulation,
 Prüfungsamt, BAföG

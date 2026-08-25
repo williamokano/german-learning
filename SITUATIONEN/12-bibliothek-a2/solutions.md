@@ -63,6 +63,19 @@
 5. **F** — Bis 18 ist es kostenlos, nicht ermäßigt.
 6. **F** — Wiederbeschaffungswert plus 10 € Bearbeitungsgebühr.
 
+## Übung B5 — An der Auskunft und im Regal
+
+1. **ABTEILUNG**  2. **BEI**  3. **AUSGELIEHEN**  4. **ZURÜCK**  5. **VORMERKEN**  6. **ANDERES**  7. **SIGNATUR**  8. **EINFACHER**  9. **NIVEAU**  10. **DANK**
+
+## Übung B6 — Kurze Begegnungen
+
+1. **a) Könnt ihr bitte etwas leiser sein? Ich versuche zu lernen.** — Bitte plus Begründung — das kommt fast immer gut an und klingt nicht wie eine Zurechtweisung.
+2. **b) Entschuldigung, ist der Platz noch frei?** — „Ist der Platz noch frei?“ ist die Standardfrage — kurz und in jeder Situation richtig.
+3. **b) Die Nachbarin fragen: „Könnten Sie kurz auf meine Sachen aufpassen? Ich bin in fünf Minuten zurück.“** — Kurz fragen ist üblich — und sicherer, als Laptop und Tasche unbeaufsichtigt zu lassen.
+4. **b) Zur Seite gehen und sagen: „Bitte, gehen Sie ruhig vor.“** — Platz machen und es kurz sagen — mehr braucht es im Regal nicht.
+5. **a) Klar, ich schicke sie dir nachher. Wie ist deine Nummer?** — Zusagen und gleich klären, wie — so wird aus der Bitte tatsächlich etwas.
+6. **b) Gibt es den Titel auch als E-Book?** — „E-Book“ ist auch im Deutschen das übliche Wort — viele Bibliotheken haben eine Onleihe.
+
 ---
 
 # Block C — Prüfungstraining

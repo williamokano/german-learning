@@ -282,6 +282,89 @@ exercises:
         answer: false
         why: "Wiederbeschaffungswert plus 10 € Bearbeitungsgebühr."
 
+  - id: B5
+    block: B
+    type: gap-bank
+    title: "An der Auskunft und im Regal"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Entschuldigung, in welcher {1} finde ich Romane auf Deutsch?
+      — Erster Stock, {2} den Fenstern. Suchen Sie etwas Bestimmtes?
+      — Ja, „Der Vorleser". Steht der da?
+      — Moment, ich schaue nach … Der ist gerade {3}.
+      — Und wann kommt er {4}?
+      — Am Donnerstag. Soll ich ihn für Sie {5}?
+      — Sehr gern. Gibt es von dem Autor noch etwas {6}?
+      — Ja, zwei Titel — die stehen unter der {7} SCHL.
+      — Super, danke. Eine Frage noch: Ich lerne Deutsch. Haben Sie etwas
+      in {8} Sprache?
+      — Klar, wir haben ein ganzes Regal mit Lektüren nach {9}.
+      A2 wäre für Sie vielleicht passend.
+      — Perfekt. Vielen {10}!
+    bank: [ABTEILUNG, BEI, AUSGELIEHEN, ZURÜCK, VORMERKEN, ANDERES, SIGNATUR, EINFACHER, NIVEAU, DANK, WOHER, ETAGE, LESEN, KAUFEN]
+    answers:
+      "1": ABTEILUNG
+      "2": BEI
+      "3": AUSGELIEHEN
+      "4": ZURÜCK
+      "5": VORMERKEN
+      "6": ANDERES
+      "7": SIGNATUR
+      "8": EINFACHER
+      "9": NIVEAU
+      "10": DANK
+
+  - id: B6
+    block: B
+    type: single-choice
+    title: "Kurze Begegnungen"
+    instructions: "Was sagst du zu einer anderen Person in der Bibliothek?"
+    instructionsEn: "What do you say to another person in the library?"
+    items:
+      - q: "Zwei Leute unterhalten sich laut neben dir im Lesesaal. — Two people are talking loudly next to you in the reading room."
+        options:
+          - { key: a, text: "Könnt ihr bitte etwas leiser sein? Ich versuche zu lernen." }
+          - { key: b, text: "Seid mal still!" }
+          - { key: c, text: "Hier ist eine Bibliothek!" }
+        answer: a
+        why: 'Bitte plus Begründung — das kommt fast immer gut an und klingt nicht wie eine Zurechtweisung.'
+      - q: "Am Nachbartisch ist ein Platz frei und alle anderen sind besetzt. — The seat at the next table is free and everything else is taken."
+        options:
+          - { key: a, text: "Sich einfach hinsetzen." }
+          - { key: b, text: "Entschuldigung, ist der Platz noch frei?" }
+          - { key: c, text: "Gehört das jemandem?" }
+        answer: b
+        why: '„Ist der Platz noch frei?“ ist die Standardfrage — kurz und in jeder Situation richtig.'
+      - q: "Du musst kurz weg und willst deinen Platz behalten. — You need to step out and want to keep your seat."
+        options:
+          - { key: a, text: "Alles liegen lassen und gehen." }
+          - { key: b, text: "Die Nachbarin fragen: „Könnten Sie kurz auf meine Sachen aufpassen? Ich bin in fünf Minuten zurück.“" }
+          - { key: c, text: "Einen Zettel hinlegen." }
+        answer: b
+        why: 'Kurz fragen ist üblich — und sicherer, als Laptop und Tasche unbeaufsichtigt zu lassen.'
+      - q: "Jemand sucht sichtlich etwas im Regal, in dem du gerade stehst. — Someone is clearly searching the shelf you're standing at."
+        options:
+          - { key: a, text: "Weiterschauen." }
+          - { key: b, text: "Zur Seite gehen und sagen: „Bitte, gehen Sie ruhig vor.“" }
+          - { key: c, text: "Fragen, was er sucht." }
+        answer: b
+        why: 'Platz machen und es kurz sagen — mehr braucht es im Regal nicht.'
+      - q: "Eine Mitstudentin fragt, ob sie deine Mitschrift kopieren darf. — A fellow student asks to copy your notes."
+        options:
+          - { key: a, text: "Klar, ich schicke sie dir nachher. Wie ist deine Nummer?" }
+          - { key: b, text: "Nein." }
+          - { key: c, text: "Ich weiß nicht." }
+        answer: a
+        why: 'Zusagen und gleich klären, wie — so wird aus der Bitte tatsächlich etwas.'
+      - q: "Du willst wissen, ob es das Buch auch digital gibt. — You want to know if the book is also available digitally."
+        options:
+          - { key: a, text: "Kann man das auch am Computer lesen?" }
+          - { key: b, text: "Gibt es den Titel auch als E-Book?" }
+          - { key: c, text: "Habt ihr Internet?" }
+        answer: b
+        why: '„E-Book“ ist auch im Deutschen das übliche Wort — viele Bibliotheken haben eine Onleihe.'
+
   # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
 
   - id: C1

@@ -131,6 +131,37 @@ Richtig (R) oder falsch (F)?
 5. Ein 16-Jähriger zahlt die ermäßigte Gebühr. — A 16-year-old pays the reduced fee. ( )
 6. Bei Verlust zahlt man nur den Preis des Buches. — If you lose a book you only pay its price. ( )
 
+## Übung B5 — An der Auskunft und im Regal
+
+Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden.
+
+> — Entschuldigung, in welcher (1) ______ finde ich Romane auf Deutsch?
+> — Erster Stock, (2) ______ den Fenstern. Suchen Sie etwas Bestimmtes?
+> — Ja, „Der Vorleser". Steht der da?
+> — Moment, ich schaue nach … Der ist gerade (3) ______.
+> — Und wann kommt er (4) ______?
+> — Am Donnerstag. Soll ich ihn für Sie (5) ______?
+> — Sehr gern. Gibt es von dem Autor noch etwas (6) ______?
+> — Ja, zwei Titel — die stehen unter der (7) ______ SCHL.
+> — Super, danke. Eine Frage noch: Ich lerne Deutsch. Haben Sie etwas
+> in (8) ______ Sprache?
+> — Klar, wir haben ein ganzes Regal mit Lektüren nach (9) ______.
+> A2 wäre für Sie vielleicht passend.
+> — Perfekt. Vielen (10) ______!
+
+> (ABTEILUNG · BEI · AUSGELIEHEN · ZURÜCK · VORMERKEN · ANDERES · SIGNATUR · EINFACHER · NIVEAU · DANK · WOHER · ETAGE · LESEN · KAUFEN)
+
+## Übung B6 — Kurze Begegnungen
+
+Was sagst du zu einer anderen Person in der Bibliothek?
+
+1. Zwei Leute unterhalten sich laut neben dir im Lesesaal. — Two people are talking loudly next to you in the reading room.  a) Könnt ihr bitte etwas leiser sein? Ich versuche zu lernen.  b) Seid mal still!  c) Hier ist eine Bibliothek!
+2. Am Nachbartisch ist ein Platz frei und alle anderen sind besetzt. — The seat at the next table is free and everything else is taken.  a) Sich einfach hinsetzen.  b) Entschuldigung, ist der Platz noch frei?  c) Gehört das jemandem?
+3. Du musst kurz weg und willst deinen Platz behalten. — You need to step out and want to keep your seat.  a) Alles liegen lassen und gehen.  b) Die Nachbarin fragen: „Könnten Sie kurz auf meine Sachen aufpassen? Ich bin in fünf Minuten zurück.“  c) Einen Zettel hinlegen.
+4. Jemand sucht sichtlich etwas im Regal, in dem du gerade stehst. — Someone is clearly searching the shelf you're standing at.  a) Weiterschauen.  b) Zur Seite gehen und sagen: „Bitte, gehen Sie ruhig vor.“  c) Fragen, was er sucht.
+5. Eine Mitstudentin fragt, ob sie deine Mitschrift kopieren darf. — A fellow student asks to copy your notes.  a) Klar, ich schicke sie dir nachher. Wie ist deine Nummer?  b) Nein.  c) Ich weiß nicht.
+6. Du willst wissen, ob es das Buch auch digital gibt. — You want to know if the book is also available digitally.  a) Kann man das auch am Computer lesen?  b) Gibt es den Titel auch als E-Book?  c) Habt ihr Internet?
+
 ---
 
 # Block C — Prüfungstraining
