@@ -66,14 +66,14 @@ exercises:
     instructions: "Ergänze das Verb, das den Nominalausdruck auflöst."
     instructionsEn: "Fill in the verb that resolves the nominal expression."
     text: |
-      1. „bei Nichtkündigung" → wenn niemand {1}
-      2. „nach Ablauf der Mindestlaufzeit" → nachdem die Mindestlaufzeit {2} ist
-      3. „unter Vorlage einer Meldebescheinigung" → indem Sie eine Meldebescheinigung {3}
-      4. „zur Wahrung der Frist" → damit die Frist {4} wird
-      5. „bei Zahlungsverzug" → wenn Sie nicht rechtzeitig {5}
-      6. „nach Eingang der Kündigung" → sobald die Kündigung {6}
-      7. „bei Vorlage eines ärztlichen Attests" → wenn Sie ein ärztliches Attest {7}
-      8. „zur Bestätigung des Vertragsendes" → damit wir das Vertragsende {8}
+      1. „bei Nichtkündigung“ → wenn niemand {1}
+      2. „nach Ablauf der Mindestlaufzeit“ → nachdem die Mindestlaufzeit {2} ist
+      3. „unter Vorlage einer Meldebescheinigung“ → indem Sie eine Meldebescheinigung {3}
+      4. „zur Wahrung der Frist“ → damit die Frist {4} wird
+      5. „bei Zahlungsverzug“ → wenn Sie nicht rechtzeitig {5}
+      6. „nach Eingang der Kündigung“ → sobald die Kündigung {6}
+      7. „bei Vorlage eines ärztlichen Attests“ → wenn Sie ein ärztliches Attest {7}
+      8. „zur Bestätigung des Vertragsendes“ → damit wir das Vertragsende {8}
     answers:
       "1": kündigt
       "2": abgelaufen
@@ -393,17 +393,17 @@ exercises:
       5. Nachweis, dass die Kündigung ankam: die {5}
 
       **Redemittel (5 Punkte):**
-      6. Kündigen: „Hiermit {6} ich meinen Vertrag zum nächstmöglichen Termin."
-      7. Bestätigung: „Bitte {7} Sie mir das Vertragsende schriftlich."
-      8. Sonderkündigung: „Ich mache von meinem Sonderkündigungsrecht {8}."
-      9. Nachreichen: „Die Meldebescheinigung reiche ich umgehend {9}."
-      10. Mahnung: „Ich {10} der Forderung."
+      6. Kündigen: „Hiermit {6} ich meinen Vertrag zum nächstmöglichen Termin.“
+      7. Bestätigung: „Bitte {7} Sie mir das Vertragsende schriftlich.“
+      8. Sonderkündigung: „Ich mache von meinem Sonderkündigungsrecht {8}.“
+      9. Nachreichen: „Die Meldebescheinigung reiche ich umgehend {9}.“
+      10. Mahnung: „Ich {10} der Forderung.“
 
       **Vertragsdeutsch (4 Punkte):**
-      11. „bei Nichtkündigung" → wenn niemand {11}
-      12. „nach Ablauf der Mindestlaufzeit" → nachdem die Mindestlaufzeit {12} ist
-      13. „bei Zahlungsverzug" → wenn Sie nicht rechtzeitig {13}
-      14. „nach Eingang der Kündigung" → sobald die Kündigung {14}
+      11. „bei Nichtkündigung“ → wenn niemand {11}
+      12. „nach Ablauf der Mindestlaufzeit“ → nachdem die Mindestlaufzeit {12} ist
+      13. „bei Zahlungsverzug“ → wenn Sie nicht rechtzeitig {13}
+      14. „nach Eingang der Kündigung“ → sobald die Kündigung {14}
     answers:
       "1": Mindestlaufzeit
       "2": Kündigungsfrist

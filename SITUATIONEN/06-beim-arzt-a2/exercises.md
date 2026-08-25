@@ -169,11 +169,11 @@ Ergänze die Lücken.
 4. Ich bin ______ Penizillin allergisch.
 
 **Redemittel (5 Punkte):**
-5. Termin: „Ich hätte gern einen ______."
-6. Für den Arbeitgeber: „Können Sie mir eine ______ ausstellen?"
-7. Für den Facharzt: „Bekomme ich dafür eine ______?"
-8. In der Apotheke: „Ich möchte dieses Rezept ______."
-9. Nachfragen: „Könnten Sie das bitte noch einmal einfacher ______?"
+5. Termin: „Ich hätte gern einen ______.“
+6. Für den Arbeitgeber: „Können Sie mir eine ______ ausstellen?“
+7. Für den Facharzt: „Bekomme ich dafür eine ______?“
+8. In der Apotheke: „Ich möchte dieses Rezept ______.“
+9. Nachfragen: „Könnten Sie das bitte noch einmal einfacher ______?“
 
 **Das System (5 Punkte):**
 10. Der erste Arzt, zu dem man geht: der ______

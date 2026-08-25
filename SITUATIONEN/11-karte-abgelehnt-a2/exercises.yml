@@ -1,0 +1,455 @@
+lesson: "SIT/11-karte-abgelehnt-a2"
+title: "Karte abgelehnt, Automat streikt — A2"
+topic: "Wenn das Geld klemmt"
+category: "Wenn etwas schiefgeht"
+level: A2
+summary: "Die Karte wird abgelehnt, der Automat behält sie, du hast kein Bargeld dabei — was du in dem Moment sagst und tust."
+intro: >
+  Deutschland und das Bargeld: Genau dann, wenn du keins dabeihast,
+  steht „Nur Barzahlung“ an der Kasse. Dieses Set übt die kleinen
+  Notfälle rund ums Bezahlen — Karte abgelehnt, Automat schluckt die
+  Karte, Portemonnaie vergessen, Konto gesperrt. Es geht weniger um
+  Grammatik als um die Sätze, die dich aus der Situation bringen, ohne
+  dass es peinlich wird. Grammatik nach Bedarf: Modalverben (können,
+  müssen, dürfen), höfliche Bitten und Perfekt. Blocks: A Wortschatz &
+  Redemittel → B Dialoge → C Wenn es schiefgeht → D Wiederholung.
+  Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Womit bezahlt man das?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: bar, label: "Bargeld" }
+      - { key: karte, label: "Karte & Konto" }
+      - { key: problem, label: "Wenn es klemmt" }
+    tokens:
+      - { text: "der Schein", bucket: bar }
+      - { text: "die EC-Karte", bucket: karte }
+      - { text: "die Karte wird abgelehnt", bucket: problem }
+      - { text: "die Münze", bucket: bar }
+      - { text: "die PIN", bucket: karte }
+      - { text: "das Konto ist gesperrt", bucket: problem }
+      - { text: "das Kleingeld", bucket: bar }
+      - { text: "die Kreditkarte", bucket: karte }
+      - { text: "der Automat behält die Karte", bucket: problem }
+      - { text: "das Wechselgeld", bucket: bar }
+      - { text: "der Kontostand", bucket: karte }
+      - { text: "das Portemonnaie ist weg", bucket: problem }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Was sagst du wann?"
+    instructions: "Ordne jede Situation (1–8) dem passenden Satz (a–h) zu."
+    instructionsEn: "Match each situation (1–8) with the fitting sentence (a–h)."
+    left:
+      - { key: "1", text: "Die Karte funktioniert nicht." }
+      - { key: "2", text: "Du hast nicht genug Bargeld dabei." }
+      - { key: "3", text: "Du suchst einen Geldautomaten." }
+      - { key: "4", text: "Der Automat hat deine Karte behalten." }
+      - { key: "5", text: "Du hast dein Portemonnaie vergessen." }
+      - { key: "6", text: "Du willst wissen, ob Karte geht." }
+      - { key: "7", text: "Du hast nur einen großen Schein." }
+      - { key: "8", text: "Du willst die Karte sperren lassen." }
+    right:
+      - { key: a, text: "Wo ist hier der nächste Geldautomat?" }
+      - { key: b, text: "Entschuldigung, die Karte geht nicht. Kann ich bar zahlen?" }
+      - { key: c, text: "Der Automat hat meine Karte eingezogen. An wen wende ich mich?" }
+      - { key: d, text: "Kann ich mit Karte zahlen?" }
+      - { key: e, text: "Ich habe leider nicht genug dabei. Können Sie zwei Sachen wieder abziehen?" }
+      - { key: f, text: "Ich möchte meine Karte sperren lassen." }
+      - { key: g, text: "Geht auch ein Fünfziger?" }
+      - { key: h, text: "Entschuldigung, ich habe mein Portemonnaie vergessen. Ich hole es und komme gleich zurück." }
+    answers:
+      "1": b
+      "2": e
+      "3": a
+      "4": c
+      "5": h
+      "6": d
+      "7": g
+      "8": f
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Modalverben in der Notlage"
+    instructions: "Ergänze das passende Modalverb in der richtigen Form."
+    instructionsEn: "Fill in the fitting modal verb in the correct form."
+    text: |
+      1. {1} ich mit Karte zahlen? (Erlaubnis erfragen)
+      2. Hier {2} man leider nur bar zahlen. (Zwang)
+      3. {3} Sie es bitte noch einmal versuchen? (höfliche Bitte)
+      4. Ich {4} die Karte sperren lassen. (Absicht)
+      5. Am Sonntag {5} man in Deutschland kaum irgendwo Geld abheben. (Möglichkeit)
+      6. {6} ich hier meine PIN eingeben? (Erlaubnis erfragen)
+    answers:
+      "1": Kann
+      "2": muss
+      "3": Könnten
+      "4": möchte
+      "5": kann
+      "6": Darf
+
+  - id: A4
+    block: A
+    type: odd-one-out
+    title: "Was passt nicht?"
+    instructions: "Ein Wort passt nicht in die Gruppe. Klicke es an."
+    instructionsEn: "One word does not belong in the group. Click it."
+    groups:
+      - items: ["der Schein", "die Münze", "das Kleingeld", "die PIN"]
+        odd: 3
+        why: "PIN gehört zur Karte, nicht zum Bargeld."
+      - items: ["abheben", "einzahlen", "überweisen", "vergessen"]
+        odd: 3
+        why: "Die anderen drei sind Bankgeschäfte."
+      - items: ["die EC-Karte", "die Kreditkarte", "die Kundenkarte", "der Geldautomat"]
+        odd: 3
+        why: "Der Geldautomat ist ein Gerät, keine Karte."
+      - items: ["gesperrt", "abgelehnt", "eingezogen", "gekauft"]
+        odd: 3
+        why: "Die anderen drei beschreiben Probleme mit der Karte."
+      - items: ["die Bank", "die Sparkasse", "die Filiale", "die Apotheke"]
+        odd: 3
+        why: "In der Apotheke bekommt man kein Konto."
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "An der Kasse: die Karte geht nicht"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Das macht 42,80 Euro.
+      — Mit Karte, bitte.
+      — Einen Moment … die Karte wurde leider {1}.
+      — Oh. {2} Sie es bitte noch einmal versuchen?
+      — Gern. … Wieder nicht. {3} Sie es vielleicht mit einer anderen
+      Karte?
+      — Ich habe nur diese eine. Ich habe aber etwas {4} dabei —
+      dreißig Euro.
+      — Das reicht leider nicht. Möchten Sie etwas {5}?
+      — Ja, {6} Sie bitte den Käse und die Schokolade wieder ab?
+      — Kein Problem. Dann sind es 28,50 Euro.
+      — Perfekt. Wo ist hier der nächste {7}? Ich komme später noch
+      einmal.
+      — Direkt vor dem Ausgang, {8} der Apotheke.
+      — Danke. Und wissen Sie, {9} das mit meiner Karte sein kann?
+      — Manchmal ist das {10} für den Tag erreicht. Fragen Sie am
+      besten bei Ihrer Bank nach.
+    bank: [ABGELEHNT, KÖNNTEN, HABEN, BARGELD, WEGLASSEN, ZIEHEN, GELDAUTOMAT, NEBEN, WORAN, LIMIT, WOHER, KAUFEN, ZAHLEN, KONTO]
+    answers:
+      "1": ABGELEHNT
+      "2": KÖNNTEN
+      "3": HABEN
+      "4": BARGELD
+      "5": WEGLASSEN
+      "6": ZIEHEN
+      "7": GELDAUTOMAT
+      "8": NEBEN
+      "9": WORAN
+      "10": LIMIT
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Was tust du?"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Die Karte wird abgelehnt und hinter dir wartet eine Schlange. — Your card is declined and there's a queue behind you."
+        options:
+          - { key: a, text: "Lange diskutieren, warum das nicht sein kann." }
+          - { key: b, text: "Ruhig bleiben, um einen zweiten Versuch bitten und gleich sagen, was du sonst tun kannst." }
+          - { key: c, text: "Die Sachen liegen lassen und gehen." }
+        answer: b
+        why: 'Ein zweiter Versuch plus eine Alternative löst die Situation in zwanzig Sekunden.'
+      - q: "Der Geldautomat zieht deine Karte ein. — The cash machine swallows your card."
+        options:
+          - { key: a, text: "Sofort die Sperrnummer anrufen und in der Filiale nachfragen." }
+          - { key: b, text: "Am Automaten warten." }
+          - { key: c, text: "Es am nächsten Tag noch einmal versuchen." }
+        answer: a
+        why: 'Eingezogene Karten werden nicht zurückgegeben. Sperren und Ersatzkarte beantragen ist der einzige Weg.'
+      - q: "Ein Restaurant nimmt nur Bargeld und du hast keins. — A restaurant takes cash only and you have none."
+        options:
+          - { key: a, text: "Sagen, dass das heutzutage nicht geht." }
+          - { key: b, text: "Erklären, dass du kurz Geld holst, und fragen, wo der nächste Automat ist." }
+          - { key: c, text: "Warten, bis jemand hilft." }
+        answer: b
+        why: 'Das ist völlig üblich in Deutschland — man sagt es und geht kurz zum Automaten.'
+      - q: "Du willst wissen, ob du mit Karte zahlen kannst — bevor du bestellst. — You want to know if you can pay by card before ordering."
+        options:
+          - { key: a, text: "Kann ich bei Ihnen mit Karte zahlen?" }
+          - { key: b, text: "Nehmen Sie Geld?" }
+          - { key: c, text: "Ich habe kein Bargeld." }
+        answer: a
+        why: 'Vorher fragen erspart die ganze Situation — und ist die einfachste Frage von allen.'
+      - q: "Du hast dein Portemonnaie zu Hause vergessen. — You've left your wallet at home."
+        options:
+          - { key: a, text: "Schnell verschwinden." }
+          - { key: b, text: "Sagen, dass du nichts dabeihast." }
+          - { key: c, text: "Entschuldigung, ich habe mein Portemonnaie vergessen. Kann ich die Sachen kurz stehen lassen und in zehn Minuten wiederkommen?" }
+        answer: c
+        why: 'Erklären und einen konkreten Vorschlag machen — fast überall wird das ohne Weiteres akzeptiert.'
+      - q: "Deine Karte wird abgelehnt, obwohl Geld auf dem Konto ist. — Your card is declined although there's money in the account."
+        options:
+          - { key: a, text: "Es liegt sicher am Geschäft." }
+          - { key: b, text: "Vielleicht ist das Tageslimit erreicht — bei der Bank nachfragen." }
+          - { key: c, text: "Die Karte wegwerfen." }
+        answer: b
+        why: 'Tageslimit und Sicherheitssperre sind die häufigsten Gründe — beides klärt nur die Bank.'
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Kann", "ich", "bei", "Ihnen", "mit", "Karte", "zahlen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Ja/Nein-Frage: Verb an Position 1, Infinitiv am Ende"
+      - tiles: ["Könnten", "Sie", "es", "bitte", "noch", "einmal", "versuchen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Höfliche Bitte im Konjunktiv II"
+      - tiles: ["Der", "Automat", "hat", "meine", "Karte", "eingezogen"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Perfekt: hat … eingezogen"
+      - tiles: ["Ich", "möchte", "meine", "Karte", "sperren", "lassen"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Zwei Infinitive am Ende: sperren lassen"
+      - tiles: ["Wo", "ist", "hier", "der", "nächste", "Geldautomat", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "W-Frage: Fragewort, dann Verb"
+      - tiles: ["Ich", "habe", "leider", "nicht", "genug", "Bargeld", "dabei"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "dabeihaben: dabei am Satzende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Den Hinweis am Automaten lesen"
+    instructions: |
+      > **Sparkasse — Hinweise am Geldautomaten**
+      >
+      > - Tageslimit: 1.000 € (bei Karten anderer Banken 500 €)
+      > - Abhebungen mit Karten fremder Banken: 4,95 € Gebühr
+      > - Bei dreimaliger Falscheingabe der PIN wird die Karte gesperrt
+      >   und eingezogen.
+      > - Eingezogene Karten werden nicht ausgehändigt. Bitte wenden Sie
+      >   sich an Ihre Bank.
+      > - Sperr-Notruf rund um die Uhr: 116 116
+      >
+      > Filiale geöffnet: Mo–Fr 9:00–16:00, Do bis 18:00 Uhr.
+      > Der Automatenraum ist täglich 6:00–23:00 Uhr zugänglich.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Mit einer Karte einer anderen Bank kann man hier 800 € abheben. — With another bank's card you can withdraw €800 here."
+        answer: false
+        why: "Bei fremden Karten liegt das Limit bei 500 €."
+      - q: "Nach zwei falschen PIN-Eingaben ist die Karte gesperrt. — After two wrong PIN entries the card is blocked."
+        answer: false
+        why: "Erst bei der dritten Falscheingabe."
+      - q: "Eine eingezogene Karte bekommt man in der Filiale zurück. — You get a swallowed card back at the branch."
+        answer: false
+        why: "„Eingezogene Karten werden nicht ausgehändigt.“"
+      - q: "Die Sperrnummer erreicht man auch nachts. — The blocking hotline is reachable at night too."
+        answer: true
+        why: "„rund um die Uhr“."
+      - q: "Am Donnerstag ist die Filiale länger geöffnet. — On Thursday the branch is open longer."
+        answer: true
+        why: "„Do bis 18:00 Uhr“ statt 16:00."
+      - q: "Um Mitternacht kommt man an den Automaten. — At midnight you can get to the cash machine."
+        answer: false
+        why: "Der Automatenraum ist nur 6:00–23:00 Uhr zugänglich."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Der Ernstfall"
+    instructions: "Was machst oder sagst du? Wähle a, b oder c."
+    instructionsEn: "What do you do or say? Choose a, b, or c."
+    items:
+      - q: "Du bist im Ausland, die Karte ist weg und du hast kein Bargeld. — You're abroad, your card is gone and you have no cash."
+        options:
+          - { key: a, text: "Karte sofort über 116 116 sperren, dann die Bank wegen Notfallbargeld kontaktieren." }
+          - { key: b, text: "Warten und hoffen, dass die Karte wieder auftaucht." }
+          - { key: c, text: "Eine neue Karte online bestellen." }
+        answer: a
+        why: 'Erst sperren — das verhindert den Schaden. Danach kümmert sich die Bank um eine Notlösung.'
+      - q: "Auf deinem Kontoauszug steht eine Zahlung, die du nicht kennst. — There's a payment on your statement you don't recognise."
+        options:
+          - { key: a, text: "Abwarten, vielleicht klärt sich das." }
+          - { key: b, text: "Sofort bei der Bank melden und der Abbuchung widersprechen." }
+          - { key: c, text: "Das Konto kündigen." }
+        answer: b
+        why: 'Für den Widerspruch gegen eine Lastschrift gibt es eine Frist — je früher, desto einfacher.'
+      - q: "Ein Automat zeigt „Vorgang abgebrochen“, aber Geld kam nicht — abgebucht wurde es trotzdem. — A machine says the transaction failed but the money was debited."
+        options:
+          - { key: a, text: "Beleg aufheben, Uhrzeit und Automatennummer notieren und bei der Bank reklamieren." }
+          - { key: b, text: "Es noch einmal versuchen." }
+          - { key: c, text: "Nichts tun, das bucht sich zurück." }
+        answer: a
+        why: 'Uhrzeit und Automatennummer sind die Angaben, mit denen die Bank den Vorgang findet.'
+      - q: "Du bekommst eine SMS: „Ihr Konto wurde gesperrt, klicken Sie hier.“ — You get a text saying your account is blocked, click here."
+        options:
+          - { key: a, text: "Auf den Link klicken und die Daten eingeben." }
+          - { key: b, text: "Nicht klicken — selbst die Nummer auf der Rückseite deiner Karte anrufen." }
+          - { key: c, text: "Die SMS beantworten." }
+        answer: b
+        why: 'Banken schicken keine Links für Zugangsdaten. Immer selbst die bekannte Nummer wählen.'
+      - q: "Freunde haben für dich mitbezahlt und du willst das Geld zurückgeben. — Friends paid for you and you want to pay them back."
+        options:
+          - { key: a, text: "Beim nächsten Mal daran denken." }
+          - { key: b, text: "Bar zurückgeben, wenn du wieder Geld hast." }
+          - { key: c, text: "Noch am selben Abend überweisen und kurz Bescheid geben." }
+        answer: c
+        why: 'Sofort überweisen ist in Deutschland die Norm — und erspart beiden Seiten das Erinnern.'
+      - q: "Ein Laden akzeptiert deine ausländische Kreditkarte nicht. — A shop won't accept your foreign credit card."
+        options:
+          - { key: a, text: "Auf dem Recht bestehen, damit zahlen zu dürfen." }
+          - { key: b, text: "Fragen, ob EC-Karte oder Bargeld geht — viele deutsche Läden nehmen keine Kreditkarten." }
+          - { key: c, text: "Den Einkauf abbrechen." }
+        answer: b
+        why: 'Kreditkarten sind in kleineren deutschen Läden oft gar nicht vorgesehen. Es gibt kein Recht darauf.'
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das fehlende Wort."
+    instructionsEn: "Fill in the missing word."
+    text: |
+      1. Die Karte wurde leider {1}. (nicht akzeptiert)
+      2. Der Automat hat meine Karte {2}. (behalten, Partizip II)
+      3. Ich möchte meine Karte {3} lassen. (unbrauchbar machen)
+      4. Vielleicht ist das Tages{4} erreicht. (Höchstbetrag)
+      5. Ich habe nicht genug Bargeld {5}. (bei mir)
+      6. Können Sie zwei Sachen wieder {6}? (vom Bon nehmen)
+      7. Ich {7} der Abbuchung. (nicht einverstanden sein)
+      8. Ich {8} dir das Geld heute Abend. (Geld aufs Konto schicken)
+    answers:
+      "1": abgelehnt
+      "2": eingezogen
+      "3": sperren
+      "4": limit
+      "5": dabei
+      "6":
+        - "abziehen"
+        - "stornieren"
+      "7": widerspreche
+      "8": überweise
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /12)"
+    notes: "10+ / 12 → du kommst da raus. Unter 10: Block A und C noch einmal."
+    instructions: "Ergänze die Lücken."
+    instructionsEn: "Fill in the gaps."
+    text: |
+      **Redemittel (6 Punkte):**
+      1. Vorher fragen: „Kann ich bei Ihnen mit {1} zahlen?“
+      2. Zweiter Versuch: „{2} Sie es bitte noch einmal versuchen?“
+      3. Weniger kaufen: „Können Sie zwei Sachen wieder {3}?“
+      4. Automat suchen: „Wo ist hier der nächste {4}?“
+      5. Karte sperren: „Ich möchte meine Karte {5} lassen.“
+      6. Vergessen: „Ich habe mein {6} vergessen.“
+
+      **Wortschatz (4 Punkte):**
+      7. Die Karte wurde nicht akzeptiert: sie wurde {7}.
+      8. Der Automat hat sie behalten: sie wurde {8}.
+      9. Der Höchstbetrag pro Tag: das {9}
+      10. Geld aufs Konto von jemandem schicken: {10}
+
+      **Sicherheit (2 Punkte):**
+      11. Sperr-Notruf in Deutschland: {11}
+      12. Bei einer SMS mit Link: nicht klicken, sondern selbst die Nummer auf
+      der {12} der Karte anrufen.
+    answers:
+      "1": Karte
+      "2": Könnten
+      "3":
+        - "abziehen"
+        - "stornieren"
+      "4": Geldautomat
+      "5": sperren
+      "6": Portemonnaie
+      "7": abgelehnt
+      "8": eingezogen
+      "9": Tageslimit
+      "10": überweisen
+      "11": "116 116"
+      "12": Rückseite
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Rollenspiel: der Einkauf klemmt"
+    prompt: "Schreib den Dialog an der Kasse und danach eine kurze Nachricht an eine Freundin. 12–16 Sätze."
+    stimulus: |
+      Deine Situation:
+
+      Du stehst an der Kasse, Einkauf 42,80 Euro. Deine Karte wird
+      zweimal abgelehnt. Du hast 30 Euro Bargeld dabei. Hinter dir
+      wartet eine Schlange.
+
+      Teil 1 — der Dialog mit der Kassiererin: zweiter Versuch,
+      Artikel abziehen lassen, nach dem Geldautomaten fragen.
+      Teil 2 — eine Nachricht an deine Freundin Mia: Du erzählst kurz,
+      was passiert ist, und fragst, ob sie dir bis morgen 20 Euro
+      überweisen kann.
+    use:
+      - "`Könnten Sie es bitte noch einmal versuchen?`"
+      - "`Ich habe leider nicht genug dabei.`"
+      - "`Wo ist hier der nächste Geldautomat?`"
+      - "Sie-Form an der Kasse, du-Form in der Nachricht"
+    selfCheck:
+      - "Hast du an der Kasse eine Lösung vorgeschlagen, nicht nur das Problem genannt?"
+      - "Wechselst du in Teil 2 korrekt zur du-Form?"
+      - "Steht in der Nachricht konkret, wie viel und bis wann?"
+      - "Steht bei `dabeihaben` das `dabei` am Satzende?"
+    model: |
+      **Teil 1 — an der Kasse**
+
+      Kassiererin: Das macht 42,80 Euro.
+      Ich: Mit Karte, bitte.
+      Kassiererin: Die Karte wurde leider abgelehnt.
+      Ich: Könnten Sie es bitte noch einmal versuchen?
+      Kassiererin: Gern … wieder nicht.
+      Ich: Entschuldigung. Ich habe leider nur 30 Euro Bargeld dabei.
+      Könnten Sie den Käse und die Schokolade wieder abziehen?
+      Kassiererin: Kein Problem. Dann sind es 28,50 Euro.
+      Ich: Perfekt, das geht. Wo ist hier der nächste Geldautomat?
+      Kassiererin: Direkt vor dem Ausgang, neben der Apotheke.
+      Ich: Danke, und entschuldigen Sie die Verzögerung.
+
+      **Teil 2 — Nachricht an Mia**
+
+      Hey Mia,
+      kleine Katastrophe im Supermarkt: Meine Karte wurde zweimal
+      abgelehnt und ich hatte nur 30 Euro dabei. Ich musste die Hälfte
+      wieder zurücklegen. Ich glaube, mein Tageslimit ist erreicht —
+      morgen frage ich bei der Bank nach.
+      Könntest du mir bis morgen 20 Euro überweisen? Ich gebe es dir
+      sofort zurück, wenn die Karte wieder geht.
+      Danke dir! 💛

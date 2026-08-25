@@ -171,11 +171,11 @@ Ergänze die Lücken.
 4. Das Auto steht ______ dem Standstreifen.
 
 **Redemittel (5 Punkte):**
-5. Problem melden: „Ich habe eine ______."
-6. Reifen: „Der vordere linke Reifen ist ______."
-7. Vor der Reparatur: „Könnten Sie mir einen ______ machen?"
-8. Abholung: „Bis wann kann ich den Wagen heute ______?"
-9. Kosten belegen: „Bekomme ich bitte eine ______?"
+5. Problem melden: „Ich habe eine ______.“
+6. Reifen: „Der vordere linke Reifen ist ______.“
+7. Vor der Reparatur: „Könnten Sie mir einen ______ machen?“
+8. Abholung: „Bis wann kann ich den Wagen heute ______?“
+9. Kosten belegen: „Bekomme ich bitte eine ______?“
 
 **Sicherheit (3 Punkte):**
 10. Zuerst anziehen: die ______

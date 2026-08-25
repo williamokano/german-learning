@@ -27,14 +27,14 @@ Ordne jeden Begriff (1–10) seiner Erklärung (a–j) zu.
 
 Ergänze das Verb, das den Nominalausdruck auflöst.
 
-1. „nach Eingang Ihrer Unterlagen" → sobald Ihre Unterlagen ______
-2. „bei Nichtvorlage der Belege" → wenn Sie die Belege nicht ______
-3. „zur Bearbeitung Ihres Antrags" → damit wir Ihren Antrag ______ können
-4. „nach Prüfung des Sachverhalts" → nachdem wir den Sachverhalt ______ haben
-5. „unter Beifügung der Nachweise" → indem Sie die Nachweise ______
-6. „nach Ablauf der Frist" → nachdem die Frist ______ ist
-7. „zur Vermeidung von Rückfragen" → damit wir nicht ______ müssen
-8. „bei Überschreitung des Freibetrags" → wenn Sie den Freibetrag ______
+1. „nach Eingang Ihrer Unterlagen“ → sobald Ihre Unterlagen ______
+2. „bei Nichtvorlage der Belege“ → wenn Sie die Belege nicht ______
+3. „zur Bearbeitung Ihres Antrags“ → damit wir Ihren Antrag ______ können
+4. „nach Prüfung des Sachverhalts“ → nachdem wir den Sachverhalt ______ haben
+5. „unter Beifügung der Nachweise“ → indem Sie die Nachweise ______
+6. „nach Ablauf der Frist“ → nachdem die Frist ______ ist
+7. „zur Vermeidung von Rückfragen“ → damit wir nicht ______ müssen
+8. „bei Überschreitung des Freibetrags“ → wenn Sie den Freibetrag ______
 
 ## Übung A3 — Wer schreibt so: Amt oder Bürger?
 
@@ -185,17 +185,17 @@ Ergänze die Lücken.
 5. Das Online-Portal des Finanzamts: ______
 
 **Formelle Redemittel (5 Punkte):**
-6. Anrede ohne Namen: „Sehr geehrte ______ und Herren,"
-7. Widerspruch: „Hiermit ______ ich Einspruch gegen den Bescheid vom … ein."
-8. Mehr Zeit: „Ich ______ um eine Fristverlängerung bis zum 30.09."
-9. Angebot am Briefende: „Für Rückfragen stehe ich Ihnen gern zur ______."
-10. Schlussformel: „Mit ______ Grüßen"
+6. Anrede ohne Namen: „Sehr geehrte ______ und Herren,“
+7. Widerspruch: „Hiermit ______ ich Einspruch gegen den Bescheid vom … ein.“
+8. Mehr Zeit: „Ich ______ um eine Fristverlängerung bis zum 30.09.“
+9. Angebot am Briefende: „Für Rückfragen stehe ich Ihnen gern zur ______.“
+10. Schlussformel: „Mit ______ Grüßen“
 
 **Behördendeutsch auflösen (4 Punkte):**
-11. „nach Eingang Ihrer Unterlagen" → sobald Ihre Unterlagen ______
-12. „bei Nichtvorlage der Belege" → wenn Sie die Belege nicht ______
-13. „nach Ablauf der Frist" → nachdem die Frist ______ ist
-14. „unter Beifügung der Nachweise" → indem Sie die Nachweise ______
+11. „nach Eingang Ihrer Unterlagen“ → sobald Ihre Unterlagen ______
+12. „bei Nichtvorlage der Belege“ → wenn Sie die Belege nicht ______
+13. „nach Ablauf der Frist“ → nachdem die Frist ______ ist
+14. „unter Beifügung der Nachweise“ → indem Sie die Nachweise ______
 
 _11+ / 14 → du kommst mit dem Finanzamt klar. Unter 11: Block A und B noch einmal._
 

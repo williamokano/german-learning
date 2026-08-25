@@ -66,14 +66,14 @@ exercises:
     instructions: "Ergänze das Verb, das den Nominalausdruck auflöst."
     instructionsEn: "Fill in the verb that resolves the nominal expression."
     text: |
-      1. „nach Vorlage aller Unterlagen" → sobald Sie alle Unterlagen {1}
-      2. „bei Ablauf des Titels" → wenn der Titel {2}
-      3. „zur Bearbeitung Ihres Antrags" → damit wir Ihren Antrag {3} können
-      4. „unter Vorlage des Reisepasses" → indem Sie den Reisepass {4}
-      5. „nach Prüfung der Voraussetzungen" → nachdem wir die Voraussetzungen {5} haben
-      6. „bei Nichterscheinen zum Termin" → wenn Sie nicht zum Termin {6}
-      7. „zur Vermeidung von Verzögerungen" → damit sich nichts {7}
-      8. „nach Eingang der Gebühr" → sobald die Gebühr {8}
+      1. „nach Vorlage aller Unterlagen“ → sobald Sie alle Unterlagen {1}
+      2. „bei Ablauf des Titels“ → wenn der Titel {2}
+      3. „zur Bearbeitung Ihres Antrags“ → damit wir Ihren Antrag {3} können
+      4. „unter Vorlage des Reisepasses“ → indem Sie den Reisepass {4}
+      5. „nach Prüfung der Voraussetzungen“ → nachdem wir die Voraussetzungen {5} haben
+      6. „bei Nichterscheinen zum Termin“ → wenn Sie nicht zum Termin {6}
+      7. „zur Vermeidung von Verzögerungen“ → damit sich nichts {7}
+      8. „nach Eingang der Gebühr“ → sobald die Gebühr {8}
     answers:
       "1": vorlegen
       "2": abläuft
@@ -396,17 +396,17 @@ exercises:
       5. Die Nummer, unter der dein Vorgang läuft: das {5}
 
       **Formelle Redemittel (5 Punkte):**
-      6. Anrede ohne Namen: „Sehr geehrte {6} und Herren,"
-      7. Bitte: „Ich {7} um eine Fiktionsbescheinigung."
-      8. Nachfrage: „Könnten Sie mir bitte {8}, welche Unterlagen fehlen?"
-      9. Absage: „Leider kann ich den Termin nicht {9}."
-      10. Schlussformel: „Mit {10} Grüßen"
+      6. Anrede ohne Namen: „Sehr geehrte {6} und Herren,“
+      7. Bitte: „Ich {7} um eine Fiktionsbescheinigung.“
+      8. Nachfrage: „Könnten Sie mir bitte {8}, welche Unterlagen fehlen?“
+      9. Absage: „Leider kann ich den Termin nicht {9}.“
+      10. Schlussformel: „Mit {10} Grüßen“
 
       **Behördendeutsch (4 Punkte):**
-      11. „nach Vorlage aller Unterlagen" → sobald Sie alle Unterlagen {11}
-      12. „bei Ablauf des Titels" → wenn der Titel {12}
-      13. „bei Nichterscheinen zum Termin" → wenn Sie nicht zum Termin {13}
-      14. „nach Eingang der Gebühr" → sobald die Gebühr {14}
+      11. „nach Vorlage aller Unterlagen“ → sobald Sie alle Unterlagen {11}
+      12. „bei Ablauf des Titels“ → wenn der Titel {12}
+      13. „bei Nichterscheinen zum Termin“ → wenn Sie nicht zum Termin {13}
+      14. „nach Eingang der Gebühr“ → sobald die Gebühr {14}
     answers:
       "1": Aufenthaltstitel
       "2": Fiktionsbescheinigung

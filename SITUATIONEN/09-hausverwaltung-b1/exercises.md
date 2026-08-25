@@ -183,11 +183,11 @@ Ergänze die Lücken.
 5. Der Teil des Schadens, den du selbst trägst: die ______
 
 **Redemittel (5 Punkte):**
-6. Nachdrücklich: „Ich ______ Sie hiermit auf, das Schloss zu reparieren."
-7. Frist: „Eine Rückmeldung ______ ich bis zum 20.06."
-8. Vorgeschichte: „Ich habe Sie bereits zweimal darauf ______."
-9. Summe: „Der Schaden ______ sich auf etwa 1.200 Euro."
-10. Anlagen: „Eine Kopie der Anzeige ______ ich bei."
+6. Nachdrücklich: „Ich ______ Sie hiermit auf, das Schloss zu reparieren.“
+7. Frist: „Eine Rückmeldung ______ ich bis zum 20.06.“
+8. Vorgeschichte: „Ich habe Sie bereits zweimal darauf ______.“
+9. Summe: „Der Schaden ______ sich auf etwa 1.200 Euro.“
+10. Anlagen: „Eine Kopie der Anzeige ______ ich bei.“
 
 **Vorfall schildern (4 Punkte):**
 11. Die Kellertür ______ aufgebrochen. (Präteritum Passiv)
