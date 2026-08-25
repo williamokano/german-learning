@@ -98,13 +98,25 @@ Same discipline as a `THEMEN/` set:
   Expresskasse; abgelehnte Karte, Preisfehler, Umtausch mit Kassenbon.
 - **03 — Beim Finanzamt** (B1) — Bescheid lesen, Behördendeutsch auflösen,
   Einspruch schreiben, Ratenzahlung beantragen.
+- **04 — Im Restaurant** (A2) — reservieren, Sonderwünsche, Allergien, zahlen;
+  falsches Gericht, kaltes Essen, Fehler auf der Rechnung.
+- **05 — Panne unterwegs** (A2) — Standort und Schaden am Telefon,
+  Werkstatt und Kostenvoranschlag; kein Empfang, Reparatur wird teurer.
+- **06 — Beim Arzt** (A2) — Termin, Beschwerden schildern, Rezept und
+  Krankschreibung; kein Termin frei, fehlende Überweisung, 116 117 vs. 112.
+- **07 — Bei der Ausländerbehörde** (B1) — Unterlagenliste, Verlängerung,
+  schriftlich nachfragen; Titel läuft vor dem Termin ab.
+- **08 — Fitnessstudio: Vertrag und Kündigung** (B1) — Laufzeit,
+  Verlängerung, Frist; Frist verpasst, keine Bestätigung, Umzug.
+- **09 — Probleme im Haus** (B1) — Einbruch im Keller schildern, die
+  Hausverwaltung mit Frist auffordern, Anzeige und Versicherung.
 
 ## Themenspeicher
 
 Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
 wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 
-**Essen & Trinken** — Im Restaurant (A2) · Tisch reservieren und umbuchen ·
+**Essen & Trinken** — Tisch reservieren und umbuchen ·
 Beim Bäcker und beim Metzger (A1) · Lieferdienst: falsche Bestellung ·
 Biergarten und Volksfest · Die Rechnung: zusammen oder getrennt?
 
@@ -114,9 +126,8 @@ und kündigen · Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln �
 Online bestellt, falsch geliefert: Widerruf · Ein Buch kaufen · Ein Auto kaufen
 (B1) · Eine Wohnung kaufen (B2)
 
-**Unterwegs** — Am Bahnhof: Verspätung, Anschluss verpasst, Fahrgastrechte
-(B1) · Am Flughafen: Check-in, Gepäck weg, Flug annulliert · Reifenpanne und
-ADAC (A2) · In der Werkstatt: Kostenvoranschlag · Tanken und E-Auto laden ·
+**Unterwegs** — Größere Reparatur in der Werkstatt · Am Bahnhof: Verspätung, Anschluss verpasst, Fahrgastrechte
+(B1) · Am Flughafen: Check-in, Gepäck weg, Flug annulliert · Tanken und E-Auto laden ·
 Mietwagen abholen und Schaden melden · Falsch geparkt: Knöllchen und
 Abschleppdienst · Verkehrskontrolle und Unfall melden · Führerschein machen ·
 Hotel: buchen, einchecken, reklamieren · Eine Reise mit Freunden planen
@@ -125,20 +136,17 @@ Hotel: buchen, einchecken, reklamieren · Eine Reise mit Freunden planen
 In der Bibliothek (A2) · Auf einem Konzert · Einem Verein beitreten ·
 Wandern und Klettern
 
-**Sport & Gesundheit** — Im Fitnessstudio: Vertrag und vor allem Kündigung
-(B1) · Termin beim Arzt (A2) · In der Apotheke (A2) · Notaufnahme und Notruf ·
+**Sport & Gesundheit** — In der Apotheke (A2) · Notaufnahme und Notruf ·
 Beim Zahnarzt · Krankschreibung beim Arbeitgeber
 
 **Wohnen & Nachbarschaft** — Gespräch mit den Nachbarn (A2) ·
 Wohnungsbesichtigung und Bewerbung um eine Wohnung (B1) · Mängel melden:
 Heizung, Schimmel, Wasserschaden (B1) · Hausordnung: Ruhezeiten, Waschküche,
 Mülltrennung · Umzug organisieren · Handwerker bestellen ·
-An die Hausverwaltung schreiben: Einbrüche im Keller, gestohlene Fahrräder
-(B1) · Nebenkostenabrechnung prüfen und widersprechen (B2)
+Nebenkostenabrechnung prüfen und widersprechen (B2)
 
 **Behörden & Formelles** — Bürgeramt: An-, Um- und Abmeldung (A2) ·
-Ausländerbehörde: Termin, Unterlagen, Aufenthaltstitel (B1) · Krankenkasse:
-anmelden und wechseln · Bank: Konto eröffnen, Karte gesperrt · Rundfunkbeitrag ·
+Krankenkasse: anmelden und wechseln · Bank: Konto eröffnen, Karte gesperrt · Rundfunkbeitrag ·
 Standesamt · Kita-Platz beantragen · Führungszeugnis · Anerkennung
 ausländischer Abschlüsse · Arbeitsagentur und Jobcenter
 
