@@ -430,7 +430,7 @@ Self-check:
 
 Eine Antwort pro Aufgabe. Keine Notizen.
 
-1. „am" + Datum: „am dreizehnten ______" — which month comes after Mai? → ______
+1. „am" + Datum: „am dreizehnten …" — which month comes after Mai? → ______
 2. 3. Oktober spoken → ______
 3. (L5) Separable verb in a sentence: „Sie ______ um 7 Uhr ______." (aufstehen)
 4. Temporal preposition for months: ______ März

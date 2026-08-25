@@ -133,7 +133,7 @@ Welche Konnotation hat das Wort im gegebenen Kontext?
 
 Setze die passende Figur ein (Anapher, Trikolon, Antithese, Oxymoron, Chiasmus). 6 Items.
 
-1. Die Stadt ______. Die Stadt ______. Die Stadt ______. (Anapher — gleicher Satzanfang)
+1. Die Stadt ______. Die Stadt ______. Die Stadt ______. (Anapher — gleicher Satzanfang, dreimal dasselbe Verb)
 2. „Ehre, Pflicht, ______." (Trikolon — das dritte Glied fehlt)
 3. „Die einen für die ______, die anderen für die Sicherheit." (Antithese — Gegenüberstellung)
 4. „______ Schweigen." (Oxymoron — widersprüchliche Adjektiv-Substantiv-Verbindung)

@@ -891,7 +891,7 @@ exercises:
     instructions: "Eine Antwort pro Aufgabe. Keine Notizen."
     instructionsEn: "One answer per item. No notes."
     text: |
-      1. „am" + Datum: „am dreizehnten {1}" — which month comes after Mai? → {1}
+      1. „am" + Datum: „am dreizehnten …" — which month comes after Mai? → {1}
       2. 3. Oktober spoken → {2}
       3. (L5) Separable verb in a sentence: „Sie {3} um 7 Uhr {4}." (aufstehen)
       4. Temporal preposition for months: {5} März

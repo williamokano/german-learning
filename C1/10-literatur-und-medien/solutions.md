@@ -69,7 +69,7 @@
 
 ## Übung A5 — Rhetorische Figuren einsetzen
 
-1. **schweigt**  2. **Vaterland**  3. **Freiheit**  4. **Beredtes**  5. **ist**  6. **siegte**
+1. **schweigt**  2. **schweigt**  3. **schweigt**  4. **Vaterland**  5. **Freiheit**  6. **Beredtes**  7. **ist**  8. **siegte**
 
 ## Übung A6 — Rhetorische Figuren: Definition zuordnen
 
