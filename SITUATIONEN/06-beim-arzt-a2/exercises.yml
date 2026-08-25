@@ -1,0 +1,449 @@
+lesson: "SIT/06-beim-arzt-a2"
+title: "Beim Arzt — A2"
+topic: "Beim Arzt"
+category: "Sport & Gesundheit"
+level: A2
+summary: "Einen Termin bekommen, Beschwerden beschreiben, Rezept und Krankschreibung — und weiterkommen, wenn kein Termin frei ist."
+intro: >
+  Vom Anruf in der Praxis bis zum Rezept in der Hand. Der Kern ist:
+  Beschwerden so beschreiben, dass jemand sie einordnen kann — seit wann,
+  wo genau, wie stark. Dazu das deutsche System: Hausarzt, Überweisung,
+  Facharzt, Krankschreibung für den Arbeitgeber. Grammatik nach Bedarf:
+  „seit“ + Dativ, Körperteile mit „tut/tun weh“, Modalverben für
+  Empfehlungen. Block C ist der Ernstfall: kein Termin frei, Überweisung
+  fehlt, am Wochenende krank. Blocks: A Wortschatz & Redemittel →
+  B Dialoge → C Wenn es schiefgeht → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Beschwerden: was tut weh?"
+    instructions: "Ergänze „tut weh“ oder „tun weh“."
+    instructionsEn: "Fill in „tut weh“ (singular) or „tun weh“ (plural)."
+    text: |
+      1. Mein Kopf {1}.
+      2. Meine Ohren {2}.
+      3. Mein Hals {3}.
+      4. Meine Füße {4}.
+      5. Mein Rücken {5}.
+      6. Meine Augen {6}.
+    answers:
+      "1": "tut weh"
+      "2": "tun weh"
+      "3": "tut weh"
+      "4": "tun weh"
+      "5": "tut weh"
+      "6": "tun weh"
+
+  - id: A2
+    block: A
+    type: categorize
+    title: "Symptom, Person oder Dokument?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: symptom, label: "Symptom" }
+      - { key: person, label: "Person / Ort" }
+      - { key: dokument, label: "Dokument" }
+    tokens:
+      - { text: "das Fieber", bucket: symptom }
+      - { text: "der Hausarzt", bucket: person }
+      - { text: "das Rezept", bucket: dokument }
+      - { text: "der Husten", bucket: symptom }
+      - { text: "die Sprechstundenhilfe", bucket: person }
+      - { text: "die Überweisung", bucket: dokument }
+      - { text: "die Übelkeit", bucket: symptom }
+      - { text: "der Facharzt", bucket: person }
+      - { text: "die Krankschreibung", bucket: dokument }
+      - { text: "der Schwindel", bucket: symptom }
+      - { text: "die Apotheke", bucket: person }
+      - { text: "die Versichertenkarte", bucket: dokument }
+
+  - id: A3
+    block: A
+    type: matching
+    title: "Frage und Antwort in der Praxis"
+    instructions: "Ordne jede Frage (1–8) der passenden Antwort (a–h) zu."
+    instructionsEn: "Match each question (1–8) with the fitting answer (a–h)."
+    left:
+      - { key: "1", text: "Was fehlt Ihnen denn?" }
+      - { key: "2", text: "Seit wann haben Sie die Beschwerden?" }
+      - { key: "3", text: "Haben Sie Fieber gemessen?" }
+      - { key: "4", text: "Waren Sie schon einmal bei uns?" }
+      - { key: "5", text: "Nehmen Sie regelmäßig Medikamente?" }
+      - { key: "6", text: "Brauchen Sie eine Krankschreibung?" }
+      - { key: "7", text: "Haben Sie Ihre Versichertenkarte dabei?" }
+      - { key: "8", text: "Sind Sie gegen etwas allergisch?" }
+    right:
+      - { key: a, text: "Ja, 38,5 heute Morgen." }
+      - { key: b, text: "Seit drei Tagen." }
+      - { key: c, text: "Ja, bitte für diese Woche — mein Arbeitgeber braucht sie." }
+      - { key: d, text: "Ich habe Halsschmerzen und Husten." }
+      - { key: e, text: "Nein, das ist mein erster Termin hier." }
+      - { key: f, text: "Ja, gegen Penizillin." }
+      - { key: g, text: "Nur eine Tablette für den Blutdruck." }
+      - { key: h, text: "Ja, hier ist sie." }
+    answers:
+      "1": d
+      "2": b
+      "3": a
+      "4": e
+      "5": g
+      "6": c
+      "7": h
+      "8": f
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "„seit“ + Dativ"
+    instructions: "Ergänze die richtige Form."
+    instructionsEn: "Fill in the correct form."
+    text: |
+      1. Ich habe seit {1} Tagen Kopfschmerzen. (drei)
+      2. Der Husten ist seit {2} Woche schlimmer geworden. (eine)
+      3. Seit {3} Montag geht es mir schlecht. (der)
+      4. Sie hat seit {4} Monat Rückenschmerzen. (ein)
+      5. Seit {5} Wochen kann ich nicht gut schlafen. (zwei)
+      6. Seit {6} Operation habe ich keine Schmerzen mehr. (die)
+    answers:
+      "1": drei
+      "2": einer
+      "3": dem
+      "4": einem
+      "5": zwei
+      "6": der
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Anruf in der Praxis: Termin machen"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Praxis Dr. Weber, guten Morgen.
+      — Guten Morgen, ich hätte gern einen {1}.
+      — Waren Sie schon einmal bei {2}?
+      — Nein, ich bin neu hier.
+      — Dann brauche ich Ihren Namen und Ihr {3}.
+      — Akin Yilmaz, 12.03.1990.
+      — Was {4} Ihnen denn?
+      — Ich habe {5} drei Tagen Halsschmerzen und Fieber.
+      — Haben Sie {6} gemessen?
+      — Ja, 38,5.
+      — Können Sie heute um 15:20 Uhr {7}?
+      — Ja, das {8} gut.
+      — Bringen Sie bitte Ihre {9} mit. Und kommen Sie zehn Minuten
+      {10} — Sie müssen noch ein Formular ausfüllen.
+    bank: [TERMIN, UNS, GEBURTSDATUM, FEHLT, SEIT, FIEBER, KOMMEN, PASST, VERSICHERTENKARTE, FRÜHER, WOHER, REZEPT, SPÄTER, WARTEN]
+    answers:
+      "1": TERMIN
+      "2": UNS
+      "3": GEBURTSDATUM
+      "4": FEHLT
+      "5": SEIT
+      "6": FIEBER
+      "7": KOMMEN
+      "8": PASST
+      "9": VERSICHERTENKARTE
+      "10": FRÜHER
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Was sagst du?"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Die Sprechstundenhilfe fragt „Was fehlt Ihnen?“ — The receptionist asks what's wrong."
+        options:
+          - { key: a, text: "Nichts fehlt mir." }
+          - { key: b, text: "Ich habe seit drei Tagen Halsschmerzen und Fieber." }
+          - { key: c, text: "Ich bin krank." }
+        answer: b
+        why: '„Was fehlt Ihnen?“ heißt „was haben Sie für Beschwerden?“ — konkret antworten: was, seit wann.'
+      - q: "Der Arzt fragt, wie stark die Schmerzen sind. — The doctor asks how bad the pain is."
+        options:
+          - { key: a, text: "Sehr stark, besonders beim Schlucken." }
+          - { key: b, text: "Ganz normal." }
+          - { key: c, text: "Ich weiß nicht." }
+        answer: a
+        why: 'Stärke plus die Situation, in der es weh tut — das braucht der Arzt für die Diagnose.'
+      - q: "Du brauchst eine Bescheinigung für deinen Arbeitgeber. — You need a certificate for your employer."
+        options:
+          - { key: a, text: "Ich brauche einen Zettel." }
+          - { key: b, text: "Können Sie mir eine Krankschreibung ausstellen?" }
+          - { key: c, text: "Ich kann nicht arbeiten." }
+        answer: b
+        why: '„Krankschreibung“ (offiziell: Arbeitsunfähigkeitsbescheinigung) ist das Wort, das in der Praxis erwartet wird.'
+      - q: "Der Arzt sagt, du sollst zum Facharzt. — The doctor says you should see a specialist."
+        options:
+          - { key: a, text: "Wo ist der?" }
+          - { key: b, text: "Muss ich da noch einmal zahlen?" }
+          - { key: c, text: "Bekomme ich dafür eine Überweisung?" }
+        answer: c
+        why: 'Ohne Überweisung vom Hausarzt nimmt einen der Facharzt oft gar nicht erst an.'
+      - q: "Du bist gegen Penizillin allergisch. — You're allergic to penicillin."
+        options:
+          - { key: a, text: "Ich vertrage Penizillin nicht so gut." }
+          - { key: b, text: "Ich bin gegen Penizillin allergisch." }
+          - { key: c, text: "Kein Penizillin, bitte." }
+        answer: b
+        why: 'Das Wort „allergisch“ ist eindeutig — „nicht gut vertragen“ kann auch Nebenwirkung heißen.'
+      - q: "In der Apotheke gibst du das Rezept ab. — At the pharmacy you hand in the prescription."
+        options:
+          - { key: a, text: "Guten Tag, ich möchte dieses Rezept einlösen." }
+          - { key: b, text: "Hier." }
+          - { key: c, text: "Ich brauche Medikamente." }
+        answer: a
+        why: '„Ein Rezept einlösen“ ist der feste Ausdruck in der Apotheke.'
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze beim Arzt bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "habe", "seit", "drei", "Tagen", "Halsschmerzen"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "seit + Dativ, Verb an Position 2"
+      - tiles: ["Können", "Sie", "mir", "eine", "Krankschreibung", "ausstellen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Modalverb an Position 1, Infinitiv am Ende"
+      - tiles: ["Mein", "Kopf", "tut", "sehr", "weh"]
+        answer: [0, 1, 2, 3, 4]
+        note: "weh tun: weh am Ende"
+      - tiles: ["Ich", "bin", "gegen", "Penizillin", "allergisch"]
+        answer: [0, 1, 2, 3, 4]
+        note: "allergisch gegen + Akkusativ, Adjektiv am Ende"
+      - tiles: ["Bekomme", "ich", "dafür", "eine", "Überweisung", "?"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Ja/Nein-Frage: Verb an Position 1"
+      - tiles: ["Sie", "sollten", "drei", "Tage", "im", "Bett", "bleiben"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Empfehlung mit sollten, Infinitiv am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Aushang in der Praxis"
+    instructions: |
+      > **Praxis Dr. Weber — Hausarztpraxis**
+      >
+      > Sprechzeiten:
+      > - Mo, Di, Do: 8:00–12:00 und 15:00–18:00 Uhr
+      > - Mi, Fr: 8:00–12:00 Uhr
+      >
+      > Offene Sprechstunde ohne Termin: Mo–Fr 8:00–9:00 Uhr.
+      > Bitte bringen Sie zu jedem Besuch Ihre Versichertenkarte mit.
+      > Rezepte zum Abholen: bitte einen Tag vorher anrufen.
+      > Krankschreibungen stellen wir nur nach persönlichem Besuch aus.
+      >
+      > Außerhalb der Sprechzeiten: ärztlicher Bereitschaftsdienst 116 117.
+      > Im Notfall: 112.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Am Mittwochnachmittag ist die Praxis geöffnet. — The practice is open on Wednesday afternoon."
+        answer: false
+        why: "Mi und Fr nur 8:00–12:00 Uhr."
+      - q: "Ohne Termin kann man morgens zwischen 8 und 9 kommen. — Without an appointment you can come between 8 and 9 in the morning."
+        answer: true
+        why: "„Offene Sprechstunde ohne Termin: Mo–Fr 8:00–9:00 Uhr.“"
+      - q: "Eine Krankschreibung bekommt man auch telefonisch. — You can get a sick note by phone."
+        answer: false
+        why: "„nur nach persönlichem Besuch“."
+      - q: "Ein Folgerezept sollte man einen Tag vorher bestellen. — A repeat prescription should be ordered a day in advance."
+        answer: true
+        why: "„Rezepte zum Abholen: bitte einen Tag vorher anrufen.“"
+      - q: "Am Sonntagabend ruft man bei starken Halsschmerzen die 112. — On Sunday evening you call 112 for a bad sore throat."
+        answer: false
+        why: "112 ist für Notfälle. Für den Bereitschaftsdienst gilt 116 117."
+      - q: "Die Versichertenkarte braucht man nur beim ersten Besuch. — You only need the insurance card on your first visit."
+        answer: false
+        why: "„zu jedem Besuch“."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Der Ernstfall"
+    instructions: "Was machst oder sagst du? Wähle a, b oder c."
+    instructionsEn: "What do you do or say? Choose a, b, or c."
+    items:
+      - q: "Die Praxis hat erst in drei Wochen einen Termin, du bist heute krank. — The practice has no slot for three weeks; you're ill today."
+        options:
+          - { key: a, text: "Drei Wochen sind zu lang! Ich brauche heute etwas." }
+          - { key: b, text: "Gibt es eine offene Sprechstunde? Sonst komme ich morgen früh." }
+          - { key: c, text: "Dann gehe ich ins Krankenhaus." }
+        answer: b
+        why: 'Fast jede Hausarztpraxis hat eine offene Sprechstunde — danach fragen statt auf einen Termin zu bestehen.'
+      - q: "Du bist krank und musst deinem Arbeitgeber Bescheid geben. — You're ill and have to tell your employer."
+        options:
+          - { key: a, text: "Am ersten Tag anrufen und sagen, dass du krank bist und wie lange voraussichtlich." }
+          - { key: b, text: "Warten, bis du die Krankschreibung hast." }
+          - { key: c, text: "Eine E-Mail schreiben, wenn du wieder da bist." }
+        answer: a
+        why: 'Die Meldung geht am ersten Tag raus — die Krankschreibung reichst du danach nach.'
+      - q: "Der Facharzt sagt am Telefon: „Ohne Überweisung kein Termin.“ — The specialist says: no referral, no appointment."
+        options:
+          - { key: a, text: "Das ist nicht mein Problem." }
+          - { key: b, text: "Ich hole die Überweisung beim Hausarzt und melde mich dann wieder." }
+          - { key: c, text: "Ich komme trotzdem vorbei." }
+        answer: b
+        why: 'Die Überweisung besorgen und neu anrufen — sie ist beim Hausarzt meist ohne Termin zu bekommen.'
+      - q: "Es ist Samstag, du hast hohes Fieber und starke Schmerzen. — It's Saturday, you have a high fever and bad pain."
+        options:
+          - { key: a, text: "Bis Montag warten." }
+          - { key: b, text: "Die 112 anrufen." }
+          - { key: c, text: "Den ärztlichen Bereitschaftsdienst unter 116 117 anrufen." }
+        answer: c
+        why: '116 117 ist genau dafür da: krank außerhalb der Sprechzeiten, aber kein Notfall.'
+      - q: "In der Apotheke ist dein Medikament nicht vorrätig. — The pharmacy doesn't have your medicine in stock."
+        options:
+          - { key: a, text: "Können Sie es bestellen? Bis wann wäre es da?" }
+          - { key: b, text: "Dann gehe ich woanders hin." }
+          - { key: c, text: "Geben Sie mir etwas Ähnliches." }
+        answer: a
+        why: 'Bestellen lassen und nach dem Termin fragen — meist ist es am nächsten Morgen da.'
+      - q: "Du verstehst nicht, was der Arzt gesagt hat. — You didn't understand what the doctor said."
+        options:
+          - { key: a, text: "Ja, ja, alles klar." }
+          - { key: b, text: "Entschuldigung, könnten Sie das bitte noch einmal einfacher erklären?" }
+          - { key: c, text: "Ich lese es später nach." }
+        answer: b
+        why: 'Nachfragen ist normal und wichtig — bei Medikamenten und Dosierung darf nichts unklar bleiben.'
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das fehlende Wort."
+    instructionsEn: "Fill in the missing word."
+    text: |
+      1. Gibt es bei Ihnen eine {1} Sprechstunde? (ohne Termin)
+      2. Ich brauche eine {2} für meinen Arbeitgeber. (Dokument bei Krankheit)
+      3. Für den Facharzt brauche ich eine {3} vom Hausarzt. (Zettel zur Weiterleitung)
+      4. Am Wochenende hilft der ärztliche {4}. (Dienst außerhalb der Sprechzeiten)
+      5. Ich möchte dieses Rezept {5}. (in der Apotheke abgeben)
+      6. Das Medikament ist gerade nicht {6}. (nicht da, nicht im Lager)
+      7. Könnten Sie das bitte noch einmal einfacher {7}? (verständlich sagen)
+      8. Ich bin {8} Penizillin allergisch. (Präposition)
+    answers:
+      "1": offene
+      "2": Krankschreibung
+      "3": Überweisung
+      "4": Bereitschaftsdienst
+      "5": einlösen
+      "6": vorrätig
+      "7": erklären
+      "8": gegen
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    notes: "11+ / 14 → du kommst beim Arzt klar. Unter 11: Block A und C noch einmal."
+    instructions: "Ergänze die Lücken."
+    instructionsEn: "Fill in the gaps."
+    text: |
+      **Beschwerden (4 Punkte):**
+      1. Mein Hals {1}. (Singular)
+      2. Meine Ohren {2}. (Plural)
+      3. Ich habe {3} drei Tagen Fieber.
+      4. Ich bin {4} Penizillin allergisch.
+
+      **Redemittel (5 Punkte):**
+      5. Termin: „Ich hätte gern einen {5}."
+      6. Für den Arbeitgeber: „Können Sie mir eine {6} ausstellen?"
+      7. Für den Facharzt: „Bekomme ich dafür eine {7}?"
+      8. In der Apotheke: „Ich möchte dieses Rezept {8}."
+      9. Nachfragen: „Könnten Sie das bitte noch einmal einfacher {9}?"
+
+      **Das System (5 Punkte):**
+      10. Der erste Arzt, zu dem man geht: der {10}
+      11. Ohne Termin morgens: die {11} Sprechstunde
+      12. Karte, die man immer mitbringt: die {12}
+      13. Am Wochenende krank, aber kein Notfall: {13} anrufen
+      14. Echter Notfall: {14} anrufen
+    answers:
+      "1": "tut weh"
+      "2": "tun weh"
+      "3": seit
+      "4": gegen
+      "5": Termin
+      "6": Krankschreibung
+      "7": Überweisung
+      "8": einlösen
+      "9": erklären
+      "10": Hausarzt
+      "11": offene
+      "12": Versichertenkarte
+      "13": "116 117"
+      "14": "112"
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Rollenspiel: krank am Montagmorgen"
+    prompt: "Schreib zwei Texte: das Telefonat mit der Praxis und die Nachricht an deine Chefin. 12–16 Sätze."
+    stimulus: |
+      Deine Situation:
+
+      Seit Freitag hast du Halsschmerzen. Am Wochenende kam Fieber dazu
+      (heute Morgen 38,7). Schlucken tut sehr weh. Du bist neu in der
+      Praxis. Du bist gegen Penizillin allergisch. Du brauchst eine
+      Krankschreibung für diese Woche.
+
+      Teil 1 — das Telefonat mit der Praxis.
+      Teil 2 — die Nachricht an deine Chefin: Du meldest dich krank und
+      sagst, wie lange du voraussichtlich ausfällst.
+    use:
+      - "`Ich habe seit … Halsschmerzen.`"
+      - "`Können Sie mir eine Krankschreibung ausstellen?`"
+      - "`Ich bin gegen … allergisch.`"
+      - "Sie-Form in beiden Texten"
+    selfCheck:
+      - "Hast du gesagt, seit wann du die Beschwerden hast?"
+      - "Hast du die Allergie erwähnt?"
+      - "Steht in der Nachricht an die Chefin, wie lange du voraussichtlich fehlst?"
+      - "Hast du `seit` mit dem Dativ benutzt?"
+    model: |
+      **Teil 1 — Telefonat mit der Praxis**
+
+      Praxis: Praxis Dr. Weber, guten Morgen.
+      Ich: Guten Morgen, ich hätte gern einen Termin.
+      Praxis: Waren Sie schon einmal bei uns?
+      Ich: Nein, ich bin neu hier. Mein Name ist Akin Yilmaz, geboren am 12.03.1990.
+      Praxis: Was fehlt Ihnen denn?
+      Ich: Ich habe seit Freitag Halsschmerzen, und seit gestern habe ich auch Fieber. Heute Morgen waren es 38,7. Das Schlucken tut sehr weh.
+      Praxis: Können Sie heute um 15:20 Uhr kommen?
+      Ich: Ja, das passt gut. Eine Sache noch: Ich bin gegen Penizillin allergisch.
+      Praxis: Danke, ich notiere das. Bringen Sie bitte Ihre Versichertenkarte mit.
+      Ich: Mache ich. Können Sie mir auch eine Krankschreibung ausstellen? Mein Arbeitgeber braucht sie.
+      Praxis: Das entscheidet der Arzt, aber normalerweise ja.
+
+      **Teil 2 — Nachricht an die Chefin**
+
+      Guten Morgen Frau Berger,
+      leider muss ich mich heute krankmelden. Ich habe seit Freitag
+      Halsschmerzen und seit gestern Fieber. Heute Nachmittag habe ich
+      einen Termin beim Arzt. Voraussichtlich falle ich diese Woche aus;
+      die Krankschreibung reiche ich nach, sobald ich sie habe.
+      Viele Grüße
+      Akin Yilmaz

@@ -1,0 +1,480 @@
+lesson: "SIT/09-hausverwaltung-b1"
+title: "Einbrüche im Haus: Hausverwaltung und Anzeige — B1"
+topic: "Probleme im Haus"
+category: "Wohnen & Nachbarschaft"
+level: B1
+summary: "Diebstähle im Keller melden, die Hausverwaltung schriftlich in die Pflicht nehmen, Anzeige erstatten und den Schaden bei der Versicherung anmelden."
+intro: >
+  Im Keller wurde schon dreimal eingebrochen, Fahrräder sind weg, das
+  Schloss an der Kellertür ist seit Monaten kaputt. Wer hier weiterkommt,
+  kann drei Dinge: einen Vorfall sachlich schildern, die Hausverwaltung
+  schriftlich und mit Frist zum Handeln auffordern, und bei Polizei und
+  Versicherung die richtigen Angaben machen. Grammatik nach Bedarf:
+  Perfekt und Präteritum für den Vorfall, Passiv („wurde aufgebrochen“),
+  Konjunktiv II für die höfliche, aber bestimmte Aufforderung. Blocks:
+  A Wortschatz & Redemittel → B Dialoge → C Wenn es schiefgeht →
+  D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Wer ist wofür zuständig?"
+    instructions: "Sortiere die 12 Anliegen nach der richtigen Stelle."
+    instructionsEn: "Sort the 12 matters by the right place to go."
+    buckets:
+      - { key: verwaltung, label: "Hausverwaltung" }
+      - { key: polizei, label: "Polizei" }
+      - { key: versicherung, label: "Versicherung" }
+    tokens:
+      - { text: "kaputtes Schloss an der Kellertür", bucket: verwaltung }
+      - { text: "Anzeige wegen Diebstahls", bucket: polizei }
+      - { text: "Schaden am gestohlenen Fahrrad melden", bucket: versicherung }
+      - { text: "defekte Beleuchtung im Treppenhaus", bucket: verwaltung }
+      - { text: "Aktenzeichen für den Vorfall", bucket: polizei }
+      - { text: "Wert der gestohlenen Sachen belegen", bucket: versicherung }
+      - { text: "Antrag auf eine Videokamera im Hof", bucket: verwaltung }
+      - { text: "Spuren am Tatort sichern", bucket: polizei }
+      - { text: "Selbstbeteiligung klären", bucket: versicherung }
+      - { text: "Austausch der Haustür veranlassen", bucket: verwaltung }
+      - { text: "verdächtige Person im Haus melden", bucket: polizei }
+      - { text: "Schadensmeldung mit Kaufbelegen", bucket: versicherung }
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Den Vorfall schildern: Perfekt und Passiv"
+    instructions: "Ergänze die richtige Form."
+    instructionsEn: "Fill in the correct form."
+    text: |
+      1. In der Nacht zum Samstag {1} die Kellertür {2}. (aufbrechen — Präteritum Passiv)
+      2. Aus meinem Kellerabteil {3} zwei Fahrräder {4}. (stehlen — Präteritum Passiv)
+      3. Ich {5} den Schaden am Samstagmorgen {6}. (bemerken — Perfekt)
+      4. Die Polizei {7} eine Anzeige {8}. (aufnehmen — Perfekt)
+      5. Das Schloss {9} seit Monaten {10}. (defekt sein — Präsens)
+    answers:
+      "1": wurde
+      "2": aufgebrochen
+      "3": wurden
+      "4": gestohlen
+      "5": habe
+      "6": bemerkt
+      "7": hat
+      "8": aufgenommen
+      "9": ist
+      "10": defekt
+
+  - id: A3
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jeden Begriff (1–8) seiner Erklärung (a–h) zu."
+    instructionsEn: "Match each term (1–8) with its explanation (a–h)."
+    left:
+      - { key: "1", text: "die Hausverwaltung" }
+      - { key: "2", text: "die Eigentümerversammlung" }
+      - { key: "3", text: "die Anzeige" }
+      - { key: "4", text: "das Aktenzeichen" }
+      - { key: "5", text: "die Hausratversicherung" }
+      - { key: "6", text: "die Selbstbeteiligung" }
+      - { key: "7", text: "die Instandhaltungspflicht" }
+      - { key: "8", text: "die Fristsetzung" }
+    right:
+      - { key: a, text: "Die Nummer, unter der die Polizei den Fall führt." }
+      - { key: b, text: "Die Firma, die sich um das Gebäude kümmert." }
+      - { key: c, text: "Die Meldung einer Straftat bei der Polizei." }
+      - { key: d, text: "Das jährliche Treffen, auf dem über größere Ausgaben entschieden wird." }
+      - { key: e, text: "Der Teil des Schadens, den du selbst trägst." }
+      - { key: f, text: "Die Versicherung für Sachen in der Wohnung und im Keller." }
+      - { key: g, text: "Ein konkretes Datum, bis zu dem etwas erledigt sein muss." }
+      - { key: h, text: "Die Pflicht des Eigentümers, das Gebäude in Ordnung zu halten." }
+    answers:
+      "1": b
+      "2": d
+      "3": c
+      "4": a
+      "5": f
+      "6": e
+      "7": h
+      "8": g
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Höflich, aber bestimmt"
+    instructions: "Ergänze das fehlende Wort."
+    instructionsEn: "Fill in the missing word."
+    text: |
+      1. Ich {1} Sie, das Schloss bis zum 30.06. zu reparieren. (formelle Bitte)
+      2. Ich {2} Sie hiermit auf, tätig zu werden. (nachdrücklicher als bitten)
+      3. Es ist bereits der {3} Vorfall in diesem Jahr. (Zahlwort: 3.)
+      4. Ich {4} eine schriftliche Rückmeldung bis Freitag. (bitten um, förmlich)
+      5. Sollte bis dahin nichts geschehen, {5} ich weitere Schritte. (in Erwägung ziehen)
+      6. Der Schaden {6} sich auf etwa 1.200 Euro. (sich … auf: eine Summe ergeben)
+      7. Bitte {7} Sie mir den Eingang dieses Schreibens. (schriftlich mitteilen)
+      8. Ich {8} Ihnen die Belege bei. (Anlagen mitschicken)
+    answers:
+      "1": bitte
+      "2": fordere
+      "3": dritte
+      "4": erbitte
+      "5":
+        - "prüfe"
+        - "erwäge"
+      "6": beläuft
+      "7": bestätigen
+      "8": füge
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Anruf bei der Polizei: Anzeige erstatten"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Polizei, guten Tag.
+      — Guten Tag. Ich möchte eine {1} erstatten.
+      — Worum geht es?
+      — In unserem Haus wurde in der Nacht die Kellertür {2}. Aus
+      meinem Kellerabteil {3} zwei Fahrräder gestohlen.
+      — Wann haben Sie den Schaden {4}?
+      — Heute Morgen gegen sieben Uhr.
+      — Haben Sie etwas am {5} verändert?
+      — Nein, ich habe nichts {6}.
+      — Gut. Können Sie die Fahrräder {7}?
+      — Ja, ich habe die Rahmennummern und die {8}.
+      — Sehr hilfreich. Sie bekommen ein {9} für Ihre Versicherung.
+      — Wie lange {10} das ungefähr?
+    bank: [ANZEIGE, AUFGEBROCHEN, WURDEN, BEMERKT, TATORT, ANGEFASST, BESCHREIBEN, KAUFBELEGE, AKTENZEICHEN, DAUERT, WOHER, SCHADEN, MELDEN, WERT]
+    answers:
+      "1": ANZEIGE
+      "2": AUFGEBROCHEN
+      "3": WURDEN
+      "4": BEMERKT
+      "5": TATORT
+      "6": ANGEFASST
+      "7": BESCHREIBEN
+      "8": KAUFBELEGE
+      "9": AKTENZEICHEN
+      "10": DAUERT
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Richtig reagieren"
+    instructions: "Wähle die richtige Reaktion."
+    instructionsEn: "Choose the right reaction."
+    items:
+      - q: "Du entdeckst morgens die aufgebrochene Kellertür. Was zuerst? — You discover the forced cellar door in the morning. What first?"
+        options:
+          - { key: a, text: "Aufräumen und die Tür wieder zumachen." }
+          - { key: b, text: "Nichts anfassen, Polizei rufen, dann die Hausverwaltung informieren." }
+          - { key: c, text: "Erst die Nachbarn fragen." }
+        answer: b
+        why: 'Spuren bleiben unberührt, bis die Polizei da war. Erst danach die Verwaltung.'
+      - q: "Du schreibst an die Hausverwaltung. Was gehört unbedingt hinein? — What must the letter to the property manager contain?"
+        options:
+          - { key: a, text: "Datum des Vorfalls, was passiert ist, und eine Frist für die Reparatur." }
+          - { key: b, text: "Wie ärgerlich das alles ist." }
+          - { key: c, text: "Eine Liste aller Nachbarn, die auch betroffen sind." }
+        answer: a
+        why: 'Ohne Datum und Frist ist es nur eine Beschwerde. Mit beidem wird daraus eine Aufforderung, auf die man sich später berufen kann.'
+      - q: "Die Verwaltung antwortet seit drei Wochen nicht. — The property manager hasn't replied for three weeks."
+        options:
+          - { key: a, text: "Aufgeben." }
+          - { key: b, text: "Täglich anrufen." }
+          - { key: c, text: "Schriftlich nachfassen, auf das erste Schreiben mit Datum verweisen und eine neue Frist setzen." }
+        answer: c
+        why: 'Die Kette aus Schreiben mit Daten und Fristen ist genau das, was später zählt.'
+      - q: "Die Versicherung fragt nach dem Wert der Fahrräder. — The insurer asks for the value of the bikes."
+        options:
+          - { key: a, text: "Ungefähr 1.000 Euro, glaube ich." }
+          - { key: b, text: "Kaufbelege und Rahmennummern einreichen, dazu das Aktenzeichen der Polizei." }
+          - { key: c, text: "Ein neues Fahrrad kaufen und die Rechnung schicken." }
+        answer: b
+        why: 'Belege plus Aktenzeichen — ohne Anzeige zahlt die Hausratversicherung bei Diebstahl in der Regel nicht.'
+      - q: "Ein Nachbar sagt, das bringe alles nichts. — A neighbour says none of this will help."
+        options:
+          - { key: a, text: "Ihm recht geben." }
+          - { key: b, text: "Vorschlagen, dass ihr gemeinsam schreibt und das Thema auf die Eigentümerversammlung bringt." }
+          - { key: c, text: "Allein weitermachen und nichts sagen." }
+        answer: b
+        why: 'Mehrere Betroffene und ein Tagesordnungspunkt auf der Versammlung bewegen mehr als ein Einzelschreiben.'
+      - q: "Die Verwaltung sagt, für ein neues Schloss sei kein Geld da. — The manager says there's no money for a new lock."
+        options:
+          - { key: a, text: "Auf die Instandhaltungspflicht verweisen und um eine schriftliche Begründung bitten." }
+          - { key: b, text: "Selbst ein Schloss einbauen." }
+          - { key: c, text: "Die Miete kürzen." }
+        answer: a
+        why: 'Eine schriftliche Absage ist ein brauchbares Dokument. Eigenmächtige Einbauten und Mietkürzungen schaffen neue Probleme.'
+
+  - id: B3
+    block: B
+    type: gap-text
+    listLayout: true
+    title: "Das Schreiben an die Hausverwaltung"
+    instructions: "Ergänze die fehlenden Wörter."
+    instructionsEn: "Fill in the missing words."
+    text: |
+      Sehr geehrte Damen und Herren,
+
+      in der Nacht zum 13.06.2026 wurde die Kellertür des Hauses
+      Musterstraße 12 erneut {1}. Aus meinem Kellerabteil wurden zwei
+      Fahrräder {2}. Es handelt sich um den {3} Vorfall in diesem Jahr.
+
+      Das Schloss der Kellertür ist seit Februar {4}. Ich habe Sie
+      darauf bereits am 03.03. und am 21.04. schriftlich {5}.
+
+      Ich {6} Sie hiermit auf, das Schloss bis zum 30.06.2026
+      instand zu setzen. Eine Rückmeldung {7} ich bis zum 20.06.2026.
+
+      Die Anzeige bei der Polizei ist unter dem Aktenzeichen ST/2026/884
+      erfasst. Eine Kopie {8} ich diesem Schreiben bei.
+
+      Mit freundlichen Grüßen
+      Akin Yilmaz
+    answers:
+      "1": aufgebrochen
+      "2": gestohlen
+      "3": dritten
+      "4": defekt
+      "5": hingewiesen
+      "6": fordere
+      "7": erbitte
+      "8": füge
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Den Aushang im Treppenhaus lesen"
+    instructions: |
+      > **Hausverwaltung Berger & Partner — Mitteilung an alle Bewohner**
+      > Musterstraße 12, 10179 Berlin
+      >
+      > Betreff: Vorfälle im Kellerbereich
+      >
+      > - Der Austausch des Kellertürschlosses ist beauftragt.
+      >   Ausführung voraussichtlich KW 27.
+      > - Bis dahin bitten wir, Fahrräder nicht im Keller abzustellen.
+      > - Für Schäden an Gegenständen im Keller haftet die Verwaltung
+      >   nicht. Bitte wenden Sie sich an Ihre Hausratversicherung.
+      > - Der Antrag auf eine Videoanlage im Hof wird auf der nächsten
+      >   Eigentümerversammlung am 15.09.2026 behandelt.
+      >
+      > Schadensmeldungen bitte ausschließlich schriftlich per E-Mail an
+      > service@berger-partner.de, nicht telefonisch.
+      >
+      > Sprechzeiten: Di und Do 9:00–12:00 Uhr.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Das neue Schloss ist schon eingebaut. — The new lock has already been fitted."
+        answer: false
+        why: "Es ist erst „beauftragt“, Ausführung voraussichtlich KW 27."
+      - q: "Die Verwaltung zahlt für die gestohlenen Fahrräder. — The property manager pays for the stolen bikes."
+        answer: false
+        why: "„Für Schäden an Gegenständen im Keller haftet die Verwaltung nicht.“"
+      - q: "Über die Videoanlage wird im September entschieden. — The camera system will be decided in September."
+        answer: true
+        why: "„auf der nächsten Eigentümerversammlung am 15.09.2026“."
+      - q: "Man kann einen Schaden telefonisch melden. — You can report damage by phone."
+        answer: false
+        why: "„ausschließlich schriftlich per E-Mail … nicht telefonisch“."
+      - q: "Am Montag ist die Verwaltung telefonisch erreichbar. — The manager is reachable by phone on Monday."
+        answer: false
+        why: "Sprechzeiten nur Di und Do."
+      - q: "Bewohner sollen ihre Fahrräder vorerst woanders abstellen. — Residents should park their bikes elsewhere for now."
+        answer: true
+        why: "„Bis dahin bitten wir, Fahrräder nicht im Keller abzustellen.“"
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Der Ernstfall"
+    instructions: "Was machst oder schreibst du? Wähle a, b oder c."
+    instructionsEn: "What do you do or write? Choose a, b, or c."
+    items:
+      - q: "Die Frist ist verstrichen, das Schloss ist noch immer kaputt. — The deadline passed and the lock is still broken."
+        options:
+          - { key: a, text: "Erneut schreiben, auf die verstrichene Frist verweisen, eine letzte Frist setzen und ankündigen, dass du sonst weitere Schritte prüfst." }
+          - { key: b, text: "Nichts mehr tun." }
+          - { key: c, text: "Ein eigenes Schloss einbauen lassen und die Rechnung schicken." }
+        answer: a
+        why: 'Eskalation in Stufen, jede schriftlich. Eigenmächtiges Handeln kehrt die Rechtslage schnell um.'
+      - q: "Die Versicherung lehnt ab, weil du keine Anzeige erstattet hast. — The insurer refuses because you filed no police report."
+        options:
+          - { key: a, text: "Ablehnung akzeptieren." }
+          - { key: b, text: "Die Anzeige jetzt erstatten und die Ablehnung unter Angabe des neuen Aktenzeichens erneut prüfen lassen." }
+          - { key: c, text: "Der Versicherung mit Kündigung drohen." }
+        answer: b
+        why: 'Die fehlende Voraussetzung nachliefern und um erneute Prüfung bitten — das ist der Weg, der noch offensteht.'
+      - q: "Du hast keine Kaufbelege mehr für das Fahrrad. — You no longer have receipts for the bike."
+        options:
+          - { key: a, text: "Den Schaden schätzen und die Summe einfach angeben." }
+          - { key: b, text: "Auf die Erstattung verzichten." }
+          - { key: c, text: "Ersatznachweise anbieten: Kontoauszug, Fotos, Rahmennummer, Angebot des Händlers." }
+        answer: c
+        why: 'Ersatznachweise werden oft akzeptiert. Eine frei geschätzte Summe ohne Beleg gefährdet die ganze Meldung.'
+      - q: "Die Verwaltung schreibt, sie sei nicht zuständig. — The manager writes that they're not responsible."
+        options:
+          - { key: a, text: "Um Mitteilung bitten, wer stattdessen zuständig ist, und das Schreiben aufheben." }
+          - { key: b, text: "Sofort einen Anwalt einschalten." }
+          - { key: c, text: "Der Sache nicht weiter nachgehen." }
+        answer: a
+        why: 'Die Zuständigkeit abfragen kostet nichts und die schriftliche Absage ist später ein nützliches Dokument.'
+      - q: "Auf der Eigentümerversammlung willst du das Thema einbringen. — You want to raise the issue at the owners' meeting."
+        options:
+          - { key: a, text: "Spontan in der Sitzung darüber sprechen." }
+          - { key: b, text: "Rechtzeitig vorher schriftlich beantragen, dass es als Tagesordnungspunkt aufgenommen wird." }
+          - { key: c, text: "Vorher mit allen einzeln reden." }
+        answer: b
+        why: 'Abgestimmt wird nur über das, was auf der Tagesordnung steht — der Antrag muss vorher schriftlich rein.'
+      - q: "Nach dem dritten Einbruch fühlst du dich unsicher im Haus. — After the third break-in you feel unsafe in the building."
+        options:
+          - { key: a, text: "Das für dich behalten." }
+          - { key: b, text: "Ausziehen." }
+          - { key: c, text: "Das in den Schreiben ausdrücklich benennen — es begründet die Dringlichkeit." }
+        answer: c
+        why: 'Sicherheitsgefühl ist kein Nebensatz: benannt macht es aus einer Bequemlichkeitsfrage eine dringliche.'
+
+  - id: C2
+    block: C
+    type: order
+    title: "Formelle Sätze bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "fordere", "Sie", "hiermit", "auf", ",", "das", "Schloss", "zu", "reparieren"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        note: "Trennverb auf·fordern: auf vor dem Nebensatz"
+      - tiles: ["Die", "Kellertür", "wurde", "in", "der", "Nacht", "aufgebrochen"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Präteritum Passiv: wurde … aufgebrochen"
+      - tiles: ["Eine", "Rückmeldung", "erbitte", "ich", "bis", "zum", "20.06.2026"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Objekt an Position 1, Verb an Position 2"
+      - tiles: ["Ich", "habe", "Sie", "bereits", "zweimal", "darauf", "hingewiesen"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Perfekt: habe … hingewiesen"
+      - tiles: ["Der", "Schaden", "beläuft", "sich", "auf", "etwa", "1.200", "Euro"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "sich belaufen auf + Akkusativ"
+      - tiles: ["Eine", "Kopie", "der", "Anzeige", "füge", "ich", "bei"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "bei·fügen: bei am Satzende"
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    notes: "11+ / 14 → du kannst den Fall selbst führen. Unter 11: Block A und B3 noch einmal."
+    instructions: "Ergänze die Lücken."
+    instructionsEn: "Fill in the gaps."
+    text: |
+      **Wortschatz (5 Punkte):**
+      1. Die Firma, die sich um das Gebäude kümmert: die {1}
+      2. Die Meldung einer Straftat bei der Polizei: die {2}
+      3. Die Nummer, unter der die Polizei den Fall führt: das {3}
+      4. Versicherung für Sachen in Wohnung und Keller: die {4}
+      5. Der Teil des Schadens, den du selbst trägst: die {5}
+
+      **Redemittel (5 Punkte):**
+      6. Nachdrücklich: „Ich {6} Sie hiermit auf, das Schloss zu reparieren."
+      7. Frist: „Eine Rückmeldung {7} ich bis zum 20.06."
+      8. Vorgeschichte: „Ich habe Sie bereits zweimal darauf {8}."
+      9. Summe: „Der Schaden {9} sich auf etwa 1.200 Euro."
+      10. Anlagen: „Eine Kopie der Anzeige {10} ich bei."
+
+      **Vorfall schildern (4 Punkte):**
+      11. Die Kellertür {11} aufgebrochen. (Präteritum Passiv)
+      12. Zwei Fahrräder {12} gestohlen. (Präteritum Passiv, Plural)
+      13. Ich {13} den Schaden am Morgen bemerkt. (Perfekt)
+      14. Es ist der {14} Vorfall in diesem Jahr. (3.)
+    answers:
+      "1": Hausverwaltung
+      "2": Anzeige
+      "3": Aktenzeichen
+      "4": Hausratversicherung
+      "5": Selbstbeteiligung
+      "6": fordere
+      "7": erbitte
+      "8": hingewiesen
+      "9": beläuft
+      "10": füge
+      "11": wurde
+      "12": wurden
+      "13": habe
+      "14": dritte
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Schreiben an die Hausverwaltung"
+    prompt: "Schreib das vollständige Schreiben. 12–16 Sätze."
+    stimulus: |
+      Deine Situation:
+
+      Haus: Musterstraße 12, 10179 Berlin
+      In der Nacht zum 13.06.2026 wurde die Kellertür aufgebrochen.
+      Aus deinem Kellerabteil wurden zwei Fahrräder gestohlen
+      (Wert zusammen ca. 1.200 Euro).
+
+      Es ist der dritte Vorfall in diesem Jahr. Das Schloss der Kellertür
+      ist seit Februar defekt. Du hast die Verwaltung am 03.03. und am
+      21.04. schriftlich darauf hingewiesen — ohne Reaktion.
+
+      Die Anzeige läuft unter dem Aktenzeichen ST/2026/884.
+
+      Du willst: den Vorfall schildern, auf die Vorgeschichte verweisen,
+      zur Reparatur bis zum 30.06. auffordern, eine Rückmeldung bis zum
+      20.06. verlangen und um Aufnahme einer Videoanlage als
+      Tagesordnungspunkt für die Eigentümerversammlung bitten.
+    use:
+      - "`Ich fordere Sie hiermit auf, …`"
+      - "Präteritum Passiv für den Vorfall"
+      - "die Daten der früheren Schreiben"
+      - "`Eine Rückmeldung erbitte ich bis zum …`"
+      - "`Mit freundlichen Grüßen`"
+    selfCheck:
+      - "Stehen Datum des Vorfalls, Adresse und Aktenzeichen im Schreiben?"
+      - "Hast du die beiden früheren Schreiben mit Datum genannt?"
+      - "Gibt es ZWEI Fristen — eine für die Reparatur, eine für die Rückmeldung?"
+      - "Hast du die Videoanlage als Antrag für die Versammlung formuliert?"
+    model: |
+      Sehr geehrte Damen und Herren,
+
+      in der Nacht zum 13.06.2026 wurde die Kellertür des Hauses
+      Musterstraße 12 erneut aufgebrochen. Aus meinem Kellerabteil wurden
+      zwei Fahrräder im Gesamtwert von etwa 1.200 Euro gestohlen. Den
+      Schaden habe ich am Samstagmorgen bemerkt und unverzüglich Anzeige
+      erstattet; der Vorgang läuft unter dem Aktenzeichen ST/2026/884.
+      Eine Kopie der Anzeige füge ich diesem Schreiben bei.
+
+      Es handelt sich um den dritten Vorfall in diesem Jahr. Das Schloss
+      der Kellertür ist seit Februar defekt. Ich habe Sie darauf bereits
+      am 03.03.2026 und am 21.04.2026 schriftlich hingewiesen. Eine
+      Reaktion ist bislang nicht erfolgt.
+
+      Ich fordere Sie hiermit auf, das Schloss bis zum 30.06.2026 instand
+      zu setzen. Eine schriftliche Rückmeldung erbitte ich bis zum
+      20.06.2026.
+
+      Darüber hinaus bitte ich Sie, die Anschaffung einer Videoanlage für
+      den Hof als Tagesordnungspunkt in die nächste Eigentümerversammlung
+      aufzunehmen. Nach drei Einbrüchen innerhalb eines Jahres fühlen sich
+      mehrere Bewohnerinnen und Bewohner im Haus nicht mehr sicher.
+
+      Mit freundlichen Grüßen
+      Akin Yilmaz
