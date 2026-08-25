@@ -1,0 +1,463 @@
+lesson: "SIT/04-im-restaurant-a2"
+title: "Im Restaurant — A2"
+topic: "Im Restaurant"
+category: "Essen & Trinken"
+level: A2
+summary: "Reservieren, bestellen, Sonderwünsche äußern und zahlen — und reagieren, wenn das falsche Essen kommt oder die Rechnung nicht stimmt."
+intro: >
+  Ein Schritt weiter als das Café: reservieren, eine Speisekarte lesen,
+  Sonderwünsche äußern (ohne Zwiebeln, glutenfrei, eine Allergie nennen)
+  und am Ende zusammen oder getrennt zahlen. Grammatik nach Bedarf:
+  Akkusativ und Dativ, Komparativ beim Vergleichen von Gerichten,
+  „hätte gern“ und „könnten Sie“ als feste höfliche Wendungen. Block C
+  ist der Ernstfall: falsches Gericht, kaltes Essen, Fehler auf der
+  Rechnung, kein Tisch trotz Reservierung. Blocks: A Wortschatz &
+  Redemittel → B Dialoge → C Wenn es schiefgeht → D Wiederholung.
+  Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Vorspeise, Hauptgericht oder Nachtisch?"
+    instructions: "Sortiere die 12 Gerichte nach Gang."
+    instructionsEn: "Sort the 12 dishes by course."
+    buckets:
+      - { key: vor, label: "Vorspeise" }
+      - { key: haupt, label: "Hauptgericht" }
+      - { key: nach, label: "Nachtisch" }
+    tokens:
+      - { text: "die Tomatensuppe", bucket: vor }
+      - { text: "das Schnitzel", bucket: haupt }
+      - { text: "der Apfelstrudel", bucket: nach }
+      - { text: "der gemischte Salat", bucket: vor }
+      - { text: "die Rinderroulade", bucket: haupt }
+      - { text: "das Eis mit Sahne", bucket: nach }
+      - { text: "die Brotzeit", bucket: vor }
+      - { text: "der Braten mit Knödeln", bucket: haupt }
+      - { text: "die Crème brûlée", bucket: nach }
+      - { text: "die Suppe des Tages", bucket: vor }
+      - { text: "die Maultaschen", bucket: haupt }
+      - { text: "der Kaiserschmarrn", bucket: nach }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Redemittel im Restaurant"
+    instructions: "Ordne jede Äußerung (1–8) der passenden Reaktion (a–h) zu."
+    instructionsEn: "Match each utterance (1–8) with the fitting response (a–h)."
+    left:
+      - { key: "1", text: "Haben Sie einen Tisch für zwei Personen?" }
+      - { key: "2", text: "Ich hätte gern das Schnitzel, aber ohne Zwiebeln." }
+      - { key: "3", text: "Was können Sie empfehlen?" }
+      - { key: "4", text: "Ich habe eine Nussallergie." }
+      - { key: "5", text: "Könnten wir bitte noch etwas Wasser haben?" }
+      - { key: "6", text: "Wir möchten zahlen, bitte." }
+      - { key: "7", text: "Ist in der Soße Sahne?" }
+      - { key: "8", text: "Ich habe auf den Namen Yilmaz reserviert." }
+    right:
+      - { key: a, text: "Zusammen oder getrennt?" }
+      - { key: b, text: "Kein Problem, das sage ich der Küche." }
+      - { key: c, text: "Ja, hier steht es. Folgen Sie mir bitte." }
+      - { key: d, text: "Ja, aber nur für eine Stunde — um acht ist er reserviert." }
+      - { key: e, text: "Danke für den Hinweis. Der Nachtisch enthält leider Nüsse." }
+      - { key: f, text: "Heute ist der Braten sehr gut." }
+      - { key: g, text: "Ja, sie ist auf Sahnebasis. Möchten Sie etwas anderes?" }
+      - { key: h, text: "Selbstverständlich, ich bringe es sofort." }
+    answers:
+      "1": d
+      "2": b
+      "3": f
+      "4": e
+      "5": h
+      "6": a
+      "7": g
+      "8": c
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Sonderwünsche formulieren"
+    instructions: "Ergänze das fehlende Wort."
+    instructionsEn: "Fill in the missing word."
+    text: |
+      1. Ich hätte gern die Pasta, aber {1} Käse. (nicht mit)
+      2. Können Sie das bitte {2} Zwiebeln machen? (nicht mit)
+      3. Ich bin {3} — haben Sie etwas ohne Fleisch? (kein Fleisch essen)
+      4. Ich habe eine {4} gegen Nüsse. (Allergie)
+      5. Ist das Gericht {5}? Ich vertrage kein Gluten. (ohne Gluten)
+      6. Könnte ich {6} Reis statt Kartoffeln haben? (als Ersatz)
+      7. Für mich bitte eine {7} Portion — ich habe nicht so viel Hunger. (klein)
+      8. Bringen Sie die Soße bitte {8}. (separat, nicht auf dem Teller)
+    answers:
+      "1": ohne
+      "2": ohne
+      "3": Vegetarier
+      "4": Allergie
+      "5": glutenfrei
+      "6": lieber
+      "7": kleine
+      "8": extra
+
+  - id: A4
+    block: A
+    type: odd-one-out
+    title: "Was passt nicht?"
+    instructions: "Ein Wort passt nicht in die Gruppe. Klicke es an."
+    instructionsEn: "One word does not belong in the group. Click it."
+    groups:
+      - items: ["die Vorspeise", "das Hauptgericht", "der Nachtisch", "die Rechnung"]
+        odd: 3
+        why: "Rechnung ist kein Gang."
+      - items: ["die Gabel", "das Messer", "der Löffel", "die Serviette"]
+        odd: 3
+        why: "Serviette ist kein Besteck."
+      - items: ["reservieren", "bestellen", "zahlen", "kochen"]
+        odd: 3
+        why: "Kochen macht der Gast nicht — das ist die Küche."
+      - items: ["die Kellnerin", "der Koch", "der Gast", "die Bedienung"]
+        odd: 2
+        why: "Der Gast arbeitet nicht im Restaurant."
+      - items: ["scharf", "salzig", "süß", "teuer"]
+        odd: 3
+        why: "teuer beschreibt den Preis, nicht den Geschmack."
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Dialog: Tisch reservieren am Telefon"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Restaurant Sonnenhof, guten Tag.
+      — Guten Tag, ich möchte einen Tisch {1}.
+      — Gern. Für wann und für wie viele {2}?
+      — Für Freitag um neunzehn Uhr, für vier {3}.
+      — Einen Moment … ja, das {4}. Auf welchen Namen?
+      — Auf den Namen Yilmaz.
+      — Sitzen Sie {5} drinnen oder draußen?
+      — Draußen, wenn möglich. Und {6} ein Kinderstuhl möglich?
+      — Ja, den stellen wir bereit. Noch etwas?
+      — Eine Person in unserer Gruppe ist {7} — gibt es etwas ohne Fleisch?
+      — Ja, wir haben immer zwei vegetarische {8}.
+      — Perfekt. Vielen {9}.
+      — Gern geschehen. Bis {10}!
+    bank: [RESERVIEREN, PERSONEN, LEUTE, GEHT, LIEBER, WÄRE, VEGETARIER, GERICHTE, DANK, FREITAG, WOHER, TISCH, BESTELLEN, ESSEN]
+    answers:
+      "1": RESERVIEREN
+      "2": PERSONEN
+      "3": LEUTE
+      "4": GEHT
+      "5": LIEBER
+      "6": WÄRE
+      "7": VEGETARIER
+      "8": GERICHTE
+      "9": DANK
+      "10": FREITAG
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Was sagst du?"
+    instructions: "Wähle die Variante, die im Restaurant am besten passt."
+    instructionsEn: "Choose the variant that fits best in a restaurant."
+    items:
+      - q: "Du kommst ohne Reservierung und willst einen Tisch. — You arrive without a reservation and want a table."
+        options:
+          - { key: a, text: "Wir wollen einen Tisch." }
+          - { key: b, text: "Guten Abend, haben Sie noch einen Tisch für zwei?" }
+          - { key: c, text: "Ist noch Platz?" }
+        answer: b
+        why: 'Begrüßung plus konkrete Personenzahl — so kann die Bedienung sofort antworten.'
+      - q: "Die Bedienung fragt: „Haben Sie schon gewählt?“ Du brauchst noch Zeit. — The server asks if you've decided. You need more time."
+        options:
+          - { key: a, text: "Nein." }
+          - { key: b, text: "Warten Sie." }
+          - { key: c, text: "Könnten Sie uns noch einen Moment geben?" }
+        answer: c
+        why: '„Noch einen Moment, bitte“ ist die höfliche Standardantwort.'
+      - q: "Du willst wissen, was in einem Gericht ist. — You want to know what's in a dish."
+        options:
+          - { key: a, text: "Was ist in den Maultaschen drin?" }
+          - { key: b, text: "Ist das gut?" }
+          - { key: c, text: "Was kostet das?" }
+        answer: a
+        why: 'Direkt nach den Zutaten fragen — besonders wichtig bei Allergien.'
+      - q: "Du hast eine Erdnussallergie. — You have a peanut allergy."
+        options:
+          - { key: a, text: "Ich mag keine Erdnüsse." }
+          - { key: b, text: "Ich habe eine Erdnussallergie. Können Sie das in der Küche sagen?" }
+          - { key: c, text: "Bitte keine Nüsse." }
+        answer: b
+        why: 'Bei einer Allergie: das Wort „Allergie“ benutzen und darum bitten, es der Küche zu sagen — „ich mag nicht“ wird anders behandelt.'
+      - q: "Das Essen war gut und du willst das sagen. — The food was good and you want to say so."
+        options:
+          - { key: a, text: "Nicht schlecht." }
+          - { key: b, text: "Es hat wirklich gut geschmeckt, danke." }
+          - { key: c, text: "Okay." }
+        answer: b
+        why: '„Es hat gut geschmeckt“ ist die übliche Formel für ein Kompliment ans Essen.'
+      - q: "Ihr seid vier Personen und jeder zahlt selbst. — You're four people and everyone pays separately."
+        options:
+          - { key: a, text: "Getrennt, bitte." }
+          - { key: b, text: "Jeder für sich." }
+          - { key: c, text: "Vier Rechnungen." }
+        answer: a
+        why: '„Getrennt“ ist das Wort, das die Bedienung erwartet — die Frage lautet „zusammen oder getrennt?“.'
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze im Restaurant bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "hätte", "gern", "die", "Suppe", "als", "Vorspeise"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Verb an Position 2"
+      - tiles: ["Könnten", "Sie", "das", "bitte", "ohne", "Zwiebeln", "machen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Höfliche Bitte: Modalverb an Position 1, Infinitiv am Ende"
+      - tiles: ["Wir", "haben", "einen", "Tisch", "auf", "den", "Namen", "Yilmaz", "reserviert"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Perfekt: haben … reserviert"
+      - tiles: ["Was", "würden", "Sie", "uns", "empfehlen", "?"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "W-Frage mit würde: Infinitiv am Ende"
+      - tiles: ["Das", "Essen", "hat", "sehr", "gut", "geschmeckt"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Perfekt: hat … geschmeckt"
+      - tiles: ["Ich", "esse", "kein", "Fleisch", ",", "weil", "ich", "Vegetarierin", "bin"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "weil-Satz: Verb am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Speisekarte lesen"
+    instructions: |
+      > **Restaurant Sonnenhof — Abendkarte**
+      >
+      > **Vorspeisen**
+      > - Tomatensuppe mit Basilikum 5,50 €
+      > - Gemischter Salat 6,90 €
+      > - Brotzeitteller (für 2 Personen) 12,50 €
+      >
+      > **Hauptgerichte**
+      > - Wiener Schnitzel mit Pommes 17,90 €
+      > - Rinderbraten mit Knödeln 19,50 €
+      > - Maultaschen in Brühe (vegetarisch) 13,90 €
+      > - Gemüsecurry mit Reis (vegan) 14,50 €
+      >
+      > **Nachtisch**
+      > - Apfelstrudel mit Vanillesoße 6,50 €
+      > - Eis mit Sahne 4,90 €
+      >
+      > Hinweis: Alle Gerichte mit * enthalten Nüsse.
+      > Küche: Di–Sa 17:30–22:00 Uhr. Montag Ruhetag.
+      > Ab 6 Personen berechnen wir 10 % Servicezuschlag.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Es gibt zwei Gerichte ohne Fleisch. — There are two dishes without meat."
+        answer: true
+        why: "Maultaschen (vegetarisch) und Gemüsecurry (vegan)."
+      - q: "Am Montag kann man dort abends essen. — On Monday you can eat there in the evening."
+        answer: false
+        why: "„Montag Ruhetag.“"
+      - q: "Der Rinderbraten ist das teuerste Hauptgericht. — The beef roast is the most expensive main course."
+        answer: true
+        why: "19,50 € — mehr als Schnitzel (17,90 €), Curry (14,50 €) und Maultaschen (13,90 €)."
+      - q: "Eine Gruppe von acht Personen zahlt einen Zuschlag. — A group of eight pays a surcharge."
+        answer: true
+        why: "„Ab 6 Personen … 10 % Servicezuschlag.“"
+      - q: "Um 22:30 Uhr kann man noch bestellen. — At 22:30 you can still order."
+        answer: false
+        why: "Die Küche schließt um 22:00 Uhr."
+      - q: "Der Brotzeitteller ist für eine Person gedacht. — The Brotzeit platter is meant for one person."
+        answer: false
+        why: "„(für 2 Personen)“."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn etwas nicht stimmt"
+    instructions: "Was sagst du? Wähle a, b oder c."
+    instructionsEn: "What do you say? Choose a, b, or c."
+    items:
+      - q: "Du hast das Curry bestellt und bekommst das Schnitzel. — You ordered the curry and got the schnitzel."
+        options:
+          - { key: a, text: "Entschuldigung, ich glaube, das ist nicht meine Bestellung — ich hatte das Curry." }
+          - { key: b, text: "Das ist falsch." }
+          - { key: c, text: "Ich esse das nicht." }
+        answer: a
+        why: 'Freundlich, und du sagst gleich, was du bestellt hattest — das löst das Problem am schnellsten.'
+      - q: "Die Suppe ist kalt. — The soup is cold."
+        options:
+          - { key: a, text: "Die Suppe ist kalt!" }
+          - { key: b, text: "Entschuldigung, die Suppe ist leider kalt. Könnten Sie sie noch einmal warm machen?" }
+          - { key: c, text: "Bringen Sie eine neue." }
+        answer: b
+        why: 'Problem nennen und gleich sagen, was du dir wünschst — mit „leider“ und „könnten Sie“ bleibt es höflich.'
+      - q: "Ihr habt reserviert, aber der Tisch ist besetzt. — You reserved but the table is taken."
+        options:
+          - { key: a, text: "Das ist Ihr Fehler." }
+          - { key: b, text: "Wir gehen wieder." }
+          - { key: c, text: "Wir hatten für 19 Uhr auf den Namen Yilmaz reserviert. Wie lange müssten wir warten?" }
+        answer: c
+        why: 'Reservierung belegen (Uhrzeit und Name) und nach der Wartezeit fragen — so bekommst du eine brauchbare Antwort.'
+      - q: "Auf der Rechnung steht ein Getränk, das ihr nicht hattet. — The bill lists a drink you didn't have."
+        options:
+          - { key: a, text: "Sie wollen uns betrügen." }
+          - { key: b, text: "Entschuldigung, hier stimmt etwas nicht — wir hatten nur zwei Bier, nicht drei." }
+          - { key: c, text: "Die Rechnung ist zu hoch." }
+        answer: b
+        why: 'Konkret sagen, was falsch ist. „Zu hoch“ allein hilft der Bedienung nicht weiter.'
+      - q: "Du hast gesagt, dass du eine Nussallergie hast, und im Nachtisch sind Nüsse. — You mentioned a nut allergy and the dessert contains nuts."
+        options:
+          - { key: a, text: "Ich hatte eine Nussallergie angegeben. Bitte nehmen Sie den Nachtisch zurück." }
+          - { key: b, text: "Ich esse es einfach nicht." }
+          - { key: c, text: "Das ist gefährlich!" }
+        answer: a
+        why: 'Sachlich daran erinnern und den Teller zurückgeben — bei einer Allergie ist Deutlichkeit wichtiger als Höflichkeit.'
+      - q: "Ihr wartet seit 40 Minuten auf das Essen. — You've been waiting 40 minutes for the food."
+        options:
+          - { key: a, text: "Wann kommt endlich das Essen?" }
+          - { key: b, text: "Das dauert zu lange." }
+          - { key: c, text: "Entschuldigung, könnten Sie bitte nachsehen, wo unsere Bestellung bleibt?" }
+        answer: c
+        why: '„Nachsehen, wo … bleibt“ ist die übliche höfliche Nachfrage nach einer Bestellung.'
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Reklamieren: die richtigen Wörter"
+    instructions: "Ergänze das fehlende Wort."
+    instructionsEn: "Fill in the missing word."
+    text: |
+      1. Entschuldigung, das ist nicht meine {1} — ich hatte das Curry. (was man bestellt hat)
+      2. Die Suppe ist {2} kalt. Könnten Sie sie noch einmal warm machen? (bedauernd)
+      3. Wir hatten für 19 Uhr {3}. (einen Tisch bestellt, Partizip II)
+      4. Hier {4} etwas nicht: Wir hatten nur zwei Bier. (nicht korrekt sein)
+      5. Könnten Sie bitte {5}, wo unsere Bestellung bleibt? (kontrollieren)
+      6. Ich hatte eine Nussallergie {6}. (gesagt, Partizip II)
+      7. Bitte nehmen Sie den Teller wieder {7}. (retour)
+      8. Könnten Sie die Rechnung bitte noch einmal {8}? (kontrollieren)
+    answers:
+      "1": Bestellung
+      "2": leider
+      "3": reserviert
+      "4": stimmt
+      "5": nachsehen
+      "6": angegeben
+      "7": zurück
+      "8":
+        - "prüfen"
+        - "überprüfen"
+        - "kontrollieren"
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    notes: "11+ / 14 → du kommst im Restaurant klar. Unter 11: Block A und C noch einmal."
+    instructions: "Ergänze die Lücken."
+    instructionsEn: "Fill in the gaps."
+    text: |
+      **Redemittel (6 Punkte):**
+      1. Tisch am Telefon: „Ich möchte einen Tisch {1}."
+      2. Noch nicht gewählt: „Könnten Sie uns noch einen {2} geben?"
+      3. Sonderwunsch: „Könnten Sie das bitte {3} Zwiebeln machen?"
+      4. Empfehlung erfragen: „Was können Sie {4}?"
+      5. Kompliment: „Es hat sehr gut {5}."
+      6. Zahlen: „Wir möchten {6}, bitte."
+
+      **Wortschatz (4 Punkte):**
+      7. der erste Gang: die {7}
+      8. der letzte Gang: der {8}
+      9. Gabel, Messer und Löffel zusammen: das {9}
+      10. Wer kein Fleisch isst, ist {10}.
+
+      **Wenn es schiefgeht (4 Punkte):**
+      11. „Das ist leider nicht meine {11}."
+      12. „Hier {12} etwas nicht — wir hatten nur zwei Bier."
+      13. „Ich hatte eine Nussallergie {13}."
+      14. „Könnten Sie bitte {14}, wo unsere Bestellung bleibt?"
+    answers:
+      "1": reservieren
+      "2": Moment
+      "3": ohne
+      "4": empfehlen
+      "5": geschmeckt
+      "6": zahlen
+      "7": Vorspeise
+      "8": Nachtisch
+      "9": Besteck
+      "10": Vegetarier
+      "11": Bestellung
+      "12": stimmt
+      "13": angegeben
+      "14": nachsehen
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Rollenspiel: Abendessen mit Zwischenfall"
+    prompt: "Schreib den ganzen Dialog: Ankunft mit Reservierung, Bestellung mit Sonderwunsch, ein Problem, Bezahlen. 14–18 Sätze."
+    stimulus: |
+      Du bist der Gast und kommst mit einer Freundin. Schreib beide Rollen.
+
+      Diese Schritte müssen vorkommen:
+      1. mit Reservierung ankommen (Name und Uhrzeit nennen)
+      2. um die Speisekarte bitten und noch einen Moment erbitten
+      3. Vorspeise und Hauptgericht bestellen
+      4. einen Sonderwunsch äußern (ohne Zwiebeln ODER eine Allergie nennen)
+      5. etwas stimmt nicht (falsches Gericht ODER kaltes Essen)
+      6. das Problem freundlich ansprechen
+      7. ein Kompliment ans Essen machen
+      8. zahlen — getrennt — und Trinkgeld geben
+    use:
+      - "`Wir hatten auf den Namen … reserviert.`"
+      - "`Ich hätte gern …` für die Bestellung"
+      - "`Könnten Sie das bitte ohne … machen?`"
+      - "`Entschuldigung, …` beim Problem"
+      - "Sie-Form für die Bedienung"
+    selfCheck:
+      - "Hast du bei der Reservierung Name UND Uhrzeit genannt?"
+      - "Ist der Sonderwunsch als Bitte formuliert, nicht als Befehl?"
+      - "Hast du beim Problem gesagt, was du stattdessen erwartet hattest?"
+      - "Kommen alle 8 Schritte vor?"
+    model: |
+      Gast: Guten Abend! Wir hatten für 19 Uhr auf den Namen Yilmaz reserviert.
+      Bedienung: Guten Abend, ja, hier steht es. Folgen Sie mir bitte — Ihr Tisch ist draußen.
+      Gast: Danke. Könnten wir bitte die Speisekarte haben?
+      Bedienung: Selbstverständlich. Möchten Sie schon etwas trinken?
+      Gast: Zwei Mineralwasser, bitte. Und könnten Sie uns noch einen Moment geben?
+      Bedienung: Natürlich. (später) Haben Sie gewählt?
+      Gast: Ja. Einmal die Tomatensuppe als Vorspeise und danach das Gemüsecurry.
+      Freundin: Für mich der gemischte Salat und das Schnitzel, bitte.
+      Gast: Eine Frage noch: Ich habe eine Nussallergie. Können Sie das in der Küche sagen?
+      Bedienung: Danke für den Hinweis, ich gebe es weiter.
+      (das Essen kommt)
+      Gast: Entschuldigung, ich glaube, das ist nicht meine Bestellung — ich hatte das Curry, nicht das Schnitzel.
+      Bedienung: Oh, das tut mir leid! Ich bringe Ihnen sofort das richtige Gericht.
+      Gast: Vielen Dank.
+      (nach dem Essen)
+      Gast: Es hat wirklich gut geschmeckt. Wir möchten zahlen, bitte.
+      Bedienung: Zusammen oder getrennt?
+      Gast: Getrennt, bitte. Meins waren die Suppe und das Curry.
+      Bedienung: Das macht 20,40 Euro.
+      Gast: Hier sind 23 Euro. Stimmt so.
+      Bedienung: Vielen Dank und einen schönen Abend!
