@@ -288,7 +288,7 @@ exercises:
       4. Diese Jacke gefällt mir {4} (gut).
       5. Das Flugzeug ist {5} (schnell).
       6. Im Sommer essen wir {6} (gern) draußen.
-      7. Das Matterhorn ist {7} (hoch) in der Schweiz.
+      7. Im Juli steht die Sonne {7} (hoch).
       8. Welche Stadt ist {8} (groß) in Österreich?
     answers:
       "1": "am teuersten"
@@ -493,24 +493,24 @@ exercises:
     instructionsEn: "Each sentence has exactly one mistake. Write the corrected word/phrase in the gap."
     text: |
       1. Berlin ist größer {1} Wien. (wie → ?)
-      2. Das ist der schnellst{2} Zug in Deutschland. (missing ending)
+      2. Das ist der {2} Zug in Deutschland. (schnellst → ?)
       3. München ist so groß {3} Berlin. (als → ?)
-      4. Das blaue Kleid ist eleganter{4} als das rote. (extra ending)
+      4. Das blaue Kleid ist {4} als das rote. (elegantere → ?)
       5. Er ist älter {5} ich. (wie → ?)
-      6. Das ist {6} besten Ergebnis in der Klasse. (wrong article form)
-      7. Sie singt {7} als ihr Bruder. (gern → comparative needed)
-      8. Hoch → Superlativ: der hochst{8} Berg. (missing umlaut)
+      6. Das ist {6} Ergebnis in der Klasse. (das besten → ?)
+      7. Sie singt {7} als ihr Bruder. (gern → ?)
+      8. Der Mount Everest ist der {8} Berg der Welt. (hochste → ?)
       9. Dieses Modell kostet mehr {9} das andere. (wie → ?)
-      10. Am kältest{10} Monat ist der Januar. (article wrong / missing -e-)
+      10. {10} Monat ist der Januar. (Am kältest → ?)
     answers:
       "1": als
-      "2": "schnellste (-e ending for m Nom.)"
+      "2": schnellste
       "3": wie
-      "4": "eleganter (-er only, no extra -e)"
+      "4": eleganter
       "5": als
       "6": "das beste"
       "7": lieber
-      "8": "höchste (umlaut)"
+      "8": höchste
       "9": als
       "10": "Der kälteste"
 
@@ -693,7 +693,7 @@ exercises:
     instructionsEn: "Fill each gap with one word."
     text: |
       Anna und Bruno diskutieren über ihre Lieblingsstädte. Anna findet Berlin
-      {1} interessant als München, weil es {2} Museen und
+      {1} als München, weil es {2} Museen und
       Kulturangebote gibt. Bruno ist anderer Meinung — für ihn ist München
       die {3} Stadt in Deutschland. „München ist zwar {4} als
       Berlin", gibt Bruno zu, „aber die Luft ist klarer und das Wetter ist
@@ -778,7 +778,7 @@ exercises:
       — Aber München soll {2} sein — zumindest finden das viele.
       — Das stimmt schon. Aber ich lebe {3} in Berlin {4} in München. Berlin passt mir {5}.
       — Welche Stadt ist {6}?
-      — München, flächenmäßig. Aber in Berlin wohnen {7} Menschen.
+      — Berlin, deutlich. Dort wohnen auch {7} Menschen.
       — Stimmt. Und die U-Bahn in Berlin ist fast {8} gut {9} in Wien — sehr zuverlässig.
       — Und das Wetter?
       — München ist {10} als Berlin. Aber für mich ist Berlin trotzdem die beste Wahl!
@@ -969,7 +969,7 @@ exercises:
       2. (L4/A2) `als` in job context: "Sie arbeitet {2} Ärztin." (fill in)
       3. (L5/A2) Reflexivverb: `sich ausruhen`, er-form: er {3} sich aus.
       4. (L5/A2) `sich fühlen`, ich-form: ich {4} mich gut.
-      5. (L6/A2) `warten auf` — Was wartest du {5}? (use `es`)
+      5. (L6/A2) `warten auf` + Pronominaladverb: Ich warte auf das Paket. → Ich warte {5}.
       6. (L6/A2) `sich freuen über` — translate: "She is happy about the result." → {6}
       7. (L4/A2) `wenn`-clause word order: „{7} ich Zeit habe, komme ich." (position of verb?)
       8. (L5/A2) `sich setzen` vs. `sitzen` — which is an action? {8}
@@ -1031,13 +1031,13 @@ exercises:
       "8": "am ältesten"
       "9": als
       "10": wie
-      "11": "e (m Nom. after def article)"
+      "11": "e"
       "12": "der schnellste Zug"
-      "13": "e (f Nom. after def article)"
+      "13": "e"
       "14": "die günstigste Wohnung"
-      "15": "e (n Nom. after def article)"
+      "15": "e"
       "16": "das beste Modell"
-      "17": "en (m Akk. after def article)"
+      "17": "en"
       "18": "den modernsten Laptop"
       "19": "München ist teurer als Berlin."
       "20": "Das ist das beste Hotel in der Stadt."

@@ -319,7 +319,7 @@ exercises:
     text: |
       1. Ich {1} {2} dich, wenn du nicht schreibst. (denken an)
       2. Er {3} {4} seinen Chef, weil der Termin wieder verschoben wurde. (sich ärgern über)
-      3. Wir {5} {6} unseren Lehrer einen Brief. (schreiben an)
+      3. Wir {5} einen Brief {6} unseren Lehrer. (schreiben an)
       4. Anna {7} {8} den Bus — er kommt nicht! (warten auf)
       5. Bruno {9} {10} deutsche Musik. (sich interessieren für)
     answers:
@@ -499,21 +499,21 @@ exercises:
     text: |
       — Hallo Bruno! Ich {1} {2} deine Nachricht von gestern Abend!
       — Sorry, ich war beschäftigt. Was ist los?
-      — Ich wollte fragen, ob du {3} {4} Streaming-Dienste.
+      — Ich wollte fragen, ob du dich {3} Streaming-Dienste {4}.
       — Ja, sehr! {5} wir {6} das Thema — das finde ich super interessant.
       — Gut. Ich {7} mich {8} unseren Filmabend nächste Woche!
-      — Ich auch! Aber {9} du {10} das schlechte Internet in deiner Wohnung?
+      — Ich auch! Aber {9} du dich {10} das schlechte Internet in deiner Wohnung?
       — Ja, total! Aber ich {11} immer schnell {12} Nachrichten, auch wenn es langsam ist.
     answers:
       "1": warte
       "2": auf
-      "3": "interessierst du dich"
-      "4": für
+      "3": für
+      "4": interessierst
       "5": Sprechen
       "6": über
       "7": freue
       "8": auf
-      "9": "ärgerst du dich"
+      "9": ärgerst
       "10": über
       "11": antworte
       "12": auf
@@ -530,10 +530,10 @@ exercises:
       2. Bruno interessiert sich {2} Sport im Fernsehen. (auf → ?)
       3. Wir freuen uns {3} das Konzert morgen. (you haven't been yet — über → ?)
       4. Anna {4} sich über die Werbung. (ärger → ?)
-      5. Er antwortet {5} meine E-Mail. (correct word order)
+      5. Er antwortet {5} meine E-Mail. (auf nicht → ?)
       6. Ich schreibe an meinen Freund {6} Brief. (einem → ?)
       7. Sie fragt nach {7} Adresse. (die → ?)
-      8. Ich denke oft an meinen Bruder {8}. (ihm → weglassen)
+      8. Ich denke oft an {8} Bruder. (meinem → ?)
       9. Wir sprechen {9} das Problem. (für → ?)
       10. Er freut sich {10} seinen nächsten Urlaub. (hasn't happened yet — über → ?)
     answers:
@@ -544,7 +544,7 @@ exercises:
       "5": "nicht auf"
       "6": "einen"
       "7": der
-      "8": ""
+      "8": meinen
       "9": über
       "10": auf
 
@@ -687,7 +687,7 @@ exercises:
     instructionsEn: "Choose the correct negation and rewrite the gap."
     text: |
       1. Ich warte auf {1} Antwort. (no answer at all)
-      2. Er antwortet auf meine Nachrichten {2}. (he doesn't reply)
+      2. Er antwortet {2} auf meine Nachrichten. (he doesn't reply)
       3. Wir haben {3} WLAN in dieser Wohnung.
       4. Anna freut sich {4} auf den Montagmorgen.
       5. Das ist {5} Empfehlung — das ist Werbung!

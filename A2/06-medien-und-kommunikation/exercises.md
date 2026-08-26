@@ -139,7 +139,7 @@ Ergänze das Verb UND die Präposition. Jede Aufgabe hat zwei Lücken.
 
 1. Ich ______ ______ dich, wenn du nicht schreibst. (denken an)
 2. Er ______ ______ seinen Chef, weil der Termin wieder verschoben wurde. (sich ärgern über)
-3. Wir ______ ______ unseren Lehrer einen Brief. (schreiben an)
+3. Wir ______ einen Brief ______ unseren Lehrer. (schreiben an)
 4. Anna ______ ______ den Bus — er kommt nicht! (warten auf)
 5. Bruno ______ ______ deutsche Musik. (sich interessieren für)
 
@@ -229,10 +229,10 @@ Ergänze die richtige Verb-Präposition-Verbindung. Jede Aufgabe hat zwei Lücke
 
 — Hallo Bruno! Ich ______ ______ deine Nachricht von gestern Abend!
 — Sorry, ich war beschäftigt. Was ist los?
-— Ich wollte fragen, ob du ______ ______ Streaming-Dienste.
+— Ich wollte fragen, ob du dich ______ Streaming-Dienste ______.
 — Ja, sehr! ______ wir ______ das Thema — das finde ich super interessant.
 — Gut. Ich ______ mich ______ unseren Filmabend nächste Woche!
-— Ich auch! Aber ______ du ______ das schlechte Internet in deiner Wohnung?
+— Ich auch! Aber ______ du dich ______ das schlechte Internet in deiner Wohnung?
 — Ja, total! Aber ich ______ immer schnell ______ Nachrichten, auch wenn es langsam ist.
 
 ## Übung B2 — Finde den Fehler
@@ -243,10 +243,10 @@ Jeder Satz hat genau einen Fehler. Schreibe die richtige Form (Verb/Präposition
 2. Bruno interessiert sich ______ Sport im Fernsehen. (auf → ?)
 3. Wir freuen uns ______ das Konzert morgen. (you haven't been yet — über → ?)
 4. Anna ______ sich über die Werbung. (ärger → ?)
-5. Er antwortet ______ meine E-Mail. (correct word order)
+5. Er antwortet ______ meine E-Mail. (auf nicht → ?)
 6. Ich schreibe an meinen Freund ______ Brief. (einem → ?)
 7. Sie fragt nach ______ Adresse. (die → ?)
-8. Ich denke oft an meinen Bruder ______. (ihm → weglassen)
+8. Ich denke oft an ______ Bruder. (meinem → ?)
 9. Wir sprechen ______ das Problem. (für → ?)
 10. Er freut sich ______ seinen nächsten Urlaub. (hasn't happened yet — über → ?)
 
@@ -321,7 +321,7 @@ Bilde aus den durcheinander gewürfelten Wörtern einen korrekten Satz.
 Wähle die richtige Verneinung und schreibe sie in die Lücke.
 
 1. Ich warte auf ______ Antwort. (no answer at all)
-2. Er antwortet auf meine Nachrichten ______. (he doesn't reply)
+2. Er antwortet ______ auf meine Nachrichten. (he doesn't reply)
 3. Wir haben ______ WLAN in dieser Wohnung.
 4. Anna freut sich ______ auf den Montagmorgen.
 5. Das ist ______ Empfehlung — das ist Werbung!

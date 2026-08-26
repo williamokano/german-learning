@@ -151,7 +151,7 @@ Ergänze die prädikative Superlativform.
 4. Diese Jacke gefällt mir ______ (gut).
 5. Das Flugzeug ist ______ (schnell).
 6. Im Sommer essen wir ______ (gern) draußen.
-7. Das Matterhorn ist ______ (hoch) in der Schweiz.
+7. Im Juli steht die Sonne ______ (hoch).
 8. Welche Stadt ist ______ (groß) in Österreich?
 
 ## Übung A6 — Superlativ attributiv: Tabelle ergänzen
@@ -252,15 +252,15 @@ Ergänze die Lücken mit der richtigen Komparativ- oder Superlativform. 8 Lücke
 Jeder Satz hat genau einen Fehler. Schreibe das korrigierte Wort/die korrigierte Phrase in die Lücke.
 
 1. Berlin ist größer ______ Wien. (wie → ?)
-2. Das ist der schnellst______ Zug in Deutschland. (missing ending)
+2. Das ist der ______ Zug in Deutschland. (schnellst → ?)
 3. München ist so groß ______ Berlin. (als → ?)
-4. Das blaue Kleid ist eleganter______ als das rote. (extra ending)
+4. Das blaue Kleid ist ______ als das rote. (elegantere → ?)
 5. Er ist älter ______ ich. (wie → ?)
-6. Das ist ______ besten Ergebnis in der Klasse. (wrong article form)
-7. Sie singt ______ als ihr Bruder. (gern → comparative needed)
-8. Hoch → Superlativ: der hochst______ Berg. (missing umlaut)
+6. Das ist ______ Ergebnis in der Klasse. (das besten → ?)
+7. Sie singt ______ als ihr Bruder. (gern → ?)
+8. Der Mount Everest ist der ______ Berg der Welt. (hochste → ?)
 9. Dieses Modell kostet mehr ______ das andere. (wie → ?)
-10. Am kältest______ Monat ist der Januar. (article wrong / missing -e-)
+10. ______ Monat ist der Januar. (Am kältest → ?)
 
 ## Übung B3 — Frage und Antwort verbinden
 
@@ -364,7 +364,7 @@ Self-check:
 Fülle jede Lücke mit einem Wort.
 
 Anna und Bruno diskutieren über ihre Lieblingsstädte. Anna findet Berlin
-______ interessant als München, weil es ______ Museen und
+______ als München, weil es ______ Museen und
 Kulturangebote gibt. Bruno ist anderer Meinung — für ihn ist München
 die ______ Stadt in Deutschland. „München ist zwar ______ als
 Berlin", gibt Bruno zu, „aber die Luft ist klarer und das Wetter ist
@@ -396,7 +396,7 @@ Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht geb
 > — Aber München soll (2) ______ sein — zumindest finden das viele.
 > — Das stimmt schon. Aber ich lebe (3) ______ in Berlin (4) ______ in München. Berlin passt mir (5) ______.
 > — Welche Stadt ist (6) ______?
-> — München, flächenmäßig. Aber in Berlin wohnen (7) ______ Menschen.
+> — Berlin, deutlich. Dort wohnen auch (7) ______ Menschen.
 > — Stimmt. Und die U-Bahn in Berlin ist fast (8) ______ gut (9) ______ in Wien — sehr zuverlässig.
 > — Und das Wetter?
 > — München ist (10) ______ als Berlin. Aber für mich ist Berlin trotzdem die beste Wahl!
@@ -496,7 +496,7 @@ Streiche das Wort durch, das nicht passt.
 2. (L4/A2) `als` in job context: "Sie arbeitet ______ Ärztin." (fill in)
 3. (L5/A2) Reflexivverb: `sich ausruhen`, er-form: er ______ sich aus.
 4. (L5/A2) `sich fühlen`, ich-form: ich ______ mich gut.
-5. (L6/A2) `warten auf` — Was wartest du ______? (use `es`)
+5. (L6/A2) `warten auf` + Pronominaladverb: Ich warte auf das Paket. → Ich warte ______.
 6. (L6/A2) `sich freuen über` — translate: "She is happy about the result." → ______
 7. (L4/A2) `wenn`-clause word order: „______ ich Zeit habe, komme ich." (position of verb?)
 8. (L5/A2) `sich setzen` vs. `sitzen` — which is an action? ______
