@@ -306,7 +306,7 @@ exercises:
       4. Der Anteil liegt bei {4} Viertel der Bevölkerung.
       5. Nahezu {5} Drittel der Erwerbstätigen arbeitet im Homeoffice.
       6. {6} die Hälfte der Befragten stimmte zu.
-      7. Der Anteil hat sich gegenüber 1990 {7} verdoppelt.
+      7. Der Anteil hat sich gegenüber 1990 mehr als {7}.
       8. Die Arbeitslosigkeit {8} seit Jahren kontinuierlich.
     answers:
       "1": um
@@ -315,7 +315,7 @@ exercises:
       "4": einem
       "5": ein
       "6": Knapp
-      "7": ""
+      "7": verdoppelt
       "8": sinkt
 
   - id: A6

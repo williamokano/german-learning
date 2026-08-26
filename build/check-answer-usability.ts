@@ -15,6 +15,10 @@
  *               answer restores, so the "corrected" sentence is the original.
  *               The learner has nothing to find.
  *
+ *   EMPTY       The expected answer is the empty string, usually because the
+ *               frame already supplies the whole form. There is nothing to
+ *               type, so the gap can never be scored correct.
+ *
  *   DOUBLE-ART  The answer already carries the article — as a contraction
  *               ("vom", "zum") or as preposition + article ("aus dem") — and
  *               the frame repeats it, so the sentence renders "vom dem Arzt"
@@ -71,6 +75,10 @@ for (const dir of dirs) {
     const text: string = ex.text ?? '';
     for (const [key, value] of Object.entries(ex.answers ?? {})) {
       // A parenthesis inside a list is an accepted variant, not a trap.
+      const flat = (Array.isArray(value) ? value : [value]).map(String);
+      if (flat.some((v) => v.trim() === '')) {
+        problems.push(`${rel} ${ex.id} answer "${key}": expected answer is empty — nothing to type`);
+      }
       if (typeof value === 'string' && EXPLANATION.test(value)) {
         problems.push(`${rel} ${ex.id} answer "${key}": key contains an explanation — ${JSON.stringify(value)}`);
       }

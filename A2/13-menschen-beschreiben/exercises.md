@@ -432,7 +432,7 @@ Fülle jede Lücke mit dem richtigen Wort. Mit (L…) markierte Aufgaben wiederh
 6. Das ist die Jacke, ______ Anna kaufen möchte.
 7. Ich kenne ______ Bruder von Anna. (Akk. → der → ___) (L3)
 8. Er sieht ______ Film gern. (Akk. → der → ___) (L3)
-9. Das ist ein______ freundlich______ Mann. (indef. Art. + Adj., mask. Nom.) (L8)
+9. Das ist ______ freundlich______ Mann. (indef. Art. + Adj., mask. Nom.) (L8)
 10. Die Kinder meiner Schwester sind meine ______. (L2)
 11. Anna ______ nächstes Jahr nach Wien fahren. (Futur I) (L12)
 12. ______ Sie mir bitte helfen? (Konjunktiv II, können) (L9)

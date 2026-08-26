@@ -139,7 +139,7 @@ Setze die passende Präposition (um, auf, von, auf …) oder den passenden Antei
 4. Der Anteil liegt bei ______ Viertel der Bevölkerung.
 5. Nahezu ______ Drittel der Erwerbstätigen arbeitet im Homeoffice.
 6. ______ die Hälfte der Befragten stimmte zu.
-7. Der Anteil hat sich gegenüber 1990 ______ verdoppelt.
+7. Der Anteil hat sich gegenüber 1990 mehr als ______.
 8. Die Arbeitslosigkeit ______ seit Jahren kontinuierlich.
 
 ## Übung A6 — Register: registergerechte vs. registerunscharfe Lexik

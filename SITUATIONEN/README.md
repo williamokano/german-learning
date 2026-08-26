@@ -144,6 +144,8 @@ die alle anderen Gates passieren, weil das YAML strukturell korrekt ist:
   akzeptiert wird; deshalb prüft das Gate nur skalare Antworten.
 - Ein „Finde den Fehler"-Item, dessen Hinweis `(X → ?)` genau das Wort nennt,
   das die Antwort wiederherstellt. Es gibt nichts zu finden.
+- Die erwartete Antwort ist leer, weil der Rahmen die Form schon liefert
+  (`Das ist ein{9} freundlich{10} Mann.`). Es gibt nichts zu tippen.
 - Die Antwort trägt den Artikel schon in sich — als Kurzform (`vom`, `zum`)
   oder als Präposition + Artikel (`aus dem`) — und der Rahmen wiederholt ihn:
   „Sie kommt gerade vom dem Arzt." Eine **bloße** Artikel-Antwort vor einem

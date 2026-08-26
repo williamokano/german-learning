@@ -797,7 +797,7 @@ exercises:
       6. Das ist die Jacke, {6} Anna kaufen möchte.
       7. Ich kenne {7} Bruder von Anna. (Akk. → der → ___) (L3)
       8. Er sieht {8} Film gern. (Akk. → der → ___) (L3)
-      9. Das ist ein{9} freundlich{10} Mann. (indef. Art. + Adj., mask. Nom.) (L8)
+      9. Das ist {9} freundlich{10} Mann. (indef. Art. + Adj., mask. Nom.) (L8)
       10. Die Kinder meiner Schwester sind meine {11}. (L2)
       11. Anna {12} nächstes Jahr nach Wien fahren. (Futur I) (L12)
       12. {13} Sie mir bitte helfen? (Konjunktiv II, können) (L9)
@@ -813,7 +813,7 @@ exercises:
       "6": die
       "7": den
       "8": den
-      "9": ""
+      "9": ein
       "10": er
       "11": Neffen
       "12": wird

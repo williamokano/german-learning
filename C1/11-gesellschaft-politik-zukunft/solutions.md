@@ -68,7 +68,7 @@
 
 ## Übung A5 — Statistik versprachlichen
 
-1. **um**  2. **auf**  3. **auf**  4. **einem**  5. **ein**  6. **Knapp**  7. ****  8. **sinkt**
+1. **um**  2. **auf**  3. **auf**  4. **einem**  5. **ein**  6. **Knapp**  7. **verdoppelt**  8. **sinkt**
 
 ## Übung A6 — Register: registergerechte vs. registerunscharfe Lexik
 
