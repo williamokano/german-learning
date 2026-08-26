@@ -1077,8 +1077,12 @@ exercises:
     answers:
       "1": "Apposition"
       "2": "Parenthese"
-      "3": "Partizipialattribut (vorangestellt)"
-      "4": "Relativsatz (nachgestellt)"
+      "3":
+        - "Partizipialattribut"
+        - "Partizipialattribut (vorangestellt)"
+      "4":
+        - "Relativsatz"
+        - "Relativsatz (nachgestellt)"
       "5": "Ellipse"
       "6": "den"
       "7": "der"

@@ -582,7 +582,7 @@ Wiederholung: reflexive Verben, Präpositionen, Konjunktiv II und Länder. 10 Au
 
 **Mixed:**
 18. Konjugation schenken, wir-form: ______
-19. (A2/L8) Adjective ending: „Das ist unser bestes Buch." — why bestes? ______
+19. (A2/L8) Adjektivendung: „Das ist unser best______ Buch." (n, Nom.)
 20. Direct object in „Schreibt ihr eurer Oma auch eine Karte?" — ______
 
 _16+ / 20 → Lektion A2/12. Below 16 → redo Block A (A1–A4) and Block B2 (Finde den Fehler) tomorrow, then retest D4._

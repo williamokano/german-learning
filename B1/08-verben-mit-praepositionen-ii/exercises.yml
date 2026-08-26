@@ -532,7 +532,7 @@ exercises:
     title: "Finde den Fehler — Pronominaladverbien"
     instructions: "Each sentence contains exactly one error. Find it and write the corrected sentence. 6 items."
     text: |
-      1. Ich denke daran ihm. (Pavel ist eine Person!)
+      1. Ich denke daran ihm. (ihm = eine Person!)
          Korrektur: {1}
       2. Worauf wartest du? — Auf Mia.
          Korrektur: {2}
@@ -545,12 +545,12 @@ exercises:
       6. Es hängt darauf ab, wie viel Zeit wir haben. (abhängen von)
          Korrektur: {6}
     answers:
-      "1": Ich denke an ihn. (Person → Präp + Pronomen, not daran)
-      "2": Auf wen wartest du? (Person → auf wen, not worauf)
-      "3": Ich bin davon überzeugt, dass Pavel recht hat. (dass-clause required)
-      "4": Ich freue mich darüber, dass das Konzert gut war. (past/present fact → darüber, not darauf)
-      "5": Mit wem redest du? (Person → mit wem, not womit)
-      "6": Es hängt davon ab, wie viel Zeit wir haben. (abhängen von → davon, not darauf)
+      "1": "Ich denke an ihn."
+      "2": "Auf wen wartest du?"
+      "3": "Ich bin davon überzeugt, dass Pavel recht hat."
+      "4": "Ich freue mich über das Konzert gestern."
+      "5": "Mit wem redest du?"
+      "6": "Es hängt davon ab, wie viel Zeit wir haben."
 
   - id: B4
     block: B

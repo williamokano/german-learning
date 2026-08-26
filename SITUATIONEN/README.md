@@ -132,6 +132,23 @@ belaufen` ist also genau der Punkt. Ein Konjugationshinweis wie
 `(müssen, wir-Form)` ist ebenfalls Absicht und wird vom Skript
 übersprungen.
 
+## Antworten, die niemand tippen kann
+
+`build/check-answer-usability.ts` läuft **in der CI** und fängt zwei Fehler,
+die alle anderen Gates passieren, weil das YAML strukturell korrekt ist:
+
+- Die erwartete Antwort trägt die Erklärung in sich: `"en (einen)"`,
+  `"Sie muss ins Krankenhaus (gehen)."` Bewertet wird per Exact-Match nach
+  `normalize()` — wer richtig antwortet, bekommt null Punkte. In einer
+  **Liste** ist eine Klammer erlaubt, weil dort die schlichte Form ebenfalls
+  akzeptiert wird; deshalb prüft das Gate nur skalare Antworten.
+- Ein „Finde den Fehler"-Item, dessen Hinweis `(X → ?)` genau das Wort nennt,
+  das die Antwort wiederherstellt. Es gibt nichts zu finden.
+
+```
+npx tsx build/check-answer-usability.ts --all
+```
+
 ## German quotes in YAML — the one recurring trap
 
 German quotation marks are `„…“`, and the closing one is **not** a straight

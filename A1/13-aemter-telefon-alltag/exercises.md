@@ -247,7 +247,7 @@ Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreib
 
 1. Könnten Sie mir das Formular ______? (schickt → ?)
 2. Ich rufe das Bürgeramt morgen ______. (an → prefix to end)
-3. Bruno meldet sich gestern beim Bürgeramt ______. (an → ?)
+3. Bruno ______ sich gestern beim Bürgeramt angemeldet. (meldet → ?)
 4. Die Beamtin gibt ______ Formular Bruno. (dem → Akkusativ)
 5. Ich habe einen Termin ______ Dienstag. (an → am)
 6. Bitte füllen Sie das Formular ______. (ein → aus)

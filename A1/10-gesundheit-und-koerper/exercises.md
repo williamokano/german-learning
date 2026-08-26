@@ -252,7 +252,7 @@ Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreib
 6. ______ gut, Kinder! (ihr-Imperativ) (Schlaf → ?)
 7. Ich brauche etwas gegen ______. (Kopfschmerz → ?)
 8. Er soll ______ viel. (schläft → ?)
-9. Machen Sie den Mund auf! → Macht den Mund ______! (ihr-form) (auf → ?)
+9. Machen Sie den Mund auf! → ______ den Mund auf! (ihr-Form)
 10. Ich fühle mich nicht gut. → Ruh ______ aus! (to a friend) (sich → ?)
 
 ## Übung B4 — Frage und Antwort verbinden
@@ -493,7 +493,7 @@ Eine Minute pro Aufgabe. Keine Notizen.
 3. (L7) Satzklammer: Ich / müssen / jetzt / schlafen → ______
 4. (L7) Translate: "She has to go to the hospital." → ______
 5. (L8) Dative prep: „Ich fahre ______ Bus." (= by bus)
-6. (L8) „Ich gehe ______ Arzt." (= to the doctor's; use: zum)
+6. (L8) „Ich gehe ______ Arzt." (= to the doctor's)
 7. (L8) Sie-imperative of `kommen`: ______
 8. (L8) „Das ist ______ Apotheke da drüben." (pointing: definite article, f)
 9. (L7) „______ ich hier rauchen?" (= May I smoke here?)

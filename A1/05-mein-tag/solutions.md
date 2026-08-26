@@ -51,7 +51,7 @@
 
 ## Übung A5 — Inoffizielle Uhrzeit: write as words
 
-1. **drei (Uhr)**  2. **fünf nach vier**  3. **Viertel nach neun**  4. **halb drei**  5. **Viertel vor elf**  6. **fünf vor acht**  7. **halb sieben**  8. **Viertel nach eins**  9. **zehn vor zwölf**  10. **halb eins**
+1. **drei** (auch richtig: **drei Uhr**)  2. **fünf nach vier**  3. **Viertel nach neun**  4. **halb drei**  5. **Viertel vor elf**  6. **fünf vor acht**  7. **halb sieben**  8. **Viertel nach eins**  9. **zehn vor zwölf**  10. **halb eins**
 
 ## Übung A6 — Die halb-Falle: write the digital time
 

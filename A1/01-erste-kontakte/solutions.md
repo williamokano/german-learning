@@ -263,7 +263,7 @@ Selbstkorrektur:
 
 ## Übung D3 — Selbsttest (score yourself /20)
 
-1. **bin**  2. **heißt**  3. **spricht**  4. **kommen**  5. **seid**  6. **wohnen**  7. **Woher**  8. **Wo**  9. **Welche**  10. **Wie heißen Sie?** (auch richtig: **Wie ist Ihr Name?**)  11. **vierzehn**  12. **sechzehn**  13. **12**  14. **Französisch**  15. **Türkisch**  16. **Ich heiße Lukas.**  17. **Woher kommst du?**  18. **Guten Abend!**  19. **der**  20. **Tschüss! (also: Bis bald!)**
+1. **bin**  2. **heißt**  3. **spricht**  4. **kommen**  5. **seid**  6. **wohnen**  7. **Woher**  8. **Wo**  9. **Welche**  10. **Wie heißen Sie?** (auch richtig: **Wie ist Ihr Name?**)  11. **vierzehn**  12. **sechzehn**  13. **12**  14. **Französisch**  15. **Türkisch**  16. **Ich heiße Lukas.**  17. **Woher kommst du?**  18. **Guten Abend!**  19. **der**  20. **Tschüss!** (auch richtig: **Bis bald!**)
 
 ---
 

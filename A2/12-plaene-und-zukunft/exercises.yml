@@ -911,7 +911,9 @@ exercises:
       14. als or wenn? „{25} ich in Berlin ankam, hat es geregnet." → {26}
       15. (A2/L10) Country with article: „Wir fahren {27} Iran." (nach / in den / im) → {28}
     answers:
-      "1": "At the end (of the subordinate clause)"
+      "1":
+        - "At the end"
+        - "At the end of the subordinate clause"
       "2": werde
       "3": als
       "4": als

@@ -108,7 +108,7 @@ Modellantwort:
 
 ## Übung B3 — Finde den Fehler
 
-1. **schicken**  2. **an**  3. **an**  4. **das**  5. **am**  6. **aus**  7. **angerufen**  8. **mir**  9. **den**  10. **dem**
+1. **schicken**  2. **an**  3. **hat**  4. **das**  5. **am**  6. **aus**  7. **angerufen**  8. **mir**  9. **den**  10. **dem**
 
 ## Übung B4 — Frage und Antwort verbinden
 

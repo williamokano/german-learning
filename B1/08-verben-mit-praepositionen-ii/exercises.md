@@ -261,7 +261,7 @@ Choose the correct form (a, b, or c).
 
 Each sentence contains exactly one error. Find it and write the corrected sentence. 6 items.
 
-1. Ich denke daran ihm. (Pavel ist eine Person!)
+1. Ich denke daran ihm. (ihm = eine Person!)
    Korrektur: (1) ______
 2. Worauf wartest du? — Auf Mia.
    Korrektur: (2) ______

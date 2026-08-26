@@ -95,7 +95,7 @@
 
 ## Übung B3 — Finde den Fehler
 
-1. **tun**  2. **Trink**  3. **sollst**  4. **Tagen**  5. **Nimm**  6. **Schlaft**  7. **Kopfschmerzen**  8. **schlafen**  9. **auf**  10. **dich**
+1. **tun**  2. **Trink**  3. **sollst**  4. **Tagen**  5. **Nimm**  6. **Schlaft**  7. **Kopfschmerzen**  8. **schlafen**  9. **Macht**  10. **dich**
 
 ## Übung B4 — Frage und Antwort verbinden
 
@@ -247,7 +247,7 @@ Selbstkorrektur:
 
 ## Übung D3 — Wiederholung Lektion 7 und 8
 
-1. **willst**  2. **darf**  3. **Ich muss jetzt schlafen.**  4. **Sie muss ins Krankenhaus (gehen).**  5. **mit dem**  6. **zum**  7. **Kommen Sie her!**  8. **die**  9. **Darf**  10. **soll**
+1. **willst**  2. **darf**  3. **Ich muss jetzt schlafen.**  4. **Sie muss ins Krankenhaus gehen.** (auch richtig: **Sie muss ins Krankenhaus.**)  5. **mit dem**  6. **zum**  7. **Kommen Sie her!**  8. **die**  9. **Darf**  10. **soll**
 
 ## Übung D4 — Selbsttest (score yourself /20)
 

@@ -239,7 +239,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (bewerte dich /20)
 
-1. **Apposition**  2. **Parenthese**  3. **Partizipialattribut (vorangestellt)**  4. **Relativsatz (nachgestellt)**  5. **Ellipse**  6. **den**  7. **der**  8. **das**  9. **in der**  10. **klingend**  11. **gegründet**  12. **Ende**  13. **2**  14. **II**  15. **das**  16. **umgangssprachlich**  17. **Nachfeld**  18. **Distanz**  19. **treffen**  20. **um**
+1. **Apposition**  2. **Parenthese**  3. **Partizipialattribut** (auch richtig: **Partizipialattribut (vorangestellt)**)  4. **Relativsatz** (auch richtig: **Relativsatz (nachgestellt)**)  5. **Ellipse**  6. **den**  7. **der**  8. **das**  9. **in der**  10. **klingend**  11. **gegründet**  12. **Ende**  13. **2**  14. **II**  15. **das**  16. **umgangssprachlich**  17. **Nachfeld**  18. **Distanz**  19. **treffen**  20. **um**
 
 ---
 

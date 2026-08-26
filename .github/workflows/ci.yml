@@ -49,6 +49,9 @@ jobs:
       - name: Check gap markers are numbered in reading order
         run: npx --yes tsx build/check-gap-order.ts --all
 
+      - name: Check gap answers are typeable and error hunts have a real error
+        run: npx --yes tsx build/check-answer-usability.ts --all
+
       - name: Validate vocab.yml and assert no needsReview markers remain
         run: npx --yes tsx build/import-vocab.ts --all --check
 

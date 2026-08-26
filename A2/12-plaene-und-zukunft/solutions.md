@@ -274,7 +274,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Gemischter Schnelltest
 
-1. **At the end (of the subordinate clause)**  2. **werde**  3. **als**  4. **als**  5. **Feminine country name**  6. **werde**  7. **lernen**  8. **werde**  9. **lernen**  10. **Wenn**  11. **werden**  12. **bleiben**  13. **werden**  14. **bleiben**  15. **Könnten**  16. **Könnten**  17. **geflogen**  18. **kommen**  19. **kommen**  20. **als**  21. **als**  22. **danach**  23. **At the end**  24. **At the end of the clause**  25. **als**  26. **als**  27. **in den**  28. **in den**
+1. **At the end** (auch richtig: **At the end of the subordinate clause**)  2. **werde**  3. **als**  4. **als**  5. **Feminine country name**  6. **werde**  7. **lernen**  8. **werde**  9. **lernen**  10. **Wenn**  11. **werden**  12. **bleiben**  13. **werden**  14. **bleiben**  15. **Könnten**  16. **Könnten**  17. **geflogen**  18. **kommen**  19. **kommen**  20. **als**  21. **als**  22. **danach**  23. **At the end**  24. **At the end of the clause**  25. **als**  26. **als**  27. **in den**  28. **in den**
 
 ## Übung D2 — Odd one out
 

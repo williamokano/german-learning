@@ -251,7 +251,7 @@ Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreib
 5. Der Film fängt ______ acht Uhr an. (am → ?)
 6. „Halb acht" ist ______ Uhr. (8:30 → ?)
 7. Ich ______ abends. (fernsehe → ?)
-8. Anna ruft ______ ihre Eltern. (an → ?)
+8. Anna ruft ihre Eltern ______. (Anna ruft an ihre Eltern → ?)
 9. Ich arbeite von Montag ______ Freitag. (zu → ?)
 10. ______ Nacht schlafe ich gut. (In die → ?)
 

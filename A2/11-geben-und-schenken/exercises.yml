@@ -1030,7 +1030,7 @@ exercises:
       "7": Akkusativ
       "8": "Would you like to come along?"
       "9": richtig
-      "10": "Zukunft (future)"
+      "10": "Zukunft"
 
   - id: D4
     block: D
@@ -1072,7 +1072,7 @@ exercises:
 
       **Mixed:**
       18. Konjugation schenken, wir-form: {26}
-      19. (A2/L8) Adjective ending: „Das ist unser bestes Buch." — why bestes? {27}
+      19. (A2/L8) Adjektivendung: „Das ist unser best{27} Buch." (n, Nom.)
       20. Direct object in „Schreibt ihr eurer Oma auch eine Karte?" — {28}
     answers:
       "1": Dativ
@@ -1101,5 +1101,5 @@ exercises:
       "24": mir
       "25": ihnen
       "26": schenken
-      "27": "unser is a possessive (mixed declension) — bestes for Nominativ/Akkusativ neuter singular"
+      "27": "es"
       "28": "eine Karte"

@@ -321,11 +321,11 @@ Selbstkorrektur:
 
 ## Übung D3 — Rückblick: A2/06, A2/09, A2/10
 
-1. **interessiert**  2. **Akkusativ**  3. **Could you please help me?**  4. **hätte**  5. **in die**  6. **Wo**  7. **Akkusativ**  8. **Would you like to come along?**  9. **richtig**  10. **Zukunft (future)**
+1. **interessiert**  2. **Akkusativ**  3. **Could you please help me?**  4. **hätte**  5. **in die**  6. **Wo**  7. **Akkusativ**  8. **Would you like to come along?**  9. **richtig**  10. **Zukunft**
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-1. **Dativ**  2. **Ihnen**  3. **Ihnen**  4. **Akkusativ**  5. **Dativ**  6. **empfiehlt**  7. **gibst**  8. **Wo**  9. **Ich schenke meinem Bruder ein Buch.**  10. **Sie empfiehlt ihm ein Restaurant.**  11. **meiner Schwester**  12. **ein Buch**  13. **es**  14. **ihr**  15. **meinem Bruder**  16. **hätte**  17. **hätte**  18. **ihr**  19. **ihr**  20. **es**  21. **es**  22. **für**  23. **für**  24. **mir**  25. **ihnen**  26. **schenken**  27. **unser is a possessive (mixed declension) — bestes for Nominativ/Akkusativ neuter singular**  28. **eine Karte**
+1. **Dativ**  2. **Ihnen**  3. **Ihnen**  4. **Akkusativ**  5. **Dativ**  6. **empfiehlt**  7. **gibst**  8. **Wo**  9. **Ich schenke meinem Bruder ein Buch.**  10. **Sie empfiehlt ihm ein Restaurant.**  11. **meiner Schwester**  12. **ein Buch**  13. **es**  14. **ihr**  15. **meinem Bruder**  16. **hätte**  17. **hätte**  18. **ihr**  19. **ihr**  20. **es**  21. **es**  22. **für**  23. **für**  24. **mir**  25. **ihnen**  26. **schenken**  27. **es**  28. **eine Karte**
 
 ---
 
