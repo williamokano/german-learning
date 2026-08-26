@@ -34,7 +34,7 @@
 
 # Block A — Basistraining
 
-## Übung A1 — Präteritum: regular verbs
+## Übung A1 — Präteritum: schwache und starke Verben
 
 1. **wohnte**  2. **lebten**  3. **lebte**  4. **fuhr**  5. **wohnten**  6. **lebtet**  7. **kamst**  8. **zahlte**
 
@@ -42,7 +42,7 @@
 
 1. **war**  2. **hatte**  3. **waren**  4. **hatte**  5. **wurde**  6. **wart**  7. **hattest**  8. **wurde**
 
-## Übung A3 — Präteritum: Modalverben
+## Übung A3 — Präteritum: Modalverben und wissen
 
 1. **konnte**  2. **musste**  3. **wussten**  4. **wusstest**  5. **konnte**  6. **musstet**
 
@@ -63,7 +63,7 @@ Modellantwort:
 > wusste ich nicht, was ich studieren sollte. Dann machte ich ein
 > Praktikum in einer Firma. Heute arbeite ich dort und bin sehr froh.
 
-## Übung A7 — Time connectors: zuerst, dann, danach, schließlich
+## Übung A7 — Time connectors: zuerst, dann, danach, später, schließlich
 
 1. **Zuerst**  2. **Dann**  3. **Danach**  4. **Später**  5. **Schließlich**
 

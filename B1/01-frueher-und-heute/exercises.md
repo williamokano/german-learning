@@ -75,7 +75,7 @@ Listen to Lukas's voice message. Then choose the correct answer (a, b, or c). Li
 
 # Block A — Basistraining
 
-## Übung A1 — Präteritum: regular verbs
+## Übung A1 — Präteritum: schwache und starke Verben
 
 Fill in the correct Präteritum form. 8 items.
 
@@ -101,7 +101,7 @@ Fill in the correct Präteritum form of the verb in brackets. 8 items.
 7. Du ______ (haben) damals keine Ahnung.
 8. Die Stadt ______ (werden) immer teurer.
 
-## Übung A3 — Präteritum: Modalverben
+## Übung A3 — Präteritum: Modalverben und wissen
 
 Fill in the correct Präteritum form. ⚠️ no umlaut. 6 items.
 
@@ -125,11 +125,11 @@ Put the verb in brackets into Präteritum. 6 items.
 
 ## Übung A5 — Plusquamperfekt: 'had done'
 
-Fill in the correct Plusquamperfekt form. 6 items.
+Fill in the correct Plusquamperfekt form. 3 items, 5 gaps.
 
-1. Bevor ich nach Berlin kam, ______ (ich) schon einen Job ______ (finden). (finden)
-2. Nachdem sie das Studium ______ (beenden), ______ (ziehen) sie nach München. (beenden, ziehen)
-3. Er ______ (sich verlieben) in sie, nachdem er sie zum ersten Mal gesehen hatte. (verlieben)
+1. Bevor ich nach Berlin kam, ______ ich schon einen Job ______. (finden)
+2. Nachdem sie das Studium ______, ______ sie nach München. (beenden, ziehen)
+3. Er ______ in sie, nachdem er sie zum ersten Mal gesehen hatte. (sich verlieben)
 
 ## Übung A6 — Mini-Story: 5 Sätze im Präteritum
 
@@ -140,9 +140,9 @@ Now write your own 5-sentence story. Use at least 3 of: war, hatte, ging, machte
 
 **Your task:** Write a short 5-sentence story about something that happened to you in the past. Use Präteritum throughout.
 
-## Übung A7 — Time connectors: zuerst, dann, danach, schließlich
+## Übung A7 — Time connectors: zuerst, dann, danach, später, schließlich
 
-Choose the correct time connector for each gap. 5 items.
+Choose the correct time connector for each gap: zuerst, dann, danach, später, schließlich. 5 items.
 
 Anna erzählt: „______ lebte ich in Russland. ______ bin ich nach Berlin
 gekommen. ______ habe ich einen Deutschkurs gemacht. ______ habe ich einen

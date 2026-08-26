@@ -264,9 +264,10 @@ Infrastruktur. (2) ______ investieren Städte wie Berlin und Hamburg massiv in
 den Ausbau von Ladestationen und Radwegen. Das Ergebnis ist zwar noch
 nicht perfekt, (3) ______ die Tendenz ist eindeutig positiv. Viele Bürger
 nutzen (4) ______ ihr Auto immer noch, weil öffentliche Verkehrsmittel nicht
-überall verlässlich sind. (5) ______ suchen Startups wie das von Tomáš nach
-Lösungen für die Randbezirke, wo der ÖPNV besonders schwach ist.
-Nachhaltigkeit und Wirtschaftlichkeit schließen sich (6) ______ nicht aus —
+überall verlässlich sind, aber immer mehr steigen auf Rad und Bahn um.
+(5) ______ suchen Startups wie das von Tomáš nach Lösungen für die Randbezirke,
+wo der ÖPNV besonders schwach ist. Solche Projekte sind teuer.
+(6) ______ schließen sich Nachhaltigkeit und Wirtschaftlichkeit nicht aus —
 im Gegenteil: Sie ergänzen sich.
 
 ## Übung B7 — Umformung: `zwar … aber` verwenden
@@ -279,7 +280,7 @@ Rewrite each pair of sentences using `zwar … aber`. 4 items.
    → Berlin ist ______ hektisch, ______ ich liebe es trotzdem.
 3. Die Präsentation war kurz. Sie war aber sehr überzeugend.
    → Die Präsentation war ______ kurz, ______ sie war sehr überzeugend.
-4. Prag ist günstig. Berlin bietet aber mehr Netzwerk.
+4. Prag ist günstiger. Berlin bietet aber mehr Netzwerk.
    → Prag ist ______ günstiger, ______ Berlin bietet mehr Netzwerk.
 
 ## Übung B8 — Leseverstehen: Lesetext (Tomáš und das Berlin-Experiment)
