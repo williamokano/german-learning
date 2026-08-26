@@ -37,7 +37,7 @@ Ergänze die Konjunktiv-II-Form.
 
 1. Ich ______ dich gern einladen. (werden)
 2. ______ du Samstag Zeit? (haben)
-3. Freitag ______ bei mir gehen. (gehen)
+3. Freitag ______ bei mir. (gehen im Konjunktiv II)
 4. Das ______ super. (sein)
 5. ______ es dir etwas ausmachen, wenn wir eine Stunde später anfangen? (werden)
 6. Ich ______ sonst am Sonntag. (können)
@@ -66,7 +66,7 @@ Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht geb
 > — Nein, da bin ich frei. Sehr (2) ______!
 > — Super. Ab sechs, dritter Stock, klingel einfach.
 > — Soll ich etwas (3) ______?
-> — Einen Salat (4) ______ super, alles andere haben wir.
+> — Ein Salat (4) ______ super, alles andere haben wir.
 > — Mache ich.
 > *(die zweite Antwort)*
 > — Das ist lieb, (5) ______ ich schaffe es leider nicht. Ich muss an dem
@@ -174,7 +174,7 @@ Ergänze aus dem Gedächtnis.
 6. Ich kann nicht, ______ ich arbeiten muss. (because)
 7. Da bin ich schon ______. (busy — have plans with someone)
 8. Können wir es ______? (postpone)
-9. Freitag ______ bei mir gehen. (would work — gehen im Konjunktiv II)
+9. Freitag ______ bei mir. (would work — gehen im Konjunktiv II)
 10. Es tut mir wirklich ______. (sorry)
 11. Ich habe es total ______. (forgotten)
 12. Lass es uns ______! (make up for it later)

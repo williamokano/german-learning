@@ -20,7 +20,7 @@
 
 ## Übung A4 — Interesse zeigen
 
-1. **Wie**  2. **so**  3. **verstehen**  4. **hast**  5. **passierte**  6. **weiter**
+1. **Wie**  2. **so** (auch richtig: **ja**)  3. **verstehen**  4. **hast**  5. **ist**  6. **weiter**
 
 ---
 

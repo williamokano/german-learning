@@ -112,14 +112,16 @@ exercises:
       2. Ach {2}? Das wusste ich gar nicht. (kurze Rückfrage, zwei Buchstaben)
       3. Das kann ich gut {3}. (nachfühlen)
       4. Wie {4} du das denn gemacht? (Perfekt-Frage: … du das gemacht)
-      5. Und was {5} dann? (passieren, Präteritum)
+      5. Und was {5} dann passiert? (Perfekt-Hilfsverb zu passieren)
       6. Erzähl {6}! (Aufforderung: mehr davon)
     answers:
       "1": Wie
-      "2": so
+      "2":
+        - so
+        - ja
       "3": verstehen
       "4": hast
-      "5": passierte
+      "5": ist
       "6": weiter
 
   # ── Block B — Dialoge ─────────────────────────────────────────────────────
@@ -146,7 +148,7 @@ exercises:
       — Sehr nett. Ich habe einen Salat {8}, der steht drüben.
       — Super. — Oh, ich glaube, ich muss kurz an den Grill. Wir
       {9} später weiter?
-      — Gern. Und {10} nächstes Mal etwas mitbringen soll, sag
+      — Gern. Und {10} ich nächstes Mal etwas mitbringen soll, sag
       einfach Bescheid.
     bank: [STOCK, HIER, SEIT, URSPRÜNGLICH, GELEBT, INTERESSANT, OHNE, MITGEBRACHT, REDEN, WENN, VOR, WOHNUNG, GEGESSEN, SPRECHEN]
     answers:

@@ -176,7 +176,7 @@ Ergänze aus dem Gedächtnis.
 7. Heben Sie den ______ auf. (proof of posting)
 8. Der Bote hat zweimal ______. (rung — Partizip)
 9. Das Paket ______ beim Nachbarn abgegeben. (was — Passiv Präteritum)
-10. Ich lasse an die ______ liefern. (parcel locker)
+10. Ich lasse es an die ______ liefern. (parcel locker)
 11. ______ das Paket verloren geht, brauche ich den Beleg. (in case)
 12. Ich stelle einen ______. (tracing request)
 

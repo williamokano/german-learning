@@ -51,7 +51,7 @@ Ergänze das Fragewort.
 3. ______ viele Personen sind betroffen? (Anzahl)
 4. ______ alt ist die Person? (Alter)
 5. Können Sie mir sagen, ______ sie ansprechbar ist? (Ja/Nein-Frage im Nebensatz)
-6. ______ rufen Sie an — sind Sie vor Ort? (Person/Ort)
+6. Von ______ rufen Sie an — sind Sie vor Ort? (Ort)
 7. ______ lange dauert das schon? (Dauer)
 8. ______ hat sich das entwickelt? (Art und Weise)
 

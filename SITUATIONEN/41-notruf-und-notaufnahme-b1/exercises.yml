@@ -118,7 +118,7 @@ exercises:
       3. {3} viele Personen sind betroffen? (Anzahl)
       4. {4} alt ist die Person? (Alter)
       5. Können Sie mir sagen, {5} sie ansprechbar ist? (Ja/Nein-Frage im Nebensatz)
-      6. {6} rufen Sie an — sind Sie vor Ort? (Person/Ort)
+      6. Von {6} rufen Sie an — sind Sie vor Ort? (Ort)
       7. {7} lange dauert das schon? (Dauer)
       8. {8} hat sich das entwickelt? (Art und Weise)
     answers:
@@ -127,7 +127,7 @@ exercises:
       "3": Wie
       "4": Wie
       "5": ob
-      "6": Wer
+      "6": wo
       "7": Wie
       "8": Wie
 

@@ -50,7 +50,7 @@ Ergänze das fehlende Wort.
 2. Ach ______? Das wusste ich gar nicht. (kurze Rückfrage, zwei Buchstaben)
 3. Das kann ich gut ______. (nachfühlen)
 4. Wie ______ du das denn gemacht? (Perfekt-Frage: … du das gemacht)
-5. Und was ______ dann? (passieren, Präteritum)
+5. Und was ______ dann passiert? (Perfekt-Hilfsverb zu passieren)
 6. Erzähl ______! (Aufforderung: mehr davon)
 
 ---
@@ -76,7 +76,7 @@ Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht geb
 > — Sehr nett. Ich habe einen Salat (8) ______, der steht drüben.
 > — Super. — Oh, ich glaube, ich muss kurz an den Grill. Wir
 > (9) ______ später weiter?
-> — Gern. Und (10) ______ nächstes Mal etwas mitbringen soll, sag
+> — Gern. Und (10) ______ ich nächstes Mal etwas mitbringen soll, sag
 > einfach Bescheid.
 
 > (STOCK · HIER · SEIT · URSPRÜNGLICH · GELEBT · INTERESSANT · OHNE · MITGEBRACHT · REDEN · WENN · VOR · WOHNUNG · GEGESSEN · SPRECHEN)

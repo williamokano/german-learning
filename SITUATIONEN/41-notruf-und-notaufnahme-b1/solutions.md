@@ -20,7 +20,7 @@
 
 ## Übung A4 — Die Fragen der Leitstelle
 
-1. **Wo**  2. **Was**  3. **Wie**  4. **Wie**  5. **ob**  6. **Wer**  7. **Wie**  8. **Wie**
+1. **Wo**  2. **Was**  3. **Wie**  4. **Wie**  5. **ob**  6. **wo**  7. **Wie**  8. **Wie**
 
 ---
 
