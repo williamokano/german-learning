@@ -26,7 +26,7 @@ Ergänze Präposition + Artikel.
 2. Ich lege den Koffer ______ Schrank.
 3. Die Schlüssel liegen ______ Schublade.
 4. Leg die Schlüssel bitte ______ Schublade!
-5. Der Vogel sitzt ______ Baum.
+5. Der Vogel schwebt ______ Baum.
 6. Der Vogel fliegt ______ Baum.
 
 ---

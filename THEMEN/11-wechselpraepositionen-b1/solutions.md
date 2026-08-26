@@ -16,7 +16,7 @@
 
 ## Übung A2 — Wo oder wohin? (Wiederholung)
 
-1. **in dem**  2. **in den**  3. **in der**  4. **in die**  5. **über dem**  6. **über den**
+1. **in dem** (auch richtig: **im**)  2. **in den**  3. **in der**  4. **in die**  5. **über dem**  6. **über den**
 
 ---
 

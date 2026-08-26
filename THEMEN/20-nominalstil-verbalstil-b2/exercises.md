@@ -28,7 +28,7 @@ Ergänze die passende Präposition.
 3. Bevor die Sitzung beginnt, gibt es Kaffee. → ______ der Sitzung gibt es Kaffee.
 4. Obwohl es kalt war, gingen wir spazieren. → ______ der Kälte gingen wir spazieren.
 5. Wenn man die Anleitung liest, versteht man es besser. → ______ Lesen der Anleitung versteht man es besser.
-6. Damit er pünktlich ist, fährt er früh los. → ______ seine Pünktlichkeit fährt er früh los.
+6. Seitdem er umgezogen ist, sehen wir ihn selten. → ______ seinem Umzug sehen wir ihn selten.
 
 ---
 
@@ -101,12 +101,12 @@ Two words are not needed.
 
 Ergänze die passende Präposition.
 
-1. Weil es regnete, blieben wir zu Hause. → ______ des Regens blieben wir zu Hause.
-2. Nachdem er angekommen war, rief er an. → ______ seiner Ankunft rief er an.
-3. Bevor die Sitzung beginnt, gibt es Kaffee. → ______ der Sitzung gibt es Kaffee.
-4. Obwohl es kalt war, gingen wir spazieren. → ______ der Kälte gingen wir spazieren.
-5. Wenn man die Anleitung liest, versteht man es besser. → ______ Lesen der Anleitung versteht man es besser.
-6. Damit er pünktlich ist, fährt er früh los. → ______ seine Pünktlichkeit fährt er früh los.
+1. Während wir warteten, lasen wir Zeitung. → ______ des Wartens lasen wir Zeitung.
+2. Weil das Wetter schlecht war, fiel das Spiel aus. → ______ des schlechten Wetters fiel das Spiel aus.
+3. Nachdem die Daten geprüft worden waren, wurden sie freigegeben. → ______ der Prüfung wurden die Daten freigegeben.
+4. Obwohl er Bedenken hatte, stimmte er zu. → ______ seiner Bedenken stimmte er zu.
+5. Bevor man unterschreibt, sollte man alles lesen. → ______ dem Unterschreiben sollte man alles lesen.
+6. Wenn man richtig plant, spart man Zeit. → ______ richtiger Planung spart man Zeit.
 
 ## Übung D2 — Selbsttest
 

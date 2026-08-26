@@ -25,7 +25,7 @@ Ergänze das passende Modalverb im Präteritum.
 
 1. Als Kind ______ ich nicht gut schwimmen.
 2. Wir ______ gestern früh aufstehen, der Flug ging um sechs.
-3. ______ ich als Kind draußen spielen? Ja, klar.
+3. ______ du als Kind draußen spielen? — Ja, klar.
 4. Er ______ unbedingt Fußballspieler werden.
 5. Meine Mutter sagte, ich ______ mein Zimmer aufräumen.
 6. Ich ______ keinen Fisch, als ich klein war.
@@ -103,7 +103,7 @@ Ergänze das passende Modalverb im Präteritum.
 
 1. Als Kind ______ ich nicht Auto fahren.
 2. Ich ______ gestern zum Arzt gehen.
-3. ______ ich als Kind spät ins Bett gehen? Nein, nie.
+3. ______ du als Kind spät ins Bett gehen? — Nein, nie.
 4. Sie ______ unbedingt Ärztin werden.
 5. Der Trainer sagte, wir ______ mehr üben.
 6. Ich ______ als Kind keine Milch.

@@ -49,10 +49,12 @@ exercises:
       2. Ich lege den Koffer {2} Schrank.
       3. Die Schlüssel liegen {3} Schublade.
       4. Leg die Schlüssel bitte {4} Schublade!
-      5. Der Vogel sitzt {5} Baum.
+      5. Der Vogel schwebt {5} Baum.
       6. Der Vogel fliegt {6} Baum.
     answers:
-      "1": "in dem"
+      "1":
+        - "in dem"
+        - "im"
       "2": "in den"
       "3": "in der"
       "4": "in die"
