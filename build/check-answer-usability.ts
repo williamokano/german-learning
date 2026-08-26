@@ -15,6 +15,13 @@
  *               answer restores, so the "corrected" sentence is the original.
  *               The learner has nothing to find.
  *
+ *   DOUBLE-ART  The answer already carries the article — as a contraction
+ *               ("vom", "zum") or as preposition + article ("aus dem") — and
+ *               the frame repeats it, so the sentence renders "vom dem Arzt"
+ *               or "aus dem dem Supermarkt". A bare article answer followed by
+ *               another article is NOT flagged: that is an ordinary relative
+ *               clause ("die Frau, die die beste Pasta kocht").
+ *
  * Usage: tsx build/check-answer-usability.ts --all
  *        tsx build/check-answer-usability.ts <lesson-dir> [...]
  */
@@ -41,6 +48,8 @@ function lessonDirs(): string[] {
 }
 
 const EXPLANATION = /\s\([^)]*\p{L}[^)]*\)|^umstellen:/iu;
+const ARTICLES = new Set(['der', 'die', 'das', 'den', 'dem', 'des']);
+const CONTRACTION = /^(im|am|ins|ans|aufs|zum|zur|vom|beim|fürs|durchs|ums)$/i;
 
 const args = process.argv.slice(2);
 const dirs = args.includes('--all')
@@ -70,6 +79,21 @@ for (const dir of dirs) {
       const hint = line.match(/\(([^()→]{1,40})\s*→\s*\?\)/);
       if (hint && hint[1].trim().toLowerCase() === first.trim().toLowerCase()) {
         problems.push(`${rel} ${ex.id} answer "${key}": hint "${hint[1].trim()}" is the answer — nothing to correct`);
+      }
+
+      const words = first.trim().split(/\s+/);
+      const tail = (words[words.length - 1] ?? '').toLowerCase();
+      const next = text.match(new RegExp(`\\{${key}\\}\\s+(\\S+)`));
+      const nextWord = next?.[1].replace(/[.,!?;:]$/, '').toLowerCase() ?? '';
+      if (ARTICLES.has(nextWord)) {
+        // a contraction always swallows the article; prep + article only counts
+        // when the very same article repeats (otherwise it is a relative clause)
+        const doubled =
+          CONTRACTION.test(first.trim()) ||
+          (words.length > 1 && ARTICLES.has(tail) && tail === nextWord);
+        if (doubled) {
+          problems.push(`${rel} ${ex.id} answer "${key}": key ${JSON.stringify(first)} already carries the article, but "${nextWord}" follows the gap`);
+        }
       }
     }
   }

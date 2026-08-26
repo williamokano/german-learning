@@ -118,7 +118,7 @@ Ergänze die richtige Präposition (nach / in / in die / in den / in der / aus /
 5. Anna ist ______ Russland gekommen.
 6. Fährst du ______ die Schweiz in den Urlaub?
 7. Die Touristen kommen ______ den USA.
-8. Ich gehe ______ den Bahnhof.
+8. Ich gehe ______ Bahnhof.
 9. Sie wohnt jetzt ______ der Türkei.
 10. Wir fliegen morgen ______ den Iran.
 
@@ -193,10 +193,10 @@ Ergänze die richtige Präposition. Verwende wenn möglich die Kurzform. 8 Aufga
 
 Wähle aus oder von. 8 Aufgaben.
 
-1. Ich komme ______ dem Supermarkt.
+1. Ich komme ______ Supermarkt.
 2. Er kommt ______ Brasilien.
 3. Sie kommt ______ ihrer Schwester.
-4. Wir kommen ______ dem Konzert.
+4. Wir kommen ______ Konzert.
 5. Anna kommt ______ Osaka.
 6. Der Brief kommt ______ meiner Freundin.
 7. Wir fahren ______ hier aus morgen los.
@@ -232,10 +232,10 @@ Schreibe die Sie-Form des Imperativs für jede Richtungsanweisung. 6 Aufgaben.
 Ergänze die richtige Präposition. Verwende wenn möglich die Kurzform. 8 Aufgaben.
 
 1. Das Restaurant liegt ______ dem Bahnhof. (location: Wo?)
-2. Wir fahren morgen ______ die Alpen. (direction: Wohin?)
+2. Wir fahren morgen ______ Alpen. (direction: Wohin?)
 3. Er wohnt ______ seiner Tante in Hamburg. (location: Wo?)
-4. Sie kommt gerade ______ dem Arzt. (origin: Woher?)
-5. Ich stelle die Tasche ______ den Stuhl. (direction: Wohin?)
+4. Sie kommt gerade ______ Arzt. (origin: Woher?)
+5. Ich stelle die Tasche ______ Stuhl. (direction: Wohin?)
 6. Das Hotel liegt direkt ______ Meer. (location: Wo?)
 7. Wir fahren ______ Hause. (direction: Wohin? — Wohin from where you are)
 8. Er kommt ______ Salzburg. (origin: Woher?)
@@ -527,7 +527,7 @@ Wiederholungsaufgaben. 10 Lücken.
 **Wo? / Wohin? / Woher? — fill the preposition:**
 1. „Ich fahre morgen ______ Spanien."
 2. „Das Hotel liegt direkt ______ Meer."
-3. „Er kommt gerade ______ dem Bahnhof."
+3. „Er kommt gerade ______ Bahnhof."
 4. „Wir gehen ______ die Stadt."
 
 **Countries with article:**

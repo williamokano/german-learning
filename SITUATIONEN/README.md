@@ -144,6 +144,11 @@ die alle anderen Gates passieren, weil das YAML strukturell korrekt ist:
   akzeptiert wird; deshalb prüft das Gate nur skalare Antworten.
 - Ein „Finde den Fehler"-Item, dessen Hinweis `(X → ?)` genau das Wort nennt,
   das die Antwort wiederherstellt. Es gibt nichts zu finden.
+- Die Antwort trägt den Artikel schon in sich — als Kurzform (`vom`, `zum`)
+  oder als Präposition + Artikel (`aus dem`) — und der Rahmen wiederholt ihn:
+  „Sie kommt gerade vom dem Arzt." Eine **bloße** Artikel-Antwort vor einem
+  weiteren Artikel wird nicht gemeldet, das ist ein normaler Relativsatz
+  („die Frau, die die beste Pasta kocht").
 
 ```
 npx tsx build/check-answer-usability.ts --all

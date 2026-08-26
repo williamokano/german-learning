@@ -431,7 +431,7 @@ One minute per gap. Items marked (B1/03) or (B1/04) review earlier lessons. 15 i
 11. (B1/03) Konjunktiv II of `können`, ich-form: ______
 12. (B1/03) Fill in Konjunktiv II: Wenn ich Zeit hätte, ______ ich dir helfen. (würde)
 13. (B1/04) Passiv Präsens: Die App ______ täglich ______ . (nutzen → wird genutzt) → ______ täglich ______.
-14. Fill in: Das ist die Gegend, ______ die Nachfrage am größten ist. (in + f. Dat. → in der)
+14. Fill in: Das ist die Gegend, ______ die Nachfrage am größten ist. (in + f. Dat.)
 15. Fill in the Dativ relative pronoun (f.): die Mitarbeiterin, ______ ich danke.
 
 ## Übung D2 — Welches Wort passt nicht?
