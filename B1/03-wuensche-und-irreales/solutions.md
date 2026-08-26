@@ -106,7 +106,7 @@
 
 ## Übung B2 — Finde den Fehler — Konjunktiv II
 
-1. **Wenn ich mehr Zeit hätte, würde ich reisen.**  2. **Ich wünschte, ich wäre in Tokio.**  3. **An deiner Stelle würde ich das sofort machen.**  4. **Wenn Anna freier wäre, würde sie nach Lissabon ziehen.**  5. **Du solltest dich anmelden.**  6. **Wenn ich könnte, würde ich sofort anfangen.**
+1. **Wenn ich mehr Zeit hätte, würde ich reisen.**  2. **Ich wünschte, ich wäre in Tokio.**  3. **An deiner Stelle würde ich das sofort machen.**  4. **Wenn Anna freier wäre, würde sie nach Lissabon ziehen.**  5. **Du solltest dich anmelden, wenn du mich fragst.**  6. **Wenn ich könnte, würde ich sofort anfangen.**
 
 ## Übung B3 — Richtige Form wählen: `würde` oder starke Form?
 

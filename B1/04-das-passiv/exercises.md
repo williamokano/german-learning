@@ -88,14 +88,14 @@ Fill in the Passiv Präsens conjugation table for three verbs. The Partizip II i
 
 Fill each gap with the correct Passiv Präsens form (werden + Partizip II). 8 items.
 
-1. Die Daten (1) ______ täglich gesichert. (werden)
-2. Der Bericht (2) ______ von der Software erstellt. (wird)
-3. Alle Mitarbeiter (3) ______ über die neue Regelung informiert. (werden)
-4. Das Produkt (4) ______ in Deutschland hergestellt. (wird)
-5. Die Qualität (5) ______ von Technikern überprüft. (wird)
-6. Du (6) ______ vom Chef persönlich begrüßt. (wirst)
-7. Wir (7) ______ täglich mit neuen Aufgaben konfrontiert. (werden)
-8. Die Fehler (8) ______ sofort korrigiert. (werden)
+1. Die Daten (1) ______ täglich gesichert.
+2. Der Bericht (2) ______ von der Software erstellt.
+3. Alle Mitarbeiter (3) ______ über die neue Regelung informiert.
+4. Das Produkt (4) ______ in Deutschland hergestellt.
+5. Die Qualität (5) ______ von Technikern überprüft.
+6. Du (6) ______ vom Chef persönlich begrüßt.
+7. Wir (7) ______ täglich mit neuen Aufgaben konfrontiert.
+8. Die Fehler (8) ______ sofort korrigiert.
 
 ## Übung A3 — Aktiv → Passiv Präsens
 
@@ -106,7 +106,7 @@ Transform the active sentence into the Passiv Präsens. The object becomes the s
 3. Man verarbeitet die Rohstoffe. → Die Rohstoffe (3) ______ verarbeitet.
 4. Die Techniker kontrollieren die Bauteile. → Die Bauteile (4) ______ von den Technikern kontrolliert.
 5. Die Software erstellt den Report. → Der Report (5) ______ von der Software erstellt.
-6. Das Team entwickelt das Programm. → Das Programm (6) ______ von dem Team entwickelt.
+6. Das Team entwickelt das Programm. → Das Programm (6) ______ vom Team entwickelt.
 7. Man genehmigt den Antrag. → Der Antrag (7) ______ genehmigt.
 8. Die Schulen unterrichten die Kinder. → Die Kinder (8) ______ von den Schulen unterrichtet.
 
@@ -136,18 +136,12 @@ Fill each gap with the correct Passiv Perfekt form (sein + Partizip II + worden)
 
 Fill each gap with the correct Modal + Passiv construction. The modal verb is given. 6 items.
 
-1. Der Bericht _______ vorher überprüft werden. (müssen → muss)
-→ Der Bericht (1) ______ vorher überprüft werden.
-2. Die Daten _______ automatisch gespeichert werden. (können → können)
-→ Die Daten (2) ______ automatisch gespeichert werden.
-3. Alle Fehler _______ sofort gemeldet werden. (sollen → sollen)
-→ Alle Fehler (3) ______ sofort gemeldet werden.
-4. Das Gebäude _______ nicht betreten werden. (dürfen → darf)
-→ Das Gebäude (4) ______ nicht betreten werden.
-5. Die Genehmigung _______ beantragt werden. (müssen → muss)
-→ Die Genehmigung (5) ______ beantragt werden.
-6. Das System _______ bis Freitag aktualisiert werden. (sollen → soll)
-→ Das System (6) ______ bis Freitag aktualisiert werden.
+1. Der Bericht (1) ______ vorher überprüft werden. (müssen)
+2. Die Daten (2) ______ automatisch gespeichert werden. (können)
+3. Alle Fehler (3) ______ sofort gemeldet werden. (sollen)
+4. Das Gebäude (4) ______ nicht betreten werden. (dürfen)
+5. Die Genehmigung (5) ______ beantragt werden. (müssen)
+6. Das System (6) ______ bis Freitag aktualisiert werden. (sollen)
 
 ## Übung A7 — Gemischte Passivformen — richtigen Zeitform wählen
 
@@ -216,7 +210,7 @@ Frau Weber erklärt den neuen Prozess:
 3. Früher (3) ______ alles manuell gemacht. (Passiv Präteritum)
 4. Jetzt (4) ______ die Arbeitszeit durch das neue System reduziert worden. (Passiv Perfekt)
 5. Alle Fehler (5) ______ sofort gemeldet werden. (müssen + Passiv)
-6. Der Bericht (6) ______ bis zum 5. abgeschlossen werden. (muss + Passiv — already has muss)
+6. Der Bericht (6) ______ bis zum 5. abgeschlossen werden. (Modal + Passiv)
 
 ## Übung B2 — Finde den Fehler — Passivformen korrigieren
 

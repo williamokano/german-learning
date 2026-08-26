@@ -196,7 +196,7 @@ Fülle die Lücken mit den passenden Konjunktiv II-Formen. 8 Lücken.
 — Ich weiß nicht. Wenn ich mehr Mut (3) ______, würde ich vielleicht ein eigenes Café aufmachen.
 — Das klingt toll! An deiner Stelle (4) ______ ich das sofort angehen.
 — Du (5) ______ leicht reden — du hast doch schon so viel Erfahrung.
-— Ich wünschte, das stimmen würde. Aber wenn ich ehrlich bin, (6) ______ auch ich oft unsicher.
+— Ich wünschte, das würde stimmen. Aber wenn ich ehrlich bin, (6) ______ auch ich oft unsicher.
 — Wirklich? Das überrascht mich. Was (7) ______ du denn konkret anders machen?
 — Wenn ich noch mal anfangen (8) ______, würde ich früher in die Selbstständigkeit gehen.
 
@@ -255,12 +255,12 @@ Bringe die Wörter in die richtige Reihenfolge.
 
 Complete each piece of advice using `solltest`, `würde` or `wäre`. 6 items.
 
-1. Du ______ dir mehr Zeit für dich selbst nehmen. (solltest)
-2. An deiner Stelle ______ ich sofort mit dem Kurs anfangen. (würde)
-3. Ich ______ dir empfehlen, mit deinem Chef zu sprechen. (würde)
-4. Es ______ besser, wenn du früher schlafen gehst. (wäre)
-5. Du ______ das unbedingt ausprobieren — es macht Spaß! (solltest)
-6. An deiner Stelle ______ ich nicht so lange warten. (würde)
+1. Du ______ dir mehr Zeit für dich selbst nehmen.
+2. An deiner Stelle ______ ich sofort mit dem Kurs anfangen.
+3. Ich ______ dir empfehlen, mit deinem Chef zu sprechen.
+4. Es ______ besser, wenn du früher schlafen gehst.
+5. Du ______ das unbedingt ausprobieren — es macht Spaß!
+6. An deiner Stelle ______ ich nicht so lange warten.
 
 ## Übung B7 — Umformung: Sätze mit vorgegebener Konjunktiv II-Struktur umschreiben
 
