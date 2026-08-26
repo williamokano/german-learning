@@ -1,0 +1,450 @@
+lesson: "SIT/40-erster-arbeitstag-a2"
+title: "Erster Arbeitstag — A2"
+topic: "Neu im Job"
+category: "Arbeit & Studium"
+level: A2
+summary: "Sich im Team vorstellen, nach dem Weg und den Regeln fragen, um Hilfe bitten, Pausen und Zeiterfassung, Feierabend."
+intro: >
+  Am ersten Arbeitstag redest du mehr als an jedem anderen — und weißt
+  am wenigsten. Es geht um vier Dinge: dich vorstellen, dich
+  zurechtfinden (Wo ist die Küche, wann sind Pausen, wie funktioniert
+  die Zeiterfassung), Fragen stellen, ohne dich dafür zu entschuldigen,
+  und am Ende sauber Feierabend machen. Dazu die deutsche Besonderheit,
+  die viele überrascht: Wer duzt hier wen — und wer bietet das Du an?
+  Grammatik nach Bedarf: Präsens und trennbare Verben, höfliche Fragen
+  mit könnten und dürfte, Nebensätze mit wo und wann. Blocks:
+  A Wortschatz & Redemittel → B Dialoge → C Wenn es schiefgeht →
+  D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Ort, Zeit oder Person?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: ort, label: "Orte im Betrieb" }
+      - { key: zeit, label: "Zeit & Regeln" }
+      - { key: person, label: "Leute" }
+    tokens:
+      - { text: "die Teeküche", bucket: ort }
+      - { text: "die Zeiterfassung", bucket: zeit }
+      - { text: "die Teamleitung", bucket: person }
+      - { text: "der Besprechungsraum", bucket: ort }
+      - { text: "die Mittagspause", bucket: zeit }
+      - { text: "die Kollegin", bucket: person }
+      - { text: "das Lager", bucket: ort }
+      - { text: "die Gleitzeit", bucket: zeit }
+      - { text: "der Azubi", bucket: person }
+      - { text: "der Aufenthaltsraum", bucket: ort }
+      - { text: "der Feierabend", bucket: zeit }
+      - { text: "die Personalabteilung", bucket: person }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Frage und Antwort am ersten Tag"
+    instructions: "Ordne jeder Frage eine passende Antwort zu."
+    instructionsEn: "Match each question with a fitting answer."
+    left:
+      - { key: "1", text: "Wo finde ich die Teeküche?" }
+      - { key: "2", text: "Wann macht ihr Mittagspause?" }
+      - { key: "3", text: "Wie funktioniert die Zeiterfassung?" }
+      - { key: "4", text: "An wen wende ich mich bei Fragen?" }
+      - { key: "5", text: "Sagt man hier du oder Sie?" }
+      - { key: "6", text: "Wann ist normalerweise Feierabend?" }
+      - { key: "7", text: "Wo kann ich meine Jacke lassen?" }
+      - { key: "8", text: "Darf ich kurz stören?" }
+    right:
+      - { key: a, text: "Den Gang runter, letzte Tür rechts." }
+      - { key: b, text: "Meistens gegen halb eins, so eine halbe Stunde." }
+      - { key: c, text: "Mit dem Chip am Eingang — beim Kommen und beim Gehen." }
+      - { key: d, text: "Erst mal an mich, ich bin deine Einarbeitung." }
+      - { key: e, text: "Im Team duzen wir uns alle, zur Geschäftsführung Sie." }
+      - { key: f, text: "Die meisten gehen zwischen fünf und halb sechs." }
+      - { key: g, text: "Der Schrank neben deinem Platz ist frei." }
+      - { key: h, text: "Klar, komm rein." }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Trennbare Verben im Betrieb"
+    instructions: "Ergänze das Verb in der richtigen Form. Die Vorsilbe gehört ans Satzende."
+    instructionsEn: "Fill in the verb in the correct form. The prefix goes to the end of the clause."
+    text: |
+      1. Ich {1} morgens um acht {2}. (anfangen)
+      2. Beim Kommen {3} man sich mit dem Chip {4}. (einstempeln)
+      3. Um halb sechs {5} ich {6}. (Feierabend machen — hier: aufhören)
+      4. {7} du mir kurz den Rechner {8}? (hochfahren, du-Form)
+      5. Ich {9} die Unterlagen nachher {10}. (mitnehmen)
+      6. {11} du bitte das Fenster {12}? (aufmachen, du-Form)
+    answers:
+      "1": fange
+      "2": an
+      "3": stempelt
+      "4": ein
+      "5": höre
+      "6": auf
+      "7": Fährst
+      "8": hoch
+      "9": nehme
+      "10": mit
+      "11": Machst
+      "12": auf
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Höflich fragen und um Hilfe bitten"
+    instructions: "Ergänze die höfliche Form."
+    instructionsEn: "Fill in the polite form."
+    text: |
+      1. {1} ich kurz stören? (dürfen im Konjunktiv II)
+      2. {2} du mir das noch einmal zeigen? (können im Konjunktiv II, du-Form)
+      3. {3} es dir etwas ausmachen, wenn ich mitschreibe? (werden im Konjunktiv II)
+      4. Ich {4} gern noch einmal nachfragen. (werden im Konjunktiv II)
+      5. {5} Sie kurz Zeit für eine Frage? (haben im Konjunktiv II, Sie-Form)
+      6. Das {6} mir sehr helfen. (werden im Konjunktiv II)
+    answers:
+      "1": Dürfte
+      "2": Könntest
+      "3": Würde
+      "4": würde
+      "5": Hätten
+      "6": würde
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Der erste Morgen"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Guten Morgen! Du musst Carla sein. Ich bin Jonas, ich mache
+      heute deine {1}.
+      — Guten Morgen, freut mich!
+      — Komm, ich zeige dir alles. Das hier ist dein Platz, der
+      {2} daneben ist frei für deine Jacke.
+      — Danke. Sag mal, sagt man hier du oder {3}?
+      — Im Team {4} wir uns alle. Zur Geschäftsführung sagen wir Sie.
+      — Gut zu wissen. Und wie funktioniert die {5}?
+      — Mit dem Chip am Eingang, beim Kommen und beim Gehen. Wir haben
+      {6}, du musst also nicht auf die Minute da sein.
+      — Praktisch. Wann macht ihr {7}?
+      — Meistens gegen halb eins, so eine halbe Stunde. Die
+      {8} ist den Gang runter, letzte Tür rechts.
+      — Alles klar. Und wenn ich etwas nicht weiß?
+      — {9} erst mal mich. Frag ruhig oft, das ist am Anfang
+      normal.
+      — Danke, das beruhigt. — {10} ich mir das kurz aufschreiben?
+      — Unbedingt, mach das.
+    bank: [EINARBEITUNG, SCHRANK, SIE, DUZEN, ZEITERFASSUNG, GLEITZEIT, MITTAGSPAUSE, TEEKÜCHE, FRAG, DARF, SIEZEN, PAUSE, TÜR, SOLL]
+    answers:
+      "1": EINARBEITUNG
+      "2": SCHRANK
+      "3": SIE
+      "4": DUZEN
+      "5": ZEITERFASSUNG
+      "6": GLEITZEIT
+      "7": MITTAGSPAUSE
+      "8": TEEKÜCHE
+      "9": FRAG
+      "10": DARF
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Was sagst du?"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du wirst dem Team vorgestellt. — You're introduced to the team."
+        options:
+          - { key: a, text: "Hallo, ich bin Carla, die Neue in der Physiotherapie. Ich freue mich auf die Zusammenarbeit." }
+          - { key: b, text: "Hallo zusammen." }
+          - { key: c, text: "Ich bin neu hier." }
+        answer: a
+        why: "Name, Funktion und ein freundlicher Satz — mehr erwartet niemand, weniger wirkt verschlossen."
+      - q: "Du weißt nicht, ob du duzen sollst. — You don't know whether to use du."
+        options:
+          - { key: a, text: "Einfach duzen." }
+          - { key: b, text: "Sagt man hier du oder Sie?" }
+          - { key: c, text: "Sicherheitshalber alle siezen." }
+        answer: b
+        why: "Einmal offen fragen klärt es für den ganzen Job; raten führt zu wochenlanger Unsicherheit."
+      - q: "Du hast etwas nicht verstanden und willst nachfragen. — You didn't understand and want to ask again."
+        options:
+          - { key: a, text: "Entschuldigung, dass ich so viel frage." }
+          - { key: b, text: "Könntest du mir das noch einmal zeigen? Ich schreibe es diesmal mit." }
+          - { key: c, text: "Ich probiere es einfach." }
+        answer: b
+        why: "Fragen plus mitschreiben zeigt, dass du es beim dritten Mal kannst — dauernd Entschuldigen macht dich kleiner, als du bist."
+      - q: "Es ist halb eins und niemand sagt etwas zur Pause. — It's 12:30 and nobody mentions the break."
+        options:
+          - { key: a, text: "Warten, bis jemand aufsteht." }
+          - { key: b, text: "Einfach gehen." }
+          - { key: c, text: "Macht ihr jetzt Mittagspause? Kann ich mitkommen?" }
+        answer: c
+        why: "Die erste Mittagspause ist die beste Gelegenheit, das Team kennenzulernen — dafür muss man einmal fragen."
+      - q: "Du hast einen Fehler gemacht. — You've made a mistake."
+        options:
+          - { key: a, text: "Es selbst heimlich korrigieren." }
+          - { key: b, text: "Du, ich habe die Liste falsch sortiert. Ich mache es neu — oder gibt es einen schnelleren Weg?" }
+          - { key: c, text: "Nichts sagen." }
+        answer: b
+        why: "Fehler früh melden und eine Lösung anbieten — am ersten Tag erwartet das jeder und niemand ärgert sich."
+      - q: "Es ist halb sechs und du weißt nicht, ob du gehen darfst. — It's 5:30 and you don't know if you can leave."
+        options:
+          - { key: a, text: "Ich bin für heute durch — passt es, wenn ich Feierabend mache?" }
+          - { key: b, text: "Bis alle anderen gehen bleiben." }
+          - { key: c, text: "Kommentarlos gehen." }
+        answer: a
+        why: "Am ersten Tag kurz abmelden; danach kennst du die Gewohnheiten und musst nicht mehr fragen."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze für den ersten Tag bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "bin", "Carla", ",", "die", "Neue", "in", "der", "Physiotherapie"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Apposition nach dem Namen — die übliche Vorstellung"
+      - tiles: ["Sagt", "man", "hier", "du", "oder", "Sie", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "man als unpersönliches Subjekt"
+      - tiles: ["Könntest", "du", "mir", "das", "noch", "einmal", "zeigen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Konjunktiv II an Position 1, Infinitiv am Ende"
+      - tiles: ["Ich", "fange", "morgens", "um", "acht", "an"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "anfangen: an am Satzende"
+      - tiles: ["Beim", "Kommen", "stempelt", "man", "sich", "mit", "dem", "Chip", "ein"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "einstempeln: ein am Satzende"
+      - tiles: ["Passt", "es", ",", "wenn", "ich", "Feierabend", "mache", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Nach wenn steht das Verb am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Das Merkblatt für neue Mitarbeitende lesen"
+    instructions: |
+      > **Willkommen im Team — die wichtigsten Regeln**
+      >
+      > - **Gleitzeit** zwischen 7 und 19 Uhr, **Kernzeit 10–15 Uhr**.
+      > - **Zeiterfassung** mit dem Chip beim Kommen **und** beim Gehen.
+      >   Vergessen? Bitte **am selben Tag** in der Personalabteilung
+      >   melden.
+      > - **Mittagspause** mindestens **30 Minuten** ab 6 Stunden
+      >   Arbeitszeit — sie zählt **nicht** als Arbeitszeit.
+      > - **Krankmeldung:** telefonisch **vor Arbeitsbeginn** bei der
+      >   Teamleitung. Attest ab dem **vierten** Krankheitstag.
+      > - **Urlaub** über das Portal beantragen, **mindestens
+      >   zwei Wochen** vorher.
+      > - **Probezeit 6 Monate.**
+      > - Der **Chip** ist persönlich; bei Verlust sofort melden.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Man muss spätestens um 10 Uhr da sein. — You have to be there by 10 at the latest."
+        answer: true
+        why: "Die Kernzeit läuft von 10 bis 15 Uhr."
+      - q: "Die Mittagspause wird bezahlt. — The lunch break is paid."
+        answer: false
+        why: "„Sie zählt nicht als Arbeitszeit.“"
+      - q: "Wer krank ist, meldet sich vor Arbeitsbeginn. — If you're ill you call before your shift starts."
+        answer: true
+        why: "„Krankmeldung: telefonisch vor Arbeitsbeginn bei der Teamleitung.“"
+      - q: "Schon am zweiten Krankheitstag braucht man ein Attest. — You need a doctor's note from the second day."
+        answer: false
+        why: "Erst ab dem vierten Krankheitstag."
+      - q: "Urlaub kann man eine Woche vorher beantragen. — Holiday can be requested a week in advance."
+        answer: false
+        why: "Mindestens zwei Wochen vorher."
+      - q: "Wer das Stempeln vergisst, soll es noch am selben Tag melden. — If you forget to clock in, report it the same day."
+        answer: true
+        why: "„Vergessen? Bitte am selben Tag in der Personalabteilung melden.“"
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Kleine Klippen"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Du hast das Stempeln beim Kommen vergessen. — You forgot to clock in."
+        options:
+          - { key: a, text: "Noch heute in der Personalabteilung melden — nachtragen ist der normale Weg." }
+          - { key: b, text: "Morgen früher kommen, um es auszugleichen." }
+          - { key: c, text: "Nichts sagen." }
+        answer: a
+        why: "Das Merkblatt sieht genau das vor; selbst ausgleichen macht die Zeitkonten falsch."
+      - q: "Du bist am dritten Tag krank. — You're ill on your third day."
+        options:
+          - { key: a, text: "Hingehen, um keinen schlechten Eindruck zu machen." }
+          - { key: b, text: "Vor Arbeitsbeginn bei der Teamleitung anrufen und sagen, dass du heute ausfällst." }
+          - { key: c, text: "Eine Nachricht ins Teamchat schreiben." }
+        answer: b
+        why: "Anrufen, nicht chatten, und vor Arbeitsbeginn — krank zur Arbeit zu gehen macht keinen guten Eindruck, sondern Ärger."
+      - q: "Eine Kollegin erklärt dir etwas zum dritten Mal und wirkt genervt. — A colleague explains something a third time and seems annoyed."
+        options:
+          - { key: a, text: "Nicht mehr fragen." }
+          - { key: b, text: "Sorry, ich schreibe es diesmal Schritt für Schritt mit, dann muss ich dich nicht wieder fragen." }
+          - { key: c, text: "Jemand anderen fragen." }
+        answer: b
+        why: "Zeigen, dass du es festhältst — das beendet die Wiederholungsschleife und die Genervtheit gleich mit."
+      - q: "Man erwartet Aufgaben von dir, die im Vertrag nicht standen. — You're given tasks that weren't in your contract."
+        options:
+          - { key: a, text: "Sofort widersprechen." }
+          - { key: b, text: "Alles machen und nichts sagen." }
+          - { key: c, text: "Erst mitmachen und in der ersten Woche mit der Teamleitung klären, was dauerhaft dazugehört." }
+        answer: c
+        why: "Am ersten Tag ist vieles unklar; die ruhige Klärung mit der Leitung kommt danach, nicht in der Situation."
+      - q: "Du kennst nach zwei Stunden keinen einzigen Namen mehr. — After two hours you can't remember a single name."
+        options:
+          - { key: a, text: "Namen vermeiden." }
+          - { key: b, text: "Nach der Runde fragen, ob es einen Teamplan oder eine Liste mit Namen gibt." }
+          - { key: c, text: "Jemanden bitten, alle noch einmal vorzustellen." }
+        answer: b
+        why: "Fast jedes Team hat eine Liste oder einen Plan — das löst es ohne zweite Vorstellungsrunde."
+      - q: "Die Kollegen gehen mittags ohne dich. — Your colleagues go to lunch without you."
+        options:
+          - { key: a, text: "Beleidigt sein." }
+          - { key: b, text: "Am nächsten Tag selbst fragen: „Kann ich mitkommen?“ — meistens war es keine Absicht." }
+          - { key: c, text: "Immer allein essen." }
+        answer: b
+        why: "Am ersten Tag denken alle, jemand anderes kümmert sich; einmal fragen genügt."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Jonas macht heute meine {1}. (jemand zeigt mir alles)
+      2. Beim Kommen muss ich mich {2}. (Chip an der Uhr, Trennverb im Infinitiv)
+      3. Wir haben {3}, ich muss nicht auf die Minute da sein. (flexible Arbeitszeit)
+      4. Zwischen 10 und 15 Uhr ist {4}. (alle müssen da sein)
+      5. Ab dem vierten Tag brauche ich ein {5}. (Papier vom Arzt)
+      6. Um halb sechs mache ich {6}. (Schluss für heute)
+    answers:
+      "1": Einarbeitung
+      "2": einstempeln
+      "3": Gleitzeit
+      "4": Kernzeit
+      "5": Attest
+      "6": Feierabend
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /12)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Ich bin Carla, die {1}. (the new one)
+      2. Sagt man hier du oder {2}? (Sie)
+      3. Im Team {3} wir uns. (use du with each other)
+      4. Wie funktioniert die {4}? (time recording)
+      5. Beim Kommen {5} man sich ein. (clocks in)
+      6. Wir haben {6}. (flexitime)
+      7. Zwischen 10 und 15 Uhr ist {7}. (core hours)
+      8. Wann macht ihr {8}? (lunch break)
+      9. {9} du mir das noch einmal zeigen? (could you)
+      10. {10} ich kurz stören? (may I — Konjunktiv II)
+      11. Ab dem vierten Tag brauche ich ein {11}. (doctor's note)
+      12. Um halb sechs mache ich {12}. (finish for the day)
+    answers:
+      "1": Neue
+      "2": Sie
+      "3": duzen
+      "4": Zeiterfassung
+      "5": stempelt
+      "6": Gleitzeit
+      "7": Kernzeit
+      "8": Mittagspause
+      "9": Könntest
+      "10": Dürfte
+      "11": Attest
+      "12": Feierabend
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Rollenspiel: der erste Tag von morgens bis Feierabend"
+    prompt: "Schreib die Gespräche eines ersten Arbeitstages. 14–18 Sätze."
+    stimulus: |
+      Du fängst heute in einer Reha-Klinik an. Jonas macht deine
+      Einarbeitung. Es gibt Gleitzeit mit Kernzeit 10–15 Uhr,
+      Zeiterfassung per Chip, Mittagspause gegen halb eins. Am
+      Nachmittag machst du einen kleinen Fehler.
+
+      Diese Momente müssen vorkommen:
+      1. dich dem Team vorstellen
+      2. fragen, ob man duzt oder siezt
+      3. nach einem Ort fragen (Teeküche, Schrank, Besprechungsraum)
+      4. nach der Zeiterfassung fragen
+      5. um eine Wiederholung bitten und sagen, dass du mitschreibst
+      6. nach der Mittagspause fragen und mitgehen
+      7. einen Fehler melden und eine Lösung anbieten
+      8. eine Frage zur Krankmeldung stellen
+      9. dich zum Feierabend abmelden
+    use:
+      - "du-Form im Team, Sie-Form zur Geschäftsführung"
+      - "trennbare Verben: `anfangen`, `einstempeln`, `mitschreiben`"
+      - "`Könntest du …?` und `Dürfte ich …?`"
+      - "`Passt es, wenn ich Feierabend mache?`"
+    selfCheck:
+      - "Steht bei den trennbaren Verben die Vorsilbe am Satzende?"
+      - "Wechselst du korrekt zwischen du (Team) und Sie (Geschäftsführung)?"
+      - "Meldest du den Fehler mit einem Lösungsvorschlag?"
+      - "Kommen alle 9 Momente vor?"
+    model: |
+      Jonas: Guten Morgen! Du musst Carla sein. Ich bin Jonas, ich mache heute deine Einarbeitung.
+      Ich: Guten Morgen, freut mich! Hallo zusammen — ich bin Carla, die Neue in der Physiotherapie. Ich freue mich auf die Zusammenarbeit.
+      Jonas: Willkommen! Komm, ich zeige dir alles.
+      Ich: Sag mal, sagt man hier du oder Sie?
+      Jonas: Im Team duzen wir uns alle. Zur Geschäftsführung sagen wir Sie.
+      Ich: Gut zu wissen. Und wo finde ich die Teeküche?
+      Jonas: Den Gang runter, letzte Tür rechts. Der Schrank neben deinem Platz ist frei für deine Jacke.
+      Ich: Danke. Wie funktioniert eigentlich die Zeiterfassung?
+      Jonas: Mit dem Chip am Eingang, beim Kommen und beim Gehen. Wir haben Gleitzeit, Kernzeit ist von zehn bis drei.
+      Ich: Könntest du mir das mit dem Chip noch einmal zeigen? Ich schreibe es diesmal mit.
+      Jonas: Klar, komm mit.
+      (mittags)
+      Ich: Macht ihr jetzt Mittagspause? Kann ich mitkommen?
+      Jonas: Unbedingt, wir gehen immer zusammen.
+      (nachmittags)
+      Ich: Du, ich habe die Behandlungsliste falsch sortiert — nach Namen statt nach Uhrzeit. Ich mache es neu, oder gibt es einen schnelleren Weg?
+      Jonas: Kein Problem, das kann man umsortieren, ich zeige es dir.
+      Ich: Danke. Eine Frage noch: Wenn ich mal krank bin — wen rufe ich an?
+      Jonas: Die Teamleitung, vor Arbeitsbeginn. Ein Attest brauchst du erst ab dem vierten Tag.
+      Ich: Alles klar. — Ich bin für heute durch. Passt es, wenn ich Feierabend mache?
+      Jonas: Klar, bis morgen! Und nicht vergessen: ausstempeln.

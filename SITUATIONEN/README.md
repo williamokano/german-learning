@@ -224,6 +224,23 @@ Same discipline as a `THEMEN/` set:
   offen ansprechen, Aufgaben verteilen, absagen, sauber abrechnen.
 - **35 — Vorstellungsgespräch** (B1) — die sechs Standardfragen, eine
   Lücke im Lebenslauf erklären, Gehalt nennen, selbst fragen, nachfassen.
+- **36 — Grillen im Hof** (A2) — worüber deutscher Smalltalk wirklich
+  geht, welche Themen man meidet, Interesse zeigen, höflich aussteigen.
+- **37 — Einladen, zusagen, absagen** (A2) — die drei Teile einer
+  deutschen Absage (Bedauern, Grund, Gegenvorschlag), verschieben,
+  sich für Vergessenes entschuldigen.
+- **38 — Paket abholen und zurückschicken** (A2) —
+  Benachrichtigungskarte, Filiale und Packstation, Vollmacht, Retoure;
+  beschädigt oder verschwunden.
+- **39 — Bei der Bank** (A2) — Girokonto eröffnen, Legitimation, Karte
+  und PIN, Dauerauftrag gegen Lastschrift, Karte sperren, falsche
+  Abbuchung.
+- **40 — Erster Arbeitstag** (A2) — sich vorstellen, duzen oder siezen,
+  Zeiterfassung und Kernzeit, um Hilfe bitten, Fehler melden,
+  Feierabend.
+- **41 — Notruf und Notaufnahme** (B1) — 112 oder 116 117, den Notruf
+  strukturiert absetzen, Triage verstehen, Verschlechterung melden,
+  Entlassungsbrief.
 
 ## Themenspeicher
 
@@ -234,7 +251,7 @@ wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 falsche Bestellung · Biergarten und Volksfest · Die Rechnung: zusammen oder
 getrennt? · Im Imbiss und am Dönerstand · Beim Eismann mit Kindern
 
-**Einkaufen** — Im Einkaufszentrum / in den Arcaden · Paket abholen (Packstation, Nachbarn) · Handyvertrag abschließen · Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
+**Einkaufen** — Im Einkaufszentrum / in den Arcaden · Handyvertrag abschließen · Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
 Online bestellt, falsch geliefert: Widerruf · Ein Buch kaufen · Ein Auto kaufen
 (B1) · Eine Wohnung kaufen (B2)
 
@@ -248,8 +265,8 @@ Wandern und Klettern · Im Zoo mit Kindern · Ein Fußballspiel im Stadion
 
 **Sport & Gesundheit** — Im Fitnessstudio: trainieren, Gerät abgeben, um
 Hilfestellung bitten, Tipps geben und abwehren (A2) ·
-Notaufnahme und Notruf · Krankschreibung beim Arbeitgeber ·
-Physiotherapie: Rezept, Termine, Übungen
+Krankschreibung beim Arbeitgeber · Physiotherapie: Rezept, Termine,
+Übungen · Impftermin und Vorsorge
 
 **Wohnen & Nachbarschaft** — Mängel melden:
 Heizung, Schimmel, Wasserschaden (B1) · Hausordnung: Ruhezeiten, Waschküche,
@@ -268,15 +285,14 @@ Geldautomat behält die Karte · Handy verloren: Anzeige bei der Polizei ·
 Internet fällt aus: Anruf beim Anbieter · Fundbüro · Portemonnaie vergessen
 
 **Arbeit & Studium** — In der Schule: Elterngespräch, Entschuldigung,
-Klassenfahrt (A2) · Erster Arbeitstag ·
-Um eine Gehaltserhöhung bitten (B2) · Urlaub beantragen · Konflikt mit
+Klassenfahrt (A2) · Um eine Gehaltserhöhung bitten (B2) · Urlaub beantragen · Konflikt mit
 Kolleginnen ansprechen (B2) · Kündigung schreiben · Uni: Immatrikulation,
 Prüfungsamt, BAföG
 
-**Soziales** — Eine Überraschungsparty planen · Smalltalk beim Grillen ·
-Einladen und absagen · Sich höflich beschweren · Sich entschuldigen und ein
-Missverständnis klären · Gratulieren und kondolieren · Jemanden kennenlernen ·
-Elternabend
+**Soziales** — Eine Überraschungsparty planen · Sich höflich beschweren ·
+Sich entschuldigen und ein Missverständnis klären · Gratulieren und
+kondolieren · Elternabend · Ein Geschenk aussuchen und überreichen
 
-Die Kategorie `Soziales` steht noch nicht in `CATEGORY_ORDER` — beim
-ersten Set dort ergänzen. `Arbeit & Studium` ist mit Set 20 dazugekommen.
+Alle Kategorien des Themenspeichers stehen inzwischen in
+`CATEGORY_ORDER`: `Arbeit & Studium` kam mit Set 20 dazu, `Soziales` mit
+Set 36. Eine neue Kategorie dort beim ersten Set ergänzen.
