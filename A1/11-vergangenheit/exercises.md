@@ -177,7 +177,7 @@ Ergänze die richtige Hilfsverbform (habe/hat/haben/bin/ist/sind) und das Partiz
 2. Wir ______ in einem Restaurant ______ (essen).
 3. Anna ______ ins Konzert ______ (gehen).
 4. ______ du ein Buch ______ (lesen)?
-5. Er ______ viele Fotos ______ (fotografieren).
+5. Er ______ im Urlaub viel ______ (fotografieren).
 6. Wir ______ nach München ______ (fahren).
 7. Ich ______ Musik ______ (hören).
 8. Sie ______ zu Hause ______ (bleiben).
@@ -202,7 +202,7 @@ Ergänze die richtige Hilfsverbform (habe/hat/haben/bin/ist/sind) und das Partiz
 — Toll! Wie lange ______ Sie dort?
 — Eine Woche. Das Wetter ______ herrlich. Wir ______ jeden Tag ______ (schwimmen).
 — ______ Sie auch Sehenswürdigkeiten ______? (besuchen)
-— Ja! Wir ______ ein Museum ______ und viele Fotos ______.
+— Ja! Wir ______ ein Museum ______ und viel ______.
 
 ## Übung B3 — Finde den Fehler
 
@@ -312,7 +312,7 @@ Self-check:
 Lies die Stichwörter und schreibe 4–5 Perfektsätze zu diesem imaginären Urlaub.
 
 > Wien · 5 Tage · Museum besuchen · viel spazieren gehen · gut essen ·
-Wein trinken · viele Fotos fotografieren · schönes Wetter
+Wein trinken · viel fotografieren · schönes Wetter
 
 
 **Your task:** Write 4–5 connected sentences about an imaginary trip to Wien using the cues below.
@@ -377,7 +377,7 @@ Richtig (R) oder falsch (F)?
 
 1. Die Person ist mit einem Freund nach Wien gefahren. — The person went to Vienna with a (male) friend. ( )
 2. Sie waren vier Tage in Wien. — They were in Vienna for four days. ( )
-3. Am ersten Tag haben sie nur Fotos fotografiert. — On the first day they only took photos. ( )
+3. Am ersten Tag haben sie nur Fotos gemacht. — On the first day they only took photos. ( )
 4. Das Wetter war warm und sonnig. — The weather was warm and sunny. ( )
 5. Am letzten Tag haben sie Souvenirs eingekauft. — On the last day they bought souvenirs. ( )
 

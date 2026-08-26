@@ -210,7 +210,7 @@ Ergänzen Sie jede Lücke mit dem richtigen Wort. Lücken 4/5 und 11/12 brauchen
 3. Was möchtest du (3) ______ Mittagessen essen?
 4. Er (4) ______ ein neues Fahrrad (5) ______.
 5. (6) ______ Programm läuft jetzt?
-6. Ich gehe (7) ______ dem Bus zur Arbeit.
+6. Ich fahre (7) ______ dem Bus zur Arbeit.
 7. Kannst du mir (8) ______ helfen?
 8. Die Schuhe passen (9) ______ nicht.
 9. Wann (10) ______ du morgens auf?

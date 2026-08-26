@@ -185,7 +185,7 @@ Selbstkorrektur:
 Modellantwort:
 
 > Letzten Sommer bin ich nach Wien gefahren. Ich war fünf Tage dort. Ich habe ein
-> Museum besucht und viele Fotos fotografiert. Ich bin viel spazieren gegangen und
+> Museum besucht und viel fotografiert. Ich bin viel spazieren gegangen und
 > habe gut gegessen. Abends habe ich Wein getrunken. Das Wetter war schön.
 
 ---
@@ -213,7 +213,7 @@ Modellantwort:
 
 1. **F** — Die Person ist mit ihrer Freundin gefahren (weiblich) — nicht einem Freund.
 2. **R** — „Wir waren vier Tage dort."
-3. **F** — Sie haben das Zentrum besichtigt UND viele Fotos fotografiert UND sind ins Museum gegangen.
+3. **F** — Sie haben das Zentrum besichtigt UND viele Fotos gemacht UND sind ins Museum gegangen.
 4. **R** — „warm und sonnig" — direct description.
 5. **R** — „Am letzten Tag haben wir im Supermarkt eingekauft — Schokolade und Kaffee als Souvenirs."
 

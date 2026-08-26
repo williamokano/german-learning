@@ -110,7 +110,7 @@ ich ______ · du ______ · er/sie/es ______ · wir ______ · ihr ______ · sie/S
 5. Wir ______ das Büro benutzen.
 6. ______ du das Buch mitnehmen?
 7. Die Schüler ______ während der Prüfung nicht sprechen.
-8. ______ Sie bitte lauter sprechen?
+8. ______ Sie hier fotografieren?
 
 ## Übung A7 — `müssen nicht` oder `dürfen nicht`?
 

@@ -265,18 +265,18 @@ exercises:
     instructions: "Ergänze „vor dem\", „vor der\", „nach dem\" oder „nach der\"."
     instructionsEn: "Fill in `vor dem`, `vor der`, `nach dem`, or `nach der`."
     text: |
-      1. {1} Essen trinke ich einen Kaffee.
-      2. Die Feier ist {2} Konzert.
-      3. Ich rufe dich {3} Party an.
-      4. {4} Arbeit gehe ich ins Fitnessstudio.
-      5. Wir treffen uns {5} Vorlesung.
-      6. Er kommt {6} Deutschkurs ins Café.
+      1. {1} Essen wasche ich mir die Hände.
+      2. Die Feier ist {2} Konzert — zuerst spielen wir, dann feiern wir.
+      3. Ich rufe dich {3} Party an und sage dir, wo wir uns treffen.
+      4. {4} Arbeit gehe ich ins Fitnessstudio, dann dusche ich und fahre ins Büro.
+      5. Wir treffen uns {5} Vorlesung und gehen dann zusammen in den Hörsaal.
+      6. Er kommt {6} Deutschkurs ins Café — der Unterricht endet um 18 Uhr.
     answers:
-      "1": "Nach dem"
+      "1": "Vor dem"
       "2": "nach dem"
-      "3": "nach der"
-      "4": "Nach der"
-      "5": "nach der"
+      "3": "vor der"
+      "4": "Vor der"
+      "5": "vor der"
       "6": "nach dem"
 
   - id: A7

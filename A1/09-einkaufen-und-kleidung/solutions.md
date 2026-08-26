@@ -63,7 +63,7 @@
 
 ## Übung A8 — Kleidung + Artikel: der, die oder das?
 
-1. **die**  2. **-n**  3. **der**  4. **-**  5. **das**  6. **-er**  7. **der**  8. **-e**  9. **die**  10. **-n**  11. **das**  12. **-en**  13. **der**  14. **–**  15. **der**  16. **-e**  17. **die**  18. **-n**  19. **der**  20. **-**
+1. **die**  2. **die Jacken**  3. **der**  4. **die Pullover**  5. **das**  6. **die Kleider**  7. **der**  8. **die Schuhe**  9. **die**  10. **die Hosen**  11. **das**  12. **die Hemden**  13. **der**  14. **die Mäntel**  15. **der**  16. **die Röcke**  17. **die**  18. **die Blusen**  19. **der**  20. **die Stiefel**
 
 ## Übung A9 — Separable verbs: `anprobieren` und `einpacken`
 

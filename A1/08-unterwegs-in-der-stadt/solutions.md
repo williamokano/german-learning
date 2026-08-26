@@ -43,7 +43,7 @@
 
 ## Übung A3 — Dativ nach von, bei, aus: dem, der oder den?
 
-1. **der**  2. **der**  3. **dem**  4. **dem**  5. **der**  6. **der**  7. **den**  8. **der**
+1. **der**  2. **der**  3. **dem**  4. **den**  5. **der**  6. **der**  7. **den**  8. **der**
 
 ## Übung A4 — Kurzformen: zum, zur, beim, vom
 
@@ -178,7 +178,7 @@ Selbstkorrektur:
 
 ## Übung C1 — Lückentext
 
-1. **mit**  2. **Fuß**  3. **ab**  4. **um**  5. **dauert**  6. **vom**  7. **Hause**  8. **zu**  9. **bei**  10. **dem**
+1. **mit**  2. **Fuß**  3. **ab**  4. **umsteigen**  5. **dauert**  6. **vom**  7. **Hause**  8. **zu**  9. **bei**  10. **dem**
 
 ## Übung C2 — Sprachbausteine Teil 1
 
