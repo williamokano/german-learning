@@ -71,10 +71,12 @@ Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht geb
 > — Zweimal für 20:15, bitte. Gibt es eine (5) ______?
 > — Mit Studentenausweis 8 € statt 12. Wo möchten Sie (6) ______?
 > — (7) ______ 9 oder 10, Mitte, wenn möglich.
-> — 9 ist noch komplett frei. Wie lange geht der Film? Zwei Stunden
-> zehn — der Saal ist heute wegen (8) ______ etwas später wieder frei.
+> — 9 ist noch komplett frei.
+> — Perfekt. Wie lange geht der Film denn?
+> — Zwei Stunden zehn — der Saal ist heute wegen (8) ______ etwas später
+> wieder frei.
 > — Gut zu wissen. Und eine große Tüte (9) ______, salzig.
-> — Macht zusammen 22,50 €. Saal 3, (10) ______ ist rechts.
+> — Macht zusammen 22,50 €. Saal 3, der (10) ______ ist rechts.
 > — Danke schön!
 
 > (WOLLEN · VORSTELLUNG · FRÜHERE · SYNCHRONISIERT · ERMÄSSIGUNG · SITZEN · REIHE · ÜBERLÄNGE · POPCORN · EINGANG · SPÄTERE · KARTE · PLATZ · LEINWAND)

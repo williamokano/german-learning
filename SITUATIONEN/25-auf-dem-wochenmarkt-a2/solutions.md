@@ -20,7 +20,7 @@
 
 ## Übung A4 — Komparativ am Stand
 
-1. **reifer**  2. **günstigeres**  3. **besser**  4. **süßer**  5. **voller**  6. **mehr**
+1. **reifer**  2. **Günstigeres**  3. **besser**  4. **süßer**  5. **voller**  6. **mehr**
 
 ---
 

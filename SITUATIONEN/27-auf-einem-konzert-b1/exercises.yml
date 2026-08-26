@@ -86,7 +86,7 @@ exercises:
     instructions: "Ergänze die Konjunktiv-II-Form."
     instructionsEn: "Fill in the Konjunktiv II form."
     text: |
-      1. {1} Sie kurz durchlassen? Meine Freundin steht da vorn. (werden im Konjunktiv II)
+      1. {1} Sie mich kurz durchlassen? Meine Freundin steht da vorn. (werden im Konjunktiv II)
       2. {2} es Ihnen etwas ausmachen, wenn ich mich hier hinstelle? (werden im Konjunktiv II, Singular)
       3. {3} Sie vielleicht mit mir tauschen? Ich sehe hier nichts. (werden im Konjunktiv II)
       4. {4} ich mich kurz vorbeidrängen? (dürfen im Konjunktiv II)
@@ -113,7 +113,7 @@ exercises:
       3. Die Vorband war besser, {3} ich erwartet hatte. (Vergleich)
       4. Ich {4} nach der Zugabe gegangen, weil die Bahn fuhr. (sein, Perfekt-Hilfsverb)
       5. Wir {5} zwei Stunden gestanden — das war es wert. (haben, Perfekt-Hilfsverb)
-      6. Es war lauter, {6} beim letzten Mal. (Vergleich nach Komparativ)
+      6. Es war lauter {6} beim letzten Mal. (Vergleich nach Komparativ)
     answers:
       "1": obwohl
       "2": Als

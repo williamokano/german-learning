@@ -373,7 +373,7 @@ exercises:
     text: |
       1. Mein Flug hat zwei Stunden {1}. (delay)
       2. Ich verpasse meinen {2}. (connecting flight)
-      3. Der Koffer ist zwei Kilo {3}. (overweight — Substantiv)
+      3. Der Koffer hat zwei Kilo {3}. (overweight — Substantiv)
       4. Hier ist meine {4}. (boarding pass)
       5. Ich werde auf 18:40 {5}. (rebooked)
       6. Ab zwei Stunden gibt es {6}. (meal vouchers)

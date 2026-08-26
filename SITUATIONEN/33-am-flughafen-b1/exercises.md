@@ -171,7 +171,7 @@ Ergänze aus dem Gedächtnis.
 
 1. Mein Flug hat zwei Stunden ______. (delay)
 2. Ich verpasse meinen ______. (connecting flight)
-3. Der Koffer ist zwei Kilo ______. (overweight — Substantiv)
+3. Der Koffer hat zwei Kilo ______. (overweight — Substantiv)
 4. Hier ist meine ______. (boarding pass)
 5. Ich werde auf 18:40 ______. (rebooked)
 6. Ab zwei Stunden gibt es ______. (meal vouchers)
