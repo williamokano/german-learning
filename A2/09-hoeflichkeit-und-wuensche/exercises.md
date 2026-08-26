@@ -205,8 +205,8 @@ Wähle die beste Form für jede Lücke. Die Lücke ist die volle konjugierte For
 
 Entscheide, welche Form gebraucht wird, und fülle die Lücke. 8 Aufgaben.
 
-1. Gestern ______ ich nicht schlafen. (past fact — Präteritum of können: konnte)
-2. ______ du mir bitte helfen? (polite present request — Konjunktiv II: könntest)
+1. Gestern ______ ich nicht schlafen. (past fact)
+2. ______ du mir bitte helfen? (polite present request)
 3. Er ______ gestern leider nicht kommen — er war krank. (past fact)
 4. ______ Sie mir bitte die Adresse geben? (polite request)
 5. Wir ______ das Taxi nicht finden. (past fact)
@@ -242,7 +242,7 @@ Gast: Das ______ sehr lecker! Ich nehme das.
 Kellner: Sehr gerne. Und was ______ Sie gern trinken?
 Gast: Ich ______ gern ein Glas Weißwein, bitte.
 Kellner: ______ es auch Mineralwasser sein?
-Gast: Nein danke — lieber Wein. Ach, und ______ Sie bitte einen Fenstertisch für morgen reservieren? Ich ______ es sehr gerne.
+Gast: Nein danke — lieber Wein. Ach, und ______ Sie bitte einen Fenstertisch für morgen reservieren? Ich ______ mich sehr freuen.
 
 ## Übung B2 — Einladungen annehmen und ablehnen
 
@@ -258,16 +258,16 @@ Gast: Nein danke — lieber Wein. Ach, und ______ Sie bitte einen Fenstertisch f
 
 Jeder Satz hat genau einen Fehler. Schreibe die korrigierte Form in die Lücke. Aufgaben 3 und 9 sind korrekt (schreibe C).
 
-1. Ich würde gern ein______ Kaffee haben. (article wrong)
-2. Könnte______ du mir bitte helfen? (du-form wrong)
-3. Das wäre sehr nett von ihr — danke! → ______ (correct? — yes/no)
-4. Wir hätten gern ein______ Tisch für vier Personen. (article wrong)
-5. Würdest______ Sie bitte die Rechnung bringen? (Sie-form wrong)
-6. Ich würde gern ins Kino gehen______ morgen. (word order — infinitive position)
-7. Das wären______ sehr praktisch. (singular subject needs wäre)
-8. Hätten______ Sie die Soße ohne Knoblauch machen? (needs könnten)
-9. Könnten Sie mir bitte sagen, wo das Tagesgericht ist? → ______ (correct? — yes/no)
-10. Ich würde gerne ein Stück Kuchen nehmen bitte______. (word order — bitte placement)
+1. Ich würde gern ______ Kaffee haben. (ein → ?)
+2. ______ du mir bitte helfen? (Könnte → ?)
+3. Das wäre sehr nett von ihr — danke! → ______ (richtig? Dann schreibe C)
+4. Wir hätten gern ______ Tisch für vier Personen. (ein → ?)
+5. ______ Sie bitte die Rechnung bringen? (Würdest → ?)
+6. Ich würde gern ______. (ins Kino gehen morgen → ?)
+7. Das ______ sehr praktisch. (wären → ?)
+8. ______ Sie die Soße ohne Knoblauch machen? (Hätten → ?)
+9. Könnten Sie mir bitte sagen, wo die Toilette ist? → ______ (richtig? Dann schreibe C)
+10. Ich würde gerne ______. (ein Stück Kuchen nehmen bitte → ?)
 
 ## Übung B4 — Satzbau: Konjunktiv II Sätze
 
@@ -365,8 +365,8 @@ ______ reserviert?" Anna sagt: „Ja — ich hätte ______ einen ruhigen
 Tisch, wenn ______." Der Kellner führt sie zu einem schönen Tisch am
 Fenster. Anna lächelt: „Das ______ perfekt!"
 Der Kellner bringt die Speisekarte. Anna ______ nicht, was sie nehmen soll.
-„Was ______ Sie empfehlen?", fragt sie. „Das ______ heute sehr frisch
-— gegrillter Lachs", antwortet der Kellner. „Dann ______ ich gern den
+„Was ______ Sie empfehlen?", fragt sie. „Der gegrillte Lachs ______ heute
+eine gute Wahl — er ist ganz frisch", antwortet der Kellner. „Dann ______ ich gern den
 Lachs, bitte", sagt Anna. Bruno sagt: „Ich ______ lieber das
 vegetarische Gericht." Nach dem Essen fragt Anna: „______ Sie uns bitte
 die Rechnung bringen?"
@@ -469,7 +469,7 @@ Eine Minute pro Aufgabe. Keine Notizen. 15 Aufgaben.
 6. `wäre` is the Konjunktiv II of which verb? ______
 7. `könnte` is the Konjunktiv II of which verb? ______
 8. Polite "Could you bring the bill?" → ______
-9. (L8) „Das ist ein______ Jacke." (schön, f. Nom.) — adjective ending
+9. (L8) „Das ist eine schön______ Jacke." (f. Nom.) — adjective ending
 10. (L7) Satzklammer: „Ich muss heute Abend ______." (arbeiten)
 11. `wäre`, ihr-form: ihr ______
 12. `würde`, Sie-form: Sie ______
