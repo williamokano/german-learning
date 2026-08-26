@@ -52,7 +52,7 @@
 
 ## Übung A3 — `wenn`-Satz mit Modalverb
 
-1. **kann**  2. **will**  3. **will**  4. **müssen**  5. **kannst**
+1. **kann**  2. **vereinbaren will**  3. **bekommen will**  4. **arbeiten müssen**  5. **helfen kannst**
 
 ## Übung A4 — `wenn`-Satz mit Perfekt
 
@@ -111,7 +111,7 @@ Modellantwort:
 
 ## Übung B2 — Finde den Fehler
 
-1. **kommt er**  2. **Ärztin**  3. **kann ich**  4. **beworben**  5. **sind**  6. **da sind**  7. **Jahre**  8. **verdiene**
+1. **kommt er**  2. **als Ärztin**  3. **kann ich**  4. **beworben**  5. **sind**  6. **da sind**  7. **Jahre**  8. **verdiene**
 
 ## Übung B3 — Sätze verbinden: `wenn`, `weil`, `deshalb`
 
@@ -272,7 +272,7 @@ Selbstkorrektur:
 
 ## Übung D3 — Rückblick: Subordinate clauses
 
-1. **dass**  2. **findet**  3. **weil**  4. **ist**  5. **Wenn**  6. **hat**  7. **dass**  8. **gearbeitet hat**  9. **wenn**  10. **bekomme**  11. **dass**  12. **wollen**  13. **Wenn**  14. **eingereicht sind**  15. **weil**  16. **wohnt**  17. **ob** (auch richtig: **dass**)  18. **ist**  19. **Wenn**  20. **zusammenarbeiten kann**
+1. **dass**  2. **findet**  3. **weil**  4. **ist**  5. **Wenn**  6. **hat**  7. **dass**  8. **gearbeitet hat**  9. **wenn**  10. **bekomme**  11. **dass**  12. **wollen**  13. **Wenn**  14. **eingereicht sind**  15. **weil**  16. **wohnt**  17. **ob**  18. **ist**  19. **Wenn**  20. **zusammenarbeiten kann**
 
 ## Übung D4 — Selbsttest (score yourself /20)
 

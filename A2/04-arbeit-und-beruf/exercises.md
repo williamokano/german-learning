@@ -227,8 +227,8 @@ Fülle die 7 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebr
 > — Ja, bitte. Haben Sie schon (2) ______ in diesem Bereich?
 > — Ja, ich habe zwei Jahre (3) ______ Buchhalter bei einer kleinen Firma gearbeitet.
 > — Sehr gut. Wann können Sie Ihre (4) ______ schicken?
-> — (5) ______ es Ihnen recht ist, schicke ich alles bis morgen.
-> — Das wäre ideal. (6) ______ die (7) ______ da sind, melden wir uns.
+> — Ich schicke Ihnen alles bis morgen, (5) ______ es Ihnen recht ist.
+> — Das wäre ideal. Wir melden uns, (6) ______ die (7) ______ da sind.
 
 > (wenn · als · weil · Stelle · Bewerbung · Unterlagen · Erfahrung · ob · Gehalt · wenn · Unterlagen)
 
@@ -237,13 +237,13 @@ Fülle die 7 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebr
 Jeder Satz hat genau einen Fehler. Das falsche Wort oder die falsche Position steht als Lücke — schreibe die richtige Form.
 
 1. Wenn er fertig ist, ______ sofort. (er kommt → ?)
-2. Ich arbeite als ______ Ärztin in Hamburg. (eine → ?)
+2. Ich arbeite ______ in Hamburg. (als eine Ärztin → ?)
 3. Wenn ich keine Arbeit finde, ______ die Miete nicht zahlen. (ich kann → ?)
-4. Sie hat sich ______ für die neue Stelle. (bewerben → ?)
-5. Er macht Überstunden, wenn viele Gäste ______ (da sein → ?).
+4. Sie hat sich für die neue Stelle ______. (bewerben → ?)
+5. Er macht Überstunden, wenn viele Gäste da ______. (ist → ?)
 6. Wir vereinbaren einen Termin, wenn die Unterlagen ______. (sind da → ?)
 7. Ich habe drei ______ als Lehrer gearbeitet. (Jahr → ?)
-8. Als Student ______ ich kein Geld verdienen. (bin → ?)
+8. Als Student ______ ich kein Geld. (bin → ?)
 
 ## Übung B3 — Sätze verbinden: `wenn`, `weil`, `deshalb`
 
