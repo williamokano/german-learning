@@ -105,7 +105,7 @@ Ergänze den richtigen Artikel (n-Deklination und Genitiv-Präpositionen).
 4. Wegen ______ Verspätung verpassen wir den Zug.
 5. ______ Junge spielt im Park.
 6. Ich habe ______ Jungen schon lange nicht gesehen.
-7. Statt ______ Bus nehmen wir das Fahrrad.
+7. Statt ______ Busses nehmen wir das Fahrrad.
 
 ## Übung D2 — Selbsttest
 

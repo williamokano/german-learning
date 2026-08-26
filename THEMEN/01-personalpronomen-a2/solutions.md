@@ -6,7 +6,7 @@
 
 ## Übung A1 — Ein Tag mit Tim
 
-1. **sie**  2. **ihm**  3. **ihm**  4. **sie**  5. **sie**  6. **sie**  7. **ihr**  8. **dich**
+1. **Sie**  2. **ihm**  3. **ihm**  4. **Sie**  5. **sie**  6. **sie**  7. **ihr**  8. **dich**
 
 ## Übung A2 — Welcher Fall passt?
 

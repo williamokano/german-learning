@@ -30,7 +30,7 @@ Ergänze das richtige Partizip II. Der Kontext entscheidet, ob das Präfix trenn
 3. Die Dolmetscherin hat den Vortrag simultan ______.
 4. Der Bootsführer hat die Touristen zur Insel ______.
 5. Der Fahrer hat vorsichtig das Loch in der Straße ______.
-6. Bei dem Unfall hat der Bus fast einen Baum ______.
+6. Beim Unfall hat der Bus fast einen Baum ______.
 
 _umfahren (untrennbar, umfährt) = 'um etwas herumfahren'; umfahren (trennbar, fährt … um) = 'etwas anfahren/umstoßen'. Genauso: übersetzen (untrennbar) = 'in eine andere Sprache übertragen'; übersetzen (trennbar, setzt … über) = 'mit einem Boot ans andere Ufer bringen'._
 

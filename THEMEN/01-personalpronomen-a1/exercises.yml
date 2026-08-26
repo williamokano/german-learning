@@ -74,11 +74,11 @@ exercises:
       5. Anna und ich lernen Deutsch. {5} lernen Deutsch.
       6. Du und Peter, kommt {6} heute mit?
     answers:
-      "1": er
-      "2": sie
-      "3": es
-      "4": sie
-      "5": wir
+      "1": Er
+      "2": Sie
+      "3": Es
+      "4": Sie
+      "5": Wir
       "6": ihr
 
   - id: A3
@@ -274,9 +274,9 @@ exercises:
       4. Mein Opa braucht Hilfe. Kannst du {4} bitte helfen?
       5. Seine Schwester wollte das Buch lesen. Er gibt {5} {6}.
     answers:
-      "1": er
-      "2": er
-      "3": sie
+      "1": Er
+      "2": Er
+      "3": Sie
       "4": ihm
       "5": es
       "6": ihr

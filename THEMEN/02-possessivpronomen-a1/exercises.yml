@@ -60,7 +60,7 @@ exercises:
       "1": Sein
       "2": Ihr
       "3": Ihr
-      "4": mein
+      "4": Ihr
       "5": dein
       "6": Unser
 
@@ -208,7 +208,7 @@ exercises:
       5. Habt ihr {5} Hausaufgaben schon gemacht?
       6. Frau Meier sucht {6} Schlüssel. Hat jemand {7} Handtasche gesehen?
     answers:
-      "1": seine
+      "1": Seine
       "2": meine
       "3": deinen
       "4": unsere
