@@ -136,7 +136,7 @@ exercises:
     instructions: "Fülle die 10 Lücken mit den Wörtern aus dem Kasten."
     instructionsEn: "Fill the 10 gaps using the words in the box."
     text: |
-      Lisa und Paul sind gute Freunde. {1} kennen sich seit der Schule. Paul hat
+      Lisa und Paul sind gute Freunde — {1} kennen sich seit der Schule. Paul hat
       morgen einen wichtigen Termin. Lisa hilft {2} bei der Vorbereitung. Paul
       sagt: „Danke, das ist sehr nett von {3}!" Lisa antwortet: „Kein Problem,
       ich helfe {4} gern." Pauls Eltern kommen aus Spanien. Paul besucht {5}
@@ -144,7 +144,7 @@ exercises:
       sehr gut. Herr Weber ist Pauls Chef. Paul dankt {8} für die Geduld.
       „Kann ich {9} kurz etwas fragen?", sagt Paul zu Herrn Weber. Am Ende
       sagt Lisa zu Paul: „Ruf {10} an, wenn du Hilfe brauchst!"
-    bank: [sie, ihm, ihm, ihm, dir, dir, sie, ihn, dich, mich, uns, euch]
+    bank: [sie, ihm, ihm, ihm, dir, dir, sie, ihn, dich, Sie, uns, euch]
     answers:
       "1": sie
       "2": ihm
@@ -154,7 +154,7 @@ exercises:
       "6": ihn
       "7": ihm
       "8": ihm
-      "9": sie
+      "9": Sie
       "10": dich
 
   - id: B2

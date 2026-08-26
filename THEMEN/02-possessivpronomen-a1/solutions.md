@@ -28,7 +28,7 @@
 
 ## Übung B1 — Lückentext: Familie Wagner
 
-1. **ihr**  2. **sein**  3. **ihre**  4. **ihre**  5. **ihre**  6. **sein**  7. **ihr**  8. **unser**
+1. **Ihr**  2. **Sein**  3. **Ihre**  4. **Ihre**  5. **Ihre**  6. **Sein**  7. **Ihr**  8. **unser**
 
 ## Übung B2 — Die richtige Endung
 

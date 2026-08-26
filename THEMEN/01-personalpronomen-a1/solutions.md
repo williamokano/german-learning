@@ -36,7 +36,7 @@
 
 ## Übung B1 — Lückentext: Lisa und Paul
 
-1. **sie**  2. **ihm**  3. **dir**  4. **dir**  5. **sie**  6. **ihn**  7. **ihm**  8. **ihm**  9. **sie**  10. **dich**
+1. **sie**  2. **ihm**  3. **dir**  4. **dir**  5. **sie**  6. **ihn**  7. **ihm**  8. **ihm**  9. **Sie**  10. **dich**
 
 ## Übung B2 — Welches Pronomen passt?
 

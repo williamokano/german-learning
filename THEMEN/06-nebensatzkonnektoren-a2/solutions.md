@@ -29,7 +29,7 @@
 
 ## Übung B1 — Lückentext: Besuch von meiner Schwester
 
-1. **weil**  2. **dass**  3. **wenn**  4. **weil**  5. **dass**  6. **wenn**  7. **dass**  8. **weil**
+1. **weil**  2. **dass**  3. **Wenn**  4. **weil**  5. **dass**  6. **Wenn**  7. **dass**  8. **weil**
 
 ## Übung B2 — Grund, Aussage oder Bedingung?
 

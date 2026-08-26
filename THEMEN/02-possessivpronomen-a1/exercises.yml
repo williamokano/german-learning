@@ -81,15 +81,15 @@ exercises:
       besuchen die Großeltern die Familie. {7} Auto ist alt, aber es fährt
       noch gut. „Wo ist {8} Geschenk für die Kinder?", fragt Opa Wagner
       seine Frau.
-    bank: [ihr, sein, ihre, ihre, ihre, sein, ihr, unser, mein, dein]
+    bank: [Ihr, Sein, Ihre, Ihre, Ihre, Sein, Ihr, unser, mein, dein]
     answers:
-      "1": ihr
-      "2": sein
-      "3": ihre
-      "4": ihre
-      "5": ihre
-      "6": sein
-      "7": ihr
+      "1": Ihr
+      "2": Sein
+      "3": Ihre
+      "4": Ihre
+      "5": Ihre
+      "6": Sein
+      "7": Ihr
       "8": unser
 
   - id: B2

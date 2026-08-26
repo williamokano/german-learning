@@ -50,7 +50,7 @@ Fülle die 8 Lücken mit den Wörtern aus dem Kasten.
 > noch gut. „Wo ist (8) ______ Geschenk für die Kinder?", fragt Opa Wagner
 > seine Frau.
 
-> (ihr · sein · ihre · ihre · ihre · sein · ihr · unser · mein · dein)
+> (Ihr · Sein · Ihre · Ihre · Ihre · Sein · Ihr · unser · mein · dein)
 
 ## Übung B2 — Die richtige Endung
 

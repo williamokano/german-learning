@@ -63,7 +63,7 @@ Ergänze das richtige Personalpronomen im Dativ.
 
 Fülle die 10 Lücken mit den Wörtern aus dem Kasten.
 
-> Lisa und Paul sind gute Freunde. (1) ______ kennen sich seit der Schule. Paul hat
+> Lisa und Paul sind gute Freunde — (1) ______ kennen sich seit der Schule. Paul hat
 > morgen einen wichtigen Termin. Lisa hilft (2) ______ bei der Vorbereitung. Paul
 > sagt: „Danke, das ist sehr nett von (3) ______!" Lisa antwortet: „Kein Problem,
 > ich helfe (4) ______ gern." Pauls Eltern kommen aus Spanien. Paul besucht (5) ______
@@ -72,7 +72,7 @@ Fülle die 10 Lücken mit den Wörtern aus dem Kasten.
 > „Kann ich (9) ______ kurz etwas fragen?", sagt Paul zu Herrn Weber. Am Ende
 > sagt Lisa zu Paul: „Ruf (10) ______ an, wenn du Hilfe brauchst!"
 
-> (sie · ihm · ihm · ihm · dir · dir · sie · ihn · dich · mich · uns · euch)
+> (sie · ihm · ihm · ihm · dir · dir · sie · ihn · dich · Sie · uns · euch)
 
 ## Übung B2 — Welches Pronomen passt?
 

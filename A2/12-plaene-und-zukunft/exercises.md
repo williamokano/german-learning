@@ -125,7 +125,7 @@ Schreibe den Satz in der Verneinung. Der Infinitiv bleibt am Ende. 6 Aufgaben. (
 
 1. Ich werde morgen kommen. → Ich ______ morgen ______ ______.
 2. Wir werden das Buch lesen. → Wir ______ das Buch ______ ______.
-3. Anna wird nach Berlin fahren. → Anna ______ nach Berlin ______ ______.
+3. Anna wird nach Berlin fahren. → Anna ______ ______ nach Berlin ______.
 4. Du wirst das schaffen. → Du ______ das ______ ______.
 5. Sie werden das Projekt abschließen. → Sie ______ das Projekt ______ ______.
 6. Ich werde das Buch kaufen. → Ich ______ das Buch ______ ______.

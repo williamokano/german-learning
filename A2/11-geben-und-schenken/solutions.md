@@ -60,7 +60,7 @@ Modellantwort:
 
 ## Übung A2 — Fill in the correct dative ending
 
-1. **er**  2. ****  3. **er**  4. **en**  5. **em**  6. **en**  7. **em**  8. **en**  9. **en**  10. **em**
+1. **er**  2. **em**  3. **er**  4. **en**  5. **em**  6. **en**  7. **em**  8. **en**  9. **en**  10. **em**
 
 ## Übung A3 — Substitution: replace the dative noun with a dative pronoun
 
@@ -308,7 +308,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Gemischter Schnelltest
 
-1. **geschenkt**  2. **empfohlen**  3. **ihr**  4. **before**  5. **hätte**  6. **es**  7. **ihr**  8. **nach**  9. **gibt**  10. **empfiehlst**  11. **bestes**  12. **es**  13. **ihr**  14. **es**  15. **ihr**  16. **für**  17. **er**  18. **hat**  19. **Könnten**
+1. **geschenkt**  2. **empfohlen**  3. **ihr**  4. **before**  5. **hätte**  6. **es**  7. **ihr**  8. **nach**  9. **gibt**  10. **empfiehlst**  11. **bestes**  12. **es**  13. **ihr**  14. **meiner Schwester**  15. **das Buch**  16. **für**  17. **er**  18. **hat**  19. **Könnten**
 
 ## Übung D2 — Odd one out
 
