@@ -52,7 +52,7 @@
 
 ## Übung A3 — -ieren verbs: Perfekt sentence
 
-1. **Ich habe in Berlin studiert.**  2. **Er hat eine Stunde lang telefoniert.**  3. **Wir haben einen Tisch reserviert.**  4. **Sie hat die Stadt fotografiert.**  5. **Was ist dir passiert?**  6. **Ich habe zwei Karten reserviert.**
+1. **Ich habe in Berlin studiert.**  2. **Er hat eine Stunde lang telefoniert.**  3. **Wir haben einen Tisch reserviert.**  4. **Sie hat die Stadt fotografiert.**  5. **Was ist mit dir passiert?** (auch richtig: **Was ist dir passiert?**)  6. **Ich habe zwei Karten reserviert.**
 
 ## Übung A4 — Separable verbs: Partizip II
 
@@ -103,7 +103,7 @@
 
 ## Übung B1 — Dialog ergänzen
 
-1. **habe**  2. **musste**  3. **war**  4. **konnten** (auch richtig: **sind**)  5. **habe**  6. **wusstest**  7. **durfte**  8. **Hast**  9. **habe**
+1. **habe**  2. **musste**  3. **war**  4. **sind**  5. **durfte**  6. **Hast**  7. **habe**  8. **war**
 
 ## Übung B2 — Finde den Fehler
 
@@ -172,7 +172,7 @@ Selbstkorrektur:
 
 ## Übung C1 — Lückentext
 
-1. **war**  2. **besucht**  3. **getroffen** (auch richtig: **wiedergesehen**)  4. **gefahren**  5. **hat**  6. **hat**  7. **gefallen**  8. **hat**  9. **muss** (auch richtig: **müsste**, **sollte**)  10. **schafft** (auch richtig: **kann**)
+1. **war**  2. **besucht**  3. **getroffen** (auch richtig: **wiedergesehen**)  4. **gefahren**  5. **hat**  6. **hat**  7. **gefallen**  8. **hat**  9. **muss** (auch richtig: **müsste**, **sollte**)  10. **hat**
 
 ## Übung C2 — Sprachbausteine Teil 1
 

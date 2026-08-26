@@ -194,7 +194,7 @@ Ergänze die richtige Präposition aus dem Kasten. Jede wird einmal verwendet.
 4. Die Schuhe stehen ______ der Tür.
 5. Das Regal steht ______ der Wand.
 6. Der Schlüssel liegt ______ dem Tisch.
-7. Das Buch steht ______ dem Regal.
+7. Die Handtücher liegen ______ der Kommode.
 8. Die Kiste steht ______ dem Schrank.
 9. Der Stuhl steht ______ dem Fenster.
 
@@ -202,7 +202,7 @@ Ergänze die richtige Präposition aus dem Kasten. Jede wird einmal verwendet.
 
 Bilde einen vollständigen Satz mit „stellen" und dem richtigen Akkusativartikel. Beispiel: Buch / auf / Tisch (m) → Ich stelle das Buch auf den Tisch.
 
-1. Lampe (f) / über / Tisch (m) → ______
+1. Lampe (f) / auf / Tisch (m) → ______
 2. Stuhl (m) / neben / Fenster (n) → ______
 3. Tassen (pl) / in / Schrank (m) → ______
 4. Regal (n) / an / Wand (f) → ______
@@ -271,7 +271,7 @@ Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreib
 5. Wir legen den Teppich unter das Sofa — richtig, er liegt jetzt unter ______ Sofa. (das → ?)
 6. Sie hängt das Bild an die Wand — das Bild ______ jetzt an der Wand. (hängen → ?)
 7. Der Schlüssel liegt ______ Tisch. (im → ?)
-8. Ich stelle die Schuhe vor die Tür. Sie stehen jetzt vor der Tür. — Genau! ______ steht vor der Tür. (Er → ?)
+8. Wo sind die Schuhe? — ______ vor der Tür. (Er steht → ?)
 9. Wo liegt der Spiegel? — Er hängt an ______ Wand. (die → ?)
 10. Das Regal steht zwischen dem Fenster und ______ Tür. (die → ?)
 
@@ -434,10 +434,10 @@ Fülle die 10 Lücken mit Wörtern aus dem Kasten. Elf Wörter werden nicht gebr
 > — Das Regal steht (5) ______ dem Fenster und der Tür. Meine Bücher stehen
 > (6) ______ Regal.
 > — Hast du auch einen Teppich?
-> — Ja, er liegt (7) ______ dem Bett — also (8) ______ dem Bett. Der Teppich
+> — Ja, er liegt (7) ______ dem Bett — nicht (8) ______ dem Bett. Der Teppich
 > ist blau.
 > — Schön! Und wohin hängst du das Bild?
-> — Ich hänge es (9) ______ die Wand, (10) ______ dem Fenster.
+> — Ich hänge es (9) ______ die Wand, (10) ______ das Fenster.
 
 > AM · AN · AUF · AUS · DEM · DER · HÄNGT · HINTER · IM · INS · LEGEN · LEGT · LIEGT · NEBEN · STEHEN · STEHT · STELLT · ÜBER · UNTER · VOR · ZWISCHEN
 
@@ -536,7 +536,7 @@ Streiche das Wort durch, das nicht passt.
 
 1. (L4) `es gibt` — fill in: Es ______ eine Küche im ersten Stock.
 2. (L4) Name three rooms of a house (German + article): ______, ______, ______
-3. (L4) Predicative adjective: Das Zimmer ist ______ (schön — no change needed here).
+3. (L4) Predicative adjective: Das Zimmer ist ______ (nice — predicative, so no ending).
 4. (L8) Dative preposition: Ich gehe ______ Fuß zur Schule. (zu)
 5. (L8) Dative preposition: Sie wohnt ______ ihrer Freundin. (bei)
 6. (L8) Translate: "I travel by bus." → ______

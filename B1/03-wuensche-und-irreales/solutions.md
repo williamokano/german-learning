@@ -71,7 +71,7 @@
 
 ## Übung A7 — Ratschläge geben — `An deiner Stelle` / `Du solltest`
 
-1. **solltest**  2. **anmelden**  3. **würde**  4. **ausprobieren**  5. **würde**  6. **empfehlen**  7. **sollten**  8. **ansprechen**  9. **würde**  10. **prüfen**  11. **wäre**  12. **sprichst**
+1. **solltest**  2. **anmelden**  3. **würde**  4. **ausprobieren**  5. **würde**  6. **empfehlen**  7. **sollten**  8. **ansprechen**  9. **würde**  10. **prüfen**  11. **wäre**  12. **sprechen würdest** (auch richtig: **sprächest**)
 
 ## Übung A8 — Satzbau: Konjunktiv II-Sätze in die richtige Reihenfolge
 

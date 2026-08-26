@@ -238,7 +238,9 @@ exercises:
       "2": "Er hat eine Stunde lang telefoniert."
       "3": "Wir haben einen Tisch reserviert."
       "4": "Sie hat die Stadt fotografiert."
-      "5": "Was ist dir passiert?"
+      "5":
+        - "Was ist mit dir passiert?"
+        - "Was ist dir passiert?"
       "6": "Ich habe zwei Karten reserviert."
 
   - id: A4
@@ -485,30 +487,24 @@ exercises:
     instructionsEn: "Fill in the blanks with the correct form (Perfekt or Präteritum modal)."
     text: |-
       — Hey Anna! Wie war dein Wochenende?
-      — Super! Ich {1} (besuchen) eine Ausstellung im Museum.
+      — Super! Ich {1} eine Ausstellung im Museum besucht.
       — Echt? Was für eine Ausstellung?
-      — Über russische Kunst. Zuerst {2} ich lange in der Schlange (warten) —
-        das {3} (sein) ein bisschen langweilig. Dann {4} wir endlich
-        (reinkommen / hineinkommen).
+      — Über russische Kunst. Zuerst {2} ich lange in der Schlange warten —
+        das {3} ein bisschen langweilig. Dann {4} wir endlich reingekommen.
       — Und wie war es?
-      — Wirklich toll! Ich {5} alles (fotografieren) — oder {6} du, dass
-        man da nicht fotografieren (dürfen — Präteritum)?
-      — Stimmt! Man {7} nicht fotografieren (dürfen — Präteritum).
-        {8} du trotzdem Fotos (machen)?
-      — Nein natürlich nicht! Am Ende {9} ich ein Buch über die Ausstellung
-        (kaufen). Es war wirklich schön!
+      — Wirklich toll! Leider {5} man dort nicht fotografieren.
+      — Schade. {6} du trotzdem Fotos gemacht?
+      — Nein, natürlich nicht! Aber am Ende {7} ich ein Buch über die
+        Ausstellung gekauft. Es {8} wirklich schön.
     answers:
       "1": habe
       "2": musste
       "3": war
-      "4":
-        - konnten
-        - sind
-      "5": habe
-      "6": wusstest
-      "7": durfte
-      "8": Hast
-      "9": habe
+      "4": sind
+      "5": durfte
+      "6": Hast
+      "7": habe
+      "8": war
 
   - id: B2
     block: B
@@ -525,7 +521,7 @@ exercises:
       5. Zuerst wir sind in die Stadt gegangen. → {5}
       6. Sie hat das Restaurant reservert. → {6}
       7. Ich habe kein Taxi gefunden können. → {7}
-      8. Das Glas hat zergebrochen. → {8}
+      8. Das Glas ist zergebrochen. → {8}
       9. Wolltest du nach Wien gefahren? → {9}
       10. Er hat alles vergessen — er ist einen schlechten Tag gehabt. (Hint: *vergessen* is fine; find the error in the other clause.) → {10}
     answers:
@@ -744,10 +740,10 @@ exercises:
     text: |-
       Letzten Sommer {1} Anna drei Wochen in Russland. Sie hat ihre Familie
       {2} und viele alte Freunde {3}. Zuerst ist sie mit dem Zug
-      nach Jaroslawl {4}. Dann {5} sie eine Woche bei ihren Eltern
-      (wohnen). Ihre Mutter {6} jeden Tag ein großes Abendessen (kochen).
+      nach Jaroslawl {4}. Dann {5} sie eine Woche bei ihren Eltern gewohnt.
+      Ihre Mutter {6} jeden Tag ein großes Abendessen gekocht.
       Das hat Anna sehr {7}. Am Ende {8} sie bemerkt, dass sie öfter nach
-      Hause fahren {9}. Sie {10} es leider nicht oft genug.
+      Hause fahren {9}. Aber sie {10} leider nur selten so viel Zeit.
     answers:
       "1": war
       "2": besucht
@@ -763,9 +759,7 @@ exercises:
         - muss
         - müsste
         - sollte
-      "10":
-        - schafft
-        - kann
+      "10": hat
 
   - id: C2
     block: C

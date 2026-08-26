@@ -81,9 +81,9 @@ Setze die passende Vorsilbe ein (ver-, zer-, ent-, miss-, be-, er-, emp-). Manch
 2. ______brechen (in Stücke brechen)
 3. ______finden (wahrnehmen)
 4. ______verstehen (falsch verstehen)
-5. ______zahlen (bezahlen)
-6. ______lauben (erlauben)
-7. ______fehlen (empfehlen)
+5. ______zahlen (Geld für etwas geben)
+6. ______lauben (die Genehmigung geben)
+7. ______fehlen (zu etwas raten)
 8. ______schuldigen (um Verzeihung bitten)
 
 ## Übung A2 — Vorsilbe → Bedeutung

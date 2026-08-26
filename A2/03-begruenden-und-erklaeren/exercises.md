@@ -147,7 +147,7 @@ Bilde den dass-Satz. Die Lücke enthält die Verbphrase am Ende.
 2. Sie sagt, dass sie das Buch schon gelesen ______.
 3. Er meint, dass wir mehr üben ______.
 4. Ich glaube, dass sie nach Hause gegangen ______.
-5. Wir hoffen, dass es aufgehört zu regnen ______.
+5. Wir hoffen, dass es zu regnen aufgehört ______.
 6. Ich finde, dass du mehr schlafen ______.
 
 ## Übung A7 — `deshalb` / `darum` / `deswegen`: Inversion!
@@ -174,7 +174,7 @@ Diese Satzpaare drücken denselben Gedanken aus. Ergänze das Verb am Ende des �
 3. a) Wir nehmen den Zug, weil das Auto kaputt ______ (sein).
    b) Das Auto ist kaputt. Deswegen ______ wir den Zug (nehmen).
 4. a) Sie geht früh schlafen, weil sie morgen früh aufstehen ______ (müssen).
-   b) Sie muss morgen früh aufstehen. Deshalb ______ sie früh (schlafen gehen).
+   b) Sie muss morgen früh aufstehen. Deshalb ______ sie früh schlafen (schlafen gehen).
 
 ## Übung A9 — Wortstellung im `weil`-Satz: Richtig oder falsch?
 
@@ -241,26 +241,26 @@ Ergänze die Lücken mit der passenden Form. Wähle aus: „weil", „dass", „
 
 Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreibe die richtige Form. Aufgabe 3 ist korrekt (schreibe C).
 
-1. Ich bin müde, weil ich viel gearbeitet ______. (habe → ?)
-2. Er kommt nicht. Deshalb ______ er krank. (es → ?)
-3. Ich glaube, dass sie morgen ______. (correct? — yes/no)
-4. Weil es regnet, ______ wir zu Hause. (wir → ?)
-5. Sie lernt Deutsch, weil sie in Berlin leben ______. (will → word order)
+1. Ich bin müde, weil ich viel gearbeitet ______. (habe viel gearbeitet → ?)
+2. Er ist krank. Deshalb ______ er nicht. (er kommt → ?)
+3. Ich glaube, dass sie morgen ______. (kommt sie → ?)
+4. Weil es regnet, ______ wir zu Hause. (wir bleiben → ?)
+5. Sie lernt Deutsch, weil sie in Berlin ______. (will leben → ?)
 6. Ich finde, ______ Deutsch sehr interessant ist. (das → ?)
-7. Darum kommt er nicht, ______ er krank ist. (weil → ?)
-8. Wir nehmen den Zug, ______ das Auto kaputt ist. (Deswegen → ?)
-9. Ich bin sicher, dass er Recht ______. (hat → ?)
-10. Weil sie müde ______. Sie geht schlafen. (ist → ?)
+7. Er kommt nicht, ______ er krank ist. (darum → ?)
+8. Wir nehmen den Zug, ______ das Auto kaputt ist. (deswegen → ?)
+9. Ich bin sicher, dass er Recht ______. (hat er → ?)
+10. Weil sie müde ist, ______ sie schlafen. (sie geht → ?)
 
 ## Übung B3 — Sätze verbinden: `weil` oder `deshalb`?
 
 Verbinde jedes Paar SOWOHL mit „weil" ALS AUCH mit „deshalb" (zwei separate Antworten).
 
 1. Anna übt viel. Sie macht schnell Fortschritte.
-   a) Anna übt viel, weil sie schnell Fortschritte ______.
-   b) Anna macht schnell Fortschritte. Deshalb ______ sie viel.
+   a) Anna macht schnell Fortschritte, weil sie viel ______.
+   b) Anna übt viel. Deshalb ______ sie schnell Fortschritte.
 2. Bruno mag die WG. Er zieht nicht aus.
-   a) Bruno mag die WG, weil ______ (alternative wording).
+   a) Bruno zieht nicht aus, weil er die WG ______.
    b) Bruno mag die WG. ______ zieht er nicht aus.
 3. Es hat geregnet. Wir sind nicht in den Park gegangen.
    a) Wir sind nicht in den Park gegangen, weil es ______.
@@ -347,10 +347,10 @@ Self-check:
 
 Wähle die richtige Option. Der Infinitiv muss vor dem Modalverb stehen, beide am Ende des „weil"-Satzes.
 
-1. Ich gehe früh schlafen, weil ich morgen früh aufstehen ___.  a) aufstehen muss  b) muss aufstehen  c) muss
-2. Er kommt nicht, weil er arbeiten ___.  a) muss  b) arbeiten muss  c) muss arbeiten
-3. Wir nehmen das Taxi, weil wir schnell ankommen ___.  a) wollen  b) wollen ankommen  c) ankommen wollen
-4. Sie bleibt zu Hause, weil sie sich ausruhen ___.  a) ausruhen soll  b) soll ausruhen  c) soll ausruhen
+1. Ich gehe früh schlafen, weil ich morgen früh ___.  a) aufstehen muss  b) muss aufstehen  c) muss
+2. Er kommt nicht, weil er ___.  a) muss  b) arbeiten muss  c) muss arbeiten
+3. Wir nehmen das Taxi, weil wir schnell ___.  a) wollen  b) wollen ankommen  c) ankommen wollen
+4. Sie bleibt zu Hause, weil sie sich ___.  a) ausruhen soll  b) soll ausruhen  c) ausruhen sollt
 
 ---
 
@@ -363,7 +363,7 @@ Fülle jede Lücke mit einem Wort.
 Liebe Anna,
 ich schreibe dir, ______ ich ein Problem habe und deine Meinung brauche.
 Ich überlege, ob ich den Deutschkurs wechseln soll, ______ der Kurs für mich
-zu schwierig ist. Ich ______ nicht, dass ich die richtige Gruppe bin.
+zu schwierig ist. Ich ______ nicht, dass ich in der richtigen Gruppe bin.
 ______ lerne ich jeden Abend zwei Stunden. Aber es reicht ______ nicht.
 Ich glaube, ______ ich einen Kurs für Anfänger brauche. Was ______ du?
 Ich bin ______ sicher, was ich machen soll. Ich finde es wichtig, ______
@@ -393,7 +393,7 @@ Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht geb
 > — (5) ______! Ohne tägliches Üben lernt man kaum.
 > — Ich (6) ______ auch, dass Podcasts sehr nützlich sind.
 > — (7) ______ höre ich jeden Tag einen deutschen Podcast.
-> — Wirklich? Ich (8) ______ das noch nicht. Ich finde es gut, (9) ______ du mir das gesagt hast.
+> — Interessant! Ich (8) ______ noch nicht viel über Podcasts. Ich finde es gut, (9) ______ du mir das gesagt hast.
 > — Natürlich! (10) ______ teile ich auch gerne Tipps mit dir.
 
 > BRAUCHT · DARUM · DASS · DENKE · DESHALB · ERKLÄRT · FINDET · GLAUBE · HILFT · MEINT · NICHT · OBWOHL · SAGT · STIMMT · TROTZDEM · VERSTEHEN · VIELLEICHT · WARUM · WEIL · WEISS
@@ -515,7 +515,7 @@ Streiche das Wort durch, das nicht passt, und sage warum.
 6. Ich habe Hunger. Deshalb ______ ich jetzt. (essen)
 7. Das Auto ist kaputt. Darum ______ wir den Zug. (nehmen)
 8. Er ist krank. Deswegen ______ er nicht. (kommen)
-9. Anna hat eine Prüfung. Deshalb ______ sie früh. (schlafen gehen)
+9. Anna hat eine Prüfung. Deshalb ______ sie früh schlafen. (schlafen gehen)
 10. Wir mögen den Kurs. Darum ______ wir jeden Tag. (kommen)
 
 **Dass-Sätze (5 Punkte):**

@@ -352,7 +352,9 @@ exercises:
       "9": würde
       "10": prüfen
       "11": wäre
-      "12": sprichst
+      "12":
+        - sprechen würdest
+        - sprächest
 
   - id: A8
     block: A

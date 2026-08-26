@@ -291,11 +291,11 @@ Match each word (1–7) with its correct definition (a–h). One definition is n
 Decide whether the missing construction is Aktiv or Passiv, then fill in the correct form. 6 items.
 
 1. (Passiv) Bewerberinnen mit Erfahrung (1) ______. (bevorzugen)
-2. (Passiv) Alle Bewerbungen (2) ______ bis zum 30. Juni. (entgegennehmen)
-3. (Aktiv) Die Stelle (3) ______ einen Abschluss in Betriebswirtschaft. (erfordern)
-4. (Passiv) Das Gehalt (4) ______ nach Qualifikation. (bestimmen)
-5. (Aktiv) Wir (5) ______ uns auf Ihre Bewerbung. (freuen — reflexiv)
-6. (Passiv) Überstunden (6) ______ nach Vereinbarung bezahlt. (werden)
+2. (Passiv) Alle Bewerbungen (2) ______ bis zum 30. Juni (3) ______. (entgegennehmen)
+3. (Aktiv) Die Stelle (4) ______ einen Abschluss in Betriebswirtschaft. (erfordern)
+4. (Passiv) Das Gehalt (5) ______ nach Qualifikation (6) ______. (bestimmen)
+5. (Aktiv) Wir (7) ______ uns auf Ihre Bewerbung. (freuen — reflexiv)
+6. (Passiv) Überstunden (8) ______ nach Vereinbarung bezahlt. (werden)
 
 ## Übung B7 — Interview-Phrasen: Richtig oder Falsch?
 

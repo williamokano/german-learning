@@ -148,9 +148,9 @@ exercises:
       2. {2}brechen (in Stücke brechen)
       3. {3}finden (wahrnehmen)
       4. {4}verstehen (falsch verstehen)
-      5. {5}zahlen (bezahlen)
-      6. {6}lauben (erlauben)
-      7. {7}fehlen (empfehlen)
+      5. {5}zahlen (Geld für etwas geben)
+      6. {6}lauben (die Genehmigung geben)
+      7. {7}fehlen (zu etwas raten)
       8. {8}schuldigen (um Verzeihung bitten)
     answers:
       "1": ent

@@ -76,7 +76,7 @@
 
 ## Übung A9 — Vollständige Sätze: stellen + Akkusativ
 
-1. **Ich stelle die Lampe über den Tisch.**  2. **Ich stelle den Stuhl neben das Fenster.**  3. **Ich stelle die Tassen in den Schrank.**  4. **Ich stelle das Regal an die Wand.**  5. **Ich stelle den Sessel zwischen das Sofa und das Fenster.**  6. **Ich stelle die Schuhe vor die Tür.**
+1. **Ich stelle die Lampe auf den Tisch.**  2. **Ich stelle den Stuhl neben das Fenster.**  3. **Ich stelle die Tassen in den Schrank.**  4. **Ich stelle das Regal an die Wand.**  5. **Ich stelle den Sessel zwischen das Sofa und das Fenster.**  6. **Ich stelle die Schuhe vor die Tür.**
 
 ## Übung A10 — stehen / liegen / hängen: wo ist was?
 
@@ -100,7 +100,7 @@
 
 ## Übung B2 — Finde den Fehler
 
-1. **den**  2. **dem**  3. **die**  4. **liegt**  5. **dem**  6. **hängt**  7. **auf dem**  8. **Sie**  9. **der**  10. **der**
+1. **den**  2. **dem**  3. **die**  4. **liegt**  5. **dem**  6. **hängt**  7. **auf dem**  8. **Sie stehen**  9. **der**  10. **der**
 
 ## Übung B3 — Frage und Antwort verbinden
 
@@ -203,7 +203,7 @@ Selbstkorrektur:
 
 ## Übung C2 — Sprachbausteine Teil 1 (multiple choice)
 
-1. **a) steht** — Wohnungen stehen; „Die Wohnung steht im zweiten Stock" ✓
+1. **b) liegt** — Eine Wohnung *liegt* in einem Stock. „Die Wohnung steht" heißt: sie steht leer.
 2. **b) steht** — Sofa is upright furniture → steht.
 3. **c) ans** — an + das → ans (Wohin? → Akkusativ: ans Fenster).
 4. **a) stehen** — Bücher im Regal → stehen (upright).

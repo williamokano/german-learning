@@ -590,18 +590,20 @@ exercises:
     instructions: "Decide whether the missing construction is Aktiv or Passiv, then fill in the correct form. 6 items."
     text: |
       1. (Passiv) Bewerberinnen mit Erfahrung {1}. (bevorzugen)
-      2. (Passiv) Alle Bewerbungen {2} bis zum 30. Juni. (entgegennehmen)
-      3. (Aktiv) Die Stelle {3} einen Abschluss in Betriebswirtschaft. (erfordern)
-      4. (Passiv) Das Gehalt {4} nach Qualifikation. (bestimmen)
-      5. (Aktiv) Wir {5} uns auf Ihre Bewerbung. (freuen — reflexiv)
-      6. (Passiv) Überstunden {6} nach Vereinbarung bezahlt. (werden)
+      2. (Passiv) Alle Bewerbungen {2} bis zum 30. Juni {3}. (entgegennehmen)
+      3. (Aktiv) Die Stelle {4} einen Abschluss in Betriebswirtschaft. (erfordern)
+      4. (Passiv) Das Gehalt {5} nach Qualifikation {6}. (bestimmen)
+      5. (Aktiv) Wir {7} uns auf Ihre Bewerbung. (freuen — reflexiv)
+      6. (Passiv) Überstunden {8} nach Vereinbarung bezahlt. (werden)
     answers:
       "1": werden bevorzugt
-      "2": werden entgegengenommen
-      "3": erfordert
-      "4": wird bestimmt
-      "5": freuen
-      "6": werden
+      "2": werden
+      "3": entgegengenommen
+      "4": erfordert
+      "5": wird
+      "6": bestimmt
+      "7": freuen
+      "8": werden
 
   - id: B7
     block: B

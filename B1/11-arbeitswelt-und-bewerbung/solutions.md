@@ -121,7 +121,7 @@
 
 ## Übung B6 — Passiv-Sätze in Stellenanzeigen: Aktiv oder Passiv? (B1/04)
 
-1. **werden bevorzugt**  2. **werden entgegengenommen**  3. **erfordert**  4. **wird bestimmt**  5. **freuen**  6. **werden**
+1. **werden bevorzugt**  2. **werden**  3. **entgegengenommen**  4. **erfordert**  5. **wird**  6. **bestimmt**  7. **freuen**  8. **werden**
 
 ## Übung B7 — Interview-Phrasen: Richtig oder Falsch?
 

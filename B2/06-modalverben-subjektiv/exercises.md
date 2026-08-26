@@ -86,7 +86,7 @@ Bestimme, ob das Modalverb objektiv (Tatsache) oder subjektiv (Vermutung/Einsch�
 Setz das passende Modalverb ein (muss / dürfte / könnte / kann nicht). 6 Items.
 
 1. Das Licht brennt und das Auto steht da — er ______ zu Hause sein. (fast sicher)
-2. Ich habe ihn gerade in Berlin gesehen — er ______ jetzt in München sein. (ausgeschlossen)
+2. Ich habe ihn gerade in Berlin gesehen — er ______ gleichzeitig in München sein. (ausgeschlossen)
 3. Das Paket ist schon unterwegs — es ______ morgen ankommen. (wahrscheinlich)
 4. Vielleicht hat er den Termin vergessen — das ______ sein. (möglich)
 5. Bei dem Stau ______ sie sich verspäten, anders geht es nicht. (fast sicher)
