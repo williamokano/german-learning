@@ -22,11 +22,11 @@ Ergänze den richtigen Artikel im Dativ (Wo?) oder Akkusativ (Wohin?).
 
 1. Der Abfluss ist in ______ Küche verstopft. (Wo?)
 2. Kommen Sie bitte in ______ Küche. (Wohin?)
-3. Der Zähler hängt in ______ Flur, links neben der Tür. (Wo?)
+3. Der Zähler hängt ______ Flur, links neben der Tür. (Wo? — in + dem, kurz)
 4. Der Rauchmelder ist an ______ Decke im Schlafzimmer. (Wo?)
 5. Stellen Sie den Werkzeugkoffer bitte auf ______ Boden. (Wohin?)
 6. Das Wasser steht unter ______ Spüle. (Wo?)
-7. Die Therme hängt in ______ Bad. (Wo?)
+7. Die Therme hängt ______ Bad. (Wo? — in + dem, kurz)
 8. Gehen wir ins Bad — die Armatur tropft über ______ Waschbecken. (Wo?)
 
 ## Übung A3 — Frage und Antwort an der Tür

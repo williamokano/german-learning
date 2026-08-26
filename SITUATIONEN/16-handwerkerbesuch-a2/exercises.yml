@@ -52,20 +52,20 @@ exercises:
     text: |
       1. Der Abfluss ist in {1} Küche verstopft. (Wo?)
       2. Kommen Sie bitte in {2} Küche. (Wohin?)
-      3. Der Zähler hängt in {3} Flur, links neben der Tür. (Wo?)
+      3. Der Zähler hängt {3} Flur, links neben der Tür. (Wo? — in + dem, kurz)
       4. Der Rauchmelder ist an {4} Decke im Schlafzimmer. (Wo?)
       5. Stellen Sie den Werkzeugkoffer bitte auf {5} Boden. (Wohin?)
       6. Das Wasser steht unter {6} Spüle. (Wo?)
-      7. Die Therme hängt in {7} Bad. (Wo?)
+      7. Die Therme hängt {7} Bad. (Wo? — in + dem, kurz)
       8. Gehen wir ins Bad — die Armatur tropft über {8} Waschbecken. (Wo?)
     answers:
       "1": der
       "2": die
-      "3": dem
+      "3": im
       "4": der
       "5": den
       "6": der
-      "7": dem
+      "7": im
       "8": dem
 
   - id: A3

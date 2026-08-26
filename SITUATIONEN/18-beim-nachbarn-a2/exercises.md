@@ -173,7 +173,7 @@ Ergänze aus dem Gedächtnis.
 5. Könnten Sie bitte etwas ______ machen? (quieter)
 6. Sagen Sie einfach ______. (let me know)
 7. Zwischen 22 und 7 Uhr ist ______. (quiet hours)
-8. Können Sie mir ______ helfen? (Dativ: to me)
+8. Können Sie ______ kurz helfen? (Dativ: to me)
 9. Passt es ______ am Samstag? (Dativ: for you, formal)
 10. Ich hänge einen ______ ins Treppenhaus. (a note)
 11. Entschuldigung, dass ich ______. (that I'm disturbing you)
