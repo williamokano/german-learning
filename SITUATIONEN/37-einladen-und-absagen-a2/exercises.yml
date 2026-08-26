@@ -114,7 +114,7 @@ exercises:
       3. Da bin ich leider schon {3}. (ich habe schon einen Termin)
       4. Können wir es {4}? (auf einen anderen Termin legen)
       5. Es {5} mir wirklich leid. (tun, 3. Person Singular)
-      6. Lass es uns {6}! (später nachholen: … holen)
+      6. Lass es uns {6}! (später doch noch machen)
     answers:
       "1": aber
       "2": weil
@@ -347,7 +347,7 @@ exercises:
       3. Können wir es {3}? (auf einen anderen Tag legen)
       4. Es tut mir wirklich {4}. (Bedauern)
       5. Ich habe es total {5}. (nicht daran gedacht, Partizip)
-      6. Lass es uns {6}! (später nachholen)
+      6. Lass es uns {6}! (später doch noch machen)
     answers:
       "1": vor
       "2": verabredet

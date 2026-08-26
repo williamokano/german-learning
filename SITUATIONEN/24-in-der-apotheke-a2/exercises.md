@@ -51,7 +51,7 @@ Ergänze die Zeit- oder Mengenangabe.
 1. Nehmen Sie ______ täglich eine Tablette. (3 ×)
 2. Bitte ______ dem Essen einnehmen. (danach)
 3. Zwischen zwei Tabletten sollten mindestens sechs ______ liegen. (Zeiteinheit)
-4. Nehmen Sie es höchstens drei ______ lang. (Zeiteinheit: 7 Tage)
+4. Nehmen Sie es höchstens drei ______ lang. (Zeiteinheit — kürzer als eine Woche)
 5. Für Kinder ______ 12 Jahren ist es nicht geeignet. (jünger als)
 6. Tragen Sie die Salbe ______ dünn auf. (2 ×)
 

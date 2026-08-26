@@ -75,7 +75,7 @@ Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht geb
 > — Meistens gegen halb eins, so eine halbe Stunde. Die
 > (8) ______ ist den Gang runter, letzte Tür rechts.
 > — Alles klar. Und wenn ich etwas nicht weiß?
-> — (9) ______ erst mal mich. Frag ruhig oft, das ist am Anfang
+> — (9) ______ erst mal mich. Trau dich ruhig, das ist am Anfang
 > normal.
 > — Danke, das beruhigt. — (10) ______ ich mir das kurz aufschreiben?
 > — Unbedingt, mach das.
@@ -166,7 +166,7 @@ Ergänze das passende Wort.
 Ergänze aus dem Gedächtnis.
 
 1. Ich bin Carla, die ______. (the new one)
-2. Sagt man hier du oder ______? (Sie)
+2. Sagt man hier du oder ______? (the formal form of address)
 3. Im Team ______ wir uns. (use du with each other)
 4. Wie funktioniert die ______? (time recording)
 5. Beim Kommen ______ man sich ein. (clocks in)

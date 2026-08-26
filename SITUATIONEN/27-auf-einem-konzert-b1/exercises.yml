@@ -86,9 +86,9 @@ exercises:
     instructions: "Ergänze die Konjunktiv-II-Form."
     instructionsEn: "Fill in the Konjunktiv II form."
     text: |
-      1. {1} Sie kurz durchlassen? Meine Freundin steht da vorn. (würden)
-      2. {2} es Ihnen etwas ausmachen, wenn ich mich hier hinstelle? (würden)
-      3. {3} Sie vielleicht mit mir tauschen? Ich sehe hier nichts. (würden)
+      1. {1} Sie kurz durchlassen? Meine Freundin steht da vorn. (werden im Konjunktiv II)
+      2. {2} es Ihnen etwas ausmachen, wenn ich mich hier hinstelle? (werden im Konjunktiv II, Singular)
+      3. {3} Sie vielleicht mit mir tauschen? Ich sehe hier nichts. (werden im Konjunktiv II)
       4. {4} ich mich kurz vorbeidrängen? (dürfen im Konjunktiv II)
       5. {5} Sie eventuell einen Platz weiter rücken? (können im Konjunktiv II)
       6. Ich {6} gern noch etwas trinken holen — soll ich dir was mitbringen? (werden im Konjunktiv II)
@@ -365,7 +365,7 @@ exercises:
     instructionsEn: "Fill in from memory."
     text: |
       1. Das Ticket ist {1}. (personalised)
-      2. Es läuft {2} meinen Namen. (in — auf/für?)
+      2. Es läuft {2} meinen Namen. (Präposition, Akkusativ folgt)
       3. Am Einlass gibt es eine {3}. (bag check)
       4. Ich bekomme ein {4}. (wristband)
       5. Die {5} spielt um 20 Uhr. (support act)

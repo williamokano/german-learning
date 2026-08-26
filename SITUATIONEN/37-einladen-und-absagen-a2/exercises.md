@@ -51,7 +51,7 @@ Ergänze das fehlende Wort.
 3. Da bin ich leider schon ______. (ich habe schon einen Termin)
 4. Können wir es ______? (auf einen anderen Termin legen)
 5. Es ______ mir wirklich leid. (tun, 3. Person Singular)
-6. Lass es uns ______! (später nachholen: … holen)
+6. Lass es uns ______! (später doch noch machen)
 
 ---
 
@@ -156,7 +156,7 @@ Ergänze das passende Wort.
 3. Können wir es ______? (auf einen anderen Tag legen)
 4. Es tut mir wirklich ______. (Bedauern)
 5. Ich habe es total ______. (nicht daran gedacht, Partizip)
-6. Lass es uns ______! (später nachholen)
+6. Lass es uns ______! (später doch noch machen)
 
 ---
 

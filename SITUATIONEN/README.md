@@ -108,6 +108,30 @@ when writing a set:
   extractor fan is broken, when can someone come?" are different situations
   and should not be crammed together.
 
+## Beim Schreiben: den Antwort-Leak prüfen
+
+Zwei Fehler rutschen durch alle CI-Gates, weil sie strukturell korrekt sind
+und trotzdem die Übung wertlos machen:
+
+- Ein gap-bank-Wort steht **in derselben Zeile** wie seine eigene Lücke
+  (`Ich buche Sie auf den Flug um 18:40 {4}.` mit Antwort `UM`).
+- Ein gap-text-Hinweis **nennt die Antwort** (`Ich habe eine {4} gegen
+  Nüsse. (Allergie)`).
+
+Dafür gibt es `build/check-answer-leaks.ts` — bewusst **nicht** in der CI,
+weil das Skript über die älteren A1–C1-Lektionen hunderte harmlose
+Funktionswörter meldet. Beim Schreiben eines Sets lohnt es sich aber:
+
+```
+npx tsx build/check-answer-leaks.ts SITUATIONEN/33-am-flughafen-b1
+```
+
+Jeden Treffer selbst ansehen. Manche sind die Übung selbst: Bei
+untrennbaren Verben ist das Partizip gleich dem Infinitiv, `belaufen →
+belaufen` ist also genau der Punkt. Ein Konjugationshinweis wie
+`(müssen, wir-Form)` ist ebenfalls Absicht und wird vom Skript
+übersprungen.
+
 ## German quotes in YAML — the one recurring trap
 
 German quotation marks are `„…“`, and the closing one is **not** a straight

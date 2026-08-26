@@ -177,7 +177,7 @@ Ergänze aus dem Gedächtnis.
 8. Könnten Sie bitte etwas ______ sein? (quieter)
 9. Wie ______ du den Film? (did you find — Präteritum)
 10. Ich fand ihn gut, ______ die Bilder toll waren. (because)
-11. Mir hat der Anfang ______. (appealed — gefallen)
+11. Mir hat der Anfang ______. (I liked it — Partizip)
 12. Das Ende war ______ zu schnell. (for me — Dativ)
 
 ## Übung D2 — Rollenspiel: Verabredung, Kasse, danach

@@ -106,11 +106,11 @@ exercises:
     instructions: "Ergänze die richtige Form."
     instructionsEn: "Fill in the correct form."
     text: |
-      1. Ich habe seit {1} Tagen Kopfschmerzen. (drei)
+      1. Ich habe seit {1} Tagen Kopfschmerzen. (3)
       2. Der Husten ist seit {2} Woche schlimmer geworden. (eine)
       3. Seit {3} Montag geht es mir schlecht. (der)
       4. Sie hat seit {4} Monat Rückenschmerzen. (ein)
-      5. Seit {5} Wochen kann ich nicht gut schlafen. (zwei)
+      5. Seit {5} Wochen kann ich nicht gut schlafen. (2)
       6. Seit {6} Operation habe ich keine Schmerzen mehr. (die)
     answers:
       "1": drei

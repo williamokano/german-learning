@@ -171,7 +171,7 @@ Ergänze aus dem Gedächtnis.
 1. Ich möchte ein ______ eröffnen. (current account)
 2. Wir machen jetzt die ______. (identity check)
 3. Meine ______ beginnt mit DE. (account number)
-4. Karte und ______ kommen getrennt. (PIN)
+4. Karte und ______ kommen getrennt. (the secret number for the card)
 5. Für die Miete: ein ______. (standing order)
 6. Für den Strom: eine ______. (direct debit)
 7. Der ______ kostet 11,9 % Zinsen. (overdraft)

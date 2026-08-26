@@ -66,7 +66,7 @@ Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht geb
 > — Guten Tag, mein Flug nach Lissabon hat zwei Stunden
 > (1) ______, dadurch verpasse ich meinen (2) ______ in Frankfurt.
 > — Zeigen Sie mir bitte Ihre (3) ______. … Ja, das wird knapp. Ich buche
-> Sie auf den Flug um 18:40 (4) ______.
+> Sie auf den 18:40-Flug (4) ______.
 > — Komme ich dann heute noch an?
 > — Ja, Ankunft 21:15. Sie (5) ______ automatisch neu eingecheckt, das
 > Gepäck läuft durch.

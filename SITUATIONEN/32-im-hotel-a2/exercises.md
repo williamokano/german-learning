@@ -173,7 +173,7 @@ Ergänze aus dem Gedächtnis.
 7. Bis wann müssen wir ______? (check out)
 8. Können wir das ______ hierlassen? (luggage)
 9. Die Heizung ist nicht ______. (worked — gehen im Perfekt)
-10. Aus der ______ habe ich nichts genommen. (minibar)
+10. Aus der ______ habe ich nichts genommen. (the small fridge in the room)
 11. ______ Sie uns um sieben wecken? (could you)
 12. ______ Sie eventuell ein ruhigeres Zimmer? (would you have)
 

@@ -178,7 +178,7 @@ Ergänze aus dem Gedächtnis.
 7. Sie kann das Bein nicht ______. (move)
 8. Der Notruf ______ um 21:14 abgesetzt. (was — Passiv)
 9. Der Rettungswagen ist nach acht Minuten ______. (arrived)
-10. Die ______ entscheidet über die Reihenfolge. (triage)
+10. Die ______ entscheidet über die Reihenfolge. (sorting by urgency)
 11. Außerhalb der Praxiszeiten: der ______. (on-call service)
 12. Ich nehme eine Tablette ______ Bluthochdruck. (for / against)
 13. Man will mich ______ aufnehmen. (as an inpatient)
