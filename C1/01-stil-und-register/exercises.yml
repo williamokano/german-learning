@@ -265,7 +265,7 @@ exercises:
     instructions: "Ersetze das umgangssprachliche Verb durch das standardsprachliche / gehobene Verb. 8 Items."
     text: |
       1. Ich kriege morgen Post. → Ich {1} morgen Post.
-      2. Was willst du essen? → Was möchtest du {2}?
+      2. Was willst du morgens essen? → Was möchtest du {2}?
       3. Er hat mein Auto geklaut. → Er hat mein Auto {3}.
       4. Hört auf zu labern! → Hört auf zu {4}!
       5. Wir müssen das ändern. → Wir müssen das {5} (gehoben).
@@ -576,10 +576,10 @@ exercises:
     text: |
       Sehr geehrte Frau Doktor Weber,
       ich {1} Ihnen gerne mitteilen, dass Ihre Bewerbung bei uns eingegangen ist.
-      Wir {2} Ihnen für Ihr Interesse an einer Mitarbeit in unserem Haus
-      bedanken. {3} Sie {4} einen Moment Zeit für eine Rückfrage? Wir
+      Wir {2} Ihnen für Ihr Interesse an einer Mitarbeit in unserem Haus.
+      {3} Sie {4} einen Moment Zeit für eine Rückfrage? Wir
       {5} Sie bitten, das ausgefüllte Formular bis zum 15. Juli {6}
-      lassen. Für Rückfragen stehe ich Ihnen {7} jederzeit zur Verfügung.
+      zu lassen. Für Rückfragen stehe ich Ihnen {7} jederzeit zur Verfügung.
       Mit freundlichen Grüßen,
       Dr. Yusuf El-Syed
     bank: [möchte, danken, Hätten, bitte, würden, zukommen, selbstverständlich, mal, doch, halt]
@@ -634,7 +634,7 @@ exercises:
           - { key: a, text: "Die Regierung plant einen Personalabbau von 500 Stellen." }
           - { key: b, text: "Die Regierung schmeißt 500 Leute raus." }
         answer: a
-        why: "Zeitungssprache ist sachlich. Variante b mit „plant“ und „Personalabbau“ ist angemessen."
+        why: "Zeitungssprache ist sachlich. Variante a mit „plant“ und „Personalabbau“ ist angemessen; „rausschmeißen“ ist umgangssprachlich."
       - q: "In einem Brief an einen trauernden Freund (warm, aber nicht floskelhaft):"
         options:
           - { key: a, text: "Er ist halt gestorben, das ist halt so." }
@@ -646,7 +646,7 @@ exercises:
           - { key: a, text: "Leider müssen wir Ihnen mitteilen, dass wir Ihre Bewerbung nicht berücksichtigen können." }
           - { key: b, text: "Sie sind halt nicht gut genug." }
         answer: a
-        why: "Auch in einer Absage bleibt das Register höflich-förmlich. Variante a ist direkt beleidigend."
+        why: "Auch in einer Absage bleibt das Register höflich-förmlich. Variante b ist direkt beleidigend."
 
   - id: B9
     block: B
@@ -761,15 +761,15 @@ exercises:
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
     text: |
-      Aus einem Stil-Ratgeber: „{1} Sie in einer E-Mail an den Vorgesetzten,
+      Aus einem Stil-Ratgeber: „{1} Sie eine E-Mail an den Vorgesetzten,
       dann {2} Sie die Modalpartikel „mal" und „halt". Setzen Sie stattdessen
       auf den {3} II als Distanzmarker: „Ich {4} vorschlagen, dass …". In einer
-      WhatsApp an {5} dürfen Sie ruhig „{6}" und „{7}" benutzen. Das Register
+      WhatsApp an Menschen, die Sie {5}, dürfen Sie ruhig „{6}" und „{7}" benutzen. Das Register
       muss zur {8} passen. {9} sind Registerstrategien, die einen
       Sachverhalt {10} oder verfälschen können."
-    bank: [SIE, VERMEIDEN, DUZEN, KONJUNKTIV, WÜRDE, HALT, MAL, BESONDERS, SITUATION, EUPHEMISMEN, BESCHÖNIGEN, ANREDE, RATSAM, FRAGEN, HINWEIS]
+    bank: [SCHREIBEN, VERMEIDEN, DUZEN, KONJUNKTIV, WÜRDE, HALT, MAL, BESONDERS, SITUATION, EUPHEMISMEN, BESCHÖNIGEN, ANREDE, RATSAM, FRAGEN, HINWEIS]
     answers:
-      "1": SIE
+      "1": SCHREIBEN
       "2": VERMEIDEN
       "3": KONJUNKTIV
       "4": WÜRDE
