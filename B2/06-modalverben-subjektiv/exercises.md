@@ -107,8 +107,8 @@ Gerücht (man sagt) → sollen. Selbstbehauptung (er/sie sagt von sich) → woll
 
 Setz die Vermutung in die Vergangenheit. Schreib das zweite Verb als Infinitiv Perfekt (Partizip II + sein/haben). 6 Items.
 
-1. Er muss reich sein. → Er muss reich ______. (gewesen + sein/haben?)
-2. Sie dürfte den Termin vergessen. → Sie dürfte den Termin ______. (vergessen + ?)
+1. Er muss reich sein. → Er muss reich ______. (sein)
+2. Sie dürfte den Termin vergessen. → Sie dürfte den Termin ______. (vergessen)
 3. Er soll dort sein. → Er soll dort ______.
 4. Er will alles sehen. → Er will alles ______.
 5. Das kann ein Irrtum sein. → Das kann ein Irrtum ______.

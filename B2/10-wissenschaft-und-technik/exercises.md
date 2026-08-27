@@ -179,7 +179,7 @@ Setze von oder durch ein. ⚠️ Personen/Institutionen → von + Dat.; Mittel/U
 2. Die Daten wurden ______ ein automatisiertes Verfahren erhoben.
 3. Die Methodik wurde ______ drei Gutachtern geprüft.
 4. Die Schäden wurden ______ das Erdbeben verursacht.
-5. Die Forschung wird ______ dem Bundesministerium gefördert.
+5. Die Forschung wird ______ der Deutschen Forschungsgemeinschaft gefördert.
 6. Das Ergebnis wurde ______ eine zweite Studie bestätigt.
 7. Die Hypothese wurde ______ vielen Forschern in Frage gestellt.
 8. Die Erkenntnis wurde ______ ein Experiment gewonnen.
@@ -447,7 +447,7 @@ Eine Minute pro Item. Keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen 
 7. Die Veröffentlichung ______ Ergebnisse erfolgte im Juni.
 
 **Agent (von / durch):**
-8. Die Studie wurde ______ dem Max-Planck-Institut durchgeführt.
+8. Die Studie wurde ______ der Universität Heidelberg durchgeführt.
 9. Die Schäden wurden ______ das Erdbeben verursacht.
 
 **FVG der Wissenschaft:**
@@ -509,7 +509,7 @@ Wiederholung früherer Lektionen. 10 Items.
 9. die Veröffentlichung ______ Ergebnisse:
 
 **Agent von / durch:**
-10. Die Studie wurde ______ dem Max-Planck-Institut durchgeführt.
+10. Die Studie wurde ______ der Universität Heidelberg durchgeführt.
 11. Die Schäden wurden ______ das Erdbeben verursacht.
 
 **FVG der Wissenschaft:**

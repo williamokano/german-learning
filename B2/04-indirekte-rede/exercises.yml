@@ -340,7 +340,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Verben des Sagens + Konjunktiv I"
-    instructions: "Setz das Einleitungsverb (Präteritum) und den Konjunktiv I richtig zusammen. 6 Items."
+    instructions: "Setz das Einleitungsverb (Präteritum) und den Konjunktiv I richtig zusammen. 3 Items, 6 Lücken."
     text: |
       1. Er {1} (behaupten), er {2} (haben) nichts getan.
       2. Sie {3} (betonen), sie {4} (sein) zu Gesprächen bereit.

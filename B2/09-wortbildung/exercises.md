@@ -45,7 +45,7 @@ Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel.
 > werden", und (7) ______ macht daraus ein Nomen. Wer diese Bausteine kennt, hat das
 > System in der Hand.
 
-> (entschlüsseln · Entscheidung · Kompositum · Klimaschutz · Bezahlbarkeit · Endung · Vorsilbe · Missverständnis · Verständnis · Entscheidung)
+> (entschlüsseln · Entscheidung · Kompositum · Klimaschutz · Bezahlbarkeit · Endung · Nachsilbe · Vorsilbe · Missverständnis · Verständnis)
 
 ## Übung H4 — Kurze Ansage: Ansage aus dem Sprachzentrum
 
@@ -353,7 +353,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.
 
 > Aus einem Zeitungsartikel: Die (1) (1) ______ ist in Berlin seit Monaten das
-> wichtigste (2) (2) ______. Viele (3) (3) ______ — also Leute, die Entscheidungen treffen
+> wichtigste Thema. Sie beherrscht jedes (2) (2) ______. Viele (3) (3) ______ — also Leute, die Entscheidungen treffen
 > — haben die (4) (4) ______ des Themas inzwischen erkannt. Eine zentrale Frage ist
 > die (5) (5) ______ von Wohnraum: Wenn die Mieten weiter steigen, ist bezahlbares
 > Wohnen bald nicht mehr (6) (6) ______. Auch das (7) (7) ______ in die politischen

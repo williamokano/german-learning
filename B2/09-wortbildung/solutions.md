@@ -21,7 +21,7 @@
 
 ## Übung H3 — Hörtext-Lückentext: Annas Erklärung im Sprachkurs
 
-1. **entschlüsseln**  2. **Entscheidung**  3. **Entscheidung**  4. **Endung**  5. **Klimaschutz**  6. **Bezahlbarkeit**  7. **Vorsilbe**
+1. **entschlüsseln**  2. **Entscheidung**  3. **Entscheidung**  4. **Endung**  5. **Klimaschutz**  6. **Bezahlbarkeit**  7. **Nachsilbe**
 
 ## Übung H4 — Kurze Ansage: Ansage aus dem Sprachzentrum
 

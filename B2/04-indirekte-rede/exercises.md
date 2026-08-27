@@ -166,7 +166,7 @@ Gib die Aufforderung in der indirekten Rede mit sollen wieder. 5 Items.
 
 ## Übung A10 — Verben des Sagens + Konjunktiv I
 
-Setz das Einleitungsverb (Präteritum) und den Konjunktiv I richtig zusammen. 6 Items.
+Setz das Einleitungsverb (Präteritum) und den Konjunktiv I richtig zusammen. 3 Items, 6 Lücken.
 
 1. Er ______ (behaupten), er ______ (haben) nichts getan.
 2. Sie ______ (betonen), sie ______ (sein) zu Gesprächen bereit.
