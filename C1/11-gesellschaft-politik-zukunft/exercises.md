@@ -100,13 +100,13 @@ Wähle die Formulierung mit dem passenden zweiteiligen Konnektor.
 Setze die Verben in den Konjunktiv I (Wiederholung C1/05). 8 Items.
 
 1. (sein, Sg.) Der Bundesrechnungshof betont, die Reform ______ unzureichend.
-2. (sein, Pl.) Kritiker bezweifeln, dass diese Trennung ______ aufrechtzuerhalten.
+2. (sein, Pl.) Kritiker bezweifeln, dass diese Grenzen ______ aufrechtzuerhalten.
 3. (haben) Befürworter argumentieren, die KI ______ entlastende Wirkung.
 4. (müssen) Sie sagen, man ______ stärker in Weiterbildung investieren.
 5. (geben) Die Autorin betont, es ______ verlässliche Daten.
 6. (sein, Sg.) Sie meint, der Datenschutz ______ nicht verhandelbar.
 7. (werden) Die Forschenden erklären, das Berufsbild ______ sich verändern.
-8. (können, 3. Pl.) Sie behaupten, KI ______ Lehrkräfte nicht ersetzen.
+8. (können, 3. Pl. — Ersatzform) Sie behaupten, solche Systeme ______ Lehrkräfte nicht ersetzen.
 
 ## Übung A3 — Hedging bei Prognosen — welche Formulierung ist vorsichtig?
 
@@ -198,9 +198,9 @@ Bring die Wörter in die richtige Reihenfolge.
 
 ## Übung A11 — Versprachlichung von Anteilen und Veränderungen
 
-Setze das passende Wort ein. 6 Items.
+Setze das passende Wort ein. 5 Items, 6 Lücken.
 
-1. ______ einem Viertel der Bevölkerung ist über 65.
+1. ______ ein Viertel der Bevölkerung ist über 65.
 2. Die Zahl der Pflegebedürftigen ______ sich um rund 30 Prozent ______.
 3. Im Vergleich zu 1990 hat sich der Anteil der über 65-Jährigen ______.
 4. Seit ______ ist ein Trend zur Überalterung zu beobachten.

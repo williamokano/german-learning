@@ -52,7 +52,7 @@
 
 ## Übung A2 — Konjunktiv I für fremde Positionen
 
-1. **sei**  2. **seien**  3. **habe**  4. **müsse**  5. **gebe**  6. **sei**  7. **werde**  8. **können**
+1. **sei**  2. **seien**  3. **habe**  4. **müsse**  5. **gebe**  6. **sei**  7. **werde**  8. **könnten**
 
 ## Übung A3 — Hedging bei Prognosen — welche Formulierung ist vorsichtig?
 

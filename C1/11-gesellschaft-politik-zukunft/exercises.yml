@@ -212,13 +212,13 @@ exercises:
     instructions: 'Setze die Verben in den Konjunktiv I (Wiederholung C1/05). 8 Items.'
     text: |
       1. (sein, Sg.) Der Bundesrechnungshof betont, die Reform {1} unzureichend.
-      2. (sein, Pl.) Kritiker bezweifeln, dass diese Trennung {2} aufrechtzuerhalten.
+      2. (sein, Pl.) Kritiker bezweifeln, dass diese Grenzen {2} aufrechtzuerhalten.
       3. (haben) Befürworter argumentieren, die KI {3} entlastende Wirkung.
       4. (müssen) Sie sagen, man {4} stärker in Weiterbildung investieren.
       5. (geben) Die Autorin betont, es {5} verlässliche Daten.
       6. (sein, Sg.) Sie meint, der Datenschutz {6} nicht verhandelbar.
       7. (werden) Die Forschenden erklären, das Berufsbild {7} sich verändern.
-      8. (können, 3. Pl.) Sie behaupten, KI {8} Lehrkräfte nicht ersetzen.
+      8. (können, 3. Pl. — Ersatzform) Sie behaupten, solche Systeme {8} Lehrkräfte nicht ersetzen.
     answers:
       "1": sei
       "2": seien
@@ -227,7 +227,7 @@ exercises:
       "5": gebe
       "6": sei
       "7": werde
-      "8": können
+      "8": könnten
 
   - id: A3
     block: A
@@ -473,9 +473,9 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Versprachlichung von Anteilen und Veränderungen'
-    instructions: 'Setze das passende Wort ein. 6 Items.'
+    instructions: 'Setze das passende Wort ein. 5 Items, 6 Lücken.'
     text: |
-      1. {1} einem Viertel der Bevölkerung ist über 65.
+      1. {1} ein Viertel der Bevölkerung ist über 65.
       2. Die Zahl der Pflegebedürftigen {2} sich um rund 30 Prozent {3}.
       3. Im Vergleich zu 1990 hat sich der Anteil der über 65-Jährigen {4}.
       4. Seit {5} ist ein Trend zur Überalterung zu beobachten.
