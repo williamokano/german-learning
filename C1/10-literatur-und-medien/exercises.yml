@@ -306,7 +306,7 @@ exercises:
     title: 'Rhetorische Figuren einsetzen'
     instructions: 'Setze die passende Figur ein (Anapher, Trikolon, Antithese, Oxymoron, Chiasmus). 6 Items.'
     text: |
-      1. Die Stadt {1}. Die Stadt {2}. Die Stadt {3}. (Anapher — gleicher Satzanfang, dreimal dasselbe Verb)
+      1. Die Stadt {1}. Die Stadt {2}. Die Stadt {3}. (Anapher — gleicher Satzanfang, drei verschiedene Verben)
       2. „Ehre, Pflicht, {4}." (Trikolon — das dritte Glied fehlt)
       3. „Die einen für die {5}, die anderen für die Sicherheit." (Antithese — Gegenüberstellung)
       4. „{6} Schweigen." (Oxymoron — widersprüchliche Adjektiv-Substantiv-Verbindung)
@@ -314,8 +314,8 @@ exercises:
       6. „Er kam, er sah, er {8}." (Trikolon — drittes Glied)
     answers:
       "1": schweigt
-      "2": schweigt
-      "3": schweigt
+      "2": wartet
+      "3": vergisst
       "4": Vaterland
       "5": Freiheit
       "6": Beredtes
@@ -467,16 +467,16 @@ exercises:
       1. „Heimat" ruft Bilder von „Dorf, Wald, Kindheit" hervor = {1}.
       2. „Heimat" weckt Gefühle von „Geborgenheit, Verlust" = {2}.
       3. „Heimat" signalisiert in einem AfD-Programm „Schutz" = {3}.
-      4. „Heimat" klingt emotional aufgeladen = {4}.
+      4. „Heimat" klingt im Werbetext warm und werbend = {4}.
       5. „entschlummern" statt „sterben" = gehoben, also {5}.
-      6. „November 1938" steht für die Pogromnacht = {6}.
+      6. „November 1938" steht für die Pogromnacht = {6}konnotation.
     answers:
       "1": Sachkonnotation
       "2": Emotionskonnotation
       "3": Ideologiekonnotation
-      "4": Register
+      "4": Wertungskonnotation
       "5": Euphemismus
-      "6": historisch
+      "6": Historische
 
   - id: A11
     block: A
@@ -805,11 +805,11 @@ exercises:
     text: |
       Literatur lebt von {1}. Wer „die Stadt schläft" schreibt, nutzt eine
       {2} — Städte schlafen nicht, also wird ein menschliches Verb auf ein
-      Abstraktes übertragen. Eine {3} wie „wie ein Dschungel" markiert
+      Abstraktes übertragen. Ein {3} wie „wie ein Dschungel" markiert
       den Vergleich; eine Metapher {4} ohne „wie". Wer eine Taube auf
       einem Platz zeigt, arbeitet mit einem {5}: die Taube steht für
       den Frieden. „Berlin hat entschieden" ist eine {6} — Berlin steht
-      für die Regierung. Der {7} — der Erzähler — kann Ich-Erzähler,
+      für die Regierung. Der {7} kann Ich-Erzähler,
       personal oder {8} sein; jede Perspektive erzeugt eine andere
       Wirkung. Im {9} zählt jede Konnotation, im Feuilleton jede Pointe.
       Wichtig: auf C1 dosieren — wer {10} Bilder stapelt, klingt nicht

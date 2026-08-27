@@ -69,7 +69,7 @@
 
 ## Übung A5 — Rhetorische Figuren einsetzen
 
-1. **schweigt**  2. **schweigt**  3. **schweigt**  4. **Vaterland**  5. **Freiheit**  6. **Beredtes**  7. **ist**  8. **siegte**
+1. **schweigt**  2. **wartet**  3. **vergisst**  4. **Vaterland**  5. **Freiheit**  6. **Beredtes**  7. **ist**  8. **siegte**
 
 ## Übung A6 — Rhetorische Figuren: Definition zuordnen
 
@@ -97,7 +97,7 @@
 
 ## Übung A10 — Konnotationen bestimmen
 
-1. **Sachkonnotation**  2. **Emotionskonnotation**  3. **Ideologiekonnotation**  4. **Register**  5. **Euphemismus**  6. **historisch**
+1. **Sachkonnotation**  2. **Emotionskonnotation**  3. **Ideologiekonnotation**  4. **Wertungskonnotation**  5. **Euphemismus**  6. **Historische**
 
 ## Übung A11 — Aufbau eines Hörfunk-Features
 

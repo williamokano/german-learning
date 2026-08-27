@@ -133,7 +133,7 @@ Welche Konnotation hat das Wort im gegebenen Kontext?
 
 Setze die passende Figur ein (Anapher, Trikolon, Antithese, Oxymoron, Chiasmus). 6 Items.
 
-1. Die Stadt ______. Die Stadt ______. Die Stadt ______. (Anapher — gleicher Satzanfang, dreimal dasselbe Verb)
+1. Die Stadt ______. Die Stadt ______. Die Stadt ______. (Anapher — gleicher Satzanfang, drei verschiedene Verben)
 2. „Ehre, Pflicht, ______." (Trikolon — das dritte Glied fehlt)
 3. „Die einen für die ______, die anderen für die Sicherheit." (Antithese — Gegenüberstellung)
 4. „______ Schweigen." (Oxymoron — widersprüchliche Adjektiv-Substantiv-Verbindung)
@@ -196,9 +196,9 @@ Setze den passenden Konnotationstyp ein. 6 Items.
 1. „Heimat" ruft Bilder von „Dorf, Wald, Kindheit" hervor = ______.
 2. „Heimat" weckt Gefühle von „Geborgenheit, Verlust" = ______.
 3. „Heimat" signalisiert in einem AfD-Programm „Schutz" = ______.
-4. „Heimat" klingt emotional aufgeladen = ______.
+4. „Heimat" klingt im Werbetext warm und werbend = ______.
 5. „entschlummern" statt „sterben" = gehoben, also ______.
-6. „November 1938" steht für die Pogromnacht = ______.
+6. „November 1938" steht für die Pogromnacht = ______konnotation.
 
 ## Übung A11 — Aufbau eines Hörfunk-Features
 
@@ -346,11 +346,11 @@ Füll jede Lücke mit **einem** passenden Wort. 10 Items.
 
 Literatur lebt von ______. Wer „die Stadt schläft" schreibt, nutzt eine
 ______ — Städte schlafen nicht, also wird ein menschliches Verb auf ein
-Abstraktes übertragen. Eine ______ wie „wie ein Dschungel" markiert
+Abstraktes übertragen. Ein ______ wie „wie ein Dschungel" markiert
 den Vergleich; eine Metapher ______ ohne „wie". Wer eine Taube auf
 einem Platz zeigt, arbeitet mit einem ______: die Taube steht für
 den Frieden. „Berlin hat entschieden" ist eine ______ — Berlin steht
-für die Regierung. Der ______ — der Erzähler — kann Ich-Erzähler,
+für die Regierung. Der ______ kann Ich-Erzähler,
 personal oder ______ sein; jede Perspektive erzeugt eine andere
 Wirkung. Im ______ zählt jede Konnotation, im Feuilleton jede Pointe.
 Wichtig: auf C1 dosieren — wer ______ Bilder stapelt, klingt nicht
