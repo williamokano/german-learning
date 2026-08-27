@@ -192,14 +192,14 @@ exercises:
     title: "Nominalendung im Genitiv: -es oder -s?"
     instructions: "Add the correct Genitiv ending to each noun in bold. Write the complete Genitiv form."
     text: |
-      1. der Name des **Vater**{1}
-      2. der Preis des **Haus**{2}
-      3. das Büro des **Kollege**{3} (n-Deklination!)
-      4. die Farbe des **Kind**{4}
-      5. die Meinung des **Mensch**{5} (n-Deklination!)
-      6. der Autor des **Artikel**{6}
-      7. die Pflicht des **Mieter**{7}
-      8. die Größe des **Gebäude**{8}
+      1. der Name des {1} (Vater)
+      2. der Preis des {2} (Haus)
+      3. das Büro des {3} (Kollege — n-Deklination!)
+      4. die Farbe des {4} (Kind)
+      5. die Meinung des {5} (Mensch — n-Deklination!)
+      6. der Autor des {6} (Artikel)
+      7. die Pflicht des {7} (Mieter)
+      8. die Größe des {8} (Gebäude)
     answers:
       "1": "Vaters"
       "2": "Hauses"
@@ -217,12 +217,12 @@ exercises:
     title: "Genitivpräpositionen: wegen / trotz / während / statt"
     instructions: "Fill each gap with the correct preposition and Genitiv article."
     text: |
-      1. _______ {1} Regens blieben wir zu Hause. (because of — der Regen)
-      2. _______ {2} starken Lärms konnte ich nicht schlafen. (despite — der Lärm)
-      3. _______ {3} Vorlesung darf man nicht telefonieren. (during — die Vorlesung)
-      4. _______ {4} Tees trank er Kaffee. (instead of — der Tee)
-      5. _______ {5} Umbaus ist die Mensa geschlossen. (because of — der Umbau)
-      6. _______ {6} Erkältung ging er trotzdem ins Büro. (despite — die Erkältung)
+      1. {1} Regens blieben wir zu Hause. (because of — der Regen)
+      2. {2} starken Lärms konnte ich nicht schlafen. (despite — der Lärm)
+      3. {3} Vorlesung darf man nicht telefonieren. (during — die Vorlesung)
+      4. {4} Tees trank er Kaffee. (instead of — der Tee)
+      5. {5} Umbaus ist die Mensa geschlossen. (because of — der Umbau)
+      6. {6} Erkältung ging er trotzdem ins Büro. (despite — die Erkältung)
     answers:
       "1": "Wegen des"
       "2": "Trotz des"
@@ -280,12 +280,12 @@ exercises:
     title: "von + Dativ ↔ Genitiv: beide Formen"
     instructions: "Transform each sentence into both forms: (a) Genitiv, (b) von + Dativ."
     text: |
-      1a. Das ist das Auto _____ (mein Vater — Genitiv). {1}
-      1b. Das ist das Auto _____ (mein Vater — von + Dativ). {2}
-      2a. Wir kennen die Meinung _____ (der Professor — Genitiv). {3}
-      2b. Wir kennen die Meinung _____ (der Professor — von + Dativ). {4}
-      3a. Das ist die Theorie _____ (ein Kollege — Genitiv). {5}
-      3b. Das ist die Theorie _____ (ein Kollege — von + Dativ). {6}
+      1a. Das ist das Auto {1}. (mein Vater — Genitiv)
+      1b. Das ist das Auto {2}. (mein Vater — von + Dativ)
+      2a. Wir kennen die Meinung {3}. (der Professor — Genitiv)
+      2b. Wir kennen die Meinung {4}. (der Professor — von + Dativ)
+      3a. Das ist die Theorie {5}. (ein Kollege — Genitiv)
+      3b. Das ist die Theorie {6}. (ein Kollege — von + Dativ)
     answers:
       "1": "meines Vaters"
       "2": "von meinem Vater"
@@ -377,7 +377,7 @@ exercises:
     title: "Finde den Fehler — Dativ statt Genitiv"
     instructions: "Each sentence contains a Genitiv error (Dativ used instead of Genitiv, or wrong noun ending). Write the corrected sentence."
     text: |
-      1. Das ist das Auto von dem Professor. (formal → Genitiv) {1}
+      1. Das ist das Auto vom Professor. (formal → Genitiv) {1}
       2. wegen dem schlechten Wetter blieben wir zu Hause {2}
       3. die Meinung dem Studenten ist interessant {3}
       4. trotz dem Lärm hat er geschlafen {4}
@@ -505,12 +505,12 @@ exercises:
     title: "von + Dativ → Genitiv (formelle Schreibweise)"
     instructions: "Transform each informal phrase into formal Genitiv."
     text: |
-      1. das Buch von meinem Vater → das Buch _____ {1}
-      2. die Meinung von der Lehrerin → die Meinung _____ {2}
-      3. das Auto von einem Studenten → das Auto _____ {3}
-      4. die Idee von dem Kollegen → die Idee _____ {4}
-      5. die Theorie von einem Philosophen → die Theorie _____ {5}
-      6. die Ergebnisse von der Forschungsgruppe → die Ergebnisse _____ {6}
+      1. das Buch von meinem Vater → das Buch {1}
+      2. die Meinung von der Lehrerin → die Meinung {2}
+      3. das Auto von einem Studenten → das Auto {3}
+      4. die Idee von dem Kollegen → die Idee {4}
+      5. die Theorie von einem Philosophen → die Theorie {5}
+      6. die Ergebnisse von der Forschungsgruppe → die Ergebnisse {6}
     answers:
       "1": "meines Vaters"
       "2": "der Lehrerin"

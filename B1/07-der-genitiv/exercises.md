@@ -99,25 +99,25 @@ Fill each gap with the correct Genitiv article. Pay attention to gender.
 
 Add the correct Genitiv ending to each noun in bold. Write the complete Genitiv form.
 
-1. der Name des **Vater**(1) ______
-2. der Preis des **Haus**(2) ______
-3. das Büro des **Kollege**(3) ______ (n-Deklination!)
-4. die Farbe des **Kind**(4) ______
-5. die Meinung des **Mensch**(5) ______ (n-Deklination!)
-6. der Autor des **Artikel**(6) ______
-7. die Pflicht des **Mieter**(7) ______
-8. die Größe des **Gebäude**(8) ______
+1. der Name des (1) ______ (Vater)
+2. der Preis des (2) ______ (Haus)
+3. das Büro des (3) ______ (Kollege — n-Deklination!)
+4. die Farbe des (4) ______ (Kind)
+5. die Meinung des (5) ______ (Mensch — n-Deklination!)
+6. der Autor des (6) ______ (Artikel)
+7. die Pflicht des (7) ______ (Mieter)
+8. die Größe des (8) ______ (Gebäude)
 
 ## Übung A4 — Genitivpräpositionen: wegen / trotz / während / statt
 
 Fill each gap with the correct preposition and Genitiv article.
 
-1. _______ (1) ______ Regens blieben wir zu Hause. (because of — der Regen)
-2. _______ (2) ______ starken Lärms konnte ich nicht schlafen. (despite — der Lärm)
-3. _______ (3) ______ Vorlesung darf man nicht telefonieren. (during — die Vorlesung)
-4. _______ (4) ______ Tees trank er Kaffee. (instead of — der Tee)
-5. _______ (5) ______ Umbaus ist die Mensa geschlossen. (because of — der Umbau)
-6. _______ (6) ______ Erkältung ging er trotzdem ins Büro. (despite — die Erkältung)
+1. (1) ______ Regens blieben wir zu Hause. (because of — der Regen)
+2. (2) ______ starken Lärms konnte ich nicht schlafen. (despite — der Lärm)
+3. (3) ______ Vorlesung darf man nicht telefonieren. (during — die Vorlesung)
+4. (4) ______ Tees trank er Kaffee. (instead of — der Tee)
+5. (5) ______ Umbaus ist die Mensa geschlossen. (because of — der Umbau)
+6. (6) ______ Erkältung ging er trotzdem ins Büro. (despite — die Erkältung)
 
 ## Übung A5 — n-Deklination im Genitiv
 
@@ -145,12 +145,12 @@ Write the correct Genitive form of the name in parentheses.
 
 Transform each sentence into both forms: (a) Genitiv, (b) von + Dativ.
 
-1a. Das ist das Auto _____ (mein Vater — Genitiv). (1) ______
-1b. Das ist das Auto _____ (mein Vater — von + Dativ). (2) ______
-2a. Wir kennen die Meinung _____ (der Professor — Genitiv). (3) ______
-2b. Wir kennen die Meinung _____ (der Professor — von + Dativ). (4) ______
-3a. Das ist die Theorie _____ (ein Kollege — Genitiv). (5) ______
-3b. Das ist die Theorie _____ (ein Kollege — von + Dativ). (6) ______
+1a. Das ist das Auto (1) ______. (mein Vater — Genitiv)
+1b. Das ist das Auto (2) ______. (mein Vater — von + Dativ)
+2a. Wir kennen die Meinung (3) ______. (der Professor — Genitiv)
+2b. Wir kennen die Meinung (4) ______. (der Professor — von + Dativ)
+3a. Das ist die Theorie (5) ______. (ein Kollege — Genitiv)
+3b. Das ist die Theorie (6) ______. (ein Kollege — von + Dativ)
 
 ## Übung A8 — Genitivphrasen zusammensetzen
 
@@ -201,7 +201,7 @@ Yusuf: Danke. Statt (6) ______ (einer langen Einleitung / die lange Einleitung /
 
 Each sentence contains a Genitiv error (Dativ used instead of Genitiv, or wrong noun ending). Write the corrected sentence.
 
-1. Das ist das Auto von dem Professor. (formal → Genitiv) (1) ______
+1. Das ist das Auto vom Professor. (formal → Genitiv) (1) ______
 2. wegen dem schlechten Wetter blieben wir zu Hause (2) ______
 3. die Meinung dem Studenten ist interessant (3) ______
 4. trotz dem Lärm hat er geschlafen (4) ______
@@ -255,12 +255,12 @@ Fill each gap with the correct form of the n-Deklination noun in parentheses.
 
 Transform each informal phrase into formal Genitiv.
 
-1. das Buch von meinem Vater → das Buch _____ (1) ______
-2. die Meinung von der Lehrerin → die Meinung _____ (2) ______
-3. das Auto von einem Studenten → das Auto _____ (3) ______
-4. die Idee von dem Kollegen → die Idee _____ (4) ______
-5. die Theorie von einem Philosophen → die Theorie _____ (5) ______
-6. die Ergebnisse von der Forschungsgruppe → die Ergebnisse _____ (6) ______
+1. das Buch von meinem Vater → das Buch (1) ______
+2. die Meinung von der Lehrerin → die Meinung (2) ______
+3. das Auto von einem Studenten → das Auto (3) ______
+4. die Idee von dem Kollegen → die Idee (4) ______
+5. die Theorie von einem Philosophen → die Theorie (5) ______
+6. die Ergebnisse von der Forschungsgruppe → die Ergebnisse (6) ______
 
 ## Übung B8 — Leseverständnis: Mietvertrag (Lesetext)
 

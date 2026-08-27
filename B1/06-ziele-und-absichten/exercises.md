@@ -268,7 +268,7 @@ ich bewerbe mich für die ausgeschriebene Stelle als Marketing-Managerin,
 (1) ______ meine Erfahrungen in einem innovativen Unternehmen (2) ______. (einsetzen — same subj.)
 
 In meiner bisherigen Tätigkeit habe ich gelernt, Kampagnen gezielt zu planen,
-(3) ______ unsere Zielgruppen besser (4) ______. (erreichen können — das Unternehmen)
+(3) ______ das Unternehmen unsere Zielgruppen besser (4) ______. (erreichen können)
 
 Ich hoffe, in Ihrem Team (5) ______, und ich bitte Sie, meine
 Bewerbungsunterlagen (6) ______. (sorgfältig prüfen)
