@@ -94,7 +94,7 @@
 
 ## Übung A9 — Falsche Freunde korrigieren
 
-1. **Eigentlich**  2. **erkenne**  3. **Schließlich**  4. **fühle**  5. **vernünftige**  6. **Irgendwann**
+1. **Eigentlich**  2. **erkenne**  3. **Schließlich**  4. **fühle**  5. **vernünftige**  6. **Koch**
 
 ## Übung A10 — Registergerechte Wortwahl
 
@@ -214,7 +214,7 @@ Selbstkorrektur:
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-1. **ERSATZ**  2. **PROBLEM**  3. **BEWERTET**  4. **LÖST**  5. **NIMMT**  6. **UNTERSUCHEN**  7. **TESTEN**  8. **FALSCHE_FREUNDE**  9. **EIGENTLICH**  10. **ERKENNEN**
+1. **ERSATZ**  2. **PROBLEM**  3. **BEWERTET**  4. **LÖST**  5. **NIMMT**  6. **UNTERSUCHEN**  7. **TESTEN**  8. **FALSCHE FREUNDE**  9. **EIGENTLICH**  10. **ERKENNEN**
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Warum gibt es im Deutschen so viele „synonyme" Wörter?)
 

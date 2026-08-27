@@ -54,7 +54,7 @@
 
 ## Übung A2 — Konnektorenpaare ergänzen
 
-1. **dass**  2. **Schüler individuell gefördert werden können**  3. **Andererseits**  4. **jedoch**  5. **fehlt eine klare Regelung**  6. **nicht**  7. **sondern**  8. **auch**
+1. **dass**  2. **Schüler individuell gefördert werden können**  3. **Andererseits**  4. **jedoch**  5. **fehlt eine klare Regelung**  6. **nicht nur**  7. **sondern**  8. **auch**
 
 ## Übung A3 — Zusammenfassung — linear oder selektiv?
 
