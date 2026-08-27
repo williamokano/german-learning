@@ -12,7 +12,7 @@
 
 ## Übung A2 — Wo ist das Problem? Wechselpräpositionen
 
-1. **der**  2. **die**  3. **dem**  4. **der**  5. **den**  6. **der**  7. **dem**  8. **dem**
+1. **der**  2. **die**  3. **im**  4. **der**  5. **den**  6. **der**  7. **im**  8. **dem**
 
 ## Übung A3 — Frage und Antwort an der Tür
 

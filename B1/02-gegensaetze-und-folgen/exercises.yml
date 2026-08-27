@@ -227,14 +227,38 @@ exercises:
       7. Ich habe keine Zeit mehr. {7} komme ich nicht mit.
       8. Die Förderung ist gesichert. {8} suchen wir nur noch privates Kapital.
     answers:
-      "1": Deshalb
-      "2": Deshalb
-      "3": Deshalb
-      "4": Deshalb
-      "5": Deshalb
-      "6": Deshalb
-      "7": Deshalb
-      "8": Deshalb
+      "1":
+        - Deshalb
+        - Darum
+        - Deswegen
+      "2":
+        - Deshalb
+        - Darum
+        - Deswegen
+      "3":
+        - Deshalb
+        - Darum
+        - Deswegen
+      "4":
+        - Deshalb
+        - Darum
+        - Deswegen
+      "5":
+        - Deshalb
+        - Darum
+        - Deswegen
+      "6":
+        - Deshalb
+        - Darum
+        - Deswegen
+      "7":
+        - Deshalb
+        - Darum
+        - Deswegen
+      "8":
+        - Deshalb
+        - Darum
+        - Deswegen
 
   - id: A5
     block: A
@@ -405,7 +429,7 @@ exercises:
       "4": aber
       "5": Obwohl
       "6": Trotzdem
-      "7": Trotzdem
+      "7": Deshalb
       "8": Trotzdem
 
   - id: B2
@@ -537,9 +561,10 @@ exercises:
       den Ausbau von Ladestationen und Radwegen. Das Ergebnis ist zwar noch
       nicht perfekt, {3} die Tendenz ist eindeutig positiv. Viele Bürger
       nutzen {4} ihr Auto immer noch, weil öffentliche Verkehrsmittel nicht
-      überall verlässlich sind. {5} suchen Startups wie das von Tomáš nach
-      Lösungen für die Randbezirke, wo der ÖPNV besonders schwach ist.
-      Nachhaltigkeit und Wirtschaftlichkeit schließen sich {6} nicht aus —
+      überall verlässlich sind, aber immer mehr steigen auf Rad und Bahn um.
+      {5} suchen Startups wie das von Tomáš nach Lösungen für die Randbezirke,
+      wo der ÖPNV besonders schwach ist. Solche Projekte sind teuer.
+      {6} schließen sich Nachhaltigkeit und Wirtschaftlichkeit nicht aus —
       im Gegenteil: Sie ergänzen sich.
     answers:
       "1": Obwohl
@@ -547,7 +572,7 @@ exercises:
       "3": aber
       "4": zwar
       "5": Deswegen
-      "6": dennoch
+      "6": Dennoch
 
   - id: B7
     block: B
@@ -562,7 +587,7 @@ exercises:
          → Berlin ist {3} hektisch, {4} ich liebe es trotzdem.
       3. Die Präsentation war kurz. Sie war aber sehr überzeugend.
          → Die Präsentation war {5} kurz, {6} sie war sehr überzeugend.
-      4. Prag ist günstig. Berlin bietet aber mehr Netzwerk.
+      4. Prag ist günstiger. Berlin bietet aber mehr Netzwerk.
          → Prag ist {7} günstiger, {8} Berlin bietet mehr Netzwerk.
     answers:
       "1": zwar

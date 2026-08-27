@@ -260,7 +260,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Schnelltest
 
-1. **der**  2. **die**  3. **das**  4. **die**  5. **der**  6. **die**  7. **den**  8. **den**  9. ****  10. **er**  11. **Neffen**  12. **wird**  13. **Könnten**  14. **e**  15. **der**  16. **die**
+1. **der**  2. **die**  3. **das**  4. **die**  5. **der**  6. **die**  7. **den**  8. **den**  9. **ein**  10. **er**  11. **Neffen**  12. **wird**  13. **Könnten**  14. **e**  15. **der**  16. **die**
 
 ## Übung D2 — Odd-one-out
 

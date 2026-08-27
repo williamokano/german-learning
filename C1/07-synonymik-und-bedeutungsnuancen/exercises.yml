@@ -447,16 +447,16 @@ exercises:
       1. „Actually, ich habe heute keine Zeit." → {1} habe ich heute keine Zeit.
       2. „Ich realisiere jetzt erst, dass das falsch war." → Ich {2} jetzt erst, dass das falsch war.
       3. „Eventually schaffe ich das." → {3} schaffe ich das.
-      4. „Ich sympathisiere mit ihrem Schmerz." → Ich {4} mit ihrem Schmerz.
+      4. „Ich sympathisiere mit ihr in ihrem Schmerz." → Ich {4} mit ihr.
       5. „Das ist eine sensible Lösung." → Das ist eine {5} Lösung.
-      6. „Bald werde ich mein Studium beenden." → {6} werde ich mein Studium beenden.
+      6. „Der Chef hat das Menü gekocht." (chef = ?) → Der {6} hat das Menü gekocht.
     answers:
       "1": Eigentlich
       "2": erkenne
       "3": Schließlich
       "4": fühle
       "5": vernünftige
-      "6": Irgendwann
+      "6": Koch
 
   - id: A10
     block: A
@@ -953,7 +953,7 @@ exercises:
       *{7}* ist praktisch. Auch {8} zählen: *aktuell*
       heißt NICHT ‚{9}‘, und *realisieren* heißt ‚verwirklichen‘,
       nicht ‚{10}‘. Wer das beachtet, schreibt präzise."
-    bank: [ERSATZ, PROBLEM, BEWERTET, LÖST, NIMMT, UNTERSUCHEN, TESTEN, FALSCHE_FREUNDE, EIGENTLICH, ERKENNEN, REGISTER, VERMEIDEN, KONTEXT, FOLGE, ÜBERNEHMEN]
+    bank: [ERSATZ, PROBLEM, BEWERTET, LÖST, NIMMT, UNTERSUCHEN, TESTEN, FALSCHE FREUNDE, EIGENTLICH, ERKENNEN, REGISTER, VERMEIDEN, KONTEXT, FOLGE, ÜBERNEHMEN]
     answers:
       "1": ERSATZ
       "2": PROBLEM
@@ -962,7 +962,7 @@ exercises:
       "5": NIMMT
       "6": UNTERSUCHEN
       "7": TESTEN
-      "8": FALSCHE_FREUNDE
+      "8": FALSCHE FREUNDE
       "9": EIGENTLICH
       "10": ERKENNEN
 

@@ -250,7 +250,9 @@ exercises:
       9. 11:50 = {9}
       10. 12:30 = {10}
     answers:
-      "1": "drei (Uhr)"
+      "1":
+        - "drei"
+        - "drei Uhr"
       "2": "fünf nach vier"
       "3": "Viertel nach neun"
       "4": "halb drei"
@@ -518,7 +520,7 @@ exercises:
       5. Der Film fängt {5} acht Uhr an. (am → ?)
       6. „Halb acht" ist {6} Uhr. (8:30 → ?)
       7. Ich {7} abends. (fernsehe → ?)
-      8. Anna ruft {8} ihre Eltern. (an → ?)
+      8. Anna ruft ihre Eltern {8}. (Anna ruft an ihre Eltern → ?)
       9. Ich arbeite von Montag {9} Freitag. (zu → ?)
       10. {10} Nacht schlafe ich gut. (In die → ?)
     answers:

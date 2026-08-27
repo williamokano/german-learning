@@ -50,12 +50,12 @@ exercises:
     instructions: "Ergänze das richtige Partizip II. Der Kontext entscheidet, ob das Präfix trennbar oder untrennbar ist."
     instructionsEn: "Fill in the correct Partizip II — context decides whether the prefix is separable or inseparable here."
     text: |
-      1. Er ist mit dem Auto um den Stau herum gefahren. Er hat den Stau {1}.
+      1. Er ist mit dem Auto um den Stau herumgefahren. Er hat den Stau {1}.
       2. Der Lastwagen hat das Verkehrsschild {2}.
       3. Die Dolmetscherin hat den Vortrag simultan {3}.
       4. Der Bootsführer hat die Touristen zur Insel {4}.
       5. Der Fahrer hat vorsichtig das Loch in der Straße {5}.
-      6. Bei dem Unfall hat der Bus fast einen Baum {6}.
+      6. Beim Unfall hat der Bus fast einen Baum {6}.
     answers:
       "1": umfahren
       "2": umgefahren

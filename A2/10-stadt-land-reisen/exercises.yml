@@ -228,7 +228,7 @@ exercises:
       5. Anna ist {5} Russland gekommen.
       6. Fährst du {6} die Schweiz in den Urlaub?
       7. Die Touristen kommen {7} den USA.
-      8. Ich gehe {8} den Bahnhof.
+      8. Ich gehe {8} Bahnhof.
       9. Sie wohnt jetzt {9} der Türkei.
       10. Wir fliegen morgen {10} den Iran.
     answers:
@@ -385,10 +385,10 @@ exercises:
     instructions: "Wähle aus oder von. 8 Aufgaben."
     instructionsEn: "Choose aus or von. 8 items."
     text: |
-      1. Ich komme {1} dem Supermarkt.
+      1. Ich komme {1} Supermarkt.
       2. Er kommt {2} Brasilien.
       3. Sie kommt {3} ihrer Schwester.
-      4. Wir kommen {4} dem Konzert.
+      4. Wir kommen {4} Konzert.
       5. Anna kommt {5} Osaka.
       6. Der Brief kommt {6} meiner Freundin.
       7. Wir fahren {7} hier aus morgen los.
@@ -456,10 +456,10 @@ exercises:
     instructionsEn: "Fill in the correct preposition. Use the contracted form when possible. 8 items."
     text: |
       1. Das Restaurant liegt {1} dem Bahnhof. (location: Wo?)
-      2. Wir fahren morgen {2} die Alpen. (direction: Wohin?)
+      2. Wir fahren morgen {2} Alpen. (direction: Wohin?)
       3. Er wohnt {3} seiner Tante in Hamburg. (location: Wo?)
-      4. Sie kommt gerade {4} dem Arzt. (origin: Woher?)
-      5. Ich stelle die Tasche {5} den Stuhl. (direction: Wohin?)
+      4. Sie kommt gerade {4} Arzt. (origin: Woher?)
+      5. Ich stelle die Tasche {5} Stuhl. (direction: Wohin?)
       6. Das Hotel liegt direkt {6} Meer. (location: Wo?)
       7. Wir fahren {7} Hause. (direction: Wohin? — Wohin from where you are)
       8. Er kommt {8} Salzburg. (origin: Woher?)
@@ -1020,7 +1020,7 @@ exercises:
       **Wo? / Wohin? / Woher? — fill the preposition:**
       1. „Ich fahre morgen {1} Spanien."
       2. „Das Hotel liegt direkt {2} Meer."
-      3. „Er kommt gerade {3} dem Bahnhof."
+      3. „Er kommt gerade {3} Bahnhof."
       4. „Wir gehen {4} die Stadt."
 
       **Countries with article:**

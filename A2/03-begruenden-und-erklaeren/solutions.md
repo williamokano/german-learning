@@ -63,7 +63,7 @@
 
 ## Übung A6 — `dass` mit Perfekt und Modalverb
 
-1. **hat**  2. **hat**  3. **müssen**  4. **ist**  5. **hat**  6. **sollst**
+1. **hat**  2. **hat**  3. **müssen**  4. **ist**  5. **hat**  6. **solltest** (auch richtig: **sollst**)
 
 ## Übung A7 — `deshalb` / `darum` / `deswegen`: Inversion!
 
@@ -106,11 +106,11 @@
 
 ## Übung B2 — Finde den Fehler
 
-1. **habe**  2. **ist**  3. **C**  4. **bleiben**  5. **will**  6. **dass**  7. **weil**  8. **weil**  9. **hat**  10. **ist**
+1. **habe**  2. **kommt**  3. **kommt**  4. **bleiben**  5. **leben will**  6. **dass**  7. **weil**  8. **weil**  9. **hat**  10. **geht**
 
 ## Übung B3 — Sätze verbinden: `weil` oder `deshalb`?
 
-1. **macht**  2. **übt**  3. **sie ihm gefällt**  4. **Darum**  5. **geregnet hat**  6. **sind**  7. **hat**  8. **verlässt**
+1. **übt**  2. **macht**  3. **mag**  4. **Darum**  5. **geregnet hat**  6. **sind**  7. **hat**  8. **verlässt**
 
 ## Übung B4 — Satzbau: Sätze ordnen
 
@@ -186,7 +186,7 @@ Selbstkorrektur:
 
 ## Übung C1 — Lückentext
 
-1. **weil**  2. **weil**  3. **glaube** (auch richtig: **denke**)  4. **Deshalb** (auch richtig: **Darum**, **Deswegen**)  5. **noch** (auch richtig: **immer**)  6. **dass**  7. **denkst** (auch richtig: **meinst**, **glaubst**)  8. **nicht**  9. **dass**  10. **Ich bitte** (auch richtig: **Deshalb bitte ich**)
+1. **weil**  2. **weil**  3. **glaube** (auch richtig: **denke**)  4. **Deshalb** (auch richtig: **Darum**, **Deswegen**)  5. **noch**  6. **dass**  7. **denkst** (auch richtig: **meinst**, **glaubst**)  8. **nicht**  9. **dass**  10. **Ich bitte** (auch richtig: **Deshalb bitte ich**)
 
 ## Übung C2 — Sprachbausteine Teil 1
 

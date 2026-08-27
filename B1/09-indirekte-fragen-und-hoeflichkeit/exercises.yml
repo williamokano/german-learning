@@ -359,7 +359,7 @@ exercises:
     title: "Telefon-Formeln ergänzen"
     instructions: "Fill in the missing word or phrase for each formal phone convention. 6 items."
     text: |
-      1. Am Telefon stellt man sich so vor: „{1} Anna Kowalski." (Hier / Mein Name)
+      1. Am Telefon stellt man sich so vor: „{1} Anna Kowalski." (Hier spricht / Mein Name ist)
       2. Wenn man nicht versteht: „{2} Sie das bitte wiederholen?" (Würden / Sollten)
       3. Wenn man verbunden wird: „Einen Moment bitte. Ich {3} Sie." (verbinde / sage)
       4. Am Ende eines formellen Telefongesprächs: „Auf {4}." (Wiederhören / Wiedersehen)
@@ -745,7 +745,7 @@ exercises:
       möchte sie {3}, wie viel ein Einzelzimmer kostet. Der Mitarbeiter
       {4} ihr, dass ein Zimmer 90 Euro pro Nacht kostet. Anna {5} außerdem
       gern wissen, {6} das Frühstück inbegriffen ist. Der Mitarbeiter
-      erklärt, dass das Frühstück {7} im Preis ist. Am Ende fragt Anna
+      erklärt, dass das Frühstück im Preis {7} ist. Am Ende fragt Anna
       noch, {8} sie den Termin verschieben {9}. Der Mitarbeiter sagt, das
       sei kein Problem. Anna bedankt sich höflich und sagt: „Das {10} sehr nett."
     bank: [OB, SIND, WISSEN, ERKLÄRT, HÄTTE, OB, NICHT, INBEGRIFFEN, OB, KÖNNTE, WÄRE, WÜRDE, WIE, SCHREIBT, WENN]

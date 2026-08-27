@@ -87,7 +87,7 @@ Setze das passende Datenverb in der richtigen Form ein (steigen, sinken, zunehme
 
 ## Übung A2 — Tendenz richtig beschreiben
 
-Wähle das richtige Datenverb (steigt/sinkt/stagniert/zunimmt/nimmt ab). 6 Items.
+Wähle das richtige Datenverb (steigt/sinkt/stagniert/nimmt zu/nimmt ab). 5 Items, 6 Lücken.
 
 1. Im Vergleich zum Vorjahr ______ der Anteil leicht.
 2. Die E-Scooter-Nutzung ______ seit Anfang 2024.

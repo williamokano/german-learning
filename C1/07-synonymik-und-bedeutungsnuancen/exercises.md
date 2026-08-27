@@ -183,9 +183,9 @@ Setze das richtige deutsche Wort ein. 6 Items.
 1. „Actually, ich habe heute keine Zeit." → ______ habe ich heute keine Zeit.
 2. „Ich realisiere jetzt erst, dass das falsch war." → Ich ______ jetzt erst, dass das falsch war.
 3. „Eventually schaffe ich das." → ______ schaffe ich das.
-4. „Ich sympathisiere mit ihrem Schmerz." → Ich ______ mit ihrem Schmerz.
+4. „Ich sympathisiere mit ihr in ihrem Schmerz." → Ich ______ mit ihr.
 5. „Das ist eine sensible Lösung." → Das ist eine ______ Lösung.
-6. „Bald werde ich mein Studium beenden." → ______ werde ich mein Studium beenden.
+6. „Der Chef hat das Menü gekocht." (chef = ?) → Der ______ hat das Menü gekocht.
 
 ## Übung A10 — Registergerechte Wortwahl
 
@@ -374,7 +374,7 @@ Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Je
 > heißt NICHT ‚(9) ______‘, und *realisieren* heißt ‚verwirklichen‘,
 > nicht ‚(10) ______‘. Wer das beachtet, schreibt präzise."
 
-> BEWERTET · EIGENTLICH · ERKENNEN · ERSATZ · FALSCHE_FREUNDE · FOLGE · KONTEXT · LÖST · NIMMT · PROBLEM · REGISTER · TESTEN · ÜBERNEHMEN · UNTERSUCHEN · VERMEIDEN
+> BEWERTET · EIGENTLICH · ERKENNEN · ERSATZ · FALSCHE FREUNDE · FOLGE · KONTEXT · LÖST · NIMMT · PROBLEM · REGISTER · TESTEN · ÜBERNEHMEN · UNTERSUCHEN · VERMEIDEN
 
 Five words are not needed.
 

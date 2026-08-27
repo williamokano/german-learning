@@ -127,7 +127,7 @@ Rewrite each blunt statement as a polite Konjunktiv II phrase. 6 items.
 4. Ich will mehr Verantwortung.
    → Ich (4) ______ gerne mehr Verantwortung übernehmen.
 5. Wann treffen wir uns noch mal?
-   → (5) ______ Sie nächste Woche noch einen Termin haben?
+   → (5) ______ Sie nächste Woche noch einen Termin?
 6. Das ist zu wenig Geld.
    → Das (6) ______ für mich etwas wenig.
 
@@ -157,7 +157,7 @@ Fill in the correct Genitiv form (article + noun OR Genitivpräposition phrase).
 Complete each cover-letter sentence with `um … zu + Infinitiv`. 6 items.
 
 1. Ich bewerbe mich, um meine Erfahrungen (1) ______. (einsetzen)
-2. Ich habe Projektmanagement studiert, um Teams besser (2) ______. (koordinieren)
+2. Ich habe Projektmanagement studiert, um Teams besser (2) ______. (koordinieren können)
 3. Ich schreibe Ihnen, um mich für die Stelle (3) ______. (bewerben)
 4. Ich möchte die Gelegenheit nutzen, um mich beruflich (4) ______. (weiterentwickeln)
 5. Ich sende Ihnen meine Unterlagen, um mein Profil (5) ______. (vorstellen)
@@ -291,11 +291,11 @@ Match each word (1–7) with its correct definition (a–h). One definition is n
 Decide whether the missing construction is Aktiv or Passiv, then fill in the correct form. 6 items.
 
 1. (Passiv) Bewerberinnen mit Erfahrung (1) ______. (bevorzugen)
-2. (Passiv) Alle Bewerbungen (2) ______ bis zum 30. Juni. (entgegennehmen)
-3. (Aktiv) Die Stelle (3) ______ einen Abschluss in Betriebswirtschaft. (erfordern)
-4. (Passiv) Das Gehalt (4) ______ nach Qualifikation. (bestimmen)
-5. (Aktiv) Wir (5) ______ uns auf Ihre Bewerbung. (freuen — reflexiv)
-6. (Passiv) Überstunden (6) ______ nach Vereinbarung bezahlt. (werden)
+2. (Passiv) Alle Bewerbungen (2) ______ bis zum 30. Juni (3) ______. (entgegennehmen)
+3. (Aktiv) Die Stelle (4) ______ einen Abschluss in Betriebswirtschaft. (erfordern)
+4. (Passiv) Das Gehalt (5) ______ nach Qualifikation (6) ______. (bestimmen)
+5. (Aktiv) Wir (7) ______ uns auf Ihre Bewerbung. (freuen — reflexiv)
+6. (Passiv) Überstunden (8) ______ nach Vereinbarung bezahlt. (werden)
 
 ## Übung B7 — Interview-Phrasen: Richtig oder Falsch?
 

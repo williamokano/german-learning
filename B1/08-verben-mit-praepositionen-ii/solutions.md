@@ -40,7 +40,7 @@
 
 ## Übung A2 — Kasus nach Präposition — Artikel ergänzen
 
-1. **den**  2. **eine**  3. **einer**  4. **das**  5. **dem**  6. **dem**  7. **das**  8. **dem**
+1. **den**  2. **eine**  3. **einer**  4. **das**  5. **dem**  6. **dem**  7. **das**  8. **der**
 
 ## Übung A3 — Verben sortieren — welche Präposition?
 
@@ -115,7 +115,7 @@
 
 ## Übung B3 — Finde den Fehler — Pronominaladverbien
 
-1. **Ich denke an ihn. (Person → Präp + Pronomen, not daran)**  2. **Auf wen wartest du? (Person → auf wen, not worauf)**  3. **Ich bin davon überzeugt, dass Pavel recht hat. (dass-clause required)**  4. **Ich freue mich darüber, dass das Konzert gut war. (past/present fact → darüber, not darauf)**  5. **Mit wem redest du? (Person → mit wem, not womit)**  6. **Es hängt davon ab, wie viel Zeit wir haben. (abhängen von → davon, not darauf)**
+1. **Ich denke an ihn.**  2. **Auf wen wartest du?**  3. **Ich bin davon überzeugt, dass Pavel recht hat.**  4. **Ich freue mich über das Konzert gestern.**  5. **Mit wem redest du?**  6. **Es hängt davon ab, wie viel Zeit wir haben.**
 
 ## Übung B4 — Satzbau: `da(r)-` + `dass`-Satz / `zu`-Infinitiv
 

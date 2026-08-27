@@ -141,7 +141,7 @@ exercises:
     type: gap-text
     listLayout: true
     track: vergangenheit
-    title: "Präteritum: regular verbs"
+    title: "Präteritum: schwache und starke Verben"
     instructions: "Fill in the correct Präteritum form. 8 items."
     text: |
       1. Ich {1} in einer kleinen Wohnung in Neukölln. (wohnen)
@@ -193,7 +193,7 @@ exercises:
     type: gap-text
     listLayout: true
     track: vergangenheit
-    title: "Präteritum: Modalverben"
+    title: "Präteritum: Modalverben und wissen"
     instructions: "Fill in the correct Präteritum form. ⚠️ no umlaut. 6 items."
     text: |
       1. Ich {1} nicht kommen, weil ich krank war. (können)
@@ -238,11 +238,11 @@ exercises:
     listLayout: true
     track: vergangenheit
     title: "Plusquamperfekt: 'had done'"
-    instructions: "Fill in the correct Plusquamperfekt form. 6 items."
+    instructions: "Fill in the correct Plusquamperfekt form. 3 items, 5 gaps."
     text: |
-      1. Bevor ich nach Berlin kam, {1} (ich) schon einen Job {2} (finden). (finden)
-      2. Nachdem sie das Studium {3} (beenden), {4} (ziehen) sie nach München. (beenden, ziehen)
-      3. Er {5} (sich verlieben) in sie, nachdem er sie zum ersten Mal gesehen hatte. (verlieben)
+      1. Bevor ich nach Berlin kam, {1} ich schon einen Job {2}. (finden)
+      2. Nachdem sie das Studium {3}, {4} sie nach München. (beenden, ziehen)
+      3. Er {5} in sie, nachdem er sie zum ersten Mal gesehen hatte. (sich verlieben)
     answers:
       "1": hatte
       "2": gefunden
@@ -270,8 +270,8 @@ exercises:
     block: A
     type: gap-text
     listLayout: true
-    title: "Time connectors: zuerst, dann, danach, schließlich"
-    instructions: "Choose the correct time connector for each gap. 5 items."
+    title: "Time connectors: zuerst, dann, danach, später, schließlich"
+    instructions: "Choose the correct time connector for each gap: zuerst, dann, danach, später, schließlich. 5 items."
     text: |
       Anna erzählt: „{1} lebte ich in Russland. {2} bin ich nach Berlin
       gekommen. {3} habe ich einen Deutschkurs gemacht. {4} habe ich einen

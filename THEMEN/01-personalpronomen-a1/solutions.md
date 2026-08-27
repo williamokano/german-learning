@@ -20,7 +20,7 @@
 
 ## Übung A2 — Nominativ: Ersetze die Person
 
-1. **er**  2. **sie**  3. **es**  4. **sie**  5. **wir**  6. **ihr**
+1. **Er**  2. **Sie**  3. **Es**  4. **Sie**  5. **Wir**  6. **ihr**
 
 ## Übung A3 — Akkusativ: Ersetze das Objekt
 
@@ -36,7 +36,7 @@
 
 ## Übung B1 — Lückentext: Lisa und Paul
 
-1. **sie**  2. **ihm**  3. **dir**  4. **dir**  5. **sie**  6. **ihn**  7. **ihm**  8. **ihm**  9. **sie**  10. **dich**
+1. **sie**  2. **ihm**  3. **dir**  4. **dir**  5. **sie**  6. **ihn**  7. **ihm**  8. **ihm**  9. **Sie**  10. **dich**
 
 ## Übung B2 — Welches Pronomen passt?
 
@@ -72,7 +72,7 @@
 
 ## Übung D1 — Gemischte Wiederholung
 
-1. **er**  2. **er**  3. **sie**  4. **ihm**  5. **es**  6. **ihr**
+1. **Er**  2. **Er**  3. **Sie**  4. **ihm**  5. **es**  6. **ihr**
 
 ## Übung D2 — Selbsttest
 

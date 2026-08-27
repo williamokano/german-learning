@@ -84,13 +84,13 @@ Ergänze den richtigen Dativartikel (bestimmt oder unbestimmt, wie angegeben).
 1. Bruno wartet an ______ Schalter (m, def.).
 2. Ich arbeite bei ______ Arztpraxis (f, def.).
 3. Sie fahren mit ______ Bus (m, indef.).
-4. Wir kommen von ______ Bürgeramt (n, def.).
-5. Er wohnt gegenüber von ______ Rathaus (n, def.).
-6. Ich gehe zu ______ Termin (m, indef.).
+4. Wir kommen gerade aus ______ Bürgeramt (n, def.).
+5. Er wohnt gegenüber ______ Rathaus (n, def.).
+6. Ich gehe zu ______ Beratung (f, indef.).
 7. Sie kommt aus ______ Türkei (f, def.). (die Türkei)
 8. Er spricht mit ______ Beamtin (f, def.).
-9. Wir fahren zu ______ Ausländerbehörde (f, def.).
-10. Ich gehe nach ______ Amt (n, indef.).
+9. Wir haben einen Termin bei ______ Ausländerbehörde (f, def.).
+10. Ich gehe zu ______ Amt (n, indef.).
 
 ## Übung A3 — Dative personal pronouns
 
@@ -101,7 +101,7 @@ Schreibe um und ersetze das unterstrichene Nomen durch ein Dativ-Personalpronome
 3. Die Beamtin gibt ______ (Bruno) den Ausweis.
 4. Der Termin passt ______ (Anna) gut.
 5. Kannst du ______ (mir) die Adresse geben? — already a pronoun
-6. Das ist zu schwierig für ______ (die Kinder, pl.).
+6. Der Beamte erklärt ______ (den Kindern) das Formular.
 7. Könnten Sie ______ (mir und meiner Frau) helfen?
 
 ## Übung A4 — Separable verbs: anrufen, ausfüllen, ausstellen, anmelden
@@ -247,7 +247,7 @@ Jeder Satz hat genau einen Fehler. Das falsche Wort steht als Lücke — schreib
 
 1. Könnten Sie mir das Formular ______? (schickt → ?)
 2. Ich rufe das Bürgeramt morgen ______. (an → prefix to end)
-3. Bruno meldet sich gestern beim Bürgeramt ______. (an → ?)
+3. Bruno ______ sich gestern beim Bürgeramt angemeldet. (meldet → ?)
 4. Die Beamtin gibt ______ Formular Bruno. (dem → Akkusativ)
 5. Ich habe einen Termin ______ Dienstag. (an → am)
 6. Bitte füllen Sie das Formular ______. (ein → aus)

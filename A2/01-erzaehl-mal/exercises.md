@@ -225,18 +225,15 @@ Schreibe diese Perfekt-Modalformen als natürliche Präteritumformen um.
 Ergänze die Lücken mit der richtigen Form (Perfekt oder Präteritum-Modalverb).
 
 — Hey Anna! Wie war dein Wochenende?
-— Super! Ich ______ (besuchen) eine Ausstellung im Museum.
+— Super! Ich ______ eine Ausstellung im Museum besucht.
 — Echt? Was für eine Ausstellung?
-— Über russische Kunst. Zuerst ______ ich lange in der Schlange (warten) —
-  das ______ (sein) ein bisschen langweilig. Dann ______ wir endlich
-  (reinkommen / hineinkommen).
+— Über russische Kunst. Zuerst ______ ich lange in der Schlange warten —
+  das ______ ein bisschen langweilig. Dann ______ wir endlich reingekommen.
 — Und wie war es?
-— Wirklich toll! Ich ______ alles (fotografieren) — oder ______ du, dass
-  man da nicht fotografieren (dürfen — Präteritum)?
-— Stimmt! Man ______ nicht fotografieren (dürfen — Präteritum).
-  ______ du trotzdem Fotos (machen)?
-— Nein natürlich nicht! Am Ende ______ ich ein Buch über die Ausstellung
-  (kaufen). Es war wirklich schön!
+— Wirklich toll! Leider ______ man dort nicht fotografieren.
+— Schade. ______ du trotzdem Fotos gemacht?
+— Nein, natürlich nicht! Aber am Ende ______ ich ein Buch über die
+  Ausstellung gekauft. Es ______ wirklich schön.
 
 ## Übung B2 — Finde den Fehler
 
@@ -249,7 +246,7 @@ Jeder Satz hat genau **einen** Fehler. Schreibe den korrigierten Satz.
 5. Zuerst wir sind in die Stadt gegangen. → ______
 6. Sie hat das Restaurant reservert. → ______
 7. Ich habe kein Taxi gefunden können. → ______
-8. Das Glas hat zergebrochen. → ______
+8. Das Glas ist zergebrochen. → ______
 9. Wolltest du nach Wien gefahren? → ______
 10. Er hat alles vergessen — er ist einen schlechten Tag gehabt. (Hint: *vergessen* is fine; find the error in the other clause.) → ______
 
@@ -355,10 +352,10 @@ Fülle jede Lücke mit **einem** Wort. (Manche Lücken lassen mehrere Lösungen 
 
 Letzten Sommer (1) ______ Anna drei Wochen in Russland. Sie hat ihre Familie
 (2) ______ und viele alte Freunde (3) ______. Zuerst ist sie mit dem Zug
-nach Jaroslawl (4) ______. Dann (5) ______ sie eine Woche bei ihren Eltern
-(wohnen). Ihre Mutter (6) ______ jeden Tag ein großes Abendessen (kochen).
+nach Jaroslawl (4) ______. Dann (5) ______ sie eine Woche bei ihren Eltern gewohnt.
+Ihre Mutter (6) ______ jeden Tag ein großes Abendessen gekocht.
 Das hat Anna sehr (7) ______. Am Ende (8) ______ sie bemerkt, dass sie öfter nach
-Hause fahren (9) ______. Sie (10) ______ es leider nicht oft genug.
+Hause fahren (9) ______. Aber sie (10) ______ leider nur selten so viel Zeit.
 
 ## Übung C2 — Sprachbausteine Teil 1
 

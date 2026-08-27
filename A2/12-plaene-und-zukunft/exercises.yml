@@ -247,7 +247,7 @@ exercises:
     text: |
       1. Ich werde morgen kommen. → Ich {1} morgen {2} {3}.
       2. Wir werden das Buch lesen. → Wir {4} das Buch {5} {6}.
-      3. Anna wird nach Berlin fahren. → Anna {7} nach Berlin {8} {9}.
+      3. Anna wird nach Berlin fahren. → Anna {7} {8} nach Berlin {9}.
       4. Du wirst das schaffen. → Du {10} das {11} {12}.
       5. Sie werden das Projekt abschließen. → Sie {13} das Projekt {14} {15}.
       6. Ich werde das Buch kaufen. → Ich {16} das Buch {17} {18}.
@@ -352,12 +352,12 @@ exercises:
       5. {5} es im Sommer warm ist, gehen wir schwimmen. (general, present)
       6. {6} ich das letzte Mal in Wien war, habe ich den Stephansdom besucht. (one past visit)
     answers:
-      "1": als
-      "2": wenn
-      "3": wenn
-      "4": als
-      "5": wenn
-      "6": als
+      "1": Als
+      "2": Wenn
+      "3": Wenn
+      "4": Als
+      "5": Wenn
+      "6": Als
 
   - id: A9
     block: A
@@ -376,14 +376,14 @@ exercises:
       7. {7} du Zeit hast, ruf mich bitte an.
       8. {8} ich ein Student war, habe ich wenig Geld gehabt.
     answers:
-      "1": als
+      "1": Als
       "2": Wenn
       "3": Wenn
-      "4": als
+      "4": Als
       "5": Wenn
-      "6": als
+      "6": Als
       "7": Wenn
-      "8": als
+      "8": Als
 
   - id: A10
     block: A
@@ -911,10 +911,12 @@ exercises:
       14. als or wenn? „{25} ich in Berlin ankam, hat es geregnet." → {26}
       15. (A2/L10) Country with article: „Wir fahren {27} Iran." (nach / in den / im) → {28}
     answers:
-      "1": "At the end (of the subordinate clause)"
+      "1":
+        - "At the end"
+        - "At the end of the subordinate clause"
       "2": werde
-      "3": als
-      "4": als
+      "3": Als
+      "4": Als
       "5": "Feminine country name"
       "6": werde
       "7": lernen
@@ -935,8 +937,8 @@ exercises:
       "22": danach
       "23": "At the end"
       "24": "At the end of the clause"
-      "25": als
-      "26": als
+      "25": Als
+      "26": Als
       "27": "in den"
       "28": "in den"
 
@@ -1055,12 +1057,12 @@ exercises:
       "8": fahren
       "9": wird
       "10": werden
-      "11": als
-      "12": als
-      "13": wenn
-      "14": wenn
-      "15": wenn
-      "16": wenn
+      "11": Als
+      "12": Als
+      "13": Wenn
+      "14": Wenn
+      "15": Wenn
+      "16": Wenn
       "17": geregnet
       "18": geregnet
       "19": wird

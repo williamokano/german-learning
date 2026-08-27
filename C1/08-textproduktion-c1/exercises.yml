@@ -223,16 +223,16 @@ exercises:
     title: 'Konnektorenpaare ergänzen'
     instructions: 'Setze das passende Pendant ein. 8 Lücken.'
     text: |
-      1. Einerseits spricht für den KI-Einsatz, {1} {2} (Stichprobenvorteil).
+      1. Einerseits spricht für den KI-Einsatz, {1} {2} (Vorteil der Individualisierung).
       2. {3} birgt der Einsatz Risiken; {4} {5} für die Datensicherheit.
-      3. Lernen braucht {6} Wissen, {7} {8} soziale Bindung.
+      3. Lernen braucht {6} Wissen, {7} {8} soziale Bindung. (Paar: nicht nur … sondern auch)
     answers:
       "1": dass
       "2": Schüler individuell gefördert werden können
       "3": Andererseits
       "4": jedoch
       "5": fehlt eine klare Regelung
-      "6": nicht
+      "6": "nicht nur"
       "7": sondern
       "8": auch
 
@@ -348,7 +348,7 @@ exercises:
       1. Vor dem Hintergrund der wachsenden KI-Verbreitung {1} der Frage nachgegangen, ob
       KI den Unterricht ergänzen kann.
       2. Es {2} zu untersuchen, inwiefern KI-Tutoren die Lernmotivation steigern.
-      3. Methodisch {3} die Arbeit auf eine Online-Befragung von 200 Studierenden.
+      3. Methodisch {3} sich die Arbeit auf eine Online-Befragung von 200 Studierenden.
       4. Die Ergebnisse {4} darauf hin, dass die Lernmotivation leicht gesteigert wurde.
       5. Daraus {5} sich der Schluss ziehen, dass weitere Studien nötig sind.
     bank: [wird, ist, stützt, deuten, lässt, Ziel, Hintergrund, Methode, beweisen, sollte, muss]
@@ -388,7 +388,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Kohärenz: Rückverweise und Themenführungen'
-    instructions: 'Setze die passende Form ein (Diese, im Folgenden, wie oben, abschließend, Anschließend). 6 Lücken.'
+    instructions: 'Setze die passende Form ein (oben, Im Folgenden, bereits, Abschließend, Diese, Anschließend). 6 Lücken.'
     text: |
       1. Die {1} genannte Stichprobe umfasste 200 Personen.
       2. {2} wird die Methodik erläutert.

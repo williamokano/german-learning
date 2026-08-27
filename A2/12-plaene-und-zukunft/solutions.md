@@ -98,11 +98,11 @@ Modellantwort:
 
 ## Übung A8 — als oder wenn?
 
-1. **als**  2. **wenn**  3. **wenn**  4. **als**  5. **wenn**  6. **als**
+1. **Als**  2. **Wenn**  3. **Wenn**  4. **Als**  5. **Wenn**  6. **Als**
 
 ## Übung A9 — als oder wenn? Lückentext
 
-1. **als**  2. **Wenn**  3. **Wenn**  4. **als**  5. **Wenn**  6. **als**  7. **Wenn**  8. **als**
+1. **Als**  2. **Wenn**  3. **Wenn**  4. **Als**  5. **Wenn**  6. **Als**  7. **Wenn**  8. **Als**
 
 ## Übung A10 — Übersetzen (EN → DE) mit Futur I
 
@@ -274,7 +274,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Gemischter Schnelltest
 
-1. **At the end (of the subordinate clause)**  2. **werde**  3. **als**  4. **als**  5. **Feminine country name**  6. **werde**  7. **lernen**  8. **werde**  9. **lernen**  10. **Wenn**  11. **werden**  12. **bleiben**  13. **werden**  14. **bleiben**  15. **Könnten**  16. **Könnten**  17. **geflogen**  18. **kommen**  19. **kommen**  20. **als**  21. **als**  22. **danach**  23. **At the end**  24. **At the end of the clause**  25. **als**  26. **als**  27. **in den**  28. **in den**
+1. **At the end** (auch richtig: **At the end of the subordinate clause**)  2. **werde**  3. **Als**  4. **Als**  5. **Feminine country name**  6. **werde**  7. **lernen**  8. **werde**  9. **lernen**  10. **Wenn**  11. **werden**  12. **bleiben**  13. **werden**  14. **bleiben**  15. **Könnten**  16. **Könnten**  17. **geflogen**  18. **kommen**  19. **kommen**  20. **als**  21. **als**  22. **danach**  23. **At the end**  24. **At the end of the clause**  25. **Als**  26. **Als**  27. **in den**  28. **in den**
 
 ## Übung D2 — Odd one out
 
@@ -291,7 +291,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-1. **werde**  2. **lernen**  3. **wird**  4. **fliegen**  5. **werden**  6. **treffen**  7. **Wirst**  8. **fahren**  9. **wird**  10. **werden**  11. **als**  12. **als**  13. **wenn**  14. **wenn**  15. **wenn**  16. **wenn**  17. **geregnet**  18. **geregnet**  19. **wird**  20. **wird**  21. **regnen**  22. **regnen**  23. **kommen**  24. **kommen**  25. **werde**  26. **gehen**  27. **werde**  28. **gehen**  29. **als**  30. **als**  31. **in die**  32. **in die**  33. **Wir werden nächsten Sommer nach Italien fliegen.**  34. **Wenn ich müde war, hat mein Vater mir eine Geschichte vorgelesen.**  35. **Könnten**  36. **Könnten**  37. **bekommen**  38. **Ich werde nächsten Monat mit dem Rauchen aufhören.**
+1. **werde**  2. **lernen**  3. **wird**  4. **fliegen**  5. **werden**  6. **treffen**  7. **Wirst**  8. **fahren**  9. **wird**  10. **werden**  11. **Als**  12. **Als**  13. **Wenn**  14. **Wenn**  15. **Wenn**  16. **Wenn**  17. **geregnet**  18. **geregnet**  19. **wird**  20. **wird**  21. **regnen**  22. **regnen**  23. **kommen**  24. **kommen**  25. **werde**  26. **gehen**  27. **werde**  28. **gehen**  29. **als**  30. **als**  31. **in die**  32. **in die**  33. **Wir werden nächsten Sommer nach Italien fliegen.**  34. **Wenn ich müde war, hat mein Vater mir eine Geschichte vorgelesen.**  35. **Könnten**  36. **Könnten**  37. **bekommen**  38. **Ich werde nächsten Monat mit dem Rauchen aufhören.**
 
 ---
 

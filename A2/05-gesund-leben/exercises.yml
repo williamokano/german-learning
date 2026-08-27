@@ -255,17 +255,17 @@ exercises:
     instructionsEn: "Conjugate `sich fühlen` and complete the example sentence. The gap is the conjugated form (verb + reflexive pronoun)."
     text: |
       1. ich: Ich {1} heute sehr müde.
-      2. du: Wie {2} du dich?
+      2. du: Du {2} heute schon besser.
       3. er: Er {3} nicht wohl.
       4. wir: Wir {4} nach dem Urlaub besser.
-      5. ihr: {5} ihr euch heute fit?
+      5. ihr: Ihr {5} heute fit.
       6. sie: Sie {6} erschöpft.
     answers:
       "1": "fühle mich"
       "2": "fühlst dich"
       "3": "fühlt sich"
       "4": "fühlen uns"
-      "5": "Fühlt euch"
+      "5": "fühlt euch"
       "6": "fühlen sich"
 
   - id: A5
@@ -307,7 +307,7 @@ exercises:
     instructionsEn: "Fill in the correct form. Watch for Akkusativ vs. Dativ `sich`."
     text: |
       1. Ich {1} jeden Morgen kalt. (sich waschen)
-      2. {2} du dich schon für die Schule? (sich anziehen)
+      2. {2} du dich schon für die Schule an? (sich anziehen)
       3. Er {3} nach dem Sport {4}. (sich ausziehen)
       4. Wir {5} uns schnell {6} — wir haben keine Zeit. (sich anziehen)
       5. Ich wasche {7} die Hände vor dem Essen. (Dat)
@@ -425,8 +425,8 @@ exercises:
       2. Ich wasche {2}. (mich / das Auto)
       3. Er zieht {3} die Jacke an. (sich / die Jacke)
       4. Er zieht {4} an. (sich / die Jacke)
-      5. Anna freut {5} über das Geschenk. (sich / die Jacke)
-      6. Anna kauft {6} ein neues Fahrrad. (sich / die Tasche)
+      5. Anna freut {5} über das Geschenk. (sich / das Geschenk)
+      6. Anna kauft {6} ein neues Fahrrad. (sich / das Fahrrad)
       7. Wir sehen {7} den Film morgen. (uns / den Film)
       8. Wir sehen {8} morgen. (uns / den Film)
     answers:
@@ -482,21 +482,21 @@ exercises:
       1. Ich fühle {1} heute nicht gut. (sich → ?)
       2. Anna ruht {2} nach der Arbeit aus. (mich → ?)
       3. Wir freuen {3} auf den Urlaub. (euch → ?)
-      4. Er wäscht sich die Hände — er wäscht {4} die Hände. (dir → ?)
-      5. Zuerst ärgert Bruno {5} über den Stress. (sich → ?)
-      6. Ich kaufe {6} einen neuen Sportschuh. (mir → ?)
-      7. …, weil ich mich nicht gut fühle {7}. (weglassen → ?)
+      4. Er wäscht {4} die Hände. (dir → ?)
+      5. Zuerst {5} über den Stress. (ärgert Bruno sich → ?)
+      6. Ich kaufe {6} neue Sportschuhe. (mich → ?)
+      7. Sie beeilt {7}, weil der Bus gleich kommt. (euch → ?)
       8. {8} Sie sich aus! (Ruh → ?)
-      9. Sie wünscht sich mehr Energie — Sie wünscht {9} mehr Energie. (mich → ?)
-      10. Die Kinder waschen sich die Zähne {10}. (putzen → ?)
+      9. Sie wünscht {9} mehr Energie. (mich → ?)
+      10. Die Kinder {10} sich die Zähne. (waschen → ?)
     answers:
       "1": mich
       "2": sich
       "3": uns
       "4": sich
-      "5": sich
+      "5": "ärgert sich Bruno"
       "6": mir
-      "7": "(weglassen)"
+      "7": sich
       "8": Ruhen
       "9": sich
       "10": putzen
@@ -677,7 +677,7 @@ exercises:
       ihre Sportkleidung an und geht joggen. Sie {4} sich wirklich wohl, wenn sie
       sich regelmäßig {5}. Manchmal {6} sie sich über den Lärm in der
       Stadt, aber dann {7} sie Kopfhörer auf und hört Musik. Am Abend entspannt
-      {8} sie sich mit einem guten Buch. Sie wünscht {9}, dass alle
+      sie {8} mit einem guten Buch. Sie wünscht {9}, dass alle
       Menschen {10} Zeit zum Entspannen haben.
     answers:
       "1": auf
@@ -936,8 +936,8 @@ exercises:
     title: "Rückblick: Lektionen A1/L9, A1/L10, A2/L3"
     text: |
       1. (L9/A1) Translate: "The shirt fits me." → {1}
-      2. (L9/A1) `gefallen`, er-form: "The film {2} him." → The film {3} him.
-      3. (L9/A1) `gehören`, sie-form: "The bag {4} her." → The bag {5} her.
+      2. (L9/A1) `gefallen`, er-form: "The film pleases him." → Der Film {2} {3}.
+      3. (L9/A1) `gehören`, sie-form: "The bag belongs to her." → Die Tasche {4} {5}.
       4. (L10/A1) `sollen`, wir-form: "We are supposed to rest." → Wir {6} uns ausruhen.
       5. (L10/A1) `sollen`, Sie-form: "You should eat more vegetables." → Sie {7} mehr Gemüse essen.
       6. (L3/A2) `weil` + Reflexiv: "Anna bleibt zu Hause. Sie fühlt sich krank." → Anna bleibt zu Hause, weil {8} sich krank {9}.
@@ -988,7 +988,7 @@ exercises:
       16. Translate: "He rests on the weekend." → {16}
       17. Translate: "I wish myself more energy." → {17}
       18. Imperative (du): `sich entspannen` → {18}
-      19. Subordinate clause: …, weil er {19} zu viel gearbeitet hat. (sich ärgern)
+      19. Subordinate clause: Er ist schlecht gelaunt, weil er {19}. (sich ärgern, Perfekt)
       20. Reciprocal or reflexive: "Anna und Bruno helfen sich." → {20}
     answers:
       "1": mich

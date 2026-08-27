@@ -86,7 +86,7 @@ Höre die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Höre einma
 1. Ich komme von ______ Arbeit.
 2. Er arbeitet bei ______ Bank.
 3. Sie kommt gerade aus ______ Supermarkt.
-4. Wir kommen von ______ Flughafen.
+4. Wir kommen von ______ Kollegen.
 5. Bist du noch bei ______ Arbeit?
 6. Der Bus kommt aus ______ Stadt.
 7. Jonas wohnt bei ______ Eltern. (pl.!)

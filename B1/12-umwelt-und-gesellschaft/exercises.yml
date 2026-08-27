@@ -401,17 +401,17 @@ exercises:
     instructions: "Fill in the 8 blanks. Use Nominalisierungen, opinion phrases, or Passiv as indicated."
     text: |
       — Lukas, was denkst du über die neue Citymaut?
-      — Ich bin {1}, dass die Einführung der Citymaut überfällig ist. (der Ansicht)
+      — Ich bin {1}, dass die Einführung der Citymaut überfällig ist.
       — Und du, Mia? Wie findest du das?
       — Einerseits ist {2} der Luftqualität wichtig, andererseits trifft es
         kleine Betriebe. (die Verbesserung)
-      — Stimmt. Nicht nur die Luft, {3} auch der Lärm soll abnehmen. (sondern)
-      — Was passiert mit den Einnahmen? {4} sie zweckgebunden? (werden)
-      — Ja, sie {5} in den Ausbau des ÖPNV investiert werden. (sollen)
-      — {6} des öffentlichen Nahverkehrs ist natürlich sinnvoll. (der Ausbau)
-      — Zwar sind die ökologischen Vorteile klar, {7} darf die soziale
-        Gerechtigkeit nicht vergessen werden. (aber)
-      — Ich halte es {8}, alle Gesellschaftsgruppen einzubeziehen. (für wichtig)
+      — Stimmt. Nicht nur die Luft, {3} auch der Lärm soll abnehmen.
+      — Was passiert mit den Einnahmen? {4} sie zweckgebunden?
+      — Ja, sie {5} in den Ausbau des ÖPNV investiert werden.
+      — {6} des öffentlichen Nahverkehrs ist natürlich sinnvoll.
+      — Zwar sind die ökologischen Vorteile klar, {7} die soziale
+        Gerechtigkeit darf nicht vergessen werden.
+      — Ich halte es {8}, alle Gesellschaftsgruppen einzubeziehen.
     answers:
       "1": der Ansicht
       "2": die Verbesserung
@@ -527,17 +527,17 @@ exercises:
     instructions: "Rewrite each active sentence as a Passiv sentence (Präteritum). 6 items."
     text: |
       1. Die Stadt führte neue Maßnahmen ein.
-         → Neue Maßnahmen {1}. (wurden eingeführt)
+         → Neue Maßnahmen {1}.
       2. Man installierte Solaranlagen auf den Schulen.
-         → Solaranlagen {2}. (wurden auf den Schulen installiert)
+         → Solaranlagen {2}.
       3. Die Regierung reduzierte die Emissionen.
-         → Die Emissionen {3}. (wurden reduziert)
+         → Die Emissionen {3}.
       4. Man verbesserte das Radwegenetz.
-         → Das Radwegenetz {4}. (wurde verbessert)
+         → Das Radwegenetz {4}.
       5. Die Bürger wählten neue Politiker.
-         → Neue Politiker {5}. (wurden gewählt)
+         → Neue Politiker {5}.
       6. Man beschloss ein neues Klimapaket.
-         → Ein neues Klimapaket {6}. (wurde beschlossen)
+         → Ein neues Klimapaket {6}.
     answers:
       "1": wurden eingeführt
       "2": wurden auf den Schulen installiert

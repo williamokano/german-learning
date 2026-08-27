@@ -79,14 +79,14 @@ exercises:
       sie zwei Wochen bleiben möchte. {6} sie hier ist, zeige ich ihr
       die Stadt. Ich hoffe, {7} das Wetter schön bleibt. Meine Eltern
       freuen sich auch, {8} sie ihre Tochter sehen.
-    bank: [weil, dass, wenn, weil, dass, wenn, dass, weil, obwohl, ob]
+    bank: [weil, dass, Wenn, weil, dass, Wenn, dass, weil, obwohl, ob]
     answers:
       "1": weil
       "2": dass
-      "3": wenn
+      "3": Wenn
       "4": weil
       "5": dass
-      "6": wenn
+      "6": Wenn
       "7": dass
       "8": weil
 

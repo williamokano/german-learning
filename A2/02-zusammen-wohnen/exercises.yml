@@ -391,7 +391,7 @@ exercises:
       4. Die Schuhe stehen {4} der Tür.
       5. Das Regal steht {5} der Wand.
       6. Der Schlüssel liegt {6} dem Tisch.
-      7. Das Buch steht {7} dem Regal.
+      7. Die Handtücher liegen {7} der Kommode.
       8. Die Kiste steht {8} dem Schrank.
       9. Der Stuhl steht {9} dem Fenster.
     answers:
@@ -413,14 +413,14 @@ exercises:
     instructions: "Bilde einen vollständigen Satz mit „stellen\" und dem richtigen Akkusativartikel. Beispiel: Buch / auf / Tisch (m) → Ich stelle das Buch auf den Tisch."
     instructionsEn: "Build a complete sentence using `stellen` + the correct accusative article. Example: Buch / auf / Tisch (m) → Ich stelle das Buch auf den Tisch."
     text: |
-      1. Lampe (f) / über / Tisch (m) → {1}
+      1. Lampe (f) / auf / Tisch (m) → {1}
       2. Stuhl (m) / neben / Fenster (n) → {2}
       3. Tassen (pl) / in / Schrank (m) → {3}
       4. Regal (n) / an / Wand (f) → {4}
       5. Sessel (m) / zwischen / Sofa (n) / und Fenster (n) → {5}
       6. Schuhe (pl) / vor / Tür (f) → {6}
     answers:
-      "1": "Ich stelle die Lampe über den Tisch."
+      "1": "Ich stelle die Lampe auf den Tisch."
       "2": "Ich stelle den Stuhl neben das Fenster."
       "3": "Ich stelle die Tassen in den Schrank."
       "4": "Ich stelle das Regal an die Wand."
@@ -537,7 +537,7 @@ exercises:
       5. Wir legen den Teppich unter das Sofa — richtig, er liegt jetzt unter {5} Sofa. (das → ?)
       6. Sie hängt das Bild an die Wand — das Bild {6} jetzt an der Wand. (hängen → ?)
       7. Der Schlüssel liegt {7} Tisch. (im → ?)
-      8. Ich stelle die Schuhe vor die Tür. Sie stehen jetzt vor der Tür. — Genau! {8} steht vor der Tür. (Er → ?)
+      8. Wo sind die Schuhe? — {8} vor der Tür. (Er steht → ?)
       9. Wo liegt der Spiegel? — Er hängt an {9} Wand. (die → ?)
       10. Das Regal steht zwischen dem Fenster und {10} Tür. (die → ?)
     answers:
@@ -548,7 +548,7 @@ exercises:
       "5": dem
       "6": hängt
       "7": "auf dem"
-      "8": Sie
+      "8": Sie stehen
       "9": der
       "10": der
 
@@ -795,8 +795,8 @@ exercises:
           - { key: a, text: "steht" }
           - { key: b, text: "liegt" }
           - { key: c, text: "hängt" }
-        answer: a
-        why: 'Wohnungen stehen; „Die Wohnung steht im zweiten Stock" ✓'
+        answer: b
+        why: 'Eine Wohnung *liegt* in einem Stock. „Die Wohnung steht" heißt: sie steht leer.'
       - q: "Das Sofa (2) ______ jetzt vor dem Fernseher."
         options:
           - { key: a, text: "liegt" }
@@ -848,10 +848,10 @@ exercises:
       — Das Regal steht {5} dem Fenster und der Tür. Meine Bücher stehen
       {6} Regal.
       — Hast du auch einen Teppich?
-      — Ja, er liegt {7} dem Bett — also {8} dem Bett. Der Teppich
+      — Ja, er liegt {7} dem Bett — nicht {8} dem Bett. Der Teppich
       ist blau.
       — Schön! Und wohin hängst du das Bild?
-      — Ich hänge es {9} die Wand, {10} dem Fenster.
+      — Ich hänge es {9} die Wand, {10} das Fenster.
     bank: [AN, AM, AUF, LIEGT, STEHT, HÄNGT, INS, IM, VOR, NEBEN, ÜBER, STELLT, LEGT, ZWISCHEN, UNTER, DER, HINTER, STEHEN, DEM, AUS, LEGEN]
     answers:
       "1": STEHT
@@ -1033,7 +1033,7 @@ exercises:
     text: |
       1. (L4) `es gibt` — fill in: Es {1} eine Küche im ersten Stock.
       2. (L4) Name three rooms of a house (German + article): {2}, {3}, {4}
-      3. (L4) Predicative adjective: Das Zimmer ist {5} (schön — no change needed here).
+      3. (L4) Predicative adjective: Das Zimmer ist {5} (nice — predicative, so no ending).
       4. (L8) Dative preposition: Ich gehe {6} Fuß zur Schule. (zu)
       5. (L8) Dative preposition: Sie wohnt {7} ihrer Freundin. (bei)
       6. (L8) Translate: "I travel by bus." → {8}

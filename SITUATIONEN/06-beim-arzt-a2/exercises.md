@@ -46,11 +46,11 @@ Ordne jede Frage (1–8) der passenden Antwort (a–h) zu.
 
 Ergänze die richtige Form.
 
-1. Ich habe seit ______ Tagen Kopfschmerzen. (drei)
+1. Ich habe seit ______ Tagen Kopfschmerzen. (3)
 2. Der Husten ist seit ______ Woche schlimmer geworden. (eine)
 3. Seit ______ Montag geht es mir schlecht. (der)
 4. Sie hat seit ______ Monat Rückenschmerzen. (ein)
-5. Seit ______ Wochen kann ich nicht gut schlafen. (zwei)
+5. Seit ______ Wochen kann ich nicht gut schlafen. (2)
 6. Seit ______ Operation habe ich keine Schmerzen mehr. (die)
 
 ---

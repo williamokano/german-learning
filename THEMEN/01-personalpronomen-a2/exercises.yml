@@ -27,10 +27,10 @@ exercises:
       umarmt er {5}. „Wie war dein Tag?", fragt {6}. Tim erzählt {7} alles
       über den neuen Job. Am Ende sagt Lea: „Ich bin stolz auf {8}!"
     answers:
-      "1": sie
+      "1": Sie
       "2": ihm
       "3": ihm
-      "4": sie
+      "4": Sie
       "5": sie
       "6": sie
       "7": ihr

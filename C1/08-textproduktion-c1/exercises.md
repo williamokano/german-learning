@@ -101,9 +101,9 @@ Wähle die korrekte Reihenfolge der Bestandteile einer linearen Erörterung.
 
 Setze das passende Pendant ein. 8 Lücken.
 
-1. Einerseits spricht für den KI-Einsatz, ______ ______ (Stichprobenvorteil).
+1. Einerseits spricht für den KI-Einsatz, ______ ______ (Vorteil der Individualisierung).
 2. ______ birgt der Einsatz Risiken; ______ ______ für die Datensicherheit.
-3. Lernen braucht ______ Wissen, ______ ______ soziale Bindung.
+3. Lernen braucht ______ Wissen, ______ ______ soziale Bindung. (Paar: nicht nur … sondern auch)
 
 ## Übung A3 — Zusammenfassung — linear oder selektiv?
 
@@ -140,7 +140,7 @@ Füll die 5 Lücken mit den passenden Bausteinen aus dem Kasten. Sechs Wörter s
 > 1. Vor dem Hintergrund der wachsenden KI-Verbreitung (1) ______ der Frage nachgegangen, ob
 > KI den Unterricht ergänzen kann.
 > 2. Es (2) ______ zu untersuchen, inwiefern KI-Tutoren die Lernmotivation steigern.
-> 3. Methodisch (3) ______ die Arbeit auf eine Online-Befragung von 200 Studierenden.
+> 3. Methodisch (3) ______ sich die Arbeit auf eine Online-Befragung von 200 Studierenden.
 > 4. Die Ergebnisse (4) ______ darauf hin, dass die Lernmotivation leicht gesteigert wurde.
 > 5. Daraus (5) ______ sich der Schluss ziehen, dass weitere Studien nötig sind.
 
@@ -160,7 +160,7 @@ Ordne jedes Kohärenzmittel (1–5) dem passenden Beispiel (a–e) zu.
 
 ## Übung A8 — Kohärenz: Rückverweise und Themenführungen
 
-Setze die passende Form ein (Diese, im Folgenden, wie oben, abschließend, Anschließend). 6 Lücken.
+Setze die passende Form ein (oben, Im Folgenden, bereits, Abschließend, Diese, Anschließend). 6 Lücken.
 
 1. Die ______ genannte Stichprobe umfasste 200 Personen.
 2. ______ wird die Methodik erläutert.

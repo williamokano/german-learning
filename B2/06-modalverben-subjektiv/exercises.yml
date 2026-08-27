@@ -177,7 +177,7 @@ exercises:
     instructions: "Setz das passende Modalverb ein (muss / dürfte / könnte / kann nicht). 6 Items."
     text: |
       1. Das Licht brennt und das Auto steht da — er {1} zu Hause sein. (fast sicher)
-      2. Ich habe ihn gerade in Berlin gesehen — er {2} jetzt in München sein. (ausgeschlossen)
+      2. Ich habe ihn gerade in Berlin gesehen — er {2} gleichzeitig in München sein. (ausgeschlossen)
       3. Das Paket ist schon unterwegs — es {3} morgen ankommen. (wahrscheinlich)
       4. Vielleicht hat er den Termin vergessen — das {4} sein. (möglich)
       5. Bei dem Stau {5} sie sich verspäten, anders geht es nicht. (fast sicher)
@@ -240,8 +240,8 @@ exercises:
     title: "Gegenwart → Vergangenheit (Infinitiv Perfekt)"
     instructions: "Setz die Vermutung in die Vergangenheit. Schreib das zweite Verb als Infinitiv Perfekt (Partizip II + sein/haben). 6 Items."
     text: |
-      1. Er muss reich sein. → Er muss reich {1}. (gewesen + sein/haben?)
-      2. Sie dürfte den Termin vergessen. → Sie dürfte den Termin {2}. (vergessen + ?)
+      1. Er muss reich sein. → Er muss reich {1}. (sein)
+      2. Sie dürfte den Termin vergessen. → Sie dürfte den Termin {2}. (vergessen)
       3. Er soll dort sein. → Er soll dort {3}.
       4. Er will alles sehen. → Er will alles {4}.
       5. Das kann ein Irrtum sein. → Das kann ein Irrtum {5}.

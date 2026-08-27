@@ -280,7 +280,7 @@ Setze das passende Konzessiv-/Adversativwort ein. 6 Items.
 
 1. ______ ist die Fachsprache präzise, aber sie schließt viele aus. (Einräumung am Satzanfang)
 2. Da haben Sie zwar recht, ______ sehe ich ein anderes Problem.
-3. Ihr Punkt ist nachvollziehbar, ______ würde ich differenzieren. (= trotzdem)
+3. Ihr Punkt ist nachvollziehbar, ______ würde ich differenzieren. (neutral, Position 1)
 4. Zugegeben, das klingt überzeugend, ______ bleibt ein Einwand. (gehoben für „dennoch")
 5. ______ braucht es Genauigkeit, andererseits Verständlichkeit.
 6. Einerseits überzeugt das Argument, ______ überzeugt es nicht ganz.

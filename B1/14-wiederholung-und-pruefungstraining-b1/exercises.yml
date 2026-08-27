@@ -392,7 +392,7 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/01 Präteritum'
-    instructions: 'Fill in the Präteritum form of each verb in brackets. 6 items.'
+    instructions: 'Fill in the Präteritum form of each verb in brackets. 4 items, 6 gaps.'
     text: |
       1. Als Pavel ein Kind {1}, {2} er oft in den Park. (sein / gehen)
       2. Die Lehrerin {3} die Aufgaben an die Tafel. (schreiben)
@@ -446,7 +446,7 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/03 Konjunktiv II'
-    instructions: 'Fill in the Konjunktiv II form (würde/hätte/wäre). 6 items.'
+    instructions: 'Fill in the Konjunktiv II form (würde/hätte/wäre). 3 items, 6 gaps.'
     text: |
       1. Wenn ich mehr Zeit {1}, {2} ich jeden Tag Vokabeln lernen. (haben / lernen)
       2. Wenn Pavel nicht so nervös {3}, {4} er noch besser sprechen. (sein / können)
@@ -501,7 +501,7 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/06 um … zu / damit'
-    instructions: 'Fill in "um", "zu", or "damit" in each gap. 7 items.'
+    instructions: 'Fill in "um", "zu", or "damit" in each gap. 5 items, 9 gaps.'
     text: |
       1. Pavel lernt Deutsch, {1} in Deutschland arbeiten {2} können.
       2. Der Lehrer spricht langsamer, {3} alle Lernenden ihn verstehen.
@@ -545,13 +545,13 @@ exercises:
     title: 'Sprachbausteine — B1/08 Pronominaladverbien'
     instructions: 'Fill in the correct Pronominaladverb (da(r)- + Präposition) or question form (wo(r)- + Präposition). 5 items.'
     text: |
-      1. Ich freue mich sehr {1} meine bestandene Prüfung. (auf → da- + auf)
-      2. Pavel denkt oft {2} die Zeit zurück, als er anfing, Deutsch zu lernen. (an → da- + an)
+      1. Die Prüfung ist bestanden — ich freue mich sehr {1}. (über → da(r)- + über)
+      2. Pavel denkt oft an die Zeit zurück, als er anfing. → Er denkt oft {2} zurück. (an → da(r)- + an)
       3. {3} sprechen Anna und Mia gerade? — Über die Prüfungsergebnisse. (worüber)
       4. Das Zeugnis? Ich warte schon lange {4}. (darauf)
       5. {5} ist Pavel zufrieden? — Mit dem Ergebnis. (womit)
     answers:
-      '1': darauf
+      '1': darüber
       '2': daran
       '3': Worüber
       '4': darauf
@@ -652,9 +652,9 @@ exercises:
       3. Das {3} einer Gliederung hilft beim Schreiben. (erstellen → das …)
       4. Die {4} der Ergebnisse dauert vier bis sechs Wochen. (bekanntgeben → die …)
       5. Das {5} der Prüfungsgebühr ist online möglich. (bezahlen → das …)
-      6. Die {6} von Deutschkursen steigt jedes Jahr. (nachfragen → die … — noun: Nachfrage)
+      6. Die {6} nach Deutschkursen steigt jedes Jahr. (nachfragen → die …)
     answers:
-      '1': Lernen
+      '1': Das Lernen
       '2': Bewerbung
       '3': Erstellen
       '4': Bekanntgabe

@@ -140,20 +140,20 @@ exercises:
       1. Bruno wartet an {1} Schalter (m, def.).
       2. Ich arbeite bei {2} Arztpraxis (f, def.).
       3. Sie fahren mit {3} Bus (m, indef.).
-      4. Wir kommen von {4} Bürgeramt (n, def.).
-      5. Er wohnt gegenüber von {5} Rathaus (n, def.).
-      6. Ich gehe zu {6} Termin (m, indef.).
+      4. Wir kommen gerade aus {4} Bürgeramt (n, def.).
+      5. Er wohnt gegenüber {5} Rathaus (n, def.).
+      6. Ich gehe zu {6} Beratung (f, indef.).
       7. Sie kommt aus {7} Türkei (f, def.). (die Türkei)
       8. Er spricht mit {8} Beamtin (f, def.).
-      9. Wir fahren zu {9} Ausländerbehörde (f, def.).
-      10. Ich gehe nach {10} Amt (n, indef.).
+      9. Wir haben einen Termin bei {9} Ausländerbehörde (f, def.).
+      10. Ich gehe zu {10} Amt (n, indef.).
     answers:
       "1": dem
       "2": der
       "3": einem
       "4": dem
       "5": dem
-      "6": einem
+      "6": einer
       "7": der
       "8": der
       "9": der
@@ -172,7 +172,7 @@ exercises:
       3. Die Beamtin gibt {3} (Bruno) den Ausweis.
       4. Der Termin passt {4} (Anna) gut.
       5. Kannst du {5} (mir) die Adresse geben? — already a pronoun
-      6. Das ist zu schwierig für {6} (die Kinder, pl.).
+      6. Der Beamte erklärt {6} (den Kindern) das Formular.
       7. Könnten Sie {7} (mir und meiner Frau) helfen?
     answers:
       "1": ihr
@@ -338,13 +338,11 @@ exercises:
       "2": einen
       "3": dem
       "4": die
-      "5":
-        - dem
-        - am
+      "5": dem
       "6": Die
       "7": einem
       "8": die
-      "9": zur
+      "9": der
       "10": Der
 
   - id: A10
@@ -482,7 +480,7 @@ exercises:
     text: |
       1. Könnten Sie mir das Formular {1}? (schickt → ?)
       2. Ich rufe das Bürgeramt morgen {2}. (an → prefix to end)
-      3. Bruno meldet sich gestern beim Bürgeramt {3}. (an → ?)
+      3. Bruno {3} sich gestern beim Bürgeramt angemeldet. (meldet → ?)
       4. Die Beamtin gibt {4} Formular Bruno. (dem → Akkusativ)
       5. Ich habe einen Termin {5} Dienstag. (an → am)
       6. Bitte füllen Sie das Formular {6}. (ein → aus)
@@ -493,7 +491,7 @@ exercises:
     answers:
       "1": schicken
       "2": an
-      "3": an
+      "3": hat
       "4": das
       "5": am
       "6": aus

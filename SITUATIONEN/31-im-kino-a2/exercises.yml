@@ -140,10 +140,12 @@ exercises:
       — Zweimal für 20:15, bitte. Gibt es eine {5}?
       — Mit Studentenausweis 8 € statt 12. Wo möchten Sie {6}?
       — {7} 9 oder 10, Mitte, wenn möglich.
-      — 9 ist noch komplett frei. Wie lange geht der Film? Zwei Stunden
-      zehn — der Saal ist heute wegen {8} etwas später wieder frei.
+      — 9 ist noch komplett frei.
+      — Perfekt. Wie lange geht der Film denn?
+      — Zwei Stunden zehn — der Saal ist heute wegen {8} etwas später
+      wieder frei.
       — Gut zu wissen. Und eine große Tüte {9}, salzig.
-      — Macht zusammen 22,50 €. Saal 3, {10} ist rechts.
+      — Macht zusammen 22,50 €. Saal 3, der {10} ist rechts.
       — Danke schön!
     bank: [WOLLEN, VORSTELLUNG, FRÜHERE, SYNCHRONISIERT, ERMÄSSIGUNG, SITZEN, REIHE, ÜBERLÄNGE, POPCORN, EINGANG, SPÄTERE, KARTE, PLATZ, LEINWAND]
     answers:
@@ -375,7 +377,7 @@ exercises:
       8. Könnten Sie bitte etwas {8} sein? (quieter)
       9. Wie {9} du den Film? (did you find — Präteritum)
       10. Ich fand ihn gut, {10} die Bilder toll waren. (because)
-      11. Mir hat der Anfang {11}. (appealed — gefallen)
+      11. Mir hat der Anfang {11}. (I liked it — Partizip)
       12. Das Ende war {12} zu schnell. (for me — Dativ)
     answers:
       "1": Wollen

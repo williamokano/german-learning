@@ -352,7 +352,9 @@ exercises:
       "9": würde
       "10": prüfen
       "11": wäre
-      "12": sprichst
+      "12":
+        - sprechen würdest
+        - sprächest
 
   - id: A8
     block: A
@@ -435,7 +437,7 @@ exercises:
       — Ich weiß nicht. Wenn ich mehr Mut {3}, würde ich vielleicht ein eigenes Café aufmachen.
       — Das klingt toll! An deiner Stelle {4} ich das sofort angehen.
       — Du {5} leicht reden — du hast doch schon so viel Erfahrung.
-      — Ich wünschte, das stimmen würde. Aber wenn ich ehrlich bin, {6} auch ich oft unsicher.
+      — Ich wünschte, das würde stimmen. Aber wenn ich ehrlich bin, {6} auch ich oft unsicher.
       — Wirklich? Das überrascht mich. Was {7} du denn konkret anders machen?
       — Wenn ich noch mal anfangen {8}, würde ich früher in die Selbstständigkeit gehen.
     answers:
@@ -472,7 +474,7 @@ exercises:
       "2": "Ich wünschte, ich wäre in Tokio."
       "3": "An deiner Stelle würde ich das sofort machen."
       "4": "Wenn Anna freier wäre, würde sie nach Lissabon ziehen."
-      "5": "Du solltest dich anmelden."
+      "5": "Du solltest dich anmelden, wenn du mich fragst."
       "6": "Wenn ich könnte, würde ich sofort anfangen."
 
   - id: B3
@@ -578,12 +580,12 @@ exercises:
     title: "Einem Freund einen Ratschlag geben"
     instructions: "Complete each piece of advice using `solltest`, `würde` or `wäre`. 6 items."
     text: |
-      1. Du {1} dir mehr Zeit für dich selbst nehmen. (solltest)
-      2. An deiner Stelle {2} ich sofort mit dem Kurs anfangen. (würde)
-      3. Ich {3} dir empfehlen, mit deinem Chef zu sprechen. (würde)
-      4. Es {4} besser, wenn du früher schlafen gehst. (wäre)
-      5. Du {5} das unbedingt ausprobieren — es macht Spaß! (solltest)
-      6. An deiner Stelle {6} ich nicht so lange warten. (würde)
+      1. Du {1} dir mehr Zeit für dich selbst nehmen.
+      2. An deiner Stelle {2} ich sofort mit dem Kurs anfangen.
+      3. Ich {3} dir empfehlen, mit deinem Chef zu sprechen.
+      4. Es {4} besser, wenn du früher schlafen gehst.
+      5. Du {5} das unbedingt ausprobieren — es macht Spaß!
+      6. An deiner Stelle {6} ich nicht so lange warten.
     answers:
       "1": solltest
       "2": würde

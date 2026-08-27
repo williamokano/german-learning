@@ -534,7 +534,7 @@ exercises:
       4. Entweder du kommst mit, oder ich gehe allein.
          → Wenn du {4}, gehe ich allein. (wenn-clause — different structure, same logic)
       5. Er hat weder Zeit noch Lust.
-         → Er hat {5} Zeit. Er hat {6} Lust. (use: keine … und keine …)
+         → Er hat {5} Zeit und {6} Lust. (use: keine … und keine …)
       6. Nicht nur hat er angerufen, sondern er hat auch eine E-Mail geschrieben.
          → Er hat {7} angerufen {8} eine E-Mail geschrieben. (sowohl … als auch)
     answers:
@@ -545,7 +545,7 @@ exercises:
       "5": keine
       "6": keine
       "7": sowohl
-      "8": als auch eine E-Mail geschrieben
+      "8": als auch
 
   - id: B4
     block: B

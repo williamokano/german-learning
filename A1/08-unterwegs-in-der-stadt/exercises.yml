@@ -170,7 +170,7 @@ exercises:
       1. Ich komme von {1} Arbeit.
       2. Er arbeitet bei {2} Bank.
       3. Sie kommt gerade aus {3} Supermarkt.
-      4. Wir kommen von {4} Flughafen.
+      4. Wir kommen von {4} Kollegen.
       5. Bist du noch bei {5} Arbeit?
       6. Der Bus kommt aus {6} Stadt.
       7. Jonas wohnt bei {7} Eltern. (pl.!)
@@ -179,7 +179,7 @@ exercises:
       "1": der
       "2": der
       "3": dem
-      "4": dem
+      "4": den
       "5": der
       "6": der
       "7": den
@@ -699,7 +699,7 @@ exercises:
       "1": mit
       "2": Fuß
       "3": ab
-      "4": um
+      "4": umsteigen
       "5": dauert
       "6": vom
       "7": Hause

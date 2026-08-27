@@ -200,10 +200,10 @@ exercises:
       5. Wenn du mir {5} (helfen können), wäre das super.
     answers:
       "1": kann
-      "2": will
-      "3": will
-      "4": müssen
-      "5": kannst
+      "2": vereinbaren will
+      "3": bekommen will
+      "4": arbeiten müssen
+      "5": helfen kannst
 
   - id: A4
     block: A
@@ -436,8 +436,8 @@ exercises:
       — Ja, bitte. Haben Sie schon {2} in diesem Bereich?
       — Ja, ich habe zwei Jahre {3} Buchhalter bei einer kleinen Firma gearbeitet.
       — Sehr gut. Wann können Sie Ihre {4} schicken?
-      — {5} es Ihnen recht ist, schicke ich alles bis morgen.
-      — Das wäre ideal. {6} die {7} da sind, melden wir uns.
+      — Ich schicke Ihnen alles bis morgen, {5} es Ihnen recht ist.
+      — Das wäre ideal. Wir melden uns, {6} die {7} da sind.
     bank: [wenn, als, weil, Stelle, Bewerbung, Unterlagen, Erfahrung, ob, Gehalt, wenn, Unterlagen]
     answers:
       "1": Stelle
@@ -457,16 +457,16 @@ exercises:
     instructionsEn: "Each sentence has exactly one mistake. The wrong word/position is shown as a gap — write the correct form."
     text: |
       1. Wenn er fertig ist, {1} sofort. (er kommt → ?)
-      2. Ich arbeite als {2} Ärztin in Hamburg. (eine → ?)
+      2. Ich arbeite {2} in Hamburg. (als eine Ärztin → ?)
       3. Wenn ich keine Arbeit finde, {3} die Miete nicht zahlen. (ich kann → ?)
-      4. Sie hat sich {4} für die neue Stelle. (bewerben → ?)
-      5. Er macht Überstunden, wenn viele Gäste {5} (da sein → ?).
+      4. Sie hat sich für die neue Stelle {4}. (bewerben → ?)
+      5. Er macht Überstunden, wenn viele Gäste da {5}. (ist → ?)
       6. Wir vereinbaren einen Termin, wenn die Unterlagen {6}. (sind da → ?)
       7. Ich habe drei {7} als Lehrer gearbeitet. (Jahr → ?)
-      8. Als Student {8} ich kein Geld verdienen. (bin → ?)
+      8. Als Student {8} ich kein Geld. (bin → ?)
     answers:
       "1": "kommt er"
-      "2": "Ärztin"
+      "2": "als Ärztin"
       "3": "kann ich"
       "4": "beworben"
       "5": "sind"
@@ -981,9 +981,7 @@ exercises:
       "14": "eingereicht sind"
       "15": weil
       "16": wohnt
-      "17":
-        - ob
-        - dass
+      "17": ob
       "18": ist
       "19": Wenn
       "20": "zusammenarbeiten kann"

@@ -145,12 +145,12 @@ Fülle die Lücken mit `was` oder dem richtigen Relativpronomen (das/die/der/den
 
 Fülle die Lücken mit `wo` oder der passenden Kombination aus Präposition + Relativpronomen. 6 Sätze.
 
-1. Das ist der Ort, ______ wir uns kennengelernt haben. (wo)
+1. Das ist der Ort, ______ wir uns kennengelernt haben.
 2. Berlin ist die Stadt, ______ Pavel seit drei Jahren lebt. (wo / in der — beide korrekt)
-3. Das sind die Bezirke, ______ kaum öffentliche Verkehrsmittel fahren. (wo)
-4. Das ist die Gegend, ______ die Nachfrage am größten ist. (wo)
-5. Das ist das Land, ______ alles möglich scheint. (wo)
-6. Ich suche einen Ort, ______ ich in Ruhe arbeiten kann. (wo)
+3. Das sind die Bezirke, ______ kaum öffentliche Verkehrsmittel fahren.
+4. Das ist die Gegend, ______ die Nachfrage am größten ist.
+5. Das ist das Land, ______ alles möglich scheint.
+6. Ich suche einen Ort, ______ ich in Ruhe arbeiten kann.
 
 ## Übung A8 — Satzbau — Relativsatz rekonstruieren
 
@@ -197,14 +197,14 @@ Ist das Relativpronomen korrekt? Richtig (R) oder Falsch (F)? Bei F: erkläre de
 Fill in the blanks with the correct relative pronoun or preposition + pronoun combination. 8 gaps.
 
 — Ich schreibe gerade den Text für unsere neue Website. Kannst du helfen?
-— Natürlich! Fang mit einer Definition an. „Das ist ein Service, (1) ______ du in Minuten buchen kannst." (mit + dem)
-— Gut. Und dann: „Das sind die Stadtteile, (2) ______ unsere Kunden am meisten wohnen." (in + denen)
-— Genau. Und für das Team: „Das sind Menschen, (3) ______ du wirklich vertrauen kannst." (denen)
-— Toll. Was sagst du zu: „Das Beste, (4) ______ unsere App bietet, ist Zuverlässigkeit."? (was)
-— Super! Noch ein Satz: „Das ist das Ziel, (5) ______ wir jeden Tag arbeiten." (für + das)
-— Und am Ende: „Das ist alles, (6) ______ du brauchst." (was)
-— Perfekt. Der Text, (7) ______ wir jetzt haben, klingt wirklich professionell. (den)
-— Ja! Und das ist genau die Art von Sprache, (8) ______ man auf guten Websites findet. (die)
+— Natürlich! Fang mit einer Definition an. „Das ist ein Service, (1) ______ du in Minuten buchen kannst." (mit …)
+— Gut. Und dann: „Das sind die Stadtteile, (2) ______ unsere Kunden am meisten wohnen." (in …)
+— Genau. Und für das Team: „Das sind Menschen, (3) ______ du wirklich vertrauen kannst."
+— Toll. Was sagst du zu: „Das Beste, (4) ______ unsere App bietet, ist Zuverlässigkeit."?
+— Super! Noch ein Satz: „Das ist das Ziel, (5) ______ wir jeden Tag arbeiten." (für …)
+— Und am Ende: „Das ist alles, (6) ______ du brauchst."
+— Perfekt. Der Text, (7) ______ wir jetzt haben, klingt wirklich professionell.
+— Ja! Und das ist genau die Art von Sprache, (8) ______ man auf guten Websites findet.
 
 ## Übung B2 — Finde den Fehler — falsche Relativpronomen
 
@@ -266,12 +266,12 @@ Formelle Sprache: Fülle die Lücken mit Präposition + Relativpronomen. 6 Sätz
 
 Schreib eine Definition mit einem Relativsatz. 6 Sätze.
 
-1. Ein Barista ist jemand, ______ Kaffee professionell zubereitet. (der — Nom.)
-2. Ein Empfehlungsschreiben ist etwas, ______ man für eine Bewerbung braucht. (was)
+1. Ein Barista ist jemand, ______ Kaffee professionell zubereitet. (Nom.)
+2. Ein Empfehlungsschreiben ist etwas, ______ man für eine Bewerbung braucht.
 3. Ein Randbezirk ist ein Stadtgebiet, ______ wenig öffentliche Verkehrsmittel fahren. (in dem / wo)
-4. Eine App ist ein Programm, ______ man auf dem Smartphone nutzt. (das — Akk.)
-5. Ein Netzwerk ist etwas, ______ dem Startup sehr geholfen hat. (was)
-6. Eine Barista ist jemand, ______ man in einem Spezialcafé begegnet. (dem — Dat.)
+4. Eine App ist ein Programm, ______ man auf dem Smartphone nutzt. (Akk.)
+5. Ein Netzwerk ist etwas, ______ dem Startup sehr geholfen hat.
+6. Ein Stammkunde ist jemand, ______ man oft begegnet. (Dat.)
 
 ## Übung B8 — Leseverstehen: Lesetext (Über uns — die Website des Startups)
 
@@ -429,9 +429,9 @@ One minute per gap. Items marked (B1/03) or (B1/04) review earlier lessons. 15 i
 9. Fill in: Das Beste, ______ sie je gemacht hat, ist ihr Filterkaffee.
 10. Fill in: Berlin ist die Stadt, ______ Pavel wohnt.
 11. (B1/03) Konjunktiv II of `können`, ich-form: ______
-12. (B1/03) Fill in Konjunktiv II: Wenn ich Zeit hätte, ______ ich dir helfen. (würde)
+12. (B1/03) Fill in Konjunktiv II: Wenn ich Zeit hätte, ______ ich dir helfen.
 13. (B1/04) Passiv Präsens: Die App ______ täglich ______ . (nutzen → wird genutzt) → ______ täglich ______.
-14. Fill in: Das ist die Gegend, ______ die Nachfrage am größten ist. (in + f. Dat. → in der)
+14. Fill in: Das ist die Gegend, ______ die Nachfrage am größten ist. (in + f. Dat.)
 15. Fill in the Dativ relative pronoun (f.): die Mitarbeiterin, ______ ich danke.
 
 ## Übung D2 — Welches Wort passt nicht?
@@ -457,7 +457,7 @@ Review of earlier lessons. 10 items.
 5. (A2/13) Fill in: Der Film, ______ ich gestern gesehen habe, war fantastisch. (Akk., m.)
 
 **Aus B1/02 (Konnektoren obwohl/trotzdem/deshalb):**
-6. (B1/02) Fill in: Er bleibt in Berlin, ______ er Prag liebt. (obwohl)
+6. (B1/02) Fill in: Er bleibt in Berlin, ______ er Prag liebt.
 7. (B1/02) Fill in: Die Miete ist hoch. ______ wohnt Pavel in Wedding. (trotzdem — V2)
 8. (B1/02) Fill in: Tomáš liebt das Berliner Netzwerk. ______ ist er oft hier. (deshalb — V2)
 9. (B1/02) Fill in: Das Startup ist ______ jung, ______ es hat schon viele Kunden. (zwar … aber)

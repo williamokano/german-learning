@@ -134,7 +134,7 @@ Modellantwort:
 
 ## Übung B3 — Finde den Fehler
 
-1. **en (einen)**  2. **st (könntest)**  3. **C**  4. **en (einen)**  5. **n (würden)**  6. **morgen**  7. **wäre**  8. **Könnten**  9. **C**  10. **umstellen: Ich würde gerne bitte ein Stück Kuchen nehmen.**
+1. **einen**  2. **Könntest**  3. **C**  4. **einen**  5. **Würden**  6. **morgen ins Kino gehen**  7. **wäre**  8. **Könnten**  9. **C**  10. **bitte ein Stück Kuchen nehmen**
 
 ## Übung B4 — Satzbau: Konjunktiv II Sätze
 
@@ -265,7 +265,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Gemischter Schnelltest
 
-1. **würdest**  2. **könnten**  3. **hätte**  4. **wäre**  5. **Ich hätte gern einen Kaffee, bitte.**  6. **sein**  7. **können**  8. **Könnten Sie bitte die Rechnung bringen?**  9. **e (schöne)**  10. **arbeiten**  11. **wärt**  12. **würden**  13. **hätte**  14. **auf**  15. **Das wäre sehr nett.**
+1. **würdest**  2. **könnten**  3. **hätte**  4. **wäre**  5. **Ich hätte gern einen Kaffee, bitte.**  6. **sein**  7. **können**  8. **Könnten Sie bitte die Rechnung bringen?**  9. **e**  10. **arbeiten**  11. **wärt**  12. **würden**  13. **hätte**  14. **auf**  15. **Das wäre sehr nett.**
 
 ## Übung D2 — Odd one out
 

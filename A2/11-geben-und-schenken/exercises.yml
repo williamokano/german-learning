@@ -205,7 +205,7 @@ exercises:
     instructionsEn: "Complete the dative noun phrase (the indirect object — the person). 10 items."
     text: |
       1. Ich schenke mein{1} Schwester ein Buch.
-      2. Er gibt dem{2} Kind einen Apfel.
+      2. Er gibt d{2} Kind einen Apfel.
       3. Anna schickt ihr{3} Freundin eine Karte.
       4. Wir erklären d{4} Schülern die Regel.
       5. Du schreibst dein{5} Vater einen Brief.
@@ -216,7 +216,7 @@ exercises:
       10. Du leihst dein{10} Bruder das Auto.
     answers:
       "1": er
-      "2": ""
+      "2": em
       "3": er
       "4": en
       "5": em
@@ -507,8 +507,8 @@ exercises:
       — Ja, gern. Ich {8} Ihnen diesen spannenden Roman.
       — Danke! Ich {9} ihm die CD und das Buch zum Geburtstag.
       — Wunderbar. Soll ich alles {10}?
-      — Ja, bitte. Ich {11} es Ihnen gern ein.
-      — Kein Problem. Ich {12} Ihnen einen schönen Tag!
+      — Ja, bitte. Das wäre sehr nett.
+      — Kein Problem, ich {11} es Ihnen gern ein. Ich {12} Ihnen einen schönen Tag!
     bank: [suche, mag, schenke, empfehle, möchte, kaufen, empfehlen, empfehle, schenke, einpacken, packe, wünsche, suche, mag, schenke]
     answers:
       "1": suche
@@ -801,7 +801,7 @@ exercises:
       ihr die Verkäuferin einen Krimi. „Ich {4} Ihnen dieses Buch
       sehr", sagte sie. „Es ist unser {5} Buch in diesem Monat."
       Anna {6} das Buch und {7} es schön ein. Dann
-      {8} sie eine Karte: „Liebe Lisa, {9} ich dir alles Gute
+      {8} sie eine Karte: „Liebe Lisa, ich {9} dir alles Gute
       zum Geburtstag! Deine Anna." Am Sonntag {10} sie das Geschenk
       zu Lisa.
     bank: [BRACHTE, BRINGT, DANKTE, EMPFAHL, EMPFEHLE, EMPFIEHLT, BESTES, GEHT, GING, HOLTE, KAUFEN, KAUFTE, KAUFST, LEGTE, ÖFFNETE, PACKTE, SCHENKTE, SCHRIEB, WÜNSCHE, ZAHLTE]
@@ -950,7 +950,8 @@ exercises:
       8. Konjugation geben, er/sie-form: {9}
       9. Konjugation empfehlen, du-form: {10}
       10. (A2/L8) Adjective ending: „Das ist unser {11} Buch." (best-)
-      11. Two pronouns: „Ich schenke {12} (it) {13} (her)." → {14} {15}
+      11. Zwei Pronomen: „Ich schenke {12} {13}." (es / ihr — Akkusativ zuerst)
+      11b. Zwei Nomen: „Ich schenke {14} {15}." (das Buch / meiner Schwester — Dativ zuerst)
       12. kaufen + recipient: preposition {16} (für / mit / von) + Akkusativ
       13. „Ich schenke mein{17} Schwester ein Buch."
       14. (A1/L11) Perfekt auxiliary for schenken: {18} (hat / ist)
@@ -969,8 +970,8 @@ exercises:
       "11": bestes
       "12": es
       "13": ihr
-      "14": es
-      "15": ihr
+      "14": "meiner Schwester"
+      "15": "das Buch"
       "16": für
       "17": er
       "18": hat
@@ -1030,7 +1031,7 @@ exercises:
       "7": Akkusativ
       "8": "Would you like to come along?"
       "9": richtig
-      "10": "Zukunft (future)"
+      "10": "Zukunft"
 
   - id: D4
     block: D
@@ -1072,7 +1073,7 @@ exercises:
 
       **Mixed:**
       18. Konjugation schenken, wir-form: {26}
-      19. (A2/L8) Adjective ending: „Das ist unser bestes Buch." — why bestes? {27}
+      19. (A2/L8) Adjektivendung: „Das ist unser best{27} Buch." (n, Nom.)
       20. Direct object in „Schreibt ihr eurer Oma auch eine Karte?" — {28}
     answers:
       "1": Dativ
@@ -1101,5 +1102,5 @@ exercises:
       "24": mir
       "25": ihnen
       "26": schenken
-      "27": "unser is a possessive (mixed declension) — bestes for Nominativ/Akkusativ neuter singular"
+      "27": "es"
       "28": "eine Karte"

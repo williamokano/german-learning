@@ -634,10 +634,10 @@ exercises:
     text: |
       1. „Das ist halt nicht ganz richtig." → standardsprachlich: „Das ist {1} nicht ganz richtig."
       2. „Er wird wohl krank sein." → standardsprachlich: „Er ist {2} krank."
-      3. „Das ist ja Quatsch!" → standardsprachlich: „{3}."
-      4. „Komm doch mal mit!" → standardsprachlich: „{4}."
-      5. „Das ist eben nicht einfach." → standardsprachlich: „{5}."
-      6. „Das ist halt so." → standardsprachlich: „{6}."
+      3. „Das ist ja Quatsch!" → standardsprachlich: „{3}"
+      4. „Komm doch mal mit!" → standardsprachlich: „{4}"
+      5. „Das ist eben nicht einfach." → standardsprachlich: „{5}"
+      6. „Das ist halt so." → standardsprachlich: „{6}"
     answers:
       "1": allerdings
       "2": vermutlich
@@ -725,7 +725,7 @@ exercises:
       werbend; *Komm {5}!* ist drängend; *Komm halt!* ist resigniert.
       Im geschriebenen Register sollte man Modalpartikeln sparsam einsetzen:
       ein bis zwei pro E-Mail reichen. Wer in einer Bewerbung schreibt
-      „Ich {6} teamfähig", klingt umgangssprachlich im Anzug. Wer mit dem
+      „Ich bin {6} teamfähig", klingt umgangssprachlich im Anzug. Wer mit dem
       Konjunktiv II kombiniert, wird höflicher: *Ich {7} {8} vorschlagen,
       dass …* ist Standardformel im Berufsleben. Im {9} steht die Partikel
       direkt nach dem finiten Verb — nicht am Satzanfang, nicht am Satzende.

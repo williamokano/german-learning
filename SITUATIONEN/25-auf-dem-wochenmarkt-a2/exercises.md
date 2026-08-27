@@ -42,7 +42,7 @@ Ergänze die Mengenangabe.
 5. Drei ______ Kürbis, nicht mehr. (das Stück zum Abschneiden)
 6. Eine ______ Eier, bitte. (10 Stück)
 7. Von den Zwetschgen bitte eine kleine ______. (Papierverpackung)
-8. Und ein ______ Feldsalat. (die Handvoll, wie beim Bund)
+8. Und ein ______ Feldsalat. (dieselbe Einheit wie bei der Petersilie)
 
 ## Übung A4 — Komparativ am Stand
 

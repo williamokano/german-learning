@@ -174,7 +174,7 @@ exercises:
       4. Die Konkurrenz {4} — zwei Anbieter haben aufgegeben.
       5. Die Investition {5} sich nach drei Jahren.
       6. Die Nachfrage {6} seit Monaten stark an.
-      7. Die Kosten {7} nach der Krise plötzlich ein.
+      7. Die Kosten {7} nach der Krise plötzlich ein. (Präteritum)
       8. Die Nachfrage ist leicht {8}.
     answers:
       "1": gestiegen
@@ -183,7 +183,7 @@ exercises:
       "4": schrumpft
       "5": amortisiert
       "6": zieht
-      "7": eingebrochen
+      "7": brachen
       "8": gesunken
 
   - id: A3
@@ -258,7 +258,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: "um + Prozent oder in + Akkusativ?"
-    instructions: "Setze um oder in ein. ⚠️ um = statische Mengenangabe; in + Akk. = Richtung Markt. 6 Items."
+    instructions: "Setze um oder in ein. ⚠️ um = Mengenangabe; in + Akk. = Richtung Markt; in + Dat. = Zeitraum. 6 Items."
     text: |
       1. Der Umsatz ist {1} 8 % gestiegen.
       2. Der Gewinn ist {2} 2 % gesunken.

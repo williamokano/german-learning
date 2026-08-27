@@ -99,11 +99,11 @@
 
 ## Übung B1 — Dialog ergänzen
 
-1. **warte**  2. **auf**  3. **interessierst du dich**  4. **für**  5. **Sprechen**  6. **über**  7. **freue**  8. **auf**  9. **ärgerst du dich**  10. **über**  11. **antworte**  12. **auf**
+1. **warte**  2. **auf**  3. **für**  4. **interessierst**  5. **Sprechen**  6. **über**  7. **freue**  8. **auf**  9. **ärgerst**  10. **über**  11. **antworte**  12. **auf**
 
 ## Übung B2 — Finde den Fehler
 
-1. **auf**  2. **für**  3. **auf**  4. **ärgert**  5. **nicht auf**  6. **einen**  7. **der**  8. ****  9. **über**  10. **auf**
+1. **auf**  2. **für**  3. **auf**  4. **ärgert**  5. **nicht auf**  6. **einen**  7. **der**  8. **meinen**  9. **über**  10. **auf**
 
 ## Übung B3 — Frage und Antwort verbinden
 

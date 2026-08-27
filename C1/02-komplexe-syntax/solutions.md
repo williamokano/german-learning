@@ -51,7 +51,7 @@
 
 ## Übung A3 — Vorangestelltes Partizipialattribut bilden
 
-1. **1990 gegründete**  2. **seit Monaten andauernde**  3. **den Preis erhaltende**  4. **2019 veröffentlichte**  5. **mir empfohlene**  6. **sich verschärft habende**
+1. **1990 gegründete**  2. **seit Monaten andauernde**  3. **mit dem Preis ausgezeichnete**  4. **2019 veröffentlichte**  5. **mir empfohlene**  6. **sich seit Wochen verschärfende**
 
 ## Übung A4 — Nachgestellter Relativsatz
 
@@ -67,7 +67,7 @@
 
 ## Übung A7 — Ellipsen ergänzen
 
-1. **Sie**  2. **er**  3. **18 Uhr**  4. **Wenn**  5. **Die einen**  6. **sagen**  7. **Die anderen**  8. **sagten**  9. **Kopf hoch**  10. **Nichts zu machen**
+1. **Sie**  2. **er**  3. **18 Uhr**  4. **Wenn**  5. **Die einen**  6. **sagen**  7. **Die anderen**  8. **sagen**  9. **Kopf hoch**  10. **Nichts zu machen**
 
 ## Übung A8 — Welche Funktion hat das Attribut?
 
@@ -239,7 +239,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (bewerte dich /20)
 
-1. **Apposition**  2. **Parenthese**  3. **Partizipialattribut (vorangestellt)**  4. **Relativsatz (nachgestellt)**  5. **Ellipse**  6. **den**  7. **der**  8. **das**  9. **in der**  10. **klingend**  11. **gegründet**  12. **Ende**  13. **2**  14. **II**  15. **das**  16. **umgangssprachlich**  17. **Nachfeld**  18. **Distanz**  19. **treffen**  20. **um**
+1. **Apposition**  2. **Parenthese**  3. **Partizipialattribut** (auch richtig: **Partizipialattribut (vorangestellt)**)  4. **Relativsatz** (auch richtig: **Relativsatz (nachgestellt)**)  5. **Ellipse**  6. **den**  7. **der**  8. **das**  9. **in der**  10. **klingend**  11. **gegründet**  12. **Ende**  13. **2**  14. **II**  15. **das**  16. **umgangssprachlich**  17. **Nachfeld**  18. **Distanz**  19. **treffen**  20. **um**
 
 ---
 

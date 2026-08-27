@@ -245,7 +245,7 @@ Rewrite each sentence using the connector given in brackets. Keep the meaning as
 4. Entweder du kommst mit, oder ich gehe allein.
    → Wenn du (4) ______, gehe ich allein. (wenn-clause — different structure, same logic)
 5. Er hat weder Zeit noch Lust.
-   → Er hat (5) ______ Zeit. Er hat (6) ______ Lust. (use: keine … und keine …)
+   → Er hat (5) ______ Zeit und (6) ______ Lust. (use: keine … und keine …)
 6. Nicht nur hat er angerufen, sondern er hat auch eine E-Mail geschrieben.
    → Er hat (7) ______ angerufen (8) ______ eine E-Mail geschrieben. (sowohl … als auch)
 

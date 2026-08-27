@@ -52,14 +52,14 @@ exercises:
       3. Bevor die Sitzung beginnt, gibt es Kaffee. → {3} der Sitzung gibt es Kaffee.
       4. Obwohl es kalt war, gingen wir spazieren. → {4} der Kälte gingen wir spazieren.
       5. Wenn man die Anleitung liest, versteht man es besser. → {5} Lesen der Anleitung versteht man es besser.
-      6. Damit er pünktlich ist, fährt er früh los. → {6} seine Pünktlichkeit fährt er früh los.
+      6. Seitdem er umgezogen ist, sehen wir ihn selten. → {6} seinem Umzug sehen wir ihn selten.
     answers:
       "1": Wegen
       "2": Nach
       "3": Vor
       "4": Trotz
       "5": Beim
-      "6": Für
+      "6": Seit
 
   # ── Block B — Vertiefung ──────────────────────────────────────────────────
 
@@ -197,19 +197,19 @@ exercises:
     title: "Gemischte Wiederholung"
     instructions: "Ergänze die passende Präposition."
     text: |
-      1. Weil es regnete, blieben wir zu Hause. → {1} des Regens blieben wir zu Hause.
-      2. Nachdem er angekommen war, rief er an. → {2} seiner Ankunft rief er an.
-      3. Bevor die Sitzung beginnt, gibt es Kaffee. → {3} der Sitzung gibt es Kaffee.
-      4. Obwohl es kalt war, gingen wir spazieren. → {4} der Kälte gingen wir spazieren.
-      5. Wenn man die Anleitung liest, versteht man es besser. → {5} Lesen der Anleitung versteht man es besser.
-      6. Damit er pünktlich ist, fährt er früh los. → {6} seine Pünktlichkeit fährt er früh los.
+      1. Während wir warteten, lasen wir Zeitung. → {1} des Wartens lasen wir Zeitung.
+      2. Weil das Wetter schlecht war, fiel das Spiel aus. → {2} des schlechten Wetters fiel das Spiel aus.
+      3. Nachdem die Daten geprüft worden waren, wurden sie freigegeben. → {3} der Prüfung wurden die Daten freigegeben.
+      4. Obwohl er Bedenken hatte, stimmte er zu. → {4} seiner Bedenken stimmte er zu.
+      5. Bevor man unterschreibt, sollte man alles lesen. → {5} dem Unterschreiben sollte man alles lesen.
+      6. Wenn man richtig plant, spart man Zeit. → {6} richtiger Planung spart man Zeit.
     answers:
-      "1": Wegen
-      "2": Nach
-      "3": Vor
+      "1": Während
+      "2": Wegen
+      "3": Nach
       "4": Trotz
-      "5": Beim
-      "6": Für
+      "5": Vor
+      "6": Bei
 
   - id: D2
     block: D

@@ -166,7 +166,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Tendenz richtig beschreiben"
-    instructions: "Wähle das richtige Datenverb (steigt/sinkt/stagniert/zunimmt/nimmt ab). 6 Items."
+    instructions: "Wähle das richtige Datenverb (steigt/sinkt/stagniert/nimmt zu/nimmt ab). 5 Items, 6 Lücken."
     text: |
       1. Im Vergleich zum Vorjahr {1} der Anteil leicht.
       2. Die E-Scooter-Nutzung {2} seit Anfang 2024.

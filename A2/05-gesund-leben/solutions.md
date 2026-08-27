@@ -56,7 +56,7 @@
 
 ## Übung A4 — `sich fühlen`: Konjugation und Sätze
 
-1. **fühle mich**  2. **fühlst dich**  3. **fühlt sich**  4. **fühlen uns**  5. **Fühlt euch**  6. **fühlen sich**
+1. **fühle mich**  2. **fühlst dich**  3. **fühlt sich**  4. **fühlen uns**  5. **fühlt euch**  6. **fühlen sich**
 
 ## Übung A5 — `sich ausruhen`, `sich ärgern`, `sich freuen`: Einsetzen
 
@@ -118,7 +118,7 @@ Modellantwort:
 
 ## Übung B2 — Finde den Fehler
 
-1. **mich**  2. **sich**  3. **uns**  4. **sich**  5. **sich**  6. **mir**  7. **(weglassen)**  8. **Ruhen**  9. **sich**  10. **putzen**
+1. **mich**  2. **sich**  3. **uns**  4. **sich**  5. **ärgert sich Bruno**  6. **mir**  7. **sich**  8. **Ruhen**  9. **sich**  10. **putzen**
 
 ## Übung B3 — Frage und Antwort verbinden
 

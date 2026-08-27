@@ -48,7 +48,7 @@ exercises:
     text: |
       1. Als Kind {1} ich nicht gut schwimmen.
       2. Wir {2} gestern früh aufstehen, der Flug ging um sechs.
-      3. {3} ich als Kind draußen spielen? Ja, klar.
+      3. {3} du als Kind draußen spielen? — Ja, klar.
       4. Er {4} unbedingt Fußballspieler werden.
       5. Meine Mutter sagte, ich {5} mein Zimmer aufräumen.
       6. Ich {6} keinen Fisch, als ich klein war.
@@ -56,7 +56,7 @@ exercises:
     answers:
       "1": konnte
       "2": mussten
-      "3": Durfte
+      "3": Durftest
       "4": wollte
       "5": sollte
       "6": mochte
@@ -199,14 +199,14 @@ exercises:
     text: |
       1. Als Kind {1} ich nicht Auto fahren.
       2. Ich {2} gestern zum Arzt gehen.
-      3. {3} ich als Kind spät ins Bett gehen? Nein, nie.
+      3. {3} du als Kind spät ins Bett gehen? — Nein, nie.
       4. Sie {4} unbedingt Ärztin werden.
       5. Der Trainer sagte, wir {5} mehr üben.
       6. Ich {6} als Kind keine Milch.
     answers:
       "1": konnte
       "2": musste
-      "3": Durfte
+      "3": Durftest
       "4": wollte
       "5": sollten
       "6": mochte

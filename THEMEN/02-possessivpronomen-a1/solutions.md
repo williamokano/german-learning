@@ -20,7 +20,7 @@
 
 ## Übung A2 — sein oder ihr? Wer ist der Besitzer?
 
-1. **Sein**  2. **Ihr**  3. **Ihr**  4. **mein**  5. **dein**  6. **Unser**
+1. **Sein**  2. **Ihr**  3. **Ihr**  4. **Ihr**  5. **dein**  6. **Unser**
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## Übung B1 — Lückentext: Familie Wagner
 
-1. **ihr**  2. **sein**  3. **ihre**  4. **ihre**  5. **ihre**  6. **sein**  7. **ihr**  8. **unser**
+1. **Ihr**  2. **Sein**  3. **Ihre**  4. **Ihre**  5. **Ihre**  6. **Sein**  7. **Ihr**  8. **unser**
 
 ## Übung B2 — Die richtige Endung
 
@@ -64,7 +64,7 @@
 
 ## Übung D1 — Gemischte Wiederholung
 
-1. **seine**  2. **meine**  3. **deinen**  4. **unsere**  5. **eure**  6. **ihren**  7. **ihre**
+1. **Seine**  2. **meine**  3. **deinen**  4. **unsere**  5. **eure**  6. **ihren**  7. **ihre**
 
 ## Übung D2 — Selbsttest
 

@@ -215,15 +215,15 @@ exercises:
       1. Müller schreibt, die Methode {1} umstritten. (sein)
       2. Weber stellt fest, es {2} keine eindeutigen Belege. (geben)
       3. Schmidt betont, man {3} die Daten neu erheben. (müssen)
-      4. Klein sagt, er {4} morgen zur Konferenz. (gehen)
-      5. Der Autor behauptet, die Leute {5} sich nicht umgewöhnen. (wollen — Konjunktiv I 3. Pers. Pl.)
+      4. Klein sagt, er {4} morgen zur Konferenz gehen. (gehen — Ersatzform)
+      5. Der Autor behauptet, die Leute {5} sich nicht umgewöhnen. (wollen — Ersatzform, 3. Pers. Pl.)
       6. Sie sagte, sie {6} krank. (sein)
     answers:
       "1": sei
       "2": gebe
       "3": müsse
-      "4": würde gehen
-      "5": würden
+      "4": würde
+      "5": wollten
       "6": sei
 
   - id: A3
@@ -338,7 +338,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Negation — Korrelate und Verstärkung'
-    instructions: 'Setze das passende Wort ein. 6 Items.'
+    instructions: 'Setze das passende Wort ein. 4 Items, 6 Lücken.'
     text: |
       1. {1} der Vater {2} die Mutter wollten umkehren. (Korrelat: „weder" / „noch")
       2. {3} er, {4} auch sie kommt. (Hervorhebung + Ergänzung)
@@ -711,12 +711,12 @@ exercises:
     title: 'es-Konstruktionen unterscheiden'
     instructions: 'Setze das passende Wort ein (Vorfeld-es, Korrelat-es, Existenz-es, unpersönliches es). 6 Items.'
     text: |
-      1. {1} regnet. (Vorfeld-es)
+      1. {1} regnet. (unpersönliches es)
       2. {2} gibt einen Ausweg. (Existenz-es)
       3. {3} kommt darauf an, dass wir pünktlich sind. (unpersönliches es)
       4. {4} freut mich, dass Sie da sind. (Korrelat-es)
       5. {5} ist wichtig, dass wir das schaffen. (Korrelat-es)
-      6. {6} zeigt sich, dass die Hypothese stimmt. (unpersönliches es)
+      6. {6} kamen viele Gäste. — Gestern kamen viele Gäste. (Vorfeld-es)
     answers:
       "1": Es
       "2": Es

@@ -52,7 +52,7 @@
 
 ## Übung A2 — Konjunktiv I bilden
 
-1. **sei**  2. **gebe**  3. **müsse**  4. **würde gehen**  5. **würden**  6. **sei**
+1. **sei**  2. **gebe**  3. **müsse**  4. **würde**  5. **wollten**  6. **sei**
 
 ## Übung A3 — Konjunktiv II — Irrealis oder Höflichkeit?
 

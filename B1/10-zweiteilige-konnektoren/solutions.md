@@ -111,7 +111,7 @@ a → 1 · b → 2 · c → 3 · d → 4 · e → 5 · f → 6
 
 ## Übung B3 — Umformung: einen Konnektor durch einen anderen ersetzen
 
-1. **sowohl Deutsch als auch Englisch**  2. **Nicht nur Mia, sondern auch Lukas wohnt in Kreuzberg.**  3. **Jedoch**  4. **nicht mitkommst**  5. **keine**  6. **keine**  7. **sowohl**  8. **als auch eine E-Mail geschrieben**
+1. **sowohl Deutsch als auch Englisch**  2. **Nicht nur Mia, sondern auch Lukas wohnt in Kreuzberg.**  3. **Jedoch**  4. **nicht mitkommst**  5. **keine**  6. **keine**  7. **sowohl**  8. **als auch**
 
 ## Übung B4 — Satzhälften verbinden: Argumente strukturieren
 

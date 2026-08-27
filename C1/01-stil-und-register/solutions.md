@@ -167,9 +167,9 @@ Modellantwort:
 
 1. **a) Hast du mal kurz Zeit für mich?** — Messenger unter Kolleginnen = informell. Variante a passt. Variante b ist viel zu förmlich.
 2. **b) Selbstverständlich werden Ihnen die Unterlagen morgen zugestellt.** — Erstkontakt mit Mandanten = gehoben + förmlich. Variante b mit „selbstverständlich“, Passiv und „zugestellt“ passt.
-3. **a) Die Regierung plant einen Personalabbau von 500 Stellen.** — Zeitungssprache ist sachlich. Variante b mit „plant“ und „Personalabbau“ ist angemessen.
+3. **a) Die Regierung plant einen Personalabbau von 500 Stellen.** — Zeitungssprache ist sachlich. Variante a mit „plant“ und „Personalabbau“ ist angemessen; „rausschmeißen“ ist umgangssprachlich.
 4. **b) Es tut mir sehr leid. Ich denke an dich.** — Im Trauerkontext sind Modalpartikeln („halt“) unangemessen. Variante b ist warm, kurz und registerkonform.
-5. **a) Leider müssen wir Ihnen mitteilen, dass wir Ihre Bewerbung nicht berücksichtigen können.** — Auch in einer Absage bleibt das Register höflich-förmlich. Variante a ist direkt beleidigend.
+5. **a) Leider müssen wir Ihnen mitteilen, dass wir Ihre Bewerbung nicht berücksichtigen können.** — Auch in einer Absage bleibt das Register höflich-förmlich. Variante b ist direkt beleidigend.
 
 ## Übung B9 — E-Mail: Zwei Versionen — eine informelle, eine formelle
 
@@ -203,7 +203,7 @@ Selbstkorrektur:
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-1. **SIE**  2. **VERMEIDEN**  3. **KONJUNKTIV**  4. **WÜRDE**  5. **DUZEN**  6. **HALT**  7. **MAL**  8. **SITUATION**  9. **EUPHEMISMEN**  10. **BESCHÖNIGEN**
+1. **SCHREIBEN**  2. **VERMEIDEN**  3. **KONJUNKTIV**  4. **WÜRDE**  5. **DUZEN**  6. **HALT**  7. **MAL**  8. **SITUATION**  9. **EUPHEMISMEN**  10. **BESCHÖNIGEN**
 
 ## Übung C4a — Lesen Text 1 (Lesetext: Die Macht der Sprache)
 

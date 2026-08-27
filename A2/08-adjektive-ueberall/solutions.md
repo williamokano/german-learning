@@ -100,7 +100,7 @@
 
 ## Übung B2 — Finde den Fehler
 
-1. **er**  2. **en**  3. **e**  4. **es**  5. **er**  6. **en**  7. **en**  8. **e**  9. **en (and article should be einen)**  10. **en**
+1. **er**  2. **en**  3. **e**  4. **es**  5. **er**  6. **en**  7. **en**  8. **e**  9. **en**  10. **en**
 
 ## Übung B3 — Frage und Antwort verbinden
 

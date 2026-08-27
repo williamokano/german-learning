@@ -449,10 +449,10 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Substitutionsübung"
-    instructions: "Schreibe den Satz um und ändere das Nomen + Adjektiv zum angegebenen neuen Genus oder Kasus. Schreibe die richtige Adjektivendung in die Lücke."
-    instructionsEn: "Rewrite the sentence changing the noun + adjective to the new gender or case shown. Write the correct adjective ending in the gap."
+    instructions: "Ergänze die Adjektivendung. Genus und Kasus stehen in Klammern."
+    instructionsEn: "Fill in the adjective ending. Gender and case are given in brackets."
     text: |
-      1. Das ist ein alt{1} Kind. (Neut, Nom)
+      1. Das ist ein alt{1} Haus. (Neut, Nom)
       2. Ich sehe die rot{2} Jacke. (Fem, Akk)
       3. Sie trägt einen elegant{3} Schal. (Mask, Akk)
       4. Er kommt mit der neu{4} Freundin. (Fem, Dat)
@@ -508,7 +508,7 @@ exercises:
     text: |
       — Entschuldigung, ich suche eine Jacke für meinen Bruder. Er mag {1} (dunkel) Farben.
       — Sehr gut. Wir haben diesen {2} (schwarz) Mantel hier — er ist sehr {3} (elegant).
-      — Hm, der {4} (schwarz) Mantel ist sehr schön, aber etwas zu groß. Haben Sie einen {5} (klein) ?
+      — Hm, der {4} (schwarz) Mantel ist sehr schön, aber etwas zu groß. Haben Sie einen {5} (klein)?
       — Ja, hier ist ein {6} (ähnlich) Modell in einer {7} (klein) Größe. Und dieser {8} (grau) Mantel ist auch eine gute Alternative.
       — Ich finde den {9} (grau) Mantel besser. Haben Sie auch ein {10} (passend) Hemd dazu?
       — Natürlich! Dieses {11} (weiß) Hemd passt sehr gut zum {12} (grau) Mantel.
@@ -539,11 +539,11 @@ exercises:
       2. Ich kaufe den rot{2} Schal. (Akk Mask def. → ?)
       3. Sie trägt eine elegant{3} Bluse. (Akk Fem indef. → ?)
       4. Er sucht ein neu{4} Hemd. (Akk Neut indef. → ?)
-      5. Das ist der schön{5} Abend! *(indefinite article intended)* (Nom Mask indef. → ?)
+      5. Das ist ein schön{5} Abend! (Nom Mask indef. → ?)
       6. Er kommt mit dem neu{6} Freund. (Dat Mask def. → ?)
       7. Das sind keine alt{7} Schuhe. (Pl → ?)
       8. Sie mag das schwarz{8} Kleid. (Akk Neut def. → ?)
-      9. Er trägt ein elegant{9} Anzug. (m → article + ending)
+      9. Er trägt einen elegant{9} Anzug. (Akk Mask indef. → ?)
       10. Mit der blau{10} Jacke siehst du toll aus. (Dat Fem def. → ?)
     answers:
       "1": er
@@ -554,7 +554,7 @@ exercises:
       "6": en
       "7": en
       "8": e
-      "9": "en (and article should be einen)"
+      "9": en
       "10": en
 
   - id: B3
@@ -747,7 +747,7 @@ exercises:
     instructionsEn: "Fill each gap with one word (usually the adjective ending or the full adjective+ending form)."
     text: |
       Anna ist in einem {1} Modegeschäft in Berlin. Die Verkäuferin zeigt ihr ein
-      {2} Kleid — es ist rot und sehr elegant. Anna probiert das {3}
+      {2} Kleid in Rot. Anna probiert das {3}
       Kleid an, aber es ist zu eng. Die Verkäuferin bringt dann ein {4} Modell in
       einer {5} Größe. Das {6} Kleid sitzt perfekt. Anna fragt nach einem
       {7} Schal dazu. Die Verkäuferin empfiehlt einen {8} Schal — er

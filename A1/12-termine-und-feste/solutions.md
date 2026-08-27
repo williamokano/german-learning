@@ -65,7 +65,7 @@
 
 ## Übung A6 — Präposition + Nomen: vor oder nach?
 
-1. **Nach dem**  2. **nach dem**  3. **nach der**  4. **Nach der**  5. **nach der**  6. **nach dem**
+1. **Vor dem**  2. **nach dem**  3. **vor der**  4. **Vor der**  5. **vor der**  6. **nach dem**
 
 ## Übung A7 — `einladen`: konjugieren
 

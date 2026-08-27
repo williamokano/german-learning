@@ -87,7 +87,7 @@ exercises:
       der Schutz des Klimas. Und {6} von Wohnraum: bezahlbar heißt „kann bezahlt
       werden", und {7} macht daraus ein Nomen. Wer diese Bausteine kennt, hat das
       System in der Hand.
-    bank: [entschlüsseln, Entscheidung, Kompositum, Klimaschutz, Bezahlbarkeit, Endung, Vorsilbe, Missverständnis, Verständnis, Entscheidung]
+    bank: [entschlüsseln, Entscheidung, Kompositum, Klimaschutz, Bezahlbarkeit, Endung, Nachsilbe, Vorsilbe, Missverständnis, Verständnis]
     answers:
       "1": entschlüsseln
       "2": Entscheidung
@@ -95,7 +95,7 @@ exercises:
       "4": Endung
       "5": Klimaschutz
       "6": Bezahlbarkeit
-      "7": Vorsilbe
+      "7": Nachsilbe
 
   - id: H4
     block: H
@@ -148,9 +148,9 @@ exercises:
       2. {2}brechen (in Stücke brechen)
       3. {3}finden (wahrnehmen)
       4. {4}verstehen (falsch verstehen)
-      5. {5}zahlen (bezahlen)
-      6. {6}lauben (erlauben)
-      7. {7}fehlen (empfehlen)
+      5. {5}zahlen (Geld für etwas geben)
+      6. {6}lauben (die Genehmigung geben)
+      7. {7}fehlen (zu etwas raten)
       8. {8}schuldigen (um Verzeihung bitten)
     answers:
       "1": ent
@@ -731,7 +731,7 @@ exercises:
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
     text: |
       Aus einem Zeitungsartikel: Die (1) {1} ist in Berlin seit Monaten das
-      wichtigste (2) {2}. Viele (3) {3} — also Leute, die Entscheidungen treffen
+      wichtigste Thema. Sie beherrscht jedes (2) {2}. Viele (3) {3} — also Leute, die Entscheidungen treffen
       — haben die (4) {4} des Themas inzwischen erkannt. Eine zentrale Frage ist
       die (5) {5} von Wohnraum: Wenn die Mieten weiter steigen, ist bezahlbares
       Wohnen bald nicht mehr (6) {6}. Auch das (7) {7} in die politischen

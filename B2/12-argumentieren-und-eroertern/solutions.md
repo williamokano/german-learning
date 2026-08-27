@@ -153,7 +153,7 @@ Modellantwort:
 
 ## Übung B4 — Leserbrief — Redemittel einsetzen
 
-1. **Bezug nehmend**  2. **Einerseits**  3. **andererseits**  4. **Ich bin der Ansicht**  5. **Es spricht für**  6. **Es spricht gegen**  7. **Als Beleg**  8. **Diesem Argument ist entgegenzuhalten**  9. **Zusammenfassend**  10. **Alles in allem**
+1. **Bezug nehmend**  2. **Einerseits**  3. **andererseits**  4. **Ich bin der Ansicht**  5. **Dafür spricht**  6. **Dagegen spricht**  7. **Als Beleg**  8. **Diesem Argument ist entgegenzuhalten**  9. **Zusammenfassend**  10. **Alles in allem**
 
 ## Übung B5 — Welcher Satz passt in welche Sektion?
 

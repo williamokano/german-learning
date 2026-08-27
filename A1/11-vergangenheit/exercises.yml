@@ -400,7 +400,7 @@ exercises:
       2. Wir {3} in einem Restaurant {4} (essen).
       3. Anna {5} ins Konzert {6} (gehen).
       4. {7} du ein Buch {8} (lesen)?
-      5. Er {9} viele Fotos {10} (fotografieren).
+      5. Er {9} im Urlaub viel {10} (fotografieren).
       6. Wir {11} nach München {12} (fahren).
       7. Ich {13} Musik {14} (hören).
       8. Sie {15} zu Hause {16} (bleiben).
@@ -461,7 +461,7 @@ exercises:
       — Toll! Wie lange {4} Sie dort?
       — Eine Woche. Das Wetter {5} herrlich. Wir {6} jeden Tag {7} (schwimmen).
       — {8} Sie auch Sehenswürdigkeiten {9}? (besuchen)
-      — Ja! Wir {10} ein Museum {11} und viele Fotos {12}.
+      — Ja! Wir {10} ein Museum {11} und viel {12}.
     answers:
       "1": war
       "2": sind
@@ -691,10 +691,10 @@ exercises:
     prompt: "Write 4–5 connected sentences about an imaginary trip to Wien using the cues below."
     stimulus: |
       Wien · 5 Tage · Museum besuchen · viel spazieren gehen · gut essen ·
-      Wein trinken · viele Fotos fotografieren · schönes Wetter
+      Wein trinken · viel fotografieren · schönes Wetter
     model: |
       Letzten Sommer bin ich nach Wien gefahren. Ich war fünf Tage dort. Ich habe ein
-      Museum besucht und viele Fotos fotografiert. Ich bin viel spazieren gegangen und
+      Museum besucht und viel fotografiert. Ich bin viel spazieren gegangen und
       habe gut gegessen. Abends habe ich Wein getrunken. Das Wetter war schön.
 
   # ── Block C — Prüfungstraining ───────────────────────────────────────────
@@ -825,9 +825,9 @@ exercises:
       - q: "Sie waren vier Tage in Wien. — They were in Vienna for four days."
         answer: true
         why: '„Wir waren vier Tage dort."'
-      - q: "Am ersten Tag haben sie nur Fotos fotografiert. — On the first day they only took photos."
+      - q: "Am ersten Tag haben sie nur Fotos gemacht. — On the first day they only took photos."
         answer: false
-        why: "Sie haben das Zentrum besichtigt UND viele Fotos fotografiert UND sind ins Museum gegangen."
+        why: "Sie haben das Zentrum besichtigt UND viele Fotos gemacht UND sind ins Museum gegangen."
       - q: "Das Wetter war warm und sonnig. — The weather was warm and sunny."
         answer: true
         why: '„warm und sonnig" — direct description.'

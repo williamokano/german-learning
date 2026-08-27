@@ -108,6 +108,82 @@ when writing a set:
   extractor fan is broken, when can someone come?" are different situations
   and should not be crammed together.
 
+## Beim Schreiben: den Antwort-Leak prüfen
+
+Zwei Fehler rutschen durch alle CI-Gates, weil sie strukturell korrekt sind
+und trotzdem die Übung wertlos machen:
+
+- Ein gap-bank-Wort steht **in derselben Zeile** wie seine eigene Lücke
+  (`Ich buche Sie auf den Flug um 18:40 {4}.` mit Antwort `UM`).
+- Ein gap-text-Hinweis **nennt die Antwort** (`Ich habe eine {4} gegen
+  Nüsse. (Allergie)`).
+
+Dafür gibt es `build/check-answer-leaks.ts` — bewusst **nicht** in der CI,
+weil das Skript über die älteren A1–C1-Lektionen hunderte harmlose
+Funktionswörter meldet. Beim Schreiben eines Sets lohnt es sich aber:
+
+```
+npx tsx build/check-answer-leaks.ts SITUATIONEN/33-am-flughafen-b1
+```
+
+Jeden Treffer selbst ansehen. Manche sind die Übung selbst: Bei
+untrennbaren Verben ist das Partizip gleich dem Infinitiv, `belaufen →
+belaufen` ist also genau der Punkt. Ein Konjugationshinweis wie
+`(müssen, wir-Form)` ist ebenfalls Absicht und wird vom Skript
+übersprungen.
+
+## Antworten, die niemand tippen kann
+
+`build/check-answer-usability.ts` läuft **in der CI** und fängt zwei Fehler,
+die alle anderen Gates passieren, weil das YAML strukturell korrekt ist:
+
+- Die erwartete Antwort trägt die Erklärung in sich: `"en (einen)"`,
+  `"Sie muss ins Krankenhaus (gehen)."` Bewertet wird per Exact-Match nach
+  `normalize()` — wer richtig antwortet, bekommt null Punkte. In einer
+  **Liste** ist eine Klammer erlaubt, weil dort die schlichte Form ebenfalls
+  akzeptiert wird; deshalb prüft das Gate nur skalare Antworten.
+- Ein „Finde den Fehler"-Item, dessen Hinweis `(X → ?)` genau das Wort nennt,
+  das die Antwort wiederherstellt. Es gibt nichts zu finden.
+- Die erwartete Antwort ist leer, weil der Rahmen die Form schon liefert
+  (`Das ist ein{9} freundlich{10} Mann.`). Es gibt nichts zu tippen.
+- Die Antwort trägt den Artikel schon in sich — als Kurzform (`vom`, `zum`)
+  oder als Präposition + Artikel (`aus dem`) — und der Rahmen wiederholt ihn:
+  „Sie kommt gerade vom dem Arzt." Eine **bloße** Artikel-Antwort vor einem
+  weiteren Artikel wird nicht gemeldet, das ist ein normaler Relativsatz
+  („die Frau, die die beste Pasta kocht").
+
+```
+npx tsx build/check-answer-usability.ts --all
+```
+
+## Wenn der Hinweis die Antwort ist
+
+`build/check-cue-equals-answer.ts` meldet jede Lücke, deren Klammerhinweis
+Wort für Wort die erwartete Antwort ist — und die auf ihrer Zeile allein steht,
+also keine Nachbarlücke die Arbeit trägt:
+
+```
+„Es war teuer. {1} kauften wir es nicht." (deshalb)
+Das ist der Ort, {1} wir uns kennengelernt haben. (wo)
+```
+
+Ebenfalls **nicht** in der CI. Dieselbe Form ist nämlich legitim, wenn der
+Hinweis ein Verb nennt und die Lücke eine *Form* davon will, die zufällig mit
+dem Infinitiv zusammenfällt:
+
+```
+Falls die Daten rechtzeitig {1} (vorliegen), schaffen wir es bis Freitag.
+```
+
+Und manchmal fixiert der Hinweis eine von mehreren richtigen Antworten
+(„der Ort, wo …" vs. „der Ort, an dem …"). Jeder Treffer braucht also eine
+Entscheidung: Hinweis streichen oder Item umformulieren — pauschales Löschen
+macht manche Lücken unlösbar.
+
+```
+npx tsx build/check-cue-equals-answer.ts --all
+```
+
 ## German quotes in YAML — the one recurring trap
 
 German quotation marks are `„…“`, and the closing one is **not** a straight
@@ -224,6 +300,23 @@ Same discipline as a `THEMEN/` set:
   offen ansprechen, Aufgaben verteilen, absagen, sauber abrechnen.
 - **35 — Vorstellungsgespräch** (B1) — die sechs Standardfragen, eine
   Lücke im Lebenslauf erklären, Gehalt nennen, selbst fragen, nachfassen.
+- **36 — Grillen im Hof** (A2) — worüber deutscher Smalltalk wirklich
+  geht, welche Themen man meidet, Interesse zeigen, höflich aussteigen.
+- **37 — Einladen, zusagen, absagen** (A2) — die drei Teile einer
+  deutschen Absage (Bedauern, Grund, Gegenvorschlag), verschieben,
+  sich für Vergessenes entschuldigen.
+- **38 — Paket abholen und zurückschicken** (A2) —
+  Benachrichtigungskarte, Filiale und Packstation, Vollmacht, Retoure;
+  beschädigt oder verschwunden.
+- **39 — Bei der Bank** (A2) — Girokonto eröffnen, Legitimation, Karte
+  und PIN, Dauerauftrag gegen Lastschrift, Karte sperren, falsche
+  Abbuchung.
+- **40 — Erster Arbeitstag** (A2) — sich vorstellen, duzen oder siezen,
+  Zeiterfassung und Kernzeit, um Hilfe bitten, Fehler melden,
+  Feierabend.
+- **41 — Notruf und Notaufnahme** (B1) — 112 oder 116 117, den Notruf
+  strukturiert absetzen, Triage verstehen, Verschlechterung melden,
+  Entlassungsbrief.
 
 ## Themenspeicher
 
@@ -234,7 +327,7 @@ wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 falsche Bestellung · Biergarten und Volksfest · Die Rechnung: zusammen oder
 getrennt? · Im Imbiss und am Dönerstand · Beim Eismann mit Kindern
 
-**Einkaufen** — Im Einkaufszentrum / in den Arcaden · Paket abholen (Packstation, Nachbarn) · Handyvertrag abschließen · Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
+**Einkaufen** — Im Einkaufszentrum / in den Arcaden · Handyvertrag abschließen · Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
 Online bestellt, falsch geliefert: Widerruf · Ein Buch kaufen · Ein Auto kaufen
 (B1) · Eine Wohnung kaufen (B2)
 
@@ -248,8 +341,8 @@ Wandern und Klettern · Im Zoo mit Kindern · Ein Fußballspiel im Stadion
 
 **Sport & Gesundheit** — Im Fitnessstudio: trainieren, Gerät abgeben, um
 Hilfestellung bitten, Tipps geben und abwehren (A2) ·
-Notaufnahme und Notruf · Krankschreibung beim Arbeitgeber ·
-Physiotherapie: Rezept, Termine, Übungen
+Krankschreibung beim Arbeitgeber · Physiotherapie: Rezept, Termine,
+Übungen · Impftermin und Vorsorge
 
 **Wohnen & Nachbarschaft** — Mängel melden:
 Heizung, Schimmel, Wasserschaden (B1) · Hausordnung: Ruhezeiten, Waschküche,
@@ -268,15 +361,14 @@ Geldautomat behält die Karte · Handy verloren: Anzeige bei der Polizei ·
 Internet fällt aus: Anruf beim Anbieter · Fundbüro · Portemonnaie vergessen
 
 **Arbeit & Studium** — In der Schule: Elterngespräch, Entschuldigung,
-Klassenfahrt (A2) · Erster Arbeitstag ·
-Um eine Gehaltserhöhung bitten (B2) · Urlaub beantragen · Konflikt mit
+Klassenfahrt (A2) · Um eine Gehaltserhöhung bitten (B2) · Urlaub beantragen · Konflikt mit
 Kolleginnen ansprechen (B2) · Kündigung schreiben · Uni: Immatrikulation,
 Prüfungsamt, BAföG
 
-**Soziales** — Eine Überraschungsparty planen · Smalltalk beim Grillen ·
-Einladen und absagen · Sich höflich beschweren · Sich entschuldigen und ein
-Missverständnis klären · Gratulieren und kondolieren · Jemanden kennenlernen ·
-Elternabend
+**Soziales** — Eine Überraschungsparty planen · Sich höflich beschweren ·
+Sich entschuldigen und ein Missverständnis klären · Gratulieren und
+kondolieren · Elternabend · Ein Geschenk aussuchen und überreichen
 
-Die Kategorie `Soziales` steht noch nicht in `CATEGORY_ORDER` — beim
-ersten Set dort ergänzen. `Arbeit & Studium` ist mit Set 20 dazugekommen.
+Alle Kategorien des Themenspeichers stehen inzwischen in
+`CATEGORY_ORDER`: `Arbeit & Studium` kam mit Set 20 dazu, `Soziales` mit
+Set 36. Eine neue Kategorie dort beim ersten Set ergänzen.

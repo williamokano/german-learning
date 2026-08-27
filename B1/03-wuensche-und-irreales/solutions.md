@@ -71,7 +71,7 @@
 
 ## Übung A7 — Ratschläge geben — `An deiner Stelle` / `Du solltest`
 
-1. **solltest**  2. **anmelden**  3. **würde**  4. **ausprobieren**  5. **würde**  6. **empfehlen**  7. **sollten**  8. **ansprechen**  9. **würde**  10. **prüfen**  11. **wäre**  12. **sprichst**
+1. **solltest**  2. **anmelden**  3. **würde**  4. **ausprobieren**  5. **würde**  6. **empfehlen**  7. **sollten**  8. **ansprechen**  9. **würde**  10. **prüfen**  11. **wäre**  12. **sprechen würdest** (auch richtig: **sprächest**)
 
 ## Übung A8 — Satzbau: Konjunktiv II-Sätze in die richtige Reihenfolge
 
@@ -106,7 +106,7 @@
 
 ## Übung B2 — Finde den Fehler — Konjunktiv II
 
-1. **Wenn ich mehr Zeit hätte, würde ich reisen.**  2. **Ich wünschte, ich wäre in Tokio.**  3. **An deiner Stelle würde ich das sofort machen.**  4. **Wenn Anna freier wäre, würde sie nach Lissabon ziehen.**  5. **Du solltest dich anmelden.**  6. **Wenn ich könnte, würde ich sofort anfangen.**
+1. **Wenn ich mehr Zeit hätte, würde ich reisen.**  2. **Ich wünschte, ich wäre in Tokio.**  3. **An deiner Stelle würde ich das sofort machen.**  4. **Wenn Anna freier wäre, würde sie nach Lissabon ziehen.**  5. **Du solltest dich anmelden, wenn du mich fragst.**  6. **Wenn ich könnte, würde ich sofort anfangen.**
 
 ## Übung B3 — Richtige Form wählen: `würde` oder starke Form?
 

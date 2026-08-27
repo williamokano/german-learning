@@ -104,8 +104,8 @@ Setze die passende Konjunktiv-I-Form ein (oder „würde + Infinitiv" bei Homoph
 1. Müller schreibt, die Methode ______ umstritten. (sein)
 2. Weber stellt fest, es ______ keine eindeutigen Belege. (geben)
 3. Schmidt betont, man ______ die Daten neu erheben. (müssen)
-4. Klein sagt, er ______ morgen zur Konferenz. (gehen)
-5. Der Autor behauptet, die Leute ______ sich nicht umgewöhnen. (wollen — Konjunktiv I 3. Pers. Pl.)
+4. Klein sagt, er ______ morgen zur Konferenz gehen. (gehen — Ersatzform)
+5. Der Autor behauptet, die Leute ______ sich nicht umgewöhnen. (wollen — Ersatzform, 3. Pers. Pl.)
 6. Sie sagte, sie ______ krank. (sein)
 
 ## Übung A3 — Konjunktiv II — Irrealis oder Höflichkeit?
@@ -141,7 +141,7 @@ Wähle die korrekte Verneinung (a, b oder c).
 
 ## Übung A6 — Negation — Korrelate und Verstärkung
 
-Setze das passende Wort ein. 6 Items.
+Setze das passende Wort ein. 4 Items, 6 Lücken.
 
 1. ______ der Vater ______ die Mutter wollten umkehren. (Korrelat: „weder" / „noch")
 2. ______ er, ______ auch sie kommt. (Hervorhebung + Ergänzung)
@@ -266,12 +266,12 @@ Welcher Satz ist UNIDIOMATISCH? Wähle die schiefe Version (a, b oder c).
 
 Setze das passende Wort ein (Vorfeld-es, Korrelat-es, Existenz-es, unpersönliches es). 6 Items.
 
-1. ______ regnet. (Vorfeld-es)
+1. ______ regnet. (unpersönliches es)
 2. ______ gibt einen Ausweg. (Existenz-es)
 3. ______ kommt darauf an, dass wir pünktlich sind. (unpersönliches es)
 4. ______ freut mich, dass Sie da sind. (Korrelat-es)
 5. ______ ist wichtig, dass wir das schaffen. (Korrelat-es)
-6. ______ zeigt sich, dass die Hypothese stimmt. (unpersönliches es)
+6. ______ kamen viele Gäste. — Gestern kamen viele Gäste. (Vorfeld-es)
 
 ## Übung B6 — Vier es-Typen — Fehlverwendung erkennen
 

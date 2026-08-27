@@ -86,7 +86,7 @@ Bestimme, ob das Modalverb objektiv (Tatsache) oder subjektiv (Vermutung/Einsch�
 Setz das passende Modalverb ein (muss / dürfte / könnte / kann nicht). 6 Items.
 
 1. Das Licht brennt und das Auto steht da — er ______ zu Hause sein. (fast sicher)
-2. Ich habe ihn gerade in Berlin gesehen — er ______ jetzt in München sein. (ausgeschlossen)
+2. Ich habe ihn gerade in Berlin gesehen — er ______ gleichzeitig in München sein. (ausgeschlossen)
 3. Das Paket ist schon unterwegs — es ______ morgen ankommen. (wahrscheinlich)
 4. Vielleicht hat er den Termin vergessen — das ______ sein. (möglich)
 5. Bei dem Stau ______ sie sich verspäten, anders geht es nicht. (fast sicher)
@@ -107,8 +107,8 @@ Gerücht (man sagt) → sollen. Selbstbehauptung (er/sie sagt von sich) → woll
 
 Setz die Vermutung in die Vergangenheit. Schreib das zweite Verb als Infinitiv Perfekt (Partizip II + sein/haben). 6 Items.
 
-1. Er muss reich sein. → Er muss reich ______. (gewesen + sein/haben?)
-2. Sie dürfte den Termin vergessen. → Sie dürfte den Termin ______. (vergessen + ?)
+1. Er muss reich sein. → Er muss reich ______. (sein)
+2. Sie dürfte den Termin vergessen. → Sie dürfte den Termin ______. (vergessen)
 3. Er soll dort sein. → Er soll dort ______.
 4. Er will alles sehen. → Er will alles ______.
 5. Das kann ein Irrtum sein. → Das kann ein Irrtum ______.

@@ -17,7 +17,7 @@
 
 ## Übung A2 — Welches Modalverb im Präteritum?
 
-1. **konnte**  2. **mussten**  3. **Durfte**  4. **wollte**  5. **sollte**  6. **mochte**  7. **wollte**
+1. **konnte**  2. **mussten**  3. **Durftest**  4. **wollte**  5. **sollte**  6. **mochte**  7. **wollte**
 
 ---
 
@@ -61,7 +61,7 @@
 
 ## Übung D1 — Gemischte Wiederholung
 
-1. **konnte**  2. **musste**  3. **Durfte**  4. **wollte**  5. **sollten**  6. **mochte**
+1. **konnte**  2. **musste**  3. **Durftest**  4. **wollte**  5. **sollten**  6. **mochte**
 
 ## Übung D2 — Selbsttest
 

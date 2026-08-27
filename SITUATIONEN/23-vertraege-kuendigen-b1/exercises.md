@@ -41,7 +41,7 @@ Ergänze die passende Form.
 4. Der Vertrag ______ sich automatisch um zwölf Monate. (verlängern, reflexiv)
 5. Ich ______ von meinem Sonderkündigungsrecht Gebrauch. (machen, ich-Form)
 6. Bitte ______ Sie keine weiteren Beträge ein. (einziehen, Sie-Imperativ)
-7. Ein Lastschriftmandat ______ hiermit widerrufen. (Passiv Präsens)
+7. Das Lastschriftmandat ______ hiermit widerrufen. (Passiv Präsens)
 8. Weitere Beträge ______ nach dem 31.05. nicht mehr eingezogen. (Passiv Präsens, Plural)
 
 ## Übung A4 — Nebensätze: da, sodass, obwohl, falls

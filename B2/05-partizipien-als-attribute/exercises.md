@@ -347,7 +347,7 @@ Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter bleiben übrig.
 > Hund. Wegen der seit Jahren (5) ______ Nachfrage wurde das Haus umgebaut. Die gerade
 > (6) ______ Skulptur im Hof ist ein Höhepunkt. Der 2018 (7) ______ Maler schuf viele dieser
 > Werke. Besucher mit einem heute (8) ______ Ticket kommen morgen kostenlos wieder. Der
-> im Mai (9) ______ Bericht lobt die (10) ______ Sammlung des Museums.
+> im Mai (9) ______ Bericht lobt die (10) ______ Besucherzahlen des Museums.
 
 > ANGERECHNETE · BEDECKTE · ENTSTANDENEN · EROEFFNENDE · FLIEGENDE · GEKAUFTEN · GEKOCHTE · GESCHRIEBENE · RENOVIERTE · RESTAURIERTE · SCHLAFENDEN · SPIELENDEN · STEIGENDEN · VERSTORBENE · WACHSENDEN
 

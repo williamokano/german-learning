@@ -60,7 +60,7 @@ exercises:
       "1": Sein
       "2": Ihr
       "3": Ihr
-      "4": mein
+      "4": Ihr
       "5": dein
       "6": Unser
 
@@ -81,15 +81,15 @@ exercises:
       besuchen die Großeltern die Familie. {7} Auto ist alt, aber es fährt
       noch gut. „Wo ist {8} Geschenk für die Kinder?", fragt Opa Wagner
       seine Frau.
-    bank: [ihr, sein, ihre, ihre, ihre, sein, ihr, unser, mein, dein]
+    bank: [Ihr, Sein, Ihre, Ihre, Ihre, Sein, Ihr, unser, mein, dein]
     answers:
-      "1": ihr
-      "2": sein
-      "3": ihre
-      "4": ihre
-      "5": ihre
-      "6": sein
-      "7": ihr
+      "1": Ihr
+      "2": Sein
+      "3": Ihre
+      "4": Ihre
+      "5": Ihre
+      "6": Sein
+      "7": Ihr
       "8": unser
 
   - id: B2
@@ -208,7 +208,7 @@ exercises:
       5. Habt ihr {5} Hausaufgaben schon gemacht?
       6. Frau Meier sucht {6} Schlüssel. Hat jemand {7} Handtasche gesehen?
     answers:
-      "1": seine
+      "1": Seine
       "2": meine
       "3": deinen
       "4": unsere

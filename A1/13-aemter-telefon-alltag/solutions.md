@@ -39,7 +39,7 @@
 
 ## Übung A2 — Dative articles: dem, der, einem, einer
 
-1. **dem**  2. **der**  3. **einem**  4. **dem**  5. **dem**  6. **einem**  7. **der**  8. **der**  9. **der**  10. **einem**
+1. **dem**  2. **der**  3. **einem**  4. **dem**  5. **dem**  6. **einer**  7. **der**  8. **der**  9. **der**  10. **einem**
 
 ## Übung A3 — Dative personal pronouns
 
@@ -74,7 +74,7 @@ Modellantwort:
 
 ## Übung A9 — Mixed article drill: Nominativ / Akkusativ / Dativ
 
-1. **Der**  2. **einen**  3. **dem**  4. **die**  5. **dem** (auch richtig: **am**)  6. **Die**  7. **einem**  8. **die**  9. **zur**  10. **Der**
+1. **Der**  2. **einen**  3. **dem**  4. **die**  5. **dem**  6. **Die**  7. **einem**  8. **die**  9. **der**  10. **Der**
 
 ## Übung A10 — Substitution drill: `Könnten Sie` + dative pronoun
 
@@ -108,7 +108,7 @@ Modellantwort:
 
 ## Übung B3 — Finde den Fehler
 
-1. **schicken**  2. **an**  3. **an**  4. **das**  5. **am**  6. **aus**  7. **angerufen**  8. **mir**  9. **den**  10. **dem**
+1. **schicken**  2. **an**  3. **hat**  4. **das**  5. **am**  6. **aus**  7. **angerufen**  8. **mir**  9. **den**  10. **dem**
 
 ## Übung B4 — Frage und Antwort verbinden
 

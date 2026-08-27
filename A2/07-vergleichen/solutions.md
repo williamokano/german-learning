@@ -102,7 +102,7 @@ Modellantwort:
 
 ## Übung B2 — Finde den Fehler
 
-1. **als**  2. **schnellste (-e ending for m Nom.)**  3. **wie**  4. **eleganter (-er only, no extra -e)**  5. **als**  6. **das beste**  7. **lieber**  8. **höchste (umlaut)**  9. **als**  10. **Der kälteste**
+1. **als**  2. **schnellste**  3. **wie**  4. **eleganter**  5. **als**  6. **das beste**  7. **lieber**  8. **höchste**  9. **als**  10. **Der kälteste**
 
 ## Übung B3 — Frage und Antwort verbinden
 
@@ -257,7 +257,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-1. **größer**  2. **besser**  3. **mehr**  4. **lieber**  5. **höher**  6. **am schnellsten**  7. **am besten**  8. **am ältesten**  9. **als**  10. **wie**  11. **e (m Nom. after def article)**  12. **der schnellste Zug**  13. **e (f Nom. after def article)**  14. **die günstigste Wohnung**  15. **e (n Nom. after def article)**  16. **das beste Modell**  17. **en (m Akk. after def article)**  18. **den modernsten Laptop**  19. **München ist teurer als Berlin.**  20. **Das ist das beste Hotel in der Stadt.**  21. **Ich esse am liebsten Pizza.**  22. **Das rote Kleid ist genauso teuer wie das blaue.**  23. **der Vorteil**  24. **vergleichen**
+1. **größer**  2. **besser**  3. **mehr**  4. **lieber**  5. **höher**  6. **am schnellsten**  7. **am besten**  8. **am ältesten**  9. **als**  10. **wie**  11. **e**  12. **der schnellste Zug**  13. **e**  14. **die günstigste Wohnung**  15. **e**  16. **das beste Modell**  17. **en**  18. **den modernsten Laptop**  19. **München ist teurer als Berlin.**  20. **Das ist das beste Hotel in der Stadt.**  21. **Ich esse am liebsten Pizza.**  22. **Das rote Kleid ist genauso teuer wie das blaue.**  23. **der Vorteil**  24. **vergleichen**
 
 ---
 

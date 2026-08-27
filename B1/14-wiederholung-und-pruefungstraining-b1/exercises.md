@@ -227,7 +227,7 @@ Match each text (1–3) to its text type (a–d). One text type is not needed.
 
 ## Übung B1 — Sprachbausteine — B1/01 Präteritum
 
-Fill in the Präteritum form of each verb in brackets. 6 items.
+Fill in the Präteritum form of each verb in brackets. 4 items, 6 gaps.
 
 1. Als Pavel ein Kind (1) ______, (2) ______ er oft in den Park. (sein / gehen)
 2. Die Lehrerin (3) ______ die Aufgaben an die Tafel. (schreiben)
@@ -245,7 +245,7 @@ Choose the correct connector (a, b, or c) for each gap. 4 items.
 
 ## Übung B3 — Sprachbausteine — B1/03 Konjunktiv II
 
-Fill in the Konjunktiv II form (würde/hätte/wäre). 6 items.
+Fill in the Konjunktiv II form (würde/hätte/wäre). 3 items, 6 gaps.
 
 1. Wenn ich mehr Zeit (1) ______, (2) ______ ich jeden Tag Vokabeln lernen. (haben / lernen)
 2. Wenn Pavel nicht so nervös (3) ______, (4) ______ er noch besser sprechen. (sein / können)
@@ -271,7 +271,7 @@ Fill in the correct relative pronoun (der/die/das/dem/den/dessen/deren). 5 items
 
 ## Übung B6 — Sprachbausteine — B1/06 um … zu / damit
 
-Fill in "um", "zu", or "damit" in each gap. 7 items.
+Fill in "um", "zu", or "damit" in each gap. 5 items, 9 gaps.
 
 1. Pavel lernt Deutsch, (1) ______ in Deutschland arbeiten (2) ______ können.
 2. Der Lehrer spricht langsamer, (3) ______ alle Lernenden ihn verstehen.
@@ -294,8 +294,8 @@ Fill in the correct Genitiv form (article or preposition). 6 items.
 
 Fill in the correct Pronominaladverb (da(r)- + Präposition) or question form (wo(r)- + Präposition). 5 items.
 
-1. Ich freue mich sehr (1) ______ meine bestandene Prüfung. (auf → da- + auf)
-2. Pavel denkt oft (2) ______ die Zeit zurück, als er anfing, Deutsch zu lernen. (an → da- + an)
+1. Die Prüfung ist bestanden — ich freue mich sehr (1) ______. (über → da(r)- + über)
+2. Pavel denkt oft an die Zeit zurück, als er anfing. → Er denkt oft (2) ______ zurück. (an → da(r)- + an)
 3. (3) ______ sprechen Anna und Mia gerade? — Über die Prüfungsergebnisse. (worüber)
 4. Das Zeugnis? Ich warte schon lange (4) ______. (darauf)
 5. (5) ______ ist Pavel zufrieden? — Mit dem Ergebnis. (womit)
@@ -339,7 +339,7 @@ Convert the verb or adjective in brackets into a noun. 6 items.
 3. Das (3) ______ einer Gliederung hilft beim Schreiben. (erstellen → das …)
 4. Die (4) ______ der Ergebnisse dauert vier bis sechs Wochen. (bekanntgeben → die …)
 5. Das (5) ______ der Prüfungsgebühr ist online möglich. (bezahlen → das …)
-6. Die (6) ______ von Deutschkursen steigt jedes Jahr. (nachfragen → die … — noun: Nachfrage)
+6. Die (6) ______ nach Deutschkursen steigt jedes Jahr. (nachfragen → die …)
 
 ## Übung B13 — Sprachbausteine — B1/13 Schreiben-Redemittel: Teile einer formellen E-Mail
 

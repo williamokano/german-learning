@@ -35,9 +35,9 @@ Ordne jedem Begriff die Erklärung zu.
 
 Ergänze die Konjunktiv-II-Form.
 
-1. ______ Sie kurz durchlassen? Meine Freundin steht da vorn. (würden)
-2. ______ es Ihnen etwas ausmachen, wenn ich mich hier hinstelle? (würden)
-3. ______ Sie vielleicht mit mir tauschen? Ich sehe hier nichts. (würden)
+1. ______ Sie mich kurz durchlassen? Meine Freundin steht da vorn. (werden im Konjunktiv II)
+2. ______ es Ihnen etwas ausmachen, wenn ich mich hier hinstelle? (werden im Konjunktiv II, Singular)
+3. ______ Sie vielleicht mit mir tauschen? Ich sehe hier nichts. (werden im Konjunktiv II)
 4. ______ ich mich kurz vorbeidrängen? (dürfen im Konjunktiv II)
 5. ______ Sie eventuell einen Platz weiter rücken? (können im Konjunktiv II)
 6. Ich ______ gern noch etwas trinken holen — soll ich dir was mitbringen? (werden im Konjunktiv II)
@@ -51,7 +51,7 @@ Ergänze den Konnektor oder die Verbform.
 3. Die Vorband war besser, ______ ich erwartet hatte. (Vergleich)
 4. Ich ______ nach der Zugabe gegangen, weil die Bahn fuhr. (sein, Perfekt-Hilfsverb)
 5. Wir ______ zwei Stunden gestanden — das war es wert. (haben, Perfekt-Hilfsverb)
-6. Es war lauter, ______ beim letzten Mal. (Vergleich nach Komparativ)
+6. Es war lauter ______ beim letzten Mal. (Vergleich nach Komparativ)
 
 ---
 
@@ -166,7 +166,7 @@ Ergänze das passende Wort.
 Ergänze aus dem Gedächtnis.
 
 1. Das Ticket ist ______. (personalised)
-2. Es läuft ______ meinen Namen. (in — auf/für?)
+2. Es läuft ______ meinen Namen. (Präposition, Akkusativ folgt)
 3. Am Einlass gibt es eine ______. (bag check)
 4. Ich bekomme ein ______. (wristband)
 5. Die ______ spielt um 20 Uhr. (support act)

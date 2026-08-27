@@ -44,7 +44,7 @@ Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter sind nicht n�
 > die Stadt. Ich hoffe, (7) ______ das Wetter schön bleibt. Meine Eltern
 > freuen sich auch, (8) ______ sie ihre Tochter sehen.
 
-> (weil · dass · wenn · weil · dass · wenn · dass · weil · obwohl · ob)
+> (weil · dass · Wenn · weil · dass · Wenn · dass · weil · obwohl · ob)
 
 ## Übung B2 — Grund, Aussage oder Bedingung?
 

@@ -221,9 +221,9 @@ Ergänze die richtige Possessivendung UND die Adjektivendung. Jede Aufgabe hat z
 
 ## Übung A11 — Substitutionsübung
 
-Schreibe den Satz um und ändere das Nomen + Adjektiv zum angegebenen neuen Genus oder Kasus. Schreibe die richtige Adjektivendung in die Lücke.
+Ergänze die Adjektivendung. Genus und Kasus stehen in Klammern.
 
-1. Das ist ein alt______ Kind. (Neut, Nom)
+1. Das ist ein alt______ Haus. (Neut, Nom)
 2. Ich sehe die rot______ Jacke. (Fem, Akk)
 3. Sie trägt einen elegant______ Schal. (Mask, Akk)
 4. Er kommt mit der neu______ Freundin. (Fem, Dat)
@@ -255,7 +255,7 @@ Ergänze die Lücken mit dem Adjektiv in der richtigen Form. 12 Lücken.
 
 — Entschuldigung, ich suche eine Jacke für meinen Bruder. Er mag ______ (dunkel) Farben.
 — Sehr gut. Wir haben diesen ______ (schwarz) Mantel hier — er ist sehr ______ (elegant).
-— Hm, der ______ (schwarz) Mantel ist sehr schön, aber etwas zu groß. Haben Sie einen ______ (klein) ?
+— Hm, der ______ (schwarz) Mantel ist sehr schön, aber etwas zu groß. Haben Sie einen ______ (klein)?
 — Ja, hier ist ein ______ (ähnlich) Modell in einer ______ (klein) Größe. Und dieser ______ (grau) Mantel ist auch eine gute Alternative.
 — Ich finde den ______ (grau) Mantel besser. Haben Sie auch ein ______ (passend) Hemd dazu?
 — Natürlich! Dieses ______ (weiß) Hemd passt sehr gut zum ______ (grau) Mantel.
@@ -269,11 +269,11 @@ Jeder Satz hat genau einen Fehler in der Adjektivendung. Schreibe die korrigiert
 2. Ich kaufe den rot______ Schal. (Akk Mask def. → ?)
 3. Sie trägt eine elegant______ Bluse. (Akk Fem indef. → ?)
 4. Er sucht ein neu______ Hemd. (Akk Neut indef. → ?)
-5. Das ist der schön______ Abend! *(indefinite article intended)* (Nom Mask indef. → ?)
+5. Das ist ein schön______ Abend! (Nom Mask indef. → ?)
 6. Er kommt mit dem neu______ Freund. (Dat Mask def. → ?)
 7. Das sind keine alt______ Schuhe. (Pl → ?)
 8. Sie mag das schwarz______ Kleid. (Akk Neut def. → ?)
-9. Er trägt ein elegant______ Anzug. (m → article + ending)
+9. Er trägt einen elegant______ Anzug. (Akk Mask indef. → ?)
 10. Mit der blau______ Jacke siehst du toll aus. (Dat Fem def. → ?)
 
 ## Übung B3 — Frage und Antwort verbinden
@@ -377,7 +377,7 @@ Self-check:
 Fülle jede Lücke mit einem Wort (meist die Adjektivendung oder die volle Adjektiv+Endung-Form).
 
 Anna ist in einem ______ Modegeschäft in Berlin. Die Verkäuferin zeigt ihr ein
-______ Kleid — es ist rot und sehr elegant. Anna probiert das ______
+______ Kleid in Rot. Anna probiert das ______
 Kleid an, aber es ist zu eng. Die Verkäuferin bringt dann ein ______ Modell in
 einer ______ Größe. Das ______ Kleid sitzt perfekt. Anna fragt nach einem
 ______ Schal dazu. Die Verkäuferin empfiehlt einen ______ Schal — er

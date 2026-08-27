@@ -307,7 +307,7 @@ Minuten zum Briefkasten gehen ______ (Modalverb). Stattdessen lag der Umschlag
 jahrelang da, ______ ob er auf mich gewartet ______ (haben). Wenn ich ______
 (wissen) hätte, wie wenig Zeit blieb, ______ ich sofort losgelaufen. Im
 Nachhinein hätte ich vieles früher sagen ______ (Modalverb). ______ hätte ich
-auch diesen Text nicht geschrieben — aber diesmal nicht.
+auch diesen Text nicht geschrieben — aber diesmal habe ich es getan.
 
 ## Übung C2 — Sprachbausteine Teil 1
 

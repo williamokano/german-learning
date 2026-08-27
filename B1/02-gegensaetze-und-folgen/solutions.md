@@ -53,7 +53,7 @@
 
 ## Übung A4 — `deshalb` / `darum` / `deswegen` — Folgen
 
-1. **Deshalb**  2. **Deshalb**  3. **Deshalb**  4. **Deshalb**  5. **Deshalb**  6. **Deshalb**  7. **Deshalb**  8. **Deshalb**
+1. **Deshalb** (auch richtig: **Darum**, **Deswegen**)  2. **Deshalb** (auch richtig: **Darum**, **Deswegen**)  3. **Deshalb** (auch richtig: **Darum**, **Deswegen**)  4. **Deshalb** (auch richtig: **Darum**, **Deswegen**)  5. **Deshalb** (auch richtig: **Darum**, **Deswegen**)  6. **Deshalb** (auch richtig: **Darum**, **Deswegen**)  7. **Deshalb** (auch richtig: **Darum**, **Deswegen**)  8. **Deshalb** (auch richtig: **Darum**, **Deswegen**)
 
 ## Übung A5 — Gemischt: `obwohl` / `trotzdem` / `deshalb` — richtig wählen
 
@@ -98,7 +98,7 @@
 
 ## Übung B1 — Dialog ergänzen: Diskussion über Wohnorte
 
-1. **Deshalb**  2. **obwohl**  3. **zwar**  4. **aber**  5. **Obwohl**  6. **Trotzdem**  7. **Trotzdem**  8. **Trotzdem**
+1. **Deshalb**  2. **obwohl**  3. **zwar**  4. **aber**  5. **Obwohl**  6. **Trotzdem**  7. **Deshalb**  8. **Trotzdem**
 
 ## Übung B2 — Finde den Fehler — Wortstellung
 
@@ -137,7 +137,7 @@ Modellantwort:
 
 ## Übung B6 — C1-Stil Lückentext — Nachhaltige Mobilität
 
-1. **Obwohl**  2. **Deshalb**  3. **aber**  4. **zwar**  5. **Deswegen**  6. **dennoch**
+1. **Obwohl**  2. **Deshalb**  3. **aber**  4. **zwar**  5. **Deswegen**  6. **Dennoch**
 
 ## Übung B7 — Umformung: `zwar … aber` verwenden
 

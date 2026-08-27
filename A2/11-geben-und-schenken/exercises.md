@@ -107,7 +107,7 @@ Hör den Dialog einmal und fülle die Tabelle. In jeder Zeile fehlt **eine** Inf
 Vervollständige die Dativ-Nominalphrase (das indirekte Objekt — die Person). 10 Aufgaben.
 
 1. Ich schenke mein______ Schwester ein Buch.
-2. Er gibt dem______ Kind einen Apfel.
+2. Er gibt d______ Kind einen Apfel.
 3. Anna schickt ihr______ Freundin eine Karte.
 4. Wir erklären d______ Schülern die Regel.
 5. Du schreibst dein______ Vater einen Brief.
@@ -272,8 +272,8 @@ Ergänze die 12 Lücken mit der richtigen Form. Drei Wörter im Kasten werden ni
 > — Ja, gern. Ich (8) ______ Ihnen diesen spannenden Roman.
 > — Danke! Ich (9) ______ ihm die CD und das Buch zum Geburtstag.
 > — Wunderbar. Soll ich alles (10) ______?
-> — Ja, bitte. Ich (11) ______ es Ihnen gern ein.
-> — Kein Problem. Ich (12) ______ Ihnen einen schönen Tag!
+> — Ja, bitte. Das wäre sehr nett.
+> — Kein Problem, ich (11) ______ es Ihnen gern ein. Ich (12) ______ Ihnen einen schönen Tag!
 
 > (suche · mag · schenke · empfehle · möchte · kaufen · empfehlen · empfehle · schenke · einpacken · packe · wünsche · suche · mag · schenke)
 
@@ -434,7 +434,7 @@ Fülle die 10 Lücken mit Wörtern aus dem Kasten. Zehn Wörter werden nicht geb
 > ihr die Verkäuferin einen Krimi. „Ich (4) ______ Ihnen dieses Buch
 > sehr", sagte sie. „Es ist unser (5) ______ Buch in diesem Monat."
 > Anna (6) ______ das Buch und (7) ______ es schön ein. Dann
-> (8) ______ sie eine Karte: „Liebe Lisa, (9) ______ ich dir alles Gute
+> (8) ______ sie eine Karte: „Liebe Lisa, ich (9) ______ dir alles Gute
 > zum Geburtstag! Deine Anna." Am Sonntag (10) ______ sie das Geschenk
 > zu Lisa.
 
@@ -515,7 +515,8 @@ Eine Minute pro Aufgabe. Keine Notizen. 15 Aufgaben.
 8. Konjugation geben, er/sie-form: ______
 9. Konjugation empfehlen, du-form: ______
 10. (A2/L8) Adjective ending: „Das ist unser ______ Buch." (best-)
-11. Two pronouns: „Ich schenke ______ (it) ______ (her)." → ______ ______
+11. Zwei Pronomen: „Ich schenke ______ ______." (es / ihr — Akkusativ zuerst)
+11b. Zwei Nomen: „Ich schenke ______ ______." (das Buch / meiner Schwester — Dativ zuerst)
 12. kaufen + recipient: preposition ______ (für / mit / von) + Akkusativ
 13. „Ich schenke mein______ Schwester ein Buch."
 14. (A1/L11) Perfekt auxiliary for schenken: ______ (hat / ist)
@@ -582,7 +583,7 @@ Wiederholung: reflexive Verben, Präpositionen, Konjunktiv II und Länder. 10 Au
 
 **Mixed:**
 18. Konjugation schenken, wir-form: ______
-19. (A2/L8) Adjective ending: „Das ist unser bestes Buch." — why bestes? ______
+19. (A2/L8) Adjektivendung: „Das ist unser best______ Buch." (n, Nom.)
 20. Direct object in „Schreibt ihr eurer Oma auch eine Karte?" — ______
 
 _16+ / 20 → Lektion A2/12. Below 16 → redo Block A (A1–A4) and Block B2 (Finde den Fehler) tomorrow, then retest D4._

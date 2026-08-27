@@ -500,7 +500,7 @@ exercises:
       6. {6} gut, Kinder! (ihr-Imperativ) (Schlaf → ?)
       7. Ich brauche etwas gegen {7}. (Kopfschmerz → ?)
       8. Er soll {8} viel. (schläft → ?)
-      9. Machen Sie den Mund auf! → Macht den Mund {9}! (ihr-form) (auf → ?)
+      9. Machen Sie den Mund auf! → {9} den Mund auf! (ihr-Form)
       10. Ich fühle mich nicht gut. → Ruh {10} aus! (to a friend) (sich → ?)
     answers:
       "1": tun
@@ -511,7 +511,7 @@ exercises:
       "6": Schlaft
       "7": Kopfschmerzen
       "8": schlafen
-      "9": auf
+      "9": Macht
       "10": dich
 
   - id: B4
@@ -1014,7 +1014,7 @@ exercises:
       3. (L7) Satzklammer: Ich / müssen / jetzt / schlafen → {3}
       4. (L7) Translate: "She has to go to the hospital." → {4}
       5. (L8) Dative prep: „Ich fahre {5} Bus." (= by bus)
-      6. (L8) „Ich gehe {6} Arzt." (= to the doctor's; use: zum)
+      6. (L8) „Ich gehe {6} Arzt." (= to the doctor's)
       7. (L8) Sie-imperative of `kommen`: {7}
       8. (L8) „Das ist {8} Apotheke da drüben." (pointing: definite article, f)
       9. (L7) „{9} ich hier rauchen?" (= May I smoke here?)
@@ -1023,7 +1023,9 @@ exercises:
       "1": willst
       "2": darf
       "3": "Ich muss jetzt schlafen."
-      "4": "Sie muss ins Krankenhaus (gehen)."
+      "4":
+        - "Sie muss ins Krankenhaus gehen."
+        - "Sie muss ins Krankenhaus."
       "5": mit dem
       "6": zum
       "7": "Kommen Sie her!"

@@ -38,7 +38,7 @@ Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.
 > Liebe Hörerinnen und Hörer, ich möchte Ihnen heute ein Buch (1) ______, das
 > in den letzten Wochen für Aufsehen gesorgt hat — und das, so viel sei
 > (2) ______, den langen Satz auf eine Weise feiert. Die (3) ______,
-> eine 1978 in Graz geborene Schriftstellerin, (4) ______ früheren Werke bereits
+> eine 1978 in Graz geborene Schriftstellerin, (4) ______ frühere Werke bereits
 > mit mehreren Preisen ausgezeichnet wurden, erzählt die Geschichte einer
 > Familie. Der Roman, ein vieldiskutiertes Werk über Schuld und (5) ______,
 > spielt in den 1970er Jahren in einer Kleinstadt. Was diesen Text — und
@@ -105,16 +105,16 @@ Bilde aus dem Relativsatz ein vorangestelltes Partizipialattribut. 6 Items.
 
 1. „die Firma, die 1990 gegründet wurde" → „die ______ Firma"
 2. „der Streit, der seit Monaten andauert" → „der ______ Streit"
-3. „die Schriftstellerin, die den Preis erhielt" → „die ______ Schriftstellerin"
+3. „die Schriftstellerin, die mit dem Preis ausgezeichnet wurde" → „die ______ Schriftstellerin"
 4. „der Roman, der 2019 veröffentlicht wurde" → „der ______ Roman"
 5. „das Buch, das mir empfohlen wurde" → „das ______ Buch"
-6. „die Krise, die sich verschärft hat" → „die ______ Krise"
+6. „die Krise, die sich seit Wochen verschärft" → „die ______ Krise"
 
 ## Übung A4 — Nachgestellter Relativsatz
 
 Setze das Relativpronomen im richtigen Kasus ein. 6 Items.
 
-1. „Der Mann, ______ ich gestern sprach, ist der Bürgermeister." (Nom. — Subjekt im HS)
+1. „Der Mann, ______ ich gestern sprach, ist der Bürgermeister." (Dat. — nach Präp. „mit")
 2. „Die Frau, ______ ich getroffen habe, ist Ärztin." (Akk. — Objekt im HS)
 3. „Das Buch, ______ ich dir empfohlen habe, ist im Buchladen." (Akk. — Objekt im HS)
 4. „Der Kollege, mit ______ ich arbeite, ist sehr erfahren." (Dat. — nach Präp.)
@@ -152,10 +152,10 @@ Ergänze die fehlenden Satzglieder durch passende Ellipsen. Drei Satzteile sind 
 > 1. „(1) ______ nach Berlin, (2) ______ nach München." (zwei Pronomen + Bewegungsverb)
 > 2. „Ankunft (3) ______, Gepäck verloren." (Uhrzeit)
 > 3. „(4) ______ möglich, morgen." (Bedingungssatz)
-> 4. „(5) ______ (6) ______ dies, (7) ______ (8) ______ das." (zwei parallele Subjekte und Prädikate)
-> 5. „(9) ______ (10) ______." (pointierte Aufmunterung)
+> 4. „(5) ______ (6) ______ dies, (7) ______ (8) ______ das." (zwei parallele Subjekte und Prädikate — gleiche Zeit)
+> 5. „(9) ______ — (10) ______." (pointierte Aufmunterung)
 
-> (Er · sie · Sie · er · 18 Uhr · 20 Uhr · Wenn · Weil · Die einen · Die anderen · sagen · sagten · Kopf hoch · Nichts zu machen · Je mehr)
+> (Er · sie · Sie · er · 18 Uhr · 20 Uhr · Wenn · Weil · Die einen · Die anderen · sagen · sagen · Kopf hoch · Nichts zu machen · Je mehr)
 
 ## Übung A8 — Welche Funktion hat das Attribut?
 

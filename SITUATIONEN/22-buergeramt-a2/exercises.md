@@ -40,7 +40,7 @@ Ergänze die Präposition oder den Artikel.
 3. Mein Termin ist ______ Dienstag ______ 9:30 Uhr. (Wochentag / Uhrzeit)
 4. Ich komme ______ Portugal. (Land ohne Artikel)
 5. Ich bin ______ Porto geboren. (Stadt)
-6. Ich habe erst ______ zwei Wochen einen Termin bekommen. (Zeitpunkt in der Zukunft)
+6. Ich habe erst ______ zwei Wochen einen Termin. (Zeitpunkt in der Zukunft)
 7. Bitte gehen Sie ______ Schalter 4. (Richtung: zu + dem, kurz)
 8. Die Bescheinigung bekommen Sie ______ Ende. (Zeitpunkt: an + dem, kurz)
 

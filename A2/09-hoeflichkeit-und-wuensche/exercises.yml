@@ -385,8 +385,8 @@ exercises:
     instructions: "Entscheide, welche Form gebraucht wird, und fülle die Lücke. 8 Aufgaben."
     instructionsEn: "Decide which form is needed and fill in the gap. 8 items."
     text: |
-      1. Gestern {1} ich nicht schlafen. (past fact — Präteritum of können: konnte)
-      2. {2} du mir bitte helfen? (polite present request — Konjunktiv II: könntest)
+      1. Gestern {1} ich nicht schlafen. (past fact)
+      2. {2} du mir bitte helfen? (polite present request)
       3. Er {3} gestern leider nicht kommen — er war krank. (past fact)
       4. {4} Sie mir bitte die Adresse geben? (polite request)
       5. Wir {5} das Taxi nicht finden. (past fact)
@@ -440,7 +440,7 @@ exercises:
       Kellner: Sehr gerne. Und was {4} Sie gern trinken?
       Gast: Ich {5} gern ein Glas Weißwein, bitte.
       Kellner: {6} es auch Mineralwasser sein?
-      Gast: Nein danke — lieber Wein. Ach, und {7} Sie bitte einen Fenstertisch für morgen reservieren? Ich {8} es sehr gerne.
+      Gast: Nein danke — lieber Wein. Ach, und {7} Sie bitte einen Fenstertisch für morgen reservieren? Ich {8} mich sehr freuen.
     answers:
       "1": hätte
       "2": Könnten
@@ -475,27 +475,27 @@ exercises:
     instructions: "Jeder Satz hat genau einen Fehler. Schreibe die korrigierte Form in die Lücke. Aufgaben 3 und 9 sind korrekt (schreibe C)."
     instructionsEn: "Each sentence has exactly one mistake. Write the corrected form in the gap. Items 3 and 9 are correct (write C)."
     text: |
-      1. Ich würde gern ein{1} Kaffee haben. (article wrong)
-      2. Könnte{2} du mir bitte helfen? (du-form wrong)
-      3. Das wäre sehr nett von ihr — danke! → {3} (correct? — yes/no)
-      4. Wir hätten gern ein{4} Tisch für vier Personen. (article wrong)
-      5. Würdest{5} Sie bitte die Rechnung bringen? (Sie-form wrong)
-      6. Ich würde gern ins Kino gehen{6} morgen. (word order — infinitive position)
-      7. Das wären{7} sehr praktisch. (singular subject needs wäre)
-      8. Hätten{8} Sie die Soße ohne Knoblauch machen? (needs könnten)
-      9. Könnten Sie mir bitte sagen, wo das Tagesgericht ist? → {9} (correct? — yes/no)
-      10. Ich würde gerne ein Stück Kuchen nehmen bitte{10}. (word order — bitte placement)
+      1. Ich würde gern {1} Kaffee haben. (ein → ?)
+      2. {2} du mir bitte helfen? (Könnte → ?)
+      3. Das wäre sehr nett von ihr — danke! → {3} (richtig? Dann schreibe C)
+      4. Wir hätten gern {4} Tisch für vier Personen. (ein → ?)
+      5. {5} Sie bitte die Rechnung bringen? (Würdest → ?)
+      6. Ich würde gern {6}. (ins Kino gehen morgen → ?)
+      7. Das {7} sehr praktisch. (wären → ?)
+      8. {8} Sie die Soße ohne Knoblauch machen? (Hätten → ?)
+      9. Könnten Sie mir bitte sagen, wo die Toilette ist? → {9} (richtig? Dann schreibe C)
+      10. Ich würde gerne {10}. (ein Stück Kuchen nehmen bitte → ?)
     answers:
-      "1": "en (einen)"
-      "2": "st (könntest)"
+      "1": einen
+      "2": Könntest
       "3": "C"
-      "4": "en (einen)"
-      "5": "n (würden)"
-      "6": "morgen"
-      "7": "wäre"
-      "8": "Könnten"
+      "4": einen
+      "5": Würden
+      "6": "morgen ins Kino gehen"
+      "7": wäre
+      "8": Könnten
       "9": "C"
-      "10": "umstellen: Ich würde gerne bitte ein Stück Kuchen nehmen."
+      "10": "bitte ein Stück Kuchen nehmen"
 
   - id: B4
     block: B
@@ -661,8 +661,8 @@ exercises:
       Tisch, wenn {3}." Der Kellner führt sie zu einem schönen Tisch am
       Fenster. Anna lächelt: „Das {4} perfekt!"
       Der Kellner bringt die Speisekarte. Anna {5} nicht, was sie nehmen soll.
-      „Was {6} Sie empfehlen?", fragt sie. „Das {7} heute sehr frisch
-      — gegrillter Lachs", antwortet der Kellner. „Dann {8} ich gern den
+      „Was {6} Sie empfehlen?", fragt sie. „Der gegrillte Lachs {7} heute
+      eine gute Wahl — er ist ganz frisch", antwortet der Kellner. „Dann {8} ich gern den
       Lachs, bitte", sagt Anna. Bruno sagt: „Ich {9} lieber das
       vegetarische Gericht." Nach dem Essen fragt Anna: „{10} Sie uns bitte
       die Rechnung bringen?"
@@ -871,7 +871,7 @@ exercises:
       6. `wäre` is the Konjunktiv II of which verb? {6}
       7. `könnte` is the Konjunktiv II of which verb? {7}
       8. Polite "Could you bring the bill?" → {8}
-      9. (L8) „Das ist ein{9} Jacke." (schön, f. Nom.) — adjective ending
+      9. (L8) „Das ist eine schön{9} Jacke." (f. Nom.) — adjective ending
       10. (L7) Satzklammer: „Ich muss heute Abend {10}." (arbeiten)
       11. `wäre`, ihr-form: ihr {11}
       12. `würde`, Sie-form: Sie {12}
@@ -887,7 +887,7 @@ exercises:
       "6": sein
       "7": können
       "8": "Könnten Sie bitte die Rechnung bringen?"
-      "9": "e (schöne)"
+      "9": "e"
       "10": arbeiten
       "11": wärt
       "12": würden

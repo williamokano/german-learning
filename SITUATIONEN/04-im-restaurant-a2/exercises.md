@@ -38,7 +38,7 @@ Ergänze das fehlende Wort.
 1. Ich hätte gern die Pasta, aber ______ Käse. (nicht mit)
 2. Können Sie das bitte ______ Zwiebeln machen? (nicht mit)
 3. Ich bin ______ — haben Sie etwas ohne Fleisch? (kein Fleisch essen)
-4. Ich habe eine ______ gegen Nüsse. (Allergie)
+4. Ich habe eine ______ gegen Nüsse. (der Körper reagiert stark darauf)
 5. Ist das Gericht ______? Ich vertrage kein Gluten. (ohne Gluten)
 6. Könnte ich ______ Reis statt Kartoffeln haben? (als Ersatz)
 7. Für mich bitte eine ______ Portion — ich habe nicht so viel Hunger. (klein)

@@ -17,7 +17,7 @@
 
 ## Übung A2 — Nebensatz → Präpositionalphrase
 
-1. **Wegen**  2. **Nach**  3. **Vor**  4. **Trotz**  5. **Beim**  6. **Für**
+1. **Wegen**  2. **Nach**  3. **Vor**  4. **Trotz**  5. **Beim**  6. **Seit**
 
 ---
 
@@ -61,7 +61,7 @@
 
 ## Übung D1 — Gemischte Wiederholung
 
-1. **Wegen**  2. **Nach**  3. **Vor**  4. **Trotz**  5. **Beim**  6. **Für**
+1. **Während**  2. **Wegen**  3. **Nach**  4. **Trotz**  5. **Vor**  6. **Bei**
 
 ## Übung D2 — Selbsttest
 

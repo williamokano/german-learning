@@ -74,11 +74,11 @@ exercises:
       5. Anna und ich lernen Deutsch. {5} lernen Deutsch.
       6. Du und Peter, kommt {6} heute mit?
     answers:
-      "1": er
-      "2": sie
-      "3": es
-      "4": sie
-      "5": wir
+      "1": Er
+      "2": Sie
+      "3": Es
+      "4": Sie
+      "5": Wir
       "6": ihr
 
   - id: A3
@@ -136,7 +136,7 @@ exercises:
     instructions: "Fülle die 10 Lücken mit den Wörtern aus dem Kasten."
     instructionsEn: "Fill the 10 gaps using the words in the box."
     text: |
-      Lisa und Paul sind gute Freunde. {1} kennen sich seit der Schule. Paul hat
+      Lisa und Paul sind gute Freunde — {1} kennen sich seit der Schule. Paul hat
       morgen einen wichtigen Termin. Lisa hilft {2} bei der Vorbereitung. Paul
       sagt: „Danke, das ist sehr nett von {3}!" Lisa antwortet: „Kein Problem,
       ich helfe {4} gern." Pauls Eltern kommen aus Spanien. Paul besucht {5}
@@ -144,7 +144,7 @@ exercises:
       sehr gut. Herr Weber ist Pauls Chef. Paul dankt {8} für die Geduld.
       „Kann ich {9} kurz etwas fragen?", sagt Paul zu Herrn Weber. Am Ende
       sagt Lisa zu Paul: „Ruf {10} an, wenn du Hilfe brauchst!"
-    bank: [sie, ihm, ihm, ihm, dir, dir, sie, ihn, dich, mich, uns, euch]
+    bank: [sie, ihm, ihm, ihm, dir, dir, sie, ihn, dich, Sie, uns, euch]
     answers:
       "1": sie
       "2": ihm
@@ -154,7 +154,7 @@ exercises:
       "6": ihn
       "7": ihm
       "8": ihm
-      "9": sie
+      "9": Sie
       "10": dich
 
   - id: B2
@@ -274,9 +274,9 @@ exercises:
       4. Mein Opa braucht Hilfe. Kannst du {4} bitte helfen?
       5. Seine Schwester wollte das Buch lesen. Er gibt {5} {6}.
     answers:
-      "1": er
-      "2": er
-      "3": sie
+      "1": Er
+      "2": Er
+      "3": Sie
       "4": ihm
       "5": es
       "6": ihr

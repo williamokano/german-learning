@@ -114,7 +114,7 @@ Ordne jedem Satz (1–6) das vorherrschende Register zu (a–f).
 Ersetze das umgangssprachliche Verb durch das standardsprachliche / gehobene Verb. 8 Items.
 
 1. Ich kriege morgen Post. → Ich ______ morgen Post.
-2. Was willst du essen? → Was möchtest du ______?
+2. Was willst du morgens essen? → Was möchtest du ______?
 3. Er hat mein Auto geklaut. → Er hat mein Auto ______.
 4. Hört auf zu labern! → Hört auf zu ______!
 5. Wir müssen das ändern. → Wir müssen das ______ (gehoben).
@@ -263,10 +263,10 @@ Füll die 8 Lücken mit der passenden Modalpartikel oder Höflichkeitsformel (Ko
 
 > Sehr geehrte Frau Doktor Weber,
 > ich (1) ______ Ihnen gerne mitteilen, dass Ihre Bewerbung bei uns eingegangen ist.
-> Wir (2) ______ Ihnen für Ihr Interesse an einer Mitarbeit in unserem Haus
-> bedanken. (3) ______ Sie (4) ______ einen Moment Zeit für eine Rückfrage? Wir
+> Wir (2) ______ Ihnen für Ihr Interesse an einer Mitarbeit in unserem Haus.
+> (3) ______ Sie (4) ______ einen Moment Zeit für eine Rückfrage? Wir
 > (5) ______ Sie bitten, das ausgefüllte Formular bis zum 15. Juli (6) ______
-> lassen. Für Rückfragen stehe ich Ihnen (7) ______ jederzeit zur Verfügung.
+> zu lassen. Für Rückfragen stehe ich Ihnen (7) ______ jederzeit zur Verfügung.
 > Mit freundlichen Grüßen,
 > Dr. Yusuf El-Syed
 
@@ -342,14 +342,14 @@ Wähle die stilistisch passende Option (a, b oder c) für jede Lücke.
 
 Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.
 
-> Aus einem Stil-Ratgeber: „(1) ______ Sie in einer E-Mail an den Vorgesetzten,
+> Aus einem Stil-Ratgeber: „(1) ______ Sie eine E-Mail an den Vorgesetzten,
 > dann (2) ______ Sie die Modalpartikel „mal" und „halt". Setzen Sie stattdessen
 > auf den (3) ______ II als Distanzmarker: „Ich (4) ______ vorschlagen, dass …". In einer
-> WhatsApp an (5) ______ dürfen Sie ruhig „(6) ______" und „(7) ______" benutzen. Das Register
+> WhatsApp an Menschen, die Sie (5) ______, dürfen Sie ruhig „(6) ______" und „(7) ______" benutzen. Das Register
 > muss zur (8) ______ passen. (9) ______ sind Registerstrategien, die einen
 > Sachverhalt (10) ______ oder verfälschen können."
 
-> ANREDE · BESCHÖNIGEN · BESONDERS · DUZEN · EUPHEMISMEN · FRAGEN · HALT · HINWEIS · KONJUNKTIV · MAL · RATSAM · SIE · SITUATION · VERMEIDEN · WÜRDE
+> ANREDE · BESCHÖNIGEN · BESONDERS · DUZEN · EUPHEMISMEN · FRAGEN · HALT · HINWEIS · KONJUNKTIV · MAL · RATSAM · SCHREIBEN · SITUATION · VERMEIDEN · WÜRDE
 
 Five words are not needed.
 

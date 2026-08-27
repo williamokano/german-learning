@@ -119,10 +119,10 @@ Ergänze das richtige reflexive Pronomen (Akkusativ oder Dativ).
 Konjugiere `sich fühlen` und ergänze den Beispielsatz. Die Lücke ist die konjugierte Form (Verb + Reflexivpronomen).
 
 1. ich: Ich ______ heute sehr müde.
-2. du: Wie ______ du dich?
+2. du: Du ______ heute schon besser.
 3. er: Er ______ nicht wohl.
 4. wir: Wir ______ nach dem Urlaub besser.
-5. ihr: ______ ihr euch heute fit?
+5. ihr: Ihr ______ heute fit.
 6. sie: Sie ______ erschöpft.
 
 ## Übung A5 — `sich ausruhen`, `sich ärgern`, `sich freuen`: Einsetzen
@@ -143,7 +143,7 @@ Ergänze die richtige Form des reflexiven Verbs.
 Ergänze die richtige Form. Achte auf Akkusativ vs. Dativ bei `sich`.
 
 1. Ich ______ jeden Morgen kalt. (sich waschen)
-2. ______ du dich schon für die Schule? (sich anziehen)
+2. ______ du dich schon für die Schule an? (sich anziehen)
 3. Er ______ nach dem Sport ______. (sich ausziehen)
 4. Wir ______ uns schnell ______ — wir haben keine Zeit. (sich anziehen)
 5. Ich wasche ______ die Hände vor dem Essen. (Dat)
@@ -207,8 +207,8 @@ Markiere R (reflexiv) oder N (nicht reflexiv). Die Lücke ist R oder N.
 2. Ich wasche ______. (mich / das Auto)
 3. Er zieht ______ die Jacke an. (sich / die Jacke)
 4. Er zieht ______ an. (sich / die Jacke)
-5. Anna freut ______ über das Geschenk. (sich / die Jacke)
-6. Anna kauft ______ ein neues Fahrrad. (sich / die Tasche)
+5. Anna freut ______ über das Geschenk. (sich / das Geschenk)
+6. Anna kauft ______ ein neues Fahrrad. (sich / das Fahrrad)
 7. Wir sehen ______ den Film morgen. (uns / den Film)
 8. Wir sehen ______ morgen. (uns / den Film)
 
@@ -238,13 +238,13 @@ Jede Aufgabe hat genau einen Fehler. Das falsche Wort steht als Lücke — schre
 1. Ich fühle ______ heute nicht gut. (sich → ?)
 2. Anna ruht ______ nach der Arbeit aus. (mich → ?)
 3. Wir freuen ______ auf den Urlaub. (euch → ?)
-4. Er wäscht sich die Hände — er wäscht ______ die Hände. (dir → ?)
-5. Zuerst ärgert Bruno ______ über den Stress. (sich → ?)
-6. Ich kaufe ______ einen neuen Sportschuh. (mir → ?)
-7. …, weil ich mich nicht gut fühle ______. (weglassen → ?)
+4. Er wäscht ______ die Hände. (dir → ?)
+5. Zuerst ______ über den Stress. (ärgert Bruno sich → ?)
+6. Ich kaufe ______ neue Sportschuhe. (mich → ?)
+7. Sie beeilt ______, weil der Bus gleich kommt. (euch → ?)
 8. ______ Sie sich aus! (Ruh → ?)
-9. Sie wünscht sich mehr Energie — Sie wünscht ______ mehr Energie. (mich → ?)
-10. Die Kinder waschen sich die Zähne ______. (putzen → ?)
+9. Sie wünscht ______ mehr Energie. (mich → ?)
+10. Die Kinder ______ sich die Zähne. (waschen → ?)
 
 ## Übung B3 — Frage und Antwort verbinden
 
@@ -345,7 +345,7 @@ ______ sie sich kalt — das findet sie erfrischend. Danach zieht sie ______
 ihre Sportkleidung an und geht joggen. Sie ______ sich wirklich wohl, wenn sie
 sich regelmäßig ______. Manchmal ______ sie sich über den Lärm in der
 Stadt, aber dann ______ sie Kopfhörer auf und hört Musik. Am Abend entspannt
-______ sie sich mit einem guten Buch. Sie wünscht ______, dass alle
+sie ______ mit einem guten Buch. Sie wünscht ______, dass alle
 Menschen ______ Zeit zum Entspannen haben.
 
 ## Übung C2 — Sprachbausteine Teil 1
@@ -459,8 +459,8 @@ Streiche das Wort durch, das nicht passt.
 ## Übung D3 — Rückblick: Lektionen A1/L9, A1/L10, A2/L3
 
 1. (L9/A1) Translate: "The shirt fits me." → ______
-2. (L9/A1) `gefallen`, er-form: "The film ______ him." → The film ______ him.
-3. (L9/A1) `gehören`, sie-form: "The bag ______ her." → The bag ______ her.
+2. (L9/A1) `gefallen`, er-form: "The film pleases him." → Der Film ______ ______.
+3. (L9/A1) `gehören`, sie-form: "The bag belongs to her." → Die Tasche ______ ______.
 4. (L10/A1) `sollen`, wir-form: "We are supposed to rest." → Wir ______ uns ausruhen.
 5. (L10/A1) `sollen`, Sie-form: "You should eat more vegetables." → Sie ______ mehr Gemüse essen.
 6. (L3/A2) `weil` + Reflexiv: "Anna bleibt zu Hause. Sie fühlt sich krank." → Anna bleibt zu Hause, weil ______ sich krank ______.
@@ -491,7 +491,7 @@ Streiche das Wort durch, das nicht passt.
 16. Translate: "He rests on the weekend." → ______
 17. Translate: "I wish myself more energy." → ______
 18. Imperative (du): `sich entspannen` → ______
-19. Subordinate clause: …, weil er ______ zu viel gearbeitet hat. (sich ärgern)
+19. Subordinate clause: Er ist schlecht gelaunt, weil er ______. (sich ärgern, Perfekt)
 20. Reciprocal or reflexive: "Anna und Bruno helfen sich." → ______
 
 _16+ / 20 → Lektion A2/06. Below 16 → redo Block A (A1–A5) and Block B2 tomorrow, then retest D4._

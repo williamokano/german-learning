@@ -52,7 +52,7 @@
 
 ## Übung A2 — Konjunktiv I für fremde Positionen
 
-1. **sei**  2. **seien**  3. **habe**  4. **müsse**  5. **gebe**  6. **sei**  7. **werde**  8. **können**
+1. **sei**  2. **seien**  3. **habe**  4. **müsse**  5. **gebe**  6. **sei**  7. **werde**  8. **könnten**
 
 ## Übung A3 — Hedging bei Prognosen — welche Formulierung ist vorsichtig?
 
@@ -68,7 +68,7 @@
 
 ## Übung A5 — Statistik versprachlichen
 
-1. **um**  2. **auf**  3. **auf**  4. **einem**  5. **ein**  6. **Knapp**  7. ****  8. **sinkt**
+1. **um**  2. **auf**  3. **auf**  4. **einem**  5. **ein**  6. **Knapp**  7. **verdoppelt**  8. **sinkt**
 
 ## Übung A6 — Register: registergerechte vs. registerunscharfe Lexik
 

@@ -135,12 +135,12 @@ Ergänze die richtige temporale Präposition.
 
 Ergänze „vor dem", „vor der", „nach dem" oder „nach der".
 
-1. ______ Essen trinke ich einen Kaffee.
-2. Die Feier ist ______ Konzert.
-3. Ich rufe dich ______ Party an.
-4. ______ Arbeit gehe ich ins Fitnessstudio.
-5. Wir treffen uns ______ Vorlesung.
-6. Er kommt ______ Deutschkurs ins Café.
+1. ______ Essen wasche ich mir die Hände.
+2. Die Feier ist ______ Konzert — zuerst spielen wir, dann feiern wir.
+3. Ich rufe dich ______ Party an und sage dir, wo wir uns treffen.
+4. ______ Arbeit gehe ich ins Fitnessstudio, dann dusche ich und fahre ins Büro.
+5. Wir treffen uns ______ Vorlesung und gehen dann zusammen in den Hörsaal.
+6. Er kommt ______ Deutschkurs ins Café — der Unterricht endet um 18 Uhr.
 
 ## Übung A7 — `einladen`: konjugieren
 

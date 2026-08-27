@@ -81,7 +81,7 @@ exercises:
       Liebe Hörerinnen und Hörer, ich möchte Ihnen heute ein Buch {1}, das
       in den letzten Wochen für Aufsehen gesorgt hat — und das, so viel sei
       {2}, den langen Satz auf eine Weise feiert. Die {3},
-      eine 1978 in Graz geborene Schriftstellerin, {4} früheren Werke bereits
+      eine 1978 in Graz geborene Schriftstellerin, {4} frühere Werke bereits
       mit mehreren Preisen ausgezeichnet wurden, erzählt die Geschichte einer
       Familie. Der Roman, ein vieldiskutiertes Werk über Schuld und {5},
       spielt in den 1970er Jahren in einer Kleinstadt. Was diesen Text — und
@@ -241,17 +241,17 @@ exercises:
     text: |
       1. „die Firma, die 1990 gegründet wurde" → „die {1} Firma"
       2. „der Streit, der seit Monaten andauert" → „der {2} Streit"
-      3. „die Schriftstellerin, die den Preis erhielt" → „die {3} Schriftstellerin"
+      3. „die Schriftstellerin, die mit dem Preis ausgezeichnet wurde" → „die {3} Schriftstellerin"
       4. „der Roman, der 2019 veröffentlicht wurde" → „der {4} Roman"
       5. „das Buch, das mir empfohlen wurde" → „das {5} Buch"
-      6. „die Krise, die sich verschärft hat" → „die {6} Krise"
+      6. „die Krise, die sich seit Wochen verschärft" → „die {6} Krise"
     answers:
       "1": "1990 gegründete"
       "2": "seit Monaten andauernde"
-      "3": "den Preis erhaltende"
+      "3": "mit dem Preis ausgezeichnete"
       "4": "2019 veröffentlichte"
       "5": "mir empfohlene"
-      "6": "sich verschärft habende"
+      "6": "sich seit Wochen verschärfende"
 
   - id: A4
     block: A
@@ -260,7 +260,7 @@ exercises:
     title: "Nachgestellter Relativsatz"
     instructions: "Setze das Relativpronomen im richtigen Kasus ein. 6 Items."
     text: |
-      1. „Der Mann, {1} ich gestern sprach, ist der Bürgermeister." (Nom. — Subjekt im HS)
+      1. „Der Mann, {1} ich gestern sprach, ist der Bürgermeister." (Dat. — nach Präp. „mit")
       2. „Die Frau, {2} ich getroffen habe, ist Ärztin." (Akk. — Objekt im HS)
       3. „Das Buch, {3} ich dir empfohlen habe, ist im Buchladen." (Akk. — Objekt im HS)
       4. „Der Kollege, mit {4} ich arbeite, ist sehr erfahren." (Dat. — nach Präp.)
@@ -337,8 +337,8 @@ exercises:
       1. „{1} nach Berlin, {2} nach München." (zwei Pronomen + Bewegungsverb)
       2. „Ankunft {3}, Gepäck verloren." (Uhrzeit)
       3. „{4} möglich, morgen." (Bedingungssatz)
-      4. „{5} {6} dies, {7} {8} das." (zwei parallele Subjekte und Prädikate)
-      5. „{9} {10}." (pointierte Aufmunterung)
+      4. „{5} {6} dies, {7} {8} das." (zwei parallele Subjekte und Prädikate — gleiche Zeit)
+      5. „{9} — {10}." (pointierte Aufmunterung)
     bank:
       - "Er"
       - "sie"
@@ -351,7 +351,7 @@ exercises:
       - "Die einen"
       - "Die anderen"
       - "sagen"
-      - "sagten"
+      - "sagen"
       - "Kopf hoch"
       - "Nichts zu machen"
       - "Je mehr"
@@ -363,7 +363,7 @@ exercises:
       "5": "Die einen"
       "6": "sagen"
       "7": "Die anderen"
-      "8": "sagten"
+      "8": "sagen"
       "9": "Kopf hoch"
       "10": "Nichts zu machen"
 
@@ -1077,8 +1077,12 @@ exercises:
     answers:
       "1": "Apposition"
       "2": "Parenthese"
-      "3": "Partizipialattribut (vorangestellt)"
-      "4": "Relativsatz (nachgestellt)"
+      "3":
+        - "Partizipialattribut"
+        - "Partizipialattribut (vorangestellt)"
+      "4":
+        - "Relativsatz"
+        - "Relativsatz (nachgestellt)"
       "5": "Ellipse"
       "6": "den"
       "7": "der"

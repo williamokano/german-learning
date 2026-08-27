@@ -86,7 +86,7 @@ Fill the 10 gaps. Two words in the box are not needed.
 > Eltern sagen, ich (4) ______ mehr Sport machen. Am Wochenende (5) ______ ich
 > länger schlafen. Mein Bruder (6) ______ sein Handy erst nach den
 > Hausaufgaben benutzen. Ich (7) ______ sehr gut kochen, das macht mir
-> Spaß. Wir (8) ______ keine Süßigkeiten vor dem Essen essen. Wir (9) ______
+> Spaß. Wir (8) ______ vor dem Essen keine Süßigkeiten essen. Wir (9) ______
 > auch unsere Freunde einladen, wenn wir wollen. Heute (10) ______ ich
 > endlich fernsehen!
 

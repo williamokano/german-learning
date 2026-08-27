@@ -168,7 +168,7 @@ Ergänze aus dem Gedächtnis.
 
 1. Wie ______ es mit der ersten Maiwoche? (how about — Konjunktiv II)
 2. Ich schicke eine ______ rum. (date poll)
-3. Was ist euer ______ pro Person? (budget)
+3. Was ist euer ______ pro Person? (what you can spend)
 4. Das ______ für mich zu teuer. (would be)
 5. Ich lege die ______ aus. (deposit / down payment)
 6. Brauchen wir einen ______? (hire car)
