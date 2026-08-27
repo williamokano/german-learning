@@ -96,7 +96,7 @@ Fill in the correct article (definite or indefinite) after the preposition. Watc
 5. Sie fürchtet sich vor ___ Hund (m). → Sie fürchtet sich vor (5) ______ Hund.
 6. Ich beschäftige mich mit ___ Projekt (n). → Ich beschäftige mich mit (6) ______ Projekt.
 7. Er kümmert sich um ___ Kind (n). → Er kümmert sich um (7) ______ Kind.
-8. Das gehört zu ___ Plan (m). → Das gehört zu (8) ______ Plan.
+8. Das gehört zu ___ Konferenz (f). → Das gehört zu (8) ______ Konferenz.
 
 ## Übung A3 — Verben sortieren — welche Präposition?
 
@@ -120,7 +120,7 @@ Replace the underlined phrase with the correct Pronominaladverb. 10 items.
 6. Ich träume von einer Reise. → Ich träume (6) ______.
 7. Ich warne dich vor dem Risiko. → Ich warne dich (7) ______.
 8. Ich kümmere mich um die Aufgabe. → Ich kümmere mich (8) ______.
-9. Das gehört zu dem Konzept. → Das gehört (9) ______.
+9. Das gehört zum Konzept. → Das gehört (9) ______.
 10. Sie ärgert sich über das Ergebnis. → Sie ärgert sich (10) ______.
 
 ## Übung A5 — `wo(r)- + Präposition` — Fragen bilden
@@ -222,7 +222,7 @@ Choose `darauf` or `darüber` and the correct preposition. 6 items.
    → Ich freue mich (2) ______.
 3. Tomáš kommt nächste Woche — ich freue mich _____. (future)
    → Ich freue mich (3) ______.
-4. Der Film war gut — wir haben uns alle _____gefreut. (past event)
+4. Der Film war gut — wir haben uns alle _____ gefreut. (past event)
    → Wir haben uns alle (4) ______ gefreut.
 5. Das Wochenende kommt — ich freue mich _____. (future)
    → Ich freue mich (5) ______.
@@ -241,8 +241,8 @@ Mia: Ich habe mich sehr (1) ______ gefreut, diesen Film mit euch zu sehen. (übe
 Tomáš: Ich auch! Ich denke schon die ganze Zeit (2) ______. (an den Film)
 Pavel: Ich ärgere mich noch immer (3) ______, dass das Ende so offen war. (über)
 Mia: Ich verstehe das. Aber ich finde, genau (4) ______ kommt es an. (auf das offene Ende)
-Tomáš: (5) ______ redest du genau? (über was / worüber)
-Mia: Ich meine, (6) ______ dass der Zuschauer selbst entscheidet. (darüber)
+Tomáš: (5) ______ redest du genau?
+Mia: Ich meine, (6) ______, dass der Zuschauer selbst entscheidet.
 Pavel: Ich verlasse mich immer (7) ______, dass es eine Erklärung gibt. (auf)
 Tomáš: Ich träume (8) ______, einen Film wie diesen selbst zu drehen. (von)
 

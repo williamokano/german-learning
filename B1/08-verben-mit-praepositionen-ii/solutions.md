@@ -40,7 +40,7 @@
 
 ## Übung A2 — Kasus nach Präposition — Artikel ergänzen
 
-1. **den**  2. **eine**  3. **einer**  4. **das**  5. **dem**  6. **dem**  7. **das**  8. **dem**
+1. **den**  2. **eine**  3. **einer**  4. **das**  5. **dem**  6. **dem**  7. **das**  8. **der**
 
 ## Übung A3 — Verben sortieren — welche Präposition?
 
