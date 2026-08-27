@@ -156,6 +156,34 @@ die alle anderen Gates passieren, weil das YAML strukturell korrekt ist:
 npx tsx build/check-answer-usability.ts --all
 ```
 
+## Wenn der Hinweis die Antwort ist
+
+`build/check-cue-equals-answer.ts` meldet jede Lücke, deren Klammerhinweis
+Wort für Wort die erwartete Antwort ist — und die auf ihrer Zeile allein steht,
+also keine Nachbarlücke die Arbeit trägt:
+
+```
+„Es war teuer. {1} kauften wir es nicht." (deshalb)
+Das ist der Ort, {1} wir uns kennengelernt haben. (wo)
+```
+
+Ebenfalls **nicht** in der CI. Dieselbe Form ist nämlich legitim, wenn der
+Hinweis ein Verb nennt und die Lücke eine *Form* davon will, die zufällig mit
+dem Infinitiv zusammenfällt:
+
+```
+Falls die Daten rechtzeitig {1} (vorliegen), schaffen wir es bis Freitag.
+```
+
+Und manchmal fixiert der Hinweis eine von mehreren richtigen Antworten
+(„der Ort, wo …" vs. „der Ort, an dem …"). Jeder Treffer braucht also eine
+Entscheidung: Hinweis streichen oder Item umformulieren — pauschales Löschen
+macht manche Lücken unlösbar.
+
+```
+npx tsx build/check-cue-equals-answer.ts --all
+```
+
 ## German quotes in YAML — the one recurring trap
 
 German quotation marks are `„…“`, and the closing one is **not** a straight
