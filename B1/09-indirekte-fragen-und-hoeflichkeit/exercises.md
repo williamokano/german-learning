@@ -194,7 +194,7 @@ Rewrite each direct question as a complete indirect question using the introduct
 
 Fill in the missing word or phrase for each formal phone convention. 6 items.
 
-1. Am Telefon stellt man sich so vor: „(1) ______ Anna Kowalski." (Hier / Mein Name)
+1. Am Telefon stellt man sich so vor: „(1) ______ Anna Kowalski." (Hier spricht / Mein Name ist)
 2. Wenn man nicht versteht: „(2) ______ Sie das bitte wiederholen?" (Würden / Sollten)
 3. Wenn man verbunden wird: „Einen Moment bitte. Ich (3) ______ Sie." (verbinde / sage)
 4. Am Ende eines formellen Telefongesprächs: „Auf (4) ______." (Wiederhören / Wiedersehen)
@@ -388,7 +388,7 @@ Fill the 10 gaps. Five words are not needed.
 > möchte sie (3) ______, wie viel ein Einzelzimmer kostet. Der Mitarbeiter
 > (4) ______ ihr, dass ein Zimmer 90 Euro pro Nacht kostet. Anna (5) ______ außerdem
 > gern wissen, (6) ______ das Frühstück inbegriffen ist. Der Mitarbeiter
-> erklärt, dass das Frühstück (7) ______ im Preis ist. Am Ende fragt Anna
+> erklärt, dass das Frühstück im Preis (7) ______ ist. Am Ende fragt Anna
 > noch, (8) ______ sie den Termin verschieben (9) ______. Der Mitarbeiter sagt, das
 > sei kein Problem. Anna bedankt sich höflich und sagt: „Das (10) ______ sehr nett."
 
