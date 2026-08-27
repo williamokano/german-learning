@@ -281,12 +281,12 @@ exercises:
     title: "`wo` als Relativpronomen für Orte"
     instructions: "Fülle die Lücken mit `wo` oder der passenden Kombination aus Präposition + Relativpronomen. 6 Sätze."
     text: |
-      1. Das ist der Ort, {1} wir uns kennengelernt haben. (wo)
+      1. Das ist der Ort, {1} wir uns kennengelernt haben.
       2. Berlin ist die Stadt, {2} Pavel seit drei Jahren lebt. (wo / in der — beide korrekt)
-      3. Das sind die Bezirke, {3} kaum öffentliche Verkehrsmittel fahren. (wo)
-      4. Das ist die Gegend, {4} die Nachfrage am größten ist. (wo)
-      5. Das ist das Land, {5} alles möglich scheint. (wo)
-      6. Ich suche einen Ort, {6} ich in Ruhe arbeiten kann. (wo)
+      3. Das sind die Bezirke, {3} kaum öffentliche Verkehrsmittel fahren.
+      4. Das ist die Gegend, {4} die Nachfrage am größten ist.
+      5. Das ist das Land, {5} alles möglich scheint.
+      6. Ich suche einen Ort, {6} ich in Ruhe arbeiten kann.
     answers:
       "1": wo
       "2": [wo, in der]
@@ -374,14 +374,14 @@ exercises:
     instructions: "Fill in the blanks with the correct relative pronoun or preposition + pronoun combination. 8 gaps."
     text: |
       — Ich schreibe gerade den Text für unsere neue Website. Kannst du helfen?
-      — Natürlich! Fang mit einer Definition an. „Das ist ein Service, {1} du in Minuten buchen kannst." (mit + dem)
-      — Gut. Und dann: „Das sind die Stadtteile, {2} unsere Kunden am meisten wohnen." (in + denen)
-      — Genau. Und für das Team: „Das sind Menschen, {3} du wirklich vertrauen kannst." (denen)
-      — Toll. Was sagst du zu: „Das Beste, {4} unsere App bietet, ist Zuverlässigkeit."? (was)
-      — Super! Noch ein Satz: „Das ist das Ziel, {5} wir jeden Tag arbeiten." (für + das)
-      — Und am Ende: „Das ist alles, {6} du brauchst." (was)
-      — Perfekt. Der Text, {7} wir jetzt haben, klingt wirklich professionell. (den)
-      — Ja! Und das ist genau die Art von Sprache, {8} man auf guten Websites findet. (die)
+      — Natürlich! Fang mit einer Definition an. „Das ist ein Service, {1} du in Minuten buchen kannst." (mit …)
+      — Gut. Und dann: „Das sind die Stadtteile, {2} unsere Kunden am meisten wohnen." (in …)
+      — Genau. Und für das Team: „Das sind Menschen, {3} du wirklich vertrauen kannst."
+      — Toll. Was sagst du zu: „Das Beste, {4} unsere App bietet, ist Zuverlässigkeit."?
+      — Super! Noch ein Satz: „Das ist das Ziel, {5} wir jeden Tag arbeiten." (für …)
+      — Und am Ende: „Das ist alles, {6} du brauchst."
+      — Perfekt. Der Text, {7} wir jetzt haben, klingt wirklich professionell.
+      — Ja! Und das ist genau die Art von Sprache, {8} man auf guten Websites findet.
     answers:
       "1": mit dem
       "2": in denen
@@ -539,12 +539,12 @@ exercises:
     title: 'Definitionen schreiben — "Ein … ist jemand/etwas, der/die/das/was …"'
     instructions: "Schreib eine Definition mit einem Relativsatz. 6 Sätze."
     text: |
-      1. Ein Barista ist jemand, {1} Kaffee professionell zubereitet. (der — Nom.)
-      2. Ein Empfehlungsschreiben ist etwas, {2} man für eine Bewerbung braucht. (was)
+      1. Ein Barista ist jemand, {1} Kaffee professionell zubereitet. (Nom.)
+      2. Ein Empfehlungsschreiben ist etwas, {2} man für eine Bewerbung braucht.
       3. Ein Randbezirk ist ein Stadtgebiet, {3} wenig öffentliche Verkehrsmittel fahren. (in dem / wo)
-      4. Eine App ist ein Programm, {4} man auf dem Smartphone nutzt. (das — Akk.)
-      5. Ein Netzwerk ist etwas, {5} dem Startup sehr geholfen hat. (was)
-      6. Eine Barista ist jemand, {6} man in einem Spezialcafé begegnet. (dem — Dat.)
+      4. Eine App ist ein Programm, {4} man auf dem Smartphone nutzt. (Akk.)
+      5. Ein Netzwerk ist etwas, {5} dem Startup sehr geholfen hat.
+      6. Ein Stammkunde ist jemand, {6} man oft begegnet. (Dat.)
     answers:
       "1": der
       "2": was
@@ -852,7 +852,7 @@ exercises:
       9. Fill in: Das Beste, {9} sie je gemacht hat, ist ihr Filterkaffee.
       10. Fill in: Berlin ist die Stadt, {10} Pavel wohnt.
       11. (B1/03) Konjunktiv II of `können`, ich-form: {11}
-      12. (B1/03) Fill in Konjunktiv II: Wenn ich Zeit hätte, {12} ich dir helfen. (würde)
+      12. (B1/03) Fill in Konjunktiv II: Wenn ich Zeit hätte, {12} ich dir helfen.
       13. (B1/04) Passiv Präsens: Die App ______ täglich ______ . (nutzen → wird genutzt) → {13} täglich {14}.
       14. Fill in: Das ist die Gegend, {15} die Nachfrage am größten ist. (in + f. Dat.)
       15. Fill in the Dativ relative pronoun (f.): die Mitarbeiterin, {16} ich danke.
@@ -914,7 +914,7 @@ exercises:
       5. (A2/13) Fill in: Der Film, {5} ich gestern gesehen habe, war fantastisch. (Akk., m.)
 
       **Aus B1/02 (Konnektoren obwohl/trotzdem/deshalb):**
-      6. (B1/02) Fill in: Er bleibt in Berlin, {6} er Prag liebt. (obwohl)
+      6. (B1/02) Fill in: Er bleibt in Berlin, {6} er Prag liebt.
       7. (B1/02) Fill in: Die Miete ist hoch. {7} wohnt Pavel in Wedding. (trotzdem — V2)
       8. (B1/02) Fill in: Tomáš liebt das Berliner Netzwerk. {8} ist er oft hier. (deshalb — V2)
       9. (B1/02) Fill in: Das Startup ist {9} jung, {10} es hat schon viele Kunden. (zwar … aber)
