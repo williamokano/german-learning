@@ -328,8 +328,8 @@ Füll jede Lücke mit **einem** passenden Wort (Redewendung, Sprichwort, Kolloka
 
 Redewendungen und starke Kollokationen sind das, was eine Sprache
 kulturell macht. Wer *„die Daumen ______"* sagt, wünscht Glück; wer
-*„kalte ______ bekommt"*, bekommt Angst; wer *„ins ______ fällt"*,
-dessen Plan ist gescheitert. Diese Wendungen sind nicht
+*„kalte ______ bekommt"*, bekommt Angst; wessen Plan *„ins ______ fällt"*,
+der muss neu anfangen. Diese Wendungen sind nicht
 ______ — sie haben eine bildhafte, feste Form und lassen sich
 nicht übersetzen. Auch ______ spielen eine wichtige Rolle:
 *„eine fundierte Entscheidung ______"*, *„einen wesentlichen

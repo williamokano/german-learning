@@ -291,10 +291,10 @@ Schreibe die umgangssprachlichen Sätze standardsprachlich. Ersetze die Modalpar
 
 1. „Das ist halt nicht ganz richtig." → standardsprachlich: „Das ist ______ nicht ganz richtig."
 2. „Er wird wohl krank sein." → standardsprachlich: „Er ist ______ krank."
-3. „Das ist ja Quatsch!" → standardsprachlich: „______."
-4. „Komm doch mal mit!" → standardsprachlich: „______."
-5. „Das ist eben nicht einfach." → standardsprachlich: „______."
-6. „Das ist halt so." → standardsprachlich: „______."
+3. „Das ist ja Quatsch!" → standardsprachlich: „______"
+4. „Komm doch mal mit!" → standardsprachlich: „______"
+5. „Das ist eben nicht einfach." → standardsprachlich: „______"
+6. „Das ist halt so." → standardsprachlich: „______"
 
 ## Übung B8 — Modalpartikel + Modalverb: Welche Kombination passt?
 
@@ -340,7 +340,7 @@ klingt zwar korrekt, aber ______. Die acht wichtigsten Partikeln sind:
 werbend; *Komm ______!* ist drängend; *Komm halt!* ist resigniert.
 Im geschriebenen Register sollte man Modalpartikeln sparsam einsetzen:
 ein bis zwei pro E-Mail reichen. Wer in einer Bewerbung schreibt
-„Ich ______ teamfähig", klingt umgangssprachlich im Anzug. Wer mit dem
+„Ich bin ______ teamfähig", klingt umgangssprachlich im Anzug. Wer mit dem
 Konjunktiv II kombiniert, wird höflicher: *Ich ______ ______ vorschlagen,
 dass …* ist Standardformel im Berufsleben. Im ______ steht die Partikel
 direkt nach dem finiten Verb — nicht am Satzanfang, nicht am Satzende.
