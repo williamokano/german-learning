@@ -1,0 +1,441 @@
+lesson: "SIT/30-beim-baecker-a1"
+title: "Beim Bäcker am Morgen — A1"
+topic: "Beim Bäcker"
+category: "Essen & Trinken"
+level: A1
+summary: "Anstehen, Brötchen bestellen, die Sorte nennen, Stückzahl und Preis — die ersten Sätze, die jeden Morgen funktionieren müssen."
+intro: >
+  Der Bäcker ist für viele das erste deutsche Gespräch des Tages und
+  oft das erste überhaupt. Es ist kurz und immer gleich: Du stehst an,
+  du wirst gefragt, was es sein darf, du sagst eine Zahl und eine
+  Sorte, du bekommst eine Tüte und zahlst. Genau deshalb lohnt es sich,
+  die zehn Sätze wirklich zu können — dann klappt der Morgen, auch
+  wenn du sonst noch wenig sagen kannst. Grammatik nach Bedarf: Zahlen
+  von eins bis zwanzig, Artikel im Akkusativ, bitte und danke, einfache
+  Fragen. Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn es
+  schiefgeht → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Brot, Süßes oder Getränk?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: brot, label: "Brot & Brötchen" }
+      - { key: suess, label: "Süßes" }
+      - { key: trinken, label: "Zum Trinken" }
+    tokens:
+      - { text: "das Brötchen", bucket: brot }
+      - { text: "das Croissant", bucket: suess }
+      - { text: "der Kaffee", bucket: trinken }
+      - { text: "das Vollkornbrot", bucket: brot }
+      - { text: "der Berliner", bucket: suess }
+      - { text: "der Tee", bucket: trinken }
+      - { text: "die Brezel", bucket: brot }
+      - { text: "der Apfelkuchen", bucket: suess }
+      - { text: "der Orangensaft", bucket: trinken }
+      - { text: "das Baguette", bucket: brot }
+      - { text: "das Franzbrötchen", bucket: suess }
+      - { text: "die heiße Schokolade", bucket: trinken }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Was sagt wer?"
+    instructions: "Ordne jeder Frage der Bäckerin deine Antwort zu."
+    instructionsEn: "Match each question from the baker with your answer."
+    left:
+      - { key: "1", text: "Guten Morgen, was darf es sein?" }
+      - { key: "2", text: "Wie viele denn?" }
+      - { key: "3", text: "Welche Sorte?" }
+      - { key: "4", text: "Sonst noch etwas?" }
+      - { key: "5", text: "Zum Hieressen oder zum Mitnehmen?" }
+      - { key: "6", text: "Das macht 4,80 €." }
+      - { key: "7", text: "Haben Sie es passend?" }
+      - { key: "8", text: "Schönen Tag noch!" }
+    right:
+      - { key: a, text: "Guten Morgen. Ich hätte gern Brötchen, bitte." }
+      - { key: b, text: "Sechs, bitte." }
+      - { key: c, text: "Drei helle und drei Vollkorn." }
+      - { key: d, text: "Ja, einen Kaffee zum Mitnehmen." }
+      - { key: e, text: "Zum Mitnehmen, bitte." }
+      - { key: f, text: "Hier, bitte." }
+      - { key: g, text: "Moment … ja, hier sind 4,80 €." }
+      - { key: h, text: "Danke, Ihnen auch!" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Zahlen und Artikel"
+    instructions: "Ergänze die Zahl als Wort oder den Artikel im Akkusativ."
+    instructionsEn: "Fill in the number as a word or the accusative article."
+    text: |
+      1. Ich hätte gern {1} Brötchen. (6)
+      2. Und {2} Brezel, bitte. (die Brezel → Akkusativ)
+      3. Dazu {3} Kaffee. (der Kaffee → Akkusativ)
+      4. Ich nehme {4} Croissant. (das Croissant → Akkusativ)
+      5. Bitte {5} Stück Apfelkuchen. (2)
+      6. Und {6} Vollkornbrot. (das Brot → Akkusativ)
+      7. Haben Sie noch {7} Franzbrötchen? (3)
+      8. Das macht {8} Euro achtzig. (4)
+    answers:
+      "1": sechs
+      "2": eine
+      "3": einen
+      "4": ein
+      "5": zwei
+      "6": ein
+      "7": drei
+      "8": vier
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Bitte, danke, gern"
+    instructions: "Ergänze das höfliche Wort."
+    instructionsEn: "Fill in the polite word."
+    text: |
+      1. Ich hätte {1} zwei Brötchen. (would like)
+      2. Sechs Stück, {2}. (please)
+      3. {3} schön! (thank you)
+      4. {4} Morgen! (good — at the start of the day)
+      5. Entschuldigung, was {5} das? (costs)
+      6. {6} Tag noch! (have a nice …)
+    answers:
+      "1": gern
+      "2": bitte
+      "3": Danke
+      "4": Guten
+      "5": kostet
+      "6": Schönen
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Kurz vor acht"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Guten {1}, was darf es sein?
+      — Guten Morgen. Ich {2} gern Brötchen, bitte.
+      — Wie {3} denn?
+      — Sechs {4}.
+      — Welche {5}?
+      — Drei helle und drei {6}.
+      — Gern. Sonst noch etwas?
+      — Ja, {7} Kaffee zum Mitnehmen.
+      — Klein oder groß?
+      — Klein, bitte. Was {8} das zusammen?
+      — 4,80 €. Haben Sie es {9}?
+      — Moment … ja, hier.
+      — Danke schön. Schönen {10} noch!
+      — Danke, Ihnen auch!
+    bank: [MORGEN, HÄTTE, VIELE, STÜCK, SORTE, VOLLKORN, EINEN, KOSTET, PASSEND, TAG, ABEND, BROT, GERN, GROSS]
+    answers:
+      "1": MORGEN
+      "2": HÄTTE
+      "3": VIELE
+      "4": STÜCK
+      "5": SORTE
+      "6": VOLLKORN
+      "7": EINEN
+      "8": KOSTET
+      "9": PASSEND
+      "10": TAG
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Was sagst du?"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du kommst rein und bist dran. — You come in and it's your turn."
+        options:
+          - { key: a, text: "Guten Morgen. Ich hätte gern sechs Brötchen, bitte." }
+          - { key: b, text: "Brötchen." }
+          - { key: c, text: "Sechs." }
+        answer: a
+        why: "Gruß, Wunsch und bitte — das ist der ganze Satz, und er passt jeden Morgen."
+      - q: "Du weißt nicht, wie die Sorte heißt. — You don't know the name of the type."
+        options:
+          - { key: a, text: "Das da." }
+          - { key: b, text: "Entschuldigung, wie heißt das da vorne?" }
+          - { key: c, text: "Ich will das." }
+        answer: b
+        why: "Nach dem Wort fragen, statt nur zu zeigen — so lernst du es beim zweiten Mal."
+      - q: "Du willst wissen, was es kostet. — You want to know the price."
+        options:
+          - { key: a, text: "Wie teuer?" }
+          - { key: b, text: "Geld?" }
+          - { key: c, text: "Was kostet das, bitte?" }
+        answer: c
+        why: "„Was kostet das?“ ist die Standardfrage — kurz, vollständig und höflich."
+      - q: "Die Bäckerin fragt: „Sonst noch etwas?“ Du willst nichts mehr. — You don't want anything else."
+        options:
+          - { key: a, text: "Nein, danke. Das ist alles." }
+          - { key: b, text: "Nein." }
+          - { key: c, text: "Fertig." }
+        answer: a
+        why: "„Das ist alles“ schließt die Bestellung ab; ein bloßes Nein wirkt abrupt."
+      - q: "Du willst zahlen und hast es passend. — You want to pay and have the exact amount."
+        options:
+          - { key: a, text: "Nehmen Sie." }
+          - { key: b, text: "Hier, bitte — passend." }
+          - { key: c, text: "Geld." }
+        answer: b
+        why: "„Passend“ ist das Wort dafür; die Bäckerin muss dann kein Wechselgeld suchen."
+      - q: "Du gehst und willst dich verabschieden. — You're leaving and want to say goodbye."
+        options:
+          - { key: a, text: "Tschüss." }
+          - { key: b, text: "Danke, schönen Tag noch! — Auf Wiedersehen." }
+          - { key: c, text: "Bis dann." }
+        answer: b
+        why: "Danke plus Tageswunsch plus Gruß — die vollständige Verabschiedung im Laden."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze beim Bäcker bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "hätte", "gern", "sechs", "Brötchen"]
+        answer: [0, 1, 2, 3, 4]
+        note: "hätte gern — die höfliche Standardformel"
+      - tiles: ["Was", "kostet", "das", ",", "bitte", "?"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "W-Frage: Fragewort, dann Verb"
+      - tiles: ["Drei", "helle", "und", "drei", "Vollkorn", ",", "bitte"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Am Tresen reicht die kurze Form ohne Verb"
+      - tiles: ["Nein", "danke", ",", "das", "ist", "alles"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Der Standardsatz zum Abschluss der Bestellung"
+      - tiles: ["Haben", "Sie", "noch", "Brezeln", "?"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Ja/Nein-Frage: Verb an Position 1"
+      - tiles: ["Schönen", "Tag", "noch", "!"]
+        answer: [0, 1, 2, 3]
+        note: "Akkusativ: einen schönen Tag — das einen fällt weg"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Das Schild an der Tür lesen"
+    instructions: |
+      > **Bäckerei Sommer**
+      >
+      > | | |
+      > |---|---|
+      > | Mo–Fr | 6–18 Uhr |
+      > | Sa | 6–13 Uhr |
+      > | So | 7–11 Uhr |
+      >
+      > Brötchen **ab 6 Uhr** frisch. Sonntags nur **Brot und
+      > Brötchen**, kein Kuchen.
+      >
+      > **Vorbestellungen** für Samstag bis **Freitag 17 Uhr**.
+      >
+      > **Kartenzahlung ab 5 €.**
+      >
+      > Kaffee zum Mitnehmen: **mit eigenem Becher 30 Cent günstiger**.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Samstags kann man um 14 Uhr einkaufen. — On Saturday you can shop at 2 pm."
+        answer: false
+        why: "Samstags ist nur bis 13 Uhr geöffnet."
+      - q: "Sonntags gibt es keinen Kuchen. — There's no cake on Sundays."
+        answer: true
+        why: "„Sonntags nur Brot und Brötchen, kein Kuchen.“"
+      - q: "Für Samstag kann man am Freitagabend um 19 Uhr vorbestellen. — You can preorder for Saturday at 7 pm on Friday."
+        answer: false
+        why: "Vorbestellungen nur bis Freitag 17 Uhr."
+      - q: "Zwei Brötchen für 1,20 € kann man mit Karte zahlen. — Two rolls for €1.20 can be paid by card."
+        answer: false
+        why: "Kartenzahlung gibt es erst ab 5 €."
+      - q: "Mit eigenem Becher ist der Kaffee billiger. — With your own cup the coffee is cheaper."
+        answer: true
+        why: "„mit eigenem Becher 30 Cent günstiger“."
+      - q: "Montags früh um sieben sind die Brötchen schon da. — At 7 am on Monday the rolls are already there."
+        answer: true
+        why: "Brötchen sind ab 6 Uhr frisch, geöffnet ist ab 6 Uhr."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Kleine Probleme"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Du verstehst die Frage nicht. — You don't understand the question."
+        options:
+          - { key: a, text: "Entschuldigung, noch einmal bitte — langsam." }
+          - { key: b, text: "Was?" }
+          - { key: c, text: "Ja." }
+        answer: a
+        why: "„Ja“ auf eine unverstandene Frage bringt dir am Ende die falsche Tüte."
+      - q: "Die Sorte, die du willst, ist aus. — The type you want is sold out."
+        options:
+          - { key: a, text: "Warum nicht?" }
+          - { key: b, text: "Schade. Was können Sie mir stattdessen empfehlen?" }
+          - { key: c, text: "Dann nichts." }
+        answer: b
+        why: "Nach einer Empfehlung fragen — so gehst du trotzdem mit Frühstück nach Hause."
+      - q: "In der Tüte ist ein Brötchen zu wenig. — There's one roll missing from the bag."
+        options:
+          - { key: a, text: "Sie haben falsch gezählt." }
+          - { key: b, text: "Nichts sagen." }
+          - { key: c, text: "Entschuldigung, ich hatte sechs bestellt — hier sind nur fünf." }
+        answer: c
+        why: "Zahl gegen Zahl: das lässt sich sofort prüfen und niemand fühlt sich angegriffen."
+      - q: "Du hast nur einen großen Schein. — You only have a large note."
+        options:
+          - { key: a, text: "Tut mir leid, ich habe nur einen Fünfziger." }
+          - { key: b, text: "Haben Sie kein Wechselgeld?" }
+          - { key: c, text: "Ich komme später." }
+        answer: a
+        why: "Kurz sagen und sich entschuldigen; morgens ist Kleingeld beim Bäcker knapp."
+      - q: "Jemand drängelt sich vor. — Someone jumps the queue."
+        options:
+          - { key: a, text: "Ich war zuerst da!" }
+          - { key: b, text: "Entschuldigung, ich glaube, ich war dran." }
+          - { key: c, text: "Nichts sagen." }
+        answer: b
+        why: "Freundlich und trotzdem klar — „ich glaube“ nimmt der Sache die Schärfe."
+      - q: "Du willst für morgen vorbestellen. — You want to preorder for tomorrow."
+        options:
+          - { key: a, text: "Kann ich zehn Brötchen für morgen früh vorbestellen?" }
+          - { key: b, text: "Morgen brauche ich viel." }
+          - { key: c, text: "Haben Sie morgen genug?" }
+        answer: a
+        why: "Menge und Zeitpunkt gleich nennen — dann kann die Bäckerei es sofort notieren."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Entschuldigung, noch einmal {1}. (please)
+      2. Die Brezeln sind leider {2}. (nicht mehr da)
+      3. Ich hatte sechs {3}. (Perfekt von bestellen)
+      4. Ich habe es leider nicht {4}. (nicht genau der Betrag)
+      5. Kann ich für morgen {5}? (vorher bestellen)
+      6. Ich {6}, ich war dran. (denken/meinen, ich-Form)
+    answers:
+      "1": bitte
+      "2": aus
+      "3": bestellt
+      "4": passend
+      "5": vorbestellen
+      "6": glaube
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /12)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. {1} Morgen! (good)
+      2. Ich {2} gern sechs Brötchen. (would like)
+      3. Sechs {3}, bitte. (pieces)
+      4. Welche {4}? (type / sort)
+      5. Drei helle und drei {5}. (wholemeal)
+      6. Sonst noch {6}? (anything)
+      7. Nein danke, das ist {7}. (everything)
+      8. Was {8} das? (costs)
+      9. Haben Sie es {9}? (the exact money)
+      10. Die Brezeln sind leider {10}. (sold out)
+      11. Kann ich für morgen {11}? (preorder)
+      12. {12} Tag noch! (have a nice …)
+    answers:
+      "1": Guten
+      "2": hätte
+      "3": Stück
+      "4": Sorte
+      "5": Vollkorn
+      "6": etwas
+      "7": alles
+      "8": kostet
+      "9": passend
+      "10": aus
+      "11": vorbestellen
+      "12": Schönen
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Rollenspiel: zwei Minuten beim Bäcker"
+    prompt: "Schreib das Gespräch beim Bäcker. 12–14 Sätze."
+    stimulus: |
+      Du gehst morgens vor der Arbeit zum Bäcker. Du willst sechs
+      Brötchen (drei helle, drei Vollkorn), einen kleinen Kaffee zum
+      Mitnehmen und für morgen zehn Brötchen vorbestellen. Die Brezeln
+      sind schon aus.
+
+      Diese Momente müssen vorkommen:
+      1. grüßen
+      2. Brötchen bestellen — mit Zahl
+      3. die Sorte nennen
+      4. nach Brezeln fragen und die Absage hören
+      5. einen Kaffee dazu bestellen
+      6. nach dem Preis fragen
+      7. für morgen vorbestellen
+      8. zahlen
+      9. dich verabschieden
+    use:
+      - "Sie-Form durchgehend"
+      - "`Ich hätte gern …`"
+      - "`Was kostet das, bitte?`"
+      - "`Nein danke, das ist alles.`"
+      - "`Schönen Tag noch!`"
+    selfCheck:
+      - "Steht in jeder Bestellung eine Zahl?"
+      - "Hast du bitte und danke benutzt?"
+      - "Stimmen die Artikel im Akkusativ (einen Kaffee, eine Brezel, ein Croissant)?"
+      - "Kommen alle 9 Momente vor?"
+    model: |
+      Bäckerin: Guten Morgen, was darf es sein?
+      Ich: Guten Morgen. Ich hätte gern sechs Brötchen, bitte.
+      Bäckerin: Welche Sorte?
+      Ich: Drei helle und drei Vollkorn.
+      Ich: Haben Sie noch Brezeln?
+      Bäckerin: Tut mir leid, die sind schon aus.
+      Ich: Schade. Dann nur die Brötchen — und einen kleinen Kaffee zum Mitnehmen.
+      Bäckerin: Gern. Sonst noch etwas?
+      Ich: Nein danke, das ist alles. Was kostet das, bitte?
+      Bäckerin: 4,80 €.
+      Ich: Eine Frage noch: Kann ich für morgen früh zehn Brötchen vorbestellen?
+      Bäckerin: Klar, auf welchen Namen?
+      Ich: Marchetti. Ich hole sie gegen halb acht ab.
+      Ich: Hier sind 4,80 € — passend.
+      Bäckerin: Danke schön. Schönen Tag noch!
+      Ich: Danke, Ihnen auch. Auf Wiedersehen!
