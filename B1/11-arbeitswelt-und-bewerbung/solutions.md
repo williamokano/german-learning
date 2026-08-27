@@ -48,7 +48,7 @@
 
 ## Übung A4 — Konjunktiv II im Vorstellungsgespräch (B1/03 — Wiederholung)
 
-1. **läge**  2. **könnte**  3. **wäre**  4. **würde**  5. **Würden**  6. **wäre**
+1. **läge**  2. **könnte**  3. **wäre**  4. **würde**  5. **Hätten**  6. **wäre**
 
 ## Übung A5 — Genitiv im Anschreiben (B1/07 — Wiederholung)
 

@@ -224,7 +224,7 @@ exercises:
       4. Ich will mehr Verantwortung.
          → Ich {4} gerne mehr Verantwortung übernehmen.
       5. Wann treffen wir uns noch mal?
-         → {5} Sie nächste Woche noch einen Termin haben?
+         → {5} Sie nächste Woche noch einen Termin?
       6. Das ist zu wenig Geld.
          → Das {6} für mich etwas wenig.
     answers:
@@ -232,7 +232,7 @@ exercises:
       "2": könnte
       "3": wäre
       "4": würde
-      "5": Würden
+      "5": Hätten
       "6": wäre
 
   - id: A5
@@ -276,7 +276,7 @@ exercises:
     instructions: "Complete each cover-letter sentence with `um … zu + Infinitiv`. 6 items."
     text: |
       1. Ich bewerbe mich, um meine Erfahrungen {1}. (einsetzen)
-      2. Ich habe Projektmanagement studiert, um Teams besser {2}. (koordinieren)
+      2. Ich habe Projektmanagement studiert, um Teams besser {2}. (koordinieren können)
       3. Ich schreibe Ihnen, um mich für die Stelle {3}. (bewerben)
       4. Ich möchte die Gelegenheit nutzen, um mich beruflich {4}. (weiterentwickeln)
       5. Ich sende Ihnen meine Unterlagen, um mein Profil {5}. (vorstellen)

@@ -116,7 +116,7 @@
 
 ## Übung B8 — Sprachbausteine — B1/08 Pronominaladverbien
 
-1. **darauf**  2. **daran**  3. **Worüber**  4. **darauf**  5. **Womit**
+1. **darüber**  2. **daran**  3. **Worüber**  4. **darauf**  5. **Womit**
 
 ## Übung B9 — Sprachbausteine — B1/09 Indirekte Fragen
 
@@ -137,7 +137,7 @@
 
 ## Übung B12 — Sprachbausteine — B1/12 Nominalisierung
 
-1. **Lernen**  2. **Bewerbung**  3. **Erstellen**  4. **Bekanntgabe**  5. **Bezahlen**  6. **Nachfrage**
+1. **Das Lernen**  2. **Bewerbung**  3. **Erstellen**  4. **Bekanntgabe**  5. **Bezahlen**  6. **Nachfrage**
 
 ## Übung B13 — Sprachbausteine — B1/13 Schreiben-Redemittel: Teile einer formellen E-Mail
 

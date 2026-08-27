@@ -217,17 +217,17 @@ Put the words in the correct order to form a Nominalstil sentence.
 Fill in the 8 blanks. Use Nominalisierungen, opinion phrases, or Passiv as indicated.
 
 — Lukas, was denkst du über die neue Citymaut?
-— Ich bin (1) ______, dass die Einführung der Citymaut überfällig ist. (der Ansicht)
+— Ich bin (1) ______, dass die Einführung der Citymaut überfällig ist.
 — Und du, Mia? Wie findest du das?
 — Einerseits ist (2) ______ der Luftqualität wichtig, andererseits trifft es
   kleine Betriebe. (die Verbesserung)
-— Stimmt. Nicht nur die Luft, (3) ______ auch der Lärm soll abnehmen. (sondern)
-— Was passiert mit den Einnahmen? (4) ______ sie zweckgebunden? (werden)
-— Ja, sie (5) ______ in den Ausbau des ÖPNV investiert werden. (sollen)
-— (6) ______ des öffentlichen Nahverkehrs ist natürlich sinnvoll. (der Ausbau)
-— Zwar sind die ökologischen Vorteile klar, (7) ______ darf die soziale
-  Gerechtigkeit nicht vergessen werden. (aber)
-— Ich halte es (8) ______, alle Gesellschaftsgruppen einzubeziehen. (für wichtig)
+— Stimmt. Nicht nur die Luft, (3) ______ auch der Lärm soll abnehmen.
+— Was passiert mit den Einnahmen? (4) ______ sie zweckgebunden?
+— Ja, sie (5) ______ in den Ausbau des ÖPNV investiert werden.
+— (6) ______ des öffentlichen Nahverkehrs ist natürlich sinnvoll.
+— Zwar sind die ökologischen Vorteile klar, (7) ______ die soziale
+  Gerechtigkeit darf nicht vergessen werden.
+— Ich halte es (8) ______, alle Gesellschaftsgruppen einzubeziehen.
 
 ## Übung B2 — Finde den Fehler — Nominalisierung und Passiv
 
@@ -271,17 +271,17 @@ Match each sentence opener (1–6) with the correct continuation (a–g). One co
 Rewrite each active sentence as a Passiv sentence (Präteritum). 6 items.
 
 1. Die Stadt führte neue Maßnahmen ein.
-   → Neue Maßnahmen (1) ______. (wurden eingeführt)
+   → Neue Maßnahmen (1) ______.
 2. Man installierte Solaranlagen auf den Schulen.
-   → Solaranlagen (2) ______. (wurden auf den Schulen installiert)
+   → Solaranlagen (2) ______.
 3. Die Regierung reduzierte die Emissionen.
-   → Die Emissionen (3) ______. (wurden reduziert)
+   → Die Emissionen (3) ______.
 4. Man verbesserte das Radwegenetz.
-   → Das Radwegenetz (4) ______. (wurde verbessert)
+   → Das Radwegenetz (4) ______.
 5. Die Bürger wählten neue Politiker.
-   → Neue Politiker (5) ______. (wurden gewählt)
+   → Neue Politiker (5) ______.
 6. Man beschloss ein neues Klimapaket.
-   → Ein neues Klimapaket (6) ______. (wurde beschlossen)
+   → Ein neues Klimapaket (6) ______.
 
 ## Übung B6 — Stellungnahme-Sprache: Konnektoren einsetzen
 
