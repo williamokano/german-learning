@@ -1,0 +1,472 @@
+lesson: "SIT/21-wohnungsbesichtigung-b1"
+title: "Wohnungsbesichtigung — B1"
+topic: "Eine Wohnung besichtigen"
+category: "Wohnen & Nachbarschaft"
+level: B1
+summary: "Das Inserat lesen, einen Termin machen, bei der Besichtigung die richtigen Fragen stellen und danach nachfassen."
+intro: >
+  Zwanzig Leute, zwanzig Minuten, eine Wohnung: Bei einer Besichtigung
+  entscheidet sich in kurzer Zeit, ob du in die engere Auswahl kommst.
+  Dabei geht es um zwei Dinge gleichzeitig — du musst selbst
+  herausfinden, was das Inserat verschweigt (Nebenkosten, Heizung,
+  Kaution, Küche, Renovierung), und du musst als Mieterin oder Mieter
+  überzeugen, ohne dich anzubiedern. Danach kommt das Nachfassen: eine
+  kurze Mail, die Unterlagen, und die Absage, die du höflich
+  beantwortest. Grammatik nach Bedarf: indirekte Fragen, Konjunktiv II,
+  Passiv und Relativsätze. Blocks: A Wortschatz & Redemittel →
+  B Dialoge → C Wenn es schiefgeht → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Wovon ist die Rede?"
+    instructions: "Sortiere die 12 Begriffe."
+    instructionsEn: "Sort the 12 terms."
+    buckets:
+      - { key: geld, label: "Geld" }
+      - { key: wohnung, label: "Wohnung & Ausstattung" }
+      - { key: papier, label: "Papiere" }
+    tokens:
+      - { text: "die Kaltmiete", bucket: geld }
+      - { text: "die Einbauküche", bucket: wohnung }
+      - { text: "die Schufa-Auskunft", bucket: papier }
+      - { text: "die Nebenkosten", bucket: geld }
+      - { text: "der Altbau", bucket: wohnung }
+      - { text: "die Mietschuldenfreiheitsbescheinigung", bucket: papier }
+      - { text: "die Kaution", bucket: geld }
+      - { text: "die Fußbodenheizung", bucket: wohnung }
+      - { text: "die Gehaltsabrechnung", bucket: papier }
+      - { text: "die Provision", bucket: geld }
+      - { text: "der Abstellraum", bucket: wohnung }
+      - { text: "die Selbstauskunft", bucket: papier }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "die Kaltmiete" }
+      - { key: "2", text: "die Warmmiete" }
+      - { key: "3", text: "die Nebenkosten" }
+      - { key: "4", text: "die Kaution" }
+      - { key: "5", text: "die Selbstauskunft" }
+      - { key: "6", text: "die Abstandszahlung" }
+      - { key: "7", text: "der Staffelmietvertrag" }
+      - { key: "8", text: "die Wohnfläche" }
+    right:
+      - { key: a, text: "die Miete ohne Heizung, Wasser und Müll" }
+      - { key: b, text: "die Miete einschließlich der laufenden Kosten" }
+      - { key: c, text: "Heizung, Wasser, Müll, Hausreinigung und Ähnliches" }
+      - { key: d, text: "Sicherheit für die Vermieterin, höchstens drei Kaltmieten" }
+      - { key: e, text: "das Formular, in dem du Beruf, Einkommen und Haushalt angibst" }
+      - { key: f, text: "Geld an den Vormieter für Möbel oder Einbauten" }
+      - { key: g, text: "ein Vertrag, in dem die Miete zu festen Terminen steigt" }
+      - { key: h, text: "die Quadratmeter, für die du zahlst" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Indirekte Fragen: höflich nachhaken"
+    instructions: "Formuliere die indirekte Frage: Ergänze das Fragewort oder ob und achte auf das Verb am Ende."
+    instructionsEn: "Form the indirect question: fill in the question word or ob, minding the verb at the end."
+    text: |
+      1. Dürfte ich fragen, wie hoch die Nebenkosten {1}? (sein)
+      2. Können Sie mir sagen, {2} die Küche übernommen werden muss? (Ja/Nein-Frage)
+      3. Wissen Sie, wann die Fenster zuletzt getauscht {3}? (werden, Passiv Perfekt)
+      4. Ich wüsste gern, {4} viele Parteien im Haus wohnen. (Menge)
+      5. Darf ich fragen, {5} die Wohnung frei wird? (Zeitpunkt)
+      6. Können Sie mir sagen, {6} eine Provision anfällt? (Ja/Nein-Frage)
+    answers:
+      "1": sind
+      "2": ob
+      "3": wurden
+      "4": wie
+      "5": wann
+      "6": ob
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Relativsätze über die Wohnung"
+    instructions: "Ergänze das Relativpronomen."
+    instructionsEn: "Fill in the relative pronoun."
+    text: |
+      1. Das ist die Wohnung, {1} im Inserat stand. (die Wohnung, Nominativ)
+      2. Der Balkon, {2} nach Süden geht, ist ein großer Vorteil. (der Balkon, Nominativ)
+      3. Die Küche, {3} der Vormieter eingebaut hat, kostet 2.000 €. (die Küche, Akkusativ)
+      4. Das Zimmer, in {4} wir jetzt stehen, ist 18 Quadratmeter groß. (das Zimmer, Dativ nach in)
+      5. Der Nachbar, mit {5} ich eben gesprochen habe, wohnt seit 20 Jahren hier. (der Nachbar, Dativ nach mit)
+      6. Die Unterlagen, {6} Sie brauchen, schicke ich Ihnen heute. (die Unterlagen, Akkusativ Plural)
+    answers:
+      "1": die
+      "2": der
+      "3": die
+      "4": dem
+      "5": dem
+      "6": die
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Bei der Besichtigung"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Guten Tag, Marchetti, ich hatte mich für die {1} angemeldet.
+      — Guten Tag, kommen Sie rein. Schauen Sie sich in Ruhe um, Fragen
+      gern am Ende.
+      *(nach zehn Minuten)*
+      — Darf ich fragen, wie hoch die {2} sind?
+      — 220 € zusätzlich zur {3} von 780 €, plus 60 € für die Heizung.
+      — Und die {4}?
+      — Drei Kaltmieten, also 2.340 €.
+      — Verstehe. Muss ich die {5} übernehmen?
+      — Der Vormieter hätte gern 2.000 € dafür. Verhandelbar.
+      — Wann wird die Wohnung denn {6}?
+      — Zum 1. Oktober. Einziehen könnten Sie ab dem 5.
+      — Fällt eine {7} an?
+      — Nein, wir vermieten direkt.
+      — Sehr gut. Welche {8} brauchen Sie von mir?
+      — Selbstauskunft, die letzten drei {9} und eine
+      Schufa-Auskunft.
+      — Die habe ich alle da. Ich {10} sie Ihnen heute Abend per Mail.
+    bank: [BESICHTIGUNG, NEBENKOSTEN, KALTMIETE, KAUTION, KÜCHE, FREI, PROVISION, UNTERLAGEN, GEHALTSABRECHNUNGEN, SCHICKE, WARMMIETE, VERTRAG, TERMIN, ZIMMER]
+    answers:
+      "1": BESICHTIGUNG
+      "2": NEBENKOSTEN
+      "3": KALTMIETE
+      "4": KAUTION
+      "5": KÜCHE
+      "6": FREI
+      "7": PROVISION
+      "8": UNTERLAGEN
+      "9": GEHALTSABRECHNUNGEN
+      "10": SCHICKE
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Was fragst du, was sagst du?"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Im Inserat steht nur die Kaltmiete. — The ad only lists the base rent."
+        options:
+          - { key: a, text: "Dürfte ich fragen, wie hoch die Nebenkosten sind — und ob die Heizung darin enthalten ist?" }
+          - { key: b, text: "Was kostet das wirklich?" }
+          - { key: c, text: "780 € ist ja günstig." }
+        answer: a
+        why: "Zwei Zahlen entscheiden über deine Warmmiete; frag sie beide direkt ab."
+      - q: "Du willst wissen, warum die Vormieter ausziehen. — You want to know why the previous tenants are leaving."
+        options:
+          - { key: a, text: "Ist etwas mit der Wohnung nicht in Ordnung?" }
+          - { key: b, text: "Darf ich fragen, warum die jetzigen Mieter ausziehen?" }
+          - { key: c, text: "Gibt es Probleme im Haus?" }
+        answer: b
+        why: "Dieselbe Information, ohne Verdacht zu äußern — und die Antwort verrät oft genug."
+      - q: "Die Maklerin fragt, was du beruflich machst. — The agent asks what you do for a living."
+        options:
+          - { key: a, text: "Das geht Sie nichts an." }
+          - { key: b, text: "Ich habe Arbeit." }
+          - { key: c, text: "Ich arbeite seit vier Jahren als Krankenpfleger, unbefristet. Die Gehaltsabrechnungen bringe ich mit." }
+        answer: c
+        why: "Dauer, Vertragsart und Nachweis in einem Satz — genau das prüft die Vermieterseite."
+      - q: "Du siehst Schimmelflecken hinter der Tür. — You spot mould behind the door."
+        options:
+          - { key: a, text: "Hier ist Schimmel!" }
+          - { key: b, text: "Nichts sagen und später überlegen." }
+          - { key: c, text: "Da an der Ecke sieht es feucht aus — wissen Sie, ob das schon einmal saniert wurde?" }
+        answer: c
+        why: "Beobachtung plus Frage: du bekommst eine Antwort, die dir später schriftlich weiterhilft."
+      - q: "Zwanzig Leute stehen im Flur, du willst im Gedächtnis bleiben. — Twenty people are in the hallway and you want to be remembered."
+        options:
+          - { key: a, text: "Möglichst laut Fragen stellen." }
+          - { key: b, text: "Am Ende kurz vorstellen, sagen, dass die Unterlagen komplett sind, und heute noch mailen." }
+          - { key: c, text: "Als Erster gehen." }
+        answer: b
+        why: "Vollständige Unterlagen am selben Abend sind das, was am Ende wirklich zählt."
+      - q: "Die Wohnung gefällt dir nicht. — You don't like the flat."
+        options:
+          - { key: a, text: "Vielen Dank fürs Zeigen — die Wohnung passt für mich leider nicht ganz." }
+          - { key: b, text: "Einfach gehen." }
+          - { key: c, text: "Die ist viel zu teuer für das, was sie bietet." }
+        answer: a
+        why: "Kurz und freundlich absagen: die Vermieterin hat oft noch andere Wohnungen."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Fragen und Sätze bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Dürfte", "ich", "fragen", ",", "wie", "hoch", "die", "Nebenkosten", "sind", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        note: "Indirekte Frage: das Verb steht am Ende"
+      - tiles: ["Können", "Sie", "mir", "sagen", ",", "ob", "eine", "Provision", "anfällt", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        note: "Ja/Nein-Frage im Nebensatz: ob, Verb am Ende"
+      - tiles: ["Die", "Wohnung", "wird", "zum", "1.", "Oktober", "frei"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "frei werden — frei steht am Satzende"
+      - tiles: ["Das", "ist", "die", "Wohnung", ",", "die", "im", "Inserat", "stand"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Relativsatz: Verb am Ende"
+      - tiles: ["Ich", "würde", "Ihnen", "die", "Unterlagen", "heute", "Abend", "schicken"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Konjunktiv II als höfliches Angebot, Infinitiv am Ende"
+      - tiles: ["Wissen", "Sie", ",", "wann", "die", "Fenster", "getauscht", "wurden", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Passiv im Nebensatz: Partizip, dann wurden"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Das Inserat lesen"
+    instructions: |
+      > **3-Zimmer-Wohnung, Altbau, 78 m², 3. OG ohne Aufzug**
+      >
+      > | | |
+      > |---|---|
+      > | Kaltmiete | 780 € |
+      > | Nebenkosten | 220 € |
+      > | Heizkosten | 60 € |
+      > | Kaution | 3 Kaltmieten |
+      >
+      > Frei **ab 01.10.** · **Provisionsfrei** (Vermietung direkt durch
+      > die Eigentümerin)
+      >
+      > Einbauküche vorhanden — **Ablöse 2.000 €, VB**. Balkon nach
+      > Süden, Abstellraum im Keller. **Haustiere nach Absprache.**
+      > Fenster 2021 erneuert, Bad 2018 saniert.
+      >
+      > **Unterlagen zur Besichtigung mitbringen:** Selbstauskunft,
+      > letzte 3 Gehaltsabrechnungen, Schufa-Auskunft (nicht älter als
+      > 3 Monate).
+      >
+      > Besichtigung nur nach Anmeldung, Sammeltermin **Do 17:30**.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Die Warmmiete liegt bei 1.060 €. — The rent including all costs is €1,060."
+        answer: true
+        why: "780 + 220 + 60 = 1.060 €."
+      - q: "Es fällt eine Maklerprovision an. — There is an agent's commission."
+        answer: false
+        why: "„Provisionsfrei“ — die Eigentümerin vermietet direkt."
+      - q: "Die Küche ist im Preis enthalten. — The kitchen is included in the price."
+        answer: false
+        why: "Ablöse 2.000 €, VB — sie muss also bezahlt werden, ist aber verhandelbar."
+      - q: "Die Kaution beträgt 2.340 €. — The deposit is €2,340."
+        answer: true
+        why: "Drei Kaltmieten à 780 €."
+      - q: "Ein Hund ist auf jeden Fall erlaubt. — A dog is definitely allowed."
+        answer: false
+        why: "„Haustiere nach Absprache“ heißt: fragen, nicht voraussetzen."
+      - q: "Eine Schufa-Auskunft von vor einem halben Jahr reicht. — A credit report from six months ago is enough."
+        answer: false
+        why: "Sie darf nicht älter als drei Monate sein."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Heikle Momente"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Die Maklerin fragt, ob du eine Familie planst. — The agent asks whether you're planning a family."
+        options:
+          - { key: a, text: "Ja, in zwei Jahren." }
+          - { key: b, text: "Diese Frage würde ich lieber nicht beantworten — zur Wohnung selbst gebe ich Ihnen aber gern jede Auskunft." }
+          - { key: c, text: "Das dürfen Sie nicht fragen!" }
+        answer: b
+        why: "Unzulässige Fragen musst du nicht beantworten; freundlich ablenken erhält deine Chancen."
+      - q: "Du hast die Schufa-Auskunft nicht dabei. — You don't have the credit report with you."
+        options:
+          - { key: a, text: "Die Schufa habe ich beantragt, sie kommt bis Freitag — den Rest schicke ich Ihnen heute Abend." }
+          - { key: b, text: "Die habe ich vergessen." }
+          - { key: c, text: "Brauchen Sie die wirklich?" }
+        answer: a
+        why: "Fehlendes benennen, Termin nennen und den Rest sofort liefern — das wirkt organisiert."
+      - q: "Beim zweiten Blick fällt dir auf, dass es nach Feuchtigkeit riecht. — On second look you notice a damp smell."
+        options:
+          - { key: a, text: "Trotzdem zusagen und hoffen." }
+          - { key: b, text: "Bevor ich zusage: Es riecht im Bad etwas feucht. Gab es dort schon einmal Schimmel?" }
+          - { key: c, text: "Die Wohnung ist feucht." }
+        answer: b
+        why: "Vor der Zusage fragen — danach hast du keine Verhandlungsposition mehr."
+      - q: "Du bekommst eine Absage. — You get a rejection."
+        options:
+          - { key: a, text: "Nicht antworten." }
+          - { key: b, text: "Schade! Falls etwas Ähnliches frei wird, freue ich mich über eine Nachricht." }
+          - { key: c, text: "Darf ich fragen, warum nicht ich?" }
+        answer: b
+        why: "Eine freundliche Antwort kostet zwei Sätze — und viele Wohnungen werden nie inseriert."
+      - q: "Der Vormieter will 4.000 € für eine alte Küche. — The previous tenant wants €4,000 for an old kitchen."
+        options:
+          - { key: a, text: "Das ist Wucher." }
+          - { key: b, text: "Die Küche ist von 2009 — ich könnte 1.500 € anbieten, sonst baue ich eine eigene ein." }
+          - { key: c, text: "Ich zahle es, damit ich die Wohnung bekomme." }
+        answer: b
+        why: "Begründetes Gegenangebot plus echte Alternative — Ablösen sind fast immer verhandelbar."
+      - q: "Man drängt dich, den Vertrag sofort zu unterschreiben. — You're pushed to sign the contract on the spot."
+        options:
+          - { key: a, text: "Ich unterschreibe sehr gern — dürfte ich den Vertrag heute Abend in Ruhe lesen und ihn Ihnen morgen früh unterschrieben bringen?" }
+          - { key: b, text: "Ich unterschreibe nichts unter Druck." }
+          - { key: c, text: "Sofort unterschreiben, um die Wohnung nicht zu verlieren." }
+        answer: a
+        why: "Zusagen und trotzdem Zeit nehmen — eine Nacht ist eine übliche und kaum ablehnbare Bitte."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Die {1} sind die Kosten für Wasser, Müll und Hausreinigung. (laufende Kosten)
+      2. Für die Küche will der Vormieter eine {2} von 2.000 €. (Zahlung für Einbauten)
+      3. Die Wohnung ist {3} — es gibt keinen Makler. (ohne Provision)
+      4. In der {4} gebe ich Beruf und Einkommen an. (Formular über mich)
+      5. Die {5} beträgt höchstens drei Kaltmieten. (Sicherheit für den Vermieter)
+      6. Haustiere sind nur nach {6} erlaubt. (man muss vorher fragen)
+    answers:
+      "1": Nebenkosten
+      "2": Ablöse
+      "3": provisionsfrei
+      "4": Selbstauskunft
+      "5": Kaution
+      "6": Absprache
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Die {1} ist die Miete ohne Heizung und Wasser. (base rent)
+      2. Die {2} ist die Miete mit allen Kosten. (rent including costs)
+      3. Die {3} sind Wasser, Müll und Hausreinigung. (service charges)
+      4. Die {4} beträgt drei Kaltmieten. (deposit)
+      5. Die Wohnung ist {5}, es gibt keinen Makler. (commission-free)
+      6. Für die Küche zahle ich eine {6}. (transfer payment)
+      7. In der {7} gebe ich mein Einkommen an. (tenant self-disclosure)
+      8. Die {8} darf nicht älter als drei Monate sein. (credit report)
+      9. Dürfte ich fragen, wie hoch die Nebenkosten {9}? (indirekte Frage: sein)
+      10. Können Sie mir sagen, {10} eine Provision anfällt? (whether)
+      11. Wissen Sie, wann die Fenster getauscht {11}? (Passiv Präteritum)
+      12. Die Wohnung wird zum 1. Oktober {12}. (available)
+      13. Haustiere nur nach {13}. (by arrangement)
+      14. Ich {14} Ihnen die Unterlagen heute Abend schicken. (Konjunktiv II: I would)
+    answers:
+      "1": Kaltmiete
+      "2": Warmmiete
+      "3": Nebenkosten
+      "4": Kaution
+      "5": provisionsfrei
+      "6": Ablöse
+      "7": Selbstauskunft
+      "8": Schufa-Auskunft
+      "9": sind
+      "10": ob
+      "11": wurden
+      "12": frei
+      "13": Absprache
+      "14": würde
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Besichtigung und Nachfassmail"
+    prompt: "Schreib erst das Gespräch bei der Besichtigung (12–14 Sätze), dann die Mail am Abend (6–8 Sätze)."
+    stimulus: |
+      Du besichtigst die 3-Zimmer-Altbauwohnung aus dem Inserat:
+      780 € kalt, 220 € Nebenkosten, 60 € Heizung, Kaution drei
+      Kaltmieten, Einbauküche mit 2.000 € Ablöse, frei ab 1. Oktober.
+      Die Schufa-Auskunft hast du noch nicht.
+
+      Im Gespräch müssen vorkommen:
+      1. dich vorstellen und den Termin nennen
+      2. nach Nebenkosten und Heizung fragen
+      3. nach der Küche und der Ablöse fragen
+      4. fragen, wann die Wohnung frei wird
+      5. etwas ansprechen, das dir auffällt (Feuchtigkeit, Fenster)
+      6. sagen, welche Unterlagen du hast und welche nachkommt
+      7. dich bedanken und das Nachfassen ankündigen
+
+      In der Mail müssen vorkommen:
+      8. Bezug auf die Besichtigung
+      9. Interesse deutlich sagen
+      10. Unterlagen anhängen und die fehlende ankündigen
+    use:
+      - "Sie-Form durchgehend"
+      - "indirekte Fragen: `Dürfte ich fragen, wie hoch …?`, `Können Sie mir sagen, ob …?`"
+      - "Konjunktiv II: `Ich würde Ihnen die Unterlagen heute Abend schicken.`"
+      - "`Sehr geehrte Frau …` / `Mit freundlichen Grüßen`"
+    selfCheck:
+      - "Steht bei jeder indirekten Frage das Verb am Ende?"
+      - "Hast du nach Nebenkosten UND Heizung gefragt — beides einzeln?"
+      - "Nennt die Mail einen konkreten Termin für die fehlende Unterlage?"
+      - "Kommen alle 10 Punkte vor?"
+    model: |
+      **Bei der Besichtigung**
+
+      Ich: Guten Tag, Marchetti — ich hatte mich für den Sammeltermin um 17:30 angemeldet.
+      Frau Weber: Guten Tag, kommen Sie rein. Schauen Sie sich in Ruhe um.
+      Ich: Danke. Dürfte ich fragen, wie hoch die Nebenkosten sind — und ob die Heizung darin enthalten ist?
+      Frau Weber: 220 € Nebenkosten, die Heizung kommt mit 60 € dazu.
+      Ich: Also rund 1.060 € warm. Und die Einbauküche — muss ich die übernehmen?
+      Frau Weber: Der Vormieter hätte gern 2.000 € Ablöse, das ist aber verhandelbar.
+      Ich: Verstehe. Können Sie mir sagen, wann die Wohnung frei wird?
+      Frau Weber: Zum 1. Oktober, einziehen könnten Sie ab dem 5.
+      Ich: Eine Sache noch: Im Bad riecht es etwas feucht. Wissen Sie, ob dort schon einmal Schimmel war?
+      Frau Weber: Das Bad wurde 2018 komplett saniert, danach gab es nichts mehr.
+      Ich: Gut zu wissen, danke. Selbstauskunft und die letzten drei Gehaltsabrechnungen habe ich dabei; die Schufa-Auskunft habe ich beantragt, sie kommt bis Freitag.
+      Frau Weber: Das ist kein Problem, schicken Sie sie einfach nach.
+      Ich: Mache ich. Ich würde Ihnen die Unterlagen heute Abend per Mail schicken. Vielen Dank fürs Zeigen!
+
+      **Die Mail am Abend**
+
+      Betreff: Besichtigung Lindenweg 8 am Donnerstag — Unterlagen
+
+      Sehr geehrte Frau Weber,
+
+      vielen Dank, dass Sie mir heute die Wohnung gezeigt haben. Sie hat
+      mir sehr gut gefallen, und ich hätte großes Interesse an einem
+      Mietvertrag zum 1. Oktober.
+
+      Im Anhang finden Sie meine Selbstauskunft und die letzten drei
+      Gehaltsabrechnungen. Die Schufa-Auskunft habe ich beantragt; ich
+      reiche sie bis Freitag nach.
+
+      Über eine Rückmeldung würde ich mich sehr freuen.
+
+      Mit freundlichen Grüßen
+      C. Marchetti

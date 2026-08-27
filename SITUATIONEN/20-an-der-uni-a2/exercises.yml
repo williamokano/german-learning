@@ -1,0 +1,445 @@
+lesson: "SIT/20-an-der-uni-a2"
+title: "An der Uni: Alltagsgespräche — A2"
+topic: "Uni-Alltag"
+category: "Arbeit & Studium"
+level: A2
+summary: "Ist der Platz frei, in welchem Raum, was war letzte Woche dran, leihst du mir deine Notizen — die kurzen Gespräche zwischen den Veranstaltungen."
+intro: >
+  Nicht die Immatrikulation und nicht die Prüfungsordnung: die Gespräche
+  auf dem Flur, im Seminarraum und in der Mensa. Ist der Platz noch
+  frei? In welchem Raum ist die Vorlesung? Ich war letzte Woche krank —
+  was habt ihr gemacht? Kannst du mir deine Notizen schicken? Wollen wir
+  zusammen für die Klausur lernen? Dazu die Momente, in denen es
+  klemmt: du hast eine Abgabe verpasst, du verstehst die Aufgabe nicht,
+  in der Gruppe macht einer nichts. Grammatik nach Bedarf: du-Form,
+  Perfekt für das, was passiert ist, Modalverben für Bitten und
+  Vorschläge. Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn es
+  schiefgeht → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Veranstaltung, Ort oder Papier?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: veranstaltung, label: "Veranstaltung" }
+      - { key: ort, label: "Ort" }
+      - { key: papier, label: "Papier & Aufgabe" }
+    tokens:
+      - { text: "die Vorlesung", bucket: veranstaltung }
+      - { text: "der Hörsaal", bucket: ort }
+      - { text: "die Hausarbeit", bucket: papier }
+      - { text: "das Seminar", bucket: veranstaltung }
+      - { text: "die Mensa", bucket: ort }
+      - { text: "das Referat", bucket: papier }
+      - { text: "die Übung", bucket: veranstaltung }
+      - { text: "der Seminarraum", bucket: ort }
+      - { text: "die Klausur", bucket: papier }
+      - { text: "die Sprechstunde", bucket: veranstaltung }
+      - { text: "die Bibliothek", bucket: ort }
+      - { text: "die Abgabe", bucket: papier }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Frage und Antwort auf dem Flur"
+    instructions: "Ordne jeder Frage eine passende Antwort zu."
+    instructionsEn: "Match each question with a fitting answer."
+    left:
+      - { key: "1", text: "Ist der Platz noch frei?" }
+      - { key: "2", text: "In welchem Raum ist die Vorlesung?" }
+      - { key: "3", text: "Was habt ihr letzte Woche gemacht?" }
+      - { key: "4", text: "Kannst du mir deine Notizen schicken?" }
+      - { key: "5", text: "Wann ist die Abgabe?" }
+      - { key: "6", text: "Hast du die Aufgabe verstanden?" }
+      - { key: "7", text: "Wollen wir zusammen lernen?" }
+      - { key: "8", text: "Gehst du nachher in die Mensa?" }
+    right:
+      - { key: a, text: "Ja, klar, setz dich." }
+      - { key: b, text: "Im Hörsaal B, unten im Erdgeschoss." }
+      - { key: c, text: "Kapitel drei, und die Folien sind online." }
+      - { key: d, text: "Mache ich, ich fotografiere sie dir heute Abend." }
+      - { key: e, text: "Sonntag um 23:59, im Portal." }
+      - { key: f, text: "Nur halb, ehrlich gesagt. Fragen wir mal nach." }
+      - { key: g, text: "Gute Idee — Donnerstag in der Bibliothek?" }
+      - { key: h, text: "Ja, gegen halb eins, kommst du mit?" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Perfekt: Was war letzte Woche?"
+    instructions: "Ergänze das Verb im Perfekt."
+    instructionsEn: "Fill in the verb in the perfect tense."
+    text: |
+      1. Ich {1} letzte Woche krank {2}. (sein)
+      2. Wir {3} Kapitel drei {4}. (durchnehmen)
+      3. Der Dozent {5} die Folien schon hochgeladen. (haben — Hilfsverb)
+      4. {6} du zur Übung {7}? (gehen)
+      5. Ich {8} die Aufgabe leider nicht {9}. (verstehen)
+      6. Wir {10} uns nach dem Seminar noch kurz {11}. (unterhalten)
+    answers:
+      "1": bin
+      "2": gewesen
+      "3": haben
+      "4": durchgenommen
+      "5": hat
+      "6": Bist
+      "7": gegangen
+      "8": habe
+      "9": verstanden
+      "10": haben
+      "11": unterhalten
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Bitten und Vorschläge"
+    instructions: "Ergänze das Modalverb oder die Form."
+    instructionsEn: "Fill in the modal verb or the form."
+    text: |
+      1. {1} du mir kurz deine Notizen schicken? (können, du-Form)
+      2. {2} wir zusammen für die Klausur lernen? (wollen, wir-Form)
+      3. {3} ich mich hier hinsetzen? (dürfen, ich-Form)
+      4. Wir {4} das Referat bis Freitag fertig haben. (müssen, wir-Form)
+      5. {5} du morgen mitkommen? (mögen im Konjunktiv: höfliches Angebot)
+      6. Ich {6} gern in deine Lerngruppe kommen. (würden, ich-Form)
+    answers:
+      "1": Kannst
+      "2": Wollen
+      "3": Darf
+      "4": müssen
+      "5": Möchtest
+      "6": würde
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Vor dem Seminar"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Entschuldigung, ist der Platz noch {1}?
+      — Ja, klar, setz dich.
+      — Danke. Sag mal, ich war letzte Woche {2} — was habt ihr
+      gemacht?
+      — Kapitel drei. Die {3} sind schon im Portal.
+      — Super. {4} du mir trotzdem deine Notizen schicken? Auf den
+      Folien steht ja nie alles.
+      — Mache ich, ich {5} sie dir heute Abend.
+      — Danke dir! Und wann ist eigentlich die {6} für das Essay?
+      — Sonntag um 23:59. Aber Achtung: Die {7} sind diesmal 2.000
+      Wörter, nicht 1.500.
+      — Oh, gut, dass du das sagst. Hast du die {8} überhaupt
+      verstanden?
+      — Nur halb, ehrlich gesagt. Wir könnten nachher in die
+      {9} gehen und sie zusammen durchgehen.
+      — Sehr gern. Und {10} wir vorher noch schnell in die Mensa?
+      — Klar, ich habe sowieso Hunger.
+    bank: [FREI, KRANK, FOLIEN, KANNST, FOTOGRAFIERE, ABGABE, VORGABEN, AUFGABE, BIBLIOTHEK, GEHEN, RAUM, KLAUSUR, NOTIZEN, SITZEN]
+    answers:
+      "1": FREI
+      "2": KRANK
+      "3": FOLIEN
+      "4": KANNST
+      "5": FOTOGRAFIERE
+      "6": ABGABE
+      "7": VORGABEN
+      "8": AUFGABE
+      "9": BIBLIOTHEK
+      "10": GEHEN
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Wie sagst du das?"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du willst dich neben jemanden setzen. — You want to sit down next to someone."
+        options:
+          - { key: a, text: "Ich setze mich hier hin." }
+          - { key: b, text: "Ist der Platz noch frei?" }
+          - { key: c, text: "Weg da." }
+        answer: b
+        why: "Die Standardfrage — kurz, freundlich und in jedem Hörsaal richtig."
+      - q: "Du warst krank und willst wissen, was lief. — You were ill and want to know what happened."
+        options:
+          - { key: a, text: "Sag mir alles." }
+          - { key: b, text: "Was habe ich verpasst?" }
+          - { key: c, text: "Ich war letzte Woche krank — was habt ihr gemacht?" }
+        answer: c
+        why: "Grund plus konkrete Frage: dein Gegenüber weiß sofort, was du brauchst."
+      - q: "Du bittest jemanden, den du kaum kennst, um Notizen. — You ask someone you barely know for notes."
+        options:
+          - { key: a, text: "Schick mir deine Notizen." }
+          - { key: b, text: "Könntest du mir vielleicht deine Notizen schicken? Ich schicke dir meine nächste Woche auch." }
+          - { key: c, text: "Ich brauche deine Notizen." }
+        answer: b
+        why: "Höfliche Bitte plus Gegenangebot — so entsteht aus dem Gefallen ein Tausch."
+      - q: "Du verstehst die Aufgabe nicht und willst im Seminar fragen. — You don't understand the task and want to ask in class."
+        options:
+          - { key: a, text: "Die Aufgabe ist unklar." }
+          - { key: b, text: "Ich habe eine Frage: Sollen wir nur Kapitel drei zusammenfassen oder auch die Kritik daran?" }
+          - { key: c, text: "Ich habe nichts verstanden." }
+        answer: b
+        why: "Eine konkrete Frage bekommt eine konkrete Antwort; „unklar“ bekommt nur ein Nicken."
+      - q: "Du willst eine Lerngruppe vorschlagen. — You want to suggest a study group."
+        options:
+          - { key: a, text: "Wollen wir uns Donnerstag in der Bibliothek treffen und zusammen lernen?" }
+          - { key: b, text: "Ich lerne allein." }
+          - { key: c, text: "Wir müssen zusammen lernen." }
+        answer: a
+        why: "Vorschlag mit Tag und Ort — daraus wird eher ein Termin als aus „mal irgendwann“."
+      - q: "Du willst in der Sprechstunde etwas zur Hausarbeit klären. — You want to clarify something about your paper in office hours."
+        options:
+          - { key: a, text: "Ich komme wegen der Hausarbeit." }
+          - { key: b, text: "Guten Tag, ich habe eine Frage zur Hausarbeit: Reicht ein Kapitel für den Theorieteil?" }
+          - { key: c, text: "Haben Sie kurz Zeit?" }
+        answer: b
+        why: "In der Sprechstunde ist die Zeit knapp — nenn dein Thema und deine Frage im ersten Satz."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze im Uni-Alltag bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ist", "der", "Platz", "noch", "frei", "?"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Ja/Nein-Frage: Verb an Position 1"
+      - tiles: ["Ich", "war", "letzte", "Woche", "krank"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Präteritum von sein — bei war sagt niemand gewesen"
+      - tiles: ["Kannst", "du", "mir", "deine", "Notizen", "schicken", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Modalverb an Position 1, Infinitiv am Ende"
+      - tiles: ["Wir", "haben", "Kapitel", "drei", "durchgenommen"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Perfekt: Partizip am Ende, Vorsilbe durch- bleibt dran"
+      - tiles: ["Wollen", "wir", "zusammen", "für", "die", "Klausur", "lernen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Vorschlag mit wollen wir …?"
+      - tiles: ["Ich", "habe", "eine", "Frage", "zur", "Hausarbeit"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "zur = zu + der (Dativ)"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Ankündigung im Portal lesen"
+    instructions: |
+      > **Seminar „Einführung in die Stadtsoziologie“ — Hinweise zur
+      > Woche 6**
+      >
+      > - Die Sitzung am **Dienstag entfällt** (Tagung). Ersatztermin:
+      >   **Freitag, 14 Uhr, Seminarraum 2.14**.
+      > - Die **Folien** zu Kapitel 3 stehen ab Montag im Portal.
+      > - **Essay:** Abgabe **Sonntag, 23:59** im Portal. Umfang jetzt
+      >   **2.000 Wörter** (nicht 1.500). Verspätete Abgaben werden
+      >   **nicht** angenommen; bei Krankheit bitte **vorher** eine
+      >   Mail mit Attest.
+      > - **Referate** werden zu zweit gehalten, Dauer 15 Minuten.
+      >   Anmeldung in der Liste am Schwarzen Brett.
+      > - **Sprechstunde** Mittwoch 11–12 Uhr, ohne Anmeldung.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Am Dienstag findet das Seminar nicht statt. — The seminar doesn't take place on Tuesday."
+        answer: true
+        why: "„Die Sitzung am Dienstag entfällt.“"
+      - q: "Das Essay darf 1.500 Wörter lang sein. — The essay may be 1,500 words long."
+        answer: false
+        why: "Der Umfang ist jetzt 2.000 Wörter."
+      - q: "Wer krank ist, kann das Essay einfach später abgeben. — If you're ill you can simply hand the essay in later."
+        answer: false
+        why: "Man muss vorher eine Mail mit Attest schicken."
+      - q: "Referate hält man allein. — Presentations are given alone."
+        answer: false
+        why: "„Referate werden zu zweit gehalten.“"
+      - q: "Für die Sprechstunde braucht man keinen Termin. — You don't need an appointment for office hours."
+        answer: true
+        why: "„Mittwoch 11–12 Uhr, ohne Anmeldung.“"
+      - q: "Die Folien kommen vor dem Ersatztermin online. — The slides go online before the replacement session."
+        answer: true
+        why: "Folien ab Montag, Ersatztermin am Freitag."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn etwas klemmt"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Du merkst am Montag, dass die Abgabe am Sonntag war. — On Monday you realise the deadline was Sunday."
+        options:
+          - { key: a, text: "Nichts tun und hoffen." }
+          - { key: b, text: "Sofort eine Mail: die Lage kurz schildern, fragen, ob es noch eine Möglichkeit gibt." }
+          - { key: c, text: "Behaupten, das Portal sei kaputt gewesen." }
+        answer: b
+        why: "Früh und ehrlich melden ist die einzige Variante, bei der du überhaupt noch eine Chance hast."
+      - q: "In der Gruppenarbeit macht einer nichts. — In the group work one person does nothing."
+        options:
+          - { key: a, text: "Ihn beim Dozenten anschwärzen." }
+          - { key: b, text: "Seinen Teil selbst schreiben und schweigen." }
+          - { key: c, text: "Ihn direkt ansprechen: „Wir hängen bei deinem Teil — schaffst du ihn bis Mittwoch?“" }
+        answer: c
+        why: "Erst in der Gruppe klären, mit konkretem Datum. Der Dozent kommt später, wenn überhaupt."
+      - q: "Du hast im Seminar etwas nicht verstanden, alle nicken. — You didn't understand something; everyone else is nodding."
+        options:
+          - { key: a, text: "Entschuldigung, könnten Sie das mit dem zweiten Beispiel noch einmal erklären?" }
+          - { key: b, text: "Nach dem Seminar heimlich googeln." }
+          - { key: c, text: "Nichts sagen." }
+        answer: a
+        why: "Nachfragen ist normal — und die Frage auf ein konkretes Beispiel zu beziehen macht sie leicht beantwortbar."
+      - q: "Jemand fragt dich um Notizen, du hast selbst kaum welche. — Someone asks you for notes and you barely have any."
+        options:
+          - { key: a, text: "Nein." }
+          - { key: b, text: "Meine sind diesmal echt dünn — aber die Folien sind im Portal, und Anna schreibt sehr gut mit." }
+          - { key: c, text: "Ich schicke sie dir." }
+        answer: b
+        why: "Ehrlich absagen und trotzdem weiterhelfen — das kostet nichts und wird gemerkt."
+      - q: "Du kommst zwanzig Minuten zu spät in die Vorlesung. — You arrive twenty minutes late for the lecture."
+        options:
+          - { key: a, text: "Laut hereinkommen und dich entschuldigen." }
+          - { key: b, text: "Leise hinten hinsetzen und in der Pause kurz Bescheid sagen, wenn nötig." }
+          - { key: c, text: "Gar nicht mehr hingehen." }
+        answer: b
+        why: "In der Vorlesung stört das Reinrufen mehr als das Zuspätkommen."
+      - q: "Du kannst zum Lerngruppentermin doch nicht. — You can't make the study group after all."
+        options:
+          - { key: a, text: "Einfach nicht kommen." }
+          - { key: b, text: "Sorry, ich schaffe es heute nicht — geht Donnerstag auch? Ich bringe die Zusammenfassung mit." }
+          - { key: c, text: "Ich habe keine Zeit." }
+        answer: b
+        why: "Absagen, Alternative anbieten und etwas beitragen — dann bleibt die Gruppe zusammen."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Die Sitzung am Dienstag {1}. (findet nicht statt)
+      2. Ich habe die {2} verpasst. (der letzte Termin zum Einreichen)
+      3. Bei Krankheit brauchst du ein {3}. (Papier vom Arzt)
+      4. Wir halten das {4} zu zweit. (kurzer Vortrag im Seminar)
+      5. Die {5} sind ab Montag im Portal. (Präsentationsseiten)
+      6. Die {6} ist mittwochs von 11 bis 12 Uhr. (Zeit für Fragen beim Dozenten)
+    answers:
+      "1": entfällt
+      "2": Abgabe
+      "3": Attest
+      "4": Referat
+      "5": Folien
+      "6": Sprechstunde
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /12)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Ist der Platz noch {1}? (free)
+      2. In welchem {2} ist die Vorlesung? (room)
+      3. Ich war letzte Woche {3}. (ill)
+      4. Was habt ihr letzte Woche {4}? (covered — durchnehmen im Perfekt)
+      5. {5} du mir deine Notizen schicken? (can you)
+      6. Die {6} sind schon im Portal. (slides)
+      7. Wann ist die {7}? (deadline)
+      8. {8} wir zusammen lernen? (shall we)
+      9. Die Sitzung {9} morgen. (is cancelled)
+      10. Ich brauche ein {10} vom Arzt. (doctor's note)
+      11. Das {11} halten wir zu zweit. (presentation)
+      12. Die {12} ist mittwochs ohne Anmeldung. (office hours)
+    answers:
+      "1": frei
+      "2": Raum
+      "3": krank
+      "4": durchgenommen
+      "5": Kannst
+      "6": Folien
+      "7": Abgabe
+      "8": Wollen
+      "9": entfällt
+      "10": Attest
+      "11": Referat
+      "12": Sprechstunde
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Rollenspiel: ein Tag an der Uni"
+    prompt: "Schreib die Gespräche eines Uni-Tages. 14–18 Sätze."
+    stimulus: |
+      Du warst eine Woche krank und kommst zurück. Schreib alle Rollen
+      (dich, Kommilitoninnen, den Dozenten).
+
+      Diese Momente müssen vorkommen:
+      1. fragen, ob ein Platz frei ist
+      2. sagen, dass du krank warst, und fragen, was lief
+      3. um Notizen bitten und etwas zurückanbieten
+      4. nach dem Raum oder dem Ersatztermin fragen
+      5. nach der Abgabe und dem Umfang fragen
+      6. im Seminar nachfragen, weil du etwas nicht verstanden hast
+      7. eine Lerngruppe vorschlagen — mit Tag und Ort
+      8. einen Termin absagen und eine Alternative nennen
+      9. in die Mensa gehen
+    use:
+      - "du-Form unter Studierenden, Sie-Form beim Dozenten"
+      - "`Ist der Platz noch frei?`"
+      - "Perfekt: `Wir haben Kapitel drei durchgenommen.`"
+      - "`Wollen wir …?` für Vorschläge"
+      - "`Könnten Sie das noch einmal erklären?`"
+    selfCheck:
+      - "Hast du beim Dozenten Sie und unter Studierenden du benutzt?"
+      - "Steht im Perfekt das Partizip am Satzende?"
+      - "Ist jeder Vorschlag konkret — mit Tag, Uhrzeit oder Ort?"
+      - "Kommen alle 9 Momente vor?"
+    model: |
+      Ich: Entschuldigung, ist der Platz noch frei?
+      Lea: Ja, klar, setz dich.
+      Ich: Danke. Ich war letzte Woche krank — was habt ihr gemacht?
+      Lea: Kapitel drei. Die Folien sind schon im Portal.
+      Ich: Könntest du mir trotzdem deine Notizen schicken? Nächste Woche schicke ich dir meine.
+      Lea: Mache ich, ich fotografiere sie dir heute Abend.
+      Ich: Super. Und stimmt es, dass die Dienstagssitzung ausfällt?
+      Lea: Ja, der Ersatztermin ist Freitag um 14 Uhr in Raum 2.14.
+      Ich: Gut zu wissen. Wann ist eigentlich die Abgabe für das Essay?
+      Lea: Sonntag um 23:59 — und es sind jetzt 2.000 Wörter, nicht 1.500.
+      Ich: Oh, danke, das hätte ich verpasst.
+      (im Seminar)
+      Ich: Entschuldigung, könnten Sie das mit dem zweiten Beispiel noch einmal erklären? Da bin ich ausgestiegen.
+      Dozent: Gern. Ich gehe es kurz an der Tafel durch.
+      (nach dem Seminar)
+      Ich: Wollen wir Donnerstag in der Bibliothek zusammen für die Klausur lernen?
+      Lea: Gute Idee. Um vier?
+      Ich: Sorry, um vier schaffe ich es nicht — geht auch halb sechs? Ich bringe die Zusammenfassung mit.
+      Lea: Passt. Gehen wir jetzt noch in die Mensa?
+      Ich: Sehr gern, ich habe seit heute Morgen nichts gegessen.

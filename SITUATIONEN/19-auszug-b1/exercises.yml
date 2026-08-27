@@ -1,0 +1,487 @@
+lesson: "SIT/19-auszug-b1"
+title: "Auszug: kündigen, übergeben, Kaution — B1"
+topic: "Aus der Wohnung ausziehen"
+category: "Wohnen & Nachbarschaft"
+level: B1
+summary: "Fristgerecht kündigen, den Übergabetermin machen, das Protokoll lesen und die Kaution zurückbekommen."
+intro: >
+  Ausziehen ist vor allem eine Frage von Fristen und Papier. Du kündigst
+  schriftlich, meistens mit drei Monaten Frist zum Monatsende; du machst
+  einen Termin für die Übergabe; ihr geht durch die Wohnung und schreibt
+  ein Protokoll, in dem steht, was in Ordnung ist und was nicht; und
+  danach wartest du auf die Kaution, die die Verwaltung ganz oder
+  teilweise zurückzahlt. An genau diesen vier Stellen wird gestritten —
+  über Schönheitsreparaturen, über Zählerstände, über die Frist. Grammatik
+  nach Bedarf: Passiv, Konjunktiv II für höfliche Forderungen,
+  Nebensätze mit damit, falls und sobald. Blocks: A Wortschatz &
+  Redemittel → B Dialoge → C Wenn es schiefgeht → D Wiederholung.
+  Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Wann passiert was?"
+    instructions: "Sortiere die 12 Begriffe nach der Phase."
+    instructionsEn: "Sort the 12 terms by phase."
+    buckets:
+      - { key: kuendigung, label: "Kündigen" }
+      - { key: uebergabe, label: "Übergabe" }
+      - { key: danach, label: "Danach" }
+    tokens:
+      - { text: "die Kündigungsfrist", bucket: kuendigung }
+      - { text: "das Übergabeprotokoll", bucket: uebergabe }
+      - { text: "die Kautionsrückzahlung", bucket: danach }
+      - { text: "das Einschreiben", bucket: kuendigung }
+      - { text: "der Zählerstand", bucket: uebergabe }
+      - { text: "die Nebenkostenabrechnung", bucket: danach }
+      - { text: "der Nachmieter", bucket: kuendigung }
+      - { text: "die Schlüsselübergabe", bucket: uebergabe }
+      - { text: "der Nachsendeauftrag", bucket: danach }
+      - { text: "das Kündigungsschreiben", bucket: kuendigung }
+      - { text: "der Mangel", bucket: uebergabe }
+      - { text: "die Ummeldung", bucket: danach }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "die Kündigungsfrist" }
+      - { key: "2", text: "die Kaution" }
+      - { key: "3", text: "das Übergabeprotokoll" }
+      - { key: "4", text: "Schönheitsreparaturen" }
+      - { key: "5", text: "der Nachmieter" }
+      - { key: "6", text: "der Zählerstand" }
+      - { key: "7", text: "die Abnutzung" }
+      - { key: "8", text: "das Einschreiben" }
+    right:
+      - { key: a, text: "die Zeit zwischen Kündigung und letztem Miettag, meist drei Monate" }
+      - { key: b, text: "das Geld, das du beim Einzug hinterlegt hast" }
+      - { key: c, text: "das Papier, in dem der Zustand der Wohnung bei der Übergabe festgehalten wird" }
+      - { key: d, text: "Streichen und Tapezieren, also die optischen Arbeiten" }
+      - { key: e, text: "die Person, die nach dir in die Wohnung zieht" }
+      - { key: f, text: "die Zahl auf der Uhr für Strom, Gas oder Wasser" }
+      - { key: g, text: "normale Spuren vom Wohnen, für die du nicht zahlen musst" }
+      - { key: h, text: "ein Brief mit Nachweis, dass er angekommen ist" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Das Kündigungsschreiben: Passiv und feste Formeln"
+    instructions: "Ergänze die passende Form."
+    instructionsEn: "Fill in the fitting form."
+    text: |
+      1. Hiermit {1} ich den Mietvertrag fristgerecht zum 31. Mai. (kündigen, ich-Form)
+      2. Ich bitte Sie um eine schriftliche {2} des Kündigungseingangs. (Substantiv zu bestätigen)
+      3. Die Wohnung muss besenrein übergeben {3}. (Passiv im Infinitiv nach muss)
+      4. Ein Übergabetermin {4} noch vereinbart. (Passiv Präsens von vereinbaren)
+      5. Die Kaution {5} nach der Abrechnung zurückgezahlt. (Passiv Präteritum, Singular)
+      6. Alle Mängel {6} im Protokoll festgehalten. (Passiv Präsens, Plural)
+      7. Der Kratzer {7} schon 2019 notiert worden. (Passiv Perfekt: sein + Partizip + worden)
+      8. Die Schlüssel {8} am 29.05. übergeben. (Passiv Präteritum, Plural)
+    answers:
+      "1": kündige
+      "2": Bestätigung
+      "3": werden
+      "4": wird
+      "5": wurde
+      "6": werden
+      "7": ist
+      "8": wurden
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Nebensätze: damit, falls, sobald, bevor"
+    instructions: "Ergänze den passenden Konnektor."
+    instructionsEn: "Fill in the fitting connector."
+    text: |
+      1. Ich schicke die Kündigung per Einschreiben, {1} ich einen Nachweis habe. (Zweck)
+      2. {2} Sie die Wohnung schon vorher brauchen, sagen Sie Bescheid. (Bedingung)
+      3. {3} das Protokoll unterschrieben ist, gebe ich die Schlüssel ab. (unmittelbar danach)
+      4. {4} wir durch die Wohnung gehen, lese ich die Zähler ab. (zeitlich davor)
+      5. Ich lasse die Wände streichen, {5} es bei der Übergabe keinen Streit gibt. (Zweck)
+      6. {6} die Kaution nach sechs Monaten nicht da ist, schreibe ich noch einmal. (Bedingung)
+    answers:
+      "1": damit
+      "2": Falls
+      "3": Sobald
+      "4": Bevor
+      "5": damit
+      "6": Falls
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Anruf bei der Hausverwaltung: Übergabetermin"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Wohnbau Nord, Yildiz, guten Tag.
+      — Guten Tag, Marchetti, Lindenweg 8. Ich habe zum 31. Mai
+      {1} und würde gern den {2} vereinbaren.
+      — Einen Moment … ja, Ihre Kündigung ist am 26. Februar bei uns
+      {3}. Passt Ihnen der 31. Mai um zehn Uhr?
+      — Der 31. ist ein Samstag. Ginge auch der 29. am {4}?
+      — Der 29. um 16 Uhr ist frei. Bitte lesen Sie vorher alle
+      {5} ab — Strom, Gas und Wasser.
+      — Mache ich. Muss ich die Wände noch {6}?
+      — Nur wenn Sie farbig gestrichen haben. Normale {7} müssen Sie
+      nicht beseitigen.
+      — Gut. Und wann bekomme ich die {8} zurück?
+      — Nach der Nebenkostenabrechnung, in der Regel innerhalb von sechs
+      {9}.
+      — Alles klar. Bringen Sie das {10} mit, oder soll ich eins
+      ausdrucken?
+      — Wir bringen es mit, Sie bekommen eine Kopie mit Unterschrift.
+    bank: [GEKÜNDIGT, ÜBERGABETERMIN, EINGEGANGEN, NACHMITTAG, ZÄHLER, STREICHEN, ABNUTZUNG, KAUTION, MONATEN, PROTOKOLL, SCHLÜSSEL, MÄNGEL, VERTRAG, WOCHEN]
+    answers:
+      "1": GEKÜNDIGT
+      "2": ÜBERGABETERMIN
+      "3": EINGEGANGEN
+      "4": NACHMITTAG
+      "5": ZÄHLER
+      "6": STREICHEN
+      "7": ABNUTZUNG
+      "8": KAUTION
+      "9": MONATEN
+      "10": PROTOKOLL
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Wie formulierst du das?"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du kündigst schriftlich zum 31. Mai. — You give written notice for 31 May."
+        options:
+          - { key: a, text: "Ich will ausziehen am 31. Mai." }
+          - { key: b, text: "Hiermit kündige ich den Mietvertrag fristgerecht zum 31.05." }
+          - { key: c, text: "Ich bin ab Juni weg." }
+        answer: b
+        why: "„Hiermit kündige ich … fristgerecht zum …“ ist die Formel, die im Schreiben stehen muss."
+      - q: "Du willst wissen, ob deine Kündigung angekommen ist. — You want to know whether your notice arrived."
+        options:
+          - { key: a, text: "Haben Sie meinen Brief?" }
+          - { key: b, text: "Ich hoffe, es hat geklappt." }
+          - { key: c, text: "Könnten Sie mir den Eingang der Kündigung kurz schriftlich bestätigen?" }
+        answer: c
+        why: "Schriftliche Bestätigung ist der Nachweis, auf den es bei Fristen ankommt."
+      - q: "Der vorgeschlagene Termin passt dir nicht. — The suggested date doesn't suit you."
+        options:
+          - { key: a, text: "Nein." }
+          - { key: b, text: "Am 31. kann ich leider nicht. Ginge auch der 29. am Nachmittag?" }
+          - { key: c, text: "Ich komme, wann ich kann." }
+        answer: b
+        why: "Absagen und sofort einen Gegenvorschlag machen — sonst dauert die Terminsuche Wochen."
+      - q: "Bei der Übergabe wird ein alter Kratzer als Schaden notiert. — At the handover an old scratch is noted as damage."
+        options:
+          - { key: a, text: "Das war ich nicht." }
+          - { key: b, text: "Der Kratzer war schon beim Einzug da — er steht im Protokoll von 2019. Bitte nehmen Sie das so auf." }
+          - { key: c, text: "Ich unterschreibe gar nicht." }
+        answer: b
+        why: "Auf das alte Protokoll verweisen — das ist der einzige Beleg, der wirklich zählt."
+      - q: "Die Kaution ist nach acht Monaten nicht zurück. — After eight months the deposit is still not back."
+        options:
+          - { key: a, text: "Ich hätte gern mein Geld." }
+          - { key: b, text: "Das ist Betrug." }
+          - { key: c, text: "Ich bitte Sie, die Kaution bis zum 30.06. zu überweisen. Die Abrechnung liegt seit März vor." }
+        answer: c
+        why: "Konkrete Frist plus Bezug auf die Abrechnung — höflich, aber nicht mehr verhandelbar."
+      - q: "Du willst einen Nachmieter vorschlagen, um früher rauszukommen. — You want to propose a successor to leave earlier."
+        options:
+          - { key: a, text: "Ich habe schon jemanden, der einzieht." }
+          - { key: b, text: "Ich hätte einen Nachmieter — wären Sie bereit, mich früher aus dem Vertrag zu lassen?" }
+          - { key: c, text: "Suchen Sie sich jemanden." }
+        answer: b
+        why: "Die Verwaltung muss zustimmen; als Bitte formuliert hast du deutlich bessere Chancen."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Formelle Sätze bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Hiermit", "kündige", "ich", "den", "Mietvertrag", "fristgerecht", "zum", "31.05."]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Nach hiermit folgt sofort das Verb — Inversion"
+      - tiles: ["Ich", "bitte", "Sie", "um", "eine", "schriftliche", "Bestätigung"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "jemanden um etwas bitten — um steht mit Akkusativ"
+      - tiles: ["Die", "Wohnung", "wird", "besenrein", "übergeben"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Passiv: wird + Partizip am Ende"
+      - tiles: ["Sobald", "das", "Protokoll", "unterschrieben", "ist", ",", "gebe", "ich", "die", "Schlüssel", "ab"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        note: "Nebensatz zuerst, dann Verb — und ab am Satzende"
+      - tiles: ["Der", "Kratzer", "war", "bereits", "beim", "Einzug", "vorhanden"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Präteritum von sein — im Protokoll üblich"
+      - tiles: ["Ich", "bitte", "Sie", ",", "die", "Kaution", "bis", "zum", "30.06.", "zu", "überweisen"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        note: "Infinitivsatz mit zu — zu + Infinitiv ganz am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Das Übergabeprotokoll lesen"
+    instructions: |
+      > **Übergabeprotokoll — Lindenweg 8, 3. OG rechts**
+      >
+      > Datum: 29.05. · Anwesend: Mieterin C. Marchetti, Verwaltung
+      > (Fr. Yildiz)
+      >
+      > | | |
+      > |---|---|
+      > | Zählerstand Strom | 43.118 kWh |
+      > | Zählerstand Wasser (kalt) | 214 m³ |
+      > | Schlüssel übergeben | 2 Haustür, 2 Wohnung, 1 Keller, 1 Briefkasten |
+      >
+      > **Zustand:** Wohnung besenrein. Wände weiß, keine
+      > Schönheitsreparaturen erforderlich.
+      >
+      > **Festgestellte Mängel:**
+      > - Kratzer Parkett Wohnzimmer — laut Einzugsprotokoll 2019
+      >   **bereits vorhanden**, keine Kosten für die Mieterin.
+      > - Duschkopf verkalkt — Ersatz durch die Mieterin **bis 05.06.**
+      >   oder Abzug von 25 € von der Kaution.
+      >
+      > **Kaution:** 1.800 €. Rückzahlung nach der
+      > Nebenkostenabrechnung, spätestens **sechs Monate** nach Auszug.
+      >
+      > Der Briefkastenschlüssel bleibt bis zum 15.06. bei der Mieterin
+      > (Nachsendeauftrag läuft).
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Die Mieterin muss den Kratzer im Parkett bezahlen. — The tenant has to pay for the scratch in the parquet."
+        answer: false
+        why: "Er war laut Einzugsprotokoll schon 2019 da — „keine Kosten für die Mieterin“."
+      - q: "Die Wohnung muss noch gestrichen werden. — The flat still has to be painted."
+        answer: false
+        why: "„Wände weiß, keine Schönheitsreparaturen erforderlich.“"
+      - q: "Wenn der Duschkopf nicht ersetzt wird, werden 25 € einbehalten. — If the shower head isn't replaced, €25 will be withheld."
+        answer: true
+        why: "„Ersatz … bis 05.06. oder Abzug von 25 € von der Kaution“."
+      - q: "Insgesamt wurden sechs Schlüssel übergeben. — Six keys were handed over in total."
+        answer: true
+        why: "2 + 2 + 1 + 1 = 6."
+      - q: "Die Kaution muss innerhalb von vier Wochen zurückgezahlt werden. — The deposit must be returned within four weeks."
+        answer: false
+        why: "Spätestens sechs Monate nach Auszug, nach der Nebenkostenabrechnung."
+      - q: "Die Mieterin behält vorübergehend einen Schlüssel. — The tenant keeps one key temporarily."
+        answer: true
+        why: "Der Briefkastenschlüssel bleibt bis zum 15.06. bei ihr."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Streit um Frist, Protokoll und Kaution"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Die Verwaltung sagt, deine Kündigung sei einen Tag zu spät gekommen. — The management says your notice arrived a day late."
+        options:
+          - { key: a, text: "Das kann nicht sein." }
+          - { key: b, text: "Ich habe per Einschreiben gekündigt; der Rückschein ist vom 26.02. Ich schicke Ihnen die Kopie heute noch." }
+          - { key: c, text: "Dann ziehe ich eben einen Monat später aus." }
+        answer: b
+        why: "Genau dafür ist das Einschreiben da — der Nachweis beendet die Diskussion sofort."
+      - q: "Bei der Übergabe sollst du ein Protokoll unterschreiben, mit dem du nicht einverstanden bist. — You're asked to sign a handover report you disagree with."
+        options:
+          - { key: a, text: "Nicht unterschreiben und gehen." }
+          - { key: b, text: "Einfach unterschreiben, damit es schnell geht." }
+          - { key: c, text: "Ich unterschreibe gern, wenn mein Einwand zum Parkett mit aufgenommen wird." }
+        answer: c
+        why: "Unterschreiben mit Zusatz statt Blockade — die abweichende Meinung gehört ins Protokoll."
+      - q: "Man verlangt von dir, die Wohnung komplett neu zu streichen. — You're asked to repaint the whole flat."
+        options:
+          - { key: a, text: "Wo steht das im Vertrag? Die Wände sind weiß und normal abgenutzt." }
+          - { key: b, text: "Das mache ich nicht." }
+          - { key: c, text: "Na gut." }
+        answer: a
+        why: "Auf den Vertrag und die normale Abnutzung verweisen — sachlich und mit dem richtigen Begriff."
+      - q: "Nach vier Monaten kommt nur die Hälfte der Kaution. — After four months only half the deposit arrives."
+        options:
+          - { key: a, text: "Sie schulden mir Geld." }
+          - { key: b, text: "Könnten Sie mir bitte aufschlüsseln, wofür die einbehaltenen 900 € verwendet wurden?" }
+          - { key: c, text: "Ich schalte sofort einen Anwalt ein." }
+        answer: b
+        why: "Erst die Aufschlüsselung verlangen: oft klärt sich der Abzug, und wenn nicht, hast du sie schriftlich."
+      - q: "Der Nachmieter will schon zwei Wochen früher rein. — The next tenant wants to move in two weeks early."
+        options:
+          - { key: a, text: "Ausgeschlossen." }
+          - { key: b, text: "Von mir aus gern — das müssten Sie aber mit der Verwaltung schriftlich regeln, sonst zahle ich doppelt." }
+          - { key: c, text: "Machen Sie das mit ihm aus." }
+        answer: b
+        why: "Zustimmen, aber die Verantwortung dorthin schieben, wo sie hingehört: in den Vertrag."
+      - q: "Du hast vergessen, die Zählerstände abzulesen, und bist schon umgezogen. — You forgot to read the meters and have already moved."
+        options:
+          - { key: a, text: "Nichts sagen." }
+          - { key: b, text: "Ich schätze die Werte." }
+          - { key: c, text: "Ich habe die Zähler nicht abgelesen — können wir die Stände vom Protokoll der Verwaltung übernehmen?" }
+        answer: c
+        why: "Fehler zugeben und den Werten der Gegenseite zustimmen, statt zu raten — geschätzte Zahlen fallen dir später auf die Füße."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Ich habe per {1} gekündigt, deshalb habe ich einen Nachweis. (Brief mit Nachweis)
+      2. Normale {2} muss der Mieter nicht beseitigen. (Spuren vom Wohnen)
+      3. Bitte {3} Sie mir auf, wofür Sie 900 € einbehalten haben. (detailliert erklären: … auf)
+      4. Der Kratzer war beim Einzug schon {4}. (da, existierend)
+      5. Die Wohnung wird {5} übergeben. (sauber gekehrt, aber nicht geputzt)
+      6. Ich habe einen {6} bei der Post gestellt. (Briefe kommen zur neuen Adresse)
+    answers:
+      "1": Einschreiben
+      "2": Abnutzung
+      "3": schlüsseln
+      "4": vorhanden
+      "5": besenrein
+      "6": Nachsendeauftrag
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Hiermit {1} ich den Mietvertrag fristgerecht zum 31.05. (give notice)
+      2. Ich bitte um eine schriftliche {2}. (confirmation)
+      3. Die {3} beträgt drei Monate. (notice period)
+      4. Wir vereinbaren einen {4}. (handover appointment)
+      5. Bitte lesen Sie die {5} ab. (meters)
+      6. Alles kommt ins {6}. (handover report)
+      7. Die Wohnung wird {7} übergeben. (swept clean)
+      8. Normale {8} muss ich nicht beseitigen. (wear and tear)
+      9. {9} sind Streichen und Tapezieren. (cosmetic repairs)
+      10. Die {10} bekomme ich nach der Abrechnung zurück. (deposit)
+      11. Ich habe per {11} gekündigt. (registered letter)
+      12. Ich schlage einen {12} vor. (successor tenant)
+      13. {13} das Protokoll unterschrieben ist, gebe ich die Schlüssel ab. (as soon as)
+      14. Ich schicke es per Einschreiben, {14} ich einen Nachweis habe. (so that)
+    answers:
+      "1": kündige
+      "2": Bestätigung
+      "3": Kündigungsfrist
+      "4": Übergabetermin
+      "5": Zähler
+      "6": Protokoll
+      "7": besenrein
+      "8": Abnutzung
+      "9": Schönheitsreparaturen
+      "10": Kaution
+      "11": Einschreiben
+      "12": Nachmieter
+      "13": Sobald
+      "14": damit
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Schreiben an die Hausverwaltung"
+    prompt: "Schreib zwei kurze Schreiben: die Kündigung und, vier Monate später, die Erinnerung an die Kaution. Zusammen 16–20 Sätze."
+    stimulus: |
+      Du wohnst seit 2019 im Lindenweg 8, 3. OG rechts, und ziehst zum
+      31. Mai aus. Bei der Übergabe wurde ein alter Parkettkratzer
+      diskutiert; einbehalten wurden später 900 € ohne Erklärung.
+
+      Schreiben 1 — Kündigung:
+      1. Betreff mit Adresse und Wohnung
+      2. fristgerecht zum 31.05. kündigen
+      3. um schriftliche Bestätigung des Eingangs bitten
+      4. einen Übergabetermin vorschlagen
+      5. anbieten, einen Nachmieter zu benennen
+
+      Schreiben 2 — Kaution:
+      6. Bezug auf Auszug und Übergabeprotokoll
+      7. sagen, was zurückgezahlt wurde und was fehlt
+      8. um Aufschlüsselung der 900 € bitten
+      9. eine konkrete Frist setzen
+      10. freundlich schließen
+    use:
+      - "`Hiermit kündige ich den Mietvertrag fristgerecht zum …`"
+      - "`Ich bitte Sie um eine schriftliche Bestätigung.`"
+      - "Passiv: `Die Wohnung wird besenrein übergeben.`"
+      - "`Ich bitte Sie, … bis zum … zu überweisen.`"
+      - "`Sehr geehrte Damen und Herren` / `Mit freundlichen Grüßen`"
+    selfCheck:
+      - "Steht in Schreiben 1 ein konkretes Datum für das Vertragsende?"
+      - "Hast du in Schreiben 2 eine Frist genannt — nicht nur „bald“?"
+      - "Sind die Passivsätze richtig gebaut (wird + Partizip am Ende)?"
+      - "Bleibt der Ton auch im zweiten Schreiben sachlich?"
+    model: |
+      **Schreiben 1**
+
+      Betreff: Kündigung des Mietvertrags — Lindenweg 8, 3. OG rechts
+
+      Sehr geehrte Damen und Herren,
+
+      hiermit kündige ich den Mietvertrag für die oben genannte Wohnung
+      fristgerecht zum 31.05. Ich bitte Sie um eine schriftliche
+      Bestätigung des Kündigungseingangs.
+
+      Für die Übergabe schlage ich den 29.05. am Nachmittag vor; der 31.
+      fällt auf einen Samstag. Die Wohnung wird besenrein übergeben, die
+      Zählerstände lese ich vorher ab.
+
+      Falls es Ihnen hilft, benenne ich gern einen Nachmieter. Sagen Sie
+      mir bitte Bescheid, ob Sie das wünschen.
+
+      Mit freundlichen Grüßen
+      C. Marchetti
+
+      **Schreiben 2**
+
+      Betreff: Kautionsabrechnung — Lindenweg 8, 3. OG rechts, Auszug
+      31.05.
+
+      Sehr geehrte Frau Yildiz,
+
+      am 29.05. haben wir die Wohnung gemeinsam übergeben; das Protokoll
+      liegt mir vor. Von der Kaution in Höhe von 1.800 € wurden mir am
+      12.09. 900 € überwiesen.
+
+      Eine Erklärung für den einbehaltenen Betrag habe ich bisher nicht
+      erhalten. Ich bitte Sie, mir aufzuschlüsseln, wofür die 900 €
+      verwendet wurden. Der Kratzer im Parkett war laut Einzugsprotokoll
+      von 2019 bereits vorhanden und wurde im Übergabeprotokoll
+      ausdrücklich nicht mir zugerechnet.
+
+      Ich bitte Sie, den offenen Betrag bis zum 30.06. zu überweisen oder
+      mir bis dahin die Abrechnung zuzuschicken.
+
+      Mit freundlichen Grüßen
+      C. Marchetti
