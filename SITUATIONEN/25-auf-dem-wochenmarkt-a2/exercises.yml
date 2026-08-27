@@ -1,0 +1,456 @@
+lesson: "SIT/25-auf-dem-wochenmarkt-a2"
+title: "Auf dem Wochenmarkt — A2"
+topic: "Einkaufen auf dem Markt"
+category: "Einkaufen"
+level: A2
+summary: "Mengen bestellen, nach Sorte und Reife fragen, probieren, Tüte und Wechselgeld — und der kurze Plausch am Stand."
+intro: >
+  Der Markt ist der Ort, an dem Einkaufen wieder ein Gespräch ist. Am
+  Stand wirst du gefragt, was es sein darf, du sagst eine Menge, du
+  fragst, ob die Tomaten schon reif sind oder erst am Wochenende, du
+  bekommst etwas zum Probieren, und am Ende geht es um die Tüte und das
+  Wechselgeld. Dazwischen liegt der Teil, den man in keinem Supermarkt
+  übt: kurzer Smalltalk, ein Tipp, was man mit dem Gemüse macht, und
+  die Frage, ob man nächste Woche wiederkommt. Grammatik nach Bedarf:
+  Mengenangaben, Akkusativ, Komparativ (reifer, günstiger) und
+  du/Sie-Wechsel am Stand. Blocks: A Wortschatz & Redemittel →
+  B Dialoge → C Wenn es schiefgeht → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Was gibt es an welchem Stand?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: obst, label: "Obst & Gemüse" }
+      - { key: stand, label: "Andere Stände" }
+      - { key: menge, label: "Menge & Verpackung" }
+    tokens:
+      - { text: "die Erdbeere", bucket: obst }
+      - { text: "der Käsestand", bucket: stand }
+      - { text: "das Pfund", bucket: menge }
+      - { text: "der Kürbis", bucket: obst }
+      - { text: "der Fischstand", bucket: stand }
+      - { text: "die Schale", bucket: menge }
+      - { text: "der Feldsalat", bucket: obst }
+      - { text: "der Blumenstand", bucket: stand }
+      - { text: "das Bund", bucket: menge }
+      - { text: "die Zwetschge", bucket: obst }
+      - { text: "der Imbisswagen", bucket: stand }
+      - { text: "die Stofftasche", bucket: menge }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Frage und Antwort am Stand"
+    instructions: "Ordne jeder Frage eine passende Antwort zu."
+    instructionsEn: "Match each question with a fitting answer."
+    left:
+      - { key: "1", text: "Was darf es sein?" }
+      - { key: "2", text: "Sind die Tomaten schon reif?" }
+      - { key: "3", text: "Woher kommen die Äpfel?" }
+      - { key: "4", text: "Darf ich mal probieren?" }
+      - { key: "5", text: "Was kostet das Pfund?" }
+      - { key: "6", text: "Brauchen Sie eine Tüte?" }
+      - { key: "7", text: "Was macht man damit?" }
+      - { key: "8", text: "Haben Sie es klein?" }
+    right:
+      - { key: a, text: "Ein Pfund Tomaten und ein Bund Petersilie, bitte." }
+      - { key: b, text: "Die hier schon, die anderen brauchen noch zwei Tage." }
+      - { key: c, text: "Vom Hof am Bodensee, seit gestern gepflückt." }
+      - { key: d, text: "Klar, nehmen Sie ruhig eine." }
+      - { key: e, text: "3,20 €, drei Pfund für 9 €." }
+      - { key: f, text: "Nein danke, ich habe eine Stofftasche dabei." }
+      - { key: g, text: "In Scheiben schneiden und im Ofen rösten, mit Olivenöl." }
+      - { key: h, text: "Moment — nein, tut mir leid, nur den Zwanziger." }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Mengen bestellen"
+    instructions: "Ergänze die Mengenangabe."
+    instructionsEn: "Fill in the quantity expression."
+    text: |
+      1. Ich hätte gern ein {1} Tomaten. (500 g, das Wort auf dem Markt)
+      2. Bitte ein {2} Petersilie. (zusammengebundene Kräuter)
+      3. Geben Sie mir zwei {3} Erdbeeren. (die kleine Verpackung)
+      4. Ein halbes {4} Hackfleisch, bitte. (1000 g)
+      5. Drei {5} Kürbis, nicht mehr. (das Stück zum Abschneiden)
+      6. Eine {6} Eier, bitte. (10 Stück)
+      7. Von den Zwetschgen bitte eine kleine {7}. (Papierverpackung)
+      8. Und ein {8} Feldsalat. (die Handvoll, wie beim Bund)
+    answers:
+      "1": Pfund
+      "2": Bund
+      "3": Schalen
+      "4": Kilo
+      "5": Scheiben
+      "6": Schachtel
+      "7": Tüte
+      "8": Bund
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Komparativ am Stand"
+    instructions: "Ergänze die Vergleichsform."
+    instructionsEn: "Fill in the comparative form."
+    text: |
+      1. Die hier sind {1} als die von letzter Woche. (reif)
+      2. Haben Sie auch etwas {2}? Das ist mir zu teuer. (günstig)
+      3. Die kleinen schmecken {3} als die großen. (gut)
+      4. Nehmen Sie lieber die dunkleren, die sind {4}. (süß)
+      5. Am Samstag ist der Markt viel {5} als am Mittwoch. (voll)
+      6. Der Stand hinten hat {6} Auswahl. (viel)
+    answers:
+      "1": reifer
+      "2": günstigeres
+      "3": besser
+      "4": süßer
+      "5": voller
+      "6": mehr
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Samstagvormittag am Gemüsestand"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Guten Morgen! Was darf es {1}?
+      — Guten Morgen. Ein {2} Tomaten, bitte. Sind die schon reif?
+      — Die vorne ja, die hinten brauchen noch zwei {3}.
+      — Dann von den vorderen. Und ein {4} Petersilie.
+      — Gern. Sonst noch etwas?
+      — Was ist das da?
+      — Pastinaken. {5} Sie ruhig mal — die sind roh auch gut.
+      — Danke … schmeckt süßlich. Was {6} man damit?
+      — In Scheiben schneiden und im Ofen rösten, mit etwas Olivenöl.
+      — Klingt gut, dann drei Stück. Was kostet das {7}?
+      — Zusammen 8,40 €. Brauchen Sie eine {8}?
+      — Nein danke, ich habe eine Tasche {9}.
+      — Perfekt. Haben Sie es {10}?
+      — Moment … ja, hier sind 8,40 € passend.
+      — Danke, und schönes Wochenende!
+    bank: [SEIN, PFUND, TAGE, BUND, PROBIEREN, MACHT, ZUSAMMEN, TÜTE, DABEI, KLEIN, KILO, REIF, GELD, SCHALE]
+    answers:
+      "1": SEIN
+      "2": PFUND
+      "3": TAGE
+      "4": BUND
+      "5": PROBIEREN
+      "6": MACHT
+      "7": ZUSAMMEN
+      "8": TÜTE
+      "9": DABEI
+      "10": KLEIN
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Wie sagst du das?"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du willst ein halbes Kilo Tomaten. — You want half a kilo of tomatoes."
+        options:
+          - { key: a, text: "Ein Pfund Tomaten, bitte." }
+          - { key: b, text: "Ein bisschen Tomaten." }
+          - { key: c, text: "Tomaten." }
+        answer: a
+        why: "Auf dem Markt ist „ein Pfund“ das übliche Wort für 500 g — kürzer und geläufiger als „ein halbes Kilo“."
+      - q: "Du weißt nicht, ob das Obst schon reif ist. — You don't know whether the fruit is ripe yet."
+        options:
+          - { key: a, text: "Ist das gut?" }
+          - { key: b, text: "Sind die schon reif, oder brauchen die noch ein paar Tage?" }
+          - { key: c, text: "Die sehen hart aus." }
+        answer: b
+        why: "Die Alternative mitzuliefern macht aus einer Kritik eine echte Frage — und du bekommst eine brauchbare Antwort."
+      - q: "Du kennst ein Gemüse nicht. — You don't know a vegetable."
+        options:
+          - { key: a, text: "Was ist das, und was macht man damit?" }
+          - { key: b, text: "Das kenne ich nicht." }
+          - { key: c, text: "Ist das essbar?" }
+        answer: a
+        why: "Zwei Fragen in einer — am Marktstand bekommst du dafür fast immer ein Rezept dazu."
+      - q: "Du möchtest etwas probieren. — You'd like to taste something."
+        options:
+          - { key: a, text: "Kann ich mal essen?" }
+          - { key: b, text: "Darf ich mal probieren?" }
+          - { key: c, text: "Geben Sie mir eine." }
+        answer: b
+        why: "„Probieren dürfen“ ist die feste Formel; am Stand wird sie fast immer bejaht."
+      - q: "Die Ware ist dir zu teuer. — The goods are too expensive for you."
+        options:
+          - { key: a, text: "Das ist Wucher." }
+          - { key: b, text: "Im Supermarkt kostet das die Hälfte." }
+          - { key: c, text: "Haben Sie auch etwas Günstigeres? Oder nehme ich lieber die kleinere Menge." }
+        answer: c
+        why: "Nach der günstigeren Sorte oder einer kleineren Menge fragen — Preisvergleiche mit dem Supermarkt bringen nichts."
+      - q: "Du kommst regelmäßig und willst den kurzen Plausch. — You come regularly and want the small talk."
+        options:
+          - { key: a, text: "Wie letzte Woche, bitte — die Pastinaken waren übrigens super." }
+          - { key: b, text: "Dasselbe." }
+          - { key: c, text: "Nichts sagen und zeigen." }
+        answer: a
+        why: "Rückmeldung zum letzten Einkauf ist die einfachste Art, vom Kunden zum Stammkunden zu werden."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze am Marktstand bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "hätte", "gern", "ein", "Pfund", "Tomaten"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "hätte gern — die höfliche Standardformel"
+      - tiles: ["Sind", "die", "Tomaten", "schon", "reif", "?"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Ja/Nein-Frage: Verb an Position 1"
+      - tiles: ["Darf", "ich", "mal", "probieren", "?"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Modalverb an Position 1, Infinitiv am Ende"
+      - tiles: ["Die", "hier", "sind", "reifer", "als", "die", "von", "gestern"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Komparativ mit als"
+      - tiles: ["Was", "macht", "man", "damit", "?"]
+        answer: [0, 1, 2, 3, 4]
+        note: "man als unpersönliches Subjekt — sehr gebräuchlich"
+      - tiles: ["Nein", "danke", ",", "ich", "habe", "eine", "Tasche", "dabei"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "dabeihaben: dabei steht am Satzende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Das Schild am Stand lesen"
+    instructions: |
+      > **Hofstand Berger — Wochenmarkt Mitte**
+      >
+      > | | |
+      > |---|---|
+      > | Tomaten (Freiland) | 3,20 € / Pfund |
+      > | Kartoffeln, festkochend | 2,50 € / kg, ab 5 kg 2,10 € |
+      > | Feldsalat | 1,80 € / Bund |
+      >
+      > **Mi + Sa**, 7–13 Uhr. Mittwochs **kleineres Sortiment**.
+      >
+      > **Vorbestellungen** für Samstag bis **Donnerstagabend** —
+      > Zettel am Stand oder telefonisch.
+      >
+      > **Nur Barzahlung.** Der nächste Geldautomat ist an der Sparkasse
+      > gegenüber.
+      >
+      > Eigene Behälter gern gesehen; **Pfandkisten 2 €**,
+      > Rückgabe jederzeit.
+      >
+      > Was übrig bleibt, geht **ab 12:30 Uhr** in die Kiste am Rand —
+      > **halber Preis**.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Fünf Kilo Kartoffeln kosten 10,50 €. — Five kilos of potatoes cost €10.50."
+        answer: true
+        why: "Ab 5 kg gilt 2,10 € pro Kilo: 5 × 2,10 = 10,50 €."
+      - q: "Man kann am Stand mit Karte zahlen. — You can pay by card at the stall."
+        answer: false
+        why: "„Nur Barzahlung.“"
+      - q: "Eine Vorbestellung für Samstag geht noch am Freitag. — An order for Saturday can still be placed on Friday."
+        answer: false
+        why: "Vorbestellungen nur bis Donnerstagabend."
+      - q: "Mittwochs gibt es weniger Auswahl als samstags. — On Wednesdays there's less choice than on Saturdays."
+        answer: true
+        why: "„Mittwochs kleineres Sortiment.“"
+      - q: "Die Pfandkiste kostet nichts. — The deposit crate is free."
+        answer: false
+        why: "Sie kostet 2 € Pfand, die es bei Rückgabe zurückgibt."
+      - q: "Um 12:45 Uhr kann man Reste günstiger bekommen. — At 12:45 you can get leftovers cheaper."
+        answer: true
+        why: "Ab 12:30 Uhr halber Preis in der Kiste am Rand."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Kleine Probleme am Stand"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Zu Hause merkst du, dass die Hälfte der Beeren schimmelt. — At home you find half the berries are mouldy."
+        options:
+          - { key: a, text: "Nächste Woche kurz sagen: „Die Schale von Samstag war unten schimmlig — ich wollte es nur Bescheid sagen.“" }
+          - { key: b, text: "Nie wieder dort kaufen." }
+          - { key: c, text: "Sofort schimpfen gehen." }
+        answer: a
+        why: "Sachlich Bescheid geben — am Marktstand bekommst du dafür meistens Ersatz, und der Stand lernt daraus."
+      - q: "Du hast nur einen Fünfzigeuroschein. — You only have a €50 note."
+        options:
+          - { key: a, text: "Ich habe leider nur einen Fünfziger — soll ich schnell wechseln gehen?" }
+          - { key: b, text: "Haben Sie kein Wechselgeld?" }
+          - { key: c, text: "Dann eben nicht." }
+        answer: a
+        why: "Das Problem benennen und die Lösung anbieten — morgens am Markt ist Kleingeld wirklich knapp."
+      - q: "Der Stand hat nur Barzahlung und du hast kein Bargeld. — The stall takes cash only and you have none."
+        options:
+          - { key: a, text: "Können Sie es mir zurücklegen? Ich hole eben Geld, der Automat ist gegenüber." }
+          - { key: b, text: "Kann ich überweisen?" }
+          - { key: c, text: "Schade." }
+        answer: a
+        why: "Zurücklegen lassen ist am Markt völlig üblich und kostet niemanden etwas."
+      - q: "Du wirst beim Anstehen übergangen. — Someone jumps the queue ahead of you."
+        options:
+          - { key: a, text: "Hey, ich war zuerst da!" }
+          - { key: b, text: "Entschuldigung, ich glaube, ich war vor Ihnen dran." }
+          - { key: c, text: "Nichts sagen." }
+        answer: b
+        why: "„Ich glaube“ nimmt der Sache die Schärfe — und geklärt ist es trotzdem."
+      - q: "Du hast dich in der Menge vertan und wolltest weniger. — You over-ordered and wanted less."
+        options:
+          - { key: a, text: "Trotzdem nehmen." }
+          - { key: b, text: "Oh, das ist mehr, als ich brauche — nehmen Sie bitte noch zwei weg?" }
+          - { key: c, text: "Das ist zu viel." }
+        answer: b
+        why: "Solange nicht abgewogen und eingepackt ist, ist Wegnehmen kein Problem — freundlich fragen genügt."
+      - q: "Der Verkäufer duzt dich, du bist unsicher. — The seller uses du and you're unsure."
+        options:
+          - { key: a, text: "Wir sind nicht per du." }
+          - { key: b, text: "Einfach mitduzen — am Marktstand ist das normal." }
+          - { key: c, text: "Betont weiter siezen." }
+        answer: b
+        why: "Am Markt und im Hofladen ist das Du verbreitet; mitzugehen ist die unkomplizierteste Antwort."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Ein {1} sind 500 Gramm. (Marktwort für ein halbes Kilo)
+      2. Darf ich mal {2}? (kosten, um zu schmecken)
+      3. Die Tomaten sind noch nicht {3}. (man sollte noch warten)
+      4. Ich habe eine Tasche {4}. (bei mir)
+      5. Können Sie es mir kurz {5}? (aufheben, bis ich wiederkomme)
+      6. Für die Kiste zahle ich 2 € {6}. (Geld, das man zurückbekommt)
+    answers:
+      "1": Pfund
+      "2": probieren
+      "3": reif
+      "4": dabei
+      "5": zurücklegen
+      "6": Pfand
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /12)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Ich hätte gern ein {1} Tomaten. (pound / 500 g)
+      2. Ein {2} Petersilie, bitte. (bunch)
+      3. Sind die schon {3}? (ripe)
+      4. Darf ich mal {4}? (taste)
+      5. Was {5} man damit? (does one do)
+      6. Die hier sind {6} als die von gestern. (riper)
+      7. Haben Sie etwas {7}? (cheaper)
+      8. Brauchen Sie eine {8}? (bag)
+      9. Nein danke, ich habe eine Tasche {9}. (with me)
+      10. Haben Sie es {10}? (small change)
+      11. Können Sie es mir {11}? (set aside)
+      12. Für die Kiste zahle ich 2 € {12}. (deposit)
+    answers:
+      "1": Pfund
+      "2": Bund
+      "3": reif
+      "4": probieren
+      "5": macht
+      "6": reifer
+      "7": Günstigeres
+      "8": Tüte
+      "9": dabei
+      "10": klein
+      "11": zurücklegen
+      "12": Pfand
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Rollenspiel: ein Samstag auf dem Markt"
+    prompt: "Schreib die Gespräche an zwei Ständen. 14–18 Sätze."
+    stimulus: |
+      Du gehst samstags früh auf den Markt. Am Gemüsestand kaufst du
+      ein, am Käsestand willst du etwas probieren. Du hast nur einen
+      Fünfziger dabei.
+
+      Diese Momente müssen vorkommen:
+      1. begrüßt werden und eine Menge bestellen
+      2. fragen, ob etwas reif ist
+      3. ein unbekanntes Gemüse ansprechen
+      4. probieren dürfen und sagen, wie es schmeckt
+      5. fragen, was man damit macht
+      6. nach dem Preis fragen
+      7. die Tüte ablehnen
+      8. das Problem mit dem Fünfziger lösen
+      9. dich verabschieden und ankündigen, wiederzukommen
+    use:
+      - "`Ich hätte gern …` mit Mengenangabe"
+      - "`Sind die schon reif?`"
+      - "`Darf ich mal probieren?`"
+      - "Komparativ: `reifer`, `günstiger`, `besser`"
+      - "`Ich habe eine Tasche dabei.`"
+    selfCheck:
+      - "Steht bei jeder Bestellung eine echte Menge (Pfund, Bund, Schale, Stück)?"
+      - "Hast du den Komparativ mit als gebaut?"
+      - "Steht bei `dabeihaben` das dabei am Satzende?"
+      - "Kommen alle 9 Momente vor?"
+    model: |
+      **Am Gemüsestand**
+
+      Verkäuferin: Guten Morgen! Was darf es sein?
+      Ich: Guten Morgen. Ein Pfund Tomaten, bitte. Sind die schon reif?
+      Verkäuferin: Die vorne ja, die hinten brauchen noch zwei Tage.
+      Ich: Dann von den vorderen. Und ein Bund Petersilie dazu.
+      Ich: Was ist das da eigentlich?
+      Verkäuferin: Pastinaken. Probieren Sie ruhig, die sind roh auch gut.
+      Ich: Danke … die schmecken süßer, als ich dachte. Was macht man damit?
+      Verkäuferin: In Scheiben schneiden und im Ofen rösten, mit Olivenöl.
+      Ich: Klingt gut, dann drei Stück. Was kostet das zusammen?
+      Verkäuferin: 8,40 €. Brauchen Sie eine Tüte?
+      Ich: Nein danke, ich habe eine Tasche dabei. Aber ich habe leider nur einen Fünfziger — soll ich schnell wechseln gehen?
+      Verkäuferin: Nicht nötig, das kriege ich hin.
+      Ich: Super, vielen Dank!
+
+      **Am Käsestand**
+
+      Ich: Guten Morgen. Darf ich den Bergkäse mal probieren?
+      Verkäufer: Klar, nimm ruhig ein Stück.
+      Ich: Der ist kräftiger als der von letzter Woche. Den nehme ich, 200 Gramm bitte.
+      Verkäufer: Gern. Sonst noch was?
+      Ich: Nein danke, das war alles. Bis Samstag — ich komme jetzt regelmäßig!
+      Verkäufer: Sehr gern, schönes Wochenende!

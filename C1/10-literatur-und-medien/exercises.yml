@@ -306,19 +306,21 @@ exercises:
     title: 'Rhetorische Figuren einsetzen'
     instructions: 'Setze die passende Figur ein (Anapher, Trikolon, Antithese, Oxymoron, Chiasmus). 6 Items.'
     text: |
-      1. Die Stadt {1}. Die Stadt {1}. Die Stadt {1}. (Anapher — gleicher Satzanfang)
-      2. „Ehre, Pflicht, {2}." (Trikolon — das dritte Glied fehlt)
-      3. „Die einen für die {3}, die anderen für die Sicherheit." (Antithese — Gegenüberstellung)
-      4. „{4} Schweigen." (Oxymoron — widersprüchliche Adjektiv-Substantiv-Verbindung)
-      5. „Die Kunst ist lang, und kurz {5} unser Leben." (Chiasmus — spiegelbildliche Verschränkung)
-      6. „Er kam, er sah, er {6}." (Trikolon — drittes Glied)
+      1. Die Stadt {1}. Die Stadt {2}. Die Stadt {3}. (Anapher — gleicher Satzanfang, dreimal dasselbe Verb)
+      2. „Ehre, Pflicht, {4}." (Trikolon — das dritte Glied fehlt)
+      3. „Die einen für die {5}, die anderen für die Sicherheit." (Antithese — Gegenüberstellung)
+      4. „{6} Schweigen." (Oxymoron — widersprüchliche Adjektiv-Substantiv-Verbindung)
+      5. „Die Kunst ist lang, und kurz {7} unser Leben." (Chiasmus — spiegelbildliche Verschränkung)
+      6. „Er kam, er sah, er {8}." (Trikolon — drittes Glied)
     answers:
       "1": schweigt
-      "2": Vaterland
-      "3": Freiheit
-      "4": Beredtes
-      "5": ist
-      "6": siegte
+      "2": schweigt
+      "3": schweigt
+      "4": Vaterland
+      "5": Freiheit
+      "6": Beredtes
+      "7": ist
+      "8": siegte
 
   - id: A6
     block: A
