@@ -95,7 +95,7 @@ Setze das passende Verb ein (steigen, sinken, wachsen, schrumpfen, amortisieren,
 4. Die Konkurrenz ______ — zwei Anbieter haben aufgegeben.
 5. Die Investition ______ sich nach drei Jahren.
 6. Die Nachfrage ______ seit Monaten stark an.
-7. Die Kosten ______ nach der Krise plötzlich ein.
+7. Die Kosten ______ nach der Krise plötzlich ein. (Präteritum)
 8. Die Nachfrage ist leicht ______.
 
 ## Übung A3 — Unternehmen und Rechtsformen
@@ -123,7 +123,7 @@ Wähle den passenden Begriff (a, b oder c).
 
 ## Übung A5 — um + Prozent oder in + Akkusativ?
 
-Setze um oder in ein. ⚠️ um = statische Mengenangabe; in + Akk. = Richtung Markt. 6 Items.
+Setze um oder in ein. ⚠️ um = Mengenangabe; in + Akk. = Richtung Markt; in + Dat. = Zeitraum. 6 Items.
 
 1. Der Umsatz ist ______ 8 % gestiegen.
 2. Der Gewinn ist ______ 2 % gesunken.

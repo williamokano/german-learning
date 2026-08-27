@@ -40,7 +40,7 @@
 
 ## Übung A2 — Geschäftszahlen versprachlichen
 
-1. **gestiegen**  2. **gesunken**  3. **wachsen**  4. **schrumpft**  5. **amortisiert**  6. **zieht**  7. **eingebrochen**  8. **gesunken**
+1. **gestiegen**  2. **gesunken**  3. **wachsen**  4. **schrumpft**  5. **amortisiert**  6. **zieht**  7. **brachen**  8. **gesunken**
 
 ## Übung A3 — Unternehmen und Rechtsformen
 

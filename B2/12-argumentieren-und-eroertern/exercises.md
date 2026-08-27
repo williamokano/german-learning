@@ -98,7 +98,7 @@ Setze das passende Redemittel ein (Ich bin der Ansicht / Meiner Meinung nach / M
 
 ## Übung A3 — Architektur der Erörterung — Lücken füllen
 
-Setze das passende Wort ein (These, Argument, Beleg, Beispiel, Fazit, Widerlegung, Einleitung, Hauptteil, Schluss). 9 Items.
+Setze das passende Wort ein (These, Argument, Beleg, Beispiel, Fazit, Widerlegung, Einleitung, Hauptteil, Schluss). 8 Items, 9 Lücken.
 
 1. Die ______ führt zum Thema hin und nennt die strittige Frage.
 2. Am Ende der Einleitung steht die ______ — die klare Position.
@@ -141,7 +141,7 @@ Bring die Wörter in die richtige Reihenfolge.
 
 ## Übung A7 — Konnektoren aus B2/07 einsetzen
 
-Setze den passenden Konnektor ein (obwohl / dennoch / je … desto / indem / sofern). 5 Items.
+Setze den passenden Konnektor ein (obwohl / dennoch / je … desto / indem / sofern). 4 Items, 5 Lücken.
 
 1. ______ viele Beschäftigte Homeoffice wünschen, bleiben die meisten im Büro.
 2. Die Erfahrungen sind zwar gemischt, ______ überwiegen die positiven Berichte.
@@ -243,7 +243,7 @@ Self-check:
 
 ## Übung B4 — Leserbrief — Redemittel einsetzen
 
-Füll die 10 Lücken mit passenden Redemitteln (Ich bin der Ansicht / Meiner Meinung nach / einerseits / andererseits / Es spricht für / Es spricht gegen / Als Beleg / Diesem Argument ist entgegenzuhalten / Zusammenfassend / Alles in allem).
+Füll die 10 Lücken mit passenden Redemitteln (Ich bin der Ansicht / Meiner Meinung nach / einerseits / andererseits / Dafür spricht / Dagegen spricht / Als Beleg / Diesem Argument ist entgegenzuhalten / Zusammenfassend / Alles in allem).
 
 Sehr geehrte Redaktion,
 ______ auf Ihren Artikel vom 5. Mai möchte ich kurz reagieren.

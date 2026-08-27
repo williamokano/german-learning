@@ -189,7 +189,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Architektur der Erörterung — Lücken füllen"
-    instructions: "Setze das passende Wort ein (These, Argument, Beleg, Beispiel, Fazit, Widerlegung, Einleitung, Hauptteil, Schluss). 9 Items."
+    instructions: "Setze das passende Wort ein (These, Argument, Beleg, Beispiel, Fazit, Widerlegung, Einleitung, Hauptteil, Schluss). 8 Items, 9 Lücken."
     text: |
       1. Die {1} führt zum Thema hin und nennt die strittige Frage.
       2. Am Ende der Einleitung steht die {2} — die klare Position.
@@ -301,7 +301,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Konnektoren aus B2/07 einsetzen"
-    instructions: "Setze den passenden Konnektor ein (obwohl / dennoch / je … desto / indem / sofern). 5 Items."
+    instructions: "Setze den passenden Konnektor ein (obwohl / dennoch / je … desto / indem / sofern). 4 Items, 5 Lücken."
     text: |
       1. {1} viele Beschäftigte Homeoffice wünschen, bleiben die meisten im Büro.
       2. Die Erfahrungen sind zwar gemischt, {2} überwiegen die positiven Berichte.
@@ -506,7 +506,7 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Leserbrief — Redemittel einsetzen"
-    instructions: "Füll die 10 Lücken mit passenden Redemitteln (Ich bin der Ansicht / Meiner Meinung nach / einerseits / andererseits / Es spricht für / Es spricht gegen / Als Beleg / Diesem Argument ist entgegenzuhalten / Zusammenfassend / Alles in allem)."
+    instructions: "Füll die 10 Lücken mit passenden Redemitteln (Ich bin der Ansicht / Meiner Meinung nach / einerseits / andererseits / Dafür spricht / Dagegen spricht / Als Beleg / Diesem Argument ist entgegenzuhalten / Zusammenfassend / Alles in allem)."
     text: |
       Sehr geehrte Redaktion,
       {1} auf Ihren Artikel vom 5. Mai möchte ich kurz reagieren.
@@ -523,8 +523,8 @@ exercises:
       "2": Einerseits
       "3": andererseits
       "4": "Ich bin der Ansicht"
-      "5": "Es spricht für"
-      "6": "Es spricht gegen"
+      "5": "Dafür spricht"
+      "6": "Dagegen spricht"
       "7": "Als Beleg"
       "8": "Diesem Argument ist entgegenzuhalten"
       "9": Zusammenfassend
