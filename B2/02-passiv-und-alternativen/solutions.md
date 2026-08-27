@@ -175,7 +175,7 @@ Selbstkorrektur:
 
 ## Übung C1 — Lückentext: Wie eine Studie in die Nachrichten kommt
 
-1. **lässt**  2. **werden**  3. **wertet**  4. **zu**  5. **sind**  6. **belegen**  7. **bar**  8. **wird**  9. **lassen**  10. **wird**
+1. **lässt**  2. **werden**  3. **wertet**  4. **zu**  5. **sind**  6. **belegen**  7. **wiederholbar**  8. **wird**  9. **lassen**  10. **wird**
 
 ## Übung C2 — Sprachbausteine Teil 1
 

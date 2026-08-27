@@ -182,7 +182,7 @@ Selbstkorrektur:
 
 ## Übung C1 — Lückentext: Warum Ämter so schreiben
 
-1. **weil**  2. **Durch**  3. **Wegen**  4. **Trotz**  5. **Wenn**  6. **Zur**  7. **Indem**  8. **Nach**  9. **von**  10. **für**
+1. **weil**  2. **Durch**  3. **Wegen**  4. **Trotz**  5. **Wenn**  6. **Zur**  7. **Indem**  8. **Nach**  9. **vom**  10. **für**
 
 ## Übung C2 — Sprachbausteine Teil 1
 

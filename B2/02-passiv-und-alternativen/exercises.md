@@ -308,7 +308,7 @@ Schritten beschreiben. In einem Labor (2) ______ Versuche durchgeführt
 und Proben untersucht. Anschließend (3) ______ man die Daten aus. Der
 Fachartikel ist nach strengen Regeln (4) ______ verfassen: Alle Quellen
 (5) ______ anzugeben, jede Behauptung ist zu (6) ______. Die Methode muss
-so beschrieben werden, dass der Versuch von anderen wiederhol(7) ______
+so beschrieben werden, dass der Versuch von anderen (7) ______
 ist (Adjektiv auf -bar). Bevor der Artikel veröffentlicht (8) ______,
 prüfen Fachleute, ob die Schlüsse
 nachvollziehbar sind. Schwächen, die sich nicht beheben (9) ______,

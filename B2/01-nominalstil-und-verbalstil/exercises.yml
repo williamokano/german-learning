@@ -621,8 +621,8 @@ exercises:
       liest, muss man oft das versteckte Verb suchen. (6) {6} Verbesserung der
       Bürgerkommunikation gibt es heute Kurse in leichter Sprache. (7) {7} man die
       Texte umstellt, verstehen mehr Menschen ihre Briefe. (8) {8} der Umstellung gibt
-      es weniger Rückfragen. Der Trend geht (9) {9} dem reinen Nominalstil zurück zum
-      Verbalstil — (10) {10} alle, die schon vor einem Amtsbrief verzweifelt sind.
+      es weniger Rückfragen. Der Trend geht (9) {9} reinen Nominalstil zurück zum
+      Verbalstil — (10) {10} alle, die schon einmal vor einem Amtsbrief saßen.
     answers:
       "1": weil
       "2": Durch
@@ -632,7 +632,7 @@ exercises:
       "6": Zur
       "7": Indem
       "8": Nach
-      "9": von
+      "9": vom
       "10": für
 
   - id: C2
@@ -693,7 +693,7 @@ exercises:
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
     text: |
       Aus dem Jahresbericht: „{1} der gestiegenen Nachfrage (Grund) musste das Budget erhöht
-      werden. {2} der hohen Kosten (Gegensatz) machte die Firma trotzdem Gewinn. {3} die
+      werden. {2} der hohen Kosten (Gegensatz) machte die Firma Gewinn. {3} die
       Kosten stiegen (Grund, Nebensatz mit Verb), erhöhten wir die Preise. {4} man die Daten
       geprüft hatte (Zeit danach, Nebensatz mit Verb), kam der Bericht. {5} der Sitzung am
       Freitag (gleichzeitig) diskutierte das Team die Ergebnisse. {6} Verbesserung der

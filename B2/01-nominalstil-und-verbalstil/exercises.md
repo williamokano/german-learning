@@ -326,8 +326,8 @@ aber einen Nachteil: Er ist schwer zu verstehen. (5) ______ man einen Amtsbrief
 liest, muss man oft das versteckte Verb suchen. (6) ______ Verbesserung der
 Bürgerkommunikation gibt es heute Kurse in leichter Sprache. (7) ______ man die
 Texte umstellt, verstehen mehr Menschen ihre Briefe. (8) ______ der Umstellung gibt
-es weniger Rückfragen. Der Trend geht (9) ______ dem reinen Nominalstil zurück zum
-Verbalstil — (10) ______ alle, die schon vor einem Amtsbrief verzweifelt sind.
+es weniger Rückfragen. Der Trend geht (9) ______ reinen Nominalstil zurück zum
+Verbalstil — (10) ______ alle, die schon einmal vor einem Amtsbrief saßen.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
@@ -345,7 +345,7 @@ Wähle die richtige Option (a, b oder c) für jede Lücke.
 Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.
 
 > Aus dem Jahresbericht: „(1) ______ der gestiegenen Nachfrage (Grund) musste das Budget erhöht
-> werden. (2) ______ der hohen Kosten (Gegensatz) machte die Firma trotzdem Gewinn. (3) ______ die
+> werden. (2) ______ der hohen Kosten (Gegensatz) machte die Firma Gewinn. (3) ______ die
 > Kosten stiegen (Grund, Nebensatz mit Verb), erhöhten wir die Preise. (4) ______ man die Daten
 > geprüft hatte (Zeit danach, Nebensatz mit Verb), kam der Bericht. (5) ______ der Sitzung am
 > Freitag (gleichzeitig) diskutierte das Team die Ergebnisse. (6) ______ Verbesserung der
