@@ -353,17 +353,33 @@ Same discipline as a `THEMEN/` set:
 - **53 — Sich höflich beschweren** (A2) — ein Anliegen sachlich
   vorbringen, quer durch mehrere Alltagssituationen; defensive
   Reaktion, keine Antwort, falsche Ansprechperson.
+- **54 — Lieferdienst: falsche Bestellung** (A2) — per App bestellen,
+  Lieferhinweise geben, den Fahrer verabschieden; fehlender Artikel,
+  falsches Gericht, falsche Adresse.
+- **55 — Die Rechnung: zusammen oder getrennt?** (A2) — den eigenen
+  Anteil klären, Trinkgeld geben; vergessenes Portemonnaie,
+  abgelehnte Karte, Uneinigkeit über die Bestellung.
+- **56 — Auf dem Flohmarkt handeln** (A2) — den Zustand prüfen, ein
+  Gegenangebot machen, sich einigen; kein Verhandlungsspielraum, ein
+  Mangel fällt erst zu Hause auf.
+- **57 — Wandern und Klettern** (A2) — Ausrüstung leihen, den Weg
+  lesen, auf Wettersturz reagieren; verlorene Markierung, verstauchter
+  Knöchel, geteilte Gruppe.
+- **58 — Krankschreibung beim Arbeitgeber** (A2) — sich krankmelden,
+  die AU-Bescheinigung einreichen, die Rückkehr ankündigen; längere
+  Krankheit, verpasste Frist, angezweifelte Krankmeldung.
+- **59 — Umzug organisieren** (A2) — den Umzugswagen mieten, Freunde
+  um Hilfe bitten, sich ummelden; Wagen nicht verfügbar, Sofa passt
+  nicht durch die Tür, zugeparkter Halteplatz.
 
 ## Themenspeicher
 
 Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
 wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 
-**Essen & Trinken** — Lieferdienst:
-falsche Bestellung · Die Rechnung: zusammen oder
-getrennt? · Beim Eismann mit Kindern
+**Essen & Trinken** — Beim Eismann mit Kindern
 
-**Einkaufen** — Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
+**Einkaufen** — Möbelhaus: Lieferung und Aufbau ·
 Online bestellt, falsch geliefert: Widerruf · Ein Buch kaufen · Ein Auto kaufen
 (B1) · Eine Wohnung kaufen (B2)
 
@@ -373,15 +389,15 @@ Mietwagen abholen und Schaden melden · Falsch geparkt: Knöllchen und
 Abschleppdienst · Verkehrskontrolle und Unfall melden · Führerschein machen
 
 **Freizeit & Kultur** —
-Wandern und Klettern · Im Zoo mit Kindern · Ein Fußballspiel im Stadion
+Im Zoo mit Kindern · Ein Fußballspiel im Stadion
 
 **Sport & Gesundheit** — Im Fitnessstudio: trainieren, Gerät abgeben, um
 Hilfestellung bitten, Tipps geben und abwehren (A2) ·
-Krankschreibung beim Arbeitgeber · Physiotherapie: Rezept, Termine,
+Physiotherapie: Rezept, Termine,
 Übungen
 
 **Wohnen & Nachbarschaft** — Mängel melden:
-Heizung, Schimmel, Wasserschaden (B1) · Umzug organisieren · Handwerker bestellen ·
+Heizung, Schimmel, Wasserschaden (B1) · Handwerker bestellen ·
 Nebenkostenabrechnung prüfen und widersprechen (B2)
 
 **Behörden & Formelles** — Krankenkasse: anmelden und wechseln · Bank: Konto eröffnen, Karte gesperrt · Rundfunkbeitrag ·
