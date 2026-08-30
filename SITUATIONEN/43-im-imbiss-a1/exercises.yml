@@ -1,0 +1,450 @@
+lesson: "SIT/43-im-imbiss-a1"
+title: "Im Imbiss und am Dönerstand — A1"
+topic: "Im Imbiss"
+category: "Essen & Trinken"
+level: A1
+summary: "Am Dönerstand bestellen: mit/ohne, scharf oder nicht, zum Mitnehmen oder hier essen, und mit bar bezahlen."
+intro: >
+  Am Imbiss geht alles schnell: bestellen, bezahlen, essen. Genau deshalb
+  lohnt sich die Vorbereitung — die Warteschlange ist kein Ort für lange
+  Sätze. Dieses Set übt das Nötigste: was man bestellt, mit welchen
+  Soßen und Extras, ob mit oder ohne Zwiebeln, scharf oder nicht, zum
+  Mitnehmen oder hier essen. Dazu ein kurzer Smalltalk mit jemandem in
+  der Schlange. Grammatik nach Bedarf: unbestimmter Artikel im
+  Akkusativ (einen/eine/ein), mit/ohne + Akkusativ, einfache
+  Präsensformen. Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn
+  es schiefgeht → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Essen, Soße oder Extra?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: essen, label: "Das Essen" }
+      - { key: sosse, label: "Die Soße" }
+      - { key: extra, label: "Extra dazu" }
+    tokens:
+      - { text: "der Döner", bucket: essen }
+      - { text: "die Currysauce", bucket: sosse }
+      - { text: "die Pommes", bucket: essen }
+      - { text: "die Knoblauchsauce", bucket: sosse }
+      - { text: "der Salat", bucket: extra }
+      - { text: "die Falafel", bucket: essen }
+      - { text: "die scharfe Sauce", bucket: sosse }
+      - { text: "die Zwiebeln", bucket: extra }
+      - { text: "die Currywurst", bucket: essen }
+      - { text: "der Käse", bucket: extra }
+      - { text: "die Mayonnaise", bucket: sosse }
+      - { text: "der Rotkohl", bucket: extra }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "„mit alles“" }
+      - { key: "2", text: "„ohne Zwiebeln“" }
+      - { key: "3", text: "„zum Mitnehmen“" }
+      - { key: "4", text: "„hier essen“" }
+      - { key: "5", text: "scharf" }
+      - { key: "6", text: "die Portion" }
+      - { key: "7", text: "die Warteschlange" }
+      - { key: "8", text: "nur Bargeld" }
+    right:
+      - { key: a, text: "mit allen Soßen und Extras zusammen" }
+      - { key: b, text: "man möchte diese Zutat nicht dabei haben" }
+      - { key: c, text: "man isst es unterwegs, nicht am Imbiss" }
+      - { key: d, text: "man isst es direkt am Stand, an einem Tisch" }
+      - { key: e, text: "mit viel Chili oder scharfer Sauce" }
+      - { key: f, text: "eine Menge von etwas, zum Beispiel Pommes" }
+      - { key: g, text: "die Reihe von Leuten, die warten" }
+      - { key: h, text: "man kann dort nicht mit Karte bezahlen" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Bestellen am Stand"
+    instructions: "Ergänze den Artikel oder das Wort."
+    instructionsEn: "Fill in the article or the word."
+    text: |
+      1. Ich hätte gern {1} Döner, bitte. (unbestimmter Artikel, Akkusativ)
+      2. Und {2} Portion Pommes dazu. (unbestimmter Artikel, feminin)
+      3. Mit oder {3} Zwiebeln? (Gegenteil von „mit“)
+      4. Scharf oder {4} scharf? (Verneinung)
+      5. Zum Mitnehmen oder {5} essen? (an Ort und Stelle)
+      6. Das {6} zusammen sechs Euro fünfzig. (kosten, macht-Form)
+      7. Ich {7} nur bar. (bezahlen, ich-Form)
+      8. {8} Sie auch Falafel? (haben, Sie-Form)
+    answers:
+      "1": einen
+      "2": eine
+      "3": ohne
+      "4": nicht
+      "5": hier
+      "6": macht
+      "7": bezahle
+      "8": Haben
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Vor dem Stand steht eine lange {1}. (die Reihe von Leuten, die warten)
+      2. Ich nehme einen Döner mit {2} Soße und Salat. (Currysauce, Knoblauchsauce — eine davon)
+      3. Bitte {3}, ich möchte keine Zwiebeln. (Gegenteil von „mit“)
+      4. Ich esse ihn nicht hier, ich nehme ihn {4}. (to take away)
+      5. Hier gibt es {5} — Karte geht nicht. (nur Geldscheine und Münzen)
+      6. Für hier oder zum {6}? (das Gegenteil von „hier essen“, Substantiv)
+    answers:
+      "1": Schlange
+      "2": ["Currysauce", "Knoblauchsauce"]
+      "3": ohne
+      "4": mit
+      "5": Bargeld
+      "6": Mitnehmen
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Am Dönerstand"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Der Nächste, bitte!
+      — Ich {1} gern einen Döner.
+      — Mit {2} oder ohne?
+      — Mit Fleisch, {3}.
+      — Welche Soße möchten Sie: Knoblauch, Curry oder {4}?
+      — Knoblauch, {5}.
+      — Mit oder ohne {6}?
+      — Ohne, {7}.
+      — Scharf?
+      — Nein, nicht {8}.
+      — Zum Mitnehmen oder {9} essen?
+      — Zum {10}, danke.
+      — Das macht sechs Euro. Nur Bargeld, bitte.
+    bank: [HÄTTE, FLEISCH, DANKE, SCHARF, BITTE, ZWIEBELN, HIER, MITNEHMEN, VEGETARISCH, KAROTTEN, TEUER, KLEIN]
+    answers:
+      "1": HÄTTE
+      "2": FLEISCH
+      "3": BITTE
+      "4": SCHARF
+      "5": BITTE
+      "6": ZWIEBELN
+      "7": DANKE
+      "8": SCHARF
+      "9": HIER
+      "10": MITNEHMEN
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Kurz und klar bestellen"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du bist an der Reihe. — It's your turn."
+        options:
+          - { key: a, text: "Ich hätte gern einen Döner mit Fleisch, bitte." }
+          - { key: b, text: "Döner!" }
+          - { key: c, text: "Ich weiß noch nicht." }
+        answer: a
+        why: "Ein kurzer, höflicher Satz reicht völlig — an der Reihe zu sein heißt, jetzt zu bestellen, nicht erst zu überlegen."
+      - q: "Die Person fragt, welche Soße. — The person asks which sauce."
+        options:
+          - { key: a, text: "Egal." }
+          - { key: b, text: "Knoblauch, bitte." }
+          - { key: c, text: "Was haben Sie denn so?" }
+        answer: b
+        why: "Eine klare Antwort beschleunigt die Warteschlange — bei Unsicherheit kann man kurz nach den Sorten fragen, aber am Stand selbst reicht meist ein Blick auf die Karte."
+      - q: "Du möchtest keine Zwiebeln. — You don't want onions."
+        options:
+          - { key: a, text: "Ohne Zwiebeln, bitte." }
+          - { key: b, text: "Zwiebeln nein." }
+          - { key: c, text: "Keine Ahnung von Zwiebeln." }
+        answer: a
+        why: "„Ohne + Akkusativ“ ist die Standardformel für „ich möchte das nicht dabei haben“."
+      - q: "Du isst unterwegs, nicht am Stand. — You'll eat on the way, not at the stand."
+        options:
+          - { key: a, text: "Zum Mitnehmen, bitte." }
+          - { key: b, text: "Ich gehe jetzt." }
+          - { key: c, text: "Nicht hier." }
+        answer: a
+        why: "„Zum Mitnehmen“ ist die feste Formel dafür — direkt und höflich."
+      - q: "Du bezahlst mit Karte, siehst aber ein Schild „nur Bargeld“. — You want to pay by card but see a cash-only sign."
+        options:
+          - { key: a, text: "Trotzdem die Karte hinhalten." }
+          - { key: b, text: "Kurz fragen, ob in der Nähe ein Geldautomat ist." }
+          - { key: c, text: "Das Essen einfach dalassen und gehen." }
+        answer: b
+        why: "Nachfragen löst das Problem, ohne die Schlange aufzuhalten oder das Essen zu verschwenden."
+      - q: "Eine andere Person in der Schlange fragt, was gut ist. — Someone else in the queue asks what's good."
+        options:
+          - { key: a, text: "Der Döner mit Knoblauchsauce ist echt gut." }
+          - { key: b, text: "Weiß nicht, frag den Verkäufer." }
+          - { key: c, text: "Nichts sagen." }
+        answer: a
+        why: "Ein kurzer freundlicher Tipp ist die normale Reaktion in dieser Situation."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze am Stand bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "hätte", "gern", "einen", "Döner", "mit", "Fleisch"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "höfliche Bitte mit hätte gern"
+      - tiles: ["Mit", "oder", "ohne", "Zwiebeln", "?"]
+        answer: [0, 1, 2, 3, 4]
+        note: "kurze Frage, wie am Stand üblich"
+      - tiles: ["Ich", "möchte", "keine", "Zwiebeln", "und", "keinen", "Kohl"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "kein/keine im Akkusativ"
+      - tiles: ["Das", "macht", "sechs", "Euro", "fünfzig"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Preis nennen mit machen"
+      - tiles: ["Nehmen", "Sie", "auch", "Karte", "?"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Frage mit Verb an Position 1"
+      - tiles: ["Ich", "esse", "es", "lieber", "hier"]
+        answer: [0, 1, 2, 3, 4]
+        note: "lieber vor der Ortsangabe"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Preistafel lesen"
+    instructions: |
+      > **Imbiss Sonne — Preisliste**
+      >
+      > - Döner (Fleisch) — **5,50 €**
+      > - Döner (vegetarisch) — **5,00 €**
+      > - Currywurst mit Pommes — **6,00 €**
+      > - Portion Pommes — **3,00 €**
+      > - Getränk 0,5 l — **2,00 €**
+      > - **Geöffnet: Mo–Sa 11–22 Uhr, sonntags geschlossen.**
+      > - **Nur Bargeld.**
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Ein Döner mit Fleisch kostet mehr als der vegetarische. — A meat döner costs more than the vegetarian one."
+        answer: true
+        why: "5,50 € gegenüber 5,00 €."
+      - q: "Eine Portion Pommes kostet zwei Euro. — A portion of fries costs two euros."
+        answer: false
+        why: "Eine Portion Pommes kostet 3,00 €."
+      - q: "Sonntags hat der Imbiss geöffnet. — The stand is open on Sundays."
+        answer: false
+        why: "„Sonntags geschlossen.“"
+      - q: "Man kann dort mit Karte bezahlen. — You can pay by card there."
+        answer: false
+        why: "„Nur Bargeld.“"
+      - q: "Currywurst mit Pommes ist teurer als ein Döner mit Fleisch. — Currywurst with fries costs more than a meat döner."
+        answer: true
+        why: "6,00 € gegenüber 5,50 €."
+      - q: "Am Samstag ist der Imbiss geöffnet. — The stand is open on Saturdays."
+        answer: true
+        why: "„Geöffnet: Mo–Sa 11–22 Uhr.“"
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn etwas nicht stimmt"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Du hast „ohne Zwiebeln“ gesagt, aber im Döner sind Zwiebeln. — You said no onions, but there are onions in it."
+        options:
+          - { key: a, text: "Nichts sagen und die Zwiebeln selbst rausnehmen." }
+          - { key: b, text: "Freundlich sagen: „Entschuldigung, ich hatte ohne Zwiebeln bestellt.“" }
+          - { key: c, text: "Laut werden." }
+        answer: b
+        why: "Ein freundlicher, klarer Hinweis führt meist sofort zu einem neuen Döner."
+      - q: "Du wollest „nicht scharf“, aber es ist sehr scharf. — You wanted mild, but it's very spicy."
+        options:
+          - { key: a, text: "Trotzdem alles aufessen." }
+          - { key: b, text: "Kurz Bescheid geben und nach Wasser oder einem neuen fragen." }
+          - { key: c, text: "Wortlos gehen." }
+        answer: b
+        why: "Kurz Bescheid geben ist der direkteste Weg zu einer Lösung."
+      - q: "Du hast nur eine 50-Euro-Note dabei, das Essen kostet sechs Euro. — You only have a 50-euro note, the meal costs six euros."
+        options:
+          - { key: a, text: "Fragen: „Können Sie das wechseln?“" }
+          - { key: b, text: "Einfach weggehen." }
+          - { key: c, text: "Nichts sagen und warten." }
+        answer: a
+        why: "Kurz nachfragen ist normal — viele Stände können größere Scheine wechseln, manche nicht."
+      - q: "Es steht „nur Bargeld“, du hast aber kein Bargeld dabei. — It says cash only, but you have none."
+        options:
+          - { key: a, text: "Trotzdem bestellen und hoffen." }
+          - { key: b, text: "Fragen, ob in der Nähe ein Geldautomat ist, bevor du bestellst." }
+          - { key: c, text: "Das Essen mitnehmen, ohne zu bezahlen." }
+        answer: b
+        why: "Vor der Bestellung fragen spart allen Zeit — nach dem Essen ist es zu spät."
+      - q: "Die Schlange ist sehr lang und du hast wenig Zeit. — The queue is very long and you're short on time."
+        options:
+          - { key: a, text: "Dich vordrängeln." }
+          - { key: b, text: "Warten oder kurz fragen, wie lange es ungefähr dauert." }
+          - { key: c, text: "Laut rufen, dass es schneller gehen soll." }
+        answer: b
+        why: "Vordrängeln oder Drängeln sind unhöflich; eine kurze Nachfrage ist die normale Lösung."
+      - q: "Der Verkäufer hat dir versehentlich Pommes statt Salat gegeben. — The vendor accidentally gave you fries instead of salad."
+        options:
+          - { key: a, text: "Freundlich darauf hinweisen: „Ich hatte eigentlich Salat bestellt.“" }
+          - { key: b, text: "Die Pommes einfach essen und nichts sagen." }
+          - { key: c, text: "Sich beschweren, ohne zu erklären, was falsch ist." }
+        answer: a
+        why: "Ein konkreter, freundlicher Hinweis lässt sich am schnellsten korrigieren."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Im Döner sind Zwiebeln, obwohl ich {1} Zwiebeln bestellt hatte. (Gegenteil von „mit“)
+      2. Der Döner ist viel zu {2}, obwohl ich „nicht scharf“ gesagt habe. (viel Chili)
+      3. Ich habe leider nur einen großen {3} dabei. (großer Geldschein)
+      4. Gibt es hier einen {4} in der Nähe? (Geldautomat)
+      5. Die {5} vor dem Stand ist heute sehr lang. (Reihe von wartenden Leuten)
+      6. Ich hatte Salat bestellt, aber ich habe {6} bekommen. (kein Salat, sondern etwas Frittiertes)
+    answers:
+      "1": ohne
+      "2": scharf
+      "3": Schein
+      "4": Geldautomaten
+      "5": Schlange
+      "6": Pommes
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Ich {1} gern einen Döner. (would like)
+      2. Mit oder {2} Zwiebeln? (without)
+      3. Scharf oder nicht {3}? (spicy)
+      4. Zum Mitnehmen oder {4} essen? (here, at the stand)
+      5. Das {5} sechs Euro. (costs, macht-form)
+      6. Ich {6} nur bar. (pay)
+      7. Vor dem Stand steht eine lange {7}. (queue)
+      8. Hier gibt es nur {8} — Karte geht nicht. (cash)
+      9. Ich esse ihn nicht hier, ich nehme ihn {9}. (to take away)
+      10. Ohne Zwiebeln, {10}. (please)
+      11. Ich hatte {11} Zwiebeln bestellt, aber welche sind drin. (without)
+      12. Der Döner ist zu {12}, obwohl ich „nicht scharf“ gesagt habe. (spicy)
+      13. Können Sie einen großen {13} wechseln? (bill/note)
+      14. Gibt es hier einen {14} in der Nähe? (ATM)
+    answers:
+      "1": hätte
+      "2": ohne
+      "3": scharf
+      "4": hier
+      "5": macht
+      "6": bezahle
+      "7": Schlange
+      "8": Bargeld
+      "9": mit
+      "10": bitte
+      "11": ohne
+      "12": scharf
+      "13": Schein
+      "14": Geldautomaten
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Bestellen, Problem, Lösung"
+    prompt: "Schreib drei Teile: die Bestellung, ein kleines Problem und die Lösung. Zusammen 14–18 Sätze."
+    stimulus: |
+      Du gehst mit einem Freund / einer Freundin zum Dönerstand. Du
+      bestellst einen Döner mit Fleisch, Knoblauchsauce, ohne Zwiebeln,
+      nicht scharf, zum Mitnehmen. Als du den Döner bekommst, sind
+      Zwiebeln drin.
+
+      In der Bestellung müssen vorkommen:
+      1. höflich einen Döner mit Fleisch bestellen
+      2. eine Soße wählen
+      3. sagen, dass du keine Zwiebeln möchtest
+      4. sagen, dass es nicht scharf sein soll
+      5. sagen, dass du es mitnimmst
+
+      Im Problem müssen vorkommen:
+      6. freundlich sagen, dass Zwiebeln drin sind
+      7. daran erinnern, was du bestellt hattest
+
+      In der Lösung müssen vorkommen:
+      8. dich für den neuen Döner bedanken
+      9. bezahlen (Bargeld)
+      10. dich kurz mit deinem Freund / deiner Freundin unterhalten, während ihr wartet
+    use:
+      - "höfliche Bitte: „Ich hätte gern …“"
+      - "mit/ohne + Akkusativ: „ohne Zwiebeln“, „mit Knoblauchsauce“"
+      - "kurze Sätze, wie am Imbiss üblich"
+    selfCheck:
+      - "Sind die Sätze kurz genug für eine Warteschlange?"
+      - "Steht „ohne“ wirklich vor dem Akkusativ, nicht vor dem Nominativ?"
+      - "Klingt der Hinweis auf das Problem freundlich, nicht vorwurfsvoll?"
+      - "Kommen alle 10 Punkte vor?"
+    model: |
+      **Die Bestellung**
+
+      Ich: Ich hätte gern einen Döner mit Fleisch, bitte.
+      Verkäufer: Welche Soße — Knoblauch, Curry oder scharf?
+      Ich: Knoblauch, bitte.
+      Verkäufer: Mit oder ohne Zwiebeln?
+      Ich: Ohne Zwiebeln, bitte.
+      Verkäufer: Scharf?
+      Ich: Nein, nicht scharf.
+      Verkäufer: Zum Mitnehmen oder hier essen?
+      Ich: Zum Mitnehmen, danke.
+
+      **Das Problem**
+
+      (Ich schaue in den Döner.)
+      Ich: Entschuldigung, ich glaube, da sind Zwiebeln drin. Ich hatte eigentlich ohne Zwiebeln bestellt.
+      Verkäufer: Oh, Entschuldigung, das war ein Fehler. Ich mache Ihnen einen neuen.
+
+      **Die Lösung**
+
+      Verkäufer: So, hier ist der neue Döner, ganz ohne Zwiebeln.
+      Ich: Vielen Dank! Was macht das zusammen?
+      Verkäufer: Sechs Euro, bitte.
+      Ich: Hier bitte, nur bar geht ja bei Ihnen.
+      Freund: Riecht super. Lass uns dort drüben essen, an dem Tisch.
+      Ich: Gute Idee, ich habe echt Hunger.

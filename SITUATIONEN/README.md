@@ -317,17 +317,35 @@ Same discipline as a `THEMEN/` set:
 - **41 — Notruf und Notaufnahme** (B1) — 112 oder 116 117, den Notruf
   strukturiert absetzen, Triage verstehen, Verschlechterung melden,
   Entlassungsbrief.
+- **42 — Tisch reservieren und umbuchen** (A2) — telefonisch buchen, auf
+  den Namen reservieren, verschieben und stornieren; Reservierung nicht
+  im System, Tisch zu klein, verspätetes Erscheinen.
+- **43 — Im Imbiss und am Dönerstand** (A1) — kurze Sätze für die
+  Warteschlange: mit/ohne, scharf oder nicht, zum Mitnehmen oder hier
+  essen, nur Bargeld.
+- **44 — Hausordnung im Alltag** (A2) — Ruhezeiten, Mülltrennung,
+  Waschplan und Kehrwoche; Termin genommen, Kehrwoche vergessen,
+  Sperrmüll im Flur.
+- **45 — Am See und im Freibad** (A2) — Eintritt und Schließfach,
+  Nichtschwimmerbereich, jemanden um Sonnencreme bitten; verlorener
+  Schlüssel, Gewitter, besetzte Picknickdecke.
+- **46 — Urlaub beantragen** (B1) — Antrag stellen, Vertretung
+  organisieren, Brückentage; Urlaubssperre, doppelt beantragte Woche,
+  verfallender Resturlaub.
+- **47 — Handyvertrag abschließen** (B1) — Tarife vergleichen,
+  Rufnummernmitnahme, Laufzeit und Kündigungsfrist; zu hohe Rechnung,
+  schlechter Empfang, ungewollte Zusatzleistung.
 
 ## Themenspeicher
 
 Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
 wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 
-**Essen & Trinken** — Tisch reservieren und umbuchen · Lieferdienst:
+**Essen & Trinken** — Lieferdienst:
 falsche Bestellung · Biergarten und Volksfest · Die Rechnung: zusammen oder
-getrennt? · Im Imbiss und am Dönerstand · Beim Eismann mit Kindern
+getrennt? · Beim Eismann mit Kindern
 
-**Einkaufen** — Im Einkaufszentrum / in den Arcaden · Handyvertrag abschließen · Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
+**Einkaufen** — Im Einkaufszentrum / in den Arcaden · Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
 Online bestellt, falsch geliefert: Widerruf · Ein Buch kaufen · Ein Auto kaufen
 (B1) · Eine Wohnung kaufen (B2)
 
@@ -336,7 +354,7 @@ Online bestellt, falsch geliefert: Widerruf · Ein Buch kaufen · Ein Auto kaufe
 Mietwagen abholen und Schaden melden · Falsch geparkt: Knöllchen und
 Abschleppdienst · Verkehrskontrolle und Unfall melden · Führerschein machen
 
-**Freizeit & Kultur** — Am See und im Freibad · Einem Verein beitreten ·
+**Freizeit & Kultur** — Einem Verein beitreten ·
 Wandern und Klettern · Im Zoo mit Kindern · Ein Fußballspiel im Stadion
 
 **Sport & Gesundheit** — Im Fitnessstudio: trainieren, Gerät abgeben, um
@@ -345,8 +363,7 @@ Krankschreibung beim Arbeitgeber · Physiotherapie: Rezept, Termine,
 Übungen · Impftermin und Vorsorge
 
 **Wohnen & Nachbarschaft** — Mängel melden:
-Heizung, Schimmel, Wasserschaden (B1) · Hausordnung: Ruhezeiten, Waschküche,
-Mülltrennung · Umzug organisieren · Handwerker bestellen ·
+Heizung, Schimmel, Wasserschaden (B1) · Umzug organisieren · Handwerker bestellen ·
 Nebenkostenabrechnung prüfen und widersprechen (B2)
 
 **Behörden & Formelles** — Krankenkasse: anmelden und wechseln · Bank: Konto eröffnen, Karte gesperrt · Rundfunkbeitrag ·
@@ -361,7 +378,7 @@ Geldautomat behält die Karte · Handy verloren: Anzeige bei der Polizei ·
 Internet fällt aus: Anruf beim Anbieter · Fundbüro · Portemonnaie vergessen
 
 **Arbeit & Studium** — In der Schule: Elterngespräch, Entschuldigung,
-Klassenfahrt (A2) · Um eine Gehaltserhöhung bitten (B2) · Urlaub beantragen · Konflikt mit
+Klassenfahrt (A2) · Um eine Gehaltserhöhung bitten (B2) · Konflikt mit
 Kolleginnen ansprechen (B2) · Kündigung schreiben · Uni: Immatrikulation,
 Prüfungsamt, BAföG
 
