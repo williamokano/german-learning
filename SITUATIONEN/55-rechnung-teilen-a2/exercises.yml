@@ -1,0 +1,444 @@
+lesson: "SIT/55-rechnung-teilen-a2"
+title: "Die Rechnung: zusammen oder getrennt? — A2"
+topic: "Die Rechnung teilen"
+category: "Essen & Trinken"
+level: A2
+summary: "Mit Freunden entscheiden, ob man zusammen oder getrennt zahlt, den Anteil berechnen, Trinkgeld geben — und was tun, wenn beim Teilen etwas nicht aufgeht."
+intro: >
+  Am Ende eines Essens mit Freunden kommt fast immer diese Frage:
+  zusammen oder getrennt? Beides ist völlig normal, aber die Formeln
+  dafür muss man kennen — genau wie das Rechnen des eigenen Anteils und
+  das Trinkgeld. Dieses Set übt das Gespräch am Tisch, wenn die Rechnung
+  kommt, und was zu tun ist, wenn jemand kein Bargeld hat oder die Karte
+  nicht funktioniert. Grammatik nach Bedarf: Nebensätze mit ob,
+  Präpositionen bei Geldbeträgen, höfliche Vorschläge mit Konjunktiv
+  II. Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn es
+  schiefgeht → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Zusammen, getrennt oder Trinkgeld?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: zusammen, label: "Zusammen zahlen" }
+      - { key: getrennt, label: "Getrennt zahlen" }
+      - { key: trinkgeld, label: "Trinkgeld" }
+    tokens:
+      - { text: "eine Rechnung für alle", bucket: zusammen }
+      - { text: "jeder zahlt für sich", bucket: getrennt }
+      - { text: "aufrunden", bucket: trinkgeld }
+      - { text: "sich den Betrag teilen", bucket: zusammen }
+      - { text: "einzeln bezahlen", bucket: getrennt }
+      - { text: "ein Zeichen der Zufriedenheit", bucket: trinkgeld }
+      - { text: "der Gesamtbetrag", bucket: zusammen }
+      - { text: "der eigene Anteil", bucket: getrennt }
+      - { text: "üblich sind 5 bis 10 Prozent", bucket: trinkgeld }
+      - { text: "eine Person zahlt für alle vor", bucket: zusammen }
+      - { text: "die eigene Bestellung zahlen", bucket: getrennt }
+      - { text: "dem Kellner in die Hand geben", bucket: trinkgeld }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "zusammen zahlen" }
+      - { key: "2", text: "getrennt zahlen" }
+      - { key: "3", text: "sich aufteilen" }
+      - { key: "4", text: "der Anteil" }
+      - { key: "5", text: "das Trinkgeld" }
+      - { key: "6", text: "aufrunden" }
+      - { key: "7", text: "die Quittung" }
+      - { key: "8", text: "der Gesamtbetrag" }
+    right:
+      - { key: a, text: "eine Rechnung für die ganze Gruppe bezahlen" }
+      - { key: b, text: "jede Person zahlt für sich selbst" }
+      - { key: c, text: "den Betrag unter mehreren Personen verteilen" }
+      - { key: d, text: "der Teil, den eine einzelne Person zahlt" }
+      - { key: e, text: "eine kleine zusätzliche Zahlung als Dank" }
+      - { key: f, text: "den Betrag auf eine runde Zahl nach oben bringen" }
+      - { key: g, text: "der Beleg, den man nach dem Bezahlen bekommt" }
+      - { key: h, text: "die Summe von allem zusammen" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Wenn die Rechnung kommt"
+    instructions: "Ergänze das Modalverb oder die Verbform."
+    instructionsEn: "Fill in the modal verb or verb form."
+    text: |
+      1. {1} wir zusammen oder getrennt zahlen? (wollen, wir-Form)
+      2. Ich {2} nur einen Salat gehabt. (haben, Perfekt)
+      3. {3} wir den Betrag einfach durch vier teilen? (können, wir-Form)
+      4. Jeder {4} für seine eigene Bestellung. (zahlen, Präsens)
+      5. Ich {5} das Trinkgeld schon mit eingerechnet. (haben, Perfekt)
+      6. {6} du mir zehn Euro wechseln? (können, du-Form)
+      7. Wir {7} den Betrag großzügig aufgerundet. (haben, Perfekt)
+      8. {8} ich dir das Geld später überweisen? (dürfen, ich-Form)
+    answers:
+      "1": Wollen
+      "2": habe
+      "3": Können
+      "4": zahlt
+      "5": habe
+      "6": Kannst
+      "7": haben
+      "8": Darf
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Sollen wir {1} zahlen, jeder für sich? (Gegenteil von zusammen)
+      2. Mein {2} beträgt ungefähr fünfzehn Euro. (der Teil, den ich zahle)
+      3. Für den Kellner geben wir noch etwas {3} dazu. (die Extra-Zahlung als Dank)
+      4. Wir {4} den Betrag einfach unter uns vieren. (den Betrag verteilen)
+      5. Der {5} für den ganzen Tisch beträgt sechzig Euro. (die Summe von allem)
+      6. Kannst du mir die {6} für die Buchhaltung geben? (der Beleg über die Zahlung)
+    answers:
+      "1": getrennt
+      "2": Anteil
+      "3": Trinkgeld
+      "4": teilen
+      "5": Gesamtbetrag
+      "6": Quittung
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Am Tisch, wenn die Rechnung kommt"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Möchten Sie zusammen oder {1} zahlen?
+      — Getrennt, bitte, wir sind zu {2}.
+      — Kein Problem, ich {3} das gleich für jeden einzeln.
+      — Ich hatte nur die {4} und ein Wasser.
+      — Und ich hatte zusätzlich noch das {5}.
+      — Dann {6} dein Anteil etwas mehr.
+      — Kein Problem, ich {7} noch etwas Trinkgeld dazu.
+      — Sehr {8}, vielen Dank.
+      — Können wir mit Karte {9}?
+      — Ja, natürlich, hier ist das {10}.
+    bank: [GETRENNT, VIERT, RECHNE, SUPPE, DESSERT, KOSTET, GEBE, NETT, ZAHLEN, TERMINAL, BARGELD, RABATT, TRINKGELD, GESAMT]
+    answers:
+      "1": GETRENNT
+      "2": VIERT
+      "3": RECHNE
+      "4": SUPPE
+      "5": DESSERT
+      "6": KOSTET
+      "7": GEBE
+      "8": NETT
+      "9": ZAHLEN
+      "10": TERMINAL
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Höflich über die Rechnung sprechen"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Der Kellner fragt, wie ihr bezahlen möchtet. — The waiter asks how you'd like to pay."
+        options:
+          - { key: a, text: "Möchten wir zusammen oder getrennt zahlen?" }
+          - { key: b, text: "Das entscheiden Sie doch." }
+          - { key: c, text: "Bezahlen interessiert mich nicht." }
+        answer: a
+        why: "Die Frage direkt an die Gruppe zurückzugeben klärt schnell, wie bezahlt wird."
+      - q: "Du möchtest vorschlagen, den Betrag gleichmäßig zu teilen. — You want to suggest splitting the amount evenly."
+        options:
+          - { key: a, text: "Rechnet das selbst aus." }
+          - { key: b, text: "Könnten wir den Betrag einfach durch vier teilen?" }
+          - { key: c, text: "Mir ist es egal, wer wie viel zahlt." }
+        answer: b
+        why: "Ein konkreter Vorschlag macht das Aufteilen einfach und vermeidet lange Diskussionen."
+      - q: "Du hattest weniger bestellt als die anderen. — You ordered less than the others."
+        options:
+          - { key: a, text: "Ich zahle trotzdem den vollen Anteil, ohne etwas zu sagen." }
+          - { key: b, text: "Das ist mir zu kompliziert, ich zahle gar nichts." }
+          - { key: c, text: "Ich hatte nur einen Salat, mein Anteil ist also etwas kleiner." }
+        answer: c
+        why: "Kurz zu erklären, was man hatte, ist der übliche Weg, den eigenen Anteil zu klären."
+      - q: "Du möchtest wissen, ob ihr mit Karte zahlen könnt. — You want to know if you can pay by card."
+        options:
+          - { key: a, text: "Können wir mit Karte zahlen?" }
+          - { key: b, text: "Karten interessieren mich nicht." }
+          - { key: c, text: "Ich zahle sowieso nie mit Karte." }
+        answer: a
+        why: "Eine kurze Frage klärt, welche Zahlungsarten möglich sind."
+      - q: "Du möchtest jemandem etwas Bargeld wechseln. — You want to change some cash for someone."
+        options:
+          - { key: a, text: "Wechselgeld ist mir egal." }
+          - { key: b, text: "Kannst du mir zehn Euro wechseln?" }
+          - { key: c, text: "Frag jemand anderen." }
+        answer: b
+        why: "Eine direkte, freundliche Bitte ist der einfachste Weg, an Wechselgeld zu kommen."
+      - q: "Eine Freundin möchte für alle zahlen, aber die Gruppe möchte lieber teilen. — A friend wants to pay for everyone, but the group prefers to split."
+        options:
+          - { key: a, text: "Na gut, wenn du unbedingt willst." }
+          - { key: b, text: "Nein, das kommt nicht infrage." }
+          - { key: c, text: "Das ist total lieb von dir, aber lass uns lieber teilen." }
+        answer: c
+        why: "Das Angebot zu würdigen und trotzdem freundlich beim Teilen zu bleiben ist eine höfliche Lösung."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze über die Rechnung bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Möchten", "wir", "zusammen", "oder", "getrennt", "zahlen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Frage mit Modalverb an Position 1"
+      - tiles: ["Können", "wir", "den", "Betrag", "einfach", "teilen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Modalverb an Position 1, Infinitiv am Ende"
+      - tiles: ["Ich", "hatte", "nur", "einen", "Salat", "und", "ein", "Wasser"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Präteritum von haben, Aufzählung"
+      - tiles: ["Mein", "Anteil", "kostet", "etwas", "mehr", "als", "deiner"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Vergleich mit als"
+      - tiles: ["Ich", "gebe", "noch", "etwas", "Trinkgeld", "dazu"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "trennbares Verb dazugeben, Präfix am Ende"
+      - tiles: ["Das", "ist", "total", "lieb", "von", "dir"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Lob mit von + Dativ"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Den Hinweis auf der Speisekarte lesen"
+    instructions: |
+      > **Restaurant Lindenblick — Hinweis zur Bezahlung**
+      >
+      > - Getrennte Rechnungen sind **bei Gruppen bis 6 Personen**
+      >   möglich, bitte vorher Bescheid geben.
+      > - Bei **mehr als 6 Personen** wird nur eine Gesamtrechnung
+      >   erstellt.
+      > - Trinkgeld ist **freiwillig**, üblich sind **5–10 %** der
+      >   Rechnungssumme.
+      > - **Kartenzahlung** ist ab **10 Euro** möglich, darunter bitte
+      >   bar zahlen.
+      > - Die **Quittung** wird auf Wunsch **zusätzlich zum Bon**
+      >   ausgestellt.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Getrennte Rechnungen sind bei Gruppen bis sechs Personen möglich. — Split bills are possible for groups of up to six."
+        answer: true
+        why: "So steht es ausdrücklich im Hinweis."
+      - q: "Bei mehr als sechs Personen gibt es trotzdem getrennte Rechnungen. — With more than six people, separate bills are still given."
+        answer: false
+        why: "Bei mehr als 6 Personen wird nur eine Gesamtrechnung erstellt."
+      - q: "Trinkgeld ist verpflichtend. — Tipping is mandatory."
+        answer: false
+        why: "Trinkgeld ist freiwillig."
+      - q: "Kartenzahlung ist ab zehn Euro möglich. — Card payment is possible from ten euros."
+        answer: true
+        why: "„Kartenzahlung ist ab 10 Euro möglich.“"
+      - q: "Unter zehn Euro muss man bar zahlen. — Under ten euros you must pay cash."
+        answer: true
+        why: "„Darunter bitte bar zahlen.“"
+      - q: "Eine Quittung gibt es nur automatisch, ohne dass man fragen muss. — A receipt is only given automatically, without asking."
+        answer: false
+        why: "Die Quittung wird nur auf Wunsch zusätzlich zum Bon ausgestellt."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn beim Teilen etwas nicht aufgeht"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Jemand hat sein Portemonnaie vergessen. — Someone forgot their wallet."
+        options:
+          - { key: a, text: "Kurz für die Person auslegen und sich später zurückzahlen lassen." }
+          - { key: b, text: "Die Person soll draußen warten, bis jemand Geld holt." }
+          - { key: c, text: "Sie soll gar nicht mitessen." }
+        answer: a
+        why: "Kurz auszulegen ist unter Freunden völlig normal, solange klar ist, dass es zurückgezahlt wird."
+      - q: "Die Karte wird beim Teilen der Rechnung plötzlich abgelehnt. — The card is suddenly declined while splitting the bill."
+        options:
+          - { key: a, text: "Einfach ohne Bezahlung gehen." }
+          - { key: b, text: "Es noch einmal versuchen oder nach einer anderen Zahlungsart fragen." }
+          - { key: c, text: "In Panik geraten." }
+        answer: b
+        why: "Ein zweiter Versuch oder eine Alternative löst das Problem meist schnell."
+      - q: "Ihr seid euch nicht einig, wer was bestellt hatte. — You disagree about who ordered what."
+        options:
+          - { key: a, text: "Einfach den Betrag gleichmäßig teilen und streiten." }
+          - { key: b, text: "Den Kellner beschuldigen." }
+          - { key: c, text: "Gemeinsam ruhig auf der Rechnung nachschauen." }
+        answer: c
+        why: "Ein Blick auf die Rechnung klärt das Missverständnis meist schnell und ohne Streit."
+      - q: "Der Kellner hat sich beim Zusammenzählen offensichtlich verrechnet. — The waiter has clearly miscounted the total."
+        options:
+          - { key: a, text: "Freundlich darauf hinweisen und um eine Korrektur bitten." }
+          - { key: b, text: "Einfach den falschen Betrag zahlen." }
+          - { key: c, text: "Laut werden." }
+        answer: a
+        why: "Ein freundlicher Hinweis führt am schnellsten zur Korrektur eines Rechenfehlers."
+      - q: "Eine Person besteht darauf, für alle zu zahlen, obwohl die anderen lieber teilen möchten. — One person insists on paying for everyone, though the others prefer to split."
+        options:
+          - { key: a, text: "Sich streiten, wer zahlt." }
+          - { key: b, text: "Das Angebot wortlos ignorieren." }
+          - { key: c, text: "Sich bedanken und anbieten, beim nächsten Mal zu zahlen." }
+        answer: c
+        why: "Ein Dank mit dem Angebot, beim nächsten Mal zu zahlen, ist eine höfliche, praktische Lösung."
+      - q: "Beim Teilen bleibt am Ende ein Betrag übrig, der zu niemandem passt. — After splitting, there's a leftover amount that doesn't fit anyone."
+        options:
+          - { key: a, text: "Vorschlagen, den Rest als zusätzliches Trinkgeld zu geben." }
+          - { key: b, text: "Streiten, wer den Rest zahlt." }
+          - { key: c, text: "Den Kellner den Rest raten lassen." }
+        answer: a
+        why: "Einen kleinen Rest als Trinkgeld zu geben ist die unkomplizierteste Lösung."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Jemand hat sein {1} vergessen. (die Geldbörse)
+      2. Die Karte wurde beim Teilen plötzlich {2}. (nicht akzeptiert, Partizip)
+      3. Wir waren uns nicht {3}, wer was bestellt hatte. (übereinstimmender Meinung)
+      4. Der Kellner hat sich beim Zusammenzählen {4}. (einen Rechenfehler gemacht)
+      5. Eine Person hat darauf {5}, für alle zu zahlen. (fest darauf bestehen)
+      6. Am Ende blieb ein kleiner {6} übrig. (der übrige Betrag)
+    answers:
+      "1": Portemonnaie
+      "2": abgelehnt
+      "3": einig
+      "4": verrechnet
+      "5": bestanden
+      "6": Rest
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. {1} wir zusammen oder getrennt zahlen? (do we want to)
+      2. Ich {2} nur einen Salat gehabt. (have — Perfekt)
+      3. {3} wir den Betrag einfach teilen? (can we)
+      4. Sollen wir {4} zahlen, jeder für sich? (separately)
+      5. Mein {5} beträgt fünfzehn Euro. (my share)
+      6. Für den Kellner geben wir noch etwas {6} dazu. (tip)
+      7. Wir teilen den Betrag unter uns {7}. (four of us)
+      8. Der {8} für den Tisch beträgt sechzig Euro. (total amount)
+      9. Jemand hat sein {9} vergessen. (wallet)
+      10. Die Karte wurde plötzlich {10}. (declined — Partizip)
+      11. Wir waren uns nicht {11}, wer was bestellt hatte. (in agreement)
+      12. Der Kellner hat sich beim Zusammenzählen {12}. (miscalculated — Partizip)
+      13. Eine Person hat darauf {13}, für alle zu zahlen. (insisted — Partizip)
+      14. Am Ende blieb ein kleiner {14} übrig. (leftover amount)
+    answers:
+      "1": Wollen
+      "2": habe
+      "3": Können
+      "4": getrennt
+      "5": Anteil
+      "6": Trinkgeld
+      "7": zu viert
+      "8": Gesamtbetrag
+      "9": Portemonnaie
+      "10": abgelehnt
+      "11": einig
+      "12": verrechnet
+      "13": bestanden
+      "14": Rest
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Zahlen, ein Problem, eine Lösung"
+    prompt: "Schreib drei Teile: die Entscheidung zusammen oder getrennt, ein kleines Problem und die Lösung. Zusammen 16–20 Sätze."
+    stimulus: |
+      Du bist mit drei Freunden essen. Als die Rechnung kommt, wollt ihr
+      getrennt zahlen. Dabei merkt ihr, dass jemand sein Portemonnaie
+      vergessen hat.
+
+      Bei der Entscheidung müssen vorkommen:
+      1. den Kellner nach zusammen oder getrennt fragen
+      2. euch für getrennt entscheiden
+      3. euren jeweiligen Anteil nennen
+
+      Beim Problem müssen vorkommen:
+      4. merken, dass jemand kein Portemonnaie hat
+      5. anbieten, kurz auszulegen
+      6. sich einig werden, wann das Geld zurückkommt
+
+      In der Lösung müssen vorkommen:
+      7. den Gesamtbetrag noch einmal überprüfen
+      8. Trinkgeld dazugeben
+      9. mit Karte oder bar bezahlen
+      10. euch für den schönen Abend bedanken
+    use:
+      - "höfliche Frage: „Möchten wir …?“"
+      - "Nebensatz mit ob: „Ich bin nicht sicher, ob …“"
+      - "trennbares Verb: „Ich gebe noch etwas dazu.“"
+    selfCheck:
+      - "Ist die Frage nach zusammen oder getrennt klar formuliert?"
+      - "Klingt die Reaktion auf das fehlende Portemonnaie locker, nicht dramatisch?"
+      - "Wird das Trinkgeld am Ende erwähnt?"
+      - "Kommen alle 10 Punkte vor?"
+    model: |
+      **Die Entscheidung**
+
+      Kellner: Möchten Sie zusammen oder getrennt zahlen?
+      Ich: Getrennt, bitte, wir sind zu viert.
+      Kellner: Kein Problem, ich rechne das gleich für jeden einzeln.
+      Freund 1: Ich hatte nur die Suppe und ein Wasser.
+      Ich: Und ich hatte zusätzlich noch das Dessert.
+
+      **Das Problem**
+
+      Freundin: Oh nein, ich glaube, ich habe mein Portemonnaie zu Hause vergessen.
+      Ich: Kein Problem, ich lege für dich aus, du gibst es mir einfach nächste Woche zurück.
+      Freundin: Das ist total lieb von dir, danke!
+
+      **Die Lösung**
+
+      Ich: Lass uns kurz den Gesamtbetrag überprüfen, bevor wir zahlen.
+      Freund 1: Stimmt so, alles passt.
+      Ich: Dann geben wir noch etwas Trinkgeld dazu.
+      Kellner: Können Sie mit Karte zahlen, oder lieber bar?
+      Ich: Mit Karte, bitte. Vielen Dank für den schönen Abend!
