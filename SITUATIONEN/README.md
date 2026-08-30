@@ -371,15 +371,34 @@ Same discipline as a `THEMEN/` set:
 - **59 — Umzug organisieren** (A2) — den Umzugswagen mieten, Freunde
   um Hilfe bitten, sich ummelden; Wagen nicht verfügbar, Sofa passt
   nicht durch die Tür, zugeparkter Halteplatz.
+- **60 — Beim Eismann mit Kindern** (A1) — Sorten und Größen
+  bestellen, mit Kindern verhandeln, bezahlen; vergriffene Sorte,
+  Kind will mehr, umgekippte Kugel.
+- **61 — Möbelhaus: Lieferung und Aufbau** (A2) — einen Liefertermin
+  vereinbaren, den Aufbauservice buchen, den Lieferschein prüfen;
+  beschädigtes Möbelstück, ausgefallener Aufbautermin, fehlende
+  Schrauben.
+- **62 — Im Zoo mit Kindern** (A2) — Eintrittskarten kaufen,
+  Fütterungszeiten planen, den Streichelzoo besuchen; verlorenes
+  Kind, Tierbiss, plötzlicher Regen.
+- **63 — Physiotherapie: Rezept, Termine, Übungen** (A2) — die
+  Verordnung holen, Termine vereinbaren, Übungen zu Hause
+  wiederholen; ausgefallener Termin, schmerzende Übung, ausbleibende
+  Besserung.
+- **64 — Handwerker bestellen** (A2) — einen Kostenvoranschlag
+  einholen, die Verfügbarkeit klären, den Auftrag bestätigen;
+  ausbleibende Antwort, gestiegene Kosten, verlangte Anzahlung.
+- **65 — Krankenkasse: anmelden und wechseln** (B1) — sich bei einer
+  neuen Kasse anmelden, die Familie mitversichern, die Kasse
+  wechseln; verspätete Bescheinigung, gestiegener Zusatzbeitrag,
+  abgelehnte Familienversicherung.
 
 ## Themenspeicher
 
 Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
 wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 
-**Essen & Trinken** — Beim Eismann mit Kindern
-
-**Einkaufen** — Möbelhaus: Lieferung und Aufbau ·
+**Einkaufen** —
 Online bestellt, falsch geliefert: Widerruf · Ein Buch kaufen · Ein Auto kaufen
 (B1) · Eine Wohnung kaufen (B2)
 
@@ -389,18 +408,13 @@ Mietwagen abholen und Schaden melden · Falsch geparkt: Knöllchen und
 Abschleppdienst · Verkehrskontrolle und Unfall melden · Führerschein machen
 
 **Freizeit & Kultur** —
-Im Zoo mit Kindern · Ein Fußballspiel im Stadion
-
-**Sport & Gesundheit** — Im Fitnessstudio: trainieren, Gerät abgeben, um
-Hilfestellung bitten, Tipps geben und abwehren (A2) ·
-Physiotherapie: Rezept, Termine,
-Übungen
+Ein Fußballspiel im Stadion
 
 **Wohnen & Nachbarschaft** — Mängel melden:
-Heizung, Schimmel, Wasserschaden (B1) · Handwerker bestellen ·
+Heizung, Schimmel, Wasserschaden (B1) ·
 Nebenkostenabrechnung prüfen und widersprechen (B2)
 
-**Behörden & Formelles** — Krankenkasse: anmelden und wechseln · Bank: Konto eröffnen, Karte gesperrt · Rundfunkbeitrag ·
+**Behörden & Formelles** — Bank: Konto eröffnen, Karte gesperrt · Rundfunkbeitrag ·
 Standesamt · Kita-Platz beantragen · Führungszeugnis · Anerkennung
 ausländischer Abschlüsse · Arbeitsagentur und Jobcenter
 
