@@ -1,0 +1,450 @@
+lesson: "SIT/62-im-zoo-a2"
+title: "Im Zoo mit Kindern — A2"
+topic: "Im Zoo mit Kindern"
+category: "Freizeit & Kultur"
+level: A2
+summary: "Eintrittskarten kaufen, die Fütterungszeiten planen, den Streichelzoo besuchen — und was tun, wenn sich ein Kind im Gedränge verläuft."
+intro: >
+  Ein Zoobesuch mit Kindern braucht ein bisschen Planung: Eintrittskarten
+  kaufen, die Fütterungszeiten im Blick behalten, vielleicht einen
+  Kinderwagen ausleihen — und einen kühlen Kopf, falls sich ein Kind im
+  Gedränge verläuft. Dieses Set übt genau das: an der Kasse fragen, im
+  Streichelzoo Tiere streicheln, einen Treffpunkt vereinbaren, und was zu
+  tun ist, wenn etwas schiefgeht. Grammatik nach Bedarf: Perfekt im
+  Bericht, höfliche Fragen, Nebensätze mit falls. Blocks: A Wortschatz &
+  Redemittel → B Dialoge → C Wenn es schiefgeht → D Wiederholung.
+  Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Am Eingang, bei den Tieren oder wenn etwas passiert?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: eingang, label: "Am Eingang" }
+      - { key: tiere, label: "Bei den Tieren" }
+      - { key: problem, label: "Wenn etwas passiert" }
+    tokens:
+      - { text: "die Eintrittskarten kaufen", bucket: eingang }
+      - { text: "den Lageplan mitnehmen", bucket: eingang }
+      - { text: "einen Treffpunkt vereinbaren", bucket: eingang }
+      - { text: "den Kinderwagen ausleihen", bucket: eingang }
+      - { text: "ins Gehege schauen", bucket: tiere }
+      - { text: "die Fütterungszeit beobachten", bucket: tiere }
+      - { text: "im Streichelzoo Tiere streicheln", bucket: tiere }
+      - { text: "die Tierpflegerin nach Antworten fragen", bucket: tiere }
+      - { text: "sich im Gedränge verlaufen", bucket: problem }
+      - { text: "am Treffpunkt warten", bucket: problem }
+      - { text: "die Security informieren", bucket: problem }
+      - { text: "über Lautsprecher ausrufen lassen", bucket: problem }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "die Eintrittskarte" }
+      - { key: "2", text: "das Gehege" }
+      - { key: "3", text: "die Fütterungszeit" }
+      - { key: "4", text: "der Streichelzoo" }
+      - { key: "5", text: "sich verlaufen" }
+      - { key: "6", text: "der Treffpunkt" }
+      - { key: "7", text: "die Tierpflegerin" }
+      - { key: "8", text: "der Kinderwagen" }
+    right:
+      - { key: a, text: "das Ticket für den Eintritt in den Zoo" }
+      - { key: b, text: "der abgegrenzte Bereich, in dem ein Tier lebt" }
+      - { key: c, text: "die Uhrzeit, zu der ein Tier gefüttert wird" }
+      - { key: d, text: "der Bereich, in dem man zahme Tiere anfassen darf" }
+      - { key: e, text: "den Weg verlieren und sich nicht mehr zurechtfinden" }
+      - { key: f, text: "der vereinbarte Ort, an dem man sich wiederfindet" }
+      - { key: g, text: "die Frau, die sich beruflich um die Tiere kümmert" }
+      - { key: h, text: "das Gefährt zum Schieben eines kleinen Kindes" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Den Zoobesuch planen"
+    instructions: "Ergänze das Modalverb oder die Verbform."
+    instructionsEn: "Fill in the modal verb or verb form."
+    text: |
+      1. Wir {1} noch Eintrittskarten kaufen. (Modalverb, wir-Form)
+      2. {2} du mir helfen, den Kinderwagen zu tragen? (können, du-Form)
+      3. Ich {3} schon den Lageplan angeschaut. (haben, Perfekt)
+      4. {4} wir zur Fütterungszeit der Löwen gehen? (wollen, wir-Form)
+      5. Falls sich ein Kind {5}, treffen wir uns am Haupteingang. (verlaufen, Präsens reflexiv)
+      6. Die Tierpflegerin {6} uns gleich mehr erzählen. (werden, Futur I)
+      7. Die Kinder {7} die Ziegen im Streichelzoo gestreichelt. (haben, Perfekt)
+      8. {8} ich ein Foto vom Gehege machen? (dürfen, ich-Form)
+    answers:
+      "1": müssen
+      "2": Kannst
+      "3": habe
+      "4": Wollen
+      "5": verläuft
+      "6": wird
+      "7": haben
+      "8": Darf
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. An der Kasse kaufen wir zuerst die {1}. (das Ticket für den Eintritt)
+      2. Die Elefanten leben in einem großen {2}. (der abgegrenzte Bereich für ein Tier)
+      3. Um vier Uhr ist die {3} der Pinguine — das wollen wir sehen. (die Zeit, zu der Tiere Futter bekommen)
+      4. Im {4} dürfen die Kinder Ziegen streicheln. (Bereich mit zahmen Tieren zum Anfassen)
+      5. Falls wir uns verlieren, treffen wir uns am {5}. (der vereinbarte Ort zum Wiederfinden)
+      6. Die {6} beantwortet geduldig alle Fragen der Kinder. (die Frau, die beruflich die Tiere versorgt)
+    answers:
+      "1": Eintrittskarten
+      "2": Gehege
+      "3": Fütterungszeit
+      "4": Streichelzoo
+      "5": Treffpunkt
+      "6": Tierpflegerin
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "An der Kasse und ein verlorenes Kind"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Guten Tag, zwei Erwachsene und zwei Kinder, bitte. Wie viel
+      kostet der {1}?
+      — Das macht zusammen 38 Euro. Hier ist der Lageplan, und die
+      {2} der Löwen ist um 14 Uhr.
+      — Super, danke! Können wir auch einen {3} ausleihen?
+      — Ja, dort links am Schalter, das kostet 3 Euro extra.
+      (im Zoo, später)
+      — Mama, wo ist Tom? Ich sehe ihn nicht mehr!
+      — Bleib ruhig, wir {4} uns am {5} vor dem Haupteingang.
+      — Sollen wir zur Security gehen?
+      — Ja, die können ihn über {6} ausrufen lassen.
+      — Da ist er ja! Er hat sich nur im {7} verlaufen, weil er die
+      Ziegen streicheln wollte.
+      — Zum Glück! Die {8} hat ihn gleich zu uns zurückgebracht.
+      — Jetzt {9} wir uns aber erst mal ein Eis, oder?
+      — Gute Idee, das haben wir uns nach dem Schreck echt {10}.
+    bank: [EINTRITT, FÜTTERUNGSZEIT, KINDERWAGEN, TREFFEN, TREFFPUNKT, LAUTSPRECHER, STREICHELZOO, TIERPFLEGERIN, GÖNNEN, VERDIENT, AQUARIUM, SPIELPLATZ, SICHERHEITSDIENST, FOTOAPPARAT]
+    answers:
+      "1": EINTRITT
+      "2": FÜTTERUNGSZEIT
+      "3": KINDERWAGEN
+      "4": TREFFEN
+      "5": TREFFPUNKT
+      "6": LAUTSPRECHER
+      "7": STREICHELZOO
+      "8": TIERPFLEGERIN
+      "9": GÖNNEN
+      "10": VERDIENT
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "An der Kasse und bei den Tieren"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du möchtest an der Kasse den Preis für die Eintrittskarten erfragen. — You want to ask the price at the ticket counter."
+        options:
+          - { key: a, text: "Wie viel kostet der Eintritt für zwei Erwachsene und zwei Kinder?" }
+          - { key: b, text: "Zeigen Sie mir einfach die billigste Karte." }
+          - { key: c, text: "Preise sind mir egal." }
+        answer: a
+        why: "Eine konkrete, höfliche Frage nennt die Personenzahl und ist der übliche Einstieg an der Kasse."
+      - q: "Du möchtest wissen, wann die Fütterung der Löwen ist. — You want to know when the lions are fed."
+        options:
+          - { key: a, text: "Fütterung interessiert mich nicht." }
+          - { key: b, text: "Wann ist die Fütterungszeit der Löwen?" }
+          - { key: c, text: "Löwen sind mir zu gefährlich." }
+        answer: b
+        why: "Eine direkte Frage nach der Uhrzeit hilft, den Besuch zu planen."
+      - q: "Ein Kind ist plötzlich verschwunden. — A child has suddenly gone missing."
+        options:
+          - { key: a, text: "Ruhig bleiben und zuerst am vereinbarten Treffpunkt nachsehen." }
+          - { key: b, text: "Sofort in Panik laut schreien." }
+          - { key: c, text: "Einfach allein weitersuchen und niemandem Bescheid sagen." }
+        answer: a
+        why: "Ruhe zu bewahren und den vereinbarten Treffpunkt zu prüfen ist der erste sinnvolle Schritt."
+      - q: "Du möchtest fragen, ob man die Tiere im Streichelzoo anfassen darf. — You want to ask whether petting the animals is allowed."
+        options:
+          - { key: a, text: "Anfassen ist bestimmt verboten, ich frage lieber nicht." }
+          - { key: b, text: "Ich fasse die Tiere einfach an, ohne zu fragen." }
+          - { key: c, text: "Dürfen wir die Tiere im Streichelzoo streicheln?" }
+        answer: c
+        why: "Eine kurze Nachfrage ist höflich und klärt sicher, was erlaubt ist."
+      - q: "Die Tierpflegerin fragt, ob die Kinder Fragen zu den Tieren haben. — The zookeeper asks if the children have questions about the animals."
+        options:
+          - { key: a, text: "Ja, warum fressen die Elefanten so viel?" }
+          - { key: b, text: "Nein, Tiere interessieren uns überhaupt nicht." }
+          - { key: c, text: "Fragen stellen wir nie." }
+        answer: a
+        why: "Eine neugierige Frage nutzt die Gelegenheit, direkt von der Tierpflegerin zu lernen."
+      - q: "Du möchtest einen Kinderwagen ausleihen. — You want to rent a stroller."
+        options:
+          - { key: a, text: "Kinderwagen brauche ich sowieso nicht." }
+          - { key: b, text: "Können wir hier einen Kinderwagen ausleihen?" }
+          - { key: c, text: "Ich trage das Kind einfach den ganzen Tag." }
+        answer: b
+        why: "Eine klare Frage an der Kasse ist der übliche Weg, einen Kinderwagen zu bekommen."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze im Zoo bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Wie", "viel", "kostet", "der", "Eintritt", "für", "zwei", "Kinder", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Frage mit kosten, Subjekt nach dem Verb"
+      - tiles: ["Können", "wir", "hier", "einen", "Kinderwagen", "ausleihen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Frage mit Modalverb, Infinitiv am Ende"
+      - tiles: ["Wir", "treffen", "uns", "am", "Treffpunkt", "vor", "dem", "Haupteingang"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Hauptsatz, Verb an Position 2"
+      - tiles: ["Falls", "sich", "ein", "Kind", "verläuft", ",", "bleiben", "wir", "ruhig"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+        note: "Nebensatz mit falls, Hauptsatz mit Verb an Position 2"
+      - tiles: ["Dürfen", "wir", "die", "Tiere", "im", "Streichelzoo", "streicheln", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Frage mit dürfen, Infinitiv am Ende"
+      - tiles: ["Die", "Kinder", "haben", "die", "Ziegen", "gestreichelt"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Perfekt, Partizip am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Zoo-Infos lesen"
+    instructions: |
+      > **Info — Zoobesuch**
+      >
+      > - **Eintritt:** Kinder unter **4 Jahren** zahlen nichts.
+      > - **Fütterungszeiten:** Löwen um **14 Uhr**, Pinguine um
+      >   **15:30 Uhr**.
+      > - **Streichelzoo:** täglich geöffnet, **Hände vorher waschen**
+      >   empfohlen.
+      > - **Kinderwagen-Verleih:** kostet **3 Euro**, Kaution
+      >   **10 Euro**.
+      > - **Verlorenes Kind:** am **Treffpunkt vor dem Haupteingang**
+      >   warten, Security informieren.
+      > - **Fotografieren:** in den meisten Gehegen erlaubt,
+      >   **Blitzlicht verboten**.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Kinder unter vier Jahren zahlen keinen Eintritt. — Children under four don't pay admission."
+        answer: true
+        why: "So steht es ausdrücklich in den Zoo-Infos."
+      - q: "Die Fütterung der Pinguine ist bereits um 12 Uhr. — The penguins are fed as early as noon."
+        answer: false
+        why: "Sie ist um 15:30 Uhr, nicht um 12 Uhr."
+      - q: "Vor dem Streichelzoo sollte man sich die Hände waschen. — Hands should be washed before the petting zoo."
+        answer: true
+        why: "„Hände vorher waschen empfohlen.“"
+      - q: "Der Kinderwagen-Verleih ist komplett kostenlos. — The stroller rental is completely free."
+        answer: false
+        why: "Er kostet 3 Euro, plus 10 Euro Kaution."
+      - q: "Ein verlorenes Kind sollte man allein durch den ganzen Zoo suchen, ohne die Security zu informieren. — A lost child should be searched for alone, without informing security."
+        answer: false
+        why: "Man soll am Treffpunkt warten und die Security informieren."
+      - q: "Blitzlicht ist beim Fotografieren in den Gehegen verboten. — Flash photography is forbidden in the enclosures."
+        answer: true
+        why: "„Fotografieren: … Blitzlicht verboten.“"
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn beim Zoobesuch etwas schiefgeht"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Ein Kind verläuft sich im Gedränge. — A child gets lost in the crowd."
+        options:
+          - { key: a, text: "In Panik wild durch den Zoo rennen." }
+          - { key: b, text: "Ruhig zum Treffpunkt gehen und dort warten." }
+          - { key: c, text: "Einfach den Zoobesuch abbrechen und nach Hause fahren." }
+        answer: b
+        why: "Der vereinbarte Treffpunkt ist genau für diesen Fall da."
+      - q: "Ein Kind wird beim Streicheln von einer Ziege leicht gebissen. — A child gets lightly bitten by a goat while petting it."
+        options:
+          - { key: a, text: "Die Ziege laut anschreien." }
+          - { key: b, text: "Einfach weitermachen, als wäre nichts passiert." }
+          - { key: c, text: "Die Wunde kurz ansehen und beim Personal nach Erster Hilfe fragen." }
+        answer: c
+        why: "Eine kurze Prüfung und Nachfrage beim Personal ist die sichere Reaktion."
+      - q: "Es fängt plötzlich stark an zu regnen. — It suddenly starts raining heavily."
+        options:
+          - { key: a, text: "Sich unter einem überdachten Bereich unterstellen und abwarten." }
+          - { key: b, text: "Trotzdem stundenlang im Regen weiterlaufen." }
+          - { key: c, text: "Panisch zum Ausgang rennen und alle anschreien." }
+        answer: a
+        why: "Unterstellen und abwarten ist die entspannteste Lösung bei plötzlichem Regen."
+      - q: "Ein Kind will partout nicht mehr laufen und weint. — A child refuses to walk any further and cries."
+        options:
+          - { key: a, text: "Das Kind einfach stehen lassen." }
+          - { key: b, text: "Eine kurze Pause auf einer Bank einlegen und etwas trinken." }
+          - { key: c, text: "Laut schimpfen, damit es weiterläuft." }
+        answer: b
+        why: "Eine kurze Pause hilft dem Kind oft mehr als Druck oder Schimpfen."
+      - q: "Die Eintrittskarten sind plötzlich nicht mehr auffindbar. — The tickets have suddenly gone missing."
+        options:
+          - { key: a, text: "Einfach ohne zu bezahlen hineingehen." }
+          - { key: b, text: "Sofort wieder nach Hause fahren." }
+          - { key: c, text: "Ruhig an der Kasse nachfragen, ob eine Kopie möglich ist." }
+        answer: c
+        why: "Eine ruhige Nachfrage an der Kasse löst das Problem meistens schnell."
+      - q: "Ein Kind möchte unbedingt zu nah ans Gehege eines Löwen. — A child wants to get too close to the lion enclosure."
+        options:
+          - { key: a, text: "Das Kind ruhig, aber bestimmt zurückhalten und erklären, warum das gefährlich ist." }
+          - { key: b, text: "Das Kind einfach machen lassen." }
+          - { key: c, text: "Laut schreien und das Kind erschrecken." }
+        answer: a
+        why: "Ruhig, aber bestimmt zu reagieren erklärt die Gefahr, ohne das Kind zu erschrecken."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Das Kind hat sich im Gedränge {1}. (den Weg verloren, Partizip reflexiv)
+      2. Die Ziege hat das Kind leicht {2}. (mit den Zähnen verletzt, Partizip)
+      3. Wir haben uns bei Regen {3}. (Schutz gesucht, Partizip reflexiv)
+      4. Das Kind hat eine kurze {4} gebraucht. (Ruhepause)
+      5. Die Eintrittskarten waren plötzlich {5}. (nicht mehr zu finden)
+      6. Wir haben das Kind vom Gehege {6}. (weggehalten, Partizip)
+    answers:
+      "1": verlaufen
+      "2": gebissen
+      "3": untergestellt
+      "4": Pause
+      "5": verschwunden
+      "6": zurückgehalten
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Wir {1} noch Eintrittskarten kaufen. (must)
+      2. {2} du mir helfen, den Kinderwagen zu tragen? (could — können)
+      3. Ich {3} schon den Lageplan angeschaut. (have — Perfekt)
+      4. An der Kasse kaufen wir die {4}. (tickets)
+      5. Die Elefanten leben in einem großen {5}. (enclosure)
+      6. Um vier Uhr ist die {6} der Pinguine. (feeding time)
+      7. Im {7} dürfen die Kinder Ziegen streicheln. (petting zoo)
+      8. Falls wir uns verlieren, treffen wir uns am {8}. (meeting point)
+      9. Die {9} beantwortet geduldig alle Fragen. (zookeeper, f.)
+      10. Das Kind hat sich im Gedränge {10}. (got lost — Partizip)
+      11. Die Ziege hat das Kind leicht {11}. (bitten — Partizip)
+      12. Wir haben uns bei Regen {12}. (took shelter — Partizip)
+      13. Die Eintrittskarten waren plötzlich {13}. (gone/missing)
+      14. Wir haben das Kind vom Gehege {14}. (held back — Partizip)
+    answers:
+      "1": müssen
+      "2": Könntest
+      "3": habe
+      "4": Eintrittskarten
+      "5": Gehege
+      "6": Fütterungszeit
+      "7": Streichelzoo
+      "8": Treffpunkt
+      "9": Tierpflegerin
+      "10": verlaufen
+      "11": gebissen
+      "12": untergestellt
+      "13": verschwunden
+      "14": zurückgehalten
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Planen, ein Problem, die Lösung"
+    prompt: "Schreib drei Teile: den Zoobesuch planen, ein Kind verläuft sich, und die Lösung. Zusammen 16–20 Sätze."
+    stimulus: |
+      Du besuchst mit zwei Kindern den Zoo. Ihr kauft Eintrittskarten
+      und leiht einen Kinderwagen aus. Im Gedränge beim Streichelzoo
+      verliert ihr plötzlich eines der Kinder aus den Augen.
+
+      Beim Planen müssen vorkommen:
+      1. an der Kasse nach dem Preis fragen
+      2. einen Kinderwagen ausleihen
+      3. die Fütterungszeit der Löwen erfragen
+
+      Beim Problem müssen vorkommen:
+      4. merken, dass ein Kind fehlt
+      5. ruhig bleiben und zum Treffpunkt gehen
+      6. die Security informieren
+
+      In der Lösung müssen vorkommen:
+      7. das Kind beim Streichelzoo wiederfinden
+      8. sich erleichtert freuen
+      9. sich zusammen ein Eis gönnen
+      10. den Zoobesuch entspannt fortsetzen
+    use:
+      - "höfliche Frage: „Wie viel kostet der Eintritt?“"
+      - "Nebensatz mit falls: „Falls sich ein Kind verläuft, …“"
+      - "Perfekt: „Wir haben es geschafft.“"
+    selfCheck:
+      - "Wird an der Kasse höflich nach dem Preis gefragt?"
+      - "Klingt die Reaktion auf das verlorene Kind ruhig und lösungsorientiert?"
+      - "Wird der Treffpunkt als Lösung erwähnt?"
+      - "Kommen alle 10 Punkte vor?"
+    model: |
+      **Planen**
+
+      Ich: Guten Tag, wie viel kostet der Eintritt für zwei Erwachsene und zwei Kinder?
+      Kassiererin: Das macht 38 Euro. Möchten Sie auch einen Kinderwagen ausleihen?
+      Ich: Ja gerne. Und wann ist die Fütterungszeit der Löwen?
+      Kassiererin: Um 14 Uhr, das schaffen Sie locker.
+
+      **Das Problem**
+
+      Ich: Warte, wo ist Tom? Ich sehe ihn nicht mehr!
+      Freund: Bleib ruhig, wir treffen uns am Treffpunkt vor dem Haupteingang.
+      Ich: Gut, ich informiere schon mal die Security.
+
+      **Die Lösung**
+
+      Security: Da ist er ja, er hat sich nur im Streichelzoo verlaufen.
+      Ich: Zum Glück, ich bin so erleichtert!
+      Freund: Jetzt gönnen wir uns aber erst mal ein Eis, oder?
+      Ich: Gute Idee, das haben wir uns nach dem Schreck echt verdient.
+      Freund: Und jetzt weiter zur Fütterungszeit der Löwen!
