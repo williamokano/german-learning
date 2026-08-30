@@ -335,6 +335,24 @@ Same discipline as a `THEMEN/` set:
 - **47 — Handyvertrag abschließen** (B1) — Tarife vergleichen,
   Rufnummernmitnahme, Laufzeit und Kündigungsfrist; zu hohe Rechnung,
   schlechter Empfang, ungewollte Zusatzleistung.
+- **48 — Biergarten und Volksfest** (A2) — sich einen Tisch mit Fremden
+  teilen, Selbstbedienung oder Bedienung, den Pfandkrug zurückgeben;
+  kein Platz mehr, sich in der Menge verlieren.
+- **49 — Im Einkaufszentrum** (A2) — ein Geschäft finden, in der
+  Umkleide eine andere Größe erbitten, den Parkschein entwerten;
+  verlorener Parkschein, verpasster Treffpunkt.
+- **50 — Tanken und E-Auto laden** (A2) — an der Zapfsäule die Sorte
+  wählen und an der Kasse zahlen, an der Ladesäule laden; falsche
+  Sorte fast getankt, Ladepunkt besetzt.
+- **51 — Einem Verein beitreten** (A2) — zum Probetraining gehen, sich
+  der Gruppe vorstellen, den Mitgliedsantrag ausfüllen; abgesagtes
+  Probetraining, überschneidende Trainingszeit.
+- **52 — Impftermin und Vorsorge** (A2) — einen Termin vereinbaren, den
+  Impfpass mitbringen, nach Nebenwirkungen fragen; verlorener Impfpass,
+  verpasste Vorsorgeuntersuchung.
+- **53 — Sich höflich beschweren** (A2) — ein Anliegen sachlich
+  vorbringen, quer durch mehrere Alltagssituationen; defensive
+  Reaktion, keine Antwort, falsche Ansprechperson.
 
 ## Themenspeicher
 
@@ -342,25 +360,25 @@ Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
 wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 
 **Essen & Trinken** — Lieferdienst:
-falsche Bestellung · Biergarten und Volksfest · Die Rechnung: zusammen oder
+falsche Bestellung · Die Rechnung: zusammen oder
 getrennt? · Beim Eismann mit Kindern
 
-**Einkaufen** — Im Einkaufszentrum / in den Arcaden · Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
+**Einkaufen** — Möbelhaus: Lieferung und Aufbau · Auf dem Flohmarkt handeln ·
 Online bestellt, falsch geliefert: Widerruf · Ein Buch kaufen · Ein Auto kaufen
 (B1) · Eine Wohnung kaufen (B2)
 
 **Unterwegs** — Größere Reparatur in der Werkstatt · Am Bahnhof: Verspätung, Anschluss verpasst, Fahrgastrechte
-(B1) · Tanken und E-Auto laden ·
+(B1) ·
 Mietwagen abholen und Schaden melden · Falsch geparkt: Knöllchen und
 Abschleppdienst · Verkehrskontrolle und Unfall melden · Führerschein machen
 
-**Freizeit & Kultur** — Einem Verein beitreten ·
+**Freizeit & Kultur** —
 Wandern und Klettern · Im Zoo mit Kindern · Ein Fußballspiel im Stadion
 
 **Sport & Gesundheit** — Im Fitnessstudio: trainieren, Gerät abgeben, um
 Hilfestellung bitten, Tipps geben und abwehren (A2) ·
 Krankschreibung beim Arbeitgeber · Physiotherapie: Rezept, Termine,
-Übungen · Impftermin und Vorsorge
+Übungen
 
 **Wohnen & Nachbarschaft** — Mängel melden:
 Heizung, Schimmel, Wasserschaden (B1) · Umzug organisieren · Handwerker bestellen ·
@@ -382,7 +400,7 @@ Klassenfahrt (A2) · Um eine Gehaltserhöhung bitten (B2) · Konflikt mit
 Kolleginnen ansprechen (B2) · Kündigung schreiben · Uni: Immatrikulation,
 Prüfungsamt, BAföG
 
-**Soziales** — Eine Überraschungsparty planen · Sich höflich beschweren ·
+**Soziales** — Eine Überraschungsparty planen ·
 Sich entschuldigen und ein Missverständnis klären · Gratulieren und
 kondolieren · Elternabend · Ein Geschenk aussuchen und überreichen
 
