@@ -1,0 +1,458 @@
+lesson: "SIT/70-kita-platz-a2"
+title: "Kita-Platz beantragen — A2"
+topic: "Kita-Platz beantragen"
+category: "Behörden & Formelles"
+level: A2
+summary: "Einen Kita-Gutschein beantragen, sich auf eine Warteliste setzen lassen, das Kennenlerngespräch führen — und was tun, wenn kein Platz frei ist oder die Eingewöhnung schwerfällt."
+intro: >
+  Ein Kita-Platz braucht Vorlauf: beim Jugendamt einen Kita-Gutschein
+  beantragen, sich bei mehreren Kitas anmelden, ein Kennenlerngespräch
+  vereinbaren und die Eingewöhnungszeit einplanen. Dieses Set übt genau
+  das — nach einem freien Platz fragen, den gewünschten
+  Betreuungsumfang klären, und was zu tun ist, wenn alle Kitas
+  ausgebucht sind oder die Eingewöhnung schwerfällt. Grammatik nach
+  Bedarf: Perfekt im Bericht, höfliche Fragen, Nebensätze mit falls.
+  Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn es
+  schiefgeht → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Anmelden, kennenlernen oder eingewöhnen?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: anmelden, label: "Anmelden" }
+      - { key: kennenlernen, label: "Kennenlernen" }
+      - { key: eingewoehnen, label: "Eingewöhnen" }
+    tokens:
+      - { text: "sich beim Jugendamt informieren", bucket: anmelden }
+      - { text: "einen Kita-Gutschein beantragen", bucket: anmelden }
+      - { text: "die Anmeldung ausfüllen", bucket: anmelden }
+      - { text: "auf die Warteliste kommen", bucket: anmelden }
+      - { text: "einen Termin für ein Kennenlerngespräch vereinbaren", bucket: kennenlernen }
+      - { text: "die Kita besichtigen", bucket: kennenlernen }
+      - { text: "Fragen zum Betreuungsumfang stellen", bucket: kennenlernen }
+      - { text: "die Erzieherinnen kennenlernen", bucket: kennenlernen }
+      - { text: "die Eingewöhnungszeit einplanen", bucket: eingewoehnen }
+      - { text: "das Kind langsam gewöhnen", bucket: eingewoehnen }
+      - { text: "in der Nähe bleiben", bucket: eingewoehnen }
+      - { text: "sich langsam verabschieden", bucket: eingewoehnen }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "der Betreuungsplatz" }
+      - { key: "2", text: "die Warteliste" }
+      - { key: "3", text: "das Kennenlerngespräch" }
+      - { key: "4", text: "die Eingewöhnung" }
+      - { key: "5", text: "der Betreuungsumfang" }
+      - { key: "6", text: "der Kita-Gutschein" }
+      - { key: "7", text: "die Anmeldung" }
+      - { key: "8", text: "das Jugendamt" }
+    right:
+      - { key: a, text: "der Platz für ein Kind in der Kita" }
+      - { key: b, text: "die Liste der Kinder, die auf einen Platz warten" }
+      - { key: c, text: "das erste Gespräch mit der Kita-Leitung" }
+      - { key: d, text: "die schrittweise Gewöhnung des Kindes an die Kita" }
+      - { key: e, text: "wie viele Stunden das Kind betreut wird" }
+      - { key: f, text: "das Dokument vom Jugendamt für die Kostenübernahme" }
+      - { key: g, text: "die offizielle Bewerbung um einen Platz" }
+      - { key: h, text: "die Behörde, die für Kita-Plätze zuständig ist" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die Suche planen"
+    instructions: "Ergänze das Modalverb oder die Verbform."
+    instructionsEn: "Fill in the modal verb or verb form."
+    text: |
+      1. Wir {1} uns rechtzeitig um einen Kita-Platz kümmern. (Modalverb, wir-Form)
+      2. {2} Sie uns auf die Warteliste setzen? (können, Sie-Form)
+      3. Wir {3} schon die Anmeldung ausgefüllt. (haben, Perfekt)
+      4. {4} wir noch einen Kita-Gutschein beantragen? (müssen, wir-Form)
+      5. Falls kein Platz frei {5}, bleiben wir auf der Warteliste. (sein, Präsens)
+      6. Die Kita-Leitung {6} sich bald bei uns melden. (werden, Futur I)
+      7. Wir {7} schon ein Kennenlerngespräch gehabt. (haben, Perfekt)
+      8. {8} ich mein Kind schon zur Eingewöhnung anmelden? (können, ich-Form)
+    answers:
+      "1": müssen
+      "2": Können
+      "3": haben
+      "4": Müssen
+      "5": ist
+      "6": wird
+      "7": haben
+      "8": Kann
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Für unser Kind suchen wir einen {1}. (der Platz für ein Kind in der Kita)
+      2. Weil alle Plätze belegt sind, stehen wir auf der {2}. (die Liste der wartenden Kinder)
+      3. Beim {3} lernen wir die Kita-Leitung persönlich kennen. (das erste Gespräch mit der Kita-Leitung)
+      4. Die {4} dauert meist zwei bis vier Wochen. (die schrittweise Gewöhnung des Kindes)
+      5. Wir müssen uns noch für den {5} entscheiden, halbtags oder ganztags. (wie viele Stunden das Kind betreut wird)
+      6. Für die Kostenübernahme brauchen wir einen {6} vom Jugendamt. (das Dokument für die Kostenübernahme)
+    answers:
+      "1": Betreuungsplatz
+      "2": Warteliste
+      "3": Kennenlerngespräch
+      "4": Eingewöhnung
+      "5": Betreuungsumfang
+      "6": Kita-Gutschein
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Beim Jugendamt und in der Kita"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Guten Tag, wir suchen für unser Kind einen {1} und wissen
+      nicht genau, wie wir anfangen sollen.
+      — Als Erstes brauchen Sie einen {2} von uns, den können Sie
+      online beantragen.
+      — Danke, und wie lange dauert die Bearbeitung ungefähr?
+      — Meistens zwei bis drei Wochen.
+      (Telefonat mit einer Kita)
+      — Guten Tag, wir möchten unser Kind gerne bei Ihnen {3}.
+      — Gerne, aktuell sind leider alle Plätze belegt, ich setze Sie
+      auf die {4}.
+      — Verstehe. Können wir trotzdem ein {5} vereinbaren?
+      — Ja, kommen Sie doch nächste Woche vorbei.
+      (beim Kennenlerngespräch)
+      — Wie sieht es eigentlich mit dem {6} aus — bieten Sie auch
+      Ganztagsbetreuung an?
+      — Ja, das ist kein Problem.
+      — Und wie läuft die {7} bei Ihnen normalerweise ab?
+      — Wir planen dafür etwa drei Wochen, das Kind {8} sich
+      langsam an uns.
+      — Das klingt gut. Wann könnten wir denn realistisch mit einem
+      Platz {9}?
+      — Das hängt von der Warteliste ab, aber wir {10} Sie auf
+      jeden Fall informieren.
+    bank: [BETREUUNGSPLATZ, GUTSCHEIN, ANMELDEN, WARTELISTE, KENNENLERNGESPRÄCH, BETREUUNGSUMFANG, EINGEWÖHNUNG, GEWÖHNT, RECHNEN, WERDEN, ERZIEHERIN, SPIELPLATZ, ELTERNABEND, VORSORGEUNTERSUCHUNG]
+    answers:
+      "1": BETREUUNGSPLATZ
+      "2": GUTSCHEIN
+      "3": ANMELDEN
+      "4": WARTELISTE
+      "5": KENNENLERNGESPRÄCH
+      "6": BETREUUNGSUMFANG
+      "7": EINGEWÖHNUNG
+      "8": GEWÖHNT
+      "9": RECHNEN
+      "10": WERDEN
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Anfragen und Klären"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du möchtest beim Jugendamt nach dem Kita-Gutschein fragen. — You want to ask the youth welfare office about the childcare voucher."
+        options:
+          - { key: a, text: "Gutscheine interessieren mich nicht." }
+          - { key: b, text: "Wie beantrage ich einen Kita-Gutschein für mein Kind?" }
+          - { key: c, text: "Kosten sind mir völlig egal." }
+        answer: b
+        why: "Eine direkte, konkrete Frage ist der übliche erste Schritt beim Jugendamt."
+      - q: "Du möchtest wissen, ob noch ein Betreuungsplatz frei ist. — You want to know whether a childcare spot is still available."
+        options:
+          - { key: a, text: "Plätze sind mir egal." }
+          - { key: b, text: "Wir warten einfach ab, ohne zu fragen." }
+          - { key: c, text: "Haben Sie noch einen freien Betreuungsplatz?" }
+        answer: c
+        why: "Eine direkte Nachfrage klärt sofort, ob überhaupt ein Platz möglich ist."
+      - q: "Du möchtest ein Kennenlerngespräch vereinbaren. — You want to arrange a get-to-know meeting."
+        options:
+          - { key: a, text: "Können wir ein Kennenlerngespräch vereinbaren?" }
+          - { key: b, text: "Kennenlernen ist mir zu aufwendig." }
+          - { key: c, text: "Wir kommen einfach unangemeldet vorbei." }
+        answer: a
+        why: "Eine höfliche Anfrage ist der übliche Weg zu einem Kennenlerngespräch."
+      - q: "Du möchtest wissen, wie lange die Eingewöhnung dauert. — You want to know how long the settling-in period takes."
+        options:
+          - { key: a, text: "Eingewöhnung interessiert mich nicht." }
+          - { key: b, text: "Wie lange dauert die Eingewöhnung normalerweise?" }
+          - { key: c, text: "Das Kind gewöhnt sich schon irgendwie." }
+        answer: b
+        why: "Eine konkrete Frage zur Dauer hilft bei der eigenen Planung."
+      - q: "Die Kita fragt nach dem gewünschten Betreuungsumfang. — The daycare asks about the desired scope of care."
+        options:
+          - { key: a, text: "Betreuungsumfang ist mir egal." }
+          - { key: b, text: "Ich weiß noch nicht, wie viele Stunden ich brauche." }
+          - { key: c, text: "Wir hätten gerne eine Ganztagsbetreuung." }
+        answer: c
+        why: "Eine klare Angabe des gewünschten Umfangs erleichtert die Planung der Kita."
+      - q: "Du stehst auf der Warteliste und möchtest den Status erfragen. — You're on the waiting list and want to ask about your status."
+        options:
+          - { key: a, text: "Wie ist eigentlich unser aktueller Stand auf der Warteliste?" }
+          - { key: b, text: "Wartelisten interessieren mich nicht." }
+          - { key: c, text: "Ich warte einfach, ohne nachzufragen." }
+        answer: a
+        why: "Eine gelegentliche Nachfrage zum Status ist völlig normal und hilfreich."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze zum Kita-Platz bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Wie", "beantrage", "ich", "einen", "Kita-Gutschein", "?"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "W-Frage mit Verb an Position 2"
+      - tiles: ["Haben", "Sie", "noch", "einen", "freien", "Betreuungsplatz", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Ja/Nein-Frage mit haben"
+      - tiles: ["Können", "wir", "ein", "Kennenlerngespräch", "vereinbaren", "?"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "höfliche Frage, Infinitiv am Ende"
+      - tiles: ["Falls", "kein", "Platz", "frei", "ist", ",", "bleiben", "wir", "auf", "der", "Warteliste"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        note: "Nebensatz mit falls, Hauptsatz mit Verb an Position 2"
+      - tiles: ["Wie", "lange", "dauert", "die", "Eingewöhnung", "?"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "W-Frage mit Verb an Position 2"
+      - tiles: ["Wir", "haben", "schon", "ein", "Kennenlerngespräch", "gehabt"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Perfekt, Partizip am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Kita-Infos lesen"
+    instructions: |
+      > **Info — Kita-Platz**
+      >
+      > - **Kita-Gutschein:** beim Jugendamt beantragen, Bearbeitung
+      >   dauert meist **2–3 Wochen**.
+      > - **Anmeldung:** am besten **so früh wie möglich**, oft
+      >   schon während der Schwangerschaft.
+      > - **Warteliste:** viele Kitas führen eine eigene Liste,
+      >   **zusätzlich zum Jugendamt**.
+      > - **Eingewöhnung:** dauert meist **2 bis 4 Wochen**, ein
+      >   Elternteil bleibt anfangs dabei.
+      > - **Betreuungsumfang:** meist wählbar zwischen **Halbtags-
+      >   und Ganztagsbetreuung**.
+      > - **Kosten:** hängen oft vom **Einkommen der Eltern** ab.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Der Kita-Gutschein wird beim Jugendamt beantragt. — The childcare voucher is applied for at the youth welfare office."
+        answer: true
+        why: "So steht es ausdrücklich in den Kita-Infos."
+      - q: "Man sollte sich erst kurz vor dem gewünschten Starttermin um einen Platz kümmern. — You should only start looking for a spot shortly before the desired start date."
+        answer: false
+        why: "Man sollte sich so früh wie möglich kümmern, nicht erst kurz vorher."
+      - q: "Viele Kitas führen zusätzlich zum Jugendamt eine eigene Warteliste. — Many daycares keep their own waiting list in addition to the youth welfare office."
+        answer: true
+        why: "„Warteliste: viele Kitas führen eine eigene Liste, zusätzlich zum Jugendamt.“"
+      - q: "Die Eingewöhnung dauert normalerweise nur ein bis zwei Tage. — Settling in usually only takes one or two days."
+        answer: false
+        why: "Sie dauert meist 2 bis 4 Wochen, nicht ein bis zwei Tage."
+      - q: "Zwischen Halbtags- und Ganztagsbetreuung kann man meist wählen. — You can usually choose between half-day and full-day care."
+        answer: true
+        why: "„Betreuungsumfang: meist wählbar zwischen Halbtags- und Ganztagsbetreuung.“"
+      - q: "Die Kosten für die Kita sind überall identisch und unabhängig vom Einkommen. — Childcare costs are identical everywhere, regardless of income."
+        answer: false
+        why: "Sie hängen oft vom Einkommen der Eltern ab."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn bei der Kita-Suche etwas schiefgeht"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Alle Kitas in der Nähe haben eine lange Warteliste. — All nearby daycares have a long waiting list."
+        options:
+          - { key: a, text: "Einfach aufgeben und keine Kita mehr suchen." }
+          - { key: b, text: "Sich zusätzlich bei weiter entfernten Kitas informieren." }
+          - { key: c, text: "Sich bei allen Kitas gleichzeitig laut beschweren." }
+        answer: b
+        why: "Auch weiter entfernte Kitas zu prüfen erhöht die Chancen auf einen Platz."
+      - q: "Der Kita-Gutschein wird viel später als erwartet bearbeitet. — The childcare voucher takes much longer to process than expected."
+        options:
+          - { key: a, text: "Einfach endlos weiter warten, ohne nachzufragen." }
+          - { key: b, text: "Die Anmeldung sofort zurückziehen." }
+          - { key: c, text: "Höflich beim Jugendamt nach dem Bearbeitungsstand fragen." }
+        answer: c
+        why: "Eine höfliche Nachfrage klärt meist schnell, woran es liegt."
+      - q: "Das Kind weint während der Eingewöhnung stark und will nicht bleiben. — The child cries a lot during settling-in and doesn't want to stay."
+        options:
+          - { key: a, text: "Sich Zeit lassen und mit den Erzieherinnen das weitere Vorgehen besprechen." }
+          - { key: b, text: "Das Kind einfach allein zurücklassen und schnell gehen." }
+          - { key: c, text: "Die Eingewöhnung sofort komplett abbrechen." }
+        answer: a
+        why: "Geduld und Absprache mit den Erzieherinnen sind der übliche Weg bei einer schwierigen Eingewöhnung."
+      - q: "Der gewünschte Betreuungsumfang wird von der Kita abgelehnt. — The desired scope of care is refused by the daycare."
+        options:
+          - { key: a, text: "Den abgelehnten Umfang kommentarlos akzeptieren." }
+          - { key: b, text: "Nach Alternativen fragen, z. B. einer Warteliste für mehr Stunden." }
+          - { key: c, text: "Die Kita sofort wechseln, ohne nachzufragen." }
+        answer: b
+        why: "Eine Nachfrage nach Alternativen findet oft doch noch eine passende Lösung."
+      - q: "Kurz vor der Eingewöhnung wird der Platz plötzlich storniert. — Shortly before settling-in, the spot is suddenly cancelled."
+        options:
+          - { key: a, text: "Einfach eine andere Kita suchen, ohne nachzufragen." }
+          - { key: b, text: "Nichts unternehmen und abwarten." }
+          - { key: c, text: "Sofort mit der Kita-Leitung und dem Jugendamt sprechen." }
+        answer: c
+        why: "Ein direktes Gespräch klärt schnell, ob und wie sich das Problem lösen lässt."
+      - q: "Man ist sich unsicher, welche Unterlagen für die Anmeldung nötig sind. — You're unsure which documents are needed for registration."
+        options:
+          - { key: a, text: "Direkt bei der Kita oder dem Jugendamt nachfragen." }
+          - { key: b, text: "Einfach irgendwelche Unterlagen einreichen." }
+          - { key: c, text: "Die Anmeldung ohne Unterlagen abschicken." }
+        answer: a
+        why: "Eine direkte Nachfrage vermeidet unnötige Verzögerungen durch fehlende Unterlagen."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Alle Kitas in der Nähe hatten eine lange {1}. (Liste der Wartenden)
+      2. Der Kita-Gutschein wurde viel später als erwartet {2}. (behandelt, Partizip)
+      3. Das Kind hat während der Eingewöhnung stark {3}. (Tränen vergossen, Partizip)
+      4. Der gewünschte Betreuungsumfang wurde von der Kita {4}. (nicht genehmigt, Partizip)
+      5. Der Platz wurde kurz vor der Eingewöhnung plötzlich {5}. (rückgängig gemacht, Partizip)
+      6. Wir haben direkt beim Jugendamt {6}. (um Auskunft gebeten, Partizip)
+    answers:
+      "1": Warteliste
+      "2": bearbeitet
+      "3": geweint
+      "4": abgelehnt
+      "5": storniert
+      "6": nachgefragt
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Wir {1} uns rechtzeitig um einen Kita-Platz kümmern. (must)
+      2. {2} Sie uns auf die Warteliste setzen? (could — können)
+      3. Wir {3} schon die Anmeldung ausgefüllt. (have — Perfekt)
+      4. Für unser Kind suchen wir einen {4}. (childcare spot)
+      5. Weil alle Plätze belegt sind, stehen wir auf der {5}. (waiting list)
+      6. Beim {6} lernen wir die Kita-Leitung kennen. (get-to-know meeting)
+      7. Die {7} dauert meist zwei bis vier Wochen. (settling-in period)
+      8. Wir müssen uns für den {8} entscheiden. (scope of care)
+      9. Für die Kostenübernahme brauchen wir einen {9} vom Jugendamt. (childcare voucher)
+      10. Alle Kitas in der Nähe hatten eine lange {10}. (waiting list)
+      11. Der Kita-Gutschein wurde viel später {11}. (processed — Partizip)
+      12. Das Kind hat während der Eingewöhnung stark {12}. (cried — Partizip)
+      13. Der gewünschte Betreuungsumfang wurde {13}. (rejected — Partizip)
+      14. Der Platz wurde plötzlich {14}. (cancelled — Partizip)
+    answers:
+      "1": müssen
+      "2": Könnten
+      "3": haben
+      "4": Betreuungsplatz
+      "5": Warteliste
+      "6": Kennenlerngespräch
+      "7": Eingewöhnung
+      "8": Betreuungsumfang
+      "9": Kita-Gutschein
+      "10": Warteliste
+      "11": bearbeitet
+      "12": geweint
+      "13": abgelehnt
+      "14": storniert
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Anfragen, ein Problem, die Lösung"
+    prompt: "Schreib drei Teile: den Kita-Gutschein beantragen und ein Kennenlerngespräch vereinbaren, ein Problem mit einer langen Warteliste, und die Lösung. Zusammen 16–20 Sätze."
+    stimulus: |
+      Ihr sucht für euer Kind einen Kita-Platz. Ihr beantragt einen
+      Kita-Gutschein und ruft bei einer Kita in der Nähe an. Dort sind
+      leider alle Plätze belegt und ihr landet auf einer langen
+      Warteliste.
+
+      Beim Anfragen müssen vorkommen:
+      1. beim Jugendamt nach dem Kita-Gutschein fragen
+      2. bei einer Kita nach einem freien Platz fragen
+      3. ein Kennenlerngespräch vereinbaren
+
+      Beim Problem müssen vorkommen:
+      4. erfahren, dass alle Plätze belegt sind
+      5. auf die Warteliste kommen
+      6. sich zusätzlich bei einer weiteren Kita informieren
+
+      In der Lösung müssen vorkommen:
+      7. von der zweiten Kita einen freien Platz angeboten bekommen
+      8. den Betreuungsumfang klären
+      9. die Eingewöhnung gemeinsam planen
+      10. sich über den gefundenen Platz freuen
+    use:
+      - "höfliche Frage: „Haben Sie noch einen freien Betreuungsplatz?“"
+      - "Nebensatz mit falls: „Falls kein Platz frei ist, …“"
+      - "Perfekt: „Wir haben die Anmeldung ausgefüllt.“"
+    selfCheck:
+      - "Wird der Kita-Gutschein klar erwähnt?"
+      - "Klingt die Reaktion auf die volle Kita ruhig und lösungsorientiert?"
+      - "Wird die Eingewöhnung am Ende erwähnt?"
+      - "Kommen alle 10 Punkte vor?"
+    model: |
+      **Anfragen**
+
+      Ich: Guten Tag, wie beantrage ich einen Kita-Gutschein für mein Kind?
+      Jugendamt: Das können Sie ganz einfach online machen.
+      (bei einer Kita)
+      Ich: Guten Tag, haben Sie noch einen freien Betreuungsplatz?
+      Kita: Leider sind aktuell alle Plätze belegt.
+
+      **Das Problem**
+
+      Ich: Verstehe, können wir uns trotzdem auf die Warteliste setzen lassen?
+      Kita: Natürlich, gerne.
+      Ich: Dann informiere ich mich gleich noch bei einer zweiten Kita.
+
+      **Die Lösung**
+
+      Zweite Kita: Wir hätten tatsächlich noch einen Platz frei, wie sieht es mit dem Betreuungsumfang aus?
+      Ich: Wir hätten gerne eine Ganztagsbetreuung.
+      Kita: Perfekt, dann planen wir gleich die Eingewöhnung.
+      Ich: Endlich ein Platz gefunden — was für eine Erleichterung!

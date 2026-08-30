@@ -392,6 +392,27 @@ Same discipline as a `THEMEN/` set:
   neuen Kasse anmelden, die Familie mitversichern, die Kasse
   wechseln; verspätete Bescheinigung, gestiegener Zusatzbeitrag,
   abgelehnte Familienversicherung.
+- **66 — Ein Buch kaufen** (A2) — sich beraten lassen, zwischen
+  Taschenbuch und gebundener Ausgabe wählen, eine Leseprobe lesen;
+  vergriffenes Buch, verspätete Lieferung, Druckfehler.
+- **67 — Mietwagen abholen und Schaden melden** (A2) — den
+  Mietvertrag unterschreiben, die Versicherung klären, das Auto
+  prüfen; vorhandener Kratzer, nicht verfügbarer Wagen, verspätete
+  Rückgabe.
+- **68 — Ein Fußballspiel im Stadion** (A2) — Tickets kaufen,
+  Stehplatz oder Sitzplatz wählen, die Mannschaft anfeuern;
+  ausverkaufte Tickets, defektes digitales Ticket, besetzter Platz.
+- **69 — Mängel melden: Heizung, Schimmel, Wasserschaden** (B1) —
+  einen Mangel schriftlich melden, eine Frist setzen,
+  Beweisfotos schicken; ausbleibende Reaktion, sich ausbreitender
+  Schimmel, Heizungsausfall im Winter.
+- **70 — Kita-Platz beantragen** (A2) — den Kita-Gutschein
+  beantragen, sich auf eine Warteliste setzen lassen, das
+  Kennenlerngespräch führen; volle Warteliste, verzögerte
+  Bearbeitung, schwierige Eingewöhnung.
+- **71 — Eine Überraschungsparty planen** (A2) — die Gästeliste
+  erstellen, Aufgaben verteilen, einen Vorwand finden; fast
+  verratenes Geheimnis, zu früh ankommender Gast, kaputter Kuchen.
 
 ## Themenspeicher
 
@@ -399,38 +420,32 @@ Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
 wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 
 **Einkaufen** —
-Online bestellt, falsch geliefert: Widerruf · Ein Buch kaufen · Ein Auto kaufen
+Online bestellt, falsch geliefert: Widerruf · Ein Auto kaufen
 (B1) · Eine Wohnung kaufen (B2)
 
-**Unterwegs** — Größere Reparatur in der Werkstatt · Am Bahnhof: Verspätung, Anschluss verpasst, Fahrgastrechte
-(B1) ·
-Mietwagen abholen und Schaden melden · Falsch geparkt: Knöllchen und
+**Unterwegs** — Größere Reparatur in der Werkstatt ·
+Falsch geparkt: Knöllchen und
 Abschleppdienst · Verkehrskontrolle und Unfall melden · Führerschein machen
 
-**Freizeit & Kultur** —
-Ein Fußballspiel im Stadion
-
-**Wohnen & Nachbarschaft** — Mängel melden:
-Heizung, Schimmel, Wasserschaden (B1) ·
+**Wohnen & Nachbarschaft** —
 Nebenkostenabrechnung prüfen und widersprechen (B2)
 
-**Behörden & Formelles** — Bank: Konto eröffnen, Karte gesperrt · Rundfunkbeitrag ·
-Standesamt · Kita-Platz beantragen · Führungszeugnis · Anerkennung
+**Behörden & Formelles** — Rundfunkbeitrag ·
+Standesamt · Führungszeugnis · Anerkennung
 ausländischer Abschlüsse · Arbeitsagentur und Jobcenter
 
 **Geld & Verträge** — Stromanbieter wechseln · Versicherung: Schaden melden · Falsche Mahnung ·
 Betrug und Phishing melden
 
-**Wenn etwas schiefgeht** — Karte wird abgelehnt, nur Bargeld ·
-Geldautomat behält die Karte · Handy verloren: Anzeige bei der Polizei ·
-Internet fällt aus: Anruf beim Anbieter · Fundbüro · Portemonnaie vergessen
+**Wenn etwas schiefgeht** — Handy verloren: Anzeige bei der Polizei ·
+Internet fällt aus: Anruf beim Anbieter · Fundbüro
 
 **Arbeit & Studium** — In der Schule: Elterngespräch, Entschuldigung,
 Klassenfahrt (A2) · Um eine Gehaltserhöhung bitten (B2) · Konflikt mit
 Kolleginnen ansprechen (B2) · Kündigung schreiben · Uni: Immatrikulation,
 Prüfungsamt, BAföG
 
-**Soziales** — Eine Überraschungsparty planen ·
+**Soziales** —
 Sich entschuldigen und ein Missverständnis klären · Gratulieren und
 kondolieren · Elternabend · Ein Geschenk aussuchen und überreichen
 
