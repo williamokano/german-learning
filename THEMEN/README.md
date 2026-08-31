@@ -115,12 +115,19 @@ spans, same A/B/C/D block workflow:
 - **20 — Nominalstil und Verbalstil** (B2) — turning a Nebensatz into a
   Präposition + Nominalisierung (weil es regnete → wegen des Regens),
   the hallmark of formal written German.
+- **21 — Infinitivgruppen mit Komma** (A2/B1) — um…zu (Zweck) and
+  ohne…zu (a missing action) at A2, plus (an)statt…zu and the
+  same-subject rule at B1 (Er hofft, die Prüfung zu bestehen. vs. Er
+  hofft, dass seine Tochter die Prüfung besteht. when the subjects
+  differ); zu sits between prefix and stem for separable verbs
+  (anzurufen, vorzubereiten).
 
 ## Weitere Themen (Ideen für später)
 
-Nothing queued right now — the list above (01–20) covers pronouns, case,
+Nothing queued right now — the list above (01–21) covers pronouns, case,
 adjective declension, the two-way prepositions, the whole verb-tense system
-(Perfekt/Präteritum/Futur), Passiv, Konjunktiv II, indirect speech, and
-sentence-level connectors. Suggest a new grammar point here when one comes
-up; it'll follow the same `THEMEN/<NN>-<topic-slug>-<level>/` layout and
-A/B/C/D block workflow as everything above.
+(Perfekt/Präteritum/Futur), Passiv, Konjunktiv II, indirect speech,
+sentence-level connectors, and infinitive clauses. Suggest a new grammar
+point here when one comes up; it'll follow the same
+`THEMEN/<NN>-<topic-slug>-<level>/` layout and A/B/C/D block workflow as
+everything above.
