@@ -413,6 +413,29 @@ Same discipline as a `THEMEN/` set:
 - **71 — Eine Überraschungsparty planen** (A2) — die Gästeliste
   erstellen, Aufgaben verteilen, einen Vorwand finden; fast
   verratenes Geheimnis, zu früh ankommender Gast, kaputter Kuchen.
+- **72 — Online bestellt, falsch geliefert: Widerruf** (B1) — ein
+  beschädigtes Paket melden, den Widerruf erklären, das
+  Rücksendeetikett anfordern; ausbleibende Antwort, verzögerte
+  Erstattung, bestrittener Schaden.
+- **73 — Nebenkostenabrechnung prüfen und widersprechen** (B2) — die
+  Abrechnung prüfen, Belegeinsicht verlangen, schriftlich
+  widersprechen; falscher Verteilerschlüssel, ausbleibende Reaktion,
+  knappe Widerspruchsfrist.
+- **74 — Stromanbieter wechseln** (A2) — Tarife vergleichen, den
+  Anbieterwechsel beantragen, den Zählerstand übermitteln; verspätete
+  Kündigung, falscher Zählerstand, zu hohe erste Rechnung.
+- **75 — Handy verloren: Anzeige bei der Polizei** (A2) — das Handy
+  sperren lassen, eine Verlustanzeige machen, die IMEI-Nummer angeben;
+  unsichere Erinnerung, fehlende Anzeige für die Versicherung,
+  wiedergefundenes Handy.
+- **76 — In der Schule: Elterngespräch, Entschuldigung,
+  Klassenfahrt** (A2) — ein Elterngespräch führen, Fehlzeiten
+  entschuldigen, die Einverständniserklärung unterschreiben;
+  vergessene Entschuldigung, unpassender Termin, zögerndes Kind.
+- **77 — Sich entschuldigen und ein Missverständnis klären** (A2) —
+  sich entschuldigen, ein Missverständnis aufklären, um Verzeihung
+  bitten; kühle Reaktion, missverständliche Entschuldigung,
+  wiederaufgewärmtes Thema.
 
 ## Themenspeicher
 
@@ -420,33 +443,28 @@ Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
 wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 
 **Einkaufen** —
-Online bestellt, falsch geliefert: Widerruf · Ein Auto kaufen
+Ein Auto kaufen
 (B1) · Eine Wohnung kaufen (B2)
 
 **Unterwegs** — Größere Reparatur in der Werkstatt ·
 Falsch geparkt: Knöllchen und
 Abschleppdienst · Verkehrskontrolle und Unfall melden · Führerschein machen
 
-**Wohnen & Nachbarschaft** —
-Nebenkostenabrechnung prüfen und widersprechen (B2)
-
 **Behörden & Formelles** — Rundfunkbeitrag ·
 Standesamt · Führungszeugnis · Anerkennung
 ausländischer Abschlüsse · Arbeitsagentur und Jobcenter
 
-**Geld & Verträge** — Stromanbieter wechseln · Versicherung: Schaden melden · Falsche Mahnung ·
+**Geld & Verträge** — Versicherung: Schaden melden · Falsche Mahnung ·
 Betrug und Phishing melden
 
-**Wenn etwas schiefgeht** — Handy verloren: Anzeige bei der Polizei ·
+**Wenn etwas schiefgeht** —
 Internet fällt aus: Anruf beim Anbieter · Fundbüro
 
-**Arbeit & Studium** — In der Schule: Elterngespräch, Entschuldigung,
-Klassenfahrt (A2) · Um eine Gehaltserhöhung bitten (B2) · Konflikt mit
+**Arbeit & Studium** — Um eine Gehaltserhöhung bitten (B2) · Konflikt mit
 Kolleginnen ansprechen (B2) · Kündigung schreiben · Uni: Immatrikulation,
 Prüfungsamt, BAföG
 
-**Soziales** —
-Sich entschuldigen und ein Missverständnis klären · Gratulieren und
+**Soziales** — Gratulieren und
 kondolieren · Elternabend · Ein Geschenk aussuchen und überreichen
 
 Alle Kategorien des Themenspeichers stehen inzwischen in
