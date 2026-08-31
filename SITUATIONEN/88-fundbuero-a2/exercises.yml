@@ -1,0 +1,451 @@
+lesson: "SIT/88-fundbuero-a2"
+title: "Fundbüro — A2"
+topic: "Fundbüro"
+category: "Wenn etwas schiefgeht"
+level: A2
+summary: "Einen verlorenen Gegenstand beim Fundbüro melden, ihn genau beschreiben, eine Verlustanzeige ausfüllen und ihn später mit Ausweis und Abholschein abholen — und was tun, wenn er noch nicht gefunden wurde."
+intro: >
+  Wer im Zug oder Bus etwas verliert, landet oft beim Fundbüro: den
+  Verlust melden, den Gegenstand genau beschreiben, eine
+  Verlustanzeige ausfüllen und später mit Ausweis und Abholschein
+  abholen. Dieses Set übt genau das — melden, beschreiben, abholen,
+  und was zu tun ist, wenn der Gegenstand noch nicht gefunden wurde.
+  Grammatik nach Bedarf: Modalverben, Perfekt und Futur I. Blocks: A
+  Wortschatz & Redemittel → B Dialoge → C Wenn es schiefgeht → D
+  Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Melden, beschreiben oder abholen?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: melden, label: "Melden" }
+      - { key: beschreiben, label: "Beschreiben" }
+      - { key: abholen, label: "Abholen" }
+    tokens:
+      - { text: "den Verlust beim Fundbüro melden", bucket: melden }
+      - { text: "eine Verlustanzeige ausfüllen", bucket: melden }
+      - { text: "den Fundort angeben", bucket: melden }
+      - { text: "das Formular abgeben", bucket: melden }
+      - { text: "den Gegenstand genau beschreiben", bucket: beschreiben }
+      - { text: "die Farbe und Marke nennen", bucket: beschreiben }
+      - { text: "besondere Merkmale erwähnen", bucket: beschreiben }
+      - { text: "ein Foto zeigen", bucket: beschreiben }
+      - { text: "einen Abholschein bekommen", bucket: abholen }
+      - { text: "die Fundsache abholen", bucket: abholen }
+      - { text: "die Aufbewahrungsfrist beachten", bucket: abholen }
+      - { text: "eine Gebühr bezahlen", bucket: abholen }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "das Fundbüro" }
+      - { key: "2", text: "die Fundsache" }
+      - { key: "3", text: "die Verlustanzeige" }
+      - { key: "4", text: "das Formular" }
+      - { key: "5", text: "die Beschreibung" }
+      - { key: "6", text: "der Abholschein" }
+      - { key: "7", text: "die Aufbewahrungsfrist" }
+      - { key: "8", text: "der Fundort" }
+    right:
+      - { key: a, text: "die Stelle, bei der verlorene Gegenstände abgegeben werden" }
+      - { key: b, text: "ein gefundener Gegenstand, der jemandem gehört" }
+      - { key: c, text: "die Meldung eines verlorenen Gegenstands" }
+      - { key: d, text: "das Dokument zum Ausfüllen der Angaben" }
+      - { key: e, text: "die genaue Angabe, wie der Gegenstand aussieht" }
+      - { key: f, text: "das Dokument, mit dem man die Fundsache abholen kann" }
+      - { key: g, text: "die Zeit, die ein Gegenstand aufbewahrt wird" }
+      - { key: h, text: "der Ort, an dem etwas gefunden wurde" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Den Verlust melden"
+    instructions: "Ergänze das Modalverb oder die Verbform."
+    instructionsEn: "Fill in the modal verb or verb form."
+    text: |
+      1. Ich {1} gestern meinen Regenschirm im Bus verloren. (haben, Perfekt)
+      2. {2} Sie den Gegenstand schon gefunden? (haben, Perfekt)
+      3. Man {3} den Verlust so schnell wie möglich melden. (sollen, Präsens)
+      4. {4} Sie mir bitte den Fundort genau beschreiben? (können, Sie-Form)
+      5. Falls die Aufbewahrungsfrist bald {5}, sollten Sie die Sache schnell abholen. (enden, Präsens)
+      6. Das Fundbüro {6} mich anrufen, sobald die Tasche da ist. (werden, Futur I)
+      7. Ich {7} schon ein Formular ausgefüllt. (haben, Perfekt)
+      8. {8} die Fundsache schon registriert worden? (sein, Perfekt Passiv)
+    answers:
+      "1": habe
+      "2": Haben
+      "3": soll
+      "4": Können
+      "5": endet
+      "6": wird
+      "7": habe
+      "8": Ist
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Ich habe meinen Schlüssel verloren und gehe zum {1}. (die Stelle für verlorene Gegenstände)
+      2. Beim Fundbüro fülle ich eine {2} aus. (die Meldung eines verlorenen Gegenstands)
+      3. Ich gebe eine genaue {3} des Gegenstands ab. (die genaue Angabe, wie etwas aussieht)
+      4. Für die Abholung brauche ich einen {4}. (das Dokument zur Abholung)
+      5. Die {5} beträgt meistens drei Monate. (die Zeit der Aufbewahrung)
+      6. Ich weiß leider nicht genau, wo der {6} war. (der Ort, an dem etwas gefunden wurde)
+    answers:
+      "1": Fundbüro
+      "2": Verlustanzeige
+      "3": Beschreibung
+      "4": Abholschein
+      "5": Aufbewahrungsfrist
+      "6": Fundort
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Melden und abholen"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      (im Fundbüro)
+      — Guten Tag, ich habe gestern meine Tasche im Zug verloren.
+      — Das tut mir leid. Wo genau war denn der {1}?
+      — Zwischen München und Augsburg, im zweiten Wagen.
+      — Können Sie mir die Tasche kurz {2}?
+      — Sie ist schwarz, aus Leder, mit einem roten Reißverschluss.
+      — Gut, ich fülle jetzt eine {3} für Sie aus.
+      — Vielen Dank. Wie lange dauert die Suche ungefähr?
+      — Das ist unterschiedlich, aber schauen Sie in ein paar Tagen
+      online nach.
+      (ein paar Tage später, am Telefon)
+      — Guten Tag, wir haben Ihre Tasche {4}!
+      — Oh, wie schön! Wo kann ich sie abholen?
+      — Kommen Sie einfach mit Ihrem Ausweis und diesem {5} vorbei.
+      — Muss ich etwas dafür bezahlen?
+      — Ja, es gibt eine kleine {6} für die Aufbewahrung.
+      — Kein Problem. Und wie lange wird die Tasche noch {7}?
+      — Die {8} beträgt bei uns drei Monate.
+      — Gut, dann {9} ich sie morgen ab.
+      — Bringen Sie bitte auch Ihren {10} mit.
+    bank: [FUNDORT, BESCHREIBEN, DIEBSTAHL, VERLUSTANZEIGE, VERSICHERUNG, GEFUNDEN, ABHOLSCHEIN, GARDEROBE, GEBÜHR, AUFBEWAHRT, SCHADEN, AUFBEWAHRUNGSFRIST, HOLE, PERSONALAUSWEIS]
+    answers:
+      "1": FUNDORT
+      "2": BESCHREIBEN
+      "3": VERLUSTANZEIGE
+      "4": GEFUNDEN
+      "5": ABHOLSCHEIN
+      "6": GEBÜHR
+      "7": AUFBEWAHRT
+      "8": AUFBEWAHRUNGSFRIST
+      "9": HOLE
+      "10": PERSONALAUSWEIS
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Melden und beschreiben"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du willst dem Fundbüro sagen, dass du deine Tasche im Zug verloren hast. — You want to tell the lost and found office that you lost your bag on the train."
+        options:
+          - { key: a, text: "Taschen interessieren mich nicht." }
+          - { key: b, text: "Ich habe gestern meine Tasche im Zug verloren." }
+          - { key: c, text: "Das ist mir egal." }
+        answer: b
+        why: "Eine klare Aussage ist der übliche Einstieg beim Melden eines Verlusts."
+      - q: "Du willst wissen, wie lange die Suche nach deiner Tasche ungefähr dauert. — You want to know roughly how long the search for your bag will take."
+        options:
+          - { key: a, text: "Das interessiert mich nicht." }
+          - { key: b, text: "Ich frage lieber nicht nach." }
+          - { key: c, text: "Wie lange dauert die Suche nach der Tasche ungefähr?" }
+        answer: c
+        why: "Eine direkte Frage klärt, wann mit einer Antwort zu rechnen ist."
+      - q: "Du willst dem Fundbüro genau beschreiben, wie deine Tasche aussieht. — You want to describe exactly what your bag looks like to the lost and found office."
+        options:
+          - { key: a, text: "Meine Tasche ist schwarz, aus Leder, mit einem roten Reißverschluss." }
+          - { key: b, text: "Taschen interessieren mich nicht." }
+          - { key: c, text: "Das ist mir völlig egal." }
+        answer: a
+        why: "Eine genaue Beschreibung hilft dem Fundbüro, die Tasche zu identifizieren."
+      - q: "Du willst wissen, ob du für die Abholung etwas bezahlen musst. — You want to know if you have to pay something for the pickup."
+        options:
+          - { key: a, text: "Geld interessiert mich nicht." }
+          - { key: b, text: "Muss ich für die Abholung etwas bezahlen?" }
+          - { key: c, text: "Das ist mir egal, Hauptsache ich bekomme die Tasche zurück." }
+        answer: b
+        why: "Eine direkte Frage klärt frühzeitig, ob eine Gebühr fällig wird."
+      - q: "Du willst wissen, wie lange die Aufbewahrungsfrist beim Fundbüro ist. — You want to know how long the retention period at the lost and found office is."
+        options:
+          - { key: a, text: "Aufbewahrungsfristen interessieren mich nicht." }
+          - { key: b, text: "Das ist mir zu kompliziert." }
+          - { key: c, text: "Wie lange ist eigentlich die Aufbewahrungsfrist beim Fundbüro?" }
+        answer: c
+        why: "Eine direkte Frage klärt, wie viel Zeit für die Abholung bleibt."
+      - q: "Du willst dem Fundbüro sagen, dass du morgen vorbeikommst, um die Tasche abzuholen. — You want to tell the lost and found office you'll come by tomorrow to pick up the bag."
+        options:
+          - { key: a, text: "Ich komme morgen vorbei, um die Tasche abzuholen." }
+          - { key: b, text: "Abholen interessiert mich nicht." }
+          - { key: c, text: "Das ist mir völlig egal." }
+        answer: a
+        why: "Eine klare Ankündigung erleichtert die Planung der Abholung."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze zum Fundbüro bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "habe", "gestern", "meine", "Tasche", "verloren"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Perfekt, Partizip am Ende"
+      - tiles: ["Können", "Sie", "mir", "die", "Tasche", "kurz", "beschreiben", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Ja/Nein-Frage mit Modalverb"
+      - tiles: ["Ich", "fülle", "jetzt", "eine", "Verlustanzeige", "aus"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "trennbares Verb, Vorsilbe am Ende"
+      - tiles: ["Morgen", "werde", "ich", "die", "Tasche", "abholen"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Futur I, Zeitangabe an Position 1, Verb an Position 2"
+      - tiles: ["Wie", "lange", "ist", "die", "Aufbewahrungsfrist", "eigentlich", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "W-Frage mit sein"
+      - tiles: ["Wir", "haben", "Ihre", "Tasche", "gefunden"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Perfekt, Partizip am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Infos zum Fundbüro lesen"
+    instructions: |
+      > **Info — Fundbüro**
+      >
+      > - **Aufgabe:** das Fundbüro gibt gefundene Gegenstände an die
+      >   **Eigentümer zurück**.
+      > - **Verlustanzeige:** kann man oft auch **online** ausfüllen.
+      > - **Aufbewahrungsfrist:** beträgt meist mehrere Monate, danach
+      >   werden Gegenstände oft **versteigert oder gespendet**.
+      > - **Abholung:** nur mit **Personalausweis** möglich.
+      > - **Gebühr:** für die Aufbewahrung wird oft eine **kleine
+      >   Gebühr** fällig.
+      > - **Wertsachen:** Bargeld und Wertsachen werden **besonders
+      >   sicher** aufbewahrt.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Das Fundbüro gibt gefundene Gegenstände an die Eigentümer zurück. — The lost and found office returns found items to their owners."
+        answer: true
+        why: "So steht es ausdrücklich in den Infos zum Fundbüro."
+      - q: "Eine Verlustanzeige kann man nur persönlich vor Ort ausfüllen. — A loss report can only be filled out in person on site."
+        answer: false
+        why: "Sie kann oft auch online ausgefüllt werden, nicht nur vor Ort."
+      - q: "Nicht abgeholte Gegenstände werden nach der Aufbewahrungsfrist oft versteigert oder gespendet. — Unclaimed items are often auctioned off or donated after the retention period."
+        answer: true
+        why: "„Aufbewahrungsfrist: […] danach werden Gegenstände oft versteigert oder gespendet.“"
+      - q: "Man kann eine Fundsache auch ohne Personalausweis abholen. — You can pick up a found item even without an ID card."
+        answer: false
+        why: "Die Abholung ist nur mit Personalausweis möglich."
+      - q: "Für die Aufbewahrung wird manchmal eine kleine Gebühr fällig. — A small fee is sometimes charged for storage."
+        answer: true
+        why: "„Gebühr: für die Aufbewahrung wird oft eine kleine Gebühr fällig.“"
+      - q: "Bargeld und Wertsachen werden beim Fundbüro nicht besonders behandelt. — Cash and valuables are not treated in any special way at the lost and found office."
+        answer: false
+        why: "Sie werden besonders sicher aufbewahrt, also anders behandelt als andere Gegenstände."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn beim Fundbüro etwas schiefgeht"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Ihre Tasche wurde nicht im Fundbüro abgegeben. — Your bag wasn't handed in at the lost and found office."
+        options:
+          - { key: a, text: "Sofort aufgeben und nicht mehr nachfragen." }
+          - { key: b, text: "Regelmäßig online nachschauen und weitere Fundbüros kontaktieren." }
+          - { key: c, text: "Eine neue Tasche kaufen und die alte vergessen." }
+        answer: b
+        why: "Ein regelmäßiger Blick erhöht die Chance, die Tasche doch noch zu finden."
+      - q: "Ihre Verlustanzeige scheint beim Fundbüro nicht anzukommen. — Your loss report doesn't seem to be reaching the lost and found office."
+        options:
+          - { key: a, text: "Einfach nichts mehr unternehmen." }
+          - { key: b, text: "Sich beim Fundbüro beschweren, ohne nachzufragen." }
+          - { key: c, text: "Höflich nachfragen und die Anzeige eventuell noch einmal einreichen." }
+        answer: c
+        why: "Eine höfliche Nachfrage klärt schnell, ob die Anzeige tatsächlich fehlt."
+      - q: "Sie haben beim Ausfüllen den falschen Fundort angegeben. — You entered the wrong location found when filling out the form."
+        options:
+          - { key: a, text: "Das Fundbüro informieren und die Angabe korrigieren lassen." }
+          - { key: b, text: "Die Angabe einfach so lassen, wie sie ist." }
+          - { key: c, text: "Eine ganz neue Verlustanzeige irgendwo anders einreichen." }
+        answer: a
+        why: "Eine schnelle Korrektur erleichtert dem Fundbüro die Suche."
+      - q: "Sie haben Ihren Abholschein verloren. — You've lost your pickup receipt."
+        options:
+          - { key: a, text: "Ohne Ausweis und ohne Schein zum Fundbüro gehen." }
+          - { key: b, text: "Beim Fundbüro anrufen und nach einer alternativen Identifikation fragen." }
+          - { key: c, text: "Die Fundsache einfach abschreiben." }
+        answer: b
+        why: "Meist reicht der Personalausweis auch ohne Abholschein zur Identifikation."
+      - q: "Die Aufbewahrungsfrist für Ihre Tasche ist schon abgelaufen. — The retention period for your bag has already expired."
+        options:
+          - { key: a, text: "Nichts, es ist ja sowieso zu spät." }
+          - { key: b, text: "Sich beim Fundbüro beschweren, dass die Frist zu kurz war." }
+          - { key: c, text: "Trotzdem nachfragen, ob die Tasche noch irgendwo vorhanden ist." }
+        answer: c
+        why: "Eine Nachfrage klärt, ob die Tasche vielleicht doch noch nicht versteigert wurde."
+      - q: "Sie bekommen Ihre Tasche beschädigt zurück. — You get your bag back damaged."
+        options:
+          - { key: a, text: "Den Schaden dem Fundbüro sofort melden und dokumentieren." }
+          - { key: b, text: "Den Schaden einfach ignorieren." }
+          - { key: c, text: "Die Tasche sofort wegwerfen." }
+        answer: a
+        why: "Eine sofortige Meldung mit Dokumentation klärt die Verantwortung für den Schaden."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Meine Tasche wurde im Fundbüro leider nicht {1}. (nicht ausgehändigt, Partizip)
+      2. Meine Verlustanzeige ist beim Fundbüro nicht {2}. (nicht eingetroffen, Partizip)
+      3. Ich habe beim Formular den falschen Fundort {3}. (aufgeschrieben, Partizip)
+      4. Meinen Abholschein habe ich leider {4}. (nicht mehr da, Partizip)
+      5. Die Aufbewahrungsfrist ist schon {5}. (nicht mehr gültig, Partizip)
+      6. Meine Tasche habe ich beschädigt {6}. (erhalten, Partizip)
+    answers:
+      "1": abgegeben
+      "2": angekommen
+      "3": notiert
+      "4": verloren
+      "5": abgelaufen
+      "6": zurückbekommen
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Ich {1} gestern meine Tasche im Zug verloren. (have — Perfekt)
+      2. Ich gehe zum {2}, um den Verlust zu melden. (lost and found office)
+      3. Ich fülle eine {3} aus. (loss report)
+      4. Ich gebe eine genaue {4} des Gegenstands ab. (description)
+      5. Für die Abholung brauche ich einen {5}. (pickup receipt)
+      6. Die {6} beträgt meistens drei Monate. (retention period)
+      7. Ich weiß leider nicht genau, wo der {7} war. (location found)
+      8. Man {8} den Verlust so schnell wie möglich melden. (should — sollen)
+      9. {9} Sie mir bitte den Fundort genau beschreiben? (could — können, Sie-Form)
+      10. Meine Tasche wurde leider nicht {10}. (handed in — Partizip)
+      11. Meine Verlustanzeige ist nicht {11}. (arrived — Partizip)
+      12. Meinen Abholschein habe ich leider {12}. (lost — Partizip)
+      13. Die Aufbewahrungsfrist ist schon {13}. (expired — Partizip)
+      14. Meine Tasche habe ich beschädigt {14}. (gotten back — Partizip)
+    answers:
+      "1": habe
+      "2": Fundbüro
+      "3": Verlustanzeige
+      "4": Beschreibung
+      "5": Abholschein
+      "6": Aufbewahrungsfrist
+      "7": Fundort
+      "8": soll
+      "9": Können
+      "10": abgegeben
+      "11": angekommen
+      "12": verloren
+      "13": abgelaufen
+      "14": zurückbekommen
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Melden, ein Problem, die Lösung"
+    prompt: "Schreib drei Teile: einen Gegenstand verlieren und zum Fundbüro gehen, ein Problem, weil die Tasche noch nicht gefunden wurde, und die Lösung. Zusammen 16–20 Sätze."
+    stimulus: |
+      Du verlierst deine Tasche im Zug und gehst zum Fundbüro, um sie
+      zu melden. Beim ersten Besuch ist die Tasche noch nicht da.
+
+      Beim Melden müssen vorkommen:
+      1. den Verlust der Tasche melden
+      2. den Fundort beschreiben
+      3. eine Verlustanzeige ausfüllen
+
+      Beim Problem müssen vorkommen:
+      4. erfahren, dass die Tasche noch nicht da ist
+      5. sich enttäuscht fühlen
+      6. nach ein paar Tagen wieder nachfragen
+
+      In der Lösung müssen vorkommen:
+      7. einen Anruf vom Fundbüro bekommen
+      8. mit Personalausweis und Abholschein hingehen
+      9. eine kleine Gebühr bezahlen
+      10. sich über die gefundene Tasche freuen
+    use:
+      - "höfliche Frage: „Können Sie mir bitte den Fundort beschreiben?“"
+      - "Perfekt: „Ich habe meine Tasche verloren.“"
+      - "Futur I: „Ich werde in ein paar Tagen wieder nachfragen.“"
+    selfCheck:
+      - "Wird der Verlust klar beschrieben?"
+      - "Klingt die Reaktion auf das fehlende Ergebnis realistisch?"
+      - "Wird die Abholung als Lösung erwähnt?"
+      - "Kommen alle 10 Punkte vor?"
+    model: |
+      **Melden**
+
+      Ich: Guten Tag, ich habe gestern meine Tasche im Zug verloren.
+      Fundbüro: Das tut mir leid. Können Sie mir bitte den Fundort beschreiben?
+      Ich: Zwischen München und Augsburg, im zweiten Wagen.
+      Fundbüro: Gut, ich fülle jetzt eine Verlustanzeige für Sie aus.
+
+      **Das Problem**
+
+      (ein paar Tage später)
+      Fundbüro: Leider ist Ihre Tasche noch nicht bei uns angekommen.
+      Ich: Das ist schade, aber ich werde in ein paar Tagen wieder nachfragen.
+
+      **Die Lösung**
+
+      (eine Woche später, am Telefon)
+      Fundbüro: Guten Tag, wir haben Ihre Tasche gefunden!
+      Ich: Wie schön! Ich komme morgen mit meinem Personalausweis und dem Abholschein vorbei.
+      Fundbüro: Perfekt, dann müssen Sie nur noch eine kleine Gebühr bezahlen.
+      Ich: Kein Problem, ich freue mich einfach, dass sie wieder da ist!

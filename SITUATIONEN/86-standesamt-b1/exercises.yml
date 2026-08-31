@@ -1,0 +1,449 @@
+lesson: "SIT/86-standesamt-b1"
+title: "Standesamt — B1"
+topic: "Standesamt"
+category: "Behörden & Formelles"
+level: B1
+summary: "Die Eheschließung beim Standesamt anmelden, die nötigen Dokumente vorlegen und nach der Trauung die Heiratsurkunde bekommen — und was tun, wenn ein Dokument fehlt oder nicht übersetzt ist."
+intro: >
+  Vor der Hochzeit muss man beim Standesamt einiges erledigen: die
+  Eheschließung anmelden, die Geburtsurkunde und die
+  Ledigkeitsbescheinigung vorlegen, einen Trautermin vereinbaren und
+  nach der Trauung die Heiratsurkunde abholen. Dieses Set übt genau
+  das — anmelden, Dokumente vorlegen, heiraten, und was zu tun ist,
+  wenn ein Dokument fehlt oder eine ausländische Urkunde noch nicht
+  übersetzt ist. Grammatik nach Bedarf: Modalverben, Perfekt und Futur
+  I. Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn es
+  schiefgeht → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Heiraten, ein Kind anmelden oder Urkunden bekommen?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: heiraten, label: "Heiraten" }
+      - { key: kind, label: "Ein Kind anmelden" }
+      - { key: urkunden, label: "Urkunden bekommen" }
+    tokens:
+      - { text: "einen Trautermin vereinbaren", bucket: heiraten }
+      - { text: "die Ledigkeitsbescheinigung vorlegen", bucket: heiraten }
+      - { text: "die Eheschließung anmelden", bucket: heiraten }
+      - { text: "die Heiratsurkunde bekommen", bucket: heiraten }
+      - { text: "die Geburt des Kindes melden", bucket: kind }
+      - { text: "die Geburtsurkunde beantragen", bucket: kind }
+      - { text: "den Namen des Kindes eintragen lassen", bucket: kind }
+      - { text: "die Vaterschaft anerkennen", bucket: kind }
+      - { text: "eine Aufenthaltsbescheinigung vorlegen", bucket: urkunden }
+      - { text: "eine beglaubigte Kopie beantragen", bucket: urkunden }
+      - { text: "eine ausländische Urkunde übersetzen lassen", bucket: urkunden }
+      - { text: "eine Gebühr bezahlen", bucket: urkunden }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "das Standesamt" }
+      - { key: "2", text: "die Eheschließung" }
+      - { key: "3", text: "die Geburtsurkunde" }
+      - { key: "4", text: "die Aufenthaltsbescheinigung" }
+      - { key: "5", text: "der Trautermin" }
+      - { key: "6", text: "die Namensänderung" }
+      - { key: "7", text: "die Heiratsurkunde" }
+      - { key: "8", text: "die Ledigkeitsbescheinigung" }
+    right:
+      - { key: a, text: "die Behörde für Eheschließung, Geburten und Urkunden" }
+      - { key: b, text: "die offizielle, rechtliche Heirat" }
+      - { key: c, text: "das Dokument über die Geburt eines Kindes" }
+      - { key: d, text: "der Nachweis über den eigenen Wohnsitz" }
+      - { key: e, text: "der Termin für die Trauung beim Standesamt" }
+      - { key: f, text: "der offizielle Wechsel des Nachnamens" }
+      - { key: g, text: "das Dokument über die Eheschließung" }
+      - { key: h, text: "der Nachweis, dass man noch nicht verheiratet ist" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die Hochzeit planen"
+    instructions: "Ergänze das Modalverb oder die Verbform."
+    instructionsEn: "Fill in the modal verb or verb form."
+    text: |
+      1. Wir {1} einen Trautermin vereinbaren. (müssen, wir-Form)
+      2. {2} Sie mir die Geburtsurkunde mitbringen? (können, Sie-Form)
+      3. Wir {3} schon die Ledigkeitsbescheinigung beantragt. (haben, Perfekt)
+      4. {4} wir für die Eheschließung eine Übersetzung brauchen? (müssen, wir-Form)
+      5. Falls die Unterlagen nicht vollständig {5}, verschiebt sich der Termin. (sein, Präsens)
+      6. Der Standesbeamte {6} uns nächste Woche die Heiratsurkunde zuschicken. (werden, Futur I)
+      7. Wir {7} schon die Namensänderung beantragt. (haben, Perfekt)
+      8. {8} die Geburt schon gemeldet worden? (sein, Perfekt Passiv)
+    answers:
+      "1": müssen
+      "2": Können
+      "3": haben
+      "4": Müssen
+      "5": sind
+      "6": wird
+      "7": haben
+      "8": Ist
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Wir möchten heiraten und vereinbaren einen {1} beim Standesamt. (der Termin für die Trauung)
+      2. Dafür brauchen wir eine {2}, die zeigt, dass wir noch nicht verheiratet sind. (der Nachweis, dass man ledig ist)
+      3. Nach der Hochzeit bekommen wir die {3}. (das Dokument über die Eheschließung)
+      4. Für unser Kind brauchen wir bald eine {4}. (das Dokument über die Geburt)
+      5. Als Nachweis über unseren Wohnsitz brauchen wir eine {5}. (der Nachweis über den Wohnsitz)
+      6. Nach der Heirat möchte ich eine {6} beantragen. (der offizielle Wechsel des Nachnamens)
+    answers:
+      "1": Trautermin
+      "2": Ledigkeitsbescheinigung
+      "3": Heiratsurkunde
+      "4": Geburtsurkunde
+      "5": Aufenthaltsbescheinigung
+      "6": Namensänderung
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Anmelden, heiraten, Urkunde bekommen"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      (am Standesamt, Anmeldung zur Eheschließung)
+      — Guten Tag, wir möchten die {1} anmelden.
+      — Gerne, haben Sie schon einen {2} ausgesucht?
+      — Noch nicht, welche Termine sind im nächsten Monat frei?
+      — Da sind noch einige Tage frei. Haben Sie Ihre {3} schon
+      dabei?
+      — Ja, hier ist sie, und hier ist auch unsere {4}.
+      — Perfekt, dann brauche ich noch eine {5} als Nachweis über
+      Ihren Wohnsitz.
+      — Die habe ich leider vergessen, kann ich sie {6}?
+      — Ja, das ist kein Problem.
+      (nach der Hochzeit)
+      — Herzlichen Glückwunsch! Hier ist Ihre {7}.
+      — Vielen Dank. Und wie lange hat die {8} eigentlich gedauert?
+      — Nur wenige Minuten.
+      — Wie {9} ich jetzt meinen Nachnamen ändern?
+      — Dafür stellen wir Ihnen eine Bescheinigung für die {10} aus.
+    bank: [TRAUTERMIN, GEBURTSURKUNDE, SCHEIDUNG, EHESCHLIESSUNG, AUFENTHALTSBESCHEINIGUNG, TAUFE, LEDIGKEITSBESCHEINIGUNG, NACHREICHEN, VORNAME, HEIRATSURKUNDE, TRAUUNG, ADOPTION, LASSE, NAMENSÄNDERUNG]
+    answers:
+      "1": EHESCHLIESSUNG
+      "2": TRAUTERMIN
+      "3": GEBURTSURKUNDE
+      "4": LEDIGKEITSBESCHEINIGUNG
+      "5": AUFENTHALTSBESCHEINIGUNG
+      "6": NACHREICHEN
+      "7": HEIRATSURKUNDE
+      "8": TRAUUNG
+      "9": LASSE
+      "10": NAMENSÄNDERUNG
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Anmelden und heiraten"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du willst wissen, welche Dokumente du für die Anmeldung zur Eheschließung brauchst. — You want to know which documents you need to register your marriage."
+        options:
+          - { key: a, text: "Dokumente interessieren mich nicht." }
+          - { key: b, text: "Welche Dokumente brauche ich für die Anmeldung zur Eheschließung?" }
+          - { key: c, text: "Das ist mir egal." }
+        answer: b
+        why: "Eine direkte Frage klärt frühzeitig, welche Unterlagen nötig sind."
+      - q: "Du willst wissen, ob im nächsten Monat noch Termine frei sind. — You want to know if there are still appointments free next month."
+        options:
+          - { key: a, text: "Termine interessieren mich nicht." }
+          - { key: b, text: "Ich frage lieber nicht nach." }
+          - { key: c, text: "Sind im nächsten Monat noch Termine frei?" }
+        answer: c
+        why: "Eine direkte Frage klärt, wann der Trautermin stattfinden kann."
+      - q: "Du willst höflich fragen, ob du ein vergessenes Dokument nachreichen kannst. — You want to politely ask whether you can submit a forgotten document later."
+        options:
+          - { key: a, text: "Kann ich das Dokument noch nachreichen?" }
+          - { key: b, text: "Dokumente interessieren mich nicht." }
+          - { key: c, text: "Das ist mir völlig egal." }
+        answer: a
+        why: "Eine höfliche Frage klärt, ob eine Nachreichung noch möglich ist."
+      - q: "Du willst wissen, wie lange die Trauung ungefähr dauert. — You want to know roughly how long the ceremony takes."
+        options:
+          - { key: a, text: "Trauungen interessieren mich nicht." }
+          - { key: b, text: "Wie lange dauert die Trauung eigentlich ungefähr?" }
+          - { key: c, text: "Das ist mir egal, Hauptsache es ist vorbei." }
+        answer: b
+        why: "Eine direkte Frage klärt, wie viel Zeit für die Trauung eingeplant werden muss."
+      - q: "Du willst wissen, wie du deinen Nachnamen nach der Heirat ändern lassen kannst. — You want to know how you can get your surname changed after the wedding."
+        options:
+          - { key: a, text: "Namen interessieren mich nicht." }
+          - { key: b, text: "Das ist mir zu kompliziert." }
+          - { key: c, text: "Wie kann ich meinen Nachnamen nach der Heirat ändern lassen?" }
+        answer: c
+        why: "Eine direkte Frage klärt den nötigen Weg zur Namensänderung."
+      - q: "Du willst wissen, wo du später eine beglaubigte Kopie der Heiratsurkunde bekommst. — You want to know where you can get a certified copy of the marriage certificate later."
+        options:
+          - { key: a, text: "Wo bekomme ich später eine beglaubigte Kopie der Heiratsurkunde?" }
+          - { key: b, text: "Kopien interessieren mich nicht." }
+          - { key: c, text: "Das ist mir völlig egal." }
+        answer: a
+        why: "Eine direkte Frage klärt, wo spätere Kopien der Urkunde erhältlich sind."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze zum Standesamt bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Wir", "möchten", "die", "Eheschließung", "anmelden"]
+        answer: [0, 1, 2, 3, 4]
+        note: "höfliche Aussage, Infinitiv am Ende"
+      - tiles: ["Haben", "Sie", "Ihre", "Geburtsurkunde", "schon", "dabei", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Ja/Nein-Frage im Präsens"
+      - tiles: ["Wir", "brauchen", "noch", "eine", "Aufenthaltsbescheinigung"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Aussage, Verb an Position 2"
+      - tiles: ["Nächste", "Woche", "werde", "ich", "die", "Unterlagen", "nachreichen"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Futur I, Zeitangabe an Position 1, Verb an Position 2"
+      - tiles: ["Wie", "lange", "dauert", "die", "Trauung", "eigentlich", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "W-Frage mit Verb an Position 2"
+      - tiles: ["Nach", "der", "Heirat", "habe", "ich", "meinen", "Namen", "geändert"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "Perfekt, Partizip am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Infos zum Standesamt lesen"
+    instructions: |
+      > **Info — Standesamt**
+      >
+      > - **Zuständigkeit:** das Standesamt kümmert sich um
+      >   **Eheschließungen, Geburts- und Sterbeurkunden**.
+      > - **Anmeldung:** dafür braucht man meist **Personalausweis,
+      >   Geburtsurkunde** und oft eine **Ledigkeitsbescheinigung**.
+      > - **Ausländische Urkunden:** müssen manchmal von einem
+      >   **vereidigten Übersetzer** übersetzt werden.
+      > - **Trautermin:** die Anmeldung sollte **rechtzeitig vor der
+      >   Trauung** erfolgen.
+      > - **Die Trauung:** dauert meist nur **wenige Minuten**.
+      > - **Namensänderung:** nach der Heirat ist sie **freiwillig**,
+      >   nicht verpflichtend.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Das Standesamt ist auch für Geburtsurkunden zuständig. — The registry office is also responsible for birth certificates."
+        answer: true
+        why: "„Zuständigkeit: das Standesamt kümmert sich um Eheschließungen, Geburts- und Sterbeurkunden.“"
+      - q: "Für die Anmeldung braucht man keinerlei Dokumente. — No documents at all are needed for the registration."
+        answer: false
+        why: "Man braucht meist Personalausweis, Geburtsurkunde und oft eine Ledigkeitsbescheinigung."
+      - q: "Ausländische Urkunden müssen manchmal von einem vereidigten Übersetzer übersetzt werden. — Foreign certificates sometimes need to be translated by a certified translator."
+        answer: true
+        why: "So steht es ausdrücklich in den Infos zum Standesamt."
+      - q: "Die Anmeldung zur Eheschließung darf beliebig lange vor der Trauung liegen. — The marriage registration can be made any amount of time before the wedding."
+        answer: false
+        why: "Sie sollte rechtzeitig vor der Trauung erfolgen, nicht beliebig lange vorher."
+      - q: "Die eigentliche Trauung dauert meist nur wenige Minuten. — The actual ceremony usually only takes a few minutes."
+        answer: true
+        why: "„Die Trauung: dauert meist nur wenige Minuten.“"
+      - q: "Nach der Heirat muss man unbedingt seinen Nachnamen ändern. — After the wedding you absolutely must change your surname."
+        answer: false
+        why: "Die Namensänderung ist freiwillig, nicht verpflichtend."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn beim Standesamt etwas schiefgeht"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Beim Termin fehlt Ihnen ein wichtiges Dokument. — You're missing an important document at the appointment."
+        options:
+          - { key: a, text: "Den Termin einfach verlassen, ohne etwas zu sagen." }
+          - { key: b, text: "Das Standesamt fragen, ob Sie das Dokument nachreichen können." }
+          - { key: c, text: "Ohne das Dokument trotzdem sofort heiraten." }
+        answer: b
+        why: "Eine höfliche Nachfrage klärt, ob eine Nachreichung noch möglich ist."
+      - q: "Ihre ausländische Geburtsurkunde ist noch nicht übersetzt. — Your foreign birth certificate hasn't been translated yet."
+        options:
+          - { key: a, text: "Die Urkunde einfach selbst übersetzen." }
+          - { key: b, text: "Ohne Übersetzung weitermachen." }
+          - { key: c, text: "Eine Übersetzung bei einem vereidigten Übersetzer beauftragen." }
+        answer: c
+        why: "Nur eine vereidigte Übersetzung wird vom Standesamt anerkannt."
+      - q: "Sie haben aus Versehen Ihren Termin beim Standesamt verpasst. — You accidentally missed your appointment at the registry office."
+        options:
+          - { key: a, text: "Höflich anrufen und einen neuen Termin vereinbaren." }
+          - { key: b, text: "Einfach nicht mehr zum Standesamt gehen." }
+          - { key: c, text: "Auf die Heirat ganz verzichten." }
+        answer: a
+        why: "Ein höflicher Anruf klärt schnell einen neuen Termin."
+      - q: "In Ihrer neuen Heiratsurkunde steht ein falsch geschriebener Name. — Your new marriage certificate has a misspelled name."
+        options:
+          - { key: a, text: "Den Fehler ignorieren, das ist nicht so wichtig." }
+          - { key: b, text: "Das Standesamt sofort auf den Fehler hinweisen und um eine Korrektur bitten." }
+          - { key: c, text: "Sich selbst einen neuen Namen ausdenken." }
+        answer: b
+        why: "Ein sofort gemeldeter Fehler lässt sich meist unkompliziert korrigieren."
+      - q: "Ihr Trauzeuge sagt kurzfristig vor der Trauung ab. — Your witness cancels shortly before the ceremony."
+        options:
+          - { key: a, text: "Die Trauung ohne Trauzeugen einfach stattfinden lassen." }
+          - { key: b, text: "Die Hochzeit komplett absagen." }
+          - { key: c, text: "Schnell eine andere Person als Trauzeugen fragen." }
+        answer: c
+        why: "Ein Ersatz-Trauzeuge löst das Problem am schnellsten."
+      - q: "Ihre Ledigkeitsbescheinigung ist beim Termin schon abgelaufen. — Your certificate of no impediment to marriage has already expired at the appointment."
+        options:
+          - { key: a, text: "Beim zuständigen Amt eine neue, aktuelle Bescheinigung beantragen." }
+          - { key: b, text: "Die alte Bescheinigung trotzdem verwenden." }
+          - { key: c, text: "Ohne Bescheinigung einfach heiraten." }
+        answer: a
+        why: "Nur eine aktuelle Bescheinigung wird vom Standesamt akzeptiert."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Beim Termin habe ich ein wichtiges Dokument {1}. (nicht mitgebracht, Partizip)
+      2. Die ausländische Urkunde habe ich noch nicht {2}. (in eine andere Sprache übertragen, Partizip)
+      3. Den Termin beim Standesamt habe ich aus Versehen {3}. (nicht wahrgenommen, Partizip)
+      4. In der Heiratsurkunde ist ein Name falsch {4}. (falsch notiert, Partizip)
+      5. Unser Trauzeuge hat kurzfristig {5}. (nicht mehr zugesagt, Partizip)
+      6. Die Ledigkeitsbescheinigung ist schon {6}. (nicht mehr gültig, Partizip)
+    answers:
+      "1": vergessen
+      "2": übersetzt
+      "3": verpasst
+      "4": geschrieben
+      "5": abgesagt
+      "6": abgelaufen
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Wir {1} einen Trautermin vereinbaren. (must)
+      2. Wir brauchen eine {2}. (certificate of no impediment to marriage)
+      3. Für unser Kind brauchen wir eine {3}. (birth certificate)
+      4. Als Wohnsitznachweis brauchen wir eine {4}. (certificate of residence)
+      5. Nach der Hochzeit bekommen wir die {5}. (marriage certificate)
+      6. Die eigentliche {6} dauert meist nur wenige Minuten. (ceremony)
+      7. Ich möchte nach der Heirat eine {7} beantragen. (name change)
+      8. {8} Sie mir die Geburtsurkunde schon dabei? (have — Perfekt, Sie-Form)
+      9. Falls Dokumente fehlen, {9} man sie oft nachreichen. (can — können, Präsens)
+      10. Beim Termin habe ich ein Dokument {10}. (forgotten — Partizip)
+      11. Der Termin ist leider {11}. (missed — Partizip)
+      12. Unser Trauzeuge hat kurzfristig {12}. (cancelled — Partizip)
+      13. Die Bescheinigung ist schon {13}. (expired — Partizip)
+      14. Das {14} ist für Eheschließungen und Geburtsurkunden zuständig. (registry office)
+    answers:
+      "1": müssen
+      "2": Ledigkeitsbescheinigung
+      "3": Geburtsurkunde
+      "4": Aufenthaltsbescheinigung
+      "5": Heiratsurkunde
+      "6": Trauung
+      "7": Namensänderung
+      "8": Haben
+      "9": kann
+      "10": vergessen
+      "11": verpasst
+      "12": abgesagt
+      "13": abgelaufen
+      "14": Standesamt
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Anmelden, ein Problem, die Lösung"
+    prompt: "Schreib drei Teile: die Eheschließung beim Standesamt anmelden, ein Problem, weil ein Dokument fehlt oder nicht übersetzt ist, und die Lösung. Zusammen 16–20 Sätze."
+    stimulus: |
+      Ihr geht zum Standesamt, um eure Eheschließung anzumelden. Beim
+      Termin merkt ihr, dass ein wichtiges Dokument fehlt oder noch
+      nicht übersetzt ist.
+
+      Bei der Anmeldung müssen vorkommen:
+      1. die Eheschließung anmelden
+      2. die Geburtsurkunde vorlegen
+      3. nach der Ledigkeitsbescheinigung fragen
+
+      Beim Problem müssen vorkommen:
+      4. merken, dass ein Dokument fehlt
+      5. sich entschuldigen
+      6. nach einer Lösung fragen
+
+      In der Lösung müssen vorkommen:
+      7. das Dokument nachreichen
+      8. einen neuen Termin bekommen
+      9. die Heiratsurkunde erhalten
+      10. sich über die Hochzeit freuen
+    use:
+      - "höfliche Frage: „Können wir das Dokument nachreichen?“"
+      - "Perfekt: „Wir haben ein Dokument vergessen.“"
+      - "Futur I: „Wir werden es morgen nachreichen.“"
+    selfCheck:
+      - "Wird die Anmeldung klar beschrieben?"
+      - "Klingt die Reaktion auf das fehlende Dokument höflich?"
+      - "Wird die Heiratsurkunde als Ergebnis erwähnt?"
+      - "Kommen alle 10 Punkte vor?"
+    model: |
+      **Anmelden**
+
+      Wir: Guten Tag, wir möchten die Eheschließung anmelden.
+      Standesbeamter: Gerne, haben Sie Ihre Geburtsurkunde dabei?
+      Wir: Ja, und hier ist auch unsere Ledigkeitsbescheinigung.
+
+      **Das Problem**
+
+      Standesbeamter: Leider fehlt noch die Aufenthaltsbescheinigung.
+      Wir: Oh, das tut uns leid, die haben wir vergessen.
+      Wir: Können wir das Dokument nachreichen?
+
+      **Die Lösung**
+
+      Standesbeamter: Ja, das ist kein Problem, bringen Sie es einfach nächste Woche vorbei.
+      Wir: Wir werden es morgen nachreichen — dann können wir hoffentlich bald den Trautermin festlegen.
+      (eine Woche später)
+      Standesbeamter: Perfekt, jetzt steht der Heirat nichts mehr im Weg!
