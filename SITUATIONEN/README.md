@@ -475,27 +475,55 @@ Same discipline as a `THEMEN/` set:
 - **89 — Ein Geschenk aussuchen und überreichen** (A2) — eine
   Geschenkidee finden, einpacken lassen, feierlich überreichen;
   falsches Geschenk, gerissenes Papier, doppeltes Geschenk.
+- **90 — Größere Reparatur in der Werkstatt** (B1) — die Diagnose
+  abwarten, einen Kostenvoranschlag verlangen, die Reparatur
+  freigeben; höhere Rechnung als erwartet, fehlendes Ersatzteil,
+  abgelehnte Garantie.
+- **91 — Verkehrskontrolle und Unfall melden** (B1) — Führerschein
+  und Fahrzeugpapiere zeigen, nach einem Unfall die Unfallstelle
+  sichern und Daten austauschen; fehlender Führerschein,
+  verweigerter Datenaustausch, Fahrerflucht.
+- **92 — Führungszeugnis** (B1) — beim Bürgeramt beantragen, den
+  Verwendungszweck angeben, die Gebühr bezahlen; verspätete
+  Zustellung, falsche Adresse, unerwartete Eintragung.
+- **93 — Anerkennung ausländischer Abschlüsse** (B2) — die
+  Anerkennung beantragen, Zeugnisse mit beglaubigter Übersetzung
+  einreichen, die Gleichwertigkeit prüfen lassen; teilweise
+  Anerkennung, fehlende Unterlagen, fehlerhafte Übersetzung.
+- **94 — Arbeitsagentur und Jobcenter** (B1) — sich arbeitslos
+  melden, Arbeitslosengeld beantragen, Vermittlungsvorschläge
+  bearbeiten; unpassender Vorschlag, verpasster Termin, drohende
+  Sperrzeit.
+- **95 — Falsche Mahnung** (A2) — eine Mahnung prüfen, den
+  Zahlungsbeleg vorlegen, schriftlich widersprechen; erneute
+  Mahnung trotz Klärung, meldendes Inkassobüro, falscher Betrag.
+- **96 — Um eine Gehaltserhöhung bitten** (B2) — die eigenen
+  Leistungen dokumentieren, einen Marktvergleich machen, über die
+  Höhe verhandeln; komplette Ablehnung, zu niedriges Angebot,
+  ausbleibende Umsetzung.
+- **97 — Konflikt mit Kolleginnen ansprechen** (B2) — um ein
+  Vier-Augen-Gespräch bitten, den Konflikt offen ansprechen,
+  gemeinsam eine Lösung suchen; defensive Reaktion, eskalierendes
+  Gespräch, festgefahrener Konflikt.
+- **98 — Kündigung schreiben** (B1) — die Kündigung persönlich
+  übergeben, die Kündigungsfrist klären, die Übergabe planen;
+  fehlende Bestätigung, falsch berechnete Frist, verlorene
+  Kündigung.
+- **99 — Uni: Immatrikulation, Prüfungsamt, BAföG** (B1) — sich
+  immatrikulieren, sich beim Prüfungsamt für Prüfungen anmelden,
+  einen BAföG-Antrag stellen; fehlender Leistungsnachweis,
+  abgelehnter BAföG-Antrag, versehentliche Exmatrikulation.
+- **100 — Elternabend** (A2) — der Tagesordnung folgen, sich mit
+  einer Wortmeldung einbringen, gemeinsam abstimmen; Missverständnis
+  über den Klassenausflug, eskalierende Diskussion, unentschiedene
+  Wahl.
 
 ## Themenspeicher
 
-Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
-wo es offensichtlich ist — sonst beim Schreiben entscheiden.
+Der Themenspeicher ist mit Set 100 leer — alle zuvor gesammelten
+Kandidaten sind gebaut. Neue Situationen hier sammeln, sobald welche
+anfallen; ansonsten gilt die SITUATIONEN-Sammlung als abgeschlossen.
 
-**Unterwegs** — Größere Reparatur in der Werkstatt ·
-Verkehrskontrolle und Unfall melden
-
-**Behörden & Formelles** —
-Führungszeugnis · Anerkennung
-ausländischer Abschlüsse · Arbeitsagentur und Jobcenter
-
-**Geld & Verträge** — Falsche Mahnung
-
-**Arbeit & Studium** — Um eine Gehaltserhöhung bitten (B2) · Konflikt mit
-Kolleginnen ansprechen (B2) · Kündigung schreiben · Uni: Immatrikulation,
-Prüfungsamt, BAföG
-
-**Soziales** — Elternabend
-
-Alle Kategorien des Themenspeichers stehen inzwischen in
-`CATEGORY_ORDER`: `Arbeit & Studium` kam mit Set 20 dazu, `Soziales` mit
-Set 36. Eine neue Kategorie dort beim ersten Set ergänzen.
+Alle bisherigen Kategorien stehen in `CATEGORY_ORDER`: `Arbeit &
+Studium` kam mit Set 20 dazu, `Soziales` mit Set 36. Eine neue
+Kategorie dort beim ersten Set ergänzen.

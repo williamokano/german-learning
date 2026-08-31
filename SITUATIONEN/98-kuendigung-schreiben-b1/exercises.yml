@@ -1,0 +1,455 @@
+lesson: "SIT/98-kuendigung-schreiben-b1"
+title: "Kündigung schreiben — B1"
+topic: "Kündigung schreiben"
+category: "Arbeit & Studium"
+level: B1
+summary: "Eine Kündigung schriftlich einreichen, die Kündigungsfrist und den letzten Arbeitstag klären und die Übergabe planen — und was tun, wenn der Erhalt nicht bestätigt wird oder die Frist falsch berechnet wurde."
+intro: >
+  Eine Kündigung schreiben heißt mehr als nur ein Datum unter einen
+  Brief setzen: die Kündigungsfrist beachten, die Kündigung
+  persönlich übergeben und am Ende Resturlaub, Arbeitszeugnis und
+  Übergabe klären. Dieses Set übt genau das — schreiben, übergeben,
+  abschließen, und was zu tun ist, wenn der Erhalt nicht bestätigt
+  wird oder die Frist falsch berechnet wurde. Grammatik nach Bedarf:
+  Modalverben, Perfekt und Futur I. Blocks: A Wortschatz & Redemittel
+  → B Dialoge → C Wenn es schiefgeht → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Schreiben, übergeben oder abschließen?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: schreiben, label: "Schreiben" }
+      - { key: uebergeben, label: "Übergeben" }
+      - { key: abschliessen, label: "Abschließen" }
+    tokens:
+      - { text: "die Kündigung formulieren", bucket: schreiben }
+      - { text: "die Kündigungsfrist beachten", bucket: schreiben }
+      - { text: "das Datum korrekt angeben", bucket: schreiben }
+      - { text: "die Kündigung unterschreiben", bucket: schreiben }
+      - { text: "die Kündigung persönlich abgeben", bucket: uebergeben }
+      - { text: "eine Kündigungsbestätigung verlangen", bucket: uebergeben }
+      - { text: "den Nachfolger einarbeiten", bucket: uebergeben }
+      - { text: "die Übergabe dokumentieren", bucket: uebergeben }
+      - { text: "den Resturlaub nehmen", bucket: abschliessen }
+      - { text: "ein Arbeitszeugnis anfordern", bucket: abschliessen }
+      - { text: "die Firmensachen zurückgeben", bucket: abschliessen }
+      - { text: "sich von den Kollegen verabschieden", bucket: abschliessen }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "die Kündigung" }
+      - { key: "2", text: "die Kündigungsfrist" }
+      - { key: "3", text: "das Arbeitsverhältnis" }
+      - { key: "4", text: "der letzte Arbeitstag" }
+      - { key: "5", text: "die Kündigungsbestätigung" }
+      - { key: "6", text: "das Arbeitszeugnis" }
+      - { key: "7", text: "die Übergabe" }
+      - { key: "8", text: "der Resturlaub" }
+    right:
+      - { key: a, text: "das schriftliche Beenden eines Arbeitsverhältnisses" }
+      - { key: b, text: "die Zeit zwischen Kündigung und letztem Arbeitstag" }
+      - { key: c, text: "die rechtliche Beziehung zwischen Arbeitgeber und Arbeitnehmer" }
+      - { key: d, text: "der letzte Tag vor dem Ausscheiden" }
+      - { key: e, text: "die schriftliche Bestätigung des Arbeitgebers" }
+      - { key: f, text: "die schriftliche Bewertung der beruflichen Leistung" }
+      - { key: g, text: "das Weitergeben der Aufgaben an den Nachfolger" }
+      - { key: h, text: "die noch nicht genommenen Urlaubstage" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die Kündigung vorbereiten"
+    instructions: "Ergänze das Modalverb oder die Verbform."
+    instructionsEn: "Fill in the modal verb or verb form."
+    text: |
+      1. Ich {1} gestern meine Kündigung eingereicht. (haben, Perfekt)
+      2. {2} Sie mir bitte den Erhalt der Kündigung bestätigen? (können, Sie-Form)
+      3. Man {3} die Kündigungsfrist genau beachten. (müssen, Präsens)
+      4. {4} die Kündigung schon bestätigt worden? (sein, Perfekt Passiv)
+      5. Falls der Resturlaub übrig {5}, wird er ausgezahlt. (bleiben, Präsens)
+      6. Mein Arbeitgeber {6} mir das Arbeitszeugnis rechtzeitig ausstellen. (werden, Futur I)
+      7. Ich {7} schon um ein Arbeitszeugnis gebeten. (haben, Perfekt)
+      8. {8} Sie mir bitte die Kündigungsfrist nennen? (können, Sie-Form)
+    answers:
+      "1": habe
+      "2": Können
+      "3": muss
+      "4": Ist
+      "5": bleibt
+      "6": wird
+      "7": habe
+      "8": Können
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Ich habe meine {1} schriftlich eingereicht. (das schriftliche Beenden des Arbeitsverhältnisses)
+      2. Die {2} beträgt bei mir vier Wochen zum Monatsende. (die Zeit bis zum letzten Arbeitstag)
+      3. Mein {3} endet offiziell am 31. März. (die rechtliche Beziehung zum Arbeitgeber)
+      4. Mein {4} ist der letzte Freitag im Monat. (der letzte Tag vor dem Ausscheiden)
+      5. Ich habe um ein {5} gebeten. (die Bewertung der beruflichen Leistung)
+      6. Für die {6} treffe ich mich mit meinem Nachfolger. (das Weitergeben der Aufgaben)
+    answers:
+      "1": Kündigung
+      "2": Kündigungsfrist
+      "3": Arbeitsverhältnis
+      "4": letzter Arbeitstag
+      "5": Arbeitszeugnis
+      "6": Übergabe
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Übergeben, klären, abschließen"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      (im Büro der Personalabteilung)
+      — Guten Tag, ich möchte Ihnen meine {1} persönlich übergeben.
+      — Oh, das kommt überraschend. Darf ich fragen, warum?
+      — Ich habe eine neue berufliche Chance bekommen.
+      — Verstehe. Wie lange ist eigentlich Ihre {2}?
+      — Vier Wochen zum Monatsende, also endet mein {3} am 31.
+      März.
+      — Gut, das trage ich gleich ein. Bekomme ich noch eine {4}?
+      — Ja, natürlich, hier ist eine Kopie mit meiner Unterschrift.
+      — Können Sie mir bitte noch bestätigen, dass Sie die
+      Kündigung {5} haben?
+      — Ja, das kann ich gern schriftlich bestätigen.
+      — Wie sieht es mit Ihrem {6} aus?
+      — Ich habe noch acht Tage übrig, die möchte ich vor meinem
+      letzten Arbeitstag nehmen.
+      — Kein Problem. Und die {7} an Ihren Nachfolger?
+      — Die plane ich für die letzten zwei Wochen.
+      — Perfekt. Und bitte denken Sie daran, rechtzeitig ein {8}
+      zu beantragen.
+      — Mache ich, das steht schon auf meiner Liste.
+      — Wir werden Sie {9} vermissen.
+      — Das freut mich sehr, ich {10} mich auf das Neue, aber ich
+      werde die Zeit hier vermissen.
+    bank: [KÜNDIGUNG, KÜNDIGUNGSFRIST, PROBEZEIT, ARBEITSVERHÄLTNIS, ABMAHNUNG, KÜNDIGUNGSBESTÄTIGUNG, ARBEITSVERTRAG, ERHALTEN, RESTURLAUB, ÜBERSTUNDEN, ÜBERGABE, ARBEITSZEUGNIS, SICHER, FREUE]
+    answers:
+      "1": KÜNDIGUNG
+      "2": KÜNDIGUNGSFRIST
+      "3": ARBEITSVERHÄLTNIS
+      "4": KÜNDIGUNGSBESTÄTIGUNG
+      "5": ERHALTEN
+      "6": RESTURLAUB
+      "7": ÜBERGABE
+      "8": ARBEITSZEUGNIS
+      "9": SICHER
+      "10": FREUE
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Übergeben und klären"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du willst der Personalabteilung sagen, dass du deine Kündigung persönlich übergeben möchtest. — You want to tell HR you'd like to hand in your resignation in person."
+        options:
+          - { key: a, text: "Kündigungen interessieren mich nicht." }
+          - { key: b, text: "Ich möchte Ihnen meine Kündigung persönlich übergeben." }
+          - { key: c, text: "Das ist mir egal." }
+        answer: b
+        why: "Eine klare Aussage ist der übliche Einstieg beim Übergeben einer Kündigung."
+      - q: "Du willst wissen, wie lange deine Kündigungsfrist ist. — You want to know how long your notice period is."
+        options:
+          - { key: a, text: "Das interessiert mich nicht." }
+          - { key: b, text: "Ich frage lieber nicht nach." }
+          - { key: c, text: "Wie lange ist eigentlich meine Kündigungsfrist?" }
+        answer: c
+        why: "Eine direkte Frage klärt frühzeitig den letzten Arbeitstag."
+      - q: "Du willst der Personalabteilung sagen, dass du eine neue berufliche Chance bekommen hast. — You want to tell HR you got a new professional opportunity."
+        options:
+          - { key: a, text: "Ich habe eine neue berufliche Chance bekommen." }
+          - { key: b, text: "Berufliche Chancen interessieren mich nicht." }
+          - { key: c, text: "Das ist mir völlig egal." }
+        answer: a
+        why: "Eine kurze Begründung ist bei einer Kündigung üblich und höflich."
+      - q: "Du willst wissen, ob du noch eine Kündigungsbestätigung bekommst. — You want to know if you'll get written confirmation of your resignation."
+        options:
+          - { key: a, text: "Bestätigungen interessieren mich nicht." }
+          - { key: b, text: "Bekomme ich noch eine Kündigungsbestätigung?" }
+          - { key: c, text: "Das ist mir egal, Hauptsache ich bin bald weg." }
+        answer: b
+        why: "Eine direkte Frage sichert einen schriftlichen Nachweis der Kündigung."
+      - q: "Du willst wissen, wie es mit deinem Resturlaub aussieht. — You want to know what's happening with your remaining vacation days."
+        options:
+          - { key: a, text: "Urlaub interessiert mich nicht." }
+          - { key: b, text: "Das ist mir zu kompliziert." }
+          - { key: c, text: "Wie sieht es eigentlich mit meinem Resturlaub aus?" }
+        answer: c
+        why: "Eine direkte Frage klärt frühzeitig die verbleibenden Urlaubstage."
+      - q: "Du willst der Personalabteilung sagen, dass du dich auf das Neue freust. — You want to tell HR you're looking forward to the new opportunity."
+        options:
+          - { key: a, text: "Ich freue mich auf das Neue." }
+          - { key: b, text: "Neues interessiert mich nicht." }
+          - { key: c, text: "Das ist mir völlig egal." }
+        answer: a
+        why: "Eine positive Aussage passt gut zum Abschied im Guten."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze zur Kündigung bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "möchte", "Ihnen", "meine", "Kündigung", "übergeben"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "höfliche Aussage, Infinitiv am Ende"
+      - tiles: ["Wie", "lange", "ist", "eigentlich", "meine", "Kündigungsfrist", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "W-Frage mit sein"
+      - tiles: ["Wir", "tragen", "das", "gleich", "ein"]
+        answer: [0, 1, 2, 3, 4]
+        note: "trennbares Verb, Vorsilbe am Ende"
+      - tiles: ["Nächste", "Woche", "werde", "ich", "meinen", "Nachfolger", "einarbeiten"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Futur I, Zeitangabe an Position 1, Verb an Position 2"
+      - tiles: ["Wie", "sieht", "es", "mit", "meinem", "Resturlaub", "aus", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "W-Frage mit trennbarem Verb"
+      - tiles: ["Ich", "habe", "schon", "um", "ein", "Arbeitszeugnis", "gebeten"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Perfekt, Partizip am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Infos zur Kündigung lesen"
+    instructions: |
+      > **Info — Kündigung schreiben**
+      >
+      > - **Kündigungsfrist:** gesetzlich mindestens **vier Wochen**
+      >   zum 15. oder zum Monatsende.
+      > - **Schriftform:** eine Kündigung muss immer **schriftlich
+      >   und unterschrieben** erfolgen.
+      > - **Kündigungsbestätigung:** sollte man sich vom Arbeitgeber
+      >   **schriftlich geben lassen**.
+      > - **Resturlaub:** kann genommen oder bei Nichtnahme
+      >   **ausgezahlt** werden.
+      > - **Arbeitszeugnis:** steht jedem Arbeitnehmer nach
+      >   Beendigung des Arbeitsverhältnisses **zu**.
+      > - **Übergabe:** erleichtert dem Nachfolger den **Einstieg in
+      >   die Aufgaben**.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Eine Kündigung muss immer schriftlich und unterschrieben erfolgen. — A resignation must always be in writing and signed."
+        answer: true
+        why: "So steht es ausdrücklich in den Infos zur Kündigung."
+      - q: "Eine mündliche Kündigung reicht in Deutschland vollkommen aus. — A verbal resignation is completely sufficient in Germany."
+        answer: false
+        why: "Eine Kündigung muss immer schriftlich und unterschrieben erfolgen, nicht nur mündlich."
+      - q: "Ein Arbeitszeugnis steht jedem Arbeitnehmer nach Beendigung des Arbeitsverhältnisses zu. — Every employee is entitled to a reference letter after their employment ends."
+        answer: true
+        why: "„Arbeitszeugnis: steht jedem Arbeitnehmer nach Beendigung des Arbeitsverhältnisses zu.“"
+      - q: "Resturlaub verfällt automatisch und kann nie ausgezahlt werden. — Remaining vacation automatically expires and can never be paid out."
+        answer: false
+        why: "Er kann genommen oder bei Nichtnahme ausgezahlt werden."
+      - q: "Eine Übergabe erleichtert dem Nachfolger den Einstieg in die Aufgaben. — A handover makes it easier for the successor to get started with the tasks."
+        answer: true
+        why: "„Übergabe: erleichtert dem Nachfolger den Einstieg in die Aufgaben.“"
+      - q: "Eine Kündigungsbestätigung braucht man in keinem Fall. — You never need a confirmation of resignation."
+        answer: false
+        why: "Man sollte sich eine Kündigungsbestätigung schriftlich geben lassen."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn bei der Kündigung etwas schiefgeht"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Ihr Arbeitgeber bestätigt den Erhalt der Kündigung nicht. — Your employer doesn't confirm receipt of the resignation."
+        options:
+          - { key: a, text: "Einfach abwarten, bis sich jemand meldet." }
+          - { key: b, text: "Schriftlich nachfragen und um eine schnelle Bestätigung bitten." }
+          - { key: c, text: "Die Kündigung noch einmal ganz neu formulieren." }
+        answer: b
+        why: "Eine schriftliche Nachfrage sichert einen klaren Nachweis."
+      - q: "Sie merken, dass die Kündigungsfrist falsch berechnet wurde. — You notice the notice period was calculated incorrectly."
+        options:
+          - { key: a, text: "Es einfach so lassen, wie es ist." }
+          - { key: b, text: "Sofort kündigen und gar nicht mehr erscheinen." }
+          - { key: c, text: "Höflich auf die korrekte Frist hinweisen und um Korrektur bitten." }
+        answer: c
+        why: "Ein höflicher Hinweis klärt schnell den korrekten letzten Arbeitstag."
+      - q: "Ihr Resturlaub wird nicht ausgezahlt, obwohl Sie ihn nicht mehr nehmen konnten. — Your remaining vacation isn't paid out even though you couldn't take it anymore."
+        options:
+          - { key: a, text: "Schriftlich auf die Auszahlung bestehen und den Anspruch belegen." }
+          - { key: b, text: "Den Anspruch einfach verfallen lassen." }
+          - { key: c, text: "Sich beim Kollegen darüber beschweren, ohne die Firma zu informieren." }
+        answer: a
+        why: "Ein schriftlicher, belegter Anspruch sichert die Auszahlung."
+      - q: "In Ihrem Arbeitszeugnis stehen fehlerhafte Angaben. — Your reference letter contains incorrect information."
+        options:
+          - { key: a, text: "Das fehlerhafte Zeugnis einfach so akzeptieren." }
+          - { key: b, text: "Höflich um eine Korrektur der falschen Angaben bitten." }
+          - { key: c, text: "Sich selbst ein neues Zeugnis schreiben." }
+        answer: b
+        why: "Eine höfliche Bitte um Korrektur ist der übliche und richtige Weg."
+      - q: "Der Nachfolger wird nicht rechtzeitig vor Ihrem letzten Arbeitstag eingearbeitet. — The successor isn't trained in time before your last working day."
+        options:
+          - { key: a, text: "Die Übergabe komplett ausfallen lassen." }
+          - { key: b, text: "Nichts sagen und einfach gehen." }
+          - { key: c, text: "Der Führungskraft das Problem melden und eine schriftliche Übergabe vorbereiten." }
+        answer: c
+        why: "Eine schriftliche Übergabe sichert das Wissen auch ohne persönliche Einarbeitung."
+      - q: "Ihre Kündigung geht offenbar auf dem Postweg verloren. — Your resignation letter apparently gets lost in the mail."
+        options:
+          - { key: a, text: "Eine neue Kündigung mit Nachweis persönlich abgeben." }
+          - { key: b, text: "Einfach warten, ob sie doch noch ankommt." }
+          - { key: c, text: "Auf die Kündigung ganz verzichten." }
+        answer: a
+        why: "Eine persönliche Abgabe mit Nachweis vermeidet Unklarheiten über die Frist."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Mein Arbeitgeber hat den Erhalt der Kündigung nicht {1}. (nicht anerkannt, Partizip)
+      2. Die Kündigungsfrist wurde leider falsch {2}. (falsch gerechnet, Partizip)
+      3. Mein Resturlaub wurde leider nicht {3}. (nicht bezahlt, Partizip)
+      4. Mein Arbeitszeugnis wurde mit fehlerhaften Angaben {4}. (herausgegeben, Partizip)
+      5. Mein Nachfolger wurde nicht rechtzeitig {5}. (vorbereitet, Partizip)
+      6. Meine Kündigung ist auf dem Postweg leider {6}. (weg, Partizip)
+    answers:
+      "1": bestätigt
+      "2": berechnet
+      "3": ausgezahlt
+      "4": ausgestellt
+      "5": eingearbeitet
+      "6": verlorengegangen
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Ich {1} gestern meine Kündigung eingereicht. (have — Perfekt)
+      2. Man {2} die Kündigungsfrist genau beachten. (must — müssen)
+      3. Ich habe meine {3} schriftlich eingereicht. (resignation)
+      4. Die {4} beträgt bei mir vier Wochen zum Monatsende. (notice period)
+      5. Mein {5} endet offiziell am 31. März. (employment relationship)
+      6. Mein {6} ist der letzte Freitag im Monat. (last working day)
+      7. Ich habe um ein {7} gebeten. (reference letter)
+      8. Für die {8} treffe ich mich mit meinem Nachfolger. (handover)
+      9. {9} Sie mir bitte die Kündigungsfrist nennen? (could — können, Sie-Form)
+      10. Mein Arbeitgeber hat den Erhalt der Kündigung nicht {10}. (confirmed — Partizip)
+      11. Die Kündigungsfrist wurde leider falsch {11}. (calculated — Partizip)
+      12. Mein Resturlaub wurde leider nicht {12}. (paid out — Partizip)
+      13. Mein Arbeitszeugnis wurde mit fehlerhaften Angaben {13}. (issued — Partizip)
+      14. Meine Kündigung ist auf dem Postweg leider {14}. (lost — Partizip)
+    answers:
+      "1": habe
+      "2": muss
+      "3": Kündigung
+      "4": Kündigungsfrist
+      "5": Arbeitsverhältnis
+      "6": letzter Arbeitstag
+      "7": Arbeitszeugnis
+      "8": Übergabe
+      "9": Können
+      "10": bestätigt
+      "11": berechnet
+      "12": ausgezahlt
+      "13": ausgestellt
+      "14": verlorengegangen
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Einreichen, ein Problem, die Lösung"
+    prompt: "Schreib drei Teile: deine Kündigung einreichen und die Details klären, ein Problem, weil die Kündigungsfrist falsch berechnet wurde, und die Lösung. Zusammen 16–20 Sätze."
+    stimulus: |
+      Du reichst deine Kündigung bei der Personalabteilung ein.
+      Später merkst du, dass die Kündigungsfrist falsch berechnet
+      wurde.
+
+      Beim Einreichen müssen vorkommen:
+      1. die Kündigung persönlich übergeben
+      2. nach der Kündigungsfrist fragen
+      3. um eine Kündigungsbestätigung bitten
+
+      Beim Problem müssen vorkommen:
+      4. merken, dass die Frist falsch berechnet wurde
+      5. sich unsicher fühlen
+      6. die Personalabteilung darauf ansprechen
+
+      In der Lösung müssen vorkommen:
+      7. die korrekte Frist bestätigt bekommen
+      8. den letzten Arbeitstag neu festlegen
+      9. die Übergabe planen
+      10. sich auf den Neuanfang freuen
+    use:
+      - "höfliche Frage: „Können Sie mir bitte die Kündigungsfrist nennen?“"
+      - "Perfekt: „Ich habe meine Kündigung eingereicht.“"
+      - "Futur I: „Ich werde die Übergabe rechtzeitig planen.“"
+    selfCheck:
+      - "Wird das Einreichen klar beschrieben?"
+      - "Klingt die Reaktion auf die falsche Frist realistisch?"
+      - "Wird die korrigierte Frist als Lösung erwähnt?"
+      - "Kommen alle 10 Punkte vor?"
+    model: |
+      **Einreichen**
+
+      Ich übergebe meine Kündigung persönlich in der Personalabteilung.
+      Ich: Können Sie mir bitte die Kündigungsfrist nennen?
+      Ich bitte um eine schriftliche Kündigungsbestätigung.
+
+      **Das Problem**
+
+      Später merke ich, dass die Kündigungsfrist falsch berechnet wurde.
+      Ich fühle mich kurz unsicher, spreche die Personalabteilung aber sofort darauf an.
+
+      **Die Lösung**
+
+      Personalabteilung: Sie haben recht, wir korrigieren das sofort.
+      Ich bekomme die korrekte Frist schriftlich bestätigt.
+      Ich plane die Übergabe an meinen Nachfolger.
+      Ich freue mich sehr auf meinen Neuanfang.
