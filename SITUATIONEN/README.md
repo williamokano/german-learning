@@ -436,6 +436,26 @@ Same discipline as a `THEMEN/` set:
   sich entschuldigen, ein Missverständnis aufklären, um Verzeihung
   bitten; kühle Reaktion, missverständliche Entschuldigung,
   wiederaufgewärmtes Thema.
+- **78 — Ein Auto kaufen** (B1) — einen Gebrauchtwagen besichtigen,
+  eine Probefahrt machen, über den Preis verhandeln; auffälliges
+  Geräusch, verschwiegener Unfallschaden, mündlicher statt
+  schriftlicher Vertrag.
+- **79 — Falsch geparkt: Knöllchen und Abschleppdienst** (A2) — ein
+  Knöllchen entdecken, das Bußgeld verstehen, Einspruch einlegen;
+  abgeschlepptes Auto, knappe Einspruchsfrist, doppeltes Knöllchen.
+- **80 — Rundfunkbeitrag** (A2) — sich nach dem Umzug ummelden, eine
+  Befreiung beantragen, den Nachweis einreichen; unberechtigte
+  Mahnung, ausbleibender Bescheid, Rechnung für die alte Wohnung.
+- **81 — Versicherung: Schaden melden** (A2) — einen Schaden melden,
+  die Schadenmeldung ausfüllen, nach der Deckung fragen; ausbleibende
+  Reaktion, abgelehnte Deckung, verzögerte Erstattung.
+- **82 — Internet fällt aus: Anruf beim Anbieter** (A2) — den
+  Router neu starten, die Störungshotline anrufen, einen
+  Techniker-Termin vereinbaren; abgesagter Termin, andauernde
+  Störung, erneuter Ausfall nach der Reparatur.
+- **83 — Gratulieren und kondolieren** (A2) — zum Geburtstag
+  gratulieren, sich mitfreuen, bei einem Trauerfall kondolieren;
+  vergessene Gratulation, fehlende Worte, unbeholfene Formulierung.
 
 ## Themenspeicher
 
@@ -443,29 +463,26 @@ Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
 wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 
 **Einkaufen** —
-Ein Auto kaufen
-(B1) · Eine Wohnung kaufen (B2)
+Eine Wohnung kaufen (B2)
 
 **Unterwegs** — Größere Reparatur in der Werkstatt ·
-Falsch geparkt: Knöllchen und
-Abschleppdienst · Verkehrskontrolle und Unfall melden · Führerschein machen
+Verkehrskontrolle und Unfall melden · Führerschein machen
 
-**Behörden & Formelles** — Rundfunkbeitrag ·
+**Behörden & Formelles** —
 Standesamt · Führungszeugnis · Anerkennung
 ausländischer Abschlüsse · Arbeitsagentur und Jobcenter
 
-**Geld & Verträge** — Versicherung: Schaden melden · Falsche Mahnung ·
+**Geld & Verträge** — Falsche Mahnung ·
 Betrug und Phishing melden
 
 **Wenn etwas schiefgeht** —
-Internet fällt aus: Anruf beim Anbieter · Fundbüro
+Fundbüro
 
 **Arbeit & Studium** — Um eine Gehaltserhöhung bitten (B2) · Konflikt mit
 Kolleginnen ansprechen (B2) · Kündigung schreiben · Uni: Immatrikulation,
 Prüfungsamt, BAföG
 
-**Soziales** — Gratulieren und
-kondolieren · Elternabend · Ein Geschenk aussuchen und überreichen
+**Soziales** — Elternabend · Ein Geschenk aussuchen und überreichen
 
 Alle Kategorien des Themenspeichers stehen inzwischen in
 `CATEGORY_ORDER`: `Arbeit & Studium` kam mit Set 20 dazu, `Soziales` mit
