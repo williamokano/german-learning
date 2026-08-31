@@ -1,0 +1,458 @@
+lesson: "SIT/81-versicherung-schaden-melden-a2"
+title: "Versicherung: Schaden melden — A2"
+topic: "Versicherung: Schaden melden"
+category: "Geld & Verträge"
+level: A2
+summary: "Einen Schaden bei der Versicherung melden, die Schadensnummer notieren, nach der Deckung fragen — und was tun, wenn die Erstattung sich verzögert oder die Deckung abgelehnt wird."
+intro: >
+  Ein Schaden ist ärgerlich genug — die Meldung bei der Versicherung
+  sollte deshalb möglichst reibungslos laufen: die Schadenmeldung
+  ausfüllen, die Versicherungspolice bereithalten, die Schadensnummer
+  notieren. Dieses Set übt genau das — einen Schaden melden, nach der
+  Deckung und Selbstbeteiligung fragen, und was zu tun ist, wenn die
+  Erstattung sich verzögert oder die Versicherung die Deckung ablehnt.
+  Grammatik nach Bedarf: Perfekt und Passiv im Bericht, Nebensätze mit
+  falls. Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn es
+  schiefgeht → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Feststellen, melden oder danach?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: feststellen, label: "Den Schaden feststellen" }
+      - { key: melden, label: "Melden" }
+      - { key: danach, label: "Nach der Meldung" }
+    tokens:
+      - { text: "den Schaden genau dokumentieren", bucket: feststellen }
+      - { text: "Fotos machen", bucket: feststellen }
+      - { text: "die Schadenhöhe schätzen", bucket: feststellen }
+      - { text: "Zeugen notieren", bucket: feststellen }
+      - { text: "die Schadenmeldung ausfüllen", bucket: melden }
+      - { text: "die Versicherungspolice heraussuchen", bucket: melden }
+      - { text: "die Schadensnummer notieren", bucket: melden }
+      - { text: "die Frist beachten", bucket: melden }
+      - { text: "auf den Gutachter warten", bucket: danach }
+      - { text: "die Deckung klären", bucket: danach }
+      - { text: "die Selbstbeteiligung zahlen", bucket: danach }
+      - { text: "die Erstattung erhalten", bucket: danach }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "der Schaden" }
+      - { key: "2", text: "die Schadenmeldung" }
+      - { key: "3", text: "die Versicherungspolice" }
+      - { key: "4", text: "die Schadensnummer" }
+      - { key: "5", text: "der Gutachter" }
+      - { key: "6", text: "die Deckung" }
+      - { key: "7", text: "die Selbstbeteiligung" }
+      - { key: "8", text: "die Schadenhöhe" }
+    right:
+      - { key: a, text: "der entstandene Verlust oder die Beschädigung" }
+      - { key: b, text: "die Mitteilung des Schadens an die Versicherung" }
+      - { key: c, text: "das Dokument mit den Vertragsdetails" }
+      - { key: d, text: "die Nummer zur eindeutigen Zuordnung des Falls" }
+      - { key: e, text: "die Person, die den Schaden begutachtet" }
+      - { key: f, text: "was die Versicherung tatsächlich übernimmt" }
+      - { key: g, text: "der Betrag, den man selbst tragen muss" }
+      - { key: h, text: "der geschätzte Wert des Schadens" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die Meldung planen"
+    instructions: "Ergänze das Modalverb oder die Verbform."
+    instructionsEn: "Fill in the modal verb or verb form."
+    text: |
+      1. Ich {1} den Schaden sofort melden. (Modalverb, ich-Form)
+      2. {2} Sie mir bei der Schadenmeldung helfen? (können, Sie-Form)
+      3. Ich {3} schon Fotos vom Schaden gemacht. (haben, Perfekt)
+      4. {4} wir einen Gutachter bestellen? (müssen, wir-Form)
+      5. Falls der Schaden größer {5}, brauchen wir einen Gutachter. (sein, Präsens)
+      6. Die Versicherung {6} sich innerhalb weniger Tage melden. (werden, Futur I)
+      7. Wir {7} schon die Schadensnummer bekommen. (haben, Perfekt)
+      8. {8} die Deckung schon geklärt worden? (sein, Perfekt Passiv)
+    answers:
+      "1": muss
+      "2": Können
+      "3": habe
+      "4": Müssen
+      "5": ist
+      "6": wird
+      "7": haben
+      "8": Ist
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Zuerst dokumentieren wir den {1} genau. (der entstandene Verlust oder die Beschädigung)
+      2. Dann füllen wir die {2} aus. (die Mitteilung des Schadens an die Versicherung)
+      3. Dafür brauchen wir unsere {3}. (das Dokument mit den Vertragsdetails)
+      4. Die Versicherung gibt uns eine {4} für den Fall. (die Nummer zur eindeutigen Zuordnung)
+      5. Ein {5} schätzt die Schadenhöhe vor Ort. (die Person, die den Schaden begutachtet)
+      6. Wir müssen noch klären, was die {6} übernimmt. (was die Versicherung tatsächlich übernimmt)
+    answers:
+      "1": Schaden
+      "2": Schadenmeldung
+      "3": Versicherungspolice
+      "4": Schadensnummer
+      "5": Gutachter
+      "6": Deckung
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Bei der Versicherung"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      — Guten Tag, ich möchte einen {1} melden, der letzte Woche
+      entstanden ist.
+      — Kein Problem, haben Sie schon eine {2} ausgefüllt?
+      — Noch nicht, können Sie mir dabei helfen?
+      — Gerne. Haben Sie Ihre {3} zur Hand?
+      — Ja, einen Moment ... hier ist sie.
+      — Gut, dann erfasse ich das gleich. Sie bekommen dafür eine
+      {4}.
+      — Danke. Und wie geht es dann weiter?
+      — Ein {5} wird sich den Schaden ansehen und die Höhe
+      schätzen.
+      — Verstehe. Und was genau übernimmt eigentlich die {6}?
+      — Das hängt von Ihrem Vertrag ab, das prüfen wir gleich für
+      Sie.
+      — Muss ich noch eine {7} zahlen?
+      — Ja, laut Vertrag liegt die bei 150 Euro.
+      — Okay, gut zu wissen. Wann {8} ich mit der Erstattung
+      rechnen?
+      — In der Regel innerhalb von zwei bis drei Wochen.
+      — Perfekt, vielen Dank, das {9} mir sehr!
+      — Gern geschehen, wir {10} uns bei Ihnen, sobald es
+      Neuigkeiten gibt.
+    bank: [SCHADEN, SCHADENMELDUNG, VERSICHERUNGSPOLICE, SCHADENSNUMMER, GUTACHTER, DECKUNG, SELBSTBETEILIGUNG, KANN, HILFT, MELDEN, TARIF, HAFTPFLICHT, HAUSRAT, VERTRAG]
+    answers:
+      "1": SCHADEN
+      "2": SCHADENMELDUNG
+      "3": VERSICHERUNGSPOLICE
+      "4": SCHADENSNUMMER
+      "5": GUTACHTER
+      "6": DECKUNG
+      "7": SELBSTBETEILIGUNG
+      "8": KANN
+      "9": HILFT
+      "10": MELDEN
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Melden und Klären"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du möchtest einen Schaden bei der Versicherung melden. — You want to report a claim to the insurance company."
+        options:
+          - { key: a, text: "Schäden interessieren mich nicht." }
+          - { key: b, text: "Ich möchte einen Schaden melden, der letzte Woche entstanden ist." }
+          - { key: c, text: "Ich melde sowieso nie etwas." }
+        answer: b
+        why: "Eine klare, konkrete Meldung ist der übliche Einstieg bei der Versicherung."
+      - q: "Du möchtest wissen, ob du bei der Schadenmeldung Hilfe bekommst. — You want to know whether you can get help filing the claim."
+        options:
+          - { key: a, text: "Hilfe brauche ich sowieso nicht." }
+          - { key: b, text: "Formulare fülle ich sowieso nie aus." }
+          - { key: c, text: "Können Sie mir bei der Schadenmeldung helfen?" }
+        answer: c
+        why: "Eine direkte Bitte um Hilfe ist beim ersten Kontakt völlig normal."
+      - q: "Du möchtest wissen, was die Versicherung tatsächlich übernimmt. — You want to know what the insurance actually covers."
+        options:
+          - { key: a, text: "Was genau übernimmt eigentlich die Deckung?" }
+          - { key: b, text: "Deckung interessiert mich nicht." }
+          - { key: c, text: "Das ist mir egal, Hauptsache irgendetwas wird bezahlt." }
+        answer: a
+        why: "Eine konkrete Frage zur Deckung klärt frühzeitig, was übernommen wird."
+      - q: "Du möchtest wissen, wie hoch die Selbstbeteiligung ist. — You want to know how high the deductible is."
+        options:
+          - { key: a, text: "Selbstbeteiligung interessiert mich nicht." }
+          - { key: b, text: "Muss ich noch eine Selbstbeteiligung zahlen?" }
+          - { key: c, text: "Kosten sind mir egal." }
+        answer: b
+        why: "Eine direkte Frage zur Selbstbeteiligung vermeidet spätere Überraschungen."
+      - q: "Du möchtest wissen, wann du mit der Erstattung rechnen kannst. — You want to know when to expect reimbursement."
+        options:
+          - { key: a, text: "Erstattungen interessieren mich nicht." }
+          - { key: b, text: "Ich warte einfach unbegrenzt." }
+          - { key: c, text: "Wann kann ich mit der Erstattung rechnen?" }
+        answer: c
+        why: "Eine direkte Frage zur Erstattung hilft bei der eigenen Planung."
+      - q: "Die Versicherung hat dir schnell geholfen. — The insurer helped you quickly."
+        options:
+          - { key: a, text: "Vielen Dank, das hilft mir sehr!" }
+          - { key: b, text: "Das war doch nichts Besonderes." }
+          - { key: c, text: "Hilfe interessiert mich nicht." }
+        answer: a
+        why: "Ein herzlicher Dank ist die passende Reaktion auf schnelle, gute Hilfe."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze zur Schadenmeldung bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "möchte", "einen", "Schaden", "melden"]
+        answer: [0, 1, 2, 3, 4]
+        note: "höfliche Aussage, Infinitiv am Ende"
+      - tiles: ["Können", "Sie", "mir", "bei", "der", "Schadenmeldung", "helfen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "höfliche Frage, Infinitiv am Ende"
+      - tiles: ["Was", "genau", "übernimmt", "eigentlich", "die", "Deckung", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "W-Frage mit Verb an Position 2"
+      - tiles: ["Falls", "der", "Schaden", "größer", "ist", ",", "brauchen", "wir", "einen", "Gutachter"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        note: "Nebensatz mit falls, Hauptsatz mit Verb an Position 2"
+      - tiles: ["Muss", "ich", "noch", "eine", "Selbstbeteiligung", "zahlen", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Frage mit Modalverb, Infinitiv am Ende"
+      - tiles: ["Wir", "haben", "schon", "die", "Schadensnummer", "bekommen"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Perfekt, Partizip am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Infos zur Schadenmeldung lesen"
+    instructions: |
+      > **Info — Schaden melden**
+      >
+      > - **Meldefrist:** ein Schaden sollte **innerhalb einer
+      >   Woche** gemeldet werden.
+      > - **Beweise:** Fotos und ggf. Zeugen erleichtern die
+      >   **Bearbeitung erheblich**.
+      > - **Gutachter:** wird meist erst **bei größeren Schäden**
+      >   eingeschaltet.
+      > - **Selbstbeteiligung:** ist im Vertrag **individuell
+      >   festgelegt**.
+      > - **Erstattung:** erfolgt meist **innerhalb von zwei bis
+      >   drei Wochen**.
+      > - **Schadensnummer:** sollte bei **jedem weiteren Kontakt**
+      >   angegeben werden.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Ein Schaden sollte innerhalb einer Woche gemeldet werden. — A claim should be reported within a week."
+        answer: true
+        why: "So steht es ausdrücklich in den Infos zur Schadenmeldung."
+      - q: "Fotos und Zeugen spielen bei der Bearbeitung überhaupt keine Rolle. — Photos and witnesses play no role at all in processing."
+        answer: false
+        why: "Sie erleichtern die Bearbeitung erheblich, statt keine Rolle zu spielen."
+      - q: "Ein Gutachter wird meist erst bei größeren Schäden eingeschaltet. — An assessor is usually only called in for larger claims."
+        answer: true
+        why: "„Gutachter: wird meist erst bei größeren Schäden eingeschaltet.“"
+      - q: "Die Selbstbeteiligung ist bei allen Verträgen exakt gleich hoch. — The deductible is exactly the same for every contract."
+        answer: false
+        why: "Sie ist im Vertrag individuell festgelegt, nicht bei allen gleich."
+      - q: "Die Erstattung erfolgt meist innerhalb von zwei bis drei Wochen. — Reimbursement usually happens within two to three weeks."
+        answer: true
+        why: "„Erstattung: erfolgt meist innerhalb von zwei bis drei Wochen.“"
+      - q: "Die Schadensnummer braucht man nur beim allerersten Kontakt, danach nie wieder. — The claim number is only needed for the very first contact, never again after that."
+        answer: false
+        why: "Sie sollte bei jedem weiteren Kontakt angegeben werden."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn bei der Schadenmeldung etwas schiefgeht"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Die Versicherung reagiert nicht auf die Schadenmeldung. — The insurer doesn't respond to the claim."
+        options:
+          - { key: a, text: "Einfach abwarten, ohne nachzufragen." }
+          - { key: b, text: "Nach ein paar Tagen höflich telefonisch nachfassen." }
+          - { key: c, text: "Sofort eine schlechte Bewertung schreiben, ohne nachzufragen." }
+        answer: b
+        why: "Ein höflicher Anruf nach ein paar Tagen klärt meist schnell, woran es liegt."
+      - q: "Der Gutachter schätzt die Schadenhöhe deutlich niedriger als erwartet ein. — The assessor estimates the damage much lower than expected."
+        options:
+          - { key: a, text: "Die niedrige Schätzung einfach akzeptieren." }
+          - { key: b, text: "Sich beim Gutachter laut beschweren, ohne Alternativen zu prüfen." }
+          - { key: c, text: "Ein zweites, unabhängiges Gutachten einholen." }
+        answer: c
+        why: "Ein zweites Gutachten liefert eine objektive Vergleichsgrundlage."
+      - q: "Die Versicherung lehnt die Deckung ab und beruft sich auf eine unklare Vertragsklausel. — The insurer refuses coverage, citing an unclear clause."
+        options:
+          - { key: a, text: "Die Klausel genau prüfen und schriftlich Widerspruch einlegen." }
+          - { key: b, text: "Die Ablehnung kommentarlos hinnehmen." }
+          - { key: c, text: "Sich nur mündlich beschweren, ohne die Klausel zu prüfen." }
+        answer: a
+        why: "Eine genaue Prüfung mit schriftlichem Widerspruch ist der wirksamste Weg."
+      - q: "Man hat die Schadensnummer verloren. — You've lost the claim number."
+        options:
+          - { key: a, text: "Ohne Nummer einfach gar nichts mehr unternehmen." }
+          - { key: b, text: "Die Versicherung anrufen und die Nummer erneut erfragen." }
+          - { key: c, text: "Sich eine beliebige Nummer ausdenken." }
+        answer: b
+        why: "Ein Anruf klärt die Nummer schnell und unkompliziert."
+      - q: "Die Erstattung dauert deutlich länger als angekündigt. — Reimbursement takes much longer than announced."
+        options:
+          - { key: a, text: "Einfach endlos weiter warten, ohne nachzufragen." }
+          - { key: b, text: "Die Schadenmeldung komplett zurückziehen." }
+          - { key: c, text: "Freundlich nach dem Bearbeitungsstand fragen." }
+        answer: c
+        why: "Eine freundliche Nachfrage klärt meist schnell, woran die Verzögerung liegt."
+      - q: "Man merkt erst später, dass ein Teil des Schadens gar nicht gemeldet wurde. — You later realize part of the damage was never reported."
+        options:
+          - { key: a, text: "Den fehlenden Teil so schnell wie möglich nachmelden." }
+          - { key: b, text: "Den fehlenden Teil einfach vergessen." }
+          - { key: c, text: "Nichts mehr unternehmen, weil es schon zu spät ist." }
+        answer: a
+        why: "Ein schnelles Nachmelden stellt sicher, dass auch dieser Teil abgedeckt wird."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Die Versicherung hat auf die Schadenmeldung nicht {1}. (nicht geantwortet, Partizip)
+      2. Der Gutachter hat die Schadenhöhe niedriger {2}. (bewertet, Partizip)
+      3. Die Versicherung hat die Deckung {3}. (nicht genehmigt, Partizip)
+      4. Ich habe die Schadensnummer {4}. (nicht mehr gefunden, Partizip)
+      5. Die Erstattung hat sich deutlich {5}. (später als geplant, Partizip)
+      6. Ich habe einen Teil des Schadens gar nicht {6}. (der Versicherung mitgeteilt, Partizip)
+    answers:
+      "1": reagiert
+      "2": eingeschätzt
+      "3": abgelehnt
+      "4": verloren
+      "5": verzögert
+      "6": gemeldet
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Ich {1} den Schaden sofort melden. (must)
+      2. {2} Sie mir bei der Schadenmeldung helfen? (could — können)
+      3. Ich {3} schon Fotos gemacht. (have — Perfekt)
+      4. Zuerst dokumentieren wir den {4} genau. (damage)
+      5. Dann füllen wir die {5} aus. (claim report)
+      6. Dafür brauchen wir unsere {6}. (insurance policy)
+      7. Die Versicherung gibt uns eine {7}. (claim number)
+      8. Ein {8} schätzt die Schadenhöhe. (assessor)
+      9. Wir klären, was die {9} übernimmt. (coverage)
+      10. Die Versicherung hat auf die Schadenmeldung nicht {10}. (reacted — Partizip)
+      11. Der Gutachter hat die Schadenhöhe niedriger {11}. (estimated — Partizip)
+      12. Die Versicherung hat die Deckung {12}. (denied — Partizip)
+      13. Ich habe die Schadensnummer {13}. (lost — Partizip)
+      14. Die Erstattung hat sich deutlich {14}. (delayed — Partizip)
+    answers:
+      "1": muss
+      "2": Könnten
+      "3": habe
+      "4": Schaden
+      "5": Schadenmeldung
+      "6": Versicherungspolice
+      "7": Schadensnummer
+      "8": Gutachter
+      "9": Deckung
+      "10": reagiert
+      "11": eingeschätzt
+      "12": abgelehnt
+      "13": verloren
+      "14": verzögert
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Melden, ein Problem, die Lösung"
+    prompt: "Schreib drei Teile: einen Schaden melden und die Schadenmeldung ausfüllen, ein Problem, weil die Erstattung sich verzögert, und die Lösung. Zusammen 16–20 Sätze."
+    stimulus: |
+      Bei dir ist ein Schaden entstanden. Du meldest ihn bei deiner
+      Versicherung, füllst die Schadenmeldung aus und bekommst eine
+      Schadensnummer. Die versprochene Erstattung dauert danach aber
+      viel länger als angekündigt.
+
+      Beim Melden müssen vorkommen:
+      1. den Schaden bei der Versicherung melden
+      2. die Schadenmeldung ausfüllen
+      3. eine Schadensnummer bekommen
+
+      Beim Problem müssen vorkommen:
+      4. merken, dass die Erstattung viel länger dauert
+      5. freundlich nach dem Bearbeitungsstand fragen
+      6. die Schadensnummer nennen
+
+      In der Lösung müssen vorkommen:
+      7. eine Erklärung von der Versicherung bekommen
+      8. die Erstattung endlich erhalten
+      9. die Selbstbeteiligung abziehen
+      10. sich über die endlich abgeschlossene Sache freuen
+    use:
+      - "höfliche Bitte: „Können Sie mir bei der Schadenmeldung helfen?“"
+      - "Nebensatz mit falls: „Falls der Schaden größer ist, …“"
+      - "Perfekt: „Wir haben die Schadensnummer bekommen.“"
+    selfCheck:
+      - "Wird die Schadenmeldung klar beschrieben?"
+      - "Klingt die Reaktion auf die verzögerte Erstattung sachlich und freundlich?"
+      - "Wird die Selbstbeteiligung erwähnt?"
+      - "Kommen alle 10 Punkte vor?"
+    model: |
+      **Melden**
+
+      Ich: Guten Tag, ich möchte einen Schaden melden, der letzte Woche entstanden ist.
+      Versicherung: Kein Problem, haben Sie schon eine Schadenmeldung ausgefüllt?
+      Ich: Noch nicht, können Sie mir dabei helfen?
+      Versicherung: Gerne, Sie bekommen dafür gleich eine Schadensnummer.
+
+      **Das Problem**
+
+      (drei Wochen später)
+      Ich: Guten Tag, ich habe die Erstattung immer noch nicht erhalten, dabei sollte es nur zwei bis drei Wochen dauern.
+      Versicherung: Entschuldigung, können Sie mir Ihre Schadensnummer nennen?
+      Ich: Natürlich, hier ist sie.
+
+      **Die Lösung**
+
+      Versicherung: Ich sehe das Problem, die Erstattung wird noch heute veranlasst.
+      Ich: Vielen Dank, das hilft mir sehr!
+      (zwei Tage später)
+      Ich: Die Erstattung ist angekommen, abzüglich der Selbstbeteiligung — endlich alles geklärt!
