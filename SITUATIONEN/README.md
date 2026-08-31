@@ -456,33 +456,45 @@ Same discipline as a `THEMEN/` set:
 - **83 — Gratulieren und kondolieren** (A2) — zum Geburtstag
   gratulieren, sich mitfreuen, bei einem Trauerfall kondolieren;
   vergessene Gratulation, fehlende Worte, unbeholfene Formulierung.
+- **84 — Eine Wohnung kaufen** (B2) — besichtigen, die Finanzierung
+  mit der Bank klären, den Notartermin wahrnehmen; abgelehnte
+  Finanzierung, Fehler im Kaufvertrag, verzögerte Grundbucheintragung.
+- **85 — Führerschein machen** (B1) — sich bei der Fahrschule
+  anmelden, Sehtest und Erste-Hilfe-Kurs machen, Fahrstunden nehmen;
+  durchgefallene Theorieprüfung, durchgefallene praktische Prüfung,
+  verlorener Führerschein.
+- **86 — Standesamt** (B1) — die Eheschließung anmelden, Geburtsurkunde
+  und Ledigkeitsbescheinigung vorlegen, die Heiratsurkunde abholen;
+  fehlendes Dokument, nicht übersetzte Urkunde, abgesagter Trauzeuge.
+- **87 — Betrug und Phishing melden** (A2) — eine Phishing-Mail
+  erkennen, die Bank informieren, die Karte sperren lassen; schon
+  angeklickter Link, unbekannte Abbuchung, abgelehnte Rückbuchung.
+- **88 — Fundbüro** (A2) — einen verlorenen Gegenstand melden,
+  genau beschreiben, mit Ausweis und Abholschein abholen; noch nicht
+  gefundene Sache, verlorener Abholschein, beschädigt zurückerhalten.
+- **89 — Ein Geschenk aussuchen und überreichen** (A2) — eine
+  Geschenkidee finden, einpacken lassen, feierlich überreichen;
+  falsches Geschenk, gerissenes Papier, doppeltes Geschenk.
 
 ## Themenspeicher
 
 Kandidaten für die nächsten Sets, nach Kategorie. Das Niveau steht dabei,
 wo es offensichtlich ist — sonst beim Schreiben entscheiden.
 
-**Einkaufen** —
-Eine Wohnung kaufen (B2)
-
 **Unterwegs** — Größere Reparatur in der Werkstatt ·
-Verkehrskontrolle und Unfall melden · Führerschein machen
+Verkehrskontrolle und Unfall melden
 
 **Behörden & Formelles** —
-Standesamt · Führungszeugnis · Anerkennung
+Führungszeugnis · Anerkennung
 ausländischer Abschlüsse · Arbeitsagentur und Jobcenter
 
-**Geld & Verträge** — Falsche Mahnung ·
-Betrug und Phishing melden
-
-**Wenn etwas schiefgeht** —
-Fundbüro
+**Geld & Verträge** — Falsche Mahnung
 
 **Arbeit & Studium** — Um eine Gehaltserhöhung bitten (B2) · Konflikt mit
 Kolleginnen ansprechen (B2) · Kündigung schreiben · Uni: Immatrikulation,
 Prüfungsamt, BAföG
 
-**Soziales** — Elternabend · Ein Geschenk aussuchen und überreichen
+**Soziales** — Elternabend
 
 Alle Kategorien des Themenspeichers stehen inzwischen in
 `CATEGORY_ORDER`: `Arbeit & Studium` kam mit Set 20 dazu, `Soziales` mit
