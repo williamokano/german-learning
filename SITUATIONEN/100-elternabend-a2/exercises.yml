@@ -1,0 +1,454 @@
+lesson: "SIT/100-elternabend-a2"
+title: "Elternabend — A2"
+topic: "Elternabend"
+category: "Soziales"
+level: A2
+summary: "Zu einem Elternabend gehen, der Tagesordnung folgen und sich mit einer Wortmeldung einbringen — und was tun, wenn es ein Missverständnis über den Klassenausflug gibt oder eine Diskussion eskaliert."
+intro: >
+  Ein Elternabend läuft in klaren Schritten ab: sich anmelden, der
+  Tagesordnung folgen und sich mit einer Wortmeldung einbringen, wenn
+  man eine Frage hat. Dieses Set übt genau das — vorbereiten,
+  teilnehmen, entscheiden, und was zu tun ist, wenn es ein
+  Missverständnis über den Klassenausflug gibt oder eine Diskussion
+  eskaliert. Grammatik nach Bedarf: Modalverben, Perfekt und Futur I.
+  Blocks: A Wortschatz & Redemittel → B Dialoge → C Wenn es
+  schiefgeht → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Vorbereiten, teilnehmen oder entscheiden?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: vorbereiten, label: "Vorbereiten" }
+      - { key: teilnehmen, label: "Teilnehmen" }
+      - { key: entscheiden, label: "Entscheiden" }
+    tokens:
+      - { text: "die Einladung lesen", bucket: vorbereiten }
+      - { text: "sich einen Termin freihalten", bucket: vorbereiten }
+      - { text: "Fragen vorbereiten", bucket: vorbereiten }
+      - { text: "die Tagesordnung durchsehen", bucket: vorbereiten }
+      - { text: "pünktlich erscheinen", bucket: teilnehmen }
+      - { text: "sich vorstellen", bucket: teilnehmen }
+      - { text: "der Klassenlehrerin zuhören", bucket: teilnehmen }
+      - { text: "eine Wortmeldung machen", bucket: teilnehmen }
+      - { text: "über den Klassenausflug abstimmen", bucket: entscheiden }
+      - { text: "den Elternbeirat wählen", bucket: entscheiden }
+      - { text: "einen Vorschlag unterstützen", bucket: entscheiden }
+      - { text: "das Protokoll lesen", bucket: entscheiden }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "der Elternabend" }
+      - { key: "2", text: "die Tagesordnung" }
+      - { key: "3", text: "die Klassenlehrerin" }
+      - { key: "4", text: "der Elternbeirat" }
+      - { key: "5", text: "die Wortmeldung" }
+      - { key: "6", text: "die Abstimmung" }
+      - { key: "7", text: "das Protokoll" }
+      - { key: "8", text: "der Klassenausflug" }
+    right:
+      - { key: a, text: "das regelmäßige Treffen der Eltern mit der Lehrkraft" }
+      - { key: b, text: "die Liste der Themen für das Treffen" }
+      - { key: c, text: "die Lehrerin, die für die Klasse zuständig ist" }
+      - { key: d, text: "die gewählte Vertretung der Eltern" }
+      - { key: e, text: "das Zeichen, dass man etwas sagen möchte" }
+      - { key: f, text: "die gemeinsame Entscheidung durch Handzeichen" }
+      - { key: g, text: "die schriftliche Zusammenfassung des Treffens" }
+      - { key: h, text: "ein gemeinsamer Ausflug der ganzen Klasse" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Den Elternabend vorbereiten"
+    instructions: "Ergänze das Modalverb oder die Verbform."
+    instructionsEn: "Fill in the modal verb or verb form."
+    text: |
+      1. Ich {1} mich gestern für den Elternabend angemeldet. (haben, Perfekt)
+      2. {2} Sie mir bitte die Tagesordnung schicken? (können, Sie-Form)
+      3. Man {3} sich rechtzeitig einen Termin freihalten. (sollen, Präsens)
+      4. {4} das Protokoll schon verschickt worden? (sein, Perfekt Passiv)
+      5. Falls eine Frage {5}, kann man sich einfach melden. (auftauchen, Präsens)
+      6. Die Klassenlehrerin {6} uns die wichtigsten Termine mitteilen. (werden, Futur I)
+      7. Ich {7} schon eine Wortmeldung gemacht. (haben, Perfekt)
+      8. {8} Sie mir bitte den Ablauf erklären? (können, Sie-Form)
+    answers:
+      "1": habe
+      "2": Können
+      "3": soll
+      "4": Ist
+      "5": auftaucht
+      "6": wird
+      "7": habe
+      "8": Können
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Heute Abend ist der {1} für die dritte Klasse. (das Treffen der Eltern mit der Lehrkraft)
+      2. Auf der {2} steht auch der Klassenausflug. (die Liste der Themen für das Treffen)
+      3. Die {3} hat uns über die neuen Regeln informiert. (die zuständige Lehrerin)
+      4. Der {4} organisiert das Sommerfest. (die gewählte Vertretung der Eltern)
+      5. Ich habe eine {5} gemacht, um eine Frage zu stellen. (das Zeichen, dass man sprechen möchte)
+      6. Am Ende gab es eine {6} über den Ausflugsort. (die Entscheidung durch Handzeichen)
+    answers:
+      "1": Elternabend
+      "2": Tagesordnung
+      "3": Klassenlehrerin
+      "4": Elternbeirat
+      "5": Wortmeldung
+      "6": Abstimmung
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Vorbereiten, teilnehmen, entscheiden"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      (im Klassenzimmer beim Elternabend)
+      — Guten Abend, schön, dass Sie alle gekommen sind. Fangen wir
+      mit der {1} an.
+      — Gerne, was steht denn heute alles an?
+      — Zuerst möchte ich über die Noten sprechen, dann geht es um
+      den {2}.
+      — Gute Idee, unsere Kinder freuen sich schon sehr darauf.
+      — Genau, dafür brauchen wir übrigens noch Freiwillige aus dem
+      {3}.
+      — Ich würde mich gerne melden.
+      — Super, dann machen wir dazu gleich eine {4}.
+      (nach der Abstimmung)
+      — Ich habe noch eine {5}, wenn das in Ordnung ist.
+      — Natürlich, bitte.
+      — Wie sieht es eigentlich mit den Hausaufgaben aus? Manche
+      Eltern {6} sich, dass es zu viele sind.
+      — Das nehme ich gerne mit und {7} das beim nächsten Mal.
+      — Danke, das beruhigt mich.
+      — Gibt es sonst noch Fragen? Wenn nicht, {8} ich das
+      Protokoll und schicke es Ihnen in den nächsten Tagen zu.
+      — Vielen Dank für den informativen Abend.
+      — Gerne, ich {9} Ihnen einen schönen Rest des Abends und
+      {10} mich schon auf das nächste Treffen.
+    bank: [TAGESORDNUNG, KLASSENAUSFLUG, KLASSENFAHRT, ELTERNBEIRAT, ZEUGNIS, ABSTIMMUNG, WORTMELDUNG, HAUSAUFGABEN, ELTERNGESPRÄCH, SORGEN, KLÄRE, SCHREIBE, WÜNSCHE, FREUE]
+    answers:
+      "1": TAGESORDNUNG
+      "2": KLASSENAUSFLUG
+      "3": ELTERNBEIRAT
+      "4": ABSTIMMUNG
+      "5": WORTMELDUNG
+      "6": SORGEN
+      "7": KLÄRE
+      "8": SCHREIBE
+      "9": WÜNSCHE
+      "10": FREUE
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Teilnehmen und mitmachen"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du willst der Lehrerin sagen, dass ihr mit der Tagesordnung anfangen könnt. — You want to tell the teacher you can start with the agenda."
+        options:
+          - { key: a, text: "Tagesordnungen interessieren mich nicht." }
+          - { key: b, text: "Fangen wir mit der Tagesordnung an." }
+          - { key: c, text: "Das ist mir egal." }
+        answer: b
+        why: "Eine klare Aussage ist der übliche Einstieg in den Elternabend."
+      - q: "Du willst wissen, was heute alles auf der Tagesordnung steht. — You want to know what's on today's agenda."
+        options:
+          - { key: a, text: "Das interessiert mich nicht." }
+          - { key: b, text: "Ich frage lieber nicht nach." }
+          - { key: c, text: "Was steht denn heute alles an?" }
+        answer: c
+        why: "Eine direkte Frage klärt den Ablauf des Abends."
+      - q: "Du willst dich für die Organisation des Klassenausflugs melden. — You want to volunteer to help organize the class trip."
+        options:
+          - { key: a, text: "Ich würde mich gerne melden." }
+          - { key: b, text: "Ausflüge interessieren mich nicht." }
+          - { key: c, text: "Das ist mir völlig egal." }
+        answer: a
+        why: "Eine klare Aussage zeigt Bereitschaft, mitzuhelfen."
+      - q: "Du willst wissen, ob du noch eine Wortmeldung machen kannst. — You want to know if you can still raise a point."
+        options:
+          - { key: a, text: "Wortmeldungen interessieren mich nicht." }
+          - { key: b, text: "Habe ich noch eine Wortmeldung, wenn das in Ordnung ist?" }
+          - { key: c, text: "Das ist mir egal, Hauptsache es ist bald vorbei." }
+        answer: b
+        why: "Eine höfliche Frage klärt, ob noch Raum für eine weitere Frage ist."
+      - q: "Du willst wissen, wie es mit den Hausaufgaben aussieht. — You want to know how things stand with the homework."
+        options:
+          - { key: a, text: "Hausaufgaben interessieren mich nicht." }
+          - { key: b, text: "Das ist mir zu kompliziert." }
+          - { key: c, text: "Wie sieht es eigentlich mit den Hausaufgaben aus?" }
+        answer: c
+        why: "Eine direkte Frage bringt das Thema zur Sprache."
+      - q: "Du willst dich für den informativen Abend bedanken. — You want to thank everyone for the informative evening."
+        options:
+          - { key: a, text: "Vielen Dank für den informativen Abend." }
+          - { key: b, text: "Abende interessieren mich nicht." }
+          - { key: c, text: "Das ist mir völlig egal." }
+        answer: a
+        why: "Ein höflicher Dank passt zum Abschluss des Elternabends."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze zum Elternabend bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Fangen", "wir", "mit", "der", "Tagesordnung", "an"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Aufforderung, trennbares Verb"
+      - tiles: ["Was", "steht", "denn", "heute", "alles", "an", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "W-Frage mit trennbarem Verb"
+      - tiles: ["Wir", "machen", "dazu", "gleich", "eine", "Abstimmung"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Aussage, Verb an Position 2"
+      - tiles: ["Nächste", "Woche", "werde", "ich", "das", "Protokoll", "schreiben"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "Futur I, Zeitangabe an Position 1, Verb an Position 2"
+      - tiles: ["Wie", "sieht", "es", "mit", "den", "Hausaufgaben", "aus", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6, 7]
+        note: "W-Frage mit trennbarem Verb"
+      - tiles: ["Ich", "habe", "schon", "eine", "Wortmeldung", "gemacht"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Perfekt, Partizip am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Infos zum Elternabend lesen"
+    instructions: |
+      > **Info — Elternabend**
+      >
+      > - **Häufigkeit:** ein Elternabend findet meist **einmal pro
+      >   Halbjahr** statt.
+      > - **Tagesordnung:** sollte man sich **vorher genau
+      >   ansehen**.
+      > - **Elternbeirat:** vertritt die **Interessen aller Eltern**
+      >   der Klasse.
+      > - **Wortmeldung:** ist der übliche Weg, sich **zu Wort zu
+      >   melden**.
+      > - **Abstimmung:** entscheidet meist **per Handzeichen** über
+      >   gemeinsame Themen.
+      > - **Protokoll:** fasst die wichtigsten Ergebnisse
+      >   **schriftlich** zusammen.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Ein Elternabend findet meist einmal pro Halbjahr statt. — A parent evening usually takes place once per semester."
+        answer: true
+        why: "So steht es ausdrücklich in den Infos zum Elternabend."
+      - q: "Die Tagesordnung braucht man sich vorher nie anzusehen. — You never need to look at the agenda beforehand."
+        answer: false
+        why: "Man sollte sich die Tagesordnung vorher genau ansehen."
+      - q: "Der Elternbeirat vertritt die Interessen aller Eltern der Klasse. — The parent council represents the interests of all parents in the class."
+        answer: true
+        why: "„Elternbeirat: vertritt die Interessen aller Eltern der Klasse.“"
+      - q: "Eine Wortmeldung ist unhöflich und sollte vermieden werden. — Raising a point is impolite and should be avoided."
+        answer: false
+        why: "Eine Wortmeldung ist der übliche Weg, sich zu Wort zu melden."
+      - q: "Eine Abstimmung entscheidet meist per Handzeichen über gemeinsame Themen. — A vote usually decides shared topics by a show of hands."
+        answer: true
+        why: "„Abstimmung: entscheidet meist per Handzeichen über gemeinsame Themen.“"
+      - q: "Ein Protokoll wird nie schriftlich zusammengefasst. — Minutes are never summarized in writing."
+        answer: false
+        why: "Das Protokoll fasst die wichtigsten Ergebnisse schriftlich zusammen."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn beim Elternabend etwas schiefgeht"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Sie haben den Elternabend aus Versehen verpasst. — You accidentally missed the parent evening."
+        options:
+          - { key: a, text: "Einfach nichts unternehmen." }
+          - { key: b, text: "Die Klassenlehrerin um eine kurze Zusammenfassung bitten." }
+          - { key: c, text: "Sich bei anderen Eltern beschweren, ohne nachzufragen." }
+        answer: b
+        why: "Eine kurze Zusammenfassung informiert schnell über das Wichtigste."
+      - q: "Es gibt ein Missverständnis über den Termin des Klassenausflugs. — There's a misunderstanding about the class trip date."
+        options:
+          - { key: a, text: "Einfach den falschen Termin annehmen." }
+          - { key: b, text: "Sich gar nicht mehr darum kümmern." }
+          - { key: c, text: "Höflich beim Elternbeirat nachfragen und den Termin klären." }
+        answer: c
+        why: "Eine höfliche Nachfrage klärt den Termin schnell und zuverlässig."
+      - q: "Die Diskussion zwischen zwei Eltern eskaliert plötzlich. — A discussion between two parents suddenly escalates."
+        options:
+          - { key: a, text: "Ruhig um eine sachliche Fortsetzung des Gesprächs bitten." }
+          - { key: b, text: "Sich selbst laut einmischen." }
+          - { key: c, text: "Sofort den Raum verlassen." }
+        answer: a
+        why: "Eine ruhige Bitte um Sachlichkeit hilft, die Situation zu beruhigen."
+      - q: "Das versprochene Protokoll kommt nicht bei Ihnen an. — The promised minutes don't reach you."
+        options:
+          - { key: a, text: "Einfach abwarten, ohne nachzufragen." }
+          - { key: b, text: "Höflich bei der Klassenlehrerin nachfragen." }
+          - { key: c, text: "Sich bei anderen Eltern über die Lehrerin beschweren." }
+        answer: b
+        why: "Eine höfliche Nachfrage klärt schnell, ob das Protokoll noch kommt."
+      - q: "Sie haben vergessen, eine wichtige Frage zu stellen. — You forgot to ask an important question."
+        options:
+          - { key: a, text: "Die Frage einfach unbeantwortet lassen." }
+          - { key: b, text: "Andere Eltern fragen, ob sie es wissen." }
+          - { key: c, text: "Die Klassenlehrerin im Nachhinein per E-Mail fragen." }
+        answer: c
+        why: "Eine Nachfrage per E-Mail klärt die Frage auch nach dem Elternabend."
+      - q: "Die Wahl zum Elternbeirat endet unentschieden. — The election for the parent council ends in a tie."
+        options:
+          - { key: a, text: "Eine zweite Abstimmungsrunde vorschlagen." }
+          - { key: b, text: "Einfach eine Person zufällig bestimmen." }
+          - { key: c, text: "Die Wahl komplett ausfallen lassen." }
+        answer: a
+        why: "Eine zweite Abstimmungsrunde klärt das unentschiedene Ergebnis fair."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Ich habe den Elternabend aus Versehen {1}. (nicht wahrgenommen, Partizip)
+      2. Es hat ein Missverständnis über den Termin {2}. (bestanden, Partizip)
+      3. Die Diskussion zwischen zwei Eltern ist plötzlich {3}. (außer Kontrolle geraten, Partizip)
+      4. Das versprochene Protokoll ist bei mir nicht {4}. (nicht eingetroffen, Partizip)
+      5. Meine wichtige Frage habe ich leider nicht {5}. (nicht formuliert, Partizip)
+      6. Die Wahl zum Elternbeirat ist unentschieden {6}. (nicht klar entschieden, Partizip)
+    answers:
+      "1": verpasst
+      "2": gegeben
+      "3": eskaliert
+      "4": angekommen
+      "5": gestellt
+      "6": ausgegangen
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Ich {1} mich gestern für den Elternabend angemeldet. (have — Perfekt)
+      2. Man {2} sich rechtzeitig einen Termin freihalten. (should — sollen)
+      3. Heute Abend ist der {3} für die dritte Klasse. (parent evening)
+      4. Auf der {4} steht auch der Klassenausflug. (agenda)
+      5. Die {5} hat uns über die neuen Regeln informiert. (class teacher)
+      6. Der {6} organisiert das Sommerfest. (parent council)
+      7. Ich habe eine {7} gemacht, um eine Frage zu stellen. (raising a point)
+      8. Am Ende gab es eine {8} über den Ausflugsort. (vote)
+      9. {9} Sie mir bitte die Tagesordnung schicken? (could — können, Sie-Form)
+      10. Ich habe den Elternabend aus Versehen {10}. (missed — Partizip)
+      11. Die Diskussion zwischen zwei Eltern ist plötzlich {11}. (escalated — Partizip)
+      12. Das versprochene Protokoll ist bei mir nicht {12}. (arrived — Partizip)
+      13. Meine wichtige Frage habe ich leider nicht {13}. (asked — Partizip)
+      14. Die Wahl zum Elternbeirat ist unentschieden {14}. (turned out — Partizip)
+    answers:
+      "1": habe
+      "2": soll
+      "3": Elternabend
+      "4": Tagesordnung
+      "5": Klassenlehrerin
+      "6": Elternbeirat
+      "7": Wortmeldung
+      "8": Abstimmung
+      "9": Können
+      "10": verpasst
+      "11": eskaliert
+      "12": angekommen
+      "13": gestellt
+      "14": ausgegangen
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Besuchen, ein Problem, die Lösung"
+    prompt: "Schreib drei Teile: einen Elternabend besuchen und dich einbringen, ein Problem, weil es ein Missverständnis über den Klassenausflug gibt, und die Lösung. Zusammen 16–20 Sätze."
+    stimulus: |
+      Du gehst zum Elternabend deines Kindes. Bei der Diskussion über
+      den Klassenausflug gibt es plötzlich ein Missverständnis über
+      den Termin.
+
+      Beim Besuchen müssen vorkommen:
+      1. pünktlich zum Elternabend kommen
+      2. der Tagesordnung folgen
+      3. eine Wortmeldung machen
+
+      Beim Problem müssen vorkommen:
+      4. ein Missverständnis über den Termin bemerken
+      5. sich kurz verunsichert fühlen
+      6. höflich nachfragen
+
+      In der Lösung müssen vorkommen:
+      7. den richtigen Termin klären
+      8. sich auf einen Termin einigen
+      9. das Protokoll bekommen
+      10. sich auf den Ausflug freuen
+    use:
+      - "höfliche Frage: „Können Sie mir bitte die Tagesordnung schicken?“"
+      - "Perfekt: „Ich habe eine Wortmeldung gemacht.“"
+      - "Futur I: „Ich werde das Protokoll noch einmal lesen.“"
+    selfCheck:
+      - "Wird der Besuch klar beschrieben?"
+      - "Klingt die Reaktion auf das Missverständnis realistisch?"
+      - "Wird die Klärung als Lösung erwähnt?"
+      - "Kommen alle 10 Punkte vor?"
+    model: |
+      **Besuchen**
+
+      Ich komme pünktlich zum Elternabend und folge der Tagesordnung.
+      Als es um den Klassenausflug geht, mache ich eine Wortmeldung.
+
+      **Das Problem**
+
+      Ich bemerke ein Missverständnis über den Termin des Ausflugs.
+      Ich fühle mich kurz verunsichert, frage aber höflich nach.
+      Ich: Können Sie mir bitte die Tagesordnung schicken?
+
+      **Die Lösung**
+
+      Die Klassenlehrerin klärt den richtigen Termin.
+      Wir einigen uns gemeinsam auf einen Termin.
+      Ich bekomme später das Protokoll.
+      Ich freue mich sehr auf den Ausflug.

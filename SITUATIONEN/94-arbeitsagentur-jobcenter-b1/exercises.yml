@@ -1,0 +1,456 @@
+lesson: "SIT/94-arbeitsagentur-jobcenter-b1"
+title: "Arbeitsagentur und Jobcenter — B1"
+topic: "Arbeitsagentur und Jobcenter"
+category: "Behörden & Formelles"
+level: B1
+summary: "Sich nach einer Kündigung bei der Arbeitsagentur arbeitslos melden, Arbeitslosengeld beantragen und Vermittlungsvorschläge bearbeiten — und was tun, wenn ein Vorschlag nicht passt oder eine Sperrzeit droht."
+intro: >
+  Nach einer Kündigung führt der Weg oft zur Arbeitsagentur oder zum
+  Jobcenter: sich arbeitslos melden, Arbeitslosengeld beantragen und
+  Vermittlungsvorschläge bearbeiten. Dieses Set übt genau das —
+  melden, beantragen, mitarbeiten, und was zu tun ist, wenn ein
+  Vermittlungsvorschlag nicht passt oder eine Sperrzeit droht.
+  Grammatik nach Bedarf: Modalverben, Perfekt und Futur I. Blocks: A
+  Wortschatz & Redemittel → B Dialoge → C Wenn es schiefgeht → D
+  Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Wortschatz & Redemittel ─────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: categorize
+    title: "Melden, beantragen oder mitarbeiten?"
+    instructions: "Sortiere die 12 Wörter."
+    instructionsEn: "Sort the 12 words."
+    buckets:
+      - { key: melden, label: "Melden" }
+      - { key: beantragen, label: "Beantragen" }
+      - { key: mitarbeiten, label: "Mitarbeiten" }
+    tokens:
+      - { text: "sich arbeitslos melden", bucket: melden }
+      - { text: "sich persönlich bei der Arbeitsagentur vorstellen", bucket: melden }
+      - { text: "den Personalausweis mitbringen", bucket: melden }
+      - { text: "die Kündigung nachweisen", bucket: melden }
+      - { text: "Arbeitslosengeld beantragen", bucket: beantragen }
+      - { text: "den Antrag ausfüllen", bucket: beantragen }
+      - { text: "Kontoauszüge einreichen", bucket: beantragen }
+      - { text: "den Bescheid abwarten", bucket: beantragen }
+      - { text: "Vermittlungsvorschläge annehmen", bucket: mitarbeiten }
+      - { text: "eine Eingliederungsvereinbarung unterschreiben", bucket: mitarbeiten }
+      - { text: "sich regelmäßig bewerben", bucket: mitarbeiten }
+      - { text: "Termine wahrnehmen", bucket: mitarbeiten }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Begriff und Erklärung"
+    instructions: "Ordne jedem Begriff die Erklärung zu."
+    instructionsEn: "Match each term with its explanation."
+    left:
+      - { key: "1", text: "die Arbeitsagentur" }
+      - { key: "2", text: "das Jobcenter" }
+      - { key: "3", text: "die Arbeitslosmeldung" }
+      - { key: "4", text: "das Arbeitslosengeld" }
+      - { key: "5", text: "der Vermittlungsvorschlag" }
+      - { key: "6", text: "die Eingliederungsvereinbarung" }
+      - { key: "7", text: "der Antrag" }
+      - { key: "8", text: "die Sperrzeit" }
+    right:
+      - { key: a, text: "die Behörde für Arbeitsvermittlung und Arbeitslosengeld I" }
+      - { key: b, text: "die Stelle für Arbeitslosengeld II und Vermittlung" }
+      - { key: c, text: "die persönliche Meldung als arbeitslos" }
+      - { key: d, text: "die finanzielle Unterstützung bei Arbeitslosigkeit" }
+      - { key: e, text: "ein Angebot für eine mögliche Stelle" }
+      - { key: f, text: "die schriftliche Absprache über die nächsten Schritte" }
+      - { key: g, text: "der offizielle Wunsch, etwas zu bekommen" }
+      - { key: h, text: "eine Zeit ohne Zahlung als Sanktion" }
+    answers:
+      "1": a
+      "2": b
+      "3": c
+      "4": d
+      "5": e
+      "6": f
+      "7": g
+      "8": h
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Arbeitslos werden und melden"
+    instructions: "Ergänze das Modalverb oder die Verbform."
+    instructionsEn: "Fill in the modal verb or verb form."
+    text: |
+      1. Ich {1} mich gestern arbeitslos gemeldet. (haben, Perfekt)
+      2. {2} Sie mir bitte den Antrag erklären? (können, Sie-Form)
+      3. Man {3} sich spätestens drei Tage nach der Kündigung arbeitslos melden. (müssen, Präsens)
+      4. {4} der Antrag schon bearbeitet worden? (sein, Perfekt Passiv)
+      5. Falls ein Vermittlungsvorschlag {5}, muss ich mich darauf bewerben. (kommen, Präsens)
+      6. Das Jobcenter {6} mir nächste Woche einen Termin geben. (werden, Futur I)
+      7. Ich {7} schon die Eingliederungsvereinbarung unterschrieben. (haben, Perfekt)
+      8. {8} Sie mir bitte erklären, wie hoch das Arbeitslosengeld ist? (können, Sie-Form)
+    answers:
+      "1": habe
+      "2": Können
+      "3": muss
+      "4": Ist
+      "5": kommt
+      "6": wird
+      "7": habe
+      "8": Können
+
+  - id: A4
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Ich habe mich bei der {1} arbeitslos gemeldet. (die Behörde für Arbeitsvermittlung)
+      2. Für Arbeitslosengeld II bin ich beim {2}. (die Stelle für Arbeitslosengeld II)
+      3. Ich habe rechtzeitig die {3} gemacht. (die persönliche Meldung als arbeitslos)
+      4. Ich bekomme jeden Monat {4}. (die finanzielle Unterstützung bei Arbeitslosigkeit)
+      5. Gestern habe ich einen {5} bekommen. (ein Angebot für eine mögliche Stelle)
+      6. Ich habe die {6} unterschrieben. (die Absprache über die nächsten Schritte)
+    answers:
+      "1": Arbeitsagentur
+      "2": Jobcenter
+      "3": Arbeitslosmeldung
+      "4": Arbeitslosengeld
+      "5": Vermittlungsvorschlag
+      "6": Eingliederungsvereinbarung
+
+  # ── Block B — Dialoge ─────────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Melden, beantragen, mitarbeiten"
+    instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Vier Wörter werden nicht gebraucht. Jedes Wort darf nur einmal verwendet werden."
+    instructionsEn: "Fill the 10 gaps with words from the box. Four words are not needed. Each word may be used once."
+    text: |
+      (bei der Arbeitsagentur)
+      — Guten Tag, ich möchte mich {1} melden.
+      — Gerne, wann wurde Ihnen gekündigt?
+      — Vor zwei Wochen, ich habe die Kündigung dabei.
+      — Gut. Dann brauche ich noch Ihren {2}.
+      — Hier, bitte.
+      — Danke. Ich stelle jetzt den {3} auf Arbeitslosengeld.
+      — Wie hoch wird das Arbeitslosengeld ungefähr sein?
+      — Das hängt von Ihrem letzten Gehalt ab, meist etwa 60
+      Prozent.
+      — Verstehe. Wann bekomme ich das erste Geld?
+      — Meistens nach vier bis sechs Wochen.
+      (zwei Wochen später)
+      — Guten Tag, ich habe einen {4} von Ihnen bekommen.
+      — Genau, es gibt eine offene Stelle, die zu Ihnen passt.
+      — Muss ich mich darauf bewerben?
+      — Ja, das ist Pflicht. Sonst kann es zu einer {5} kommen.
+      — Verstanden. Was steht eigentlich in der {6}?
+      — Darin steht, welche Schritte wir gemeinsam vereinbart haben.
+      — Kann ich die noch einmal {7}?
+      — Ja, gerne. Ich {8} Ihnen eine Kopie mit.
+      — Vielen Dank. Und wenn ich eine neue Stelle finde?
+      — Dann {9} Sie uns bitte sofort Bescheid.
+      — Mache ich. Vielen Dank für Ihre Hilfe.
+      — Gerne, ich {10} Ihnen alles Gute für die Jobsuche.
+    bank: [ARBEITSLOS, PERSONALAUSWEIS, KÜNDIGUNGSSCHREIBEN, ANTRAG, GEHALTSABRECHNUNG, VERMITTLUNGSVORSCHLAG, BEWERBUNGSGESPRÄCH, SPERRZEIT, ARBEITSVERTRAG, EINGLIEDERUNGSVEREINBARUNG, LESEN, GEBE, GEBEN, WÜNSCHE]
+    answers:
+      "1": ARBEITSLOS
+      "2": PERSONALAUSWEIS
+      "3": ANTRAG
+      "4": VERMITTLUNGSVORSCHLAG
+      "5": SPERRZEIT
+      "6": EINGLIEDERUNGSVEREINBARUNG
+      "7": LESEN
+      "8": GEBE
+      "9": GEBEN
+      "10": WÜNSCHE
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Melden und beantragen"
+    instructions: "Wähle die passende Variante."
+    instructionsEn: "Choose the fitting variant."
+    items:
+      - q: "Du willst der Arbeitsagentur sagen, dass du dich arbeitslos melden möchtest. — You want to tell the employment agency you'd like to register as unemployed."
+        options:
+          - { key: a, text: "Arbeitslosigkeit interessiert mich nicht." }
+          - { key: b, text: "Ich möchte mich arbeitslos melden." }
+          - { key: c, text: "Das ist mir egal." }
+        answer: b
+        why: "Eine klare Aussage ist der übliche Einstieg bei der Meldung."
+      - q: "Du willst wissen, wann du das erste Arbeitslosengeld bekommst. — You want to know when you'll receive your first unemployment benefit."
+        options:
+          - { key: a, text: "Das interessiert mich nicht." }
+          - { key: b, text: "Ich frage lieber nicht nach." }
+          - { key: c, text: "Wann bekomme ich das erste Arbeitslosengeld?" }
+        answer: c
+        why: "Eine direkte Frage klärt frühzeitig die finanzielle Planung."
+      - q: "Du willst der Sachbearbeiterin sagen, dass du die Kündigung dabei hast. — You want to tell the caseworker you have your termination letter with you."
+        options:
+          - { key: a, text: "Ich habe die Kündigung dabei." }
+          - { key: b, text: "Kündigungen interessieren mich nicht." }
+          - { key: c, text: "Das ist mir völlig egal." }
+        answer: a
+        why: "Eine klare Aussage zeigt, dass die nötigen Unterlagen bereits vorliegen."
+      - q: "Du willst wissen, ob du dich auf jeden Vermittlungsvorschlag bewerben musst. — You want to know if you must apply to every job placement suggestion."
+        options:
+          - { key: a, text: "Vermittlungsvorschläge interessieren mich nicht." }
+          - { key: b, text: "Muss ich mich auf jeden Vermittlungsvorschlag bewerben?" }
+          - { key: c, text: "Das ist mir egal, ich bewerbe mich sowieso nicht." }
+        answer: b
+        why: "Eine direkte Frage klärt frühzeitig die Pflichten bei Vorschlägen."
+      - q: "Du willst wissen, was in der Eingliederungsvereinbarung steht. — You want to know what's in the integration agreement."
+        options:
+          - { key: a, text: "Vereinbarungen interessieren mich nicht." }
+          - { key: b, text: "Das ist mir zu kompliziert." }
+          - { key: c, text: "Was steht eigentlich in der Eingliederungsvereinbarung?" }
+        answer: c
+        why: "Eine direkte Frage klärt frühzeitig die vereinbarten Schritte."
+      - q: "Du willst dem Jobcenter sagen, dass du eine neue Stelle gefunden hast. — You want to tell the job center you've found a new position."
+        options:
+          - { key: a, text: "Ich habe eine neue Stelle gefunden." }
+          - { key: b, text: "Stellen interessieren mich nicht." }
+          - { key: c, text: "Das ist mir völlig egal." }
+        answer: a
+        why: "Eine klare Mitteilung ist bei einer neuen Stelle Pflicht."
+
+  - id: B3
+    block: B
+    type: order
+    title: "Sätze zur Arbeitsagentur bauen"
+    instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
+    items:
+      - tiles: ["Ich", "möchte", "mich", "arbeitslos", "melden"]
+        answer: [0, 1, 2, 3, 4]
+        note: "höfliche Aussage, Infinitiv am Ende"
+      - tiles: ["Wann", "wurde", "Ihnen", "gekündigt", "?"]
+        answer: [0, 1, 2, 3, 4]
+        note: "W-Frage im Passiv"
+      - tiles: ["Wir", "stellen", "jetzt", "den", "Antrag"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Aussage, Verb an Position 2"
+      - tiles: ["Nächste", "Woche", "werde", "ich", "mich", "bewerben"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Futur I, Zeitangabe an Position 1, Verb an Position 2"
+      - tiles: ["Wie", "hoch", "ist", "eigentlich", "das", "Arbeitslosengeld", "?"]
+        answer: [0, 1, 2, 3, 4, 5, 6]
+        note: "W-Frage mit sein"
+      - tiles: ["Ich", "habe", "die", "Vereinbarung", "schon", "unterschrieben"]
+        answer: [0, 1, 2, 3, 4, 5]
+        note: "Perfekt, Partizip am Ende"
+
+  - id: B4
+    block: B
+    type: true-false
+    title: "Die Infos zur Arbeitsagentur lesen"
+    instructions: |
+      > **Info — Arbeitsagentur und Jobcenter**
+      >
+      > - **Arbeitslosmeldung:** sollte **spätestens drei Tage nach
+      >   der Kündigung** erfolgen.
+      > - **Arbeitslosengeld I:** wird von der Arbeitsagentur
+      >   gezahlt, meist etwa **60 Prozent** des letzten
+      >   Nettogehalts.
+      > - **Arbeitslosengeld II:** wird **vom Jobcenter** gezahlt.
+      > - **Vermittlungsvorschläge:** müssen **ernsthaft bearbeitet**
+      >   werden, sonst droht eine Sperrzeit.
+      > - **Eingliederungsvereinbarung:** legt die **gemeinsamen
+      >   nächsten Schritte** fest.
+      > - **Eine neue Stelle:** muss man der Arbeitsagentur oder dem
+      >   Jobcenter **sofort melden**.
+
+      Richtig (R) oder falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
+    items:
+      - q: "Die Arbeitslosmeldung sollte spätestens drei Tage nach der Kündigung erfolgen. — The unemployment registration should happen at most three days after the termination."
+        answer: true
+        why: "So steht es ausdrücklich in den Infos zur Arbeitsagentur."
+      - q: "Arbeitslosengeld I entspricht meist 100 Prozent des letzten Nettogehalts. — Unemployment benefit I usually equals 100 percent of the last net salary."
+        answer: false
+        why: "Es entspricht meist etwa 60 Prozent, nicht 100 Prozent."
+      - q: "Arbeitslosengeld II wird vom Jobcenter gezahlt. — Unemployment benefit II is paid by the job center."
+        answer: true
+        why: "„Arbeitslosengeld II: wird vom Jobcenter gezahlt.“"
+      - q: "Vermittlungsvorschläge kann man einfach ignorieren, ohne Konsequenzen. — You can simply ignore job placement suggestions without consequences."
+        answer: false
+        why: "Sie müssen ernsthaft bearbeitet werden, sonst droht eine Sperrzeit."
+      - q: "Eine Eingliederungsvereinbarung legt die gemeinsamen nächsten Schritte fest. — An integration agreement sets out the jointly agreed next steps."
+        answer: true
+        why: "„Eingliederungsvereinbarung: legt die gemeinsamen nächsten Schritte fest.“"
+      - q: "Eine neue Stelle muss man niemandem melden. — You don't have to report a new job to anyone."
+        answer: false
+        why: "Eine neue Stelle muss man der Arbeitsagentur oder dem Jobcenter sofort melden."
+
+  # ── Block C — Wenn es schiefgeht ──────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Wenn bei der Arbeitsagentur etwas schiefgeht"
+    instructions: "Wähle die beste Reaktion."
+    instructionsEn: "Choose the best reaction."
+    items:
+      - q: "Sie haben sich zu spät arbeitslos gemeldet. — You registered as unemployed too late."
+        options:
+          - { key: a, text: "Es einfach so lassen, wie es ist." }
+          - { key: b, text: "Trotzdem sofort die Meldung nachholen und den Grund erklären." }
+          - { key: c, text: "Ganz auf das Arbeitslosengeld verzichten." }
+        answer: b
+        why: "Eine sofortige Nachmeldung mit Erklärung ist besser als weiteres Abwarten."
+      - q: "Sie haben einen Termin bei der Arbeitsagentur verpasst. — You missed an appointment at the employment agency."
+        options:
+          - { key: a, text: "Einfach nicht mehr hingehen." }
+          - { key: b, text: "So tun, als wäre nichts gewesen." }
+          - { key: c, text: "Sich schnellstmöglich melden und den Grund erklären." }
+        answer: c
+        why: "Eine schnelle Meldung mit Erklärung reduziert das Risiko einer Sanktion."
+      - q: "Ein Vermittlungsvorschlag passt überhaupt nicht zu Ihrer Qualifikation. — A job placement suggestion doesn't fit your qualifications at all."
+        options:
+          - { key: a, text: "Der Arbeitsagentur höflich erklären, warum die Stelle nicht passt." }
+          - { key: b, text: "Den Vorschlag einfach ignorieren." }
+          - { key: c, text: "Sich gar nicht mehr melden." }
+        answer: a
+        why: "Eine höfliche Erklärung ist besser als Schweigen oder Ignorieren."
+      - q: "Gegen Sie wurde eine Sperrzeit verhängt. — A waiting period sanction was imposed on you."
+        options:
+          - { key: a, text: "Die Entscheidung stillschweigend hinnehmen." }
+          - { key: b, text: "Innerhalb der Frist Widerspruch einlegen, wenn Sie sie für ungerecht halten." }
+          - { key: c, text: "Sofort aufhören, sich zu bewerben." }
+        answer: b
+        why: "Ein fristgerechter Widerspruch ist der offizielle Weg zur Klärung."
+      - q: "Ihr Antrag auf Arbeitslosengeld wird abgelehnt. — Your application for unemployment benefit is rejected."
+        options:
+          - { key: a, text: "Den Bescheid einfach ignorieren." }
+          - { key: b, text: "Sofort aufgeben und keine Leistungen mehr beantragen." }
+          - { key: c, text: "Den Ablehnungsgrund prüfen und gegebenenfalls Widerspruch einlegen." }
+        answer: c
+        why: "Eine Prüfung des Ablehnungsgrunds zeigt, ob ein Widerspruch sinnvoll ist."
+      - q: "Sie haben aus Versehen eine falsche Kontonummer angegeben. — You accidentally gave the wrong account number."
+        options:
+          - { key: a, text: "Die Arbeitsagentur sofort informieren und die richtige Nummer nachreichen." }
+          - { key: b, text: "Einfach abwarten, ob das Geld doch noch ankommt." }
+          - { key: c, text: "Ein komplett neues Konto eröffnen, ohne Bescheid zu geben." }
+        answer: a
+        why: "Eine sofortige Korrektur verhindert eine verspätete oder fehlgeleitete Zahlung."
+
+  - id: C2
+    block: C
+    type: gap-text
+    listLayout: true
+    title: "Die richtigen Wörter"
+    instructions: "Ergänze das passende Wort."
+    instructionsEn: "Fill in the fitting word."
+    text: |
+      1. Ich habe mich leider zu spät {1}. (nicht rechtzeitig informiert, Partizip)
+      2. Ich habe leider einen Termin {2}. (nicht wahrgenommen, Partizip)
+      3. Der Vermittlungsvorschlag hat leider nicht zu meiner Qualifikation {3}. (entsprochen, Partizip)
+      4. Gegen mich wurde eine Sperrzeit {4}. (verordnet, Partizip)
+      5. Mein Antrag wurde leider {5}. (nicht genehmigt, Partizip)
+      6. Ich habe aus Versehen eine falsche Kontonummer {6}. (aufgeschrieben, Partizip)
+    answers:
+      "1": gemeldet
+      "2": verpasst
+      "3": gepasst
+      "4": verhängt
+      "5": abgelehnt
+      "6": angegeben
+
+  # ── Block D — Wiederholung ────────────────────────────────────────────────
+
+  - id: D1
+    block: D
+    type: gap-text
+    listLayout: true
+    title: "Selbsttest (score yourself /14)"
+    instructions: "Ergänze aus dem Gedächtnis."
+    instructionsEn: "Fill in from memory."
+    text: |
+      1. Ich {1} mich gestern arbeitslos gemeldet. (have — Perfekt)
+      2. Man {2} sich spätestens drei Tage nach der Kündigung arbeitslos melden. (must — müssen)
+      3. Ich habe mich bei der {3} arbeitslos gemeldet. (employment agency)
+      4. Für Arbeitslosengeld II bin ich beim {4}. (job center)
+      5. Ich habe rechtzeitig die {5} gemacht. (registration as unemployed)
+      6. Ich bekomme jeden Monat {6}. (unemployment benefit)
+      7. Gestern habe ich einen {7} bekommen. (job placement suggestion)
+      8. Ich habe die {8} unterschrieben. (integration agreement)
+      9. {9} Sie mir bitte den Antrag erklären? (could — können, Sie-Form)
+      10. Ich habe mich leider zu spät {10}. (registered — Partizip)
+      11. Ich habe leider einen Termin {11}. (missed — Partizip)
+      12. Der Vermittlungsvorschlag hat leider nicht zu meiner Qualifikation {12}. (fit — Partizip)
+      13. Mein Antrag wurde leider {13}. (rejected — Partizip)
+      14. Ich habe aus Versehen eine falsche Kontonummer {14}. (given — Partizip)
+    answers:
+      "1": habe
+      "2": muss
+      "3": Arbeitsagentur
+      "4": Jobcenter
+      "5": Arbeitslosmeldung
+      "6": Arbeitslosengeld
+      "7": Vermittlungsvorschlag
+      "8": Eingliederungsvereinbarung
+      "9": Können
+      "10": gemeldet
+      "11": verpasst
+      "12": gepasst
+      "13": abgelehnt
+      "14": angegeben
+
+  - id: D2
+    block: D
+    type: free-write
+    title: "Melden, ein Problem, die Lösung"
+    prompt: "Schreib drei Teile: dich bei der Arbeitsagentur arbeitslos melden, ein Problem, weil ein Vermittlungsvorschlag gar nicht zu deiner Qualifikation passt, und die Lösung. Zusammen 16–20 Sätze."
+    stimulus: |
+      Du meldest dich nach einer Kündigung bei der Arbeitsagentur
+      arbeitslos. Wenig später bekommst du einen Vermittlungsvorschlag,
+      der überhaupt nicht zu deiner Ausbildung passt.
+
+      Bei der Meldung müssen vorkommen:
+      1. sich arbeitslos melden
+      2. die Kündigung zeigen
+      3. den Antrag auf Arbeitslosengeld stellen
+
+      Beim Problem müssen vorkommen:
+      4. einen unpassenden Vermittlungsvorschlag bekommen
+      5. sich darüber ärgern
+      6. das Problem der Sachbearbeiterin erklären
+
+      In der Lösung müssen vorkommen:
+      7. einen passenderen Vorschlag bekommen
+      8. sich auf die neue Stelle bewerben
+      9. zum Vorstellungsgespräch eingeladen werden
+      10. sich über die neue Chance freuen
+    use:
+      - "höfliche Frage: „Können Sie mir bitte einen passenderen Vorschlag machen?“"
+      - "Perfekt: „Ich habe mich arbeitslos gemeldet.“"
+      - "Futur I: „Ich werde mich auf die neue Stelle bewerben.“"
+    selfCheck:
+      - "Wird die Meldung klar beschrieben?"
+      - "Klingt die Reaktion auf den unpassenden Vorschlag realistisch?"
+      - "Wird die neue Chance als Lösung erwähnt?"
+      - "Kommen alle 10 Punkte vor?"
+    model: |
+      **Melden**
+
+      Ich melde mich bei der Arbeitsagentur arbeitslos.
+      Ich zeige meine Kündigung und stelle den Antrag auf Arbeitslosengeld.
+
+      **Das Problem**
+
+      Wenig später bekomme ich einen Vermittlungsvorschlag, der gar nicht zu meiner Ausbildung passt.
+      Das ärgert mich sehr, also erkläre ich das Problem der Sachbearbeiterin.
+      Ich: Können Sie mir bitte einen passenderen Vorschlag machen?
+
+      **Die Lösung**
+
+      Sachbearbeiterin: Natürlich, hier ist ein besser passender Vorschlag.
+      Ich werde mich auf die neue Stelle bewerben.
+      Ein paar Tage später werde ich zum Vorstellungsgespräch eingeladen.
+      Ich freue mich sehr über diese neue Chance.
