@@ -35,6 +35,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const STANDALONE: Record<string, { label: string; href: string }> = {
   themen:      { label: 'Grammatikthemen',    href: 'themen' },
   situationen: { label: 'Alltagssituationen', href: 'situationen' },
+  hoeren:      { label: 'Hörverstehen',       href: 'hoeren' },
 };
 const standalone = STANDALONE[level];
 const displayLevel = (data.level ?? level).toUpperCase();
