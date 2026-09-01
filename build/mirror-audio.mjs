@@ -1,8 +1,12 @@
 /**
  * Mirrors lesson audio files into web/public/ so Astro's static build can serve them.
  *
- * Source:  <repo>/<LEVEL>/<nn-slug>/audio/*.mp3
+ * Source:  <repo>/<LEVEL>/<nn-slug>/audio/*.mp3   (LEVEL = A1…C1, or HOEREN)
  * Dest:    <repo>/web/public/audio/<LEVEL>/<nn-slug>/*.mp3
+ *
+ * uebungen.astro computes its audioDir as `audio/${level.toUpperCase()}/${lesson}/`
+ * where `level` is the content directory name lowercased — so HOEREN/<slug>/audio/
+ * must land at web/public/audio/HOEREN/<slug>/, same shape as the A1–C1 case.
  *
  * Run before `astro build` (or `astro dev`). In CI, `git lfs pull` must precede this.
  */
@@ -13,7 +17,7 @@ import { fileURLToPath } from 'node:url';
 const repoRoot   = fileURLToPath(new URL('..', import.meta.url));
 const publicAudio = join(repoRoot, 'web/public/audio');
 
-const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1'];
+const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'HOEREN'];
 let copied = 0;
 
 for (const level of LEVELS) {

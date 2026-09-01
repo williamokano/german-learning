@@ -36,7 +36,7 @@ import { fileURLToPath } from 'node:url';
 import { parse } from '../web/node_modules/yaml/dist/index.js';
 
 const ROOT = path.resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'THEMEN', 'SITUATIONEN'];
+const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'THEMEN', 'SITUATIONEN', 'HOEREN'];
 
 function lessonDirs(): string[] {
   const out: string[] = [];
