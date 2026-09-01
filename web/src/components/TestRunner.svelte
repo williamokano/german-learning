@@ -12,12 +12,14 @@
     lessonId,
     audioDir,
     examGrid,
+    level,
     onGraded,
   }: {
     exercises: ExerciseUnion[];
     lessonId: string;
     audioDir: string;
     examGrid: ExamGridType;
+    level?: string;
     // Optional callback (issue #348, ExamSimulator) — fires with the current
     // ExamResult (or null pre-grading / after "Nochmal") every time it changes,
     // including self-assessment edits. Lets a wrapper add countdown/remediation
@@ -81,6 +83,7 @@
       {graded}
       {lessonId}
       {audioDir}
+      {level}
     />
   {/each}
 
