@@ -95,12 +95,14 @@ const crumbs = standalone
             audioDir={audioDir}
             examGrid={data.exam}
             lessonUrl={`${base}/${level}/${lesson}/`}
+            level={displayLevel}
             client:load
           />
         : <BlockRunner
             exercises={data.exercises}
             lessonId={data.lesson}
             audioDir={audioDir}
+            level={displayLevel}
             client:load
           />
       }

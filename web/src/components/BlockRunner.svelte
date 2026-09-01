@@ -10,10 +10,12 @@
     exercises,
     lessonId,
     audioDir,
+    level,
   }: {
     exercises: ExerciseUnion[];
     lessonId: string;
     audioDir: string;
+    level?: string;
   } = $props();
 
   let graded = $state(false);
@@ -61,6 +63,7 @@
       {graded}
       {lessonId}
       {audioDir}
+      {level}
     />
   {/each}
 

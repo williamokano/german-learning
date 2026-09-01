@@ -21,11 +21,13 @@
     graded,
     lessonId,
     audioDir,
+    level,
   }: {
     exercise: ExerciseUnion;
     graded: boolean;
     lessonId: string;
     audioDir: string;
+    level?: string;
   } = $props();
 
   let widgetRef: { check(): ItemResult[]; reset(): void } | null = $state(null);
@@ -89,7 +91,7 @@
   {:else if exercise.type === 'order'}
     <Order bind:this={widgetRef} {exercise} {graded} {results} {lessonId} />
   {:else if exercise.type === 'free-write'}
-    <FreeWrite bind:this={widgetRef} {exercise} {graded} {lessonId} />
+    <FreeWrite bind:this={widgetRef} {exercise} {graded} {lessonId} {level} />
   {:else if exercise.type === 'speaking-prompt'}
     <SpeakingPrompt bind:this={widgetRef} {exercise} {graded} />
   {/if}

@@ -1,0 +1,138 @@
+---
+import AppShell from '../../layouts/AppShell.astro';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const steps = [
+  {
+    icon: '🤖',
+    de: 'Klicke bei einer Schreibaufgabe (Block D, „Freies Schreiben“) auf den Button „Mit KI bewerten lassen“, nachdem du deinen Text geschrieben hast.',
+    en: 'On a writing exercise (Block D, "free write"), click the "Grade with AI" button once you have written your text.',
+  },
+  {
+    icon: '📋',
+    de: 'Der Button kopiert automatisch alles Nötige in deine Zwischenablage: die Aufgabenstellung, die Bewertungskriterien für genau diese Aufgabe — und deinen Text. Du musst nichts selbst zusammenstellen.',
+    en: 'The button automatically copies everything needed to your clipboard: the task, the grading criteria for this exact exercise — and your text. You don’t have to assemble anything yourself.',
+  },
+  {
+    icon: '🌐',
+    de: 'Öffne ein KI-Chat-Tool in einem neuen Tab, z. B. ChatGPT (chat.openai.com), Claude (claude.ai) oder Gemini (gemini.google.com). Ein kostenloses Konto reicht.',
+    en: 'Open an AI chat tool in a new tab, e.g. ChatGPT (chat.openai.com), Claude (claude.ai), or Gemini (gemini.google.com). A free account is enough.',
+  },
+  {
+    icon: '📥',
+    de: 'Klicke in das Eingabefeld des Chats und füge den Inhalt ein: Strg+V (Windows/Linux) oder Cmd+V (Mac). Sende die Nachricht ab.',
+    en: 'Click into the chat’s input box and paste: Ctrl+V (Windows/Linux) or Cmd+V (Mac). Send the message.',
+  },
+  {
+    icon: '📖',
+    de: 'Lies die Rückmeldung. Die KI prüft nur, ob dein Text die Kriterien der Aufgabe erfüllt und ob er inhaltlich stimmig ist — sie schreibt dir keinen „besseren“ Text vor. Nutze die Korrekturvorschläge, um deine eigene Version zu verbessern.',
+    en: 'Read the feedback. The AI only checks whether your text meets the exercise’s criteria and makes sense — it does not hand you a "better" text to copy. Use the correction suggestions to improve your own version.',
+  },
+];
+---
+
+<AppShell
+  title="KI-Bewertung nutzen · Hilfe"
+  variant="prose"
+  crumbs={[{ label: 'Hilfe' }, { label: 'KI-Bewertung nutzen' }]}
+>
+  <article class="help-page">
+    <header class="help-head">
+      <span class="badge badge-soft">Hilfe</span>
+      <h1>Deinen Text mit einer KI bewerten lassen</h1>
+      <p class="help-intro">
+        Bei Schreibaufgaben gibt es keine automatische Auswertung — die Aufgabe ist zu offen
+        für ein festes Punkteschema. Der Button „Mit KI bewerten lassen“ gibt dir trotzdem eine
+        schnelle, kostenlose Rückmeldung: über ein KI-Chat-Tool deiner Wahl.
+      </p>
+      <p class="help-intro help-intro-en">
+        There’s no automatic grading for writing exercises — the task is too open for a fixed
+        point scheme. The "Grade with AI" button still gets you fast, free feedback, through an
+        AI chat tool of your choice.
+      </p>
+    </header>
+
+    <ol class="steps">
+      {steps.map((s, i) => (
+        <li class="step card">
+          <span class="step-num" aria-hidden="true">{i + 1}</span>
+          <span class="step-icon" aria-hidden="true">{s.icon}</span>
+          <div class="step-text">
+            <p class="step-de">{s.de}</p>
+            <p class="step-en">{s.en}</p>
+          </div>
+        </li>
+      ))}
+    </ol>
+
+    <div class="note card">
+      <p class="note-title">Gut zu wissen — Good to know</p>
+      <ul>
+        <li>
+          Die KI-Rückmeldung ist eine Hilfe, keine offizielle Bewertung — sie kann sich irren.
+          Vergleiche sie im Zweifel mit dem eingebauten Self-check und der Musterantwort.
+          <em>The AI feedback is a helper, not an official grade — it can be wrong. When in
+          doubt, compare it with the built-in self-check and model answer.</em>
+        </li>
+        <li>
+          Der kopierte Text enthält nur die Aufgabe und deine Antwort — keine persönlichen
+          Daten aus deinem Konto. Schreib trotzdem nichts in deinen Übungstext, das du nicht
+          mit einem KI-Anbieter teilen möchtest.
+          <em>The copied text only contains the exercise and your answer — no personal data
+          from your account. Even so, don’t put anything in your practice text that you
+          wouldn’t want to share with an AI provider.</em>
+        </li>
+      </ul>
+    </div>
+
+    <a class="btn btn-secondary back-link" href={`${base}/`}>← Zur Startseite / Back to home</a>
+  </article>
+</AppShell>
+
+<style>
+  .help-page { display: flex; flex-direction: column; gap: var(--space-6); }
+  .help-head { display: flex; flex-direction: column; gap: var(--space-3); }
+  .help-head h1 { margin: 0; font-size: var(--text-2xl); letter-spacing: -0.02em; }
+  .help-intro { margin: 0; color: var(--text-muted); line-height: 1.65; max-width: 68ch; }
+  .help-intro-en { color: var(--text-faint); font-style: italic; font-size: 0.92em; }
+
+  .steps { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: var(--space-3); }
+  .step {
+    display: grid;
+    grid-template-columns: auto auto minmax(0, 1fr);
+    align-items: start;
+    gap: var(--space-3);
+    padding: var(--space-4) var(--space-5);
+  }
+  .step-num {
+    display: grid;
+    place-items: center;
+    width: 1.75rem;
+    height: 1.75rem;
+    border-radius: 999px;
+    background: var(--brand-600);
+    color: #fff;
+    font-weight: 800;
+    font-size: var(--text-sm);
+    flex-shrink: 0;
+  }
+  .step-icon { font-size: 1.3rem; line-height: 1.75rem; flex-shrink: 0; }
+  .step-text { min-width: 0; }
+  .step-de { margin: 0; line-height: 1.6; color: var(--text); }
+  .step-en { margin: var(--space-1) 0 0; line-height: 1.5; color: var(--text-faint); font-style: italic; font-size: 0.9em; }
+
+  .note { padding: var(--space-4) var(--space-5); background: var(--surface-2, var(--surface)); }
+  .note-title { margin: 0 0 var(--space-2); font-weight: 700; font-size: var(--text-sm); text-transform: uppercase; letter-spacing: 0.04em; color: var(--text-faint); }
+  .note ul { margin: 0; padding-left: 1.25rem; display: flex; flex-direction: column; gap: var(--space-3); }
+  .note li { line-height: 1.6; }
+  .note em { display: block; margin-top: 0.2rem; color: var(--text-faint); font-size: 0.9em; }
+
+  .back-link { align-self: flex-start; }
+
+  @media (max-width: 560px) {
+    .step { grid-template-columns: auto minmax(0, 1fr); }
+    .step-icon { grid-column: 2; grid-row: 1; }
+    .step-text { grid-column: 1 / -1; }
+  }
+</style>

@@ -22,12 +22,14 @@
     audioDir,
     examGrid,
     lessonUrl,
+    level,
   }: {
     exercises: ExerciseUnion[];
     lessonId: string;
     audioDir: string;
     examGrid: ExamGridType;
     lessonUrl: string; // pre-built "/<level>/<lesson>/" href — the primary remediation link
+    level?: string;
   } = $props();
 
   const FORMAT_LABELS: Record<string, string> = {
@@ -112,6 +114,7 @@
     {lessonId}
     {audioDir}
     {examGrid}
+    {level}
     onGraded={handleGraded}
   />
 
