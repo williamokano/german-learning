@@ -1,0 +1,284 @@
+lesson: "EX/24-werden-b1"
+title: "werden — Vollverb, Futur, Passiv — B1"
+topic: "werden"
+level: B1
+intro: >
+  Ein Verb, drei Aufgaben. 1) Vollverb werden = sich verändern /
+  etwas werden: Es wird kalt. Sie wird Ärztin. Perfekt mit sein und
+  geworden: Es ist kalt geworden. 2) Futur I: werden + Infinitiv:
+  Morgen wird es regnen. Auch für Vermutungen: Er wird (wohl) zu
+  Hause sein. 3) Vorgangspassiv: werden + Partizip II: Das Haus wird
+  gebaut. Präteritum wurde gebaut; Perfekt ist gebaut worden — hier
+  heißt das Partizip worden, nicht geworden. Konjugation: ich werde,
+  du wirst, er/sie/es wird, wir/sie werden, ihr werdet; Präteritum
+  wurde. Blocks: A Basistraining → B Vertiefung → C Sprachbausteine →
+  D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "Konjugation von werden"
+    instructions: "Ergänze die Formen im Präsens und Präteritum."
+    instructionsEn: "Fill in the present and simple-past forms."
+    columns: ["Person", "Präsens", "Präteritum"]
+    rows:
+      - label: "ich"
+        cells: [{ gap: 1, answer: "werde" }, { gap: 2, answer: "wurde" }]
+      - label: "du"
+        cells: [{ gap: 3, answer: "wirst" }, { gap: 4, answer: "wurdest" }]
+      - label: "er/sie/es"
+        cells: [{ gap: 5, answer: "wird" }, { gap: 6, answer: "wurde" }]
+      - label: "wir"
+        cells: [{ gap: 7, answer: "werden" }, { gap: 8, answer: "wurden" }]
+      - label: "ihr"
+        cells: [{ gap: 9, answer: "werdet" }, { gap: 10, answer: "wurdet" }]
+      - label: "sie/Sie"
+        cells: [{ gap: 11, answer: "werden" }, { gap: 12, answer: "wurden" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "geworden oder worden? werden, wird oder wurde?"
+    instructions: "Ergänze das Partizip (geworden für das Vollverb, worden für das Passiv) oder die passende Form von werden."
+    instructionsEn: "Fill in the participle (geworden for the full verb, worden for the passive) or the right form of werden."
+    text: |
+      1. Es ist gestern Abend sehr kalt {1}.
+      2. Das neue Schwimmbad ist letztes Jahr gebaut {2}.
+      3. Mein Bruder ist mit 40 noch einmal Student {3}.
+      4. Die Hauptstraße ist letzte Woche repariert {4}.
+      5. Nach dem Sport {5} ich immer sehr hungrig.
+      6. Früher {6} auf diesem Feld Kartoffeln angebaut.
+      7. Bald {7} das alte Kino geschlossen.
+      8. Draußen {8} es langsam dunkel.
+    answers:
+      "1": "geworden"
+      "2": "worden"
+      "3": "geworden"
+      "4": "worden"
+      "5": "werde"
+      "6": "wurde"
+      "7": "wird"
+      "8": "wird"
+
+  - id: A3
+    block: A
+    type: categorize
+    title: "Vollverb, Futur oder Passiv?"
+    instructions: "Ordne jeden Satz der richtigen Verwendung von werden zu."
+    instructionsEn: "Sort each sentence by how werden is used."
+    buckets:
+      - { key: vollverb, label: "Vollverb (etwas werden / sich verändern)" }
+      - { key: futur, label: "Futur (werden + Infinitiv)" }
+      - { key: passiv, label: "Passiv (werden + Partizip II)" }
+    tokens:
+      - { text: "Im Herbst werden die Tage kürzer.", bucket: vollverb }
+      - { text: "Meine Schwester wird nächsten Monat 18.", bucket: vollverb }
+      - { text: "Nach der Wanderung sind alle müde geworden.", bucket: vollverb }
+      - { text: "Es wird schon spät.", bucket: vollverb }
+      - { text: "Morgen werde ich dich vom Bahnhof abholen.", bucket: futur }
+      - { text: "In zehn Jahren werden viele Autos elektrisch fahren.", bucket: futur }
+      - { text: "Das wird schon klappen.", bucket: futur }
+      - { text: "Ich werde es mir noch überlegen.", bucket: futur }
+      - { text: "Das Rathaus wird gerade renoviert.", bucket: passiv }
+      - { text: "Die Pakete werden morgen zugestellt.", bucket: passiv }
+      - { text: "Der Vertrag wurde gestern unterschrieben.", bucket: passiv }
+      - { text: "Hier werden Fahrräder repariert.", bucket: passiv }
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Neues Sportzentrum"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter bleiben übrig."
+    instructionsEn: "Fill the 8 gaps with the words from the box. Two words are left over."
+    text: |
+      Am Samstag {1} das neue Sportzentrum eröffnet. Zwei Jahre lang
+      {2} an dem Gebäude gebaut. Viele Vereine hoffen, dass die
+      Mitgliederzahlen jetzt steigen {3}. Die alte Halle {4} in den
+      nächsten Monaten abgerissen. Für Kinder {5} der Eintritt frei
+      sein. Der Bürgermeister sagte, das ganze Viertel {6} durch das
+      Projekt attraktiver {7}. Schon in der ersten Woche {8} über
+      tausend Anmeldungen erwartet.
+    bank: ["wird", "wurde", "werden", "wird", "wird", "wird", "werden", "werden", "wurden", "geworden"]
+    answers:
+      "1": "wird"
+      "2": "wurde"
+      "3": "werden"
+      "4": "wird"
+      "5": "wird"
+      "6": "wird"
+      "7": "werden"
+      "8": "werden"
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "geworden / worden, Futur / Präsens"
+    instructions: "Wähle die richtige Lösung (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Perfekt von: Es wird kalt."
+        options: [{ key: a, text: "Es hat kalt geworden." }, { key: b, text: "Es ist kalt geworden." }, { key: c, text: "Es ist kalt worden." }]
+        answer: b
+        why: "Vollverb werden → Perfekt mit sein + geworden."
+      - q: "Perfekt von: Das Haus wird gebaut."
+        options: [{ key: a, text: "Das Haus ist gebaut geworden." }, { key: b, text: "Das Haus hat gebaut worden." }, { key: c, text: "Das Haus ist gebaut worden." }]
+        answer: c
+        why: "Vorgangspassiv im Perfekt → ist + Partizip + worden (ohne ge-)."
+      - q: "In welchem Satz kann werden ohne Bedeutungsverlust wegfallen (Präsens + Zeitangabe)?"
+        options: [{ key: a, text: "Morgen fahre ich nach Köln. / Morgen werde ich nach Köln fahren." }, { key: b, text: "Das Auto wird repariert." }, { key: c, text: "Sie wird bald Mutter." }]
+        answer: a
+        why: "Bei klarer Zeitangabe reicht das Präsens; Passiv und Vollverb brauchen werden."
+      - q: "Er wird jetzt schon zu Hause sein. — Was ist gemeint?"
+        options: [{ key: a, text: "Ein Passivsatz." }, { key: b, text: "Ein Befehl." }, { key: c, text: "Eine Vermutung: wahrscheinlich ist er zu Hause." }]
+        answer: c
+        why: "werden + Infinitiv kann auch eine Vermutung über die Gegenwart ausdrücken."
+      - q: "Passiv Präteritum: Die Brücke ___ 1950 gebaut."
+        options: [{ key: a, text: "wurde" }, { key: b, text: "wurden" }, { key: c, text: "worden" }]
+        answer: a
+        why: "Singular (die Brücke) → wurde + Partizip."
+      - q: "Nächstes Jahr ___ meine Tochter eingeschult."
+        options: [{ key: a, text: "wurde" }, { key: b, text: "wird" }, { key: c, text: "worden" }]
+        answer: b
+        why: "Passiv Präsens / mit Zukunftsbezug → wird + Partizip."
+      - q: "Perfekt-Passiv richtig ergänzen: Der Brief ist gestern ___."
+        options: [{ key: a, text: "abgeschickt worden" }, { key: b, text: "abgeschickt geworden" }, { key: c, text: "abgeschickt gewesen" }]
+        answer: a
+        why: "Perfekt-Passiv → Partizip + worden."
+      - q: "Welcher Satz ist ein Vollverb-Satz (kein Passiv, kein Futur)?"
+        options: [{ key: a, text: "Der Kaffee wird gebracht." }, { key: b, text: "Der Kaffee wird kalt." }, { key: c, text: "Ich werde einen Kaffee bestellen." }]
+        answer: b
+        why: "kalt werden = sich verändern → Vollverb; gebracht werden wäre Passiv, bestellen werden wäre Futur."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Aus einem Vereinsbrief"
+    instructions: "Wähle für jede Lücke die richtige Lösung (a, b oder c)."
+    instructionsEn: "Choose the correct option for each gap (a, b, or c)."
+    items:
+      - q: "Ab September ___ die Trainingszeiten geändert."
+        options: [{ key: a, text: "worden" }, { key: b, text: "geworden" }, { key: c, text: "werden" }]
+        answer: c
+        why: "Passiv Präsens, Plural (die Zeiten) → werden + Partizip."
+      - q: "Unser Verein ___ im Mai fünfzig Jahre alt."
+        options: [{ key: a, text: "wurde" }, { key: b, text: "wird" }, { key: c, text: "worden" }]
+        answer: b
+        why: "Vollverb werden (alt werden), Gegenwart/Zukunft → wird."
+      - q: "Letztes Jahr ___ ein neuer Vorstand gewählt."
+        options: [{ key: a, text: "wird" }, { key: b, text: "worden" }, { key: c, text: "wurde" }]
+        answer: c
+        why: "Passiv Präteritum, Singular → wurde + Partizip."
+      - q: "Wir hoffen, dass viele neue Mitglieder ___."
+        options: [{ key: a, text: "kommen werden" }, { key: b, text: "kommen worden" }, { key: c, text: "geworden kommen" }]
+        answer: a
+        why: "Futur im Nebensatz → Infinitiv + werden am Ende."
+      - q: "Die Halle ist in den Ferien frisch gestrichen ___."
+        options: [{ key: a, text: "geworden" }, { key: b, text: "gewesen" }, { key: c, text: "worden" }]
+        answer: c
+        why: "Perfekt-Passiv → Partizip + worden."
+      - q: "Nach dem Umbau ___ das Angebot deutlich größer."
+        options: [{ key: a, text: "worden" }, { key: b, text: "wird" }, { key: c, text: "werden" }]
+        answer: b
+        why: "Vollverb werden (größer werden), Singular → wird."
+      - q: "Anmeldungen ___ ab sofort online entgegengenommen."
+        options: [{ key: a, text: "werden" }, { key: b, text: "wird" }, { key: c, text: "wurden" }]
+        answer: a
+        why: "Passiv Präsens, Plural (Anmeldungen) → werden."
+      - q: "Damals ___ noch auf Aschenplätzen gespielt."
+        options: [{ key: a, text: "wird" }, { key: b, text: "wurde" }, { key: c, text: "worden" }]
+        answer: b
+        why: "Passiv Präteritum, unpersönlich → wurde."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Ein Stadtviertel verändert sich (Wortbank)"
+    instructions: "Fülle die 10 Lücken. Drei Wörter im Kasten bleiben übrig."
+    instructionsEn: "Fill the 10 gaps. Three words in the box are left over."
+    text: |
+      Unser Viertel hat sich stark verändert. Vor zehn Jahren {1} hier
+      noch eine alte Fabrik betrieben. Dann {2} das Gelände verkauft und
+      die Hallen {3} abgerissen. Heute {4} dort Wohnungen gebaut. Die
+      Gegend {5} von Jahr zu Jahr teurer. Viele alte Nachbarn sind
+      inzwischen weggezogen oder alt {6}. Nächstes Jahr {7} eine neue
+      Schule eröffnet. Man sagt, das Viertel {8} bald sehr beliebt sein.
+      Der kleine Park {9} zum Glück nicht bebaut. Am Wochenende {10}
+      dort oft Feste gefeiert.
+    bank: ["wurde", "wurde", "wurden", "werden", "werden", "wird", "wird", "wird", "wird", "geworden", "worden", "worden", "wurdet"]
+    answers:
+      "1": "wurde"
+      "2": "wurde"
+      "3": "wurden"
+      "4": "werden"
+      "5": "wird"
+      "6": "geworden"
+      "7": "wird"
+      "8": "wird"
+      "9": "wird"
+      "10": "werden"
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: order
+    title: "Wiederholung: Satzbau"
+    instructions: "Bring die Kacheln in die richtige Reihenfolge."
+    instructionsEn: "Put the tiles in the correct order."
+    items:
+      - tiles: ["Das Fahrrad", "ist", "gestern", "gestohlen", "worden."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Das Fahrrad ist gestern gestohlen worden. (Perfekt-Passiv → worden.)"
+      - tiles: ["Nach dem Regen", "ist", "es", "wieder", "warm geworden."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Nach dem Regen ist es wieder warm geworden. (Vollverb → geworden, mit sein.)"
+      - tiles: ["Nächste Woche", "werde", "ich", "mit dem Rauchen", "aufhören."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Nächste Woche werde ich mit dem Rauchen aufhören. (Futur.)"
+      - tiles: ["Die Ergebnisse", "werden", "morgen", "bekannt gegeben."]
+        answer: [0, 1, 2, 3]
+        note: "Die Ergebnisse werden morgen bekannt gegeben. (Passiv Präsens.)"
+      - tiles: ["Mein Onkel", "wurde", "mit fünfzig", "noch einmal", "Vater."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Mein Onkel wurde mit fünfzig noch einmal Vater. (Vollverb, Präteritum.)"
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Wähle die richtige Lösung (a, b oder c). Das ist dein Abschlusscheck für dieses Set."
+    instructionsEn: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Perfekt: Meine Nichte ___ Ingenieurin ___."
+        options: [{ key: a, text: "hat … geworden" }, { key: b, text: "ist … worden" }, { key: c, text: "ist … geworden" }]
+        answer: c
+        why: "Vollverb werden → sein + geworden."
+      - q: "Perfekt-Passiv: Das Formular ___ schon ___."
+        options: [{ key: a, text: "ist … abgeschickt worden" }, { key: b, text: "ist … abgeschickt geworden" }, { key: c, text: "hat … abgeschickt worden" }]
+        answer: a
+        why: "Perfekt-Passiv → sein + Partizip + worden."
+      - q: "Passiv Präteritum, Plural: Die Fenster ___ erst gestern geputzt."
+        options: [{ key: a, text: "wurde" }, { key: b, text: "worden" }, { key: c, text: "wurden" }]
+        answer: c
+        why: "Plural (die Fenster) → wurden."
+      - q: "Vermutung über jetzt: Sie ___ wohl im Stau stehen."
+        options: [{ key: a, text: "wird" }, { key: b, text: "wurde" }, { key: c, text: "ist" }]
+        answer: a
+        why: "werden + Infinitiv drückt hier eine Vermutung aus."
+      - q: "Welcher Satz braucht kein werden?"
+        options: [{ key: a, text: "Das Dach wird repariert." }, { key: b, text: "Morgen habe ich frei." }, { key: c, text: "Es wird dunkel." }]
+        answer: b
+        why: "Morgen habe ich frei kommt ohne werden aus (Präsens + Zeitangabe); ein Dach reparieren ist Passiv, dunkel werden ist Vollverb."
+      - q: "Vollverb oder Passiv? Der Tee wird kalt."
+        options: [{ key: a, text: "Vollverb (kalt werden)" }, { key: b, text: "Passiv (von jemandem kalt gemacht)" }, { key: c, text: "Futur" }]
+        answer: a
+        why: "Kein Partizip II, nur ein Adjektiv → Vollverb werden = sich verändern."
+    notes: "5–6 von 6 richtig und alle A/B/C-Übungen sauber gelöst? Dann sitzen die drei Verwendungen von werden und der Unterschied geworden (Vollverb) / worden (Passiv). Verwandte Sets: THEMEN 13 (Passiv), THEMEN 18 (Futur)."
