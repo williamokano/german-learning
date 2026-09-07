@@ -122,12 +122,52 @@ spans, same A/B/C/D block workflow:
   differ); zu sits between prefix and stem for separable verbs
   (anzurufen, vorzubereiten).
 
+## Themen 22–24 (dritter Batch — „ein Wort, mehrere Aufgaben")
+
+Small, tightly scoped drills for constructions learners keep confusing —
+the standalone-set answer to „give me individual exercises for je nach,
+je … desto and friends". Same A/B/C/D block workflow, no lesson.
+
+- **22 — Je-Konstruktionen** (B1/B2) — three unrelated structures that
+  share the word *je*: **je … desto / umso** + Komparativ (je-clause
+  verb-final, desto-clause Verb-Zweit with `desto`+comparative in
+  position 1); **je nachdem, ob / wie / inwieweit …** (subordinating,
+  „it depends", verb at the end, and the one-word answer *Je nachdem.*);
+  **je nach** + Dativ (preposition, before a noun, no verb). The b2
+  variant adds the elliptical desto-clause (*Je größer das Risiko, desto
+  höher die Rendite.*), abstract nouns (*je nach Sachlage*), and the
+  Nominalstil paraphrase *abhängig von / in Abhängigkeit von*.
+- **23 — lassen: die vier Bedeutungen** (B1) — zurücklassen/vergessen
+  (Perfekt *hat gelassen*) · erlauben/zulassen (*lassen* + Akk. + Inf.
+  ohne zu) · veranlassen/„etwas machen lassen" (someone else does it) ·
+  *sich lassen* = Passiversatz (*Das Fenster lässt sich nicht öffnen.* =
+  kann nicht geöffnet werden). Baked-in Fehler: Perfekt *hat … gelassen*
+  (Vollverb, mit ge-) vs. *hat … machen lassen* (Ersatzinfinitiv, ohne
+  ge-); plus *Lass uns …* = Aufforderung.
+- **24 — werden: Vollverb, Futur, Passiv** (B1) — Vollverb „become/get"
+  (Perfekt *ist … geworden*, mit sein) · Futur I (*werden* + Infinitiv),
+  also for Vermutungen · Vorgangspassiv (*werden* + Partizip II;
+  Perfekt *ist gebaut worden* — **worden**, nicht *geworden*).
+  Cross-links THEMEN 13 (Passiv) and THEMEN 18 (Futur).
+
 ## Weitere Themen (Ideen für später)
 
-Nothing queued right now — the list above (01–21) covers pronouns, case,
-adjective declension, the two-way prepositions, the whole verb-tense system
-(Perfekt/Präteritum/Futur), Passiv, Konjunktiv II, indirect speech,
-sentence-level connectors, and infinitive clauses. Suggest a new grammar
-point here when one comes up; it'll follow the same
-`THEMEN/<NN>-<topic-slug>-<level>/` layout and A/B/C/D block workflow as
-everything above.
+Backlog of „one word / one small structure, several jobs" sets that would
+each earn a standalone drill (none exist yet — all genuinely open):
+
+- **es** — Platzhalter- und Korrelat-`es`: *es gibt*, `es` als Vorgriff
+  auf einen dass-Satz (*Es freut mich, dass …*), Wetter/Zeit, `es` im
+  Vorfeld vs. weggelassen. B1/B2.
+- **da(r)- / wo(r)-Komposita** (Pronominaladverbien: *darauf, worüber,
+  damit, wovon*) — heute nur eingebettet in THEMEN 11
+  (Wechselpräpositionen). B1.
+- **erst / schon** + **noch / nicht mehr** — temporale Fokuspartikeln,
+  der Klassiker *erst/schon* und *noch/nicht mehr*. A2/B1.
+- **wenn / als / wann** — temporal, die klassische A2-Falle. A2.
+- **irgend-** Komposita (*irgendwo, irgendwann, irgendein, irgendwie*).
+  A2/B1.
+- **so … dass / solch- / so ein** — Intensität + Folge. A2/B1.
+- **brauchen + zu / nicht brauchen zu** — Halbmodalverb. B1.
+
+A new set follows the same `THEMEN/<NN>-<topic-slug>-<level>/` layout and
+A/B/C/D block workflow as everything above.
