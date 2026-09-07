@@ -1,0 +1,280 @@
+lesson: "EX/27-so-dass-solch-b1"
+title: "solch-, sodass, so … dass — B1"
+topic: "so … dass / solch-"
+level: B1
+intro: >
+  Aufbauend auf dem A2-Set. solch- ist die schriftsprachliche Variante
+  von so ein und wird wie ein der-Wort dekliniert: solcher Lärm, solche
+  Probleme, mit solchen Leuten. Vor ein steht solch unflektiert (solch
+  ein Zufall), nach ein flektiert (ein solcher Zufall). Als Verstärkung:
+  Ich habe solchen Hunger! Unterschied sodass (ein Wort, auch so dass) —
+  die Folge steht ohne so im Hauptsatz: Er kam zu spät, sodass wir ohne
+  ihn anfingen. — gegenüber so … dass, das sich um ein Adjektiv oder
+  Adverb legt: Er kam so spät, dass … Verwandt: zu + Adjektiv + um … zu
+  (Es ist zu kalt, um zu baden) sagt fast dasselbe wie so … dass … nicht
+  (Es ist so kalt, dass man nicht baden kann). Blocks: A Basistraining →
+  B Vertiefung → C Sprachbausteine → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: table-fill
+    title: "solch- deklinieren"
+    instructions: "Ergänze die richtige Form von solch- (wie ein der-Wort: solcher, solche, solches, solchen, solchem)."
+    instructionsEn: "Fill in the correct form of solch- (declines like a der-word)."
+    columns: ["Kontext", "Form von solch-"]
+    rows:
+      - label: "___ Lärm (der, Nominativ) stört mich."
+        cells: [{ gap: 1, answer: "Solcher" }]
+      - label: "___ Musik (die, Nominativ) mag ich nicht."
+        cells: [{ gap: 2, answer: "Solche" }]
+      - label: "___ Wetter (das, Nominativ) ist selten."
+        cells: [{ gap: 3, answer: "Solches" }]
+      - label: "Ich habe ___ Hunger (der, Akkusativ)."
+        cells: [{ gap: 4, answer: "solchen" }]
+      - label: "Mit ___ Leuten (Plural, Dativ) rede ich nicht."
+        cells: [{ gap: 5, answer: "solchen" }]
+      - label: "Von ___ Angebot (das, Dativ) kann man nur träumen."
+        cells: [{ gap: 6, answer: "solchem" }]
+
+  - id: A2
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "solch ein, ein solch- oder solche?"
+    instructions: "Ergänze solch (vor ein, unflektiert), die flektierte Form nach ein, oder solche (Plural)."
+    instructionsEn: "Fill in solch (before ein, uninflected), the inflected form after ein, or solche (plural)."
+    text: |
+      1. {1} ein Zufall! Ich habe gerade an dich gedacht.
+      2. Ein {2} Fehler darf nicht noch einmal passieren.
+      3. {3} Gelegenheiten bekommt man nicht oft.
+      4. Wer hat {4} ein Chaos gemacht?
+      5. Über einen {5} Vorschlag müssen wir in Ruhe reden.
+      6. {6} Sorgen hätte ich auch gern.
+    answers:
+      "1": "Solch"
+      "2": "solcher"
+      "3": "Solche"
+      "4": "solch"
+      "5": "solchen"
+      "6": "Solche"
+
+  - id: A3
+    block: A
+    type: single-choice
+    title: "sodass oder so … dass?"
+    instructions: "Wähle das Wort, das in die Lücke passt (a, b oder c)."
+    instructionsEn: "Choose the word that fits the gap (a, b, or c)."
+    items:
+      - q: "Der Zug fiel aus, ___ wir ein Taxi nehmen mussten."
+        options: [{ key: a, text: "so" }, { key: b, text: "sodass" }, { key: c, text: "solch" }]
+        answer: b
+        why: "Kein so + Adjektiv im Hauptsatz, nur die Folge → sodass."
+      - q: "Es war ___ neblig, dass man die Hand nicht vor Augen sah."
+        options: [{ key: a, text: "sodass" }, { key: b, text: "solch" }, { key: c, text: "so" }]
+        answer: c
+        why: "so legt sich um das Adjektiv neblig → so … dass."
+      - q: "Sie sprach sehr deutlich, ___ auch die Gäste hinten alles verstanden."
+        options: [{ key: a, text: "sodass" }, { key: b, text: "so" }, { key: c, text: "solches" }]
+        answer: a
+        why: "Der Hauptsatz hat schon deutlich; nur die Folge folgt → sodass."
+      - q: "Der Koffer war ___ schwer, dass ich ihn nicht heben konnte."
+        options: [{ key: a, text: "sodass" }, { key: b, text: "solch" }, { key: c, text: "so" }]
+        answer: c
+        why: "so + Adjektiv (schwer) → so … dass."
+      - q: "Neben sodass ist auch die Schreibung ___ korrekt."
+        options: [{ key: a, text: "so dass (getrennt)" }, { key: b, text: "so-dass (mit Bindestrich)" }, { key: c, text: "sod ass" }]
+        answer: a
+        why: "sodass und so dass sind beide zulässig; ein Bindestrich ist falsch."
+      - q: "Es hat stark geregnet, ___ das Spiel abgesagt wurde."
+        options: [{ key: a, text: "so" }, { key: b, text: "sodass" }, { key: c, text: "solcher" }]
+        answer: b
+        why: "Kein so + Adjektiv im Hauptsatz → sodass."
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Ein schwieriger Kunde"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter bleiben übrig."
+    instructionsEn: "Fill the 8 gaps with the words from the box. Two words are left over."
+    text: |
+      Heute hatte ich {1} anstrengenden Kunden, dass ich abends völlig
+      erledigt war. Er stellte {2} viele Fragen, {3} das Gespräch fast
+      zwei Stunden dauerte. Über {4} Details hatte ich vorher nie
+      nachgedacht. Am Ende wollte er alles schriftlich haben, {5} ich
+      noch ein langes Protokoll schreiben musste. {6} Kunden sind
+      selten, zum Glück. Aber der Auftrag ist groß, {7} sich der Aufwand
+      lohnt. {8} Chance bekommt die Firma nicht oft.
+    bank: ["so einen", "so", "dass", "solche", "sodass", "Solche", "sodass", "So eine", "weil", "solch"]
+    answers:
+      "1": "so einen"
+      "2": "so"
+      "3": "dass"
+      "4": "solche"
+      "5": "sodass"
+      "6": "Solche"
+      "7": "sodass"
+      "8": "So eine"
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "so … dass ↔ zu … um … zu"
+    instructions: "Wähle die Umformung, die dieselbe Bedeutung hat (a, b oder c)."
+    instructionsEn: "Choose the paraphrase with the same meaning (a, b, or c)."
+    items:
+      - q: "Das Wasser ist so kalt, dass man nicht darin schwimmen kann."
+        options: [{ key: a, text: "Das Wasser ist zu kalt, um darin zu schwimmen." }, { key: b, text: "Das Wasser ist kalt genug, um darin zu schwimmen." }, { key: c, text: "Das Wasser ist so kalt, um zu schwimmen." }]
+        answer: a
+        why: "so … dass … nicht ↔ zu + Adjektiv + um … zu."
+      - q: "Der Text ist zu lang, um ihn in einer Stunde zu übersetzen."
+        options: [{ key: a, text: "Der Text ist so lang, dass man ihn in einer Stunde übersetzen kann." }, { key: b, text: "Der Text ist so lang, dass man ihn nicht in einer Stunde übersetzen kann." }, { key: c, text: "Der Text ist lang genug, dass man ihn übersetzen kann." }]
+        answer: b
+        why: "zu + Adjektiv + um … zu ↔ so … dass … nicht."
+      - q: "Sie war zu müde, um noch zu kochen."
+        options: [{ key: a, text: "Sie war so müde, dass sie noch kochte." }, { key: b, text: "Sie war müde genug zum Kochen." }, { key: c, text: "Sie war so müde, dass sie nicht mehr kochte." }]
+        answer: c
+        why: "zu … um … zu drückt aus, dass die Handlung nicht passiert."
+      - q: "Die Musik war so laut, dass wir uns nicht unterhalten konnten."
+        options: [{ key: a, text: "Die Musik war laut genug, um sich zu unterhalten." }, { key: b, text: "Die Musik war zu laut, um sich zu unterhalten." }, { key: c, text: "Die Musik war so laut, um sich zu unterhalten." }]
+        answer: b
+        why: "so … dass … nicht ↔ zu … um … zu."
+      - q: "Welche Aussage passt NICHT zu 'Er ist zu jung, um allein zu reisen.'?"
+        options: [{ key: a, text: "Er ist so jung, dass er nicht allein reisen darf." }, { key: b, text: "Er darf nicht allein reisen." }, { key: c, text: "Er reist allein." }]
+        answer: c
+        why: "zu … um … zu heißt: die Handlung findet gerade nicht statt."
+      - q: "Der Kaffee war heiß genug, um sich die Zunge zu verbrennen. — Bedeutung?"
+        options: [{ key: a, text: "Der Kaffee war so heiß, dass man sich die Zunge verbrennen konnte." }, { key: b, text: "Der Kaffee war zu heiß zum Trinken." }, { key: c, text: "Der Kaffee war so kalt, dass man ihn trinken konnte." }]
+        answer: a
+        why: "genug, um … zu ↔ so … dass … können (positiv, die Wirkung ist möglich)."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Aus einer Bewerbung"
+    instructions: "Wähle für jede Lücke die richtige Lösung (a, b oder c)."
+    instructionsEn: "Choose the correct option for each gap (a, b, or c)."
+    items:
+      - q: "Die Stelle passt ___ gut zu meinem Profil, dass ich mich sofort beworben habe."
+        options: [{ key: a, text: "solch" }, { key: b, text: "sodass" }, { key: c, text: "so" }]
+        answer: c
+        why: "so + Adverb (gut) → so … dass."
+      - q: "Ich bringe Erfahrung mit ___ Projekten mit."
+        options: [{ key: a, text: "solche" }, { key: b, text: "solchen" }, { key: c, text: "solch" }]
+        answer: b
+        why: "mit + Dativ Plural → solchen Projekten."
+      - q: "___ ein Team habe ich mir immer gewünscht."
+        options: [{ key: a, text: "Solch" }, { key: b, text: "Solcher" }, { key: c, text: "Solches" }]
+        answer: a
+        why: "vor ein bleibt solch unflektiert → Solch ein Team."
+      - q: "Meine letzte Firma wurde verkauft, ___ meine Abteilung aufgelöst wurde."
+        options: [{ key: a, text: "so dass sie" }, { key: b, text: "sodass" }, { key: c, text: "so … dass" }]
+        answer: b
+        why: "reine Folge, kein so + Adjektiv → sodass."
+      - q: "Ich habe ___ Freude an der Arbeit mit Kunden."
+        options: [{ key: a, text: "solchen" }, { key: b, text: "solch" }, { key: c, text: "solche" }]
+        answer: c
+        why: "die Freude (feminin, Akkusativ) → solche Freude."
+      - q: "Das Aufgabengebiet ist ___ vielfältig, dass keine Woche wie die andere ist."
+        options: [{ key: a, text: "so" }, { key: b, text: "solch" }, { key: c, text: "sodass" }]
+        answer: a
+        why: "so + Adjektiv (vielfältig) → so … dass."
+      - q: "Über einen ___ Aufgabenbereich würde ich mich sehr freuen."
+        options: [{ key: a, text: "solch" }, { key: b, text: "solches" }, { key: c, text: "solchen" }]
+        answer: c
+        why: "nach ein wird solch flektiert: einen solchen Aufgabenbereich (Akkusativ)."
+      - q: "Ich konnte kurzfristig einspringen, ___ das Projekt nicht verschoben werden musste."
+        options: [{ key: a, text: "sodass" }, { key: b, text: "so … dass" }, { key: c, text: "so dass ich" }]
+        answer: a
+        why: "Folge ohne so + Adjektiv → sodass."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Ein Umzugsunternehmen bewerten (Wortbank)"
+    instructions: "Fülle die 10 Lücken. Drei Wörter im Kasten bleiben übrig."
+    instructionsEn: "Fill the 10 gaps. Three words in the box are left over."
+    text: |
+      Der Umzug lief {1} reibungslos, dass ich die Firma nur empfehlen
+      kann. Das Team war {2} pünktlich, {3} wir früher fertig waren als
+      geplant. Über {4} Sorgfalt beim Verpacken hatte ich mich vorher
+      nicht getraut zu hoffen. Ein Schrank war {5} schwer, dass drei
+      Männer ihn tragen mussten. Trotzdem gab es keinen Kratzer, {6} ich
+      am Ende gern das volle Trinkgeld gab. {7} Service ist heute
+      selten. Die Rechnung war genau wie im Angebot, {8} es keine böse
+      Überraschung gab. Mit {9} Firmen arbeitet man gern zusammen.
+      {10} ein Umzug darf ruhig etwas kosten.
+    bank: ["so", "so", "dass", "solche", "so", "sodass", "Solcher", "sodass", "solchen", "Solch", "weil", "solches", "so eine"]
+    answers:
+      "1": "so"
+      "2": "so"
+      "3": "dass"
+      "4": "solche"
+      "5": "so"
+      "6": "sodass"
+      "7": "Solcher"
+      "8": "sodass"
+      "9": "solchen"
+      "10": "Solch"
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: order
+    title: "Wiederholung: Satzbau"
+    instructions: "Bring die Kacheln in die richtige Reihenfolge."
+    instructionsEn: "Put the tiles in the correct order."
+    items:
+      - tiles: ["Der Vortrag war", "so interessant,", "dass", "niemand", "auf die Uhr geschaut hat."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Der Vortrag war so interessant, dass niemand auf die Uhr geschaut hat."
+      - tiles: ["Der Referent", "wurde krank,", "sodass", "der Vortrag", "verschoben werden musste."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Der Referent wurde krank, sodass der Vortrag verschoben werden musste."
+      - tiles: ["Mit", "solchen Argumenten", "überzeugst", "du", "niemanden."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Mit solchen Argumenten überzeugst du niemanden."
+      - tiles: ["Das Angebot war", "zu gut,", "um", "es", "abzulehnen."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Das Angebot war zu gut, um es abzulehnen. (= so gut, dass man es nicht ablehnen konnte.)"
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Wähle die richtige Lösung (a, b oder c). Das ist dein Abschlusscheck für dieses Set."
+    instructionsEn: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "___ ein Angebot bekommt man nur einmal."
+        options: [{ key: a, text: "Solches" }, { key: b, text: "Solch" }, { key: c, text: "Solcher" }]
+        answer: b
+        why: "vor ein bleibt solch unflektiert."
+      - q: "Ich hätte gern ___ Geduld wie du."
+        options: [{ key: a, text: "solche" }, { key: b, text: "solchen" }, { key: c, text: "solch" }]
+        answer: a
+        why: "die Geduld (feminin, Akkusativ) → solche."
+      - q: "Der Bus hatte Verspätung, ___ ich den Anschluss verpasste."
+        options: [{ key: a, text: "so … dass" }, { key: b, text: "sodass" }, { key: c, text: "so dass ich so" }]
+        answer: b
+        why: "reine Folge, kein so + Adjektiv → sodass."
+      - q: "Es war ___ heiß, dass wir den Ausflug abgebrochen haben."
+        options: [{ key: a, text: "sodass" }, { key: b, text: "solch" }, { key: c, text: "so" }]
+        answer: c
+        why: "so + Adjektiv (heiß) → so … dass."
+      - q: "Bedeutungsgleich mit 'Es ist zu spät, um noch anzurufen.'"
+        options: [{ key: a, text: "Es ist so spät, dass man noch anrufen kann." }, { key: b, text: "Es ist so spät, dass man nicht mehr anrufen kann." }, { key: c, text: "Es ist spät genug zum Anrufen." }]
+        answer: b
+        why: "zu … um … zu ↔ so … dass … nicht (die Handlung findet nicht statt)."
+      - q: "Mit ___ Kollegen macht die Arbeit Spaß."
+        options: [{ key: a, text: "solche" }, { key: b, text: "solch" }, { key: c, text: "solchen" }]
+        answer: c
+        why: "mit + Dativ Plural → solchen Kollegen."
+    notes: "5–6 von 6 richtig und alle A/B/C-Übungen sauber gelöst? Merke: solch- wird wie ein der-Wort dekliniert (solch ein / ein solcher), sodass = reine Folge ohne so im Hauptsatz, zu … um … zu ≈ so … dass … nicht. Grundlagen im A2-Set."
