@@ -1,0 +1,282 @@
+lesson: "EX/26-erst-schon-noch-a2"
+title: "schon, noch, noch nicht, nicht mehr, erst — A2"
+topic: "erst / schon / noch"
+level: A2
+intro: >
+  Kleine Wörter, große Wirkung. schon = früher als erwartet / bereits
+  (Bist du schon fertig?). Das Gegenteil ist noch nicht (Nein, noch
+  nicht.). noch = etwas dauert an (Er schläft noch.). Das Gegenteil ist
+  nicht mehr / kein … mehr (Er schläft nicht mehr. / Ich habe keine Zeit
+  mehr.). erst = später als erwartet oder nur so wenig (Es ist erst acht
+  Uhr. / Ich bin erst seit einer Woche hier.). Merke das Gegensatzpaar:
+  schon ↔ noch nicht und noch ↔ nicht mehr. Blocks: A Basistraining → B
+  Vertiefung → C Sprachbausteine → D Wiederholung. Answers in
+  solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "schon, noch, noch nicht oder nicht mehr?"
+    instructions: "Ergänze schon, noch, noch nicht oder nicht mehr."
+    instructionsEn: "Fill in schon, noch, noch nicht, or nicht mehr."
+    text: |
+      1. — Bist du fertig? — Ja, ich bin {1} fertig.
+      2. — Bist du fertig? — Nein, {2}.
+      3. Es ist spät, aber die Kinder schlafen {3} nicht.
+      4. Früher habe ich geraucht, aber jetzt rauche ich {4}.
+      5. — Hast du das Buch gelesen? — Nein, ich habe es {5} nicht gelesen.
+      6. Wir müssen uns beeilen, wir haben {6} zehn Minuten.
+      7. Meine Oma wohnt {7} in ihrem Haus, sie ist in ein Heim gezogen.
+      8. — Hast du {8} gegessen? — Ja, vor einer Stunde.
+    answers:
+      "1": "schon"
+      "2": "noch nicht"
+      "3": "noch"
+      "4": "nicht mehr"
+      "5": "noch"
+      "6": "noch"
+      "7": "nicht mehr"
+      "8": "schon"
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Frage und Antwort"
+    instructions: "Ordne jeder Frage die passende Antwort zu."
+    instructionsEn: "Match each question to the fitting answer."
+    left:
+      - { key: "1", text: "Ist der Bus schon weg?" }
+      - { key: "2", text: "Arbeitest du noch bei der Firma Meyer?" }
+      - { key: "3", text: "Habt ihr schon bestellt?" }
+      - { key: "4", text: "Ist noch Milch da?" }
+    right:
+      - { key: "a", text: "Nein, ich bin letztes Jahr gewechselt. Da arbeite ich nicht mehr." }
+      - { key: "b", text: "Ja, er ist gerade abgefahren." }
+      - { key: "c", text: "Nein, noch nicht. Die Kellnerin kommt gleich." }
+      - { key: "d", text: "Nein, die ist leider alle. Wir haben keine mehr." }
+    answers:
+      "1": "b"
+      "2": "a"
+      "3": "c"
+      "4": "d"
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "schon oder erst?"
+    instructions: "Ergänze schon (viel / spät / mehr als erwartet) oder erst (wenig / früh / weniger als erwartet)."
+    instructionsEn: "Fill in schon (a lot / late / more than expected) or erst (little / early / less than expected)."
+    text: |
+      1. Steh auf! Es ist {1} zehn Uhr, du verschläfst!
+      2. Warum bist du schon wach? Es ist doch {2} sechs Uhr.
+      3. Ich lerne {3} seit zwei Monaten Deutsch, mehr nicht.
+      4. Er ist {4} sein ganzes Leben in dieser Stadt.
+      5. Der Film hat {5} angefangen, wir sind zu spät.
+      6. Wart noch, der Film fängt {6} um acht an.
+    answers:
+      "1": "schon"
+      "2": "erst"
+      "3": "erst"
+      "4": "schon"
+      "5": "schon"
+      "6": "erst"
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Am Morgen"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter bleiben übrig."
+    instructionsEn: "Fill the 8 gaps with the words from the box. Two words are left over."
+    text: |
+      Es ist sieben Uhr. Mein Mann schläft {1}, aber ich bin {2} wach.
+      Der Wecker klingelt {3} nicht, ich wache oft zu früh auf. In der
+      Küche ist {4} Kaffee da — mein Sohn hat welchen gemacht. Milch
+      haben wir leider {5}, ich muss einkaufen. Mein Sohn wohnt {6}
+      zu Hause, aber im Herbst zieht er aus. Ich habe {7} zehn Minuten,
+      dann muss ich los. Der Supermarkt macht {8} um acht auf, jetzt
+      stehen wir noch vor verschlossener Tür.
+    bank: ["noch", "schon", "noch", "schon", "nicht mehr", "noch", "noch", "erst", "kein", "nicht"]
+    answers:
+      "1": "noch"
+      "2": "schon"
+      "3": "noch"
+      "4": "schon"
+      "5": "nicht mehr"
+      "6": "noch"
+      "7": "noch"
+      "8": "erst"
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Welches Wort passt?"
+    instructions: "Wähle die richtige Lösung (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "— Hast du den Bericht fertig? — Nein, ___."
+        options: [{ key: a, text: "schon" }, { key: b, text: "noch nicht" }, { key: c, text: "nicht mehr" }]
+        answer: b
+        why: "Gegenteil von schon (fertig) → noch nicht."
+      - q: "Wir haben Zeit, der Zug fährt ___ um Viertel nach."
+        options: [{ key: a, text: "schon" }, { key: b, text: "nicht mehr" }, { key: c, text: "erst" }]
+        answer: c
+        why: "später als jetzt, du hast noch Zeit → erst."
+      - q: "Beeil dich, es ist ___ acht Uhr und der Termin ist um acht!"
+        options: [{ key: a, text: "schon" }, { key: b, text: "erst" }, { key: c, text: "noch nicht" }]
+        answer: a
+        why: "später / knapp als gedacht → schon."
+      - q: "— Wohnt Familie Kern noch nebenan? — Nein, sie sind weggezogen, sie wohnen ___ hier."
+        options: [{ key: a, text: "noch nicht" }, { key: b, text: "schon" }, { key: c, text: "nicht mehr" }]
+        answer: c
+        why: "Gegenteil von noch (wohnen) → nicht mehr."
+      - q: "Ich kann noch nicht gut Deutsch, ich bin ___ zwei Wochen im Kurs."
+        options: [{ key: a, text: "erst" }, { key: b, text: "schon" }, { key: c, text: "nicht mehr" }]
+        answer: a
+        why: "nur so kurz → erst."
+      - q: "— Schläfst du ___? — Ja, weck mich bitte nicht."
+        options: [{ key: a, text: "schon" }, { key: b, text: "noch" }, { key: c, text: "nicht mehr" }]
+        answer: b
+        why: "Der Zustand dauert an → noch."
+      - q: "— Ist das Paket ___ angekommen? — Ja, heute Morgen."
+        options: [{ key: a, text: "schon" }, { key: b, text: "erst" }, { key: c, text: "noch nicht" }]
+        answer: a
+        why: "früher als erwartet / bereits passiert → schon."
+      - q: "Ich habe ___ Hunger, ich habe gerade gegessen."
+        options: [{ key: a, text: "noch" }, { key: b, text: "keinen … mehr" }, { key: c, text: "schon" }]
+        answer: b
+        why: "Gegenteil von noch Hunger → keinen Hunger mehr."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Ein Telefongespräch"
+    instructions: "Wähle für jede Lücke die richtige Lösung (a, b oder c)."
+    instructionsEn: "Choose the correct option for each gap (a, b, or c)."
+    items:
+      - q: "— Bist du ___ zu Hause? — Nein, ich bin noch im Büro."
+        options: [{ key: a, text: "erst" }, { key: b, text: "nicht mehr" }, { key: c, text: "schon" }]
+        answer: c
+        why: "Frage, ob es früher als gedacht passiert ist → schon."
+      - q: "Ich bleibe ___ eine Stunde, dann fahre ich nach Hause."
+        options: [{ key: a, text: "schon" }, { key: b, text: "noch" }, { key: c, text: "nicht mehr" }]
+        answer: b
+        why: "Der Zustand dauert noch an → noch."
+      - q: "— Hast du ___ gegessen? — Nein, ___."
+        options: [{ key: a, text: "erst … schon" }, { key: b, text: "noch … nicht mehr" }, { key: c, text: "schon … noch nicht" }]
+        answer: c
+        why: "schon in der Frage, noch nicht als verneinende Antwort."
+      - q: "Es ist ___ sechs Uhr, der Laden macht erst um neun auf."
+        options: [{ key: a, text: "erst" }, { key: b, text: "schon" }, { key: c, text: "nicht mehr" }]
+        answer: a
+        why: "früh, weniger als du dachtest → erst."
+      - q: "Meine Schwester raucht ___, sie hat vor einem Jahr aufgehört."
+        options: [{ key: a, text: "noch" }, { key: b, text: "schon" }, { key: c, text: "nicht mehr" }]
+        answer: c
+        why: "Gegenteil von noch → nicht mehr."
+      - q: "Wir kennen uns ___ lange, seit der Schule."
+        options: [{ key: a, text: "erst" }, { key: b, text: "schon" }, { key: c, text: "noch nicht" }]
+        answer: b
+        why: "eine lange Dauer betonen → schon."
+      - q: "— Ist der Kuchen ___ fertig? — Nein, er braucht noch 20 Minuten."
+        options: [{ key: a, text: "schon" }, { key: b, text: "nicht mehr" }, { key: c, text: "erst" }]
+        answer: a
+        why: "Frage nach dem früheren Zeitpunkt → schon; Antwort mit noch."
+      - q: "Ich habe ___ Geld, ich muss zum Automaten."
+        options: [{ key: a, text: "noch" }, { key: b, text: "kein … mehr" }, { key: c, text: "schon" }]
+        answer: b
+        why: "Das Geld ist zu Ende → kein Geld mehr."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Umzug (Wortbank)"
+    instructions: "Fülle die 10 Lücken. Drei Wörter im Kasten bleiben übrig."
+    instructionsEn: "Fill the 10 gaps. Three words in the box are left over."
+    text: |
+      Wir ziehen um. Die halbe Wohnung ist {1} in Kartons, aber das
+      Schlafzimmer ist {2} nicht gepackt. Der Transporter kommt {3} um
+      elf, wir haben also {4} zwei Stunden Zeit. Strom haben wir {5},
+      die Firma hat ihn abgestellt. In der alten Küche steht {6} der
+      alte Herd — den nimmt der Nachmieter. Ich wohne {7} zehn Jahre
+      hier, das ist eine lange Zeit. Kaffee kann ich {8} kochen, die
+      Maschine ist eingepackt. Die Nachbarn sind {9} wach, es ist
+      Samstagmorgen. Der Hausmeister kommt {10} um zehn, so lange
+      bleibt der Schlüssel bei mir.
+    bank: ["schon", "noch", "erst", "noch", "nicht mehr", "noch", "schon", "nicht mehr", "noch nicht", "erst", "kein", "nicht", "schon"]
+    answers:
+      "1": "schon"
+      "2": "noch"
+      "3": "erst"
+      "4": "noch"
+      "5": "nicht mehr"
+      "6": "noch"
+      "7": "schon"
+      "8": "nicht mehr"
+      "9": "noch nicht"
+      "10": "erst"
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: matching
+    title: "Wiederholung: Gegenteile"
+    instructions: "Ordne jedem Satz den Satz mit der gegenteiligen Bedeutung zu."
+    instructionsEn: "Match each sentence to the one with the opposite meaning."
+    left:
+      - { key: "1", text: "Der Zug ist schon abgefahren." }
+      - { key: "2", text: "Ich habe noch Hunger." }
+      - { key: "3", text: "Sie ist schon 18." }
+      - { key: "4", text: "Er wohnt noch bei den Eltern." }
+    right:
+      - { key: "a", text: "Ich habe keinen Hunger mehr." }
+      - { key: "b", text: "Der Zug ist noch nicht abgefahren." }
+      - { key: "c", text: "Er wohnt nicht mehr bei den Eltern." }
+      - { key: "d", text: "Sie ist erst 18." }
+    answers:
+      "1": "b"
+      "2": "a"
+      "3": "d"
+      "4": "c"
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Wähle die richtige Lösung (a, b oder c). Das ist dein Abschlusscheck für dieses Set."
+    instructionsEn: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "— Ist Herr Klein ___ im Haus? — Nein, er ist schon nach Hause gegangen."
+        options: [{ key: a, text: "schon" }, { key: b, text: "erst" }, { key: c, text: "noch" }]
+        answer: c
+        why: "Frage nach dem andauernden Zustand → noch."
+      - q: "Ich bin ___ seit gestern hier, ich kenne die Stadt noch gar nicht."
+        options: [{ key: a, text: "erst" }, { key: b, text: "schon" }, { key: c, text: "nicht mehr" }]
+        answer: a
+        why: "nur so kurz → erst."
+      - q: "— Hast du die Rechnung ___ bezahlt? — Ja, gestern."
+        options: [{ key: a, text: "noch nicht" }, { key: b, text: "erst" }, { key: c, text: "schon" }]
+        answer: c
+        why: "bereits erledigt → schon."
+      - q: "Früher hatte ich einen Hund, aber jetzt habe ich ___ Tier ___."
+        options: [{ key: a, text: "kein … mehr" }, { key: b, text: "noch … nicht" }, { key: c, text: "schon … nicht" }]
+        answer: a
+        why: "Gegenteil von noch ein Tier → kein Tier mehr."
+      - q: "Trödel nicht, es ist ___ Viertel vor neun!"
+        options: [{ key: a, text: "erst" }, { key: b, text: "schon" }, { key: c, text: "noch nicht" }]
+        answer: b
+        why: "später als gedacht → schon."
+      - q: "— Bist du fertig mit dem Test? — ___, ich brauche noch fünf Minuten."
+        options: [{ key: a, text: "Noch nicht" }, { key: b, text: "Schon" }, { key: c, text: "Nicht mehr" }]
+        answer: a
+        why: "verneinende Antwort auf schon → Noch nicht."
+    notes: "5–6 von 6 richtig und alle A/B/C-Übungen sauber gelöst? Merke die Paare: schon ↔ noch nicht, noch ↔ nicht mehr. erst = später / nur so wenig. Für die feineren Bedeutungen (erst wenn, gerade erst, erst recht) mach weiter mit dem B1-Set."

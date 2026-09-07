@@ -1,0 +1,278 @@
+lesson: "EX/28-irgend-a2"
+title: "irgendwo, irgendwann, irgendwie, irgendein … — A2"
+topic: "irgend-"
+level: A2
+intro: >
+  Mit irgend- sagt man, dass etwas unbestimmt ist — man weiß nicht
+  genau wo, wann, wie, wer oder welche. irgendwo = an einem Ort, den
+  ich nicht kenne (Ich habe den Schlüssel irgendwo verloren.).
+  irgendwann = zu einem unbestimmten Zeitpunkt. irgendwie = auf eine
+  Art, die ich nicht erklären kann. irgendwas / irgendetwas = eine
+  Sache. irgendwer / irgendjemand = eine Person. irgendein- steht vor
+  einem Nomen und wird wie ein dekliniert (irgendein Buch, irgendeine
+  Frage, irgendeinen Grund). Blocks: A Basistraining → B Vertiefung →
+  C Sprachbausteine → D Wiederholung. Answers in solutions.md.
+exercises:
+
+  # ── Block A — Basistraining ───────────────────────────────────────────────
+
+  - id: A1
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "Welches irgend-Wort?"
+    instructions: "Ergänze irgendwo, irgendwann, irgendwie, irgendwas oder irgendwer."
+    instructionsEn: "Fill in irgendwo, irgendwann, irgendwie, irgendwas, or irgendwer."
+    text: |
+      1. Ich habe meine Brille {1} liegen lassen, aber ich weiß nicht wo.
+      2. Wir sollten uns {2} mal wieder treffen.
+      3. Hast du {3} gehört? Ich glaube, da war ein Geräusch.
+      4. Kann mir bitte {4} helfen, den Tisch zu tragen?
+      5. Der Drucker geht nicht, aber {5} müssen wir das schaffen.
+      6. Deine Jacke liegt bestimmt noch {6} in der Wohnung.
+    answers:
+      "1": "irgendwo"
+      "2": "irgendwann"
+      "3": "irgendwas"
+      "4": "irgendwer"
+      "5": "irgendwie"
+      "6": "irgendwo"
+    alts:
+      "3":
+        - { word: "irgendetwas" }
+
+  - id: A2
+    block: A
+    type: matching
+    title: "Frage und Antwort"
+    instructions: "Ordne jeder Frage die passende Antwort zu."
+    instructionsEn: "Match each question to the fitting answer."
+    left:
+      - { key: "1", text: "Wann fahren wir in Urlaub?" }
+      - { key: "2", text: "Wo ist die Fernbedienung?" }
+      - { key: "3", text: "Wer hat angerufen?" }
+      - { key: "4", text: "Wie kommen wir jetzt nach Hause?" }
+    right:
+      - { key: "a", text: "Keine Ahnung, irgendwo unter den Kissen." }
+      - { key: "b", text: "Irgendwann im Sommer, das steht noch nicht fest." }
+      - { key: "c", text: "Irgendwie wird es schon klappen, zur Not zu Fuß." }
+      - { key: "d", text: "Irgendjemand von der Arbeit, die Nummer kannte ich nicht." }
+    answers:
+      "1": "b"
+      "2": "a"
+      "3": "d"
+      "4": "c"
+
+  - id: A3
+    block: A
+    type: gap-text
+    listLayout: true
+    title: "irgendein, irgendeine oder irgendeinen?"
+    instructions: "Ergänze die richtige Form von irgendein- (wie der unbestimmte Artikel)."
+    instructionsEn: "Fill in the correct form of irgendein- (like the indefinite article)."
+    text: |
+      1. Gib mir bitte {1} Stift, egal welchen.
+      2. Sie hat {2} Ausrede erfunden und ist gegangen.
+      3. Ruf mich an, wenn du {3} Problem hast.
+      4. Er sucht {4} Grund, um nicht mitkommen zu müssen.
+      5. Hast du {5} Idee, wo wir parken können?
+      6. Wir treffen uns an {6} Ecke und gehen dann zusammen.
+    answers:
+      "1": "irgendeinen"
+      "2": "irgendeine"
+      "3": "irgendein"
+      "4": "irgendeinen"
+      "5": "irgendeine"
+      "6": "irgendeiner"
+
+  # ── Block B — Vertiefung ──────────────────────────────────────────────────
+
+  - id: B1
+    block: B
+    type: gap-bank
+    title: "Lückentext: Wochenendpläne"
+    instructions: "Fülle die 8 Lücken mit den Wörtern aus dem Kasten. Zwei Wörter bleiben übrig."
+    instructionsEn: "Fill the 8 gaps with the words from the box. Two words are left over."
+    text: |
+      Am Wochenende möchte ich {1} rausfahren, egal wohin. Es muss doch
+      {2} in der Nähe einen schönen See geben. Mir hat {3} von einem
+      Badesee erzählt, aber ich weiß nicht mehr, wer. Wir sollten {4}
+      früh losfahren. Passt es dir {5} am Sonntag? Am besten {6} vor dem
+      Mittagessen. Ich nehme {7} zu essen mit. Und bei schlechtem Wetter
+      machen wir eben {8} anderes.
+    bank: ["irgendwohin", "irgendwo", "irgendwer", "irgendwann", "irgendwann", "irgendwann", "irgendwas", "irgendwas", "vielleicht", "irgendwie"]
+    answers:
+      "1": "irgendwohin"
+      "2": "irgendwo"
+      "3": "irgendwer"
+      "4": "irgendwann"
+      "5": "irgendwann"
+      "6": "irgendwann"
+      "7": "irgendwas"
+      "8": "irgendwas"
+
+  - id: B2
+    block: B
+    type: single-choice
+    title: "Welches irgend-Wort passt?"
+    instructions: "Wähle die richtige Lösung (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
+    items:
+      - q: "Ich kann meinen Ausweis nicht finden. Er muss ___ zu Hause sein."
+        options: [{ key: a, text: "irgendwann" }, { key: b, text: "irgendwo" }, { key: c, text: "irgendwie" }]
+        answer: b
+        why: "unbekannter Ort → irgendwo."
+      - q: "Wir müssen ___ eine Lösung finden, so kann es nicht weitergehen."
+        options: [{ key: a, text: "irgendwo" }, { key: b, text: "irgendwer" }, { key: c, text: "irgendwie" }]
+        answer: c
+        why: "auf eine (noch unklare) Art → irgendwie."
+      - q: "Ruf mich ___ nächste Woche an, ganz egal an welchem Tag."
+        options: [{ key: a, text: "irgendwann" }, { key: b, text: "irgendwo" }, { key: c, text: "irgendwas" }]
+        answer: a
+        why: "unbestimmter Zeitpunkt → irgendwann."
+      - q: "___ hat meinen Platz genommen, während ich weg war."
+        options: [{ key: a, text: "Irgendwie" }, { key: b, text: "Irgendwo" }, { key: c, text: "Irgendjemand" }]
+        answer: c
+        why: "eine unbekannte Person → irgendjemand (auch: irgendwer)."
+      - q: "Möchtest du noch ___ trinken?"
+        options: [{ key: a, text: "irgendwas" }, { key: b, text: "irgendwer" }, { key: c, text: "irgendwann" }]
+        answer: a
+        why: "eine unbestimmte Sache → irgendwas."
+      - q: "Nimm einfach ___ Teller aus dem Schrank, sie sind alle gleich."
+        options: [{ key: a, text: "irgendeine" }, { key: b, text: "irgendeinen" }, { key: c, text: "irgendein" }]
+        answer: b
+        why: "der Teller, Akkusativ → irgendeinen."
+      - q: "Hast du ___ Idee, warum der Bus nicht kommt?"
+        options: [{ key: a, text: "irgendeine" }, { key: b, text: "irgendein" }, { key: c, text: "irgendeinen" }]
+        answer: a
+        why: "die Idee, Akkusativ → irgendeine."
+      - q: "Das Buch liegt ___ im Regal, ich habe keine Zeit zu suchen."
+        options: [{ key: a, text: "irgendwohin" }, { key: b, text: "irgendwo" }, { key: c, text: "irgendwie" }]
+        answer: b
+        why: "Ort (wo?), keine Bewegung → irgendwo."
+
+  # ── Block C — Sprachbausteine ─────────────────────────────────────────────
+
+  - id: C1
+    block: C
+    type: single-choice
+    title: "Sprachbausteine Teil 1 — Eine Nachricht an eine Freundin"
+    instructions: "Wähle für jede Lücke die richtige Lösung (a, b oder c)."
+    instructionsEn: "Choose the correct option for each gap (a, b, or c)."
+    items:
+      - q: "Hey, ich habe deinen Schal bei mir gefunden — er lag ___ unter dem Sofa."
+        options: [{ key: a, text: "irgendwann" }, { key: b, text: "irgendwie" }, { key: c, text: "irgendwo" }]
+        answer: c
+        why: "Ort → irgendwo."
+      - q: "Können wir uns ___ diese Woche treffen? Mir ist der Tag egal."
+        options: [{ key: a, text: "irgendwo" }, { key: b, text: "irgendwann" }, { key: c, text: "irgendwas" }]
+        answer: b
+        why: "unbestimmter Zeitpunkt → irgendwann."
+      - q: "Sollen wir ___ essen gehen oder lieber kochen?"
+        options: [{ key: a, text: "irgendwer" }, { key: b, text: "irgendwie" }, { key: c, text: "irgendwohin" }]
+        answer: c
+        why: "Bewegung zu einem Ort (wohin?) → irgendwohin."
+      - q: "Ich habe ___ gehört, dass das Lokal an der Ecke gut sein soll."
+        options: [{ key: a, text: "irgendwo" }, { key: b, text: "irgendwohin" }, { key: c, text: "irgendwann" }]
+        answer: a
+        why: "irgendwo gehört = an irgendeiner Stelle / von irgendjemandem."
+      - q: "Bring einfach ___ mit — Wein, Saft, egal."
+        options: [{ key: a, text: "irgendwer" }, { key: b, text: "irgendwo" }, { key: c, text: "irgendwas" }]
+        answer: c
+        why: "eine unbestimmte Sache → irgendwas."
+      - q: "Falls du ___ Frage hast, schreib mir einfach."
+        options: [{ key: a, text: "irgendein" }, { key: b, text: "irgendeine" }, { key: c, text: "irgendeinen" }]
+        answer: b
+        why: "die Frage, Akkusativ → irgendeine."
+      - q: "___ muss ja den Tisch reserviert haben — warst du das?"
+        options: [{ key: a, text: "Irgendwer" }, { key: b, text: "Irgendwo" }, { key: c, text: "Irgendwie" }]
+        answer: a
+        why: "eine unbekannte Person → irgendwer."
+      - q: "Wir finden schon ___ einen Parkplatz, keine Sorge."
+        options: [{ key: a, text: "irgendwann" }, { key: b, text: "irgendwo" }, { key: c, text: "irgendwer" }]
+        answer: b
+        why: "Ort → irgendwo (einen Parkplatz)."
+
+  - id: C2
+    block: C
+    type: gap-bank
+    title: "Sprachbausteine Teil 2 — Ein verlorenes Handy (Wortbank)"
+    instructions: "Fülle die 10 Lücken. Drei Wörter im Kasten bleiben übrig."
+    instructionsEn: "Fill the 10 gaps. Three words in the box are left over."
+    text: |
+      Gestern habe ich mein Handy verloren. Ich muss es {1} in der Stadt
+      liegen gelassen haben. {2} zwischen dem Café und der Bushaltestelle
+      ist es weg. {3} muss es gefunden haben, denn heute klingelt es
+      nicht mehr durch. Ich hoffe, {4} bringt es zur Polizei. {5} habe
+      ich noch die alte Nummer meiner Schwester im Kopf, also konnte ich
+      sie anrufen. Wir suchen jetzt {6} nach einer Lösung. Vielleicht
+      hilft {7} App zum Orten. Ich brauche {8} ein neues Handy, aber
+      erst muss ich sparen. {9} ärgere ich mich, dass ich nicht besser
+      aufgepasst habe. {10} finden wir es ja doch noch.
+    bank: ["irgendwo", "Irgendwo", "Irgendwer", "irgendjemand", "Zum Glück", "irgendwie", "irgendeine", "irgendwann", "Irgendwie", "Vielleicht", "irgendwas", "irgendwohin", "irgendwer"]
+    answers:
+      "1": "irgendwo"
+      "2": "Irgendwo"
+      "3": "Irgendwer"
+      "4": "irgendjemand"
+      "5": "Zum Glück"
+      "6": "irgendwie"
+      "7": "irgendeine"
+      "8": "irgendwann"
+      "9": "Irgendwie"
+      "10": "Vielleicht"
+
+  # ── Block D — Wiederholung & Selbsttest ───────────────────────────────────
+
+  - id: D1
+    block: D
+    type: order
+    title: "Wiederholung: Satzbau"
+    instructions: "Bring die Kacheln in die richtige Reihenfolge."
+    instructionsEn: "Put the tiles in the correct order."
+    items:
+      - tiles: ["Ich", "habe", "den Zettel", "irgendwo", "in die Tasche gesteckt."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Ich habe den Zettel irgendwo in die Tasche gesteckt."
+      - tiles: ["Wir", "sollten", "irgendwann", "mal", "zusammen kochen."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Wir sollten irgendwann mal zusammen kochen."
+      - tiles: ["Hat", "irgendjemand", "meinen Regenschirm", "gesehen", "?"]
+        answer: [0, 1, 2, 3, 4]
+        note: "Hat irgendjemand meinen Regenschirm gesehen?"
+      - tiles: ["Nimm", "dir", "irgendeinen", "Apfel", "aus der Schale."]
+        answer: [0, 1, 2, 3, 4]
+        note: "Nimm dir irgendeinen Apfel aus der Schale."
+
+  - id: D2
+    block: D
+    type: single-choice
+    title: "Selbsttest"
+    instructions: "Wähle die richtige Lösung (a, b oder c). Das ist dein Abschlusscheck für dieses Set."
+    instructionsEn: "Choose the correct answer (a, b, or c). This is your final check for this set."
+    items:
+      - q: "Der Schlüssel ist ___ in der Wohnung, ich finde ihn nur nicht."
+        options: [{ key: a, text: "irgendwann" }, { key: b, text: "irgendwie" }, { key: c, text: "irgendwo" }]
+        answer: c
+        why: "unbekannter Ort → irgendwo."
+      - q: "Wir müssen das Problem ___ lösen, sonst verlieren wir den Kunden."
+        options: [{ key: a, text: "irgendwie" }, { key: b, text: "irgendwo" }, { key: c, text: "irgendwer" }]
+        answer: a
+        why: "auf eine noch unklare Art → irgendwie."
+      - q: "___ hat die Tür offen gelassen."
+        options: [{ key: a, text: "Irgendwo" }, { key: b, text: "Irgendwann" }, { key: c, text: "Irgendwer" }]
+        answer: c
+        why: "unbekannte Person → irgendwer."
+      - q: "Kauf bitte ___ Brot, die Sorte ist mir egal."
+        options: [{ key: a, text: "irgendein" }, { key: b, text: "irgendeine" }, { key: c, text: "irgendeinen" }]
+        answer: a
+        why: "das Brot, Akkusativ → irgendein."
+      - q: "Lass uns ___ hinfahren, wo es ruhig ist."
+        options: [{ key: a, text: "irgendwo" }, { key: b, text: "irgendwohin" }, { key: c, text: "irgendwann" }]
+        answer: b
+        why: "Bewegung, wohin? → irgendwohin."
+      - q: "Möchtest du ___ aus der Bäckerei?"
+        options: [{ key: a, text: "irgendwas" }, { key: b, text: "irgendwer" }, { key: c, text: "irgendwie" }]
+        answer: a
+        why: "unbestimmte Sache → irgendwas."
+    notes: "5–6 von 6 richtig und alle A/B/C-Übungen sauber gelöst? Merke: irgend- + Fragewort (wo/wann/wie/wer/was) = unbestimmt; irgendein- + Nomen wird wie ein dekliniert. Für irgendwelche (Plural), irgendwoher und nicht irgendein geht es im B1-Set weiter."

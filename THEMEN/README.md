@@ -150,6 +150,31 @@ je … desto and friends". Same A/B/C/D block workflow, no lesson.
   Perfekt *ist gebaut worden* — **worden**, nicht *geworden*).
   Cross-links THEMEN 13 (Passiv) and THEMEN 18 (Futur).
 
+## Themen 25–28 (vierter Batch — Alltagswörter, die man leicht verwechselt)
+
+Everyday A2/B1 function words with several distinct jobs — same A/B/C/D
+block workflow, no lesson.
+
+- **25 — wenn / als / wann** (A2) — *als* = ein einmaliges Ereignis in
+  der Vergangenheit; *wenn* = wiederholt / Bedingung / Zukunft; *wann* =
+  (indirektes) Fragewort. Fehler: *Wenn ich klein war* → *Als …*;
+  *Weißt du, wenn der Zug kommt?* → *wann*.
+- **26 — schon / noch / erst** (A2 + B1) — A2: die Gegensatzpaare
+  *schon ↔ noch nicht*, *noch ↔ nicht mehr / kein … mehr*, dazu *erst*
+  (später/nur so wenig). B1: die feineren Fälle — *erst wenn / erst als*,
+  *gerade erst*, *erst mal*, *erst recht*, *schon mal / schon immer*, und
+  *erst* vs. *nur* (Zeit/Fortschritt gegen reine Menge).
+- **27 — so … dass / solch-** (A2 + B1) — A2: *so* + Adjektiv + `, dass`
+  (Folge); *so ein-* + Nomen (wie der unbestimmte Artikel dekliniert).
+  B1: *solch-* dekliniert (*solch ein* / *ein solcher*), *sodass* (reine
+  Folge, kein *so* im Hauptsatz) vs. *so … dass*, und *zu … um … zu* ≈
+  *so … dass … nicht*.
+- **28 — irgend-** (A2 + B1) — A2: *irgendwo / irgendwann / irgendwie /
+  irgendwas / irgendwer* + *irgendein-* (Singular, wie *ein-* dekliniert).
+  B1: *irgendwelche* (Plural / nicht zählbar), die Reihe
+  *irgendwo / irgendwohin / irgendwoher*, und *nicht irgendein* = etwas
+  Besonderes.
+
 ## Weitere Themen (Ideen für später)
 
 Backlog of „one word / one small structure, several jobs" sets that would
@@ -161,12 +186,6 @@ each earn a standalone drill (none exist yet — all genuinely open):
 - **da(r)- / wo(r)-Komposita** (Pronominaladverbien: *darauf, worüber,
   damit, wovon*) — heute nur eingebettet in THEMEN 11
   (Wechselpräpositionen). B1.
-- **erst / schon** + **noch / nicht mehr** — temporale Fokuspartikeln,
-  der Klassiker *erst/schon* und *noch/nicht mehr*. A2/B1.
-- **wenn / als / wann** — temporal, die klassische A2-Falle. A2.
-- **irgend-** Komposita (*irgendwo, irgendwann, irgendein, irgendwie*).
-  A2/B1.
-- **so … dass / solch- / so ein** — Intensität + Folge. A2/B1.
 - **brauchen + zu / nicht brauchen zu** — Halbmodalverb. B1.
 
 A new set follows the same `THEMEN/<NN>-<topic-slug>-<level>/` layout and
