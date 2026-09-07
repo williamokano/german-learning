@@ -85,6 +85,13 @@ same way it mirrors `A1`…`C1` — no further wiring needed.
 
 ## Sets built so far
 
+One set per CEFR level A1–C1, three passages each, three comprehension
+questions per passage.
+
+- **04 — Kurze Ansagen** (A1) — three very short, slow monologues (a
+  friend's voicemail changing a meeting time, a radio weather report, a
+  supermarket closing announcement). A1 vocabulary only; the questions ask
+  for one concrete fact each (time, place, what to bring).
 - **01 — Anrufbeantworter** (A2) — three short voicemail messages (a
   colleague introducing herself, a doctor's-office reminder, a delivery
   notice), each with 3 comprehension questions.
@@ -96,9 +103,16 @@ same way it mirrors `A1`…`C1` — no further wiring needed.
   update), each with 3 comprehension questions, denser vocabulary and
   Nominalstil-heavy phrasing matching the B2 grammar the curriculum already
   teaches.
+- **05 — Radiobeiträge** (C1) — three longer radio-style passages (a
+  feuilleton commentary on the "digital slow-down" trend, a pointed debate
+  contribution on car-free city centres, a pop-science segment on why time
+  seems to speed up with age). The questions target the speaker's stance,
+  what is conceded, and what is implied — not just surface facts.
 
 ## Weitere Themen (Ideen für später)
 
-Nothing queued right now — suggest a new listening set here when one comes
-up; it'll follow the same `HOEREN/<NN>-<topic-slug>-<level>/` layout as
-everything above.
+Nothing queued right now. A1–C1 each have one set; a natural next step is a
+second set per level (a different situation type — e.g. A2 *Wegbeschreibung*,
+B1 *Telefonansage einer Behörde*, B2 *Interview-Ausschnitt*, C1
+*Vortrag mit Publikumsfragen*). Follows the same
+`HOEREN/<NN>-<topic-slug>-<level>/` layout as everything above.
