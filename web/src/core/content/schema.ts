@@ -194,21 +194,22 @@ function extractGapKeys(text: string): Set<string> {
   return keys;
 }
 
-// `lesson` accepts three shapes: a real curriculum slot ("A1/04"); a standalone
-// grammar-drill set under THEMEN/ ("EX/<dir-slug>"); or a situation set under
-// SITUATIONEN/ ("SIT/<dir-slug>"). Neither standalone kind is tied to a lesson —
-// see THEMEN/README.md and SITUATIONEN/README.md. Their index pages derive
-// {level} from `data.level` below.
+// `lesson` accepts four shapes: a real curriculum slot ("A1/04"); a standalone
+// grammar-drill set under THEMEN/ ("EX/<dir-slug>"); a situation set under
+// SITUATIONEN/ ("SIT/<dir-slug>"); or a listening-comprehension set under
+// HOEREN/ ("HV/<dir-slug>", Hörverstehen). None of the standalone kinds is tied
+// to a lesson — see THEMEN/README.md, SITUATIONEN/README.md, HOEREN/README.md.
+// Their index pages derive {level} from `data.level` below.
 //
 // THEMEN/ keeps the "EX/" prefix its directory used to imply: these ids are the
 // localStorage keys for progress and Fehlerbuch entries, so renaming them would
 // silently orphan everything a learner has already done.
 export const ExerciseSet = z.object({
-  lesson: z.string().regex(/^(?:[A-C][12]\/\d{2}|(?:EX|SIT)\/[a-z0-9][a-z0-9-]*)$/),
+  lesson: z.string().regex(/^(?:[A-C][12]\/\d{2}|(?:EX|SIT|HV)\/[a-z0-9][a-z0-9-]*)$/),
   title: z.string(),
   intro: z.string().optional(),
-  // Standalone-only metadata (THEMEN/ and SITUATIONEN/ sets). `topic` groups a
-  // theme's per-level variants on the index page (e.g. all "Personalpronomen" sets
+  // Standalone-only metadata (THEMEN/, SITUATIONEN/, HOEREN/ sets). `topic` groups
+  // a theme's per-level variants on the index page (e.g. all "Personalpronomen" sets
   // share one topic string); `level` is its CEFR level; `category` is the shelf a
   // situation sits on ("Behörden", "Einkaufen", …), used only by /situationen/.
   // All three unused/omitted for curriculum lessons.

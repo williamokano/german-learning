@@ -1,0 +1,129 @@
+lesson: "HV/02-durchsagen-b1"
+title: "Durchsagen — B1"
+topic: "Durchsagen"
+level: B1
+intro: >
+  Drei öffentliche Durchsagen — Bahnhof, Supermarkt, Verkehrsfunk. Hör dir
+  jede Durchsage an und beantworte die Fragen dazu.
+exercises:
+  - id: H1
+    block: H
+    type: single-choice
+    title: "Durchsage 1 — Bahnhof: Gleisänderung"
+    instructions: "Hör dir die Durchsage an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer."
+    audio: transcript_ansage1.mp3
+    transcript: >
+      Achtung, eine wichtige Durchsage für Reisende nach Frankfurt: Der
+      Intercity IC 2047 nach Frankfurt fährt heute nicht wie geplant von
+      Gleis 7, sondern von Gleis 12. Der Zug hat außerdem etwa fünfzehn
+      Minuten Verspätung wegen einer Baustelle auf der Strecke. Reisende mit
+      Anschluss in Köln werden gebeten, sich am Servicepoint über alternative
+      Verbindungen zu informieren. Wir entschuldigen uns für die
+      Unannehmlichkeiten.
+    items:
+      - q: "Was hat sich beim IC 2047 geändert?"
+        options:
+          - { key: a, text: "das Gleis" }
+          - { key: b, text: "das Ziel" }
+          - { key: c, text: "der Preis" }
+          - { key: d, text: "der Zugtyp" }
+        answer: a
+        why: "„…fährt heute nicht wie geplant von Gleis 7, sondern von Gleis 12.“"
+      - q: "Warum hat der Zug Verspätung?"
+        options:
+          - { key: a, text: "wegen des Wetters" }
+          - { key: b, text: "wegen einer Baustelle" }
+          - { key: c, text: "wegen eines technischen Defekts" }
+          - { key: d, text: "wegen zu vieler Fahrgäste" }
+        answer: b
+        why: "„…etwa fünfzehn Minuten Verspätung wegen einer Baustelle auf der Strecke.“"
+      - q: "Was sollen Reisende mit Anschluss in Köln tun?"
+        options:
+          - { key: a, text: "den Zug wechseln" }
+          - { key: b, text: "zu Hause bleiben" }
+          - { key: c, text: "am Servicepoint nachfragen" }
+          - { key: d, text: "online buchen" }
+        answer: c
+        why: "„…werden gebeten, sich am Servicepoint über alternative Verbindungen zu informieren.“"
+
+  - id: H2
+    block: H
+    type: single-choice
+    title: "Durchsage 2 — Supermarkt"
+    instructions: "Hör dir die Durchsage an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer."
+    audio: transcript_ansage2.mp3
+    transcript: >
+      Liebe Kundinnen und Kunden, wir möchten Sie auf unser Sonderangebot in
+      der Obst- und Gemüseabteilung hinweisen: Heute erhalten Sie beim Kauf
+      von zwei Kilogramm Äpfeln ein Kilogramm gratis dazu. Außerdem suchen
+      wir den Besitzer eines silbernen Autos mit dem Kennzeichen M-AB 123,
+      das im Parkverbot vor dem Haupteingang steht. Bitte kommen Sie
+      umgehend zur Information. Vielen Dank für Ihren Einkauf bei uns.
+    items:
+      - q: "Was ist das Sonderangebot?"
+        options:
+          - { key: a, text: "Rabatt auf Gemüse" }
+          - { key: b, text: "ein Kilo Äpfel gratis beim Kauf von zwei Kilo" }
+          - { key: c, text: "kostenlose Lieferung" }
+          - { key: d, text: "Rabatt auf Fleisch" }
+        answer: b
+        why: "„…beim Kauf von zwei Kilogramm Äpfeln ein Kilogramm gratis dazu.“"
+      - q: "Warum wird der Autobesitzer gesucht?"
+        options:
+          - { key: a, text: "er hat sein Auto verloren" }
+          - { key: b, text: "er hat etwas gekauft, aber nicht bezahlt" }
+          - { key: c, text: "sein Auto steht falsch geparkt" }
+          - { key: d, text: "sein Auto wurde beschädigt" }
+        answer: c
+        why: "„…das im Parkverbot vor dem Haupteingang steht.“"
+      - q: "Wohin soll der Autobesitzer gehen?"
+        options:
+          - { key: a, text: "zur Kasse" }
+          - { key: b, text: "zum Parkplatz" }
+          - { key: c, text: "zum Ausgang" }
+          - { key: d, text: "zur Information" }
+        answer: d
+        why: "„Bitte kommen Sie umgehend zur Information.“"
+
+  - id: H3
+    block: H
+    type: single-choice
+    title: "Durchsage 3 — Verkehrsfunk"
+    instructions: "Hör dir die Durchsage an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer."
+    audio: transcript_ansage3.mp3
+    transcript: >
+      Und hier die aktuellen Verkehrsmeldungen: Auf der A5 zwischen
+      Darmstadt und Frankfurt gibt es nach einem Unfall einen acht Kilometer
+      langen Stau. Die Polizei bittet, die Strecke weiträumig zu umfahren.
+      Auf der A3 Richtung Köln kommt es wegen Bauarbeiten zu Verzögerungen
+      von etwa zwanzig Minuten. Autofahrer in Richtung Innenstadt sollten
+      außerdem beachten, dass die Hauptstraße wegen eines Stadtfestes bis
+      Sonntag gesperrt ist.
+    items:
+      - q: "Warum gibt es Stau auf der A5?"
+        options:
+          - { key: a, text: "wegen eines Unfalls" }
+          - { key: b, text: "wegen eines Staus" }
+          - { key: c, text: "wegen des Wetters" }
+          - { key: d, text: "wegen einer Kontrolle" }
+        answer: a
+        why: "„…gibt es nach einem Unfall einen acht Kilometer langen Stau.“"
+      - q: "Wie lange dauert die Verzögerung auf der A3?"
+        options:
+          - { key: a, text: "etwa zehn Minuten" }
+          - { key: b, text: "etwa zwanzig Minuten" }
+          - { key: c, text: "etwa eine Stunde" }
+          - { key: d, text: "unbekannt" }
+        answer: b
+        why: "„…kommt es wegen Bauarbeiten zu Verzögerungen von etwa zwanzig Minuten.“"
+      - q: "Bis wann ist die Hauptstraße gesperrt?"
+        options:
+          - { key: a, text: "bis Freitag" }
+          - { key: b, text: "bis Samstag" }
+          - { key: c, text: "bis Sonntag" }
+          - { key: d, text: "für immer" }
+        answer: c
+        why: "„…die Hauptstraße wegen eines Stadtfestes bis Sonntag gesperrt ist.“"

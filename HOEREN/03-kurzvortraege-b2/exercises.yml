@@ -1,0 +1,142 @@
+lesson: "HV/03-kurzvortraege-b2"
+title: "Kurzvorträge — B2"
+topic: "Kurzvorträge"
+level: B2
+intro: >
+  Drei kurze Vorträge / Podcast-Ausschnitte — ein Meinungsbeitrag zum
+  Homeoffice, eine Produktbewertung, eine Ansprache zu neuen Arbeitszeiten.
+  Hör dir jeden Text an und beantworte die Fragen dazu.
+exercises:
+  - id: H1
+    block: H
+    type: single-choice
+    title: "Vortrag 1 — Homeoffice: Für und Wider"
+    instructions: "Hör dir den Vortrag an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the talk. Then choose the correct answer."
+    audio: transcript_ansage1.mp3
+    transcript: >
+      In den letzten Jahren hat sich die Einstellung zum Homeoffice
+      grundlegend verändert. Während viele Unternehmen früher skeptisch
+      waren, gilt flexibles Arbeiten heute für zahlreiche Beschäftigte als
+      Selbstverständlichkeit. Befürworter argumentieren, dass die
+      Vereinbarkeit von Beruf und Familie dadurch erheblich verbessert wird
+      und dass der Wegfall des täglichen Pendelns sowohl Zeit als auch
+      Umweltbelastung reduziert. Kritiker hingegen weisen darauf hin, dass
+      der persönliche Austausch im Team leidet und dass junge Mitarbeitende
+      im Homeoffice seltener von erfahrenen Kollegen lernen. Die meisten
+      Experten sind sich jedoch einig, dass eine Kombination aus Präsenz-
+      und Heimarbeit, das sogenannte hybride Modell, langfristig die
+      praktikabelste Lösung darstellt.
+    items:
+      - q: "Wie hat sich die Einstellung zum Homeoffice laut Text verändert?"
+        options:
+          - { key: a, text: "Flexibles Arbeiten wird heute meist akzeptiert." }
+          - { key: b, text: "Sie ist gleich geblieben." }
+          - { key: c, text: "Unternehmen sind heute skeptischer als früher." }
+          - { key: d, text: "Homeoffice wurde komplett abgeschafft." }
+        answer: a
+        why: "„…gilt flexibles Arbeiten heute für zahlreiche Beschäftigte als Selbstverständlichkeit.“"
+      - q: "Welchen Vorteil nennen die Befürworter?"
+        options:
+          - { key: a, text: "höhere Gehälter" }
+          - { key: b, text: "bessere Vereinbarkeit von Beruf und Familie" }
+          - { key: c, text: "mehr Überstunden" }
+          - { key: d, text: "weniger Verantwortung" }
+        answer: b
+        why: "„…dass die Vereinbarkeit von Beruf und Familie dadurch erheblich verbessert wird.“"
+      - q: "Was empfehlen die meisten Experten laut Text?"
+        options:
+          - { key: a, text: "nur Homeoffice" }
+          - { key: b, text: "nur Büroarbeit" }
+          - { key: c, text: "gar keine Regelung" }
+          - { key: d, text: "ein hybrides Modell" }
+        answer: d
+        why: "„…dass eine Kombination aus Präsenz- und Heimarbeit … langfristig die praktikabelste Lösung darstellt.“"
+
+  - id: H2
+    block: H
+    type: single-choice
+    title: "Vortrag 2 — Produktbewertung: Staubsauger-Roboter"
+    instructions: "Hör dir die Bewertung an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the review. Then choose the correct answer."
+    audio: transcript_ansage2.mp3
+    transcript: >
+      Ich habe den neuen Staubsauger-Roboter jetzt drei Monate lang
+      getestet und möchte meine Erfahrungen teilen. Positiv aufgefallen ist
+      mir vor allem die leise Betriebslautstärke, die den Einsatz auch
+      während eines Telefonats problemlos ermöglicht. Auch die
+      App-Steuerung funktioniert zuverlässig und erlaubt es, einzelne Räume
+      gezielt reinigen zu lassen. Weniger überzeugend fand ich hingegen den
+      Umgang mit Kabeln und Teppichfransen — hier bleibt das Gerät
+      gelegentlich hängen und muss manuell befreit werden. Trotz dieses
+      Mankos würde ich das Produkt insgesamt weiterempfehlen, insbesondere
+      Haushalten mit überwiegend glatten Böden.
+    items:
+      - q: "Was gefällt der Person besonders gut?"
+        options:
+          - { key: a, text: "der niedrige Preis" }
+          - { key: b, text: "die leise Betriebslautstärke" }
+          - { key: c, text: "das Design" }
+          - { key: d, text: "die Akkulaufzeit" }
+        answer: b
+        why: "„Positiv aufgefallen ist mir vor allem die leise Betriebslautstärke.“"
+      - q: "Welches Problem wird genannt?"
+        options:
+          - { key: a, text: "das Gerät ist zu langsam" }
+          - { key: b, text: "das Gerät ist zu laut" }
+          - { key: c, text: "das Gerät bleibt an Kabeln hängen" }
+          - { key: d, text: "die App funktioniert nicht" }
+        answer: c
+        why: "„…bleibt das Gerät gelegentlich hängen und muss manuell befreit werden.“"
+      - q: "Für wen wird das Gerät besonders empfohlen?"
+        options:
+          - { key: a, text: "für Haushalte mit Teppichböden" }
+          - { key: b, text: "für sehr große Wohnungen" }
+          - { key: c, text: "für Haustierbesitzer" }
+          - { key: d, text: "für Haushalte mit glatten Böden" }
+        answer: d
+        why: "„…würde ich das Produkt insgesamt weiterempfehlen, insbesondere Haushalten mit überwiegend glatten Böden.“"
+
+  - id: H3
+    block: H
+    type: single-choice
+    title: "Vortrag 3 — Neue Arbeitszeitregelung"
+    instructions: "Hör dir die Ansprache an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer."
+    audio: transcript_ansage3.mp3
+    transcript: >
+      Liebe Kolleginnen und Kollegen, ich möchte Sie kurz über eine
+      Änderung unserer Arbeitszeitregelung informieren. Ab dem ersten des
+      nächsten Monats gilt für alle Abteilungen die gleitende Arbeitszeit
+      zwischen sieben und neunzehn Uhr, wobei eine Kernarbeitszeit von zehn
+      bis fünfzehn Uhr eingehalten werden muss. Überstunden können künftig
+      auf einem Zeitkonto gesammelt und innerhalb von sechs Monaten als
+      zusätzliche freie Tage genommen werden. Diese Regelung wurde
+      gemeinsam mit dem Betriebsrat erarbeitet und soll die Vereinbarkeit
+      von Beruf und Privatleben weiter verbessern. Bei Fragen wenden Sie
+      sich bitte an die Personalabteilung.
+    items:
+      - q: "Was ändert sich ab dem nächsten Monat?"
+        options:
+          - { key: a, text: "das Gehalt" }
+          - { key: b, text: "die Arbeitszeitregelung" }
+          - { key: c, text: "der Standort" }
+          - { key: d, text: "die Urlaubstage" }
+        answer: b
+        why: "„…ich möchte Sie kurz über eine Änderung unserer Arbeitszeitregelung informieren.“"
+      - q: "Wie lange ist die Kernarbeitszeit?"
+        options:
+          - { key: a, text: "von sieben bis neunzehn Uhr" }
+          - { key: b, text: "von acht bis siebzehn Uhr" }
+          - { key: c, text: "von zehn bis fünfzehn Uhr" }
+          - { key: d, text: "es gibt keine Kernarbeitszeit" }
+        answer: c
+        why: "„…wobei eine Kernarbeitszeit von zehn bis fünfzehn Uhr eingehalten werden muss.“"
+      - q: "Was kann man mit Überstunden machen?"
+        options:
+          - { key: a, text: "sie verfallen nach einem Monat" }
+          - { key: b, text: "sie werden automatisch ausgezahlt" }
+          - { key: c, text: "sie werden nicht erfasst" }
+          - { key: d, text: "sie können als freie Tage genommen werden" }
+        answer: d
+        why: "„…innerhalb von sechs Monaten als zusätzliche freie Tage genommen werden.“"

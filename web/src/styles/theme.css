@@ -72,6 +72,7 @@
   --level-c1: #c026d3;
   --level-themen: #d97706;
   --level-situationen: #0f766e;
+  --level-hoeren: #e11d48;
 
   /* ---- typography ------------------------------------------------------ */
   --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
@@ -180,6 +181,7 @@
     --level-c1: #e879f9;
     --level-themen: #fbbf24;
     --level-situationen: #2dd4bf;
+    --level-hoeren: #fb7185;
 
     --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.4);
     --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.45), 0 1px 2px rgba(0, 0, 0, 0.3);
@@ -388,6 +390,7 @@ code {
 [data-level="c1"], [data-level="C1"] { --level-color: var(--level-c1); }
 [data-level="themen"], [data-level="THEMEN"] { --level-color: var(--level-themen); }
 [data-level="situationen"], [data-level="SITUATIONEN"] { --level-color: var(--level-situationen); }
+[data-level="hoeren"], [data-level="HOEREN"] { --level-color: var(--level-hoeren); }
 
 /* ============================================================================
    Shared page patterns — used by the simpler index/runner pages so they don't

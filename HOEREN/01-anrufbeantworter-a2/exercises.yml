@@ -1,0 +1,129 @@
+lesson: "HV/01-anrufbeantworter-a2"
+title: "Anrufbeantworter — A2"
+topic: "Anrufbeantworter"
+level: A2
+intro: >
+  Drei kurze Nachrichten auf einem Anrufbeantworter — eine Kollegin, eine
+  Arztpraxis, ein Lieferdienst. Hör dir jede Nachricht an und beantworte die
+  Fragen dazu.
+exercises:
+  - id: H1
+    block: H
+    type: single-choice
+    title: "Nachricht 1 — Terminverschiebung"
+    instructions: "Hör dir die Nachricht an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the message. Then choose the correct answer."
+    audio: transcript_ansage1.mp3
+    transcript: >
+      Hallo, hier ist Sabine Krüger von der Firma Meyer und Partner. Ich rufe
+      an, weil wir morgen einen Termin hatten, aber ich muss ihn leider
+      verschieben. Meine Tochter ist krank geworden, deshalb bin ich heute zu
+      Hause. Können wir den Termin auf Donnerstag um vierzehn Uhr verlegen?
+      Bitte rufen Sie mich zurück, wenn das für Sie passt. Meine Nummer ist
+      null-eins-fünf-zwei, drei-vier-fünf-sechs-sieben-acht. Vielen Dank und
+      einen schönen Tag noch!
+    items:
+      - q: "Warum ruft Sabine Krüger an?"
+        options:
+          - { key: a, text: "Sie hat den Termin vergessen." }
+          - { key: b, text: "Sie muss den Termin verschieben." }
+          - { key: c, text: "Sie hat eine neue Telefonnummer." }
+          - { key: d, text: "Sie sucht eine neue Firma." }
+        answer: b
+        why: "Sie sagt direkt: „ich muss ihn leider verschieben.“"
+      - q: "Warum ist Sabine Krüger heute zu Hause?"
+        options:
+          - { key: a, text: "Sie ist selbst krank." }
+          - { key: b, text: "Sie hat frei." }
+          - { key: c, text: "Ihre Tochter ist krank." }
+          - { key: d, text: "Es ist Feiertag." }
+        answer: c
+        why: "„Meine Tochter ist krank geworden, deshalb bin ich heute zu Hause.“"
+      - q: "Wann soll der neue Termin sein?"
+        options:
+          - { key: a, text: "Donnerstag um 14 Uhr" }
+          - { key: b, text: "Mittwoch um 14 Uhr" }
+          - { key: c, text: "Donnerstag um 4 Uhr" }
+          - { key: d, text: "Freitag um 14 Uhr" }
+        answer: a
+        why: "„Können wir den Termin auf Donnerstag um vierzehn Uhr verlegen?“"
+
+  - id: H2
+    block: H
+    type: single-choice
+    title: "Nachricht 2 — Terminerinnerung"
+    instructions: "Hör dir die Nachricht an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the message. Then choose the correct answer."
+    audio: transcript_ansage2.mp3
+    transcript: >
+      Guten Tag, hier ist die Arztpraxis Dr. Hoffmann. Wir möchten Sie an
+      Ihren Termin morgen um neun Uhr dreißig erinnern. Bitte bringen Sie
+      Ihre Versichertenkarte und die Überweisung mit. Wenn Sie den Termin
+      nicht wahrnehmen können, rufen Sie uns bitte mindestens einen Tag
+      vorher an, sonst müssen wir eine Gebühr berechnen. Unsere Praxis ist
+      bis achtzehn Uhr geöffnet. Auf Wiederhören!
+    items:
+      - q: "Was für ein Anruf ist das?"
+        options:
+          - { key: a, text: "eine Terminerinnerung" }
+          - { key: b, text: "eine Terminabsage" }
+          - { key: c, text: "eine Rechnung" }
+          - { key: d, text: "eine Einladung" }
+        answer: a
+        why: "Die Praxis erinnert an den Termin am nächsten Tag."
+      - q: "Was soll der Patient / die Patientin mitbringen?"
+        options:
+          - { key: a, text: "nur die Versichertenkarte" }
+          - { key: b, text: "die Versichertenkarte und die Überweisung" }
+          - { key: c, text: "Geld" }
+          - { key: d, text: "nichts" }
+        answer: b
+        why: "„Bitte bringen Sie Ihre Versichertenkarte und die Überweisung mit.“"
+      - q: "Was passiert, wenn man nicht rechtzeitig absagt?"
+        options:
+          - { key: a, text: "nichts" }
+          - { key: b, text: "man bekommt keinen neuen Termin" }
+          - { key: c, text: "man muss bezahlen" }
+          - { key: d, text: "man muss die Praxis wechseln" }
+        answer: c
+        why: "„…sonst müssen wir eine Gebühr berechnen.“"
+
+  - id: H3
+    block: H
+    type: single-choice
+    title: "Nachricht 3 — Paketbenachrichtigung"
+    instructions: "Hör dir die Nachricht an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the message. Then choose the correct answer."
+    audio: transcript_ansage3.mp3
+    transcript: >
+      Hallo, hier ist der Kundenservice von SchnellPost. Wir wollten heute
+      ein Paket bei Ihnen zustellen, aber Sie waren leider nicht zu Hause.
+      Das Paket liegt jetzt bei Ihrem Nachbarn, Herrn Bauer, in der dritten
+      Etage. Sie können es dort jederzeit abholen. Falls das nicht möglich
+      ist, liegt das Paket ab morgen in der Postfiliale in der Hauptstraße.
+      Bitte bringen Sie einen Ausweis mit. Vielen Dank für Ihr Verständnis!
+    items:
+      - q: "Wo ist das Paket jetzt?"
+        options:
+          - { key: a, text: "noch beim Kundenservice" }
+          - { key: b, text: "bei einem Nachbarn" }
+          - { key: c, text: "in der Postfiliale" }
+          - { key: d, text: "wieder im Lager" }
+        answer: b
+        why: "„Das Paket liegt jetzt bei Ihrem Nachbarn, Herrn Bauer.“"
+      - q: "In welcher Etage wohnt der Nachbar?"
+        options:
+          - { key: a, text: "im Erdgeschoss" }
+          - { key: b, text: "in der zweiten Etage" }
+          - { key: c, text: "in der dritten Etage" }
+          - { key: d, text: "im Keller" }
+        answer: c
+        why: "„…bei Ihrem Nachbarn, Herrn Bauer, in der dritten Etage.“"
+      - q: "Was braucht man in der Postfiliale?"
+        options:
+          - { key: a, text: "nichts" }
+          - { key: b, text: "Geld" }
+          - { key: c, text: "einen Termin" }
+          - { key: d, text: "einen Ausweis" }
+        answer: d
+        why: "„Bitte bringen Sie einen Ausweis mit.“"
