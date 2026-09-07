@@ -1,0 +1,114 @@
+lesson: "HV/04-kurze-ansagen-a1"
+title: "Kurze Ansagen — A1"
+topic: "Kurze Ansagen"
+level: A1
+intro: >
+  Drei ganz kurze Ansagen — eine Nachricht von einer Freundin, das
+  Wetter im Radio und eine Durchsage im Supermarkt. Hör dir jede Ansage
+  an und beantworte die Fragen dazu. Alles wird langsam und deutlich
+  gesprochen.
+exercises:
+  - id: H1
+    block: H
+    type: single-choice
+    title: "Ansage 1 — Nachricht von Lena"
+    instructions: "Hör dir die Nachricht an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the message. Then choose the correct answer."
+    audio: transcript_ansage1.mp3
+    transcript: >
+      Hallo, hier ist Lena. Ich komme heute Abend etwas später, so um
+      acht Uhr. Können wir uns direkt im Restaurant treffen? Das
+      Restaurant heißt Bella Italia und ist in der Bahnhofstraße. Bring
+      bitte Geld mit. Das Restaurant nimmt keine Karte. Bis später!
+    items:
+      - q: "Wann kommt Lena?"
+        options:
+          - { key: a, text: "um sechs Uhr" }
+          - { key: b, text: "um acht Uhr" }
+          - { key: c, text: "um zehn Uhr" }
+        answer: b
+        why: "„Ich komme … so um acht Uhr.“"
+      - q: "Wo treffen sich die beiden?"
+        options:
+          - { key: a, text: "am Bahnhof" }
+          - { key: b, text: "bei Lena zu Hause" }
+          - { key: c, text: "im Restaurant" }
+        answer: c
+        why: "„Können wir uns direkt im Restaurant treffen?“"
+      - q: "Was soll die andere Person mitbringen?"
+        options:
+          - { key: a, text: "Geld" }
+          - { key: b, text: "eine Karte" }
+          - { key: c, text: "Essen" }
+        answer: a
+        why: "„Bring bitte Geld mit. Das Restaurant nimmt keine Karte.“"
+
+  - id: H2
+    block: H
+    type: single-choice
+    title: "Ansage 2 — Das Wetter"
+    instructions: "Hör dir die Wetteransage an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the weather announcement. Then choose the correct answer."
+    audio: transcript_ansage2.mp3
+    transcript: >
+      Guten Morgen. Hier ist das Wetter für heute. Am Vormittag ist es
+      sonnig und trocken. Am Nachmittag kommen Wolken. Am Abend regnet
+      es. Die Temperatur ist achtzehn Grad. Nehmen Sie einen
+      Regenschirm mit.
+    items:
+      - q: "Wie ist das Wetter am Vormittag?"
+        options:
+          - { key: a, text: "es regnet" }
+          - { key: b, text: "es schneit" }
+          - { key: c, text: "sonnig" }
+        answer: c
+        why: "„Am Vormittag ist es sonnig und trocken.“"
+      - q: "Was passiert am Abend?"
+        options:
+          - { key: a, text: "Es regnet." }
+          - { key: b, text: "Es wird sonnig." }
+          - { key: c, text: "Es wird sehr warm." }
+        answer: a
+        why: "„Am Abend regnet es.“"
+      - q: "Was soll man mitnehmen?"
+        options:
+          - { key: a, text: "eine Jacke" }
+          - { key: b, text: "einen Regenschirm" }
+          - { key: c, text: "eine Sonnenbrille" }
+        answer: b
+        why: "„Nehmen Sie einen Regenschirm mit.“"
+
+  - id: H3
+    block: H
+    type: single-choice
+    title: "Ansage 3 — Im Supermarkt"
+    instructions: "Hör dir die Durchsage an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer."
+    audio: transcript_ansage3.mp3
+    transcript: >
+      Liebe Kundinnen und Kunden, der Supermarkt schließt in zehn
+      Minuten. Bitte kommen Sie jetzt zur Kasse. Heute im Angebot:
+      Äpfel, ein Kilo für einen Euro. Wir öffnen morgen wieder um acht
+      Uhr. Vielen Dank und einen schönen Abend.
+    items:
+      - q: "Wann schließt der Supermarkt?"
+        options:
+          - { key: a, text: "in zehn Minuten" }
+          - { key: b, text: "in einer Stunde" }
+          - { key: c, text: "um acht Uhr" }
+        answer: a
+        why: "„… der Supermarkt schließt in zehn Minuten.“"
+      - q: "Was ist heute im Angebot?"
+        options:
+          - { key: a, text: "Brot" }
+          - { key: b, text: "Äpfel" }
+          - { key: c, text: "Milch" }
+        answer: b
+        why: "„Heute im Angebot: Äpfel, ein Kilo für einen Euro.“"
+      - q: "Wann öffnet der Supermarkt morgen?"
+        options:
+          - { key: a, text: "um sechs Uhr" }
+          - { key: b, text: "um acht Uhr" }
+          - { key: c, text: "um zehn Uhr" }
+        answer: b
+        why: "„Wir öffnen morgen wieder um acht Uhr.“"

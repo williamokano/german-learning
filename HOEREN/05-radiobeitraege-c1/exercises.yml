@@ -1,0 +1,164 @@
+lesson: "HV/05-radiobeitraege-c1"
+title: "Radiobeiträge — C1"
+topic: "Radiobeiträge"
+level: C1
+intro: >
+  Drei längere Radiobeiträge, wie man sie im Kulturprogramm oder im
+  Wissenschaftsmagazin hört: ein Feuilleton-Kommentar über den Trend
+  zur „digitalen Entschleunigung", ein pointierter Debattenbeitrag zur
+  autofreien Innenstadt und eine populärwissenschaftliche Erklärung
+  dazu, warum die Zeit im Alter schneller zu vergehen scheint. Die
+  Fragen zielen nicht nur auf Einzelheiten, sondern auf die Haltung der
+  Sprechenden und auf das, was zwischen den Zeilen gesagt wird. Hör
+  jeden Beitrag einmal ganz und beantworte dann die Fragen.
+exercises:
+  - id: H1
+    block: H
+    type: single-choice
+    title: "Beitrag 1 — Feuilleton: Die Sehnsucht nach Stille"
+    instructions: "Hör dir den Kommentar an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the commentary. Then choose the correct answer."
+    audio: transcript_ansage1.mp3
+    transcript: >
+      Schweigeklöster sind ausgebucht, Retreats ohne Handy kosten so
+      viel wie eine Fernreise, und in den Buchhandlungen stapeln sich
+      die Ratgeber zur Entschleunigung. Man könnte das für eine
+      erfreuliche Gegenbewegung halten — endlich besinnt sich jemand auf
+      das Wesentliche. Nur fällt auf, dass ausgerechnet jene die Stille
+      als Ware entdecken, die sie sich am wenigsten leisten müssten. Wer
+      ohnehin über seine Zeit verfügt, bucht ein Wochenende Ruhe und
+      kehrt erholt an den Schreibtisch zurück. Wer im Schichtdienst
+      arbeitet oder zwei Jobs hat, für den ist das Abschalten kein
+      Lifestyle, sondern ein unerfüllbarer Wunsch. Die Entschleunigung,
+      so wie sie derzeit verkauft wird, ist damit weniger ein Ausstieg
+      aus dem Leistungsdenken als dessen elegante Fortsetzung: Jetzt
+      optimiert man eben seine Erholung. Ich habe nichts gegen Stille.
+      Ich habe etwas dagegen, dass sie zum Statussymbol geworden ist.
+    items:
+      - q: "Welche Hauptaussage vertritt der Sprecher?"
+        options:
+          - { key: a, text: "Schweigeretreats sind zu teuer und sollten staatlich gefördert werden." }
+          - { key: b, text: "Wer zur Ruhe kommen will, sollte das ohne kommerzielle Angebote tun." }
+          - { key: c, text: "Der Trend zur Entschleunigung ist im Kern eine weitere Form von Selbstoptimierung — und ein Privileg der ohnehin Begünstigten." }
+          - { key: d, text: "Die Gegenbewegung zur Beschleunigung ist uneingeschränkt zu begrüßen." }
+        answer: c
+        why: "Der Sprecher nennt die verkaufte Entschleunigung „dessen elegante Fortsetzung“ des Leistungsdenkens und betont, dass gerade Privilegierte sie nutzen."
+      - q: "Wie steht der Sprecher zur Stille selbst?"
+        options:
+          - { key: a, text: "Er schätzt sie; er kritisiert nur ihre Vermarktung als Statussymbol." }
+          - { key: b, text: "Er lehnt sie als überflüssig ab." }
+          - { key: c, text: "Er hält sie nur für Menschen im Schichtdienst für sinnvoll." }
+          - { key: d, text: "Er hat dazu keine klare Meinung." }
+        answer: a
+        why: "„Ich habe nichts gegen Stille. Ich habe etwas dagegen, dass sie zum Statussymbol geworden ist.“"
+      - q: "Mit welchem Kontrast begründet der Sprecher seine Kritik?"
+        options:
+          - { key: a, text: "Stadt gegen Land" }
+          - { key: b, text: "früher gegen heute" }
+          - { key: c, text: "junge gegen alte Menschen" }
+          - { key: d, text: "wer frei über seine Zeit verfügt gegen wer im Schichtdienst oder in zwei Jobs steckt" }
+        answer: d
+        why: "Er stellt den, der „über seine Zeit verfügt“, dem gegenüber, der „im Schichtdienst arbeitet oder zwei Jobs hat“."
+
+  - id: H2
+    block: H
+    type: single-choice
+    title: "Beitrag 2 — Kommentar: Die autofreie Innenstadt"
+    instructions: "Hör dir den Debattenbeitrag an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the debate contribution. Then choose the correct answer."
+    audio: transcript_ansage2.mp3
+    transcript: >
+      Die Gegner der autofreien Innenstadt führen gern den Handwerker
+      ins Feld, der seine Leiter nicht mehr transportieren kann, und die
+      ältere Dame, die es nicht mehr zum Arzt schafft. Beide gibt es,
+      und für beide braucht es Lösungen — Lieferzonen, Ausnahmegenehmi-
+      gungen, ein dichtes Netz barrierefreier Busse. Was mich stört, ist
+      die Unterstellung, die autofreie Zone sei ein Projekt abgehobener
+      Stadtplaner gegen die normalen Leute. Das Gegenteil ist der Fall.
+      Wer kein Auto hat — und das ist in vielen Vierteln die Mehrheit —
+      zahlt heute mit Lärm, schlechter Luft und Straßen, auf denen
+      Kinder nicht spielen können, für den Komfort der anderen. Eine
+      Innenstadt ohne Blechlawine ist nicht weniger gerecht, sondern
+      gerechter. Man sollte sie nur ehrlich einführen: mit einem
+      Fahrplan, mit Geld für den Nahverkehr und mit der Bereitschaft,
+      nach zwei Jahren nachzubessern, wo es hakt. Wer sie über Nacht
+      verordnet und sich dann über den Protest wundert, hat die Sache
+      selbst beschädigt.
+    items:
+      - q: "Was ist die zentrale These des Sprechers?"
+        options:
+          - { key: a, text: "Autofreie Innenstädte schaden Handwerkern und alten Menschen und sollten daher unterbleiben." }
+          - { key: b, text: "Eine autofreie Innenstadt ist gerechter, weil die Autolosen bislang die Kosten des Autoverkehrs tragen — sie muss aber sorgfältig und mit Nachbesserungen eingeführt werden." }
+          - { key: c, text: "Stadtplaner setzen sich zu Recht über den Protest der Bevölkerung hinweg." }
+          - { key: d, text: "Der Umbau der Innenstädte ist vor allem eine Frage des Geschmacks." }
+        answer: b
+        why: "Er nennt die autofreie Zone „nicht weniger gerecht, sondern gerechter“ und fordert Fahrplan, Geld für den Nahverkehr und Nachbesserung."
+      - q: "Wie geht der Sprecher mit den Einwänden der Gegner um?"
+        options:
+          - { key: a, text: "Er erklärt sie für erfunden." }
+          - { key: b, text: "Er ignoriert sie vollständig." }
+          - { key: c, text: "Er übernimmt sie und lehnt die autofreie Zone deshalb ab." }
+          - { key: d, text: "Er erkennt die genannten Härtefälle an und verlangt konkrete Lösungen für sie." }
+        answer: d
+        why: "„Beide gibt es, und für beide braucht es Lösungen — Lieferzonen, Ausnahmegenehmigungen, ein dichtes Netz barrierefreier Busse.“"
+      - q: "Was kritisiert der Sprecher an einer überstürzten Einführung?"
+        options:
+          - { key: a, text: "Wer sie „über Nacht verordnet“, beschädige das Anliegen selbst und dürfe sich über Protest nicht wundern." }
+          - { key: b, text: "Sie sei zu teuer für die Kommunen." }
+          - { key: c, text: "Sie mache die Innenstadt hässlich." }
+          - { key: d, text: "Sie bringe zu wenig für das Klima." }
+        answer: a
+        why: "„Wer sie über Nacht verordnet und sich dann über den Protest wundert, hat die Sache selbst beschädigt.“"
+
+  - id: H3
+    block: H
+    type: single-choice
+    title: "Beitrag 3 — Wissenschaftsmagazin: Warum die Zeit im Alter rast"
+    instructions: "Hör dir den Beitrag an. Wähle dann die richtige Antwort."
+    instructionsEn: "Listen to the segment. Then choose the correct answer."
+    audio: transcript_ansage3.mp3
+    transcript: >
+      Fast jeder kennt das Gefühl: Als Kind zog sich ein Sommer endlos
+      hin, heute ist das Jahr vorbei, bevor man die guten Vorsätze
+      umgesetzt hat. Die Forschung bietet dafür mehrere Erklärungen an,
+      und die populärste ist zugleich die anschaulichste: Mit
+      zunehmendem Alter ist ein Jahr ein immer kleinerer Bruchteil des
+      bereits gelebten Lebens. Für die Zehnjährige sind zwölf Monate ein
+      Zehntel ihrer Existenz, für den Sechzigjährigen nur noch ein
+      Sechzigstel. Überzeugender ist allerdings ein zweiter Ansatz, der
+      auf das Gedächtnis abstellt. Wir schätzen vergangene Zeiträume
+      danach ein, wie viele neue, unterscheidbare Erinnerungen wir in
+      ihnen gebildet haben. Kindheit und Jugend sind voll von ersten
+      Malen — die erste Reise allein, der erste Job, die erste Wohnung.
+      Im mittleren Erwachsenenalter dagegen gleicht eine Woche der
+      anderen, und das Gehirn fasst sie zu einem einzigen, blassen
+      Eindruck zusammen. Rückblickend wirkt die Zeit dann geschrumpft.
+      Die praktische Folgerung ist unspektakulär, aber wirksam: Wer will,
+      dass sich sein Leben nicht anfühlt wie im Zeitraffer, sollte für
+      Abwechslung sorgen — neue Wege gehen, Gewohnheiten brechen,
+      Dinge zum ersten Mal tun.
+    items:
+      - q: "Welchen der beiden Erklärungsansätze hält der Beitrag für überzeugender?"
+        options:
+          - { key: a, text: "den Bruchteil-Ansatz: ein Jahr ist ein immer kleinerer Anteil des gelebten Lebens" }
+          - { key: b, text: "beide gleichermaßen" }
+          - { key: c, text: "den gedächtnisbasierten Ansatz: entscheidend ist die Zahl neuer, unterscheidbarer Erinnerungen" }
+          - { key: d, text: "keinen von beiden; der Beitrag verwirft beide" }
+        answer: c
+        why: "„Überzeugender ist allerdings ein zweiter Ansatz, der auf das Gedächtnis abstellt.“"
+      - q: "Warum vergeht laut dem gedächtnisbasierten Ansatz die Zeit im mittleren Erwachsenenalter rückblickend schnell?"
+        options:
+          - { key: a, text: "weil ähnliche Wochen im Gedächtnis zu einem einzigen blassen Eindruck verschmelzen" }
+          - { key: b, text: "weil man weniger schläft und daher weniger Zeit wahrnimmt" }
+          - { key: c, text: "weil das Zeitgefühl mit dem Alter biologisch nachlässt" }
+          - { key: d, text: "weil man sich im Alter mehr Sorgen macht" }
+        answer: a
+        why: "„… gleicht eine Woche der anderen, und das Gehirn fasst sie zu einem einzigen, blassen Eindruck zusammen.“"
+      - q: "Welche praktische Empfehlung zieht der Beitrag daraus?"
+        options:
+          - { key: a, text: "die Zeit bewusst durch Meditation verlangsamen" }
+          - { key: b, text: "weniger Termine machen und mehr ausruhen" }
+          - { key: c, text: "ein Tagebuch führen, um Erinnerungen festzuhalten" }
+          - { key: d, text: "für Abwechslung sorgen: neue Wege gehen, Gewohnheiten brechen, Dinge zum ersten Mal tun" }
+        answer: d
+        why: "„… sollte für Abwechslung sorgen — neue Wege gehen, Gewohnheiten brechen, Dinge zum ersten Mal tun.“"
