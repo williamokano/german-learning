@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Mia sagt, Berlin hat sie sowohl fasziniert als auch erschöpft."
         answer: true
@@ -38,7 +39,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Was ist Hannahs Hauptziel für den neuen Lehrplan?"
         options:
@@ -74,7 +76,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext: Yusuf auf einer Akademikerkonferenz"
     audio: hoertext.mp3
-    instructions: "Listen to Yusuf's short conference presentation and fill in the 7 missing words. Three words in the box are not needed."
+    instructions: "Höre Yusufs kurzen Konferenzvortrag und ergänze die 7 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen to Yusuf's short conference presentation and fill in the 7 missing words. Three words in the box are not needed."
     text: |
       Guten Tag, ich bin Dr. Yusuf El-Sayed von der FU Berlin. In meinem heutigen
       Kurzvortrag möchte ich zwei Thesen zur Stadtentwicklung vorstellen. These eins:
@@ -101,7 +104,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Ansage bei einer Podiumsdiskussion"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the event announcement. Then choose the correct answer (a, b, or c)."
+    instructions: "Höre die Veranstaltungsansage. Wähle dann die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the event announcement. Then choose the correct answer (a, b, or c)."
     transcript: "Achtung, eine Durchsage. Wir laden herzlich zur morgigen Podiumsdiskussion ein: Großstadt oder Kleinstadt — wo lebt man besser? Die Veranstaltung beginnt nicht um 18 Uhr, sondern um 19 Uhr. Es werden sowohl Wissenschaftler als auch Bürgerinnen und Bürger auf dem Podium sein. Weder eine Anmeldung noch ein Eintrittsgeld ist nötig — der Eintritt ist frei. Entweder Sie kommen persönlich, oder Sie verfolgen die Diskussion per Livestream. Weitere Informationen finden Sie auf unserer Webseite. Wir freuen uns auf Sie."
     items:
       - q: "Um wie viel Uhr beginnt die Podiumsdiskussion?"
@@ -140,7 +144,8 @@ exercises:
     type: gap-text
     layout: list
     title: "`nicht nur … sondern auch` — Grundübung"
-    instructions: "Complete each sentence with `nicht nur … sondern auch`. 8 items."
+    instructions: "Ergänze jeden Satz mit `nicht nur … sondern auch`. 8 Sätze."
+    instructionsEn: "Complete each sentence with `nicht nur … sondern auch`. 8 items."
     text: |
       1. Berlin bietet {1} kulturelle Vielfalt, {2} exzellente Jobmöglichkeiten.
       2. Lukas spricht {3} Deutsch, {4} Englisch.
@@ -173,7 +178,8 @@ exercises:
     type: gap-text
     layout: list
     title: "`sowohl … als auch` — Grundübung"
-    instructions: "Complete each sentence with `sowohl … als auch`. Remember: always `als auch`, never `wie auch`! 8 items."
+    instructions: "Ergänze jeden Satz mit `sowohl … als auch`. Denk daran: immer `als auch`, nie `wie auch`! 8 Sätze."
+    instructionsEn: "Complete each sentence with `sowohl … als auch`. Remember: always `als auch`, never `wie auch`! 8 items."
     text: |
       1. Anna als auch Bruno kommen aus dem Ausland. → {1} Anna {2} Bruno kommen aus dem Ausland.
       2. Das Frühstück und das Mittagessen sind inklusive. → {3} das Frühstück {4} das Mittagessen sind inklusive.
@@ -206,7 +212,8 @@ exercises:
     type: gap-text
     layout: list
     title: "`entweder … oder` — Grundübung mit Wortstellung"
-    instructions: "Complete with `entweder … oder`. Watch for inversion when `entweder` starts the sentence! 6 items."
+    instructions: "Ergänze mit `entweder … oder`. Achte auf die Inversion, wenn `entweder` am Satzanfang steht! 6 Sätze."
+    instructionsEn: "Complete with `entweder … oder`. Watch for inversion when `entweder` starts the sentence! 6 items."
     text: |
       1. Ich nehme den Bus oder das Fahrrad. → Ich nehme {1} den Bus {2} das Fahrrad.
       2. Wir bleiben hier oder wir ziehen um. → {3} bleiben wir hier, {4} wir ziehen um.
@@ -233,7 +240,8 @@ exercises:
     type: gap-text
     layout: list
     title: "`weder … noch` — Grundübung (kein zusätzliches `nicht`!)"
-    instructions: "Complete with `weder … noch`. Do NOT add `nicht` — the negation is already built in! 6 items."
+    instructions: "Ergänze mit `weder … noch`. Kein zusätzliches `nicht` – die Verneinung steckt schon drin! 6 Sätze."
+    instructionsEn: "Complete with `weder … noch`. Do NOT add `nicht` — the negation is already built in! 6 items."
     text: |
       1. Er hat keine Zeit und kein Geld. → Er hat {1} Zeit {2} Geld.
       2. Sie spricht kein Chinesisch und kein Japanisch. → Sie spricht {3} Chinesisch {4} Japanisch.
@@ -260,7 +268,8 @@ exercises:
     type: gap-text
     layout: list
     title: "`zwar … aber` — Einräumen und einschränken"
-    instructions: "Complete with `zwar … aber`. Note: `zwar` can appear sentence-initially (with inversion) or mid-sentence. 6 items."
+    instructions: "Ergänze mit `zwar … aber`. Hinweis: `zwar` kann am Satzanfang (mit Inversion) oder in der Satzmitte stehen. 6 Sätze."
+    instructionsEn: "Complete with `zwar … aber`. Note: `zwar` can appear sentence-initially (with inversion) or mid-sentence. 6 items."
     text: |
       1. Das Angebot ist billig, aber die Qualität fehlt. → Das Angebot ist {1} billig, {2} die Qualität fehlt.
       2. Das Angebot ist günstig, aber die Qualität ist schlecht. → {3} ist das Angebot günstig, {4} die Qualität ist schlecht.
@@ -286,7 +295,8 @@ exercises:
     block: A
     type: single-choice
     title: "Welcher Konnektor passt? — Typ bestimmen"
-    instructions: "Choose the correct two-part connector (a, b, or c) for each gap."
+    instructions: "Wähle für jede Lücke den richtigen zweiteiligen Konnektor (a, b oder c)."
+    instructionsEn: "Choose the correct two-part connector (a, b, or c) for each gap."
     items:
       - q: "Er hat ______ Zeit ______ Geld für dieses Projekt."
         options:
@@ -335,7 +345,8 @@ exercises:
     block: A
     type: order
     title: "Satzbau: Wortstellung mit zweiteiligen Konnektoren"
-    instructions: "Put the words in the correct order. Note inversion when the connector starts the sentence!"
+    instructions: "Bring die Wörter in die richtige Reihenfolge. Achte auf die Inversion, wenn der Konnektor am Satzanfang steht!"
+    instructionsEn: "Put the words in the correct order. Note inversion when the connector starts the sentence!"
     items:
       - tiles: ["Nicht", "nur", "spricht", "er", "Deutsch", ",", "sondern", "er", "lernt", "auch", "Arabisch"]
         answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -354,7 +365,8 @@ exercises:
     block: A
     type: true-false
     title: "Grammatik-Check: Konnektoren richtig gebildet?"
-    instructions: "Is the connector used correctly? Richtig (R) oder Falsch (F)? If F, explain the error."
+    instructions: "Ist der Konnektor richtig verwendet? Richtig (R) oder Falsch (F)? Wenn F: Erkläre den Fehler."
+    instructionsEn: "Is the connector used correctly? Richtig (R) oder Falsch (F)? If F, explain the error."
     items:
       - q: "Er hat weder nicht Zeit noch Geld."
         answer: false
@@ -380,7 +392,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Gemischt: den richtigen Konnektor einsetzen"
-    instructions: "Fill in the correct two-part connector. The type is given in brackets. 8 items."
+    instructions: "Ergänze den richtigen zweiteiligen Konnektor. Die Art steht in Klammern. 8 Sätze."
+    instructionsEn: "Fill in the correct two-part connector. The type is given in brackets. 8 items."
     text: |
       1. Das Projekt berücksichtigt {1} die Kosten {2} die Qualität. (additive — both)
       2. {3} habe ich keine Erfahrung, {4} ich bin sehr motiviert. (concessive)
@@ -412,7 +425,8 @@ exercises:
     block: A
     type: categorize
     title: "Konnektoren kategorisieren"
-    instructions: "Sort each sentence into the correct category based on the connector used."
+    instructions: "Ordne jeden Satz nach dem verwendeten Konnektor der richtigen Kategorie zu."
+    instructionsEn: "Sort each sentence into the correct category based on the connector used."
     buckets:
       - { key: additiv, label: "Additiv (nicht nur/sowohl)" }
       - { key: exclusiv, label: "Exklusiv/negativ (entweder/weder)" }
@@ -432,7 +446,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Satzanfang mit Inversion — `weder`, `entweder`, `nicht nur`, `zwar`"
-    instructions: "Rewrite each sentence so it starts with the given connector. Apply inversion correctly. 6 items."
+    instructions: "Formuliere jeden Satz so um, dass er mit dem angegebenen Konnektor beginnt. Achte auf die Inversion. 6 Sätze."
+    instructionsEn: "Rewrite each sentence so it starts with the given connector. Apply inversion correctly. 6 items."
     text: |
       1. Er hat nicht angerufen. Er hat auch nicht geschrieben.
          → {1} hat er angerufen, noch hat er geschrieben.
@@ -461,7 +476,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Dialog ergänzen: Diskussion über die Stadtwahl"
-    instructions: "Fill in the 8 blanks with the correct two-part connector words. Context: Mia and Lukas discuss with Yusuf."
+    instructions: "Ergänze die 8 Lücken mit den richtigen Teilen der zweiteiligen Konnektoren. Situation: Mia und Lukas diskutieren mit Yusuf."
+    instructionsEn: "Fill in the 8 blanks with the correct two-part connector words. Context: Mia and Lukas discuss with Yusuf."
     text: |
       — Mia, was spricht für Berlin?
       — {1} das kulturelle Angebot {2} die Jobmöglichkeiten sind hier unschlagbar.
@@ -484,6 +500,7 @@ exercises:
     type: matching
     title: "Finde den Fehler — Zweiteilige Konnektoren"
     instructions: "Jeder Satz enthält einen Fehler. Ordne den fehlerhaften Satz der richtigen Korrektur zu."
+    instructionsEn: "Each sentence contains one error. Match the faulty sentence with the correct correction."
     left:
       - key: "a"
         text: "Er hat weder nicht Geld noch Zeit für das Projekt."
@@ -523,18 +540,19 @@ exercises:
     type: gap-text
     layout: list
     title: "Umformung: einen Konnektor durch einen anderen ersetzen"
-    instructions: "Rewrite each sentence using the connector given in brackets. Keep the meaning as close as possible. 6 items."
+    instructions: "Formuliere jeden Satz mit dem Konnektor in Klammern um. Die Bedeutung soll möglichst gleich bleiben. 6 Sätze."
+    instructionsEn: "Rewrite each sentence using the connector given in brackets. Keep the meaning as close as possible. 6 items."
     text: |
       1. Er spricht nicht nur Deutsch, sondern auch Englisch.
          → Er spricht {1}. (sowohl … als auch)
       2. Sowohl Mia als auch Lukas wohnen in Kreuzberg.
          → {2}. (nicht nur … sondern auch — start with Nicht nur Mia …)
       3. Das Angebot ist zwar billig, aber die Qualität ist schlecht.
-         → Das Angebot ist billig. {3} ist die Qualität schlecht. (jedoch — use jedoch as a standalone connector)
+         → Das Angebot ist billig. {3} ist die Qualität schlecht. (one formal contrast adverb, V2)
       4. Entweder du kommst mit, oder ich gehe allein.
          → Wenn du {4}, gehe ich allein. (wenn-clause — different structure, same logic)
       5. Er hat weder Zeit noch Lust.
-         → Er hat {5} Zeit und {6} Lust. (use: keine … und keine …)
+         → Er hat {5} Zeit und {6} Lust. (rephrase without weder … noch)
       6. Nicht nur hat er angerufen, sondern er hat auch eine E-Mail geschrieben.
          → Er hat {7} angerufen {8} eine E-Mail geschrieben. (sowohl … als auch)
     answers:
@@ -546,12 +564,17 @@ exercises:
       "6": keine
       "7": sowohl
       "8": als auch
+    alts:
+      "3":
+        - word: "Allerdings"
+          note: "allerdings is an equally formal contrast adverb with V2."
 
   - id: B4
     block: B
     type: matching
     title: "Satzhälften verbinden: Argumente strukturieren"
-    instructions: "Match each sentence beginning (1–6) with the correct ending (a–g). One ending is not needed."
+    instructions: "Verbinde jeden Satzanfang (1–6) mit dem passenden Satzende (a–g). Ein Satzende wird nicht gebraucht."
+    instructionsEn: "Match each sentence beginning (1–6) with the correct ending (a–g). One ending is not needed."
     left:
       - { key: "1", text: "Berlin ist zwar teuer," }
       - { key: "2", text: "Sowohl Yusuf als auch Hannah" }
@@ -579,7 +602,8 @@ exercises:
     block: B
     type: order
     title: "Satzbau: Argumente in der richtigen Reihenfolge"
-    instructions: "Put the words in the correct order to form a sentence with a two-part connector."
+    instructions: "Bring die Wörter in die richtige Reihenfolge, sodass ein Satz mit einem zweiteiligen Konnektor entsteht."
+    instructionsEn: "Put the words in the correct order to form a sentence with a two-part connector."
     items:
       - tiles: ["Sowohl", "die", "Qualität", "als", "auch", "der", "Preis", "sind", "entscheidend"]
         answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
@@ -598,7 +622,8 @@ exercises:
     block: B
     type: single-choice
     title: "Formellen Vortrag analysieren: Konnektoren in Hannahs Präsentation"
-    instructions: "Read each excerpt from Dialog B and choose what function the connector performs."
+    instructions: "Lies die Auszüge aus Dialog B und wähle, welche Funktion der Konnektor hat."
+    instructionsEn: "Read each excerpt from Dialog B and choose what function the connector performs."
     items:
       - q: '„Mein Lehrplan zielt nicht nur auf die Vermittlung von Fachwissen ab, sondern auch auf die Entwicklung kritischen Denkens."'
         options:
@@ -627,7 +652,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Formeller Stil: Konnektoren in einer Stellungnahme"
-    instructions: "Fill in the correct connector words to complete this formal position statement. 8 gaps."
+    instructions: "Ergänze die richtigen Konnektoren in dieser formellen Stellungnahme. 8 Lücken."
+    instructionsEn: "Fill in the correct connector words to complete this formal position statement. 8 gaps."
     text: |
       Die Frage, ob Großstädte lebenswert sind, lässt sich {1} eindeutig mit
       Ja {2} mit Nein beantworten — die Realität ist komplexer. Großstädte bieten
@@ -675,6 +701,7 @@ exercises:
       > Das Fazit der drei? Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung. Und wer glaubt, es gäbe nur eine richtige Antwort, irrt sich — zwar vielleicht gut gemeint, aber grundlegend falsch.
 
       Wähle a, b oder c.
+    instructionsEn: "Read the text. Choose a, b, or c."
     items:
       - q: "Was sagt Lukas über Berlin?"
         options:
@@ -741,7 +768,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Lückentext: Berlin aus zwei Perspektiven"
-    instructions: "Fill each gap with one word. 10 gaps."
+    instructions: "Ergänze in jeder Lücke ein Wort. 10 Lücken."
+    instructionsEn: "Fill each gap with one word. 10 gaps."
     text: |
       Viele Menschen fragen sich, {1} Berlin wirklich so besonders ist. Lukas
       sieht {2} die Vorzüge {3} die Schattenseiten der Hauptstadt. Berlin
@@ -766,7 +794,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Das Angebot ist ______ günstig, aber die Qualität ist schlecht."
         options:
@@ -815,7 +844,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (Wortbank)"
-    instructions: "Fill the 10 gaps. Five words are not needed."
+    instructions: "Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht."
+    instructionsEn: "Fill the 10 gaps. Five words are not needed."
     bankCase: upper
     bankSort: true
     text: |
@@ -848,7 +878,7 @@ exercises:
           note: "See note for gap 3 — the paired connector is `sondern auch` if `nicht nur` is chosen for gap 3."
       "9":
         - word: SOWOHL
-          note: "Both `nicht nur … sondern auch` (emphasised) and `sowohl … als auch` (neutral addition) fit here; the surrounding text — `wahrscheinlich in beidem` — supports both interpretations."
+          note: "Both `nicht nur … sondern auch` (emphasised) and `sowohl … als auch` (neutral addition) fit here; the sentence names two goals of equal weight, so both readings work."
       "10":
         - word: ALS AUCH
           note: "See note for gap 9 — the paired connector is `als auch` if `sowohl` is chosen for gap 9."
@@ -869,6 +899,7 @@ exercises:
       > Das Fazit der drei? Sowohl persönliche Erfahrungen als auch sachliche Daten gehören zu einer fairen Stadtbewertung. Und wer glaubt, es gäbe nur eine richtige Antwort, irrt sich — zwar vielleicht gut gemeint, aber grundlegend falsch.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Lukas sieht nur die positiven Seiten Berlins."
         answer: false
@@ -890,7 +921,8 @@ exercises:
     block: C
     type: single-choice
     title: "Leseverstehen: Stellungnahme zur Stadtentwicklung (neuer Text)"
-    instructions: "Read the text below. Choose the correct answer (a, b, or c)."
+    instructions: "Lies den Text unten. Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Read the text below. Choose the correct answer (a, b, or c)."
     text: |
       **Stellungnahme: Stadtentwicklung braucht beide Perspektiven**
 
@@ -961,23 +993,24 @@ exercises:
     type: gap-text
     layout: list
     title: "Schnelltest: Zweiteilige Konnektoren + Wiederholung"
-    instructions: "Fill in the correct word or structure. Items 12–15 review earlier lessons. 15 items."
+    instructions: "Ergänze das richtige Wort oder die richtige Struktur. Aufgaben 12–15 wiederholen frühere Lektionen. 15 Aufgaben."
+    instructionsEn: "Fill in the correct word or structure. Items 12–15 review earlier lessons. 15 items."
     text: |
-      1. Er spricht nicht nur Deutsch, {1} auch Englisch. (sondern)
-      2. Sowohl Mia {2} Lukas wohnen in Kreuzberg. (als auch)
-      3. {3} wir handeln jetzt, oder wir verlieren die Gelegenheit. (Entweder)
-      4. Er hat {4} Zeit {5} Lust. (weder … noch)
-      5. Das Angebot ist {6} günstig, {7} die Qualität fehlt. (zwar … aber)
-      6. {8} ist das Konzept gut, aber die Umsetzung fehlt. (Zwar — sentence initial, inversion)
-      7. Nicht nur {9} er Arabisch, sondern er spricht auch Deutsch. (inversion: spricht)
-      8. Sowohl die Qualität {10} der Preis sind entscheidend. (als auch)
-      9. Weder hat er angerufen, {11} hat er geschrieben. (noch)
-      10. Sie liebt {12} Berlin, {13} sie kritisiert es. (sowohl … als auch)
-      11. Das ist {14} eine wirtschaftliche, sondern auch eine soziale Frage. (nicht nur)
-      12. (B1/02) Das Wetter war schlecht, {15} sind wir wandern gegangen. (trotzdem — L2)
-      13. (B1/06) Ich lerne Deutsch, um in Berlin {16}. (zu arbeiten — L6)
-      14. (B1/03) Wenn ich mehr Zeit hätte, {17} ich mehr reisen. (würde — L3)
-      15. (B1/09) Könnten Sie mir sagen, {18} der nächste Zug fährt? (wann — L9)
+      1. Er spricht nicht nur Deutsch, {1} auch Englisch.
+      2. Sowohl Mia {2} Lukas wohnen in Kreuzberg.
+      3. {3} wir handeln jetzt, oder wir verlieren die Gelegenheit.
+      4. Er hat {4} Zeit {5} Lust. (neither … nor)
+      5. Das Angebot ist {6} günstig, {7} die Qualität fehlt. (it's true … but)
+      6. {8} ist das Konzept gut, aber die Umsetzung fehlt. (sentence initial, inversion)
+      7. Nicht nur {9} er Arabisch, sondern er spricht auch Deutsch. (sprechen — inversion)
+      8. Sowohl die Qualität {10} der Preis sind entscheidend.
+      9. Weder hat er angerufen, {11} hat er geschrieben.
+      10. Sie liebt {12} Berlin, {13} sie kritisiert es. (it's true … but)
+      11. Das ist {14} eine wirtschaftliche, sondern auch eine soziale Frage.
+      12. (B1/02) Das Wetter war schlecht, {15} sind wir wandern gegangen. (nevertheless)
+      13. (B1/06) Ich lerne Deutsch, um in Berlin {16}. (arbeiten)
+      14. (B1/03) Wenn ich mehr Zeit hätte, {17} ich mehr reisen. (werden — KII)
+      15. (B1/09) Könnten Sie mir sagen, {18} der nächste Zug fährt? (when)
     answers:
       "1": sondern
       "2": als auch
@@ -990,19 +1023,24 @@ exercises:
       "9": spricht
       "10": als auch
       "11": noch
-      "12": sowohl
-      "13": als auch
+      "12": zwar
+      "13": aber
       "14": nicht nur
       "15": trotzdem
       "16": zu arbeiten
       "17": würde
       "18": wann
+    alts:
+      "15":
+        - word: "dennoch"
+          note: "dennoch is the formal synonym of trotzdem."
 
   - id: D2
     block: D
     type: odd-one-out
     title: "Wortschatz-Check: Das passt nicht!"
-    instructions: "Circle the word or phrase that does not belong in the group. 6 groups."
+    instructions: "Kreise das Wort oder den Ausdruck ein, das/der nicht in die Gruppe passt. 6 Gruppen."
+    instructionsEn: "Circle the word or phrase that does not belong in the group. 6 groups."
     groups:
       - items: ["sowohl … als auch", "nicht nur … sondern auch", "weder … noch", "entweder … oder"]
         odd: 2
@@ -1028,20 +1066,21 @@ exercises:
     type: gap-text
     layout: list
     title: "Rückblick: B1/02 (Gegensätze) und B1/03 (Konjunktiv II)"
-    instructions: "Fill in the correct form. Items 1–5 review B1/02 (Gegensätze/Konzessivität); items 6–10 review B1/03 (Konjunktiv II). 10 items."
+    instructions: "Ergänze die richtige Form. Aufgaben 1–5 wiederholen B1/02 (Gegensätze/Konzessivität), Aufgaben 6–10 wiederholen B1/03 (Konjunktiv II). 10 Aufgaben."
+    instructionsEn: "Fill in the correct form. Items 1–5 review B1/02 (Gegensätze/Konzessivität); items 6–10 review B1/03 (Konjunktiv II). 10 items."
     text: |
       B1/02 — Gegensätze und Konzessivität (L2):
-      1. Er war müde, {1} hat er bis Mitternacht gearbeitet. (trotzdem)
-      2. {2} das Wetter schlecht war, sind wir gewandert. (Obwohl)
-      3. Das Projekt hat Erfolg. {3} waren die Kosten sehr hoch. (Allerdings / Jedoch)
-      4. Er versteht das Problem, {4} er tut nichts dagegen. (aber)
-      5. {5} er kein Geld hat, lebt er sehr gut. (Obwohl)
+      1. Er war müde, {1} hat er bis Mitternacht gearbeitet. (nevertheless)
+      2. {2} das Wetter schlecht war, sind wir gewandert. (although)
+      3. Das Projekt hat Erfolg. {3} waren die Kosten sehr hoch. (however — formal, V2)
+      4. Er versteht das Problem, {4} er tut nichts dagegen. (but)
+      5. {5} er kein Geld hat, lebt er sehr gut. (although)
 
       B1/03 — Konjunktiv II (L3):
-      6. Wenn ich mehr Zeit hätte, {6} ich mehr lesen. (würde)
-      7. Er {7} gerne nach Berlin ziehen, aber die Mieten sind zu hoch. (würde)
+      6. Wenn ich mehr Zeit hätte, {6} ich mehr lesen. (werden — KII)
+      7. Er {7} gerne nach Berlin ziehen, aber die Mieten sind zu hoch. (werden — KII)
       8. Wenn Lukas in einer Kleinstadt {8}, hätte er mehr Platz. (wohnen — Konjunktiv II)
-      9. Ich {9} an deiner Stelle früher schlafen gehen. (würde)
+      9. Ich {9} an deiner Stelle früher schlafen gehen. (werden — KII)
       10. Wenn wir ein größeres Budget {10}, könnten wir mehr investieren. (haben — Konjunktiv II)
     answers:
       "1": trotzdem
@@ -1054,27 +1093,38 @@ exercises:
       "8": wohnte
       "9": würde
       "10": hätten
+    alts:
+      "1":
+        - word: "dennoch"
+          note: "dennoch is the formal synonym of trotzdem."
+      "3":
+        - word: "Jedoch"
+          note: "jedoch and allerdings are both formal contrast adverbs with V2."
+      "4":
+        - word: "doch"
+          note: "doch also joins two main clauses as a contrast (no inversion)."
 
   - id: D4
     block: D
     type: gap-text
     layout: list
     title: "Selbsttest: Zweiteilige Konnektoren (20 Punkte)"
-    instructions: "Fill in the correct connector word or phrase. 1 point per gap. 20 gaps across 12 items."
+    instructions: "Ergänze den richtigen Konnektor (Wort oder Ausdruck). 1 Punkt pro Lücke. 20 Lücken in 12 Aufgaben."
+    instructionsEn: "Fill in the correct connector word or phrase. 1 point per gap. 20 gaps across 12 items."
     notes: "16+ / 20 → proceed to B1/11. Below 16: redo Block A1–A9 the next day, then retest D4."
     text: |
-      1. Er spricht {1} Deutsch {2} Englisch. (sowohl … als auch)
-      2. Das Angebot ist {3} günstig, {4} die Qualität fehlt. (zwar … aber)
-      3. Er hat {5} Zeit {6} Geld. (weder … noch)
-      4. {7} bleiben wir hier, {8} wir ziehen um. (Entweder … oder — sentence initial)
-      5. Berlin bietet nicht {9} Kultur, {10} auch Jobs. (nicht nur … sondern auch)
-      6. {11} ist das Konzept fertig, aber wir brauchen mehr Daten. (Zwar — inversion)
-      7. Sowohl Mia {12} Lukas sind für einen Umzug offen. (als auch)
-      8. {13} hat sie Deutsch gelernt, sondern sie hat auch Arabisch gelernt. (Nicht nur — inversion)
-      9. Weder hat er angerufen, {14} hat er geschrieben. (noch)
-      10. Das ist {15} eine soziale, {16} eine wirtschaftliche Frage. (sowohl … als auch)
-      11. {17} du machst das jetzt, {18} du wartest auf eine bessere Gelegenheit. (Entweder … oder — sentence initial)
-      12. Das Projekt ist {19} ambitioniert, {20} es ist auch sehr realistisch. (nicht nur … sondern auch)
+      1. Er spricht {1} Deutsch {2} Englisch. (both … and)
+      2. Das Angebot ist {3} günstig, {4} die Qualität fehlt. (it's true … but)
+      3. Er hat {5} Zeit {6} Geld. (neither … nor)
+      4. {7} bleiben wir hier, {8} wir ziehen um. (either … or — sentence initial)
+      5. Berlin bietet nicht {9} Kultur, {10} auch Jobs.
+      6. {11} ist das Konzept fertig, aber wir brauchen mehr Daten. (sentence initial, inversion)
+      7. Sowohl Mia {12} Lukas sind für einen Umzug offen.
+      8. {13} hat sie Deutsch gelernt, sondern sie hat auch Arabisch gelernt. (sentence initial, inversion)
+      9. Weder hat er angerufen, {14} hat er geschrieben.
+      10. Das ist {15} eine soziale {16} eine wirtschaftliche Frage. (both … and)
+      11. {17} du machst das jetzt, {18} du wartest auf eine bessere Gelegenheit. (either … or — sentence initial)
+      12. Das Projekt ist {19} ambitioniert, {20} es ist auch sehr realistisch. (not only … but also)
     answers:
       "1": sowohl
       "2": als auch

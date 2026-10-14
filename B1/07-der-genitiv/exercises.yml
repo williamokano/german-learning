@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Layla hat das Fahrrad bei einem Berliner Laden gefunden."
         answer: false
@@ -38,7 +39,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Warum kritisiert Herr Steinmeyer die Formulierung 'wegen dem globalen Wandel'?"
         options:
@@ -74,7 +76,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen to Hannah's phone message and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre Hannahs Telefonnachricht und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen to Hannah's phone message and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Guten Morgen, mein Name ist Hannah El-Sayed, ich bin die Mutter Layla El-Sayeds,
       Schülerin der Klasse 10b. Ich rufe an, um Ihnen mitzuteilen, dass Layla heute
@@ -98,7 +101,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Universitätsdurchsage"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the PA announcement. Then choose the correct answer (a, b, or c)."
+    instructions: "Höre die Lautsprecherdurchsage. Wähle dann die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the PA announcement. Then choose the correct answer (a, b, or c)."
     transcript: 'Achtung, eine Durchsage. Wegen der Wartungsarbeiten des Aufzugs ist das Hauptgebäude der Universität morgen, Dienstag, nur über den Seiteneingang zugänglich. Trotz des laufenden Vorlesungsbetriebs bitten wir alle Studierenden und Mitarbeitenden um Verständnis. Während der Wartungszeit stehen die Bibliothek des zweiten Stocks sowie die Seminarräume des Erdgeschosses wie gewohnt zur Verfügung. Statt des Haupteingangs nutzen Sie bitte den Eingang der Lindenstraße. Wir danken für Ihr Verständnis.'
     items:
       - q: "Warum ist der Haupteingang morgen geschlossen?"
@@ -130,7 +134,8 @@ exercises:
     type: table-fill
     skill: case-endings
     title: "Die vier Fälle — vollständige Artikeltabelle (Genitiv ergänzen)"
-    instructions: "Complete the full 4-case table. The Nominativ/Akkusativ/Dativ rows are given; fill in all Genitiv cells and the noun endings."
+    instructions: "Ergänze die vollständige Tabelle mit allen 4 Fällen. Nominativ, Akkusativ und Dativ sind vorgegeben; ergänze alle Genitiv-Felder und die Nomenendungen."
+    instructionsEn: "Complete the full 4-case table. The Nominativ/Akkusativ/Dativ rows are given; fill in all Genitiv cells and the noun endings."
     columns: ["", "maskulin", "feminin", "neutral", "Plural"]
     rows:
       - label: "Nom."
@@ -164,7 +169,8 @@ exercises:
     layout: list
     skill: case-endings
     title: "Genitivartikel einsetzen (des/der/eines/einer/keines/keiner)"
-    instructions: "Fill each gap with the correct Genitiv article. Pay attention to gender."
+    instructions: "Ergänze in jeder Lücke den richtigen Genitivartikel. Achte auf das Genus."
+    instructionsEn: "Fill each gap with the correct Genitiv article. Pay attention to gender."
     text: |
       1. Das ist das Büro {1} Professors. (maskulin)
       2. Der Titel {2} Studie ist sehr lang. (feminin)
@@ -190,7 +196,8 @@ exercises:
     layout: list
     skill: case-endings
     title: "Nominalendung im Genitiv: -es oder -s?"
-    instructions: "Add the correct Genitiv ending to each noun in bold. Write the complete Genitiv form."
+    instructions: "Ergänze bei jedem fett gedruckten Nomen die richtige Genitivendung. Schreib die vollständige Genitivform."
+    instructionsEn: "Add the correct Genitiv ending to each noun in bold. Write the complete Genitiv form."
     text: |
       1. der Name des {1} (Vater)
       2. der Preis des {2} (Haus)
@@ -215,7 +222,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Genitivpräpositionen: wegen / trotz / während / statt"
-    instructions: "Fill each gap with the correct preposition and Genitiv article."
+    instructions: "Ergänze in jeder Lücke die richtige Präposition und den Genitivartikel."
+    instructionsEn: "Fill each gap with the correct preposition and Genitiv article."
     text: |
       1. {1} Regens blieben wir zu Hause. (because of — der Regen)
       2. {2} starken Lärms konnte ich nicht schlafen. (despite — der Lärm)
@@ -236,7 +244,8 @@ exercises:
     type: gap-text
     layout: list
     title: "n-Deklination im Genitiv"
-    instructions: "Fill each gap with the correct Genitiv form of the n-Deklination noun in parentheses."
+    instructions: "Ergänze in jeder Lücke die richtige Genitivform des Nomens (n-Deklination) in Klammern."
+    instructionsEn: "Fill each gap with the correct Genitiv form of the n-Deklination noun in parentheses."
     text: |
       1. Die Arbeit {1} ist sehr interessant. (der Journalist)
       2. Das Büro {2} liegt im zweiten Stock. (der Kollege)
@@ -257,7 +266,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Eigennamen im Genitiv"
-    instructions: "Write the correct Genitive form of the name in parentheses."
+    instructions: "Schreib die richtige Genitivform des Namens in Klammern."
+    instructionsEn: "Write the correct Genitive form of the name in parentheses."
     text: |
       1. Das ist {1} Buch. (Anna)
       2. Wir haben {2} Auto gesehen. (Paul)
@@ -278,7 +288,8 @@ exercises:
     type: gap-text
     layout: list
     title: "von + Dativ ↔ Genitiv: beide Formen"
-    instructions: "Transform each sentence into both forms: (a) Genitiv, (b) von + Dativ."
+    instructions: "Formuliere jeden Satz in beiden Formen: (a) Genitiv, (b) von + Dativ."
+    instructionsEn: "Transform each sentence into both forms: (a) Genitiv, (b) von + Dativ."
     text: |
       1a. Das ist das Auto {1}. (mein Vater — Genitiv)
       1b. Das ist das Auto {2}. (mein Vater — von + Dativ)
@@ -298,7 +309,8 @@ exercises:
     block: A
     type: order
     title: "Genitivphrasen zusammensetzen"
-    instructions: "Reconstruct each Genitiv noun phrase from the scrambled words."
+    instructions: "Bilde aus den durcheinandergewürfelten Wörtern die Nominalgruppe im Genitiv."
+    instructionsEn: "Reconstruct each Genitiv noun phrase from the scrambled words."
     items:
       - { tiles: ["des", "der", "Name", "Verkäufers"], answer: [1, 2, 0, 3] }
       - { tiles: ["Zustand", "Fahrrads", "des", "Der"], answer: [3, 0, 2, 1] }
@@ -309,7 +321,8 @@ exercises:
     block: A
     type: true-false
     title: "Ist die Genitivform richtig? (Richtig / Falsch)"
-    instructions: "Decide whether the underlined Genitiv form is correct (R) or wrong (F). If wrong, the correct form is in the solution."
+    instructions: "Entscheide, ob die unterstrichene Genitivform richtig (R) oder falsch (F) ist. Die richtige Form steht in der Lösung."
+    instructionsEn: "Decide whether the underlined Genitiv form is correct (R) or wrong (F). If wrong, the correct form is in the solution."
     items:
       - q: "wegen **des Regens** blieben wir zu Hause"
         answer: true
@@ -332,7 +345,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Gemischte Genitivübung — formelle Sätze"
-    instructions: "Fill each gap with the correct Genitiv form (article + noun ending where needed)."
+    instructions: "Ergänze in jeder Lücke die richtige Genitivform (Artikel + Nomenendung, wo nötig)."
+    instructionsEn: "Fill each gap with the correct Genitiv form (article + noun ending where needed)."
     text: |
       1. Der Autor {1} ist ein bekannter Philosoph. (das Buch)
       2. Wegen {2} konnte die Veranstaltung nicht stattfinden. (der Streik)
@@ -354,7 +368,8 @@ exercises:
     block: B
     type: gap-text
     title: "Lückendialog — akademisches Gespräch"
-    instructions: "Fill in the gaps in this formal academic exchange. Choose from the options in brackets."
+    instructions: "Ergänze die Lücken in diesem formellen Austausch an der Uni. Wähle aus den Optionen in Klammern."
+    instructionsEn: "Fill in the gaps in this formal academic exchange. Choose from the options in brackets."
     text: |
       Herr Steinmeyer: Haben Sie die Ergebnisse {1} (der Studie / dem Studie / des Studie) bereits ausgewertet?
       Yusuf: Ja, die Daten {2} (des Experiments / dem Experiment / der Experiments) sind sehr aufschlussreich.
@@ -375,7 +390,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Finde den Fehler — Dativ statt Genitiv"
-    instructions: "Each sentence contains a Genitiv error (Dativ used instead of Genitiv, or wrong noun ending). Write the corrected sentence."
+    instructions: "Jeder Satz enthält einen Genitivfehler (Dativ statt Genitiv oder falsche Nomenendung). Schreib den Satz richtig."
+    instructionsEn: "Each sentence contains a Genitiv error (Dativ used instead of Genitiv, or wrong noun ending). Write the corrected sentence."
     text: |
       1. Das ist das Auto vom Professor. (formal → Genitiv) {1}
       2. wegen dem schlechten Wetter blieben wir zu Hause {2}
@@ -396,6 +412,7 @@ exercises:
     type: single-choice
     title: "Die richtige Genitivform wählen"
     instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
     items:
       - q: "Das ist die Theorie ______."
         options:
@@ -444,7 +461,8 @@ exercises:
     block: B
     type: matching
     title: "Genitivpräposition zum richtigen Kontext"
-    instructions: "Match each preposition (left) to the sentence that uses it correctly (right)."
+    instructions: "Ordne jede Präposition (links) dem Satz zu, der sie richtig verwendet (rechts)."
+    instructionsEn: "Match each preposition (left) to the sentence that uses it correctly (right)."
     left:
       - { key: "1", text: "wegen" }
       - { key: "2", text: "trotz" }
@@ -466,7 +484,8 @@ exercises:
     block: B
     type: order
     title: "Formelle Sätze rekonstruieren"
-    instructions: "Reconstruct these formal sentences by arranging the tiles in the correct order."
+    instructions: "Bilde die formellen Sätze, indem du die Bausteine in die richtige Reihenfolge bringst."
+    instructionsEn: "Reconstruct these formal sentences by arranging the tiles in the correct order."
     items:
       - tiles: ["Wegen", "des", "Umbaus", "ist", "geschlossen", "die", "Mensa"]
         answer: [0, 1, 2, 3, 5, 6, 4]
@@ -482,7 +501,8 @@ exercises:
     type: gap-text
     layout: list
     title: "n-Deklination im Kontext"
-    instructions: "Fill each gap with the correct form of the n-Deklination noun in parentheses."
+    instructions: "Ergänze in jeder Lücke die richtige Form des Nomens (n-Deklination) in Klammern."
+    instructionsEn: "Fill each gap with the correct form of the n-Deklination noun in parentheses."
     text: |
       1. Das Buch {1} ist sehr bekannt. (der Philosoph — Genitiv)
       2. Wir haben den {2} nach dem Weg gefragt. (der Student — Akkusativ)
@@ -503,7 +523,8 @@ exercises:
     type: gap-text
     layout: list
     title: "von + Dativ → Genitiv (formelle Schreibweise)"
-    instructions: "Transform each informal phrase into formal Genitiv."
+    instructions: "Formuliere jede umgangssprachliche Wendung in einen formellen Genitiv um."
+    instructionsEn: "Transform each informal phrase into formal Genitiv."
     text: |
       1. das Buch von meinem Vater → das Buch {1}
       2. die Meinung von der Lehrerin → die Meinung {2}
@@ -523,7 +544,8 @@ exercises:
     block: B
     type: single-choice
     title: "Leseverständnis: Mietvertrag (Lesetext)"
-    instructions: "Based on the Lesetext (Mietvertrag), choose the correct answer."
+    instructions: "Wähle die richtige Antwort zum Lesetext (Mietvertrag)."
+    instructionsEn: "Based on the Lesetext (Mietvertrag), choose the correct answer."
     items:
       - q: "Was muss der Mieter wegen etwaiger Mängel tun?"
         options:
@@ -597,7 +619,8 @@ exercises:
     block: C
     type: gap-text
     title: "Lückentext — Mietvertrag (Lesetext)"
-    instructions: "Fill each gap with ONE word. The text is from the Lesetext (§ 3 Mietvertrag)."
+    instructions: "Ergänze in jeder Lücke EIN Wort. Der Text stammt aus dem Lesetext (§ 3 Mietvertrag)."
+    instructionsEn: "Fill each gap with ONE word. The text is from the Lesetext (§ 3 Mietvertrag)."
     text: |
       Während {1} Mietdauer ist der Mieter zur ordnungsgemäßen Pflege des Mietobjekts
       verpflichtet. Der Zustand {2} Wohnung ist bei Übergabe schriftlich festzuhalten.
@@ -625,6 +648,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1 — Genitiv in Kontext"
     instructions: "Wähle für jede Lücke die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c) for each gap."
     items:
       - q: "(1) Das ist das Ergebnis ______ langen Forschung."
         options:
@@ -673,7 +697,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 — Wortbank"
-    instructions: "Fill the 10 gaps. **Five words are not needed.**"
+    instructions: "Ergänze die 10 Lücken. **Fünf Wörter werden nicht gebraucht.**"
+    instructionsEn: "Fill the 10 gaps. **Five words are not needed.**"
     bankCase: upper
     bankSort: true
     text: |
@@ -709,6 +734,7 @@ exercises:
     type: true-false
     title: "Leseverstehen — Mietvertrag (Richtig/Falsch)"
     instructions: "Lies den Lesetext (Mietvertrag) noch einmal und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Read the Lesetext (tenancy agreement) again and decide: true (R) or false (F)?"
     items:
       - q: "Der Mieter muss den Zustand der Wohnung bei der Übergabe schriftlich dokumentieren."
         answer: true
@@ -749,6 +775,7 @@ exercises:
 
       Mit freundlichen Grüßen
       Das Bezirksamt
+    instructionsEn: "Read the following official letter and choose the correct answer."
     items:
       - q: "Warum werden die Parkplätze gesperrt?"
         options:
@@ -816,7 +843,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Schnelltest — Genitiv + Wiederholung"
-    instructions: "Fill each gap quickly. Labels show the source lesson where relevant."
+    instructions: "Ergänze die Lücken zügig. Die Angaben in eckigen Klammern nennen, wo nötig, die Lektion, aus der die Aufgabe stammt."
+    instructionsEn: "Fill each gap quickly. Labels show the source lesson where relevant."
     text: |
       1. Das ist das Büro _____ Direktors. [Genitiv maskulin] {1}
       2. wegen _____ Regens blieben wir drinnen [Genitiv maskulin] {2}
@@ -830,7 +858,7 @@ exercises:
       10. Das Auto _____ Studenten ist alt. [n-Dekl.] {10}
       11. Obwohl er müde war, ging er zur Arbeit. — Rewrite with 'trotz'. [B1/02] {11}
       12. Er blieb in Berlin, weil er Arbeit hatte. — Rewrite with 'deshalb'. [B1/02] {12}
-      13. _____ etwas zu beschreiben, benutzt man Adjektive. (um ... zu) [B1/06] {13}
+      13. _____ etwas zu beschreiben, benutzt man Adjektive. (purpose, Infinitiv mit zu) [B1/06] {13}
       14. Er hat das Buch gelesen. — Passiv Präsens [B1/04] {14}
       15. Er hat ein Fahrrad gekauft. — Relativsatz: Das ist das Fahrrad, _____ er gekauft hat. [B1/05] {15}
     answers:
@@ -849,6 +877,16 @@ exercises:
       "13": "Um"
       "14": "Das Buch wird gelesen."
       "15": "das"
+    alts:
+      "4":
+        - word: "der"
+          note: "der + -en is also correct if read as plural (Genitiv Plural)."
+      "9":
+        - word: "der"
+          note: "der + -en is also correct if read as plural (Genitiv Plural)."
+      "10":
+        - word: "der"
+          note: "der + -en is also correct if read as plural (Genitiv Plural)."
 
   - id: D2
     block: D
@@ -879,7 +917,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Rückblick — B1/05 (Relativsätze) + B1/04 (Passiv)"
-    instructions: "Fill each gap. Labels show the source lesson."
+    instructions: "Ergänze die Lücken. Die Angaben in eckigen Klammern nennen die Lektion, aus der die Aufgabe stammt."
+    instructionsEn: "Fill each gap. Labels show the source lesson."
     text: |
       1. Das ist das Buch, _____ ich dir empfohlen habe. [B1/05 — Relativpronomen Akk.] {1}
       2. Das ist die Ärztin, _____ in der Notaufnahme arbeitet. [B1/05 — Relativpronomen Nom.] {2}
@@ -909,6 +948,7 @@ exercises:
     layout: list
     title: "Selbsttest — 20 Punkte"
     instructions: "Fülle die Lücken aus. Ziel: 16+/20 Punkte."
+    instructionsEn: "Fill in the gaps. Target: 16+/20 points."
     notes: "16+ / 20 → proceed to B1/08. Below 16: redo A2–A5 tomorrow, then retest D4."
     text: |
       1. Die Arbeit _____ Studenten ist fertig. [Genitiv n-Dekl.] {1}
@@ -952,3 +992,13 @@ exercises:
       "18": "des"
       "19": "des"
       "20": "Max'"
+    alts:
+      "1":
+        - word: "der"
+          note: "der + -en is also correct if read as plural (Genitiv Plural)."
+      "9":
+        - word: "der"
+          note: "der + -en is also correct if read as plural (Genitiv Plural)."
+      "19":
+        - word: "der"
+          note: "der + -en is also correct if read as plural (Genitiv Plural)."

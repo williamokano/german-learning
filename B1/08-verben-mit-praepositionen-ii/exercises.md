@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Mia interessiert sich normalerweise sehr für Dramen. ( )
 2. Tomáš hat den ganzen Abend an den Film gedacht. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Wofür interessiert sich Anna laut Dialog B?  a) Für digitales Projektmanagement und internationale Teamarbeit.  b) Für Finanzprojekte und Buchhaltung.  c) Für Marketing und Social Media.
 2. Worauf verlässt sich Anna, wenn sie unter Druck arbeitet?  a) Auf ihr Netzwerk und ihre Kontakte.  b) Auf klare Strukturen und frühe Prioritätensetzung.  c) Auf ihre Erfahrung in der Buchhaltung.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext (Pavel's call to Mia) and fill in the 6 missing words. Three words in the box are not needed.
+Höre den Hörtext (Pavels Anruf bei Mia) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Pavel ruft Mia an, um ihr von einem neuen Kurs zu erzählen. Er beschäftigt
 > sich schon seit Wochen (1) ______, die richtige Ausbildung zu finden. Er freut sich
@@ -48,7 +48,7 @@ Listen to the Hörtext (Pavel's call to Mia) and fill in the 6 missing words. Th
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to Tomáš's voicemail to Pavel. Then choose the correct answer (a, b, or c).
+Höre Tomášs Nachricht auf Pavels Mailbox. Wähle dann die richtige Antwort (a, b oder c).
 
 1. Warum ruft Tomáš an?  a) Weil er sich um das nächste Treffen kümmern möchte.  b) Weil er einen Film empfehlen möchte.  c) Weil er eine Frage zu Pavels Kurs hat.
 2. Worüber denkt Tomáš oft nach?  a) Über seinen nächsten Job.  b) Über das Gespräch beim letzten Filmabend.  c) Über seinen Urlaub in Prag.
@@ -72,7 +72,7 @@ Listen to Tomáš's voicemail to Pavel. Then choose the correct answer (a, b, or
 
 ## Übung A1 — Verben mit Präpositionen — richtige Präposition wählen
 
-Fill in the correct preposition. Choose from: an, auf, für, mit, über, um, von, vor, zu. 10 items.
+Ergänze die richtige Präposition. Wähle aus: an, auf, für, mit, über, um, von, vor, zu. 10 Sätze.
 
 1. Ich denke oft (1) ______ meinen Urlaub.
 2. Sie wartet schon lange (2) ______ eine Antwort.
@@ -87,7 +87,7 @@ Fill in the correct preposition. Choose from: an, auf, für, mit, über, um, von
 
 ## Übung A2 — Kasus nach Präposition — Artikel ergänzen
 
-Fill in the correct article (definite or indefinite) after the preposition. Watch the case! 8 items.
+Ergänze nach der Präposition den richtigen Artikel (bestimmt oder unbestimmt). Achte auf den Kasus! 8 Sätze.
 
 1. Ich denke an ___ Film (m). → Ich denke an (1) ______ Film.
 2. Sie wartet auf ___ Antwort (f). → Sie wartet auf (2) ______ Antwort.
@@ -100,7 +100,7 @@ Fill in the correct article (definite or indefinite) after the preposition. Watc
 
 ## Übung A3 — Verben sortieren — welche Präposition?
 
-Sort each verb into the correct preposition category.
+Ordne jedes Verb der richtigen Präpositionsgruppe zu.
 
 > denken · sich erinnern · warten · sich verlassen · reagieren · sich freuen (Zukunft) · sprechen · sich ärgern · nachdenken · träumen · abhängen · überzeugt sein · sich interessieren · sich bedanken · sorgen
 
@@ -110,7 +110,7 @@ Sort each verb into the correct preposition category.
 
 ## Übung A4 — Pronominaladverb bilden: `da(r)- + Präposition`
 
-Replace the underlined phrase with the correct Pronominaladverb. 10 items.
+Ersetze den unterstrichenen Ausdruck durch das richtige Pronominaladverb. 10 Sätze.
 
 1. Ich denke an den Film. → Ich denke (1) ______.
 2. Ich warte auf die Antwort. → Ich warte (2) ______.
@@ -125,7 +125,7 @@ Replace the underlined phrase with the correct Pronominaladverb. 10 items.
 
 ## Übung A5 — `wo(r)- + Präposition` — Fragen bilden
 
-Form the correct `wo(r)-` question word for the underlined element. 8 items.
+Bilde für den unterstrichenen Satzteil das richtige Fragewort mit `wo(r)-`. 8 Sätze.
 
 1. Ich denke an den Urlaub. → (1) ______ denkst du?
 2. Ich warte auf den Bus. → (2) ______ wartest du?
@@ -138,7 +138,7 @@ Form the correct `wo(r)-` question word for the underlined element. 8 items.
 
 ## Übung A6 — Person oder Sache? Richtig oder Falsch?
 
-Is the pronoun/Pronominaladverb used correctly? Answer Richtig (R) oder Falsch (F).
+Ist das Pronomen bzw. Pronominaladverb richtig verwendet? Antworte mit Richtig (R) oder Falsch (F).
 
 1. Ich denke daran, dass Pavel kommt. (Pavel = person → daran) ( )
 2. Ich denke daran, den Film zu sehen. (den Film = thing → daran) ( )
@@ -149,7 +149,7 @@ Is the pronoun/Pronominaladverb used correctly? Answer Richtig (R) oder Falsch (
 
 ## Übung A7 — Anticipatory `da(r)-` + `dass`-Satz
 
-Fill in the correct Pronominaladverb before the dass-clause. 8 items.
+Ergänze vor dem dass-Satz das richtige Pronominaladverb. 8 Sätze.
 
 1. Ich freue mich _____, dass du kommst. (sich freuen über)
    → Ich freue mich (1) ______, dass du kommst.
@@ -170,7 +170,7 @@ Fill in the correct Pronominaladverb before the dass-clause. 8 items.
 
 ## Übung A8 — Anticipatory `da(r)-` + `zu`-Infinitiv
 
-Fill in the correct Pronominaladverb before the zu-Infinitive phrase. 6 items.
+Ergänze vor der Infinitivgruppe mit zu das richtige Pronominaladverb. 6 Sätze.
 
 1. Ich freue mich _____, dich wiederzusehen. (sich freuen auf)
    → Ich freue mich (1) ______, dich wiederzusehen.
@@ -187,7 +187,7 @@ Fill in the correct Pronominaladverb before the zu-Infinitive phrase. 6 items.
 
 ## Übung A9 — Verb + Präposition kombinieren
 
-Match each verb (1–8) with its fixed preposition (a–j). Two right-side options are not needed.
+Verbinde jedes Verb (1–8) mit seiner festen Präposition (a–j). Zwei Optionen rechts werden nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -204,7 +204,7 @@ Match each verb (1–8) with its fixed preposition (a–j). Two right-side optio
 
 ## Übung A10 — Satzbau: Satz mit Pronominaladverb richtig ordnen
 
-Put the words in the correct order.
+Bring die Wörter in die richtige Reihenfolge.
 
 1. darauf – , – freue – zu – sehen – Film – Ich – mich – den
 2. kommt – Es – bist – pünktlich – darauf – , – dass – du – an
@@ -214,7 +214,7 @@ Put the words in the correct order.
 
 ## Übung A11 — `sich freuen auf` vs. `sich freuen über` — richtig wählen
 
-Choose `darauf` or `darüber` and the correct preposition. 6 items.
+Wähle `darauf` oder `darüber` und die richtige Präposition. 6 Sätze.
 
 1. Das Konzert ist morgen — ich freue mich _____! (future event)
    → Ich freue mich (1) ______!
@@ -235,7 +235,7 @@ Choose `darauf` or `darüber` and the correct preposition. 6 items.
 
 ## Übung B1 — Pronominaladverbien im Dialog — Gespräch über den Film
 
-Fill in the correct Pronominaladverb. Context: Mia, Pavel und Tomáš nach dem Film. 8 items.
+Ergänze das richtige Pronominaladverb. Kontext: Mia, Pavel und Tomáš nach dem Film. 8 Sätze.
 
 Mia: Ich habe mich sehr (1) ______ gefreut, diesen Film mit euch zu sehen. (über)
 Tomáš: Ich auch! Ich denke schon die ganze Zeit (2) ______. (an den Film)
@@ -248,7 +248,7 @@ Tomáš: Ich träume (8) ______, einen Film wie diesen selbst zu drehen. (von)
 
 ## Übung B2 — Person oder Sache? Richtige Form wählen
 
-Choose the correct form (a, b, or c).
+Wähle die richtige Form (a, b oder c).
 
 1. _____ wartest du? — Auf meinen Bruder.  a) Auf wen  b) Worauf  c) Auf was
 2. _____ wartest du? — Auf den nächsten Zug.  a) Auf wen  b) Worauf  c) Was
@@ -259,7 +259,7 @@ Choose the correct form (a, b, or c).
 
 ## Übung B3 — Finde den Fehler — Pronominaladverbien
 
-Each sentence contains exactly one error. Find it and write the corrected sentence. 6 items.
+Jeder Satz enthält genau einen Fehler. Finde ihn und schreib den Satz richtig. 6 Sätze.
 
 1. Ich denke daran ihm. (ihm = eine Person!)
    Korrektur: (1) ______
@@ -276,7 +276,7 @@ Each sentence contains exactly one error. Find it and write the corrected senten
 
 ## Übung B4 — Satzbau: `da(r)-` + `dass`-Satz / `zu`-Infinitiv
 
-Put the words in the correct order.
+Bring die Wörter in die richtige Reihenfolge.
 
 1. , – darauf – mich – Tomáš – freue – wiederzusehen – Ich
 2. Ich – klappt – davon – Projekt – das – bin – , – dass – überzeugt
@@ -285,7 +285,7 @@ Put the words in the correct order.
 
 ## Übung B5 — Umformung: Satz mit Nomen → Satz mit Pronominaladverb
 
-Replace the underlined prepositional phrase with the correct Pronominaladverb. Rewrite the full sentence. 6 items.
+Ersetze die unterstrichene Präpositionalgruppe durch das richtige Pronominaladverb. Schreib den ganzen Satz neu. 6 Sätze.
 
 1. Ich freue mich auf das Wochenende.
    → Ich freue mich (1) ______.
@@ -302,7 +302,7 @@ Replace the underlined prepositional phrase with the correct Pronominaladverb. R
 
 ## Übung B6 — Dialog ergänzen: Interview-Sprache mit Pronominaladverbien
 
-Fill in the 8 blanks with the correct Pronominaladverb or wo(r)-form. Context: Anna's job interview.
+Ergänze die 8 Lücken mit dem richtigen Pronominaladverb oder der richtigen wo(r)-Form. Kontext: Annas Vorstellungsgespräch.
 
 Frau Weber: (1) ______ interessieren Sie sich in Ihrer Arbeit am meisten?
 Anna: Ich interessiere mich (2) ______, Projekte zu koordinieren und Teams zu verbinden.
@@ -315,7 +315,7 @@ Anna: Ich sorge (8) ______, dass die Deadlines eingehalten werden.
 
 ## Übung B7 — Frage und Antwort verbinden
 
-Match each question (1–6) with the correct answer (a–g). One answer is not needed.
+Verbinde jede Frage (1–6) mit der passenden Antwort (a–g). Eine Antwort wird nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -329,7 +329,7 @@ Match each question (1–6) with the correct answer (a–g). One answer is not n
 
 ## Übung B8 — Leseverstehen: Annas Interview (Lesetext §7)
 
-Answer each question with a full sentence using a Pronominaladverb. 5 items.
+Beantworte jede Frage mit einem ganzen Satz mit Pronominaladverb. 5 Fragen.
 
 1. Worüber hat sich Anna in ihrem ersten Jahr gefreut?
    → Sie hat sich (1) ______ gefreut, dass ihr Team ihr vertraut hat.
@@ -371,7 +371,7 @@ Self-check:
 
 ## Übung C1 — Lückentext: Annas Interview
 
-Fill each gap with one word. 10 gaps.
+Ergänze in jeder Lücke ein Wort. 10 Lücken.
 
 Anna Kowalski arbeitet seit einem Jahr als Junior-Projektkoordinatorin in
 Berlin. Im Interview erklärt sie, (1) ______ sie sich in ihrem ersten Jahr am
@@ -390,7 +390,7 @@ zu stellen. Sie interessiert sich sehr (10) ______ offene Lernkulturen in Untern
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle für jede Lücke die richtige Option (a, b oder c).
 
 1. Ich freue mich ______ dich wiederzusehen.  a) darüber,  b) darauf,  c) daran,
 2. Es kommt ______ an, dass alle mitmachen.  a) davon  b) daran  c) darauf
@@ -401,7 +401,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Fill the 10 gaps. Five words are not needed.
+Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht.
 
 > Anna hat sich (1) ______ beworben, weil sie sich (2) ______ Projektmanagement interessiert.
 > Im Gespräch erklärt sie, (3) ______ sie sich (4) ______ verlassen kann, strukturiert zu
@@ -444,7 +444,7 @@ Richtig (R) oder Falsch (F)?
 
 ## Übung C4b — Leseverstehen: Pressemitteilung (neuer Text)
 
-Read the text below. Choose the correct answer (a, b, or c).
+Lies den Text unten. Wähle die richtige Antwort (a, b oder c).
 
 1. Worüber freut sich TechStart Berlin?  a) Darüber, die Stelle bekannt zu geben.  b) Über eine neue Partnerschaft mit einer ausländischen Firma.  c) Darüber, dass alle Stellen besetzt sind.
 2. Woraus besteht die neue Stelle hauptsächlich?  a) Aus der Leitung von Marketing-Kampagnen.  b) Aus der Koordination von Teams in vier Ländern.  c) Aus der Entwicklung neuer Software.
@@ -473,11 +473,11 @@ Self-check:
 
 ## Übung D1 — Schnelltest: Verben mit Präpositionen + Pronominaladverbien + Wiederholung
 
-Fill in the correct word or form. Items 13–15 review B1/06 (Infinitiv mit zu) and B1/05 (Relativsätze). 15 items.
+Ergänze das richtige Wort oder die richtige Form. Aufgaben 13–15 wiederholen B1/06 (Infinitiv mit zu) und B1/05 (Relativsätze). 15 Aufgaben.
 
-1. Ich denke oft ___ die Reise. → Ich denke oft (1) ______ die Reise. (Präposition: an)
-2. Wir warten ___ eine Antwort. → Wir warten (2) ______ eine Antwort. (Präposition: auf)
-3. Sie interessiert sich ___ das Thema. → Sie interessiert sich (3) ______ das Thema. (Präposition: für)
+1. Ich denke oft ___ die Reise. → Ich denke oft (1) ______ die Reise. (Präposition)
+2. Wir warten ___ eine Antwort. → Wir warten (2) ______ eine Antwort. (Präposition)
+3. Sie interessiert sich ___ das Thema. → Sie interessiert sich (3) ______ das Thema. (Präposition)
 4. Ich denke ___ (the trip — Pronominaladverb). → Ich denke (4) ______.
 5. Ich freue mich ___ (the weekend — future, Pronominaladverb). → Ich freue mich (5) ______.
 6. ___ wartest du? — Auf den Bus. (wo(r)-form for thing) → (6) ______ wartest du?
@@ -486,31 +486,31 @@ Fill in the correct word or form. Items 13–15 review B1/06 (Infinitiv mit zu) 
 9. Ich bin ___ überzeugt, dass sie recht hat. (Pronominaladverb: von) → Ich bin (9) ______ überzeugt.
 10. Ich ärgere mich ___, dass der Film kein Ende hatte. (Pronominaladverb: über) → Ich ärgere mich (10) ______.
 11. ___ hängt der Erfolg ab? — Von der Kommunikation. (wo(r)-form) → (11) ______ hängt der Erfolg ab?
-12. Ich kümmere mich ___ das Kind. → Ich kümmere mich (12) ______ das Kind. (Präposition: um + Akk)
+12. Ich kümmere mich ___ das Kind. → Ich kümmere mich (12) ______ das Kind. (Präposition + Akk)
 13. (B1/06) Ich hoffe, die Prüfung (13) ______. (bestehen — Infinitiv mit zu)
-14. (B1/05) Das ist das Thema, ___ wir gesprochen haben. (Relativpronomen + Präp: über das) → (14) ______
-15. (B1/05) Die Kollegin, ___ ich vertraue, heißt Mia. (Relativpronomen Dat: der) → (15) ______
+14. (B1/05) Das ist das Thema, ___ wir gesprochen haben. (Relativpronomen + Präposition — sprechen über) → (14) ______
+15. (B1/05) Die Kollegin, ___ ich vertraue, heißt Mia. (Relativpronomen, Dativ) → (15) ______
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
 
-Circle the word or phrase that does not belong. 6 groups.
+Streiche das Wort oder den Ausdruck, das/der nicht passt. 6 Gruppen.
 
 1. denken an – träumen von – warten auf – schlafen
 2. daran – darüber – darauf – daher
 3. worauf – womit – worüber – warum
-4. sich freuen auf – sich freuen über – sich ärgern über – sich freuen an
-5. sich kümmern um – abhängen von – bestehen auf – kommen auf
+4. sich freuen auf – sich freuen über – sich ärgern über – sich interessieren an
+5. sich kümmern um – abhängen von – bestehen auf – besuchen
 6. Ich denke daran. – Ich warte darauf. – Ich freue mich darüber. – Ich denke daran ihn.
 
 ## Übung D3 — Rückblick: B1/07 (Genitiv) und B1/06 (Infinitiv mit zu)
 
-Fill in the correct form. Items 1–5 review B1/07 (Genitiv); items 6–10 review B1/06 (Infinitiv mit zu). 10 items.
+Ergänze die richtige Form. Aufgaben 1–5 wiederholen B1/07 (Genitiv), Aufgaben 6–10 B1/06 (Infinitiv mit zu). 10 Aufgaben.
 
 B1/07 — Genitiv:
 1. Das ist das Büro (1) ______ Chefin. (die Chefin — Genitiv)
 2. Wegen (2) ______ schlechten Wetters bleiben wir zu Hause. (das Wetter — Genitiv nach wegen)
 3. Trotz (3) ______ langen Meetings hat er alles geschafft. (das Meeting — Genitiv nach trotz)
-4. Das ist die Entscheidung (4) ______ Teams. (das Team — Genitiv, n-Dekl. check: das Team, -s)
+4. Das ist die Entscheidung (4) ______ Teams. (das Team — Genitiv)
 5. Während (5) ______ Sitzung darf man nicht telefonieren. (die Sitzung — Genitiv nach während)
 
 B1/06 — Infinitiv mit zu:
@@ -518,11 +518,11 @@ B1/06 — Infinitiv mit zu:
 7. Sie hofft, bald fertig (7) ______. (sein)
 8. Pavel beschließt, öfter (8) ______. (üben)
 9. Ich habe vor, morgen früh (9) ______. (aufstehen — separable!)
-10. Frau Weber empfiehlt (10) ______, die Richtlinien zu lesen. (formal Dativ: Ihnen)
+10. Frau Weber empfiehlt (10) ______, die Richtlinien zu lesen. (Sie-Form, Dativ)
 
 ## Übung D4 — Selbsttest: Verben mit Präpositionen + Pronominaladverbien (20 Punkte)
 
-Fill in the correct form. 1 point per gap. 20 items.
+Ergänze die richtige Form. 1 Punkt pro Lücke. 20 Aufgaben.
 
 1. Ich denke oft ___ meinen letzten Urlaub. (Präposition) → (1) ______
 2. Wir sprechen ___ das neue Thema. (Präposition) → (2) ______

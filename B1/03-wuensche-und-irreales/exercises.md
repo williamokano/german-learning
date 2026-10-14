@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Mia fragt, wohin Anna und Bruno ziehen würden, wenn sie könnten. ( )
 2. Anna würde nach Tokio ziehen. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Was wünscht sich Anna im Gespräch mit Herr Steinmeyer?  a) Mehr Praxiserfahrung im Studium.  b) Mehr Urlaub.  c) Eine neue Stelle.
 2. Was empfiehlt Herr Steinmeyer als ersten Schritt?  a) Sofort kündigen und in die Forschung gehen.  b) Prüfen, ob das Unternehmen Mobilitätsprogramme anbietet.  c) Ein Auslandspraktikum sofort absolvieren.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext (Bruno's call to Yuki) and fill in the 6 missing words. Three words in the box are not needed.
+Höre den Hörtext (Brunos Anruf bei Yuki) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Hallo Yuki, hier ist Bruno! Ich hoffe, du bist gut angekommen. Ich wollte
 > dich mal fragen: Wenn du für immer irgendwo auf der Welt leben (1) ______ —
@@ -49,7 +49,7 @@ Listen to the Hörtext (Bruno's call to Yuki) and fill in the 6 missing words. T
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to Anna's voice message to Mia. Then choose the correct answer (a, b, or c).
+Höre die Sprachnachricht von Anna an Mia. Wähle dann die richtige Antwort (a, b oder c).
 
 1. Warum ruft Anna an?  a) Um zu sagen, dass sie nicht mitkommen kann.  b) Um zu fragen, ob sie mitkommen darf.  c) Um den Ausflug abzusagen.
 2. Warum kann Anna nicht mitfahren?  a) Weil sie krank ist.  b) Weil sie zu viel Arbeit hat.  c) Weil sie kein Ticket hat.
@@ -73,7 +73,7 @@ Listen to Anna's voice message to Mia. Then choose the correct answer (a, b, or 
 
 ## Übung A1 — `würde + Infinitiv` — Konjugationstabelle
 
-Fill in the `würde`-forms. Three verbs, one row each.
+Ergänze die `würde`-Formen. Drei Verben, eine Zeile pro Verb.
 
 | ich | du | er/sie/es | wir | ihr | sie/Sie |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@ Fill in the `würde`-forms. Three verbs, one row each.
 
 ## Übung A2 — Starke Konjunktiv II-Formen
 
-Fill in all 6 persons for each strong Konjunktiv II form.
+Ergänze für jede starke Konjunktiv-II-Form alle 6 Personen.
 
 | ich | du | er/sie/es | wir | ihr | sie/Sie |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@ Fill in all 6 persons for each strong Konjunktiv II form.
 
 ## Übung A3 — `würde + Infinitiv` — Schwache Verben einsetzen
 
-Fill each gap with the correct `würde + Infinitiv` form (weak verbs). 8 items.
+Ergänze in jeder Lücke die richtige Form von `würde + Infinitiv` (schwache Verben). 8 Sätze.
 
 1. Wenn ich mehr Zeit hätte, ______ ich einen Kurs ______. (machen)
 2. Anna ______ gern nach Lissabon ______. (ziehen)
@@ -109,7 +109,7 @@ Fill each gap with the correct `würde + Infinitiv` form (weak verbs). 8 items.
 
 ## Übung A4 — Starke Formen einsetzen — kein `würde sein` oder `würde haben`!
 
-Fill each gap with the correct strong Konjunktiv II form (wäre/hätte/könnte/müsste/dürfte/sollte). 8 items.
+Ergänze in jeder Lücke die richtige starke Konjunktiv-II-Form (wäre/hätte/könnte/müsste/dürfte/sollte). 8 Sätze.
 
 1. Wenn Anna freier ______, würde sie reisen.
 2. Ich ______ gern mehr Zeit — dann würde ich sofort beginnen.
@@ -122,7 +122,7 @@ Fill each gap with the correct strong Konjunktiv II form (wäre/hätte/könnte/m
 
 ## Übung A5 — Irreale Bedingungssätze — Hauptsatz ergänzen
 
-Fill in the main clause with the correct `würde + Infinitiv` form. 6 items.
+Ergänze im Hauptsatz die richtige Form von `würde + Infinitiv`. 6 Sätze.
 
 1. Wenn ich mehr Geld hätte, ______ ich eine Reise nach Japan ______. (buchen)
 2. Wenn Bruno Zeit hätte, ______ er jeden Tag Fotos ______. (machen)
@@ -133,7 +133,7 @@ Fill in the main clause with the correct `würde + Infinitiv` form. 6 items.
 
 ## Übung A6 — Irreale Bedingungssätze — Wenn-Satz ergänzen (starke Form)
 
-Fill in the wenn-clause with the correct strong Konjunktiv II form. 6 items.
+Ergänze im wenn-Satz die richtige starke Konjunktiv-II-Form. 6 Sätze.
 
 1. Wenn ich mehr Zeit ______, würde ich einen Sprachkurs machen. (haben)
 2. Wenn Bruno in Tokio ______, würde er als Fotograf arbeiten. (sein)
@@ -144,7 +144,7 @@ Fill in the wenn-clause with the correct strong Konjunktiv II form. 6 items.
 
 ## Übung A7 — Ratschläge geben — `An deiner Stelle` / `Du solltest`
 
-Complete the advice sentences using the structure given in brackets. 6 items.
+Ergänze die Ratschläge mit der Struktur in Klammern. 6 Sätze.
 
 1. [Du solltest] Du ______ dich sofort bei einem Kurs ______. (anmelden)
 2. [An deiner Stelle] An deiner Stelle ______ ich das sofort ______. (ausprobieren)
@@ -155,7 +155,7 @@ Complete the advice sentences using the structure given in brackets. 6 items.
 
 ## Übung A8 — Satzbau: Konjunktiv II-Sätze in die richtige Reihenfolge
 
-Put the words in the correct order to form a Konjunktiv II sentence.
+Bring die Wörter in die richtige Reihenfolge, sodass ein Satz im Konjunktiv II entsteht.
 
 1. nach – gehen – würde – ich – ich – wenn – könnte – Tokio
 2. sofort – anmelden – solltest – dich – Du
@@ -164,7 +164,7 @@ Put the words in the correct order to form a Konjunktiv II sentence.
 
 ## Übung A9 — Transformation: Präsens → Konjunktiv II
 
-Transform each present-tense sentence into Konjunktiv II with `würde + Infinitiv`. 6 items.
+Setze jeden Satz im Präsens in den Konjunktiv II mit `würde + Infinitiv`. 6 Sätze.
 
 1. Er kommt. → Er ______ kommen.
 2. Sie schreibt einen Brief. → Sie ______ einen Brief ______.
@@ -175,7 +175,7 @@ Transform each present-tense sentence into Konjunktiv II with `würde + Infiniti
 
 ## Übung A10 — Grammatik-Check: Richtig oder falsch?
 
-Is the Konjunktiv II form used correctly? Answer R (richtig) oder F (falsch).
+Ist die Konjunktiv-II-Form richtig verwendet? Antworte mit R (richtig) oder F (falsch).
 
 1. Wenn ich frei wäre, würde ich reisen. ( )
 2. Wenn ich würde frei sein, würde ich reisen. ( )
@@ -202,7 +202,7 @@ Fülle die Lücken mit den passenden Konjunktiv II-Formen. 8 Lücken.
 
 ## Übung B2 — Finde den Fehler — Konjunktiv II
 
-Each sentence has one Konjunktiv II error. Find it and write the corrected sentence. 6 items.
+Jeder Satz hat einen Fehler im Konjunktiv II. Finde ihn und schreib den Satz richtig. 6 Sätze.
 
 1. Wenn ich würde mehr Zeit haben, würde ich reisen.
    Korrekt: ______
@@ -230,7 +230,7 @@ Wähle die richtige Antwort (a, b oder c).
 
 ## Übung B4 — Wunsch-Anfänge und Schlüsse verbinden
 
-Match each sentence beginning (1–6) with the correct ending (a–g). One ending is not needed.
+Verbinde jeden Satzanfang (1–6) mit dem passenden Satzende (a–g). Ein Satzende wird nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -253,7 +253,7 @@ Bringe die Wörter in die richtige Reihenfolge.
 
 ## Übung B6 — Einem Freund einen Ratschlag geben
 
-Complete each piece of advice using `solltest`, `würde` or `wäre`. 6 items.
+Ergänze jeden Ratschlag mit `solltest`, `würde` oder `wäre`. 6 Sätze.
 
 1. Du ______ dir mehr Zeit für dich selbst nehmen.
 2. An deiner Stelle ______ ich sofort mit dem Kurs anfangen.
@@ -264,7 +264,7 @@ Complete each piece of advice using `solltest`, `würde` or `wäre`. 6 items.
 
 ## Übung B7 — Umformung: Sätze mit vorgegebener Konjunktiv II-Struktur umschreiben
 
-Rewrite each sentence using the structure given in brackets. 6 items.
+Formuliere jeden Satz mit der Struktur in Klammern um. 6 Sätze.
 
 1. Ich habe keine Zeit, deshalb kann ich nicht kommen.
    [Wenn … , würde …] → ______
@@ -328,7 +328,7 @@ Self-check:
 
 ## Übung C1 — Lückentext: Was ich mir für die Zukunft wünsche
 
-Fill each gap with one word. 10 gaps.
+Ergänze in jeder Lücke ein Wort. 10 Lücken.
 
 Manchmal frage ich mich, was ich anders machen (1) (1) ______, wenn ich noch einmal
 von vorne anfangen (2) (2) ______. Ich wünschte, ich (3) (3) ______ schon früher Deutsch
@@ -441,27 +441,27 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One word per gap. Items marked (B1/02) or (A2/09) review earlier lessons. 15 items.
+Ein Wort pro Lücke. Aufgaben mit (B1/02) oder (A2/09) wiederholen frühere Lektionen. 15 Aufgaben.
 
 1. Fill in: Wenn ich frei ______, würde ich reisen. (strong KII of sein)
 2. Fill in: Ich wünschte, ich ______ mehr Zeit. (strong KII of haben)
-3. Fill in: An deiner Stelle ______ ich das sofort machen. (würde)
-4. Fill in: Du ______ dich bei einem Kurs anmelden. (solltest — advice)
+3. Fill in: An deiner Stelle ______ ich das sofort machen. (werden — KII)
+4. Fill in: Du ______ dich bei einem Kurs anmelden. (sollen — advice)
 5. Fill in: Wenn wir nicht so viel arbeiten ______, würden wir öfter reisen. (strong KII of müssen)
 6. Fill in: Wenn Anna in Tokio ______, würde sie Japanisch lernen. (strong KII of sein)
 7. Fill in strong KII of können, ich-form: ______
 8. Fill in strong KII of dürfen, wir-form: ______
 9. (A2/09) Polite request: Könnten Sie mir bitte helfen? — the verb form here is a _____ II form. Fill in: ______
-10. (A2/09) Fill in: Ich ______ gern einen Kaffee. (hätte — polite wish)
-11. (B1/02) Fill in the connector: Er bleibt in Berlin, ______ er Prag liebt. (obwohl)
-12. (B1/02) Fill in: Sie hat keine Zeit. ______ kommt sie nicht. (deshalb — V2)
-13. Fill in: Wenn man immer wartet, ______ man am Ende nie etwas machen. (würde)
-14. Fill in: Es ______ besser, wenn du früher anfängst. (wäre — advice)
-15. Fill in: Ich ______ dir empfehlen, einen Kurs zu machen. (würde)
+10. (A2/09) Fill in: Ich ______ gern einen Kaffee. (haben — polite wish)
+11. (B1/02) Fill in the connector: Er bleibt in Berlin, ______ er Prag liebt. (although)
+12. (B1/02) Fill in: Sie hat keine Zeit. ______ kommt sie nicht. (that's why — V2)
+13. Fill in: Wenn man immer wartet, ______ man am Ende nie etwas machen. (werden — KII)
+14. Fill in: Es ______ besser, wenn du früher anfängst. (sein — advice)
+15. Fill in: Ich ______ dir empfehlen, einen Kurs zu machen. (werden — KII)
 
 ## Übung D2 — Welches Wort passt nicht?
 
-Cross out the word that does not fit and explain why.
+Streiche das Wort, das nicht passt, und erkläre, warum.
 
 1. wäre – hätte – würde – könnte
 2. solltest – müsstest – dürftest – wärst
@@ -472,45 +472,45 @@ Cross out the word that does not fit and explain why.
 
 ## Übung D3 — Rückblick: A2/09 und B1/02
 
-Review of earlier lessons. 10 items.
+Wiederholung früherer Lektionen. 10 Aufgaben.
 
 **Aus A2/09 (Konjunktiv II für höfliche Bitten und Wünsche):**
-1. (A2/09) Höfliche Bitte: ______ Sie mir bitte helfen? (könnten)
-2. (A2/09) Politer Wunsch: Ich ______ gern einen Tisch für zwei. (hätte)
-3. (A2/09) Fill in: ______ Sie mir sagen, wie spät es ist? (würden — polite)
-4. (A2/09) Fill in: Das ______ ich sehr nett finden. (würde — polite would)
-5. (A2/09) Polite refusal: Das ______ mir leider nicht möglich sein. (wäre)
+1. (A2/09) Höfliche Bitte: ______ Sie mir bitte helfen? (können)
+2. (A2/09) Höflicher Wunsch: Ich ______ gern einen Tisch für zwei. (haben)
+3. (A2/09) Fill in: ______ Sie mir sagen, wie spät es ist? (werden — polite)
+4. (A2/09) Fill in: Das ______ ich sehr nett finden. (werden — polite)
+5. (A2/09) Polite refusal: Das ______ mir leider nicht möglich. (sein)
 
 **Aus B1/02 (Gegensätze und Folgen: obwohl, trotzdem, deshalb):**
-6. (B1/02) Fill in: Obwohl sie müde ______, arbeitet sie weiter. (ist)
-7. (B1/02) Fill in: Er hat keine Zeit. ______ kommt er nicht. (Trotzdem)
-8. (B1/02) Fill in: Sie liebt Berlin. ______ ist sie dort geblieben. (Deshalb)
+6. (B1/02) Fill in: Obwohl sie müde ______, arbeitet sie weiter. (sein)
+7. (B1/02) Fill in: Er hat keine Zeit. ______ kommt er zur Party. (nevertheless)
+8. (B1/02) Fill in: Sie liebt Berlin. ______ ist sie dort geblieben. (that's why)
 9. (B1/02) Fill in: Das Startup ist ______ jung, ______ es hat viele Kunden. (zwar … aber)
-10. (B1/02) Fill in: Die Miete ist hoch. ______ wohnt er trotzdem in Berlin. (Deswegen)
+10. (B1/02) Fill in: Die Miete ist niedrig. ______ wohnt er gern in Berlin. (that's why)
 
 ## Übung D4 — Selbsttest (bewerte dich selbst: /20)
 
 **`würde + Infinitiv` — schwache Form:**
-1. Er ______ sofort kommen. (würde)
-2. Wir ______ gern nach Japan ______. (würden / reisen)
-3. Was ______ du machen, wenn du frei wärst? (würdest)
+1. Er ______ sofort kommen. (werden — KII)
+2. Wir ______ gern nach Japan ______. (werden — KII / reisen)
+3. Was ______ du machen, wenn du frei wärst? (werden — KII)
 
 **Starke Formen:**
-4. Ich wünschte, ich ______ mehr Zeit. (hätte)
-5. Wenn Anna freier ______, würde sie reisen. (wäre)
-6. Wenn wir nicht so viel arbeiten ______, würden wir öfter reisen. (müssten)
-7. Wenn Bruno das ______, würde er sofort anfangen. (könnte)
+4. Ich wünschte, ich ______ mehr Zeit. (haben)
+5. Wenn Anna freier ______, würde sie reisen. (sein)
+6. Wenn wir nicht so viel arbeiten ______, würden wir öfter reisen. (müssen)
+7. Wenn Bruno das ______, würde er sofort anfangen. (können)
 
 **Irreale Bedingungssätze:**
-8. Wenn ich Geld ______, ______ ich eine Reise buchen. (hätte / würde)
-9. ______ ich frei wäre, würde ich sofort kündigen. (Wenn)
-10. Ich würde reisen, wenn ich mehr Zeit ______. (hätte)
+8. Wenn ich Geld ______, ______ ich eine Reise buchen. (haben / werden)
+9. ______ ich frei wäre, würde ich sofort kündigen.
+10. Ich würde reisen, wenn ich mehr Zeit ______. (haben)
 
 **Ratschläge:**
-11. Du ______ dich bei einem Kurs anmelden. (solltest)
-12. An deiner Stelle ______ ich das sofort ______. (würde / ausprobieren)
-13. Ich ______ dir empfehlen, mehr Informationen zu sammeln. (würde)
-14. Es ______ besser, wenn du früher ______. (wäre / anfängst)
+11. Du ______ dich bei einem Kurs anmelden. (sollen — advice)
+12. An deiner Stelle ______ ich das sofort ______. (werden / ausprobieren)
+13. Ich ______ dir empfehlen, mehr Informationen zu sammeln. (werden — KII)
+14. Es ______ besser, wenn du früher ______. (sein / anfangen)
 
 **Fehler finden:**
 15. Wenn ich würde frei sein, würde ich reisen. Was ist falsch? → ______

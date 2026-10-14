@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Lukas ist gegen die Einführung der Citymaut."
         answer: false
@@ -38,7 +39,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (Yusuf und Hannah)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Was macht Yusuf am Anfang des Dialogs?"
         options:
@@ -74,7 +76,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen to the Hörtext (Anna und Bruno im Supermarkt) and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre den Hörtext (Anna und Bruno im Supermarkt) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen to the Hörtext (Anna und Bruno im Supermarkt) and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Anna und Bruno diskutieren im Supermarkt über das neue Plastikverbot.
       Anna findet, die {1} von Plastikverpackungen hätte schon lange verboten werden
@@ -98,7 +101,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Radiobeitrag über Berliner Klimapaket"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the radio news clip. Then choose the correct answer (a, b, or c)."
+    instructions: "Höre die Radionachricht. Wähle dann die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the radio news clip. Then choose the correct answer (a, b, or c)."
     transcript: "Hier ist der Deutschlandfunk mit einer Kurzmeldung. Das Berliner Abgeordnetenhaus hat heute ein neues Klimapaket verabschiedet. Darin werden mehrere Maßnahmen festgelegt: Erstens soll der öffentliche Nahverkehr bis 2028 vollständig elektrifiziert werden. Zweitens wird eine Citymaut für Pkw ab dem S-Bahn-Ring eingeführt. Drittens sollen Solaranlagen auf allen öffentlichen Gebäuden installiert werden. Umweltsenatorin Müller erklärte, die Reduzierung der Emissionen sei das oberste Ziel. Kritiker warnen jedoch vor einer zusätzlichen Belastung für Geringverdiener. Das war die Kurzmeldung des Tages."
     items:
       - q: "Was wurde heute im Abgeordnetenhaus verabschiedet?"
@@ -137,7 +141,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Nominalisierung: Verb → Nomen mit -ung"
-    instructions: "Form the -ung noun from each verb. Write the noun with its article (always feminine: die). 8 items."
+    instructions: "Bilde aus jedem Verb das Nomen auf -ung. Schreib das Nomen mit Artikel (immer feminin: die). 8 Aufgaben."
+    instructionsEn: "Form the -ung noun from each verb. Write the noun with its article (always feminine: die). 8 items."
     text: |
       1. verbessern → {1}
       2. einführen → {2}
@@ -162,7 +167,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Nominalisierung: Verb → Gerundium (Neutrum)"
-    instructions: "Write the nominalized verb (Gerundium) with article `das`. 7 items."
+    instructions: "Schreib das nominalisierte Verb (Gerundium) mit dem Artikel `das`. 7 Aufgaben."
+    instructionsEn: "Write the nominalized verb (Gerundium) with article `das`. 7 items."
     text: |
       1. recyceln → {1}
       2. heizen → {2}
@@ -185,7 +191,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Nominalisierung: Adjektiv → Nomen mit -keit / -heit"
-    instructions: "Form the abstract noun from each adjective. Write with article `die`. 6 items."
+    instructions: "Bilde aus jedem Adjektiv das abstrakte Nomen. Schreib es mit dem Artikel `die`. 6 Aufgaben."
+    instructionsEn: "Form the abstract noun from each adjective. Write with article `die`. 6 items."
     text: |
       1. wichtig → {1}
       2. möglich → {2}
@@ -206,20 +213,21 @@ exercises:
     type: gap-text
     layout: list
     title: "Verbalstil → Nominalstil: Sätze umformulieren"
-    instructions: "Rewrite each Verbalstil sentence in Nominalstil using the cue. 6 items."
+    instructions: "Formuliere jeden Satz im Verbalstil mit Hilfe des Verbs in Klammern in den Nominalstil um. 6 Sätze."
+    instructionsEn: "Rewrite each Verbalstil sentence in Nominalstil using the cue. 6 items."
     text: |
       1. Wir müssen die Umwelt schützen.
-         → {1} der Umwelt ist notwendig. (der Schutz)
+         → {1} der Umwelt ist notwendig. (schützen)
       2. Die Mieten steigen.
-         → {2} der Mietpreise ist ein Problem. (der Anstieg)
+         → {2} der Mietpreise ist ein Problem. (steigen)
       3. Man nutzt erneuerbare Energie.
-         → {3} erneuerbarer Energien nimmt zu. (die Nutzung)
+         → {3} erneuerbarer Energien nimmt zu. (nutzen)
       4. Wenn man Energie spart, sinkt der CO₂-Ausstoß.
-         → Durch {4} sinkt der CO₂-Ausstoß. (das Energiesparen)
+         → Durch {4} sinkt der CO₂-Ausstoß. (Energie sparen)
       5. Man verbessert die Luftqualität.
-         → {5} der Luftqualität ist das Ziel. (die Verbesserung)
+         → {5} der Luftqualität ist das Ziel. (verbessern)
       6. Man führt neue Maßnahmen ein.
-         → {6} neuer Maßnahmen ist geplant. (die Einführung)
+         → {6} neuer Maßnahmen ist geplant. (einführen)
     answers:
       "1": Der Schutz
       "2": Der Anstieg
@@ -233,7 +241,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Nominalstil → Verbalstil: rück-transformieren"
-    instructions: "Rewrite each Nominalstil phrase as a full Verbalstil sentence using the cue. 6 items."
+    instructions: "Formuliere jede Nominalphrase mit Hilfe der Vorgabe als vollständigen Satz im Verbalstil. 6 Aufgaben."
+    instructionsEn: "Rewrite each Nominalstil phrase as a full Verbalstil sentence using the cue. 6 items."
     text: |
       1. Die Reduzierung der Emissionen ist dringend notwendig.
          → Man muss die Emissionen {1}.
@@ -259,7 +268,8 @@ exercises:
     block: A
     type: true-false
     title: "Grammatik-Check: Nominalstil richtig gebildet?"
-    instructions: "Is the nominalization correct? Answer R (richtig) oder F (falsch). If F, explain the error."
+    instructions: "Ist die Nominalisierung richtig? Antworte mit R (richtig) oder F (falsch). Wenn F: Erkläre den Fehler."
+    instructionsEn: "Is the nominalization correct? Answer R (richtig) oder F (falsch). If F, explain the error."
     items:
       - q: "Das Recyceln von Plastik ist sinnvoll. (nominalized verb, neuter)"
         answer: true
@@ -281,7 +291,8 @@ exercises:
     block: A
     type: matching
     title: "Wortschatz: Umwelt-Nomen und Bedeutungen"
-    instructions: "Match each German term (1–8) with its English meaning (a–h)."
+    instructions: "Verbinde jeden deutschen Begriff (1–8) mit seiner englischen Bedeutung (a–h)."
+    instructionsEn: "Match each German term (1–8) with its English meaning (a–h)."
     left:
       - { key: "1", text: "der Klimawandel" }
       - { key: "2", text: "die Nachhaltigkeit" }
@@ -315,7 +326,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Passiv im Umweltkontext — Präsens"
-    instructions: "Fill in the correct Präsens Passiv form (wird/werden + Partizip II). 6 items."
+    instructions: "Ergänze die richtige Form im Passiv Präsens (wird/werden + Partizip II). 6 Sätze."
+    instructionsEn: "Fill in the correct Präsens Passiv form (wird/werden + Partizip II). 6 items."
     text: |
       1. Jährlich {1} Millionen Tonnen CO₂ ausgestoßen. (ausstoßen)
       2. Erneuerbare Energien {2} zunehmend genutzt. (nutzen)
@@ -336,7 +348,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Passiv mit Modalverben — Umwelt und Gesellschaft"
-    instructions: "Fill in the Passiv-mit-Modal form (modal + Partizip II + werden). 6 items."
+    instructions: "Ergänze die Form im Passiv mit Modalverb (Modalverb + Partizip II + werden). 6 Sätze."
+    instructionsEn: "Fill in the Passiv-mit-Modal form (modal + Partizip II + werden). 6 items."
     text: |
       1. Die Emissionen {1}. (müssen / reduzieren)
       2. Neue Gesetze {2}. (sollen / einführen)
@@ -356,7 +369,8 @@ exercises:
     block: A
     type: categorize
     title: "Wortschatz: Umwelt oder Gesellschaft?"
-    instructions: "Sort each word into the correct category."
+    instructions: "Ordne jedes Wort der richtigen Kategorie zu."
+    instructionsEn: "Sort each word into the correct category."
     buckets:
       - { key: umwelt, label: "Umwelt" }
       - { key: gesellschaft, label: "Gesellschaft" }
@@ -376,7 +390,8 @@ exercises:
     block: A
     type: order
     title: "Satzbau: Nominalstil-Sätze richtig ordnen"
-    instructions: "Put the words in the correct order to form a Nominalstil sentence."
+    instructions: "Bring die Wörter in die richtige Reihenfolge, sodass ein Satz im Nominalstil entsteht."
+    instructionsEn: "Put the words in the correct order to form a Nominalstil sentence."
     items:
       - tiles: ["Der", "Schutz", "der", "Umwelt", "ist", "eine", "gesamtgesellschaftliche", "Aufgabe"]
         answer: [0, 1, 2, 3, 4, 5, 6, 7]
@@ -398,7 +413,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Dialog ergänzen: Diskussion über die Citymaut"
-    instructions: "Fill in the 8 blanks. Use Nominalisierungen, opinion phrases, or Passiv as indicated."
+    instructions: "Ergänze die 8 Lücken. Verwende – wie angegeben – Nominalisierungen, Redemittel zur Meinungsäußerung oder das Passiv."
+    instructionsEn: "Fill in the 8 blanks. Use Nominalisierungen, opinion phrases, or Passiv as indicated."
     text: |
       — Lukas, was denkst du über die neue Citymaut?
       — Ich bin {1}, dass die Einführung der Citymaut überfällig ist.
@@ -446,7 +462,8 @@ exercises:
     block: B
     type: single-choice
     title: "Richtigen Ausdruck wählen: Nominalstil und Meinung"
-    instructions: "Choose the correct option (a, b, or c)."
+    instructions: "Wähle die richtige Option (a, b oder c)."
+    instructionsEn: "Choose the correct option (a, b, or c)."
     items:
       - q: "______ der Luftqualität ist das wichtigste Ziel der Stadtpolitik."
         options:
@@ -495,7 +512,8 @@ exercises:
     block: B
     type: matching
     title: "Meinung und Argument verbinden"
-    instructions: "Match each sentence opener (1–6) with the correct continuation (a–g). One continuation is not needed."
+    instructions: "Verbinde jeden Satzanfang (1–6) mit der passenden Fortsetzung (a–g). Eine Fortsetzung wird nicht gebraucht."
+    instructionsEn: "Match each sentence opener (1–6) with the correct continuation (a–g). One continuation is not needed."
     left:
       - { key: "1", text: "Meiner Meinung nach" }
       - { key: "2", text: "Einerseits … andererseits" }
@@ -524,7 +542,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Passiv: Aktiv → Passiv umformen"
-    instructions: "Rewrite each active sentence as a Passiv sentence (Präteritum). 6 items."
+    instructions: "Formuliere jeden Aktivsatz als Passivsatz (Präteritum). 6 Sätze."
+    instructionsEn: "Rewrite each active sentence as a Passiv sentence (Präteritum). 6 items."
     text: |
       1. Die Stadt führte neue Maßnahmen ein.
          → Neue Maßnahmen {1}.
@@ -551,7 +570,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Stellungnahme-Sprache: Konnektoren einsetzen"
-    instructions: "Fill in the correct connector or opinion phrase from the box. Use each word once. 8 items."
+    instructions: "Ergänze den richtigen Konnektor oder das passende Redemittel aus dem Kasten. Verwende jedes Wort einmal. 8 Sätze."
+    instructionsEn: "Fill in the correct connector or opinion phrase from the box. Use each word once. 8 items."
     text: |
       {1} ist die Verbesserung der Luftqualität das wichtigste Ziel.
       {2} profitieren nicht alle Bürger davon. Zwar werden Emissionen gesenkt,
@@ -588,6 +608,7 @@ exercises:
       > Nicht nur die Verkehrswende, sondern auch der Ausbau des Radwegenetzes und die Förderung des Carsharing müssen Teil eines umfassenden Konzepts sein. Die Notwendigkeit, alle Gesellschaftsgruppen einzubeziehen, ist unbestreitbar. Zusammenfassend lässt sich sagen: Die Einführung der Citymaut ist ein richtiger Schritt. Aber die Entwicklung eines sozial gerechten Gesamtpakets ist ebenso wichtig — wenn nicht wichtiger.
 
       Beantworte die Fragen in ganzen Sätzen auf Deutsch.
+    instructionsEn: "Read the text. Answer the questions in full sentences in German."
     text: |
       1. Welche europäischen Städte werden im Text als Beispiele genannt?
          → {1}
@@ -610,7 +631,8 @@ exercises:
     block: B
     type: categorize
     title: "Verbalstil oder Nominalstil?"
-    instructions: "Categorize each phrase as Verbalstil (V) or Nominalstil (N)."
+    instructions: "Ordne jede Formulierung zu: Verbalstil (V) oder Nominalstil (N)."
+    instructionsEn: "Categorize each phrase as Verbalstil (V) or Nominalstil (N)."
     buckets:
       - { key: verbal, label: "Verbalstil" }
       - { key: nominal, label: "Nominalstil" }
@@ -650,7 +672,8 @@ exercises:
     block: C
     type: gap-text
     title: "Lückentext: Yusufs Gastkommentar"
-    instructions: "Fill each gap with one word. 10 gaps."
+    instructions: "Ergänze in jeder Lücke ein Wort. 10 Lücken."
+    instructionsEn: "Fill each gap with one word. 10 gaps."
     text: |
       Die {1} des städtischen Autoverkehrs wird in vielen europäischen Metropolen
       bereits praktiziert. In London, Stockholm und Oslo {2} bereits messbare
@@ -681,7 +704,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Die ______ erneuerbarer Energien nimmt jedes Jahr zu."
         options:
@@ -730,7 +754,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (Wortbank)"
-    instructions: "Fill the 10 gaps. Five words are not needed."
+    instructions: "Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht."
+    instructionsEn: "Fill the 10 gaps. Five words are not needed."
     bankCase: upper
     bankSort: true
     text: |
@@ -770,6 +795,7 @@ exercises:
       > Nicht nur die Verkehrswende, sondern auch der Ausbau des Radwegenetzes und die Förderung des Carsharing müssen Teil eines umfassenden Konzepts sein. Die Notwendigkeit, alle Gesellschaftsgruppen einzubeziehen, ist unbestreitbar. Zusammenfassend lässt sich sagen: Die Einführung der Citymaut ist ein richtiger Schritt. Aber die Entwicklung eines sozial gerechten Gesamtpakets ist ebenso wichtig — wenn nicht wichtiger.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "In London, Stockholm und Oslo gibt es bereits Innenstadtmaut-Systeme."
         answer: true
@@ -791,7 +817,8 @@ exercises:
     block: C
     type: single-choice
     title: "Leseverstehen: Pressemitteilung (neuer Text)"
-    instructions: "Read the press release below. Choose the correct answer (a, b, or c)."
+    instructions: "Lies die Pressemitteilung unten. Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Read the press release below. Choose the correct answer (a, b, or c)."
     text: |
       **Pressemitteilung — Senatsverwaltung für Umwelt, Berlin**
 
@@ -868,23 +895,24 @@ exercises:
     type: gap-text
     layout: list
     title: "Schnelltest: Nominalisierung, Passiv + Wiederholung (15 Punkte)"
-    instructions: "Fill in the correct word or form. Items 12–15 review earlier lessons. 15 items."
+    instructions: "Ergänze das richtige Wort oder die richtige Form. Aufgaben 12–15 wiederholen frühere Lektionen. 15 Aufgaben."
+    instructionsEn: "Fill in the correct word or form. Items 12–15 review earlier lessons. 15 items."
     text: |
       1. verbessern → {1} (die -ung-Form)
       2. Das {2} von Plastik spart Ressourcen. (recyceln — Gerundium)
       3. wichtig → {3} (Adjektiv-Nominalisierung)
-      4. Jährlich {4} Millionen Tonnen CO₂ ausgestoßen. (Passiv Präsens: werden)
-      5. Neue Maßnahmen {5} eingeführt werden. (Passiv mit Modal: sollen)
+      4. Jährlich {4} Millionen Tonnen CO₂ ausgestoßen. (Passiv Präsens)
+      5. Neue Maßnahmen {5} eingeführt werden. (Passiv mit Modal — 'are supposed to')
       6. Nicht nur die Luft, {6} auch der Lärm soll abnehmen. (Konnektor)
       7. Zwar ist die Idee gut, {7} die Kosten sind hoch. (Konnektor)
-      8. Der {8} der Emissionen ist das Ziel. (Rückgang — the correct noun)
-      9. Einerseits ist die Verbesserung wichtig, {9} trifft es kleine Betriebe. (andererseits)
-      10. Ich bin der {10}, dass die Citymaut nötig ist. (Ansicht)
-      11. Die Einnahmen {11} in den ÖPNV investiert. (werden)
+      8. Der {8} der Emissionen ist das Ziel. (zurückgehen → Nomen)
+      9. Einerseits ist die Verbesserung wichtig, {9} trifft es kleine Betriebe. (Konnektor: on the other hand)
+      10. Ich bin der {10}, dass die Citymaut nötig ist. (Meinungsphrase)
+      11. Die Einnahmen {11} in den ÖPNV investiert. (Passiv Präsens)
       12. (B1/10) sowohl … {12} auch (Konnektor-Ergänzung)
-      13. (B1/04) Die Emissionen {13} in den letzten Jahren reduziert worden. (Perfekt Passiv: sind)
-      14. (B1/02) Das ist teuer; {14} kauft er es nicht. (deshalb)
-      15. (B1/04) Der Bericht {15} von der Regierung veröffentlicht. (Präteritum Passiv: wurde)
+      13. (B1/04) Die Emissionen {13} in den letzten Jahren reduziert worden. (Perfekt Passiv)
+      14. (B1/02) Das ist teuer; {14} kauft er es nicht. (that's why)
+      15. (B1/04) Der Bericht {15} von der Regierung veröffentlicht. (Präteritum Passiv)
     answers:
       "1": die Verbesserung
       "2": Recyceln
@@ -901,12 +929,24 @@ exercises:
       "13": sind
       "14": deshalb
       "15": wurde
+    alts:
+      "10":
+        - word: "Meinung"
+          note: "Both `der Ansicht` and `der Meinung` are standard opinion phrases."
+      "14":
+        - word: "deswegen"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "darum"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "daher"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
 
   - id: D2
     block: D
     type: odd-one-out
     title: "Wortschatz-Check: Das passt nicht!"
-    instructions: "Circle the word that does not belong. 6 groups."
+    instructions: "Kreise das Wort ein, das nicht passt. 6 Gruppen."
+    instructionsEn: "Circle the word that does not belong. 6 groups."
     groups:
       - items: ["die Verbesserung", "die Einführung", "die Entwicklung", "das Recyceln"]
         odd: 3
@@ -932,7 +972,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Rückblick: B1/04 (Passiv) und B1/10 (Konnektoren)"
-    instructions: "Items 1–5 review B1/04 (Passiv); items 6–10 review B1/10 (Zweiteilige Konnektoren). 10 items."
+    instructions: "Aufgaben 1–5 wiederholen B1/04 (Passiv), Aufgaben 6–10 wiederholen B1/10 (zweiteilige Konnektoren). 10 Aufgaben."
+    instructionsEn: "Items 1–5 review B1/04 (Passiv); items 6–10 review B1/10 (Zweiteilige Konnektoren). 10 items."
     text: |
       B1/04 — Passiv:
       1. Die Maßnahmen {1} gestern beschlossen. (Präteritum Passiv)
@@ -964,17 +1005,18 @@ exercises:
     type: gap-text
     layout: list
     title: "Selbsttest: Nominalisierung, Passiv, Meinung (20 Punkte)"
-    instructions: "Fill in the correct form. 1 point per gap. 20 items."
+    instructions: "Ergänze die richtige Form. 1 Punkt pro Lücke. 20 Aufgaben."
+    instructionsEn: "Fill in the correct form. 1 point per gap. 20 items."
     notes: "16+ / 20 → proceed to B1/13. Below 16: redo Block A1–A5 tomorrow, then retest D4."
     text: |
       1. verbessern → {1} (die -ung-Form)
       2. möglich → {2} (Adjektiv → Nomen, feminine)
       3. Das {3} von Plastik ist umweltfreundlich. (recyceln — Gerundium)
-      4. Durch das {4} sinkt der CO₂-Ausstoß. (Energiesparen)
-      5. Der Schutz {5} Umwelt ist notwendig. (Genitiv: der)
-      6. Jährlich {6} Treibhausgase ausgestoßen. (Passiv Präsens: werden)
-      7. Neue Gesetze {7} eingeführt werden. (Passiv mit Modal: müssen)
-      8. Die Emissionen {8} bereits um 20 Prozent reduziert worden. (Perfekt Passiv: sind)
+      4. Durch das {4} sinkt der CO₂-Ausstoß. (Energie sparen — Gerundium)
+      5. Der Schutz {5} Umwelt ist notwendig. (Genitiv: die Umwelt)
+      6. Jährlich {6} Treibhausgase ausgestoßen. (Passiv Präsens)
+      7. Neue Gesetze {7} eingeführt werden. (Passiv mit Modal — 'must')
+      8. Die Emissionen {8} bereits um 20 Prozent reduziert worden. (Perfekt Passiv)
       9. Nicht nur der Nahverkehr, {9} auch das Radwegenetz muss ausgebaut werden.
       10. Zwar ist die Maut eine gute Idee, {10} sie trifft kleine Betriebe hart.
       11. Sowohl die Umwelt {11} auch die soziale Gerechtigkeit ist wichtig.
@@ -984,8 +1026,8 @@ exercises:
       15. Die {15} des öffentlichen Nahverkehrs muss schneller erfolgen. (ausbauen)
       16. Durch das {16} mit Gas entstehen viele Emissionen. (heizen — Gerundium)
       17. einführen → {17} (die -ung-Form)
-      18. Die {18} der Mietpreise ist ein soziales Problem. (ansteigen → der Anstieg)
-      19. {19} die ökologischen {20} die wirtschaftlichen Aspekte müssen berücksichtigt werden. (Sowohl … als auch)
+      18. Die {18} der Mietpreise ist ein soziales Problem. (ansteigen → Nomen)
+      19. {19} die ökologischen {20} die wirtschaftlichen Aspekte müssen berücksichtigt werden. (both … and)
     answers:
       "1": die Verbesserung
       "2": die Möglichkeit
@@ -1007,3 +1049,13 @@ exercises:
       "18": Anstieg
       "19": Sowohl
       "20": als auch
+    alts:
+      "12":
+        - word: "Meinung"
+          note: "Both `der Ansicht` and `der Meinung` are standard opinion phrases."
+      "13":
+        - word: "Ansicht"
+          note: "`Meiner Ansicht nach` is equally correct."
+      "14":
+        - word: "Abschließend"
+          note: "`Abschließend lässt sich sagen` is an equally correct closing phrase."

@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Mia fragt, wohin Anna und Bruno ziehen würden, wenn sie könnten."
         answer: true
@@ -39,7 +40,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Was wünscht sich Anna im Gespräch mit Herr Steinmeyer?"
         options:
@@ -75,7 +77,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen to the Hörtext (Bruno's call to Yuki) and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre den Hörtext (Brunos Anruf bei Yuki) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen to the Hörtext (Bruno's call to Yuki) and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Hallo Yuki, hier ist Bruno! Ich hoffe, du bist gut angekommen. Ich wollte
       dich mal fragen: Wenn du für immer irgendwo auf der Welt leben {1} —
@@ -98,7 +101,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Voicemail von Anna an Mia"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to Anna's voice message to Mia. Then choose the correct answer (a, b, or c)."
+    instructions: "Höre die Sprachnachricht von Anna an Mia. Wähle dann die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Anna's voice message to Mia. Then choose the correct answer (a, b, or c)."
     transcript: 'Hallo Mia, hier ist Anna. Ich wollte dir kurz sagen, dass ich es leider nicht zu eurem Wochenendausflug nach Leipzig schaffen kann. Wenn ich nicht so viel Arbeit hätte, würde ich sofort mitkommen — ich wünschte wirklich, ich könnte dabei sein. Ich bereue es sehr. Wenn ihr das nächste Mal plant, würde ich gern früher Bescheid wissen, damit ich mir den Termin freinehmen kann. Ich drücke euch die Daumen für das Wetter! Bitte ruf mich zurück, wenn ihr wieder da seid.'
     items:
       - q: "Warum ruft Anna an?"
@@ -136,7 +140,8 @@ exercises:
     block: A
     type: table-fill
     title: "`würde + Infinitiv` — Konjugationstabelle"
-    instructions: "Fill in the `würde`-forms. Three verbs, one row each."
+    instructions: "Ergänze die `würde`-Formen. Drei Verben, eine Zeile pro Verb."
+    instructionsEn: "Fill in the `würde`-forms. Three verbs, one row each."
     columns: ["ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie"]
     rows:
       - label: "kommen"
@@ -168,7 +173,8 @@ exercises:
     block: A
     type: table-fill
     title: "Starke Konjunktiv II-Formen"
-    instructions: "Fill in all 6 persons for each strong Konjunktiv II form."
+    instructions: "Ergänze für jede starke Konjunktiv-II-Form alle 6 Personen."
+    instructionsEn: "Fill in all 6 persons for each strong Konjunktiv II form."
     columns: ["ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie"]
     rows:
       - label: "wäre (sein)"
@@ -225,7 +231,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`würde + Infinitiv` — Schwache Verben einsetzen"
-    instructions: "Fill each gap with the correct `würde + Infinitiv` form (weak verbs). 8 items."
+    instructions: "Ergänze in jeder Lücke die richtige Form von `würde + Infinitiv` (schwache Verben). 8 Sätze."
+    instructionsEn: "Fill each gap with the correct `würde + Infinitiv` form (weak verbs). 8 items."
     text: |
       1. Wenn ich mehr Zeit hätte, {1} ich einen Kurs {2}. (machen)
       2. Anna {3} gern nach Lissabon {4}. (ziehen)
@@ -258,7 +265,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Starke Formen einsetzen — kein `würde sein` oder `würde haben`!"
-    instructions: "Fill each gap with the correct strong Konjunktiv II form (wäre/hätte/könnte/müsste/dürfte/sollte). 8 items."
+    instructions: "Ergänze in jeder Lücke die richtige starke Konjunktiv-II-Form (wäre/hätte/könnte/müsste/dürfte/sollte). 8 Sätze."
+    instructionsEn: "Fill each gap with the correct strong Konjunktiv II form (wäre/hätte/könnte/müsste/dürfte/sollte). 8 items."
     text: |
       1. Wenn Anna freier {1}, würde sie reisen.
       2. Ich {2} gern mehr Zeit — dann würde ich sofort beginnen.
@@ -283,7 +291,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Irreale Bedingungssätze — Hauptsatz ergänzen"
-    instructions: "Fill in the main clause with the correct `würde + Infinitiv` form. 6 items."
+    instructions: "Ergänze im Hauptsatz die richtige Form von `würde + Infinitiv`. 6 Sätze."
+    instructionsEn: "Fill in the main clause with the correct `würde + Infinitiv` form. 6 items."
     text: |
       1. Wenn ich mehr Geld hätte, {1} ich eine Reise nach Japan {2}. (buchen)
       2. Wenn Bruno Zeit hätte, {3} er jeden Tag Fotos {4}. (machen)
@@ -311,7 +320,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Irreale Bedingungssätze — Wenn-Satz ergänzen (starke Form)"
-    instructions: "Fill in the wenn-clause with the correct strong Konjunktiv II form. 6 items."
+    instructions: "Ergänze im wenn-Satz die richtige starke Konjunktiv-II-Form. 6 Sätze."
+    instructionsEn: "Fill in the wenn-clause with the correct strong Konjunktiv II form. 6 items."
     text: |
       1. Wenn ich mehr Zeit {1}, würde ich einen Sprachkurs machen. (haben)
       2. Wenn Bruno in Tokio {2}, würde er als Fotograf arbeiten. (sein)
@@ -332,7 +342,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Ratschläge geben — `An deiner Stelle` / `Du solltest`"
-    instructions: "Complete the advice sentences using the structure given in brackets. 6 items."
+    instructions: "Ergänze die Ratschläge mit der Struktur in Klammern. 6 Sätze."
+    instructionsEn: "Complete the advice sentences using the structure given in brackets. 6 items."
     text: |
       1. [Du solltest] Du {1} dich sofort bei einem Kurs {2}. (anmelden)
       2. [An deiner Stelle] An deiner Stelle {3} ich das sofort {4}. (ausprobieren)
@@ -360,7 +371,8 @@ exercises:
     block: A
     type: order
     title: "Satzbau: Konjunktiv II-Sätze in die richtige Reihenfolge"
-    instructions: "Put the words in the correct order to form a Konjunktiv II sentence."
+    instructions: "Bring die Wörter in die richtige Reihenfolge, sodass ein Satz im Konjunktiv II entsteht."
+    instructionsEn: "Put the words in the correct order to form a Konjunktiv II sentence."
     items:
       - tiles: ["würde", "ich", "nach", "Tokio", "gehen", "wenn", "ich", "könnte"]
         answer: [5, 6, 7, 0, 1, 2, 3, 4]
@@ -380,7 +392,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Transformation: Präsens → Konjunktiv II"
-    instructions: "Transform each present-tense sentence into Konjunktiv II with `würde + Infinitiv`. 6 items."
+    instructions: "Setze jeden Satz im Präsens in den Konjunktiv II mit `würde + Infinitiv`. 6 Sätze."
+    instructionsEn: "Transform each present-tense sentence into Konjunktiv II with `würde + Infinitiv`. 6 items."
     text: |
       1. Er kommt. → Er {1} kommen.
       2. Sie schreibt einen Brief. → Sie {2} einen Brief {3}.
@@ -405,7 +418,8 @@ exercises:
     block: A
     type: true-false
     title: "Grammatik-Check: Richtig oder falsch?"
-    instructions: "Is the Konjunktiv II form used correctly? Answer R (richtig) oder F (falsch)."
+    instructions: "Ist die Konjunktiv-II-Form richtig verwendet? Antworte mit R (richtig) oder F (falsch)."
+    instructionsEn: "Is the Konjunktiv II form used correctly? Answer R (richtig) oder F (falsch)."
     items:
       - q: "Wenn ich frei wäre, würde ich reisen."
         answer: true
@@ -431,6 +445,7 @@ exercises:
     listLayout: false
     title: "Dialog ergänzen: Hypothetische Diskussion"
     instructions: "Fülle die Lücken mit den passenden Konjunktiv II-Formen. 8 Lücken."
+    instructionsEn: "Fill in the gaps with the appropriate Konjunktiv II forms. 8 gaps."
     text: |
       — Was {1} du machen, wenn du morgen kündigen könntest?
       — Ich {2} sofort eine Weltreise buchen. Du?
@@ -455,7 +470,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Finde den Fehler — Konjunktiv II"
-    instructions: "Each sentence has one Konjunktiv II error. Find it and write the corrected sentence. 6 items."
+    instructions: "Jeder Satz hat einen Fehler im Konjunktiv II. Finde ihn und schreib den Satz richtig. 6 Sätze."
+    instructionsEn: "Each sentence has one Konjunktiv II error. Find it and write the corrected sentence. 6 items."
     text: |
       1. Wenn ich würde mehr Zeit haben, würde ich reisen.
          Korrekt: {1}
@@ -482,6 +498,7 @@ exercises:
     type: single-choice
     title: "Richtige Form wählen: `würde` oder starke Form?"
     instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
     items:
       - q: "Wenn ich ______ Lissabon, würde ich Portugiesisch lernen."
         options:
@@ -530,7 +547,8 @@ exercises:
     block: B
     type: matching
     title: "Wunsch-Anfänge und Schlüsse verbinden"
-    instructions: "Match each sentence beginning (1–6) with the correct ending (a–g). One ending is not needed."
+    instructions: "Verbinde jeden Satzanfang (1–6) mit dem passenden Satzende (a–g). Ein Satzende wird nicht gebraucht."
+    instructionsEn: "Match each sentence beginning (1–6) with the correct ending (a–g). One ending is not needed."
     left:
       - { key: "1", text: "Ich wünschte, ich" }
       - { key: "2", text: "Wenn ich mehr Zeit hätte," }
@@ -559,6 +577,7 @@ exercises:
     type: order
     title: "Wenn-Satz Wortstellung üben"
     instructions: "Bringe die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: ["Wenn", "ich", "könnte", ",", "würde", "ich", "sofort", "anfangen"]
         answer: [0, 1, 2, 3, 4, 5, 6, 7]
@@ -578,7 +597,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Einem Freund einen Ratschlag geben"
-    instructions: "Complete each piece of advice using `solltest`, `würde` or `wäre`. 6 items."
+    instructions: "Ergänze jeden Ratschlag mit `solltest`, `würde` oder `wäre`. 6 Sätze."
+    instructionsEn: "Complete each piece of advice using `solltest`, `würde` or `wäre`. 6 items."
     text: |
       1. Du {1} dir mehr Zeit für dich selbst nehmen.
       2. An deiner Stelle {2} ich sofort mit dem Kurs anfangen.
@@ -599,7 +619,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Umformung: Sätze mit vorgegebener Konjunktiv II-Struktur umschreiben"
-    instructions: "Rewrite each sentence using the structure given in brackets. 6 items."
+    instructions: "Formuliere jeden Satz mit der Struktur in Klammern um. 6 Sätze."
+    instructionsEn: "Rewrite each sentence using the structure given in brackets. 6 items."
     text: |
       1. Ich habe keine Zeit, deshalb kann ich nicht kommen.
          [Wenn … , würde …] → {1}
@@ -637,6 +658,7 @@ exercises:
       > Vielleicht ist das der wichtigste Wunsch: nicht warten, bis alles perfekt ist. Denn wenn man immer auf den richtigen Moment wartet, würde man am Ende nie etwas machen.
 
       Wähle a, b oder c.
+    instructionsEn: "Read the text. Choose a, b, or c."
     items:
       - q: "Was wünscht sich Anna, wenn es um Sprachen geht?"
         options:
@@ -704,7 +726,8 @@ exercises:
     type: gap-text
     listLayout: false
     title: "Lückentext: Was ich mir für die Zukunft wünsche"
-    instructions: "Fill each gap with one word. 10 gaps."
+    instructions: "Ergänze in jeder Lücke ein Wort. 10 Lücken."
+    instructionsEn: "Fill each gap with one word. 10 gaps."
     text: |
       Manchmal frage ich mich, was ich anders machen (1) {1}, wenn ich noch einmal
       von vorne anfangen (2) {2}. Ich wünschte, ich (3) {3} schon früher Deutsch
@@ -737,6 +760,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Choose the correct answer (a, b, or c)."
     items:
       - q: "Wenn ich mehr Zeit ______, würde ich sofort anfangen."
         options:
@@ -786,6 +810,7 @@ exercises:
     type: gap-bank
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Fülle die 10 Lücken. Fünf Wörter sind nicht nötig."
+    instructionsEn: "Fill in the 10 gaps. Five words are not needed."
     bankCase: upper
     bankSort: true
     text: |
@@ -825,6 +850,7 @@ exercises:
       > Vielleicht ist das der wichtigste Wunsch: nicht warten, bis alles perfekt ist. Denn wenn man immer auf den richtigen Moment wartet, würde man am Ende nie etwas machen.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Anna wünscht sich, sie hätte schon als Teenager Deutsch gelernt."
         answer: true
@@ -865,6 +891,7 @@ exercises:
       unglücklich macht, wäre das noch riskanter.
 
       Wähle a, b oder c.
+    instructionsEn: "Read the text. Choose a, b, or c."
     items:
       - q: "Was empfiehlt der Coach als ersten Schritt?"
         options:
@@ -927,23 +954,24 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One word per gap. Items marked (B1/02) or (A2/09) review earlier lessons. 15 items."
+    instructions: "Ein Wort pro Lücke. Aufgaben mit (B1/02) oder (A2/09) wiederholen frühere Lektionen. 15 Aufgaben."
+    instructionsEn: "One word per gap. Items marked (B1/02) or (A2/09) review earlier lessons. 15 items."
     text: |
       1. Fill in: Wenn ich frei {1}, würde ich reisen. (strong KII of sein)
       2. Fill in: Ich wünschte, ich {2} mehr Zeit. (strong KII of haben)
-      3. Fill in: An deiner Stelle {3} ich das sofort machen. (würde)
-      4. Fill in: Du {4} dich bei einem Kurs anmelden. (solltest — advice)
+      3. Fill in: An deiner Stelle {3} ich das sofort machen. (werden — KII)
+      4. Fill in: Du {4} dich bei einem Kurs anmelden. (sollen — advice)
       5. Fill in: Wenn wir nicht so viel arbeiten {5}, würden wir öfter reisen. (strong KII of müssen)
       6. Fill in: Wenn Anna in Tokio {6}, würde sie Japanisch lernen. (strong KII of sein)
       7. Fill in strong KII of können, ich-form: {7}
       8. Fill in strong KII of dürfen, wir-form: {8}
       9. (A2/09) Polite request: Könnten Sie mir bitte helfen? — the verb form here is a _____ II form. Fill in: {9}
-      10. (A2/09) Fill in: Ich {10} gern einen Kaffee. (hätte — polite wish)
-      11. (B1/02) Fill in the connector: Er bleibt in Berlin, {11} er Prag liebt. (obwohl)
-      12. (B1/02) Fill in: Sie hat keine Zeit. {12} kommt sie nicht. (deshalb — V2)
-      13. Fill in: Wenn man immer wartet, {13} man am Ende nie etwas machen. (würde)
-      14. Fill in: Es {14} besser, wenn du früher anfängst. (wäre — advice)
-      15. Fill in: Ich {15} dir empfehlen, einen Kurs zu machen. (würde)
+      10. (A2/09) Fill in: Ich {10} gern einen Kaffee. (haben — polite wish)
+      11. (B1/02) Fill in the connector: Er bleibt in Berlin, {11} er Prag liebt. (although)
+      12. (B1/02) Fill in: Sie hat keine Zeit. {12} kommt sie nicht. (that's why — V2)
+      13. Fill in: Wenn man immer wartet, {13} man am Ende nie etwas machen. (werden — KII)
+      14. Fill in: Es {14} besser, wenn du früher anfängst. (sein — advice)
+      15. Fill in: Ich {15} dir empfehlen, einen Kurs zu machen. (werden — KII)
     answers:
       "1": wäre
       "2": hätte
@@ -960,12 +988,21 @@ exercises:
       "13": würde
       "14": wäre
       "15": würde
+    alts:
+      "12":
+        - word: "Deswegen"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Darum"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Daher"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
 
   - id: D2
     block: D
     type: odd-one-out
     title: "Welches Wort passt nicht?"
-    instructions: "Cross out the word that does not fit and explain why."
+    instructions: "Streiche das Wort, das nicht passt, und erkläre, warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [wäre, hätte, würde, könnte]
         odd: 2
@@ -991,21 +1028,22 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Rückblick: A2/09 und B1/02"
-    instructions: "Review of earlier lessons. 10 items."
+    instructions: "Wiederholung früherer Lektionen. 10 Aufgaben."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus A2/09 (Konjunktiv II für höfliche Bitten und Wünsche):**
-      1. (A2/09) Höfliche Bitte: {1} Sie mir bitte helfen? (könnten)
-      2. (A2/09) Politer Wunsch: Ich {2} gern einen Tisch für zwei. (hätte)
-      3. (A2/09) Fill in: {3} Sie mir sagen, wie spät es ist? (würden — polite)
-      4. (A2/09) Fill in: Das {4} ich sehr nett finden. (würde — polite would)
-      5. (A2/09) Polite refusal: Das {5} mir leider nicht möglich sein. (wäre)
+      1. (A2/09) Höfliche Bitte: {1} Sie mir bitte helfen? (können)
+      2. (A2/09) Höflicher Wunsch: Ich {2} gern einen Tisch für zwei. (haben)
+      3. (A2/09) Fill in: {3} Sie mir sagen, wie spät es ist? (werden — polite)
+      4. (A2/09) Fill in: Das {4} ich sehr nett finden. (werden — polite)
+      5. (A2/09) Polite refusal: Das {5} mir leider nicht möglich. (sein)
 
       **Aus B1/02 (Gegensätze und Folgen: obwohl, trotzdem, deshalb):**
-      6. (B1/02) Fill in: Obwohl sie müde {6}, arbeitet sie weiter. (ist)
-      7. (B1/02) Fill in: Er hat keine Zeit. {7} kommt er nicht. (Trotzdem)
-      8. (B1/02) Fill in: Sie liebt Berlin. {8} ist sie dort geblieben. (Deshalb)
+      6. (B1/02) Fill in: Obwohl sie müde {6}, arbeitet sie weiter. (sein)
+      7. (B1/02) Fill in: Er hat keine Zeit. {7} kommt er zur Party. (nevertheless)
+      8. (B1/02) Fill in: Sie liebt Berlin. {8} ist sie dort geblieben. (that's why)
       9. (B1/02) Fill in: Das Startup ist {9} jung, {10} es hat viele Kunden. (zwar … aber)
-      10. (B1/02) Fill in: Die Miete ist hoch. {11} wohnt er trotzdem in Berlin. (Deswegen)
+      10. (B1/02) Fill in: Die Miete ist niedrig. {11} wohnt er gern in Berlin. (that's why)
     answers:
       "1": Könnten
       "2": hätte
@@ -1018,6 +1056,24 @@ exercises:
       "9": zwar
       "10": aber
       "11": Deswegen
+    alts:
+      "7":
+        - word: "Dennoch"
+          note: "dennoch is the formal synonym of trotzdem."
+      "8":
+        - word: "Deswegen"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Darum"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Daher"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+      "11":
+        - word: "Deshalb"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Darum"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Daher"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
 
   - id: D4
     block: D
@@ -1027,26 +1083,26 @@ exercises:
     notes: "16+ / 20 → Lektion B1/04. Below 16: redo Block A1–A6 and B2 (Finde den Fehler) tomorrow, then retest D4."
     text: |
       **`würde + Infinitiv` — schwache Form:**
-      1. Er {1} sofort kommen. (würde)
-      2. Wir {2} gern nach Japan {3}. (würden / reisen)
-      3. Was {4} du machen, wenn du frei wärst? (würdest)
+      1. Er {1} sofort kommen. (werden — KII)
+      2. Wir {2} gern nach Japan {3}. (werden — KII / reisen)
+      3. Was {4} du machen, wenn du frei wärst? (werden — KII)
 
       **Starke Formen:**
-      4. Ich wünschte, ich {5} mehr Zeit. (hätte)
-      5. Wenn Anna freier {6}, würde sie reisen. (wäre)
-      6. Wenn wir nicht so viel arbeiten {7}, würden wir öfter reisen. (müssten)
-      7. Wenn Bruno das {8}, würde er sofort anfangen. (könnte)
+      4. Ich wünschte, ich {5} mehr Zeit. (haben)
+      5. Wenn Anna freier {6}, würde sie reisen. (sein)
+      6. Wenn wir nicht so viel arbeiten {7}, würden wir öfter reisen. (müssen)
+      7. Wenn Bruno das {8}, würde er sofort anfangen. (können)
 
       **Irreale Bedingungssätze:**
-      8. Wenn ich Geld {9}, {10} ich eine Reise buchen. (hätte / würde)
-      9. {11} ich frei wäre, würde ich sofort kündigen. (Wenn)
-      10. Ich würde reisen, wenn ich mehr Zeit {12}. (hätte)
+      8. Wenn ich Geld {9}, {10} ich eine Reise buchen. (haben / werden)
+      9. {11} ich frei wäre, würde ich sofort kündigen.
+      10. Ich würde reisen, wenn ich mehr Zeit {12}. (haben)
 
       **Ratschläge:**
-      11. Du {13} dich bei einem Kurs anmelden. (solltest)
-      12. An deiner Stelle {14} ich das sofort {15}. (würde / ausprobieren)
-      13. Ich {16} dir empfehlen, mehr Informationen zu sammeln. (würde)
-      14. Es {17} besser, wenn du früher {18}. (wäre / anfängst)
+      11. Du {13} dich bei einem Kurs anmelden. (sollen — advice)
+      12. An deiner Stelle {14} ich das sofort {15}. (werden / ausprobieren)
+      13. Ich {16} dir empfehlen, mehr Informationen zu sammeln. (werden — KII)
+      14. Es {17} besser, wenn du früher {18}. (sein / anfangen)
 
       **Fehler finden:**
       15. Wenn ich würde frei sein, würde ich reisen. Was ist falsch? → {19}
@@ -1072,3 +1128,7 @@ exercises:
       "18": anfängst
       "19": "double würde trap — correct: Wenn ich frei wäre, würde ich reisen."
       "20": "würde haben is unnatural — correct: Ich hätte gern mehr Zeit."
+    alts:
+      "11":
+        - word: "Falls"
+          note: "falls + KII is also correct for an unreal condition."

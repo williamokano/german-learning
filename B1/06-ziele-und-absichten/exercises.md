@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Pavel arbeitet in einem Spezialcafé in Prenzlauer Berg. ( )
 2. Tomáš hat nie vergessen, sein Tagebuch auf Deutsch zu schreiben. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Was ist das Ziel von Annas Projekt?  a) Einen neuen Mitarbeiter einzustellen.  b) Das Social-Media-Konzept zu überarbeiten.  c) Das Budget zu kürzen.
 2. Warum möchte Anna eine Umfrage starten?  a) Um mehr Follower zu gewinnen.  b) Damit das Team die Inhalte besser versteht.  c) Damit sie versteht, welche Inhalte die Zielgruppe möchte.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext (Tomáš's voice message) and fill in the 6 missing words. Three words in the box are not needed.
+Höre den Hörtext (Tomášs Sprachnachricht) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Hallo Herr König, hier ist Tomáš Novák von GreenMove Prag. Ich rufe an, um Ihnen
 > meinen (1) ______ für die nächsten Berliner Besuche zu erklären. Ich plane, zweimal im
@@ -49,7 +49,7 @@ Listen to the Hörtext (Tomáš's voice message) and fill in the 6 missing words
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to Pavel's voice message to his mother. Then choose the correct answer (a, b, or c).
+Höre Pavels Sprachnachricht an seine Mutter. Wähle dann die richtige Antwort (a, b oder c).
 
 1. Warum meldet Pavel sich für den Rösterkurs an?  a) Um seinen eigenen Röstbetrieb zu gründen.  b) Weil sein Chef es verlangt.  c) Um mehr Geld zu verdienen.
 2. Wann beginnt der Kurs?  a) Im Oktober.  b) Im September.  c) Im August.
@@ -73,7 +73,7 @@ Listen to Pavel's voice message to his mother. Then choose the correct answer (a
 
 ## Übung A1 — `um … zu + Infinitiv` — Grundübung (reguläre Verben)
 
-Complete each sentence with `um … zu` + the verb in brackets. 8 items.
+Ergänze jeden Satz mit `um … zu` + dem Verb in Klammern. 8 Sätze.
 
 1. Ich lerne Deutsch, um in Berlin ______. (arbeiten)
 2. Sie macht Sport, um fit ______. (bleiben)
@@ -86,7 +86,7 @@ Complete each sentence with `um … zu` + the verb in brackets. 8 items.
 
 ## Übung A2 — `um … zu` mit trennbaren Verben
 
-Complete with `um … zu` + separable verb. Remember: prefix + zu + stem = one word! 6 items.
+Ergänze mit `um … zu` + trennbarem Verb. Denk daran: Präfix + zu + Stamm = ein Wort! 6 Sätze.
 
 1. Er geht früh ins Bett, um früh ______. (aufstehen)
 2. Ich mache eine Pause, um Pavel ______. (anrufen)
@@ -97,7 +97,7 @@ Complete with `um … zu` + separable verb. Remember: prefix + zu + stem = one w
 
 ## Übung A3 — `damit` — Zwecksatz mit anderem Subjekt
 
-Complete each sentence with `damit` and the correct verb form. The subject changes! 8 items.
+Ergänze jeden Satz mit `damit` und der richtigen Verbform. Das Subjekt wechselt! 8 Sätze.
 
 1. Ich erkläre es langsam, damit du es ______. (verstehen)
 2. Anna schickt die Unterlagen, damit Frau Weber sie ______. (lesen)
@@ -110,7 +110,7 @@ Complete each sentence with `damit` and the correct verb form. The subject chang
 
 ## Übung A4 — `um … zu` oder `damit`? — richtig wählen
 
-Fill in the blank with either `um … zu + Infinitiv` or `damit + Satz`. Watch for the subject! 6 items.
+Ergänze entweder `um … zu + Infinitiv` oder `damit + Satz`. Achte auf das Subjekt! 6 Sätze.
 
 1. Ich lerne Deutsch, ______ (arbeiten — same subject: ich)
 2. Ich erkläre die Regel, ______ (du / verstehen — different subject)
@@ -121,7 +121,7 @@ Fill in the blank with either `um … zu + Infinitiv` or `damit + Satz`. Watch f
 
 ## Übung A5 — Infinitiv mit zu — Schlüsselverben
 
-Complete each sentence with the correct `zu`-Infinitive form of the verb in brackets. 8 items.
+Ergänze jeden Satz mit der richtigen `zu`-Infinitivform des Verbs in Klammern. 8 Sätze.
 
 1. Ich versuche, jeden Tag Deutsch ______. (üben)
 2. Bruno hat angefangen, auf Deutsch ______. (denken)
@@ -130,11 +130,11 @@ Complete each sentence with the correct `zu`-Infinitive form of the verb in brac
 5. Wir planen, nächstes Jahr nach München ______. (fahren)
 6. Frau Weber empfiehlt, die Rechtslage ______. (prüfen)
 7. Er beschließt, mehr Sport ______. (machen)
-8. Anna bittet das Team, ihr zu ______. (helfen)
+8. Anna bittet das Team, ihr ______. (helfen)
 
 ## Übung A6 — `vorhaben` — Satzklammer ausfüllen
 
-Complete each sentence with the correct form of `vorhaben`. Remember the Satzklammer! 6 items.
+Ergänze jeden Satz mit der richtigen Form von `vorhaben`. Denk an die Satzklammer! 6 Sätze.
 
 1. Ich ______ vor, morgen früh aufzustehen.
 2. Du ______ vor, den Kurs zu belegen?
@@ -145,7 +145,7 @@ Complete each sentence with the correct form of `vorhaben`. Remember the Satzkla
 
 ## Übung A7 — Satzbau: Wörter in die richtige Reihenfolge bringen
 
-Put the words in the correct order to form a sentence with `um … zu` or `damit`.
+Bring die Wörter in die richtige Reihenfolge, sodass ein Satz mit `um … zu` oder `damit` entsteht.
 
 1. um – , – arbeiten – in – Berlin – zu – lerne – Deutsch – Ich
 2. zu – Sie – macht – trinken – um – , – Pause – Kaffee – eine
@@ -154,7 +154,7 @@ Put the words in the correct order to form a sentence with `um … zu` or `damit
 
 ## Übung A8 — Antworten mit `um … zu` — Warum-Kette
 
-Answer each question with `um … zu`. Example: "Warum lernst du Deutsch?" → "Ich lerne Deutsch, um in Berlin zu arbeiten." 6 items.
+Beantworte jede Frage mit `um … zu`. Beispiel: „Warum lernst du Deutsch?" → „Ich lerne Deutsch, um in Berlin zu arbeiten." 6 Sätze.
 
 1. Warum geht Pavel in die Akademie? (die Ausbildung machen)
    → Pavel geht in die Akademie, um ______.
@@ -171,7 +171,7 @@ Answer each question with `um … zu`. Example: "Warum lernst du Deutsch?" → "
 
 ## Übung A9 — Grammatik-Check: `zu`-Infinitiv richtig gebildet?
 
-Is the zu-Infinitive formed correctly? Answer R (richtig) oder F (falsch). If F, explain the error.
+Ist der zu-Infinitiv richtig gebildet? Antworte mit R (richtig) oder F (falsch). Wenn F: Erkläre den Fehler.
 
 1. Ich versuche, pünktlich zu kommen. ( )
 2. Er fängt an, zu anfangen. ( )
@@ -181,7 +181,7 @@ Is the zu-Infinitive formed correctly? Answer R (richtig) oder F (falsch). If F,
 
 ## Übung A10 — Gemischt: Zweckstruktur aus dem Kontext wählen
 
-Fill in the correct purpose structure (`um … zu` or `damit + Satz`). 6 items.
+Ergänze die richtige Finalstruktur (`um … zu` oder `damit + Satz`). 6 Sätze.
 
 1. Tomáš schreibt E-Mails auf Deutsch, ______. (sein Team / lesen können)
 2. Pavel liest Fachbücher, ______. (mehr über Kaffee lernen — same subj.)
@@ -196,7 +196,7 @@ Fill in the correct purpose structure (`um … zu` or `damit + Satz`). 6 items.
 
 ## Übung B1 — Dialog ergänzen: Bewerbungsgespräch
 
-Fill in the 8 blanks with the correct structures (`um … zu`, `damit`, or Infinitiv mit `zu`). Context: a job interview.
+Ergänze die 8 Lücken mit den richtigen Strukturen (`um … zu`, `damit` oder Infinitiv mit `zu`). Kontext: ein Vorstellungsgespräch.
 
 — Warum möchten Sie bei uns arbeiten?
 — Ich bewerbe mich, (1) ______ (meine Fähigkeiten einsetzen — same subj.).
@@ -226,7 +226,7 @@ Fill in the 8 blanks with the correct structures (`um … zu`, `damit`, or Infin
 
 ## Übung B3 — Richtigen Ausdruck wählen
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle für jede Lücke die richtige Option (a, b oder c).
 
 1. Ich lerne Deutsch, ______ in Berlin arbeiten zu können.  a) damit  b) um  c) weil
 2. Anna schickt den Plan, ______ das Team ihn lesen kann.  a) um  b) damit  c) obwohl
@@ -237,7 +237,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung B4 — Satzhälften verbinden: Ziel und Zweck
 
-Match each sentence beginning (1–6) with the correct ending (a–g). One ending is not needed.
+Verbinde jeden Satzanfang (1–6) mit dem passenden Satzende (a–g). Ein Satzende wird nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -251,7 +251,7 @@ Match each sentence beginning (1–6) with the correct ending (a–g). One endin
 
 ## Übung B5 — Satzbau: `damit`-Satz richtig ordnen
 
-Put the words in the correct order. Note: in damit-clauses the verb goes to the END.
+Bring die Wörter in die richtige Reihenfolge. Achtung: Im damit-Satz steht das Verb am ENDE.
 
 1. erkläre – Ich – , – es – verstehst – es – damit – du – langsam
 2. nichts – er – schreibt – vergisst – , – Pavel – damit – auf
@@ -260,7 +260,7 @@ Put the words in the correct order. Note: in damit-clauses the verb goes to the 
 
 ## Übung B6 — Bewerbungstext: formelle `um … zu`- und `damit`-Sprache
 
-Fill in the 6 gaps with the correct purpose structure. Context: Anna's cover letter.
+Ergänze die 6 Lücken mit der richtigen Finalstruktur. Kontext: Annas Anschreiben.
 
 Sehr geehrte Damen und Herren,
 
@@ -275,7 +275,7 @@ Bewerbungsunterlagen (6) ______. (sorgfältig prüfen)
 
 ## Übung B7 — Umformung: `damit` → `um … zu` (wenn möglich)
 
-Rewrite with `um … zu` where the subjects are the same. If subjects differ, keep `damit`. 6 items.
+Formuliere mit `um … zu` um, wenn die Subjekte gleich sind. Wenn die Subjekte verschieden sind, bleib bei `damit`. 6 Sätze.
 
 1. Ich lerne, damit ich die Prüfung bestehe.
    → Ich lerne, ______.
@@ -292,7 +292,7 @@ Rewrite with `um … zu` where the subjects are the same. If subjects differ, ke
 
 ## Übung B8 — Leseverstehen: Pavels Bewerbungsschreiben
 
-Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c).
+Lies den Lesetext in lesson.md, Abschnitt 7. Wähle die richtige Antwort (a, b oder c).
 
 1. Wofür bewirbt sich Pavel?  a) Für einen Kaffeeroaster-Kurs.  b) Für eine Stelle als Barista.  c) Für ein Praktikum in einer Bäckerei.
 2. Was ist Pavels langfristiges Ziel?  a) In einem Café in Prenzlauer Berg zu arbeiten.  b) Seinen eigenen Röstbetrieb zu gründen.  c) Eine offizielle Zertifizierung zu bekommen.
@@ -325,7 +325,7 @@ Self-check:
 
 ## Übung C1 — Lückentext: Pavels Bewerbungsschreiben
 
-Fill each gap with one word. 10 gaps.
+Ergänze in jeder Lücke ein Wort. 10 Lücken.
 
 Pavel Novák (1) ______ sich um einen Platz in einem Kaffeeroaster-Kurs der
 Berliner Akademie für Handwerk. Er schreibt, um sich für den Kurs
@@ -343,7 +343,7 @@ die Akademie, seine Bewerbung sorgfältig zu (10) ______.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle für jede Lücke die richtige Option (a, b oder c).
 
 1. Ich lerne Deutsch, ______ in Berlin besser arbeiten zu können.  a) damit  b) um  c) weil
 2. Sie schickt die Unterlagen, ______ das Team sie lesen kann.  a) um  b) damit  c) deshalb
@@ -354,7 +354,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Fill the 10 gaps. Five words are not needed.
+Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht.
 
 > Pavel schreibt ein Motivationsschreiben, (1) ______ sich für den Kurs zu
 > bewerben. Sein Ziel (2) ______ es, einen eigenen Röstbetrieb zu gründen.
@@ -394,7 +394,7 @@ Richtig (R) oder Falsch (F)?
 
 ## Übung C4b — Leseverstehen: Kursbroschüre (neuer Text)
 
-Read the course brochure text below. Choose the correct answer (a, b, or c).
+Lies den Text aus der Kursbroschüre unten. Wähle die richtige Antwort (a, b oder c).
 
 1. Für wen ist der Kurs geeignet?  a) Für erfahrene Baristas.  b) Für Anfänger ohne Erfahrung.  c) Für Studenten der Lebensmitteltechnologie.
 2. Warum findet der Kurs in kleinen Gruppen statt?  a) Um Kosten zu sparen.  b) Damit die Dozenten individuell auf jeden eingehen können.  c) Weil die Räume klein sind.
@@ -423,7 +423,7 @@ Self-check:
 
 ## Übung D1 — Schnelltest: `um … zu`, `damit`, Infinitiv mit `zu` + Wiederholung
 
-Fill in the correct word or structure. Items 13–15 review B1/05 (Relativsätze). 15 items.
+Ergänze das richtige Wort oder die richtige Struktur. Aufgaben 13–15 wiederholen B1/05 (Relativsätze). 15 Aufgaben.
 
 1. Ich lerne Deutsch, um in Berlin ______. (arbeiten)
 2. Er fängt an, Deutsch ______. (lernen — Infinitiv mit zu)
@@ -431,63 +431,63 @@ Fill in the correct word or structure. Items 13–15 review B1/05 (Relativsätze
 4. Ich habe ______, die Prüfung abzulegen. (vorhaben — ich-Form Satzklammer!)
 5. Pavel versucht, pünktlich ______. (anfangen — separable!)
 6. Tomáš plant, öfter nach Berlin ______. (kommen)
-7. Wir machen eine Liste, ______ wir nichts vergessen. (damit)
+7. Wir machen eine Liste, ______ wir nichts vergessen. (purpose)
 8. Sie hofft, eine Zertifizierung ______. (erhalten)
 9. Er bittet Anna, den Bericht ______. (schreiben)
 10. Ich habe vor, morgen früh ______. (aufstehen — separable!)
 11. Modal verbs: Ich ______ kommen. (können — no zu!)
-12. Frau Weber empfiehlt ______, die Richtlinien zu prüfen. (Dativ pronoun: Ihnen)
-13. (B1/05) Das ist der Kurs, ______ ich mich bewerbe. (Relativpronomen + Präp: für den)
-14. (B1/05) Die Kollegin, ______ Pavel kennt, heißt Mia. (Relativpronomen Akk: die)
-15. (B1/05) Er sucht eine Stelle, ______ gut bezahlt ist. (Relativpronomen Nom: die)
+12. Frau Weber empfiehlt ______, die Richtlinien zu prüfen. (Dativ pronoun, Sie-Form)
+13. (B1/05) Das ist der Kurs, ______ ich mich bewerbe. (Relativpronomen + Präposition — sich bewerben für)
+14. (B1/05) Die Kollegin, ______ Pavel kennt, heißt Mia. (Relativpronomen, Akkusativ)
+15. (B1/05) Er sucht eine Stelle, ______ gut bezahlt ist. (Relativpronomen, Nominativ)
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
 
-Circle the word that does not belong. 6 groups.
+Streiche das Wort, das nicht passt. 6 Gruppen.
 
 1. versuchen – hoffen – planen – obwohl
 2. das Ziel – die Absicht – der Vorsatz – das Angebot
 3. anfangen – aufhören – vorhaben – können
-4. um … zu – damit – weil – um … zu
+4. um … zu – damit – weil – mit dem Ziel, … zu
 5. die Bewerbung – der Antrag – der Lebenslauf – die Meisterschaft
 6. aufzustehen – einzukaufen – anzufangen – zu lernen
 
 ## Übung D3 — Rückblick: B1/04 (Passiv) und B1/03 (Konjunktiv II)
 
-Fill in the correct form. Items 1–5 review B1/04 (Passiv); items 6–10 review B1/03 (Konjunktiv II). 10 items.
+Ergänze die richtige Form. Aufgaben 1–5 wiederholen B1/04 (Passiv), Aufgaben 6–10 B1/03 (Konjunktiv II). 10 Aufgaben.
 
 B1/04 — Passiv:
 1. Der Kurs ______ von der Akademie angeboten. (Präsens Passiv: werden)
 2. Die Bewerbung ______ gestern eingereicht. (Präteritum Passiv: werden)
 3. Das Projekt ______ von Anna geleitet. (Präsens Passiv)
 4. Die Richtlinien ______ sorgfältig geprüft worden. (Perfekt Passiv: sein)
-5. Der Plan muss noch ______. (Passiv mit Modal: genehmigt werden)
+5. Der Plan muss noch ______. (genehmigen — Passiv mit Modalverb)
 
 B1/03 — Konjunktiv II:
-6. Wenn ich mehr Zeit hätte, ______ ich mehr Deutsch lernen. (würde)
-7. Er ______ gerne eine Ausbildung machen, aber er hat kein Geld. (würde)
+6. Wenn ich mehr Zeit hätte, ______ ich mehr Deutsch lernen. (werden — KII)
+7. Er ______ gerne eine Ausbildung machen, aber er hat kein Geld. (werden — KII)
 8. Wenn Pavel den Kurs ______, würde er eine Zertifizierung bekommen. (belegen — Konj. II)
-9. Ich ______ an deiner Stelle öfter üben. (würde)
+9. Ich ______ an deiner Stelle öfter üben. (werden — KII)
 10. Wenn wir ein größeres Budget ______, könnten wir mehr investieren. (haben — Konj. II)
 
 ## Übung D4 — Selbsttest: `um … zu`, `damit`, Infinitiv mit `zu` (20 Punkte)
 
-Fill in the correct form. 1 point per gap. 20 items.
+Ergänze die richtige Form. 1 Punkt pro Lücke. 20 Aufgaben.
 
 1. Ich lerne Vokabeln, um die Prüfung ______. (bestehen)
 2. Er geht früh ins Bett, um früh ______. (aufstehen — separable)
-3. Sie macht eine Umfrage, ______ das Team informiert ist. (damit)
-4. Ich fange an, täglich zu ______. (üben)
+3. Sie macht eine Umfrage, ______ das Team informiert ist. (purpose — the subject changes)
+4. Ich fange an, täglich ______. (üben)
 5. Pavel hat vor, den Kurs ______. (belegen)
 6. Wir versuchen, pünktlich ______. (anfangen — separable)
 7. Bruno hofft, die B2-Prüfung ______. (bestehen)
-8. Sie empfiehlt ______, mehr zu lesen. (uns — Dativ)
+8. Sie empfiehlt ______, mehr zu lesen. (wir → Dativ)
 9. Er hat ______, früh aufzustehen. (vorhaben — er-Form)
-10. Ich lerne Deutsch, ______ mein Chef mich besser versteht. (damit)
+10. Ich lerne Deutsch, ______ mein Chef mich besser versteht. (purpose — the subject changes)
 11. Tomáš plant, im Herbst nach Berlin ______. (kommen)
 12. Sie hat ______, das Formular auszufüllen. (vergessen)
 13. Er ______ auf, so viel zu arbeiten. (aufhören)
-14. Ich möchte ______ Möglichkeit nutzen, zu lernen. (die — Akkusativ)
+14. Ich möchte ______ Möglichkeit nutzen, zu lernen. (bestimmter Artikel, Akkusativ)
 15. Wir ______ vor, das Projekt nächste Woche zu starten. (vorhaben — wir-Form)
 16. Sie bittet ihn, den Bericht ______. (schreiben)
 17. Ich habe beschlossen, mehr Sport ______. (machen)

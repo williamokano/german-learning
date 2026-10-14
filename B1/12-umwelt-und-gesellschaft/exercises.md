@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Lukas ist gegen die Einführung der Citymaut. ( )
 2. Pavel macht sich Sorgen um Handwerker und kleine Betriebe. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Was macht Yusuf am Anfang des Dialogs?  a) Er liest Hannah seinen Entwurf vor.  b) Er liest einen fertigen Artikel vor.  c) Er schreibt zum ersten Mal.
 2. Was kritisiert Hannah an Yusufs erstem Satz?  a) Er ist zu lang.  b) Er klingt zu journalistisch und anklagend.  c) Er enthält einen Grammatikfehler.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext (Anna und Bruno im Supermarkt) and fill in the 6 missing words. Three words in the box are not needed.
+Höre den Hörtext (Anna und Bruno im Supermarkt) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Anna und Bruno diskutieren im Supermarkt über das neue Plastikverbot.
 > Anna findet, die (1) ______ von Plastikverpackungen hätte schon lange verboten werden
@@ -50,7 +50,7 @@ Listen to the Hörtext (Anna und Bruno im Supermarkt) and fill in the 6 missing 
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the radio news clip. Then choose the correct answer (a, b, or c).
+Höre die Radionachricht. Wähle dann die richtige Antwort (a, b oder c).
 
 1. Was wurde heute im Abgeordnetenhaus verabschiedet?  a) Ein neues Klimapaket.  b) Ein neues Verkehrsgesetz.  c) Ein Stadtentwicklungsplan.
 2. Bis wann soll der ÖPNV vollständig elektrifiziert werden?  a) Bis 2025.  b) Bis 2028.  c) Bis 2030.
@@ -74,7 +74,7 @@ Listen to the radio news clip. Then choose the correct answer (a, b, or c).
 
 ## Übung A1 — Nominalisierung: Verb → Nomen mit -ung
 
-Form the -ung noun from each verb. Write the noun with its article (always feminine: die). 8 items.
+Bilde aus jedem Verb das Nomen auf -ung. Schreib das Nomen mit Artikel (immer feminin: die). 8 Aufgaben.
 
 1. verbessern → (1) ______
 2. einführen → (2) ______
@@ -87,7 +87,7 @@ Form the -ung noun from each verb. Write the noun with its article (always femin
 
 ## Übung A2 — Nominalisierung: Verb → Gerundium (Neutrum)
 
-Write the nominalized verb (Gerundium) with article `das`. 7 items.
+Schreib das nominalisierte Verb (Gerundium) mit dem Artikel `das`. 7 Aufgaben.
 
 1. recyceln → (1) ______
 2. heizen → (2) ______
@@ -99,7 +99,7 @@ Write the nominalized verb (Gerundium) with article `das`. 7 items.
 
 ## Übung A3 — Nominalisierung: Adjektiv → Nomen mit -keit / -heit
 
-Form the abstract noun from each adjective. Write with article `die`. 6 items.
+Bilde aus jedem Adjektiv das abstrakte Nomen. Schreib es mit dem Artikel `die`. 6 Aufgaben.
 
 1. wichtig → (1) ______
 2. möglich → (2) ______
@@ -110,24 +110,24 @@ Form the abstract noun from each adjective. Write with article `die`. 6 items.
 
 ## Übung A4 — Verbalstil → Nominalstil: Sätze umformulieren
 
-Rewrite each Verbalstil sentence in Nominalstil using the cue. 6 items.
+Formuliere jeden Satz im Verbalstil mit Hilfe des Verbs in Klammern in den Nominalstil um. 6 Sätze.
 
 1. Wir müssen die Umwelt schützen.
-   → (1) ______ der Umwelt ist notwendig. (der Schutz)
+   → (1) ______ der Umwelt ist notwendig. (schützen)
 2. Die Mieten steigen.
-   → (2) ______ der Mietpreise ist ein Problem. (der Anstieg)
+   → (2) ______ der Mietpreise ist ein Problem. (steigen)
 3. Man nutzt erneuerbare Energie.
-   → (3) ______ erneuerbarer Energien nimmt zu. (die Nutzung)
+   → (3) ______ erneuerbarer Energien nimmt zu. (nutzen)
 4. Wenn man Energie spart, sinkt der CO₂-Ausstoß.
-   → Durch (4) ______ sinkt der CO₂-Ausstoß. (das Energiesparen)
+   → Durch (4) ______ sinkt der CO₂-Ausstoß. (Energie sparen)
 5. Man verbessert die Luftqualität.
-   → (5) ______ der Luftqualität ist das Ziel. (die Verbesserung)
+   → (5) ______ der Luftqualität ist das Ziel. (verbessern)
 6. Man führt neue Maßnahmen ein.
-   → (6) ______ neuer Maßnahmen ist geplant. (die Einführung)
+   → (6) ______ neuer Maßnahmen ist geplant. (einführen)
 
 ## Übung A5 — Nominalstil → Verbalstil: rück-transformieren
 
-Rewrite each Nominalstil phrase as a full Verbalstil sentence using the cue. 6 items.
+Formuliere jede Nominalphrase mit Hilfe der Vorgabe als vollständigen Satz im Verbalstil. 6 Aufgaben.
 
 1. Die Reduzierung der Emissionen ist dringend notwendig.
    → Man muss die Emissionen (1) ______.
@@ -144,7 +144,7 @@ Rewrite each Nominalstil phrase as a full Verbalstil sentence using the cue. 6 i
 
 ## Übung A6 — Grammatik-Check: Nominalstil richtig gebildet?
 
-Is the nominalization correct? Answer R (richtig) oder F (falsch). If F, explain the error.
+Ist die Nominalisierung richtig? Antworte mit R (richtig) oder F (falsch). Wenn F: Erkläre den Fehler.
 
 1. Das Recyceln von Plastik ist sinnvoll. (nominalized verb, neuter) ( )
 2. Die Heizen ist teuer. (nominalized verb) ( )
@@ -154,7 +154,7 @@ Is the nominalization correct? Answer R (richtig) oder F (falsch). If F, explain
 
 ## Übung A7 — Wortschatz: Umwelt-Nomen und Bedeutungen
 
-Match each German term (1–8) with its English meaning (a–h).
+Verbinde jeden deutschen Begriff (1–8) mit seiner englischen Bedeutung (a–h).
 
 | Links | | Rechts |
 |---|---|---|
@@ -169,7 +169,7 @@ Match each German term (1–8) with its English meaning (a–h).
 
 ## Übung A8 — Passiv im Umweltkontext — Präsens
 
-Fill in the correct Präsens Passiv form (wird/werden + Partizip II). 6 items.
+Ergänze die richtige Form im Passiv Präsens (wird/werden + Partizip II). 6 Sätze.
 
 1. Jährlich (1) ______ Millionen Tonnen CO₂ ausgestoßen. (ausstoßen)
 2. Erneuerbare Energien (2) ______ zunehmend genutzt. (nutzen)
@@ -180,7 +180,7 @@ Fill in the correct Präsens Passiv form (wird/werden + Partizip II). 6 items.
 
 ## Übung A9 — Passiv mit Modalverben — Umwelt und Gesellschaft
 
-Fill in the Passiv-mit-Modal form (modal + Partizip II + werden). 6 items.
+Ergänze die Form im Passiv mit Modalverb (Modalverb + Partizip II + werden). 6 Sätze.
 
 1. Die Emissionen (1) ______. (müssen / reduzieren)
 2. Neue Gesetze (2) ______. (sollen / einführen)
@@ -191,7 +191,7 @@ Fill in the Passiv-mit-Modal form (modal + Partizip II + werden). 6 items.
 
 ## Übung A10 — Wortschatz: Umwelt oder Gesellschaft?
 
-Sort each word into the correct category.
+Ordne jedes Wort der richtigen Kategorie zu.
 
 > die Emission · die Integration · das Treibhausgas · die Wohnungsnot · die Nachhaltigkeit · der Mindestlohn · das Recycling · die Gleichstellung · der CO₂-Ausstoß · die Gentrifizierung
 
@@ -201,7 +201,7 @@ Sort each word into the correct category.
 
 ## Übung A11 — Satzbau: Nominalstil-Sätze richtig ordnen
 
-Put the words in the correct order to form a Nominalstil sentence.
+Bring die Wörter in die richtige Reihenfolge, sodass ein Satz im Nominalstil entsteht.
 
 1. gesamtgesellschaftliche – der – eine – ist – Aufgabe – Schutz – Der – Umwelt
 2. wird – diskutiert – der – Einführung – Die – Citymaut
@@ -214,7 +214,7 @@ Put the words in the correct order to form a Nominalstil sentence.
 
 ## Übung B1 — Dialog ergänzen: Diskussion über die Citymaut
 
-Fill in the 8 blanks. Use Nominalisierungen, opinion phrases, or Passiv as indicated.
+Ergänze die 8 Lücken. Verwende – wie angegeben – Nominalisierungen, Redemittel zur Meinungsäußerung oder das Passiv.
 
 — Lukas, was denkst du über die neue Citymaut?
 — Ich bin (1) ______, dass die Einführung der Citymaut überfällig ist.
@@ -243,7 +243,7 @@ Fill in the 8 blanks. Use Nominalisierungen, opinion phrases, or Passiv as indic
 
 ## Übung B3 — Richtigen Ausdruck wählen: Nominalstil und Meinung
 
-Choose the correct option (a, b, or c).
+Wähle die richtige Option (a, b oder c).
 
 1. ______ der Luftqualität ist das wichtigste Ziel der Stadtpolitik.  a) Das Verbessern  b) Die Verbesserung  c) Verbessert
 2. Jährlich ______ Millionen Tonnen CO₂ ausgestoßen.  a) wird  b) werden  c) ist
@@ -254,7 +254,7 @@ Choose the correct option (a, b, or c).
 
 ## Übung B4 — Meinung und Argument verbinden
 
-Match each sentence opener (1–6) with the correct continuation (a–g). One continuation is not needed.
+Verbinde jeden Satzanfang (1–6) mit der passenden Fortsetzung (a–g). Eine Fortsetzung wird nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -268,7 +268,7 @@ Match each sentence opener (1–6) with the correct continuation (a–g). One co
 
 ## Übung B5 — Passiv: Aktiv → Passiv umformen
 
-Rewrite each active sentence as a Passiv sentence (Präteritum). 6 items.
+Formuliere jeden Aktivsatz als Passivsatz (Präteritum). 6 Sätze.
 
 1. Die Stadt führte neue Maßnahmen ein.
    → Neue Maßnahmen (1) ______.
@@ -285,7 +285,7 @@ Rewrite each active sentence as a Passiv sentence (Präteritum). 6 items.
 
 ## Übung B6 — Stellungnahme-Sprache: Konnektoren einsetzen
 
-Fill in the correct connector or opinion phrase from the box. Use each word once. 8 items.
+Ergänze den richtigen Konnektor oder das passende Redemittel aus dem Kasten. Verwende jedes Wort einmal. 8 Sätze.
 
 (1) ______ ist die Verbesserung der Luftqualität das wichtigste Ziel.
 (2) ______ profitieren nicht alle Bürger davon. Zwar werden Emissionen gesenkt,
@@ -323,7 +323,7 @@ Beantworte die Fragen in ganzen Sätzen auf Deutsch.
 
 ## Übung B8 — Verbalstil oder Nominalstil?
 
-Categorize each phrase as Verbalstil (V) or Nominalstil (N).
+Ordne jede Formulierung zu: Verbalstil (V) oder Nominalstil (N).
 
 > Wir müssen die Umwelt schützen. · Der Schutz der Umwelt ist notwendig. · Die Mieten steigen. · Der Anstieg der Mietpreise ist ein Problem. · Wenn man recycelt, spart man Ressourcen. · Durch das Recyceln spart man Ressourcen. · Man nutzt erneuerbare Energie. · Die Nutzung erneuerbarer Energien nimmt zu.
 
@@ -358,7 +358,7 @@ Self-check:
 
 ## Übung C1 — Lückentext: Yusufs Gastkommentar
 
-Fill each gap with one word. 10 gaps.
+Ergänze in jeder Lücke ein Wort. 10 Lücken.
 
 Die (1) ______ des städtischen Autoverkehrs wird in vielen europäischen Metropolen
 bereits praktiziert. In London, Stockholm und Oslo (2) ______ bereits messbare
@@ -376,7 +376,7 @@ Zusammenfassend lässt (10) ______ sagen: die Einführung ist ein richtiger Schr
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle für jede Lücke die richtige Option (a, b oder c).
 
 1. Die ______ erneuerbarer Energien nimmt jedes Jahr zu.  a) Nutzung  b) Nutzen  c) Nutzer
 2. Jährlich ______ Millionen Tonnen CO₂ in die Atmosphäre abgegeben.  a) wird  b) werden  c) sind
@@ -387,7 +387,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Fill the 10 gaps. Five words are not needed.
+Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht.
 
 > Die (1) ______ der Emissionen ist das oberste Ziel der Berliner Klimapolitik.
 > Einerseits (2) ______ die Einführung der Citymaut ökologisch sinnvoll.
@@ -424,7 +424,7 @@ Richtig (R) oder Falsch (F)?
 
 ## Übung C4b — Leseverstehen: Pressemitteilung (neuer Text)
 
-Read the press release below. Choose the correct answer (a, b, or c).
+Lies die Pressemitteilung unten. Wähle die richtige Antwort (a, b oder c).
 
 1. Wann wird die Citymaut eingeführt?  a) Ab Juni 2026.  b) Ab Januar 2027.  c) Ab 2030.
 2. Was passiert mit den Einnahmen aus der Citymaut?  a) Sie fließen in den Bundeshaushalt.  b) Sie werden in den ÖPNV investiert.  c) Sie werden an Geringverdiener verteilt.
@@ -454,27 +454,27 @@ Self-check:
 
 ## Übung D1 — Schnelltest: Nominalisierung, Passiv + Wiederholung (15 Punkte)
 
-Fill in the correct word or form. Items 12–15 review earlier lessons. 15 items.
+Ergänze das richtige Wort oder die richtige Form. Aufgaben 12–15 wiederholen frühere Lektionen. 15 Aufgaben.
 
 1. verbessern → (1) ______ (die -ung-Form)
 2. Das (2) ______ von Plastik spart Ressourcen. (recyceln — Gerundium)
 3. wichtig → (3) ______ (Adjektiv-Nominalisierung)
-4. Jährlich (4) ______ Millionen Tonnen CO₂ ausgestoßen. (Passiv Präsens: werden)
-5. Neue Maßnahmen (5) ______ eingeführt werden. (Passiv mit Modal: sollen)
+4. Jährlich (4) ______ Millionen Tonnen CO₂ ausgestoßen. (Passiv Präsens)
+5. Neue Maßnahmen (5) ______ eingeführt werden. (Passiv mit Modal — 'are supposed to')
 6. Nicht nur die Luft, (6) ______ auch der Lärm soll abnehmen. (Konnektor)
 7. Zwar ist die Idee gut, (7) ______ die Kosten sind hoch. (Konnektor)
-8. Der (8) ______ der Emissionen ist das Ziel. (Rückgang — the correct noun)
-9. Einerseits ist die Verbesserung wichtig, (9) ______ trifft es kleine Betriebe. (andererseits)
-10. Ich bin der (10) ______, dass die Citymaut nötig ist. (Ansicht)
-11. Die Einnahmen (11) ______ in den ÖPNV investiert. (werden)
+8. Der (8) ______ der Emissionen ist das Ziel. (zurückgehen → Nomen)
+9. Einerseits ist die Verbesserung wichtig, (9) ______ trifft es kleine Betriebe. (Konnektor: on the other hand)
+10. Ich bin der (10) ______, dass die Citymaut nötig ist. (Meinungsphrase)
+11. Die Einnahmen (11) ______ in den ÖPNV investiert. (Passiv Präsens)
 12. (B1/10) sowohl … (12) ______ auch (Konnektor-Ergänzung)
-13. (B1/04) Die Emissionen (13) ______ in den letzten Jahren reduziert worden. (Perfekt Passiv: sind)
-14. (B1/02) Das ist teuer; (14) ______ kauft er es nicht. (deshalb)
-15. (B1/04) Der Bericht (15) ______ von der Regierung veröffentlicht. (Präteritum Passiv: wurde)
+13. (B1/04) Die Emissionen (13) ______ in den letzten Jahren reduziert worden. (Perfekt Passiv)
+14. (B1/02) Das ist teuer; (14) ______ kauft er es nicht. (that's why)
+15. (B1/04) Der Bericht (15) ______ von der Regierung veröffentlicht. (Präteritum Passiv)
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
 
-Circle the word that does not belong. 6 groups.
+Kreise das Wort ein, das nicht passt. 6 Gruppen.
 
 1. die Verbesserung – die Einführung – die Entwicklung – das Recyceln
 2. der Klimawandel – die Nachhaltigkeit – die Gentrifizierung – das Treibhausgas
@@ -485,7 +485,7 @@ Circle the word that does not belong. 6 groups.
 
 ## Übung D3 — Rückblick: B1/04 (Passiv) und B1/10 (Konnektoren)
 
-Items 1–5 review B1/04 (Passiv); items 6–10 review B1/10 (Zweiteilige Konnektoren). 10 items.
+Aufgaben 1–5 wiederholen B1/04 (Passiv), Aufgaben 6–10 wiederholen B1/10 (zweiteilige Konnektoren). 10 Aufgaben.
 
 B1/04 — Passiv:
 1. Die Maßnahmen (1) ______ gestern beschlossen. (Präteritum Passiv)
@@ -503,16 +503,16 @@ B1/10 — Zweiteilige Konnektoren:
 
 ## Übung D4 — Selbsttest: Nominalisierung, Passiv, Meinung (20 Punkte)
 
-Fill in the correct form. 1 point per gap. 20 items.
+Ergänze die richtige Form. 1 Punkt pro Lücke. 20 Aufgaben.
 
 1. verbessern → (1) ______ (die -ung-Form)
 2. möglich → (2) ______ (Adjektiv → Nomen, feminine)
 3. Das (3) ______ von Plastik ist umweltfreundlich. (recyceln — Gerundium)
-4. Durch das (4) ______ sinkt der CO₂-Ausstoß. (Energiesparen)
-5. Der Schutz (5) ______ Umwelt ist notwendig. (Genitiv: der)
-6. Jährlich (6) ______ Treibhausgase ausgestoßen. (Passiv Präsens: werden)
-7. Neue Gesetze (7) ______ eingeführt werden. (Passiv mit Modal: müssen)
-8. Die Emissionen (8) ______ bereits um 20 Prozent reduziert worden. (Perfekt Passiv: sind)
+4. Durch das (4) ______ sinkt der CO₂-Ausstoß. (Energie sparen — Gerundium)
+5. Der Schutz (5) ______ Umwelt ist notwendig. (Genitiv: die Umwelt)
+6. Jährlich (6) ______ Treibhausgase ausgestoßen. (Passiv Präsens)
+7. Neue Gesetze (7) ______ eingeführt werden. (Passiv mit Modal — 'must')
+8. Die Emissionen (8) ______ bereits um 20 Prozent reduziert worden. (Perfekt Passiv)
 9. Nicht nur der Nahverkehr, (9) ______ auch das Radwegenetz muss ausgebaut werden.
 10. Zwar ist die Maut eine gute Idee, (10) ______ sie trifft kleine Betriebe hart.
 11. Sowohl die Umwelt (11) ______ auch die soziale Gerechtigkeit ist wichtig.
@@ -522,7 +522,7 @@ Fill in the correct form. 1 point per gap. 20 items.
 15. Die (15) ______ des öffentlichen Nahverkehrs muss schneller erfolgen. (ausbauen)
 16. Durch das (16) ______ mit Gas entstehen viele Emissionen. (heizen — Gerundium)
 17. einführen → (17) ______ (die -ung-Form)
-18. Die (18) ______ der Mietpreise ist ein soziales Problem. (ansteigen → der Anstieg)
-19. (19) ______ die ökologischen (20) ______ die wirtschaftlichen Aspekte müssen berücksichtigt werden. (Sowohl … als auch)
+18. Die (18) ______ der Mietpreise ist ein soziales Problem. (ansteigen → Nomen)
+19. (19) ______ die ökologischen (20) ______ die wirtschaftlichen Aspekte müssen berücksichtigt werden. (both … and)
 
 _16+ / 20 → proceed to B1/13. Below 16: redo Block A1–A5 tomorrow, then retest D4._

@@ -234,8 +234,8 @@ Selbstkorrektur:
 1. ~~schlafen~~ — schlafen is a simple verb with no fixed preposition. The others are all verbs with fixed prepositions.
 2. ~~daher~~ — daher means 'therefore / from there' — it is not a Pronominaladverb replacing a prepositional phrase.
 3. ~~warum~~ — warum means 'why' (reason question) — it is not a wo(r)- Pronominaladverb.
-4. ~~sich freuen an~~ — sich freuen an does not exist in standard German. The correct forms are auf (future) and über (past/present).
-5. ~~kommen auf~~ — kommen auf is not a standard fixed-preposition verb in this set. bestehen auf (= insist on) is the correct form.
+4. ~~sich interessieren an~~ — sich interessieren takes für (sich interessieren für); an belongs to the noun (Interesse an). The others are correct verb + preposition pairs.
+5. ~~besuchen~~ — besuchen takes a direct Akkusativ object and no fixed preposition. The others are verbs with a fixed preposition (bestehen auf = insist on).
 6. ~~Ich denke daran ihn.~~ — Pronominaladverbien replace the whole Präp + Pronomen — you never combine daran + ihn. For persons: Ich denke an ihn.
 
 ## Übung D3 — Rückblick: B1/07 (Genitiv) und B1/06 (Infinitiv mit zu)

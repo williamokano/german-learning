@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Tomáš braucht einen Text für die Startseite seiner Website. ( )
 2. Mia schlägt vor, mit einem Superlativ anzufangen. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Was hat Herr Steinmeyer bereits gelesen?  a) Das Empfehlungsschreiben, das Anna ihm geschickt hat.  b) Annas Bewerbung für eine neue Stelle.  c) Annas Lebenslauf.
 2. Was kritisiert Herr Steinmeyer an Annas erster Formulierung?  a) Sie ist zu formell.  b) Sie ist zu allgemein.  c) Sie enthält einen Grammatikfehler.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext (Mia describes her ideal apartment) and fill in the 6 missing words. Three words in the box are not needed.
+Höre den Hörtext (Mia beschreibt ihre Traumwohnung) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Ich suche seit Monaten eine Wohnung, in (1) ______ ich wirklich zur Ruhe kommen kann.
 > Das Wichtigste, (2) ______ ich mir wünsche, ist ein ruhiges Zimmer, in (3) ______ ich abends
@@ -48,7 +48,7 @@ Listen to the Hörtext (Mia describes her ideal apartment) and fill in the 6 mis
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to Pavel's voice message. Then choose the correct answer (a, b, or c).
+Höre die Sprachnachricht von Pavel. Wähle dann die richtige Antwort (a, b oder c).
 
 1. Warum ruft Pavel an?  a) Um Anna ein neues Café zu empfehlen.  b) Um Anna zu einer Konferenz einzuladen.  c) Um Anna nach einem Rezept zu fragen.
 2. Was sagt Pavel über die Barista?  a) Sie arbeitet schon seit Jahren dort.  b) Sie ist unglaublich gut und kennt viele Methoden.  c) Sie kommt aus Äthiopien.
@@ -72,7 +72,7 @@ Listen to Pavel's voice message. Then choose the correct answer (a, b, or c).
 
 ## Übung A1 — Relativpronomen — vollständige Tabelle (Nom / Akk / Dat)
 
-Fill in the complete relative pronoun table. 12 gaps.
+Ergänze die vollständige Tabelle der Relativpronomen. 12 Lücken.
 
 |  | maskulin | feminin | neutral | Plural |
 |---|---|---|---|---|
@@ -110,36 +110,36 @@ Fülle die Lücken mit dem richtigen Relativpronomen im Akkusativ. 8 Sätze.
 
 Fülle die Lücken mit dem richtigen Relativpronomen im Dativ. 8 Sätze.
 
-1. Das ist der Kollege, ______ ich vertraue. (der Kollege — Dat.: dem)
-2. Das ist die Mitarbeiterin, ______ ich danke. (die Mitarbeiterin — Dat.: der)
-3. Das ist das Team, ______ alles zu verdanken ist. (das Team — Dat.: dem)
-4. Das sind die Kunden, ______ wir helfen. (die Kunden — Dat.: denen)
-5. Das ist der Gründer, ______ die Firma gehört. (der Gründer — Dat.: dem)
-6. Das ist die Person, ______ ich am meisten vertraue. (die Person — Dat.: der)
-7. Das sind Freunde, ______ ich alles erzählen kann. (Freunde — Dat.: denen)
-8. Das ist das Projekt, ______ wir viel Zeit gewidmet haben. (das Projekt — Dat.: dem)
+1. Das ist der Kollege, ______ ich vertraue. (der Kollege — Dat.)
+2. Das ist die Mitarbeiterin, ______ ich danke. (die Mitarbeiterin — Dat.)
+3. Das ist das Team, ______ alles zu verdanken ist. (das Team — Dat.)
+4. Das sind die Kunden, ______ wir helfen. (die Kunden — Dat.)
+5. Das ist der Gründer, ______ die Firma gehört. (der Gründer — Dat.)
+6. Das ist die Person, ______ ich am meisten vertraue. (die Person — Dat.)
+7. Das sind Freunde, ______ ich alles erzählen kann. (Freunde — Dat.)
+8. Das ist das Projekt, ______ wir viel Zeit gewidmet haben. (das Projekt — Dat.)
 
 ## Übung A5 — Präposition + Relativpronomen
 
 Fülle die Lücken mit der richtigen Kombination aus Präposition + Relativpronomen. 6 Sätze.
 
-1. Das ist eine App, ______ man Scooter mieten kann. (mit + die App → mit der)
-2. Das ist das Stadtgebiet, ______ die Nachfrage am größten ist. (in + das Gebiet → in dem)
-3. Das sind die Bezirke, ______ das Angebot minimal war. (in + die Bezirke → in denen)
-4. Das ist der Grund, ______ wir expandieren. (für + der Grund → für den)
-5. Das ist das Ziel, ______ wir jeden Tag arbeiten. (für + das Ziel → für das)
-6. Das sind die Ressourcen, ______ das Team verfügt. (über + die Ressourcen → über die)
+1. Das ist eine App, ______ man Scooter mieten kann. (mit + die App)
+2. Das ist das Stadtgebiet, ______ die Nachfrage am größten ist. (in + das Gebiet)
+3. Das sind die Bezirke, ______ das Angebot minimal war. (in + die Bezirke)
+4. Das ist der Grund, ______ wir expandieren. (für + der Grund)
+5. Das ist das Ziel, ______ wir jeden Tag arbeiten. (für + das Ziel)
+6. Das sind die Ressourcen, ______ das Team verfügt. (über + die Ressourcen)
 
 ## Übung A6 — `was` als Relativpronomen
 
 Fülle die Lücken mit `was` oder dem richtigen Relativpronomen (das/die/der/den). 6 Sätze.
 
-1. Alles, ______ du brauchst, ist hier. (alles → was)
-2. Das ist das Problem, ______ wir lösen müssen. (das Problem → das)
-3. Etwas, ______ mich wirklich überrascht hat, war die Reaktion. (etwas → was)
-4. Das Beste, ______ er je gemacht hat, ist dieses Produkt. (das Beste → was)
-5. Nichts, ______ er gesagt hat, war falsch. (nichts → was)
-6. Das ist das Einzige, ______ wir noch brauchen. (das Einzige → was)
+1. Alles, ______ du brauchst, ist hier. (alles)
+2. Das ist das Problem, ______ wir lösen müssen. (das Problem)
+3. Etwas, ______ mich wirklich überrascht hat, war die Reaktion. (etwas)
+4. Das Beste, ______ er je gemacht hat, ist dieses Produkt. (das Beste)
+5. Nichts, ______ er gesagt hat, war falsch. (nichts)
+6. Das ist das Einzige, ______ wir noch brauchen. (das Einzige)
 
 ## Übung A7 — `wo` als Relativpronomen für Orte
 
@@ -194,7 +194,7 @@ Ist das Relativpronomen korrekt? Richtig (R) oder Falsch (F)? Bei F: erkläre de
 
 ## Übung B1 — Dialog ergänzen — Produktbeschreibung mit Relativsätzen
 
-Fill in the blanks with the correct relative pronoun or preposition + pronoun combination. 8 gaps.
+Ergänze die Lücken mit dem richtigen Relativpronomen oder der richtigen Kombination aus Präposition + Relativpronomen. 8 Lücken.
 
 — Ich schreibe gerade den Text für unsere neue Website. Kannst du helfen?
 — Natürlich! Fang mit einer Definition an. „Das ist ein Service, (1) ______ du in Minuten buchen kannst." (mit …)
@@ -255,12 +255,12 @@ Bringe die Wörter in die richtige Reihenfolge. Das Verb im Relativsatz steht am
 
 Formelle Sprache: Fülle die Lücken mit Präposition + Relativpronomen. 6 Sätze.
 
-1. Das ist eine Stelle, ______ sich viele bewerben. (um + die → um die)
-2. Das ist ein Ergebnis, ______ wir sehr stolz sind. (auf + das → auf das)
-3. Das ist ein Projekt, ______ alle Mitarbeiter beigetragen haben. (zu + dem → zu dem)
-4. Das ist die Abteilung, ______ Anna wechseln möchte. (in + die → in die)
-5. Das ist der Kollege, ______ dieser Erfolg hauptsächlich abhängt. (von + dem → von dem)
-6. Das ist eine Aufgabe, ______ man sich wirklich kümmern muss. (um + die → um die)
+1. Das ist eine Stelle, ______ sich viele bewerben. (sich bewerben um)
+2. Das ist ein Ergebnis, ______ wir sehr stolz sind. (stolz sein auf)
+3. Das ist ein Projekt, ______ alle Mitarbeiter beigetragen haben. (beitragen zu)
+4. Das ist die Abteilung, ______ Anna wechseln möchte. (wechseln in)
+5. Das ist der Kollege, ______ dieser Erfolg hauptsächlich abhängt. (abhängen von)
+6. Das ist eine Aufgabe, ______ man sich wirklich kümmern muss. (sich kümmern um)
 
 ## Übung B7 — Definitionen schreiben — "Ein … ist jemand/etwas, der/die/das/was …"
 
@@ -275,7 +275,7 @@ Schreib eine Definition mit einem Relativsatz. 6 Sätze.
 
 ## Übung B8 — Leseverstehen: Lesetext (Über uns — die Website des Startups)
 
-Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c).
+Lies den Lesetext in lesson.md, Abschnitt 7. Wähle die richtige Antwort (a, b oder c).
 
 1. Worauf konzentriert sich das Startup?  a) Auf Stadtgebiete, in denen der öffentliche Nahverkehr unzureichend ist.  b) Auf das Stadtzentrum, das gut erschlossen ist.  c) Auf Stadtgebiete, wo viele Autos fahren.
 2. Was unterscheidet das Startup von anderen Anbietern?  a) Der günstige Preis.  b) Der Fokus auf Randbezirke.  c) Die schnelle Lieferung.
@@ -416,7 +416,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per gap. Items marked (B1/03) or (B1/04) review earlier lessons. 15 items.
+Eine Minute pro Lücke. Aufgaben mit (B1/03) oder (B1/04) wiederholen frühere Lektionen. 15 Aufgaben.
 
 1. Fill in the relative pronoun (Nom., f.): die App, ______ kostenlos ist.
 2. Fill in the relative pronoun (Akk., m.): der Kollege, ______ ich gut kenne.
@@ -430,7 +430,7 @@ One minute per gap. Items marked (B1/03) or (B1/04) review earlier lessons. 15 i
 10. Fill in: Berlin ist die Stadt, ______ Pavel wohnt.
 11. (B1/03) Konjunktiv II of `können`, ich-form: ______
 12. (B1/03) Fill in Konjunktiv II: Wenn ich Zeit hätte, ______ ich dir helfen.
-13. (B1/04) Passiv Präsens: Die App ______ täglich ______ . (nutzen → wird genutzt) → ______ täglich ______.
+13. (B1/04) Passiv Präsens: Die App ______ täglich ______ . (nutzen) → ______ täglich ______.
 14. Fill in: Das ist die Gegend, ______ die Nachfrage am größten ist. (in + f. Dat.)
 15. Fill in the Dativ relative pronoun (f.): die Mitarbeiterin, ______ ich danke.
 
@@ -447,7 +447,7 @@ Streiche das Wort durch, das nicht passt, und erkläre warum.
 
 ## Übung D3 — Rückblick: A2/13 und B1/02
 
-Review of earlier lessons. 10 items.
+Wiederholung früherer Lektionen. 10 Lücken.
 
 **Aus A2/13 (Relativsätze Nom. & Akk.):**
 1. (A2/13) Fill in: Das ist ein Mann, ______ aus Berlin kommt. (Nom., m.)
@@ -457,9 +457,9 @@ Review of earlier lessons. 10 items.
 5. (A2/13) Fill in: Der Film, ______ ich gestern gesehen habe, war fantastisch. (Akk., m.)
 
 **Aus B1/02 (Konnektoren obwohl/trotzdem/deshalb):**
-6. (B1/02) Fill in: Er bleibt in Berlin, ______ er Prag liebt.
-7. (B1/02) Fill in: Die Miete ist hoch. ______ wohnt Pavel in Wedding. (trotzdem — V2)
-8. (B1/02) Fill in: Tomáš liebt das Berliner Netzwerk. ______ ist er oft hier. (deshalb — V2)
+6. (B1/02) Fill in: Er bleibt in Berlin, ______ er Prag liebt. (concession)
+7. (B1/02) Fill in: Die Miete ist hoch. ______ wohnt Pavel in Wedding. (nevertheless — V2)
+8. (B1/02) Fill in: Tomáš liebt das Berliner Netzwerk. ______ ist er oft hier. (that's why — V2)
 9. (B1/02) Fill in: Das Startup ist ______ jung, ______ es hat schon viele Kunden. (zwar … aber)
 
 ## Übung D4 — Selbsttest (bewerte dich selbst: /20)

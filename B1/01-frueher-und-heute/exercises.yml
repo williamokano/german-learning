@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informal)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Mia und Lukas geben eine Dinnerparty."
         answer: true
@@ -39,7 +40,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formal)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Wo war Bruno von 2018 bis 2023?"
         options:
@@ -75,7 +77,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen to the Hörtext and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre den Hörtext und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen to the Hörtext and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Hallo Lukas, ich bin's, Mutti. Ich wollte dir kurz erzählen, wie es bei uns im
       Dorf aussieht. Du weißt ja, dass unser Hof am Dorfrand liegt. {1} hatten
@@ -102,7 +105,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Lukas' Erinnerungen"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to Lukas's voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
+    instructions: "Höre die Sprachnachricht von Lukas. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to Lukas's voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Hallo Mia, hier ist Lukas. Ich bin gerade auf dem Weg nach Hause und habe im Auto mein altes Fotoalbum gefunden. Erinnerst du dich noch an unseren ersten Abend bei dir, als wir uns kennengelernt haben? Das war 2019, im Mai. Ich hatte damals gerade meine alte Stelle in Moabit aufgegeben und du hast mir zum ersten Mal von Barcelona erzählt. Ich glaube, das war der Moment, in dem ich wusste: Diese Frau ist etwas Besonderes. Bis gleich, Schatz. Ich freue mich auf dich.'
     items:
       - q: "Wann haben Mia und Lukas sich kennengelernt?"
@@ -142,7 +146,8 @@ exercises:
     listLayout: true
     track: vergangenheit
     title: "Präteritum: schwache und starke Verben"
-    instructions: "Fill in the correct Präteritum form. 8 items."
+    instructions: "Ergänze die richtige Präteritumform. 8 Sätze."
+    instructionsEn: "Fill in the correct Präteritum form. 8 items."
     text: |
       1. Ich {1} in einer kleinen Wohnung in Neukölln. (wohnen)
       2. Wir {2} damals in Lissabon. (leben)
@@ -168,7 +173,8 @@ exercises:
     listLayout: true
     track: vergangenheit
     title: "Präteritum: sein, haben, werden"
-    instructions: "Fill in the correct Präteritum form of the verb in brackets. 8 items."
+    instructions: "Ergänze die richtige Präteritumform des Verbs in Klammern. 8 Sätze."
+    instructionsEn: "Fill in the correct Präteritum form of the verb in brackets. 8 items."
     text: |
       1. Ich {1} (sein) 22, als ich nach Berlin kam.
       2. Er {2} (haben) keine Wohnung.
@@ -194,7 +200,8 @@ exercises:
     listLayout: true
     track: vergangenheit
     title: "Präteritum: Modalverben und wissen"
-    instructions: "Fill in the correct Präteritum form. ⚠️ no umlaut. 6 items."
+    instructions: "Ergänze die richtige Präteritumform. ⚠️ ohne Umlaut. 6 Sätze."
+    instructionsEn: "Fill in the correct Präteritum form. ⚠️ no umlaut. 6 items."
     text: |
       1. Ich {1} nicht kommen, weil ich krank war. (können)
       2. Er {2} jeden Tag 10 Stunden arbeiten. (müssen)
@@ -216,7 +223,8 @@ exercises:
     listLayout: true
     track: vergangenheit
     title: "Präteritum in Fragen"
-    instructions: "Put the verb in brackets into Präteritum. 6 items."
+    instructions: "Setze das Verb in Klammern ins Präteritum. 6 Sätze."
+    instructionsEn: "Put the verb in brackets into Präteritum. 6 items."
     text: |
       1. {1} (sein) du schon einmal in Barcelona? (yes/no question — Verb first)
       2. {2} (wohnen) ihr damals in Berlin?
@@ -238,7 +246,8 @@ exercises:
     listLayout: true
     track: vergangenheit
     title: "Plusquamperfekt: 'had done'"
-    instructions: "Fill in the correct Plusquamperfekt form. 3 items, 5 gaps."
+    instructions: "Ergänze die richtige Plusquamperfektform. 3 Sätze, 5 Lücken."
+    instructionsEn: "Fill in the correct Plusquamperfekt form. 3 items, 5 gaps."
     text: |
       1. Bevor ich nach Berlin kam, {1} ich schon einen Job {2}. (finden)
       2. Nachdem sie das Studium {3}, {4} sie nach München. (beenden, ziehen)
@@ -271,7 +280,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Time connectors: zuerst, dann, danach, später, schließlich"
-    instructions: "Choose the correct time connector for each gap: zuerst, dann, danach, später, schließlich. 5 items."
+    instructions: "Wähle für jede Lücke den richtigen Zeitkonnektor: zuerst, dann, danach, später, schließlich. 5 Sätze."
+    instructionsEn: "Choose the correct time connector for each gap: zuerst, dann, danach, später, schließlich. 5 items."
     text: |
       Anna erzählt: „{1} lebte ich in Russland. {2} bin ich nach Berlin
       gekommen. {3} habe ich einen Deutschkurs gemacht. {4} habe ich einen
@@ -309,7 +319,8 @@ exercises:
     listLayout: true
     track: vergangenheit
     title: "Früher vs. heute — Vergleich"
-    instructions: "Choose the correct form (Präteritum or Präsens). 6 items."
+    instructions: "Wähle die richtige Form (Präteritum oder Präsens). 6 Sätze."
+    instructionsEn: "Choose the correct form (Präteritum or Präsens). 6 items."
     text: |
       1. Damals {1} (wohnen — Prät.) ich noch in Russland.
       2. Heute {2} (wohnen — Präs.) ich in Berlin.
@@ -351,7 +362,8 @@ exercises:
     type: gap-bank
     track: vergangenheit
     title: "Dialog ergänzen: Erinnerungen an das Studium"
-    instructions: "Fill in the 10 blanks with the correct verb form (Präteritum or Präsens as context requires)."
+    instructions: "Ergänze die 10 Lücken mit der richtigen Verbform (je nach Kontext Präteritum oder Präsens)."
+    instructionsEn: "Fill in the 10 blanks with the correct verb form (Präteritum or Präsens as context requires)."
     text: |
       — Weißt du noch, wie das {1} (sein) damals im Studium?
       — Ja, wir {2} (haben) kaum Geld und {3} (müssen) jeden Tag
@@ -405,7 +417,8 @@ exercises:
     type: matching
     track: vergangenheit
     title: "Frage und Antwort verbinden"
-    instructions: "Match each question (1–6) with the correct answer (a–f)."
+    instructions: "Verbinde jede Frage (1–6) mit der passenden Antwort (a–f)."
+    instructionsEn: "Match each question (1–6) with the correct answer (a–f)."
     left:
       - { key: "1", text: "Wo wohntest du als Kind?" }
       - { key: "2", text: "Was hast du nach dem Abitur gemacht?" }
@@ -450,7 +463,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "sich erinnern an"
-    instructions: "Fill in the correct form. ⚠️ Akkusativ! 6 items."
+    instructions: "Ergänze die richtige Form. ⚠️ Akkusativ! 6 Sätze."
+    instructionsEn: "Fill in the correct form. ⚠️ Akkusativ! 6 items."
     text: |
       1. Ich erinnere mich {1} (an + Akk.) meine erste Wohnung in Berlin.
       2. Erinnerst du dich {2} (an + Akk.) deinen ersten Arbeitstag?
@@ -516,7 +530,8 @@ exercises:
     block: B
     type: odd-one-out
     title: "Wortschatz: Was passt nicht?"
-    instructions: "Cross out the word that does not fit and explain why."
+    instructions: "Streiche das Wort, das nicht passt, und erkläre, warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [Kindheit, Jugend, Alter, Studium]
         odd: 2
@@ -562,7 +577,8 @@ exercises:
     listLayout: true
     track: vergangenheit
     title: "Lückentext: Lukas' Fotoalbum"
-    instructions: "Fill each gap with one word. 10 items."
+    instructions: "Ergänze in jeder Lücke ein Wort. 10 Lücken."
+    instructionsEn: "Fill each gap with one word. 10 items."
     text: |
       Ich habe das Album auf dem Dachboden gefunden. Damals (1) {1} ich 26 und
       (2) {2} gerade meine erste Festanstellung als Entwickler angefangen.
@@ -593,7 +609,8 @@ exercises:
     type: single-choice
     track: vergangenheit
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Ich (1) ____ gestern in Berlin."
         options:
@@ -643,7 +660,8 @@ exercises:
     type: gap-bank
     track: vergangenheit
     title: "Sprachbausteine Teil 2 (word bank)"
-    instructions: "Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once."
+    instructions: "Ergänze die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort passt nur einmal."
+    instructionsEn: "Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once."
     text: |
       Lukas erzählt von seinem alten Fotoalbum: „Damals (1) {1} ich 26
       und (2) {2} gerade meinen ersten Job (3) {3}. Ich (4) {4} ein
@@ -676,6 +694,7 @@ exercises:
       > Das letzte Foto ist von einer Reise nach Lissabon im Winter 2018. Ich war dort nur drei Tage, weil ich **keinen** Urlaub bekommen hatte. **Nachdem** ich **zurückgekommen war**, **hatte** ich eine Erkältung und war eine Woche krank. Heute habe ich 30 Tage Urlaub im Jahr. Das hätte ich damals nie gedacht.
 
       Richtig (R) oder falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Lukas hat das Fotoalbum auf dem Dachboden gefunden."
         answer: true
@@ -710,6 +729,7 @@ exercises:
       > die Stadt zu ziehen.
 
       Wähle a, b oder c.
+    instructionsEn: "Read the text. Choose a, b, or c."
     items:
       - q: "Was ist mit den Nachbarn passiert?"
         options:
@@ -774,7 +794,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per item. No notes. Items marked (L<n>) review an earlier lesson. 15 items."
+    instructions: "Eine Minute pro Aufgabe, ohne Notizen. Aufgaben mit Lektionsangabe, z. B. (A2/01), wiederholen eine frühere Lektion. 15 Aufgaben."
+    instructionsEn: "One minute per item. No notes. Items marked with a lesson reference, e.g. (A2/01), review an earlier lesson. 15 items."
     text: |
       1. Präteritum of sein, ich-form: {1}
       2. Präteritum of haben, du-form: {2}
@@ -815,7 +836,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Odd one out"
-    instructions: "Cross out the word that does not fit and explain why."
+    instructions: "Streiche das Wort, das nicht passt, und erkläre, warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [Kindheit, Jugend, Alter, Studium]
         odd: 2
@@ -841,7 +863,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Rückblick: A2/01, A2/06, A2/11"
-    instructions: "Review of earlier lessons. 10 items."
+    instructions: "Wiederholung früherer Lektionen. 10 Aufgaben."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus A2/01 (Präteritum of modals + time connectors):**
       1. Damals {1} (müssen) ich jeden Tag arbeiten.
@@ -851,12 +874,12 @@ exercises:
       **Aus A2/06 (Verben mit Präpositionen):**
       4. Ich interessiere mich {4} (für / an + Akk.) Politik.
       5. Erinnerst du dich {5} (an + Akk.) unsere Reise?
-      6. (A2/06) „Woran {6} (denken) du?" (correct: denkst du)
+      6. (A2/06) „Woran {6} (denken) du?"
 
       **Aus A2/11 (Two-object verbs):**
-      7. „Ich schenke meiner Schwester {7} (ein Buch)." (dat + akk)
+      7. „Ich schenke meiner Schwester {7}." (a book — dat + akk)
       8. „Ich schenke {8} (sie)." (replace meine Schwester)
-      9. „Ich schenke {9} (es ihr)." (replace both nouns)
+      9. „Ich schenke {9}." (replace both nouns in „Ich schenke meiner Schwester das Buch.")
       10. (A2/11) „Er {10} (erklären) den Schülern die Regel." (conjugated form)
     answers:
       "1": musste
@@ -907,8 +930,8 @@ exercises:
       15. {16}
 
       **Gemischtes:**
-      16. „Gestern {17} (Präsens or Prät. of arbeiten) ich 8 Stunden." (arbeitete — Prät.)
-      17. (A2/11) Akkusativ + Dativ Pronomen: „Ich gebe es {18}." (ihm / ihr / ihnen)
+      16. „Gestern {17} (arbeiten, Präteritum) ich 8 Stunden."
+      17. (A2/11) Akkusativ + Dativ Pronomen: „Ich gebe es {18}." (replace: meinem Bruder)
       18. (A2/09) Konjunktiv II: „Ich {19} gern einen Kaffee." (hätte / wäre / würde)
       19. (A2/10) „Ich fahre {20} Schweiz." (nach / in die)
       20. Translate: 'Before I came to Berlin, I had never spoken German.' → {21}
@@ -934,3 +957,10 @@ exercises:
       "19": hätte
       "20": "in die"
       "21": "Bevor ich nach Berlin kam, hatte ich nie Deutsch gesprochen."
+    alts:
+      "8":
+        - word: Früher
+          note: "Both `Damals` and `Früher` fit: the sentence contrasts the past with `heute`."
+      "9":
+        - word: Damals
+          note: "Both `Früher` and `Damals` fit; `Früher` is the more natural habitual contrast to `Heute`."

@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Bruno hat einen Brief vom Bürgeramt bekommen. ( )
 2. Lukas sagt, Bruno soll direkt fragen: „Welche Dokumente brauche ich?" ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Wie beginnt Anna das Telefongespräch?  a) Sie sagt: „Hier spricht Anna Kowalski" und fragt, ob Frau Weber Zeit hat.  b) Sie sagt nur: „Guten Tag, ich bin Anna."  c) Sie fragt sofort nach den Anweisungen.
 2. Was möchte Anna über die Präsentation wissen?  a) Wie lange sie sprechen soll.  b) Ob die 30 Minuten die Diskussion einschließen.  c) Ob sie auf Englisch präsentieren darf.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext (Bruno's call to the Bürgeramt) and fill in the 6 missing words. Three words in the box are not needed.
+Höre den Hörtext (Brunos Anruf beim Bürgeramt) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Bruno ruft beim Bürgeramt an, um einen (1) ______ zu vereinbaren. Er fragt
 > höflich, ob noch Termine für die nächste Woche (2) ______ sind. Die Mitarbeiterin
@@ -49,7 +49,7 @@ Listen to the Hörtext (Bruno's call to the Bürgeramt) and fill in the 6 missin
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the phone message. Then choose the correct answer (a, b, or c).
+Höre die Telefonnachricht. Wähle dann die richtige Antwort (a, b oder c).
 
 1. Warum ruft das Hotel an?  a) Um Fragen zur Buchungsanfrage zu stellen.  b) Um eine Buchung zu bestätigen.  c) Um einen Termin abzusagen.
 2. Was möchte das Hotel über das Frühstück wissen?  a) Um wie viel Uhr das Frühstück stattfindet.  b) Ob der Gast Frühstück möchte oder nicht.  c) Was der Gast zum Frühstück essen möchte.
@@ -73,7 +73,7 @@ Listen to the phone message. Then choose the correct answer (a, b, or c).
 
 ## Übung A1 — Indirekte Ja/Nein-Fragen mit `ob` — Grundübung
 
-Transform each direct yes/no question into an indirect question using `ob`. Write the complete indirect question. 8 items.
+Forme jede direkte Ja/Nein-Frage mit `ob` in eine indirekte Frage um. Schreib die ganze indirekte Frage. 8 Sätze.
 
 1. Fährt der Zug? → Ich frage mich, ob der Zug (1) ______.
 2. Ist der Termin frei? → Könnten Sie sagen, ob der Termin (2) ______?
@@ -86,7 +86,7 @@ Transform each direct yes/no question into an indirect question using `ob`. Writ
 
 ## Übung A2 — Indirekte W-Fragen — Verb ans Ende
 
-Transform each direct W-question into an indirect question. Remember: the verb goes to the END! 8 items.
+Forme jede direkte W-Frage in eine indirekte Frage um. Denk daran: Das Verb steht am ENDE! 8 Sätze.
 
 1. Wann fährt der Zug? → Können Sie mir sagen, wann der Zug (1) ______?
 2. Wie lange dauert das? → Ich möchte wissen, wie lange das (2) ______.
@@ -99,7 +99,7 @@ Transform each direct W-question into an indirect question. Remember: the verb g
 
 ## Übung A3 — Indirekte Fragen mit Modalverben
 
-Complete the indirect questions. The modal verb goes to the very end! 6 items.
+Ergänze die indirekten Fragen. Das Modalverb steht ganz am Ende! 6 Sätze.
 
 1. Kann ich einen Termin machen? → Ich frage mich, ob ich einen Termin machen (1) ______.
 2. Darf ich jemanden mitbringen? → Dürfte ich fragen, ob ich jemanden mitbringen (2) ______?
@@ -110,7 +110,7 @@ Complete the indirect questions. The modal verb goes to the very end! 6 items.
 
 ## Übung A4 — Indirekte Fragen mit Perfekt
 
-Transform each Perfekt question into an indirect question. The auxiliary verb (hat/ist) goes last! 6 items.
+Forme jede Frage im Perfekt in eine indirekte Frage um. Das Hilfsverb (hat/ist) steht am Schluss! 6 Sätze.
 
 1. Hat er angerufen? → Fragen Sie, ob er angerufen (1) ______.
 2. Ist der Brief angekommen? → Ich weiß nicht, ob der Brief angekommen (2) ______.
@@ -121,7 +121,7 @@ Transform each Perfekt question into an indirect question. The auxiliary verb (h
 
 ## Übung A5 — `ob` oder W-Wort? — richtig einleiten
 
-Fill in either `ob` or the correct W-word (wann, wie, wo, was, warum, welche, wie viel). 8 items.
+Ergänze entweder `ob` oder das richtige W-Wort (wann, wie, wo, was, warum, welche, wie viel). 8 Sätze.
 
 1. Ich weiß nicht, (1) ______ der Zug fährt. (Wann fährt der Zug?)
 2. Könnten Sie sagen, (2) ______ das kostet? (Wie viel kostet das?)
@@ -134,7 +134,7 @@ Fill in either `ob` or the correct W-word (wann, wie, wo, was, warum, welche, wi
 
 ## Übung A6 — Höflichkeitsformen: `könnten`, `würden`, `dürfte`, `hätte gern`, `wäre`
 
-Fill in the correct polite form. Choose from: könnten, würden, dürfte, hätte gern, wäre. 8 items.
+Ergänze die richtige Höflichkeitsform. Wähle aus: könnten, würden, dürfte, hätte gern, wäre. 8 Sätze.
 
 1. ______ Sie mir bitte helfen? (polite: could you)
    → (1) ______ Sie mir bitte helfen?
@@ -155,7 +155,7 @@ Fill in the correct polite form. Choose from: könnten, würden, dürfte, hätte
 
 ## Übung A7 — Grammatik-Check: Indirekte Frage richtig gebildet?
 
-Is the indirect question formed correctly? Answer R (richtig) oder F (falsch). If F, name the error.
+Ist die indirekte Frage richtig gebildet? Antworte mit R (richtig) oder F (falsch). Wenn F: Nenne den Fehler.
 
 1. Ich frage mich, ob der Zug fährt. ( )
 2. Könnten Sie sagen, wann fährt der Zug? ( )
@@ -166,7 +166,7 @@ Is the indirect question formed correctly? Answer R (richtig) oder F (falsch). I
 
 ## Übung A8 — Satzbau: Indirekte Fragen richtig ordnen
 
-Put the words in the correct order to form a valid indirect question.
+Bring die Wörter in die richtige Reihenfolge, sodass eine korrekte indirekte Frage entsteht.
 
 1. nicht – ob – Ich – Zug – weiß – der – fährt – ,
 2. Termin – sagen – mir – nächste – Könnten – ist – der – Sie – , – wann
@@ -175,7 +175,7 @@ Put the words in the correct order to form a valid indirect question.
 
 ## Übung A9 — Direkte → Indirekte Frage: Vollständige Umformung
 
-Rewrite each direct question as a complete indirect question using the introductory phrase given. 6 items.
+Schreib jede direkte Frage als vollständige indirekte Frage. Benutze den angegebenen Einleitungssatz. 6 Sätze.
 
 1. Ist das Frühstück inbegriffen? (Ich wollte fragen, ob …)
    → Ich wollte fragen, ob das Frühstück (1) ______.
@@ -192,7 +192,7 @@ Rewrite each direct question as a complete indirect question using the introduct
 
 ## Übung A10 — Telefon-Formeln ergänzen
 
-Fill in the missing word or phrase for each formal phone convention. 6 items.
+Ergänze das fehlende Wort oder die fehlende Wendung für jede formelle Telefonformel. 6 Sätze.
 
 1. Am Telefon stellt man sich so vor: „(1) ______ Anna Kowalski." (Hier spricht / Mein Name ist)
 2. Wenn man nicht versteht: „(2) ______ Sie das bitte wiederholen?" (Würden / Sollten)
@@ -203,13 +203,13 @@ Fill in the missing word or phrase for each formal phone convention. 6 items.
 
 ## Übung A11 — Gemischt: `ob`, W-Wort, Höflichkeitsform
 
-Fill in the correct element: `ob`, a W-word, or a polite form. 8 items.
+Ergänze das richtige Element: `ob`, ein W-Wort oder eine Höflichkeitsform. 8 Sätze.
 
 1. Ich weiß nicht, (1) ______ ich persönlich kommen muss. (yes/no)
 2. (2) ______ Sie mir erklären, wie das Formular auszufüllen ist? (polite: könnten/würden)
 3. Fragen Sie, (3) ______ der Antrag schon bearbeitet wurde. (yes/no)
 4. Es ist unklar, (4) ______ das Büro heute geöffnet ist. (yes/no)
-5. (5) ______ ich kurz fragen, wann Sie Zeit haben? (very polite: dürfte)
+5. (5) ______ ich kurz fragen, wann Sie Zeit haben? (very polite — dürfen)
 6. Ich möchte wissen, (6) ______ das Gespräch stattfindet. (W-word: where)
 7. Wir hätten gern (7) ______ Informationen über das Hotel. (more — adjective position)
 8. (8) ______ es möglich, den Termin zu verschieben? (would it be)
@@ -220,7 +220,7 @@ Fill in the correct element: `ob`, a W-word, or a polite form. 8 items.
 
 ## Übung B1 — Dialog ergänzen: Am Schalter beim Bürgeramt
 
-Fill in the 8 blanks with appropriate indirect questions or polite forms. Context: Bruno at the Bürgeramt counter.
+Ergänze die 8 Lücken mit passenden indirekten Fragen oder Höflichkeitsformen. Situation: Bruno am Schalter im Bürgeramt.
 
 — Guten Tag. (1) ______ mir helfen?
 — Ja, natürlich. Was kann ich für Sie tun?
@@ -236,7 +236,7 @@ Fill in the 8 blanks with appropriate indirect questions or polite forms. Contex
 
 ## Übung B2 — Finde den Fehler: Indirekte Fragen
 
-Each sentence contains exactly one error. Choose the correct version (a, b, or c).
+Jeder Satz enthält genau einen Fehler. Wähle die richtige Version (a, b oder c).
 
 1. Ich weiß nicht, ob fährt der Zug.  a) Ich weiß nicht, ob der Zug fährt.  b) Ich weiß nicht, ob fährt der Zug.  c) Ich weiß nicht, ob der Zug fähren.
 2. Könnten Sie mir sagen, wann kommt der Zug?  a) Könnten Sie mir sagen, wann der Zug kommen?  b) Könnten Sie mir sagen, wann der Zug kommt?  c) Könnten Sie mir sagen, ob wann der Zug kommt?
@@ -246,7 +246,7 @@ Each sentence contains exactly one error. Choose the correct version (a, b, or c
 
 ## Übung B3 — Direkte Frage → Indirekte Frage verbinden
 
-Match each direct question (1–6) with its correct indirect form (a–g). One answer is not needed.
+Verbinde jede direkte Frage (1–6) mit der passenden indirekten Form (a–g). Eine Antwort wird nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -260,7 +260,7 @@ Match each direct question (1–6) with its correct indirect form (a–g). One a
 
 ## Übung B4 — Höflichkeitsform sortieren
 
-Sort each phrase into the correct category: Bestellung/Anfrage (ordering/requesting) or Indirekte Frage (indirect question).
+Ordne jede Wendung der richtigen Kategorie zu: Bestellung/Anfrage oder Indirekte Frage.
 
 > Ich hätte gern einen Kaffee. · Ich möchte wissen, ob das Frühstück inbegriffen ist. · Wir hätten gern zwei Zimmer. · Könnten Sie mir sagen, wann der Zug fährt? · Ich hätte gern mehr Informationen. · Ich weiß nicht, ob ich persönlich kommen muss. · Dürfte ich kurz fragen, wie lange das dauert? · Würden Sie mir bitte helfen?
 
@@ -270,7 +270,7 @@ Sort each phrase into the correct category: Bestellung/Anfrage (ordering/request
 
 ## Übung B5 — Satzbau: Höfliche Anfragen richtig ordnen
 
-Put the words in the correct order to form a polite request or indirect question.
+Bring die Wörter in die richtige Reihenfolge, sodass eine höfliche Bitte oder indirekte Frage entsteht.
 
 1. Sie – Könnten – , – Büro – öffnet – mir – wann – das – sagen
 2. ob – ist – fragen – das – Ich – Frühstück – inbegriffen – wollte – ,
@@ -279,7 +279,7 @@ Put the words in the correct order to form a polite request or indirect question
 
 ## Übung B6 — Unhöflich → Höflich: Direkte Fragen umformulieren
 
-Rewrite each blunt question as a polite indirect question using the cue given. 6 items.
+Formuliere jede direkte, unhöfliche Frage als höfliche indirekte Frage. Benutze die Vorgabe. 6 Sätze.
 
 1. „Was kostet das?" → (Dürfte ich fragen, …)
    (1) ______
@@ -296,7 +296,7 @@ Rewrite each blunt question as a polite indirect question using the cue given. 6
 
 ## Übung B7 — Formeller Anruf: Lückentext
 
-Fill in the 6 gaps in this formal phone conversation.
+Ergänze die 6 Lücken in diesem formellen Telefongespräch.
 
 — Guten Tag, (1) ______ Anna Kowalski. Ich hoffe, ich (2) ______ Sie nicht.
 — Guten Tag, Frau Kowalski. Nein, kein Problem.
@@ -359,7 +359,7 @@ Self-check:
 
 ## Übung C1 — Lückentext: Annas Brief ans Hotel
 
-Fill each gap with one word. 10 gaps.
+Ergänze in jeder Lücke ein Wort. 10 Lücken.
 
 Anna schreibt dem Hotel eine E-Mail, (1) ______ einige Fragen zu klären. Zunächst
 möchte sie (2) ______, ob noch Zimmer für den gewünschten Zeitraum (3) ______ sind.
@@ -371,7 +371,7 @@ Fahrrad zu (8) ______. Sie bittet das Hotel auch, ihr das Stornierungsrecht zu
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle für jede Lücke die richtige Option (a, b oder c).
 
 1. Ich weiß nicht, ______ das Büro heute geöffnet ist.  a) ob  b) wann  c) weil
 2. Könnten Sie mir sagen, ______ der Zug fährt?  a) ob wann  b) wann  c) wenn
@@ -382,7 +382,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Fill the 10 gaps. Five words are not needed.
+Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht.
 
 > Anna ruft beim Hotel an. Sie fragt, (1) ______ noch Zimmer frei (2) ______. Dann
 > möchte sie (3) ______, wie viel ein Einzelzimmer kostet. Der Mitarbeiter
@@ -424,7 +424,7 @@ Richtig (R) oder Falsch (F)?
 
 ## Übung C4b — Leseverstehen: Hotelwebseite — Häufige Fragen (neuer Text)
 
-Read the FAQ text below. Choose the correct answer (a, b, or c).
+Lies den FAQ-Text unten. Wähle die richtige Antwort (a, b oder c).
 
 1. Ab wann ist das Zimmer normalerweise bereit?  a) Ab 15:00 Uhr.  b) Ab 12:00 Uhr.  c) Ab 18:00 Uhr.
 2. Was gilt für Haustiere?  a) Haustiere sind grundsätzlich verboten.  b) Kleine Hunde und Katzen sind willkommen, wenn man es vorher angibt.  c) Nur Katzen sind erlaubt.
@@ -453,27 +453,27 @@ Self-check:
 
 ## Übung D1 — Schnelltest: Indirekte Fragen + Höflichkeit + Wiederholung
 
-Fill in the correct word or form. Items 12–15 review earlier topics: B1/03 (Konjunktiv II) and B1/06 (um … zu / damit). 15 items.
+Ergänze das richtige Wort oder die richtige Form. Aufgaben 12–15 wiederholen frühere Themen: B1/03 (Konjunktiv II) und B1/06 (um … zu / damit). 15 Aufgaben.
 
-1. Ich weiß nicht, (1) ______ der Zug fährt. (yes/no → ob)
-2. Könnten Sie mir sagen, (2) ______ das Büro geöffnet ist? (yes/no → ob)
-3. Ich möchte wissen, (3) ______ der Termin stattfindet. (when → wann)
+1. Ich weiß nicht, (1) ______ der Zug fährt. (Fährt der Zug?)
+2. Könnten Sie mir sagen, (2) ______ das Büro geöffnet ist? (Ist das Büro geöffnet?)
+3. Ich möchte wissen, (3) ______ der Termin stattfindet. (Wann findet der Termin statt?)
 4. Dürfte ich (4) ______, wie das Formular auszufüllen ist? (ask — infinitive)
-5. Ich hätte (5) ______ einen Kaffee, bitte. (gern)
-6. (6) ______ Sie mir erklären, was das bedeutet? (polite: Würden)
-7. Es ist unklar, (7) ______ ich persönlich kommen muss. (yes/no → ob)
-8. Ich wäre Ihnen (8) ______, wenn Sie mir das erklären könnten. (sehr dankbar)
-9. Am Telefon: „(9) ______ spricht Anna Kowalski." (Hier)
-10. Am Ende des Telefonats: „Auf (10) ______." (Wiederhören)
-11. Könnten Sie das bitte (11) ______? (wiederholen)
-12. (B1/03) Wenn ich mehr Zeit (12) ______, würde ich mehr üben. (hätte — Konj. II)
-13. (B1/03) Das (13) ______ sehr nett von Ihnen. (polite form of sein: wäre)
+5. Ich hätte (5) ______ einen Kaffee, bitte. (would like)
+6. (6) ______ Sie mir erklären, was das bedeutet? (polite — werden)
+7. Es ist unklar, (7) ______ ich persönlich kommen muss. (Muss ich persönlich kommen?)
+8. Ich wäre Ihnen (8) ______, wenn Sie mir das erklären könnten. (very grateful)
+9. Am Telefon: „(9) ______ spricht Anna Kowalski." (introducing yourself on the phone)
+10. Am Ende des Telefonats: „Auf (10) ______." (formal goodbye on the phone)
+11. Könnten Sie das bitte (11) ______? (repeat)
+12. (B1/03) Wenn ich mehr Zeit (12) ______, würde ich mehr üben. (haben — Konj. II)
+13. (B1/03) Das (13) ______ sehr nett von Ihnen. (sein — Konj. II)
 14. (B1/06) Ich lerne Deutsch, um in Berlin (14) ______. (arbeiten → zu+Inf)
 15. (B1/06) Sie schickt den Plan, damit das Team (15) ______. (vorbereitet sein)
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
 
-Circle the word that does not belong. 6 groups.
+Kreise das Wort ein, das nicht passt. 6 Gruppen.
 
 1. ob – wann – wie – weil
 2. Könnten Sie – Würden Sie – Dürfte ich – Müssen Sie
@@ -484,45 +484,45 @@ Circle the word that does not belong. 6 groups.
 
 ## Übung D3 — Rückblick: B1/03 (Konjunktiv II) und B1/08 (Verben mit Präpositionen II)
 
-Fill in the correct form. Items 1–5 review B1/03 (Konjunktiv II wishes and conditions); items 6–10 review B1/08 (Verben mit Präpositionen II). 10 items.
+Ergänze die richtige Form. Aufgaben 1–5 wiederholen B1/03 (Konjunktiv II: Wünsche und Bedingungen), Aufgaben 6–10 wiederholen B1/08 (Verben mit Präpositionen II). 10 Aufgaben.
 
 B1/03 — Konjunktiv II:
 1. Wenn ich mehr Zeit (1) ______, würde ich öfter anrufen. (haben — Konj. II)
-2. Er (2) ______ gerne mehr reisen, aber er hat kein Geld. (würde)
-3. Wenn ich du (3) ______, würde ich höflicher fragen. (wäre — Konj. II)
+2. Er (2) ______ gerne mehr reisen, aber er hat kein Geld. (werden — Konj. II)
+3. Wenn ich du (3) ______, würde ich höflicher fragen. (sein — Konj. II)
 4. Das (4) ______ wirklich sehr nett von Ihnen. (sein — Konj. II)
-5. (5) ______ es möglich, den Termin zu verschieben? (wäre — Konj. II)
+5. (5) ______ es möglich, den Termin zu verschieben? (sein — Konj. II)
 
 B1/08 — Verben mit Präpositionen II:
-6. Anna freut sich (6) ______ die baldige Antwort. (auf)
-7. Er wartet (7) ______ die Bestätigung. (auf)
-8. Ich frage mich, ob sie (8) ______ das Problem nachgedacht hat. (über — nachdenken über)
-9. Bruno beschwert sich (9) ______ die langen Wartezeiten. (über)
-10. Sie interessiert sich (10) ______ den B2-Kurs. (für)
+6. Anna freut sich (6) ______ die baldige Antwort. (looking forward to it)
+7. Er wartet (7) ______ die Bestätigung.
+8. Ich frage mich, ob sie (8) ______ das Problem nachgedacht hat. (nachdenken)
+9. Bruno beschwert sich (9) ______ die langen Wartezeiten.
+10. Sie interessiert sich (10) ______ den B2-Kurs.
 
 ## Übung D4 — Selbsttest: Indirekte Fragen & Höflichkeit (20 Punkte)
 
-Fill in the correct form. 1 point per gap. 20 items.
+Ergänze die richtige Form. 1 Punkt pro Lücke. 20 Aufgaben.
 
-1. Ich weiß nicht, (1) ______ das Büro geöffnet ist. (ob)
-2. Könnten Sie mir sagen, (2) ______ der Zug fährt? (when → wann)
-3. Ich frage mich, (3) ______ ich persönlich kommen muss. (yes/no → ob)
-4. Dürfte ich (4) ______, wie das funktioniert? (fragen)
-5. Ich hätte (5) ______ einen Tee, bitte. (gern)
-6. (6) ______ Sie mir das bitte erklären? (Würden)
-7. Wäre es (7) ______, den Termin zu verschieben? (möglich)
-8. Ich wollte fragen, (8) ______ das Frühstück inbegriffen ist. (ob)
-9. Es ist unklar, (9) ______ die Unterlagen eingereicht werden müssen. (when → wann)
-10. Am Telefon: Hier (10) ______ Anna Kowalski. (spricht)
-11. Ich möchte wissen, (11) ______ ich das Dokument abgeben soll. (where → wo)
-12. Könnten Sie das bitte (12) ______? (wiederholen)
-13. Ich weiß nicht, ob er (13) ______. (angerufen hat — Perfekt, auxiliary last)
-14. (14) ______ ich kurz fragen, ob Sie Zeit haben? (Dürfte)
-15. Am Ende des Anrufs: Auf (15) ______. (Wiederhören)
-16. Ich wäre Ihnen (16) ______, wenn Sie mir helfen könnten. (sehr dankbar)
-17. Sie fragt, ob ich das Formular ausfüllen (17) ______. (muss — modal at end)
-18. Wissen Sie, (18) ______ das Büro ist? (where → wo)
-19. Ich hätte gern (19) ______ Informationen, bitte. (mehr)
-20. Das (20) ______ sehr nett von Ihnen. (wäre — Konjunktiv II)
+1. Ich weiß nicht, (1) ______ das Büro geöffnet ist. (Ist das Büro geöffnet?)
+2. Könnten Sie mir sagen, (2) ______ der Zug fährt? (Wann fährt der Zug?)
+3. Ich frage mich, (3) ______ ich persönlich kommen muss. (Muss ich persönlich kommen?)
+4. Dürfte ich (4) ______, wie das funktioniert? (ask)
+5. Ich hätte (5) ______ einen Tee, bitte. (would like)
+6. (6) ______ Sie mir das bitte erklären? (polite — werden)
+7. Wäre es (7) ______, den Termin zu verschieben? (possible)
+8. Ich wollte fragen, (8) ______ das Frühstück inbegriffen ist. (Ist das Frühstück inbegriffen?)
+9. Es ist unklar, (9) ______ die Unterlagen eingereicht werden müssen. (Wann müssen die Unterlagen eingereicht werden?)
+10. Am Telefon: Hier (10) ______ Anna Kowalski. (sprechen)
+11. Ich möchte wissen, (11) ______ ich das Dokument abgeben soll. (Wo soll ich das Dokument abgeben?)
+12. Könnten Sie das bitte (12) ______? (repeat)
+13. Ich weiß nicht, ob er (13) ______. (anrufen — Perfekt, auxiliary last)
+14. (14) ______ ich kurz fragen, ob Sie Zeit haben? (very polite — dürfen)
+15. Am Ende des Anrufs: Auf (15) ______. (formal goodbye on the phone)
+16. Ich wäre Ihnen (16) ______, wenn Sie mir helfen könnten. (very grateful)
+17. Sie fragt, ob ich das Formular ausfüllen (17) ______. (müssen — modal at end)
+18. Wissen Sie, (18) ______ das Büro ist? (Wo ist das Büro?)
+19. Ich hätte gern (19) ______ Informationen, bitte. (more)
+20. Das (20) ______ sehr nett von Ihnen. (sein — Konjunktiv II)
 
 _16+ / 20 → proceed to B1/10. Below 16: redo Block A1–A6 tomorrow, then retest D4._

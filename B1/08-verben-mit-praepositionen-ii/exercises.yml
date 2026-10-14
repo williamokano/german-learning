@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Mia interessiert sich normalerweise sehr für Dramen."
         answer: false
@@ -38,7 +39,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Wofür interessiert sich Anna laut Dialog B?"
         options:
@@ -74,7 +76,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen to the Hörtext (Pavel's call to Mia) and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre den Hörtext (Pavels Anruf bei Mia) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen to the Hörtext (Pavel's call to Mia) and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Pavel ruft Mia an, um ihr von einem neuen Kurs zu erzählen. Er beschäftigt
       sich schon seit Wochen {1}, die richtige Ausbildung zu finden. Er freut sich
@@ -96,7 +99,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Voicemail von Tomáš an Pavel"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to Tomáš's voicemail to Pavel. Then choose the correct answer (a, b, or c)."
+    instructions: "Höre Tomášs Nachricht auf Pavels Mailbox. Wähle dann die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Tomáš's voicemail to Pavel. Then choose the correct answer (a, b, or c)."
     transcript: "Hey Pavel, hier ist Tomáš. Ich rufe an, weil ich mich darum kümmern möchte, unser nächstes Treffen zu organisieren. Ich freue mich sehr darauf, wieder nach Berlin zu kommen. Ich denke oft daran, was wir beim letzten Filmabend besprochen haben — besonders worüber wir uns gefreut haben. Ich interessiere mich übrigens sehr für den neuen tschechischen Film, der nächsten Monat rauskommt. Ich bin davon überzeugt, dass er uns gefällt. Bitte ruf mich zurück, wenn du Zeit hast. Tschau!"
     items:
       - q: "Warum ruft Tomáš an?"
@@ -136,7 +140,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "Verben mit Präpositionen — richtige Präposition wählen"
-    instructions: "Fill in the correct preposition. Choose from: an, auf, für, mit, über, um, von, vor, zu. 10 items."
+    instructions: "Ergänze die richtige Präposition. Wähle aus: an, auf, für, mit, über, um, von, vor, zu. 10 Sätze."
+    instructionsEn: "Fill in the correct preposition. Choose from: an, auf, für, mit, über, um, von, vor, zu. 10 items."
     text: |
       1. Ich denke oft {1} meinen Urlaub.
       2. Sie wartet schon lange {2} eine Antwort.
@@ -166,7 +171,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "Kasus nach Präposition — Artikel ergänzen"
-    instructions: "Fill in the correct article (definite or indefinite) after the preposition. Watch the case! 8 items."
+    instructions: "Ergänze nach der Präposition den richtigen Artikel (bestimmt oder unbestimmt). Achte auf den Kasus! 8 Sätze."
+    instructionsEn: "Fill in the correct article (definite or indefinite) after the preposition. Watch the case! 8 items."
     text: |
       1. Ich denke an ___ Film (m). → Ich denke an {1} Film.
       2. Sie wartet auf ___ Antwort (f). → Sie wartet auf {2} Antwort.
@@ -191,7 +197,8 @@ exercises:
     type: categorize
     track: praepositionen
     title: "Verben sortieren — welche Präposition?"
-    instructions: "Sort each verb into the correct preposition category."
+    instructions: "Ordne jedes Verb der richtigen Präpositionsgruppe zu."
+    instructionsEn: "Sort each verb into the correct preposition category."
     buckets:
       - { key: an, label: "an (+ Akk.)" }
       - { key: auf, label: "auf (+ Akk.)" }
@@ -221,7 +228,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "Pronominaladverb bilden: `da(r)- + Präposition`"
-    instructions: "Replace the underlined phrase with the correct Pronominaladverb. 10 items."
+    instructions: "Ersetze den unterstrichenen Ausdruck durch das richtige Pronominaladverb. 10 Sätze."
+    instructionsEn: "Replace the underlined phrase with the correct Pronominaladverb. 10 items."
     text: |
       1. Ich denke an den Film. → Ich denke {1}.
       2. Ich warte auf die Antwort. → Ich warte {2}.
@@ -251,7 +259,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "`wo(r)- + Präposition` — Fragen bilden"
-    instructions: "Form the correct `wo(r)-` question word for the underlined element. 8 items."
+    instructions: "Bilde für den unterstrichenen Satzteil das richtige Fragewort mit `wo(r)-`. 8 Sätze."
+    instructionsEn: "Form the correct `wo(r)-` question word for the underlined element. 8 items."
     text: |
       1. Ich denke an den Urlaub. → {1} denkst du?
       2. Ich warte auf den Bus. → {2} wartest du?
@@ -276,7 +285,8 @@ exercises:
     type: true-false
     track: praepositionen
     title: "Person oder Sache? Richtig oder Falsch?"
-    instructions: "Is the pronoun/Pronominaladverb used correctly? Answer Richtig (R) oder Falsch (F)."
+    instructions: "Ist das Pronomen bzw. Pronominaladverb richtig verwendet? Antworte mit Richtig (R) oder Falsch (F)."
+    instructionsEn: "Is the pronoun/Pronominaladverb used correctly? Answer Richtig (R) oder Falsch (F)."
     items:
       - q: "Ich denke daran, dass Pavel kommt. (Pavel = person → daran)"
         answer: true
@@ -303,7 +313,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "Anticipatory `da(r)-` + `dass`-Satz"
-    instructions: "Fill in the correct Pronominaladverb before the dass-clause. 8 items."
+    instructions: "Ergänze vor dem dass-Satz das richtige Pronominaladverb. 8 Sätze."
+    instructionsEn: "Fill in the correct Pronominaladverb before the dass-clause. 8 items."
     text: |
       1. Ich freue mich _____, dass du kommst. (sich freuen über)
          → Ich freue mich {1}, dass du kommst.
@@ -337,7 +348,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "Anticipatory `da(r)-` + `zu`-Infinitiv"
-    instructions: "Fill in the correct Pronominaladverb before the zu-Infinitive phrase. 6 items."
+    instructions: "Ergänze vor der Infinitivgruppe mit zu das richtige Pronominaladverb. 6 Sätze."
+    instructionsEn: "Fill in the correct Pronominaladverb before the zu-Infinitive phrase. 6 items."
     text: |
       1. Ich freue mich _____, dich wiederzusehen. (sich freuen auf)
          → Ich freue mich {1}, dich wiederzusehen.
@@ -364,7 +376,8 @@ exercises:
     type: matching
     track: praepositionen
     title: "Verb + Präposition kombinieren"
-    instructions: "Match each verb (1–8) with its fixed preposition (a–j). Two right-side options are not needed."
+    instructions: "Verbinde jedes Verb (1–8) mit seiner festen Präposition (a–j). Zwei Optionen rechts werden nicht gebraucht."
+    instructionsEn: "Match each verb (1–8) with its fixed preposition (a–j). Two right-side options are not needed."
     left:
       - { key: "1", text: "sich bewerben" }
       - { key: "2", text: "sich beschäftigen" }
@@ -400,7 +413,8 @@ exercises:
     type: order
     track: praepositionen
     title: "Satzbau: Satz mit Pronominaladverb richtig ordnen"
-    instructions: "Put the words in the correct order."
+    instructions: "Bring die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: ["Ich", "freue", "mich", "darauf", ",", "den", "Film", "zu", "sehen"]
         answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
@@ -424,7 +438,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "`sich freuen auf` vs. `sich freuen über` — richtig wählen"
-    instructions: "Choose `darauf` or `darüber` and the correct preposition. 6 items."
+    instructions: "Wähle `darauf` oder `darüber` und die richtige Präposition. 6 Sätze."
+    instructionsEn: "Choose `darauf` or `darüber` and the correct preposition. 6 items."
     text: |
       1. Das Konzert ist morgen — ich freue mich _____! (future event)
          → Ich freue mich {1}!
@@ -454,7 +469,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "Pronominaladverbien im Dialog — Gespräch über den Film"
-    instructions: "Fill in the correct Pronominaladverb. Context: Mia, Pavel und Tomáš nach dem Film. 8 items."
+    instructions: "Ergänze das richtige Pronominaladverb. Kontext: Mia, Pavel und Tomáš nach dem Film. 8 Sätze."
+    instructionsEn: "Fill in the correct Pronominaladverb. Context: Mia, Pavel und Tomáš nach dem Film. 8 items."
     text: |
       Mia: Ich habe mich sehr {1} gefreut, diesen Film mit euch zu sehen. (über)
       Tomáš: Ich auch! Ich denke schon die ganze Zeit {2}. (an den Film)
@@ -479,7 +495,8 @@ exercises:
     type: single-choice
     track: praepositionen
     title: "Person oder Sache? Richtige Form wählen"
-    instructions: "Choose the correct form (a, b, or c)."
+    instructions: "Wähle die richtige Form (a, b oder c)."
+    instructionsEn: "Choose the correct form (a, b, or c)."
     items:
       - q: "_____ wartest du? — Auf meinen Bruder."
         options:
@@ -530,7 +547,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "Finde den Fehler — Pronominaladverbien"
-    instructions: "Each sentence contains exactly one error. Find it and write the corrected sentence. 6 items."
+    instructions: "Jeder Satz enthält genau einen Fehler. Finde ihn und schreib den Satz richtig. 6 Sätze."
+    instructionsEn: "Each sentence contains exactly one error. Find it and write the corrected sentence. 6 items."
     text: |
       1. Ich denke daran ihm. (ihm = eine Person!)
          Korrektur: {1}
@@ -557,7 +575,8 @@ exercises:
     type: order
     track: praepositionen
     title: "Satzbau: `da(r)-` + `dass`-Satz / `zu`-Infinitiv"
-    instructions: "Put the words in the correct order."
+    instructions: "Bring die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: ["Ich", "freue", "mich", "darauf", ",", "Tomáš", "wiederzusehen"]
         answer: [0, 1, 2, 3, 4, 5, 6]
@@ -578,7 +597,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "Umformung: Satz mit Nomen → Satz mit Pronominaladverb"
-    instructions: "Replace the underlined prepositional phrase with the correct Pronominaladverb. Rewrite the full sentence. 6 items."
+    instructions: "Ersetze die unterstrichene Präpositionalgruppe durch das richtige Pronominaladverb. Schreib den ganzen Satz neu. 6 Sätze."
+    instructionsEn: "Replace the underlined prepositional phrase with the correct Pronominaladverb. Rewrite the full sentence. 6 items."
     text: |
       1. Ich freue mich auf das Wochenende.
          → Ich freue mich {1}.
@@ -606,7 +626,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "Dialog ergänzen: Interview-Sprache mit Pronominaladverbien"
-    instructions: "Fill in the 8 blanks with the correct Pronominaladverb or wo(r)-form. Context: Anna's job interview."
+    instructions: "Ergänze die 8 Lücken mit dem richtigen Pronominaladverb oder der richtigen wo(r)-Form. Kontext: Annas Vorstellungsgespräch."
+    instructionsEn: "Fill in the 8 blanks with the correct Pronominaladverb or wo(r)-form. Context: Anna's job interview."
     text: |
       Frau Weber: {1} interessieren Sie sich in Ihrer Arbeit am meisten?
       Anna: Ich interessiere mich {2}, Projekte zu koordinieren und Teams zu verbinden.
@@ -631,7 +652,8 @@ exercises:
     type: matching
     track: praepositionen
     title: "Frage und Antwort verbinden"
-    instructions: "Match each question (1–6) with the correct answer (a–g). One answer is not needed."
+    instructions: "Verbinde jede Frage (1–6) mit der passenden Antwort (a–g). Eine Antwort wird nicht gebraucht."
+    instructionsEn: "Match each question (1–6) with the correct answer (a–g). One answer is not needed."
     left:
       - { key: "1", text: "Worüber habt ihr gesprochen?" }
       - { key: "2", text: "Woran denkst du?" }
@@ -661,7 +683,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "Leseverstehen: Annas Interview (Lesetext §7)"
-    instructions: "Answer each question with a full sentence using a Pronominaladverb. 5 items."
+    instructions: "Beantworte jede Frage mit einem ganzen Satz mit Pronominaladverb. 5 Fragen."
+    instructionsEn: "Answer each question with a full sentence using a Pronominaladverb. 5 items."
     text: |
       1. Worüber hat sich Anna in ihrem ersten Jahr gefreut?
          → Sie hat sich {1} gefreut, dass ihr Team ihr vertraut hat.
@@ -719,7 +742,8 @@ exercises:
     layout: false
     track: praepositionen
     title: "Lückentext: Annas Interview"
-    instructions: "Fill each gap with one word. 10 gaps."
+    instructions: "Ergänze in jeder Lücke ein Wort. 10 Lücken."
+    instructionsEn: "Fill each gap with one word. 10 gaps."
     text: |
       Anna Kowalski arbeitet seit einem Jahr als Junior-Projektkoordinatorin in
       Berlin. Im Interview erklärt sie, {1} sie sich in ihrem ersten Jahr am
@@ -752,7 +776,8 @@ exercises:
     type: single-choice
     track: praepositionen
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Ich freue mich ______ dich wiederzusehen."
         options:
@@ -802,7 +827,8 @@ exercises:
     type: gap-bank
     track: praepositionen
     title: "Sprachbausteine Teil 2 (Wortbank)"
-    instructions: "Fill the 10 gaps. Five words are not needed."
+    instructions: "Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht."
+    instructionsEn: "Fill the 10 gaps. Five words are not needed."
     bankCase: upper
     bankSort: true
     text: |
@@ -848,6 +874,7 @@ exercises:
       > **Anna:** Ich warne davor, sich zu sehr unter Druck zu setzen. Gleichzeitig rate ich dazu, Fragen zu stellen — auch wenn man Angst davor hat, unwissend zu wirken. Ich interessiere mich sehr für offene Lernkulturen in Unternehmen, und ich bin davon überzeugt, dass sie den Unterschied machen.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Anna arbeitet seit zwei Jahren als Projektkoordinatorin."
         answer: false
@@ -869,7 +896,8 @@ exercises:
     block: C
     type: single-choice
     title: "Leseverstehen: Pressemitteilung (neuer Text)"
-    instructions: "Read the text below. Choose the correct answer (a, b, or c)."
+    instructions: "Lies den Text unten. Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Read the text below. Choose the correct answer (a, b, or c)."
     text: |
       **Pressemitteilung — TechStart Berlin**
 
@@ -949,11 +977,12 @@ exercises:
     type: gap-text
     layout: list
     title: "Schnelltest: Verben mit Präpositionen + Pronominaladverbien + Wiederholung"
-    instructions: "Fill in the correct word or form. Items 13–15 review B1/06 (Infinitiv mit zu) and B1/05 (Relativsätze). 15 items."
+    instructions: "Ergänze das richtige Wort oder die richtige Form. Aufgaben 13–15 wiederholen B1/06 (Infinitiv mit zu) und B1/05 (Relativsätze). 15 Aufgaben."
+    instructionsEn: "Fill in the correct word or form. Items 13–15 review B1/06 (Infinitiv mit zu) and B1/05 (Relativsätze). 15 items."
     text: |
-      1. Ich denke oft ___ die Reise. → Ich denke oft {1} die Reise. (Präposition: an)
-      2. Wir warten ___ eine Antwort. → Wir warten {2} eine Antwort. (Präposition: auf)
-      3. Sie interessiert sich ___ das Thema. → Sie interessiert sich {3} das Thema. (Präposition: für)
+      1. Ich denke oft ___ die Reise. → Ich denke oft {1} die Reise. (Präposition)
+      2. Wir warten ___ eine Antwort. → Wir warten {2} eine Antwort. (Präposition)
+      3. Sie interessiert sich ___ das Thema. → Sie interessiert sich {3} das Thema. (Präposition)
       4. Ich denke ___ (the trip — Pronominaladverb). → Ich denke {4}.
       5. Ich freue mich ___ (the weekend — future, Pronominaladverb). → Ich freue mich {5}.
       6. ___ wartest du? — Auf den Bus. (wo(r)-form for thing) → {6} wartest du?
@@ -962,10 +991,10 @@ exercises:
       9. Ich bin ___ überzeugt, dass sie recht hat. (Pronominaladverb: von) → Ich bin {9} überzeugt.
       10. Ich ärgere mich ___, dass der Film kein Ende hatte. (Pronominaladverb: über) → Ich ärgere mich {10}.
       11. ___ hängt der Erfolg ab? — Von der Kommunikation. (wo(r)-form) → {11} hängt der Erfolg ab?
-      12. Ich kümmere mich ___ das Kind. → Ich kümmere mich {12} das Kind. (Präposition: um + Akk)
+      12. Ich kümmere mich ___ das Kind. → Ich kümmere mich {12} das Kind. (Präposition + Akk)
       13. (B1/06) Ich hoffe, die Prüfung {13}. (bestehen — Infinitiv mit zu)
-      14. (B1/05) Das ist das Thema, ___ wir gesprochen haben. (Relativpronomen + Präp: über das) → {14}
-      15. (B1/05) Die Kollegin, ___ ich vertraue, heißt Mia. (Relativpronomen Dat: der) → {15}
+      14. (B1/05) Das ist das Thema, ___ wir gesprochen haben. (Relativpronomen + Präposition — sprechen über) → {14}
+      15. (B1/05) Die Kollegin, ___ ich vertraue, heißt Mia. (Relativpronomen, Dativ) → {15}
     answers:
       "1": an
       "2": auf
@@ -988,7 +1017,8 @@ exercises:
     type: odd-one-out
     track: praepositionen
     title: "Wortschatz-Check: Das passt nicht!"
-    instructions: "Circle the word or phrase that does not belong. 6 groups."
+    instructions: "Streiche das Wort oder den Ausdruck, das/der nicht passt. 6 Gruppen."
+    instructionsEn: "Circle the word or phrase that does not belong. 6 groups."
     groups:
       - items: ["denken an", "träumen von", "warten auf", "schlafen"]
         odd: 3
@@ -999,12 +1029,12 @@ exercises:
       - items: ["worauf", "womit", "worüber", "warum"]
         odd: 3
         why: "warum means 'why' (reason question) — it is not a wo(r)- Pronominaladverb."
-      - items: ["sich freuen auf", "sich freuen über", "sich ärgern über", "sich freuen an"]
+      - items: ["sich freuen auf", "sich freuen über", "sich ärgern über", "sich interessieren an"]
         odd: 3
-        why: "sich freuen an does not exist in standard German. The correct forms are auf (future) and über (past/present)."
-      - items: ["sich kümmern um", "abhängen von", "bestehen auf", "kommen auf"]
+        why: "sich interessieren takes für (sich interessieren für); an belongs to the noun (Interesse an). The others are correct verb + preposition pairs."
+      - items: ["sich kümmern um", "abhängen von", "bestehen auf", "besuchen"]
         odd: 3
-        why: "kommen auf is not a standard fixed-preposition verb in this set. bestehen auf (= insist on) is the correct form."
+        why: "besuchen takes a direct Akkusativ object and no fixed preposition. The others are verbs with a fixed preposition (bestehen auf = insist on)."
       - items: ["Ich denke daran.", "Ich warte darauf.", "Ich freue mich darüber.", "Ich denke daran ihn."]
         odd: 3
         why: "Pronominaladverbien replace the whole Präp + Pronomen — you never combine daran + ihn. For persons: Ich denke an ihn."
@@ -1014,13 +1044,14 @@ exercises:
     type: gap-text
     layout: list
     title: "Rückblick: B1/07 (Genitiv) und B1/06 (Infinitiv mit zu)"
-    instructions: "Fill in the correct form. Items 1–5 review B1/07 (Genitiv); items 6–10 review B1/06 (Infinitiv mit zu). 10 items."
+    instructions: "Ergänze die richtige Form. Aufgaben 1–5 wiederholen B1/07 (Genitiv), Aufgaben 6–10 B1/06 (Infinitiv mit zu). 10 Aufgaben."
+    instructionsEn: "Fill in the correct form. Items 1–5 review B1/07 (Genitiv); items 6–10 review B1/06 (Infinitiv mit zu). 10 items."
     text: |
       B1/07 — Genitiv:
       1. Das ist das Büro {1} Chefin. (die Chefin — Genitiv)
       2. Wegen {2} schlechten Wetters bleiben wir zu Hause. (das Wetter — Genitiv nach wegen)
       3. Trotz {3} langen Meetings hat er alles geschafft. (das Meeting — Genitiv nach trotz)
-      4. Das ist die Entscheidung {4} Teams. (das Team — Genitiv, n-Dekl. check: das Team, -s)
+      4. Das ist die Entscheidung {4} Teams. (das Team — Genitiv)
       5. Während {5} Sitzung darf man nicht telefonieren. (die Sitzung — Genitiv nach während)
 
       B1/06 — Infinitiv mit zu:
@@ -1028,7 +1059,7 @@ exercises:
       7. Sie hofft, bald fertig {7}. (sein)
       8. Pavel beschließt, öfter {8}. (üben)
       9. Ich habe vor, morgen früh {9}. (aufstehen — separable!)
-      10. Frau Weber empfiehlt {10}, die Richtlinien zu lesen. (formal Dativ: Ihnen)
+      10. Frau Weber empfiehlt {10}, die Richtlinien zu lesen. (Sie-Form, Dativ)
     answers:
       "1": der
       "2": des
@@ -1047,7 +1078,8 @@ exercises:
     layout: list
     track: praepositionen
     title: "Selbsttest: Verben mit Präpositionen + Pronominaladverbien (20 Punkte)"
-    instructions: "Fill in the correct form. 1 point per gap. 20 items."
+    instructions: "Ergänze die richtige Form. 1 Punkt pro Lücke. 20 Aufgaben."
+    instructionsEn: "Fill in the correct form. 1 point per gap. 20 items."
     notes: "16+ / 20 → proceed to B1/09. Below 16: redo Block A4–A8 tomorrow, then retest D4."
     text: |
       1. Ich denke oft ___ meinen letzten Urlaub. (Präposition) → {1}

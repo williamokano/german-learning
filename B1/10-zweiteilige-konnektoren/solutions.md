@@ -226,7 +226,7 @@ Selbstkorrektur:
 
 ## Übung D1 — Schnelltest: Zweiteilige Konnektoren + Wiederholung
 
-1. **sondern**  2. **als auch**  3. **Entweder**  4. **weder**  5. **noch**  6. **zwar**  7. **aber**  8. **Zwar**  9. **spricht**  10. **als auch**  11. **noch**  12. **sowohl**  13. **als auch**  14. **nicht nur**  15. **trotzdem**  16. **zu arbeiten**  17. **würde**  18. **wann**
+1. **sondern**  2. **als auch**  3. **Entweder**  4. **weder**  5. **noch**  6. **zwar**  7. **aber**  8. **Zwar**  9. **spricht**  10. **als auch**  11. **noch**  12. **zwar**  13. **aber**  14. **nicht nur**  15. **trotzdem**  16. **zu arbeiten**  17. **würde**  18. **wann**
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
 

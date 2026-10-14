@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Mia sagt, Berlin hat sie sowohl fasziniert als auch erschöpft. ( )
 2. Lukas schlägt vor, sowohl in Berlin zu bleiben als auch umzuziehen. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Was ist Hannahs Hauptziel für den neuen Lehrplan?  a) Nicht nur Fachwissen, sondern auch kritisches Denken zu fördern.  b) Mehr Unterrichtsstunden zu bekommen.  c) Nur Primärquellen im Unterricht zu verwenden.
 2. In welchen Fächern arbeitet Hannah mit Primärquellen?  a) Nur im Deutschunterricht.  b) Sowohl im Deutsch- als auch im Geschichtsunterricht.  c) Nur im Geschichtsunterricht.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to Yusuf's short conference presentation and fill in the 7 missing words. Three words in the box are not needed.
+Höre Yusufs kurzen Konferenzvortrag und ergänze die 7 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Guten Tag, ich bin Dr. Yusuf El-Sayed von der FU Berlin. In meinem heutigen
 > Kurzvortrag möchte ich zwei Thesen zur Stadtentwicklung vorstellen. These eins:
@@ -52,7 +52,7 @@ Listen to Yusuf's short conference presentation and fill in the 7 missing words.
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the event announcement. Then choose the correct answer (a, b, or c).
+Höre die Veranstaltungsansage. Wähle dann die richtige Antwort (a, b oder c).
 
 1. Um wie viel Uhr beginnt die Podiumsdiskussion?  a) Um 18 Uhr.  b) Um 19 Uhr.  c) Um 20 Uhr.
 2. Wer nimmt an der Diskussion teil?  a) Nur Wissenschaftler.  b) Nur Bürgerinnen und Bürger.  c) Sowohl Wissenschaftler als auch Bürgerinnen und Bürger.
@@ -76,7 +76,7 @@ Listen to the event announcement. Then choose the correct answer (a, b, or c).
 
 ## Übung A1 — `nicht nur … sondern auch` — Grundübung
 
-Complete each sentence with `nicht nur … sondern auch`. 8 items.
+Ergänze jeden Satz mit `nicht nur … sondern auch`. 8 Sätze.
 
 1. Berlin bietet (1) ______ kulturelle Vielfalt, (2) ______ exzellente Jobmöglichkeiten.
 2. Lukas spricht (3) ______ Deutsch, (4) ______ Englisch.
@@ -89,7 +89,7 @@ Complete each sentence with `nicht nur … sondern auch`. 8 items.
 
 ## Übung A2 — `sowohl … als auch` — Grundübung
 
-Complete each sentence with `sowohl … als auch`. Remember: always `als auch`, never `wie auch`! 8 items.
+Ergänze jeden Satz mit `sowohl … als auch`. Denk daran: immer `als auch`, nie `wie auch`! 8 Sätze.
 
 1. Anna als auch Bruno kommen aus dem Ausland. → (1) ______ Anna (2) ______ Bruno kommen aus dem Ausland.
 2. Das Frühstück und das Mittagessen sind inklusive. → (3) ______ das Frühstück (4) ______ das Mittagessen sind inklusive.
@@ -102,7 +102,7 @@ Complete each sentence with `sowohl … als auch`. Remember: always `als auch`, 
 
 ## Übung A3 — `entweder … oder` — Grundübung mit Wortstellung
 
-Complete with `entweder … oder`. Watch for inversion when `entweder` starts the sentence! 6 items.
+Ergänze mit `entweder … oder`. Achte auf die Inversion, wenn `entweder` am Satzanfang steht! 6 Sätze.
 
 1. Ich nehme den Bus oder das Fahrrad. → Ich nehme (1) ______ den Bus (2) ______ das Fahrrad.
 2. Wir bleiben hier oder wir ziehen um. → (3) ______ bleiben wir hier, (4) ______ wir ziehen um.
@@ -113,7 +113,7 @@ Complete with `entweder … oder`. Watch for inversion when `entweder` starts th
 
 ## Übung A4 — `weder … noch` — Grundübung (kein zusätzliches `nicht`!)
 
-Complete with `weder … noch`. Do NOT add `nicht` — the negation is already built in! 6 items.
+Ergänze mit `weder … noch`. Kein zusätzliches `nicht` – die Verneinung steckt schon drin! 6 Sätze.
 
 1. Er hat keine Zeit und kein Geld. → Er hat (1) ______ Zeit (2) ______ Geld.
 2. Sie spricht kein Chinesisch und kein Japanisch. → Sie spricht (3) ______ Chinesisch (4) ______ Japanisch.
@@ -124,7 +124,7 @@ Complete with `weder … noch`. Do NOT add `nicht` — the negation is already b
 
 ## Übung A5 — `zwar … aber` — Einräumen und einschränken
 
-Complete with `zwar … aber`. Note: `zwar` can appear sentence-initially (with inversion) or mid-sentence. 6 items.
+Ergänze mit `zwar … aber`. Hinweis: `zwar` kann am Satzanfang (mit Inversion) oder in der Satzmitte stehen. 6 Sätze.
 
 1. Das Angebot ist billig, aber die Qualität fehlt. → Das Angebot ist (1) ______ billig, (2) ______ die Qualität fehlt.
 2. Das Angebot ist günstig, aber die Qualität ist schlecht. → (3) ______ ist das Angebot günstig, (4) ______ die Qualität ist schlecht.
@@ -135,7 +135,7 @@ Complete with `zwar … aber`. Note: `zwar` can appear sentence-initially (with 
 
 ## Übung A6 — Welcher Konnektor passt? — Typ bestimmen
 
-Choose the correct two-part connector (a, b, or c) for each gap.
+Wähle für jede Lücke den richtigen zweiteiligen Konnektor (a, b oder c).
 
 1. Er hat ______ Zeit ______ Geld für dieses Projekt.  a) sowohl … als auch  b) weder … noch  c) nicht nur … sondern auch
 2. Das Konzept ist ______ innovativ, ______ es braucht noch mehr Arbeit.  a) zwar … aber  b) entweder … oder  c) weder … noch
@@ -146,7 +146,7 @@ Choose the correct two-part connector (a, b, or c) for each gap.
 
 ## Übung A7 — Satzbau: Wortstellung mit zweiteiligen Konnektoren
 
-Put the words in the correct order. Note inversion when the connector starts the sentence!
+Bring die Wörter in die richtige Reihenfolge. Achte auf die Inversion, wenn der Konnektor am Satzanfang steht!
 
 1. nur – spricht – er – sondern – Arabisch – Nicht – er – Deutsch – , – lernt – auch
 2. ziehen – Entweder – bleiben – um – oder – , – hier – wir – wir
@@ -155,7 +155,7 @@ Put the words in the correct order. Note inversion when the connector starts the
 
 ## Übung A8 — Grammatik-Check: Konnektoren richtig gebildet?
 
-Is the connector used correctly? Richtig (R) oder Falsch (F)? If F, explain the error.
+Ist der Konnektor richtig verwendet? Richtig (R) oder Falsch (F)? Wenn F: Erkläre den Fehler.
 
 1. Er hat weder nicht Zeit noch Geld. ( )
 2. Sowohl Anna wie auch Bruno kommen aus dem Ausland. ( )
@@ -166,7 +166,7 @@ Is the connector used correctly? Richtig (R) oder Falsch (F)? If F, explain the 
 
 ## Übung A9 — Gemischt: den richtigen Konnektor einsetzen
 
-Fill in the correct two-part connector. The type is given in brackets. 8 items.
+Ergänze den richtigen zweiteiligen Konnektor. Die Art steht in Klammern. 8 Sätze.
 
 1. Das Projekt berücksichtigt (1) ______ die Kosten (2) ______ die Qualität. (additive — both)
 2. (3) ______ habe ich keine Erfahrung, (4) ______ ich bin sehr motiviert. (concessive)
@@ -179,7 +179,7 @@ Fill in the correct two-part connector. The type is given in brackets. 8 items.
 
 ## Übung A10 — Konnektoren kategorisieren
 
-Sort each sentence into the correct category based on the connector used.
+Ordne jeden Satz nach dem verwendeten Konnektor der richtigen Kategorie zu.
 
 > Er spricht nicht nur Deutsch, sondern auch Englisch. · Entweder du kommst mit, oder ich gehe allein. · Das Angebot ist zwar günstig, aber die Qualität fehlt. · Sowohl Anna als auch Bruno kommen aus dem Ausland. · Er hat weder Zeit noch Lust. · Zwar bin ich müde, aber ich komme trotzdem. · Nicht nur das Geld, sondern auch die Zeit ist knapp. · Weder hat er angerufen, noch hat er geschrieben.
 
@@ -189,7 +189,7 @@ Sort each sentence into the correct category based on the connector used.
 
 ## Übung A11 — Satzanfang mit Inversion — `weder`, `entweder`, `nicht nur`, `zwar`
 
-Rewrite each sentence so it starts with the given connector. Apply inversion correctly. 6 items.
+Formuliere jeden Satz so um, dass er mit dem angegebenen Konnektor beginnt. Achte auf die Inversion. 6 Sätze.
 
 1. Er hat nicht angerufen. Er hat auch nicht geschrieben.
    → (1) ______ hat er angerufen, noch hat er geschrieben.
@@ -210,7 +210,7 @@ Rewrite each sentence so it starts with the given connector. Apply inversion cor
 
 ## Übung B1 — Dialog ergänzen: Diskussion über die Stadtwahl
 
-Fill in the 8 blanks with the correct two-part connector words. Context: Mia and Lukas discuss with Yusuf.
+Ergänze die 8 Lücken mit den richtigen Teilen der zweiteiligen Konnektoren. Situation: Mia und Lukas diskutieren mit Yusuf.
 
 — Mia, was spricht für Berlin?
 — (1) ______ das kulturelle Angebot (2) ______ die Jobmöglichkeiten sind hier unschlagbar.
@@ -234,24 +234,24 @@ Jeder Satz enthält einen Fehler. Ordne den fehlerhaften Satz der richtigen Korr
 
 ## Übung B3 — Umformung: einen Konnektor durch einen anderen ersetzen
 
-Rewrite each sentence using the connector given in brackets. Keep the meaning as close as possible. 6 items.
+Formuliere jeden Satz mit dem Konnektor in Klammern um. Die Bedeutung soll möglichst gleich bleiben. 6 Sätze.
 
 1. Er spricht nicht nur Deutsch, sondern auch Englisch.
    → Er spricht (1) ______. (sowohl … als auch)
 2. Sowohl Mia als auch Lukas wohnen in Kreuzberg.
    → (2) ______. (nicht nur … sondern auch — start with Nicht nur Mia …)
 3. Das Angebot ist zwar billig, aber die Qualität ist schlecht.
-   → Das Angebot ist billig. (3) ______ ist die Qualität schlecht. (jedoch — use jedoch as a standalone connector)
+   → Das Angebot ist billig. (3) ______ ist die Qualität schlecht. (one formal contrast adverb, V2)
 4. Entweder du kommst mit, oder ich gehe allein.
    → Wenn du (4) ______, gehe ich allein. (wenn-clause — different structure, same logic)
 5. Er hat weder Zeit noch Lust.
-   → Er hat (5) ______ Zeit und (6) ______ Lust. (use: keine … und keine …)
+   → Er hat (5) ______ Zeit und (6) ______ Lust. (rephrase without weder … noch)
 6. Nicht nur hat er angerufen, sondern er hat auch eine E-Mail geschrieben.
    → Er hat (7) ______ angerufen (8) ______ eine E-Mail geschrieben. (sowohl … als auch)
 
 ## Übung B4 — Satzhälften verbinden: Argumente strukturieren
 
-Match each sentence beginning (1–6) with the correct ending (a–g). One ending is not needed.
+Verbinde jeden Satzanfang (1–6) mit dem passenden Satzende (a–g). Ein Satzende wird nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -265,7 +265,7 @@ Match each sentence beginning (1–6) with the correct ending (a–g). One endin
 
 ## Übung B5 — Satzbau: Argumente in der richtigen Reihenfolge
 
-Put the words in the correct order to form a sentence with a two-part connector.
+Bring die Wörter in die richtige Reihenfolge, sodass ein Satz mit einem zweiteiligen Konnektor entsteht.
 
 1. die – Sowohl – auch – sind – entscheidend – Qualität – der – Preis – als
 2. das – , – Zeit – Lust – hat – tun – weder – zu – noch – Er
@@ -274,7 +274,7 @@ Put the words in the correct order to form a sentence with a two-part connector.
 
 ## Übung B6 — Formellen Vortrag analysieren: Konnektoren in Hannahs Präsentation
 
-Read each excerpt from Dialog B and choose what function the connector performs.
+Lies die Auszüge aus Dialog B und wähle, welche Funktion der Konnektor hat.
 
 1. „Mein Lehrplan zielt nicht nur auf die Vermittlung von Fachwissen ab, sondern auch auf die Entwicklung kritischen Denkens."  a) Exclusion: only one of the two matters.  b) Addition with emphasis: both matter, but the second is highlighted.  c) Concession: admitting a problem before contrasting.
 2. „Der Entwurf ist zwar noch nicht vollständig, aber er zeigt eine überzeugende Grundlogik."  a) Additive: both completeness and logic are present.  b) Exclusive choice: either complete or logical.  c) Concessive: admitting a shortcoming before highlighting a strength.
@@ -282,7 +282,7 @@ Read each excerpt from Dialog B and choose what function the connector performs.
 
 ## Übung B7 — Formeller Stil: Konnektoren in einer Stellungnahme
 
-Fill in the correct connector words to complete this formal position statement. 8 gaps.
+Ergänze die richtigen Konnektoren in dieser formellen Stellungnahme. 8 Lücken.
 
 Die Frage, ob Großstädte lebenswert sind, lässt sich (1) ______ eindeutig mit
 Ja (2) ______ mit Nein beantworten — die Realität ist komplexer. Großstädte bieten
@@ -339,7 +339,7 @@ Self-check:
 
 ## Übung C1 — Lückentext: Berlin aus zwei Perspektiven
 
-Fill each gap with one word. 10 gaps.
+Ergänze in jeder Lücke ein Wort. 10 Lücken.
 
 Viele Menschen fragen sich, (1) ______ Berlin wirklich so besonders ist. Lukas
 sieht (2) ______ die Vorzüge (3) ______ die Schattenseiten der Hauptstadt. Berlin
@@ -351,7 +351,7 @@ gleichzeitig. Yusuf sagt: Weder Berlin (10) ______ Kairo ist perfekt.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle für jede Lücke die richtige Option (a, b oder c).
 
 1. Das Angebot ist ______ günstig, aber die Qualität ist schlecht.  a) zwar  b) sowohl  c) weder
 2. Er hat ______ Zeit ______ Lust, das zu tun.  a) entweder … oder  b) weder … noch  c) sowohl … als auch
@@ -362,7 +362,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Fill the 10 gaps. Five words are not needed.
+Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht.
 
 > Die Frage der Lebensqualität lässt sich (1) ______ mit Ja (2) ______ mit Nein
 > beantworten — die Realität ist nuanciert. Großstädte bieten (3) ______
@@ -400,7 +400,7 @@ Richtig (R) oder Falsch (F)?
 
 ## Übung C4b — Leseverstehen: Stellungnahme zur Stadtentwicklung (neuer Text)
 
-Read the text below. Choose the correct answer (a, b, or c).
+Lies den Text unten. Wähle die richtige Antwort (a, b oder c).
 
 1. Was ist laut dem Text das Kernproblem der Stadtentwicklungsdebatte?  a) Es gibt zu viele staatliche Eingriffe.  b) Weder rein marktwirtschaftliche noch rein staatliche Lösungen haben bisher allein funktioniert.  c) Es mangelt an Pilotprojekten in den Städten.
 2. Was braucht erfolgreiche Stadtpolitik laut dem Text?  a) Nur mutige Investitionen.  b) Nur kluge Regulierung.  c) Sowohl mutige Investitionen als auch kluge Regulierung.
@@ -430,27 +430,27 @@ Self-check:
 
 ## Übung D1 — Schnelltest: Zweiteilige Konnektoren + Wiederholung
 
-Fill in the correct word or structure. Items 12–15 review earlier lessons. 15 items.
+Ergänze das richtige Wort oder die richtige Struktur. Aufgaben 12–15 wiederholen frühere Lektionen. 15 Aufgaben.
 
-1. Er spricht nicht nur Deutsch, (1) ______ auch Englisch. (sondern)
-2. Sowohl Mia (2) ______ Lukas wohnen in Kreuzberg. (als auch)
-3. (3) ______ wir handeln jetzt, oder wir verlieren die Gelegenheit. (Entweder)
-4. Er hat (4) ______ Zeit (5) ______ Lust. (weder … noch)
-5. Das Angebot ist (6) ______ günstig, (7) ______ die Qualität fehlt. (zwar … aber)
-6. (8) ______ ist das Konzept gut, aber die Umsetzung fehlt. (Zwar — sentence initial, inversion)
-7. Nicht nur (9) ______ er Arabisch, sondern er spricht auch Deutsch. (inversion: spricht)
-8. Sowohl die Qualität (10) ______ der Preis sind entscheidend. (als auch)
-9. Weder hat er angerufen, (11) ______ hat er geschrieben. (noch)
-10. Sie liebt (12) ______ Berlin, (13) ______ sie kritisiert es. (sowohl … als auch)
-11. Das ist (14) ______ eine wirtschaftliche, sondern auch eine soziale Frage. (nicht nur)
-12. (B1/02) Das Wetter war schlecht, (15) ______ sind wir wandern gegangen. (trotzdem — L2)
-13. (B1/06) Ich lerne Deutsch, um in Berlin (16) ______. (zu arbeiten — L6)
-14. (B1/03) Wenn ich mehr Zeit hätte, (17) ______ ich mehr reisen. (würde — L3)
-15. (B1/09) Könnten Sie mir sagen, (18) ______ der nächste Zug fährt? (wann — L9)
+1. Er spricht nicht nur Deutsch, (1) ______ auch Englisch.
+2. Sowohl Mia (2) ______ Lukas wohnen in Kreuzberg.
+3. (3) ______ wir handeln jetzt, oder wir verlieren die Gelegenheit.
+4. Er hat (4) ______ Zeit (5) ______ Lust. (neither … nor)
+5. Das Angebot ist (6) ______ günstig, (7) ______ die Qualität fehlt. (it's true … but)
+6. (8) ______ ist das Konzept gut, aber die Umsetzung fehlt. (sentence initial, inversion)
+7. Nicht nur (9) ______ er Arabisch, sondern er spricht auch Deutsch. (sprechen — inversion)
+8. Sowohl die Qualität (10) ______ der Preis sind entscheidend.
+9. Weder hat er angerufen, (11) ______ hat er geschrieben.
+10. Sie liebt (12) ______ Berlin, (13) ______ sie kritisiert es. (it's true … but)
+11. Das ist (14) ______ eine wirtschaftliche, sondern auch eine soziale Frage.
+12. (B1/02) Das Wetter war schlecht, (15) ______ sind wir wandern gegangen. (nevertheless)
+13. (B1/06) Ich lerne Deutsch, um in Berlin (16) ______. (arbeiten)
+14. (B1/03) Wenn ich mehr Zeit hätte, (17) ______ ich mehr reisen. (werden — KII)
+15. (B1/09) Könnten Sie mir sagen, (18) ______ der nächste Zug fährt? (when)
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
 
-Circle the word or phrase that does not belong in the group. 6 groups.
+Kreise das Wort oder den Ausdruck ein, das/der nicht in die Gruppe passt. 6 Gruppen.
 
 1. sowohl … als auch – nicht nur … sondern auch – weder … noch – entweder … oder
 2. das Argument – die These – der Standpunkt – die Miete
@@ -461,37 +461,37 @@ Circle the word or phrase that does not belong in the group. 6 groups.
 
 ## Übung D3 — Rückblick: B1/02 (Gegensätze) und B1/03 (Konjunktiv II)
 
-Fill in the correct form. Items 1–5 review B1/02 (Gegensätze/Konzessivität); items 6–10 review B1/03 (Konjunktiv II). 10 items.
+Ergänze die richtige Form. Aufgaben 1–5 wiederholen B1/02 (Gegensätze/Konzessivität), Aufgaben 6–10 wiederholen B1/03 (Konjunktiv II). 10 Aufgaben.
 
 B1/02 — Gegensätze und Konzessivität (L2):
-1. Er war müde, (1) ______ hat er bis Mitternacht gearbeitet. (trotzdem)
-2. (2) ______ das Wetter schlecht war, sind wir gewandert. (Obwohl)
-3. Das Projekt hat Erfolg. (3) ______ waren die Kosten sehr hoch. (Allerdings / Jedoch)
-4. Er versteht das Problem, (4) ______ er tut nichts dagegen. (aber)
-5. (5) ______ er kein Geld hat, lebt er sehr gut. (Obwohl)
+1. Er war müde, (1) ______ hat er bis Mitternacht gearbeitet. (nevertheless)
+2. (2) ______ das Wetter schlecht war, sind wir gewandert. (although)
+3. Das Projekt hat Erfolg. (3) ______ waren die Kosten sehr hoch. (however — formal, V2)
+4. Er versteht das Problem, (4) ______ er tut nichts dagegen. (but)
+5. (5) ______ er kein Geld hat, lebt er sehr gut. (although)
 
 B1/03 — Konjunktiv II (L3):
-6. Wenn ich mehr Zeit hätte, (6) ______ ich mehr lesen. (würde)
-7. Er (7) ______ gerne nach Berlin ziehen, aber die Mieten sind zu hoch. (würde)
+6. Wenn ich mehr Zeit hätte, (6) ______ ich mehr lesen. (werden — KII)
+7. Er (7) ______ gerne nach Berlin ziehen, aber die Mieten sind zu hoch. (werden — KII)
 8. Wenn Lukas in einer Kleinstadt (8) ______, hätte er mehr Platz. (wohnen — Konjunktiv II)
-9. Ich (9) ______ an deiner Stelle früher schlafen gehen. (würde)
+9. Ich (9) ______ an deiner Stelle früher schlafen gehen. (werden — KII)
 10. Wenn wir ein größeres Budget (10) ______, könnten wir mehr investieren. (haben — Konjunktiv II)
 
 ## Übung D4 — Selbsttest: Zweiteilige Konnektoren (20 Punkte)
 
-Fill in the correct connector word or phrase. 1 point per gap. 20 gaps across 12 items.
+Ergänze den richtigen Konnektor (Wort oder Ausdruck). 1 Punkt pro Lücke. 20 Lücken in 12 Aufgaben.
 
-1. Er spricht (1) ______ Deutsch (2) ______ Englisch. (sowohl … als auch)
-2. Das Angebot ist (3) ______ günstig, (4) ______ die Qualität fehlt. (zwar … aber)
-3. Er hat (5) ______ Zeit (6) ______ Geld. (weder … noch)
-4. (7) ______ bleiben wir hier, (8) ______ wir ziehen um. (Entweder … oder — sentence initial)
-5. Berlin bietet nicht (9) ______ Kultur, (10) ______ auch Jobs. (nicht nur … sondern auch)
-6. (11) ______ ist das Konzept fertig, aber wir brauchen mehr Daten. (Zwar — inversion)
-7. Sowohl Mia (12) ______ Lukas sind für einen Umzug offen. (als auch)
-8. (13) ______ hat sie Deutsch gelernt, sondern sie hat auch Arabisch gelernt. (Nicht nur — inversion)
-9. Weder hat er angerufen, (14) ______ hat er geschrieben. (noch)
-10. Das ist (15) ______ eine soziale, (16) ______ eine wirtschaftliche Frage. (sowohl … als auch)
-11. (17) ______ du machst das jetzt, (18) ______ du wartest auf eine bessere Gelegenheit. (Entweder … oder — sentence initial)
-12. Das Projekt ist (19) ______ ambitioniert, (20) ______ es ist auch sehr realistisch. (nicht nur … sondern auch)
+1. Er spricht (1) ______ Deutsch (2) ______ Englisch. (both … and)
+2. Das Angebot ist (3) ______ günstig, (4) ______ die Qualität fehlt. (it's true … but)
+3. Er hat (5) ______ Zeit (6) ______ Geld. (neither … nor)
+4. (7) ______ bleiben wir hier, (8) ______ wir ziehen um. (either … or — sentence initial)
+5. Berlin bietet nicht (9) ______ Kultur, (10) ______ auch Jobs.
+6. (11) ______ ist das Konzept fertig, aber wir brauchen mehr Daten. (sentence initial, inversion)
+7. Sowohl Mia (12) ______ Lukas sind für einen Umzug offen.
+8. (13) ______ hat sie Deutsch gelernt, sondern sie hat auch Arabisch gelernt. (sentence initial, inversion)
+9. Weder hat er angerufen, (14) ______ hat er geschrieben.
+10. Das ist (15) ______ eine soziale (16) ______ eine wirtschaftliche Frage. (both … and)
+11. (17) ______ du machst das jetzt, (18) ______ du wartest auf eine bessere Gelegenheit. (either … or — sentence initial)
+12. Das Projekt ist (19) ______ ambitioniert, (20) ______ es ist auch sehr realistisch. (not only … but also)
 
 _16+ / 20 → proceed to B1/11. Below 16: redo Block A1–A9 the next day, then retest D4._
