@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Tomáš bleibt nur bis Donnerstag in Berlin. ( )
 2. Pavel bereut seinen Umzug nach Berlin. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Worauf konzentriert sich Tomáš' Startup in Berlin?  a) Auf die Randbezirke.  b) Auf das Stadtzentrum.  c) Auf ganz Berlin.
 2. Wie viel Prozent der Mittel hat das Startup bereits gesichert?  a) 20 %.  b) 40 %.  c) 60 %.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext (Pavel's phone call) and fill in the 6 missing words. Three words in the box are not needed.
+Höre den Hörtext (Pavels Telefonat) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Hallo Mama, ich bin's, Pavel. Ich wollte kurz anrufen und erklären, warum ich
 > auch dieses Jahr nicht zurückkomme. Ich weiß, Brünn ist meine Heimat, und ich
@@ -50,7 +50,7 @@ Listen to the Hörtext (Pavel's phone call) and fill in the 6 missing words. Thr
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to Tomáš's voice message to Pavel. Then choose the correct answer (a, b, or c).
+Höre die Sprachnachricht von Tomáš an Pavel. Wähle dann die richtige Antwort (a, b oder c).
 
 1. Warum ruft Tomáš an?  a) Weil es ein Problem mit der Genehmigung gibt.  b) Weil die Berliner Präsentation sehr gut gelaufen ist.  c) Weil er mehr Investoren gefunden hat.
 2. Was ist mit den eingereichten Dokumenten passiert?  a) Das Amt hat sie angenommen.  b) Das Amt hat die Anfrage abgelehnt.  c) Die Dokumente wurden verloren.
@@ -74,7 +74,7 @@ Listen to Tomáš's voice message to Pavel. Then choose the correct answer (a, b
 
 ## Übung A1 — Konnektoren — Übersicht: Position und Wortstellung
 
-Fill in the table. For each connector, mark: (a) type (Konj. = Konjunktion / Adv. = Adverb), (b) verb position in the clause it introduces.
+Ergänze die Tabelle. Markiere für jeden Konnektor: (a) die Art (Konj. = Konjunktion / Adv. = Adverb), (b) die Position des Verbs in dem Satz, den er einleitet.
 
 | Konnektor | Typ | Verbstellung | Beispiel |
 |---|---|---|---|
@@ -85,7 +85,7 @@ Fill in the table. For each connector, mark: (a) type (Konj. = Konjunktion / Adv
 
 ## Übung A2 — `obwohl` — Verb ans Ende
 
-Complete each sentence with `obwohl`. Put the verb at the end of the obwohl-clause. 8 items.
+Ergänze jeden Satz mit `obwohl`. Das Verb steht am Ende des obwohl-Satzes. 8 Sätze.
 
 1. Er geht ins Büro, obwohl er krank ______. (sein)
 2. Obwohl das Wetter schlecht ______, fahren wir in den Park. (sein)
@@ -98,7 +98,7 @@ Complete each sentence with `obwohl`. Put the verb at the end of the obwohl-clau
 
 ## Übung A3 — `trotzdem` — Inversion (V2)
 
-Rewrite the second sentence using `trotzdem` in position 1. Watch the word order! 8 items.
+Formuliere den zweiten Satz mit `trotzdem` auf Position 1 um. Achte auf die Wortstellung! 8 Sätze.
 
 1. Es regnet. Ich gehe spazieren. → Es regnet. Trotzdem ______ ich spazieren.
 2. Das Startup ist jung. Es hat viele Kunden. → Das Startup ist jung. Trotzdem ______ es viele Kunden.
@@ -111,7 +111,7 @@ Rewrite the second sentence using `trotzdem` in position 1. Watch the word order
 
 ## Übung A4 — `deshalb` / `darum` / `deswegen` — Folgen
 
-Fill in `deshalb` (or `darum` / `deswegen` — all three accepted). V2 inversion! 8 items.
+Ergänze `deshalb` (auch `darum` / `deswegen` sind richtig). Inversion: Verb auf Position 2! 8 Sätze.
 
 1. Er liebt Berlin. ______ kommt er oft hierher.
 2. Das Angebot in Randbezirken ist gering. ______ expandiert das Startup dorthin.
@@ -124,7 +124,7 @@ Fill in `deshalb` (or `darum` / `deswegen` — all three accepted). V2 inversion
 
 ## Übung A5 — Gemischt: `obwohl` / `trotzdem` / `deshalb` — richtig wählen
 
-Choose the correct connector for each gap (obwohl / trotzdem / deshalb). Pay attention to word order! 8 items.
+Wähle für jede Lücke den richtigen Konnektor (obwohl / trotzdem / deshalb). Achte auf die Wortstellung! 8 Sätze.
 
 1. Pavel vermisst Brünn. ______ fühlt er sich in Berlin wohl.
 2. Tomáš bleibt in Prag, ______ er oft in Berlin arbeitet.
@@ -137,7 +137,7 @@ Choose the correct connector for each gap (obwohl / trotzdem / deshalb). Pay att
 
 ## Übung A6 — `zwar … aber` — zweiteilige Konstruktion
 
-Complete each sentence with `zwar` and `aber`. 6 items.
+Ergänze jeden Satz mit `zwar` und `aber`. 6 Sätze.
 
 1. Berlin ist ______ teuer, ______ es hat viele Möglichkeiten.
 2. Das Startup ist ______ jung, ______ die Idee ist überzeugend.
@@ -148,7 +148,7 @@ Complete each sentence with `zwar` and `aber`. 6 items.
 
 ## Übung A7 — Satzbau: Wörter in die richtige Reihenfolge bringen
 
-Put the words in the correct order. Watch out: trotzdem in position 1 triggers inversion!
+Bring die Wörter in die richtige Reihenfolge. Achtung: trotzdem auf Position 1 bewirkt Inversion!
 
 1. bleibt – trotzdem – in – er – Prag
 2. er – kommt – ist – obwohl – müde – , – er
@@ -158,7 +158,7 @@ Put the words in the correct order. Watch out: trotzdem in position 1 triggers i
 
 ## Übung A8 — Umformung: zwei Sätze verbinden
 
-Combine the two sentences using the connector in brackets. Rewrite as one sentence or two connected sentences. 6 items.
+Verbinde die beiden Sätze mit dem Konnektor in Klammern – als ein Satz oder als zwei verbundene Sätze. 6 Sätze.
 
 1. Berlin ist teuer. Pavel wohnt dort. [trotzdem] → Berlin ist teuer. Trotzdem ______ Pavel dort.
 2. Tomáš liebt Prag. Er verbringt viel Zeit in Berlin. [obwohl] → Tomáš verbringt viel Zeit in Berlin, obwohl er Prag ______.
@@ -169,7 +169,7 @@ Combine the two sentences using the connector in brackets. Rewrite as one senten
 
 ## Übung A9 — Grammatik-Check: Richtig oder falsch?
 
-Is the German sentence grammatically correct? Answer R (richtig) or F (falsch). If F, identify the error.
+Ist der deutsche Satz grammatisch richtig? Antworte mit R (richtig) oder F (falsch). Wenn F: Finde den Fehler.
 
 1. Er bleibt in Berlin, obwohl er Prag liebt. ( )
 2. Obwohl er müde ist, kommt trotzdem er. ( )
@@ -179,7 +179,7 @@ Is the German sentence grammatically correct? Answer R (richtig) or F (falsch). 
 
 ## Übung A10 — Konnektor aus dem Kontext wählen
 
-Fill in the missing connector (obwohl / trotzdem / deshalb / darum / zwar / dennoch / jedoch). 8 items.
+Ergänze den fehlenden Konnektor (obwohl / trotzdem / deshalb / darum / zwar / dennoch / jedoch). 8 Sätze.
 
 1. Pavel vermisst seine Eltern in Brünn. ______ ruft er sie jeden Sonntag an.
 2. Das Cafe in Prenzlauer Berg ist sehr beliebt. ______ muss Pavel oft Überstunden machen.
@@ -196,7 +196,7 @@ Fill in the missing connector (obwohl / trotzdem / deshalb / darum / zwar / denn
 
 ## Übung B1 — Dialog ergänzen: Diskussion über Wohnorte
 
-Fill in the blanks with the correct connector (obwohl / trotzdem / deshalb / zwar / aber / dennoch). 8 gaps.
+Ergänze die Lücken mit dem richtigen Konnektor (obwohl / trotzdem / deshalb / zwar / aber / dennoch). 8 Lücken.
 
 — Warum bist du nach Köln gezogen?
 — Mein Job ist hier. (1) ______ bin ich umgezogen, (2) ______ mir Berlin eigentlich besser gefällt.
@@ -222,7 +222,7 @@ Fill in the blanks with the correct connector (obwohl / trotzdem / deshalb / zwa
 
 ## Übung B3 — Richtigen Konnektor wählen
 
-Choose the correct connector (a, b, or c) for each gap.
+Wähle für jede Lücke den richtigen Konnektor (a, b oder c).
 
 1. Er bleibt in Prag, ______ er Berlin liebt.  a) trotzdem  b) obwohl  c) deshalb
 2. Das Startup ist jung. ______ hat es schon viele Kunden.  a) Obwohl  b) Weil  c) Trotzdem
@@ -233,7 +233,7 @@ Choose the correct connector (a, b, or c) for each gap.
 
 ## Übung B4 — Satzhälften verbinden
 
-Match each sentence beginning (1–6) with the correct ending (a–g). One ending is not needed.
+Verbinde jeden Satzanfang (1–6) mit dem passenden Satzende (a–g). Ein Satzende wird nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -247,7 +247,7 @@ Match each sentence beginning (1–6) with the correct ending (a–g). One endin
 
 ## Übung B5 — Zwei Sätze zu einem verbinden
 
-Connect the two sentences using the given connector. Reorder words if needed.
+Verbinde die beiden Sätze mit dem angegebenen Konnektor. Stelle die Wörter wenn nötig um.
 
 1. ist – Er – Trotzdem – zum – Meeting – müde – kommt – er – .
 2. investiert – , – die – er – hoch – Obwohl – sind – Kosten
@@ -256,7 +256,7 @@ Connect the two sentences using the given connector. Reorder words if needed.
 
 ## Übung B6 — C1-Stil Lückentext — Nachhaltige Mobilität
 
-Fill in the 6 gaps with the correct connector or word.
+Ergänze die 6 Lücken mit dem richtigen Konnektor oder Wort.
 
 Nachhaltige Mobilität ist in Großstädten ein wichtiges Thema. (1) ______ viele
 Städte bereits auf E-Mobilität setzen, fehlt es oft an der nötigen
@@ -272,7 +272,7 @@ im Gegenteil: Sie ergänzen sich.
 
 ## Übung B7 — Umformung: `zwar … aber` verwenden
 
-Rewrite each pair of sentences using `zwar … aber`. 4 items.
+Formuliere jedes Satzpaar mit `zwar … aber` um. 4 Sätze.
 
 1. Das Café ist klein. Es hat aber viele Stammkunden.
    → Das Café ist ______ klein, ______ es hat viele Stammkunden.
@@ -326,7 +326,7 @@ Self-check:
 
 ## Übung C1 — Lückentext: Tomáš und das Berlin-Experiment
 
-Fill each gap with one word. 10 gaps.
+Ergänze in jeder Lücke ein Wort. 10 Lücken.
 
 Tomáš Novák gründete sein E-Scooter-Startup vor drei Jahren in Prag. Zwar
 war der Prager Markt bekannt und (1) (1) ______, aber Tomáš erkannte schnell, dass
@@ -347,7 +347,7 @@ nicht aus. (10) (10) ______ investiert er weiter.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle für jede Lücke die richtige Option (a, b oder c).
 
 1. Er bleibt in Prag, ______ er Berlin sehr mag.  a) trotzdem  b) obwohl  c) deshalb
 2. Das Startup hat Probleme. ______ gibt Tomáš nicht auf.  a) Obwohl  b) Weil  c) Dennoch
@@ -358,7 +358,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Fill the 10 gaps using words from the box. Five words are not needed.
+Ergänze die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht.
 
 > Pavel erklärt seiner Mutter, warum er in Berlin bleibt: Liebe Mama, ich
 > weiß, du machst dir Sorgen. (1) ______ ich Brünn vermisse, fühle ich mich hier
@@ -438,27 +438,27 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per gap. Items marked (B1/01) or (A2/03) review earlier lessons. 16 gaps across 15 items.
+Eine Minute pro Lücke. Aufgaben mit (B1/01) oder (A2/03) wiederholen frühere Lektionen. 16 Lücken in 15 Aufgaben.
 
-1. Fill in: Er bleibt, ______ er müde ist. (obwohl)
-2. Fill in: Das Wetter ist schlecht. ______ gehe ich spazieren. (trotzdem — V2)
-3. Fill in: Sie liebt Berlin. ______ ist sie geblieben. (deshalb — V2)
+1. Fill in: Er bleibt, ______ er müde ist. (although)
+2. Fill in: Das Wetter ist schlecht. ______ gehe ich spazieren. (nevertheless — V2)
+3. Fill in: Sie liebt Berlin. ______ ist sie geblieben. (that's why — V2)
 4. Fill in: Das Startup ist ______ jung, ______ es hat viele Kunden. (zwar … aber)
-5. Fill in: Er hat keine Zeit. ______ kommt er nicht. (deswegen)
-6. Fill in: ______ die Kosten hoch sind, macht er weiter. (obwohl — position 1)
+5. Fill in: Er hat keine Zeit. ______ kommt er nicht. (that's why)
+6. Fill in: ______ die Kosten hoch sind, macht er weiter. (although — position 1)
 7. Fill in: formal version of trotzdem (one word): ______
 8. Fill in: formal/written version of deshalb (one word, often in press texts): ______ (hint: D…)
-9. (A2/03) Fill in: Ich komme nicht, ______ ich krank bin. (weil)
+9. (A2/03) Fill in: Ich komme nicht, ______ ich krank bin. (because)
 10. (A2/03) Rewrite with deshalb: Ich bin krank. ______ komme ich nicht.
-11. (A2/03) Fill in: Ich glaube, ______ er recht hat. (dass)
+11. (A2/03) Fill in: Ich glaube, ______ er recht hat.
 12. (B1/01) Präteritum of sein, ich-form: ______
 13. (B1/01) Präteritum of haben, wir-form: ______
-14. Fill in: Die Nachfrage ist groß. ______ expandiert das Startup. (darum)
+14. Fill in: Die Nachfrage ist groß. ______ expandiert das Startup. (that's why)
 15. Fill in — register: In formal writing, use ______ instead of trotzdem.
 
 ## Übung D2 — Welches Wort passt nicht?
 
-Cross out the word that does not fit and explain why.
+Streiche das Wort, das nicht passt, und erkläre, warum.
 
 1. obwohl – trotzdem – dennoch – jedoch
 2. deshalb – darum – deswegen – obwohl
@@ -469,14 +469,14 @@ Cross out the word that does not fit and explain why.
 
 ## Übung D3 — Rückblick: A2/03 und B1/01
 
-Review of earlier lessons. 10 items.
+Wiederholung früherer Lektionen. 10 Aufgaben.
 
 **Aus A2/03 (weil, dass, deshalb):**
-1. (A2/03) Ich komme nicht, ______ ich keine Zeit habe. (weil)
-2. (A2/03) Er sagt, ______ er morgen kommt. (dass)
-3. (A2/03) Sie hat Hunger. ______ geht sie in die Küche. (deshalb)
-4. (A2/03) Ich bleibe zu Hause, ______ das Wetter schlecht ist. (weil)
-5. (A2/03) Wir glauben, ______ die Lösung einfach ist. (dass)
+1. (A2/03) Ich komme nicht, ______ ich keine Zeit habe. (because)
+2. (A2/03) Er sagt, ______ er morgen kommt.
+3. (A2/03) Sie hat Hunger. ______ geht sie in die Küche. (that's why)
+4. (A2/03) Ich bleibe zu Hause, ______ das Wetter schlecht ist. (because)
+5. (A2/03) Wir glauben, ______ die Lösung einfach ist.
 
 **Aus B1/01 (Präteritum, Plusquamperfekt, Zeitkonnektoren):**
 6. (B1/01) Präteritum of müssen, ich-form: ______

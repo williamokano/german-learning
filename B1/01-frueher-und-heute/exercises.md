@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Mia und Lukas geben eine Dinnerparty. ( )
 2. Anna bestellt Wein. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Wo war Bruno von 2018 bis 2023?  a) Bei der Firma Schmidt AG.  b) Bei der Firma Yilmaz.  c) An der Universität.
 2. Was hat sich laut Bruno in der Branche verändert?  a) Weniger Kundenbesuche vor Ort.  b) Mehr Kundenbesuche vor Ort.  c) KI ist verschwunden.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext and fill in the 6 missing words. Three words in the box are not needed.
+Höre den Hörtext und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Hallo Lukas, ich bin's, Mutti. Ich wollte dir kurz erzählen, wie es bei uns im
 > Dorf aussieht. Du weißt ja, dass unser Hof am Dorfrand liegt. (1) ______ hatten
@@ -53,7 +53,7 @@ Listen to the Hörtext and fill in the 6 missing words. Three words in the box a
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to Lukas's voice message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below.
+Höre die Sprachnachricht von Lukas. Wähle dann die richtige Antwort (a, b oder c). Höre einmal, bevor du das Transkript unten liest.
 
 1. Wann haben Mia und Lukas sich kennengelernt?  a) Im Mai 2019.  b) Im Mai 2018.  c) Im Mai 2020.
 2. Was hat Lukas gerade gefunden?  a) Sein altes Handy.  b) Sein altes Fotoalbum.  c) Seinen alten Wohnungsschlüssel.
@@ -77,7 +77,7 @@ Listen to Lukas's voice message. Then choose the correct answer (a, b, or c). Li
 
 ## Übung A1 — Präteritum: schwache und starke Verben
 
-Fill in the correct Präteritum form. 8 items.
+Ergänze die richtige Präteritumform. 8 Sätze.
 
 1. Ich ______ in einer kleinen Wohnung in Neukölln. (wohnen)
 2. Wir ______ damals in Lissabon. (leben)
@@ -90,7 +90,7 @@ Fill in the correct Präteritum form. 8 items.
 
 ## Übung A2 — Präteritum: sein, haben, werden
 
-Fill in the correct Präteritum form of the verb in brackets. 8 items.
+Ergänze die richtige Präteritumform des Verbs in Klammern. 8 Sätze.
 
 1. Ich ______ (sein) 22, als ich nach Berlin kam.
 2. Er ______ (haben) keine Wohnung.
@@ -103,7 +103,7 @@ Fill in the correct Präteritum form of the verb in brackets. 8 items.
 
 ## Übung A3 — Präteritum: Modalverben und wissen
 
-Fill in the correct Präteritum form. ⚠️ no umlaut. 6 items.
+Ergänze die richtige Präteritumform. ⚠️ ohne Umlaut. 6 Sätze.
 
 1. Ich ______ nicht kommen, weil ich krank war. (können)
 2. Er ______ jeden Tag 10 Stunden arbeiten. (müssen)
@@ -114,7 +114,7 @@ Fill in the correct Präteritum form. ⚠️ no umlaut. 6 items.
 
 ## Übung A4 — Präteritum in Fragen
 
-Put the verb in brackets into Präteritum. 6 items.
+Setze das Verb in Klammern ins Präteritum. 6 Sätze.
 
 1. ______ (sein) du schon einmal in Barcelona? (yes/no question — Verb first)
 2. ______ (wohnen) ihr damals in Berlin?
@@ -125,7 +125,7 @@ Put the verb in brackets into Präteritum. 6 items.
 
 ## Übung A5 — Plusquamperfekt: 'had done'
 
-Fill in the correct Plusquamperfekt form. 3 items, 5 gaps.
+Ergänze die richtige Plusquamperfektform. 3 Sätze, 5 Lücken.
 
 1. Bevor ich nach Berlin kam, ______ ich schon einen Job ______. (finden)
 2. Nachdem sie das Studium ______, ______ sie nach München. (beenden, ziehen)
@@ -142,7 +142,7 @@ Now write your own 5-sentence story. Use at least 3 of: war, hatte, ging, machte
 
 ## Übung A7 — Time connectors: zuerst, dann, danach, später, schließlich
 
-Choose the correct time connector for each gap: zuerst, dann, danach, später, schließlich. 5 items.
+Wähle für jede Lücke den richtigen Zeitkonnektor: zuerst, dann, danach, später, schließlich. 5 Sätze.
 
 Anna erzählt: „______ lebte ich in Russland. ______ bin ich nach Berlin
 gekommen. ______ habe ich einen Deutschkurs gemacht. ______ habe ich einen
@@ -160,7 +160,7 @@ Job gefunden. ______ bin ich geblieben."
 
 ## Übung A9 — Früher vs. heute — Vergleich
 
-Choose the correct form (Präteritum or Präsens). 6 items.
+Wähle die richtige Form (Präteritum oder Präsens). 6 Sätze.
 
 1. Damals ______ (wohnen — Prät.) ich noch in Russland.
 2. Heute ______ (wohnen — Präs.) ich in Berlin.
@@ -186,7 +186,7 @@ Choose the correct form (Präteritum or Präsens). 6 items.
 
 ## Übung B1 — Dialog ergänzen: Erinnerungen an das Studium
 
-Fill in the 10 blanks with the correct verb form (Präteritum or Präsens as context requires).
+Ergänze die 10 Lücken mit der richtigen Verbform (je nach Kontext Präteritum oder Präsens).
 
 > — Weißt du noch, wie das (1) ______ (sein) damals im Studium?
 > — Ja, wir (2) ______ (haben) kaum Geld und (3) ______ (müssen) jeden Tag
@@ -215,7 +215,7 @@ Fill in the 10 blanks with the correct verb form (Präteritum or Präsens as con
 
 ## Übung B3 — Frage und Antwort verbinden
 
-Match each question (1–6) with the correct answer (a–f).
+Verbinde jede Frage (1–6) mit der passenden Antwort (a–f).
 
 | Links | | Rechts |
 |---|---|---|
@@ -238,7 +238,7 @@ Match each question (1–6) with the correct answer (a–f).
 
 ## Übung B5 — sich erinnern an
 
-Fill in the correct form. ⚠️ Akkusativ! 6 items.
+Ergänze die richtige Form. ⚠️ Akkusativ! 6 Sätze.
 
 1. Ich erinnere mich ______ (an + Akk.) meine erste Wohnung in Berlin.
 2. Erinnerst du dich ______ (an + Akk.) deinen ersten Arbeitstag?
@@ -268,7 +268,7 @@ Fill in the correct form. ⚠️ Akkusativ! 6 items.
 
 ## Übung B8 — Wortschatz: Was passt nicht?
 
-Cross out the word that does not fit and explain why.
+Streiche das Wort, das nicht passt, und erkläre, warum.
 
 1. Kindheit – Jugend – Alter – Studium
 2. Beruf – Arbeit – Stelle – Ferien
@@ -296,7 +296,7 @@ Self-check:
 
 ## Übung C1 — Lückentext: Lukas' Fotoalbum
 
-Fill each gap with one word. 10 items.
+Ergänze in jeder Lücke ein Wort. 10 Lücken.
 
 Ich habe das Album auf dem Dachboden gefunden. Damals (1) ______ ich 26 und
 (2) ______ gerade meine erste Festanstellung als Entwickler angefangen.
@@ -313,7 +313,7 @@ zusammen, also teilen wir die Miete.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle für jede Lücke die richtige Option (a, b oder c).
 
 1. Ich (1) ____ gestern in Berlin.  a) war  b) bin gewesen  c) wurde
 2. Er (2) ____ 2018 nach Berlin, weil er dort eine Stelle gefunden hatte.  a) zieht  b) zog  c) ist gezogen
@@ -324,7 +324,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (word bank)
 
-Fill the 10 gaps using words from the box. Five words are not needed. Each word may be used once.
+Ergänze die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht. Jedes Wort passt nur einmal.
 
 > Lukas erzählt von seinem alten Fotoalbum: „Damals (1) (1) ______ ich 26
 > und (2) (2) ______ gerade meinen ersten Job (3) (3) ______. Ich (4) (4) ______ ein
@@ -397,7 +397,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-One minute per item. No notes. Items marked (L<n>) review an earlier lesson. 15 items.
+Eine Minute pro Aufgabe, ohne Notizen. Aufgaben mit Lektionsangabe, z. B. (A2/01), wiederholen eine frühere Lektion. 15 Aufgaben.
 
 1. Präteritum of sein, ich-form: ______
 2. Präteritum of haben, du-form: ______
@@ -417,7 +417,7 @@ One minute per item. No notes. Items marked (L<n>) review an earlier lesson. 15 
 
 ## Übung D2 — Odd one out
 
-Cross out the word that does not fit and explain why.
+Streiche das Wort, das nicht passt, und erkläre, warum.
 
 1. Kindheit – Jugend – Alter – Studium
 2. Miete – Lohn – Gehalt – Verdienst
@@ -428,7 +428,7 @@ Cross out the word that does not fit and explain why.
 
 ## Übung D3 — Rückblick: A2/01, A2/06, A2/11
 
-Review of earlier lessons. 10 items.
+Wiederholung früherer Lektionen. 10 Aufgaben.
 
 **Aus A2/01 (Präteritum of modals + time connectors):**
 1. Damals ______ (müssen) ich jeden Tag arbeiten.
@@ -438,12 +438,12 @@ Review of earlier lessons. 10 items.
 **Aus A2/06 (Verben mit Präpositionen):**
 4. Ich interessiere mich ______ (für / an + Akk.) Politik.
 5. Erinnerst du dich ______ (an + Akk.) unsere Reise?
-6. (A2/06) „Woran ______ (denken) du?" (correct: denkst du)
+6. (A2/06) „Woran ______ (denken) du?"
 
 **Aus A2/11 (Two-object verbs):**
-7. „Ich schenke meiner Schwester ______ (ein Buch)." (dat + akk)
+7. „Ich schenke meiner Schwester ______." (a book — dat + akk)
 8. „Ich schenke ______ (sie)." (replace meine Schwester)
-9. „Ich schenke ______ (es ihr)." (replace both nouns)
+9. „Ich schenke ______." (replace both nouns in „Ich schenke meiner Schwester das Buch.")
 10. (A2/11) „Er ______ (erklären) den Schülern die Regel." (conjugated form)
 
 ## Übung D4 — Selbsttest (score yourself /20)
@@ -478,8 +478,8 @@ Review of earlier lessons. 10 items.
 15. ______
 
 **Gemischtes:**
-16. „Gestern ______ (Präsens or Prät. of arbeiten) ich 8 Stunden." (arbeitete — Prät.)
-17. (A2/11) Akkusativ + Dativ Pronomen: „Ich gebe es ______." (ihm / ihr / ihnen)
+16. „Gestern ______ (arbeiten, Präteritum) ich 8 Stunden."
+17. (A2/11) Akkusativ + Dativ Pronomen: „Ich gebe es ______." (replace: meinem Bruder)
 18. (A2/09) Konjunktiv II: „Ich ______ gern einen Kaffee." (hätte / wäre / würde)
 19. (A2/10) „Ich fahre ______ Schweiz." (nach / in die)
 20. Translate: 'Before I came to Berlin, I had never spoken German.' → ______

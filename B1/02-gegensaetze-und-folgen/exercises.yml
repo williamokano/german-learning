@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Tomáš bleibt nur bis Donnerstag in Berlin."
         answer: true
@@ -39,7 +40,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Worauf konzentriert sich Tomáš' Startup in Berlin?"
         options:
@@ -75,7 +77,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen to the Hörtext (Pavel's phone call) and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre den Hörtext (Pavels Telefonat) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen to the Hörtext (Pavel's phone call) and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Hallo Mama, ich bin's, Pavel. Ich wollte kurz anrufen und erklären, warum ich
       auch dieses Jahr nicht zurückkomme. Ich weiß, Brünn ist meine Heimat, und ich
@@ -99,7 +102,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Voicemail von Tomáš"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to Tomáš's voice message to Pavel. Then choose the correct answer (a, b, or c)."
+    instructions: "Höre die Sprachnachricht von Tomáš an Pavel. Wähle dann die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Tomáš's voice message to Pavel. Then choose the correct answer (a, b, or c)."
     transcript: 'Hallo Pavel, hier ist Tomáš. Ich rufe an, weil wir heute ein Problem mit der Berliner Genehmigung haben. Obwohl wir alle Dokumente rechtzeitig eingereicht haben, hat das Amt unsere Anfrage abgelehnt. Deshalb brauchen wir dringend einen Termin mit dem zuständigen Sachbearbeiter. Trotzdem bin ich noch optimistisch — unser Anwalt sagt, wir haben gute Chancen. Kannst du morgen früh ins Büro kommen? Ich erkläre dann alles. Bitte ruf mich zurück.'
     items:
       - q: "Warum ruft Tomáš an?"
@@ -137,7 +141,8 @@ exercises:
     block: A
     type: table-fill
     title: "Konnektoren — Übersicht: Position und Wortstellung"
-    instructions: "Fill in the table. For each connector, mark: (a) type (Konj. = Konjunktion / Adv. = Adverb), (b) verb position in the clause it introduces."
+    instructions: "Ergänze die Tabelle. Markiere für jeden Konnektor: (a) die Art (Konj. = Konjunktion / Adv. = Adverb), (b) die Position des Verbs in dem Satz, den er einleitet."
+    instructionsEn: "Fill in the table. For each connector, mark: (a) type (Konj. = Konjunktion / Adv. = Adverb), (b) verb position in the clause it introduces."
     columns: ["Konnektor", "Typ", "Verbstellung", "Beispiel"]
     rows:
       - label: "obwohl"
@@ -166,7 +171,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`obwohl` — Verb ans Ende"
-    instructions: "Complete each sentence with `obwohl`. Put the verb at the end of the obwohl-clause. 8 items."
+    instructions: "Ergänze jeden Satz mit `obwohl`. Das Verb steht am Ende des obwohl-Satzes. 8 Sätze."
+    instructionsEn: "Complete each sentence with `obwohl`. Put the verb at the end of the obwohl-clause. 8 items."
     text: |
       1. Er geht ins Büro, obwohl er krank {1}. (sein)
       2. Obwohl das Wetter schlecht {2}, fahren wir in den Park. (sein)
@@ -191,7 +197,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`trotzdem` — Inversion (V2)"
-    instructions: "Rewrite the second sentence using `trotzdem` in position 1. Watch the word order! 8 items."
+    instructions: "Formuliere den zweiten Satz mit `trotzdem` auf Position 1 um. Achte auf die Wortstellung! 8 Sätze."
+    instructionsEn: "Rewrite the second sentence using `trotzdem` in position 1. Watch the word order! 8 items."
     text: |
       1. Es regnet. Ich gehe spazieren. → Es regnet. Trotzdem {1} ich spazieren.
       2. Das Startup ist jung. Es hat viele Kunden. → Das Startup ist jung. Trotzdem {2} es viele Kunden.
@@ -216,7 +223,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`deshalb` / `darum` / `deswegen` — Folgen"
-    instructions: "Fill in `deshalb` (or `darum` / `deswegen` — all three accepted). V2 inversion! 8 items."
+    instructions: "Ergänze `deshalb` (auch `darum` / `deswegen` sind richtig). Inversion: Verb auf Position 2! 8 Sätze."
+    instructionsEn: "Fill in `deshalb` (or `darum` / `deswegen` — all three accepted). V2 inversion! 8 items."
     text: |
       1. Er liebt Berlin. {1} kommt er oft hierher.
       2. Das Angebot in Randbezirken ist gering. {2} expandiert das Startup dorthin.
@@ -265,7 +273,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischt: `obwohl` / `trotzdem` / `deshalb` — richtig wählen"
-    instructions: "Choose the correct connector for each gap (obwohl / trotzdem / deshalb). Pay attention to word order! 8 items."
+    instructions: "Wähle für jede Lücke den richtigen Konnektor (obwohl / trotzdem / deshalb). Achte auf die Wortstellung! 8 Sätze."
+    instructionsEn: "Choose the correct connector for each gap (obwohl / trotzdem / deshalb). Pay attention to word order! 8 items."
     text: |
       1. Pavel vermisst Brünn. {1} fühlt er sich in Berlin wohl.
       2. Tomáš bleibt in Prag, {2} er oft in Berlin arbeitet.
@@ -290,7 +299,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "`zwar … aber` — zweiteilige Konstruktion"
-    instructions: "Complete each sentence with `zwar` and `aber`. 6 items."
+    instructions: "Ergänze jeden Satz mit `zwar` und `aber`. 6 Sätze."
+    instructionsEn: "Complete each sentence with `zwar` and `aber`. 6 items."
     text: |
       1. Berlin ist {1} teuer, {2} es hat viele Möglichkeiten.
       2. Das Startup ist {3} jung, {4} die Idee ist überzeugend.
@@ -316,7 +326,8 @@ exercises:
     block: A
     type: order
     title: "Satzbau: Wörter in die richtige Reihenfolge bringen"
-    instructions: "Put the words in the correct order. Watch out: trotzdem in position 1 triggers inversion!"
+    instructions: "Bring die Wörter in die richtige Reihenfolge. Achtung: trotzdem auf Position 1 bewirkt Inversion!"
+    instructionsEn: "Put the words in the correct order. Watch out: trotzdem in position 1 triggers inversion!"
     items:
       - tiles: ["trotzdem", "bleibt", "er", "in", "Prag"]
         answer: [0, 1, 2, 3, 4]
@@ -339,7 +350,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Umformung: zwei Sätze verbinden"
-    instructions: "Combine the two sentences using the connector in brackets. Rewrite as one sentence or two connected sentences. 6 items."
+    instructions: "Verbinde die beiden Sätze mit dem Konnektor in Klammern – als ein Satz oder als zwei verbundene Sätze. 6 Sätze."
+    instructionsEn: "Combine the two sentences using the connector in brackets. Rewrite as one sentence or two connected sentences. 6 items."
     text: |
       1. Berlin ist teuer. Pavel wohnt dort. [trotzdem] → Berlin ist teuer. Trotzdem {1} Pavel dort.
       2. Tomáš liebt Prag. Er verbringt viel Zeit in Berlin. [obwohl] → Tomáš verbringt viel Zeit in Berlin, obwohl er Prag {2}.
@@ -360,7 +372,8 @@ exercises:
     block: A
     type: true-false
     title: "Grammatik-Check: Richtig oder falsch?"
-    instructions: "Is the German sentence grammatically correct? Answer R (richtig) or F (falsch). If F, identify the error."
+    instructions: "Ist der deutsche Satz grammatisch richtig? Antworte mit R (richtig) oder F (falsch). Wenn F: Finde den Fehler."
+    instructionsEn: "Is the German sentence grammatically correct? Answer R (richtig) or F (falsch). If F, identify the error."
     items:
       - q: "Er bleibt in Berlin, obwohl er Prag liebt."
         answer: true
@@ -383,7 +396,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Konnektor aus dem Kontext wählen"
-    instructions: "Fill in the missing connector (obwohl / trotzdem / deshalb / darum / zwar / dennoch / jedoch). 8 items."
+    instructions: "Ergänze den fehlenden Konnektor (obwohl / trotzdem / deshalb / darum / zwar / dennoch / jedoch). 8 Sätze."
+    instructionsEn: "Fill in the missing connector (obwohl / trotzdem / deshalb / darum / zwar / dennoch / jedoch). 8 items."
     text: |
       1. Pavel vermisst seine Eltern in Brünn. {1} ruft er sie jeden Sonntag an.
       2. Das Cafe in Prenzlauer Berg ist sehr beliebt. {2} muss Pavel oft Überstunden machen.
@@ -411,7 +425,8 @@ exercises:
     type: gap-text
     listLayout: false
     title: "Dialog ergänzen: Diskussion über Wohnorte"
-    instructions: "Fill in the blanks with the correct connector (obwohl / trotzdem / deshalb / zwar / aber / dennoch). 8 gaps."
+    instructions: "Ergänze die Lücken mit dem richtigen Konnektor (obwohl / trotzdem / deshalb / zwar / aber / dennoch). 8 Lücken."
+    instructionsEn: "Fill in the blanks with the correct connector (obwohl / trotzdem / deshalb / zwar / aber / dennoch). 8 gaps."
     text: |
       — Warum bist du nach Köln gezogen?
       — Mein Job ist hier. {1} bin ich umgezogen, {2} mir Berlin eigentlich besser gefällt.
@@ -456,7 +471,8 @@ exercises:
     block: B
     type: single-choice
     title: "Richtigen Konnektor wählen"
-    instructions: "Choose the correct connector (a, b, or c) for each gap."
+    instructions: "Wähle für jede Lücke den richtigen Konnektor (a, b oder c)."
+    instructionsEn: "Choose the correct connector (a, b, or c) for each gap."
     items:
       - q: "Er bleibt in Prag, ______ er Berlin liebt."
         options:
@@ -505,7 +521,8 @@ exercises:
     block: B
     type: matching
     title: "Satzhälften verbinden"
-    instructions: "Match each sentence beginning (1–6) with the correct ending (a–g). One ending is not needed."
+    instructions: "Verbinde jeden Satzanfang (1–6) mit dem passenden Satzende (a–g). Ein Satzende wird nicht gebraucht."
+    instructionsEn: "Match each sentence beginning (1–6) with the correct ending (a–g). One ending is not needed."
     left:
       - { key: "1", text: "Er bleibt in Prag, obwohl" }
       - { key: "2", text: "Das Startup ist zwar jung," }
@@ -533,7 +550,8 @@ exercises:
     block: B
     type: order
     title: "Zwei Sätze zu einem verbinden"
-    instructions: "Connect the two sentences using the given connector. Reorder words if needed."
+    instructions: "Verbinde die beiden Sätze mit dem angegebenen Konnektor. Stelle die Wörter wenn nötig um."
+    instructionsEn: "Connect the two sentences using the given connector. Reorder words if needed."
     items:
       - tiles: ["Er", "ist", "müde", ".", "Trotzdem", "kommt", "er", "zum", "Meeting"]
         answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
@@ -553,7 +571,8 @@ exercises:
     type: gap-text
     listLayout: false
     title: "C1-Stil Lückentext — Nachhaltige Mobilität"
-    instructions: "Fill in the 6 gaps with the correct connector or word."
+    instructions: "Ergänze die 6 Lücken mit dem richtigen Konnektor oder Wort."
+    instructionsEn: "Fill in the 6 gaps with the correct connector or word."
     text: |
       Nachhaltige Mobilität ist in Großstädten ein wichtiges Thema. {1} viele
       Städte bereits auf E-Mobilität setzen, fehlt es oft an der nötigen
@@ -579,7 +598,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Umformung: `zwar … aber` verwenden"
-    instructions: "Rewrite each pair of sentences using `zwar … aber`. 4 items."
+    instructions: "Formuliere jedes Satzpaar mit `zwar … aber` um. 4 Sätze."
+    instructionsEn: "Rewrite each pair of sentences using `zwar … aber`. 4 items."
     text: |
       1. Das Café ist klein. Es hat aber viele Stammkunden.
          → Das Café ist {1} klein, {2} es hat viele Stammkunden.
@@ -611,6 +631,7 @@ exercises:
       > Heute hat das Startup 200 Scooter in Marzahn, Spandau und Lichtenberg. Die Nutzerzahlen sind zwar noch überschaubar, aber die Tendenz ist klar positiv. Tomáš ist überzeugt: Nachhaltigkeit und wirtschaftlicher Erfolg schließen sich nicht aus. Deswegen investiert er weiter — auch wenn er jeden Donnerstag wieder nach Prag fliegt.
 
       Wähle a, b oder c.
+    instructionsEn: "Read the text. Choose a, b, or c."
     items:
       - q: "Wo hat Tomáš sein Startup gegründet?"
         options:
@@ -674,7 +695,8 @@ exercises:
     type: gap-text
     listLayout: false
     title: "Lückentext: Tomáš und das Berlin-Experiment"
-    instructions: "Fill each gap with one word. 10 gaps."
+    instructions: "Ergänze in jeder Lücke ein Wort. 10 Lücken."
+    instructionsEn: "Fill each gap with one word. 10 gaps."
     text: |
       Tomáš Novák gründete sein E-Scooter-Startup vor drei Jahren in Prag. Zwar
       war der Prager Markt bekannt und (1) {1}, aber Tomáš erkannte schnell, dass
@@ -708,7 +730,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Er bleibt in Prag, ______ er Berlin sehr mag."
         options:
@@ -757,7 +780,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (Wortbank)"
-    instructions: "Fill the 10 gaps using words from the box. Five words are not needed."
+    instructions: "Ergänze die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht."
+    instructionsEn: "Fill the 10 gaps using words from the box. Five words are not needed."
     bankCase: upper
     bankSort: true
     text: |
@@ -795,6 +819,7 @@ exercises:
       > Heute hat das Startup 200 Scooter in Marzahn, Spandau und Lichtenberg. Die Nutzerzahlen sind zwar noch überschaubar, aber die Tendenz ist klar positiv. Tomáš ist überzeugt: Nachhaltigkeit und wirtschaftlicher Erfolg schließen sich nicht aus. Deswegen investiert er weiter — auch wenn er jeden Donnerstag wieder nach Prag fliegt.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Tomáš hat sein Startup in Berlin gegründet."
         answer: false
@@ -833,6 +858,7 @@ exercises:
       schließen können — oder ob die Politik handeln muss.
 
       Wähle a, b oder c.
+    instructionsEn: "Read the text and choose a, b, or c."
     items:
       - q: "Was macht Wien trotz seines guten U-Bahn-Netzes?"
         options:
@@ -896,22 +922,23 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per gap. Items marked (B1/01) or (A2/03) review earlier lessons. 16 gaps across 15 items."
+    instructions: "Eine Minute pro Lücke. Aufgaben mit (B1/01) oder (A2/03) wiederholen frühere Lektionen. 16 Lücken in 15 Aufgaben."
+    instructionsEn: "One minute per gap. Items marked (B1/01) or (A2/03) review earlier lessons. 16 gaps across 15 items."
     text: |
-      1. Fill in: Er bleibt, {1} er müde ist. (obwohl)
-      2. Fill in: Das Wetter ist schlecht. {2} gehe ich spazieren. (trotzdem — V2)
-      3. Fill in: Sie liebt Berlin. {3} ist sie geblieben. (deshalb — V2)
+      1. Fill in: Er bleibt, {1} er müde ist. (although)
+      2. Fill in: Das Wetter ist schlecht. {2} gehe ich spazieren. (nevertheless — V2)
+      3. Fill in: Sie liebt Berlin. {3} ist sie geblieben. (that's why — V2)
       4. Fill in: Das Startup ist {4} jung, {5} es hat viele Kunden. (zwar … aber)
-      5. Fill in: Er hat keine Zeit. {6} kommt er nicht. (deswegen)
-      6. Fill in: {7} die Kosten hoch sind, macht er weiter. (obwohl — position 1)
+      5. Fill in: Er hat keine Zeit. {6} kommt er nicht. (that's why)
+      6. Fill in: {7} die Kosten hoch sind, macht er weiter. (although — position 1)
       7. Fill in: formal version of trotzdem (one word): {8}
       8. Fill in: formal/written version of deshalb (one word, often in press texts): {9} (hint: D…)
-      9. (A2/03) Fill in: Ich komme nicht, {10} ich krank bin. (weil)
+      9. (A2/03) Fill in: Ich komme nicht, {10} ich krank bin. (because)
       10. (A2/03) Rewrite with deshalb: Ich bin krank. {11} komme ich nicht.
-      11. (A2/03) Fill in: Ich glaube, {12} er recht hat. (dass)
+      11. (A2/03) Fill in: Ich glaube, {12} er recht hat.
       12. (B1/01) Präteritum of sein, ich-form: {13}
       13. (B1/01) Präteritum of haben, wir-form: {14}
-      14. Fill in: Die Nachfrage ist groß. {15} expandiert das Startup. (darum)
+      14. Fill in: Die Nachfrage ist groß. {15} expandiert das Startup. (that's why)
       15. Fill in — register: In formal writing, use {16} instead of trotzdem.
     answers:
       "1": obwohl
@@ -930,12 +957,41 @@ exercises:
       "14": hatten
       "15": Darum
       "16": dennoch
+    alts:
+      "2":
+        - word: "Dennoch"
+          note: "dennoch is the formal synonym of trotzdem."
+      "3":
+        - word: "Deswegen"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Darum"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Daher"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+      "6":
+        - word: "Deshalb"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Darum"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Daher"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+      "10":
+        - word: "da"
+          note: "da also introduces a reason clause with the verb at the end."
+      "15":
+        - word: "Deshalb"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Deswegen"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Daher"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
 
   - id: D2
     block: D
     type: odd-one-out
     title: "Welches Wort passt nicht?"
-    instructions: "Cross out the word that does not fit and explain why."
+    instructions: "Streiche das Wort, das nicht passt, und erkläre, warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [obwohl, trotzdem, dennoch, jedoch]
         odd: 0
@@ -961,14 +1017,15 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Rückblick: A2/03 und B1/01"
-    instructions: "Review of earlier lessons. 10 items."
+    instructions: "Wiederholung früherer Lektionen. 10 Aufgaben."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus A2/03 (weil, dass, deshalb):**
-      1. (A2/03) Ich komme nicht, {1} ich keine Zeit habe. (weil)
-      2. (A2/03) Er sagt, {2} er morgen kommt. (dass)
-      3. (A2/03) Sie hat Hunger. {3} geht sie in die Küche. (deshalb)
-      4. (A2/03) Ich bleibe zu Hause, {4} das Wetter schlecht ist. (weil)
-      5. (A2/03) Wir glauben, {5} die Lösung einfach ist. (dass)
+      1. (A2/03) Ich komme nicht, {1} ich keine Zeit habe. (because)
+      2. (A2/03) Er sagt, {2} er morgen kommt.
+      3. (A2/03) Sie hat Hunger. {3} geht sie in die Küche. (that's why)
+      4. (A2/03) Ich bleibe zu Hause, {4} das Wetter schlecht ist. (because)
+      5. (A2/03) Wir glauben, {5} die Lösung einfach ist.
 
       **Aus B1/01 (Präteritum, Plusquamperfekt, Zeitkonnektoren):**
       6. (B1/01) Präteritum of müssen, ich-form: {6}
@@ -987,6 +1044,20 @@ exercises:
       "8": angerufen
       "9": zuerst
       "10": schließlich
+    alts:
+      "1":
+        - word: "da"
+          note: "da also introduces a reason clause with the verb at the end."
+      "3":
+        - word: "Deswegen"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Darum"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Daher"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+      "4":
+        - word: "da"
+          note: "da also introduces a reason clause with the verb at the end."
 
   - id: D4
     block: D
@@ -1040,3 +1111,7 @@ exercises:
       "18": Trotzdem
       "19": Dennoch
       "20": "Obwohl der Markt umkämpft ist, hat das Startup gute Chancen."
+    alts:
+      "19":
+        - word: "Trotzdem"
+          note: "trotzdem and dennoch are both correct; dennoch is more formal."
