@@ -12,7 +12,10 @@ on:
       - 'C1/**'
       - 'THEMEN/**'
       - 'SITUATIONEN/**'
+      - 'HOEREN/**'
+      - 'build/**'
       - 'docs/web/**'
+      - '.github/workflows/deploy-pages.yml'
   workflow_dispatch:
 
 permissions:
