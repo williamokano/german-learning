@@ -238,11 +238,11 @@ Selbstkorrektur:
 
 ## Übung D3 — Rückblick: B1/07–B1/12 — Grammatik im Kontext
 
-1. **des**  2. **der**  3. **des**  4. **kostet**  5. **schicken**  6. **zufrieden**  7. **sowohl**  8. **aber**  9. **Schreiben**  10. **Vorteile**
+1. **des**  2. **der**  3. **des**  4. **kostet**  5. **schicken**  6. **waren**  7. **sowohl**  8. **aber**  9. **Schreiben**  10. **Vorteile**
 
 ## Übung D4 — Selbsttest: Schreiben und Sprechen B1 (20 Punkte)
 
-1. **geehrte**  2. **schreibe**  3. **wünschen**  4. **daher**  5. **Grüßen**  6. **Antwort**  7. **Anna**  8. **bald**  9. **Thema**  10. **Zum**  11. **Außerdem**  12. **Allerdings**  13. **Insgesamt**  14. **Überzeugung**  15. **Aufmerksamkeit**  16. **Was**  17. **Thema**  18. **Vorteil**  19. **Meinung**  20. **Beschwerde**
+1. **geehrte**  2. **schreibe**  3. **wünschen**  4. **daher**  5. **Grüßen**  6. **Antwort**  7. **Liebe**  8. **bald**  9. **Thema**  10. **Zum**  11. **Außerdem**  12. **Allerdings**  13. **Insgesamt**  14. **Überzeugung**  15. **Aufmerksamkeit**  16. **Was**  17. **Thema**  18. **Vorteil**  19. **Meinung**  20. **Beschwerde**
 
 ---
 

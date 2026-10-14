@@ -38,7 +38,7 @@ Willkommen zum Abschluss des B1-Kurses! This is a full mock exam sitting. Blocks
 >
 > **Pavel:** Vielen Dank, alle zusammen. Ohne euch wäre ich heute nicht so ruhig gewesen.
 
-Decide: Richtig (R) oder Falsch (F)?
+Entscheide: Richtig (R) oder Falsch (F)?
 
 
 1. Pavel sagt, der Hörteil war am Anfang etwas schwierig. ( )
@@ -52,7 +52,7 @@ Decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the announcement (Durchsage) and fill in the 6 missing words. Three words in the box are not needed.
+Sie hören eine Durchsage. Ergänzen Sie die 6 fehlenden Wörter. Drei Wörter im Kasten passen nicht.
 
 > Achtung, eine (1) ______ für alle Prüfungsteilnehmerinnen und
 > Prüfungsteilnehmer des Goethe-Zertifikats B1. Bitte begeben Sie sich
@@ -67,7 +67,7 @@ Listen to the announcement (Durchsage) and fill in the 6 missing words. Three wo
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the telephone message from the Goethe-Institut. Then choose the correct answer (a, b, or c).
+Sie hören eine Telefonnachricht vom Goethe-Institut. Wählen Sie dann die richtige Antwort (a, b oder c).
 
 1. Wann findet die Prüfung statt?  a) Am Samstag, dem 28. Juni um 9 Uhr.  b) Am Freitag, dem 27. Juni um 9 Uhr.  c) Am Sonntag, dem 29. Juni um 10 Uhr.
 2. Wie früh soll man erscheinen?  a) 30 Minuten vorher.  b) Mindestens 15 Minuten vorher.  c) Pünktlich um 9 Uhr.
@@ -119,7 +119,7 @@ Listen to the telephone message from the Goethe-Institut. Then choose the correc
 >
 > *Wir freuen uns auf Ihre Bewerbung!*
 
-Richtig (R) oder Falsch (F)? Items not mentioned in the ad count as Falsch (F).
+Richtig (R) oder Falsch (F)? Was nicht in der Anzeige steht, ist Falsch (F).
 
 
 1. Die Stelle bei TechStart GmbH ist in Berlin-Mitte. ( )
@@ -131,7 +131,7 @@ Richtig (R) oder Falsch (F)? Items not mentioned in the ad count as Falsch (F).
 
 ## Übung A2 — Lesen Teil 1 — Stellenanzeige: Leseverstehen
 
-Choose the correct answer (a, b, or c) based on Text 1 (Stellenanzeige).
+Lesen Sie Text 1 (Stellenanzeige). Wählen Sie die richtige Antwort (a, b oder c).
 
 1. Welche Sprachkenntnisse werden für die Stelle mindestens verlangt?  a) Englisch B1 und Deutsch B1.  b) Deutsch mindestens B2 und gute Englischkenntnisse.  c) Nur sehr gute Deutschkenntnisse, kein Englisch nötig.
 2. Was muss man mit der Bewerbung einschicken?  a) Nur einen Lebenslauf.  b) Anschreiben, Lebenslauf und Zeugnisse.  c) Ein Motivationsschreiben und Fotos.
@@ -160,7 +160,7 @@ Richtig (R) oder Falsch (F)?
 
 ## Übung A4 — Lesen Teil 2 — Zeitungsartikel: Leseverstehen
 
-Choose the correct answer (a, b, or c) based on Text 2 (Zeitungsartikel).
+Lesen Sie Text 2 (Zeitungsartikel). Wählen Sie die richtige Antwort (a, b oder c).
 
 1. Was sagt Dr. Hilde Bauer über das B1-Zertifikat?  a) Es ist zu schwer für die meisten Lernenden.  b) Es ist "der Schlüssel zur gesellschaftlichen Teilhabe."  c) Es ist nur für Studierende geeignet.
 2. Warum bereiten sich viele Lernende mit Online-Kursen vor?  a) Weil Online-Kurse qualitativ besser sind.  b) Weil Online-Kurse günstiger sind als Präsenzkurse.  c) Weil es keine Präsenzkurse mehr gibt.
@@ -194,7 +194,7 @@ Richtig (R) oder Falsch (F)?
 
 ## Übung A6 — Lesen Teil 3 — Persönliche E-Mail: Leseverstehen
 
-Choose the correct answer (a, b, or c) based on Text 3 (E-Mail).
+Lesen Sie Text 3 (E-Mail). Wählen Sie die richtige Antwort (a, b oder c).
 
 1. Wie klingt Pavel laut Anna bei dem Telefongespräch?  a) Sehr nervös und unsicher.  b) Erleichtert.  c) Traurig, weil er nicht bestanden hat.
 2. Was hat Pavel beim Schreiben nicht tun müssen?  a) Eine Gliederung machen.  b) Über den Aufbau nachdenken.  c) Den Betreff schreiben.
@@ -202,7 +202,7 @@ Choose the correct answer (a, b, or c) based on Text 3 (E-Mail).
 
 ## Übung A7 — Lesen — Wortschatz erschließen (Zeitungsartikel)
 
-Find the correct word from the article (Text 2) for each definition. 5 items.
+Suchen Sie im Artikel (Text 2) das passende Wort zu jeder Definition. 5 Aufgaben.
 
 1. Das Ergebnis einer Prüfung = das (1) ______
 2. Der höchste je erreichte Wert = der (2) ______
@@ -212,7 +212,7 @@ Find the correct word from the article (Text 2) for each definition. 5 items.
 
 ## Übung A8 — Lesen — Drei Texte und ihre Textsorte
 
-Match each text (1–3) to its text type (a–d). One text type is not needed.
+Ordnen Sie jedem Text (1–3) die passende Textsorte (a–d) zu. Eine Textsorte passt nicht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -227,7 +227,7 @@ Match each text (1–3) to its text type (a–d). One text type is not needed.
 
 ## Übung B1 — Sprachbausteine — B1/01 Präteritum
 
-Fill in the Präteritum form of each verb in brackets. 4 items, 6 gaps.
+Ergänzen Sie die Präteritumform der Verben in Klammern. 4 Sätze, 6 Lücken.
 
 1. Als Pavel ein Kind (1) ______, (2) ______ er oft in den Park. (sein / gehen)
 2. Die Lehrerin (3) ______ die Aufgaben an die Tafel. (schreiben)
@@ -236,7 +236,7 @@ Fill in the Präteritum form of each verb in brackets. 4 items, 6 gaps.
 
 ## Übung B2 — Sprachbausteine — B1/02 obwohl / trotzdem
 
-Choose the correct connector (a, b, or c) for each gap. 4 items.
+Wählen Sie für jede Lücke den richtigen Konnektor (a, b oder c). 4 Sätze.
 
 1. Pavel war nervös, ______ er sich gut vorbereitet hatte.  a) obwohl  b) trotzdem  c) deshalb
 2. Er hatte wenig geschlafen. ______ war er konzentriert.  a) Obwohl  b) Trotzdem  c) Weil
@@ -245,7 +245,7 @@ Choose the correct connector (a, b, or c) for each gap. 4 items.
 
 ## Übung B3 — Sprachbausteine — B1/03 Konjunktiv II
 
-Fill in the Konjunktiv II form (würde/hätte/wäre). 3 items, 6 gaps.
+Ergänzen Sie die Form im Konjunktiv II (würde/hätte/wäre). 3 Sätze, 6 Lücken.
 
 1. Wenn ich mehr Zeit (1) ______, (2) ______ ich jeden Tag Vokabeln lernen. (haben / lernen)
 2. Wenn Pavel nicht so nervös (3) ______, (4) ______ er noch besser sprechen. (sein / können)
@@ -253,7 +253,7 @@ Fill in the Konjunktiv II form (würde/hätte/wäre). 3 items, 6 gaps.
 
 ## Übung B4 — Sprachbausteine — B1/04 Passiv
 
-Rewrite each active sentence in Passiv Präsens or Präteritum as indicated. 6 gaps.
+Formen Sie jeden Aktivsatz ins Passiv um – im Präsens oder Präteritum, wie angegeben. 6 Lücken.
 
 1. Man spielt den Hörtext zweimal ab. (Passiv Präsens) → Der Hörtext (1) ______ zweimal (2) ______. (abspielen)
 2. Die Lehrerin korrigierte die Aufgaben. (Passiv Präteritum) → Die Aufgaben (3) ______ von der Lehrerin (4) ______. (korrigieren)
@@ -261,7 +261,7 @@ Rewrite each active sentence in Passiv Präsens or Präteritum as indicated. 6 g
 
 ## Übung B5 — Sprachbausteine — B1/05 Relativsätze
 
-Fill in the correct relative pronoun (der/die/das/dem/den/dessen/deren). 5 items.
+Ergänzen Sie das richtige Relativpronomen (der/die/das/dem/den/dessen/deren). 5 Sätze.
 
 1. Der Prüfer, (1) ______ Pavel sehr sympathisch fand, sprach langsam und deutlich.
 2. Das Zertifikat, (2) ______ Pavel heute bekommen hat, ist international anerkannt.
@@ -271,7 +271,7 @@ Fill in the correct relative pronoun (der/die/das/dem/den/dessen/deren). 5 items
 
 ## Übung B6 — Sprachbausteine — B1/06 um … zu / damit
 
-Fill in "um", "zu", or "damit" in each gap. 5 items, 9 gaps.
+Ergänzen Sie in jeder Lücke „um“, „zu“ oder „damit“. 5 Sätze, 9 Lücken.
 
 1. Pavel lernt Deutsch, (1) ______ in Deutschland arbeiten (2) ______ können.
 2. Der Lehrer spricht langsamer, (3) ______ alle Lernenden ihn verstehen.
@@ -281,7 +281,7 @@ Fill in "um", "zu", or "damit" in each gap. 5 items, 9 gaps.
 
 ## Übung B7 — Sprachbausteine — B1/07 Genitiv
 
-Fill in the correct Genitiv form (article or preposition). 6 items.
+Ergänzen Sie die richtige Genitivform (Artikel oder Präposition). 6 Sätze.
 
 1. Die Ergebnisse (1) ______ Prüfung kommen nach vier Wochen. (die Prüfung — f.)
 2. Wegen (2) ______ hohen Kosten bereiten sich viele online vor. (die Kosten — Pl.)
@@ -292,17 +292,17 @@ Fill in the correct Genitiv form (article or preposition). 6 items.
 
 ## Übung B8 — Sprachbausteine — B1/08 Pronominaladverbien
 
-Fill in the correct Pronominaladverb (da(r)- + Präposition) or question form (wo(r)- + Präposition). 5 items.
+Ergänzen Sie das richtige Pronominaladverb (da(r)- + Präposition) oder Fragewort (wo(r)- + Präposition). 5 Sätze.
 
 1. Die Prüfung ist bestanden — ich freue mich sehr (1) ______. (über → da(r)- + über)
 2. Pavel denkt oft an die Zeit zurück, als er anfing. → Er denkt oft (2) ______ zurück. (an → da(r)- + an)
-3. (3) ______ sprechen Anna und Mia gerade? — Über die Prüfungsergebnisse. (worüber)
-4. Das Zeugnis? Ich warte schon lange (4) ______. (darauf)
-5. (5) ______ ist Pavel zufrieden? — Mit dem Ergebnis. (womit)
+3. (3) ______ sprechen Anna und Mia gerade? — Über die Prüfungsergebnisse. (Frage mit „über“)
+4. Das Zeugnis? Ich warte schon lange (4) ______. (warten auf → Pronominaladverb)
+5. (5) ______ ist Pavel zufrieden? — Mit dem Ergebnis. (Frage mit „mit“)
 
 ## Übung B9 — Sprachbausteine — B1/09 Indirekte Fragen
 
-Rewrite each direct question as an indirect question. Fill in the missing word(s). 5 items.
+Formen Sie jede direkte Frage in eine indirekte Frage um. Ergänzen Sie das fehlende Wort / die fehlenden Wörter. 5 Sätze.
 
 1. Wann fängt die Prüfung an? → Können Sie mir sagen, (1) ______ die Prüfung (2) ______?
 2. Wo ist der Prüfungssaal? → Ich würde gerne wissen, (3) ______ der Prüfungssaal (4) ______.
@@ -312,7 +312,7 @@ Rewrite each direct question as an indirect question. Fill in the missing word(s
 
 ## Übung B10 — Sprachbausteine — B1/10 Zweiteilige Konnektoren
 
-Choose the correct pair of connectors (a, b, or c). 5 items.
+Wählen Sie das richtige Konnektorenpaar (a, b oder c). 5 Sätze.
 
 1. Das Zertifikat ist ______ nützlich für die Arbeit ______ für das Studium.  a) entweder … oder  b) sowohl … als auch  c) weder … noch
 2. Ich habe ______ Zeit zum Lernen ______ Geld für einen Kurs. (negative both)  a) nicht nur … sondern auch  b) sowohl … als auch  c) weder … noch
@@ -322,7 +322,7 @@ Choose the correct pair of connectors (a, b, or c). 5 items.
 
 ## Übung B11 — Sprachbausteine — B1/11 Bewerbungssprache: Formell oder informell?
 
-Sort each phrase into the correct register for a job application.
+Ordnen Sie jede Formulierung dem passenden Register für eine Bewerbung zu.
 
 > Hiermit bewerbe ich mich um die ausgeschriebene Stelle. · Ich will diesen Job! · Ich verfüge über ausgeprägte Teamfähigkeit. · Ich bin super gut im Team. · Ich war zuständig für die Betreuung von Kunden. · Ich hab Kunden geholfen. · Über eine Einladung zum Vorstellungsgespräch würde ich mich sehr freuen. · Ruf mich an!
 
@@ -332,7 +332,7 @@ Sort each phrase into the correct register for a job application.
 
 ## Übung B12 — Sprachbausteine — B1/12 Nominalisierung
 
-Convert the verb or adjective in brackets into a noun. 6 items.
+Bilden Sie aus dem Verb oder Adjektiv in Klammern ein Nomen. 6 Sätze.
 
 1. (1) ______ von Fremdsprachen ist in der Arbeitswelt wichtig. (lernen → das …)
 2. Die (2) ______ bei TechStart ist sehr attraktiv. (sich bewerben → die …)
@@ -343,7 +343,7 @@ Convert the verb or adjective in brackets into a noun. 6 items.
 
 ## Übung B13 — Sprachbausteine — B1/13 Schreiben-Redemittel: Teile einer formellen E-Mail
 
-Match each email part (1–6) with the correct example (a–g). One example is not needed.
+Ordnen Sie jedem Teil der E-Mail (1–6) das passende Beispiel (a–g) zu. Ein Beispiel passt nicht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -361,7 +361,7 @@ Match each email part (1–6) with the correct example (a–g). One example is n
 
 ## Übung C1 — Schreiben Teil 1 — Formelle E-Mail: Wortbank (Goethe-Format)
 
-Fill the 10 gaps in this formal email. Five words in the box are not needed.
+Ergänzen Sie die 10 Lücken in dieser formellen E-Mail. Fünf Wörter im Kasten passen nicht.
 
 > (1) ______: Anfrage bezüglich der Goethe B1-Prüfung
 > 
@@ -386,7 +386,7 @@ Five words are not needed.
 
 ## Übung C2 — Schreiben — Formell oder informell? Phrasen zuordnen
 
-Sort each phrase into the correct register category. 12 items.
+Ordnen Sie jede Formulierung dem richtigen Register zu. 12 Formulierungen.
 
 > Sehr geehrte Damen und Herren, · Hey, wie geht es dir? · Mit freundlichen Grüßen · Bis bald! · Ich schreibe Ihnen bezüglich … · Danke für deine Nachricht! · Ich bitte Sie daher um eine Rückmeldung. · Liebe Mia, · Betreff: Beschwerde wegen … · Viele Grüße! · Ich freue mich auf Ihre Antwort. · Schreib mir bald!
 
@@ -396,7 +396,7 @@ Sort each phrase into the correct register category. 12 items.
 
 ## Übung C3 — Schreiben Teil 2 — Forenbeitrag: Wortbank (Goethe-Format)
 
-Fill the 10 gaps in this forum post reply. Five words are not needed.
+Ergänzen Sie die 10 Lücken in dieser Antwort auf einen Forumsbeitrag. Fünf Wörter passen nicht.
 
 > (1) ______ Meinung nach ist das Lernen einer Fremdsprache eine der besten
 > Investitionen, die man (2) ______ kann. (3) ______ einen entwickelt man sprachliche
@@ -414,7 +414,7 @@ Five words are not needed.
 
 ## Übung C4a — Schreiben — Muster-Anschreiben lesen (Richtig / Falsch)
 
-Read the model cover letter below and decide: Richtig (R) oder Falsch (F)?
+Lesen Sie das Muster-Bewerbungsschreiben unten. Richtig (R) oder Falsch (F)?
 
 1. Anna hat einen Bachelor-Abschluss in Kommunikationswissenschaften. ( )
 2. Anna hat drei Jahre Berufserfahrung. ( )
@@ -424,7 +424,7 @@ Read the model cover letter below and decide: Richtig (R) oder Falsch (F)?
 
 ## Übung C4b — Schreiben — Muster-Anschreiben: Detailverstehen
 
-Read the model cover letter (C4a) again. Choose the correct answer (a, b, or c).
+Lesen Sie das Muster-Bewerbungsschreiben (C4a) noch einmal. Wählen Sie die richtige Antwort (a, b oder c).
 
 1. Wofür war Anna in ihrer bisherigen Tätigkeit zuständig?  a) Für die Buchhaltung und das Personalmanagement.  b) Für die Betreuung von Social-Media-Kanälen und die Erstellung von Inhalten.  c) Für die Organisation von Events und Messen.
 2. Wie ist Annas Englisch laut dem Anschreiben?  a) B1 (Grundkenntnisse).  b) B2 (gut).  c) C1 (fließend).
@@ -461,26 +461,25 @@ Self-check:
 
 ## Übung D1 — Schnelltest: Eine Lücke pro B1-Grammatikthema (15 Punkte)
 
-Fill in the correct word or form. Each item tests one B1 grammar topic — the label in brackets tells you which lesson to revisit if you get it wrong. 1 point per gap. 15 items.
-
+Ergänze das richtige Wort oder die richtige Form. Jede Aufgabe prüft ein B1-Grammatikthema – die Angabe in Klammern zeigt dir, welche Lektion du wiederholen solltest, wenn du einen Fehler machst. 1 Punkt pro Lücke. 15 Lücken.
 
 1. (B1/01) Als Pavel ein Kind (1) ______, spielte er oft Fußball. (sein — Präteritum)
 2. (B1/01) Er (2) ______ lange auf das Ergebnis. (warten — Präteritum)
-3. (B1/02) Die Prüfung war schwer, (3) ______ Pavel bestand sie. (trotzdem — Adverb)
-4. (B1/02) Er war nervös, (4) ______ er gut vorbereitet war. (obwohl — Konj.)
+3. (B1/02) Die Prüfung war schwer, (3) ______ bestand Pavel sie. (nevertheless — Adverb)
+4. (B1/02) Er war nervös, (4) ______ er gut vorbereitet war. (although — Konj.)
 5. (B1/03) Wenn ich mehr Zeit (5) ______, würde ich öfter üben. (haben — Konj. II)
 6. (B1/04) Der Text (6) ______ zweimal (7) ______. (vorlesen — Passiv Präteritum)
-7. (B1/05) Das ist das Zertifikat, (8) ______ ich monatelang gelernt habe. (worauf? → für das)
-8. (B1/06) Pavel lernt Deutsch, (9) ______ in Berlin arbeiten zu können. (purpose → um)
+7. (B1/05) Das ist das Zertifikat, (8) ______ ich monatelang gelernt habe. (lernen für → Präposition + Relativpronomen)
+8. (B1/06) Pavel lernt Deutsch, (9) ______ in Berlin arbeiten zu können. (purpose)
 9. (B1/07) Wegen (10) ______ Prüfung konnte er nicht kommen. (die Prüfung — Genitiv f.)
-10. (B1/08) Ich freue mich (11) ______. (auf das Ergebnis → Pronominaladverb: darauf)
-11. (B1/09) Könnten Sie mir sagen, (12) ______ die Prüfung anfängt? (wann — indirekte Frage)
-12. (B1/10) Das Zertifikat ist (13) ______ für die Arbeit (14) ______ für das Studium nützlich. (sowohl … als auch)
+10. (B1/08) Ich freue mich (11) ______. (auf das Ergebnis → Pronominaladverb)
+11. (B1/09) Könnten Sie mir sagen, (12) ______ die Prüfung anfängt? (when — indirekte Frage)
+12. (B1/10) Das Zertifikat ist (13) ______ für die Arbeit (14) ______ für das Studium nützlich. (both … and)
 13. (B1/11) Ich (15) ______ mich hiermit um die Stelle als Assistentin. (sich bewerben — ich-Form)
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht! (B1-Wiederholung)
 
-Circle the word that does not belong in each group. 6 groups.
+Kreise in jeder Gruppe das Wort ein, das nicht passt. 6 Gruppen.
 
 1. das Zertifikat – die Prüfung – das Ergebnis – die Miete
 2. Sehr geehrte Damen und Herren, – Mit freundlichen Grüßen – Ich schreibe Ihnen bezüglich … – Hey, wie geht es dir?
@@ -491,7 +490,7 @@ Circle the word that does not belong in each group. 6 groups.
 
 ## Übung D3 — Rückblick: B1-Konnektoren und ihre Funktion (8 Paare)
 
-Match each connector (1–8) with its function (a–i). One function is not needed.
+Verbinde jeden Konnektor (1–8) mit seiner Funktion (a–i). Eine Funktion wird nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -507,22 +506,22 @@ Match each connector (1–8) with its function (a–i). One function is not need
 
 ## Übung D4 — Selbsttest: Gesamtwiederholung B1 (20 Punkte)
 
-Fill in the correct word or form. 1 point per gap. 20 items. Covers all B1 grammar topics.
+Ergänze das richtige Wort oder die richtige Form. 1 Punkt pro Lücke. 20 Lücken. Alle B1-Grammatikthemen.
 
 1. (B1/01) Als Pavel jung (1) ______, wohnte er in Brünn. (sein — Prät.)
 2. (B1/01) Die Lehrerin (2) ______ die Aufgaben an die Tafel. (schreiben — Prät.)
 3. (B1/02) Er hatte keine Vorbereitung, (3) ______ bestand er die Prüfung. (nevertheless)
-4. (B1/02) Er war müde, (4) ______ er weiterlernte. (obwohl — Subj.)
-5. (B1/03) Wenn Anna mehr Freizeit (5) ______, (6) ______ sie öfter Deutsch lesen. (haben / würde + lesen)
+4. (B1/02) Er war müde, (4) ______ er weiterlernte. (although — Subj.)
+5. (B1/03) Wenn Anna mehr Freizeit (5) ______, (6) ______ sie öfter Deutsch lesen. (haben / werden — KII)
 6. (B1/04) Die Prüfungsergebnisse (7) ______ online (8) ______. (veröffentlichen — Passiv Präsens)
-7. (B1/05) Das ist das Goethe-Institut, (9) ______ Pavel seine Prüfung abgelegt hat. (wo — relative adverb)
-8. (B1/06) Tomáš lernt Deutsch, (10) ______ Geschäftsgespräche führen zu können. (um)
+7. (B1/05) Das ist das Goethe-Institut, (9) ______ Pavel seine Prüfung abgelegt hat. (relative adverb of place)
+8. (B1/06) Tomáš lernt Deutsch, (10) ______ Geschäftsgespräche führen zu können. (purpose)
 9. (B1/07) Wegen (11) ______ langen Wartezeit schrieb Anna eine Beschwerde. (die Wartezeit — Gen. f.)
 10. (B1/07) Die Qualität (12) ______ Unterrichts ließ zu wünschen übrig. (der Unterricht — Gen. m.)
-11. (B1/08) Pavel denkt oft (13) ______ zurück. (an die schönen Momente in Berlin → daran)
-12. (B1/09) Ich möchte wissen, (14) ______ Pavel die Prüfung bestanden hat. (ob)
-13. (B1/09) Könnten Sie mir erklären, wo der Prüfungssaal (15) ______? (ist)
-14. (B1/10) Das Zertifikat ist (16) ______ für den Beruf (17) ______ für das Studium wichtig. (sowohl … als auch)
+11. (B1/08) Pavel denkt oft (13) ______ zurück. (an die schönen Momente in Berlin → Pronominaladverb)
+12. (B1/09) Ich möchte wissen, (14) ______ Pavel die Prüfung bestanden hat. (yes/no → indirekte Frage)
+13. (B1/09) Könnten Sie mir erklären, wo der Prüfungssaal (15) ______? (sein)
+14. (B1/10) Das Zertifikat ist (16) ______ für den Beruf (17) ______ für das Studium wichtig. (both … and)
 15. (B1/11) Hiermit (18) ______ ich mich um die Stelle als Assistentin. (sich bewerben — ich)
 16. (B1/11) Ich (19) ______ über ausgeprägte Kommunikationsfähigkeit. (verfügen — ich)
 17. (B1/12) Das (20) ______ von Fremdsprachen öffnet viele Türen. (lernen → Nominalisierung)

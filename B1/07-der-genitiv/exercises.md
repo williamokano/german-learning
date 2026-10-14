@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Layla hat das Fahrrad bei einem Berliner Laden gefunden. ( )
 2. Der Name des Verkäufers ist Björn Koch. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Warum kritisiert Herr Steinmeyer die Formulierung 'wegen dem globalen Wandel'?  a) Weil das Wort 'Wandel' falsch geschrieben ist.  b) Weil 'wegen' im Schriftdeutschen den Genitiv regiert.  c) Weil der Satz keinen Sinn ergibt.
 2. Welche der folgenden Korrekturen nennt Herr Steinmeyer?  a) 'trotz dem Druck' → 'trotz des Drucks'  b) 'trotz des Drucks' → 'trotz dem Druck'  c) 'wegen des Wandels' → 'wegen dem Wandel'
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to Hannah's phone message and fill in the 6 missing words. Three words in the box are not needed.
+Höre Hannahs Telefonnachricht und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Guten Morgen, mein Name ist Hannah El-Sayed, ich bin die Mutter Layla El-Sayeds,
 > Schülerin der Klasse 10b. Ich rufe an, um Ihnen mitzuteilen, dass Layla heute
@@ -50,7 +50,7 @@ Listen to Hannah's phone message and fill in the 6 missing words. Three words in
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the PA announcement. Then choose the correct answer (a, b, or c).
+Höre die Lautsprecherdurchsage. Wähle dann die richtige Antwort (a, b oder c).
 
 1. Warum ist der Haupteingang morgen geschlossen?  a) Wegen einer Veranstaltung im Hauptgebäude.  b) Wegen der Wartungsarbeiten des Aufzugs.  c) Wegen einer Sicherheitskontrolle.
 2. Was steht während der Wartungszeit zur Verfügung?  a) Nur das Erdgeschoss ist geöffnet.  b) Die Bibliothek und die Seminarräume sind zugänglich.  c) Das gesamte Gebäude ist gesperrt.
@@ -73,7 +73,7 @@ Listen to the PA announcement. Then choose the correct answer (a, b, or c).
 
 ## Übung A1 — Die vier Fälle — vollständige Artikeltabelle (Genitiv ergänzen)
 
-Complete the full 4-case table. The Nominativ/Akkusativ/Dativ rows are given; fill in all Genitiv cells and the noun endings.
+Ergänze die vollständige Tabelle mit allen 4 Fällen. Nominativ, Akkusativ und Dativ sind vorgegeben; ergänze alle Genitiv-Felder und die Nomenendungen.
 
 |  | maskulin | feminin | neutral | Plural |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ Complete the full 4-case table. The Nominativ/Akkusativ/Dativ rows are given; fi
 
 ## Übung A2 — Genitivartikel einsetzen (des/der/eines/einer/keines/keiner)
 
-Fill each gap with the correct Genitiv article. Pay attention to gender.
+Ergänze in jeder Lücke den richtigen Genitivartikel. Achte auf das Genus.
 
 1. Das ist das Büro (1) ______ Professors. (maskulin)
 2. Der Titel (2) ______ Studie ist sehr lang. (feminin)
@@ -97,7 +97,7 @@ Fill each gap with the correct Genitiv article. Pay attention to gender.
 
 ## Übung A3 — Nominalendung im Genitiv: -es oder -s?
 
-Add the correct Genitiv ending to each noun in bold. Write the complete Genitiv form.
+Ergänze bei jedem fett gedruckten Nomen die richtige Genitivendung. Schreib die vollständige Genitivform.
 
 1. der Name des (1) ______ (Vater)
 2. der Preis des (2) ______ (Haus)
@@ -110,7 +110,7 @@ Add the correct Genitiv ending to each noun in bold. Write the complete Genitiv 
 
 ## Übung A4 — Genitivpräpositionen: wegen / trotz / während / statt
 
-Fill each gap with the correct preposition and Genitiv article.
+Ergänze in jeder Lücke die richtige Präposition und den Genitivartikel.
 
 1. (1) ______ Regens blieben wir zu Hause. (because of — der Regen)
 2. (2) ______ starken Lärms konnte ich nicht schlafen. (despite — der Lärm)
@@ -121,7 +121,7 @@ Fill each gap with the correct preposition and Genitiv article.
 
 ## Übung A5 — n-Deklination im Genitiv
 
-Fill each gap with the correct Genitiv form of the n-Deklination noun in parentheses.
+Ergänze in jeder Lücke die richtige Genitivform des Nomens (n-Deklination) in Klammern.
 
 1. Die Arbeit (1) ______ ist sehr interessant. (der Journalist)
 2. Das Büro (2) ______ liegt im zweiten Stock. (der Kollege)
@@ -132,7 +132,7 @@ Fill each gap with the correct Genitiv form of the n-Deklination noun in parenth
 
 ## Übung A6 — Eigennamen im Genitiv
 
-Write the correct Genitive form of the name in parentheses.
+Schreib die richtige Genitivform des Namens in Klammern.
 
 1. Das ist (1) ______ Buch. (Anna)
 2. Wir haben (2) ______ Auto gesehen. (Paul)
@@ -143,7 +143,7 @@ Write the correct Genitive form of the name in parentheses.
 
 ## Übung A7 — von + Dativ ↔ Genitiv: beide Formen
 
-Transform each sentence into both forms: (a) Genitiv, (b) von + Dativ.
+Formuliere jeden Satz in beiden Formen: (a) Genitiv, (b) von + Dativ.
 
 1a. Das ist das Auto (1) ______. (mein Vater — Genitiv)
 1b. Das ist das Auto (2) ______. (mein Vater — von + Dativ)
@@ -154,7 +154,7 @@ Transform each sentence into both forms: (a) Genitiv, (b) von + Dativ.
 
 ## Übung A8 — Genitivphrasen zusammensetzen
 
-Reconstruct each Genitiv noun phrase from the scrambled words.
+Bilde aus den durcheinandergewürfelten Wörtern die Nominalgruppe im Genitiv.
 
 1. des – der – Name – Verkäufers
 2. Zustand – des – Fahrrads – Der
@@ -163,7 +163,7 @@ Reconstruct each Genitiv noun phrase from the scrambled words.
 
 ## Übung A9 — Ist die Genitivform richtig? (Richtig / Falsch)
 
-Decide whether the underlined Genitiv form is correct (R) or wrong (F). If wrong, the correct form is in the solution.
+Entscheide, ob die unterstrichene Genitivform richtig (R) oder falsch (F) ist. Die richtige Form steht in der Lösung.
 
 1. wegen **des Regens** blieben wir zu Hause ( )
 2. die Meinung **dem Professor** ( )
@@ -173,7 +173,7 @@ Decide whether the underlined Genitiv form is correct (R) or wrong (F). If wrong
 
 ## Übung A10 — Gemischte Genitivübung — formelle Sätze
 
-Fill each gap with the correct Genitiv form (article + noun ending where needed).
+Ergänze in jeder Lücke die richtige Genitivform (Artikel + Nomenendung, wo nötig).
 
 1. Der Autor (1) ______ ist ein bekannter Philosoph. (das Buch)
 2. Wegen (2) ______ konnte die Veranstaltung nicht stattfinden. (der Streik)
@@ -188,7 +188,7 @@ Fill each gap with the correct Genitiv form (article + noun ending where needed)
 
 ## Übung B1 — Lückendialog — akademisches Gespräch
 
-Fill in the gaps in this formal academic exchange. Choose from the options in brackets.
+Ergänze die Lücken in diesem formellen Austausch an der Uni. Wähle aus den Optionen in Klammern.
 
 Herr Steinmeyer: Haben Sie die Ergebnisse (1) ______ (der Studie / dem Studie / des Studie) bereits ausgewertet?
 Yusuf: Ja, die Daten (2) ______ (des Experiments / dem Experiment / der Experiments) sind sehr aufschlussreich.
@@ -199,7 +199,7 @@ Yusuf: Danke. Statt (6) ______ (einer langen Einleitung / die lange Einleitung /
 
 ## Übung B2 — Finde den Fehler — Dativ statt Genitiv
 
-Each sentence contains a Genitiv error (Dativ used instead of Genitiv, or wrong noun ending). Write the corrected sentence.
+Jeder Satz enthält einen Genitivfehler (Dativ statt Genitiv oder falsche Nomenendung). Schreib den Satz richtig.
 
 1. Das ist das Auto vom Professor. (formal → Genitiv) (1) ______
 2. wegen dem schlechten Wetter blieben wir zu Hause (2) ______
@@ -221,7 +221,7 @@ Wähle die richtige Antwort (a, b oder c).
 
 ## Übung B4 — Genitivpräposition zum richtigen Kontext
 
-Match each preposition (left) to the sentence that uses it correctly (right).
+Ordne jede Präposition (links) dem Satz zu, der sie richtig verwendet (rechts).
 
 | Links | | Rechts |
 |---|---|---|
@@ -233,7 +233,7 @@ Match each preposition (left) to the sentence that uses it correctly (right).
 
 ## Übung B5 — Formelle Sätze rekonstruieren
 
-Reconstruct these formal sentences by arranging the tiles in the correct order.
+Bilde die formellen Sätze, indem du die Bausteine in die richtige Reihenfolge bringst.
 
 1. Umbaus – die – des – Wegen – Mensa – geschlossen – ist
 2. er – hat – der – bestanden – Schwierigkeiten – Trotz
@@ -242,7 +242,7 @@ Reconstruct these formal sentences by arranging the tiles in the correct order.
 
 ## Übung B6 — n-Deklination im Kontext
 
-Fill each gap with the correct form of the n-Deklination noun in parentheses.
+Ergänze in jeder Lücke die richtige Form des Nomens (n-Deklination) in Klammern.
 
 1. Das Buch (1) ______ ist sehr bekannt. (der Philosoph — Genitiv)
 2. Wir haben den (2) ______ nach dem Weg gefragt. (der Student — Akkusativ)
@@ -253,7 +253,7 @@ Fill each gap with the correct form of the n-Deklination noun in parentheses.
 
 ## Übung B7 — von + Dativ → Genitiv (formelle Schreibweise)
 
-Transform each informal phrase into formal Genitiv.
+Formuliere jede umgangssprachliche Wendung in einen formellen Genitiv um.
 
 1. das Buch von meinem Vater → das Buch (1) ______
 2. die Meinung von der Lehrerin → die Meinung (2) ______
@@ -264,7 +264,7 @@ Transform each informal phrase into formal Genitiv.
 
 ## Übung B8 — Leseverständnis: Mietvertrag (Lesetext)
 
-Based on the Lesetext (Mietvertrag), choose the correct answer.
+Wähle die richtige Antwort zum Lesetext (Mietvertrag).
 
 1. Was muss der Mieter wegen etwaiger Mängel tun?  a) Er muss die Hausverwaltung unverzüglich informieren.  b) Er muss den Vermieter persönlich aufsuchen.  c) Er muss selbst reparieren.
 2. Welche Form der Mitteilung wird bevorzugt?  a) Die mündliche Mitteilung.  b) Die schriftliche Form.  c) Eine E-Mail an den Vermieter.
@@ -304,7 +304,7 @@ Self-check:
 
 ## Übung C1 — Lückentext — Mietvertrag (Lesetext)
 
-Fill each gap with ONE word. The text is from the Lesetext (§ 3 Mietvertrag).
+Ergänze in jeder Lücke EIN Wort. Der Text stammt aus dem Lesetext (§ 3 Mietvertrag).
 
 Während (1) ______ Mietdauer ist der Mieter zur ordnungsgemäßen Pflege des Mietobjekts
 verpflichtet. Der Zustand (2) ______ Wohnung ist bei Übergabe schriftlich festzuhalten.
@@ -329,7 +329,7 @@ Wähle für jede Lücke die richtige Antwort (a, b oder c).
 
 ## Übung C3 — Sprachbausteine Teil 2 — Wortbank
 
-Fill the 10 gaps. **Five words are not needed.**
+Ergänze die 10 Lücken. **Fünf Wörter werden nicht gebraucht.**
 
 > Sehr geehrter Herr Steinmeyer,
 > anbei übersende ich Ihnen die überarbeitete Fassung (1) ______ Artikels. Wegen
@@ -409,7 +409,7 @@ Self-check:
 
 ## Übung D1 — Schnelltest — Genitiv + Wiederholung
 
-Fill each gap quickly. Labels show the source lesson where relevant.
+Ergänze die Lücken zügig. Die Angaben in eckigen Klammern nennen, wo nötig, die Lektion, aus der die Aufgabe stammt.
 
 1. Das ist das Büro _____ Direktors. [Genitiv maskulin] (1) ______
 2. wegen _____ Regens blieben wir drinnen [Genitiv maskulin] (2) ______
@@ -423,7 +423,7 @@ Fill each gap quickly. Labels show the source lesson where relevant.
 10. Das Auto _____ Studenten ist alt. [n-Dekl.] (10) ______
 11. Obwohl er müde war, ging er zur Arbeit. — Rewrite with 'trotz'. [B1/02] (11) ______
 12. Er blieb in Berlin, weil er Arbeit hatte. — Rewrite with 'deshalb'. [B1/02] (12) ______
-13. _____ etwas zu beschreiben, benutzt man Adjektive. (um ... zu) [B1/06] (13) ______
+13. _____ etwas zu beschreiben, benutzt man Adjektive. (purpose, Infinitiv mit zu) [B1/06] (13) ______
 14. Er hat das Buch gelesen. — Passiv Präsens [B1/04] (14) ______
 15. Er hat ein Fahrrad gekauft. — Relativsatz: Das ist das Fahrrad, _____ er gekauft hat. [B1/05] (15) ______
 
@@ -438,7 +438,7 @@ Fill each gap quickly. Labels show the source lesson where relevant.
 
 ## Übung D3 — Rückblick — B1/05 (Relativsätze) + B1/04 (Passiv)
 
-Fill each gap. Labels show the source lesson.
+Ergänze die Lücken. Die Angaben in eckigen Klammern nennen die Lektion, aus der die Aufgabe stammt.
 
 1. Das ist das Buch, _____ ich dir empfohlen habe. [B1/05 — Relativpronomen Akk.] (1) ______
 2. Das ist die Ärztin, _____ in der Notaufnahme arbeitet. [B1/05 — Relativpronomen Nom.] (2) ______

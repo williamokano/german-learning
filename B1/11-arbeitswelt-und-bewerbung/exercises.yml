@@ -15,7 +15,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Bruno arbeitet zurzeit als IT-Consultant in Berlin."
         answer: true
@@ -38,7 +39,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Wofür bewirbt sich Anna?"
         options:
@@ -74,7 +76,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
-    instructions: "Listen to the Hörtext (Bruno prepares his CV) and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre den Hörtext (Bruno bereitet seinen Lebenslauf vor) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen to the Hörtext (Bruno prepares his CV) and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Bruno sitzt am Schreibtisch und bereitet seinen {1} vor. Er hat seinen
       Bachelor-Abschluss in Informatik an der Universidade Federal de Santa Catarina
@@ -97,7 +100,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Anruf von Frau Weber bei einer Agentur"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the voicemail left by Frau Weber. Then choose the correct answer (a, b, or c)."
+    instructions: "Höre die Nachricht von Frau Weber auf der Mailbox. Wähle dann die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the voicemail left by Frau Weber. Then choose the correct answer (a, b, or c)."
     transcript: "Guten Tag, hier ist Sabine Weber von TechVentures GmbH. Ich rufe an, weil wir gerade eine Stelle als Projektkoordinatorin ausgeschrieben haben. Wir suchen eine Person, die Erfahrung in der Teamkoordination mitbringt. Die Stelle ist ab dem 1. Oktober zu besetzen. Die Bewerbungsfrist endet am 30. Juni. Bitte ruf mich zurück, wenn Sie Kandidatinnen empfehlen können. Sie erreichen mich unter 030 456 78 90. Vielen Dank!"
     items:
       - q: "Welche Stelle wird gesucht?"
@@ -136,7 +140,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Anschreiben-Phrasen: Lückentext"
-    instructions: "Complete each formal phrase from the cover letter with the missing word. 8 items."
+    instructions: "Ergänze in jeder formellen Wendung aus dem Anschreiben das fehlende Wort. 8 Sätze."
+    instructionsEn: "Complete each formal phrase from the cover letter with the missing word. 8 items."
     text: |
       1. {1} bewerbe ich mich um die Stelle als Projektkoordinatorin.
       2. Ihr Stellenangebot hat mich sehr {2}, weil Ihr Unternehmen innovativ ist.
@@ -161,7 +166,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Passiv im Stellenangebot (B1/04 — Wiederholung)"
-    instructions: "Rewrite each active sentence in the Passiv Präsens. 6 items."
+    instructions: "Setze jeden Aktivsatz ins Passiv Präsens. 6 Sätze."
+    instructionsEn: "Rewrite each active sentence in the Passiv Präsens. 6 items."
     text: |
       1. Das Unternehmen sucht eine Projektkoordinatorin.
          → Eine Projektkoordinatorin {1}.
@@ -188,7 +194,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Relativsätze im Stellenangebot (B1/05 — Wiederholung)"
-    instructions: "Fill in the correct Relativpronomen (der/die/das/den/dem/denen + Präposition if needed). 8 items."
+    instructions: "Ergänze das richtige Relativpronomen (der/die/das/den/dem/denen, wenn nötig mit Präposition). 8 Sätze."
+    instructionsEn: "Fill in the correct Relativpronomen (der/die/das/den/dem/denen + Präposition if needed). 8 items."
     text: |
       1. Wir suchen eine Person, {1} motiviert und teamfähig ist.
       2. Das ist ein Job, {2} gut bezahlt ist.
@@ -213,7 +220,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Konjunktiv II im Vorstellungsgespräch (B1/03 — Wiederholung)"
-    instructions: "Rewrite each blunt statement as a polite Konjunktiv II phrase. 6 items."
+    instructions: "Formuliere jede direkte Aussage als höfliche Wendung im Konjunktiv II um. 6 Sätze."
+    instructionsEn: "Rewrite each blunt statement as a polite Konjunktiv II phrase. 6 items."
     text: |
       1. Ich will 60.000 Euro.
          → Meiner Vorstellung nach {1} das Gehalt bei 60.000 Euro.
@@ -240,7 +248,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Genitiv im Anschreiben (B1/07 — Wiederholung)"
-    instructions: "Fill in the correct Genitiv form (article + noun OR Genitivpräposition phrase). 8 items."
+    instructions: "Ergänze die richtige Genitivform (Artikel + Nomen ODER Ausdruck mit Genitivpräposition). 8 Sätze."
+    instructionsEn: "Fill in the correct Genitiv form (article + noun OR Genitivpräposition phrase). 8 items."
     text: |
       1. Der Schlüssel _____ Erfolgs liegt in der Kommunikation.
          → Der Schlüssel {1} Erfolgs liegt in der Kommunikation.
@@ -273,7 +282,8 @@ exercises:
     type: gap-text
     layout: list
     title: "`um … zu` im Anschreiben (B1/06 — Wiederholung)"
-    instructions: "Complete each cover-letter sentence with `um … zu + Infinitiv`. 6 items."
+    instructions: "Ergänze jeden Satz aus dem Anschreiben mit `um … zu + Infinitiv`. 6 Sätze."
+    instructionsEn: "Complete each cover-letter sentence with `um … zu + Infinitiv`. 6 items."
     text: |
       1. Ich bewerbe mich, um meine Erfahrungen {1}. (einsetzen)
       2. Ich habe Projektmanagement studiert, um Teams besser {2}. (koordinieren können)
@@ -293,7 +303,8 @@ exercises:
     block: A
     type: categorize
     title: "Lebenslauf-Abschnitte zuordnen"
-    instructions: "Sort each item into the correct CV section."
+    instructions: "Ordne jeden Eintrag dem richtigen Abschnitt im Lebenslauf zu."
+    instructionsEn: "Sort each item into the correct CV section."
     buckets:
       - { key: pd, label: "Persönliche Daten" }
       - { key: be, label: "Berufserfahrung" }
@@ -315,7 +326,8 @@ exercises:
     block: A
     type: matching
     title: "Vorstellungsgespräch-Fragen und Antworten verbinden"
-    instructions: "Match each interview question (1–6) with the correct answer (a–g). One answer is not needed."
+    instructions: "Verbinde jede Frage aus dem Vorstellungsgespräch (1–6) mit der passenden Antwort (a–g). Eine Antwort wird nicht gebraucht."
+    instructionsEn: "Match each interview question (1–6) with the correct answer (a–g). One answer is not needed."
     left:
       - { key: "1", text: "Erzählen Sie uns etwas über sich." }
       - { key: "2", text: "Was sind Ihre Stärken?" }
@@ -343,7 +355,8 @@ exercises:
     block: A
     type: true-false
     title: "Formell oder informell? — Register erkennen"
-    instructions: "Is each phrase suitable for a formal cover letter or job interview? Answer F (formell/geeignet) oder I (informell/nicht geeignet)."
+    instructions: "Passt die Wendung in ein formelles Anschreiben oder Vorstellungsgespräch? Antworte mit F (formell/geeignet) oder I (informell/nicht geeignet)."
+    instructionsEn: "Is each phrase suitable for a formal cover letter or job interview? Answer F (formell/geeignet) oder I (informell/nicht geeignet)."
     items:
       - q: "Hiermit bewerbe ich mich um die ausgeschriebene Stelle."
         answer: true
@@ -368,7 +381,8 @@ exercises:
     block: A
     type: single-choice
     title: "Stellenanzeige lesen: Wähle die richtige Antwort"
-    instructions: "Read the job posting text below and choose the correct answer (a, b, or c). 5 items."
+    instructions: "Lies die Stellenanzeige unten und wähle die richtige Antwort (a, b oder c). 5 Aufgaben."
+    instructionsEn: "Read the job posting text below and choose the correct answer (a, b, or c). 5 items."
     text: |
       **Stellenanzeige — TechVentures GmbH, Berlin**
 
@@ -420,7 +434,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Arbeitswelt-Wortschatz: Definitionen ergänzen"
-    instructions: "Complete each definition with the correct word from the list. 6 items. (der Lebenslauf, die Kündigung, die Überstunden, die Einarbeitung, die Gehaltserhöhung, das Stellenangebot)"
+    instructions: "Ergänze jede Definition mit dem richtigen Wort aus der Liste. 6 Sätze. (der Lebenslauf, die Kündigung, die Überstunden, die Einarbeitung, die Gehaltserhöhung, das Stellenangebot)"
+    instructionsEn: "Complete each definition with the correct word from the list. 6 items. (der Lebenslauf, die Kündigung, die Überstunden, die Einarbeitung, die Gehaltserhöhung, das Stellenangebot)"
     text: |
       1. Ein Dokument, das die Ausbildung und Berufserfahrung einer Person zeigt, heißt {1}.
       2. Wenn ein Arbeitnehmer oder eine Arbeitgeberin das Arbeitsverhältnis beendet, spricht man von einer {2}.
@@ -443,7 +458,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Dialog B ergänzen: Vorstellungsgespräch"
-    instructions: "Fill in the 8 blanks in this job interview extract with the correct word or phrase."
+    instructions: "Ergänze die 8 Lücken in diesem Auszug aus einem Vorstellungsgespräch mit dem richtigen Wort oder Ausdruck."
+    instructionsEn: "Fill in the 8 blanks in this job interview extract with the correct word or phrase."
     text: |
       Frau Weber: Guten Morgen, Frau Kowalski. Erzählen Sie uns etwas über {1}.
       Anna: Sehr gerne. Ich {2} über drei Jahre Berufserfahrung im Projektmanagement.
@@ -467,7 +483,8 @@ exercises:
     block: B
     type: single-choice
     title: "Finde den Fehler — Anschreiben und Interview"
-    instructions: "Each sentence contains one error. Choose the correct version (a, b, or c)."
+    instructions: "Jeder Satz enthält einen Fehler. Wähle die richtige Version (a, b oder c)."
+    instructionsEn: "Each sentence contains one error. Choose the correct version (a, b, or c)."
     items:
       - q: 'Fehler: „Hiermit bewerbe mich ich um die Stelle als Koordinatorin."'
         options:
@@ -509,7 +526,8 @@ exercises:
     block: B
     type: order
     title: "Anschreiben-Absätze in die richtige Reihenfolge bringen"
-    instructions: "A cover letter has been jumbled. Put the five sections in the correct order (1 = first, 5 = last)."
+    instructions: "Ein Anschreiben ist durcheinandergeraten. Bring die fünf Abschnitte in die richtige Reihenfolge (1 = zuerst, 5 = zuletzt)."
+    instructionsEn: "A cover letter has been jumbled. Put the five sections in the correct order (1 = first, 5 = last)."
     items:
       - tiles:
           - "Mit freundlichen Grüßen, Anna Kowalski"
@@ -524,7 +542,8 @@ exercises:
     block: B
     type: gap-bank
     title: "Lückentext: Annas Anschreiben ergänzen"
-    instructions: "Fill the 8 gaps in Anna's cover letter. Three words in the box are not needed."
+    instructions: "Ergänze die 8 Lücken in Annas Anschreiben. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Fill the 8 gaps in Anna's cover letter. Three words in the box are not needed."
     bankCase: upper
     bankSort: true
     text: |
@@ -555,7 +574,8 @@ exercises:
     block: B
     type: matching
     title: "Arbeitswelt-Vokabular: Definitionen zuordnen"
-    instructions: "Match each word (1–7) with its correct definition (a–h). One definition is not needed."
+    instructions: "Verbinde jedes Wort (1–7) mit der richtigen Definition (a–h). Eine Definition wird nicht gebraucht."
+    instructionsEn: "Match each word (1–7) with its correct definition (a–h). One definition is not needed."
     left:
       - { key: "1", text: "die Bewerbung" }
       - { key: "2", text: "das Anschreiben" }
@@ -587,14 +607,15 @@ exercises:
     type: gap-text
     layout: list
     title: "Passiv-Sätze in Stellenanzeigen: Aktiv oder Passiv? (B1/04)"
-    instructions: "Decide whether the missing construction is Aktiv or Passiv, then fill in the correct form. 6 items."
+    instructions: "Entscheide, ob Aktiv oder Passiv fehlt, und ergänze dann die richtige Form. 6 Sätze."
+    instructionsEn: "Decide whether the missing construction is Aktiv or Passiv, then fill in the correct form. 6 items."
     text: |
       1. (Passiv) Bewerberinnen mit Erfahrung {1}. (bevorzugen)
       2. (Passiv) Alle Bewerbungen {2} bis zum 30. Juni {3}. (entgegennehmen)
       3. (Aktiv) Die Stelle {4} einen Abschluss in Betriebswirtschaft. (erfordern)
       4. (Passiv) Das Gehalt {5} nach Qualifikation {6}. (bestimmen)
       5. (Aktiv) Wir {7} uns auf Ihre Bewerbung. (freuen — reflexiv)
-      6. (Passiv) Überstunden {8} nach Vereinbarung bezahlt. (werden)
+      6. (Passiv) Überstunden {8} nach Vereinbarung bezahlt.
     answers:
       "1": werden bevorzugt
       "2": werden
@@ -609,7 +630,8 @@ exercises:
     block: B
     type: true-false
     title: "Interview-Phrasen: Richtig oder Falsch?"
-    instructions: "Is each statement about German interview conventions correct? Answer R (richtig) oder F (falsch)."
+    instructions: "Ist die Aussage über Vorstellungsgespräche in Deutschland richtig? Antworte mit R (richtig) oder F (falsch)."
+    instructionsEn: "Is each statement about German interview conventions correct? Answer R (richtig) oder F (falsch)."
     items:
       - q: 'Man sagt „Sehr geehrte Damen und Herren" wenn man den Namen der Ansprechperson nicht kennt.'
         answer: true
@@ -657,6 +679,7 @@ exercises:
       > Anna Kowalski
 
       Wähle a, b oder c.
+    instructionsEn: "Read the text. Choose a, b, or c."
     items:
       - q: "Für welche Stelle bewirbt sich Anna?"
         options:
@@ -728,7 +751,8 @@ exercises:
     block: C
     type: gap-text
     title: "Lückentext: Annas Bewerbungsschreiben"
-    instructions: "Fill each gap with one word. 10 gaps."
+    instructions: "Ergänze in jeder Lücke ein Wort. 10 Lücken."
+    instructionsEn: "Fill each gap with one word. 10 gaps."
     text: |
       Anna Kowalski {1} sich um die Stelle als Projektkoordinatorin bei
       TechVentures GmbH. Sie schreibt, dass das Stellenangebot sie sehr {2}
@@ -759,7 +783,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Ich ______ mich sehr, Sie in einem Gespräch zu überzeugen."
         options:
@@ -808,7 +833,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (Wortbank)"
-    instructions: "Fill the 10 gaps. Five words are not needed."
+    instructions: "Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht."
+    instructionsEn: "Fill the 10 gaps. Five words are not needed."
     bankCase: upper
     bankSort: true
     text: |
@@ -863,6 +889,7 @@ exercises:
       > Anna Kowalski
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Anna bewirbt sich für eine Stelle als IT-Consultant."
         answer: false
@@ -884,7 +911,8 @@ exercises:
     block: C
     type: single-choice
     title: "Leseverstehen: Stellenanzeige (neuer Text)"
-    instructions: "Read the job ad below. Choose the correct answer (a, b, or c)."
+    instructions: "Lies die Stellenanzeige unten. Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Read the job ad below. Choose the correct answer (a, b, or c)."
     text: |
       **InnovaMedia GmbH — Projektmanager/in (m/w/d) — Berlin**
 
@@ -960,23 +988,24 @@ exercises:
     type: gap-text
     layout: list
     title: "Schnelltest: Arbeitswelt & Grammatik-Wiederholung"
-    instructions: "Fill in the correct word or form. Items 12–15 review grammar from B1/03–B1/07. 15 items."
+    instructions: "Ergänze das richtige Wort oder die richtige Form. Aufgaben 12–15 wiederholen Grammatik aus B1/03–B1/07. 15 Aufgaben."
+    instructionsEn: "Fill in the correct word or form. Items 12–15 review grammar from B1/03–B1/07. 15 items."
     text: |
       1. Ich {1} mich um die Stelle als Projektmanager. (sich bewerben — ich-Form)
       2. Das Stellenangebot {2} mich sehr angesprochen. (Perfekt von ansprechen)
       3. Ich {3} über drei Jahre Berufserfahrung. (verfügen — ich-Form)
-      4. Mehrere Projekte {4} von mir koordiniert. (Passiv Präteritum — wurden)
+      4. Mehrere Projekte {4} von mir koordiniert. (Passiv Präteritum)
       5. „Mit freundlichen {5}," ist die Standardgrußformel. (Grüße — Dativ Plural)
-      6. Wir suchen jemanden, {6} sofort anfangen kann. (Relativpronomen Nom. m.: der)
-      7. Die Stelle {7} ab Oktober besetzt. (Passiv Präsens: wird)
-      8. Bewerben Sie sich {8} zum 30. Juni. (bis)
-      9. Die Kündigung {9} eine Frist von vier Wochen. (erfordern — hat)
-      10. Während {10} Tätigkeit habe ich viele Projekte geleitet. (Genitiv: meiner)
-      11. Ich hätte gerne ein Gespräch über meine {11}. (die Gehaltserhöhung — Akk)
-      12. (B1/03) Meiner Vorstellung nach {12} das Gehalt bei 55.000 Euro. (Konj. II: läge)
-      13. (B1/05) Das ist eine Stelle, {13} gut zu meinem Profil passt. (Relat. Nom. f.: die)
+      6. Wir suchen jemanden, {6} sofort anfangen kann. (Relativpronomen)
+      7. Die Stelle {7} ab Oktober besetzt. (Passiv Präsens)
+      8. Bewerben Sie sich {8} zum 30. Juni.
+      9. Die Kündigung {9} eine Frist von vier Wochen. (erfordern)
+      10. Während {10} Tätigkeit habe ich viele Projekte geleitet. (mein-, Genitiv)
+      11. Ich hätte gerne ein Gespräch über meine {11}. (a pay rise)
+      12. (B1/03) Meiner Vorstellung nach {12} das Gehalt bei 55.000 Euro. (liegen, Konj. II)
+      13. (B1/05) Das ist eine Stelle, {13} gut zu meinem Profil passt. (Relativpronomen)
       14. (B1/06) Ich bewerbe mich, um meine Erfahrungen {14}. (einsetzen — um…zu)
-      15. (B1/07) Die Stärke {15} Bewerbung liegt in der Praxiserfahrung. (Genitiv f.: meiner)
+      15. (B1/07) Die Stärke {15} Bewerbung liegt in der Praxiserfahrung. (mein-, Genitiv)
     answers:
       "1": bewerbe
       "2": hat
@@ -998,7 +1027,8 @@ exercises:
     block: D
     type: odd-one-out
     title: "Wortschatz-Check: Das passt nicht!"
-    instructions: "Circle the word that does not belong. 6 groups."
+    instructions: "Kreise das Wort ein, das nicht in die Gruppe passt. 6 Gruppen."
+    instructionsEn: "Circle the word that does not belong. 6 groups."
     groups:
       - items: ["die Bewerbung", "das Anschreiben", "der Lebenslauf", "die Überstunden"]
         odd: 3
@@ -1024,13 +1054,14 @@ exercises:
     type: gap-text
     layout: list
     title: "Rückblick: B1/04–B1/09 — Grammatik im Kontext"
-    instructions: "Fill in the correct form. Items 1–4 = B1/04 Passiv; items 5–7 = B1/05 Relativsätze; items 8–10 = B1/09 Höflichkeit (indirekte Fragen). 10 items."
+    instructions: "Ergänze die richtige Form. Aufgaben 1–4 = B1/04 Passiv, Aufgaben 5–7 = B1/05 Relativsätze, Aufgaben 8–10 = B1/09 Höflichkeit (indirekte Fragen). 10 Aufgaben."
+    instructionsEn: "Fill in the correct form. Items 1–4 = B1/04 Passiv; items 5–7 = B1/05 Relativsätze; items 8–10 = B1/09 Höflichkeit (indirekte Fragen). 10 items."
     text: |
       B1/04 — Passiv:
       1. Die Bewerbung {1} gestern eingereicht. (Präteritum Passiv)
       2. Das Onboarding {2} von der HR-Abteilung organisiert. (Präsens Passiv)
-      3. Die Stelle musste vor dem 1. Juli {3}. (Passiv + Modal: besetzt werden)
-      4. Alle Unterlagen {4} geprüft worden. (Perfekt Passiv: sind)
+      3. Die Stelle musste vor dem 1. Juli {3}. (besetzen — Passiv + Modalverb)
+      4. Alle Unterlagen {4} geprüft worden. (Perfekt Passiv)
 
       B1/05 — Relativsätze:
       5. Wir suchen eine Person, {5} gut kommunizieren kann. (Nom. f.)
@@ -1058,7 +1089,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Selbsttest: Arbeitswelt & Bewerbung (20 Punkte)"
-    instructions: "Fill in the correct word or form. 1 point per gap. 20 items."
+    instructions: "Ergänze das richtige Wort oder die richtige Form. 1 Punkt pro Lücke. 20 Aufgaben."
+    instructionsEn: "Fill in the correct word or form. 1 point per gap. 20 items."
     notes: "16+ / 20 → proceed to B1/12. Below 16: redo Block A1–A6 tomorrow, then retest D4."
     text: |
       1. Ich {1} mich um die Stelle als Projektkoordinatorin. (sich bewerben)
@@ -1070,11 +1102,11 @@ exercises:
       7. Wir suchen eine Person, {7} Erfahrung in der Teamleitung hat. (Relativ. Nom. f.)
       8. Meiner Vorstellung nach {8} das Gehalt bei 58.000 Euro. (Konj. II von liegen)
       9. Es {9} mir wichtig, flexible Arbeitszeiten zu haben. (Konj. II von sein)
-      10. Ich {10} gerne mehr Verantwortung übernehmen. (Konj. II von wollen: würde)
+      10. Ich {10} gerne mehr Verantwortung übernehmen. (werden — Konj. II)
       11. Ich bewerbe mich, um meine Erfahrungen {11}. (einsetzen — um…zu, trennbar)
       12. Mit {12} Grüßen, (die Grußformel — Dativ Plural)
-      13. Der Schlüssel {13} Erfolgs liegt in der Teamarbeit. (Genitiv m./n.: des)
-      14. Trotz {14} kurzen Einarbeitungszeit war ich schnell produktiv. (Genitiv f.: der)
+      13. Der Schlüssel {13} Erfolgs liegt in der Teamarbeit. (bestimmter Artikel, Genitiv)
+      14. Trotz {14} kurzen Einarbeitungszeit war ich schnell produktiv. (bestimmter Artikel, Genitiv)
       15. Die Stelle {15} von der Firma ausgeschrieben. (Präteritum Passiv)
       16. Ein Dokument, das Ausbildung und Berufserfahrung zeigt: der {16}.
       17. Das Gespräch vor dem Einstieg heißt das {17}.

@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining (formelle/informelle E-Mail) → B Vertiefu
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Pavels Präsentationsthema ist Großstädte. ( )
 2. Bruno empfiehlt Pavel, keinen konkreten Grund für die Wichtigkeit des Themas zu nennen. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. An wen hat Anna die Beschwerdemail geschrieben?  a) An Frau Weber.  b) An das Hotel Zentral.  c) An die Sprachschule.
 2. Was war das Problem mit Annas ursprünglicher Mail?  a) Sie war zu lang.  b) Die Sprache war zu informell.  c) Der Betreff fehlte, aber die Anrede war korrekt.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext (Mia gibt Ratschläge fürs Schreiben) and fill in the 5 missing words. Three words in the box are not needed.
+Höre den Hörtext (Mia gibt Ratschläge fürs Schreiben) und ergänze die 5 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Mia bereitet einen (1) ______ über formelles Schreiben vor. Sie erklärt, dass eine
 > formelle E-Mail immer einen (2) ______ haben muss. Die Anrede lautet
@@ -47,7 +47,7 @@ Listen to the Hörtext (Mia gibt Ratschläge fürs Schreiben) and fill in the 5 
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the telephone message. Then choose the correct answer (a, b, or c).
+Höre die Telefonnachricht. Wähle dann die richtige Antwort (a, b oder c).
 
 1. Bis wann kann man sich für den Kurs anmelden?  a) Bis Freitag, den 20. Juni.  b) Bis Donnerstag, den 19. Juni.  c) Bis Montag, den 23. Juni.
 2. An welchen Tagen findet der Kurs statt?  a) Montags und mittwochs.  b) Dienstags und donnerstags.  c) Montags und freitags.
@@ -71,7 +71,7 @@ Listen to the telephone message. Then choose the correct answer (a, b, or c).
 
 ## Übung A1 — Formell oder informell? — Register zuordnen
 
-Sort each phrase into the correct register category.
+Ordne jede Formulierung dem richtigen Register zu.
 
 > Sehr geehrte Damen und Herren, · Hey, wie geht's? · Mit freundlichen Grüßen · Bis bald! · Ich schreibe Ihnen bezüglich … · Ich wollte dir kurz sagen, dass … · Ich bitte Sie um eine Rückmeldung. · Liebe Anna, · Betreff: Beschwerde wegen … · Viele Grüße!
 
@@ -81,7 +81,7 @@ Sort each phrase into the correct register category.
 
 ## Übung A2 — E-Mail-Teile zuordnen
 
-Match each part of a formal email (1–6) with its correct example (a–g). One example is not needed.
+Verbinde jeden Teil einer formellen E-Mail (1–6) mit dem passenden Beispiel (a–g). Ein Beispiel wird nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -95,7 +95,7 @@ Match each part of a formal email (1–6) with its correct example (a–g). One 
 
 ## Übung A3 — Formelle Phrasen vervollständigen
 
-Complete each formal phrase with one word. 8 items.
+Ergänze jede formelle Wendung mit einem Wort. 8 Aufgaben.
 
 1. Sehr (1) ______ Damen und Herren,
 2. Ich (2) ______ Ihnen bezüglich meiner Bestellung vom 5. Juni.
@@ -108,7 +108,7 @@ Complete each formal phrase with one word. 8 items.
 
 ## Übung A4 — Register-Transformation: informell → formell
 
-Rewrite each informal phrase in formal register. 6 items.
+Formuliere jede informelle Wendung im formellen Register. 6 Aufgaben.
 
 1. Hallo! → (1) ______ Damen und Herren,
 2. Ich find das echt nicht gut. → Der Service (2) ______ leider zu wünschen übrig.
@@ -119,7 +119,7 @@ Rewrite each informal phrase in formal register. 6 items.
 
 ## Übung A5 — Informelle Phrasen — Lücken füllen
 
-Complete each informal message phrase. 6 items.
+Ergänze die Wendungen aus einer informellen Nachricht. 6 Aufgaben.
 
 1. (1) ______ Bruno,
 2. Danke für deine letzte (2) ______!
@@ -130,13 +130,13 @@ Complete each informal message phrase. 6 items.
 
 ## Übung A6 — Formelle E-Mail in die richtige Reihenfolge bringen
 
-A formal complaint email has been scrambled. Put the five parts in the correct order (drag or number 1–5).
+Die Teile einer formellen Beschwerde-E-Mail sind durcheinander. Bring die fünf Teile in die richtige Reihenfolge (ziehen oder 1–5 nummerieren).
 
 1. Betreff: Beschwerde wegen mangelhafter Zimmerqualität – Mit freundlichen Grüßen, Anna Kowalski – Ich schreibe Ihnen bezüglich meines Aufenthalts vom 8. Juni. Der Zustand des Zimmers ließ leider zu wünschen übrig. Ich bitte Sie daher um eine Rückerstattung. – Ich freue mich auf Ihre Antwort. – Sehr geehrte Damen und Herren,
 
 ## Übung A7 — E-Mail-Regeln: Richtig oder Falsch?
 
-Is each statement about formal email conventions correct? Answer R (richtig) oder F (falsch).
+Ist die Aussage über formelle E-Mails richtig? Antworte mit R (richtig) oder F (falsch).
 
 1. In einer formellen E-Mail schreibt man immer einen Betreff. ( )
 2. Man kann eine formelle E-Mail mit „Hallo!" beginnen. ( )
@@ -147,7 +147,7 @@ Is each statement about formal email conventions correct? Answer R (richtig) ode
 
 ## Übung A8 — Anrede wählen: Welche Anrede ist korrekt?
 
-Choose the correct salutation for each situation (a, b, or c). 5 items.
+Wähle für jede Situation die richtige Anrede (a, b oder c). 5 Aufgaben.
 
 1. Du schreibst eine formelle Beschwerde an ein Hotel, kennst aber keinen Namen.  a) Hallo zusammen!  b) Sehr geehrte Damen und Herren,  c) Liebe Hotelleitung,
 2. Du schreibst eine informelle Nachricht an deine Freundin Mia.  a) Sehr geehrte Frau Becker,  b) Liebe Mia,  c) Guten Tag, Mia Becker,
@@ -157,7 +157,7 @@ Choose the correct salutation for each situation (a, b, or c). 5 items.
 
 ## Übung A9 — Formelle Beschwerdemail: Lücken füllen
 
-Fill the 8 gaps in the formal complaint email. Three words in the box are not needed.
+Ergänze die 8 Lücken in der formellen Beschwerde-E-Mail. Drei Wörter im Kasten werden nicht gebraucht.
 
 > (1) ______: Beschwerde wegen mangelhafter Zimmerqualität
 > 
@@ -177,7 +177,7 @@ Fill the 8 gaps in the formal complaint email. Three words in the box are not ne
 
 ## Übung A10 — Konnektoren im Schreiben und Sprechen einsetzen
 
-Fill in the correct connector from the box. Each connector is used once. (zum einen, zum anderen, außerdem, allerdings, insgesamt, abschließend) 6 items.
+Ergänze den richtigen Konnektor aus dem Kasten. Jeder Konnektor passt nur einmal. (zum einen, zum anderen, außerdem, allerdings, insgesamt, abschließend) 6 Sätze.
 
 1. (1) ______ gibt es in einer Großstadt viele Jobmöglichkeiten.
 2. (2) ______ ist das Kulturangebot sehr reich.
@@ -188,7 +188,7 @@ Fill in the correct connector from the box. Each connector is used once. (zum ei
 
 ## Übung A11 — Präsentation-Redemittel einsetzen (Sprechen B1 Teil 2)
 
-Complete each presentation phrase with the correct word or phrase. 8 items.
+Ergänze jede Präsentationswendung mit dem richtigen Wort oder Ausdruck. 8 Aufgaben.
 
 1. Ich möchte über das (1) ______ Großstädte sprechen.
 2. Das Thema ist wichtig, (2) ______ viele Menschen heute in Großstädten leben.
@@ -205,7 +205,7 @@ Complete each presentation phrase with the correct word or phrase. 8 items.
 
 ## Übung B1 — Forenbeitrag ergänzen: Schreib-Konnektoren
 
-Fill the 8 blanks in this forum post with the correct word or phrase.
+Ergänze die 8 Lücken in diesem Forumsbeitrag mit dem richtigen Wort oder Ausdruck.
 
 (1) ______ Meinung nach bieten Großstädte mehr Vorteile als Nachteile.
 (2) ______ einen gibt es dort viele Jobmöglichkeiten; (3) ______ anderen ist das
@@ -216,7 +216,7 @@ wertvoll ist. Was (8) ______ Sie dazu?
 
 ## Übung B2 — Finde den Fehler — Register und Struktur
 
-Each sentence contains one error. Choose the correct version (a, b, or c).
+Jeder Satz enthält einen Fehler. Wähle die richtige Version (a, b oder c).
 
 1. Fehler: „Ich bin der Überzeugung, das Großstädte besser sind."  a) Ich bin der Überzeugung, dass Großstädte besser sind.  b) Ich bin der Überzeugung, Großstädte sind besser.  c) Ich bin der Überzeugung, Großstädte besser sind.
 2. Fehler: „Mit freundliche Grüßen,"  a) Mit freundlicher Grüßen,  b) Mit freundlichen Grüßen,  c) Mit freundlich Grüßen,
@@ -226,7 +226,7 @@ Each sentence contains one error. Choose the correct version (a, b, or c).
 
 ## Übung B3 — Konnektoren nach Funktion sortieren
 
-Sort each connector into the correct function category.
+Ordne jeden Konnektor der richtigen Funktion zu.
 
 > außerdem · allerdings · insgesamt · zum anderen · andererseits · abschließend · sowohl … als auch · zwar … aber · meiner Meinung nach überwiegen …
 
@@ -236,13 +236,13 @@ Sort each connector into the correct function category.
 
 ## Übung B4 — Forenbeitrag in die richtige Reihenfolge bringen
 
-A forum post has been scrambled. Put the five parts in the correct order (1 = first, 5 = last).
+Die Teile eines Forumsbeitrags sind durcheinander. Bring die fünf Teile in die richtige Reihenfolge (1 = zuerst, 5 = zuletzt).
 
 1. Meiner Meinung nach bieten Großstädte mehr Chancen als Risiken. – Allerdings sind die Lebenshaltungskosten ein echtes Problem. – Zum einen gibt es viele Jobmöglichkeiten; außerdem ist das Kulturangebot enorm. – Insgesamt denke ich, dass ein Umzug in die Stadt lohnenswert ist. – Was meinen Sie dazu? Ich würde mich über Ihre Erfahrungen freuen.
 
 ## Übung B5 — Präsentation-Phasen und Redemittel verbinden
 
-Match each presentation phase (1–5) with the correct Redemittel (a–f). One Redemittel is not needed.
+Verbinde jede Phase der Präsentation (1–5) mit den passenden Redemitteln (a–f). Ein Redemittel wird nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -280,7 +280,7 @@ Richtig (R) oder Falsch (F)?
 
 ## Übung B7 — Präsentation planen: Phasen mit Redemitteln verbinden
 
-You are planning a B1 presentation on the topic 'Homeoffice — Vorteile und Nachteile'. Fill in each gap with the correct connector or phrase. 8 items.
+Du planst eine B1-Präsentation zum Thema „Homeoffice — Vorteile und Nachteile“. Ergänze jede Lücke mit dem richtigen Konnektor oder Ausdruck. 8 Aufgaben.
 
 Ich möchte über das (1) ______ Homeoffice sprechen. Das Thema ist (2) ______, weil
 immer mehr Menschen von zu Hause arbeiten. (3) ______ einen bietet Homeoffice mehr
@@ -344,7 +344,7 @@ Self-check:
 
 ## Übung C1 — Lückentext: Forenbeitrag über Großstädte
 
-Fill each gap with one word. 10 gaps.
+Ergänze in jeder Lücke ein Wort. 10 Lücken.
 
 Pavel hat sich vor drei Jahren entschieden, von Brünn nach Berlin zu (1) ______.
 Er schreibt in einem Forenbeitrag, dass Großstädte seiner (2) ______ nach mehr
@@ -359,7 +359,7 @@ sollte man aber finanziell gut (10) ______ sein.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle für jede Lücke die richtige Option (a, b oder c).
 
 1. Ich schreibe Ihnen ______ meines Aufenthalts in Ihrem Hotel.  a) bezüglich  b) über  c) wegen von
 2. Der Service ließ leider zu ______ übrig.  a) wünscht  b) wünschen  c) wünsche
@@ -370,7 +370,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Fill the 10 gaps. Five words are not needed.
+Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht.
 
 > Mia hält einen Workshop über formelles (1) ______ auf Deutsch. Sie erklärt,
 > dass eine formelle E-Mail immer einen (2) ______ haben muss. Die (3) ______ lautet
@@ -413,7 +413,7 @@ Richtig (R) oder Falsch (F)?
 
 ## Übung C4b — Leseverstehen: Neue Beschwerdemail (neuer Text)
 
-Read the formal complaint email below. Choose the correct answer (a, b, or c).
+Lies die formelle Beschwerde-E-Mail unten. Wähle die richtige Antwort (a, b oder c).
 
 1. Warum schreibt Bruno diese E-Mail?  a) Er hat das falsche Produkt erhalten.  b) Er möchte einen Laptop bestellen.  c) Er möchte den Preis verhandeln.
 2. Was war das Problem mit dem gelieferten Gerät?  a) Es war kaputt und nicht reparierbar.  b) Es war das falsche Gerät und bereits benutzt.  c) Es war zu teuer.
@@ -446,7 +446,7 @@ Self-check:
 
 ## Übung D1 — Schnelltest: Schreiben & Sprechen + Grammatik-Wiederholung
 
-Fill in the correct word or form. Items 12–15 review grammar from B1/06–B1/12. 15 items.
+Ergänze das richtige Wort oder die richtige Form. Aufgaben 12–15 wiederholen Grammatik aus B1/06–B1/12. 15 Lücken.
 
 1. Ich schreibe Ihnen (1) ______ meines Aufenthalts in Ihrem Hotel. (Bezug-Präposition)
 2. Sehr (2) ______ Damen und Herren, (formelle Anrede — Adjektiv)
@@ -458,14 +458,14 @@ Fill in the correct word or form. Items 12–15 review grammar from B1/06–B1/1
 8. (8) ______ sind die Mieten sehr hoch. (Konnektor für Einschränkung)
 9. (9) ______ denke ich, dass Großstädte wertvoll sind. (Fazit-Konnektor)
 10. Ich bin der (10) ______, dass Großstädte mehr Vorteile bieten. (Meinungsausdruck-Nomen)
-11. (L11) Hiermit (11) ______ ich mich um die Stelle als Koordinatorin. (sich bewerben — ich-Form)
+11. (B1/11) Hiermit (11) ______ ich mich um die Stelle als Koordinatorin. (sich bewerben — ich-Form)
 12. (B1/06) Ich schreibe Ihnen, (12) ______ mich für das Angebot zu bedanken. (um … zu: purpose)
-13. (B1/07) Die Qualität des (13) ______ ließ zu wünschen übrig. (Genitiv: n. Sg. → "Zimmers")
-14. (B1/10) Das Thema ist (14) ______ interessant (15) ______ wichtig. (sowohl … als auch)
+13. (B1/07) Die Qualität des (13) ______ ließ zu wünschen übrig. (Genitiv: das Zimmer)
+14. (B1/10) Das Thema ist (14) ______ interessant (15) ______ wichtig. (both … and)
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
 
-Circle the word that does not belong. 6 groups.
+Kreise das Wort ein, das nicht passt. 6 Gruppen.
 
 1. der Betreff – die Anrede – die Grußformel – der Lärm
 2. Sehr geehrte Damen und Herren, – Mit freundlichen Grüßen – Hallo! – Ich schreibe Ihnen bezüglich …
@@ -476,7 +476,7 @@ Circle the word that does not belong. 6 groups.
 
 ## Übung D3 — Rückblick: B1/07–B1/12 — Grammatik im Kontext
 
-Fill in the correct form. Items 1–3 = B1/07 Genitiv; items 4–6 = B1/09 Höflichkeit; items 7–10 = B1/10–B1/12 Konnektoren und Nominalisierung. 10 items.
+Ergänze die richtige Form. Aufgaben 1–3: B1/07 Genitiv; Aufgaben 4–6: B1/09 Höflichkeit; Aufgaben 7–10: B1/10–B1/12 Konnektoren und Nominalisierung. 10 Aufgaben.
 
 B1/07 — Genitiv:
 1. Die Qualität (1) ______ Schreibens hängt vom Register ab. (das Schreiben — Genitiv n.)
@@ -486,17 +486,17 @@ B1/07 — Genitiv:
 B1/09 — Höflichkeit / Indirekte Fragen:
 4. Direkt: „Was kostet das?" → Höflich: Könnten Sie mir sagen, wie viel das (4) ______?
 5. Direkt: „Wann schicken Sie die Antwort?" → Höflich: Ich würde gerne wissen, wann Sie die Antwort (5) ______.
-6. Könnte ich fragen, ob Sie mit dem Service (6) ______ waren? (zufrieden — Vergangenheit)
+6. Könnte ich fragen, ob Sie mit dem Service zufrieden (6) ______? (sein — Präteritum)
 
 B1/10–B1/12 — Konnektoren & Nominalisierung:
-7. Das Thema ist (7) ______ aktuell als auch wichtig für B1-Lernende. (sowohl)
-8. Er wohnt zwar gerne in der Stadt, (8) ______ die Miete ist zu hoch. (aber)
+7. Das Thema ist (7) ______ aktuell als auch wichtig für B1-Lernende. (both … and)
+8. Er wohnt zwar gerne in der Stadt, (8) ______ die Miete ist zu hoch.
 9. Das (9) ______ von Forenbeiträgen erfordert gute Schreibkenntnisse. (Verb → Nomen: schreiben)
 10. Die (10) ______ von Großstädten: mehr Jobs und Kultur. (B1/12 Nominalisierung: Vorteil — Pl.)
 
 ## Übung D4 — Selbsttest: Schreiben und Sprechen B1 (20 Punkte)
 
-Fill in the correct word or form. 1 point per gap. 20 items.
+Ergänze das richtige Wort oder die richtige Form. 1 Punkt pro Lücke. 20 Aufgaben.
 
 1. Sehr (1) ______ Damen und Herren, (formelle Anrede)
 2. Ich (2) ______ Ihnen bezüglich meines Aufenthalts. (Verb in formeller Bezugsformel)
@@ -504,7 +504,7 @@ Fill in the correct word or form. 1 point per gap. 20 items.
 4. Ich bitte Sie (4) ______ um eine Rückerstattung. (Konnektor: therefore)
 5. Mit freundlichen (5) ______, (Grußformel — Plural)
 6. Ich freue mich auf Ihre (6) ______. (Schlusssatz)
-7. Liebe (7) ______, (informelle Anrede — weiblich)
+7. (7) ______ Anna, (informelle Anrede — weiblich)
 8. Bis (8) ______! (informeller Abschluss)
 9. Ich möchte über das (9) ______ Großstädte sprechen. (Einleitung Präsentation — Nomen)
 10. (10) ______ einen gibt es viele Jobmöglichkeiten. (zweiteiliger Konnektor — Teil 1)
@@ -514,8 +514,8 @@ Fill in the correct word or form. 1 point per gap. 20 items.
 14. Ich bin der (14) ______, dass Großstädte mehr Vorteile bieten. (Meinungsformulierung)
 15. Vielen Dank für Ihre (15) ______. (Abschluss einer Präsentation)
 16. (16) ______ meinen Sie dazu? (Diskussions-Phrase)
-17. Das (17) ______ ist wichtig, weil … (Einleitung Präsentation — das Thema)
-18. Ein (18) ______ ist, dass man in einer Großstadt leicht Arbeit findet. (Vorteil)
+17. Das (17) ______ ist wichtig, weil … (Einleitung Präsentation — topic)
+18. Ein (18) ______ ist, dass man in einer Großstadt leicht Arbeit findet. (Pro-Argument — Nomen)
 19. Meiner (19) ______ nach bieten Großstädte mehr Chancen. (Meinungsformulierung — Genitiv)
 20. Betreff: (20) ______ wegen mangelhafter Zimmerqualität (erster Teil des Betreffs)
 

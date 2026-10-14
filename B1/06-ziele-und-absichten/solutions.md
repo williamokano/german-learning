@@ -52,7 +52,7 @@
 
 ## Übung A5 — Infinitiv mit zu — Schlüsselverben
 
-1. **zu üben**  2. **zu denken**  3. **zu bestehen**  4. **zu bestätigen**  5. **zu fahren**  6. **zu prüfen**  7. **zu machen**  8. **helfen**
+1. **zu üben**  2. **zu denken**  3. **zu bestehen**  4. **zu bestätigen**  5. **zu fahren**  6. **zu prüfen**  7. **zu machen**  8. **zu helfen**
 
 ## Übung A6 — `vorhaben` — Satzklammer ausfüllen
 
@@ -232,7 +232,7 @@ Selbstkorrektur:
 1. ~~obwohl~~ — obwohl is a connector (Konjunktion), not a verb that takes zu-Infinitive.
 2. ~~das Angebot~~ — das Angebot (supply/offer) is not a goal/intention word.
 3. ~~können~~ — können is a modal verb and never takes zu. The others take Infinitiv mit zu.
-4. ~~weil~~ — weil expresses reason (Grund), not purpose (Zweck). um … zu and damit express purpose.
+4. ~~weil~~ — weil expresses reason (Grund), not purpose (Zweck). um … zu, damit and mit dem Ziel, … zu express purpose.
 5. ~~die Meisterschaft~~ — die Meisterschaft (championship) is not an application/job-search document.
 6. ~~zu lernen~~ — zu lernen is a regular verb form (nicht trennbar). The others are separable verbs with zu between prefix and stem.
 
@@ -242,7 +242,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest: `um … zu`, `damit`, Infinitiv mit `zu` (20 Punkte)
 
-1. **zu bestehen**  2. **aufzustehen**  3. **damit**  4. **üben**  5. **zu belegen**  6. **anzufangen**  7. **zu bestehen**  8. **uns**  9. **vor**  10. **damit**  11. **zu kommen**  12. **vergessen**  13. **hört**  14. **die**  15. **haben**  16. **zu schreiben**  17. **zu machen**  18. **kann**  19. **aufzustehen**  20. **einzusetzen**
+1. **zu bestehen**  2. **aufzustehen**  3. **damit**  4. **zu üben**  5. **zu belegen**  6. **anzufangen**  7. **zu bestehen**  8. **uns**  9. **vor**  10. **damit**  11. **zu kommen**  12. **vergessen**  13. **hört**  14. **die**  15. **haben**  16. **zu schreiben**  17. **zu machen**  18. **kann**  19. **aufzustehen**  20. **einzusetzen**
 
 ---
 

@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Lukas arbeitet als Software-Entwickler in der IT-Branche. ( )
 2. Bruno findet, dass KI keine Auswirkung auf seinen Job hat. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Was ändert sich ab nächsten Monat im Büro?  a) Alle monatlichen Berichte werden automatisch erstellt.  b) Die Mitarbeiter bekommen neue Computer.  c) Anna bekommt eine neue Aufgabe in einer anderen Abteilung.
 2. Was muss Anna überprüfen?  a) Die Struktur des CRM-Systems.  b) Alle Zahlen im Bericht vor der Freigabe.  c) Die Vorlagen für die nächste Woche.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the radio news bulletin and fill in the 6 missing words. Three words in the box are not needed.
+Höre die Radionachrichten und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Hier sind die Berliner Nachrichten vom 15. Juni. Das neue Kulturzentrum in Mitte
 > ist heute Morgen offiziell (1) ______ worden. Das Gebäude wurde 2021 (2) ______ und
@@ -49,7 +49,7 @@ Listen to the radio news bulletin and fill in the 6 missing words. Three words i
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the PA announcement at the train station. Then choose the correct answer (a, b, or c).
+Höre die Durchsage am Bahnhof. Wähle dann die richtige Antwort (a, b oder c).
 
 1. Warum wird der ICE 743 nach München verspätet?  a) Die Abfahrt wird um 15 Minuten verschoben.  b) Wegen eines technischen Problems am Zug.  c) Der Zug fällt heute aus.
 2. Auf welchem Gleis wird der ICE 743 bereitgestellt?  a) Auf Gleis 5.  b) Auf Gleis 7.  c) Auf Gleis 3.
@@ -73,7 +73,7 @@ Listen to the PA announcement at the train station. Then choose the correct answ
 
 ## Übung A1 — Passiv Präsens — Konjugationstabelle
 
-Fill in the Passiv Präsens conjugation table for three verbs. The Partizip II is given.
+Ergänze die Konjugationstabelle im Passiv Präsens für drei Verben. Das Partizip II ist angegeben.
 
 | Pronomen | machen → gemacht | bauen → gebaut | prüfen → geprüft |
 |---|---|---|---|
@@ -86,7 +86,7 @@ Fill in the Passiv Präsens conjugation table for three verbs. The Partizip II i
 
 ## Übung A2 — Passiv Präsens — Lücken füllen
 
-Fill each gap with the correct Passiv Präsens form (werden + Partizip II). 8 items.
+Ergänze in jeder Lücke die richtige Form im Passiv Präsens (werden + Partizip II). 8 Sätze.
 
 1. Die Daten (1) ______ täglich gesichert.
 2. Der Bericht (2) ______ von der Software erstellt.
@@ -99,7 +99,7 @@ Fill each gap with the correct Passiv Präsens form (werden + Partizip II). 8 it
 
 ## Übung A3 — Aktiv → Passiv Präsens
 
-Transform the active sentence into the Passiv Präsens. The object becomes the subject. Fill in the passive form. 8 items.
+Setze den Aktivsatz ins Passiv Präsens. Das Objekt wird zum Subjekt. Ergänze die Passivform. 8 Sätze.
 
 1. Die Firma prüft den Bericht. → Der Bericht (1) ______ (von der Firma) geprüft.
 2. Ein Roboter baut das Auto. → Das Auto (2) ______ von einem Roboter gebaut.
@@ -112,7 +112,7 @@ Transform the active sentence into the Passiv Präsens. The object becomes the s
 
 ## Übung A4 — Passiv Präteritum — wurde + Partizip II
 
-Fill each gap with the correct Passiv Präteritum form (wurde/wurden + Partizip II). 6 items.
+Ergänze in jeder Lücke die richtige Form im Passiv Präteritum (wurde/wurden + Partizip II). 6 Sätze.
 
 1. Das Gesetz (1) ______ 2019 geändert.
 2. Die ersten Elektroautos (2) ______ in den 1990er Jahren hergestellt.
@@ -123,7 +123,7 @@ Fill each gap with the correct Passiv Präteritum form (wurde/wurden + Partizip 
 
 ## Übung A5 — Passiv Perfekt — ist … worden
 
-Fill each gap with the correct Passiv Perfekt form (sein + Partizip II + worden). Write the complete verb group. 6 items.
+Ergänze in jeder Lücke die richtige Form im Passiv Perfekt (sein + Partizip II + worden). Schreib die ganze Verbgruppe. 6 Sätze.
 
 1. Das neue Kulturzentrum (1) ______ heute eröffnet worden.
 2. Alle Teammitglieder (2) ______ bereits benachrichtigt worden.
@@ -134,7 +134,7 @@ Fill each gap with the correct Passiv Perfekt form (sein + Partizip II + worden)
 
 ## Übung A6 — Passiv mit Modalverben
 
-Fill each gap with the correct Modal + Passiv construction. The modal verb is given. 6 items.
+Ergänze in jeder Lücke die richtige Konstruktion Modalverb + Passiv. Das Modalverb ist angegeben. 6 Sätze.
 
 1. Der Bericht (1) ______ vorher überprüft werden. (müssen)
 2. Die Daten (2) ______ automatisch gespeichert werden. (können)
@@ -145,7 +145,7 @@ Fill each gap with the correct Modal + Passiv construction. The modal verb is gi
 
 ## Übung A7 — Gemischte Passivformen — richtigen Zeitform wählen
 
-Choose the correct passive form from context (Präsens / Präteritum / Perfekt / Modal). 6 items.
+Wähle die richtige Passivform aus dem Kontext (Präsens / Präteritum / Perfekt / Modalverb). 6 Sätze.
 
 1. Jeden Tag [Präsens — current ongoing process] die Produkte von Robotern zusammengesetzt.
 → Die Produkte (1) ______ von Robotern zusammengesetzt.
@@ -162,7 +162,7 @@ Choose the correct passive form from context (Präsens / Präteritum / Perfekt /
 
 ## Übung A8 — Satzbau — Passiv-Sätze rekonstruieren
 
-Put the words in the correct order to build a passive sentence.
+Bring die Wörter in die richtige Reihenfolge, sodass ein Passivsatz entsteht.
 
 1. Auto – von – wird – Robotern – das – gebaut
 2. nicht – informiert – die – Mitarbeiter – wurden
@@ -171,7 +171,7 @@ Put the words in the correct order to build a passive sentence.
 
 ## Übung A9 — Passivformen überprüfen — richtig oder falsch?
 
-Is the passive form correct? Decide: Richtig (R) oder Falsch (F)?
+Ist die Passivform richtig? Entscheide: Richtig (R) oder Falsch (F)?
 
 1. Das Buch ist geschrieben geworden. ( )
 2. Die Daten werden täglich gesichert. ( )
@@ -181,7 +181,7 @@ Is the passive form correct? Decide: Richtig (R) oder Falsch (F)?
 
 ## Übung A10 — Agentphrase — von + Dativ
 
-Add the agent phrase (von + Dativ) to each passive sentence. Use the cue in brackets. 6 items.
+Ergänze in jedem Passivsatz den Urheber (von + Dativ). Benutze das Stichwort in Klammern. 6 Sätze.
 
 1. Das Auto wird ___ gebaut. (die Roboter)
 → Das Auto wird (1) ______ gebaut.
@@ -202,7 +202,7 @@ Add the agent phrase (von + Dativ) to each passive sentence. Use the cue in brac
 
 ## Übung B1 — Dialoglücken: Büroprozess beschreiben
 
-Complete the dialogue about a new office process. Fill in the correct passive form.
+Ergänze den Dialog über einen neuen Ablauf im Büro. Setze die richtige Passivform ein.
 
 Frau Weber erklärt den neuen Prozess:
 1. Ab nächsten Monat (1) ______ alle Berichte automatisch erstellt. (Passiv Präsens)
@@ -214,7 +214,7 @@ Frau Weber erklärt den neuen Prozess:
 
 ## Übung B2 — Finde den Fehler — Passivformen korrigieren
 
-Each sentence contains one error. Write the corrected sentence (or just the corrected word/phrase).
+Jeder Satz enthält einen Fehler. Schreib den Satz richtig (oder nur das korrigierte Wort / die korrigierte Wortgruppe).
 
 1. Das Buch ist geschrieben geworden. → (1) ______
 2. Die Mitarbeiter wurden informiert geworden. → (2) ______
@@ -225,7 +225,7 @@ Each sentence contains one error. Write the corrected sentence (or just the corr
 
 ## Übung B3 — Richtige Passivstruktur wählen
 
-Choose the correct passive structure (a, b, or c).
+Wähle die richtige Passivstruktur (a, b oder c).
 
 1. Das Gesetz ___ letztes Jahr ___.  a) ist … geändert worden  b) wurde … geändert  c) wird … geändert worden
 2. Die Genehmigung ___ beantragt ___.  a) muss … werden  b) muss … sein  c) muss … geworden
@@ -236,7 +236,7 @@ Choose the correct passive structure (a, b, or c).
 
 ## Übung B4 — Aktiv- und Passivsätze verbinden
 
-Match each active sentence (left) with its correct passive equivalent (right).
+Verbinde jeden Aktivsatz (links) mit dem passenden Passivsatz (rechts).
 
 | Links | | Rechts |
 |---|---|---|
@@ -248,7 +248,7 @@ Match each active sentence (left) with its correct passive equivalent (right).
 
 ## Übung B5 — Passiv-Wortstellung: Sätze ordnen
 
-Put the words in the correct order to form grammatically correct passive sentences.
+Bring die Wörter in die richtige Reihenfolge, sodass grammatisch richtige Passivsätze entstehen.
 
 1. werden – Ländern – Rohstoffe – Die – importiert – mehreren – aus
 2. einem – worden – ist – kleinen – Das – Team – entwickelt – Programm – von
@@ -257,7 +257,7 @@ Put the words in the correct order to form grammatically correct passive sentenc
 
 ## Übung B6 — Nachrichtensprache — Passivsätze vervollständigen
 
-Complete each news-style passive sentence with the correct form. 6 items.
+Ergänze jeden Satz im Nachrichtenstil mit der richtigen Passivform. 6 Sätze.
 
 1. Das neue Gesetz (1) ______ gestern vom Parlament verabschiedet. (Passiv Prät.)
 2. Die Eröffnung (2) ______ wegen schlechten Wetters verschoben worden. (Passiv Perf.)
@@ -268,7 +268,7 @@ Complete each news-style passive sentence with the correct form. 6 items.
 
 ## Übung B7 — Modal + Passiv — Transformationen
 
-Transform each active modal sentence into a passive one. Fill in the full passive clause. 6 items.
+Setze jeden Aktivsatz mit Modalverb ins Passiv. Ergänze den ganzen Passivsatz. 6 Sätze.
 
 1. Man muss den Fehler sofort melden.
 → Der Fehler (1) ______ sofort gemeldet werden.
@@ -285,7 +285,7 @@ Transform each active modal sentence into a passive one. Fill in the full passiv
 
 ## Übung B8 — Leseverstehen: Lesetext — Passivformen verstehen
 
-Answer the questions about the Lesetext (Wie ein Elektroauto entsteht).
+Beantworte die Fragen zum Lesetext (Wie ein Elektroauto entsteht).
 
 1. Woher werden Lithium und Kobalt importiert?  a) Aus mehreren Ländern.  b) Aus Deutschland.  c) Aus China.
 2. Von wem werden die Karosserieteile zusammengesetzt?  a) Von spezialisierten Technikern.  b) Von Robotern.  c) Von Ingenieuren.
@@ -317,7 +317,7 @@ Self-check:
 
 ## Übung C1 — Lückentext: Wie ein Elektroauto entsteht
 
-Read the text and fill each gap with ONE word.
+Lies den Text und ergänze in jeder Lücke EIN Wort.
 
 Elektroautos (1) ______ heute in hochmodernen Fabriken hergestellt. Der Prozess
 beginnt mit der Beschaffung der Rohstoffe: Lithium und Kobalt (2) ______ aus mehreren
@@ -334,7 +334,7 @@ Test unterzogen.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct word or phrase to fill each gap (a, b, or c).
+Wähle für jede Lücke das richtige Wort oder die richtige Wendung (a, b oder c).
 
 1. Das Gebäude ___ letztes Jahr von einem internationalen Architekturbüro entworfen.  a) wird  b) wurde  c) ist
 2. Alle Mitarbeiter ___ bereits über den neuen Prozess informiert worden.  a) haben  b) wurden  c) sind
@@ -345,7 +345,7 @@ Choose the correct word or phrase to fill each gap (a, b, or c).
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Fill the 10 gaps. Five words are not needed.
+Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht.
 
 > In einer modernen Fabrik (1) ______ die Produkte von Maschinen hergestellt. Früher
 > (2) ______ alles von Hand gemacht. Heute (3) ______ viele Prozesse automatisiert. Die
@@ -360,7 +360,7 @@ Five words are not needed.
 
 ## Übung C4a — Leseverstehen Teil 1: Wie ein Elektroauto entsteht (Richtig/Falsch)
 
-Read the Lesetext and decide: Richtig (R) oder Falsch (F)?
+Lies den Lesetext und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Lithium und Kobalt werden nur aus einem Land importiert. ( )
 2. Die Karosserieteile werden von Robotern zusammengesetzt. ( )
@@ -370,7 +370,7 @@ Read the Lesetext and decide: Richtig (R) oder Falsch (F)?
 
 ## Übung C4b — Leseverstehen Teil 2: Regeln im Museum
 
-Read the following text and choose the correct answer (a, b, or c).
+Lies den Text und wähle die richtige Antwort (a, b oder c).
 
 **Besucherinformation — Stadtmuseum Berlin**
 
@@ -407,22 +407,22 @@ Self-check:
 
 ## Übung D1 — Schnelltest — 15 Lücken
 
-Fill each gap with the correct form. Items marked (B1/03) review Konjunktiv II.
+Ergänze in jeder Lücke die richtige Form. Aufgaben mit (B1/03) wiederholen den Konjunktiv II.
 
 1. Das Auto (1) ______ von Robotern gebaut. (Passiv Präsens)
-2. Der Fehler (2) ______ sofort gemeldet werden. (muss + Passiv)
+2. Der Fehler (2) ______ sofort gemeldet werden. (Modalverb: necessity + Passiv)
 3. Die Schulung (3) ______ letzte Woche durchgeführt worden. (Passiv Perf.)
 4. Das Gesetz (4) ______ 2021 geändert. (Passiv Prät.)
 5. Alle Berichte (5) ______ automatisch erstellt. (Passiv Präsens)
-6. Die Genehmigung (6) ______ beantragt werden. (muss + Passiv)
+6. Die Genehmigung (6) ______ beantragt werden. (Modalverb: necessity + Passiv)
 7. Das System (7) ______ von einem kleinen Team entwickelt worden. (Passiv Perf.)
 8. Früher (8) ______ alles manuell gemacht. (Passiv Prät.)
-9. Das Gebäude (9) ______ nicht betreten werden. (darf + Passiv)
+9. Das Gebäude (9) ______ nicht betreten werden. (Modalverb: prohibition + Passiv)
 10. Die Rohstoffe (10) ______ in spezialisierten Anlagen verarbeitet. (Passiv Präsens)
 11. (11) ______ ich mehr Zeit, würde ich jeden Tag Deutsch üben. (B1/03 — Konjunktiv II)
-12. Er (12) ______ gern in Berlin wohnen, aber er lebt in München. (B1/03 — würde)
-13. Wenn wir ein Auto (13) ______, könnten wir in den Urlaub fahren. (B1/03 — hätten)
-14. Das (14) ______ nicht passieren! (Modal Prät. — kein Passiv: passieren ist intransitiv)
+12. Er (12) ______ gern in Berlin wohnen, aber er lebt in München. (B1/03 — werden, Konjunktiv II)
+13. Wenn wir ein Auto (13) ______, könnten wir in den Urlaub fahren. (B1/03 — haben, Konjunktiv II)
+14. Das (14) ______ nicht passieren! (dürfen, Präteritum — kein Passiv: passieren ist intransitiv)
 15. Die Ergebnisse (15) ______ veröffentlicht worden. (Passiv Perf.)
 
 ## Übung D2 — Wortschatz-Check: Welches Wort passt nicht?
@@ -436,42 +436,42 @@ Fill each gap with the correct form. Items marked (B1/03) review Konjunktiv II.
 
 ## Übung D3 — Rückblick — B1/01 (Präteritum) und B1/02 (Konnektoren)
 
-Fill in the correct form. Items are labelled with their source lesson.
+Ergänze die richtige Form. Bei jeder Aufgabe steht die Lektion, aus der sie stammt.
 
 (B1/01) 1. Ich (1) ______ gestern sehr müde. (sein — Präteritum)
 (B1/01) 2. Als Kind (2) ______ Anna in Jaroslawl. (wohnen — Präteritum)
-(B1/01) 3. Das Unternehmen (3) ______ 2010 gegründet. (werden — Plusquamperfekt → hatte … worden? No: Präteritum: wurde)
+(B1/01) 3. Das Unternehmen (3) ______ 2010 gegründet. (gründen — Passiv Präteritum)
 (B1/01) 4. Bruno (4) ______ früher oft ins Kino. (gehen — Präteritum)
 (B1/01) 5. Die Firma (5) ______ einen neuen Direktor. (bekommen — Präteritum)
 (B1/02) 6. Er bleibt in Berlin, (6) ______ er eigentlich nach Prag möchte. (concessive connector)
-(B1/02) 7. Die Miete ist hoch. (7) ______ wohnt Pavel dort. (consequence connector — trotzdem)
-(B1/02) 8. Das Projekt ist teuer. (8) ______ macht das Team weiter. (Trotzdem / concession)
-(B1/02) 9. Er hat kein Auto. (9) ______ nimmt er die U-Bahn. (Deshalb / consequence)
-(B1/02) 10. (10) ______ das Wetter schlecht ist, gehen wir in den Park. (Obwohl / concessive)
+(B1/02) 7. Die Miete ist hoch. (7) ______ wohnt Pavel dort. (concession — V2)
+(B1/02) 8. Das Projekt ist teuer. (8) ______ macht das Team weiter. (concession — V2)
+(B1/02) 9. Er hat kein Auto. (9) ______ nimmt er die U-Bahn. (consequence — V2)
+(B1/02) 10. (10) ______ das Wetter schlecht ist, gehen wir in den Park. (concession — verb at the end)
 
 ## Übung D4 — Selbsttest — /20 Punkte
 
-Fill in all 20 gaps. Then check your answers in solutions.md. Score yourself!
+Ergänze alle 20 Lücken. Kontrolliere dann deine Antworten in solutions.md. Bewerte dich selbst!
 
 1. Das Auto (1) ______ heute von Robotern gebaut. (Passiv Präsens)
 2. Die Daten (2) ______ täglich gesichert. (Passiv Präsens)
 3. Der Bericht (3) ______ 2022 erstellt. (Passiv Prät.)
 4. Das Gesetz (4) ______ letztes Jahr geändert worden. (Passiv Perf.)
-5. Alle Fehler (5) ______ sofort gemeldet werden. (müssen + Passiv)
-6. Das Gebäude (6) ______ nicht betreten werden. (dürfen + Passiv)
+5. Alle Fehler (5) ______ sofort gemeldet werden. (Modalverb: necessity + Passiv)
+6. Das Gebäude (6) ______ nicht betreten werden. (Modalverb: prohibition + Passiv)
 7. Die Qualität (7) ______ von Technikern geprüft. (Passiv Präsens)
 8. Das Programm (8) ______ von einem kleinen Team entwickelt worden. (Passiv Perf.)
 9. Die Rohstoffe (9) ______ aus verschiedenen Ländern importiert. (Passiv Präsens)
 10. Früher (10) ______ alles manuell eingegeben. (Passiv Prät.)
-11. Der Plan (11) ______ bis Montag überarbeitet werden. (soll + Passiv)
+11. Der Plan (11) ______ bis Montag überarbeitet werden. (Modalverb: instruction / plan + Passiv)
 12. Das neue System (12) ______ letzte Woche eingeführt worden. (Passiv Perf.)
 13. Die Mitarbeiter (13) ______ nicht rechtzeitig informiert. (Passiv Prät.)
-14. Eine Genehmigung (14) ______ beantragt werden. (muss + Passiv)
+14. Eine Genehmigung (14) ______ beantragt werden. (Modalverb: necessity + Passiv)
 15. Die Nachrichten (15) ______ täglich veröffentlicht. (Passiv Präsens)
 16. Das Gebäude ist 2019 von einem Architekten entworfen (16) ______. (worden / geworden)
 17. Die Eröffnung (17) ______ wegen Bauarbeiten verschoben worden. (Passiv Perf. — sein-form)
-18. Alle Berichte (18) ______ von der Abteilungsleiterin genehmigt werden. (müssen + Passiv)
-19. In diesem Raum (19) ______ nicht geraucht werden. (darf + Passiv)
+18. Alle Berichte (18) ______ von der Abteilungsleiterin genehmigt werden. (Modalverb: necessity + Passiv)
+19. In diesem Raum (19) ______ nicht geraucht werden. (Modalverb: prohibition + Passiv)
 20. Das Elektroauto (20) ______ in einer modernen Fabrik hergestellt. (Passiv Präsens)
 
 _16+ / 20 → proceed to B1/05. Below 16: redo Block A1–A6 tomorrow, then retest D4. Focus especially on A5 (Passiv Perfekt) and A6 (Modal + Passiv) if you scored below 12._

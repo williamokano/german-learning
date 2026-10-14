@@ -17,7 +17,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (Pavel übt die Präsentation)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Pavels Präsentationsthema ist Großstädte."
         answer: true
@@ -40,7 +41,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (Annas Beschwerdemail)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "An wen hat Anna die Beschwerdemail geschrieben?"
         options:
@@ -76,7 +78,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext: Mias Workshop-Tipps"
     audio: hoertext.mp3
-    instructions: "Listen to the Hörtext (Mia gibt Ratschläge fürs Schreiben) and fill in the 5 missing words. Three words in the box are not needed."
+    instructions: "Höre den Hörtext (Mia gibt Ratschläge fürs Schreiben) und ergänze die 5 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen to the Hörtext (Mia gibt Ratschläge fürs Schreiben) and fill in the 5 missing words. Three words in the box are not needed."
     text: |
       Mia bereitet einen {1} über formelles Schreiben vor. Sie erklärt, dass eine
       formelle E-Mail immer einen {2} haben muss. Die Anrede lautet
@@ -96,7 +99,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Sprachkurs-Anmeldung"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to the telephone message. Then choose the correct answer (a, b, or c)."
+    instructions: "Höre die Telefonnachricht. Wähle dann die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the telephone message. Then choose the correct answer (a, b, or c)."
     transcript: "Hallo, hier spricht Jana vom Goethe-Institut Berlin — ich rufe wegen des B1-Schreibkurses an. Die Anmeldung ist noch bis Freitag, den 20. Juni möglich. Der Kurs beginnt am Montag, den 23. Juni, und findet dienstags und donnerstags von 18 bis 20 Uhr statt. Die Kursgebühr beträgt 180 Euro. Bitte bring beim ersten Termin deinen Ausweis und einen Stift mit. Bei Fragen ruf mich bitte zurück unter 030 259 06-0. Wir freuen uns auf dich! Tschüss!"
     items:
       - q: "Bis wann kann man sich für den Kurs anmelden?"
@@ -134,7 +138,8 @@ exercises:
     block: A
     type: categorize
     title: "Formell oder informell? — Register zuordnen"
-    instructions: "Sort each phrase into the correct register category."
+    instructions: "Ordne jede Formulierung dem richtigen Register zu."
+    instructionsEn: "Sort each phrase into the correct register category."
     buckets:
       - { key: formell, label: "Formell (E-Mail / Brief)" }
       - { key: informell, label: "Informell (Nachricht / Chat)" }
@@ -154,7 +159,8 @@ exercises:
     block: A
     type: matching
     title: "E-Mail-Teile zuordnen"
-    instructions: "Match each part of a formal email (1–6) with its correct example (a–g). One example is not needed."
+    instructions: "Verbinde jeden Teil einer formellen E-Mail (1–6) mit dem passenden Beispiel (a–g). Ein Beispiel wird nicht gebraucht."
+    instructionsEn: "Match each part of a formal email (1–6) with its correct example (a–g). One example is not needed."
     left:
       - { key: "1", text: "Betreff" }
       - { key: "2", text: "Anrede" }
@@ -183,7 +189,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Formelle Phrasen vervollständigen"
-    instructions: "Complete each formal phrase with one word. 8 items."
+    instructions: "Ergänze jede formelle Wendung mit einem Wort. 8 Aufgaben."
+    instructionsEn: "Complete each formal phrase with one word. 8 items."
     text: |
       1. Sehr {1} Damen und Herren,
       2. Ich {2} Ihnen bezüglich meiner Bestellung vom 5. Juni.
@@ -208,7 +215,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Register-Transformation: informell → formell"
-    instructions: "Rewrite each informal phrase in formal register. 6 items."
+    instructions: "Formuliere jede informelle Wendung im formellen Register. 6 Aufgaben."
+    instructionsEn: "Rewrite each informal phrase in formal register. 6 items."
     text: |
       1. Hallo! → {1} Damen und Herren,
       2. Ich find das echt nicht gut. → Der Service {2} leider zu wünschen übrig.
@@ -229,7 +237,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Informelle Phrasen — Lücken füllen"
-    instructions: "Complete each informal message phrase. 6 items."
+    instructions: "Ergänze die Wendungen aus einer informellen Nachricht. 6 Aufgaben."
+    instructionsEn: "Complete each informal message phrase. 6 items."
     text: |
       1. {1} Bruno,
       2. Danke für deine letzte {2}!
@@ -249,7 +258,8 @@ exercises:
     block: A
     type: order
     title: "Formelle E-Mail in die richtige Reihenfolge bringen"
-    instructions: "A formal complaint email has been scrambled. Put the five parts in the correct order (drag or number 1–5)."
+    instructions: "Die Teile einer formellen Beschwerde-E-Mail sind durcheinander. Bring die fünf Teile in die richtige Reihenfolge (ziehen oder 1–5 nummerieren)."
+    instructionsEn: "A formal complaint email has been scrambled. Put the five parts in the correct order (drag or number 1–5)."
     items:
       - tiles:
           - "Mit freundlichen Grüßen, Anna Kowalski"
@@ -264,7 +274,8 @@ exercises:
     block: A
     type: true-false
     title: "E-Mail-Regeln: Richtig oder Falsch?"
-    instructions: "Is each statement about formal email conventions correct? Answer R (richtig) oder F (falsch)."
+    instructions: "Ist die Aussage über formelle E-Mails richtig? Antworte mit R (richtig) oder F (falsch)."
+    instructionsEn: "Is each statement about formal email conventions correct? Answer R (richtig) oder F (falsch)."
     items:
       - q: "In einer formellen E-Mail schreibt man immer einen Betreff."
         answer: true
@@ -289,7 +300,8 @@ exercises:
     block: A
     type: single-choice
     title: "Anrede wählen: Welche Anrede ist korrekt?"
-    instructions: "Choose the correct salutation for each situation (a, b, or c). 5 items."
+    instructions: "Wähle für jede Situation die richtige Anrede (a, b oder c). 5 Aufgaben."
+    instructionsEn: "Choose the correct salutation for each situation (a, b, or c). 5 items."
     items:
       - q: "Du schreibst eine formelle Beschwerde an ein Hotel, kennst aber keinen Namen."
         options:
@@ -332,7 +344,8 @@ exercises:
     type: gap-bank
     skill: cloze-in-context
     title: "Formelle Beschwerdemail: Lücken füllen"
-    instructions: "Fill the 8 gaps in the formal complaint email. Three words in the box are not needed."
+    instructions: "Ergänze die 8 Lücken in der formellen Beschwerde-E-Mail. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Fill the 8 gaps in the formal complaint email. Three words in the box are not needed."
     bankCase: upper
     bankSort: true
     text: |
@@ -365,7 +378,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Konnektoren im Schreiben und Sprechen einsetzen"
-    instructions: "Fill in the correct connector from the box. Each connector is used once. (zum einen, zum anderen, außerdem, allerdings, insgesamt, abschließend) 6 items."
+    instructions: "Ergänze den richtigen Konnektor aus dem Kasten. Jeder Konnektor passt nur einmal. (zum einen, zum anderen, außerdem, allerdings, insgesamt, abschließend) 6 Sätze."
+    instructionsEn: "Fill in the correct connector from the box. Each connector is used once. (zum einen, zum anderen, außerdem, allerdings, insgesamt, abschließend) 6 items."
     text: |
       1. {1} gibt es in einer Großstadt viele Jobmöglichkeiten.
       2. {2} ist das Kulturangebot sehr reich.
@@ -387,7 +401,8 @@ exercises:
     layout: list
     skill: redemittel
     title: "Präsentation-Redemittel einsetzen (Sprechen B1 Teil 2)"
-    instructions: "Complete each presentation phrase with the correct word or phrase. 8 items."
+    instructions: "Ergänze jede Präsentationswendung mit dem richtigen Wort oder Ausdruck. 8 Aufgaben."
+    instructionsEn: "Complete each presentation phrase with the correct word or phrase. 8 items."
     text: |
       1. Ich möchte über das {1} Großstädte sprechen.
       2. Das Thema ist wichtig, {2} viele Menschen heute in Großstädten leben.
@@ -414,7 +429,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Forenbeitrag ergänzen: Schreib-Konnektoren"
-    instructions: "Fill the 8 blanks in this forum post with the correct word or phrase."
+    instructions: "Ergänze die 8 Lücken in diesem Forumsbeitrag mit dem richtigen Wort oder Ausdruck."
+    instructionsEn: "Fill the 8 blanks in this forum post with the correct word or phrase."
     text: |
       {1} Meinung nach bieten Großstädte mehr Vorteile als Nachteile.
       {2} einen gibt es dort viele Jobmöglichkeiten; {3} anderen ist das
@@ -436,7 +452,8 @@ exercises:
     block: B
     type: single-choice
     title: "Finde den Fehler — Register und Struktur"
-    instructions: "Each sentence contains one error. Choose the correct version (a, b, or c)."
+    instructions: "Jeder Satz enthält einen Fehler. Wähle die richtige Version (a, b oder c)."
+    instructionsEn: "Each sentence contains one error. Choose the correct version (a, b, or c)."
     items:
       - q: 'Fehler: „Ich bin der Überzeugung, das Großstädte besser sind."'
         options:
@@ -478,7 +495,8 @@ exercises:
     block: B
     type: categorize
     title: "Konnektoren nach Funktion sortieren"
-    instructions: "Sort each connector into the correct function category."
+    instructions: "Ordne jeden Konnektor der richtigen Funktion zu."
+    instructionsEn: "Sort each connector into the correct function category."
     buckets:
       - { key: addition, label: "Addition / Ergänzung" }
       - { key: contrast, label: "Kontrast / Einschränkung" }
@@ -498,7 +516,8 @@ exercises:
     block: B
     type: order
     title: "Forenbeitrag in die richtige Reihenfolge bringen"
-    instructions: "A forum post has been scrambled. Put the five parts in the correct order (1 = first, 5 = last)."
+    instructions: "Die Teile eines Forumsbeitrags sind durcheinander. Bring die fünf Teile in die richtige Reihenfolge (1 = zuerst, 5 = zuletzt)."
+    instructionsEn: "A forum post has been scrambled. Put the five parts in the correct order (1 = first, 5 = last)."
     items:
       - tiles:
           - "Was meinen Sie dazu? Ich würde mich über Ihre Erfahrungen freuen."
@@ -513,7 +532,8 @@ exercises:
     block: B
     type: matching
     title: "Präsentation-Phasen und Redemittel verbinden"
-    instructions: "Match each presentation phase (1–5) with the correct Redemittel (a–f). One Redemittel is not needed."
+    instructions: "Verbinde jede Phase der Präsentation (1–5) mit den passenden Redemitteln (a–f). Ein Redemittel wird nicht gebraucht."
+    instructionsEn: "Match each presentation phase (1–5) with the correct Redemittel (a–f). One Redemittel is not needed."
     left:
       - { key: "1", text: "Einleitung — Thema nennen" }
       - { key: "2", text: "Einleitung — Wichtigkeit begründen" }
@@ -554,6 +574,7 @@ exercises:
       > Was meinen Sie? Haben Sie ähnliche Erfahrungen gemacht?
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the forum post. True (R) or false (F)?"
     items:
       - q: "Der Autor ist von Berlin nach Brünn gezogen."
         answer: false
@@ -576,7 +597,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Präsentation planen: Phasen mit Redemitteln verbinden"
-    instructions: "You are planning a B1 presentation on the topic 'Homeoffice — Vorteile und Nachteile'. Fill in each gap with the correct connector or phrase. 8 items."
+    instructions: "Du planst eine B1-Präsentation zum Thema „Homeoffice — Vorteile und Nachteile“. Ergänze jede Lücke mit dem richtigen Konnektor oder Ausdruck. 8 Aufgaben."
+    instructionsEn: "You are planning a B1 presentation on the topic 'Homeoffice — Vorteile und Nachteile'. Fill in each gap with the correct connector or phrase. 8 items."
     text: |
       Ich möchte über das {1} Homeoffice sprechen. Das Thema ist {2}, weil
       immer mehr Menschen von zu Hause arbeiten. {3} einen bietet Homeoffice mehr
@@ -614,6 +636,7 @@ exercises:
       > Was meinen Sie? Haben Sie ähnliche Erfahrungen gemacht?
 
       Wähle a, b oder c.
+    instructionsEn: "Read the forum post. Choose a, b, or c."
     items:
       - q: "Was ist das Hauptargument des Autors?"
         options:
@@ -682,7 +705,8 @@ exercises:
     block: C
     type: gap-text
     title: "Lückentext: Forenbeitrag über Großstädte"
-    instructions: "Fill each gap with one word. 10 gaps."
+    instructions: "Ergänze in jeder Lücke ein Wort. 10 Lücken."
+    instructionsEn: "Fill each gap with one word. 10 gaps."
     text: |
       Pavel hat sich vor drei Jahren entschieden, von Brünn nach Berlin zu {1}.
       Er schreibt in einem Forenbeitrag, dass Großstädte seiner {2} nach mehr
@@ -710,7 +734,8 @@ exercises:
     block: C
     type: single-choice
     title: "Sprachbausteine Teil 1"
-    instructions: "Choose the correct option (a, b, or c) for each gap."
+    instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Ich schreibe Ihnen ______ meines Aufenthalts in Ihrem Hotel."
         options:
@@ -759,7 +784,8 @@ exercises:
     block: C
     type: gap-bank
     title: "Sprachbausteine Teil 2 (Wortbank)"
-    instructions: "Fill the 10 gaps. Five words are not needed."
+    instructions: "Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht."
+    instructionsEn: "Fill the 10 gaps. Five words are not needed."
     bankCase: upper
     bankSort: true
     text: |
@@ -805,6 +831,7 @@ exercises:
       > Was meinen Sie? Haben Sie ähnliche Erfahrungen gemacht?
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Der Autor ist seit fünf Jahren in Berlin."
         answer: false
@@ -826,7 +853,8 @@ exercises:
     block: C
     type: single-choice
     title: "Leseverstehen: Neue Beschwerdemail (neuer Text)"
-    instructions: "Read the formal complaint email below. Choose the correct answer (a, b, or c)."
+    instructions: "Lies die formelle Beschwerde-E-Mail unten. Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Read the formal complaint email below. Choose the correct answer (a, b, or c)."
     text: |
       **Betreff: Beschwerde wegen fehlerhafter Lieferung — Bestellnummer 7842-B**
 
@@ -921,7 +949,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Schnelltest: Schreiben & Sprechen + Grammatik-Wiederholung"
-    instructions: "Fill in the correct word or form. Items 12–15 review grammar from B1/06–B1/12. 15 items."
+    instructions: "Ergänze das richtige Wort oder die richtige Form. Aufgaben 12–15 wiederholen Grammatik aus B1/06–B1/12. 15 Lücken."
+    instructionsEn: "Fill in the correct word or form. Items 12–15 review grammar from B1/06–B1/12. 15 items."
     text: |
       1. Ich schreibe Ihnen {1} meines Aufenthalts in Ihrem Hotel. (Bezug-Präposition)
       2. Sehr {2} Damen und Herren, (formelle Anrede — Adjektiv)
@@ -933,10 +962,10 @@ exercises:
       8. {8} sind die Mieten sehr hoch. (Konnektor für Einschränkung)
       9. {9} denke ich, dass Großstädte wertvoll sind. (Fazit-Konnektor)
       10. Ich bin der {10}, dass Großstädte mehr Vorteile bieten. (Meinungsausdruck-Nomen)
-      11. (L11) Hiermit {11} ich mich um die Stelle als Koordinatorin. (sich bewerben — ich-Form)
+      11. (B1/11) Hiermit {11} ich mich um die Stelle als Koordinatorin. (sich bewerben — ich-Form)
       12. (B1/06) Ich schreibe Ihnen, {12} mich für das Angebot zu bedanken. (um … zu: purpose)
-      13. (B1/07) Die Qualität des {13} ließ zu wünschen übrig. (Genitiv: n. Sg. → "Zimmers")
-      14. (B1/10) Das Thema ist {14} interessant {15} wichtig. (sowohl … als auch)
+      13. (B1/07) Die Qualität des {13} ließ zu wünschen übrig. (Genitiv: das Zimmer)
+      14. (B1/10) Das Thema ist {14} interessant {15} wichtig. (both … and)
     answers:
       "1": bezüglich
       "2": geehrte
@@ -953,12 +982,32 @@ exercises:
       "13": Zimmers
       "14": sowohl
       "15": als auch
+    alts:
+      "4":
+        - word: "deshalb"
+          note: "daher, deshalb and deswegen are interchangeable here (darum would clash with „bitten um“)."
+        - word: "deswegen"
+          note: "daher, deshalb and deswegen are interchangeable here (darum would clash with „bitten um“)."
+      "8":
+        - word: "Jedoch"
+          note: "allerdings and jedoch both introduce a restriction with the verb in position 2."
+      "9":
+        - word: "Abschließend"
+          note: "Insgesamt, Abschließend and Zusammenfassend all introduce a conclusion."
+        - word: "Zusammenfassend"
+          note: "Insgesamt, Abschließend and Zusammenfassend all introduce a conclusion."
+      "10":
+        - word: "Meinung"
+          note: "`der Überzeugung`, `der Meinung` and `der Ansicht` are all standard opinion phrases."
+        - word: "Ansicht"
+          note: "`der Überzeugung`, `der Meinung` and `der Ansicht` are all standard opinion phrases."
 
   - id: D2
     block: D
     type: odd-one-out
     title: "Wortschatz-Check: Das passt nicht!"
-    instructions: "Circle the word that does not belong. 6 groups."
+    instructions: "Kreise das Wort ein, das nicht passt. 6 Gruppen."
+    instructionsEn: "Circle the word that does not belong. 6 groups."
     groups:
       - items: ["der Betreff", "die Anrede", "die Grußformel", "der Lärm"]
         odd: 3
@@ -984,7 +1033,8 @@ exercises:
     type: gap-text
     layout: list
     title: "Rückblick: B1/07–B1/12 — Grammatik im Kontext"
-    instructions: "Fill in the correct form. Items 1–3 = B1/07 Genitiv; items 4–6 = B1/09 Höflichkeit; items 7–10 = B1/10–B1/12 Konnektoren und Nominalisierung. 10 items."
+    instructions: "Ergänze die richtige Form. Aufgaben 1–3: B1/07 Genitiv; Aufgaben 4–6: B1/09 Höflichkeit; Aufgaben 7–10: B1/10–B1/12 Konnektoren und Nominalisierung. 10 Aufgaben."
+    instructionsEn: "Fill in the correct form. Items 1–3 = B1/07 Genitiv; items 4–6 = B1/09 Höflichkeit; items 7–10 = B1/10–B1/12 Konnektoren und Nominalisierung. 10 items."
     text: |
       B1/07 — Genitiv:
       1. Die Qualität {1} Schreibens hängt vom Register ab. (das Schreiben — Genitiv n.)
@@ -994,11 +1044,11 @@ exercises:
       B1/09 — Höflichkeit / Indirekte Fragen:
       4. Direkt: „Was kostet das?" → Höflich: Könnten Sie mir sagen, wie viel das {4}?
       5. Direkt: „Wann schicken Sie die Antwort?" → Höflich: Ich würde gerne wissen, wann Sie die Antwort {5}.
-      6. Könnte ich fragen, ob Sie mit dem Service {6} waren? (zufrieden — Vergangenheit)
+      6. Könnte ich fragen, ob Sie mit dem Service zufrieden {6}? (sein — Präteritum)
 
       B1/10–B1/12 — Konnektoren & Nominalisierung:
-      7. Das Thema ist {7} aktuell als auch wichtig für B1-Lernende. (sowohl)
-      8. Er wohnt zwar gerne in der Stadt, {8} die Miete ist zu hoch. (aber)
+      7. Das Thema ist {7} aktuell als auch wichtig für B1-Lernende. (both … and)
+      8. Er wohnt zwar gerne in der Stadt, {8} die Miete ist zu hoch.
       9. Das {9} von Forenbeiträgen erfordert gute Schreibkenntnisse. (Verb → Nomen: schreiben)
       10. Die {10} von Großstädten: mehr Jobs und Kultur. (B1/12 Nominalisierung: Vorteil — Pl.)
     answers:
@@ -1007,18 +1057,23 @@ exercises:
       "3": des
       "4": kostet
       "5": schicken
-      "6": zufrieden
+      "6": waren
       "7": sowohl
       "8": aber
       "9": Schreiben
       "10": Vorteile
+    alts:
+      "8":
+        - word: "doch"
+          note: "`zwar …, doch …` is also correct."
 
   - id: D4
     block: D
     type: gap-text
     layout: list
     title: "Selbsttest: Schreiben und Sprechen B1 (20 Punkte)"
-    instructions: "Fill in the correct word or form. 1 point per gap. 20 items."
+    instructions: "Ergänze das richtige Wort oder die richtige Form. 1 Punkt pro Lücke. 20 Aufgaben."
+    instructionsEn: "Fill in the correct word or form. 1 point per gap. 20 items."
     notes: "16+ / 20 → proceed to B1/14 (Prüfungstraining). Below 16: redo Block A1–A6 tomorrow, then retest D4."
     text: |
       1. Sehr {1} Damen und Herren, (formelle Anrede)
@@ -1027,7 +1082,7 @@ exercises:
       4. Ich bitte Sie {4} um eine Rückerstattung. (Konnektor: therefore)
       5. Mit freundlichen {5}, (Grußformel — Plural)
       6. Ich freue mich auf Ihre {6}. (Schlusssatz)
-      7. Liebe {7}, (informelle Anrede — weiblich)
+      7. {7} Anna, (informelle Anrede — weiblich)
       8. Bis {8}! (informeller Abschluss)
       9. Ich möchte über das {9} Großstädte sprechen. (Einleitung Präsentation — Nomen)
       10. {10} einen gibt es viele Jobmöglichkeiten. (zweiteiliger Konnektor — Teil 1)
@@ -1037,8 +1092,8 @@ exercises:
       14. Ich bin der {14}, dass Großstädte mehr Vorteile bieten. (Meinungsformulierung)
       15. Vielen Dank für Ihre {15}. (Abschluss einer Präsentation)
       16. {16} meinen Sie dazu? (Diskussions-Phrase)
-      17. Das {17} ist wichtig, weil … (Einleitung Präsentation — das Thema)
-      18. Ein {18} ist, dass man in einer Großstadt leicht Arbeit findet. (Vorteil)
+      17. Das {17} ist wichtig, weil … (Einleitung Präsentation — topic)
+      18. Ein {18} ist, dass man in einer Großstadt leicht Arbeit findet. (Pro-Argument — Nomen)
       19. Meiner {19} nach bieten Großstädte mehr Chancen. (Meinungsformulierung — Genitiv)
       20. Betreff: {20} wegen mangelhafter Zimmerqualität (erster Teil des Betreffs)
     answers:
@@ -1048,7 +1103,7 @@ exercises:
       "4": daher
       "5": Grüßen
       "6": Antwort
-      "7": Anna
+      "7": Liebe
       "8": bald
       "9": Thema
       "10": Zum
@@ -1062,3 +1117,39 @@ exercises:
       "18": Vorteil
       "19": Meinung
       "20": Beschwerde
+    alts:
+      "4":
+        - word: "deshalb"
+          note: "daher, deshalb and deswegen are interchangeable here (darum would clash with „bitten um“)."
+        - word: "deswegen"
+          note: "daher, deshalb and deswegen are interchangeable here (darum would clash with „bitten um“)."
+      "8":
+        - word: "später"
+          note: "Bis später! / Bis dann! are equally common informal closings."
+        - word: "dann"
+          note: "Bis später! / Bis dann! are equally common informal closings."
+      "11":
+        - word: "Zudem"
+          note: "Zudem is a synonym of außerdem."
+      "12":
+        - word: "Jedoch"
+          note: "allerdings and jedoch both introduce a restriction with the verb in position 2."
+      "13":
+        - word: "Abschließend"
+          note: "Insgesamt, Abschließend and Zusammenfassend all introduce a conclusion."
+        - word: "Zusammenfassend"
+          note: "Insgesamt, Abschließend and Zusammenfassend all introduce a conclusion."
+      "14":
+        - word: "Meinung"
+          note: "`der Überzeugung`, `der Meinung` and `der Ansicht` are all standard opinion phrases."
+        - word: "Ansicht"
+          note: "`der Überzeugung`, `der Meinung` and `der Ansicht` are all standard opinion phrases."
+      "18":
+        - word: "Pluspunkt"
+          note: "Pluspunkt is a synonym of Vorteil."
+      "19":
+        - word: "Ansicht"
+          note: "`Meiner Ansicht nach` is equally correct."
+      "20":
+        - word: "Reklamation"
+          note: "Reklamation is a synonym of Beschwerde in a complaint subject line."

@@ -47,7 +47,8 @@ exercises:
       >
       > **Pavel:** Vielen Dank, alle zusammen. Ohne euch wäre ich heute nicht so ruhig gewesen.
 
-      Decide: Richtig (R) oder Falsch (F)?
+      Entscheide: Richtig (R) oder Falsch (F)?
+    instructionsEn: "Decide: true (R) or false (F)?"
     items:
       - q: "Pavel sagt, der Hörteil war am Anfang etwas schwierig."
         answer: true
@@ -73,7 +74,8 @@ exercises:
     type: gap-bank
     title: 'Hörtext-Lückentext: Durchsage im Goethe-Institut'
     audio: hoertext.mp3
-    instructions: 'Listen to the announcement (Durchsage) and fill in the 6 missing words. Three words in the box are not needed.'
+    instructions: "Sie hören eine Durchsage. Ergänzen Sie die 6 fehlenden Wörter. Drei Wörter im Kasten passen nicht."
+    instructionsEn: 'Listen to the announcement (Durchsage) and fill in the 6 missing words. Three words in the box are not needed.'
     text: |
       Achtung, eine {1} für alle Prüfungsteilnehmerinnen und
       Prüfungsteilnehmer des Goethe-Zertifikats B1. Bitte begeben Sie sich
@@ -104,7 +106,8 @@ exercises:
     type: single-choice
     title: 'Kurze Ansage: Anmeldung Goethe B1 — Prüfungsinformation'
     audio: transcript_ansage1.mp3
-    instructions: 'Listen to the telephone message from the Goethe-Institut. Then choose the correct answer (a, b, or c).'
+    instructions: "Sie hören eine Telefonnachricht vom Goethe-Institut. Wählen Sie dann die richtige Antwort (a, b oder c)."
+    instructionsEn: 'Listen to the telephone message from the Goethe-Institut. Then choose the correct answer (a, b, or c).'
     transcript: "Guten Tag, hier ist das Goethe-Institut Berlin, Abteilung Prüfungen. Ich rufe an, um Sie über Ihren Prüfungstermin zu informieren. Ihre Goethe B1-Prüfung findet am Samstag, dem 28. Juni 2026, um 9 Uhr statt. Bitte erscheinen Sie mindestens 15 Minuten vorher. Bringen Sie bitte Ihren Personalausweis oder Reisepass mit — andere Dokumente werden nicht akzeptiert. Elektronische Geräte müssen ausgeschaltet bleiben. Bei Fragen erreichen Sie uns unter 030 25906-500. Bitte rufen Sie uns zurück, wenn Sie Ihre Anmeldebestätigung noch nicht erhalten haben. Wir wünschen Ihnen viel Erfolg!"
     items:
       - q: "Wann findet die Prüfung statt?"
@@ -171,7 +174,8 @@ exercises:
       >
       > *Wir freuen uns auf Ihre Bewerbung!*
 
-      Richtig (R) oder Falsch (F)? Items not mentioned in the ad count as Falsch (F).
+      Richtig (R) oder Falsch (F)? Was nicht in der Anzeige steht, ist Falsch (F).
+    instructionsEn: "True (R) or false (F)? Anything not mentioned in the ad counts as false (F)."
     items:
       - q: "Die Stelle bei TechStart GmbH ist in Berlin-Mitte."
         answer: true
@@ -196,7 +200,8 @@ exercises:
     block: A
     type: single-choice
     title: 'Lesen Teil 1 — Stellenanzeige: Leseverstehen'
-    instructions: 'Choose the correct answer (a, b, or c) based on Text 1 (Stellenanzeige).'
+    instructions: "Lesen Sie Text 1 (Stellenanzeige). Wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: 'Choose the correct answer (a, b, or c) based on Text 1 (Stellenanzeige).'
     items:
       - q: "Welche Sprachkenntnisse werden für die Stelle mindestens verlangt?"
         options:
@@ -236,6 +241,7 @@ exercises:
       > Kritik gibt es allerdings an der Dauer der Ergebnisbekanntgabe: Derzeit dauert es vier bis sechs Wochen, bis Kandidatinnen und Kandidaten ihr offizielles Zeugnis erhalten. Mehrere Sprachschulen fordern deshalb schnellere digitale Verfahren. Das Goethe-Institut hat versprochen, die Bearbeitungszeit ab 2027 auf zwei Wochen zu verkürzen.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
     items:
       - q: "Im Jahr 2025 haben mehr als 200.000 Menschen weltweit ein Deutschzertifikat abgelegt."
         answer: true
@@ -257,7 +263,8 @@ exercises:
     block: A
     type: single-choice
     title: 'Lesen Teil 2 — Zeitungsartikel: Leseverstehen'
-    instructions: 'Choose the correct answer (a, b, or c) based on Text 2 (Zeitungsartikel).'
+    instructions: "Lesen Sie Text 2 (Zeitungsartikel). Wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: 'Choose the correct answer (a, b, or c) based on Text 2 (Zeitungsartikel).'
     items:
       - q: "Was sagt Dr. Hilde Bauer über das B1-Zertifikat?"
         options:
@@ -302,6 +309,7 @@ exercises:
       > Anna
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "True (R) or false (F)?"
     items:
       - q: "Anna hat diese E-Mail an Bruno geschrieben."
         answer: false
@@ -323,7 +331,8 @@ exercises:
     block: A
     type: single-choice
     title: 'Lesen Teil 3 — Persönliche E-Mail: Leseverstehen'
-    instructions: 'Choose the correct answer (a, b, or c) based on Text 3 (E-Mail).'
+    instructions: "Lesen Sie Text 3 (E-Mail). Wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: 'Choose the correct answer (a, b, or c) based on Text 3 (E-Mail).'
     items:
       - q: "Wie klingt Pavel laut Anna bei dem Telefongespräch?"
         options:
@@ -351,7 +360,8 @@ exercises:
     block: A
     type: gap-text
     title: 'Lesen — Wortschatz erschließen (Zeitungsartikel)'
-    instructions: 'Find the correct word from the article (Text 2) for each definition. 5 items.'
+    instructions: "Suchen Sie im Artikel (Text 2) das passende Wort zu jeder Definition. 5 Aufgaben."
+    instructionsEn: 'Find the correct word from the article (Text 2) for each definition. 5 items.'
     layout: list
     text: |
       1. Das Ergebnis einer Prüfung = das {1}
@@ -370,7 +380,8 @@ exercises:
     block: A
     type: matching
     title: 'Lesen — Drei Texte und ihre Textsorte'
-    instructions: 'Match each text (1–3) to its text type (a–d). One text type is not needed.'
+    instructions: "Ordnen Sie jedem Text (1–3) die passende Textsorte (a–d) zu. Eine Textsorte passt nicht."
+    instructionsEn: 'Match each text (1–3) to its text type (a–d). One text type is not needed.'
     left:
       - { key: '1', text: 'Text 1 (lesson.md §7, erster Text)' }
       - { key: '2', text: 'Text 2 (lesson.md §7, zweiter Text)' }
@@ -392,7 +403,8 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/01 Präteritum'
-    instructions: 'Fill in the Präteritum form of each verb in brackets. 4 items, 6 gaps.'
+    instructions: "Ergänzen Sie die Präteritumform der Verben in Klammern. 4 Sätze, 6 Lücken."
+    instructionsEn: 'Fill in the Präteritum form of each verb in brackets. 4 items, 6 gaps.'
     text: |
       1. Als Pavel ein Kind {1}, {2} er oft in den Park. (sein / gehen)
       2. Die Lehrerin {3} die Aufgaben an die Tafel. (schreiben)
@@ -410,7 +422,8 @@ exercises:
     block: B
     type: single-choice
     title: 'Sprachbausteine — B1/02 obwohl / trotzdem'
-    instructions: 'Choose the correct connector (a, b, or c) for each gap. 4 items.'
+    instructions: "Wählen Sie für jede Lücke den richtigen Konnektor (a, b oder c). 4 Sätze."
+    instructionsEn: 'Choose the correct connector (a, b, or c) for each gap. 4 items.'
     items:
       - q: "Pavel war nervös, ______ er sich gut vorbereitet hatte."
         options:
@@ -446,7 +459,8 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/03 Konjunktiv II'
-    instructions: 'Fill in the Konjunktiv II form (würde/hätte/wäre). 3 items, 6 gaps.'
+    instructions: "Ergänzen Sie die Form im Konjunktiv II (würde/hätte/wäre). 3 Sätze, 6 Lücken."
+    instructionsEn: 'Fill in the Konjunktiv II form (würde/hätte/wäre). 3 items, 6 gaps.'
     text: |
       1. Wenn ich mehr Zeit {1}, {2} ich jeden Tag Vokabeln lernen. (haben / lernen)
       2. Wenn Pavel nicht so nervös {3}, {4} er noch besser sprechen. (sein / können)
@@ -464,7 +478,8 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/04 Passiv'
-    instructions: 'Rewrite each active sentence in Passiv Präsens or Präteritum as indicated. 6 gaps.'
+    instructions: "Formen Sie jeden Aktivsatz ins Passiv um – im Präsens oder Präteritum, wie angegeben. 6 Lücken."
+    instructionsEn: 'Rewrite each active sentence in Passiv Präsens or Präteritum as indicated. 6 gaps.'
     text: |
       1. Man spielt den Hörtext zweimal ab. (Passiv Präsens) → Der Hörtext {1} zweimal {2}. (abspielen)
       2. Die Lehrerin korrigierte die Aufgaben. (Passiv Präteritum) → Die Aufgaben {3} von der Lehrerin {4}. (korrigieren)
@@ -482,7 +497,8 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/05 Relativsätze'
-    instructions: 'Fill in the correct relative pronoun (der/die/das/dem/den/dessen/deren). 5 items.'
+    instructions: "Ergänzen Sie das richtige Relativpronomen (der/die/das/dem/den/dessen/deren). 5 Sätze."
+    instructionsEn: 'Fill in the correct relative pronoun (der/die/das/dem/den/dessen/deren). 5 items.'
     text: |
       1. Der Prüfer, {1} Pavel sehr sympathisch fand, sprach langsam und deutlich.
       2. Das Zertifikat, {2} Pavel heute bekommen hat, ist international anerkannt.
@@ -501,7 +517,8 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/06 um … zu / damit'
-    instructions: 'Fill in "um", "zu", or "damit" in each gap. 5 items, 9 gaps.'
+    instructions: "Ergänzen Sie in jeder Lücke „um“, „zu“ oder „damit“. 5 Sätze, 9 Lücken."
+    instructionsEn: 'Fill in "um", "zu", or "damit" in each gap. 5 items, 9 gaps.'
     text: |
       1. Pavel lernt Deutsch, {1} in Deutschland arbeiten {2} können.
       2. Der Lehrer spricht langsamer, {3} alle Lernenden ihn verstehen.
@@ -522,7 +539,8 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/07 Genitiv'
-    instructions: 'Fill in the correct Genitiv form (article or preposition). 6 items.'
+    instructions: "Ergänzen Sie die richtige Genitivform (Artikel oder Präposition). 6 Sätze."
+    instructionsEn: 'Fill in the correct Genitiv form (article or preposition). 6 items.'
     text: |
       1. Die Ergebnisse {1} Prüfung kommen nach vier Wochen. (die Prüfung — f.)
       2. Wegen {2} hohen Kosten bereiten sich viele online vor. (die Kosten — Pl.)
@@ -543,13 +561,14 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/08 Pronominaladverbien'
-    instructions: 'Fill in the correct Pronominaladverb (da(r)- + Präposition) or question form (wo(r)- + Präposition). 5 items.'
+    instructions: "Ergänzen Sie das richtige Pronominaladverb (da(r)- + Präposition) oder Fragewort (wo(r)- + Präposition). 5 Sätze."
+    instructionsEn: 'Fill in the correct Pronominaladverb (da(r)- + Präposition) or question form (wo(r)- + Präposition). 5 items.'
     text: |
       1. Die Prüfung ist bestanden — ich freue mich sehr {1}. (über → da(r)- + über)
       2. Pavel denkt oft an die Zeit zurück, als er anfing. → Er denkt oft {2} zurück. (an → da(r)- + an)
-      3. {3} sprechen Anna und Mia gerade? — Über die Prüfungsergebnisse. (worüber)
-      4. Das Zeugnis? Ich warte schon lange {4}. (darauf)
-      5. {5} ist Pavel zufrieden? — Mit dem Ergebnis. (womit)
+      3. {3} sprechen Anna und Mia gerade? — Über die Prüfungsergebnisse. (Frage mit „über“)
+      4. Das Zeugnis? Ich warte schon lange {4}. (warten auf → Pronominaladverb)
+      5. {5} ist Pavel zufrieden? — Mit dem Ergebnis. (Frage mit „mit“)
     answers:
       '1': darüber
       '2': daran
@@ -562,7 +581,8 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/09 Indirekte Fragen'
-    instructions: 'Rewrite each direct question as an indirect question. Fill in the missing word(s). 5 items.'
+    instructions: "Formen Sie jede direkte Frage in eine indirekte Frage um. Ergänzen Sie das fehlende Wort / die fehlenden Wörter. 5 Sätze."
+    instructionsEn: 'Rewrite each direct question as an indirect question. Fill in the missing word(s). 5 items.'
     text: |
       1. Wann fängt die Prüfung an? → Können Sie mir sagen, {1} die Prüfung {2}?
       2. Wo ist der Prüfungssaal? → Ich würde gerne wissen, {3} der Prüfungssaal {4}.
@@ -584,7 +604,8 @@ exercises:
     block: B
     type: single-choice
     title: 'Sprachbausteine — B1/10 Zweiteilige Konnektoren'
-    instructions: 'Choose the correct pair of connectors (a, b, or c). 5 items.'
+    instructions: "Wählen Sie das richtige Konnektorenpaar (a, b oder c). 5 Sätze."
+    instructionsEn: 'Choose the correct pair of connectors (a, b, or c). 5 items.'
     items:
       - q: "Das Zertifikat ist ______ nützlich für die Arbeit ______ für das Studium."
         options:
@@ -626,7 +647,8 @@ exercises:
     block: B
     type: categorize
     title: 'Sprachbausteine — B1/11 Bewerbungssprache: Formell oder informell?'
-    instructions: 'Sort each phrase into the correct register for a job application.'
+    instructions: "Ordnen Sie jede Formulierung dem passenden Register für eine Bewerbung zu."
+    instructionsEn: 'Sort each phrase into the correct register for a job application.'
     buckets:
       - { key: formell, label: 'Formell (Bewerbung / Anschreiben)' }
       - { key: informell, label: 'Informell (zu vermeiden in der Bewerbung)' }
@@ -645,7 +667,8 @@ exercises:
     type: gap-text
     layout: list
     title: 'Sprachbausteine — B1/12 Nominalisierung'
-    instructions: 'Convert the verb or adjective in brackets into a noun. 6 items.'
+    instructions: "Bilden Sie aus dem Verb oder Adjektiv in Klammern ein Nomen. 6 Sätze."
+    instructionsEn: 'Convert the verb or adjective in brackets into a noun. 6 items.'
     text: |
       1. {1} von Fremdsprachen ist in der Arbeitswelt wichtig. (lernen → das …)
       2. Die {2} bei TechStart ist sehr attraktiv. (sich bewerben → die …)
@@ -665,7 +688,8 @@ exercises:
     block: B
     type: matching
     title: 'Sprachbausteine — B1/13 Schreiben-Redemittel: Teile einer formellen E-Mail'
-    instructions: 'Match each email part (1–6) with the correct example (a–g). One example is not needed.'
+    instructions: "Ordnen Sie jedem Teil der E-Mail (1–6) das passende Beispiel (a–g) zu. Ein Beispiel passt nicht."
+    instructionsEn: 'Match each email part (1–6) with the correct example (a–g). One example is not needed.'
     left:
       - { key: '1', text: 'Betreff' }
       - { key: '2', text: 'Anrede' }
@@ -695,7 +719,8 @@ exercises:
     block: C
     type: gap-bank
     title: 'Schreiben Teil 1 — Formelle E-Mail: Wortbank (Goethe-Format)'
-    instructions: 'Fill the 10 gaps in this formal email. Five words in the box are not needed.'
+    instructions: "Ergänzen Sie die 10 Lücken in dieser formellen E-Mail. Fünf Wörter im Kasten passen nicht."
+    instructionsEn: 'Fill the 10 gaps in this formal email. Five words in the box are not needed.'
     bankCase: upper
     bankSort: true
     text: |
@@ -747,7 +772,8 @@ exercises:
     block: C
     type: categorize
     title: 'Schreiben — Formell oder informell? Phrasen zuordnen'
-    instructions: 'Sort each phrase into the correct register category. 12 items.'
+    instructions: "Ordnen Sie jede Formulierung dem richtigen Register zu. 12 Formulierungen."
+    instructionsEn: 'Sort each phrase into the correct register category. 12 items.'
     buckets:
       - { key: formell, label: 'Formell (E-Mail / Brief)' }
       - { key: informell, label: 'Informell (Nachricht / Forenbeitrag)' }
@@ -769,7 +795,8 @@ exercises:
     block: C
     type: gap-bank
     title: 'Schreiben Teil 2 — Forenbeitrag: Wortbank (Goethe-Format)'
-    instructions: 'Fill the 10 gaps in this forum post reply. Five words are not needed.'
+    instructions: "Ergänzen Sie die 10 Lücken in dieser Antwort auf einen Forumsbeitrag. Fünf Wörter passen nicht."
+    instructionsEn: 'Fill the 10 gaps in this forum post reply. Five words are not needed.'
     bankCase: upper
     bankSort: true
     text: |
@@ -814,7 +841,8 @@ exercises:
     block: C
     type: true-false
     title: 'Schreiben — Muster-Anschreiben lesen (Richtig / Falsch)'
-    instructions: 'Read the model cover letter below and decide: Richtig (R) oder Falsch (F)?'
+    instructions: "Lesen Sie das Muster-Bewerbungsschreiben unten. Richtig (R) oder Falsch (F)?"
+    instructionsEn: 'Read the model cover letter below and decide: Richtig (R) oder Falsch (F)?'
     text: |
       **Betreff: Bewerbung um die Stelle als Marketingassistentin — Anzeige vom 14. Juni 2026**
 
@@ -855,7 +883,8 @@ exercises:
     block: C
     type: single-choice
     title: 'Schreiben — Muster-Anschreiben: Detailverstehen'
-    instructions: 'Read the model cover letter (C4a) again. Choose the correct answer (a, b, or c).'
+    instructions: "Lesen Sie das Muster-Bewerbungsschreiben (C4a) noch einmal. Wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: 'Read the model cover letter (C4a) again. Choose the correct answer (a, b, or c).'
     items:
       - q: "Wofür war Anna in ihrer bisherigen Tätigkeit zuständig?"
         options:
@@ -920,23 +949,24 @@ exercises:
     type: gap-text
     layout: list
     title: 'Schnelltest: Eine Lücke pro B1-Grammatikthema (15 Punkte)'
-    instructions: >
+    instructions: "Ergänze das richtige Wort oder die richtige Form. Jede Aufgabe prüft ein B1-Grammatikthema – die Angabe in Klammern zeigt dir, welche Lektion du wiederholen solltest, wenn du einen Fehler machst. 1 Punkt pro Lücke. 15 Lücken."
+    instructionsEn: >
       Fill in the correct word or form. Each item tests one B1 grammar topic —
       the label in brackets tells you which lesson to revisit if you get it wrong.
       1 point per gap. 15 items.
     text: |
       1. (B1/01) Als Pavel ein Kind {1}, spielte er oft Fußball. (sein — Präteritum)
       2. (B1/01) Er {2} lange auf das Ergebnis. (warten — Präteritum)
-      3. (B1/02) Die Prüfung war schwer, {3} Pavel bestand sie. (trotzdem — Adverb)
-      4. (B1/02) Er war nervös, {4} er gut vorbereitet war. (obwohl — Konj.)
+      3. (B1/02) Die Prüfung war schwer, {3} bestand Pavel sie. (nevertheless — Adverb)
+      4. (B1/02) Er war nervös, {4} er gut vorbereitet war. (although — Konj.)
       5. (B1/03) Wenn ich mehr Zeit {5}, würde ich öfter üben. (haben — Konj. II)
       6. (B1/04) Der Text {6} zweimal {7}. (vorlesen — Passiv Präteritum)
-      7. (B1/05) Das ist das Zertifikat, {8} ich monatelang gelernt habe. (worauf? → für das)
-      8. (B1/06) Pavel lernt Deutsch, {9} in Berlin arbeiten zu können. (purpose → um)
+      7. (B1/05) Das ist das Zertifikat, {8} ich monatelang gelernt habe. (lernen für → Präposition + Relativpronomen)
+      8. (B1/06) Pavel lernt Deutsch, {9} in Berlin arbeiten zu können. (purpose)
       9. (B1/07) Wegen {10} Prüfung konnte er nicht kommen. (die Prüfung — Genitiv f.)
-      10. (B1/08) Ich freue mich {11}. (auf das Ergebnis → Pronominaladverb: darauf)
-      11. (B1/09) Könnten Sie mir sagen, {12} die Prüfung anfängt? (wann — indirekte Frage)
-      12. (B1/10) Das Zertifikat ist {13} für die Arbeit {14} für das Studium nützlich. (sowohl … als auch)
+      10. (B1/08) Ich freue mich {11}. (auf das Ergebnis → Pronominaladverb)
+      11. (B1/09) Könnten Sie mir sagen, {12} die Prüfung anfängt? (when — indirekte Frage)
+      12. (B1/10) Das Zertifikat ist {13} für die Arbeit {14} für das Studium nützlich. (both … and)
       13. (B1/11) Ich {15} mich hiermit um die Stelle als Assistentin. (sich bewerben — ich-Form)
     answers:
       '1': war
@@ -954,12 +984,20 @@ exercises:
       '13': sowohl
       '14': als auch
       '15': bewerbe
+    alts:
+      "3":
+        - word: "dennoch"
+          note: "dennoch is the formal synonym of trotzdem."
+      "8":
+        - word: "wofür"
+          note: "wofür is a correct (more informal) alternative to `für das`."
 
   - id: D2
     block: D
     type: odd-one-out
     title: 'Wortschatz-Check: Das passt nicht! (B1-Wiederholung)'
-    instructions: 'Circle the word that does not belong in each group. 6 groups.'
+    instructions: "Kreise in jeder Gruppe das Wort ein, das nicht passt. 6 Gruppen."
+    instructionsEn: 'Circle the word that does not belong in each group. 6 groups.'
     groups:
       - items:
           - 'das Zertifikat'
@@ -1008,7 +1046,8 @@ exercises:
     block: D
     type: matching
     title: 'Rückblick: B1-Konnektoren und ihre Funktion (8 Paare)'
-    instructions: 'Match each connector (1–8) with its function (a–i). One function is not needed.'
+    instructions: "Verbinde jeden Konnektor (1–8) mit seiner Funktion (a–i). Eine Funktion wird nicht gebraucht."
+    instructionsEn: 'Match each connector (1–8) with its function (a–i). One function is not needed.'
     left:
       - { key: '1', text: 'obwohl' }
       - { key: '2', text: 'trotzdem' }
@@ -1043,7 +1082,8 @@ exercises:
     type: gap-text
     layout: list
     title: 'Selbsttest: Gesamtwiederholung B1 (20 Punkte)'
-    instructions: 'Fill in the correct word or form. 1 point per gap. 20 items. Covers all B1 grammar topics.'
+    instructions: "Ergänze das richtige Wort oder die richtige Form. 1 Punkt pro Lücke. 20 Lücken. Alle B1-Grammatikthemen."
+    instructionsEn: 'Fill in the correct word or form. 1 point per gap. 20 items. Covers all B1 grammar topics.'
     notes: >
       16+ / 20 → Herzlichen Glückwunsch! Bereit für B2. Below 16: check which
       items you missed; the B1 lesson label in D1 tells you which lesson to
@@ -1052,17 +1092,17 @@ exercises:
       1. (B1/01) Als Pavel jung {1}, wohnte er in Brünn. (sein — Prät.)
       2. (B1/01) Die Lehrerin {2} die Aufgaben an die Tafel. (schreiben — Prät.)
       3. (B1/02) Er hatte keine Vorbereitung, {3} bestand er die Prüfung. (nevertheless)
-      4. (B1/02) Er war müde, {4} er weiterlernte. (obwohl — Subj.)
-      5. (B1/03) Wenn Anna mehr Freizeit {5}, {6} sie öfter Deutsch lesen. (haben / würde + lesen)
+      4. (B1/02) Er war müde, {4} er weiterlernte. (although — Subj.)
+      5. (B1/03) Wenn Anna mehr Freizeit {5}, {6} sie öfter Deutsch lesen. (haben / werden — KII)
       6. (B1/04) Die Prüfungsergebnisse {7} online {8}. (veröffentlichen — Passiv Präsens)
-      7. (B1/05) Das ist das Goethe-Institut, {9} Pavel seine Prüfung abgelegt hat. (wo — relative adverb)
-      8. (B1/06) Tomáš lernt Deutsch, {10} Geschäftsgespräche führen zu können. (um)
+      7. (B1/05) Das ist das Goethe-Institut, {9} Pavel seine Prüfung abgelegt hat. (relative adverb of place)
+      8. (B1/06) Tomáš lernt Deutsch, {10} Geschäftsgespräche führen zu können. (purpose)
       9. (B1/07) Wegen {11} langen Wartezeit schrieb Anna eine Beschwerde. (die Wartezeit — Gen. f.)
       10. (B1/07) Die Qualität {12} Unterrichts ließ zu wünschen übrig. (der Unterricht — Gen. m.)
-      11. (B1/08) Pavel denkt oft {13} zurück. (an die schönen Momente in Berlin → daran)
-      12. (B1/09) Ich möchte wissen, {14} Pavel die Prüfung bestanden hat. (ob)
-      13. (B1/09) Könnten Sie mir erklären, wo der Prüfungssaal {15}? (ist)
-      14. (B1/10) Das Zertifikat ist {16} für den Beruf {17} für das Studium wichtig. (sowohl … als auch)
+      11. (B1/08) Pavel denkt oft {13} zurück. (an die schönen Momente in Berlin → Pronominaladverb)
+      12. (B1/09) Ich möchte wissen, {14} Pavel die Prüfung bestanden hat. (yes/no → indirekte Frage)
+      13. (B1/09) Könnten Sie mir erklären, wo der Prüfungssaal {15}? (sein)
+      14. (B1/10) Das Zertifikat ist {16} für den Beruf {17} für das Studium wichtig. (both … and)
       15. (B1/11) Hiermit {18} ich mich um die Stelle als Assistentin. (sich bewerben — ich)
       16. (B1/11) Ich {19} über ausgeprägte Kommunikationsfähigkeit. (verfügen — ich)
       17. (B1/12) Das {20} von Fremdsprachen öffnet viele Türen. (lernen → Nominalisierung)
@@ -1087,3 +1127,10 @@ exercises:
       '18': bewerbe
       '19': verfüge
       '20': Lernen
+    alts:
+      "3":
+        - word: "dennoch"
+          note: "dennoch is the formal synonym of trotzdem."
+      "9":
+        - word: "an dem"
+          note: "`an dem` (Präposition + Relativpronomen) is also correct."

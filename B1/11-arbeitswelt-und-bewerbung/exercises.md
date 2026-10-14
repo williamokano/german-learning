@@ -10,7 +10,7 @@ Blocks: H Hören → A Basistraining → B Vertiefung → C Prüfungstraining �
 
 🎧 **Audio:** [dialog1_a.mp3](audio/dialog1_a.mp3)
 
-Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
+Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?
 
 1. Bruno arbeitet zurzeit als IT-Consultant in Berlin. ( )
 2. Pavel hat sich nie für einen Job beworben. ( )
@@ -22,7 +22,7 @@ Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?
 
 🎧 **Audio:** [dialog1_b.mp3](audio/dialog1_b.mp3)
 
-Listen to Dialog B and choose the correct answer (a, b, or c).
+Höre Dialog B und wähle die richtige Antwort (a, b oder c).
 
 1. Wofür bewirbt sich Anna?  a) Für eine Stelle als Projektkoordinatorin.  b) Für eine Stelle als Marketing-Managerin.  c) Für eine Stelle als IT-Consultant.
 2. Was war Annas letzte Stelle?  a) Projektkoordinatorin.  b) Junior Marketing-Managerin.  c) Abteilungsleiterin.
@@ -33,7 +33,7 @@ Listen to Dialog B and choose the correct answer (a, b, or c).
 
 🎧 **Audio:** [hoertext.mp3](audio/hoertext.mp3)
 
-Listen to the Hörtext (Bruno prepares his CV) and fill in the 6 missing words. Three words in the box are not needed.
+Höre den Hörtext (Bruno bereitet seinen Lebenslauf vor) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Bruno sitzt am Schreibtisch und bereitet seinen (1) ______ vor. Er hat seinen
 > Bachelor-Abschluss in Informatik an der Universidade Federal de Santa Catarina
@@ -49,7 +49,7 @@ Listen to the Hörtext (Bruno prepares his CV) and fill in the 6 missing words. 
 
 🎧 **Audio:** [transcript_ansage1.mp3](audio/transcript_ansage1.mp3)
 
-Listen to the voicemail left by Frau Weber. Then choose the correct answer (a, b, or c).
+Höre die Nachricht von Frau Weber auf der Mailbox. Wähle dann die richtige Antwort (a, b oder c).
 
 1. Welche Stelle wird gesucht?  a) Eine Projektkoordinatorin.  b) Eine IT-Consultant-Stelle.  c) Eine Abteilungsleiterin.
 2. Ab wann ist die Stelle zu besetzen?  a) Ab dem 1. August.  b) Ab dem 1. Oktober.  c) Ab dem 1. November.
@@ -73,7 +73,7 @@ Listen to the voicemail left by Frau Weber. Then choose the correct answer (a, b
 
 ## Übung A1 — Anschreiben-Phrasen: Lückentext
 
-Complete each formal phrase from the cover letter with the missing word. 8 items.
+Ergänze in jeder formellen Wendung aus dem Anschreiben das fehlende Wort. 8 Sätze.
 
 1. (1) ______ bewerbe ich mich um die Stelle als Projektkoordinatorin.
 2. Ihr Stellenangebot hat mich sehr (2) ______, weil Ihr Unternehmen innovativ ist.
@@ -86,7 +86,7 @@ Complete each formal phrase from the cover letter with the missing word. 8 items
 
 ## Übung A2 — Passiv im Stellenangebot (B1/04 — Wiederholung)
 
-Rewrite each active sentence in the Passiv Präsens. 6 items.
+Setze jeden Aktivsatz ins Passiv Präsens. 6 Sätze.
 
 1. Das Unternehmen sucht eine Projektkoordinatorin.
    → Eine Projektkoordinatorin (1) ______.
@@ -103,7 +103,7 @@ Rewrite each active sentence in the Passiv Präsens. 6 items.
 
 ## Übung A3 — Relativsätze im Stellenangebot (B1/05 — Wiederholung)
 
-Fill in the correct Relativpronomen (der/die/das/den/dem/denen + Präposition if needed). 8 items.
+Ergänze das richtige Relativpronomen (der/die/das/den/dem/denen, wenn nötig mit Präposition). 8 Sätze.
 
 1. Wir suchen eine Person, (1) ______ motiviert und teamfähig ist.
 2. Das ist ein Job, (2) ______ gut bezahlt ist.
@@ -116,7 +116,7 @@ Fill in the correct Relativpronomen (der/die/das/den/dem/denen + Präposition if
 
 ## Übung A4 — Konjunktiv II im Vorstellungsgespräch (B1/03 — Wiederholung)
 
-Rewrite each blunt statement as a polite Konjunktiv II phrase. 6 items.
+Formuliere jede direkte Aussage als höfliche Wendung im Konjunktiv II um. 6 Sätze.
 
 1. Ich will 60.000 Euro.
    → Meiner Vorstellung nach (1) ______ das Gehalt bei 60.000 Euro.
@@ -133,7 +133,7 @@ Rewrite each blunt statement as a polite Konjunktiv II phrase. 6 items.
 
 ## Übung A5 — Genitiv im Anschreiben (B1/07 — Wiederholung)
 
-Fill in the correct Genitiv form (article + noun OR Genitivpräposition phrase). 8 items.
+Ergänze die richtige Genitivform (Artikel + Nomen ODER Ausdruck mit Genitivpräposition). 8 Sätze.
 
 1. Der Schlüssel _____ Erfolgs liegt in der Kommunikation.
    → Der Schlüssel (1) ______ Erfolgs liegt in der Kommunikation.
@@ -154,7 +154,7 @@ Fill in the correct Genitiv form (article + noun OR Genitivpräposition phrase).
 
 ## Übung A6 — `um … zu` im Anschreiben (B1/06 — Wiederholung)
 
-Complete each cover-letter sentence with `um … zu + Infinitiv`. 6 items.
+Ergänze jeden Satz aus dem Anschreiben mit `um … zu + Infinitiv`. 6 Sätze.
 
 1. Ich bewerbe mich, um meine Erfahrungen (1) ______. (einsetzen)
 2. Ich habe Projektmanagement studiert, um Teams besser (2) ______. (koordinieren können)
@@ -165,7 +165,7 @@ Complete each cover-letter sentence with `um … zu + Infinitiv`. 6 items.
 
 ## Übung A7 — Lebenslauf-Abschnitte zuordnen
 
-Sort each item into the correct CV section.
+Ordne jeden Eintrag dem richtigen Abschnitt im Lebenslauf zu.
 
 > Geburtsdatum: 3. März 1998 · Junior Marketing-Managerin bei StartUpX, 2023–2025 · Bachelor of Science in Informatik, TU Berlin, 2020 · Python (Fortgeschritten) · Adresse: Musterstraße 12, Berlin · IT-Consultant bei ConsultCo, seit 2024 · Englisch: C1 · Masterstudium Betriebswirtschaft, HU Berlin, 2022 · Telefon: 0176 123 456 · Führerschein Klasse B
 
@@ -175,7 +175,7 @@ Sort each item into the correct CV section.
 
 ## Übung A8 — Vorstellungsgespräch-Fragen und Antworten verbinden
 
-Match each interview question (1–6) with the correct answer (a–g). One answer is not needed.
+Verbinde jede Frage aus dem Vorstellungsgespräch (1–6) mit der passenden Antwort (a–g). Eine Antwort wird nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -189,7 +189,7 @@ Match each interview question (1–6) with the correct answer (a–g). One answe
 
 ## Übung A9 — Formell oder informell? — Register erkennen
 
-Is each phrase suitable for a formal cover letter or job interview? Answer F (formell/geeignet) oder I (informell/nicht geeignet).
+Passt die Wendung in ein formelles Anschreiben oder Vorstellungsgespräch? Antworte mit F (formell/geeignet) oder I (informell/nicht geeignet).
 
 1. Hiermit bewerbe ich mich um die ausgeschriebene Stelle. ( )
 2. Hey, ich find den Job voll cool und will unbedingt dabei sein! ( )
@@ -200,7 +200,7 @@ Is each phrase suitable for a formal cover letter or job interview? Answer F (fo
 
 ## Übung A10 — Stellenanzeige lesen: Wähle die richtige Antwort
 
-Read the job posting text below and choose the correct answer (a, b, or c). 5 items.
+Lies die Stellenanzeige unten und wähle die richtige Antwort (a, b oder c). 5 Aufgaben.
 
 1. Welche Erfahrung wird erwartet?  a) Mindestens zwei Jahre.  b) Mindestens fünf Jahre.  c) Keine Erfahrung nötig.
 2. Welches Englischniveau wird vorausgesetzt?  a) C1.  b) B2.  c) A2.
@@ -210,7 +210,7 @@ Read the job posting text below and choose the correct answer (a, b, or c). 5 it
 
 ## Übung A11 — Arbeitswelt-Wortschatz: Definitionen ergänzen
 
-Complete each definition with the correct word from the list. 6 items. (der Lebenslauf, die Kündigung, die Überstunden, die Einarbeitung, die Gehaltserhöhung, das Stellenangebot)
+Ergänze jede Definition mit dem richtigen Wort aus der Liste. 6 Sätze. (der Lebenslauf, die Kündigung, die Überstunden, die Einarbeitung, die Gehaltserhöhung, das Stellenangebot)
 
 1. Ein Dokument, das die Ausbildung und Berufserfahrung einer Person zeigt, heißt (1) ______.
 2. Wenn ein Arbeitnehmer oder eine Arbeitgeberin das Arbeitsverhältnis beendet, spricht man von einer (2) ______.
@@ -225,7 +225,7 @@ Complete each definition with the correct word from the list. 6 items. (der Lebe
 
 ## Übung B1 — Dialog B ergänzen: Vorstellungsgespräch
 
-Fill in the 8 blanks in this job interview extract with the correct word or phrase.
+Ergänze die 8 Lücken in diesem Auszug aus einem Vorstellungsgespräch mit dem richtigen Wort oder Ausdruck.
 
 Frau Weber: Guten Morgen, Frau Kowalski. Erzählen Sie uns etwas über (1) ______.
 Anna: Sehr gerne. Ich (2) ______ über drei Jahre Berufserfahrung im Projektmanagement.
@@ -238,7 +238,7 @@ Anna: Meiner Vorstellung nach (8) ______ das Gehalt bei etwa 55.000 Euro brutto 
 
 ## Übung B2 — Finde den Fehler — Anschreiben und Interview
 
-Each sentence contains one error. Choose the correct version (a, b, or c).
+Jeder Satz enthält einen Fehler. Wähle die richtige Version (a, b oder c).
 
 1. Fehler: „Hiermit bewerbe mich ich um die Stelle als Koordinatorin."  a) Hiermit bewerbe ich mich um die Stelle als Koordinatorin.  b) Hiermit ich bewerbe mich um die Stelle als Koordinatorin.  c) Hiermit bewerbe mich ich um die Stelle.
 2. Fehler: „Ich verfüge über drei Jahre Erfahrungen im Projektmanagement."  a) Ich verfüge über drei Jahre Erfahrungen im Projektmanagement.  b) Ich verfüge über drei Jahre Erfahrung im Projektmanagement.  c) Ich verfüge drei Jahre Erfahrung über im Projektmanagement.
@@ -248,13 +248,13 @@ Each sentence contains one error. Choose the correct version (a, b, or c).
 
 ## Übung B3 — Anschreiben-Absätze in die richtige Reihenfolge bringen
 
-A cover letter has been jumbled. Put the five sections in the correct order (1 = first, 5 = last).
+Ein Anschreiben ist durcheinandergeraten. Bring die fünf Abschnitte in die richtige Reihenfolge (1 = zuerst, 5 = zuletzt).
 
 1. Hiermit bewerbe ich mich um die ausgeschriebene Stelle als Projektkoordinatorin. – Betreff: Bewerbung als Projektkoordinatorin – Mit freundlichen Grüßen, Anna Kowalski – Ich verfüge über drei Jahre Berufserfahrung und würde meine Kenntnisse gerne einbringen. – Sehr geehrte Frau Weber,
 
 ## Übung B4 — Lückentext: Annas Anschreiben ergänzen
 
-Fill the 8 gaps in Anna's cover letter. Three words in the box are not needed.
+Ergänze die 8 Lücken in Annas Anschreiben. Drei Wörter im Kasten werden nicht gebraucht.
 
 > Sehr geehrte Frau Weber,
 > 
@@ -273,7 +273,7 @@ Fill the 8 gaps in Anna's cover letter. Three words in the box are not needed.
 
 ## Übung B5 — Arbeitswelt-Vokabular: Definitionen zuordnen
 
-Match each word (1–7) with its correct definition (a–h). One definition is not needed.
+Verbinde jedes Wort (1–7) mit der richtigen Definition (a–h). Eine Definition wird nicht gebraucht.
 
 | Links | | Rechts |
 |---|---|---|
@@ -288,18 +288,18 @@ Match each word (1–7) with its correct definition (a–h). One definition is n
 
 ## Übung B6 — Passiv-Sätze in Stellenanzeigen: Aktiv oder Passiv? (B1/04)
 
-Decide whether the missing construction is Aktiv or Passiv, then fill in the correct form. 6 items.
+Entscheide, ob Aktiv oder Passiv fehlt, und ergänze dann die richtige Form. 6 Sätze.
 
 1. (Passiv) Bewerberinnen mit Erfahrung (1) ______. (bevorzugen)
 2. (Passiv) Alle Bewerbungen (2) ______ bis zum 30. Juni (3) ______. (entgegennehmen)
 3. (Aktiv) Die Stelle (4) ______ einen Abschluss in Betriebswirtschaft. (erfordern)
 4. (Passiv) Das Gehalt (5) ______ nach Qualifikation (6) ______. (bestimmen)
 5. (Aktiv) Wir (7) ______ uns auf Ihre Bewerbung. (freuen — reflexiv)
-6. (Passiv) Überstunden (8) ______ nach Vereinbarung bezahlt. (werden)
+6. (Passiv) Überstunden (8) ______ nach Vereinbarung bezahlt.
 
 ## Übung B7 — Interview-Phrasen: Richtig oder Falsch?
 
-Is each statement about German interview conventions correct? Answer R (richtig) oder F (falsch).
+Ist die Aussage über Vorstellungsgespräche in Deutschland richtig? Antworte mit R (richtig) oder F (falsch).
 
 1. Man sagt „Sehr geehrte Damen und Herren" wenn man den Namen der Ansprechperson nicht kennt. ( )
 2. Im deutschen Vorstellungsgespräch sollte man die Gehaltsvorstellung sehr direkt und fordernd nennen. ( )
@@ -370,7 +370,7 @@ Self-check:
 
 ## Übung C1 — Lückentext: Annas Bewerbungsschreiben
 
-Fill each gap with one word. 10 gaps.
+Ergänze in jeder Lücke ein Wort. 10 Lücken.
 
 Anna Kowalski (1) ______ sich um die Stelle als Projektkoordinatorin bei
 TechVentures GmbH. Sie schreibt, dass das Stellenangebot sie sehr (2) ______
@@ -388,7 +388,7 @@ Gespräch zu überzeugen, und bittet um eine Einladung zum (10) ______.
 
 ## Übung C2 — Sprachbausteine Teil 1
 
-Choose the correct option (a, b, or c) for each gap.
+Wähle für jede Lücke die richtige Option (a, b oder c).
 
 1. Ich ______ mich sehr, Sie in einem Gespräch zu überzeugen.  a) würde mich freuen  b) würde freuen  c) freue würde mich
 2. Ich ______ über fünf Jahre Erfahrung in der Projektleitung.  a) habe  b) verfüge  c) besitze
@@ -399,7 +399,7 @@ Choose the correct option (a, b, or c) for each gap.
 
 ## Übung C3 — Sprachbausteine Teil 2 (Wortbank)
 
-Fill the 10 gaps. Five words are not needed.
+Ergänze die 10 Lücken. Fünf Wörter werden nicht gebraucht.
 
 > Anna (1) ______ sich um die Stelle als Projektkoordinatorin. Sie hat das
 > Stellenangebot (2) ______, weil das Unternehmen für innovative Projekte bekannt
@@ -451,7 +451,7 @@ Richtig (R) oder Falsch (F)?
 
 ## Übung C4b — Leseverstehen: Stellenanzeige (neuer Text)
 
-Read the job ad below. Choose the correct answer (a, b, or c).
+Lies die Stellenanzeige unten. Wähle die richtige Antwort (a, b oder c).
 
 1. Was wird von Bewerberinnen und Bewerbern erwartet?  a) Ein abgeschlossenes Hochschulstudium.  b) Mindestens fünf Jahre Berufserfahrung.  c) Kenntnisse in Python.
 2. Welches Deutschniveau ist Mindestanforderung?  a) B2.  b) C1.  c) B1.
@@ -480,27 +480,27 @@ Self-check:
 
 ## Übung D1 — Schnelltest: Arbeitswelt & Grammatik-Wiederholung
 
-Fill in the correct word or form. Items 12–15 review grammar from B1/03–B1/07. 15 items.
+Ergänze das richtige Wort oder die richtige Form. Aufgaben 12–15 wiederholen Grammatik aus B1/03–B1/07. 15 Aufgaben.
 
 1. Ich (1) ______ mich um die Stelle als Projektmanager. (sich bewerben — ich-Form)
 2. Das Stellenangebot (2) ______ mich sehr angesprochen. (Perfekt von ansprechen)
 3. Ich (3) ______ über drei Jahre Berufserfahrung. (verfügen — ich-Form)
-4. Mehrere Projekte (4) ______ von mir koordiniert. (Passiv Präteritum — wurden)
+4. Mehrere Projekte (4) ______ von mir koordiniert. (Passiv Präteritum)
 5. „Mit freundlichen (5) ______," ist die Standardgrußformel. (Grüße — Dativ Plural)
-6. Wir suchen jemanden, (6) ______ sofort anfangen kann. (Relativpronomen Nom. m.: der)
-7. Die Stelle (7) ______ ab Oktober besetzt. (Passiv Präsens: wird)
-8. Bewerben Sie sich (8) ______ zum 30. Juni. (bis)
-9. Die Kündigung (9) ______ eine Frist von vier Wochen. (erfordern — hat)
-10. Während (10) ______ Tätigkeit habe ich viele Projekte geleitet. (Genitiv: meiner)
-11. Ich hätte gerne ein Gespräch über meine (11) ______. (die Gehaltserhöhung — Akk)
-12. (B1/03) Meiner Vorstellung nach (12) ______ das Gehalt bei 55.000 Euro. (Konj. II: läge)
-13. (B1/05) Das ist eine Stelle, (13) ______ gut zu meinem Profil passt. (Relat. Nom. f.: die)
+6. Wir suchen jemanden, (6) ______ sofort anfangen kann. (Relativpronomen)
+7. Die Stelle (7) ______ ab Oktober besetzt. (Passiv Präsens)
+8. Bewerben Sie sich (8) ______ zum 30. Juni.
+9. Die Kündigung (9) ______ eine Frist von vier Wochen. (erfordern)
+10. Während (10) ______ Tätigkeit habe ich viele Projekte geleitet. (mein-, Genitiv)
+11. Ich hätte gerne ein Gespräch über meine (11) ______. (a pay rise)
+12. (B1/03) Meiner Vorstellung nach (12) ______ das Gehalt bei 55.000 Euro. (liegen, Konj. II)
+13. (B1/05) Das ist eine Stelle, (13) ______ gut zu meinem Profil passt. (Relativpronomen)
 14. (B1/06) Ich bewerbe mich, um meine Erfahrungen (14) ______. (einsetzen — um…zu)
-15. (B1/07) Die Stärke (15) ______ Bewerbung liegt in der Praxiserfahrung. (Genitiv f.: meiner)
+15. (B1/07) Die Stärke (15) ______ Bewerbung liegt in der Praxiserfahrung. (mein-, Genitiv)
 
 ## Übung D2 — Wortschatz-Check: Das passt nicht!
 
-Circle the word that does not belong. 6 groups.
+Kreise das Wort ein, das nicht in die Gruppe passt. 6 Gruppen.
 
 1. die Bewerbung – das Anschreiben – der Lebenslauf – die Überstunden
 2. Hiermit bewerbe ich mich – Mit freundlichen Grüßen – Hey, schreib mir mal! – Sehr geehrte Damen und Herren
@@ -511,13 +511,13 @@ Circle the word that does not belong. 6 groups.
 
 ## Übung D3 — Rückblick: B1/04–B1/09 — Grammatik im Kontext
 
-Fill in the correct form. Items 1–4 = B1/04 Passiv; items 5–7 = B1/05 Relativsätze; items 8–10 = B1/09 Höflichkeit (indirekte Fragen). 10 items.
+Ergänze die richtige Form. Aufgaben 1–4 = B1/04 Passiv, Aufgaben 5–7 = B1/05 Relativsätze, Aufgaben 8–10 = B1/09 Höflichkeit (indirekte Fragen). 10 Aufgaben.
 
 B1/04 — Passiv:
 1. Die Bewerbung (1) ______ gestern eingereicht. (Präteritum Passiv)
 2. Das Onboarding (2) ______ von der HR-Abteilung organisiert. (Präsens Passiv)
-3. Die Stelle musste vor dem 1. Juli (3) ______. (Passiv + Modal: besetzt werden)
-4. Alle Unterlagen (4) ______ geprüft worden. (Perfekt Passiv: sind)
+3. Die Stelle musste vor dem 1. Juli (3) ______. (besetzen — Passiv + Modalverb)
+4. Alle Unterlagen (4) ______ geprüft worden. (Perfekt Passiv)
 
 B1/05 — Relativsätze:
 5. Wir suchen eine Person, (5) ______ gut kommunizieren kann. (Nom. f.)
@@ -531,7 +531,7 @@ B1/09 — Indirekte Fragen / Höflichkeit:
 
 ## Übung D4 — Selbsttest: Arbeitswelt & Bewerbung (20 Punkte)
 
-Fill in the correct word or form. 1 point per gap. 20 items.
+Ergänze das richtige Wort oder die richtige Form. 1 Punkt pro Lücke. 20 Aufgaben.
 
 1. Ich (1) ______ mich um die Stelle als Projektkoordinatorin. (sich bewerben)
 2. (2) ______ bewerbe ich mich um die ausgeschriebene Stelle. (Eröffnungswort Anschreiben)
@@ -542,11 +542,11 @@ Fill in the correct word or form. 1 point per gap. 20 items.
 7. Wir suchen eine Person, (7) ______ Erfahrung in der Teamleitung hat. (Relativ. Nom. f.)
 8. Meiner Vorstellung nach (8) ______ das Gehalt bei 58.000 Euro. (Konj. II von liegen)
 9. Es (9) ______ mir wichtig, flexible Arbeitszeiten zu haben. (Konj. II von sein)
-10. Ich (10) ______ gerne mehr Verantwortung übernehmen. (Konj. II von wollen: würde)
+10. Ich (10) ______ gerne mehr Verantwortung übernehmen. (werden — Konj. II)
 11. Ich bewerbe mich, um meine Erfahrungen (11) ______. (einsetzen — um…zu, trennbar)
 12. Mit (12) ______ Grüßen, (die Grußformel — Dativ Plural)
-13. Der Schlüssel (13) ______ Erfolgs liegt in der Teamarbeit. (Genitiv m./n.: des)
-14. Trotz (14) ______ kurzen Einarbeitungszeit war ich schnell produktiv. (Genitiv f.: der)
+13. Der Schlüssel (13) ______ Erfolgs liegt in der Teamarbeit. (bestimmter Artikel, Genitiv)
+14. Trotz (14) ______ kurzen Einarbeitungszeit war ich schnell produktiv. (bestimmter Artikel, Genitiv)
 15. Die Stelle (15) ______ von der Firma ausgeschrieben. (Präteritum Passiv)
 16. Ein Dokument, das Ausbildung und Berufserfahrung zeigt: der (16) ______.
 17. Das Gespräch vor dem Einstieg heißt das (17) ______.

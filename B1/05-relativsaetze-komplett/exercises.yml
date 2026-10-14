@@ -16,7 +16,8 @@ exercises:
     type: true-false
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
-    instructions: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
+    instructions: "Höre Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: Richtig (R) oder Falsch (F)?"
     items:
       - q: "Tomáš braucht einen Text für die Startseite seiner Website."
         answer: true
@@ -39,7 +40,8 @@ exercises:
     type: single-choice
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
-    instructions: "Listen to Dialog B and choose the correct answer (a, b, or c)."
+    instructions: "Höre Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Was hat Herr Steinmeyer bereits gelesen?"
         options:
@@ -75,7 +77,8 @@ exercises:
     type: gap-bank
     title: "Hörtext-Lückentext: Mias Traumwohnung"
     audio: hoertext.mp3
-    instructions: "Listen to the Hörtext (Mia describes her ideal apartment) and fill in the 6 missing words. Three words in the box are not needed."
+    instructions: "Höre den Hörtext (Mia beschreibt ihre Traumwohnung) und ergänze die 6 fehlenden Wörter. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen to the Hörtext (Mia describes her ideal apartment) and fill in the 6 missing words. Three words in the box are not needed."
     text: |
       Ich suche seit Monaten eine Wohnung, in {1} ich wirklich zur Ruhe kommen kann.
       Das Wichtigste, {2} ich mir wünsche, ist ein ruhiges Zimmer, in {3} ich abends
@@ -97,7 +100,8 @@ exercises:
     type: single-choice
     title: "Kurze Ansage: Voicemail von Pavel an Anna"
     audio: transcript_ansage1.mp3
-    instructions: "Listen to Pavel's voice message. Then choose the correct answer (a, b, or c)."
+    instructions: "Höre die Sprachnachricht von Pavel. Wähle dann die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Pavel's voice message. Then choose the correct answer (a, b, or c)."
     transcript: 'Hallo Anna, hier ist Pavel. Ich wollte dir kurz einen Tipp geben. In unserem Kiez gibt es jetzt ein neues Café, das du unbedingt kennen musst. Es heißt Kaffeewerkstatt und liegt in der Müllerstraße — das ist eine Straße, in der es früher kaum gute Cafés gab. Die Barista, die dort arbeitet, ist unglaublich gut — sie kennt jede Methode, über die man in der Specialty-Kaffeewelt spricht. Das Beste, was sie macht, ist ein Filterkaffee aus Äthiopien. Das ist genau das, was du nach einem langen Arbeitstag brauchst. Bitte ruf mich zurück, wenn du hingehst — ich komme gern mit!'
     items:
       - q: "Warum ruft Pavel an?"
@@ -135,7 +139,8 @@ exercises:
     block: A
     type: table-fill
     title: "Relativpronomen — vollständige Tabelle (Nom / Akk / Dat)"
-    instructions: "Fill in the complete relative pronoun table. 12 gaps."
+    instructions: "Ergänze die vollständige Tabelle der Relativpronomen. 12 Lücken."
+    instructionsEn: "Fill in the complete relative pronoun table. 12 gaps."
     columns: ["", "maskulin", "feminin", "neutral", "Plural"]
     rows:
       - label: "Nominativ"
@@ -163,6 +168,7 @@ exercises:
     listLayout: true
     title: "Relativpronomen Nominativ — Wiederholung (A2/13)"
     instructions: "Fülle die Lücken mit dem richtigen Relativpronomen im Nominativ. 8 Sätze."
+    instructionsEn: "Fill in the gaps with the correct relative pronoun in the nominative. 8 sentences."
     text: |
       1. Das ist die App, {1} Pendlern hilft. (die App — Nom.)
       2. Das ist ein Kollege, {2} sehr zuverlässig ist. (der Kollege — Nom.)
@@ -188,6 +194,7 @@ exercises:
     listLayout: true
     title: "Relativpronomen Akkusativ — Wiederholung (A2/13)"
     instructions: "Fülle die Lücken mit dem richtigen Relativpronomen im Akkusativ. 8 Sätze."
+    instructionsEn: "Fill in the gaps with the correct relative pronoun in the accusative. 8 sentences."
     text: |
       1. Das ist die App, {1} ich empfehle. (die App — Akk.)
       2. Das ist der Kollege, {2} ich gut kenne. (der Kollege — Akk.)
@@ -213,15 +220,16 @@ exercises:
     listLayout: true
     title: "Relativpronomen Dativ — NEU"
     instructions: "Fülle die Lücken mit dem richtigen Relativpronomen im Dativ. 8 Sätze."
+    instructionsEn: "Fill in the gaps with the correct relative pronoun in the dative. 8 sentences."
     text: |
-      1. Das ist der Kollege, {1} ich vertraue. (der Kollege — Dat.: dem)
-      2. Das ist die Mitarbeiterin, {2} ich danke. (die Mitarbeiterin — Dat.: der)
-      3. Das ist das Team, {3} alles zu verdanken ist. (das Team — Dat.: dem)
-      4. Das sind die Kunden, {4} wir helfen. (die Kunden — Dat.: denen)
-      5. Das ist der Gründer, {5} die Firma gehört. (der Gründer — Dat.: dem)
-      6. Das ist die Person, {6} ich am meisten vertraue. (die Person — Dat.: der)
-      7. Das sind Freunde, {7} ich alles erzählen kann. (Freunde — Dat.: denen)
-      8. Das ist das Projekt, {8} wir viel Zeit gewidmet haben. (das Projekt — Dat.: dem)
+      1. Das ist der Kollege, {1} ich vertraue. (der Kollege — Dat.)
+      2. Das ist die Mitarbeiterin, {2} ich danke. (die Mitarbeiterin — Dat.)
+      3. Das ist das Team, {3} alles zu verdanken ist. (das Team — Dat.)
+      4. Das sind die Kunden, {4} wir helfen. (die Kunden — Dat.)
+      5. Das ist der Gründer, {5} die Firma gehört. (der Gründer — Dat.)
+      6. Das ist die Person, {6} ich am meisten vertraue. (die Person — Dat.)
+      7. Das sind Freunde, {7} ich alles erzählen kann. (Freunde — Dat.)
+      8. Das ist das Projekt, {8} wir viel Zeit gewidmet haben. (das Projekt — Dat.)
     answers:
       "1": dem
       "2": der
@@ -238,13 +246,14 @@ exercises:
     listLayout: true
     title: "Präposition + Relativpronomen"
     instructions: "Fülle die Lücken mit der richtigen Kombination aus Präposition + Relativpronomen. 6 Sätze."
+    instructionsEn: "Fill in the gaps with the correct combination of preposition + relative pronoun. 6 sentences."
     text: |
-      1. Das ist eine App, {1} man Scooter mieten kann. (mit + die App → mit der)
-      2. Das ist das Stadtgebiet, {2} die Nachfrage am größten ist. (in + das Gebiet → in dem)
-      3. Das sind die Bezirke, {3} das Angebot minimal war. (in + die Bezirke → in denen)
-      4. Das ist der Grund, {4} wir expandieren. (für + der Grund → für den)
-      5. Das ist das Ziel, {5} wir jeden Tag arbeiten. (für + das Ziel → für das)
-      6. Das sind die Ressourcen, {6} das Team verfügt. (über + die Ressourcen → über die)
+      1. Das ist eine App, {1} man Scooter mieten kann. (mit + die App)
+      2. Das ist das Stadtgebiet, {2} die Nachfrage am größten ist. (in + das Gebiet)
+      3. Das sind die Bezirke, {3} das Angebot minimal war. (in + die Bezirke)
+      4. Das ist der Grund, {4} wir expandieren. (für + der Grund)
+      5. Das ist das Ziel, {5} wir jeden Tag arbeiten. (für + das Ziel)
+      6. Das sind die Ressourcen, {6} das Team verfügt. (über + die Ressourcen)
     answers:
       "1": mit der
       "2": in dem
@@ -252,6 +261,15 @@ exercises:
       "4": für den
       "5": für das
       "6": über die
+    alts:
+      "4":
+        - word: "warum"
+          note: "warum / weshalb as relative adverb after der Grund is equally idiomatic."
+        - word: "weshalb"
+          note: "warum / weshalb as relative adverb after der Grund is equally idiomatic."
+      "5":
+        - word: "an dem"
+          note: "arbeiten an + Dat. is the more common pattern; für das is also correct."
 
   - id: A6
     block: A
@@ -259,13 +277,14 @@ exercises:
     listLayout: true
     title: "`was` als Relativpronomen"
     instructions: "Fülle die Lücken mit `was` oder dem richtigen Relativpronomen (das/die/der/den). 6 Sätze."
+    instructionsEn: "Fill in the gaps with `was` or the correct relative pronoun (das/die/der/den). 6 sentences."
     text: |
-      1. Alles, {1} du brauchst, ist hier. (alles → was)
-      2. Das ist das Problem, {2} wir lösen müssen. (das Problem → das)
-      3. Etwas, {3} mich wirklich überrascht hat, war die Reaktion. (etwas → was)
-      4. Das Beste, {4} er je gemacht hat, ist dieses Produkt. (das Beste → was)
-      5. Nichts, {5} er gesagt hat, war falsch. (nichts → was)
-      6. Das ist das Einzige, {6} wir noch brauchen. (das Einzige → was)
+      1. Alles, {1} du brauchst, ist hier. (alles)
+      2. Das ist das Problem, {2} wir lösen müssen. (das Problem)
+      3. Etwas, {3} mich wirklich überrascht hat, war die Reaktion. (etwas)
+      4. Das Beste, {4} er je gemacht hat, ist dieses Produkt. (das Beste)
+      5. Nichts, {5} er gesagt hat, war falsch. (nichts)
+      6. Das ist das Einzige, {6} wir noch brauchen. (das Einzige)
     answers:
       "1": was
       "2": das
@@ -280,6 +299,7 @@ exercises:
     listLayout: true
     title: "`wo` als Relativpronomen für Orte"
     instructions: "Fülle die Lücken mit `wo` oder der passenden Kombination aus Präposition + Relativpronomen. 6 Sätze."
+    instructionsEn: "Fill in the gaps with `wo` or the matching combination of preposition + relative pronoun. 6 sentences."
     text: |
       1. Das ist der Ort, {1} wir uns kennengelernt haben.
       2. Berlin ist die Stadt, {2} Pavel seit drei Jahren lebt. (wo / in der — beide korrekt)
@@ -301,6 +321,7 @@ exercises:
     skill: word-order
     title: "Satzbau — Relativsatz rekonstruieren"
     instructions: "Bring die Wörter in die richtige Reihenfolge. Das Verb im Relativsatz steht am Ende!"
+    instructionsEn: "Put the words in the correct order. The verb in the relative clause goes at the end!"
     items:
       - tiles: ["Die", "App", ",", "mit", "der", "man", "Scooter", "mieten", "kann", ",", "ist", "kostenlos"]
         answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
@@ -321,6 +342,7 @@ exercises:
     listLayout: true
     title: "Zwei Sätze verbinden — Relativsatz bilden"
     instructions: "Verbinde die zwei Sätze zu einem Satz mit Relativsatz. Schreib das Ergebnis in die Lücke. 6 Sätze."
+    instructionsEn: "Join the two sentences into one sentence with a relative clause. Write the result in the gap. 6 sentences."
     text: |
       1. Das ist eine App. Mit der App kann man Scooter finden.
          → Das ist eine App, {1} man Scooter finden kann.
@@ -347,6 +369,7 @@ exercises:
     type: true-false
     title: "Grammatik-Check — ist das Relativpronomen korrekt?"
     instructions: "Ist das Relativpronomen korrekt? Richtig (R) oder Falsch (F)? Bei F: erkläre den Fehler."
+    instructionsEn: "Is the relative pronoun correct? True (R) or false (F)? If F: explain the error."
     items:
       - q: "Das ist die App, die ich empfehle."
         answer: true
@@ -371,7 +394,8 @@ exercises:
     type: gap-text
     listLayout: false
     title: "Dialog ergänzen — Produktbeschreibung mit Relativsätzen"
-    instructions: "Fill in the blanks with the correct relative pronoun or preposition + pronoun combination. 8 gaps."
+    instructions: "Ergänze die Lücken mit dem richtigen Relativpronomen oder der richtigen Kombination aus Präposition + Relativpronomen. 8 Lücken."
+    instructionsEn: "Fill in the blanks with the correct relative pronoun or preposition + pronoun combination. 8 gaps."
     text: |
       — Ich schreibe gerade den Text für unsere neue Website. Kannst du helfen?
       — Natürlich! Fang mit einer Definition an. „Das ist ein Service, {1} du in Minuten buchen kannst." (mit …)
@@ -398,6 +422,7 @@ exercises:
     listLayout: true
     title: "Finde den Fehler — falsche Relativpronomen"
     instructions: "Jeder Satz enthält einen Fehler mit dem Relativpronomen. Schreib den korrekten Satz. 6 Sätze."
+    instructionsEn: "Each sentence contains one error with the relative pronoun. Write the correct sentence. 6 sentences."
     text: |
       1. Alles, das ich brauche, ist hier. → Alles, {1} ich brauche, ist hier.
       2. Das ist der Kollege, der ich vertraue. → Das ist der Kollege, {2} ich vertraue.
@@ -419,6 +444,7 @@ exercises:
     type: single-choice
     title: "Richtiges Relativpronomen wählen"
     instructions: "Wähle das richtige Relativpronomen (a, b oder c)."
+    instructionsEn: "Choose the correct relative pronoun (a, b, or c)."
     items:
       - q: "Das ist die App, ______ ich täglich nutze."
         options:
@@ -468,6 +494,7 @@ exercises:
     type: matching
     title: "Satzhälften verbinden — Relativsätze"
     instructions: "Verbinde jede Satzhälfte (1–6) mit der richtigen Fortsetzung (a–g). Eine Fortsetzung wird nicht gebraucht."
+    instructionsEn: "Match each sentence half (1–6) with the correct continuation (a–g). One continuation is not needed."
     left:
       - { key: "1", text: "Das ist eine App," }
       - { key: "2", text: "Das sind die Stadtteile," }
@@ -497,6 +524,7 @@ exercises:
     skill: word-order
     title: "Wortstellung im Relativsatz — Verb ans Ende"
     instructions: "Bringe die Wörter in die richtige Reihenfolge. Das Verb im Relativsatz steht am Ende!"
+    instructionsEn: "Put the words in the correct order. The verb in the relative clause goes at the end!"
     items:
       - tiles: ["Das", "ist", "ein", "Kollege", ",", "dem", "ich", "sehr", "vertraue"]
         answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
@@ -517,13 +545,14 @@ exercises:
     listLayout: true
     title: "Formelle Sätze mit Präposition + Relativpronomen"
     instructions: "Formelle Sprache: Fülle die Lücken mit Präposition + Relativpronomen. 6 Sätze."
+    instructionsEn: "Formal language: fill in the gaps with preposition + relative pronoun. 6 sentences."
     text: |
-      1. Das ist eine Stelle, {1} sich viele bewerben. (um + die → um die)
-      2. Das ist ein Ergebnis, {2} wir sehr stolz sind. (auf + das → auf das)
-      3. Das ist ein Projekt, {3} alle Mitarbeiter beigetragen haben. (zu + dem → zu dem)
-      4. Das ist die Abteilung, {4} Anna wechseln möchte. (in + die → in die)
-      5. Das ist der Kollege, {5} dieser Erfolg hauptsächlich abhängt. (von + dem → von dem)
-      6. Das ist eine Aufgabe, {6} man sich wirklich kümmern muss. (um + die → um die)
+      1. Das ist eine Stelle, {1} sich viele bewerben. (sich bewerben um)
+      2. Das ist ein Ergebnis, {2} wir sehr stolz sind. (stolz sein auf)
+      3. Das ist ein Projekt, {3} alle Mitarbeiter beigetragen haben. (beitragen zu)
+      4. Das ist die Abteilung, {4} Anna wechseln möchte. (wechseln in)
+      5. Das ist der Kollege, {5} dieser Erfolg hauptsächlich abhängt. (abhängen von)
+      6. Das ist eine Aufgabe, {6} man sich wirklich kümmern muss. (sich kümmern um)
     answers:
       "1": um die
       "2": auf das
@@ -538,6 +567,7 @@ exercises:
     listLayout: true
     title: 'Definitionen schreiben — "Ein … ist jemand/etwas, der/die/das/was …"'
     instructions: "Schreib eine Definition mit einem Relativsatz. 6 Sätze."
+    instructionsEn: "Write a definition with a relative clause. 6 sentences."
     text: |
       1. Ein Barista ist jemand, {1} Kaffee professionell zubereitet. (Nom.)
       2. Ein Empfehlungsschreiben ist etwas, {2} man für eine Bewerbung braucht.
@@ -557,7 +587,8 @@ exercises:
     block: B
     type: single-choice
     title: "Leseverstehen: Lesetext (Über uns — die Website des Startups)"
-    instructions: "Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c)."
+    instructions: "Lies den Lesetext in lesson.md, Abschnitt 7. Wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Read the Lesetext in lesson.md, section 7. Choose the correct answer (a, b, or c)."
     items:
       - q: "Worauf konzentriert sich das Startup?"
         options:
@@ -623,6 +654,7 @@ exercises:
     listLayout: false
     title: "Lückentext: Über uns — die Website des Startups"
     instructions: "Fülle jede Lücke mit einem Wort. 10 Lücken."
+    instructionsEn: "Fill each gap with one word. 10 gaps."
     text: |
       Wir sind ein Team, {1} sich leidenschaftlich für nachhaltige Mobilität
       einsetzt. Unser Produkt ist eine App, {2} {3} in wenigen Sekunden einen
@@ -652,6 +684,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Das ist die Formulierung, ______ man in formellen Briefen oft findet."
         options:
@@ -701,6 +734,7 @@ exercises:
     type: gap-bank
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Fülle die 11 Lücken mit Wörtern aus der Box. Fünf Wörter sind nicht nötig."
+    instructionsEn: "Fill the 11 gaps with words from the box. Five words are not needed."
     bankCase: upper
     bankSort: true
     text: |
@@ -740,6 +774,7 @@ exercises:
       > Das Beste, was unsere Nutzer über uns sagen, ist: „Endlich eine Lösung, die wirklich zu meinem Alltag passt." Das ist alles, was wir hören wollen.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Das Startup konzentriert sich auf die gut erschlossenen Stadtteile im Zentrum."
         answer: false
@@ -776,6 +811,7 @@ exercises:
       Bewerben Sie sich bei uns — in einem Team, dem Ihre Entwicklung am Herzen liegt.
 
       Wähle a, b oder c.
+    instructionsEn: "Read the text. Choose a, b, or c."
     items:
       - q: "Was sucht die Sprachschule?"
         options:
@@ -839,7 +875,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "One minute per gap. Items marked (B1/03) or (B1/04) review earlier lessons. 15 items."
+    instructions: "Eine Minute pro Lücke. Aufgaben mit (B1/03) oder (B1/04) wiederholen frühere Lektionen. 15 Aufgaben."
+    instructionsEn: "One minute per gap. Items marked (B1/03) or (B1/04) review earlier lessons. 15 items."
     text: |
       1. Fill in the relative pronoun (Nom., f.): die App, {1} kostenlos ist.
       2. Fill in the relative pronoun (Akk., m.): der Kollege, {2} ich gut kenne.
@@ -853,7 +890,7 @@ exercises:
       10. Fill in: Berlin ist die Stadt, {10} Pavel wohnt.
       11. (B1/03) Konjunktiv II of `können`, ich-form: {11}
       12. (B1/03) Fill in Konjunktiv II: Wenn ich Zeit hätte, {12} ich dir helfen.
-      13. (B1/04) Passiv Präsens: Die App ______ täglich ______ . (nutzen → wird genutzt) → {13} täglich {14}.
+      13. (B1/04) Passiv Präsens: Die App ______ täglich ______ . (nutzen) → {13} täglich {14}.
       14. Fill in: Das ist die Gegend, {15} die Nachfrage am größten ist. (in + f. Dat.)
       15. Fill in the Dativ relative pronoun (f.): die Mitarbeiterin, {16} ich danke.
     answers:
@@ -873,12 +910,20 @@ exercises:
       "14": genutzt
       "15": in der
       "16": der
+    alts:
+      "10":
+        - word: "in der"
+          note: "wo and preposition + relative pronoun are both correct for a place."
+      "15":
+        - word: "wo"
+          note: "wo and preposition + relative pronoun are both correct for a place."
 
   - id: D2
     block: D
     type: odd-one-out
     title: "Welches Wort passt nicht?"
     instructions: "Streiche das Wort durch, das nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [der, die, das, denen]
         odd: 3
@@ -904,7 +949,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Rückblick: A2/13 und B1/02"
-    instructions: "Review of earlier lessons. 10 items."
+    instructions: "Wiederholung früherer Lektionen. 10 Lücken."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus A2/13 (Relativsätze Nom. & Akk.):**
       1. (A2/13) Fill in: Das ist ein Mann, {1} aus Berlin kommt. (Nom., m.)
@@ -914,9 +960,9 @@ exercises:
       5. (A2/13) Fill in: Der Film, {5} ich gestern gesehen habe, war fantastisch. (Akk., m.)
 
       **Aus B1/02 (Konnektoren obwohl/trotzdem/deshalb):**
-      6. (B1/02) Fill in: Er bleibt in Berlin, {6} er Prag liebt.
-      7. (B1/02) Fill in: Die Miete ist hoch. {7} wohnt Pavel in Wedding. (trotzdem — V2)
-      8. (B1/02) Fill in: Tomáš liebt das Berliner Netzwerk. {8} ist er oft hier. (deshalb — V2)
+      6. (B1/02) Fill in: Er bleibt in Berlin, {6} er Prag liebt. (concession)
+      7. (B1/02) Fill in: Die Miete ist hoch. {7} wohnt Pavel in Wedding. (nevertheless — V2)
+      8. (B1/02) Fill in: Tomáš liebt das Berliner Netzwerk. {8} ist er oft hier. (that's why — V2)
       9. (B1/02) Fill in: Das Startup ist {9} jung, {10} es hat schon viele Kunden. (zwar … aber)
     answers:
       "1": der
@@ -929,6 +975,17 @@ exercises:
       "8": Deshalb
       "9": zwar
       "10": aber
+    alts:
+      "7":
+        - word: "Dennoch"
+          note: "dennoch is the formal synonym of trotzdem."
+      "8":
+        - word: "Deswegen"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Darum"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
+        - word: "Daher"
+          note: "deshalb, deswegen, darum and daher are interchangeable here."
 
   - id: D4
     block: D
@@ -988,3 +1045,10 @@ exercises:
       "18": wo
       "19": was
       "20": das
+    alts:
+      "17":
+        - word: "in der"
+          note: "wo and preposition + relative pronoun are both correct for a place."
+      "18":
+        - word: "in dem"
+          note: "wo and preposition + relative pronoun are both correct for a place."
