@@ -1,0 +1,19 @@
+---
+import AppShell from '../layouts/AppShell.astro';
+import ProgressBackup from '../components/ProgressBackup.svelte';
+
+// Progress backup / restore. All learner data lives only in this browser's
+// localStorage, so this page is the learner's way to keep it safe or move it.
+---
+
+<AppShell title="Fortschritt sichern · Deutsch lernen" navKey="sicherung" variant="app">
+  <header class="page-head">
+    <h1>Fortschritt sichern</h1>
+    <p class="lead">
+      Dein Fortschritt wird nur in diesem Browser gespeichert. Wenn du die Browserdaten löschst
+      oder das Gerät wechselst, ist er weg — sichere ihn deshalb ab und zu als Datei.
+    </p>
+  </header>
+
+  <ProgressBackup client:load />
+</AppShell>
