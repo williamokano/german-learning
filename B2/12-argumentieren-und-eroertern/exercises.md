@@ -449,7 +449,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-Eine Minute pro Item. Keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 15 Items.
+Eine Minute pro Item. Keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 14 Items, 15 Lücken.
 
 **Argumentations-Vokabular:**
 1. „Das, was aus den Argumenten folgt" = die ______
@@ -486,7 +486,7 @@ Streiche das Wort, das nicht passt, und erkläre warum.
 
 ## Übung D3 — Rückblick: B2/07, B2/08, B1/10
 
-Wiederholung früherer Lektionen. 10 Items.
+Wiederholung früherer Lektionen. 9 Items, 10 Lücken.
 
 **Aus B2/07 (Konnektoren für Profis):**
 1. „Je mehr du übst, ______ besser wirst du."

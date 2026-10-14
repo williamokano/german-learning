@@ -449,7 +449,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-Eine Minute pro Item. Keine Notizen. Items mit (B2/..) oder (C1/..) wiederholen frühere Lektionen. 15 Items.
+Eine Minute pro Item. Keine Notizen. Items mit (B2/..) oder (C1/..) wiederholen frühere Lektionen. 13 Items, 15 Lücken.
 
 **Konjunktiv (C1/06):**
 1. Indirekte Rede: Sie sagt, sie ______ morgen. (Konjunktiv I)
@@ -489,7 +489,7 @@ Streiche das Wort, das nicht passt, und erkläre warum.
 
 ## Übung D3 — Rückblick: B2/03, B2/04, C1/03, C1/05, C1/06
 
-Wiederholung früherer Lektionen. 10 Items.
+Wiederholung früherer Lektionen. 9 Items, 10 Lücken.
 
 **Aus B2/03 (Konjunktiv II):**
 1. Höflichkeitsbitte: Ich ______ gern einen Kaffee.

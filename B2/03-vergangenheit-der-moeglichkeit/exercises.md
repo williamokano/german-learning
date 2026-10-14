@@ -391,7 +391,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Lücken.
+Eine Minute pro Item. Keine Notizen. Items mit Lektionsangabe, z. B. (B1/03), wiederholen eine frühere Lektion. 15 Lücken.
 
 1. Konjunktiv II Vergangenheit von „machen", ich-Form: ______ ______
 2. Konjunktiv II Vergangenheit von „gehen", ich-Form: ______ ______

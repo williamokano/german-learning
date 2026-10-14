@@ -17,6 +17,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
     instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: "Anna liest gerade einen Zeitungsartikel mit unbekannten Wörtern."
         answer: true
@@ -40,6 +41,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     optionLayout: block
     items:
       - q: "In welchen Leserbriefen sehen Frau Yilmaz und Herr Steinmeyer ein neues Thema?"
@@ -77,6 +79,7 @@ exercises:
     title: "Hörtext-Lückentext: Annas Erklärung im Sprachkurs"
     audio: hoertext.mp3
     instructions: "Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel."
+    instructionsEn: "Listen to the Hörtext and fill in the 7 gaps. Three words in the box are not needed."
     text: |
       Guten Morgen zusammen. Heute möchte ich euch zeigen, wie ihr unbekannte Wörter
       im Deutschen selbst {1} könnt. Das Zauberwort heißt Wortbildung. Schaut euch das
@@ -103,6 +106,7 @@ exercises:
     title: "Kurze Ansage: Ansage aus dem Sprachzentrum"
     audio: transcript_ansage1.mp3
     instructions: "Hör die Ansage. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     optionLayout: block
     transcript: 'Guten Morgen, hier ist das Sprachzentrum Berlin. Wir möchten Sie auf unseren neuen Wortbildungs-Workshop aufmerksam machen. Im Workshop lernen Sie, unbekannte Wörter selbst zu entschlüsseln: mit Vorsilben wie ver-, zer-, ent- und miss-, mit Nachsilben wie -ung, -heit, -keit und -bar und mit Komposita wie Verkehrswende oder Umweltverträglichkeit. Der Workshop findet nächsten Samstag von zehn bis vier Uhr statt. Die Teilnahme ist kostenlos, eine Anmeldung ist nicht erforderlich. Für Rückfragen erreichen Sie uns unter der Nummer null drei null, zweiundzwanzig, fünfzehn, null. Bitte rufen Sie uns kurz zurück, falls Sie Fragen haben.'
     items:
@@ -143,6 +147,7 @@ exercises:
     listLayout: true
     title: "Die richtige Vorsilbe"
     instructions: "Setze die passende Vorsilbe ein (ver-, zer-, ent-, miss-, be-, er-, emp-). Manche Vorsilbe brauchst du mehrmals, ver- gar nicht. 8 Items."
+    instructionsEn: "Fill in the right prefix (ver-, zer-, ent-, miss-, be-, er-, emp-). You need some prefixes more than once, and ver- not at all. 8 items."
     text: |
       1. {1}stehen (sich entwickeln)
       2. {2}brechen (in Stücke brechen)
@@ -168,6 +173,7 @@ exercises:
     listLayout: true
     title: "Vorsilbe → Bedeutung"
     instructions: "Nenne die typische Bedeutung der Vorsilbe (Veränderung / Trennung / Entfernung / negativ / transitiv / Anfang). 6 Items."
+    instructionsEn: "Name the typical meaning of the prefix (Veränderung / Trennung / Entfernung / negativ / transitiv / Anfang). 6 items."
     text: |
       1. ver- = {1}
       2. zer- = {2}
@@ -189,6 +195,7 @@ exercises:
     listLayout: true
     title: "Das richtige Suffix"
     instructions: "Setze das passende Suffix ein (-ung, -heit, -keit, -bar, -los, -haft, -tion). 8 Items."
+    instructionsEn: "Fill in the right suffix (-ung, -heit, -keit, -bar, -los, -haft, -tion). 8 items."
     text: |
       1. die Entscheid{1} (Nomen: das Entscheiden)
       2. die Frei{2} (Nomen: das Freisein)
@@ -213,6 +220,7 @@ exercises:
     type: single-choice
     title: "Welche Wortart entsteht?"
     instructions: "Wähle die richtige Wortart, die mit dem Suffix entsteht. 6 Items."
+    instructionsEn: "Choose the correct word class that the suffix creates. 6 items."
     items:
       - q: "Verb + -ung → …"
         options:
@@ -263,6 +271,7 @@ exercises:
     listLayout: true
     title: "Kompositum: Bestimmbegriff + Grundbegriff"
     instructions: "Setze das fehlende Wort ein (Bestimmbegriff oder Grundbegriff). Lese das Kompositum von rechts nach links. 6 Items."
+    instructionsEn: "Fill in the missing word (Bestimmbegriff or Grundbegriff). Read the compound from right to left. 6 items."
     text: |
       1. Verkehrs{1} = der Verkehr + die Wende
       2. Klima{2} = das Klima + der Schutz
@@ -283,6 +292,7 @@ exercises:
     type: matching
     title: "Vorsilbe und ihre Bedeutung verbinden"
     instructions: "Ordne jeder Vorsilbe (1–6) ihre typische Bedeutung (a–f) zu."
+    instructionsEn: "Match each prefix (1–6) with its typical meaning (a–f)."
     left:
       - { key: "1", text: "ver-" }
       - { key: "2", text: "zer-" }
@@ -310,6 +320,7 @@ exercises:
     type: gap-bank
     title: "Fugenelement oder nicht?"
     instructions: "Füll die Lücken mit dem passenden Fugenelement (-s-, -es-, -n-, -en-, -er-). Achtung: nicht überall ist ein Fugenelement nötig — dann wähle „—\". 6 Items."
+    instructionsEn: "Fill in the gaps with the right linking element (-s-, -es-, -n-, -en-, -er-). Careful: not every compound needs one — then choose „—\". 6 items."
     text: |
       1. Verkehr{1}wende
       2. Klima{2}schutz
@@ -331,6 +342,7 @@ exercises:
     type: categorize
     title: "Vorsilbe oder Nachsilbe?"
     instructions: "Ordne jeden Baustein der richtigen Kategorie zu."
+    instructionsEn: "Sort each building block into the correct category."
     buckets:
       - { key: prefix, label: "Vorsilbe (Präfix) — kommt vor dem Stamm" }
       - { key: suffix, label: "Nachsilbe (Suffix) — kommt nach dem Stamm" }
@@ -349,6 +361,7 @@ exercises:
     type: order
     title: "Satzbau: Kompositum im Satz"
     instructions: "Bring die Wörter in die richtige Reihenfolge. Das Verb steht auf Position 2."
+    instructionsEn: "Put the words in the correct order. The verb is in position 2."
     items:
       - tiles: [Die, Regierung, beschließt, eine, Verkehrswende]
         answer: [0, 1, 2, 3, 4]
@@ -368,6 +381,7 @@ exercises:
     type: true-false
     title: "Vorsilben richtig trennen?"
     instructions: "Achtung: Manche Verben mit Vorsilbe sind trennbar, andere untrennbar. Entscheide: Ist die Vorsilbe hier trennbar (T) oder untrennbar (U)?"
+    instructionsEn: "Careful: some prefixed verbs are separable, others inseparable. Decide: is the prefix separable (T) or inseparable (U) here?"
     items:
       - q: "verreisen — *ver-* ist trennbar."
         answer: true
@@ -394,6 +408,7 @@ exercises:
     listLayout: true
     title: "Wortfamilie: Stamm + Ableitung"
     instructions: "Bilde aus dem Stamm das genannte Wort. 6 Items."
+    instructionsEn: "Form the given word from the stem. 6 items."
     text: |
       Stamm: entscheid-
       1. Nomen mit -ung: {1}
@@ -479,6 +494,7 @@ exercises:
     type: matching
     title: "Kompositum: Bestimmbegriff + Grundbegriff"
     instructions: "Ordne jedem Kompositum (1–6) seine Zerlegung (a–f) zu."
+    instructionsEn: "Match each compound (1–6) with how it breaks down (a–f)."
     left:
       - { key: "1", text: "Verkehrswende" }
       - { key: "2", text: "Entscheidungsträger" }
@@ -506,6 +522,7 @@ exercises:
     type: gap-bank
     title: "Wortfamilien ergänzen"
     instructions: "Füll die 8 Lücken mit Wörtern aus der Wortfamilie entscheiden / verstehen / erfahren. Zwei Wörter sind zu viel."
+    instructionsEn: "Fill in the 8 gaps with words from the word families entscheiden / verstehen / erfahren. Two words are not needed."
     text: |
       Wortfamilie entscheiden: Die {1} steht noch aus. Die {2} haben das Projekt
       abgelehnt. Das war eine {3} — eine falsche {4}. Wir brauchen eine
@@ -529,6 +546,7 @@ exercises:
     type: order
     title: "Satzbau: langes Kompositum im Satz"
     instructions: "Bring die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: [Die, Umweltverträglichkeitsprüfung, hat, ergeben, dass, das, Projekt, genehmigungsfähig, ist]
         answer: [0, 1, 2, 3, 4, 5, 6, 7, 8]
@@ -548,6 +566,7 @@ exercises:
     type: odd-one-out
     title: "Wortschatz: Was passt nicht zur Wortfamilie?"
     instructions: "Streiche das Wort, das nicht zur Wortfamilie passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not belong to the word family and explain why."
     groups:
       - items: [entscheiden, Entscheidung, entscheidend, bearbeiten]
         odd: 3
@@ -567,6 +586,7 @@ exercises:
     type: single-choice
     title: "Welche Vorsilbe passt?"
     instructions: "Wähle die Vorsilbe, die das Verb korrekt vervollständigt. Achtung: Es gibt oft nur eine richtige Antwort!"
+    instructionsEn: "Choose the prefix that correctly completes the verb. Careful: there is often only one correct answer!"
     items:
       - q: "sich ___ wickeln (etwas entfalten)"
         options:
@@ -649,6 +669,7 @@ exercises:
     listLayout: true
     title: "Lückentext: Wie funktioniert deutsche Wortbildung? (Lesetext)"
     instructions: "Füll jede Lücke mit einem Wort. Es geht um Wortbildung. 10 Items."
+    instructionsEn: "Fill each gap with one word. The focus is word formation. 10 items."
     text: |
       Wer eine neue Sprache lernt, kennt das Problem: Man stößt auf (1) {1} Wörter,
       schlägt sie nach, vergisst sie. Bei einer flektierenden Sprache wie dem
@@ -678,6 +699,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Die Vorsilbe ____- bedeutet Trennung."
         options:
@@ -729,6 +751,7 @@ exercises:
     bankSort: true
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Aus einem Zeitungsartikel: Die (1) {1} ist in Berlin seit Monaten das
       wichtigste Thema. Sie beherrscht jedes (2) {2}. Viele (3) {3} — also Leute, die Entscheidungen treffen
@@ -762,6 +785,7 @@ exercises:
       > Die dritte Säule sind die **Komposita** — zusammengesetzte Wörter. Das Deutsche liebt sie, und sie sind oft der Schlüssel zu langen Fachbegriffen. *Verkehrswende = Verkehr + Wende*. *Entscheidungsträgerin = Entscheidung + Träger + -in*. *Klimaschutz = Klima + Schutz*. Der Grundbegriff steht immer rechts, der Bestimmbegriff links, dazwischen oft ein Fugenelement (*-s-, -n-, -en-, -er-*). Wer diese drei Säulen beherrscht, hat nicht nur Tausende neuer Wörter zur Hand, sondern kann auch selbst lange, präzise Komposita bilden.
 
       Richtig (R) oder falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Im Deutschen kann man aus bekannten Wörtern unbekannte ableiten."
         answer: true
@@ -795,6 +819,7 @@ exercises:
       > *Schutz* — der Schutz des Klimas. Bei *Bezahlbarkeit* erkennen wir das
       > Suffix *-bar* (kann bezahlt werden) und *-keit* (macht daraus ein Nomen).
       > Wer diese Bausteine kennt, hat das System in der Hand.
+    instructionsEn: "Read the following text and choose a, b, or c."
     items:
       - q: "Woraus besteht das Kompositum Verkehrswende laut Text?"
         options:
@@ -873,6 +898,7 @@ exercises:
     listLayout: true
     title: "Gemischter Schnelltest"
     instructions: "Eine Minute pro Item. Keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 15 Items."
+    instructionsEn: "One minute per item. No notes. Items marked (B2/xx) or (B1/xx) review an earlier lesson. 15 items."
     text: |
       **Vorsilben (Bedeutung):**
       1. Vorsilbe für „Trennung": {1}
@@ -918,6 +944,7 @@ exercises:
     type: odd-one-out
     title: "Odd one out"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [verändern, zerbrechen, entfernen, zerreißen]
         odd: 2
@@ -944,6 +971,7 @@ exercises:
     listLayout: true
     title: "Rückblick: B2/01, B2/08, B1/12"
     instructions: "Wiederholung früherer Lektionen. 10 Items."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B2/01 (Nominalstil und Verbalstil):**
       1. Nomen zu „verbessern" (mit Artikel): {1}

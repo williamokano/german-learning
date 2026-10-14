@@ -17,6 +17,7 @@ exercises:
     title: 'Dialog Hör-Check: Dialog A (Feuilleton-Diskussion)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: 'Anna liest einen Feuilleton-Artikel über einen Roman von Helga Schubert.'
         answer: true
@@ -41,6 +42,7 @@ exercises:
     audio: dialog1_b.mp3
     optionLayout: block
     instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: 'Worin sieht Frau Hoffmann den größten Reibungspunkt zwischen Feuilleton und Literaturwissenschaft?'
         options:
@@ -84,6 +86,7 @@ exercises:
     title: 'Hörtext-Lückentext: Ein Radio-Feature zur Gegenwartsliteratur'
     audio: hoertext.mp3
     instructions: 'Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.'
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Three words in the box are not needed."
     text: |
       Liebe Hörerinnen und Hörer, willkommen zu „Stimmen der Nacht". Drei
       {1} sprechen heute über das Licht in ihren Texten. Mara Lunau aus
@@ -110,6 +113,7 @@ exercises:
     audio: transcript_ansage1.mp3
     optionLayout: block
     instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    instructionsEn: "Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Literaturhauses Berlin erreicht. Wir sind bis einschließlich Samstag, 16 Uhr, geöffnet. Am Sonntag bleibt das Haus geschlossen. Für die Lesung mit Helga Schubert am Dienstag, 19 Uhr, sind alle Plätze vergriffen — eine Warteliste ist eingerichtet. Bitte rufen Sie uns zurück unter der Nummer 030-5512-0817, oder schreiben Sie uns an lesungen@literaturhaus-berlin.de. Die neue Anthologie „Stimmen der Nacht" liegt an der Kasse zum Preis von zweiundzwanzig Euro bereit. Vielen Dank für Ihren Anruf.'
     items:
       - q: 'Welche Einrichtung spricht auf dem Anrufbeantworter?'
@@ -147,6 +151,7 @@ exercises:
     title: 'Tabelle ausfüllen: Dialog B (Satire und Hörfunk)'
     audio: dialog1_b.mp3
     instructions: 'Hör Dialog B noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    instructionsEn: "Listen to Dialog B again and complete the table. One piece of information is missing in each row."
     columns: ['Thema', 'Position Frau Hoffmann', 'Empfehlung', 'Stichwort']
     rows:
       - label: 'Feuilleton vs. Wissenschaft'
@@ -176,6 +181,7 @@ exercises:
     title: 'Sprachliche Bilder: welcher Tropus?'
     optionLayout: block
     instructions: 'Wähle die zutreffende Bezeichnung (a, b oder c).'
+    instructionsEn: "Choose the correct term (a, b, or c)."
     items:
       - q: '„Die Stadt schläft."'
         options:
@@ -219,6 +225,7 @@ exercises:
     listLayout: true
     title: 'Metapher, Vergleich, Personifikation einsetzen'
     instructions: 'Setze das passende Bildelement ein. 6 Items.'
+    instructionsEn: "Fill in the appropriate image element. 6 items."
     text: |
       1. Die Stadt ist ein {1}. (Metapher: Bezug auf Gefahr)
       2. Ihr Haar glänzte {2} schwarze Seide. (Vergleich mit „wie")
@@ -239,6 +246,7 @@ exercises:
     type: matching
     title: 'Erzählperspektive: auktorial, personal, Ich-Erzähler'
     instructions: 'Ordne jeden Romanausschnitt (1–5) der passenden Erzählperspektive (a–c) zu.'
+    instructionsEn: "Match each novel excerpt (1–5) with the appropriate narrative perspective (a–c)."
     left:
       - { key: '1', text: '„Ich erzähle heute, wie es anfing — im Herbst 1989."' }
       - { key: '2', text: '„Er ging durch den Park und ahnte nicht, dass sie ihm folgte."' }
@@ -262,6 +270,7 @@ exercises:
     title: 'Konnotation erkennen'
     optionLayout: block
     instructions: 'Welche Konnotation hat das Wort im gegebenen Kontext?'
+    instructionsEn: "What connotation does the word have in the given context?"
     items:
       - q: '„Die Stille nach dem Urteil" — welche Konnotation hat „Stille"?'
         options:
@@ -305,6 +314,7 @@ exercises:
     listLayout: true
     title: 'Rhetorische Figuren einsetzen'
     instructions: 'Setze die passende Figur ein (Anapher, Trikolon, Antithese, Oxymoron, Chiasmus). 6 Items.'
+    instructionsEn: "Fill in the appropriate figure of speech (Anapher, Trikolon, Antithese, Oxymoron, Chiasmus). 6 items."
     text: |
       1. Die Stadt {1}. Die Stadt {2}. Die Stadt {3}. (Anapher — gleicher Satzanfang, drei verschiedene Verben)
       2. „Ehre, Pflicht, {4}." (Trikolon — das dritte Glied fehlt)
@@ -327,6 +337,7 @@ exercises:
     type: matching
     title: 'Rhetorische Figuren: Definition zuordnen'
     instructions: 'Ordne jede Figur (1–5) der passenden Definition (a–e) zu.'
+    instructionsEn: "Match each figure of speech (1–5) with the appropriate definition (a–e)."
     left:
       - { key: '1', text: 'Anapher' }
       - { key: '2', text: 'Trikolon' }
@@ -352,6 +363,7 @@ exercises:
     title: 'Satirische Mittel: welches Mittel liegt vor?'
     optionLayout: block
     instructions: 'Wähle das passende satirische Mittel (a, b oder c).'
+    instructionsEn: "Choose the appropriate satirical device (a, b, or c)."
     items:
       - q: '„Das Buch liest sich wie ein Manuskript, das im Random-House-Algorithmus entstanden ist."'
         options:
@@ -394,6 +406,7 @@ exercises:
     type: gap-bank
     title: 'Hörfunk-Bausteine: passendes Wort einsetzen'
     instructions: 'Füll die 6 Lücken mit dem passenden Wort aus dem Kasten. Drei Wörter sind zu viel.'
+    instructionsEn: "Fill in the 6 gaps with the appropriate word from the box. Three words are not needed."
     text: |
       Ein Radio-Feature besteht aus mehreren Bausteinen. Den Anfang macht
       die {1}: Sie liefert den Kontext, nennt das Thema und gibt
@@ -420,6 +433,7 @@ exercises:
     title: 'Journalistische Hörfunk-Form erkennen'
     optionLayout: block
     instructions: 'Entscheide, welche journalistische Hörfunk-Form vorliegt (a, b oder c).'
+    instructionsEn: "Decide which journalistic radio format this is (a, b, or c)."
     items:
       - q: '„Um 14 Uhr versammelten sich 200 Personen vor dem Rathaus."'
         options:
@@ -463,6 +477,7 @@ exercises:
     listLayout: true
     title: 'Konnotationen bestimmen'
     instructions: 'Setze den passenden Konnotationstyp ein. 6 Items.'
+    instructionsEn: "Fill in the appropriate type of connotation. 6 items."
     text: |
       1. „Heimat" ruft Bilder von „Dorf, Wald, Kindheit" hervor = {1}.
       2. „Heimat" weckt Gefühle von „Geborgenheit, Verlust" = {2}.
@@ -483,6 +498,7 @@ exercises:
     type: order
     title: 'Aufbau eines Hörfunk-Features'
     instructions: 'Bring die Bausteine eines Hörfunk-Features in die richtige Reihenfolge (vom Anfang bis zum Schluss).'
+    instructionsEn: "Put the building blocks of a radio feature (Hörfunk-Feature) in the correct order (from beginning to end)."
     items:
       - tiles: [Anmoderation, erste Szene mit O-Ton, Sprecher-Brücke, zentrale Pointe, Schluss-Satz]
         answer: [0, 1, 2, 3, 4]
@@ -494,6 +510,7 @@ exercises:
     title: 'Typische Fehler im Feuilleton'
     optionLayout: block
     instructions: 'Wähle die zutreffende Fehlerkategorie (a, b oder c).'
+    instructionsEn: "Choose the correct error category (a, b, or c)."
     items:
       - q: '„Heimat ist ein Dach über dem Kopf."'
         options:
@@ -538,6 +555,7 @@ exercises:
     type: matching
     title: 'Wirkungsabsicht der Satire: Mittel zuordnen'
     instructions: 'Ordne jede Wirkungsabsicht (1–5) dem typischen Mittel (a–e) zu.'
+    instructionsEn: "Match each intended effect (1–5) with the typical device (a–e)."
     left:
       - { key: '1', text: 'Bloßstellung' }
       - { key: '2', text: 'Warnung' }
@@ -563,6 +581,7 @@ exercises:
     title: 'Register: Feuilleton oder Umgangssprache?'
     optionLayout: block
     instructions: 'Entscheide, welche Formulierung in einen Feuilleton-Artikel passt.'
+    instructionsEn: "Decide which wording fits in a Feuilleton article."
     items:
       - q: 'In einem Feuilleton-Essay über ein neues Buch:'
         options:
@@ -606,6 +625,7 @@ exercises:
     title: 'Erzählperspektive: Wirkung beschreiben'
     optionLayout: block
     instructions: 'Wähle die zutreffende Aussage zur Wirkung.'
+    instructionsEn: "Choose the correct statement about the effect."
     items:
       - q: 'Ein Roman wird in Ich-Form erzählt. Welche Wirkung entsteht?'
         options:
@@ -649,6 +669,7 @@ exercises:
     listLayout: true
     title: 'Klischee durch frisches Bild ersetzen'
     instructions: 'Ersetze das Klischee durch ein **frischeres** Bild. 6 Items.'
+    instructionsEn: "Replace the cliché with a **fresher** image. 6 items."
     text: |
       1. „Ihre Augen funkelten." → „Ihre Augen {1} das Licht **fest**, ohne es zurückzugeben."
       2. „Die Stadt schlief." → „Die Stadt {2} den Atem an."
@@ -669,6 +690,7 @@ exercises:
     type: matching
     title: 'Sprachliche Bilder: Funktion zuordnen'
     instructions: 'Ordne jeder Aussageabsicht (1–5) die passende Figur (a–e) zu.'
+    instructionsEn: "Match each communicative intent (1–5) with the appropriate figure of speech (a–e)."
     left:
       - { key: '1', text: 'Verdichten — in einem Bild viel sagen' }
       - { key: '2', text: 'Kenntlich machen — Vergleich markieren, Distanz wahren' }
@@ -694,6 +716,7 @@ exercises:
     title: 'Hörfunk-Analyse: was leistet die Anmoderation?'
     optionLayout: block
     instructions: 'Wähle die zutreffende Aussage zur Anmoderation.'
+    instructionsEn: "Choose the correct statement about the Anmoderation (presenter's introduction)."
     items:
       - q: 'Eine Anmoderation für ein Satire-Feature sollte vor allem:'
         options:
@@ -737,6 +760,7 @@ exercises:
     listLayout: true
     title: 'Angriffsziel und Wirkungsabsicht einer Satire'
     instructions: 'Setze das passende Wort ein (Angriffsziel / Wirkungsabsicht / Indirektheit / Übertreibung / Sarkasmus / Wortspiel). 6 Items.'
+    instructionsEn: "Fill in the appropriate word (Angriffsziel / Wirkungsabsicht / Indirektheit / Übertreibung / Sarkasmus / Wortspiel). 6 items."
     text: |
       1. „Er ist so klug, dass er die Frage schon beantwortet hat, bevor sie gestellt wurde." — das ist eine {1}.
       2. „Das Buch liest sich wie ein Manuskript aus dem Random-House-Algorithmus." — das ist eine {2}.
@@ -802,6 +826,7 @@ exercises:
     listLayout: true
     title: 'Lückentext: Werkzeuge der literarischen Sprache'
     instructions: 'Füll jede Lücke mit **einem** passenden Wort. 10 Items.'
+    instructionsEn: "Fill each gap with **one** appropriate word. 10 items."
     text: |
       Literatur lebt von {1}. Wer „die Stadt schläft" schreibt, nutzt eine
       {2} — Städte schlafen nicht, also wird ein menschliches Verb auf ein
@@ -832,6 +857,7 @@ exercises:
     title: 'Sprachbausteine Teil 1'
     optionLayout: block
     instructions: 'Wähle die passende Option (a, b oder c) für jede Lücke.'
+    instructionsEn: "Choose the appropriate option (a, b, or c) for each gap."
     items:
       - q: '„Berlin hat entschieden" ist ein Beispiel für eine {1}.'
         options:
@@ -883,6 +909,7 @@ exercises:
     bankSort: true
     title: 'Sprachbausteine Teil 2 (Wortbank)'
     instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Aus einem Feuilleton-Essay: „Literaturkritik braucht {1} —
       nicht jede Pointe, aber ein Gespür für die {2} Schicht eines
@@ -920,6 +947,7 @@ exercises:
       > *Es liegt an einer neuen Generation von Kritikerinnen und Kritikern, das Gleichgewicht wiederzufinden. Sie müssen nicht schneller sein als die sozialen Medien; sie müssen genauer sein. Sie müssen nicht lauter sein als die Algorithmen; sie müssen klarer sein. Wer das verstanden hat, braucht kein Feuilleton, das schreit. Wer das verstanden hat, kann in leiser Stimme mehr bewegen als mit jeder Überschrift, die nach Aufmerksamkeit schreit.*
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: 'Der Text beklagt, dass die Feuilleton-Sprache zu gelehrt geworden sei.'
         answer: false
@@ -958,6 +986,7 @@ exercises:
       > Ich widerspreche. Das Feuilleton verändert sich gerade — von der schnellen Pointe zur längeren Essayform. Diese Entwicklung kommt mir entgegen. Wir sollten sie unterstützen, nicht beklagen.
 
       Was ist die Leitfrage der Diskussion?
+    instructionsEn: "Read the following forum posts and choose a, b, or c."
 
     items:
       - q: 'Was ist die Leitfrage der Diskussion?'
@@ -1017,6 +1046,7 @@ exercises:
     listLayout: true
     title: 'Gemischter Schnelltest'
     instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (B2/..) oder (C1/..) wiederholen frühere Lektionen. 15 Items.'
+    instructionsEn: "One minute per item. No notes. Items marked (B2/..) or (C1/..) review earlier lessons. 15 items."
     text: |
       **Literatur und Medien (C1/10):**
       1. „Die Stadt schläft" ist eine {1}. (Tropus)
@@ -1068,6 +1098,7 @@ exercises:
     type: odd-one-out
     title: 'Odd one out: Tropen und Figuren'
     instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [Metapher, Vergleich, Allegorie, Personifikation]
         odd: 2
@@ -1094,6 +1125,7 @@ exercises:
     listLayout: true
     title: 'Rückblick: B2/04, B2/05, B2/07, B2/09, C1/05, C1/09, C1/10'
     instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus C1/10 (Literatur und Medien):**
       1. „Berlin hat entschieden" ist eine {1}.

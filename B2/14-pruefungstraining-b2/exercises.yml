@@ -582,6 +582,7 @@ exercises:
     type: speaking-prompt
     title: "Aufgabe 11 — Sprechen (3 Teile)"
     instructions: "Führen Sie alle drei Sprechaufgaben durch — mit einem Partner oder als Monolog (Aufnahme). Bewerten Sie sich anschließend selbst anhand der Kriterien."
+    instructionsEn: "Complete all three speaking tasks — with a partner or as a monologue (recording). Then assess yourself against the criteria."
     parts:
       - label: "Teil 4a — Sich vorstellen (ca. 2 Minuten)"
         prompt: "Stellen Sie sich vor und sprechen Sie über die folgenden Punkte."

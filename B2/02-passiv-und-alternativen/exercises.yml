@@ -17,6 +17,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
     instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: "Anna hat den ganzen Vortrag problemlos verstanden."
         answer: false
@@ -40,6 +41,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Was kritisiert Yusuf an Hannahs Entwurf?"
         options:
@@ -69,6 +71,7 @@ exercises:
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
     instructions: "Hör den Hörtext und füll die 7 Lücken. **Drei Wörter werden nicht gebraucht.**"
+    instructionsEn: "Listen to the Hörtext and fill in the 7 gaps. **Three words are not needed.**"
     text: |
       Und nun zu den Wissenschaftsnachrichten. In einer neuen Studie ist
       {1} worden, wie sich Mikroplastik im Trinkwasser nachweisen {2}.
@@ -94,6 +97,7 @@ exercises:
     title: "Kurze Ansage: Durchsage im Forschungszentrum"
     audio: transcript_ansage1.mp3
     instructions: "Hör die Durchsage. Wähl dann die richtige Antwort (a, b oder c). Hör erst einmal, bevor du das Transkript liest."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     optionLayout: block
     transcript: 'Achtung, eine Durchsage für alle Mitarbeiterinnen und Mitarbeiter des Forschungszentrums. Das Hauptlabor wird heute zwischen 14 und 16 Uhr gereinigt und ist während dieser Zeit gesperrt. Laufende Versuche sind bis 13 Uhr zu beenden, alle Proben sind vorher sicher zu lagern. Der Zutritt ist erst ab 16 Uhr wieder gestattet. Bitte beachten Sie: Die neue Sicherheitsvorschrift ist ab Montag verbindlich. Vielen Dank.'
     items:
@@ -134,6 +138,7 @@ exercises:
     listLayout: true
     title: "Passiv → man + Aktiv"
     instructions: "Schreib den Passivsatz mit `man` + Aktiv um. Trag die fehlende Verbform ein. 6 Items."
+    instructionsEn: "Rewrite the passive sentence with `man` + active. Fill in the missing verb form. 6 items."
     text: |
       1. Die Daten werden ausgewertet. → Man {1} die Daten aus. (auswerten)
       2. Hier wird viel diskutiert. → Hier {2} man viel. (diskutieren)
@@ -155,6 +160,7 @@ exercises:
     listLayout: true
     title: "sich lassen + Infinitiv"
     instructions: "Form die Sätze mit `sich lassen` um. Trag die richtige Form von `lassen` + Reflexivpronomen ein. 6 Items."
+    instructionsEn: "Rewrite the sentences with `sich lassen`. Fill in the correct form of `lassen` + reflexive pronoun. 6 items."
     text: |
       1. Das Problem kann gelöst werden. → Das Problem {1} sich lösen.
       2. Die Daten können gespeichert werden. → Die Daten {2} sich speichern. (Plural!)
@@ -176,6 +182,7 @@ exercises:
     listLayout: true
     title: "-bar-Adjektive bilden"
     instructions: "Bilde aus dem Verb in Klammern ein `-bar`-Adjektiv (prädikativ, ohne Endung). 6 Items."
+    instructionsEn: "Form a `-bar` adjective from the verb in brackets (predicative, no ending). 6 items."
     text: |
       1. Die Aufgabe ist {1}. (lösen)
       2. Das Ziel ist durchaus {2}. (machen)
@@ -197,6 +204,7 @@ exercises:
     listLayout: true
     title: "sein + zu + Infinitiv"
     instructions: "Form mit `sein + zu + Infinitiv` um. Achte auf trennbare Verben (Vorsilbe + zu + Stamm). 6 Items."
+    instructionsEn: "Rewrite with `sein + zu + Infinitiv`. Watch out for separable verbs (prefix + zu + stem). 6 items."
     text: |
       1. Die Quellen müssen angegeben werden. → Die Quellen sind {1}. (angeben)
       2. Der Antrag muss eingereicht werden. → Der Antrag ist {2}. (einreichen)
@@ -217,6 +225,7 @@ exercises:
     type: single-choice
     title: "Vorgang oder Zustand? wird oder ist"
     instructions: "Vorgang (werden) oder Zustand (sein)? Wähl die passende Form."
+    instructionsEn: "Process (werden) or state (sein)? Choose the right form."
     items:
       - q: "Achtung, das Tor (1) ____ jetzt geschlossen! (Handlung läuft gerade)"
         options:
@@ -260,6 +269,7 @@ exercises:
     type: matching
     title: "Passiversatz: gleiche Bedeutung verbinden"
     instructions: "Verbinde jeden Passivsatz (1–6) mit der bedeutungsgleichen Ersatzform (a–h). Zwei Antworten bleiben übrig."
+    instructionsEn: "Match each passive sentence (1–6) with the equivalent alternative form (a–h). Two answers are left over."
     left:
       - { key: "1", text: "Das Problem kann gelöst werden." }
       - { key: "2", text: "Die Quellen müssen angegeben werden." }
@@ -290,6 +300,7 @@ exercises:
     listLayout: true
     title: "man-Sätze: 3. Person Singular"
     instructions: "Trag die richtige Form ein. ⚠️ `man` steht immer in der 3. Person Singular. 6 Items."
+    instructionsEn: "Fill in the correct form. ⚠️ `man` always takes the 3rd person singular. 6 items."
     text: |
       1. In der Schweiz {1} (sprechen) man vier Sprachen.
       2. Wie {2} (schreiben) man dieses Wort?
@@ -335,6 +346,7 @@ exercises:
     listLayout: true
     title: "-bar-Adjektive attributiv (mit Endung)"
     instructions: "Setz das `-bar`-Adjektiv vor das Nomen — mit der richtigen Endung. 5 Items."
+    instructionsEn: "Put the `-bar` adjective before the noun — with the correct ending. 5 items."
     text: |
       1. eine {1} Aufgabe (lösbar, Nom. fem.)
       2. ein gut {2} Bericht (lesbar, Nom. mask.)
@@ -373,6 +385,7 @@ exercises:
     type: gap-bank
     title: "Wissenschaftstext ergänzen"
     instructions: "Füll die 8 Lücken mit der passenden Form aus dem Wortkasten. **Zwei Wörter werden nicht gebraucht.**"
+    instructionsEn: "Fill in the 8 gaps with the right form from the word box. **Two words are not needed.**"
     text: |
       Im Labor {1} jeden Tag viele Versuche durchgeführt. Anschließend
       {2} man die Daten aus. Erst wenn die Ergebnisse überprüfbar sind,
@@ -420,6 +433,7 @@ exercises:
     type: matching
     title: "sein + zu: müssen oder können?"
     instructions: "Ordne jedem Satz (1–6) die richtige Bedeutung zu (a oder b). Jede Bedeutung kommt mehrmals vor."
+    instructionsEn: "Match each sentence (1–6) with the correct meaning (a or b). Each meaning is used more than once."
     left:
       - { key: "1", text: "Die Quellen sind anzugeben." }
       - { key: "2", text: "Das Problem ist leicht zu lösen." }
@@ -464,6 +478,7 @@ exercises:
     listLayout: true
     title: "Vorgang vs. Zustand im Kontext"
     instructions: "Setz `wird`/`werden` (Vorgang) oder `ist`/`sind` (Zustand) ein. 6 Items."
+    instructionsEn: "Fill in `wird`/`werden` (process) or `ist`/`sind` (state). 6 items."
     text: |
       1. Bitte warten Sie — der Bericht {1} gerade geprüft. (Handlung)
       2. Der Bericht {2} schon fertig; er {3} bereits genehmigt. (Zustand, 2×)
@@ -483,6 +498,7 @@ exercises:
     type: odd-one-out
     title: "Was passt nicht?"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [lösbar, machbar, dankbar, messbar]
         odd: 2
@@ -503,6 +519,7 @@ exercises:
     listLayout: true
     title: "Nominalstil → Verbalstil (Wdh. B2/01) mit Passiversatz"
     instructions: "Wandle die Nominalphrase in einen Verbalstil-Satz um, indem du die Lücke füllst. 5 Items."
+    instructionsEn: "Turn the noun phrase into a Verbalstil sentence by filling the gap. 5 items."
     text: |
       1. Bei der Auswertung der Daten → Wenn man die Daten {1} … (auswerten)
       2. Nach der Veröffentlichung der Studie → Nachdem die Studie {2} worden war … (veröffentlichen, Passiv Plqpf.)
@@ -577,6 +594,7 @@ exercises:
     listLayout: true
     title: "Lückentext: Wie eine Studie in die Nachrichten kommt"
     instructions: "Füll jede Lücke mit einem Wort. 10 Items."
+    instructionsEn: "Fill each gap with one word. 10 items."
     text: |
       Der Weg von der Studie zur Schlagzeile (1) {1} sich in mehreren
       Schritten beschreiben. In einem Labor (2) {2} Versuche durchgeführt
@@ -606,6 +624,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähl für jede Lücke die richtige Option (a, b oder c)."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Das Problem (1) ____ sich leicht lösen."
         options:
@@ -657,6 +676,7 @@ exercises:
     bankCase: upper
     bankSort: true
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. **Fünf Wörter werden nicht gebraucht.** Jedes Wort passt nur einmal."
+    instructionsEn: "Fill the 10 gaps with words from the box. **Five words are not needed.** Each word fits only once."
     text: |
       Ein Pressetext erklärt eine neue Methode: „Mit dem Verfahren
       {1} sich Mikroplastik im Wasser nachweisen. Kleinste Mengen, die
@@ -692,6 +712,7 @@ exercises:
       > So entsteht die Kette von der Probe bis zur Schlagzeile. An jeder Station wird die Sprache ein wenig einfacher. Was im Labor noch streng im Passiv formuliert ist, ist am Ende in klare, aktivische Sätze übersetzt — denn eine gute Nachricht muss vor allem eines sein: gut verständlich.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Nur wenige der täglich erscheinenden Studien schaffen es in die Nachrichten."
         answer: true
@@ -726,6 +747,7 @@ exercises:
       > eingesetzt werden darf, muss es von einer Behörde genehmigt werden.
 
       Wähl a, b oder c.
+    instructionsEn: "Read the text. Choose a, b, or c."
     items:
       - q: "Wo wurde das neue Verfahren entwickelt?"
         options:
@@ -789,7 +811,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "Eine Minute pro Item. Ohne Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items."
+    instructions: "Eine Minute pro Item. Ohne Notizen. Items mit Lektionsangabe, z. B. (B1/04), wiederholen eine frühere Lektion. 15 Items."
+    instructionsEn: "One minute per item. No notes. Items marked with a lesson reference, e.g. (B1/04), review an earlier lesson. 15 items."
     text: |
       1. „Das Problem kann gelöst werden" mit sich lassen: Das Problem {1} sich lösen.
       2. „lösen" als -bar-Adjektiv: {2}
@@ -826,6 +849,7 @@ exercises:
     type: odd-one-out
     title: "Odd one out"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum. 6 Gruppen."
+    instructionsEn: "Cross out the word that does not fit and explain why. 6 groups."
     groups:
       - items: [lösbar, machbar, dankbar, essbar]
         odd: 2
@@ -852,6 +876,7 @@ exercises:
     listLayout: true
     title: "Rückblick: B1/04, B2/01, B1/06"
     instructions: "Wiederholung früherer Lektionen. 10 Items."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B1/04 (Vorgangspassiv):**
       1. Passiv Präsens von „erledigen": Die Aufgabe {1} {2}. (er/sie/es)

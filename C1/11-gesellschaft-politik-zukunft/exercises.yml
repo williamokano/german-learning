@@ -18,6 +18,7 @@ exercises:
     title: 'Dialog Hör-Check: Dialog A (KI-Debatte)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: 'In Hessen soll eine KI Lehrkräfte in einem Pilotprojekt vollständig ersetzen.'
         answer: false
@@ -42,6 +43,7 @@ exercises:
     audio: dialog1_b.mp3
     optionLayout: block
     instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: 'Was prognostiziert Frau Schäfer für Köln bis 2040?'
         options:
@@ -78,6 +80,7 @@ exercises:
     title: 'Hörtext-Lückentext: KI in der Berufswelt'
     audio: hoertext.mp3
     instructions: 'Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.'
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Three words in the box are not needed."
     text: |
       Liebe Hörerinnen und Hörer, willkommen zu „Wirtschaft und Gesellschaft".
       Eine neue {1} des Instituts für Arbeitsmarkt- und Berufsforschung hat
@@ -104,6 +107,7 @@ exercises:
     audio: transcript_ansage1.mp3
     optionLayout: block
     instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    instructionsEn: "Listen to the answering-machine message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Bürgeramtes der Stadt Köln erreicht. Unsere Sprechzeiten sind montags bis freitags von acht bis dreizehn Uhr, donnerstags zusätzlich bis achtzehn Uhr. Bitte vereinbaren Sie für Anmeldungen, Ummeldungen und Passangelegenheiten vorab einen Termin online unter www.stadt-koeln.de oder telefonisch unter 0221-1234567. Am Mittwoch, den 15. Oktober, bleibt das Bürgeramt wegen einer internen Schulung geschlossen. Für eilige Anliegen rund um das Thema Wohnsitz wenden Sie sich bitte direkt an die Servicestelle im Erdgeschoss. Bitte beachten Sie: Eine telefonische Beratung zu Sozialleistungen ist nicht möglich. Bitte ruf mich zurück — ich wiederhole: 0221-1234567. Vielen Dank für Ihr Verständnis.'
     items:
       - q: 'Welche Einrichtung ist auf dem Anrufbeantworter zu hören?'
@@ -141,6 +145,7 @@ exercises:
     title: 'Tabelle ausfüllen: Dialog B (Demografie-Interview)'
     audio: dialog1_b.mp3
     instructions: 'Hör Dialog B noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    instructionsEn: "Listen to Dialog B again and fill in the table. One piece of information is missing in each row."
     columns: ['Problem', 'Zahl / Beispiel', 'Strategie']
     rows:
       - label: 'Demografie'
@@ -167,6 +172,7 @@ exercises:
     title: 'Zweiteilige Konnektoren — welche Form passt?'
     optionLayout: block
     instructions: 'Wähle die Formulierung mit dem passenden zweiteiligen Konnektor.'
+    instructionsEn: "Choose the version with the appropriate two-part connector."
     items:
       - q: 'Welcher Satz verwendet „einerseits … andererseits" korrekt?'
         options:
@@ -210,6 +216,7 @@ exercises:
     listLayout: true
     title: 'Konjunktiv I für fremde Positionen'
     instructions: 'Setze die Verben in den Konjunktiv I (Wiederholung C1/05). 8 Items.'
+    instructionsEn: "Put the verbs into Konjunktiv I (review of C1/05). 8 items."
     text: |
       1. (sein, Sg.) Der Bundesrechnungshof betont, die Reform {1} unzureichend.
       2. (sein, Pl.) Kritiker bezweifeln, dass diese Grenzen {2} aufrechtzuerhalten.
@@ -235,6 +242,7 @@ exercises:
     title: 'Hedging bei Prognosen — welche Formulierung ist vorsichtig?'
     optionLayout: block
     instructions: 'Wähle die vorsichtige Prognose.'
+    instructionsEn: "Choose the cautious forecast."
     items:
       - q: 'Wie formuliert man eine Prognose am vorsichtigsten?'
         options:
@@ -278,6 +286,7 @@ exercises:
     listLayout: true
     title: 'Hedging-Mittel einsetzen'
     instructions: 'Setze das passende Hedging-Mittel ein. 6 Items.'
+    instructionsEn: "Fill in the appropriate hedging device. 6 items."
     text: |
       1. Modalverb: Die Zahl {1} bis 2040 um rund 30 Prozent steigen.
       2. Adverb: {2} wird auch der Pflegebedarf zunehmen.
@@ -299,6 +308,7 @@ exercises:
     listLayout: true
     title: 'Statistik versprachlichen'
     instructions: 'Setze die passende Präposition (um, auf, von, auf …) oder den passenden Anteil ein. 8 Items.'
+    instructionsEn: "Fill in the appropriate preposition (um, auf, von, auf …) or the appropriate share. 8 items."
     text: |
       1. Die Zahl steigt {1} 5 Prozent. (Veränderung)
       2. Die Zahl steigt {2} 30 Prozent. (neuer Stand)
@@ -324,6 +334,7 @@ exercises:
     title: 'Register: registergerechte vs. registerunscharfe Lexik'
     optionLayout: block
     instructions: 'Wähle die registergerechte (sachliche) Formulierung.'
+    instructionsEn: "Choose the register-appropriate (neutral, factual) wording."
     items:
       - q: 'Welche Formulierung passt in einen Sachtext?'
         options:
@@ -366,6 +377,7 @@ exercises:
     type: matching
     title: 'Wortschatz: Begriffe und Erklärungen'
     instructions: 'Ordne jedem Begriff (1–5) die passende Erklärung (a–e) zu.'
+    instructionsEn: "Match each term (1–5) with the correct explanation (a–e)."
     left:
       - { key: '1', text: 'die Demografie' }
       - { key: '2', text: 'die Integration' }
@@ -390,6 +402,7 @@ exercises:
     type: gap-bank
     title: 'Kollokationen des Diskurses'
     instructions: 'Füll die 6 Lücken mit dem passenden Wort aus dem Kasten. Drei Wörter sind zu viel.'
+    instructionsEn: "Fill in the 6 gaps with the appropriate word from the box. Three words are not needed."
     text: |
       1. Die Reform hat eine heftige Debatte {1}.
       2. Wir müssen den Diskurs wieder {2}.
@@ -412,6 +425,7 @@ exercises:
     title: 'Konjunktiv II als vorsichtige Distanzierung'
     optionLayout: block
     instructions: 'Wähle die Formulierung mit höflicher Distanzierung.'
+    instructionsEn: "Choose the wording that distances itself politely."
     items:
       - q: 'Welche Formulierung signalisiert höfliche Distanz?'
         options:
@@ -454,6 +468,7 @@ exercises:
     type: order
     title: 'Satzbau: diskursive Strukturen'
     instructions: 'Bring die Wörter in die richtige Reihenfolge.'
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: [Einerseits, ermöglicht, KI, mehr, Individualisierung, andererseits, verändert, sie, die, Rolle, der, Lehrkraft]
         answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
@@ -474,6 +489,7 @@ exercises:
     listLayout: true
     title: 'Versprachlichung von Anteilen und Veränderungen'
     instructions: 'Setze das passende Wort ein. 5 Items, 6 Lücken.'
+    instructionsEn: "Fill in the appropriate word. 5 items, 6 gaps."
     text: |
       1. {1} ein Viertel der Bevölkerung ist über 65.
       2. Die Zahl der Pflegebedürftigen {2} sich um rund 30 Prozent {3}.
@@ -493,6 +509,7 @@ exercises:
     type: matching
     title: 'Register: sachlich vs. umgangssprachlich'
     instructions: 'Ordne jeder sachlichen Formulierung (1–5) die registerunscharfe Variante (a–e) zu.'
+    instructionsEn: "Match each neutral, factual wording (1–5) with its register-inappropriate variant (a–e)."
     left:
       - { key: '1', text: 'gesellschaftliche Teilhabe ermöglichen' }
       - { key: '2', text: 'Zuwanderung steuern' }
@@ -520,6 +537,7 @@ exercises:
     listLayout: true
     title: 'Eine Erörterung vervollständigen'
     instructions: 'Setze die passende Form ein (Konnektoren, Konjunktiv I, Hedging, Statistik). 8 Items.'
+    instructionsEn: "Fill in the appropriate form (connectors, Konjunktiv I, hedging, statistics). 8 items."
     text: |
       **Einleitung:**
       Die Frage, {1} KI an Schulen erprobt werden sollte, wird seit Jahren kontrovers diskutiert.
@@ -551,6 +569,7 @@ exercises:
     title: 'Diskursive Strukturen: Abwägen'
     optionLayout: block
     instructions: 'Wähle die ausgewogene Formulierung.'
+    instructionsEn: "Choose the balanced wording."
     items:
       - q: 'Welche Formulierung wägt sachlich ab?'
         options:
@@ -593,6 +612,7 @@ exercises:
     type: matching
     title: 'Hedging-Mittel zuordnen'
     instructions: 'Ordne jedem Hedging-Beispiel (1–6) die richtige Kategorie (a–f) zu.'
+    instructionsEn: "Match each hedging example (1–6) with the correct category (a–f)."
     left:
       - { key: '1', text: 'Die Zahl dürfte um 30 Prozent steigen.' }
       - { key: '2', text: 'Vermutlich spielt auch der soziale Hintergrund eine Rolle.' }
@@ -620,7 +640,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Statistik-Versprachlichung im Kontext'
-    instructions: 'Setze das passende Wort ein. 6 Items.'
+    instructions: 'Setze das passende Wort ein. 4 Items, 6 Lücken.'
+    instructionsEn: "Fill in the appropriate word. 4 items, 6 gaps."
     text: |
       1. Die Zahl der Pflegebedürftigen dürfte bis 2040 {1} rund 30 Prozent {2}.
       2. Im Vergleich zu 1990 hat sich der Anteil der über 65-Jährigen {3}.
@@ -640,6 +661,7 @@ exercises:
     title: 'Registerbruch erkennen'
     optionLayout: block
     instructions: 'Wähle die registergerechte Formulierung.'
+    instructionsEn: "Choose the register-appropriate wording."
     items:
       - q: 'In einem politischen Kommentar:'
         options:
@@ -683,6 +705,7 @@ exercises:
     listLayout: true
     title: 'Eine Erörterung über KI an Schulen — Schluss'
     instructions: 'Setze die passende Form ein. 6 Items.'
+    instructionsEn: "Fill in the appropriate form. 6 items."
     text: |
       Im Folgenden werden die wichtigsten Argumente {1} (zusammenfassend).
       Einerseits verspricht KI mehr {2} (Anpassung an den Einzelnen),
@@ -704,6 +727,7 @@ exercises:
     type: categorize
     title: 'Begriffe: neutral oder wertend?'
     instructions: 'Sortiere die Begriffe in die richtige Kategorie.'
+    instructionsEn: "Sort the terms into the correct category."
     buckets:
       - { key: neutral, label: 'Neutral / sachlich' }
       - { key: wertend, label: 'Wertend / registerunscharf' }
@@ -768,6 +792,7 @@ exercises:
     listLayout: true
     title: 'Lückentext: Demografie und Gesellschaft'
     instructions: 'Füll jede Lücke mit **einem** passenden Wort. 10 Items.'
+    instructionsEn: "Fill each gap with **one** suitable word. 10 items."
     text: |
       Der demografische Wandel gehört zu den beständigsten Themen der
       politischen Debatte. Die Zahl der {1} 65-Jährigen dürfte bis 2040
@@ -798,6 +823,7 @@ exercises:
     title: 'Sprachbausteine Teil 1'
     optionLayout: block
     instructions: 'Wähle die passende Option (a, b oder c) für jede Lücke.'
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: 'Einerseits {1} KI mehr Individualisierung.'
         options:
@@ -849,6 +875,7 @@ exercises:
     bankSort: true
     title: 'Sprachbausteine Teil 2 (Wortbank)'
     instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Aus einem Zeitungsartikel: „Die Frage, ob KI an Schulen erprobt
       werden sollte, ist {1}. Einerseits {2} KI mehr Individualisierung,
@@ -889,6 +916,7 @@ exercises:
       > Die öffentliche Debatte ist oft polemisch: Schlagworte wie „Generationenkrieg" oder „Rentnersitze räumen" ersetzen die sachliche Auseinandersetzung. Dabei ist die Frage, wie die Gesellschaft mit dem demografischen Wandel umgeht, eine der zentralen politischen Fragen unserer Zeit. Sie verdient eine ebenso differenzierte wie mutige Antwort — und vielleicht ist genau das die größte Herausforderung: die Bereitschaft, langfristig zu denken, statt kurzfristige Slogans zu produzieren.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: 'Laut Text dürfte der Anteil der über 65-Jährigen bis 2040 auf etwa 27 Prozent steigen.'
         answer: true
@@ -925,6 +953,7 @@ exercises:
       >
       > **Beitrag 4 — Anna_M:**
       > Ich bin für eine Pause, aber nur so lange, bis Datenschutz und Transparenz gesetzlich geregelt sind. Erst dann kann man Erprobung verantworten.
+    instructionsEn: "Read the following forum posts and choose a, b, or c."
     items:
       - q: 'Was ist die Leitfrage der Diskussion?'
         options:
@@ -990,7 +1019,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Gemischter Schnelltest'
-    instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (C1/..) oder (B2/..) wiederholen frühere Lektionen. 15 Items.'
+    instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (C1/..) oder (B2/..) wiederholen frühere Lektionen. 14 Items, 15 Lücken.'
+    instructionsEn: "One minute per item. No notes. Items marked (C1/..) or (B2/..) review earlier lessons. 14 items, 15 gaps."
     text: |
       **Diskursive Strukturen (C1/11):**
       1. {1} ermöglicht KI mehr Individualisierung.
@@ -1039,6 +1069,7 @@ exercises:
     type: odd-one-out
     title: 'Odd one out: Diskurssprache'
     instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [Einerseits, Zwar, Weder, Dennoch]
         odd: 2
@@ -1064,7 +1095,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Rückblick: C1/05, C1/08, C1/09, C1/11'
-    instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    instructions: 'Wiederholung früherer Lektionen. 9 Items, 10 Lücken.'
+    instructionsEn: "Review of earlier lessons. 9 items, 10 gaps."
     text: |
       **Aus C1/05 (Wissenschaftssprache):**
       1. Unpersönlich: Die Daten {1} ausgewertet. (Passiv)

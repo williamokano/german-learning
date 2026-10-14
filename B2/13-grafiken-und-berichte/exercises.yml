@@ -17,6 +17,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
     instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: "Im Dialog A geht es um eine Folie zur E-Scooter-Nutzung in Berlin."
         answer: true
@@ -40,6 +41,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     optionLayout: block
     items:
       - q: "Welche Frage behandelt die Tabelle, die Yusuf durchgeht?"
@@ -77,6 +79,7 @@ exercises:
     title: "Hörtext-Lückentext: Nachricht aus der Redaktion"
     audio: hoertext.mp3
     instructions: "Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel."
+    instructionsEn: "Listen to the Hörtext and fill in the 7 gaps. Three words in the box are not needed."
     text: |
       Liebe Kolleginnen und Kollegen, hier ist die Datenredaktion. Für die morgige Ausgabe
       brauchen wir einen kurzen Kommentar zu den neuen Zahlen zur E-Scooter-Nutzung in Berlin.
@@ -102,6 +105,7 @@ exercises:
     title: "Kurze Ansage: Nachricht aus dem Statistikamt"
     audio: transcript_ansage1.mp3
     instructions: "Hör die Nachricht aus dem Statistikamt. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the message from the statistics office. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     optionLayout: block
     transcript: "Guten Tag, meine Damen und Herren, hier ist das Statistische Bundesamt in Wiesbaden mit einer kurzen Mitteilung. Wir haben heute die neuen Zahlen zur Erwerbstätigkeit in Deutschland veröffentlicht. Im Zeitraum von 2019 bis 2024 ist die Zahl der Erwerbstätigen kontinuierlich gestiegen, von rund 45 Millionen auf 46,1 Millionen. Im Vergleich zum Vorjahr ist die Zahl um etwa 0,3 Prozent zurückgegangen. Der Höchststand wurde im Jahr 2023 erreicht. Aus den Daten ergibt sich, dass der Arbeitsmarkt robust bleibt, aber an Dynamik verliert. Die ausführlichen Tabellen stehen ab sofort auf unserer Website zur Verfügung. Bei Rückfragen rufen Sie uns bitte zurück. Vielen Dank und auf Wiederhören."
     items:
@@ -142,6 +146,7 @@ exercises:
     listLayout: true
     title: "Datenverben einsetzen"
     instructions: "Setze das passende Datenverb in der richtigen Form ein (steigen, sinken, zunehmen, abnehmen, stagnieren, sich verdoppeln, sich halbieren, betragen, ausmachen, liegen bei). 8 Items."
+    instructionsEn: "Fill in the appropriate data verb in the correct form (steigen, sinken, zunehmen, abnehmen, stagnieren, sich verdoppeln, sich halbieren, betragen, ausmachen, liegen bei). 8 items."
     text: |
       1. Der Anteil {1} rund 32 Prozent.
       2. Die Nutzung {2} seit 2020 kontinuierlich.
@@ -167,6 +172,7 @@ exercises:
     listLayout: true
     title: "Tendenz richtig beschreiben"
     instructions: "Wähle das richtige Datenverb (steigt/sinkt/stagniert/nimmt zu/nimmt ab). 5 Items, 6 Lücken."
+    instructionsEn: "Choose the correct data verb (steigt/sinkt/stagniert/nimmt zu/nimmt ab). 5 items, 6 gaps."
     text: |
       1. Im Vergleich zum Vorjahr {1} der Anteil leicht.
       2. Die E-Scooter-Nutzung {2} seit Anfang 2024.
@@ -187,6 +193,7 @@ exercises:
     listLayout: true
     title: "Zeiträume und Vergleiche einsetzen"
     instructions: "Setze die passende Struktur ein (im Zeitraum von, zwischen, seit, im Vergleich zu, gegenüber, im Durchschnitt). 6 Items."
+    instructionsEn: "Fill in the appropriate structure (im Zeitraum von, zwischen, seit, im Vergleich zu, gegenüber, im Durchschnitt). 6 items."
     text: |
       1. {1} 2020 und 2024 hat sich die Nutzung fast verfünffacht.
       2. {2} dem Vorjahr ist der Wert um 8 Prozent zurückgegangen.
@@ -208,6 +215,7 @@ exercises:
     type: single-choice
     title: "Welche Beschreibung passt?"
     instructions: "Wähle die korrekte Beschreibung (a, b oder c). ⚠️ Achte auf Datenverb, Zeitraum und Satzstellung."
+    instructionsEn: "Choose the correct description (a, b, or c). ⚠️ Pay attention to the data verb, the time period, and word order."
     items:
       - q: "Welcher Satz ist korrekt?"
         options:
@@ -258,6 +266,7 @@ exercises:
     listLayout: true
     title: "Vergleichsstrukturen korrekt ergänzen"
     instructions: "Setze die richtige Präposition oder Vergleichsstruktur ein (zu, zum, dem Vorjahr, den). 6 Items."
+    instructionsEn: "Fill in the correct preposition or comparison structure (zu, zum, dem Vorjahr, den). 6 items."
     text: |
       1. Im Vergleich {1} 2023 ist der Wert gestiegen.
       2. Gegenüber {2} hat sich der Anteil um 8 Prozent verringert.
@@ -278,6 +287,7 @@ exercises:
     type: gap-bank
     title: "Datenverben: passende Form finden"
     instructions: "Füll die 6 Lücken mit der richtigen Verbform (steigt, sinkt, stagniert, beträgt, liegt, macht). Zwei Wörter sind zu viel."
+    instructionsEn: "Fill in the 6 gaps with the correct verb form (steigt, sinkt, stagniert, beträgt, liegt, macht). Two words are not needed."
     text: |
       1. Der Anteil {1} rund 32 Prozent.
       2. Die Nutzung {2} seit Anfang 2024 leicht.
@@ -298,6 +308,7 @@ exercises:
     type: matching
     title: "Datenverben und Bedeutung verbinden"
     instructions: "Ordne jedem Datenverb (1–6) die passende Bedeutung (a–f) zu."
+    instructionsEn: "Match each data verb (1–6) with its meaning (a–f)."
     left:
       - { key: "1", text: "steigen" }
       - { key: "2", text: "sich verdoppeln" }
@@ -325,6 +336,7 @@ exercises:
     type: categorize
     title: "Tendenz oder genauer Wert?"
     instructions: "Ordne jeden Ausdruck der passenden Kategorie zu."
+    instructionsEn: "Sort each expression into the appropriate category."
     buckets:
       - { key: tendenz, label: "Tendenz (Richtung)" }
       - { key: wert, label: "Genauer Wert (Faktor oder Zahl)" }
@@ -344,6 +356,7 @@ exercises:
     listLayout: true
     title: "Ableitungsstrukturen ergänzen"
     instructions: "Wähle die passende Ableitungsstruktur (ergibt sich, zeigt sich, lässt sich ablesen, lässt sich schließen, ist zu entnehmen). 6 Items."
+    instructionsEn: "Choose the appropriate inference structure (ergibt sich, zeigt sich, lässt sich ablesen, lässt sich schließen, ist zu entnehmen). 6 items."
     text: |
       1. Aus der Grafik {1}, dass die Nutzung rückläufig ist.
       2. Es {2}, dass die Tendenz seit 2022 nach unten zeigt.
@@ -364,6 +377,7 @@ exercises:
     type: single-choice
     title: "Welche Ableitungsstruktur passt?"
     instructions: "Wähle die stilistisch korrekte und passende Form (a, b oder c)."
+    instructionsEn: "Choose the stylistically correct and appropriate form (a, b, or c)."
     items:
       - q: "Welche Eröffnung passt zu einem formellen Bericht?"
         options:
@@ -399,6 +413,7 @@ exercises:
     type: order
     title: "Satzbau: Datenverb + Zeitraum + Wert"
     instructions: "Bring die Wörter in die richtige Reihenfolge. Datenverb steht in Position 2."
+    instructionsEn: "Put the words in the correct order. The data verb is in position 2."
     items:
       - tiles: [Die, Nutzung, ist, seit, "2020", kontinuierlich, gestiegen]
         answer: [0, 1, 2, 3, 4, 5, 6]
@@ -477,6 +492,7 @@ exercises:
     listLayout: true
     title: "Bericht: aus Stichworten einen formellen Absatz"
     instructions: "Füll die 8 Lücken mit passenden Wörtern aus dem Bericht (Reflexivpronomen, Konjunktion, Funktionsverb, Präposition). 8 Items."
+    instructionsEn: "Fill in the 8 gaps with suitable words from the report (reflexive pronoun, conjunction, Funktionsverb, preposition). 8 items."
     text: |
       Bericht zur E-Scooter-Nutzung in Berlin. {1} der Grafik {2}, dass die Nutzung
       zwischen 2020 und 2022 deutlich gestiegen ist. Seit Anfang 2024 ist ein leichter
@@ -498,6 +514,7 @@ exercises:
     type: matching
     title: "Beschreibung mit Beispiel verbinden"
     instructions: "Ordne jeder Beschreibung (1–5) das passende Beispiel (a–e) zu."
+    instructionsEn: "Match each description (1–5) with the appropriate example (a–e)."
     left:
       - { key: "1", text: "Tendenz: Anstieg" }
       - { key: "2", text: "Tendenz: Rückgang" }
@@ -522,6 +539,7 @@ exercises:
     type: order
     title: "Satzbau: formelle Berichtseröffnung"
     instructions: "Bring die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: [Aus, der, Tabelle, ist, zu, entnehmen, dass, der, Anteil, gestiegen, ist]
         answer: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -541,6 +559,7 @@ exercises:
     type: odd-one-out
     title: "Wortschatz: Was passt nicht?"
     instructions: "Streiche den Ausdruck, der nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the expression that does not fit and explain why."
     groups:
       - items: [steigen, sinken, stagnieren, meinen]
         odd: 3
@@ -560,6 +579,7 @@ exercises:
     type: single-choice
     title: "Welcher Stil passt zum Kontext?"
     instructions: "Wähle die stilistisch passendere Variante (a oder b)."
+    instructionsEn: "Choose the stylistically more appropriate variant (a or b)."
     items:
       - q: "In einem formellen Bericht für die Geschäftsführung:"
         options:
@@ -622,6 +642,7 @@ exercises:
     listLayout: true
     title: "Lückentext: Daten lesen lernen (Lesetext)"
     instructions: "Füll jede Lücke mit einem passenden Wort (Datenverb, Konjunktion oder Zeitstruktur). 10 Items."
+    instructionsEn: "Fill each gap with a suitable word (data verb, conjunction, or time structure). 10 items."
     text: |
       Wer zum ersten Mal eine Statistik liest, sieht oft nur eine Zahl: „74 (1) {1}". Aber
       eine einzelne Zahl sagt fast nichts. Sie sagt nicht, **wann** der Wert gemessen wurde,
@@ -655,6 +676,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Im Zeitraum ____ 2020 bis 2024 hat sich die Zahl verdoppelt."
         options:
@@ -706,6 +728,7 @@ exercises:
     bankSort: true
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Bericht zur Erwerbstätigkeit. Im {1} von 2019 bis 2024 ist die Zahl der Erwerbstätigen
       kontinuierlich {2}. Der Anteil der Frauen {3} im Jahr 2024 rund 48 Prozent {4}. Im
@@ -742,6 +765,7 @@ exercises:
       > Die Lehre aus all dem: Eine seriöse Datenlektüre fragt immer nach **Zeitraum**, **Quelle**, **Stichprobe** und **genauem Wortlaut der Frage**. Wer das beachtet, kann auch aus komplexen Grafiken klare und überprüfbare Aussagen ableiten. Wer das nicht beachtet, zitiert schnell etwas, das in den Daten gar nicht steht.
 
       Richtig (R) oder falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Laut Lesetext sagt eine einzelne Zahl fast nichts, wenn man Zeitraum und Vergleichsbasis nicht kennt."
         answer: true
@@ -774,6 +798,7 @@ exercises:
       > um acht Prozent zurückgegangen. Aus den Daten ergibt sich, dass die neuen
       > Regelungen (Helmpflicht ab 2024, Parkverbote) als Ursache in Betracht kommen.
       > Eine abschließende Bewertung ist auf Basis dieser Daten allein nicht möglich.
+    instructionsEn: "Read the following passage and choose a, b, or c."
     items:
       - q: "Welcher Wert wurde im Juli 2022 erreicht?"
         options:
@@ -842,6 +867,7 @@ exercises:
     listLayout: true
     title: "Gemischter Schnelltest"
     instructions: "Eine Minute pro Item. Keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 15 Items."
+    instructionsEn: "One minute per item. No notes. Items marked (B2/xx) or (B1/xx) review an earlier lesson. 15 items."
     text: |
       1. Datenverb „nach oben": {1}
       2. Datenverb „nach unten": {2}
@@ -880,6 +906,7 @@ exercises:
     type: odd-one-out
     title: "Odd one out"
     instructions: "Streiche das Wort oder den Ausdruck, der nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word or expression that does not fit and explain why."
     groups:
       - items: [steigen, sinken, stagnieren, meinen]
         odd: 3
@@ -906,6 +933,7 @@ exercises:
     listLayout: true
     title: "Rückblick: B2/01, B2/02, B2/08"
     instructions: "Wiederholung früherer Lektionen. 10 Items."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B2/01 (Nominalstil und Verbalstil):**
       1. Nominalisierung von „steigen" (mit Artikel): {1}

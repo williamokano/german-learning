@@ -17,6 +17,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog A (informell — über einen langen Satz)"
     audio: dialog1_a.mp3
     instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: "Lukas liest einen Satz aus dem Feuilleton vor."
         answer: true
@@ -40,6 +41,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog B (formell — Lektorin und Autor)"
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     optionLayout: block
     items:
       - q: "Welche Funktion hat Frau Hoffmann im Dialog?"
@@ -77,6 +79,7 @@ exercises:
     title: "Hörtext-Lückentext: Ein Literaturkritiker im Radio"
     audio: hoertext.mp3
     instructions: "Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel."
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Three words in the box are not needed."
     text: |
       Liebe Hörerinnen und Hörer, ich möchte Ihnen heute ein Buch {1}, das
       in den letzten Wochen für Aufsehen gesorgt hat — und das, so viel sei
@@ -102,6 +105,7 @@ exercises:
     title: "Kurze Ansage: Telefonansage einer Literaturagentur"
     audio: transcript_ansage1.mp3
     instructions: "Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     optionLayout: block
     transcript: 'Guten Tag, Sie haben die Literaturagentur Wortwerk erreicht. Wir sind heute, am Freitag, dem 27. Juni, leider nicht persönlich für Sie da. Aufgrund einer internen Klausur ist unsere telefonische Erreichbarkeit derzeit eingeschränkt. Bitte hinterlassen Sie Ihren Namen, Ihre Telefonnummer und eine kurze Beschreibung Ihres Manuskripts nach dem Signalton. Für Manuskripte im Bereich Belletristik wenden Sie sich bitte an die Hotline 030-98 76 54 32. Für Sachbuch und Wissenschaft an die Durchwahl 030-98 76 54 33. Bitte rufen Sie mich zurück unter dieser Nummer. Vielen Dank für Ihr Verständnis und Ihr Interesse.'
     items:
@@ -141,6 +145,7 @@ exercises:
     type: single-choice
     title: "Welches Werkzeug der komplexen Syntax liegt vor?"
     instructions: "Wähle das passende Werkzeug (a, b, c oder d) für jeden Satz."
+    instructionsEn: "Choose the right tool (a, b, c, or d) for each sentence."
     items:
       - q: '„Berlin, die Hauptstadt Deutschlands, hat 3,6 Millionen Einwohner."'
         options:
@@ -213,6 +218,7 @@ exercises:
     listLayout: true
     title: "Apposition einsetzen"
     instructions: "Setze die Apposition im passenden Kasus ein. 8 Items."
+    instructionsEn: "Insert the apposition in the correct case. 8 items."
     text: |
       1. „Berlin, {1}, hat 3,6 Millionen Einwohner." (Nom.)
       2. „Wir trafen Herrn Steinmeyer, {2}, gestern in Salzburg." (Akk.)
@@ -238,6 +244,7 @@ exercises:
     listLayout: true
     title: "Vorangestelltes Partizipialattribut bilden"
     instructions: "Bilde aus dem Relativsatz ein vorangestelltes Partizipialattribut. 6 Items."
+    instructionsEn: "Turn the relative clause into a preceding participial attribute (Partizipialattribut). 6 items."
     text: |
       1. „die Firma, die 1990 gegründet wurde" → „die {1} Firma"
       2. „der Streit, der seit Monaten andauert" → „der {2} Streit"
@@ -259,6 +266,7 @@ exercises:
     listLayout: true
     title: "Nachgestellter Relativsatz"
     instructions: "Setze das Relativpronomen im richtigen Kasus ein. 6 Items."
+    instructionsEn: "Insert the relative pronoun in the correct case. 6 items."
     text: |
       1. „Der Mann, {1} ich gestern sprach, ist der Bürgermeister." (Dat. — nach Präp. „mit")
       2. „Die Frau, {2} ich getroffen habe, ist Ärztin." (Akk. — Objekt im HS)
@@ -279,6 +287,7 @@ exercises:
     type: matching
     title: "Werkzeug der komplexen Syntax zuordnen"
     instructions: "Ordne jedem Satz (1–6) das passende Werkzeug zu (a–f)."
+    instructionsEn: "Match each sentence (1–6) with the right tool (a–f)."
     left:
       - { key: "1", text: '„Sie nach Berlin, er nach München."' }
       - { key: "2", text: '„Der Bürgermeister — so erzählt man sich — trat gestern zurück."' }
@@ -307,6 +316,7 @@ exercises:
     listLayout: true
     title: "Parenthese einsetzen"
     instructions: "Setze die fehlenden Gedankenstriche oder Klammern ein. 6 Items."
+    instructionsEn: "Insert the missing dashes (Gedankenstriche) or brackets. 6 items."
     text: |
       1. „Sein Bruder {1} ein stiller Beobachter {2} bemerkte die Szene." (Gedankenstriche)
       2. „Die Sitzung {3} und das ist das Entscheidende {4} wurde verschoben." (Gedankenstriche)
@@ -333,6 +343,7 @@ exercises:
     type: gap-bank
     title: "Ellipsen ergänzen"
     instructions: "Ergänze die fehlenden Satzglieder durch passende Ellipsen. Drei Satzteile sind zu viel."
+    instructionsEn: "Fill in the missing sentence parts with suitable ellipses. Three sentence parts are not needed."
     text: |
       1. „{1} nach Berlin, {2} nach München." (zwei Pronomen + Bewegungsverb)
       2. „Ankunft {3}, Gepäck verloren." (Uhrzeit)
@@ -372,6 +383,7 @@ exercises:
     type: single-choice
     title: "Welche Funktion hat das Attribut?"
     instructions: "Wähle die passende Funktion (a, b oder c) für die markierte Wortgruppe."
+    instructionsEn: "Choose the right function (a, b, or c) for the marked word group."
     items:
       - q: '„Die {seit Jahren andauernde} Krise spitzt sich zu."'
         options:
@@ -414,6 +426,7 @@ exercises:
     type: order
     title: "Satzbau: Satzperiode mit Nebensätzen"
     instructions: "Bring die Wörter in die richtige Reihenfolge. Achte auf V2 im Hauptsatz und Verb-Endstellung im Nebensatz."
+    instructionsEn: "Put the words in the correct order. Watch V2 in the main clause and verb-final position in the subordinate clause."
     items:
       - tiles: [Ich, kenne, den, Mann, der, nebenan, wohnt]
         answer: [0, 1, 2, 3, 4, 5, 6]
@@ -433,6 +446,7 @@ exercises:
     type: odd-one-out
     title: "Welche Konstruktion passt nicht?"
     instructions: "Streiche die Konstruktion, die nicht zur angegebenen Kategorie passt, und erkläre warum."
+    instructionsEn: "Cross out the construction that does not fit the given category and explain why."
     groups:
       - items: ["Apposition", "Parenthese", "Genitivattribut", "Ellipse"]
         odd: 3
@@ -454,6 +468,7 @@ exercises:
     type: gap-bank
     title: "Satzperiode vervollständigen"
     instructions: "Füll die 8 Lücken mit passenden Satzteilen, um eine Satzperiode zu bilden. Drei Elemente sind zu viel."
+    instructionsEn: "Fill the 8 gaps with suitable sentence parts to build a Satzperiode. Three elements are not needed."
     text: |
       Der Autor, {1}, dessen letzter Roman, {2}, seit
       Monaten die Bestsellerlisten anführt, lebt zurückgezogen in einem
@@ -491,6 +506,7 @@ exercises:
     type: single-choice
     title: "Apposition im richtigen Kasus?"
     instructions: "Welche Apposition steht im richtigen Kasus? Wähle (a) für den ersten Satz, (b) für den zweiten Satz."
+    instructionsEn: "Which apposition is in the correct case? Choose (a) for the first sentence, (b) for the second sentence."
     items:
       - q: '(1) „Ich kenne Herrn Schneider, ein erfahrener Anwalt.“ (2) „Ich kenne Herrn Schneider, einen erfahrenen Anwalt.“'
         options:
@@ -547,6 +563,7 @@ exercises:
     listLayout: true
     title: "Werkzeuge der komplexen Syntax identifizieren"
     instructions: "Markiere in jedem Satz das genannte Werkzeug, indem du die passende Antwort einsetzt. 6 Items."
+    instructionsEn: "In each sentence, identify the named tool by filling in the right answer. 6 items."
     text: |
       1. „Sein Bruder — so erzählt man sich — hatte sich schon 1938 abgesetzt."
          Welche Klammer? {1}
@@ -573,6 +590,7 @@ exercises:
     type: matching
     title: "Werkzeug — Beispiel — Funktion"
     instructions: "Ordne jedem Werkzeug (1–6) das passende Beispiel (a–f) zu."
+    instructionsEn: "Match each tool (1–6) with the right example (a–f)."
     left:
       - { key: "1", text: "Apposition" }
       - { key: "2", text: "Parenthese" }
@@ -601,6 +619,7 @@ exercises:
     listLayout: true
     title: "Relativpronomen im Relativsatz"
     instructions: "Setze das passende Relativpronomen ein (der/die/das, den/die/das, dem/der/den, dessen/deren). 8 Items."
+    instructionsEn: "Insert the right relative pronoun (der/die/das, den/die/das, dem/der/den, dessen/deren). 8 items."
     text: |
       1. „Das Buch, {1} ich dir empfohlen habe, ist vergriffen." (Akk.)
       2. „Der Kollege, {2} ich zusammenarbeite, ist sehr erfahren." (Dat., mit)
@@ -644,6 +663,7 @@ exercises:
     type: single-choice
     title: "Komma-Setzung: korrekt oder falsch?"
     instructions: "Welche Version ist korrekt? Wähle (a) oder (b)."
+    instructionsEn: "Which version is correct? Choose (a) or (b)."
     items:
       - q: '„Das Buch, das sie mir empfohlen hatte war ausverkauft.“ vs. „Das Buch, das sie mir empfohlen hatte, war ausverkauft.“'
         options:
@@ -701,6 +721,7 @@ exercises:
     listLayout: true
     title: "Lückentext: Werkzeuge der komplexen Syntax"
     instructions: "Füll jede Lücke mit **einem** passenden Wort (Fachbegriff oder Satzteil). 10 Items."
+    instructionsEn: "Fill each gap with **one** suitable word (technical term or sentence part). 10 items."
     text: |
       Eine {1} ist ein langer Satz, der aus einem Hauptsatz und mehreren
       Nebensätzen besteht. Im Nebensatz steht das finite Verb am {2},
@@ -730,6 +751,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die stilistisch korrekte Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the stylistically correct option (a, b, or c) for each gap."
     items:
       - q: "Berlin, ____ Hauptstadt Deutschlands, hat 3,6 Millionen Einwohner."
         options:
@@ -788,6 +810,7 @@ exercises:
     bankSort: true
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
+    instructionsEn: "Fill the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Eine {1} ist ein langer Satz aus Haupt- und {2}. Eine
       {3} ist eine gleichsetzende Beifügung im {4} Kasus wie das
@@ -822,6 +845,7 @@ exercises:
       > Wer einen langen Satz schreibt, muss fünf Werkzeuge beherrschen — und das ist die Botschaft dieses Textes: die **Apposition**, die gleichsetzende Beifügung (*Berlin, die Hauptstadt Deutschlands*); die **Parenthese**, die eingeschobene Erläuterung (*Die Schriftstellerin — so erzählt man sich — lebt seit Jahren im Ausland*); das **vorangestellte Attribut**, das viele Informationen vor dem Nomen versammelt (*die seit Jahren andauernde, von der Regierung ignorierte Krise*); das **nachgestellte Attribut**, das als Relativsatz oder Präpositionalattribut das Nomen erläutert (*die Krise, die seit Jahren andauert und die von der Regierung ignoriert wird*); und schließlich die **Ellipse**, die bewusste Auslassung (*Sie nach Berlin, er nach München*). Wer diese fünf Werkzeuge nicht beherrscht, sollte keine langen Sätze schreiben. Wer sie beherrscht, wird feststellen, dass die Satzperiode nicht ein Relikt vergangener Zeiten ist, sondern ein lebendiges Stilmittel der Gegenwart.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Laut Text beobachten Germanisten in den letzten Jahren eine Renaissance der Satzperiode."
         answer: true
@@ -857,6 +881,7 @@ exercises:
       >
       > **Beitrag 4 — Tomáš_N (User):**
       > Ich find's ehrlich gesagt schade, dass die Kunst des langen Satzes verloren geht. Auf Tschechisch ist das übrigens genauso — wer gut schreibt, kann auch gut schachteln. Aber im Netz, ja, da gewinnt der kurze Satz.
+    instructionsEn: "Read the following forum posts and choose a, b, or c."
     items:
       - q: "Welche syntaktische Konstruktion dominiert in Beitrag 1 (Markus_K)?"
         options:
@@ -914,7 +939,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items."
+    instructions: "Eine Minute pro Item. Keine Notizen. Items mit Lektionsangabe, z. B. (B2/05), wiederholen eine frühere Lektion. 15 Items."
+    instructionsEn: "One minute per item. No notes. Items marked with a lesson reference, e.g. (B2/05), review an earlier lesson. 15 items."
     text: |
       **Werkzeuge (C1/02):**
       1. Gleichsetzende Beifügung im gleichen Kasus: {1}
@@ -964,6 +990,7 @@ exercises:
     type: odd-one-out
     title: "Odd one out"
     instructions: "Streiche das Wort oder die Konstruktion, die nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word or construction that does not fit and explain why."
     groups:
       - items: ["Apposition", "Parenthese", "Attribut", "Konjunktiv"]
         odd: 3
@@ -990,6 +1017,7 @@ exercises:
     listLayout: true
     title: "Rückblick: B2/05, B1/05, B2/01, C1/01"
     instructions: "Wiederholung früherer Lektionen. 10 Items."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B2/05 (Partizipien als Attribute):**
       1. Partizip I von „klingen": {1}.
