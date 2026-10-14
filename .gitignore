@@ -10,3 +10,6 @@ scripts/.issue_map.json
 
 # Per-session scratchpads (review-run todos, handoffs, ad-hoc TODOs)
 tasks/
+
+# Node dependencies
+node_modules/
