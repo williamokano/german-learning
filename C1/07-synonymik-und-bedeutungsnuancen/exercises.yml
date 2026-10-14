@@ -17,6 +17,7 @@ exercises:
     title: 'Dialog Hör-Check: Dialog A (Streit über das richtige Wort)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: 'Anna findet, dass ihre Chefin das Wort „Herausforderung" zu Unrecht benutzt.'
         answer: true
@@ -41,6 +42,7 @@ exercises:
     audio: dialog1_b.mp3
     optionLayout: block
     instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: 'Welches Wort nennt Frau Steinmeyer-Roth als Erstes als problematisch?'
         options:
@@ -84,6 +86,7 @@ exercises:
     title: 'Hörtext-Lückentext: Synonyme im Sprachpodcast'
     audio: hoertext.mp3
     instructions: 'Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.'
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Three words in the box are not needed."
     text: |
       Liebe Zuhörerinnen und Zuhörer, willkommen zu „Sprachwerkstatt". In
       der heutigen Folge geht es um eine Frage, die uns in der Redaktion
@@ -113,6 +116,7 @@ exercises:
     audio: transcript_ansage1.mp3
     optionLayout: block
     instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    instructionsEn: "Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Sprachzentrums Berlin erreicht. Wir sind erreichbar von Montag bis Freitag, jeweils von zehn bis achtzehn Uhr. Außerhalb dieser Zeiten können Sie uns eine Nachricht hinterlassen — bitte rufen Sie mich zurück, wenn Sie eine persönliche Beratung wünschen. Aktuell bieten wir Kurse auf den Niveaustufen A1 bis C1 an, darunter auch einen Vorbereitungskurs auf das Goethe-Zertifikat C1. Wenn Sie sich für einen Kurs anmelden möchten, schicken Sie uns bitte eine E-Mail mit Ihrem vollständigen Namen, Ihrem aktuellen Sprachniveau und Ihrem Wunschtermin. Vielen Dank für Ihren Anruf.'
     items:
       - q: 'Welche Einrichtung ist auf dem Anrufbeantworter zu hören?'
@@ -150,6 +154,7 @@ exercises:
     title: 'Tabelle ausfüllen: Dialog B (Lektorin)'
     audio: dialog1_b.mp3
     instructions: 'Hör Dialog B noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    instructionsEn: "Listen to Dialog B again and fill in the table. One piece of information is missing in each row."
     columns: ['Wort', 'Falsche Bedeutung (aus dem Englischen)', 'Korrekte deutsche Entsprechung', 'Register-Problem']
     rows:
       - label: 'aktuell'
@@ -181,6 +186,7 @@ exercises:
     title: 'Nahezu-synonyme Verben — das richtige Verb wählen'
     optionLayout: block
     instructions: 'Wähle das Verb, das am besten passt (a, b oder c).'
+    instructionsEn: "Choose the verb that fits best (a, b, or c)."
     items:
       - q: 'Was sagt der Richter im Prozess?'
         options:
@@ -224,6 +230,7 @@ exercises:
     title: 'Nahezu-synonyme Nomen — das richtige Nomen wählen'
     optionLayout: block
     instructions: 'Wähle das Nomen, das am besten passt (a, b oder c).'
+    instructionsEn: "Choose the noun that fits best (a, b, or c)."
     items:
       - q: 'Welches Nomen passt am besten im Satz: „Diese Woche steht eine schwere ___ an."'
         options:
@@ -267,6 +274,7 @@ exercises:
     title: 'Falsche Freunde — die richtige deutsche Bedeutung'
     optionLayout: block
     instructions: 'Wähle die korrekte deutsche Bedeutung (a, b oder c).'
+    instructionsEn: "Choose the correct German meaning (a, b, or c)."
     items:
       - q: 'Was bedeutet „aktuell" im Deutschen?'
         options:
@@ -310,6 +318,7 @@ exercises:
     listLayout: true
     title: 'Verben einsetzen: untersuchen / erforschen / prüfen / testen'
     instructions: 'Setze das passende Verb ein. 6 Items.'
+    instructionsEn: "Fill in the appropriate verb. 6 items."
     text: |
       1. Die Polizei {1} den Unfall.
       2. Ein Forscherteam {2} die Lebensweise einer bisher unbekannten Volksgruppe.
@@ -331,6 +340,7 @@ exercises:
     listLayout: true
     title: 'Nomen einsetzen: Problem / Aufgabe / Herausforderung / Schwierigkeit / Ursache'
     instructions: 'Setze das passende Nomen ein. 6 Items.'
+    instructionsEn: "Fill in the appropriate noun. 6 items."
     text: |
       1. Das {1} ist, dass die Software jeden Tag abstürzt.
       2. Diese Woche steht eine schwere {2} an.
@@ -351,6 +361,7 @@ exercises:
     type: matching
     title: 'Verben: Bedeutung zuordnen'
     instructions: 'Ordne jedem Verb (1–5) die passende Bedeutung (a–e) zu.'
+    instructionsEn: "Match each verb (1–5) with the appropriate meaning (a–e)."
     left:
       - { key: '1', text: 'erforschen' }
       - { key: '2', text: 'prüfen' }
@@ -375,6 +386,7 @@ exercises:
     type: matching
     title: 'Nomen: typisches Verb zuordnen'
     instructions: 'Ordne jedem Nomen (1–5) das typische Verb (a–e) zu.'
+    instructionsEn: "Match each noun (1–5) with its typical verb (a–e)."
     left:
       - { key: '1', text: 'das Problem' }
       - { key: '2', text: 'die Aufgabe' }
@@ -400,6 +412,7 @@ exercises:
     title: 'Konnotation — das richtige Register wählen'
     optionLayout: block
     instructions: 'Wähle die Variante mit der passenden Konnotation für den Kontext.'
+    instructionsEn: "Choose the variant with the connotation that fits the context."
     items:
       - q: 'In einer Todesanzeige:'
         options:
@@ -443,6 +456,7 @@ exercises:
     listLayout: true
     title: 'Falsche Freunde korrigieren'
     instructions: 'Setze das richtige deutsche Wort ein. 6 Items.'
+    instructionsEn: "Fill in the correct German word. 6 items."
     text: |
       1. „Actually, ich habe heute keine Zeit." → {1} habe ich heute keine Zeit.
       2. „Ich realisiere jetzt erst, dass das falsch war." → Ich {2} jetzt erst, dass das falsch war.
@@ -464,6 +478,7 @@ exercises:
     title: 'Registergerechte Wortwahl'
     optionLayout: block
     instructions: 'Wähle die angemessene Formulierung für den Kontext (a, b oder c).'
+    instructionsEn: "Choose the wording that is appropriate for the context (a, b, or c)."
     items:
       - q: 'In einem Geschäftsbrief an einen Kunden:'
         options:
@@ -506,6 +521,7 @@ exercises:
     type: odd-one-out
     title: 'Odd one out: Synonyme Gruppen'
     instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [untersuchen, erforschen, prüfen, bestehen]
         odd: 3
@@ -531,6 +547,7 @@ exercises:
     type: order
     title: 'Satzbau: Synonyme im Satz'
     instructions: 'Bring die Wörter in die richtige Reihenfolge.'
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: [Die, Polizei, untersucht, den, Unfall]
         answer: [0, 1, 2, 3, 4]
@@ -553,6 +570,7 @@ exercises:
     title: 'Das richtige Verb im Kontext'
     optionLayout: block
     instructions: 'Wähle das passende Verb (a, b oder c).'
+    instructionsEn: "Choose the appropriate verb (a, b, or c)."
     items:
       - q: 'Der Arzt ___ den Patienten gründlich.'
         options:
@@ -596,6 +614,7 @@ exercises:
     listLayout: true
     title: 'Erlaubnis-Verben im richtigen Register'
     instructions: 'Setze das passende Verb ein (erlauben / gestatten / zulassen / einräumen). 6 Items.'
+    instructionsEn: "Fill in the appropriate verb (erlauben / gestatten / zulassen / einräumen). 6 items."
     text: |
       1. (sachlich, alltagsnah) Die Chefin {1} ihr Homeoffice.
       2. (sehr förmlich, amtlich) Die Behörde {2} die Veranstaltung.
@@ -617,6 +636,7 @@ exercises:
     title: 'Das richtige Nomen im Kontext'
     optionLayout: block
     instructions: 'Wähle das passende Nomen (a, b oder c).'
+    instructionsEn: "Choose the appropriate noun (a, b, or c)."
     items:
       - q: 'Im Geschäftsbrief: „Die ___ des neuen Gesetzes auf den Arbeitsmarkt sind erheblich."'
         options:
@@ -659,6 +679,7 @@ exercises:
     type: matching
     title: 'Falsche Freunde — Wort und Bedeutung'
     instructions: 'Ordne jedem Wort (1–5) die korrekte deutsche Bedeutung (a–e) zu.'
+    instructionsEn: "Match each word (1–5) with the correct German meaning (a–e)."
     left:
       - { key: '1', text: 'aktuell' }
       - { key: '2', text: 'sensibel' }
@@ -684,6 +705,7 @@ exercises:
     title: 'Finde den richtigen Ersatz (falsche Freunde)'
     optionLayout: block
     instructions: 'Wähle das deutsche Wort, das die Bedeutung des englischen Wortes korrekt wiedergibt.'
+    instructionsEn: "Choose the German word that correctly renders the meaning of the English word."
     items:
       - q: 'Englisch: „That is actually a good idea." — Deutscher Ersatz:'
         options:
@@ -727,6 +749,7 @@ exercises:
     listLayout: true
     title: 'Konnotation im Satz — Register anpassen'
     instructions: 'Forme die Sätze ins angegebene Register um. 5 Items.'
+    instructionsEn: "Rewrite the sentences in the register given. 5 items."
     text: |
       1. (förmlich): „Er ist gestorben." → Er ist {1}.
       2. (salopp): „Er ist verstorben." → Er hat {2}.
@@ -746,6 +769,7 @@ exercises:
     title: 'Kollokationen prüfen'
     optionLayout: block
     instructions: 'Wähle die korrekte Kollokation (a, b oder c).'
+    instructionsEn: "Choose the correct collocation (a, b, or c)."
     items:
       - q: 'Welche Kollokation ist korrekt?'
         options:
@@ -789,6 +813,7 @@ exercises:
     title: 'Registerbruch erkennen und korrigieren'
     optionLayout: block
     instructions: 'Wähle die angemessene Version (a, b oder c).'
+    instructionsEn: "Choose the appropriate version (a, b, or c)."
     items:
       - q: 'In einer Bewerbung:'
         options:
@@ -859,6 +884,7 @@ exercises:
     listLayout: true
     title: 'Lückentext: Synonymik und Konnotation'
     instructions: 'Füll jede Lücke mit **einem** passenden Wort. 10 Items.'
+    instructionsEn: "Fill each gap with **one** suitable word. 10 items."
     text: |
       Auf C1-Niveau braucht man nicht **ein** Wort für eine Sache,
       sondern **mehrere** — und die Wahl ist eine Frage der **Wertung**.
@@ -890,6 +916,7 @@ exercises:
     title: 'Sprachbausteine Teil 1'
     optionLayout: block
     instructions: 'Wähle die passende Option (a, b oder c) für jede Lücke.'
+    instructionsEn: "Choose the suitable option (a, b, or c) for each gap."
     items:
       - q: 'Das Gericht {1} die Verfassungsmäßigkeit des Gesetzes.'
         options:
@@ -941,6 +968,7 @@ exercises:
     bankSort: true
     title: 'Sprachbausteine Teil 2 (Wortbank)'
     instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       In einem Sprachblog steht: „Synonymik ist mehr als nur
       {1}. Wer C1 schreibt, muss zwischen {2},
@@ -980,6 +1008,7 @@ exercises:
       > Wer diese Wahl nicht trifft, schreibt zwar korrekt, aber ungenau. Wer einem Kunden schreibt „Ihr Anliegen ist eine schwierige Herausforderung", mischt Schwierigkeit und Herausforderung und signalisiert Unsicherheit. Die Wahl des Wortes ist also nie neutral — sie ist eine soziale Handlung, die Wertung, Beziehung und Wirkung mittransportiert.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: 'Laut Text sind die vielen scheinbar synonymen Wörter im Deutschen wirklich austauschbar.'
         answer: false
@@ -1016,6 +1045,7 @@ exercises:
       >
       > **Beitrag 4 — Bruno_S:**
       > Ich sehe das anders. Gerade im Beruf hilft mir die feine Wortwahl: Wenn ich meinem Chef sage „Das ist eine Herausforderung" statt „Das ist ein Problem", klingt das gleich ganz anders. Wortwahl ist Verhandlung.
+    instructionsEn: "Read the following forum posts and choose a, b, or c."
     items:
       - q: 'Was ist die Leitfrage der Diskussion?'
         options:
@@ -1074,6 +1104,7 @@ exercises:
     listLayout: true
     title: 'Gemischter Schnelltest'
     instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (B2/..) oder (C1/..) wiederholen frühere Lektionen. 15 Items.'
+    instructionsEn: "One minute per item. No notes. Items marked (B2/..) or (C1/..) review earlier lessons. 15 items."
     text: |
       **Synonymik (C1/07):**
       1. „Problem" klingt {1} und zu lösen, „Herausforderung" klingt positiv und wertend.
@@ -1123,6 +1154,7 @@ exercises:
     type: odd-one-out
     title: 'Odd one out: Synonymik und Konnotation'
     instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [versterben, sterben, abkratzen, hinscheiden]
         odd: 2
@@ -1149,6 +1181,7 @@ exercises:
     listLayout: true
     title: 'Rückblick: B2/08, C1/01, C1/04, C1/05'
     instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B2/08 (Funktionsverbgefüge):**
       1. eine Studie {1}.

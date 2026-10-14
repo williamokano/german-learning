@@ -17,6 +17,7 @@ exercises:
     title: 'Dialog Hör-Check: Dialog A (Spieleabend)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: 'Tomáš hat in der vergangenen Woche einen Investor für sein Startup gewonnen.'
         answer: false
@@ -40,6 +41,7 @@ exercises:
     title: 'Dialog Hör-Check: Dialog B (Vorstellungsgespräch)'
     audio: dialog1_b.mp3
     instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     optionLayout: block
     items:
       - q: 'In welcher Branche ist die Kanzlei tätig, in der das Gespräch stattfindet?'
@@ -77,6 +79,7 @@ exercises:
     title: 'Hörtext-Lückentext: Investor mit kalten Füßen'
     audio: hoertext.mp3
     instructions: 'Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.'
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Three words in the box are not needed."
     text: |
       Liebe Hörerinnen und Hörer, in unserer Reihe „Sprache und Wirtschaft"
       sprechen wir heute über ein Phänomen, das in jeder Verhandlung
@@ -103,6 +106,7 @@ exercises:
     title: 'Kurze Ansage: Anrufbeantworter einer PR-Agentur'
     audio: transcript_ansage1.mp3
     instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    instructionsEn: "Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     optionLayout: block
     transcript: 'Guten Tag, Sie haben die PR-Agentur Wortkraft in Hamburg-Altona erreicht. Wir sind heute, am Donnerstag, dem 19. Juni, leider nicht persönlich für Sie da. Aufgrund einer kurzfristigen Klausurtagung der Geschäftsführung ist unser Büro bis einschließlich Freitag nicht besetzt. Für dringende Medienanfragen wenden Sie sich bitte an die Pressehotline 040-89 12 34. Für Anfragen zu laufenden Kundenprojekten hinterlassen Sie bitte Ihren Namen, Ihre Telefonnummer und den Namen des betreuten Unternehmens nach dem Signalton. Wir rufen Sie am darauffolgenden Werktag zurück. Vielen Dank für Ihr Verständnis.'
     items:
@@ -141,6 +145,7 @@ exercises:
     title: 'Tabelle ausfüllen: Dialog A (Spieleabend)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    instructionsEn: "Listen to Dialog A again and fill in the table. One piece of information is missing in each row."
     columns: ['Person', 'Wendung', 'Bedeutung', 'Kontext']
     rows:
       - label: 'Tomáš'
@@ -175,6 +180,7 @@ exercises:
     type: single-choice
     title: 'Was bedeutet die Redewendung?'
     instructions: 'Wähle die Bedeutung (a, b oder c) der jeweiligen Redewendung.'
+    instructionsEn: "Choose the meaning (a, b, or c) of each idiom."
     items:
       - q: '„Die Daumen drücken"'
         options:
@@ -239,6 +245,7 @@ exercises:
     listLayout: true
     title: 'Redewendungen in Sätze einsetzen'
     instructions: 'Setze die passende Redewendung ein. 8 Items.'
+    instructionsEn: "Fill in the matching idiom. 8 items."
     text: |
       1. „Ich {1} dir die Daumen für deine Prüfung!" (Glück wünschen)
       2. „Er hat {2} und den Vertrag nicht unterschrieben." (Angst bekommen)
@@ -263,6 +270,7 @@ exercises:
     type: matching
     title: 'Redewendung — Bedeutung — Beispielsatz'
     instructions: 'Ordne jeder Redewendung (1–6) das passende Bedeutungs-Wort (a–f) zu.'
+    instructionsEn: "Match each idiom (1–6) with the word that gives its meaning (a–f)."
     left:
       - { key: '1', text: 'die Daumen drücken' }
       - { key: '2', text: 'kalte Füße bekommen' }
@@ -290,6 +298,7 @@ exercises:
     type: single-choice
     title: 'Welches Sprichwort passt zur Situation?'
     instructions: 'Wähle das passende Sprichwort (a, b oder c) zur beschriebenen Situation.'
+    instructionsEn: "Choose the proverb (a, b, or c) that fits the situation described."
     items:
       - q: 'Jemand beginnt ein neues Projekt und klagt über Schwierigkeiten. Welches Sprichwort passt als Aufmunterung?'
         options:
@@ -333,6 +342,7 @@ exercises:
     listLayout: true
     title: 'Sprichwörter ergänzen'
     instructions: 'Ergänze die Sprichwörter mit dem passenden Wort. 5 Items.'
+    instructionsEn: "Complete the proverbs with the missing word. 5 items."
     text: |
       1. Aller {1} ist schwer. (Beginn)
       2. {2} macht den Meister. (Wiederholtes Tun)
@@ -351,6 +361,7 @@ exercises:
     type: single-choice
     title: 'Falsche Freunde: Was bedeutet das Wort im Deutschen?'
     instructions: 'Wähle die richtige deutsche Bedeutung (a, b oder c).'
+    instructionsEn: "Choose the correct German meaning (a, b, or c)."
     items:
       - q: '„aktuell"'
         options:
@@ -393,6 +404,7 @@ exercises:
     type: matching
     title: 'Falsche Freunde: Wort — richtige Bedeutung'
     instructions: 'Ordne jedem falschen Freund (1–6) die richtige deutsche Bedeutung (a–f) zu.'
+    instructionsEn: "Match each false friend (1–6) with its correct German meaning (a–f)."
     left:
       - { key: '1', text: 'aktuell' }
       - { key: '2', text: 'realisieren' }
@@ -420,6 +432,7 @@ exercises:
     type: gap-bank
     title: 'Starke Kollokationen: Verb + Nomen'
     instructions: 'Füll die 6 Lücken mit der passenden Kollokation aus dem Kasten. Drei Elemente sind zu viel.'
+    instructionsEn: "Fill in the 6 gaps with the matching collocation from the box. Three items are not needed."
     text: |
       1. Wir müssen eine {1} Entscheidung {2}.
       2. Sie hat einen {3} {4} zum Projekt geleistet.
@@ -447,6 +460,7 @@ exercises:
     type: single-choice
     title: 'Kollokationsbruch: Welche Formulierung passt?'
     instructions: 'Wähle die kollokativ richtige Formulierung (a, b oder c).'
+    instructionsEn: "Choose the wording with the correct collocation (a, b, or c)."
     items:
       - q: 'Welche Formulierung ist kollokativ richtig?'
         options:
@@ -489,6 +503,7 @@ exercises:
     type: order
     title: 'Satzbau: Redewendung im Mittelfeld'
     instructions: 'Bring die Wörter in die richtige Reihenfolge.'
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: [Ich, drücke, dir, die, Daumen]
         answer: [0, 1, 2, 3, 4]
@@ -511,6 +526,7 @@ exercises:
     listLayout: true
     title: 'Starke Kollokationen in einer E-Mail'
     instructions: 'Setze die passende Kollokation ein. 6 Items.'
+    instructionsEn: "Fill in the matching collocation. 6 items."
     text: |
       Sehr geehrte Frau Doktor Hoffmann,
       vielen Dank für Ihre Nachricht. Ich habe die {1} gesichtet
@@ -550,6 +566,7 @@ exercises:
     type: single-choice
     title: 'Welche Wendung passt im Kontext?'
     instructions: 'Wähle die Wendung (a, b oder c), die im Kontext am besten passt.'
+    instructionsEn: "Choose the expression (a, b, or c) that fits the context best."
     items:
       - q: '„Ich wünsche dir viel Erfolg bei der Präsentation — ich {1} dir die Daumen!"'
         options:
@@ -592,6 +609,7 @@ exercises:
     type: matching
     title: 'Motivkreise: Welche Redewendung gehört zu welchem Kreis?'
     instructions: 'Ordne jeder Redewendung (1–5) den passenden Motivkreis (a–e) zu.'
+    instructionsEn: "Match each idiom (1–5) with its image field (a–e)."
     left:
       - { key: '1', text: 'die Daumen drücken' }
       - { key: '2', text: 'die Fliege machen' }
@@ -616,6 +634,7 @@ exercises:
     type: single-choice
     title: 'Registerbruch: Welche Formulierung passt zum Register?'
     instructions: 'Wähle die Formulierung, die zum angegebenen Register passt.'
+    instructionsEn: "Choose the wording that fits the given register."
     items:
       - q: 'In einer formellen E-Mail an einen Geschäftspartner:'
         options:
@@ -658,6 +677,7 @@ exercises:
     type: gap-bank
     title: 'Sprichwörter — Original und Modifikation'
     instructions: 'Füll die 6 Lücken. Vier Elemente sind zu viel.'
+    instructionsEn: "Fill in the 6 gaps. Four items are not needed."
     text: |
       1. Aller Anfang ist {1}. — Modifikation: Aller {2} war, ist und bleibt schwer.
       2. {3} macht den {4}. — Verneinung: Ohne Übung wird man {5} {6}.
@@ -685,6 +705,7 @@ exercises:
     type: single-choice
     title: 'Wörtliche Übersetzung: Welche deutsche Entsprechung passt?'
     instructions: 'Wähle die korrekte deutsche Entsprechung (a, b oder c) des englischen Idioms.'
+    instructionsEn: "Choose the correct German equivalent (a, b, or c) of the English idiom."
     items:
       - q: '„It''s not my cup of tea."'
         options:
@@ -769,6 +790,7 @@ exercises:
     listLayout: true
     title: 'Lückentext: Idiomatik und Kollokationen'
     instructions: 'Füll jede Lücke mit **einem** passenden Wort (Redewendung, Sprichwort, Kollokation oder Verbform). 10 Items.'
+    instructionsEn: "Fill each gap with **one** suitable word (idiom, proverb, collocation, or verb form). 10 items."
     text: |
       Redewendungen und starke Kollokationen sind das, was eine Sprache
       kulturell macht. Wer *„die Daumen {1}"* sagt, wünscht Glück; wer
@@ -801,6 +823,7 @@ exercises:
     type: single-choice
     title: 'Sprachbausteine Teil 1'
     instructions: 'Wähle die idiomatisch und grammatisch passende Option (a, b oder c) für jede Lücke.'
+    instructionsEn: "Choose the option (a, b, or c) that fits each gap idiomatically and grammatically."
     items:
       - q: '„Ich wünsche dir viel Erfolg — ich {1} dir die Daumen!"'
         options:
@@ -852,6 +875,7 @@ exercises:
     bankSort: true
     title: 'Sprachbausteine Teil 2 (Wortbank)'
     instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Aus einem Sprachratgeber: „Redewendungen sind nicht {1}, sondern
       haben eine {2} Bedeutung, die sich nicht aus den Einzelbedeutungen
@@ -889,6 +913,7 @@ exercises:
       > Hinzu kommen die falschen Freunde: Wörter, die im Englischen ähnlich klingen, aber eine andere Bedeutung haben. „Aktuell" bedeutet nicht actually (tatsächlich), sondern derzeitig. „Realisieren" bedeutet nicht to realize (erkennen), sondern umsetzen. „Sensibel" bedeutet nicht sensible (vernünftig), sondern heikel. Wer diese Stolperfallen kennt, vermeidet die schlimmsten Patzer.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: 'Laut Text sind Redewendungen ein kultureller Code, den nur Eingeweihte verstehen.'
         answer: true
@@ -924,6 +949,7 @@ exercises:
       >
       > **Beitrag 4 — Tomáš_N (User):**
       > Eigentlich finde ich, dass die Diskussion viel zu theoretisch geführt wird. Wer schreibt, sollte halt auf sein Sprachgefühl hören — dann passt das schon.
+    instructionsEn: "Read the following forum posts and choose a, b, or c."
     items:
       - q: 'Welche Redewendungen benutzt Anna_B (Beitrag 2) im Büro besonders häufig?'
         options:
@@ -981,7 +1007,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Gemischter Schnelltest'
-    instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items.'
+    instructions: 'Eine Minute pro Item. Keine Notizen. Items mit Lektionsangabe, z. B. (B2/08), wiederholen eine frühere Lektion. 15 Items.'
+    instructionsEn: "One minute per item. No notes. Items marked with a lesson reference, e.g. (B2/08), review an earlier lesson. 15 items."
     text: |
       **Redewendungen (C1/04):**
       1. Glück wünschen: Ich {1} dir die Daumen.
@@ -1029,6 +1056,7 @@ exercises:
     type: odd-one-out
     title: 'Odd one out: Redewendungen und ähnliche Wörter'
     instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [Daumen, Füße, Kopf, Tisch]
         odd: 3
@@ -1055,6 +1083,7 @@ exercises:
     listLayout: true
     title: 'Rückblick: B2/08, B2/09, C1/01, C1/03'
     instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B2/08 (Funktionsverbgefüge):**
       1. bezweifeln: in Frage {1}.

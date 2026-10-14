@@ -259,7 +259,7 @@ Welche Sätze stapeln den Konjunktiv II (Registerfehler)? Wähle den Satz mit de
 
 ## Übung B6 — Modalpartikeln und Höflichkeit: E-Mail ergänzen
 
-Füll die 8 Lücken mit der passenden Modalpartikel oder Höflichkeitsformel (Konjunktiv II). Drei Wörter sind zu viel.
+Füll die 7 Lücken mit der passenden Modalpartikel oder Höflichkeitsformel (Konjunktiv II). Drei Wörter sind zu viel.
 
 > Sehr geehrte Frau Doktor Weber,
 > ich (1) ______ Ihnen gerne mitteilen, dass Ihre Bewerbung bei uns eingegangen ist.
@@ -414,7 +414,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items.
+Eine Minute pro Item. Keine Notizen. Items mit Lektionsangabe, z. B. (B2/01), wiederholen eine frühere Lektion. 15 Items.
 
 **Stilebenen (C1/01):**
 1. Register mit kurzen Sätzen, vielen Modalpartikeln: ______

@@ -266,7 +266,7 @@ Ordne jedem Hedging-Beispiel (1–6) die richtige Kategorie (a–f) zu.
 
 ## Übung B4 — Statistik-Versprachlichung im Kontext
 
-Setze das passende Wort ein. 6 Items.
+Setze das passende Wort ein. 4 Items, 6 Lücken.
 
 1. Die Zahl der Pflegebedürftigen dürfte bis 2040 ______ rund 30 Prozent ______.
 2. Im Vergleich zu 1990 hat sich der Anteil der über 65-Jährigen ______.
@@ -465,7 +465,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-Eine Minute pro Item. Keine Notizen. Items mit (C1/..) oder (B2/..) wiederholen frühere Lektionen. 15 Items.
+Eine Minute pro Item. Keine Notizen. Items mit (C1/..) oder (B2/..) wiederholen frühere Lektionen. 14 Items, 15 Lücken.
 
 **Diskursive Strukturen (C1/11):**
 1. ______ ermöglicht KI mehr Individualisierung.
@@ -506,7 +506,7 @@ Streiche das Wort, das nicht passt, und erkläre warum.
 
 ## Übung D3 — Rückblick: C1/05, C1/08, C1/09, C1/11
 
-Wiederholung früherer Lektionen. 10 Items.
+Wiederholung früherer Lektionen. 9 Items, 10 Lücken.
 
 **Aus C1/05 (Wissenschaftssprache):**
 1. Unpersönlich: Die Daten ______ ausgewertet. (Passiv)

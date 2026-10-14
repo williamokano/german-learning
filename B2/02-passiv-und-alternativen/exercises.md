@@ -405,7 +405,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-Eine Minute pro Item. Ohne Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items.
+Eine Minute pro Item. Ohne Notizen. Items mit Lektionsangabe, z. B. (B1/04), wiederholen eine frühere Lektion. 15 Items.
 
 1. „Das Problem kann gelöst werden" mit sich lassen: Das Problem ______ sich lösen.
 2. „lösen" als -bar-Adjektiv: ______

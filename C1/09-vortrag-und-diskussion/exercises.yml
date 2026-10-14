@@ -17,6 +17,7 @@ exercises:
     title: 'Dialog Hör-Check: Dialog A (Referat-Probe)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: 'Anna hält ihr Referat schon übermorgen.'
         answer: true
@@ -41,6 +42,7 @@ exercises:
     audio: dialog1_b.mp3
     optionLayout: block
     instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: 'Welche Rolle hat Yusuf in der Veranstaltung?'
         options:
@@ -77,6 +79,7 @@ exercises:
     title: 'Hörtext-Lückentext: Science Slam'
     audio: hoertext.mp3
     instructions: 'Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.'
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Three words in the box are not needed."
     text: |
       Guten Abend und willkommen zu „Kultur am Mittwoch". Gestern fand im
       ausverkauften Stadttheater der diesjährige Science {1} statt. Sechs junge
@@ -103,6 +106,7 @@ exercises:
     audio: transcript_ansage1.mp3
     optionLayout: block
     instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    instructionsEn: "Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Guten Tag, Sie haben den Anrufbeantworter der Rhetorik-Werkstatt Berlin erreicht. Vielen Dank für Ihre Anmeldung zu unserem Wochenendkurs „Frei sprechen — überzeugend präsentieren". Der Kurs findet am kommenden Samstag von zehn bis siebzehn Uhr in Raum 204 statt. Bitte bringen Sie ein eigenes Vortragsthema und, wenn möglich, eine kurze Gliederung mit. Sollten Sie verhindert sein, rufen Sie uns bitte bis Freitagmittag zurück, damit wir den Platz weitergeben können. Wir freuen uns auf Sie.'
     items:
       - q: 'Wessen Anrufbeantworter hat man erreicht?'
@@ -140,6 +144,7 @@ exercises:
     title: 'Tabelle ausfüllen: Dialog B (Moderation)'
     audio: dialog1_b.mp3
     instructions: 'Hör Dialog B noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    instructionsEn: "Listen to Dialog B again and complete the table. One piece of information is missing in each row."
     columns: ['Moment', 'Wer', 'Redemittel', 'Funktion']
     rows:
       - label: 'Eröffnung'
@@ -175,6 +180,7 @@ exercises:
     title: 'Gliederungssignale — welche Phase?'
     optionLayout: block
     instructions: 'Wähle das Signal, das zur genannten Phase des Vortrags passt (a, b oder c).'
+    instructionsEn: "Choose the signal that fits the given phase of the presentation (a, b, or c)."
     items:
       - q: 'Womit leitet man einen Vortrag EIN?'
         options:
@@ -218,6 +224,7 @@ exercises:
     listLayout: true
     title: 'Inversion: das Verb an Position 2'
     instructions: 'Nach einem vorangestellten Adverbiale steht das Verb an Position 2. Setze die richtige Verbform ein. 8 Items.'
+    instructionsEn: "After a fronted adverbial, the verb is in position 2. Fill in the correct verb form. 8 items."
     text: |
       1. Zunächst {1} ich das Thema ein. (eingrenzen, ich)
       2. Im Folgenden {2} ich drei Punkte ansprechen. (werden-Futur)
@@ -243,6 +250,7 @@ exercises:
     title: 'Moderieren — höflich formulieren'
     optionLayout: block
     instructions: 'Wähle die höfliche, moderationsgerechte Formulierung (a, b oder c).'
+    instructionsEn: "Choose the polite wording suitable for a moderator (a, b, or c)."
     items:
       - q: 'Du möchtest jemandem das Wort erteilen.'
         options:
@@ -286,6 +294,7 @@ exercises:
     listLayout: true
     title: 'Konjunktiv II der Höflichkeit'
     instructions: 'Setze die höfliche Konjunktiv-II-Form ein (Grundverb in Klammern). 6 Items.'
+    instructionsEn: "Fill in the polite Konjunktiv II form (base verb in brackets). 6 items."
     text: |
       1. (werden) Ich {1} Sie bitten, zu beginnen.
       2. (dürfen) {2} ich Sie kurz unterbrechen?
@@ -307,6 +316,7 @@ exercises:
     title: 'Argumentative Konnektoren'
     optionLayout: block
     instructions: 'Wähle den passenden Konnektor (a, b oder c).'
+    instructionsEn: "Choose the right connector (a, b, or c)."
     items:
       - q: 'Forschung sollte zugänglich sein, {…} sie öffentlich finanziert wird. (verstärkter Grund)'
         options:
@@ -350,6 +360,7 @@ exercises:
     listLayout: true
     title: 'Konnektoren einsetzen'
     instructions: 'Setze den passenden Konnektor ein (ein Wort). 6 Items.'
+    instructionsEn: "Fill in the right connector (one word). 6 items."
     text: |
       1. (verstärkter Grund) Der Vortrag sollte kurz sein, {1} das Publikum müde ist.
       2. (Bedingung = wenn) {2} die Stichprobe groß genug ist, ist das Ergebnis aussagekräftig.
@@ -371,6 +382,7 @@ exercises:
     title: 'Diplomatisch widersprechen oder Killerphrase?'
     optionLayout: block
     instructions: 'Wähle die diplomatische, sachliche Formulierung (a, b oder c).'
+    instructionsEn: "Choose the diplomatic, objective wording (a, b, or c)."
     items:
       - q: 'Du bist anderer Meinung.'
         options:
@@ -413,6 +425,7 @@ exercises:
     type: matching
     title: 'Redemittel — Funktion zuordnen'
     instructions: 'Ordne jedem Redemittel (1–5) die passende Funktion (a–e) zu.'
+    instructionsEn: "Match each Redemittel (1–5) with its function (a–e)."
     left:
       - { key: '1', text: 'Im Folgenden möchte ich …' }
       - { key: '2', text: 'Damit komme ich zu meinem zweiten Punkt.' }
@@ -437,6 +450,7 @@ exercises:
     type: matching
     title: 'Rhetorische Mittel — Beispiel zuordnen'
     instructions: 'Ordne jedem rhetorischen Mittel (1–5) das passende Beispiel (a–e) zu.'
+    instructionsEn: "Match each rhetorical device (1–5) with the right example (a–e)."
     left:
       - { key: '1', text: 'rhetorische Frage' }
       - { key: '2', text: 'Dreierfigur' }
@@ -461,6 +475,7 @@ exercises:
     type: gap-bank
     title: 'Redemittel eines Vortrags'
     instructions: 'Füll die 6 Lücken mit dem passenden Wort aus dem Kasten. Drei Wörter sind zu viel.'
+    instructionsEn: "Fill in the 6 gaps with the right word from the box. Three words are not needed."
     text: |
       1. Zur Begrüßung: „Sehr {1} Damen und Herren."
       2. Zur Gliederung: „Mein Vortrag {2} sich in drei Teile."
@@ -483,6 +498,7 @@ exercises:
     title: 'Rhetorisches Mittel erkennen'
     optionLayout: block
     instructions: 'Welches rhetorische Mittel liegt vor? Wähle a, b oder c.'
+    instructionsEn: "Which rhetorical device is used? Choose a, b, or c."
     items:
       - q: '„Ein Ozean von Möglichkeiten liegt vor uns."'
         options:
@@ -525,6 +541,7 @@ exercises:
     type: order
     title: 'Satzbau: Vortrag und Diskussion'
     instructions: 'Bring die Wörter in die richtige Reihenfolge.'
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: [Im, Folgenden, möchte, ich, drei, Punkte, ansprechen]
         answer: [0, 1, 2, 3, 4, 5, 6]
@@ -547,6 +564,7 @@ exercises:
     listLayout: true
     title: 'Eine Vortragseinleitung vervollständigen'
     instructions: 'Setze das passende Wort ein (Gliederungssignal oder Verbform). 6 Items.'
+    instructionsEn: "Fill in the right word (Gliederungssignal or verb form). 6 items."
     text: |
       1. Sehr {1} Damen und Herren, ich freue mich, heute zu Ihnen zu sprechen.
       2. Im {2} möchte ich drei Punkte ansprechen.
@@ -568,6 +586,7 @@ exercises:
     title: 'Registerbruch in der Diskussion erkennen'
     optionLayout: block
     instructions: 'Wähle die Formulierung, die in eine sachliche Diskussion passt.'
+    instructionsEn: "Choose the wording that fits an objective discussion."
     items:
       - q: 'Du bist anderer Meinung:'
         options:
@@ -611,6 +630,7 @@ exercises:
     title: 'Diplomatisch reagieren im Kontext'
     optionLayout: block
     instructions: 'Wähle die Reaktion, die im Kontext am besten passt (a, b oder c).'
+    instructionsEn: "Choose the reaction that fits the context best (a, b, or c)."
     items:
       - q: 'Jemand greift deine These scharf an. Wie reagierst du souverän?'
         options:
@@ -653,6 +673,7 @@ exercises:
     type: matching
     title: 'Killerphrase und diplomatische Alternative'
     instructions: 'Ordne jeder Killerphrase (1–5) die diplomatische Entsprechung (a–e) zu.'
+    instructionsEn: "Match each Killerphrase (1–5) with its diplomatic equivalent (a–e)."
     left:
       - { key: '1', text: 'Das ist doch Unsinn.' }
       - { key: '2', text: 'Das stimmt einfach nicht.' }
@@ -678,6 +699,7 @@ exercises:
     title: 'Finde die beste Korrektur'
     optionLayout: block
     instructions: 'Wähle die beste Korrektur des Auftrittsfehlers (a, b oder c).'
+    instructionsEn: "Choose the best correction of the presentation mistake (a, b, or c)."
     items:
       - q: 'Füllwörter: „Also das ist halt irgendwie so, ähm, schwierig."'
         options:
@@ -721,6 +743,7 @@ exercises:
     listLayout: true
     title: 'Konzession: einräumen und widersprechen'
     instructions: 'Setze das passende Konzessiv-/Adversativwort ein. 6 Items.'
+    instructionsEn: "Fill in the right concessive/adversative word. 6 items."
     text: |
       1. {1} ist die Fachsprache präzise, aber sie schließt viele aus. (Einräumung am Satzanfang)
       2. Da haben Sie zwar recht, {2} sehe ich ein anderes Problem.
@@ -742,6 +765,7 @@ exercises:
     title: 'Korrekt moderieren und argumentieren'
     optionLayout: block
     instructions: 'Wähle die korrekte Form (a, b oder c).'
+    instructionsEn: "Choose the correct form (a, b, or c)."
     items:
       - q: 'Welche höfliche Bitte ist grammatisch korrekt?'
         options:
@@ -828,6 +852,7 @@ exercises:
     listLayout: true
     title: 'Lückentext: Merkmale eines guten Vortrags'
     instructions: 'Füll jede Lücke mit **einem** passenden Wort. 10 Items.'
+    instructionsEn: "Fill each gap with **one** suitable word. 10 items."
     text: |
       Ein guter Vortrag beginnt nicht mit dem Stoff, sondern holt das
       Publikum ab. Schon der erste Satz, oft eine rhetorische {1},
@@ -861,6 +886,7 @@ exercises:
     title: 'Sprachbausteine Teil 1'
     optionLayout: block
     instructions: 'Wähle die passende Option (a, b oder c) für jede Lücke.'
+    instructionsEn: "Choose the right option (a, b, or c) for each gap."
     items:
       - q: 'Zunächst {1} ich die Ausgangslage skizzieren.'
         options:
@@ -912,6 +938,7 @@ exercises:
     bankSort: true
     title: 'Sprachbausteine Teil 2 (Wortbank)'
     instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Aus einem Ratgeber für Vortrag und Diskussion: „Wer überzeugend
       vortragen will, sollte einige Regeln beachten. Holen Sie Ihr
@@ -950,6 +977,7 @@ exercises:
       > Bemerkenswert ist, dass diese alten Einsichten heute eine Renaissance erleben — etwa im Format des TED-Talks oder im Science Slam. Wer Inhalt und Form zusammenbringt, erreicht ein Publikum, das eine klassische Fachvorlesung nie erreicht hätte.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: 'Laut Text ist die freie Rede eine angeborene Gabe, die man nicht lernen kann.'
         answer: false
@@ -986,6 +1014,7 @@ exercises:
       >
       > **Beitrag 4 — Pavel:**
       > Beides gehört zusammen. Gerade weil der Inhalt wichtig ist, muss man ihn auch vermitteln können. Ein guter Gedanke, den niemand versteht, bleibt wirkungslos.
+    instructionsEn: "Read the following forum posts and choose a, b, or c."
     items:
       - q: 'Was ist die Leitfrage der Diskussion?'
         options:
@@ -1044,6 +1073,7 @@ exercises:
     listLayout: true
     title: 'Gemischter Schnelltest'
     instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (B1/..), (B2/..) oder (C1/..) wiederholen frühere Lektionen. 15 Items.'
+    instructionsEn: "One minute per item. No notes. Items marked (B1/..), (B2/..) or (C1/..) review earlier lessons. 15 items."
     text: |
       **Vortrag und Diskussion (C1/09):**
       1. Inversion: Zunächst {1} ich das Thema ein. (eingrenzen, ich)
@@ -1093,6 +1123,7 @@ exercises:
     type: odd-one-out
     title: 'Odd one out: Vortrag und Diskussion'
     instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [Anapher, Metapher, Hyperbel, Argument]
         odd: 3
@@ -1119,6 +1150,7 @@ exercises:
     listLayout: true
     title: 'Rückblick: B1/10, B2/04, B2/07, C1/03, C1/09'
     instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B1/10 (Zweiteilige Konnektoren):**
       1. sowohl … {1} auch.

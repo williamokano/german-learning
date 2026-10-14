@@ -434,7 +434,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items.
+Eine Minute pro Item. Keine Notizen. Items mit Lektionsangabe, z. B. (B2/08), wiederholen eine frühere Lektion. 15 Items.
 
 **Redewendungen (C1/04):**
 1. Glück wünschen: Ich ______ dir die Daumen.

@@ -17,6 +17,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
     instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: "Mia ist sich sicher, dass der neue Nachbar reich ist."
         answer: true
@@ -40,6 +41,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Wie schätzt Frau Yilmaz den Bewerber zuerst ein?"
         options:
@@ -76,6 +78,7 @@ exercises:
     title: "Hörtext-Lückentext: Radiomeldung"
     audio: hoertext.mp3
     instructions: "Hör den Hörtext und fülle die 6 Lücken. Drei Wörter im Kasten werden nicht gebraucht."
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Three words in the box are not needed."
     text: |
       Und nun zu den Klatschnachrichten des Tages. Ein bekanntes Schauspielerpaar
       {1} sich angeblich getrennt haben — das berichtet zumindest ein Boulevardblatt
@@ -100,6 +103,7 @@ exercises:
     audio: transcript_ansage1.mp3
     optionLayout: block
     instructions: "Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript liest."
+    instructionsEn: "Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript."
     transcript: 'Hallo Anna, hier ist Mia. Du, ich habe gerade gehört, der neue Nachbar soll doch gar kein Banker sein! Die Frau aus dem zweiten Stock sagt, er soll in Wirklichkeit Schauspieler sein. Und der Sportwagen — der dürfte tatsächlich nur geliehen sein, für einen Dreh. Verrückt, oder? Bruno hatte wohl recht: Das war alles nur Gerede. Ruf mich bitte zurück, dann erzähle ich dir mehr. Tschüss!'
     items:
       - q: "Was hat Mia über den Beruf des Nachbarn neu gehört?"
@@ -131,6 +135,7 @@ exercises:
     type: single-choice
     title: "Objektiv oder subjektiv?"
     instructions: "Bestimme, ob das Modalverb objektiv (Tatsache) oder subjektiv (Vermutung/Einschätzung) gemeint ist. 6 Items."
+    instructionsEn: "Decide whether the modal verb is meant objectively (fact) or subjectively (assumption/assessment). 6 items."
     items:
       - q: "Er muss jeden Tag um 6 Uhr aufstehen."
         options:
@@ -175,6 +180,7 @@ exercises:
     listLayout: true
     title: "Sicherheitsskala einsetzen"
     instructions: "Setz das passende Modalverb ein (muss / dürfte / könnte / kann nicht). 6 Items."
+    instructionsEn: "Fill in the appropriate modal verb (muss / dürfte / könnte / kann nicht). 6 items."
     text: |
       1. Das Licht brennt und das Auto steht da — er {1} zu Hause sein. (fast sicher)
       2. Ich habe ihn gerade in Berlin gesehen — er {2} gleichzeitig in München sein. (ausgeschlossen)
@@ -195,6 +201,7 @@ exercises:
     type: single-choice
     title: "sollen oder wollen?"
     instructions: "Gerücht (man sagt) → sollen. Selbstbehauptung (er/sie sagt von sich) → wollen. Wähle die richtige Form. 6 Items."
+    instructionsEn: "Rumour (people say) → sollen. Self-claim (he/she says about him-/herself) → wollen. Choose the correct form. 6 items."
     items:
       - q: "(Man sagt es:) Das neue Restaurant ____ ausgezeichnet sein."
         options:
@@ -239,6 +246,7 @@ exercises:
     listLayout: true
     title: "Gegenwart → Vergangenheit (Infinitiv Perfekt)"
     instructions: "Setz die Vermutung in die Vergangenheit. Schreib das zweite Verb als Infinitiv Perfekt (Partizip II + sein/haben). 6 Items."
+    instructionsEn: "Put the assumption into the past. Write the second verb as Infinitiv Perfekt (Partizip II + sein/haben). 6 items."
     text: |
       1. Er muss reich sein. → Er muss reich {1}. (sein)
       2. Sie dürfte den Termin vergessen. → Sie dürfte den Termin {2}. (vergessen)
@@ -260,6 +268,7 @@ exercises:
     listLayout: true
     title: "sein oder haben im Infinitiv Perfekt?"
     instructions: "Ergänze den Infinitiv Perfekt mit dem richtigen Hilfsverb (sein oder haben). 6 Items."
+    instructionsEn: "Fill in the Infinitiv Perfekt with the correct auxiliary (sein or haben). 6 items."
     text: |
       1. Bei dem Wetter kann er nicht zu Fuß {1} (gehen).
       2. Sie dürfte den Schlüssel {2} (verlieren).
@@ -280,6 +289,7 @@ exercises:
     type: matching
     title: "Sicherheitsgrad zuordnen"
     instructions: "Ordne jeder Aussage (1–6) den passenden Sicherheitsgrad (a–f) zu."
+    instructionsEn: "Match each statement (1–6) with the appropriate degree of certainty (a–f)."
     left:
       - { key: "1", text: "Das muss stimmen." }
       - { key: "2", text: "Das dürfte stimmen." }
@@ -308,6 +318,7 @@ exercises:
     listLayout: true
     title: "mögen als Zugeständnis"
     instructions: "Ergänze mit mögen (mag) und einem passenden Gegensatz mit aber/trotzdem/doch. 4 Items."
+    instructionsEn: "Complete with mögen (mag) and a fitting contrast with aber/trotzdem/doch. 4 items."
     text: |
       1. Das {1} stimmen, aber es ändert nichts an der Sache.
       2. Er {2} ein Experte sein, trotzdem irrt er sich hier.
@@ -325,6 +336,7 @@ exercises:
     title: "Satzbau: Vermutung über die Vergangenheit"
     prompt: "Bring die Wörter in die richtige Reihenfolge. Der Infinitiv Perfekt steht am Satzende."
     instructions: "Ordne die Wörter zu einem korrekten Satz."
+    instructionsEn: "Put the words in order to form a correct sentence."
     items:
       - tiles: [er, muss, sehr, reich, gewesen, sein]
         answer: [0, 1, 2, 3, 4, 5]
@@ -345,6 +357,7 @@ exercises:
     listLayout: true
     title: "dürfte vs. darf"
     instructions: "Vermutung → dürfte (Konj. II). Erlaubnis → darf. Setz die richtige Form ein. 5 Items."
+    instructionsEn: "Assumption → dürfte (Konj. II). Permission → darf. Fill in the correct form. 5 items."
     text: |
       1. Du {1} hier nicht parken, das ist verboten. (Erlaubnis/Verbot)
       2. Sie {2} schon zu Hause sein, es ist spät. (Vermutung)
@@ -364,6 +377,7 @@ exercises:
     listLayout: true
     title: "Modalverb passend zum Sicherheitsgrad"
     instructions: "Wähle muss / dürfte / könnte / kann nicht / soll / will je nach Kontext in Klammern. 6 Items."
+    instructionsEn: "Choose muss / dürfte / könnte / kann nicht / soll / will depending on the context in brackets. 6 items."
     text: |
       1. Alles spricht dafür: Sie {1} die neue Chefin sein. (fast sicher)
       2. Man erzählt sich, er {2} im Lotto gewonnen haben. (Gerücht, Vergangenheit)
@@ -386,6 +400,7 @@ exercises:
     type: gap-bank
     title: "Dialog ergänzen: Wer ist die neue Kollegin?"
     instructions: "Fülle die 8 Lücken mit dem passenden Modalverb. Zwei Wörter werden nicht gebraucht."
+    instructionsEn: "Fill in the 8 gaps with the appropriate modal verb. Two words are not needed."
     text: |
       — Hast du die neue Kollegin gesehen? Die {1} eine echte Expertin sein, so sicher wie sie auftritt.
       — Vorsicht, das ist nur dein Eindruck. Sie {2} auch einfach selbstbewusst sein, das heißt noch nichts.
@@ -476,6 +491,7 @@ exercises:
     type: matching
     title: "Aussage und Bedeutung verbinden"
     instructions: "Ordne jeder Modalverb-Aussage (1–6) die richtige Bedeutung (a–f) zu."
+    instructionsEn: "Match each modal-verb statement (1–6) with the correct meaning (a–f)."
     left:
       - { key: "1", text: "Er soll reich sein." }
       - { key: "2", text: "Er will reich sein." }
@@ -504,6 +520,7 @@ exercises:
     title: "Satzbau: subjektive Modalverben im Nebensatz und Hauptsatz"
     prompt: "Ordne die Wörter zu einem korrekten Satz. Achte auf die Verbstellung."
     instructions: "Ordne die Wörter zu einem korrekten Satz."
+    instructionsEn: "Put the words in order to form a correct sentence."
     items:
       - tiles: [das, könnte, ein, Missverständnis, sein]
         answer: [0, 1, 2, 3, 4]
@@ -524,6 +541,7 @@ exercises:
     listLayout: true
     title: "Vom Präteritum (objektiv) zum Infinitiv Perfekt (subjektiv)"
     instructions: "Achtung: Hier sollen Vermutungen entstehen, keine Pflichten/Absichten. Setz das Modalverb ins Präsens und bilde den Infinitiv Perfekt. 3 Sätze (je 2 Lücken)."
+    instructionsEn: "Note: the sentences should express assumptions, not obligations/intentions. Put the modal verb in the present tense and form the Infinitiv Perfekt. 3 sentences (2 gaps each)."
     text: |
       1. (objektiv) Er musste gehen. → (Vermutung) Er {1} schon {2} (gehen).
       2. (objektiv) Sie wollte das Buch lesen. → (Selbstbehauptung) Sie {3} das Buch {4} (lesen).
@@ -541,6 +559,7 @@ exercises:
     type: odd-one-out
     title: "Was passt nicht?"
     instructions: "Streich das Wort, das nicht in die Reihe passt, und erklär warum."
+    instructionsEn: "Cross out the word that does not fit in the row and explain why."
     groups:
       - items: [muss, dürfte, könnte, darf]
         odd: 3
@@ -591,6 +610,7 @@ exercises:
     listLayout: true
     title: "Lückentext: Die Kunst der vorsichtigen Vermutung"
     instructions: "Fülle jede Lücke mit einem Wort. 10 Items."
+    instructionsEn: "Fill each gap with one word. 10 items."
     text: |
       Gute Sprecher behaupten selten etwas mit absoluter Sicherheit. Sie sagen
       nicht „Der Plan ist gescheitert", sondern „Der Plan (1) {1} gescheitert
@@ -620,6 +640,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Bei dem Licht (1) ____ er zu Hause sein."
         options:
@@ -671,6 +692,7 @@ exercises:
     bankSort: true
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter werden nicht gebraucht."
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed."
     text: |
       Anna und Bruno betrachteten ein altes Foto. „Der Mann {1} reich
       gewesen sein", sagte Anna. „Anders {2} man sich die Villa nicht
@@ -708,6 +730,7 @@ exercises:
       > Im Alltag funktioniert dieselbe Logik. Wenn dein Kollege schon wieder fehlt, **muss** er nicht gleich krank sein — er **könnte** auch im Stau stecken. Wer vorschnell urteilt, liegt oft falsch. Wer dagegen seine Modalverben sorgfältig wählt, zeigt, dass er den Unterschied zwischen *Wissen* und *Vermuten* verstanden hat. Und genau das **dürfte** in jeder ernsthaften Diskussion mehr wert sein als die lauteste Behauptung.
 
       Richtig (R) oder falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Gute Sprecher behaupten meist alles mit absoluter Sicherheit."
         answer: false
@@ -739,6 +762,7 @@ exercises:
       > Film dreht.
 
       Wähle a, b oder c.
+    instructionsEn: "Read the text. Choose a, b, or c."
     items:
       - q: "Woher stammt die Information über die Trennung?"
         options:
@@ -802,7 +826,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items."
+    instructions: "Eine Minute pro Item. Keine Notizen. Items mit Lektionsangabe, z. B. (B1/07), wiederholen eine frühere Lektion. 15 Items."
+    instructionsEn: "One minute per item. No notes. Items marked with a lesson reference, e.g. (B1/07), review an earlier lesson. 15 items."
     text: |
       1. Vermutung „fast sicher": Er {1} reich sein.
       2. Vermutung „wahrscheinlich": Sie {2} schon da sein.
@@ -841,6 +866,7 @@ exercises:
     type: odd-one-out
     title: "Odd one out"
     instructions: "Streich das Wort, das nicht passt, und erklär warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [muss, dürfte, könnte, darf]
         odd: 3
@@ -867,6 +893,7 @@ exercises:
     listLayout: true
     title: "Rückblick: B1/07, B2/03, B2/04"
     instructions: "Wiederholung früherer Lektionen. 10 Items."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B1/07 (objektive Modalverben):**
       1. Pflicht: „Ich {1} (müssen) heute lange arbeiten."

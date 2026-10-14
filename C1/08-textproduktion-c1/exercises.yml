@@ -18,6 +18,7 @@ exercises:
     title: 'Dialog Hör-Check: Dialog A (Erörterung planen)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: 'Anna hat bereits eine klare, differenzierte These formuliert.'
         answer: true
@@ -45,6 +46,7 @@ exercises:
     audio: dialog1_b.mp3
     optionLayout: block
     instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: 'Welches Schema empfiehlt Yusuf für den Aufbau des Abstracts?'
         options:
@@ -81,6 +83,7 @@ exercises:
     title: 'Hörtext-Lückentext: Schreibwerkstatt Erörterung'
     audio: hoertext.mp3
     instructions: 'Hör den Hörtext und füll die 6 Lücken. Vier Wörter im Kasten sind zu viel.'
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Four words in the box are not needed."
     text: |
       Liebe Teilnehmerinnen und Teilnehmer, willkommen zur Schreibwerkstatt
       „Erörterung leicht gemacht". Heute geht es um drei {1}. Erstens:
@@ -107,6 +110,7 @@ exercises:
     audio: transcript_ansage1.mp3
     optionLayout: block
     instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    instructionsEn: "Listen to the answering-machine message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Schreibzentrums der Humboldt-Universität zu Berlin erreicht. Während der Vorlesungszeit bieten wir persönliche Sprechstunden zu wissenschaftlichem Schreiben dienstags von zehn bis sechzehn Uhr an. Für eine Online-Sprechstunde vereinbaren Sie bitte einen Termin per E-Mail unter schreibzentrum at hu-berlin.de. Bitte beachten Sie: Anmeldungen für den akademischen Schreibkurs „Erörterung und Abstract" sind bis spätestens 15. Juli möglich, spätere Anmeldungen können leider nicht berücksichtigt werden. Weitere Informationen finden Sie auf unserer Internetseite unter dem Menüpunkt Service. Vielen Dank für Ihren Anruf.'
     items:
       - q: 'Welche Einrichtung ist auf dem Anrufbeantworter zu hören?'
@@ -144,6 +148,7 @@ exercises:
     title: 'Tabelle ausfüllen: Dialog A (Argumente)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    instructionsEn: "Listen to Dialog A again and fill in the table. One piece of information is missing in each row."
     columns: ['Phase', 'These / Argument', 'Begründung', 'Stichwort']
     rows:
       - label: 'These'
@@ -179,6 +184,7 @@ exercises:
     title: 'Erörterung — welche Reihenfolge ist korrekt?'
     optionLayout: block
     instructions: 'Wähle die korrekte Reihenfolge der Bestandteile einer linearen Erörterung.'
+    instructionsEn: "Choose the correct order of the parts of a linear Erörterung (argumentative essay)."
     items:
       - q: 'Welche Reihenfolge gehört zu einer linearen Erörterung?'
         options:
@@ -222,6 +228,7 @@ exercises:
     listLayout: true
     title: 'Konnektorenpaare ergänzen'
     instructions: 'Setze das passende Pendant ein. 8 Lücken.'
+    instructionsEn: "Fill in the matching counterpart. 8 gaps."
     text: |
       1. Einerseits spricht für den KI-Einsatz, {1} {2} (Vorteil der Individualisierung).
       2. {3} birgt der Einsatz Risiken; {4} {5} für die Datensicherheit.
@@ -242,6 +249,7 @@ exercises:
     title: 'Zusammenfassung — linear oder selektiv?'
     optionLayout: block
     instructions: 'Wähle die korrekte Antwort (a, b oder c).'
+    instructionsEn: "Choose the correct answer (a, b, or c)."
     items:
       - q: 'Was ist der Unterschied zwischen linearer und selektiver Zusammenfassung?'
         options:
@@ -285,6 +293,7 @@ exercises:
     listLayout: true
     title: 'Stellungnahme: Bausteine einsetzen'
     instructions: 'Setze die passenden Redemittel ein (Position, Begründung, Gegenposition, Schluss). 5 Lücken.'
+    instructionsEn: "Fill in the appropriate Redemittel (position, justification, counter-position, conclusion). 5 gaps."
     text: |
       1. {1} nach sollte KI nicht verboten, sondern curricular eingebettet werden.
       2. Dies lässt sich vor allem {2} begründen, dass Verbote den reflektierten Umgang verhindern.
@@ -302,6 +311,7 @@ exercises:
     title: 'Abstract (IMRD) — welcher Baustein fehlt?'
     optionLayout: block
     instructions: 'Welcher IMRD-Baustein passt an der markierten Stelle?'
+    instructionsEn: "Which IMRD building block fits at the marked position?"
     items:
       - q: '„Vor dem Hintergrund der wachsenden Verbreitung von KI-Tools an Schulen …" — dies ist der Baustein …'
         options:
@@ -344,6 +354,7 @@ exercises:
     type: gap-bank
     title: 'Abstract: IMRD-Bausteine in der richtigen Reihenfolge'
     instructions: 'Füll die 5 Lücken mit den passenden Bausteinen aus dem Kasten. Sechs Wörter sind zu viel.'
+    instructionsEn: "Fill in the 5 gaps with the matching building blocks from the box. Six words are not needed."
     text: |
       1. Vor dem Hintergrund der wachsenden KI-Verbreitung {1} der Frage nachgegangen, ob
       KI den Unterricht ergänzen kann.
@@ -364,6 +375,7 @@ exercises:
     type: matching
     title: 'Kohärenzmittel — Funktion und Beispiel zuordnen'
     instructions: 'Ordne jedes Kohärenzmittel (1–5) dem passenden Beispiel (a–e) zu.'
+    instructionsEn: "Match each cohesion device (1–5) with the matching example (a–e)."
     left:
       - { key: '1', text: 'Konnektorenpaar (Pro/Contra)' }
       - { key: '2', text: 'Rückverweis (Demonstrativpronomen)' }
@@ -389,6 +401,7 @@ exercises:
     listLayout: true
     title: 'Kohärenz: Rückverweise und Themenführungen'
     instructions: 'Setze die passende Form ein (oben, Im Folgenden, bereits, Abschließend, Diese, Anschließend). 6 Lücken.'
+    instructionsEn: "Fill in the appropriate form (oben, Im Folgenden, bereits, Abschließend, Diese, Anschließend). 6 gaps."
     text: |
       1. Die {1} genannte Stichprobe umfasste 200 Personen.
       2. {2} wird die Methodik erläutert.
@@ -410,6 +423,7 @@ exercises:
     title: 'Häufige Fehler in der Textproduktion — Korrektur wählen'
     optionLayout: block
     instructions: 'Wähle die wissenschaftlich-register-adäquate Korrektur.'
+    instructionsEn: "Choose the correction that fits the academic register."
     items:
       - q: '„Ich finde, KI ist schlecht." — Korrektur:'
         options:
@@ -452,6 +466,7 @@ exercises:
     type: order
     title: 'Eine Erörterung in die richtige Reihenfolge bringen'
     instructions: 'Bring die folgenden Textteile in die sinnvolle Reihenfolge einer linearen Erörterung.'
+    instructionsEn: "Put the following text parts into the logical order of a linear Erörterung."
     items:
       - tiles:
           - 'Demnach lässt sich festhalten, dass die These nur bedingt aufrechterhalten werden kann.'
@@ -470,6 +485,7 @@ exercises:
     listLayout: true
     title: 'Konnektorenpaare in einer Erörterung'
     instructions: 'Setze die passenden Konnektoren ein (einerseits/andererseits, zwar/jedoch, nicht nur/sondern auch, sowohl/als auch). 8 Items.'
+    instructionsEn: "Fill in the appropriate connectors (einerseits/andererseits, zwar/jedoch, nicht nur/sondern auch, sowohl/als auch). 8 items."
     text: |
       1. {1} ermöglicht KI Individualisierung, {2} verstärkt sie Ungleichheit.
       2. {3} ist KI heute leistungsfähig, {4} halluziniert sie noch in vielen Fällen.
@@ -491,6 +507,7 @@ exercises:
     title: 'Zusammenfassung: Reduktionsstrategien anwenden'
     optionLayout: block
     instructions: 'Wähle die Zusammenfassung, die das Original am besten reduziert.'
+    instructionsEn: "Choose the summary that best condenses the original."
     items:
       - q: 'Original: „KI kann Vokabeln erklären, Texte zusammenfassen, Rechenwege vorrechnen und Prüfungsfragen generieren." — beste Zusammenfassung:'
         options:
@@ -533,6 +550,7 @@ exercises:
     type: matching
     title: 'Stellungnahme: Strukturbausteine zuordnen'
     instructions: 'Ordne jedem Baustein (1–5) das passende Beispiel (a–e) zu.'
+    instructionsEn: "Match each building block (1–5) with the matching example (a–e)."
     left:
       - { key: '1', text: 'Position' }
       - { key: '2', text: 'Begründung mit Beispiel' }
@@ -558,6 +576,7 @@ exercises:
     listLayout: true
     title: 'Abstract: Bausteine konkret formulieren'
     instructions: 'Setze die passenden Bausteine ein. 6 Items.'
+    instructionsEn: "Fill in the appropriate building blocks. 6 items."
     text: |
       1. {1} Hintergrund der wachsenden KI-Verbreitung {2} der Frage nachgegangen, ob KI den Unterricht ergänzen kann.
       2. {3} der vorliegenden Arbeit {4} es, zu untersuchen, inwiefern KI-Tutoren die Lernmotivation steigern.
@@ -576,6 +595,7 @@ exercises:
     title: 'Kohärenz im Text — welche Version ist kohärent?'
     optionLayout: block
     instructions: 'Wähle die kohärenteste Formulierung.'
+    instructionsEn: "Choose the most coherent wording."
     items:
       - q: 'Welche Version nutzt Themenführung und Rückverweis am besten?'
         options:
@@ -618,6 +638,7 @@ exercises:
     type: gap-bank
     title: 'Eine Erörterung kohärent ergänzen'
     instructions: 'Füll die 5 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel.'
+    instructionsEn: "Fill in the 5 gaps with words from the box. Five words are not needed."
     text: |
       Im Folgenden {1} die Frage untersucht, ob KI den Präsenzunterricht
       ersetzen sollte. {2} spricht für den KI-Einsatz, dass
@@ -639,6 +660,7 @@ exercises:
     listLayout: true
     title: 'C1/05-Werkzeuge integriert anwenden'
     instructions: 'Setze die passenden Werkzeuge aus C1/05 ein (Passiv, Hedging, Konjunktiv I). 6 Items.'
+    instructionsEn: "Fill in the appropriate tools from C1/05 (Passiv, hedging, Konjunktiv I). 6 items."
     text: |
       1. Im Abstract {1} die Frage untersucht, ob KI {2} Lernmotivation steigern {3}.
       2. Die Ergebnisse {4} darauf hin, dass ein Zusammenhang besteht.
@@ -709,6 +731,7 @@ exercises:
     listLayout: true
     title: 'Lückentext: Die vier Textsorten im Vergleich'
     instructions: 'Füll jede Lücke mit **einem** passenden Wort. 10 Items.'
+    instructionsEn: "Fill each gap with **one** suitable word. 10 items."
     text: |
       Die {1} prüft eine These an Pro- und Contra-Argumenten und kommt
       zu einer begründeten {2}. Die {3} reduziert einen Text,
@@ -736,6 +759,7 @@ exercises:
     title: 'Sprachbausteine Teil 1'
     optionLayout: block
     instructions: 'Wähle die passende Option (a, b oder c) für jede Lücke.'
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: 'Im Folgenden {1} die Frage untersucht, ob KI den Unterricht ergänzen kann.'
         options:
@@ -787,6 +811,7 @@ exercises:
     bankSort: true
     title: 'Sprachbausteine Teil 2 (Wortbank)'
     instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Drei Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    instructionsEn: "Fill in the 10 gaps with words from the box. Three words are not needed. Each word is used only once."
     text: |
       Aus einem Schreibratgeber: „Eine gelungene {1} verbindet
       Einleitung, These, Hauptteil und {2}. Im Hauptteil werden
@@ -815,6 +840,7 @@ exercises:
       > In den vergangenen zwei Jahren hat sich das Leseverhalten in Deutschland spürbar verändert. Einer Erhebung des Börsenvereins zufolge liest mehr als ein Drittel der 18- bis 29-Jährigen heute überwiegend digital, während gedruckte Bücher vor allem von Leser\*innen über 50 nachgefragt werden. Die Frage, ob das gedruckte Buch dadurch an Bedeutung verliere, wird in Feuilletons heiß diskutiert — und zwar nicht erst seit gestern. Die einen sehen eine emotionale Bindung an das Buch als gegeben an; die anderen betonen die praktischen Vorteile digitaler Angebote.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: 'Laut Text hat sich das Leseverhalten in Deutschland in den vergangenen zwei Jahren kaum verändert.'
         answer: false
@@ -840,6 +866,7 @@ exercises:
     instructions: |
       Lies den folgenden Text und wähle a, b oder c.
       > *„Das gedruckte Buch hat den Kindle nicht verdrängt — und der Kindle wird das Buch nicht verdrängen."* So lautet die These eines neuen Sammelbandes zur Zukunft des Lesens. Im Folgenden werden drei Blickwinkel miteinander versöhnt: ein kulturkonservativer, ein marktwirtschaftlicher und ein bildungswissenschaftlicher. Dem kulturkonservativen Beitrag zufolge ist das Buch mehr als ein Informationsträger; es sei ein kulturelles Artefakt, das durch seine Materialität eine eigene Würde erhält. Der marktwirtschaftliche Beitrag argumentiert, dass Verlage sowohl gedruckte als auch digitale Formate anbieten müssen, um beide Zielgruppen zu erreichen. Der bildungswissenschaftliche Beitrag schließlich betont, dass junge Leser\*innen zwar digitale Texte bevorzugen, aber für längere Lektüren weiterhin das gedruckte Buch wählen — eine Beobachtung, die in mehreren empirischen Studien Bestätigung findet.
+    instructionsEn: "Read the following text and choose a, b, or c."
     items:
       - q: 'Welche Hauptaussage trifft der Sammelband?'
         options:
@@ -904,6 +931,7 @@ exercises:
     listLayout: true
     title: 'Gemischter Schnelltest'
     instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (B2/..) oder (C1/..) wiederholen frühere Lektionen. 15 Items.'
+    instructionsEn: "One minute per item. No notes. Items marked (B2/..) or (C1/..) review earlier lessons. 15 items."
     text: |
       **Textsorten (C1/08):**
       1. Der These-Antithese-These-Aufbau gehört zur {1}.
@@ -952,6 +980,7 @@ exercises:
     type: odd-one-out
     title: 'Odd one out: Textsorten und Kohärenz'
     instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: ['Erörterung', 'Zusammenfassung', 'Stellungnahme', 'Partizipialattribut']
         odd: 3
@@ -978,6 +1007,7 @@ exercises:
     listLayout: true
     title: 'Rückblick: B2/05, B2/13, B2/04, C1/05, C1/08'
     instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B2/05 (Erörterung):**
       1. „Einerseits ist KI hilfreich, {1} birgt sie Risiken."

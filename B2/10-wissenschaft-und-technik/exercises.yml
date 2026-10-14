@@ -17,6 +17,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
     instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: "Die neue KI-Studie kommt laut Anna aus Heidelberg."
         answer: true
@@ -40,6 +41,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     optionLayout: block
     items:
       - q: "Womit beschäftigt sich die Studie von Herrn Dr. Steinmeyer?"
@@ -77,6 +79,7 @@ exercises:
     title: "Hörtext-Lückentext: Kurzinterview mit dem Forschungsleiter"
     audio: hoertext.mp3
     instructions: "Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel."
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Three words in the box are not needed."
     text: |
       Guten Tag, Herr Dr. Steinmeyer. Sie sind Forschungsleiter am Institut für
       Digitalisierung. Können Sie uns kurz erklären, wie Ihre neue {1} durchgeführt
@@ -101,6 +104,7 @@ exercises:
     title: "Kurze Ansage: Durchsage im Forschungskongress"
     audio: transcript_ansage1.mp3
     instructions: "Hör die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     optionLayout: block
     transcript: 'Achtung, eine Durchsage. Hier spricht die Kongressleitung. Wir möchten Sie darauf hinweisen, dass der Vortrag von Frau Professor Berger zum Thema „Anwendung von KI in der Krebsforschung" von Raum 201 in den größeren Hörsaal 304 verlegt wurde. Die Veröffentlichung der Kongressbeiträge wird heute Nachmittag um 15 Uhr Open Access zur Verfügung gestellt. Bitte beachten Sie, dass die Teilnehmerzahl begrenzt ist und eine Anmeldung erforderlich bleibt. Bei Rückfragen wenden Sie sich bitte an das Informationsbüro im Erdgeschoss. Vielen Dank für Ihre Aufmerksamkeit.'
     items:
@@ -141,6 +145,7 @@ exercises:
     listLayout: true
     title: "Passiv Präsens: Verb → Passiv"
     instructions: "Schreib den Satz im Passiv Präsens (werden + Partizip II). 8 Items."
+    instructionsEn: "Write the sentence in the Passiv Präsens (werden + Partizip II). 8 items."
     text: |
       1. Jemand führt die Studie durch. → Die Studie {1} durchgeführt.
       2. Man erhebt die Daten. → Die Daten {2} erhoben.
@@ -166,6 +171,7 @@ exercises:
     listLayout: true
     title: "Passiv Präteritum: Verb → Passiv"
     instructions: "Schreib den Satz im Passiv Präteritum (wurde/wurden + Partizip II). 8 Items."
+    instructionsEn: "Write the sentence in the Passiv Präteritum (wurde/wurden + Partizip II). 8 items."
     text: |
       1. Jemand führte die Studie durch. → Die Studie {1} durchgeführt.
       2. Man erhob die Daten. → Die Daten {2} erhoben.
@@ -191,6 +197,7 @@ exercises:
     listLayout: true
     title: "Passiv Perfekt: Verb → Passiv"
     instructions: "Schreib den Satz im Passiv Perfekt (ist/sind + Partizip II + worden). 8 Items."
+    instructionsEn: "Write the sentence in the Passiv Perfekt (ist/sind + Partizip II + worden). 8 items."
     text: |
       1. Jemand hat die Studie durchgeführt. → Die Studie {1} durchgeführt worden.
       2. Man hat die Daten erhoben. → Die Daten {2} erhoben worden.
@@ -215,6 +222,7 @@ exercises:
     type: single-choice
     title: "Welche Zeitform passt?"
     instructions: "Wähle die passende Passivform (a, b oder c)."
+    instructionsEn: "Choose the appropriate passive form (a, b, or c)."
     items:
       - q: "Die Studie ____ gerade durchgeführt."
         options:
@@ -265,6 +273,7 @@ exercises:
     listLayout: true
     title: "Verb → Nomen"
     instructions: "Schreib das passende Nomen (mit Artikel) zum Verb. 8 Items."
+    instructionsEn: "Write the matching noun (with article) for the verb. 8 items."
     text: |
       1. veröffentlichen → die {1}
       2. durchführen → die {2}
@@ -290,6 +299,7 @@ exercises:
     listLayout: true
     title: "Nominalstil mit Genitiv"
     instructions: "Ergänze das fehlende Nomen + Genitivattribut. ⚠️ Genitiv! 6 Items."
+    instructionsEn: "Fill in the missing noun + Genitivattribut. ⚠️ Genitiv! 6 items."
     text: |
       1. Die {1} (die Studie) wurde beschrieben.
       2. Die {2} (die Daten) dauerte ein Jahr.
@@ -310,6 +320,7 @@ exercises:
     type: gap-bank
     title: "Verb → Nomen → Passiv"
     instructions: "Füll die 6 Lücken mit der passenden Passivform. Zwei Wörter sind zu viel."
+    instructionsEn: "Fill in the 6 gaps with the appropriate passive form. Two words are not needed."
     text: |
       Die Studie (1) {1} von einem Heidelberger Team durchgeführt. Die Daten (2) {2}
       an über 10 000 Nutzern erhoben. Die Hypothese (3) {3} durch die Ergebnisse
@@ -330,6 +341,7 @@ exercises:
     type: matching
     title: "Verb und Nominalisierung verbinden"
     instructions: "Ordne jedem Verb (1–6) die passende Nominalisierung (a–f) zu."
+    instructionsEn: "Match each verb (1–6) with the appropriate nominalisation (a–f)."
     left:
       - { key: "1", text: "veröffentlichen" }
       - { key: "2", text: "durchführen" }
@@ -358,6 +370,7 @@ exercises:
     listLayout: true
     title: "von oder durch?"
     instructions: "Setze von oder durch ein. ⚠️ Personen/Institutionen → von + Dat.; Mittel/Ursachen → durch + Akk. 8 Items."
+    instructionsEn: "Fill in von or durch. ⚠️ People/institutions → von + Dat.; means/causes → durch + Akk. 8 items."
     text: |
       1. Die Studie wurde {1} einem Team durchgeführt.
       2. Die Daten wurden {2} ein automatisiertes Verfahren erhoben.
@@ -383,6 +396,7 @@ exercises:
     listLayout: true
     title: "FVG im Satz (Wissenschaft)"
     instructions: "Setze das passende Funktionsverb ein (Infinitiv): durchführen, machen, stellen, gewinnen, erbringen, ziehen. 6 Items."
+    instructionsEn: "Fill in the appropriate Funktionsverb (infinitive): durchführen, machen, stellen, gewinnen, erbringen, ziehen. 6 items."
     text: |
       1. eine Studie {1} (nicht: machen)
       2. einen Versuch {2}
@@ -403,6 +417,7 @@ exercises:
     type: order
     title: "Satzbau: Passiv im Hauptsatz"
     instructions: "Bring die Wörter in die richtige Reihenfolge. Im Passiv-Satz steht die finite Verbform (wurden/wurde) in Position 2."
+    instructionsEn: "Put the words in the correct order. In the passive sentence, the finite verb (wurden/wurde) is in position 2."
     items:
       - tiles: [Die, Daten, wurden, über, ein, Jahr, hinweg, erhoben]
         answer: [0, 1, 2, 3, 4, 5, 6, 7]
@@ -484,6 +499,7 @@ exercises:
     type: single-choice
     title: "FVG der Wissenschaft"
     instructions: "Wähle das richtige feste Funktionsverb (a, b oder c). ⚠️ Nicht alles, was im Englischen mit „make“ geht, geht im Deutschen mit „machen“."
+    instructionsEn: "Choose the correct fixed Funktionsverb (a, b, or c). ⚠️ Not everything that works with “make” in English works with „machen“ in German."
     items:
       - q: "eine Studie …"
         options:
@@ -533,6 +549,7 @@ exercises:
     type: gap-bank
     title: "Pressemitteilung ergänzen: Passiv und FVG"
     instructions: "Füll die 8 Lücken mit dem passenden Wort (finite Verbform oder Partizip II). Zwei Wörter sind zu viel."
+    instructionsEn: "Fill in the 8 gaps with the appropriate word (finite verb form or Partizip II). Two words are not needed."
     text: |
       Pressemitteilung des Forschungsteams Heidelberg: Im Mai (1) {1} eine große
       Studie (2) {2}. Die Daten (3) {3} über ein Jahr hinweg an 5 000 Probanden
@@ -557,6 +574,7 @@ exercises:
     listLayout: true
     title: "Passiv Perfekt oder Präteritum?"
     instructions: "Setze die richtige Form ein (Perfekt oder Präteritum Passiv). 6 Items."
+    instructionsEn: "Fill in the correct form (Perfekt or Präteritum Passiv). 6 items."
     text: |
       1. Die Studie {1} (Präteritum) im Mai durchgeführt.
       2. Die Ergebnisse {2} (Perfekt) in *Nature* veröffentlicht worden.
@@ -577,6 +595,7 @@ exercises:
     type: odd-one-out
     title: "Wortschatz: Was passt nicht?"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [die Studie, der Versuch, die Hypothese, das Passiv]
         odd: 3
@@ -602,6 +621,7 @@ exercises:
     type: matching
     title: "Aktiv und Passiv + Nominalstil zuordnen"
     instructions: "Ordne jedem Aktivsatz (1–6) die passende Nominal-Passiv-Variante (a–f) zu."
+    instructionsEn: "Match each active sentence (1–6) with the appropriate nominal-passive version (a–f)."
     left:
       - { key: "1", text: "Man hat die Studie durchgeführt." }
       - { key: "2", text: "Man hat die Daten erhoben." }
@@ -663,6 +683,7 @@ exercises:
     listLayout: true
     title: "Lückentext: Wie ein Forschungsartikel entsteht (Lesetext)"
     instructions: "Füll jede Lücke mit einem Wort (Verb, Nomen oder Präposition). 10 Items."
+    instructionsEn: "Fill each gap with one word (verb, noun, or preposition). 10 items."
     text: |
       Ein Forschungsartikel durchläuft einen strengen Prozess. Am Anfang steht eine
       Fragestellung: Was soll (1) {1} werden? Aus dieser Frage wird eine Hypothese
@@ -695,6 +716,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Die Studie ____ über ein Jahr hinweg durchgeführt."
         options:
@@ -753,6 +775,7 @@ exercises:
     bankSort: true
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Aus einer Pressemitteilung: Die neue Studie {1} im Mai vom Institut für
       Digitalisierung {2}. Die Daten {3} über ein halbes Jahr hinweg an 200
@@ -782,6 +805,7 @@ exercises:
       > Erst nach der Begutachtung und der Annahme des Manuskripts wird die Studie offiziell veröffentlicht. In vielen Fachbereichen werden die Daten zusätzlich **Open Access** zur Verfügung gestellt, damit andere Forscher die Ergebnisse überprüfen und darauf aufbauen können. Die Begutachtung endet allerdings nicht mit der Veröffentlichung: Auch nach der Publikation werden die Methodik und die Ergebnisse in der Fachwelt weiterhin **diskutiert**. Eine Hypothese gilt erst dann als gesichert, wenn sie durch **mehrere unabhängige Studien** bestätigt wurde. Eine einzelne Studie — so wichtig sie auch sein mag — **beweist noch nichts**.
 
       Richtig (R) oder falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Am Anfang eines Forschungsartikels steht eine Hypothese."
         answer: false
@@ -816,6 +840,7 @@ exercises:
       > Ergebnisse zu erzielen. Die Veröffentlichung der Resultate ist in einem
       > Open-Access-Fachjournal vorgesehen. Der Antrag wurde mit drei Stimmen
       > dafür und zwei dagegen angenommen.
+    instructionsEn: "Read the following statement and choose a, b, or c."
     items:
       - q: "Was wurde in der Sitzung geprüft?"
         options:
@@ -884,6 +909,7 @@ exercises:
     listLayout: true
     title: "Gemischter Schnelltest"
     instructions: "Eine Minute pro Item. Keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 15 Items."
+    instructionsEn: "One minute per item. No notes. Items marked (B2/xx) or (B1/xx) review an earlier lesson. 15 items."
     text: |
       **Passiv in Fachtexten:**
       1. Die Studie {1} (Präsens) gerade durchgeführt.
@@ -931,6 +957,7 @@ exercises:
     type: odd-one-out
     title: "Odd one out"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [die Studie, der Versuch, die Hypothese, das Passiv]
         odd: 3
@@ -957,6 +984,7 @@ exercises:
     listLayout: true
     title: "Rückblick: B2/01, B2/02, B2/08"
     instructions: "Wiederholung früherer Lektionen. 10 Items."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B2/01 (Nominalstil und Verbalstil):**
       1. Nominalisierung von „verbessern" (mit Artikel): {1}

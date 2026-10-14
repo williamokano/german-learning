@@ -17,6 +17,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
     instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: "Bruno und seine Begleitung sind ins Konzert gekommen."
         answer: false
@@ -40,6 +41,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: "Worüber sprechen Frau Yilmaz und Frau Kowalski?"
         options:
@@ -76,6 +78,7 @@ exercises:
     title: "Hörtext-Lückentext"
     audio: hoertext.mp3
     instructions: "Hör den Hörtext und fülle die 7 Lücken. **Drei Wörter werden nicht gebraucht.**"
+    instructionsEn: "Listen to the Hörtext and fill in the 7 gaps. **Three words are not needed.**"
     text: |
       Hey Bruno, ich bin's, Anna. Du, ich muss dir was erzählen — ich ärgere mich
       gerade so über mich selbst. Ich {1} heute fast meinen Traumjob bekommen,
@@ -101,6 +104,7 @@ exercises:
     audio: transcript_ansage1.mp3
     optionLayout: block
     instructions: "Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Hallo, hier ist die Mailbox von Tom. Mensch, Anna, ich ärgere mich so! Ich hätte dich gestern unbedingt zurückrufen sollen, aber ich habe es total vergessen. Wenn ich gewusst hätte, dass dein Vorstellungsgespräch heute war, hätte ich dir natürlich vorher noch viel Glück gewünscht. Beinahe hätte ich es sogar in den Kalender eingetragen — aber eben nur beinahe. Es tut mir wirklich leid. Bitte ruf mich zurück, dann erzählst du mir alles. Bis gleich!'
     items:
       - q: "Warum entschuldigt sich Tom?"
@@ -132,6 +136,7 @@ exercises:
     type: table-fill
     title: "Konjunktiv II der Vergangenheit: hätte / wäre"
     instructions: "Ergänze die Formen von hätte (machen) und wäre (kommen). 12 Lücken."
+    instructionsEn: "Fill in the forms of hätte (machen) and wäre (kommen). 12 gaps."
     columns: ["mit haben: … gemacht", "mit sein: … gekommen"]
     rows:
       - label: "ich"
@@ -153,6 +158,7 @@ exercises:
     listLayout: true
     title: "hätte oder wäre? (Hilfsverb wählen)"
     instructions: "Ergänze das richtige Hilfsverb im Konjunktiv II (hätte/hättest/… oder wäre/wärst/…). 8 Lücken."
+    instructionsEn: "Fill in the correct auxiliary in Konjunktiv II (hätte/hättest/… or wäre/wärst/…). 8 gaps."
     text: |
       1. Ich {1} den Brief fast vergessen. (vergessen)
       2. Du {2} pünktlich gekommen. (kommen)
@@ -178,6 +184,7 @@ exercises:
     listLayout: true
     title: "Vom Perfekt zum Konjunktiv II der Vergangenheit"
     instructions: "Schreib die Form um: Perfekt → Konjunktiv II der Vergangenheit (z. B. ich habe gemacht → ich hätte gemacht). 6 Lücken."
+    instructionsEn: "Rewrite the form: Perfekt → Konjunktiv II der Vergangenheit (e.g. ich habe gemacht → ich hätte gemacht). 6 gaps."
     text: |
       1. Ich habe gelernt. → Ich {1} gelernt.
       2. Wir sind gegangen. → Wir {2} gegangen.
@@ -199,6 +206,7 @@ exercises:
     listLayout: true
     title: "Irreale Bedingungssätze der Vergangenheit"
     instructions: "Ergänze die Verbformen im Konjunktiv II der Vergangenheit. 8 Lücken."
+    instructionsEn: "Fill in the verb forms in Konjunktiv II der Vergangenheit. 8 gaps."
     text: |
       1. Wenn ich früher {1} (aufstehen), {2} ich den Zug erreicht.
       2. Wenn Bruno die Tickets {3} (kaufen), {4} sie ins Konzert gekommen.
@@ -220,6 +228,7 @@ exercises:
     listLayout: true
     title: "Doppelinfinitiv: hätte … + Vollverb + Modalverb"
     instructions: "Ergänze den Doppelinfinitiv (z. B. anrufen sollen). 6 Lücken."
+    instructionsEn: "Fill in the Doppelinfinitiv (e.g. anrufen sollen). 6 gaps."
     text: |
       1. Du hättest früher {1} (buchen + sollen).
       2. Ich hätte das einfach {2} (machen + können).
@@ -240,6 +249,7 @@ exercises:
     type: single-choice
     title: "als ob / als — Wortstellung erkennen"
     instructions: "Wähle die richtige Form (a, b oder c)."
+    instructionsEn: "Choose the correct form (a, b, or c)."
     items:
       - q: "Er tat, als ob er nichts ____."
         options:
@@ -269,6 +279,7 @@ exercises:
     listLayout: true
     title: "als ob: Verb ans Ende"
     instructions: "Ergänze das Verb im Konjunktiv II der Vergangenheit am Satzende. 6 Lücken."
+    instructionsEn: "Fill in the verb in Konjunktiv II der Vergangenheit at the end of the sentence. 6 gaps."
     text: |
       1. Mia tat, als ob sie nichts {1} (wissen).
       2. Du redest, als ob du alles besser {2} (wissen).
@@ -330,6 +341,7 @@ exercises:
     listLayout: true
     title: "wäre oder hätte beim Doppelinfinitiv?"
     instructions: "⚠️ Beim Modalverb immer hätte! Ergänze die richtige Form. 6 Lücken."
+    instructionsEn: "⚠️ With a modal verb, always hätte! Fill in the correct form. 6 gaps."
     text: |
       1. Ich {1} früher gehen können. (können)
       2. Du {2} mir das sagen sollen. (sollen)
@@ -370,6 +382,7 @@ exercises:
     type: gap-bank
     title: "Dialog ergänzen: Das verpasste Konzert"
     instructions: "Fülle die 10 Lücken mit der richtigen Form. **Zwei Wörter werden nicht gebraucht.**"
+    instructionsEn: "Fill in the 10 gaps with the correct form. **Two words are not needed.**"
     text: |
       — Mensch, hätte ich bloß früher {1}! Dann {2} wir jetzt im Konzert.
       — Du {3} wirklich früher buchen {4}. Ich habe es dir gesagt.
@@ -418,6 +431,7 @@ exercises:
     type: matching
     title: "Vorwurf und Reaktion verbinden"
     instructions: "Verbinde jeden Vorwurf (1–6) mit der passenden Reaktion (a–f)."
+    instructionsEn: "Match each reproach (1–6) with the appropriate response (a–f)."
     left:
       - { key: "1", text: "Du hättest mir Bescheid sagen sollen!" }
       - { key: "2", text: "Wir hätten den Kunden früher informieren müssen." }
@@ -498,6 +512,7 @@ exercises:
     listLayout: true
     title: "Doppelinfinitiv im Nebensatz"
     instructions: "⚠️ Im Nebensatz steht hätte VOR dem Doppelinfinitiv. Ergänze die Wörter in der richtigen Reihenfolge. 5 Lücken."
+    instructionsEn: "⚠️ In a subordinate clause, hätte comes BEFORE the Doppelinfinitiv. Fill in the words in the correct order. 5 gaps."
     text: |
       1. Anna weiß, dass sie das Team früher {1} (hätte + bitten + sollen).
       2. Es ärgert mich, dass ich nicht früher {2} (hätte + gehen + können).
@@ -516,6 +531,7 @@ exercises:
     type: odd-one-out
     title: "Wortschatz: Was passt nicht?"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [Bedauern, Reue, Vorwurf, Freude]
         odd: 3
@@ -563,6 +579,7 @@ exercises:
     listLayout: true
     title: "Lückentext: Der Brief, den ich nie geschrieben habe"
     instructions: "Fülle jede Lücke mit einem Wort. 10 Lücken."
+    instructionsEn: "Fill each gap with one word. 10 gaps."
     text: |
       Letzte Woche habe ich einen alten Briefumschlag gefunden — nie abgeschickt.
       Mein Großvater ist im selben Jahr gestorben. {1} ich den Brief einfach
@@ -589,6 +606,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Wenn ich das gewusst hätte, (1) ____ ich anders reagiert."
         options:
@@ -640,6 +658,7 @@ exercises:
     bankCase: upper
     bankSort: true
     instructions: "Fülle die 10 Lücken mit Wörtern aus dem Kasten. **Fünf Wörter werden nicht gebraucht.** Jedes Wort passt nur einmal."
+    instructionsEn: "Fill in the 10 gaps with words from the box. **Five words are not needed.** Each word fits only once."
     text: |
       Anna erzählt von ihrem Vorstellungsgespräch: „Ich {1} heute fast den
       Traumjob bekommen. Wenn ich selbstbewusster {2} {3}, {4} ich ihn
@@ -671,6 +690,7 @@ exercises:
       > Den alten Brief habe ich behalten. Ich werde ihn nicht abschicken können, das weiß ich. Aber er erinnert mich jeden Tag daran: Manche Gelegenheiten kommen nur einmal. Hätte ich das damals begriffen, hätte ich anders gehandelt. Heute versuche ich, nichts Wichtiges mehr aufzuschieben.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Bruno hat den Brief damals abgeschickt."
         answer: false
@@ -702,6 +722,7 @@ exercises:
       > war der späte Weg genau der richtige für mich."
 
       Wähle a, b oder c.
+    instructionsEn: "Read the text. Choose a, b, or c."
     items:
       - q: "Warum sagte Marie vor zehn Jahren ab?"
         options:
@@ -765,7 +786,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Lücken."
+    instructions: "Eine Minute pro Item. Keine Notizen. Items mit Lektionsangabe, z. B. (B1/03), wiederholen eine frühere Lektion. 15 Lücken."
+    instructionsEn: "One minute per item. No notes. Items marked with a lesson code, e.g. (B1/03), review an earlier lesson. 15 gaps."
     text: |
       1. Konjunktiv II Vergangenheit von „machen", ich-Form: {1} {2}
       2. Konjunktiv II Vergangenheit von „gehen", ich-Form: {3} {4}
@@ -800,6 +822,7 @@ exercises:
     type: odd-one-out
     title: "Odd one out"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [Bedauern, Reue, Vorwurf, Freude]
         odd: 3
@@ -826,6 +849,7 @@ exercises:
     listLayout: true
     title: "Rückblick: B1/03, B1/01, A2/01"
     instructions: "Wiederholung früherer Lektionen. 10 Lücken."
+    instructionsEn: "Review of earlier lessons. 10 gaps."
     text: |
       **Aus B1/03 (Konjunktiv II der Gegenwart):**
       1. Wenn ich Zeit {1} (haben — Konj. II), würde ich reisen.

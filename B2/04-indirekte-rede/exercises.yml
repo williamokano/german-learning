@@ -17,6 +17,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
     instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: "Anna berichtet von einem Streik bei der Bahn."
         answer: true
@@ -40,6 +41,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: 'Was kritisiert Frau Yilmaz an dem Satz „Die Ministerin senkt die Steuern“?'
         options:
@@ -76,6 +78,7 @@ exercises:
     title: "Hörtext-Lückentext: Die Nachrichten um zwölf"
     audio: hoertext.mp3
     instructions: "Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten bleiben übrig."
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Three words in the box are left over."
     text: |
       Hier sind die Nachrichten. Die Gewerkschaft hat einen Warnstreik angekündigt.
       Ein Sprecher erklärte, die Löhne {1} zu niedrig und die Mitarbeiter
@@ -98,6 +101,7 @@ exercises:
     title: "Kurze Ansage: Nachricht auf dem Anrufbeantworter"
     audio: transcript_ansage1.mp3
     instructions: "Hör die Nachricht. Dann wähle die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Hallo Bruno, hier ist Anna. Ich rufe wegen Donnerstag an. Du hast doch gesagt, du müssest zum Flughafen. Im Radio haben sie gerade gemeldet, der Warnstreik finde wirklich statt — die Sprecherin sagte, kein Zug fahre vor achtzehn Uhr. Ich würde dir raten, du solltest ein Taxi nehmen oder früher losfahren. Ruf mich bitte zurück, wenn du das hörst. Tschüss!'
     items:
       - q: "Warum ruft Anna an?"
@@ -129,6 +133,7 @@ exercises:
     type: table-fill
     title: "Konjunktiv I: Formen der 3. Person Singular"
     instructions: "Trag die Konjunktiv-I-Form der 3. Person Singular (er/sie/es) ein."
+    instructionsEn: "Fill in the Konjunktiv I form for the 3rd person singular (er/sie/es)."
     columns: ["Infinitiv", "Konjunktiv I (er/sie/es)"]
     rows:
       - label: "haben"
@@ -153,6 +158,7 @@ exercises:
     type: table-fill
     title: "Konjunktiv I von sein — alle Personen"
     instructions: "Trag die Konjunktiv-I-Formen von sein ein."
+    instructionsEn: "Fill in the Konjunktiv I forms of sein."
     columns: ["ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie"]
     rows:
       - label: "sein"
@@ -167,6 +173,7 @@ exercises:
     listLayout: true
     title: "Indirekte Rede: 3. Person Singular Konjunktiv I"
     instructions: "Setz das Verb in Klammern in den Konjunktiv I (3. Person Singular). 8 Items."
+    instructionsEn: "Put the verb in brackets into Konjunktiv I (3rd person singular). 8 items."
     text: |
       1. Er sagt, er {1} keine Zeit. (haben)
       2. Sie betont, sie {2} unschuldig. (sein)
@@ -192,6 +199,7 @@ exercises:
     listLayout: true
     title: "Ausweichen auf Konjunktiv II (Plural)"
     instructions: "Im Plural ist der Konjunktiv I oft gleich dem Indikativ. Setz die richtige Konjunktiv-II-Form ein. 6 Items."
+    instructionsEn: "In the plural, Konjunktiv I is often identical to the indicative. Fill in the correct Konjunktiv II form. 6 items."
     text: |
       1. Sie sagen, sie {1} (haben) großes Interesse.
       2. Er meint, die Mitarbeiter {2} (können) so nicht weitermachen.
@@ -212,6 +220,7 @@ exercises:
     type: single-choice
     title: "Konjunktiv I oder Konjunktiv II?"
     instructions: "Wähle die korrekte Form der indirekten Rede (a, b oder c)."
+    instructionsEn: "Choose the correct form of indirect speech (a, b, or c)."
     items:
       - q: "Er sagt, die Firma ____ Gewinn. (machen)"
         options:
@@ -262,6 +271,7 @@ exercises:
     listLayout: true
     title: "Konjunktiv I der Vergangenheit"
     instructions: "Bilde die berichtete Vergangenheit mit habe/sei + Partizip II (im Plural hätten/seien). 6 Items."
+    instructionsEn: "Form reported past with habe/sei + Partizip II (in the plural hätten/seien). 6 items."
     text: |
       1. „Ich habe nichts gewusst." → Er sagt, er {1} nichts gewusst.
       2. „Ich bin pünktlich gekommen." → Sie sagt, sie {2} pünktlich gekommen.
@@ -283,6 +293,7 @@ exercises:
     listLayout: true
     title: "Indirekte Fragen: ob und W-Wort"
     instructions: "Setz das fehlende Einleitewort (ob / wann / warum / wie) und achte auf die Verbstellung. 5 Items."
+    instructionsEn: "Fill in the missing introductory word (ob / wann / warum / wie) and pay attention to the verb position. 5 items."
     text: |
       1. „Stimmt das Gerücht?" → Er wollte wissen, {1} das Gerücht stimme.
       2. „Wann beginnt der Streik?" → Sie fragte, {2} der Streik beginne.
@@ -302,6 +313,7 @@ exercises:
     listLayout: true
     title: "Aufforderungen mit sollen"
     instructions: "Gib die Aufforderung in der indirekten Rede mit sollen wieder. 5 Items."
+    instructionsEn: "Report the request in indirect speech using sollen. 5 items."
     text: |
       1. „Bleiben Sie sachlich!" → Sie sagte, man {1} sachlich bleiben.
       2. „Reich die Unterlagen ein!" → Er sagte mir, ich {2} die Unterlagen einreichen.
@@ -341,6 +353,7 @@ exercises:
     listLayout: true
     title: "Verben des Sagens + Konjunktiv I"
     instructions: "Setz das Einleitungsverb (Präteritum) und den Konjunktiv I richtig zusammen. 3 Items, 6 Lücken."
+    instructionsEn: "Combine the reporting verb (Präteritum) and the Konjunktiv I correctly. 3 items, 6 gaps."
     text: |
       1. Er {1} (behaupten), er {2} (haben) nichts getan.
       2. Sie {3} (betonen), sie {4} (sein) zu Gesprächen bereit.
@@ -398,6 +411,7 @@ exercises:
     type: matching
     title: "Direkte und indirekte Rede verbinden"
     instructions: "Ordne jede direkte Aussage (1–6) ihrer korrekten indirekten Form (a–f) zu."
+    instructionsEn: "Match each direct statement (1–6) with its correct indirect form (a–f)."
     left:
       - { key: "1", text: "„Ich bin krank.“" }
       - { key: "2", text: "„Ich habe keine Zeit.“" }
@@ -439,6 +453,7 @@ exercises:
     type: gap-bank
     title: "Lückendialog: Anna referiert die Nachrichten"
     instructions: "Füll die 8 Lücken mit der richtigen Form der indirekten Rede. Drei Wörter bleiben übrig."
+    instructionsEn: "Fill in the 8 gaps with the correct form of indirect speech. Three words are left over."
     text: |
       — Was haben sie in den Nachrichten gesagt?
       — Die Sprecherin sagte, die Gewerkschaft {1} einen Streik angekündigt.
@@ -481,6 +496,7 @@ exercises:
     type: categorize
     title: "Konjunktiv I oder Ausweichen auf Konjunktiv II?"
     instructions: "Ordne jede Form ein: bleibt sie im Konjunktiv I (eindeutig) oder muss man auf Konjunktiv II ausweichen (Plural / Formgleichheit)?"
+    instructionsEn: "Sort each form: does it stay in Konjunktiv I (unambiguous), or do you have to switch to Konjunktiv II (plural / identical forms)?"
     buckets:
       - { key: ki, label: "Konjunktiv I (eindeutig)" }
       - { key: kii, label: "Ausweichen → Konjunktiv II" }
@@ -499,6 +515,7 @@ exercises:
     type: odd-one-out
     title: "Wortschatz: Was passt nicht?"
     instructions: "Streich das Wort, das nicht passt, und begründe kurz."
+    instructionsEn: "Cross out the word that does not fit and briefly explain why."
     groups:
       - items: [behaupten, betonen, mitteilen, streichen]
         odd: 3
@@ -549,6 +566,7 @@ exercises:
     listLayout: true
     title: "Lückentext: Eine Meldung in indirekter Rede"
     instructions: "Füll jede Lücke mit der richtigen Form der indirekten Rede (Konjunktiv I oder, im Plural, Konjunktiv II). 10 Items."
+    instructionsEn: "Fill each gap with the correct form of indirect speech (Konjunktiv I or, in the plural, Konjunktiv II). 10 items."
     text: |
       Der Pressesprecher der Bahn erklärte gestern, das Unternehmen (1) {1} ein
       faires Angebot gemacht. Die Löhne (2) {2} bereits gestiegen, und man (3) {3}
@@ -576,6 +594,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle für jede Lücke die richtige Option (a, b oder c)."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Der Minister erklärte, er (1) ____ das Problem. (kennen)"
         options:
@@ -627,6 +646,7 @@ exercises:
     bankCase: upper
     bankSort: true
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter bleiben übrig. Jedes Wort passt nur einmal."
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are left over. Each word fits only once."
     text: |
       Auf der Pressekonferenz erklärte die Ministerin, sie {1} die Steuern
       senken. Die Wirtschaft {2} sich erholt, und das Land {3} auf einem
@@ -659,6 +679,7 @@ exercises:
       > Genau deshalb achten Journalisten so genau auf die Form. Sieht der Konjunktiv I wie der Indikativ aus — „die Abgeordneten **fordern**" —, weichen sie auf den Konjunktiv II aus: „die Abgeordneten **forderten**". Eine Aufforderung geben sie mit *sollen* wieder, eine Frage mit *ob*. Das wirkt für Lernende kompliziert, erfüllt aber eine klare Funktion: Der Leser soll jederzeit erkennen können, **wer** etwas behauptet — und ob die Redaktion selbst dahintersteht oder nur weitergibt, was gesagt wurde. Im **umstrittenen** Fall ist dieser kleine Unterschied alles.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Der Konjunktiv I in den Nachrichten ist laut Text nur eine altmodische Marotte."
         answer: false
@@ -690,6 +711,7 @@ exercises:
       > lägen bei zwei Millionen Euro. Auch das war falsch: Laut dem Sprecher seien
       > die Kosten noch gar nicht berechnet. Wir bitten, den Fehler zu entschuldigen,
       > und betonen, dass wir künftig sorgfältiger berichten wollen.
+    instructionsEn: "Read the following text and choose a, b, or c."
     items:
       - q: "Was wurde in der gestrigen Ausgabe falsch berichtet?"
         options:
@@ -755,6 +777,7 @@ exercises:
     listLayout: true
     title: "Gemischter Schnelltest"
     instructions: "Eine Minute pro Item, keine Notizen. Items mit (B1/xx) bzw. (B2/xx) wiederholen frühere Lektionen. 15 Items."
+    instructionsEn: "One minute per item, no notes. Items marked (B1/xx) or (B2/xx) review earlier lessons. 15 items."
     text: |
       1. Konjunktiv I von haben, 3. Sg.: {1}
       2. Konjunktiv I von sein, 3. Sg.: {2}
@@ -792,6 +815,7 @@ exercises:
     type: odd-one-out
     title: "Odd one out"
     instructions: "Streich das Wort, das nicht passt, und begründe kurz. 6 Gruppen."
+    instructionsEn: "Cross out the word that does not fit and briefly explain why. 6 groups."
     groups:
       - items: [habe, sei, werde, hatte]
         odd: 3
@@ -818,6 +842,7 @@ exercises:
     listLayout: true
     title: "Rückblick: B1/09, B1/03, B2/03"
     instructions: "Wiederholung früherer Lektionen. 10 Items."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B1/09 (indirekte Fragen, Höflichkeit):**
       1. „Ist der Termin frei?" → Ich möchte wissen, {1} der Termin frei {2}.

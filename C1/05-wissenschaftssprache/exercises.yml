@@ -17,6 +17,7 @@ exercises:
     title: 'Dialog Hör-Check: Dialog A (Hausarbeit)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: 'Annas Professor findet, ihr Abstract klinge zu wissenschaftlich.'
         answer: false
@@ -41,6 +42,7 @@ exercises:
     audio: dialog1_b.mp3
     optionLayout: block
     instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: 'Was kritisiert Yusuf zuerst an Frau Webers Entwurf?'
         options:
@@ -77,6 +79,7 @@ exercises:
     title: 'Hörtext-Lückentext: Studie zum Schlaf'
     audio: hoertext.mp3
     instructions: 'Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.'
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Three words in the box are not needed."
     text: |
       Liebe Hörerinnen und Hörer, willkommen zu „Forschung aktuell". Eine
       neue {1} der Universität Leipzig hat untersucht, wie sich Schlafmangel
@@ -103,6 +106,7 @@ exercises:
     audio: transcript_ansage1.mp3
     optionLayout: block
     instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    instructionsEn: "Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Promotionsbüros der Humboldt-Universität zu Berlin erreicht. Unser Büro ist in der vorlesungsfreien Zeit nur dienstags und donnerstags von neun bis zwölf Uhr besetzt. Bitte beachten Sie: Dissertationen für das Wintersemester müssen bis spätestens 30. September elektronisch und in gedruckter Form eingereicht werden. Die Formulare zur Anmeldung des Promotionsverfahrens finden Sie auf unserer Internetseite unter dem Menüpunkt Promotion. Für eine persönliche Beratung vereinbaren Sie bitte einen Termin per E-Mail. Vielen Dank für Ihr Verständnis.'
     items:
       - q: 'Welche Einrichtung ist auf dem Anrufbeantworter zu hören?'
@@ -140,6 +144,7 @@ exercises:
     title: 'Tabelle ausfüllen: Dialog B (Sprechstunde)'
     audio: dialog1_b.mp3
     instructions: 'Hör Dialog B noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    instructionsEn: "Listen to Dialog B again and fill in the table. One piece of information is missing in each row."
     columns: ['Thema', 'Problem im Entwurf', 'Empfehlung', 'Stichwort']
     rows:
       - label: 'Ton'
@@ -169,6 +174,7 @@ exercises:
     title: 'Unpersönlich formulieren — welcher Satz ist wissenschaftlich?'
     optionLayout: block
     instructions: 'Wähle die unpersönliche, wissenschaftliche Formulierung (a, b oder c).'
+    instructionsEn: "Choose the impersonal, academic phrasing (a, b, or c)."
     items:
       - q: 'Welcher Satz passt in eine Hausarbeit?'
         options:
@@ -212,6 +218,7 @@ exercises:
     listLayout: true
     title: 'Passiv und Passiversatz bilden'
     instructions: 'Setze das fehlende Wort ein (Passiv, Zustandspassiv oder Passiversatz). 8 Items.'
+    instructionsEn: "Fill in the missing word (Passiv, Zustandspassiv, or Passiversatz). 8 items."
     text: |
       1. Die Hypothese {1} im zweiten Kapitel geprüft. (Vorgangspassiv Präsens)
       2. Die Daten {2} an 200 Personen erhoben. (Vorgangspassiv Präteritum)
@@ -237,6 +244,7 @@ exercises:
     listLayout: true
     title: 'Passiversatz: drei Alternativen'
     instructions: 'Forme den Passiversatz. Setze das fehlende Wort ein. 6 Items.'
+    instructionsEn: "Form the Passiversatz. Fill in the missing word. 6 items."
     text: |
       1. „kann belegt werden" → Die These {1} sich belegen.
       2. „kann belegt werden" → Die These ist {2} belegen.
@@ -258,6 +266,7 @@ exercises:
     title: 'Nominalstil oder Verbalstil?'
     optionLayout: block
     instructions: 'Wähle die korrekte nominale Entsprechung (a, b oder c).'
+    instructionsEn: "Choose the correct nominal equivalent (a, b, or c)."
     items:
       - q: '„weil die Daten erhoben wurden" — nominal:'
         options:
@@ -301,6 +310,7 @@ exercises:
     listLayout: true
     title: 'Verbalstil → Nominalstil'
     instructions: 'Forme in den Nominalstil um. Setze das fehlende Wort ein. 5 Items.'
+    instructionsEn: "Rewrite in Nominalstil. Fill in the missing word. 5 items."
     text: |
       1. weil die Daten erhoben wurden → {1} der Datenerhebung
       2. nachdem die Studie durchgeführt wurde → nach {2} der Studie
@@ -320,6 +330,7 @@ exercises:
     title: 'Hedging — welche Formulierung ist vorsichtig?'
     optionLayout: block
     instructions: 'Wähle die wissenschaftlich vorsichtige (abgeschwächte) Formulierung.'
+    instructionsEn: "Choose the academically cautious (hedged) phrasing."
     items:
       - q: 'Welcher Satz formuliert vorsichtig (Hedging)?'
         options:
@@ -363,6 +374,7 @@ exercises:
     listLayout: true
     title: 'Hedging-Mittel einsetzen'
     instructions: 'Setze das passende Hedging-Mittel ein. 6 Items.'
+    instructionsEn: "Fill in the appropriate hedging device. 6 items."
     text: |
       1. Modalverb der Vermutung: Das {1} zutreffen.
       2. Wendung: Die Daten {2} darauf hin, dass ein Zusammenhang besteht.
@@ -383,6 +395,7 @@ exercises:
     type: matching
     title: 'Verweis-Wendungen — Funktion zuordnen'
     instructions: 'Ordne jeder Wendung (1–5) die passende Erklärung (a–e) zu.'
+    instructionsEn: "Match each expression (1–5) with the correct explanation (a–e)."
     left:
       - { key: '1', text: 'laut Schmidt' }
       - { key: '2', text: 'einer Studie zufolge' }
@@ -408,6 +421,7 @@ exercises:
     title: 'Indirekte Rede: Konjunktiv I'
     optionLayout: block
     instructions: 'Wähle die korrekte indirekte Wiedergabe im Konjunktiv I (a, b oder c).'
+    instructionsEn: "Choose the correct reported version in Konjunktiv I (a, b, or c)."
     items:
       - q: 'Schmidt: „Die Methode ist umstritten."'
         options:
@@ -450,6 +464,7 @@ exercises:
     type: gap-bank
     title: 'Funktionsverbgefüge der Wissenschaftssprache'
     instructions: 'Füll die 6 Lücken mit dem passenden Wort aus dem Kasten. Drei Wörter sind zu viel.'
+    instructionsEn: "Fill in the 6 gaps with the right word from the box. Three words are not needed."
     text: |
       1. An 200 Personen wurde eine Studie {1}.
       2. Daraus lässt sich der Schluss {2}.
@@ -471,6 +486,7 @@ exercises:
     type: matching
     title: 'Abstrakter Wortschatz — Begriff und Definition'
     instructions: 'Ordne jedem Begriff (1–5) die passende Definition (a–e) zu.'
+    instructionsEn: "Match each term (1–5) with the correct definition (a–e)."
     left:
       - { key: '1', text: 'die Hypothese' }
       - { key: '2', text: 'der Befund' }
@@ -495,6 +511,7 @@ exercises:
     type: order
     title: 'Satzbau: wissenschaftliche Sätze'
     instructions: 'Bring die Wörter in die richtige Reihenfolge.'
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: [In, dieser, Arbeit, wird, die, Hypothese, geprüft]
         answer: [0, 1, 2, 3, 4, 5, 6]
@@ -517,6 +534,7 @@ exercises:
     listLayout: true
     title: 'Ein Abstract vervollständigen'
     instructions: 'Setze die passende Form ein (Passiv, Hedging, FVG, Konjunktiv I). 6 Items.'
+    instructionsEn: "Fill in the appropriate form (Passiv, hedging, FVG, Konjunktiv I). 6 items."
     text: |
       1. In dieser Arbeit {1} untersucht, wie sich Schlafmangel auf die Konzentration auswirkt.
       2. Zu diesem Zweck {2} eine Studie an 200 Personen durchgeführt.
@@ -538,6 +556,7 @@ exercises:
     title: 'Registerbruch erkennen'
     optionLayout: block
     instructions: 'Wähle die Formulierung, die in einen wissenschaftlichen Text passt.'
+    instructionsEn: "Choose the phrasing that fits an academic text."
     items:
       - q: 'In einer Hausarbeit:'
         options:
@@ -581,6 +600,7 @@ exercises:
     title: 'Hedging im Kontext'
     optionLayout: block
     instructions: 'Wähle die Formulierung, die im wissenschaftlichen Kontext am besten passt.'
+    instructionsEn: "Choose the phrasing that fits best in an academic context."
     items:
       - q: 'Eine einzige kleine Studie liegt vor. Wie formulierst du das Ergebnis?'
         options:
@@ -623,6 +643,7 @@ exercises:
     type: matching
     title: 'Verbalstil und Nominalstil'
     instructions: 'Ordne jedem Verbalstil-Ausdruck (1–5) die nominale Entsprechung (a–e) zu.'
+    instructionsEn: "Match each Verbalstil expression (1–5) with its nominal equivalent (a–e)."
     left:
       - { key: '1', text: 'weil die Daten erhoben wurden' }
       - { key: '2', text: 'nachdem die Studie durchgeführt wurde' }
@@ -648,6 +669,7 @@ exercises:
     title: 'Finde die beste Korrektur'
     optionLayout: block
     instructions: 'Wähle die beste wissenschaftliche Korrektur (a, b oder c).'
+    instructionsEn: "Choose the best academic correction (a, b, or c)."
     items:
       - q: 'Übernominalisiert: „Die Vornahme der Durchführung der Auswertung erfolgte."'
         options:
@@ -691,6 +713,7 @@ exercises:
     listLayout: true
     title: 'Indirekte Rede im Konjunktiv I'
     instructions: 'Setze das Verb in den Konjunktiv I (Form in Klammern). 6 Items.'
+    instructionsEn: "Put the verb into Konjunktiv I (form in brackets). 6 items."
     text: |
       1. (sein, Plural) Müller stellt fest, die bisherigen Methoden {1} unzureichend.
       2. (geben) Er betont, es {2} keine eindeutigen Belege.
@@ -712,6 +735,7 @@ exercises:
     title: 'Korrekt zitieren und verweisen'
     optionLayout: block
     instructions: 'Wähle die korrekte Form (a, b oder c).'
+    instructionsEn: "Choose the correct form (a, b, or c)."
     items:
       - q: 'Welcher Verweis ist korrekt?'
         options:
@@ -798,6 +822,7 @@ exercises:
     listLayout: true
     title: 'Lückentext: Merkmale der Wissenschaftssprache'
     instructions: 'Füll jede Lücke mit **einem** passenden Wort. 10 Items.'
+    instructionsEn: "Fill each gap with **one** suitable word. 10 items."
     text: |
       Wissenschaftssprache hat eigene Regeln. Erstens schreibt man
       {1}: Statt „ich zeige" heißt es „es wird gezeigt"; das Passiv
@@ -829,6 +854,7 @@ exercises:
     title: 'Sprachbausteine Teil 1'
     optionLayout: block
     instructions: 'Wähle die passende Option (a, b oder c) für jede Lücke.'
+    instructionsEn: "Choose the right option (a, b, or c) for each gap."
     items:
       - q: 'In dieser Arbeit {1} untersucht, ob ein Zusammenhang besteht.'
         options:
@@ -880,6 +906,7 @@ exercises:
     bankSort: true
     title: 'Sprachbausteine Teil 2 (Wortbank)'
     instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Aus einem Schreibratgeber: „Wissenschaftssprache ist {1}: Sie
       rückt die Sache in den Vordergrund. Statt ‚ich zeige‘ schreibt man
@@ -916,6 +943,7 @@ exercises:
       > Genau hier setzt die Bewegung der Wissenschaftskommunikation an: Sie fordert, dass Forschende ihre Erkenntnisse auch für die Öffentlichkeit verständlich machen. Die Kunst besteht darin, präzise zu bleiben, ohne unverständlich zu werden.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: 'Laut Text steckt hinter den Merkmalen der Wissenschaftssprache meist der Wille, den Leser abzuschrecken.'
         answer: false
@@ -952,6 +980,7 @@ exercises:
       >
       > **Beitrag 4 — Bruno_S:**
       > Stimmt schon, aber man darf Präzision nicht für Einfachheit opfern. Ein Fachbegriff sagt oft in einem Wort, wofür man sonst drei Sätze braucht.
+    instructionsEn: "Read the following forum posts and choose a, b, or c."
     items:
       - q: 'Was ist die Leitfrage der Diskussion?'
         options:
@@ -1010,6 +1039,7 @@ exercises:
     listLayout: true
     title: 'Gemischter Schnelltest'
     instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (B2/..) oder (C1/..) wiederholen frühere Lektionen. 15 Items.'
+    instructionsEn: "One minute per item. No notes. Items marked (B2/..) or (C1/..) review earlier lessons. 15 items."
     text: |
       **Wissenschaftssprache (C1/05):**
       1. Unpersönlich: Die Daten {1} ausgewertet. (Vorgangspassiv)
@@ -1059,6 +1089,7 @@ exercises:
     type: odd-one-out
     title: 'Odd one out: Wissenschaftssprache'
     instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [Imperativ, Passiv, man, sich lassen]
         odd: 0
@@ -1085,6 +1116,7 @@ exercises:
     listLayout: true
     title: 'Rückblick: B2/01, B2/02, B2/04, B2/08, C1/05'
     instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B2/01 (Nominalstil):**
       1. „nachdem die Studie durchgeführt wurde" → nach {1} der Studie.

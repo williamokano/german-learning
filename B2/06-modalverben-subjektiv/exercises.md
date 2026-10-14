@@ -403,7 +403,7 @@ Self-check:
 
 ## Übung D1 — Gemischter Schnelltest
 
-Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items.
+Eine Minute pro Item. Keine Notizen. Items mit Lektionsangabe, z. B. (B1/07), wiederholen eine frühere Lektion. 15 Items.
 
 1. Vermutung „fast sicher": Er ______ reich sein.
 2. Vermutung „wahrscheinlich": Sie ______ schon da sein.

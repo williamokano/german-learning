@@ -17,6 +17,7 @@ exercises:
     title: 'Dialog Hör-Check: Dialog A (Sprachdebatte)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: 'Lukas liest einen Satz aus dem Feuilleton vor, in dem „verändert habe" steht.'
         answer: true
@@ -41,6 +42,7 @@ exercises:
     audio: dialog1_b.mp3
     optionLayout: block
     instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     items:
       - q: 'Worum geht es im Beratungsgespräch?'
         options:
@@ -77,6 +79,7 @@ exercises:
     title: 'Hörtext-Lückentext: Sprache und Stil'
     audio: hoertext.mp3
     instructions: 'Hör den Hörtext und füll die 6 Lücken. Vier Wörter im Kasten sind zu viel.'
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Four words in the box are not needed."
     text: |
       Liebe Hörerinnen und Hörer, willkommen bei „Sprachzeit". In der
       heutigen Sendung geht es um die Frage, ob das Deutsche eine
@@ -105,6 +108,7 @@ exercises:
     audio: transcript_ansage1.mp3
     optionLayout: block
     instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    instructionsEn: "Listen to the answering-machine message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     transcript: 'Guten Tag, Sie haben den Anrufbeantworter des Sprachinstituts „Lingua Berlin" erreicht. Wir sind telefonisch erreichbar von Montag bis Freitag zwischen neun und siebzehn Uhr. Aktuell bieten wir einen Vorbereitungskurs auf das C1-Zertifikat an. Der Kurs beginnt am 15. September und findet zweimal wöchentlich statt, dienstags und donnerstags von achtzehn bis zwanzig Uhr. Die Anmeldung ist nur online möglich unter www.lingua-berlin.de. Für eine persönliche Beratung vereinbaren Sie bitte einen Termin per E-Mail. Bitte ruf mich zurück, falls weitere Fragen bestehen. Vielen Dank.'
     items:
       - q: 'Welche Einrichtung ist auf dem Anrufbeantworter zu hören?'
@@ -142,6 +146,7 @@ exercises:
     title: 'Tabelle ausfüllen: Dialog A (Sprachdebatte)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    instructionsEn: "Listen to Dialog A again and fill in the table. One piece of information is missing in each row."
     columns: ['Sprecher', 'Beobachtung', 'Begründung', 'Stichwort']
     rows:
       - label: 'Lukas'
@@ -168,6 +173,7 @@ exercises:
     title: 'Konjunktiv I — welche Form ist richtig?'
     optionLayout: block
     instructions: 'Wähle die korrekte Konjunktiv-I-Form (a, b oder c).'
+    instructionsEn: "Choose the correct Konjunktiv I form (a, b, or c)."
     items:
       - q: 'Sie sagt, sie komme morgen. — Welche Form ist das?'
         options:
@@ -211,6 +217,7 @@ exercises:
     listLayout: true
     title: 'Konjunktiv I bilden'
     instructions: 'Setze die passende Konjunktiv-I-Form ein (oder „würde + Infinitiv" bei Homophonie). 6 Items.'
+    instructionsEn: "Fill in the appropriate Konjunktiv I form (or „würde + Infinitiv\" where the forms coincide). 6 items."
     text: |
       1. Müller schreibt, die Methode {1} umstritten. (sein)
       2. Weber stellt fest, es {2} keine eindeutigen Belege. (geben)
@@ -232,6 +239,7 @@ exercises:
     title: 'Konjunktiv II — Irrealis oder Höflichkeit?'
     optionLayout: block
     instructions: 'Wähle die korrekte Bedeutung (a, b oder c).'
+    instructionsEn: "Choose the correct meaning (a, b, or c)."
     items:
       - q: '„Wenn ich Zeit hätte, würde ich mehr lesen." — Das ist …'
         options:
@@ -275,6 +283,7 @@ exercises:
     listLayout: true
     title: 'Konjunktiv II einsetzen'
     instructions: 'Setze die passende Konjunktiv-II-Form ein. 6 Items.'
+    instructionsEn: "Fill in the appropriate Konjunktiv II form. 6 items."
     text: |
       1. Wenn ich Zeit {1}, würde ich mehr lesen. (Irrealis Gegenwart)
       2. Ich {2} gern eine Tasse Kaffee. (Höflichkeitsbitte)
@@ -296,6 +305,7 @@ exercises:
     title: 'Negation — nicht oder kein?'
     optionLayout: block
     instructions: 'Wähle die korrekte Verneinung (a, b oder c).'
+    instructionsEn: "Choose the correct negation (a, b, or c)."
     items:
       - q: 'Ich habe Zeit. — Verneinung:'
         options:
@@ -339,6 +349,7 @@ exercises:
     listLayout: true
     title: 'Negation — Korrelate und Verstärkung'
     instructions: 'Setze das passende Wort ein. 4 Items, 6 Lücken.'
+    instructionsEn: "Fill in the appropriate word. 4 items, 6 gaps."
     text: |
       1. {1} der Vater {2} die Mutter wollten umkehren. (Korrelat: „weder" / „noch")
       2. {3} er, {4} auch sie kommt. (Hervorhebung + Ergänzung)
@@ -358,6 +369,7 @@ exercises:
     title: 'Wortstellung im Mittelfeld — Tekamalo'
     optionLayout: block
     instructions: 'Wähle die idiomatische Reihenfolge (a, b oder c).'
+    instructionsEn: "Choose the idiomatic word order (a, b, or c)."
     items:
       - q: 'Welche Reihenfolge ist idiomatisch?'
         options:
@@ -401,6 +413,7 @@ exercises:
     title: 'es-Konstruktionen — welcher Typ?'
     optionLayout: block
     instructions: 'Entscheide, welche Funktion das „es" hat (a, b oder c).'
+    instructionsEn: "Decide which function „es\" has (a, b, or c)."
     items:
       - q: '„Es regnet." — Was für ein „es"?'
         options:
@@ -443,6 +456,7 @@ exercises:
     type: matching
     title: 'Konjunktiv-Funktion zuordnen'
     instructions: 'Ordne jedem Satz (1–5) die richtige Funktion (a–e) zu.'
+    instructionsEn: "Match each sentence (1–5) with the correct function (a–e)."
     left:
       - { key: '1', text: 'Sie sagt, sie komme morgen.' }
       - { key: '2', text: 'Wenn ich Zeit hätte, würde ich mehr lesen.' }
@@ -467,6 +481,7 @@ exercises:
     type: gap-bank
     title: 'Modalpartikeln im Mittelfeld'
     instructions: 'Füll die 6 Lücken mit der passenden Modalpartikel aus dem Kasten. Vier Wörter sind zu viel.'
+    instructionsEn: "Fill in the 6 gaps with the appropriate Modalpartikel from the box. Four words are not needed."
     text: |
       1. Das ist {1} ganz einfach! (Erwartung enttäuschen)
       2. Du hast {2} keine Zeit, oder? (Erwartung enttäuschen)
@@ -489,6 +504,7 @@ exercises:
     title: 'Irreale Vergleiche mit als ob / als'
     optionLayout: block
     instructions: 'Wähle die korrekte Form (a, b oder c).'
+    instructionsEn: "Choose the correct form (a, b, or c)."
     items:
       - q: 'Er ist nicht da, aber er redet, als wäre er da.'
         options:
@@ -531,6 +547,7 @@ exercises:
     type: order
     title: 'Satzbau: idiomatische Mittelfeld-Reihenfolge'
     instructions: 'Bring die Wörter in die idiomatische Reihenfolge.'
+    instructionsEn: "Put the words in idiomatic order."
     items:
       - tiles: [ist, 'Das', 'doch', 'ganz', 'einfach']
         answer: [1, 0, 2, 3, 4]
@@ -553,6 +570,7 @@ exercises:
     title: 'Konjunktiv I oder II — Wahl der richtigen Form'
     optionLayout: block
     instructions: 'Wähle die korrekte Wiedergabe (a, b oder c).'
+    instructionsEn: "Choose the correct rendering (a, b, or c)."
     items:
       - q: 'Schmidt: „Die Methode ist umstritten." — Indirekte Rede:'
         options:
@@ -596,6 +614,7 @@ exercises:
     listLayout: true
     title: 'Konjunktiv I und II in einem Text'
     instructions: 'Setze die passende Konjunktiv-Form ein. 8 Items.'
+    instructionsEn: "Fill in the appropriate Konjunktiv form. 8 items."
     text: |
       Der Linguist Professor Berger erklärt: „Das Deutsche verfüge über
       einzigartige Werkzeuge." Er meint, kaum eine andere Sprache {1}
@@ -624,6 +643,7 @@ exercises:
     title: 'Negations-Korrelate und doppelte Verneinung'
     optionLayout: block
     instructions: 'Wähle die korrekte Form (a, b oder c).'
+    instructionsEn: "Choose the correct form (a, b, or c)."
     items:
       - q: 'Welcher Satz verneint zwei Glieder korrekt?'
         options:
@@ -667,6 +687,7 @@ exercises:
     title: 'Wortstellung — Fehler erkennen'
     optionLayout: block
     instructions: 'Welcher Satz ist UNIDIOMATISCH? Wähle die schiefe Version (a, b oder c).'
+    instructionsEn: "Which sentence is UNIDIOMATIC? Choose the awkward version (a, b, or c)."
     items:
       - q: 'Welche Version klingt „komisch"?'
         options:
@@ -710,6 +731,7 @@ exercises:
     listLayout: true
     title: 'es-Konstruktionen unterscheiden'
     instructions: 'Setze das passende Wort ein (Vorfeld-es, Korrelat-es, Existenz-es, unpersönliches es). 6 Items.'
+    instructionsEn: "Fill in the appropriate word (Vorfeld-es, Korrelat-es, Existenz-es, impersonal es). 6 items."
     text: |
       1. {1} regnet. (unpersönliches es)
       2. {2} gibt einen Ausweg. (Existenz-es)
@@ -731,6 +753,7 @@ exercises:
     title: 'Vier es-Typen — Fehlverwendung erkennen'
     optionLayout: block
     instructions: 'Welcher Satz verwechselt die „es"-Typen? Wähle die falsche Version.'
+    instructionsEn: "Which sentence mixes up the „es\" types? Choose the wrong version."
     items:
       - q: 'Welcher Satz ist KORREKT?'
         options:
@@ -773,6 +796,7 @@ exercises:
     type: matching
     title: 'es-Konstruktion — Typ zuordnen'
     instructions: 'Ordne jedem Satz (1–5) den passenden es-Typ (a–e) zu.'
+    instructionsEn: "Match each sentence (1–5) with the appropriate es type (a–e)."
     left:
       - { key: '1', text: 'Es regnet.' }
       - { key: '2', text: 'Es freut mich, dass du da bist.' }
@@ -840,6 +864,7 @@ exercises:
     listLayout: true
     title: 'Lückentext: Feinheiten der Grammatik'
     instructions: 'Füll jede Lücke mit **einem** passenden Wort. 10 Items.'
+    instructionsEn: "Fill each gap with **one** suitable word. 10 items."
     text: |
       Auf C1-Niveau beherrscht man die {1} Feinheiten der deutschen
       Grammatik. Der {2} I markiert in der indirekten Rede
@@ -871,6 +896,7 @@ exercises:
     title: 'Sprachbausteine Teil 1'
     optionLayout: block
     instructions: 'Wähle die passende Option (a, b oder c) für jede Lücke.'
+    instructionsEn: "Choose the appropriate option (a, b, or c) for each gap."
     items:
       - q: 'Sie sagt, sie {1} morgen.'
         options:
@@ -922,6 +948,7 @@ exercises:
     bankSort: true
     title: 'Sprachbausteine Teil 2 (Wortbank)'
     instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Auf C1-Niveau nutzt man den {1} I für die indirekte Rede:
       „Sie sagt, sie {2} morgen." Wenn die Form gleich klingt
@@ -959,6 +986,7 @@ exercises:
       > Schließlich die Wortstellung im Mittelfeld. Die Tekamalo-Reihenfolge gibt einen Rahmen; die Modalpartikeln direkt nach dem Verb setzen Nuancen; das Scrambling schwerer Glieder nach rechts macht den Satz flüssig. Wer diese drei Mechanismen versteht, kann einen grammatisch korrekten Satz nehmen und ihn klingen lassen — wie ein Musikstück, bei dem nicht die Noten, sondern die Phrasierung den Unterschied macht.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: 'Laut Text lernt man auf C1 nicht nur, was ein Satz bedeutet, sondern auch, wie er klingt.'
         answer: true
@@ -995,6 +1023,7 @@ exercises:
       >
       > **Beitrag 4 — Dr_Berger (Linguist):**
       > Die Frage ist nicht „brauchen wir ihn", sondern „wann ist er nötig". In der gehobenen Schriftsprache ist der echte Konjunktiv I nicht ersetzbar; im Mündlichen ist die Ersatzform idiomatisch.
+    instructionsEn: "Read the following forum posts and choose a, b, or c."
     items:
       - q: 'Was ist die Leitfrage der Diskussion?'
         options:
@@ -1053,7 +1082,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Gemischter Schnelltest'
-    instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (B2/..) oder (C1/..) wiederholen frühere Lektionen. 15 Items.'
+    instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (B2/..) oder (C1/..) wiederholen frühere Lektionen. 13 Items, 15 Lücken.'
+    instructionsEn: "One minute per item. No notes. Items marked (B2/..) or (C1/..) review earlier lessons. 13 items, 15 gaps."
     text: |
       **Konjunktiv (C1/06):**
       1. Indirekte Rede: Sie sagt, sie {1} morgen. (Konjunktiv I)
@@ -1101,6 +1131,7 @@ exercises:
     type: odd-one-out
     title: 'Odd one out: Grammatik-Feinheiten'
     instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: ['sei', 'habe', 'werde', 'möchte']
         odd: 3
@@ -1126,7 +1157,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Rückblick: B2/03, B2/04, C1/03, C1/05, C1/06'
-    instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    instructions: 'Wiederholung früherer Lektionen. 9 Items, 10 Lücken.'
+    instructionsEn: "Review of earlier lessons. 9 items, 10 gaps."
     text: |
       **Aus B2/03 (Konjunktiv II):**
       1. Höflichkeitsbitte: Ich {1} gern einen Kaffee.

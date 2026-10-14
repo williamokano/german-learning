@@ -17,6 +17,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog A (informell — Flur-Gespräch)"
     audio: dialog1_a.mp3
     instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: "Mia berichtet, dass der Umsatz im ersten Quartal gestiegen ist."
         answer: true
@@ -40,6 +41,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog B (formell — Lieferantenverhandlung)"
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     optionLayout: block
     items:
       - q: "Worauf möchte Frau Yilmaz zu Beginn Bezug nehmen?"
@@ -77,6 +79,7 @@ exercises:
     title: "Hörtext-Lückentext: Nachricht aus dem Sekretariat"
     audio: hoertext.mp3
     instructions: "Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel."
+    instructionsEn: "Listen to the Hörtext and fill in the 7 gaps. Three words in the box are not needed."
     text: |
       Guten Tag, Herr Steinmeyer, hier ist das Sekretariat der Müller AG. Es geht um das
       {1} vom letzten Donnerstag. Die Geschäftsführung hat den Vorschlag geprüft und
@@ -102,6 +105,7 @@ exercises:
     title: "Kurze Ansage: Nachricht auf dem Anrufbeantworter"
     audio: transcript_ansage1.mp3
     instructions: "Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     optionLayout: block
     transcript: 'Guten Tag, Frau Berger, hier ist die Buchhaltung der Hartmann GmbH. Es geht um Ihre Rechnung vom 15. Mai, die seit vier Wochen überfällig ist. Wir möchten Sie darauf hinweisen, dass bei Zahlung innerhalb der nächsten sieben Tagen noch zwei Prozent Skonto gewährt werden. Andernfalls müssen wir eine Mahnung mit Verzugszinsen verschicken. Bitte rufen Sie mich kurz zurück. Vielen Dank und auf Wiederhören.'
     items:
@@ -142,6 +146,7 @@ exercises:
     listLayout: true
     title: "Wirtschaftsbegriffe zuordnen"
     instructions: "Setze das passende Wort ein (Umsatz, Gewinn, Verlust, Bilanz, Investition, Kosten, Personal, Steuer). 8 Items."
+    instructionsEn: "Fill in the right word (Umsatz, Gewinn, Verlust, Bilanz, Investition, Kosten, Personal, Steuer). 8 items."
     text: |
       1. Der {1} ist die gesamten Einnahmen einer Periode.
       2. Der {2} ist das, was nach allen Kosten übrig bleibt.
@@ -167,6 +172,7 @@ exercises:
     listLayout: true
     title: "Geschäftszahlen versprachlichen"
     instructions: "Setze das passende Verb ein (steigen, sinken, wachsen, schrumpfen, amortisieren, einbrechen, anziehen). 8 Items."
+    instructionsEn: "Fill in the right verb (steigen, sinken, wachsen, schrumpfen, amortisieren, einbrechen, anziehen). 8 items."
     text: |
       1. Der Umsatz ist im ersten Quartal um 8 % {1}.
       2. Der Gewinn ist trotzdem um 2 % {2}.
@@ -192,6 +198,7 @@ exercises:
     listLayout: true
     title: "Unternehmen und Rechtsformen"
     instructions: "Setze das passende Wort ein (Unternehmen, Firma, Betrieb, Konzern, GmbH, AG, Branche, Markt). 8 Items."
+    instructionsEn: "Fill in the right word (Unternehmen, Firma, Betrieb, Konzern, GmbH, AG, Branche, Markt). 8 items."
     text: |
       1. Die Volkswagen AG ist ein großer deutscher {1}.
       2. Eine kleine {2} hat weniger als 50 Mitarbeiter.
@@ -216,6 +223,7 @@ exercises:
     type: single-choice
     title: "Umsatz, Gewinn oder Verlust?"
     instructions: "Wähle den passenden Begriff (a, b oder c)."
+    instructionsEn: "Choose the right term (a, b, or c)."
     items:
       - q: "Was sind die gesamten Einnahmen eines Unternehmens in einer Periode?"
         options:
@@ -259,6 +267,7 @@ exercises:
     listLayout: true
     title: "um + Prozent oder in + Akkusativ?"
     instructions: "Setze um oder in ein. ⚠️ um = Mengenangabe; in + Akk. = Richtung Markt; in + Dat. = Zeitraum. 6 Items."
+    instructionsEn: "Fill in um or in. ⚠️ um = amount; in + Akk. = direction (into a market); in + Dat. = time period. 6 items."
     text: |
       1. Der Umsatz ist {1} 8 % gestiegen.
       2. Der Gewinn ist {2} 2 % gesunken.
@@ -280,6 +289,7 @@ exercises:
     listLayout: true
     title: "Geschäftspartner: der oder die?"
     instructions: "Setze den richtigen Artikel ein (der Kunde / die Kundin / der Lieferant / die Lieferantin / der Mitarbeiter / die Mitarbeiterin / der Auftrag / die Rechnung). 6 Items."
+    instructionsEn: "Fill in the correct article (der Kunde / die Kundin / der Lieferant / die Lieferantin / der Mitarbeiter / die Mitarbeiterin / der Auftrag / die Rechnung). 6 items."
     text: |
       1. Wir beliefern seit Jahren {1} Müller in Berlin.
       2. {2} schickt uns jede Woche frische Ware.
@@ -300,6 +310,7 @@ exercises:
     type: gap-bank
     title: "Vertragsbedingungen — Rabatt, Skonto, Mahnung, Frist"
     instructions: "Füll die Lücken mit dem passenden Begriff. Zwei Wörter im Kasten sind zu viel."
+    instructionsEn: "Fill in the gaps with the right term. Two words in the box are not needed."
     text: |
       1. Bei Großaufträgen gewähren wir 5 % {1}.
       2. Bei Zahlung innerhalb von 10 Tagen geben wir 2 % {2}.
@@ -319,6 +330,7 @@ exercises:
     type: matching
     title: "Begriff und Bedeutung verbinden"
     instructions: "Ordne jedem Wirtschaftsbegriff (1–6) die passende Bedeutung (a–f) zu."
+    instructionsEn: "Match each economic term (1–6) with its meaning (a–f)."
     left:
       - { key: "1", text: "die GmbH" }
       - { key: "2", text: "die AG" }
@@ -346,6 +358,7 @@ exercises:
     type: categorize
     title: "Wortschatz sortieren"
     instructions: "Ordne jeden Begriff dem richtigen Bereich zu."
+    instructionsEn: "Sort each term into the correct area."
     buckets:
       - { key: unternehmen, label: "Unternehmen & Rechtsform" }
       - { key: zahlen, label: "Geschäftszahlen & Finanzen" }
@@ -373,6 +386,7 @@ exercises:
     listLayout: true
     title: "Konjunktiv I im Geschäftsbericht"
     instructions: "Setze die richtige Konjunktiv-I-Form ein (habe, sei, werde, könne, müsse, wolle, solle). 6 Items."
+    instructionsEn: "Fill in the correct Konjunktiv I form (habe, sei, werde, könne, müsse, wolle, solle). 6 items."
     text: |
       1. Der Vorstand {1} dem Vorschlag zugestimmt.
       2. Die Bank {2} mit dem Kredit einverstanden.
@@ -393,6 +407,7 @@ exercises:
     type: order
     title: "Satzbau: Geschäftsbericht"
     instructions: "Bring die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: [Der, Vorstand, habe, dem, Vorschlag, zugestimmt]
         answer: [0, 1, 2, 3, 4, 5]
@@ -474,6 +489,7 @@ exercises:
     type: matching
     title: "Verb und Geschäftszahl verbinden"
     instructions: "Ordne jedem Verb (1–6) den passenden Kontext (a–f) zu."
+    instructionsEn: "Match each verb (1–6) with the right context (a–f)."
     left:
       - { key: "1", text: "steigen" }
       - { key: "2", text: "sinken" }
@@ -501,6 +517,7 @@ exercises:
     type: gap-bank
     title: "Geschäftsbericht ergänzen"
     instructions: "Füll die 8 Lücken mit dem passenden Wort aus dem Kasten. Vier Wörter sind zu viel."
+    instructionsEn: "Fill in the 8 gaps with the right word from the box. Four words are not needed."
     text: |
       Geschäftsbericht der Müller AG für das zweite Quartal: Der {1} ist um 6,3 %
       gestiegen, während der {2} um 4,1 % {3} ist. Die Geschäftsführung erklärte,
@@ -523,6 +540,7 @@ exercises:
     type: order
     title: "Satzbau: Konjunktiv I im Geschäftsbericht"
     instructions: "Bring die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: [Der, Vorstand, habe, dem, Vorschlag, zugestimmt]
         answer: [0, 1, 2, 3, 4, 5]
@@ -542,6 +560,7 @@ exercises:
     type: odd-one-out
     title: "Wortschatz: Was passt nicht?"
     instructions: "Streiche den Begriff, der nicht in die gleiche Kategorie passt."
+    instructionsEn: "Cross out the term that does not belong to the same category."
     groups:
       - items: [Umsatz, Gewinn, Verlust, Mitarbeiter]
         odd: 3
@@ -567,6 +586,7 @@ exercises:
     type: single-choice
     title: "Welche Formulierung passt zum Kontext?"
     instructions: "Wähle die stilistisch und sachlich passende Variante (a oder b)."
+    instructionsEn: "Choose the variant that fits in style and content (a or b)."
     items:
       - q: "In einer formellen E-Mail an einen Lieferanten:"
         options:
@@ -628,6 +648,7 @@ exercises:
     listLayout: true
     title: "Lückentext: Wirtschaftsnachrichten verstehen (Lesetext)"
     instructions: "Füll jede Lücke mit einem Wort aus dem Wirtschaftsvokabular. 10 Items."
+    instructionsEn: "Fill each gap with one word from business vocabulary. 10 items."
     text: |
       Der Stahlbau-Konzern Müller AG hat heute seine (1) {1} für das zweite Quartal
       vorgelegt. Demnach ist der (2) {2} im Vergleich zum Vorjahresquartal um 6,3 %
@@ -656,6 +677,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Der Umsatz ist ____ 6,3 % gestiegen."
         options:
@@ -707,6 +729,7 @@ exercises:
     bankSort: true
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Aus dem Geschäftsbericht der Hartmann GmbH: Im zweiten Quartal ist der {1} um
       5 % gestiegen. Der {2} ist allerdings um 3 % gesunken. Die {3} haben sich
@@ -740,6 +763,7 @@ exercises:
       > Zum Skonto für Großkunden äußerte sich die Geschäftsführung nicht. Eine geplante Dividendenerhöhung sei **derzeit** nicht in Betracht gezogen worden. Die Aktie verlor nach der Bekanntgabe 2,8 Prozent.
 
       Richtig (R) oder falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Der Umsatz der Müller AG ist im zweiten Quartal gestiegen."
         answer: true
@@ -779,6 +803,7 @@ exercises:
       > Vertragsstrafe bei verspäteter Lieferung ist für uns selbstverständlich.
       > Wir bitten um eine kurze Rückmeldung bis spätestens Donnerstag, 18 Uhr.
       > Für Rückfragen stehe ich Ihnen jederzeit zur Verfügung.
+    instructionsEn: "Read the following e-mail and choose a, b, or c."
     items:
       - q: "Worauf nimmt Frau Yilmaz zu Beginn Bezug?"
         options:
@@ -848,6 +873,7 @@ exercises:
     listLayout: true
     title: "Gemischter Schnelltest"
     instructions: "Eine Minute pro Item. Keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 15 Items."
+    instructionsEn: "One minute per item. No notes. Items marked (B2/xx) or (B1/xx) review an earlier lesson. 15 items."
     text: |
       1. Wirtschaftsbegriff für die gesamten Einnahmen einer Periode: {1}
       2. Wirtschaftsbegriff für Einnahmen minus Kosten: {2}
@@ -886,6 +912,7 @@ exercises:
     type: odd-one-out
     title: "Odd one out"
     instructions: "Streiche den Begriff, der nicht in die gleiche Kategorie passt."
+    instructionsEn: "Cross out the term that does not belong to the same category."
     groups:
       - items: [Umsatz, Gewinn, Verlust, Skonto]
         odd: 3
@@ -912,6 +939,7 @@ exercises:
     listLayout: true
     title: "Rückblick: B2/08, B2/04, B2/01, B1/11"
     instructions: "Wiederholung früherer Lektionen. 10 Items."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B2/08 (Funktionsverbgefüge):**
       1. Vollverb zu *eine Entscheidung treffen*: {1}

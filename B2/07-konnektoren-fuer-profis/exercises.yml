@@ -17,6 +17,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
     instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: "Anna findet, dass sie immer langsamer vorankommt, je länger sie lernt."
         answer: true
@@ -40,6 +41,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     optionLayout: block
     items:
       - q: "Was sagt Frau Yilmaz über den Zeitplan?"
@@ -77,6 +79,7 @@ exercises:
     title: "Hörtext-Lückentext: Durchsage zum Sprachcafé"
     audio: hoertext.mp3
     instructions: "Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel."
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Three words in the box are not needed."
     text: |
       Liebe Teilnehmerinnen und Teilnehmer, herzlich willkommen zu unserem Sprachcafé.
       Eine kurze Information vorab: {1} mehr Sie heute sprechen, {2} mehr profitieren Sie
@@ -100,6 +103,7 @@ exercises:
     title: "Kurze Ansage: Durchsage im Sprachzentrum"
     audio: transcript_ansage1.mp3
     instructions: "Hör die Durchsage. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the announcement. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     optionLayout: block
     transcript: 'Achtung, eine Durchsage für alle Kursteilnehmer. Der Konversationskurs am Donnerstag fällt heute leider aus, es sei denn, genügend Personen melden sich noch bis vierzehn Uhr an. Je früher Sie sich entscheiden, desto besser können wir planen. Sie können sich anmelden, indem Sie kurz im Sekretariat Bescheid geben. Trotz des Ausfalls bleibt die Bibliothek für alle geöffnet. Sofern Sie Fragen haben, wenden Sie sich bitte an das Sekretariat im ersten Stock. Vielen Dank.'
     items:
@@ -140,6 +144,7 @@ exercises:
     listLayout: true
     title: "je … desto: Komparativ einsetzen"
     instructions: "Setz den Komparativ des Adjektivs in Klammern ein. 8 Items."
+    instructionsEn: "Fill in the comparative of the adjective in brackets. 8 items."
     text: |
       1. Je mehr du übst, desto {1} (gut) wirst du.
       2. Je länger ich lerne, desto {2} (langsam) komme ich voran.
@@ -166,6 +171,7 @@ exercises:
     skill: word-order
     title: "je … desto: Verbposition vervollständigen"
     instructions: "Setz das Verb aus der Klammer an die richtige Stelle. ⚠️ je-Teil: Verb am Ende; desto-Teil: Verb direkt nach dem Komparativ. 6 Items."
+    instructionsEn: "Put the verb in brackets in the correct position. ⚠️ je part: verb at the end; desto part: verb directly after the comparative. 6 items."
     text: |
       1. Je mehr Kaffee ich trinke, desto schlechter {1} (schlafen) ich.
       2. Je genauer die Daten vorliegen, umso schneller {2} (arbeiten) wir.
@@ -186,6 +192,7 @@ exercises:
     type: single-choice
     title: "indem oder sodass?"
     instructions: "Wähle den passenden Konnektor (a, b oder c)."
+    instructionsEn: "Choose the right connector (a, b, or c)."
     items:
       - q: "Man lernt eine Sprache, ____ man sie benutzt. (Mittel)"
         options:
@@ -237,6 +244,7 @@ exercises:
     skill: word-order
     title: "indem / sodass: Verb am Ende"
     instructions: "Setz das Verb aus der Klammer ans Ende des Nebensatzes. 6 Items."
+    instructionsEn: "Put the verb in brackets at the end of the subordinate clause. 6 items."
     text: |
       1. Wir beschleunigen den Prozess, indem wir parallel {1} (arbeiten).
       2. Man verbessert die Aussprache, indem man laut {2} (lesen).
@@ -257,6 +265,7 @@ exercises:
     type: single-choice
     title: "falls, sofern oder es sei denn?"
     instructions: "Wähle den passenden Konnektor (a, b oder c)."
+    instructionsEn: "Choose the right connector (a, b, or c)."
     items:
       - q: "____ zu viele Leute kommen, teilen wir auf. (Bedingung)"
         options:
@@ -301,6 +310,7 @@ exercises:
     skill: word-order
     title: "Bedingung: Verbposition"
     instructions: "Setz das Verb aus der Klammer an die richtige Stelle. ⚠️ falls/sofern: Verb am Ende; nach „es sei denn“ ohne „dass“: Verb in Position 2. 6 Items."
+    instructionsEn: "Put the verb in brackets in the correct position. ⚠️ falls/sofern: verb at the end; after „es sei denn“ without „dass“: verb in position 2. 6 items."
     text: |
       1. Falls die Daten rechtzeitig {1} (vorliegen), schaffen wir es bis Freitag.
       2. Sofern keine Änderungen mehr {2} (kommen), reicht eine Korrekturschleife.
@@ -322,6 +332,7 @@ exercises:
     skill: word-order
     title: "Konzessiv: welche Klasse, welche Wortstellung?"
     instructions: "Wähle die korrekte Form (a, b oder c)."
+    instructionsEn: "Choose the correct form (a, b, or c)."
     items:
       - q: "____ der Termin ehrgeizig ist, halte ich ihn für realistisch. (Nebensatz, Verb am Ende)"
         options:
@@ -366,6 +377,7 @@ exercises:
     skill: word-order
     title: "Konzessiv: Verbposition"
     instructions: "Setz das Verb aus der Klammer an die richtige Stelle. ⚠️ obwohl/obgleich/wenngleich: Verb am Ende; trotzdem/dennoch/gleichwohl in Position 1: Inversion. 6 Items."
+    instructionsEn: "Put the verb in brackets in the correct position. ⚠️ obwohl/obgleich/wenngleich: verb at the end; trotzdem/dennoch/gleichwohl in position 1: inversion. 6 items."
     text: |
       1. Obwohl der Termin ehrgeizig {1} (sein), halte ich ihn für realistisch.
       2. Obgleich die Kosten stiegen, {2} (machen — Präteritum) die Firma Gewinn.
@@ -386,6 +398,7 @@ exercises:
     type: matching
     title: "Konnektor und logische Beziehung verbinden"
     instructions: "Ordne jedem Konnektor (1–6) die passende Funktion (a–f) zu."
+    instructionsEn: "Match each connector (1–6) with its function (a–f)."
     left:
       - { key: "1", text: "indem" }
       - { key: "2", text: "sodass" }
@@ -414,6 +427,7 @@ exercises:
     skill: word-order
     title: "Welche Konnektor-Klasse?"
     instructions: "Ordne jeden Konnektor seiner Wortstellungs-Klasse zu."
+    instructionsEn: "Sort each connector into its word-order class."
     buckets:
       - { key: subjunktion, label: "Subjunktion (Verb am Ende)" }
       - { key: adverb, label: "Konjunktionaladverb (Inversion)" }
@@ -436,6 +450,7 @@ exercises:
     skill: word-order
     title: "Satzbau: je … desto richtig stellen"
     instructions: "Bring die Wörter in die richtige Reihenfolge. ⚠️ je-Teil: Verb am Ende; desto-Teil: Verb direkt nach dem Komparativ."
+    instructionsEn: "Put the words in the correct order. ⚠️ je part: verb at the end; desto part: verb directly after the comparative."
     items:
       - tiles: [Je, mehr, du, übst, desto, besser, wirst, du]
         answer: [0, 1, 2, 3, 4, 5, 6, 7]
@@ -456,6 +471,7 @@ exercises:
     skill: word-order
     title: "Satzbau: Konnektor-Nebensatz und Hauptsatz"
     instructions: "Bring die Wörter in die richtige Reihenfolge. Im Nebensatz steht das Verb am Ende; nach einem Adverb in Position 1 folgt Inversion."
+    instructionsEn: "Put the words in the correct order. In a subordinate clause the verb goes at the end; an adverb in position 1 triggers inversion."
     items:
       - tiles: [indem, man, eine, Sprache, benutzt]
         answer: [0, 1, 2, 3, 4]
@@ -540,6 +556,7 @@ exercises:
     type: matching
     title: "Nebensatz und passenden Hauptsatz verbinden"
     instructions: "Ordne jedem Nebensatz (1–6) den passenden Hauptsatz (a–f) zu."
+    instructionsEn: "Match each subordinate clause (1–6) with the right main clause (a–f)."
     left:
       - { key: "1", text: "Indem wir parallel arbeiten," }
       - { key: "2", text: "Falls zu viele Leute kommen," }
@@ -568,6 +585,7 @@ exercises:
     skill: word-order
     title: "Dialog ergänzen: der Sprachabend"
     instructions: "Füll die 8 Lücken mit dem passenden Konnektor. Ein Wort ist zu viel."
+    instructionsEn: "Fill in the 8 gaps with the right connector. One word is not needed."
     text: |
       — Ich komme nicht voran. {1} länger ich lerne, {2} weniger spreche ich.
       — Das ändert sich, {3} du einfach mehr redest. Komm doch zum Sprachabend!
@@ -593,6 +611,7 @@ exercises:
     skill: word-order
     title: "Satzbau: indem, sodass, falls, es sei denn"
     instructions: "Bring die Wörter in die richtige Reihenfolge. Im Nebensatz steht das Verb am Ende; nach „es sei denn“ ohne „dass“ steht das Verb in Position 2."
+    instructionsEn: "Put the words in the correct order. In a subordinate clause the verb goes at the end; after „es sei denn“ without „dass“ the verb is in position 2."
     items:
       - tiles: [Wir, beschleunigen, den, Prozess, indem, wir, parallel, arbeiten]
         answer: [0, 1, 2, 3, 4, 5, 6, 7]
@@ -613,6 +632,7 @@ exercises:
     skill: word-order
     title: "Wortschatz: Was passt nicht?"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [obwohl, obgleich, wenngleich, trotzdem]
         odd: 3
@@ -633,6 +653,7 @@ exercises:
     skill: word-order
     title: "Welcher Konnektor passt in den Kontext?"
     instructions: "Wähle die logisch und grammatisch passende Variante (a, b oder c)."
+    instructionsEn: "Choose the option that fits logically and grammatically (a, b, or c)."
     items:
       - q: "Wie lernt man am besten? — Man lernt, ____ man die Sprache benutzt."
         options:
@@ -700,6 +721,7 @@ exercises:
     skill: word-order
     title: "Lückentext: Wie man wirklich eine Sprache lernt (Lesetext)"
     instructions: "Füll jede Lücke mit einem Konnektor. 10 Items."
+    instructionsEn: "Fill each gap with a connector. 10 items."
     text: |
       Viele Lernende glauben, man lerne eine Sprache vor allem durch Regeln. Doch eine
       Sprache lernt man vor allem, (1) {1} man sie benutzt. (2) {2} mehr man spricht,
@@ -729,6 +751,7 @@ exercises:
     skill: word-order
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Je mehr du übst, ____ besser wirst du."
         options:
@@ -781,6 +804,7 @@ exercises:
     skill: word-order
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Aus einem Lerntipp-Text: „{1} mehr man eine Sprache benutzt (Proportionalität),
       {2} schneller lernt man. Man macht Fortschritte, {3} man jeden Tag spricht (Mittel).
@@ -813,6 +837,7 @@ exercises:
       > Wichtig ist die Regelmäßigkeit. **Falls** man wochenlang pausiert, vergisst man schnell wieder, was man gelernt hat. Deshalb empfehlen Experten kurze, tägliche Einheiten, **sodass** das Gelernte im Kopf bleibt. **Trotz** aller Apps und Programme gilt am Ende eine einfache Wahrheit: Eine Sprache lebt vom Sprechen. Wer den Mut findet, Fehler zu machen, kommt am weitesten — **es sei denn**, er gibt vorher auf.
 
       Richtig (R) oder falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Laut Text lernt man eine Sprache vor allem dadurch, dass man sie benutzt."
         answer: true
@@ -843,6 +868,7 @@ exercises:
       > indem du es regelmäßig wiederholst. Plane feste Zeiten ein, sodass das Lernen zur
       > Gewohnheit wird. Obwohl Pausen wichtig sind, solltest du nicht wochenlang aussetzen.
       > Bleib dran — es sei denn, du merkst, dass du wirklich erschöpft bist.
+    instructionsEn: "Read the following column and choose a, b, or c."
     items:
       - q: "Woran scheitern laut Text viele Lernende?"
         options:
@@ -908,6 +934,7 @@ exercises:
     listLayout: true
     title: "Gemischter Schnelltest"
     instructions: "Eine Minute pro Item. Keine Notizen. Items mit (B1/xx) oder (B2/xx) wiederholen eine frühere Lektion. 15 Items."
+    instructionsEn: "One minute per item. No notes. Items marked (B1/xx) or (B2/xx) review an earlier lesson. 15 items."
     text: |
       1. Komparativ von „gut": {1}
       2. Konnektor für Mittel/Methode (Wie?): {2}
@@ -947,6 +974,7 @@ exercises:
     skill: word-order
     title: "Odd one out"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [obwohl, obgleich, wenngleich, trotzdem]
         odd: 3
@@ -973,6 +1001,7 @@ exercises:
     listLayout: true
     title: "Rückblick: B1/02, B1/06, B2/01"
     instructions: "Wiederholung früherer Lektionen. 10 Items."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B1/02 (kausale und konzessive Konnektoren):**
       1. „Es regnete. {1} blieben wir zu Hause." (deshalb)

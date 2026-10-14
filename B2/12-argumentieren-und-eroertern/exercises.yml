@@ -17,6 +17,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
     instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: "Pavel muss eine Erörterung zum Thema Homeoffice schreiben."
         answer: true
@@ -40,6 +41,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     optionLayout: block
     items:
       - q: "Worüber möchten Frau Becker und Herr Steinmeyer sprechen?"
@@ -77,6 +79,7 @@ exercises:
     title: "Hörtext-Lückentext: Anruf bei der Redaktion"
     audio: hoertext.mp3
     instructions: "Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel."
+    instructionsEn: "Listen to the Hörtext and fill in the 7 gaps. Three words in the box are not needed."
     text: |
       Guten Tag, mein Name ist Berger. Ich rufe an, weil ich auf Ihren Artikel zur autofreien
       Innenstadt reagieren möchte. {1} finde ich die Grundidee überzeugend, {2} vermisse ich
@@ -102,6 +105,7 @@ exercises:
     title: "Kurze Ansage: Nachricht auf dem Anrufbeantworter einer Zeitung"
     audio: transcript_ansage1.mp3
     instructions: "Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     optionLayout: block
     transcript: 'Guten Tag, hier ist der Anrufbeantworter der Redaktion der Berliner Zeitung. Wir sind heute nur eingeschränkt erreichbar. Wenn Sie einen Leserbrief einsenden möchten, nutzen Sie bitte unsere Online-Adresse. Falls Sie eine Antwort auf einen bereits veröffentlichten Brief erwarten, müssen Sie mit einer Wartezeit von bis zu zehn Werktagen rechnen. Meiner Erfahrung nach lohnt es sich, den Brief sachlich zu formulieren und die wichtigsten Argumente mit Beispielen zu belegen. Sofern Ihr Beitrag überzeugt, wird er in der nächsten Ausgabe abgedruckt. Bitte rufen Sie mich nicht zurück, ich melde mich von selbst. Vielen Dank und auf Wiederhören.'
     items:
@@ -141,6 +145,7 @@ exercises:
     type: matching
     title: "Vokabular der Argumentation zuordnen"
     instructions: "Ordne jeden Begriff (1–6) der richtigen Bedeutung (a–f) zu."
+    instructionsEn: "Match each term (1–6) with the correct meaning (a–f)."
     left:
       - { key: "1", text: "die These" }
       - { key: "2", text: "das Argument" }
@@ -169,6 +174,7 @@ exercises:
     listLayout: true
     title: "Redemittel der Position"
     instructions: "Setze das passende Redemittel ein (Ich bin der Ansicht / Meiner Meinung nach / Meines Erachtens / Meiner Auffassung nach). 6 Items."
+    instructionsEn: "Fill in the appropriate Redemittel (Ich bin der Ansicht / Meiner Meinung nach / Meines Erachtens / Meiner Auffassung nach). 6 items."
     text: |
       1. {1}, dass Homeoffice mehr Vorteile als Nachteile hat.
       2. {2} überwiegen die Vorteile, sofern klare Regeln bestehen.
@@ -190,6 +196,7 @@ exercises:
     listLayout: true
     title: "Architektur der Erörterung — Lücken füllen"
     instructions: "Setze das passende Wort ein (These, Argument, Beleg, Beispiel, Fazit, Widerlegung, Einleitung, Hauptteil, Schluss). 8 Items, 9 Lücken."
+    instructionsEn: "Fill in the appropriate word (These, Argument, Beleg, Beispiel, Fazit, Widerlegung, Einleitung, Hauptteil, Schluss). 8 items, 9 gaps."
     text: |
       1. Die {1} führt zum Thema hin und nennt die strittige Frage.
       2. Am Ende der Einleitung steht die {2} — die klare Position.
@@ -215,6 +222,7 @@ exercises:
     type: single-choice
     title: "Welches Redemittel passt?"
     instructions: "Wähle das passende Redemittel (a, b oder c)."
+    instructionsEn: "Choose the appropriate Redemittel (a, b, or c)."
     items:
       - q: "Du willst deine persönliche Meinung klar formulieren. Welches Redemittel passt am besten?"
         options:
@@ -265,6 +273,7 @@ exercises:
     listLayout: true
     title: "Zweiteilige Konnektoren ergänzen"
     instructions: "Setze den passenden zweiten Teil ein (sondern auch / als auch / oder / noch / aber). 6 Items."
+    instructionsEn: "Fill in the matching second part (sondern auch / als auch / oder / noch / aber). 6 items."
     text: |
       1. Nicht nur die Arbeitgeber, {1} die Beschäftigten profitieren.
       2. Sowohl die Umwelt {2} die Anwohner profitieren.
@@ -285,6 +294,7 @@ exercises:
     type: order
     title: "Satzbau: Einleitung einer Erörterung"
     instructions: "Bring die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: [Ich, bin, der, Ansicht, dass, Homeoffice, Vorteile, hat]
         answer: [0, 1, 2, 3, 4, 5, 6, 7]
@@ -302,6 +312,7 @@ exercises:
     listLayout: true
     title: "Konnektoren aus B2/07 einsetzen"
     instructions: "Setze den passenden Konnektor ein (obwohl / dennoch / je … desto / indem / sofern). 4 Items, 5 Lücken."
+    instructionsEn: "Fill in the appropriate connector (obwohl / dennoch / je … desto / indem / sofern). 4 items, 5 gaps."
     text: |
       1. {1} viele Beschäftigte Homeoffice wünschen, bleiben die meisten im Büro.
       2. Die Erfahrungen sind zwar gemischt, {2} überwiegen die positiven Berichte.
@@ -319,6 +330,7 @@ exercises:
     type: single-choice
     title: "Pro oder Contra?"
     instructions: "Wähle: handelt es sich um ein Pro-Argument (a), ein Contra-Argument (b) oder eine neutrale Feststellung (c)?"
+    instructionsEn: "Choose: is it a pro argument (a), a contra argument (b), or a neutral statement (c)?"
     items:
       - q: '„Homeoffice spart Pendelzeit."'
         options:
@@ -361,6 +373,7 @@ exercises:
     type: categorize
     title: "Argumentations-Werkzeuge sortieren"
     instructions: "Ordne jedes Redemittel der richtigen Aufgabe zu."
+    instructionsEn: "Assign each Redemittel to the correct function."
     buckets:
       - { key: position, label: "Position beziehen" }
       - { key: argument, label: "Argument einleiten / stützen / widerlegen" }
@@ -382,6 +395,7 @@ exercises:
     type: odd-one-out
     title: "Was passt nicht in die Erörterung?"
     instructions: "Streiche den Ausdruck, der nicht zu den anderen passt, und erkläre warum."
+    instructionsEn: "Cross out the expression that does not fit with the others and explain why."
     groups:
       - items: [These, Argument, Beleg, Dekoration]
         odd: 3
@@ -404,6 +418,7 @@ exercises:
     type: gap-bank
     title: "Redemittel im Kontext einsetzen"
     instructions: "Füll die 8 Lücken mit Redemitteln aus dem Kasten. Zwei Ausdrücke sind zu viel."
+    instructionsEn: "Fill in the 8 gaps with Redemittel from the box. Two expressions are not needed."
     text: |
       {1}, dass Homeoffice mehr Vorteile als Nachteile hat. {2} spricht die bessere
       Vereinbarkeit von Beruf und Familie. {3} spricht die fehlende Teamkommunikation.
@@ -507,6 +522,7 @@ exercises:
     listLayout: true
     title: "Leserbrief — Redemittel einsetzen"
     instructions: "Füll die 10 Lücken mit passenden Redemitteln (Ich bin der Ansicht / Meiner Meinung nach / einerseits / andererseits / Dafür spricht / Dagegen spricht / Als Beleg / Diesem Argument ist entgegenzuhalten / Zusammenfassend / Alles in allem)."
+    instructionsEn: "Fill in the 10 gaps with appropriate Redemittel (Ich bin der Ansicht / Meiner Meinung nach / einerseits / andererseits / Dafür spricht / Dagegen spricht / Als Beleg / Diesem Argument ist entgegenzuhalten / Zusammenfassend / Alles in allem)."
     text: |
       Sehr geehrte Redaktion,
       {1} auf Ihren Artikel vom 5. Mai möchte ich kurz reagieren.
@@ -535,6 +551,7 @@ exercises:
     type: single-choice
     title: "Welcher Satz passt in welche Sektion?"
     instructions: "Ordne den Satz (a, b oder c) der richtigen Sektion der Erörterung zu."
+    instructionsEn: "Assign the sentence to the correct section of the Erörterung (a, b, or c)."
     items:
       - q: "Einleitung:"
         options:
@@ -570,6 +587,7 @@ exercises:
     type: matching
     title: "Konnektoren-Klassen zuordnen"
     instructions: "Ordne jeden Konnektor (1–6) seiner Wortstellungs-Klasse (a–c) zu."
+    instructionsEn: "Match each connector (1–6) with its word-order class (a–c)."
     left:
       - { key: "1", text: "obwohl" }
       - { key: "2", text: "dennoch" }
@@ -594,6 +612,7 @@ exercises:
     type: gap-bank
     title: "Erörterung ergänzen — Bausteine einsetzen"
     instructions: "Füll die 8 Lücken mit Bausteinen aus dem Kasten. Zwei Wörter sind zu viel."
+    instructionsEn: "Fill in the 8 gaps with building blocks from the box. Two words are not needed."
     text: |
       {1}, dass Homeoffice mehr Vor- als Nachteile hat. {2} spricht vor allem die messbare
       Zeitersparnis. {3} dient eine Studie der TU Berlin aus 2024. Allerdings gibt es auch
@@ -681,6 +700,7 @@ exercises:
     listLayout: true
     title: "Lückentext: Streitkultur in der Redaktion (Lesetext)"
     instructions: "Füll jede Lücke mit einem passenden Wort (Redemittel, Nomen oder Konnektor). 10 Items."
+    instructionsEn: "Fill each gap with a suitable word (Redemittel, noun, or connector). 10 items."
     text: |
       Eine Tageszeitung lebt von Meinungen, aber auch vom Streit um sie. (1) {1} ist diese
       Vielfalt ein Zeichen für eine lebendige Demokratie. (2) {2} beklagen Redaktionen seit
@@ -712,6 +732,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Ich _______ der Ansicht, dass Homeoffice mehr Vorteile als Nachteile hat."
         options:
@@ -763,6 +784,7 @@ exercises:
     bankSort: true
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Aus einem Leserbrief an die Redaktion: „Ich {1} der Ansicht, dass die autofreie
       Innenstadt mehr Vorteile als Nachteile hat. Dafür {2} vor allem die messbar bessere
@@ -796,6 +818,7 @@ exercises:
       > **Obwohl** nicht jeder Leserbrief perfekt sein muss, **so steigt** doch die Qualität der Debatte, **indem** die Zeitung kurze Leitfäden für gute Zuschriften veröffentlicht. **Sofern** die Redaktion solche Hilfen anbietet, **werden** Leserbriefe zu dem, was sie sein sollten: kleine, gut begründete Erörterungen. **Je** mehr gute Briefe erscheinen, **desto** lebendiger wird die öffentliche Debatte — **es sei denn**, die Bereitschaft zum Argumentieren geht weiter zurück.
 
       Richtig (R) oder falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Im Lesetext wird gesagt, dass die meisten Leserbriefe Belege und Beispiele enthalten."
         answer: false
@@ -831,6 +854,7 @@ exercises:
       > rechtzeitig eingebunden werden. Ich würde mich freuen, wenn die Redaktion in Zukunft
       > auch die positiven Beispiele aus anderen Städten berücksichtigen würde.
       > Mit freundlichen Grüßen, Anna Berg
+    instructionsEn: "Read the following letter and choose a, b, or c."
     items:
       - q: "Welche Position vertritt die Verfasserin?"
         options:
@@ -903,7 +927,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Gemischter Schnelltest"
-    instructions: "Eine Minute pro Item. Keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 15 Items."
+    instructions: "Eine Minute pro Item. Keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 14 Items, 15 Lücken."
+    instructionsEn: "One minute per item. No notes. Items marked (B2/xx) or (B1/xx) review an earlier lesson. 14 items, 15 gaps."
     text: |
       **Argumentations-Vokabular:**
       1. „Das, was aus den Argumenten folgt" = die {1}
@@ -948,6 +973,7 @@ exercises:
     type: odd-one-out
     title: "Odd one out"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [These, Argument, Beleg, Dekoration]
         odd: 3
@@ -973,7 +999,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: "Rückblick: B2/07, B2/08, B1/10"
-    instructions: "Wiederholung früherer Lektionen. 10 Items."
+    instructions: "Wiederholung früherer Lektionen. 9 Items, 10 Lücken."
+    instructionsEn: "Review of earlier lessons. 9 items, 10 gaps."
     text: |
       **Aus B2/07 (Konnektoren für Profis):**
       1. „Je mehr du übst, {1} besser wirst du."

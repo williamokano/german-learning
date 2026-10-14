@@ -17,6 +17,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog A (informell)"
     audio: dialog1_a.mp3
     instructions: "Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?"
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: "Anna soll im Meeting eine Rede halten."
         answer: true
@@ -40,6 +41,7 @@ exercises:
     title: "Dialog Hör-Check: Dialog B (formell)"
     audio: dialog1_b.mp3
     instructions: "Hör Dialog B und wähle die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     optionLayout: block
     items:
       - q: "Worauf möchte Frau Yilmaz zu Beginn Bezug nehmen?"
@@ -77,6 +79,7 @@ exercises:
     title: "Hörtext-Lückentext: Nachricht auf der Mailbox"
     audio: hoertext.mp3
     instructions: "Hör den Hörtext und füll die 7 Lücken. Drei Wörter im Kasten sind zu viel."
+    instructionsEn: "Listen to the Hörtext and fill in the 7 gaps. Three words in the box are not needed."
     text: |
       Guten Tag, Frau Yilmaz, hier spricht Steinmeyer. Ich möchte kurz {1} auf unser Meeting
       von gestern nehmen. Bevor wir am Freitag eine endgültige {2} treffen, sollten wir das
@@ -100,6 +103,7 @@ exercises:
     title: "Kurze Ansage: Nachricht aus dem Sekretariat"
     audio: transcript_ansage1.mp3
     instructions: "Hör die Nachricht auf dem Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest."
+    instructionsEn: "Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     optionLayout: block
     transcript: 'Guten Tag, Herr Berger, hier ist das Sekretariat der Abteilung Einkauf. Es geht um die Sitzung am Donnerstag. Die Geschäftsführung möchte zum Ausdruck bringen, dass die Frage des neuen Lieferanten unbedingt zur Sprache kommen soll. Bitte halten Sie dazu eine kurze Rede und stellen Sie uns Ihre Unterlagen vorher zur Verfügung. Eine Verschiebung der Sitzung kommt leider nicht in Frage. Bei Rückfragen rufen Sie mich bitte zurück. Vielen Dank und auf Wiederhören.'
     items:
@@ -140,6 +144,7 @@ exercises:
     listLayout: true
     title: "Das richtige Funktionsverb"
     instructions: "Setze das passende Funktionsverb im Infinitiv ein (treffen, stellen, üben, halten, nehmen, ziehen). 8 Items."
+    instructionsEn: "Fill in the matching Funktionsverb in the infinitive (treffen, stellen, üben, halten, nehmen, ziehen). 8 items."
     text: |
       1. eine Entscheidung {1}
       2. eine Frage {2}
@@ -165,6 +170,7 @@ exercises:
     listLayout: true
     title: "FVG → Vollverb"
     instructions: "Schreib das einfache Vollverb (Infinitiv) zu jedem Funktionsverbgefüge. 8 Items."
+    instructionsEn: "Write the simple full verb (infinitive) for each Funktionsverbgefüge. 8 items."
     text: |
       1. eine Entscheidung treffen → {1}
       2. eine Frage stellen → {2}
@@ -190,6 +196,7 @@ exercises:
     listLayout: true
     title: "Vollverb → FVG"
     instructions: "Schreib das passende Funktionsverbgefüge zum Vollverb. 6 Items."
+    instructionsEn: "Write the matching Funktionsverbgefüge for the full verb. 6 items."
     text: |
       1. entscheiden → eine Entscheidung {1}
       2. fragen → eine {2} stellen
@@ -210,6 +217,7 @@ exercises:
     type: single-choice
     title: "Welches Funktionsverb ist richtig?"
     instructions: "Wähle das feste Funktionsverb (a, b oder c). ⚠️ Nicht alles, was im Englischen mit „make“ geht, geht im Deutschen mit „machen“."
+    instructionsEn: "Choose the fixed Funktionsverb (a, b, or c). ⚠️ Not everything that works with “make” in English works with „machen“ in German."
     items:
       - q: "eine Entscheidung …"
         options:
@@ -260,6 +268,7 @@ exercises:
     listLayout: true
     title: "Feste Präposition einsetzen"
     instructions: "Setze die feste Präposition des Funktionsverbgefüges ein (auf, an, von). 6 Items."
+    instructionsEn: "Fill in the fixed preposition of the Funktionsverbgefüge (auf, an, von). 6 items."
     text: |
       1. Ich nehme Bezug {1} Ihren Brief.
       2. Sie übt Kritik {2} dem Verfahren.
@@ -281,6 +290,7 @@ exercises:
     listLayout: true
     title: "Präposition + richtiger Kasus"
     instructions: "Ergänze Präposition und Artikel im richtigen Kasus. ⚠️ Bezug nehmen auf + Akkusativ; Kritik üben an + Dativ; Abschied nehmen von + Dativ. 6 Items."
+    instructionsEn: "Fill in the preposition and article in the correct case. ⚠️ Bezug nehmen auf + Akkusativ; Kritik üben an + Dativ; Abschied nehmen von + Dativ. 6 items."
     text: |
       1. Ich nehme Bezug {1} (der Bericht, m.).
       2. Er übt Kritik {2} (der Plan, m.).
@@ -301,6 +311,7 @@ exercises:
     type: gap-bank
     title: "in Frage / in Betracht / in Kauf — ohne Artikel"
     instructions: "Füll die Lücken mit dem festen Nomen (ohne Artikel). Zwei Wörter sind zu viel."
+    instructionsEn: "Fill in the gaps with the fixed noun (without article). Two words are not needed."
     text: |
       1. Dieser Termin kommt für uns nicht in {1}.
       2. Wir sollten alle Optionen in {2} ziehen.
@@ -320,6 +331,7 @@ exercises:
     type: matching
     title: "FVG und Bedeutung verbinden"
     instructions: "Ordne jedem Funktionsverbgefüge (1–6) das passende Vollverb / die Bedeutung (a–f) zu."
+    instructionsEn: "Match each Funktionsverbgefüge (1–6) with the matching full verb / meaning (a–f)."
     left:
       - { key: "1", text: "in Betracht ziehen" }
       - { key: "2", text: "in Frage stellen" }
@@ -347,6 +359,7 @@ exercises:
     type: categorize
     title: "FVG oder Vollverb?"
     instructions: "Ordne jeden Ausdruck dem richtigen Stil zu."
+    instructionsEn: "Sort each expression into the correct style."
     buckets:
       - { key: fvg, label: "Funktionsverbgefüge (formell)" }
       - { key: vollverb, label: "Vollverb (klar/gesprochen)" }
@@ -366,6 +379,7 @@ exercises:
     listLayout: true
     title: "in Frage kommen oder in Frage stellen?"
     instructions: "Setze kommt oder stellt ein. ⚠️ in Frage kommen = möglich sein; in Frage stellen = bezweifeln. 5 Items."
+    instructionsEn: "Fill in kommt or stellt. ⚠️ in Frage kommen = to be possible; in Frage stellen = to doubt. 5 items."
     text: |
       1. Dieser Liefertermin {1} für uns nicht in Frage. (= ist nicht möglich)
       2. Niemand {2} das Ergebnis in Frage. (= bezweifelt es)
@@ -384,6 +398,7 @@ exercises:
     type: order
     title: "Satzbau: FVG im Hauptsatz"
     instructions: "Bring die Wörter in die richtige Reihenfolge. Das Funktionsverb steht in Position 2, das Nomen am Ende."
+    instructionsEn: "Put the words in the correct order. The Funktionsverb is in position 2, the noun at the end."
     items:
       - tiles: [Der, Vorstand, trifft, eine, Entscheidung]
         answer: [0, 1, 2, 3, 4]
@@ -465,6 +480,7 @@ exercises:
     type: matching
     title: "Funktionsverb und Nomen verbinden"
     instructions: "Ordne jedem Nomen (1–6) das feste Funktionsverb (a–f) zu, das dazugehört."
+    instructionsEn: "Match each noun (1–6) with the fixed Funktionsverb (a–f) that goes with it."
     left:
       - { key: "1", text: "eine Entscheidung" }
       - { key: "2", text: "eine Frage" }
@@ -492,6 +508,7 @@ exercises:
     type: gap-bank
     title: "Protokoll ergänzen: Funktionsverben"
     instructions: "Füll die 8 Lücken mit dem passenden Funktionsverb (richtige Form). Zwei Wörter sind zu viel."
+    instructionsEn: "Fill in the 8 gaps with the matching Funktionsverb (correct form). Two words are not needed."
     text: |
       Protokoll der Sitzung vom Montag: Zu Beginn {1} Frau Yilmaz auf den letzten Bericht
       Bezug. Der Kostenfaktor {2} weiterhin eine große Rolle. Herr Steinmeyer {3} Kritik am
@@ -515,6 +532,7 @@ exercises:
     type: order
     title: "Satzbau: FVG mit fester Präposition"
     instructions: "Bring die Wörter in die richtige Reihenfolge."
+    instructionsEn: "Put the words in the correct order."
     items:
       - tiles: [Die, Gewerkschaft, übt, Kritik, an, der, Entscheidung]
         answer: [0, 1, 2, 3, 4, 5, 6]
@@ -534,6 +552,7 @@ exercises:
     type: odd-one-out
     title: "Wortschatz: Was passt nicht?"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [treffen, stellen, üben, machen]
         odd: 3
@@ -553,6 +572,7 @@ exercises:
     type: single-choice
     title: "Welcher Stil passt zum Kontext?"
     instructions: "Wähle die stilistisch passendere Variante (a oder b)."
+    instructionsEn: "Choose the stylistically more appropriate variant (a or b)."
     items:
       - q: "In einem offiziellen Sitzungsprotokoll:"
         options:
@@ -607,6 +627,7 @@ exercises:
     listLayout: true
     title: "Lückentext: Warum die Berufssprache so funktioniert (Lesetext)"
     instructions: "Füll jede Lücke mit einem Wort (Funktionsverb, Nomen oder Präposition). 10 Items."
+    instructionsEn: "Fill each gap with one word (Funktionsverb, noun, or preposition). 10 items."
     text: |
       Wer zum ersten Mal ein Protokoll liest, wundert sich über die Sprache. Niemand
       „entscheidet" — man (1) {1} eine Entscheidung. Niemand „fragt" — man stellt eine
@@ -637,6 +658,7 @@ exercises:
     type: single-choice
     title: "Sprachbausteine Teil 1"
     instructions: "Wähle die richtige Option (a, b oder c) für jede Lücke."
+    instructionsEn: "Choose the correct option (a, b, or c) for each gap."
     items:
       - q: "Wir müssen heute eine wichtige Entscheidung ____."
         options:
@@ -688,6 +710,7 @@ exercises:
     bankSort: true
     title: "Sprachbausteine Teil 2 (Wortbank)"
     instructions: "Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt."
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Aus einem Geschäftsbericht: Der Vorstand {1} im Mai eine wichtige Entscheidung. Zuvor
       hatte das Team Kritik {2} dem alten Verfahren geübt und mehrere Probleme {3} Sprache
@@ -720,6 +743,7 @@ exercises:
       > Trotz dieser Vorteile gilt auch hier eine Grenze: Ein Text, der nur aus Funktionsverbgefügen besteht, ist genauso schwer zu lesen wie reiner Nominalstil. Deshalb raten gute Stilratgeber zu einer Mischung. Man bringt die wichtigen Punkte formell zum Ausdruck, erklärt sie aber in klaren, verbalen Sätzen. Wer beides beherrscht und je nach Situation wechseln kann, hat den entscheidenden Schritt vom „Deutsch der Prüfung" zum „Deutsch des Berufs" getan.
 
       Richtig (R) oder falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "In der Berufswelt sagt man statt „entscheiden“ oft „eine Entscheidung treffen“."
         answer: true
@@ -751,6 +775,7 @@ exercises:
       > aus Kostengründen nicht in Frage. Man traf die Entscheidung, das Thema in der
       > nächsten Sitzung erneut zur Sprache zu bringen. Die Unterlagen stehen allen
       > Teilnehmenden ab sofort zur Verfügung.
+    instructionsEn: "Read the following minutes and choose a, b, or c."
     items:
       - q: "Worauf nahm Frau Berger zu Beginn Bezug?"
         options:
@@ -817,6 +842,7 @@ exercises:
     listLayout: true
     title: "Gemischter Schnelltest"
     instructions: "Eine Minute pro Item. Keine Notizen. Items mit (B2/xx) bzw. (B1/xx) wiederholen eine frühere Lektion. 15 Items."
+    instructionsEn: "One minute per item. No notes. Items marked (B2/xx) or (B1/xx) review an earlier lesson. 15 items."
     text: |
       1. Funktionsverb zu „eine Entscheidung …": {1}
       2. Funktionsverb zu „eine Frage …": {2}
@@ -855,6 +881,7 @@ exercises:
     type: odd-one-out
     title: "Odd one out"
     instructions: "Streiche das Wort, das nicht passt, und erkläre warum."
+    instructionsEn: "Cross out the word that does not fit and explain why."
     groups:
       - items: [treffen, stellen, üben, machen]
         odd: 3
@@ -881,6 +908,7 @@ exercises:
     listLayout: true
     title: "Rückblick: B2/01, B1/08, B1/12"
     instructions: "Wiederholung früherer Lektionen. 10 Items."
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B2/01 (Nominalstil und Verbalstil):**
       1. Nominalisierung von „verbessern" (mit Artikel): {1}

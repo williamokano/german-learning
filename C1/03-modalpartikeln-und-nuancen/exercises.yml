@@ -17,6 +17,7 @@ exercises:
     title: 'Dialog Hör-Check: Dialog A (informell — Teeküche)'
     audio: dialog1_a.mp3
     instructions: 'Hör Dialog A und entscheide: Richtig (R) oder Falsch (F)?'
+    instructionsEn: "Listen to Dialog A and decide: true (R) or false (F)?"
     items:
       - q: 'Lukas kommt direkt aus einem Meeting mit dem neuen Kunden.'
         answer: true
@@ -40,6 +41,7 @@ exercises:
     title: 'Dialog Hör-Check: Dialog B (formell — Telefonat)'
     audio: dialog1_b.mp3
     instructions: 'Hör Dialog B und wähle die richtige Antwort (a, b oder c).'
+    instructionsEn: "Listen to Dialog B and choose the correct answer (a, b, or c)."
     optionLayout: block
     items:
       - q: 'Welche Funktion hat Frau Hoffmann im Dialog?'
@@ -77,6 +79,7 @@ exercises:
     title: 'Hörtext-Lückentext: Ein Podcast über Sprache und Höflichkeit'
     audio: hoertext.mp3
     instructions: 'Hör den Hörtext und füll die 6 Lücken. Drei Wörter im Kasten sind zu viel.'
+    instructionsEn: "Listen to the Hörtext and fill in the 6 gaps. Three words in the box are not needed."
     text: |
       Liebe Hörerinnen und Hörer, ich möchte Ihnen heute ein Thema {1}, das im
       Deutschen oft unterschätzt wird: die kleinen Wörter, die unsere Sprache
@@ -99,6 +102,7 @@ exercises:
     title: 'Kurze Ansage: Anrufbeantworter einer Sprachschule'
     audio: transcript_ansage1.mp3
     instructions: 'Hör den Anrufbeantworter. Wähle dann die richtige Antwort (a, b oder c). Hör einmal, bevor du das Transkript unten liest.'
+    instructionsEn: "Listen to the answerphone message. Then choose the correct answer (a, b, or c). Listen once before reading the transcript below."
     optionLayout: block
     transcript: 'Guten Tag, Sie haben die Sprachschule Lingua Viva in Berlin-Mitte erreicht. Wir sind heute, am Freitag, dem 27. Juni, leider nicht persönlich für Sie da. Aufgrund einer internen Fortbildung ist unsere telefonische Erreichbarkeit derzeit eingeschränkt. Bitte hinterlassen Sie Ihren Namen, Ihre Telefonnummer und das gewünschte Sprachniveau nach dem Signalton. Für Anfragen zu unseren C1-Kursen wenden Sie sich bitte an die Hotline 030-44 55 66. Bitte rufen Sie mich zurück unter dieser Nummer. Vielen Dank für Ihr Interesse und einen schönen Tag.'
     items:
@@ -137,6 +141,7 @@ exercises:
     title: 'Tabelle ausfüllen: Dialog B (Telefonat Schriftsatz)'
     audio: dialog1_b.mp3
     instructions: 'Hör Dialog B noch einmal und füll die Tabelle aus. In jeder Zeile fehlt eine Information.'
+    instructionsEn: "Listen to Dialog B again and complete the table. One piece of information is missing in each row."
     columns: ['Person', 'Rolle', 'Aufgabe / Bitte', 'Zeitpunkt']
     rows:
       - label: 'Tomáš'
@@ -171,6 +176,7 @@ exercises:
     type: single-choice
     title: 'Welche Modalpartikel passt zur beschriebenen Wirkung?'
     instructions: 'Wähle die passende Modalpartikel (a, b oder c) zur angegebenen Wirkung.'
+    instructionsEn: "Choose the modal particle (a, b, or c) that matches the given effect."
     items:
       - q: 'Wirkung: Bekräftigung, sanftes Drängen.'
         options:
@@ -235,6 +241,7 @@ exercises:
     listLayout: true
     title: 'Modalpartikeln in Sätze einsetzen'
     instructions: 'Setze die passende Modalpartikel ein. 8 Items.'
+    instructionsEn: "Insert the appropriate modal particle. 8 items."
     text: |
       1. „Komm {1} mit ins Kino!" (Bekräftigung, werbend)
       2. „Schau {2} …" (Auflockerung)
@@ -259,6 +266,7 @@ exercises:
     type: matching
     title: 'Modalpartikel — Bedeutung — Beispielsatz'
     instructions: 'Ordne jeder Modalpartikel (1–6) das passende Beispielsatzpaar (a–f) zu.'
+    instructionsEn: "Match each modal particle (1–6) with the appropriate pair of example sentences (a–f)."
     left:
       - { key: '1', text: 'doch' }
       - { key: '2', text: 'mal' }
@@ -287,6 +295,7 @@ exercises:
     listLayout: true
     title: 'Mittelfeld-Stellung der Modalpartikel'
     instructions: 'Setze die Modalpartikel an die richtige Stelle (Mittelfeld). 6 Items.'
+    instructionsEn: "Put the modal particle in the correct position (Mittelfeld). 6 items."
     text: |
       1. „Ich würde sagen mal, dass das funktioniert." → „Ich würde {1} sagen, dass …"
       2. „Kannst du herkommen mal?" → „Kannst du {2} herkommen?"
@@ -307,6 +316,7 @@ exercises:
     type: matching
     title: 'Modalpartikel, Konjunktion oder Adverb?'
     instructions: 'Ordne jedem Wort (1–6) die passende Wortart zu (a–f).'
+    instructionsEn: "Match each word (1–6) with its word class (a–f)."
     left:
       - { key: '1', text: 'weil' }
       - { key: '2', text: 'wahrscheinlich' }
@@ -335,6 +345,7 @@ exercises:
     listLayout: true
     title: 'Konjunktiv II + Modalpartikel'
     instructions: 'Forme die direkten Bitten in höfliche Bitten mit Konjunktiv II + Modalpartikel um. 5 Items.'
+    instructionsEn: "Rewrite the direct requests as polite requests using Konjunktiv II + a modal particle. 5 items."
     text: |
       1. „Haben Sie eine Visitenkarte?" → „{1} Sie {2} eine Visitenkarte?"
       2. „Können Sie das übersetzen?" → „Könnten Sie das {3} übersetzen?"
@@ -354,6 +365,7 @@ exercises:
     type: gap-bank
     title: 'Konjunktiv II + Modalpartikel: Höflichkeitsmuster'
     instructions: 'Füll die 5 Lücken mit der passenden Form aus dem Kasten. Drei Elemente sind zu viel.'
+    instructionsEn: "Fill in the 5 gaps with the appropriate form from the box. Three items are not needed."
     text: |
       1. „Ich würde {1} vorschlagen, dass wir das Thema vertagen."
       2. „{2} Sie {3} einen Moment Zeit für mich?"
@@ -380,6 +392,7 @@ exercises:
     type: single-choice
     title: 'Registerbruch: Modalpartikel im falschen Register'
     instructions: 'Welche Variante passt zur angegebenen Situation? Wähle (a), (b) oder (c).'
+    instructionsEn: "Which version fits the given situation? Choose (a), (b), or (c)."
     items:
       - q: 'In einer formellen E-Mail an den Vorgesetzten:'
         options:
@@ -422,6 +435,7 @@ exercises:
     type: order
     title: 'Satzbau: Modalpartikel im Mittelfeld'
     instructions: 'Bring die Wörter in die richtige Reihenfolge. Die Modalpartikel steht direkt nach dem finiten Verb.'
+    instructionsEn: "Put the words in the correct order. The modal particle comes directly after the finite verb."
     items:
       - tiles: [Komm, doch, mit, ins, Kino]
         answer: [0, 1, 2, 3, 4]
@@ -441,6 +455,7 @@ exercises:
     type: odd-one-out
     title: 'Welche Modalpartikel passt nicht zur Wirkung?'
     instructions: 'Streiche die Modalpartikel, die nicht zur angegebenen Wirkung passt, und erkläre warum.'
+    instructionsEn: "Cross out the modal particle that does not match the given effect, and explain why."
     groups:
       - items: [doch, ja, mal, wohl]
         odd: 3
@@ -465,6 +480,7 @@ exercises:
     type: gap-bank
     title: 'Formelle E-Mail mit Modalpartikeln (sparsam!)'
     instructions: 'Füll die 7 Lücken mit der passenden Form aus dem Kasten. Fünf Elemente sind zu viel.'
+    instructionsEn: "Fill in the 7 gaps with the appropriate form from the box. Five items are not needed."
     text: |
       Sehr geehrte Frau Doktor Hoffmann,
       vielen Dank für Ihre {1}. Ich {2} Ihnen gerne mitteilen,
@@ -521,6 +537,7 @@ exercises:
     type: single-choice
     title: 'Welche Modalpartikel passt in den Kontext?'
     instructions: 'Wähle die Modalpartikel (a, b oder c), die im Kontext am besten passt.'
+    instructionsEn: "Choose the modal particle (a, b, or c) that fits the context best."
     items:
       - q: '„Ich weiß, ____ du heute viel zu tun hast." (Erinnerung an Bekanntes)'
         options:
@@ -583,6 +600,7 @@ exercises:
     listLayout: true
     title: 'Modalpartikeln in Nebensätzen (Konnektoren)'
     instructions: 'Setze je eine passende Modalpartikel ein. 6 Items.'
+    instructionsEn: "Insert one appropriate modal particle in each sentence. 6 items."
     text: |
       1. Ich bleibe zu Hause, weil ich {1} müde bin. (Resignation)
       2. Es ist schade, dass du {2} nicht kommen kannst. (Reflexion)
@@ -603,6 +621,7 @@ exercises:
     type: matching
     title: 'Feine Unterschiede: Modalpartikel-Paare'
     instructions: 'Ordne jedem Modalpartikel-Paar (1–6) den richtigen Unterschied (a–f) zu.'
+    instructionsEn: "Match each pair of modal particles (1–6) with the correct difference (a–f)."
     left:
       - { key: '1', text: 'halt vs. eben' }
       - { key: '2', text: 'doch vs. mal' }
@@ -631,6 +650,7 @@ exercises:
     listLayout: true
     title: 'Modalpartikeln im gesprochenen vs. schriftlichen Register'
     instructions: 'Schreibe die umgangssprachlichen Sätze standardsprachlich. Ersetze die Modalpartikel durch das passende Adverb oder eine gehobene Form. 6 Items.'
+    instructionsEn: "Rewrite the colloquial sentences in standard German. Replace the modal particle with the appropriate adverb or a more formal form. 6 items."
     text: |
       1. „Das ist halt nicht ganz richtig." → standardsprachlich: „Das ist {1} nicht ganz richtig."
       2. „Er wird wohl krank sein." → standardsprachlich: „Er ist {2} krank."
@@ -651,6 +671,7 @@ exercises:
     type: single-choice
     title: 'Modalpartikel + Modalverb: Welche Kombination passt?'
     instructions: 'Wähle die passende Kombination (a, b oder c) zur beschriebenen Wirkung.'
+    instructionsEn: "Choose the combination (a, b, or c) that matches the described effect."
     items:
       - q: 'Wirkung: Befehl höflicher machen.'
         options:
@@ -716,6 +737,7 @@ exercises:
     listLayout: true
     title: 'Lückentext: Modalpartikeln und Nuancen'
     instructions: 'Füll jede Lücke mit **einem** passenden Wort (Modalpartikel, Konjunktiv-II-Form oder Verbform). 10 Items.'
+    instructionsEn: "Fill each gap with **one** suitable word (modal particle, Konjunktiv II form, or verb form). 10 items."
     text: |
       Modalpartikeln sind das Geheimnis der gesprochenen deutschen Sprache.
       Wer sie beherrscht, klingt wie ein Muttersprachler; wer sie ignoriert,
@@ -747,6 +769,7 @@ exercises:
     type: single-choice
     title: 'Sprachbausteine Teil 1'
     instructions: 'Wähle die stilistisch und grammatisch passende Option (a, b oder c) für jede Lücke.'
+    instructionsEn: "Choose the stylistically and grammatically appropriate option (a, b, or c) for each gap."
     items:
       - q: '„Könnten Sie ____ kurz das Salz reichen?"'
         options:
@@ -798,6 +821,7 @@ exercises:
     bankSort: true
     title: 'Sprachbausteine Teil 2 (Wortbank)'
     instructions: 'Füll die 10 Lücken mit Wörtern aus dem Kasten. Fünf Wörter sind zu viel. Jedes Wort wird nur einmal benutzt.'
+    instructionsEn: "Fill in the 10 gaps with words from the box. Five words are not needed. Each word is used only once."
     text: |
       Aus einem Sprachratgeber: „Acht kleine Wörter tragen mehr {1}, als man
       ihnen auf den ersten Blick {2} würde. *Komm!* ist ein {3}, *Komm
@@ -832,6 +856,7 @@ exercises:
       > In der geschriebenen Sprache freilich, und das ist der entscheidende Punkt, sind Modalpartikeln sparsam zu verwenden. Eine E-Mail an den Vorgesetzten verträgt einmal ein „würden Sie mal" oder ein „das ist ja eigentlich kein Problem". Mehr wirkt deplatziert — das geschriebene Wort hat andere Konventionen als das gesprochene.
 
       Richtig (R) oder Falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: 'Laut Text sind Modalpartikeln das „heimliche Rückgrat" der deutschen Sprache.'
         answer: true
@@ -867,6 +892,7 @@ exercises:
       >
       > **Beitrag 4 — Tomáš_N (User):**
       > Eigentlich finde ich, dass die Diskussion viel zu theoretisch geführt wird. Wer schreibt, sollte halt auf sein Sprachgefühl hören — dann passt das schon.
+    instructionsEn: "Read the following forum posts and choose a, b, or c."
     items:
       - q: 'Welche Modalpartikel benutzt Anna_B (Beitrag 2) besonders häufig?'
         options:
@@ -924,7 +950,8 @@ exercises:
     type: gap-text
     listLayout: true
     title: 'Gemischter Schnelltest'
-    instructions: 'Eine Minute pro Item. Keine Notizen. Items mit (L<n>) wiederholen eine frühere Lektion. 15 Items.'
+    instructions: 'Eine Minute pro Item. Keine Notizen. Items mit Lektionsangabe, z. B. (B2/06), wiederholen eine frühere Lektion. 15 Items.'
+    instructionsEn: "One minute per item. No notes. Items marked with a lesson reference, e.g. (B2/06), review an earlier lesson. 15 items."
     text: |
       **Acht Modalpartikeln (C1/03):**
       1. Bekräftigung, sanftes Drängen: {1}
@@ -972,6 +999,7 @@ exercises:
     type: odd-one-out
     title: 'Odd one out: Modalpartikeln und ähnliche Wörter'
     instructions: 'Streiche das Wort, das nicht passt, und erkläre warum.'
+    instructionsEn: "Cross out the word that does not fit, and explain why."
     groups:
       - items: [doch, ja, mal, allerdings]
         odd: 3
@@ -998,6 +1026,7 @@ exercises:
     listLayout: true
     title: 'Rückblick: B2/06, B2/03, B1/02, C1/01'
     instructions: 'Wiederholung früherer Lektionen. 10 Items.'
+    instructionsEn: "Review of earlier lessons. 10 items."
     text: |
       **Aus B2/06 (Modalverben subjektiv):**
       1. Subjektives Modalverb für vorsichtige Vermutung: Er {1} krank sein.

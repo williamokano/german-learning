@@ -42,6 +42,7 @@ exercises:
     type: single-choice
     title: "Aufgabe 1 — Kurze Gespräche im Alltag"
     instructions: "Hören Sie die fünf Gespräche (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the five conversations (twice) and choose the correct answer (a, b, or c)."
     items:
       - q: "Warum wurde die Fachkonferenz verschoben?"
         audio: aufgabe1_gespraech1.mp3
@@ -89,6 +90,7 @@ exercises:
     type: true-false
     title: "Aufgabe 2 — Radiobeitrag: Ein Mehrgenerationenhaus in Leipzig"
     instructions: "Hören Sie den Radiobeitrag (zweimal) und entscheiden Sie: richtig (R) oder falsch (F)?"
+    instructionsEn: "Listen to the radio report (twice) and decide: true (R) or false (F)?"
     audio: aufgabe2.mp3
     items:
       - q: "Im Mehrgenerationenhaus leben ausschließlich ältere Menschen."
@@ -115,6 +117,7 @@ exercises:
     type: single-choice
     title: "Aufgabe 3 — Kurze Ansagen"
     instructions: "Hören Sie die fünf Ansagen (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the five announcements (twice) and choose the correct answer (a, b, or c)."
     items:
       - q: "Was wird über den ICE 1027 nach München mitgeteilt?"
         audio: aufgabe3_ansage1.mp3
@@ -162,6 +165,7 @@ exercises:
     type: single-choice
     title: "Aufgabe 4 — Vortrag: Sprachenlernen im Zeitalter der KI"
     instructions: "Hören Sie den Vortrag (zweimal) und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Listen to the lecture (twice) and choose the correct answer (a, b, or c)."
     audio: aufgabe4.mp3
     items:
       - q: "Womit beschäftigt sich die Vortragende?"
@@ -216,6 +220,7 @@ exercises:
       > Kritiker wenden ein, die Schulen seien bereits überlastet und es fehle an qualifizierten Lehrkräften. Mendes hält dem entgegen, dass sich der Aufwand langfristig auszahle: Wer seine Herkunftssprache schriftlich beherrsche, lerne auch das Deutsche und weitere Fremdsprachen leichter.
 
       Richtig (R) oder falsch (F)?
+    instructionsEn: "Read the text. True (R) or false (F)?"
     items:
       - q: "Etwa ein Drittel der Kinder in deutschen Großstädten wächst mehrsprachig auf."
         answer: true
@@ -241,6 +246,7 @@ exercises:
     type: single-choice
     title: "Aufgabe 6 — Zeitungsartikel (Text 1): Leseverstehen"
     instructions: "Beziehen Sie sich auf Text 1 (Aufgabe 5) und wählen Sie die richtige Antwort (a, b oder c)."
+    instructionsEn: "Refer to Text 1 (task 5) and choose the correct answer (a, b, or c)."
     items:
       - q: "Wie hat sich die Sicht der Forschung auf Mehrsprachigkeit verändert?"
         options:
@@ -298,6 +304,7 @@ exercises:
       > Für mich als Studierenden aus dem Ausland war gerade die deutschsprachige Lehre der Grund, hierherzukommen. Ich wollte die Sprache im Fach lernen, nicht nur im Sprachkurs.
 
       Welche Aussage (a–e) passt zu welchem Forumsbeitrag (1–4)? Eine Aussage passt nicht.
+    instructionsEn: "Read the forum posts. Which statement (a–e) matches which forum post (1–4)? One statement is not needed."
     left:
       - { key: "1", text: "Beitrag 1 — Prof. A. Berger (Hochschullehrer)" }
       - { key: "2", text: "Beitrag 2 — Mia_B (Studentin)" }
@@ -329,6 +336,7 @@ exercises:
       > Die Autorinnen und Autoren betonen jedoch, die Befunde dürften nicht überbewertet werden: Die Stichprobe sei klein gewesen. Gleichwohl empfehlen sie lautes Vorlesen als einfache, wirksame Übung.
 
       Wählen Sie für jede Lücke (1–6) die grammatisch richtige Variante (a, b oder c).
+    instructionsEn: "Read the text. For each gap (1–6), choose the grammatically correct option (a, b, or c)."
     items:
       - q: "Eine Studie der Universität Wien _______ (1) der Frage nachgegangen, welchen Einfluss Vorlesen hat."
         options:
@@ -380,6 +388,7 @@ exercises:
     type: free-write
     title: "Aufgabe 9 — Stellungnahme (Forumsbeitrag)"
     instructions: "Schreiben Sie eine Stellungnahme (ca. 150–180 Wörter) als Forumsbeitrag."
+    instructionsEn: "Write a statement of your position (approx. 150–180 words) as a forum post."
     prompt: |
       In einem Online-Forum haben Sie folgenden Beitrag gelesen:
 
@@ -432,6 +441,7 @@ exercises:
     type: free-write
     title: "Aufgabe 10 — Erörterung"
     instructions: "Schreiben Sie eine Erörterung (ca. 180–220 Wörter)."
+    instructionsEn: "Write an argumentative essay (Erörterung, approx. 180–220 words)."
     prompt: |
       Sie haben im Kurs folgende These diskutiert:
 
@@ -494,6 +504,7 @@ exercises:
     type: speaking-prompt
     title: "Aufgabe 11 — Sprechen (2 Teile)"
     instructions: "Führen Sie beide Sprechaufgaben durch — mit einem Partner oder als Monolog (Aufnahme). Bewerten Sie sich anschließend selbst anhand der Kriterien."
+    instructionsEn: "Complete both speaking tasks — with a partner or as a monologue (recording). Then assess yourself using the criteria."
     parts:
       - label: "Teil 4a — Vortrag (ca. 3–4 Minuten)"
         prompt: "Ziehen Sie ein Thema und halten Sie einen kurzen, strukturierten Vortrag. Beginnen Sie mit einer rhetorischen Frage, kündigen Sie Ihre Gliederung an und schließen Sie mit einer Zusammenfassung."
