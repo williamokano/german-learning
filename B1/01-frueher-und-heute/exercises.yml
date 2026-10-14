@@ -795,7 +795,7 @@ exercises:
     listLayout: true
     title: "Gemischter Schnelltest"
     instructions: "Eine Minute pro Aufgabe, ohne Notizen. Aufgaben mit Lektionsangabe, z. B. (A2/01), wiederholen eine frühere Lektion. 15 Aufgaben."
-    instructionsEn: "One minute per item. No notes. Items marked (L<n>) review an earlier lesson. 15 items."
+    instructionsEn: "One minute per item. No notes. Items marked with a lesson reference, e.g. (A2/01), review an earlier lesson. 15 items."
     text: |
       1. Präteritum of sein, ich-form: {1}
       2. Präteritum of haben, du-form: {2}
