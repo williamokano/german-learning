@@ -20,11 +20,14 @@
     vocabSets,
     exerciseEntries,
     fehlerbuchPoolSize = 6,
+    base = '',
   }: {
     lessons: PathManifestLessonInput[];
     vocabSets: PathManifestVocabSetInput[];
     exerciseEntries: ExerciseSetEntry[];
     fehlerbuchPoolSize?: number;
+    /** Site base path (BASE_URL without trailing slash), e.g. "/german-learning". */
+    base?: string;
   } = $props();
 
   let mounted = $state(false);
@@ -128,7 +131,7 @@
     <div class="empty">
       <h2>Nichts zu tun 🎉</h2>
       <p>Es gibt gerade keinen passenden Mix für dich. Versuche eine Lektion zu absolvieren, um neue Wörter freizuschalten.</p>
-      <a class="btn-primary" href="/path/">Pfad ansehen →</a>
+      <a class="btn-primary" href="{base}/path/">Pfad ansehen →</a>
     </div>
   {:else if finished}
     <div class="summary">
@@ -160,7 +163,7 @@
       </div>
       <div class="summary-actions">
         <button type="button" class="btn-secondary" onclick={recompute}>Nochmal (frisch mischen)</button>
-        <a class="btn-primary" href="/path/">Pfad ansehen →</a>
+        <a class="btn-primary" href="{base}/path/">Pfad ansehen →</a>
       </div>
     </div>
   {:else if current}
