@@ -186,8 +186,8 @@
 
   .btn-auswerten {
     padding: 0.6rem 1.75rem;
-    background: #2563eb;
-    color: #fff;
+    background: var(--brand-600);
+    color: var(--text-invert);
     border: none;
     border-radius: 8px;
     font-size: 1rem;
@@ -195,22 +195,22 @@
     cursor: pointer;
     transition: background 0.12s;
   }
-  .btn-auswerten:hover { background: #1d4ed8; }
+  .btn-auswerten:hover { background: var(--brand-700); }
 
   .score-panel { display: flex; flex-direction: column; gap: 1rem; }
 
   /* Self-assessment inputs */
   .self-assess-section {
     padding: 1rem 1.25rem;
-    border: 1.5px solid #e5e7eb;
+    border: 1.5px solid var(--border);
     border-radius: 8px;
-    background: #f9fafb;
+    background: var(--surface-2);
   }
   .self-assess-title {
     margin: 0 0 0.75rem;
     font-size: 0.95rem;
     font-weight: 700;
-    color: #374151;
+    color: var(--text-muted);
   }
   .self-row {
     display: flex;
@@ -218,20 +218,20 @@
     justify-content: space-between;
     gap: 1rem;
     padding: 0.35rem 0;
-    border-bottom: 1px solid #f3f4f6;
+    border-bottom: 1px solid var(--border);
   }
   .self-row:last-child { border-bottom: none; }
-  .self-label { font-size: 0.9rem; color: #374151; }
+  .self-label { font-size: 0.9rem; color: var(--text-muted); }
   .self-input-wrap { display: flex; align-items: center; gap: 0.4rem; }
   .self-input {
     width: 4rem;
     padding: 0.25rem 0.5rem;
-    border: 1.5px solid #d1d5db;
+    border: 1.5px solid var(--border-strong);
     border-radius: 6px;
     font-size: 0.95rem;
     text-align: center;
   }
-  .self-max { font-size: 0.875rem; color: #6b7280; }
+  .self-max { font-size: 0.875rem; color: var(--text-subtle); }
 
   /* Skill grid table */
   .skill-grid {
@@ -242,47 +242,47 @@
   .skill-grid th {
     text-align: left;
     padding: 0.4rem 0.65rem;
-    background: #f3f4f6;
+    background: var(--surface-3);
     font-weight: 700;
     font-size: 0.8rem;
-    color: #6b7280;
+    color: var(--text-subtle);
     text-transform: uppercase;
     letter-spacing: 0.03em;
   }
   .skill-grid td {
     padding: 0.55rem 0.65rem;
-    border-bottom: 1px solid #f3f4f6;
+    border-bottom: 1px solid var(--border);
   }
   .skill-grid tr:last-child td { border-bottom: none; }
 
-  tr.passed td { background: #f0fdf4; }
-  tr.failed td { background: #fef2f2; }
+  tr.passed td { background: var(--ok-bg); }
+  tr.failed td { background: var(--err-bg); }
 
   .skill-name { font-weight: 500; }
   .skill-pts { font-variant-numeric: tabular-nums; }
-  .skill-pass { color: #6b7280; font-size: 0.85em; }
+  .skill-pass { color: var(--text-subtle); font-size: 0.85em; }
   .skill-verdict { font-weight: 700; text-align: center; }
-  tr.passed .skill-verdict { color: #16a34a; }
-  tr.failed .skill-verdict { color: #dc2626; }
+  tr.passed .skill-verdict { color: var(--ok-fg); }
+  tr.failed .skill-verdict { color: var(--err-fg); }
 
-  .total-row td { border-top: 2px solid #e5e7eb; }
+  .total-row td { border-top: 2px solid var(--border); }
   .total-verdict { text-align: left !important; }
   .big-verdict { font-size: 1rem; font-weight: 800; }
-  .big-verdict.pass { color: #15803d; }
-  .big-verdict.fail { color: #dc2626; }
+  .big-verdict.pass { color: var(--ok-fg); }
+  .big-verdict.fail { color: var(--err-fg); }
 
-  .rule-note { margin: 0; font-size: 0.8rem; color: #6b7280; font-style: italic; }
+  .rule-note { margin: 0; font-size: 0.8rem; color: var(--text-subtle); font-style: italic; }
 
   .btn-reset {
     align-self: flex-start;
     padding: 0.45rem 1.25rem;
-    background: #f3f4f6;
-    border: 1.5px solid #d1d5db;
+    background: var(--surface-3);
+    border: 1.5px solid var(--border-strong);
     border-radius: 6px;
     font-size: 0.9rem;
     cursor: pointer;
     transition: background 0.1s;
   }
-  .btn-reset:hover { background: #e5e7eb; }
+  .btn-reset:hover { background: var(--surface-3); }
   .extra-note { margin: 1.5rem 0 -1rem; font-size: var(--text-sm); color: var(--text-subtle); }
 </style>

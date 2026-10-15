@@ -160,10 +160,11 @@
 
 <style>
   .flashcard-deck { display: flex; flex-direction: column; align-items: center; gap: 1rem; padding: 1rem 0 2rem; }
-  .status { color: #6b7280; }
-  .progress { color: #6b7280; font-size: 0.875rem; margin: 0; }
+  .status { color: var(--text-subtle); }
+  .progress { color: var(--text-subtle); font-size: 0.875rem; margin: 0; }
 
   .card {
+    color: var(--text);
     width: 100%;
     max-width: 26rem;
     min-height: 10rem;
@@ -173,58 +174,58 @@
     justify-content: center;
     gap: 0.5rem;
     padding: 1.5rem;
-    border: 2px solid #e5e7eb;
+    border: 2px solid var(--border);
     border-radius: 12px;
-    background: #fff;
+    background: var(--surface);
     cursor: pointer;
     font: inherit;
     text-align: center;
     transition: border-color 0.15s, background 0.15s;
   }
-  .card:hover { border-color: #2563eb; }
-  .card-label { font-size: 0.8rem; color: #6b7280; text-transform: uppercase; letter-spacing: 0.05em; }
+  .card:hover { border-color: var(--brand-500); }
+  .card-label { font-size: 0.8rem; color: var(--text-subtle); text-transform: uppercase; letter-spacing: 0.05em; }
   .card-text { font-size: 1.5rem; font-weight: 600; }
-  .card-example { font-size: 0.9rem; color: #374151; font-style: italic; }
+  .card-example { font-size: 0.9rem; color: var(--text-muted); font-style: italic; }
 
-  .card.article-der { border-color: #2563eb; background: #eff6ff; }
-  .card.article-die { border-color: #dc2626; background: #fee2e2; }
-  .card.article-das { border-color: #16a34a; background: #dcfce7; }
+  .card.article-der { border-color: var(--brand-500); background: var(--brand-50); }
+  .card.article-die { border-color: var(--err-border); background: var(--err-bg); }
+  .card.article-das { border-color: var(--ok-border); background: var(--ok-bg); }
 
-  .flip-hint { color: #6b7280; font-size: 0.875rem; margin: 0; }
+  .flip-hint { color: var(--text-subtle); font-size: 0.875rem; margin: 0; }
 
   .rating-buttons { display: flex; gap: 0.5rem; flex-wrap: wrap; justify-content: center; }
   .btn-rate {
     padding: 0.5rem 1rem;
     border-radius: 8px;
-    border: 1.5px solid #e5e7eb;
-    background: #fff;
+    border: 1.5px solid var(--border);
+    background: var(--surface);
     font-weight: 600;
     cursor: pointer;
   }
-  .btn-rate:hover { border-color: #2563eb; background: #eff6ff; }
-  .btn-again { color: #dc2626; }
-  .btn-hard  { color: #d97706; }
-  .btn-good  { color: #2563eb; }
-  .btn-easy  { color: #16a34a; }
+  .btn-rate:hover { border-color: var(--brand-500); background: var(--brand-50); }
+  .btn-again { color: var(--err-fg); }
+  .btn-hard  { color: var(--warn-fg); }
+  .btn-good  { color: var(--brand-600); }
+  .btn-easy  { color: var(--ok-fg); }
 
   .summary { display: flex; flex-direction: column; align-items: center; gap: 0.75rem; text-align: center; }
-  .summary-count { color: #374151; margin: 0; }
+  .summary-count { color: var(--text-muted); margin: 0; }
   .summary-tally { display: flex; gap: 0.5rem; flex-wrap: wrap; justify-content: center; }
-  .tally-chip { padding: 0.25rem 0.6rem; border-radius: 999px; font-size: 0.8rem; font-weight: 600; background: #f3f4f6; }
-  .tally-again { color: #dc2626; }
-  .tally-hard  { color: #d97706; }
-  .tally-good  { color: #2563eb; }
-  .tally-easy  { color: #16a34a; }
+  .tally-chip { padding: 0.25rem 0.6rem; border-radius: 999px; font-size: 0.8rem; font-weight: 600; background: var(--surface-3); }
+  .tally-again { color: var(--err-fg); }
+  .tally-hard  { color: var(--warn-fg); }
+  .tally-good  { color: var(--brand-600); }
+  .tally-easy  { color: var(--ok-fg); }
 
   .btn-restart {
     margin-top: 0.5rem;
     padding: 0.6rem 1.4rem;
     border-radius: 8px;
     border: none;
-    background: #2563eb;
-    color: #fff;
+    background: var(--brand-600);
+    color: var(--text-invert);
     font-weight: 600;
     cursor: pointer;
   }
-  .btn-restart:hover { background: #1d4ed8; }
+  .btn-restart:hover { background: var(--brand-700); }
 </style>

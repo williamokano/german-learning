@@ -202,7 +202,7 @@
     font-size: 0.875rem;
     font-weight: 600;
     color: var(--brand-700, #1d3fb0);
-    background: #fff;
+    background: var(--surface);
     border: 1.5px solid var(--brand-300, #a8bcfb);
     border-radius: var(--radius-sm, 6px);
     cursor: pointer;
@@ -210,7 +210,7 @@
   }
   .btn-record:hover, .btn-rerecord:hover { background: var(--brand-50, #eef2ff); }
   .btn-record.recording {
-    color: #fff;
+    color: var(--text-invert);
     background: var(--danger, #dc2626);
     border-color: var(--danger, #dc2626);
   }

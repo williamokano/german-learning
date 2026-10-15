@@ -146,8 +146,8 @@
     justify-content: space-between;
     gap: 1rem;
     padding: 0.6rem 1rem;
-    background: #fff;
-    border: 1.5px solid #e5e7eb;
+    background: var(--surface);
+    border: 1.5px solid var(--border);
     border-radius: 8px;
   }
 
@@ -156,9 +156,9 @@
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.04em;
-    color: #6b7280;
+    color: var(--text-subtle);
     padding: 0.2rem 0.5rem;
-    border: 1px solid #d1d5db;
+    border: 1px solid var(--border-strong);
     border-radius: 999px;
   }
 
@@ -166,22 +166,22 @@
     font-variant-numeric: tabular-nums;
     font-size: 1.1rem;
     font-weight: 700;
-    color: #1f2937;
+    color: var(--text);
   }
-  .exam-timer.low { color: #dc2626; }
-  .exam-timer.done { color: #6b7280; font-size: 0.95rem; font-weight: 600; }
+  .exam-timer.low { color: var(--err-fg); }
+  .exam-timer.done { color: var(--text-subtle); font-size: 0.95rem; font-weight: 600; }
 
   .remediation {
     padding: 1rem 1.25rem;
-    border: 1.5px solid #fecaca;
+    border: 1.5px solid var(--err-border);
     border-radius: 8px;
-    background: #fef2f2;
+    background: var(--err-bg);
   }
   .remediation-title {
     margin: 0 0 0.75rem;
     font-size: 0.95rem;
     font-weight: 700;
-    color: #7f1d1d;
+    color: var(--err-fg);
   }
   .remediation-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.6rem; }
   .remediation-item {
@@ -191,8 +191,8 @@
     gap: 0.6rem;
     font-size: 0.9rem;
   }
-  .remediation-skill { font-weight: 600; color: #374151; }
-  .remediation-score { color: #6b7280; font-size: 0.85em; }
-  .remediation-link { color: #dc2626; font-weight: 600; text-decoration: none; }
+  .remediation-skill { font-weight: 600; color: var(--text-muted); }
+  .remediation-score { color: var(--text-subtle); font-size: 0.85em; }
+  .remediation-link { color: var(--err-fg); font-weight: 600; text-decoration: none; }
   .remediation-link:hover { text-decoration: underline; }
 </style>
