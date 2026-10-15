@@ -58,6 +58,17 @@ export function drillBank(entries: ExerciseSetEntry[], skill: DrillSkillType): D
   return tagBank(entries, skill, ex => ex.skill);
 }
 
+/**
+ * Keep only the skill-tagged exercises (the drill sources) of each set, and drop
+ * sets with none. Pages that only need `drillBank` (e.g. /today) ship this instead
+ * of the whole corpus — 78 of ~4,000 exercises, 9.5 MB → under 1 MB (issue #476).
+ */
+export function drillSourceEntries<E extends ExerciseSetEntry>(entries: ReadonlyArray<E>): E[] {
+  return entries
+    .map(e => ({ ...e, data: { ...e.data, exercises: e.data.exercises.filter(ex => ex.skill) } }))
+    .filter(e => e.data.exercises.length > 0);
+}
+
 /** Count of tagged exercises per skill, across all entries — every DrillSkill value
  *  is present (0 if untagged), so callers don't need to special-case missing keys. */
 export function drillCounts(entries: ExerciseSetEntry[]): Record<DrillSkillType, number> {

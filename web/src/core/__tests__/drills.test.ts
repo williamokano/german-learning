@@ -8,6 +8,7 @@ import {
   trackCounts,
   selectDrillSession,
   drillItemKey,
+  drillSourceEntries,
 } from '@core/content/drills';
 import type { ExerciseSetEntry, DrillItem } from '@core/content/drills';
 
@@ -217,5 +218,46 @@ describe('drillItemKey', () => {
     const itemA: DrillItem = { lessonId: 'A1/04', audioDir: '', exercise: ex('A1') };
     const itemB: DrillItem = { lessonId: 'B1/07', audioDir: '', exercise: ex('A1') };
     expect(drillItemKey(itemA)).not.toBe(drillItemKey(itemB));
+  });
+});
+
+describe('drillSourceEntries (#476)', () => {
+  const tagged = (id: string, skill?: string) =>
+    ({ id, block: 'A', title: id, type: 'single-choice', items: [], ...(skill ? { skill } : {}) }) as unknown as ExerciseUnion;
+  const entries = [
+    entry('a1/01/exercises', 'A1/01', [tagged('A1', 'article-gender'), tagged('A2'), tagged('A3')]),
+    entry('a1/02/exercises', 'A1/02', [tagged('A1')]),
+    entry('ex/03/exercises', 'EX/03-deklination-a1', [tagged('B1', 'plural')]),
+  ];
+
+  it('keeps only skill-tagged exercises and drops sets without any', () => {
+    const out = drillSourceEntries(entries);
+    expect(out.map(e => [e.data.lesson, e.data.exercises.map(x => x.id)])).toEqual([['A1/01', ['A1']], ['EX/03-deklination-a1', ['B1']]]);
+  });
+
+  it('leaves the drill bank unchanged for every skill', () => {
+    for (const skill of DrillSkill.options) {
+      expect(drillBank(drillSourceEntries(entries), skill)).toEqual(drillBank(entries, skill));
+    }
+  });
+});
+
+describe('drillSourceEntries over the real course (#476)', () => {
+  it('yields the same drill bank as the full corpus', async () => {
+    const { readFileSync, readdirSync, existsSync } = await import('node:fs');
+    const { join, resolve } = await import('node:path');
+    const { parse } = await import('yaml');
+    const { ExerciseSet } = await import('@core/content/schema');
+    const REPO = resolve(__dirname, '../../../..');
+    const all: ExerciseSetEntry[] = [];
+    for (const root of ['A1', 'A2', 'B1', 'B2', 'C1', 'THEMEN', 'SITUATIONEN', 'HOEREN']) {
+      for (const dir of readdirSync(join(REPO, root))) {
+        const f = join(REPO, root, dir, 'exercises.yml');
+        if (existsSync(f)) all.push({ id: `${root.toLowerCase()}/${dir}/exercises`, data: ExerciseSet.parse(parse(readFileSync(f, 'utf8'))) });
+      }
+    }
+    const kept = drillSourceEntries(all);
+    expect(kept.reduce((n, e) => n + e.data.exercises.length, 0)).toBeLessThan(all.reduce((n, e) => n + e.data.exercises.length, 0) / 10);
+    for (const skill of DrillSkill.options) expect(drillBank(kept, skill)).toEqual(drillBank(all, skill));
   });
 });
