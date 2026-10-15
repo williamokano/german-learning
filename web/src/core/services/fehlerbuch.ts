@@ -36,7 +36,8 @@ export class FehlerbuchService {
    *  mistake into SrsService with an 'again' rating — the "extra weight": the item
    *  starts already scheduled to resurface tomorrow, not as an unscheduled card. */
   captureExerciseResults(lessonId: string, exercise: ExerciseUnion, results: ItemResult[], now: Date = new Date()): void {
-    const wrong = results.filter(r => !r.correct);
+    // Unanswered items are not mistakes — skipping a gap must not flood the log (#470).
+    const wrong = results.filter(r => !r.correct && r.given.trim() !== '');
     if (wrong.length === 0) return;
     const all = this.getAll();
     for (const raw of wrong) {

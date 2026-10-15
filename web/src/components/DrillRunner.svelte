@@ -33,7 +33,7 @@
   const finished = $derived(mounted && total > 0 && position >= total);
   const current = $derived(!finished ? session[position] : undefined);
 
-  // "Prüfen" — immediate per-item feedback, not BlockRunner's batch-everything flow
+  // "Prüfen" — immediate per-item feedback, one drill item at a time
   // (this session's established pill-mode UX: flashcards, deep-review, Fehlerbuch).
   function check(): void {
     if (!current || !shellRef) return;
