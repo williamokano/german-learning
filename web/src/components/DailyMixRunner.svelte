@@ -196,28 +196,28 @@
 
 <style>
   .daily-mix-runner { display: flex; flex-direction: column; padding: 1rem 0 2rem; }
-  .status { color: #6b7280; text-align: center; padding: 2rem 0; }
+  .status { color: var(--text-subtle); text-align: center; padding: 2rem 0; }
 
   .progress-bar { display: flex; flex-direction: column; gap: 0.4rem; align-items: center; margin-bottom: 1rem; }
-  .progress { color: #6b7280; font-size: 0.875rem; margin: 0; }
+  .progress { color: var(--text-subtle); font-size: 0.875rem; margin: 0; }
   progress { width: 100%; max-width: 26rem; height: 0.5rem; border: none; }
-  progress::-webkit-progress-bar { background: #e5e7eb; border-radius: 999px; }
-  progress::-webkit-progress-value { background: #2563eb; border-radius: 999px; }
+  progress::-webkit-progress-bar { background: var(--surface-3); border-radius: 999px; }
+  progress::-webkit-progress-value { background: var(--brand-600); border-radius: 999px; }
 
   .empty { text-align: center; padding: 3rem 1rem; }
-  .empty h2 { margin: 0 0 0.5rem; color: #1a1a1a; }
-  .empty p { color: #6b7280; margin: 0 0 1.5rem; }
+  .empty h2 { margin: 0 0 0.5rem; color: var(--text); }
+  .empty p { color: var(--text-subtle); margin: 0 0 1.5rem; }
 
-  .error { text-align: center; padding: 3rem 1rem; background: #fef2f2; border-radius: 8px; border: 1px solid #fecaca; max-width: 32rem; margin: 0 auto; }
-  .error h2 { margin: 0 0 0.5rem; color: #b91c1c; font-size: 1.05rem; }
-  .error p { color: #7f1d1d; margin: 0; }
+  .error { text-align: center; padding: 3rem 1rem; background: var(--err-bg); border-radius: 8px; border: 1px solid var(--err-border); max-width: 32rem; margin: 0 auto; }
+  .error h2 { margin: 0 0 0.5rem; color: var(--err-fg); font-size: 1.05rem; }
+  .error p { color: var(--err-fg); margin: 0; }
 
   .btn-primary {
     display: inline-block;
     padding: 0.6rem 1.4rem;
     border-radius: 8px;
-    background: #2563eb;
-    color: #fff;
+    background: var(--brand-600);
+    color: var(--text-invert);
     text-decoration: none;
     font-weight: 600;
     border: none;
@@ -225,34 +225,34 @@
     font-family: inherit;
     font-size: 1rem;
   }
-  .btn-primary:hover { background: #1d4ed8; }
+  .btn-primary:hover { background: var(--brand-700); }
   .btn-secondary {
     display: inline-block;
     padding: 0.6rem 1.4rem;
     border-radius: 8px;
-    background: #fff;
-    color: #2563eb;
+    background: var(--surface);
+    color: var(--brand-600);
     text-decoration: none;
     font-weight: 600;
-    border: 1.5px solid #2563eb;
+    border: 1.5px solid var(--brand-500);
     cursor: pointer;
     font-family: inherit;
     font-size: 1rem;
   }
-  .btn-secondary:hover { background: #eff6ff; }
+  .btn-secondary:hover { background: var(--brand-50); }
 
   .summary { display: flex; flex-direction: column; align-items: center; gap: 1rem; text-align: center; padding: 2rem 1rem; }
-  .summary h2 { margin: 0; color: #1a1a1a; }
-  .summary-count { color: #374151; margin: 0; font-size: 1.05rem; }
+  .summary h2 { margin: 0; color: var(--text); }
+  .summary-count { color: var(--text-muted); margin: 0; font-size: 1.05rem; }
   .summary-tally { display: flex; gap: 1.5rem; flex-wrap: wrap; justify-content: center; }
-  .tally-block h3 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: #6b7280; margin: 0 0 0.5rem; }
-  .tally-block p { margin: 0; color: #374151; font-weight: 600; }
+  .tally-block h3 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-subtle); margin: 0 0 0.5rem; }
+  .tally-block p { margin: 0; color: var(--text-muted); font-weight: 600; }
   .chips { display: flex; gap: 0.3rem; flex-wrap: wrap; justify-content: center; }
-  .chip { padding: 0.2rem 0.55rem; border-radius: 999px; font-size: 0.78rem; font-weight: 600; background: #f3f4f6; }
-  .chip-again { color: #dc2626; }
-  .chip-hard  { color: #d97706; }
-  .chip-good  { color: #2563eb; }
-  .chip-easy  { color: #16a34a; }
+  .chip { padding: 0.2rem 0.55rem; border-radius: 999px; font-size: 0.78rem; font-weight: 600; background: var(--surface-3); }
+  .chip-again { color: var(--err-fg); }
+  .chip-hard  { color: var(--warn-fg); }
+  .chip-good  { color: var(--brand-600); }
+  .chip-easy  { color: var(--ok-fg); }
 
   .summary-actions { display: flex; gap: 0.6rem; flex-wrap: wrap; justify-content: center; margin-top: 1rem; }
 </style>

@@ -123,52 +123,53 @@
 
 <style>
   .study-plan { display: flex; flex-direction: column; gap: 1.25rem; padding: 1rem 0 2rem; }
-  .status { color: #6b7280; }
+  .status { color: var(--text-subtle); }
 
   .picker-row { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 0.75rem; }
-  .field { display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.875rem; color: #374151; }
+  .field { display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.875rem; color: var(--text-muted); }
   .field-label { font-weight: 500; }
   select, input[type="date"] {
     padding: 0.4rem 0.5rem;
     border-radius: 6px;
-    border: 1px solid #d1d5db;
-    background: #fff;
+    border: 1px solid var(--border-strong);
+    background: var(--surface);
+    color: var(--text);
     font: inherit;
   }
-  select:hover, input[type="date"]:hover { border-color: #2563eb; }
+  select:hover, input[type="date"]:hover { border-color: var(--brand-500); }
 
   .btn-primary {
     padding: 0.45rem 1rem;
     border-radius: 8px;
     border: none;
-    background: #2563eb;
-    color: #fff;
+    background: var(--brand-600);
+    color: var(--text-invert);
     font-weight: 600;
     cursor: pointer;
     height: 2.25rem;
   }
-  .btn-primary:hover { background: #1d4ed8; }
+  .btn-primary:hover { background: var(--brand-700); }
   .btn-secondary {
     padding: 0.4rem 0.9rem;
     border-radius: 8px;
-    border: 1.5px solid #d1d5db;
-    background: #fff;
-    color: #374151;
+    border: 1.5px solid var(--border-strong);
+    background: var(--surface);
+    color: var(--text-muted);
     font-weight: 500;
     cursor: pointer;
     font-size: 0.85rem;
   }
-  .btn-secondary:hover { border-color: #dc2626; color: #dc2626; }
+  .btn-secondary:hover { border-color: var(--err-border); color: var(--err-fg); }
 
   .summary { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
-  .summary-line { margin: 0; color: #374151; }
+  .summary-line { margin: 0; color: var(--text-muted); }
 
   .days { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.4rem; }
-  .day { display: flex; gap: 0.75rem; align-items: baseline; padding: 0.4rem 0.6rem; border-radius: 6px; border: 1px solid #e5e7eb; }
+  .day { display: flex; gap: 0.75rem; align-items: baseline; padding: 0.4rem 0.6rem; border-radius: 6px; border: 1px solid var(--border); }
   .day-empty { opacity: 0.5; }
-  .day-date { font-variant-numeric: tabular-nums; color: #6b7280; font-size: 0.85rem; min-width: 6rem; }
-  .day-rest { color: #9ca3af; font-size: 0.85rem; }
+  .day-date { font-variant-numeric: tabular-nums; color: var(--text-subtle); font-size: 0.85rem; min-width: 6rem; }
+  .day-rest { color: var(--text-faint); font-size: 0.85rem; }
   .day-nodes { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.15rem; }
-  .day-nodes a { color: #2563eb; text-decoration: none; font-size: 0.9rem; }
+  .day-nodes a { color: var(--brand-600); text-decoration: none; font-size: 0.9rem; }
   .day-nodes a:hover { text-decoration: underline; }
 </style>

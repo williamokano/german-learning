@@ -93,15 +93,15 @@
 
 <style>
   .drill-runner { display: flex; flex-direction: column; gap: 1rem; padding: 1rem 0 2rem; }
-  .status { color: #6b7280; }
-  .progress { color: #6b7280; font-size: 0.875rem; margin: 0; }
-  .context { color: #9ca3af; font-size: 0.8rem; margin: 0; }
+  .status { color: var(--text-subtle); }
+  .progress { color: var(--text-subtle); font-size: 0.875rem; margin: 0; }
+  .context { color: var(--text-faint); font-size: 0.8rem; margin: 0; }
 
   .runner-footer { margin-top: 1rem; }
   .btn-check, .btn-next {
     padding: 0.6rem 1.75rem;
-    background: #2563eb;
-    color: #fff;
+    background: var(--brand-600);
+    color: var(--text-invert);
     border: none;
     border-radius: 8px;
     font-size: 1rem;
@@ -109,19 +109,19 @@
     cursor: pointer;
     transition: background 0.12s;
   }
-  .btn-check:hover, .btn-next:hover { background: #1d4ed8; }
+  .btn-check:hover, .btn-next:hover { background: var(--brand-700); }
 
   .summary { display: flex; flex-direction: column; align-items: center; gap: 0.75rem; text-align: center; }
-  .summary-count { color: #374151; margin: 0; }
+  .summary-count { color: var(--text-muted); margin: 0; }
   .btn-restart {
     margin-top: 0.5rem;
     padding: 0.6rem 1.4rem;
     border-radius: 8px;
     border: none;
-    background: #2563eb;
-    color: #fff;
+    background: var(--brand-600);
+    color: var(--text-invert);
     font-weight: 600;
     cursor: pointer;
   }
-  .btn-restart:hover { background: #1d4ed8; }
+  .btn-restart:hover { background: var(--brand-700); }
 </style>

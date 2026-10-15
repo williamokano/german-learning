@@ -61,16 +61,16 @@
 
 <style>
   .drill-item-runner { display: flex; flex-direction: column; gap: 1rem; padding: 1rem 0 2rem; }
-  .context { color: #9ca3af; font-size: 0.8rem; margin: 0; }
+  .context { color: var(--text-faint); font-size: 0.8rem; margin: 0; }
 
   .runner-footer { margin-top: 1rem; display: flex; justify-content: center; }
   .feedback { display: flex; align-items: center; gap: 1rem; }
-  .feedback-count { color: #374151; font-size: 0.95rem; font-weight: 500; }
+  .feedback-count { color: var(--text-muted); font-size: 0.95rem; font-weight: 500; }
 
   .btn-check, .btn-next {
     padding: 0.6rem 1.75rem;
-    background: #2563eb;
-    color: #fff;
+    background: var(--brand-600);
+    color: var(--text-invert);
     border: none;
     border-radius: 8px;
     font-size: 1rem;
@@ -78,5 +78,5 @@
     cursor: pointer;
     transition: background 0.12s;
   }
-  .btn-check:hover, .btn-next:hover { background: #1d4ed8; }
+  .btn-check:hover, .btn-next:hover { background: var(--brand-700); }
 </style>

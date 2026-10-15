@@ -49,16 +49,17 @@
 </label>
 
 <style>
-  .picker { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.95rem; color: #374151; }
+  .picker { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.95rem; color: var(--text-muted); }
   .picker-label { font-weight: 500; }
   select {
     padding: 0.35rem 0.5rem;
     border-radius: 6px;
-    border: 1px solid #d1d5db;
-    background: #fff;
+    border: 1px solid var(--border-strong);
+    background: var(--surface);
+    color: var(--text);
     font: inherit;
     cursor: pointer;
   }
-  select:hover { border-color: #2563eb; }
-  select:focus { outline: 2px solid #2563eb; outline-offset: 1px; }
+  select:hover { border-color: var(--brand-500); }
+  select:focus { outline: 2px solid var(--brand-500); outline-offset: 1px; }
 </style>
