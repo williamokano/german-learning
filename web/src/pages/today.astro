@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import { projectLessonEntries, projectVocabSets } from '@core/content/lessons';
+import { drillSourceEntries } from '@core/content/drills';
 import DailyMixRunner from '../components/DailyMixRunner.svelte';
 import AppShell from '../layouts/AppShell.astro';
 
@@ -21,8 +22,14 @@ const [lessons, vocab, exercises] = await Promise.all([
 // Project to the minimal structural shapes DailyMixRunner accepts — keeps the
 // runner from importing 'astro:content'. Same projection as /path (@core/content/lessons).
 const lessonsProjected = projectLessonEntries(lessons);
-const vocabProjected = projectVocabSets(vocab);
-const exerciseEntries = exercises.map(e => ({ id: e.id, data: e.data }));
+// Drop fields the Daily Mix never reads (importer flags, picture tags) — the
+// vocabulary is most of this page's weight.
+const vocabProjected = projectVocabSets(vocab).map(set => ({
+  ...set,
+  entries: set.entries.map(({ tags: _tags, needsReview: _nr, reviewNote: _rn, ...entry }) => entry),
+}));
+// Only skill-tagged exercises feed the Daily Mix (drillBank) — don't ship the rest.
+const exerciseEntries = drillSourceEntries(exercises.map(e => ({ id: e.id, data: e.data })));
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
