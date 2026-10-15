@@ -6,6 +6,7 @@ import svelte from '@astrojs/svelte';
 import remarkAudioLinks from './src/plugins/remark-audio-links.mjs';
 import remarkHoerzu     from './src/plugins/remark-hoerzu.mjs';
 import rehypeMerkasten  from './src/plugins/rehype-merkasten.mjs';
+import rehypeTableScroll from './src/plugins/rehype-table-scroll.mjs';
 
 export default defineConfig({
   site: 'https://williamokano.github.io',
@@ -16,7 +17,7 @@ export default defineConfig({
     // Apply to ALL markdown (both .md lesson files and .mdx if any).
     // remark plugins transform MDAST; rehype plugin transforms HAST.
     remarkPlugins: [remarkAudioLinks, remarkHoerzu],
-    rehypePlugins: [rehypeMerkasten],
+    rehypePlugins: [rehypeMerkasten, rehypeTableScroll],
     // Allow raw HTML in markdown (needed for <details>, <audio-play>, etc.)
     remarkRehype:  { allowDangerousHtml: true },
   },

@@ -81,10 +81,17 @@
       .map(r => ({ key: r.ref, given: r.given, note: r.note as string })),
   );
 
-  function inputSize(key: string): number {
+  // Fixed size buckets instead of the exact answer length: an exact width leaks
+  // how long the answer is, and very long keys pushed inputs off-screen on phones
+  // (issue #473). Long (sentence) answers get a full-width input instead.
+  const LONG_ANSWER = 28;
+  function answerLength(key: string): number {
     const ans = exercise.answers[key];
-    const first = Array.isArray(ans) ? ans[0] : ans;
-    return Math.max(6, (first?.length ?? 6) + 2);
+    return (Array.isArray(ans) ? ans[0] : ans)?.length ?? 0;
+  }
+  function inputSize(key: string): number {
+    const n = answerLength(key);
+    return n <= 6 ? 8 : n <= 12 ? 14 : 22;
   }
 </script>
 
@@ -95,7 +102,7 @@
         {seg.value}
       {:else}
         {@const r = resultFor(seg.key)}
-        <span class="gap-wrap">
+        <span class="gap-wrap" class:long={answerLength(seg.key) > LONG_ANSWER}>
           <input
             type="text"
             class="gap-input"
@@ -145,10 +152,14 @@
   .text-block { margin: 0; white-space: pre-wrap; }
   .gap-wrap {
     display: inline-flex;
+    flex-wrap: wrap;
     align-items: center;
     gap: 3px;
+    max-width: 100%;
     vertical-align: middle;
   }
+  .gap-wrap.long { display: flex; width: 100%; margin: 0.2em 0; }
+  .gap-wrap.long .gap-input { flex: 1 1 100%; width: 100%; }
   .gap-input {
     font: inherit;
     height: 1.8em;
