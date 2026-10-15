@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { projectLessonEntries, projectVocabSets } from '@core/content/lessons';
 import DailyMixRunner from '../components/DailyMixRunner.svelte';
 import AppShell from '../layouts/AppShell.astro';
 
@@ -18,36 +19,9 @@ const [lessons, vocab, exercises] = await Promise.all([
 ]);
 
 // Project to the minimal structural shapes DailyMixRunner accepts — keeps the
-// runner from importing 'astro:content'. `lesson.md` frontmatter has no `lesson`
-// field; derive it from `data.number` (padded) for canonical matching with vocab
-// sets' `data.lesson`. Same robustness as `path.astro`: fall back to deriving
-// `level` and `slug` from the entry id when frontmatter omits them (e.g. A1/01).
-const lessonsProjected = lessons
-  .map(e => {
-    const idSegments = e.id.split('/');
-    const levelRaw = e.data.level ?? idSegments[0] ?? '';
-    const slugRaw = e.data.slug ?? idSegments[1] ?? '';
-    const level = levelRaw.toUpperCase();
-    const number = e.data.number;
-    if (!level || !slugRaw || number == null) return null;
-    return {
-      id: e.id,
-      data: {
-        lesson: `${level}/${String(number).padStart(2, '0')}`,
-        slug: slugRaw,
-        title: e.data.title ?? '(unbenannt)',
-        // path.ts's projectLesson gates `level` against /^[A-C][12]$/ (uppercase only).
-        // Always store the uppercased form so lessons with lowercase `level:` frontmatter
-        // (or none at all, like A1/01) survive the projection.
-        level: level,
-        number,
-      },
-    };
-  })
-  .filter((x): x is NonNullable<typeof x> => x !== null);
-const vocabProjected = vocab.map(e => ({
-  id: e.id, lesson: e.data.lesson, entries: e.data.entries,
-}));
+// runner from importing 'astro:content'. Same projection as /path (@core/content/lessons).
+const lessonsProjected = projectLessonEntries(lessons);
+const vocabProjected = projectVocabSets(vocab);
 const exerciseEntries = exercises.map(e => ({ id: e.id, data: e.data }));
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
