@@ -78,8 +78,8 @@
           <audio-play data-src="{audioDir}{item.audio}" data-enable-replay="1" data-replay-limit="2"></audio-play>
         </div>
       {/if}
-      <p class="question"><strong>{i + 1}.</strong> {item.q}</p>
-      <div class="options">
+      <p class="question" id="{exercise.id}-{i}-q"><strong>{i + 1}.</strong> {item.q}</p>
+      <div class="options" role="radiogroup" aria-labelledby="{exercise.id}-{i}-q">
         {#each item.options as opt}
           <label class="option {optionClass(i, opt.key)}">
             <input
@@ -125,7 +125,21 @@
     border-color: var(--brand-400, #5985fc);
     background: var(--brand-50, #eef4ff);
   }
-  .option input[type="radio"] { display: none; }
+  /* Visually hidden but still focusable and announced: display:none removed every
+     single-choice item from the keyboard tab order and the accessibility tree (#474).
+     Native radios keep arrow-key navigation inside each group. */
+  .option { position: relative; }
+  .option input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    width: 1px;
+    height: 1px;
+    margin: 0;
+  }
+  .option:has(input:focus-visible) {
+    outline: 2px solid var(--brand-500, #3562f6);
+    outline-offset: 2px;
+  }
   .option.selected {
     border-color: var(--brand-500, #3562f6);
     background: var(--brand-50, #eef4ff);
