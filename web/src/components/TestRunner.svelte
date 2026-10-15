@@ -56,8 +56,14 @@
     }
     autoScores = scores;
     graded = true;
-    if (examResult) progress.recordResult(lessonId, examResult as never);
   }
+
+  // Record on every change, not once at "Auswerten": self-assessed skills are
+  // entered after grading, and a one-shot save stored them as 0 (#471).
+  // recordResult keeps the best score and never un-passes, so repeats are safe.
+  $effect(() => {
+    if (examResult) progress.recordResult(lessonId, examResult);
+  });
 
   function nochmal() {
     graded = false;
@@ -68,6 +74,12 @@
 
   const selfSkills = $derived(examGrid.skills.filter(sk => sk.selfAssessed));
 
+  // Scored practice tasks outside every skill (e.g. the A1 grammar bonus section)
+  // still render, but are labelled as not counting toward the exam result.
+  const inGrid = new Set(examGrid.skills.flatMap(sk => sk.exerciseIds));
+  const isExtra = (ex: ExerciseUnion) =>
+    !inGrid.has(ex.id) && ex.type !== 'free-write' && ex.type !== 'speaking-prompt';
+
   // Reactive, not one-shot: fires on the initial grade AND on every self-assessment
   // edit afterwards, same as the score panel below re-renders live.
   $effect(() => {
@@ -77,6 +89,9 @@
 
 <div class="test-runner">
   {#each exercises as exercise, i (exercise.id)}
+    {#if isExtra(exercise)}
+      <p class="extra-note">Zusatzübung — zählt nicht zur Prüfungswertung.</p>
+    {/if}
     <ExerciseShell
       bind:this={shellRefs[i]}
       {exercise}
@@ -269,4 +284,5 @@
     transition: background 0.1s;
   }
   .btn-reset:hover { background: #e5e7eb; }
+  .extra-note { margin: 1.5rem 0 -1rem; font-size: var(--text-sm); color: var(--text-subtle); }
 </style>
