@@ -2,7 +2,7 @@ import { describe, it, expect } from 'vitest';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { parse as parseYaml } from 'yaml';
-import { VocabSet, CommittedVocabSet, unlockedVocab, lessonRank, coreDedupKeys, coreDedupKeysUpTo } from '@core/content/vocab';
+import { VocabSet, CommittedVocabSet, unlockedVocab, lessonRank, cefrLevelRank, coreDedupKeys, coreDedupKeysUpTo } from '@core/content/vocab';
 import type { VocabSetType } from '@core/content/vocab';
 import { parseWortschatz, parseToken } from '@core/content/wortschatz-parser';
 
@@ -600,5 +600,15 @@ describe('committed A1/03 vocab.yml', () => {
     const r = CommittedVocabSet.safeParse(raw);
     expect(r.success).toBe(true);
     if (r.success) expect(r.data.entries.length).toBeGreaterThan(0);
+  });
+});
+
+describe('cefrLevelRank', () => {
+  it('reads course lesson prefixes and standalone suffixes', () => {
+    expect(cefrLevelRank('A1/03')).toBe(0);
+    expect(cefrLevelRank('C1/12')).toBe(4);
+    expect(cefrLevelRank('EX/04-relativsatz-b2')).toBe(3);
+    expect(cefrLevelRank('SIT/02-im-supermarkt-a2')).toBe(1);
+    expect(cefrLevelRank('EX/99-unlevelled')).toBe(-1);
   });
 });

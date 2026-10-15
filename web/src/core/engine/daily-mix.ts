@@ -10,7 +10,7 @@
 // lives above the storage layer.
 
 import type { VocabEntryType } from '@core/content/vocab';
-import { vocabDedupKey, unlockedVocab, lessonRank, type VocabSetType } from '@core/content/vocab';
+import { vocabDedupKey, unlockedVocab, lessonRank, cefrLevelRank, type VocabSetType } from '@core/content/vocab';
 import { possibleCards, vocabCardKey, shuffle, type CardFace, type FlashCard } from '@core/content/flashcards';
 import { drillBank } from '@core/content/drills';
 import type { DrillItem, ExerciseSetEntry } from '@core/content/drills';
@@ -250,20 +250,28 @@ export interface SelectInterleavedDrillsInput {
   rng?: () => number;
 }
 
-/** Older-lesson interleaved drills — every tagged exercise across every skill whose
- *  source lesson is strictly OLDER than `currentLessonId` in `lessonRank` order.
- *  Returns [] when there are no older lessons (e.g. user still on A1/01). */
+/** Interleaved drills — every tagged exercise across every skill that the learner
+ *  is ready for:
+ *  - course-lesson drills whose lesson is strictly OLDER than `currentLessonId`;
+ *  - standalone THEMEN / SITUATIONEN / HOEREN drills ("EX/…-b1") at or below the
+ *    current lesson's CEFR level. Their `lessonRank` is -1, which used to pass the
+ *    "older" check and put B2 drills in front of A1/01 learners (issue #468). */
 export function selectInterleavedDrills(input: SelectInterleavedDrillsInput): Array<{ kind: 'drill'; item: DrillItem; source: 'interleaved'; }> {
   if (input.currentLessonId == null) return [];
   const rng = input.rng ?? Math.random;
   const currentRank = lessonRank(input.currentLessonId);
   if (currentRank < 0) return []; // malformed id → empty pool, no throws
+  const currentLevel = cefrLevelRank(input.currentLessonId);
 
   const all: DrillItem[] = [];
   // Iterate the live DrillSkill enum from schema so adding a 9th skill is automatic.
   for (const skill of DrillSkill.options) {
     for (const item of drillBank(input.exerciseEntries as ExerciseSetEntry[], skill)) {
-      if (lessonRank(item.lessonId) < currentRank) all.push(item);
+      const rank = lessonRank(item.lessonId);
+      const eligible = rank >= 0
+        ? rank < currentRank
+        : cefrLevelRank(item.lessonId) >= 0 && cefrLevelRank(item.lessonId) <= currentLevel;
+      if (eligible) all.push(item);
     }
   }
 

@@ -105,6 +105,16 @@ export function lessonRank(lesson: string): number {
 }
 
 /**
+ * CEFR level of a lesson or standalone set as a comparable integer (A1 = 0 … C1 = 4),
+ * or -1 when unknown. Course lessons ("B1/03") carry it as the prefix; standalone
+ * THEMEN / SITUATIONEN / HOEREN sets ("EX/28-irgend-b1") as a "-a1"…"-c1" suffix.
+ */
+export function cefrLevelRank(id: string): number {
+  const m = id.match(/^([A-C][12])\/\d{2}$/) ?? id.match(/-([abc][12])$/);
+  return m ? (LEVEL_ORDER[m[1].toUpperCase()] ?? -1) : -1;
+}
+
+/**
  * Filter loaded vocab sets down to the words a learner has unlocked: everything
  * from `uptoLesson` and all earlier lessons. Pure (no astro:content), so the
  * Astro page passes in getCollection('vocab') results and tests can cover it.
