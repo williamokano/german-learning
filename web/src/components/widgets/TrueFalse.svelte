@@ -1,4 +1,5 @@
 <script lang="ts">
+  import InlineText from '../InlineText.svelte';
   import { onMount } from 'svelte';
   import type { ItemResult } from '@core/content/types';
   import type { TrueFalseExercise } from '@core/content/types';
@@ -81,7 +82,7 @@
           <audio-play data-src="{audioDir}{item.audio}" data-enable-replay="1" data-replay-limit="2"></audio-play>
         </div>
       {/if}
-      <span class="statement">{i + 1}. {item.q}</span>
+      <span class="statement">{i + 1}. <InlineText text={item.q} /></span>
       <span class="toggle">
         <button
           type="button"

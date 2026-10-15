@@ -25,7 +25,7 @@
 
 {#if mounted}
   <span class="wortschatz-counter" title="{mastered} Wörter gelernt, {seen} gesehen">
-    <strong>{mastered}</strong> Wörter<span class="wortschatz-long"> gelernt</span>
+    <strong>{mastered}</strong> Wörter{' '}<span class="wortschatz-long">gelernt</span>
     <span class="wortschatz-seen">({seen} gesehen)</span>
   </span>
 {/if}

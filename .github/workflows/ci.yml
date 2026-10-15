@@ -63,3 +63,6 @@ jobs:
 
       - name: Build (validates Astro content collections)
         run: pnpm -C web build
+
+      - name: Check lesson prose rendered cleanly (no raw markdown left)
+        run: node build/check-rendered-prose.mjs
