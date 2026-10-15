@@ -155,12 +155,19 @@ export function buildPathManifest(input: BuildPathManifestInput): PathNode[] {
   return nodes;
 }
 
-/** First node whose id is NOT in `completedIds`. `null` iff every node is complete. */
+/**
+ * The learner's frontier: the first incomplete node *after* the furthest completed
+ * one, so a single skipped lesson doesn't pin "current" behind the learner. Falls
+ * back to the first incomplete node when everything after the frontier is done.
+ * `null` iff every node is complete.
+ */
 export function getNextNode(manifest: PathNode[], completedIds: ReadonlySet<PathNodeId>): PathNode | null {
-  for (const node of manifest) {
-    if (!completedIds.has(node.id)) return node;
+  let furthest = -1;
+  manifest.forEach((node, i) => { if (completedIds.has(node.id)) furthest = i; });
+  for (let i = furthest + 1; i < manifest.length; i++) {
+    if (!completedIds.has(manifest[i].id)) return manifest[i];
   }
-  return null;
+  return manifest.find(node => !completedIds.has(node.id)) ?? null;
 }
 
 export interface PathProgressStats {

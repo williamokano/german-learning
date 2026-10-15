@@ -1,6 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import { path } from '@core/index';
+  import { path, progress } from '@core/index';
+  import type { CourseProgress } from '@core/services/progress';
   import type { PathNode, PathNodeId } from '@core/content/path';
   import { getProgressStats } from '@core/content/path';
 
@@ -11,10 +12,23 @@
   let { manifest, base = '' }: { manifest: PathNode[]; base?: string } = $props();
 
   let completedIds = $state<Set<PathNodeId>>(new Set());
+  let scores = $state<CourseProgress>({});
 
   onMount(() => {
     completedIds = path.getCompletedIds();
+    scores = progress.getProgress();
   });
+
+  function toggleDone(node: PathNode): void {
+    if (completedIds.has(node.id)) path.unmarkComplete(node.id);
+    else path.markComplete(node.id);
+    completedIds = path.getCompletedIds();
+  }
+
+  function scoreLabel(node: PathNode): string | null {
+    const r = scores[node.lessonId];
+    return r ? `${Math.round(r.pct * 100)} %` : null;
+  }
 
   const grouped = $derived.by(() => {
     const map = new Map<string, PathNode[]>();
@@ -77,7 +91,18 @@
               {#if node.kind === 'checkpoint-quiz'}
                 <span class="node-kind">Prüfung</span>
               {/if}
+              {#if scoreLabel(node)}
+                <span class="node-score" title="Bestes Übungsergebnis">{scoreLabel(node)}</span>
+              {/if}
             </a>
+            <button
+              type="button"
+              class="node-toggle"
+              aria-pressed={s === 'done'}
+              aria-label={s === 'done' ? `${node.lessonId} zurücksetzen` : `${node.lessonId} als erledigt markieren`}
+              title={s === 'done' ? 'Zurücksetzen' : 'Als erledigt markieren'}
+              onclick={() => toggleDone(node)}
+            >{s === 'done' ? '↺' : '✓'}</button>
           </li>
         {/each}
       </ol>
@@ -113,4 +138,22 @@
   .node-lesson { color: #9ca3af; font-size: 0.85rem; min-width: 3rem; font-variant-numeric: tabular-nums; }
   .node-title { flex: 1; }
   .node-kind { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; padding: 0.1rem 0.4rem; border-radius: 4px; background: #fef3c7; color: #b45309; font-weight: 600; }
+  .node-score {
+    margin-left: auto;
+    font-size: var(--text-xs);
+    color: var(--text-subtle);
+    font-variant-numeric: tabular-nums;
+  }
+  .node-toggle {
+    flex-shrink: 0;
+    min-width: 2rem;
+    min-height: 2rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    background: var(--surface);
+    color: var(--text-subtle);
+    font: inherit;
+    cursor: pointer;
+  }
+  .node-toggle:hover { color: var(--text); border-color: var(--border-strong); }
 </style>

@@ -22,7 +22,7 @@ const content  = new ContentService();
 const srs             = new SrsService(storage);
 const flashcardSession = new FlashcardSessionService(storage, srs);
 const fehlerbuch        = new FehlerbuchService(storage, srs);
-const path              = new PathService(storage);
+const path              = new PathService(storage, () => progress.passedLessonIds());
 const pillSettings      = new PillSettingsService(storage);
 const studyPlan          = new StudyPlanService(storage);
 
