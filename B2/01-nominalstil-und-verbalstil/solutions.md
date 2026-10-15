@@ -257,7 +257,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (bewerte dich /20)
 
-1. **die Prüfung**  2. **die Entscheidung**  3. **die Anmeldung**  4. **ablehnen**  5. **reagieren**  6. **weil**  7. **obwohl**  8. **nachdem**  9. **indem**  10. **wegen**  11. **trotz**  12. **vor**  13. **Genitiv**  14. **Dativ**  15. **Weil es regnete, blieben wir zu Hause.**  16. **Obwohl er müde war, arbeitete er weiter.**  17. **Wegen der gestiegenen Kosten …**  18. **Nach der Prüfung des Antrags …**  19. **um**  20. **das Recyceln**
+1. **die Prüfung**  2. **die Entscheidung**  3. **die Anmeldung**  4. **ablehnen**  5. **reagieren**  6. **weil**  7. **obwohl**  8. **nachdem**  9. **indem**  10. **wegen**  11. **trotz**  12. **vor**  13. **Genitiv**  14. **Dativ**  15. **Weil es regnete, blieben wir zu Hause.**  16. **Obwohl er müde war, arbeitete er weiter.**  17. **Wegen der gestiegenen Kosten** (auch richtig: **Aufgrund der gestiegenen Kosten**, **Infolge der gestiegenen Kosten**)  18. **Nach der Prüfung des Antrags** (auch richtig: **Nach Prüfung des Antrags**)  19. **um**  20. **das Recyceln**
 
 ---
 

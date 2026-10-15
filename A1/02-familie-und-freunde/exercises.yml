@@ -321,7 +321,7 @@ exercises:
       "7": achtundsechzig
       "8": fünfundsiebzig
       "9": neunundneunzig
-      "10": "(ein)hundert"
+      "10": ["hundert", "einhundert"]
 
   - id: A8
     block: A
@@ -982,7 +982,7 @@ exercises:
       "10": die Söhne
       "11": einundzwanzig
       "12": sechzig
-      "13": "(ein)hundert"
+      "13": ["hundert", "einhundert"]
       "14": "90"
       "15": geschieden
       "16": Hast du Geschwister?

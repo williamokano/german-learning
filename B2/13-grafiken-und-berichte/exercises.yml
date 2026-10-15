@@ -1016,7 +1016,7 @@ exercises:
       "11": "sich verdoppelt"
       "12": "Gegenüber 2023 ist der Wert um 8 % gestiegen."
       "13": "Es lässt sich feststellen, dass die Zahl steigt."
-      "14": 'Es hat sich herausgestellt, dass …'
+      "14": ["Es hat sich herausgestellt, dass", "Es stellte sich heraus, dass"]
       "15": Verfügung
       "16": Frage
       "17": "der Anstieg"

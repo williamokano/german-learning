@@ -148,23 +148,23 @@ exercises:
       - label: "obwohl"
         cells:
           - { gap: 1, answer: "Konj." }
-          - { gap: 2, answer: "Verb-Ende (Nebensatz)" }
-          - { gap: 3, answer: "Er bleibt, obwohl er Berlin liebt." }
+          - { gap: 2, answer: ["Verb-Ende (Nebensatz)", "Verb-Ende", "Verbende", "Ende", "am Ende", "Nebensatz"] }
+          - { gap: 3, answer: "Er bleibt, obwohl er Berlin liebt.", given: "Er bleibt, obwohl er Berlin liebt." }
       - label: "trotzdem"
         cells:
           - { gap: 4, answer: "Adv." }
-          - { gap: 5, answer: "V2 (Hauptsatz, Inversion)" }
-          - { gap: 6, answer: "Er liebt Berlin. Trotzdem bleibt er." }
+          - { gap: 5, answer: ["V2 (Hauptsatz, Inversion)", "V2", "Position 2", "Inversion"] }
+          - { gap: 6, answer: "Er liebt Berlin. Trotzdem bleibt er.", given: "Er liebt Berlin. Trotzdem bleibt er." }
       - label: "deshalb"
         cells:
           - { gap: 7, answer: "Adv." }
-          - { gap: 8, answer: "V2 (Hauptsatz, Inversion)" }
-          - { gap: 9, answer: "Er liebt Prag. Deshalb bleibt er." }
+          - { gap: 8, answer: ["V2 (Hauptsatz, Inversion)", "V2", "Position 2", "Inversion"] }
+          - { gap: 9, answer: "Er liebt Prag. Deshalb bleibt er.", given: "Er liebt Prag. Deshalb bleibt er." }
       - label: "zwar … aber"
         cells:
-          - { gap: 10, answer: "zweiteilig (Adv. + Konj.)" }
-          - { gap: 11, answer: "V2 in beiden Teilen" }
-          - { gap: 12, answer: "Er ist zwar müde, aber er kommt." }
+          - { gap: 10, answer: ["zweiteilig (Adv. + Konj.)", "zweiteilig", "Adv. + Konj."] }
+          - { gap: 11, answer: ["V2 in beiden Teilen", "V2"] }
+          - { gap: 12, answer: "Er ist zwar müde, aber er kommt.", given: "Er ist zwar müde, aber er kommt." }
 
   - id: A2
     block: A

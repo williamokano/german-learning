@@ -241,7 +241,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (bewerte dich selbst: /20)
 
-1. **würde**  2. **würden**  3. **reisen**  4. **würdest**  5. **hätte**  6. **wäre**  7. **müssten**  8. **könnte**  9. **hätte**  10. **würde**  11. **Wenn**  12. **hätte**  13. **solltest**  14. **würde**  15. **ausprobieren**  16. **würde**  17. **wäre**  18. **anfängst**  19. **double würde trap — correct: Wenn ich frei wäre, würde ich reisen.**  20. **würde haben is unnatural — correct: Ich hätte gern mehr Zeit.**
+1. **würde**  2. **würden**  3. **reisen**  4. **würdest**  5. **hätte**  6. **wäre**  7. **müssten**  8. **könnte**  9. **hätte**  10. **würde**  11. **Wenn**  12. **hätte**  13. **solltest**  14. **würde**  15. **ausprobieren**  16. **würde**  17. **wäre**  18. **anfängst**  19. **Wenn ich frei wäre, würde ich reisen.**  20. **Ich hätte gern mehr Zeit.** (auch richtig: **Ich hätte gerne mehr Zeit.**)
 
 ---
 

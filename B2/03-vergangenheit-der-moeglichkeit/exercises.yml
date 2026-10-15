@@ -880,8 +880,8 @@ exercises:
     block: D
     type: gap-text
     listLayout: true
-    title: "Selbsttest (bewerte dich /20)"
-    notes: "16+ / 20 → Lektion B2/04. Unter 16 → wiederhole morgen Block A (A1–A5) und B2 (Finde den Fehler), dann teste D4 erneut."
+    title: "Selbsttest (bewerte dich /17)"
+    notes: "14+ / 17 → Lektion B2/04. Unter 14 → wiederhole morgen Block A (A1–A5) und B2 (Finde den Fehler), dann teste D4 erneut."
     text: |
       **Konjunktiv II der Vergangenheit — Form:**
       1. „Ich {1} (haben) das anders gemacht."
@@ -898,7 +898,7 @@ exercises:
 
       **Irreale Vergleiche:**
       8. „Er tat, als ob er nichts {8} (wissen)."
-      9. „Sie sah aus, {9} hätte sie geweint." (als / als ob — wähle: als)
+      9. „Sie sah aus, {9} hätte sie geweint." (als / als ob)
 
       **Übersetzen:**
       10. „We should have informed him." → {10}
@@ -910,13 +910,8 @@ exercises:
       14. (B1/01) Plusquamperfekt „gehen", ich-Form: {14} {15}
       15. (A2/01) Präteritum „müssen", ich-Form: {16}
 
-      **Mini-Text (3 Sätze mit „Ich hätte … sollen"):**
-      16. {17}
-      17. {18}
-      18. {19}
-
       **Gemischtes:**
-      19. ⚠️ Modalverb → Hilfsverb? „Ich ____ gehen können." (hätte / wäre): {20}
+      16. ⚠️ Modalverb → Hilfsverb? „Ich ____ gehen können." (hätte / wäre): {17}
     answers:
       "1": hätte
       "2": wärst
@@ -929,12 +924,26 @@ exercises:
       "9": als
       "10": "Wir hätten ihn informieren müssen."
       "11": "Ich hätte beinahe den Zug verpasst."
-      "12": "Hätte ich das nur/bloß gewusst!"
+      "12": ["Hätte ich das nur gewusst!", "Hätte ich das bloß gewusst!", "Wenn ich das nur gewusst hätte!", "Wenn ich das bloß gewusst hätte!"]
       "13": könnte
       "14": war
       "15": gegangen
       "16": musste
-      "17": "(z. B. Ich hätte früher aufstehen sollen.)"
-      "18": "—"
-      "19": "—"
-      "20": hätte
+      "17": hätte
+
+  - id: D5
+    block: D
+    type: free-write
+    title: "Mini-Text: Was ich hätte tun sollen"
+    instructions: "Schreib 3 Sätze mit „Ich hätte … sollen“ (oder „müssen“/„können“) über eine Situation, die schiefgegangen ist."
+    instructionsEn: "Write 3 sentences with „Ich hätte … sollen“ (or „müssen“/„können“) about a situation that went wrong."
+    prompt: "Ein Tag, der schiefging — was hättest du anders machen sollen?"
+    minSentences: 3
+    use:
+      - "Ich hätte … + Infinitiv + sollen/müssen/können (Doppelinfinitiv am Satzende)"
+      - "Wenn ich …, hätte ich … (irrealer Bedingungssatz)"
+    selfCheck:
+      - "Steht der Doppelinfinitiv (aufstehen sollen) ganz am Ende?"
+      - "Ist das Hilfsverb „hätte“ (nicht „wäre“) bei Modalverben?"
+      - "Beziehen sich alle Sätze auf die Vergangenheit?"
+    model: "Ich hätte früher aufstehen sollen. Außerdem hätte ich mir den Fahrplan vorher ansehen müssen. Wenn ich ein Taxi genommen hätte, hätte ich den Termin noch erreichen können."

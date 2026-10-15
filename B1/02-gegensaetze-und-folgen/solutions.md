@@ -38,10 +38,10 @@
 
 | Konnektor | Typ | Verbstellung | Beispiel |
 |---|---|---|---|
-| obwohl | **Konj.** | **Verb-Ende (Nebensatz)** | **Er bleibt, obwohl er Berlin liebt.** |
-| trotzdem | **Adv.** | **V2 (Hauptsatz, Inversion)** | **Er liebt Berlin. Trotzdem bleibt er.** |
-| deshalb | **Adv.** | **V2 (Hauptsatz, Inversion)** | **Er liebt Prag. Deshalb bleibt er.** |
-| zwar … aber | **zweiteilig (Adv. + Konj.)** | **V2 in beiden Teilen** | **Er ist zwar müde, aber er kommt.** |
+| obwohl | **Konj.** | **Verb-Ende (Nebensatz)** (auch richtig: **Verb-Ende**, **Verbende**, **Ende**, **am Ende**, **Nebensatz**) | Er bleibt, obwohl er Berlin liebt. |
+| trotzdem | **Adv.** | **V2 (Hauptsatz, Inversion)** (auch richtig: **V2**, **Position 2**, **Inversion**) | Er liebt Berlin. Trotzdem bleibt er. |
+| deshalb | **Adv.** | **V2 (Hauptsatz, Inversion)** (auch richtig: **V2**, **Position 2**, **Inversion**) | Er liebt Prag. Deshalb bleibt er. |
+| zwar … aber | **zweiteilig (Adv. + Konj.)** (auch richtig: **zweiteilig**, **Adv. + Konj.**) | **V2 in beiden Teilen** (auch richtig: **V2**) | Er ist zwar müde, aber er kommt. |
 
 ## Übung A2 — `obwohl` — Verb ans Ende
 

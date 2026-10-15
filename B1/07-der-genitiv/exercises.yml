@@ -158,10 +158,10 @@ exercises:
           - { gap: 12, answer: "den/– Leuten", given: "den/– Leuten" }
       - label: "Gen."
         cells:
-          - { gap: 13, answer: "des/eines Mannes" }
-          - { gap: 14, answer: "der/einer Frau" }
-          - { gap: 15, answer: "des/eines Kindes" }
-          - { gap: 16, answer: "der/– Leute" }
+          - { gap: 13, answer: ["des/eines Mannes", "des Mannes", "eines Mannes"] }
+          - { gap: 14, answer: ["der/einer Frau", "der Frau", "einer Frau"] }
+          - { gap: 15, answer: ["des/eines Kindes", "des Kindes", "eines Kindes"] }
+          - { gap: 16, answer: ["der/– Leute", "der Leute"] }
 
   - id: A2
     block: A

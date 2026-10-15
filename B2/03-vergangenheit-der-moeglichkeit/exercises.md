@@ -434,7 +434,7 @@ Wiederholung früherer Lektionen. 10 Lücken.
 7. Perfekt von „lesen", ich-Form: „Ich ______ ein Buch ______." (haben + Partizip)
 8. Präteritum von „wollen", er/sie-Form: ______
 
-## Übung D4 — Selbsttest (bewerte dich /20)
+## Übung D4 — Selbsttest (bewerte dich /17)
 
 **Konjunktiv II der Vergangenheit — Form:**
 1. „Ich ______ (haben) das anders gemacht."
@@ -451,7 +451,7 @@ Wiederholung früherer Lektionen. 10 Lücken.
 
 **Irreale Vergleiche:**
 8. „Er tat, als ob er nichts ______ (wissen)."
-9. „Sie sah aus, ______ hätte sie geweint." (als / als ob — wähle: als)
+9. „Sie sah aus, ______ hätte sie geweint." (als / als ob)
 
 **Übersetzen:**
 10. „We should have informed him." → ______
@@ -463,12 +463,22 @@ Wiederholung früherer Lektionen. 10 Lücken.
 14. (B1/01) Plusquamperfekt „gehen", ich-Form: ______ ______
 15. (A2/01) Präteritum „müssen", ich-Form: ______
 
-**Mini-Text (3 Sätze mit „Ich hätte … sollen"):**
-16. ______
-17. ______
-18. ______
-
 **Gemischtes:**
-19. ⚠️ Modalverb → Hilfsverb? „Ich ____ gehen können." (hätte / wäre): ______
+16. ⚠️ Modalverb → Hilfsverb? „Ich ____ gehen können." (hätte / wäre): ______
 
-_16+ / 20 → Lektion B2/04. Unter 16 → wiederhole morgen Block A (A1–A5) und B2 (Finde den Fehler), dann teste D4 erneut._
+_14+ / 17 → Lektion B2/04. Unter 14 → wiederhole morgen Block A (A1–A5) und B2 (Finde den Fehler), dann teste D4 erneut._
+
+## Übung D5 — Mini-Text: Was ich hätte tun sollen
+
+Schreib 3 Sätze mit „Ich hätte … sollen“ (oder „müssen“/„können“) über eine Situation, die schiefgegangen ist.
+
+**Your task:** Ein Tag, der schiefging — was hättest du anders machen sollen?
+
+Use:
+- [ ] Ich hätte … + Infinitiv + sollen/müssen/können (Doppelinfinitiv am Satzende)
+- [ ] Wenn ich …, hätte ich … (irrealer Bedingungssatz)
+
+Self-check:
+- [ ] Steht der Doppelinfinitiv (aufstehen sollen) ganz am Ende?
+- [ ] Ist das Hilfsverb „hätte“ (nicht „wäre“) bei Modalverben?
+- [ ] Beziehen sich alle Sätze auf die Vergangenheit?

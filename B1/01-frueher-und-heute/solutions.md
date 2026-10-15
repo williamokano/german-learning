@@ -254,9 +254,20 @@ Selbstkorrektur:
 
 1. **musste**  2. **Zuerst**  3. **wollte**  4. **für**  5. **an**  6. **denkst**  7. **ein Buch**  8. **ihr**  9. **es ihr**  10. **erklärte**
 
-## Übung D4 — Selbsttest (score yourself /20)
+## Übung D4 — Selbsttest (score yourself /18)
 
-1. **war**  2. **musste**  3. **wusste**  4. **war**  5. **hatte**  6. **Zuerst**  7. **Dann**  8. **Damals**  9. **Früher**  10. **an**  11. **Ich hatte eine kleine Wohnung.**  12. **Wir zogen 2015 nach Wien.**  13. **Bevor ich nach Berlin kam, hatte ich in München studiert.**  14. **(eigene Antwort — Satz 1)**  15. **(eigene Antwort — Satz 2)**  16. **(eigene Antwort — Satz 3)**  17. **arbeitete**  18. **ihm**  19. **hätte**  20. **in die**  21. **Bevor ich nach Berlin kam, hatte ich nie Deutsch gesprochen.**
+1. **war**  2. **musste**  3. **wusste**  4. **war**  5. **hatte**  6. **Zuerst**  7. **Dann**  8. **Damals**  9. **Früher**  10. **an**  11. **Ich hatte eine kleine Wohnung.**  12. **Wir zogen 2015 nach Wien.**  13. **Bevor ich nach Berlin kam, hatte ich in München studiert.**  14. **arbeitete**  15. **ihm**  16. **hätte**  17. **in die**  18. **Bevor ich nach Berlin kam, hatte ich nie Deutsch gesprochen.**
+
+## Übung D5 — Mini-Geschichte: Früher und heute
+
+Modellantwort:
+
+> Früher wohnte ich in einer kleinen Wohnung in Moabit. Damals hatte ich wenig Geld und fuhr jeden Tag mit dem Bus zur Arbeit. Heute wohne ich mit meiner Partnerin zusammen und fahre mit dem Rad.
+
+Selbstkorrektur:
+- [ ] Stehen die Verben der Vergangenheit im Präteritum?
+- [ ] Steht das Verb nach dem Zeitkonnektor auf Position 2?
+- [ ] Gibt es einen klaren Kontrast zwischen früher und heute?
 
 ---
 

@@ -873,8 +873,8 @@ exercises:
     block: D
     type: gap-text
     listLayout: true
-    title: "Selbsttest (bewerte dich /20)"
-    notes: "16+ / 20 → Lektion B2/05. Unter 16 → wiederhole Block A (A1–A6) und B2 (Finde den Fehler) morgen, dann teste D4 erneut."
+    title: "Selbsttest (bewerte dich /18)"
+    notes: "15+ / 18 → Lektion B2/05. Unter 15 → wiederhole Block A (A1–A6) und B2 (Finde den Fehler) morgen, dann teste D4 erneut."
     text: |
       **Konjunktiv I — 3. Person Singular:**
       1. „Er sagt, er ____ keine Zeit." (haben): {1}
@@ -908,9 +908,6 @@ exercises:
       17. (B2/03) Konjunktiv II der Vergangenheit von sein, er: {17} gegangen
       18. (B2/01) Verb zu „die Prüfung": {18}
 
-      **Mini-Meldung (2 Sätze in indirekter Rede):**
-      19. {19}
-      20. {20}
     answers:
       "1": habe
       "2": sei
@@ -930,5 +927,21 @@ exercises:
       "16": kämen
       "17": wäre
       "18": prüfen
-      "19": "(eigene Meldung in indirekter Rede, z. B.: Der Sprecher sagte, die Firma werde investieren.)"
-      "20": "—"
+
+  - id: D5
+    block: D
+    type: free-write
+    title: "Mini-Meldung in indirekter Rede"
+    instructions: "Schreib eine kurze Meldung (2 Sätze) in indirekter Rede — z. B. über eine Firma, eine Stadt oder ein Sportereignis."
+    instructionsEn: "Write a short news item (2 sentences) in reported speech — e.g. about a company, a city or a sports event."
+    prompt: "Eine kurze Meldung in indirekter Rede (2 Sätze)."
+    minSentences: 2
+    use:
+      - "Konjunktiv I (er sagte, die Firma werde / es gebe …)"
+      - "Konjunktiv II als Ersatz im Plural (sie sagten, sie hätten …)"
+      - "ein Redeeinleitungsverb (betonen, erklären, mitteilen …)"
+    selfCheck:
+      - "Steht jedes berichtete Verb im Konjunktiv I (oder II als Ersatz)?"
+      - "Ist das Pronomen aus Sicht des Berichtenden (ich → er/sie)?"
+      - "Gibt es ein passendes Redeeinleitungsverb?"
+    model: "Der Sprecher sagte, die Firma werde im nächsten Jahr in Leipzig investieren. Außerdem betonte er, es gebe keine Entlassungen."

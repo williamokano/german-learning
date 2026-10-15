@@ -38,7 +38,7 @@
 | aktuell | actually (= eigentlich) | **eigentlich / tatsächlich** | registerfremd im Achtsamkeits-Kontext |
 | realisieren | to realize (= begreifen) | **erkennen / bemerken** | falscher Freund |
 | eventuell | eventually (= schließlich) | **mögliche / denkbare** | verzerrt die Wahrscheinlichkeit |
-| bald | **soon (anytime soon)** | zeitnah / in Kürze | unpassend bei Sechs-Monats-Frist |
+| bald | **soon (anytime soon)** (auch richtig: **soon**, **anytime soon**) | zeitnah / in Kürze | unpassend bei Sechs-Monats-Frist |
 
 ---
 

@@ -435,7 +435,7 @@ Wiederholung früherer Lektionen. 10 Items.
 7. „Ich ____ das nicht gesagt." (Vorwurf, Konjunktiv II der Vergangenheit von haben, 1. Sg.): ______
 8. „Du ____ früher kommen sollen." (Konjunktiv II der Vergangenheit von haben, 2. Sg.): ______
 
-## Übung D4 — Selbsttest (bewerte dich /20)
+## Übung D4 — Selbsttest (bewerte dich /18)
 
 **Konjunktiv I — 3. Person Singular:**
 1. „Er sagt, er ____ keine Zeit." (haben): ______
@@ -469,8 +469,20 @@ Wiederholung früherer Lektionen. 10 Items.
 17. (B2/03) Konjunktiv II der Vergangenheit von sein, er: ______ gegangen
 18. (B2/01) Verb zu „die Prüfung": ______
 
-**Mini-Meldung (2 Sätze in indirekter Rede):**
-19. ______
-20. ______
+_15+ / 18 → Lektion B2/05. Unter 15 → wiederhole Block A (A1–A6) und B2 (Finde den Fehler) morgen, dann teste D4 erneut._
 
-_16+ / 20 → Lektion B2/05. Unter 16 → wiederhole Block A (A1–A6) und B2 (Finde den Fehler) morgen, dann teste D4 erneut._
+## Übung D5 — Mini-Meldung in indirekter Rede
+
+Schreib eine kurze Meldung (2 Sätze) in indirekter Rede — z. B. über eine Firma, eine Stadt oder ein Sportereignis.
+
+**Your task:** Eine kurze Meldung in indirekter Rede (2 Sätze).
+
+Use:
+- [ ] Konjunktiv I (er sagte, die Firma werde / es gebe …)
+- [ ] Konjunktiv II als Ersatz im Plural (sie sagten, sie hätten …)
+- [ ] ein Redeeinleitungsverb (betonen, erklären, mitteilen …)
+
+Self-check:
+- [ ] Steht jedes berichtete Verb im Konjunktiv I (oder II als Ersatz)?
+- [ ] Ist das Pronomen aus Sicht des Berichtenden (ich → er/sie)?
+- [ ] Gibt es ein passendes Redeeinleitungsverb?

@@ -1105,8 +1105,8 @@ exercises:
       14. Es {17} besser, wenn du früher {18}. (sein / anfangen)
 
       **Fehler finden:**
-      15. Wenn ich würde frei sein, würde ich reisen. Was ist falsch? → {19}
-      16. Ich würde haben gern mehr Zeit. Was ist falsch? → {20}
+      15. Korrigiere: „Wenn ich würde frei sein, würde ich reisen.“ → {19}
+      16. Korrigiere: „Ich würde haben gern mehr Zeit.“ → {20}
     answers:
       "1": würde
       "2": würden
@@ -1126,8 +1126,8 @@ exercises:
       "16": würde
       "17": wäre
       "18": anfängst
-      "19": "double würde trap — correct: Wenn ich frei wäre, würde ich reisen."
-      "20": "würde haben is unnatural — correct: Ich hätte gern mehr Zeit."
+      "19": "Wenn ich frei wäre, würde ich reisen."
+      "20": ["Ich hätte gern mehr Zeit.", "Ich hätte gerne mehr Zeit."]
     alts:
       "11":
         - word: "Falls"

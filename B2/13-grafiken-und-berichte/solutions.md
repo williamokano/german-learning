@@ -265,7 +265,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (bewerte dich /20)
 
-1. **zunehmen**  2. **sinken**  3. **verdoppelt**  4. **betragen**  5. **Zwischen**  6. **Gegenüber**  7. **Durchschnitt**  8. **ergibt**  9. **lässt**  10. **ist**  11. **sich verdoppelt**  12. **Gegenüber 2023 ist der Wert um 8 % gestiegen.**  13. **Es lässt sich feststellen, dass die Zahl steigt.**  14. **Es hat sich herausgestellt, dass …**  15. **Verfügung**  16. **Frage**  17. **der Anstieg**  18. **lässt**  19. **Frage**  20. **die Gäste**
+1. **zunehmen**  2. **sinken**  3. **verdoppelt**  4. **betragen**  5. **Zwischen**  6. **Gegenüber**  7. **Durchschnitt**  8. **ergibt**  9. **lässt**  10. **ist**  11. **sich verdoppelt**  12. **Gegenüber 2023 ist der Wert um 8 % gestiegen.**  13. **Es lässt sich feststellen, dass die Zahl steigt.**  14. **Es hat sich herausgestellt, dass** (auch richtig: **Es stellte sich heraus, dass**)  15. **Verfügung**  16. **Frage**  17. **der Anstieg**  18. **lässt**  19. **Frage**  20. **die Gäste**
 
 ---
 
