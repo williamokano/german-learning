@@ -46,7 +46,8 @@
         correct: selected != null && correct,
         given: selected == null ? '' : (selected ? pos : neg),
         expected: item.answer ? pos : neg,
-        scoreable: selected != null,
+        // A skipped item counts as wrong, as in every other widget (issue #469).
+        scoreable: true,
       };
     });
   }

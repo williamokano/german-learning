@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { normalize, checkText, checkBank, checkOrder } from '@core/engine/grading';
+import { normalize, checkText, checkBank, checkOrderText } from '@core/engine/grading';
 
 describe('normalize', () => {
   it('lowercases by default', () => {
@@ -77,19 +77,54 @@ describe('checkBank', () => {
   });
 });
 
-describe('checkOrder', () => {
+const T = ['a', 'b', 'c', 'd'];
+
+describe('checkOrderText', () => {
   it('matches the correct order', () => {
-    expect(checkOrder([0, 1, 2], [0, 1, 2])).toBe(true);
+    expect(checkOrderText(T, [0, 1, 2], [0, 1, 2])).toBe(true);
   });
   it('rejects wrong order', () => {
-    expect(checkOrder([0, 1, 2], [1, 0, 2])).toBe(false);
+    expect(checkOrderText(T, [0, 1, 2], [1, 0, 2])).toBe(false);
   });
   it('accepts alternative orderings', () => {
     // B5 item 3: Ich wohne jetzt in Berlin. / Jetzt wohne ich in Berlin.
-    expect(checkOrder([0, 1, 2, 3], [2, 0, 1, 3], [[2, 0, 1, 3]])).toBe(true);
-    expect(checkOrder([0, 1, 2], [2, 1, 0], [[2, 1, 0]])).toBe(true);
+    expect(checkOrderText(T, [0, 1, 2, 3], [2, 0, 1, 3], [[2, 0, 1, 3]])).toBe(true);
+    expect(checkOrderText(T, [0, 1, 2], [2, 1, 0], [[2, 1, 0]])).toBe(true);
   });
   it('rejects when neither main nor alt matches', () => {
-    expect(checkOrder([0, 1, 2], [1, 2, 0], [[2, 1, 0]])).toBe(false);
+    expect(checkOrderText(T, [0, 1, 2], [1, 2, 0], [[2, 1, 0]])).toBe(false);
+  });
+  it('treats duplicate tiles as interchangeable (A2/02 B4 #6, #469)', () => {
+    const tiles = ['Sie', 'legt', 'den', 'Teppich', 'unter', 'den', 'Tisch'];
+    // the learner picked the second "den" first — same sentence
+    expect(checkOrderText(tiles, [0, 1, 2, 3, 4, 5, 6], [0, 1, 5, 3, 4, 2, 6])).toBe(true);
+  });
+  it('rejects an incomplete strip', () => {
+    expect(checkOrderText(T, [0, 1, 2], [0, 1])).toBe(false);
+  });
+});
+
+describe('#469 — answers learners can actually type', () => {
+  it('accepts blank, -, – and — for a "no article" key', () => {
+    for (const given of ['', '-', '–', '—', '  ']) expect(checkText('—', given)).toBe(true);
+    expect(checkText('—', 'kein')).toBe(false);
+  });
+  it('accepts any dash for a Gedankenstrich key, but keeps hyphens inside words', () => {
+    expect(checkText('—', '–')).toBe(true);
+    expect(checkText('E-Mail', 'E-Mail')).toBe(true);
+    expect(checkText('E-Mail', 'E — Mail')).toBe(false);
+  });
+  it('unifies smart apostrophes', () => {
+    expect(checkText("Hans'", 'Hans’')).toBe(true);
+  });
+  it('NFC-normalizes decomposed umlauts', () => {
+    expect(checkText('Mädchen', 'Ma\u0308dchen')).toBe(true);
+  });
+  it('ignores ellipses', () => {
+    expect(checkText('Wegen der gestiegenen Kosten …', 'Wegen der gestiegenen Kosten')).toBe(true);
+  });
+  it('gap-bank accepts every listed answer', () => {
+    expect(checkBank(['BRAUCHE', 'ESSE'], 'ESSE')).toBe(true);
+    expect(checkBank(['BRAUCHE', 'ESSE'], 'KAUFE')).toBe(false);
   });
 });

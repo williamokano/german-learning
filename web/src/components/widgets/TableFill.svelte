@@ -32,7 +32,8 @@
     const items: ItemResult[] = [];
     for (const row of exercise.rows) {
       for (const cell of row.cells) {
-        if (!cell) continue;
+        // Given cells are printed examples, not gaps (issue #469).
+        if (!cell || cell.given) continue;
         const key = String(cell.gap);
         const given = answers[key] ?? '';
         const correct = checkText(cell.answer, given, flags);
@@ -91,10 +92,10 @@
                   <!-- empty -->
                 {:else}
                   {@const r = resultFor(cell.gap)}
+                  {#if cell.given}
+                    <span class="given-text">{cell.given}</span>
+                  {:else}
                   <span class="cell-wrap">
-                    {#if cell.given}
-                      <span class="hint-text">{cell.given}</span>
-                    {/if}
                     <input
                       type="text"
                       class="gap-input"
@@ -109,6 +110,7 @@
                       <span class="expected">{r.expected}</span>
                     {/if}
                   </span>
+                  {/if}
                 {/if}
               </td>
             {/each}
@@ -151,7 +153,7 @@
     font-weight: 650;
   }
   .cell-wrap { display: inline-flex; align-items: center; gap: 5px; }
-  .hint-text { font-size: 0.85em; color: var(--text-subtle, #64748b); }
+  .given-text { color: var(--text); }
   .gap-input {
     font: inherit;
     font-size: 0.9rem;
