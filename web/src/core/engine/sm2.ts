@@ -31,7 +31,7 @@ function addDays(date: Date, days: number): Date {
 
 // Formats from LOCAL date components, not toISOString() (which converts to UTC and
 // can shift the calendar day backward/forward depending on the runtime's timezone).
-function isoDate(date: Date): string {
+export function isoDate(date: Date): string {
   const y = date.getFullYear();
   const m = String(date.getMonth() + 1).padStart(2, '0');
   const d = String(date.getDate()).padStart(2, '0');

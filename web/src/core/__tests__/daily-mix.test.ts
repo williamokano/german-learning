@@ -259,18 +259,78 @@ describe('selectDueCards', () => {
     expect(apfelHits[0].face).toBe('article');
   });
 
-  it('a never-rated word surfaces as exactly one due item (most-overdue null = null itself)', () => {
-    const vocabSets = [set('A1/01', essen)];
+  it('never puts a never-rated card in the review slot (#467)', () => {
     const r = selectDueCards({
       currentLessonId: 'A1/01',
-      vocabSets,
-      cardStates: {}, // empty — both meaning directions are due (null schedule)
+      vocabSets: [set('A1/01', essen, apfel)],
+      cardStates: {},
       size: 5,
       now: NOW,
     });
-    // essen has 2 meaning cards; same-word dedup keeps ONE
-    expect(r).toHaveLength(1);
-    expect(r[0].entry.de).toBe('essen');
+    expect(r).toEqual([]);
+  });
+
+  it('rated + due cards are never displaced by unrated ones (#467 regression)', () => {
+    const many = Array.from({ length: 30 }, (_, i) => entry({ de: `Wort${i}`, en: `word${i}`, pos: 'adverb' }));
+    const cardStates: Record<string, CardStateLike> = {
+      [cardKeyFor(apfel, 'meaning-de-en')]: { intervalDays: 1, dueAt: '2026-01-05' },
+      [cardKeyFor(banane, 'meaning-en-de')]: { intervalDays: 3, dueAt: '2026-01-09' },
+    };
+    const r = selectDueCards({
+      currentLessonId: 'A1/01',
+      vocabSets: [set('A1/01', apfel, banane, ...many)],
+      cardStates,
+      size: 5,
+      now: NOW,
+    });
+    expect(r.map(it => it.cardKey)).toEqual([cardKeyFor(apfel, 'meaning-de-en'), cardKeyFor(banane, 'meaning-en-de')]);
+    for (const it of r) expect(it.source).toBe('due');
+  });
+
+  it('leaves out rated cards that are not due yet', () => {
+    const r = selectDueCards({
+      currentLessonId: 'A1/01',
+      vocabSets: [set('A1/01', apfel)],
+      cardStates: { [cardKeyFor(apfel, 'meaning-de-en')]: { intervalDays: 3, dueAt: '2026-01-12' } },
+      size: 5,
+      now: NOW,
+    });
+    expect(r).toEqual([]);
+  });
+
+  it('introduces unseen faces of a graduated word as "new", after real reviews', () => {
+    const cardStates: Record<string, CardStateLike> = {
+      // apfel's de→en face has graduated (6-day interval, not due) → its other faces may join
+      [cardKeyFor(apfel, 'meaning-de-en')]: { intervalDays: 6, dueAt: '2026-01-15' },
+      // banane is genuinely due
+      [cardKeyFor(banane, 'meaning-de-en')]: { intervalDays: 1, dueAt: '2026-01-10' },
+    };
+    const r = selectDueCards({
+      currentLessonId: 'A1/01',
+      vocabSets: [set('A1/01', apfel, banane)],
+      cardStates,
+      size: 5,
+      now: NOW,
+    });
+    expect(r.map(it => [it.entry.de, it.source])).toEqual([['Banane', 'due'], ['Apfel', 'new']]);
+    expect(r[1].face).not.toBe('meaning-de-en');
+  });
+
+  it('dedups by word before applying the size cap, so the slot is filled', () => {
+    const cardStates: Record<string, CardStateLike> = {
+      [cardKeyFor(apfel, 'meaning-de-en')]: { dueAt: '2026-01-01' },
+      [cardKeyFor(apfel, 'meaning-en-de')]: { dueAt: '2026-01-02' },
+      [cardKeyFor(apfel, 'article')]: { dueAt: '2026-01-03' },
+      [cardKeyFor(banane, 'meaning-de-en')]: { dueAt: '2026-01-04' },
+    };
+    const r = selectDueCards({
+      currentLessonId: 'A1/01',
+      vocabSets: [set('A1/01', apfel, banane)],
+      cardStates,
+      size: 2,
+      now: NOW,
+    });
+    expect(r.map(it => it.entry.de)).toEqual(['Apfel', 'Banane']);
   });
 });
 
@@ -401,9 +461,8 @@ describe('buildDailyMix — fehlerbuch min-1 bump', () => {
 
 describe('buildDailyMix — cross-pool dedup', () => {
   it('a never-rated entry appearing in both new and due pools shows up once, not twice', () => {
-    // essen has no rating anywhere → it's "new" by selectNewPillsForLesson.
-    // It also has a null schedule → selectDueCards may pick it (rankByDue puts null
-    // schedules first). The buildDailyMix cross-pool dedup should drop it from due.
+    // essen has no rating anywhere → it's "new" by selectNewPillsForLesson and must
+    // never also show up as a review.
     const vocabSets = [set('A1/01', essen, apfel)];
     // apfel rated (so apfel is "due", not "new")
     const cardStates: Record<string, CardStateLike> = {

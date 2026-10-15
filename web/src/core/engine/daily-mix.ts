@@ -14,7 +14,7 @@ import { vocabDedupKey, unlockedVocab, lessonRank, type VocabSetType } from '@co
 import { possibleCards, vocabCardKey, shuffle, type CardFace, type FlashCard } from '@core/content/flashcards';
 import { drillBank } from '@core/content/drills';
 import type { DrillItem, ExerciseSetEntry } from '@core/content/drills';
-import { selectBurst, type DueCandidate } from '@core/engine/sm2';
+import { isoDate } from '@core/engine/sm2';
 import type { FehlerbuchEntry } from '@core/engine/fehlerbuch';
 import { DrillSkill } from '@core/content/schema';
 
@@ -137,12 +137,6 @@ function pickNewEntryFace(rng: () => number): CardFace {
   return rng() < 0.5 ? DE_EN : EN_DE;
 }
 
-/** Map a chosen due cardKey back to its entry + face — uses `possibleCards`'s
- *  lookup map shape. */
-function flashCardFromMap(cardMap: Map<string, FlashCard>, cardKey: string): FlashCard | undefined {
-  return cardMap.get(cardKey);
-}
-
 // ---- Exported pool selectors ----
 
 export interface SelectNewPillsInput {
@@ -193,52 +187,59 @@ export interface SelectDueCardsInput {
   now?: Date;
 }
 
-/** Due-card pool — every renderable card in the unlocked space, ranked through
- *  `selectBurst` (due-first then not-due filler, most-overdue / soonest-first).
- *  Maps chosen cardKeys back to MixItems via the `possibleCards` lookup.
+/** A word's unseen faces (the other meaning direction, the article card) join the
+ *  review slot once one of its rated faces reaches this interval — i.e. after the
+ *  learner has shown they know the word, not on the day it was introduced. */
+export const SIBLING_INTRO_INTERVAL_DAYS = 6;
+
+/** Review slot of the Daily Mix (issue #467).
+ *
+ *  Only genuinely due cards qualify: rated (`dueAt` set) and `dueAt <= today`,
+ *  most-overdue first. Never-rated cards used to sort as "maximally due" and
+ *  crowded out every real review (90-day simulation: 0 of 501 slot items had ever
+ *  been rated). If the slot has room left, unseen faces of graduated words fill it
+ *  (see `SIBLING_INTRO_INTERVAL_DAYS`), labelled `source: 'new'`.
  *
  *  Same-word dedup (mirrors F2's `buildSessionCardKeys`): one card per word per
- *  session. `selectBurst` is word-agnostic, so without this filter a word with
- *  multiple due cards (e.g. apfel rated on meaning-de-en, plus a separate due
- *  meaning-en-de + article) would surface 2-3 times in one session. The most-
- *  overdue direction wins; article cards lose to meaning cards since meaning is
- *  the primary recall axis. */
-export function selectDueCards(input: SelectDueCardsInput): Array<{ kind: 'vocab-card'; entry: VocabEntryType; face: CardFace; source: 'due'; cardKey: string; }> {
-  const now = input.now ?? new Date();
+ *  session, applied *before* the size cap so the slot isn't under-filled. The
+ *  most-overdue face wins. */
+export function selectDueCards(input: SelectDueCardsInput): Array<{ kind: 'vocab-card'; entry: VocabEntryType; face: CardFace; source: 'due' | 'new'; cardKey: string; }> {
+  const today = isoDate(input.now ?? new Date());
   const entries = unlockedVocab(input.vocabSets as VocabSetType[], input.currentLessonId);
   const cardMap = possibleCards(entries);
 
-  const candidates: DueCandidate[] = [];
-  for (const [cardKey] of cardMap) {
-    const schedule = input.cardStates[cardKey];
-    candidates.push({
-      cardKey,
-      schedule: schedule?.dueAt == null ? null : {
-        // We only need dueAt + minimal fields for selectBurst's ranking. The date string
-        // is the only ranking criterion; the structural cast is safe because `selectBurst`
-        // never reads the other fields.
-        reps: 0,
-        intervalDays: 0,
-        ease: 2.5,
-        dueAt: schedule.dueAt!,
-      },
-    });
+  const graduatedWords = new Set<string>();
+  for (const card of cardMap.values()) {
+    const state = input.cardStates[card.key];
+    if (state?.dueAt != null && (state.intervalDays ?? 0) >= SIBLING_INTRO_INTERVAL_DAYS) {
+      graduatedWords.add(vocabDedupKey(card.entry));
+    }
   }
 
-  const chosenKeys = selectBurst(candidates, input.size, now);
+  const due: Array<{ card: FlashCard; dueAt: string }> = [];
+  const intro: FlashCard[] = [];
+  for (const card of cardMap.values()) {
+    const dueAt = input.cardStates[card.key]?.dueAt;
+    if (dueAt != null) {
+      if (dueAt <= today) due.push({ card, dueAt });
+    } else if (graduatedWords.has(vocabDedupKey(card.entry))) {
+      intro.push(card);
+    }
+  }
+  due.sort((a, b) => (a.dueAt < b.dueAt ? -1 : a.dueAt > b.dueAt ? 1 : 0));
 
-  // Apply same-word dedup: keep at most one cardKey per vocabDedupKey per session.
-  // After `selectBurst`'s rank-by-due sort, the first occurrence is the most-
-  // overdue (or soonest-to-due) — the natural choice for "which card face to show."
+  const ranked = [
+    ...due.map(d => ({ card: d.card, source: 'due' as const })),
+    ...intro.map(card => ({ card, source: 'new' as const })),
+  ];
   const seenWord = new Set<string>();
-  const items: Array<{ kind: 'vocab-card'; entry: VocabEntryType; face: CardFace; source: 'due'; cardKey: string; }> = [];
-  for (const cardKey of chosenKeys) {
-    const card = flashCardFromMap(cardMap, cardKey);
-    if (!card) continue;
+  const items: Array<{ kind: 'vocab-card'; entry: VocabEntryType; face: CardFace; source: 'due' | 'new'; cardKey: string; }> = [];
+  for (const { card, source } of ranked) {
+    if (items.length >= input.size) break;
     const wordKey = vocabDedupKey(card.entry);
     if (seenWord.has(wordKey)) continue;
     seenWord.add(wordKey);
-    items.push({ kind: 'vocab-card' as const, entry: card.entry, face: card.face, source: 'due' as const, cardKey: card.key });
+    items.push({ kind: 'vocab-card' as const, entry: card.entry, face: card.face, source, cardKey: card.key });
   }
   return items;
 }
