@@ -250,9 +250,20 @@ Selbstkorrektur:
 
 1. **ob**  2. **ist**  3. **wann**  4. **kommt**  5. **Könnten**  6. **wäre**  7. **hätten**  8. **hätte**  9. **hätte**  10. **hättest**
 
-## Übung D4 — Selbsttest (bewerte dich /20)
+## Übung D4 — Selbsttest (bewerte dich /18)
 
-1. **habe**  2. **sei**  3. **wolle**  4. **hätten**  5. **könnten**  6. **sei**  7. **hätten**  8. **ob**  9. **solle**  10. **wann**  11. **angeblich**  12. **bestreiten**  13. **mache**  14. **stiegen**  15. **ob**  16. **kämen**  17. **wäre**  18. **prüfen**  19. **(eigene Meldung in indirekter Rede, z. B.: Der Sprecher sagte, die Firma werde investieren.)**  20. **—**
+1. **habe**  2. **sei**  3. **wolle**  4. **hätten**  5. **könnten**  6. **sei**  7. **hätten**  8. **ob**  9. **solle**  10. **wann**  11. **angeblich**  12. **bestreiten**  13. **mache**  14. **stiegen**  15. **ob**  16. **kämen**  17. **wäre**  18. **prüfen**
+
+## Übung D5 — Mini-Meldung in indirekter Rede
+
+Modellantwort:
+
+> Der Sprecher sagte, die Firma werde im nächsten Jahr in Leipzig investieren. Außerdem betonte er, es gebe keine Entlassungen.
+
+Selbstkorrektur:
+- [ ] Steht jedes berichtete Verb im Konjunktiv I (oder II als Ersatz)?
+- [ ] Ist das Pronomen aus Sicht des Berichtenden (ich → er/sie)?
+- [ ] Gibt es ein passendes Redeeinleitungsverb?
 
 ---
 

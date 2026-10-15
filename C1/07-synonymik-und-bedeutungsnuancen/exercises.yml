@@ -174,7 +174,7 @@ exercises:
           - { gap: 3, answer: 'verzerrt die Wahrscheinlichkeit', given: 'verzerrt die Wahrscheinlichkeit' }
       - label: 'bald'
         cells:
-          - { gap: 4, answer: 'soon (anytime soon)' }
+          - { gap: 4, answer: ["soon (anytime soon)", "soon", "anytime soon"] }
           - { gap: 4, answer: 'zeitnah / in Kürze', given: 'zeitnah / in Kürze' }
           - { gap: 4, answer: 'unpassend bei Sechs-Monats-Frist', given: 'unpassend bei Sechs-Monats-Frist' }
 

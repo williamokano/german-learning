@@ -261,9 +261,20 @@ Selbstkorrektur:
 
 1. **hätte**  2. **wäre**  3. **würde**  4. **angekommen war**  5. **hatte**  6. **gefunden**  7. **musste**  8. **habe**  9. **gelesen**  10. **wollte**
 
-## Übung D4 — Selbsttest (bewerte dich /20)
+## Übung D4 — Selbsttest (bewerte dich /17)
 
-1. **hätte**  2. **wärst**  3. **hätten**  4. **buchen sollen**  5. **machen können**  6. **gelernt**  7. **wärst**  8. **gewusst hätte**  9. **als**  10. **Wir hätten ihn informieren müssen.**  11. **Ich hätte beinahe den Zug verpasst.**  12. **Hätte ich das nur/bloß gewusst!**  13. **könnte**  14. **war**  15. **gegangen**  16. **musste**  17. **(z. B. Ich hätte früher aufstehen sollen.)**  18. **—**  19. **—**  20. **hätte**
+1. **hätte**  2. **wärst**  3. **hätten**  4. **buchen sollen**  5. **machen können**  6. **gelernt**  7. **wärst**  8. **gewusst hätte**  9. **als**  10. **Wir hätten ihn informieren müssen.**  11. **Ich hätte beinahe den Zug verpasst.**  12. **Hätte ich das nur gewusst!** (auch richtig: **Hätte ich das bloß gewusst!**, **Wenn ich das nur gewusst hätte!**, **Wenn ich das bloß gewusst hätte!**)  13. **könnte**  14. **war**  15. **gegangen**  16. **musste**  17. **hätte**
+
+## Übung D5 — Mini-Text: Was ich hätte tun sollen
+
+Modellantwort:
+
+> Ich hätte früher aufstehen sollen. Außerdem hätte ich mir den Fahrplan vorher ansehen müssen. Wenn ich ein Taxi genommen hätte, hätte ich den Termin noch erreichen können.
+
+Selbstkorrektur:
+- [ ] Steht der Doppelinfinitiv (aufstehen sollen) ganz am Ende?
+- [ ] Ist das Hilfsverb „hätte“ (nicht „wäre“) bei Modalverben?
+- [ ] Beziehen sich alle Sätze auf die Vergangenheit?
 
 ---
 

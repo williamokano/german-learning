@@ -897,8 +897,8 @@ exercises:
     block: D
     type: gap-text
     listLayout: true
-    title: "Selbsttest (score yourself /20)"
-    notes: "16+ / 20 → Lektion B1/02. Below 16 → redo Block A (A1–A4) and Block B2 (Finde den Fehler) tomorrow, then retest D4."
+    title: "Selbsttest (score yourself /18)"
+    notes: "15+ / 18 → Lektion B1/02. Below 15 → redo Block A (A1–A4) and Block B2 (Finde den Fehler) tomorrow, then retest D4."
     text: |
       **Präteritum — fill the form:**
       1. „Ich {1} (sein) 22, als ich nach Berlin kam."
@@ -924,17 +924,12 @@ exercises:
       11. „We moved to Vienna in 2015." → {12}
       12. „Before I came to Berlin, I had studied in Munich." → {13}
 
-      **Mini-Story (3 Sätze):**
-      13. {14}
-      14. {15}
-      15. {16}
-
       **Gemischtes:**
-      16. „Gestern {17} (arbeiten, Präteritum) ich 8 Stunden."
-      17. (A2/11) Akkusativ + Dativ Pronomen: „Ich gebe es {18}." (replace: meinem Bruder)
-      18. (A2/09) Konjunktiv II: „Ich {19} gern einen Kaffee." (hätte / wäre / würde)
-      19. (A2/10) „Ich fahre {20} Schweiz." (nach / in die)
-      20. Translate: 'Before I came to Berlin, I had never spoken German.' → {21}
+      13. „Gestern {14} (arbeiten, Präteritum) ich 8 Stunden."
+      14. (A2/11) Akkusativ + Dativ Pronomen: „Ich gebe es {15}." (replace: meinem Bruder)
+      15. (A2/09) Konjunktiv II: „Ich {16} gern einen Kaffee." (hätte / wäre / würde)
+      16. (A2/10) „Ich fahre {17} Schweiz." (nach / in die)
+      17. Translate: 'Before I came to Berlin, I had never spoken German.' → {18}
     answers:
       "1": war
       "2": musste
@@ -949,14 +944,11 @@ exercises:
       "11": "Ich hatte eine kleine Wohnung."
       "12": "Wir zogen 2015 nach Wien."
       "13": "Bevor ich nach Berlin kam, hatte ich in München studiert."
-      "14": "(eigene Antwort — Satz 1)"
-      "15": "(eigene Antwort — Satz 2)"
-      "16": "(eigene Antwort — Satz 3)"
-      "17": arbeitete
-      "18": "ihm"
-      "19": hätte
-      "20": "in die"
-      "21": "Bevor ich nach Berlin kam, hatte ich nie Deutsch gesprochen."
+      "14": arbeitete
+      "15": "ihm"
+      "16": hätte
+      "17": "in die"
+      "18": "Bevor ich nach Berlin kam, hatte ich nie Deutsch gesprochen."
     alts:
       "8":
         - word: Früher
@@ -964,3 +956,21 @@ exercises:
       "9":
         - word: Damals
           note: "Both `Früher` and `Damals` fit; `Früher` is the more natural habitual contrast to `Heute`."
+
+  - id: D5
+    block: D
+    type: free-write
+    title: "Mini-Geschichte: Früher und heute"
+    instructions: "Schreib eine Mini-Geschichte in 3 Sätzen: Wie war dein Leben früher, wie ist es heute? Benutze das Präteritum und mindestens einen Zeitkonnektor."
+    instructionsEn: "Write a 3-sentence mini story: what was your life like before, and what is it like today? Use the Präteritum and at least one time connector."
+    prompt: "Früher und heute — erzähl in 3 Sätzen."
+    minSentences: 3
+    use:
+      - "Präteritum (war, hatte, wohnte …)"
+      - "ein Zeitkonnektor (zuerst, dann, danach, später, schließlich)"
+      - "früher / damals ↔ heute"
+    selfCheck:
+      - "Stehen die Verben der Vergangenheit im Präteritum?"
+      - "Steht das Verb nach dem Zeitkonnektor auf Position 2?"
+      - "Gibt es einen klaren Kontrast zwischen früher und heute?"
+    model: "Früher wohnte ich in einer kleinen Wohnung in Moabit. Damals hatte ich wenig Geld und fuhr jeden Tag mit dem Bus zur Arbeit. Heute wohne ich mit meiner Partnerin zusammen und fahre mit dem Rad."

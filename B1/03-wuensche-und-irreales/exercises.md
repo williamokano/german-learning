@@ -513,7 +513,7 @@ Wiederholung früherer Lektionen. 10 Aufgaben.
 14. Es ______ besser, wenn du früher ______. (sein / anfangen)
 
 **Fehler finden:**
-15. Wenn ich würde frei sein, würde ich reisen. Was ist falsch? → ______
-16. Ich würde haben gern mehr Zeit. Was ist falsch? → ______
+15. Korrigiere: „Wenn ich würde frei sein, würde ich reisen.“ → ______
+16. Korrigiere: „Ich würde haben gern mehr Zeit.“ → ______
 
 _16+ / 20 → Lektion B1/04. Below 16: redo Block A1–A6 and B2 (Finde den Fehler) tomorrow, then retest D4._

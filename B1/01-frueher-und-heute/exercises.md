@@ -446,7 +446,7 @@ Wiederholung früherer Lektionen. 10 Aufgaben.
 9. „Ich schenke ______." (replace both nouns in „Ich schenke meiner Schwester das Buch.")
 10. (A2/11) „Er ______ (erklären) den Schülern die Regel." (conjugated form)
 
-## Übung D4 — Selbsttest (score yourself /20)
+## Übung D4 — Selbsttest (score yourself /18)
 
 **Präteritum — fill the form:**
 1. „Ich ______ (sein) 22, als ich nach Berlin kam."
@@ -472,16 +472,27 @@ Wiederholung früherer Lektionen. 10 Aufgaben.
 11. „We moved to Vienna in 2015." → ______
 12. „Before I came to Berlin, I had studied in Munich." → ______
 
-**Mini-Story (3 Sätze):**
-13. ______
-14. ______
-15. ______
-
 **Gemischtes:**
-16. „Gestern ______ (arbeiten, Präteritum) ich 8 Stunden."
-17. (A2/11) Akkusativ + Dativ Pronomen: „Ich gebe es ______." (replace: meinem Bruder)
-18. (A2/09) Konjunktiv II: „Ich ______ gern einen Kaffee." (hätte / wäre / würde)
-19. (A2/10) „Ich fahre ______ Schweiz." (nach / in die)
-20. Translate: 'Before I came to Berlin, I had never spoken German.' → ______
+13. „Gestern ______ (arbeiten, Präteritum) ich 8 Stunden."
+14. (A2/11) Akkusativ + Dativ Pronomen: „Ich gebe es ______." (replace: meinem Bruder)
+15. (A2/09) Konjunktiv II: „Ich ______ gern einen Kaffee." (hätte / wäre / würde)
+16. (A2/10) „Ich fahre ______ Schweiz." (nach / in die)
+17. Translate: 'Before I came to Berlin, I had never spoken German.' → ______
 
-_16+ / 20 → Lektion B1/02. Below 16 → redo Block A (A1–A4) and Block B2 (Finde den Fehler) tomorrow, then retest D4._
+_15+ / 18 → Lektion B1/02. Below 15 → redo Block A (A1–A4) and Block B2 (Finde den Fehler) tomorrow, then retest D4._
+
+## Übung D5 — Mini-Geschichte: Früher und heute
+
+Schreib eine Mini-Geschichte in 3 Sätzen: Wie war dein Leben früher, wie ist es heute? Benutze das Präteritum und mindestens einen Zeitkonnektor.
+
+**Your task:** Früher und heute — erzähl in 3 Sätzen.
+
+Use:
+- [ ] Präteritum (war, hatte, wohnte …)
+- [ ] ein Zeitkonnektor (zuerst, dann, danach, später, schließlich)
+- [ ] früher / damals ↔ heute
+
+Self-check:
+- [ ] Stehen die Verben der Vergangenheit im Präteritum?
+- [ ] Steht das Verb nach dem Zeitkonnektor auf Position 2?
+- [ ] Gibt es einen klaren Kontrast zwischen früher und heute?

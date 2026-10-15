@@ -1000,7 +1000,7 @@ exercises:
       "14": Dativ
       "15": "Weil es regnete, blieben wir zu Hause."
       "16": "Obwohl er müde war, arbeitete er weiter."
-      "17": "Wegen der gestiegenen Kosten …"
-      "18": "Nach der Prüfung des Antrags …"
+      "17": ["Wegen der gestiegenen Kosten", "Aufgrund der gestiegenen Kosten", "Infolge der gestiegenen Kosten"]
+      "18": ["Nach der Prüfung des Antrags", "Nach Prüfung des Antrags"]
       "19": um
       "20": das Recyceln

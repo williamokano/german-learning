@@ -40,7 +40,7 @@
 | Nom. | der/ein Mann | die/eine Frau | das/ein Kind | die/– Leute |
 | Akk. | den/einen Mann | die/eine Frau | das/ein Kind | die/– Leute |
 | Dat. | dem/einem Mann | der/einer Frau | dem/einem Kind | den/– Leuten |
-| Gen. | **des/eines Mannes** | **der/einer Frau** | **des/eines Kindes** | **der/– Leute** |
+| Gen. | **des/eines Mannes** (auch richtig: **des Mannes**, **eines Mannes**) | **der/einer Frau** (auch richtig: **der Frau**, **einer Frau**) | **des/eines Kindes** (auch richtig: **des Kindes**, **eines Kindes**) | **der/– Leute** (auch richtig: **der Leute**) |
 
 ## Übung A2 — Genitivartikel einsetzen (des/der/eines/einer/keines/keiner)
 

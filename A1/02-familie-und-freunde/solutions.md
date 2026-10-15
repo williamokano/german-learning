@@ -67,7 +67,7 @@
 
 ## Übung A7 — Zahlen: write as words
 
-1. **einundzwanzig**  2. **dreißig**  3. **sechsunddreißig**  4. **vierundvierzig**  5. **siebenundfünfzig**  6. **sechzig**  7. **achtundsechzig**  8. **fünfundsiebzig**  9. **neunundneunzig**  10. **(ein)hundert**
+1. **einundzwanzig**  2. **dreißig**  3. **sechsunddreißig**  4. **vierundvierzig**  5. **siebenundfünfzig**  6. **sechzig**  7. **achtundsechzig**  8. **fünfundsiebzig**  9. **neunundneunzig**  10. **hundert** (auch richtig: **einhundert**)
 
 ## Übung A8 — Zahlen: write as digits
 
@@ -251,7 +251,7 @@ Selbstkorrektur:
 
 ## Übung D4 — Selbsttest (score yourself /20)
 
-1. **habe**  2. **habt**  3. **hat**  4. **sind**  5. **deine**  6. **unser**  7. **Ihr**  8. **die Brüder**  9. **die Frauen**  10. **die Söhne**  11. **einundzwanzig**  12. **sechzig**  13. **(ein)hundert**  14. **90**  15. **geschieden**  16. **Hast du Geschwister?**  17. **Mein Bruder heißt Tom.**  18. **Ich bin nicht ledig.**  19. **bist**  20. **die Cousine**
+1. **habe**  2. **habt**  3. **hat**  4. **sind**  5. **deine**  6. **unser**  7. **Ihr**  8. **die Brüder**  9. **die Frauen**  10. **die Söhne**  11. **einundzwanzig**  12. **sechzig**  13. **hundert** (auch richtig: **einhundert**)  14. **90**  15. **geschieden**  16. **Hast du Geschwister?**  17. **Mein Bruder heißt Tom.**  18. **Ich bin nicht ledig.**  19. **bist**  20. **die Cousine**
 
 ---
 

@@ -19,6 +19,20 @@
  *               frame already supplies the whole form. There is nothing to
  *               type, so the gap can never be scored correct.
  *
+ *   PROSE       The key is commentary or a placeholder, not an answer: it opens
+ *               with "(", glues an optional part on ("(ein)hundert"), or carries
+ *               "z. B.", "eigene Antwort", "correct:" or "→" (issue #472).
+ *
+ *   ELLIPSIS    The key trails off with "…" / "...", so the full sentence a
+ *               learner writes can never match. (An inner ellipsis joining a
+ *               two-part answer, "um … zu", is fine — grading normalizes it.)
+ *
+ *   SLASH       A scalar key offers two forms as one string ("der/ein Mann"):
+ *               typing either form fails. List them as alternatives instead.
+ *
+ *   Table-fill cells (except printed `given` cells) are checked for EMPTY,
+ *   KEY-PAREN, PROSE, ELLIPSIS and SLASH as well.
+ *
  *   DOUBLE-ART  The answer already carries the article — as a contraction
  *               ("vom", "zum") or as preposition + article ("aus dem") — and
  *               the frame repeats it, so the sentence renders "vom dem Arzt"
@@ -52,6 +66,27 @@ function lessonDirs(): string[] {
 }
 
 const EXPLANATION = /\s\([^)]*\p{L}[^)]*\)|^umstellen:/iu;
+const PROSE = /^\(\p{L}|\p{L}\([^)]*\)\p{L}|z\.\s?B\.|eigene Antwort|\bcorrect:|→/iu;
+// Only a *trailing* ellipsis truncates; an inner one joins a two-part answer
+// ("um … zu"), which grading normalizes away.
+const ELLIPSIS = /(…|\.\.\.)\s*$/;
+const SLASH = /\p{L}\/\p{L}/u;
+
+/** Checks shared by gap answers and table-fill cells; returns problem labels. */
+function keyProblems(value: unknown): string[] {
+  const flat = (Array.isArray(value) ? value : [value]).map(String);
+  const out: string[] = [];
+  if (flat.some((v) => v.trim() === '')) out.push('expected answer is empty — nothing to type');
+  // A list offers variants: a parenthesis or slash in one of them is fine as long
+  // as a plain variant exists. Scalars must be typeable as written.
+  if (typeof value === 'string') {
+    if (EXPLANATION.test(value)) out.push(`key contains an explanation — ${JSON.stringify(value)}`);
+    else if (PROSE.test(value)) out.push(`key is commentary or a placeholder — ${JSON.stringify(value)}`);
+    if (SLASH.test(value)) out.push(`key offers two forms in one string — list them as alternatives: ${JSON.stringify(value)}`);
+  }
+  if (flat.every((v) => ELLIPSIS.test(v))) out.push(`key is cut short with an ellipsis — ${JSON.stringify(flat[0])}`);
+  return out;
+}
 const ARTICLES = new Set(['der', 'die', 'das', 'den', 'dem', 'des']);
 const CONTRACTION = /^(im|am|ins|ans|aufs|zum|zur|vom|beim|fürs|durchs|ums)$/i;
 
@@ -71,17 +106,19 @@ for (const dir of dirs) {
   const rel = path.relative(ROOT, dir);
 
   for (const ex of doc?.exercises ?? []) {
+    if (ex.type === 'table-fill') {
+      for (const row of ex.rows ?? []) {
+        for (const cell of row.cells ?? []) {
+          if (!cell || cell.given) continue;
+          for (const p of keyProblems(cell.answer)) problems.push(`${rel} ${ex.id} cell ${cell.gap}: ${p}`);
+        }
+      }
+      continue;
+    }
     if (ex.type !== 'gap-text' && ex.type !== 'gap-bank') continue;
     const text: string = ex.text ?? '';
     for (const [key, value] of Object.entries(ex.answers ?? {})) {
-      // A parenthesis inside a list is an accepted variant, not a trap.
-      const flat = (Array.isArray(value) ? value : [value]).map(String);
-      if (flat.some((v) => v.trim() === '')) {
-        problems.push(`${rel} ${ex.id} answer "${key}": expected answer is empty — nothing to type`);
-      }
-      if (typeof value === 'string' && EXPLANATION.test(value)) {
-        problems.push(`${rel} ${ex.id} answer "${key}": key contains an explanation — ${JSON.stringify(value)}`);
-      }
+      for (const p of keyProblems(value)) problems.push(`${rel} ${ex.id} answer "${key}": ${p}`);
       const first = String(Array.isArray(value) ? value[0] : value);
       const line = text.split('\n').find((l) => l.includes(`{${key}}`)) ?? '';
       const hint = line.match(/\(([^()→]{1,40})\s*→\s*\?\)/);

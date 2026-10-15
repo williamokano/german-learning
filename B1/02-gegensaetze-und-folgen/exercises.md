@@ -78,10 +78,10 @@ Ergänze die Tabelle. Markiere für jeden Konnektor: (a) die Art (Konj. = Konjun
 
 | Konnektor | Typ | Verbstellung | Beispiel |
 |---|---|---|---|
-| obwohl | ______ | ______ | ______ |
-| trotzdem | ______ | ______ | ______ |
-| deshalb | ______ | ______ | ______ |
-| zwar … aber | ______ | ______ | ______ |
+| obwohl | ______ | ______ | Er bleibt, obwohl er Berlin liebt. |
+| trotzdem | ______ | ______ | Er liebt Berlin. Trotzdem bleibt er. |
+| deshalb | ______ | ______ | Er liebt Prag. Deshalb bleibt er. |
+| zwar … aber | ______ | ______ | Er ist zwar müde, aber er kommt. |
 
 ## Übung A2 — `obwohl` — Verb ans Ende
 
