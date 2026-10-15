@@ -60,10 +60,17 @@
     }
   }
 
+  // Screen-reader confirmation of the last placement ("‚Apfel' → Obst").
+  let announce = $state('');
+
+  // Fires for a click anywhere in the bucket, including Enter/Space on its header
+  // button (the keyboard path, issue #474) — the event bubbles up to here.
   function clickBucket(bucketKey: string, e: MouseEvent) {
     // Prevent triggering when clicking a token inside the bucket
     if ((e.target as HTMLElement).closest('.token')) return;
     if (graded || selected === null) return;
+    const label = exercise.buckets.find(b => b.key === bucketKey)?.label ?? bucketKey;
+    announce = `„${exercise.tokens[Number(selected)].text}“ → ${label}`;
     placed = { ...placed, [selected]: bucketKey };
     selected = null;
   }
@@ -96,10 +103,11 @@
 
 <div class="categorize">
   {#if !graded && selected !== null}
-    <p class="hint">Jetzt eine Kategorie anklicken.</p>
+    <p class="hint">Jetzt eine Kategorie wählen.</p>
   {:else if !graded}
-    <p class="hint">Wort auswählen, dann Kategorie anklicken.</p>
+    <p class="hint">Wort auswählen, dann Kategorie wählen.</p>
   {/if}
+  <p class="visually-hidden" aria-live="polite">{announce}</p>
 
   <!-- Token pool -->
   <div class="pool">
@@ -107,6 +115,7 @@
       <button
         type="button"
         class="token {tokenClass(idx)}"
+        aria-pressed={selected === String(idx)}
         onclick={() => clickToken(idx)}
       >{text}</button>
     {/each}
@@ -125,7 +134,12 @@
         role="group"
         aria-label={bucket.label}
       >
-        <div class="bucket-label">{bucket.label}</div>
+        <button
+          type="button"
+          class="bucket-label"
+          disabled={graded || selected === null}
+          aria-label={selected === null ? bucket.label : `„${exercise.tokens[Number(selected)].text}“ in ${bucket.label} einordnen`}
+        >{bucket.label}</button>
         <div class="bucket-content">
           {#each bucketTokens(bucket.key) as { text, idx, tag }}
             <button
@@ -189,8 +203,15 @@
     font-weight: 700;
     font-size: var(--text-base, 0.9375rem);
     border-bottom: 1px solid var(--border, #e2e8f0);
-    pointer-events: none;
+    display: block;
+    width: 100%;
+    text-align: left;
+    border-width: 0 0 1px;
+    font-family: inherit;
+    cursor: inherit;
   }
+  .bucket-label:disabled { opacity: 1; }
+  .bucket-label:focus-visible { outline: 2px solid var(--brand-500, #3562f6); outline-offset: -2px; }
   .bucket-content {
     display: flex;
     flex-wrap: wrap;
