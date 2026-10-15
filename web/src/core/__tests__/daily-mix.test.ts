@@ -387,6 +387,34 @@ describe('selectInterleavedDrills — oldest-lesson edge', () => {
   });
 });
 
+
+describe('selectInterleavedDrills — standalone sets gated by CEFR level (#468)', () => {
+  const tagged = (lesson: string): ExerciseSetEntry => ({
+    id: lesson.toLowerCase() + '/exercises',
+    data: {
+      lesson, title: '', partial: false, exam: null,
+      exercises: [{ id: 'A1', block: 'A', title: 'x', skill: 'article-gender', type: 'single-choice', items: [{ q: 'q', options: [{ key: 'a', text: 'A' }, { key: 'b', text: 'B' }], answer: 'a' }] }] as unknown as ExerciseUnion[],
+    },
+  });
+  const standalone = ['EX/03-deklination-a1', 'EX/04-relativsatz-b2', 'EX/26-erst-schon-noch-b1', 'SIT/03-beim-finanzamt-b1', 'HV/05-radiobeitraege-c1', 'SIT/02-im-supermarkt-a2'].map(tagged);
+  const pool = (current: string) =>
+    selectInterleavedDrills({ currentLessonId: current, exerciseEntries: standalone, size: 50, rng: () => 0.5 })
+      .map(it => it.item.lessonId).sort();
+
+  it('an A1/01 learner gets no B1/B2/C1 standalone drills (regression)', () => {
+    expect(pool('A1/01')).toEqual(['EX/03-deklination-a1']);
+  });
+
+  it('a B1 learner gets standalone drills up to B1, not B2/C1', () => {
+    expect(pool('B1/05')).toEqual(['EX/03-deklination-a1', 'EX/26-erst-schon-noch-b1', 'SIT/02-im-supermarkt-a2', 'SIT/03-beim-finanzamt-b1']);
+  });
+
+  it('ignores standalone ids without a level suffix', () => {
+    const r = selectInterleavedDrills({ currentLessonId: 'C1/12', exerciseEntries: [tagged('EX/99-unlevelled')], size: 5, rng: () => 0.5 });
+    expect(r).toEqual([]);
+  });
+});
+
 describe('selectFehlerbuchItems', () => {
   function fehl(overrides: Partial<FehlerbuchEntry> = {}): FehlerbuchEntry {
     return {
