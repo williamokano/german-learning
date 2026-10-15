@@ -162,6 +162,19 @@ describe('getNextNode', () => {
   });
 });
 
+describe('getNextNode — frontier rule (#466)', () => {
+  const manifest = buildPathManifest({
+    lessons: [1, 2, 3, 4].map(n => LESSON({ id: `a1/0${n}`, lesson: `A1/0${n}`, slug: `0${n}-x`, title: 'T', level: 'A1', number: n })),
+    vocabSets: [1, 2, 3, 4].map(n => SET(`A1/0${n}`, 1)),
+  });
+  it('skips past an earlier gap to the node after the furthest completed one', () => {
+    expect(getNextNode(manifest, new Set(['lesson-pill:A1/02']))?.lessonId).toBe('A1/03');
+  });
+  it('falls back to the first gap when everything after the frontier is done', () => {
+    expect(getNextNode(manifest, new Set(['lesson-pill:A1/03', 'lesson-pill:A1/04']))?.lessonId).toBe('A1/01');
+  });
+});
+
 describe('getProgressStats', () => {
   it('returns done: 0, total: 3, current: A1/01 when none complete', () => {
     const manifest = buildPathManifest({

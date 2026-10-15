@@ -92,7 +92,8 @@ describe('PathService — completion log', () => {
     const completed = path.getCompletedIds();
     expect(completed.has('lesson-pill:A1/01')).toBe(false);
     expect(completed.has('lesson-pill:A1/02')).toBe(true);
-    expect(path.getCurrentNode(manifest)?.lessonId).toBe('A1/01');
+    // Frontier rule: current is the first incomplete node after the furthest done one.
+    expect(path.getCurrentNode(manifest)?.lessonId).toBe('A1/03');
   });
 
   it('round-trips across separate service instances (storage persistence)', () => {
@@ -143,5 +144,34 @@ describe('PathService — defensive against corrupt storage', () => {
     expect(ids.has('lesson-pill:A1/01')).toBe(true);
     expect(ids.has('checkpoint:C1/12')).toBe(true);
     expect(ids.size).toBe(2);
+  });
+});
+
+describe('PathService — completion derived from lesson results (#466)', () => {
+  it('a passed lesson completes its node and advances the current node', () => {
+    const path = new PathService(fakeStorage(), () => ['A1/01']);
+    const manifest = fixtureManifest();
+    expect(path.isComplete('lesson-pill:A1/01')).toBe(true);
+    expect(path.getCurrentNode(manifest)?.lessonId).toBe('A1/02');
+  });
+
+  it('a passed exam completes its checkpoint node', () => {
+    const path = new PathService(fakeStorage(), () => ['A1/14']);
+    expect(path.isComplete('checkpoint-quiz:A1/14')).toBe(true);
+  });
+
+  it('a manual reset overrides a passed result, and can be re-marked', () => {
+    const path = new PathService(fakeStorage(), () => ['A1/01']);
+    path.unmarkComplete('lesson-pill:A1/01');
+    expect(path.isComplete('lesson-pill:A1/01')).toBe(false);
+    path.markComplete('lesson-pill:A1/01');
+    expect(path.isComplete('lesson-pill:A1/01')).toBe(true);
+  });
+
+  it('ignores non-boolean stored marks', () => {
+    const storage = fakeStorage();
+    storage.set('gl:v1:path:completed', { 'lesson-pill:A1/01': 'yes', 'lesson-pill:A1/02': true });
+    const ids = new PathService(storage).getCompletedIds();
+    expect([...ids]).toEqual(['lesson-pill:A1/02']);
   });
 });

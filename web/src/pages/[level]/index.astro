@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import AppShell from '../../layouts/AppShell.astro';
+import { isPruefungstrainingSlug, pathNodeIdFor } from '@core/content/path';
 
 export async function getStaticPaths() {
   const all = await getCollection('lessons');
@@ -34,6 +35,7 @@ const LEVEL_BLURB: Record<string, string> = {
 const sorted = lessons
   .map(e => {
     const slug = e.id.split('/')[1];
+    const lessonId = `${level.toUpperCase()}/${String(e.data.number ?? slug.split('-')[0]).padStart(2, '0')}`;
     return {
       slug,
       number: e.data.number,
@@ -41,6 +43,8 @@ const sorted = lessons
         e.data.title ??
         slug.replace(/^\d+-/, '').replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
       titleEn: e.data.titleEn,
+      lessonId,
+      nodeId: pathNodeIdFor(lessonId, isPruefungstrainingSlug(slug) ? 'checkpoint-quiz' : 'lesson-pill'),
       hasVocab: vocabIds.has(`${level}/${slug}`),
       hasExercises: exerciseIds.has(`${level}/${slug}`),
     };
@@ -65,13 +69,14 @@ const sorted = lessons
 
   <ol class="lesson-list" data-level={level}>
     {sorted.map(l => (
-      <li class="lesson-row card">
+      <li class="lesson-row card" data-lesson-id={l.lessonId} data-node-id={l.nodeId}>
         <a class="lesson-link" href={`${base}/${level}/${l.slug}/`}>
           <span class="lesson-num">{String(l.number ?? '').padStart(2, '0')}</span>
           <span class="lesson-text">
             <span class="lesson-title">{l.title}</span>
             {l.titleEn && <span class="lesson-title-en">{l.titleEn}</span>}
           </span>
+          <span class="lesson-status" hidden></span>
         </a>
         <span class="lesson-actions">
           {l.hasVocab && (
@@ -89,6 +94,25 @@ const sorted = lessons
     ))}
   </ol>
 </AppShell>
+
+<script>
+  // Progress overlay (issue #466): ✓ for completed path nodes, best score otherwise.
+  import { path, progress } from '@core/index';
+
+  const scores = progress.getProgress();
+  for (const row of document.querySelectorAll<HTMLElement>('.lesson-row[data-node-id]')) {
+    const badge = row.querySelector<HTMLElement>('.lesson-status');
+    if (!badge) continue;
+    const done = path.isComplete(row.dataset.nodeId ?? '');
+    const score = scores[row.dataset.lessonId ?? ''];
+    if (!done && !score) continue;
+    const pct = score ? `${Math.round(score.pct * 100)} %` : '';
+    badge.textContent = done ? `✓ ${pct}`.trim() : pct;
+    badge.title = done ? 'Erledigt' : 'Bestes Übungsergebnis';
+    badge.classList.toggle('is-done', done);
+    badge.hidden = false;
+  }
+</script>
 
 <style>
   .level-head {
@@ -168,4 +192,12 @@ const sorted = lessons
     .lesson-row { flex-wrap: wrap; padding-bottom: var(--space-3); }
     .lesson-actions { padding-left: var(--space-4); }
   }
+  .lesson-status {
+    margin-left: auto;
+    flex-shrink: 0;
+    font-size: var(--text-sm);
+    color: var(--text-subtle);
+    font-variant-numeric: tabular-nums;
+  }
+  .lesson-status.is-done { color: var(--ok-fg); font-weight: 600; }
 </style>

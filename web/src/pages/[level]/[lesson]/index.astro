@@ -3,6 +3,8 @@ import { getCollection, render } from 'astro:content';
 import { coreDedupKeysUpTo } from '@core/content/vocab';
 import AppShell from '../../../layouts/AppShell.astro';
 import WortschatzCounter from '../../../components/WortschatzCounter.svelte';
+import LessonDoneToggle from '../../../components/LessonDoneToggle.svelte';
+import { isPruefungstrainingSlug, pathNodeIdFor } from '@core/content/path';
 import '../../../styles/prose.css';
 
 export async function getStaticPaths() {
@@ -52,6 +54,10 @@ const { Content: ShortContent } = shortEntry
 
 // Only h2s make a useful table of contents; h3s would make it noisy.
 const toc = headings.filter(h => h.depth === 2);
+
+// Learning-path node for this lesson (same id buildPathManifest assigns).
+const canonicalLessonId = `${level.toUpperCase()}/${String(lessonNumber ?? lesson.split('-')[0]).padStart(2, '0')}`;
+const pathNodeId = pathNodeIdFor(canonicalLessonId, isPruefungstrainingSlug(lesson) ? 'checkpoint-quiz' : 'lesson-pill');
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
@@ -106,14 +112,15 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
         </section>
       )}
 
-      {hasExercises && (
-        <nav class="lesson-foot">
+      <nav class="lesson-foot">
+        {hasExercises && (
           <a class="btn btn-primary" href={`${base}/${level}/${lesson}/uebungen/`}>
             Zu den Übungen
             <svg viewBox="0 0 24 24" aria-hidden="true" class="btn-i"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
           </a>
-        </nav>
-      )}
+        )}
+        <LessonDoneToggle nodeId={pathNodeId} client:idle />
+      </nav>
     </article>
 
     {toc.length > 0 && (
@@ -240,6 +247,10 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   .view-toggle button:hover:not([aria-pressed="true"]) { color: var(--text); }
 
   .lesson-foot {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-3);
     margin-top: var(--space-7);
     padding-top: var(--space-5);
     border-top: 1px solid var(--border);

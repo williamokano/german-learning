@@ -47,6 +47,13 @@ export class ProgressService {
     return this.storage.get<CourseProgress>(`${NS}:progress`) ?? {};
   }
 
+  /** Canonical ids ("A1/03") of lessons whose exercises or exam were passed. */
+  passedLessonIds(): string[] {
+    return Object.entries(this.getProgress())
+      .filter(([, r]) => r?.passed === true)
+      .map(([lesson]) => lesson);
+  }
+
   isUnlocked(_lesson: string): boolean {
     // Advisory — gate logic implemented in P2; always true for now
     return true;
