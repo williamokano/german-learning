@@ -33,7 +33,7 @@
  * of information. Paragraph breaks in the source are preserved as such.
  */
 
-export type Inline = { text: string; bold: boolean; italic: boolean };
+export type Inline = { text: string; bold: boolean; italic: boolean; code?: true };
 
 /** One rendered line of a passage (already un-wrapped). */
 export type PassageLine = Inline[];
@@ -129,21 +129,25 @@ function isStructuredLine(line: string, prev: Entry | undefined): boolean {
 }
 
 /**
- * Split "a **b** and *c*" into inline runs, marking the bold and italic ones.
- * A lone asterisk (the footnote marker in "Erwachsene* 4,50 €") matches
- * nothing and stays as written.
+ * Split "a **b**, *c* and `d`" into inline runs, marking the bold, italic and
+ * code ones. A lone asterisk (the footnote marker in "Erwachsene* 4,50 €")
+ * matches nothing and stays as written.
  */
 export function parseInline(text: string): Inline[] {
   const out: Inline[] = [];
-  const re = /\*\*([^*]+)\*\*|\*([^*]+)\*/g;
+  const re = /`([^`]+)`|\*\*([^*]+)\*\*|\*([^*]+)\*/g;
   let last = 0;
   let m: RegExpExecArray | null;
   while ((m = re.exec(text)) !== null) {
     if (m.index > last) {
       out.push({ text: text.slice(last, m.index), bold: false, italic: false });
     }
-    const bold = m[1] !== undefined;
-    out.push({ text: bold ? m[1] : m[2], bold, italic: !bold });
+    if (m[1] !== undefined) {
+      out.push({ text: m[1], bold: false, italic: false, code: true });
+    } else {
+      const bold = m[2] !== undefined;
+      out.push({ text: bold ? m[2] : m[3], bold, italic: !bold });
+    }
     last = re.lastIndex;
   }
   if (last < text.length) {

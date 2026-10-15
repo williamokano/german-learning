@@ -230,9 +230,9 @@ Everybody gets sick — and when it happens in a foreign country, it is one of t
 |---|---|
 | **weh tun** ⚠️ | to hurt / to ache |
 | **fühlen (sich fühlen)** | to feel (to feel — reflexive, see note) |
-| **auf|machen** (separable) | to open |
-| **zu|machen** (separable) | to close |
-| **aus|ruhen (sich aus|ruhen)** | to rest |
+| **auf\|machen** (separable) | to open |
+| **zu\|machen** (separable) | to close |
+| **aus\|ruhen (sich aus\|ruhen)** | to rest |
 | **schlafen** ⚠️ | to sleep |
 | **husten** | to cough |
 | **nehmen** ⚠️ | to take (a pill) |

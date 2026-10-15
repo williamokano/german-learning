@@ -219,7 +219,7 @@ Am Abend ist Yusuf erschöpft, aber zufrieden. Die Generalprobe hat ihm gezeigt,
 
 *Setze die fehlenden Wörter ein und prüfe danach mit der Lösung.*
 
-> Wissenschaftlich schreibt man **unpersönlich**: Statt „ich zeige" heißt es „es {1} gezeigt". Vorsichtig formuliert man mit Modalverben wie „{2}" oder Wendungen wie „deutet darauf {3}". Fremde Aussagen gibt man im Konjunktiv {4} wieder: „Der Autor schreibt, der Effekt {5} gering." Der Nominalstil verdichtet Nebensätze zu Nomen, doch zu viele Nomen machen den Text {6}. Wer höflich widerspricht, räumt zuerst etwas ein: „Da haben Sie zwar recht, {7} …".
+> Wissenschaftlich schreibt man **unpersönlich**: Statt „ich zeige" heißt es „es \_\_\_ (1) gezeigt". Vorsichtig formuliert man mit Modalverben wie „\_\_\_ (2)" oder Wendungen wie „deutet darauf \_\_\_ (3)". Fremde Aussagen gibt man im Konjunktiv \_\_\_ (4) wieder: „Der Autor schreibt, der Effekt \_\_\_ (5) gering." Der Nominalstil verdichtet Nebensätze zu Nomen, doch zu viele Nomen machen den Text \_\_\_ (6). Wer höflich widerspricht, räumt zuerst etwas ein: „Da haben Sie zwar recht, \_\_\_ (7) …".
 
 <details>
 <summary>📝 Lösung</summary>

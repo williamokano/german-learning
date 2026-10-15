@@ -156,13 +156,13 @@ German and English (with minor spelling differences). Plural: **die Monate**.
 | Verb | English | Note |
 |---|---|---|
 | **feiern** | to celebrate | regular |
-| **ein|laden** ⚠️ | to invite | separable: ich lade … ein |
+| **ein\|laden** ⚠️ | to invite | separable: ich lade … ein |
 | **schicken** | to send | regular |
 | **gratulieren** | to congratulate | + Dativ: Ich gratuliere **dir**! |
 | **passen** | to suit, to be convenient | + Dativ: Das passt **mir**. |
 | **absagen** ⚠️ | to cancel, decline | separable |
 | **planen** | to plan | regular |
-| **statt|finden** ⚠️ | to take place | separable |
+| **statt\|finden** ⚠️ | to take place | separable |
 | **wünschen** | to wish | Ich wünsche dir alles Gute! |
 
 > ✏️ **Selbsttest Wortschatz:** Cover the German column. Can you recall all words from memory? Aim for ≥80% before moving to the exercises.

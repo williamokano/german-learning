@@ -1,4 +1,5 @@
 <script lang="ts">
+  import InlineText from './InlineText.svelte';
   import type { ItemResult } from '@core/content/types';
   import type { ExerciseUnion } from '@core/content/types';
   import InstructionBlocks from './InstructionBlocks.svelte';
@@ -119,7 +120,7 @@
 </script>
 
 <section class="exercise-shell">
-  <h2 class="exercise-title">Übung {exercise.id} — {exercise.title}</h2>
+  <h2 class="exercise-title">Übung {exercise.id} — <InlineText text={exercise.title} /></h2>
   {#if exercise.instructions}
     <div class="exercise-instructions">
       <InstructionBlocks source={exercise.instructions} />

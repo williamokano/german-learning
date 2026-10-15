@@ -1,4 +1,5 @@
 <script lang="ts">
+  import InlineText from '../InlineText.svelte';
   import { onMount } from 'svelte';
   import type { ItemResult } from '@core/content/types';
   import type { SingleChoiceExercise } from '@core/content/types';
@@ -78,7 +79,7 @@
           <audio-play data-src="{audioDir}{item.audio}" data-enable-replay="1" data-replay-limit="2"></audio-play>
         </div>
       {/if}
-      <p class="question" id="{exercise.id}-{i}-q"><strong>{i + 1}.</strong> {item.q}</p>
+      <p class="question" id="{exercise.id}-{i}-q"><strong>{i + 1}.</strong> <InlineText text={item.q} /></p>
       <div class="options" role="radiogroup" aria-labelledby="{exercise.id}-{i}-q">
         {#each item.options as opt}
           <label class="option {optionClass(i, opt.key)}">

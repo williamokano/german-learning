@@ -1,4 +1,5 @@
 <script lang="ts">
+  import InlineText from '../InlineText.svelte';
   import { onMount } from 'svelte';
   import { checkTextDetail } from '@core/engine/grading';
   import type { ItemResult } from '@core/content/types';
@@ -99,7 +100,7 @@
   <p class="text-block">
     {#each segments as seg}
       {#if seg.type === 'text'}
-        {seg.value}
+        <InlineText text={seg.value} />
       {:else}
         {@const r = resultFor(seg.key)}
         <span class="gap-wrap" class:long={answerLength(seg.key) > LONG_ANSWER}>

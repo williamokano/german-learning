@@ -177,7 +177,7 @@ neuter get a new form: `des / eines / keines`.
 
 **Noun endings in the Genitiv:**
 - **Masculine and neuter nouns** add **`-es`** (after sibilants s, ß, z, x: mandatory) or **`-s`** (after most other consonants and vowels). Rule of thumb: one syllable → `-es` (des Mann**es**, des Kind**es**, des Haus**es**); longer words → `-s` (des Vater**s**, des Lehr**ers**).
-- **Feminine and plural nouns** add **nothing** (des Frau**→**, der Leute**→**).
+- **Feminine and plural nouns** add **nothing** (die Frau → **der Frau**, die Leute → **der Leute**).
 
 **Examples from the dialogs:**
 

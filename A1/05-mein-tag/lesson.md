@@ -453,7 +453,7 @@ How do you know a verb is separable? The prefix carries the **stress**: **AUF**s
 
 **Warum?** German strong verbs often change their stem vowel in the 2nd and 3rd person singular — you saw this in Lektion 1 with *sprechen → du sprichst, er spricht* (e→i). Now you meet the *a→ä* pattern. *Schlafen* and *anfangen* change their *a* to *ä* in the *du* and *er/sie/es* forms. The rule is always the same: only *du* and *er/sie/es* trigger the change — *ich*, *wir*, *ihr*, and *sie/Sie* all keep the original vowel. The hardest part is remembering which verbs do this. The good news is they always stress the changed vowel (*du SCHLÄFST, er SCHLÄFT*), so you hear the difference clearly. And *fernsehen* combines both features: it is separable AND has an *e→ie* change (*du siehst fern, er sieht fern*).
 
-| | schlafen | an|fangen |
+| | schlafen | an\|fangen |
 |---|---|---|
 | ich | schlafe | fange … an |
 | du | **schläfst** | **fängst** … an |

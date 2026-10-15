@@ -1,4 +1,5 @@
 <script lang="ts">
+  import InlineText from '../InlineText.svelte';
   import { onMount } from 'svelte';
   import { checkBank } from '@core/engine/grading';
   import type { ItemResult } from '@core/content/types';
@@ -110,7 +111,7 @@
   <p class="text-block">
     {#each segments as seg}
       {#if seg.type === 'text'}
-        {seg.value}
+        <InlineText text={seg.value} />
       {:else}
         {@const placedIdx = placed[seg.key] ?? null}
         {@const word = placedIdx !== null ? exercise.bank[placedIdx] : null}

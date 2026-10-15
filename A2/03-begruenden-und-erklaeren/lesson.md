@@ -381,9 +381,9 @@ Die beiden sind sich einig, dass der Kurs bei Frau Weber sehr gut ist. Bruno gla
 Am Ende trinken sie noch einen Kaffee. Bruno sagt, dass er das Gespräch sehr interessant fand — darum möchte er morgen weiterdiskutieren. Anna lacht: „Klar! Aber dann sprechen wir auf Deutsch — kein Englisch erlaubt."
 
 \* **Chunk alerts (forward-reference):** The italicised phrases use structures
-from later lessons — *auch wenn\* (B1/02: concessive subordinator),
-*seine Heimatstadt\* (A2/13: relative clauses), *wo\* (A2/13: relative
-pronoun for places), *nicht nur … sondern auch\* (B1/02: two-part connector).
+from later lessons — *auch wenn*\* (B1/02: concessive subordinator),
+*seine Heimatstadt*\* (A2/13: relative clauses), *wo*\* (A2/13: relative
+pronoun for places), *nicht nur … sondern auch*\* (B1/02: two-part connector).
 Read these as fixed chunks for now — you'll meet the grammar in the named lesson.
 
 ---
@@ -413,7 +413,7 @@ Das erklärt auch, warum Verspätungen im Berufsleben heikel sind. Ein Bewerbung
 
 Trotzdem: Wer aus einem anderen Land kommt, braucht Zeit. Die meisten Deutschen verstehen das — und erklären es gern.
 
-\* **Chunk alert:** *das\* here is a relative pronoun (A2/13) — read as a fixed
+\* **Chunk alert:** *das*\* here is a relative pronoun (A2/13) — read as a fixed
 chunk for now: "a job interview that is scheduled for 10 o'clock". You'll meet
 relative clauses in full in A2/13.
 

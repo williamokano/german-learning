@@ -393,3 +393,13 @@ describe('hasPassage', () => {
     expect(hasPassage('Wähle a, b oder c.')).toBe(false);
   });
 });
+
+describe('parseInline — code runs (#477)', () => {
+  it('marks backtick runs as code', () => {
+    expect(parseInline('Übung `würde + Infinitiv` jetzt')).toEqual([
+      { text: 'Übung ', bold: false, italic: false },
+      { text: 'würde + Infinitiv', bold: false, italic: false, code: true },
+      { text: ' jetzt', bold: false, italic: false },
+    ]);
+  });
+});

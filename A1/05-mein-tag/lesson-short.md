@@ -251,7 +251,7 @@ ihr arbeit**et**. Same family: finden, kosten, and later antworten.
 
 Like e→i (sprechen, essen, nehmen), some a-verbs take an umlaut for du/er:
 
-| | schlafen | an|fangen |
+| | schlafen | an\|fangen |
 |---|---|---|
 | ich | schlafe | fange … an |
 | du | **schläfst** | **fängst** … an |
