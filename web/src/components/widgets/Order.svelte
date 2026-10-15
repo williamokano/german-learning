@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import { checkOrder } from '@core/engine/grading';
+  import { checkOrderText } from '@core/engine/grading';
   import type { ItemResult } from '@core/content/types';
   import type { OrderExercise } from '@core/content/types';
   import { progress } from '@core/index';
@@ -34,7 +34,7 @@
     return exercise.items.map((item, i) => {
       const strip = strips[String(i)] ?? [];
       const allPlaced = strip.length === item.tiles.length;
-      const correct = allPlaced && checkOrder(item.answer, strip, item.alt);
+      const correct = allPlaced && checkOrderText(item.tiles, item.answer, strip, item.alt);
       const expectedSentence = item.answer.map(idx => item.tiles[idx]).join(' ');
       const givenSentence = strip.map(idx => item.tiles[idx]).join(' ');
       return {

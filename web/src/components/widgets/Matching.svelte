@@ -48,6 +48,13 @@
     progress.clearAnswers(lessonId, exercise.id);
   }
 
+  // Several left items can share one right item when the answer key says so
+  // (e.g. sort 6 sentences into categories a/b) — issue #469. Otherwise pairing
+  // is one-to-one.
+  const manyToOne = $derived(
+    new Set(Object.values(exercise.answers)).size < Object.values(exercise.answers).length,
+  );
+
   /** Which left item, if any, currently holds this right item. */
   function leftKeyFor(rightKey: string): string | undefined {
     return Object.keys(pairs).find(lk => pairs[lk] === rightKey);
@@ -55,9 +62,11 @@
 
   function link(leftKey: string, rightKey: string) {
     const next = { ...pairs };
-    // A right item belongs to one left item at a time — release its old owner.
-    for (const lk of Object.keys(next)) {
-      if (next[lk] === rightKey) next[lk] = null;
+    // One-to-one: a right item belongs to one left item at a time — release its old owner.
+    if (!manyToOne) {
+      for (const lk of Object.keys(next)) {
+        if (next[lk] === rightKey) next[lk] = null;
+      }
     }
     next[leftKey] = rightKey;
     pairs = next;
@@ -80,9 +89,11 @@
 
   function clickRight(key: string) {
     if (graded) return;
-    const owner = leftKeyFor(key);
-    if (owner !== undefined) { unlink(owner); active = null; return; }
     if (active?.side === 'left') { link(active.key, key); return; }
+    // One-to-one: clicking a paired right item breaks its pair. Many-to-one: pairs
+    // are broken from the left side, since a right item can have several owners.
+    const owner = manyToOne ? undefined : leftKeyFor(key);
+    if (owner !== undefined) { unlink(owner); active = null; return; }
     active = active?.key === key ? null : { side: 'right', key };
   }
 

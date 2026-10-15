@@ -36,7 +36,7 @@
       const placedWord = placedIdx !== null ? exercise.bank[placedIdx] : null;
       return {
         ref: key,
-        correct: checkBank(expectedWord, placedWord),
+        correct: checkBank(expected, placedWord),
         given: placedWord ?? '',
         expected: expectedWord,
         scoreable: true,
