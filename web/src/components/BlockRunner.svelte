@@ -68,7 +68,7 @@
 
   <div class="runner-footer" role="status">
     <div class="summary" class:passed={complete && summary?.passed} class:failed={complete && summary && !summary.passed}>
-      <span class="summary-count">{checked.length} / {scoredIds.length} Übungen geprüft</span>
+      <span class="summary-count">{checked.length} / {scoredIds.length}<span class="wide-only"> Übungen</span> geprüft</span>
       {#if summary}
         <span class="summary-pct">{pctLabel} richtig</span>
       {/if}
@@ -87,9 +87,9 @@
     {/if}
     <div class="actions">
       {#if !complete}
-        <button type="button" class="btn btn-primary" onclick={checkAll}>Alle bearbeiteten prüfen</button>
+        <button type="button" class="btn btn-primary" onclick={checkAll}>Alle<span class="wide-only"> bearbeiteten</span> prüfen</button>
       {/if}
-      <button type="button" class="btn btn-ghost" onclick={resetAll}>Alles zurücksetzen</button>
+      <button type="button" class="btn btn-ghost" onclick={resetAll}><span class="wide-only">Alles </span>Zurücksetzen</button>
     </div>
   </div>
 </div>
@@ -118,4 +118,14 @@
   .summary.failed .summary-pct, .summary.failed .summary-verdict { color: var(--err-fg); }
   .by-block { display: flex; flex-wrap: wrap; gap: var(--space-4); font-size: var(--text-sm); color: var(--text-subtle); }
   .actions { display: flex; flex-wrap: wrap; gap: var(--space-3); }
+  /* Phones: keep the sticky bar short so it doesn't eat the exercise. */
+  @media (max-width: 600px) {
+    .runner-footer { flex-direction: row; flex-wrap: wrap; align-items: center; gap: var(--space-2); padding: var(--space-2) var(--space-3); }
+    .summary { gap: var(--space-2); font-size: var(--text-sm); }
+    .summary-pct { font-size: var(--text-base); }
+    .by-block { display: none; }
+    .actions { margin-left: auto; gap: var(--space-2); }
+    .actions .btn { padding: 0.3rem 0.7rem; font-size: var(--text-sm); }
+    .wide-only { display: none; }
+  }
 </style>

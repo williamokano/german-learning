@@ -24,14 +24,18 @@
 </script>
 
 {#if mounted}
-  <span class="wortschatz-counter">
-    <strong>{mastered}</strong> Wörter gelernt
+  <span class="wortschatz-counter" title="{mastered} Wörter gelernt, {seen} gesehen">
+    <strong>{mastered}</strong> Wörter<span class="wortschatz-long"> gelernt</span>
     <span class="wortschatz-seen">({seen} gesehen)</span>
   </span>
 {/if}
 
 <style>
-  .wortschatz-counter { font-size: 0.875rem; color: #374151; white-space: nowrap; }
-  .wortschatz-counter strong { color: #2563eb; }
-  .wortschatz-seen { color: #6b7280; }
+  .wortschatz-counter { font-size: 0.875rem; color: var(--text-muted); white-space: nowrap; }
+  .wortschatz-counter strong { color: var(--brand-600); }
+  .wortschatz-seen { color: var(--text-subtle); }
+  /* Phones: "12 Wörter" only — the full text pushed the topbar past the
+     viewport and the theme toggle off-screen (issue #473). */
+  @media (max-width: 900px) { .wortschatz-seen { display: none; } }
+  @media (max-width: 480px) { .wortschatz-long { display: none; } }
 </style>
