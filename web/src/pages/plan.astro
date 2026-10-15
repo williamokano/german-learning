@@ -1,11 +1,12 @@
 ---
 import { getCollection } from 'astro:content';
+import { projectLessonEntries, projectVocabSets } from '@core/content/lessons';
 import StudyPlanView from '../components/StudyPlanView.svelte';
 import { buildPathManifest } from '@core/content/path';
 import AppShell from '../layouts/AppShell.astro';
 
-// F14 /plan — exam-date study plan (issue #347). Reuses F9's path manifest
-// projection verbatim (see path.astro) so the two pages never drift on how a
+// F14 /plan — exam-date study plan (issue #347). Uses the same path manifest
+// projection as path.astro (@core/content/lessons) so the two pages never drift on how a
 // lesson entry maps to a PathNode.
 
 const [lessons, vocab] = await Promise.all([
@@ -13,29 +14,8 @@ const [lessons, vocab] = await Promise.all([
   getCollection('vocab'),
 ]);
 
-const lessonsProjected = lessons
-  .map(e => {
-    const idSegments = e.id.split('/');
-    const levelRaw = e.data.level ?? idSegments[0] ?? '';
-    const slugRaw = e.data.slug ?? idSegments[1] ?? '';
-    const level = levelRaw.toUpperCase();
-    const number = e.data.number;
-    if (!level || !slugRaw || number == null) return null;
-    return {
-      id: e.id,
-      data: {
-        lesson: `${level}/${String(number).padStart(2, '0')}`,
-        slug: slugRaw,
-        title: e.data.title ?? '(unbenannt)',
-        level: level,
-        number,
-      },
-    };
-  })
-  .filter((x): x is NonNullable<typeof x> => x !== null);
-const vocabProjected = vocab.map(e => ({
-  id: e.id, lesson: e.data.lesson, entries: e.data.entries,
-}));
+const lessonsProjected = projectLessonEntries(lessons);
+const vocabProjected = projectVocabSets(vocab);
 
 const manifest = buildPathManifest({ lessons: lessonsProjected, vocabSets: vocabProjected });
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');

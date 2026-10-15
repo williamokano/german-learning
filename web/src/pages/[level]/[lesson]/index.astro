@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import { coreDedupKeysUpTo } from '@core/content/vocab';
+import { lessonRoute } from '@core/content/lessons';
 import AppShell from '../../../layouts/AppShell.astro';
 import WortschatzCounter from '../../../components/WortschatzCounter.svelte';
 import '../../../styles/prose.css';
@@ -15,9 +16,7 @@ export async function getStaticPaths() {
   const vocabSets = allVocab.map(e => e.data);
 
   return allLessons.map(entry => {
-    const parts = entry.id.split('/');
-    const level = parts[0] ?? 'a1';
-    const slug = parts[1] ?? entry.id;
+    const { level, slug } = lessonRoute(entry.id);
     const lessonKey = `${level}/${slug}`;
     const shortId = `${level}/${slug}/lesson-short`;
     const shortEntry = allShort.find(e => e.id === shortId) ?? null;

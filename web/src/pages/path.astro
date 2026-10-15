@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { projectLessonEntries, projectVocabSets } from '@core/content/lessons';
 import PathMap from '../components/PathMap.svelte';
 import { buildPathManifest } from '@core/content/path';
 import AppShell from '../layouts/AppShell.astro';
@@ -13,42 +14,10 @@ const [lessons, vocab] = await Promise.all([
   getCollection('vocab'),
 ]);
 
-// `lesson.md` frontmatter carries `level` + `slug` + `number` but NOT the canonical
-// `lesson` id (e.g. "A1/03") — that field lives on vocab.yml and exercises.yml.
-// Derive it here so `buildPathManifest`'s projection can match against the vocab
-// set's `data.lesson`. Uses `data.number` directly (padded) instead of parsing
-// `slug.split('-')[0]`, which would break on Prüfungstraining slugs like
-// `pruefungstraining-a1` (first dash-segment is "pruefungstraining", not "14").
-//
-// Robustness: some lessons (e.g. A1/01) are missing `level:` and/or `slug:` in
-// frontmatter — fall back to deriving both from the entry id so the projection
-// never silently drops a lesson.
-const lessonsProjected = lessons
-  .map(e => {
-    const idSegments = e.id.split('/');
-    const levelRaw = e.data.level ?? idSegments[0] ?? '';
-    const slugRaw = e.data.slug ?? idSegments[1] ?? '';
-    const level = levelRaw.toUpperCase();
-    const number = e.data.number;
-    if (!level || !slugRaw || number == null) return null;
-    return {
-      id: e.id,
-      data: {
-        lesson: `${level}/${String(number).padStart(2, '0')}`,
-        slug: slugRaw,
-        title: e.data.title ?? '(unbenannt)',
-        // path.ts's projectLesson gates `level` against /^[A-C][12]$/ (uppercase only).
-        // Always store the uppercased form so lessons with lowercase `level:` frontmatter
-        // (or none at all, like A1/01) survive the projection.
-        level: level,
-        number,
-      },
-    };
-  })
-  .filter((x): x is NonNullable<typeof x> => x !== null);
-const vocabProjected = vocab.map(e => ({
-  id: e.id, lesson: e.data.lesson, entries: e.data.entries,
-}));
+// Lesson and vocab projection is shared with /today, /plan and /einstufungstest
+// (@core/content/lessons) so their links always match the lesson routes.
+const lessonsProjected = projectLessonEntries(lessons);
+const vocabProjected = projectVocabSets(vocab);
 
 const manifest = buildPathManifest({ lessons: lessonsProjected, vocabSets: vocabProjected });
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
