@@ -1,10 +1,14 @@
 <script lang="ts">
   import type { ExerciseUnion } from '@core/content/types';
   import type { ExerciseScore } from '@core/engine/scoring';
-  import type { Block } from '@core/content/types';
-  import { aggregateLesson, type LessonScore } from '@core/engine/scoring';
-  import { progress, fehlerbuch } from '@core/index';
+  import { aggregateLesson, PASS_THRESHOLD } from '@core/engine/scoring';
+  import { progress } from '@core/index';
   import ExerciseShell from './ExerciseShell.svelte';
+
+  // Lesson exercise page (#470). Each exercise is checked on its own ("Prüfen" in
+  // ExerciseShell); this runner only aggregates. Untouched exercises are "not yet
+  // checked", never wrong, and a lesson result is recorded only once every scored
+  // exercise has been checked — one perfect exercise must not pass the lesson.
 
   let {
     exercises,
@@ -18,41 +22,35 @@
     level?: string;
   } = $props();
 
-  let graded = $state(false);
-  let lessonScore: LessonScore | null = $state(null);
-  // Plain array — only accessed imperatively in auswerten/reset, not in templates
-  let shellRefs: Array<{ check(): ReturnType<ExerciseShell['check']>; reset(): void }> = [];
+  const scoredIds = exercises
+    .filter(e => e.type !== 'free-write' && e.type !== 'speaking-prompt')
+    .map(e => e.id);
 
-  function auswerten() {
-    const scores: ExerciseScore[] = [];
-    for (let i = 0; i < exercises.length; i++) {
-      const shell = shellRefs[i];
-      if (!shell) continue;
-      const results = shell.check();
-      const scoreable = results.filter(r => r.scoreable);
-      fehlerbuch.captureExerciseResults(lessonId, exercises[i], scoreable);
-      scores.push({
-        id: exercises[i].id,
-        block: exercises[i].block as Block,
-        correct: scoreable.filter(r => r.correct).length,
-        scoreable: scoreable.length,
-      });
+  let checks: Record<string, ExerciseScore> = $state({});
+  let shellRefs: Array<{ checkIfAttempted(): boolean; resetAll(): void }> = [];
+
+  const checked = $derived(scoredIds.filter(id => checks[id]).map(id => checks[id]));
+  const summary = $derived(checked.length ? aggregateLesson(lessonId, checked) : null);
+  const complete = $derived(checked.length === scoredIds.length && scoredIds.length > 0);
+  const pctLabel = $derived(summary ? `${Math.round(summary.pct * 100)} %` : '');
+
+  function onChecked(id: string, score: ExerciseScore | null): void {
+    const next = { ...checks };
+    if (score) next[id] = score; else delete next[id];
+    checks = next;
+    const ids = scoredIds.filter(x => next[x]);
+    if (score && ids.length === scoredIds.length) {
+      progress.recordResult(lessonId, aggregateLesson(lessonId, ids.map(x => next[x])));
     }
-    const score = aggregateLesson(lessonId, scores);
-    progress.recordResult(lessonId, score);
-    lessonScore = score;
-    graded = true;
   }
 
-  function nochmal() {
-    graded = false;
-    lessonScore = null;
-    for (const shell of shellRefs) shell?.reset();
+  function checkAll(): void {
+    for (const shell of shellRefs) shell?.checkIfAttempted();
   }
 
-  const pctLabel = $derived(
-    lessonScore ? `${Math.round(lessonScore.pct * 100)} %` : ''
-  );
+  function resetAll(): void {
+    for (const shell of shellRefs) shell?.resetAll();
+  }
 </script>
 
 <div class="block-runner">
@@ -60,90 +58,64 @@
     <ExerciseShell
       bind:this={shellRefs[i]}
       {exercise}
-      {graded}
       {lessonId}
       {audioDir}
       {level}
+      standalone
+      onChecked={score => onChecked(exercise.id, score)}
     />
   {/each}
 
-  <div class="runner-footer">
-    {#if !graded}
-      <button type="button" class="btn-auswerten" onclick={auswerten}>
-        Auswerten
-      </button>
-    {:else}
-      <div class="score-panel">
-        <div class="score-summary" class:passed={lessonScore?.passed} class:failed={lessonScore && !lessonScore.passed}>
-          <span class="score-pct">{pctLabel}</span>
-          <span class="score-verdict">
-            {#if lessonScore?.passed}
-              ✓ Bestanden
-            {:else}
-              ✗ Noch nicht bestanden (Ziel: 80 %)
-            {/if}
-          </span>
-        </div>
-        {#if lessonScore && lessonScore.byBlock.length > 1}
-          <div class="score-by-block">
-            {#each lessonScore.byBlock as b}
-              <span class="block-score">Block {b.block}: {b.correct}/{b.scoreable}</span>
-            {/each}
-          </div>
-        {/if}
-        <button type="button" class="btn-reset" onclick={nochmal}>Nochmal</button>
+  <div class="runner-footer" role="status">
+    <div class="summary" class:passed={complete && summary?.passed} class:failed={complete && summary && !summary.passed}>
+      <span class="summary-count">{checked.length} / {scoredIds.length} Übungen geprüft</span>
+      {#if summary}
+        <span class="summary-pct">{pctLabel} richtig</span>
+      {/if}
+      {#if complete && summary}
+        <span class="summary-verdict">
+          {summary.passed ? '✓ Bestanden' : `✗ Noch nicht bestanden (Ziel: ${PASS_THRESHOLD * 100} %)`}
+        </span>
+      {/if}
+    </div>
+    {#if summary && summary.byBlock.length > 1}
+      <div class="by-block">
+        {#each summary.byBlock as b}
+          <span>Block {b.block}: {b.correct}/{b.scoreable}</span>
+        {/each}
       </div>
     {/if}
+    <div class="actions">
+      {#if !complete}
+        <button type="button" class="btn btn-primary" onclick={checkAll}>Alle bearbeiteten prüfen</button>
+      {/if}
+      <button type="button" class="btn btn-ghost" onclick={resetAll}>Alles zurücksetzen</button>
+    </div>
   </div>
 </div>
 
 <style>
   .block-runner { padding-bottom: 2rem; }
-  .runner-footer { margin-top: 2rem; display: flex; justify-content: flex-start; }
-
-  .btn-auswerten {
-    padding: 0.6rem 1.75rem;
-    background: #2563eb;
-    color: #fff;
-    border: none;
-    border-radius: 8px;
-    font-size: 1rem;
-    font-weight: 600;
-    cursor: pointer;
-    transition: background 0.12s;
-  }
-  .btn-auswerten:hover { background: #1d4ed8; }
-
-  .score-panel { display: flex; flex-direction: column; gap: 0.75rem; width: 100%; }
-  .score-summary {
+  .runner-footer {
+    position: sticky;
+    bottom: 0;
+    z-index: 2;
     display: flex;
-    align-items: center;
-    gap: 1rem;
-    padding: 0.85rem 1.25rem;
-    border-radius: 8px;
-    border: 2px solid #e5e7eb;
-    background: #f9fafb;
+    flex-direction: column;
+    gap: var(--space-3);
+    margin-top: var(--space-6);
+    padding: var(--space-4);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    background: var(--surface);
+    box-shadow: var(--shadow);
   }
-  .score-summary.passed { border-color: #16a34a; background: #f0fdf4; }
-  .score-summary.failed { border-color: #dc2626; background: #fef2f2; }
-  .score-pct { font-size: 1.5rem; font-weight: 800; }
-  .score-summary.passed .score-pct { color: #15803d; }
-  .score-summary.failed .score-pct { color: #dc2626; }
-  .score-verdict { font-size: 0.95rem; font-weight: 600; }
-  .score-summary.passed .score-verdict { color: #15803d; }
-  .score-summary.failed .score-verdict { color: #dc2626; }
-
-  .score-by-block { display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.875rem; color: #6b7280; }
-
-  .btn-reset {
-    align-self: flex-start;
-    padding: 0.45rem 1.25rem;
-    background: #f3f4f6;
-    border: 1.5px solid #d1d5db;
-    border-radius: 6px;
-    font-size: 0.9rem;
-    cursor: pointer;
-    transition: background 0.1s;
-  }
-  .btn-reset:hover { background: #e5e7eb; }
+  .summary { display: flex; flex-wrap: wrap; align-items: baseline; gap: var(--space-4); }
+  .summary-count { color: var(--text-muted); }
+  .summary-pct { font-size: var(--text-xl); font-weight: 800; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .summary-verdict { font-weight: 600; }
+  .summary.passed .summary-pct, .summary.passed .summary-verdict { color: var(--ok-fg); }
+  .summary.failed .summary-pct, .summary.failed .summary-verdict { color: var(--err-fg); }
+  .by-block { display: flex; flex-wrap: wrap; gap: var(--space-4); font-size: var(--text-sm); color: var(--text-subtle); }
+  .actions { display: flex; flex-wrap: wrap; gap: var(--space-3); }
 </style>

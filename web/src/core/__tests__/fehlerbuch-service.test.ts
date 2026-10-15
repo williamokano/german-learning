@@ -56,6 +56,15 @@ describe('FehlerbuchService.captureExerciseResults', () => {
     expect(all['A1/03:A2:1'].given).toBe('binn');
   });
 
+  it('skips unanswered items — a blank is not a mistake (#470)', () => {
+    const svc = new FehlerbuchService(fakeStorage(), new SrsService(fakeStorage()));
+    svc.captureExerciseResults('A1/03', gapTextExercise, [
+      result({ ref: '0', correct: false, given: '', expected: 'bin' }),
+      result({ ref: '1', correct: false, given: '   ', expected: 'gut' }),
+    ], NOW);
+    expect(Object.keys(svc.getAll())).toHaveLength(0);
+  });
+
   it('stores the resolved option TEXT for a single-choice mistake, not the raw key', () => {
     const svc = new FehlerbuchService(fakeStorage(), new SrsService(fakeStorage()));
     svc.captureExerciseResults('A1/03', singleChoiceExercise, [
